@@ -3,9 +3,10 @@ title: "Section 27a - Special rules for MA regional plans"
 usc_title: 42
 usc_section: "27a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 27a"
-generated_at: "2026-03-30T02:56:10.980Z"
+generated_at: "2026-11-23T20:27:21.275Z"
+status: "active"
 ---
 
 # § 1395w–27a. Special rules for MA regional plans
@@ -103,3 +104,7 @@ generated_at: "2026-03-30T02:56:10.980Z"
     - **(A)** in 2006, $25,000,000; and
     - **(B)** in each succeeding year the amount specified in this paragraph for the preceding year increased by the market basket percentage increase (as defined in section 1395ww(b)(3)(B)(iii) of this title ) for the fiscal year ending in such succeeding year.
   - **(4)** In this subsection, the term “essential hospital” means, with respect to an MA regional plan offered by an MA organization, a subsection (d) hospital (as defined in section 1395ww(d) of this title ) that the Secretary determines, based upon an application filed by the organization with the Secretary, is necessary to meet the requirements referred to in paragraph (1) for such plan.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1858, as added [Pub. L. 108–173, title II, § 221(c)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2181](https://www.govinfo.gov/link/statute/117/2181); amended [Pub. L. 109–432, div. B, title III, § 301](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 2990](https://www.govinfo.gov/link/statute/120/2990); [Pub. L. 110–48, § 3](https://www.govinfo.gov/link/plaw/110/public/48), July 18, 2007, [121 Stat. 244](https://www.govinfo.gov/link/statute/121/244); [Pub. L. 110–173, title I, § 110](https://www.govinfo.gov/link/plaw/110/public/173), Dec. 29, 2007, [121 Stat. 2497](https://www.govinfo.gov/link/statute/121/2497); [Pub. L. 110–275, title I, § 166](https://www.govinfo.gov/link/plaw/110/public/275), July 15, 2008, [122 Stat. 2575](https://www.govinfo.gov/link/statute/122/2575); [Pub. L. 111–8, div. G, title I, § 1301(f)](https://www.govinfo.gov/link/plaw/111/public/8), Mar. 11, 2009, [123 Stat. 829](https://www.govinfo.gov/link/statute/123/829); [Pub. L. 111–148, title III, § 3201(a)(2)(C)](https://www.govinfo.gov/link/plaw/111/public/148), (f)(2), title X, § 10327(c)(1), Mar. 23, 2010, [124 Stat. 444](https://www.govinfo.gov/link/statute/124/444), 450, 964; [Pub. L. 111–152, title I, § 1102(a)](https://www.govinfo.gov/link/plaw/111/public/152), Mar. 30, 2010, [124 Stat. 1040](https://www.govinfo.gov/link/statute/124/1040).)*

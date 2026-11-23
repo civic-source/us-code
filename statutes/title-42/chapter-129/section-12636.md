@@ -3,9 +3,10 @@ title: "Section 12636 - Notice, hearing, and grievance procedures"
 usc_title: 42
 usc_section: "12636"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12636"
-generated_at: "2026-03-30T02:56:11.421Z"
+generated_at: "2026-11-23T20:27:23.395Z"
+status: "active"
 ---
 
 # § 12636. Notice, hearing, and grievance procedures
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:56:11.421Z"
       - **(iii)** reestablishment of other relevant terms, conditions, and privileges of employment of the displaced employee; and
       - **(iv)** such equitable relief as is necessary to correct any violation of subsection (a) or (b) of section 12637 of this title or to make the displaced employee whole.
   - **(7)** Suits to enforce arbitration awards under this section may be brought in any district court of the United States having jurisdiction of the parties, without regard to the amount in controversy and without regard to the citizenship of the parties.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 176](https://www.govinfo.gov/link/plaw/101/public/610), Nov. 16, 1990, [104 Stat. 3161](https://www.govinfo.gov/link/statute/104/3161); [Pub. L. 103–82, title I, § 116](https://www.govinfo.gov/link/plaw/103/public/82), title IV, § 402(b)(1), Sept. 21, 1993, [107 Stat. 863](https://www.govinfo.gov/link/statute/107/863), 918; [Pub. L. 111–13, title I, § 1604](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1529](https://www.govinfo.gov/link/statute/123/1529).)*

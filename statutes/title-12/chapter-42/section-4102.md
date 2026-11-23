@@ -3,9 +3,10 @@ title: "Section 4102 - Notice of intent"
 usc_title: 12
 usc_section: "4102"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4102"
-generated_at: "2026-03-30T02:53:53.500Z"
+generated_at: "2026-11-23T20:25:59.361Z"
+status: "active"
 ---
 
 # § 4102. Notice of intent
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:53.500Z"
   - **(2)**
     - **(A)** fell into default before, but is current as of, November 28, 1990 ; and
     - **(B)** the owner does not agree to recompense the appropriate Insurance Fund, in the amount the Secretary determines appropriate, for any losses sustained by the Fund as a result of any work-out or other arrangement agreed to by the Secretary and the owner with respect to the defaulted mortgage.
+
+## Source Credit
+
+*([Pub. L. 100–242, title II, § 212](https://www.govinfo.gov/link/plaw/100/public/242), as added [Pub. L. 101–625, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4249](https://www.govinfo.gov/link/statute/104/4249).)*

@@ -3,9 +3,10 @@ title: "Section 20120 - Enforcement report"
 usc_title: 49
 usc_section: "20120"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 20120"
-generated_at: "2026-03-30T02:56:19.335Z"
+generated_at: "2026-11-23T20:27:34.786Z"
+status: "active"
 ---
 
 # § 20120. Enforcement report
@@ -35,3 +36,9 @@ generated_at: "2026-03-30T02:56:19.335Z"
     - **(C)** the Administrator of the Federal Railroad Administration;
   - **(6)** provides an explanation regarding any changes in the Secretary’s or the Federal Railroad Administration’s enforcement programs or policies that may substantially affect the information reported; and
   - **(7)** includes any additional information that the Secretary determines is useful to improve the transparency of its enforcement program.
+
+In General
+
+## Source Credit
+
+*(Added [Pub. L. 110–432, div. A, title III, § 303(a)](https://www.govinfo.gov/link/plaw/110/public/432), Oct. 16, 2008, [122 Stat. 4878](https://www.govinfo.gov/link/statute/122/4878); amended [Pub. L. 114–94, div. A, title XI, § 11316(d)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1676](https://www.govinfo.gov/link/statute/129/1676).)*

@@ -3,9 +3,10 @@ title: "Section 3689 - Approval requirements for licensing and certification tes
 usc_title: 38
 usc_section: "3689"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 3689"
-generated_at: "2026-03-30T02:55:53.509Z"
+generated_at: "2026-11-23T20:27:01.877Z"
+status: "active"
 ---
 
 # § 3689. Approval requirements for licensing and certification testing
@@ -52,3 +53,17 @@ generated_at: "2026-03-30T02:55:53.509Z"
     - **(A)** The Secretary shall appoint the chairman of the Committee.
     - **(B)** The Committee shall meet at the call of the chairman.
   - **(5)** The Committee shall terminate December 31, 2006 .
+
+In General
+
+Requirements for Tests
+
+Requirements for Organizations or Entities Offering Tests
+
+Administration
+
+Professional Certification and Licensure Advisory Committee
+
+## Source Credit
+
+*(Added [Pub. L. 106–419, title I, § 122(c)(1)](https://www.govinfo.gov/link/plaw/106/public/419), Nov. 1, 2000, [114 Stat. 1835](https://www.govinfo.gov/link/statute/114/1835); amended [Pub. L. 107–330, title III, § 308(d)](https://www.govinfo.gov/link/plaw/107/public/330), Dec. 6, 2002, [116 Stat. 2828](https://www.govinfo.gov/link/statute/116/2828); [Pub. L. 110–252, title V, § 5003(b)(2)(A)(iii)](https://www.govinfo.gov/link/plaw/110/public/252), June 30, 2008, [122 Stat. 2375](https://www.govinfo.gov/link/statute/122/2375); [Pub. L. 111–377, title II, § 203(a)(2)(C)](https://www.govinfo.gov/link/plaw/111/public/377), Jan. 4, 2011, [124 Stat. 4125](https://www.govinfo.gov/link/statute/124/4125); [Pub. L. 117–76, § 3(c)(1)](https://www.govinfo.gov/link/plaw/117/public/76), Dec. 21, 2021, [135 Stat. 1518](https://www.govinfo.gov/link/statute/135/1518).)*

@@ -3,9 +3,10 @@ title: "Section 284h - Pediatric Research Initiative"
 usc_title: 42
 usc_section: "284h"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 284h"
-generated_at: "2026-03-30T02:56:10.741Z"
+generated_at: "2026-11-23T20:27:20.213Z"
+status: "active"
 ---
 
 # § 284h. Pediatric Research Initiative
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:56:10.741Z"
   - **(1)** consider pediatric rare diseases or conditions, or those related to birth defects; and
   - **(2)** conduct or coordinate one or more multisite clinical trials of therapies for, or approaches to, the prevention, diagnosis, or treatment of one or more pediatric rare diseases or conditions.
 - **(f)** The Director of NIH may transfer amounts appropriated under this section to any of the Institutes for a fiscal year to carry out the purposes of the Initiative under this section.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title IV, § 409D, as added [Pub. L. 106–310, div. A, title X, § 1001](https://www.govinfo.gov/link/plaw/106/public/310), Oct. 17, 2000, [114 Stat. 1127](https://www.govinfo.gov/link/statute/114/1127); amended [Pub. L. 109–482, title I, § 103(b)(10)](https://www.govinfo.gov/link/plaw/109/public/482), Jan. 15, 2007, [120 Stat. 3687](https://www.govinfo.gov/link/statute/120/3687); [Pub. L. 110–154, § 1(b)(4)](https://www.govinfo.gov/link/plaw/110/public/154), Dec. 21, 2007, [121 Stat. 1827](https://www.govinfo.gov/link/statute/121/1827); [Pub. L. 113–55, title II, § 202](https://www.govinfo.gov/link/plaw/113/public/55), Nov. 27, 2013, [127 Stat. 644](https://www.govinfo.gov/link/statute/127/644); [Pub. L. 114–255, div. A, title II, § 2071](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1083](https://www.govinfo.gov/link/statute/130/1083).)*

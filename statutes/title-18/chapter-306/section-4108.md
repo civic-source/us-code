@@ -3,9 +3,10 @@ title: "Section 4108 - Verification of consent of offender to transfer to the Un
 usc_title: 18
 usc_section: "4108"
 chapter: 306
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 4108"
-generated_at: "2026-03-30T02:54:16.528Z"
+generated_at: "2026-11-23T20:26:08.784Z"
+status: "active"
 ---
 
 # § 4108. Verification of consent of offender to transfer to the United States
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:16.528Z"
 - **(c)** The verifying officer, before determining that an offender’s consent is voluntary and given with full knowledge of the consequences, shall advise the offender of his right to consult with counsel as provided by this chapter. If the offender wishes to consult with counsel before giving his consent, he shall be advised that the proceedings will be continued until he has had an opportunity to consult with counsel.
 - **(d)** The verifying officer shall make the necessary inquiries to determine that the offender’s consent is voluntary and not the result of any promises, threats, or other improper inducements, and that the offender accepts the transfer subject to the conditions set forth in subsection (b). The consent and acceptance shall be on an appropriate form prescribed by the Attorney General.
 - **(e)** The proceedings shall be taken down by a reporter or recorded by suitable sound recording equipment. The Attorney General shall maintain custody of the records.
+
+## Source Credit
+
+*(Added [Pub. L. 95–144, § 1](https://www.govinfo.gov/link/plaw/95/public/144), Oct. 28, 1977, [91 Stat. 1217](https://www.govinfo.gov/link/statute/91/1217); amended [Pub. L. 98–473, title II, § 223(m)(4)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2030](https://www.govinfo.gov/link/statute/98/2030); [Pub. L. 100–690, title VII, § 7101(b)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4415](https://www.govinfo.gov/link/statute/102/4415); [Pub. L. 101–650, title III, § 321](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5117](https://www.govinfo.gov/link/statute/104/5117).)*

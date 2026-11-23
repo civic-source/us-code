@@ -3,9 +3,10 @@ title: "Section 1202 - Ransom money"
 usc_title: 18
 usc_section: "1202"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 1202"
-generated_at: "2026-03-30T02:54:16.483Z"
+generated_at: "2026-11-23T20:26:08.480Z"
+status: "active"
 ---
 
 # § 1202. Ransom money
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:16.483Z"
 - **(a)** Whoever receives, possesses, or disposes of any money or other property, or any portion thereof, which has at any time been delivered as ransom or reward in connection with a violation of section 1201 of this title , knowing the same to be money or property which has been at any time delivered as such ransom or reward, shall be fined under this title or imprisoned not more than ten years, or both.
 - **(b)** A person who transports, transmits, or transfers in interstate or foreign commerce any proceeds of a kidnapping punishable under State law by imprisonment for more than 1 year, or receives, possesses, conceals, or disposes of any such proceeds after they have crossed a State or United States boundary, knowing the proceeds to have been unlawfully obtained, shall be imprisoned not more than 10 years, fined under this title, or both.
 - **(c)** For purposes of this section, the term “State” has the meaning set forth in section 245(d) of this title .
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 760](https://www.govinfo.gov/link/statute/62/760); [Pub. L. 103–322, title XXXII, § 320601(b)](https://www.govinfo.gov/link/plaw/103/public/322), title XXXIII, § 330016(1)(L), Sept. 13, 1994, [108 Stat. 2115](https://www.govinfo.gov/link/statute/108/2115), 2147.)*

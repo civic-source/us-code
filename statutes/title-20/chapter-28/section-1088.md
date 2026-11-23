@@ -3,9 +3,10 @@ title: "Section 1088 - Definitions"
 usc_title: 20
 usc_section: "1088"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1088"
-generated_at: "2026-03-30T02:54:48.131Z"
+generated_at: "2026-11-23T20:26:14.500Z"
+status: "active"
 ---
 
 # § 1088. Definitions
@@ -51,3 +52,9 @@ generated_at: "2026-03-30T02:54:48.131Z"
   - **(5)** The term “qualifying National Guard duty during a war or other military operation or national emergency” means service as a member of the National Guard on full-time National Guard duty (as defined in section 101(d)(5) of title 10 ) under a call to active service authorized by the President or the Secretary of Defense for a period of more than 30 consecutive days under section 502(f) of title 32 in connection with a war, other military operation, or a national emergency declared by the President and supported by Federal funds.
 - **(e)** For purposes of this subchapter, the term “consumer reporting agency” has the meaning given the term “consumer reporting agency that compiles and maintains files on consumers on a nationwide basis” in Section 1 1 So in original. Probably should not be capitalized. 1681a(p) of title 15.
 - **(f)** For purposes of parts B, D, and E, the term “educational service agency” has the meaning given the term in section 7801 of this title .
+
+“The changes made in part G of title IV of the Act [ 20 U.S.C. 1088 et seq.] by the amendments made by this part [part G (§§ 481–498) of title IV of Pub. L. 102–325 , enacting sections 1091b, 1092c, 1094a, 1094b, 1098a, and 1098b of this title, amending sections 1088 to 1091, 1092, 1092b, 1093, 1094, 1095, 1096, 1097, and 1098 of this title, and repealing section 1096a of this title ] shall take effect on the date of enactment of this Act [ July 23, 1992 ], except that—
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 481](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title IV, § 407(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1476](https://www.govinfo.gov/link/statute/100/1476); amended [Pub. L. 100–50, § 15(1)](https://www.govinfo.gov/link/plaw/100/public/50), June 3, 1987, [101 Stat. 355](https://www.govinfo.gov/link/statute/101/355); [Pub. L. 101–239, title II, § 2007(b)](https://www.govinfo.gov/link/plaw/101/public/239), (c), Dec. 19, 1989, [103 Stat. 2120](https://www.govinfo.gov/link/statute/103/2120), 2121; [Pub. L. 101–508, title III, § 3005(b)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–28](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 102–26, § 2(a)(2)](https://www.govinfo.gov/link/plaw/102/public/26), (3), (d)(2)(A), Apr. 9, 1991, [105 Stat. 123](https://www.govinfo.gov/link/statute/105/123), 124; [Pub. L. 102–325, title IV, § 481](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 609](https://www.govinfo.gov/link/statute/106/609); [Pub. L. 103–208, § 2(h)(1)](https://www.govinfo.gov/link/plaw/103/public/208) –(6), Dec. 20, 1993, [107 Stat. 2475](https://www.govinfo.gov/link/statute/107/2475), 2476; [Pub. L. 105–216, § 12](https://www.govinfo.gov/link/plaw/105/public/216), July 29, 1998, [112 Stat. 908](https://www.govinfo.gov/link/statute/112/908); [Pub. L. 105–244, title I, § 101(c)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1617](https://www.govinfo.gov/link/statute/112/1617); [Pub. L. 109–171, title VIII](https://www.govinfo.gov/link/plaw/109/public/171), §§ 8007(d), 8020(a), (b), Feb. 8, 2006, [120 Stat. 161](https://www.govinfo.gov/link/statute/120/161), 177; [Pub. L. 110–315, title IV, § 481](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3271](https://www.govinfo.gov/link/statute/122/3271); [Pub. L. 111–39, title IV, § 407(b)(1)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1950](https://www.govinfo.gov/link/statute/123/1950); [Pub. L. 114–95, title IX, § 9215](https://www.govinfo.gov/link/plaw/114/public/95) (oo)(10), Dec. 10, 2015, [129 Stat. 2180](https://www.govinfo.gov/link/statute/129/2180); [Pub. L. 119–21, title VIII, § 83002(b)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 351](https://www.govinfo.gov/link/statute/139/351).)*

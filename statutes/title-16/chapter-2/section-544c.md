@@ -3,9 +3,10 @@ title: "Section 544c - Columbia River Gorge Commission"
 usc_title: 16
 usc_section: "544c"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 544c"
-generated_at: "2026-03-30T02:54:22.870Z"
+generated_at: "2026-11-23T20:26:20.129Z"
+status: "active"
 ---
 
 # § 544c. Columbia River Gorge Commission
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:22.870Z"
 - **(b)** For the purposes of providing a uniform system of laws, which, in addition to sections 544 to 544p of this title, are applicable to the Commission, the Commission shall adopt regulations relating to administrative procedure, the making of contracts, conflicts-of-interest, financial disclosure, open meetings of the Commission, advisory committees, and disclosure of information consistent with the more restrictive statutory provisions of either State. Regulations applicable to financial disclosure under this subsection shall be applied to members of the Commission without regard to the duration of their service on the Commission or the amount of compensation received for such service. No contract, obligation, or other action of the Commission shall be an obligation of the United States or an obligation secured by the full faith and credit of the United States.
 - **(c)** Upon the request of the Commission, the Secretary and other Federal agencies are authorized to provide information, personnel, property, and services on a reimbursable basis, and the Secretary is authorized to provide technical assistance on a nonreimbursable basis, to the Commission to assist it in carrying out its functions and responsibilities pursuant to sections 544 to 544p of this title.
 - **(d)** The Commission shall establish voluntary technical and citizen advisory committees to assist the Commission in carrying out its functions and responsibilities pursuant to sections 544 to 544p of this title.
+
+## Source Credit
+
+*([Pub. L. 99–663, § 5](https://www.govinfo.gov/link/plaw/99/public/663), Nov. 17, 1986, [100 Stat. 4277](https://www.govinfo.gov/link/statute/100/4277).)*

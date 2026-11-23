@@ -3,9 +3,10 @@ title: "Section 278h - Research program on security of computer systems"
 usc_title: 15
 usc_section: "278h"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 278h"
-generated_at: "2026-03-30T02:54:08.079Z"
+generated_at: "2026-11-23T20:26:03.683Z"
+status: "active"
 ---
 
 # § 278h. Research program on security of computer systems
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:54:08.079Z"
 - **(f)** In this section:
   - **(1)** The term “computer system” has the meaning given that term in section 278g–3(d)(1) 2 of this title.
   - **(2)** The term “institution of higher education” has the meaning given that term in section 1001(a) of title 20 .
+
+## Source Credit
+
+*(Mar. 3, 1901, ch. 872, § 22, as added [Pub. L. 107–305, § 8(a)(2)](https://www.govinfo.gov/link/plaw/107/public/305), Nov. 27, 2002, [116 Stat. 2375](https://www.govinfo.gov/link/statute/116/2375).)*

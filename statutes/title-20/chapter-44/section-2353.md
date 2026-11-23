@@ -3,9 +3,10 @@ title: "Section 2353 - Special rules for career and technical education"
 usc_title: 20
 usc_section: "2353"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 2353"
-generated_at: "2026-03-30T02:54:48.175Z"
+generated_at: "2026-11-23T20:26:14.706Z"
+status: "active"
 ---
 
 # § 2353. Special rules for career and technical education
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:48.175Z"
   - **(2)** to prohibit an eligible institution or consortium thereof that receives assistance under section 2352 of this title , from working with a local educational agency or consortium thereof that receives assistance under section 2351 of this title , to carry out postsecondary and adult career and technical education programs or programs of study in accordance with this subchapter; or
   - **(3)** to require a charter school, that provides career and technical education programs or programs of study and is considered a local educational agency under State law, to jointly establish the charter school’s eligibility for assistance under this subchapter unless the charter school is explicitly permitted to do so under the State’s charter school statute.
 - **(d)** For purposes of this section, the eligible agency shall provide funds to charter schools offering career and technical education programs or programs of study in the same manner as the eligible agency provides those funds to other schools. Such career and technical education programs or programs of study within a charter school shall be of sufficient size, scope, and quality to be effective.
+
+## Source Credit
+
+*([Pub. L. 88–210, title I, § 133](https://www.govinfo.gov/link/plaw/88/public/210), as added [Pub. L. 109–270, § 1(b)](https://www.govinfo.gov/link/plaw/109/public/270), Aug. 12, 2006, [120 Stat. 731](https://www.govinfo.gov/link/statute/120/731); amended [Pub. L. 115–224, title I, § 132](https://www.govinfo.gov/link/plaw/115/public/224), July 31, 2018, [132 Stat. 1612](https://www.govinfo.gov/link/statute/132/1612).)*

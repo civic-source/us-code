@@ -3,9 +3,10 @@ title: "Section 2455 - Appropriations"
 usc_title: 22
 usc_section: "2455"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2455"
-generated_at: "2026-03-30T02:55:05.369Z"
+generated_at: "2026-11-23T20:26:32.305Z"
+status: "active"
 ---
 
 # § 2455. Appropriations
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:05.369Z"
 - **(e)** The Director of the United States Information Agency is further authorized to reserve and use for educational and cultural exchange programs and other activities authorized in subsections (a) and (b) of section 2452 of this title , in relation to Finland and the people of Finland, all sums due or paid on and after August 24, 1949 , by the Republic of Finland to the United States as interest on or in retirement of the principal of the debt incurred under the Act of February 25, 1919 , as refunded by the agreement dated May 1, 1923 , pursuant to the authority contained in the Act of February 9, 1922 , or of any other indebtedness incurred by that Republic and owing to the United States as a result of World War I.
 - **(f)** Foreign governments, international organizations and private individuals, firms, associations, agencies, and other groups shall be encouraged to participate to the maximum extent feasible in carrying out this chapter and to make contributions of funds, property, and services which the President is authorized to accept, to be utilized to carry out the purposes of this chapter. Funds made available for the purposes of this chapter may be used to contribute toward meeting the expenses of activities carried out through normal private channels, by private means, and through foreign governments and international organizations.
 - **(g)** Notwithstanding any other provision of this chapter, there are authorized to be appropriated for the purposes of making currency exchanges under section 2452(b)(10) of this title , not to exceed $10,000,000 for the fiscal year ending June 30, 1968 , and not to exceed $15,000,000 for the fiscal year ending June 30, 1969 .
+
+## Source Credit
+
+*([Pub. L. 87–256, § 105](https://www.govinfo.gov/link/plaw/87/public/256), Sept. 21, 1961, [75 Stat. 531](https://www.govinfo.gov/link/statute/75/531); [Pub. L. 89–698, title II, § 203(c)](https://www.govinfo.gov/link/plaw/89/public/698), Oct. 29, 1966, [80 Stat. 1072](https://www.govinfo.gov/link/statute/80/1072); 1977 Reorg. Plan No. 2, § 7(a)(2), 42 F.R. 62461, [91 Stat. 1637](https://www.govinfo.gov/link/statute/91/1637); [Pub. L. 97–241, title III, § 303(b)](https://www.govinfo.gov/link/plaw/97/public/241), Aug. 24, 1982, [96 Stat. 291](https://www.govinfo.gov/link/statute/96/291); [Pub. L. 103–236, title II, § 227](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 423](https://www.govinfo.gov/link/statute/108/423); [Pub. L. 110–246, title III, § 3001(b)(1)(A)](https://www.govinfo.gov/link/plaw/110/public/246), (2)(S), June 18, 2008, [122 Stat. 1820](https://www.govinfo.gov/link/statute/122/1820), 1821.)*

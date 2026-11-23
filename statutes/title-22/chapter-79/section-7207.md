@@ -3,9 +3,10 @@ title: "Section 7207 - Prohibition on United States assistance and financing"
 usc_title: 22
 usc_section: "7207"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7207"
-generated_at: "2026-03-30T02:55:05.439Z"
+generated_at: "2026-11-23T20:26:32.660Z"
+status: "active"
 ---
 
 # § 7207. Prohibition on United States assistance and financing
@@ -24,3 +25,11 @@ generated_at: "2026-03-30T02:55:05.439Z"
     - **(A)** the term “financing” includes any loan or extension of credit;
     - **(B)** the term “United States depository institution” means any entity (including its foreign branches or subsidiaries) organized under the laws of any jurisdiction within the United States, or any agency, office or branch located in the United States of a foreign entity, that is engaged primarily in the business of banking (including a bank, savings bank, savings association, credit union, trust company, or United States bank holding company); and
     - **(C)** the term “United States person” means the Federal Government, any State or local government, or any private person or entity of the United States.
+
+George W. Bush.
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 106–387, § 1(a) [title IX, § 908]](https://www.govinfo.gov/link/plaw/106/public/387), Oct. 28, 2000, [114 Stat. 1549](https://www.govinfo.gov/link/statute/114/1549), 1549A–70.)*

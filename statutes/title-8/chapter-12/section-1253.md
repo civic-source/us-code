@@ -3,9 +3,10 @@ title: "Section 1253 - Penalties related to removal"
 usc_title: 8
 usc_section: "1253"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1253"
-generated_at: "2026-03-30T02:53:10.490Z"
+generated_at: "2026-11-23T20:25:36.171Z"
+status: "active"
 ---
 
 # § 1253. Penalties related to removal
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:53:10.490Z"
     - **(B)** A vessel or aircraft may not be granted clearance if a civil penalty imposed under paragraph (1) is not paid.
 - **(d)** On being notified by the Attorney General that the government of a foreign country denies or unreasonably delays accepting an alien who is a citizen, subject, national, or resident of that country after the Attorney General asks whether the government will accept the alien under this section, the Secretary of State shall order consular officers in that foreign country to discontinue granting immigrant visas or nonimmigrant visas, or both, to citizens, subjects, nationals, and residents of that country until the Attorney General notifies the Secretary that the country has accepted the alien.
 - **(e)** The attorney general of a State, or other authorized State officer, alleging a violation of the requirement to discontinue granting visas to citizens, subjects, nationals, and residents as described in subsection (d) that harms such State or its residents shall have standing to bring an action against the Secretary of State on behalf of such State or the residents of such State in an appropriate district court of the United States to obtain appropriate injunctive relief. The court shall advance on the docket and expedite the disposition of a civil action filed under this subsection to the greatest extent practicable. For purposes of this subsection, a State or its residents shall be considered to have been harmed if the State or its residents experience harm, including financial harm in excess of $100.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 5, § 243, [66 Stat. 212](https://www.govinfo.gov/link/statute/66/212); [Pub. L. 89–236, § 11(f)](https://www.govinfo.gov/link/plaw/89/public/236), Oct. 3, 1965, [79 Stat. 918](https://www.govinfo.gov/link/statute/79/918); [Pub. L. 95–549, title I, § 104](https://www.govinfo.gov/link/plaw/95/public/549), Oct. 30, 1978, [92 Stat. 2066](https://www.govinfo.gov/link/statute/92/2066); [Pub. L. 96–212, title II, § 203(e)](https://www.govinfo.gov/link/plaw/96/public/212), Mar. 17, 1980, [94 Stat. 107](https://www.govinfo.gov/link/statute/94/107); [Pub. L. 97–116, § 18(i)](https://www.govinfo.gov/link/plaw/97/public/116), Dec. 29, 1981, [95 Stat. 1620](https://www.govinfo.gov/link/statute/95/1620); [Pub. L. 101–649, title V, § 515(a)(2)](https://www.govinfo.gov/link/plaw/101/public/649), title VI, § 603(b)(3), Nov. 29, 1990, [104 Stat. 5053](https://www.govinfo.gov/link/statute/104/5053), 5085; [Pub. L. 104–132, title IV, § 413(a)](https://www.govinfo.gov/link/plaw/104/public/132), (f), Apr. 24, 1996, [110 Stat. 1269](https://www.govinfo.gov/link/statute/110/1269); [Pub. L. 104–208, div. C, title III, § 307(a)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–612](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 119–1, § 3(c)](https://www.govinfo.gov/link/plaw/119/public/1), Jan. 29, 2025, [139 Stat. 4](https://www.govinfo.gov/link/statute/139/4).)*

@@ -3,9 +3,10 @@ title: "Section 2101a - State-wide assessment and strategies for forest resource
 usc_title: 16
 usc_section: "2101a"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 2101a"
-generated_at: "2026-03-30T02:54:22.996Z"
+generated_at: "2026-11-23T20:26:20.589Z"
+status: "active"
 ---
 
 # § 2101a. State-wide assessment and strategies for forest resources
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:54:22.996Z"
   - **(1)** There are authorized to be appropriated to carry out this section up to $10,000,000 for each of fiscal years 2008 through 2023.
   - **(2)** In addition to the funds appropriated for a fiscal year pursuant to the authorization of appropriations in paragraph (1) to carry out this section, the Secretary may use any other funds made available for planning under this chapter to carry out this section, except that the total amount of combined funding used to carry out this section may not exceed $10,000,000 in any fiscal year.
 - **(g)** The State forester or equivalent State official shall submit to the Secretary an annual report detailing how funds made available to the State under this chapter are being used.
+
+## Source Credit
+
+*([Pub. L. 95–313, § 2A](https://www.govinfo.gov/link/plaw/95/public/313), as added [Pub. L. 110–234, title VIII, § 8002](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1280](https://www.govinfo.gov/link/statute/122/1280), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VIII, § 8002, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2041; amended [Pub. L. 113–79, title VIII, § 8101](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 914](https://www.govinfo.gov/link/statute/128/914); [Pub. L. 115–334, title VIII, § 8101](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4837](https://www.govinfo.gov/link/statute/132/4837).)*

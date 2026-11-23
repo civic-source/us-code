@@ -3,9 +3,10 @@ title: "Section 248a - Pricing of services"
 usc_title: 12
 usc_section: "248a"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 248a"
-generated_at: "2026-03-30T02:53:53.377Z"
+generated_at: "2026-11-23T20:25:58.728Z"
+status: "active"
 ---
 
 # § 248a. Pricing of services
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:53.377Z"
   - **(4)** Interest on items credited prior to collection shall be charged at the current rate applicable in the market for Federal funds.
 - **(d)** The Board shall require reductions in the operating budgets of the Federal Reserve banks commensurate with any actual or projected decline in the volume of services to be provided by such banks. The full amount of any savings so realized shall be paid into the United States Treasury.
 - **(e)** All depository institutions, as defined in section 461(b)(1) of this title , may receive for deposit and as deposits any evidences of transaction accounts, as defined by section 461(b)(1) of this title from other depository institutions, as defined in section 461(b)(1) of this title or from any office of any Federal Reserve bank without regard to any Federal or State law restricting the number or the physical location or locations of such depository institutions.
+
+## Source Credit
+
+*(Dec. 23, 1913, ch. 6, § 11A, as added [Pub. L. 96–221, title I, § 107](https://www.govinfo.gov/link/plaw/96/public/221), Mar. 31, 1980, [94 Stat. 140](https://www.govinfo.gov/link/statute/94/140); amended [Pub. L. 100–86, title VI, § 612(a)](https://www.govinfo.gov/link/plaw/100/public/86), Aug. 10, 1987, [101 Stat. 652](https://www.govinfo.gov/link/statute/101/652).)*

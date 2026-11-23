@@ -3,9 +3,10 @@ title: "Section 1274 - Watershed pilot projects"
 usc_title: 33
 usc_section: "1274"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1274"
-generated_at: "2026-03-30T02:55:41.085Z"
+generated_at: "2026-11-23T20:26:53.984Z"
+status: "active"
 ---
 
 # § 1274. Watershed pilot projects
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:41.085Z"
   - **(6)** Efforts to assess future risks and vulnerabilities of publicly owned treatment works to manmade or natural disasters, including extreme weather events and sea-level rise, and to carry out measures, on a systemwide or area-wide basis, to increase the resiliency of publicly owned treatment works.
 - **(b)** The Administrator, in coordination with the States, shall provide municipalities participating in a pilot project under this section the ability to engage in innovative practices, including the ability to unify separate wet weather control efforts under a single permit.
 - **(c)** Not later than October 1, 2015 , the Administrator shall transmit to Congress a report on the results of the pilot projects conducted under this section and their possible application nationwide.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title I, § 122, formerly § 121, as added [Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 112(b)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–225; renumbered § 122, [Pub. L. 109–392, § 2](https://www.govinfo.gov/link/plaw/109/public/392), Dec. 12, 2006, [120 Stat. 2703](https://www.govinfo.gov/link/statute/120/2703); amended [Pub. L. 113–121, title V, § 5011](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1327](https://www.govinfo.gov/link/statute/128/1327).)*

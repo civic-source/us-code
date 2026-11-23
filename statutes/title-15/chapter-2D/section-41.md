@@ -3,9 +3,10 @@ title: "Section 41 - Enforcement of subchapter"
 usc_title: 15
 usc_section: "41"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 41"
-generated_at: "2026-03-30T02:54:08.069Z"
+generated_at: "2026-11-23T20:26:03.612Z"
+status: "active"
 ---
 
 # § 80a–41. Enforcement of subchapter
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:08.069Z"
     - **(C)** The actions authorized by this subsection may be brought in addition to any other action that the Commission or the Attorney General is entitled to bring.
     - **(D)** For purposes of section 80a–43 of this title , actions under this paragraph shall be actions to enforce a liability or a duty created by this subchapter.
   - **(4)** In an action to enforce a cease-and-desist order entered by the Commission pursuant to section 80a–9(f) of this title , each separate violation of such order shall be a separate offense, except that in the case of a violation through a continuing failure to comply with the order, each day of the failure to comply shall be deemed a separate offense.
+
+## Source Credit
+
+*(Aug. 22, 1940, ch. 686, title I, § 42, [54 Stat. 842](https://www.govinfo.gov/link/statute/54/842); [Pub. L. 91–452, title II, § 215](https://www.govinfo.gov/link/plaw/91/public/452), Oct. 15, 1970, [84 Stat. 929](https://www.govinfo.gov/link/statute/84/929); [Pub. L. 100–181, title VI, § 623](https://www.govinfo.gov/link/plaw/100/public/181), Dec. 4, 1987, [101 Stat. 1262](https://www.govinfo.gov/link/statute/101/1262); [Pub. L. 101–429, title III, § 302](https://www.govinfo.gov/link/plaw/101/public/429), Oct. 15, 1990, [104 Stat. 945](https://www.govinfo.gov/link/statute/104/945); [Pub. L. 107–204, title III, § 308(d)(4)](https://www.govinfo.gov/link/plaw/107/public/204), July 30, 2002, [116 Stat. 785](https://www.govinfo.gov/link/statute/116/785); [Pub. L. 111–203, title IX, § 923(a)(2)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1849](https://www.govinfo.gov/link/statute/124/1849).)*

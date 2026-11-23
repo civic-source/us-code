@@ -3,9 +3,10 @@ title: "Section 4763 - General administrative provisions"
 usc_title: 42
 usc_section: "4763"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4763"
-generated_at: "2026-03-30T02:56:11.208Z"
+generated_at: "2026-11-23T20:27:22.415Z"
+status: "active"
 ---
 
 # § 4763. General administrative provisions
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.208Z"
   - **(3)** shall include in its annual report a report of the administration of this chapter; and
   - **(4)** shall make such arrangements as may be necessary to avoid duplication of programs providing for training and to insure consistent administration of the related Federal training activities, with particular regard to title I of the Higher Education Act of 1965 [ 20 U.S.C. 1001 et seq.].
 - **(e)** The provisions of this chapter are not a limitation on existing authorities under other statutes but are in addition to any such authorities, unless otherwise specifically provided in this chapter.
+
+## Source Credit
+
+*([Pub. L. 91–648, title V, § 503](https://www.govinfo.gov/link/plaw/91/public/648), Jan. 5, 1971, [84 Stat. 1926](https://www.govinfo.gov/link/statute/84/1926); 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783](https://www.govinfo.gov/link/statute/92/3783).)*

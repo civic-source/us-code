@@ -3,12 +3,17 @@ title: "Section 556c - Reimbursement of employees for property losses resulting 
 usc_title: 16
 usc_section: "556c"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 556c"
-generated_at: "2026-03-30T02:54:22.875Z"
+generated_at: "2026-11-23T20:26:20.147Z"
+status: "active"
 ---
 
 # § 556c. Reimbursement of employees for property losses resulting from fires, floods, or other casualties
 
 Funds available to the Forest Service may be used in amounts not exceeding $100 in any single claim, for reimbursing employees of the Forest Service for loss of or damage to clothing and other personal effects resulting from fires, floods, or other casualties at or near the place in which such property is temporarily stored during services of the employees in connection with such casualties.
 
+
+## Source Credit
+
+*([Pub. L. 85–464, § 2](https://www.govinfo.gov/link/plaw/85/public/464), June 20, 1958, [72 Stat. 217](https://www.govinfo.gov/link/statute/72/217).)*

@@ -3,9 +3,10 @@ title: "Section 44710 - Revocations of airman certificates for controlled substa
 usc_title: 49
 usc_section: "44710"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44710"
-generated_at: "2026-03-30T02:56:19.385Z"
+generated_at: "2026-11-23T20:27:35.175Z"
+status: "active"
 ---
 
 # § 44710. Revocations of airman certificates for controlled substance violations
@@ -39,3 +40,106 @@ generated_at: "2026-03-30T02:56:19.385Z"
 - **(f)** The Administrator may waive the requirement of subsection (b) of this section that an airman certificate of an individual be revoked if—
   - **(1)** a law enforcement official of the United States Government or of a State requests a waiver; and
   - **(2)** the Administrator decides that the waiver will facilitate law enforcement efforts.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 44710(a) | 49 App.:1429(c)(4). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 609(c)(1), (2), (4); added Oct. 19, 1984 , Pub. L. 98–499, § 2(a) , 98 Stat. 2312 , 2313. |
+| 44710(b)(1) | 49 App.:1429(c)(1) (1st sentence). |  |
+| 44710(b)(2) | 49 App.:1429(c)(2) (1st sentence). |  |
+| 44710(b)(3) | 49 App.:1429(c)(1) (last sentence). |  |
+| 44710(c) | 49 App.:1429(c)(3) (1st sentence). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 609(c)(3); added Oct. 19, 1984 , Pub. L. 98–499, § 2(a) , 98 Stat. 2312 ; Aug. 26, 1992 , Pub. L. 102–345, § 3(b) , 106 Stat. 926 . |
+| 44710(d) | 49 App.:1429(c)(3) (2d–last sentences). |  |
+| 44710(e)(1) | 49 App.:1429(c)(2) (last sentence). |  |
+| 44710(e)(2) | 49 App.:1422(b)(2)(C). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 602(b)(2)(C); added Oct. 19, 1984 , Pub. L. 98–499, § 3 , 98 Stat. 2313 . |
+| 44710(f) | 49 App.:1429(c)(5). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 609(c)(5); added Nov. 18, 1988 , Pub. L. 100–690, § 7204(b) , 102 Stat. 4425 . |
+
+
+Definition
+
+Revocation
+
+Advice to Holders and Opportunity To Answer
+
+Appeals
+
+Acquittal
+
+Waivers
+
+Historical and Revision Notes
+
+44710(a)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Oct. 19, 1984
+
+Pub. L. 98–499, § 2(a)
+
+98 Stat. 2312
+
+44710(b)(1)
+
+44710(b)(2)
+
+44710(b)(3)
+
+44710(c)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Oct. 19, 1984
+
+Pub. L. 98–499, § 2(a)
+
+98 Stat. 2312
+
+Aug. 26, 1992
+
+Pub. L. 102–345, § 3(b)
+
+106 Stat. 926
+
+44710(d)
+
+44710(e)(1)
+
+44710(e)(2)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Oct. 19, 1984
+
+Pub. L. 98–499, § 3
+
+98 Stat. 2313
+
+44710(f)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Nov. 18, 1988
+
+Pub. L. 100–690, § 7204(b)
+
+102 Stat. 4425
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1191](https://www.govinfo.gov/link/statute/108/1191); [Pub. L. 112–153, § 2(c)(3)](https://www.govinfo.gov/link/plaw/112/public/153), Aug. 3, 2012, [126 Stat. 1161](https://www.govinfo.gov/link/statute/126/1161).)*

@@ -3,9 +3,10 @@ title: "Section 387p - Preservation of State and local authority"
 usc_title: 21
 usc_section: "387p"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 387p"
-generated_at: "2026-03-30T02:54:54.282Z"
+generated_at: "2026-11-23T20:26:27.778Z"
+status: "active"
 ---
 
 # § 387p. Preservation of State and local authority
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:54.282Z"
     - **(A)** No State or political subdivision of a State may establish or continue in effect with respect to a tobacco product any requirement which is different from, or in addition to, any requirement under the provisions of this subchapter relating to tobacco product standards, premarket review, adulteration, misbranding, labeling, registration, good manufacturing standards, or modified risk tobacco products.
     - **(B)** Subparagraph (A) does not apply to requirements relating to the sale, distribution, possession, information reporting to the State, exposure to, access to, the advertising and promotion of, or use of, tobacco products by individuals of any age, or relating to fire safety standards for tobacco products. Information disclosed to a State under subparagraph (A) that is exempt from disclosure under section 552(b)(4) of title 5 shall be treated as a trade secret and confidential information by the State.
 - **(b)** No provision of this subchapter relating to a tobacco product shall be construed to modify or otherwise affect any action or the liability of any person under the product liability law of any State.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 916, as added [Pub. L. 111–31, div. A, title I, § 101(b)(3)](https://www.govinfo.gov/link/plaw/111/public/31), June 22, 2009, [123 Stat. 1823](https://www.govinfo.gov/link/statute/123/1823).)*

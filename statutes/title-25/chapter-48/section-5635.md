@@ -3,9 +3,10 @@ title: "Section 5635 - Appraisals and valuations"
 usc_title: 25
 usc_section: "5635"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 5635"
-generated_at: "2026-03-30T02:54:52.873Z"
+generated_at: "2026-11-23T20:26:25.761Z"
+status: "active"
 ---
 
 # § 5635. Appraisals and valuations
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:52.873Z"
 - **(c)** In any case in which an Indian tribe or Indian beneficiary submits to the Secretary an appraisal or valuation that satisfies the minimum qualifications described in subsection (b), and that submission acknowledges the intent of the Indian tribe or beneficiary to have the appraisal or valuation considered under this section, the appraisal or valuation—
   - **(1)** shall not require any additional review or approval by the Secretary; and
   - **(2)** shall be considered to be final for purposes of effectuating the transaction for which the appraisal or valuation is required.
+
+## Source Credit
+
+*([Pub. L. 114–178, title III, § 305](https://www.govinfo.gov/link/plaw/114/public/178), June 22, 2016, [130 Stat. 441](https://www.govinfo.gov/link/statute/130/441).)*

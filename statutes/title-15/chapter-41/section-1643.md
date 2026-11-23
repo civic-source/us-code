@@ -3,9 +3,10 @@ title: "Section 1643 - Liability of holder of credit card"
 usc_title: 15
 usc_section: "1643"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1643"
-generated_at: "2026-03-30T02:54:08.144Z"
+generated_at: "2026-11-23T20:26:04.057Z"
+status: "active"
 ---
 
 # § 1643. Liability of holder of credit card
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:08.144Z"
 - **(b)** In any action by a card issuer to enforce liability for the use of a credit card, the burden of proof is upon the card issuer to show that the use was authorized or, if the use was unauthorized, then the burden of proof is upon the card issuer to show that the conditions of liability for the unauthorized use of a credit card, as set forth in subsection (a), have been met.
 - **(c)** Nothing in this section imposes liability upon a cardholder for the unauthorized use of a credit card in excess of his liability for such use under other applicable law or under any agreement with the card issuer.
 - **(d)** Except as provided in this section, a cardholder incurs no liability from the unauthorized use of a credit card.
+
+## Source Credit
+
+*([Pub. L. 90–321, title I, § 133](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 91–508, title V, § 502(a)](https://www.govinfo.gov/link/plaw/91/public/508), Oct. 26, 1970, [84 Stat. 1126](https://www.govinfo.gov/link/statute/84/1126); amended [Pub. L. 96–221, title VI, § 617](https://www.govinfo.gov/link/plaw/96/public/221), Mar. 31, 1980, [94 Stat. 182](https://www.govinfo.gov/link/statute/94/182).)*

@@ -3,9 +3,10 @@ title: "Section 4316 - Application of travel restrictions to personnel of certai
 usc_title: 22
 usc_section: "4316"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4316"
-generated_at: "2026-03-30T02:55:05.410Z"
+generated_at: "2026-11-23T20:26:32.534Z"
+status: "active"
 ---
 
 # § 4316. Application of travel restrictions to personnel of certain countries and organizations
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:05.410Z"
   - **(3)** the term “personnel” includes—
     - **(A)** officers, employees, and any other staff member, and
     - **(B)** any individual who is retained under contract or other arrangement to serve functions similar to those of an officer, employee, or other staff member.
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title II, § 216, as added [Pub. L. 100–204, title I, § 162(a)](https://www.govinfo.gov/link/plaw/100/public/204), Dec. 22, 1987, [101 Stat. 1357](https://www.govinfo.gov/link/statute/101/1357); amended [Pub. L. 103–236, title I, § 139(3)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 397](https://www.govinfo.gov/link/statute/108/397).)*

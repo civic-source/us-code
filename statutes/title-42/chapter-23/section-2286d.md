@@ -3,9 +3,10 @@ title: "Section 2286d - Board recommendations"
 usc_title: 42
 usc_section: "2286d"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2286d"
-generated_at: "2026-03-30T02:56:11.160Z"
+generated_at: "2026-11-23T20:27:22.126Z"
+status: "active"
 ---
 
 # § 2286d. Board recommendations
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:56:11.160Z"
 - **(i)** Notwithstanding any other provision of this section, the requirements to make information available to the public under this section—
   - **(1)** shall not apply in the case of information that is classified; and
   - **(2)** shall be subject to the orders and regulations issued by the Secretary of Energy under sections 2167 and 2168 of this title to prohibit dissemination of certain information.
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 315, as added [Pub. L. 100–456, div. A, title XIV, § 1441(a)(1)](https://www.govinfo.gov/link/plaw/100/public/456), Sept. 29, 1988, [102 Stat. 2080](https://www.govinfo.gov/link/statute/102/2080); renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944); amended [Pub. L. 112–239, div. C, title XXXII, § 3202(c)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2218](https://www.govinfo.gov/link/statute/126/2218).)*

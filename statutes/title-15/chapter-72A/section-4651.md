@@ -3,9 +3,10 @@ title: "Section 4651 - Definitions"
 usc_title: 15
 usc_section: "4651"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 4651"
-generated_at: "2026-03-30T02:54:08.200Z"
+generated_at: "2026-11-23T20:26:04.343Z"
+status: "active"
 ---
 
 # § 4651. Definitions
@@ -61,3 +62,19 @@ In this chapter:
   - **(11)** The term “nonprofit entity” means an entity described in section 501(c)(3) of title 26 and exempt from taxation under section 501(a) of title 26 .
   - **(12)** The term “Secretary” means the Secretary of Commerce.
   - **(13)** The term “semiconductor” has the meaning given that term by the Secretary.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+J.R. Biden, Jr.
+
+## Source Credit
+
+*([Pub. L. 116–283, div. H, title XCIX, § 9901](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4843](https://www.govinfo.gov/link/statute/134/4843); [Pub. L. 117–167, div. A, § 103(a)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1379](https://www.govinfo.gov/link/statute/136/1379).)*

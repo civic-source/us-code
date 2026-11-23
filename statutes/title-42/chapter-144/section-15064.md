@@ -3,9 +3,10 @@ title: "Section 15064 - Applications"
 usc_title: 42
 usc_section: "15064"
 chapter: 144
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 15064"
-generated_at: "2026-03-30T02:56:11.458Z"
+generated_at: "2026-11-23T20:27:23.555Z"
+status: "active"
 ---
 
 # § 15064. Applications
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:56:11.458Z"
     - **(D)** an accounting of the manner in which funds paid to the Center under this part for a fiscal year were expended;
   - **(2)** information on proposed revisions to the goals; and
   - **(3)** a description of successful efforts to leverage funds, other than funds made available under this part, to pursue goals consistent with this part.
+
+## Source Credit
+
+*([Pub. L. 106–402, title I, § 154](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1722](https://www.govinfo.gov/link/statute/114/1722); [Pub. L. 108–364, § 3(a)(4)](https://www.govinfo.gov/link/plaw/108/public/364), Oct. 25, 2004, [118 Stat. 1737](https://www.govinfo.gov/link/statute/118/1737); [Pub. L. 108–446, title III, § 305(n)(2)](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2806](https://www.govinfo.gov/link/statute/118/2806).)*

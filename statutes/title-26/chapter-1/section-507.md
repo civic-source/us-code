@@ -3,9 +3,10 @@ title: "Section 507 - Termination of private foundation status"
 usc_title: 26
 usc_section: "507"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 507"
-generated_at: "2026-03-30T02:55:27.712Z"
+generated_at: "2026-11-23T20:26:45.791Z"
+status: "active"
 ---
 
 # § 507. Termination of private foundation status
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:55:27.712Z"
 - **(g)** The Secretary may abate the unpaid portion of the assessment of any tax imposed by subsection (c), or any liability in respect thereof, if—
   - **(1)** the private foundation distributes all of its net assets to one or more organizations described in section 170(b)(1)(A) (other than in clauses (vii) and (viii)) each of which has been in existence and so described for a continuous period of at least 60 calendar months, or
   - **(2)** following the notification prescribed in section 6104(c) to the appropriate State officer, such State officer within one year notifies the Secretary, in such manner as the Secretary may by regulations prescribe, that corrective action has been initiated pursuant to State law to insure that the assets of such private foundation are preserved for such charitable or other purposes specified in section 501(c)(3) as may be ordered or approved by a court of competent jurisdiction, and upon completion of the corrective action, the Secretary receives certification from the appropriate State officer that such action has resulted in such preservation of assets.
+
+## Source Credit
+
+*(Added [Pub. L. 91–172, title I, § 101(a)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 492](https://www.govinfo.gov/link/statute/83/492); amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 98–369, div. A, title III, § 313(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 786](https://www.govinfo.gov/link/statute/98/786).)*

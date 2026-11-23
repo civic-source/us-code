@@ -3,9 +3,10 @@ title: "Section 226 - Telephone operator services"
 usc_title: 47
 usc_section: "226"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 226"
-generated_at: "2026-03-30T02:56:24.498Z"
+generated_at: "2026-11-23T20:27:28.836Z"
+status: "active"
 ---
 
 # § 226. Telephone operator services
@@ -88,3 +89,9 @@ generated_at: "2026-03-30T02:56:24.498Z"
     - **(A)** Unless the Commission makes the determination described in subparagraph (B), the Commission shall, within 180 days after submission of the report required under paragraph (3)(B)(iii), complete a rulemaking proceeding pursuant to this subchapter to establish regulations for implementing the requirements of this subchapter (and paragraphs (1) and (2) of this subsection) that rates and charges for operator services be just and reasonable. Such regulations shall include limitations on the amount of commissions or any other compensation given to aggregators by providers of operator service.
     - **(B)** The requirement of subparagraph (A) shall not apply if, on the basis of the proceeding under paragraph (3)(A), the Commission makes (and includes in the report required by paragraph (3)(B)(iii)) a factual determination that market forces are securing rates and charges that are just and reasonable, as evidenced by rate levels, costs, complaints, service quality, and other relevant factors.
 - **(i)** Nothing in this section shall be construed to alter the obligations, powers, or duties of common carriers or the Commission under the other sections of this chapter.
+
+“The Congress finds that—
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title II, § 226, as added [Pub. L. 101–435, § 3](https://www.govinfo.gov/link/plaw/101/public/435), Oct. 17, 1990, [104 Stat. 987](https://www.govinfo.gov/link/statute/104/987); amended [Pub. L. 101–555, § 4](https://www.govinfo.gov/link/plaw/101/public/555), Nov. 15, 1990, [104 Stat. 2760](https://www.govinfo.gov/link/statute/104/2760); [Pub. L. 102–538, title II, § 207](https://www.govinfo.gov/link/plaw/102/public/538), Oct. 27, 1992, [106 Stat. 3543](https://www.govinfo.gov/link/statute/106/3543); [Pub. L. 103–414, title III](https://www.govinfo.gov/link/plaw/103/public/414), §§ 303(a)(10), 304(a)(8), Oct. 25, 1994, [108 Stat. 4294](https://www.govinfo.gov/link/statute/108/4294), 4297.)*

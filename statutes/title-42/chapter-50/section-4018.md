@@ -3,9 +3,10 @@ title: "Section 4018 - Operating costs and allowances; definitions"
 usc_title: 42
 usc_section: "4018"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4018"
-generated_at: "2026-03-30T02:56:11.196Z"
+generated_at: "2026-11-23T20:27:22.341Z"
+status: "active"
 ---
 
 # § 4018. Operating costs and allowances; definitions
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.196Z"
     - **(C)** loss adjustment expenses; and
     - **(D)** other direct, actual, and necessary expenses which the Administrator finds are incurred in connection with selling or servicing flood insurance coverage; and
   - **(2)** the term “operating allowances” shall (without limiting such term) include amounts for profit and contingencies which the Administrator finds reasonable and necessary to carry out the purposes of this chapter.
+
+## Source Credit
+
+*([Pub. L. 90–448, title XIII, § 1311](https://www.govinfo.gov/link/plaw/90/public/448), Aug. 1, 1968, [82 Stat. 579](https://www.govinfo.gov/link/statute/82/579); [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title IV, § 451(d)(1)], Nov. 30, 1983, [97 Stat. 1229](https://www.govinfo.gov/link/statute/97/1229); [Pub. L. 112–141, div. F, title II, § 100238(b)(1)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 958](https://www.govinfo.gov/link/statute/126/958).)*

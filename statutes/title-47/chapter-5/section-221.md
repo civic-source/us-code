@@ -3,9 +3,10 @@ title: "Section 221 - Consolidations and mergers of telephone companies"
 usc_title: 47
 usc_section: "221"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 221"
-generated_at: "2026-03-30T02:56:24.497Z"
+generated_at: "2026-11-23T20:27:28.830Z"
+status: "active"
 ---
 
 # § 221. Consolidations and mergers of telephone companies
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:24.497Z"
 - **(b)** Subject to the provisions of sections 225 and 301 of this title, nothing in this chapter shall be construed to apply, or to give the Commission jurisdiction, with respect to charges, classifications, practices, services, facilities, or regulations for or in connection with wire, mobile, or point-to-point radio telephone exchange service, or any combination thereof, even though a portion of such exchange service constitutes interstate or foreign communication, in any case where such matters are subject to regulation by a State commission or by local governmental authority.
 - **(c)** For the purpose of administering this chapter as to carriers engaged in wire telephone communication, the Commission may classify the property of any such carrier used for wire telephone communication, and determine what property of said carrier shall be considered as used in interstate or foreign telephone toll service. Such classification shall be made after hearing, upon notice to the carrier, the State commission (or the Governor, if the State has no State commission) of any State in which the property of said carrier is located, and such other persons as the Commission may prescribe.
 - **(d)** In making a valuation of the property of any wire telephone carrier the Commission, after making the classification authorized in this section, may in its discretion value only that part of the property of such carrier determined to be used in interstate or foreign telephone toll service.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title II, § 221, [48 Stat. 1080](https://www.govinfo.gov/link/statute/48/1080); Apr. 27, 1954, ch. 175, § 4, [68 Stat. 64](https://www.govinfo.gov/link/statute/68/64); Aug. 2, 1956, ch. 874, § 3, [70 Stat. 932](https://www.govinfo.gov/link/statute/70/932); [Pub. L. 101–336, title IV, § 401(b)(2)](https://www.govinfo.gov/link/plaw/101/public/336), July 26, 1990, [104 Stat. 369](https://www.govinfo.gov/link/statute/104/369); [Pub. L. 104–104, title VI, § 601(b)(2)](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 143](https://www.govinfo.gov/link/statute/110/143).)*

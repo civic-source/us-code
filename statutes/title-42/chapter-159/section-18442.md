@@ -3,9 +3,10 @@ title: "Section 18442 - Reports on program and cost assessment and control asses
 usc_title: 42
 usc_section: "18442"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18442"
-generated_at: "2026-03-30T02:56:11.520Z"
+generated_at: "2026-11-23T20:27:23.802Z"
+status: "active"
 ---
 
 # § 18442. Reports on program and cost assessment and control assessment
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.520Z"
   - **(2)** Each report under this subsection shall set forth, for the year covered by such report, the following:
     - **(A)** A description of each NASA program that has exceeded its cost baseline by 15 percent or more or is more than 2 years behind its projected development schedule.
     - **(B)** For each program specified under subparagraph (A), a plan for such decrease in scope or requirements, or other measures, to be undertaken to control cost and schedule, including any cost monitoring or corrective actions undertaken pursuant to the National Aeronautics and Space Administration Authorization Act of 2005 ( Public Law 109–155 ), 1 1 See References in Text note below. and the amendments made by that Act.
+
+## Source Credit
+
+*([Pub. L. 111–267, title XII, § 1203](https://www.govinfo.gov/link/plaw/111/public/267), Oct. 11, 2010, [124 Stat. 2841](https://www.govinfo.gov/link/statute/124/2841).)*

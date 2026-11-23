@@ -3,9 +3,10 @@ title: "Section 140303 - Powers"
 usc_title: 36
 usc_section: "140303"
 chapter: 1403
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 140303"
-generated_at: "2026-03-30T02:55:44.701Z"
+generated_at: "2026-11-23T20:26:58.952Z"
+status: "active"
 ---
 
 # § 140303. Powers
@@ -22,3 +23,21 @@ The corporation may—
   - **(8)** charge and collect membership dues and subscription fees;
   - **(9)** sue and be sued; and
   - **(10)** do any other act necessary or appropriate to carry out the purposes of the corporation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 140303 | 36:314(b)–(k). | Sept. 20, 1950, ch. 956 , §§ 4(b)–(k), 5, 64 Stat. 868 . |
+|  | 36:315. |  |
+
+
+Historical and Revision Notes
+
+140303
+
+Sept. 20, 1950, ch. 956
+
+64 Stat. 868
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1380](https://www.govinfo.gov/link/statute/112/1380).)*

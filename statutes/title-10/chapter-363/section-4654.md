@@ -3,9 +3,10 @@ title: "Section 4654 - Prohibition against doing business with certain offerors 
 usc_title: 10
 usc_section: "4654"
 chapter: 363
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 4654"
-generated_at: "2026-03-30T02:53:38.209Z"
+generated_at: "2026-11-23T20:25:51.961Z"
+status: "active"
 ---
 
 # § 4654. Prohibition against doing business with certain offerors or contractors
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:38.209Z"
   - **(1)** The term “debar” means to exclude, pursuant to established administrative procedures, from Government contracting and subcontracting for a specified period of time commensurate with the seriousness of the failure or offense or the inadequacy of performance.
   - **(2)** The term “suspend” means to disqualify, pursuant to established administrative procedures, from Government contracting and subcontracting for a temporary period of time because a concern or individual is suspected of engaging in criminal, fraudulent, or seriously improper conduct.
 - **(d)** The Secretary of Defense shall prescribe in regulations a requirement that each contractor under contract with the Department of Defense shall require each contractor to whom it awards a contract (in this section referred to as a subcontractor) to disclose to the contractor whether the subcontractor is or is not, as of the time of the award of the subcontract, debarred or suspended by the Federal Government from Government contracting or subcontracting. The requirement shall apply to any subcontractor whose subcontract is in an amount greater than the simplified acquisition threshold (as defined in section 134 of title 41 ). The requirement shall not apply in the case of a subcontract for the acquisition of commercial products or commercial services (as defined in sections 103 and 103a, respectively, of title 41).
+
+## Source Credit
+
+*(Added [Pub. L. 97–86, title IX, § 914(a)](https://www.govinfo.gov/link/plaw/97/public/86), Dec. 1, 1981, [95 Stat. 1124](https://www.govinfo.gov/link/statute/95/1124), § 2393; amended [Pub. L. 100–180, div. A, title XII, § 1231(17)](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1161](https://www.govinfo.gov/link/statute/101/1161); [Pub. L. 101–510, div. A, title VIII, § 813](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1596](https://www.govinfo.gov/link/statute/104/1596); [Pub. L. 102–190, div. A, title X, § 1061(a)(11)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1473](https://www.govinfo.gov/link/statute/105/1473); [Pub. L. 103–355, title IV, § 4102(e)](https://www.govinfo.gov/link/plaw/103/public/355), title VIII, § 8105(c), Oct. 13, 1994, [108 Stat. 3340](https://www.govinfo.gov/link/statute/108/3340), 3392; [Pub. L. 111–350, § 5(b)(24)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3844](https://www.govinfo.gov/link/statute/124/3844); [Pub. L. 113–66, div. A, title VIII, § 813](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 808](https://www.govinfo.gov/link/statute/127/808); [Pub. L. 115–232, div. A, title VIII, § 836(e)(3)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1869](https://www.govinfo.gov/link/statute/132/1869); renumbered § 4654, [Pub. L. 116–283, div. A, title XVIII, § 1862(b)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4277](https://www.govinfo.gov/link/statute/134/4277).)*

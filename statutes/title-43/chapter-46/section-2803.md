@@ -3,9 +3,10 @@ title: "Section 2803 - National Geospatial Advisory Committee"
 usc_title: 43
 usc_section: "2803"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 2803"
-generated_at: "2026-03-30T02:55:57.499Z"
+generated_at: "2026-11-23T20:27:06.419Z"
+status: "active"
 ---
 
 # § 2803. National Geospatial Advisory Committee
@@ -76,3 +77,7 @@ generated_at: "2026-03-30T02:55:57.499Z"
 - **(i)**
   - **(1)** Except as provided in paragraph (2), the Advisory Committee shall terminate 10 years after October 5, 2018 .
   - **(2)** The Advisory Committee may be continued for successive 10-year periods by action taken by the Secretary of the Interior to renew the Advisory Committee before the date on which the Advisory Committee would otherwise terminate.
+
+## Source Credit
+
+*([Pub. L. 115–254, div. B, title VII, § 754](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3418](https://www.govinfo.gov/link/statute/132/3418).)*

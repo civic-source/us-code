@@ -3,9 +3,10 @@ title: "Section 40110 - General procurement authority"
 usc_title: 49
 usc_section: "40110"
 chapter: 401
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 40110"
-generated_at: "2026-03-30T02:56:19.370Z"
+generated_at: "2026-11-23T20:27:35.055Z"
+status: "active"
 ---
 
 # § 40110. General procurement authority
@@ -68,3 +69,133 @@ generated_at: "2026-03-30T02:56:19.370Z"
   - **(1)** Except as provided in paragraph (2), a proposal in the possession or control of the Administrator may not be made available to any person under section 552 of title 5 .
   - **(2)** Paragraph (1) shall not apply to any portion of a proposal of an offeror the disclosure of which is authorized by the Administrator pursuant to procedures published in the Federal Register. The Administrator shall provide an opportunity for public comment on the procedures for a period of not less than 30 days beginning on the date of such publication in order to receive and consider the views of all interested parties on the procedures. The procedures shall not take effect before the 60th day following the date of such publication.
   - **(3)** In this subsection, the term “proposal” means information contained in or originating from any proposal, including a technical, management, or cost proposal, submitted by an offeror in response to the requirements of a solicitation for a competitive proposal.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 40110(a) | 49 App.:1344(a)(1) (less term of lease), (2) (words before 1st semicolon), (3). | Aug. 23, 1958 , Pub. L. 85–726, § 303(a) –(d), 72 Stat. 747 ; May 21, 1970 , Pub. L. 91–258, § 51(a)(1) , 84 Stat. 234 ; July 12, 1976 , Pub. L. 94–353, § 16 , 90 Stat. 882 ; Oct. 19, 1980 , Pub. L. 96–470, § 112(e) , 94 Stat. 2240 ; Jan. 12, 1983 , Pub. L. 97–449, § 7(b) , 96 Stat. 2444 ; restated Nov. 5, 1990 , Pub. L. 101–508, § 9118(a) , 104 Stat. 1388–365 . |
+| 40110(b)(1) | 49 App.:1344(d). |  |
+| 40110(b) (2)(A) | 49 App.:1344(a)(1) (related to term of lease). |  |
+| 40110(b) (2)(B) | 49 App.:1344(b)(1). |  |
+| 40110(b) (2)(C) | 49 App.:1344(b)(2). |  |
+| 40110(b) (2)(D) | 49 App.:1344(c). |  |
+| 40110(b) (2)(E) | 49 App.:1344(g). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 747 , § 303(g); added Oct. 31, 1992 , Pub. L. 102–581, § 201(a) , 106 Stat. 4890 . |
+| 40110(b) (2)(F) | 49 App.:1344(a)(2) (words after 1st semicolon). |  |
+
+
+General
+
+Purchase of Housing Units.—
+
+Authority
+
+Adjustments for inflation
+
+Continuing obligations
+
+Certification to congress
+
+Payment of fees
+
+Duties and Powers
+
+Acquisition Management System.—
+
+In general
+
+Applicability of federal acquisition law
+
+Certain provisions of division b (except sections 1704 and 2303) of subtitle i of title 41
+
+Commercial products and services
+
+Adjudication of certain bid protests and contract disputes
+
+Prohibition on Release of Offeror Proposals.—
+
+General rule
+
+Exception
+
+Proposal defined
+
+Historical and Revision Notes
+
+Pub. L
+
+40110(a)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 303(a)
+
+72 Stat. 747
+
+May 21, 1970
+
+Pub. L. 91–258, § 51(a)(1)
+
+84 Stat. 234
+
+July 12, 1976
+
+Pub. L. 94–353, § 16
+
+90 Stat. 882
+
+Oct. 19, 1980
+
+Pub. L. 96–470, § 112(e)
+
+94 Stat. 2240
+
+Jan. 12, 1983
+
+Pub. L. 97–449, § 7(b)
+
+96 Stat. 2444
+
+Nov. 5, 1990
+
+Pub. L. 101–508, § 9118(a)
+
+104 Stat. 1388–365
+
+40110(b)(1)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 747
+
+Oct. 31, 1992
+
+Pub. L. 102–581, § 201(a)
+
+106 Stat. 4890
+
+“When drafting contract proposals for training facilities under the general contracting authority of the Federal Aviation Administration, the Administrator of the Federal Aviation Administration shall ensure—
+
+“Not later than December 31, 1997 , the Administrator of the Federal Aviation Administration shall—
+
+Authority
+
+Pilot Program Implementation
+
+Special Authorities
+
+Applicability
+
+Procedures Authorized
+
+Waiver of Procurement Regulations
+
+Definition
+
+Expiration of Authority
+
+Rule of Construction
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1106](https://www.govinfo.gov/link/statute/108/1106); [Pub. L. 103–429, § 6(48)](https://www.govinfo.gov/link/plaw/103/public/429), (80), Oct. 31, 1994, [108 Stat. 4384](https://www.govinfo.gov/link/statute/108/4384), 4388; [Pub. L. 104–264, title XII, § 1201](https://www.govinfo.gov/link/plaw/104/public/264), Oct. 9, 1996, [110 Stat. 3279](https://www.govinfo.gov/link/statute/110/3279); [Pub. L. 106–181, title III, § 307(b)](https://www.govinfo.gov/link/plaw/106/public/181), title VII, § 703, Apr. 5, 2000, [114 Stat. 125](https://www.govinfo.gov/link/statute/114/125), 156; [Pub. L. 107–217, § 3(n)(5)](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1302](https://www.govinfo.gov/link/statute/116/1302); [Pub. L. 108–176, title II](https://www.govinfo.gov/link/plaw/108/public/176), §§ 222, 224(a), (b), Dec. 12, 2003, [117 Stat. 2527](https://www.govinfo.gov/link/statute/117/2527); [Pub. L. 108–178, § 4(k)](https://www.govinfo.gov/link/plaw/108/public/178), Dec. 15, 2003, [117 Stat. 2642](https://www.govinfo.gov/link/statute/117/2642); [Pub. L. 111–350, § 5](https://www.govinfo.gov/link/plaw/111/public/350) (o)(7), Jan. 4, 2011, [124 Stat. 3853](https://www.govinfo.gov/link/statute/124/3853); [Pub. L. 112–95, title II](https://www.govinfo.gov/link/plaw/112/public/95), §§ 206, 210, Feb. 14, 2012, [126 Stat. 39](https://www.govinfo.gov/link/statute/126/39), 44; [Pub. L. 115–254, div. B, title V, § 544](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3374](https://www.govinfo.gov/link/statute/132/3374); [Pub. L. 118–63, title II](https://www.govinfo.gov/link/plaw/118/public/63), §§ 218(b), 228, title XI, § 1101(e), (f), May 16, 2024, [138 Stat. 1055](https://www.govinfo.gov/link/statute/138/1055), 1062, 1413.)*

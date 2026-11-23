@@ -3,9 +3,10 @@ title: "Section 50902 - Best practices and support"
 usc_title: 34
 usc_section: "50902"
 chapter: 509
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 50902"
-generated_at: "2026-03-30T02:55:33.316Z"
+generated_at: "2026-11-23T20:26:50.667Z"
+status: "active"
 ---
 
 # § 50902. Best practices and support
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:33.316Z"
 - **(c)** The Attorney General shall support and encourage the implementation of peer support counseling programs in first responder agencies by—
   - **(1)** making the report developed under subsection (b) publicly available on the website of the Department of Justice; and
   - **(2)** providing a list of peer support specialist training programs on the website of the Department of Justice.
+
+## Source Credit
+
+*([Pub. L. 117–60, § 3](https://www.govinfo.gov/link/plaw/117/public/60), Nov. 18, 2021, [135 Stat. 1472](https://www.govinfo.gov/link/statute/135/1472).)*

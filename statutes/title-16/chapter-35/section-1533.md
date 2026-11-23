@@ -3,9 +3,10 @@ title: "Section 1533 - Determination of endangered species and threatened specie
 usc_title: 16
 usc_section: "1533"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1533"
-generated_at: "2026-03-30T02:54:22.974Z"
+generated_at: "2026-11-23T20:26:20.518Z"
+status: "active"
 ---
 
 # § 1533. Determination of endangered species and threatened species
@@ -118,3 +119,7 @@ generated_at: "2026-03-30T02:54:22.974Z"
   - **(3)** a ranking system to assist in the identification of species that should receive priority review under subsection (a)(1) of this section; and
   - **(4)** a system for developing and implementing, on a priority basis, recovery plans under subsection (f) of this section.
 - **(i)** If, in the case of any regulation proposed by the Secretary under the authority of this section, a State agency to which notice thereof was given in accordance with subsection (b)(5)(A)(ii) files comments disagreeing with all or part of the proposed regulation, and the Secretary issues a final regulation which is in conflict with such comments, or if the Secretary fails to adopt a regulation pursuant to an action petitioned by a State agency under subsection (b)(3), the Secretary shall submit to the State agency a written justification for his failure to adopt regulations consistent with the agency’s comments or petition.
+
+## Source Credit
+
+*([Pub. L. 93–205, § 4](https://www.govinfo.gov/link/plaw/93/public/205), Dec. 28, 1973, [87 Stat. 886](https://www.govinfo.gov/link/statute/87/886); [Pub. L. 94–359, § 1](https://www.govinfo.gov/link/plaw/94/public/359), July 12, 1976, [90 Stat. 911](https://www.govinfo.gov/link/statute/90/911); [Pub. L. 95–632](https://www.govinfo.gov/link/plaw/95/public/632), §§ 11, 13, Nov. 10, 1978, [92 Stat. 3764](https://www.govinfo.gov/link/statute/92/3764), 3766; [Pub. L. 96–159, § 3](https://www.govinfo.gov/link/plaw/96/public/159), Dec. 28, 1979, [93 Stat. 1225](https://www.govinfo.gov/link/statute/93/1225); [Pub. L. 97–304, § 2(a)](https://www.govinfo.gov/link/plaw/97/public/304), Oct. 13, 1982, [96 Stat. 1411](https://www.govinfo.gov/link/statute/96/1411); [Pub. L. 100–478, title I](https://www.govinfo.gov/link/plaw/100/public/478), §§ 1002–1004, Oct. 7, 1988, [102 Stat. 2306](https://www.govinfo.gov/link/statute/102/2306), 2307; [Pub. L. 108–136, div. A, title III, § 318](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1433](https://www.govinfo.gov/link/statute/117/1433); [Pub. L. 117–286, § 4(a)(113)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4318](https://www.govinfo.gov/link/statute/136/4318).)*

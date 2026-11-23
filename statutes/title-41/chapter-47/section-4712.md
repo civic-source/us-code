@@ -3,9 +3,10 @@ title: "Section 4712 - Enhancement of contractor protection from reprisal for di
 usc_title: 41
 usc_section: "4712"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 4712"
-generated_at: "2026-03-30T02:55:55.808Z"
+generated_at: "2026-11-23T20:27:04.461Z"
+status: "active"
 ---
 
 # § 4712. Enhancement of contractor protection from reprisal for disclosure of certain information
@@ -56,3 +57,61 @@ generated_at: "2026-03-30T02:55:55.808Z"
   - **(1)** The term “abuse of authority” means an arbitrary and capricious exercise of authority that is inconsistent with the mission of the executive agency concerned or the successful performance of a contract or grant of such agency.
   - **(2)** The term “Inspector General” means an Inspector General appointed under chapter 4 of title 5 and any Inspector General that receives funding from, or has oversight over contracts or grants awarded for or on behalf of, the executive agency concerned.
 - **(h)** Nothing in this section, or the amendments made by this section, 1 1 So in original. shall be construed to provide any rights to disclose classified information not otherwise provided by law.
+
+Prohibition of Reprisals
+
+In general
+
+Persons and bodies covered
+
+Rules of construction
+
+Investigation of Complaints
+
+Submission of complaint
+
+Inspector general action
+
+Determination or submission of report on findings
+
+Extension of time
+
+Prohibition on disclosure
+
+Time limitation
+
+Remedy and Enforcement Authority
+
+In general
+
+Exhaustion of remedies
+
+Admissibility of evidence
+
+Enforcement of orders
+
+Judicial review
+
+Burdens of proof
+
+Rights and remedies not waivable
+
+Notification of Employees
+
+Construction
+
+Exceptions
+
+Definitions
+
+Construction
+
+In general
+
+Revision of federal acquisition regulation
+
+Inclusion of contract clause in contracts awarded before effective date
+
+## Source Credit
+
+*(Added [Pub. L. 112–239, div. A, title VIII, § 828(a)(1)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1837](https://www.govinfo.gov/link/statute/126/1837); amended [Pub. L. 113–66, div. A, title X, § 1091(e)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 876](https://www.govinfo.gov/link/statute/127/876); [Pub. L. 114–261, § 1(a)(2)](https://www.govinfo.gov/link/plaw/114/public/261), (3)(A), Dec. 14, 2016, [130 Stat. 1362](https://www.govinfo.gov/link/statute/130/1362); [Pub. L. 116–260, div. U, title VIII, § 801](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2297](https://www.govinfo.gov/link/statute/134/2297); [Pub. L. 117–263, div. A, title VIII, § 807(b)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2704](https://www.govinfo.gov/link/statute/136/2704); [Pub. L. 117–286, § 4(b)(74)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4351](https://www.govinfo.gov/link/statute/136/4351).)*

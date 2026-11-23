@@ -3,9 +3,10 @@ title: "Section 9513 - Research and information"
 usc_title: 15
 usc_section: "9513"
 chapter: 120
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 9513"
-generated_at: "2026-03-30T02:54:08.248Z"
+generated_at: "2026-11-23T20:26:04.574Z"
+status: "active"
 ---
 
 # § 9513. Research and information
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:08.248Z"
   - **(2)** take such steps as the Under Secretary may determine to be necessary and desirable to—
     - **(A)** search for, collect, classify, coordinate, integrate, record, and catalog the data described in paragraph (1); and
     - **(B)** in a manner that is consistent with section 552a of title 5 , protect the privacy of the minority business enterprises to which the data described in paragraph (1) relates.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. K, title I, § 100103](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1450](https://www.govinfo.gov/link/statute/135/1450).)*

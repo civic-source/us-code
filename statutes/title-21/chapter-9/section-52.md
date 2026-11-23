@@ -3,9 +3,10 @@ title: "Section 52 - Authority to assess and use biosimilar biological product f
 usc_title: 21
 usc_section: "52"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 52"
-generated_at: "2026-03-30T02:54:54.273Z"
+generated_at: "2026-11-23T20:26:27.742Z"
+status: "active"
 ---
 
 # § 379j–52. Authority to assess and use biosimilar biological product fees
@@ -144,3 +145,7 @@ generated_at: "2026-03-30T02:54:54.273Z"
 - **(g)** In any case where the Secretary does not receive payment of a fee assessed under subsection (a) within 30 days after it is due, such fee shall be treated as a claim of the United States Government subject to subchapter II of chapter 37 of title 31.
 - **(h)** To qualify for consideration for a waiver under subsection (d), or for the return of any fee paid under this section, including if the fee is claimed to have been paid in error, a person shall submit to the Secretary a written request justifying such waiver or return and, except as otherwise specified in this section, such written request shall be submitted to the Secretary not later than 180 days after such fee is due. A request submitted under this paragraph shall include any legal authorities under which the request is made.
 - **(i)** This section may not be construed to require that the number of full-time equivalent positions in the Department of Health and Human Services, for officers, employers, and advisory committees not engaged in the process of the review of biosimilar biological product applications, be reduced to offset the number of officers, employees, and advisory committees so engaged.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 744H, as added [Pub. L. 112–144, title IV, § 402](https://www.govinfo.gov/link/plaw/112/public/144), July 9, 2012, [126 Stat. 1029](https://www.govinfo.gov/link/statute/126/1029); amended [Pub. L. 114–255, div. A, title III, § 3101(a)(2)(V)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1155](https://www.govinfo.gov/link/statute/130/1155); [Pub. L. 115–52, title IV, § 403](https://www.govinfo.gov/link/plaw/115/public/52), title IX, § 905(b)(4), Aug. 18, 2017, [131 Stat. 1028](https://www.govinfo.gov/link/statute/131/1028), 1090; [Pub. L. 116–136, div. A, title III, § 3856(b)(1)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 458](https://www.govinfo.gov/link/statute/134/458); [Pub. L. 117–180, div. F, title IV, § 4003](https://www.govinfo.gov/link/plaw/117/public/180), Sept. 30, 2022, [136 Stat. 2160](https://www.govinfo.gov/link/statute/136/2160); [Pub. L. 117–328, div. FF, title III, § 3625(b)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5880](https://www.govinfo.gov/link/statute/136/5880).)*

@@ -3,12 +3,19 @@ title: "Section 119a - Boundaries"
 usc_title: 16
 usc_section: "119a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 119a"
-generated_at: "2026-03-30T02:54:22.735Z"
+generated_at: "2026-11-23T20:26:19.370Z"
+status: "active"
 ---
 
 # § 119a. Boundaries
 
 The Petrified Forest National Park, authorized to be established pursuant to section 119 of this title , shall comprise the following described lands: gila and salt river meridian Township 20 north, range 23 east: Sections 1, 2, 3, 10, 11, 12, 13, 14, 15, 22, 23, 24, 25, 26, 27, 34, 35, 36, all. Township 20 north, range 24 east: All. Township 20 north, range 25 east: Sections 4, 5, 6, 7, 8, 9, 16, 17, 18, all. Township 19 north, range 23 east: Sections 1, 2, 3, 10, 11, 12, 13, 14, 15, all. Township 19 north, range 24 east: Sections 2, 3, 4, 5, 6, 7, 8, 9, 10, all; section 11, northwest quarter and north half northeast quarter; sections 16, 17, 18, 21, 28, 33, all. Township 18 north, range 24 east: Sections 4, 9, all; section 10, southwest quarter; sections 13, 14, 15, 16, 21, 22, 23, 24, 25, 26, 27, 28, 33, 34, 35, 36, all. Township 17 north, range 24 east: Sections 2, 11, 14, 23, 26, west halves; sections 3, 4, 5, 6, 7, 8, 9, 10, 15, 16, 17, 18, 19, 20, 21, 22, 27, 28, 29, 30, 31, 32, 33, all. Township 17 north, range 23 east: Sections 34, 35, 36, all. Township 16 north, range 24 east: Sections 3 and 10, west halves; sections 4, 5, 6, 7, 8, 9, all. Township 16 north, range 23 east: Sections 1, 2, 11, 12, all; sections 3, 10, east halves. Township 19 north, range 24 east: the southwest quarter of the southwest quarter of section 27.
 
+
+gila and salt river meridian
+
+## Source Credit
+
+*([Pub. L. 85–358, § 2](https://www.govinfo.gov/link/plaw/85/public/358), Mar. 28, 1958, [72 Stat. 69](https://www.govinfo.gov/link/statute/72/69); [Pub. L. 99–250, § 1](https://www.govinfo.gov/link/plaw/99/public/250), Feb. 27, 1986, [100 Stat. 13](https://www.govinfo.gov/link/statute/100/13).)*

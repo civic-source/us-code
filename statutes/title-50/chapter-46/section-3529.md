@@ -3,9 +3,10 @@ title: "Section 3529 - Medical advisory board"
 usc_title: 50
 usc_section: "3529"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3529"
-generated_at: "2026-03-30T02:56:26.256Z"
+generated_at: "2026-11-23T20:27:31.025Z"
+status: "active"
 ---
 
 # § 3529. Medical advisory board
@@ -60,3 +61,13 @@ generated_at: "2026-03-30T02:56:26.256Z"
   - **(4)** The Director shall ensure that the Board receives comprehensive briefings on all activities of the Office of Medical Services, including by promptly scheduling such briefings at the request of the Board.
 - **(g)** The Board shall terminate on the date that is 5 years after the date of the first meeting of the Board.
 - **(h)** In this section, the terms “congressional intelligence committees” and “intelligence community” have the meanings given such terms in section 3003 of this title .
+
+Deadline for appointments
+
+First board meeting
+
+First meeting with congress
+
+## Source Credit
+
+*(June 20, 1949, ch. 227, § 28, as added [Pub. L. 117–103, div. X, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 992](https://www.govinfo.gov/link/statute/136/992).)*

@@ -3,9 +3,10 @@ title: "Section 718r - State obligations and authorities"
 usc_title: 16
 usc_section: "718r"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 718r"
-generated_at: "2026-03-30T02:54:22.902Z"
+generated_at: "2026-11-23T20:26:20.253Z"
+status: "active"
 ---
 
 # § 718r. State obligations and authorities
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:22.902Z"
 - **(d)** A State authorized to issue electronic stamps may issue a duplicate electronic stamp to replace an electronic stamp issued by the State that is lost or damaged.
 - **(e)** The Secretary shall issue an actual stamp after March 10 of each year to each individual that purchased an electronic stamp for the preceding waterfowl season.
 - **(f)** A State may not require that an individual purchase a State hunting license as a condition of issuing an electronic stamp under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 113–239, § 5](https://www.govinfo.gov/link/plaw/113/public/239), Dec. 18, 2014, [128 Stat. 2848](https://www.govinfo.gov/link/statute/128/2848); [Pub. L. 118–25, § 2(a)](https://www.govinfo.gov/link/plaw/118/public/25), Dec. 19, 2023, [137 Stat. 129](https://www.govinfo.gov/link/statute/137/129).)*

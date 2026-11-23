@@ -3,9 +3,10 @@ title: "Section 887b - Art. 87b. Offenses against correctional custody and restr
 usc_title: 10
 usc_section: "887b"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 887b"
-generated_at: "2026-03-30T02:53:38.085Z"
+generated_at: "2026-11-23T20:25:51.100Z"
+status: "active"
 ---
 
 # § 887b. Art. 87b. Offenses against correctional custody and restriction
@@ -21,3 +22,13 @@ generated_at: "2026-03-30T02:53:38.085Z"
 - **(c)** Any person subject to this chapter—
   - **(1)** who is ordered to be restricted to certain limits by a person authorized to do so; and
   - **(2)** who, with knowledge of the limits of the restriction, goes beyond those limits before being released by proper authority;
+
+Escape From Correctional Custody
+
+Breach of Correctional Custody
+
+Breach of Restriction
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. E, title LX, § 5407](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2941](https://www.govinfo.gov/link/statute/130/2941).)*

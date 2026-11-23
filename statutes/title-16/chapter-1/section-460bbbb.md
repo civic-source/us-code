@@ -3,9 +3,10 @@ title: "Section 460bbbb - Ashley Karst National Recreation and Geologic Area"
 usc_title: 16
 usc_section: "460bbbb"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 460bbbb"
-generated_at: "2026-03-30T02:54:22.850Z"
+generated_at: "2026-11-23T20:26:20.049Z"
+status: "active"
 ---
 
 # § 460bbbb. Ashley Karst National Recreation and Geologic Area
@@ -78,3 +79,7 @@ generated_at: "2026-03-30T02:54:22.850Z"
   - **(1)** Nothing in this section affects non-Federal land or interests in non-Federal land within the Recreation Area.
   - **(2)** The Secretary shall provide reasonable access to non-Federal land or interests in non-Federal land within the Recreation Area.
 - **(s)** Outfitting and guide services within the Recreation Area, including commercial outfitting and guide services, are authorized in accordance with this section and other applicable law (including regulations).
+
+## Source Credit
+
+*([Pub. L. 116–9, title I, § 1117](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 623](https://www.govinfo.gov/link/statute/133/623).)*

@@ -3,9 +3,10 @@ title: "Section 719g - Transportation system certificates, rights-of-way, permit
 usc_title: 15
 usc_section: "719g"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 719g"
-generated_at: "2026-03-30T02:54:08.120Z"
+generated_at: "2026-11-23T20:26:03.912Z"
+status: "active"
 ---
 
 # § 719g. Transportation system certificates, rights-of-way, permits, leases, or other authorizations
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.120Z"
 - **(c)** Any certificate, right-of-way, permit, lease, or other authorization issued or granted pursuant to the direction under subsection (a) shall include the terms and conditions required by law unless waived pursuant to a resolution under section 719f(g) of this title , and may include terms and conditions permitted by law, except that with respect to terms and conditions permitted but not required, the Federal officer or agency, notwithstanding any such other provision of law, shall have no authority to include terms and conditions as would compel a change in the basic nature and general route of the approved transportation system or those the inclusion of which would otherwise prevent or impair in any significant respect the expeditious construction and initial operation of such transportation system.
 - **(d)** Any Federal officer or agency, with respect to any certificate, permit, right-of-way, lease, or other authorization issued or granted by such officer or agency, may, to the extent permitted under laws administered by such officer or agency add to, amend or abrogate any term or condition included in such certificate, permit, right-of-way, lease, or other authorization except that with respect to any such action which is permitted but not required by law, such Federal officer or agency, notwithstanding any such other provision of law, shall have no authority to take such action if the terms and conditions to be added, or as amended, would compel a change in the basic nature and general route of the approved transportation system or would otherwise prevent or impair in any significant respect the expeditious construction and initial operation of such transportation system.
 - **(e)** Any Federal officer or agency to which subsection (a) applies, to the extent permitted under laws administered by such officer or agency, shall include in any certificate, permit, right-of-way, lease, or authorization issued or granted those terms and conditions identified in the President’s decision as appropriate for inclusion except that the requirement to include such terms and conditions shall not limit the Federal officer or agency’s authority under subsection (d) of this section.
+
+## Source Credit
+
+*([Pub. L. 94–586, § 9](https://www.govinfo.gov/link/plaw/94/public/586), Oct. 22, 1976, [90 Stat. 2912](https://www.govinfo.gov/link/statute/90/2912).)*

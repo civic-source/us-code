@@ -3,9 +3,10 @@ title: "Section 16 - Comprehensive plans for development, utilization, and conse
 usc_title: 42
 usc_section: "16"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16"
-generated_at: "2026-03-30T02:56:11.135Z"
+generated_at: "2026-11-23T20:27:21.988Z"
+status: "active"
 ---
 
 # § 1962d–16. Comprehensive plans for development, utilization, and conservation of water and related resources
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:11.135Z"
 - **(f)**
   - **(1)** The cost-share for assistance under this section provided to Indian tribes, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Marianas, and the Trust Territory of the Pacific Islands shall be as provided under section 2310 of title 33 .
   - **(2)** Notwithstanding subsection (b)(1) and the limitation in section 2310 of title 33 , as applicable pursuant to paragraph (1) of this subsection, the Secretary is authorized to waive the collection of fees for any local government to which assistance is provided under subsection (a) that the Secretary determines is an economically disadvantaged community, as defined by the Secretary under section 160 of the Water Resources Development Act of 2020 ( 33 U.S.C. 2201 note) (including economically disadvantaged communities located in urban and rural areas).
+
+## Source Credit
+
+*([Pub. L. 93–251, title I, § 22](https://www.govinfo.gov/link/plaw/93/public/251), Mar. 7, 1974, [88 Stat. 20](https://www.govinfo.gov/link/statute/88/20); [Pub. L. 94–587, § 168](https://www.govinfo.gov/link/plaw/94/public/587), Oct. 22, 1976, [90 Stat. 2936](https://www.govinfo.gov/link/statute/90/2936); [Pub. L. 96–597, title VI, § 605](https://www.govinfo.gov/link/plaw/96/public/597), Dec. 24, 1980, [94 Stat. 3482](https://www.govinfo.gov/link/statute/94/3482); [Pub. L. 99–662, title IX, § 921](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4194](https://www.govinfo.gov/link/statute/100/4194); [Pub. L. 101–640, title III, § 319](https://www.govinfo.gov/link/plaw/101/public/640), Nov. 28, 1990, [104 Stat. 4642](https://www.govinfo.gov/link/statute/104/4642); [Pub. L. 102–580, title II, § 208](https://www.govinfo.gov/link/plaw/102/public/580), Oct. 31, 1992, [106 Stat. 4829](https://www.govinfo.gov/link/statute/106/4829); [Pub. L. 104–303, title II, § 221](https://www.govinfo.gov/link/plaw/104/public/303), Oct. 12, 1996, [110 Stat. 3697](https://www.govinfo.gov/link/statute/110/3697); [Pub. L. 110–114, title II, § 2013](https://www.govinfo.gov/link/plaw/110/public/114), Nov. 8, 2007, [121 Stat. 1075](https://www.govinfo.gov/link/statute/121/1075); [Pub. L. 113–121, title III, § 3015](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1288](https://www.govinfo.gov/link/statute/128/1288); [Pub. L. 114–322, title I](https://www.govinfo.gov/link/plaw/114/public/322), §§ 1128, 1129, Dec. 16, 2016, [130 Stat. 1649](https://www.govinfo.gov/link/statute/130/1649); [Pub. L. 115–270, title I, § 1159](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3795](https://www.govinfo.gov/link/statute/132/3795); [Pub. L. 117–263, div. H, title LXXXI, § 8119(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3711](https://www.govinfo.gov/link/statute/136/3711); [Pub. L. 118–272, div. A, title I, § 1127](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3018](https://www.govinfo.gov/link/statute/138/3018).)*

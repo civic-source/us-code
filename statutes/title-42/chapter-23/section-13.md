@@ -3,9 +3,10 @@ title: "Section 13 - Application of certain laws"
 usc_title: 42
 usc_section: "13"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13"
-generated_at: "2026-03-30T02:56:11.163Z"
+generated_at: "2026-11-23T20:27:22.142Z"
+status: "active"
 ---
 
 # § 2297h–13. Application of certain laws
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.163Z"
 - **(c)**
   - **(1)** The private corporation and its contractors and subcontractors shall be subject to the provisions of section 5851 of this title to the same extent as an employer subject to such section.
   - **(2)** With respect to the operation of the facilities leased by the private corporation, section 5846 of this title shall apply to the directors and officers of the private corporation.
+
+## Source Credit
+
+*([Pub. L. 104–134, title III, § 3115](https://www.govinfo.gov/link/plaw/104/public/134), Apr. 26, 1996, [110 Stat. 1321–348](https://www.govinfo.gov/link/statute/110/1321).)*

@@ -3,9 +3,10 @@ title: "Section 271c - Access roads"
 usc_title: 16
 usc_section: "271c"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 271c"
-generated_at: "2026-03-30T02:54:22.746Z"
+generated_at: "2026-11-23T20:26:19.399Z"
+status: "active"
 ---
 
 # § 271c. Access roads
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:22.746Z"
 - **(b)** To carry out the purposes of this section, the Secretary may acquire non-Federal lands or interests in lands by donation, purchase, condemnation, exchange, or such other means as he may deem to be in the public interest: Provided , That lands and interests in lands acquired outside the park as rights-of-way for said entrance roads and connections shall not exceed an average of one hundred twenty-five acres per mile. Rights-of-way and entrance and administrative sites acquired pursuant to this authority shall be administered pursuant to such special regulations as the Secretary may promulgate in furtherance of the purposes of this section.
 - **(c)** The Secretary may construct, reconstruct, improve, and maintain upon the lands or interests in lands acquired pursuant to this section, or otherwise in Government ownership, an entrance road or roads and connections of parkway standards, including necessary bridges and other structures and utilities as necessary, and funds appropriated for the National Park Service shall be available for these purposes: Provided , That if any portion of such road or roads crosses national forest land the Secretary shall obtain the approval of the Secretary of Agriculture before construction of such portion shall begin.
 - **(d)** The Secretary is hereby authorized to cooperate with the Secretary of Agriculture in the location and extension of a forest development road from State Route 95 and may extend the same from the national forest boundary to the park and points of interest therein in accordance with the applicable provisions of this section.
+
+## Source Credit
+
+*([Pub. L. 88–590, § 4](https://www.govinfo.gov/link/plaw/88/public/590), Sept. 12, 1964, [78 Stat. 938](https://www.govinfo.gov/link/statute/78/938).)*

@@ -3,9 +3,10 @@ title: "Section 676 - Omitted"
 usc_title: 29
 usc_section: "676"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 676"
-generated_at: "2026-03-30T02:55:18.690Z"
+generated_at: "2026-11-23T20:26:37.842Z"
+status: "omitted"
 ---
 
 # § 676. Omitted

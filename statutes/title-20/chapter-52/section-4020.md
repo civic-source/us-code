@@ -3,9 +3,10 @@ title: "Section 4020 - Definitions"
 usc_title: 20
 usc_section: "4020"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 4020"
-generated_at: "2026-03-30T02:54:48.182Z"
+generated_at: "2026-11-23T20:26:14.753Z"
+status: "active"
 ---
 
 # § 4020. Definitions
@@ -31,3 +32,7 @@ For purposes of this subchapter:
   - **(7)** The term “Administrator” means the Administrator of the Environmental Protection Agency, or the Administrator’s designee.
   - **(8)** The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and the Bureau of Indian Affairs.
   - **(9)** The term “response action” has the meaning given such term by section 2642(11) of title 15 .
+
+## Source Credit
+
+*([Pub. L. 98–377, title V, § 511](https://www.govinfo.gov/link/plaw/98/public/377), Aug. 11, 1984, [98 Stat. 1294](https://www.govinfo.gov/link/statute/98/1294); [Pub. L. 101–637](https://www.govinfo.gov/link/plaw/101/public/637), §§ 10, 14(a)(11), (c)(6), Nov. 28, 1990, [104 Stat. 4592](https://www.govinfo.gov/link/statute/104/4592), 4594, 4596; [Pub. L. 103–382, title III, § 394(c)](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 4027](https://www.govinfo.gov/link/statute/108/4027); [Pub. L. 107–110, title X, § 1076](https://www.govinfo.gov/link/plaw/107/public/110) (l)(2), Jan. 8, 2002, [115 Stat. 2092](https://www.govinfo.gov/link/statute/115/2092); [Pub. L. 114–95, title IX, § 9215(dd)(2)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2173](https://www.govinfo.gov/link/statute/129/2173).)*

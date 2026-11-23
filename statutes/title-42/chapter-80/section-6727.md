@@ -3,9 +3,10 @@ title: "Section 6727 - Nondiscrimination"
 usc_title: 42
 usc_section: "6727"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6727"
-generated_at: "2026-03-30T02:56:11.265Z"
+generated_at: "2026-11-23T20:27:22.701Z"
+status: "active"
 ---
 
 # § 6727. Nondiscrimination
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.265Z"
     - **(A)** The provisions of paragraph (1) of this subsection shall not apply where any State government or unit of local government demonstrates, by clear and convincing evidence, that the program or activity with respect to which the allegation of discrimination has been made is not funded in whole or in part with funds made available under this subchapter.
     - **(B)** The provisions of paragraph (1), relating to discrimination on the basis of handicapped status, shall not apply with respect to construction projects commenced prior to January 1, 1977 .
 - **(b)** The provisions of subsection (a) of this section shall be enforced by the Secretary in the same manner and in accordance with the same procedures as are required by sections 6701(a)(2), (3), 6716–6720, 6721, and 6723(f) of title 31 1 1 See References in Text note below. to enforce compliance with section 6716(a)–(c) of title 31. 1 The Attorney General shall have the same authority, functions, and duties with respect to funds made available under this subchapter as the Attorney General has under sections 6716(d), 6720, and 6721(d) of title 31 1 with respect to funds made available under chapter 67 of title 31. 1 Any person aggrieved by a violation of subsection (a) of this section shall have the same rights and remedies as a person aggrieved by a violation of section 6716(a)–(c) of title 31, 1 including the rights provided under section 6721(d) of title 31 . 1
+
+## Source Credit
+
+*([Pub. L. 94–369, title II, § 207](https://www.govinfo.gov/link/plaw/94/public/369), July 22, 1976, [90 Stat. 1007](https://www.govinfo.gov/link/statute/90/1007); [Pub. L. 95–30, title VI, § 605](https://www.govinfo.gov/link/plaw/95/public/30), May 23, 1977, [91 Stat. 166](https://www.govinfo.gov/link/statute/91/166).)*

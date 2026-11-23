@@ -3,9 +3,10 @@ title: "Section 272 - Citizenship and Immigration Services Ombudsman"
 usc_title: 6
 usc_section: "272"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 272"
-generated_at: "2026-03-30T02:53:09.454Z"
+generated_at: "2026-11-23T20:25:34.687Z"
+status: "active"
 ---
 
 # § 272. Citizenship and Immigration Services Ombudsman
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:53:09.454Z"
     - **(C)** shall, at the initial meeting with any individual or employer seeking the assistance of such local office, notify such individual or employer that the local offices of the Ombudsman operate independently of any other component of the Department and report directly to Congress through the Ombudsman; and
     - **(D)** at the local ombudsman’s discretion, may determine not to disclose to the Bureau of Citizenship and Immigration Services contact with, or information provided by, such individual or employer.
   - **(2)** Each local office of the Ombudsman shall maintain a phone, facsimile, and other means of electronic communication access, and a post office address, that is separate from those maintained by the Bureau of Citizenship and Immigration Services, or any component of the Bureau of Citizenship and Immigration Services.
+
+## Source Credit
+
+*([Pub. L. 107–296, title IV, § 452](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2197](https://www.govinfo.gov/link/statute/116/2197).)*

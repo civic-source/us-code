@@ -3,9 +3,10 @@ title: "Section 2102 - Rural forestry assistance"
 usc_title: 16
 usc_section: "2102"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 2102"
-generated_at: "2026-03-30T02:54:22.997Z"
+generated_at: "2026-11-23T20:26:20.590Z"
+status: "active"
 ---
 
 # § 2102. Rural forestry assistance
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:54:22.997Z"
   - **(6)** protect or improve soil fertility on non-Federal forest lands and the quality, quantity, and timing of water yields therefrom.
 - **(c)** In implementing this section, the Secretary shall cooperate with other Federal, State, and local natural resource management agencies, universities and the private sector.
 - **(d)** There are authorized to be appropriated such sums as may be necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 95–313, § 3](https://www.govinfo.gov/link/plaw/95/public/313), July 1, 1978, [92 Stat. 366](https://www.govinfo.gov/link/statute/92/366); [Pub. L. 101–624, title XII, § 1213](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3523](https://www.govinfo.gov/link/statute/104/3523).)*

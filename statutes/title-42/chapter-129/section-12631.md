@@ -3,9 +3,10 @@ title: "Section 12631 - Family and medical leave"
 usc_title: 42
 usc_section: "12631"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12631"
-generated_at: "2026-03-30T02:56:11.421Z"
+generated_at: "2026-11-23T20:27:23.394Z"
+status: "active"
 ---
 
 # § 12631. Family and medical leave
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.421Z"
   - **(1)** a participant has provided service for the period required by section 6381(1)(B) of such title with respect to a project; and
   - **(2)** the service sponsor of the project is an employing agency within the meaning of such subchapter,
 - **(c)** The period of any absence of a participant from a service position pursuant to title I of the Family and Medical Leave Act of 1993 [ 29 U.S.C. 2611 et seq.] or subchapter V of chapter 63 of title 5 shall not be counted toward the completion of the term of service of the participant under section 12593 of this title .
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 171](https://www.govinfo.gov/link/plaw/101/public/610), Nov. 16, 1990, [104 Stat. 3159](https://www.govinfo.gov/link/statute/104/3159); [Pub. L. 103–82, title I, § 113(a)](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 861](https://www.govinfo.gov/link/statute/107/861); [Pub. L. 111–13, title I, § 1601](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1529](https://www.govinfo.gov/link/statute/123/1529).)*

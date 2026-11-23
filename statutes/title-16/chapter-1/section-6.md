@@ -3,9 +3,10 @@ title: "Section 6 - Advisory Council"
 usc_title: 16
 usc_section: "6"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6"
-generated_at: "2026-03-30T02:54:22.850Z"
+generated_at: "2026-11-23T20:26:20.048Z"
+status: "active"
 ---
 
 # § 460zzz–6. Advisory Council
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:22.850Z"
     - **(B)** the interests of the stakeholders that are affected by the planning and management of the Conservation Area and Wilderness.
 - **(e)** The Secretary shall ensure that the membership of the Council is fairly balanced in terms of the points of view represented and the functions to be performed by the Council.
 - **(f)** The Council shall terminate on the date that is 1 year from the date on which the management plan is adopted by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 111–11, title II, § 2407](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1107](https://www.govinfo.gov/link/statute/123/1107); [Pub. L. 117–286, § 4(a)(97)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4316](https://www.govinfo.gov/link/statute/136/4316).)*

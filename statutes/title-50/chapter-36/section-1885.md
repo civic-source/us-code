@@ -3,9 +3,10 @@ title: "Section 1885 - Definitions"
 usc_title: 50
 usc_section: "1885"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 1885"
-generated_at: "2026-03-30T02:56:26.215Z"
+generated_at: "2026-11-23T20:27:30.804Z"
+status: "active"
 ---
 
 # § 1885. Definitions
@@ -41,3 +42,7 @@ In this subchapter:
       - **(ii)** a certification in writing under section 2511(2)(a)(ii)(B) or 2709(b) of title 18; or
       - **(iii)** a directive under section 1802(a)(4), 1805b(e), as added by section 2 of the Protect America Act of 2007 ( Public Law 110–55 ), or 1881a(i) of this title.
   - **(9)** The term “State” means any State, political subdivision of a State, the Commonwealth of Puerto Rico, the District of Columbia, and any territory or possession of the United States, and includes any officer, public utility commission, or other body authorized to regulate an electronic communication service provider.
+
+## Source Credit
+
+*([Pub. L. 95–511, title VIII, § 801](https://www.govinfo.gov/link/plaw/95/public/511), as added [Pub. L. 110–261, title II, § 201](https://www.govinfo.gov/link/plaw/110/public/261), July 10, 2008, [122 Stat. 2467](https://www.govinfo.gov/link/statute/122/2467); amended [Pub. L. 115–118, title I, § 101(b)(2)(A)](https://www.govinfo.gov/link/plaw/115/public/118), title II, § 205(a)(7), Jan. 19, 2018, [132 Stat. 8](https://www.govinfo.gov/link/statute/132/8), 21; [Pub. L. 118–49, § 25(b)](https://www.govinfo.gov/link/plaw/118/public/49), Apr. 20, 2024, [138 Stat. 893](https://www.govinfo.gov/link/statute/138/893).)*

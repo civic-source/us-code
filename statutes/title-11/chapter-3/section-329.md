@@ -3,9 +3,10 @@ title: "Section 329 - Debtor’s transactions with attorneys"
 usc_title: 11
 usc_section: "329"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 329"
-generated_at: "2026-03-30T02:53:53.874Z"
+generated_at: "2026-11-23T20:25:55.337Z"
+status: "active"
 ---
 
 # § 329. Debtor’s transactions with attorneys
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:53.874Z"
     - **(A)** would have been property of the estate; or
     - **(B)** was to be paid by or on behalf of the debtor under a plan under chapter 11, 12, or 13 of this title; or
   - **(2)** the entity that made such payment.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2564](https://www.govinfo.gov/link/statute/92/2564); [Pub. L. 98–353, title III, § 432](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 370](https://www.govinfo.gov/link/statute/98/370); [Pub. L. 99–554, title II, § 257(c)](https://www.govinfo.gov/link/plaw/99/public/554), Oct. 27, 1986, [100 Stat. 3114](https://www.govinfo.gov/link/statute/100/3114).)*

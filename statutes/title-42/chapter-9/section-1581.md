@@ -3,9 +3,10 @@ title: "Section 1581 - Housing disposition"
 usc_title: 42
 usc_section: "1581"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1581"
-generated_at: "2026-03-30T02:56:11.100Z"
+generated_at: "2026-11-23T20:27:21.818Z"
+status: "active"
 ---
 
 # § 1581. Housing disposition
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.100Z"
 - **(f)** In any relinquishment or transfer under this section, the net revenues and other proceeds from such housing to which the United States is entitled on the basis of periodic settlements shall continue to accrue to the United States until the end of the month in which the relinquishment or transfer is made, and the obligation of the transferee to pay such accrued amounts shall not be affected by this section. The Secretary of Housing and Urban Development may charge to the transferee the cost to the United States of any survey, title information, or other item incidental to the transfer.
 - **(g)** Upon the filing of a request therefor as herein prescribed, the Secretary of Housing and Urban Development may (subject to the provisions of this section) relinquish and transfer, without monetary consideration other than payment for land involved as specifically required by subsection (b) hereof, to any local public agency organized specifically and solely for the purpose of slum clearance and community redevelopment in a municipality in which the total number of persons, who on December 31, 1948 , were living in temporary family accommodations provided by the United States or any agency thereof since September 8, 1939 , exceeded the total population of such municipality as shown by the 1940 census, all right, title, and interest of the United States in and with respect to any temporary housing located in such municipality under the conditions set forth in said subsection (b). Notwithstanding the provisions of subsection (b) of this section, the Secretary of Housing and Urban Development shall not relinquish or transfer any right, title, or interest of the United States in and with respect to any temporary housing situated in such a municipality except as set forth in this subsection if at the time of the relinquishment or transfer there is in existence in such a municipality a local public agency organized specifically and solely for the purpose of slum clearance and community redevelopment.
 - **(h)** Upon the filing of a request therefor as herein prescribed, the Secretary of Housing and Urban Development may (subject to the provisions of this section except the provisions of subsection (d) hereof) relinquish and transfer to any municipality, without monetary consideration other than payment for the land involved as specifically required by subsection (b) hereof, all right, title, and interest of the United States in and with respect to unoccupied temporary housing of masonry construction located in such municipality: Provided , That such housing has been wholly or partially stripped of trim and fixtures prior to April 20, 1950 and the municipality adopts a resolution determining that the structures, with proposed improvements, will be suitable for long-term housing use.
+
+## Source Credit
+
+*(Oct. 14, 1940, ch. 862, title VI, § 601, as added June 28, 1948, ch. 688, § 7, as added Apr. 20, 1950, ch. 94, title II, § 201, [64 Stat. 59](https://www.govinfo.gov/link/statute/64/59); amended Ex. Ord. No. 10284, §§ 1, 2, eff. Sept. 4, 1951, 16 F.R. 8971; Oct. 26, 1951, ch. 577, § 2, [65 Stat. 648](https://www.govinfo.gov/link/statute/65/648); Ex. Ord. No. 10339, eff. Apr. 7, 1952, 17 F.R. 3012; Ex. Ord. No. 10395, eff. Sept. 19, 1952, 17 F.R. 8449; Ex. Ord. No. 10425, eff. Jan. 16, 1953, 18 F.R. 405; Feb. 15, 1956, ch. 35, [70 Stat. 15](https://www.govinfo.gov/link/statute/70/15); [Pub. L. 89–174, § 5(a)](https://www.govinfo.gov/link/plaw/89/public/174), Sept. 9, 1965, [79 Stat. 669](https://www.govinfo.gov/link/statute/79/669); [Pub. L. 102–54, § 13(q)(6)(A)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 280](https://www.govinfo.gov/link/statute/105/280).)*

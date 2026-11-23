@@ -3,9 +3,10 @@ title: "Section 9576 - Authority to publish"
 usc_title: 20
 usc_section: "9576"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 9576"
-generated_at: "2026-03-30T02:54:48.230Z"
+generated_at: "2026-11-23T20:26:14.996Z"
+status: "active"
 ---
 
 # § 9576. Authority to publish
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:48.230Z"
   - **(1)** information on current or proposed budgets, appropriations, or legislation;
   - **(2)** information prohibited from disclosure by law or the Constitution, classified national security information, or information described in section 552(b) of title 5 ; and
   - **(3)** review by officers of the United States in order to prevent the unauthorized disclosure of information described in paragraph (1) or (2).
+
+## Source Credit
+
+*([Pub. L. 107–279, title I, § 186](https://www.govinfo.gov/link/plaw/107/public/279), Nov. 5, 2002, [116 Stat. 1973](https://www.govinfo.gov/link/statute/116/1973).)*

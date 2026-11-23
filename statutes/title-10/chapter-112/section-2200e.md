@@ -3,9 +3,10 @@ title: "Section 2200e - Definitions"
 usc_title: 10
 usc_section: "2200e"
 chapter: 112
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2200e"
-generated_at: "2026-03-30T02:53:38.147Z"
+generated_at: "2026-11-23T20:25:51.486Z"
+status: "active"
 ---
 
 # § 2200e. Definitions
@@ -19,3 +20,7 @@ In this chapter:
     - **(D)** Any other information technology that the Secretary of Defense considers to be related to the cyber activities of the Department of Defense.
   - **(2)** The term “institution of higher education” has the meaning given the term in section 101 of the Higher Education Act of 1965 ( 20 U.S.C. 1001 ).
   - **(3)** The term “Center of Academic Excellence in Cyber Education” means an institution of higher education that is designated by the Director of the National Security Agency as a Center of Academic Excellence in Cyber Education.
+
+## Source Credit
+
+*(Added [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title IX, § 922(a)(1)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–236; amended [Pub. L. 115–91, div. A, title XVI, § 1649(c)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1752](https://www.govinfo.gov/link/statute/131/1752).)*

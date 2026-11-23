@@ -3,9 +3,10 @@ title: "Section 7651h - Repowered sources"
 usc_title: 42
 usc_section: "7651h"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7651h"
-generated_at: "2026-03-30T02:56:11.323Z"
+generated_at: "2026-11-23T20:27:22.955Z"
+status: "active"
 ---
 
 # § 7651h. Repowered sources
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.323Z"
 - **(d)** Any unit qualifying for an extension under this section that does not increase actual hourly emissions for any pollutant regulated under the 2 2 So in original. Probably should be “this”. chapter shall not be subject to any standard of performance under section 7411 of this title . Notwithstanding the provisions of this subsection, no new unit (1) designated as a replacement for an existing unit, (2) qualifying for the extension under subsection (b), and (3) located at a different site than the existing unit shall receive an exemption from the requirements imposed under section 7411 of this title .
 - **(e)** State permitting authorities and, where applicable, the Administrator, are encouraged to give expedited consideration to permit applications under parts C and D of subchapter I of this chapter for any source qualifying for an extension under this section.
 - **(f)** It shall be unlawful for the owner or operator of a repowered source to fail to comply with the requirement of this section, or any regulations of permit requirements to implement this section, including the prohibition against emitting sulfur dioxide in excess of allowances held.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title IV, § 409, as added [Pub. L. 101–549, title IV, § 401](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2619](https://www.govinfo.gov/link/statute/104/2619).)*

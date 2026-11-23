@@ -3,9 +3,10 @@ title: "Section 7122 - Compromises"
 usc_title: 26
 usc_section: "7122"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 7122"
-generated_at: "2026-03-30T02:55:27.868Z"
+generated_at: "2026-11-23T20:26:46.743Z"
+status: "active"
 ---
 
 # § 7122. Compromises
@@ -44,3 +45,9 @@ generated_at: "2026-03-30T02:55:27.868Z"
   - **(2)** which allow a taxpayer to appeal any rejection of such offer or agreement to the Internal Revenue Service Independent Office of Appeals.
 - **(f)** Any offer-in-compromise submitted under this section shall be deemed to be accepted by the Secretary if such offer is not rejected by the Secretary before the date which is 24 months after the date of the submission of such offer. For purposes of the preceding sentence, any period during which any tax liability which is the subject of such offer-in-compromise is in dispute in any judicial proceeding shall not be taken into account in determining the expiration of the 24-month period.
 - **(g)** Notwithstanding any other provision of this section, if the Secretary determines that any portion of an application for an offer-in-compromise or installment agreement submitted under this section or section 6159 meets the requirement of clause (i) or (ii) of section 6702(b)(2)(A), then the Secretary may treat such portion as if it were never submitted and such portion shall not be subject to any further administrative or judicial review.
+
+“The Secretary of the Treasury shall prepare a statement which sets forth in simple, nontechnical terms the rights of a taxpayer and the obligations of the Internal Revenue Service relating to offers-in-compromise. Such statement shall—
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 849; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 104–168, title V, § 503(a)](https://www.govinfo.gov/link/plaw/104/public/168), July 30, 1996, [110 Stat. 1461](https://www.govinfo.gov/link/statute/110/1461); [Pub. L. 105–206, title III, § 3462(a)](https://www.govinfo.gov/link/plaw/105/public/206), (c)(1), July 22, 1998, [112 Stat. 764](https://www.govinfo.gov/link/statute/112/764), 766; [Pub. L. 109–222, title V, § 509(a)](https://www.govinfo.gov/link/plaw/109/public/222), (b), May 17, 2006, [120 Stat. 362](https://www.govinfo.gov/link/statute/120/362), 363; [Pub. L. 109–432, div. A, title IV, § 407(d)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 2962](https://www.govinfo.gov/link/statute/120/2962); [Pub. L. 113–295, div. A, title II, § 220(y)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4036](https://www.govinfo.gov/link/statute/128/4036); [Pub. L. 116–25, title I](https://www.govinfo.gov/link/plaw/116/public/25), §§ 1001(b)(1)(F), 1102(a), July 1, 2019, [133 Stat. 985](https://www.govinfo.gov/link/statute/133/985), 986.)*

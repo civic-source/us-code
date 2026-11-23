@@ -3,9 +3,10 @@ title: "Section 1018a - Procurement flexibility"
 usc_title: 20
 usc_section: "1018a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1018a"
-generated_at: "2026-03-30T02:54:48.095Z"
+generated_at: "2026-11-23T20:26:14.313Z"
+status: "active"
 ---
 
 # § 1018a. Procurement flexibility
@@ -84,3 +85,7 @@ generated_at: "2026-03-30T02:54:48.095Z"
   - **(4)** The term “single-source basis”, with respect to an award of a contract, means that the contract is awarded to a source after soliciting an offer or offers from, and negotiating with, only such source (although such source is not the only source in the marketplace capable of meeting the need) because such source is the most advantageous source for purposes of the award.
   - **(5)** The term “special rules for commercial products and commercial services” means the regulations set forth in the Federal Acquisition Regulation pursuant to sections 1901 and 3305(a) of title 41.
   - **(6)** The term “special simplified procedures” means the procedures applicable to purchases of property and services for amounts not greater than the simplified acquisition threshold that are set forth in the Federal Acquisition Regulation pursuant to sections 1901(a)(1) and 3305(a)(1) of title 41.
+
+## Source Credit
+
+*([Pub. L. 89–329, title I, § 142](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title I, § 101(a)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1611](https://www.govinfo.gov/link/statute/112/1611); amended [Pub. L. 110–315, title I, § 118](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3116](https://www.govinfo.gov/link/statute/122/3116); [Pub. L. 115–232, div. A, title VIII, § 836(g)(2)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1872](https://www.govinfo.gov/link/statute/132/1872).)*

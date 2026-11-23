@@ -3,9 +3,10 @@ title: "Section 3352a - Reports and plans relating to security clearances and ba
 usc_title: 50
 usc_section: "3352a"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3352a"
-generated_at: "2026-03-30T02:56:26.247Z"
+generated_at: "2026-11-23T20:27:30.975Z"
+status: "active"
 ---
 
 # § 3352a. Reports and plans relating to security clearances and background investigations
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:26.247Z"
       - **(vi)** Recommendations on interagency governance.
   - **(3)** Not later than 180 days after December 20, 2019 , the Chairman of the Council, in coordination with the members of the Council, shall submit to the appropriate congressional committees and make available to appropriate industry partners a plan to implement the report’s framework and recommendations submitted under paragraph (2)(A).
   - **(4)** Not less frequently than quarterly, the Security Executive Agent shall make available to the public a report regarding the status of the disposition of requests received from departments and agencies of the Federal Government for a change to, or approval under, the Federal investigative standards, the national adjudicative guidelines, continuous vetting, or other national policy regarding personnel security.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. E, title LXVI, § 6602](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2210](https://www.govinfo.gov/link/statute/133/2210).)*

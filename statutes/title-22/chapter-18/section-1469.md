@@ -3,9 +3,10 @@ title: "Section 1469 - United States Advisory Commission on Public Diplomacy"
 usc_title: 22
 usc_section: "1469"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 1469"
-generated_at: "2026-03-30T02:55:05.332Z"
+generated_at: "2026-11-23T20:26:32.113Z"
+status: "active"
 ---
 
 # § 1469. United States Advisory Commission on Public Diplomacy
@@ -53,3 +54,11 @@ generated_at: "2026-03-30T02:55:05.332Z"
     - **(A)** The Commission shall submit other reports, including working papers, to Congress, the President, and the Secretary of State at least semi-annually on other activities and policies related to United States public diplomacy.
     - **(B)** The Commission shall make the reports submitted pursuant to subparagraph (A) publicly available on the website of the Commission to develop a better understanding of, and support for, public diplomacy activities.
   - **(3)** The Secretary of State shall ensure that the Commission has access to all appropriate information to carry out its duties and responsibilities under this subsection.
+
+Reenactment
+
+Repeal
+
+## Source Credit
+
+*(Jan. 27, 1948, ch. 36, title VI, § 604, as added [Pub. L. 96–60, title II, § 203(f)](https://www.govinfo.gov/link/plaw/96/public/60), Aug. 15, 1979, [93 Stat. 399](https://www.govinfo.gov/link/statute/93/399); amended [Pub. L. 100–204, title II, § 213](https://www.govinfo.gov/link/plaw/100/public/204), Dec. 22, 1987, [101 Stat. 1376](https://www.govinfo.gov/link/statute/101/1376); [Pub. L. 101–246, title II, § 206(a)](https://www.govinfo.gov/link/plaw/101/public/246), Feb. 16, 1990, [104 Stat. 51](https://www.govinfo.gov/link/statute/104/51); [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XIII, § 1334(b), Oct. 21, 1998, [112 Stat. 2681–786](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title IV, § 404(a), (c)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–446, 1501A–447; [Pub. L. 107–77, title IV, § 407(c)](https://www.govinfo.gov/link/plaw/107/public/77), Nov. 28, 2001, [115 Stat. 790](https://www.govinfo.gov/link/statute/115/790); [Pub. L. 112–239, div. A, title XII, § 1280(a)](https://www.govinfo.gov/link/plaw/112/public/239) –(c), Jan. 2, 2013, [126 Stat. 2032](https://www.govinfo.gov/link/statute/126/2032).)*

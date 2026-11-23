@@ -3,9 +3,10 @@ title: "Section 100905 - Filming and still photography in System units"
 usc_title: 54
 usc_section: "100905"
 chapter: 1009
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "54 U.S.C. § 100905"
-generated_at: "2026-03-30T02:56:28.413Z"
+generated_at: "2026-11-23T20:27:38.002Z"
+status: "active"
 ---
 
 # § 100905. Filming and still photography in System units
@@ -94,3 +95,71 @@ generated_at: "2026-03-30T02:56:28.413Z"
     - **(A)** to review the application for the permit;
     - **(B)** to issue the permit; and
     - **(C)** to collect any required fees.
+
+Filming and Still Photography.—
+
+In general
+
+No permits required
+
+Filming and still photography authorizations for de minimis use.—
+
+In general
+
+Policy
+
+No fee
+
+Access
+
+Issuances
+
+Requirements
+
+Contents
+
+Required permits.—
+
+In general
+
+Wilderness act clarification
+
+Requirements for filming or still photography activity
+
+Content creation
+
+Effect.—
+
+Permits requested though not required
+
+No additional permits, commercial use authorizations, or fees for filming and still photography at authorized events
+
+Monetary compensation
+
+Fees and Recovery Costs.—
+
+Fees
+
+Recovery of costs.—
+
+In general
+
+Effect on fees collected
+
+Use of proceeds.—
+
+Fees
+
+Costs
+
+Protection of Resources
+
+Processing of Permit Applications.—
+
+In general
+
+Coordination
+
+## Source Credit
+
+*(Added [Pub. L. 118–234, title I, § 125(a)(1)](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2847](https://www.govinfo.gov/link/statute/138/2847).)*

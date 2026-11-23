@@ -3,9 +3,10 @@ title: "Section 2044 - Financial assistance for supportive services for very low
 usc_title: 38
 usc_section: "2044"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 2044"
-generated_at: "2026-03-30T02:55:53.494Z"
+generated_at: "2026-11-23T20:27:01.771Z"
+status: "active"
 ---
 
 # § 2044. Financial assistance for supportive services for very low-income veteran families in permanent housing
@@ -85,3 +86,19 @@ generated_at: "2026-03-30T02:55:53.494Z"
     - **(B)** The Secretary shall make appropriate adjustments to the income requirement under subparagraph (A) based on family size.
     - **(C)** The Secretary may establish an income ceiling higher or lower than 50 percent of the median income for an area if the Secretary determines that such variations are necessary because the area has unusually high or low construction costs, fair market rents (as determined under section 8 of the United States Housing Act of 1937 ( 42 U.S.C. 1437f )), or family incomes.
   - **(7)** The term “veteran family” includes a veteran who is a single person and a family in which the head of household or the spouse of the head of household is a veteran.
+
+Distribution of Financial Assistance
+
+Supportive Services
+
+Application for Financial Assistance
+
+Technical Assistance
+
+Funding
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 110–387, title VI, § 604(b)(1)](https://www.govinfo.gov/link/plaw/110/public/387), Oct. 10, 2008, [122 Stat. 4132](https://www.govinfo.gov/link/statute/122/4132); amended [Pub. L. 111–275, title X, § 1001(e)](https://www.govinfo.gov/link/plaw/111/public/275), Oct. 13, 2010, [124 Stat. 2896](https://www.govinfo.gov/link/statute/124/2896); [Pub. L. 112–37, § 12](https://www.govinfo.gov/link/plaw/112/public/37), Oct. 5, 2011, [125 Stat. 397](https://www.govinfo.gov/link/statute/125/397); [Pub. L. 112–154, title III, § 305(c)](https://www.govinfo.gov/link/plaw/112/public/154), Aug. 6, 2012, [126 Stat. 1187](https://www.govinfo.gov/link/statute/126/1187); [Pub. L. 113–37, § 2(f)(2)](https://www.govinfo.gov/link/plaw/113/public/37), Sept. 30, 2013, [127 Stat. 524](https://www.govinfo.gov/link/statute/127/524); [Pub. L. 113–175, title II, § 206](https://www.govinfo.gov/link/plaw/113/public/175), Sept. 26, 2014, [128 Stat. 1904](https://www.govinfo.gov/link/statute/128/1904); [Pub. L. 114–58, title III, § 304](https://www.govinfo.gov/link/plaw/114/public/58), title VI, § 601(9), Sept. 30, 2015, [129 Stat. 534](https://www.govinfo.gov/link/statute/129/534), 538; [Pub. L. 114–228, title III, § 305](https://www.govinfo.gov/link/plaw/114/public/228), Sept. 29, 2016, [130 Stat. 939](https://www.govinfo.gov/link/statute/130/939); [Pub. L. 115–62, title III, § 304](https://www.govinfo.gov/link/plaw/115/public/62), Sept. 29, 2017, [131 Stat. 1163](https://www.govinfo.gov/link/statute/131/1163); [Pub. L. 115–251, title I, § 145](https://www.govinfo.gov/link/plaw/115/public/251), Sept. 29, 2018, [132 Stat. 3170](https://www.govinfo.gov/link/statute/132/3170); [Pub. L. 116–61, § 4](https://www.govinfo.gov/link/plaw/116/public/61), Sept. 30, 2019, [133 Stat. 1116](https://www.govinfo.gov/link/statute/133/1116); [Pub. L. 116–159, div. E, title III, § 5305](https://www.govinfo.gov/link/plaw/116/public/159), Oct. 1, 2020, [134 Stat. 751](https://www.govinfo.gov/link/statute/134/751); [Pub. L. 117–180, div. E, title III, § 304](https://www.govinfo.gov/link/plaw/117/public/180), Sept. 30, 2022, [136 Stat. 2138](https://www.govinfo.gov/link/statute/136/2138); [Pub. L. 117–328, div. U, title III, § 305(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5471](https://www.govinfo.gov/link/statute/136/5471); [Pub. L. 118–83, div. B, title III, § 325](https://www.govinfo.gov/link/plaw/118/public/83), Sept. 26, 2024, [138 Stat. 1541](https://www.govinfo.gov/link/statute/138/1541); [Pub. L. 119–37, div. G, title III, § 7303](https://www.govinfo.gov/link/plaw/119/public/37), Nov. 12, 2025, [139 Stat. 650](https://www.govinfo.gov/link/statute/139/650).)*

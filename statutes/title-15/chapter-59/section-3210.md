@@ -3,12 +3,17 @@ title: "Section 3210 - Prior and pending proceedings"
 usc_title: 15
 usc_section: "3210"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 3210"
-generated_at: "2026-03-30T02:54:08.188Z"
+generated_at: "2026-11-23T20:26:04.278Z"
+status: "active"
 ---
 
 # § 3210. Prior and pending proceedings
 
 For purposes of this chapter, proceedings commenced by any State regulatory authority (with respect to gas utilities for which it has ratemaking authority) and any nonregulated gas utility before November 9, 1978 , and actions taken before such date in such proceedings shall be treated as complying with the requirements of this chapter if such proceedings and actions substantially conform to such requirements. For purposes of this chapter, any such proceeding or action commenced before November 9, 1978 , but not completed before such date shall comply with the requirements of this chapter, to the maximum extent practicable, with respect to so much of such proceeding or action as takes place after such date.
 
+
+## Source Credit
+
+*([Pub. L. 95–617, title III, § 310](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3154](https://www.govinfo.gov/link/statute/92/3154).)*

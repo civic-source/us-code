@@ -3,9 +3,10 @@ title: "Section 30103 - Local law enforcement grants"
 usc_title: 34
 usc_section: "30103"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 30103"
-generated_at: "2026-03-30T02:55:33.305Z"
+generated_at: "2026-11-23T20:26:50.624Z"
+status: "active"
 ---
 
 # § 30103. Local law enforcement grants
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:33.305Z"
   - **(4)**
     - **(A)** There is authorized to be appropriated to carry out this subsection the sum of $25,000,000 for each of fiscal years 2009 through 2013.
     - **(B)** Of the amount made available to carry out this subsection in any fiscal year, not more than 3 percent may be used by the Attorney General for salaries and administrative expenses.
+
+## Source Credit
+
+*([Pub. L. 110–403, title IV, § 401](https://www.govinfo.gov/link/plaw/110/public/403), Oct. 13, 2008, [122 Stat. 4271](https://www.govinfo.gov/link/statute/122/4271).)*

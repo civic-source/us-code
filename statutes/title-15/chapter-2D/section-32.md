@@ -3,9 +3,10 @@ title: "Section 32 - Filing of documents with Commission in civil actions"
 usc_title: 15
 usc_section: "32"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 32"
-generated_at: "2026-03-30T02:54:08.069Z"
+generated_at: "2026-11-23T20:26:03.610Z"
+status: "active"
 ---
 
 # § 80a–32. Filing of documents with Commission in civil actions
@@ -14,3 +15,7 @@ Every registered investment company which is a party and every affiliated person
 
     - **(A)** is delivered to such company or party defendant, such document shall be filed with the Commission not later than ten days after the receipt thereof; or
     - **(B)** is filed in such court or delivered by such company or party defendant, such documents shall be filed with the Commission not later than five days after such filing or delivery.
+
+## Source Credit
+
+*(Aug. 22, 1940, ch. 686, title I, § 33, [54 Stat. 839](https://www.govinfo.gov/link/statute/54/839); [Pub. L. 91–547, § 19](https://www.govinfo.gov/link/plaw/91/public/547), Dec. 14, 1970, [84 Stat. 1428](https://www.govinfo.gov/link/statute/84/1428).)*

@@ -3,9 +3,10 @@ title: "Section 5003 - Cross references to exemptions, etc."
 usc_title: 26
 usc_section: "5003"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 5003"
-generated_at: "2026-03-30T02:55:27.816Z"
+generated_at: "2026-11-23T20:26:46.392Z"
+status: "active"
 ---
 
 # § 5003. Cross references to exemptions, etc.
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:27.816Z"
   - **(15)** For provisions authorizing the withdrawal of distilled spirits without payment of tax for transfer to manufacturing bonded warehouses for manufacturing for export, see section 5214(a)(6).
   - **(16)** For provisions authorizing the withdrawal of articles from the bonded premises of a distilled spirits plant free of tax when contained in an article, see section 5214(a)(11).
   - **(17)** For provisions relating to allowance for certain losses in bond, see section 5008(a).
+
+## Source Credit
+
+*(Added [Pub. L. 85–859, title II, § 201](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1316](https://www.govinfo.gov/link/statute/72/1316); amended [Pub. L. 95–176](https://www.govinfo.gov/link/plaw/95/public/176), §§ 3(c), 4(f), Nov. 14, 1977, [91 Stat. 1365](https://www.govinfo.gov/link/statute/91/1365), 1366; [Pub. L. 96–39, title VIII, § 807(a)(1)](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 280](https://www.govinfo.gov/link/statute/93/280).)*

@@ -3,9 +3,10 @@ title: "Section 175c - Variola virus"
 usc_title: 18
 usc_section: "175c"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 175c"
-generated_at: "2026-03-30T02:54:16.458Z"
+generated_at: "2026-11-23T20:26:08.338Z"
+status: "active"
 ---
 
 # § 175c. Variola virus
@@ -24,3 +25,29 @@ generated_at: "2026-03-30T02:54:16.458Z"
   - **(2)** Any person who, in the course of a violation of subsection (a), uses, attempts or conspires to use, or possesses and threatens to use, any item or items described in subsection (a), shall be fined not more than $2,000,000 and imprisoned for not less than 30 years or imprisoned for life.
   - **(3)** If the death of another results from a person’s violation of subsection (a), the person shall be fined not more than $2,000,000 and punished by imprisonment for life.
 - **(d)** As used in this section, the term “variola virus” means a virus that can cause human smallpox or any derivative of the variola major virus that contains more than 85 percent of the gene sequence of the variola major virus or the variola minor virus.
+
+Unlawful Conduct.—
+
+In general
+
+Exception
+
+Jurisdiction
+
+Criminal Penalties.—
+
+In general
+
+Other circumstances
+
+Special circumstances
+
+Definition
+
+Findings
+
+Purpose
+
+## Source Credit
+
+*(Added [Pub. L. 108–458, title VI, § 6906](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3773](https://www.govinfo.gov/link/statute/118/3773).)*

@@ -3,9 +3,10 @@ title: "Section 414 - Homeland Security Rotation Program"
 usc_title: 6
 usc_section: "414"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 414"
-generated_at: "2026-03-30T02:53:09.463Z"
+generated_at: "2026-11-23T20:25:34.733Z"
+status: "active"
 ---
 
 # § 414. Homeland Security Rotation Program
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:53:09.463Z"
       - **(viii)** coordinate with rotational programs within the Department in effect on October 4, 2006 .
   - **(4)** All allowances, privileges, rights, seniority, and other benefits of employees participating in the Rotation Program shall be preserved.
   - **(5)** Not later than 180 days after the date of the establishment of the Rotation Program, the Secretary shall submit a report on the status of the Rotation Program, including a description of the Rotation Program, the number of employees participating, and how the Rotation Program is used in succession planning and leadership development to the appropriate committees of Congress.
+
+## Source Credit
+
+*([Pub. L. 107–296, title VIII, § 844](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 109–295, title VI, § 622(a)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1416](https://www.govinfo.gov/link/statute/120/1416).)*

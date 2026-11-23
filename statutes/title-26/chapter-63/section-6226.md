@@ -3,9 +3,10 @@ title: "Section 6226 - Alternative to payment of imputed underpayment by partner
 usc_title: 26
 usc_section: "6226"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6226"
-generated_at: "2026-03-30T02:55:27.846Z"
+generated_at: "2026-11-23T20:26:46.601Z"
+status: "active"
 ---
 
 # § 6226. Alternative to payment of imputed underpayment by partnership
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:27.846Z"
     - **(B)** from the due date of the return for the taxable year to which the increase is attributable (determined by taking into account any increases attributable to a change in tax attributes for a taxable year under subsection (b)(2)), and
     - **(C)** at the underpayment rate under section 6621(a)(2), determined by substituting “5 percentage points” for “3 percentage points” in subparagraph (B) thereof.
 - **(d)** For the time period within which a partnership may file a petition for a readjustment, see section 6234(a).
+
+## Source Credit
+
+*(Added [Pub. L. 114–74, title XI, § 1101(c)(1)](https://www.govinfo.gov/link/plaw/114/public/74), Nov. 2, 2015, [129 Stat. 630](https://www.govinfo.gov/link/statute/129/630); amended [Pub. L. 114–113, div. Q, title IV, § 411(b)(1)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3122](https://www.govinfo.gov/link/statute/129/3122); [Pub. L. 115–141, div. U, title II](https://www.govinfo.gov/link/plaw/115/public/141), §§ 201(c)(4), 204, 206(d), (e), Mar. 23, 2018, [132 Stat. 1173](https://www.govinfo.gov/link/statute/132/1173), 1176, 1178.)*

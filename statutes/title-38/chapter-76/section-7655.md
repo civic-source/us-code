@@ -3,9 +3,10 @@ title: "Section 7655 - Breach of agreement; liability"
 usc_title: 38
 usc_section: "7655"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7655"
-generated_at: "2026-03-30T02:55:53.534Z"
+generated_at: "2026-11-23T20:27:02.042Z"
+status: "active"
 ---
 
 # § 7655. Breach of agreement; liability
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:53.534Z"
   - **(1)** Subject to paragraph (2), an individual who is receiving or has received a reserve member stipend under this subchapter and who fails to perform the service for which the individual is obligated under section 7654 of this title shall be liable to the United States in an amount determined in accordance with section 7617(c)(1) of this title .
   - **(2)** An individual who, as a result of performing active duty (including active duty for training), is unable to perform the service for which the individual is obligated under section 7654 of this title shall be permitted to perform that service upon completion of the active duty service (or active duty for training). The Secretary may, by regulation, waive the requirement for the performance of the service for which the individual is obligated under section 7654 of this title in any case in which the Secretary determines that the individual is unable to perform the service for reasons beyond the control of the individual or in any case in which the waiver would be in the best interest of the individual and the United States.
 - **(b)** Any amount owed the United States under subsection (a) of this section shall be paid to the United States during the one-year period beginning on the date of the breach of the agreement.
+
+## Source Credit
+
+*(Added [Pub. L. 101–366, title II, § 205(a)(1)](https://www.govinfo.gov/link/plaw/101/public/366), Aug. 15, 1990, [104 Stat. 440](https://www.govinfo.gov/link/statute/104/440), § 4355; renumbered § 7655 and amended [Pub. L. 102–40, title IV, § 402(b)(1)](https://www.govinfo.gov/link/plaw/102/public/40), (d)(1), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238), 239.)*

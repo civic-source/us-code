@@ -3,9 +3,10 @@ title: "Section 360k - State and local requirements respecting devices"
 usc_title: 21
 usc_section: "360k"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 360k"
-generated_at: "2026-03-30T02:54:54.251Z"
+generated_at: "2026-11-23T20:26:27.654Z"
+status: "active"
 ---
 
 # § 360k. State and local requirements respecting devices
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:54.251Z"
   - **(2)** the requirement—
     - **(A)** is required by compelling local conditions, and
     - **(B)** compliance with the requirement would not cause the device to be in violation of any applicable requirement under this chapter.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 521, as added [Pub. L. 94–295, § 2](https://www.govinfo.gov/link/plaw/94/public/295), May 28, 1976, [90 Stat. 574](https://www.govinfo.gov/link/statute/90/574).)*

@@ -3,9 +3,10 @@ title: "Section 5122 - Definitions"
 usc_title: 42
 usc_section: "5122"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5122"
-generated_at: "2026-03-30T02:56:11.219Z"
+generated_at: "2026-11-23T20:27:22.466Z"
+status: "active"
 ---
 
 # § 5122. Definitions
@@ -33,3 +34,45 @@ As used in this chapter—
     - **(A)** The term “private nonprofit facility” means private nonprofit educational (without regard to the religious character of the facility), center-based childcare, utility, irrigation, emergency, medical, rehabilitational, and temporary or permanent custodial care facilities (including those for the aged and disabled) and facilities on Indian reservations, as defined by the President.
     - **(B)** In addition to the facilities described in subparagraph (A), the term “private nonprofit facility” includes any private nonprofit facility that provides essential social services to the general public (including museums, zoos, performing arts facilities, community arts centers, community centers, libraries, homeless shelters, senior citizen centers, rehabilitation facilities, shelter workshops, food banks, broadcasting facilities, houses of worship, and facilities that provide health and safety services of a governmental nature), as defined by the President. No house of worship may be excluded from this definition because leadership or membership in the organization operating the house of worship is limited to persons who share a religious faith or practice.
   - **(12)** The term “Chief Executive” means the person who is the Chief, Chairman, Governor, President, or similar executive official of an Indian tribal government.
+
+Emergency
+
+Major disaster
+
+Indian tribal government
+
+Individual with a disability
+
+Local government
+
+Public facility
+
+Private nonprofit facility.—
+
+In general
+
+Additional facilities
+
+Chief executive
+
+“This section [amending this section and section 5172 of this title ] and the amendments made by this section shall apply—
+
+Issuance
+
+Factors
+
+In general
+
+Termination of effectiveness
+
+“In this division [see Short Title of 2018 Amendment note set out under section 5121 of this title ]:
+
+Administrator
+
+Agency
+
+State
+
+## Source Credit
+
+*([Pub. L. 93–288, title I, § 102](https://www.govinfo.gov/link/plaw/93/public/288), May 22, 1974, [88 Stat. 144](https://www.govinfo.gov/link/statute/88/144); [Pub. L. 100–707, title I, § 103(b)](https://www.govinfo.gov/link/plaw/100/public/707) –(d), (f), Nov. 23, 1988, [102 Stat. 4689](https://www.govinfo.gov/link/statute/102/4689), 4690; [Pub. L. 102–247, title II, § 205](https://www.govinfo.gov/link/plaw/102/public/247), Feb. 24, 1992, [106 Stat. 38](https://www.govinfo.gov/link/statute/106/38); [Pub. L. 106–390, title III, § 302](https://www.govinfo.gov/link/plaw/106/public/390), Oct. 30, 2000, [114 Stat. 1572](https://www.govinfo.gov/link/statute/114/1572); [Pub. L. 109–295, title VI, § 688](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1448](https://www.govinfo.gov/link/statute/120/1448); [Pub. L. 113–2, div. B, § 1110(c)](https://www.govinfo.gov/link/plaw/113/public/2), Jan. 29, 2013, [127 Stat. 49](https://www.govinfo.gov/link/statute/127/49); [Pub. L. 114–111, § 2(a)](https://www.govinfo.gov/link/plaw/114/public/111), Dec. 18, 2015, [129 Stat. 2240](https://www.govinfo.gov/link/statute/129/2240); [Pub. L. 115–123, div. B, title VI, § 20604(a)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 85](https://www.govinfo.gov/link/statute/132/85); [Pub. L. 115–254, div. D](https://www.govinfo.gov/link/plaw/115/public/254), §§ 1214, 1238(b), Oct. 5, 2018, [132 Stat. 3449](https://www.govinfo.gov/link/statute/132/3449), 3466.)*

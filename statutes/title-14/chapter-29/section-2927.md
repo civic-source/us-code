@@ -3,9 +3,10 @@ title: "Section 2927 - Child care subsidy program"
 usc_title: 14
 usc_section: "2927"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 2927"
-generated_at: "2026-03-30T02:53:51.502Z"
+generated_at: "2026-11-23T20:25:54.631Z"
+status: "active"
 ---
 
 # § 2927. Child care subsidy program
@@ -40,3 +41,43 @@ generated_at: "2026-03-30T02:53:51.502Z"
   - **(2)** Not later than 180 days after the date of the enactment of this section, the Commandant shall establish a policy to provide direct payment as described in paragraph (1).
   - **(3)** With the approval of an eligible member or an individual the Commandant considers appropriate, which shall include the written consent of such member or individual, the Commandant may continue to provide financial assistance under the child care subsidy program directly to an eligible provider on behalf of such member or individual.
   - **(4)** Nothing in this subsection may be construed to affect any preexisting reimbursement arrangement between the Coast Guard and a qualified provider.
+
+In General.—
+
+Authority
+
+Eligible providers
+
+Financial assistance for in-home child care.—
+
+In general
+
+Requirements
+
+Direct Payment.—
+
+In general
+
+Policy
+
+Eligible provider funding continuation
+
+Rule of construction
+
+In general
+
+Considerations
+
+Requirements
+
+Publication
+
+Report.—
+
+In general
+
+Elements
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. K, title CXIV, § 11401(c)(1)(A)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4106](https://www.govinfo.gov/link/statute/136/4106).)*

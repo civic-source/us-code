@@ -3,9 +3,10 @@ title: "Section 1621l - Patient travel costs"
 usc_title: 25
 usc_section: "1621l"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1621l"
-generated_at: "2026-03-30T02:54:52.821Z"
+generated_at: "2026-11-23T20:26:25.487Z"
+status: "active"
 ---
 
 # § 1621l. Patient travel costs
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:52.821Z"
   - **(1)** emergency air transportation and non-emergency air transportation where ground transportation is infeasible;
   - **(2)** transportation by private vehicle (where no other means of transportation is available), specially equipped vehicle, and ambulance; and
   - **(3)** transportation by such other means as may be available and required when air or motor vehicle transportation is not available.
+
+## Source Credit
+
+*([Pub. L. 94–437, title II, § 213](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 102–573, title II, § 208](https://www.govinfo.gov/link/plaw/102/public/573), Oct. 29, 1992, [106 Stat. 4551](https://www.govinfo.gov/link/statute/106/4551); amended [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

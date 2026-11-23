@@ -3,9 +3,10 @@ title: "Section 355 - Claims for benefits"
 usc_title: 45
 usc_section: "355"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 355"
-generated_at: "2026-03-30T02:55:56.549Z"
+generated_at: "2026-11-23T20:27:05.278Z"
+status: "active"
 ---
 
 # § 355. Claims for benefits
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:56.549Z"
 - **(g)** Findings of fact and conclusions of law of the Board in the determination of any claim for benefits or refund, the determination of any other matter pursuant to subsection (c) of this section, and the determination of the Board that the unexpended funds in the account are available for the payment of any claim for benefits or refund under this chapter, shall be, except as provided in subsection (f) of this section, binding and conclusive for all purposes and upon all persons, including the Comptroller General and any other administrative or accounting officer, employee, or agent of the United States, and shall not be subject to review in any manner other than that set forth in subsection (f) of this section.
 - **(h)** Except as may be otherwise prescribed by regulations of the Board, benefits payable with respect to any period prior to the date of a final decision of the Board with respect to a claim therefor, shall be paid only after such final decision.
 - **(i)** No claimant or other properly interested person claiming benefits shall be charged fees of any kind by the Board, its employees or representatives, with respect to such claim. Any such claimant or other properly interested person may be represented by counsel or other duly authorized agent, in any proceeding before the Board or its representatives or a court, but no such counsel or agent for a claimant shall either charge or receive for such services more than an amount approved by the Board or by the court before whom the proceedings of the Board are reviewed. Any person who violates any provision of this subsection shall be punished by a fine of not more than $10,000 or by imprisonment not exceeding one year.
+
+## Source Credit
+
+*(June 25, 1938, ch. 680, § 5, [52 Stat. 1099](https://www.govinfo.gov/link/statute/52/1099); Oct. 10, 1940, ch. 842, §§ 19, 20, [54 Stat. 1098](https://www.govinfo.gov/link/statute/54/1098); July 31, 1946, ch. 709, §§ 311–316, [60 Stat. 738](https://www.govinfo.gov/link/statute/60/738); June 25, 1948, ch. 646, §§ 1, 32(a), [62 Stat. 870](https://www.govinfo.gov/link/statute/62/870), 991; May 24, 1949, ch. 139, § 127, [63 Stat. 107](https://www.govinfo.gov/link/statute/63/107); [Pub. L. 85–791, § 23](https://www.govinfo.gov/link/plaw/85/public/791), Aug. 28, 1958, [72 Stat. 948](https://www.govinfo.gov/link/statute/72/948); [Pub. L. 97–35, title XI, § 1128(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 641](https://www.govinfo.gov/link/statute/95/641); [Pub. L. 98–620, title IV, § 402(47)](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3360](https://www.govinfo.gov/link/statute/98/3360); [Pub. L. 100–647, title VII, § 7104(a)](https://www.govinfo.gov/link/plaw/100/public/647) –(c), Nov. 10, 1988, [102 Stat. 3771](https://www.govinfo.gov/link/statute/102/3771).)*

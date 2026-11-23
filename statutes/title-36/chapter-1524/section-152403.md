@@ -3,9 +3,10 @@ title: "Section 152403 - Board of directors"
 usc_title: 36
 usc_section: "152403"
 chapter: 1524
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 152403"
-generated_at: "2026-03-30T02:55:44.704Z"
+generated_at: "2026-11-23T20:26:58.999Z"
+status: "active"
 ---
 
 # § 152403. Board of directors
@@ -25,3 +26,21 @@ generated_at: "2026-03-30T02:55:44.704Z"
 - **(e)** The board shall meet at the call of the Librarian for regularly scheduled meetings.
 - **(f)** Directors shall serve without compensation but may receive travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5.
 - **(g)** Directors are not personally liable, except for gross negligence.
+
+General
+
+Members and Appointment
+
+Chair
+
+Quorum
+
+Meetings
+
+Reimbursement of Expenses
+
+Liability of Directors
+
+## Source Credit
+
+*(Added [Pub. L. 106–474, title II, § 201(a)](https://www.govinfo.gov/link/plaw/106/public/474), Nov. 9, 2000, [114 Stat. 2092](https://www.govinfo.gov/link/statute/114/2092); amended [Pub. L. 110–336, § 2(b)(2)](https://www.govinfo.gov/link/plaw/110/public/336), Oct. 2, 2008, [122 Stat. 3727](https://www.govinfo.gov/link/statute/122/3727); [Pub. L. 114–217, § 2(b)(2)](https://www.govinfo.gov/link/plaw/114/public/217), July 29, 2016, [130 Stat. 840](https://www.govinfo.gov/link/statute/130/840).)*

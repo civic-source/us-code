@@ -3,9 +3,10 @@ title: "Section 7501 - National Nanotechnology Program"
 usc_title: 15
 usc_section: "7501"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 7501"
-generated_at: "2026-03-30T02:54:08.224Z"
+generated_at: "2026-11-23T20:26:04.459Z"
+status: "active"
 ---
 
 # § 7501. National Nanotechnology Program
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:54:08.224Z"
   - **(3)** an analysis of the progress made toward achieving the goals and priorities established for the Program;
   - **(4)** an analysis of the extent to which the Program has incorporated the recommendations of the Advisory Panel; and
   - **(5)** an assessment of how Federal agencies are implementing the plan described in subsection (c)(7), and a description of the amount of Small Business Innovative Research and Small Business Technology Transfer Research funds supporting the plan.
+
+## Source Credit
+
+*([Pub. L. 108–153, § 2](https://www.govinfo.gov/link/plaw/108/public/153), Dec. 3, 2003, [117 Stat. 1923](https://www.govinfo.gov/link/statute/117/1923); [Pub. L. 114–329, title II, § 204(b)(1)](https://www.govinfo.gov/link/plaw/114/public/329), Jan. 6, 2017, [130 Stat. 2999](https://www.govinfo.gov/link/statute/130/2999).)*

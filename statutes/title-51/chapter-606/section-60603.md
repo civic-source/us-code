@@ -3,9 +3,10 @@ title: "Section 60603 - Sustaining and advancing critical space weather observat
 usc_title: 51
 usc_section: "60603"
 chapter: 606
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 60603"
-generated_at: "2026-03-30T02:56:28.713Z"
+generated_at: "2026-11-23T20:27:37.532Z"
+status: "active"
 ---
 
 # § 60603. Sustaining and advancing critical space weather observations
@@ -29,3 +30,25 @@ generated_at: "2026-03-30T02:56:28.713Z"
   - **(2)** develop experimental models for scientific purposes; and
   - **(3)** support the transition of the experimental models to operations where appropriate.
 - **(i)** The Administrator of the National Oceanic and Atmospheric Administration, in coordination with the Secretary of Defense, should develop options to build and deploy space-based observational capabilities, beyond the baseline capabilities referenced in subsection (b), that may improve space weather measurements and observations. These supplemental observational capabilities could include commercial solutions, prize authority, academic partnerships, microsatellites, ground-based instruments, and opportunities to deploy the instrument or instruments as a secondary payload on an upcoming planned launch.
+
+Policy
+
+Sustaining Baseline Space-based Observational Capabilities.—
+
+Backup Space-based Observational Capability
+
+SOHO/LASCO Operational Contingency Plan
+
+Briefing
+
+Sustaining Ground-based Observational Capability
+
+Considerations
+
+Ground-based Observational Data
+
+Enhanced Space-based Observations
+
+## Source Credit
+
+*([Pub. L. 116–181, § 2(b)](https://www.govinfo.gov/link/plaw/116/public/181), Oct. 21, 2020, [134 Stat. 888](https://www.govinfo.gov/link/statute/134/888).)*

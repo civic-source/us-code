@@ -3,9 +3,10 @@ title: "Section 460uuu - Mount Hood National Recreation Area"
 usc_title: 16
 usc_section: "460uuu"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 460uuu"
-generated_at: "2026-03-30T02:54:22.847Z"
+generated_at: "2026-11-23T20:26:20.041Z"
+status: "active"
 ---
 
 # § 460uuu. Mount Hood National Recreation Area
@@ -47,3 +48,13 @@ generated_at: "2026-03-30T02:54:22.847Z"
 - **(h)**
   - **(1)** Administrative jurisdiction over the Federal land described in paragraph (2) is transferred from the Bureau of Land Management to the Forest Service.
   - **(2)** The land referred to in paragraph (1) is the approximately 130 acres of land administered by the Bureau of Land Management that is within or adjacent to the Mount Hood National Recreation Area and that is identified as “BLM Lands” on the map entitled “National Recreation Areas—Shellrock Mountain”, dated February 2007.
+
+“In this subtitle [subtitle C (§§ 1201–1207) of title I of Pub. L. 111–11 , see References in Text note above]:
+
+Secretary
+
+State
+
+## Source Credit
+
+*([Pub. L. 111–11, title I, § 1204](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1013](https://www.govinfo.gov/link/statute/123/1013).)*

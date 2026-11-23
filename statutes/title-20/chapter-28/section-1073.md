@@ -3,9 +3,10 @@ title: "Section 1073 - Effects of adequate non-Federal programs"
 usc_title: 20
 usc_section: "1073"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1073"
-generated_at: "2026-03-30T02:54:48.111Z"
+generated_at: "2026-11-23T20:26:14.393Z"
+status: "active"
 ---
 
 # § 1073. Effects of adequate non-Federal programs
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:48.111Z"
   - **(1)** for insurance of a loan made to a student borrower who does not, by reason of the borrower’s residence, have access to loan insurance under the loan insurance program of such State (or under any private nonprofit loan insurance program which has received an advance under section 1072 of this title for the benefit of students in such State);
   - **(2)** for insurance of all the loans made to student borrowers by a lender who satisfies the Secretary that, by reason of the residence of such borrowers, such lender will not have access to any single State or nonprofit private loan insurance program which will insure substantially all of the loans such lender intends to make to such student borrowers; or
   - **(3)** under such circumstances as may be approved by the guaranty agency in such State, for the insurance of a loan to a borrower for whom such lender previously was issued such a certificate if the loan covered by such certificate is not yet repaid.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 423](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1358](https://www.govinfo.gov/link/statute/100/1358).)*

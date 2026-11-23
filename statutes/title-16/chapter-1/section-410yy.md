@@ -3,9 +3,10 @@ title: "Section 410yy - Findings and purposes"
 usc_title: 16
 usc_section: "410yy"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 410yy"
-generated_at: "2026-03-30T02:54:22.772Z"
+generated_at: "2026-11-23T20:26:19.498Z"
+status: "active"
 ---
 
 # § 410yy. Findings and purposes
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:22.772Z"
 - **(b)** The purposes of this subchapter are—
   - **(1)** to preserve the nationally significant historical and cultural sites, structures, and districts of a portion of the Keweenaw Peninsula in the State of Michigan for the education, benefit, and inspiration of present and future generations; and
   - **(2)** to interpret the historic synergism between the geological, aboriginal, sociological, cultural technological, and corporate forces that relate the story of copper on the Keweenaw Peninsula.
+
+## Source Credit
+
+*([Pub. L. 102–543, § 1](https://www.govinfo.gov/link/plaw/102/public/543), Oct. 27, 1992, [106 Stat. 3569](https://www.govinfo.gov/link/statute/106/3569).)*

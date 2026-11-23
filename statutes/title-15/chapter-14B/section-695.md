@@ -3,9 +3,10 @@ title: "Section 695 - State development companies"
 usc_title: 15
 usc_section: "695"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 695"
-generated_at: "2026-03-30T02:54:08.113Z"
+generated_at: "2026-11-23T20:26:03.876Z"
+status: "active"
 ---
 
 # § 695. State development companies
@@ -38,3 +39,27 @@ generated_at: "2026-03-30T02:54:08.113Z"
   - **(6)** As used in this subsection, the term “small manufacturer” means a small business concern—
     - **(A)** the primary business of which is classified in sector 31, 32, or 33 of the North American Industrial Classification System; and
     - **(B)** all of the production facilities of which are located in the United States.
+
+In General
+
+Selection of Development Companies.—
+
+In general
+
+Conflicts of interest
+
+Qualifications
+
+Authority of Development Companies
+
+Authority of the Administrator
+
+Report.—
+
+In general
+
+Reporting period
+
+## Source Credit
+
+*([Pub. L. 85–699, title V, § 501](https://www.govinfo.gov/link/plaw/85/public/699), Aug. 21, 1958, [72 Stat. 696](https://www.govinfo.gov/link/statute/72/696); [Pub. L. 100–590, title I, § 115(a)](https://www.govinfo.gov/link/plaw/100/public/590), (b)(1), Nov. 3, 1988, [102 Stat. 2997](https://www.govinfo.gov/link/statute/102/2997); [Pub. L. 101–574, title II, § 214(a)](https://www.govinfo.gov/link/plaw/101/public/574), (b), Nov. 15, 1990, [104 Stat. 2821](https://www.govinfo.gov/link/statute/104/2821); [Pub. L. 106–50, title IV, § 405](https://www.govinfo.gov/link/plaw/106/public/50), Aug. 17, 1999, [113 Stat. 246](https://www.govinfo.gov/link/statute/113/246); [Pub. L. 106–554, § 1(a)(9) [title III, § 302]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–684; [Pub. L. 108–447, div. K, title I, § 105](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3444](https://www.govinfo.gov/link/statute/118/3444); [Pub. L. 110–140, title XII, § 1204(a)](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1772](https://www.govinfo.gov/link/statute/121/1772); [Pub. L. 111–5, div. A, title V, § 504(b)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 156](https://www.govinfo.gov/link/statute/123/156); [Pub. L. 111–240, title I, § 1132](https://www.govinfo.gov/link/plaw/111/public/240), Sept. 27, 2010, [124 Stat. 2514](https://www.govinfo.gov/link/statute/124/2514).)*

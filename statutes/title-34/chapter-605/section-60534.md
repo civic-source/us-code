@@ -3,9 +3,10 @@ title: "Section 60534 - Bureau of Prisons policy on chapel library materials"
 usc_title: 34
 usc_section: "60534"
 chapter: 605
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 60534"
-generated_at: "2026-03-30T02:55:33.317Z"
+generated_at: "2026-11-23T20:26:50.673Z"
+status: "active"
 ---
 
 # § 60534. Bureau of Prisons policy on chapel library materials
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:33.317Z"
   - **(1)** any materials in a chapel library that seek to incite, promote, or otherwise suggest the commission of violence or criminal activity; and
   - **(2)** any other materials prohibited by any other law or regulation.
 - **(b)** Nothing in this section shall be construed to impact policies of the Bureau of Prisons related to access by specific prisoners to materials for security, safety, sanitation, or disciplinary reasons.
+
+## Source Credit
+
+*([Pub. L. 110–199, title II, § 214](https://www.govinfo.gov/link/plaw/110/public/199), Apr. 9, 2008, [122 Stat. 683](https://www.govinfo.gov/link/statute/122/683).)*

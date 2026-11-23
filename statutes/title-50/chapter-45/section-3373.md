@@ -3,9 +3,10 @@ title: "Section 3373 - Establishment of All-domain Anomaly Resolution Office"
 usc_title: 50
 usc_section: "3373"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3373"
-generated_at: "2026-03-30T02:56:26.251Z"
+generated_at: "2026-11-23T20:27:30.999Z"
+status: "active"
 ---
 
 # § 3373. Establishment of All-domain Anomaly Resolution Office
@@ -125,3 +126,29 @@ generated_at: "2026-03-30T02:56:26.251Z"
     - **(A)** airborne objects that are not immediately identifiable;
     - **(B)** transmedium objects or devices; and
     - **(C)** submerged objects or devices that are not immediately identifiable and that display behavior or performance characteristics suggesting that the objects or devices may be related to the objects described in subparagraph (A).
+
+“Not later than 180 days after the date of the enactment of this Act [ Dec. 18, 2025 ], the Director of the All-Domain Anomaly Resolution Office—
+
+Liaison Required
+
+Responsibilities
+
+Limitation Regarding Independent Research and Development
+
+Definitions
+
+Definitions
+
+Audit.—
+
+In general
+
+Provision of information
+
+Verbal Briefings
+
+Rule of Construction
+
+## Source Credit
+
+*([Pub. L. 117–81, div. A, title XVI, § 1683](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2118](https://www.govinfo.gov/link/statute/135/2118); [Pub. L. 117–263, div. A, title XVI, § 1673(c)](https://www.govinfo.gov/link/plaw/117/public/263), div. F, title LXVIII, § 6802(a), Dec. 23, 2022, [136 Stat. 2961](https://www.govinfo.gov/link/statute/136/2961), 3586; [Pub. L. 118–31, div. G, title III, § 7341](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1062](https://www.govinfo.gov/link/statute/137/1062); [Pub. L. 119–60, div. A, title XVI](https://www.govinfo.gov/link/plaw/119/public/60), §§ 1671(a), 1672(b), Dec. 18, 2025, [139 Stat. 1201](https://www.govinfo.gov/link/statute/139/1201), 1202.)*

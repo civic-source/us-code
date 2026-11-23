@@ -3,9 +3,10 @@ title: "Section 3383 - Definitions"
 usc_title: 22
 usc_section: "3383"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3383"
-generated_at: "2026-03-30T02:55:05.393Z"
+generated_at: "2026-11-23T20:26:32.458Z"
+status: "active"
 ---
 
 # § 3383. Definitions
@@ -26,3 +27,7 @@ In this subchapter:
     - **(A)** performs logistical, administrative, and other functions, as determined by the Department of State and the American Institute of Taiwan in support of the Taiwan Fellowship Program; and
     - **(B)** enters into a cooperative agreement with the American Institute in Taiwan to administer the Taiwan Fellowship Program.
   - **(6)** The term “Program” means the Taiwan Fellowship Program established pursuant to section 3384 of this title .
+
+## Source Credit
+
+*([Pub. L. 117–263, div. E, title LV, § 5529](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3325](https://www.govinfo.gov/link/statute/136/3325).)*

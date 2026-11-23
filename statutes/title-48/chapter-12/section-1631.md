@@ -3,9 +3,10 @@ title: "Section 1631 - Establishment and maintenance; scope"
 usc_title: 48
 usc_section: "1631"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1631"
-generated_at: "2026-03-30T02:56:14.589Z"
+generated_at: "2026-11-23T20:27:28.063Z"
+status: "active"
 ---
 
 # § 1631. Establishment and maintenance; scope
@@ -16,3 +17,11 @@ The Governor shall establish and maintain systems of accounting and internal con
 - **(b)** adequate financial information needed for the government’s management purposes;
 - **(c)** effective control over and accountability for all funds, property, and other assets for which the government is responsible, including appropriate internal audit; and
 - **(d)** reliable accounting results to serve as the basis for preparation and support of the government’s request for the approval of the President or his designated representative for the obligation and expenditure of the internal revenue collections as provided in section 26, the Governor’s budget request to the legislature, and for controlling the execution of the said budget.
+
+In General
+
+Transmission to Congress
+
+## Source Credit
+
+*(July 22, 1954, ch. 558, § 18, [68 Stat. 505](https://www.govinfo.gov/link/statute/68/505).)*

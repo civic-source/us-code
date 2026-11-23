@@ -3,9 +3,10 @@ title: "Section 30104 - Governing body"
 usc_title: 36
 usc_section: "30104"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 30104"
-generated_at: "2026-03-30T02:55:44.694Z"
+generated_at: "2026-11-23T20:26:58.848Z"
+status: "active"
 ---
 
 # § 30104. Governing body
@@ -16,3 +17,41 @@ generated_at: "2026-03-30T02:55:44.694Z"
 - **(b)**
   - **(1)** The officers of the corporation are a chairman of the board of directors, a president, one or more vice presidents as provided in the constitution and bylaws, a secretary, and a treasurer.
   - **(2)** The manner of election, term of office, and duties of the officers are as provided in the constitution and bylaws.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30104(a) | 36:887. | Sept. 2, 1958 , Pub. L. 85–870, § 7 , 72 Stat. 1692 ; Nov. 11, 1977 , Pub. L. 95–167, § 1(d) , 91 Stat. 1347 . |
+| 30104(b) | 36:888. | Sept. 2, 1958 , Pub. L. 85–870, § 8 , 72 Stat. 1693 . |
+
+
+Board of Directors
+
+Officers
+
+Historical and Revision Notes
+
+30104(a)
+
+Sept. 2, 1958
+
+Pub. L. 85–870, § 7
+
+72 Stat. 1692
+
+Nov. 11, 1977
+
+Pub. L. 95–167, § 1(d)
+
+91 Stat. 1347
+
+30104(b)
+
+Sept. 2, 1958
+
+Pub. L. 85–870, § 8
+
+72 Stat. 1693
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1315](https://www.govinfo.gov/link/statute/112/1315).)*

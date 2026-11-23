@@ -3,12 +3,17 @@ title: "Section 2102 - Definitions"
 usc_title: 18
 usc_section: "2102"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2102"
-generated_at: "2026-03-30T02:54:16.494Z"
+generated_at: "2026-11-23T20:26:08.552Z"
+status: "active"
 ---
 
 # § 2102. Definitions
 
 - **(a)** As used in this chapter, the term “riot” means a public disturbance involving (1) an act or acts of violence by one or more persons part of an assemblage of three or more persons, which act or acts shall constitute a clear and present danger of, or shall result in, damage or injury to the property of any other person or to the person of any other individual or (2) a threat or threats of the commission of an act or acts of violence by one or more persons part of an assemblage of three or more persons having, individually or collectively, the ability of immediate execution of such threat or threats, where the performance of the threatened act or acts of violence would constitute a clear and present danger of, or would result in, damage or injury to the property of any other person or to the person of any other individual.
 - **(b)** As used in this chapter, the term “to incite a riot”, or “to organize, promote, encourage, participate in, or carry on a riot”, includes, but is not limited to, urging or instigating other persons to riot, but shall not be deemed to mean the mere oral or written (1) advocacy of ideas or (2) expression of belief, not involving advocacy of any act or acts of violence or assertion of the rightness of, or the right to commit, any such act or acts.
+
+## Source Credit
+
+*(Added [Pub. L. 90–284, title I, § 104(a)](https://www.govinfo.gov/link/plaw/90/public/284), Apr. 11, 1968, [82 Stat. 76](https://www.govinfo.gov/link/statute/82/76).)*

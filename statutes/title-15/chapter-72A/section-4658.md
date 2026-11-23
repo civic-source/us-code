@@ -3,9 +3,10 @@ title: "Section 4658 - Defense Production Act of 1950 efforts"
 usc_title: 15
 usc_section: "4658"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 4658"
-generated_at: "2026-03-30T02:54:08.202Z"
+generated_at: "2026-11-23T20:26:04.350Z"
+status: "active"
 ---
 
 # § 4658. Defense Production Act of 1950 efforts
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:08.202Z"
   - **(1)** the availability of appropriations for that purpose; and
   - **(2)** a determination made under the plan pursuant to such title III that such technologies are essential to the national defense and that domestic industrial capabilities are insufficient to meet these needs.
 - **(b)** The President shall develop the plan of action required by subsection (a) in consultation with any relevant head of a Federal agency, an advisory committee established under section 708(d) of the Defense Production Act of 1950 ( 50 U.S.C. 4558(d) ), and appropriate stakeholders in the private sector.
+
+## Source Credit
+
+*([Pub. L. 116–283, div. H, title XCIX, § 9908](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4860](https://www.govinfo.gov/link/statute/134/4860).)*

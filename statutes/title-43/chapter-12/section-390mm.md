@@ -3,9 +3,10 @@ title: "Section 390mm - Repayment of construction charges"
 usc_title: 43
 usc_section: "390mm"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 390mm"
-generated_at: "2026-03-30T02:55:57.445Z"
+generated_at: "2026-11-23T20:27:06.199Z"
+status: "active"
 ---
 
 # § 390mm. Repayment of construction charges
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:57.445Z"
   - **(1)** The Secretary shall provide, upon request of any owner of a landholding for which repayment has occurred, a certificate acknowledging that the landholding is free of the ownership or full cost pricing limitation of Federal reclamation law. Such certificate shall be in a form suitable for entry in the land records of the county in which such landholding is located.
   - **(2)** Any certificate issued by the Secretary prior to October 12, 1982 , acknowledging that the landholding is free of the acreage limitation of Federal reclamation law is hereby ratified.
 - **(c)** Nothing in this subchapter shall be construed as authorizing or permitting lump sum or accelerated repayment of construction costs, except in the case of a repayment contract which is in effect upon October 12, 1982 , and which provides for such lump sum or accelerated repayment by an individual or district.
+
+## Source Credit
+
+*([Pub. L. 97–293, title II, § 213](https://www.govinfo.gov/link/plaw/97/public/293), Oct. 12, 1982, [96 Stat. 1269](https://www.govinfo.gov/link/statute/96/1269).)*

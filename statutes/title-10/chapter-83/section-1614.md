@@ -3,9 +3,10 @@ title: "Section 1614 - Definitions"
 usc_title: 10
 usc_section: "1614"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1614"
-generated_at: "2026-03-30T02:53:38.133Z"
+generated_at: "2026-11-23T20:25:51.405Z"
+status: "active"
 ---
 
 # § 1614. Definitions
@@ -26,3 +27,7 @@ In this subchapter:
   - **(5)** The term “preference eligible” has the meaning given such term in section 2108(3) of title 5 .
   - **(6)** The term “Senior Executive Service position” has the meaning given such term in section 3132(a)(2) of title 5 .
   - **(7)** The term “collective bargaining agreement” has the meaning given such term in section 7103(8) of title 5 .
+
+## Source Credit
+
+*(Added [Pub. L. 104–201, div. A, title XVI, § 1632(d)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2750](https://www.govinfo.gov/link/statute/110/2750); amended [Pub. L. 106–65, div. A, title X, § 1067(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 774](https://www.govinfo.gov/link/statute/113/774); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title XI, § 1141(c)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–319; [Pub. L. 108–136, div. A, title IX, § 921(d)(7)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1569](https://www.govinfo.gov/link/statute/117/1569).)*

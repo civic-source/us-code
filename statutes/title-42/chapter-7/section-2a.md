@@ -3,9 +3,10 @@ title: "Section 2a - Hospital insurance benefits for disabled individuals who ha
 usc_title: 42
 usc_section: "2a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2a"
-generated_at: "2026-03-30T02:56:10.939Z"
+generated_at: "2026-11-23T20:27:21.110Z"
+status: "active"
 ---
 
 # § 1395i–2a. Hospital insurance benefits for disabled individuals who have exhausted other entitlement
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:56:10.939Z"
       - **(i)** Subject to clause (ii), such premiums shall be payable for the period commencing with the first month of an individual’s coverage period and ending with the month in which the individual dies or, if earlier, in which the individual’s coverage period terminates.
       - **(ii)** Such premiums shall not be payable for any month in which the individual is eligible for benefits under this part pursuant to section 426(b) of this title .
   - **(2)** The provisions of subsections (d) through (f) of section 1395i–2 of this title (relating to premiums) shall apply to individuals enrolled under this section in the same manner as they apply to individuals enrolled under that section.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1818A, as added [Pub. L. 101–239, title VI, § 6012(a)(2)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2161](https://www.govinfo.gov/link/statute/103/2161); amended [Pub. L. 101–508, title IV, § 4008(m)(3)(C)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–54](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 116–260, div. CC, title I, § 120(a)(2)(C)(i)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2954](https://www.govinfo.gov/link/statute/134/2954).)*

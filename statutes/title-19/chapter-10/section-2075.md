@@ -3,9 +3,10 @@ title: "Section 2075 - Appropriations authorization"
 usc_title: 19
 usc_section: "2075"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2075"
-generated_at: "2026-03-30T02:54:24.662Z"
+generated_at: "2026-11-23T20:26:10.894Z"
+status: "active"
 ---
 
 # § 2075. Appropriations authorization
@@ -66,3 +67,7 @@ generated_at: "2026-03-30T02:54:24.662Z"
   - **(4)** Not later than 30 days after the end of each fiscal year, the Commissioner shall report to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives on the resources directed to commercial and trade facilitation functions within the Office of Field Operations for the preceding fiscal year. Such information shall be reported for each category of personnel within the Office of Field Operations.
   - **(5)** Not later than 30 days after October 13, 2006 , the Commissioner shall designate and maintain not less than 5 attorneys within the Office of International Trade established pursuant to section 2072 of this title , with responsibility for the prompt development and promulgation of regulations necessary to implement any trade agreement entered into by the United States, in addition to any other responsibilities assigned by the Commissioner.
   - **(6)** In this subsection, the term “Commissioner” means the Commissioner responsible for United States Customs and Border Protection in the Department of Homeland Security.
+
+## Source Credit
+
+*([Pub. L. 95–410, title III, § 301](https://www.govinfo.gov/link/plaw/95/public/410), Oct. 3, 1978, [92 Stat. 905](https://www.govinfo.gov/link/statute/92/905); [Pub. L. 97–456, § 2](https://www.govinfo.gov/link/plaw/97/public/456), Jan. 12, 1983, [96 Stat. 2503](https://www.govinfo.gov/link/statute/96/2503); [Pub. L. 98–573, title VII, § 702](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 3043](https://www.govinfo.gov/link/statute/98/3043); [Pub. L. 99–272, title XIII, § 13022(a)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 305](https://www.govinfo.gov/link/statute/100/305); [Pub. L. 99–509, title VIII, § 8102](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1967](https://www.govinfo.gov/link/statute/100/1967); [Pub. L. 99–570, title III, § 3141(a)](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–92](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 100–203, title IX, § 9503(a)](https://www.govinfo.gov/link/plaw/100/public/203), (b), Dec. 22, 1987, [101 Stat. 1330–380](https://www.govinfo.gov/link/statute/101/1330), 1330–381; [Pub. L. 100–690, title VII, § 7361(a)](https://www.govinfo.gov/link/plaw/100/public/690), (b), Nov. 18, 1988, [102 Stat. 4474](https://www.govinfo.gov/link/statute/102/4474); [Pub. L. 101–207, § 3(a)](https://www.govinfo.gov/link/plaw/101/public/207), Dec. 7, 1989, [103 Stat. 1833](https://www.govinfo.gov/link/statute/103/1833); [Pub. L. 101–382, title I, § 102](https://www.govinfo.gov/link/plaw/101/public/382), Aug. 20, 1990, [104 Stat. 634](https://www.govinfo.gov/link/statute/104/634); [Pub. L. 107–210, div. A, title III, § 311(a)](https://www.govinfo.gov/link/plaw/107/public/210), (b)(1), (c), (d), Aug. 6, 2002, [116 Stat. 973](https://www.govinfo.gov/link/statute/116/973); [Pub. L. 109–347, title IV, § 403](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1926](https://www.govinfo.gov/link/statute/120/1926); [Pub. L. 114–125, title VIII, § 802(d)(2)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 210](https://www.govinfo.gov/link/statute/130/210).)*

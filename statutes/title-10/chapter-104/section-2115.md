@@ -3,12 +3,17 @@ title: "Section 2115 - Graduates: limitation on number permitted to perform civi
 usc_title: 10
 usc_section: "2115"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2115"
-generated_at: "2026-03-30T02:53:38.142Z"
+generated_at: "2026-11-23T20:25:51.454Z"
+status: "active"
 ---
 
 # § 2115. Graduates: limitation on number permitted to perform civilian Federal service
 
 The Secretary of Defense may allow not more than 20 percent of the graduates of each class at the University to perform civilian Federal service for not less than seven years following the completion of their professional education in lieu of active duty in a uniformed service if the needs of the uniformed services do not require that such graduates perform active duty in a uniformed service and as long as the Secretary of Defense does not recall such persons to active duty in the uniformed services. Such persons who execute an agreement in writing to perform such civilian Federal service may be released from active duty following the completion of their professional education. The location and type of their duty shall be determined by the Secretary of Defense after consultation with the heads of Federal agencies concerned.
 
+
+## Source Credit
+
+*(Added [Pub. L. 92–426, § 2(a)](https://www.govinfo.gov/link/plaw/92/public/426), Sept. 21, 1972, [86 Stat. 716](https://www.govinfo.gov/link/statute/86/716); amended [Pub. L. 96–107, title VIII, § 803(c)(1)](https://www.govinfo.gov/link/plaw/96/public/107), (2), Nov. 9, 1979, [93 Stat. 812](https://www.govinfo.gov/link/statute/93/812).)*

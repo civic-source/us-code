@@ -3,9 +3,10 @@ title: "Section 6551 - Findings and purpose"
 usc_title: 16
 usc_section: "6551"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6551"
-generated_at: "2026-03-30T02:54:23.061Z"
+generated_at: "2026-11-23T20:26:20.803Z"
+status: "active"
 ---
 
 # § 6551. Findings and purpose
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:54:23.061Z"
   - **(1)** to require the Secretary to develop an accelerated basic and applied assessment program to combat infestations by forest-damaging insects and associated diseases;
   - **(2)** to enlist the assistance of colleges and universities (including forestry schools, land grant colleges and universities, and 1890 Institutions), State agencies, and private landowners to carry out the program; and
   - **(3)** to carry out applied silvicultural assessments.
+
+## Source Credit
+
+*([Pub. L. 108–148, title IV, § 401](https://www.govinfo.gov/link/plaw/108/public/148), Dec. 3, 2003, [117 Stat. 1907](https://www.govinfo.gov/link/statute/117/1907).)*

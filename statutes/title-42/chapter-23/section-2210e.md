@@ -3,9 +3,10 @@ title: "Section 2210e - Design basis threat rulemaking"
 usc_title: 42
 usc_section: "2210e"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2210e"
-generated_at: "2026-03-30T02:56:11.156Z"
+generated_at: "2026-11-23T20:27:22.104Z"
+status: "active"
 ---
 
 # § 2210e. Design basis threat rulemaking
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.156Z"
   - **(10)** the potential for attacks on spent fuel shipments by multiple coordinated teams of a large number of individuals;
   - **(11)** the adequacy of planning to protect the public health and safety at and around nuclear facilities, as appropriate, in the event of a terrorist attack against a nuclear facility; and
   - **(12)** the potential for theft and diversion of nuclear materials from such facilities.
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 170E, as added [Pub. L. 109–58, title VI, § 651(a)(1)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 799](https://www.govinfo.gov/link/statute/119/799).)*

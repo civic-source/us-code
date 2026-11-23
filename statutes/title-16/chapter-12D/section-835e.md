@@ -3,12 +3,17 @@ title: "Section 835e - Payment for lands acquired from Spokane and Colville Rese
 usc_title: 16
 usc_section: "835e"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 835e"
-generated_at: "2026-03-30T02:54:22.927Z"
+generated_at: "2026-11-23T20:26:20.318Z"
+status: "active"
 ---
 
 # § 835e. Payment for lands acquired from Spokane and Colville Reservations
 
 As lands or interests in lands are designated from time to time under sections 835d to 835h of this title, the Secretary of the Interior shall determine the amount of money to be paid to the Indians as just and equitable compensation therefor. As to the tribal lands, the amounts so determined shall be transferred in the Treasury of the United States from the funds now or hereafter made available for the construction of the Columbia Basin project to the credit of the appropriate tribe pursuant to the provisions of section 155 of title 25 . The amounts due individual landowners or their heirs or devisees shall be paid from funds now or hereafter made available for the construction of said project to the superintendent of the Colville Indian Agency or such other officer as shall be designated by the Secretary of the Interior for credit on the books of said agency to the accounts of the individuals concerned.
 
+
+## Source Credit
+
+*(June 29, 1940, ch. 460, § 2, [54 Stat. 703](https://www.govinfo.gov/link/statute/54/703); May 27, 1937, ch. 269, § 1, [50 Stat. 208](https://www.govinfo.gov/link/statute/50/208); Mar. 10, 1943, ch. 14, [57 Stat. 14](https://www.govinfo.gov/link/statute/57/14).)*

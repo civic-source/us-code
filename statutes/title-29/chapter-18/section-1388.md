@@ -3,9 +3,10 @@ title: "Section 1388 - Reduction of partial withdrawal liability"
 usc_title: 29
 usc_section: "1388"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1388"
-generated_at: "2026-03-30T02:55:18.734Z"
+generated_at: "2026-11-23T20:26:38.033Z"
+status: "active"
 ---
 
 # § 1388. Reduction of partial withdrawal liability
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:18.734Z"
   - **(1)** The corporation may prescribe regulations providing for the reduction or elimination of partial withdrawal liability under any conditions with respect to which the corporation determines that reduction or elimination of partial withdrawal liability is consistent with the purposes of this chapter.
   - **(2)** Under such regulations, reduction of withdrawal liability shall be provided only with respect to subsequent changes in the employer’s contributions for the same operations, or under the same collective bargaining agreement, that gave rise to the partial withdrawal, and changes in the employer’s contribution base units with respect to other facilities or other collective bargaining agreements shall not be taken into account.
   - **(3)** The corporation shall prescribe by regulation a procedure by which a plan may by amendment adopt rules for the reduction or elimination of partial withdrawal liability under any other conditions, subject to the approval of the corporation based on its determination that adoption of such rules by the plan is consistent with the purposes of this chapter.
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4208](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 96–364, title I, § 104(2)](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1224](https://www.govinfo.gov/link/statute/94/1224).)*

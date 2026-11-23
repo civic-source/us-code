@@ -3,9 +3,10 @@ title: "Section 8416 - Survivor reduction for a current spouse"
 usc_title: 5
 usc_section: "8416"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8416"
-generated_at: "2026-03-30T02:52:56.055Z"
+generated_at: "2026-11-23T20:25:32.192Z"
+status: "active"
 ---
 
 # § 8416. Survivor reduction for a current spouse
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:52:56.055Z"
   - **(3)** An annuity which is reduced pursuant to an election by a former employee or Member under this subsection shall be reduced by the same percentage as was in effect under section 8419 as of the date of the employee’s or Member’s retirement.
   - **(4)** Rights and obligations under this chapter resulting from an election under this subsection shall be the same as the rights and obligations which would have resulted had the election been made at the time of retirement.
   - **(5)** The Office shall inform each employee and Member who is eligible to make an election under this subsection of the right to make such election and the procedures and deadlines applicable in making any such election.
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 528](https://www.govinfo.gov/link/statute/100/528).)*

@@ -3,9 +3,10 @@ title: "Section 19233 - Review of contracts and agreements"
 usc_title: 42
 usc_section: "19233"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 19233"
-generated_at: "2026-03-30T02:56:11.543Z"
+generated_at: "2026-11-23T20:27:23.868Z"
+status: "active"
 ---
 
 # § 19233. Review of contracts and agreements
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.543Z"
   - **(2)** endeavor to provide justification for requests for supporting documentation made under such paragraph;
   - **(3)** require that allegations be proven by a preponderance of evidence; and
   - **(4)** as practicable, afford subjects an opportunity to provide comments and rebuttal and an opportunity to appeal before final administrative action is taken.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title VI, § 10633](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1666](https://www.govinfo.gov/link/statute/136/1666).)*

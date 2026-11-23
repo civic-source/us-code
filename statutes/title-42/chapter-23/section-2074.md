@@ -3,9 +3,10 @@ title: "Section 2074 - Foreign distribution of special nuclear material"
 usc_title: 42
 usc_section: "2074"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2074"
-generated_at: "2026-03-30T02:56:11.148Z"
+generated_at: "2026-11-23T20:27:22.061Z"
+status: "active"
 ---
 
 # § 2074. Foreign distribution of special nuclear material
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.148Z"
   - **(1)** which are contained in laboratory samples, medical devices, or monitoring or other instruments; or
   - **(2)** the distribution of which is needed to deal with an emergency situation in which time is of the essence.
 - **(e)** The authority in this section to commit United States funds for any activities pursuant to any subsequent arrangement under section 2160(a)(2)(E) of this title shall be subject to the requirements of section 2160 of this title .
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 54, as added Aug. 30, 1954, ch. 1073, § 1, [68 Stat. 931](https://www.govinfo.gov/link/statute/68/931); amended [Pub. L. 85–177, § 7](https://www.govinfo.gov/link/plaw/85/public/177), Aug. 28, 1957, [71 Stat. 455](https://www.govinfo.gov/link/statute/71/455); [Pub. L. 87–206, § 4](https://www.govinfo.gov/link/plaw/87/public/206), Sept. 6, 1961, [75 Stat. 476](https://www.govinfo.gov/link/statute/75/476); [Pub. L. 88–489, § 9](https://www.govinfo.gov/link/plaw/88/public/489), Aug. 26, 1964, [78 Stat. 604](https://www.govinfo.gov/link/statute/78/604); [Pub. L. 93–377, § 2](https://www.govinfo.gov/link/plaw/93/public/377), Aug. 17, 1974, [88 Stat. 473](https://www.govinfo.gov/link/statute/88/473); [Pub. L. 95–242, title III](https://www.govinfo.gov/link/plaw/95/public/242), §§ 301(a), 303(b)(1), Mar. 10, 1978, [92 Stat. 125](https://www.govinfo.gov/link/statute/92/125), 131; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944); [Pub. L. 103–437, § 15(f)(3)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4592](https://www.govinfo.gov/link/statute/108/4592).)*

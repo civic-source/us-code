@@ -3,12 +3,17 @@ title: "Section 518 - Acquisition of lands not defeated by rights-of-way, easeme
 usc_title: 16
 usc_section: "518"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 518"
-generated_at: "2026-03-30T02:54:22.861Z"
+generated_at: "2026-11-23T20:26:20.096Z"
+status: "active"
 ---
 
 # § 518. Acquisition of lands not defeated by rights-of-way, easements, and reservations
 
 Such acquisition by the United States shall in no case be defeated because of located or defined rights of way, easements, and reservations, which, from their nature will, in the opinion of the Secretary of Agriculture, in no manner interfere with the use of the lands so encumbered, for the purposes of this Act. Such rights of way, easements, and reservations retained by the owner from whom the United States receives title, shall be subject to the rules and regulations prescribed by the Secretary of Agriculture for their occupation, use, operation, protection, and administration, and such rules and regulations shall be expressed in and made part of the written instrument conveying title to the lands to the United States; and the use, occupation, and operation of such rights of way, easements, and reservations shall be under, subject to, and in obedience with the rules and regulations so expressed.
 
+
+## Source Credit
+
+*(Mar. 1, 1911, ch. 186, § 9, [36 Stat. 962](https://www.govinfo.gov/link/statute/36/962); Mar. 4, 1913, ch. 145, § 1 (part), [37 Stat. 855](https://www.govinfo.gov/link/statute/37/855); [Pub. L. 94–588, § 17(a)(5)](https://www.govinfo.gov/link/plaw/94/public/588), Oct. 22, 1976, [90 Stat. 2962](https://www.govinfo.gov/link/statute/90/2962).)*

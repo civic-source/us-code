@@ -3,9 +3,10 @@ title: "Section 4511 - Priority in contracts and orders"
 usc_title: 50
 usc_section: "4511"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4511"
-generated_at: "2026-03-30T02:56:26.274Z"
+generated_at: "2026-11-23T20:27:31.105Z"
+status: "active"
 ---
 
 # § 4511. Priority in contracts and orders
@@ -24,3 +25,47 @@ generated_at: "2026-03-30T02:56:26.274Z"
 - **(d)** The head of each Federal agency to which the President delegates authority under this section shall—
   - **(1)** issue, and annually review and update whenever appropriate, final rules, in accordance with section 553 of title 5 , that establish standards and procedures by which the priorities and allocations authority under this section is used to promote the national defense, under both emergency and nonemergency conditions; and
   - **(2)** as appropriate and to the extent practicable, consult with the heads of other Federal agencies to develop a consistent and unified Federal priorities and allocations system.
+
+Supporting Enhanced Use of the Defense Production Act of 1950
+
+Medical Supplies and Equipment.—
+
+Testing, ppe, vaccines, and other materials
+
+Responding to public health emergencies
+
+Section
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+Section
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*(Sept. 8, 1950, ch. 932, title I, § 101, [64 Stat. 799](https://www.govinfo.gov/link/statute/64/799); July 31, 1951, ch. 275, title I, § 101(a), [65 Stat. 131](https://www.govinfo.gov/link/statute/65/131); June 30, 1952, ch. 530, title I, §§ 101, 102, [66 Stat. 296](https://www.govinfo.gov/link/statute/66/296), 297; June 30, 1953, ch. 171, § 3, [67 Stat. 129](https://www.govinfo.gov/link/statute/67/129); [Pub. L. 94–163, title I, § 104(a)](https://www.govinfo.gov/link/plaw/94/public/163), Dec. 22, 1975, [89 Stat. 878](https://www.govinfo.gov/link/statute/89/878); [Pub. L. 102–99, § 6](https://www.govinfo.gov/link/plaw/102/public/99), Aug. 17, 1991, [105 Stat. 490](https://www.govinfo.gov/link/statute/105/490); [Pub. L. 111–67, § 4](https://www.govinfo.gov/link/plaw/111/public/67), Sept. 30, 2009, [123 Stat. 2009](https://www.govinfo.gov/link/statute/123/2009); [Pub. L. 113–172, § 3](https://www.govinfo.gov/link/plaw/113/public/172), Sept. 26, 2014, [128 Stat. 1897](https://www.govinfo.gov/link/statute/128/1897).)*

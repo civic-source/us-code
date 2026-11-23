@@ -3,9 +3,10 @@ title: "Section 130i - Protection of certain facilities and assets from unmanned
 usc_title: 10
 usc_section: "130i"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 130i"
-generated_at: "2026-03-30T02:53:38.035Z"
+generated_at: "2026-11-23T20:25:50.820Z"
+status: "active"
 ---
 
 # § 130i. Protection of certain facilities and assets from unmanned aircraft
@@ -114,3 +115,107 @@ generated_at: "2026-03-30T02:53:38.035Z"
   - **(6)** The terms “electronic communication”, “intercept”, “oral communication”, and “wire communication” have the meanings given those terms in section 2510 of title 18 .
   - **(7)** The terms “unmanned aircraft” and “unmanned aircraft system” have the meanings given those terms in section 44801 of title 49 .
 - **(n)** The authority to carry out this section shall terminate on December 31, 2030 .
+
+Authority
+
+Actions Described
+
+Forfeiture
+
+Regulations and Guidance
+
+Privacy Protection
+
+Claims
+
+Budget
+
+Semiannual Reports
+
+Briefing, Report, and Publication
+
+Rule of Construction
+
+Interagency Executive Committees on Execution of Department of Defense Counter Unmanned Aviation Authority
+
+Additional Annual Report
+
+Definitions
+
+Termination
+
+Establishment
+
+Locations
+
+Objectives
+
+Contract Authority
+
+Briefings
+
+Termination.—
+
+In general
+
+Early termination option
+
+Appropriate Congressional Committees Defined
+
+Requirements
+
+Pilot Program for Deployment of Certain Counter-UAS Systems.—
+
+Pilot program
+
+Elements
+
+Coordination Required
+
+Briefings
+
+Definitions
+
+In General
+
+Information To Be Included
+
+Dissemination
+
+In General
+
+Review of Memoranda and Directives.—
+
+In general
+
+Included memoranda and directives
+
+Issuance of Updated Guidance.—
+
+In general
+
+Dissemination to installation commanders
+
+Standard operating procedures for military installations.—
+
+In general
+
+Extension during changes in command
+
+Report on Existing Training Efforts
+
+Assessment, Analysis, and Review
+
+Strategy Development and Implementation Required.—
+
+In general
+
+Elements
+
+Incorporation into existing strategy
+
+Information to Congress
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. A, title XVI, § 1697(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2639](https://www.govinfo.gov/link/statute/130/2639); amended [Pub. L. 115–91, div. A, title XVI, § 1692](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1788](https://www.govinfo.gov/link/statute/131/1788); [Pub. L. 116–92, div. A, title XVI, § 1694](https://www.govinfo.gov/link/plaw/116/public/92), title XVII, § 1731(a)(6), Dec. 20, 2019, [133 Stat. 1791](https://www.govinfo.gov/link/statute/133/1791), 1812; [Pub. L. 116–283, div. A, title X, § 1081(a)(8)](https://www.govinfo.gov/link/plaw/116/public/283), title XVIII, § 1845(c)(4), Jan. 1, 2021, [134 Stat. 3871](https://www.govinfo.gov/link/statute/134/3871), 4247; [Pub. L. 118–31, div. A, title XVI, § 1681](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 611](https://www.govinfo.gov/link/statute/137/611); [Pub. L. 118–159, div. A, title XVII, § 1701(a)(2)](https://www.govinfo.gov/link/plaw/118/public/159), div. B, title XXVIII, § 2871(c)(1), Dec. 23, 2024, [138 Stat. 2203](https://www.govinfo.gov/link/statute/138/2203), 2281; [Pub. L. 119–60, div. A, title XVII, § 1707](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1215](https://www.govinfo.gov/link/statute/139/1215).)*

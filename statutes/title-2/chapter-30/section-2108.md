@@ -3,9 +3,10 @@ title: "Section 2108 - Provisions relating to Senate Commission on Art"
 usc_title: 2
 usc_section: "2108"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 2108"
-generated_at: "2026-03-30T02:53:04.824Z"
+generated_at: "2026-11-23T20:25:29.013Z"
+status: "active"
 ---
 
 # § 2108. Provisions relating to Senate Commission on Art
@@ -59,3 +60,7 @@ generated_at: "2026-03-30T02:53:04.824Z"
     - **(C)** In carrying out this subsection, the Secretary of the Treasury may make such purchases, sales, and redemption of obligations as may be approved by the Commission.
   - **(5)** The Library of Congress shall provide financial management and disbursing services and support to the Commission as may be required and mutually agreed to by the Librarian of Congress and the Executive Secretary of the Commission.
   - **(6)** The Comptroller General of the United States shall conduct periodic audits of the Senate Preservation Fund, which shall be conducted at least once every 3 years, unless the Chairman or the Ranking Member of the Committee on Rules and Administration of the Senate or the Secretary of the Senate requests that an audit be conducted at an earlier date, and shall report the results of each audit to the Commission.
+
+## Source Credit
+
+*([Pub. L. 108–83, title I, § 3](https://www.govinfo.gov/link/plaw/108/public/83), Sept. 30, 2003, [117 Stat. 1010](https://www.govinfo.gov/link/statute/117/1010); [Pub. L. 109–55, title I, § 4](https://www.govinfo.gov/link/plaw/109/public/55), Aug. 2, 2005, [119 Stat. 568](https://www.govinfo.gov/link/statute/119/568); [Pub. L. 112–234, § 2(h)](https://www.govinfo.gov/link/plaw/112/public/234), Dec. 28, 2012, [126 Stat. 1625](https://www.govinfo.gov/link/statute/126/1625); [Pub. L. 115–31, div. I, title I, § 2](https://www.govinfo.gov/link/plaw/115/public/31), May 5, 2017, [131 Stat. 571](https://www.govinfo.gov/link/statute/131/571).)*

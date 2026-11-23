@@ -3,9 +3,10 @@ title: "Section 2720 - Closing of consular and diplomatic posts abroad"
 usc_title: 22
 usc_section: "2720"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2720"
-generated_at: "2026-03-30T02:55:05.381Z"
+generated_at: "2026-11-23T20:26:32.389Z"
+status: "active"
 ---
 
 # § 2720. Closing of consular and diplomatic posts abroad
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.381Z"
   - **(1)** any post closed because of a break or downgrading of diplomatic relations between the United States and the country in which the post is located; or
   - **(2)** any post closed because there is a real and present threat to United States diplomatic or consular personnel in the city where the post is located, and a travel advisory warning against travel by United States citizens to that city has been issued by the Department of State.
 - **(e)** As used in this section, the term “consular or diplomatic post” does not include a post to which only personnel of agencies other than the Department of State are assigned.
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title I, § 48, as added [Pub. L. 102–138, title I, § 112(a)(1)](https://www.govinfo.gov/link/plaw/102/public/138), Oct. 28, 1991, [105 Stat. 654](https://www.govinfo.gov/link/statute/105/654).)*

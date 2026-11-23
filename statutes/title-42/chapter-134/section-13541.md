@@ -3,9 +3,10 @@ title: "Section 13541 - Research, development, demonstration, and commercial app
 usc_title: 42
 usc_section: "13541"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13541"
-generated_at: "2026-03-30T02:56:11.448Z"
+generated_at: "2026-11-23T20:27:23.507Z"
+status: "active"
 ---
 
 # § 13541. Research, development, demonstration, and commercial application activities
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.448Z"
   - **(1)** entering into a contract, cooperative agreement, cooperative research and development agreement under the Stevenson-Wydler Technology Innovation Act of 1980 [ 15 U.S.C. 3701 et seq.], grant, joint venture, or any other form of agreement available to the Secretary under this section that relates to research, development, demonstration, and commercial application; or
   - **(2)** extending a contract, cooperative agreement, cooperative research and development agreement under the Stevenson-Wydler Technology Innovation Act of 1980, grant, joint venture, or any other form of agreement available to the Secretary that relates to research, development, and demonstration to cover commercial application.
 - **(f)** This section shall not apply to any contract, cooperative agreement, cooperative research and development agreement under the Stevenson-Wydler Technology Innovation Act of 1980 [ 15 U.S.C. 3701 et seq.], grant, joint venture, or any other form of agreement available to the Secretary that is in effect as of October 24, 1992 .
+
+## Source Credit
+
+*([Pub. L. 102–486, title XXX, § 3001](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3126](https://www.govinfo.gov/link/statute/106/3126).)*

@@ -3,9 +3,10 @@ title: "Section 657h - Small business energy efficiency"
 usc_title: 15
 usc_section: "657h"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 657h"
-generated_at: "2026-03-30T02:54:08.107Z"
+generated_at: "2026-11-23T20:26:03.843Z"
+status: "active"
 ---
 
 # § 657h. Small business energy efficiency
@@ -100,3 +101,7 @@ generated_at: "2026-03-30T02:54:08.107Z"
   - **(2)** Not later than 2 years after the date on which funds are first appropriated to carry out this subsection, the Administrator shall transmit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report containing the results of an evaluation of the Telecommuting Pilot Program and any recommendations regarding whether the pilot program, with or without modification, should be extended to include the participation of all regions of the Administration.
   - **(3)** The Telecommuting Pilot Program shall terminate 4 years after the date on which funds are first appropriated to carry out this subsection.
   - **(4)** There is authorized to be appropriated to the Administration $5,000,000 to carry out this subsection.
+
+## Source Credit
+
+*([Pub. L. 110–140, title XII, § 1203](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1766](https://www.govinfo.gov/link/statute/121/1766).)*

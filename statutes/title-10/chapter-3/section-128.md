@@ -3,9 +3,10 @@ title: "Section 128 - Control and physical protection of special nuclear materia
 usc_title: 10
 usc_section: "128"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 128"
-generated_at: "2026-03-30T02:53:38.034Z"
+generated_at: "2026-11-23T20:25:50.817Z"
+status: "active"
 ---
 
 # § 128. Control and physical protection of special nuclear material: limitation on dissemination of unclassified information
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:38.034Z"
 - **(b)** Nothing in this section shall be construed to authorize the Secretary to withhold, or to authorize the withholding of, information from the appropriate committees of the Congress.
 - **(c)** Any determination by the Secretary concerning the applicability of this section shall be subject to judicial review pursuant to section 552(a)(4)(B) of title 5 .
 - **(d)** Information that the Secretary prohibits to be disseminated pursuant to subsection (a) that is provided to a State or local government shall remain under the control of the Department of Defense, and a State or local law authorizing or requiring a State or local government to disclose such information shall not apply to such information.
+
+## Source Credit
+
+*(Added [Pub. L. 100–180, div. A, title XI, § 1123(a)](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1149](https://www.govinfo.gov/link/statute/101/1149); amended [Pub. L. 101–510, div. A, title XIII, § 1311(1)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1669](https://www.govinfo.gov/link/statute/104/1669); [Pub. L. 108–136, div. A, title X, § 1031(a)(4)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1596](https://www.govinfo.gov/link/statute/117/1596); [Pub. L. 114–328, div. A, title XVI, § 1662(a)(1)](https://www.govinfo.gov/link/plaw/114/public/328), (2), Dec. 23, 2016, [130 Stat. 2614](https://www.govinfo.gov/link/statute/130/2614).)*

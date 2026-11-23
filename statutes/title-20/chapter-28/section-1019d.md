@@ -3,9 +3,10 @@ title: "Section 1019d - Self-certification form for private education loans"
 usc_title: 20
 usc_section: "1019d"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1019d"
-generated_at: "2026-03-30T02:54:48.096Z"
+generated_at: "2026-11-23T20:26:14.318Z"
+status: "active"
 ---
 
 # § 1019d. Self-certification form for private education loans
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:48.096Z"
     - **(C)** the difference between the amounts under subparagraphs (A) and (B), as applicable; and
   - **(5)** include a place for the applicant’s signature, in written or electronic form.
 - **(b)** Nothing in this section shall be construed to create a private right of action against an institution of higher education with respect to the form developed under subsection (a).
+
+## Source Credit
+
+*([Pub. L. 89–329, title I, § 155](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title X, § 1021(b)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3487](https://www.govinfo.gov/link/statute/122/3487); amended [Pub. L. 111–39, title I, § 101(b)(7)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1935](https://www.govinfo.gov/link/statute/123/1935); [Pub. L. 116–260, div. FF, title VII, § 704(1)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3199](https://www.govinfo.gov/link/statute/134/3199).)*

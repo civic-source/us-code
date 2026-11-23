@@ -3,9 +3,10 @@ title: "Section 6442a - Non-state actor designations"
 usc_title: 22
 usc_section: "6442a"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6442a"
-generated_at: "2026-03-30T02:55:05.429Z"
+generated_at: "2026-11-23T20:26:32.615Z"
+status: "active"
 ---
 
 # § 6442a. Non-state actor designations
@@ -24,3 +25,9 @@ generated_at: "2026-03-30T02:55:05.429Z"
   - **(3)** any actions the President takes after designating a non-state actor as an entity of particular concern should also involve high-level diplomacy with the government of the country in which the non-state actor is operating.
 - **(f)** In order to appropriately target Presidential actions under the International Religious Freedom Act of 1998 ( 22 U.S.C. 6401 et seq.), the President, with respect to each non-state actor designated as an entity of particular concern for religious freedom under subsection (a), shall seek to determine, to the extent practicable, the specific officials or members that are responsible for the particularly severe violations of religious freedom engaged in or tolerated by such non-state actor.
 - **(g)** In this section, the terms “appropriate congressional committees”, “non-state actor”, and “particularly severe violations of religious freedom” have the meanings given such terms in section 3 of the International Religious Freedom Act of 1998 ( 22 U.S.C. 6402 ), as amended by section 3 of this Act.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 114–281, title III, § 301](https://www.govinfo.gov/link/plaw/114/public/281), Dec. 16, 2016, [130 Stat. 1433](https://www.govinfo.gov/link/statute/130/1433).)*

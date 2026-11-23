@@ -3,9 +3,10 @@ title: "Section 664 - Charitable remainder trusts"
 usc_title: 26
 usc_section: "664"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 664"
-generated_at: "2026-03-30T02:55:27.723Z"
+generated_at: "2026-11-23T20:26:45.853Z"
+status: "active"
 ---
 
 # § 664. Charitable remainder trusts
@@ -79,3 +80,11 @@ generated_at: "2026-03-30T02:55:27.723Z"
       - **(i)** $30,000, or
       - **(ii)** 25 percent of the participant’s compensation (as defined in section 415(c)(3)).
     - **(B)** The Secretary shall adjust annually the $30,000 amount under subparagraph (A)(i) at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter beginning October 1, 1993 , and any increase under this subparagraph which is not a multiple of $5,000 shall be rounded to the next lowest multiple of $5,000.
+
+In general
+
+Special rule for certain decedents
+
+## Source Credit
+
+*(Added [Pub. L. 91–172, title II, § 201(e)(1)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 562](https://www.govinfo.gov/link/statute/83/562); amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 98–369, div. A, title X, § 1022(d)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1029](https://www.govinfo.gov/link/statute/98/1029); [Pub. L. 105–34, title X, § 1089(a)(1)](https://www.govinfo.gov/link/plaw/105/public/34), (b)(1), (2), (4), title XV, § 1530(a), (b), (c)(5), Aug. 5, 1997, [111 Stat. 960](https://www.govinfo.gov/link/statute/111/960), 1075, 1078; [Pub. L. 105–206, title VI, § 6010(r)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 817](https://www.govinfo.gov/link/statute/112/817); [Pub. L. 106–554, § 1(a)(7) [title III, § 319(7)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–646; [Pub. L. 107–16, title VI, § 632(a)(3)(H)](https://www.govinfo.gov/link/plaw/107/public/16), June 7, 2001, [115 Stat. 114](https://www.govinfo.gov/link/statute/115/114); [Pub. L. 109–280, title VIII, § 868(a)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1025](https://www.govinfo.gov/link/statute/120/1025); [Pub. L. 109–432, div. A, title IV, § 424(a)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 2974](https://www.govinfo.gov/link/statute/120/2974); [Pub. L. 114–113, div. Q, title III, § 344(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3115](https://www.govinfo.gov/link/statute/129/3115); [Pub. L. 115–141, div. U, title IV, § 401(b)(27)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1203](https://www.govinfo.gov/link/statute/132/1203).)*

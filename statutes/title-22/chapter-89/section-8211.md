@@ -3,9 +3,10 @@ title: "Section 8211 - Democracy promotion at the Department of State"
 usc_title: 22
 usc_section: "8211"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8211"
-generated_at: "2026-03-30T02:55:05.449Z"
+generated_at: "2026-11-23T20:26:32.702Z"
+status: "active"
 ---
 
 # § 8211. Democracy promotion at the Department of State
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:05.449Z"
   - **(3)** conduct meetings with civil society, interviews with media that can directly reach citizens of each such country, and discussions with students and young people of each such country regarding progress toward a democratic system of governance and the development of political, social, and economic freedoms in each such country.
 - **(d)** The Secretary should seek to increase the proportion of members of the Foreign Service who serve in the Bureau of Democracy, Human Rights, and Labor.
 - **(e)** There are authorized to be appropriated to the Secretary such sums as may be necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XXI, § 2111](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 529](https://www.govinfo.gov/link/statute/121/529).)*

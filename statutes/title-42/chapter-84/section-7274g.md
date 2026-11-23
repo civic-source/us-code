@@ -3,9 +3,10 @@ title: "Section 7274g - Environmental restoration and waste management five-year
 usc_title: 42
 usc_section: "7274g"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7274g"
-generated_at: "2026-03-30T02:56:11.286Z"
+generated_at: "2026-11-23T20:27:22.798Z"
+status: "active"
 ---
 
 # § 7274g. Environmental restoration and waste management five-year plan and budget reports
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:11.286Z"
 - **(c)** The Secretary of Energy is authorized to award grants to, and enter into cooperative agreements with, affected States and affected Indian tribes to assist such States and tribes in participating in the development of the annual five-year plan (including the preliminary form of such plan).
 - **(d)** Of the funds authorized to be appropriated pursuant to section 3103, $20,000,000 may be used for the purpose of carrying out subsection (c).
 - **(e)** Each year, at the same time the President submits to Congress the budget for a fiscal year (pursuant to section 1105 of title 31 ), the President shall submit to Congress a description of proposed activities and funding levels contained in the annual five-year plan (issued, pursuant to subsection (a)(1), in the year preceding the year in which the budget is submitted to Congress) that are not included in the budget or are included in the budget in a different form or at a different funding level, together with the reasons for such differences.
+
+## Source Credit
+
+*([Pub. L. 102–190, div. C, title XXXI, § 3135](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1575](https://www.govinfo.gov/link/statute/105/1575); [Pub. L. 103–337, div. C, title XXXI, § 3160(a)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 3094](https://www.govinfo.gov/link/statute/108/3094).)*

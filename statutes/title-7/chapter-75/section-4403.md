@@ -3,9 +3,10 @@ title: "Section 4403 - Duties of Secretary of Agriculture"
 usc_title: 7
 usc_section: "4403"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 4403"
-generated_at: "2026-03-30T02:53:42.408Z"
+generated_at: "2026-11-23T20:25:41.618Z"
+status: "active"
 ---
 
 # § 4403. Duties of Secretary of Agriculture
@@ -20,3 +21,7 @@ The Secretary of Agriculture of the United States shall be the competent authori
   - **(6)** require maintenance of records by those seeking certificates of compliance and by organizations designated to test or inspect equipment under this chapter, such records to be made available to the Secretary upon request;
   - **(7)** inform contracting parties, through the Secretary of State of the United States, of all general measures taken in connection with the implementation of the agreement; and
   - **(8)** take such other action as may be considered appropriate to implement the agreement and administer this chapter.
+
+## Source Credit
+
+*([Pub. L. 97–325, § 4](https://www.govinfo.gov/link/plaw/97/public/325), Oct. 15, 1982, [96 Stat. 1604](https://www.govinfo.gov/link/statute/96/1604).)*

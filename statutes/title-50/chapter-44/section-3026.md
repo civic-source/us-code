@@ -3,9 +3,10 @@ title: "Section 3026 - Deputy Directors of National Intelligence"
 usc_title: 50
 usc_section: "3026"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3026"
-generated_at: "2026-03-30T02:56:26.228Z"
+generated_at: "2026-11-23T20:27:30.882Z"
+status: "active"
 ---
 
 # § 3026. Deputy Directors of National Intelligence
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:56:26.228Z"
     - **(C)** shall not be counted against the numbers and percentages of commissioned officers of the rank and grade of such officer authorized for the military department of that officer.
   - **(5)** Except as provided in subparagraph (A) or (B) of paragraph (4), the appointment of an officer of the Armed Forces to a position specified in paragraph (2) shall not affect the status, position, rank, or grade of such officer in the Armed Forces, or any emolument, perquisite, right, privilege, or benefit incident to or arising out of such status, position, rank, or grade.
   - **(6)** A commissioned officer of the Armed Forces on active duty who is appointed to a position specified in paragraph (2), while serving in such position and while remaining on active duty, shall continue to receive military pay and allowances and shall not receive the pay prescribed for such position. Funds from which such pay and allowances are paid shall be reimbursed from funds available to the Director of National Intelligence.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title I, § 103A, as added [Pub. L. 108–458, title I, § 1011(a)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3656](https://www.govinfo.gov/link/statute/118/3656).)*

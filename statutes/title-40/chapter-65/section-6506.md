@@ -3,9 +3,10 @@ title: "Section 6506 - Allocation of space"
 usc_title: 40
 usc_section: "6506"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 6506"
-generated_at: "2026-03-30T02:55:43.382Z"
+generated_at: "2026-11-23T20:26:56.628Z"
+status: "active"
 ---
 
 # § 6506. Allocation of space
@@ -33,3 +34,85 @@ generated_at: "2026-03-30T02:55:43.382Z"
   - **(2)** A sublease under subsection (a)(3) must be compatible with the dignity and functions of the judicial branch offices housed in the Building and must not unduly interfere with the activities and operations of the judicial branch agencies housed in the Building. Sections 5104(c) and 5108 of this title do not apply to any space in the Building and other improvements subleased to a non-Government tenant under subsection (a)(3).
   - **(3)** The Architect shall collect rent for space subleased under subsection (a)(3).
 - **(f)** Amounts received under subsection (a)(3) (including lease payments and reimbursements) shall be deposited in the account described in section 6507 of this title .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 6506(a)(1), (2) | 40:1205(a)(1), (2). | Pub. L. 100–480, § 6(a)(1) –(6), (b), (c), Oct. 7, 1988 , 102 Stat. 2332 . |
+| 6506(a)(3) | 40:1205(b)(1). |  |
+| 6506(b) | 40:1205(a)(3), (4). |  |
+| 6506(c)(1) | 40:1205(a)(6). |  |
+| 6506(c)(2), (3) | 40:1205(a)(5). |  |
+| 6506(d) | 40:1205(a)(7), (8). | Pub. L. 100–480, § 6(a)(7) , (8), as added Pub. L. 102–392, title III, § 318 , Oct. 6, 1992 , 106 Stat. 1724 . |
+| 6506(e) | 40:1205(b)(2)–(4). |  |
+| 6506(f) | 40:1205(c). |  |
+
+
+Priority.—
+
+Judicial branch
+
+Other federal governmental entities
+
+Other persons
+
+Space for Judicial Branch and Other Federal Governmental Entities
+
+Space for Judicial Branch.—
+
+Assignment of space within judicial branch
+
+Vacating occupied space
+
+Unoccupied space
+
+Lease by Architect.—
+
+Authority to lease
+
+Payments
+
+Subleased Space.—
+
+Rental rate
+
+Limitation
+
+Collection of rent
+
+Deposit of Rent and Reimbursements
+
+Historical and Revision Notes
+
+6506(a)(1), (2)
+
+Pub. L. 100–480, § 6(a)(1)
+
+Oct. 7, 1988
+
+102 Stat. 2332
+
+6506(a)(3)
+
+6506(b)
+
+6506(c)(1)
+
+6506(c)(2), (3)
+
+6506(d)
+
+Pub. L. 100–480, § 6(a)(7)
+
+Pub. L. 102–392, title III, § 318
+
+Oct. 6, 1992
+
+106 Stat. 1724
+
+6506(e)
+
+6506(f)
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1190](https://www.govinfo.gov/link/statute/116/1190).)*

@@ -3,9 +3,10 @@ title: "Section 709c - Emergency communication of risk"
 usc_title: 33
 usc_section: "709c"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 709c"
-generated_at: "2026-03-30T02:55:41.072Z"
+generated_at: "2026-11-23T20:26:53.908Z"
+status: "active"
 ---
 
 # § 709c. Emergency communication of risk
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:41.072Z"
   - **(4)** any other information or assistance determined appropriate by the Secretary.
 - **(c)** To the maximum extent practicable, the Secretary, in coordination with the Administrator of the Federal Emergency Management Agency, shall make the information required under subsection (b) available to the public through widely used and readily available means, including on the Internet.
 - **(d)** The Secretary shall use the procedures established under subsection (b) only when precipitation or runoff exceeds those calculations considered as the lowest risk to life and property contemplated by the annual operating plan.
+
+## Source Credit
+
+*([Pub. L. 113–121, title III, § 3027](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1305](https://www.govinfo.gov/link/statute/128/1305).)*

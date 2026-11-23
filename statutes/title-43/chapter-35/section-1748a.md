@@ -3,9 +3,10 @@ title: "Section 1748a - FLAME Wildfire Suppression Reserve Funds"
 usc_title: 43
 usc_section: "1748a"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1748a"
-generated_at: "2026-03-30T02:55:57.489Z"
+generated_at: "2026-11-23T20:27:06.368Z"
+status: "active"
 ---
 
 # § 1748a. FLAME Wildfire Suppression Reserve Funds
@@ -73,3 +74,7 @@ generated_at: "2026-03-30T02:55:57.489Z"
       - **(i)** climate, weather, and other relevant data; and
       - **(ii)** models and other analytic tools.
 - **(i)** The authority of the Secretary concerned to use the FLAME Fund established for that Secretary shall terminate at the end of the third fiscal year in which no appropriations to, or withdrawals from, that FLAME Fund have been made for a period of three consecutive fiscal years. Upon termination of such authority, any amounts remaining in the affected FLAME Fund shall be transferred to, and made a part of, the Wildland Fire Management appropriation account of the Secretary concerned for wildland suppression activities.
+
+## Source Credit
+
+*([Pub. L. 111–88, div. A, title V, § 502](https://www.govinfo.gov/link/plaw/111/public/88), Oct. 30, 2009, [123 Stat. 2968](https://www.govinfo.gov/link/statute/123/2968).)*

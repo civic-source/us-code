@@ -3,9 +3,10 @@ title: "Section 6351 - Transfers of real property at certain Department of Energ
 usc_title: 10
 usc_section: "6351"
 chapter: 608
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6351"
-generated_at: "2026-03-30T02:53:38.227Z"
+generated_at: "2026-11-23T20:25:52.032Z"
+status: "active"
 ---
 
 # § 6351. Transfers of real property at certain Department of Energy facilities
@@ -36,3 +37,19 @@ generated_at: "2026-03-30T02:53:38.227Z"
   - **(2)** In any case described in paragraph (1), if the person or entity that the Secretary may be required to indemnify does not allow the Secretary to settle or defend the claim, the person or entity may not be indemnified with respect to that claim under this section.
 - **(e)** Nothing in this section shall be construed as affecting or modifying in any way section 120(h) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ( 42 U.S.C. 9620(h) ).
 - **(f)** In this section, the terms “hazardous substance”, “release”, and “pollutant or contaminant” have the meanings provided by section 101 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ( 42 U.S.C. 9601 ).
+
+Transfer Regulations
+
+Indemnification
+
+Conditions
+
+Authority of Secretary
+
+Relationship to Other Law
+
+Definitions
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2)(B), Dec. 18, 2025, [139 Stat. 1452](https://www.govinfo.gov/link/statute/139/1452), 1462.)*

@@ -3,12 +3,17 @@ title: "Section 37 - Associations governed by chapter"
 usc_title: 12
 usc_section: "37"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 37"
-generated_at: "2026-03-30T02:53:53.372Z"
+generated_at: "2026-11-23T20:25:58.685Z"
+status: "active"
 ---
 
 # § 37. Associations governed by chapter
 
 The provisions of chapters 2, 3, and 4 of title 62 of the Revised Statutes, which are expressed without restrictive words, as applying to “national banking associations,” or to “associations,” apply to all associations organized to carry on the business of banking under any Act of Congress.
 
+
+## Source Credit
+
+*(R.S. § 5157.)*

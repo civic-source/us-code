@@ -3,9 +3,10 @@ title: "Section 12007 - Reserve officers of the Army: distribution"
 usc_title: 10
 usc_section: "12007"
 chapter: 1201
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 12007"
-generated_at: "2026-03-30T02:53:38.267Z"
+generated_at: "2026-11-23T20:25:52.395Z"
+status: "active"
 ---
 
 # § 12007. Reserve officers of the Army: distribution
@@ -14,3 +15,7 @@ The Secretary of the Army shall distribute the number of reserve commissioned of
 
   - **(1)** each special branch; and
   - **(2)** all other branches taken together.
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1662(a)(1)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2986](https://www.govinfo.gov/link/statute/108/2986).)*

@@ -3,9 +3,10 @@ title: "Section 14 - Civil money penalties against mortgagees, lenders, and othe
 usc_title: 12
 usc_section: "14"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 14"
-generated_at: "2026-03-30T02:53:53.429Z"
+generated_at: "2026-11-23T20:25:59.022Z"
+status: "active"
 ---
 
 # § 1735f–14. Civil money penalties against mortgagees, lenders, and other participants in FHA programs
@@ -57,3 +58,13 @@ generated_at: "2026-03-30T02:53:53.429Z"
 - **(g)** For purposes of this section, a person acts knowingly when a person has actual knowledge of acts or should have known of the acts.
 - **(h)** The Secretary shall issue such regulations as the Secretary deems appropriate to implement this section.
 - **(i)** Notwithstanding any other provision of law, all civil money penalties collected under this section shall be deposited in the appropriate insurance fund or funds established under this chapter, as determined by the Secretary.
+
+“The amendment made by subsection (a) [enacting this section] shall apply only with respect to—
+
+Issuance of Necessary Regulations
+
+Use of Existing Regulations
+
+## Source Credit
+
+*(June 27, 1934, ch. 847, title V, § 536, as added [Pub. L. 101–235, title I, § 107(a)](https://www.govinfo.gov/link/plaw/101/public/235), Dec. 15, 1989, [103 Stat. 2000](https://www.govinfo.gov/link/statute/103/2000); amended [Pub. L. 104–208, div. A, title II, § 2704(d)(13)(B)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–490](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 105–65, title V, § 553](https://www.govinfo.gov/link/plaw/105/public/65), Oct. 27, 1997, [111 Stat. 1413](https://www.govinfo.gov/link/statute/111/1413); [Pub. L. 105–276, title VI, § 601(g)](https://www.govinfo.gov/link/plaw/105/public/276), (h), Oct. 21, 1998, [112 Stat. 2674](https://www.govinfo.gov/link/statute/112/2674); [Pub. L. 108–447, div. I, title II, § 219(a)](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3319](https://www.govinfo.gov/link/statute/118/3319); [Pub. L. 109–171, title II, § 2102(b)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 9](https://www.govinfo.gov/link/statute/120/9); [Pub. L. 109–173, § 9(f)(2)](https://www.govinfo.gov/link/plaw/109/public/173), Feb. 15, 2006, [119 Stat. 3618](https://www.govinfo.gov/link/statute/119/3618); [Pub. L. 111–22, div. A, title II, § 203(f)](https://www.govinfo.gov/link/plaw/111/public/22), May 20, 2009, [123 Stat. 1647](https://www.govinfo.gov/link/statute/123/1647).)*

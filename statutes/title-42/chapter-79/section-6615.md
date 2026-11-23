@@ -3,9 +3,10 @@ title: "Section 6615 - National science and technology strategy"
 usc_title: 42
 usc_section: "6615"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6615"
-generated_at: "2026-03-30T02:56:11.263Z"
+generated_at: "2026-11-23T20:27:22.690Z"
+status: "active"
 ---
 
 # § 6615. National science and technology strategy
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:11.263Z"
   - **(3)** Any other information about the national science and technology strategy, as determined by the Director of the Office of Science and Technology Policy.
 - **(e)** The Director of the Office of Science and Technology Policy shall, consistent with the protection of national security and other sensitive matters to the maximum extent practicable, make each national science and technology strategy publicly available on an internet website of the Office. Each report may include a classified annex if the Director of the Office of Science and Technology Policy determines such is appropriate.
 - **(f)** This section terminates on the date that is ten years after August 9, 2022 .
+
+## Source Credit
+
+*([Pub. L. 94–282, title II, § 206](https://www.govinfo.gov/link/plaw/94/public/282), May 11, 1976, [90 Stat. 466](https://www.govinfo.gov/link/statute/90/466); [Pub. L. 97–375, title II, § 215(3)](https://www.govinfo.gov/link/plaw/97/public/375), Dec. 21, 1982, [96 Stat. 1826](https://www.govinfo.gov/link/statute/96/1826); [Pub. L. 117–167, div. B, title VI, § 10611](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1634](https://www.govinfo.gov/link/statute/136/1634).)*

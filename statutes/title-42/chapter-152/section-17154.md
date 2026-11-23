@@ -3,9 +3,10 @@ title: "Section 17154 - Use of funds"
 usc_title: 42
 usc_section: "17154"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17154"
-generated_at: "2026-03-30T02:56:11.498Z"
+generated_at: "2026-11-23T20:27:23.731Z"
+status: "active"
 ---
 
 # § 17154. Use of funds
@@ -58,3 +59,7 @@ An eligible entity may use a grant received under this part to carry out activit
     - **(A)** the Administrator of the Environmental Protection Agency;
     - **(B)** the Secretary of Transportation; and
     - **(C)** the Secretary of Housing and Urban Development.
+
+## Source Credit
+
+*([Pub. L. 110–140, title V, § 544](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1669](https://www.govinfo.gov/link/statute/121/1669); [Pub. L. 117–58, div. D, title V, § 40552(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1076](https://www.govinfo.gov/link/statute/135/1076).)*

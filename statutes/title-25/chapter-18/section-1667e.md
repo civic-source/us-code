@@ -3,9 +3,10 @@ title: "Section 1667e - Indian youth life skills development demonstration progr
 usc_title: 25
 usc_section: "1667e"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1667e"
-generated_at: "2026-03-30T02:54:52.826Z"
+generated_at: "2026-11-23T20:26:25.522Z"
+status: "active"
 ---
 
 # § 1667e. Indian youth life skills development demonstration program
@@ -89,3 +90,7 @@ generated_at: "2026-03-30T02:54:52.826Z"
     - **(D)** incorporates any public comments received under paragraph (2).
   - **(2)** The Secretary shall provide a notice of the report under paragraph (1) and an opportunity for public comment on the report for a period of not less than 90 days before submitting the report to Congress.
 - **(e)** There is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2010 through 2014.
+
+## Source Credit
+
+*([Pub. L. 94–437, title VII, § 726](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935); amended [Pub. L. 114–95, title IX, § 9215(qq)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2181](https://www.govinfo.gov/link/statute/129/2181).)*

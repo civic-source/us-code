@@ -3,9 +3,10 @@ title: "Section 3904a - Additional reserve requirements"
 usc_title: 12
 usc_section: "3904a"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 3904a"
-generated_at: "2026-03-30T02:53:53.498Z"
+generated_at: "2026-11-23T20:25:59.354Z"
+status: "active"
 ---
 
 # § 3904a. Additional reserve requirements
@@ -23,3 +24,9 @@ generated_at: "2026-03-30T02:53:53.498Z"
   - **(2)** Each appropriate Federal banking agency shall include in each report required to be made under section 3912(d) 1 1 See References in Text note below. of this title after 1989 a report on the actions taken pursuant to this section.
   - **(3)** Each Federal agency required to undertake a review described in subsection (a) shall complete the review not later than December 31, 1990 .
 - **(d)** As used in this section, the term “highly indebted country” means any country designated as a “Highly Indebted Country” in the annual World Debt Tables most recently published by the International Bank for Reconstruction and Development before December 19, 1989 .
+
+“The Congress finds that—
+
+## Source Credit
+
+*([Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title IX, § 905A], as added [Pub. L. 101–240, title IV, § 402(b)](https://www.govinfo.gov/link/plaw/101/public/240), Dec. 19, 1989, [103 Stat. 2501](https://www.govinfo.gov/link/statute/103/2501).)*

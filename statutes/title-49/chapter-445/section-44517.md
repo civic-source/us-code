@@ -3,9 +3,10 @@ title: "Section 44517 - Program to permit cost sharing of air traffic modernizat
 usc_title: 49
 usc_section: "44517"
 chapter: 445
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44517"
-generated_at: "2026-03-30T02:56:19.382Z"
+generated_at: "2026-11-23T20:27:35.151Z"
+status: "active"
 ---
 
 # § 44517. Program to permit cost sharing of air traffic modernization projects
@@ -22,3 +23,25 @@ generated_at: "2026-03-30T02:56:19.382Z"
   - **(2)** The term “project sponsor” means any major user of the national airspace system, as determined by the Secretary, including a public-use airport or a joint venture between a public-use airport and one or more air carriers.
 - **(f)** Notwithstanding any other provision of law, and upon agreement by the Administrator, a project sponsor may transfer, without consideration, to the Federal Aviation Administration, facilities, equipment, or automation tools, the purchase of which was assisted by a grant made under this section, if such facilities, equipment or tools meet Federal Aviation Administration operation and maintenance criteria.
 - **(g)** The Administrator shall issue advisory guidelines on the implementation of the program. The guidelines shall not be subject to administrative rulemaking requirements under subchapter II of chapter 5 of title 5.
+
+In General
+
+Federal Share
+
+Limitation on Grant Amounts
+
+Funding
+
+Definitions
+
+Eligible project
+
+Project sponsor
+
+Transfers of Equipment
+
+Guidelines
+
+## Source Credit
+
+*(Added [Pub. L. 108–176, title I, § 183(a)](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2516](https://www.govinfo.gov/link/statute/117/2516).)*

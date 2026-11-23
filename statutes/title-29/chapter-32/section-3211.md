@@ -3,9 +3,10 @@ title: "Section 3211 - Job Corps oversight and reporting"
 usc_title: 29
 usc_section: "3211"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3211"
-generated_at: "2026-03-30T02:55:18.757Z"
+generated_at: "2026-11-23T20:26:38.114Z"
+status: "active"
 ---
 
 # § 3211. Job Corps oversight and reporting
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:18.757Z"
   - **(2)** the Subcommittee on Labor, Health and Human Services, Education, and Related Agencies of the Committee of Appropriations of the House of Representatives;
   - **(3)** the Committee on Health, Education, Labor, and Pensions of the Senate; and
   - **(4)** the Subcommittee on Labor, Health and Human Services, Education, and Related Agencies of the Committee of Appropriations of the Senate.
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 161](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1558](https://www.govinfo.gov/link/statute/128/1558).)*

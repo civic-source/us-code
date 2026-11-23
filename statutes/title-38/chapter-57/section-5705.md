@@ -3,9 +3,10 @@ title: "Section 5705 - Confidentiality of medical quality-assurance records"
 usc_title: 38
 usc_section: "5705"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 5705"
-generated_at: "2026-03-30T02:55:53.522Z"
+generated_at: "2026-11-23T20:27:01.968Z"
+status: "active"
 ---
 
 # § 5705. Confidentiality of medical quality-assurance records
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:53.522Z"
   - **(1)** The Secretary shall prescribe regulations to carry out this section. In prescribing such regulations, the Secretary shall specify those activities carried out before October 7, 1980 , which the Secretary determines meet the definition of medical quality-assurance program in subsection (c)(1) of this section and those activities which the Secretary has designated under subsection (c)(2) of this section. The Secretary shall, to the extent appropriate, incorporate into such regulations the provisions of the administrative guidelines and procedures governing such programs in existence on October 7, 1980 .
   - **(2)** An activity may not be considered as having been designated as a medical quality-assurance program for the purposes of subsection (c)(2) of this section unless the designation has been specified in such regulations.
 - **(e)** Any person who, knowing that a document or record is a document or record described in subsection (a) of this section, willfully discloses such record or document except as provided for in subsection (b) of this section shall be fined not more than $5,000 in the case of a first offense and not more than $20,000 in the case of a subsequent offense.
+
+## Source Credit
+
+*(Added [Pub. L. 96–385, title V, § 505(a)](https://www.govinfo.gov/link/plaw/96/public/385), Oct. 7, 1980, [94 Stat. 1535](https://www.govinfo.gov/link/statute/94/1535), § 3305; amended [Pub. L. 99–166, title II, § 201](https://www.govinfo.gov/link/plaw/99/public/166), Dec. 3, 1985, [99 Stat. 949](https://www.govinfo.gov/link/statute/99/949); renumbered § 5705 and amended [Pub. L. 102–40, title IV](https://www.govinfo.gov/link/plaw/102/public/40), §§ 402(b)(1), 403(b)(2), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238), 239; [Pub. L. 102–54, § 14(d)(4)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 285](https://www.govinfo.gov/link/statute/105/285); [Pub. L. 102–83, § 4(a)(2)(F)](https://www.govinfo.gov/link/plaw/102/public/83), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404](https://www.govinfo.gov/link/statute/105/404), 405.)*

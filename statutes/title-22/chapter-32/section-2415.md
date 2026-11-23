@@ -3,9 +3,10 @@ title: "Section 2415 - Annual military assistance report"
 usc_title: 22
 usc_section: "2415"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2415"
-generated_at: "2026-03-30T02:55:05.365Z"
+generated_at: "2026-11-23T20:26:32.291Z"
+status: "active"
 ---
 
 # § 2415. Annual military assistance report
@@ -16,3 +17,13 @@ generated_at: "2026-03-30T02:55:05.365Z"
   - **(2)** were furnished with the financial assistance of the United States Government, including through loans and guarantees; or
   - **(3)** were licensed for export under section 38 of the Arms Export Control Act [ 22 U.S.C. 2778 ] and, if so, a specification of those defense articles that were exported during the fiscal year covered by the report, including, in the case of defense articles that are firearms controlled under category I of the United States Munitions List, a statement of the aggregate dollar value and quantity of semiautomatic assault weapons, or spare parts for such weapons, the manufacture, transfer, or possession of which is unlawful under section 922 of title 18 , that were licensed for export during the period covered by the report.
 - **(c)** All unclassified portions of such report shall be made available to the public on the Internet through the Department of State.
+
+Report Required
+
+Information Relating to Military Assistance and Military Exports
+
+Information Relating to Military Imports
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. III, § 655, as added [Pub. L. 104–106, div. A, title XIII, § 1324(c)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 481](https://www.govinfo.gov/link/statute/110/481); amended [Pub. L. 104–164, title I, § 148](https://www.govinfo.gov/link/plaw/104/public/164), July 21, 1996, [110 Stat. 1435](https://www.govinfo.gov/link/statute/110/1435); [Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XIII, § 1306]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–512; [Pub. L. 106–280, title VII, § 702](https://www.govinfo.gov/link/plaw/106/public/280), Oct. 6, 2000, [114 Stat. 861](https://www.govinfo.gov/link/statute/114/861); [Pub. L. 107–228, div. B, title XII](https://www.govinfo.gov/link/plaw/107/public/228), §§ 1205(c), 1262(b), Sept. 30, 2002, [116 Stat. 1428](https://www.govinfo.gov/link/statute/116/1428), 1434.)*

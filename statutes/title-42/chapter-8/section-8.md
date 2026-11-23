@@ -3,9 +3,10 @@ title: "Section 8 - Definitions"
 usc_title: 42
 usc_section: "8"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-03-30T02:56:11.091Z"
+generated_at: "2026-11-23T20:27:21.767Z"
+status: "active"
 ---
 
 # § 1437bbb–8. Definitions
@@ -18,3 +19,7 @@ For purposes of this subchapter, the following definitions shall apply:
       - **(ii)** do not contain any areas contained within the boundaries of any other participating jurisdiction; and
     - **(B)** a consortia of such units of general local government, organized for purposes of this subchapter.
   - **(2)** The term “participating jurisdiction” means, with respect to a period for which such an agreement is made, a jurisdiction that has entered into an agreement under section 1437bbb–5(b)(3) of this title to receive assistance pursuant to this subchapter for such fiscal year.
+
+## Source Credit
+
+*(Sept. 1, 1937, ch. 896, title IV, § 409, as added [Pub. L. 105–276, title V, § 561](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2624](https://www.govinfo.gov/link/statute/112/2624).)*

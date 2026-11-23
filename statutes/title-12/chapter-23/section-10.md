@@ -3,9 +3,10 @@ title: "Section 10 - Funding for guarantee; reserves of Corporation"
 usc_title: 12
 usc_section: "10"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 10"
-generated_at: "2026-03-30T02:53:53.483Z"
+generated_at: "2026-11-23T20:25:59.284Z"
+status: "active"
 ---
 
 # § 2279aa–10. Funding for guarantee; reserves of Corporation
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:53.483Z"
   - **(1)** So much of the fees assessed under this section as the Board determines to be necessary shall be set aside by the Corporation in a segregated account as a reserve against losses arising out of the guarantee activities of the Corporation.
   - **(2)** The Corporation may not issue obligations to the Secretary of the Treasury under section 2279aa–13 of this title in order to meet the obligations of the Corporation with respect to any guarantees provided under this subchapter until the reserve established under paragraph (1) has been exhausted.
 - **(d)** The Corporation may impose charges or fees in reasonable amounts in connection with the administration of its activities under this subchapter to recover its costs for performing such administration.
+
+## Source Credit
+
+*([Pub. L. 92–181, title VIII, § 8](https://www.govinfo.gov/link/plaw/92/public/181).10, as added [Pub. L. 100–233, title VII, § 702](https://www.govinfo.gov/link/plaw/100/public/233), Jan. 6, 1988, [101 Stat. 1701](https://www.govinfo.gov/link/statute/101/1701); amended [Pub. L. 104–316, title I, § 106(f)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3831](https://www.govinfo.gov/link/statute/110/3831).)*

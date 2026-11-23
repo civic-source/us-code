@@ -3,12 +3,17 @@ title: "Section 6634 - Continuation of Committee"
 usc_title: 42
 usc_section: "6634"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6634"
-generated_at: "2026-03-30T02:56:11.264Z"
+generated_at: "2026-11-23T20:27:22.695Z"
+status: "active"
 ---
 
 # § 6634. Continuation of Committee
 
 - **(a)** Ninety days after submission of the final report prepared under section 6633 of this title , the Committee shall cease to exist, unless the President, before the expiration of the ninety-day period, makes a determination that it is advantageous for the Committee to continue in being.
 - **(b)** If the President determines that it is advantageous for the Committee to continue in being, (1) the Committee shall exercise such functions as are prescribed by the President; and (2) the members of the Committee shall serve at the pleasure of the President.
+
+## Source Credit
+
+*([Pub. L. 94–282, title III, § 304](https://www.govinfo.gov/link/plaw/94/public/282), May 11, 1976, [90 Stat. 470](https://www.govinfo.gov/link/statute/90/470).)*

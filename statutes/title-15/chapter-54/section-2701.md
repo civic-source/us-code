@@ -3,9 +3,10 @@ title: "Section 2701 - Congressional findings and purpose"
 usc_title: 15
 usc_section: "2701"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2701"
-generated_at: "2026-03-30T02:54:08.182Z"
+generated_at: "2026-11-23T20:26:04.250Z"
+status: "active"
 ---
 
 # § 2701. Congressional findings and purpose
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:08.182Z"
     - **(A)** direct the Department of Energy to make contracts and grants for research and development leading to the development of advanced automobile propulsion systems within 5 years of February 25, 1978 , or within the shortest practicable time consistent with appropriate research and development techniques, and (B) evaluate and disseminate information with respect to advanced automobile propulsion system technology;
   - **(2)** preserve, enhance, and facilitate competition in research, development, and production with respect to existing and alternative automobile propulsion systems; and
   - **(3)** supplement, but neither supplant nor duplicate, the automotive propulsion system research and development efforts of private industry.
+
+## Source Credit
+
+*([Pub. L. 95–238, title III, § 302](https://www.govinfo.gov/link/plaw/95/public/238), Feb. 25, 1978, [92 Stat. 78](https://www.govinfo.gov/link/statute/92/78).)*

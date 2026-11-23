@@ -3,9 +3,10 @@ title: "Section 1015e - State higher education information system pilot program"
 usc_title: 20
 usc_section: "1015e"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1015e"
-generated_at: "2026-03-30T02:54:48.094Z"
+generated_at: "2026-11-23T20:26:14.310Z"
+status: "active"
 ---
 
 # § 1015e. State higher education information system pilot program
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:54:48.094Z"
   - **(1)** conduct a comprehensive evaluation of the pilot program authorized by this section; and
   - **(2)** report the Secretary’s findings, as well as recommendations regarding the implementation of State-level postsecondary student data systems, to the authorizing committees.
 - **(g)** There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
+
+## Source Credit
+
+*([Pub. L. 89–329, title I, § 136](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title I, § 115](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3111](https://www.govinfo.gov/link/statute/122/3111); amended [Pub. L. 111–39, title I, § 101(b)(4)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1935](https://www.govinfo.gov/link/statute/123/1935).)*

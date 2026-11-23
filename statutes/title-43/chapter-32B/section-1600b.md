@@ -3,9 +3,10 @@ title: "Section 1600b - Colorado River Floodway Task Force"
 usc_title: 43
 usc_section: "1600b"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1600b"
-generated_at: "2026-03-30T02:55:57.478Z"
+generated_at: "2026-11-23T20:27:06.314Z"
+status: "active"
 ---
 
 # § 1600b. Colorado River Floodway Task Force
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:57.478Z"
   - **(5)** whether compensation should be recommended in specific cases of economic hardship resulting from impacts of the 1983 flood on property outside the Floodway which could not reasonably have been foreseen; and
   - **(6)** the potential application of the Floodway on Indian lands and recommended legislation or regulations that might be needed to achieve the purposes of the Floodway taking into consideration the special Federal status of Indian lands.
 - **(c)** The task force shall exist for at least one year after October 8, 1986 , or until such time as the Secretary has filed with the Committees the maps described in section 1600c(b)(2) 1 1 See References in Text note below. of this title. The task force shall file its report with the Secretary and the Committees within nine months after October 8, 1986 .
+
+## Source Credit
+
+*([Pub. L. 99–450, § 4](https://www.govinfo.gov/link/plaw/99/public/450), Oct. 8, 1986, [100 Stat. 1130](https://www.govinfo.gov/link/statute/100/1130); [Pub. L. 117–286, § 4(a)(284)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4337](https://www.govinfo.gov/link/statute/136/4337).)*

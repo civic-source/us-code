@@ -3,9 +3,10 @@ title: "Section 1322 - Board action"
 usc_title: 49
 usc_section: "1322"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 1322"
-generated_at: "2026-03-30T02:56:19.305Z"
+generated_at: "2026-11-23T20:27:34.579Z"
+status: "active"
 ---
 
 # § 1322. Board action
@@ -17,3 +18,15 @@ generated_at: "2026-03-30T02:56:19.305Z"
   - **(2)** grant rehearing, reargument, or reconsideration of an action of the Board; or
   - **(3)** change an action of the Board.
 - **(d)** Notwithstanding subtitle IV, an action of the Board under this section is final on the date on which it is served, and a civil action to enforce, enjoin, suspend, or set aside the action may be filed after that date.
+
+Effective Date of Actions
+
+Terminating and Changing Actions
+
+Reconsidering Actions
+
+Finality of Actions
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title II, § 201(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 936](https://www.govinfo.gov/link/statute/109/936), § 722; renumbered § 1322, [Pub. L. 114–110, § 3(a)(5)](https://www.govinfo.gov/link/plaw/114/public/110), Dec. 18, 2015, [129 Stat. 2228](https://www.govinfo.gov/link/statute/129/2228).)*

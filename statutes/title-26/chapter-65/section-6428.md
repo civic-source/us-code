@@ -3,9 +3,10 @@ title: "Section 6428 - 2020 recovery rebates for individuals"
 usc_title: 26
 usc_section: "6428"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6428"
-generated_at: "2026-03-30T02:55:27.855Z"
+generated_at: "2026-11-23T20:26:46.663Z"
+status: "active"
 ---
 
 # § 6428. 2020 recovery rebates for individuals
@@ -66,3 +67,59 @@ generated_at: "2026-03-30T02:55:27.855Z"
   - **(4)** Paragraphs (1)(B) and (2)(B) shall not apply in the case where at least 1 spouse was a member of the Armed Forces of the United States at any time during the taxable year and the valid identification number of at least 1 spouse is included on the return of tax for the taxable year.
   - **(5)** Any omission of a correct valid identification number required under this subsection shall be treated as a mathematical or clerical error for purposes of applying section 6213(g)(2) to such omission.
 - **(h)** The Secretary shall prescribe such regulations or other guidance as may be necessary to carry out the purposes of this section, including any such measures as are deemed appropriate to avoid allowing multiple credits or rebates to a taxpayer.
+
+Payments to possessions.—
+
+Mirror code possession
+
+Other possessions
+
+Coordination with credit allowed against united states income taxes
+
+Definitions and special rules.—
+
+Possession of the united states
+
+Mirror code tax system
+
+Treatment of payments
+
+“Any refund payable by reason of section 6428(f) of the Internal Revenue Code of 1986 (as added by this section), or any such refund payable by reason of subsection (c) of this section [ section 2201(c) of Pub. L. 116–136 , set out above], shall not be—
+
+In General
+
+Eligible Individual
+
+In general
+
+Identification number requirement
+
+Treatment of Credit.—
+
+Refundable credit.—
+
+In general
+
+Appropriations
+
+Deficiency rules
+
+Refunds Disregarded in the Administration of Federal Programs and Federally Assisted Programs
+
+Treatment of Possessions.—
+
+Payments to mirror code possessions
+
+Coordination with credit allowed against united states income taxes
+
+Definitions and special rules.—
+
+Possession of the united states
+
+Mirror code tax system
+
+Treatment of payments
+
+## Source Credit
+
+*(Added [Pub. L. 116–136, div. A, title II, § 2201(a)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 335](https://www.govinfo.gov/link/statute/134/335); amended [Pub. L. 116–260, div. N, title II, § 273(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 1976](https://www.govinfo.gov/link/statute/134/1976).)*

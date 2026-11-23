@@ -3,9 +3,10 @@ title: "Section 4001 - Congressional findings"
 usc_title: 16
 usc_section: "4001"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 4001"
-generated_at: "2026-03-30T02:54:23.039Z"
+generated_at: "2026-11-23T20:26:20.728Z"
+status: "active"
 ---
 
 # § 4001. Congressional findings
@@ -19,3 +20,7 @@ The Congress finds that—
   - **(5)** Federally supported development programs for commercial fisheries are unable to meet present and future marketing needs;
   - **(6)** many fish species are underutilized by the United States fishing industry because of underdeveloped markets; and
   - **(7)** the United States fishing industry has the potential to expand greatly its contribution to interstate and foreign commerce, favorably affecting the balance of trade.
+
+## Source Credit
+
+*([Pub. L. 99–659, title II, § 202](https://www.govinfo.gov/link/plaw/99/public/659), Nov. 14, 1986, [100 Stat. 3715](https://www.govinfo.gov/link/statute/100/3715).)*

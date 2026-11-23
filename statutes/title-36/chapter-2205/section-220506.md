@@ -3,9 +3,10 @@ title: "Section 220506 - Exclusive right to name, seals, emblems, and badges"
 usc_title: 36
 usc_section: "220506"
 chapter: 2205
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 220506"
-generated_at: "2026-03-30T02:55:44.709Z"
+generated_at: "2026-11-23T20:26:59.082Z"
+status: "active"
 ---
 
 # § 220506. Exclusive right to name, seals, emblems, and badges
@@ -28,3 +29,45 @@ generated_at: "2026-03-30T02:55:44.709Z"
     - **(A)** such use is not combined with any of the intellectual properties referenced in subsection (a) or (c) of this section;
     - **(B)** it is evident from the circumstances that such use of the word “Olympic” refers to the naturally occurring mountains or geographical region of the same name that were named prior to February 6, 1998 , and not to the corporation or any Olympic activity; and
     - **(C)** such business, goods, or services are operated, sold, and marketed in the State of Washington west of the Cascade Mountain range and operations, sales, and marketing outside of this area are not substantial.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 220506(a) | 36:380(c). | Sept. 21, 1950, ch. 975 , title I, § 110, as added Nov. 8, 1978 , Pub. L. 95–606, § 1(b) , 92 Stat. 3048 . |
+| 220506(b) | 36:380(b). |  |
+| 220506(c) | 36:380(a) (1st sentence). |  |
+| 220506(d) | 36:380(a) (2d, last sentences). |  |
+
+
+Exclusive Right of Corporation
+
+Contributors and Suppliers
+
+Civil Action for Unauthorized Use
+
+Pre-Existing and Geographic Reference Rights
+
+Historical and Revision Notes
+
+220506(a)
+
+Sept. 21, 1950, ch. 975
+
+Nov. 8, 1978
+
+Pub. L. 95–606, § 1(b)
+
+92 Stat. 3048
+
+220506(b)
+
+220506(c)
+
+220506(d)
+
+and Geographic Reference
+
+Pre-Existing
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1469](https://www.govinfo.gov/link/statute/112/1469); [Pub. L. 105–277, div. C, title I, § 142(g)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–604](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 109–284, § 5(16)](https://www.govinfo.gov/link/plaw/109/public/284), Sept. 27, 2006, [120 Stat. 1212](https://www.govinfo.gov/link/statute/120/1212); [Pub. L. 116–189, § 4(a)(6)](https://www.govinfo.gov/link/plaw/116/public/189), Oct. 30, 2020, [134 Stat. 945](https://www.govinfo.gov/link/statute/134/945).)*

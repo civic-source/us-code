@@ -3,9 +3,10 @@ title: "Section 2341 - Petitions and determinations"
 usc_title: 19
 usc_section: "2341"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2341"
-generated_at: "2026-03-30T02:54:24.670Z"
+generated_at: "2026-11-23T20:26:10.943Z"
+status: "active"
 ---
 
 # § 2341. Petitions and determinations
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:24.670Z"
       - **(i)** Any firm which engages in exploration or drilling for oil or natural gas shall be considered to be a firm producing oil or natural gas.
       - **(ii)** Any firm that engages in exploration or drilling for oil or natural gas, or otherwise produces oil or natural gas, shall be considered to be producing articles directly competitive with imports of oil and with imports of natural gas.
 - **(d)** A determination shall be made by the Secretary as soon as possible after the date on which the petition is filed under this section, but in any event not later than 60 days after that date.
+
+## Source Credit
+
+*([Pub. L. 93–618, title II, § 251](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 2030](https://www.govinfo.gov/link/statute/88/2030); [Pub. L. 99–272, title XIII, § 13002(b)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 300](https://www.govinfo.gov/link/statute/100/300); [Pub. L. 100–418, title I, § 1421(a)(2)](https://www.govinfo.gov/link/plaw/100/public/418), (b)(2), Aug. 23, 1988, [102 Stat. 1243](https://www.govinfo.gov/link/statute/102/1243), 1244; [Pub. L. 111–5, div. B, title I](https://www.govinfo.gov/link/plaw/111/public/5), §§ 1861(a), (c), 1862, 1863, 1867(a), Feb. 17, 2009, [123 Stat. 396](https://www.govinfo.gov/link/statute/123/396), 397, 400; [Pub. L. 112–40, title II, § 201(b)](https://www.govinfo.gov/link/plaw/112/public/40), (c), Oct. 21, 2011, [125 Stat. 403](https://www.govinfo.gov/link/statute/125/403); [Pub. L. 114–27, title IV, § 402(b)](https://www.govinfo.gov/link/plaw/114/public/27), (c), June 29, 2015, [129 Stat. 374](https://www.govinfo.gov/link/statute/129/374).)*

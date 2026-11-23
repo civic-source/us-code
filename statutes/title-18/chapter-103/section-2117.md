@@ -3,12 +3,21 @@ title: "Section 2117 - Breaking or entering carrier facilities"
 usc_title: 18
 usc_section: "2117"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2117"
-generated_at: "2026-03-30T02:54:16.495Z"
+generated_at: "2026-11-23T20:26:08.554Z"
+status: "active"
 ---
 
 # § 2117. Breaking or entering carrier facilities
 
 Whoever breaks the seal or lock of any railroad car, vessel, aircraft, motortruck, wagon or other vehicle or of any pipeline system, containing interstate or foreign shipments of freight or express or other property, or enters any such vehicle or pipeline system with intent in either case to commit larceny therein, shall be fined under this title or imprisoned not more than ten years, or both. If the offense involves a pre-retail medical product (as defined in section 670) the punishment for the offense shall be the same as the punishment for an offense under section 670 unless the punishment under this section is greater. A judgment of conviction or acquittal on the merits under the laws of any State shall be a bar to any prosecution under this section for the same act or acts. Nothing contained in this section shall be construed as indicating an intent on the part of Congress to occupy the field in which provisions of this section operate to the exclusion of State laws on the same subject matter, nor shall any provision of this section be construed as invalidating any provision of State law unless such provision is inconsistent with any of the purposes of this section or any provision thereof.
 
+
+Act
+
+Act
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 797](https://www.govinfo.gov/link/statute/62/797); May 24, 1949, ch. 139, § 44, [63 Stat. 96](https://www.govinfo.gov/link/statute/63/96); [Pub. L. 89–654, § 2(a)](https://www.govinfo.gov/link/plaw/89/public/654) –(c), Oct. 14, 1966, [80 Stat. 904](https://www.govinfo.gov/link/statute/80/904); [Pub. L. 103–322, title XXXIII, § 330016(1)(K)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2147](https://www.govinfo.gov/link/statute/108/2147); [Pub. L. 112–186, § 4(c)](https://www.govinfo.gov/link/plaw/112/public/186), Oct. 5, 2012, [126 Stat. 1429](https://www.govinfo.gov/link/statute/126/1429).)*

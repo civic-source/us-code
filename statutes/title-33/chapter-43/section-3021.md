@@ -3,9 +3,10 @@ title: "Section 3021 - Original appointments and reappointments"
 usc_title: 33
 usc_section: "3021"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 3021"
-generated_at: "2026-03-30T02:55:41.136Z"
+generated_at: "2026-11-23T20:26:54.236Z"
+status: "active"
 ---
 
 # § 3021. Original appointments and reappointments
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:55:41.136Z"
   - **(1)** coordinate with the Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating to promote and streamline inter-service transfers;
   - **(2)** give preference to such inter-service transfers for recruitment purposes as determined appropriate by the Secretary; and
   - **(3)** reappoint such inter-service transfers to the equivalent grade in the commissioned officer corps of the Administration.
+
+## Source Credit
+
+*([Pub. L. 107–372, title II, § 221](https://www.govinfo.gov/link/plaw/107/public/372), Dec. 19, 2002, [116 Stat. 3084](https://www.govinfo.gov/link/statute/116/3084); [Pub. L. 116–259, title III, § 301(a)](https://www.govinfo.gov/link/plaw/116/public/259), Dec. 23, 2020, [134 Stat. 1169](https://www.govinfo.gov/link/statute/134/1169); [Pub. L. 117–263, div. K, title CXVII, § 11702](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4156](https://www.govinfo.gov/link/statute/136/4156).)*

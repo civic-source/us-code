@@ -3,9 +3,10 @@ title: "Section 6302 - Definitions"
 usc_title: 7
 usc_section: "6302"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6302"
-generated_at: "2026-03-30T02:53:42.427Z"
+generated_at: "2026-11-23T20:25:41.689Z"
+status: "active"
 ---
 
 # § 6302. Definitions
@@ -38,3 +39,7 @@ As used in this chapter:
   - **(17)** The term “soybean products” means products produced in whole or in part from soybeans or soybean by-products.
   - **(18)** The term “soybeans” means all varieties of Glycine max or Glycine soya.
   - **(19)** The terms “State” and “United States” consist of the 50 States of the United States of America, the District of Columbia, and the Commonwealth of Puerto Rico.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XIX, § 1967](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3882](https://www.govinfo.gov/link/statute/104/3882).)*

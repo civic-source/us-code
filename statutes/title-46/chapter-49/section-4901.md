@@ -3,9 +3,10 @@ title: "Section 4901 - Surveillance requirements"
 usc_title: 46
 usc_section: "4901"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 4901"
-generated_at: "2026-03-30T02:56:15.548Z"
+generated_at: "2026-11-23T20:27:27.100Z"
+status: "active"
 ---
 
 # § 4901. Surveillance requirements
@@ -30,3 +31,29 @@ generated_at: "2026-03-30T02:56:15.548Z"
   - **(2)** training on applicable Federal, State, Tribal, and local laws and regulations regarding sexual assault and sexual harassment investigations and reporting requirements.
 - **(g)** In this section, the term “owner” means the owner, charterer, managing operator, master, or other individual in charge of a vessel.
 - **(h)** Fishing vessels, fish processing vessels, and fish tender vessels are exempt from this section.
+
+In General
+
+Applicability
+
+Placement of Video and Audio Surveillance Equipment.—
+
+In general
+
+Locations
+
+Notice of Video and Audio Surveillance
+
+Access to Video and Audio Records
+
+Retention Requirements
+
+Personnel Training
+
+Definition of Owner
+
+Exemption
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. K, title CXVI, § 11607(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4150](https://www.govinfo.gov/link/statute/136/4150).)*

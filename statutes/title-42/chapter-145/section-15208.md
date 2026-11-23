@@ -3,9 +3,10 @@ title: "Section 15208 - Law enforcement tribute acts"
 usc_title: 42
 usc_section: "15208"
 chapter: 145
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 15208"
-generated_at: "2026-03-30T02:56:11.459Z"
+generated_at: "2026-11-23T20:27:23.562Z"
+status: "active"
 ---
 
 # § 15208. Law enforcement tribute acts
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:11.459Z"
 - **(g)** To request a grant under this section, the chief executive of a State, unit of local government, or Indian tribe shall submit an application to the Attorney General at such time, in such manner, and accompanied by such information as the Attorney General may require.
 - **(h)** Not later than November 30 of each year, the Attorney General shall submit a report to the Congress regarding the activities carried out under this section. Each such report shall include, for the preceding fiscal year, the number of grants funded under this section, the amount of funds provided under those grants, and the activities for which those funds were used.
 - **(i)** There are authorized to be appropriated to carry out this section $3,000,000 for each of fiscal years 2002 through 2009.
+
+## Source Credit
+
+*([Pub. L. 107–273, div. C, title I, § 11001](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1815](https://www.govinfo.gov/link/statute/116/1815); [Pub. L. 109–162, title XI, § 1185](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3127](https://www.govinfo.gov/link/statute/119/3127).)*

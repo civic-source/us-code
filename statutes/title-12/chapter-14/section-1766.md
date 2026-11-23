@@ -3,9 +3,10 @@ title: "Section 1766 - Powers of Board"
 usc_title: 12
 usc_section: "1766"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1766"
-generated_at: "2026-03-30T02:53:53.436Z"
+generated_at: "2026-11-23T20:25:59.060Z"
+status: "active"
 ---
 
 # § 1766. Powers of Board
@@ -36,3 +37,15 @@ generated_at: "2026-03-30T02:53:53.436Z"
   - **(1)** The Board shall fix the compensation and number of, and appoint and direct, employees of the Board. Rates of basic pay for employees of the Board may be set and adjusted by the Board without regard to the provisions of chapter 51 or subchapter III of chapter 53 of title 5.
   - **(2)** The Board may provide additional compensation and benefits to employees of the Board if the same type of compensation or benefits are then being provided by any other Federal bank regulatory agency or, if not then being provided, could be provided by such an agency under applicable provisions of law, rule, or regulation. In setting and adjusting the total amount of compensation and benefits for employees of the Board, the Board shall seek to maintain comparability with other Federal bank regulatory agencies.
   - **(3)** The salaries and expenses of the Board and employees of the Board shall be paid from fees and assessments (including income earned on insurance deposits) levied on insured credit unions under this chapter.
+
+Staff.—
+
+Appointment and compensation
+
+Additional compensation and benefits
+
+Funding
+
+## Source Credit
+
+*(June 26, 1934, ch. 750, title I, § 120, formerly § 16, [48 Stat. 1221](https://www.govinfo.gov/link/statute/48/1221); Dec. 6, 1937, ch. 3, § 3, [51 Stat. 4](https://www.govinfo.gov/link/statute/51/4); July 31, 1946, ch. 711, § 8, [60 Stat. 745](https://www.govinfo.gov/link/statute/60/745); 1947 Reorg. Plan No. 1, § 401, eff. July 1, 1947, 12 F.R. 4534, [61 Stat. 952](https://www.govinfo.gov/link/statute/61/952); June 29, 1948, ch. 711, §§ 1, 2, [62 Stat. 1091](https://www.govinfo.gov/link/statute/62/1091); June 30, 1954, ch. 426, § 2, [68 Stat. 336](https://www.govinfo.gov/link/statute/68/336); Aug. 24, 1954, ch. 905, § 3, [68 Stat. 792](https://www.govinfo.gov/link/statute/68/792); renumbered § 21 and amended [Pub. L. 86–354, § 1](https://www.govinfo.gov/link/plaw/86/public/354), Sept. 22, 1959, [73 Stat. 635](https://www.govinfo.gov/link/statute/73/635); [Pub. L. 90–375, § 2(a)](https://www.govinfo.gov/link/plaw/90/public/375), July 5, 1968, [82 Stat. 285](https://www.govinfo.gov/link/statute/82/285); [Pub. L. 91–206](https://www.govinfo.gov/link/plaw/91/public/206), §§ 2(1), (3), 4, Mar. 10, 1970, [84 Stat. 49](https://www.govinfo.gov/link/statute/84/49), 50; renumbered title I, § 120, [Pub. L. 91–468, § 1(2)](https://www.govinfo.gov/link/plaw/91/public/468), Oct. 19, 1970, [84 Stat. 994](https://www.govinfo.gov/link/statute/84/994); amended [Pub. L. 95–22, title III, § 306](https://www.govinfo.gov/link/plaw/95/public/22), Apr. 19, 1977, [91 Stat. 52](https://www.govinfo.gov/link/statute/91/52); [Pub. L. 95–630, title V, § 502(b)](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3681](https://www.govinfo.gov/link/statute/92/3681); [Pub. L. 97–320, title V, § 526](https://www.govinfo.gov/link/plaw/97/public/320), Oct. 15, 1982, [96 Stat. 1535](https://www.govinfo.gov/link/statute/96/1535); [Pub. L. 100–86, title VII, § 707](https://www.govinfo.gov/link/plaw/100/public/86), Aug. 10, 1987, [101 Stat. 653](https://www.govinfo.gov/link/statute/101/653); [Pub. L. 101–73, title XII, § 1203](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 520](https://www.govinfo.gov/link/statute/103/520); [Pub. L. 101–144, title III](https://www.govinfo.gov/link/plaw/101/public/144), Nov. 9, 1989, [103 Stat. 864](https://www.govinfo.gov/link/statute/103/864); [Pub. L. 103–325, title I, § 120(a)](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2188](https://www.govinfo.gov/link/statute/108/2188); [Pub. L. 109–351, title VII, § 726(10)](https://www.govinfo.gov/link/plaw/109/public/351), Oct. 13, 2006, [120 Stat. 2002](https://www.govinfo.gov/link/statute/120/2002).)*

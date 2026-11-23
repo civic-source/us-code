@@ -3,9 +3,10 @@ title: "Section 3005 - Commission review of, and recommendations regarding, Harm
 usc_title: 19
 usc_section: "3005"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3005"
-generated_at: "2026-03-30T02:54:24.687Z"
+generated_at: "2026-11-23T20:26:11.029Z"
+status: "active"
 ---
 
 # § 3005. Commission review of, and recommendations regarding, Harmonized Tariff Schedule
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:24.687Z"
     - **(C)** ensure substantial rate neutrality.
   - **(2)** Any change to a rate of duty must be consequent to, or necessitated by, nomenclature modifications that are recommended under this section.
   - **(3)** The modification must not alter existing conditions of competition for the affected United States industry, labor, or trade.
+
+## Source Credit
+
+*([Pub. L. 100–418, title I, § 1205](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1150](https://www.govinfo.gov/link/statute/102/1150).)*

@@ -3,9 +3,10 @@ title: "Section 1489 - Loans made by certain financial institutions without rega
 usc_title: 25
 usc_section: "1489"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1489"
-generated_at: "2026-03-30T02:54:52.817Z"
+generated_at: "2026-11-23T20:26:25.467Z"
+status: "active"
 ---
 
 # § 1489. Loans made by certain financial institutions without regard to limitations and restrictions of other Federal statutes with respect to certain particulars
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:52.817Z"
 - **(d)** priority of lien; or
 - **(e)** percentage of assets which may be invested in real estate loans.
 
+
+## Source Credit
+
+*([Pub. L. 93–262, title II, § 209](https://www.govinfo.gov/link/plaw/93/public/262), Apr. 12, 1974, [88 Stat. 80](https://www.govinfo.gov/link/statute/88/80).)*

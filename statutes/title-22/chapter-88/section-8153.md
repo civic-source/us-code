@@ -3,9 +3,10 @@ title: "Section 8153 - Application of national security exclusion to location-sp
 usc_title: 22
 usc_section: "8153"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8153"
-generated_at: "2026-03-30T02:55:05.449Z"
+generated_at: "2026-11-23T20:26:32.700Z"
+status: "active"
 ---
 
 # § 8153. Application of national security exclusion to location-specific environmental sampling
@@ -17,3 +18,7 @@ In accordance with Article 1(b) of the Additional Protocol, the United States sh
   - **(3)** with respect to the proposed use of environmental sampling, the United States—
     - **(A)** has been provided sufficient opportunity for consultation with the IAEA if the IAEA has requested complementary access involving location-specific environmental sampling; or
     - **(B)** has requested under Article 8 of the Additional Protocol that the IAEA engage in complementary access in the United States that involves the use of location-specific environmental sampling.
+
+## Source Credit
+
+*([Pub. L. 109–401, title II, § 253](https://www.govinfo.gov/link/plaw/109/public/401), Dec. 18, 2006, [120 Stat. 2750](https://www.govinfo.gov/link/statute/120/2750).)*

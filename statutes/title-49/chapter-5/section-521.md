@@ -3,9 +3,10 @@ title: "Section 521 - Civil penalties"
 usc_title: 49
 usc_section: "521"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 521"
-generated_at: "2026-03-30T02:56:19.302Z"
+generated_at: "2026-11-23T20:27:34.552Z"
+status: "active"
 ---
 
 # § 521. Civil penalties
@@ -58,3 +59,87 @@ generated_at: "2026-03-30T02:56:19.302Z"
       - **(iii)** The Secretary’s designee or an authorized State official carrying out motor carrier safety enforcement activities under section 31102, shall immediately notify the owner of a commercial motor vehicle of the impoundment and the opportunity for review of the impoundment. A review shall be provided in accordance with section 554 of title 5 , except that the review shall occur not later than 10 days after the impoundment.
     - **(B)** The Secretary shall promulgate regulations on the use of impoundment or immobilization of commercial motor vehicles as a means of enforcing additional out-of-service orders issued under chapters 5, 51, 131 through 149, 311, 313, or 315 of this title, or a regulation promulgated thereunder. Regulations promulgated under this subparagraph shall include consideration of public safety, the protection of passengers and cargo, inconvenience to passengers, and the security of the commercial motor vehicle.
     - **(C)** In this paragraph, the term “impoundment” or “impounding” means the seizing and taking into custody of a commercial motor vehicle or the immobilizing of a commercial motor vehicle through the attachment of a locking device or other mechanical or electronic means.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 521 | 49:1655(f)(2). | Oct. 15, 1966 , Pub. L. 89–670, § 6(f)(2) , 80 Stat. 940 . |
+
+| Section 521 | 49 U.S. Code | Revised Section |
+| --- | --- | --- |
+| (a) | 20(7)(a), (c)–(e). | 11901 |
+| (b) | 322(h). | 11901 |
+
+
+Violations Relating to Commercial Motor Vehicle Safety Regulation and Operators.—
+
+Notice.—
+
+In general
+
+Nonapplicability to reporting and recordkeeping violations
+
+Civil Penalty.—
+
+In general
+
+Recordkeeping and reporting violations
+
+Violations pertaining to cdls
+
+Determination of amount
+
+Copying of records and access to equipment, lands, and buildings
+
+Place out of service
+
+Penalty for violations relating to out of service orders
+
+Criminal Penalties.—
+
+In general
+
+Violations pertaining to cdls
+
+Prohibition on operation in interstate commerce after nonpayment of penalties.—
+
+In general
+
+Regulations
+
+Impoundment of commercial motor vehicles.—
+
+Enforcement of imminent hazard out-of-service orders.—
+
+Issuance of regulations
+
+Definition
+
+Historical and Revision Notes
+
+521
+
+Oct. 15, 1966
+
+Pub. L. 89–670, § 6(f)(2)
+
+80 Stat. 940
+
+(a)
+
+(b)
+
+In General
+
+Establishment
+
+Extraordinary Circumstances
+
+Report to Congress.—
+
+In general
+
+Submission to congress
+
+## Source Credit
+
+*([Pub. L. 97–449, § 1(b)](https://www.govinfo.gov/link/plaw/97/public/449), Jan. 12, 1983, [96 Stat. 2435](https://www.govinfo.gov/link/statute/96/2435); [Pub. L. 98–554, title II, § 213(b)](https://www.govinfo.gov/link/plaw/98/public/554), Oct. 30, 1984, [98 Stat. 2842](https://www.govinfo.gov/link/statute/98/2842); [Pub. L. 99–570, title XII, § 12012](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–184](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 101–500, § 15(e)(2)](https://www.govinfo.gov/link/plaw/101/public/500), Nov. 3, 1990, [104 Stat. 1220](https://www.govinfo.gov/link/statute/104/1220); [Pub. L. 102–548, § 2(b)](https://www.govinfo.gov/link/plaw/102/public/548), Oct. 28, 1992, [106 Stat. 3648](https://www.govinfo.gov/link/statute/106/3648); [Pub. L. 103–272](https://www.govinfo.gov/link/plaw/103/public/272), §§ 4(j)(11)(D), 5(m)(11), July 5, 1994, [108 Stat. 1368](https://www.govinfo.gov/link/statute/108/1368), 1376; [Pub. L. 104–287, § 5(4)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3389](https://www.govinfo.gov/link/statute/110/3389); [Pub. L. 105–178, title IV, § 4015(a)](https://www.govinfo.gov/link/plaw/105/public/178), (b), June 9, 1998, [112 Stat. 411](https://www.govinfo.gov/link/statute/112/411); [Pub. L. 106–159, title II](https://www.govinfo.gov/link/plaw/106/public/159), §§ 206(b), 208, Dec. 9, 1999, [113 Stat. 1763](https://www.govinfo.gov/link/statute/113/1763), 1764; [Pub. L. 109–59, title IV](https://www.govinfo.gov/link/plaw/109/public/59), §§ 4102(a), 4103, Aug. 10, 2005, [119 Stat. 1715](https://www.govinfo.gov/link/statute/119/1715), 1716; [Pub. L. 112–141, div. C, title II](https://www.govinfo.gov/link/plaw/112/public/141), §§ 32501(b), 32502–32504, 32506, July 6, 2012, [126 Stat. 803](https://www.govinfo.gov/link/statute/126/803), 804.)*

@@ -3,9 +3,10 @@ title: "Section 3334r - Designation of a chief technology officer within certain
 usc_title: 50
 usc_section: "3334r"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3334r"
-generated_at: "2026-03-30T02:56:26.245Z"
+generated_at: "2026-11-23T20:27:30.966Z"
+status: "active"
 ---
 
 # § 3334r. Designation of a chief technology officer within certain elements of the intelligence community
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:26.245Z"
   - **(6)** The National Reconnaissance Office.
 - **(c)** The chief technology officer of each covered element of the intelligence community shall be responsible for assisting the head of such element in the identification and adoption of technology to advance mission needs.
 - **(d)** Any chief technology officer designated pursuant to subsection (a) may not concurrently serve as the chief information officer, the chief data officer, or the principal science officer of any element of the intelligence community.
+
+## Source Credit
+
+*([Pub. L. 118–31, div. G, title V, § 7504](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1083](https://www.govinfo.gov/link/statute/137/1083).)*

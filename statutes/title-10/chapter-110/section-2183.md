@@ -3,9 +3,10 @@ title: "Section 2183 - Educational assistance: former captives"
 usc_title: 10
 usc_section: "2183"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2183"
-generated_at: "2026-03-30T02:53:38.146Z"
+generated_at: "2026-11-23T20:25:51.480Z"
+status: "active"
 ---
 
 # § 2183. Educational assistance: former captives
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:38.146Z"
     - **(A)** the end of any semester or quarter (as appropriate) that begins before the end of the 10-year period beginning on the date on which the status of that person as a captive terminates; or
     - **(B)** if the educational or training institution is not operated on a semester or quarter system, the earlier of the end of any course that began before such date or the end of the 16-week period following that date.
 - **(c)** Payments shall be available under this section only to the extent that such payments are not otherwise authorized by law.
+
+## Source Credit
+
+*(Added [Pub. L. 99–399, title VIII, § 806(d)(1)](https://www.govinfo.gov/link/plaw/99/public/399), Aug. 27, 1986, [100 Stat. 888](https://www.govinfo.gov/link/statute/100/888).)*

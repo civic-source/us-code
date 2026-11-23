@@ -3,9 +3,10 @@ title: "Section 16155 - Hydrogen and Fuel Cell Technical Task Force"
 usc_title: 42
 usc_section: "16155"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16155"
-generated_at: "2026-03-30T02:56:11.470Z"
+generated_at: "2026-11-23T20:27:23.617Z"
+status: "active"
 ---
 
 # § 16155. Hydrogen and Fuel Cell Technical Task Force
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:11.470Z"
     - **(D)** promote the marketplace introduction of infrastructure for hydrogen fuel vehicles; and
     - **(E)** conduct an education program to provide hydrogen and fuel cell information to potential end-users.
 - **(c)** The heads of all agencies, including those whose agencies are not represented on the Task Force, shall cooperate with and furnish information to the Task Force, the Technical Advisory Committee, and the Department.
+
+## Source Credit
+
+*([Pub. L. 109–58, title VIII, § 806](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 848](https://www.govinfo.gov/link/statute/119/848).)*

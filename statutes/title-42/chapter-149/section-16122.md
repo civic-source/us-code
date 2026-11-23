@@ -3,9 +3,10 @@ title: "Section 16122 - Federal and State procurement of fuel cell vehicles and 
 usc_title: 42
 usc_section: "16122"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16122"
-generated_at: "2026-03-30T02:56:11.469Z"
+generated_at: "2026-11-23T20:27:23.611Z"
+status: "active"
 ---
 
 # § 16122. Federal and State procurement of fuel cell vehicles and hydrogen energy systems
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:56:11.469Z"
   - **(2)** $25,000,000 for fiscal year 2009;
   - **(3)** $65,000,000 for fiscal year 2010; and
   - **(4)** such sums as are necessary for each of fiscal years 2011 through 2015.
+
+## Source Credit
+
+*([Pub. L. 109–58, title VII, § 782](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 835](https://www.govinfo.gov/link/statute/119/835).)*

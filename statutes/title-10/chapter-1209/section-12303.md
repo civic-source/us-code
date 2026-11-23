@@ -3,9 +3,10 @@ title: "Section 12303 - Ready Reserve: members not assigned to, or participating
 usc_title: 10
 usc_section: "12303"
 chapter: 1209
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 12303"
-generated_at: "2026-03-30T02:53:38.269Z"
+generated_at: "2026-11-23T20:25:52.422Z"
+status: "active"
 ---
 
 # § 12303. Ready Reserve: members not assigned to, or participating satisfactorily in, units
@@ -18,3 +19,15 @@ generated_at: "2026-03-30T02:53:38.269Z"
 - **(c)** To achieve fair treatment among members of the Ready Reserve who are being considered for active duty under this section, appropriate consideration shall be given to—
   - **(1)** family responsibilities; and
   - **(2)** employment necessary to maintain the national health, safety, or interest.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+## Source Credit
+
+*(Added [Pub. L. 90–40, § 6(1)](https://www.govinfo.gov/link/plaw/90/public/40), June 30, 1967, [81 Stat. 105](https://www.govinfo.gov/link/statute/81/105), § 673a; renumbered § 12303, [Pub. L. 103–337, div. A, title XVI, § 1662(e)(2)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2992](https://www.govinfo.gov/link/statute/108/2992).)*

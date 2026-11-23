@@ -3,9 +3,10 @@ title: "Section 7422 - Collective bargaining"
 usc_title: 38
 usc_section: "7422"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7422"
-generated_at: "2026-03-30T02:55:53.531Z"
+generated_at: "2026-11-23T20:27:02.019Z"
+status: "active"
 ---
 
 # § 7422. Collective bargaining
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:53.531Z"
   - **(2)** Clinical competence.
 - **(d)** An issue of whether a matter or question concerns or arises out of (1) professional conduct or competence, (2) peer review, or (3) the establishment, determination, or adjustment of employee compensation under this title shall be decided by the Secretary and is not itself subject to collective bargaining and may not be reviewed by any other agency.
 - **(e)** A petition for judicial review or petition for enforcement under section 7123 of title 5 in any case involving employees described in section 7421(b) of this title or arising out of the applicability of chapter 71 of title 5 to employees in those positions, shall be taken only in the United States Court of Appeals for the District of Columbia Circuit.
+
+## Source Credit
+
+*(Added [Pub. L. 102–40, title II, § 202](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 200](https://www.govinfo.gov/link/statute/105/200).)*

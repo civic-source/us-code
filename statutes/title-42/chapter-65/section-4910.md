@@ -3,9 +3,10 @@ title: "Section 4910 - Enforcement"
 usc_title: 42
 usc_section: "4910"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4910"
-generated_at: "2026-03-30T02:56:11.210Z"
+generated_at: "2026-11-23T20:27:22.426Z"
+status: "active"
 ---
 
 # § 4910. Enforcement
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.210Z"
   - **(1)** Whenever any person is in violation of section 4909(a) of this title , the Administrator may issue an order specifying such relief as he determines is necessary to protect the public health and welfare.
   - **(2)** Any order under this subsection shall be issued only after notice and opportunity for a hearing in accordance with section 554 of title 5 .
 - **(e)** The term “person,” as used in this section, does not include a department, agency, or instrumentality of the United States.
+
+## Source Credit
+
+*([Pub. L. 92–574, § 11](https://www.govinfo.gov/link/plaw/92/public/574), Oct. 27, 1972, [86 Stat. 1242](https://www.govinfo.gov/link/statute/86/1242); [Pub. L. 95–609, § 4](https://www.govinfo.gov/link/plaw/95/public/609), Nov. 8, 1978, [92 Stat. 3081](https://www.govinfo.gov/link/statute/92/3081).)*

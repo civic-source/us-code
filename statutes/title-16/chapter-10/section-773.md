@@ -3,9 +3,10 @@ title: "Section 773 - Definitions"
 usc_title: 16
 usc_section: "773"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 773"
-generated_at: "2026-03-30T02:54:22.906Z"
+generated_at: "2026-11-23T20:26:20.269Z"
+status: "active"
 ---
 
 # § 773. Definitions
@@ -22,3 +23,11 @@ As used in this subchapter the term:
   - **(2)** any vessel outfitted to engage in any activity described in paragraph (1); or
   - **(3)** any vessel in normal support of any vessel described in paragraph (1) or (2).
 - **(g)** “Secretary” means the Secretary of Commerce.
+
+In General
+
+Authority To Prescribe Regulations
+
+## Source Credit
+
+*([Pub. L. 97–176, § 2](https://www.govinfo.gov/link/plaw/97/public/176), May 17, 1982, [96 Stat. 78](https://www.govinfo.gov/link/statute/96/78); [Pub. L. 102–251, title III, § 302(a)](https://www.govinfo.gov/link/plaw/102/public/251), Mar. 9, 1992, [106 Stat. 64](https://www.govinfo.gov/link/statute/106/64); [Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009](https://www.govinfo.gov/link/statute/110/3009), 3009–41.)*

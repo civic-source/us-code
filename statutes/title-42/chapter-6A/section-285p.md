@@ -3,9 +3,10 @@ title: "Section 285p - Purpose of Institute"
 usc_title: 42
 usc_section: "285p"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 285p"
-generated_at: "2026-03-30T02:56:10.748Z"
+generated_at: "2026-11-23T20:27:20.256Z"
+status: "active"
 ---
 
 # § 285p. Purpose of Institute
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:10.748Z"
     - **(C)** study the effects of discrimination on institutions and individuals, including majority institutions and individuals;
     - **(D)** support and develop research designed to eliminate institutional discrimination; and
     - **(E)** provide increased emphasis on the concerns of women and minority populations in training programs, service delivery programs, and research endeavors of the Institute.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title IV, § 464R, as added [Pub. L. 102–321, title I, § 124(a)](https://www.govinfo.gov/link/plaw/102/public/321), July 10, 1992, [106 Stat. 364](https://www.govinfo.gov/link/statute/106/364); amended [Pub. L. 102–352, § 2(a)(5)](https://www.govinfo.gov/link/plaw/102/public/352), Aug. 26, 1992, [106 Stat. 938](https://www.govinfo.gov/link/statute/106/938); [Pub. L. 109–482, title I, § 103(b)(36)](https://www.govinfo.gov/link/plaw/109/public/482), Jan. 15, 2007, [120 Stat. 3688](https://www.govinfo.gov/link/statute/120/3688).)*

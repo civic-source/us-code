@@ -3,9 +3,10 @@ title: "Section 1161q - Grants to rural-serving institutions of higher education
 usc_title: 20
 usc_section: "1161q"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1161q"
-generated_at: "2026-03-30T02:54:48.153Z"
+generated_at: "2026-11-23T20:26:14.598Z"
+status: "active"
 ---
 
 # § 1161q. Grants to rural-serving institutions of higher education
@@ -55,3 +56,7 @@ generated_at: "2026-03-30T02:54:48.153Z"
   - **(3)** To create or strengthen academic programs at rural-serving institutions of higher education to prepare graduates to enter into high-need occupations in the regional and local economies.
   - **(4)** To provide additional career training to students of rural-serving institutions of higher education in fields relevant to the regional economy.
 - **(g)** There are authorized to be appropriated to carry out this section such sums as many be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
+
+## Source Credit
+
+*([Pub. L. 89–329, title VIII, § 861](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title VIII, § 801](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3423](https://www.govinfo.gov/link/statute/122/3423); amended [Pub. L. 113–128, title V, § 512(n)(6)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1711](https://www.govinfo.gov/link/statute/128/1711); [Pub. L. 114–95, title IX, § 9215](https://www.govinfo.gov/link/plaw/114/public/95) (oo)(12), Dec. 10, 2015, [129 Stat. 2180](https://www.govinfo.gov/link/statute/129/2180).)*

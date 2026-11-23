@@ -3,9 +3,10 @@ title: "Section 882 - Injunctions"
 usc_title: 21
 usc_section: "882"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 882"
-generated_at: "2026-03-30T02:54:54.298Z"
+generated_at: "2026-11-23T20:26:27.852Z"
+status: "active"
 ---
 
 # § 882. Injunctions
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:54.298Z"
     - **(A)** the United States;
     - **(B)** an Indian Tribe or tribal organization, to the extent such tribe or tribal organization is lawfully carrying out a contract or compact under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 5301 et seq.]; or
     - **(C)** any employee of the United States or such Indian tribe or tribal organization, provided such agent or employee is acting in the usual course of business or employment, and within the scope of the official duties of such agent or employee therewith.
+
+## Source Credit
+
+*([Pub. L. 91–513, title II, § 512](https://www.govinfo.gov/link/plaw/91/public/513), Oct. 27, 1970, [84 Stat. 1278](https://www.govinfo.gov/link/statute/84/1278); [Pub. L. 110–425, § 3(h)](https://www.govinfo.gov/link/plaw/110/public/425), Oct. 15, 2008, [122 Stat. 4830](https://www.govinfo.gov/link/statute/122/4830); [Pub. L. 117–215, title I, § 103(b)(1)(I)](https://www.govinfo.gov/link/plaw/117/public/215), Dec. 2, 2022, [136 Stat. 2263](https://www.govinfo.gov/link/statute/136/2263).)*

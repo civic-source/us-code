@@ -3,9 +3,10 @@ title: "Section 10 - Small public housing agencies"
 usc_title: 42
 usc_section: "10"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10"
-generated_at: "2026-03-30T02:56:11.089Z"
+generated_at: "2026-11-23T20:27:21.759Z"
+status: "active"
 ---
 
 # § 1437z–10. Small public housing agencies
@@ -39,3 +40,21 @@ generated_at: "2026-03-30T02:56:11.089Z"
 - **(d)**
   - **(1)** Notwithstanding any other provision of law, a small public housing agency shall be exempt from any environmental review requirements with respect to a development or modernization project having a total cost of not more than $100,000.
   - **(2)** The Secretary shall, by rule, establish streamlined procedures for environmental reviews of small public housing agency development and modernization projects having a total cost of more than $100,000.
+
+(aa) reconsideration of the designation of the small public housing agency as a troubled small public housing agency not less frequently than annually; and
+
+(bb) termination of the agreement when the Secretary determines that the small public housing agency is no longer a troubled small public housing agency; and
+
+(aa) contract with another public housing agency or a private entity to manage the public housing of the troubled small public housing agency;
+
+(bb) withhold funds otherwise distributable to the troubled small public housing agency;
+
+(cc) assume possession of, and direct responsibility for, managing the public housing of the troubled small public housing agency;
+
+(dd) petition for the appointment of a receiver, in accordance with section 1437d(j)(3)(A)(ii) of this title ; and
+
+(ee) exercise any other remedy available to the Secretary in the event of default under the public housing annual contributions contract entered into by the small public housing agency under section 1437c of this title .
+
+## Source Credit
+
+*(Sept. 1, 1937, ch. 896, title I, § 38, as added [Pub. L. 115–174, title II, § 209(a)](https://www.govinfo.gov/link/plaw/115/public/174), May 24, 2018, [132 Stat. 1313](https://www.govinfo.gov/link/statute/132/1313).)*

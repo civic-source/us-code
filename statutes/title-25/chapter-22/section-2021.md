@@ -3,9 +3,10 @@ title: "Section 2021 - Definitions"
 usc_title: 25
 usc_section: "2021"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 2021"
-generated_at: "2026-03-30T02:54:52.835Z"
+generated_at: "2026-11-23T20:26:25.571Z"
+status: "active"
 ---
 
 # § 2021. Definitions
@@ -50,3 +51,7 @@ For the purposes of this chapter, unless otherwise specified:
   - **(18)** The term “supervisor” means the individual in the position of ultimate authority at a Bureau school.
   - **(19)** The term “tribal governing body” means, with respect to any school, the tribal governing body, or tribal governing bodies, that represent at least 90 percent of the students served by such school.
   - **(20)** The term “tribe” means any Indian tribe, band, nation, or other organized group or community, including an Alaska Native Regional Corporation or Village Corporation (as defined in or established pursuant to the Alaska Native Claims Settlement Act [ 43 U.S.C. 1601 et seq.]), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+
+## Source Credit
+
+*([Pub. L. 95–561, title XI, § 1141](https://www.govinfo.gov/link/plaw/95/public/561), as added [Pub. L. 107–110, title X, § 1042](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2061](https://www.govinfo.gov/link/statute/115/2061); amended [Pub. L. 114–95, title IX, § 9215(cc)(2)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2173](https://www.govinfo.gov/link/statute/129/2173).)*

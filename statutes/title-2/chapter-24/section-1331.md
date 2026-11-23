@@ -3,9 +3,10 @@ title: "Section 1331 - Rights and protections under Americans with Disabilities 
 usc_title: 2
 usc_section: "1331"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1331"
-generated_at: "2026-03-30T02:53:04.810Z"
+generated_at: "2026-11-23T20:25:28.956Z"
+status: "active"
 ---
 
 # § 1331. Rights and protections under Americans with Disabilities Act of 1990 relating to public services and accommodations; procedures for remedy of violations
@@ -56,3 +57,7 @@ generated_at: "2026-03-30T02:53:04.810Z"
 - **(i)**
   - **(1)** Subsections (b), (c), and (d) shall be effective on January 1, 1997 .
   - **(2)** Subsection (g) shall be effective 1 year after transmission to the Congress of the study under section 1371 of this title .
+
+## Source Credit
+
+*([Pub. L. 104–1, title II, § 210](https://www.govinfo.gov/link/plaw/104/public/1), Jan. 23, 1995, [109 Stat. 13](https://www.govinfo.gov/link/statute/109/13); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 110–279, § 1(g)(2)](https://www.govinfo.gov/link/plaw/110/public/279), July 17, 2008, [122 Stat. 2609](https://www.govinfo.gov/link/statute/122/2609); [Pub. L. 110–437, title IV, § 422(b)(3)](https://www.govinfo.gov/link/plaw/110/public/437), Oct. 20, 2008, [122 Stat. 4996](https://www.govinfo.gov/link/statute/122/4996); [Pub. L. 113–235, div. H, title I, § 1301(b)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537); [Pub. L. 115–141, div. I, title I, § 153(a)(1)(B)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 785](https://www.govinfo.gov/link/statute/132/785); [Pub. L. 115–397, title III](https://www.govinfo.gov/link/plaw/115/public/397), §§ 303(a), (b), 308(b)(8), Dec. 21, 2018, [132 Stat. 5321](https://www.govinfo.gov/link/statute/132/5321), 5322, 5326.)*

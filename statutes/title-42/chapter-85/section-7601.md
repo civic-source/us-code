@@ -3,9 +3,10 @@ title: "Section 7601 - Administration"
 usc_title: 42
 usc_section: "7601"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7601"
-generated_at: "2026-03-30T02:56:11.318Z"
+generated_at: "2026-11-23T20:27:22.929Z"
+status: "active"
 ---
 
 # § 7601. Administration
@@ -29,3 +30,13 @@ generated_at: "2026-03-30T02:56:11.318Z"
   - **(3)** The Administrator may promulgate regulations which establish the elements of tribal implementation plans and procedures for approval or disapproval of tribal implementation plans and portions thereof.
   - **(4)** In any case in which the Administrator determines that the treatment of Indian tribes as identical to States is inappropriate or administratively infeasible, the Administrator may provide, by regulation, other means by which the Administrator will directly administer such provisions so as to achieve the appropriate purpose.
   - **(5)** Until such time as the Administrator promulgates regulations pursuant to this subsection, the Administrator may continue to provide financial assistance to eligible Indian tribes under section 7405 of this title .
+
+In General
+
+Definition.—
+
+Use of Quotas Prohibited
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title III, § 301, formerly § 8, as added [Pub. L. 88–206, § 1](https://www.govinfo.gov/link/plaw/88/public/206), Dec. 17, 1963, [77 Stat. 400](https://www.govinfo.gov/link/statute/77/400), renumbered [Pub. L. 89–272, title I, § 101(4)](https://www.govinfo.gov/link/plaw/89/public/272), Oct. 20, 1965, [79 Stat. 992](https://www.govinfo.gov/link/statute/79/992); amended [Pub. L. 90–148, § 2](https://www.govinfo.gov/link/plaw/90/public/148), Nov. 21, 1967, [81 Stat. 504](https://www.govinfo.gov/link/statute/81/504); [Pub. L. 91–604](https://www.govinfo.gov/link/plaw/91/public/604), §§ 3(b)(2), 15(c)(2), Dec. 31, 1970, [84 Stat. 1677](https://www.govinfo.gov/link/statute/84/1677), 1713; [Pub. L. 95–95, title III, § 305(e)](https://www.govinfo.gov/link/plaw/95/public/95), Aug. 7, 1977, [91 Stat. 776](https://www.govinfo.gov/link/statute/91/776); [Pub. L. 101–549, title I](https://www.govinfo.gov/link/plaw/101/public/549), §§ 107(d), 108(i), Nov. 15, 1990, [104 Stat. 2464](https://www.govinfo.gov/link/statute/104/2464), 2467.)*

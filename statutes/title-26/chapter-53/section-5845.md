@@ -3,9 +3,10 @@ title: "Section 5845 - Definitions"
 usc_title: 26
 usc_section: "5845"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 5845"
-generated_at: "2026-03-30T02:55:27.827Z"
+generated_at: "2026-11-23T20:26:46.476Z"
+status: "active"
 ---
 
 # § 5845. Definitions
@@ -25,3 +26,7 @@ For the purpose of this chapter—
 - **(k)** The term “dealer” means any person, not a manufacturer or importer, engaged in the business of selling, renting, leasing, or loaning firearms and shall include pawnbrokers who accept firearms as collateral for loans.
 - **(l)** The term “importer” means any person who is engaged in the business of importing or bringing firearms into the United States.
 - **(m)** The term “manufacturer” means any person who is engaged in the business of manufacturing firearms.
+
+## Source Credit
+
+*(Added [Pub. L. 90–618, title II, § 201](https://www.govinfo.gov/link/plaw/90/public/618), Oct. 22, 1968, [82 Stat. 1230](https://www.govinfo.gov/link/statute/82/1230); amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), (J), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834), 1835; [Pub. L. 99–308, § 109](https://www.govinfo.gov/link/plaw/99/public/308), May 19, 1986, [100 Stat. 460](https://www.govinfo.gov/link/statute/100/460); [Pub. L. 115–232, div. A, title VIII, § 809(h)(3)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1842](https://www.govinfo.gov/link/statute/132/1842).)*

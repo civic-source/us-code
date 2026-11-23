@@ -3,9 +3,10 @@ title: "Section 1108 - Exemptions from prohibited transactions"
 usc_title: 29
 usc_section: "1108"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1108"
-generated_at: "2026-03-30T02:55:18.717Z"
+generated_at: "2026-11-23T20:26:37.961Z"
+status: "active"
 ---
 
 # § 1108. Exemptions from prohibited transactions
@@ -19,12 +20,12 @@ generated_at: "2026-03-30T02:55:18.717Z"
   - **(2)**
     - **(A)** Contracting or making reasonable arrangements with a party in interest for office space, or legal, accounting, or other services necessary for the establishment or operation of the plan, if no more than reasonable compensation is paid therefor.
     - **(B)**
-      - **(i)** No contract or arrangement for services between a covered plan and a covered service provider, and no extension or renewal of such a contract or arrangement, is reasonable within the meaning of this paragraph unless the requirements of this clause 1 1 So in original. Probably should be “this subparagraph”. are met.
+      - **(i)** No contract or arrangement for services between a covered plan and a covered service provider, and no extension or renewal of such a contract or arrangement, is reasonable within the meaning of this paragraph unless the requirements of this subparagraph are met. For purposes of applying section 1106(a)(1)(C) of this title with respect to a transaction described under this subparagraph or subparagraph (C), a contract or arrangement for services between a covered plan and an entity providing services to the plan, including a health insurance issuer providing health insurance coverage in connection with the covered plan, in which such entity contracts, in connection with such plan, with a service provider for pharmacy benefit management services, shall be considered an indirect furnishing of goods, services, or facilities between the covered plan and the service provider for pharmacy benefit management services acting as the party in interest.
       - **(ii)**
         - **(I)** For purposes of this subparagraph:
         - **(II)** For purposes of this subparagraph, a description of compensation or cost may be expressed as a monetary amount, formula, or a per capita charge for each enrollee or, if the compensation or cost cannot reasonably be expressed in such terms, by any other reasonable method, including a disclosure that additional compensation may be earned but may not be calculated at the time of contract if such a disclosure includes a description of the circumstances under which the additional compensation may be earned and a reasonable and good faith estimate if the covered service provider cannot otherwise readily describe compensation or cost and explains the methodology and assumptions used to prepare such estimate. Any such description shall contain sufficient information to permit evaluation of the reasonableness of the compensation or cost.
         - **(III)** No person or entity is a “covered service provider” within the meaning of subclause (I)(bb) solely on the basis of providing services as an affiliate or a subcontractor that is performing one or more of the services described in subitem (AA) or (BB) of such subclause under the contract or arrangement with the covered plan.
-      - **(iii)** A covered service provider shall disclose to a responsible plan fiduciary, in writing, the following:
+      - **(iii)** A covered service provider shall disclose to a responsible plan fiduciary, in writing, the following (in accordance with regulations issued by the Secretary addressing time, manner, and content of such disclosures):
         - **(I)** A description of the services to be provided to the covered plan pursuant to the contract or arrangement.
         - **(II)** If applicable, a statement that the covered service provider, an affiliate, or a subcontractor will provide, or reasonably expects to provide, services pursuant to the contract or arrangement directly to the covered plan as a fiduciary (within the meaning of section 1002(21) of this title ).
         - **(III)** A description of all direct compensation, either in the aggregate or by service, that the covered service provider, an affiliate, or a subcontractor reasonably expects to receive in connection with the services described in subclause (I).
@@ -41,10 +42,33 @@ generated_at: "2026-03-30T02:55:18.717Z"
       - **(vii)** No contract or arrangement will fail to be reasonable under this subparagraph solely because the covered service provider, acting in good faith and with reasonable diligence, makes an error or omission in disclosing the information required pursuant to clause (iii) (or a change to such information disclosed pursuant to clause (v)(II)) or clause (vi), provided that the covered service provider discloses the correct information to the responsible plan fiduciary as soon as practicable, but not later than 30 days from the date on which the covered service provider knows of such error or omission.
       - **(viii)**
         - **(I)** Pursuant to subsection (a), subparagraphs (C) and (D) of section 1106(a)(1) of this title shall not apply to a responsible plan fiduciary, notwithstanding any failure by a covered service provider to disclose information required under clause (iii), if the following conditions are met:
-        - **(II)** A notice described in subclause (I)(cc) shall contain—
-        - **(III)** A notice described in subclause (I)(cc) shall be filed with the Department not later than 30 days following the earlier of—
-        - **(IV)** If the covered service provider fails to comply with the written request under subclause (I)(bb) within 90 days of such request, the responsible plan fiduciary shall determine whether to terminate or continue the contract or arrangement under section 1104 of this title . If the requested information relates to future services and is not disclosed promptly after the end of the 90-day period, the responsible plan fiduciary shall terminate the contract or arrangement as expeditiously as possible, consistent with such duty of prudence.
+        - **(II)** Pursuant to subsection (a), subparagraphs (C) and (D) of section 1106(a)(1) of this title shall not apply to a responsible plan fiduciary, notwithstanding any failure to remit required amounts under subparagraph (C)(i), if the following conditions are met:
+        - **(III)** A notice described in subclause (I)(cc) shall contain—
+        - **(IV)** A notice described in subclause (I)(cc) shall be filed with the Department not later than 30 days following the earlier of—
+        - **(V)** If the covered service provider fails to comply with the written request under subclause (I)(bb) within 90 days of such request, the responsible plan fiduciary shall determine whether to terminate or continue the contract or arrangement under section 1104 of this title . If the requested information relates to future services and is not disclosed promptly after the end of the 90-day period, the responsible plan fiduciary shall terminate the contract or arrangement as expeditiously as possible, consistent with such duty of prudence.
       - **(ix)** Nothing in this subparagraph shall be construed to supersede any provision of State law that governs disclosures by parties that provide the services described in this section, except to the extent that such law prevents the application of a requirement of this section.
+      - **(x)** A service provider for pharmacy benefit management services that is considered to indirectly furnish goods, services, or facilities to a covered plan, as described in clause (i)(I), is entitled to relief with respect to a violation of this section provided the conditions for receiving such relief are satisfied.
+    - **(C)**
+      - **(i)**
+        - **(I)** For plan years beginning on or after the date that is 30 months after February 3, 2026 , (referred to in this clause as the “effective date”), no contract or arrangement or renewal or extension of a contract or arrangement, entered into on or after the effective date, for services between a covered plan and a covered service provider (or between a sponsor of a covered plan and a covered service provider), through a health insurance issuer offering group health insurance coverage, a third-party administrator, an entity providing pharmacy benefit management services, or other entity, for pharmacy benefit management services, is reasonable within the meaning of this paragraph unless such entity providing pharmacy benefit management services—
+        - **(II)** Nothing in subclause (I) shall be construed to affect the term of a contract or arrangement, as in effect on the effective date (as described in such subclause), except that such subclause shall apply to any renewal or extension of such a contract or arrangement entered into on or after such effective date, as so described.
+      - **(ii)** With respect to such rebates, fees, alternative discounts, and other remuneration—
+        - **(I)** the rebates, fees, alternative discounts, and other remuneration under clause (i)(I) shall be—
+        - **(II)** the Secretary may issue regulations governing—
+        - **(III)** the records of such rebates, fees, alternative discounts, other remuneration, and disclosures, shall be available for audit by the plan (or the plan sponsor, issuer, or a third party designated by a plan sponsor on behalf of the plan), not less than once per plan year.
+      - **(iii)** To ensure that an entity providing pharmacy benefit management services is able to meet the requirements of clause (ii)(I), a rebate aggregator (or other purchasing entity designed to aggregate rebates) and an applicable group purchasing organization shall remit such rebates to the entity providing pharmacy benefit management services not later than 45 days after the end of each quarter.
+      - **(iv)** A third-party administrator of a group health plan, a health insurance issuer offering group health insurance coverage, or a covered service provider for pharmacy benefit management services under such health plan or health insurance coverage shall make rebate contracts with rebate aggregators or drug manufacturers available for audit by such plan, subject to reasonable restrictions (as determined by the Secretary) on confidentiality to prevent re-disclosure of such contracts or use of such information in audits for purposes unrelated to this section.
+      - **(v)** Audits carried out under clauses (ii)(III) and (iv) shall be performed by an auditor selected by the responsible plan fiduciary. Payment for such auditors shall not be made, whether directly or indirectly, by the entity providing pharmacy benefit management services.
+      - **(vi)** Nothing in this subparagraph shall be construed to—
+        - **(I)** prohibit reasonable payments to entities offering pharmacy benefit management services for bona fide services using a fee structure not described in this subparagraph, provided that such fees are transparent and quantifiable to group health plans and health insurance issuers;
+        - **(II)** require a third-party administrator of a group health plan or covered service provider for pharmacy benefit management services under such health plan or health insurance coverage to remit bona fide service fees to the group health plan;
+        - **(III)** limit the ability of a group health plan or health insurance issuer to pass through rebates, fees, alternative discounts, and other remuneration to the participant or beneficiary;
+        - **(IV)** modify the requirements for the creation, receipt, maintenance, or transmission of protected health information under the privacy regulations promulgated under the Health Insurance Portability and Accountability Act of 1996 in part 160 and subparts A and E of part 164 of title 45, Code of Federal Regulations (or successor regulations); or
+        - **(V)** limit any requirement under subparagraph (A) or (B).
+      - **(vii)** For purposes of this subparagraph—
+        - **(I)** the terms “applicable entity” and “applicable group purchasing organization” have the meanings given such terms in section 1185 o (e) of this title;
+        - **(II)** the terms “covered plan”, “covered service provider”, and “responsible plan fiduciary” have the meanings given such terms in subparagraph (B); and
+        - **(III)** the terms “group health insurance coverage”, “health insurance coverage”, and “health insurance issuer” have the meanings given such terms in section 1191b of this title .
   - **(3)** A loan to an employee stock ownership plan (as defined in section 1107(d)(6) of this title ), if—
     - **(A)** such loan is primarily for the benefit of participants and beneficiaries of the plan, and
     - **(B)** such loan is at an interest rate which is not in excess of a reasonable rate.
@@ -235,3 +259,81 @@ generated_at: "2026-03-30T02:55:18.717Z"
   - **(3)** In the event an entity described in section 1002(37)(G)(vi) of this title or any affiliate of such entity violates any of the conditions of such exemption, such exemption shall not apply with respect to such entity or affiliate and all enforcement and claims available under this chapter shall apply with respect to such entity or affiliate.
   - **(4)** Nothing in this subsection shall be construed to modify any obligation of a group health plan otherwise set forth in this chapter.
   - **(5)** In this subsection, the term “group health plan” has the meaning given such term in section 1191b(a) of this title .
+
+(aa) The term “covered plan” means a group health plan as defined in section 1191b(a) of this title and the terms “health insurance coverage” and “health insurance issuer” have the meanings given such terms in section 1191b(b) of this title .
+
+(bb) The term “covered service provider” means a service provider that enters into a contract or arrangement with the covered plan and reasonably expects $1,000 (or such amount as the Secretary may establish in regulations to account for inflation since December 27, 2020 , as appropriate) or more in compensation, direct or indirect, to be received in connection with providing one or more of the following services, pursuant to the contract or arrangement, regardless of whether such services will be performed, or such compensation received, by the covered service provider, an affiliate, or a subcontractor: (AA) Services (including brokerage services), for which the covered service provider, an affiliate, or a subcontractor reasonably expects to receive indirect compensation or direct compensation described in item (dd), provided to a covered plan with respect to selection of insurance products (including vision and dental), recordkeeping services, medical management vendor, benefits administration (including vision and dental), stop-loss insurance, pharmacy benefit management services, wellness services, transparency tools and vendors, group purchasing organization preferred vendor panels, disease management vendors and products, compliance services, employee assistance programs, or third party administration services. (BB) Other services, for which the covered service provider, an affiliate, or a subcontractor reasonably expects to receive indirect compensation or direct compensation described in item (dd), including any of the following: plan design, insurance or insurance product selection (including vision and dental), recordkeeping, medical management, benefits administration selection (including vision and dental), stop-loss insurance, pharmacy benefit management services, wellness design and management services, transparency tools, group purchasing organization agreements and services, participation in and services from preferred vendor panels, disease management, compliance services, employee assistance programs, or third-party administration services, or consulting services related to any such services.
+
+(cc) The term “affiliate”, with respect to a covered service provider, means an entity that directly or indirectly (through one or more intermediaries) controls, is controlled by, or is under common control with, such provider, or is an officer, director, or employee of, or partner in, such provider.
+
+(dd) (AA) The term “compensation” means anything of monetary value, but does not include non-monetary compensation valued at $250 (or such amount as the Secretary may establish in regulations to account for inflation since December 27, 2020 , as appropriate) or less, in the aggregate, during the term of the contract or arrangement. (BB) The term “direct compensation” means compensation received directly from a covered plan. (CC) The term “indirect compensation” means compensation received from any source other than the covered plan, the plan sponsor, the covered service provider, or an affiliate. Compensation received from a subcontractor is indirect compensation, unless it is received in connection with services performed under a contract or arrangement with a subcontractor.
+
+(ee) The term “responsible plan fiduciary” means a fiduciary with authority to cause the covered plan to enter into, or extend or renew, the contract or arrangement.
+
+(ff) The term “subcontractor” means any person or entity (or an affiliate of such person or entity) that is not an affiliate of the covered service provider and that, pursuant to a contract or arrangement with the covered service provider or an affiliate, reasonably expects to receive $1,000 (or such amount as the Secretary may establish in regulations to account for inflation since December 27, 2020 , as appropriate) or more in compensation for performing one or more services described in item (bb) under a contract or arrangement with the covered plan.
+
+(aa) A description of all indirect compensation that the covered service provider, an affiliate, or a subcontractor reasonably expects to receive in connection with the services described in subclause (I)— (AA) including compensation from a vendor to a brokerage firm based on a structure of incentives not solely related to the contract with the covered plan; and (BB) not including compensation received by an employee from an employer on account of work performed by the employee.
+
+(bb) A description of the arrangement between the payer and the covered service provider, an affiliate, or a subcontractor, as applicable, pursuant to which such indirect compensation is paid.
+
+(cc) Identification of the services for which the indirect compensation will be received, if applicable.
+
+(dd) Identification of the payer of the indirect compensation.
+
+(aa) The responsible plan fiduciary did not know that the covered service provider failed or would fail to make required disclosures and reasonably believed that the covered service provider disclosed the information required to be disclosed.
+
+(bb) The responsible plan fiduciary, upon discovering that the covered service provider failed to disclose the required information, requests in writing that the covered service provider furnish such information.
+
+(cc) If the covered service provider fails to comply with a written request described in subclause (III) within 90 days of the request, the responsible plan fiduciary notifies the Secretary of the covered service provider’s failure, in accordance with subclauses (III) and (IV).
+
+(aa) The responsible plan fiduciary did not know that the covered service provider failed or would fail to make required remittances and reasonably believed that the covered service provider remitted such required amounts.
+
+(bb) The responsible plan fiduciary, upon discovering that the covered service provider failed to remit the required amounts, requests in writing that the covered service provider remit such amounts.
+
+(cc) If the covered service provider fails to comply with a written request described in subclause (III) within 90 days of the request, the responsible plan fiduciary notifies the Secretary of the covered service provider’s failure, in accordance with subclauses (III) and (IV).
+
+(aa) the name of the covered plan;
+
+(bb) the plan number used for the annual report on the covered plan;
+
+(cc) the plan sponsor’s name, address, and employer identification number;
+
+(dd) the name, address, and telephone number of the responsible plan fiduciary;
+
+(ee) the name, address, phone number, and, if known, employer identification number of the covered service provider;
+
+(ff) a description of the services provided to the covered plan;
+
+(gg) a description of the information that the covered service provider failed to disclose;
+
+(hh) the date on which such information was requested in writing from the covered service provider; and
+
+(ii) a statement as to whether the covered service provider continues to provide services to the plan.
+
+(aa) The covered service provider’s refusal to furnish the information requested by the written request described in subclause (I)(bb); or
+
+(bb) 90 days after the written request referred to in subclause (I)(cc) is made.
+
+(aa) remits 100 percent of rebates, fees, alternative discounts, and other remuneration received from any applicable entity that are related to utilization of drugs or drug spending under such health plan or health insurance coverage, to the group health plan or, in the case of a health insurance issuer offering group health insurance coverage in connection with a group health plan, to the health insurance issuer offering group health insurance coverage on behalf of the plan; and
+
+(bb) does not enter into any contract for pharmacy benefit management services on behalf of such a plan or coverage, with an applicable entity unless 100 percent of rebates, fees, alternative discounts, and other remuneration received under such contract that are related to the utilization of drugs or drug spending under such group health plan or health insurance coverage are remitted to the group health plan or, in the case of a health insurance issuer offering group health insurance coverage in connection with a group health plan, to the health insurance issuer on behalf of the plan by the entity providing pharmacy benefit management services.
+
+(aa) remitted— (AA) on a quarterly basis, to the group health plan or, in the case of a health insurance issuer offering group health insurance coverage in connection with a group health plan, to the group health insurance issuer on behalf of the plan, not later than 90 days after the end of each quarter; or (BB) in the case of an underpayment in a remittance for a prior quarter, as soon as practicable, but not later than 90 days after notice of the underpayment is first given;
+
+(bb) fully disclosed and enumerated to the group health plan or health insurance issuer; and
+
+(cc) returned to the covered service provider for pharmacy benefit management services on behalf of the group health plan if any audit by a plan sponsor, issuer or a third party designated by a plan sponsor, indicates that the amounts received are in excess of correct amounts after such amounts have been paid to the group health plan, in the amount of such excess;
+
+(aa) procedures for the remittance of rebates, fees, alternative discounts, and other remuneration under subclause (I)(aa);
+
+(bb) any audit pursuant to this subparagraph; and
+
+(cc) the timing, manner, and content of the disclosure of rebates, fees, alternative discounts, and other remuneration under subclause (I)(bb) as well as any other information the Secretary determines necessary for the responsible plan fiduciary to consider the reasonableness of the contract or arrangement (provided that such information does not include personally identifiable health information or protected health information subject to established individual privacy and nondiscrimination requirements under law); and
+
+Foreign exchange transactions
+
+Cross trading
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 408](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 883](https://www.govinfo.gov/link/statute/88/883); [Pub. L. 96–364, title III, § 308](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1295](https://www.govinfo.gov/link/statute/94/1295); [Pub. L. 97–354, § 5(a)(43)](https://www.govinfo.gov/link/plaw/97/public/354), Oct. 19, 1982, [96 Stat. 1697](https://www.govinfo.gov/link/statute/96/1697); [Pub. L. 99–514, title XI, § 1114(b)(15)(B)](https://www.govinfo.gov/link/plaw/99/public/514), title XVIII, § 1898(i)(1), Oct. 22, 1986, [100 Stat. 2452](https://www.govinfo.gov/link/statute/100/2452), 2957; [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7881(l)(5), 7891(a), 7894(e)(4)(A), Dec. 19, 1989, [103 Stat. 2443](https://www.govinfo.gov/link/statute/103/2443), 2445, 2450; [Pub. L. 101–508, title XII, § 12012(b)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–571](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–465, title VII, § 731(c)(4)(C)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 5004](https://www.govinfo.gov/link/statute/108/5004); [Pub. L. 104–188, title I, § 1704(n)(2)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1886](https://www.govinfo.gov/link/statute/110/1886); [Pub. L. 105–34, title XV, § 1506(b)(2)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1066](https://www.govinfo.gov/link/statute/111/1066); [Pub. L. 106–170, title V, § 535(a)(2)(C)](https://www.govinfo.gov/link/plaw/106/public/170), Dec. 17, 1999, [113 Stat. 1934](https://www.govinfo.gov/link/statute/113/1934); [Pub. L. 107–16, title VI, § 612(b)](https://www.govinfo.gov/link/plaw/107/public/16), June 7, 2001, [115 Stat. 100](https://www.govinfo.gov/link/statute/115/100); [Pub. L. 108–218, title II, § 204(b)(3)](https://www.govinfo.gov/link/plaw/108/public/218), Apr. 10, 2004, [118 Stat. 609](https://www.govinfo.gov/link/statute/118/609); [Pub. L. 108–357, title VII, § 709(a)(3)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1551](https://www.govinfo.gov/link/statute/118/1551); [Pub. L. 109–280, title I, § 108(a)(11)](https://www.govinfo.gov/link/plaw/109/public/280), formerly § 107(a)(11), title VI, §§ 601(a)(1), (2), 611(a)(1), (c)(1), (d)(1), (e)(1), (g)(1), 612(a), Aug. 17, 2006, [120 Stat. 819](https://www.govinfo.gov/link/statute/120/819), 952, 953, 967–969, 971, 972, 975, renumbered [Pub. L. 111–192, title II, § 202(a)](https://www.govinfo.gov/link/plaw/111/public/192), June 25, 2010, [124 Stat. 1297](https://www.govinfo.gov/link/statute/124/1297); [Pub. L. 110–458, title I, § 106(a)(1)](https://www.govinfo.gov/link/plaw/110/public/458), (b)(1), Dec. 23, 2008, [122 Stat. 5106](https://www.govinfo.gov/link/statute/122/5106); [Pub. L. 112–141, div. D, title II, § 40241(b)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 859](https://www.govinfo.gov/link/statute/126/859); [Pub. L. 114–41, title II, § 2007(b)](https://www.govinfo.gov/link/plaw/114/public/41), July 31, 2015, [129 Stat. 459](https://www.govinfo.gov/link/statute/129/459); [Pub. L. 116–94, div. P, title XIII, § 1302(a)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3204](https://www.govinfo.gov/link/statute/133/3204); [Pub. L. 116–260, div. BB, title II, § 202(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2894](https://www.govinfo.gov/link/statute/134/2894); [Pub. L. 117–328, div. T, title I, § 113(d)](https://www.govinfo.gov/link/plaw/117/public/328), title VI, § 606(b)(3), Dec. 29, 2022, [136 Stat. 5296](https://www.govinfo.gov/link/statute/136/5296), 5397; [Pub. L. 119–75, div. J, title VII, § 6702(a)](https://www.govinfo.gov/link/plaw/119/public/75), (c), Feb. 3, 2026, [140 Stat. 733](https://www.govinfo.gov/link/statute/140/733), 736.)*

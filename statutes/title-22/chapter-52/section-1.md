@@ -3,9 +3,10 @@ title: "Section 1 - Health benefits for certain former spouses"
 usc_title: 22
 usc_section: "1"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 1"
-generated_at: "2026-03-30T02:55:05.405Z"
+generated_at: "2026-11-23T20:26:32.511Z"
+status: "active"
 ---
 
 # § 4069c–1. Health benefits for certain former spouses
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:05.405Z"
   - **(2)** Any former spouse enrolled in a health benefits plan pursuant to an election under subsection (b)(1) may continue the enrollment under the conditions of eligibility which the Director of the Office of Personnel Management shall by regulation prescribe, except that any former spouse who remarries before age 55 shall not be eligible for continued enrollment under this section after the end of the 31-day period beginning on the date of remarriage.
 - **(d)** No individual may be covered by a health benefits plan under this section during any period in which such individual is enrolled in a health benefits plan under any other authority, nor may any individual be covered under more than one enrollment under this section.
 - **(e)** For purposes of this section the term “health benefits plan” means an approved health benefits plan under chapter 89 of title 5.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 833](https://www.govinfo.gov/link/plaw/96/public/465), as added [Pub. L. 100–238, title II, § 204(a)](https://www.govinfo.gov/link/plaw/100/public/238), Jan. 8, 1988, [101 Stat. 1772](https://www.govinfo.gov/link/statute/101/1772).)*

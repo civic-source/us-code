@@ -3,9 +3,10 @@ title: "Section 1368 - Increase in INS detention facilities; report on detention
 usc_title: 8
 usc_section: "1368"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1368"
-generated_at: "2026-03-30T02:53:10.498Z"
+generated_at: "2026-11-23T20:25:36.210Z"
+status: "active"
 ---
 
 # § 1368. Increase in INS detention facilities; report on detention space
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:10.498Z"
       - **(ii)** The estimate under clause (i) shall estimate separately, with respect to each year described in such clause, the number of criminal aliens described in such clause who were convicted of an aggravated felony.
     - **(B)** The first report submitted under paragraph (1) shall also estimate the number of inadmissible or deportable aliens who were released into the community due to a lack of detention facilities in each of the 3 fiscal years concluded prior to the date of the report notwithstanding circumstances that the Attorney General believed justified detention (for example, a significant probability that the released alien would not appear, as agreed, at subsequent exclusion or deportation proceedings).
     - **(C)** Each report under paragraph (1) following the first such report shall include the estimates under subparagraphs (A) and (B), made with respect to the 6-month period immediately preceding the date of the submission of the report.
+
+## Source Credit
+
+*([Pub. L. 104–208, div. C, title III](https://www.govinfo.gov/link/plaw/104/public/208), §§ 308(g)(10)(G), 386, Sept. 30, 1996, [110 Stat. 3009–625](https://www.govinfo.gov/link/statute/110/3009), 3009–653.)*

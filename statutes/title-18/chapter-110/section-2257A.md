@@ -3,9 +3,10 @@ title: "Section 2257A - Record keeping requirements for simulated sexual conduct
 usc_title: 18
 usc_section: "2257A"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2257A"
-generated_at: "2026-03-30T02:54:16.498Z"
+generated_at: "2026-11-23T20:26:08.569Z"
+status: "active"
 ---
 
 # § 2257A. Record keeping requirements for simulated sexual conduct
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:54:16.498Z"
     - **(B)** the number of open investigations pursuant to this section and section 2257;
     - **(C)** the number of cases in which a person has been charged with a violation of this section and section 2257; and
     - **(D)** for each case listed in response to subparagraph (C), the name of the lead defendant, the federal district in which the case was brought, the court tracking number, and a synopsis of the violation and its disposition, if any, including settlements, sentences, recoveries and penalties.
+
+## Source Credit
+
+*(Added [Pub. L. 109–248, title V, § 503(a)](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 626](https://www.govinfo.gov/link/statute/120/626).)*

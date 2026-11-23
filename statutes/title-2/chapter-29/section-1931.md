@@ -3,9 +3,10 @@ title: "Section 1931 - Additional compensation for employees with specialty assi
 usc_title: 2
 usc_section: "1931"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1931"
-generated_at: "2026-03-30T02:53:04.821Z"
+generated_at: "2026-11-23T20:25:28.995Z"
+status: "active"
 ---
 
 # § 1931. Additional compensation for employees with specialty assignments and proficiencies
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:04.821Z"
   - **(2)** such amount may not be paid in a calendar year to the extent that, when added to the total basic pay paid or payable to such employee for service performed in the year, such amount would cause the total to exceed the annual rate of basic pay payable for level II of the Executive Schedule, as of the end of such year.
 - **(c)** The additional compensation authorized by this subsection shall be paid to an employee in a manner determined by the Chief or his designee except when the employee ceases to be assigned to the specialty assignment or ceases to maintain the required proficiency. The loss of such additional compensation shall not constitute an adverse action for any purpose.
 - **(d)** Any determination under section 1 1 So in original. Probably should be “subsection”. (a) shall not be appealable or reviewable in any manner.
+
+## Source Credit
+
+*([Pub. L. 108–7, div. H, title I, § 1011](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 360](https://www.govinfo.gov/link/statute/117/360).)*

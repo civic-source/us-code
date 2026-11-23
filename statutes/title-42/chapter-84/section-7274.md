@@ -3,9 +3,10 @@ title: "Section 7274 - Environmental impact statements relating to defense facil
 usc_title: 42
 usc_section: "7274"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7274"
-generated_at: "2026-03-30T02:56:11.286Z"
+generated_at: "2026-11-23T20:27:22.797Z"
+status: "active"
 ---
 
 # § 7274. Environmental impact statements relating to defense facilities of Department of Energy
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.286Z"
     - **(A)** the Secretary has notified the Committees on Armed Services of the Senate and the House of Representatives of his intent to prepare such statement and a period of thirty days has expired after the date on which such notice was received by such committees; or
     - **(B)** the Secretary has received from each such committee, before the expiration of such thirty-day period, a written notice that the committee agrees with the decision of the Secretary regarding the preparation of such statement.
   - **(2)** The provisions of paragraph (1) shall not apply in the case of any environmental impact statement on which the Secretary began preparation before December 4, 1981 .
+
+## Source Credit
+
+*([Pub. L. 97–90, title II, § 212(b)](https://www.govinfo.gov/link/plaw/97/public/90), Dec. 4, 1981, [95 Stat. 1171](https://www.govinfo.gov/link/statute/95/1171).)*

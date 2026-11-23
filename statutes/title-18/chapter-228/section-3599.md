@@ -3,9 +3,10 @@ title: "Section 3599 - Counsel for financially unable defendants"
 usc_title: 18
 usc_section: "3599"
 chapter: 228
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 3599"
-generated_at: "2026-03-30T02:54:16.521Z"
+generated_at: "2026-11-23T20:26:08.747Z"
+status: "active"
 ---
 
 # § 3599. Counsel for financially unable defendants
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:16.521Z"
   - **(1)** Compensation shall be paid to attorneys appointed under this subsection 1 1 So in original. Probably should be “section”. at a rate of not more than $125 per hour for in-court and out-of-court time. The Judicial Conference is authorized to raise the maximum for hourly payment specified in the 2 2 So in original. Probably should be “this”. paragraph up to the aggregate of the overall average percentages of the adjustments in the rates of pay for the General Schedule made pursuant to section 5305 3 3 So in original. Probably should be “5303”. of title 5 on or after such date. After the rates are raised under the preceding sentence, such hourly range may be raised at intervals of not less than one year, up to the aggregate of the overall average percentages of such adjustments made since the last raise under this paragraph.
   - **(2)** Fees and expenses paid for investigative, expert, and other reasonably necessary services authorized under subsection (f) shall not exceed $7,500 in any case, unless payment in excess of that limit is certified by the court, or by the United States magistrate judge, if the services were rendered in connection with the case disposed of entirely before such magistrate judge, as necessary to provide fair compensation for services of an unusual character or duration, and the amount of the excess payment is approved by the chief judge of the circuit. The chief judge of the circuit may delegate such approval authority to an active or senior circuit judge.
   - **(3)** The amounts paid under this paragraph 4 4 So in original. Probably should be “subsection”. for services in any case shall be disclosed to the public, after the disposition of the petition.
+
+## Source Credit
+
+*(Added [Pub. L. 109–177, title II, § 222(a)](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 231](https://www.govinfo.gov/link/statute/120/231); amended [Pub. L. 110–406, § 12(c)](https://www.govinfo.gov/link/plaw/110/public/406), Oct. 13, 2008, [122 Stat. 4294](https://www.govinfo.gov/link/statute/122/4294).)*

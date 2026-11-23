@@ -3,9 +3,10 @@ title: "Section 102 - Rules of construction"
 usc_title: 11
 usc_section: "102"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 102"
-generated_at: "2026-03-30T02:53:53.871Z"
+generated_at: "2026-11-23T20:25:55.312Z"
+status: "active"
 ---
 
 # § 102. Rules of construction
@@ -25,3 +26,7 @@ In this title—
   - **(7)** the singular includes the plural;
   - **(8)** a definition, contained in a section of this title that refers to another section of this title, does not, for the purpose of such reference, affect the meaning of a term used in such other section; and
   - **(9)** “United States trustee” includes a designee of the United States trustee.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2554](https://www.govinfo.gov/link/statute/92/2554); [Pub. L. 98–353, title III, § 422](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 369](https://www.govinfo.gov/link/statute/98/369); [Pub. L. 99–554, title II, § 202](https://www.govinfo.gov/link/plaw/99/public/554), Oct. 27, 1986, [100 Stat. 3097](https://www.govinfo.gov/link/statute/100/3097).)*

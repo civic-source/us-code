@@ -3,9 +3,10 @@ title: "Section 2291j - Annual certification procedures"
 usc_title: 22
 usc_section: "2291j"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2291j"
-generated_at: "2026-03-30T02:55:05.354Z"
+generated_at: "2026-11-23T20:26:32.215Z"
+status: "active"
 ---
 
 # § 2291j. Annual certification procedures
@@ -40,3 +41,11 @@ generated_at: "2026-03-30T02:55:05.354Z"
     - **(B)** the Congress enacts a joint resolution approving the determination contained in the certification under subsection (b)(1)(B).
 - **(g)** Any joint resolution under this section shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
 - **(h)** Not later than November 1 of each year, the President shall notify the appropriate committees of the Congress of which countries have been determined to be major drug-transit countries, and which countries have been determined to be major illicit drug producing countries, for purposes of this chapter.
+
+George W. Bush.
+
+George W. Bush.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 490, as added [Pub. L. 102–583, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/583), Nov. 2, 1992, [106 Stat. 4924](https://www.govinfo.gov/link/statute/106/4924); amended [Pub. L. 103–447, title I, § 101(g)(1)](https://www.govinfo.gov/link/plaw/103/public/447), Nov. 2, 1994, [108 Stat. 4692](https://www.govinfo.gov/link/statute/108/4692); [Pub. L. 104–66, title I, § 1112(d)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 724](https://www.govinfo.gov/link/statute/109/724); [Pub. L. 109–177, title VII, § 722(b)](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 268](https://www.govinfo.gov/link/statute/120/268).)*

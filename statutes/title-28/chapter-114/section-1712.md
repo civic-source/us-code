@@ -3,9 +3,10 @@ title: "Section 1712 - Coupon settlements"
 usc_title: 28
 usc_section: "1712"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 1712"
-generated_at: "2026-03-30T02:55:30.143Z"
+generated_at: "2026-11-23T20:26:36.470Z"
+status: "active"
 ---
 
 # § 1712. Coupon settlements
@@ -19,3 +20,21 @@ generated_at: "2026-03-30T02:55:30.143Z"
   - **(2)** that portion of the attorney’s fee to be paid to class counsel that is not based upon a portion of the recovery of the coupons shall be calculated in accordance with subsection (b).
 - **(d)** In a class action involving the awarding of coupons, the court may, in its discretion upon the motion of a party, receive expert testimony from a witness qualified to provide information on the actual value to the class members of the coupons that are redeemed.
 - **(e)** In a proposed settlement under which class members would be awarded coupons, the court may approve the proposed settlement only after a hearing to determine whether, and making a written finding that, the settlement is fair, reasonable, and adequate for class members. The court, in its discretion, may also require that a proposed settlement agreement provide for the distribution of a portion of the value of unclaimed coupons to 1 or more charitable or governmental organizations, as agreed to by the parties. The distribution and redemption of any proceeds under this subsection shall not be used to calculate attorneys’ fees under this section.
+
+Contingent Fees in Coupon Settlements
+
+Other Attorney’s Fee Awards in Coupon Settlements.—
+
+In general
+
+Court approval
+
+Attorney’s Fee Awards Calculated on a Mixed Basis in Coupon Settlements
+
+Settlement Valuation Expertise
+
+Judicial Scrutiny of Coupon Settlements
+
+## Source Credit
+
+*(Added [Pub. L. 109–2, § 3(a)](https://www.govinfo.gov/link/plaw/109/public/2), Feb. 18, 2005, [119 Stat. 6](https://www.govinfo.gov/link/statute/119/6).)*

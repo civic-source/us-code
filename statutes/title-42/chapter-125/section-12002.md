@@ -3,9 +3,10 @@ title: "Section 12002 - Definitions"
 usc_title: 42
 usc_section: "12002"
 chapter: 125
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12002"
-generated_at: "2026-03-30T02:56:11.406Z"
+generated_at: "2026-11-23T20:27:23.332Z"
+status: "active"
 ---
 
 # § 12002. Definitions
@@ -25,3 +26,7 @@ As used in this chapter—
     - **(A)** reduces the amount of any hazardous substance, pollutant, or contaminant entering any waste stream or otherwise released into the environment, including fugitive emissions, prior to recycling, treatment, or disposal; and
     - **(B)** reduces the hazards to the public health and the environment associated with the release of such substances, pollutants, or contaminants,
   - **(6)** the term “United States” means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other Commonwealth, territory, or possession of the United States.
+
+## Source Credit
+
+*([Pub. L. 101–218, § 3](https://www.govinfo.gov/link/plaw/101/public/218), Dec. 11, 1989, [103 Stat. 1859](https://www.govinfo.gov/link/statute/103/1859); [Pub. L. 102–486, title XII, § 1202(d)(4)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2960](https://www.govinfo.gov/link/statute/106/2960).)*

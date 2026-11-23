@@ -3,9 +3,10 @@ title: "Section 342 - Regional Centers for Security Studies"
 usc_title: 10
 usc_section: "342"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 342"
-generated_at: "2026-03-30T02:53:38.053Z"
+generated_at: "2026-11-23T20:25:50.914Z"
+status: "active"
 ---
 
 # § 342. Regional Centers for Security Studies
@@ -55,3 +56,65 @@ generated_at: "2026-03-30T02:53:38.053Z"
 - **(j)**
   - **(1)** The Secretary shall on an annual basis review the program and structure of each Regional Center in order to determine whether such Regional Center is appropriately aligned with the strategic priorities of the Department of Defense and the applicable geographic combatant commands.
   - **(2)** The Secretary may revise the program, structure, or both of a Regional Center following an annual review under paragraph (1) in order to more appropriately align the Regional Center with strategic priorities and the geographic combatant commands as described in that paragraph.
+
+In General
+
+Regional Centers Specified
+
+Regulations
+
+Participation
+
+Employment and Compensation of Faculty
+
+Payment of Costs
+
+Support to Other Agencies
+
+Authorities Specific to Marshall Center
+
+Authorities Specific to Inouye Center
+
+Annual Review of Program Structure and Programs of Centers
+
+Establishment
+
+Purposes
+
+Partnerships
+
+Institution of Higher Education Defined
+
+Plan Required.—
+
+In general
+
+Elements
+
+Form
+
+Establishment.—
+
+In general
+
+Location
+
+Report Required.—
+
+In general
+
+Elements
+
+Form
+
+Establishment.—
+
+In general
+
+Limitation
+
+Location
+
+## Source Credit
+
+*(Added [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title IX, § 912(a)(1)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–228, § 184; amended [Pub. L. 107–107, div. A, title X, § 1048(c)(2)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1226](https://www.govinfo.gov/link/statute/115/1226); [Pub. L. 108–136, div. A, title IX, § 931(b)(2)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1581](https://www.govinfo.gov/link/statute/117/1581); [Pub. L. 109–163, div. A, title IX, § 903(b)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3399](https://www.govinfo.gov/link/statute/119/3399); [Pub. L. 109–364, div. A, title IX, § 904(a)(1)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2351](https://www.govinfo.gov/link/statute/120/2351); [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title IX, § 941(a)(1), Oct. 14, 2008, [122 Stat. 4576](https://www.govinfo.gov/link/statute/122/4576); [Pub. L. 111–84, div. A, title X, § 1073(a)(3)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2472](https://www.govinfo.gov/link/statute/123/2472); [Pub. L. 112–81, div. A, title X, § 1061(2)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1583](https://www.govinfo.gov/link/statute/125/1583); [Pub. L. 112–239, div. B, title XXVIII, § 2854(b)(1)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2161](https://www.govinfo.gov/link/statute/126/2161); [Pub. L. 113–291, div. B, title XXVIII, § 2861(b)(1)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3715](https://www.govinfo.gov/link/statute/128/3715); renumbered § 342 and amended [Pub. L. 114–328, div. A, title XII, § 1241(e)(1)](https://www.govinfo.gov/link/plaw/114/public/328) –(4), Dec. 23, 2016, [130 Stat. 2505](https://www.govinfo.gov/link/statute/130/2505), 2506; [Pub. L. 115–91, div. A, title X, § 1081(a)(17)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1595](https://www.govinfo.gov/link/statute/131/1595); [Pub. L. 117–81, div. A, title X, § 1082(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1922](https://www.govinfo.gov/link/statute/135/1922); [Pub. L. 119–60, div. A, title XII, § 1203](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1081](https://www.govinfo.gov/link/statute/139/1081).)*

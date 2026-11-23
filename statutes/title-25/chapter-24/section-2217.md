@@ -3,9 +3,10 @@ title: "Section 2217 - Reports to Congress"
 usc_title: 25
 usc_section: "2217"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 2217"
-generated_at: "2026-03-30T02:54:52.839Z"
+generated_at: "2026-11-23T20:26:25.586Z"
+status: "active"
 ---
 
 # § 2217. Reports to Congress
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:52.839Z"
   - **(1)** the number of fractional interests in trust or restricted lands acquired; and
   - **(2)** the impact of the resulting reduction in the number of such fractional interests on the financial and realty recordkeeping systems of the Bureau of Indian Affairs.
 - **(b)** The reports described in subsection (a) and section 2212(a) of this title shall contain findings as to whether the program under this chapter to acquire fractional interests in trust or restricted lands should be extended and whether such program should be altered to make resources available to Indian tribes and individual Indian landowners.
+
+## Source Credit
+
+*([Pub. L. 97–459, title II, § 218](https://www.govinfo.gov/link/plaw/97/public/459), as added [Pub. L. 106–462, title I, § 103(6)](https://www.govinfo.gov/link/plaw/106/public/462), Nov. 7, 2000, [114 Stat. 2004](https://www.govinfo.gov/link/statute/114/2004).)*

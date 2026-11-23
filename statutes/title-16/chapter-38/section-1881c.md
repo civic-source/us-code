@@ -3,9 +3,10 @@ title: "Section 1881c - Fisheries research"
 usc_title: 16
 usc_section: "1881c"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1881c"
-generated_at: "2026-03-30T02:54:22.995Z"
+generated_at: "2026-11-23T20:26:20.578Z"
+status: "active"
 ---
 
 # § 1881c. Fisheries research
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:22.995Z"
     - **(A)** identify types of data and analysis, especially concerning recreational fishing, that can be used for purposes of this chapter as the basis for establishing conservation and management measures as required by section 1853(a)(1) of this title , including setting standards for the collection and use of that data and analysis in stock assessments and surveys and for other purposes;
     - **(B)** provide specific recommendations for collecting data and performing analyses identified as necessary to reduce uncertainty in and improve the accuracy of future stock assessments, including whether such data and analysis could be provided by nongovernmental sources; and
     - **(C)** consider the extent to which the acceptance and use of data and analyses identified in the report in fishery management decisions is practicable and compatible with the requirements of section 1851(a)(2) of this title .
+
+## Source Credit
+
+*([Pub. L. 94–265, title IV, § 404](https://www.govinfo.gov/link/plaw/94/public/265), as added [Pub. L. 104–297, title II, § 205](https://www.govinfo.gov/link/plaw/104/public/297), Oct. 11, 1996, [110 Stat. 3609](https://www.govinfo.gov/link/statute/110/3609); amended [Pub. L. 109–479, title II, § 203(b)](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3614](https://www.govinfo.gov/link/statute/120/3614); [Pub. L. 115–405, § 201(a)](https://www.govinfo.gov/link/plaw/115/public/405), Dec. 31, 2018, [132 Stat. 5358](https://www.govinfo.gov/link/statute/132/5358).)*

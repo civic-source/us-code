@@ -3,9 +3,10 @@ title: "Section 2613 - Certification"
 usc_title: 29
 usc_section: "2613"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 2613"
-generated_at: "2026-03-30T02:55:18.744Z"
+generated_at: "2026-11-23T20:26:38.068Z"
+status: "active"
 ---
 
 # § 2613. Certification
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:18.744Z"
   - **(2)** The opinion of the third health care provider concerning the information certified under subsection (b) shall be considered to be final and shall be binding on the employer and the employee.
 - **(e)** The employer may require that the eligible employee obtain subsequent recertifications on a reasonable basis.
 - **(f)** An employer may require that a request for leave under section 2612(a)(1)(E) of this title be supported by a certification issued at such time and in such manner as the Secretary may by regulation prescribe. If the Secretary issues a regulation requiring such certification, the employee shall provide, in a timely manner, a copy of such certification to the employer.
+
+## Source Credit
+
+*([Pub. L. 103–3, title I, § 103](https://www.govinfo.gov/link/plaw/103/public/3), Feb. 5, 1993, [107 Stat. 11](https://www.govinfo.gov/link/statute/107/11); [Pub. L. 110–181, div. A, title V, § 585(a)(3)(E)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 130](https://www.govinfo.gov/link/statute/122/130); [Pub. L. 111–84, div. A, title V, § 565(a)(1)(C)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2310](https://www.govinfo.gov/link/statute/123/2310).)*

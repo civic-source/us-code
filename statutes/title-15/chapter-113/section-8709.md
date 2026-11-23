@@ -3,9 +3,10 @@ title: "Section 8709 - Investigation and power to subpoena"
 usc_title: 15
 usc_section: "8709"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 8709"
-generated_at: "2026-03-30T02:54:08.233Z"
+generated_at: "2026-11-23T20:26:04.501Z"
+status: "active"
 ---
 
 # § 8709. Investigation and power to subpoena
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:08.233Z"
   - **(2)** The court may issue an order requiring the person referred to in paragraph (1) to comply with a subpoena referred to in paragraph (1).
   - **(3)** Any failure to obey the order of the court may be punished by the court as a contempt of court.
   - **(4)** Process in any proceeding under this subsection may be served in the United States judicial district in which the person being proceeded against resides or conducts business, or wherever the person may be found.
+
+## Source Credit
+
+*([Pub. L. 115–254, div. E, § 1310](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3482](https://www.govinfo.gov/link/statute/132/3482).)*

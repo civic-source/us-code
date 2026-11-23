@@ -3,9 +3,10 @@ title: "Section 1265 - Seizures"
 usc_title: 15
 usc_section: "1265"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1265"
-generated_at: "2026-03-30T02:54:08.131Z"
+generated_at: "2026-11-23T20:26:03.986Z"
+status: "active"
 ---
 
 # § 1265. Seizures
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.131Z"
 - **(e)** In the case of removal for trial of any case as provided by subsection (b)—
   - **(1)** the clerk of the court from which removal is made shall promptly transmit to the court in which the case is to be tried all rec­ords in the case necessary in order that such court may exercise jurisdiction;
   - **(2)** the court to which such case is removed shall have the powers and be subject to the duties, for purposes of such case, which the court from which removal was made would have had, or to which such court would have been subject, if such case had not been removed.
+
+## Source Credit
+
+*([Pub. L. 86–613, § 6](https://www.govinfo.gov/link/plaw/86/public/613), July 12, 1960, [74 Stat. 376](https://www.govinfo.gov/link/statute/74/376); [Pub. L. 89–756](https://www.govinfo.gov/link/plaw/89/public/756), §§ 2(h), 3(d), Nov. 3, 1966, [80 Stat. 1304](https://www.govinfo.gov/link/statute/80/1304), 1305; [Pub. L. 110–314, title II, § 204(b)(4)(B)](https://www.govinfo.gov/link/plaw/110/public/314), Aug. 14, 2008, [122 Stat. 3041](https://www.govinfo.gov/link/statute/122/3041).)*

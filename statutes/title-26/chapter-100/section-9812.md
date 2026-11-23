@@ -3,9 +3,10 @@ title: "Section 9812 - Parity in mental health and substance use disorder benefi
 usc_title: 26
 usc_section: "9812"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 9812"
-generated_at: "2026-03-30T02:55:27.895Z"
+generated_at: "2026-11-23T20:26:46.899Z"
+status: "active"
 ---
 
 # § 9812. Parity in mental health and substance use disorder benefits
@@ -123,3 +124,11 @@ generated_at: "2026-03-30T02:55:27.895Z"
   - **(3)** The term “medical or surgical benefits” means benefits with respect to medical or surgical services, as defined under the terms of the plan, but does not include mental health or substance use disorder benefits.
   - **(4)** The term “mental health benefits” means benefits with respect to services for mental health conditions, as defined under the terms of the plan and in accordance with applicable Federal and State law.
   - **(5)** The term “substance use disorder benefits” means benefits with respect to services for substance use disorders, as defined under the terms of the plan and in accordance with applicable Federal and State law.
+
+(aa) shall specify to the Secretary the actions the plan will take to be in compliance with this section and provide to the Secretary additional comparative analyses described in subparagraph (A) that demonstrate compliance with this section not later than 45 days after the initial determination by the Secretary that the plan is not in compliance; and
+
+(bb) following the 45-day corrective action period under item (aa), if the Secretary makes a final determination that the plan still is not in compliance with this section, not later than 7 days after such determination, shall notify all individuals enrolled in the plan that the plan has been determined to be not in compliance with this section.
+
+## Source Credit
+
+*(Added [Pub. L. 105–34, title XV, § 1531(a)(4)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1083](https://www.govinfo.gov/link/statute/111/1083); amended [Pub. L. 107–116, title VII, § 701(c)](https://www.govinfo.gov/link/plaw/107/public/116), Jan. 10, 2002, [115 Stat. 2228](https://www.govinfo.gov/link/statute/115/2228); [Pub. L. 107–147, title VI, § 610(a)](https://www.govinfo.gov/link/plaw/107/public/147), Mar. 9, 2002, [116 Stat. 60](https://www.govinfo.gov/link/statute/116/60); [Pub. L. 108–311, title III, § 302(a)](https://www.govinfo.gov/link/plaw/108/public/311), Oct. 4, 2004, [118 Stat. 1178](https://www.govinfo.gov/link/statute/118/1178); [Pub. L. 109–151, § 1(c)](https://www.govinfo.gov/link/plaw/109/public/151), Dec. 30, 2005, [119 Stat. 2886](https://www.govinfo.gov/link/statute/119/2886); [Pub. L. 109–432, div. A, title I, § 115(a)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 2941](https://www.govinfo.gov/link/statute/120/2941); [Pub. L. 110–245, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/110/public/245), June 17, 2008, [122 Stat. 1649](https://www.govinfo.gov/link/statute/122/1649); [Pub. L. 110–343, div. C, title V, § 512(c)](https://www.govinfo.gov/link/plaw/110/public/343), (g)(3)(A), Oct. 3, 2008, [122 Stat. 3888](https://www.govinfo.gov/link/statute/122/3888), 3892; [Pub. L. 115–141, div. U, title IV, § 401(a)(349)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1201](https://www.govinfo.gov/link/statute/132/1201); [Pub. L. 116–260, div. BB, title II, § 203(a)(3)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2910](https://www.govinfo.gov/link/statute/134/2910).)*

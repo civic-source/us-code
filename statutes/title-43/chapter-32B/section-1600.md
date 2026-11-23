@@ -3,9 +3,10 @@ title: "Section 1600 - Findings and purposes"
 usc_title: 43
 usc_section: "1600"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1600"
-generated_at: "2026-03-30T02:55:57.477Z"
+generated_at: "2026-11-23T20:27:06.314Z"
+status: "active"
 ---
 
 # § 1600. Findings and purposes
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:57.477Z"
 - **(b)** The Congress declares that the purposes of this chapter are to—
   - **(1)** establish the Colorado River Floodway, as designated and described further in this chapter, so as to provide benefits to river users and to minimize the loss of human life, protect health and safety, and minimize damage to property and natural resources by restricting future Federal expenditures and financial assistance, except public health funds, which have the effect of encouraging development within the Colorado River Floodway; and
   - **(2)** establish a task force to advise the Secretary of the Interior and the Congress on establishment of the Floodway and on managing existing and future development within the Floodway, including the appropriateness of compensation in specified cases of extraordinary hardship.
+
+## Source Credit
+
+*([Pub. L. 99–450, § 2](https://www.govinfo.gov/link/plaw/99/public/450), Oct. 8, 1986, [100 Stat. 1129](https://www.govinfo.gov/link/statute/100/1129).)*

@@ -3,9 +3,10 @@ title: "Section 3703a - Tank vessel construction standards"
 usc_title: 46
 usc_section: "3703a"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 3703a"
-generated_at: "2026-03-30T02:56:15.544Z"
+generated_at: "2026-11-23T20:27:27.084Z"
+status: "active"
 ---
 
 # § 3703a. Tank vessel construction standards
@@ -36,3 +37,11 @@ generated_at: "2026-03-30T02:56:15.544Z"
 - **(e)**
   - **(1)** For the purposes of this section, the gross tonnage of a vessel shall be the gross tonnage that would have been recognized by the Secretary on July 1, 1997 , as the tonnage measured under section 14502 of this title , or as an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title .
   - **(2)** This subsection does not apply to a tank vessel that, before July 1, 1997 , had undergone, or was the subject of a contract for, alterations that reduce the gross tonnage of the tank vessel, as shown by reliable evidence acceptable to the Secretary.
+
+Other requirements
+
+Review and assessment
+
+## Source Credit
+
+*(Added [Pub. L. 101–380, title IV, § 4115(a)](https://www.govinfo.gov/link/plaw/101/public/380), Aug. 18, 1990, [104 Stat. 517](https://www.govinfo.gov/link/statute/104/517); amended [Pub. L. 104–324, title VII, § 715](https://www.govinfo.gov/link/plaw/104/public/324), title XI, § 1103, Oct. 19, 1996, [110 Stat. 3937](https://www.govinfo.gov/link/statute/110/3937), 3966; [Pub. L. 105–85, div. C, title XXXVI, § 3606](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 2077](https://www.govinfo.gov/link/statute/111/2077); [Pub. L. 109–304, § 15(15)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1703](https://www.govinfo.gov/link/statute/120/1703); [Pub. L. 115–91, div. C, title XXXV, § 3502(b)(3)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1910](https://www.govinfo.gov/link/statute/131/1910); [Pub. L. 115–232, div. C, title XXXV, § 3544(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2324](https://www.govinfo.gov/link/statute/132/2324).)*

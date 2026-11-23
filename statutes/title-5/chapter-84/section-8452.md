@@ -3,9 +3,10 @@ title: "Section 8452 - Computation of disability annuity"
 usc_title: 5
 usc_section: "8452"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8452"
-generated_at: "2026-03-30T02:52:56.061Z"
+generated_at: "2026-11-23T20:25:32.221Z"
+status: "active"
 ---
 
 # § 8452. Computation of disability annuity
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:52:56.061Z"
       - **(i)** subject to adjustment under such section; and
       - **(ii)** with a commencement date coinciding with the date the annuitant’s annuity commenced or was restored under this subchapter, as the case may be; and
     - **(B)** whether the amount actually payable to the annuitant under this section in any month is determined under this subsection or otherwise.
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 566](https://www.govinfo.gov/link/statute/100/566); amended [Pub. L. 99–556, title I](https://www.govinfo.gov/link/plaw/99/public/556), §§ 104, 106, Oct. 27, 1986, [100 Stat. 3131](https://www.govinfo.gov/link/statute/100/3131), 3132; [Pub. L. 100–238, title I, § 122(a)](https://www.govinfo.gov/link/plaw/100/public/238) –(c), Jan. 8, 1988, [101 Stat. 1753](https://www.govinfo.gov/link/statute/101/1753), 1754; [Pub. L. 108–176, title II, § 226(b)(2)(B)](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2530](https://www.govinfo.gov/link/statute/117/2530); [Pub. L. 112–96, title V, § 5001(c)(2)(B)](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 200](https://www.govinfo.gov/link/statute/126/200).)*

@@ -3,9 +3,10 @@ title: "Section 4131 - Definitions"
 usc_title: 50
 usc_section: "4131"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4131"
-generated_at: "2026-03-30T02:56:26.267Z"
+generated_at: "2026-11-23T20:27:31.074Z"
+status: "active"
 ---
 
 # § 4131. Definitions
@@ -16,3 +17,7 @@ As used in this subchapter the term or terms—
 - **(b)** “Commission” means the Foreign Claims Settlement Commission of the United States established pursuant to Reorganization Plan Numbered 1 of 1954 ( 68 Stat. 1279 ).
 - **(c)** “National of the United States” means (1) a natural person who is a citizen of the United States, (2) a natural person who, though not a citizen of the United States, owes permanent allegiance to the United States, and (3) a corporation, partnership, unincorporated body, or other entity, organized under the laws of the United States, or of any State, the Commonwealth of Puerto Rico, the District of Columbia, or any possession of the United States and in which more than 50 per centum of the outstanding capital stock or other proprietary or similar interest is owned, directly or indirectly, by persons referred to in clauses (1) and (2) of this subsection. It does not include aliens.
 - **(d)** “Property” means real property and such items of tangible personalty as can be identified and evaluated.
+
+## Source Credit
+
+*(July 3, 1948, ch. 826, title II, § 201, as added [Pub. L. 87–846, title I, § 103](https://www.govinfo.gov/link/plaw/87/public/846), Oct. 22, 1962, [76 Stat. 1107](https://www.govinfo.gov/link/statute/76/1107).)*

@@ -3,9 +3,10 @@ title: "Section 4131 - National objectives and eligible families"
 usc_title: 25
 usc_section: "4131"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 4131"
-generated_at: "2026-03-30T02:54:52.859Z"
+generated_at: "2026-11-23T20:26:25.682Z"
+status: "active"
 ---
 
 # § 4131. National objectives and eligible families
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:52.859Z"
   - **(5)** Notwithstanding paragraph (1), a recipient may provide housing or housing assistance provided through affordable housing activities assisted with grant amounts under this chapter to a law enforcement officer on the reservation or other Indian area, who is employed full-time by a Federal, State, county or tribal government, and in implementing such full-time employment is sworn to uphold, and make arrests for violations of Federal, State, county or tribal law, if the recipient determines that the presence of the law enforcement officer on the Indian reservation or other Indian area may deter crime.
   - **(6)** The Indian housing plan for an Indian tribe may require preference, for housing or housing assistance provided through affordable housing activities assisted with grant amounts provided under this chapter on behalf of such tribe, to be given (to the extent practicable) to Indian families who are members of such tribe, or to other Indian families. In any case in which the applicable Indian housing plan for an Indian tribe provides for preference under this paragraph, the recipient for the tribe shall ensure that housing activities that are assisted with grant amounts under this chapter for such tribe are subject to such preference.
   - **(6)** Title VI of the Civil Rights Act of 1964 [ 42 U.S.C. 2000d et seq.] and title VIII of the Civil Rights Act of 1968 [ 42 U.S.C. 3601 et seq.] shall not apply to actions by federally recognized tribes and the tribally designated housing entities of those tribes under this chapter.
+
+## Source Credit
+
+*([Pub. L. 104–330, title II, § 201](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4031](https://www.govinfo.gov/link/statute/110/4031); [Pub. L. 105–276, title V, § 595(e)(7)](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2657](https://www.govinfo.gov/link/statute/112/2657); [Pub. L. 106–377, § 1(a)(1) [title II, § 210]](https://www.govinfo.gov/link/plaw/106/public/377), Oct. 27, 2000, [114 Stat. 1441](https://www.govinfo.gov/link/statute/114/1441), 1441A–26; [Pub. L. 106–568, title X, § 1003(e)](https://www.govinfo.gov/link/plaw/106/public/568), Dec. 27, 2000, [114 Stat. 2926](https://www.govinfo.gov/link/statute/114/2926); [Pub. L. 110–411, title II, § 201](https://www.govinfo.gov/link/plaw/110/public/411), Oct. 14, 2008, [122 Stat. 4324](https://www.govinfo.gov/link/statute/122/4324).)*

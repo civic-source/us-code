@@ -3,9 +3,10 @@ title: "Section 8106 - Riding gangs"
 usc_title: 46
 usc_section: "8106"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 8106"
-generated_at: "2026-03-30T02:56:15.551Z"
+generated_at: "2026-11-23T20:27:27.127Z"
+status: "active"
 ---
 
 # § 8106. Riding gangs
@@ -55,3 +56,35 @@ generated_at: "2026-03-30T02:56:15.551Z"
   - **(3)** The maximum amount of a civil penalty for a violation under this subsection shall be $100,000.
   - **(4)** In determining the amount of the penalty, the Secretary shall take into account the nature, circumstances, extent, and gravity of the violation committed and, with respect to the violator, the degree of culpability, the history of prior offenses, the ability to pay, and such other matters as justice may require.
   - **(5)** The Secretary may compromise, modify, or remit, with or without conditions, any civil penalty imposed under this section.
+
+In General
+
+Permitted Work
+
+Workday Limit.—
+
+In general
+
+Calculation
+
+Exceptions for Warranty Work.—
+
+In general
+
+Citizenship requirement
+
+Recordkeeping
+
+In general
+
+Civil penalty
+
+Continuing violations
+
+Determination of amount
+
+Compromise, modification, and remittal
+
+## Source Credit
+
+*(Added [Pub. L. 109–241, title III, § 312(a)](https://www.govinfo.gov/link/plaw/109/public/241), July 11, 2006, [120 Stat. 530](https://www.govinfo.gov/link/statute/120/530); amended [Pub. L. 115–232, div. C, title XXXV, § 3546(g)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2326](https://www.govinfo.gov/link/statute/132/2326).)*

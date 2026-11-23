@@ -3,9 +3,10 @@ title: "Section 719i - Supplemental enforcement authority"
 usc_title: 15
 usc_section: "719i"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 719i"
-generated_at: "2026-03-30T02:54:08.120Z"
+generated_at: "2026-11-23T20:26:03.913Z"
+status: "active"
 ---
 
 # § 719i. Supplemental enforcement authority
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:08.120Z"
   - **(2)** bring a civil action in accordance with subsection (c).
 - **(b)** Any order issued under subsection (a) shall state with reasonable specificity the nature of the violation and a time of compliance, not to exceed 30 days, which the officer or agency, as the case may be, determines is reasonable, taking into account the seriousness of the violation and any good faith efforts to comply with applicable requirements.
 - **(c)** Upon a request of such officer or agency, as the case may be, the Attorney General may commence a civil action for appropriate relief, including a permanent or temporary injunction or a civil penalty not to exceed $25,000 per day for violations of the compliance order issued under subsection (a). Any action under this subsection may be brought in any district court of the United States for the district in which the defendant is located, resides, or is doing business, and such court shall have jurisdiction to restrain such violation, require compliance, or impose such penalty or give ancillary relief.
+
+## Source Credit
+
+*([Pub. L. 94–586, § 11](https://www.govinfo.gov/link/plaw/94/public/586), Oct. 22, 1976, [90 Stat. 2914](https://www.govinfo.gov/link/statute/90/2914).)*

@@ -3,9 +3,10 @@ title: "Section 8014 - Expansion of existing mechanisms to combat IUU fishing"
 usc_title: 16
 usc_section: "8014"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 8014"
-generated_at: "2026-03-30T02:54:23.081Z"
+generated_at: "2026-11-23T20:26:20.866Z"
+status: "active"
 ---
 
 # § 8014. Expansion of existing mechanisms to combat IUU fishing
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:23.081Z"
   - **(4)** Including counter-IUU fishing exercises in the annual at-sea exercises conducted by the Department of Defense, in coordination with the United States Coast Guard.
   - **(5)** Creating partnerships similar to the Oceania Maritime Security Initiative and the Africa Maritime Law Enforcement Partnership in other priority regions.
 - **(b)** The Director of National Intelligence, in conjunction with other agencies, as appropriate, shall develop an enterprise approach to appropriately share information and data within the United States Government or with other countries or nongovernmental organizations, or the private sector, as appropriate, on IUU fishing and other connected transnational organized illegal activity occurring in priority regions and elsewhere, including big data analytics and machine learning.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. C, title XXXV, § 3544](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2003](https://www.govinfo.gov/link/statute/133/2003).)*

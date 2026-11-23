@@ -3,9 +3,10 @@ title: "Section 1206a - Reserve component members unable to perform duties when 
 usc_title: 10
 usc_section: "1206a"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1206a"
-generated_at: "2026-03-30T02:53:38.115Z"
+generated_at: "2026-11-23T20:25:51.282Z"
+status: "active"
 ---
 
 # § 1206a. Reserve component members unable to perform duties when ordered to active duty: disability system processing
@@ -15,3 +16,15 @@ generated_at: "2026-03-30T02:53:38.115Z"
   - **(1)** physical standards for retention due to a preexisting condition not aggravated during the period of active duty; or
   - **(2)** medical or dental standards for deployment due to a preexisting condition not aggravated during the period of active duty.
 - **(c)** Notwithstanding subsection (a), any benefit under chapter 55 of this title received by a member described in subsection (a) or a dependent of such member before or during the period of active duty shall not be subject to recoupment or otherwise affected.
+
+Members Released From Active Duty Within
+
+Days
+
+Applicable Reasons for Release
+
+Savings Provision for Medical Care Provided While on Active Duty
+
+## Source Credit
+
+*(Added [Pub. L. 108–375, div. A, title V, § 521(a)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1887](https://www.govinfo.gov/link/statute/118/1887).)*

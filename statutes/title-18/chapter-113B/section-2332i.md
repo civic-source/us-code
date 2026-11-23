@@ -3,9 +3,10 @@ title: "Section 2332i - Acts of nuclear terrorism"
 usc_title: 18
 usc_section: "2332i"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2332i"
-generated_at: "2026-03-30T02:54:16.503Z"
+generated_at: "2026-11-23T20:26:08.603Z"
+status: "active"
 ---
 
 # § 2332i. Acts of nuclear terrorism
@@ -53,3 +54,23 @@ generated_at: "2026-03-30T02:54:16.503Z"
   - **(12)** “United States corporation or legal entity” means any corporation or other entity organized under the laws of the United States or any State, Commonwealth, territory, possession or district of the United States;
   - **(13)** “vessel” has the meaning given that term in section 1502(19) of title 33 ; 1 and
   - **(14)** “vessel of the United States” has the meaning given that term in section 70502 of title 46 .
+
+Offenses.—
+
+In general
+
+Threats
+
+Attempts and conspiracies
+
+Jurisdiction
+
+Penalties
+
+Nonapplicability
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 114–23, title VIII, § 811(a)](https://www.govinfo.gov/link/plaw/114/public/23), June 2, 2015, [129 Stat. 309](https://www.govinfo.gov/link/statute/129/309).)*

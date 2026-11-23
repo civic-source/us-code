@@ -3,9 +3,10 @@ title: "Section 7305 - Additional powers"
 usc_title: 15
 usc_section: "7305"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 7305"
-generated_at: "2026-03-30T02:54:08.221Z"
+generated_at: "2026-11-23T20:26:04.448Z"
+status: "active"
 ---
 
 # § 7305. Additional powers
@@ -19,3 +20,7 @@ In order to support Teams in carrying out this chapter, the Director may—
   - **(5)** accept and use gifts of money and other property, to the extent provided in advance in appropriations Acts;
   - **(6)** make contracts with nonprofit entities to carry out studies related to purpose, functions, and authorities of the Teams; and
   - **(7)** provide nongovernmental members of the Team reasonable compensation for time spent carrying out activities under this chapter.
+
+## Source Credit
+
+*([Pub. L. 107–231, § 6](https://www.govinfo.gov/link/plaw/107/public/231), Oct. 1, 2002, [116 Stat. 1474](https://www.govinfo.gov/link/statute/116/1474).)*

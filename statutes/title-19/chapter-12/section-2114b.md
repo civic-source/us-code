@@ -3,9 +3,10 @@ title: "Section 2114b - Provisions relating to international trade in services"
 usc_title: 19
 usc_section: "2114b"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2114b"
-generated_at: "2026-03-30T02:54:24.664Z"
+generated_at: "2026-11-23T20:26:10.907Z"
+status: "active"
 ---
 
 # § 2114b. Provisions relating to international trade in services
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:24.664Z"
   - **(3)** On not less than a biennial basis beginning in 1986, the Secretary shall prepare a report which analyzes the information collected under paragraph (1). Such report shall be submitted to the Congress and to the President by not later than the date that is 120 days after the close of the period covered by the report.
   - **(4)** The Secretary of Commerce shall carry out the provisions of this subsection from funds otherwise made available to him which may be used for such purposes.
   - **(5)** For purposes of this section, the term “services” means economic activities whose outputs are other than tangible goods. Such term includes, but is not limited to, banking, insurance, transportation, postal and delivery services, communications and data processing, retail and wholesale trade, advertising, accounting, construction, design and engineering, management consulting, real estate, professional services, entertainment, education, health care, and tourism.
+
+## Source Credit
+
+*([Pub. L. 98–573, title III, § 306(a)](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 3008](https://www.govinfo.gov/link/statute/98/3008); [Pub. L. 105–277, div. A, § 101(h) [title VI, § 633(c)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–480](https://www.govinfo.gov/link/statute/112/2681), 2681–524.)*

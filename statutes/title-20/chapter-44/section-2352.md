@@ -3,9 +3,10 @@ title: "Section 2352 - Distribution of funds for postsecondary education program
 usc_title: 20
 usc_section: "2352"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 2352"
-generated_at: "2026-03-30T02:54:48.175Z"
+generated_at: "2026-11-23T20:26:14.705Z"
+status: "active"
 ---
 
 # § 2352. Distribution of funds for postsecondary education programs
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:48.175Z"
 - **(c)**
   - **(1)** No institution or consortium shall receive an allocation under this section in an amount that is less than $50,000.
   - **(2)** Any amounts that are not distributed by reason of paragraph (1) shall be redistributed to eligible institutions or consortia in accordance with this section.
+
+## Source Credit
+
+*([Pub. L. 88–210, title I, § 132](https://www.govinfo.gov/link/plaw/88/public/210), as added [Pub. L. 109–270, § 1(b)](https://www.govinfo.gov/link/plaw/109/public/270), Aug. 12, 2006, [120 Stat. 730](https://www.govinfo.gov/link/statute/120/730).)*

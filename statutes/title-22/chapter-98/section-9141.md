@@ -3,9 +3,10 @@ title: "Section 9141 - Authorization for judicial training on international pare
 usc_title: 22
 usc_section: "9141"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9141"
-generated_at: "2026-03-30T02:55:05.461Z"
+generated_at: "2026-11-23T20:26:32.755Z"
+status: "active"
 ---
 
 # § 9141. Authorization for judicial training on international parental child abduction
@@ -21,3 +22,9 @@ generated_at: "2026-03-30T02:55:05.461Z"
 - **(c)**
   - **(1)** There is authorized to be appropriated to the Secretary of State $1,000,000 for each of the fiscal years 2015 and 2016 to carry out subsection (a).
   - **(2)** Amounts appropriated for the activities set forth in subsection (a) shall be used pursuant to the authorization and requirements under this section.
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 113–150, title III, § 302](https://www.govinfo.gov/link/plaw/113/public/150), Aug. 8, 2014, [128 Stat. 1822](https://www.govinfo.gov/link/statute/128/1822).)*

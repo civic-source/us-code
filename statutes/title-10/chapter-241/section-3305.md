@@ -3,9 +3,10 @@ title: "Section 3305 - Pre-award debriefings"
 usc_title: 10
 usc_section: "3305"
 chapter: 241
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 3305"
-generated_at: "2026-03-30T02:53:38.191Z"
+generated_at: "2026-11-23T20:25:51.823Z"
+status: "active"
 ---
 
 # § 3305. Pre-award debriefings
@@ -19,3 +20,19 @@ generated_at: "2026-03-30T02:53:38.191Z"
   - **(3)** reasonable responses to relevant questions posed by the debriefed offeror as to whether source selection procedures set forth in the solicitation, applicable regulations, and other applicable authorities were followed by the executive agency.
 - **(e)** The debriefing conducted under subsections (a) and (b) may not disclose the number or identity of other offerors and shall not disclose information about the content, ranking, or evaluation of other offerors’ proposals.
 - **(f)** The contracting officer shall include a summary of any debriefing conducted under this section in the contract file.
+
+Request for Debriefing
+
+When Debriefing to Be Conducted
+
+Precondition for Post-award Debriefing
+
+Information to Be Provided
+
+Information Not to Be Disclosed
+
+Summary to Be Included in File
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1816(c)(2)(E)](https://www.govinfo.gov/link/plaw/116/public/283), (7), Jan. 1, 2021, [134 Stat. 4182](https://www.govinfo.gov/link/statute/134/4182), 4183; [Pub. L. 117–81, div. A, title XVII, § 1701(b)(6)(B)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2133](https://www.govinfo.gov/link/statute/135/2133).)*

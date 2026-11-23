@@ -3,12 +3,17 @@ title: "Section 6516 - Peer review of certifying agents"
 usc_title: 7
 usc_section: "6516"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6516"
-generated_at: "2026-03-30T02:53:42.432Z"
+generated_at: "2026-11-23T20:25:41.711Z"
+status: "active"
 ---
 
 # § 6516. Peer review of certifying agents
 
 - **(a)** In determining whether to approve an application for accreditation submitted under section 6514 of this title , the Secretary shall consider a report concerning such applicant that shall be prepared by a peer review panel established under subsection (b).
 - **(b)** To assist the Secretary in evaluating applications under section 6514 of this title , the Secretary may establish a panel of not less than three persons who have expertise in organic farming and handling methods, to evaluate the State governing official or private person that is seeking accreditation as a certifying agent under such section. Not less than two members of such panel shall be persons who are not employees of the Department of Agriculture or of the applicable State government.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XXI, § 2117](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3945](https://www.govinfo.gov/link/statute/104/3945).)*

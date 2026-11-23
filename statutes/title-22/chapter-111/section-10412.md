@@ -3,9 +3,10 @@ title: "Section 10412 - Designation of senior official for Department of Defense
 usc_title: 22
 usc_section: "10412"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 10412"
-generated_at: "2026-03-30T02:55:05.477Z"
+generated_at: "2026-11-23T20:26:32.822Z"
+status: "active"
 ---
 
 # § 10412. Designation of senior official for Department of Defense activities relating to, and implementation plan for, the AUKUS partnership
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:05.477Z"
     - **(F)** Processes for the protection of privately held intellectual property, including patents.
     - **(G)** Recommended updates to other title 10 authorities or regulatory, policy, or process frameworks.
 - **(c)** Not later than 60 days after the date on which the plan required by subsection (b) is submitted, and semiannually thereafter not later than April 1 and October 1 each year through 2029, the senior civilian official designated under subsection (a) shall provide the congressional defense committees and the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate with a briefing on the status of all Department activities to implement the AUKUS partnership.
+
+## Source Credit
+
+*([Pub. L. 118–31, div. A, title XIII, § 1332](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 505](https://www.govinfo.gov/link/statute/137/505).)*

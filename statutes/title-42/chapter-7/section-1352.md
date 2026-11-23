@@ -3,9 +3,10 @@ title: "Section 1352 - State plans for aid to permanently and totally disabled"
 usc_title: 42
 usc_section: "1352"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1352"
-generated_at: "2026-03-30T02:56:10.927Z"
+generated_at: "2026-11-23T20:27:21.046Z"
+status: "active"
 ---
 
 # § 1352. State plans for aid to permanently and totally disabled
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:10.927Z"
 - **(b)** The Secretary shall approve any plan which fulfills the conditions specified in subsection (a), except that he shall not approve any plan which imposes, as a condition of eligibility for aid to the permanently and totally disabled under the plan—
   - **(1)** Any residence requirement which excludes any resident of the State who has resided therein five years during the nine years immediately preceding the application for aid to the permanently and totally disabled and has resided therein continuously for one year immediately preceding the application;
   - **(2)** Any citizenship requirement which excludes any citizen of the United States.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XIV, § 1402, as added Aug. 28, 1950, ch. 809, title III, pt. 5, § 351, [64 Stat. 555](https://www.govinfo.gov/link/statute/64/555); amended 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631](https://www.govinfo.gov/link/statute/67/631); Aug. 1, 1956, ch. 836, title III, § 314(b), [70 Stat. 850](https://www.govinfo.gov/link/statute/70/850); [Pub. L. 87–543, title I](https://www.govinfo.gov/link/plaw/87/public/543), §§ 104(a)(3)(I), 106(a)(3), July 25, 1962, [76 Stat. 185](https://www.govinfo.gov/link/statute/76/185), 188; [Pub. L. 89–97, title IV, § 403(d)](https://www.govinfo.gov/link/plaw/89/public/97) July 30, 1965, [79 Stat. 418](https://www.govinfo.gov/link/statute/79/418); [Pub. L. 90–248, title II](https://www.govinfo.gov/link/plaw/90/public/248), §§ 210(a)(4), 213(a)(3), Jan. 2, 1968, [81 Stat. 896](https://www.govinfo.gov/link/statute/81/896), 898; [Pub. L. 92–603, title IV](https://www.govinfo.gov/link/plaw/92/public/603), §§ 405(c), 406(c), 407(c), 410(c), 413(c), Oct. 30, 1972, [86 Stat. 1488](https://www.govinfo.gov/link/statute/86/1488), 1489, 1491, 1492; [Pub. L. 98–369, div. B, title VI, § 2651(g)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1150](https://www.govinfo.gov/link/statute/98/1150); [Pub. L. 104–193, title I, § 108(h)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2169](https://www.govinfo.gov/link/statute/110/2169).)*

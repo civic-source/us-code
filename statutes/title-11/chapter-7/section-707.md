@@ -3,9 +3,10 @@ title: "Section 707 - Dismissal of a case or conversion to a case under chapter 
 usc_title: 11
 usc_section: "707"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 707"
-generated_at: "2026-03-30T02:53:53.880Z"
+generated_at: "2026-11-23T20:25:55.380Z"
+status: "active"
 ---
 
 # § 707. Dismissal of a case or conversion to a case under chapter 11 or 13
@@ -102,3 +103,11 @@ generated_at: "2026-03-30T02:53:53.880Z"
     - **(B)** the term “drug trafficking crime” has the meaning given such term in section 924(c)(2) of title 18 .
   - **(2)** Except as provided in paragraph (3), after notice and a hearing, the court, on a motion by the victim of a crime of violence or a drug trafficking crime, may when it is in the best interest of the victim dismiss a voluntary case filed under this chapter by a debtor who is an individual if such individual was convicted of such crime.
   - **(3)** The court may not dismiss a case under paragraph (2) if the debtor establishes by a preponderance of the evidence that the filing of a case under this chapter is necessary to satisfy a claim for a domestic support obligation.
+
+Effective Date
+
+Application of Amendments
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2606](https://www.govinfo.gov/link/statute/92/2606); [Pub. L. 98–353, title III](https://www.govinfo.gov/link/plaw/98/public/353), §§ 312, 475, July 10, 1984, [98 Stat. 355](https://www.govinfo.gov/link/statute/98/355), 381; [Pub. L. 99–554, title II, § 219](https://www.govinfo.gov/link/plaw/99/public/554), Oct. 27, 1986, [100 Stat. 3100](https://www.govinfo.gov/link/statute/100/3100); [Pub. L. 105–183, § 4(b)](https://www.govinfo.gov/link/plaw/105/public/183), June 19, 1998, [112 Stat. 518](https://www.govinfo.gov/link/statute/112/518); [Pub. L. 109–8, title I, § 102(a)](https://www.govinfo.gov/link/plaw/109/public/8), (f), Apr. 20, 2005, [119 Stat. 27](https://www.govinfo.gov/link/statute/119/27), 33; [Pub. L. 110–438, § 2](https://www.govinfo.gov/link/plaw/110/public/438), Oct. 20, 2008, [122 Stat. 5000](https://www.govinfo.gov/link/statute/122/5000); [Pub. L. 111–320, title II, § 202(a)](https://www.govinfo.gov/link/plaw/111/public/320), Dec. 20, 2010, [124 Stat. 3509](https://www.govinfo.gov/link/statute/124/3509); [Pub. L. 111–327, § 2(a)(25)](https://www.govinfo.gov/link/plaw/111/public/327), Dec. 22, 2010, [124 Stat. 3560](https://www.govinfo.gov/link/statute/124/3560); [Pub. L. 113–295, div. B, title I, § 104(b)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4064](https://www.govinfo.gov/link/statute/128/4064).)*

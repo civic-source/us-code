@@ -3,9 +3,10 @@ title: "Section 1566a - Voting assistance: voter assistance offices"
 usc_title: 10
 usc_section: "1566a"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1566a"
-generated_at: "2026-03-30T02:53:38.130Z"
+generated_at: "2026-11-23T20:25:51.390Z"
+status: "active"
 ---
 
 # § 1566a. Voting assistance: voter assistance offices
@@ -36,3 +37,21 @@ generated_at: "2026-03-30T02:53:38.130Z"
   - **(1)** The term “absent uniformed services voter” has the meaning given that term in section 107(1) of the Uniformed and Overseas Citizens Absentee Voting Act ( 42 U.S.C. 1973ff–6(1) ). 1
   - **(2)** The term “Federal office” has the meaning given that term in section 107(3) of the Uniformed and Overseas Citizens Absentee Voting Act ( 42 U.S.C. 1973ff–6(3) ). 1
   - **(3)** The term “Presidential designee” means the official designated by the President under section 101(a) of the Uniformed and Overseas Citizens Absentee Voting Act ( 42 U.S.C. 1973ff(a) ). 1
+
+Designation of Offices on Military Installations as Voter Assistance Offices
+
+Covered Individuals
+
+Timing of Provision of Assistance
+
+Outreach
+
+Authority To Designate Voting Assistance Offices as Voter Registration Agency on Military Installations
+
+Regulations
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 111–84, div. A, title V, § 583(b)(1)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2328](https://www.govinfo.gov/link/statute/123/2328); amended [Pub. L. 111–383, div. A, title X, § 1075(b)(21)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4370](https://www.govinfo.gov/link/statute/124/4370); [Pub. L. 113–291, div. A, title V, § 592](https://www.govinfo.gov/link/plaw/113/public/291), title X, § 1071(e)(2), Dec. 19, 2014, [128 Stat. 3395](https://www.govinfo.gov/link/statute/128/3395), 3509.)*

@@ -3,12 +3,17 @@ title: "Section 3417 - Authorization of appropriations"
 usc_title: 7
 usc_section: "3417"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 3417"
-generated_at: "2026-03-30T02:53:42.403Z"
+generated_at: "2026-11-23T20:25:41.600Z"
+status: "active"
 ---
 
 # § 3417. Authorization of appropriations
 
 There are hereby authorized to be appropriated out of any money in the Treasury not otherwise appropriated such funds as are necessary to carry out the provisions of this chapter. The funds so appropriated shall not be available for payment of the expenses or expenditures of the Council in administering any provisions of any order issued pursuant to the terms of this chapter.
 
+
+## Source Credit
+
+*([Pub. L. 95–113, title XVII, § 1719](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 1040](https://www.govinfo.gov/link/statute/91/1040).)*

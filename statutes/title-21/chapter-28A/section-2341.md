@@ -3,9 +3,10 @@ title: "Section 2341 - Definitions"
 usc_title: 21
 usc_section: "2341"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 2341"
-generated_at: "2026-03-30T02:54:54.312Z"
+generated_at: "2026-11-23T20:26:27.913Z"
+status: "active"
 ---
 
 # § 2341. Definitions
@@ -40,3 +41,7 @@ In this chapter:
     - **(A)** a United States citizen or an alien lawfully admitted for permanent residence to the United States;
     - **(B)** an entity organized under the laws of the United States or of any jurisdiction within the United States, including a foreign branch of such an entity; or
     - **(C)** any person in the United States.
+
+## Source Credit
+
+*([Pub. L. 118–50, div. E, § 3003](https://www.govinfo.gov/link/plaw/118/public/50), Apr. 24, 2024, [138 Stat. 935](https://www.govinfo.gov/link/statute/138/935).)*

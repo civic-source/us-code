@@ -3,9 +3,10 @@ title: "Section 104 - Compensation for injuries or sickness"
 usc_title: 26
 usc_section: "104"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 104"
-generated_at: "2026-03-30T02:55:27.622Z"
+generated_at: "2026-11-23T20:26:45.329Z"
+status: "active"
 ---
 
 # § 104. Compensation for injuries or sickness
@@ -39,3 +40,15 @@ generated_at: "2026-03-30T02:55:27.622Z"
 - **(d)**
   - **(1)** For exclusion from employee’s gross income of employer contributions to accident and health plans, see section 106.
   - **(2)** For exclusion of part of disability retirement pay from the application of subsection (a)(4) of this section, see section 1403 of title 10 , United States Code (relating to career compensation laws).
+
+In general
+
+Exception
+
+In general
+
+Exception
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 30; [Pub. L. 86–723, § 51](https://www.govinfo.gov/link/plaw/86/public/723), Sept. 8, 1960, [74 Stat. 847](https://www.govinfo.gov/link/statute/74/847); [Pub. L. 87–792, § 7(d)](https://www.govinfo.gov/link/plaw/87/public/792), Oct. 10, 1962, [76 Stat. 829](https://www.govinfo.gov/link/statute/76/829); [Pub. L. 94–455, title V, § 505(b)](https://www.govinfo.gov/link/plaw/94/public/455), (e)(1), title XIX, § 1901(a)(18), Oct. 4, 1976, [90 Stat. 1567](https://www.govinfo.gov/link/statute/90/1567), 1568, 1766; [Pub. L. 96–465, title II, § 2206(e)(1)](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2162](https://www.govinfo.gov/link/statute/94/2162); [Pub. L. 97–473, title I, § 101(a)](https://www.govinfo.gov/link/plaw/97/public/473), Jan. 14, 1983, [96 Stat. 2605](https://www.govinfo.gov/link/statute/96/2605); [Pub. L. 101–239, title VII, § 7641(a)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2379](https://www.govinfo.gov/link/statute/103/2379); [Pub. L. 104–188, title I, § 1605(a)](https://www.govinfo.gov/link/plaw/104/public/188) –(c), Aug. 20, 1996, [110 Stat. 1838](https://www.govinfo.gov/link/statute/110/1838); [Pub. L. 104–191, title III, § 311(b)](https://www.govinfo.gov/link/plaw/104/public/191), Aug. 21, 1996, [110 Stat. 2053](https://www.govinfo.gov/link/statute/110/2053); [Pub. L. 107–134, title I, § 113(a)](https://www.govinfo.gov/link/plaw/107/public/134), Jan. 23, 2002, [115 Stat. 2435](https://www.govinfo.gov/link/statute/115/2435); [Pub. L. 114–14, § 2](https://www.govinfo.gov/link/plaw/114/public/14), May 22, 2015, [129 Stat. 198](https://www.govinfo.gov/link/statute/129/198); [Pub. L. 115–141, div. U, title IV, § 401(a)(2)(A)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1184](https://www.govinfo.gov/link/statute/132/1184).)*

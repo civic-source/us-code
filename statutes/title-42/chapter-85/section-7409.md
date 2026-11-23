@@ -3,9 +3,10 @@ title: "Section 7409 - National primary and secondary ambient air quality standa
 usc_title: 42
 usc_section: "7409"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7409"
-generated_at: "2026-03-30T02:56:11.295Z"
+generated_at: "2026-11-23T20:27:22.839Z"
+status: "active"
 ---
 
 # § 7409. National primary and secondary ambient air quality standards
@@ -25,3 +26,11 @@ generated_at: "2026-03-30T02:56:11.295Z"
     - **(A)** The Administrator shall appoint an independent scientific review committee composed of seven members including at least one member of the National Academy of Sciences, one physician, and one person representing State air pollution control agencies.
     - **(B)** Not later than January 1, 1980 , and at five-year intervals thereafter, the committee referred to in subparagraph (A) shall complete a review of the criteria published under section 7408 of this title and the national primary and secondary ambient air quality standards promulgated under this section and shall recommend to the Administrator any new national ambient air quality standards and revisions of existing criteria and standards as may be appropriate under section 7408 of this title and subsection (b) of this section.
     - **(C)** Such committee shall also (i) advise the Administrator of areas in which additional knowledge is required to appraise the adequacy and basis of existing, new, or revised national ambient air quality standards, (ii) describe the research efforts necessary to provide the required information, (iii) advise the Administrator on the relative contribution to air pollution concentrations of natural as well as anthropogenic activity, and (iv) advise the Administrator of any adverse public health, welfare, social, economic, or energy effects which may result from various strategies for attainment and maintenance of such national ambient air quality standards.
+
+Report
+
+Submission to Congress; Comments; Authorization
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 109, as added [Pub. L. 91–604, § 4(a)](https://www.govinfo.gov/link/plaw/91/public/604), Dec. 31, 1970, [84 Stat. 1679](https://www.govinfo.gov/link/statute/84/1679); amended [Pub. L. 95–95, title I, § 106](https://www.govinfo.gov/link/plaw/95/public/95), Aug. 7, 1977, [91 Stat. 691](https://www.govinfo.gov/link/statute/91/691).)*

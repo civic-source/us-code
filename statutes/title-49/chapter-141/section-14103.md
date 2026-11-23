@@ -3,12 +3,21 @@ title: "Section 14103 - Loading and unloading motor vehicles"
 usc_title: 49
 usc_section: "14103"
 chapter: 141
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 14103"
-generated_at: "2026-03-30T02:56:19.331Z"
+generated_at: "2026-11-23T20:27:34.753Z"
+status: "active"
 ---
 
 # § 14103. Loading and unloading motor vehicles
 
 - **(a)** Whenever a shipper or receiver of property requires that any person who owns or operates a motor vehicle transporting property in interstate commerce (whether or not such transportation is subject to jurisdiction under subchapter I of chapter 135) be assisted in the loading or unloading of such vehicle, the shipper or receiver shall be responsible for providing such assistance or shall compensate the owner or operator for all costs associated with securing and compensating the person or persons providing such assistance.
 - **(b)** It shall be unlawful to coerce or attempt to coerce any person providing transportation of property by motor vehicle for compensation in interstate commerce (whether or not such transportation is subject to jurisdiction under subchapter I of chapter 135) to load or unload any part of such property onto or from such vehicle or to employ or pay one or more persons to load or unload any part of such property onto or from such vehicle; except that this subsection shall not be construed as making unlawful any activity which is not unlawful under the National Labor Relations Act or the Act of March 23, 1932 ( 47 Stat. 70 ; 29 U.S.C. 101 et seq.), commonly known as the Norris-LaGuardia Act.
+
+Shipper Responsible for Assisting
+
+Coercion Prohibited
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 891](https://www.govinfo.gov/link/statute/109/891).)*

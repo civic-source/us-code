@@ -3,9 +3,10 @@ title: "Section 4974 - Repealed. Pub. L. 103–82, title III, § 329 , Sept. 21,
 usc_title: 42
 usc_section: "4974"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4974"
-generated_at: "2026-03-30T02:56:11.212Z"
+generated_at: "2026-11-23T20:27:22.433Z"
+status: "repealed"
 ---
 
 # § 4974. Repealed. Pub. L. 103–82, title III, § 329 , Sept. 21, 1993 , 107 Stat. 902

@@ -3,9 +3,10 @@ title: "Section 9655 - Engagement with investors"
 usc_title: 22
 usc_section: "9655"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9655"
-generated_at: "2026-03-30T02:55:05.471Z"
+generated_at: "2026-11-23T20:26:32.793Z"
+status: "active"
 ---
 
 # § 9655. Engagement with investors
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:05.471Z"
   - **(9)** partner with private sector entities that provide access to capital and expertise; and
   - **(10)** identify and screen new investment partners.
 - **(c)** The Corporation shall coordinate with the United States Agency for International Development and other agencies and departments, as necessary, on projects and programs supported by the Corporation that include technical assistance.
+
+## Source Credit
+
+*([Pub. L. 115–254, div. F, title IV, § 1445](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3506](https://www.govinfo.gov/link/statute/132/3506).)*

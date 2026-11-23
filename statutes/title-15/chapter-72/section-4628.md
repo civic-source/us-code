@@ -3,12 +3,17 @@ title: "Section 4628 - Department of Energy oversight of cooperative agreements 
 usc_title: 15
 usc_section: "4628"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 4628"
-generated_at: "2026-03-30T02:54:08.200Z"
+generated_at: "2026-11-23T20:26:04.342Z"
+status: "active"
 ---
 
 # § 4628. Department of Energy oversight of cooperative agreements relating to Initiative
 
 - **(a)** If the Secretary of Energy desires an opportunity to disapprove or require the modification of any agreement under section 4627 of this title , the agreement shall provide a 90-day period within which such action may be taken, beginning on the date the agreement is submitted to the Secretary.
 - **(b)** Each national laboratory shall maintain a record of all agreements entered into under this section.
+
+## Source Credit
+
+*([Pub. L. 100–180, div. C, title I, § 3148](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1244](https://www.govinfo.gov/link/statute/101/1244).)*

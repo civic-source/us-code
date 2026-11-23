@@ -3,9 +3,10 @@ title: "Section 31301 - Definitions"
 usc_title: 49
 usc_section: "31301"
 chapter: 313
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 31301"
-generated_at: "2026-03-30T02:56:19.360Z"
+generated_at: "2026-11-23T20:27:34.961Z"
+status: "active"
 ---
 
 # § 31301. Definitions
@@ -44,3 +45,111 @@ In this chapter—
     - **(G)** any other similar violation of a State or local law on motor vehicle traffic control (except a parking violation) that the Secretary designates by regulation as serious.
   - **(14)** “State” means a State of the United States and the District of Columbia.
   - **(15)** “United States” means the States of the United States and the District of Columbia.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 31301(1) | 49 App.:2716(1), (13). | Oct. 27, 1986 , Pub. L. 99–570, § 12019(1) –(4), (6)–(15), 100 Stat. 3207–187 , 3207–188. |
+| 31301(2) | 49 App.:2716(3). |  |
+| 31301(3) | 49 App.:2716(4). |  |
+| 31301(4) | 49 App.:2716(6). |  |
+| 31301(5) | 49 App.:2716(7). |  |
+| 31301(6) | 49 App.:2716(2). |  |
+| 31301(7) | 49 App.:2716(8). |  |
+| 31301(8) | 49 App.:2716(9). |  |
+| 31301(9) | 49 App.:2716(10). |  |
+| 31301(10) | 49 App.:2716(11). |  |
+| 31301(11) | 49 App.:2716(5). | Oct. 27, 1986 , Pub. L. 99–570, § 12019(5) , 100 Stat. 3207–188 ; Apr. 2, 1987 , Pub. L. 100–17, § 133(c)(2) , 101 Stat. 172 ; Dec. 18, 1991 , Pub. L. 102–240, § 4010 , 105 Stat. 2156 . |
+| 31301(12) | 49 App.:2716(12). |  |
+| 31301(13) | 49 App.:2716(14). |  |
+| 31301(14) | 49 App.:2716(15). |  |
+
+
+Historical and Revision Notes
+
+31301(1)
+
+Oct. 27, 1986
+
+Pub. L. 99–570, § 12019(1)
+
+100 Stat. 3207–187
+
+31301(2)
+
+31301(3)
+
+31301(4)
+
+31301(5)
+
+31301(6)
+
+31301(7)
+
+31301(8)
+
+31301(9)
+
+31301(10)
+
+31301(11)
+
+Oct. 27, 1986
+
+Pub. L. 99–570, § 12019(5)
+
+100 Stat. 3207–188
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 133(c)(2)
+
+101 Stat. 172
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 4010
+
+105 Stat. 2156
+
+31301(12)
+
+31301(13)
+
+31301(14)
+
+Study.—
+
+In general
+
+Requirements
+
+Report.—
+
+In general
+
+Elements
+
+Implementation
+
+Accelerated Licensing Procedures
+
+Definitions
+
+Commercial driver’s license
+
+State
+
+Veteran
+
+In General
+
+Membership
+
+Report
+
+Funding
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1014](https://www.govinfo.gov/link/statute/108/1014); [Pub. L. 105–178, title IV, § 4011(a)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 407](https://www.govinfo.gov/link/statute/112/407); [Pub. L. 106–159, title II, § 201(a)(3)](https://www.govinfo.gov/link/plaw/106/public/159), (c), Dec. 9, 1999, [113 Stat. 1759](https://www.govinfo.gov/link/statute/113/1759), 1760; [Pub. L. 112–141, div. C, title II, § 32203(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 784](https://www.govinfo.gov/link/statute/126/784).)*

@@ -3,9 +3,10 @@ title: "Section 1628 - Assignments by Regional Corporations of rights to receive
 usc_title: 43
 usc_section: "1628"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1628"
-generated_at: "2026-03-30T02:55:57.482Z"
+generated_at: "2026-11-23T20:27:06.335Z"
+status: "active"
 ---
 
 # § 1628. Assignments by Regional Corporations of rights to receive payments from Fund
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:57.482Z"
 - **(a)** Notwithstanding the provision of section 3727 of title 31 , the Secretary is authorized to recognize validly executed assignments made by Regional Corporations of their rights to receive payments from the Alaska Native Fund. Such assignments shall only be recognized to the extent that the Regional Corporation involved is not required to distribute funds pursuant to subsection (j) or (m) of section 1606 of this title .
 - **(b)** The Secretary shall not recognize any assignment under this section which does not provide that the United States reserves the right to assert against the assignee and successors of the assignee, any setoff or counterclaim which the United States has against the assignor Corporation.
 - **(c)** No stockholder of any Regional or Village Corporation shall have any claim against the Secretary or the United States as the result of any assignment duly recognized by the Secretary pursuant to this section.
+
+## Source Credit
+
+*([Pub. L. 92–203, § 31](https://www.govinfo.gov/link/plaw/92/public/203), as added [Pub. L. 95–178, § 4](https://www.govinfo.gov/link/plaw/95/public/178), Nov. 15, 1977, [91 Stat. 1370](https://www.govinfo.gov/link/statute/91/1370).)*

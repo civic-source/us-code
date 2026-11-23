@@ -3,9 +3,10 @@ title: "Section 1441 - Financing Corporation"
 usc_title: 12
 usc_section: "1441"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1441"
-generated_at: "2026-03-30T02:53:53.392Z"
+generated_at: "2026-11-23T20:25:58.830Z"
+status: "active"
 ---
 
 # § 1441. Financing Corporation
@@ -74,7 +75,24 @@ generated_at: "2026-03-30T02:53:53.392Z"
     - **(E)** Of the net earnings for any year of a bank on whose behalf an investment is made under subparagraph (A)(i), such amount as is necessary to make the purchases of stock required under subparagraph (A)(ii) shall be placed in a reserve account (established in such manner as the Director shall prescribe by regulations) the balance in which shall be available only for such purchases.
   - **(7)** For purposes of paragraph (3), the term “undivided profits” means retained earnings minus the sum of—
     - **(A)** that portion required to be added to reserves maintained pursuant to the first two sentences of section 1436 of this title ; and
-    - **(B)** the dollar amounts held by the respective Federal Home Loan Banks in special dividend stabilization reserves on December 31, 1985 , as determined under the following table: Bank Dollar amount Federal Home Loan Bank of Boston $3.2 million Federal Home Loan Bank of New York 7.7 million Federal Home Loan Bank of Pittsburgh 5.2 million Federal Home Loan Bank of Atlanta 12.3 million Federal Home Loan Bank of Cincinnati 5.9 million Federal Home Loan Bank of Indianapolis 37.4 million Federal Home Loan Bank of Chicago 6.0 million Federal Home Loan Bank of Des Moines 32.7 million Federal Home Loan Bank of Dallas 45.0 million Federal Home Loan Bank of Topeka 13.7 million Federal Home Loan Bank of San Francisco 21.9 million Federal Home Loan Bank of Seattle 33.6 million
+    - **(B)** the dollar amounts held by the respective Federal Home Loan Banks in special dividend stabilization reserves on December 31, 1985 , as determined under the following table:
+
+|  | Col 2 |
+| --- | --- |
+| Bank | Dollar amount |
+| Federal Home Loan Bank of Boston | $3.2 million |
+| Federal Home Loan Bank of New York | 7.7 million |
+| Federal Home Loan Bank of Pittsburgh | 5.2 million |
+| Federal Home Loan Bank of Atlanta | 12.3 million |
+| Federal Home Loan Bank of Cincinnati | 5.9 million |
+| Federal Home Loan Bank of Indianapolis | 37.4 million |
+| Federal Home Loan Bank of Chicago | 6.0 million |
+| Federal Home Loan Bank of Des Moines | 32.7 million |
+| Federal Home Loan Bank of Dallas | 45.0 million |
+| Federal Home Loan Bank of Topeka | 13.7 million |
+| Federal Home Loan Bank of San Francisco | 21.9 million |
+| Federal Home Loan Bank of Seattle | 33.6 million |
+
 - **(e)**
   - **(1)** The aggregate amount of obligations of the Financing Corporation which may be outstanding at any time (as determined by the Director) shall not exceed the lesser of—
     - **(A)** an amount equal to the greater of—
@@ -132,3 +150,92 @@ generated_at: "2026-03-30T02:53:53.392Z"
   - **(1)** The term “Directorate” means the directorate established in the manner provided in subsection (b)(1) to manage the Financing Corporation.
   - **(2)** The term “net earnings” means net earnings without reduction for any chargeoffs or expenses incurred by a Bank in connection with the purchase of capital stock of the Financing Corporation or the purchase of stock of the Funding Corporation required by the Thrift Depositor Protection Oversight Board under subsections (e) and (f) of section 1441b of this title .
   - **(3)** The term “insured depository institution” has the same meaning as in section 1813 of this title 5 5 So in original. Probably should be followed by a period.
+
+|  | Col 2 |
+| --- | --- |
+| Bank | Percentage |
+| Federal Home Loan Bank of Boston | 1.8629 |
+| Federal Home Loan Bank of New York | 9.1006 |
+| Federal Home Loan Bank of Pittsburgh | 4.2702 |
+| Federal Home Loan Bank of Atlanta | 14.4007 |
+| Federal Home Loan Bank of Cincinnati | 8.2653 |
+| Federal Home Loan Bank of Indianapolis | 5.2863 |
+| Federal Home Loan Bank of Chicago | 9.6886 |
+| Federal Home Loan Bank of Des Moines | 6.9301 |
+| Federal Home Loan Bank of Dallas | 8.8181 |
+| Federal Home Loan Bank of Topeka | 5.2706 |
+| Federal Home Loan Bank of San Francisco | 19.9644 |
+| Federal Home Loan Bank of Seattle | 6.1422 |
+
+
+Federal Home Loan Bank of Boston
+
+Federal Home Loan Bank of New York
+
+Federal Home Loan Bank of Pittsburgh
+
+Federal Home Loan Bank of Atlanta
+
+Federal Home Loan Bank of Cincinnati
+
+Federal Home Loan Bank of Indianapolis
+
+Federal Home Loan Bank of Chicago
+
+Federal Home Loan Bank of Des Moines
+
+Federal Home Loan Bank of Dallas
+
+Federal Home Loan Bank of Topeka
+
+Federal Home Loan Bank of San Francisco
+
+Federal Home Loan Bank of Seattle
+
+Federal Home Loan Bank of Boston
+
+Federal Home Loan Bank of New York
+
+Federal Home Loan Bank of Pittsburgh
+
+Federal Home Loan Bank of Atlanta
+
+Federal Home Loan Bank of Cincinnati
+
+Federal Home Loan Bank of Indianapolis
+
+Federal Home Loan Bank of Chicago
+
+Federal Home Loan Bank of Des Moines
+
+Federal Home Loan Bank of Dallas
+
+Federal Home Loan Bank of Topeka
+
+Federal Home Loan Bank of San Francisco
+
+Federal Home Loan Bank of Seattle
+
+BIF-assessable deposits
+
+SAIF-assessable deposit
+
+In general
+
+Termination of certain assessment rates
+
+In general
+
+Regulations
+
+Rule of construction
+
+In General
+
+Notice of Completion of Net New Borrowing by Financing Corporation
+
+Savings Provision
+
+## Source Credit
+
+*(July 22, 1932, ch. 522, § 21, as added [Pub. L. 100–86, title III, § 302](https://www.govinfo.gov/link/plaw/100/public/86), Aug. 10, 1987, [101 Stat. 585](https://www.govinfo.gov/link/statute/101/585); amended [Pub. L. 101–73, title V, § 512](https://www.govinfo.gov/link/plaw/101/public/73), title VII, §§ 701(b)(2), 713, Aug. 9, 1989, [103 Stat. 406](https://www.govinfo.gov/link/statute/103/406), 412, 419; [Pub. L. 102–233, title I, § 104](https://www.govinfo.gov/link/plaw/102/public/233), title III, § 302(b), Dec. 12, 1991, [105 Stat. 1762](https://www.govinfo.gov/link/statute/105/1762), 1767; [Pub. L. 102–550, title XVI, § 1611(c)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 4090](https://www.govinfo.gov/link/statute/106/4090); [Pub. L. 104–208, div. A, title II, § 2703(a)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–485](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 109–173, § 9(d)(2)](https://www.govinfo.gov/link/plaw/109/public/173), Feb. 15, 2006, [119 Stat. 3616](https://www.govinfo.gov/link/statute/119/3616); [Pub. L. 110–289, div. A, title II, § 1204(6)](https://www.govinfo.gov/link/plaw/110/public/289), (8), (12), July 30, 2008, [122 Stat. 2786](https://www.govinfo.gov/link/statute/122/2786).)*

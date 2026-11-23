@@ -3,9 +3,10 @@ title: "Section 1603 - Registration of lobbyists"
 usc_title: 2
 usc_section: "1603"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1603"
-generated_at: "2026-03-30T02:53:04.815Z"
+generated_at: "2026-11-23T20:25:28.979Z"
+status: "active"
 ---
 
 # § 1603. Registration of lobbyists
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:53:04.815Z"
 - **(d)** A registrant who after registration—
   - **(1)** is no longer employed or retained by a client to conduct lobbying activities, and
   - **(2)** does not anticipate any additional lobbying activities for such client,
+
+## Source Credit
+
+*([Pub. L. 104–65, § 4](https://www.govinfo.gov/link/plaw/104/public/65), Dec. 19, 1995, [109 Stat. 696](https://www.govinfo.gov/link/statute/109/696); [Pub. L. 110–81, title II](https://www.govinfo.gov/link/plaw/110/public/81), §§ 201(b)(2), (5), 207(a)(1), (b), 208, Sept. 14, 2007, [121 Stat. 742](https://www.govinfo.gov/link/statute/121/742), 747, 748; [Pub. L. 115–418, § 2(a)](https://www.govinfo.gov/link/plaw/115/public/418), Jan. 3, 2019, [132 Stat. 5440](https://www.govinfo.gov/link/statute/132/5440).)*

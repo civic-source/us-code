@@ -3,9 +3,10 @@ title: "Section 351 - Transfer to corporation controlled by transferor"
 usc_title: 26
 usc_section: "351"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 351"
-generated_at: "2026-03-30T02:55:27.666Z"
+generated_at: "2026-11-23T20:26:45.577Z"
+status: "active"
 ---
 
 # § 351. Transfer to corporation controlled by transferor
@@ -69,3 +70,27 @@ generated_at: "2026-03-30T02:55:27.666Z"
   - **(3)** For special rule in the case of an exchange described in this section but which results in a gift, see section 2501 and following.
   - **(4)** For special rule in the case of an exchange described in this section but which has the effect of the payment of compensation by the corporation or by a transferor, see section 61(a)(1).
   - **(5)** For coordination of this section with section 304, see section 304(b)(3).
+
+In general
+
+Binding contracts
+
+Section 355 rules
+
+Divisive transactions
+
+Transition rule
+
+In general
+
+Transition rule
+
+In general
+
+Binding contract
+
+Corporate transfers
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 111; [Pub. L. 89–809, title II, § 203(a)](https://www.govinfo.gov/link/plaw/89/public/809), (b), Nov. 13, 1966, [80 Stat. 1577](https://www.govinfo.gov/link/statute/80/1577); [Pub. L. 94–455, title XIX, § 1901(a)(48)(A)](https://www.govinfo.gov/link/plaw/94/public/455), (B), Oct. 4, 1976, [90 Stat. 1772](https://www.govinfo.gov/link/statute/90/1772); [Pub. L. 96–589, § 5(e)](https://www.govinfo.gov/link/plaw/96/public/589), Dec. 24, 1980, [94 Stat. 3406](https://www.govinfo.gov/link/statute/94/3406); [Pub. L. 97–248, title II, § 226(a)(1)(B)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 491](https://www.govinfo.gov/link/statute/96/491); [Pub. L. 100–647, title I, § 1018(d)(5)(G)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3580](https://www.govinfo.gov/link/statute/102/3580); [Pub. L. 101–239, title VII, § 7203(a)](https://www.govinfo.gov/link/plaw/101/public/239), (b), Dec. 19, 1989, [103 Stat. 2333](https://www.govinfo.gov/link/statute/103/2333); [Pub. L. 101–508, title XI, § 11704(a)(3)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–518](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 105–34, title X](https://www.govinfo.gov/link/plaw/105/public/34), §§ 1002(a), 1012(c)(1), 1014(a), Aug. 5, 1997, [111 Stat. 909](https://www.govinfo.gov/link/statute/111/909), 916, 919; [Pub. L. 105–206, title VI, § 6010(c)(3)(A)](https://www.govinfo.gov/link/plaw/105/public/206), (e)(1), July 22, 1998, [112 Stat. 813](https://www.govinfo.gov/link/statute/112/813), 814; [Pub. L. 105–277, div. J, title IV, § 4003(f)(1)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–910](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 106–36, title III, § 3001(d)(1)](https://www.govinfo.gov/link/plaw/106/public/36), June 25, 1999, [113 Stat. 183](https://www.govinfo.gov/link/statute/113/183); [Pub. L. 107–147, title IV, § 417(9)](https://www.govinfo.gov/link/plaw/107/public/147), Mar. 9, 2002, [116 Stat. 56](https://www.govinfo.gov/link/statute/116/56); [Pub. L. 108–357, title VIII, § 899(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1649](https://www.govinfo.gov/link/statute/118/1649); [Pub. L. 109–135, title IV, § 403(kk)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2632](https://www.govinfo.gov/link/statute/119/2632).)*

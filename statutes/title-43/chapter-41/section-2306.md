@@ -3,9 +3,10 @@ title: "Section 2306 - Special provisions"
 usc_title: 43
 usc_section: "2306"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 2306"
-generated_at: "2026-03-30T02:55:57.496Z"
+generated_at: "2026-11-23T20:27:06.403Z"
+status: "active"
 ---
 
 # § 2306. Special provisions
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:57.496Z"
   - **(1)** the Federal Land Policy and Management Act of 1976 ( 43 U.S.C. 1701 et seq.); or
   - **(2)** the Federal Land Exchange Facilitation Act of 1988 ( 102 Stat. 1086 ) or the amendments made by that Act.
 - **(d)** Nothing in this chapter 1 1 See References in Text note below. creates a right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its agencies, its officers, or any other person.
+
+## Source Credit
+
+*([Pub. L. 106–248, title II, § 207](https://www.govinfo.gov/link/plaw/106/public/248), July 25, 2000, [114 Stat. 617](https://www.govinfo.gov/link/statute/114/617); [Pub. L. 115–141, div. O, title III, § 302(8)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1076](https://www.govinfo.gov/link/statute/132/1076).)*

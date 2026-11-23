@@ -3,9 +3,10 @@ title: "Section 379g - Definitions"
 usc_title: 21
 usc_section: "379g"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 379g"
-generated_at: "2026-03-30T02:54:54.265Z"
+generated_at: "2026-11-23T20:26:27.715Z"
+status: "active"
 ---
 
 # § 379g. Definitions
@@ -62,3 +63,33 @@ For purposes of this subpart:
         - **(II)** an allergy that is not to an antimicrobial agent, if the diagnostic product was authorized for marketing prior to October 1, 2022 ; or
         - **(III)** infection with fungal or mycobacterial pathogens; and
     - **(B)** includes positive and negative controls required to interpret the results of a product described in subparagraph (A).
+
+Public Accountability
+
+Consultation
+
+Recommendations
+
+Performance Report
+
+Fiscal Report
+
+“The Congress finds that—
+
+“Congress finds that—
+
+“The Congress finds that—
+
+Performance Report
+
+Fiscal Report
+
+First Report
+
+Second Report
+
+Committees
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 735, as added [Pub. L. 102–571, title I, § 103](https://www.govinfo.gov/link/plaw/102/public/571), Oct. 29, 1992, [106 Stat. 4491](https://www.govinfo.gov/link/statute/106/4491); amended [Pub. L. 105–115, title I](https://www.govinfo.gov/link/plaw/105/public/115), §§ 102, 125(b)(2)(M), Nov. 21, 1997, [111 Stat. 2298](https://www.govinfo.gov/link/statute/111/2298), 2326; [Pub. L. 107–188, title V, § 503](https://www.govinfo.gov/link/plaw/107/public/188), June 12, 2002, [116 Stat. 688](https://www.govinfo.gov/link/statute/116/688); [Pub. L. 110–85, title I, § 102](https://www.govinfo.gov/link/plaw/110/public/85), Sept. 27, 2007, [121 Stat. 825](https://www.govinfo.gov/link/statute/121/825); [Pub. L. 111–148, title VII, § 7002(f)(3)(A)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 818](https://www.govinfo.gov/link/statute/124/818); [Pub. L. 112–144, title I, § 102](https://www.govinfo.gov/link/plaw/112/public/144), title IV, § 407, July 9, 2012, [126 Stat. 996](https://www.govinfo.gov/link/statute/126/996), 1039; [Pub. L. 117–180, div. F, title I, § 1002](https://www.govinfo.gov/link/plaw/117/public/180), Sept. 30, 2022, [136 Stat. 2140](https://www.govinfo.gov/link/statute/136/2140).)*

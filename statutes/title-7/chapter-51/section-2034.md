@@ -3,9 +3,10 @@ title: "Section 2034 - Assistance for community food projects"
 usc_title: 7
 usc_section: "2034"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2034"
-generated_at: "2026-03-30T02:53:42.374Z"
+generated_at: "2026-11-23T20:25:41.472Z"
+status: "active"
 ---
 
 # § 2034. Assistance for community food projects
@@ -66,3 +67,11 @@ generated_at: "2026-03-30T02:53:42.374Z"
   - **(1)** a description of any activity funded;
   - **(2)** the degree of success of each activity funded in achieving hunger-free community goals; and
   - **(3)** the degree of success in improving the long-term capacity of a community to address food and agriculture problems related to hunger or access to healthy food.
+
+In general
+
+Report
+
+## Source Credit
+
+*([Pub. L. 88–525, § 25](https://www.govinfo.gov/link/plaw/88/public/525), as added [Pub. L. 104–127, title IV, § 401(h)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1027](https://www.govinfo.gov/link/statute/110/1027); amended [Pub. L. 107–171, title IV, § 4125(a)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 326](https://www.govinfo.gov/link/statute/116/326); [Pub. L. 110–234, title IV](https://www.govinfo.gov/link/plaw/110/public/234), §§ 4402, 4406(a)(7), May 22, 2008, [122 Stat. 1135](https://www.govinfo.gov/link/statute/122/1135), 1141; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, §§ 4402, 4406(a)(7), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1896, 1902; [Pub. L. 110–380, § 1(a)](https://www.govinfo.gov/link/plaw/110/public/380), Oct. 8, 2008, [122 Stat. 4080](https://www.govinfo.gov/link/statute/122/4080); [Pub. L. 113–79, title IV, § 4026](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 810](https://www.govinfo.gov/link/statute/128/810); [Pub. L. 115–334, title IV](https://www.govinfo.gov/link/plaw/115/public/334), §§ 4017, 4022(8), Dec. 20, 2018, [132 Stat. 4648](https://www.govinfo.gov/link/statute/132/4648), 4654.)*

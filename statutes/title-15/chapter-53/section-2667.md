@@ -3,9 +3,10 @@ title: "Section 2667 - Radon in schools"
 usc_title: 15
 usc_section: "2667"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2667"
-generated_at: "2026-03-30T02:54:08.180Z"
+generated_at: "2026-11-23T20:26:04.242Z"
+status: "active"
 ---
 
 # § 2667. Radon in schools
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:08.180Z"
   - **(6)** The Administrator is authorized to select, from high-risk areas identified in paragraph (2), school buildings for purposes of enabling the Administrator to undertake diagnostic and remedial efforts to reduce the levels of radon in such school buildings. Such diagnostic and remedial efforts shall be carried out with a view to developing technology and expertise for the purpose of making such technology and expertise available to any local educational agency and the several States.
   - **(7)** On or before October 1, 1989 , the Administrator shall submit to the Congress a status report with respect to action taken by the Administrator in conducting the study required by this section, including the results of the Administrator’s diagnostic and remedial work. On or before October 1, 1989 , the Administrator shall submit a final report setting forth the results of the study conducted pursuant to this section, including the results of the Administrator’s diagnostic and remedial work, and the recommendations of the Administrator.
 - **(b)** For the purpose of carrying out the provisions of paragraph (6) of subsection (a), there are authorized to be appropriated such sums, not to exceed $500,000, as may be necessary. For the purpose of carrying out the provisions of this section other than such paragraph (6), there are authorized to be appropriated such sums, not to exceed $1,000,000, as may be necessary.
+
+## Source Credit
+
+*([Pub. L. 94–469, title III, § 307](https://www.govinfo.gov/link/plaw/94/public/469), as added [Pub. L. 100–551, § 1(a)](https://www.govinfo.gov/link/plaw/100/public/551), Oct. 28, 1988, [102 Stat. 2761](https://www.govinfo.gov/link/statute/102/2761).)*

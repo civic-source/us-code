@@ -3,9 +3,10 @@ title: "Section 704 - Use of leave; regulations"
 usc_title: 10
 usc_section: "704"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 704"
-generated_at: "2026-03-30T02:53:38.074Z"
+generated_at: "2026-11-23T20:25:51.045Z"
+status: "active"
 ---
 
 # § 704. Use of leave; regulations
@@ -27,3 +28,38 @@ generated_at: "2026-03-30T02:53:38.074Z"
   - **(3)** In this subsection:
     - **(A)** The term “court” has the meaning given that term in section 1408(a) of this title .
     - **(B)** The term “child support” has the meaning given that term in section 459(i) of the Social Security Act ( 42 U.S.C. 659(i) ).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 704(a) 704(b) | 37:31a(a) (5th sentence). 37:31a(a) (6th sentence). 37:33(e). 37:32(f) (last 8 words). | Aug. 9, 1946, ch. 391 , §§ 3(a) (5th and 6th sentences), 4(e), 60 Stat. 963 ; Aug. 4, 1947, ch. 475, § 1 (5th par.), 61 Stat. 749 . Aug. 9, 1946, ch. 931, § 2(f) (last 8 words), 60 Stat. 963 . |
+
+
+Facilitating Granting of Leave for Attendance at Hearings
+
+Regulations
+
+Covered hearings
+
+Definitions
+
+Historical and Revision Notes
+
+704(a)
+
+704(b)
+
+Aug. 9, 1946, ch. 391
+
+60 Stat. 963
+
+Aug. 4, 1947, ch. 475, § 1
+
+61 Stat. 749
+
+Aug. 9, 1946, ch. 931, § 2(f)
+
+60 Stat. 963
+
+## Source Credit
+
+*(Added [Pub. L. 87–649, § 3(1)](https://www.govinfo.gov/link/plaw/87/public/649), Sept. 7, 1962, [76 Stat. 493](https://www.govinfo.gov/link/statute/76/493); amended [Pub. L. 108–375, div. A, title X, § 1084(k)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2064](https://www.govinfo.gov/link/statute/118/2064).)*

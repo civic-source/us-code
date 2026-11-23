@@ -3,9 +3,10 @@ title: "Section 44102 - Registration requirements"
 usc_title: 49
 usc_section: "44102"
 chapter: 441
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44102"
-generated_at: "2026-03-30T02:56:19.379Z"
+generated_at: "2026-11-23T20:27:35.126Z"
+status: "active"
 ---
 
 # § 44102. Registration requirements
@@ -19,3 +20,44 @@ generated_at: "2026-03-30T02:56:19.379Z"
     - **(A)** the United States Government; or
     - **(B)** a State, the District of Columbia, a territory or possession of the United States, or a political subdivision of a State, territory, or possession.
 - **(b)** In carrying out subsection (a)(1)(C) of this section, the Secretary of Transportation shall define “based and primarily used in the United States”.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 44102(a)(1) | 49 App.:1401(b) (1st sentence cl. (1)). | Aug. 23, 1958 , Pub. L. 85–726, § 501(b) , 72 Stat. 772 ; restated Nov. 9, 1977 , Pub. L. 95–163, § 14 , 91 Stat. 1283 ; Mar. 8, 1978 , Pub. L. 95–241 , 92 Stat. 119 . |
+| 44102(a)(2) | 49 App.:1401(b) (1st sentence cl. (2)). |  |
+| 44102(b) | 49 App.:1401(b) (last sentence). |  |
+
+
+Eligibility
+
+Duty To Define Certain Term
+
+Historical and Revision Notes
+
+44102(a)(1)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 501(b)
+
+72 Stat. 772
+
+Nov. 9, 1977
+
+Pub. L. 95–163, § 14
+
+91 Stat. 1283
+
+Mar. 8, 1978
+
+Pub. L. 95–241
+
+92 Stat. 119
+
+44102(a)(2)
+
+44102(b)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1161](https://www.govinfo.gov/link/statute/108/1161).)*

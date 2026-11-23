@@ -3,9 +3,10 @@ title: "Section 1172 - Transportation of gambling devices as unlawful; exception
 usc_title: 15
 usc_section: "1172"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1172"
-generated_at: "2026-03-30T02:54:08.128Z"
+generated_at: "2026-11-23T20:26:03.972Z"
+status: "active"
 ---
 
 # § 1172. Transportation of gambling devices as unlawful; exceptions; authority of Federal Trade Commission
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:08.128Z"
 - **(c)** This section does not prohibit the transport of a gambling device to a place in a State or a possession of the United States on a vessel on a voyage, if—
   - **(1)** use of the gambling device on a portion of that voyage is, by reason of subsection (b) of section 1175 of this title , not a violation of that section; and
   - **(2)** the gambling device remains on board that vessel while in that State.
+
+## Source Credit
+
+*(Jan. 2, 1951, ch. 1194, § 2, [64 Stat. 1134](https://www.govinfo.gov/link/statute/64/1134); [Pub. L. 87–840, § 4](https://www.govinfo.gov/link/plaw/87/public/840), Oct. 18, 1962, [76 Stat. 1075](https://www.govinfo.gov/link/statute/76/1075); [Pub. L. 102–251, title II, § 202(a)](https://www.govinfo.gov/link/plaw/102/public/251), Mar. 9, 1992, [106 Stat. 61](https://www.govinfo.gov/link/statute/106/61).)*

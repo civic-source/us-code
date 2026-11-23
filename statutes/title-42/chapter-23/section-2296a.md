@@ -3,9 +3,10 @@ title: "Section 2296a - Remedial action program"
 usc_title: 42
 usc_section: "2296a"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2296a"
-generated_at: "2026-03-30T02:56:11.161Z"
+generated_at: "2026-11-23T20:27:22.130Z"
+status: "active"
 ---
 
 # § 2296a. Remedial action program
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:11.161Z"
       - **(i)** The Secretary shall determine as of December 31, 2008 , whether the amount authorized to be appropriated pursuant to section 2296a–2 of this title , when considered with the $6.25 per dry short ton limit on reimbursement, exceeds the amount reimbursable to the licensees under subsection (b)(2).
       - **(ii)** If the Secretary determines under clause (i) that there is an excess, the Secretary may allow reimbursement in excess of $6.25 per dry short ton on a prorated basis at such sites where the costs reimbursable under subsection (b)(1) exceed the $6.25 per dry short ton limitation described in paragraph (2) of such subsection.
   - **(3)** Notwithstanding the requirement of paragraph (2)(A) that byproduct material be located at the site on October 24, 1992 , byproduct material moved from the site of the Edgemont Mill to a disposal site as the result of the decontamination, decommissioning, reclamation, and other remedial action of such mill shall be eligible for reimbursement to the extent eligible under paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 102–486, title X, § 1001](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2946](https://www.govinfo.gov/link/statute/106/2946); [Pub. L. 104–259, § 3(a)](https://www.govinfo.gov/link/plaw/104/public/259), Oct. 9, 1996, [110 Stat. 3173](https://www.govinfo.gov/link/statute/110/3173); [Pub. L. 105–388, § 11(a)](https://www.govinfo.gov/link/plaw/105/public/388), Nov. 13, 1998, [112 Stat. 3484](https://www.govinfo.gov/link/statute/112/3484); [Pub. L. 106–317, § 1](https://www.govinfo.gov/link/plaw/106/public/317), Oct. 19, 2000, [114 Stat. 1277](https://www.govinfo.gov/link/statute/114/1277); [Pub. L. 107–222, § 1(a)](https://www.govinfo.gov/link/plaw/107/public/222), Aug. 21, 2002, [116 Stat. 1336](https://www.govinfo.gov/link/statute/116/1336).)*

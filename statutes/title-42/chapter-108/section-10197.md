@@ -3,9 +3,10 @@ title: "Section 10197 - Research and development on disposal of high-level radio
 usc_title: 42
 usc_section: "10197"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10197"
-generated_at: "2026-03-30T02:56:11.383Z"
+generated_at: "2026-11-23T20:27:23.221Z"
+status: "active"
 ---
 
 # § 10197. Research and development on disposal of high-level radioactive waste
@@ -56,3 +57,7 @@ generated_at: "2026-03-30T02:56:11.383Z"
     - **(A)** 5 years after the date on which the initial repository begins operation; or
     - **(B)** at such time as the Secretary determines that the continued operation of a test and evaluation facility is not necessary for research, development, and demonstration purposes;
   - **(4)** Notwithstanding any other provisions of this subsection, as soon as practicable following any determination by the Secretary, with the concurrence of the Commission, that the test and evaluation facility is unsuitable for continued operation, the Secretary shall take such actions as are necessary to remove from such site any radioactive material placed on such site as a result of testing and evaluation activities conducted under this section. Such requirement may be waived if the Secretary, with the concurrence of the Commission, finds that short-term testing and evaluation activities using radioactive material will not endanger the public health and safety.
+
+## Source Credit
+
+*([Pub. L. 97–425, title II, § 217](https://www.govinfo.gov/link/plaw/97/public/425), Jan. 7, 1983, [96 Stat. 2249](https://www.govinfo.gov/link/statute/96/2249).)*

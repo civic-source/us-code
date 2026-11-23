@@ -3,9 +3,10 @@ title: "Section 621 - Rulemaking on loud commercials required"
 usc_title: 47
 usc_section: "621"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 621"
-generated_at: "2026-03-30T02:56:24.525Z"
+generated_at: "2026-11-23T20:27:28.948Z"
+status: "active"
 ---
 
 # § 621. Rulemaking on loud commercials required
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:24.525Z"
 - **(d)** For purposes of this section—
   - **(1)** the term “television broadcast station” has the meaning given such term in section 325 of the Communications Act of 1934 ( 47 U.S.C. 325 ); and
   - **(2)** the terms “cable operator” and “multi-channel video programming distributor” have the meanings given such terms in section 602 of Communications Act of 1934 ( 47 U.S.C. 522 ).
+
+## Source Credit
+
+*([Pub. L. 111–311, § 2](https://www.govinfo.gov/link/plaw/111/public/311), Dec. 15, 2010, [124 Stat. 3294](https://www.govinfo.gov/link/statute/124/3294).)*

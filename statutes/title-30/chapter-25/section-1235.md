@@ -3,9 +3,10 @@ title: "Section 1235 - State reclamation program"
 usc_title: 30
 usc_section: "1235"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1235"
-generated_at: "2026-03-30T02:55:29.398Z"
+generated_at: "2026-11-23T20:26:35.003Z"
+status: "active"
 ---
 
 # § 1235. State reclamation program
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:29.398Z"
 - **(j)** The Secretary shall require annual and other reports as may be necessary to be submitted by each State administering the approved State reclamation program with funds provided under this subchapter. Such reports shall include that information which the Secretary deems necessary to fulfill his responsibilities under this subchapter.
 - **(k)** Indian tribes having within their jurisdiction eligible lands pursuant to section 1234 of this title or from which coal is produced, shall be considered as a “State” for the purposes of this subchapter except for purposes of subsection (c) of this section with respect to the Navajo, Hopi and Crow Indian Tribes.
 - **(l)** No State shall be liable under any provision of Federal law for any costs or damages as a result of action taken or omitted in the course of carrying out a State abandoned mine reclamation plan approved under this section. This subsection shall not preclude liability for cost or damages as a result of gross negligence or intentional misconduct by the State. For purposes of the preceding sentence, reckless, willful, or wanton misconduct shall constitute gross negligence.
+
+## Source Credit
+
+*([Pub. L. 95–87, title IV, § 405](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 459](https://www.govinfo.gov/link/statute/91/459); [Pub. L. 100–71, title I](https://www.govinfo.gov/link/plaw/100/public/71), July 11, 1987, [101 Stat. 416](https://www.govinfo.gov/link/statute/101/416); [Pub. L. 101–508, title VI](https://www.govinfo.gov/link/plaw/101/public/508), §§ 6007, 6012(d)(1), (2), Nov. 5, 1990, [104 Stat. 1388–295](https://www.govinfo.gov/link/statute/104/1388), 1388–298.)*

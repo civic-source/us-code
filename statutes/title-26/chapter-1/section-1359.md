@@ -3,9 +3,10 @@ title: "Section 1359 - Disposition of qualifying vessels"
 usc_title: 26
 usc_section: "1359"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1359"
-generated_at: "2026-03-30T02:55:27.769Z"
+generated_at: "2026-11-23T20:26:46.090Z"
+status: "active"
 ---
 
 # § 1359. Disposition of qualifying vessels
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:27.769Z"
   - **(1)** the statutory period for the assessment of any deficiency, for any taxable year in which any part of the gain is realized, attributable to such gain shall not expire prior to the expiration of 3 years from the date the Secretary is notified by such operator (in such manner as the Secretary may by regulations prescribe) of the replacement qualifying vessel or of an intention not to replace, and
   - **(2)** such deficiency may be assessed before the expiration of such 3-year period notwithstanding the provisions of section 6212(c) or the provisions of any other law or rule of law which would otherwise prevent such assessment.
 - **(e)** In the case of any replacement qualifying vessel purchased by the qualifying vessel operator which resulted in the nonrecognition of any part of the gain realized as the result of a sale or other disposition of a qualifying vessel, the basis shall be the cost of the replacement qualifying vessel decreased in the amount of the gain not so recognized; and if the property purchased consists of more than one piece of property, the basis determined under this sentence shall be allocated to the purchased properties in proportion to their respective costs.
+
+## Source Credit
+
+*(Added [Pub. L. 108–357, title II, § 248(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1456](https://www.govinfo.gov/link/statute/118/1456).)*

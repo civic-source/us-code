@@ -3,9 +3,10 @@ title: "Section 16378 - Authorization of appropriations; contract authority"
 usc_title: 42
 usc_section: "16378"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16378"
-generated_at: "2026-03-30T02:56:11.485Z"
+generated_at: "2026-11-23T20:27:23.677Z"
+status: "active"
 ---
 
 # § 16378. Authorization of appropriations; contract authority
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.485Z"
 - **(b)**
   - **(1)** Notwithstanding any other provision of law, execution of a term sheet by the Secretary of a Federal credit instrument that uses amounts made available under the CIFIA program shall impose on the United States a contractual obligation to fund the Federal credit investment.
   - **(2)** Amounts made available to carry out the CIFIA program for a fiscal year shall be available for obligation on October 1 of the fiscal year.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 999H](https://www.govinfo.gov/link/plaw/109/public/58), as added [Pub. L. 117–58, div. D, title III, § 40304(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1000](https://www.govinfo.gov/link/statute/135/1000).)*

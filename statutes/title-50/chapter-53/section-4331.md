@@ -3,9 +3,10 @@ title: "Section 4331 - Payment of debts"
 usc_title: 50
 usc_section: "4331"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4331"
-generated_at: "2026-03-30T02:56:26.273Z"
+generated_at: "2026-11-23T20:27:31.100Z"
+status: "active"
 ---
 
 # § 4331. Payment of debts
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:26.273Z"
 - **(g)** Debt claims shall be paid in the following order of priority: (1) Wage and salary claims, not to exceed $600; (2) claims entitled to priority under sections 3713(a) and 9309 of title 31, except as provided in subsection (h) hereof, (3) all other claims for services rendered, for expenses incurred in connection with such services, for rent, for goods and materials delivered to the debtor, and for payments made to the debtor for goods or services not received by the claimant; (4) all other debt claims. No payment shall be made to claimants within a subordinate class unless the money from which, in accordance with subsection (d) hereof, payment may be made permits payment in full of all allowed claims in every prior class.
 - **(h)** No debt of any kind shall be entitled to priority under any law of the United States or any State, Territory, or possession thereof, or the District of Columbia, solely by reason of becoming a debt due or owing to the United States as a result of its acquisition by the Alien Property Custodian.
 - **(i)** The sole relief and remedy available to any person seeking satisfaction of a debt claim out of any property or interest which shall have been vested in or transferred to the Alien Property Custodian (other than any property or interest acquired by the United States prior to December 18, 1941 ), or the proceeds thereof, shall be the relief and remedy provided in this section, and suits for the satisfaction of debt claims shall not be instituted, prosecuted, or further maintained except in conformity with this section: Provided , That no person asserting any interest, right, or title in any property or interest or proceeds acquired by the Alien Property Custodian, shall be barred from proceeding pursuant to this chapter for the return thereof, by reason of any proceeding which he may have brought pursuant to this section; nor shall any security interest asserted by the creditor in any such property or interest or proceeds be deemed to have been waived solely by reason of such proceeding. The Alien Property Custodian shall treat all debt claims now filed with him as claims filed pursuant to this section. Nothing contained in this section shall bar any person from the prosecution of any suit at law or in equity against the original debtor or against any other person who may be liable for the payment of any debt for which a claim might have been filed hereunder. No purchaser, lessee, licensee, or other transferee of any property or interest from the Alien Property Custodian shall, solely by reason of such purchase, lease, license, or transfer, become liable for the payment of any debt owed by the person who owned such property or interest prior to its vesting in or transfer to the Alien Property Custodian. Payment by the Alien Property Custodian to any debt claimant shall constitute, to the extent of payment, a discharge of the indebtedness represented by the claim.
+
+## Source Credit
+
+*(Oct. 6, 1917, ch. 106, § 34, as added Dec. 18, 1941, ch. 593, title III, § 305, as added Aug. 8, 1946, ch. 878, § 1, [60 Stat. 925](https://www.govinfo.gov/link/statute/60/925); amended June 25, 1948, ch. 646, § 32(a), [62 Stat. 991](https://www.govinfo.gov/link/statute/62/991); May 24, 1949, ch. 139, § 127, [63 Stat. 107](https://www.govinfo.gov/link/statute/63/107).)*

@@ -3,9 +3,10 @@ title: "Section 10364 - Water management improvement"
 usc_title: 42
 usc_section: "10364"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10364"
-generated_at: "2026-03-30T02:56:11.386Z"
+generated_at: "2026-11-23T20:27:23.238Z"
+status: "active"
 ---
 
 # § 10364. Water management improvement
@@ -71,4 +72,20 @@ generated_at: "2026-03-30T02:56:11.386Z"
     - **(B)** The agreements under this subsection shall be available to all Reclamation projects and programs that may benefit from project-specific or programmatic cooperative research and development.
 - **(c)** Grants or other agreements made under this section may be for the mutual benefit of the United States and the entity that is provided the grant or enters into the cooperative agreement.
 - **(d)** This section shall not supersede any existing project-specific funding authority.
-- **(e)** There is authorized to be appropriated to carry out this section $920,000,000, to remain available until expended.
+- **(e)** There is authorized to be appropriated to carry out this section $1,000,000,000, to remain available until expended.
+
+(aa) a court decree;
+
+(bb) a settlement;
+
+(cc) a law; or
+
+(dd) any combination of the authorities described in items (aa) through (cc); or
+
+(aa) the infrastructure improvement or activity was developed as part of a collaborative process by— (AA) a watershed group (as defined in section 1015 of title 16 ); or (BB) a water user and 1 or more stakeholders with diverse interests; and
+
+(bb) the majority of the benefits of the infrastructure improvement or activity, as determined by the Secretary, are for the purpose of advancing 1 or more components of an established strategy or plan to increase the reliability of water supply for consumptive and nonconsumptive ecological values.
+
+## Source Credit
+
+*([Pub. L. 111–11, title IX, § 9504](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1334](https://www.govinfo.gov/link/statute/123/1334); [Pub. L. 113–235, div. D, title II, § 203](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2311](https://www.govinfo.gov/link/statute/128/2311); [Pub. L. 114–113, div. D, title II, § 206](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2407](https://www.govinfo.gov/link/statute/129/2407); [Pub. L. 114–322, title III, § 4009(d)](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1870](https://www.govinfo.gov/link/statute/130/1870); [Pub. L. 115–244, div. A, title II, § 205(b)](https://www.govinfo.gov/link/plaw/115/public/244), Sept. 21, 2018, [132 Stat. 2906](https://www.govinfo.gov/link/statute/132/2906); [Pub. L. 116–9, title VIII, § 8501](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 826](https://www.govinfo.gov/link/statute/133/826); [Pub. L. 116–94, div. C, title II, § 203](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 2669](https://www.govinfo.gov/link/statute/133/2669); [Pub. L. 116–260, div. D, title II, § 203](https://www.govinfo.gov/link/plaw/116/public/260), div. FF, title XI, § 1106(b)–(d), Dec. 27, 2020, [134 Stat. 1363](https://www.govinfo.gov/link/statute/134/1363), 3241, 3242; [Pub. L. 117–103, div. D, title II, § 203](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 221](https://www.govinfo.gov/link/statute/136/221); [Pub. L. 117–328, div. D, title II, § 203](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 4631](https://www.govinfo.gov/link/statute/136/4631); [Pub. L. 118–42, div. D, title II, § 203](https://www.govinfo.gov/link/plaw/118/public/42), Mar. 9, 2024, [138 Stat. 194](https://www.govinfo.gov/link/statute/138/194); [Pub. L. 119–74, div. B, title II, § 203](https://www.govinfo.gov/link/plaw/119/public/74), Jan. 23, 2026, [140 Stat. 73](https://www.govinfo.gov/link/statute/140/73).)*

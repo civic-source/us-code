@@ -3,9 +3,10 @@ title: "Section 10135 - Review of repository site selection"
 usc_title: 42
 usc_section: "10135"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10135"
-generated_at: "2026-03-30T02:56:11.379Z"
+generated_at: "2026-11-23T20:27:23.207Z"
+status: "active"
 ---
 
 # § 10135. Review of repository site selection
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:56:11.379Z"
   - **(1)** continuity of session of Congress is broken only by an adjournment sine die; and
   - **(2)** the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the computation of the 90-day period referred to in subsection (c) and the 60-day period referred to in subsections (d) and (e).
 - **(g)** In considering any notice of disapproval submitted to the Congress under section 10136 or 10138 of this title, the Congress may obtain any comments of the Commission with respect to such notice of disapproval. The provision of such comments by the Commission shall not be construed as binding the Commission with respect to any licensing or authorization action concerning the repository involved.
+
+## Source Credit
+
+*([Pub. L. 97–425, title I, § 115](https://www.govinfo.gov/link/plaw/97/public/425), Jan. 7, 1983, [96 Stat. 2217](https://www.govinfo.gov/link/statute/96/2217).)*

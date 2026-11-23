@@ -3,9 +3,10 @@ title: "Section 1428 - Reciprocating states"
 usc_title: 30
 usc_section: "1428"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1428"
-generated_at: "2026-03-30T02:55:29.405Z"
+generated_at: "2026-11-23T20:26:35.045Z"
+status: "active"
 ---
 
 # § 1428. Reciprocating states
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:29.405Z"
 - **(d)** The Administrator, in consultation with the Secretary of State and the heads of other appropriate departments and agencies, shall revoke the designation of a foreign nation as a reciprocating state if the Secretary of State finds that such foreign nation no longer complies with the requirements of subsection (a). At the request of any holder of a license, permit, or equivalent authorization of such foreign nation, who obtained the license, permit, or equivalent authorization while such foreign nation was a reciprocating state, the Administrator, in consultation with the Secretary of State, may decide to recognize the license, permit, or equivalent authorization for purposes of subsection (b).
 - **(e)** The President is authorized to negotiate agreements with foreign nations necessary to implement this section.
 - **(f)** The Administrator, in consultation with the Secretary of State and the heads of other appropriate departments and agencies, shall consult with foreign nations which enact, or are preparing to enact, domestic legislation establishing an interim legal framework for exploration and commercial recovery of hard mineral resources. Such consultations shall be carried out with a view to facilitating the designation of such nations as reciprocating states and, as necessary, the negotiation of agreements with foreign nations authorized by subsection (e). In addition, the Administrator shall provide such foreign nations with information on environmental impacts of exploration and commercial recovery activities, and shall provide any technical assistance requested in designing regulatory measures to protect the environment.
+
+## Source Credit
+
+*([Pub. L. 96–283, title I, § 118](https://www.govinfo.gov/link/plaw/96/public/283), June 28, 1980, [94 Stat. 574](https://www.govinfo.gov/link/statute/94/574).)*

@@ -3,9 +3,10 @@ title: "Section 8143 - Definitions"
 usc_title: 42
 usc_section: "8143"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8143"
-generated_at: "2026-03-30T02:56:11.336Z"
+generated_at: "2026-11-23T20:27:23.005Z"
+status: "active"
 ---
 
 # § 8143. Definitions
@@ -19,3 +20,7 @@ For the purpose of this subchapter—
   - **(5)** the term “Chairman” means the Chairman of the National Endowment for the Arts;
   - **(6)** the term “Department” means the Department of Housing and Urban Development; and
   - **(7)** the term “Endowment” means the National Endowment for the Arts.
+
+## Source Credit
+
+*([Pub. L. 95–557, title VIII, § 804](https://www.govinfo.gov/link/plaw/95/public/557), Oct. 31, 1978, [92 Stat. 2122](https://www.govinfo.gov/link/statute/92/2122); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095).)*

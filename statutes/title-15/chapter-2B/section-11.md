@@ -3,9 +3,10 @@ title: "Section 11 - Credit risk retention"
 usc_title: 15
 usc_section: "11"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 11"
-generated_at: "2026-03-30T02:54:08.053Z"
+generated_at: "2026-11-23T20:26:03.538Z"
+status: "active"
 ---
 
 # § 78o–11. Credit risk retention
@@ -85,3 +86,7 @@ generated_at: "2026-03-30T02:54:08.053Z"
 - **(i)** The regulations issued under this section shall become effective—
   - **(1)** with respect to securitizers and originators of asset-backed securities backed by residential mortgages, 1 year after the date on which final rules under this section are published in the Federal Register; and
   - **(2)** with respect to securitizers and originators of all other classes of asset-backed securities, 2 years after the date on which final rules under this section are published in the Federal Register.
+
+## Source Credit
+
+*(June 6, 1934, ch. 404, title I, § 15G, as added [Pub. L. 111–203, title IX, § 941(b)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1891](https://www.govinfo.gov/link/statute/124/1891).)*

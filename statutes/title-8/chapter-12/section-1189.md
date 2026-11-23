@@ -3,9 +3,10 @@ title: "Section 1189 - Designation of foreign terrorist organizations"
 usc_title: 8
 usc_section: "1189"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1189"
-generated_at: "2026-03-30T02:53:10.484Z"
+generated_at: "2026-11-23T20:25:36.135Z"
+status: "active"
 ---
 
 # § 1189. Designation of foreign terrorist organizations
@@ -71,3 +72,7 @@ generated_at: "2026-03-30T02:53:10.484Z"
   - **(2)** the term “national security” means the national defense, foreign relations, or economic interests of the United States;
   - **(3)** the term “relevant committees” means the Committees on the Judiciary, Intelligence, and Foreign Relations of the Senate and the Committees on the Judiciary, Intelligence, and International Relations of the House of Representatives; and
   - **(4)** the term “Secretary” means the Secretary of State, in consultation with the Secretary of the Treasury and the Attorney General.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 2, § 219, as added [Pub. L. 104–132, title III, § 302(a)](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1248](https://www.govinfo.gov/link/statute/110/1248); amended [Pub. L. 104–208, div. C, title III, § 356](https://www.govinfo.gov/link/plaw/104/public/208), title VI, § 671(c)(1), Sept. 30, 1996, [110 Stat. 3009–644](https://www.govinfo.gov/link/statute/110/3009), 3009–722; [Pub. L. 107–56, title IV, § 411(c)](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 349](https://www.govinfo.gov/link/statute/115/349); [Pub. L. 108–458, title VII, § 7119(a)](https://www.govinfo.gov/link/plaw/108/public/458) –(c), Dec. 17, 2004, [118 Stat. 3801](https://www.govinfo.gov/link/statute/118/3801), 3802.)*

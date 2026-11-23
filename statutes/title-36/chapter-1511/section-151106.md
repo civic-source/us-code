@@ -3,9 +3,10 @@ title: "Section 151106 - Tax exemption"
 usc_title: 36
 usc_section: "151106"
 chapter: 1511
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 151106"
-generated_at: "2026-03-30T02:55:44.703Z"
+generated_at: "2026-11-23T20:26:58.978Z"
+status: "active"
 ---
 
 # § 151106. Tax exemption
@@ -19,3 +20,29 @@ generated_at: "2026-03-30T02:55:44.703Z"
   - **(1)** the real and personal property held by the corporation;
   - **(2)** the income from the property; and
   - **(3)** the expenditure or other use or disposition of the property and income from the property.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 151106(a), (b) | 36:5304 (words before last proviso). | June 30, 1906, ch. 3929, § 4 , 34 Stat. 805 . |
+| 151106(c) | 36:5304 (last proviso). |  |
+
+
+Real Property
+
+Personal Property
+
+Annual Report
+
+Historical and Revision Notes
+
+151106(a), (b)
+
+June 30, 1906, ch. 3929, § 4
+
+34 Stat. 805
+
+151106(c)
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1398](https://www.govinfo.gov/link/statute/112/1398).)*

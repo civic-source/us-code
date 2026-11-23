@@ -3,9 +3,10 @@ title: "Section 1354 - Alternative tax election; revocation; termination"
 usc_title: 26
 usc_section: "1354"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1354"
-generated_at: "2026-03-30T02:55:27.769Z"
+generated_at: "2026-11-23T20:26:46.088Z"
+status: "active"
 ---
 
 # § 1354. Alternative tax election; revocation; termination
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:27.769Z"
     - **(B)** Any termination under this paragraph shall be effective on and after the date of cessation.
     - **(C)** The Secretary shall prescribe such annualization and other rules as are appropriate in the case of a termination under this paragraph.
 - **(e)** If a qualifying vessel operator has made an election under subsection (a) and if such election has been terminated under subsection (d), such operator (and any successor operator) shall not be eligible to make an election under subsection (a) for any taxable year before its 5th taxable year which begins after the 1st taxable year for which such termination is effective, unless the Secretary consents to such election.
+
+## Source Credit
+
+*(Added [Pub. L. 108–357, title II, § 248(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1451](https://www.govinfo.gov/link/statute/118/1451); amended [Pub. L. 109–135, title IV, § 403(g)(4)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2624](https://www.govinfo.gov/link/statute/119/2624); [Pub. L. 114–41, title II, § 2006(a)(2)(C)](https://www.govinfo.gov/link/plaw/114/public/41), July 31, 2015, [129 Stat. 457](https://www.govinfo.gov/link/statute/129/457).)*

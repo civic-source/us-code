@@ -3,9 +3,10 @@ title: "Section 2891 - Requirements relating to contracts for provision of housi
 usc_title: 10
 usc_section: "2891"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2891"
-generated_at: "2026-03-30T02:53:38.183Z"
+generated_at: "2026-11-23T20:25:51.756Z"
+status: "active"
 ---
 
 # § 2891. Requirements relating to contracts for provision of housing units
@@ -40,3 +41,39 @@ generated_at: "2026-03-30T02:53:38.183Z"
     - **(B)** the head of the applicable housing management office does not object, in writing, to the closure.
 - **(g)** For purposes of this subchapter and subchapter IV of this chapter, housing units shall be considered as military family housing for purposes of application of Department of Defense policy implementing section 804 of the Fair Housing Act ( 42 U.S.C. 3604 ) and title III of the Americans with Disabilities Act of 1990 ( 42 U.S.C. 12181 et seq.).
 - **(h)** The Secretary concerned shall create such legal documents as may be necessary to carry out this section.
+
+In General
+
+Exclusion of Certain Employees
+
+Dispute Resolution Process
+
+Responsibility for Certain Medical Costs.—
+
+Reimbursement required under certain circumstances
+
+Review process
+
+Uniform processes and procedures
+
+Responsibility for Relocation Costs.—
+
+Permanent relocation
+
+Temporary relocation
+
+Maintenance Work Order System
+
+Applicability of Disability Laws
+
+Implementation
+
+In general
+
+Submittal of list to congress
+
+Consideration of lack of agreement in future contracts
+
+## Source Credit
+
+*(Added [Pub. L. 116–92, div. B, title XXX, § 3013(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1921](https://www.govinfo.gov/link/statute/133/1921); amended [Pub. L. 116–283, div. B, title XXVIII, § 2811(c)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4323](https://www.govinfo.gov/link/statute/134/4323); [Pub. L. 117–81, div. B, title XXVIII, § 2813(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2192](https://www.govinfo.gov/link/statute/135/2192); [Pub. L. 119–60, div. B, title XXVIII, § 2824](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1307](https://www.govinfo.gov/link/statute/139/1307).)*

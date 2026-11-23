@@ -3,9 +3,10 @@ title: "Section 8133 - Compensation in case of death"
 usc_title: 5
 usc_section: "8133"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8133"
-generated_at: "2026-03-30T02:52:56.042Z"
+generated_at: "2026-11-23T20:25:32.097Z"
+status: "active"
 ---
 
 # § 8133. Compensation in case of death
@@ -32,3 +33,66 @@ generated_at: "2026-03-30T02:52:56.042Z"
   - **(1)** the monthly pay computed under section 8114 of this title , except for increases authorized by section 8146a of this title ; or
   - **(2)** 75 percent of the monthly pay of the maximum rate of basic pay for GS–15.
 - **(f)** Notwithstanding any funeral and burial expenses paid under section 8134, there shall be paid a sum of $200 to the personal representative of a deceased employee within the meaning of section 8101(1) of this title for reimbursement of the costs of termination of the decedent’s status as an employee of the United States.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 760 (less last 23 words of 1st sentence in (B); and less (H) and (L)). | Sept. 7, 1916, ch. 458, § 10 (less last 15 words of 1st sentence in (B); and less (H) and (L)), 39 Stat. 744 . Feb. 12, 1927, ch. 110, § 3 , 44 Stat. 1087 . |
+|  |  | July 28, 1945, ch. 328 , §§ 2 (less last 24 words), 3, 59 Stat. 503 . |
+|  |  | Oct. 14, 1949, ch. 691, § 106 (less last 23 words of 1st sentence in “(B)” of (c); and less (e)), 63 Stat. 859 . |
+|  |  | Sept. 13, 1960 , Pub. L. 86–767, § 102 , 74 Stat. 906 . |
+
+| 1967 Act | Col 2 | Col 3 |
+| --- | --- | --- |
+| 8133(b) | 5 App.: 760(G) (last sentence). | July 4, 1966 , Pub. L. 89–488, § 7(a) , 80 Stat. 253 . |
+| 8133(e) | 5 App.: 760(K). | July 4, 1966 , Pub. L. 89–488, § 3(c) , 80 Stat. 252 . |
+
+
+Historical and Revision Notes
+
+Act
+
+5 U.S.C. 760
+
+Sept. 7, 1916, ch. 458, § 10
+
+39 Stat. 744
+
+Feb. 12, 1927, ch. 110, § 3
+
+44 Stat. 1087
+
+July 28, 1945, ch. 328
+
+59 Stat. 503
+
+Oct. 14, 1949, ch. 691, § 106
+
+63 Stat. 859
+
+Sept. 13, 1960
+
+Pub. L. 86–767, § 102
+
+74 Stat. 906
+
+Act
+
+8133(b)
+
+July 4, 1966
+
+Pub. L. 89–488, § 7(a)
+
+80 Stat. 253
+
+8133(e)
+
+July 4, 1966
+
+Pub. L. 89–488, § 3(c)
+
+80 Stat. 252
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 547](https://www.govinfo.gov/link/statute/80/547); [Pub. L. 90–83, § 1(62)](https://www.govinfo.gov/link/plaw/90/public/83), Sept. 11, 1967, [81 Stat. 211](https://www.govinfo.gov/link/statute/81/211); [Pub. L. 93–416](https://www.govinfo.gov/link/plaw/93/public/416), §§ 16(a), 17, 18, Sept. 7, 1974, [88 Stat. 1147](https://www.govinfo.gov/link/statute/88/1147), 1149; [Pub. L. 101–303, § 3(1)](https://www.govinfo.gov/link/plaw/101/public/303), May 29, 1990, [104 Stat. 251](https://www.govinfo.gov/link/statute/104/251).)*

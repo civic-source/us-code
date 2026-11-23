@@ -3,9 +3,10 @@ title: "Section 1416 - Monitoring, technical assistance, and enforcement"
 usc_title: 20
 usc_section: "1416"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1416"
-generated_at: "2026-03-30T02:54:48.165Z"
+generated_at: "2026-11-23T20:26:14.648Z"
+status: "active"
 ---
 
 # § 1416. Monitoring, technical assistance, and enforcement
@@ -111,3 +112,7 @@ generated_at: "2026-03-30T02:54:48.165Z"
 - **(i)** The Secretary shall—
   - **(1)** review the data collection and analysis capacity of States to ensure that data and information determined necessary for implementation of this section is collected, analyzed, and accurately reported to the Secretary; and
   - **(2)** provide technical assistance (from funds reserved under section 1411(c) of this title ), where needed, to improve the capacity of States to meet the data collection requirements.
+
+## Source Credit
+
+*([Pub. L. 91–230, title VI, § 616](https://www.govinfo.gov/link/plaw/91/public/230), as added [Pub. L. 108–446, title I, § 101](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2731](https://www.govinfo.gov/link/statute/118/2731).)*

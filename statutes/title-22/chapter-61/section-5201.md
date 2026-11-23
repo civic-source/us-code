@@ -3,9 +3,10 @@ title: "Section 5201 - Findings; determinations"
 usc_title: 22
 usc_section: "5201"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 5201"
-generated_at: "2026-03-30T02:55:05.416Z"
+generated_at: "2026-11-23T20:26:32.556Z"
+status: "active"
 ---
 
 # § 5201. Findings; determinations
@@ -19,3 +20,11 @@ generated_at: "2026-03-30T02:55:05.416Z"
   - **(6)** the PLO rededicated itself to the “continuing struggle in all its armed forms” at the Palestine National Council meeting in April 1987; and
   - **(7)** the Attorney General has stated that “various elements of the Palestine Liberation Organization and its allies and affiliates are in the thick of international terror”.
 - **(b)** Therefore, the Congress determines that the PLO and its affiliates are a terrorist organization and a threat to the interests of the United States, its allies, and to international law and should not benefit from operating in the United States.
+
+Effective Date
+
+Termination
+
+## Source Credit
+
+*([Pub. L. 100–204, title X, § 1002](https://www.govinfo.gov/link/plaw/100/public/204), Dec. 22, 1987, [101 Stat. 1406](https://www.govinfo.gov/link/statute/101/1406).)*

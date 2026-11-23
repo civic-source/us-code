@@ -3,9 +3,10 @@ title: "Section 8903c - Postal Service Health Benefits Program"
 usc_title: 5
 usc_section: "8903c"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8903c"
-generated_at: "2026-03-30T02:52:56.067Z"
+generated_at: "2026-11-23T20:25:32.243Z"
+status: "active"
 ---
 
 # § 8903c. Postal Service Health Benefits Program
@@ -135,3 +136,149 @@ generated_at: "2026-03-30T02:52:56.067Z"
       - **(i)** provisions for the notification of Postal Service annuitants and Postal Service employees about the Program, including a description of the available health benefits options, including a process for notifying Postal Service employees who become eligible for Medicare part B and Postal Service Medicare covered annuitants about their choices;
       - **(ii)** provisions for notifying Postal Service annuitants, Postal Service employees, and their family members of the requirements under subsection (e) to enroll in Medicare as a condition of eligibility to enroll in the Program; and
       - **(iii)** a process, developed in consultation with the Social Security Administration, the Centers for Medicare & Medicaid Services, and the Office, for addressing any inquiry from Postal Service annuitants and Postal Service employees about the Program or Medicare enrollment.
+
+Definitions
+
+Application
+
+Establishment of the Postal Service Health Benefits Program.—
+
+In general.—
+
+Establishment
+
+Applicability of chapter requirements to contracts
+
+Program plans and participation
+
+Coverage with equivalent benefits and cost-sharing
+
+Applicability of federal employees health benefits program requirements
+
+Application of continuation coverage
+
+Election of Coverage
+
+Requirement of Medicare Enrollment for Certain Annuitants and Their Family Members.—
+
+Medicare covered annuitants
+
+Medicare covered family members
+
+Exceptions.—
+
+In general
+
+Current postal service annuitants
+
+Current employees aged 64 and over
+
+Postal service medicare covered annuitants and family members residing abroad
+
+Postal service medicare covered annuitants and family members enrolled under va coverage
+
+Postal service medicare covered annuitants and family members eligible for ihs health services
+
+Regulations for va and ihs exceptions
+
+List of individuals residing abroad
+
+Process for information collection and dissemination
+
+Transitional Open Season.—
+
+Definitions
+
+Automatic enrollment.—
+
+In general
+
+Carriers offering multiple program plans or options
+
+Carriers not offering program plans
+
+OPM Regulations.—
+
+In general
+
+Consultation
+
+Contents
+
+Medicare Coordination.—
+
+In general
+
+Medicare part d prescription drug benefits
+
+Postal Service Contribution.—
+
+In general
+
+Weighted average calculation
+
+Weighting in computing rates for initial contract year
+
+Payment of late enrollment penalties
+
+Reserves.—
+
+Separate reserves.—
+
+In general
+
+Applicability of section 8909 to contingency reserves
+
+References
+
+Amounts to be credited
+
+Discontinuation of program plan
+
+No Effect on Existing Law
+
+Health Benefits Education Program.—
+
+Definition
+
+Establishment
+
+Requirements
+
+Information.—
+
+Information from opm
+
+Coordination with opm
+
+Navigator activities.—
+
+Activities
+
+Standards.—
+
+In general
+
+Contents
+
+Fair and impartial information and services
+
+Regulations.—
+
+In general
+
+Contents
+
+Definitions
+
+Information sharing by opm
+
+Information sharing by ssa
+
+Inter-agency agreement
+
+Report to congress
+
+## Source Credit
+
+*(Added [Pub. L. 117–108, title I, § 101(a)(1)](https://www.govinfo.gov/link/plaw/117/public/108), Apr. 6, 2022, [136 Stat. 1128](https://www.govinfo.gov/link/statute/136/1128).)*

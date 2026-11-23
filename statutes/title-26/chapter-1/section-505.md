@@ -3,9 +3,10 @@ title: "Section 505 - Additional requirements for organizations described in par
 usc_title: 26
 usc_section: "505"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 505"
-generated_at: "2026-03-30T02:55:27.712Z"
+generated_at: "2026-11-23T20:26:45.790Z"
+status: "active"
 ---
 
 # § 505. Additional requirements for organizations described in paragraph (9) or (17) of section 501(c)
@@ -33,3 +34,15 @@ generated_at: "2026-03-30T02:55:27.712Z"
     - **(A)** unless it has given notice to the Secretary, in such manner as the Secretary may by regulations prescribe, that it is applying for recognition of such status, or
     - **(B)** for any period before the giving of such notice, if such notice is given after the time prescribed by the Secretary by regulations for giving notice under this subsection.
   - **(2)** In the case of any organization in existence on July 18, 1984 , the time for giving notice under paragraph (1) shall not expire before the date 1 year after such date of the enactment.
+
+Aggregation of plans
+
+Treatment of related employers
+
+In general
+
+Treatment of certain benefits in pay status as of january 1, 1985
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title V, § 513(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 863](https://www.govinfo.gov/link/statute/98/863); amended [Pub. L. 99–514, title XI](https://www.govinfo.gov/link/plaw/99/public/514), §§ 1114(b)(16), 1151(e)(2)(B), (g)(6), (j)(3), title XVIII, §§ 1851(c), 1899A(16), Oct. 22, 1986, [100 Stat. 2452](https://www.govinfo.gov/link/statute/100/2452), 2506–2508, 2863, 2959; [Pub. L. 100–647, title I, § 1011B(a)(27)(C)](https://www.govinfo.gov/link/plaw/100/public/647), (31)(B), (32), Nov. 10, 1988, [102 Stat. 3487](https://www.govinfo.gov/link/statute/102/3487), 3488; [Pub. L. 101–140, title II](https://www.govinfo.gov/link/plaw/101/public/140), §§ 203(a)(1), (2), 204(c), Nov. 8, 1989, [103 Stat. 830](https://www.govinfo.gov/link/statute/103/830), 833; [Pub. L. 103–66, title XIII, § 13212(c)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 472](https://www.govinfo.gov/link/statute/107/472); [Pub. L. 107–16, title VI, § 611(c)(1)](https://www.govinfo.gov/link/plaw/107/public/16), June 7, 2001, [115 Stat. 97](https://www.govinfo.gov/link/statute/115/97); [Pub. L. 115–141, div. U, title IV, § 401(b)(21)(D)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1203](https://www.govinfo.gov/link/statute/132/1203).)*

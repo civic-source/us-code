@@ -3,9 +3,10 @@ title: "Section 6371e - Grants for project costs and technical assistance"
 usc_title: 42
 usc_section: "6371e"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6371e"
-generated_at: "2026-03-30T02:56:11.258Z"
+generated_at: "2026-11-23T20:27:22.669Z"
+status: "active"
 ---
 
 # § 6371e. Grants for project costs and technical assistance
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.258Z"
   - **(2)** A State may utilize up to 100 percent of the funds provided by the Secretary under this part for any fiscal year for program and technical assistance and up to 50 percent of such funds for marketing and other costs associated with leveraging of non-Federal funds for carrying out this part and may administer a continuous and consecutive application and award procedure for providing program and technical assistance under this part in accordance with regulations that the Secretary shall establish, if the State—
     - **(A)** has adopted a State plan in accordance with section 6371c of this title , the administration of which is in accordance with applicable regulations; and
     - **(B)** certifies to the Secretary that not more than 15 percent of the aggregate amount of Federal and non-Federal funds used by the State to provide program and technical assistance, implement energy conservation measures, and otherwise carry out a program pursuant to this part for the fiscal year concerned will be expended for program and technical assistance and for marketing and other costs associated with leveraging of non-Federal funds for such program.
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 396](https://www.govinfo.gov/link/plaw/94/public/163), as added [Pub. L. 95–619, title III, § 302(a)](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3245](https://www.govinfo.gov/link/statute/92/3245); amended [Pub. L. 101–440, § 6(a)](https://www.govinfo.gov/link/plaw/101/public/440), (c), (d), Oct. 18, 1990, [104 Stat. 1011](https://www.govinfo.gov/link/statute/104/1011).)*

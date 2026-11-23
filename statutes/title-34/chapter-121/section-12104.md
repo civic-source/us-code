@@ -3,9 +3,10 @@ title: "Section 12104 - Truth-in-sentencing incentive grants"
 usc_title: 34
 usc_section: "12104"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12104"
-generated_at: "2026-03-30T02:55:33.282Z"
+generated_at: "2026-11-23T20:26:50.533Z"
+status: "active"
 ---
 
 # § 12104. Truth-in-sentencing incentive grants
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:33.282Z"
 - **(b)** Notwithstanding subsection (a), a State may provide that the Governor of the State may allow for the earlier release of—
   - **(1)** a geriatric prisoner; or
   - **(2)** a prisoner whose medical condition precludes the prisoner from posing a threat to the public, but only after a public hearing in which representatives of the public and the prisoner’s victims have had an opportunity to be heard regarding a proposed release.
+
+## Source Credit
+
+*([Pub. L. 103–322, title II, § 20104](https://www.govinfo.gov/link/plaw/103/public/322), as added [Pub. L. 104–134, title I, § 101[(a)]](https://www.govinfo.gov/link/plaw/104/public/134) [title I, § 114(a)], Apr. 26, 1996, [110 Stat. 1321](https://www.govinfo.gov/link/statute/110/1321), 1321–16; renumbered title I, [Pub. L. 104–140, § 1(a)](https://www.govinfo.gov/link/plaw/104/public/140), May 2, 1996, [110 Stat. 1327](https://www.govinfo.gov/link/statute/110/1327); amended [Pub. L. 106–297, § 2](https://www.govinfo.gov/link/plaw/106/public/297), Oct. 13, 2000, [114 Stat. 1045](https://www.govinfo.gov/link/statute/114/1045).)*

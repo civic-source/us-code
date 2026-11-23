@@ -3,9 +3,10 @@ title: "Section 3172 - North Slope Haul Road"
 usc_title: 16
 usc_section: "3172"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3172"
-generated_at: "2026-03-30T02:54:23.011Z"
+generated_at: "2026-11-23T20:26:20.639Z"
+status: "active"
 ---
 
 # § 3172. North Slope Haul Road
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:23.011Z"
 - **(a)** So long as that section of the North Slope Haul Road referred to in subsection (c) is closed to public use, but not including regulated local traffic north of the Yukon River, regulated industrial traffic and regulated high occupancy buses, such regulation to occur under State law, except that the Secretary, after consultation with the Secretary of Transportation, and the Governor of Alaska shall agree on the number of vehicles and seasonality of use, such section shall be free from any and all restrictions contained in title 23, as amended or supplemented, or in any regulations thereunder. Prior to executing an agreement pursuant to this subsection, the Secretary and the Governor of Alaska shall consult with the head of any unit of local government which encompasses lands located adjacent to the route of the North Slope Haul Road. The State of Alaska shall have the authority to limit access, impose restrictions and impose tolls, notwithstanding any provision of Federal law.
 - **(b)** The removal of restrictions shall not be conditioned upon repayment by the State of Alaska to the Treasurer of the United States of any Federal-aid highway funds paid on account of the section of highway described in subsection (c), and the obligation of the State of Alaska to repay these amounts is hereby released so long as the road remains closed as set forth in subsection (a).
 - **(c)** The provisions of this section shall apply to that section of the North Slope Haul Road, which extends from the southern terminus of the Yukon River Bridge to the northern terminus of the Road at Prudhoe Bay.
+
+## Source Credit
+
+*([Pub. L. 96–487, title XI, § 1112](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2465](https://www.govinfo.gov/link/statute/94/2465).)*

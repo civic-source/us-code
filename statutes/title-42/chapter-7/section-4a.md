@@ -3,9 +3,10 @@ title: "Section 4a - State option to provide coordinated care through a health h
 usc_title: 42
 usc_section: "4a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4a"
-generated_at: "2026-03-30T02:56:11.064Z"
+generated_at: "2026-11-23T20:27:21.648Z"
+status: "active"
 ---
 
 # § 1396w–4a. State option to provide coordinated care through a health home for children with medically complex conditions
@@ -104,3 +105,7 @@ generated_at: "2026-03-30T02:56:11.064Z"
       - **(iii)** community health workers, translators, and other individuals with culturally-appropriate expertise; and
     - **(B)** be freestanding, virtual, or based at a children’s hospital, hospital, community health center, community mental health center, rural clinic, clinical practice or clinical group practice, academic health center, or any entity determined to be appropriate by the State and approved by the Secretary.
   - **(7)** The term “health team” has the meaning given such term for purposes of section 256a–1 of this title .
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XIX, § 1945A, as added [Pub. L. 116–16, § 3](https://www.govinfo.gov/link/plaw/116/public/16), Apr. 18, 2019, [133 Stat. 853](https://www.govinfo.gov/link/statute/133/853).)*

@@ -3,12 +3,17 @@ title: "Section 595 - Consideration of benefits in assessing compensation"
 usc_title: 33
 usc_section: "595"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 595"
-generated_at: "2026-03-30T02:55:41.064Z"
+generated_at: "2026-11-23T20:26:53.867Z"
+status: "active"
 ---
 
 # § 595. Consideration of benefits in assessing compensation
 
 In all cases where private property shall be taken by the United States for the public use in connection with any improvement of rivers, harbors, canals, or waterways of the United States, and in all condemnation proceedings by the United States to acquire lands or easements for such improvements, where a part only of any such parcel, lot, or tract of land shall be taken, the jury or other tribunal awarding the just compensation or assessing the damages to the owner, whether for the value of the part taken or for any injury to the part not taken, shall take into consideration by way of reducing the amount of compensation or damages any special and direct benefits to the remainder arising from the improvement, and shall render their award or verdict accordingly.
 
+
+## Source Credit
+
+*(July 18, 1918, ch. 155, § 6, [40 Stat. 911](https://www.govinfo.gov/link/statute/40/911).)*

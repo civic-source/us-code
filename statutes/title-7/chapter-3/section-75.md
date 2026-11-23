@@ -3,9 +3,10 @@ title: "Section 75 - Definitions"
 usc_title: 7
 usc_section: "75"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 75"
-generated_at: "2026-03-30T02:53:42.252Z"
+generated_at: "2026-11-23T20:25:40.899Z"
+status: "active"
 ---
 
 # § 75. Definitions
@@ -38,3 +39,11 @@ When used in this chapter, except where the context requires otherwise—
 - **(x)** the term “official weighing” means the determination and certification by official inspection personnel of the quantity of a lot of grain under standards provided for in this chapter, based on the actual performance of weighing or the physical supervision thereof, including the physical inspection and testing for accuracy of the weights and scales and the physical inspection of the premises at which the weighing is performed and the monitoring of the discharge of grain into the elevator or conveyance (the terms “officially weigh” and “officially weighed” shall be construed accordingly);
 - **(y)** the term “supervision of weighing” means such supervision by official inspection personnel of the grain-weighing process as is determined by the Secretary to be adequate to reasonably assure the integrity and accuracy of the weighing and of certificates which set forth the weight of the grain and such physical inspection by such personnel of the premises at which the grain weighing is performed as will reasonably assure that all the grain intended to be weighed has been weighed and discharged into the elevator or conveyance; and
 - **(z)** the term “intracompany shipment” means the shipment, within the United States, of grain lots between facilities owned or controlled by the person owning the grain. The shipment of grain owned by a cooperative, from a facility owned by that cooperative, to an export facility which it jointly owns with other cooperatives, qualifies as an intracompany shipment.
+
+In General
+
+Special Effective Date for Certain Provisions
+
+## Source Credit
+
+*(Aug. 11, 1916, ch. 313, pt. B, § 3, [39 Stat. 483](https://www.govinfo.gov/link/statute/39/483); [Pub. L. 90–487, § 1](https://www.govinfo.gov/link/plaw/90/public/487), Aug. 15, 1968, [82 Stat. 761](https://www.govinfo.gov/link/statute/82/761); [Pub. L. 94–582, § 3](https://www.govinfo.gov/link/plaw/94/public/582), Oct. 21, 1976, [90 Stat. 2867](https://www.govinfo.gov/link/statute/90/2867); [Pub. L. 95–113, title XVI](https://www.govinfo.gov/link/plaw/95/public/113), §§ 1604(a), 1606(a), Sept. 29, 1977, [91 Stat. 1026](https://www.govinfo.gov/link/statute/91/1026), 1030; [Pub. L. 96–437, § 1](https://www.govinfo.gov/link/plaw/96/public/437), Oct. 13, 1980, [94 Stat. 1870](https://www.govinfo.gov/link/statute/94/1870); [Pub. L. 102–237, title X, § 1007(1)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1897](https://www.govinfo.gov/link/statute/105/1897); [Pub. L. 103–156, § 12(a)](https://www.govinfo.gov/link/plaw/103/public/156), Nov. 24, 1993, [107 Stat. 1528](https://www.govinfo.gov/link/statute/107/1528); [Pub. L. 103–354, title II, § 293(a)(1)](https://www.govinfo.gov/link/plaw/103/public/354), (7), Oct. 13, 1994, [108 Stat. 3237](https://www.govinfo.gov/link/statute/108/3237).)*

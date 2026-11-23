@@ -3,9 +3,10 @@ title: "Section 7651o - Contingency guarantee, auctions, reserve"
 usc_title: 42
 usc_section: "7651o"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7651o"
-generated_at: "2026-03-30T02:56:11.324Z"
+generated_at: "2026-11-23T20:27:22.958Z"
+status: "active"
 ---
 
 # § 7651o. Contingency guarantee, auctions, reserve
@@ -47,3 +48,64 @@ generated_at: "2026-03-30T02:56:11.324Z"
   - **(5)** The Administrator shall record and publicly report the nature, prices and results of each auction under this subsection, including the prices of successful bids, and shall record the transfers of allowances as a result of each auction in accordance with the requirements of this section. The transfer of allowances at such auction shall be recorded in accordance with the regulations promulgated by the Administrator under this subchapter.
 - **(e)** Pursuant to rulemaking after public notice and comment the Administrator may at any time after the year 1998 (in the case of advance sales or advance auctions) and 2005 (in the case of spot sales or spot auctions) decrease the number of allowances withheld and sold under this section.
 - **(f)** The Administrator may terminate the withholding of allowances and the auction sales under this section if the Administrator determines that, during any period of 3 consecutive calendar years after 2002, less than 20 percent of the allowances available in the auction subaccount have been purchased. Pursuant to regulations under this section, the Administrator may by delegation or contract provide for the conduct of sales or auctions under the Administrator’s supervision by other departments or agencies of the United States Government or by nongovernmental agencies, groups, or organizations.
+
+| Table 1 —Number of Allowances Available for Sale at $1,500 Per Ton | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1993–1999 |  | 25,000 |
+| 2000 and after | 25,000 | 25,000 |
+
+| Table 2 —Number of Allowances Available for Auction | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1993 | 50,000 * | 100,000 |
+| 1994 | 50,000 * | 100,000 |
+| 1995 | 50,000 * | 100,000 |
+| 1996 | 150,000 | 100,000 |
+| 1997 | 150,000 | 100,000 |
+| 1998 | 150,000 | 100,000 |
+| 1999 | 150,000 | 100,000 |
+| 2000 and after | 100,000 | 100,000 |
+
+
+Table
+
+—Number of Allowances Available for Sale at
+
+Per Ton
+
+Allowances sold in the spot sale in any year are allowances which may only be used in that year (unless banked for use in a later year). Allowances sold in the advance sale in any year are allowances which may only be used in the 7th year after the year in which they are first offered for sale (unless banked for use in a later year).
+
+1993–1999
+
+2000 and after
+
+Table
+
+—Number of Allowances Available for Auction
+
+Allowances sold in the spot sale in any year are allowances which may only be used in that year (unless banked for use in a later year), except as otherwise noted. Allowances sold in the advance auction in any year are allowances which may only be used in the 7th year after the year in which they are first offered for sale (unless banked for use in a later year). *Available for use only in 1995 (unless banked for use in a later year).
+
+1993
+
+*
+
+1994
+
+*
+
+1995
+
+*
+
+1996
+
+1997
+
+1998
+
+1999
+
+2000 and after
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title IV, § 416, as added [Pub. L. 101–549, title IV, § 401](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2626](https://www.govinfo.gov/link/statute/104/2626).)*

@@ -3,9 +3,10 @@ title: "Section 908 - Reserves and retired members: acceptance of employment, pa
 usc_title: 37
 usc_section: "908"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "37 U.S.C. § 908"
-generated_at: "2026-03-30T02:55:44.060Z"
+generated_at: "2026-11-23T20:26:57.436Z"
+status: "active"
 ---
 
 # § 908. Reserves and retired members: acceptance of employment, payments, and awards from foreign governments
@@ -28,3 +29,34 @@ generated_at: "2026-03-30T02:55:44.060Z"
   - **(3)** Not later than 60 days after the date on which a report required by paragraph (1) is submitted, the Secretaries of the military departments shall make the report, and all contents of the report, available on a publicly accessible internet website.
 - **(e)** For a provision of law providing the consent of Congress to service in the military forces of certain foreign nations, see section 1060 of title 10 .
 - **(f)** For a provision of law prohibiting former members of the armed forces from accepting post-service employment with certain foreign governments, see section 989 of title 10 .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 908 | 37:801 (note). | Aug. 17, 1977 , Pub. L. 95–105, § 509(a) –(c), 91 Stat. 859 . |
+
+
+Congressional Consent
+
+Approval Required for Employment and Compensation
+
+Approval Required for Certain Payments and Awards
+
+Annual Reports on Approvals for Retired General and Flag Officers
+
+Military Service in Foreign Armed Forces
+
+Prohibition on Former Members of Armed Forces Accepting Employment With Certain Foreign Governments
+
+Historical and Revision Notes
+
+908
+
+Aug. 17, 1977
+
+Pub. L. 95–105, § 509(a)
+
+91 Stat. 859
+
+## Source Credit
+
+*(Added [Pub. L. 97–295, § 3(6)(A)](https://www.govinfo.gov/link/plaw/97/public/295), Oct. 12, 1982, [96 Stat. 1304](https://www.govinfo.gov/link/statute/96/1304); amended [Pub. L. 102–25, title VII, § 702(b)(1)](https://www.govinfo.gov/link/plaw/102/public/25), (c), Apr. 6, 1991, [105 Stat. 117](https://www.govinfo.gov/link/statute/105/117); [Pub. L. 103–160, div. A, title XIV, § 1433(c)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1834](https://www.govinfo.gov/link/statute/107/1834); [Pub. L. 103–337, div. A, title X, § 1070(d)(6)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2858](https://www.govinfo.gov/link/statute/108/2858); [Pub. L. 116–92, div. A, title VI, § 651(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1431](https://www.govinfo.gov/link/statute/133/1431); [Pub. L. 116–283, div. A, title VI, § 641(a)](https://www.govinfo.gov/link/plaw/116/public/283) –(c)(1), Jan. 1, 2021, [134 Stat. 3683](https://www.govinfo.gov/link/statute/134/3683); [Pub. L. 118–31, div. A, title V](https://www.govinfo.gov/link/plaw/118/public/31), §§ 523(c), 525, Dec. 22, 2023, [137 Stat. 252](https://www.govinfo.gov/link/statute/137/252), 254; [Pub. L. 119–60, div. A, title VI, § 601(g)(1)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 905](https://www.govinfo.gov/link/statute/139/905).)*

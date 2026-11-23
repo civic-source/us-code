@@ -3,9 +3,10 @@ title: "Section 746 - Target capabilities and preparedness priorities"
 usc_title: 6
 usc_section: "746"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 746"
-generated_at: "2026-03-30T02:53:09.499Z"
+generated_at: "2026-11-23T20:25:34.866Z"
+status: "active"
 ---
 
 # § 746. Target capabilities and preparedness priorities
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:09.499Z"
   - **(2)** the most current risk assessment available from the Chief Intelligence Officer of the Department of the threats of terrorism against the United States.
 - **(e)** In establishing the guidelines under subsection (a), the Administrator shall establish preparedness priorities that appropriately balance the risk of all hazards, including natural disasters, acts of terrorism, and other man-made disasters, with the resources required to prevent, respond to, recover from, and mitigate against the hazards.
 - **(f)** The Administrator may provide support for the development of mutual aid agreements within States.
+
+## Source Credit
+
+*([Pub. L. 109–295, title VI, § 646](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1426](https://www.govinfo.gov/link/statute/120/1426).)*

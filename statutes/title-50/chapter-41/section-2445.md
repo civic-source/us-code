@@ -3,9 +3,10 @@ title: "Section 2445 - Limitation on bonuses for employees who engage in imprope
 usc_title: 50
 usc_section: "2445"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 2445"
-generated_at: "2026-03-30T02:56:26.224Z"
+generated_at: "2026-11-23T20:27:30.851Z"
+status: "active"
 ---
 
 # § 2445. Limitation on bonuses for employees who engage in improper program management
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:26.224Z"
     - **(B)** the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
   - **(2)** The term “bonus” means a bonus or award paid under title 5, including under chapters 45 or 53 of such title, or any other provision of law.
   - **(3)** The term “covered employee” has the meaning given that term in section 2443 of this title .
+
+## Source Credit
+
+*([Pub. L. 106–65, div. C, title XXXII, § 3246](https://www.govinfo.gov/link/plaw/106/public/65), as added [Pub. L. 114–92, div. C, title XXXI, § 3111(b)(1)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 1187](https://www.govinfo.gov/link/statute/129/1187).)*

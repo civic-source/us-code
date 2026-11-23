@@ -3,9 +3,10 @@ title: "Section 6939f - Long-term storage"
 usc_title: 42
 usc_section: "6939f"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6939f"
-generated_at: "2026-03-30T02:56:11.274Z"
+generated_at: "2026-11-23T20:27:22.742Z"
+status: "active"
 ---
 
 # § 6939f. Long-term storage
@@ -65,3 +66,9 @@ generated_at: "2026-03-30T02:56:11.274Z"
 - **(h)** Not later than July 1, 2014 , the Secretary shall transmit to the Congress the results of a study, conducted in consultation with the Administrator of the Environmental Protection Agency, that—
   - **(1)** determines the impact of the long-term storage program under this section on mercury recycling; and
   - **(2)** includes proposals, if necessary, to mitigate any negative impact identified under paragraph (1).
+
+Management standards for temporary storage
+
+## Source Credit
+
+*([Pub. L. 110–414, § 5](https://www.govinfo.gov/link/plaw/110/public/414), Oct. 14, 2008, [122 Stat. 4344](https://www.govinfo.gov/link/statute/122/4344); [Pub. L. 114–182, title I, § 10(c)](https://www.govinfo.gov/link/plaw/114/public/182), (d), June 22, 2016, [130 Stat. 478](https://www.govinfo.gov/link/statute/130/478), 480.)*

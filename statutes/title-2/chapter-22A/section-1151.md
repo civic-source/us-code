@@ -3,9 +3,10 @@ title: "Section 1151 - Congressional Office for International Leadership"
 usc_title: 2
 usc_section: "1151"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1151"
-generated_at: "2026-03-30T02:53:04.808Z"
+generated_at: "2026-11-23T20:25:28.948Z"
+status: "active"
 ---
 
 # § 1151. Congressional Office for International Leadership
@@ -54,3 +55,75 @@ generated_at: "2026-03-30T02:53:04.808Z"
   - **(1)** any country specified in section 5801 of title 22 ;
   - **(2)** Estonia, Latvia, and Lithuania; and
   - **(3)** any other country that is designated by the Board, except that the Board shall notify the Committees on Appropriations of the Senate and the House of Representatives of the designation at least 90 days before the designation is to take effect.
+
+“Any reference in any law, rule, or regulation—
+
+Effective date
+
+Service of current executive director
+
+“The amendments made by this subsection [probably means section 1601 of Pub. L. 111–68 , which amended this section] shall apply with respect to—
+
+Purpose
+
+Grants.—
+
+In general
+
+Duration
+
+Limitation
+
+Administration.—
+
+In general
+
+Waiver of competitive bidding
+
+Use of Funds
+
+Application.—
+
+In general
+
+Contents
+
+Waiver
+
+Advisory Board.—
+
+In general
+
+Membership
+
+Terms
+
+Reporting
+
+Funding.—
+
+Fiscal year 1999.—
+
+In general
+
+Use of funds at close of fiscal year
+
+Fiscal year 2000 and subsequent fiscal years.—
+
+Authorization of appropriations
+
+Availability of funds
+
+Definitions
+
+Administering agency
+
+Eligible russian
+
+Program
+
+Program participant
+
+## Source Credit
+
+*([Pub. L. 106–554, § 1(a)(2) [title III, § 313]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–120; [Pub. L. 108–7, div. H, title I, § 1401(a)](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 382](https://www.govinfo.gov/link/statute/117/382); [Pub. L. 108–447, div. G, title I](https://www.govinfo.gov/link/plaw/108/public/447), §§ 1501, 1502, Dec. 8, 2004, [118 Stat. 3192](https://www.govinfo.gov/link/statute/118/3192); [Pub. L. 109–13, div. A, title III, § 3402(b)](https://www.govinfo.gov/link/plaw/109/public/13), May 11, 2005, [119 Stat. 272](https://www.govinfo.gov/link/statute/119/272); [Pub. L. 109–289, div. B, title II, § 20703(d)(6)](https://www.govinfo.gov/link/plaw/109/public/289), as added [Pub. L. 110–5, § 2](https://www.govinfo.gov/link/plaw/110/public/5), Feb. 15, 2007, [121 Stat. 39](https://www.govinfo.gov/link/statute/121/39); [Pub. L. 111–68, div. A, title I, § 1601(a)](https://www.govinfo.gov/link/plaw/111/public/68), (b), Oct. 1, 2009, [123 Stat. 2041](https://www.govinfo.gov/link/statute/123/2041); [Pub. L. 117–103, div. I, title I, § 150(a)](https://www.govinfo.gov/link/plaw/117/public/103), (b), Mar. 15, 2022, [136 Stat. 522](https://www.govinfo.gov/link/statute/136/522), 523.)*

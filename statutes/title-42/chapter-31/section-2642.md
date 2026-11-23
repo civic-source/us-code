@@ -3,9 +3,10 @@ title: "Section 2642 - Acceleration of public works"
 usc_title: 42
 usc_section: "2642"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2642"
-generated_at: "2026-03-30T02:56:11.166Z"
+generated_at: "2026-11-23T20:27:22.158Z"
+status: "active"
 ---
 
 # § 2642. Acceleration of public works
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.166Z"
   - **(5)** which are not inconsistent with locally approved comprehensive plans for the jurisdiction affected, wherever such plans exist.
 - **(g)** Not more than 10 per centum of all amounts allocated by the President under this section shall be made available for public works projects within any one State.
 - **(h)** The criteria to be used by the Secretary of Labor in determining areas of substantial unemployment for the purposes of paragraph (1) of subsection (a) of this section shall be the criteria established in section 6.3 of title 29 of the Code of Federal Regulations as in effect May 1, 1962 .
+
+## Source Credit
+
+*([Pub. L. 87–658, § 3](https://www.govinfo.gov/link/plaw/87/public/658), Sept. 14, 1962, [76 Stat. 542](https://www.govinfo.gov/link/statute/76/542).)*

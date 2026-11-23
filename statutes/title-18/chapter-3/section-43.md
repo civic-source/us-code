@@ -3,9 +3,10 @@ title: "Section 43 - Force, violence, and threats involving animal enterprises"
 usc_title: 18
 usc_section: "43"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 43"
-generated_at: "2026-03-30T02:54:16.457Z"
+generated_at: "2026-11-23T20:26:08.329Z"
+status: "active"
 ---
 
 # § 43. Force, violence, and threats involving animal enterprises
@@ -60,3 +61,17 @@ generated_at: "2026-03-30T02:54:16.457Z"
   - **(1)** to prohibit any expressive conduct (including peaceful picketing or other peaceful demonstration) protected from legal prohibition by the First Amendment to the Constitution;
   - **(2)** to create new remedies for interference with activities protected by the free speech or free exercise clauses of the First Amendment to the Constitution, regardless of the point of view expressed, or to limit any existing legal remedies for such interference; or
   - **(3)** to provide exclusive criminal penalties or civil remedies with respect to the conduct prohibited by this action, or to preempt State or local laws that may provide such penalties or remedies.
+
+Offense
+
+Penalties
+
+Restitution
+
+Definitions
+
+Rules of Construction
+
+## Source Credit
+
+*(Added [Pub. L. 102–346, § 2(a)](https://www.govinfo.gov/link/plaw/102/public/346), Aug. 26, 1992, [106 Stat. 928](https://www.govinfo.gov/link/statute/106/928); amended [Pub. L. 104–294, title VI, § 601(r)(3)](https://www.govinfo.gov/link/plaw/104/public/294), Oct. 11, 1996, [110 Stat. 3502](https://www.govinfo.gov/link/statute/110/3502); [Pub. L. 107–188, title III, § 336](https://www.govinfo.gov/link/plaw/107/public/188), June 12, 2002, [116 Stat. 681](https://www.govinfo.gov/link/statute/116/681); [Pub. L. 109–374, § 2(a)](https://www.govinfo.gov/link/plaw/109/public/374), Nov. 27, 2006, [120 Stat. 2652](https://www.govinfo.gov/link/statute/120/2652).)*

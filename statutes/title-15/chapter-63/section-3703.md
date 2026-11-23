@@ -3,9 +3,10 @@ title: "Section 3703 - Definitions"
 usc_title: 15
 usc_section: "3703"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 3703"
-generated_at: "2026-03-30T02:54:08.191Z"
+generated_at: "2026-11-23T20:26:04.293Z"
+status: "active"
 ---
 
 # § 3703. Definitions
@@ -23,3 +24,7 @@ As used in this chapter, unless the context otherwise requires, the term—
   - **(9)** “Small business firm” means a small business concern as defined in section 632 of this title and implementing regulations of the Administrator of the Small Business Administration.
   - **(10)** “Training technology” means computer software and related materials which are developed by a Federal agency to train employees of such agency, including but not limited to software for computer-based instructional systems and for interactive video disc systems.
   - **(11)** “Clearinghouse” means the Clearinghouse for State and Local Initiatives on Productivity, Technology, and Innovation established by section 3704a of this title .
+
+## Source Credit
+
+*([Pub. L. 96–480, § 4](https://www.govinfo.gov/link/plaw/96/public/480), Oct. 21, 1980, [94 Stat. 2312](https://www.govinfo.gov/link/statute/94/2312); [Pub. L. 99–502, § 9(b)(2)](https://www.govinfo.gov/link/plaw/99/public/502), (d), Oct. 20, 1986, [100 Stat. 1795](https://www.govinfo.gov/link/statute/100/1795), 1796; [Pub. L. 100–418, title V, § 5122(b)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1439](https://www.govinfo.gov/link/statute/102/1439); [Pub. L. 100–519, title II, § 201(d)(1)](https://www.govinfo.gov/link/plaw/100/public/519), Oct. 24, 1988, [102 Stat. 2594](https://www.govinfo.gov/link/statute/102/2594); [Pub. L. 102–245, title III, § 304](https://www.govinfo.gov/link/plaw/102/public/245), Feb. 14, 1992, [106 Stat. 20](https://www.govinfo.gov/link/statute/106/20); [Pub. L. 106–404, § 7(1)](https://www.govinfo.gov/link/plaw/106/public/404), (2), Nov. 1, 2000, [114 Stat. 1745](https://www.govinfo.gov/link/statute/114/1745); [Pub. L. 110–69, title III, § 3002(c)(3)](https://www.govinfo.gov/link/plaw/110/public/69), Aug. 9, 2007, [121 Stat. 586](https://www.govinfo.gov/link/statute/121/586).)*

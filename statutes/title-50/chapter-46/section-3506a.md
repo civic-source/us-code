@@ -3,9 +3,10 @@ title: "Section 3506a - Transformation of Central Intelligence Agency"
 usc_title: 50
 usc_section: "3506a"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3506a"
-generated_at: "2026-03-30T02:56:26.253Z"
+generated_at: "2026-11-23T20:27:31.008Z"
+status: "active"
 ---
 
 # § 3506a. Transformation of Central Intelligence Agency
@@ -17,3 +18,9 @@ The Director of the Central Intelligence Agency shall, in accordance with standa
   - **(3)** emphasize the hiring of personnel of diverse backgrounds for purposes of improving the capabilities of the Agency;
   - **(4)** establish and maintain effective relationships between human intelligence and signals intelligence within the Agency at the operational level; and
   - **(5)** achieve a more effective balance within the Agency with respect to unilateral operations and liaison operations.
+
+“It is the sense of Congress that—
+
+## Source Credit
+
+*([Pub. L. 108–458, title I, § 1011(c)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3661](https://www.govinfo.gov/link/statute/118/3661).)*

@@ -3,9 +3,10 @@ title: "Section 1625 - Securities laws exemption"
 usc_title: 43
 usc_section: "1625"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1625"
-generated_at: "2026-03-30T02:55:57.482Z"
+generated_at: "2026-11-23T20:27:06.333Z"
+status: "active"
 ---
 
 # § 1625. Securities laws exemption
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:57.482Z"
   - **(1)** Notwithstanding any other provision of law, prior to January 1, 2001 , the provisions of the Investment Company Act of 1940 [ 15 U.S.C. 80a–1 et seq.] shall not apply to any Native Corporation or any subsidiary of such corporation if such subsidiary is wholly owned (as that term is defined in the Investment Company Act of 1940) by the corporation and the corporation owns at least 95 per centum of the equity of the subsidiary.
   - **(2)** The Investment Company Act of 1940 shall not apply to any Settlement Trust.
   - **(3)** If, but for this section, a Native Corporation would qualify as an Investment Company under the Investment Company Act of 1940, it shall be entitled to voluntarily register pursuant to such Act and any such corporation which so registered shall thereafter comply with the provisions of such Act.
+
+## Source Credit
+
+*([Pub. L. 92–203, § 28](https://www.govinfo.gov/link/plaw/92/public/203), as added [Pub. L. 94–204, § 3](https://www.govinfo.gov/link/plaw/94/public/204), Jan. 2, 1976, [89 Stat. 1147](https://www.govinfo.gov/link/statute/89/1147); amended [Pub. L. 100–241, § 14](https://www.govinfo.gov/link/plaw/100/public/241), Feb. 3, 1988, [101 Stat. 1811](https://www.govinfo.gov/link/statute/101/1811).)*

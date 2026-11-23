@@ -3,9 +3,10 @@ title: "Section 2502 - Outreach to employers and labor unions"
 usc_title: 29
 usc_section: "2502"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 2502"
-generated_at: "2026-03-30T02:55:18.743Z"
+generated_at: "2026-11-23T20:26:38.064Z"
+status: "active"
 ---
 
 # § 2502. Outreach to employers and labor unions
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:18.743Z"
   - **(1)** Under such program the Secretary shall provide outreach to employers through, but not limited to, the private industry councils in each service delivery area.
   - **(2)** The Secretary shall provide outreach to labor unions through, but not limited to, the building trade councils, joint apprenticeable occupations councils, and individual labor unions.
 - **(b)** The Secretary shall give priority to providing outreach to employers located in areas that have nontraditional employment and training programs specifically targeted to women.
+
+## Source Credit
+
+*([Pub. L. 102–530, § 3](https://www.govinfo.gov/link/plaw/102/public/530), Oct. 27, 1992, [106 Stat. 3466](https://www.govinfo.gov/link/statute/106/3466).)*

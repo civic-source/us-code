@@ -3,9 +3,10 @@ title: "Section 3 - Community Connect Grant Program"
 usc_title: 7
 usc_section: "3"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 3"
-generated_at: "2026-03-30T02:53:42.298Z"
+generated_at: "2026-11-23T20:25:41.097Z"
+status: "active"
 ---
 
 # § 950bb–3. Community Connect Grant Program
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:53:42.298Z"
   - **(1)** To be eligible to receive a grant under the Program, an eligible entity shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
   - **(2)** An application submitted by an eligible entity under paragraph (1) shall include documentation sufficient to demonstrate the availability of funds to satisfy the requirement of subsection (e).
 - **(g)** There is authorized to be appropriated to carry out this section $50,000,000 for each of fiscal years 2019 through 2023.
+
+## Source Credit
+
+*(May 20, 1936, ch. 432, title VI, § 604, as added [Pub. L. 115–334, title VI, § 6204](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4737](https://www.govinfo.gov/link/statute/132/4737).)*

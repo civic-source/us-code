@@ -3,9 +3,10 @@ title: "Section 2680 - Exceptions"
 usc_title: 28
 usc_section: "2680"
 chapter: 171
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 2680"
-generated_at: "2026-03-30T02:55:30.151Z"
+generated_at: "2026-11-23T20:26:36.537Z"
+status: "active"
 ---
 
 # § 2680. Exceptions
@@ -30,3 +31,7 @@ The provisions of this chapter and section 1346(b) of this title shall not apply
 - **(l)** Any claim arising from the activities of the Tennessee Valley Authority.
 - **(m)** Any claim arising from the activities of the Panama Canal Company.
 - **(n)** Any claim arising from the activities of a Federal land bank, a Federal intermediate credit bank, or a bank for cooperatives.
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 984](https://www.govinfo.gov/link/statute/62/984); July 16, 1949, ch. 340, [63 Stat. 444](https://www.govinfo.gov/link/statute/63/444); Sept. 26, 1950, ch. 1049, §§ 2(a)(2), 13(5), [64 Stat. 1038](https://www.govinfo.gov/link/statute/64/1038), 1043; [Pub. L. 86–168, title II, § 202(b)](https://www.govinfo.gov/link/plaw/86/public/168), Aug. 18, 1959, [73 Stat. 389](https://www.govinfo.gov/link/statute/73/389); [Pub. L. 93–253, § 2](https://www.govinfo.gov/link/plaw/93/public/253), Mar. 16, 1974, [88 Stat. 50](https://www.govinfo.gov/link/statute/88/50); [Pub. L. 106–185, § 3(a)](https://www.govinfo.gov/link/plaw/106/public/185), Apr. 25, 2000, [114 Stat. 211](https://www.govinfo.gov/link/statute/114/211); [Pub. L. 109–304, § 17(f)(4)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1708](https://www.govinfo.gov/link/statute/120/1708).)*

@@ -3,9 +3,10 @@ title: "Section 41313 - Plans to address needs of families of passengers involve
 usc_title: 49
 usc_section: "41313"
 chapter: 413
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 41313"
-generated_at: "2026-03-30T02:56:19.375Z"
+generated_at: "2026-11-23T20:27:35.086Z"
+status: "active"
 ---
 
 # § 41313. Plans to address needs of families of passengers involved in foreign air carrier accidents
@@ -41,3 +42,61 @@ generated_at: "2026-03-30T02:56:19.375Z"
   - **(18)** An assurance that, in the case of an accident in which the National Transportation Safety Board conducts a public hearing or comparable proceeding at a location greater than 80 miles from the accident site, the foreign air carrier will ensure that the proceeding is made available simultaneously by electronic means at a location open to the public at both the origin city and destination city of the foreign air carrier’s flight if that city is located in the United States.
 - **(d)** The Secretary shall not approve an application for a permit under section 41302 unless the applicant has included as part of the application or request for exemption a plan that meets the requirements of subsection (c).
 - **(e)** A foreign air carrier shall not be liable for damages in any action brought in a Federal or State court arising out of the performance of the foreign air carrier in preparing or providing a passenger list pursuant to a plan submitted by the foreign air carrier under subsection (c), unless the liability was caused by conduct of the foreign air carrier which was grossly negligent or which constituted intentional misconduct.
+
+Definitions
+
+Aircraft accident
+
+Passenger
+
+Submission of Plans
+
+Contents of Plans
+
+Telephone number
+
+Notification of families
+
+Notice provided as soon as possible
+
+List of passengers
+
+Consultation regarding disposition of remains and effects
+
+Return of possessions
+
+Unclaimed possessions retained
+
+Monuments
+
+Equal treatment of passengers
+
+Service and assistance to families of passengers
+
+Compensation to service organizations
+
+Travel and care expenses
+
+Resources for plan
+
+Substitute measures
+
+Training of employees and agents
+
+Consultation on carrier response not covered by plan
+
+Notice concerning liability for manmade structures.—
+
+In general
+
+Minimum contents
+
+Simultaneous electronic transmission of ntsb hearing
+
+Permit and Exemption Requirement
+
+Limitation on Liability
+
+## Source Credit
+
+*(Added [Pub. L. 105–148, § 1(a)](https://www.govinfo.gov/link/plaw/105/public/148), Dec. 16, 1997, [111 Stat. 2681](https://www.govinfo.gov/link/statute/111/2681); amended [Pub. L. 106–181, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/106/public/181) –(c)(1), Apr. 5, 2000, [114 Stat. 130](https://www.govinfo.gov/link/statute/114/130); [Pub. L. 108–176, title VIII, § 809(b)](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2589](https://www.govinfo.gov/link/statute/117/2589); [Pub. L. 115–254, div. B, title V, § 539(d)](https://www.govinfo.gov/link/plaw/115/public/254), div. C, § 1109(b), Oct. 5, 2018, [132 Stat. 3370](https://www.govinfo.gov/link/statute/132/3370), 3434; [Pub. L. 118–63, title XI, § 1101(i)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1413](https://www.govinfo.gov/link/statute/138/1413).)*

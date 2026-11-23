@@ -3,9 +3,10 @@ title: "Section 387h - Notification and other remedies"
 usc_title: 21
 usc_section: "387h"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 387h"
-generated_at: "2026-03-30T02:54:54.281Z"
+generated_at: "2026-11-23T20:26:27.774Z"
+status: "active"
 ---
 
 # § 387h. Notification and other remedies
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:54.281Z"
       - **(i)** shall not include recall of a tobacco product from individuals; and
       - **(ii)** shall provide for notice to persons subject to the risks associated with the use of such tobacco product.
   - **(3)** The remedy provided by this subsection shall be in addition to remedies provided by subsection (a).
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 908, as added [Pub. L. 111–31, div. A, title I, § 101(b)(3)](https://www.govinfo.gov/link/plaw/111/public/31), June 22, 2009, [123 Stat. 1804](https://www.govinfo.gov/link/statute/123/1804).)*

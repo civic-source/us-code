@@ -3,9 +3,10 @@ title: "Section 1442 - Member financial information"
 usc_title: 12
 usc_section: "1442"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1442"
-generated_at: "2026-03-30T02:53:53.394Z"
+generated_at: "2026-11-23T20:25:58.839Z"
+status: "active"
 ---
 
 # § 1442. Member financial information
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:53.394Z"
   - **(1)** to consent to such examinations as the Bank or the Director may require for the purposes of this chapter;
   - **(2)** to agree that reports of examinations by local, State, or Federal agencies or institutions may be furnished by such authorities to the Bank or the Director upon request; and
   - **(3)** to agree to give the Bank or the Federal agency, upon request, such information as they may need to compile and publish cost of funds indices and to publish other reports or statistical summaries pertaining to the activities of Bank members.
+
+## Source Credit
+
+*(July 22, 1932, ch. 522, § 22, [47 Stat. 739](https://www.govinfo.gov/link/statute/47/739); [Pub. L. 101–73, title VII, § 719](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 422](https://www.govinfo.gov/link/statute/103/422); [Pub. L. 110–289, div. A, title II, § 1204(8)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2786](https://www.govinfo.gov/link/statute/122/2786).)*

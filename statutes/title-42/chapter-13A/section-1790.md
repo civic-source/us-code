@@ -3,9 +3,10 @@ title: "Section 1790 - Breastfeeding promotion program"
 usc_title: 42
 usc_section: "1790"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1790"
-generated_at: "2026-03-30T02:56:11.122Z"
+generated_at: "2026-11-23T20:27:21.921Z"
+status: "active"
 ---
 
 # § 1790. Breastfeeding promotion program
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.122Z"
   - **(2)** The Secretary shall establish criteria for determining whether to solicit and accept gifts, bequests, or devises under paragraph (1), including criteria that ensure that the acceptance of any gifts, bequests, or devises would not—
     - **(A)** reflect unfavorably on the ability of the Secretary to carry out the Secretary’s responsibilities in a fair and objective manner; or
     - **(B)** compromise, or appear to compromise, the integrity of any governmental program or any officer or employee involved in the program.
+
+## Source Credit
+
+*([Pub. L. 89–642, § 21](https://www.govinfo.gov/link/plaw/89/public/642), as added [Pub. L. 102–342, title II, § 201](https://www.govinfo.gov/link/plaw/102/public/342), Aug. 14, 1992, [106 Stat. 912](https://www.govinfo.gov/link/statute/106/912).)*

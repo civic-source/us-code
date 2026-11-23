@@ -3,12 +3,17 @@ title: "Section 1612 - Sense of Senate that lobbying expenses should remain nond
 usc_title: 2
 usc_section: "1612"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1612"
-generated_at: "2026-03-30T02:53:04.816Z"
+generated_at: "2026-11-23T20:25:28.980Z"
+status: "active"
 ---
 
 # § 1612. Sense of Senate that lobbying expenses should remain nondeductible
 
 - **(a)** The Senate finds that ordinary Americans generally are not allowed to deduct the costs of communicating with their elected representatives.
 - **(b)** It is the sense of the Senate that lobbying expenses should not be tax deductible.
+
+## Source Credit
+
+*([Pub. L. 104–65, § 23](https://www.govinfo.gov/link/plaw/104/public/65), Dec. 19, 1995, [109 Stat. 705](https://www.govinfo.gov/link/statute/109/705).)*

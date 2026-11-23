@@ -3,9 +3,10 @@ title: "Section 1442 - Federal officers or agencies sued or prosecuted"
 usc_title: 28
 usc_section: "1442"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 1442"
-generated_at: "2026-03-30T02:55:30.140Z"
+generated_at: "2026-11-23T20:26:36.449Z"
+status: "active"
 ---
 
 # § 1442. Federal officers or agencies sued or prosecuted
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:30.140Z"
   - **(4)** The term “serious bodily injury” has the meaning given that term in section 1365 of title 18 .
   - **(5)** The term “State” includes the District of Columbia, United States territories and insular possessions, and Indian country (as defined in section 1151 of title 18 ).
   - **(6)** The term “State court” includes the Superior Court of the District of Columbia, a court of a United States territory or insular possession, and a tribal court.
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 938](https://www.govinfo.gov/link/statute/62/938); [Pub. L. 104–317, title II, § 206(a)](https://www.govinfo.gov/link/plaw/104/public/317), Oct. 19, 1996, [110 Stat. 3850](https://www.govinfo.gov/link/statute/110/3850); [Pub. L. 112–51, § 2(a)](https://www.govinfo.gov/link/plaw/112/public/51), (b), Nov. 9, 2011, [125 Stat. 545](https://www.govinfo.gov/link/statute/125/545); [Pub. L. 112–239, div. A, title X, § 1087](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1969](https://www.govinfo.gov/link/statute/126/1969).)*

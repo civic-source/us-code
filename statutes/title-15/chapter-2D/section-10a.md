@@ -3,9 +3,10 @@ title: "Section 10a - Consultation"
 usc_title: 15
 usc_section: "10a"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 10a"
-generated_at: "2026-03-30T02:54:08.073Z"
+generated_at: "2026-11-23T20:26:03.644Z"
+status: "active"
 ---
 
 # § 80b–10a. Consultation
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:08.073Z"
   - **(3)** Notwithstanding any other provision of law, the Commission and the appropriate Federal banking agencies shall not be compelled to disclose any information provided under paragraph (1) or (2). Nothing in this paragraph shall authorize the Commission or such agencies to withhold information from Congress, or prevent the Commission or such agencies from complying with a request for information from any other Federal department or agency or any self-regulatory organization requesting the information for purposes within the scope of its jurisdiction, or complying with an order of a court of the United States in an action brought by the United States, the Commission, or such agencies. For purposes of section 552 of title 5 , this paragraph shall be considered a statute described in subsection (b)(3)(B) of such section 552.
 - **(b)** Nothing in this section shall limit in any respect the authority of the appropriate Federal banking agency with respect to such bank holding company or savings and loan holding company (or affiliates or subsidiaries thereof), bank, or subsidiary, department, or division or a bank under any other provision of law.
 - **(c)** For purposes of this section, the term “appropriate Federal banking agency” shall have the same meaning as given in section 1813 of title 12 .
+
+## Source Credit
+
+*(Aug. 22, 1940, ch. 686, title II, § 210A, as added [Pub. L. 106–102, title II, § 220](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1400](https://www.govinfo.gov/link/statute/113/1400); [Pub. L. 109–351, title IV, § 401(b)(2)](https://www.govinfo.gov/link/plaw/109/public/351), Oct. 13, 2006, [120 Stat. 1973](https://www.govinfo.gov/link/statute/120/1973).)*

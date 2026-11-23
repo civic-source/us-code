@@ -3,9 +3,10 @@ title: "Section 4909 - Petitions"
 usc_title: 16
 usc_section: "4909"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 4909"
-generated_at: "2026-03-30T02:54:23.049Z"
+generated_at: "2026-11-23T20:26:20.757Z"
+status: "active"
 ---
 
 # § 4909. Petitions
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:23.049Z"
   - **(2)** for each petition determined to present such sufficient information—
     - **(A)** provide an opportunity for the submission of public comment on the petition; and
     - **(B)** issue and publish in the Federal Register a final ruling on the petition, by not later than 90 days after the end of the period for public comment.
+
+## Source Credit
+
+*([Pub. L. 102–440, title I, § 110](https://www.govinfo.gov/link/plaw/102/public/440), Oct. 23, 1992, [106 Stat. 2229](https://www.govinfo.gov/link/statute/106/2229).)*

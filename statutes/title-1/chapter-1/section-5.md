@@ -3,12 +3,17 @@ title: "Section 5 - “Company” or “association” as including successors a
 usc_title: 1
 usc_section: "5"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "1 U.S.C. § 5"
-generated_at: "2026-03-30T02:52:49.391Z"
+generated_at: "2026-11-23T20:25:27.166Z"
+status: "active"
 ---
 
 # § 5. “Company” or “association” as including successors and assigns
 
 The word “company” or “association”, when used in reference to a corporation, shall be deemed to embrace the words “successors and assigns of such company or association”, in like manner as if these last-named words, or words of similar import, were expressed.
 
+
+## Source Credit
+
+*(July 30, 1947, ch. 388, [61 Stat. 633](https://www.govinfo.gov/link/statute/61/633).)*

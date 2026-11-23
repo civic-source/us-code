@@ -3,9 +3,10 @@ title: "Section 844 - Penalties"
 usc_title: 18
 usc_section: "844"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 844"
-generated_at: "2026-03-30T02:54:16.471Z"
+generated_at: "2026-11-23T20:26:08.413Z"
+status: "active"
 ---
 
 # § 844. Penalties
@@ -44,3 +45,13 @@ generated_at: "2026-03-30T02:54:16.471Z"
 - **(p)**
   - **(1)** A holder of a license or permit who knows that explosive materials have been stolen from that licensee or permittee, shall report the theft to the Secretary 1 1 So in original. Probably should be “Attorney General”. not later than 24 hours after the discovery of the theft.
   - **(2)** A holder of a license or permit who does not report a theft in accordance with paragraph (1), shall be fined not more than $10,000, imprisoned not more than 5 years, or both.
+
+Theft Reporting Requirement.—
+
+In general
+
+Penalty
+
+## Source Credit
+
+*(Added [Pub. L. 91–452, title XI, § 1102(a)](https://www.govinfo.gov/link/plaw/91/public/452), Oct. 15, 1970, [84 Stat. 956](https://www.govinfo.gov/link/statute/84/956); amended [Pub. L. 97–298, § 2](https://www.govinfo.gov/link/plaw/97/public/298), Oct. 12, 1982, [96 Stat. 1319](https://www.govinfo.gov/link/statute/96/1319); [Pub. L. 98–473, title II, § 1014](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2142](https://www.govinfo.gov/link/statute/98/2142); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 100–690, title VI, § 6474(a)](https://www.govinfo.gov/link/plaw/100/public/690), (b), Nov. 18, 1988, [102 Stat. 4379](https://www.govinfo.gov/link/statute/102/4379); [Pub. L. 101–647, title XXXV, § 3522](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4924](https://www.govinfo.gov/link/statute/104/4924); [Pub. L. 103–272, § 5(e)(7)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1374](https://www.govinfo.gov/link/statute/108/1374); [Pub. L. 103–322, title VI, § 60003(a)(3)](https://www.govinfo.gov/link/plaw/103/public/322), title XI, §§ 110504(b), 110509, 110515(b), 110518(b), title XXXII, §§ 320106, 320917(a), title XXXIII, § 330016(1)(H), (K), (L), (N), Sept. 13, 1994, [108 Stat. 1969](https://www.govinfo.gov/link/statute/108/1969), 2016, 2018, 2020, 2111, 2129, 2147, 2148; [Pub. L. 104–132, title VI, § 604](https://www.govinfo.gov/link/plaw/104/public/132), title VII, §§ 701, 706, 708(a), (c)(3), 724, Apr. 24, 1996, [110 Stat. 1289](https://www.govinfo.gov/link/statute/110/1289), 1291, 1295–1297, 1300; [Pub. L. 104–294, title VI, § 603(a)](https://www.govinfo.gov/link/plaw/104/public/294), Oct. 11, 1996, [110 Stat. 3503](https://www.govinfo.gov/link/statute/110/3503); [Pub. L. 106–54, § 2(b)](https://www.govinfo.gov/link/plaw/106/public/54), Aug. 17, 1999, [113 Stat. 399](https://www.govinfo.gov/link/statute/113/399); [Pub. L. 107–296, title XI](https://www.govinfo.gov/link/plaw/107/public/296), §§ 1112(e)(3), 1125, 1127, Nov. 25, 2002, [116 Stat. 2276](https://www.govinfo.gov/link/statute/116/2276), 2285; [Pub. L. 108–426, § 2(c)(6)](https://www.govinfo.gov/link/plaw/108/public/426), Nov. 30, 2004, [118 Stat. 2424](https://www.govinfo.gov/link/statute/118/2424).)*

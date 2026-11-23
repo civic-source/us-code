@@ -3,9 +3,10 @@ title: "Section 9701 - Establishment of human resources management system"
 usc_title: 5
 usc_section: "9701"
 chapter: 97
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 9701"
-generated_at: "2026-03-30T02:52:56.073Z"
+generated_at: "2026-11-23T20:25:32.262Z"
+status: "active"
 ---
 
 # § 9701. Establishment of human resources management system
@@ -71,3 +72,39 @@ generated_at: "2026-03-30T02:52:56.073Z"
     - **(C)** shall modify procedures under chapter 77 only insofar as such modifications are designed to further the fair, efficient, and expeditious resolution of matters involving the employees of the Department.
 - **(g)** Nothing in this section shall be construed as conferring authority on the Secretary of Homeland Security to modify any of the provisions of section 842 of the Homeland Security Act of 2002.
 - **(h)** Effective 5 years after the conclusion of the transition period defined under section 1501 of the Homeland Security Act of 2002, all authority to issue regulations under this section (including regulations which would modify, supersede, or terminate any regulations previously issued under this section) shall cease to be available.
+
+In General
+
+System Requirements
+
+Other Nonwaivable Provisions
+
+Limitations Relating to Pay
+
+Provisions to Ensure Collaboration With Employee Representatives.—
+
+In general
+
+Notice of proposal
+
+Pre-implementation congressional notification, consultation, and mediation
+
+Implementation.—
+
+Continuing collaboration
+
+Procedures
+
+Provisions Relating to Appellate Procedures.—
+
+Sense of congress
+
+Requirements
+
+Provisions Relating to Labor-Management Relations
+
+Sunset Provision
+
+## Source Credit
+
+*(Added [Pub. L. 107–296, title VIII, § 841(a)(2)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2230](https://www.govinfo.gov/link/statute/116/2230).)*

@@ -3,9 +3,10 @@ title: "Section 1282 - Deferral of interest deduction allocable to accrued disco
 usc_title: 26
 usc_section: "1282"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1282"
-generated_at: "2026-03-30T02:55:27.766Z"
+generated_at: "2026-11-23T20:26:46.075Z"
+status: "active"
 ---
 
 # § 1282. Deferral of interest deduction allocable to accrued discount
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:27.766Z"
     - **(B)** An election under this paragraph shall apply to the taxable year for which it is made and for all subsequent taxable years, unless the taxpayer secures the consent of the Secretary to the revocation of such election.
 - **(c)** Rules similar to the rules of subsections (b) and (c) of section 1277 shall apply for purposes of this section.
 - **(d)** For special rules limiting the application of this section to original issue discount in the case of nongovernmental obligations, see section 1283(c).
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title I, § 41(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 549](https://www.govinfo.gov/link/statute/98/549); amended [Pub. L. 99–514, title XVIII, § 1803(a)(8)(B)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2794](https://www.govinfo.gov/link/statute/100/2794).)*

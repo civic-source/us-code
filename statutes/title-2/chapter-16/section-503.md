@@ -3,9 +3,10 @@ title: "Section 503 - Official mail of persons entitled to use congressional fra
 usc_title: 2
 usc_section: "503"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 503"
-generated_at: "2026-03-30T02:53:04.798Z"
+generated_at: "2026-11-23T20:25:28.891Z"
+status: "active"
 ---
 
 # § 503. Official mail of persons entitled to use congressional frank
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:53:04.798Z"
     - **(D)** in the case of any such unsolicited communication which is transmitted in a digital format, a communication for which the cost of the content is less than a threshold amount established under regulations of the House Communications Standards Commission.
 - **(h)**
 - **(i)** This section and the amendments made by this section shall apply with respect to sessions of Congress beginning with the first session of the One Hundred Second Congress, except that, with respect to the Senate, subsection (d) shall apply beginning on May 1, 1992 , and the funds referred to in paragraph (3) of such subsection shall not include personal funds of a Senator or Member of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 101–520, title III, § 311](https://www.govinfo.gov/link/plaw/101/public/520), Nov. 5, 1990, [104 Stat. 2278](https://www.govinfo.gov/link/statute/104/2278); [Pub. L. 102–229, title II, § 211](https://www.govinfo.gov/link/plaw/102/public/229), Dec. 12, 1991, [105 Stat. 1718](https://www.govinfo.gov/link/statute/105/1718); [Pub. L. 104–186, title II, § 203(22)](https://www.govinfo.gov/link/plaw/104/public/186), Aug. 20, 1996, [110 Stat. 1728](https://www.govinfo.gov/link/statute/110/1728); [Pub. L. 105–275, title I, § 104](https://www.govinfo.gov/link/plaw/105/public/275), Oct. 21, 1998, [112 Stat. 2439](https://www.govinfo.gov/link/statute/112/2439); [Pub. L. 106–19, § 1(a)](https://www.govinfo.gov/link/plaw/106/public/19), Apr. 8, 1999, [113 Stat. 29](https://www.govinfo.gov/link/statute/113/29); [Pub. L. 106–57, title I](https://www.govinfo.gov/link/plaw/106/public/57), §§ 102, 103(a)(1)–(3), (4)(B), Sept. 29, 1999, [113 Stat. 415](https://www.govinfo.gov/link/statute/113/415); [Pub. L. 107–68, title I, § 110](https://www.govinfo.gov/link/plaw/107/public/68), Nov. 12, 2001, [115 Stat. 569](https://www.govinfo.gov/link/statute/115/569); [Pub. L. 108–83, title I, § 105(a)](https://www.govinfo.gov/link/plaw/108/public/83), Sept. 30, 2003, [117 Stat. 1018](https://www.govinfo.gov/link/statute/117/1018); [Pub. L. 116–260, div. I, title I, § 116(b)(2)(B)](https://www.govinfo.gov/link/plaw/116/public/260), (c)(2), Dec. 27, 2020, [134 Stat. 1637](https://www.govinfo.gov/link/statute/134/1637), 1639.)*

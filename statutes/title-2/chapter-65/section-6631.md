@@ -3,9 +3,10 @@ title: "Section 6631 - Transfer of excess or surplus educationally useful equipm
 usc_title: 2
 usc_section: "6631"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 6631"
-generated_at: "2026-03-30T02:53:04.844Z"
+generated_at: "2026-11-23T20:25:29.083Z"
+status: "active"
 ---
 
 # § 6631. Transfer of excess or surplus educationally useful equipment to public schools
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:04.844Z"
   - **(1)** The term “public school” means a 2 2 So in original. Probably should be “an”. elementary school or secondary school, as such terms are defined in section 7801 of title 20 .
   - **(2)** The term “educationally useful equipment” means computers and related peripheral tools, including printers, modems, routers, servers, computer keyboards, scanners, and other telecommunications and research equipment, that are appropriate for use in public school education.
 - **(e)** This section shall take effect beginning with fiscal year 1997 and shall be effective each fiscal year thereafter.
+
+## Source Credit
+
+*([Pub. L. 104–197, title I, § 5](https://www.govinfo.gov/link/plaw/104/public/197), Sept. 16, 1996, [110 Stat. 2397](https://www.govinfo.gov/link/statute/110/2397); [Pub. L. 107–110, title X, § 1076(a)](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2091](https://www.govinfo.gov/link/statute/115/2091); [Pub. L. 114–95, title IX, § 9215(yy)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2184](https://www.govinfo.gov/link/statute/129/2184).)*

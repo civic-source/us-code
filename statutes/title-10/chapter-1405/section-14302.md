@@ -3,9 +3,10 @@ title: "Section 14302 - Promotion zones"
 usc_title: 10
 usc_section: "14302"
 chapter: 1405
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 14302"
-generated_at: "2026-03-30T02:53:38.274Z"
+generated_at: "2026-11-23T20:25:52.465Z"
+status: "active"
 ---
 
 # § 14302. Promotion zones
@@ -27,3 +28,13 @@ generated_at: "2026-03-30T02:53:38.274Z"
   - **(1)** are eligible for consideration for promotion to the next higher grade;
   - **(2)** are in the same grade as those officers in the promotion zone for that competitive category; and
   - **(3)** are junior to the junior officer in the promotion zone for that competitive category.
+
+Promotion Zones Generally
+
+Officers Above the Zone
+
+Officers Below the Zone
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1611](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2932](https://www.govinfo.gov/link/statute/108/2932); amended [Pub. L. 109–163, div. A, title V, § 515(b)(1)(RR)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3234](https://www.govinfo.gov/link/statute/119/3234).)*

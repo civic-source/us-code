@@ -3,9 +3,10 @@ title: "Section 8432b - Contributions of persons who perform military service"
 usc_title: 5
 usc_section: "8432b"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8432b"
-generated_at: "2026-03-30T02:52:56.057Z"
+generated_at: "2026-11-23T20:25:32.203Z"
+status: "active"
 ---
 
 # § 8432b. Contributions of persons who perform military service
@@ -51,3 +52,11 @@ generated_at: "2026-03-30T02:52:56.057Z"
     - **(A)** An employee to whom this section applies may elect, for purposes of subsection (d) or (f) of section 8433, as the case may be, to have such employee’s separation (described in subsection (a)(1)) treated as if it had never occurred.
     - **(B)** An election under this paragraph shall be made within such period of time after restoration or reemployment (as the case may be) and otherwise in such manner as the Executive Director prescribes.
 - **(i)** The Executive Director shall prescribe regulations to carry out this section.
+
+Effective Date; Applicability
+
+Rules for Applying Amendments to Employees Restored or Reemployed Before Effective Date
+
+## Source Credit
+
+*(Added [Pub. L. 103–353, § 4(a)(1)](https://www.govinfo.gov/link/plaw/103/public/353), Oct. 13, 1994, [108 Stat. 3170](https://www.govinfo.gov/link/statute/108/3170); amended [Pub. L. 106–65, div. A, title VI, § 661(a)(3)(A)](https://www.govinfo.gov/link/plaw/106/public/65), (C), Oct. 5, 1999, [113 Stat. 671](https://www.govinfo.gov/link/statute/113/671); [Pub. L. 114–92, div. A, title VI, § 632(e)(2)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 847](https://www.govinfo.gov/link/statute/129/847); [Pub. L. 115–84, § 2(e)](https://www.govinfo.gov/link/plaw/115/public/84), Nov. 17, 2017, [131 Stat. 1273](https://www.govinfo.gov/link/statute/131/1273).)*

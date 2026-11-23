@@ -3,9 +3,10 @@ title: "Section 16298c - National Energy Technology Laboratory reforms"
 usc_title: 42
 usc_section: "16298c"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16298c"
-generated_at: "2026-03-30T02:56:11.480Z"
+generated_at: "2026-11-23T20:27:23.661Z"
+status: "active"
 ---
 
 # § 16298c. National Energy Technology Laboratory reforms
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:56:11.480Z"
   - **(1)** an assessment of the quality of science and research at the National Energy Technology Laboratory, relative to similar work at other National Laboratories;
   - **(2)** a review of the effectiveness of authorities provided in subsections (a) and (b); and
   - **(3)** recommendations for policy changes within the Department and legislative changes to provide the National Energy Technology Laboratory with the necessary tools and resources to advance the research mission of the National Energy Technology Laboratory.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 969C](https://www.govinfo.gov/link/plaw/109/public/58), as added [Pub. L. 116–260, div. Z, title IV, § 4006(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2544](https://www.govinfo.gov/link/statute/134/2544).)*

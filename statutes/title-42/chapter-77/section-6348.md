@@ -3,9 +3,10 @@ title: "Section 6348 - Energy efficiency in industrial facilities"
 usc_title: 42
 usc_section: "6348"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6348"
-generated_at: "2026-03-30T02:56:11.257Z"
+generated_at: "2026-11-23T20:27:22.663Z"
+status: "active"
 ---
 
 # § 6348. Energy efficiency in industrial facilities
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:11.257Z"
   - **(5)** There are authorized to be appropriated such sums as are necessary to carry out this subsection.
 - **(b)** The Secretary shall establish an annual award program to recognize those industry associations or individual industrial companies that have significantly improved their energy efficiency.
 - **(c)** Not later than one year after October 24, 1992 , the Secretary shall, in consultation with affected industries, evaluate and report to the Congress regarding the establishment of Federally mandated energy efficiency reporting requirements and voluntary energy efficiency improvement targets for energy intensive industries. Such report shall include an evaluation of the costs and benefits of such reporting requirements and voluntary energy efficiency improvement targets, and recommendations regarding the role of such activities in improving energy efficiency in energy intensive industries.
+
+## Source Credit
+
+*([Pub. L. 102–486, title I, § 131](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2836](https://www.govinfo.gov/link/statute/106/2836).)*

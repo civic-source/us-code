@@ -3,9 +3,10 @@ title: "Section 2416 - Newsletter"
 usc_title: 25
 usc_section: "2416"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 2416"
-generated_at: "2026-03-30T02:54:52.840Z"
+generated_at: "2026-11-23T20:26:25.593Z"
+status: "active"
 ---
 
 # § 2416. Newsletter
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:52.840Z"
     - **(E)** Indian Health Service alcohol programs, and
     - **(F)** other entities providing alcohol and substance abuse related services or resources to Indian people.
 - **(b)** There are authorized to be appropriated to carry out this section $500,000 for fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.
+
+## Source Credit
+
+*([Pub. L. 99–570, title IV, § 4210](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–143](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 100–690, title II, § 2218](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4222](https://www.govinfo.gov/link/statute/102/4222); [Pub. L. 102–573, title VII, § 703(3)](https://www.govinfo.gov/link/plaw/102/public/573), Oct. 29, 1992, [106 Stat. 4583](https://www.govinfo.gov/link/statute/106/4583).)*

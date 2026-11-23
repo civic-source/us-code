@@ -3,9 +3,10 @@ title: "Section 324 - Omitted"
 usc_title: 15
 usc_section: "324"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 324"
-generated_at: "2026-03-30T02:54:08.082Z"
+generated_at: "2026-11-23T20:26:03.703Z"
+status: "omitted"
 ---
 
 # § 324. Omitted

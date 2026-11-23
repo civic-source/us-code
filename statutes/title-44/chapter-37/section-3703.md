@@ -3,12 +3,17 @@ title: "Section 3703 - Rate of payment for advertisements, notices, and proposal
 usc_title: 44
 usc_section: "3703"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "44 U.S.C. § 3703"
-generated_at: "2026-03-30T02:55:56.299Z"
+generated_at: "2026-11-23T20:27:03.850Z"
+status: "active"
 ---
 
 # § 3703. Rate of payment for advertisements, notices, and proposals
 
 Advertisements, notices, proposals for contracts, and all forms of advertising required by law for the several departments of the Government may be paid for at a price not to exceed the commercial rates charged to private individuals, with the usual discounts. But the heads of the several departments may secure lower terms at special rates when the public interest requires it. The rates shall include the furnishing of lawful evidence, under oath, of publication, to be made and furnished by the printer or publisher making publication.
 
+
+## Source Credit
+
+*([Pub. L. 90–620](https://www.govinfo.gov/link/plaw/90/public/620), Oct. 22, 1968, [82 Stat. 1305](https://www.govinfo.gov/link/statute/82/1305).)*

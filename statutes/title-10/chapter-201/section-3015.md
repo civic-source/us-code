@@ -3,9 +3,10 @@ title: "Section 3015 - Simplified acquisition threshold"
 usc_title: 10
 usc_section: "3015"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 3015"
-generated_at: "2026-03-30T02:53:38.188Z"
+generated_at: "2026-11-23T20:25:51.794Z"
+status: "active"
 ---
 
 # § 3015. Simplified acquisition threshold
@@ -14,3 +15,7 @@ In this part:
 
   - **(1)** The term “simplified acquisition threshold” has the meaning provided that term in section 134 of title 41 , except that, in the case of any contract to be awarded and performed, or purchase to be made, outside the United States in support of a contingency operation or a humanitarian or peacekeeping operation, the term means an amount equal to two times the amount specified for that term in such section.
   - **(2)** The term “humanitarian or peacekeeping operation” means a military operation in support of the provision of humanitarian or foreign disaster assistance or in support of a peacekeeping operation under chapter VI or VII of the Charter of the United Nations. The term does not include routine training, force rotation, or stationing.
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1806(b)(1)](https://www.govinfo.gov/link/plaw/116/public/283), (6), Jan. 1, 2021, [134 Stat. 4153](https://www.govinfo.gov/link/statute/134/4153), 4154.)*

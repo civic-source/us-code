@@ -3,9 +3,10 @@ title: "Section 2035 - Retirement annuity for certain former spouses"
 usc_title: 50
 usc_section: "2035"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 2035"
-generated_at: "2026-03-30T02:56:26.217Z"
+generated_at: "2026-11-23T20:27:30.820Z"
+status: "active"
 ---
 
 # § 2035. Retirement annuity for certain former spouses
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:56:26.217Z"
     - **(B)** Upon approval of an application under subparagraph (A), the appropriate annuity shall be payable to the former spouse with respect to all periods before such approval during which the former spouse was entitled to an annuity under this section, but in no event shall an annuity be payable under this section with respect to any period before December 2, 1987 .
 - **(d)** Notwithstanding subsection (c)(4)(A), the deadline by which an application for a retirement annuity must be submitted shall not apply in cases in which a former spouse’s entitlement to such annuity is restored under subsection (b)(1) or (c)(1)(B).
 - **(e)** Nothing in this section shall be construed to impair, reduce, or otherwise affect the annuity or the entitlement to an annuity of a participant or former participant under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 88–643, title II, § 225](https://www.govinfo.gov/link/plaw/88/public/643), as added [Pub. L. 102–496, title VIII, § 802](https://www.govinfo.gov/link/plaw/102/public/496), Oct. 24, 1992, [106 Stat. 3218](https://www.govinfo.gov/link/statute/106/3218); amended [Pub. L. 103–178, title II, § 202(a)(7)](https://www.govinfo.gov/link/plaw/103/public/178), Dec. 3, 1993, [107 Stat. 2026](https://www.govinfo.gov/link/statute/107/2026).)*

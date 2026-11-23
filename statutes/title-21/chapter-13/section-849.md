@@ -3,9 +3,10 @@ title: "Section 849 - Transportation safety offenses"
 usc_title: 21
 usc_section: "849"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 849"
-generated_at: "2026-03-30T02:54:54.296Z"
+generated_at: "2026-11-23T20:26:27.841Z"
+status: "active"
 ---
 
 # § 849. Transportation safety offenses
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:54.296Z"
   - **(1)** 3 times the maximum punishment authorized by section 841(b) of this title ; and
   - **(2)** 3 times any term of supervised release authorized by section 841(b) of this title for a first offense.
 
+
+## Source Credit
+
+*([Pub. L. 91–513, title II, § 409](https://www.govinfo.gov/link/plaw/91/public/513), as added [Pub. L. 103–322, title XVIII, § 180201(b)(1)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2046](https://www.govinfo.gov/link/statute/108/2046).)*

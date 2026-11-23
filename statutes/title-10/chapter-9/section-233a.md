@@ -3,9 +3,10 @@ title: "Section 233a - Annual report on force structure changes exhibit for the 
 usc_title: 10
 usc_section: "233a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 233a"
-generated_at: "2026-03-30T02:53:38.048Z"
+generated_at: "2026-11-23T20:25:50.886Z"
+status: "active"
 ---
 
 # § 233a. Annual report on force structure changes exhibit for the defense budget
@@ -23,3 +24,15 @@ generated_at: "2026-03-30T02:53:38.048Z"
     - **(F)** identification of the system or systems that are expected to satisfy the military requirements that were fulfilled by the weapon system once the divestment, re-prioritization, or retirement of that weapon system is completed.
 - **(c)** The Secretary of Defense shall ensure that the report required under subsection (a) is deconflicted with the report required under section 222e of this title .
 - **(d)** In this section, the term “major weapon system” has the meaning given that term in section 101(a) of this title .
+
+Annual Report
+
+Contents
+
+Relationship to Other Reports
+
+Major Weapon System Defined
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title I, § 151](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 179](https://www.govinfo.gov/link/statute/137/179); amended [Pub. L. 119–60, div. A, title VIII, § 811(c)(2)(B)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 950](https://www.govinfo.gov/link/statute/139/950).)*

@@ -3,12 +3,17 @@ title: "Section 8461 - Authorization of appropriations"
 usc_title: 42
 usc_section: "8461"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8461"
-generated_at: "2026-03-30T02:56:11.343Z"
+generated_at: "2026-11-23T20:27:23.045Z"
+status: "active"
 ---
 
 # § 8461. Authorization of appropriations
 
 There is authorized to be appropriated to the Secretary for fiscal year 1979 $11,900,000, to carry out the provisions of this chapter (other than provisions for which an appropriations authorization is otherwise expressly provided in this chapter) and section 792 of title 15 .
 
+
+## Source Credit
+
+*([Pub. L. 95–620, title VII, § 751](https://www.govinfo.gov/link/plaw/95/public/620), Nov. 9, 1978, [92 Stat. 3344](https://www.govinfo.gov/link/statute/92/3344).)*

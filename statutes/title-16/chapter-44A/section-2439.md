@@ -3,9 +3,10 @@ title: "Section 2439 - Enforcement"
 usc_title: 16
 usc_section: "2439"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 2439"
-generated_at: "2026-03-30T02:54:23.003Z"
+generated_at: "2026-11-23T20:26:20.608Z"
+status: "active"
 ---
 
 # § 2439. Enforcement
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:23.003Z"
   - **(1)** Any Antarctic marine living resource (or part or product thereof) with respect to which an act prohibited by section 2435 of this title is committed, any vessel of the United States (including its gear, furniture, appurtenances, stoves, and cargo), vessel subject to the jurisdiction of the United States (including its gear, furniture, appurtenances, stoves, and cargo), or vessel, vehicle, or aircraft or other means of transportation subject to the jurisdiction of the United States, which is used in connection with an act prohibited by section 2435 of this title , and all guns, traps, nets, and other equipment used in connection with such act, shall be subject to forfeiture to the United States.
   - **(2)** Upon the forfeiture to the United States of any property or item described in paragraph (1), or upon the abandonment or waiver of any claim to any such property or item, it shall be disposed of by the Secretary of Commerce, or the Secretary of the department in which the Coast Guard is operating, as the case may be, in such a manner, consistent with the purposes of this chapter, as may be prescribed by regulation.
 - **(e)** All provisions of law relating to the seizure, forfeiture, and condemnation of property (including vessels) for violation of the customs laws, the disposition of such property or the proceeds from the sale thereof, and the remission or mitigation of such forfeiture, shall apply to the seizures and forfeitures incurred, or alleged to have been incurred, and the compromise of claims, under the provisions of this chapter, insofar as such provisions of law are applicable and not inconsistent with the provisions of this chapter; except that all powers, rights, and duties conferred or imposed by the customs laws upon any officer or employee of the Customs Service may, for the purposes of this chapter, also be exercised or performed by the Secretary of Commerce or the Secretary of the department in which the Coast Guard is operating, or by such officers or employees of the United States as each Secretary may designate.
+
+## Source Credit
+
+*([Pub. L. 98–623, title III, § 310](https://www.govinfo.gov/link/plaw/98/public/623), Nov. 8, 1984, [98 Stat. 3403](https://www.govinfo.gov/link/statute/98/3403).)*

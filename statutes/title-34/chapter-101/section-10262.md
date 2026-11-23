@@ -3,9 +3,10 @@ title: "Section 10262 - State and local governments to consider courts"
 usc_title: 34
 usc_section: "10262"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10262"
-generated_at: "2026-03-30T02:55:33.264Z"
+generated_at: "2026-11-23T20:26:50.448Z"
+status: "active"
 ---
 
 # § 10262. State and local governments to consider courts
@@ -15,3 +16,7 @@ The Attorney General may require, as appropriate, that whenever a State or unit 
   - **(1)** considered the needs of the judicial branch of the State, unit, or tribe, as the case may be;
   - **(2)** consulted with the chief judicial officer of the highest court of the State, unit, or tribe, as the case may be; and
   - **(3)** consulted with the chief law enforcement officer of the law enforcement agency responsible for the security needs of the judicial branch of the State, unit, or tribe, as the case may be.
+
+## Source Credit
+
+*([Pub. L. 110–177, title III, § 302(c)](https://www.govinfo.gov/link/plaw/110/public/177), Jan. 7, 2008, [121 Stat. 2539](https://www.govinfo.gov/link/statute/121/2539).)*

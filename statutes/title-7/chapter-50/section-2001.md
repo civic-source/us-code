@@ -3,9 +3,10 @@ title: "Section 2001 - Debt restructuring and loan servicing"
 usc_title: 7
 usc_section: "2001"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2001"
-generated_at: "2026-03-30T02:53:42.353Z"
+generated_at: "2026-11-23T20:25:41.381Z"
+status: "active"
 ---
 
 # § 2001. Debt restructuring and loan servicing
@@ -104,3 +105,27 @@ generated_at: "2026-03-30T02:53:42.353Z"
   - **(2)** For purposes of paragraph (1), the Secretary shall treat any loan made on or before January 6, 1988 , with respect to which a restructuring, write-down, or net recovery buy-out is provided under this section after such date, as a loan made after such date.
 - **(n)** The Secretary may not use the authority provided by this section to reduce or terminate any portion of the debt of the borrower that the borrower could pay through the liquidation of assets (or through the payment of the loan value of the assets, if the loan value is greater than the liquidation value) described in subsection (c)(2)(A)(ii).
 - **(o)** The Secretary may provide not more than $300,000 in principal and interest forgiveness under this section per borrower.
+
+Assumption.
+
+Available income.
+
+In General
+
+Notice of Debt Settlement Programs
+
+Debt Restructuring and Loan Servicing.—
+
+In general
+
+Definition of new application
+
+Liquidation of assets
+
+Restoration of First Lien on Stock
+
+Regulations
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 353](https://www.govinfo.gov/link/plaw/87/public/128), as added [Pub. L. 100–233, title VI, § 615(a)](https://www.govinfo.gov/link/plaw/100/public/233), Jan. 6, 1988, [101 Stat. 1678](https://www.govinfo.gov/link/statute/101/1678); amended [Pub. L. 101–624, title XVIII, § 1816(a)](https://www.govinfo.gov/link/plaw/101/public/624) –(d), (f)–(h), Nov. 28, 1990, [104 Stat. 3826–3828](https://www.govinfo.gov/link/statute/104/3826); [Pub. L. 102–237, title V, § 501(h)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1868](https://www.govinfo.gov/link/statute/105/1868); [Pub. L. 104–127, title VI](https://www.govinfo.gov/link/plaw/104/public/127), §§ 645, 661(j), Apr. 4, 1996, [110 Stat. 1103](https://www.govinfo.gov/link/statute/110/1103), 1107; [Pub. L. 105–277, div. A, § 101(a) [title VIII, §§ 807, 808]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681](https://www.govinfo.gov/link/statute/112/2681), 2681–40; [Pub. L. 106–31, title III, § 3019(b)](https://www.govinfo.gov/link/plaw/106/public/31), May 21, 1999, [113 Stat. 99](https://www.govinfo.gov/link/statute/113/99); [Pub. L. 106–387, § 1(a) [title VIII, § 818(a)]](https://www.govinfo.gov/link/plaw/106/public/387), Oct. 28, 2000, [114 Stat. 1549](https://www.govinfo.gov/link/statute/114/1549), 1549A–58; [Pub. L. 107–171, title V, § 5314](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 347](https://www.govinfo.gov/link/statute/116/347).)*

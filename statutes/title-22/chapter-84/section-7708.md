@@ -3,9 +3,10 @@ title: "Section 7708 - Millennium Challenge Compact"
 usc_title: 22
 usc_section: "7708"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7708"
-generated_at: "2026-03-30T02:55:05.445Z"
+generated_at: "2026-11-23T20:26:32.679Z"
+status: "active"
 ---
 
 # § 7708. Millennium Challenge Compact
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:55:05.445Z"
   - **(1)** one or both of the Compacts are or will be for purposes of regional economic integration, increased regional trade, or cross-border collaborations; and
   - **(2)** the Board determines that the country is making considerable and demonstrable progress in implementing the terms of the existing Compact and supplementary agreements thereto.
 - **(l)** An eligible country and the United States may enter into one or more subsequent Compacts in accordance with the requirements of this chapter after the expiration of the existing Compact.
+
+## Source Credit
+
+*([Pub. L. 108–199, div. D, title VI, § 609](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 218](https://www.govinfo.gov/link/statute/118/218); [Pub. L. 115–167, title II, § 204(a)](https://www.govinfo.gov/link/plaw/115/public/167), Apr. 23, 2018, [132 Stat. 1280](https://www.govinfo.gov/link/statute/132/1280); [Pub. L. 118–159, div. E, title LI, § 5122(c)(2)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2431](https://www.govinfo.gov/link/statute/138/2431).)*

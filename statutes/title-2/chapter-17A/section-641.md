@@ -3,9 +3,10 @@ title: "Section 641 - Reconciliation"
 usc_title: 2
 usc_section: "641"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 641"
-generated_at: "2026-03-30T02:53:04.800Z"
+generated_at: "2026-11-23T20:25:28.904Z"
+status: "active"
 ---
 
 # § 641. Reconciliation
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:53:04.800Z"
   - **(2)** Debate in the Senate on any reconciliation bill reported under subsection (b), and all amendments thereto and debatable motions and appeals in connection therewith, shall be limited to not more than 20 hours.
 - **(f)** It shall not be in order in the House of Representatives to consider any resolution providing for an adjournment period of more than three calendar days during the month of July until the House of Representatives has completed action on the reconciliation legislation for the fiscal year beginning on October 1 of the calendar year to which the adjournment resolution pertains, if reconciliation legislation is required to be reported by the concurrent resolution on the budget for such fiscal year.
 - **(g)** Notwithstanding any other provision of law, it shall not be in order in the Senate or the House of Representatives to consider any reconciliation bill or reconciliation resolution reported pursuant to a concurrent resolution on the budget agreed to under section 632 or 635 of this title, or a joint resolution pursuant to section 907d of this title , or any amendment thereto or conference report thereon, that contains recommendations with respect to the old-age, survivors, and disability insurance program established under title II of the Social Security Act [ 42 U.S.C. 401 et seq.].
+
+## Source Credit
+
+*([Pub. L. 93–344, title III, § 310](https://www.govinfo.gov/link/plaw/93/public/344), July 12, 1974, [88 Stat. 315](https://www.govinfo.gov/link/statute/88/315); [Pub. L. 99–177, title II, § 201(b)](https://www.govinfo.gov/link/plaw/99/public/177), Dec. 12, 1985, [99 Stat. 1053](https://www.govinfo.gov/link/statute/99/1053); [Pub. L. 101–508, title XIII](https://www.govinfo.gov/link/plaw/101/public/508), §§ 13112(a)(9), 13207(c), (d), 13210(2), Nov. 5, 1990, [104 Stat. 1388–608](https://www.govinfo.gov/link/statute/104/1388), 1388–618 to 1388–620; [Pub. L. 105–33, title X, § 10111](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 685](https://www.govinfo.gov/link/statute/111/685); [Pub. L. 113–67, div. A, title I, § 122(9)](https://www.govinfo.gov/link/plaw/113/public/67), Dec. 26, 2013, [127 Stat. 1175](https://www.govinfo.gov/link/statute/127/1175).)*

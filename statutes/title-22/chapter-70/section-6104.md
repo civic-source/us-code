@@ -3,9 +3,10 @@ title: "Section 6104 - Mansfield Fellows on detail from Government service"
 usc_title: 22
 usc_section: "6104"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6104"
-generated_at: "2026-03-30T02:55:05.425Z"
+generated_at: "2026-11-23T20:26:32.595Z"
+status: "active"
 ---
 
 # § 6104. Mansfield Fellows on detail from Government service
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.425Z"
 - **(b)** A fellow detailed under subsection (a) is deemed, for the purpose of preserving allowances, privileges, rights, seniority, and other benefits, an employee of the agency from which detailed, and is entitled to pay, allowances, and benefits from funds available to that agency. The authorization and payment of such allowances and other benefits from appropriations available therefore 1 1 So in original. Probably should be “therefor”. is deemed to comply with section 5536 of title 5 .
 - **(c)** Fellows may be detailed under subsection (a) without reimbursement to the United States by the Center.
 - **(d)** A fellow detailed under subsection (a) may be paid by the Center for allowances and benefits listed in section 6102(4)(B) of this title .
+
+## Source Credit
+
+*([Pub. L. 103–236, title II, § 255](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 431](https://www.govinfo.gov/link/statute/108/431).)*

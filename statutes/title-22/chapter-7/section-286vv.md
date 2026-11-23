@@ -3,9 +3,10 @@ title: "Section 286vv - Capital stock increases"
 usc_title: 22
 usc_section: "286vv"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 286vv"
-generated_at: "2026-03-30T02:55:05.320Z"
+generated_at: "2026-11-23T20:26:32.017Z"
+status: "active"
 ---
 
 # § 286vv. Capital stock increases
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:05.320Z"
     - **(B)** $9,193,540,271 shall be for callable shares of the Bank.
   - **(3)** In order to pay for the increase in the United States subscription to the Bank under subsection (a)(1)(B), there are authorized to be appropriated, without fiscal year limitation, $4,639,501,466 for payment by the Secretary of the Treasury.
   - **(4)** Of the amount authorized to be appropriated under paragraph (3), $278,370,088 shall be for paid in shares of the Bank, and $4,361,131,378 shall be for callable shares of the Bank.
+
+## Source Credit
+
+*(July 31, 1945, ch. 339, § 70, as added [Pub. L. 112–74, div. I, title VII, § 7081(a)](https://www.govinfo.gov/link/plaw/112/public/74), Dec. 23, 2011, [125 Stat. 1259](https://www.govinfo.gov/link/statute/125/1259); amended [Pub. L. 113–6, div. F, title VII, § 1704(d)](https://www.govinfo.gov/link/plaw/113/public/6), Mar. 26, 2013, [127 Stat. 429](https://www.govinfo.gov/link/statute/127/429).)*

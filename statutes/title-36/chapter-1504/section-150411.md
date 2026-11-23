@@ -3,9 +3,10 @@ title: "Section 150411 - Records and inspection"
 usc_title: 36
 usc_section: "150411"
 chapter: 1504
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 150411"
-generated_at: "2026-03-30T02:55:44.702Z"
+generated_at: "2026-11-23T20:26:58.966Z"
+status: "active"
 ---
 
 # § 150411. Records and inspection
@@ -19,3 +20,15 @@ generated_at: "2026-03-30T02:55:44.702Z"
   - **(2)** Nothing in this section contravenes—
     - **(A)** the laws of the jurisdiction under which the corporation is incorporated; or
     - **(B)** the laws of those jurisdictions within the United States and its territories within which the corporation carries out activities in furtherance of the purposes of the corporation.
+
+Records
+
+Inspection
+
+In general
+
+Effect
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. E, title LI, § 5103(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 937](https://www.govinfo.gov/link/statute/137/937).)*

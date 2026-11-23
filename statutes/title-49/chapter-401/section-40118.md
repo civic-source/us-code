@@ -3,9 +3,10 @@ title: "Section 40118 - Government-financed air transportation"
 usc_title: 49
 usc_section: "40118"
 chapter: 401
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 40118"
-generated_at: "2026-03-30T02:56:19.371Z"
+generated_at: "2026-11-23T20:27:35.065Z"
+status: "active"
 ---
 
 # § 40118. Government-financed air transportation
@@ -41,3 +42,93 @@ generated_at: "2026-03-30T02:56:19.371Z"
   - **(1)** the number of personnel trained in the detection and reporting of potential severe forms of trafficking in persons and sex trafficking (as such terms are defined in paragraphs (11) and (12) of section 103 of the Trafficking Victims Protection Act of 2000 ( 22 U.S.C. 7102 )), including the training required under section 44734(a)(4);
   - **(2)** the number of notifications of potential human trafficking victims received from staff or other passengers; and
   - **(3)** whether the air carrier notified the National Human Trafficking Hotline or law enforcement at the relevant airport of the potential human trafficking victim for each such notification of potential human trafficking, and if so, when the notification was made.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 40118(a) | 49 App.:1517(a), (b). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 1117; added Jan. 3, 1975 , Pub. L. 93–623, § 5(a) , 88 Stat. 2104 ; restated Feb. 15, 1980 , Pub. L. 96–192, § 21 , 94 Stat. 43 . |
+|  | 49 App.:1551(b)(1)(E). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 1601(b)(1)(E); added Oct. 4, 1984 , Pub. L. 98–443, § 3(e) , 98 Stat. 1704 . |
+| 40118(b) | 49 App.:1517(c). |  |
+| 40118(c) | 49 App.:1517(d) (1st sentence). |  |
+| 40118(d) | 49 App.:1518. | Oct. 7, 1978 , Pub. L. 95–426, § 706 , 92 Stat. 992 . |
+| 40118(e) | 49 App.:1517(d) (last sentence). |  |
+
+
+Transportation by Air Carriers Holding Certificates
+
+Transportation by Foreign Air Carriers
+
+Transportation of Certain Domestic Animals by Foreign Air Carriers.—
+
+In general
+
+Responsibility of individual to cover certain costs
+
+Domestic animal defined
+
+Proof
+
+Certain Transportation by Air Outside the United States
+
+Relationship to Other Laws
+
+Prohibition of Certification or Contract Clause
+
+Training Requirements
+
+Historical and Revision Notes
+
+Pub. L
+
+40118(a)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Jan. 3, 1975
+
+Pub. L. 93–623, § 5(a)
+
+88 Stat. 2104
+
+Feb. 15, 1980
+
+Pub. L. 96–192, § 21
+
+94 Stat. 43
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Oct. 4, 1984
+
+Pub. L. 98–443, § 3(e)
+
+98 Stat. 1704
+
+40118(b)
+
+40118(c)
+
+40118(d)
+
+Oct. 7, 1978
+
+Pub. L. 95–426, § 706
+
+92 Stat. 992
+
+40118(e)
+
+Certain Transportation by Air Outside the United States
+
+Transportation by Foreign Air Carriers
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1116](https://www.govinfo.gov/link/statute/108/1116); [Pub. L. 103–355, title VIII, § 8301(h)](https://www.govinfo.gov/link/plaw/103/public/355), Oct. 13, 1994, [108 Stat. 3398](https://www.govinfo.gov/link/statute/108/3398); [Pub. L. 104–287, § 5(68)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3395](https://www.govinfo.gov/link/statute/110/3395); [Pub. L. 104–316, title I, § 127(d)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3840](https://www.govinfo.gov/link/statute/110/3840); [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XII, § 1225(h), title XIII, § 1335(p), title XIV, § 1422(b)(6), Oct. 21, 1998, [112 Stat. 2681–775](https://www.govinfo.gov/link/statute/112/2681), 2681–789, 2681–793; [Pub. L. 108–176, title VIII, § 806](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2588](https://www.govinfo.gov/link/statute/117/2588); [Pub. L. 111–350, § 5](https://www.govinfo.gov/link/plaw/111/public/350) (o)(8), Jan. 4, 2011, [124 Stat. 3854](https://www.govinfo.gov/link/statute/124/3854); [Pub. L. 115–232, div. A, title VIII, § 836(g)(9)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1874](https://www.govinfo.gov/link/statute/132/1874); [Pub. L. 115–425, title I, § 111(a)](https://www.govinfo.gov/link/plaw/115/public/425), Jan. 8, 2019, [132 Stat. 5475](https://www.govinfo.gov/link/statute/132/5475); [Pub. L. 118–63, title XI, § 1101(g)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1413](https://www.govinfo.gov/link/statute/138/1413); [Pub. L. 119–60, div. A, title III, § 377](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 841](https://www.govinfo.gov/link/statute/139/841).)*

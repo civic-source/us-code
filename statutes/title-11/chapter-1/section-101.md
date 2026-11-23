@@ -3,9 +3,10 @@ title: "Section 101 - Definitions"
 usc_title: 11
 usc_section: "101"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 101"
-generated_at: "2026-03-30T02:53:53.870Z"
+generated_at: "2026-11-23T20:25:55.306Z"
+status: "active"
 ---
 
 # § 101. Definitions
@@ -339,3 +340,29 @@ In this title the following definitions shall apply:
       - **(ii)** an interest in property.
   - **(54A)** The term “uninsured State member bank” means a State member bank (as defined in section 3 of the Federal Deposit Insurance Act) the deposits of which are not insured by the Federal Deposit Insurance Corporation.
   - **(55)** The term “United States”, when used in a geographical sense, includes all locations where the judicial jurisdiction of the United States extends, including territories and possessions of the United States.
+
+“The amendments made by subsections (a), (d), (e), and (f) [amending this section and sections 1182, 1183, and 1191 of this title, respectively] shall apply with respect to any case that—
+
+Effective Date
+
+Application of Amendments.—
+
+In general
+
+Certain limitations applicable to debtors
+
+Effective Date
+
+Application of Amendments
+
+Effective Date
+
+Application of Amendments
+
+Effective Date
+
+Application of Amendments
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2549](https://www.govinfo.gov/link/statute/92/2549); [Pub. L. 97–222, § 1](https://www.govinfo.gov/link/plaw/97/public/222), July 27, 1982, [96 Stat. 235](https://www.govinfo.gov/link/statute/96/235); [Pub. L. 98–353, title III](https://www.govinfo.gov/link/plaw/98/public/353), §§ 391, 401, 421, July 10, 1984, [98 Stat. 364](https://www.govinfo.gov/link/statute/98/364), 366, 367; [Pub. L. 99–554, title II](https://www.govinfo.gov/link/plaw/99/public/554), §§ 201, 251, 283(a), Oct. 27, 1986, [100 Stat. 3097](https://www.govinfo.gov/link/statute/100/3097), 3104, 3116; [Pub. L. 100–506, § 1(a)](https://www.govinfo.gov/link/plaw/100/public/506), Oct. 18, 1988, [102 Stat. 2538](https://www.govinfo.gov/link/statute/102/2538); [Pub. L. 100–597, § 1](https://www.govinfo.gov/link/plaw/100/public/597), Nov. 3, 1988, [102 Stat. 3028](https://www.govinfo.gov/link/statute/102/3028); [Pub. L. 101–311, title I, § 101](https://www.govinfo.gov/link/plaw/101/public/311), title II, § 201, June 25, 1990, [104 Stat. 267](https://www.govinfo.gov/link/statute/104/267), 268; [Pub. L. 101–647, title XXV, § 2522(e)](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4867](https://www.govinfo.gov/link/statute/104/4867); [Pub. L. 102–486, title XXX, § 3017(a)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3130](https://www.govinfo.gov/link/statute/106/3130); [Pub. L. 103–394, title I, § 106](https://www.govinfo.gov/link/plaw/103/public/394), title II, §§ 208(a), 215, 217(a), 218(a), title III, § 304(a), title V, § 501(a), (b)(1), (d)(1), Oct. 22, 1994, [108 Stat. 4111](https://www.govinfo.gov/link/statute/108/4111), 4124, 4126–4128, 4132, 4141–4143; [Pub. L. 106–554, § 1(a)(5) [title I, § 112(c)(3), (4)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–393, 2763A–394; [Pub. L. 109–8, title I, § 102(b)](https://www.govinfo.gov/link/plaw/109/public/8), (k), title II, §§ 211, 226(a), 231(b), title III, § 306(c), title IV, §§ 401(a), 414, 432(a), title VIII, § 802(b), title IX, § 907(a)(1), (b), (c), title X, §§ 1004, 1005, 1007(a), title XI, § 1101(a), (b), title XII, § 1201, Apr. 20, 2005, [119 Stat. 32](https://www.govinfo.gov/link/statute/119/32), 35, 50, 66, 73, 80, 104, 107, 110, 145, 170, 175, 186, 187, 189, 192; [Pub. L. 109–390, § 5(a)(1)](https://www.govinfo.gov/link/plaw/109/public/390), Dec. 12, 2006, [120 Stat. 2695](https://www.govinfo.gov/link/statute/120/2695); [Pub. L. 111–327, § 2(a)(1)](https://www.govinfo.gov/link/plaw/111/public/327), Dec. 22, 2010, [124 Stat. 3557](https://www.govinfo.gov/link/statute/124/3557); [Pub. L. 116–51, § 2](https://www.govinfo.gov/link/plaw/116/public/51), Aug. 23, 2019, [133 Stat. 1075](https://www.govinfo.gov/link/statute/133/1075); [Pub. L. 116–52, § 2](https://www.govinfo.gov/link/plaw/116/public/52), Aug. 23, 2019, [133 Stat. 1076](https://www.govinfo.gov/link/statute/133/1076); [Pub. L. 116–54, § 4(a)(1)](https://www.govinfo.gov/link/plaw/116/public/54), Aug. 23, 2019, [133 Stat. 1085](https://www.govinfo.gov/link/statute/133/1085); [Pub. L. 116–92, div. A, title XVII, § 1736](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1819](https://www.govinfo.gov/link/statute/133/1819); [Pub. L. 116–136, div. A, title I, § 1113(a)(4)(A)](https://www.govinfo.gov/link/plaw/116/public/136), (b)(1)(A), (2)(A)(i), Mar. 27, 2020, [134 Stat. 311](https://www.govinfo.gov/link/statute/134/311), 312; [Pub. L. 117–151, § 2(a)](https://www.govinfo.gov/link/plaw/117/public/151), June 21, 2022, [136 Stat. 1298](https://www.govinfo.gov/link/statute/136/1298); [Pub. L. 119–27, § 11(b)](https://www.govinfo.gov/link/plaw/119/public/27), July 18, 2025, [139 Stat. 457](https://www.govinfo.gov/link/statute/139/457).)*

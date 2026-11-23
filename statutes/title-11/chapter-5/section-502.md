@@ -3,9 +3,10 @@ title: "Section 502 - Allowance of claims or interests"
 usc_title: 11
 usc_section: "502"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 502"
-generated_at: "2026-03-30T02:53:53.876Z"
+generated_at: "2026-11-23T20:25:55.351Z"
+status: "active"
 ---
 
 # § 502. Allowance of claims or interests
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:53:53.876Z"
   - **(2)** The debtor shall have the burden of proving, by clear and convincing evidence, that—
     - **(A)** the creditor unreasonably refused to consider the debtor’s proposal; and
     - **(B)** the proposed alternative repayment schedule was made prior to expiration of the 60-day period specified in paragraph (1)(B)(i).
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2579](https://www.govinfo.gov/link/statute/92/2579); [Pub. L. 98–353, title III, § 445](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 373](https://www.govinfo.gov/link/statute/98/373); [Pub. L. 99–554, title II](https://www.govinfo.gov/link/plaw/99/public/554), §§ 257(j), 283(f), Oct. 27, 1986, [100 Stat. 3115](https://www.govinfo.gov/link/statute/100/3115), 3117; [Pub. L. 103–394, title II, § 213(a)](https://www.govinfo.gov/link/plaw/103/public/394), title III, § 304(h)(1), Oct. 22, 1994, [108 Stat. 4125](https://www.govinfo.gov/link/statute/108/4125), 4134; [Pub. L. 109–8, title II, § 201(a)](https://www.govinfo.gov/link/plaw/109/public/8), title VII, § 716(d), title IX, § 910(b), Apr. 20, 2005, [119 Stat. 42](https://www.govinfo.gov/link/statute/119/42), 130, 184; [Pub. L. 116–260, div. FF, title X, § 1001(d)(2)](https://www.govinfo.gov/link/plaw/116/public/260), (3)(B), Dec. 27, 2020, [134 Stat. 3218](https://www.govinfo.gov/link/statute/134/3218).)*

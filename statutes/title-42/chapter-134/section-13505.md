@@ -3,9 +3,10 @@ title: "Section 13505 - Integration of research and development"
 usc_title: 42
 usc_section: "13505"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13505"
-generated_at: "2026-03-30T02:56:11.448Z"
+generated_at: "2026-11-23T20:27:23.505Z"
+status: "active"
 ---
 
 # § 13505. Integration of research and development
@@ -21,3 +22,7 @@ Within 180 days after October 24, 1992 , the Secretary, in consultation with app
     - **(C)** program coordination;
   - **(5)** recommendations for expanded research and development and new technology areas; and
   - **(6)** budget estimates for activities under this section.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XXII, § 2205](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3091](https://www.govinfo.gov/link/statute/106/3091).)*

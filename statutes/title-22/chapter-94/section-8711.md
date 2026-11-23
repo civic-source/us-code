@@ -3,9 +3,10 @@ title: "Section 8711 - Sense of Congress on enforcement of multilateral sanction
 usc_title: 22
 usc_section: "8711"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8711"
-generated_at: "2026-03-30T02:55:05.454Z"
+generated_at: "2026-11-23T20:26:32.730Z"
+status: "active"
 ---
 
 # § 8711. Sense of Congress on enforcement of multilateral sanctions regime and expansion and implementation of sanctions laws
@@ -27,3 +28,7 @@ It is the sense of Congress that the goal of compelling Iran to abandon efforts 
     - **(A)** the activities of telecommunications, Internet, and satellite service providers, in and outside of Iran, to ensure that such providers are not participating in or facilitating, directly or indirectly, the evasion of the sanctions regime with respect to Iran or violations of the human rights of the people of Iran;
     - **(B)** the activities of financial institutions or other businesses or government agencies, in or outside of Iran, not yet designated for the imposition of sanctions; and
     - **(C)** urgent and ongoing evaluation of Iran’s energy, national security, financial, and telecommunications sectors, to gauge the effects of, and possible defects in, particular sanctions, with prompt efforts to correct any gaps in the existing sanctions regime with respect to Iran.
+
+## Source Credit
+
+*([Pub. L. 112–158, title I, § 101](https://www.govinfo.gov/link/plaw/112/public/158), Aug. 10, 2012, [126 Stat. 1216](https://www.govinfo.gov/link/statute/126/1216).)*

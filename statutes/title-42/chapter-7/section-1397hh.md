@@ -3,9 +3,10 @@ title: "Section 1397hh - Annual reports; evaluations"
 usc_title: 42
 usc_section: "1397hh"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1397hh"
-generated_at: "2026-03-30T02:56:11.074Z"
+generated_at: "2026-11-23T20:27:21.688Z"
+status: "active"
 ---
 
 # § 1397hh. Annual reports; evaluations
@@ -61,3 +62,11 @@ generated_at: "2026-03-30T02:56:11.074Z"
     - **(B)** For children within each such age grouping, information of the type contained in questions 12(a)–(c) of CMS Form 416 (that consists of the number of enrolled targeted low income children who receive any, 2 preventive, or restorative dental care under the State plan).
     - **(C)** For the age grouping that includes children 8 years of age, the number of such children who have received a protective sealant on at least one permanent molar tooth.
   - **(2)** The information under paragraph (1) shall include information on children who are enrolled in managed care plans and other private health plans and contracts with such plans under this subchapter shall provide for the reporting of such information by such plans to the State.
+
+In general
+
+Transition period for states
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XXI, § 2108, as added [Pub. L. 105–33, title IV, § 4901(a)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 566](https://www.govinfo.gov/link/statute/111/566); amended [Pub. L. 106–113, div. B, § 1000(a)(6) [title VII, § 703(b), (c)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–401; [Pub. L. 111–3, title II, § 201(b)(2)(B)(ii)](https://www.govinfo.gov/link/plaw/111/public/3), title IV, § 402(a), title V, § 501(e)(2), title VI, §§ 603, 604, Feb. 4, 2009, [123 Stat. 39](https://www.govinfo.gov/link/statute/123/39), 82, 87, 99; [Pub. L. 111–8, div. G, title I, § 1301(e)](https://www.govinfo.gov/link/plaw/111/public/8), Mar. 11, 2009, [123 Stat. 829](https://www.govinfo.gov/link/statute/123/829); [Pub. L. 111–148, title IV, § 4302(b)(1)(B)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 581](https://www.govinfo.gov/link/statute/124/581).)*

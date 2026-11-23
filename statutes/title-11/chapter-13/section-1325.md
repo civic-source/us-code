@@ -3,9 +3,10 @@ title: "Section 1325 - Confirmation of plan"
 usc_title: 11
 usc_section: "1325"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 1325"
-generated_at: "2026-03-30T02:53:53.887Z"
+generated_at: "2026-11-23T20:25:55.437Z"
+status: "active"
 ---
 
 # § 1325. Confirmation of plan
@@ -52,3 +53,11 @@ generated_at: "2026-03-30T02:53:53.887Z"
         - **(III)** in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 1 per month for each individual in excess of 4; and
     - **(B)** may be less than 3 or 5 years, whichever is applicable under subparagraph (A), but only if the plan provides for payment in full of all allowed unsecured claims over a shorter period.
 - **(c)** After confirmation of a plan, the court may order any entity from whom the debtor receives income to pay all or any part of such income to the trustee.
+
+(aa) the payment of the underlying debt determined under nonbankruptcy law; or
+
+(bb) discharge under section 1328; and
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2649](https://www.govinfo.gov/link/statute/92/2649); [Pub. L. 98–353, title III](https://www.govinfo.gov/link/plaw/98/public/353), §§ 317, 530, July 10, 1984, [98 Stat. 356](https://www.govinfo.gov/link/statute/98/356), 389; [Pub. L. 99–554, title II, § 283(y)](https://www.govinfo.gov/link/plaw/99/public/554), Oct. 27, 1986, [100 Stat. 3118](https://www.govinfo.gov/link/statute/100/3118); [Pub. L. 105–183, § 4(a)](https://www.govinfo.gov/link/plaw/105/public/183), June 19, 1998, [112 Stat. 518](https://www.govinfo.gov/link/statute/112/518); [Pub. L. 109–8, title I, § 102(g)](https://www.govinfo.gov/link/plaw/109/public/8), (h), title II, § 213(10), title III, §§ 306(a), (b), 309(c)(1), 318(2), (3), title VII, § 716(a), Apr. 20, 2005, [119 Stat. 33](https://www.govinfo.gov/link/statute/119/33), 53, 80, 83, 93, 129; [Pub. L. 109–439, § 2](https://www.govinfo.gov/link/plaw/109/public/439), Dec. 20, 2006, [120 Stat. 3285](https://www.govinfo.gov/link/statute/120/3285); [Pub. L. 111–327, § 2(a)(44)](https://www.govinfo.gov/link/plaw/111/public/327), Dec. 22, 2010, [124 Stat. 3562](https://www.govinfo.gov/link/statute/124/3562); [Pub. L. 116–136, div. A, title I, § 1113(b)(1)(B)](https://www.govinfo.gov/link/plaw/116/public/136), (2)(A)(ii), Mar. 27, 2020, [134 Stat. 311](https://www.govinfo.gov/link/statute/134/311), 312; [Pub. L. 116–260, div. N, title III, § 320(e)](https://www.govinfo.gov/link/plaw/116/public/260), (f)(2)(A)(v), Dec. 27, 2020, [134 Stat. 2016](https://www.govinfo.gov/link/statute/134/2016), 2017.)*

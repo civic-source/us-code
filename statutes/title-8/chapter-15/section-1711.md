@@ -3,9 +3,10 @@ title: "Section 1711 - Authorization of appropriations for hiring and training G
 usc_title: 8
 usc_section: "1711"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1711"
-generated_at: "2026-03-30T02:53:10.507Z"
+generated_at: "2026-11-23T20:25:36.281Z"
+status: "active"
 ---
 
 # § 1711. Authorization of appropriations for hiring and training Government personnel
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:53:10.507Z"
     - **(B)** staff the facilities and programs associated with the activities described in subparagraph (A); and
     - **(C)** provide ongoing training for consular officers and diplomatic security agents.
   - **(2)** There are authorized to be appropriated for the Department of State such sums as may be necessary to carry out paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 107–173, title I, § 101](https://www.govinfo.gov/link/plaw/107/public/173), May 14, 2002, [116 Stat. 545](https://www.govinfo.gov/link/statute/116/545).)*

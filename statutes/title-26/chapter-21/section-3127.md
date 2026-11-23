@@ -3,9 +3,10 @@ title: "Section 3127 - Exemption for employers and their employees where both ar
 usc_title: 26
 usc_section: "3127"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 3127"
-generated_at: "2026-03-30T02:55:27.789Z"
+generated_at: "2026-11-23T20:26:46.203Z"
+status: "active"
 ---
 
 # § 3127. Exemption for employers and their employees where both are members of religious faiths opposed to participation in Social Security Act programs
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:27.789Z"
 - **(c)** An exemption granted under this section to any employer with respect to wages paid to any of the employees thereof, or granted to any such employee, shall apply with respect to wages paid by such employer during the period—
   - **(1)** commencing with the first day of the first calendar quarter, after the quarter in which such application is filed, throughout which such employer (or, if the employer is a partnership, each partner therein) or employee meets the applicable requirements specified in subsections (a) and (b), and
   - **(2)** ending with the last day of the calendar quarter preceding the first calendar quarter thereafter in which (A) such employer (or, if the employer is a partnership, any partner therein) or the employee involved does not meet the applicable requirements of subsection (a), or (B) the sect or division thereof of which such employer (or, if the employer is a partnership, any partner therein) or employee is a member is found by the Commissioner of Social Security to have ceased to meet the requirements of subsection (b)(2).
+
+## Source Credit
+
+*(Added [Pub. L. 100–647, title VIII, § 8007(a)(1)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3781](https://www.govinfo.gov/link/statute/102/3781); amended [Pub. L. 101–239, title X, § 10204(b)(1)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2474](https://www.govinfo.gov/link/statute/103/2474); [Pub. L. 103–296, title I, § 108(h)(3)](https://www.govinfo.gov/link/plaw/103/public/296), Aug. 15, 1994, [108 Stat. 1487](https://www.govinfo.gov/link/statute/108/1487); [Pub. L. 115–141, div. U, title IV, § 401(b)(35)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1204](https://www.govinfo.gov/link/statute/132/1204).)*

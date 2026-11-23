@@ -3,9 +3,10 @@ title: "Section 5494 - Consumer Advisory Board"
 usc_title: 12
 usc_section: "5494"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5494"
-generated_at: "2026-03-30T02:53:53.542Z"
+generated_at: "2026-11-23T20:25:59.512Z"
+status: "active"
 ---
 
 # § 5494. Consumer Advisory Board
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:53.542Z"
 - **(d)** Members of the Consumer Advisory Board who are not full-time employees of the United States shall—
   - **(1)** be entitled to receive compensation at a rate fixed by the Director while attending meetings of the Consumer Advisory Board, including travel time; and
   - **(2)** be allowed travel expenses, including transportation and subsistence, while away from their homes or regular places of business.
+
+## Source Credit
+
+*([Pub. L. 111–203, title X, § 1014](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1974](https://www.govinfo.gov/link/statute/124/1974).)*

@@ -3,9 +3,10 @@ title: "Section 6901 - Findings"
 usc_title: 22
 usc_section: "6901"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6901"
-generated_at: "2026-03-30T02:55:05.434Z"
+generated_at: "2026-11-23T20:26:32.634Z"
+status: "active"
 ---
 
 # § 6901. Findings
@@ -24,3 +25,275 @@ The Congress finds the following:
   - **(10)** The record of the People’s Republic of China in implementing trade-related commitments has been mixed. While the People’s Republic of China has generally met the requirements of the 1992 market access memorandum of understanding and the 1992 and 1995 agreements on intellectual property rights protection, other measures remain in place or have been put into place which tend to diminish the benefit to United States businesses, farmers, and workers from the People’s Republic of China’s implementation of those earlier commitments. Notably, administration of tariff-rate quotas and other trade-related laws remains opaque, new local content requirements have proliferated, restrictions on importation of animal and plant products are not always supported by sound science, and licensing requirements for importation and distribution of goods remain common. Finally, the Government of the People’s Republic of China has failed to cooperate with the United States Customs Service in implementing a 1992 memorandum of understanding prohibiting trade in products made by prison labor.
   - **(11)** The human rights record of the People’s Republic of China is a matter of very serious concern to the Congress. The Congress notes that the Department of State’s 1999 Country Reports on Human Rights Practices for the People’s Republic of China finds that “[t]he Government’s poor human rights record deteriorated markedly throughout the year, as the Government intensified efforts to suppress dissent, particularly organized dissent.”.
   - **(12)** The Congress deplores violations by the Government of the People’s Republic of China of human rights, religious freedoms, and worker rights that are referred to in the Department of State’s 1999 Country Reports on Human Rights Practices for the People’s Republic of China, including the banning of the Falun Gong spiritual movement, denial in many cases, particularly politically sensitive ones, of effective representation by counsel and public trials, extrajudicial killings and torture, forced abortion and sterilization, restriction of access to Tibet and Xinjiang, perpetuation of “reeducation through labor”, denial of the right of workers to organize labor unions or bargain collectively with their employers, and failure to implement a 1992 memorandum of understanding prohibiting trade in products made by prison labor.
+
+Establishment
+
+Personnel.—
+
+Composition
+
+Staffing
+
+Director
+
+Deputy director
+
+Monitoring, Evaluation, and Learning Activities
+
+PRC Malign Influence Defined
+
+Termination
+
+Finding; Statement of Policy.—
+
+Finding
+
+Statement of policy
+
+Definitions
+
+Duties of the Secretary.—
+
+Report on development status in current treaty negotiations
+
+Report on development status in existing organizations and treaties
+
+Mechanisms for changing development status.—
+
+In general
+
+Waiver
+
+Exception
+
+Duties of the United States Trade Representative.—
+
+Report on special and differential treatment at the world trade organization
+
+Sense of congress on mechanisms for changing special and differential treatment at the world trade organization
+
+Public Comment.—
+
+In general
+
+Period for comment
+
+Public Hearing.—
+
+In general
+
+Measures described
+
+Development of Strategy
+
+Elements
+
+Submission of Strategy.—
+
+In general
+
+Updates of certain matters
+
+Form of report
+
+Public availability
+
+Rule of Construction
+
+In General
+
+Exceptions
+
+Report Required
+
+Regulations
+
+Effective Date
+
+In General
+
+Matters To Be Included
+
+Additional Matters To Be Included
+
+Form
+
+Updates
+
+In General
+
+Effective Date; Applicability
+
+Transition Rule.—
+
+Interim report
+
+Imposition of sanctions
+
+Appropriate congressional committees
+
+Forced labor
+
+Foreign person
+
+Person
+
+United states person
+
+Report Required.—
+
+In general
+
+Form
+
+Imposition of Sanctions
+
+Sanctions Described
+
+Asset blocking
+
+Ineligibility for visas, admission, or parole.—
+
+Visas, admission, or parole
+
+Current visas revoked.—
+
+In general
+
+Immediate effect
+
+Penalties
+
+Implementation
+
+Waiver
+
+Exceptions.—
+
+Exception for intelligence activities
+
+Exception to comply with international obligations and for law enforcement activities
+
+Exception relating to importation of goods.—
+
+In general
+
+Good defined
+
+Termination of Sanctions
+
+Sunset
+
+Definitions
+
+Admission; admitted; alien
+
+Foreign person
+
+United states person
+
+In General
+
+Responsibilities of the Office of Science and Technology Cooperation
+
+Agreement Defined
+
+Interagency Working Group
+
+“It is the policy of the United States—
+
+Findings
+
+Statement of Policy
+
+Holding Chinese Officials Responsible for Religious Freedom Abuses Targeting Tibetan Buddhists
+
+Department of State Programming to Promote Religious Freedom for Tibetan Buddhists
+
+Policy.—
+
+In general
+
+Policy communication
+
+Compliance
+
+Periodic Reports
+
+Declarations of Policy
+
+International Financial Institutions
+
+Export-Import Bank and TDA
+
+Tibet Project Principles
+
+United States Assistance.—
+
+In general
+
+Coordination
+
+Private Sector Investment
+
+United States Consulate in Lhasa, Tibet
+
+Policy
+
+Waiver
+
+High-Level Contacts
+
+Promotion of Increased Advocacy
+
+United States Special Coordinator for Tibetan Issues
+
+Consultation
+
+Objectives
+
+Duties and Responsibilities
+
+Personnel
+
+Findings and Declarations
+
+Sense of Congress
+
+Continued Application.—
+
+In general
+
+Exception
+
+Export Controls.—
+
+In general
+
+Rule of construction
+
+International Agreements.—
+
+In general
+
+Exception
+
+In General
+
+Separate Part of Country Reports
+
+Joint declaration
+
+Macau
+
+Section
+
+Sec.
+
+Sec.
+
+J.R. Biden, Jr.
+
+## Source Credit
+
+*([Pub. L. 106–286, div. B, title II, § 202](https://www.govinfo.gov/link/plaw/106/public/286), Oct. 10, 2000, [114 Stat. 892](https://www.govinfo.gov/link/statute/114/892).)*

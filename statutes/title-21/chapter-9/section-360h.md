@@ -3,9 +3,10 @@ title: "Section 360h - Notification and other remedies"
 usc_title: 21
 usc_section: "360h"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 360h"
-generated_at: "2026-03-30T02:54:54.250Z"
+generated_at: "2026-11-23T20:26:27.646Z"
+status: "active"
 ---
 
 # § 360h. Notification and other remedies
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:54:54.250Z"
         - **(II)** not include recall of a device from device user facilities if the Secretary determines that the risk of recalling such device from the facilities presents a greater health risk than the health risk of not recalling the device from use, and
       - **(ii)** shall provide for notice to individuals subject to the risks associated with the use of such device.
   - **(3)** The remedy provided by this subsection shall be in addition to remedies provided by subsections (a), (b), and (c).
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 518, as added [Pub. L. 94–295, § 2](https://www.govinfo.gov/link/plaw/94/public/295), May 28, 1976, [90 Stat. 562](https://www.govinfo.gov/link/statute/90/562); amended [Pub. L. 101–629, § 8](https://www.govinfo.gov/link/plaw/101/public/629), Nov. 28, 1990, [104 Stat. 4520](https://www.govinfo.gov/link/statute/104/4520); [Pub. L. 102–300, § 4](https://www.govinfo.gov/link/plaw/102/public/300), June 16, 1992, [106 Stat. 239](https://www.govinfo.gov/link/statute/106/239).)*

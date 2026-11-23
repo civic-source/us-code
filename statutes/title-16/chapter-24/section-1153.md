@@ -3,12 +3,17 @@ title: "Section 1153 - Sealing permitted by Aleuts, Eskimos, and Indians"
 usc_title: 16
 usc_section: "1153"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1153"
-generated_at: "2026-03-30T02:54:22.942Z"
+generated_at: "2026-11-23T20:26:20.405Z"
+status: "active"
 ---
 
 # § 1153. Sealing permitted by Aleuts, Eskimos, and Indians
 
 - **(a)** Indians, Aleuts, and Eskimos who dwell on the coasts of the North Pacific Ocean are permitted to take fur seals and dispose of their skins after the skins have been officially marked and certified by a person authorized by the Secretary: Provided , That the seals are taken for subsistence uses as defined in section 1379(f)(2) of this title , and only in canoes not transported by or used in connection with other vessels, and propelled entirely by oars, paddles, or sails, and manned by not more than five persons each, in the way hitherto practiced and without the use of firearms. This authority shall not apply to Indians, Aleuts, and Eskimos while they are employed by any person for the purpose of taking fur seals or are under contract to deliver the skins to any person.
 - **(b)** Indians, Aleuts, and Eskimos who live on the Pribilof Islands are authorized to take fur seals for subsistence purposes as defined in section 1379(f)(2) of this title , under such conditions as recommended by the Commission and accepted by the Secretary of State pursuant to regulations promulgated by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 89–702, title I, § 103](https://www.govinfo.gov/link/plaw/89/public/702), Nov. 2, 1966, [80 Stat. 1091](https://www.govinfo.gov/link/statute/80/1091); [Pub. L. 98–129, § 2](https://www.govinfo.gov/link/plaw/98/public/129), Oct. 14, 1983, [97 Stat. 836](https://www.govinfo.gov/link/statute/97/836).)*

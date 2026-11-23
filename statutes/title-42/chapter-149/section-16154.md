@@ -3,9 +3,10 @@ title: "Section 16154 - Clean hydrogen research and development program"
 usc_title: 42
 usc_section: "16154"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16154"
-generated_at: "2026-03-30T02:56:11.470Z"
+generated_at: "2026-11-23T20:27:23.616Z"
+status: "active"
 ---
 
 # § 16154. Clean hydrogen research and development program
@@ -85,3 +86,7 @@ generated_at: "2026-03-30T02:56:11.470Z"
   - **(5)** $200,000,000 for fiscal year 2010; and
   - **(6)** such sums as are necessary for each of fiscal years 2011 through 2020.
 - **(j)** Not later than 180 days after November 15, 2021 , the Secretary shall establish targets for the program to address near-term (up to 2 years), mid-term (up to 7 years), and long-term (up to 15 years) challenges to the advancement of clean hydrogen systems and technologies.
+
+## Source Credit
+
+*([Pub. L. 109–58, title VIII, § 805](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 845](https://www.govinfo.gov/link/statute/119/845); [Pub. L. 117–58, div. D, title III, § 40313(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1006](https://www.govinfo.gov/link/statute/135/1006).)*

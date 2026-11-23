@@ -3,9 +3,10 @@ title: "Section 1387 - Semiannual report of disbursements"
 usc_title: 2
 usc_section: "1387"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1387"
-generated_at: "2026-03-30T02:53:04.812Z"
+generated_at: "2026-11-23T20:25:28.963Z"
+status: "active"
 ---
 
 # § 1387. Semiannual report of disbursements
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:04.812Z"
     - **(E)** such additional information as may be required by regulation of the Committee on House Administration of the House of Representatives, the Committee on Rules and Administration of the Senate, or the Committees on Appropriations of the House of Representatives or Senate.
   - **(2)** The Executive Director of the Office of Compliance 1 may exclude from any report required by subsection (a) any information the disclosure of which would violate confidentiality policies of the Office of Compliance. 1
 - **(c)** This section shall apply with respect to the semiannual periods of October 1 through March 31 and April 1 through September 30 of each fiscal year, beginning with fiscal year 2014.
+
+## Source Credit
+
+*([Pub. L. 113–76, div. I, title I, § 1102](https://www.govinfo.gov/link/plaw/113/public/76), Jan. 17, 2014, [128 Stat. 425](https://www.govinfo.gov/link/statute/128/425).)*

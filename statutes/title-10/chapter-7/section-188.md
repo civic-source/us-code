@@ -3,9 +3,10 @@ title: "Section 188 - Interagency Council on the Strategic Capability of the Nat
 usc_title: 10
 usc_section: "188"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 188"
-generated_at: "2026-03-30T02:53:38.045Z"
+generated_at: "2026-11-23T20:25:50.869Z"
+status: "active"
 ---
 
 # § 188. Interagency Council on the Strategic Capability of the National Laboratories
@@ -40,3 +41,25 @@ generated_at: "2026-03-30T02:53:38.045Z"
   - **(2)** The term “national laboratories” means—
     - **(A)** each national security laboratory (as defined in section 3281(1) of the National Nuclear Security Administration Act ( 50 U.S.C. 2471(1) )); and
     - **(B)** each national laboratory of the Department of Energy.
+
+Establishment
+
+Membership
+
+Structure and Procedures
+
+Responsibilities
+
+Streamlined Process
+
+Definitions
+
+In general
+
+Form
+
+Appropriate congressional committees defined
+
+## Source Credit
+
+*(Added [Pub. L. 112–239, div. A, title X, § 1040(a)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1928](https://www.govinfo.gov/link/statute/126/1928).)*

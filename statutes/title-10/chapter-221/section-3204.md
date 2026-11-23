@@ -3,9 +3,10 @@ title: "Section 3204 - Use of procedures other than competitive procedures"
 usc_title: 10
 usc_section: "3204"
 chapter: 221
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 3204"
-generated_at: "2026-03-30T02:53:38.189Z"
+generated_at: "2026-11-23T20:25:51.810Z"
+status: "active"
 ---
 
 # § 3204. Use of procedures other than competitive procedures
@@ -87,3 +88,85 @@ generated_at: "2026-03-30T02:53:38.189Z"
     - **(A)** specify the incurred overhead a contractor may appropriately allocate to supplies referred to in that paragraph; and
     - **(B)** require the contractor to identify those supplies which it did not manufacture or to which it did not contribute significant value.
   - **(3)** Such regulations shall not apply to an item of supply included in a contract or subcontract for which the price is based on established catalog or market prices of commercial products sold in substantial quantities to the general public.
+
+When Procedures Other Than Competitive Procedures May Be Used
+
+Property or Services Considered to Be Available From Only One Source
+
+Property or Services Needed With Unusual and Compelling Urgency.—
+
+Allowable contract period
+
+Applicability of allowable contract period
+
+Offer Requests to Potential Sources
+
+Justification for Use of Procedures Other Than Competitive Procedures.—
+
+Prerequisites for awarding contract
+
+Elements of justification
+
+Justification and approval allowed after contract awarded
+
+Justification and approval not required
+
+Restrictions on Agencies.—
+
+Limitation on Delegations of Authority Under Paragraph
+
+Justification and approval not required for phase iii sbir award
+
+Public Availability of Justification and Approval Required for Using Procedures Other Than Competitive Procedures.—
+
+Time requirement.—
+
+Within 14 days after contract award
+
+Within 30 days after contract award
+
+Availability on websites
+
+Exception
+
+Regulations With Respect to Negotiation of Prices.—
+
+Qualified Business Wholly-owned Through an Employee Stock Ownership Plan Defined
+
+Pilot Program to Use Noncompetitive Procedures for Certain Follow-on Contracts to Qualified Businesses Wholly-Owned Through an Employee Stock Ownership Plan.—
+
+Establishment
+
+Follow-on contracts
+
+Limitation
+
+Verification and Reporting of Qualified Businesses Wholly-owned Through an Employee Stock Ownership Plan
+
+Data.—
+
+In general
+
+Limitation
+
+Sunset
+
+Comptroller General Report.—
+
+In general
+
+Elements
+
+Modification of Justification and Approval Requirement
+
+Guidance
+
+Comptroller General Review.—
+
+Data tracking and collection
+
+Report
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1811(d)(1)](https://www.govinfo.gov/link/plaw/116/public/283), (3)–(8), Jan. 1, 2021, [134 Stat. 4166–4169](https://www.govinfo.gov/link/statute/134/4166); [Pub. L. 117–81, div. A, title XVII, § 1701(b)(4)(B)](https://www.govinfo.gov/link/plaw/117/public/81) –(E), Dec. 27, 2021, [135 Stat. 2132](https://www.govinfo.gov/link/statute/135/2132); [Pub. L. 119–60, div. A, title XVIII, § 1804(b)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1234](https://www.govinfo.gov/link/statute/139/1234).)*

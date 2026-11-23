@@ -3,9 +3,10 @@ title: "Section 7711 - Regulation of movement of plant pests"
 usc_title: 7
 usc_section: "7711"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7711"
-generated_at: "2026-03-30T02:53:42.460Z"
+generated_at: "2026-11-23T20:25:41.827Z"
+status: "active"
 ---
 
 # § 7711. Regulation of movement of plant pests
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:42.460Z"
     - **(B)** may pose a significant risk of causing injury to, damage to, or disease in any plant or plant product; or
     - **(C)** may be a noxious weed; and
   - **(4)** be subject to remedial measures the Secretary determines to be necessary to prevent the spread of plant pests.
+
+## Source Credit
+
+*([Pub. L. 106–224, title IV, § 411](https://www.govinfo.gov/link/plaw/106/public/224), June 20, 2000, [114 Stat. 440](https://www.govinfo.gov/link/statute/114/440).)*

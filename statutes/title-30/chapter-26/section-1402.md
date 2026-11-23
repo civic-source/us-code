@@ -3,9 +3,10 @@ title: "Section 1402 - International objectives"
 usc_title: 30
 usc_section: "1402"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1402"
-generated_at: "2026-03-30T02:55:29.404Z"
+generated_at: "2026-11-23T20:26:35.040Z"
+status: "active"
 ---
 
 # § 1402. International objectives
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:29.404Z"
 - **(b)**
   - **(1)** The Secretary of State is encouraged to negotiate successfully a comprehensive Law of the Sea Treaty which, among other things, provides assured and nondiscriminatory access to the hard mineral resources of the deep seabed for all nations, gives legal definition to the principle that the resources of the deep seabed are the common heritage of mankind, and provides for the establishment of requirements for the protection of the quality of the environment as stringent as those promulgated pursuant to this chapter.
   - **(2)** Until such a Treaty is concluded, the Secretary of State is encouraged to promote any international actions necessary to adequately protect the environment from adverse impacts which may result from any exploration for and commercial recovery of hard mineral resources of the deep seabed carried out by persons not subject to this chapter.
+
+## Source Credit
+
+*([Pub. L. 96–283, § 3](https://www.govinfo.gov/link/plaw/96/public/283), June 28, 1980, [94 Stat. 555](https://www.govinfo.gov/link/statute/94/555).)*

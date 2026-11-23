@@ -3,9 +3,10 @@ title: "Section 1087pp - Student aid index for independent students without depe
 usc_title: 20
 usc_section: "1087pp"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1087pp"
-generated_at: "2026-03-30T02:54:48.129Z"
+generated_at: "2026-11-23T20:26:14.484Z"
+status: "active"
 ---
 
 # § 1087pp. Student aid index for independent students without dependents other than a spouse
@@ -39,3 +40,153 @@ generated_at: "2026-03-30T02:54:48.129Z"
     - **(B)** The family’s available assets under this subsection shall not be less than zero.
   - **(2)** The asset protection allowance is calculated based on the following table (as revised by the Secretary pursuant to section 1087rr(d) of this title ): Asset Protection Allowances for Families and Students If the age of the student is— And the student is married single then the allowance is— 25 or less $ 0 $0 26 $400 $100 27 $700 $300 28 $1,100 $400 29 $1,500 $600 30 $1,800 $700 31 $2,200 $800 32 $2,600 $1,000 33 $2,900 $1,100 34 $3,300 $1,300 35 $3,700 $1,400 36 $4,000 $1,500 37 $4,400 $1,700 38 $4,800 $1,800 39 $5,100 $2,000 40 $5,500 $2,100 41 $5,600 $2,200 42 $5,700 $2,200 43 $5,900 $2,300 44 $6,000 $2,300 45 $6,200 $2,400 46 $6,300 $2,400 47 $6,500 $2,500 48 $6,600 $2,500 49 $6,800 $2,600 50 $7,000 $2,700 51 $7,100 $2,700 52 $7,300 $2,800 53 $7,500 $2,900 54 $7,700 $2,900 55 $7,900 $3,000 56 $8,100 $3,100 57 $8,400 $3,100 58 $8,600 $3,200 59 $8,800 $3,300 60 $9,100 $3,400 61 $9,300 $3,500 62 $9,600 $3,600 63 $9,900 $3,700 64 $10,200 $3,800 65 or more $10,500 $3,900.
 - **(d)** In the case of a student who is divorced or separated, or whose spouse has died, the spouse’s income and assets shall not be considered in determining the family’s available income or assets.
+
+| Asset Protection Allowances for Families and Students | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | then the allowance is— |  |
+| 25 or less | $ 0 | $0 |
+| 26 | $400 | $100 |
+| 27 | $700 | $300 |
+| 28 | $1,100 | $400 |
+| 29 | $1,500 | $600 |
+| 30 | $1,800 | $700 |
+| 31 | $2,200 | $800 |
+| 32 | $2,600 | $1,000 |
+| 33 | $2,900 | $1,100 |
+| 34 | $3,300 | $1,300 |
+| 35 | $3,700 | $1,400 |
+| 36 | $4,000 | $1,500 |
+| 37 | $4,400 | $1,700 |
+| 38 | $4,800 | $1,800 |
+| 39 | $5,100 | $2,000 |
+| 40 | $5,500 | $2,100 |
+| 41 | $5,600 | $2,200 |
+| 42 | $5,700 | $2,200 |
+| 43 | $5,900 | $2,300 |
+| 44 | $6,000 | $2,300 |
+| 45 | $6,200 | $2,400 |
+| 46 | $6,300 | $2,400 |
+| 47 | $6,500 | $2,500 |
+| 48 | $6,600 | $2,500 |
+| 49 | $6,800 | $2,600 |
+| 50 | $7,000 | $2,700 |
+| 51 | $7,100 | $2,700 |
+| 52 | $7,300 | $2,800 |
+| 53 | $7,500 | $2,900 |
+| 54 | $7,700 | $2,900 |
+| 55 | $7,900 | $3,000 |
+| 56 | $8,100 | $3,100 |
+| 57 | $8,400 | $3,100 |
+| 58 | $8,600 | $3,200 |
+| 59 | $8,800 | $3,300 |
+| 60 | $9,100 | $3,400 |
+| 61 | $9,300 | $3,500 |
+| 62 | $9,600 | $3,600 |
+| 63 | $9,900 | $3,700 |
+| 64 | $10,200 | $3,800 |
+| 65 or more | $10,500 | $3,900. |
+
+| “Adjusted Net Worth of a Business or Farm | Col 2 |
+| --- | --- |
+| Less than $1 | $0 |
+| $1–$65,000 | 40 percent of NW |
+| $65,001–$195,000 | $26,000 plus 50 percent of NW over $65,000 |
+| $195,001–$325,000 | $91,000 plus 60 percent of NW over $195,000 |
+| $325,001 or more | $169,000 plus 100 percent of NW over $325,000”. |
+
+
+25 or less
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+32
+
+33
+
+34
+
+35
+
+36
+
+37
+
+38
+
+39
+
+40
+
+41
+
+42
+
+43
+
+44
+
+45
+
+46
+
+47
+
+48
+
+49
+
+50
+
+51
+
+52
+
+53
+
+54
+
+55
+
+56
+
+57
+
+58
+
+59
+
+60
+
+61
+
+62
+
+63
+
+64
+
+65 or more
+
+Less than $1
+
+$1–$65,000
+
+$65,001–$195,000
+
+$195,001–$325,000
+
+$325,001 or more
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 476](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title IV, § 406(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1463](https://www.govinfo.gov/link/statute/100/1463); amended [Pub. L. 100–50, § 14(1)](https://www.govinfo.gov/link/plaw/100/public/50), (3), (4), (13)–(17), June 3, 1987, [101 Stat. 349](https://www.govinfo.gov/link/statute/101/349), 351; [Pub. L. 102–325, title IV, § 471(a)](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 594](https://www.govinfo.gov/link/statute/106/594); [Pub. L. 103–208, § 2(g)(6)](https://www.govinfo.gov/link/plaw/103/public/208), Dec. 20, 1993, [107 Stat. 2472](https://www.govinfo.gov/link/statute/107/2472); [Pub. L. 105–78, title VI, § 609(h)](https://www.govinfo.gov/link/plaw/105/public/78), Nov. 13, 1997, [111 Stat. 1524](https://www.govinfo.gov/link/statute/111/1524); [Pub. L. 105–244, title IV, § 474](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1730](https://www.govinfo.gov/link/statute/112/1730); [Pub. L. 109–171, title VIII, § 8017(b)(1)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 173](https://www.govinfo.gov/link/statute/120/173); [Pub. L. 110–84, title VI, § 601(b)](https://www.govinfo.gov/link/plaw/110/public/84), Sept. 27, 2007, [121 Stat. 801](https://www.govinfo.gov/link/statute/121/801); [Pub. L. 116–260, div. FF, title VII, § 702(e)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3145](https://www.govinfo.gov/link/statute/134/3145).)*

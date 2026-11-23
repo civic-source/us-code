@@ -3,9 +3,10 @@ title: "Section 2053 - Consumer Product Safety Commission"
 usc_title: 15
 usc_section: "2053"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2053"
-generated_at: "2026-03-30T02:54:08.161Z"
+generated_at: "2026-11-23T20:26:04.143Z"
+status: "active"
 ---
 
 # § 2053. Consumer Product Safety Commission
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:54:08.161Z"
     - **(B)** any exercise or performance, or failure to exercise or perform, a discretionary function on the part of the Commission or any employee thereof, which exercise, performance, or failure was grossly negligent; and
   - **(2)** is not made with respect to any agency action (as defined in section 551(13) of title 5 ).
 - **(j)** At least 30 days before the beginning of each fiscal year, the Commission shall establish an agenda for Commission action under the Acts under its jurisdiction and, to the extent feasible, shall establish priorities for such actions. Before establishing such agenda and priorities, the Commission shall conduct a public hearing on the agenda and priorities and shall provide reasonable opportunity for the submission of comments.
+
+## Source Credit
+
+*([Pub. L. 92–573, § 4](https://www.govinfo.gov/link/plaw/92/public/573), Oct. 27, 1972, [86 Stat. 1210](https://www.govinfo.gov/link/statute/86/1210); [Pub. L. 94–284](https://www.govinfo.gov/link/plaw/94/public/284), §§ 4, 5(a), May 11, 1976, [90 Stat. 504](https://www.govinfo.gov/link/statute/90/504); [Pub. L. 95–631, § 2](https://www.govinfo.gov/link/plaw/95/public/631), Nov. 10, 1978, [92 Stat. 3742](https://www.govinfo.gov/link/statute/92/3742); [Pub. L. 96–373](https://www.govinfo.gov/link/plaw/96/public/373), Oct. 3, 1980, [94 Stat. 1366](https://www.govinfo.gov/link/statute/94/1366); [Pub. L. 101–608, title I](https://www.govinfo.gov/link/plaw/101/public/608), §§ 102–105(a), Nov. 16, 1990, [104 Stat. 3110](https://www.govinfo.gov/link/statute/104/3110), 3111; [Pub. L. 112–74, div. C, title V, § 501](https://www.govinfo.gov/link/plaw/112/public/74), Dec. 23, 2011, [125 Stat. 907](https://www.govinfo.gov/link/statute/125/907).)*

@@ -3,9 +3,10 @@ title: "Section 7d - Guidance regarding application of health care fraud and abu
 usc_title: 42
 usc_section: "7d"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7d"
-generated_at: "2026-03-30T02:56:10.910Z"
+generated_at: "2026-11-23T20:27:20.996Z"
+status: "active"
 ---
 
 # § 1320a–7d. Guidance regarding application of health care fraud and abuse sanctions
@@ -66,3 +67,7 @@ generated_at: "2026-03-30T02:56:10.910Z"
   - **(2)** In determining whether to issue a special fraud alert upon a request described in paragraph (1), the Inspector General may consider—
     - **(A)** whether and to what extent the practices that would be identified in the special fraud alert may result in any of the consequences described in subsection (a)(2); and
     - **(B)** the volume and frequency of the conduct that would be identified in the special fraud alert.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XI, § 1128D, as added [Pub. L. 104–191, title II, § 205](https://www.govinfo.gov/link/plaw/104/public/191), Aug. 21, 1996, [110 Stat. 2000](https://www.govinfo.gov/link/statute/110/2000); amended [Pub. L. 105–33, title IV, § 4331(a)(1)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 395](https://www.govinfo.gov/link/statute/111/395); [Pub. L. 105–277, div. J, title V, § 5201(c)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–917](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 106–554, § 1(a)(6) [title V, § 543]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–551; [Pub. L. 117–286, § 4(b)(79)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4351](https://www.govinfo.gov/link/statute/136/4351); [Pub. L. 117–328, div. FF, title IV, § 4127](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5915](https://www.govinfo.gov/link/statute/136/5915).)*

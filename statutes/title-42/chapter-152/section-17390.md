@@ -3,9 +3,10 @@ title: "Section 17390 - Voluntary model pathways"
 usc_title: 42
 usc_section: "17390"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17390"
-generated_at: "2026-03-30T02:56:11.507Z"
+generated_at: "2026-11-23T20:27:23.760Z"
+status: "active"
 ---
 
 # § 17390. Voluntary model pathways
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:56:11.507Z"
     - **(H)** independent research institutes; and
     - **(I)** other entities.
 - **(b)** The Secretary may provide technical assistance to States, Indian Tribes, or units of local government to adopt or implement one or more elements of the pathways developed under subsection (a)(1), including on a pilot basis.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. Z, title VIII, § 8008](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2586](https://www.govinfo.gov/link/statute/134/2586).)*

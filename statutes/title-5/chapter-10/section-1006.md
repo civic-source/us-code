@@ -3,9 +3,10 @@ title: "Section 1006 - Responsibilities of the Administrator"
 usc_title: 5
 usc_section: "1006"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 1006"
-generated_at: "2026-03-30T02:52:55.992Z"
+generated_at: "2026-11-23T20:25:31.759Z"
+status: "active"
 ---
 
 # § 1006. Responsibilities of the Administrator
@@ -31,3 +32,48 @@ generated_at: "2026-03-30T02:52:55.992Z"
     - **(A)** is a full-time employee of the United States without regard to service with an advisory committee; or
     - **(B)** was a full-time employee of the United States immediately before service with an advisory committee.
 - **(e)** The Administrator shall include in budget recommendations a summary of the amounts the Administrator considers necessary for the expenses of advisory committees, including the expenses for publication of reports where appropriate.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1006 | 5 U.S.C. App. (FACA § 7) | Pub. L. 92–463, § 7 , Oct. 6, 1972 , 86 Stat. 772 ; Pub. L. 96–523, § 2 , Dec. 12, 1980 , 94 Stat. 3040 . |
+
+
+Committee Management Secretariat
+
+Annual Reviews.—
+
+In general
+
+Obtaining information
+
+Recommendations
+
+Administrative Guidelines and Management Controls
+
+Guidelines for Uniform Fair Pay Rates.—
+
+In general
+
+Pay for full-time employees
+
+Budget Recommendations
+
+Historical and Revision Notes
+
+1006
+
+Pub. L. 92–463, § 7
+
+Oct. 6, 1972
+
+86 Stat. 772
+
+Pub. L. 96–523, § 2
+
+Dec. 12, 1980
+
+94 Stat. 3040
+
+## Source Credit
+
+*([Pub. L. 117–286, § 3(a)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4199](https://www.govinfo.gov/link/statute/136/4199).)*

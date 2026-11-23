@@ -3,9 +3,10 @@ title: "Section 3308a - Provision of certain information to Government Accountab
 usc_title: 50
 usc_section: "3308a"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3308a"
-generated_at: "2026-03-30T02:56:26.242Z"
+generated_at: "2026-11-23T20:27:30.951Z"
+status: "active"
 ---
 
 # § 3308a. Provision of certain information to Government Accountability Office by National Reconnaissance Office
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:26.242Z"
 - **(b)** In this section, the term “appropriate congressional committees” means—
   - **(1)** the congressional defense committees; and
   - **(2)** the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 114–328, div. A, title XVI, § 1620](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2596](https://www.govinfo.gov/link/statute/130/2596).)*

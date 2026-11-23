@@ -3,9 +3,10 @@ title: "Section 17081 - Commercial high-performance green buildings"
 usc_title: 42
 usc_section: "17081"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17081"
-generated_at: "2026-03-30T02:56:11.494Z"
+generated_at: "2026-11-23T20:27:23.721Z"
+status: "active"
 ---
 
 # § 17081. Commercial high-performance green buildings
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:56:11.494Z"
     - **(A)** the extent to which the programs are being carried out in accordance with this part; and
     - **(B)** the status of funding requests and appropriations for those programs; and
   - **(2)** summarizes and highlights development, at the State and local level, of high-performance green building initiatives, including executive orders, policies, or laws adopted promoting high-performance green building (including the status of implementation of those initiatives).
+
+## Source Credit
+
+*([Pub. L. 110–140, title IV, § 421](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1602](https://www.govinfo.gov/link/statute/121/1602).)*

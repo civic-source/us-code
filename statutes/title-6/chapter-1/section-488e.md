@@ -3,9 +3,10 @@ title: "Section 488e - Prohibitions and penalty"
 usc_title: 6
 usc_section: "488e"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 488e"
-generated_at: "2026-03-30T02:53:09.468Z"
+generated_at: "2026-11-23T20:25:34.777Z"
+status: "active"
 ---
 
 # § 488e. Prohibitions and penalty
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:09.468Z"
   - **(3)** any other matter that the Secretary determines that justice requires.
 - **(d)** No civil penalty may be assessed under this part unless the person liable for the penalty has been given notice and an opportunity for a hearing on the violation for which the penalty is to be assessed in the county, parish, or incorporated city of residence of that person.
 - **(e)** Paragraphs (1) and (2) of subsection (a) shall apply on and after the date that is 6 months after the date that the Secretary issues a final rule implementing this part.
+
+## Source Credit
+
+*([Pub. L. 107–296, title VIII, § 899F](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 110–161, div. E, title V, § 563(a)](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2088](https://www.govinfo.gov/link/statute/121/2088).)*

@@ -3,9 +3,10 @@ title: "Section 1812 - Fees relating to applications for adjustment of status"
 usc_title: 8
 usc_section: "1812"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1812"
-generated_at: "2026-03-30T02:53:10.509Z"
+generated_at: "2026-11-23T20:25:36.295Z"
+status: "active"
 ---
 
 # § 1812. Fees relating to applications for adjustment of status
@@ -109,7 +110,7 @@ generated_at: "2026-03-30T02:53:10.509Z"
     - **(B)** a motion to reopen a deportation order entered in absentia if such motion is filed in accordance with section 1252b(c)(3)(B) of this title prior to April 1, 1997 .
   - **(4)** During each fiscal year—
     - **(A)** not more than 25 percent of the fees collected pursuant to this subsection—
-      - **(i)** shall be derived by transfer from the Immigration Examinations Fee Account under section 1356(n)of this title; and
+      - **(i)** shall be derived by transfer from the Immigration Examinations Fee Account under section 1356(n) of this title ; and
       - **(ii)** shall be credited to the Executive Office for Immigration Review to retain and spend without further appropriation; and
     - **(B)** any amounts not derived by transfer and credited pursuant to subparagraph (A) shall be deposited into the general fund of the Treasury.
 - **(h)**
@@ -155,3 +156,7 @@ generated_at: "2026-03-30T02:53:10.509Z"
       - **(ii)** shall be credited to the Executive Office for Immigration Review to retain and spend without further appropriation; and
     - **(B)** any amounts not derived by transfer and credited pursuant to subparagraph (A) shall be deposited into the general fund of the Treasury.
 - **(k)** No fees collected pursuant to this section may be expended by the Executive Office for Immigration Review for the Legal Orientation Program, or for any successor program.
+
+## Source Credit
+
+*([Pub. L. 119–21, title X, § 100013](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 374](https://www.govinfo.gov/link/statute/139/374).)*

@@ -3,9 +3,10 @@ title: "Section 2353 - Comprehensive preparedness program"
 usc_title: 50
 usc_section: "2353"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 2353"
-generated_at: "2026-03-30T02:56:26.221Z"
+generated_at: "2026-11-23T20:27:30.839Z"
+status: "active"
 ---
 
 # § 2353. Comprehensive preparedness program
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:26.221Z"
     - **(A)** The specific plans for the program that are required under subsection (b).
     - **(B)** Estimates of the funds necessary, by agency or department, for carrying out such plans in fiscal year 1998 and the following five fiscal years.
   - **(3)** The report shall be in an unclassified form. If there is a classified version of the report, the President shall submit the classified version at the same time.
+
+## Source Credit
+
+*([Pub. L. 104–201, div. A, title XIV, § 1443](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2728](https://www.govinfo.gov/link/statute/110/2728).)*

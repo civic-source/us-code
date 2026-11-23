@@ -3,9 +3,10 @@ title: "Section 6309 - Non-propagation of core-based statistical area delineatio
 usc_title: 31
 usc_section: "6309"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 6309"
-generated_at: "2026-03-30T02:55:34.072Z"
+generated_at: "2026-11-23T20:26:51.906Z"
+status: "active"
 ---
 
 # § 6309. Non-propagation of core-based statistical area delineations
@@ -20,3 +21,11 @@ generated_at: "2026-03-30T02:55:34.072Z"
       - **(ii)** is in the public interest; and
     - **(B)** through affirmative adoption through notice-and-comment rulemaking pursuant to section 553 of title 5 .
 - **(b)** The definitions in section 4 of the MAPS Act of 2021 shall apply to this section.
+
+In General
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 117–219, § 5(a)](https://www.govinfo.gov/link/plaw/117/public/219), Dec. 5, 2022, [136 Stat. 2272](https://www.govinfo.gov/link/statute/136/2272).)*

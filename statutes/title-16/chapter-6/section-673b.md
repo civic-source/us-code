@@ -3,12 +3,19 @@ title: "Section 673b - National Elk Refuge in Wyoming"
 usc_title: 16
 usc_section: "673b"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 673b"
-generated_at: "2026-03-30T02:54:22.894Z"
+generated_at: "2026-11-23T20:26:20.223Z"
+status: "active"
 ---
 
 # § 673b. National Elk Refuge in Wyoming
 
 The following-described lands of the Jackson Hole National Monument are made a part of the National Elk Refuge and shall be administered hereafter in accordance with the laws applicable to said refuge: sixth principal meridian Township 42 north, range 116 west: Those portions of sections 24, 25, 26, and 35 lying east of the east right-of-way line of United States Highway Numbered 187, and lying south and east of the north and west bank of the Gros Ventre River. Township 42 north, range 115 west: Those portions of sections 8, 9, 10, 17, 18, and 19 lying south and east of the north and west bank of the Gros Ventre River; section 20; section 29, northwest quarter; section 30, north half. Township 41 north, range 116 west: Entire portion now in Jackson Hole National Monument except that portion in section 2 lying west of the east right-of-way line of United States Highway Numbered 187. Containing in all six thousand three hundred and seventy-six acres, more or less.
 
+
+sixth principal meridian
+
+## Source Credit
+
+*(Sept. 14, 1950, ch. 950, § 2, [64 Stat. 849](https://www.govinfo.gov/link/statute/64/849).)*

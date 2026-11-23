@@ -3,9 +3,10 @@ title: "Section 17939 - Improved enforcement"
 usc_title: 42
 usc_section: "17939"
 chapter: 156
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17939"
-generated_at: "2026-03-30T02:56:11.510Z"
+generated_at: "2026-11-23T20:27:23.768Z"
+status: "active"
 ---
 
 # § 17939. Improved enforcement
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.510Z"
 - **(e)**
   - **(1)**
   - **(3)** The amendments made by this subsection shall apply to violations occurring after February 17, 2009 .
+
+## Source Credit
+
+*([Pub. L. 111–5, div. A, title XIII, § 13410](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 271](https://www.govinfo.gov/link/statute/123/271).)*

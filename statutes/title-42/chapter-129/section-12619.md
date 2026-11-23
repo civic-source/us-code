@@ -3,9 +3,10 @@ title: "Section 12619 - Administrative provisions"
 usc_title: 42
 usc_section: "12619"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12619"
-generated_at: "2026-03-30T02:56:11.421Z"
+generated_at: "2026-11-23T20:27:23.387Z"
+status: "active"
 ---
 
 # § 12619. Administrative provisions
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:56:11.421Z"
     - **(E)** The Director shall provide to other members of the permanent cadre appropriate training in youth development techniques, including techniques for working with and enhancing the development of disadvantaged youth, and the principles of service-learning. All members of the permanent cadre shall be required to participate in the training.
   - **(3)** The Director, other members of the permanent cadre, and the other staff personnel shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service. The rates of pay of such persons may be established without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title. In the case of a member of the permanent cadre who was recommended for appointment in accordance with 12622(b)(1) 1 1 So in original. Probably should be preceded by “section”. of this title and is entitled to retired or retainer pay, section 5532 2 2 See References in Text note below. of title 5 shall not apply to reduce the member’s retired or retainer pay by reason of the member being paid as a member of the cadre.
   - **(4)** Notwithstanding any other provision of law, the Director may accept the voluntary services of individuals. While away from their homes or regular places of business on the business of the Corps, such individuals may be allowed travel expenses, including per diem in lieu of subsistence, in the same amounts and to the same extent, as authorized under section 5703 of title 5 for persons employed intermittently in Federal Government service.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 159](https://www.govinfo.gov/link/plaw/101/public/610), formerly § 195H, as added [Pub. L. 102–484, div. A, title X, § 1092(a)(1)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2528](https://www.govinfo.gov/link/statute/106/2528); renumbered § 159 and amended [Pub. L. 103–82, title I, § 104(b)](https://www.govinfo.gov/link/plaw/103/public/82), (e)(2)(E), title IV, §§ 402(b)(1), 403(a)(1)–(3), (b), Sept. 21, 1993, [107 Stat. 840](https://www.govinfo.gov/link/statute/107/840), 847, 918–920; [Pub. L. 103–304, § 3(b)(5)(B)](https://www.govinfo.gov/link/plaw/103/public/304), Aug. 23, 1994, [108 Stat. 1567](https://www.govinfo.gov/link/statute/108/1567); [Pub. L. 103–337, div. A, title VI, § 640](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2791](https://www.govinfo.gov/link/statute/108/2791); [Pub. L. 111–13, title I, § 1509](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1525](https://www.govinfo.gov/link/statute/123/1525); [Pub. L. 115–232, div. A, title V, § 553(b)(3)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1772](https://www.govinfo.gov/link/statute/132/1772).)*

@@ -3,9 +3,10 @@ title: "Section 466 - Imports"
 usc_title: 21
 usc_section: "466"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 466"
-generated_at: "2026-03-30T02:54:54.286Z"
+generated_at: "2026-11-23T20:26:27.793Z"
+status: "active"
 ---
 
 # § 466. Imports
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:54.286Z"
   - **(4)** The Secretary shall enforce this subsection through—
     - **(A)** random inspections for such species verification and for residues; and
     - **(B)** random sampling and testing of internal organs and fat of carcasses for residues at the point of slaughter by the exporting country, in accordance with methods approved by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 85–172, § 17](https://www.govinfo.gov/link/plaw/85/public/172), Aug. 28, 1957, [71 Stat. 448](https://www.govinfo.gov/link/statute/71/448); [Pub. L. 99–198, title XVII, § 1701(a)](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1633](https://www.govinfo.gov/link/statute/99/1633); [Pub. L. 103–182, title III, § 361(e)](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2123](https://www.govinfo.gov/link/statute/107/2123); [Pub. L. 103–465, title IV, § 431(k)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4969](https://www.govinfo.gov/link/statute/108/4969).)*

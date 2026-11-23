@@ -3,9 +3,10 @@ title: "Section 15026 - Federal and non-Federal share"
 usc_title: 42
 usc_section: "15026"
 chapter: 144
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 15026"
-generated_at: "2026-03-30T02:56:11.457Z"
+generated_at: "2026-11-23T20:27:23.551Z"
+status: "active"
 ---
 
 # § 15026. Federal and non-Federal share
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.457Z"
     - **(A)** Contributions to projects by a political subdivision of a State or by a public or private entity under an agreement with the State shall, subject to such limitations and conditions as the Secretary may by regulation prescribe under section 15004(b) of this title , be considered to be contributions by such State, in the case of a project supported under this part.
     - **(B)** State contributions, including contributions by the designated State agency to provide support services to the Council pursuant to section 15025(d)(4) of this title , may be counted as part of such State’s non-Federal share of the cost of projects supported under this part.
   - **(3)** The non-Federal share required of each recipient of a grant from a Council under this part may vary.
+
+## Source Credit
+
+*([Pub. L. 106–402, title I, § 126](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1710](https://www.govinfo.gov/link/statute/114/1710).)*

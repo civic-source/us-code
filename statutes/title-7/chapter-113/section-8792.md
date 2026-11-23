@@ -3,9 +3,10 @@ title: "Section 8792 - Geographically disadvantaged farmers and ranchers"
 usc_title: 7
 usc_section: "8792"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 8792"
-generated_at: "2026-03-30T02:53:42.481Z"
+generated_at: "2026-11-23T20:25:41.924Z"
+status: "active"
 ---
 
 # § 8792. Geographically disadvantaged farmers and ranchers
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:42.481Z"
         - **(II)** in the case of an insular area (as defined in section 3103 of this title ), a comparable percentage of the allowance for the fiscal year, as determined by the Secretary.
     - **(B)** The total amount of direct reimbursement payments provided by the Secretary under this section shall not exceed $15,000,000 for a fiscal year.
 - **(d)** There are authorized to be appropriated such sums as are necessary to carry out this section for fiscal year 2009 and each succeeding fiscal year.
+
+## Source Credit
+
+*([Pub. L. 110–234, title I, § 1621](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1024](https://www.govinfo.gov/link/statute/122/1024); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1621, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1752; [Pub. L. 113–79, title I, § 1606](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 708](https://www.govinfo.gov/link/statute/128/708).)*

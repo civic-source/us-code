@@ -3,9 +3,10 @@ title: "Section 509a - Project beneficiaries"
 usc_title: 43
 usc_section: "509a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 509a"
-generated_at: "2026-03-30T02:55:57.453Z"
+generated_at: "2026-11-23T20:27:06.224Z"
+status: "active"
 ---
 
 # § 509a. Project beneficiaries
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:57.453Z"
   - **(2)** The Secretary shall provide to the project beneficiary a timely written response describing proposed actions, if any, to address the recommendation.
   - **(3)** The response of the Secretary shall be included in the reports required by section 509 of this title .
 - **(d)** The Secretary may waive 1 or more of the requirements of subsections (a), (b), and (c), if the Secretary determines that implementation of the requirement could have an adverse impact on dam safety or security.
+
+## Source Credit
+
+*([Pub. L. 95–578, § 5A](https://www.govinfo.gov/link/plaw/95/public/578), as added [Pub. L. 108–439, § 2(b)](https://www.govinfo.gov/link/plaw/108/public/439), Dec. 3, 2004, [118 Stat. 2627](https://www.govinfo.gov/link/statute/118/2627).)*

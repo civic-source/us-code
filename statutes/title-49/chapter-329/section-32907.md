@@ -3,9 +3,10 @@ title: "Section 32907 - Reports and tests of manufacturers"
 usc_title: 49
 usc_section: "32907"
 chapter: 329
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 32907"
-generated_at: "2026-03-30T02:56:19.367Z"
+generated_at: "2026-11-23T20:27:35.014Z"
+status: "active"
 ---
 
 # § 32907. Reports and tests of manufacturers
@@ -25,3 +26,48 @@ generated_at: "2026-03-30T02:56:19.367Z"
   - **(2)** The district courts of the United States may—
     - **(A)** issue an order enforcing a requirement or request under paragraph (1) of this subsection; and
     - **(B)** punish a failure to obey the order as a contempt of court.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 32907(a) | 15:2005(a)(1)–(3). | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , § 505(a)(1)–(3), (c); added Dec. 22, 1975 , Pub. L. 94–163, § 301 , 89 Stat. 908 , 909. |
+|  | 15:2005(a)(4). | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , § 505(a)(4); added Oct. 10, 1980 , Pub. L. 96–425, § 3(b) , 94 Stat. 1822 . |
+| 32907(b) | 15:2005(c). |  |
+
+
+Manufacturer Reports
+
+Records, Reports, Tests, Information, and Inspection
+
+Historical and Revision Notes
+
+32907(a)
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+Dec. 22, 1975
+
+Pub. L. 94–163, § 301
+
+89 Stat. 908
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+Oct. 10, 1980
+
+Pub. L. 96–425, § 3(b)
+
+94 Stat. 1822
+
+32907(b)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1067](https://www.govinfo.gov/link/statute/108/1067).)*

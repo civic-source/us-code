@@ -3,9 +3,10 @@ title: "Section 6126 - Advice to President and Congress regarding safety, securi
 usc_title: 10
 usc_section: "6126"
 chapter: 602
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6126"
-generated_at: "2026-03-30T02:53:38.219Z"
+generated_at: "2026-11-23T20:25:52.013Z"
+status: "active"
 ---
 
 # § 6126. Advice to President and Congress regarding safety, security, and reliability of United States nuclear weapons stockpile
@@ -30,3 +31,25 @@ generated_at: "2026-03-30T02:53:38.219Z"
   - **(2)** Any member or official of the National Security Council.
   - **(3)** Any member or official of the Joint Chiefs of Staff.
   - **(4)** Any official of the Office of Management and Budget.
+
+Policy
+
+Advice and Opinions Regarding Nuclear Weapons Stockpile
+
+Expression of Individual Views
+
+Representative of the President Defined
+
+In general
+
+Nuclear weapons stockpile
+
+Sense of congress
+
+In general
+
+Construction
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2), Dec. 18, 2025, [139 Stat. 1361](https://www.govinfo.gov/link/statute/139/1361), 1462.)*

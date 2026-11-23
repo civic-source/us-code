@@ -3,9 +3,10 @@ title: "Section 1831x - Insurance customer protections"
 usc_title: 12
 usc_section: "1831x"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1831x"
-generated_at: "2026-03-30T02:53:53.463Z"
+generated_at: "2026-11-23T20:25:59.183Z"
+status: "active"
 ---
 
 # § 1831x. Insurance customer protections
@@ -72,3 +73,7 @@ generated_at: "2026-03-30T02:53:53.463Z"
       - **(ii)** Before making a final determination under clause (i), the Federal agencies referred to in clause (i) shall give appropriate consideration to comments submitted by the appropriate State regulatory authorities relating to the level of protection afforded to consumers under State law.
       - **(iii)** If the Federal agencies referred to in clause (i) jointly determine that any provision of the regulations prescribed under this section affords greater protections than a comparable State law, rule, regulation, order, or interpretation, those agencies shall send a written preemption notice to the appropriate State regulatory authority to notify the State that the Federal provision will preempt the State provision and will become applicable unless, not later than 3 years after the date of such notice, the State adopts legislation to override such preemption.
 - **(h)** The Federal banking agencies shall ensure that the regulations prescribed pursuant to subsection (a) shall not have the effect of discriminating, either intentionally or unintentionally, against any person engaged in insurance sales or solicitations that is not affiliated with a depository institution.
+
+## Source Credit
+
+*(Sept. 21, 1950, ch. 967, § 2 [47], as added [Pub. L. 106–102, title III, § 305](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1410](https://www.govinfo.gov/link/statute/113/1410).)*

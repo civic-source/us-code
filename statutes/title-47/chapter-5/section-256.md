@@ -3,9 +3,10 @@ title: "Section 256 - Coordination for interconnectivity"
 usc_title: 47
 usc_section: "256"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 256"
-generated_at: "2026-03-30T02:56:24.502Z"
+generated_at: "2026-11-23T20:27:28.853Z"
+status: "active"
 ---
 
 # § 256. Coordination for interconnectivity
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:24.502Z"
     - **(C)** information services by subscribers of rural telephone companies.
 - **(c)** Nothing in this section shall be construed as expanding or limiting any authority that the Commission may have under law in effect before February 8, 1996 .
 - **(d)** As used in this section, the term “public telecommunications network interconnectivity” means the ability of two or more public telecommunications networks used to provide telecommunications service to communicate and exchange information without degeneration, and to interact in concert with one another.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title II, § 256, as added [Pub. L. 104–104, title I, § 101(a)](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 76](https://www.govinfo.gov/link/statute/110/76).)*

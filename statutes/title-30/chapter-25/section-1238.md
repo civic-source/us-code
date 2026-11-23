@@ -3,9 +3,10 @@ title: "Section 1238 - Liens"
 usc_title: 30
 usc_section: "1238"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1238"
-generated_at: "2026-03-30T02:55:29.398Z"
+generated_at: "2026-11-23T20:26:35.005Z"
+status: "active"
 ---
 
 # § 1238. Liens
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:29.398Z"
 - **(a)** Within six months after the completion of projects to restore, reclaim, abate, control, or prevent adverse effects of past coal mining practices on privately owned land, the Secretary or the State, pursuant to an approved State program, shall itemize the moneys so expended and may file a statement thereof in the office of the county in which the land lies which has the responsibility under local law for the recording of judgments against land, together with a notarized appraisal by an independent appraiser of the value of the land before the restoration, reclamation, abatement, control, or prevention of adverse effects of past coal mining practices if the moneys so expended shall result in a significant increase in property value. Such statement shall constitute a lien upon the said land. The lien shall not exceed the amount determined by the appraisal to be the increase in the market value of the land as a result of the restoration, reclamation, abatement, control, or prevention of the adverse effects of past coal mining practices. No lien shall be filed against the property of any person, in accordance with this subsection, who neither consented to nor participated in nor exercised control over the mining operation which necessitated the reclamation performed hereunder.
 - **(b)** The landowner may proceed as provided by local law to petition within sixty days of the filing of the lien, to determine the increase in the market value of the land as a result of the restoration, reclamation, abatement, control, or prevention of the adverse effects of past coal mining practices. The amount reported to be the increase in value of the premises shall constitute the amount of the lien and shall be recorded with the statement herein provided. Any party aggrieved by the decision may appeal as provided by local law.
 - **(c)** The lien provided in this section shall be entered in the county office in which the land lies and which has responsibility under local law for the recording of judgments against land. Such statement shall constitute a lien upon the said land as of the date of the expenditure of the moneys and shall have priority as a lien second only to the lien of real estate taxes imposed upon said land.
+
+## Source Credit
+
+*([Pub. L. 95–87, title IV, § 408](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 465](https://www.govinfo.gov/link/statute/91/465); [Pub. L. 109–432, div. C, title II, § 205](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 3016](https://www.govinfo.gov/link/statute/120/3016).)*

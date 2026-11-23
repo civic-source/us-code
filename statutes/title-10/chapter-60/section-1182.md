@@ -3,9 +3,10 @@ title: "Section 1182 - Boards of inquiry"
 usc_title: 10
 usc_section: "1182"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1182"
-generated_at: "2026-03-30T02:53:38.115Z"
+generated_at: "2026-11-23T20:25:51.277Z"
+status: "active"
 ---
 
 # § 1182. Boards of inquiry
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:38.115Z"
   - **(4)**
     - **(A)** Subject to subparagraph (B), an officer who is required to show cause for retention on active duty under subsection (b) of section 1181 of this title and who is determined under paragraph (1) to have established that he should be retained on active duty may again be required to show cause for retention at any time.
     - **(B)** An officer who has been required to show cause for retention on active duty under subsection (b) of section 1181 of this title and who is thereafter retained on active duty may not again be required to show cause for retention on active duty under such subsection solely because of conduct which was the subject of the previous proceedings, unless the findings or recommendations of the board of inquiry that considered his case are determined to have been obtained by fraud or collusion.
+
+## Source Credit
+
+*(Added [Pub. L. 96–513, title I, § 110](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2872](https://www.govinfo.gov/link/statute/94/2872); amended [Pub. L. 105–261, div. A, title V, § 503(b)(1)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2003](https://www.govinfo.gov/link/statute/112/2003); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title X, § 1087(d)(2)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–292; [Pub. L. 107–314, div. A, title V, § 506(a)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2534](https://www.govinfo.gov/link/statute/116/2534); [Pub. L. 118–159, div. A, title V, § 508](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1871](https://www.govinfo.gov/link/statute/138/1871).)*

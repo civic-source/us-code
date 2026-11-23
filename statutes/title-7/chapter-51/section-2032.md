@@ -3,9 +3,10 @@ title: "Section 2032 - Automated data processing and information retrieval syste
 usc_title: 7
 usc_section: "2032"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2032"
-generated_at: "2026-03-30T02:53:42.374Z"
+generated_at: "2026-11-23T20:25:41.471Z"
+status: "active"
 ---
 
 # § 2032. Automated data processing and information retrieval systems
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:42.374Z"
   - **(2)** A State shall implement the standards established by the Secretary within a reasonable period of time, as determined by the Secretary.
   - **(3)** The Secretary shall conduct appropriate periodic reviews of systems to ensure compliance with the standards established by the Secretary.
 - **(c)** Not later than October 1, 1993 , the Secretary shall report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the extent to which State agencies have developed and are operating effective systems that support supplemental nutrition assistance program delivery in compliance with this chapter and regulations issued under this chapter.
+
+## Source Credit
+
+*([Pub. L. 88–525, § 23](https://www.govinfo.gov/link/plaw/88/public/525), as added [Pub. L. 101–624, title XVII, § 1763(a)](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3805](https://www.govinfo.gov/link/statute/104/3805); amended [Pub. L. 110–234, title IV, § 4001(b)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1092](https://www.govinfo.gov/link/statute/122/1092); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, § 4001(b), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1853.)*

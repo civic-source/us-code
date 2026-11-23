@@ -3,9 +3,10 @@ title: "Section 410ccc - Findings and purposes"
 usc_title: 16
 usc_section: "410ccc"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 410ccc"
-generated_at: "2026-03-30T02:54:22.776Z"
+generated_at: "2026-11-23T20:26:19.513Z"
+status: "active"
 ---
 
 # § 410ccc. Findings and purposes
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:22.776Z"
   - **(1)** recognize the importance of the Cane River Creole culture as a nationally significant element of the cultural heritage of the United States;
   - **(2)** establish a Cane River Creole National Historical Park to serve as the focus of interpretive and educational programs on the history of the Cane River area and to assist in the preservation of certain historic sites along the river; and
   - **(3)** establish a Cane River National Heritage Area and Commission to be undertaken in partnership with the State of Louisiana, the City of Natchitoches, local communities and settlements of the Cane River area, preservation organizations, and private landowners, with full recognition that programs must fully involve the local communities and landowners.
+
+## Source Credit
+
+*([Pub. L. 103–449, title III, § 302](https://www.govinfo.gov/link/plaw/103/public/449), Nov. 2, 1994, [108 Stat. 4757](https://www.govinfo.gov/link/statute/108/4757).)*

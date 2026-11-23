@@ -3,9 +3,10 @@ title: "Section 40728 - Transfer of firearms, ammunition, and parts"
 usc_title: 36
 usc_section: "40728"
 chapter: 407
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 40728"
-generated_at: "2026-03-30T02:55:44.696Z"
+generated_at: "2026-11-23T20:26:58.879Z"
+status: "active"
 ---
 
 # § 40728. Transfer of firearms, ammunition, and parts
@@ -52,3 +53,74 @@ generated_at: "2026-03-30T02:55:44.696Z"
   - **(2)** In this subsection, the term “Secretary concerned” has the meaning given such term in section 101(a)(9) of title 10 , United States Code.
 - **(l)** A Secretary may not transfer surplus shotguns described in subsections (h), (i), or (j), until the date that is 60 days after the date of the submittal of the report required under subsection (k).
 - **(m)** The Secretary of the Army shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on the results of the investigation by the Bureau of Alcohol, Tobacco, Firearms, and Explosives and the United States Army Criminal Investigation Division regarding unaccounted for pistols at the corporation. The briefing shall be provided after the investigation has concluded.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 40728(a) | 36:5505(a). | Feb. 10, 1996 , Pub. L. 104–106, title XVI , §§ 1615, 1616(b), (c), 110 Stat. 518 , 519; Sept. 23, 1996 , Pub. L. 104–201, title X, § 1073(c)(1) , (2), 110 Stat. 2657 . |
+| 40728(b) | 36:5505(b). |  |
+| 40728(c) | 36:5505(d). |  |
+| 40728(d) | 36:5506(b). |  |
+| 40728(e) | 36:5505(c). |  |
+| 40728(f) | 36:5506(c). |  |
+| 40728(g) | 36:5505(e). |  |
+
+
+Required Transfers
+
+Time for Transfers
+
+Vesting of Title in Transferred Items
+
+Storage of Firearms
+
+Discretionary Transfer of Parts
+
+Limitation on Demilitarization of
+
+Rifles
+
+Cost of Transfers
+
+Authorized Transfers
+
+Authorized Navy Transfers
+
+Authorized Air Force Transfers
+
+Report Required
+
+Limitation on Transfer of Surplus Shotguns
+
+Briefing Required
+
+Historical and Revision Notes
+
+40728(a)
+
+Feb. 10, 1996
+
+Pub. L. 104–106, title XVI
+
+110 Stat. 518
+
+Sept. 23, 1996
+
+Pub. L. 104–201, title X, § 1073(c)(1)
+
+110 Stat. 2657
+
+40728(b)
+
+40728(c)
+
+40728(d)
+
+40728(e)
+
+40728(f)
+
+40728(g)
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1339](https://www.govinfo.gov/link/statute/112/1339); [Pub. L. 114–92, div. A, title X, § 1087(a)(1)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 1012](https://www.govinfo.gov/link/statute/129/1012); [Pub. L. 115–91, div. A, title III, § 349](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1366](https://www.govinfo.gov/link/statute/131/1366); [Pub. L. 119–60, div. A, title X, § 1062(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1045](https://www.govinfo.gov/link/statute/139/1045).)*

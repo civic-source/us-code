@@ -3,9 +3,10 @@ title: "Section 3206a - Tsunami Science and Technology Advisory Panel"
 usc_title: 33
 usc_section: "3206a"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 3206a"
-generated_at: "2026-03-30T02:55:41.139Z"
+generated_at: "2026-11-23T20:26:54.255Z"
+status: "active"
 ---
 
 # § 3206a. Tsunami Science and Technology Advisory Panel
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:41.139Z"
     - **(A)** the findings of the working group with respect to the most recent review conducted under paragraph (1); and
     - **(B)** such recommendations for legislative or administrative action as the working group considers appropriate to improve Federal tsunami research, detection, forecasting, warning, mitigation, resiliency, and preparation.
 - **(d)** Not less frequently than once every 4 years, the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Science, Space, and Technology of the House of Representatives a report on the findings and recommendations received by the Administrator under subsection (c)(2).
+
+## Source Credit
+
+*([Pub. L. 109–479, title VIII, § 808](https://www.govinfo.gov/link/plaw/109/public/479), as added [Pub. L. 115–25, title V, § 508(a)(2)](https://www.govinfo.gov/link/plaw/115/public/25), Apr. 18, 2017, [131 Stat. 125](https://www.govinfo.gov/link/statute/131/125).)*

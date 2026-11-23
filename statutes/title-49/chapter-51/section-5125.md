@@ -3,9 +3,10 @@ title: "Section 5125 - Preemption"
 usc_title: 49
 usc_section: "5125"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 5125"
-generated_at: "2026-03-30T02:56:19.307Z"
+generated_at: "2026-11-23T20:27:34.601Z"
+status: "active"
 ---
 
 # § 5125. Preemption
@@ -44,3 +45,84 @@ generated_at: "2026-03-30T02:56:19.307Z"
     - **(D)** such other matters as the Secretary requests.
 - **(g)** Each standard for preemption in subsection (a), (b)(1), or (c), and in section 5119(f), is independent in its application to a requirement of a State, political subdivision of a State, or Indian tribe.
 - **(h)** This section does not apply to any procedure, penalty, required mental state, or other standard utilized by a State, political subdivision of a State, or Indian tribe to enforce a requirement applicable to the transportation of hazardous material.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5125(a) | 49 App.:1811(a). | Jan. 3, 1975 , Pub. L. 93–633, § 112(a) –(e), 88 Stat. 2161 ; Nov. 30, 1979 , Pub. L. 96–129, § 216(a) , 93 Stat. 1015 ; restated Nov. 16, 1990 , Pub. L. 101–615, § 13 , 104 Stat. 3259 . |
+| 5125(b) | 49 App.:1804(a)(4), (5). | Jan. 3, 1975 , Pub. L. 93–633, § 105(a)(4) , (5), (b)(4), 88 Stat. 2157 ; restated Nov. 16, 1990 , Pub. L. 101–615, § 4 , 104 Stat. 3247 , 3250. |
+| 5125(c) | 49 App.:1804(b)(4). |  |
+| 5125(d) | 49 App.:1811(c). |  |
+| 5125(e) | 49 App.:1811(d). |  |
+| 5125(f) | 49 App.:1811(e). |  |
+| 5125(g) | 49 App.:1811(b). |  |
+
+
+General
+
+Substantive Differences
+
+Compliance With Section
+
+Regulations
+
+Decisions on Preemption
+
+Waiver of Preemption
+
+Fees
+
+Application of Each Preemption Standard
+
+Non-Federal Enforcement Standards
+
+Historical and Revision Notes
+
+Pub. L
+
+5125(a)
+
+Jan. 3, 1975
+
+Pub. L. 93–633, § 112(a)
+
+88 Stat. 2161
+
+Nov. 30, 1979
+
+Pub. L. 96–129, § 216(a)
+
+93 Stat. 1015
+
+Nov. 16, 1990
+
+Pub. L. 101–615, § 13
+
+104 Stat. 3259
+
+5125(b)
+
+Jan. 3, 1975
+
+Pub. L. 93–633, § 105(a)(4)
+
+88 Stat. 2157
+
+Nov. 16, 1990
+
+Pub. L. 101–615, § 4
+
+104 Stat. 3247
+
+5125(c)
+
+5125(d)
+
+5125(e)
+
+5125(f)
+
+5125(g)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 781](https://www.govinfo.gov/link/statute/108/781); [Pub. L. 103–311, title I](https://www.govinfo.gov/link/plaw/103/public/311), §§ 107, 117(a)(2), 120(b), Aug. 26, 1994, [108 Stat. 1674](https://www.govinfo.gov/link/statute/108/1674), 1678, 1681; [Pub. L. 103–429, § 6(6)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4378](https://www.govinfo.gov/link/statute/108/4378); [Pub. L. 107–296, title XVII, § 1711(b)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2320](https://www.govinfo.gov/link/statute/116/2320); [Pub. L. 109–59, title VII](https://www.govinfo.gov/link/plaw/109/public/59), §§ 7122, 7123(a), 7126, Aug. 10, 2005, [119 Stat. 1907](https://www.govinfo.gov/link/statute/119/1907), 1909; [Pub. L. 110–244, title III, § 302(c)](https://www.govinfo.gov/link/plaw/110/public/244), June 6, 2008, [122 Stat. 1618](https://www.govinfo.gov/link/statute/122/1618); [Pub. L. 112–141, div. C, title III](https://www.govinfo.gov/link/plaw/112/public/141), §§ 33006(d), 33011, 33013(b), July 6, 2012, [126 Stat. 835](https://www.govinfo.gov/link/statute/126/835), 838, 839.)*

@@ -3,9 +3,10 @@ title: "Section 1537 - Needs assessment for data management, archival, and distr
 usc_title: 15
 usc_section: "1537"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1537"
-generated_at: "2026-03-30T02:54:08.137Z"
+generated_at: "2026-11-23T20:26:04.020Z"
+status: "active"
 ---
 
 # § 1537. Needs assessment for data management, archival, and distribution
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:08.137Z"
     - **(B)** propose specific agency programs and activities for implementing the plan;
     - **(C)** identify the data and information management, archival, and distribution responsibilities of the National Oceanic and Atmospheric Administration with respect to other Federal departments and agencies and international organizations, including the role of the National Oceanic and Atmospheric Administration with respect to large data systems like the Earth Observing System Data and Information System; and
     - **(D)** provide an implementation schedule and estimate funding levels necessary to achieve modernization and improvement objectives.
+
+## Source Credit
+
+*([Pub. L. 102–567, title I, § 106(c)](https://www.govinfo.gov/link/plaw/102/public/567), Oct. 29, 1992, [106 Stat. 4274](https://www.govinfo.gov/link/statute/106/4274).)*

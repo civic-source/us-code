@@ -3,9 +3,10 @@ title: "Section 1445g - Production of commodities for conversion into industrial
 usc_title: 7
 usc_section: "1445g"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1445g"
-generated_at: "2026-03-30T02:53:42.315Z"
+generated_at: "2026-11-23T20:25:41.159Z"
+status: "active"
 ---
 
 # § 1445g. Production of commodities for conversion into industrial hydrocarbons; terms and conditions; incentive payments; regulations; appropriations; effective date
@@ -19,3 +20,7 @@ Notwithstanding any other provision of this Act—
   - **(3)** The Secretary may issue such regulations as the Secretary deems necessary to carry out the provisions of this subsection.
   - **(4)** There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this subsection.
   - **(5)** The provisions of this subsection shall become effective October 1, 1978 .
+
+## Source Credit
+
+*(Oct. 31, 1949, ch. 792, title I, § 112, as added [Pub. L. 95–279, title II, § 201](https://www.govinfo.gov/link/plaw/95/public/279), May 15, 1978, [92 Stat. 241](https://www.govinfo.gov/link/statute/92/241).)*

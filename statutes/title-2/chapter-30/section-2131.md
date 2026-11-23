@@ -3,12 +3,17 @@ title: "Section 2131 - National Statuary Hall"
 usc_title: 2
 usc_section: "2131"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 2131"
-generated_at: "2026-03-30T02:53:04.825Z"
+generated_at: "2026-11-23T20:25:29.014Z"
+status: "active"
 ---
 
 # § 2131. National Statuary Hall
 
 Suitable structures and railings shall be erected in the old hall of Representatives for the reception and protection of statuary, and the same shall be under the supervision and direction of the Architect of the Capitol. And the President is authorized to invite all the States to provide and furnish statues, in marble or bronze, not exceeding two in number for each State, of deceased persons who have been citizens thereof, and illustrious for their historic renown or for distinguished civic or military services, such as each State may deem to be worthy of this national commemoration; and when so furnished, the same shall be placed in the old hall of the House of Representatives, in the Capitol of the United States, which is set apart, or so much thereof as may be necessary, as a national statuary hall for the purpose herein indicated.
 
+
+## Source Credit
+
+*(R.S. § 1814; Aug. 15, 1876, ch. 287, [19 Stat. 147](https://www.govinfo.gov/link/statute/19/147).)*

@@ -3,9 +3,10 @@ title: "Section 1574 - Legislative powers and activities"
 usc_title: 48
 usc_section: "1574"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1574"
-generated_at: "2026-03-30T02:56:14.588Z"
+generated_at: "2026-11-23T20:27:28.059Z"
+status: "active"
 ---
 
 # § 1574. Legislative powers and activities
@@ -32,3 +33,11 @@ generated_at: "2026-03-30T02:56:14.588Z"
     - **(B)** if a specific rate or a combination ad valorem and specific rate, the equivalent or 6 per centum ad valorem.
   - **(2)** Nothing in this subsection shall prohibit the Legislature of the Virgin Islands from permitting the duty-free importation of any article.
   - **(3)** Nothing in this subsection shall be construed as empowering the Legislature of the Virgin Islands to repeal or amend any provision in law in effect on the day before October 15, 1977 , which pertains to the customs valuation or customs classification of articles imported into the Virgin Islands.
+
+In General
+
+Effect of Failure To Reach Agreement
+
+## Source Credit
+
+*(July 22, 1954, ch. 558, § 8, [68 Stat. 500](https://www.govinfo.gov/link/statute/68/500); [Pub. L. 85–851](https://www.govinfo.gov/link/plaw/85/public/851), §§ 2, 3, 10, Aug. 28, 1958, [72 Stat. 1094](https://www.govinfo.gov/link/statute/72/1094), 1095; [Pub. L. 88–180](https://www.govinfo.gov/link/plaw/88/public/180), Nov. 19, 1963, [77 Stat. 335](https://www.govinfo.gov/link/statute/77/335); [Pub. L. 89–643](https://www.govinfo.gov/link/plaw/89/public/643), Oct. 13, 1966, [80 Stat. 890](https://www.govinfo.gov/link/statute/80/890); [Pub. L. 90–496, § 15](https://www.govinfo.gov/link/plaw/90/public/496), Aug. 23, 1968, [82 Stat. 842](https://www.govinfo.gov/link/statute/82/842); [Pub. L. 95–134, title III, § 301(c)](https://www.govinfo.gov/link/plaw/95/public/134), Oct. 15, 1977, [91 Stat. 1163](https://www.govinfo.gov/link/statute/91/1163); [Pub. L. 97–357, title III, § 305](https://www.govinfo.gov/link/plaw/97/public/357), Oct. 19, 1982, [96 Stat. 1709](https://www.govinfo.gov/link/statute/96/1709); [Pub. L. 98–454, title II, § 201](https://www.govinfo.gov/link/plaw/98/public/454), Oct. 5, 1984, [98 Stat. 1732](https://www.govinfo.gov/link/statute/98/1732); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 106–84, § 1(a)](https://www.govinfo.gov/link/plaw/106/public/84), (b)(1), (2), Oct. 28, 1999, [113 Stat. 1295](https://www.govinfo.gov/link/statute/113/1295).)*

@@ -3,9 +3,10 @@ title: "Section 3312 - Database on price trends of items and services under Fede
 usc_title: 41
 usc_section: "3312"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 3312"
-generated_at: "2026-03-30T02:55:55.806Z"
+generated_at: "2026-11-23T20:27:04.428Z"
+status: "active"
 ---
 
 # § 3312. Database on price trends of items and services under Federal contracts
@@ -16,3 +17,11 @@ generated_at: "2026-03-30T02:55:55.806Z"
 - **(b)**
   - **(1)** The database under subsection (a) shall be available to executive agencies in the evaluation of offers for contracts with the Federal Government for items and services.
   - **(2)** The Secretary of Defense may satisfy the requirements of this section by complying with the requirements of section 892 1 1 See References in Text note below. of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 ( 10 U.S.C. 2306a note).
+
+Database Required
+
+Use
+
+## Source Credit
+
+*(Added [Pub. L. 112–239, div. A, title VIII, § 851(a)(1)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1855](https://www.govinfo.gov/link/statute/126/1855).)*

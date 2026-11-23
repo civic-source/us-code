@@ -3,9 +3,10 @@ title: "Section 2214 - Miscellaneous provisions"
 usc_title: 48
 usc_section: "2214"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 2214"
-generated_at: "2026-03-30T02:56:14.606Z"
+generated_at: "2026-11-23T20:27:28.208Z"
+status: "active"
 ---
 
 # § 2214. Miscellaneous provisions
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:14.606Z"
   - **(2)** Upon receipt of a law under paragraph (1), the Oversight Board shall promptly review whether the law would adversely impact the Expedited Permitting Process and, upon such a finding, the Oversight Board may deem such law to be significantly inconsistent with the applicable Fiscal Plan.
 - **(e)** No Puerto Rico Agency may include in any certificate, right-of-way, permit, lease, or other authorization issued for a Critical Project any term or condition that may be permitted, but is not required, by any applicable Puerto Rico law, if the Revitalization Coordinator determines the term or condition would prevent or impair the expeditious construction, operation, or expansion of the Critical Project. The Revitalization Coordinator may request a Puerto Rico Agency to include in any certificate, right-of-way, permit, lease, or other authorization, a term or condition that may be permitted in accordance with applicable laws if the Revitalization Coordinator determines such inclusion would support the expeditious construction, operation, or expansion of any Critical Project.
 - **(f)** All Critical Project reports, and justifications for approval or rejection of Critical Project status, shall be made publicly available online within 5 days of receipt or completion.
+
+## Source Credit
+
+*([Pub. L. 114–187, title V, § 504](https://www.govinfo.gov/link/plaw/114/public/187), June 30, 2016, [130 Stat. 601](https://www.govinfo.gov/link/statute/130/601).)*

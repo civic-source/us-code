@@ -3,9 +3,10 @@ title: "Section 8711 - Base acres"
 usc_title: 7
 usc_section: "8711"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 8711"
-generated_at: "2026-03-30T02:53:42.478Z"
+generated_at: "2026-11-23T20:25:41.895Z"
+status: "active"
 ---
 
 # § 8711. Base acres
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:53:42.478Z"
     - **(A)** collect and publish segregated data and survey information about the farm profiles, utilization of land, and crop production; and
     - **(B)** perform an evaluation on the supply and price of fruits and vegetables based on the effects of suspension of base acres under this section.
   - **(4)** Paragraphs (1) through (3) shall not apply during the 2008 crop year.
+
+## Source Credit
+
+*([Pub. L. 110–234, title I, § 1101](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 938](https://www.govinfo.gov/link/statute/122/938); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1101, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1666; [Pub. L. 110–398, § 1(a)(1)](https://www.govinfo.gov/link/plaw/110/public/398), Oct. 13, 2008, [122 Stat. 4213](https://www.govinfo.gov/link/statute/122/4213).)*

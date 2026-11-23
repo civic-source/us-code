@@ -3,9 +3,10 @@ title: "Section 1312 - Rights and protections under Family and Medical Leave Act
 usc_title: 2
 usc_section: "1312"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1312"
-generated_at: "2026-03-30T02:53:04.809Z"
+generated_at: "2026-11-23T20:25:28.953Z"
+status: "active"
 ---
 
 # § 1312. Rights and protections under Family and Medical Leave Act of 1993
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:53:04.809Z"
 - **(f)**
   - **(1)** Subsections (a) and (b) shall be effective 1 year after January 23, 1995 .
   - **(2)** Subsection (c) shall be effective 1 year after transmission to the Congress of the study under section 1371 of this title .
+
+## Source Credit
+
+*([Pub. L. 104–1, title II, § 202](https://www.govinfo.gov/link/plaw/104/public/1), Jan. 23, 1995, [109 Stat. 9](https://www.govinfo.gov/link/statute/109/9); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 116–92, div. F, title LXXVI, § 7603(a)](https://www.govinfo.gov/link/plaw/116/public/92), (b), Dec. 20, 2019, [133 Stat. 2306](https://www.govinfo.gov/link/statute/133/2306), 2307; [Pub. L. 116–283, div. A, title XI, § 1103(g)(1)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3889](https://www.govinfo.gov/link/statute/134/3889).)*

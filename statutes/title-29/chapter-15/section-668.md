@@ -3,9 +3,10 @@ title: "Section 668 - Programs of Federal agencies"
 usc_title: 29
 usc_section: "668"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 668"
-generated_at: "2026-03-30T02:55:18.689Z"
+generated_at: "2026-11-23T20:26:37.838Z"
+status: "active"
 ---
 
 # § 668. Programs of Federal agencies
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:18.689Z"
 - **(b)** The Secretary shall report to the President a summary or digest of reports submitted to him under subsection (a)(5) of this section, together with his evaluations of and recommendations derived from such reports.
 - **(c)**
 - **(d)** The Secretary shall have access to records and reports kept and filed by Federal agencies pursuant to subsections (a)(3) and (5) of this section unless those records and reports are specifically required by Executive order to be kept secret in the interest of the national defense or foreign policy, in which case the Secretary shall have access to such information as will not jeopardize national defense or foreign policy.
+
+## Source Credit
+
+*([Pub. L. 91–596, § 19](https://www.govinfo.gov/link/plaw/91/public/596), Dec. 29, 1970, [84 Stat. 1609](https://www.govinfo.gov/link/statute/84/1609); [Pub. L. 97–375, title I, § 110(c)](https://www.govinfo.gov/link/plaw/97/public/375), Dec. 21, 1982, [96 Stat. 1821](https://www.govinfo.gov/link/statute/96/1821); [Pub. L. 105–241, § 2(b)(1)](https://www.govinfo.gov/link/plaw/105/public/241), Sept. 28, 1998, [112 Stat. 1572](https://www.govinfo.gov/link/statute/112/1572).)*

@@ -3,9 +3,10 @@ title: "Section 5705 - Annual reporting requirements"
 usc_title: 25
 usc_section: "5705"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 5705"
-generated_at: "2026-03-30T02:54:52.873Z"
+generated_at: "2026-11-23T20:26:25.763Z"
+status: "active"
 ---
 
 # § 5705. Annual reporting requirements
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:54:52.873Z"
   - **(1)** Beginning in the first fiscal year after October 10, 2020 , and annually thereafter, for the purpose of compiling accurate data for the annual report required under subsection (a), the Attorney General shall request all Tribal, State, and local law enforcement agencies to submit to the Department of Justice, to the fullest extent possible, all relevant information pertaining to missing or murdered Indians collected by the Tribal, State, and local law enforcement agency, and in a format provided by the Department of Justice that ensures the streamlining of data reporting.
   - **(2)** The Attorney General shall disclose and publish annually, including on the website of the Department of Justice, the name of each Tribal, State, or local law enforcement agency that the Attorney General has determined has submitted the information requested under paragraph (1) for the fiscal year in which the report was published.
 - **(c)** Beginning in the first calendar year after October 10, 2020 , and annually thereafter, the Federal Bureau of Investigation shall include gender in its annual statistics on missing and unidentified persons published on its public website.
+
+## Source Credit
+
+*([Pub. L. 116–165, § 6](https://www.govinfo.gov/link/plaw/116/public/165), Oct. 10, 2020, [134 Stat. 763](https://www.govinfo.gov/link/statute/134/763).)*

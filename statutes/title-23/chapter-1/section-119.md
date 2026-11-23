@@ -3,9 +3,10 @@ title: "Section 119 - National highway performance program"
 usc_title: 23
 usc_section: "119"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 119"
-generated_at: "2026-03-30T02:55:12.548Z"
+generated_at: "2026-11-23T20:26:23.753Z"
+status: "active"
 ---
 
 # § 119. National highway performance program
@@ -116,3 +117,95 @@ generated_at: "2026-03-30T02:55:12.548Z"
     - **(I)** adding scour protection at bridges, installing riprap, or adding other scour, stream stability, coastal, or other hydraulic countermeasures, including spur dikes; and
     - **(J)** the use of natural infrastructure to mitigate the risk of recurring damage or the cost of future repair from extreme weather events, flooding, or other natural disasters.
   - **(3)** Nothing in this subsection limits the ability of a State to carry out a project otherwise eligible under subsection (d) using funds apportioned under section 104(b)(1).
+
+Establishment
+
+Purposes
+
+Eligible Facilities
+
+Eligible Projects
+
+State Performance Management.—
+
+In general
+
+Performance driven plan
+
+Scope
+
+Plan contents
+
+Requirement for plan.—
+
+In general
+
+Determination
+
+Certification of plan development process.—
+
+In general
+
+Recertification
+
+Opportunity to cure
+
+Performance achievement
+
+Process
+
+Interstate System and NHS Bridge Conditions.—
+
+Condition of interstate system.—
+
+Penalty
+
+Restoration
+
+Condition of nhs bridges.—
+
+Penalty
+
+Restoration
+
+Environmental Mitigation.—
+
+Eligible activities
+
+Inclusion of other activities
+
+Terms and conditions
+
+Preference
+
+TIFIA Program
+
+Additional Funding Eligibility for Certain Bridges.—
+
+In general
+
+Limitation
+
+Critical Infrastructure.—
+
+Critical infrastructure defined
+
+Consideration
+
+Risk reduction
+
+Protective Features.—
+
+In general
+
+Protective features described
+
+Savings provision
+
+In general
+
+Extension
+
+## Source Credit
+
+*(Added [Pub. L. 95–599, title I, § 116(a)](https://www.govinfo.gov/link/plaw/95/public/599), Nov. 6, 1978, [92 Stat. 2698](https://www.govinfo.gov/link/statute/92/2698); amended [Pub. L. 96–106, § 18](https://www.govinfo.gov/link/plaw/96/public/106), Nov. 9, 1979, [93 Stat. 799](https://www.govinfo.gov/link/statute/93/799); [Pub. L. 97–134](https://www.govinfo.gov/link/plaw/97/public/134), §§ 6, 7, Dec. 29, 1981, [95 Stat. 1701](https://www.govinfo.gov/link/statute/95/1701); [Pub. L. 97–424, title I, § 116(a)(1)](https://www.govinfo.gov/link/plaw/97/public/424), (2), (b), (c), Jan. 6, 1983, [96 Stat. 2109](https://www.govinfo.gov/link/statute/96/2109); [Pub. L. 98–229, § 8(b)](https://www.govinfo.gov/link/plaw/98/public/229), Mar. 9, 1984, [98 Stat. 56](https://www.govinfo.gov/link/statute/98/56); [Pub. L. 99–190, § 101(e) [title III, § 327]](https://www.govinfo.gov/link/plaw/99/public/190), Dec. 19, 1985, [99 Stat. 1267](https://www.govinfo.gov/link/statute/99/1267), 1289; [Pub. L. 100–17, title I, § 116(a)](https://www.govinfo.gov/link/plaw/100/public/17) –(c)(1), Apr. 2, 1987, [101 Stat. 154](https://www.govinfo.gov/link/statute/101/154), 155; [Pub. L. 100–202, § 101](https://www.govinfo.gov/link/plaw/100/public/202) (l) [title III, § 347(b)], Dec. 22, 1987, [101 Stat. 1329–358](https://www.govinfo.gov/link/statute/101/1329), 1329–388; [Pub. L. 102–240, title I, § 1009(a)](https://www.govinfo.gov/link/plaw/102/public/240), (b), (e)(1), (3)–(5), Dec. 18, 1991, [105 Stat. 1933](https://www.govinfo.gov/link/statute/105/1933), 1934; [Pub. L. 105–178, title I, § 1107(a)](https://www.govinfo.gov/link/plaw/105/public/178), (d), June 9, 1998, [112 Stat. 137](https://www.govinfo.gov/link/statute/112/137); [Pub. L. 105–206, title IX, § 9002(f)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 836](https://www.govinfo.gov/link/statute/112/836); [Pub. L. 112–141, div. A, title I, § 1106(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 432](https://www.govinfo.gov/link/statute/126/432); [Pub. L. 114–94, div. A, title I](https://www.govinfo.gov/link/plaw/114/public/94), §§ 1106, 1406(a), 1407(a), 1446(a)(1), Dec. 4, 2015, [129 Stat. 1337](https://www.govinfo.gov/link/statute/129/1337), 1410, 1437; [Pub. L. 116–94, div. H, title I, § 129A](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 2953](https://www.govinfo.gov/link/statute/133/2953); [Pub. L. 117–58, div. A, title I](https://www.govinfo.gov/link/plaw/117/public/58), §§ 11105, 11524(a), Nov. 15, 2021, [135 Stat. 457](https://www.govinfo.gov/link/statute/135/457), 606.)*

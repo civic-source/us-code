@@ -3,9 +3,10 @@ title: "Section 1416 - Permits"
 usc_title: 16
 usc_section: "1416"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1416"
-generated_at: "2026-03-30T02:54:22.964Z"
+generated_at: "2026-11-23T20:26:20.476Z"
+status: "active"
 ---
 
 # § 1416. Permits
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:22.964Z"
   - **(3)** Transfer of ownership of a vessel, by sale or otherwise, shall not extinguish any permit sanction that is in effect or is pending at the time of transfer of ownership. Before executing the transfer of ownership of a vessel, by sale or otherwise, the owner shall disclose in writing to the prospective transferee the existence of any permit sanction that will be in effect or pending with respect to the vessel at the time of transfer.
   - **(4)** In the case of any permit that is suspended for the failure to pay a civil penalty or criminal fine, the Secretary shall reinstate the permit upon payment of the penalty or fine and interest thereon at the prevailing rate.
   - **(5)** No sanctions shall be imposed under this section unless there has been a prior opportunity for a hearing on the facts underlying the violation for which the sanction is imposed, either in conjunction with a civil penalty proceeding under this subchapter or otherwise.
+
+## Source Credit
+
+*([Pub. L. 92–522, title III, § 306](https://www.govinfo.gov/link/plaw/92/public/522), as added [Pub. L. 105–42, § 6(c)](https://www.govinfo.gov/link/plaw/105/public/42), Aug. 15, 1997, [111 Stat. 1135](https://www.govinfo.gov/link/statute/111/1135).)*

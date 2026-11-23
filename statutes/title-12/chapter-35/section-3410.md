@@ -3,9 +3,10 @@ title: "Section 3410 - Customer challenges"
 usc_title: 12
 usc_section: "3410"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 3410"
-generated_at: "2026-03-30T02:53:53.494Z"
+generated_at: "2026-11-23T20:25:59.339Z"
+status: "active"
 ---
 
 # § 3410. Customer challenges
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:53.494Z"
 - **(d)** A court ruling denying a motion or application under this section shall not be deemed a final order and no interlocutory appeal may be taken therefrom by the customer. An appeal of a ruling denying a motion or application under this section may be taken by the customer (1) within such period of time as provided by law as part of any appeal from a final order in any legal proceeding initiated against him arising out of or based upon the financial records, or (2) within thirty days after a notification that no legal proceeding is contemplated against him. The Government authority obtaining the financial records shall promptly notify a customer when a determination has been made that no legal proceeding against him is contemplated. After one hundred and eighty days from the denial of the motion or application, if the Government authority obtaining the records has not initiated such a proceeding, a supervisory official of the Government authority shall certify to the appropriate court that no such determination has been made. The court may require that such certifications be made, at reasonable intervals thereafter, until either notification to the customer has occurred or a legal proceeding is initiated as described in clause (A). 1 1 So in original. Section does not contain a clause (A).
 - **(e)** The challenge procedures of this chapter constitute the sole judicial remedy available to a customer to oppose disclosure of financial rec­ords pursuant to this chapter.
 - **(f)** Nothing in this chapter shall enlarge or restrict any rights of a financial institution to challenge requests for records made by a Government authority under existing law. Nothing in this chapter shall entitle a customer to assert the rights of a financial institution.
+
+## Source Credit
+
+*([Pub. L. 95–630, title XI, § 1110](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3703](https://www.govinfo.gov/link/statute/92/3703).)*

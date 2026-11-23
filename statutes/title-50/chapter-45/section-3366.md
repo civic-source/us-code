@@ -3,12 +3,17 @@ title: "Section 3366 - Authorities of heads of other departments and agencies"
 usc_title: 50
 usc_section: "3366"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3366"
-generated_at: "2026-03-30T02:56:26.248Z"
+generated_at: "2026-11-23T20:27:30.992Z"
+status: "active"
 ---
 
 # § 3366. Authorities of heads of other departments and agencies
 
 Notwithstanding any other provision of law, the head of any department or agency of the United States is authorized to receive and utilize funds made available to the department or agency by the Director of National Intelligence pursuant to section 3024(d)(2) of this title , as amended by subsection (a), and receive and utilize any system referred to in such section that is made available to such department or agency.
 
+
+## Source Credit
+
+*([Pub. L. 111–259, title IV, § 402(b)](https://www.govinfo.gov/link/plaw/111/public/259), Oct. 7, 2010, [124 Stat. 2709](https://www.govinfo.gov/link/statute/124/2709).)*

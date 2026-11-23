@@ -3,9 +3,10 @@ title: "Section 50134 - Use of excess intercontinental ballistic missiles"
 usc_title: 51
 usc_section: "50134"
 chapter: 501
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 50134"
-generated_at: "2026-03-30T02:56:28.707Z"
+generated_at: "2026-11-23T20:27:37.494Z"
+status: "active"
 ---
 
 # § 50134. Use of excess intercontinental ballistic missiles
@@ -23,3 +24,40 @@ generated_at: "2026-03-30T02:56:28.707Z"
 - **(c)** The missiles referred to in this section are missiles owned by the United States that—
   - **(1)** were formerly used by the Department of Defense for national defense purposes as intercontinental ballistic missiles; and
   - **(2)** have been declared excess to United States national defense needs and are in compliance with international obligations of the United States.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 50134 | 42 U.S.C. 14734 . | Pub. L. 105–303, title II, § 205 , Oct. 28, 1998 , 112 Stat. 2857 ; Pub. L. 106–65, div. A, title X, § 1067(21) , Oct. 5, 1999 , 113 Stat. 775 . |
+
+
+In General
+
+Authorized Federal Uses.—
+
+In general
+
+Exception to requirement that certification be transmitted 30 days before conversion
+
+Missiles Referred to
+
+Historical and Revision Notes
+
+50134
+
+42 U.S.C. 14734
+
+Pub. L. 105–303, title II, § 205
+
+Oct. 28, 1998
+
+112 Stat. 2857
+
+Pub. L. 106–65, div. A, title X, § 1067(21)
+
+Oct. 5, 1999
+
+113 Stat. 775
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3400](https://www.govinfo.gov/link/statute/124/3400).)*

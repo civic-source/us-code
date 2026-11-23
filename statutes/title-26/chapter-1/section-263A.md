@@ -3,9 +3,10 @@ title: "Section 263A - Capitalization and inclusion in inventory costs of certai
 usc_title: 26
 usc_section: "263A"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 263A"
-generated_at: "2026-03-30T02:55:27.657Z"
+generated_at: "2026-11-23T20:26:45.529Z"
+status: "active"
 ---
 
 # § 263A. Capitalization and inclusion in inventory costs of certain expenses
@@ -130,3 +131,61 @@ generated_at: "2026-03-30T02:55:27.657Z"
 - **(j)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including—
   - **(1)** regulations to prevent the use of related parties, pass-thru entities, or intermediaries to avoid the application of this section, and
   - **(2)** regulations providing for simplified procedures for the application of this section in the case of property described in subsection (b)(2).
+
+In general
+
+Qualified employee-owner
+
+Personal service corporation
+
+In general
+
+Preservation of suspense account rules with respect to any existing suspense accounts
+
+Exemption from percentage completion for long-term contracts
+
+In general
+
+Subsection
+
+In general
+
+Revocation of election
+
+In general
+
+Special rule for inventory property
+
+In general
+
+Change in method of accounting
+
+Special rule for self-constructed property
+
+Transitional rule for capitalization of interest and taxes.—
+
+Transition property exempted from interest capitalization
+
+Interest and taxes
+
+Transition rule concerning capitalization of inventory rules
+
+Treatment of certain rehabilitation project
+
+Special rule for casualty losses
+
+In General
+
+Effective Date.—
+
+In general
+
+Special rule for inventory property
+
+In general
+
+Change in method of accounting
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title VIII, § 803(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2350](https://www.govinfo.gov/link/statute/100/2350); amended [Pub. L. 100–647, title I, § 1008(b)(1)](https://www.govinfo.gov/link/plaw/100/public/647) –(4), title VI, § 6026(a)–(c), Nov. 10, 1988, [102 Stat. 3437](https://www.govinfo.gov/link/statute/102/3437), 3438, 3691–3693; [Pub. L. 101–239, title VII, § 7816(d)(1)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2420](https://www.govinfo.gov/link/statute/103/2420); [Pub. L. 106–170, title V, § 532(c)(2)(B)](https://www.govinfo.gov/link/plaw/106/public/170), Dec. 17, 1999, [113 Stat. 1930](https://www.govinfo.gov/link/statute/113/1930); [Pub. L. 108–357, title III, § 338(b)(2)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1481](https://www.govinfo.gov/link/statute/118/1481); [Pub. L. 109–58, title XIII, § 1329(b)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 1020](https://www.govinfo.gov/link/statute/119/1020); [Pub. L. 114–113, div. Q, title I, § 143(b)(6)(H)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3064](https://www.govinfo.gov/link/statute/129/3064); [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 13102(b), 13207(a), 13801(a), (b), Dec. 22, 2017, [131 Stat. 2103](https://www.govinfo.gov/link/statute/131/2103), 2113, 2169, 2170; [Pub. L. 116–94, div. Q, title I, § 144(a)(1)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3234](https://www.govinfo.gov/link/statute/133/3234); [Pub. L. 116–260, div. EE, title I, § 106(a)(1)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3041](https://www.govinfo.gov/link/statute/134/3041); [Pub. L. 119–21, title VII, § 70302(b)(7)(B)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 192](https://www.govinfo.gov/link/statute/139/192).)*

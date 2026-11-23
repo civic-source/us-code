@@ -3,9 +3,10 @@ title: "Section 3262 - Programs"
 usc_title: 22
 usc_section: "3262"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3262"
-generated_at: "2026-03-30T02:55:05.390Z"
+generated_at: "2026-11-23T20:26:32.447Z"
+status: "active"
 ---
 
 # § 3262. Programs
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.390Z"
 - **(c)** As an integral part of such program, the Department of Energy, under the general policy guidance of the Department of State and in cooperation with the Agency for International Development and other Federal agencies as appropriate, shall initiate, as soon as practicable, a program for the exchange of United States scientists, technicians, and energy experts with those of developing countries to implement the purposes of this section.
 - **(d)** For the purposes of carrying out this section, there is authorized to be appropriated such sums as are contained in annual authorization Acts for the Department of Energy, including such sums which have been authorized for such purposes under previous legislation.
 - **(e)** Under the direction of the President, the Secretary of State shall ensure the coordination of the activities authorized by this subchapter with other related activities of the United States conducted abroad, including the programs authorized by sections 2151a(c), 2151d(a)(2), 1 1 See References in Text note below. and 2151q 1 of this title.
+
+## Source Credit
+
+*([Pub. L. 95–242, title V, § 502](https://www.govinfo.gov/link/plaw/95/public/242), Mar. 10, 1978, [92 Stat. 149](https://www.govinfo.gov/link/statute/92/149).)*

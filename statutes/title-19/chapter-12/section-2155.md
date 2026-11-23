@@ -3,9 +3,10 @@ title: "Section 2155 - Information and advice from private and public sectors"
 usc_title: 19
 usc_section: "2155"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2155"
-generated_at: "2026-03-30T02:54:24.665Z"
+generated_at: "2026-11-23T20:26:10.912Z"
+status: "active"
 ---
 
 # § 2155. Information and advice from private and public sectors
@@ -70,3 +71,19 @@ generated_at: "2026-03-30T02:54:24.665Z"
 - **(m)** As used in this section, the term “non-Federal government” means—
   - **(1)** any State, territory, or possession of the United States, or the District of Columbia, or any political subdivision thereof; or
   - **(2)** any agency or instrumentality of any entity described in paragraph (1).
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+William J. Clinton.
+
+## Source Credit
+
+*([Pub. L. 93–618, title I, § 135](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 1996](https://www.govinfo.gov/link/statute/88/1996); [Pub. L. 96–39, title XI, § 1103](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 308](https://www.govinfo.gov/link/statute/93/308); [Pub. L. 98–573, title III, § 306(c)(2)(B)](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 3011](https://www.govinfo.gov/link/statute/98/3011); [Pub. L. 99–514, title XVIII, § 1887(a)(2)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2923](https://www.govinfo.gov/link/statute/100/2923); [Pub. L. 100–418, title I, § 1631](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1264](https://www.govinfo.gov/link/statute/102/1264); [Pub. L. 103–465, title I](https://www.govinfo.gov/link/plaw/103/public/465), §§ 127(f), 128, Dec. 8, 1994, [108 Stat. 4836](https://www.govinfo.gov/link/statute/108/4836); [Pub. L. 107–210, div. B, title XXI, § 2110(a)(5)](https://www.govinfo.gov/link/plaw/107/public/210), Aug. 6, 2002, [116 Stat. 1020](https://www.govinfo.gov/link/statute/116/1020); [Pub. L. 108–429, title II, § 2004(i)(1)](https://www.govinfo.gov/link/plaw/108/public/429), (2), Dec. 3, 2004, [118 Stat. 2594](https://www.govinfo.gov/link/statute/118/2594), 2595; [Pub. L. 109–280, title XIV, § 1635(f)(2)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1171](https://www.govinfo.gov/link/statute/120/1171); [Pub. L. 114–26, title I, § 110(a)(5)](https://www.govinfo.gov/link/plaw/114/public/26), June 29, 2015, [129 Stat. 357](https://www.govinfo.gov/link/statute/129/357); [Pub. L. 117–286, § 4(a)(138)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4320](https://www.govinfo.gov/link/statute/136/4320).)*

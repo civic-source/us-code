@@ -3,9 +3,10 @@ title: "Section 13103 - Persons required to file"
 usc_title: 5
 usc_section: "13103"
 chapter: 131
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 13103"
-generated_at: "2026-03-30T02:52:56.077Z"
+generated_at: "2026-11-23T20:25:32.272Z"
+status: "active"
 ---
 
 # § 13103. Persons required to file
@@ -41,3 +42,100 @@ generated_at: "2026-03-30T02:52:56.077Z"
   - **(1)** the report required by subsections (a) and (b) shall be filed within 15 days of the 60th day; and
   - **(2)** the report required by subsection (e) shall be filed as provided in that subsection.
       - **(i)** The supervising ethics office for each branch may grant a publicly available request for a waiver of any reporting requirement under this section for an individual who is expected to perform or has performed the duties of the individual’s office or position less than 130 days in a calendar year, but only if the supervising ethics office determines that—
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 13103 | 5 U.S.C. App. (EGA § 101) | Pub. L. 95–521, title I, § 101 , Oct. 26, 1978 , 92 Stat. 1824 ; Pub. L. 96–19 , §§ 2(a)(1), (b), (c)(1), 4(b)(1), (d)–(f), 5, June 13, 1979 , 93 Stat. 37 , 38, 40; Pub. L. 101–194, title II, § 202 , Nov. 30, 1989 , 103 Stat. 1725 ; Pub. L. 101–280, § 3(1) , (2), May 4, 1990 , 104 Stat. 152 ; Pub. L. 102–25, title VI, § 605(a) , Apr. 6, 1991 , 105 Stat. 110 ; Pub. L. 102–378, § 4(a)(1) , Oct. 2, 1992 , 106 Stat. 1356 ; Pub. L. 109–435, title VI, § 604(c) , Dec. 20, 2006 , 120 Stat. 3241 . |
+
+
+Reports Filed Upon Entering a Filing Position
+
+Reports for Nominees to Positions Requiring Senate Confirmation.—
+
+In general
+
+Public announcement of intended nomination
+
+Reports for Candidates for Elected Federal Office
+
+Annual Reports
+
+Termination Reports
+
+Individuals Required To File
+
+Extensions of Time for Filing.—
+
+In general
+
+Armed forces.—
+
+Combat zone
+
+Procedures
+
+Exceptions
+
+Request for Waiver
+
+(1) such individual is not a full-time employee of the Government;
+
+(2) such individual is able to provide services specially needed by the Government;
+
+(3) it is unlikely that the individual’s outside employment or financial interests will create a conflict of interest; and
+
+(4) public financial disclosure by such individual is not necessary in the circumstances.
+
+Historical and Revision Notes
+
+13103
+
+Pub. L. 95–521, title I, § 101
+
+Oct. 26, 1978
+
+92 Stat. 1824
+
+Pub. L. 96–19
+
+June 13, 1979
+
+93 Stat. 37
+
+Pub. L. 101–194, title II, § 202
+
+Nov. 30, 1989
+
+103 Stat. 1725
+
+Pub. L. 101–280, § 3(1)
+
+May 4, 1990
+
+104 Stat. 152
+
+Pub. L. 102–25, title VI, § 605(a)
+
+Apr. 6, 1991
+
+105 Stat. 110
+
+Pub. L. 102–378, § 4(a)(1)
+
+Oct. 2, 1992
+
+106 Stat. 1356
+
+Pub. L. 109–435, title VI, § 604(c)
+
+Dec. 20, 2006
+
+120 Stat. 3241
+
+Restriction Extended to Executive and Judicial Branches
+
+Recusal
+
+## Source Credit
+
+*([Pub. L. 117–286, § 3(c)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4270](https://www.govinfo.gov/link/statute/136/4270).)*

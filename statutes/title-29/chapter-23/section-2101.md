@@ -3,9 +3,10 @@ title: "Section 2101 - Definitions; exclusions from definition of loss of employ
 usc_title: 29
 usc_section: "2101"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 2101"
-generated_at: "2026-03-30T02:55:18.742Z"
+generated_at: "2026-11-23T20:26:38.061Z"
+status: "active"
 ---
 
 # § 2101. Definitions; exclusions from definition of loss of employment
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:18.742Z"
   - **(2)** Notwithstanding subsection (a)(6), an employee may not be considered to have experienced an employment loss if the closing or layoff is the result of the relocation or consolidation of part or all of the employer’s business and, prior to the closing or layoff—
     - **(A)** the employer offers to transfer the employee to a different site of employment within a reasonable commuting distance with no more than a 6-month break in employment; or
     - **(B)** the employer offers to transfer the employee to any other site of employment regardless of distance with no more than a 6-month break in employment, and the employee accepts within 30 days of the offer or of the closing or layoff, whichever is later.
+
+## Source Credit
+
+*([Pub. L. 100–379, § 2](https://www.govinfo.gov/link/plaw/100/public/379), Aug. 4, 1988, [102 Stat. 890](https://www.govinfo.gov/link/statute/102/890).)*

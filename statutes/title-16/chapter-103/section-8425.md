@@ -3,9 +3,10 @@ title: "Section 8425 - Motorized and nonmotorized access"
 usc_title: 16
 usc_section: "8425"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 8425"
-generated_at: "2026-03-30T02:54:23.084Z"
+generated_at: "2026-11-23T20:26:20.881Z"
+status: "active"
 ---
 
 # § 8425. Motorized and nonmotorized access
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:23.084Z"
 - **(c)** Not later than 20 years after the date on which the Secretary concerned adopted or reviewed, through public notice and comment, a map described in subsection (a) or (b), the Secretary concerned shall seek to review, through public notice and comment, and update, as necessary, the applicable map.
 - **(d)** The Secretaries shall seek to create additional opportunities, as appropriate, and in accordance with existing law, for motorized and nonmotorized access and opportunities on Federal recreational lands and waters administered by the Chief of the Forest Service or the Director of the Bureau of Land Management.
 - **(e)** Nothing in this section prohibits a lawful use, including authorized motorized or nonmotorized uses, on Federal recreational lands and waters administered by the Chief of the Forest Service or the Director of the Bureau of Land Management, if the Secretary concerned fails to meet a timeline established under this section.
+
+## Source Credit
+
+*([Pub. L. 118–234, title I, § 127](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2855](https://www.govinfo.gov/link/statute/138/2855).)*

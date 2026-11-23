@@ -3,12 +3,17 @@ title: "Section 3076 - Separability"
 usc_title: 50
 usc_section: "3076"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3076"
-generated_at: "2026-03-30T02:56:26.234Z"
+generated_at: "2026-11-23T20:27:30.910Z"
+status: "active"
 ---
 
 # § 3076. Separability
 
 If any provision of this chapter or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the chapter and of the application of such provision to other persons and circumstances shall not be affected thereby.
 
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title III, § 309, [61 Stat. 509](https://www.govinfo.gov/link/statute/61/509).)*

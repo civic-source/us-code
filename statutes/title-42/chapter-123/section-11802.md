@@ -3,9 +3,10 @@ title: "Section 11802 - Application for grants and contracts"
 usc_title: 42
 usc_section: "11802"
 chapter: 123
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11802"
-generated_at: "2026-03-30T02:56:11.405Z"
+generated_at: "2026-11-23T20:27:23.325Z"
+status: "active"
 ---
 
 # § 11802. Application for grants and contracts
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.405Z"
   - **(4)** provide for regular evaluation of the operation of such project or activity,
   - **(5)** provide that regular reports on such project or activity shall be submitted to the Secretary, and
   - **(6)** provide such fiscal control and fund accounting procedures as may be necessary to ensure prudent use, proper disbursement, and accurate accounting of funds received under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 100–690, title III, § 3502](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4254](https://www.govinfo.gov/link/statute/102/4254).)*

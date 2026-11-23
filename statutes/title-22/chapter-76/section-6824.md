@@ -3,9 +3,10 @@ title: "Section 6824 - Advisory Board"
 usc_title: 22
 usc_section: "6824"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6824"
-generated_at: "2026-03-30T02:55:05.433Z"
+generated_at: "2026-11-23T20:26:32.634Z"
+status: "active"
 ---
 
 # § 6824. Advisory Board
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.433Z"
 - **(d)**
   - **(1)** Except for travel expenses (including per diem in lieu of subsistence), no member of the Advisory Board should receive compensation for services performed as a member of the Board.
   - **(2)** Notwithstanding any other provision of law (including an international agreement), a representative of the United States on the Advisory Board may not accept compensation for services performed as a member of the Board, except that such representative may accept travel expenses, including per diem in lieu of subsistence, while away from the representative’s home or regular place of business in the performance of services for the Board.
+
+## Source Credit
+
+*([Pub. L. 106–264, title I, § 124](https://www.govinfo.gov/link/plaw/106/public/264), Aug. 19, 2000, [114 Stat. 756](https://www.govinfo.gov/link/statute/114/756).)*

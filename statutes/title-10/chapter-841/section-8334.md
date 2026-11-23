@@ -3,9 +3,10 @@ title: "Section 8334 - Higher grade after 30 years of service: warrant officers 
 usc_title: 10
 usc_section: "8334"
 chapter: 841
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 8334"
-generated_at: "2026-03-30T02:53:38.241Z"
+generated_at: "2026-11-23T20:25:52.190Z"
+status: "active"
 ---
 
 # § 8334. Higher grade after 30 years of service: warrant officers and enlisted members
@@ -15,4 +16,26 @@ generated_at: "2026-03-30T02:53:38.241Z"
   - **(1)** warrant officers of the naval service;
   - **(2)** enlisted members of the Regular Navy and Regular Marine Corps; and
   - **(3)** reserve enlisted members of the Navy and Marine Corps who, at the time of retirement or transfer to the Fleet Reserve or Fleet Marine Corps Reserve, are serving on active duty.
-- **(c)** An enlisted member of the naval service who is advanced on the retired list under this section is entitled to recompute his retired or retainer pay under formula A of the following table, and a warrant officer of the naval service so advanced is entitled to recompute his retired pay under formula B of that table. The amount recomputed, if not a multiple of $1, shall be rounded to the next lower multiple of $1. Formula Column 1 Take Column 2 Multiply by 1 In determining the retired pay multiplier, credit each full month of service that is in addition to the number of full years of service creditable to the member as 1 ⁄ 12 of a year and disregard any remaining fractional part of a month. A Retired pay base as computed under section 1406(d) or 1407 of this title The retired pay multiplier prescribed in section 1409 of this title for the number of years creditable for his retainer or retired pay at the time of retirement. 1 B Retired pay base as computed under section 1406(d) of this title The retired pay multiplier prescribed in section 1409 of this title for the number of years credited to him under section 1405 of this title .
+- **(c)** An enlisted member of the naval service who is advanced on the retired list under this section is entitled to recompute his retired or retainer pay under formula A of the following table, and a warrant officer of the naval service so advanced is entitled to recompute his retired pay under formula B of that table. The amount recomputed, if not a multiple of $1, shall be rounded to the next lower multiple of $1.
+
+| Formula | Column 1 Take | Column 2 Multiply by |
+| --- | --- | --- |
+| A | Retired pay base as computed under section 1406(d) or 1407 of this title | The retired pay multiplier prescribed in section 1409 of this title for the number of years creditable for his retainer or retired pay at the time of retirement. 1 |
+| B | Retired pay base as computed under section 1406(d) of this title | The retired pay multiplier prescribed in section 1409 of this title for the number of years credited to him under section 1405 of this title . |
+
+
+1 In determining the retired pay multiplier, credit each full month of service that is in addition to the number of full years of service creditable to the member as 1 ⁄ 12 of a year and disregard any remaining fractional part of a month.
+
+section 1409 of this title
+
+1
+
+section 1406(d) of this title
+
+section 1409 of this title
+
+section 1405 of this title
+
+## Source Credit
+
+*(Added [Pub. L. 100–180, div. A, title V, § 512(b)](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1089](https://www.govinfo.gov/link/statute/101/1089), § 6334; amended [Pub. L. 101–189, div. A, title XVI, § 1622(g)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1605](https://www.govinfo.gov/link/statute/103/1605); renumbered § 8334, [Pub. L. 115–232, div. A, title VIII, § 807(b)(15)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1836](https://www.govinfo.gov/link/statute/132/1836).)*

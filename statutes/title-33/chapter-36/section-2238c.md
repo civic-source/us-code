@@ -3,9 +3,10 @@ title: "Section 2238c - Additional measures at donor ports and energy transfer p
 usc_title: 33
 usc_section: "2238c"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2238c"
-generated_at: "2026-03-30T02:55:41.116Z"
+generated_at: "2026-11-23T20:26:54.133Z"
+status: "active"
 ---
 
 # § 2238c. Additional measures at donor ports and energy transfer ports
@@ -70,3 +71,7 @@ generated_at: "2026-03-30T02:55:41.116Z"
     - **(A)** donor ports and medium-sized donor ports; and
     - **(B)** energy transfer ports.
 - **(f)** Nothing in this section waives any statutory requirement related to the transportation of merchandise as authorized under chapter 551 of title 46.
+
+## Source Credit
+
+*([Pub. L. 113–121, title II, § 2106](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1280](https://www.govinfo.gov/link/statute/128/1280); [Pub. L. 114–322, title I, § 1110](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1634](https://www.govinfo.gov/link/statute/130/1634); [Pub. L. 116–260, div. AA, title I, § 104(a)](https://www.govinfo.gov/link/plaw/116/public/260) –(b)(2), Dec. 27, 2020, [134 Stat. 2621](https://www.govinfo.gov/link/statute/134/2621), 2622.)*

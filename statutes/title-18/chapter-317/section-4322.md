@@ -3,9 +3,10 @@ title: "Section 4322 - Use of restraints on prisoners during the period of pregn
 usc_title: 18
 usc_section: "4322"
 chapter: 317
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 4322"
-generated_at: "2026-03-30T02:54:16.529Z"
+generated_at: "2026-11-23T20:26:08.794Z"
+status: "active"
 ---
 
 # § 4322. Use of restraints on prisoners during the period of pregnancy, labor, and postpartum recovery prohibited
@@ -48,3 +49,51 @@ generated_at: "2026-03-30T02:54:16.529Z"
   - **(1)** The term “postpartum recovery” means the 12-week period, or longer as determined by the healthcare professional responsible for the health and safety of the prisoner, following delivery, and shall include the entire period that the prisoner is in the hospital or infirmary.
   - **(2)** The term “prisoner” means a person who has been sentenced to a term of imprisonment pursuant to a conviction for a Federal criminal offense, or a person in the custody of the Bureau of Prisons, including a person in a Bureau of Prisons contracted facility.
   - **(3)** The term “restraints” means any physical or mechanical device used to control the movement of a prisoner’s body, limbs, or both.
+
+Prohibition
+
+Exceptions.—
+
+In general
+
+Least restrictive restraints
+
+Application.—
+
+In general
+
+Medical request
+
+Reports.—
+
+Report to the director and healthcare professional
+
+Supplemental report to the director
+
+Report to judiciary committees.—
+
+In general
+
+Personally identifiable information
+
+Notice
+
+Violation Reporting Process
+
+Training.—
+
+In general
+
+Development of guidelines
+
+Definitions
+
+Postpartum recovery
+
+Prisoner
+
+Restraints
+
+## Source Credit
+
+*(Added [Pub. L. 115–391, title III, § 301(a)](https://www.govinfo.gov/link/plaw/115/public/391), Dec. 21, 2018, [132 Stat. 5217](https://www.govinfo.gov/link/statute/132/5217).)*

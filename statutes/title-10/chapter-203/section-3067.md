@@ -3,9 +3,10 @@ title: "Section 3067 - Approval required for military department termination or 
 usc_title: 10
 usc_section: "3067"
 chapter: 203
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 3067"
-generated_at: "2026-03-30T02:53:38.188Z"
+generated_at: "2026-11-23T20:25:51.800Z"
+status: "active"
 ---
 
 # § 3067. Approval required for military department termination or reduction in participation in joint acquisition programs
@@ -14,3 +15,11 @@ generated_at: "2026-03-30T02:53:38.188Z"
 - **(b)** The regulations shall include the following provisions:
   - **(1)** A requirement that, before any such termination or substantial reduction in participation is approved, the proposed termination or reduction be reviewed by the Joint Requirements Oversight Council of the Department of Defense.
   - **(2)** A provision that authorizes the Under Secretary of Defense for Acquisition and Sustainment to require a military department whose participation in a joint acquisition program has been approved for termination or substantial reduction to continue to provide some or all of the funding necessary for the acquisition program to be continued in an efficient manner.
+
+Approval of Terminations and Reductions of Joint Acquisition Programs
+
+Required Content of Regulations
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1807(d)(2)(B)](https://www.govinfo.gov/link/plaw/116/public/283), (E), Jan. 1, 2021, [134 Stat. 4158](https://www.govinfo.gov/link/statute/134/4158).)*

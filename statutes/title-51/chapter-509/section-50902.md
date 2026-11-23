@@ -3,9 +3,10 @@ title: "Section 50902 - Definitions"
 usc_title: 51
 usc_section: "50902"
 chapter: 509
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 50902"
-generated_at: "2026-03-30T02:56:28.708Z"
+generated_at: "2026-11-23T20:27:37.499Z"
+status: "active"
 ---
 
 # § 50902. Definitions
@@ -66,3 +67,73 @@ In this chapter—
     - **(D)** the customer’s contractors or subcontractors involved in launch services or reentry services; or
     - **(E)** crew, government astronauts, or space flight participants.
   - **(27)** “United States” means the States of the United States, the District of Columbia, and the territories and possessions of the United States.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 70102(1) | 49 App.:2603(9). | Oct. 30, 1984 , Pub. L. 98–575, § 4(1) –(9), 98 Stat. 3056 . |
+|  | 49 App.:2603(12). | Oct. 30, 1984 , Pub. L. 98–575, § 4(12) , 98 Stat. 3056 ; Nov. 15, 1988 , Pub. L. 100–657, § 3(2) , 102 Stat. 3900 . |
+| 70102(2)–(9) | 49 App.:2603(1)–(8). |  |
+| 70102(10) | 49 App.:2603(10). | Oct. 30, 1984 , Pub. L. 98–575, § 4(10) , 98 Stat. 3056 ; Nov. 15, 1988 , Pub. L. 100–657, § 3(1) , 102 Stat. 3900 . |
+| 70102(11) | 49 App.:2603(11). | Oct. 30, 1984 , Pub. L. 98–575 , 98 Stat. 3055 , § 4(11); added Nov. 15, 1988 , Pub. L. 100–657, § 3(3) , 102 Stat. 3900 . |
+| 70102(12) | 49 App.:2603(10). |  |
+
+
+Historical and Revision Notes
+
+Pub. L
+
+70102(1)
+
+Oct. 30, 1984
+
+Pub. L. 98–575, § 4(1)
+
+98 Stat. 3056
+
+Oct. 30, 1984
+
+Pub. L. 98–575, § 4(12)
+
+98 Stat. 3056
+
+Nov. 15, 1988
+
+Pub. L. 100–657, § 3(2)
+
+102 Stat. 3900
+
+70102(2)–(9)
+
+70102(10)
+
+Oct. 30, 1984
+
+Pub. L. 98–575, § 4(10)
+
+98 Stat. 3056
+
+Nov. 15, 1988
+
+Pub. L. 100–657, § 3(1)
+
+102 Stat. 3900
+
+70102(11)
+
+Oct. 30, 1984
+
+Pub. L. 98–575
+
+98 Stat. 3055
+
+Nov. 15, 1988
+
+Pub. L. 100–657, § 3(3)
+
+102 Stat. 3900
+
+70102(12)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1331](https://www.govinfo.gov/link/statute/108/1331), § 70102 of title 49; [Pub. L. 104–287, § 5(92)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3398](https://www.govinfo.gov/link/statute/110/3398); [Pub. L. 105–303, title I, § 102(a)(3)](https://www.govinfo.gov/link/plaw/105/public/303), Oct. 28, 1998, [112 Stat. 2846](https://www.govinfo.gov/link/statute/112/2846); [Pub. L. 106–391, title III, § 322(a)](https://www.govinfo.gov/link/plaw/106/public/391), Oct. 30, 2000, [114 Stat. 1598](https://www.govinfo.gov/link/statute/114/1598); [Pub. L. 108–492, § 2(b)](https://www.govinfo.gov/link/plaw/108/public/492), Dec. 23, 2004, [118 Stat. 3975](https://www.govinfo.gov/link/statute/118/3975); renumbered § 70102 then § 50902 of title 51 and amended [Pub. L. 111–314, § 4(d)(2)](https://www.govinfo.gov/link/plaw/111/public/314), (3)(B), (5)(A), (B), Dec. 18, 2010, [124 Stat. 3440](https://www.govinfo.gov/link/statute/124/3440), 3441; [Pub. L. 114–90, title I, § 112(c)](https://www.govinfo.gov/link/plaw/114/public/90), (e)–(j), Nov. 25, 2015, [129 Stat. 712](https://www.govinfo.gov/link/statute/129/712), 713; [Pub. L. 115–254, div. B, title V, § 581(a)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3397](https://www.govinfo.gov/link/statute/132/3397).)*

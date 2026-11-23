@@ -3,9 +3,10 @@ title: "Section 5706 - Veterans identification card"
 usc_title: 38
 usc_section: "5706"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 5706"
-generated_at: "2026-03-30T02:55:53.522Z"
+generated_at: "2026-11-23T20:27:01.968Z"
+status: "active"
 ---
 
 # § 5706. Veterans identification card
@@ -41,3 +42,19 @@ generated_at: "2026-03-30T02:55:53.522Z"
   - **(3)** In carrying out this section, the Secretary shall coordinate with the National Personnel Records Center.
   - **(4)** The Secretary may conduct such outreach to advertise the identification card under this section as the Secretary considers appropriate.
 - **(f)** This section shall not be construed to affect identification cards otherwise provided by the Secretary to veterans enrolled in the health care system established under section 1705(a) of this title .
+
+In General
+
+Identification Card
+
+Costs of Card
+
+Effect of Card on Benefits
+
+Administrative Measures
+
+Construction
+
+## Source Credit
+
+*(Added [Pub. L. 114–31, § 2(b)](https://www.govinfo.gov/link/plaw/114/public/31), July 20, 2015, [129 Stat. 428](https://www.govinfo.gov/link/statute/129/428).)*

@@ -3,9 +3,10 @@ title: "Section 7363 - Reports to Congress"
 usc_title: 5
 usc_section: "7363"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 7363"
-generated_at: "2026-03-30T02:52:56.037Z"
+generated_at: "2026-11-23T20:25:32.067Z"
+status: "active"
 ---
 
 # § 7363. Reports to Congress
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:52:56.037Z"
   - **(4)** a description of the training given to supervisory personnel in connection with recognizing the symptoms of drug or alcohol abuse and the procedures (including those relating to confidentiality) under which individuals are referred for treatment, rehabilitation, or other assistance;
   - **(5)** any recommendations for legislation considered appropriate by the Office and any proposed administrative actions; and
   - **(6)** information describing any other related activities under section 7904 of this title , and any other matter which the Office considers appropriate.
+
+## Source Credit
+
+*(Added [Pub. L. 99–570, title VI, § 6002(a)(1)](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–158](https://www.govinfo.gov/link/statute/100/3207).)*

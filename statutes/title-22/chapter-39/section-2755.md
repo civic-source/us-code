@@ -3,9 +3,10 @@ title: "Section 2755 - Discrimination prohibited if based on race, religion, nat
 usc_title: 22
 usc_section: "2755"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2755"
-generated_at: "2026-03-30T02:55:05.384Z"
+generated_at: "2026-11-23T20:26:32.403Z"
+status: "active"
 ---
 
 # § 2755. Discrimination prohibited if based on race, religion, national origin, or sex
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:05.384Z"
     - **(A)** In the event a statement with respect to a sale or licensed transaction is transmitted under paragraph (1) of this subsection, the Congress may at any time thereafter adopt a joint resolution terminating or restricting such sale or licensed transaction.
     - **(B)** Any such resolution shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
     - **(C)** The term “certification”, as used in section 601 of such Act, means, for the purposes of this paragraph, a statement transmitted under paragraph (1) of this subsection.
+
+## Source Credit
+
+*([Pub. L. 90–629](https://www.govinfo.gov/link/plaw/90/public/629), ch. 1, § 5, as added [Pub. L. 94–329, title III, § 302(b)](https://www.govinfo.gov/link/plaw/94/public/329), June 30, 1976, [90 Stat. 752](https://www.govinfo.gov/link/statute/90/752); amended [Pub. L. 95–105, title I, § 109(a)(5)](https://www.govinfo.gov/link/plaw/95/public/105), Aug. 17, 1977, [91 Stat. 846](https://www.govinfo.gov/link/statute/91/846); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 103–236, title I, § 162(f)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 405](https://www.govinfo.gov/link/statute/108/405); [Pub. L. 103–437, § 9(a)(7)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4588](https://www.govinfo.gov/link/statute/108/4588); [Pub. L. 111–266, title I, § 104(b)](https://www.govinfo.gov/link/plaw/111/public/266), Oct. 8, 2010, [124 Stat. 2799](https://www.govinfo.gov/link/statute/124/2799); [Pub. L. 113–276, title II, § 208(a)(1)](https://www.govinfo.gov/link/plaw/113/public/276), Dec. 18, 2014, [128 Stat. 2992](https://www.govinfo.gov/link/statute/128/2992).)*

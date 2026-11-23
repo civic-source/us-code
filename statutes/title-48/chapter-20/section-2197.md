@@ -3,9 +3,10 @@ title: "Section 2197 - Report"
 usc_title: 48
 usc_section: "2197"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 2197"
-generated_at: "2026-03-30T02:56:14.605Z"
+generated_at: "2026-11-23T20:27:28.207Z"
+status: "active"
 ---
 
 # § 2197. Report
@@ -15,3 +16,7 @@ Not later than 18 months after June 30, 2016 , the Comptroller General shall sub
   - **(1)** the conditions which led to the level of debt, which should be analyzed, per capita and based upon overall economic activity;
   - **(2)** how actions of the territorial government improved or impaired the territory’s financial conditions; and
   - **(3)** recommendations on non-fiscal actions, or policies that would not imperil America’s homeland and national security, that could be taken by Congress or the Administration to avert future indebtedness of territories, while respecting sovereignty and constitutional parameters.
+
+## Source Credit
+
+*([Pub. L. 114–187, title IV, § 410](https://www.govinfo.gov/link/plaw/114/public/187), June 30, 2016, [130 Stat. 594](https://www.govinfo.gov/link/statute/130/594).)*

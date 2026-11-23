@@ -3,9 +3,10 @@ title: "Section 8017 - Secretary of the Navy: successors to duties"
 usc_title: 10
 usc_section: "8017"
 chapter: 803
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 8017"
-generated_at: "2026-03-30T02:53:38.237Z"
+generated_at: "2026-11-23T20:25:52.129Z"
+status: "active"
 ---
 
 # § 8017. Secretary of the Navy: successors to duties
@@ -17,3 +18,7 @@ If the Secretary of the Navy dies, resigns, is removed from office, is absent, o
   - **(3)** The General Counsel of the Department of the Navy.
   - **(4)** The Chief of Naval Operations.
   - **(5)** The Commandant of the Marine Corps.
+
+## Source Credit
+
+*(Added [Pub. L. 99–433, title V, § 511(c)(4)](https://www.govinfo.gov/link/plaw/99/public/433), Oct. 1, 1986, [100 Stat. 1047](https://www.govinfo.gov/link/statute/100/1047), § 5017; amended [Pub. L. 103–337, div. A, title IX, § 902(b)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2823](https://www.govinfo.gov/link/statute/108/2823); renumbered § 8017, [Pub. L. 115–232, div. A, title VIII, § 807(a)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1834](https://www.govinfo.gov/link/statute/132/1834).)*

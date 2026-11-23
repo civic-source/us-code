@@ -3,9 +3,10 @@ title: "Section 1748c - Bureau of Land Management Foundation"
 usc_title: 43
 usc_section: "1748c"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1748c"
-generated_at: "2026-03-30T02:55:57.490Z"
+generated_at: "2026-11-23T20:27:06.371Z"
+status: "active"
 ---
 
 # § 1748c. Bureau of Land Management Foundation
@@ -119,3 +120,7 @@ generated_at: "2026-03-30T02:55:57.490Z"
   - **(2)** The full faith and credit of the United States shall not extend to any obligation of the Foundation.
 - **(i)** Nothing in this section authorizes the Foundation to perform any function the authority for which is provided to the Bureau of Land Management under any other provision of law.
 - **(j)** There are authorized to be appropriated such sums as are necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 115–31, div. G, title I, § 122](https://www.govinfo.gov/link/plaw/115/public/31), May 5, 2017, [131 Stat. 463](https://www.govinfo.gov/link/statute/131/463).)*

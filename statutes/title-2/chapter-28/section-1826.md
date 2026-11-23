@@ -3,9 +3,10 @@ title: "Section 1826 - Easements for rights-of-way"
 usc_title: 2
 usc_section: "1826"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1826"
-generated_at: "2026-03-30T02:53:04.818Z"
+generated_at: "2026-11-23T20:25:28.985Z"
+status: "active"
 ---
 
 # § 1826. Easements for rights-of-way
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:04.818Z"
   - **(2)** the House Office Building Commission for property under House of Representatives jurisdiction; and
   - **(3)** the Committee on Rules and Administration of the Senate and the House Office Building Commission for easements granted on any other property.
 - **(g)** This section shall apply to fiscal year 2008 and each fiscal year thereafter.
+
+## Source Credit
+
+*([Pub. L. 110–161, div. H, title I, § 1307](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2243](https://www.govinfo.gov/link/statute/121/2243).)*

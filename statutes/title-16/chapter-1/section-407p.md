@@ -3,12 +3,17 @@ title: "Section 407p - Establishment of advisory commission; composition, appoin
 usc_title: 16
 usc_section: "407p"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 407p"
-generated_at: "2026-03-30T02:54:22.758Z"
+generated_at: "2026-11-23T20:26:19.442Z"
+status: "active"
 ---
 
 # § 407p. Establishment of advisory commission; composition, appointment, and duties
 
 The Secretary of the Interior is authorized, in his discretion, to establish a suitable advisory commission of not to exceed eleven members. The members of the advisory commission shall be appointed by the Secretary of the Interior, with three members to be recommended by the Governor of Pennsylvania, three by the mayor of Philadelphia, and one each by the Carpenters’ Company of Philadelphia and the Independence Hall Association. The functions of the advisory commission shall be to render advice to the Secretary of the Interior, from time to time, upon matters which the Secretary of the Interior may refer to them for consideration.
 
+
+## Source Credit
+
+*(June 28, 1948, ch. 687, § 4, [62 Stat. 1062](https://www.govinfo.gov/link/statute/62/1062).)*

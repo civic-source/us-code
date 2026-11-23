@@ -3,9 +3,10 @@ title: "Section 30141 - Importing motor vehicles capable of complying with stand
 usc_title: 49
 usc_section: "30141"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 30141"
-generated_at: "2026-03-30T02:56:19.352Z"
+generated_at: "2026-11-23T20:27:34.905Z"
+status: "active"
 ---
 
 # § 30141. Importing motor vehicles capable of complying with standards
@@ -44,3 +45,52 @@ generated_at: "2026-03-30T02:56:19.352Z"
 - **(e)** The Secretary of Transportation shall review and make appropriate adjustments at least every 2 years in the amounts of the fees required to be paid under subsection (a)(3) of this section. The Secretary of Transportation shall establish the fees for each fiscal year before the beginning of that year. All fees collected remain available until expended without fiscal year limit to the extent provided in advance by appropriation laws. The amounts are only for use by the Secretary of Transportation—
   - **(1)** in carrying out this section and sections 30146(a)–(c)(1), (d), and (e) and 30147(b) of this title; and
   - **(2)** in advancing to the Secretary of the Treasury amounts for costs incurred under this section and section 30146 of this title to reimburse the Secretary of the Treasury for those costs.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30141(a) | 15:1397(c)(3)(A), (C)(i). | Sept. 9, 1966 , Pub. L. 89–563 , 80 Stat. 718 , § 108(c)(2), (3)(A)–(D); added Oct. 31, 1988 , Pub. L. 100–562, § 2(b) , 102 Stat. 2818 . |
+| 30141(b) | 15:1397(c)(3)(C) (ii)–(iv). |  |
+| 30141(c) | 15:1397(c)(3)(D). |  |
+| 30141(d) | 15:1397(c)(2). |  |
+| 30141(e) | 15:1397(c)(3)(B). |  |
+
+
+General
+
+Procedures on Deciding on Motor Vehicle Capability
+
+Registration
+
+Bonds
+
+Fee Review, Adjustment, and Use
+
+Historical and Revision Notes
+
+Pub. L
+
+30141(a)
+
+Sept. 9, 1966
+
+Pub. L. 89–563
+
+80 Stat. 718
+
+Oct. 31, 1988
+
+Pub. L. 100–562, § 2(b)
+
+102 Stat. 2818
+
+30141(b)
+
+30141(c)
+
+30141(d)
+
+30141(e)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 960](https://www.govinfo.gov/link/statute/108/960); [Pub. L. 103–429, § 6(23)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4380](https://www.govinfo.gov/link/statute/108/4380).)*

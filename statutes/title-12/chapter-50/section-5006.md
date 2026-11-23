@@ -3,9 +3,10 @@ title: "Section 5006 - Expedited recredit for consumers"
 usc_title: 12
 usc_section: "5006"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5006"
-generated_at: "2026-03-30T02:53:53.521Z"
+generated_at: "2026-11-23T20:25:59.439Z"
+status: "active"
 ---
 
 # § 5006. Expedited recredit for consumers
@@ -74,3 +75,7 @@ generated_at: "2026-03-30T02:53:53.521Z"
 - **(g)** Providing a recredit in accordance with this section shall not absolve the bank from liability for a claim made under any other law, such as a claim for wrongful dishonor under the Uniform Commercial Code, or from liability for additional damages under section 5005 or 5009 of this title.
 - **(h)** A consumer who was provided a substitute check may make a claim for an expedited recredit under this section with regard to a transaction involving the substitute check whether or not the consumer is in possession of the substitute check.
 - **(i)** This section shall only apply to customers who are consumers.
+
+## Source Credit
+
+*([Pub. L. 108–100, § 7](https://www.govinfo.gov/link/plaw/108/public/100), Oct. 28, 2003, [117 Stat. 1182](https://www.govinfo.gov/link/statute/117/1182).)*

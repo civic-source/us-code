@@ -3,9 +3,10 @@ title: "Section 230313 - Termination of existence and distribution of assets"
 usc_title: 36
 usc_section: "230313"
 chapter: 2303
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 230313"
-generated_at: "2026-03-30T02:55:44.712Z"
+generated_at: "2026-11-23T20:26:59.106Z"
+status: "active"
 ---
 
 # § 230313. Termination of existence and distribution of assets
@@ -17,3 +18,26 @@ generated_at: "2026-03-30T02:55:44.712Z"
     - **(A)** the declared event has occurred; and
     - **(B)** a petition is filed with the court reciting the relevant facts.
   - **(3)** On proof of the facts, the court shall enter an order vesting title and ownership in accordance with the resolution of the national convention.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 230313 | 36:779. | July 18, 1958 , Pub. L. 85–530, § 19 , 72 Stat. 375 . |
+
+
+Authority To Make Contingent Provisions
+
+Procedure for Carrying Out Contingent Provisions
+
+Historical and Revision Notes
+
+230313
+
+July 18, 1958
+
+Pub. L. 85–530, § 19
+
+72 Stat. 375
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1485](https://www.govinfo.gov/link/statute/112/1485).)*

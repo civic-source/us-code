@@ -3,9 +3,10 @@ title: "Section 3132 - Alternatives to payment bonds provided by Federal Acquisi
 usc_title: 40
 usc_section: "3132"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 3132"
-generated_at: "2026-03-30T02:55:43.378Z"
+generated_at: "2026-11-23T20:26:56.579Z"
+status: "active"
 ---
 
 # § 3132. Alternatives to payment bonds provided by Federal Acquisition Regulation
@@ -14,3 +15,26 @@ generated_at: "2026-03-30T02:55:43.378Z"
 - **(b)** The contracting officer for a contract shall—
   - **(1)** select, from among the payment protections provided for in the Federal Acquisition Regulation pursuant to subsection (a), one or more payment protections which the offeror awarded the contract is to submit to the Federal Government for the protection of suppliers of labor and materials for the contract; and
   - **(2)** specify in the solicitation of offers for the contract the payment protections selected.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3132 | 40:270a note. | Pub. L. 103–355, title IV, § 4104(b)(2) , Oct. 13, 1994 , 108 Stat. 3342 . |
+
+
+In General
+
+Responsibilities of Contracting Officer
+
+Historical and Revision Notes
+
+3132
+
+Pub. L. 103–355, title IV, § 4104(b)(2)
+
+Oct. 13, 1994
+
+108 Stat. 3342
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1148](https://www.govinfo.gov/link/statute/116/1148).)*

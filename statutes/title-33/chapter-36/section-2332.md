@@ -3,9 +3,10 @@ title: "Section 2332 - Shoreline and riverine protection and restoration"
 usc_title: 33
 usc_section: "2332"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2332"
-generated_at: "2026-03-30T02:55:41.125Z"
+generated_at: "2026-11-23T20:26:54.189Z"
+status: "active"
 ---
 
 # § 2332. Shoreline and riverine protection and restoration
@@ -91,3 +92,7 @@ generated_at: "2026-03-30T02:55:41.125Z"
 - **(g)** In this section:
   - **(1)** The term “economically disadvantaged community” has the meaning given the term as defined by the Secretary under section 160 of the Water Resources Development Act of 2020 ( 33 U.S.C. 2201 note).
   - **(2)** The terms “natural feature” and “nature-based feature” have the meanings given those terms in section 2289a(a) of this title .
+
+## Source Credit
+
+*([Pub. L. 106–53, title II, § 212](https://www.govinfo.gov/link/plaw/106/public/53), Aug. 17, 1999, [113 Stat. 288](https://www.govinfo.gov/link/statute/113/288); [Pub. L. 106–541, title II, § 227](https://www.govinfo.gov/link/plaw/106/public/541), Dec. 11, 2000, [114 Stat. 2599](https://www.govinfo.gov/link/statute/114/2599); [Pub. L. 110–114, title V, § 5005](https://www.govinfo.gov/link/plaw/110/public/114), Nov. 8, 2007, [121 Stat. 1192](https://www.govinfo.gov/link/statute/121/1192); [Pub. L. 117–263, div. H, title LXXXI, § 8103(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3696](https://www.govinfo.gov/link/statute/136/3696); [Pub. L. 118–272, div. A, title I, § 1138](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3026](https://www.govinfo.gov/link/statute/138/3026).)*

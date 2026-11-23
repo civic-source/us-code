@@ -3,9 +3,10 @@ title: "Section 20106 - Compensation to victims of international terrorism"
 usc_title: 34
 usc_section: "20106"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 20106"
-generated_at: "2026-03-30T02:55:33.293Z"
+generated_at: "2026-11-23T20:26:50.577Z"
+status: "active"
 ---
 
 # § 20106. Compensation to victims of international terrorism
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:33.293Z"
     - **(D)** the average length of time to process an application for compensation; and
     - **(E)** the number of applications for compensation pending and the estimated future liability of the program; and
   - **(4)** an analysis of future program needs and suggested program improvements.
+
+## Source Credit
+
+*([Pub. L. 98–473, title II, § 1404C](https://www.govinfo.gov/link/plaw/98/public/473), as added [Pub. L. 106–386, div. C, § 2003(c)(1)](https://www.govinfo.gov/link/plaw/106/public/386), Oct. 28, 2000, [114 Stat. 1544](https://www.govinfo.gov/link/statute/114/1544); amended [Pub. L. 107–56, title VI, § 624(c)](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 373](https://www.govinfo.gov/link/statute/115/373); [Pub. L. 110–181, div. A, title X, § 1083(b)(4)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 342](https://www.govinfo.gov/link/statute/122/342).)*

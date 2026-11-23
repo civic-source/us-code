@@ -3,9 +3,10 @@ title: "Section 105 - Subject matter of copyright: United States Government work
 usc_title: 17
 usc_section: "105"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 105"
-generated_at: "2026-03-30T02:54:15.344Z"
+generated_at: "2026-11-23T20:26:06.477Z"
+status: "active"
 ---
 
 # § 105. Subject matter of copyright: United States Government works
@@ -36,3 +37,29 @@ generated_at: "2026-03-30T02:54:15.344Z"
     - **(N)** National Intelligence University.
     - **(O)** United States Merchant Marine Academy.
   - **(3)** The term “covered work” means a literary work produced by a covered author in the course of employment at a covered institution for publication by a scholarly press or journal.
+
+In General
+
+Copyright Protection of Certain Works
+
+Use by Federal Government.—
+
+Secretary of defense authority
+
+Secretary of the department in which the coast guard is operating when it is not operating as a service in the navy authority
+
+Director of national intelligence authority
+
+Secretary of transportation authority
+
+Definitions
+
+Covered author
+
+Covered institution
+
+Covered work
+
+## Source Credit
+
+*([Pub. L. 94–553, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/553), Oct. 19, 1976, [90 Stat. 2546](https://www.govinfo.gov/link/statute/90/2546); [Pub. L. 116–92, div. A, title V, § 544](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1376](https://www.govinfo.gov/link/statute/133/1376); [Pub. L. 117–263, div. C, title XXXV, § 3514](https://www.govinfo.gov/link/plaw/117/public/263), div. F, title LXIII, § 6306, Dec. 23, 2022, [136 Stat. 3068](https://www.govinfo.gov/link/statute/136/3068), 3504; [Pub. L. 118–159, div. F, title LXIX, § 6902(e)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2518](https://www.govinfo.gov/link/statute/138/2518); [Pub. L. 119–60, div. A, title XVII, § 1702](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1210](https://www.govinfo.gov/link/statute/139/1210).)*

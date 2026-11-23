@@ -3,9 +3,10 @@ title: "Section 40501 - General rate and tariff requirements"
 usc_title: 46
 usc_section: "40501"
 chapter: 405
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 40501"
-generated_at: "2026-03-30T02:56:15.564Z"
+generated_at: "2026-11-23T20:27:27.228Z"
+status: "active"
 ---
 
 # § 40501. General rate and tariff requirements
@@ -30,3 +31,74 @@ generated_at: "2026-03-30T02:56:15.564Z"
   - **(1)** The Commission shall by regulation prescribe the requirements for the accessibility and accuracy of automated tariff systems established under this section. The Commission, after periodic review, may prohibit the use of any automated tariff system that fails to meet the requirements established under this section.
   - **(2)** The Commission may not require a common carrier to provide a remote terminal for electronic access under subsection (c).
   - **(3)** The Commission shall by regulation prescribe the form and manner in which marine terminal operator schedules authorized by this section shall be published.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 40501(a) | 46 App.:1707(a)(1) (1st, 2d sentences). | Pub. L. 98–237, § 8(a) , (b), (d), (f), (g), Mar. 20, 1984 , 98 Stat. 74 ; Pub. L. 105–258, title I, § 106(a) , (c), (e), (f), Oct. 14, 1998 , 112 Stat. 1905 , 1907. |
+| 40501(b) | 46 App.:1707(a)(1) (last sentence). |  |
+| 40501(c) | 46 App.:1707(a)(2). |  |
+| 40501(d) | 46 App.:1707(b). |  |
+| 40501(e) | 46 App.:1707(d). |  |
+| 40501(f) | 46 App.:1707(f). |  |
+| 40501(g) | 46 App.:1707(g). |  |
+
+
+Automated Tariff System
+
+In general
+
+Exceptions
+
+Contents of Tariffs
+
+Electronic Access
+
+Time-Volume Rates
+
+Effective Dates
+
+Increases
+
+Decreases
+
+Marine Terminal Operator Schedules
+
+Regulations
+
+In general
+
+Remote terminals
+
+Marine terminal operator schedules
+
+Historical and Revision Notes
+
+40501(a)
+
+Pub. L. 98–237, § 8(a)
+
+Mar. 20, 1984
+
+98 Stat. 74
+
+Pub. L. 105–258, title I, § 106(a)
+
+Oct. 14, 1998
+
+112 Stat. 1905
+
+40501(b)
+
+40501(c)
+
+40501(d)
+
+40501(e)
+
+40501(f)
+
+40501(g)
+
+## Source Credit
+
+*([Pub. L. 109–304, § 7](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1532](https://www.govinfo.gov/link/statute/120/1532).)*

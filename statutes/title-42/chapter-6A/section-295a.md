@@ -3,9 +3,10 @@ title: "Section 295a - Public health training centers"
 usc_title: 42
 usc_section: "295a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 295a"
-generated_at: "2026-03-30T02:56:10.780Z"
+generated_at: "2026-11-23T20:27:20.395Z"
+status: "active"
 ---
 
 # § 295a. Public health training centers
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:10.780Z"
   - **(2)** will involve faculty members and students in collaborative projects to enhance public health services to medically underserved communities;
   - **(3)** will specifically designate a geographic area or medically underserved population to be served by the center that shall be in a location removed from the main location of the teaching facility of the school that is participating in the program with such center; and
   - **(4)** will assess the health personnel needs of the area to be served by the center and assist in the planning and development of training programs to meet such needs.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 766, as added [Pub. L. 105–392, title I, § 105](https://www.govinfo.gov/link/plaw/105/public/392), Nov. 13, 1998, [112 Stat. 3554](https://www.govinfo.gov/link/statute/112/3554); amended [Pub. L. 116–136, div. A, title III, § 3401(11)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 387](https://www.govinfo.gov/link/statute/134/387).)*

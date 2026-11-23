@@ -3,9 +3,10 @@ title: "Section 20203 - Purposes"
 usc_title: 36
 usc_section: "20203"
 chapter: 202
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 20203"
-generated_at: "2026-03-30T02:55:44.691Z"
+generated_at: "2026-11-23T20:26:58.788Z"
+status: "active"
 ---
 
 # § 20203. Purposes
@@ -22,3 +23,29 @@ generated_at: "2026-03-30T02:55:44.691Z"
   - **(9)** fostering among the members of the corporation a devotion to fellow airmen; and
   - **(10)** serving the United States and the United States Air Force loyally, and doing all else necessary to uphold and defend the Constitution of the United States.
 - **(b)** The corporation shall function as an educational, patriotic, civic, historical, and research organization under the laws of the District of Columbia.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 20203(a) | 36 App.:5803. | Nov. 18, 1997 , Pub. L. 105–85, title XV , §§ 1503, 1508(f), 111 Stat. 1963 , 1965. |
+| 20203(b) | 36 App.:5808(f). |  |
+
+
+General
+
+Corporate Function
+
+Historical and Revision Notes
+
+20203(a)
+
+Nov. 18, 1997
+
+Pub. L. 105–85, title XV
+
+111 Stat. 1963
+
+20203(b)
+
+## Source Credit
+
+*(Added [Pub. L. 105–354, § 1(4)(A)](https://www.govinfo.gov/link/plaw/105/public/354), Nov. 3, 1998, [112 Stat. 3240](https://www.govinfo.gov/link/statute/112/3240).)*

@@ -3,9 +3,10 @@ title: "Section 5550 - Border patrol rate of pay"
 usc_title: 5
 usc_section: "5550"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 5550"
-generated_at: "2026-03-30T02:52:56.021Z"
+generated_at: "2026-11-23T20:25:31.947Z"
+status: "active"
 ---
 
 # § 5550. Border patrol rate of pay
@@ -121,3 +122,89 @@ generated_at: "2026-03-30T02:52:56.021Z"
     - **(A)** is not considered basic pay for retirement under section 8331(3) or 8401(4) or for any other purpose;
     - **(B)** is not payable during periods of paid leave or other paid time off; and
     - **(C)** is not considered in computing an agent’s lump-sum annual leave payment under sections 5551 and 5552.
+
+Definitions
+
+Receipt of Border Patrol Rate of Pay.—
+
+Voluntary election.—
+
+In general
+
+Regulations
+
+Information regarding election
+
+Assignment in lieu of election
+
+Flexibility.—
+
+In general
+
+Waiver
+
+Certain locations
+
+Canine care
+
+Pay assignment continuity.—
+
+In general
+
+Implementation
+
+Reporting
+
+GAO review
+
+Definition
+
+Rule of construction
+
+Level 1 border patrol rate of pay
+
+Level 2 border patrol rate of pay
+
+Basic border patrol rate of pay
+
+Eligibility for Other Premium Pay
+
+Treatment as Basic Pay
+
+Travel Time
+
+Leave Without Pay and Substitution of Hours.—
+
+Regular time.—
+
+In general
+
+Priority for same day work
+
+Priority for regular time substitution
+
+Overtime work.—
+
+In general
+
+Priority for same day work
+
+Application of compensatory time
+
+Insufficient hours
+
+Authority To Require Overtime Work
+
+Special Overtime Pay for GS–
+
+Border Patrol Agents.—
+
+In general
+
+Computation
+
+Limitations
+
+## Source Credit
+
+*([Pub. L. 113–277, § 2(b)](https://www.govinfo.gov/link/plaw/113/public/277), Dec. 18, 2014, [128 Stat. 2995](https://www.govinfo.gov/link/statute/128/2995); [Pub. L. 118–31, div. E, title LII, § 5201](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 939](https://www.govinfo.gov/link/statute/137/939).)*

@@ -3,9 +3,10 @@ title: "Section 24305 - General authority"
 usc_title: 49
 usc_section: "24305"
 chapter: 243
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 24305"
-generated_at: "2026-03-30T02:56:19.344Z"
+generated_at: "2026-11-23T20:27:34.848Z"
+status: "active"
 ---
 
 # § 24305. General authority
@@ -50,3 +51,281 @@ generated_at: "2026-03-30T02:56:19.344Z"
       - **(ii)** the cost of imposing those requirements is unreasonable; or
       - **(iii)** the articles, material, or supplies, or the articles, material, or supplies from which they are manufactured, are not mined, produced, or manufactured in the United States in sufficient and reasonably available commercial quantities and are not of a satisfactory quality; or
     - **(B)** rolling stock or power train equipment cannot be bought and delivered in the United States within a reasonable time.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 24305(a)(1) | 45:545(a) (1st sentence 1st–32d words, words after last semicolon). | Oct. 30, 1970 , Pub. L. 91–518, § 305(a) (1st, 2d sentences), 84 Stat. 1332 ; June 22, 1972 , Pub. L. 92–316, § 2(1) , (2), 86 Stat. 228 ; Nov. 3, 1973 , Pub. L. 93–146, § 4 , 87 Stat. 549 ; Aug. 13, 1981 , Pub. L. 97–35, § 1188(b) , 95 Stat. 699 . |
+|  | 45:545(b) (4th sentence). | Oct. 30, 1970 , Pub. L. 91–518 , 84 Stat. 1327 , § 305(b) (4th sentence); added June 22, 1972 , Pub. L. 92–316, § 2(3) , 86 Stat. 228 ; Nov. 3, 1973 , Pub. L. 93–146, § 5 , 87 Stat. 550 . |
+|  | 45:545(e)(5). | Oct. 30, 1970 , Pub. L. 91–518 , 84 Stat. 1327 , § 305(e)(1)–(6); added Nov. 3, 1973 , Pub. L. 93–146, § 6 , 87 Stat. 551 . |
+| 24305(a)(2) | 45:545(a) (2d sentence). |  |
+| 24305(b) | 45:545(e)(2). |  |
+|  | 45:545(g). | Oct. 30, 1970 , Pub. L. 91–518 , 84 Stat. 1327 , § 305(g); added Oct. 28, 1974 , Pub. L. 93–496, § 3 , 88 Stat. 1527 ; restated Sept. 29, 1979 , Pub. L. 96–73 , §§ 106, 107, 93 Stat. 539 , 540. |
+| 24305(c)(1) | 45:851(a)(2). | Feb. 5, 1976 , Pub. L. 94–210, § 701(a)(2) , 90 Stat. 119 . |
+| 24305(c)(2) | 45:545(a) (1st sentence 33d word–1st semicolon). |  |
+|  | 45:545a. | Oct. 5, 1978 , Pub. L. 95–421, § 19 , 92 Stat. 930 . |
+| 24305(c)(3) | 45:545(e)(1). |  |
+| 24305(c)(4) | 45:545(n). | Oct. 30, 1970 , Pub. L. 91–518 , 84 Stat. 1327 , § 305(n); added Aug. 13, 1981 , Pub. L. 97–35, § 1177(a) , 95 Stat. 692 . |
+| 24305(c)(5) | 45:545(a) (1st sentence words between 1st and last semicolons), (e)(3). |  |
+| 24305(c)(6) | 45:545(e)(4), (6). |  |
+| 24305(d) | 45:546(j). | Oct. 30, 1970 , Pub. L. 91–518 , 84 Stat. 1327 , § 306(j); added Oct. 19, 1976 , Pub. L. 94–555, § 106 , 90 Stat. 2615 ; Sept. 29, 1979 , Pub. L. 96–73, § 112(b) , 93 Stat. 541 . |
+| 24305(e) | 45:545(j). | Oct. 30, 1970 , Pub. L. 91–518 , 84 Stat. 1327 , § 305(j); added Oct. 19, 1976 , Pub. L. 94–555, § 104 , 90 Stat. 2615 ; Sept. 29, 1979 , Pub. L 96–73, §§ 106, 108, 93 Stat. 539 , 540. |
+| 24305(f) | 45:545(k). | Oct. 30, 1970 , Pub. L. 91–518 , 84 Stat. 1327 , § 305(k); added Oct. 5, 1978 , Pub. L. 95–421, § 10 , 92 Stat. 928 ; Sept. 29, 1979 , Pub. L. 96–73 , §§ 106, 109, 93 Stat. 539 , 540. |
+
+
+Acquisition and Operation of Equipment and Facilities
+
+Maintenance and Rehabilitation
+
+Miscellaneous Authority
+
+Through Routes and Joint Fares
+
+Rail Police
+
+Domestic Buying Preferences
+
+Historical and Revision Notes
+
+24305(a)(1)
+
+Oct. 30, 1970
+
+Pub. L. 91–518, § 305(a)
+
+84 Stat. 1332
+
+June 22, 1972
+
+Pub. L. 92–316, § 2(1)
+
+86 Stat. 228
+
+Nov. 3, 1973
+
+Pub. L. 93–146, § 4
+
+87 Stat. 549
+
+Aug. 13, 1981
+
+Pub. L. 97–35, § 1188(b)
+
+95 Stat. 699
+
+Oct. 30, 1970
+
+Pub. L. 91–518
+
+84 Stat. 1327
+
+June 22, 1972
+
+Pub. L. 92–316, § 2(3)
+
+86 Stat. 228
+
+Nov. 3, 1973
+
+Pub. L. 93–146, § 5
+
+87 Stat. 550
+
+Oct. 30, 1970
+
+Pub. L. 91–518
+
+84 Stat. 1327
+
+Nov. 3, 1973
+
+Pub. L. 93–146, § 6
+
+87 Stat. 551
+
+24305(a)(2)
+
+24305(b)
+
+Oct. 30, 1970
+
+Pub. L. 91–518
+
+84 Stat. 1327
+
+Oct. 28, 1974
+
+Pub. L. 93–496, § 3
+
+88 Stat. 1527
+
+Sept. 29, 1979
+
+Pub. L. 96–73
+
+93 Stat. 539
+
+24305(c)(1)
+
+Feb. 5, 1976
+
+Pub. L. 94–210, § 701(a)(2)
+
+90 Stat. 119
+
+24305(c)(2)
+
+Oct. 5, 1978
+
+Pub. L. 95–421, § 19
+
+92 Stat. 930
+
+24305(c)(3)
+
+24305(c)(4)
+
+Oct. 30, 1970
+
+Pub. L. 91–518
+
+84 Stat. 1327
+
+Aug. 13, 1981
+
+Pub. L. 97–35, § 1177(a)
+
+95 Stat. 692
+
+24305(c)(5)
+
+24305(c)(6)
+
+24305(d)
+
+Oct. 30, 1970
+
+Pub. L. 91–518
+
+84 Stat. 1327
+
+Oct. 19, 1976
+
+Pub. L. 94–555, § 106
+
+90 Stat. 2615
+
+Sept. 29, 1979
+
+Pub. L. 96–73, § 112(b)
+
+93 Stat. 541
+
+24305(e)
+
+Oct. 30, 1970
+
+Pub. L. 91–518
+
+84 Stat. 1327
+
+Oct. 19, 1976
+
+Pub. L. 94–555, § 104
+
+90 Stat. 2615
+
+Sept. 29, 1979
+
+93 Stat. 539
+
+24305(f)
+
+Oct. 30, 1970
+
+Pub. L. 91–518
+
+84 Stat. 1327
+
+Oct. 5, 1978
+
+Pub. L. 95–421, § 10
+
+92 Stat. 928
+
+Sept. 29, 1979
+
+Pub. L. 96–73
+
+93 Stat. 539
+
+In General
+
+Program Design
+
+Program Administration
+
+Report
+
+Rule of Construction
+
+In General
+
+Pet Policy
+
+Report
+
+Limitation on Statutory Construction.—
+
+Service animals
+
+Additional train cars
+
+Federal funds
+
+Request for Proposals.—
+
+In general
+
+Contents
+
+Deadline
+
+Consideration of Proposals
+
+Report
+
+Savings Clause
+
+Report on Development Options
+
+Request for Information
+
+Proposals.—
+
+Request for proposals
+
+Consideration of proposals
+
+Report
+
+Definitions
+
+Savings Clause
+
+Amtrak Security Evaluation
+
+Developement and Implementation of Guidance and Procedures.—
+
+In General
+
+Scope
+
+Definitions.—
+
+In General
+
+Review
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 909](https://www.govinfo.gov/link/statute/108/909); [Pub. L. 105–134, title I, § 107](https://www.govinfo.gov/link/plaw/105/public/134), Dec. 2, 1997, [111 Stat. 2573](https://www.govinfo.gov/link/statute/111/2573); [Pub. L. 114–94, div. A, title XI, § 11412(c)(1)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1688](https://www.govinfo.gov/link/statute/129/1688); [Pub. L. 117–58, div. B, title II, § 22208(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 706](https://www.govinfo.gov/link/statute/135/706).)*

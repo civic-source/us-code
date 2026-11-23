@@ -3,9 +3,10 @@ title: "Section 952 - Training and education"
 usc_title: 30
 usc_section: "952"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 952"
-generated_at: "2026-03-30T02:55:29.394Z"
+generated_at: "2026-11-23T20:26:34.979Z"
+status: "active"
 ---
 
 # § 952. Training and education
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:29.394Z"
   - **(1)** The National Mine Health and Safety Academy shall be maintained as an agency of the Department of Labor. The Academy shall be responsible for the training of mine safety and health inspectors under section 954 of this title , and in training of technical support personnel of the Mine Safety and Health Administration established under section 557a of title 29 ; and for any other training programs for mine inspectors, mining personnel, or other persons as the Secretary of Labor shall designate. In performing this function, the Academy shall have the authority to enter into cooperative educational and training agreements with educational institutions, State governments, labor organizations, and mine operators and related industries. Such training shall be conducted by the Academy in accordance with curriculum needs and assignment of instructional personnel established by the user.
   - **(2)** Repealed. Pub. L. 96–38, title I, § 100 , July 25, 1979 , 93 Stat. 111 .
   - **(3)** The Secretary of the Interior shall conduct his safety research responsibilities under section 951 of this title in coordination with the Secretary of Labor, and the Secretaries of Labor and the Interior are authorized to enter into contractual or other agreements for the performance of such safety related research.
+
+## Source Credit
+
+*([Pub. L. 91–173, title V, § 502](https://www.govinfo.gov/link/plaw/91/public/173), Dec. 30, 1969, [83 Stat. 800](https://www.govinfo.gov/link/statute/83/800); [Pub. L. 95–164, title III, § 303(b)](https://www.govinfo.gov/link/plaw/95/public/164), (h), Nov. 9, 1977, [91 Stat. 1320](https://www.govinfo.gov/link/statute/91/1320), 1321; [Pub. L. 96–38, title I, § 100](https://www.govinfo.gov/link/plaw/96/public/38), July 25, 1979, [93 Stat. 111](https://www.govinfo.gov/link/statute/93/111).)*

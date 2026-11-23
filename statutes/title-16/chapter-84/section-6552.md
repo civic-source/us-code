@@ -3,9 +3,10 @@ title: "Section 6552 - Definitions"
 usc_title: 16
 usc_section: "6552"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6552"
-generated_at: "2026-03-30T02:54:23.061Z"
+generated_at: "2026-11-23T20:26:20.803Z"
+status: "active"
 ---
 
 # § 6552. Definitions
@@ -31,3 +32,7 @@ In this subchapter:
   - **(4)** The term “Secretary” means—
     - **(A)** the Secretary of Agriculture, acting through the Forest Service, with respect to National Forest System land; and
     - **(B)** the Secretary of the Interior, acting through appropriate offices of the United States Geological Survey, with respect to federally owned land administered by the Secretary of the Interior.
+
+## Source Credit
+
+*([Pub. L. 108–148, title IV, § 402](https://www.govinfo.gov/link/plaw/108/public/148), Dec. 3, 2003, [117 Stat. 1908](https://www.govinfo.gov/link/statute/117/1908).)*

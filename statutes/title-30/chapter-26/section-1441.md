@@ -3,9 +3,10 @@ title: "Section 1441 - Declaration of Congressional intent"
 usc_title: 30
 usc_section: "1441"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1441"
-generated_at: "2026-03-30T02:55:29.405Z"
+generated_at: "2026-11-23T20:26:35.045Z"
+status: "active"
 ---
 
 # § 1441. Declaration of Congressional intent
@@ -19,3 +20,7 @@ It is the intent of Congress—
   - **(3)** that this chapter should be transitional pending—
     - **(A)** the adoption of an international agreement at the Third United Nations Conference on the Law of the Sea, and the entering into force of such agreement, or portions thereof, with respect to the United States, or
     - **(B)** if such adoption is not forthcoming, the negotiation of a multilateral or other treaty concerning the deep seabed, and the entering into force of such treaty with respect to the United States.
+
+## Source Credit
+
+*([Pub. L. 96–283, title II, § 201](https://www.govinfo.gov/link/plaw/96/public/283), June 28, 1980, [94 Stat. 575](https://www.govinfo.gov/link/statute/94/575).)*

@@ -3,9 +3,10 @@ title: "Section 1911 - Compensatory adjustments"
 usc_title: 48
 usc_section: "1911"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1911"
-generated_at: "2026-03-30T02:56:14.595Z"
+generated_at: "2026-11-23T20:27:28.096Z"
+status: "active"
 ---
 
 # § 1911. Compensatory adjustments
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:14.595Z"
   - **(2)** The amounts specified in this subsection shall be in addition to the sums and amounts specified in Articles I and III of Title Two of the Compact, and shall be deemed to be included in the sums and amounts referred to in section 236 of the Compact.
 - **(c)** To provide policy guidance for the Funds established by subsection (b) of this section, the President is hereby authorized to establish a Board of Advisors, pursuant to appropriate agreements between the United States and the Federated States of Micronesia and the Marshall Islands.
 - **(d)** The governments of the Federated States of Micronesia and the Marshall Islands may submit to Congress reports concerning the overall financial and economic impacts on such areas resulting from the effect of Title IV of this joint resolution upon Title Two of the Compact. There are hereby authorized to be appropriated for fiscal years beginning after September 30, 1990 , such amounts as may be necessary, but not to exceed $40 million for the Federated States of Micronesia and $20 million for the Marshall Islands, as provided in appropriation acts, to further compensate the governments of such islands (in addition to the compensation provided in subsections (a) and (b) of this section) for adverse impacts, if any, on the finances and economies of such areas resulting from the effect of Title IV of this joint resolution upon Title Two of the Compact. At the end of the initial fifteen-year term of the Compact, should any portion of the total amount of funds authorized in this subsection not have been appropriated, such amount not yet appropriated may be appropriated, without regard to divisions between amounts authorized in this subsection for the Federated States of Micronesia and for the Marshall Islands, based on either or both such government’s showing of such adverse impact, if any, as provided in this subsection.
+
+## Source Credit
+
+*([Pub. L. 99–239, title I, § 111](https://www.govinfo.gov/link/plaw/99/public/239), Jan. 14, 1986, [99 Stat. 1799](https://www.govinfo.gov/link/statute/99/1799).)*

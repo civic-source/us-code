@@ -3,9 +3,10 @@ title: "Section 7306 - General requirements and classifications for members of d
 usc_title: 46
 usc_section: "7306"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 7306"
-generated_at: "2026-03-30T02:56:15.550Z"
+generated_at: "2026-11-23T20:27:27.113Z"
+status: "active"
 ---
 
 # § 7306. General requirements and classifications for members of deck departments
@@ -28,3 +29,24 @@ generated_at: "2026-03-30T02:56:15.550Z"
   - **(3)** is qualified professionally as demonstrated by an applicable examination or educational requirements;
   - **(4)** is qualified as to sight, hearing, and physical condition to perform the seafarer’s duties; and
   - **(5)** has satisfied any additional requirements established by the Secretary, including career patterns and service appropriate to the particular service, industry, or job functions the individual is engaged.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 7306 | 46:672(b) |
+
+
+In General
+
+Classification of Credentials
+
+Qualifications
+
+Historical and Revision Notes
+
+7306
+
+“For the purposes of chapter 73 of title 46, United States Code, the Secretary of Transportation shall accept the service used by an individual to qualify for an endorsement as able seaman—fishing industry as qualifying service toward an endorsement as an able seaman—
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 542](https://www.govinfo.gov/link/statute/97/542); [Pub. L. 98–364, title IV, § 402(9)(C)](https://www.govinfo.gov/link/plaw/98/public/364), July 17, 1984, [98 Stat. 448](https://www.govinfo.gov/link/statute/98/448); [Pub. L. 119–60, div. G, title LXXIII, § 7301(d)(1)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1753](https://www.govinfo.gov/link/statute/139/1753).)*

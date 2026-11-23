@@ -3,9 +3,10 @@ title: "Section 6574 - Senate Office of Public Records Revolving Fund"
 usc_title: 2
 usc_section: "6574"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 6574"
-generated_at: "2026-03-30T02:53:04.842Z"
+generated_at: "2026-11-23T20:25:29.078Z"
+status: "active"
 ---
 
 # § 6574. Senate Office of Public Records Revolving Fund
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:04.842Z"
 - **(c)** Disbursements from the revolving fund shall be made upon vouchers approved by the Secretary of the Senate.
 - **(d)** The Secretary of the Senate is authorized to prescribe such regulations as may be necessary to carry out the provisions of this section.
 - **(e)** To provide capital for the revolving fund, the Secretary of the Senate is authorized to transfer, from moneys appropriated for fiscal year 1990 to the account “Miscellaneous Items” in the contingent fund of the Senate, to the revolving fund such sum as he may determine necessary, not to exceed $30,000.
+
+## Source Credit
+
+*([Pub. L. 101–163, title I, § 13](https://www.govinfo.gov/link/plaw/101/public/163), Nov. 21, 1989, [103 Stat. 1047](https://www.govinfo.gov/link/statute/103/1047).)*

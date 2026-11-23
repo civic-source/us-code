@@ -3,9 +3,10 @@ title: "Section 2703 - Definitions"
 usc_title: 29
 usc_section: "2703"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 2703"
-generated_at: "2026-03-30T02:55:18.746Z"
+generated_at: "2026-11-23T20:26:38.073Z"
+status: "active"
 ---
 
 # § 2703. Definitions
@@ -20,3 +21,7 @@ As used in this chapter:
   - **(4)** The term “nonprofit organization” means a tax-exempt organization, as described in paragraph (3), (4), or (5) of section 501(c) of title 26 .
   - **(5)** The term “Secretary” means the Secretary of Labor.
   - **(6)** The term “worker organization” means a labor organization within the meaning of section 501(c)(5) of title 26 .
+
+## Source Credit
+
+*([Pub. L. 103–382, title V, § 544](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 4053](https://www.govinfo.gov/link/statute/108/4053).)*

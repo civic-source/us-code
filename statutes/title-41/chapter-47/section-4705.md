@@ -3,9 +3,10 @@ title: "Section 4705 - Protection of contractor employees from reprisal for disc
 usc_title: 41
 usc_section: "4705"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 4705"
-generated_at: "2026-03-30T02:55:55.808Z"
+generated_at: "2026-11-23T20:27:04.458Z"
+status: "active"
 ---
 
 # § 4705. Protection of contractor employees from reprisal for disclosure of certain information
@@ -27,3 +28,72 @@ generated_at: "2026-03-30T02:55:55.808Z"
   - **(1)** authorize the discharge of, demotion of, or discrimination against an employee for a disclosure other than a disclosure protected by subsection (b); or
   - **(2)** modify or derogate from a right or remedy otherwise available to the employee.
 - **(f)** While section 4712 1 1 See References in Text note below. of this title is in effect, this section shall not be in effect.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 4705(a) | 41:265(e). | June 30, 1949, ch. 288 , title III, § 315, as added Pub. L. 103–355, title VI, § 6006 , Oct. 13, 1994 , 108 Stat. 3365 ; Pub. L. 104–106, title XLIII, § 4321(e)(8) , Feb. 10, 1996 , 110 Stat. 675 . |
+| 4705(b) | 41:265(a). |  |
+| 4705(c) | 41:265(b). |  |
+| 4705(d) | 41:265(c). |  |
+| 4705(e) | 41:265(d). |  |
+
+
+Definitions
+
+Contract
+
+Contractor
+
+Inspector general
+
+Prohibition of Reprisals
+
+Investigation of Complaints
+
+Remedy and Enforcement Authority.—
+
+Actions contractor may be ordered to take
+
+Abatement
+
+Reinstatement
+
+Payment
+
+Enforcement order
+
+Review of enforcement order
+
+Scope of Section
+
+Four-year Suspension of Effectiveness While Pilot Program Is in Effect
+
+Historical and Revision Notes
+
+4705(a)
+
+June 30, 1949, ch. 288
+
+Pub. L. 103–355, title VI, § 6006
+
+Oct. 13, 1994
+
+108 Stat. 3365
+
+Pub. L. 104–106, title XLIII, § 4321(e)(8)
+
+Feb. 10, 1996
+
+110 Stat. 675
+
+4705(b)
+
+4705(c)
+
+4705(d)
+
+4705(e)
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3796](https://www.govinfo.gov/link/statute/124/3796); [Pub. L. 112–239, div. A, title VIII, § 828(c)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1841](https://www.govinfo.gov/link/statute/126/1841); [Pub. L. 117–286, § 4(b)(72)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4351](https://www.govinfo.gov/link/statute/136/4351).)*

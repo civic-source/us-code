@@ -3,9 +3,10 @@ title: "Section 1563 - Definitions and special rules"
 usc_title: 26
 usc_section: "1563"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1563"
-generated_at: "2026-03-30T02:55:27.778Z"
+generated_at: "2026-11-23T20:26:46.139Z"
+status: "active"
 ---
 
 # § 1563. Definitions and special rules
@@ -97,3 +98,7 @@ generated_at: "2026-03-30T02:55:27.778Z"
     - **“(A)** at least 80 percent of the total combined voting power of all classes of stock entitled to vote, or at least 80 percent of the total value of shares of all classes of stock, of each corporation, and
     - **“(B)** more than 50 percent of the total combined voting power of all classes of stock entitled to vote or more than 50 percent of the total value of shares of all classes of stock of each corporation, taking into account the stock ownership of each such person only to the extent such stock ownership is identical with respect to each such corporation.”
     - **(B)** For purposes of this paragraph, an applicable provision is any provision of law (other than this part) which incorporates the definition of controlled group of corporations under subsection (a).
+
+## Source Credit
+
+*(Added [Pub. L. 88–272, title II, § 235(a)](https://www.govinfo.gov/link/plaw/88/public/272), Feb. 26, 1964, [78 Stat. 120](https://www.govinfo.gov/link/statute/78/120); amended [Pub. L. 91–172, title IV, § 401(c)](https://www.govinfo.gov/link/plaw/91/public/172), (d), Dec. 30, 1969, [83 Stat. 602](https://www.govinfo.gov/link/statute/83/602); [Pub. L. 91–373, title I, § 102(b)](https://www.govinfo.gov/link/plaw/91/public/373), Aug. 10, 1970, [84 Stat. 696](https://www.govinfo.gov/link/statute/84/696); [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 98–369, div. A, title II, § 211(b)(22)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 757](https://www.govinfo.gov/link/statute/98/757); [Pub. L. 99–514, title X, § 1024(c)(17)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2408](https://www.govinfo.gov/link/statute/100/2408); [Pub. L. 100–647, title I, § 1018(s)(3)(A)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3587](https://www.govinfo.gov/link/statute/102/3587); [Pub. L. 108–357, title VIII, § 900(a)](https://www.govinfo.gov/link/plaw/108/public/357), (b), Oct. 22, 2004, [118 Stat. 1650](https://www.govinfo.gov/link/statute/118/1650).)*

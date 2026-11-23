@@ -3,9 +3,10 @@ title: "Section 18024 - Related definitions"
 usc_title: 42
 usc_section: "18024"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18024"
-generated_at: "2026-03-30T02:56:11.512Z"
+generated_at: "2026-11-23T20:27:23.775Z"
+status: "active"
 ---
 
 # § 18024. Related definitions
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:11.512Z"
 - **(c)** In this title, 1 the term “Secretary” means the Secretary of Health and Human Services.
 - **(d)** In this title, 1 the term “State” means each of the 50 States and the District of Columbia.
 - **(e)** The term “educated health care consumer” means an individual who is knowledgeable about the health care system, and has background or experience in making informed decisions regarding health, medical, and scientific matters.
+
+## Source Credit
+
+*([Pub. L. 111–148, title I, § 1304](https://www.govinfo.gov/link/plaw/111/public/148), title X, § 10104(d), Mar. 23, 2010, [124 Stat. 171](https://www.govinfo.gov/link/statute/124/171), 900; [Pub. L. 114–60, § 2(a)](https://www.govinfo.gov/link/plaw/114/public/60), Oct. 7, 2015, [129 Stat. 543](https://www.govinfo.gov/link/statute/129/543).)*

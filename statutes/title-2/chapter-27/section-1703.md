@@ -3,9 +3,10 @@ title: "Section 1703 - Seal of the National Recording Registry"
 usc_title: 2
 usc_section: "1703"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1703"
-generated_at: "2026-03-30T02:53:04.816Z"
+generated_at: "2026-11-23T20:25:28.981Z"
+status: "active"
 ---
 
 # § 1703. Seal of the National Recording Registry
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:04.816Z"
     - **(A)** Except as provided in subparagraph (B), relief for violation of subsection (d) shall be limited to the removal of the seal from the sound recording involved in the violation.
     - **(B)** In the case of a pattern or practice of the willful violation of subsection (d), the court may order a civil fine of not more than $10,000 and appropriate injunctive relief.
   - **(3)** The remedies provided in this subsection shall be the exclusive remedies under this chapter, or any other Federal or State law, regarding the use of the seal described in subsection (a).
+
+## Source Credit
+
+*([Pub. L. 106–474, title I, § 103](https://www.govinfo.gov/link/plaw/106/public/474), Nov. 9, 2000, [114 Stat. 2086](https://www.govinfo.gov/link/statute/114/2086).)*

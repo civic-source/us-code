@@ -3,9 +3,10 @@ title: "Section 5507 - Inquiry, investigations, and qualification of fiduciaries
 usc_title: 38
 usc_section: "5507"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 5507"
-generated_at: "2026-03-30T02:55:53.521Z"
+generated_at: "2026-11-23T20:27:01.966Z"
+status: "active"
 ---
 
 # § 5507. Inquiry, investigations, and qualification of fiduciaries
@@ -26,3 +27,9 @@ generated_at: "2026-03-30T02:55:53.521Z"
     - **(C)** a person who has been appointed a fiduciary of the beneficiary by a court of competent jurisdiction; or
     - **(D)** being appointed to manage an estate where the annual amount of veterans benefits to be managed by the proposed fiduciary does not exceed $3,600, as adjusted pursuant to section 5312 of this title .
 - **(d)** When in the opinion of the Secretary, a temporary fiduciary is needed in order to protect the assets of the beneficiary while a determination of incompetency is being made or appealed or a fiduciary is appealing a determination of misuse, the Secretary may appoint one or more temporary fiduciaries for a period not to exceed 120 days. If a final decision has not been made within 120 days, the Secretary may not continue the appointment of the fiduciary without obtaining a court order for appointment of a guardian, conservator, or other fiduciary under the authority provided in section 5502(b) of this title .
+
+Temporary Fiduciaries
+
+## Source Credit
+
+*(Added [Pub. L. 108–454, title V, § 502(a)](https://www.govinfo.gov/link/plaw/108/public/454), Dec. 10, 2004, [118 Stat. 3618](https://www.govinfo.gov/link/statute/118/3618).)*

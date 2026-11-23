@@ -3,9 +3,10 @@ title: "Section 243 - Dividends received by corporations"
 usc_title: 26
 usc_section: "243"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 243"
-generated_at: "2026-03-30T02:55:27.656Z"
+generated_at: "2026-11-23T20:26:45.520Z"
+status: "active"
 ---
 
 # § 243. Dividends received by corporations
@@ -37,3 +38,19 @@ generated_at: "2026-03-30T02:55:27.656Z"
   - **(2)** A dividend received from a regulated investment company shall be subject to the limitations prescribed in section 854.
   - **(3)** Any dividend received from a real estate investment trust which, for the taxable year of the trust in which the dividend is paid, qualifies under part II of subchapter M (section 856 and following) shall not be treated as a dividend.
 - **(e)** For purposes of subsection (a) and for purposes of section 245, any dividend from a foreign corporation from earnings and profits accumulated by a domestic corporation during a period with respect to which such domestic corporation was subject to taxation under this chapter (or corresponding provisions of prior law) shall be treated as a dividend from a domestic corporation which is subject to taxation under this chapter.
+
+In general
+
+Treatment of old elections
+
+In general
+
+Amendments relating to limitations
+
+In general
+
+Presumption of election under section 617
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 73; [Pub. L. 85–866, title I, § 57(b)](https://www.govinfo.gov/link/plaw/85/public/866), Sept. 2, 1958, [72 Stat. 1645](https://www.govinfo.gov/link/statute/72/1645); [Pub. L. 86–779](https://www.govinfo.gov/link/plaw/86/public/779), §§ 3(a), 10(g), Sept. 14, 1960, [74 Stat. 998](https://www.govinfo.gov/link/statute/74/998), 1009; [Pub. L. 88–272, title II, § 214(a)](https://www.govinfo.gov/link/plaw/88/public/272), Feb. 26, 1964, [78 Stat. 52](https://www.govinfo.gov/link/statute/78/52); [Pub. L. 90–364, title I, § 103(e)(2)](https://www.govinfo.gov/link/plaw/90/public/364), June 28, 1968, [82 Stat. 264](https://www.govinfo.gov/link/statute/82/264); [Pub. L. 91–172, title V, § 504(c)(1)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 633](https://www.govinfo.gov/link/statute/83/633); [Pub. L. 94–12, title III, § 304(b)](https://www.govinfo.gov/link/plaw/94/public/12), Mar. 29, 1975, [89 Stat. 45](https://www.govinfo.gov/link/statute/89/45); [Pub. L. 94–455, title X](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1031(b)(2), 1051(f)(1), (2), title XIX, §§ 1901(a)(34), (b)(1)(J)(ii), (21)(A)(i), 1906(b)(3)(C)(ii), (13)(A), Oct. 4, 1976, [90 Stat. 1622](https://www.govinfo.gov/link/statute/90/1622), 1646, 1769, 1791, 1797, 1833, 1834; [Pub. L. 97–34, title II, § 232(b)(2)](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 250](https://www.govinfo.gov/link/statute/95/250); [Pub. L. 98–369, div. A, title II, § 211(b)(3)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 754](https://www.govinfo.gov/link/statute/98/754); [Pub. L. 99–514, title IV, § 411(b)(2)(C)(iv)](https://www.govinfo.gov/link/plaw/99/public/514), title VI, § 611(a)(1), Oct. 22, 1986, [100 Stat. 2227](https://www.govinfo.gov/link/statute/100/2227), 2249; [Pub. L. 100–203, title X, § 10221(a)(1)](https://www.govinfo.gov/link/plaw/100/public/203), (b), Dec. 22, 1987, [101 Stat. 1330–408](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–647, title I, § 1010(f)(4)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3454](https://www.govinfo.gov/link/statute/102/3454); [Pub. L. 101–508, title XI, § 11814(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–556](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 104–188, title I, § 1702(h)(4)](https://www.govinfo.gov/link/plaw/104/public/188), (8), Aug. 20, 1996, [110 Stat. 1873](https://www.govinfo.gov/link/statute/110/1873), 1874; [Pub. L. 113–295, div. A, title II, § 221(a)(41)(C)](https://www.govinfo.gov/link/plaw/113/public/295), (D), Dec. 19, 2014, [128 Stat. 4044](https://www.govinfo.gov/link/statute/128/4044); [Pub. L. 115–97, title I, § 13002(a)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2100](https://www.govinfo.gov/link/statute/131/2100); [Pub. L. 115–141, div. U, title IV, § 401(d)(1)(D)(v)](https://www.govinfo.gov/link/plaw/115/public/141), (xvii)(II), Mar. 23, 2018, [132 Stat. 1207](https://www.govinfo.gov/link/statute/132/1207), 1208.)*

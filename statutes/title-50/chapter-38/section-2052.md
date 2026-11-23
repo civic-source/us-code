@@ -3,9 +3,10 @@ title: "Section 2052 - Death in service"
 usc_title: 50
 usc_section: "2052"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 2052"
-generated_at: "2026-03-30T02:56:26.218Z"
+generated_at: "2026-11-23T20:27:30.822Z"
+status: "active"
 ---
 
 # § 2052. Death in service
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:26.218Z"
     - **(A)** if the participant is survived by a spouse or former spouse who is the natural or adoptive parent of a surviving child of the participant, there shall be paid from the fund to or on behalf of each such surviving child an annuity determined under section 2031(d)(3)(A) of this title ; and
     - **(B)** if the participant is not survived by a spouse or former spouse who is the natural or adoptive parent of a surviving child of the participant, there shall be paid to or on behalf of each such surviving child an annuity determined under section 2031(d)(3)(B) of this title .
   - **(3)** For purposes of this subsection, the term “former spouse” includes any former wife or husband of a participant, regardless of the length of marriage or the amount of creditable service completed by the participant.
+
+## Source Credit
+
+*([Pub. L. 88–643, title II, § 232](https://www.govinfo.gov/link/plaw/88/public/643), as added [Pub. L. 102–496, title VIII, § 802](https://www.govinfo.gov/link/plaw/102/public/496), Oct. 24, 1992, [106 Stat. 3223](https://www.govinfo.gov/link/statute/106/3223); amended [Pub. L. 103–178, title II, § 202(a)(9)](https://www.govinfo.gov/link/plaw/103/public/178), Dec. 3, 1993, [107 Stat. 2026](https://www.govinfo.gov/link/statute/107/2026); [Pub. L. 116–92, div. E, title LXII, § 6202(a)(2)(A)(i)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2185](https://www.govinfo.gov/link/statute/133/2185).)*

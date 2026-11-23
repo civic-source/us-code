@@ -3,9 +3,10 @@ title: "Section 5e - Wetland areas"
 usc_title: 42
 usc_section: "5e"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5e"
-generated_at: "2026-03-30T02:56:11.134Z"
+generated_at: "2026-11-23T20:27:21.984Z"
+status: "active"
 ---
 
 # § 1962d–5e. Wetland areas
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.134Z"
   - **(3)** there is reasonable evidence that the wetland area to be established will not be substantially altered or destroyed by natural or man-made causes.
 - **(b)** Whenever the Secretary of the Army, acting through the Chief of Engineers, submits to Congress a report on a water resources development project after October 22, 1976 , such report shall include, where appropriate, consideration of the establishment of wetland areas.
 - **(c)** In the computation of benefits and cost of any water resources development project the benefits of establishing of any wetland area shall be deemed to be at least equal to the cost of establishing such area. All costs of establishing a wetland area shall be borne by the United States.
+
+## Source Credit
+
+*([Pub. L. 94–587, § 150](https://www.govinfo.gov/link/plaw/94/public/587), Oct. 22, 1976, [90 Stat. 2931](https://www.govinfo.gov/link/statute/90/2931).)*

@@ -3,9 +3,10 @@ title: "Section 12750 - Matching requirements"
 usc_title: 42
 usc_section: "12750"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12750"
-generated_at: "2026-03-30T02:56:11.431Z"
+generated_at: "2026-11-23T20:27:23.437Z"
+status: "active"
 ---
 
 # § 12750. Matching requirements
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:56:11.431Z"
     - **(B)** The average per capita income in the jurisdiction for the calendar year immediately preceding the year in which its fiscal year begins was less than 75 percent of the average national per capita income during such calendar year (as determined according to information of the Bureau of the Census).
   - **(4)** In determining the degree to which a jurisdiction that is a State is distressed, the Secretary shall take into consideration the State’s fiscal capacity and expenditure needs as determined by a national organization which compiles the relevant data.
   - **(5)** If a participating jurisdiction is located in an area in which a declaration of a disaster pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act [ 42 U.S.C. 5121 et seq.] is in effect for any part of a fiscal year, the Secretary may reduce the matching requirement for that fiscal year under subsection (a) with respect to any funds drawn from a jurisdiction’s HOME Investment Trust Fund Account during that fiscal year by up to 100 percent.
+
+## Source Credit
+
+*([Pub. L. 101–625, title II, § 220](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4111](https://www.govinfo.gov/link/statute/104/4111); [Pub. L. 102–550, title II](https://www.govinfo.gov/link/plaw/102/public/550), §§ 207(c), 210(a)–(c), Oct. 28, 1992, [106 Stat. 3753](https://www.govinfo.gov/link/statute/106/3753), 3755; [Pub. L. 103–233, title II, § 204](https://www.govinfo.gov/link/plaw/103/public/233), Apr. 11, 1994, [108 Stat. 364](https://www.govinfo.gov/link/statute/108/364).)*

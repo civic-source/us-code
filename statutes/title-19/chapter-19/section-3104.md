@@ -3,9 +3,10 @@ title: "Section 3104 - Negotiations in response to investigation"
 usc_title: 19
 usc_section: "3104"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3104"
-generated_at: "2026-03-30T02:54:24.688Z"
+generated_at: "2026-11-23T20:26:11.031Z"
+status: "active"
 ---
 
 # § 3104. Negotiations in response to investigation
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:54:24.688Z"
   - **(10)** access to the basic telecommunications network in foreign countries on reasonable and nondiscriminatory terms and conditions (including nondiscriminatory prices) for the provision of value-added services by United States suppliers;
   - **(11)** the nondiscriminatory procurement of telecommunications products and services by foreign entities that provide local exchange telecommunications services which are owned, controlled, or, if appropriate, regulated by foreign governments; and
   - **(12)** monitoring and effective dispute settlement mechanisms to facilitate compliance with matters referred to in the preceding paragraphs of this subsection.
+
+## Source Credit
+
+*([Pub. L. 100–418, title I, § 1375](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1218](https://www.govinfo.gov/link/statute/102/1218).)*

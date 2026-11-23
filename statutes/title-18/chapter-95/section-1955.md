@@ -3,9 +3,10 @@ title: "Section 1955 - Prohibition of illegal gambling businesses"
 usc_title: 18
 usc_section: "1955"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 1955"
-generated_at: "2026-03-30T02:54:16.493Z"
+generated_at: "2026-11-23T20:26:08.542Z"
+status: "active"
 ---
 
 # § 1955. Prohibition of illegal gambling businesses
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:16.493Z"
 - **(e)** This section shall not apply to—
   - **(1)** any bingo game, lottery, or similar game of chance conducted by an organization exempt from tax under paragraph (3) of subsection (c) of section 501 of the Internal Revenue Code of 1986, as amended, if no part of the gross receipts derived from such activity inures to the benefits of any private shareholder, member, or employee of such organization except as compensation for actual expenses incurred by him in the conduct of such activity; or
   - **(2)** any savings promotion raffle.
+
+## Source Credit
+
+*(Added [Pub. L. 91–452, title VIII, § 803(a)](https://www.govinfo.gov/link/plaw/91/public/452), Oct. 15, 1970, [84 Stat. 937](https://www.govinfo.gov/link/statute/84/937); amended [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 103–322, title XXXIII, § 330016(1)(N)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2148](https://www.govinfo.gov/link/statute/108/2148); [Pub. L. 113–251, § 5(3)](https://www.govinfo.gov/link/plaw/113/public/251), Dec. 18, 2014, [128 Stat. 2891](https://www.govinfo.gov/link/statute/128/2891).)*

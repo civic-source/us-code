@@ -3,9 +3,10 @@ title: "Section 1681v - Disclosures to governmental agencies for counterterroris
 usc_title: 15
 usc_section: "1681v"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1681v"
-generated_at: "2026-03-30T02:54:08.154Z"
+generated_at: "2026-11-23T20:26:04.101Z"
+status: "active"
 ---
 
 # § 1681v. Disclosures to governmental agencies for counterterrorism purposes
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:54:08.154Z"
 - **(g)**
   - **(1)** On a semi-annual basis, the Attorney General shall fully inform the Committee on the Judiciary, the Committee on Financial Services, and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on the Judiciary, the Committee on Banking, Housing, and Urban Affairs, and the Select Committee on Intelligence of the Senate concerning all requests made pursuant to subsection (a).
   - **(2)** In the case of the semiannual reports required to be submitted under paragraph (1) to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate, the submittal dates for such reports shall be as provided in section 3106 of title 50 .
+
+## Source Credit
+
+*([Pub. L. 90–321, title VI, § 627](https://www.govinfo.gov/link/plaw/90/public/321), formerly § 626, as added [Pub. L. 107–56, title III, § 358(g)(1)(B)](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 327](https://www.govinfo.gov/link/statute/115/327); renumbered § 627 and amended [Pub. L. 108–159, title II, § 214(a)(1)](https://www.govinfo.gov/link/plaw/108/public/159), (c)(3), Dec. 4, 2003, [117 Stat. 1980](https://www.govinfo.gov/link/statute/117/1980), 1983; [Pub. L. 108–458, title VI, § 6203](https://www.govinfo.gov/link/plaw/108/public/458) (l), Dec. 17, 2004, [118 Stat. 3747](https://www.govinfo.gov/link/statute/118/3747); [Pub. L. 109–177, title I](https://www.govinfo.gov/link/plaw/109/public/177), §§ 116(c), 118(b), Mar. 9, 2006, [120 Stat. 214](https://www.govinfo.gov/link/statute/120/214), 217; [Pub. L. 109–178, § 4(c)(2)](https://www.govinfo.gov/link/plaw/109/public/178), Mar. 9, 2006, [120 Stat. 280](https://www.govinfo.gov/link/statute/120/280); [Pub. L. 114–23, title V](https://www.govinfo.gov/link/plaw/114/public/23), §§ 501(d), 502(d), 503(d), June 2, 2015, [129 Stat. 282](https://www.govinfo.gov/link/statute/129/282), 286, 290.)*

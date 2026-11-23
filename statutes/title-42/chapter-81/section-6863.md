@@ -3,9 +3,10 @@ title: "Section 6863 - Weatherization program"
 usc_title: 42
 usc_section: "6863"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6863"
-generated_at: "2026-03-30T02:56:11.267Z"
+generated_at: "2026-11-23T20:27:22.714Z"
+status: "active"
 ---
 
 # § 6863. Weatherization program
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:56:11.267Z"
   - **(2)** The amounts reserved by the Secretary under this subsection shall be granted to the tribal organization serving the low-income members of the Indian tribe, or, where there is no tribal organization, to such other entity as the Secretary determines has the capacity to provide services pursuant to this part.
   - **(3)** In order for a tribal organization or other entity to be eligible for a grant for a fiscal year under this subsection, it shall submit to the Secretary an application meeting the requirements set forth in section 6864 of this title .
 - **(e)** Notwithstanding any other provision of law, the Secretary may transfer to the Director sums appropriated under this part to be utilized in order to carry out programs, under section 222(a)(12) of the Economic Opportunity Act of 1964 [ 42 U.S.C. 2809(a)(12) ], which further the purpose of this part.
+
+## Source Credit
+
+*([Pub. L. 94–385, title IV, § 413](https://www.govinfo.gov/link/plaw/94/public/385), Aug. 14, 1976, [90 Stat. 1152](https://www.govinfo.gov/link/statute/90/1152); [Pub. L. 95–619, title II, § 231(a)(2)](https://www.govinfo.gov/link/plaw/95/public/619), (b)(1), Nov. 9, 1978, [92 Stat. 3224](https://www.govinfo.gov/link/statute/92/3224); [Pub. L. 96–294, title V](https://www.govinfo.gov/link/plaw/96/public/294), §§ 573(b), 574, 577(2), June 30, 1980, [94 Stat. 759](https://www.govinfo.gov/link/statute/94/759), 760; [Pub. L. 98–479, title II, § 201(h)](https://www.govinfo.gov/link/plaw/98/public/479), Oct. 17, 1984, [98 Stat. 2228](https://www.govinfo.gov/link/statute/98/2228); [Pub. L. 100–418, title V, § 5115(c)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1433](https://www.govinfo.gov/link/statute/102/1433); [Pub. L. 101–440, § 7(b)](https://www.govinfo.gov/link/plaw/101/public/440), Oct. 18, 1990, [104 Stat. 1012](https://www.govinfo.gov/link/statute/104/1012); [Pub. L. 103–82, title IV, § 405](https://www.govinfo.gov/link/plaw/103/public/82) (l), Sept. 21, 1993, [107 Stat. 922](https://www.govinfo.gov/link/statute/107/922); [Pub. L. 115–325, title II, § 203](https://www.govinfo.gov/link/plaw/115/public/325), Dec. 18, 2018, [132 Stat. 4462](https://www.govinfo.gov/link/statute/132/4462); [Pub. L. 116–260, div. Z, title I, § 1011(c)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2442](https://www.govinfo.gov/link/statute/134/2442).)*

@@ -3,9 +3,10 @@ title: "Section 7291 - Date when Court decision becomes final"
 usc_title: 38
 usc_section: "7291"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7291"
-generated_at: "2026-03-30T02:55:53.525Z"
+generated_at: "2026-11-23T20:27:01.987Z"
+status: "active"
 ---
 
 # § 7291. Date when Court decision becomes final
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:53.525Z"
   - **(2)** the petition for certiorari has been denied, or
   - **(3)** the decision of the United States Court of Appeals for the Federal Circuit has been affirmed by the Supreme Court,
 - **(d)** As used in this section, the term “mandate”, in case a mandate has been recalled before the expiration of 30 days from the date of issuance thereof, means the final mandate.
+
+## Source Credit
+
+*(Added [Pub. L. 100–687, div. A, title III, § 301(a)](https://www.govinfo.gov/link/plaw/100/public/687), Nov. 18, 1988, [102 Stat. 4119](https://www.govinfo.gov/link/statute/102/4119), § 4091; renumbered § 7291 and amended [Pub. L. 102–40, title IV, § 402(b)(1)](https://www.govinfo.gov/link/plaw/102/public/40), (d)(1), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238), 239; [Pub. L. 102–83, § 4(b)(1)](https://www.govinfo.gov/link/plaw/102/public/83), (2)(E), Aug. 6, 1991, [105 Stat. 404](https://www.govinfo.gov/link/statute/105/404), 405; [Pub. L. 105–368, title V, § 512(a)(1)](https://www.govinfo.gov/link/plaw/105/public/368), (2)(B), Nov. 11, 1998, [112 Stat. 3341](https://www.govinfo.gov/link/statute/112/3341).)*

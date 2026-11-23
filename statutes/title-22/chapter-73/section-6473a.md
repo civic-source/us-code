@@ -3,9 +3,10 @@ title: "Section 6473a - Designated persons list for particularly severe violatio
 usc_title: 22
 usc_section: "6473a"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6473a"
-generated_at: "2026-03-30T02:55:05.430Z"
+generated_at: "2026-11-23T20:26:32.618Z"
+status: "active"
 ---
 
 # § 6473a. Designated persons list for particularly severe violations of religious freedom
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:05.430Z"
     - **(D)** the Committee on Foreign Affairs of the House of Representatives;
     - **(E)** the Committee on Appropriations of the House of Representatives; and
     - **(F)** the Committee on Financial Services of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 105–292, title VI, § 605](https://www.govinfo.gov/link/plaw/105/public/292), as added [Pub. L. 114–281, title V, § 501(2)](https://www.govinfo.gov/link/plaw/114/public/281), Dec. 16, 2016, [130 Stat. 1437](https://www.govinfo.gov/link/statute/130/1437).)*

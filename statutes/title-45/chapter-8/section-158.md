@@ -3,9 +3,10 @@ title: "Section 158 - Agreement to arbitrate; form and contents; signatures and 
 usc_title: 45
 usc_section: "158"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 158"
-generated_at: "2026-03-30T02:55:56.543Z"
+generated_at: "2026-11-23T20:27:05.221Z"
+status: "active"
 ---
 
 # § 158. Agreement to arbitrate; form and contents; signatures and acknowledgment; revocation
@@ -26,3 +27,7 @@ The agreement to arbitrate—
 - **(l)** Shall provide that the award, when so filed, shall be final and conclusive upon the parties as to the facts determined by said award and as to the merits of the controversy decided;
 - **(m)** Shall provide that any difference arising as to the meaning, or the application of the provisions, of an award made by a board of arbitration shall be referred back for a ruling to the same board, or, by agreement, to a subcommittee of such board; and that such ruling, when acknowledged in the same manner, and filed in the same district court clerk’s office, as the original award, shall be a part of and shall have the same force and effect as such original award; and
 - **(n)** Shall provide that the respective parties to the award will each faithfully execute the same. The said agreement to arbitrate, when properly signed and acknowledged as herein provided, shall not be revoked by a party to such agreement: Provided, however , That such agreement to arbitrate may at any time be revoked and canceled by the written agreement of both parties, signed by their duly accredited representatives, and (if no board of arbitration has yet been constituted under the agreement) delivered to the Mediation Board or any member thereof; or, if the board of arbitration has been constituted as provided by this chapter, delivered to such board of arbitration.
+
+## Source Credit
+
+*(May 20, 1926, ch. 347, § 8, [44 Stat. 584](https://www.govinfo.gov/link/statute/44/584); June 21, 1934, ch. 691, § 7, [48 Stat. 1197](https://www.govinfo.gov/link/statute/48/1197); June 25, 1948, ch. 646, § 32(a), [62 Stat. 991](https://www.govinfo.gov/link/statute/62/991); May 24, 1949, ch. 139, § 127, [63 Stat. 107](https://www.govinfo.gov/link/statute/63/107).)*

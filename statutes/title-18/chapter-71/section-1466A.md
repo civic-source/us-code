@@ -3,9 +3,10 @@ title: "Section 1466A - Obscene visual representations of the sexual abuse of ch
 usc_title: 18
 usc_section: "1466A"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 1466A"
-generated_at: "2026-03-30T02:54:16.486Z"
+generated_at: "2026-11-23T20:26:08.496Z"
+status: "active"
 ---
 
 # § 1466A. Obscene visual representations of the sexual abuse of children
@@ -40,3 +41,27 @@ generated_at: "2026-03-30T02:54:16.486Z"
   - **(1)** the term “visual depiction” includes undeveloped film and videotape, and data stored on a computer disk or by electronic means which is capable of conversion into a visual image, and also includes any photograph, film, video, picture, digital image or picture, computer image or picture, or computer generated image or picture, whether made or produced by electronic, mechanical, or other means;
   - **(2)** the term “sexually explicit conduct” has the meaning given the term in section 2256(2)(A) or 2256(2)(B); and
   - **(3)** the term “graphic”, when used with respect to a depiction of sexually explicit conduct, means that a viewer can observe any part of the genitals or pubic area of any depicted person or animal during any part of the time that the sexually explicit conduct is being depicted.
+
+In General
+
+Additional Offenses
+
+Nonrequired Element of Offense
+
+Circumstances
+
+Affirmative Defense
+
+Definitions
+
+Category
+
+Ranges
+
+In general
+
+Contents
+
+## Source Credit
+
+*(Added [Pub. L. 108–21, title V, § 504(a)](https://www.govinfo.gov/link/plaw/108/public/21), Apr. 30, 2003, [117 Stat. 680](https://www.govinfo.gov/link/statute/117/680).)*

@@ -3,9 +3,10 @@ title: "Section 40702 - Governing body"
 usc_title: 36
 usc_section: "40702"
 chapter: 407
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 40702"
-generated_at: "2026-03-30T02:55:44.696Z"
+generated_at: "2026-11-23T20:26:58.875Z"
+status: "active"
 ---
 
 # § 40702. Governing body
@@ -20,3 +21,41 @@ generated_at: "2026-03-30T02:55:44.696Z"
   - **(2)** The Director is responsible for—
     - **(A)** the daily operation of the corporation; and
     - **(B)** the duties of the corporation under subchapter II of this chapter.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 40702(a)(1) | 36:5501(c)(2). | Feb. 10, 1996 , Pub. L. 104–106, title XVI, § 1611(c)(1) –(4), (d), 110 Stat. 516 . |
+| 40702(a)(2) | 36:5501(c)(1). |  |
+| 40702(a)(3) | 36:5501(c)(3). |  |
+| 40702(a)(4) | 36:5501(c)(4). |  |
+| 40702(b)(1) | 36:5501(d)(1). |  |
+| 40702(b)(2) | 36:5501(d)(2). |  |
+
+
+Board of Directors
+
+Director of Civilian Marksmanship
+
+Historical and Revision Notes
+
+40702(a)(1)
+
+Feb. 10, 1996
+
+Pub. L. 104–106, title XVI, § 1611(c)(1)
+
+110 Stat. 516
+
+40702(a)(2)
+
+40702(a)(3)
+
+40702(a)(4)
+
+40702(b)(1)
+
+40702(b)(2)
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1335](https://www.govinfo.gov/link/statute/112/1335).)*

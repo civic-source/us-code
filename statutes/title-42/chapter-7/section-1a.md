@@ -3,9 +3,10 @@ title: "Section 1a - Presumptive eligibility for children"
 usc_title: 42
 usc_section: "1a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1a"
-generated_at: "2026-03-30T02:56:11.050Z"
+generated_at: "2026-11-23T20:27:21.591Z"
+status: "active"
 ---
 
 # § 1396r–1a. Presumptive eligibility for children
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:56:11.050Z"
     - **(A)** during a presumptive eligibility period,
     - **(B)** by an entity that is eligible for payments under the State plan; and
   - **(2)** are included in the care and services covered by a State plan;
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XIX, § 1920A, as added [Pub. L. 105–33, title IV, § 4912(a)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 571](https://www.govinfo.gov/link/statute/111/571); amended [Pub. L. 106–113, div. B, § 1000(a)(6) [title VI, § 608(r)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–397; [Pub. L. 106–554, § 1(a)(6) [title VII, § 708]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–577.)*

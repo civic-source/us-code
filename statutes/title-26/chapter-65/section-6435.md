@@ -3,9 +3,10 @@ title: "Section 6435 - Dyed fuel"
 usc_title: 26
 usc_section: "6435"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6435"
-generated_at: "2026-03-30T02:55:27.857Z"
+generated_at: "2026-11-23T20:26:46.671Z"
+status: "active"
 ---
 
 # § 6435. Dyed fuel
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:27.857Z"
     - **(A)** with respect to which a tax under section 4081 was previously paid (and not credited or refunded), and
     - **(B)** which is exempt from taxation under section 4082(a).
 - **(c)** For civil penalty for excessive claims under this section, see section 6675.
+
+## Source Credit
+
+*(Added [Pub. L. 119–21, title VII, § 70525(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 282](https://www.govinfo.gov/link/statute/139/282).)*

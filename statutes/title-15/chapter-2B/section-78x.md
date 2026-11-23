@@ -3,9 +3,10 @@ title: "Section 78x - Public availability of information"
 usc_title: 15
 usc_section: "78x"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 78x"
-generated_at: "2026-03-30T02:54:08.059Z"
+generated_at: "2026-11-23T20:26:03.561Z"
+status: "active"
 ---
 
 # § 78x. Public availability of information
@@ -36,3 +37,11 @@ generated_at: "2026-03-30T02:54:08.059Z"
 - **(g)** Nothing in this section shall—
   - **(1)** alter the Commission’s responsibilities under the Right to Financial Privacy Act ( 12 U.S.C. 3401 et seq.), as limited by section 78u(h) of this title , with respect to transfers of records covered by such statutes, or
   - **(2)** authorize the Commission to withhold information from the Congress or prevent the Commission from complying with an order of a court of the United States in an action commenced by the United States or the Commission.
+
+In general
+
+Treatment of information
+
+## Source Credit
+
+*(June 6, 1934, ch. 404, title I, § 24, [48 Stat. 901](https://www.govinfo.gov/link/statute/48/901); Aug. 23, 1935, ch. 614, § 203(a), [49 Stat. 704](https://www.govinfo.gov/link/statute/49/704); [Pub. L. 94–29, § 19](https://www.govinfo.gov/link/plaw/94/public/29), June 4, 1975, [89 Stat. 158](https://www.govinfo.gov/link/statute/89/158); [Pub. L. 101–550, title II, § 202(a)](https://www.govinfo.gov/link/plaw/101/public/550), Nov. 15, 1990, [104 Stat. 2715](https://www.govinfo.gov/link/statute/104/2715); [Pub. L. 111–203, title IX](https://www.govinfo.gov/link/plaw/111/public/203), §§ 929I(a), 929K, July 21, 2010, [124 Stat. 1857](https://www.govinfo.gov/link/statute/124/1857), 1860; [Pub. L. 111–257, § 1(a)](https://www.govinfo.gov/link/plaw/111/public/257), Oct. 5, 2010, [124 Stat. 2646](https://www.govinfo.gov/link/statute/124/2646).)*

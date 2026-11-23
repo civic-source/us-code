@@ -3,9 +3,10 @@ title: "Section 1869 - Definitions"
 usc_title: 28
 usc_section: "1869"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 1869"
-generated_at: "2026-03-30T02:55:30.145Z"
+generated_at: "2026-11-23T20:26:36.480Z"
+status: "active"
 ---
 
 # § 1869. Definitions
@@ -23,3 +24,7 @@ For purposes of this chapter—
 - **(i)** “public officer” shall mean a person who is either elected to public office or who is directly appointed by a person elected to public office;
 - **(j)** “undue hardship or extreme inconvenience”, as a basis for excuse from immediate jury service under section 1866(c)(1) of this chapter, shall mean great distance, either in miles or traveltime, from the place of holding court, grave illness in the family or any other emergency which outweighs in immediacy and urgency the obligation to serve as a juror when summoned, or any other factor which the court determines to constitute an undue hardship or to create an extreme inconvenience to the juror; and in addition, in situations where it is anticipated that a trial or grand jury proceeding may require more than thirty days of service, the court may consider, as a further basis for temporary excuse, severe economic hardship to an employer which would result from the absence of a key employee during the period of such service; and
 - **(k)** “jury summons” shall mean a summons issued by a clerk of court, jury commission, or their duly designated deputies, containing either a preprinted or stamped seal of court, and containing the name of the issuing clerk imprinted in preprinted, type, or facsimile manner on the summons or the envelopes transmitting the summons.
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 953](https://www.govinfo.gov/link/statute/62/953); [Pub. L. 88–139, § 2](https://www.govinfo.gov/link/plaw/88/public/139), Oct. 16, 1963, [77 Stat. 248](https://www.govinfo.gov/link/statute/77/248); [Pub. L. 90–274, § 101](https://www.govinfo.gov/link/plaw/90/public/274), Mar. 27, 1968, [82 Stat. 61](https://www.govinfo.gov/link/statute/82/61); [Pub. L. 91–358, title I, § 172(b)](https://www.govinfo.gov/link/plaw/91/public/358), July 29, 1970, [84 Stat. 590](https://www.govinfo.gov/link/statute/84/590); [Pub. L. 92–437, § 1](https://www.govinfo.gov/link/plaw/92/public/437), Sept. 29, 1972, [86 Stat. 740](https://www.govinfo.gov/link/statute/86/740); [Pub. L. 95–572](https://www.govinfo.gov/link/plaw/95/public/572), §§ 3(b), 4, Nov. 2, 1978, [92 Stat. 2453](https://www.govinfo.gov/link/statute/92/2453); [Pub. L. 95–598, title II, § 243](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2671](https://www.govinfo.gov/link/statute/92/2671); [Pub. L. 99–650, § 3](https://www.govinfo.gov/link/plaw/99/public/650), Nov. 14, 1986, [100 Stat. 3641](https://www.govinfo.gov/link/statute/100/3641); [Pub. L. 100–702, title VIII](https://www.govinfo.gov/link/plaw/100/public/702), §§ 802(a), 804, Nov. 19, 1988, [102 Stat. 4657](https://www.govinfo.gov/link/statute/102/4657), 4658; [Pub. L. 110–406, § 5(c)](https://www.govinfo.gov/link/plaw/110/public/406), Oct. 13, 2008, [122 Stat. 4292](https://www.govinfo.gov/link/statute/122/4292).)*

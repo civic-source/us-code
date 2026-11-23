@@ -3,9 +3,10 @@ title: "Section 2350b - Cooperative projects under Arms Export Control Act: acqu
 usc_title: 10
 usc_section: "2350b"
 chapter: 138
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2350b"
-generated_at: "2026-03-30T02:53:38.156Z"
+generated_at: "2026-11-23T20:25:51.549Z"
+status: "active"
 ---
 
 # § 2350b. Cooperative projects under Arms Export Control Act: acquisition of defense equipment
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:53:38.156Z"
 - **(g)** Nothing in this section shall be construed as authorizing the Secretary of Defense—
   - **(1)** to waive any of the financial management responsibilities administered by the Secretary of the Treasury; or
   - **(2)** to waive the cargo preference laws of the United States, including section 2631 of this title and section 55305 of title 46 .
+
+## Source Credit
+
+*(Added [Pub. L. 99–145, title XI, § 1102(b)(1)](https://www.govinfo.gov/link/plaw/99/public/145), Nov. 8, 1985, [99 Stat. 710](https://www.govinfo.gov/link/statute/99/710), § 2407; amended [Pub. L. 99–661, div. A, title XI, § 1103(b)(1)](https://www.govinfo.gov/link/plaw/99/public/661), (2)(A), title XIII, § 1343(a)(15), Nov. 14, 1986, [100 Stat. 3963](https://www.govinfo.gov/link/statute/100/3963), 3993; renumbered § 2350b and amended [Pub. L. 101–189, div. A, title IX, § 931(b)(1)](https://www.govinfo.gov/link/plaw/101/public/189), (e)(3), Nov. 29, 1989, [103 Stat. 1534](https://www.govinfo.gov/link/statute/103/1534), 1535; [Pub. L. 104–106, div. A, title XIII, § 1335](https://www.govinfo.gov/link/plaw/104/public/106), div. D, title XLIII, § 4321(b)(10), Feb. 10, 1996, [110 Stat. 484](https://www.govinfo.gov/link/statute/110/484), 672; [Pub. L. 108–375, div. A, title X, § 1084(d)(19)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2062](https://www.govinfo.gov/link/statute/118/2062); [Pub. L. 109–304, § 17(a)(3)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1706](https://www.govinfo.gov/link/statute/120/1706); [Pub. L. 116–283, div. A, title XVIII, § 1883(b)(2)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4294](https://www.govinfo.gov/link/statute/134/4294).)*

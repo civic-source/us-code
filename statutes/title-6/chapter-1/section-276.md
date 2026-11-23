@@ -3,9 +3,10 @@ title: "Section 276 - Report on improving immigration services"
 usc_title: 6
 usc_section: "276"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 276"
-generated_at: "2026-03-30T02:53:09.455Z"
+generated_at: "2026-11-23T20:25:34.688Z"
+status: "active"
 ---
 
 # § 276. Report on improving immigration services
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:09.455Z"
   - **(2)** The goal for processing time with respect to the application.
   - **(3)** Any statutory modifications with respect to the adjudication that the Secretary considers advisable.
 - **(c)** In carrying out subsection (a), the Secretary shall consult with the Secretary of State, the Secretary of Labor, the Assistant Secretary of the Bureau of Border Security of the Department, and the Director of the Executive Office for Immigration Review to determine how to streamline and improve the process for applying for and making adjudications described in section 271(b) of this title and related processes.
+
+## Source Credit
+
+*([Pub. L. 107–296, title IV, § 459](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2201](https://www.govinfo.gov/link/statute/116/2201).)*

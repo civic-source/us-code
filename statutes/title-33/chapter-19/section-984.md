@@ -3,9 +3,10 @@ title: "Section 984 - General powers of Corporation"
 usc_title: 33
 usc_section: "984"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 984"
-generated_at: "2026-03-30T02:55:41.079Z"
+generated_at: "2026-11-23T20:26:53.953Z"
+status: "active"
 ---
 
 # § 984. General powers of Corporation
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:41.079Z"
   - **(13)** 2 2 So in original. There are two pars. designated (13). shall be credited with amounts received from any of the activities authorized by clauses (10) and (11) 3 3 Clauses (10), (11), and (12) redesignated (11), (12), and (13) by Pub. L. 97–369 . of this subsection.
   - **(13)** 2 shall accept such amounts as may be transferred to the Corporation under section 9505(c)(1) of title 26 , except that such amounts shall be available only for the purpose of operating and maintaining those works which the Corporation is obligated to operate and maintain under subsection (a) of section 983 of this title .
 - **(b)** Amounts credited under subsection (a)(12) 3 are available to pay any obligation or expense of the Corporation under this chapter, except as specifically provided in subsection (a)(11). 3
+
+## Source Credit
+
+*(May 13, 1954, ch. 201, § 4, [68 Stat. 94](https://www.govinfo.gov/link/statute/68/94); [Pub. L. 85–108, § 1(1)](https://www.govinfo.gov/link/plaw/85/public/108) –(3), July 17, 1957, [71 Stat. 307](https://www.govinfo.gov/link/statute/71/307); [Pub. L. 92–310, title II, § 232](https://www.govinfo.gov/link/plaw/92/public/310), June 6, 1972, [86 Stat. 214](https://www.govinfo.gov/link/statute/86/214); [Pub. L. 97–369, title III, § 311](https://www.govinfo.gov/link/plaw/97/public/369), Dec. 18, 1982, [96 Stat. 1783](https://www.govinfo.gov/link/statute/96/1783); [Pub. L. 99–662, title XIV, § 805(a)(1)](https://www.govinfo.gov/link/plaw/99/public/662) –(3), Nov. 17, 1986, [100 Stat. 4272](https://www.govinfo.gov/link/statute/100/4272).)*

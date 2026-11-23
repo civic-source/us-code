@@ -3,9 +3,10 @@ title: "Section 3319j - Borlaug International Agricultural Science and Technolog
 usc_title: 7
 usc_section: "3319j"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 3319j"
-generated_at: "2026-03-30T02:53:42.401Z"
+generated_at: "2026-11-23T20:25:41.591Z"
+status: "active"
 ---
 
 # § 3319j. Borlaug International Agricultural Science and Technology Fellowship Program
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:53:42.401Z"
   - **(1)** The Secretary shall provide for the management, coordination, evaluation, and monitoring of the Borlaug International Agricultural Science and Technology Fellowship Program and for the individual programs described in subsection (a)(2), except that the Secretary may contract out to 1 or more collaborating universities the management of 1 or more of the fellowship programs.
   - **(2)** In carrying out the purposes and programs under this section, the Secretary shall encourage ongoing engagement with fellowship recipients who have completed training under the program to provide advice regarding, and participate in, new or ongoing agricultural development projects, with a priority for capacity-building projects.
 - **(g)** There are authorized to be appropriated such sums as are necessary to carry out this section, to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 95–113, title XIV, § 1473G](https://www.govinfo.gov/link/plaw/95/public/113), as added [Pub. L. 110–234, title VII, § 7139](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1231](https://www.govinfo.gov/link/statute/122/1231), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, § 7139, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1992; amended [Pub. L. 115–334, title III, § 3306](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4620](https://www.govinfo.gov/link/statute/132/4620).)*

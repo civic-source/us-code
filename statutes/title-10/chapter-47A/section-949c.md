@@ -3,9 +3,10 @@ title: "Section 949c - Duties of trial counsel and defense counsel"
 usc_title: 10
 usc_section: "949c"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 949c"
-generated_at: "2026-03-30T02:53:38.089Z"
+generated_at: "2026-11-23T20:25:51.148Z"
+status: "active"
 ---
 
 # § 949c. Duties of trial counsel and defense counsel
@@ -24,3 +25,11 @@ generated_at: "2026-03-30T02:53:38.089Z"
   - **(5)** The accused is not entitled to be represented by more than one military counsel. However, the person authorized under regulations prescribed under section 948k of this title to detail counsel, in such person’s sole discretion, may detail additional military counsel to represent the accused.
   - **(6)** Defense counsel may cross-examine each witness for the prosecution who testifies before a military commission under this chapter.
   - **(7)** Civilian defense counsel shall protect any classified information received during the course of representation of the accused in accordance with all applicable law governing the protection of classified information, and may not divulge such information to any person not authorized to receive it.
+
+Trial Counsel
+
+Defense Counsel
+
+## Source Credit
+
+*(Added [Pub. L. 111–84, div. A, title XVIII, § 1802](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2585](https://www.govinfo.gov/link/statute/123/2585).)*

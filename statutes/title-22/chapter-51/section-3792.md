@@ -3,9 +3,10 @@ title: "Section 3792 - Bases of tolls"
 usc_title: 22
 usc_section: "3792"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3792"
-generated_at: "2026-03-30T02:55:05.397Z"
+generated_at: "2026-11-23T20:26:32.477Z"
+status: "active"
 ---
 
 # § 3792. Bases of tolls
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:05.397Z"
 - **(b)** Tolls shall be prescribed at rates calculated to produce revenues to cover as nearly as practicable all costs of maintaining and operating the Panama Canal (including costs authorized to be paid from the Panama Canal Dissolution Fund under section 3714a(c) of this title ), together with the facilities and appurtenances related thereto, including unrecovered costs incurred on or after October 1, 1979 , interest, depreciation, working capital, payments to the Republic of Panama pursuant to paragraph 5 of Article III and paragraph 4(a) and (b) of Article XIII of the Panama Canal Treaty of 1977, and capital for plant replacement, expansion, and improvements. Tolls shall not be prescribed at rates calculated to produce revenues sufficient to cover payments to the Republic of Panama pursuant to paragraph 4(c) of Article XIII of the Panama Canal Treaty of 1977.
 - **(c)** Vessels operated by the United States, including vessels of war and auxiliary vessels, and ocean-going training ships owned by the United States and operated by State nautical schools, shall pay tolls.
 - **(d)** The levy of tolls is subject to the provisions of section 1 of Article III of the treaty between the United States of America and Great Britain signed November 18, 1901 , of Article I of the treaty between the United States of America and the Republic of Colombia signed April 6, 1914 , and of Articles II, III, and VI of the Treaty Concerning Permanent Neutrality and Operation of the Panama Canal, between the United States of America and the Republic of Panama, signed September 7, 1977 .
+
+## Source Credit
+
+*([Pub. L. 96–70, title I, § 1602](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 489](https://www.govinfo.gov/link/statute/93/489); [Pub. L. 100–203, title V, § 5427](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–274](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 102–484, div. C, title XXXV](https://www.govinfo.gov/link/plaw/102/public/484), §§ 3513, 3521(b)(2), Oct. 23, 1992, [106 Stat. 2655](https://www.govinfo.gov/link/statute/106/2655), 2657; [Pub. L. 105–85, div. C, title XXXV, § 3544](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 2072](https://www.govinfo.gov/link/statute/111/2072).)*

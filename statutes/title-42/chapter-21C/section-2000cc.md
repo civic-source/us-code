@@ -3,9 +3,10 @@ title: "Section 2000cc - Protection of land use as religious exercise"
 usc_title: 42
 usc_section: "2000cc"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2000cc"
-generated_at: "2026-03-30T02:56:11.140Z"
+generated_at: "2026-11-23T20:27:22.027Z"
+status: "active"
 ---
 
 # § 2000cc. Protection of land use as religious exercise
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.140Z"
   - **(3)** No government shall impose or implement a land use regulation that—
     - **(A)** totally excludes religious assemblies from a jurisdiction; or
     - **(B)** unreasonably limits religious assemblies, institutions, or structures within a jurisdiction.
+
+## Source Credit
+
+*([Pub. L. 106–274, § 2](https://www.govinfo.gov/link/plaw/106/public/274), Sept. 22, 2000, [114 Stat. 803](https://www.govinfo.gov/link/statute/114/803).)*

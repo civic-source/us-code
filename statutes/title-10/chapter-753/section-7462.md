@@ -3,9 +3,10 @@ title: "Section 7462 - Support of athletic programs"
 usc_title: 10
 usc_section: "7462"
 chapter: 753
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 7462"
-generated_at: "2026-03-30T02:53:38.233Z"
+generated_at: "2026-11-23T20:25:52.097Z"
+status: "active"
 ---
 
 # § 7462. Support of athletic programs
@@ -41,3 +42,45 @@ generated_at: "2026-03-30T02:53:38.233Z"
   - **(1)** to qualify as a nonprofit organization under section 501(c)(3) of the Internal Revenue Code of 1986 and operates in accordance with this section, the law of the State of New York, and the constitution and bylaws of the Association; and
   - **(2)** to operate exclusively to support the athletic programs of the Academy.
 - **(h)** In this section, the term “Association” means the Army West Point Athletic Association.
+
+Authority.—
+
+Contracts and cooperative agreements
+
+Financial controls
+
+Leases
+
+Support Services.—
+
+Authority
+
+Support services defined
+
+No liability of the united states
+
+Acceptance of Support.—
+
+Support received from the association
+
+Funds received from ncaa
+
+Limitation
+
+Trademarks and Service Marks.—
+
+Licensing, marketing, and sponsorship agreements
+
+Limitations
+
+Retention and Use of Funds
+
+Service on Association Board of Directors
+
+Conditions
+
+Association Defined
+
+## Source Credit
+
+*(Added [Pub. L. 114–92, div. A, title V, § 557(a)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 825](https://www.govinfo.gov/link/statute/129/825), § 4362; renumbered § 7462, [Pub. L. 115–232, div. A, title VIII, § 808(c)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1839](https://www.govinfo.gov/link/statute/132/1839); amended [Pub. L. 116–283, div. A, title XVIII, § 1883(b)(2)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4294](https://www.govinfo.gov/link/statute/134/4294).)*

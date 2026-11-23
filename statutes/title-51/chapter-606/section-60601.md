@@ -3,9 +3,10 @@ title: "Section 60601 - Space weather"
 usc_title: 51
 usc_section: "60601"
 chapter: 606
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 60601"
-generated_at: "2026-03-30T02:56:28.712Z"
+generated_at: "2026-11-23T20:27:37.531Z"
+status: "active"
 ---
 
 # § 60601. Space weather
@@ -72,3 +73,77 @@ generated_at: "2026-03-30T02:56:28.712Z"
     - **(E)** Within 30 days of the briefing to Congress, the advisory group shall make the results of the survey under subparagraph (A) publicly available.
     - **(F)** The advisory group shall review and assess the survey under subparagraph (A) not less than every 3 years and update, resubmit, and republish the survey in accordance with the requirements of subparagraphs (D) and (E).
   - **(4)** Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) 1 1 See References in Text note below. shall not apply to the advisory group.
+
+Findings.—
+
+Space weather
+
+Role of federal agencies
+
+Coordination by Office of Science and Technology Policy
+
+Space Weather Interagency Working Group
+
+Membership
+
+Interagency agreements.—
+
+International, academic community, and commercial sector collaboration
+
+Space Weather Advisory Group.—
+
+In general.—
+
+Establishment
+
+Composition
+
+Chair
+
+Terms
+
+Term limits.—
+
+In general
+
+Chair
+
+Duties
+
+User survey.—
+
+In general
+
+Survey considerations
+
+Coordination with agencies
+
+Briefing to congress
+
+Publication
+
+Reevaluation
+
+Federal advisory committee act
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 116–181, § 2(b)](https://www.govinfo.gov/link/plaw/116/public/181), Oct. 21, 2020, [134 Stat. 882](https://www.govinfo.gov/link/statute/134/882).)*

@@ -3,9 +3,10 @@ title: "Section 17021 - Biomass-based diesel and biodiesel labeling"
 usc_title: 42
 usc_section: "17021"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17021"
-generated_at: "2026-03-30T02:56:11.493Z"
+generated_at: "2026-11-23T20:27:23.716Z"
+status: "active"
 ---
 
 # § 17021. Biomass-based diesel and biodiesel labeling
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.493Z"
     - **(A)** the registration requirements for fuels and fuel additives under this section; and
     - **(B)** the requirements of ASTM standard D6751.
   - **(4)** The terms “biomass-based diesel blend” and “biodiesel blend” means a blend of “biomass-based diesel” or “biodiesel” fuel that is blended with petroleum-based diesel fuel.
+
+## Source Credit
+
+*([Pub. L. 110–140, title II, § 205](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1529](https://www.govinfo.gov/link/statute/121/1529).)*

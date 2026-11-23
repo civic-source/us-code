@@ -3,9 +3,10 @@ title: "Section 8702 - Certain crew requirements"
 usc_title: 46
 usc_section: "8702"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 8702"
-generated_at: "2026-03-30T02:56:15.552Z"
+generated_at: "2026-11-23T20:27:27.139Z"
+status: "active"
 ---
 
 # § 8702. Certain crew requirements
@@ -26,3 +27,16 @@ generated_at: "2026-03-30T02:56:15.552Z"
 - **(c)** An able seaman is not required on a towing vessel operating on bays and sounds connected directly with the seas.
 - **(d)** An individual having a rating of less than able seaman may not be permitted at the wheel in ports, harbors, and other waters subject to congested vessel traffic, or under conditions of reduced visibility, adverse weather, or other hazardous circumstances.
 - **(e)** The owner, charterer, managing operator, agent, master, or individual in charge of a vessel operated in violation of this section or a regulation prescribed under this section is liable to the United States Government for a civil penalty of $10,000.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 8702 | 46:643 46:672 |
+
+
+Historical and Revision Notes
+
+8702
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 554](https://www.govinfo.gov/link/statute/97/554); [Pub. L. 98–364, title IV, § 402(12)(B)](https://www.govinfo.gov/link/plaw/98/public/364), July 17, 1984, [98 Stat. 449](https://www.govinfo.gov/link/statute/98/449); [Pub. L. 100–239, § 5(e)](https://www.govinfo.gov/link/plaw/100/public/239), Jan. 11, 1988, [101 Stat. 1781](https://www.govinfo.gov/link/statute/101/1781); [Pub. L. 101–380, title IV, § 4302(i)](https://www.govinfo.gov/link/plaw/101/public/380), Aug. 18, 1990, [104 Stat. 539](https://www.govinfo.gov/link/statute/104/539); [Pub. L. 101–595, title VI, § 602(e)(2)](https://www.govinfo.gov/link/plaw/101/public/595), Nov. 16, 1990, [104 Stat. 2992](https://www.govinfo.gov/link/statute/104/2992); [Pub. L. 104–324, title VII, § 732](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3941](https://www.govinfo.gov/link/statute/110/3941).)*

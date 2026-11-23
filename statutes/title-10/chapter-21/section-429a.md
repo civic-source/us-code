@@ -3,9 +3,10 @@ title: "Section 429a - Expenditure of funds for Department of Defense intelligen
 usc_title: 10
 usc_section: "429a"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 429a"
-generated_at: "2026-03-30T02:53:38.058Z"
+generated_at: "2026-11-23T20:25:50.954Z"
+status: "active"
 ---
 
 # § 429a. Expenditure of funds for Department of Defense intelligence and counterintelligence activities
@@ -21,3 +22,21 @@ generated_at: "2026-03-30T02:53:38.058Z"
 - **(g)** In this section, the term “congressional intelligence committees” means—
   - **(1)** the Select Committee on Intelligence of the Senate; and
   - **(2)** the Permanent Select Committee on Intelligence of the House of Representatives.
+
+In General
+
+Limitation on Amount
+
+Certification
+
+Report
+
+Limitation on Delegations
+
+Nonapplication of Section
+
+Congressional Intelligence Committees Defined
+
+## Source Credit
+
+*(Added and amended [Pub. L. 118–159, div. A, title XVI, § 1614(a)](https://www.govinfo.gov/link/plaw/118/public/159) –(e)(1), Dec. 23, 2024, [138 Stat. 2168](https://www.govinfo.gov/link/statute/138/2168), 2169.)*

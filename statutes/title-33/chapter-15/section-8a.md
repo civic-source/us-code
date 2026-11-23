@@ -3,12 +3,17 @@ title: "Section 8a - Discontinuance of preliminary examination reports"
 usc_title: 33
 usc_section: "8a"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 8a"
-generated_at: "2026-03-30T02:55:41.067Z"
+generated_at: "2026-11-23T20:26:53.886Z"
+status: "active"
 ---
 
 # § 701b–8a. Discontinuance of preliminary examination reports
 
 For preliminary examinations and surveys authorized in previous river and harbor and flood control Acts, the Secretary of the Army is directed to cause investigations and reports for flood control and allied purposes, to be prepared under the supervision of the Chief of Engineers in the form of survey reports, and that preliminary examination reports shall no longer be required to be prepared.
 
+
+## Source Credit
+
+*([Pub. L. 85–500, title II, § 208](https://www.govinfo.gov/link/plaw/85/public/500), July 3, 1958, [72 Stat. 319](https://www.govinfo.gov/link/statute/72/319).)*

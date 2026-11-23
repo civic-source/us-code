@@ -3,9 +3,10 @@ title: "Section 2056b - Mandatory toy safety standards"
 usc_title: 15
 usc_section: "2056b"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2056b"
-generated_at: "2026-03-30T02:54:08.162Z"
+generated_at: "2026-11-23T20:26:04.148Z"
+status: "active"
 ---
 
 # § 2056b. Mandatory toy safety standards
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:54:08.162Z"
     - **(B)** does not unduly burden interstate commerce.
   - **(2)** Nothing in this section or in section 2075 of this title shall prevent a State or political subdivision of a State from continuing in effect a safety requirement applicable to a toy or other children’s product that is designed to deal with the same risk of injury as the consumer product safety standards established by this section and that is in effect on the day before August 14, 2008 , if such State or political subdivision has filed such requirement with the Commission within 90 days after August 14, 2008 , in such form and in such manner as the Commission may require.
 - **(i)** The issuance of any rule under this section is subject to judicial review as provided in section 2060(g) of this title , as added by section 236 of this Act.
+
+## Source Credit
+
+*([Pub. L. 110–314, title I, § 106](https://www.govinfo.gov/link/plaw/110/public/314), Aug. 14, 2008, [122 Stat. 3033](https://www.govinfo.gov/link/statute/122/3033); [Pub. L. 112–28, § 4](https://www.govinfo.gov/link/plaw/112/public/28), Aug. 12, 2011, [125 Stat. 280](https://www.govinfo.gov/link/statute/125/280).)*

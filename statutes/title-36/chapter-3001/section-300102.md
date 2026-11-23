@@ -3,9 +3,10 @@ title: "Section 300102 - Purposes"
 usc_title: 36
 usc_section: "300102"
 chapter: 3001
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 300102"
-generated_at: "2026-03-30T02:55:44.712Z"
+generated_at: "2026-11-23T20:26:59.113Z"
+status: "active"
 ---
 
 # § 300102. Purposes
@@ -20,3 +21,28 @@ The purposes of the corporation are—
   - **(3)** to act in matters of voluntary relief and in accordance with the military authorities as a medium of communication between the people of the United States and the Armed Forces of the United States and to act in those matters between similar national societies of governments of other countries through the International Committee of the Red Cross and the Government, the people, and the Armed Forces of the United States;
   - **(4)** to carry out a system of national and international relief in time of peace, and to apply that system in mitigating the suffering caused by pestilence, famine, fire, floods, and other great national calamities, and to devise and carry out measures for preventing those calamities; and
   - **(5)** to conduct other activities consistent with the foregoing purposes.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 300102 | 36:3. | Jan. 5, 1905, ch. 23, § 3 , 33 Stat. 600 ; May 8, 1947, ch. 50, § 4 , 61 Stat. 81 ; July 17, 1953, ch. 222, § 4(a) , (b), 67 Stat. 179 . |
+
+
+Historical and Revision Notes
+
+300102
+
+Jan. 5, 1905, ch. 23, § 3
+
+33 Stat. 600
+
+May 8, 1947, ch. 50, § 4
+
+61 Stat. 81
+
+July 17, 1953, ch. 222, § 4(a)
+
+67 Stat. 179
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1490](https://www.govinfo.gov/link/statute/112/1490); [Pub. L. 110–26, § 4](https://www.govinfo.gov/link/plaw/110/public/26), May 11, 2007, [121 Stat. 105](https://www.govinfo.gov/link/statute/121/105).)*

@@ -3,9 +3,10 @@ title: "Section 8002 - Statements of policy"
 usc_title: 22
 usc_section: "8002"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8002"
-generated_at: "2026-03-30T02:55:05.447Z"
+generated_at: "2026-11-23T20:26:32.694Z"
+status: "active"
 ---
 
 # § 8002. Statements of policy
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:55:05.447Z"
   - **(8)** Ensure that any safeguards agreement or Additional Protocol to which India is a party with the IAEA can reliably safeguard any export or reexport to India of any nuclear materials and equipment.
   - **(9)** Ensure that the text and implementation of any agreement for cooperation with India arranged pursuant to section 123 of the Atomic Energy Act of 1954 ( 42 U.S.C. 2153 ) meet the requirements set forth in subsections a.(1) and a.(3) through a.(9) of such section [ 42 U.S.C. 2153(a)(1) , (3)–(9)].
   - **(10)** Any nuclear power reactor fuel reserve provided to the Government of India for use in safeguarded civilian nuclear facilities should be commensurate with reasonable reactor operating requirements.
+
+## Source Credit
+
+*([Pub. L. 109–401, title I, § 103](https://www.govinfo.gov/link/plaw/109/public/401), Dec. 18, 2006, [120 Stat. 2727](https://www.govinfo.gov/link/statute/120/2727).)*

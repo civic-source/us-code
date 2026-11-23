@@ -3,12 +3,17 @@ title: "Section 56 - Conditions of delivery to States"
 usc_title: 43
 usc_section: "56"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 56"
-generated_at: "2026-03-30T02:55:57.434Z"
+generated_at: "2026-11-23T20:27:06.165Z"
+status: "active"
 ---
 
 # § 56. Conditions of delivery to States
 
 The field notes, maps, records, and other papers mentioned in section 53 of this title , shall in no case be turned over to the authorities of any State, until such State has provided by law for the reception and safe-keeping of the same as public records, and for the allowance of free access to the same by the authorities of the United States.
 
+
+## Source Credit
+
+*(R.S. § 2221.)*

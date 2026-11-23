@@ -3,9 +3,10 @@ title: "Section 8817 - General requirements regarding financial assistance"
 usc_title: 42
 usc_section: "8817"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8817"
-generated_at: "2026-03-30T02:56:11.347Z"
+generated_at: "2026-11-23T20:27:23.062Z"
+status: "active"
 ---
 
 # § 8817. General requirements regarding financial assistance
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:56:11.347Z"
   - **(1)** A fee or fees may be charged and collected by the Secretary concerned for any loan guarantee, price guarantee, or purchase agreement provided under this subchapter.
   - **(2)** The amount of such fee shall be based on the estimated administrative costs and risk of loss, except that such fee may not exceed 1 per centum of the amount of the financial assistance provided.
 - **(h)** All amounts received by the Secretary of Agriculture or the Secretary of Energy as fees, interest, repayment of principal, and any other moneys received by either Secretary from activities under this subchapter shall be deposited in the Treasury of the United States as miscellaneous receipts. The preceding sentence shall not apply to insured loans made under section 8813 of this title .
+
+## Source Credit
+
+*([Pub. L. 96–294, title II, § 217](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 693](https://www.govinfo.gov/link/statute/94/693).)*

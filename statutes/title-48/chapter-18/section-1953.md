@@ -3,9 +3,10 @@ title: "Section 1953 - Antidrug program"
 usc_title: 48
 usc_section: "1953"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1953"
-generated_at: "2026-03-30T02:56:14.598Z"
+generated_at: "2026-11-23T20:27:28.183Z"
+status: "active"
 ---
 
 # § 1953. Antidrug program
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:14.598Z"
   - **(1)** that the Government of Palau may request, on a long-term or case-by-case basis, that the officers of United States law enforcement agencies may conduct investigations consistent with implementation of the plan in cooperation with the law enforcement agencies of the Government of Palau;
   - **(2)** that the Government of Palau or the Government of the United States may agree to provide specific resources, on a one-time or a multiyear basis, to strengthen the antidrug program; and
   - **(3)** a specific description of the technical assistance, training, and equipment to be provided to Palau by the United States necessary to implement the plan.
+
+## Source Credit
+
+*([Pub. L. 101–219, title I, § 103](https://www.govinfo.gov/link/plaw/101/public/219), Dec. 12, 1989, [103 Stat. 1870](https://www.govinfo.gov/link/statute/103/1870).)*

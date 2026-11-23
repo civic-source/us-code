@@ -3,9 +3,10 @@ title: "Section 9033 - Eligibility for payments"
 usc_title: 26
 usc_section: "9033"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 9033"
-generated_at: "2026-03-30T02:55:27.890Z"
+generated_at: "2026-11-23T20:26:46.869Z"
+status: "active"
 ---
 
 # § 9033. Eligibility for payments
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:27.890Z"
   - **(4)**
     - **(A)** In any case in which an individual is ineligible to receive payments under section 9037 as a result of the operation of paragraph (1)(A), the Commission may subsequently determine that such individual is a candidate upon a finding that such individual is actively seeking election to the office of President of the United States in more than one State. The Commission shall make such determination without requiring such individual to reestablish his eligibility to receive payments under subsection (a).
     - **(B)** Notwithstanding the provisions of paragraph (1)(B), a candidate whose payments have been terminated under paragraph (1)(B) may again receive payments (including amounts he would have received but for paragraph (1)(B)) if he receives 20 percent or more of the total number of votes cast for candidates of the same party in a primary election held after the date on which the election was held which was the basis for terminating payments to him.
+
+## Source Credit
+
+*(Added [Pub. L. 93–443, title IV, § 408(c)](https://www.govinfo.gov/link/plaw/93/public/443), Oct. 15, 1974, [88 Stat. 1299](https://www.govinfo.gov/link/statute/88/1299); amended [Pub. L. 94–283, title III](https://www.govinfo.gov/link/plaw/94/public/283), §§ 305(c), 306(b)(2), May 11, 1976, [90 Stat. 499](https://www.govinfo.gov/link/statute/90/499), 500.)*

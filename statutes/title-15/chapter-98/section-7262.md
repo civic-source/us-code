@@ -3,9 +3,10 @@ title: "Section 7262 - Management assessment of internal controls"
 usc_title: 15
 usc_section: "7262"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 7262"
-generated_at: "2026-03-30T02:54:08.221Z"
+generated_at: "2026-11-23T20:26:04.446Z"
+status: "active"
 ---
 
 # § 7262. Management assessment of internal controls
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:08.221Z"
   - **(2)** contain an assessment, as of the end of the most recent fiscal year of the issuer, of the effectiveness of the internal control structure and procedures of the issuer for financial reporting.
 - **(b)** With respect to the internal control assessment required by subsection (a), each registered public accounting firm that prepares or issues the audit report for the issuer, other than an issuer that is an emerging growth company (as defined in section 78c of this title ), shall attest to, and report on, the assessment made by the management of the issuer. An attestation made under this subsection shall be made in accordance with standards for attestation engagements issued or adopted by the Board. Any such attestation shall not be the subject of a separate engagement.
 - **(c)** Subsection (b) shall not apply with respect to any audit report prepared for an issuer that is neither a “large accelerated filer” nor an “accelerated filer” as those terms are defined in Rule 12b–2 of the Commission (17 C.F.R. 240.12b–2).
+
+## Source Credit
+
+*([Pub. L. 107–204, title IV, § 404](https://www.govinfo.gov/link/plaw/107/public/204), July 30, 2002, [116 Stat. 789](https://www.govinfo.gov/link/statute/116/789); [Pub. L. 111–203, title IX, § 989G(a)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1948](https://www.govinfo.gov/link/statute/124/1948); [Pub. L. 112–106, title I, § 103](https://www.govinfo.gov/link/plaw/112/public/106), Apr. 5, 2012, [126 Stat. 310](https://www.govinfo.gov/link/statute/126/310).)*

@@ -3,9 +3,10 @@ title: "Section 152305 - Powers"
 usc_title: 36
 usc_section: "152305"
 chapter: 1523
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 152305"
-generated_at: "2026-03-30T02:55:44.704Z"
+generated_at: "2026-11-23T20:26:58.997Z"
+status: "active"
 ---
 
 # § 152305. Powers
@@ -22,3 +23,21 @@ The corporation may—
   - **(8)** use corporate funds to give prizes, awards, loans, scholarships, and grants to deserving composers, conductors, and others for the purposes stated in section 152302 of this title and for other purposes the board of directors considers proper;
   - **(9)** sue and be sued; and
   - **(10)** do any other act necessary and proper to carry out the purposes of the corporation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 152305 | 36:664. | Aug. 1, 1956, ch. 824 , §§ 4, 18, 70 Stat. 795 , 797. |
+|  | 36:678. |  |
+
+
+Historical and Revision Notes
+
+152305
+
+Aug. 1, 1956, ch. 824
+
+70 Stat. 795
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1413](https://www.govinfo.gov/link/statute/112/1413).)*

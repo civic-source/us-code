@@ -3,9 +3,10 @@ title: "Section 16274 - Nuclear science and engineering support"
 usc_title: 42
 usc_section: "16274"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16274"
-generated_at: "2026-03-30T02:56:11.476Z"
+generated_at: "2026-11-23T20:27:23.641Z"
+status: "active"
 ---
 
 # § 16274. Nuclear science and engineering support
@@ -81,3 +82,13 @@ generated_at: "2026-03-30T02:56:11.476Z"
       - **(iii)** associated supply chains; and
       - **(iv)** workforce training and retraining to support transitioning workforces.
   - **(4)** There are authorized to be appropriated to the Secretary to carry out the subprogram under this subsection $5,000,000 for each of fiscal years 2023 through 2027.
+
+In general
+
+Focus areas
+
+“The purposes of this subtitle [subtitle L (§§ 10741–10745) of title VI of div. B of Pub. L. 117–167 , amending this section and section 16274a of this title and enacting provisions set out as notes under sections 15801 and 16274a of this title] are—
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 954](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 886](https://www.govinfo.gov/link/statute/119/886); [Pub. L. 115–248, § 2(d)](https://www.govinfo.gov/link/plaw/115/public/248), Sept. 28, 2018, [132 Stat. 3155](https://www.govinfo.gov/link/statute/132/3155); [Pub. L. 116–260, div. Z, title II, § 2003(c)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2463](https://www.govinfo.gov/link/statute/134/2463); [Pub. L. 117–58, div. D, title X, § 41002(b)(2)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1128](https://www.govinfo.gov/link/statute/135/1128); [Pub. L. 117–167, div. B, title VI](https://www.govinfo.gov/link/plaw/117/public/167), §§ 10743, 10744, Aug. 9, 2022, [136 Stat. 1718](https://www.govinfo.gov/link/statute/136/1718), 1719; [Pub. L. 117–263, div. E, title LIX, § 5914(2)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3449](https://www.govinfo.gov/link/statute/136/3449); [Pub. L. 118–31, div. C, title XXXI, § 3131(p)(2)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 803](https://www.govinfo.gov/link/statute/137/803).)*

@@ -3,9 +3,10 @@ title: "Section 3535 - Administrative provisions"
 usc_title: 42
 usc_section: "3535"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3535"
-generated_at: "2026-03-30T02:56:11.188Z"
+generated_at: "2026-11-23T20:27:22.290Z"
+status: "active"
 ---
 
 # § 3535. Administrative provisions
@@ -84,3 +85,11 @@ generated_at: "2026-03-30T02:56:11.188Z"
   - **(2)** Of the amounts authorized to be appropriated by this section, $96,000,000 shall be available for each of the fiscal years 1993 and 1994, which amounts shall be used to provide staff in regional, field, or zone offices of the Department of Housing and Urban Development to review, process, approve, and service applications for mortgage insurance under title II of the National Housing Act [ 12 U.S.C. 1707 et seq.] for housing consisting of 5 or more dwelling units.
   - **(3)** Of the amounts authorized to be appropriated to carry out this section, not less than $5,000,000 of such amount shall be available for each fiscal year exclusively for the purposes of providing ongoing training and capacity building for Department personnel.
 - **(t)** The Secretary shall ensure that all personnel employed in field offices of the Department who have responsibilities for administering the housing assistance program under section 8 of the United States Housing Act of 1937 ( 42 U.S.C. 1437f ) or the supportive housing program under section 202 of the Housing Act of 1959 ( 12 U.S.C. 1701q ), and an appropriate number of personnel in the headquarters office of the Department who have responsibilities for those programs, have received adequate training regarding how covered families (as that term is defined in section 202 of the LEGACY Act of 2003) can be served by existing affordable housing programs.
+
+In General
+
+Effective Date
+
+## Source Credit
+
+*([Pub. L. 89–174, § 7](https://www.govinfo.gov/link/plaw/89/public/174), Sept. 9, 1965, [79 Stat. 669](https://www.govinfo.gov/link/statute/79/669); [Pub. L. 90–284, title VIII, § 808(b)(2)](https://www.govinfo.gov/link/plaw/90/public/284), Apr. 11, 1968, [82 Stat. 84](https://www.govinfo.gov/link/statute/82/84); [Pub. L. 90–448, title VIII, § 807(d)](https://www.govinfo.gov/link/plaw/90/public/448), Aug. 1, 1968, [82 Stat. 544](https://www.govinfo.gov/link/statute/82/544); [Pub. L. 91–609, title I, § 120(c)](https://www.govinfo.gov/link/plaw/91/public/609), title IX, §§ 905, 906, Dec. 31, 1970, [84 Stat. 1775](https://www.govinfo.gov/link/statute/84/1775), 1809, 1811; [Pub. L. 94–375](https://www.govinfo.gov/link/plaw/94/public/375), §§ 17(d), 21, Aug. 3, 1976, [90 Stat. 1077](https://www.govinfo.gov/link/statute/90/1077); [Pub. L. 95–557, title III](https://www.govinfo.gov/link/plaw/95/public/557), §§ 316, 324, title IX, § 908, Oct. 31, 1978, [92 Stat. 2099](https://www.govinfo.gov/link/statute/92/2099), 2103, 2129; [Pub. L. 96–399, title III, § 334(a)](https://www.govinfo.gov/link/plaw/96/public/399), Oct. 8, 1980, [94 Stat. 1653](https://www.govinfo.gov/link/statute/94/1653); [Pub. L. 98–479, title I, § 104(b)](https://www.govinfo.gov/link/plaw/98/public/479), Oct. 17, 1984, [98 Stat. 2225](https://www.govinfo.gov/link/statute/98/2225); [Pub. L. 100–242, title V, § 563(a)](https://www.govinfo.gov/link/plaw/100/public/242), Feb. 5, 1988, [101 Stat. 1944](https://www.govinfo.gov/link/statute/101/1944); [Pub. L. 101–235, title I](https://www.govinfo.gov/link/plaw/101/public/235), §§ 106, 123, 124, 141, Dec. 15, 1989, [103 Stat. 2000](https://www.govinfo.gov/link/statute/103/2000), 2021, 2022, 2030; [Pub. L. 101–625, title IX, § 954(a)](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4420](https://www.govinfo.gov/link/statute/104/4420); [Pub. L. 102–550, title IX](https://www.govinfo.gov/link/plaw/102/public/550), §§ 902(b), (c), 929, Oct. 28, 1992, [106 Stat. 3867](https://www.govinfo.gov/link/statute/106/3867), 3887; [Pub. L. 103–233, title I, § 104](https://www.govinfo.gov/link/plaw/103/public/233), Apr. 11, 1994, [108 Stat. 363](https://www.govinfo.gov/link/statute/108/363); [Pub. L. 105–362, title VII, § 701(a)](https://www.govinfo.gov/link/plaw/105/public/362), Nov. 10, 1998, [112 Stat. 3287](https://www.govinfo.gov/link/statute/112/3287); [Pub. L. 106–400, § 2](https://www.govinfo.gov/link/plaw/106/public/400), Oct. 30, 2000, [114 Stat. 1675](https://www.govinfo.gov/link/statute/114/1675); [Pub. L. 108–186, title II, § 204](https://www.govinfo.gov/link/plaw/108/public/186), Dec. 16, 2003, [117 Stat. 2691](https://www.govinfo.gov/link/statute/117/2691).)*

@@ -3,9 +3,10 @@ title: "Section 7709 - Study of effects of commercial electronic mail"
 usc_title: 15
 usc_section: "7709"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 7709"
-generated_at: "2026-03-30T02:54:08.226Z"
+generated_at: "2026-11-23T20:26:04.468Z"
+status: "active"
 ---
 
 # § 7709. Study of effects of commercial electronic mail
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:08.226Z"
   - **(1)** an analysis of the extent to which technological and marketplace developments, including changes in the nature of the devices through which consumers access their electronic mail messages, may affect the practicality and effectiveness of the provisions of this chapter;
   - **(2)** analysis and recommendations concerning how to address commercial electronic mail that originates in or is transmitted through or to facilities or computers in other nations, including initiatives or policy positions that the Federal Government could pursue through international negotiations, fora, organizations, or institutions; and
   - **(3)** analysis and recommendations concerning options for protecting consumers, including children, from the receipt and viewing of commercial electronic mail that is obscene or pornographic.
+
+## Source Credit
+
+*([Pub. L. 108–187, § 10](https://www.govinfo.gov/link/plaw/108/public/187), Dec. 16, 2003, [117 Stat. 2716](https://www.govinfo.gov/link/statute/117/2716).)*

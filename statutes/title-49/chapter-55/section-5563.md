@@ -3,9 +3,10 @@ title: "Section 5563 - Conversion of certain rail passenger terminals"
 usc_title: 49
 usc_section: "5563"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 5563"
-generated_at: "2026-03-30T02:56:19.320Z"
+generated_at: "2026-11-23T20:27:34.691Z"
+status: "active"
 ---
 
 # § 5563. Conversion of certain rail passenger terminals
@@ -24,3 +25,49 @@ generated_at: "2026-03-30T02:56:19.320Z"
   - **(5)** the terminal and the conversion project meet other criteria prescribed by the Secretary of Transportation after consultation with the Council and Chairman.
 - **(b)** The Secretary of Transportation must employ consultants on whether the architectural integrity of the rail passenger terminal will be preserved under subsection (a)(3) of this section. The Secretary may decide that the architectural integrity will be preserved only if the consultants concur. The Council and Chairman shall recommend consultants to be employed by the Secretary. The consultants also may make recommendations referred to in subsection (a)(4) of this section.
 - **(c)** The Secretary of Transportation may not make a grant under this section for more than 80 percent of the total cost of converting a rail passenger terminal into an intermodal transportation terminal.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5563(a), (b) | 49 App.:1653(i)(2) (1st sentence). | Oct. 15, 1966 , Pub. L. 89–670 , 80 Stat. 931 , § 4(i)(2); added Oct. 28, 1974 , Pub. L. 93–496 , §§ 6, 15, 88 Stat. 1528 , 1533; May 26, 1975 , Pub. L. 94–25, § 13 , 89 Stat. 93 ; Oct. 5, 1978 , Pub. L. 95–421, § 14 , 92 Stat. 929 . |
+| 5563(c) | 49 App.:1653(i)(2) (last sentence). |  |
+
+
+Authority To Provide Assistance
+
+Architectural Integrity
+
+Government’s Share of Costs
+
+Historical and Revision Notes
+
+5563(a), (b)
+
+Oct. 15, 1966
+
+Pub. L. 89–670
+
+80 Stat. 931
+
+Oct. 28, 1974
+
+Pub. L. 93–496
+
+88 Stat. 1528
+
+May 26, 1975
+
+Pub. L. 94–25, § 13
+
+89 Stat. 93
+
+Oct. 5, 1978
+
+Pub. L. 95–421, § 14
+
+92 Stat. 929
+
+5563(c)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 851](https://www.govinfo.gov/link/statute/108/851).)*

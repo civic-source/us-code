@@ -3,9 +3,10 @@ title: "Section 659 - Consent by United States to income withholding, garnishmen
 usc_title: 42
 usc_section: "659"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 659"
-generated_at: "2026-03-30T02:56:10.884Z"
+generated_at: "2026-11-23T20:27:20.893Z"
+status: "active"
 ---
 
 # § 659. Consent by United States to income withholding, garnishment, and similar proceedings for enforcement of child support and alimony obligations
@@ -71,3 +72,43 @@ generated_at: "2026-03-30T02:56:10.884Z"
       - **(ii)** a court or an administrative agency of competent jurisdiction in any foreign country with which the United States has entered into an agreement which requires the United States to honor the process; or
       - **(iii)** an authorized official pursuant to an order of such a court or an administrative agency of competent jurisdiction or pursuant to State or local law; and
     - **(B)** which is directed to, and the purpose of which is to compel, a governmental entity which holds moneys which are otherwise payable to an individual to make a payment from the moneys to another party in order to satisfy a legal obligation of the individual to provide child support or make alimony payments.
+
+Jimmy Carter.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+William J. Clinton.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 459, as added [Pub. L. 93–647, § 101(a)](https://www.govinfo.gov/link/plaw/93/public/647), Jan. 4, 1975, [88 Stat. 2357](https://www.govinfo.gov/link/statute/88/2357); amended [Pub. L. 95–30, title V, § 501(a)](https://www.govinfo.gov/link/plaw/95/public/30), (b), May 23, 1977, [91 Stat. 157](https://www.govinfo.gov/link/statute/91/157); [Pub. L. 98–21, title III, § 335(b)(1)](https://www.govinfo.gov/link/plaw/98/public/21), Apr. 20, 1983, [97 Stat. 130](https://www.govinfo.gov/link/statute/97/130); [Pub. L. 104–193, title III, § 362(a)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2242](https://www.govinfo.gov/link/statute/110/2242); [Pub. L. 105–33, title V, § 5542(a)](https://www.govinfo.gov/link/plaw/105/public/33), (b), Aug. 5, 1997, [111 Stat. 631](https://www.govinfo.gov/link/statute/111/631); [Pub. L. 106–169, title II, § 251(b)(3)](https://www.govinfo.gov/link/plaw/106/public/169), Dec. 14, 1999, [113 Stat. 1855](https://www.govinfo.gov/link/statute/113/1855); [Pub. L. 109–435, title VI, § 604(f)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3242](https://www.govinfo.gov/link/statute/120/3242).)*

@@ -3,12 +3,17 @@ title: "Section 286m - Amount of loan; public-debt transaction; disposition of i
 usc_title: 22
 usc_section: "286m"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 286m"
-generated_at: "2026-03-30T02:55:05.319Z"
+generated_at: "2026-11-23T20:26:32.010Z"
+status: "active"
 ---
 
 # § 286m. Amount of loan; public-debt transaction; disposition of interest payments
 
 For the purpose of carrying out the agreement dated December 6, 1945 , between the United States and the United Kingdom, the Secretary of the Treasury is authorized to use as a public-debt transaction not to exceed $3,750,000,000 of the proceeds of any securities issued after July 15, 1946 , under chapter 31 of title 31, and the purposes for which securities may be issued under that chapter are extended to include such purpose. Payments to the United Kingdom under this section and section 286 l of this title and pursuant to the agreement and repayments thereof shall be treated as public-debt transactions of the United States. Payments of interest to the United States under the agreement shall be covered into the Treasury as miscellaneous receipts.
 
+
+## Source Credit
+
+*(July 15, 1946, ch. 577, § 2, [60 Stat. 535](https://www.govinfo.gov/link/statute/60/535).)*

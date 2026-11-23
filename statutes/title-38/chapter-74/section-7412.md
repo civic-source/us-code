@@ -3,12 +3,21 @@ title: "Section 7412 - Annual determination of staffing shortages; recruitment a
 usc_title: 38
 usc_section: "7412"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7412"
-generated_at: "2026-03-30T02:55:53.530Z"
+generated_at: "2026-11-23T20:27:02.017Z"
+status: "active"
 ---
 
 # § 7412. Annual determination of staffing shortages; recruitment and appointment for needed occupations
 
 - **(a)** Not later than September 30 of each year, the Inspector General of the Department shall determine, and the Secretary shall publish in the Federal Register, at a minimum, the five clinical occupations and the five nonclinical occupations of personnel of this title of the Department covered under section 7401 of this title for which there are the largest staffing shortages with respect to each medical center of the Department, as calculated over the five-year period preceding the determination.
 - **(b)** Notwithstanding sections 3304 and 3309 through 3318 of title 5, the Secretary may, upon a determination by the Inspector General under subsection (a) that there is a staffing shortage throughout the Department with respect to a particular occupation, recruit and directly appoint, during the fiscal year after the fiscal year during which such determination is made, qualified personnel to serve in that particular occupation for the Department.
+
+In General
+
+Recruitment and Appointment
+
+## Source Credit
+
+*(Added [Pub. L. 113–146, title III, § 301(a)(1)](https://www.govinfo.gov/link/plaw/113/public/146), Aug. 7, 2014, [128 Stat. 1784](https://www.govinfo.gov/link/statute/128/1784); amended [Pub. L. 114–315, title VIII, § 802(4)](https://www.govinfo.gov/link/plaw/114/public/315), Dec. 16, 2016, [130 Stat. 1592](https://www.govinfo.gov/link/statute/130/1592); [Pub. L. 115–46, title II, § 201](https://www.govinfo.gov/link/plaw/115/public/46), Aug. 12, 2017, [131 Stat. 959](https://www.govinfo.gov/link/statute/131/959).)*

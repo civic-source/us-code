@@ -3,9 +3,10 @@ title: "Section 3120 - Subsistence and land use decisions"
 usc_title: 16
 usc_section: "3120"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3120"
-generated_at: "2026-03-30T02:54:23.008Z"
+generated_at: "2026-11-23T20:26:20.628Z"
+status: "active"
 ---
 
 # § 3120. Subsistence and land use decisions
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:23.008Z"
 - **(b)** If the Secretary is required to prepare an environmental impact statement pursuant to section 4332(2)(C) of title 42 , he shall provide the notice and hearing and include the findings required by subsection (a) as part of such environmental impact statement.
 - **(c)** Nothing herein shall be construed to prohibit or impair the ability of the State or any Native Corporation to make land selections and receive land conveyances pursuant to the Alaska Statehood Act or the Alaska Native Claims Settlement Act [ 43 U.S.C. 1601 et seq.].
 - **(d)** After compliance with the procedural requirements of this section and other applicable law, the head of the appropriate Federal agency may manage or dispose of public lands under his primary jurisdiction for any of those uses or purposes authorized by this Act or other law.
+
+## Source Credit
+
+*([Pub. L. 96–487, title VIII, § 810](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2427](https://www.govinfo.gov/link/statute/94/2427).)*

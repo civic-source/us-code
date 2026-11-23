@@ -3,9 +3,10 @@ title: "Section 7714 - General remedial measures for new plant pests and noxious
 usc_title: 7
 usc_section: "7714"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7714"
-generated_at: "2026-03-30T02:53:42.461Z"
+generated_at: "2026-11-23T20:25:41.829Z"
+status: "active"
 ---
 
 # § 7714. General remedial measures for new plant pests and noxious weeds
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:42.461Z"
   - **(1)** To facilitate control of noxious weeds, the Secretary may develop a classification system to describe the status and action levels for noxious weeds. The classification system may include the current geographic distribution, relative threat, and actions initiated to prevent introduction or distribution.
   - **(2)** In conjunction with the classification system, the Secretary may develop integrated management plans for noxious weeds for the geographic region or ecological range where the noxious weed is found in the United States.
 - **(d)** No plant, biological control organism, plant product, plant pest, noxious weed, article, or means of conveyance shall be destroyed, exported, or returned to the shipping point of origin, or ordered to be destroyed, exported, or returned to the shipping point of origin under this section unless, in the opinion of the Secretary, there is no less drastic action that is feasible and that would be adequate to prevent the dissemination of any plant pest or noxious weed new to or not known to be widely prevalent or distributed within and throughout the United States.
+
+## Source Credit
+
+*([Pub. L. 106–224, title IV, § 414](https://www.govinfo.gov/link/plaw/106/public/224), June 20, 2000, [114 Stat. 444](https://www.govinfo.gov/link/statute/114/444); [Pub. L. 107–171, title X, § 10418(b)(1)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 508](https://www.govinfo.gov/link/statute/116/508).)*

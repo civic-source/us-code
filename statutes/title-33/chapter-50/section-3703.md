@@ -3,9 +3,10 @@ title: "Section 3703 - Interagency working group"
 usc_title: 33
 usc_section: "3703"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 3703"
-generated_at: "2026-03-30T02:55:41.143Z"
+generated_at: "2026-11-23T20:26:54.273Z"
+status: "active"
 ---
 
 # § 3703. Interagency working group
@@ -109,3 +110,7 @@ generated_at: "2026-03-30T02:55:41.143Z"
       - **(ii)** gaps in data; and
       - **(iii)** research needs; and
     - **(C)** that leverage existing platforms, where possible.
+
+## Source Credit
+
+*([Pub. L. 111–11, title XII, § 12404](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1437](https://www.govinfo.gov/link/statute/123/1437); [Pub. L. 116–271, title I, § 109](https://www.govinfo.gov/link/plaw/116/public/271), Dec. 31, 2020, [134 Stat. 3341](https://www.govinfo.gov/link/statute/134/3341); [Pub. L. 117–167, div. B, title VI, § 10644](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1673](https://www.govinfo.gov/link/statute/136/1673).)*

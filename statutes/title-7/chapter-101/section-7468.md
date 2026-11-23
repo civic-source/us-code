@@ -3,9 +3,10 @@ title: "Section 7468 - Enforcement"
 usc_title: 7
 usc_section: "7468"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7468"
-generated_at: "2026-03-30T02:53:42.454Z"
+generated_at: "2026-11-23T20:25:41.790Z"
+status: "active"
 ---
 
 # § 7468. Enforcement
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:42.454Z"
   - **(3)** A finding of the Secretary shall be set aside only if the finding is found to be unsupported by substantial evidence.
 - **(e)** Any person who fails to obey a cease-and-desist order issued by the Secretary after the cease-and-desist order has become final and unappealable, or after the appropriate United States district court has entered a final judgment in favor of the Secretary, shall be subject to a civil penalty assessed by the Secretary, after opportunity for a hearing and for judicial review under the procedures specified in subsections (c) and (d), of not more than $500 for each offense. Each day during which the failure continues shall be considered a separate violation of the cease-and-desist order.
 - **(f)** If a person fails to pay an assessment of a civil penalty after the assessment has become a final and unappealable order issued by the Secretary, or after the appropriate United States district court has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General for recovery of the amount assessed in the district court of the United States for any district in which the person resides or carries on business. In an action for recovery, the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
+
+## Source Credit
+
+*([Pub. L. 104–127, title V, § 559](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1071](https://www.govinfo.gov/link/statute/110/1071).)*

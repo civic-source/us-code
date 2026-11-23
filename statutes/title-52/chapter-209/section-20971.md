@@ -3,9 +3,10 @@ title: "Section 20971 - Certification and testing of voting systems"
 usc_title: 52
 usc_section: "20971"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "52 U.S.C. § 20971"
-generated_at: "2026-03-30T02:56:30.166Z"
+generated_at: "2026-11-23T20:27:36.978Z"
+status: "active"
 ---
 
 # § 20971. Certification and testing of voting systems
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:30.166Z"
 - **(e)**
   - **(1)** Not later than 180 days after December 18, 2025 , the Commission shall provide for the conduct of penetration testing as part of the testing, certification, decertification, and recertification of voting system hardware and software by the Commission based on accredited laboratories under this section.
   - **(2)** The Commission shall develop a program for the acceptance of the results of penetration testing on election systems. The penetration testing required by this subsection shall be required for Commission certification. The Commission shall vote on the selection of any entity identified. The requirements for such selection shall be based on consideration of an entity’s competence to conduct penetration testing under this subsection. The Commission may consult with the National Institute of Standards and Technology or any other appropriate Federal agency on lab selection criteria and other aspects of this program.
+
+## Source Credit
+
+*([Pub. L. 107–252, title II, § 231](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1684](https://www.govinfo.gov/link/statute/116/1684); [Pub. L. 119–60, div. F, title LXVIII, § 6805](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1657](https://www.govinfo.gov/link/statute/139/1657).)*

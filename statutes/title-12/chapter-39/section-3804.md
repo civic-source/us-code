@@ -3,9 +3,10 @@ title: "Section 3804 - Applicability of preemption provisions"
 usc_title: 12
 usc_section: "3804"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 3804"
-generated_at: "2026-03-30T02:53:53.498Z"
+generated_at: "2026-11-23T20:25:59.352Z"
+status: "active"
 ---
 
 # § 3804. Applicability of preemption provisions
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:53.498Z"
 - **(b)** An alternative mortgage transaction shall be deemed to have been undertaken during the preemption period to which this section applies if it—
   - **(1)** is funded or extended in whole or in part during the preemption period, regardless of whether pursuant to a commitment or other agreement therefor made prior to that period; or
   - **(2)** is a renewal, extension, refinancing, or other modification of an alternative mortgage transaction entered into before the preemption period and such renewal, extension, or other modification is made during such period with the written consent of any person obligated to repay such credit.
+
+## Source Credit
+
+*([Pub. L. 97–320, title VIII, § 805](https://www.govinfo.gov/link/plaw/97/public/320), Oct. 15, 1982, [96 Stat. 1547](https://www.govinfo.gov/link/statute/96/1547); [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title IV, § 472], Nov. 30, 1983, [97 Stat. 1237](https://www.govinfo.gov/link/statute/97/1237).)*

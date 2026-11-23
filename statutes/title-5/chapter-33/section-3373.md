@@ -3,9 +3,10 @@ title: "Section 3373 - Assignment of employees to State or local governments"
 usc_title: 5
 usc_section: "3373"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 3373"
-generated_at: "2026-03-30T02:52:56.005Z"
+generated_at: "2026-11-23T20:25:31.825Z"
+status: "active"
 ---
 
 # § 3373. Assignment of employees to State or local governments
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:52:56.005Z"
     - **(A)** bar the right of a claimant to the greater benefit conferred by either the State or local government or subchapter III of chapter 83 of this title for any part of the same period of time;
     - **(B)** deny to an employee an annuity accruing to him under subchapter III of chapter 83 of this title on account of service performed by him; or
     - **(C)** deny any concurrent benefit to him from the State or local government on account of the death of another individual.
+
+## Source Credit
+
+*(Added [Pub. L. 91–648, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/91/public/648), Jan. 5, 1971, [84 Stat. 1921](https://www.govinfo.gov/link/statute/84/1921); amended [Pub. L. 95–454, title VI, § 603(b)](https://www.govinfo.gov/link/plaw/95/public/454), title IX, § 906(a)(2), Oct. 13, 1978, [92 Stat. 1190](https://www.govinfo.gov/link/statute/92/1190), 1224; [Pub. L. 102–378, § 2(14)](https://www.govinfo.gov/link/plaw/102/public/378), Oct. 2, 1992, [106 Stat. 1347](https://www.govinfo.gov/link/statute/106/1347).)*

@@ -3,9 +3,10 @@ title: "Section 10363 - Review of State applications"
 usc_title: 34
 usc_section: "10363"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10363"
-generated_at: "2026-03-30T02:55:33.266Z"
+generated_at: "2026-11-23T20:26:50.460Z"
+status: "active"
 ---
 
 # § 10363. Review of State applications
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:33.266Z"
   - **(2)** before the approval of the application, the Bureau has made an affirmative finding in writing that the proposed project has been reviewed in accordance with this subchapter.
 - **(b)** Each application submitted under section 10362 of this title shall be considered approved, in whole or in part, by the Bureau not later than 45 days after first received unless the Bureau informs the applicant of specific reasons for disapproval.
 - **(c)** The Bureau shall not disapprove any application without first affording the applicant reasonable notice and an opportunity for reconsideration.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 1603](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 102–521, § 4(a)(3)](https://www.govinfo.gov/link/plaw/102/public/521), Oct. 25, 1992, [106 Stat. 3405](https://www.govinfo.gov/link/statute/106/3405).)*

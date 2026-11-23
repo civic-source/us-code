@@ -3,9 +3,10 @@ title: "Section 9545 - Report on Russian Federation influence on elections in Eu
 usc_title: 22
 usc_section: "9545"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9545"
-generated_at: "2026-03-30T02:55:05.468Z"
+generated_at: "2026-11-23T20:26:32.781Z"
+status: "active"
 ---
 
 # § 9545. Report on Russian Federation influence on elections in Europe and Eurasia
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.468Z"
   - **(2)** The term “Russian person” means—
     - **(A)** an individual who is a citizen or national of the Russian Federation; or
     - **(B)** an entity organized under the laws of the Russian Federation or otherwise subject to the jurisdiction of the Government of the Russian Federation.
+
+## Source Credit
+
+*([Pub. L. 115–44, title II, § 256](https://www.govinfo.gov/link/plaw/115/public/44), Aug. 2, 2017, [131 Stat. 930](https://www.govinfo.gov/link/statute/131/930).)*

@@ -3,9 +3,10 @@ title: "Section 28 - Parliamentary precedents of House of Representatives"
 usc_title: 2
 usc_section: "28"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 28"
-generated_at: "2026-03-30T02:53:04.785Z"
+generated_at: "2026-11-23T20:25:28.810Z"
+status: "active"
 ---
 
 # § 28. Parliamentary precedents of House of Representatives
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:04.785Z"
 - **(c)** For the purpose of carrying out each such compilation and preparation, the Parliamentarian may—
   - **(1)** subject to the approval of the Speaker, appoint (as employees of the House of Representatives) clerical and other personnel and fix their respective rates of pay; and
   - **(2)** utilize the services of personnel of the Library of Congress and the Government Publishing Office.
+
+## Source Credit
+
+*([Pub. L. 91–510, title III, § 331](https://www.govinfo.gov/link/plaw/91/public/510), Oct. 26, 1970, [84 Stat. 1186](https://www.govinfo.gov/link/statute/84/1186); [Pub. L. 113–235, div. H, title I, § 1301(b)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537).)*

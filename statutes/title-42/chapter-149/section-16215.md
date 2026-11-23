@@ -3,9 +3,10 @@ title: "Section 16215 - Electric transmission and distribution programs"
 usc_title: 42
 usc_section: "16215"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16215"
-generated_at: "2026-03-30T02:56:11.473Z"
+generated_at: "2026-11-23T20:27:23.629Z"
+status: "active"
 ---
 
 # § 16215. Electric transmission and distribution programs
@@ -65,3 +66,9 @@ generated_at: "2026-03-30T02:56:11.473Z"
     - **(C)** to model, simulate, and experiment with new market mechanisms and operating practices to understand and optimize those new methods before actual use; and
     - **(D)** to provide technical support and technology transfer to electric utilities and other participants in the domestic electric industry and marketplace.
 - **(g)** As part of the program described in subsection (a), the Secretary shall award a grant to a university research program to design and test, in consultation with the Tennessee Valley Authority, state-of-the-art optimization techniques for power flow through existing high voltage transmission lines.
+
+“In carrying out the amendments made by this title [enacting sections 16236, 17014, 17384a, 17387, and 17388 of this title and amending this section, section 17384 of this title and sections 3501 and 3502 of Title 25, Indians], the Secretary [probably means Secretary of Energy] shall coordinate with relevant entities to the maximum extent practicable, including—
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 925](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 865](https://www.govinfo.gov/link/statute/119/865); [Pub. L. 116–260, div. Z, title VIII, § 8004(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2583](https://www.govinfo.gov/link/statute/134/2583).)*

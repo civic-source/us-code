@@ -3,9 +3,10 @@ title: "Section 5191 - Procedure for declaration"
 usc_title: 42
 usc_section: "5191"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5191"
-generated_at: "2026-03-30T02:56:11.226Z"
+generated_at: "2026-11-23T20:27:22.496Z"
+status: "active"
 ---
 
 # § 5191. Procedure for declaration
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.226Z"
   - **(1)** The Chief Executive of an affected Indian tribal government may submit a request for a declaration by the President that an emergency exists consistent with the requirements of subsection (a).
   - **(2)** In implementing assistance authorized by the President under this subchapter in response to a request of the Chief Executive of an affected Indian tribal government for an emergency declaration, any reference in this subchapter or subchapter III (except sections 5153 and 5165d of this title) to a State or the Governor of a State is deemed to refer to an affected Indian tribal government or the Chief Executive of an affected Indian tribal government, as appropriate.
   - **(3)** Nothing in this subsection shall prohibit an Indian tribal government from receiving assistance under this subchapter through a declaration made by the President at the request of a State under subsection (a) if the President does not make a declaration under this subsection for the same incident.
+
+## Source Credit
+
+*([Pub. L. 93–288, title V, § 501](https://www.govinfo.gov/link/plaw/93/public/288), as added [Pub. L. 100–707, title I, § 107(a)](https://www.govinfo.gov/link/plaw/100/public/707), Nov. 23, 1988, [102 Stat. 4706](https://www.govinfo.gov/link/statute/102/4706); amended [Pub. L. 113–2, div. B, § 1110(b)](https://www.govinfo.gov/link/plaw/113/public/2), Jan. 29, 2013, [127 Stat. 48](https://www.govinfo.gov/link/statute/127/48).)*

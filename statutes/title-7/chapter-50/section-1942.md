@@ -3,9 +3,10 @@ title: "Section 1942 - Purposes of loans"
 usc_title: 7
 usc_section: "1942"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1942"
-generated_at: "2026-03-30T02:53:42.349Z"
+generated_at: "2026-11-23T20:25:41.358Z"
+status: "active"
 ---
 
 # § 1942. Purposes of loans
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:53:42.349Z"
 - **(e)**
   - **(1)** The Secretary shall develop ways to determine unit prices (or other appropriate forms of valuation) for crops and other agricultural products, the end use of which is intended to be in locally or regionally produced agricultural food products, to facilitate lending to local and regional food producers.
   - **(2)** The Secretary shall implement a mechanism for local and regional food producers to establish price history for the crops and other agricultural products produced by local and regional food producers.
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 312](https://www.govinfo.gov/link/plaw/87/public/128), Aug. 8, 1961, [75 Stat. 310](https://www.govinfo.gov/link/statute/75/310); [Pub. L. 87–703, title IV, § 401(4)](https://www.govinfo.gov/link/plaw/87/public/703), Sept. 27, 1962, [76 Stat. 632](https://www.govinfo.gov/link/statute/76/632); [Pub. L. 90–488, § 8](https://www.govinfo.gov/link/plaw/90/public/488), Aug. 15, 1968, [82 Stat. 771](https://www.govinfo.gov/link/statute/82/771); [Pub. L. 92–419, title I](https://www.govinfo.gov/link/plaw/92/public/419), §§ 120(b), 121, Aug. 30, 1972, [86 Stat. 665](https://www.govinfo.gov/link/statute/86/665); [Pub. L. 95–113, title XIV, § 1448(b)](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 1012](https://www.govinfo.gov/link/statute/91/1012); [Pub. L. 95–334, title I, § 115](https://www.govinfo.gov/link/plaw/95/public/334), Aug. 4, 1978, [92 Stat. 425](https://www.govinfo.gov/link/statute/92/425); [Pub. L. 96–438, § 1(3)](https://www.govinfo.gov/link/plaw/96/public/438), Oct. 13, 1980, [94 Stat. 1871](https://www.govinfo.gov/link/statute/94/1871); [Pub. L. 99–198, title XIII](https://www.govinfo.gov/link/plaw/99/public/198), §§ 1306, 1307, Dec. 23, 1985, [99 Stat. 1521](https://www.govinfo.gov/link/statute/99/1521); [Pub. L. 101–624, title XVIII, § 1818(b)](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3830](https://www.govinfo.gov/link/statute/104/3830); [Pub. L. 102–237, title V, § 501(b)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1866](https://www.govinfo.gov/link/statute/105/1866); [Pub. L. 102–552, title V, § 516(f)(1)(A)](https://www.govinfo.gov/link/plaw/102/public/552), (2), Oct. 28, 1992, [106 Stat. 4137](https://www.govinfo.gov/link/statute/106/4137), 4138; [Pub. L. 104–127, title VI, § 612(a)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1087](https://www.govinfo.gov/link/statute/110/1087); [Pub. L. 113–79, title V](https://www.govinfo.gov/link/plaw/113/public/79), §§ 5105, 5106(b)(2), Feb. 7, 2014, [128 Stat. 836](https://www.govinfo.gov/link/statute/128/836), 838.)*

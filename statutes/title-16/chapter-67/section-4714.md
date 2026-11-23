@@ -3,9 +3,10 @@ title: "Section 4714 - Ballast water management demonstration program"
 usc_title: 16
 usc_section: "4714"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 4714"
-generated_at: "2026-03-30T02:54:23.045Z"
+generated_at: "2026-11-23T20:26:20.750Z"
+status: "active"
 ---
 
 # § 4714. Ballast water management demonstration program
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:54:23.045Z"
     - **(B)** accept funds, facilities, equipment, or personnel from other Federal agencies; and
     - **(C)** accept donations of property and services.
   - **(2)** The Secretary of the Interior shall consult and cooperate with the International Maritime Organization and the Task Force in carrying out this section.
+
+## Source Credit
+
+*([Pub. L. 101–646, title I, § 1104](https://www.govinfo.gov/link/plaw/101/public/646), as added [Pub. L. 104–332, § 2(d)](https://www.govinfo.gov/link/plaw/104/public/332), Oct. 26, 1996, [110 Stat. 4083](https://www.govinfo.gov/link/statute/110/4083).)*

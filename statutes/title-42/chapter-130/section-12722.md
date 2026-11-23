@@ -3,9 +3,10 @@ title: "Section 12722 - Purposes"
 usc_title: 42
 usc_section: "12722"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12722"
-generated_at: "2026-03-30T02:56:11.430Z"
+generated_at: "2026-11-23T20:27:23.432Z"
+status: "active"
 ---
 
 # § 12722. Purposes
@@ -28,3 +29,7 @@ The purposes of this subchapter are—
   - **(11)** to establish for each participating jurisdiction a HOME Investment Trust Fund with a line of credit for investment in affordable housing, with repayments back to its HOME Investment Trust Fund being made available for reinvestment by the jurisdiction;
   - **(12)** to provide credit enhancement for affordable housing by utilizing the capacities of existing agencies and mortgage finance institutions when most efficient and supplementing their activities when appropriate; and
   - **(13)** to assist very low-income and low-income families to obtain the skills and knowledge necessary to become responsible homeowners and tenants.
+
+## Source Credit
+
+*([Pub. L. 101–625, title II, § 203](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4095](https://www.govinfo.gov/link/statute/104/4095).)*

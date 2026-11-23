@@ -3,9 +3,10 @@ title: "Section 321r - Transfer of equipment during a public health emergency"
 usc_title: 6
 usc_section: "321r"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 321r"
-generated_at: "2026-03-30T02:53:09.459Z"
+generated_at: "2026-11-23T20:25:34.705Z"
+status: "active"
 ---
 
 # § 321r. Transfer of equipment during a public health emergency
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:09.459Z"
         - **(I)** the Secretary of Health and Human Services; and
         - **(II)** the Committee on Appropriations and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Appropriations and the Committee on Homeland Security of the House of Representatives.
     - **(B)** Each inventory required to be made available under subparagraph (A) shall be submitted in unclassified form, but may include a classified annex.
+
+## Source Credit
+
+*([Pub. L. 107–296, title V, § 529](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 117–58, div. G, title IX, § 70953(f)(2)(A)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1315](https://www.govinfo.gov/link/statute/135/1315).)*

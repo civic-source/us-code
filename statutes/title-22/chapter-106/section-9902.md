@@ -3,9 +3,10 @@ title: "Section 9902 - Report from each mission on matters of commercial relatio
 usc_title: 22
 usc_section: "9902"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9902"
-generated_at: "2026-03-30T02:55:05.474Z"
+generated_at: "2026-11-23T20:26:32.803Z"
+status: "active"
 ---
 
 # § 9902. Report from each mission on matters of commercial relations
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:05.474Z"
   - **(1)** Data and other information regarding actions taken by each such mission or Institute during the previous year to foster commercial relations and safeguard United States economic and business interests in the country or region in which each such chief of mission and the Director serves.
   - **(2)** Each such mission’s and Institute’s anticipated economic and commercial priorities for the coming year.
 - **(b)** The Secretary of State, after receiving the information required under subsection (a), shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report, disaggregated by country or region, on activities and initiatives, including with appropriate examples, to create an enabling environment and otherwise promote United States economic and business interests in each such country or region, as well as information about significant foreign competition to United States businesses in the relevant country or region, including state-directed investments by foreign governments and United States strategic competitors in such country or region.
+
+## Source Credit
+
+*([Pub. L. 116–94, div. J, title VII, § 706](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3071](https://www.govinfo.gov/link/statute/133/3071).)*

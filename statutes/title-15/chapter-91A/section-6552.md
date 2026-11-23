@@ -3,9 +3,10 @@ title: "Section 6552 - Public awareness campaign"
 usc_title: 15
 usc_section: "6552"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 6552"
-generated_at: "2026-03-30T02:54:08.211Z"
+generated_at: "2026-11-23T20:26:04.399Z"
+status: "active"
 ---
 
 # § 6552. Public awareness campaign
@@ -16,3 +17,7 @@ The Federal Trade Commission shall carry out a nationwide program to increase pu
   - **(2)** establishing and carrying out a national outreach and education campaign regarding Internet safety utilizing various media and Internet-based resources;
   - **(3)** facilitating access to, and the exchange of, information regarding Internet safety to promote up-to-date knowledge regarding current issues; and
   - **(4)** facilitating access to Internet safety education and public awareness efforts the Commission considers appropriate by States, units of local government, schools, police departments, nonprofit organizations, and other appropriate entities.
+
+## Source Credit
+
+*([Pub. L. 110–385, title II, § 212](https://www.govinfo.gov/link/plaw/110/public/385), Oct. 10, 2008, [122 Stat. 4103](https://www.govinfo.gov/link/statute/122/4103).)*

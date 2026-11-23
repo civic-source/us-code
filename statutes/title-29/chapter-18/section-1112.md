@@ -3,9 +3,10 @@ title: "Section 1112 - Bonding"
 usc_title: 29
 usc_section: "1112"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1112"
-generated_at: "2026-03-30T02:55:18.718Z"
+generated_at: "2026-11-23T20:26:37.967Z"
+status: "active"
 ---
 
 # § 1112. Bonding
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:18.718Z"
 - **(c)** It shall be unlawful for any person to procure any bond required by subsection (a) from any surety or other company or through any agent or broker in whose business operations such plan or any party in interest in such plan has any control or significant financial interest, direct or indirect.
 - **(d)** Nothing in any other provision of law shall require any person, required to be bonded as provided in subsection (a) because he handles funds or other property of an employee benefit plan, to be bonded insofar as the handling by such person of the funds or other property of such plan is concerned.
 - **(e)** The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section including exempting a plan from the requirements of this section where he finds that (1) other bonding arrangements or (2) the overall financial condition of the plan would be adequate to protect the interests of the beneficiaries and participants. When, in the opinion of the Secretary, the administrator of a plan offers adequate evidence of the financial responsibility of the plan, or that other bonding arrangements would provide adequate protection of the beneficiaries and participants, he may exempt such plan from the requirements of this section.
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 412](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 888](https://www.govinfo.gov/link/statute/88/888); [Pub. L. 109–280, title VI](https://www.govinfo.gov/link/plaw/109/public/280), §§ 611(b), 622(a), Aug. 17, 2006, [120 Stat. 968](https://www.govinfo.gov/link/statute/120/968), 979; [Pub. L. 116–94, div. O, title I, § 101(c)(2)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3144](https://www.govinfo.gov/link/statute/133/3144).)*

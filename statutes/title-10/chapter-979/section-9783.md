@@ -3,9 +3,10 @@ title: "Section 9783 - Johnston Atoll: reimbursement for support provided to civ
 usc_title: 10
 usc_section: "9783"
 chapter: 979
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 9783"
-generated_at: "2026-03-30T02:53:38.262Z"
+generated_at: "2026-11-23T20:25:52.368Z"
+status: "active"
 ---
 
 # § 9783. Johnston Atoll: reimbursement for support provided to civil air carriers
@@ -23,3 +24,17 @@ generated_at: "2026-03-30T02:53:38.262Z"
 - **(e)** In this section:
   - **(1)** The term “civil air carrier” means an air carrier (as defined in section 40102(a)(2) of title 49 ) that is issued a certificate of public convenience and necessity under section 41102 of such title.
   - **(2)** The term “support” includes fuel, fire rescue, use of facilities, improvements necessary to accommodate use by civil air carriers, police, safety, housing, food, air traffic control, suspension of military operations on the island (including operations at the Johnston Atoll Chemical Agent Demilitarization System), repairs, and any other construction, services, or supplies.
+
+Authority of the Secretary
+
+Amount of Charges
+
+Relationship to Landing Fees
+
+Disposition of Payments
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title III, § 383(a)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–86; amended [Pub. L. 107–107, div. A, title X, § 1048(a)(30)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1225](https://www.govinfo.gov/link/statute/115/1225).)*

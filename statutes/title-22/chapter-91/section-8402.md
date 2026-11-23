@@ -3,9 +3,10 @@ title: "Section 8402 - Findings"
 usc_title: 22
 usc_section: "8402"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8402"
-generated_at: "2026-03-30T02:55:05.450Z"
+generated_at: "2026-11-23T20:26:32.706Z"
+status: "active"
 ---
 
 # § 8402. Findings
@@ -24,3 +25,7 @@ Congress finds the following:
   - **(10)** During 2008 and 2009, the people of Pakistan have been especially hard hit by rising food and commodity prices and severe energy shortages, with ⅔ of the population living on less than $2 a day and ⅕ of the population living below the poverty line according to the United Nations Development Program.
   - **(11)** Economic growth is a fundamental foundation for human security and national stability in Pakistan, a country with more than 175,000,000 people, an annual population growth rate of two percent, and a ranking of 136 out of 177 countries in the United Nations Human Development Index.
   - **(12)** The 2009 Pakistani military offensive in the NWFP and the FATA displaced millions of residents in one of the gravest humanitarian crises Pakistan has faced, and despite the heroic efforts of Pakistanis to respond to the needs of the displaced millions and facilitate the return of many, it has highlighted the need for Pakistan to develop an effective national counterinsurgency strategy.
+
+## Source Credit
+
+*([Pub. L. 111–73, § 3](https://www.govinfo.gov/link/plaw/111/public/73), Oct. 15, 2009, [123 Stat. 2061](https://www.govinfo.gov/link/statute/123/2061).)*

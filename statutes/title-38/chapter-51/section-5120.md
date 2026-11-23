@@ -3,9 +3,10 @@ title: "Section 5120 - Payment of benefits; delivery"
 usc_title: 38
 usc_section: "5120"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 5120"
-generated_at: "2026-03-30T02:55:53.520Z"
+generated_at: "2026-11-23T20:27:01.951Z"
+status: "active"
 ---
 
 # § 5120. Payment of benefits; delivery
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:53.520Z"
 - **(f)**
   - **(1)** In the case of a payee who does not have a mailing address, payments of monetary benefits under laws administered by the Secretary shall be delivered under an appropriate method prescribed pursuant to paragraph (2) of this subsection.
   - **(2)** The Secretary shall prescribe an appropriate method or methods for the delivery of payments of monetary benefits under laws administered by the Secretary in cases described in paragraph (1) of this subsection. To the maximum extent practicable, such method or methods shall be designed to ensure the delivery of payments in such cases.
+
+## Source Credit
+
+*([Pub. L. 85–857](https://www.govinfo.gov/link/plaw/85/public/857), Sept. 2, 1958, [72 Stat. 1227](https://www.govinfo.gov/link/statute/72/1227), § 3020; [Pub. L. 95–117, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/95/public/117), (b)(1), Oct. 3, 1977, [91 Stat. 1065](https://www.govinfo.gov/link/statute/91/1065), 1066; [Pub. L. 97–295, § 4(73)](https://www.govinfo.gov/link/plaw/97/public/295), Oct. 12, 1982, [96 Stat. 1310](https://www.govinfo.gov/link/statute/96/1310); [Pub. L. 99–570, title XI, § 11007(a)(2)](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–170](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 99–576, title VII, § 701(65)](https://www.govinfo.gov/link/plaw/99/public/576), Oct. 28, 1986, [100 Stat. 3296](https://www.govinfo.gov/link/statute/100/3296); renumbered § 5120, [Pub. L. 102–40, title IV, § 402(b)(1)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238); [Pub. L. 102–83, § 4(a)(1)](https://www.govinfo.gov/link/plaw/102/public/83), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 403–405](https://www.govinfo.gov/link/statute/105/403).)*

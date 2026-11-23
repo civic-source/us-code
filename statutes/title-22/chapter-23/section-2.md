@@ -3,9 +3,10 @@ title: "Section 2 - Coordination with transportation authorities and industry on
 usc_title: 22
 usc_section: "2"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2"
-generated_at: "2026-03-30T02:55:05.338Z"
+generated_at: "2026-11-23T20:26:32.143Z"
+status: "active"
 ---
 
 # § 1741c–2. Coordination with transportation authorities and industry on Department of State travel advisories
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:05.338Z"
   - **(2)** efforts to improve the visibility and expand the reach of Department of State travel advisories concerning the risks to United States nationals of wrongful or unlawful detention and hostage-taking abroad; and
   - **(3)** additional recommendations on steps the United States Government might take to improve the awareness of United States nationals of the risk of wrongful or unlawful detention and hostage-taking abroad.
 - **(d)** In this section, the term “covered country” means a country for which a Department of State travel advisory contains either the “K—Kidnapping or Hostage Taking” or “D—Wrongful Detention” Risk Indicators.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. FF, title III, § 305B](https://www.govinfo.gov/link/plaw/116/public/260), as added [Pub. L. 118–159, div. G, title LXXVII, § 7705](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2554](https://www.govinfo.gov/link/statute/138/2554).)*

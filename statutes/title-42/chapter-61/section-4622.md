@@ -3,9 +3,10 @@ title: "Section 4622 - Moving and related expenses"
 usc_title: 42
 usc_section: "4622"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4622"
-generated_at: "2026-03-30T02:56:11.206Z"
+generated_at: "2026-11-23T20:27:22.400Z"
+status: "active"
 ---
 
 # § 4622. Moving and related expenses
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:11.206Z"
       - **(ii)** any transportation system;
       - **(iii)** any communications system (including cable television); and
       - **(iv)** any fixtures, equipment, or other property associated with the operation, maintenance, or repair of any such system;
+
+## Source Credit
+
+*([Pub. L. 91–646, title II, § 202](https://www.govinfo.gov/link/plaw/91/public/646), Jan. 2, 1971, [84 Stat. 1895](https://www.govinfo.gov/link/statute/84/1895); [Pub. L. 100–17, title IV, § 405](https://www.govinfo.gov/link/plaw/100/public/17), Apr. 2, 1987, [101 Stat. 249](https://www.govinfo.gov/link/statute/101/249); [Pub. L. 112–141, div. A, title I, § 1521(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 577](https://www.govinfo.gov/link/statute/126/577).)*

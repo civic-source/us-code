@@ -3,9 +3,10 @@ title: "Section 7526A - Return preparation programs for applicable taxpayers"
 usc_title: 26
 usc_section: "7526A"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 7526A"
-generated_at: "2026-03-30T02:55:27.878Z"
+generated_at: "2026-11-23T20:26:46.800Z"
+status: "active"
 ---
 
 # § 7526A. Return preparation programs for applicable taxpayers
@@ -73,3 +74,7 @@ generated_at: "2026-03-30T02:55:27.878Z"
   - **(3)** Qualified return preparation programs receiving a grant under this section are encouraged, in appropriate cases, to—
     - **(A)** advise taxpayers of the availability of, and eligibility requirements for receiving, advice and assistance from qualified low-income taxpayer clinics receiving funding under section 7526, and
     - **(B)** provide information regarding the location of, and contact information for, such clinics.
+
+## Source Credit
+
+*(Added [Pub. L. 116–25, title I, § 1401(a)](https://www.govinfo.gov/link/plaw/116/public/25), July 1, 2019, [133 Stat. 993](https://www.govinfo.gov/link/statute/133/993).)*

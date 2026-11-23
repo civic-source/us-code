@@ -3,9 +3,10 @@ title: "Section 1182 - Prohibiting discrimination against individual participant
 usc_title: 29
 usc_section: "1182"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1182"
-generated_at: "2026-03-30T02:55:18.723Z"
+generated_at: "2026-11-23T20:26:37.990Z"
+status: "active"
 ---
 
 # § 1182. Prohibiting discrimination against individual participants and beneficiaries based on health status
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:55:18.723Z"
 - **(f)** Any reference in this part to genetic information concerning an individual or family member of an individual shall—
   - **(1)** with respect to such an individual or family member of an individual who is a pregnant woman, include genetic information of any fetus carried by such pregnant woman; and
   - **(2)** with respect to an individual or family member utilizing an assisted reproductive technology, include genetic information of any embryo legally held by the individual or family member.
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 702](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 104–191, title I, § 101(a)](https://www.govinfo.gov/link/plaw/104/public/191), Aug. 21, 1996, [110 Stat. 1945](https://www.govinfo.gov/link/statute/110/1945); amended [Pub. L. 110–233, title I, § 101(a)](https://www.govinfo.gov/link/plaw/110/public/233) –(c), May 21, 2008, [122 Stat. 883](https://www.govinfo.gov/link/statute/122/883), 885.)*

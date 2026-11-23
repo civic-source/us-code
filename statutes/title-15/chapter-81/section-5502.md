@@ -3,9 +3,10 @@ title: "Section 5502 - Purposes"
 usc_title: 15
 usc_section: "5502"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 5502"
-generated_at: "2026-03-30T02:54:08.207Z"
+generated_at: "2026-11-23T20:26:04.372Z"
+status: "active"
 ---
 
 # § 5502. Purposes
@@ -23,3 +24,7 @@ The purposes of this chapter are to help ensure the continued leadership of the 
   - **(2)** improving the interagency planning and coordination of Federal research and development on networking and information technology and maximizing the effectiveness of the Federal Government’s networking and information technology research and development programs;
   - **(3)** promoting the more rapid development and wider distribution of networking management and development tools; and
   - **(4)** promoting the rapid adoption of open network standards.
+
+## Source Credit
+
+*([Pub. L. 102–194, § 3](https://www.govinfo.gov/link/plaw/102/public/194), Dec. 9, 1991, [105 Stat. 1594](https://www.govinfo.gov/link/statute/105/1594); [Pub. L. 105–305, § 3(b)](https://www.govinfo.gov/link/plaw/105/public/305), Oct. 28, 1998, [112 Stat. 2920](https://www.govinfo.gov/link/statute/112/2920); [Pub. L. 114–329, title I, § 105(c)](https://www.govinfo.gov/link/plaw/114/public/329), Jan. 6, 2017, [130 Stat. 2976](https://www.govinfo.gov/link/statute/130/2976).)*

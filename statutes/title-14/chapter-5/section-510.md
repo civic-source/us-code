@@ -3,9 +3,10 @@ title: "Section 510 - Conveyance of Coast Guard vessels for public purposes"
 usc_title: 14
 usc_section: "510"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 510"
-generated_at: "2026-03-30T02:53:51.489Z"
+generated_at: "2026-11-23T20:25:54.527Z"
+status: "active"
 ---
 
 # § 510. Conveyance of Coast Guard vessels for public purposes
@@ -18,3 +19,15 @@ generated_at: "2026-03-30T02:53:51.489Z"
   - **(4)** to hold the United States Government harmless for any claims arising from exposure to hazardous materials, including asbestos and polychlorinated biphenyls, that occurs after conveyance of the vessel, except for claims arising from use of the vessel by the United States Government under paragraph (3).
 - **(c)** Nothing in this section amends or affects any obligation of the Coast Guard or any other person under the Toxic Substances Control Act ( 15 U.S.C. 2601 et seq.) or any other law regarding use or disposal of hazardous materials including asbestos and polychlorinated biphenyls.
 - **(d)** In this section, the term “eligible entity” means a State or local government, nonprofit corporation, educational agency, community development organization, or other entity that agrees to comply with the conditions established under this section.
+
+In General
+
+Conditions of Conveyance
+
+Other Obligations Unaffected
+
+Eligible Entity Defined
+
+## Source Credit
+
+*(Added and amended [Pub. L. 117–263, div. K, title CXII, § 11258(a)](https://www.govinfo.gov/link/plaw/117/public/263), (c), Dec. 23, 2022, [136 Stat. 4057](https://www.govinfo.gov/link/statute/136/4057).)*

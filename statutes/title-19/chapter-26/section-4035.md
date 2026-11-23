@@ -3,9 +3,10 @@ title: "Section 4035 - Enforcement relating to trade in textile or apparel goods
 usc_title: 19
 usc_section: "4035"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 4035"
-generated_at: "2026-03-30T02:54:24.700Z"
+generated_at: "2026-11-23T20:26:11.115Z"
+status: "active"
 ---
 
 # § 4035. Enforcement relating to trade in textile or apparel goods
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:24.700Z"
 - **(e)** The Secretary may publish the name of any person that the Secretary has determined—
   - **(1)** is engaged in intentional circumvention of applicable laws, regulations, or procedures affecting trade in textile or apparel goods; or
   - **(2)** has failed to demonstrate that it produces, or is capable of producing, textile or apparel goods.
+
+## Source Credit
+
+*([Pub. L. 109–53, title II, § 209](https://www.govinfo.gov/link/plaw/109/public/53), Aug. 2, 2005, [119 Stat. 486](https://www.govinfo.gov/link/statute/119/486).)*

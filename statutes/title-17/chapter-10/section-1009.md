@@ -3,9 +3,10 @@ title: "Section 1009 - Civil remedies"
 usc_title: 17
 usc_section: "1009"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 1009"
-generated_at: "2026-03-30T02:54:15.356Z"
+generated_at: "2026-11-23T20:26:06.542Z"
+status: "active"
 ---
 
 # § 1009. Civil remedies
@@ -33,3 +34,37 @@ generated_at: "2026-03-30T02:54:15.356Z"
 - **(g)** In an action brought under subsection (a), the court may, as part of a final judgment or decree finding a violation of section 1002, order the remedial modification or the destruction of any digital audio recording device, digital musical recording, or device specified in section 1002(c) that—
   - **(1)** does not comply with, or was involved in a violation of, section 1002, and
   - **(2)** is in the custody or control of the violator or has been impounded under subsection (f).
+
+Civil Actions
+
+Other Civil Actions
+
+Powers of the Court
+
+Award of Damages.—
+
+Damages for section 1002 or 1003 violations.—
+
+Actual damages
+
+Statutory damages for section 1002 violations.—
+
+Device
+
+Digital musical recording
+
+Transmission
+
+Repeated violations
+
+Innocent violations of section 1002
+
+Payment of Damages
+
+Impounding of Articles
+
+Remedial Modification and Destruction of Articles
+
+## Source Credit
+
+*(Added [Pub. L. 102–563, § 2](https://www.govinfo.gov/link/plaw/102/public/563), Oct. 28, 1992, [106 Stat. 4245](https://www.govinfo.gov/link/statute/106/4245).)*

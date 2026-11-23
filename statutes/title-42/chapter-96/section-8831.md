@@ -3,9 +3,10 @@ title: "Section 8831 - Municipal waste energy development plan"
 usc_title: 42
 usc_section: "8831"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8831"
-generated_at: "2026-03-30T02:56:11.348Z"
+generated_at: "2026-11-23T20:27:23.063Z"
+status: "active"
 ---
 
 # § 8831. Municipal waste energy development plan
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.348Z"
   - **(4)** the specific funding requirements for individual program elements and activities, including the total estimated construction costs of proposed projects; and
   - **(5)** the estimated relative financial contributions of the Federal Government and non-Federal participants in the program.
 - **(d)** Not later than January 1, 1982 , the Secretary shall prepare and submit to the President and the Congress a report containing a complete description of any financial, institutional, environmental, and social barriers to the development and application of technologies for the recovery of energy from municipal wastes.
+
+## Source Credit
+
+*([Pub. L. 96–294, title II, § 231](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 696](https://www.govinfo.gov/link/statute/94/696).)*

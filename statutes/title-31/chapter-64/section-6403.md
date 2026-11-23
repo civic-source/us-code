@@ -3,9 +3,10 @@ title: "Section 6403 - Guidance applying data standards for grant reporting"
 usc_title: 31
 usc_section: "6403"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 6403"
-generated_at: "2026-03-30T02:55:34.072Z"
+generated_at: "2026-11-23T20:26:51.908Z"
+status: "active"
 ---
 
 # § 6403. Guidance applying data standards for grant reporting
@@ -22,3 +23,17 @@ generated_at: "2026-03-30T02:55:34.072Z"
 - **(c)**
   - **(1)** Not less frequently than once every 10 years, the Director shall update the guidance issued under subsection (a).
   - **(2)** In updating guidance under paragraph (1), the Director shall, to the maximum extent practicable, follow the procedures for the development of the data standards and guidance prescribed under this section and section 6402.
+
+In General
+
+Guidance
+
+Updating Guidance.—
+
+In general
+
+Procedures
+
+## Source Credit
+
+*(Added [Pub. L. 116–103, § 4(a)](https://www.govinfo.gov/link/plaw/116/public/103), Dec. 30, 2019, [133 Stat. 3269](https://www.govinfo.gov/link/statute/133/3269).)*

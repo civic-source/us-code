@@ -3,9 +3,10 @@ title: "Section 78ee - Transaction fees"
 usc_title: 15
 usc_section: "78ee"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 78ee"
-generated_at: "2026-03-30T02:54:08.060Z"
+generated_at: "2026-11-23T20:26:03.568Z"
+status: "active"
 ---
 
 # § 78ee. Transaction fees
@@ -43,3 +44,31 @@ generated_at: "2026-03-30T02:54:08.060Z"
     - **(A)** an itemization of the amount of funds necessary to carry out the functions of the Commission.
     - **(B)** an amount to be designated as contingency funding to be used by the Commission to address unanticipated needs; and
     - **(C)** a designation of any activities of the Commission for which multi-year budget authority would be suitable.
+
+“The amendments made by this subsection [amending this section] shall take effect on the later of—
+
+In General
+
+Immediate Transaction Fee Reductions
+
+Additional Exceptions
+
+In general
+
+Off-exchange trades of last sale reported transactions
+
+Definitions
+
+Credit for Overpayment of Fees
+
+Applicability
+
+Study
+
+Factors for Consideration
+
+Report to Congress
+
+## Source Credit
+
+*(June 6, 1934, ch. 404, title I, § 31, [48 Stat. 904](https://www.govinfo.gov/link/statute/48/904); Mar. 17, 1944, ch. 101, [58 Stat. 117](https://www.govinfo.gov/link/statute/58/117); [Pub. L. 94–29, § 22](https://www.govinfo.gov/link/plaw/94/public/29), June 4, 1975, [89 Stat. 162](https://www.govinfo.gov/link/statute/89/162); [Pub. L. 104–290, title IV, § 405(a)](https://www.govinfo.gov/link/plaw/104/public/290), Oct. 11, 1996, [110 Stat. 3442](https://www.govinfo.gov/link/statute/110/3442); [Pub. L. 105–353, title III, § 301(b)(14)](https://www.govinfo.gov/link/plaw/105/public/353), Nov. 3, 1998, [112 Stat. 3236](https://www.govinfo.gov/link/statute/112/3236); [Pub. L. 106–554, § 1(a)(5) [title II, § 206(f)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–432; [Pub. L. 107–123](https://www.govinfo.gov/link/plaw/107/public/123), §§ 2, 3, Jan. 16, 2002, [115 Stat. 2390](https://www.govinfo.gov/link/statute/115/2390); [Pub. L. 111–203, title IX, § 991(a)(1)](https://www.govinfo.gov/link/plaw/111/public/203), (d)(1), July 21, 2010, [124 Stat. 1950](https://www.govinfo.gov/link/statute/124/1950), 1954.)*

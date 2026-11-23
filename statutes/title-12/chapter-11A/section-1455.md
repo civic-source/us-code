@@ -3,9 +3,10 @@ title: "Section 1455 - Obligations and securities of the Corporation"
 usc_title: 12
 usc_section: "1455"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1455"
-generated_at: "2026-03-30T02:53:53.394Z"
+generated_at: "2026-11-23T20:25:58.844Z"
+status: "active"
 ---
 
 # § 1455. Obligations and securities of the Corporation
@@ -61,3 +62,9 @@ generated_at: "2026-03-30T02:53:53.394Z"
   - **(3)** For the purpose of the authorities granted in this subsection, the Secretary of the Treasury may use the proceeds of the sale of any securities issued under chapter 31 of Title 31, and the purposes for which securities may be issued under chapter 31 of Title 31 are extended to include such purchases and the exercise of any rights in connection with such purchases. Any funds expended for the purchase of, or modifications to, obligations and securities, or the exercise of any rights received in connection with such purchases under this subsection shall be deemed appropriated at the time of such purchase, modification, or exercise.
   - **(4)** The authority under this subsection ( l ), with the exception of paragraphs (2) and (3) of this subsection, shall expire December 31, 2009 .
   - **(5)** The Director shall have the power to approve, disapprove, or modify the executive compensation of the Corporation, as defined under Regulation S-K, 17 C.F.R. 229.
+
+“Any periodic commitment fee or any other fee or assessment paid by the Federal National Mortgage Association or Federal Home Loan Mortgage Corporation to the Secretary of the Treasury as a result of any preferred stock purchase agreement, mortgage-backed security purchase program, or any other program or activity authorized or carried out pursuant to the authorities granted to the Secretary of the Treasury under section 1117 of the Housing and Economic Recovery Act of 2008 ( Public Law 110–289 ; 122 Stat. 2683 ) [amending this section and sections 1431 and 1719 of this title], including any fee agreed to by contract between the Secretary and the Association or Corporation, shall be deposited in the General Fund of the Treasury where such amounts shall be—
+
+## Source Credit
+
+*([Pub. L. 91–351, title III, § 306](https://www.govinfo.gov/link/plaw/91/public/351), July 24, 1970, [84 Stat. 455](https://www.govinfo.gov/link/statute/84/455); [Pub. L. 96–153, title III, § 316(a)](https://www.govinfo.gov/link/plaw/96/public/153), Dec. 21, 1979, [93 Stat. 1118](https://www.govinfo.gov/link/statute/93/1118); [Pub. L. 97–289, § 6](https://www.govinfo.gov/link/plaw/97/public/289), Oct. 6, 1982, [96 Stat. 1232](https://www.govinfo.gov/link/statute/96/1232); [Pub. L. 98–35, § 5](https://www.govinfo.gov/link/plaw/98/public/35), May 26, 1983, [97 Stat. 198](https://www.govinfo.gov/link/statute/97/198); [Pub. L. 98–440, title II](https://www.govinfo.gov/link/plaw/98/public/440), §§ 210, 211, Oct. 3, 1984, [98 Stat. 1697](https://www.govinfo.gov/link/statute/98/1697); [Pub. L. 100–242, title IV, § 441(b)](https://www.govinfo.gov/link/plaw/100/public/242), Feb. 5, 1988, [101 Stat. 1921](https://www.govinfo.gov/link/statute/101/1921); [Pub. L. 101–73, title VII, § 731(g)](https://www.govinfo.gov/link/plaw/101/public/73) –(i), Aug. 9, 1989, [103 Stat. 434](https://www.govinfo.gov/link/statute/103/434); [Pub. L. 102–550, title XIII, § 1382(n)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 4005](https://www.govinfo.gov/link/statute/106/4005); [Pub. L. 110–289, div. A, title I](https://www.govinfo.gov/link/plaw/110/public/289), §§ 1117(b), 1161(c)(2), July 30, 2008, [122 Stat. 2684](https://www.govinfo.gov/link/statute/122/2684), 2780; [Pub. L. 111–203, title XIII, § 1304(b)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2134](https://www.govinfo.gov/link/statute/124/2134).)*

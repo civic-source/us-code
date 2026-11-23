@@ -3,9 +3,10 @@ title: "Section 2595d - Annual report on comprehensive nuclear-test-ban treaty s
 usc_title: 22
 usc_section: "2595d"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2595d"
-generated_at: "2026-03-30T02:55:05.373Z"
+generated_at: "2026-11-23T20:26:32.342Z"
+status: "active"
 ---
 
 # § 2595d. Annual report on comprehensive nuclear-test-ban treaty sensors
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.373Z"
 - **(b)** In this section, the term “appropriate congressional committees” means—
   - **(1)** the Committee on Foreign Affairs and the Committee on Armed Services of the House of Representatives; and
   - **(2)** the Committee on Foreign Relations and the Committee on Armed Services of the Senate.
+
+## Source Credit
+
+*([Pub. L. 117–81, div. A, title XIII, § 1335](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2011](https://www.govinfo.gov/link/statute/135/2011).)*

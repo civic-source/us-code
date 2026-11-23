@@ -3,9 +3,10 @@ title: "Section 2414 - Determinations by Trade Representative"
 usc_title: 19
 usc_section: "2414"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2414"
-generated_at: "2026-03-30T02:54:24.673Z"
+generated_at: "2026-11-23T20:26:10.958Z"
+status: "active"
 ---
 
 # § 2414. Determinations by Trade Representative
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:54:24.673Z"
     - **(C)** may request the views of the United States International Trade Commission regarding the probable impact on the economy of the United States of the taking of action with respect to any goods or service.
   - **(2)** If the Trade Representative does not comply with the requirements of subparagraphs (A) and (B) of paragraph (1) because expeditious action is required, the Trade Representative shall, after making the determinations under subsection (a)(1), comply with such subparagraphs.
 - **(c)** The Trade Representative shall publish in the Federal Register any determination made under subsection (a)(1), together with a description of the facts on which such determination is based.
+
+## Source Credit
+
+*([Pub. L. 93–618, title III, § 304](https://www.govinfo.gov/link/plaw/93/public/618), as added [Pub. L. 96–39, title IX, § 901](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 297](https://www.govinfo.gov/link/statute/93/297); amended [Pub. L. 98–573, title III](https://www.govinfo.gov/link/plaw/98/public/573), §§ 304(d)(2)(C), 306(c)(2)(C)(ii), Oct. 30, 1984, [98 Stat. 3005](https://www.govinfo.gov/link/statute/98/3005), 3012; [Pub. L. 100–418, title I, § 1301(a)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1170](https://www.govinfo.gov/link/statute/102/1170); [Pub. L. 103–465, title III, § 314(d)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4940](https://www.govinfo.gov/link/statute/108/4940); [Pub. L. 104–295, § 20(c)(6)](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3528](https://www.govinfo.gov/link/statute/110/3528); [Pub. L. 108–429, title II, § 2201(a)](https://www.govinfo.gov/link/plaw/108/public/429), (b), Dec. 3, 2004, [118 Stat. 2598](https://www.govinfo.gov/link/statute/118/2598), 2599.)*

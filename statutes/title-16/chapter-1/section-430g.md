@@ -3,12 +3,21 @@ title: "Section 430g - Gettysburg National Military Park"
 usc_title: 16
 usc_section: "430g"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 430g"
-generated_at: "2026-03-30T02:54:22.795Z"
+generated_at: "2026-11-23T20:26:19.837Z"
+status: "active"
 ---
 
 # § 430g. Gettysburg National Military Park
 
 The lands heretofore conveyed by the Gettysburg Battlefield Memorial Association to the United States, embracing about 800 acres, more or less, and being a considerable part of the battlefield of Gettysburg, and such other lands on the battlefield as the United States has heretofore acquired or shall hereafter acquire by purchase or condemnation proceedings, shall be designated and known as the “Gettysburg National Park.” Nothing contained in this section shall be deemed and held to prejudice the rights acquired by any State or by any military organization to the ground on which its monuments or markers are placed, nor the right-of-way to the same. It shall be the duty of the Secretary of the Interior to establish and enforce proper regulations for the custody, preservation, and care of the monuments erected or which may be hereafter erected within the limits of the said national military park; and such rules shall provide for convenient access by visitors to all such monuments within the park, and the ground included therein, on such days and within such hours as may be designated and authorized by the Secretary of the Interior. The Secretary of the Interior may lease the lands of the park at his discretion either to former owners or other persons for agricultural purposes, the proceeds to be applied by the Secretary of the Interior, through the proper disbursing officer, to the maintenance of the park.
 
+
+Acquisition of Additional Lands
+
+Study by National Park Service
+
+## Source Credit
+
+*(Feb. 11, 1895, ch. 80, [28 Stat. 651](https://www.govinfo.gov/link/statute/28/651); June 4, 1897, ch. 2, § 1, [30 Stat. 44](https://www.govinfo.gov/link/statute/30/44); Ex. Ord. No. 6166, § 2, June 10, 1933; Ex. Ord. No. 6228, § 1, July 28, 1933; [Pub. L. 89–554, § 8(a)](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 637](https://www.govinfo.gov/link/statute/80/637).)*

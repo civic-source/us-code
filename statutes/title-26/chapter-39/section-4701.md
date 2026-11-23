@@ -3,9 +3,10 @@ title: "Section 4701 - Tax on issuer of registration-required obligation not in 
 usc_title: 26
 usc_section: "4701"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 4701"
-generated_at: "2026-03-30T02:55:27.805Z"
+generated_at: "2026-11-23T20:26:46.339Z"
+status: "active"
 ---
 
 # § 4701. Tax on issuer of registration-required obligation not in registered form
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:27.805Z"
       - **(ii)** interest on such obligation is payable only outside the United States and its possessions, and
       - **(iii)** on the face of such obligation there is a statement that any United States person who holds such obligation will be subject to limitations under the United States income tax laws.
   - **(2)** The term “registered form” has the same meaning as when used in section 163(f).
+
+## Source Credit
+
+*(Added [Pub. L. 97–248, title III, § 310(b)(4)(A)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 598](https://www.govinfo.gov/link/statute/96/598); amended [Pub. L. 99–514, title XIII, § 1301(j)(5)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2657](https://www.govinfo.gov/link/statute/100/2657); [Pub. L. 111–147, title V, § 502(e)](https://www.govinfo.gov/link/plaw/111/public/147), Mar. 18, 2010, [124 Stat. 108](https://www.govinfo.gov/link/statute/124/108).)*

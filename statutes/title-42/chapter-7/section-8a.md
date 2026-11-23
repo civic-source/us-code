@@ -3,9 +3,10 @@ title: "Section 8a - Administrative procedure for imposing penalties for false o
 usc_title: 42
 usc_section: "8a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8a"
-generated_at: "2026-03-30T02:56:10.913Z"
+generated_at: "2026-11-23T20:27:21.005Z"
+status: "active"
 ---
 
 # § 1320a–8a. Administrative procedure for imposing penalties for false or misleading statements
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:10.913Z"
   - **(2)** determination of the eligibility or amount of benefits payable under subchapter II or XVI to another person.
 - **(e)** In this section, the term “benefits under subchapter VIII or XVI” includes State supplementary payments made by the Commissioner pursuant to an agreement under section 1010a or 1382e(a) of this title or section 212(b) of Public Law 93–66 , as the case may be.
 - **(f)** The Commissioner of Social Security shall consult with the Inspector General of the Social Security Administration regarding initiating actions under this section.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XI, § 1129A, as added [Pub. L. 106–169, title II, § 207(a)](https://www.govinfo.gov/link/plaw/106/public/169), Dec. 14, 1999, [113 Stat. 1837](https://www.govinfo.gov/link/statute/113/1837); amended [Pub. L. 106–554, § 1(a)(1) [title V, § 518(b)(2)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–74; [Pub. L. 108–203, title II, § 201(a)(2)](https://www.govinfo.gov/link/plaw/108/public/203), Mar. 2, 2004, [118 Stat. 508](https://www.govinfo.gov/link/statute/118/508).)*

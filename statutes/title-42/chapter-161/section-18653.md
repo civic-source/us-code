@@ -3,9 +3,10 @@ title: "Section 18653 - Office of Science Biological Threat Preparedness Researc
 usc_title: 42
 usc_section: "18653"
 chapter: 161
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18653"
-generated_at: "2026-03-30T02:56:11.524Z"
+generated_at: "2026-11-23T20:27:23.815Z"
+status: "active"
 ---
 
 # § 18653. Office of Science Biological Threat Preparedness Research Initiative
@@ -53,3 +54,7 @@ generated_at: "2026-03-30T02:56:11.524Z"
   - **(2)** the collaborative research achievements of that initiative, including the achievement of the technical milestones determined under that subsection; and
   - **(3)** potential opportunities to expand the technical capabilities of the Department.
 - **(g)** Out of funds authorized to be appropriated for the Office of Science in a fiscal year, there is authorized to be appropriated to the Secretary to carry out the activities under this section $50,000,000 for each of fiscal years 2023 through 2027.
+
+## Source Credit
+
+*([Pub. L. 115–246, title III, § 315](https://www.govinfo.gov/link/plaw/115/public/246), as added [Pub. L. 117–167, div. B, title I, § 10112(a)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1461](https://www.govinfo.gov/link/statute/136/1461).)*

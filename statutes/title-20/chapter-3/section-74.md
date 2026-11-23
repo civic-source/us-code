@@ -3,9 +3,10 @@ title: "Section 74 - Maintenance"
 usc_title: 20
 usc_section: "74"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 74"
-generated_at: "2026-03-30T02:54:48.072Z"
+generated_at: "2026-11-23T20:26:14.213Z"
+status: "active"
 ---
 
 # § 74. Maintenance
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:48.072Z"
 - **(b)** The board is authorized to accept for the Smithsonian Institution and to hold and administer gifts, bequests, or devises of money, securities, or other property of whatsoever character for the benefit of the National Gallery of Art. Unless otherwise restricted by the terms of the gift, bequest, or devise, the board is authorized to sell or exchange and to invest or reinvest in such investments as it may determine from time to time the moneys, securities, or other property composing trust funds given, bequeathed, or devised to or for the benefit of the National Gallery of Art. The income as and when collected shall be placed in such depositaries as the board shall determine and shall be subject to expenditure by the board.
 - **(c)** The board shall appoint and fix the compensation and duties of a director, an assistant director, a secretary, and a chief curator of the National Gallery of Art, and of such other officers and employees of the National Gallery of Art as may be necessary for the efficient administration of the functions of the board. Such director, assistant director, secretary, and chief curator shall be compensated from trust funds available to the board for the purpose, and their appointment and salaries shall not be subject to the civil-service laws or chapter 51 and subchapter III of chapter 53 of title 5. The director, assistant director, secretary, and chief curator shall be well qualified by experience and training to perform the duties of their office and the original appointment to each such office shall be subject to the approval of the donor.
 - **(d)** The actions of the board, including any payment made or directed to be made by it from any trust funds, shall not be subject to review by any officer or agency other than a court of law.
+
+## Source Credit
+
+*(Mar. 24, 1937, ch. 50, § 4, [50 Stat. 52](https://www.govinfo.gov/link/statute/50/52); Apr. 13, 1939, ch. 61, [53 Stat. 577](https://www.govinfo.gov/link/statute/53/577); Oct. 28, 1949, ch. 782, title XI, § 1106(a), [63 Stat. 972](https://www.govinfo.gov/link/statute/63/972).)*

@@ -3,9 +3,10 @@ title: "Section 2164d - Limitation on school closures and certain other actions 
 usc_title: 10
 usc_section: "2164d"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2164d"
-generated_at: "2026-03-30T02:53:38.146Z"
+generated_at: "2026-11-23T20:25:51.476Z"
+status: "active"
 ---
 
 # § 2164d. Limitation on school closures and certain other actions with respect to schools operated by the Department of Defense Education Activity
@@ -36,3 +37,15 @@ generated_at: "2026-03-30T02:53:38.146Z"
     - **(F)** the Exceptional Family Member Program; and
     - **(G)** local educational agencies in the area of the affected school.
 - **(d)** In this section, the term “local educational agency” has the meaning given that term in section 8101 of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 7801 ).
+
+Limitation
+
+Actions Described
+
+Report
+
+Local Educational Agency Defined
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. A, title V, § 585(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 891](https://www.govinfo.gov/link/statute/139/891).)*

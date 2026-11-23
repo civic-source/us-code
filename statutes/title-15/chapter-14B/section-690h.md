@@ -3,9 +3,10 @@ title: "Section 690h - Operational assistance grants"
 usc_title: 15
 usc_section: "690h"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 690h"
-generated_at: "2026-03-30T02:54:08.112Z"
+generated_at: "2026-11-23T20:26:03.870Z"
+status: "active"
 ---
 
 # § 690h. Operational assistance grants
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:08.112Z"
   - **(1)** The Administrator may make supplemental grants to Renewable Fuel Capital Investment companies and to other entities, as authorized by this part, under such terms as the Administrator may require, to provide additional operational assistance to smaller enterprises financed, or expected to be financed, by the companies.
   - **(2)** The Administrator may require, as a condition of any supplemental grant made under this subsection, that the company or entity receiving the grant provide from resources (in a 1 1 So in original. The article probably should not appear. cash or in kind), other then 2 2 So in original. Probably should be “than”. those provided by the Administrator, a matching contribution equal to the amount of the supplemental grant.
 - **(c)** None of the assistance made available under this section may be used for any overhead or general and administrative expense of a Renewable Fuel Capital Investment company.
+
+## Source Credit
+
+*([Pub. L. 85–699, title III, § 389](https://www.govinfo.gov/link/plaw/85/public/699), as added [Pub. L. 110–140, title XII, § 1207](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1781](https://www.govinfo.gov/link/statute/121/1781).)*

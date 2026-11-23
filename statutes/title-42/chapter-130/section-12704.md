@@ -3,9 +3,10 @@ title: "Section 12704 - Definitions"
 usc_title: 42
 usc_section: "12704"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12704"
-generated_at: "2026-03-30T02:56:11.429Z"
+generated_at: "2026-11-23T20:27:23.426Z"
+status: "active"
 ---
 
 # § 12704. Definitions
@@ -57,3 +58,7 @@ As used in this subchapter and in subchapter II:
   - **(24)** 2 2 So in original. Two pars. (24) have been enacted. The term “insular area” means any of the following: Guam, the Northern Mariana Islands, the Virgin Islands, and American Samoa.
   - **(24)** 2 The term “energy efficient mortgage” means a mortgage that provides financing incentives for the purchase of energy efficient homes, or that provides financing incentives to make energy efficiency improvements in existing homes by incorporating the cost of such improvements in the mortgage.
   - **(25)** The term “energy efficient mortgage” means a mortgage that provides financing incentives for the purchase of energy efficient homes, or that provides financing incentives to make energy efficiency improvements in existing homes by incorporating the cost of such improvements in the mortgage.
+
+## Source Credit
+
+*([Pub. L. 101–625, title I, § 104](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4085](https://www.govinfo.gov/link/statute/104/4085); [Pub. L. 102–229, title I](https://www.govinfo.gov/link/plaw/102/public/229), Dec. 12, 1991, [105 Stat. 1709](https://www.govinfo.gov/link/statute/105/1709); [Pub. L. 101–230, § 2](https://www.govinfo.gov/link/plaw/101/public/230), Dec. 12, 1991, [105 Stat. 1720](https://www.govinfo.gov/link/statute/105/1720); [Pub. L. 102–486, title I, § 105(a)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2792](https://www.govinfo.gov/link/statute/106/2792); [Pub. L. 102–550, title II](https://www.govinfo.gov/link/plaw/102/public/550), §§ 211(a)(1), 217(a), 218, 219, title IX, § 914(a), Oct. 28, 1992, [106 Stat. 3756](https://www.govinfo.gov/link/statute/106/3756), 3760, 3761, 3877; [Pub. L. 103–233, title II, § 201](https://www.govinfo.gov/link/plaw/103/public/233), Apr. 11, 1994, [108 Stat. 363](https://www.govinfo.gov/link/statute/108/363).)*

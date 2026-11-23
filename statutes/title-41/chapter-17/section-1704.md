@@ -3,9 +3,10 @@ title: "Section 1704 - Planning and policy-making for acquisition workforce"
 usc_title: 41
 usc_section: "1704"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 1704"
-generated_at: "2026-03-30T02:55:55.802Z"
+generated_at: "2026-11-23T20:27:04.397Z"
+status: "active"
 ---
 
 # § 1704. Planning and policy-making for acquisition workforce
@@ -52,3 +53,90 @@ generated_at: "2026-03-30T02:55:55.802Z"
   - **(5)** The acquisition workforce development strategic plan shall be funded from the acquisition workforce training fund under section 1703(i) of this title .
 - **(h)** The Administrator shall ensure that a sufficient number of Federal employees are trained in the acquisition of architect and engineering services.
 - **(i)** The Administrator, in coordination with the Director of the Office of Personnel Management, shall encourage executive agencies to use existing authorities, including direct hire authority and tuition assistance programs, to recruit and retain acquisition personnel and consider recruiting acquisition personnel who may be retiring from the private sector, consistent with existing laws and regulations.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1704(a)(1) | no source. |  |
+| 1704(a)(2) | 41:433a(h). | Pub. L. 110–181, div. A, title VIII, § 855 , Jan. 28, 2008 , 122 Stat. 251 . |
+| 1704(b)–(f) | 41:433a(a)–(e). |  |
+| 1704(g) | 41:433a note. | Pub. L. 110–417 , [div. A], title VIII, § 869, Oct. 14, 2008 , 122 Stat. 4553 . |
+| 1704(h), (i) | 41:433a(f), (g). |  |
+
+
+Definitions
+
+Associate Administrator
+
+Chief Acquisition Officer
+
+Associate Administrator for Acquisition Workforce Programs
+
+Acquisition and Contracting Training Programs Within Executive Agencies.—
+
+Chief Acquisition Officer authorities and responsibilities
+
+Requirement
+
+Government-wide Policies and Evaluation
+
+Information on Acquisition and Contracting Training
+
+Acquisition Workforce Human Capital Succession Plan.—
+
+In general
+
+Content of plan
+
+Acquisition Workforce Development Strategic Plan.—
+
+Purpose
+
+Establishment of plan
+
+Criteria
+
+Deadline for completion
+
+Funds
+
+Training in the Acquisition of Architect and Engineering Services
+
+Utilization of Recruitment and Retention Authorities
+
+Historical and Revision Notes
+
+1704(a)(1)
+
+1704(a)(2)
+
+Pub. L. 110–181, div. A, title VIII, § 855
+
+Jan. 28, 2008
+
+122 Stat. 251
+
+1704(b)–(f)
+
+1704(g)
+
+Pub. L. 110–417
+
+Oct. 14, 2008
+
+122 Stat. 4553
+
+1704(h), (i)
+
+Purpose
+
+Strategic Planning.—
+
+In general
+
+Elements
+
+Federal Agency Defined
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3706](https://www.govinfo.gov/link/statute/124/3706); [Pub. L. 111–383, div. A, title X, § 1075(e)(15)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4375](https://www.govinfo.gov/link/statute/124/4375); [Pub. L. 112–81, div. A, title VIII, § 864(a)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1522](https://www.govinfo.gov/link/statute/125/1522); [Pub. L. 112–239, div. A, title X, § 1076(a)(14)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1948](https://www.govinfo.gov/link/statute/126/1948).)*

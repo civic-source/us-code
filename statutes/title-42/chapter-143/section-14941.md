@@ -3,9 +3,10 @@ title: "Section 14941 - Access to Convention records"
 usc_title: 42
 usc_section: "14941"
 chapter: 143
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 14941"
-generated_at: "2026-03-30T02:56:11.453Z"
+generated_at: "2026-11-23T20:27:23.540Z"
+status: "active"
 ---
 
 # § 14941. Access to Convention records
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.453Z"
   - **(2)** A Convention record may be disclosed, and access to such a record may be provided, in whole or in part, among the Secretary, the Attorney General, central authorities, accredited agencies, and approved persons, only to the extent necessary to administer the Convention or this chapter.
   - **(3)** Unlawful disclosure of all or part of a Convention record shall be punishable in accordance with applicable Federal law.
 - **(c)** Disclosure of, access to, and penalties for unlawful disclosure of, adoption records that are not Convention records, including records of adoption proceedings conducted in the United States, shall be governed by applicable State law.
+
+## Source Credit
+
+*([Pub. L. 106–279, title IV, § 401](https://www.govinfo.gov/link/plaw/106/public/279), Oct. 6, 2000, [114 Stat. 841](https://www.govinfo.gov/link/statute/114/841).)*

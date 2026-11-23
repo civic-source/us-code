@@ -3,9 +3,10 @@ title: "Section 2066 - Advisory Committee on Homeless Veterans"
 usc_title: 38
 usc_section: "2066"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 2066"
-generated_at: "2026-03-30T02:55:53.495Z"
+generated_at: "2026-11-23T20:27:01.775Z"
+status: "active"
 ---
 
 # § 2066. Advisory Committee on Homeless Veterans
@@ -60,3 +61,15 @@ generated_at: "2026-03-30T02:55:53.495Z"
   - **(3)** The Committee may also submit to the Secretary such other reports and recommendations as the Committee considers appropriate.
   - **(4)** The Secretary shall submit with each annual report submitted to the Congress pursuant to section 529 of this title a summary of all reports and recommendations of the Committee submitted to the Secretary since the previous annual report of the Secretary submitted pursuant to that section.
 - **(d)** The Committee shall cease to exist September 30, 2026 .
+
+Establishment
+
+Duties
+
+Reports
+
+Termination
+
+## Source Credit
+
+*(Added [Pub. L. 107–95, § 5(a)(1)](https://www.govinfo.gov/link/plaw/107/public/95), Dec. 21, 2001, [115 Stat. 916](https://www.govinfo.gov/link/statute/115/916); amended [Pub. L. 109–444, § 2(e)](https://www.govinfo.gov/link/plaw/109/public/444), Dec. 21, 2006, [120 Stat. 3304](https://www.govinfo.gov/link/statute/120/3304); [Pub. L. 109–461, title VII, § 709](https://www.govinfo.gov/link/plaw/109/public/461), title X, § 1006(b), Dec. 22, 2006, [120 Stat. 3441](https://www.govinfo.gov/link/statute/120/3441), 3468; [Pub. L. 112–37, § 10(f)](https://www.govinfo.gov/link/plaw/112/public/37), Oct. 5, 2011, [125 Stat. 397](https://www.govinfo.gov/link/statute/125/397); [Pub. L. 112–191, title II, § 206](https://www.govinfo.gov/link/plaw/112/public/191), Oct. 5, 2012, [126 Stat. 1439](https://www.govinfo.gov/link/statute/126/1439); [Pub. L. 113–59, § 11](https://www.govinfo.gov/link/plaw/113/public/59), Dec. 20, 2013, [127 Stat. 663](https://www.govinfo.gov/link/statute/127/663); [Pub. L. 113–175, title II, § 208](https://www.govinfo.gov/link/plaw/113/public/175), Sept. 26, 2014, [128 Stat. 1904](https://www.govinfo.gov/link/statute/128/1904); [Pub. L. 114–58, title III, § 306](https://www.govinfo.gov/link/plaw/114/public/58), Sept. 30, 2015, [129 Stat. 534](https://www.govinfo.gov/link/statute/129/534); [Pub. L. 114–228, title III, § 307](https://www.govinfo.gov/link/plaw/114/public/228), Sept. 29, 2016, [130 Stat. 939](https://www.govinfo.gov/link/statute/130/939); [Pub. L. 115–62, title III, § 306](https://www.govinfo.gov/link/plaw/115/public/62), Sept. 29, 2017, [131 Stat. 1163](https://www.govinfo.gov/link/statute/131/1163); [Pub. L. 115–251, title I, § 147](https://www.govinfo.gov/link/plaw/115/public/251), Sept. 29, 2018, [132 Stat. 3170](https://www.govinfo.gov/link/statute/132/3170); [Pub. L. 117–180, div. E, title III, § 306](https://www.govinfo.gov/link/plaw/117/public/180), Sept. 30, 2022, [136 Stat. 2138](https://www.govinfo.gov/link/statute/136/2138).)*

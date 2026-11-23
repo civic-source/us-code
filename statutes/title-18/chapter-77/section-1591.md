@@ -3,9 +3,10 @@ title: "Section 1591 - Sex trafficking of children or by force, fraud, or coerci
 usc_title: 18
 usc_section: "1591"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 1591"
-generated_at: "2026-03-30T02:54:16.488Z"
+generated_at: "2026-11-23T20:26:08.509Z"
+status: "active"
 ---
 
 # § 1591. Sex trafficking of children or by force, fraud, or coercion
@@ -28,3 +29,9 @@ generated_at: "2026-03-30T02:54:16.488Z"
   - **(4)** The term “participation in a venture” means knowingly assisting, supporting, or facilitating a violation of subsection (a)(1).
   - **(5)** The term “serious harm” means any harm, whether physical or nonphysical, including psychological, financial, or reputational harm, that is sufficiently serious, under all the surrounding circumstances, to compel a reasonable person of the same background and in the same circumstances to perform or to continue performing commercial sexual activity in order to avoid incurring that harm.
   - **(6)** The term “venture” means any group of two or more individuals associated in fact, whether or not a legal entity.
+
+“It is the sense of Congress that—
+
+## Source Credit
+
+*(Added [Pub. L. 106–386, div. A, § 112(a)(2)](https://www.govinfo.gov/link/plaw/106/public/386), Oct. 28, 2000, [114 Stat. 1487](https://www.govinfo.gov/link/statute/114/1487); amended [Pub. L. 108–21, title I, § 103(a)(3)](https://www.govinfo.gov/link/plaw/108/public/21), Apr. 30, 2003, [117 Stat. 653](https://www.govinfo.gov/link/statute/117/653); [Pub. L. 108–193, § 5(a)](https://www.govinfo.gov/link/plaw/108/public/193), Dec. 19, 2003, [117 Stat. 2879](https://www.govinfo.gov/link/statute/117/2879); [Pub. L. 109–248, title II, § 208](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 615](https://www.govinfo.gov/link/statute/120/615); [Pub. L. 110–457, title II, § 222(b)(5)](https://www.govinfo.gov/link/plaw/110/public/457), Dec. 23, 2008, [122 Stat. 5069](https://www.govinfo.gov/link/statute/122/5069); [Pub. L. 114–22, title I](https://www.govinfo.gov/link/plaw/114/public/22), §§ 108(a), 118(b), May 29, 2015, [129 Stat. 238](https://www.govinfo.gov/link/statute/129/238), 247; [Pub. L. 115–164, § 5](https://www.govinfo.gov/link/plaw/115/public/164), Apr. 11, 2018, [132 Stat. 1255](https://www.govinfo.gov/link/statute/132/1255); [Pub. L. 115–392, § 11(1)(C)](https://www.govinfo.gov/link/plaw/115/public/392), Dec. 21, 2018, [132 Stat. 5255](https://www.govinfo.gov/link/statute/132/5255).)*

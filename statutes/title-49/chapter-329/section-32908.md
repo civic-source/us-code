@@ -3,9 +3,10 @@ title: "Section 32908 - Fuel economy information"
 usc_title: 49
 usc_section: "32908"
 chapter: 329
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 32908"
-generated_at: "2026-03-30T02:56:19.367Z"
+generated_at: "2026-11-23T20:27:35.014Z"
+status: "active"
 ---
 
 # § 32908. Fuel economy information
@@ -61,3 +62,125 @@ generated_at: "2026-03-30T02:56:19.367Z"
     - **(B)** The Secretary of Transportation shall establish a consumer education campaign on the fuel savings that would be recognized from the purchase of vehicles equipped with thermal management technologies, including energy efficient air conditioning systems and glass.
   - **(3)** The Secretary of Transportation shall by rule require a label to be attached to the fuel compartment of vehicles capable of operating on alternative fuels, with the form of alternative fuel stated on the label. A label attached in compliance with the requirements of section 32905(h) 1 1 See References in Text note below. is deemed to meet the requirements of this paragraph.
   - **(4)** The Secretary of Transportation shall issue a final rule under this subsection not later than 42 months after the date of the enactment of the Ten-in-Ten Fuel Economy Act.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 32908(a) | 15:2006(c)(2). | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , § 506(a)(1)–(3), (b)(1), (2), (c)(1), (2), (d), (e); added Dec. 22, 1975 , Pub. L. 94–163, § 301 , 89 Stat. 910 ; Nov. 9, 1978 , Pub. L. 95–619 , §§ 401(a)(2), 403(a), (b), 92 Stat. 3254 , 3256. |
+|  | 15:2006(c)(3). | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , § 506(c)(3); added Nov. 9, 1978 , Pub. L. 95–619, § 401(a)(1) , 92 Stat. 3254 . |
+| 32908(b)(1), (2) | 15:2006(a)(1)–(3). |  |
+| 32908(b)(3) | 15:2006(a)(4). | Oct. 20, 1972 , Pub. L. 92–516 , 86 Stat. 947 , § 506(a)(4), (b)(3); added Oct. 14, 1988 , Pub. L. 100–494, § 8(a) , 102 Stat. 2452 ; Oct. 24, 1992 , Pub. L. 102–486, § 403(3) , (4), 106 Stat. 2876 . |
+|  | 15:2006 (note). | Oct. 14, 1988 , Pub. L. 100–494, § 8(b) , 102 Stat. 2453 . |
+| 32908(c)(1) | 15:2006(b)(1) (1st sentence). |  |
+| 32908(c)(2) | 15:2006(b)(3). |  |
+|  | 15:2006 (note). |  |
+| 32908(c)(3) | 15:2006(b)(1) (last sentence), (2). |  |
+| 32908(d) | 15:2006(d). |  |
+| 32908(e) | 15:2006(c)(1). |  |
+| 32908(f) | 15:2006(e). |  |
+
+
+Definitions
+
+Labeling Requirements and Contents
+
+Fuel Economy Information Booklet
+
+Disclosure
+
+Violations
+
+Consultation
+
+Consumer Information.—
+
+Program
+
+Consumer education.—
+
+In general
+
+Fuel savings education campaign
+
+Fuel tank labels for alternative fuel automobiles
+
+Rulemaking deadline
+
+Historical and Revision Notes
+
+Pub. L
+
+32908(a)
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+Dec. 22, 1975
+
+Pub. L. 94–163, § 301
+
+89 Stat. 910
+
+Nov. 9, 1978
+
+Pub. L. 95–619
+
+92 Stat. 3254
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+Nov. 9, 1978
+
+Pub. L. 95–619, § 401(a)(1)
+
+92 Stat. 3254
+
+32908(b)(3)
+
+Oct. 20, 1972
+
+Pub. L. 92–516
+
+86 Stat. 947
+
+Oct. 14, 1988
+
+Pub. L. 100–494, § 8(a)
+
+102 Stat. 2452
+
+Oct. 24, 1992
+
+Pub. L. 102–486, § 403(3)
+
+106 Stat. 2876
+
+Oct. 14, 1988
+
+Pub. L. 100–494, § 8(b)
+
+102 Stat. 2453
+
+32908(c)(1)
+
+32908(c)(2)
+
+32908(c)(3)
+
+32908(d)
+
+32908(e)
+
+32908(f)
+
+“Beginning in December 2009, and not less often than every 5 years thereafter, the Administrator of the Environmental Protection Agency, in consultation with the Secretary of Transportation, shall—
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1068](https://www.govinfo.gov/link/statute/108/1068); [Pub. L. 103–429, § 6(37)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4382](https://www.govinfo.gov/link/statute/108/4382); [Pub. L. 110–140, title I, § 105](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1503](https://www.govinfo.gov/link/statute/121/1503).)*

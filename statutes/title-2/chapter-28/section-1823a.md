@@ -3,9 +3,10 @@ title: "Section 1823a - Acquisition of real property for Library of Congress"
 usc_title: 2
 usc_section: "1823a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1823a"
-generated_at: "2026-03-30T02:53:04.817Z"
+generated_at: "2026-11-23T20:25:28.985Z"
+status: "active"
 ---
 
 # § 1823a. Acquisition of real property for Library of Congress
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:04.817Z"
 - **(b)** Subject to the approval of the Joint Committee on the Library and the Committees on Appropriations of the House of Representatives and the Senate, the Architect of the Capitol and the Librarian of Congress may transfer between themselves appropriations or other available funds to pay the costs incurred in acquiring real property pursuant to the authority of this section and the costs of necessary expenses incurred in connection with the acquisition of the property.
 - **(c)** No obligation entered into pursuant to the authority of this section shall be in advance of, or in excess of, available appropriations.
 - **(d)** This section shall apply with respect to fiscal year 2009 and each succeeding fiscal year.
+
+## Source Credit
+
+*([Pub. L. 111–8, div. G, title I, § 1102](https://www.govinfo.gov/link/plaw/111/public/8), Mar. 11, 2009, [123 Stat. 823](https://www.govinfo.gov/link/statute/123/823).)*

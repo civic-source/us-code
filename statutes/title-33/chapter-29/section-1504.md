@@ -3,9 +3,10 @@ title: "Section 1504 - Procedure"
 usc_title: 33
 usc_section: "1504"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1504"
-generated_at: "2026-03-30T02:55:41.108Z"
+generated_at: "2026-11-23T20:26:54.087Z"
+status: "active"
 ---
 
 # § 1504. Procedure
@@ -111,3 +112,53 @@ generated_at: "2026-03-30T02:55:41.108Z"
   - **(5)** If the Secretary suspends or delays an applicable deadline, not later than 120 days after that applicable deadline, and not less frequently than once every 120 days thereafter until the date on which the application process is no longer suspended or delayed, the Secretary (or a designee of the Secretary) shall provide a briefing regarding the time elapsed since the applicable deadline and the nature and circumstances of the applicable suspension or delay to—
     - **(A)** the Committee on Commerce, Science, and Transportation of the Senate; and
     - **(B)** the Committee on Transportation and Infrastructure of the House of Representatives.
+
+Requirements.—
+
+In general
+
+Action by secretary
+
+(aa) a notice of the application; and
+
+(bb) a summary of the plans; or
+
+(aa) notify the applicant of the applicable deficiencies; and
+
+(bb) take no further action with respect to the application until those deficiencies have been remedied.
+
+Applicability
+
+Inclusions
+
+Applications for deepwater ports for natural gas.—
+
+Deadline for determination
+
+Effect of failure to determine
+
+Decision on amended license applications.—
+
+Definition of amended license application
+
+Expedited review and approval
+
+Eligibility criteria
+
+Deadline for decision
+
+In general
+
+Retention of authority
+
+Updates to authority
+
+Agency and department expertise and responsibilities
+
+Interim final rule
+
+Final rules
+
+## Source Credit
+
+*([Pub. L. 93–627, § 5](https://www.govinfo.gov/link/plaw/93/public/627), Jan. 3, 1975, [88 Stat. 2131](https://www.govinfo.gov/link/statute/88/2131); [Pub. L. 98–419, § 2(f)](https://www.govinfo.gov/link/plaw/98/public/419), Sept. 25, 1984, [98 Stat. 1607](https://www.govinfo.gov/link/statute/98/1607); [Pub. L. 104–324, title V, § 505](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3927](https://www.govinfo.gov/link/statute/110/3927); [Pub. L. 107–295, title I, § 106(c)](https://www.govinfo.gov/link/plaw/107/public/295), (f), (g), Nov. 25, 2002, [116 Stat. 2086–2088](https://www.govinfo.gov/link/statute/116/2086); [Pub. L. 109–241, title III, § 304(c)(1)](https://www.govinfo.gov/link/plaw/109/public/241), July 11, 2006, [120 Stat. 527](https://www.govinfo.gov/link/statute/120/527); [Pub. L. 111–281, title IX, § 903(d)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 3011](https://www.govinfo.gov/link/statute/124/3011); [Pub. L. 116–283, div. G, title LVXXXV](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXV], § 8502(b)(2), Jan. 1, 2021, [134 Stat. 4747](https://www.govinfo.gov/link/statute/134/4747); [Pub. L. 118–31, div. C, title XXXV, § 3514(k)(4)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 814](https://www.govinfo.gov/link/statute/137/814); [Pub. L. 118–159, div. C, title XXXV, § 3538](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2316](https://www.govinfo.gov/link/statute/138/2316); [Pub. L. 119–60, div. G, title LXXIII, § 7342(a)](https://www.govinfo.gov/link/plaw/119/public/60), (b), Dec. 18, 2025, [139 Stat. 1777](https://www.govinfo.gov/link/statute/139/1777).)*

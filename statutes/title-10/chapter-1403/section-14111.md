@@ -3,9 +3,10 @@ title: "Section 14111 - Reports of selection boards: transmittal to President"
 usc_title: 10
 usc_section: "14111"
 chapter: 1403
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 14111"
-generated_at: "2026-03-30T02:53:38.273Z"
+generated_at: "2026-11-23T20:25:52.464Z"
+status: "active"
 ---
 
 # § 14111. Reports of selection boards: transmittal to President
@@ -18,3 +19,13 @@ generated_at: "2026-03-30T02:53:38.273Z"
     - **(A)** not later than 30 days after the name of an officer is removed; and
     - **(B)** prior to submission to the Senate of a promotion list with respect to such report pursuant to section 12203 of this title .
 - **(c)** If the Secretary of a military department or the Secretary of Defense makes a recommendation under this section that the name of an officer be removed from the report of a promotion board and the recommendation is accompanied by information that was not presented to that promotion board, that information shall be made available to that officer. The officer shall then be afforded a reasonable opportunity to submit comments on that information to the officials making the recommendation and the officials reviewing the recommendation. If an eligible officer cannot be given access to such information because of its classification status, the officer shall, to the maximum extent practicable, be provided with an appropriate summary of the information.
+
+Transmittal to President
+
+Removal of Name From Board Report
+
+Recommendations for Removal of Selected Officers From Report
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1611](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2929](https://www.govinfo.gov/link/statute/108/2929); amended [Pub. L. 109–364, div. A, title V, § 513(b)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2185](https://www.govinfo.gov/link/statute/120/2185); [Pub. L. 119–60, div. A, title V, § 503(b)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 855](https://www.govinfo.gov/link/statute/139/855).)*

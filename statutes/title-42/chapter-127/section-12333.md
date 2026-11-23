@@ -3,9 +3,10 @@ title: "Section 12333 - Establishment of programs"
 usc_title: 42
 usc_section: "12333"
 chapter: 127
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12333"
-generated_at: "2026-03-30T02:56:11.412Z"
+generated_at: "2026-11-23T20:27:23.353Z"
+status: "active"
 ---
 
 # § 12333. Establishment of programs
@@ -25,3 +26,7 @@ The Commissioner shall make grants—
     - **(B)** promote and assist families in the use of formal and informal family support services;
     - **(C)** create a support network to strengthen and reinforce good parenting; and
     - **(D)** are closely linked with, but not duplicative of, other community resources.
+
+## Source Credit
+
+*([Pub. L. 101–501, title IX, § 927](https://www.govinfo.gov/link/plaw/101/public/501), Nov. 3, 1990, [104 Stat. 1269](https://www.govinfo.gov/link/statute/104/1269).)*

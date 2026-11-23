@@ -3,9 +3,10 @@ title: "Section 4721a - State trade coordination"
 usc_title: 15
 usc_section: "4721a"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 4721a"
-generated_at: "2026-03-30T02:54:08.203Z"
+generated_at: "2026-11-23T20:26:04.353Z"
+status: "active"
 ---
 
 # § 4721a. State trade coordination
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:08.203Z"
   - **(1)** The Secretary of Commerce, in coordination with representatives of State trade promotion agencies, shall develop a framework to share export success information, and develop a coordinated set of reporting metrics.
   - **(2)** Not later than one year after February 24, 2016 , the Secretary of Commerce shall submit to Congress a report that contains the framework and reporting metrics required under paragraph (1).
 - **(e)**
+
+## Source Credit
+
+*([Pub. L. 114–125, title V, § 505](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 179](https://www.govinfo.gov/link/statute/130/179).)*

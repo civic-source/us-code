@@ -3,9 +3,10 @@ title: "Section 1308a - Cost reduction options"
 usc_title: 7
 usc_section: "1308a"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1308a"
-generated_at: "2026-03-30T02:53:42.302Z"
+generated_at: "2026-11-23T20:25:41.116Z"
+status: "active"
 ---
 
 # § 1308a. Cost reduction options
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:42.302Z"
   - **(3)** elimination of storage, handling, and carrying charges on the forfeited commodity.
 - **(e)** When a production control or loan program is in effect for a crop of a major agricultural commodity, the Secretary may at any time prior to harvest reopen the program to participating producers for the purpose of accepting bids from producers for the conversion of acreage planted to such crop to diverted acres in return for payment in kind from Commodity Credit Corporation surplus stocks of the commodity to which the acreage was planted, if the Secretary determines that (1) changes in domestic or world supply or demand conditions have substantially changed after announcement of the program for that crop, and (2) without action to further adjust production, the Federal Government and producers will be faced with a burdensome and costly surplus. Such payments in kind shall not be included within the payment limitation per person established under section 1308 of this title , but shall be limited to a total $20,000 per year per producer for any one commodity.
 - **(f)** The authority provided in this section shall be in addition to, and not in place of, any authority granted to the Secretary under any other provision of law.
+
+## Source Credit
+
+*([Pub. L. 99–198, title X, § 1009](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1453](https://www.govinfo.gov/link/statute/99/1453); [Pub. L. 101–134, § 3](https://www.govinfo.gov/link/plaw/101/public/134), Oct. 30, 1989, [103 Stat. 781](https://www.govinfo.gov/link/statute/103/781); [Pub. L. 110–234, title I, § 1603(g)(1)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1011](https://www.govinfo.gov/link/statute/122/1011); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1603(g)(1), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1739.)*

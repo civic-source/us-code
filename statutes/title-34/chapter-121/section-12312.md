@@ -3,9 +3,10 @@ title: "Section 12312 - Confidentiality of communications between sexual assault
 usc_title: 34
 usc_section: "12312"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12312"
-generated_at: "2026-03-30T02:55:33.286Z"
+generated_at: "2026-11-23T20:26:50.544Z"
+status: "active"
 ---
 
 # § 12312. Confidentiality of communications between sexual assault or domestic violence victims and their counselors
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:33.286Z"
   - **(1)** the findings of the study and the model legislation required by this section; and
   - **(2)** recommendations based on the findings on the need for and appropriateness of further action by the Federal Government.
 - **(c)** The Judicial Conference of the United States shall evaluate and report to Congress its views on whether the Federal Rules of Evidence should be amended, and if so, how they should be amended, to guarantee that the confidentiality of communications between sexual assault victims and their therapists or trained counselors will be adequately protected in Federal court proceedings.
+
+## Source Credit
+
+*([Pub. L. 103–322, title IV, § 40153](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1921](https://www.govinfo.gov/link/statute/108/1921).)*

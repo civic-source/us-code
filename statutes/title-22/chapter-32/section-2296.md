@@ -3,9 +3,10 @@ title: "Section 2296 - United States assistance to promote reconciliation and re
 usc_title: 22
 usc_section: "2296"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2296"
-generated_at: "2026-03-30T02:55:05.356Z"
+generated_at: "2026-11-23T20:26:32.223Z"
+status: "active"
 ---
 
 # § 2296. United States assistance to promote reconciliation and recovery from regional conflicts
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:05.356Z"
   - **(1)** providing for the humanitarian needs of victims of the conflicts;
   - **(2)** facilitating the return of refugees and internally displaced persons to their homes; and
   - **(3)** assisting in the reconstruction of residential and economic infrastructure destroyed by war.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 499, as added [Pub. L. 106–113, div. B, § 1000(a)(2) [title V, § 596(b)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1535](https://www.govinfo.gov/link/statute/113/1535), 1501A–123.)*

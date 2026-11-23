@@ -3,9 +3,10 @@ title: "Section 2801 - Definitions"
 usc_title: 39
 usc_section: "2801"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "39 U.S.C. § 2801"
-generated_at: "2026-03-30T02:55:43.691Z"
+generated_at: "2026-11-23T20:26:57.735Z"
+status: "active"
 ---
 
 # § 2801. Definitions
@@ -18,3 +19,7 @@ For purposes of this chapter the term—
   - **(4)** “performance indicator” refers to a particular value or characteristic used to measure output or outcome;
   - **(5)** “program activity” means a specific activity related to the mission of the Postal Service; and
   - **(6)** “program evaluation” means an assessment, through objective measurement and systematic analysis, of the manner and extent to which Postal Service programs achieve intended objectives.
+
+## Source Credit
+
+*(Added [Pub. L. 103–62, § 7](https://www.govinfo.gov/link/plaw/103/public/62), Aug. 3, 1993, [107 Stat. 292](https://www.govinfo.gov/link/statute/107/292).)*

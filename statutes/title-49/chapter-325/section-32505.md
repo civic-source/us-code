@@ -3,9 +3,10 @@ title: "Section 32505 - Information and compliance requirements"
 usc_title: 49
 usc_section: "32505"
 chapter: 325
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 32505"
-generated_at: "2026-03-30T02:56:19.363Z"
+generated_at: "2026-11-23T20:27:34.991Z"
+status: "active"
 ---
 
 # § 32505. Information and compliance requirements
@@ -30,3 +31,46 @@ generated_at: "2026-03-30T02:56:19.363Z"
     - **(B)** in a proceeding under this chapter.
   - **(2)** This subsection does not authorize information to be withheld from a committee of Congress authorized to have the information.
   - **(3)** Subject to paragraph (1) of this subsection, the Secretary, on request, shall make available to the public at cost information the Secretary submits or receives in carrying out this chapter.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 32505(a)(1) | 15:1915(a). | Oct. 20, 1972 , Pub. L. 92–513 , §§ 104(a), (b), 105(a), (b), 109, 86 Stat. 950 , 951, 952, 955. |
+| 32505(a)(2) | 15:1915(b). |  |
+| 32505(b)(1) | 15:1914(a)(1)–(3). |  |
+| 32505(b)(2) | 15:1914(a)(5). |  |
+| 32505(b)(3) | 15:1914(a)(4). |  |
+| 32505(c)(1), (2) | 15:1914(b). |  |
+| 32505(c)(3) | 15:1919. |  |
+
+
+General Authority
+
+Powers of Secretary and Civil Actions To Enforce
+
+Confidentiality of Information
+
+Historical and Revision Notes
+
+Pub. L
+
+32505(a)(1)
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 950
+
+32505(a)(2)
+
+32505(b)(1)
+
+32505(b)(2)
+
+32505(b)(3)
+
+32505(c)(3)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1044](https://www.govinfo.gov/link/statute/108/1044); [Pub. L. 103–429, § 6(32)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4380](https://www.govinfo.gov/link/statute/108/4380).)*

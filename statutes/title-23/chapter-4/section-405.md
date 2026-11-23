@@ -3,9 +3,10 @@ title: "Section 405 - National priority safety programs"
 usc_title: 23
 usc_section: "405"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 405"
-generated_at: "2026-03-30T02:55:12.570Z"
+generated_at: "2026-11-23T20:26:23.881Z"
+status: "active"
 ---
 
 # § 405. National priority safety programs
@@ -356,3 +357,357 @@ generated_at: "2026-03-30T02:55:12.570Z"
     - **(B)** The Secretary shall—
       - **(i)** withhold 50 percent of the amount that each qualifying State would otherwise receive under this subsection if the qualifying State were a State described in paragraph (2)(A); and
       - **(ii)** direct any amounts withheld under clause (i) for distribution among the States that are enforcing and carrying out a law or program described in paragraph (4).
+
+Program Authority.—
+
+In general
+
+Occupant protection
+
+State traffic safety information system improvements
+
+Impaired driving countermeasures
+
+Distracted driving
+
+Motorcyclist safety
+
+Nonmotorized safety
+
+Preventing roadside deaths
+
+Driver officer safety education
+
+Transfers
+
+Political subdivisions
+
+Occupant Protection Grants.—
+
+General authority
+
+Federal share
+
+Eligibility.—
+
+High seat belt use rate
+
+Lower seat belt use rate
+
+(aa) conducted a program assessment;
+
+(bb) developed a statewide strategic plan;
+
+(cc) designated an occupant protection coordinator; and
+
+(dd) established a statewide occupant protection task force.
+
+(aa) completed an assessment of its occupant protection program during the 5-year period preceding the grant year; or
+
+(bb) will conduct such an assessment during the first year of the grant.
+
+Use of grant amounts.—
+
+In general
+
+Requirements
+
+Grant amount
+
+Definitions
+
+Child restraint
+
+Seat belt
+
+State Traffic Safety Information System Improvements.—
+
+General authority
+
+Federal share
+
+Eligibility
+
+Use of grant amounts
+
+Grant amount
+
+Technical assistance.—
+
+In general
+
+Funds
+
+Impaired Driving Countermeasures.—
+
+In general
+
+Federal share
+
+Eligibility.—
+
+Low-range states
+
+Mid-range states
+
+High-range states
+
+Use of grant amounts.—
+
+Required programs
+
+Authorized programs
+
+Other programs.—
+
+Low-range states
+
+Medium-range and high-range states
+
+Reporting and impaired driving measures
+
+(aa) crash information, including electronic crash reporting systems that allow accurate real- or near-real-time uploading of crash information; and
+
+(bb) impaired driving criminal justice information; or
+
+Grant amount
+
+Additional grants.—
+
+Grants to states with alcohol-ignition interlock laws
+
+(aa) satisfy a period of not less than 180 days of ignition interlock installation on each motor vehicle to be operated by the individual; and
+
+(bb) have completed a minimum consecutive period of not less than 40 percent of the required period of ignition interlock installation immediately preceding the date of release of the individual, without a confirmed violation.
+
+Grants to states with 24-7 sobriety programs
+
+Use of funds
+
+Allocation
+
+Funding.—
+
+Funding for grants to states with alcohol-ignition interlock laws
+
+Funding for grants to states with 24-7 sobriety programs
+
+Exceptions
+
+Definitions
+
+sobriety program
+
+Average impaired driving fatality rate
+
+High-range state
+
+Low-range state
+
+Mid-range state
+
+Distracted Driving Grants.—
+
+Definitions
+
+Driving
+
+Personal wireless communications device.—
+
+In general
+
+Exclusion
+
+Primary offense
+
+Public road
+
+Text
+
+Text message.—
+
+In general
+
+Exclusions
+
+Grant program
+
+Allocation.—
+
+In general
+
+Grants for states with distracted driving laws.—
+
+In general
+
+(aa) the apportionment of the State under section 402 for fiscal year 2009; bears to
+
+(bb) the apportionment of all States under section 402 for that fiscal year; and
+
+Primary laws
+
+Secondary laws
+
+Texting while driving
+
+Prohibition on texting while driving
+
+Prohibition on handheld phone use while driving
+
+Prohibition on youth cell phone use while driving or stopped in traffic
+
+Permitted exceptions
+
+Use of grant funds.—
+
+In general
+
+Flexibility.—
+
+Allocation to support state distracted driving laws
+
+Motorcyclist Safety.—
+
+Grants authorized
+
+Grant amount
+
+Grant eligibility
+
+Motorcycle rider training courses
+
+Motorcyclists awareness program
+
+Helmet law
+
+Reduction of fatalities and crashes involving motorcycles
+
+Impaired driving program
+
+Reduction of fatalities and crashes involving impaired motorcyclists
+
+Fees collected from motorcyclists
+
+Eligible uses.—
+
+In general
+
+Suballocations of funds
+
+Flexibility
+
+Definitions
+
+Motorcyclist awareness
+
+Motorcyclist awareness program
+
+Motorcyclist safety training
+
+State
+
+Share-the-road model language
+
+Nonmotorized Safety.—
+
+Definition of nonmotorized road user
+
+General authority
+
+Federal share
+
+Eligibility
+
+Use of grant amounts
+
+Grant amount
+
+Preventing Roadside Deaths.—
+
+In general
+
+Federal share
+
+Eligibility
+
+Use of funds
+
+Grant amount
+
+Driver and Officer Safety Education.—
+
+Definition of peace officer
+
+Grants
+
+Federal share
+
+Description of law or program
+
+Driver education and driving safety courses
+
+Peace officer training programs
+
+Use of funds
+
+Grant amount
+
+Special rule for certain states.—
+
+Definition of qualifying state
+
+(aa) has taken meaningful steps toward the full implementation of such a law or program; and
+
+(bb) has established a timetable for the implementation of such a law or program.
+
+Withholding
+
+Certification
+
+Waiver
+
+Grants to states that adopt and enforce mandatory alcohol-ignition interlock laws
+
+In general
+
+In General
+
+Coordination
+
+Vulnerable Road Users.—
+
+Update
+
+Injury health data
+
+State Electronic Data Collection.—
+
+Definitions
+
+Electronic data transfer
+
+State
+
+Establishment of program
+
+State grants.—
+
+In general
+
+Eligibility
+
+Use of funds
+
+Federal share
+
+National highway traffic safety administration system upgrade
+
+Crash Investigation Sampling System
+
+Authorization of Appropriations
+
+“Not later than 60 days after the date on which the Secretary [of Transportation] awards grants under section 405 of title 23 , United States Code, the Secretary shall make available on a publicly available Internet Web site of the Department of Transportation—
+
+## Source Credit
+
+*(Added [Pub. L. 105–178, title II, § 2003(a)(1)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 325](https://www.govinfo.gov/link/statute/112/325); amended [Pub. L. 109–59, title II](https://www.govinfo.gov/link/plaw/109/public/59), §§ 2002(e), 2004, Aug. 10, 2005, [119 Stat. 1522](https://www.govinfo.gov/link/statute/119/1522), 1524; [Pub. L. 111–147, title IV, § 421(c)(1)](https://www.govinfo.gov/link/plaw/111/public/147), Mar. 18, 2010, [124 Stat. 84](https://www.govinfo.gov/link/statute/124/84); [Pub. L. 112–30, title I, § 121(c)(1)](https://www.govinfo.gov/link/plaw/112/public/30), Sept. 16, 2011, [125 Stat. 347](https://www.govinfo.gov/link/statute/125/347); [Pub. L. 112–141, div. C, title I, § 31105(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 741](https://www.govinfo.gov/link/statute/126/741); [Pub. L. 114–94, div. A, title IV](https://www.govinfo.gov/link/plaw/114/public/94), §§ 4005, 4014(3), Dec. 4, 2015, [129 Stat. 1501](https://www.govinfo.gov/link/statute/129/1501), 1513; [Pub. L. 117–58, div. B, title IV, § 24105(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 795](https://www.govinfo.gov/link/statute/135/795).)*

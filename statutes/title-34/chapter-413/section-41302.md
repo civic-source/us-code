@@ -3,9 +3,10 @@ title: "Section 41302 - Acquisition of statistical data on child abuse"
 usc_title: 34
 usc_section: "41302"
 chapter: 413
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 41302"
-generated_at: "2026-03-30T02:55:33.313Z"
+generated_at: "2026-11-23T20:26:50.658Z"
+status: "active"
 ---
 
 # § 41302. Acquisition of statistical data on child abuse
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:33.313Z"
   - **(2)** The modification, once made, shall remain in effect until the later of—
     - **(A)** 10 years after the date it is made; or
     - **(B)** such ending date as may be set by the Attorney General.
+
+## Source Credit
+
+*([Pub. L. 99–401, title I, § 105](https://www.govinfo.gov/link/plaw/99/public/401), Aug. 27, 1986, [100 Stat. 906](https://www.govinfo.gov/link/statute/100/906).)*

@@ -3,9 +3,10 @@ title: "Section 1592 - Penalties for fraud, gross negligence, and negligence"
 usc_title: 19
 usc_section: "1592"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1592"
-generated_at: "2026-03-30T02:54:24.645Z"
+generated_at: "2026-11-23T20:26:10.814Z"
+status: "active"
 ---
 
 # § 1592. Penalties for fraud, gross negligence, and negligence
@@ -110,3 +111,7 @@ generated_at: "2026-03-30T02:54:24.645Z"
   - **(3)** A person shall not be considered to have violated paragraph (1) if—
     - **(A)** the information was correct at the time it was provided in a Panama TPA certification of origin but was later rendered incorrect due to a change in circumstances; and
     - **(B)** the person promptly and voluntarily provides written notice of the change in circumstances to all persons to whom the person provided the certification.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 592, [46 Stat. 750](https://www.govinfo.gov/link/statute/46/750); Aug. 5, 1935, ch. 438, title III, § 304(b), [49 Stat. 527](https://www.govinfo.gov/link/statute/49/527); [Pub. L. 95–410, title I, § 110(a)](https://www.govinfo.gov/link/plaw/95/public/410), Oct. 3, 1978, [92 Stat. 893](https://www.govinfo.gov/link/statute/92/893); [Pub. L. 96–417, title VI, § 609](https://www.govinfo.gov/link/plaw/96/public/417), Oct. 10, 1980, [94 Stat. 1746](https://www.govinfo.gov/link/statute/94/1746); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 103–182, title II, § 205(c)](https://www.govinfo.gov/link/plaw/103/public/182), title VI, § 621, Dec. 8, 1993, [107 Stat. 2095](https://www.govinfo.gov/link/statute/107/2095), 2180; [Pub. L. 104–295](https://www.govinfo.gov/link/plaw/104/public/295), §§ 3(a)(4), (5), 21(e)(12), (13), Oct. 11, 1996, [110 Stat. 3515](https://www.govinfo.gov/link/statute/110/3515), 3531; [Pub. L. 106–36, title I, § 1001(b)(8)](https://www.govinfo.gov/link/plaw/106/public/36), June 25, 1999, [113 Stat. 132](https://www.govinfo.gov/link/statute/113/132); [Pub. L. 108–77, title II, § 205(a)](https://www.govinfo.gov/link/plaw/108/public/77), Sept. 3, 2003, [117 Stat. 930](https://www.govinfo.gov/link/statute/117/930); [Pub. L. 108–78, title II, § 204](https://www.govinfo.gov/link/plaw/108/public/78), Sept. 3, 2003, [117 Stat. 961](https://www.govinfo.gov/link/statute/117/961); [Pub. L. 108–286, title II, § 205](https://www.govinfo.gov/link/plaw/108/public/286), Aug. 3, 2004, [118 Stat. 939](https://www.govinfo.gov/link/statute/118/939); [Pub. L. 109–53, title II, § 206(a)](https://www.govinfo.gov/link/plaw/109/public/53), Aug. 2, 2005, [119 Stat. 484](https://www.govinfo.gov/link/statute/119/484); [Pub. L. 110–138, title II, § 205(a)](https://www.govinfo.gov/link/plaw/110/public/138), Dec. 14, 2007, [121 Stat. 1475](https://www.govinfo.gov/link/statute/121/1475); [Pub. L. 112–41, title II, § 204(a)](https://www.govinfo.gov/link/plaw/112/public/41), Oct. 21, 2011, [125 Stat. 448](https://www.govinfo.gov/link/statute/125/448); [Pub. L. 112–42, title II, § 205(a)](https://www.govinfo.gov/link/plaw/112/public/42), Oct. 21, 2011, [125 Stat. 483](https://www.govinfo.gov/link/statute/125/483); [Pub. L. 112–43, title II, § 205(a)](https://www.govinfo.gov/link/plaw/112/public/43), Oct. 21, 2011, [125 Stat. 518](https://www.govinfo.gov/link/statute/125/518); [Pub. L. 116–113, title II, § 204(a)](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 44](https://www.govinfo.gov/link/statute/134/44).)*

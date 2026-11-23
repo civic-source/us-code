@@ -3,9 +3,10 @@ title: "Section 3027 - State plans"
 usc_title: 42
 usc_section: "3027"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3027"
-generated_at: "2026-03-30T02:56:11.173Z"
+generated_at: "2026-11-23T20:27:22.207Z"
+status: "active"
 ---
 
 # § 3027. State plans
@@ -125,3 +126,7 @@ generated_at: "2026-03-30T02:56:11.173Z"
   - **(2)** Upon the filing of such petition, the court shall have jurisdiction to affirm the action of the Assistant Secretary or to set it aside, in whole or in part, temporarily or permanently, but until the filing of the record, the Assistant Secretary may modify or set aside the Assistant Secretary’s order. The findings of the Assistant Secretary as to the facts, if supported by substantial evidence, shall be conclusive, but the court, for good cause shown, may remand the case to the Assistant Secretary to take further evidence, and the Assistant Secretary shall, within 30 days, file in the court the record of those further proceedings. Such new or modified findings of fact shall likewise be conclusive if supported by substantial evidence. The judgment of the court affirming or setting aside, in whole or in part, any action of the Assistant Secretary shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28 .
   - **(3)** The commencement of proceedings under this subsection shall not, unless so specifically ordered by the court, operate as a stay of the Assistant Secretary’s action.
 - **(f)** Neither a State, nor a State agency, may require any provider of legal assistance under this subchapter to reveal any information that is protected by the attorney-client privilege.
+
+## Source Credit
+
+*([Pub. L. 89–73, title III, § 307](https://www.govinfo.gov/link/plaw/89/public/73), as added [Pub. L. 95–478, title I, § 103(b)](https://www.govinfo.gov/link/plaw/95/public/478), Oct. 18, 1978, [92 Stat. 1524](https://www.govinfo.gov/link/statute/92/1524); amended [Pub. L. 97–115](https://www.govinfo.gov/link/plaw/97/public/115), §§ 3(d), 7, Dec. 29, 1981, [95 Stat. 1597](https://www.govinfo.gov/link/statute/95/1597), 1598; [Pub. L. 98–459, title III, § 307](https://www.govinfo.gov/link/plaw/98/public/459), Oct. 9, 1984, [98 Stat. 1775](https://www.govinfo.gov/link/statute/98/1775); [Pub. L. 100–175, title I](https://www.govinfo.gov/link/plaw/100/public/175), §§ 128, 129(d), (e), 130(b), 131(b), 132(c), 136(c), 137(b), 138, 140(c), 141(c), 142, 144(d), 155(e)(2), 182(k), Nov. 29, 1987, [101 Stat. 934](https://www.govinfo.gov/link/statute/101/934), 935, 938–940, 943, 944, 946, 947, 949, 953, 965; [Pub. L. 100–628, title VII, § 705(6)](https://www.govinfo.gov/link/plaw/100/public/628), Nov. 7, 1988, [102 Stat. 3247](https://www.govinfo.gov/link/statute/102/3247); [Pub. L. 102–375, title I, § 102(b)(4)](https://www.govinfo.gov/link/plaw/102/public/375), (5), (10)(A), (C), (E), (F), title III, § 307, title VII, § 708(c)(4), title IX, § 904(a)(13), Sept. 30, 1992, [106 Stat. 1201](https://www.govinfo.gov/link/statute/106/1201), 1202, 1228, 1293, 1308; [Pub. L. 103–171](https://www.govinfo.gov/link/plaw/103/public/171), §§ 2(9), 3(a)(5), Dec. 2, 1993, [107 Stat. 1988](https://www.govinfo.gov/link/statute/107/1988), 1990; [Pub. L. 106–501, title III, § 306](https://www.govinfo.gov/link/plaw/106/public/501), title VIII, § 801(c)(4), Nov. 13, 2000, [114 Stat. 2242](https://www.govinfo.gov/link/statute/114/2242), 2292; [Pub. L. 109–365, title III, § 307](https://www.govinfo.gov/link/plaw/109/public/365), Oct. 17, 2006, [120 Stat. 2544](https://www.govinfo.gov/link/statute/120/2544); [Pub. L. 114–144, § 4(e)](https://www.govinfo.gov/link/plaw/114/public/144), Apr. 19, 2016, [130 Stat. 339](https://www.govinfo.gov/link/statute/130/339); [Pub. L. 116–131, title I, § 118(c)](https://www.govinfo.gov/link/plaw/116/public/131), title II, §§ 206(2), 207(b), Mar. 25, 2020, [134 Stat. 247](https://www.govinfo.gov/link/statute/134/247), 256, 257.)*

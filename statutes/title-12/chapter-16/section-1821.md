@@ -3,9 +3,10 @@ title: "Section 1821 - Insurance Funds"
 usc_title: 12
 usc_section: "1821"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1821"
-generated_at: "2026-03-30T02:53:53.449Z"
+generated_at: "2026-11-23T20:25:59.126Z"
+status: "active"
 ---
 
 # § 1821. Insurance Funds
@@ -734,3 +735,131 @@ generated_at: "2026-03-30T02:53:53.449Z"
   - **(2)** For purposes of this subsection, the following definitions shall apply:
     - **(A)** The term “eligible commercial real property” means any property (i) to which the Corporation acquires title, and (ii) that the Corporation, in the discretion of the Corporation, determines is suitable for use for the location of offices or other administrative functions involved with carrying out a program referred to in paragraph (1)(B).
     - **(B)** The terms “nonprofit organization” and “public agency” have the same meanings as in section 1831q(p) of this title .
+
+Assets insufficient for obligations
+
+Substantial dissipation
+
+Unsafe or unsound condition
+
+Cease and desist orders
+
+Concealment
+
+Inability to meet obligations
+
+Losses
+
+Violations of law
+
+Consent
+
+Cessation of insured status
+
+Undercapitalization
+
+Money laundering offense
+
+In general
+
+Establishment
+
+Amounts in special reserve
+
+Limitation
+
+Emergency use of special reserve
+
+Exclusion of special reserve in calculating reserve ratio
+
+provisions
+
+Provisions
+
+with
+
+to
+
+Provisions
+
+provision
+
+Discretionary rtc payments
+
+Certain sales of assets prohibited
+
+Certain convicted debtors prohibited from purchasing assets
+
+resolution
+
+liquidation
+
+In general
+
+Application to time deposits.—
+
+Certain deposits excluded
+
+Rollovers and renewals treated as new deposit
+
+Effective date for amendment relating to certain employee plans.—
+
+Review of coverage
+
+Regulations
+
+Delayed effective date for regulations
+
+In General.—
+
+Merger
+
+Disposition of assets and liabilities
+
+No separate existence
+
+Repeal of Outdated Merger Provision
+
+Effective Date
+
+Study
+
+Report
+
+Transactions Involving Certain Institutions
+
+Transactions Involving the FDIC as Receiver
+
+Continuation Coverage
+
+Definitions
+
+Successor
+
+Failed depository institution
+
+Bridge bank
+
+No premium costs imposed on fdic
+
+Effective Date
+
+“For purposes of this subtitle [subtitle G (§§ 2701–2711) of title II of div. A of Pub. L. 104–208 , see Short Title of 1996 Amendment note set out under section 1811 of this title ], the following definitions shall apply:
+
+Bank insurance fund
+
+BIF member, saif member
+
+Various banking terms
+
+Deposit insurance fund
+
+Depository institution holding company
+
+Designated reserve ratio
+
+SAIF-assessable deposit
+
+## Source Credit
+
+*(Sept. 21, 1950, ch. 967, § 2 [11], [64 Stat. 884](https://www.govinfo.gov/link/statute/64/884); [Pub. L. 89–695, title III, § 301(c)](https://www.govinfo.gov/link/plaw/89/public/695), (d), Oct. 16, 1966, [80 Stat. 1055](https://www.govinfo.gov/link/statute/80/1055); [Pub. L. 91–151, title I, § 7(a)(3)](https://www.govinfo.gov/link/plaw/91/public/151), (4), Dec. 23, 1969, [83 Stat. 375](https://www.govinfo.gov/link/statute/83/375); [Pub. L. 93–495, title I](https://www.govinfo.gov/link/plaw/93/public/495), §§ 101(a)(3), 102(a)(3), (4), Oct. 28, 1974, [88 Stat. 1500](https://www.govinfo.gov/link/statute/88/1500), 1502; [Pub. L. 95–369, § 6(c)(17)](https://www.govinfo.gov/link/plaw/95/public/369) –(22), Sept. 17, 1978, [92 Stat. 619](https://www.govinfo.gov/link/statute/92/619); [Pub. L. 95–630, title XIV, § 1401(a)](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3712](https://www.govinfo.gov/link/statute/92/3712); [Pub. L. 96–153, title III, § 323(a)](https://www.govinfo.gov/link/plaw/96/public/153), Dec. 21, 1979, [93 Stat. 1120](https://www.govinfo.gov/link/statute/93/1120); [Pub. L. 96–221, title III, § 308(a)(1)(C)](https://www.govinfo.gov/link/plaw/96/public/221), (D), Mar. 31, 1980, [94 Stat. 147](https://www.govinfo.gov/link/statute/94/147); [Pub. L. 97–110, title I, § 103(c)](https://www.govinfo.gov/link/plaw/97/public/110), Dec. 26, 1981, [95 Stat. 1514](https://www.govinfo.gov/link/statute/95/1514); [Pub. L. 97–320, title I, § 113(j)](https://www.govinfo.gov/link/plaw/97/public/320), (k), Oct. 15, 1982, [96 Stat. 1474](https://www.govinfo.gov/link/statute/96/1474); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 100–86, title V](https://www.govinfo.gov/link/plaw/100/public/86), §§ 503(a), 507, Aug. 10, 1987, [101 Stat. 629](https://www.govinfo.gov/link/statute/101/629), 634; [Pub. L. 101–73, title II](https://www.govinfo.gov/link/plaw/101/public/73), §§ 201(a), 211–214, title IX, § 909, Aug. 9, 1989, [103 Stat. 187](https://www.govinfo.gov/link/statute/103/187), 218–246, 477; [Pub. L. 101–647, title XXV](https://www.govinfo.gov/link/plaw/101/public/647), §§ 2521(a)(1), 2526(a), 2527(a), 2528(a), 2532(b), 2534(a), Nov. 29, 1990, [104 Stat. 4863](https://www.govinfo.gov/link/statute/104/4863), 4875, 4877, 4880, 4882; [Pub. L. 102–233, title I, § 102](https://www.govinfo.gov/link/plaw/102/public/233), title II, § 202(a), (b), title III, § 302(a), Dec. 12, 1991, [105 Stat. 1761](https://www.govinfo.gov/link/statute/105/1761), 1766, 1767; [Pub. L. 102–242, title I](https://www.govinfo.gov/link/plaw/102/public/242), §§ 123(a), 133(a), (e), 141(b), (d), 161(a), (e), title II, § 241(c)(1), title III, § 311(a)(1), (b)(1), (2), (5)(B), (C), title IV, §§ 416, 426, 446, Dec. 19, 1991, [105 Stat. 2252](https://www.govinfo.gov/link/statute/105/2252), 2270, 2272, 2277, 2285, 2286, 2331, 2363, 2364, 2366, 2376, 2378, 2382; [Pub. L. 102–550, title XV](https://www.govinfo.gov/link/plaw/102/public/550), §§ 1501(a), 1544, title XVI, §§ 1603(e)(1), 1604(c)(2), 1606(c), 1611(b), Oct. 28, 1992, [106 Stat. 4044](https://www.govinfo.gov/link/statute/106/4044), 4069, 4081, 4083, 4088, 4090; [Pub. L. 103–66, title III, § 3001(a)](https://www.govinfo.gov/link/plaw/103/public/66), (b), Aug. 10, 1993, [107 Stat. 336](https://www.govinfo.gov/link/statute/107/336); [Pub. L. 103–204](https://www.govinfo.gov/link/plaw/103/public/204), §§ 3(d), 4(b), 8(a)–(f), (i), 11, 15(b), 16(b), 17(b), 20, 27(b), 38(b), Dec. 17, 1993, [107 Stat. 2379](https://www.govinfo.gov/link/statute/107/2379), 2380, 2384–2389, 2399–2401, 2404, 2410, 2416; [Pub. L. 103–325, title III, § 325](https://www.govinfo.gov/link/plaw/103/public/325), title IV, § 411(c)(2)(A), title VI, § 602(a)(21)–(33), Sept. 23, 1994, [108 Stat. 2228](https://www.govinfo.gov/link/statute/108/2228), 2253, 2289; [Pub. L. 103–328, title II, § 201(a)](https://www.govinfo.gov/link/plaw/103/public/328), Sept. 29, 1994, [108 Stat. 2368](https://www.govinfo.gov/link/statute/108/2368); [Pub. L. 103–394, title V, § 501(c)(2)](https://www.govinfo.gov/link/plaw/103/public/394), Oct. 22, 1994, [108 Stat. 4143](https://www.govinfo.gov/link/statute/108/4143); [Pub. L. 104–208, div. A, title II](https://www.govinfo.gov/link/plaw/104/public/208), §§ 2602, 2704(d)(1)–(4), (6)(C), (14)(H), (I), 2705, Sept. 30, 1996, [110 Stat. 3009–469](https://www.govinfo.gov/link/statute/110/3009), 3009–487, 3009–488, 3009–492, 3009–495; [Pub. L. 104–316, title I, § 106(i)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3831](https://www.govinfo.gov/link/statute/110/3831); [Pub. L. 106–102, title I, § 117](https://www.govinfo.gov/link/plaw/106/public/102), title VII, § 736(a), (b)(2), Nov. 12, 1999, [113 Stat. 1372](https://www.govinfo.gov/link/statute/113/1372), 1479; [Pub. L. 106–400, § 2](https://www.govinfo.gov/link/plaw/106/public/400), Oct. 30, 2000, [114 Stat. 1675](https://www.govinfo.gov/link/statute/114/1675); [Pub. L. 106–569, title XII, § 1222](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 3036](https://www.govinfo.gov/link/statute/114/3036); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 108–386, § 8(a)(4)](https://www.govinfo.gov/link/plaw/108/public/386), Oct. 30, 2004, [118 Stat. 2231](https://www.govinfo.gov/link/statute/118/2231); [Pub. L. 109–8, title IX](https://www.govinfo.gov/link/plaw/109/public/8), §§ 901(a)(1), (b)(1), (c)(1), (d)(1), (e)(1), (f)(1), (g)(1), (h)(1), (i)(1), 902(a), 903(a), 904(a), 905(a), 908(a), Apr. 20, 2005, [119 Stat. 146](https://www.govinfo.gov/link/statute/119/146), 147, 149, 151, 152, 155, 157–160, 165, 166, 183; [Pub. L. 109–171, title II](https://www.govinfo.gov/link/plaw/109/public/171), §§ 2102(b), 2103(a)–(c), Feb. 8, 2006, [120 Stat. 9](https://www.govinfo.gov/link/statute/120/9), 11; [Pub. L. 109–173](https://www.govinfo.gov/link/plaw/109/public/173), §§ 2(a), (c)(1), 8(a)(11)–(14), Feb. 15, 2006, [119 Stat. 3601](https://www.govinfo.gov/link/statute/119/3601), 3602, 3611, 3612; [Pub. L. 109–351, title VII](https://www.govinfo.gov/link/plaw/109/public/351), §§ 701(b), 718(a), 721(a), 722(a), 724, Oct. 13, 2006, [120 Stat. 1985](https://www.govinfo.gov/link/statute/120/1985), 1997–1999, 2001; [Pub. L. 109–390](https://www.govinfo.gov/link/plaw/109/public/390), §§ 2(a)(1), (b)(1), (c)(1), 3(a), 6(a), Dec. 12, 2006, [120 Stat. 2692–2694](https://www.govinfo.gov/link/statute/120/2692), 2698; [Pub. L. 110–289, div. A, title I, § 1161(i)](https://www.govinfo.gov/link/plaw/110/public/289), title VI, § 1604(a), (c), (d), July 30, 2008, [122 Stat. 2781](https://www.govinfo.gov/link/statute/122/2781), 2826, 2829; [Pub. L. 111–203, title III](https://www.govinfo.gov/link/plaw/111/public/203), §§ 335(a), 343(a)(1), (3), 363(5), July 21, 2010, [124 Stat. 1540](https://www.govinfo.gov/link/statute/124/1540), 1544, 1552; [Pub. L. 111–343, § 1(a)](https://www.govinfo.gov/link/plaw/111/public/343), Dec. 29, 2010, [124 Stat. 3609](https://www.govinfo.gov/link/statute/124/3609); [Pub. L. 112–215, § 1(1)](https://www.govinfo.gov/link/plaw/112/public/215), Dec. 20, 2012, [126 Stat. 1589](https://www.govinfo.gov/link/statute/126/1589).)*

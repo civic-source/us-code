@@ -3,9 +3,10 @@ title: "Section 239b - Certain intelligence-related programs: budget justificati
 usc_title: 10
 usc_section: "239b"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 239b"
-generated_at: "2026-03-30T02:53:38.048Z"
+generated_at: "2026-11-23T20:25:50.887Z"
+status: "active"
 ---
 
 # § 239b. Certain intelligence-related programs: budget justification materials
@@ -14,3 +15,11 @@ generated_at: "2026-03-30T02:53:38.048Z"
 - **(b)** In this section:
   - **(1)** The term “budget” has the meaning given that term in section 231(f) 1 1 See References in Text note below. of this title.
   - **(2)** The term “defense budget materials” has the meaning given that term in section 231(f) 1 of this title.
+
+Prohibition on Use of Program Elements
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 115–232, div. A, title XVI, § 1624(b)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2120](https://www.govinfo.gov/link/statute/132/2120).)*

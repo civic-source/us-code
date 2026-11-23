@@ -3,9 +3,10 @@ title: "Section 2207A - Right of recovery in the case of certain marital deducti
 usc_title: 26
 usc_section: "2207A"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 2207A"
-generated_at: "2026-03-30T02:55:27.784Z"
+generated_at: "2026-11-23T20:26:46.168Z"
+status: "active"
 ---
 
 # § 2207A. Right of recovery in the case of certain marital deduction property
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:27.784Z"
   - **(2)** the total tax which would have been payable under such chapter for such year if the value of such property had not been taken into account for purposes of chapter 12.
 - **(c)** For purposes of this section, if there is more than one person receiving the property, the right of recovery shall be against each such person.
 - **(d)** In the case of penalties and interest attributable to additional taxes described in subsections (a) and (b), rules similar to subsections (a), (b), and (c) shall apply.
+
+## Source Credit
+
+*(Added [Pub. L. 97–34, title IV, § 403(d)(4)(A)](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 304](https://www.govinfo.gov/link/statute/95/304); amended [Pub. L. 105–34, title XIII, § 1302(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1039](https://www.govinfo.gov/link/statute/111/1039).)*

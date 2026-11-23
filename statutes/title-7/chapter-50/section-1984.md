@@ -3,9 +3,10 @@ title: "Section 1984 - Taxation"
 usc_title: 7
 usc_section: "1984"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1984"
-generated_at: "2026-03-30T02:53:42.351Z"
+generated_at: "2026-11-23T20:25:41.370Z"
+status: "active"
 ---
 
 # § 1984. Taxation
@@ -15,3 +16,7 @@ All property subject to a lien held by the United States or the title to which i
   - **(1)** the value of any notes or mortgages or other lien instruments held by or transferred to the Secretary;
   - **(2)** any notes or lien instruments administered under this chapter which are made, assigned, or held by a person otherwise liable for such tax; or
   - **(3)** the value of any property conveyed or transferred to the Secretary,
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 334](https://www.govinfo.gov/link/plaw/87/public/128), Aug. 8, 1961, [75 Stat. 315](https://www.govinfo.gov/link/statute/75/315).)*

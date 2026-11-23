@@ -3,9 +3,10 @@ title: "Section 4326 - Waiver by Custodian of demand for property; acceptance of
 usc_title: 50
 usc_section: "4326"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4326"
-generated_at: "2026-03-30T02:56:26.273Z"
+generated_at: "2026-11-23T20:27:31.098Z"
+status: "active"
 ---
 
 # § 4326. Waiver by Custodian of demand for property; acceptance of less amount; approval of Attorney General
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:26.273Z"
 - **(c)** Where the Alien Property Custodian has made demand or requirement for the conveyance, transfer, assignment, delivery, or payment to him of any money or other property of any enemy or ally of enemy (whether or not suit or proceeding for the enforcement thereof has been begun and whether or not any judgment or decree in respect thereof has been made or entered) and where the interest or right of such enemy or ally of enemy in such money or property has not, prior to March 10, 1928 , vested in enjoyment, the Alien Property Custodian may, in his discretion, and on such terms and conditions as he may prescribe, waive such demand and requirement, without compliance with the requirements of subsection (b) of this section, but only with the approval of the Attorney General.
 - **(d)** Nothing in this section shall be construed as requiring the Alien Property Custodian to make any waiver or compromise authorized by this section, and the Alien Property Custodian may proceed in respect of any demand or requirement referred to in subsection (a) or (c) as if this section had not been enacted.
 - **(e)** All money or other property received by the Alien Property Custodian as a result of any action or proceeding (whether begun before or after March 10, 1928 , and whether or not for the enforcement of a demand or requirement as above specified) shall for the purposes of this chapter be considered as forming a part of the trust in respect of which such action or proceeding was brought, and shall be subject to return in the same manner and upon the same conditions as any other money or property in such trust, except as otherwise provided in subsection (b) of this section.
+
+## Source Credit
+
+*(Oct. 6, 1917, ch. 106, § 29, as added Mar. 10, 1928, ch. 167, § 15, [45 Stat. 274](https://www.govinfo.gov/link/statute/45/274).)*

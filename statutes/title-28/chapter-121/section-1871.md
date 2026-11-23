@@ -3,9 +3,10 @@ title: "Section 1871 - Fees"
 usc_title: 28
 usc_section: "1871"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 1871"
-generated_at: "2026-03-30T02:55:30.145Z"
+generated_at: "2026-11-23T20:26:36.481Z"
+status: "active"
 ---
 
 # § 1871. Fees
@@ -30,3 +31,15 @@ generated_at: "2026-03-30T02:55:30.145Z"
 - **(e)** During any period in which a jury is ordered to be kept together and not to separate, the actual cost of subsistence shall be paid upon the order of the court in lieu of the subsistence allowances payable under subsection (d) of this section. Such allowance for the jurors ordered to be kept separate or sequestered shall include the cost of meals, lodging, and other expenditures ordered in the discretion of the court for their convenience and comfort.
 - **(f)** A juror who must necessarily use public transportation in traveling to and from court, the full cost of which is not met by the transportation expenses allowable under subsection (c) of this section on account of the short distance traveled in miles, may be paid, in the discretion of the court, the actual reasonable expense of such public transportation, pursuant to the methods of payment provided by this section. Jurors who are required to remain at the court beyond the normal business closing hour for deliberation or for any other reason may be transported to their homes, or to temporary lodgings where such lodgings are ordered by the court, in a manner directed by the clerk and paid from funds authorized under this section.
 - **(g)** The Director of the Administrative Office of the United States Courts shall promulgate such regulations as may be necessary to carry out his authority under this section.
+
+Act
+
+Act
+
+Courts of Appeals, District Courts and Other Judicial Services
+
+fees of jurors and commissioners
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 953](https://www.govinfo.gov/link/statute/62/953); May 24, 1949, ch. 139, § 97, [63 Stat. 103](https://www.govinfo.gov/link/statute/63/103); July 14, 1949, ch. 333, [63 Stat. 411](https://www.govinfo.gov/link/statute/63/411); [Pub. L. 85–299](https://www.govinfo.gov/link/plaw/85/public/299), Sept. 7, 1957, [71 Stat. 618](https://www.govinfo.gov/link/statute/71/618); [Pub. L. 89–165](https://www.govinfo.gov/link/plaw/89/public/165), Sept. 2, 1965, [79 Stat. 645](https://www.govinfo.gov/link/statute/79/645); [Pub. L. 90–274, § 102(a)](https://www.govinfo.gov/link/plaw/90/public/274), Mar. 27, 1968, [82 Stat. 62](https://www.govinfo.gov/link/statute/82/62); [Pub. L. 95–572, § 5](https://www.govinfo.gov/link/plaw/95/public/572), Nov. 2, 1978, [92 Stat. 2454](https://www.govinfo.gov/link/statute/92/2454); [Pub. L. 101–650, title III, § 314(b)](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5115](https://www.govinfo.gov/link/statute/104/5115); [Pub. L. 102–572, title IV, § 402](https://www.govinfo.gov/link/plaw/102/public/572), Oct. 29, 1992, [106 Stat. 4511](https://www.govinfo.gov/link/statute/106/4511); [Pub. L. 110–406, § 3(a)](https://www.govinfo.gov/link/plaw/110/public/406), Oct. 13, 2008, [122 Stat. 4292](https://www.govinfo.gov/link/statute/122/4292); [Pub. L. 115–141, div. E, title III, § 307(a)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 556](https://www.govinfo.gov/link/statute/132/556).)*

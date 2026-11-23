@@ -3,9 +3,10 @@ title: "Section 1 - Effective date of certain sections"
 usc_title: 15
 usc_section: "1"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1"
-generated_at: "2026-03-30T02:54:08.061Z"
+generated_at: "2026-11-23T20:26:03.570Z"
+status: "active"
 ---
 
 # § 78hh–1. Effective date of certain sections
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.061Z"
   - **(3)** of subsection
 - **(f)** of section 78 l of this title shall become effective six months after May 27, 1936 .
 
+
+## Source Credit
+
+*(May 27, 1936, ch. 462, § 12, [49 Stat. 1380](https://www.govinfo.gov/link/statute/49/1380).)*

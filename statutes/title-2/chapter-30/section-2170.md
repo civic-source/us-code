@@ -3,9 +3,10 @@ title: "Section 2170 - Battery recharging stations for privately owned vehicles 
 usc_title: 2
 usc_section: "2170"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 2170"
-generated_at: "2026-03-30T02:53:04.826Z"
+generated_at: "2026-11-23T20:25:29.018Z"
+status: "active"
 ---
 
 # § 2170. Battery recharging stations for privately owned vehicles in parking areas under the jurisdiction of the Senate at no net cost to the Federal Government
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:53:04.826Z"
     - **(A)** Not later than 3 years after August 10, 2012 , and every 3 years thereafter, the Architect of the Capitol shall submit a report to the Committee on Rules and Administration of the Senate determining whether Senators and covered employees using battery charging stations as authorized by this section are receiving a subsidy from the taxpayers.
     - **(B)** If a determination is made under subparagraph (A) that a subsidy is being received, the Architect of the Capitol shall submit a plan to the Committee on Rules and Administration of the Senate on how to update the program to ensure no subsidy is being received. If the committee does not act on the plan within 60 days, the Architect of the Capitol shall take appropriate steps to increase rates or fees to ensure reimbursement for the cost of the program consistent with an appropriate schedule for amortization, to be charged to those using the charging stations.
 - **(f)** This section shall apply with respect to fiscal year 2011 and each fiscal year thereafter.
+
+## Source Credit
+
+*([Pub. L. 112–167, § 1](https://www.govinfo.gov/link/plaw/112/public/167), Aug. 10, 2012, [126 Stat. 1296](https://www.govinfo.gov/link/statute/126/1296).)*

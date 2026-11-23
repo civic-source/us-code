@@ -3,9 +3,10 @@ title: "Section 10501 - Definitions"
 usc_title: 22
 usc_section: "10501"
 chapter: 112
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 10501"
-generated_at: "2026-03-30T02:55:05.477Z"
+generated_at: "2026-11-23T20:26:32.825Z"
+status: "active"
 ---
 
 # § 10501. Definitions
@@ -22,3 +23,7 @@ In this chapter:
   - **(4)** The term “significant corruption” means corruption committed at a high level of government that has some or all of the following characteristics:
     - **(A)** Illegitimately distorts major decision-making, such as policy or resource determinations, or other fundamental functions of governance.
     - **(B)** Involves economically or socially large-scale government activities.
+
+## Source Credit
+
+*([Pub. L. 118–31, div. E, title LIV, § 5402](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 944](https://www.govinfo.gov/link/statute/137/944).)*

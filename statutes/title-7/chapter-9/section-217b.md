@@ -3,9 +3,10 @@ title: "Section 217b - Statutory trust established; dealer"
 usc_title: 7
 usc_section: "217b"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 217b"
-generated_at: "2026-03-30T02:53:42.278Z"
+generated_at: "2026-11-23T20:25:41.001Z"
+status: "active"
 ---
 
 # § 217b. Statutory trust established; dealer
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:42.278Z"
   - **(1)** appoint an independent trustee to carry out the duties required by this section, preserve trust assets, and enforce the trust;
   - **(2)** serve as independent trustee, preserve trust assets, and enforce the trust; or
   - **(3)** file suit in the United States district court for the district in which the dealer resides to enjoin the dealer’s failure to perform the duties required by this section, preserve trust assets, and to enforce the trust. Attorneys employed by the Secretary may, with the approval of the Attorney General, represent the Secretary in any such suit. Nothing herein shall preclude unpaid sellers from filing suit to preserve or enforce the trust.
+
+## Source Credit
+
+*(Aug. 15, 1921, ch. 64, title III, § 318, as added [Pub. L. 116–260, div. N, title VII, § 763](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2114](https://www.govinfo.gov/link/statute/134/2114).)*

@@ -3,9 +3,10 @@ title: "Section 14706 - Liability of carriers under receipts and bills of lading
 usc_title: 49
 usc_section: "14706"
 chapter: 147
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 14706"
-generated_at: "2026-03-30T02:56:19.332Z"
+generated_at: "2026-11-23T20:27:34.761Z"
+status: "active"
 ---
 
 # § 14706. Liability of carriers under receipts and bills of lading
@@ -44,3 +45,59 @@ generated_at: "2026-03-30T02:56:19.332Z"
     - **(C)** the public interest; and
     - **(D)** the interest of carriers and shippers.
   - **(3)** Not later than 12 months after January 1, 1996 , the Secretary shall submit to Congress a report on the results of the study, together with any recommendations of the Secretary (including legislative recommendations) for implementing modifications or reforms identified by the Secretary as being appropriate.
+
+General Liability.—
+
+Motor carriers and freight forwarders
+
+Freight forwarder
+
+Apportionment
+
+Special Rules.—
+
+Motor carriers.—
+
+Shipper waiver
+
+Carrier notification
+
+Prohibition against collective establishment
+
+Water carriers
+
+Civil Actions.—
+
+Against delivering carrier
+
+Against carrier responsible for loss
+
+Jurisdiction of courts
+
+Judicial district defined
+
+Minimum Period for Filing Claims.—
+
+In general
+
+Special rules
+
+Limiting Liability of Household Goods Carriers to Declared Value
+
+In general
+
+Full value protection obligation
+
+Application of rates
+
+Modifications and Reforms.—
+
+Study
+
+Factors to consider
+
+Report
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 907](https://www.govinfo.gov/link/statute/109/907); amended [Pub. L. 104–287, § 5(38)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3392](https://www.govinfo.gov/link/statute/110/3392); [Pub. L. 109–59, title IV, § 4207](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1757](https://www.govinfo.gov/link/statute/119/1757).)*

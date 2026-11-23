@@ -3,9 +3,10 @@ title: "Section 247d - Public health emergencies"
 usc_title: 42
 usc_section: "247d"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 247d"
-generated_at: "2026-03-30T02:56:10.700Z"
+generated_at: "2026-11-23T20:27:20.016Z"
+status: "active"
 ---
 
 # § 247d. Public health emergencies
@@ -76,7 +77,7 @@ generated_at: "2026-03-30T02:56:10.700Z"
   - **(7)** In this subsection—
     - **(A)** the terms “Indian tribe” and “tribal organization” have the meanings given such terms in section 5304 of title 25 ; and
     - **(B)** the term “State” includes, in addition to the entities listed in the definition of such term in section 201 of this title , the Freely Associated States.
-  - **(8)** This subsection shall terminate on January 30, 2026 .
+  - **(8)** This subsection shall terminate on December 31, 2026 .
 - **(f)**
   - **(1)** If the Secretary determines, after consultation with such public health officials as may be necessary, that—
     - **(A)**
@@ -115,3 +116,55 @@ generated_at: "2026-03-30T02:56:10.700Z"
   - **(1)** the deployment of the contents of the stockpile in response to State, local, and Tribal requests;
   - **(2)** the amount of such products that remain within the stockpile following such deployment; and
   - **(3)** plans to replenish such products, as appropriate, including related timeframes and any barriers or limitations to replenishment.
+
+In General
+
+Use of Funds
+
+Supplemental Funding for State Vaccination Grants.—
+
+Definitions
+
+Base formula
+
+Alternative allocation
+
+Supplemental funding.—
+
+In general
+
+Amount
+
+In General
+
+Use of Funds
+
+In General
+
+Awareness Campaign
+
+Consultation
+
+Report to Congress
+
+In General
+
+Laboratories Covered
+
+Implementation
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+J.R. Biden, Jr.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 319, as added [Pub. L. 106–505, title I, § 102](https://www.govinfo.gov/link/plaw/106/public/505), Nov. 13, 2000, [114 Stat. 2315](https://www.govinfo.gov/link/statute/114/2315); amended [Pub. L. 107–188, title I](https://www.govinfo.gov/link/plaw/107/public/188), §§ 141, 144(a), 158, June 12, 2002, [116 Stat. 626](https://www.govinfo.gov/link/statute/116/626), 630, 633; [Pub. L. 113–5, title II, § 201](https://www.govinfo.gov/link/plaw/113/public/5), Mar. 13, 2013, [127 Stat. 170](https://www.govinfo.gov/link/statute/127/170); [Pub. L. 114–255, div. A, title III, § 3087](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1147](https://www.govinfo.gov/link/statute/130/1147); [Pub. L. 116–22, title II, § 206](https://www.govinfo.gov/link/plaw/116/public/22), title VII, § 701(c), June 24, 2019, [133 Stat. 925](https://www.govinfo.gov/link/statute/133/925), 961; [Pub. L. 117–328, div. FF, title II](https://www.govinfo.gov/link/plaw/117/public/328), §§ 2103(a), 2223(a), 2407, Dec. 29, 2022, [136 Stat. 5711](https://www.govinfo.gov/link/statute/136/5711), 5747, 5788; [Pub. L. 118–15, div. B, title III, § 2332](https://www.govinfo.gov/link/plaw/118/public/15), Sept. 30, 2023, [137 Stat. 96](https://www.govinfo.gov/link/statute/137/96); [Pub. L. 118–22, div. B, title II, § 203(a)](https://www.govinfo.gov/link/plaw/118/public/22), Nov. 17, 2023, [137 Stat. 120](https://www.govinfo.gov/link/statute/137/120); [Pub. L. 118–35, div. B, title I, § 103(a)](https://www.govinfo.gov/link/plaw/118/public/35), Jan. 19, 2024, [138 Stat. 5](https://www.govinfo.gov/link/statute/138/5); [Pub. L. 118–42, div. G, title I, § 103(a)](https://www.govinfo.gov/link/plaw/118/public/42), Mar. 9, 2024, [138 Stat. 398](https://www.govinfo.gov/link/statute/138/398); [Pub. L. 118–158, div. C, title I, § 3103(a)](https://www.govinfo.gov/link/plaw/118/public/158), Dec. 21, 2024, [138 Stat. 1763](https://www.govinfo.gov/link/statute/138/1763); [Pub. L. 119–4, div. B, title I, § 2103(a)](https://www.govinfo.gov/link/plaw/119/public/4), Mar. 15, 2025, [139 Stat. 41](https://www.govinfo.gov/link/statute/139/41); [Pub. L. 119–37, div. F, title I, § 6103(a)](https://www.govinfo.gov/link/plaw/119/public/37), Nov. 12, 2025, [139 Stat. 630](https://www.govinfo.gov/link/statute/139/630); [Pub. L. 119–75, div. J, title IV, § 6403(a)](https://www.govinfo.gov/link/plaw/119/public/75), Feb. 3, 2026, [140 Stat. 688](https://www.govinfo.gov/link/statute/140/688).)*

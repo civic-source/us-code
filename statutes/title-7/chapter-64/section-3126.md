@@ -3,9 +3,10 @@ title: "Section 3126 - Libraries and information network"
 usc_title: 7
 usc_section: "3126"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 3126"
-generated_at: "2026-03-30T02:53:42.394Z"
+generated_at: "2026-11-23T20:25:41.562Z"
+status: "active"
 ---
 
 # § 3126. Libraries and information network
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:42.394Z"
   - **(2)** maintaining such information and materials in a library; and
   - **(3)** providing notification about these collections on a regular basis to the State cooperative extension services, State educational agencies, and other interested persons.
 - **(c)** Funds are authorized to be appropriated annually in such amounts as Congress may determine necessary to support the purposes of this section. The Secretary is authorized to carry out this section with existing facilities through the use of grants, contracts, or such other means as the Secretary deems appropriate and to require matching of funds. No funds appropriated to support the purposes of this section shall be used to purchase additional equipment unless specifically authorized by law subsequent to September 29, 1977 .
+
+## Source Credit
+
+*([Pub. L. 95–113, title XIV, § 1411](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 990](https://www.govinfo.gov/link/statute/91/990); [Pub. L. 97–98, title XIV, § 1412](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1302](https://www.govinfo.gov/link/statute/95/1302).)*

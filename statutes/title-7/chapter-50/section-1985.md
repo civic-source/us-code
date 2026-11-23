@@ -3,9 +3,10 @@ title: "Section 1985 - Security servicing"
 usc_title: 7
 usc_section: "1985"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1985"
-generated_at: "2026-03-30T02:53:42.351Z"
+generated_at: "2026-11-23T20:25:41.371Z"
+status: "active"
 ---
 
 # § 1985. Security servicing
@@ -127,3 +128,53 @@ generated_at: "2026-03-30T02:53:42.351Z"
     - **(B)** was used for farming at any time during the period beginning on the date 5 years before the property entered the inventory of the Secretary and ending on the date the property entered the inventory of the Secretary.
   - **(3)** The Secretary shall provide prior written notification to a borrower considering preservation loan servicing that a wetlands conservation easement may be placed on land for which the borrower is negotiating a lease option.
   - **(4)** The appraised value of the farm shall reflect the value of the land due to the placement of wetland conservation easements.
+
+(aa) the Secretary may foreclose on the property;
+
+(bb) in the event of foreclosure, the property will be offered for sale;
+
+(cc) the Secretary must offer a bid for the property that is equal to the fair market value of the property or the outstanding principal and interest of the loan, whichever is higher;
+
+(dd) the property may be purchased by another party; and
+
+(ee) if the property is purchased by another party, the property will not be placed in the inventory of the Secretary and the borrower-owner will forfeit the rights and protections provided under this chapter; and
+
+Foreclosure procedures.—
+
+Notice to borrower
+
+(aa) requiring the Secretary to assign the loan and security instruments to the Secretary of the Interior, if the Secretary of the Interior agrees to an assignment releasing the Secretary of Agriculture from all further responsibility for collection of any amounts with regard to the loan secured by the real property; or
+
+(bb) requiring the Secretary to assign the loan and security instruments to the tribe having jurisdiction over the reservation in which the real property is located, if the tribe agrees to the assignment.
+
+Notice to tribe
+
+(aa) the sale;
+
+(bb) the fair market value of the property; and
+
+(cc) the requirements of this subparagraph.
+
+Assumed loans
+
+(aa) the Secretary shall not foreclose the loan because of any default that occurred prior to the date of the assumption;
+
+(bb) the loan shall be for the lesser of the outstanding principal and interest of the loan or the fair market value of the property; and
+
+(cc) the loan shall be treated as though the loan was made under sections 5136 to 5143 of title 25.
+
+(aa) the fair market value of the property; or
+
+(bb) the outstanding principal and interest of the loan.
+
+Previous lease
+
+Previously in inventory
+
+In General
+
+Authorization of Appropriations
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 335](https://www.govinfo.gov/link/plaw/87/public/128), Aug. 8, 1961, [75 Stat. 315](https://www.govinfo.gov/link/statute/75/315); [Pub. L. 92–419, title I, § 127](https://www.govinfo.gov/link/plaw/92/public/419), Aug. 30, 1972, [86 Stat. 666](https://www.govinfo.gov/link/statute/86/666); [Pub. L. 99–198, title XIII](https://www.govinfo.gov/link/plaw/99/public/198), §§ 1314(a), 1315, 1318(b)(1), Dec. 23, 1985, [99 Stat. 1526](https://www.govinfo.gov/link/statute/99/1526), 1528, 1531; [Pub. L. 100–233, title VI](https://www.govinfo.gov/link/plaw/100/public/233), §§ 610, 611, Jan. 6, 1988, [101 Stat. 1669](https://www.govinfo.gov/link/statute/101/1669), 1673; [Pub. L. 101–624, title XVIII](https://www.govinfo.gov/link/plaw/101/public/624), §§ 1813(a)–(h)(1), 1816(e), title XXIII, §§ 2303(c), 2388(g), Nov. 28, 1990, [104 Stat. 3821–3823](https://www.govinfo.gov/link/statute/104/3821), 3827, 3981, 4053; [Pub. L. 102–237, title V, § 501(f)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1867](https://www.govinfo.gov/link/statute/105/1867); [Pub. L. 102–552, title V, § 516(h)(1)](https://www.govinfo.gov/link/plaw/102/public/552), Oct. 28, 1992, [106 Stat. 4138](https://www.govinfo.gov/link/statute/106/4138); [Pub. L. 102–554](https://www.govinfo.gov/link/plaw/102/public/554), §§ 16, 17, Oct. 28, 1992, [106 Stat. 4154](https://www.govinfo.gov/link/statute/106/4154); [Pub. L. 104–127, title VI](https://www.govinfo.gov/link/plaw/104/public/127), §§ 638, 639, Apr. 4, 1996, [110 Stat. 1093](https://www.govinfo.gov/link/statute/110/1093), 1097; [Pub. L. 107–171, title V, § 5308](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 345](https://www.govinfo.gov/link/statute/116/345); [Pub. L. 110–234, title V, § 5302(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1151](https://www.govinfo.gov/link/statute/122/1151); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title V, § 5302(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1913.)*

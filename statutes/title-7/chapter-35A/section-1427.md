@@ -3,9 +3,10 @@ title: "Section 1427 - Commodity Credit Corporation sales price restrictions"
 usc_title: 7
 usc_section: "1427"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1427"
-generated_at: "2026-03-30T02:53:42.311Z"
+generated_at: "2026-11-23T20:25:41.147Z"
+status: "active"
 ---
 
 # § 1427. Commodity Credit Corporation sales price restrictions
@@ -47,3 +48,31 @@ generated_at: "2026-03-30T02:53:42.311Z"
 - **(g)** For the purposes of this section, sales for export shall include—
   - **(1)** sales made on condition that the identical commodities sold be exported; and
   - **(2)** sales made on condition that commodities of the same kind and of comparable value or quantity be exported, either in raw or processed form.
+
+In General
+
+Price
+
+Maximum Amount
+
+Average Corn Price
+
+Terms
+
+Termination
+
+Other Commodities
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Lyndon B. Johnson.
+
+## Source Credit
+
+*(Oct. 31, 1949, ch. 792, title IV, § 407, [63 Stat. 1055](https://www.govinfo.gov/link/statute/63/1055); July 10, 1954, ch. 469, title III, § 308, formerly § 301, [68 Stat. 458](https://www.govinfo.gov/link/statute/68/458), renumbered § 308, [Pub. L. 95–88, title II, § 211(a)(1)](https://www.govinfo.gov/link/plaw/95/public/88), Aug. 3, 1977, [91 Stat. 548](https://www.govinfo.gov/link/statute/91/548); amended July 29, 1954, ch. 643, [68 Stat. 583](https://www.govinfo.gov/link/statute/68/583); Jan. 28, 1956, ch. 14, [70 Stat. 6](https://www.govinfo.gov/link/statute/70/6); [Pub. L. 85–835, title I, § 109](https://www.govinfo.gov/link/plaw/85/public/835), Aug. 28, 1958, [72 Stat. 993](https://www.govinfo.gov/link/statute/72/993); [Pub. L. 87–127](https://www.govinfo.gov/link/plaw/87/public/127), Aug. 7, 1961, [75 Stat. 293](https://www.govinfo.gov/link/statute/75/293); [Pub. L. 87–703, title III, § 325(2)](https://www.govinfo.gov/link/plaw/87/public/703), title IV, § 404, Sept. 27, 1962, [76 Stat. 631](https://www.govinfo.gov/link/statute/76/631), 632; [Pub. L. 88–297, title I, § 104](https://www.govinfo.gov/link/plaw/88/public/297), title II, § 204, Apr. 11, 1964, [78 Stat. 175](https://www.govinfo.gov/link/statute/78/175), 183; [Pub. L. 88–585, § 1](https://www.govinfo.gov/link/plaw/88/public/585), Sept. 11, 1964, [78 Stat. 927](https://www.govinfo.gov/link/statute/78/927); [Pub. L. 89–321, title IV, § 404](https://www.govinfo.gov/link/plaw/89/public/321), Nov. 3, 1965, [79 Stat. 1197](https://www.govinfo.gov/link/statute/79/1197); [Pub. L. 89–808, § 3(e)](https://www.govinfo.gov/link/plaw/89/public/808), Nov. 11, 1966, [80 Stat. 1538](https://www.govinfo.gov/link/statute/80/1538); [Pub. L. 90–475, § 7](https://www.govinfo.gov/link/plaw/90/public/475), Aug. 11, 1968, [82 Stat. 703](https://www.govinfo.gov/link/statute/82/703); [Pub. L. 90–559, § 1(5)](https://www.govinfo.gov/link/plaw/90/public/559), Oct. 11, 1968, [82 Stat. 996](https://www.govinfo.gov/link/statute/82/996); [Pub. L. 91–524, title IV, § 409](https://www.govinfo.gov/link/plaw/91/public/524), title VI, § 603, Nov. 30, 1970, [84 Stat. 1367](https://www.govinfo.gov/link/statute/84/1367), 1377; [Pub. L. 95–113, title IV, § 408](https://www.govinfo.gov/link/plaw/95/public/113), title VI, § 603, Sept. 29, 1977, [91 Stat. 927](https://www.govinfo.gov/link/statute/91/927), 939; [Pub. L. 97–98, title V, § 503](https://www.govinfo.gov/link/plaw/97/public/98), title XI, §§ 1103, 1111(a), Dec. 22, 1981, [95 Stat. 1240](https://www.govinfo.gov/link/statute/95/1240), 1264, 1267; [Pub. L. 98–88, § 5](https://www.govinfo.gov/link/plaw/98/public/88), Aug. 26, 1983, [97 Stat. 499](https://www.govinfo.gov/link/statute/97/499); [Pub. L. 99–198, title V, § 503](https://www.govinfo.gov/link/plaw/99/public/198), title X, § 1007, title XVII, § 1763(b), Dec. 23, 1985, [99 Stat. 1418](https://www.govinfo.gov/link/statute/99/1418), 1451, 1651; [Pub. L. 100–387, title I, § 101(b)(2)](https://www.govinfo.gov/link/plaw/100/public/387), Aug. 11, 1988, [102 Stat. 931](https://www.govinfo.gov/link/statute/102/931); [Pub. L. 100–707, title I, § 109(a)(2)](https://www.govinfo.gov/link/plaw/100/public/707), Nov. 23, 1988, [102 Stat. 4708](https://www.govinfo.gov/link/statute/102/4708); [Pub. L. 101–624, title XI, § 1130](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3509](https://www.govinfo.gov/link/statute/104/3509).)*

@@ -3,9 +3,10 @@ title: "Section 3408 - Job creation activities authorized"
 usc_title: 25
 usc_section: "3408"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3408"
-generated_at: "2026-03-30T02:54:52.852Z"
+generated_at: "2026-11-23T20:26:25.649Z"
+status: "active"
 ---
 
 # § 3408. Job creation activities authorized
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:52.852Z"
     - **(A)** the rate of unemployment in the service area of the tribe up to a maximum of 25 percent; or
     - **(B)** 10 percent.
 - **(c)** The funds used for an expenditure described in subsection (a) may only include funds made available to the Indian tribe by a Federal agency under a statutory or administrative formula.
+
+## Source Credit
+
+*([Pub. L. 102–477, § 9](https://www.govinfo.gov/link/plaw/102/public/477), Oct. 23, 1992, [106 Stat. 2303](https://www.govinfo.gov/link/statute/106/2303); [Pub. L. 106–568, title XI, § 1103(e)](https://www.govinfo.gov/link/plaw/106/public/568), Dec. 27, 2000, [114 Stat. 2932](https://www.govinfo.gov/link/statute/114/2932).)*

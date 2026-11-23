@@ -3,9 +3,10 @@ title: "Section 2806 - Compliance improvement methods"
 usc_title: 12
 usc_section: "2806"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 2806"
-generated_at: "2026-03-30T02:53:53.488Z"
+generated_at: "2026-11-23T20:25:59.310Z"
+status: "active"
 ---
 
 # § 2806. Compliance improvement methods
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:53.488Z"
   - **(2)** There are authorized to be appropriated, such sums as may be necessary to carry out this subsection.
   - **(3)** The Director of the Bureau of Consumer Financial Protection is authorized to utilize, contract with, act through, or compensate any person or agency in order to carry out this subsection.
 - **(b)** The Director of the Bureau of Consumer Financial Protection shall recommend to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives, such additional legislation as the Director of the Bureau of Consumer Financial Protection deems appropriate to carry out the purpose of this chapter.
+
+## Source Credit
+
+*([Pub. L. 94–200, title III, § 307](https://www.govinfo.gov/link/plaw/94/public/200), as added [Pub. L. 111–203, title X, § 1094(6)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2101](https://www.govinfo.gov/link/statute/124/2101).)*

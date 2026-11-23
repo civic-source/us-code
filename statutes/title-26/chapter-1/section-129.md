@@ -3,9 +3,10 @@ title: "Section 129 - Dependent care assistance programs"
 usc_title: 26
 usc_section: "129"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 129"
-generated_at: "2026-03-30T02:55:27.627Z"
+generated_at: "2026-11-23T20:26:45.353Z"
+status: "active"
 ---
 
 # § 129. Dependent care assistance programs
@@ -57,3 +58,15 @@ generated_at: "2026-03-30T02:55:27.627Z"
   - **(9)** No amount paid or incurred by an employer for dependent care assistance provided to an employee shall be excluded from the gross income of such employee unless—
     - **(A)** the name, address, and taxpayer identification number of the person performing the services are included on the return to which the exclusion relates, or
     - **(B)** if such person is an organization described in section 501(c)(3) and exempt from tax under section 501(a), the name and address of such person are included on the return to which the exclusion relates.
+
+Notification of eligible employees
+
+Subsection
+
+Subsection
+
+“A plan that otherwise satisfies all applicable requirements of sections 125 and 129 of the Internal Revenue Code of 1986 (including any rules or regulations thereunder) shall not fail to be treated as a cafeteria plan or dependent care assistance program merely because such plan is amended pursuant to a provision under this section and such amendment is retroactive, if—
+
+## Source Credit
+
+*(Added [Pub. L. 97–34, title I, § 124(e)(1)](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 198](https://www.govinfo.gov/link/statute/95/198); amended [Pub. L. 97–448, title I, § 101(e)](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2366](https://www.govinfo.gov/link/statute/96/2366); [Pub. L. 98–369, div. A, title IV, § 474(r)(6)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 839](https://www.govinfo.gov/link/statute/98/839); [Pub. L. 99–514, title I, § 104(b)(1)](https://www.govinfo.gov/link/plaw/99/public/514), title XI, §§ 1114(b)(4), 1151(c)(5), (f), (g)(4), 1163(a), (b), Oct. 22, 1986, [100 Stat. 2104](https://www.govinfo.gov/link/statute/100/2104), 2450, 2503, 2506, 2507, 2510; [Pub. L. 100–485, title VII, § 703(c)(2)](https://www.govinfo.gov/link/plaw/100/public/485), Oct. 13, 1988, [102 Stat. 2427](https://www.govinfo.gov/link/statute/102/2427); [Pub. L. 100–647, title I, § 1011B(a)(14)](https://www.govinfo.gov/link/plaw/100/public/647), (15), (18), (30), (31)(A), (c)(1), (2)(A), title III, § 3021(a)(14), Nov. 10, 1988, [102 Stat. 3485](https://www.govinfo.gov/link/statute/102/3485), 3487–3489, 3631; [Pub. L. 101–140, title II](https://www.govinfo.gov/link/plaw/101/public/140), §§ 203(a)(1), (2), 204(a)(1)–(3)(C), Nov. 8, 1989, [103 Stat. 830](https://www.govinfo.gov/link/statute/103/830), 832; [Pub. L. 101–239, title VII, § 7811(h)(2)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2409](https://www.govinfo.gov/link/statute/103/2409); [Pub. L. 104–188, title I, § 1431(c)(1)(B)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1803](https://www.govinfo.gov/link/statute/110/1803); [Pub. L. 108–311, title II, § 207(12)](https://www.govinfo.gov/link/plaw/108/public/311), Oct. 4, 2004, [118 Stat. 1177](https://www.govinfo.gov/link/statute/118/1177); [Pub. L. 117–2, title IX, § 9632(a)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 160](https://www.govinfo.gov/link/statute/135/160); [Pub. L. 119–21, title VII, § 70404(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 214](https://www.govinfo.gov/link/statute/139/214).)*

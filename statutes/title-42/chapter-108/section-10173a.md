@@ -3,15 +3,23 @@ title: "Section 10173a - Content of agreements"
 usc_title: 42
 usc_section: "10173a"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10173a"
-generated_at: "2026-03-30T02:56:11.383Z"
+generated_at: "2026-11-23T20:27:23.218Z"
+status: "active"
 ---
 
 # § 10173a. Content of agreements
 
 - **(a)**
-  - **(1)** In addition to the benefits to which a State, an affected unit of local government or Indian tribe is entitled under this subchapter, the Secretary shall make payments to a State or Indian tribe that is a party to a benefits agreement under section 10173 of this title in accordance with the following schedule: BENEFITS SCHEDULE (amounts in $ millions) Event MRS Repository (A) Annual payments prior to first spent fuel receipt 5 10 (B) Upon first spent fuel receipt 10 20 (C) Annual payments after first spent fuel receipt until closure of the facility 10 20
+  - **(1)** In addition to the benefits to which a State, an affected unit of local government or Indian tribe is entitled under this subchapter, the Secretary shall make payments to a State or Indian tribe that is a party to a benefits agreement under section 10173 of this title in accordance with the following schedule:
+
+| BENEFITS SCHEDULE | Col 2 | Col 3 |
+| --- | --- | --- |
+| (A) Annual payments prior to first spent fuel receipt | 5 | 10 |
+| (B) Upon first spent fuel receipt | 10 | 20 |
+| (C) Annual payments after first spent fuel receipt until closure of the facility | 10 | 20 |
+
   - **(2)** For purposes of this section, the term—
     - **(A)** “MRS” means a monitored retrievable storage facility,
     - **(B)** “spent fuel” means high-level radioactive waste or spent nuclear fuel, and
@@ -31,3 +39,13 @@ generated_at: "2026-03-30T02:56:11.383Z"
   - **(4)** the State or Indian tribe that is party to such agreement participate in the design of the repository or monitored retrievable storage facility and in the preparation of documents required under law or regulation governing the effects of the facility on the public health and safety; and
   - **(5)** the State or Indian tribe waive its rights, if any, to impact assistance under sections 10136(c)(1)(B)(ii), 10136(c)(2), 10138(b)(2)(A)(ii), and 10138(b)(3) of this title.
 - **(c)** The Secretary shall make payments to the States or affected Indian tribes under a benefits agreement under this section from the Waste Fund. The signature of the Secretary on a valid benefits agreement under section 10173 of this title shall constitute a commitment by the United States to make payments in accordance with such agreement.
+
+(A) Annual payments prior to first spent fuel receipt
+
+(B) Upon first spent fuel receipt
+
+(C) Annual payments after first spent fuel receipt until closure of the facility
+
+## Source Credit
+
+*([Pub. L. 97–425, title I, § 171](https://www.govinfo.gov/link/plaw/97/public/425), as added [Pub. L. 100–202, § 101(d) [title III, § 300]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–104](https://www.govinfo.gov/link/statute/101/1329), 1329–121; [Pub. L. 100–203, title V, § 5031](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–237](https://www.govinfo.gov/link/statute/101/1330).)*

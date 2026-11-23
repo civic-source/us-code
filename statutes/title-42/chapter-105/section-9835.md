@@ -3,9 +3,10 @@ title: "Section 9835 - Allotment of funds"
 usc_title: 42
 usc_section: "9835"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9835"
-generated_at: "2026-03-30T02:56:11.366Z"
+generated_at: "2026-11-23T20:27:23.140Z"
+status: "active"
 ---
 
 # § 9835. Allotment of funds
@@ -165,3 +166,33 @@ generated_at: "2026-03-30T02:56:11.366Z"
   - **(3)** to coordinate individual Head Start programs with efforts to implement subtitle B of title VII of the McKinney-Vento Homeless Assistance Act ( 42 U.S.C. 11431 et seq.).
 - **(n)** Nothing in this subchapter shall be construed to require a State to establish a publicly funded program of early childhood education and development, or to require any child to participate in such a publicly funded program, including a State-funded preschool program, or to participate in any initial screening before participating in a publicly funded program of early childhood education and development, except as provided under sections 612(a)(3) and 635(a)(5) of the Individuals with Disabilities Education Act ( 20 U.S.C. 1412(a)(3) , 1435(a)(5)).
 - **(o)** All curricula funded under this subchapter shall be based on scientifically valid research, and be age and developmentally appropriate. The curricula shall reflect all areas of child development and learning and be aligned with the Head Start Child Outcomes Framework. Parents shall have the opportunity to examine any such curricula or instructional materials funded under this subchapter.
+
+(aa) not less than 50 percent shall be made available to Head Start agencies to use directly, which may include at their discretion the establishment of local or regional agreements with community experts, institutions of higher education, or private consultants, to make program improvements identified by such agencies, by carrying out the training and technical assistance activities described in section 9843(d) of this title ;
+
+(bb) not less than 25 percent shall be available to the Secretary to support a State-based training and technical assistance system, or a national system, described in section 9843(e) of this title for supporting program quality; and
+
+(cc) the remainder of the portion set aside under this subclause shall be available to the Secretary to assist Head Start agencies in meeting and exceeding the standards described in section 9836a(a)(1) of this title by carrying out activities described in subsections (a), (b), (c), (f), and (g) of section 9843 of this title , including helping Head Start programs address weaknesses identified by monitoring activities conducted by the Secretary under section 9836a(c) of this title , except that not less than $3,000,000 of the remainder shall be made available to carry out activities described in section 9843(a)(3)(B)(ii) of this title .
+
+(aa) subject to subparagraph (B), provide 5 percent of that amount for Indian Head Start programs (including Early Head Start programs), and 5 percent of that amount for migrant and seasonal Head Start programs, to increase enrollment in the programs involved; and
+
+(bb) use 90 percent of that amount to provide, for each Head Start agency (including each Early Head Start agency) funded as described in clause (i)(I), the same percentage (but not less than 50 percent) of the cost of living increase described in clause (i); and
+
+(aa) provide, for each Head Start agency (including each Early Head Start agency) funded as described in clause (i)(I), the cost of living increase described in clause (i); and
+
+(bb) subject to subparagraph (B), with any portion of the remaining amount that is not used under item (aa), provide equal amounts for Indian Head Start programs (including Early Head Start programs), and for migrant and seasonal Head Start programs, to increase enrollment in the programs involved; and
+
+(aa) if no portion is reallocated under clause (iii), those funds shall remain available to the programs involved; or
+
+(bb) if a portion is reallocated under clause (iii), the portion shall remain available to the recipients of the portion.
+
+(aa) the covered percentage shall be allocated among the States serving less than 60 percent (as determined by the Secretary) of children who are 3 or 4 years of age from families whose income is below the poverty line, by allocating to each of those States an amount that bears the same relationship to that covered percentage as the number of children who are less than 5 years of age from families whose income is below the poverty line (referred to in this subclause as “young low-income children”) in that State bears to the number of young low-income children in all those States; and
+
+(bb) the remainder shall be allocated proportionately among the States on the basis of the number of young low-income children; and
+
+Effective Dates
+
+Application of Amendments
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 640](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 499](https://www.govinfo.gov/link/statute/95/499); [Pub. L. 98–558, title I, § 103](https://www.govinfo.gov/link/plaw/98/public/558), Oct. 30, 1984, [98 Stat. 2878](https://www.govinfo.gov/link/statute/98/2878); [Pub. L. 99–425, title I, § 102](https://www.govinfo.gov/link/plaw/99/public/425), Sept. 30, 1986, [100 Stat. 966](https://www.govinfo.gov/link/statute/100/966); [Pub. L. 101–476, title IX, § 901(d)](https://www.govinfo.gov/link/plaw/101/public/476), Oct. 30, 1990, [104 Stat. 1151](https://www.govinfo.gov/link/statute/104/1151); [Pub. L. 101–501, title I](https://www.govinfo.gov/link/plaw/101/public/501), §§ 104(a), 105, 123(b), Nov. 3, 1990, [104 Stat. 1224](https://www.govinfo.gov/link/statute/104/1224), 1228, 1237; [Pub. L. 102–119, § 26(g)](https://www.govinfo.gov/link/plaw/102/public/119), Oct. 7, 1991, [105 Stat. 607](https://www.govinfo.gov/link/statute/105/607); [Pub. L. 102–401, § 2(a)](https://www.govinfo.gov/link/plaw/102/public/401) –(d), (k)(1), Oct. 7, 1992, [106 Stat. 1956](https://www.govinfo.gov/link/statute/106/1956), 1958; [Pub. L. 103–252, title I, § 105](https://www.govinfo.gov/link/plaw/103/public/252), May 18, 1994, [108 Stat. 626](https://www.govinfo.gov/link/statute/108/626); [Pub. L. 104–193, title I, § 110(t)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2175](https://www.govinfo.gov/link/statute/110/2175); [Pub. L. 105–285, title I, § 106(a)](https://www.govinfo.gov/link/plaw/105/public/285) –(d), Oct. 27, 1998, [112 Stat. 2705–2711](https://www.govinfo.gov/link/statute/112/2705); [Pub. L. 108–446, title III, § 305](https://www.govinfo.gov/link/plaw/108/public/446) (l)(1), (2), Dec. 3, 2004, [118 Stat. 2806](https://www.govinfo.gov/link/statute/118/2806); [Pub. L. 110–134, § 6](https://www.govinfo.gov/link/plaw/110/public/134), Dec. 12, 2007, [121 Stat. 1367](https://www.govinfo.gov/link/statute/121/1367); [Pub. L. 118–42, div. G, title II, § 209(b)(6)(B)](https://www.govinfo.gov/link/plaw/118/public/42), Mar. 9, 2024, [138 Stat. 443](https://www.govinfo.gov/link/statute/138/443).)*

@@ -3,9 +3,10 @@ title: "Section 286yy - Opposition to assistance for any government that fails t
 usc_title: 22
 usc_section: "286yy"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 286yy"
-generated_at: "2026-03-30T02:55:05.320Z"
+generated_at: "2026-11-23T20:26:32.018Z"
+status: "active"
 ---
 
 # § 286yy. Opposition to assistance for any government that fails to implement sanctions on North Korea
@@ -17,3 +18,15 @@ generated_at: "2026-03-30T02:55:05.320Z"
     - **(B)** the foreign government is taking effective steps to prevent recurrence of such failure; or
     - **(C)** the waiver is in the national security interests of the United States; and
   - **(2)** submits to Congress a report on the reasons for the determination under paragraph (1).
+
+Section
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*(July 31, 1945, ch. 339, § 73, as added [Pub. L. 116–92, div. F, title LXXI, § 7124(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2248](https://www.govinfo.gov/link/statute/133/2248).)*

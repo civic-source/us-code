@@ -3,9 +3,10 @@ title: "Section 742 - Powers and duties of Corporation"
 usc_title: 45
 usc_section: "742"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 742"
-generated_at: "2026-03-30T02:55:56.555Z"
+generated_at: "2026-11-23T20:27:05.305Z"
+status: "active"
 ---
 
 # § 742. Powers and duties of Corporation
@@ -16,3 +17,7 @@ The Corporation shall have all of the powers and is subject to all of the duties
 - **(b)** operate rail service over such rail properties except as provided under sections 744(e) and 791(d)(3) of this title;
 - **(c)** rehabilitate, improve, and modernize such rail properties; and
 - **(d)** maintain adequate and efficient rail services.
+
+## Source Credit
+
+*([Pub. L. 93–236, title III, § 302](https://www.govinfo.gov/link/plaw/93/public/236), Jan. 2, 1974, [87 Stat. 1005](https://www.govinfo.gov/link/statute/87/1005).)*

@@ -3,9 +3,10 @@ title: "Section 2668a - Easements: granting restrictive easements in connection 
 usc_title: 10
 usc_section: "2668a"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2668a"
-generated_at: "2026-03-30T02:53:38.169Z"
+generated_at: "2026-11-23T20:25:51.644Z"
+status: "active"
 ---
 
 # § 2668a. Easements: granting restrictive easements in connection with land conveyances
@@ -22,3 +23,19 @@ generated_at: "2026-03-30T02:53:38.169Z"
 - **(d)** Easements granted under this section shall be without consideration from the recipient.
 - **(e)** No easement granted under this section may include more land than is necessary for the easement.
 - **(f)** The grant of an easement under this section shall be subject to such additional terms and conditions as the Secretary concerned considers appropriate to protect the interests of the United States.
+
+Authority to Include Restrictive Easement
+
+Authorized Recipients
+
+Limitations on Use of Easement Authority
+
+Consideration
+
+Acreage Limitation
+
+Terms and Conditions
+
+## Source Credit
+
+*(Added [Pub. L. 109–364, div. B, title XXVIII, § 2823(a)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2475](https://www.govinfo.gov/link/statute/120/2475).)*

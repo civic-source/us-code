@@ -3,9 +3,10 @@ title: "Section 2251 - Sexual exploitation of children"
 usc_title: 18
 usc_section: "2251"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2251"
-generated_at: "2026-03-30T02:54:16.497Z"
+generated_at: "2026-11-23T20:26:08.563Z"
+status: "active"
 ---
 
 # § 2251. Sexual exploitation of children
@@ -25,3 +26,21 @@ generated_at: "2026-03-30T02:54:16.497Z"
     - **(A)** such person knows or has reason to know that such notice or advertisement will be transported using any means or facility of interstate or foreign commerce or in or affecting interstate or foreign commerce by any means including by computer or mailed; or
     - **(B)** such notice or advertisement is transported using any means or facility of interstate or foreign commerce or in or affecting interstate or foreign commerce by any means including by computer or mailed.
 - **(e)** Any individual who violates, or attempts or conspires to violate, this section shall be fined under this title and imprisoned not less than 15 years nor more than 30 years, but if such person has one prior conviction under this chapter, section 1591, chapter 71, chapter 109A, or chapter 117, or under the Uniform Code of Military Justice or the laws of any State relating to aggravated sexual abuse, sexual abuse, abusive sexual contact involving a minor or ward, or sex trafficking of children, or the production, possession, receipt, mailing, sale, distribution, shipment, or transportation of child pornography, such person shall be fined under this title and imprisoned for not less than 25 years nor more than 50 years, but if such person has 2 or more prior convictions under this chapter, chapter 71, chapter 109A, or chapter 117, or under the Uniform Code of Military Justice or the laws of any State relating to the sexual exploitation of children, such person shall be fined under this title and imprisoned not less than 35 years nor more than life. Any organization that violates, or attempts or conspires to violate, this section shall be fined under this title. Whoever, in the course of an offense under this section, engages in conduct that results in the death of a person, shall be punished by death or imprisoned for not less than 30 years or for life.
+
+“If any provision of this title [enacting sections 2258A to 2258E of this title, amending section 2702 of this title , and repealing section 13032 of Title 42 , The Public Health and Welfare] or amendment made by this title is held to be unconstitutional, the remainder of the provisions of this title or amendments made by this title—
+
+“Congress finds the following:
+
+“Congress makes the following findings:
+
+“Congress finds the following:
+
+“Congress finds that—
+
+“The Congress finds that—
+
+“The Congress finds that—
+
+## Source Credit
+
+*(Added [Pub. L. 95–225, § 2(a)](https://www.govinfo.gov/link/plaw/95/public/225), Feb. 6, 1978, [92 Stat. 7](https://www.govinfo.gov/link/statute/92/7); amended [Pub. L. 98–292, § 3](https://www.govinfo.gov/link/plaw/98/public/292), May 21, 1984, [98 Stat. 204](https://www.govinfo.gov/link/statute/98/204); [Pub. L. 99–500, § 101(b) [title VII, § 704(a)]](https://www.govinfo.gov/link/plaw/99/public/500), Oct. 18, 1986, [100 Stat. 1783–39](https://www.govinfo.gov/link/statute/100/1783), 1783–75, and [Pub. L. 99–591, § 101(b) [title VII, § 704(a)]](https://www.govinfo.gov/link/plaw/99/public/591), Oct. 30, 1986, [100 Stat. 3341–39](https://www.govinfo.gov/link/statute/100/3341), 3341–75; [Pub. L. 99–628](https://www.govinfo.gov/link/plaw/99/public/628), §§ 2, 3, Nov. 7, 1986, [100 Stat. 3510](https://www.govinfo.gov/link/statute/100/3510); [Pub. L. 100–690, title VII, § 7511(a)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4485](https://www.govinfo.gov/link/statute/102/4485); [Pub. L. 101–647, title XXXV, § 3563](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4928](https://www.govinfo.gov/link/statute/104/4928); [Pub. L. 103–322, title VI, § 60011](https://www.govinfo.gov/link/plaw/103/public/322), title XVI, § 160001(b)(2), (c), (e), title XXXIII, § 330016(1)(S)–(U), Sept. 13, 1994, [108 Stat. 1973](https://www.govinfo.gov/link/statute/108/1973), 2037, 2148; [Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 121[4]](https://www.govinfo.gov/link/plaw/104/public/208) ], Sept. 30, 1996, [110 Stat. 3009](https://www.govinfo.gov/link/statute/110/3009), 3009–26, 3009–30; [Pub. L. 105–314, title II, § 201](https://www.govinfo.gov/link/plaw/105/public/314), Oct. 30, 1998, [112 Stat. 2977](https://www.govinfo.gov/link/statute/112/2977); [Pub. L. 108–21, title I, § 103(a)(1)(A)](https://www.govinfo.gov/link/plaw/108/public/21), (b)(1)(A), title V, §§ 506, 507, Apr. 30, 2003, [117 Stat. 652](https://www.govinfo.gov/link/statute/117/652), 653, 683; [Pub. L. 109–248, title II, § 206(b)(1)](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 614](https://www.govinfo.gov/link/statute/120/614); [Pub. L. 110–358, title I, § 103(a)(1)](https://www.govinfo.gov/link/plaw/110/public/358), (b), Oct. 8, 2008, [122 Stat. 4002](https://www.govinfo.gov/link/statute/122/4002), 4003; [Pub. L. 110–401, title III, § 301](https://www.govinfo.gov/link/plaw/110/public/401), Oct. 13, 2008, [122 Stat. 4242](https://www.govinfo.gov/link/statute/122/4242); [Pub. L. 118–159, div. A, title V, § 569(2)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1906](https://www.govinfo.gov/link/statute/138/1906).)*

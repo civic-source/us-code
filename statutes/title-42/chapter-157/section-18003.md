@@ -3,9 +3,10 @@ title: "Section 18003 - Immediate information that allows consumers to identify 
 usc_title: 42
 usc_section: "18003"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18003"
-generated_at: "2026-03-30T02:56:11.511Z"
+generated_at: "2026-11-23T20:27:23.771Z"
+status: "active"
 ---
 
 # § 18003. Immediate information that allows consumers to identify affordable coverage options
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.511Z"
   - **(1)** Not later than 60 days after March 23, 2010 , the Secretary shall develop a standardized format to be used for the presentation of information relating to the coverage options described in subsection (a)(2). Such format shall, at a minimum, require the inclusion of information on the percentage of total premium revenue expended on nonclinical costs (as reported under section 300gg–18(a) of this title ), eligibility, availability, premium rates, and cost sharing with respect to such coverage options and be consistent with the standards adopted for the uniform explanation of coverage as provided for in section 300gg–15 of this title .
   - **(2)** The Secretary shall utilize the format developed under paragraph (1) in compiling information concerning coverage options on the Internet website established under subsection (a).
 - **(c)** The Secretary may carry out this section through contracts entered into with qualified entities.
+
+## Source Credit
+
+*([Pub. L. 111–148, title I, § 1103](https://www.govinfo.gov/link/plaw/111/public/148), title X, § 10102(b), Mar. 23, 2010, [124 Stat. 146](https://www.govinfo.gov/link/statute/124/146), 892.)*

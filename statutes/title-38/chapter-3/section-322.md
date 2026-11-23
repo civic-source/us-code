@@ -3,9 +3,10 @@ title: "Section 322 - Office of National Veterans Sports Programs and Special Ev
 usc_title: 38
 usc_section: "322"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 322"
-generated_at: "2026-03-30T02:55:53.471Z"
+generated_at: "2026-11-23T20:27:01.560Z"
+status: "active"
 ---
 
 # § 322. Office of National Veterans Sports Programs and Special Events
@@ -35,3 +36,27 @@ generated_at: "2026-03-30T02:55:53.471Z"
   - **(4)** The Northern Mariana Islands.
   - **(5)** The United States Virgin Islands.
 - **(f)** Nothing in this section shall be construed as a limitation on disabled sports and special events supported by the Department as of the date of the enactment of this section.
+
+Establishment
+
+Responsibilities of Director
+
+Qualifying Program or Event
+
+Monthly Assistance Allowance
+
+Applicability to Commonwealths and Territories of the United States
+
+Limitation on Statutory Construction
+
+Effective Date
+
+Ratification
+
+Findings
+
+Purpose
+
+## Source Credit
+
+*(Added [Pub. L. 110–389, title VII, § 703(a)](https://www.govinfo.gov/link/plaw/110/public/389), Oct. 10, 2008, [122 Stat. 4183](https://www.govinfo.gov/link/statute/122/4183); amended [Pub. L. 113–37, § 2(a)](https://www.govinfo.gov/link/plaw/113/public/37), Sept. 30, 2013, [127 Stat. 523](https://www.govinfo.gov/link/statute/127/523); [Pub. L. 113–59, § 4](https://www.govinfo.gov/link/plaw/113/public/59), Dec. 20, 2013, [127 Stat. 659](https://www.govinfo.gov/link/statute/127/659); [Pub. L. 114–58, title IV, § 402](https://www.govinfo.gov/link/plaw/114/public/58), Sept. 30, 2015, [129 Stat. 534](https://www.govinfo.gov/link/statute/129/534); [Pub. L. 114–223, div. A, title II, § 249](https://www.govinfo.gov/link/plaw/114/public/223), Sept. 29, 2016, [130 Stat. 892](https://www.govinfo.gov/link/statute/130/892); [Pub. L. 114–228, title IV, § 403](https://www.govinfo.gov/link/plaw/114/public/228), Sept. 29, 2016, [130 Stat. 940](https://www.govinfo.gov/link/statute/130/940); [Pub. L. 115–62, title IV, § 403](https://www.govinfo.gov/link/plaw/115/public/62), Sept. 29, 2017, [131 Stat. 1164](https://www.govinfo.gov/link/statute/131/1164); [Pub. L. 115–251, title I, § 163](https://www.govinfo.gov/link/plaw/115/public/251), Sept. 29, 2018, [132 Stat. 3171](https://www.govinfo.gov/link/statute/132/3171); [Pub. L. 116–159, div. E, title IV, § 5401](https://www.govinfo.gov/link/plaw/116/public/159), Oct. 1, 2020, [134 Stat. 751](https://www.govinfo.gov/link/statute/134/751); [Pub. L. 117–180, div. E, title IV, § 401](https://www.govinfo.gov/link/plaw/117/public/180), Sept. 30, 2022, [136 Stat. 2139](https://www.govinfo.gov/link/statute/136/2139); [Pub. L. 118–83, div. B, title III, § 334](https://www.govinfo.gov/link/plaw/118/public/83), Sept. 26, 2024, [138 Stat. 1541](https://www.govinfo.gov/link/statute/138/1541).)*

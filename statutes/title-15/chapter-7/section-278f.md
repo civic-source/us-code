@@ -3,9 +3,10 @@ title: "Section 278f - Fire Research Center"
 usc_title: 15
 usc_section: "278f"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 278f"
-generated_at: "2026-03-30T02:54:08.078Z"
+generated_at: "2026-11-23T20:26:03.677Z"
+status: "active"
 ---
 
 # § 278f. Fire Research Center
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:54:08.078Z"
 - **(b)** For purposes of this section, there are authorized to be appropriated an amount not to exceed $5,650,000 for the fiscal year ending September 30, 1980 , which amount includes—
   - **(1)** $525,000 for programs which are recommended in the report submitted to the Congress by the Administrator of the United States Fire Administration pursuant to section 2220(b)(1) 1 1 See References in Text note below. of this title; and
   - **(2)** $119,000 for adjustments required by law in salaries, pay, retirement, and employee benefits.
+
+## Source Credit
+
+*(Mar. 3, 1901, ch. 872, § 16, as added [Pub. L. 93–498, § 18](https://www.govinfo.gov/link/plaw/93/public/498), Oct. 29, 1974, [88 Stat. 1545](https://www.govinfo.gov/link/statute/88/1545); amended [Pub. L. 94–411, § 1(b)](https://www.govinfo.gov/link/plaw/94/public/411), Sept. 13, 1976, [90 Stat. 1254](https://www.govinfo.gov/link/statute/90/1254); [Pub. L. 95–422](https://www.govinfo.gov/link/plaw/95/public/422), §§ 1(b), 2(b), 3(b), Oct. 5, 1978, [92 Stat. 932](https://www.govinfo.gov/link/statute/92/932), 933; [Pub. L. 96–121, § 3](https://www.govinfo.gov/link/plaw/96/public/121), Nov. 16, 1979, [93 Stat. 863](https://www.govinfo.gov/link/statute/93/863).)*

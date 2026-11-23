@@ -3,9 +3,10 @@ title: "Section 665b - Joint cyber planning office"
 usc_title: 6
 usc_section: "665b"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 665b"
-generated_at: "2026-03-30T02:53:09.478Z"
+generated_at: "2026-11-23T20:25:34.832Z"
+status: "active"
 ---
 
 # § 665b. Joint cyber planning office
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:53:09.478Z"
   - **(5)** other appropriate representatives or entities, as determined by the Secretary.
 - **(e)** The Secretary and the head of a Federal department or agency referred to in subsection (c) may enter into agreements for the purpose of detailing personnel on a reimbursable or non-reimbursable basis.
 - **(f)** In this section, the term “cyber defense operation” means the defensive activities performed for a cybersecurity purpose.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XXII, § 2216](https://www.govinfo.gov/link/plaw/107/public/296), formerly § 2215, as added [Pub. L. 116–283, div. A, title XVII, § 1715(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4092](https://www.govinfo.gov/link/statute/134/4092); renumbered § 2216 and amended [Pub. L. 117–81, div. A, title XV, § 1547(b)(1)(A)(iii)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2061](https://www.govinfo.gov/link/statute/135/2061); [Pub. L. 117–263, div. G, title LXXI, § 7143(b)(2)(I)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3660](https://www.govinfo.gov/link/statute/136/3660).)*

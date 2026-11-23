@@ -3,9 +3,10 @@ title: "Section 1131 - Minority foreign service professional development program
 usc_title: 20
 usc_section: "1131"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1131"
-generated_at: "2026-03-30T02:54:48.144Z"
+generated_at: "2026-11-23T20:26:14.557Z"
+status: "active"
 ---
 
 # § 1131. Minority foreign service professional development program
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:48.144Z"
   - **(2)** Each application submitted under paragraph (1) shall include a description of how the activities funded by the grant will reflect diverse perspectives and a wide range of views and generate debate on world regions and international affairs, where applicable.
 - **(d)** Grants made pursuant to this section shall be awarded for a period not to exceed 5 years.
 - **(e)** The eligible recipient of a grant under this section shall contribute to the conduct of the program supported by the grant an amount from non-Federal sources equal to at least one-half the amount of the grant, which contribution may be in cash or in kind.
+
+## Source Credit
+
+*([Pub. L. 89–329, title VI, § 621](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 102–325, title VI, § 601](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 734](https://www.govinfo.gov/link/statute/106/734); amended [Pub. L. 105–244, title VI, § 603(a)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1783](https://www.govinfo.gov/link/statute/112/1783); [Pub. L. 110–315, title VI, § 612](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3339](https://www.govinfo.gov/link/statute/122/3339).)*

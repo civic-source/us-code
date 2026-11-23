@@ -3,9 +3,10 @@ title: "Section 7631 - Agricultural biotechnology research and development for d
 usc_title: 7
 usc_section: "7631"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7631"
-generated_at: "2026-03-30T02:53:42.459Z"
+generated_at: "2026-11-23T20:25:41.817Z"
+status: "active"
 ---
 
 # § 7631. Agricultural biotechnology research and development for developing countries
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:42.459Z"
     - **(F)** develop environmentally sustainable agricultural products that can be grown in developing countries; and
     - **(G)** develop vaccines to immunize against life-threatening illnesses and other medications that can be administered by consuming genetically-engineered agricultural products.
 - **(c)** There are authorized to be appropriated such sums as may be necessary to carry out this section for each of fiscal years 2002 through 2012.
+
+## Source Credit
+
+*([Pub. L. 105–185, title IV, § 411](https://www.govinfo.gov/link/plaw/105/public/185), as added [Pub. L. 107–171, title VII, § 7505](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 466](https://www.govinfo.gov/link/statute/116/466); amended [Pub. L. 110–234, title VII, § 7310](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1243](https://www.govinfo.gov/link/statute/122/1243); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, § 7310, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2004.)*

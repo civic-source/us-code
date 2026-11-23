@@ -3,9 +3,10 @@ title: "Section 30110 - Improved investigative and forensic resources for enforc
 usc_title: 34
 usc_section: "30110"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 30110"
-generated_at: "2026-03-30T02:55:33.306Z"
+generated_at: "2026-11-23T20:26:50.628Z"
+status: "active"
 ---
 
 # § 30110. Improved investigative and forensic resources for enforcement of laws related to cybercrimes against individuals
@@ -17,3 +18,7 @@ Subject to the availability of appropriations to carry out this section, the Att
   - **(3)** ensure the implementation of a regular and comprehensive training program—
     - **(A)** the purpose of which is to train agents of the Federal Bureau of Investigation in the investigation and prosecution of such crimes and the enforcement of laws related to cybercrimes against individuals; and
     - **(B)** that includes relevant forensic training related to investigating and prosecuting cybercrimes against individuals.
+
+## Source Credit
+
+*([Pub. L. 117–347, title III, § 321](https://www.govinfo.gov/link/plaw/117/public/347), Jan. 5, 2023, [136 Stat. 6206](https://www.govinfo.gov/link/statute/136/6206).)*

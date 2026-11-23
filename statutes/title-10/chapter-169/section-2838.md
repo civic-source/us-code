@@ -3,9 +3,10 @@ title: "Section 2838 - Leasing of military family housing to Secretary of Defens
 usc_title: 10
 usc_section: "2838"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2838"
-generated_at: "2026-03-30T02:53:38.179Z"
+generated_at: "2026-11-23T20:25:51.735Z"
+status: "active"
 ---
 
 # § 2838. Leasing of military family housing to Secretary of Defense
@@ -17,3 +18,13 @@ generated_at: "2026-03-30T02:53:38.179Z"
 - **(c)**
   - **(1)** The Secretary of a military department shall deposit all amounts received pursuant to leases entered into by the Secretary under this section into a special account in the Treasury established for such military department.
   - **(2)** The proceeds deposited into the special account of a military department pursuant to paragraph (1) shall be available to the Secretary of that military department, without further appropriation, for the maintenance, protection, alteration, repair, improvement, or restoration of military housing on the military installation at which the housing leased pursuant to subsection (a) is located.
+
+Authority
+
+Rental Rate
+
+Treatment of Proceeds
+
+## Source Credit
+
+*(Added [Pub. L. 110–417, div. B, title XXVIII, § 2804(a)](https://www.govinfo.gov/link/plaw/110/public/417), Oct. 14, 2008, [122 Stat. 4720](https://www.govinfo.gov/link/statute/122/4720).)*

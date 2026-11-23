@@ -3,9 +3,10 @@ title: "Section 3931 - Protection of servicemembers against default judgments"
 usc_title: 50
 usc_section: "3931"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3931"
-generated_at: "2026-03-30T02:56:26.263Z"
+generated_at: "2026-11-23T20:27:31.053Z"
+status: "active"
 ---
 
 # § 3931. Protection of servicemembers against default judgments
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:26.263Z"
     - **(B)** the servicemember has a meritorious or legal defense to the action or some part of it.
   - **(2)** An application under this subsection must be filed not later than 90 days after the date of the termination of or release from military service.
 - **(h)** If a court vacates, sets aside, or reverses a default judgment against a servicemember and the vacating, setting aside, or reversing is because of a provision of this chapter, that action shall not impair a right or title acquired by a bona fide purchaser for value under the default judgment.
+
+## Source Credit
+
+*(Oct. 17, 1940, ch. 888, title II, § 201, as added [Pub. L. 108–189, § 1](https://www.govinfo.gov/link/plaw/108/public/189), Dec. 19, 2003, [117 Stat. 2840](https://www.govinfo.gov/link/statute/117/2840); amended [Pub. L. 110–181, div. A, title V, § 584(a)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 128](https://www.govinfo.gov/link/statute/122/128).)*

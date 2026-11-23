@@ -3,9 +3,10 @@ title: "Section 1396w - Asset verification through access to information held by
 usc_title: 42
 usc_section: "1396w"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1396w"
-generated_at: "2026-03-30T02:56:11.062Z"
+generated_at: "2026-11-23T20:27:21.643Z"
+status: "active"
 ---
 
 # § 1396w. Asset verification through access to information held by financial institutions
@@ -64,3 +65,7 @@ generated_at: "2026-03-30T02:56:11.062Z"
     - **(A)** that is one of the 50 States, the District of Columbia, or Puerto Rico;
     - **(B)** with respect to which the Secretary has not approved a State plan amendment submitted under subsection (a)(2); and
     - **(C)** that is not operating, on an ongoing basis, an asset verification program in accordance with this section.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XIX, § 1940, as added [Pub. L. 110–252, title VII, § 7001(d)(1)](https://www.govinfo.gov/link/plaw/110/public/252), June 30, 2008, [122 Stat. 2391](https://www.govinfo.gov/link/statute/122/2391); amended [Pub. L. 116–3, § 4](https://www.govinfo.gov/link/plaw/116/public/3), Jan. 24, 2019, [133 Stat. 7](https://www.govinfo.gov/link/statute/133/7); [Pub. L. 117–328, div. FF, title V, § 5101(c)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5935](https://www.govinfo.gov/link/statute/136/5935).)*

@@ -3,9 +3,10 @@ title: "Section 10224 - Support for greater United Nations action with respect t
 usc_title: 22
 usc_section: "10224"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 10224"
-generated_at: "2026-03-30T02:55:05.475Z"
+generated_at: "2026-11-23T20:26:32.815Z"
+status: "active"
 ---
 
 # § 10224. Support for greater United Nations action with respect to Burma
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:05.475Z"
 - **(c)** It is the sense of Congress that the United States Permanent Representative to the United Nations should use the voice, vote, and influence of the United States to—
   - **(1)** object to the appointment of representatives to the United Nations and United Nations bodies such as the Human Rights Council that are sanctioned by the Burmese military; and
   - **(2)** work to ensure the Burmese military is not recognized as the legitimate government of Burma in any United Nations body.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. E, title LV, § 5573](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3367](https://www.govinfo.gov/link/statute/136/3367).)*

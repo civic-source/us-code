@@ -3,9 +3,10 @@ title: "Section 6706 - Income gap multiplier"
 usc_title: 31
 usc_section: "6706"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 6706"
-generated_at: "2026-03-30T02:55:34.074Z"
+generated_at: "2026-11-23T20:26:51.917Z"
+status: "active"
 ---
 
 # § 6706. Income gap multiplier
@@ -14,3 +15,7 @@ For purposes of determining the income gap of a unit of general local government
 
   - **(1)** 1.6, with respect to ½ of any amount allocated under section 6704 to the State in which the unit is located; and
   - **(2)** 1.2, with respect to the remainder of such amount.
+
+## Source Credit
+
+*(Added [Pub. L. 103–322, title III, § 301001(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 stat. 1871](https://www.govinfo.gov/link/statute/108/1871).)*

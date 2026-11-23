@@ -3,9 +3,10 @@ title: "Section 387v - Reporting on tobacco regulation activities"
 usc_title: 21
 usc_section: "387v"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 387v"
-generated_at: "2026-03-30T02:54:54.282Z"
+generated_at: "2026-11-23T20:26:27.781Z"
+status: "active"
 ---
 
 # § 387v. Reporting on tobacco regulation activities
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:54:54.282Z"
   - **(11)** The total number of compliance and enforcement actions issued or taken with respect to tobacco products, including warning letters, civil money penalties, no-tobacco-sale orders, and other enforcement actions (including seizures, injunctions, and criminal prosecution).
 - **(c)** The Secretary of Health and Human Services shall make the reports required under this section available to the public on the website of the Food and Drug Administration.
 - **(d)** Reporting under this section shall include best estimates for any reporting category for which the Food and Drug Administration does not have precise calculations. Such best estimates shall be accompanied with an explanatory statement for why the Food and Drug Administration does not have access to, or cannot calculate, the exact figure and a date by which the Food and Drug Administration will update its internal accounting procedures to allow for such reporting. If a category is successfully reported by the Food and Drug Administration with regard to another type of user fee but is provided a best estimate by the Center for Tobacco Products, the explanatory statement shall include information regarding how the Food and Drug Administration will align systems and apply learning across the agency to allow for accurate reporting.
+
+## Source Credit
+
+*([Pub. L. 117–103, div. P, title I, § 112](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 790](https://www.govinfo.gov/link/statute/136/790).)*

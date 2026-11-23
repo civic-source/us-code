@@ -3,9 +3,10 @@ title: "Section 5104 - Manpower requirements plan"
 usc_title: 14
 usc_section: "5104"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 5104"
-generated_at: "2026-03-30T02:53:51.506Z"
+generated_at: "2026-11-23T20:25:54.652Z"
+status: "active"
 ---
 
 # § 5104. Manpower requirements plan
@@ -27,3 +28,13 @@ generated_at: "2026-03-30T02:53:51.506Z"
   - **(1)** the marine safety strategy required under section 2116 of title 46 ;
   - **(2)** information on the adequacy of the acquisition workforce included in the most recent report under section 5103 of this title ; and
   - **(3)** any other Federal strategic planning effort the Commandant considers appropriate.
+
+In General
+
+Scope
+
+Consideration
+
+## Source Credit
+
+*(Added [Pub. L. 114–120, title I, § 101(a)](https://www.govinfo.gov/link/plaw/114/public/120), Feb. 8, 2016, [130 Stat. 30](https://www.govinfo.gov/link/statute/130/30), § 2904; renumbered § 5104 and amended [Pub. L. 115–282, title I](https://www.govinfo.gov/link/plaw/115/public/282), §§ 122(b), 123(b)(2), Dec. 4, 2018, [132 Stat. 4239](https://www.govinfo.gov/link/statute/132/4239), 4240.)*

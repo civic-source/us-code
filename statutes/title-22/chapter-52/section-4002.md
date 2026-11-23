@@ -3,9 +3,10 @@ title: "Section 4002 - Establishment of selection boards"
 usc_title: 22
 usc_section: "4002"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4002"
-generated_at: "2026-03-30T02:55:05.401Z"
+generated_at: "2026-11-23T20:26:32.492Z"
+status: "active"
 ---
 
 # § 4002. Establishment of selection boards
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.401Z"
   - **(5)** such other actions as the Secretary may prescribe by regulation.
 - **(b)** All selection boards established under this section shall include public members. The Secretary shall assure that a substantial number of women and members of minority groups are appointed to each selection board established under this section.
 - **(c)** No public members appointed pursuant to this section may be, at the time of their appointment or during their appointment, an agent of a foreign principal (as defined by section 611(b) of this title ) or a lobbyist for a foreign entity (as defined in section 1602(6) of title 2 ) or receive income from a government of a foreign country.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 602](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2095](https://www.govinfo.gov/link/statute/94/2095); [Pub. L. 101–246, title I, § 142](https://www.govinfo.gov/link/plaw/101/public/246), Feb. 16, 1990, [104 Stat. 36](https://www.govinfo.gov/link/statute/104/36); [Pub. L. 104–65, § 12(c)](https://www.govinfo.gov/link/plaw/104/public/65), Dec. 19, 1995, [109 Stat. 701](https://www.govinfo.gov/link/statute/109/701).)*

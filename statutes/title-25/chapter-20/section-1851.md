@@ -3,9 +3,10 @@ title: "Section 1851 - Grants authorized"
 usc_title: 25
 usc_section: "1851"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1851"
-generated_at: "2026-03-30T02:54:52.830Z"
+generated_at: "2026-11-23T20:26:25.549Z"
+status: "active"
 ---
 
 # § 1851. Grants authorized
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:52.830Z"
   - **(6)** The evaluation of such grants and their effect on the needs developed under paragraph (1) and tribal economic self-sufficiency.
 - **(b)** The grants shall be of such amount and duration as to afford the greatest opportunity for success and the generation of relevant data.
 - **(c)** Institutions which receive funds under other subchapters of this chapter or the Navajo Community College Act may apply for grants under this subchapter either individually or as consortia. Each applicant shall act in cooperation with an Indian tribe or tribes in developing and implementing a grant under this subchapter. 1 1 See References in Text note below.
+
+## Source Credit
+
+*([Pub. L. 95–471, title IV, § 402](https://www.govinfo.gov/link/plaw/95/public/471), as added [Pub. L. 101–392, title III, § 312](https://www.govinfo.gov/link/plaw/101/public/392), Sept. 25, 1990, [104 Stat. 804](https://www.govinfo.gov/link/statute/104/804); amended [Pub. L. 105–244, title IX, § 901(b)(6)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1828](https://www.govinfo.gov/link/statute/112/1828).)*

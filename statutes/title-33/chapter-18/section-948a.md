@@ -3,12 +3,17 @@ title: "Section 948a - Discrimination against employees who bring proceedings; p
 usc_title: 33
 usc_section: "948a"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 948a"
-generated_at: "2026-03-30T02:55:41.079Z"
+generated_at: "2026-11-23T20:26:53.952Z"
+status: "active"
 ---
 
 # § 948a. Discrimination against employees who bring proceedings; penalties; deposit of payments in special fund; civil actions; entitlement to restoration of employment and compensation, qualifications requirement; liability of employer for penalties and payments; insurance policy exemption from liability
 
 It shall be unlawful for any employer or his duly authorized agent to discharge or in any other manner discriminate against an employee as to his employment because such employee has claimed or attempted to claim compensation from such employer, or because he has testified or is about to testify in a proceeding under this chapter. The discharge or refusal to employ a person who has been adjudicated to have filed a fraudulent claim for compensation is not a violation of this section. Any employer who violates this section shall be liable to a penalty of not less than $1,000 or more than $5,000, as may be determined by the deputy commissioner. All such penalties shall be paid to the deputy commissioner for deposit in the special fund as described in section 944 of this title , and if not paid may be recovered in a civil action brought in the appropriate United States district court. Any employee so discriminated against shall be restored to his employment and shall be compensated by his employer for any loss of wages arising out of such discrimination: Provided , That if such employee shall cease to be qualified to perform the duties of his employment, he shall not be entitled to such restoration and compensation. The employer alone and not his carrier shall be liable for such penalties and payments. Any provision in an insurance policy undertaking to relieve the employer from the liability for such penalties and payments shall be void.
 
+
+## Source Credit
+
+*(Mar. 4, 1927, ch. 509, § 49, as added [Pub. L. 92–576, § 19](https://www.govinfo.gov/link/plaw/92/public/576), Oct. 27, 1972, [86 Stat. 1263](https://www.govinfo.gov/link/statute/86/1263); amended [Pub. L. 98–426, § 26](https://www.govinfo.gov/link/plaw/98/public/426), Sept. 28, 1984, [98 Stat. 1654](https://www.govinfo.gov/link/statute/98/1654).)*

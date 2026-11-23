@@ -3,9 +3,10 @@ title: "Section 114 - Multiyear procurement"
 usc_title: 38
 usc_section: "114"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 114"
-generated_at: "2026-03-30T02:55:53.470Z"
+generated_at: "2026-11-23T20:27:01.551Z"
+status: "active"
 ---
 
 # § 114. Multiyear procurement
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:53.470Z"
   - **(1)** The term “appropriations” has the meaning given that term in section 1511 of title 31 .
   - **(2)** The term “multiyear contract” means a contract which by its terms is to remain in effect for a period which extends beyond the end of the fiscal year during which the contract is entered into but not beyond the end of the fourth fiscal year following such fiscal year. Such term does not include a contract for construction or for a lease of real property.
   - **(3)** The term “nonrecurring, unrecovered costs” means those costs reasonably incurred by the contractor in performing a multiyear contract which (as determined under regulations prescribed under subsection (d) of this section) are generally incurred on a one-time basis.
+
+## Source Credit
+
+*(Added [Pub. L. 100–322, title IV, § 404(a)](https://www.govinfo.gov/link/plaw/100/public/322), May 20, 1988, [102 Stat. 545](https://www.govinfo.gov/link/statute/102/545); amended [Pub. L. 101–237, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/101/public/237), (b)(1), Dec. 18, 1989, [103 Stat. 2094](https://www.govinfo.gov/link/statute/103/2094); [Pub. L. 102–83, § 4(a)(3)](https://www.govinfo.gov/link/plaw/102/public/83), (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404](https://www.govinfo.gov/link/statute/105/404), 405.)*

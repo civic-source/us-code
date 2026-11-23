@@ -3,9 +3,10 @@ title: "Section 3237 - Annual reports on influence operations and campaigns in t
 usc_title: 50
 usc_section: "3237"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3237"
-generated_at: "2026-03-30T02:56:26.239Z"
+generated_at: "2026-11-23T20:27:30.946Z"
+status: "active"
 ---
 
 # § 3237. Annual reports on influence operations and campaigns in the United States by the Chinese Communist Party
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:26.239Z"
   - **(11)** A listing of colleges and universities in the People’s Republic of China that conduct military research or host dedicated military initiatives or laboratories.
   - **(12)** With respect to reports submitted after the first report, an assessment of the change in goals, tactics, techniques, and procedures of the influence operations and campaigns conducted by the Chinese Communist Party.
 - **(c)** Each report submitted under subsection (a) shall be submitted in unclassified form, but may include a classified annex.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title XI, § 1107, as added [Pub. L. 116–92, div. E, title LV, § 5511(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2146](https://www.govinfo.gov/link/statute/133/2146); amended [Pub. L. 116–260, div. W, title VI, § 605(a)](https://www.govinfo.gov/link/plaw/116/public/260), (d)(1), Dec. 27, 2020, [134 Stat. 2386](https://www.govinfo.gov/link/statute/134/2386), 2387; [Pub. L. 117–103, div. X, title VII, § 701](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 999](https://www.govinfo.gov/link/statute/136/999); [Pub. L. 119–60, div. F, title LXVII, § 6701](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1643](https://www.govinfo.gov/link/statute/139/1643).)*

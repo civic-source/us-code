@@ -3,9 +3,10 @@ title: "Section 2108a - Treatment of certain individuals as veterans, disabled v
 usc_title: 5
 usc_section: "2108a"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 2108a"
-generated_at: "2026-03-30T02:52:55.997Z"
+generated_at: "2026-11-23T20:25:31.786Z"
+status: "active"
 ---
 
 # § 2108a. Treatment of certain individuals as veterans, disabled veterans, and preference eligibles
@@ -21,3 +22,21 @@ generated_at: "2026-03-30T02:52:55.997Z"
     - **(B)** submits a certification described under paragraph (2) to the Federal officer making the appointment.
   - **(2)** A certification referred to under paragraph (1) is a certification that the individual is expected to be separated from active duty in the armed forces under honorable conditions not later than 120 days after the date of the submission of the certification.
 - **(c)** Subsections (a) and (b) shall apply with respect to determining whether an individual is a preference eligible under section 2108(3) for purposes of making an appointment in the competitive service.
+
+Veteran.—
+
+In general
+
+Certification
+
+Disabled Veteran.—
+
+In general
+
+Certification
+
+Preference Eligible
+
+## Source Credit
+
+*(Added [Pub. L. 112–56, title II, § 235(a)(1)](https://www.govinfo.gov/link/plaw/112/public/56), Nov. 21, 2011, [125 Stat. 722](https://www.govinfo.gov/link/statute/125/722).)*

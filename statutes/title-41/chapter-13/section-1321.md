@@ -3,9 +3,10 @@ title: "Section 1321 - Definitions"
 usc_title: 41
 usc_section: "1321"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 1321"
-generated_at: "2026-03-30T02:55:55.799Z"
+generated_at: "2026-11-23T20:27:04.386Z"
+status: "active"
 ---
 
 # § 1321. Definitions
@@ -22,3 +23,33 @@ In this subchapter:
   - **(6)** The term “intelligence community” has the meaning given that term in section 3(4) of the National Security Act of 1947 ( 50 U.S.C. 3003(4) ).
   - **(7)** The term “national security system” has the meaning given that term in section 3552 of title 44 .
   - **(8)** The term “supply chain risk” has the meaning given that term in section 4713 of this title .
+
+Appropriate congressional committees and leadership
+
+Council
+
+Covered article
+
+Covered procurement action
+
+Information and communications technology
+
+Intelligence community
+
+National security system
+
+Supply chain risk
+
+Interim final rule
+
+Final rule
+
+Failure to act.—
+
+In general
+
+Appropriate congressional committees and leadership defined
+
+## Source Credit
+
+*(Added [Pub. L. 115–390, title II, § 202(a)](https://www.govinfo.gov/link/plaw/115/public/390), Dec. 21, 2018, [132 Stat. 5178](https://www.govinfo.gov/link/statute/132/5178).)*

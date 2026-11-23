@@ -3,9 +3,10 @@ title: "Section 2 - Awarding social impact partnership agreements"
 usc_title: 42
 usc_section: "2"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T02:56:11.068Z"
+generated_at: "2026-11-23T20:27:21.665Z"
+status: "active"
 ---
 
 # § 1397n–2. Awarding social impact partnership agreements
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:56:11.068Z"
   - **(12)** The estimate of the savings to the Federal, State, and local government, on a program-by-program basis and in the aggregate, if the agreement is entered into and implemented and the outcomes are achieved as a result of each intervention.
 - **(e)** The Secretary may transfer to the head of another Federal agency the authority to administer (including making payments under) an agreement entered into under subsection (c), and any funds necessary to do so.
 - **(f)** Not less than 50 percent of all Federal payments made to carry out agreements under this section shall be used for initiatives that directly benefit children.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XX, § 2053, as added [Pub. L. 115–123, div. E, title VIII, § 50802(2)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 273](https://www.govinfo.gov/link/statute/132/273).)*

@@ -3,9 +3,10 @@ title: "Section 1396h - State false claims act requirements for increased State 
 usc_title: 42
 usc_section: "1396h"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1396h"
-generated_at: "2026-03-30T02:56:11.043Z"
+generated_at: "2026-11-23T20:27:21.562Z"
+status: "active"
 ---
 
 # § 1396h. State false claims act requirements for increased State share of recoveries
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.043Z"
   - **(4)** The law contains a civil penalty that is not less than the amount of the civil penalty authorized under section 3729 of title 31 .
 - **(c)** A State that, as of January 1, 2007 , has a law in effect that meets the requirements of subsection (b) shall be deemed to be in compliance with such requirements for so long as the law continues to meet such requirements.
 - **(d)** Nothing in this section shall be construed as prohibiting a State that has in effect a law that establishes liability to the State for false or fraudulent claims described in section 3729 of title 31 , with respect to programs in addition to the State program under this subchapter, or with respect to expenditures in addition to expenditures described in section 1396b(a) of this title , from being considered to be in compliance with the requirements of subsection (a) so long as the law meets such requirements.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XIX, § 1909, as added [Pub. L. 109–171, title VI, § 6031(a)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 72](https://www.govinfo.gov/link/statute/120/72).)*

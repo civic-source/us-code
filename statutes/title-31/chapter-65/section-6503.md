@@ -3,9 +3,10 @@ title: "Section 6503 - Intergovernmental financing"
 usc_title: 31
 usc_section: "6503"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 6503"
-generated_at: "2026-03-30T02:55:34.073Z"
+generated_at: "2026-11-23T20:26:51.911Z"
+status: "active"
 ---
 
 # § 6503. Intergovernmental financing
@@ -36,3 +37,29 @@ generated_at: "2026-03-30T02:55:34.073Z"
 - **(h)** A State may not be required by a law or regulation of the United States to deposit funds received by it in a separate bank account. However, a State shall account for funds made available to the State as United States Government funds in the accounts of the State. The head of the State agency concerned shall make periodic authenticated reports to the head of the appropriate Federal executive agency on the status and the application of the funds, the liabilities and obligations on hand, and other information required by the head of the executive agency. Records related to the funds received by the State shall be made available to the head of the executive agency, the Inspector General of the executive agency, and the Comptroller General for necessary audits.
 - **(i)** The Secretary shall prescribe methods for the payment of interest under this section between the Federal Government and the States, including provisions for offsetting amounts owed by the respective parties. Such methods of payment shall require payment of interest on an annual basis and shall provide for comparable treatment in manner, technique, and timing for both the States and the Federal Government.
 - **(j)** Consistent with Federal program purposes and regulations of the Director of the Office of Management and Budget, the head of a Federal executive agency carrying out a program shall execute grant awards to States on a timely basis to assure the availability of funds to accomplish transfers in compliance with subsection (a) of this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 6503(a) | 42:4213. | Oct. 16, 1968 , Pub. L. 90–577 , §§ 202, 203, 82 Stat. 1101 . |
+| 6503(b) | 42:4212. |  |
+
+
+Historical and Revision Notes
+
+6503(a)
+
+Oct. 16, 1968
+
+Pub. L. 90–577
+
+82 Stat. 1101
+
+6503(b)
+
+Secretary’s efforts to enter agreements
+
+Effective date of regulations
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 1007](https://www.govinfo.gov/link/statute/96/1007); [Pub. L. 101–453, § 5(b)](https://www.govinfo.gov/link/plaw/101/public/453), Oct. 24, 1990, [104 Stat. 1059](https://www.govinfo.gov/link/statute/104/1059).)*

@@ -3,9 +3,10 @@ title: "Section 297 - Reports and implementation plans"
 usc_title: 6
 usc_section: "297"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 297"
-generated_at: "2026-03-30T02:53:09.455Z"
+generated_at: "2026-11-23T20:25:34.691Z"
+status: "active"
 ---
 
 # § 297. Reports and implementation plans
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:53:09.455Z"
     - **(B)** A statement of the reasons for the determinations under subparagraph (A).
     - **(C)** Any recommendations for further improvements to the Bureau of Citizenship and Immigration Services and the Bureau of Border Security.
   - **(3)** Not later than 1 year after November 25, 2002 , the Comptroller General of the United States shall submit to the Committees on the Judiciary of the House of Representatives and of the Senate a report examining whether the Bureau of Citizenship and Immigration Services is likely to derive sufficient funds from fees to carry out its functions in the absence of appropriated funds.
+
+## Source Credit
+
+*([Pub. L. 107–296, title IV, § 477](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2209](https://www.govinfo.gov/link/statute/116/2209).)*

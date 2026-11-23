@@ -3,9 +3,10 @@ title: "Section 11135 - Duty of hospitals to obtain information"
 usc_title: 42
 usc_section: "11135"
 chapter: 117
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11135"
-generated_at: "2026-03-30T02:56:11.395Z"
+generated_at: "2026-11-23T20:27:23.275Z"
+status: "active"
 ---
 
 # § 11135. Duty of hospitals to obtain information
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.395Z"
   - **(2)** once every 2 years information reported under this subchapter concerning any physician or such practitioner who is on the medical staff (courtesy or otherwise) of, or has been granted clinical privileges at, the hospital.
 - **(b)** With respect to a medical malpractice action, a hospital which does not request information respecting a physician or practitioner as required under subsection (a) is presumed to have knowledge of any information reported under this subchapter to the Secretary with respect to the physician or practitioner.
 - **(c)** Each hospital may rely upon information provided to the hospital under this chapter and shall not be held liable for such reliance in the absence of the hospital’s knowledge that the information provided was false.
+
+## Source Credit
+
+*([Pub. L. 99–660, title IV, § 425](https://www.govinfo.gov/link/plaw/99/public/660), Nov. 14, 1986, [100 Stat. 3790](https://www.govinfo.gov/link/statute/100/3790).)*

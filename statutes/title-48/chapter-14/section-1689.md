@@ -3,12 +3,17 @@ title: "Section 1689 - Plan for use of grant to Trust Territory of the Pacific I
 usc_title: 48
 usc_section: "1689"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1689"
-generated_at: "2026-03-30T02:56:14.589Z"
+generated_at: "2026-11-23T20:27:28.066Z"
+status: "active"
 ---
 
 # § 1689. Plan for use of grant to Trust Territory of the Pacific Islands Economic Development Loan Fund; loans; terms
 
 The grant authorized by section 1688 of this title shall be made only after the government of the Trust Territory of the Pacific Islands has submitted to the Secretary of the Interior a plan for the use of the grant, and the plan has been approved by the Secretary. The plan shall provide among other things for a revolving fund to make loans or to guarantee loans to private enterprise. The term of any loan made pursuant to the plan shall not exceed twenty-five years.
 
+
+## Source Credit
+
+*([Pub. L. 92–257, § 2](https://www.govinfo.gov/link/plaw/92/public/257), Mar. 21, 1972, [86 Stat. 87](https://www.govinfo.gov/link/statute/86/87).)*

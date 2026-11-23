@@ -3,9 +3,10 @@ title: "Section 1395x - Definitions"
 usc_title: 42
 usc_section: "1395x"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1395x"
-generated_at: "2026-03-30T02:56:10.992Z"
+generated_at: "2026-11-23T20:27:21.324Z"
+status: "active"
 ---
 
 # § 1395x. Definitions
@@ -76,7 +77,12 @@ For purposes of this subchapter—
   - **(7)** any of the foregoing items and services which are provided on an outpatient basis, under arrangements made by the home health agency, at a hospital or skilled nursing facility, or at a rehabilitation center which meets such standards as may be prescribed in regulations, and—
     - **(A)** the furnishing of which involves the use of equipment of such a nature that the items and services cannot readily be made available to the individual in such place of residence, or
     - **(B)** which are furnished at such facility while he is there to receive any such item or service described in clause (A),
-- **(n)** The term “durable medical equipment” includes iron lungs, oxygen tents, hospital beds, and wheelchairs (which may include a power-operated vehicle that may be appropriately used as a wheelchair, but only where the use of such a vehicle is determined to be necessary on the basis of the individual’s medical and physical condition and the vehicle meets such safety requirements as the Secretary may prescribe) used in the patient’s home (including an institution used as his home other than an institution that meets the requirements of subsection (e)(1) of this section or section 1395i–3(a)(1) of this title ), whether furnished on a rental basis or purchased, and includes blood-testing strips and blood glucose monitors for individuals with diabetes without regard to whether the individual has Type I or Type II diabetes or to the individual’s use of insulin (as determined under standards established by the Secretary in consultation with the appropriate organizations) and eye tracking and gaze interaction accessories for speech generating devices furnished to individuals with a demonstrated medical need for such accessories; except that such term does not include such equipment furnished by a supplier who has used, for the demonstration and use of specific equipment, an individual who has not met such minimum training standards as the Secretary may establish with respect to the demonstration and use of such specific equipment. With respect to a seat-lift chair, such term includes only the seat-lift mechanism and does not include the chair.
+- **(n)** The term “durable medical equipment” includes iron lungs, oxygen tents, hospital beds, and wheelchairs (which may include a power-operated vehicle that may be appropriately used as a wheelchair, but only where the use of such a vehicle is determined to be necessary on the basis of the individual’s medical and physical condition and the vehicle meets such safety requirements as the Secretary may prescribe) used in the patient’s home (including an institution used as his home other than an institution that meets the requirements of subsection (e)(1) of this section or section 1395i–3(a)(1) of this title ), whether furnished on a rental basis or purchased, and includes blood-testing strips and blood glucose monitors for individuals with diabetes without regard to whether the individual has Type I or Type II diabetes or to the individual’s use of insulin (as determined under standards established by the Secretary in consultation with the appropriate organizations) and eye tracking and gaze interaction accessories for speech generating devices furnished to individuals with a demonstrated medical need for such accessories; except that such term does not include such equipment furnished by a supplier who has used, for the demonstration and use of specific equipment, an individual who has not met such minimum training standards as the Secretary may establish with respect to the demonstration and use of such specific equipment. With respect to a seat-lift chair, such term includes only the seat-lift mechanism and does not include the chair. Beginning with the first calendar quarter beginning on or after the date that is 1 year after February 3, 2026 , an external infusion pump and associated home infusion drug (as defined in subsection (iii)(3)(C)) or other associated supplies that do not meet the appropriate for use in the home requirement applied to the definition of durable medical equipment under section 414.202 of title 42, Code of Federal Regulations (or any successor to such regulation) shall be treated as meeting such requirement if each of the following criteria is satisfied:
+  - **(1)** The prescribing information approved by the Food and Drug Administration for the home infusion drug associated with the pump instructs that the drug should be administered by or under the supervision of a health care professional.
+  - **(2)** A qualified home infusion therapy supplier (as defined in subsection (iii)(3)(D)) administers or supervises the administration of the drug or biological in a safe and effective manner in the patient’s home (as defined in subsection (iii)(3)(B)).
+  - **(3)** The prescribing information described in paragraph (1) instructs that the drug should be infused at least 12 times per year—
+    - **(A)** intravenously or subcutaneously; or
+    - **(B)** at infusion rates that the Secretary determines would require the use of an external infusion pump.
 - **(o)** The term “home health agency” means a public agency or private organization, or a subdivision of such an agency or organization, which—
   - **(1)** is primarily engaged in providing skilled nursing services and other therapeutic services;
   - **(2)** has policies, established by a group of professional personnel (associated with the agency or organization), including one or more physicians, nurse practitioners or clinical nurse specialists (as those terms are defined in subsection (aa)(5)), certified nurse-midwives (as defined in subsection (gg)), or physician assistants (as defined in subsection (aa)(5)) and one or more registered professional nurses, to govern the services (referred to in paragraph (1)) which it provides, and provides for supervision of such services by a physician, nurse practitioner, clinical nurse specialist, certified nurse-midwife, physician assistant, or registered professional nurse;
@@ -155,8 +161,9 @@ For purposes of this subchapter—
     - **(FF)** personalized prevention plan services (as defined in subsection (hhh));
     - **(GG)** home infusion therapy (as defined in subsection (iii)(1));
     - **(HH)** opioid use disorder treatment services (as defined in subsection (jjj));
-    - **(II)** marriage and family therapist services (as defined in subsection ( lll )(1)) and mental health counselor services (as defined in subsection ( lll )(3)); and
-    - **(JJ)** lymphedema compression treatment items (as defined in subsection (mmm));
+    - **(II)** marriage and family therapist services (as defined in subsection ( lll )(1)) and mental health counselor services (as defined in subsection ( lll )(3)); and 3
+    - **(JJ)** lymphedema compression treatment items (as defined in subsection (mmm)); and
+    - **(KK)** multi-cancer early detection screening tests (as defined in subsection (nnn));
   - **(3)** diagnostic X-ray tests (including tests under the supervision of a physician, furnished in a place of residence used as the patient’s home, if the performance of such tests meets such conditions relating to health and safety as the Secretary may find necessary and including diagnostic mammography if conducted by a facility that has a certificate (or provisional certificate) issued under section 354 of the Public Health Service Act [ 42 U.S.C. 263b ]), diagnostic laboratory tests, and other diagnostic tests;
   - **(4)** X-ray, radium, and radioactive isotope therapy, including materials and services of technicians;
   - **(5)** surgical dressings, and splints, casts, and other devices used for reduction of fractures and dislocations;
@@ -237,26 +244,22 @@ For purposes of this subchapter—
       - **(iii)** Not later than July 1, 1991 , and annually thereafter (but not for cost reporting periods beginning on or after July 1, 1994 , and before July 1, 1996 , or on or after July 1, 1997 , and before October 1, 1997 ), the Secretary shall establish limits under this subparagraph for cost reporting periods beginning on or after such date by utilizing the area wage index applicable under section 1395ww(d)(3)(E) of this title and determined using the survey of the most recent available wages and wage-related costs of hospitals located in the geographic area in which the home health service is furnished (determined without regard to whether such hospitals have been reclassified to a new geographic area pursuant to section 1395ww(d)(8)(B) of this title , a decision of the Medicare Geographic Classification Review Board under section 1395ww(d)(10) of this title , or a decision of the Secretary).
       - **(iv)** In establishing limits under this subparagraph for cost reporting periods beginning after September 30, 1997 , the Secretary shall not take into account any changes in the home health market basket, as determined by the Secretary, with respect to cost reporting periods which began on or after July 1, 1994 , and before July 1, 1996 .
 - **(v)** For services furnished by home health agencies for cost reporting periods beginning on or after October 1, 1997 , subject to clause (viii)(I), the Secretary shall provide for an interim system of limits. Payment shall not exceed the costs determined under the preceding provisions of this subparagraph or, if lower, the product of—
-  - **(2)**
-    - **(A)** If the bed and board furnished as part of inpatient hospital services (including inpatient tuberculosis hospital services and inpatient psychiatric hospital services) or post-hospital extended care services is in accommodations more expensive than semi-private accommodations, the amount taken into account for purposes of payment under this subchapter with respect to such services may not exceed the amount that would be taken into account with respect to such services if furnished in such semi-private accommodations unless the more expensive accommodations were required for medical reasons.
-    - **(B)** Where a provider of services which has an agreement in effect under this subchapter furnishes to an individual items or services which are in excess of or more expensive than the items or services with respect to which payment may be made under part A or part B, as the case may be, the Secretary shall take into account for purposes of payment to such provider of services only the items or services with respect to which such payment may be made.
-  - **(3)** If the bed and board furnished as part of inpatient hospital services (including inpatient tuberculosis hospital services and inpatient psychiatric hospital services) or post-hospital extended care services is in accommodations other than, but not more expensive than, semi-private accommodations and the use of such other accommodations rather than semi-private accommodations was neither at the request of the patient nor for a reason which the Secretary determines is consistent with the purposes of this subchapter, the amount of the payment with respect to such bed and board under part A shall be the amount otherwise payable under this subchapter for such bed and board furnished in semi-private accommodations minus the difference between the charge customarily made by the hospital or skilled nursing facility for bed and board in semi-private accommodations and the charge customarily made by it for bed and board in the accommodations furnished.
-  - **(4)** If a provider of services furnishes items or services to an individual which are in excess of or more expensive than the items or services determined to be necessary in the efficient delivery of needed health services and charges are imposed for such more expensive items or services under the authority granted in section 1395cc(a)(2)(B)(ii) 8 8 See References in Text note below. of this title, the amount of payment with respect to such items or services otherwise due such provider in any fiscal period shall be reduced to the extent that such payment plus such charges exceed the cost actually incurred for such items or services in the fiscal period in which such charges are imposed.
-  - **(5)**
-    - **(A)** Where physical therapy services, occupational therapy services, speech therapy services, or other therapy services or services of other health-related personnel (other than physicians) are furnished under an arrangement with a provider of services or other organization, specified in the first sentence of subsection (p) (including through the operation of subsection (g)) the amount included in any payment to such provider or other organization under this subchapter as the reasonable cost of such services (as furnished under such arrangements) shall not exceed an amount equal to the salary which would reasonably have been paid for such services (together with any additional costs that would have been incurred by the provider or other organization) to the person performing them if they had been performed in an employment relationship with such provider or other organization (rather than under such arrangement) plus the cost of such other expenses (including a reasonable allowance for traveltime and other reasonable types of expense related to any differences in acceptable methods of organization for the provision of such therapy) incurred by such person, as the Secretary may in regulations determine to be appropriate.
-    - **(B)** Notwithstanding the provisions of subparagraph (A), if a provider of services or other organization specified in the first sentence of subsection (p) requires the services of a therapist on a limited part-time basis, or only to perform intermittent services, the Secretary may make payment on the basis of a reasonable rate per unit of service, even though such rate is greater per unit of time than salary related amounts, where he finds that such greater payment is, in the aggregate, less than the amount that would have been paid if such organization had employed a therapist on a full- or part-time salary basis.
-  - **(6)** For purposes of this subsection, the term, “semi-private accommodations” means two-bed, three-bed, or four-bed accommodations.
-  - **(7)**
-    - **(A)** For limitation on Federal participation for capital expenditures which are out of conformity with a comprehensive plan of a State or areawide planning agency, see section 1320a–1 of this title .
-    - **(B)** For further limitations on reasonable cost and determination of payment amounts for operating costs of inpatient hospital services and waivers for certain States, see section 1395ww of this title .
-    - **(C)** For provisions restricting payment for provider-based physicians’ services and for payments under certain percentage arrangements, see section 1395xx of this title .
-    - **(D)** For further limitations on reasonable cost and determination of payment amounts for routine service costs of skilled nursing facilities, see subsections (a) through (c) of section 1395yy of this title .
-  - **(8)** Reasonable costs do not include costs for the following—
-      - **(i)** entertainment, including tickets to sporting and other entertainment events;
-      - **(ii)** gifts or donations;
-      - **(iii)** personal use of motor vehicles;
-      - **(iv)** costs for fines and penalties resulting from violations of Federal, State, or local laws; and
-      - **(v)** education expenses for spouses or other dependents of providers of services, their employees or contractors.
+        - **(I)** an agency-specific per beneficiary annual limitation calculated based 75 percent on 98 percent of the reasonable costs (including nonroutine medical supplies) for the agency’s 12-month cost reporting period ending during fiscal year 1994, and based 25 percent on 98 percent of the standardized regional average of such costs for the agency’s census division, as applied to such agency, for cost reporting periods ending during fiscal year 1994, such costs updated by the home health market basket index; and
+        - **(II)** the agency’s unduplicated census count of patients (entitled to benefits under this subchapter) for the cost reporting period subject to the limitation.
+      - **(vi)** For services furnished by home health agencies for cost reporting periods beginning on or after October 1, 1997 , the following rules apply:
+        - **(I)** For new providers and those providers without a 12-month cost reporting period ending in fiscal year 1994 subject to clauses (viii)(II) and (viii)(III), the per beneficiary limitation shall be equal to the median of these limits (or the Secretary’s best estimates thereof) applied to other home health agencies as determined by the Secretary. A home health agency that has altered its corporate structure or name shall not be considered a new provider for this purpose.
+        - **(II)** For beneficiaries who use services furnished by more than one home health agency, the per beneficiary limitations shall be prorated among the agencies.
+      - **(vii)**
+        - **(I)** Not later than January 1, 1998 , the Secretary shall establish per visit limits applicable for fiscal year 1998, and not later than April 1, 1998 , the Secretary shall establish per beneficiary limits under clause (v)(I) for fiscal year 1998.
+        - **(II)** Not later than August 1 of each year (beginning in 1998) the Secretary shall establish the limits applicable under this subparagraph for services furnished during the fiscal year beginning October 1 of the year.
+      - **(viii)**
+        - **(I)** In the case of a provider with a 12-month cost reporting period ending in fiscal year 1994, if the limit imposed under clause (v) (determined without regard to this subclause) for a cost reporting period beginning during or after fiscal year 1999 is less than the median described in clause (vi)(I) (but determined as if any reference in clause (v) to “98 percent” were a reference to “100 percent”), the limit otherwise imposed under clause (v) for such provider and period shall be increased by ⅓ of such difference.
+        - **(II)** Subject to subclause (IV), for new providers and those providers without a 12-month cost reporting period ending in fiscal year 1994, but for which the first cost reporting period begins before fiscal year 1999, for cost reporting periods beginning during or after fiscal year 1999, the per beneficiary limitation described in clause (vi)(I) shall be equal to the median described in such clause (determined as if any reference in clause (v) to “98 percent” were a reference to “100 percent”).
+        - **(III)** Subject to subclause (IV), in the case of a new provider for which the first cost reporting period begins during or after fiscal year 1999, the limitation applied under clause (vi)(I) (but only with respect to such provider) shall be equal to 75 percent of the median described in clause (vi)(I).
+        - **(IV)** In the case of a new provider or a provider without a 12-month cost reporting period ending in fiscal year 1994, subclause (II) shall apply, instead of subclause (III), to a home health agency which filed an application for home health agency provider status under this subchapter before September 15, 1998 , or which was approved as a branch of its parent agency before such date and becomes a subunit of the parent agency or a separate agency on or after such date.
+        - **(V)** Each of the amounts specified in subclauses (I) through (III) are such amounts as adjusted under clause (iii) to reflect variations in wages among different areas.
+      - **(ix)** Notwithstanding the per beneficiary limit under clause (viii), if the limit imposed under clause (v) (determined without regard to this clause) for a cost reporting period beginning during or after fiscal year 2000 is less than the median described in clause (vi)(I) (but determined as if any reference in clause (v) to “98 percent” were a reference to “100 percent”), the limit otherwise imposed under clause (v) for such provider and period shall be increased by 2 percent.
+      - **(x)** Notwithstanding any other provision of this subparagraph, in updating any limit under this subparagraph by a home health market basket index for cost reporting periods beginning during each of fiscal years 2000, 2002, and 2003, the update otherwise provided shall be reduced by 1.1 percentage points. With respect to cost reporting periods beginning during fiscal year 2001, the update to any limit under this subparagraph shall be the home health market basket index.
     - **(M)** Such regulations shall provide that costs respecting care provided by a provider of services, pursuant to an assurance under title VI or XVI of the Public Health Service Act [ 42 U.S.C. 291 et seq., 300q et seq.] that the provider will make available a reasonable volume of services to persons unable to pay therefor, shall not be allowable as reasonable costs.
     - **(N)** In determining such reasonable costs, costs incurred for activities directly related to influencing employees respecting unionization may not be included.
     - **(O)**
@@ -295,22 +298,26 @@ For purposes of this subchapter—
         - **(II)** for cost reporting periods beginning during fiscal year 2014, by 24 percent of such amount otherwise allowable; and
         - **(III)** for cost reporting periods beginning during a subsequent fiscal year, by 35 percent of such amount otherwise allowable.
       - **(ii)** A provider described in this clause is a provider of services not described in subparagraph (T) or (V), a supplier, or any other type of entity that receives payment for bad debts under the authority under subparagraph (A).
-      - **(vi)** For services furnished by home health agencies for cost reporting periods beginning on or after October 1, 1997 , the following rules apply:
-        - **(I)** For new providers and those providers without a 12-month cost reporting period ending in fiscal year 1994 subject to clauses (viii)(II) and (viii)(III), the per beneficiary limitation shall be equal to the median of these limits (or the Secretary’s best estimates thereof) applied to other home health agencies as determined by the Secretary. A home health agency that has altered its corporate structure or name shall not be considered a new provider for this purpose.
-        - **(II)** For beneficiaries who use services furnished by more than one home health agency, the per beneficiary limitations shall be prorated among the agencies.
-      - **(vii)**
-        - **(I)** Not later than January 1, 1998 , the Secretary shall establish per visit limits applicable for fiscal year 1998, and not later than April 1, 1998 , the Secretary shall establish per beneficiary limits under clause (v)(I) for fiscal year 1998.
-        - **(II)** Not later than August 1 of each year (beginning in 1998) the Secretary shall establish the limits applicable under this subparagraph for services furnished during the fiscal year beginning October 1 of the year.
-      - **(viii)**
-        - **(I)** In the case of a provider with a 12-month cost reporting period ending in fiscal year 1994, if the limit imposed under clause (v) (determined without regard to this subclause) for a cost reporting period beginning during or after fiscal year 1999 is less than the median described in clause (vi)(I) (but determined as if any reference in clause (v) to “98 percent” were a reference to “100 percent”), the limit otherwise imposed under clause (v) for such provider and period shall be increased by ⅓ of such difference.
-        - **(II)** Subject to subclause (IV), for new providers and those providers without a 12-month cost reporting period ending in fiscal year 1994, but for which the first cost reporting period begins before fiscal year 1999, for cost reporting periods beginning during or after fiscal year 1999, the per beneficiary limitation described in clause (vi)(I) shall be equal to the median described in such clause (determined as if any reference in clause (v) to “98 percent” were a reference to “100 percent”).
-        - **(III)** Subject to subclause (IV), in the case of a new provider for which the first cost reporting period begins during or after fiscal year 1999, the limitation applied under clause (vi)(I) (but only with respect to such provider) shall be equal to 75 percent of the median described in clause (vi)(I).
-        - **(IV)** In the case of a new provider or a provider without a 12-month cost reporting period ending in fiscal year 1994, subclause (II) shall apply, instead of subclause (III), to a home health agency which filed an application for home health agency provider status under this subchapter before September 15, 1998 , or which was approved as a branch of its parent agency before such date and becomes a subunit of the parent agency or a separate agency on or after such date.
-        - **(V)** Each of the amounts specified in subclauses (I) through (III) are such amounts as adjusted under clause (iii) to reflect variations in wages among different areas.
-      - **(ix)** Notwithstanding the per beneficiary limit under clause (viii), if the limit imposed under clause (v) (determined without regard to this clause) for a cost reporting period beginning during or after fiscal year 2000 is less than the median described in clause (vi)(I) (but determined as if any reference in clause (v) to “98 percent” were a reference to “100 percent”), the limit otherwise imposed under clause (v) for such provider and period shall be increased by 2 percent.
-      - **(x)** Notwithstanding any other provision of this subparagraph, in updating any limit under this subparagraph by a home health market basket index for cost reporting periods beginning during each of fiscal years 2000, 2002, and 2003, the update otherwise provided shall be reduced by 1.1 percentage points. With respect to cost reporting periods beginning during fiscal year 2001, the update to any limit under this subparagraph shall be the home health market basket index.
-        - **(I)** an agency-specific per beneficiary annual limitation calculated based 75 percent on 98 percent of the reasonable costs (including nonroutine medical supplies) for the agency’s 12-month cost reporting period ending during fiscal year 1994, and based 25 percent on 98 percent of the standardized regional average of such costs for the agency’s census division, as applied to such agency, for cost reporting periods ending during fiscal year 1994, such costs updated by the home health market basket index; and
-        - **(II)** the agency’s unduplicated census count of patients (entitled to benefits under this subchapter) for the cost reporting period subject to the limitation.
+  - **(2)**
+    - **(A)** If the bed and board furnished as part of inpatient hospital services (including inpatient tuberculosis hospital services and inpatient psychiatric hospital services) or post-hospital extended care services is in accommodations more expensive than semi-private accommodations, the amount taken into account for purposes of payment under this subchapter with respect to such services may not exceed the amount that would be taken into account with respect to such services if furnished in such semi-private accommodations unless the more expensive accommodations were required for medical reasons.
+    - **(B)** Where a provider of services which has an agreement in effect under this subchapter furnishes to an individual items or services which are in excess of or more expensive than the items or services with respect to which payment may be made under part A or part B, as the case may be, the Secretary shall take into account for purposes of payment to such provider of services only the items or services with respect to which such payment may be made.
+  - **(3)** If the bed and board furnished as part of inpatient hospital services (including inpatient tuberculosis hospital services and inpatient psychiatric hospital services) or post-hospital extended care services is in accommodations other than, but not more expensive than, semi-private accommodations and the use of such other accommodations rather than semi-private accommodations was neither at the request of the patient nor for a reason which the Secretary determines is consistent with the purposes of this subchapter, the amount of the payment with respect to such bed and board under part A shall be the amount otherwise payable under this subchapter for such bed and board furnished in semi-private accommodations minus the difference between the charge customarily made by the hospital or skilled nursing facility for bed and board in semi-private accommodations and the charge customarily made by it for bed and board in the accommodations furnished.
+  - **(4)** If a provider of services furnishes items or services to an individual which are in excess of or more expensive than the items or services determined to be necessary in the efficient delivery of needed health services and charges are imposed for such more expensive items or services under the authority granted in section 1395cc(a)(2)(B)(ii) 8 8 See References in Text note below. of this title, the amount of payment with respect to such items or services otherwise due such provider in any fiscal period shall be reduced to the extent that such payment plus such charges exceed the cost actually incurred for such items or services in the fiscal period in which such charges are imposed.
+  - **(5)**
+    - **(A)** Where physical therapy services, occupational therapy services, speech therapy services, or other therapy services or services of other health-related personnel (other than physicians) are furnished under an arrangement with a provider of services or other organization, specified in the first sentence of subsection (p) (including through the operation of subsection (g)) the amount included in any payment to such provider or other organization under this subchapter as the reasonable cost of such services (as furnished under such arrangements) shall not exceed an amount equal to the salary which would reasonably have been paid for such services (together with any additional costs that would have been incurred by the provider or other organization) to the person performing them if they had been performed in an employment relationship with such provider or other organization (rather than under such arrangement) plus the cost of such other expenses (including a reasonable allowance for traveltime and other reasonable types of expense related to any differences in acceptable methods of organization for the provision of such therapy) incurred by such person, as the Secretary may in regulations determine to be appropriate.
+    - **(B)** Notwithstanding the provisions of subparagraph (A), if a provider of services or other organization specified in the first sentence of subsection (p) requires the services of a therapist on a limited part-time basis, or only to perform intermittent services, the Secretary may make payment on the basis of a reasonable rate per unit of service, even though such rate is greater per unit of time than salary related amounts, where he finds that such greater payment is, in the aggregate, less than the amount that would have been paid if such organization had employed a therapist on a full- or part-time salary basis.
+  - **(6)** For purposes of this subsection, the term, “semi-private accommodations” means two-bed, three-bed, or four-bed accommodations.
+  - **(7)**
+    - **(A)** For limitation on Federal participation for capital expenditures which are out of conformity with a comprehensive plan of a State or areawide planning agency, see section 1320a–1 of this title .
+    - **(B)** For further limitations on reasonable cost and determination of payment amounts for operating costs of inpatient hospital services and waivers for certain States, see section 1395ww of this title .
+    - **(C)** For provisions restricting payment for provider-based physicians’ services and for payments under certain percentage arrangements, see section 1395xx of this title .
+    - **(D)** For further limitations on reasonable cost and determination of payment amounts for routine service costs of skilled nursing facilities, see subsections (a) through (c) of section 1395yy of this title .
+  - **(8)** Reasonable costs do not include costs for the following—
+      - **(i)** entertainment, including tickets to sporting and other entertainment events;
+      - **(ii)** gifts or donations;
+      - **(iii)** personal use of motor vehicles;
+      - **(iv)** costs for fines and penalties resulting from violations of Federal, State, or local laws; and
+      - **(v)** education expenses for spouses or other dependents of providers of services, their employees or contractors.
 - **(w)**
   - **(1)** The term “arrangements” is limited to arrangements under which receipt of payment by the hospital, critical access hospital, skilled nursing facility, home health agency, or hospice program (whether in its own right or as agent), with respect to services for which an individual is entitled to have payment made under this subchapter, discharges the liability of such individual or any other person to pay for the services.
   - **(2)** Utilization review activities conducted, in accordance with the requirements of the program established under part B of subchapter XI of this chapter with respect to services furnished by a hospital or critical access hospital to patients insured under part A of this subchapter or entitled to have payment made for such services under part B of this subchapter or under a State plan approved under subchapter XIX, by a quality improvement organization designated for the area in which such hospital or critical access hospital is located shall be deemed to have been conducted pursuant to arrangements between such hospital or critical access hospital and such organization under which such hospital or critical access hospital is obligated to pay to such organization, as a condition of receiving payment for hospital or critical access hospital services so furnished under this part or under such a State plan, such amount as is reasonably incurred and requested (as determined under regulations of the Secretary) by such organization in conducting such review activities with respect to services furnished by such hospital or critical access hospital to such patients.
@@ -684,7 +691,7 @@ For purposes of this subchapter—
   - **(2)** A program described in this paragraph is a program under which—
     - **(A)** items and services under the program are delivered—
       - **(i)** in a physician’s office;
-      - **(ii)** in a hospital on an outpatient basis; or
+      - **(ii)** in a hospital on an outpatient basis (including, with respect to items and services furnished through audio and video real-time communications technology (excluding audio-only) on or after January 31, 2026 , and before January 1, 2028 , in the home of an individual who is an outpatient of the hospital); or
       - **(iii)** in other settings determined appropriate by the Secretary;
     - **(B)** a physician (as defined in subsection (r)(1)) or a physician assistant, nurse practitioner, or clinical nurse specialist (as those terms are defined in subsection (aa)(5)) is immediately available and accessible for medical consultation and medical emergencies at all times items and services are being furnished under the program, except that, in the case of items and services furnished under such a program in a hospital, such availability shall be presumed; and
     - **(C)** individualized treatment is furnished under a written plan established, reviewed, and signed by a physician every 30 days that describes—
@@ -917,3 +924,201 @@ For purposes of this subchapter—
   - **(1)** furnished on or after January 1, 2024 , to an individual with a diagnosis of lymphedema for the treatment of such condition;
   - **(2)** primarily and customarily used to serve a medical purpose and for the treatment of lymphedema, as determined by the Secretary; and
   - **(3)** prescribed by a physician (or a physician assistant, nurse practitioner, or a clinical nurse specialist (as those terms are defined in section 1395x(aa)(5) of this title ) to the extent authorized under State law).
+- **(nnn)**
+  - **(1)** The term “multi-cancer early detection screening test” means a test furnished to an individual for the concurrent detection of multiple cancer types across multiple organ sites on or after January 1, 2029 , that—
+    - **(A)** is cleared under section 360(k) of title 21 , classified under section 360c(f)(2) of title 21 , or approved under section 360e of title 21 ;
+    - **(B)** is—
+      - **(i)** a genomic sequencing blood or blood product test that includes the analysis of cell-free nucleic acids; or
+      - **(ii)** a test based on samples of biological material that provide results comparable to those obtained with a test described in clause (i), as determined by the Secretary; and
+    - **(C)** the Secretary determines is—
+      - **(i)** reasonable and necessary for the prevention or early detection of an illness or disability; and
+      - **(ii)** appropriate for individuals entitled to benefits under part A or enrolled under part B.
+  - **(2)** In making determinations under paragraph (1)(C) regarding the coverage of a new test, the Secretary shall use the process for making national coverage determinations (as defined in section 1395ff(f)(1)(B) of this title ) under this subchapter.
+
+Items unrelated to patient care
+
+In general
+
+Current rural health clinics
+
+Grandfathered clinics.—
+
+In general
+
+Regulations
+
+Authority To Conduct Demonstration Project
+
+Clinics Described
+
+Specification of Codes
+
+Funding.—
+
+In general
+
+Budget neutral implementation
+
+Three-Year Period
+
+Report
+
+Definitions
+
+Study
+
+Report
+
+Definitions
+
+Surgical first assisting services
+
+Certified registered nurse first assistant
+
+Coverage of Outpatient Vision Services Furnished by Vision Rehabilitation Professionals Under Part B.—
+
+Study
+
+Report
+
+Vision rehabilitation professional defined
+
+Report on Appropriateness of a Demonstration Project To Test Feasibility of Using PPO Networks To Reduce Costs of Acquiring Eyeglasses for Medicare Beneficiaries After Cataract Surgery
+
+Definitions
+
+Chiropractic services
+
+Demonstration project
+
+Eligible beneficiary
+
+Medicare program
+
+Demonstration of Coverage of Chiropractic Services Under Medicare.—
+
+Establishment
+
+No physician approval required
+
+Consultation
+
+Participation
+
+Conduct of Demonstration Projects.—
+
+Demonstration sites.—
+
+Selection of demonstration sites
+
+Geographic diversity
+
+Sites located in hpsas
+
+Implementation; duration.—
+
+Implementation
+
+Duration
+
+Evaluation and Report.—
+
+Evaluation
+
+Report
+
+Waiver of Medicare Requirements
+
+Funding.—
+
+Demonstration projects.—
+
+In general
+
+Limitation
+
+Evaluation and report
+
+Demonstration Project
+
+Medicare Beneficiary Described
+
+Demonstration Project Sites
+
+Limitation on Number of Participants
+
+Data
+
+Report to Congress
+
+Waiver Authority
+
+Construction
+
+Authorization of Appropriations
+
+Definitions
+
+Medicare beneficiary
+
+Home health services
+
+Activities of daily living defined
+
+In general
+
+Use of payment amounts and limits from published tables.—
+
+Per beneficiary limits
+
+Per visit limits
+
+Study
+
+Report
+
+Study
+
+Report
+
+Study.—
+
+In general
+
+Costs to program
+
+Report
+
+Development.—
+
+In general
+
+Design for comparison of common elements
+
+Consultation
+
+Description of Services
+
+In general
+
+Recommendations for modifications to screening benefits
+
+Extension of Influenza and Pneumococcal Vaccination Campaign
+
+Authorization of Appropriation
+
+Study
+
+Report
+
+In General
+
+Effective Period
+
+“The Secretary of Health and Human Services (in this subsection referred to as the ‘Secretary’) shall not deem any entity to be a provider of services (as defined in section 1861(u) of the Social Security Act [ 42 U.S.C. 1395x(u) ]) for purposes of title XVIII of such Act [ 42 U.S.C. 1395 et seq.]—
+
+Barack Obama.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1861, as added [Pub. L. 89–97, title I, § 102(a)](https://www.govinfo.gov/link/plaw/89/public/97), July 30, 1965, [79 Stat. 313](https://www.govinfo.gov/link/statute/79/313); amended [Pub. L. 89–713, § 7](https://www.govinfo.gov/link/plaw/89/public/713), Nov. 2, 1966, [80 Stat. 1111](https://www.govinfo.gov/link/statute/80/1111); [Pub. L. 90–248, title I](https://www.govinfo.gov/link/plaw/90/public/248), §§ 127(a), 129(a), (b), (c)(9)(C), (10), (11), 132(a), 133(a), (b), 134(a), 143(a), 144(a)–(d), Jan. 2, 1968, [81 Stat. 846–850](https://www.govinfo.gov/link/statute/81/846), 852, 857, 858; [Pub. L. 91–690](https://www.govinfo.gov/link/plaw/91/public/690), Jan. 12, 1971, [84 Stat. 2074](https://www.govinfo.gov/link/statute/84/2074); [Pub. L. 92–603, title II](https://www.govinfo.gov/link/plaw/92/public/603), §§ 211(b), (c)(2), 221(c)(4), 223(a)–(d), (f), 227(a), (c), (d)(1), (f), 234(a)–(f), 237(c), 244(c), 246(b), 248, 249(b), 251(a)(1), (b)(1), (c), 252(a), 256(b), 264(a), 265, 267, 273(a), 276(a), 278(a) (4)–(15), (b)(6), (10), (11), (13), 283(a), Oct. 30, 1972, [86 Stat. 1383](https://www.govinfo.gov/link/statute/86/1383), 1384, 1389, 1393, 1394, 1404–1407, 1412, 1413, 1416, 1423–1426, 1445–1447, 1449–1454, 1456; [Pub. L. 94–182, title I](https://www.govinfo.gov/link/plaw/94/public/182), §§ 102, 106(a), 112(a)(1), Dec. 31, 1975, [89 Stat. 1051](https://www.govinfo.gov/link/statute/89/1051), 1052, 1055; [Pub. L. 95–142](https://www.govinfo.gov/link/plaw/95/public/142), §§ 3(a)(2), 5(m), 19(b)(1), 21(a), Oct. 25, 1977, [91 Stat. 1178](https://www.govinfo.gov/link/statute/91/1178), 1191, 1204, 1207; [Pub. L. 95–210, § 1(d)](https://www.govinfo.gov/link/plaw/95/public/210), (g), (h), Dec. 13, 1977, [91 Stat. 1485](https://www.govinfo.gov/link/statute/91/1485), 1487, 1488; [Pub. L. 95–216, title V, § 501(a)](https://www.govinfo.gov/link/plaw/95/public/216), Dec. 20, 1977, [91 Stat. 1564](https://www.govinfo.gov/link/statute/91/1564); [Pub. L. 95–292, § 4(d)](https://www.govinfo.gov/link/plaw/95/public/292), June 13, 1978, [92 Stat. 315](https://www.govinfo.gov/link/statute/92/315); [Pub. L. 96–499, title IX](https://www.govinfo.gov/link/plaw/96/public/499), §§ 902(a)(1), 915(a), 930(k)–(n), (p), 931(c), (d), 933(c)–(e), 936(a), 937(a), 938(a), 948(a)(1), 949, 950, 951(a), (b), 952(a), formerly 952, Dec. 5, 1980, [94 Stat. 2612](https://www.govinfo.gov/link/statute/94/2612), 2623, 2632, 2633, 2635, 2639, 2640, 2643, 2645, 2646; [Pub. L. 96–611, § 1(a)(1)](https://www.govinfo.gov/link/plaw/96/public/611), (b)(3), Dec. 28, 1980, [94 Stat. 3566](https://www.govinfo.gov/link/statute/94/3566); [Pub. L. 97–35, title XXI](https://www.govinfo.gov/link/plaw/97/public/35), §§ 2102(a), 2114, 2121(c), (d), 2141(a), 2142(a), 2143(a), 2144(a), 2193(c)(9), Aug. 13, 1981, [95 Stat. 787](https://www.govinfo.gov/link/statute/95/787), 796–799, 828; [Pub. L. 97–248, title I](https://www.govinfo.gov/link/plaw/97/public/248), §§ 101(a)(2), (d), 102(a), 103(a), 105(a), 106(a), 107(a), 108(a)(2), 109(b), 114(b), 122(d), 127(1), 128(a)(1), (d)(2), 148(b), Sept. 3, 1982, [96 Stat. 335–339](https://www.govinfo.gov/link/statute/96/335), 350, 359, 366, 367, 394; [Pub. L. 97–448, title III, § 309(a)(4)](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2408](https://www.govinfo.gov/link/statute/96/2408); [Pub. L. 98–21, title VI](https://www.govinfo.gov/link/plaw/98/public/21), §§ 602(d), 607(b)(2), (d), Apr. 20, 1983, [97 Stat. 163](https://www.govinfo.gov/link/statute/97/163), 171, 172; [Pub. L. 98–369, div. B, title III](https://www.govinfo.gov/link/plaw/98/public/369), §§ 2314(a), 2318(a), (b), 2319(a), 2321(e), 2322(a), 2323(a), 2324(a), 2335(b), 2340(a), 2341(a), (c), 2342(a), 2343(a), (b), 2354(b)(18)–(29), July 18, 1984, [98 Stat. 1079](https://www.govinfo.gov/link/statute/98/1079), 1081, 1082, 1085, 1086, 1090, 1093, 1094, 1101; [Pub. L. 98–617, § 3(a)(4)](https://www.govinfo.gov/link/plaw/98/public/617), (b)(7), Nov. 8, 1984, [98 Stat. 3295](https://www.govinfo.gov/link/statute/98/3295), 3296; [Pub. L. 99–272, title IX](https://www.govinfo.gov/link/plaw/99/public/272), §§ 9107(b), 9110(a), 9202(i)(1), 9219(b)(1)(B), (3)(A), Apr. 7, 1986, [100 Stat. 160](https://www.govinfo.gov/link/statute/100/160), 162, 177, 182, 183; [Pub. L. 99–509, title IX](https://www.govinfo.gov/link/plaw/99/public/509), §§ 9305(c)(1), (2), 9313(a)(2), 9315(a), 9320(b), (c), (f), 9335(c)(1), 9336(a), 9337(d), 9338(a), Oct. 21, 1986, [100 Stat. 1989](https://www.govinfo.gov/link/statute/100/1989), 2002, 2005, 2013, 2015, 2030, 2033, 2034; [Pub. L. 100–203, title IV](https://www.govinfo.gov/link/plaw/100/public/203), §§ 4009(e)(1), (f), 4021(a), 4026(a)(1), 4039(b), 4064(e)(1), 4065(a), 4070(b)(1), (2), 4071(a), 4072(a), 4073(a), (c), 4074(a), (b), 4075(a), 4076(a), 4077(a)(1), (b)(1), (4), formerly (5), 4078, 4084(c)(1), 4085(i)(9)–(14), 4201(a)(1), (b)(1), (d)(1), (2), (5), formerly (d), Dec. 22, 1987, [101 Stat. 1330–57](https://www.govinfo.gov/link/statute/101/1330), 1330–58, 1330–67, 1330–74, 1330–81, 1330–111, 1330–112, 1330–114, 1330–116, 1330–118 to 1330–121, 1330–132, 1330–133, 1330–160, 1330–174, as amended [Pub. L. 100–360, title IV, § 411(h)(4)(D)](https://www.govinfo.gov/link/plaw/100/public/360), (5)–(7)(A), (E), (F), (i)(3), (4)(C)(iii), (l)(1)(B), (C), July 1, 1988, [102 Stat. 787–789](https://www.govinfo.gov/link/statute/102/787), 801, as amended [Pub. L. 100–485, title VI, § 608(d)(27)(B)](https://www.govinfo.gov/link/plaw/100/public/485), Oct. 13, 1988, [102 Stat. 2422](https://www.govinfo.gov/link/statute/102/2422); [Pub. L. 100–360, title I, § 104(d)(4)](https://www.govinfo.gov/link/plaw/100/public/360), title II, §§ 202(a), 203(b), (e)(1), 204(a), 205(b), 206(a), title IV, § 411(d)(1)(B)(i), (5)(A), (g)(3)(H), (h)(1)(B), (2), (3)(A), July 1, 1988, [102 Stat. 689](https://www.govinfo.gov/link/statute/102/689), 702, 721, 725, 730, 731, 773, 774, 785, 786; [Pub. L. 100–485, title VI, § 608(d)(6)(A)](https://www.govinfo.gov/link/plaw/100/public/485), (23)(B), Oct. 13, 1988, [102 Stat. 2414](https://www.govinfo.gov/link/statute/102/2414), 2421; [Pub. L. 100–647, title VIII](https://www.govinfo.gov/link/plaw/100/public/647), §§ 8423(a), 8424(a), Nov. 10, 1988, [102 Stat. 3803](https://www.govinfo.gov/link/statute/102/3803); [Pub. L. 101–234, title I, § 101(a)](https://www.govinfo.gov/link/plaw/101/public/234), title II, § 201(a), Dec. 13, 1989, [103 Stat. 1979](https://www.govinfo.gov/link/statute/103/1979), 1981; [Pub. L. 101–239, title VI](https://www.govinfo.gov/link/plaw/101/public/239), §§ 6003(g)(3)(A), (C)(i), (D)(x), 6110, 6112(e)(1), 6113(a)–(b)(2), 6114(a), (d), 6115(a), 6116(a)(1), 6131(a)(2), 6141(a), 6213(a)–(c), Dec. 19, 1989, [103 Stat. 2151–2153](https://www.govinfo.gov/link/statute/103/2151), 2213, 2215–2219, 2221, 2225, 2250, 2251; [Pub. L. 101–508, title IV](https://www.govinfo.gov/link/plaw/101/public/508), §§ 4008(h)(2)(A)(i), 4151(a), (b)(1), 4152(a)(2), 4153(b)(2)(A), 4155(a), (d), 4156(a), 4157(a), 4161(a)(1), (2), (5), (b)(1), (2), 4162(a), 4163(a), 4201(d)(1), 4207(d)(1), formerly 4027(d)(1), Nov. 5, 1990, [104 Stat. 1388–48](https://www.govinfo.gov/link/statute/104/1388), 1388–71, 1388–72, 1388–74, 1388–84, 1388–86 to 1388–88, 1388–93 to 1388–96, 1388–104, 1388–120, renumbered [Pub. L. 103–432, title I, § 160(d)(4)](https://www.govinfo.gov/link/plaw/103/public/432), Oct. 31, 1994, [108 Stat. 4444](https://www.govinfo.gov/link/statute/108/4444); [Pub. L. 101–597, title IV, § 401(c)(2)](https://www.govinfo.gov/link/plaw/101/public/597), Nov. 16, 1990, [104 Stat. 3035](https://www.govinfo.gov/link/statute/104/3035); [Pub. L. 103–66, title XIII](https://www.govinfo.gov/link/plaw/103/public/66), §§ 13503(c)(1)(A), 13521, 13522, 13553(a), (b), 13554(a), 13556(a), 13564(a)(2), (b)(1), 13565, 13566(b), Aug. 10, 1993, [107 Stat. 578](https://www.govinfo.gov/link/statute/107/578), 586, 591, 592, 607; [Pub. L. 103–432, title I](https://www.govinfo.gov/link/plaw/103/public/432), §§ 102(g)(4), 104, 107(a), 145(b), 146(a), (b), 147(e)(1), (4), (5), (f)(3), (4)(A), (6)(A), (B), (E), 158(a)(1), Oct. 31, 1994, [108 Stat. 4404](https://www.govinfo.gov/link/statute/108/4404), 4405, 4407, 4427–4432, 4442; [Pub. L. 104–299, § 4(b)(1)](https://www.govinfo.gov/link/plaw/104/public/299), Oct. 11, 1996, [110 Stat. 3645](https://www.govinfo.gov/link/statute/110/3645); [Pub. L. 105–33, title IV](https://www.govinfo.gov/link/plaw/105/public/33), §§ 4102(a), (c), 4103(a), 4104(a)(1), 4105(a)(1), (b)(1), 4106(a), 4201(c)(1), (2), 4205(b)(1), (c)(1), (d)(1)–(3)(A), 4312(b)(1), (2), (d), (e), 4320, 4321(a), 4404(a), 4432(b)(5)(D), (E), 4444(a), 4445, 4446, 4451, 4454(a)(1), 4511(a)(1)–(2)(B), (d), 4512(a), 4513(a), 4522, 4531(a)(1), 4557(a), 4601(a), 4602(a)–(c), 4604(b), 4611(b), 4612(a), Aug. 5, 1997, [111 Stat. 360–362](https://www.govinfo.gov/link/statute/111/360), 366, 367, 373, 376, 377, 386, 387, 394, 400, 421–426, 442–444, 450, 463, 466, 472, 474; [Pub. L. 105–277, div. J, title V, § 5101(a)](https://www.govinfo.gov/link/plaw/105/public/277), (b), (d)(1), Oct. 21, 1998, [112 Stat. 2681–913](https://www.govinfo.gov/link/statute/112/2681), 2681–914; [Pub. L. 106–113, div. B, § 1000(a)(6) [title II, §§ 201(k), 221(b)(1), 227(a), title III, §§ 303(a), 304(a), 321(k)(7)–(9), title V, § 521]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–341, 1501A–351, 1501A–354, 1501A–360, 1501A–361, 1501A–367, 1501A–386; [Pub. L. 106–554, § 1(a)(6) [title I, §§ 101(a), 102(a), (b), 103(a), 105(a), (b), 112(a), 113(a), title IV, §§ 430(b), 431(a), title V, §§ 502(a), 541]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–467, 2763A–468, 2763A–471, 2763A–473, 2763A–525, 2763A–529, 2763A–550; [Pub. L. 108–173, title III, § 303(i)(2)](https://www.govinfo.gov/link/plaw/108/public/173), title IV, §§ 408(a), 414(f)(2), formerly 414(g)(2), 415(b), title V, § 512(c), title VI, §§ 611(a), (b), (d)(2), 612(a), (b), 613(a), (b), 642(a), title VII, §§ 706(b), 736(a)(10), (11), (b)(3), (11), (12), (c)(4), title IX, §§ 901(b), 926(b)(1), 946(a), Dec. 8, 2003, [117 Stat. 2254](https://www.govinfo.gov/link/statute/117/2254), 2270, 2281, 2282, 2299, 2303–2305, 2322, 2339, 2355, 2356, 2374, 2396, 2424, renumbered [Pub. L. 111–68, div. A, title I, § 1501(e)(2)](https://www.govinfo.gov/link/plaw/111/public/68), Oct. 1, 2009, [123 Stat. 2041](https://www.govinfo.gov/link/statute/123/2041); [Pub. L. 109–171, title V](https://www.govinfo.gov/link/plaw/109/public/171), §§ 5004, 5112(a), (b), 5114(a)(1), (b), title VI, § 6001(f)(1), Feb. 8, 2006, [120 Stat. 32](https://www.govinfo.gov/link/statute/120/32), 43–45, 58; [Pub. L. 110–173, title I, § 114(a)](https://www.govinfo.gov/link/plaw/110/public/173), Dec. 29, 2007, [121 Stat. 2501](https://www.govinfo.gov/link/statute/121/2501); [Pub. L. 110–275, title I](https://www.govinfo.gov/link/plaw/110/public/275), §§ 101(a)(1), (b)(1), 125(b)(2), 143(a), (b)(5), (6), 144(a)(1), 152(b)(1)(A), (B), 153(b)(3)(B), 182(b), July 15, 2008, [122 Stat. 2496](https://www.govinfo.gov/link/statute/122/2496), 2497, 2519, 2542–2544, 2551, 2556, 2583; [Pub. L. 110–355, § 7(a)](https://www.govinfo.gov/link/plaw/110/public/355), Oct. 8, 2008, [122 Stat. 3995](https://www.govinfo.gov/link/statute/122/3995); [Pub. L. 111–148, title IV](https://www.govinfo.gov/link/plaw/111/public/148), §§ 4103(a), (b), 4104(a), title V, § 5502(a)(1), title VI, § 6402(g)(2), title X, §§ 10402(b), 10501(i)(1), (2)(A), Mar. 23, 2010, [124 Stat. 553](https://www.govinfo.gov/link/statute/124/553), 557, 654, 759, 975, 997; [Pub. L. 111–152, title I, § 1301(a)](https://www.govinfo.gov/link/plaw/111/public/152), (b), Mar. 30, 2010, [124 Stat. 1057](https://www.govinfo.gov/link/statute/124/1057); [Pub. L. 112–40, title II, § 261(a)(3)(B)](https://www.govinfo.gov/link/plaw/112/public/40), Oct. 21, 2011, [125 Stat. 423](https://www.govinfo.gov/link/statute/125/423); [Pub. L. 112–96, title III, § 3201(a)](https://www.govinfo.gov/link/plaw/112/public/96) –(c), Feb. 22, 2012, [126 Stat. 191](https://www.govinfo.gov/link/statute/126/191), 192; [Pub. L. 113–185, § 3(a)(1)](https://www.govinfo.gov/link/plaw/113/public/185), Oct. 6, 2014, [128 Stat. 1968](https://www.govinfo.gov/link/statute/128/1968); [Pub. L. 114–10, title V, § 513](https://www.govinfo.gov/link/plaw/114/public/10), Apr. 16, 2015, [129 Stat. 171](https://www.govinfo.gov/link/statute/129/171); [Pub. L. 114–27, title VIII, § 808(a)](https://www.govinfo.gov/link/plaw/114/public/27), June 29, 2015, [129 Stat. 418](https://www.govinfo.gov/link/statute/129/418); [Pub. L. 114–40, § 2(a)](https://www.govinfo.gov/link/plaw/114/public/40), July 30, 2015, [129 Stat. 441](https://www.govinfo.gov/link/statute/129/441); [Pub. L. 114–113, div. O, title V, § 504(b)(2)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3022](https://www.govinfo.gov/link/statute/129/3022); [Pub. L. 114–255, div. A, title V, § 5012(a)](https://www.govinfo.gov/link/plaw/114/public/255), (c)(3), Dec. 13, 2016, [130 Stat. 1198](https://www.govinfo.gov/link/statute/130/1198), 1202; [Pub. L. 115–123, div. E, title X](https://www.govinfo.gov/link/plaw/115/public/123), §§ 51004, 51006(a)(1), 51008(a), (b), Feb. 9, 2018, [132 Stat. 295–297](https://www.govinfo.gov/link/statute/132/295); [Pub. L. 115–271, title II](https://www.govinfo.gov/link/plaw/115/public/271), §§ 2002(a), (b), 2005(a), (b), Oct. 24, 2018, [132 Stat. 3925](https://www.govinfo.gov/link/statute/132/3925), 3926, 3928; [Pub. L. 116–136, div. A, title III](https://www.govinfo.gov/link/plaw/116/public/136), §§ 3708(c), 3713(a), Mar. 27, 2020, [134 Stat. 420](https://www.govinfo.gov/link/statute/134/420), 423; [Pub. L. 116–260, div. CC, title I](https://www.govinfo.gov/link/plaw/116/public/260), §§ 117(a), 125(a)(1), (d)(1), title IV, § 407(a)(4)(A), Dec. 27, 2020, [134 Stat. 2949](https://www.govinfo.gov/link/statute/134/2949), 2960, 2966, 3008; [Pub. L. 117–328, div. FF, title IV](https://www.govinfo.gov/link/plaw/117/public/328), §§ 4121(a)(1), (2), (b), 4124(a), (b)(1)(B), (2), (4)(A), 4133(a)(1), 4134(a), Dec. 29, 2022, [136 Stat. 5901–5903](https://www.govinfo.gov/link/statute/136/5901), 5908, 5909, 5918, 5920; [Pub. L. 119–75, div. J, title II](https://www.govinfo.gov/link/plaw/119/public/75), §§ 6211(a), 6221(a), 6222(a), Feb. 3, 2026, [140 Stat. 652](https://www.govinfo.gov/link/statute/140/652), 661, 663.)*

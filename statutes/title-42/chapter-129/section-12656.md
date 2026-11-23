@@ -3,9 +3,10 @@ title: "Section 12656 - Urban Youth Corps"
 usc_title: 42
 usc_section: "12656"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12656"
-generated_at: "2026-03-30T02:56:11.428Z"
+generated_at: "2026-11-23T20:27:23.423Z"
+status: "active"
 ---
 
 # § 12656. Urban Youth Corps
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:56:11.428Z"
   - **(1)** The Secretaries are each authorized to pay not more than 75 percent of the costs of any appropriate service project carried out pursuant to this section by a qualified urban youth corps. The remaining 25 percent of the costs of such a project may be provided from nonfederal sources in the form of funds, services, facilities, materials, equipment, or any combination of the foregoing.
   - **(2)** The Secretaries are each authorized to accept donations of funds, services, facilities, materials, or equipment for the purposes of operating the Urban Youth Corps and carrying out appropriate service projects by the Corps. However, nothing in this section shall be construed to require any cost sharing for any project carried out directly by the Corps.
   - **(3)** In order to carry out the Urban Youth Corps or to support qualified urban youth corps under this section, the Secretaries shall be eligible to apply for and receive assistance under section 121(b) of the National and Community Service Act of 1990 [ 42 U.S.C. 12571(b) ].
+
+## Source Credit
+
+*([Pub. L. 103–82, title I, § 106](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 854](https://www.govinfo.gov/link/statute/107/854).)*

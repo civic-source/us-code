@@ -3,9 +3,10 @@ title: "Section 7a - Civil monetary penalties"
 usc_title: 42
 usc_section: "7a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7a"
-generated_at: "2026-03-30T02:56:10.909Z"
+generated_at: "2026-11-23T20:27:20.990Z"
+status: "active"
 ---
 
 # § 1320a–7a. Civil monetary penalties
@@ -144,3 +145,17 @@ generated_at: "2026-03-30T02:56:10.909Z"
     - **(A)** provides or has provided any portion of the money or property requested or demanded; or
     - **(B)** will reimburse such contractor, grantee, or other recipient for any portion of the money or property which is requested or demanded.
 - **(s)** For purposes of subsection ( o ), the term “obligation” means an established duty, whether or not fixed, arising from an express or implied contractual, grantor-grantee, or licensor-licensee relationship, for a fee-based or similar relationship, from statute or regulation, or from the retention of any overpayment.
+
+Contracts with excluded persons
+
+Kickbacks
+
+“The amendments made by paragraph (1) [amending this section] shall apply to—
+
+General rule
+
+Exception
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XI, § 1128A, as added [Pub. L. 97–35, title XXI, § 2105(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 789](https://www.govinfo.gov/link/statute/95/789); amended [Pub. L. 97–248, title I, § 137(b)(26)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 380](https://www.govinfo.gov/link/statute/96/380); [Pub. L. 98–369, div. B, title III](https://www.govinfo.gov/link/plaw/98/public/369), §§ 2306(f)(1), 2354(a)(3), July 18, 1984, [98 Stat. 1073](https://www.govinfo.gov/link/statute/98/1073), 1100; [Pub. L. 99–509, title IX](https://www.govinfo.gov/link/plaw/99/public/509), §§ 9313(c)(1), 9317(a), (b), Oct. 21, 1986, [100 Stat. 2003](https://www.govinfo.gov/link/statute/100/2003), 2008; [Pub. L. 100–93, § 3](https://www.govinfo.gov/link/plaw/100/public/93), Aug. 18, 1987, [101 Stat. 686](https://www.govinfo.gov/link/statute/101/686); [Pub. L. 100–203, title IV](https://www.govinfo.gov/link/plaw/100/public/203), §§ 4039(h)(1), 4118(e)(1), (6)–(10), Dec. 22, 1987, [101 Stat. 1330–155](https://www.govinfo.gov/link/statute/101/1330), as amended [Pub. L. 100–360, title IV, § 411(e)(3)](https://www.govinfo.gov/link/plaw/100/public/360), (k)(10)(B)(ii), (D), July 1, 1988, [102 Stat. 775](https://www.govinfo.gov/link/statute/102/775), 794, 795; [Pub. L. 100–360, title II, § 202(c)(2)](https://www.govinfo.gov/link/plaw/100/public/360), July 1, 1988, [102 Stat. 715](https://www.govinfo.gov/link/statute/102/715); [Pub. L. 100–485, title VI, § 608(d)(26)(H)](https://www.govinfo.gov/link/plaw/100/public/485) –(K)(i), Oct. 13, 1988, [102 Stat. 2422](https://www.govinfo.gov/link/statute/102/2422); [Pub. L. 101–234, title II, § 201(a)](https://www.govinfo.gov/link/plaw/101/public/234), Dec. 13, 1989, [103 Stat. 1981](https://www.govinfo.gov/link/statute/103/1981); [Pub. L. 101–239, title VI, § 6003(g)(3)(D)(i)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2153](https://www.govinfo.gov/link/statute/103/2153); [Pub. L. 101–508, title IV](https://www.govinfo.gov/link/plaw/101/public/508), §§ 4204(a)(3), 4207(h), formerly 4027(h), 4731(b)(1), 4753, Nov. 5, 1990, [104 Stat. 1388–109](https://www.govinfo.gov/link/statute/104/1388), 1388–123, 1388–195, 1388–208, renumbered § 4207(h), [Pub. L. 103–432, title I, § 160(d)(4)](https://www.govinfo.gov/link/plaw/103/public/432), Oct. 31, 1994, [108 Stat. 4444](https://www.govinfo.gov/link/statute/108/4444); [Pub. L. 104–191, title II](https://www.govinfo.gov/link/plaw/104/public/191), §§ 231(a)–(e), (h), 232(a), Aug. 21, 1996, [110 Stat. 2012–2015](https://www.govinfo.gov/link/statute/110/2012); [Pub. L. 105–33, title IV](https://www.govinfo.gov/link/plaw/105/public/33), §§ 4201(c)(1), 4304(a), (b), 4331(e), 4523(c), Aug. 5, 1997, [111 Stat. 373](https://www.govinfo.gov/link/statute/111/373), 383, 396, 449; [Pub. L. 105–277, div. J, title V, § 5201(a)](https://www.govinfo.gov/link/plaw/105/public/277), (b)(1), Oct. 21, 1998, [112 Stat. 2681–916](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 111–148, title VI](https://www.govinfo.gov/link/plaw/111/public/148), §§ 6402(d)(2), 6408(a), 6703(d)(3)(B), Mar. 23, 2010, [124 Stat. 757](https://www.govinfo.gov/link/statute/124/757), 770, 804; [Pub. L. 114–10, title V, § 512(a)(1)](https://www.govinfo.gov/link/plaw/114/public/10), Apr. 16, 2015, [129 Stat. 170](https://www.govinfo.gov/link/statute/129/170); [Pub. L. 114–255, div. A, title V, § 5003](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1188](https://www.govinfo.gov/link/statute/130/1188); [Pub. L. 115–123, div. E, title III, § 50302(c)](https://www.govinfo.gov/link/plaw/115/public/123), title IV, § 50412(a)(1), Feb. 9, 2018, [132 Stat. 191](https://www.govinfo.gov/link/statute/132/191), 220; [Pub. L. 117–286, § 4(b)(77)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4351](https://www.govinfo.gov/link/statute/136/4351).)*

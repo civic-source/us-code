@@ -3,9 +3,10 @@ title: "Section 1762 - Roads"
 usc_title: 43
 usc_section: "1762"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1762"
-generated_at: "2026-03-30T02:55:57.491Z"
+generated_at: "2026-11-23T20:27:06.376Z"
+status: "active"
 ---
 
 # § 1762. Roads
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:57.491Z"
 - **(b)** Copies of all instruments affecting permanent interests in land executed pursuant to this section shall be recorded in each county where the lands are located.
 - **(c)** The Secretary may require the user or users of a road, trail, land, or other facility administered by him through the Bureau, including purchasers of Government timber and other products, to maintain such facilities in a satisfactory condition commensurate with the particular use requirements of each. Such maintenance to be borne by each user shall be proportionate to total use. The Secretary may also require the user or users of such a facility to reconstruct the same when such reconstruction is determined to be necessary to accommodate such use. If such maintenance or reconstruction cannot be so provided or if the Secretary determines that maintenance or reconstruction by a user would not be practical, then the Secretary may require that sufficient funds be deposited by the user to provide his portion of such total maintenance or reconstruction. Deposits made to cover the maintenance or reconstruction of roads are hereby made available until expended to cover the cost to the United States of accomplishing the purposes for which deposited: Provided , That deposits received for work on adjacent and overlapping areas may be combined when it is the most practicable and efficient manner of performing the work, and cost thereof may be determined by estimates: And provided further , That unexpended balances upon accomplishment of the purpose for which deposited shall be transferred to miscellaneous receipts or refunded.
 - **(d)** Whenever the agreement under which the United States has obtained for the use of, or in connection with, the public lands a right-of-way or easement for a road or an existing road or the right to use an existing road provides for delayed payments to the Government’s grantor, any fees or other collections received by the Secretary for the use of the road may be placed in a fund to be available for making payments to the grantor.
+
+## Source Credit
+
+*([Pub. L. 94–579, title V, § 502](https://www.govinfo.gov/link/plaw/94/public/579), Oct. 21, 1976, [90 Stat. 2777](https://www.govinfo.gov/link/statute/90/2777).)*

@@ -3,9 +3,10 @@ title: "Section 1635a - Definitions"
 usc_title: 7
 usc_section: "1635a"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1635a"
-generated_at: "2026-03-30T02:53:42.331Z"
+generated_at: "2026-11-23T20:25:41.231Z"
+status: "active"
 ---
 
 # § 1635a. Definitions
@@ -33,3 +34,7 @@ In this subchapter:
     - **(C)** the Department of Agriculture is open to conduct business.
   - **(13)** The term “Secretary” means the Secretary of Agriculture.
   - **(14)** The term “State” means each of the 50 States.
+
+## Source Credit
+
+*(Aug. 14, 1946, ch. 966, title II, § 212, as added [Pub. L. 106–78, title IX, § 911(2)](https://www.govinfo.gov/link/plaw/106/public/78), Oct. 22, 1999, [113 Stat. 1188](https://www.govinfo.gov/link/statute/113/1188).)*

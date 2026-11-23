@@ -3,9 +3,10 @@ title: "Section 20307 - Accountability"
 usc_title: 34
 usc_section: "20307"
 chapter: 203
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 20307"
-generated_at: "2026-03-30T02:55:33.297Z"
+generated_at: "2026-11-23T20:26:50.592Z"
+status: "active"
 ---
 
 # § 20307. Accountability
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:55:33.297Z"
     - **(A)** the method by which amounts are allocated to grantees and subgrantees under this subchapter, including to local children’s advocacy centers, State chapters, and regional children’s advocacy program centers; and
     - **(B)** steps the Attorney General has taken to minimize duplication and overlap in the awarding of amounts under this subchapter; and
   - **(3)** analyzes the extent to which both rural and urban populations are served under the regional children’s advocacy program.
+
+## Source Credit
+
+*([Pub. L. 101–647, title II, § 214C](https://www.govinfo.gov/link/plaw/101/public/647), as added [Pub. L. 113–163, § 2(b)](https://www.govinfo.gov/link/plaw/113/public/163), Aug. 8, 2014, [128 Stat. 1864](https://www.govinfo.gov/link/statute/128/1864); amended [Pub. L. 115–424, § 2(g)](https://www.govinfo.gov/link/plaw/115/public/424), Jan. 7, 2019, [132 Stat. 5469](https://www.govinfo.gov/link/statute/132/5469).)*

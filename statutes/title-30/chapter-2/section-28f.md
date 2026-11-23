@@ -3,9 +3,10 @@ title: "Section 28f - Fee"
 usc_title: 30
 usc_section: "28f"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 28f"
-generated_at: "2026-03-30T02:55:29.375Z"
+generated_at: "2026-11-23T20:26:34.899Z"
+status: "active"
 ---
 
 # § 28f. Fee
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:29.375Z"
     - **(A)** the spouse and dependent children (as defined in section 152 of title 26 ), of the claimant; and
     - **(B)** a person who controls, is controlled by, or is under common control with the claimant.
   - **(3)** If a small miner waiver application is determined to be defective for any reason, the claimant shall have a period of 60 days after receipt of written notification of the defect or defects by the Bureau of Land Management to: (A) cure such defect or defects, or (B) pay the $100 claim maintenance fee due for such period.
+
+## Source Credit
+
+*([Pub. L. 103–66, title X, § 10101](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 405](https://www.govinfo.gov/link/statute/107/405); [Pub. L. 105–240, § 116](https://www.govinfo.gov/link/plaw/105/public/240), Sept. 25, 1998, [112 Stat. 1570](https://www.govinfo.gov/link/statute/112/1570); [Pub. L. 105–277, div. A, § 101(e) [title I]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–231](https://www.govinfo.gov/link/statute/112/2681), 2681–235; [Pub. L. 107–63, title I](https://www.govinfo.gov/link/plaw/107/public/63), (1), Nov. 5, 2001, [115 Stat. 418](https://www.govinfo.gov/link/statute/115/418); [Pub. L. 108–108, title I](https://www.govinfo.gov/link/plaw/108/public/108), (1), Nov. 10, 2003, [117 Stat. 1245](https://www.govinfo.gov/link/statute/117/1245); [Pub. L. 110–161, div. F, title I](https://www.govinfo.gov/link/plaw/110/public/161), (2), Dec. 26, 2007, [121 Stat. 2101](https://www.govinfo.gov/link/statute/121/2101); [Pub. L. 111–8, div. E, title I](https://www.govinfo.gov/link/plaw/111/public/8), Mar. 11, 2009, [123 Stat. 704](https://www.govinfo.gov/link/statute/123/704); [Pub. L. 111–88, div. A, title I](https://www.govinfo.gov/link/plaw/111/public/88), Oct. 30, 2009, [123 Stat. 2907](https://www.govinfo.gov/link/statute/123/2907); [Pub. L. 112–74, div. E, title IV, § 430](https://www.govinfo.gov/link/plaw/112/public/74), Dec. 23, 2011, [125 Stat. 1047](https://www.govinfo.gov/link/statute/125/1047); [Pub. L. 113–6, div. F, title IV, § 1403](https://www.govinfo.gov/link/plaw/113/public/6), Mar. 26, 2013, [127 Stat. 419](https://www.govinfo.gov/link/statute/127/419).)*

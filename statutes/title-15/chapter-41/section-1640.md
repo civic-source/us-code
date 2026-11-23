@@ -3,9 +3,10 @@ title: "Section 1640 - Civil liability"
 usc_title: 15
 usc_section: "1640"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1640"
-generated_at: "2026-03-30T02:54:08.143Z"
+generated_at: "2026-11-23T20:26:04.054Z"
+status: "active"
 ---
 
 # § 1640. Civil liability
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:54:08.143Z"
     - **(A)** The amount of recoupment or set-off under paragraph (1) shall equal the amount to which the consumer would be entitled under subsection (a) for damages for a valid claim brought in an original action against the creditor, plus the costs to the consumer of the action, including a reasonable attorney’s fee.
     - **(B)** Where such judgment is rendered after the expiration of the applicable time limit on a private action for damages under subsection (e), the amount of recoupment or set-off under paragraph (1) derived from damages under subsection (a)(4) shall not exceed the amount to which the consumer would have been entitled under subsection (a)(4) for damages computed up to the day preceding the expiration of the applicable time limit.
 - **(l)** In addition to any other remedy available by law or contract, no creditor or assignee shall be liable to an obligor under this section, if such obligor, or co-obligor has been convicted of obtaining by actual fraud such residential mortgage loan.
+
+## Source Credit
+
+*([Pub. L. 90–321, title I, § 130](https://www.govinfo.gov/link/plaw/90/public/321), May 29, 1968, [82 Stat. 157](https://www.govinfo.gov/link/statute/82/157); [Pub. L. 93–495, title IV](https://www.govinfo.gov/link/plaw/93/public/495), §§ 406, 407, 408(a)–(d), Oct. 28, 1974, [88 Stat. 1518](https://www.govinfo.gov/link/statute/88/1518); [Pub. L. 94–222, § 3(b)](https://www.govinfo.gov/link/plaw/94/public/222), Feb. 27, 1976, [90 Stat. 197](https://www.govinfo.gov/link/statute/90/197); [Pub. L. 94–240, § 4](https://www.govinfo.gov/link/plaw/94/public/240), Mar. 23, 1976, [90 Stat. 260](https://www.govinfo.gov/link/statute/90/260); [Pub. L. 96–221, title VI, § 615](https://www.govinfo.gov/link/plaw/96/public/221), Mar. 31, 1980, [94 Stat. 180](https://www.govinfo.gov/link/statute/94/180); [Pub. L. 100–583, § 3](https://www.govinfo.gov/link/plaw/100/public/583), Nov. 3, 1988, [102 Stat. 2966](https://www.govinfo.gov/link/statute/102/2966); [Pub. L. 103–325, title I, § 153(a)](https://www.govinfo.gov/link/plaw/103/public/325), (b), Sept. 23, 1994, [108 Stat. 2195](https://www.govinfo.gov/link/statute/108/2195); [Pub. L. 104–12, § 2](https://www.govinfo.gov/link/plaw/104/public/12), May 18, 1995, [109 Stat. 161](https://www.govinfo.gov/link/statute/109/161); [Pub. L. 104–29, § 6](https://www.govinfo.gov/link/plaw/104/public/29), Sept. 30, 1995, [109 Stat. 274](https://www.govinfo.gov/link/statute/109/274); [Pub. L. 110–289, div. B, title V, § 2502(b)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2857](https://www.govinfo.gov/link/statute/122/2857); [Pub. L. 110–315, title X, § 1012(a)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3482](https://www.govinfo.gov/link/statute/122/3482); [Pub. L. 111–22, div. A, title IV, § 404(b)](https://www.govinfo.gov/link/plaw/111/public/22), May 20, 2009, [123 Stat. 1658](https://www.govinfo.gov/link/statute/123/1658); [Pub. L. 111–24, title I, § 107](https://www.govinfo.gov/link/plaw/111/public/24), title II, § 201(b), May 22, 2009, [123 Stat. 1743](https://www.govinfo.gov/link/statute/123/1743), 1745; [Pub. L. 111–203, title X, § 1100A(2)](https://www.govinfo.gov/link/plaw/111/public/203), title XIV, §§ 1413, 1416, 1417, 1422, July 21, 2010, [124 Stat. 2107](https://www.govinfo.gov/link/statute/124/2107), 2148, 2153, 2157.)*

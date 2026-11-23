@@ -3,9 +3,10 @@ title: "Section 2333 - Irrigation diversion protection and fisheries enhancement
 usc_title: 33
 usc_section: "2333"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2333"
-generated_at: "2026-03-30T02:55:41.126Z"
+generated_at: "2026-11-23T20:26:54.190Z"
+status: "active"
 ---
 
 # § 2333. Irrigation diversion protection and fisheries enhancement assistance
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:41.126Z"
   - **(3)** the extent to which those measures are currently being employed in arid States;
   - **(4)** the construction costs associated with those measures; and
   - **(5)** the appropriate Federal role, if any, to encourage the use of those measures.
+
+## Source Credit
+
+*([Pub. L. 106–53, title V, § 515](https://www.govinfo.gov/link/plaw/106/public/53), Aug. 17, 1999, [113 Stat. 344](https://www.govinfo.gov/link/statute/113/344).)*

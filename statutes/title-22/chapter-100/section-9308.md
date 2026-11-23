@@ -3,9 +3,10 @@ title: "Section 9308 - Rule of construction"
 usc_title: 22
 usc_section: "9308"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9308"
-generated_at: "2026-03-30T02:55:05.465Z"
+generated_at: "2026-11-23T20:26:32.768Z"
+status: "active"
 ---
 
 # § 9308. Rule of construction
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.465Z"
   - **(5)** Local and Regional Procurement Program ( 7 U.S.C. 1726c ).
   - **(6)** Bill Emerson Humanitarian Trust Act ( 7 U.S.C. 1736f–1 ).
   - **(7)** Any other food and nutrition security and emergency and non-emergency food assistance program of the Department of Agriculture.
+
+## Source Credit
+
+*([Pub. L. 114–195, § 9](https://www.govinfo.gov/link/plaw/114/public/195), July 20, 2016, [130 Stat. 684](https://www.govinfo.gov/link/statute/130/684).)*

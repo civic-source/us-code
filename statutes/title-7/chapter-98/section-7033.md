@@ -3,9 +3,10 @@ title: "Section 7033 - Availability of agency information technology funds"
 usc_title: 7
 usc_section: "7033"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7033"
-generated_at: "2026-03-30T02:53:42.443Z"
+generated_at: "2026-11-23T20:25:41.750Z"
+status: "active"
 ---
 
 # § 7033. Availability of agency information technology funds
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:42.443Z"
   - **(1)** Funds reserved under subsection (a) shall be used to establish the Internet-based system required under section 7031 of this title and to expand the system as required by section 7032 of this title .
   - **(2)** Once the system is established and operational, reserved amounts shall be used for maintenance and improvement of the system.
 - **(d)** Funds reserved under subsection (a) and unobligated at the end of the fiscal year shall be returned to the agency from which the funds were reserved, to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 106–222, § 4](https://www.govinfo.gov/link/plaw/106/public/222), June 20, 2000, [114 Stat. 354](https://www.govinfo.gov/link/statute/114/354).)*

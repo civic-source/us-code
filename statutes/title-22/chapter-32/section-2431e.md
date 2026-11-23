@@ -3,9 +3,10 @@ title: "Section 2431e - Reduction of debt owed to United States as result of cre
 usc_title: 22
 usc_section: "2431e"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2431e"
-generated_at: "2026-03-30T02:55:05.367Z"
+generated_at: "2026-11-23T20:26:32.300Z"
+status: "active"
 ---
 
 # § 2431e. Reduction of debt owed to United States as result of credits extended under title I of Food for Peace Act
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:05.367Z"
     - **(A)** The provisions relating to repayment of principal under section 605 of such Act [ 7 U.S.C. 1738d ].
     - **(B)** The provisions relating to interest on new obligations under section 606 of such Act [ 7 U.S.C. 1738e ].
   - **(2)** In addition to the application of the provisions relating to repayment of principal under section 605 of the Food for Peace Act [ 7 U.S.C. 1738d ] to the reduction of debt under subsection (a)(1) (in accordance with paragraph (1)(A) of this subsection), repayment of principal on a new obligation established under subsection (b) may be made in the local currency of the beneficiary country and deposited in the Conservation Fund of the country in the same manner as the provisions relating to payment of interest on new obligations under section 606 of such Act [ 7 U.S.C. 1738e ].
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. V, § 807, as added [Pub. L. 105–214, § 1](https://www.govinfo.gov/link/plaw/105/public/214), July 29, 1998, [112 Stat. 888](https://www.govinfo.gov/link/statute/112/888); amended [Pub. L. 108–323, § 3(b)](https://www.govinfo.gov/link/plaw/108/public/323), Oct. 6, 2004, [118 Stat. 1219](https://www.govinfo.gov/link/statute/118/1219); [Pub. L. 110–246, title III, § 3001(b)(1)](https://www.govinfo.gov/link/plaw/110/public/246), (2)(Q), June 18, 2008, [122 Stat. 1820](https://www.govinfo.gov/link/statute/122/1820); [Pub. L. 115–440](https://www.govinfo.gov/link/plaw/115/public/440), §§ 6, 9(b)(3), Jan. 14, 2019, [132 Stat. 5582](https://www.govinfo.gov/link/statute/132/5582), 5584.)*

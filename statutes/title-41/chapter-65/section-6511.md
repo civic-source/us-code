@@ -3,9 +3,10 @@ title: "Section 6511 - Effect on other law"
 usc_title: 41
 usc_section: "6511"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 6511"
-generated_at: "2026-03-30T02:55:55.810Z"
+generated_at: "2026-11-23T20:27:04.472Z"
+status: "active"
 ---
 
 # § 6511. Effect on other law
@@ -15,3 +16,20 @@ This chapter may not be construed to modify or amend the following provisions:
   - **(1)** Chapter 83 of this title.
   - **(2)** Sections 3141 to 3144, 3146, and 3147 of title 40.
   - **(3)** Chapter 307 of title 18.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 6511 | 41:42. | June 30, 1936, ch. 881, § 8 , 49 Stat. 2039 . |
+
+
+Historical and Revision Notes
+
+6511
+
+June 30, 1936, ch. 881, § 8
+
+49 Stat. 2039
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3811](https://www.govinfo.gov/link/statute/124/3811).)*

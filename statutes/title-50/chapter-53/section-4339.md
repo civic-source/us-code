@@ -3,9 +3,10 @@ title: "Section 4339 - Claims for proceeds from sale of certain certificates: ju
 usc_title: 50
 usc_section: "4339"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4339"
-generated_at: "2026-03-30T02:56:26.274Z"
+generated_at: "2026-11-23T20:27:31.103Z"
+status: "active"
 ---
 
 # § 4339. Claims for proceeds from sale of certain certificates: jurisdiction, limitations; divestment of copyrights: “copyrights” defined, rights of licensees and assignees, reproduction rights of United States, transfer of interests, payment of royalties to Attorney General, suits for infringement
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:26.274Z"
   - **(2)** rights or interests which have been returned or otherwise disposed of under this chapter; and
   - **(3)** rights or interests vested by vesting orders 128 (7 F.R. 7578), 13111 (14 F.R. 1730), 14349 (15 F.R. 1575), and 17366 (16 F.R. 2483),
 - **(e)** Nothing in this section shall be construed to transfer to a person entitled to a copyright divested hereunder the right of the Attorney General to sue for the infringement of such copyright during the period between (1) the vesting thereof or the vesting of rights and interests in a contract entered into with respect thereto, and (2) the day of divestment. The right to sue for infringement shall remain in the Attorney General.
+
+## Source Credit
+
+*(Oct. 6, 1917, ch. 106, § 41, as added [Pub. L. 87–846, title II, § 206](https://www.govinfo.gov/link/plaw/87/public/846), Oct. 22, 1962, [76 Stat. 1115](https://www.govinfo.gov/link/statute/76/1115); amended [Pub. L. 88–490](https://www.govinfo.gov/link/plaw/88/public/490), Aug. 26, 1964, [78 Stat. 607](https://www.govinfo.gov/link/statute/78/607); [Pub. L. 97–164, title I, § 161(9)](https://www.govinfo.gov/link/plaw/97/public/164), Apr. 2, 1982, [96 Stat. 49](https://www.govinfo.gov/link/statute/96/49); [Pub. L. 102–572, title IX, § 902(b)(1)](https://www.govinfo.gov/link/plaw/102/public/572), Oct. 29, 1992, [106 Stat. 4516](https://www.govinfo.gov/link/statute/106/4516).)*

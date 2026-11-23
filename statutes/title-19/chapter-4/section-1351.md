@@ -3,9 +3,10 @@ title: "Section 1351 - Foreign trade agreements"
 usc_title: 19
 usc_section: "1351"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1351"
-generated_at: "2026-03-30T02:54:24.631Z"
+generated_at: "2026-11-23T20:26:10.746Z"
+status: "active"
 ---
 
 # § 1351. Foreign trade agreements
@@ -59,3 +60,7 @@ generated_at: "2026-03-30T02:54:24.631Z"
   - **(3)** No proclamation shall be made pursuant to this section for the purpose of carrying out any foreign trade agreement the proclamation with respect to which has been terminated in whole by the President prior to July 5, 1945 .
 - **(e)**
 - **(f)** It is declared to be the sense of the Congress that the President, during the course of negotiating any foreign trade agreement under this section, should seek information and advice with respect to such agreement from representatives of industry, agriculture, and labor.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title III, § 350, as added June 12, 1934, ch. 474, § 1, [48 Stat. 943](https://www.govinfo.gov/link/statute/48/943); amended June 7, 1943, ch. 118, § 2, [57 Stat. 125](https://www.govinfo.gov/link/statute/57/125); July 5, 1945, ch. 269, §§ 2, 3, [59 Stat. 410](https://www.govinfo.gov/link/statute/59/410); Sept. 26, 1949, ch. 585, §§ 4, 6, [63 Stat. 698](https://www.govinfo.gov/link/statute/63/698); June 21, 1955, ch. 169, § 3, [69 Stat. 162](https://www.govinfo.gov/link/statute/69/162); [Pub. L. 85–686, § 3](https://www.govinfo.gov/link/plaw/85/public/686), Aug. 20, 1958, [72 Stat. 673](https://www.govinfo.gov/link/statute/72/673); [Pub. L. 87–794, title II, § 257(a)](https://www.govinfo.gov/link/plaw/87/public/794), (b), Oct. 11, 1962, [76 Stat. 881](https://www.govinfo.gov/link/statute/76/881), 882; [Pub. L. 96–39, title II, § 202(a)(3)](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 202](https://www.govinfo.gov/link/statute/93/202).)*

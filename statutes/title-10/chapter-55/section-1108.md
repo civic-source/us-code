@@ -3,9 +3,10 @@ title: "Section 1108 - Health care coverage through Federal Employees Health Ben
 usc_title: 10
 usc_section: "1108"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1108"
-generated_at: "2026-03-30T02:53:38.109Z"
+generated_at: "2026-11-23T20:25:51.247Z"
+status: "active"
 ---
 
 # § 1108. Health care coverage through Federal Employees Health Benefits program: demonstration project
@@ -48,3 +49,27 @@ generated_at: "2026-03-30T02:53:38.109Z"
   - **(2)** In applying paragraph (1)—
     - **(A)** any reference in clause (v) or (vi) of section 1882(s)(3)(B) of such Act to 12 months is deemed a reference to 36 months; and
     - **(B)** the notification required under section 1882(s)(3)(D) of such Act shall be provided in a manner specified by the Secretary of Defense in consultation with the Director of the Office of Personnel Management.
+
+FEHBP Option Demonstration
+
+Eligible Beneficiaries; Coverage
+
+Area of Demonstration Project
+
+Duration of Demonstration Project
+
+Prohibition Against Use of MTFs and Enrollment Under TRICARE
+
+Term of Enrollment in Project
+
+Effect of Cancellation
+
+Separate Risk Pools; Charges
+
+Government Contributions
+
+Application of Medigap Protections to Demonstration Project Enrollees
+
+## Source Credit
+
+*(Added [Pub. L. 105–261, div. A, title VII, § 721(a)(1)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2061](https://www.govinfo.gov/link/statute/112/2061); amended [Pub. L. 108–375, div. A, title X, § 1084(d)(8)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2061](https://www.govinfo.gov/link/statute/118/2061); [Pub. L. 112–239, div. A, title X, § 1076(g)(1)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1955](https://www.govinfo.gov/link/statute/126/1955).)*

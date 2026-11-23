@@ -3,9 +3,10 @@ title: "Section 3410 - Federal responsibilities"
 usc_title: 25
 usc_section: "3410"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3410"
-generated_at: "2026-03-30T02:54:52.852Z"
+generated_at: "2026-11-23T20:26:25.650Z"
+status: "active"
 ---
 
 # § 3410. Federal responsibilities
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:54:52.852Z"
     - **(B)** to determine the number and percentage of program participants in unsubsidized employment during the second quarter after exit from the program; and
     - **(C)** to provide assurances to the head of each applicable Federal department or agency that the Indian tribe has complied with all directly applicable statutory and regulatory requirements not waived under section 3406 of this title .
   - **(3)** The report format developed under paragraph (1) shall not require a participating Indian tribe to report on the expenditure of funds expressed by fund source or single agency code transferred to the Indian tribe under an approved plan under this chapter but instead shall require the Indian tribe to submit a single report on the expenditure of consolidated funds under such plan.
+
+## Source Credit
+
+*([Pub. L. 102–477, § 11](https://www.govinfo.gov/link/plaw/102/public/477), Oct. 23, 1992, [106 Stat. 2304](https://www.govinfo.gov/link/statute/106/2304); [Pub. L. 115–93, § 11](https://www.govinfo.gov/link/plaw/115/public/93), Dec. 18, 2017, [131 Stat. 2032](https://www.govinfo.gov/link/statute/131/2032).)*

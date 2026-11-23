@@ -3,9 +3,10 @@ title: "Section 5402 - Definitions"
 usc_title: 15
 usc_section: "5402"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 5402"
-generated_at: "2026-03-30T02:54:08.206Z"
+generated_at: "2026-11-23T20:26:04.369Z"
+status: "active"
 ---
 
 # § 5402. Definitions
@@ -65,3 +66,7 @@ As used in this chapter, the term—
   - **(15)** “Secretary” means the Secretary of Commerce;
   - **(16)** “specifications” means the required characteristics identified in the contractual agreement with the manufacturer or to which a fastener is otherwise produced, except that the term does not include proprietary standards; and
   - **(17)** “through-harden” means heating above the transformation temperature followed by quenching and tempering for the purpose of achieving uniform hardness.
+
+## Source Credit
+
+*([Pub. L. 101–592, § 3](https://www.govinfo.gov/link/plaw/101/public/592), Nov. 16, 1990, [104 Stat. 2944](https://www.govinfo.gov/link/statute/104/2944); [Pub. L. 104–113, § 11(b)](https://www.govinfo.gov/link/plaw/104/public/113), Mar. 7, 1996, [110 Stat. 780](https://www.govinfo.gov/link/statute/110/780); [Pub. L. 106–34, § 3](https://www.govinfo.gov/link/plaw/106/public/34), June 8, 1999, [113 Stat. 118](https://www.govinfo.gov/link/statute/113/118).)*

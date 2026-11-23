@@ -3,9 +3,10 @@ title: "Section 5392 - Facilitation"
 usc_title: 25
 usc_section: "5392"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 5392"
-generated_at: "2026-03-30T02:54:52.870Z"
+generated_at: "2026-11-23T20:26:25.750Z"
+status: "active"
 ---
 
 # § 5392. Facilitation
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:52.870Z"
 - **(d)** All funds provided under compacts, funding agreements, or grants made pursuant to this chapter, shall be treated as non-Federal funds for purposes of meeting matching or cost participation requirements under any other Federal or non-Federal program.
 - **(e)** States are hereby authorized and encouraged to enact legislation, and to enter into agreements with Indian tribes to facilitate and supplement the initiatives, programs, and policies authorized by this subchapter and other Federal laws benefiting Indians and Indian tribes.
 - **(f)** Each provision of this subchapter and each provision of a compact or funding agreement shall be liberally construed for the benefit of the Indian tribe participating in self-governance and any ambiguity shall be resolved in favor of the Indian tribe.
+
+## Source Credit
+
+*([Pub. L. 93–638, title V, § 512](https://www.govinfo.gov/link/plaw/93/public/638), as added [Pub. L. 106–260, § 4](https://www.govinfo.gov/link/plaw/106/public/260), Aug. 18, 2000, [114 Stat. 726](https://www.govinfo.gov/link/statute/114/726).)*

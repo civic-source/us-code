@@ -3,9 +3,10 @@ title: "Section 2103c - Forest Legacy Program"
 usc_title: 16
 usc_section: "2103c"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 2103c"
-generated_at: "2026-03-30T02:54:22.997Z"
+generated_at: "2026-11-23T20:26:20.591Z"
+status: "active"
 ---
 
 # § 2103c. Forest Legacy Program
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:54:22.997Z"
         - **(II)** convey to the Secretary land or an interest in land that is equal in value to the land or interest in land conveyed.
     - **(C)** Amounts received by the Secretary under subparagraph (B)(ii) shall be credited to the Wildland Fire Management account, to remain available until expended.
 - **(m)** There are authorized to be appropriated such sums as may be necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 95–313, § 7](https://www.govinfo.gov/link/plaw/95/public/313), as added [Pub. L. 101–624, title XII, § 1217](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3528](https://www.govinfo.gov/link/statute/104/3528); amended [Pub. L. 102–237, title X, § 1018(a)(2)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1905](https://www.govinfo.gov/link/statute/105/1905); [Pub. L. 104–127, title III, § 374](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1015](https://www.govinfo.gov/link/statute/110/1015); [Pub. L. 108–108, title III, § 336](https://www.govinfo.gov/link/plaw/108/public/108), Nov. 10, 2003, [117 Stat. 1313](https://www.govinfo.gov/link/statute/117/1313).)*

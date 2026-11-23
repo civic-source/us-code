@@ -3,9 +3,10 @@ title: "Section 9501 - Bill of Rights"
 usc_title: 42
 usc_section: "9501"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9501"
-generated_at: "2026-03-30T02:56:11.352Z"
+generated_at: "2026-11-23T20:27:23.084Z"
+status: "active"
 ---
 
 # § 9501. Bill of Rights
@@ -62,3 +63,7 @@ It is the sense of the Congress that each State should review and revise, if nec
     - **(A)** In the case of a person adjudicated by a court of competent jurisdiction as being incompetent to exercise the right to consent to treatment or experimentation described in subparagraph (D) or (E) of paragraph (1), or the right to confidentiality of or access to records described in subparagraph (H) or (I) of such paragraph, or to provide authorization as described in paragraph (3)(C)(iii), such right may be exercised or such authorization may be provided by the individual appointed by such court as such person’s guardian or representative for the purpose of exercising such right or such authorization.
     - **(B)** In the case of a person who lacks capacity to exercise the right to consent to treatment or experimentation under subparagraph (D) or (E) of paragraph (1), or the right to confidentiality of or access to records described in subparagraph (H) or (I) of such paragraph, or to provide authorization as described in paragraph (3)(C)(iii), because such person has not attained an age considered sufficiently advanced under State law to permit the exercise of such right or such authorization to be legally binding, such right may be exercised or such authorization may be provided on behalf of such person by a parent or legal guardian of such person.
     - **(C)** Notwithstanding subparagraphs (A) and (B), in the case of a person admitted to a program or facility for the purpose of receiving mental health services, no individual employed by or receiving any remuneration from such program or facility should act as such person’s guardian or representative.
+
+## Source Credit
+
+*([Pub. L. 96–398, title V, § 501](https://www.govinfo.gov/link/plaw/96/public/398), Oct. 7, 1980, [94 Stat. 1598](https://www.govinfo.gov/link/statute/94/1598).)*

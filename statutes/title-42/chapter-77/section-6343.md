@@ -3,9 +3,10 @@ title: "Section 6343 - Waste energy recovery incentive grant program"
 usc_title: 42
 usc_section: "6343"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6343"
-generated_at: "2026-03-30T02:56:11.256Z"
+generated_at: "2026-11-23T20:27:22.661Z"
+status: "active"
 ---
 
 # § 6343. Waste energy recovery incentive grant program
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:56:11.256Z"
     - **(A)** $100,000,000 for fiscal year 2008 and $200,000,000 for each of fiscal years 2009 through 2012; and
     - **(B)** such additional amounts for fiscal year 2008 and each fiscal year thereafter as may be necessary for administration of the waste energy recovery incentive grant program; and
   - **(2)** to make grants to States under subsection (b), $10,000,000 for each of fiscal years 2008 through 2012, to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 373](https://www.govinfo.gov/link/plaw/94/public/163), as added [Pub. L. 110–140, title IV, § 451(a)](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1627](https://www.govinfo.gov/link/statute/121/1627).)*

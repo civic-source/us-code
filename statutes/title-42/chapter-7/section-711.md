@@ -3,9 +3,10 @@ title: "Section 711 - Maternal, infant, and early childhood home visiting progra
 usc_title: 42
 usc_section: "711"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 711"
-generated_at: "2026-03-30T02:56:10.894Z"
+generated_at: "2026-11-23T20:27:20.939Z"
+status: "active"
 ---
 
 # § 711. Maternal, infant, and early childhood home visiting programs
@@ -283,3 +284,67 @@ generated_at: "2026-03-30T02:56:10.894Z"
     - **(B)** a rigorous, third-party evaluation that uses experimental or quasi-experimental design or other research methodologies that allow for the strongest possible causal inferences to determine whether the initiative has met its proposed outcomes as a result of the intervention;
     - **(C)** an annual, publicly available report on the progress of the initiative; and
     - **(D)** a requirement that payments are made to the recipient of a grant, contract, or cooperative agreement only when agreed upon outcomes are achieved, except that this requirement shall not apply with respect to payments to a third party conducting the evaluation described in subparagraph (B).
+
+(aa) the amount made available under subsection (k) for base grants for fiscal year 2023 that remains after making the reservations required by subsection (k)(2) or any other reductions required by Federal law for fiscal year 2023; multiplied by
+
+(bb) the percentage of children in all States who have not attained 5 years of age (as determined by the Secretary on the basis of the data most recently available before fiscal year 2023) that is represented by the number of such children in the State in which the eligible entity is operating a program pursuant to this section (as so determined).
+
+(aa) In general Subject to item (bb) of this subclause, the matching amount with respect to an eligible entity for a fiscal year is 75 percent of the sum of— (AA) the total amount obligated by the eligible entity for home visiting services in the State for the fiscal year, from Federal funds made available for the fiscal year under this subparagraph; and (BB) the total amount so obligated by the eligible entity from non-Federal funds, determined under subclause (III).
+
+(bb) Limitation The matching amount with respect to an eligible entity for a fiscal year shall not exceed the allotment under subclause (IV) for the State in which the eligible entity is operating a program under this section for the fiscal year.
+
+(aa) the services are delivered in compliance with subsections (d)(2) and (d)(3);
+
+(bb) the eligible entity has reported the obligations to the Secretary; and
+
+(cc) the amount is not counted toward meeting the maintenance of effort requirement in subsection (f).
+
+(aa) the minimum matching grant allocation amount for the fiscal year; plus
+
+(bb) (AA) the amount (if any) by which the amount made available under subsection (k) for matching grants for the fiscal year that remains after making the reservations required by subsection (k)(2) or any other reduction required by Federal law for the fiscal year exceeds the sum of the minimum matching grant allocation amounts for all eligible entities for the fiscal year; multiplied by (BB) the percentage of children in all States who have not attained 5 years of age and are members of families with income not exceeding the poverty line (as determined by the Secretary on the basis of the most recently available data) that is represented by the number of such children in the State (as so determined).
+
+(aa) in the case of fiscal year 2024, $776,000;
+
+(bb) in the case of fiscal year 2025, $1,000,000;
+
+(cc) in the case of fiscal year 2026, $1,500,000; and
+
+(dd) in the case of fiscal year 2027, $2,000,000.
+
+(aa) the total amount (if any) made available under subclause (I) for the fiscal year; multiplied by
+
+(bb) the percentage of children who have not attained 5 years of age and are members of families with income not exceeding the poverty line (as determined by the Secretary on the basis of the most recently available data) in all of the States in which any eligible entity that has made such a submission is so operating a program, that is represented by the number of such children in the State (as so determined) in which the eligible entity is operating such a program.
+
+(aa) In general Subject to item (bb) of this subclause, the additional matching amount with respect to an eligible entity for a fiscal year is 75 percent of the sum of— (AA) the total amount obligated by the eligible entity for home visiting services in the State for the fiscal year, from Federal funds made available for the fiscal year under this subparagraph; and (BB) the total amount so obligated by the eligible entity from non-Federal funds, determined under clause (i)(III),
+
+(bb) Limitation The additional matching amount with respect to an eligible entity for a fiscal year shall not exceed the allotment under subclause (II) for the State in which the eligible entity is operating a program under this section for the fiscal year.
+
+(aa) randomized controlled research designs, and the evaluation results have been published in a peer-reviewed journal; or
+
+(bb) quasi-experimental research designs.
+
+In general
+
+Virtual home visiting provisions
+
+In general
+
+Virtual home visit defined
+
+In General
+
+Virtual Home Visit Defined
+
+Authority to Delay Deadlines.—
+
+In general
+
+Delay of deadline for statewide needs assessment
+
+Guidance
+
+Timely Release of Title V Funds
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title V, § 511, as added [Pub. L. 111–148, title II, § 2951](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 334](https://www.govinfo.gov/link/statute/124/334); amended [Pub. L. 113–93, title II, § 209](https://www.govinfo.gov/link/plaw/113/public/93), Apr. 1, 2014, [128 Stat. 1046](https://www.govinfo.gov/link/statute/128/1046); [Pub. L. 114–10, title II, § 218](https://www.govinfo.gov/link/plaw/114/public/10), Apr. 16, 2015, [129 Stat. 153](https://www.govinfo.gov/link/statute/129/153); [Pub. L. 115–123, div. E, title VI](https://www.govinfo.gov/link/plaw/115/public/123), §§ 50601–50606(a), 50607, Feb. 9, 2018, [132 Stat. 228–231](https://www.govinfo.gov/link/statute/132/228); [Pub. L. 117–328, div. FF, title VI, § 6101(b)](https://www.govinfo.gov/link/plaw/117/public/328) –(c)(3)(A), (c)(4)–(f)(2)(A), (g), (h)(1), Dec. 29, 2022, [136 Stat. 5953–5962](https://www.govinfo.gov/link/statute/136/5953).)*

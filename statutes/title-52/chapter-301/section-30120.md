@@ -3,9 +3,10 @@ title: "Section 30120 - Publication and distribution of statements and solicitat
 usc_title: 52
 usc_section: "30120"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "52 U.S.C. § 30120"
-generated_at: "2026-03-30T02:56:30.174Z"
+generated_at: "2026-11-23T20:27:37.010Z"
+status: "active"
 ---
 
 # § 30120. Publication and distribution of statements and solicitations
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:30.174Z"
         - **(II)** the candidate in voice-over, accompanied by a clearly identifiable photographic or similar image of the candidate; and
       - **(ii)** shall also appear in writing at the end of the communication in a clearly readable manner with a reasonable degree of color contrast between the background and the printed statement, for a period of at least 4 seconds.
   - **(2)** Any communication described in paragraph (3) of subsection (a) which is transmitted through radio or television shall include, in addition to the requirements of that paragraph, in a clearly spoken manner, the following audio statement: “_____ is responsible for the content of this advertising.” (with the blank to be filled in with the name of the political committee or other person paying for the communication and the name of any connected organization of the payor). If transmitted through television, the statement shall be conveyed by an unobscured, full-screen view of a representative of the political committee or other person making the statement, or by a representative of such political committee or other person in voice-over, and shall also appear in a clearly readable manner with a reasonable degree of color contrast between the background and the printed statement, for a period of at least 4 seconds.
+
+## Source Credit
+
+*([Pub. L. 92–225, title III, § 318](https://www.govinfo.gov/link/plaw/92/public/225), formerly § 323, as added [Pub. L. 94–283, title I, § 112(2)](https://www.govinfo.gov/link/plaw/94/public/283), May 11, 1976, [90 Stat. 493](https://www.govinfo.gov/link/statute/90/493); renumbered § 318 and amended [Pub. L. 96–187, title I](https://www.govinfo.gov/link/plaw/96/public/187), §§ 105(5), 111, Jan. 8, 1980, [93 Stat. 1354](https://www.govinfo.gov/link/statute/93/1354), 1365; [Pub. L. 107–155, title III, § 311](https://www.govinfo.gov/link/plaw/107/public/155), Mar. 27, 2002, [116 Stat. 105](https://www.govinfo.gov/link/statute/116/105).)*

@@ -3,9 +3,10 @@ title: "Section 3713 - Authority for urgent threat reduction activities under De
 usc_title: 50
 usc_section: "3713"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3713"
-generated_at: "2026-03-30T02:56:26.258Z"
+generated_at: "2026-11-23T20:27:31.035Z"
+status: "active"
 ---
 
 # § 3713. Authority for urgent threat reduction activities under Department of Defense Cooperative Threat Reduction Program
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:26.258Z"
     - **(C)** the expected time frame for such activities; and
     - **(D)** the expected cost of such activities.
 - **(d)** In this section, the term “covered activity” means an activity under the Program to address a threat arising from the proliferation of chemical, nuclear, or biological weapons or weapons-related materials, technologies, or expertise.
+
+## Source Credit
+
+*([Pub. L. 113–291, div. A, title XIII, § 1323](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3598](https://www.govinfo.gov/link/statute/128/3598); [Pub. L. 114–328, div. A, title XIII, § 1302(b)(3)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2566](https://www.govinfo.gov/link/statute/130/2566).)*

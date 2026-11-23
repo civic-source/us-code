@@ -3,9 +3,10 @@ title: "Section 6601 - Findings and purposes"
 usc_title: 15
 usc_section: "6601"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 6601"
-generated_at: "2026-03-30T02:54:08.211Z"
+generated_at: "2026-11-23T20:26:04.399Z"
+status: "active"
 ---
 
 # § 6601. Findings and purposes
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:08.211Z"
   - **(2)** to encourage continued remediation and testing efforts to solve such problems by providers, suppliers, customers, and other contracting partners;
   - **(3)** to encourage private and public parties alike to resolve disputes relating to year 2000 computer date-change problems by alternative dispute mechanisms in order to avoid costly and time-consuming litigation, to initiate those mechanisms as early as possible, and to encourage the prompt identification and correction of such problems; and
   - **(4)** to lessen the burdens on interstate commerce by discouraging insubstantial lawsuits while preserving the ability of individuals and businesses that have suffered real injury to obtain complete relief.
+
+## Source Credit
+
+*([Pub. L. 106–37, § 2](https://www.govinfo.gov/link/plaw/106/public/37), July 20, 1999, [113 Stat. 185](https://www.govinfo.gov/link/statute/113/185).)*

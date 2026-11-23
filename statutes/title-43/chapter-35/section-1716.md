@@ -3,9 +3,10 @@ title: "Section 1716 - Exchanges of public lands or interests therein within the
 usc_title: 43
 usc_section: "1716"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1716"
-generated_at: "2026-03-30T02:55:57.487Z"
+generated_at: "2026-11-23T20:27:06.356Z"
+status: "active"
 ---
 
 # § 1716. Exchanges of public lands or interests therein within the National Forest System
@@ -37,3 +38,11 @@ generated_at: "2026-03-30T02:55:57.487Z"
 - **(i)**
   - **(1)** Upon receipt of an offer to exchange lands or interests in lands pursuant to this Act or other applicable laws, at the request of the head of the department or agency having jurisdiction over the lands involved, the Secretary of the Interior may temporarily segregate the Federal lands under consideration for exchange from appropriation under the mining laws. Such temporary segregation may only be made for a period of not to exceed five years. Upon a decision not to proceed with the exchange or upon deletion of any particular parcel from the exchange offer, the Federal lands involved or deleted shall be promptly restored to their former status under the mining laws. Any segregation pursuant to this paragraph shall be subject to valid existing rights as of the date of such segregation.
   - **(2)** All non-Federal lands which are acquired by the United States through exchange pursuant to this Act or pursuant to other law applicable to lands managed by the Secretary of Agriculture shall be automatically segregated from appropriation under the public land law, including the mining laws, for ninety days after acceptance of title by the United States. Such segregation shall be subject to valid existing rights as of the date of such acceptance of title. At the end of such ninety day period, such segregation shall end and such lands shall be open to operation of the public land laws and to entry, location, and patent under the mining laws except to the extent otherwise provided by this Act or other applicable law, or appropriate actions pursuant thereto.
+
+Findings
+
+Purposes
+
+## Source Credit
+
+*([Pub. L. 94–579, title II, § 206](https://www.govinfo.gov/link/plaw/94/public/579), Oct. 21, 1976, [90 Stat. 2756](https://www.govinfo.gov/link/statute/90/2756); [Pub. L. 100–409](https://www.govinfo.gov/link/plaw/100/public/409), §§ 3, 9, Aug. 20, 1988, [102 Stat. 1087](https://www.govinfo.gov/link/statute/102/1087), 1092.)*

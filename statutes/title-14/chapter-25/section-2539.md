@@ -3,9 +3,10 @@ title: "Section 2539 - Covered misconduct defined"
 usc_title: 14
 usc_section: "2539"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 2539"
-generated_at: "2026-03-30T02:53:51.501Z"
+generated_at: "2026-11-23T20:25:54.617Z"
+status: "active"
 ---
 
 # § 2539. Covered misconduct defined
@@ -19,3 +20,7 @@ In this title, the term “covered misconduct” means—
   - **(5)** the child pornography offenses as described in section 934 of title 10 (article 134 of the Uniform Code of Military Justice);
   - **(6)** rape and sexual assault of a child, other sexual misconduct, and stalking, as described in sections 920b, 920c(a), and 930 of title 10 (articles 120b, 120c, and 130 of the Uniform Code of Military Justice); and
   - **(7)** domestic violence, as described in section 928b of title 10 (article 128b of the Uniform Code of Military Justice).
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. G, title LXXV, § 7511(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1806](https://www.govinfo.gov/link/statute/139/1806).)*

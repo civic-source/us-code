@@ -3,9 +3,10 @@ title: "Section 441 - Period for computation of taxable income"
 usc_title: 26
 usc_section: "441"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 441"
-generated_at: "2026-03-30T02:55:27.700Z"
+generated_at: "2026-11-23T20:26:45.729Z"
+status: "active"
 ---
 
 # § 441. Period for computation of taxable income
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:55:27.700Z"
   - **(2)** For purposes of this subsection, the term “personal service corporation” has the meaning given such term by section 269A(b)(1), except that section 269A(b)(2) shall be applied—
     - **(A)** by substituting “any” for “more than 10 percent”, and
     - **(B)** by substituting “any” for “50 percent or more in value” in section 318(a)(2)(C).
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 148; [Pub. L. 88–272, title II, § 235(c)(3)](https://www.govinfo.gov/link/plaw/88/public/272), Feb. 26, 1964, [78 Stat. 127](https://www.govinfo.gov/link/statute/78/127); [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 95–30, title I, § 102(b)(5)](https://www.govinfo.gov/link/plaw/95/public/30), May 23, 1977, [91 Stat. 137](https://www.govinfo.gov/link/statute/91/137); [Pub. L. 98–369, div. A, title IV, § 474(b)(2)](https://www.govinfo.gov/link/plaw/98/public/369), title VIII, § 803, July 18, 1984, [98 Stat. 830](https://www.govinfo.gov/link/statute/98/830), 1000; [Pub. L. 99–514, title I, § 104(b)(6)](https://www.govinfo.gov/link/plaw/99/public/514), title VIII, § 806(c)(1), (d), Oct. 22, 1986, [100 Stat. 2105](https://www.govinfo.gov/link/statute/100/2105), 2364; [Pub. L. 100–647, title I, § 1008(e)(4)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3440](https://www.govinfo.gov/link/statute/102/3440); [Pub. L. 110–172, § 11(g)(7)](https://www.govinfo.gov/link/plaw/110/public/172), Dec. 29, 2007, [121 Stat. 2490](https://www.govinfo.gov/link/statute/121/2490).)*

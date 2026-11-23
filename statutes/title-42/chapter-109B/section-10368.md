@@ -3,9 +3,10 @@ title: "Section 10368 - National water availability and use assessment program"
 usc_title: 42
 usc_section: "10368"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10368"
-generated_at: "2026-03-30T02:56:11.387Z"
+generated_at: "2026-11-23T20:27:23.242Z"
+status: "active"
 ---
 
 # § 10368. National water availability and use assessment program
@@ -67,3 +68,7 @@ generated_at: "2026-03-30T02:56:11.387Z"
 - **(e)**
   - **(1)** There is authorized to be appropriated to carry out subsections (a), (b), and (d) $20,000,000 for each of fiscal years 2009 through 2023, to remain available until expended.
   - **(2)** There is authorized to be appropriated to carry out subsection (c) $12,500,000 for the period of fiscal years 2009 through 2013, to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 111–11, title IX, § 9508](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1343](https://www.govinfo.gov/link/statute/123/1343).)*

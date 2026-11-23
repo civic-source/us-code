@@ -3,9 +3,10 @@ title: "Section 7304 - Briefings, hearings, witnesses, and subpoenas"
 usc_title: 15
 usc_section: "7304"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 7304"
-generated_at: "2026-03-30T02:54:08.221Z"
+generated_at: "2026-11-23T20:26:04.448Z"
+status: "active"
 ---
 
 # § 7304. Briefings, hearings, witnesses, and subpoenas
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:08.221Z"
 - **(d)** A witness or evidence in an investigation under this chapter may be summoned or required to be produced from any place in the United States. A witness summoned under this subsection is entitled to the same fee and mileage the witness would have been paid in a court of the United States.
 - **(e)** A subpoena shall be issued only under the signature of the Director but may be served by any person designated by the Director.
 - **(f)** If a person disobeys a subpoena issued by the Director under this chapter, the Attorney General, acting on behalf of the Director, may bring a civil action in a district court of the United States to enforce the subpoena. An action under this subsection may be brought in the judicial district in which the person against whom the action is brought resides, is found, or does business. The court may punish a failure to obey an order of the court to comply with the subpoena as a contempt of court.
+
+## Source Credit
+
+*([Pub. L. 107–231, § 5](https://www.govinfo.gov/link/plaw/107/public/231), Oct. 1, 2002, [116 Stat. 1474](https://www.govinfo.gov/link/statute/116/1474).)*

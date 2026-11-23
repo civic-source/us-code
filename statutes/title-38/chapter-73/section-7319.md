@@ -3,9 +3,10 @@ title: "Section 7319 - Mammography quality standards"
 usc_title: 38
 usc_section: "7319"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7319"
-generated_at: "2026-03-30T02:55:53.528Z"
+generated_at: "2026-11-23T20:27:01.998Z"
+status: "active"
 ---
 
 # § 7319. Mammography quality standards
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:53.528Z"
   - **(2)** The Secretary may not provide for an inspection under paragraph (1) to be performed by a State agency.
 - **(d)** The Secretary shall ensure that mammograms performed for the Department under contract with any non-Department facility or provider conform to the quality standards prescribed by the Secretary of Health and Human Services under section 354 of the Public Health Service Act.
 - **(e)** For the purposes of this section, the term “mammogram” has the meaning given such term in paragraph (5) of section 354(a) of the Public Health Service Act.
+
+## Source Credit
+
+*(Added [Pub. L. 104–262, title III, § 321(a)(1)](https://www.govinfo.gov/link/plaw/104/public/262), Oct. 9, 1996, [110 Stat. 3195](https://www.govinfo.gov/link/statute/110/3195).)*

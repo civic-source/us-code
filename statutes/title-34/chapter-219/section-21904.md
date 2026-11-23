@@ -3,9 +3,10 @@ title: "Section 21904 - Minimum standards for issuance and dissemination of aler
 usc_title: 34
 usc_section: "21904"
 chapter: 219
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 21904"
-generated_at: "2026-03-30T02:55:33.305Z"
+generated_at: "2026-11-23T20:26:50.624Z"
+status: "active"
 ---
 
 # § 21904. Minimum standards for issuance and dissemination of alerts through Ashanti Alert communications network
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:33.305Z"
     - **(B)** include standards that specifically provide for the protection of the civil liberties and sensitive medical information of missing adults; and
     - **(C)** include standards requiring, as appropriate, a review of relevant court records, prior contacts with law enforcement, and other information relevant to the missing adult or the individual reporting, in order to provide protections against domestic violence.
   - **(5)** In establishing minimum standards under subsection (a), the Coordinator may not interfere with the system of voluntary coordination between local broadcasters and State, Tribal, and local law enforcement agencies for purposes of regional and local search efforts for missing adults that was in effect on the day before December 31, 2018 .
+
+## Source Credit
+
+*([Pub. L. 106–468, title II, § 204](https://www.govinfo.gov/link/plaw/106/public/468), as added [Pub. L. 115–401, § 2(5)](https://www.govinfo.gov/link/plaw/115/public/401), Dec. 31, 2018, [132 Stat. 5340](https://www.govinfo.gov/link/statute/132/5340).)*

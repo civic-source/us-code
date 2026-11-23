@@ -3,9 +3,10 @@ title: "Section 1295 - Jurisdiction of the United States Court of Appeals for th
 usc_title: 28
 usc_section: "1295"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 1295"
-generated_at: "2026-03-30T02:55:30.138Z"
+generated_at: "2026-11-23T20:26:36.430Z"
+status: "active"
 ---
 
 # § 1295. Jurisdiction of the United States Court of Appeals for the Federal Circuit
@@ -30,3 +31,11 @@ generated_at: "2026-03-30T02:55:30.138Z"
   - **(14)** of an appeal under section 523 of the Energy Policy and Conservation Act.
 - **(b)** The head of any executive department or agency may, with the approval of the Attorney General, refer to the Court of Appeals for the Federal Circuit for judicial review any final decision rendered by a board of contract appeals pursuant to the terms of any contract with the United States awarded by that department or agency which the head of such department or agency has concluded is not entitled to finality pursuant to the review standards specified in section 7107(b) of title 41 . The head of each executive department or agency shall make any referral under this section within one hundred and twenty days after the receipt of a copy of the final appeal decision.
 - **(c)** The Court of Appeals for the Federal Circuit shall review the matter referred in accordance with the standards specified in section 7107(b) of title 41 . The court shall proceed with judicial review on the administrative record made before the board of contract appeals on matters so referred as in other cases pending in such court, shall determine the issue of finality of the appeal decision, and shall, if appropriate, render judgment thereon, or remand the matter to any administrative or executive body or official with such direction as it may deem proper and just.
+
+Abolition of Court
+
+Pending Cases
+
+## Source Credit
+
+*(Added [Pub. L. 97–164, title I, § 127(a)](https://www.govinfo.gov/link/plaw/97/public/164), Apr. 2, 1982, [96 Stat. 37](https://www.govinfo.gov/link/statute/96/37); amended [Pub. L. 98–622, title II, § 205(a)](https://www.govinfo.gov/link/plaw/98/public/622), Nov. 8, 1984, [98 Stat. 3388](https://www.govinfo.gov/link/statute/98/3388); [Pub. L. 100–418, title I, § 1214(a)(3)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1156](https://www.govinfo.gov/link/statute/102/1156); [Pub. L. 100–702, title X, § 1020(a)(3)](https://www.govinfo.gov/link/plaw/100/public/702), Nov. 19, 1988, [102 Stat. 4671](https://www.govinfo.gov/link/statute/102/4671); [Pub. L. 102–572, title I, § 102(c)](https://www.govinfo.gov/link/plaw/102/public/572), title IX, § 902(b)(1), Oct. 29, 1992, [106 Stat. 4507](https://www.govinfo.gov/link/statute/106/4507), 4516; [Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4402(b)(2), 4732(b)(14)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–560, 1501A–584; [Pub. L. 111–350, § 5(g)(5)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3848](https://www.govinfo.gov/link/statute/124/3848); [Pub. L. 112–29](https://www.govinfo.gov/link/plaw/112/public/29), §§ 7(c)(2), 19(b), Sept. 16, 2011, [125 Stat. 314](https://www.govinfo.gov/link/statute/125/314), 331.)*

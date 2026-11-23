@@ -3,9 +3,10 @@ title: "Section 2102 - Prohibitions on disclosing and obtaining procurement info
 usc_title: 41
 usc_section: "2102"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 2102"
-generated_at: "2026-03-30T02:55:55.804Z"
+generated_at: "2026-11-23T20:27:04.408Z"
+status: "active"
 ---
 
 # § 2102. Prohibitions on disclosing and obtaining procurement information
@@ -19,3 +20,73 @@ generated_at: "2026-03-30T02:55:55.804Z"
       - **(ii)** is acting or has acted for or on behalf of, or who is advising or has advised the Federal Government with respect to, a Federal agency procurement; and
     - **(B)** by virtue of that office, employment, or relationship has or had access to contractor bid or proposal information or source selection information.
 - **(b)** Except as provided by law, a person shall not knowingly obtain contractor bid or proposal information or source selection information before the award of a Federal agency procurement contract to which the information relates.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 2102(a) | 41:423(a). | Pub. L. 93–400, § 27(a) , (b), as added Pub. L. 100–679, § 6(a) , Nov. 17, 1988 , 102 Stat. 4063 ; Pub. L. 101–189, title VIII, § 814(a) –(d)(1), Nov. 29, 1989 , 103 Stat. 1495 ; Pub. L. 101–510, title XIV, § 1484 ( l )(6), Nov. 5, 1990 , 104 Stat. 1720 ; Pub. L. 102–25, title VII, § 705(i) , Apr. 6, 1991 , 105 Stat. 121 ; Pub. L. 103–355, title VIII, § 8301(e) , Oct. 13, 1994 , 108 Stat. 3397 ; Pub. L. 104–106, title XLIII, § 4304(a) , Feb. 10, 1996 , 110 Stat. 659 ; Pub. L. 107–347, title II, § 209(d)(4) , Dec. 17, 2002 , 116 Stat. 2930 . |
+| 2102(b) | 41:423(b). |  |
+
+
+Prohibition on Disclosing Procurement Information.—
+
+In general
+
+Employee of private sector organization
+
+Application
+
+Prohibition on Obtaining Procurement Information
+
+Historical and Revision Notes
+
+2102(a)
+
+Pub. L. 93–400, § 27(a)
+
+Pub. L. 100–679, § 6(a)
+
+Nov. 17, 1988
+
+102 Stat. 4063
+
+Pub. L. 101–189, title VIII, § 814(a)
+
+Nov. 29, 1989
+
+103 Stat. 1495
+
+Pub. L. 101–510, title XIV, § 1484
+
+Nov. 5, 1990
+
+104 Stat. 1720
+
+Pub. L. 102–25, title VII, § 705(i)
+
+Apr. 6, 1991
+
+105 Stat. 121
+
+Pub. L. 103–355, title VIII, § 8301(e)
+
+Oct. 13, 1994
+
+108 Stat. 3397
+
+Pub. L. 104–106, title XLIII, § 4304(a)
+
+Feb. 10, 1996
+
+110 Stat. 659
+
+Pub. L. 107–347, title II, § 209(d)(4)
+
+Dec. 17, 2002
+
+116 Stat. 2930
+
+2102(b)
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3728](https://www.govinfo.gov/link/statute/124/3728).)*

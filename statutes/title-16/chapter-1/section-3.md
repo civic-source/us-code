@@ -3,9 +3,10 @@ title: "Section 3 - Land taken into trust for Lone Pine Paiute-Shoshone Reservat
 usc_title: 16
 usc_section: "3"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-30T02:54:22.852Z"
+generated_at: "2026-11-23T20:26:20.054Z"
+status: "active"
 ---
 
 # § 460ffff–3. Land taken into trust for Lone Pine Paiute-Shoshone Reservation
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:22.852Z"
 - **(b)** Not later than 180 days after March 12, 2019 , the Secretary shall complete a survey of the boundary lines to establish the boundaries of the land to be held in trust under subsection (a)(1).
 - **(c)** The land held in trust pursuant to subsection (a)(1) shall be considered to be a part of the reservation of the Tribe.
 - **(d)** Land held in trust under subsection (a)(1) shall not be eligible, or considered to have been taken into trust, for gaming (within the meaning of the Indian Gaming Regulatory Act ( 25 U.S.C. 2701 et seq.)).
+
+## Source Credit
+
+*([Pub. L. 103–433, title XIV, § 1404](https://www.govinfo.gov/link/plaw/103/public/433), as added [Pub. L. 116–9, title I, § 1441](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 709](https://www.govinfo.gov/link/statute/133/709).)*

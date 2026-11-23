@@ -3,9 +3,10 @@ title: "Section 507 - Priorities"
 usc_title: 11
 usc_section: "507"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 507"
-generated_at: "2026-03-30T02:53:53.876Z"
+generated_at: "2026-11-23T20:25:55.354Z"
+status: "active"
 ---
 
 # § 507. Priorities
@@ -52,3 +53,15 @@ generated_at: "2026-03-30T02:53:53.876Z"
 - **(b)** If the trustee, under section 362, 363, or 364 of this title, provides adequate protection of the interest of a holder of a claim secured by a lien on property of the debtor and if, notwithstanding such protection, such creditor has a claim allowable under subsection (a)(2) of this section arising from the stay of action against such property under section 362 of this title , from the use, sale, or lease of such property under section 363 of this title , or from the granting of a lien under section 364(d) of this title , then such creditor’s claim under such subsection shall have priority over every other claim allowable under such subsection.
 - **(c)** For the purpose of subsection (a) of this section, a claim of a governmental unit arising from an erroneous refund or credit of a tax has the same priority as a claim for the tax to which such refund or credit relates.
 - **(d)** An entity that is subrogated to the rights of a holder of a claim of a kind specified in subsection (a)(1), (a)(4), (a)(5), (a)(6), (a)(7), (a)(8) excluding subparagraph (F), or (a)(9) of this section is not subrogated to the right of the holder of such claim to priority under such subsection.
+
+Effective Date
+
+Application of Amendments.—
+
+In general
+
+Avoidance period
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2583](https://www.govinfo.gov/link/statute/92/2583); [Pub. L. 98–353, title III](https://www.govinfo.gov/link/plaw/98/public/353), §§ 350, 449, July 10, 1984, [98 Stat. 358](https://www.govinfo.gov/link/statute/98/358), 374; [Pub. L. 101–647, title XXV, § 2522(d)](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4867](https://www.govinfo.gov/link/statute/104/4867); [Pub. L. 103–394, title I, § 108(c)](https://www.govinfo.gov/link/plaw/103/public/394), title II, § 207, title III, § 304(c), title V, § 501(b)(3), (d)(11), Oct. 22, 1994, [108 Stat. 4112](https://www.govinfo.gov/link/statute/108/4112), 4123, 4132, 4142, 4145; [Pub. L. 109–8, title II](https://www.govinfo.gov/link/plaw/109/public/8), §§ 212, 223, title VII, §§ 705, 706, title XIV, § 1401, title XV, § 1502(a)(1), Apr. 20, 2005, [119 Stat. 51](https://www.govinfo.gov/link/statute/119/51), 62, 126, 214, 216; [Pub. L. 111–203, title XI, § 1101(b)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2115](https://www.govinfo.gov/link/statute/124/2115); [Pub. L. 111–327, § 2(a)(15)](https://www.govinfo.gov/link/plaw/111/public/327), Dec. 22, 2010, [124 Stat. 3559](https://www.govinfo.gov/link/statute/124/3559); [Pub. L. 116–260, div. FF, title X, § 1001(i)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3221](https://www.govinfo.gov/link/statute/134/3221); [Pub. L. 118–42, div. C, title V, § 544(a)](https://www.govinfo.gov/link/plaw/118/public/42), Mar. 9, 2024, [138 Stat. 178](https://www.govinfo.gov/link/statute/138/178); [Pub. L. 119–27, § 11(d)](https://www.govinfo.gov/link/plaw/119/public/27), July 18, 2025, [139 Stat. 458](https://www.govinfo.gov/link/statute/139/458).)*

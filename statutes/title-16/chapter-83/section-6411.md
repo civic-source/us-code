@@ -3,9 +3,10 @@ title: "Section 6411 - Coral reef research"
 usc_title: 16
 usc_section: "6411"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6411"
-generated_at: "2026-03-30T02:54:23.058Z"
+generated_at: "2026-11-23T20:26:20.795Z"
+status: "active"
 ---
 
 # § 6411. Coral reef research
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:54:23.058Z"
     - **(B)** has established management-driven national or regional coral reef research or restoration programs;
     - **(C)** has demonstrated abilities to coordinate closely with appropriate Federal and State agencies, and other academic and nonprofit organizations; and
     - **(D)** maintains significant local community engagement and outreach programs related to coral reef ecosystems.
+
+## Source Credit
+
+*([Pub. L. 106–562, title II, § 212](https://www.govinfo.gov/link/plaw/106/public/562), as added [Pub. L. 117–263, div. J, title C, § 10001(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3945](https://www.govinfo.gov/link/statute/136/3945).)*

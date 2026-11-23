@@ -3,9 +3,10 @@ title: "Section 22 - Treatment of enrolled WTC responders for WTC-related health
 usc_title: 42
 usc_section: "22"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 22"
-generated_at: "2026-03-30T02:56:10.850Z"
+generated_at: "2026-11-23T20:27:20.715Z"
+status: "active"
 ---
 
 # § 300mm–22. Treatment of enrolled WTC responders for WTC-related health conditions
@@ -131,3 +132,7 @@ generated_at: "2026-03-30T02:56:10.850Z"
 - **(d)**
   - **(1)** The Data Centers shall develop medical treatment protocols for the treatment of enrolled WTC responders and certified-eligible WTC survivors for health conditions included in the applicable list of WTC-related health conditions.
   - **(2)** The medical treatment protocols developed under paragraph (1) shall be subject to approval by the WTC Program Administrator.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXXIII, § 3312, as added [Pub. L. 111–347, title I, § 101](https://www.govinfo.gov/link/plaw/111/public/347), Jan. 2, 2011, [124 Stat. 3639](https://www.govinfo.gov/link/statute/124/3639); amended [Pub. L. 114–113, div. O, title III, § 302(e)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2999](https://www.govinfo.gov/link/statute/129/2999).)*

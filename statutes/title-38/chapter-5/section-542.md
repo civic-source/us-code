@@ -3,9 +3,10 @@ title: "Section 542 - Advisory Committee on Women Veterans"
 usc_title: 38
 usc_section: "542"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 542"
-generated_at: "2026-03-30T02:55:53.473Z"
+generated_at: "2026-11-23T20:27:01.571Z"
+status: "active"
 ---
 
 # § 542. Advisory Committee on Women Veterans
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:53.473Z"
   - **(2)** The Secretary shall, within 60 days after receiving each report under paragraph (1), submit to the Congress a copy of the report, together with any comments concerning the report that the Secretary considers appropriate.
   - **(3)** The Committee may also submit to the Secretary such other reports and recommendations as the Committee considers appropriate.
   - **(4)** The Secretary shall submit with each annual report submitted to the Congress pursuant to section 529 of this title a summary of all reports and recommendations of the Committee submitted to the Secretary since the previous annual report of the Secretary submitted pursuant to such section.
+
+## Source Credit
+
+*(Added [Pub. L. 102–83, § 2(a)](https://www.govinfo.gov/link/plaw/102/public/83), Aug. 6, 1991, [105 Stat. 393](https://www.govinfo.gov/link/statute/105/393); amended [Pub. L. 102–405, title III, § 302(c)(1)](https://www.govinfo.gov/link/plaw/102/public/405), Oct. 9, 1992, [106 Stat. 1984](https://www.govinfo.gov/link/statute/106/1984); [Pub. L. 104–275, title V, § 501(e)(1)](https://www.govinfo.gov/link/plaw/104/public/275), Oct. 9, 1996, [110 Stat. 3341](https://www.govinfo.gov/link/statute/110/3341); [Pub. L. 106–419, title IV, § 403(c)(3)](https://www.govinfo.gov/link/plaw/106/public/419), Nov. 1, 2000, [114 Stat. 1864](https://www.govinfo.gov/link/statute/114/1864); [Pub. L. 109–444, § 5](https://www.govinfo.gov/link/plaw/109/public/444), Dec. 21, 2006, [120 Stat. 3308](https://www.govinfo.gov/link/statute/120/3308); [Pub. L. 109–461, title II, § 208(b)](https://www.govinfo.gov/link/plaw/109/public/461), title X, § 1006(b), Dec. 22, 2006, [120 Stat. 3413](https://www.govinfo.gov/link/statute/120/3413), 3468; [Pub. L. 110–387, title VIII, § 808](https://www.govinfo.gov/link/plaw/110/public/387), Oct. 10, 2008, [122 Stat. 4141](https://www.govinfo.gov/link/statute/122/4141); [Pub. L. 111–163, title II, § 204(a)](https://www.govinfo.gov/link/plaw/111/public/163), May 5, 2010, [124 Stat. 1144](https://www.govinfo.gov/link/statute/124/1144); [Pub. L. 116–315, title V, § 5302](https://www.govinfo.gov/link/plaw/116/public/315), Jan. 5, 2021, [134 Stat. 5038](https://www.govinfo.gov/link/statute/134/5038); [Pub. L. 117–263, div. E, title LI, § 5101](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3205](https://www.govinfo.gov/link/statute/136/3205).)*

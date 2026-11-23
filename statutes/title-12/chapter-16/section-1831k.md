@@ -3,9 +3,10 @@ title: "Section 1831k - Reward for information leading to recoveries or civil pe
 usc_title: 12
 usc_section: "1831k"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1831k"
-generated_at: "2026-03-30T02:53:53.458Z"
+generated_at: "2026-11-23T20:25:59.166Z"
+status: "active"
 ---
 
 # § 1831k. Reward for information leading to recoveries or civil penalties
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:53:53.458Z"
     - **(A)** deliberately causes or participates in the alleged violation of law or regulation, or
     - **(B)** knowingly or recklessly provides substantially false information to such an agency or the Attorney General.
 - **(d)** Any agency decision under this section is final and not reviewable by any court.
+
+## Source Credit
+
+*(Sept. 21, 1950, ch. 967, § 2 [34], as added [Pub. L. 101–73, title IX, § 933(a)](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 495](https://www.govinfo.gov/link/statute/103/495); amended [Pub. L. 101–647, title XXV, § 2586](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4903](https://www.govinfo.gov/link/statute/104/4903); [Pub. L. 103–325, title VI, § 602(a)(62)](https://www.govinfo.gov/link/plaw/103/public/325), (63), Sept. 23, 1994, [108 Stat. 2291](https://www.govinfo.gov/link/statute/108/2291).)*

@@ -3,9 +3,10 @@ title: "Section 4265a - Advisory group"
 usc_title: 16
 usc_section: "4265a"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 4265a"
-generated_at: "2026-03-30T02:54:23.042Z"
+generated_at: "2026-11-23T20:26:20.738Z"
+status: "active"
 ---
 
 # § 4265a. Advisory group
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:23.042Z"
   - **(2)** The Secretary shall provide to the public timely notice of each meeting of the advisory group.
   - **(3)** Minutes of each meeting of the advisory group shall be kept by the Secretary and shall be made available to the public.
 - **(c)** Chapter 10 of title 5 shall not apply to the advisory group.
+
+## Source Credit
+
+*([Pub. L. 105–96, § 7](https://www.govinfo.gov/link/plaw/105/public/96), as added [Pub. L. 107–141, § 4](https://www.govinfo.gov/link/plaw/107/public/141), Feb. 12, 2002, [116 Stat. 13](https://www.govinfo.gov/link/statute/116/13); amended [Pub. L. 117–286, § 4(a)(121)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4319](https://www.govinfo.gov/link/statute/136/4319).)*

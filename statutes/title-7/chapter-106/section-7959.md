@@ -3,9 +3,10 @@ title: "Section 7959 - Termination of marketing quota programs for peanuts and c
 usc_title: 7
 usc_section: "7959"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7959"
-generated_at: "2026-03-30T02:53:42.468Z"
+generated_at: "2026-11-23T20:25:41.859Z"
+status: "active"
 ---
 
 # § 7959. Termination of marketing quota programs for peanuts and compensation to peanut quota holders for loss of quota asset value
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:53:42.468Z"
 - **(g)**
   - **(1)** Once a person is eligible for payments under this section, as determined under subsection (f), the continued eligibility of the person for the payments does not run with a farm, but shall remain with the person for the term of this section irrespective of whether the person sells, or continues to have an interest in, the farm that had the quota that qualified the person as an eligible peanut quota holder under subsection (f) and irrespective of whether the person has a continuing interest in the production of peanuts.
   - **(2)** If a person eligible for payments under this section dies, in the case of an individual, or ceases to exist, in the case of other persons, the payment eligibility of the person shall pass to the person’s personal or organizational successor, as determined by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 107–171, title I, § 1309](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 179](https://www.govinfo.gov/link/statute/116/179).)*

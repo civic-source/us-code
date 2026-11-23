@@ -3,9 +3,10 @@ title: "Section 9096 - Limitation on certain employee compensation"
 usc_title: 15
 usc_section: "9096"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 9096"
-generated_at: "2026-03-30T02:54:08.244Z"
+generated_at: "2026-11-23T20:26:04.557Z"
+status: "active"
 ---
 
 # § 9096. Limitation on certain employee compensation
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:08.244Z"
     - **(A)** $3,000,000; and
     - **(B)** 50 percent of the excess over $3,000,000 of the total compensation received by the officer or employee from the passenger air carrier or contractor in calendar year 2019.
 - **(b)** In this section, the term “total compensation” includes salary, bonuses, awards of stock, and other financial benefits provided by a passenger air carrier or contractor to an officer or employee of the passenger air carrier or contractor.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. N, title IV, § 406](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2057](https://www.govinfo.gov/link/statute/134/2057).)*

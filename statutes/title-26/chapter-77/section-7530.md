@@ -3,9 +3,10 @@ title: "Section 7530 - Application of earned income tax credit to possessions of
 usc_title: 26
 usc_section: "7530"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 7530"
-generated_at: "2026-03-30T02:55:27.879Z"
+generated_at: "2026-11-23T20:26:46.804Z"
+status: "active"
 ---
 
 # § 7530. Application of earned income tax credit to possessions of the United States
@@ -57,3 +58,7 @@ generated_at: "2026-03-30T02:55:27.879Z"
     - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, determined by substituting “calendar year 2020” for “calendar year 2016” in subparagraph (A)(ii) thereof.
   - **(4)** Rules similar to the rules of subparagraphs (A), (B), and (C) of subsection (a)(4) shall apply for purposes of this subsection.
 - **(d)** For purposes of section 1324 of title 31 , United States Code, the payments under this section shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section.
+
+## Source Credit
+
+*(Added [Pub. L. 117–2, title IX, § 9625(a)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 155](https://www.govinfo.gov/link/statute/135/155).)*

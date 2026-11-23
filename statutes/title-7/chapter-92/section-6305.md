@@ -3,9 +3,10 @@ title: "Section 6305 - Referenda"
 usc_title: 7
 usc_section: "6305"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6305"
-generated_at: "2026-03-30T02:53:42.429Z"
+generated_at: "2026-11-23T20:25:41.693Z"
+status: "active"
 ---
 
 # § 6305. Referenda
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:53:42.429Z"
   - **(1)** The Secretary shall be reimbursed from assessments collected by the Board for any expenses incurred by the Secretary in connection with the conduct of any activity required under this section, except for the salaries of Government employees associated with the conduct of a referendum under subsections (a) and (b).
   - **(2)** Each referendum shall be conducted for a reasonable period of time not to exceed 3 days, established by the Secretary, under a procedure whereby producers intending to vote in the referendum shall certify that they were engaged in the production of soybeans during the representative period and, at the same time, shall be provided an opportunity to vote in the referendum.
   - **(3)** Referenda shall be conducted at county extension offices and provision shall be made for absentee mail ballots to be provided on request. Absentee mail ballots shall be furnished by the Secretary on request made in person, by mail, or by telephone.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XIX, § 1970](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3898](https://www.govinfo.gov/link/statute/104/3898); [Pub. L. 102–237, title VIII, § 806(2)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1883](https://www.govinfo.gov/link/statute/105/1883).)*

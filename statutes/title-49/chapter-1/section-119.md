@@ -3,9 +3,10 @@ title: "Section 119 - Advanced Research Projects Agency–Infrastructure"
 usc_title: 49
 usc_section: "119"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 119"
-generated_at: "2026-03-30T02:56:19.297Z"
+generated_at: "2026-11-23T20:27:34.512Z"
+status: "active"
 ---
 
 # § 119. Advanced Research Projects Agency–Infrastructure
@@ -194,3 +195,121 @@ generated_at: "2026-03-30T02:56:19.297Z"
       - **(i)** in accordance with the goal described in subsection (c)(2)(D); and
       - **(ii)** within the responsibilities of the program directors described in subsection (e)(2)(B)(viii); and
     - **(B)** none may be used for the construction of any new building or facility during the 5-year period beginning on the date of enactment of the Surface Transportation Investment Act of 2021.
+
+Definitions
+
+ARPA–I
+
+Department
+
+Director
+
+Eligible entity
+
+Infrastructure.—
+
+In general
+
+Inclusions
+
+Secretary
+
+Establishment
+
+Goals.—
+
+In general
+
+Research projects
+
+Director.—
+
+Appointment
+
+Qualifications
+
+Relationship to secretary
+
+Relationship to other programs
+
+Responsibilities
+
+Personnel.—
+
+In general
+
+Program directors.—
+
+In general
+
+Responsibilities
+
+Term of service
+
+Hiring and management.—
+
+In general
+
+Private recruiting firms
+
+Additional staff
+
+Research Proposals.—
+
+In general
+
+Review
+
+Forms of Assistance
+
+Reports and Roadmaps.—
+
+Annual reports
+
+Strategic vision roadmap
+
+Coordination and Nonduplication
+
+Federal Demonstration of Technologies
+
+Partnerships
+
+University Transportation Centers
+
+Advice.—
+
+Advisory committees
+
+Additional sources
+
+Evaluation.—
+
+In general
+
+Inclusions
+
+Availability
+
+Protection of Information.—
+
+In general
+
+Description of types of information
+
+Effect on Existing Authorities
+
+Funding.—
+
+Authorization of appropriations
+
+Separate budget and appropriation.—
+
+Budget request
+
+Appropriations
+
+Allocation
+
+## Source Credit
+
+*([Pub. L. 117–58, div. B, title V, § 25012(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 859](https://www.govinfo.gov/link/statute/135/859).)*

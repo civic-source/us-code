@@ -3,9 +3,10 @@ title: "Section 9524 - Imposition of sanctions with respect to activities of the
 usc_title: 22
 usc_section: "9524"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9524"
-generated_at: "2026-03-30T02:55:05.467Z"
+generated_at: "2026-11-23T20:26:32.777Z"
+status: "active"
 ---
 
 # § 9524. Imposition of sanctions with respect to activities of the Russian Federation undermining cybersecurity
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:05.467Z"
       - **(ii)** causing a significant misappropriation of funds, economic resources, trade secrets, personal identifications, or financial information for commercial or competitive advantage or private financial gain;
   - **(2)** significant destructive malware attacks; and
   - **(3)** significant denial of service activities.
+
+## Source Credit
+
+*([Pub. L. 115–44, title II, § 224](https://www.govinfo.gov/link/plaw/115/public/44), Aug. 2, 2017, [131 Stat. 908](https://www.govinfo.gov/link/statute/131/908).)*

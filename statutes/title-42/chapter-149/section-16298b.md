@@ -3,9 +3,10 @@ title: "Section 16298b - High efficiency turbines"
 usc_title: 42
 usc_section: "16298b"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16298b"
-generated_at: "2026-03-30T02:56:11.480Z"
+generated_at: "2026-11-23T20:27:23.661Z"
+status: "active"
 ---
 
 # § 16298b. High efficiency turbines
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:56:11.480Z"
   - **(4)** The Secretary shall provide financial assistance under this subsection on a competitive basis, with an emphasis on technical merit.
   - **(5)** Financial assistance provided under this subsection shall be subject to the cost sharing requirements of section 16352 of this title .
 - **(e)** There is authorized to be appropriated to carry out this section $50,000,000 for each of fiscal years 2021 through 2025.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 969B](https://www.govinfo.gov/link/plaw/109/public/58), as added [Pub. L. 116–260, div. Z, title IV, § 4005(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2542](https://www.govinfo.gov/link/statute/134/2542).)*

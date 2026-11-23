@@ -3,9 +3,10 @@ title: "Section 41714 - Availability of slots"
 usc_title: 49
 usc_section: "41714"
 chapter: 417
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 41714"
-generated_at: "2026-03-30T02:56:19.376Z"
+generated_at: "2026-11-23T20:27:35.102Z"
+status: "active"
 ---
 
 # § 41714. Availability of slots
@@ -77,3 +78,81 @@ generated_at: "2026-03-30T02:56:19.376Z"
   - **(4)** If the Secretary neither approves the request under paragraph (2)(A) nor denies the request under paragraph (2)(C) within the 60-day period beginning on the date the request is received, excepting any days during which the 60-day period is tolled under paragraph (3), then the request is deemed to have been approved on the 61st day, after the request was filed with the Secretary.
 - **(j)** No exemption from the requirements of subparts K and S of part 93 of title 14, Code of Federal Regulations, granted under this section or section 41716, 41717, or 41718 may be bought, sold, leased, or otherwise transferred by the carrier to which it is granted, except through an air carrier merger or acquisition.
 - **(k)** For purposes of this section and sections 41716, 41717, and 41718, an air carrier that operates under the same designator code, or has or enters into a code-share agreement, with any other air carrier shall not qualify for a new slot or slot exemption as a new entrant or limited incumbent air carrier at an airport if the total number of slots and slot exemptions held by the two carriers at the airport exceed 20 slots and slot exemptions.
+
+Making Slots Available for Essential Air Service.—
+
+Operational authority
+
+Exemptions
+
+Assurance of access
+
+Action by the secretary
+
+Slots for Foreign Air Transportation.—
+
+Exemptions
+
+Slot withdrawals
+
+Equivalent rights of access
+
+Conversions of slots
+
+Slots for New Entrants
+
+Special Rules for Ronald Reagan Washington National Airport.—
+
+In general
+
+Limitation on applicability
+
+Study.—
+
+Matters to be considered
+
+Report
+
+Rulemaking
+
+Weekend Operations
+
+Definitions
+
+Commuter air carrier
+
+High density airport
+
+New entrant air carrier
+
+Slot
+
+Limited incumbent air carrier
+
+Regional jet
+
+Nonhub airport
+
+Small hub airport
+
+Medium hub airport
+
+Day Application Process.—
+
+Request for slot exemptions
+
+Action on request; failure to act
+
+day period tolled for timely request for more information
+
+Failure to determine deemed approval
+
+Exemptions May Not Be Transferred
+
+Affiliated Carriers
+
+In general
+
+## Source Credit
+
+*(Added [Pub. L. 103–305, title II, § 206(a)(1)](https://www.govinfo.gov/link/plaw/103/public/305), Aug. 23, 1994, [108 Stat. 1584](https://www.govinfo.gov/link/statute/108/1584); amended [Pub. L. 104–287, § 5(9)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3389](https://www.govinfo.gov/link/statute/110/3389); [Pub. L. 105–66, title III, § 345](https://www.govinfo.gov/link/plaw/105/public/66), Oct. 27, 1997, [111 Stat. 1449](https://www.govinfo.gov/link/statute/111/1449); [Pub. L. 105–102, § 2(24)](https://www.govinfo.gov/link/plaw/105/public/102), Nov. 20, 1997, [111 Stat. 2205](https://www.govinfo.gov/link/statute/111/2205); [Pub. L. 105–154, § 2(a)(1)(C)](https://www.govinfo.gov/link/plaw/105/public/154), (2), Feb. 6, 1998, [112 Stat. 3](https://www.govinfo.gov/link/statute/112/3); [Pub. L. 106–181, title II, § 231(a)](https://www.govinfo.gov/link/plaw/106/public/181), (d)(2)–(4), Apr. 5, 2000, [114 Stat. 106](https://www.govinfo.gov/link/statute/114/106), 112; [Pub. L. 112–95, title IV, § 414(c)](https://www.govinfo.gov/link/plaw/112/public/95), (d), Feb. 14, 2012, [126 Stat. 92](https://www.govinfo.gov/link/statute/126/92).)*

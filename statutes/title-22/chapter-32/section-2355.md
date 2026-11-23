@@ -3,9 +3,10 @@ title: "Section 2355 - Retention and use of certain items and funds"
 usc_title: 22
 usc_section: "2355"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2355"
-generated_at: "2026-03-30T02:55:05.360Z"
+generated_at: "2026-11-23T20:26:32.258Z"
+status: "active"
 ---
 
 # § 2355. Retention and use of certain items and funds
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:05.360Z"
 - **(b)** Whenever commodities are transferred to the United States Government as repayment of assistance under this chapter, such commodities may be used in furtherance of the purposes and within the limitations of this chapter.
 - **(c)** Funds realized as a result of any failure of a transaction financed under authority of subchapter I of this chapter to conform to the requirements of this chapter, or to applicable rules and regulations of the United States Government, or to the terms of any agreement or contract entered into under authority of subchapter I of this chapter, shall revert to the respective appropriation, fund, or account used to finance such transaction or to the appropriation, fund, or account currently available for the same general purpose.
 - **(d)** Funds realized by the United States Government from the sale, transfer, or disposal of defense articles returned to the United States Government by a recipient country or international organization as no longer needed for the purpose for which furnished shall be credited to the respective appropriation, fund, or account used to procure such defense articles or to the appropriation, fund, or account currently available for the same general purpose.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. III, § 605, Sept. 4, 1961, [75 Stat. 440](https://www.govinfo.gov/link/statute/75/440); [Pub. L. 89–171](https://www.govinfo.gov/link/plaw/89/public/171), pt. III, § 301(a), Sept. 6, 1965, [79 Stat. 658](https://www.govinfo.gov/link/statute/79/658).)*

@@ -3,9 +3,10 @@ title: "Section 7701 - Definitions"
 usc_title: 16
 usc_section: "7701"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 7701"
-generated_at: "2026-03-30T02:54:23.077Z"
+generated_at: "2026-11-23T20:26:20.851Z"
+status: "active"
 ---
 
 # § 7701. Definitions
@@ -46,3 +47,7 @@ In this chapter:
   - **(14)** The term “straddling stock” means a stock of fisheries resources that migrates between, or occurs in, the economic exclusion zone of one or more parties to the Convention and the Convention Area.
   - **(15)** The term “transshipment” means the unloading of any fisheries resources taken in the Convention Area from one fishing vessel to another fishing vessel either at sea or in port.
   - **(16)** The term “1982 Convention” means the United Nations Convention on the Law of the Sea of 10 December 1982.
+
+## Source Credit
+
+*([Pub. L. 114–327, title I, § 101](https://www.govinfo.gov/link/plaw/114/public/327), Dec. 16, 2016, [130 Stat. 1974](https://www.govinfo.gov/link/statute/130/1974).)*

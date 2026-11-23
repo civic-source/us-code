@@ -3,9 +3,10 @@ title: "Section 4943 - Taxes on excess business holdings"
 usc_title: 26
 usc_section: "4943"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 4943"
-generated_at: "2026-03-30T02:55:27.807Z"
+generated_at: "2026-11-23T20:26:46.346Z"
+status: "active"
 ---
 
 # § 4943. Taxes on excess business holdings
@@ -128,3 +129,11 @@ generated_at: "2026-03-30T02:55:27.807Z"
     - **(A)** any fund or organization treated as a private foundation for purposes of this section by reason of subsection (e) or (f),
     - **(B)** any trust described in section 4947(a)(1) (relating to charitable trusts), and
     - **(C)** any trust described in section 4947(a)(2) (relating to split-interest trusts).
+
+In general
+
+Transitional rule
+
+## Source Credit
+
+*(Added [Pub. L. 91–172, title I, § 101(b)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 507](https://www.govinfo.gov/link/statute/83/507); amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 96–596, § 2(a)(1)(D)](https://www.govinfo.gov/link/plaw/96/public/596), (2)(C), (3)(C), (4)(B), Dec. 24, 1980, [94 Stat. 3469–3472](https://www.govinfo.gov/link/statute/94/3469); [Pub. L. 98–369, div. A, title III](https://www.govinfo.gov/link/plaw/98/public/369), §§ 307(a), 308(a), 309(a), 310(a), 314(c)(1), July 18, 1984, [98 Stat. 784](https://www.govinfo.gov/link/statute/98/784), 785, 787; [Pub. L. 109–280, title XII](https://www.govinfo.gov/link/plaw/109/public/280), §§ 1212(c), 1233(a), 1243(a), Aug. 17, 2006, [120 Stat. 1074](https://www.govinfo.gov/link/statute/120/1074), 1099, 1105; [Pub. L. 113–295, div. A, title II, § 220(r)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4036](https://www.govinfo.gov/link/statute/128/4036); [Pub. L. 115–123, div. D, title II, § 41110(a)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 159](https://www.govinfo.gov/link/statute/132/159).)*

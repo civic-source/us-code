@@ -3,9 +3,10 @@ title: "Section 4403 - Honey transshipment"
 usc_title: 19
 usc_section: "4403"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 4403"
-generated_at: "2026-03-30T02:54:24.708Z"
+generated_at: "2026-11-23T20:26:11.142Z"
+status: "active"
 ---
 
 # § 4403. Honey transshipment
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:24.708Z"
 - **(d)** It is the sense of Congress that the Commissioner of Food and Drugs should promptly establish a national standard of identity for honey for the Commissioner of U.S. Customs and Border Protection to use to ensure that imports of honey are—
   - **(1)** classified accurately for purposes of assessing duties; and
   - **(2)** denied entry into the United States if such imports pose a threat to the health or safety of consumers in the United States.
+
+## Source Credit
+
+*([Pub. L. 114–125, title VI, § 608](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 189](https://www.govinfo.gov/link/statute/130/189).)*

@@ -3,9 +3,10 @@ title: "Section 925D - Special assistant U.S. attorneys and cross-deputized atto
 usc_title: 18
 usc_section: "925D"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 925D"
-generated_at: "2026-03-30T02:54:16.475Z"
+generated_at: "2026-11-23T20:26:08.433Z"
+status: "active"
 ---
 
 # § 925D. Special assistant U.S. attorneys and cross-deputized attorneys
@@ -20,3 +21,13 @@ generated_at: "2026-03-30T02:54:16.475Z"
     - **(A)** each Field Division of the Bureau of Alcohol, Tobacco, Firearms, and Explosives; and
     - **(B)** each District Office of the United States Attorneys.
 - **(c)** For purposes of this section, the term “qualified” means, with respect to an attorney, that the attorney is a licensed attorney in good standing with any relevant licensing authority.
+
+In General
+
+Improve Intimate Partner and Public Safety
+
+Qualified Defined
+
+## Source Credit
+
+*(Added [Pub. L. 117–103, div. W, title XI, § 1103(a)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 921](https://www.govinfo.gov/link/statute/136/921).)*

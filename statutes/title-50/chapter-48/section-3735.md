@@ -3,9 +3,10 @@ title: "Section 3735 - Limitation on availability of funds for Cooperative Threa
 usc_title: 50
 usc_section: "3735"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3735"
-generated_at: "2026-03-30T02:56:26.260Z"
+generated_at: "2026-11-23T20:27:31.036Z"
+status: "active"
 ---
 
 # § 3735. Limitation on availability of funds for Cooperative Threat Reduction activities in People’s Republic of China
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:26.260Z"
     - **(A)** the first report described in such paragraph that is submitted after December 23, 2016 , shall cover the preceding 12-month period before the date of such submission; and
     - **(B)** each subsequent report shall cover the semiannual period preceding the date of such submission.
   - **(4)** The information described in subparagraphs (A), (B), and (C) of paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
+
+## Source Credit
+
+*([Pub. L. 113–291, div. A, title XIII, § 1335](https://www.govinfo.gov/link/plaw/113/public/291), as added [Pub. L. 114–328, div. A, title XIII, § 1303(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2567](https://www.govinfo.gov/link/statute/130/2567); amended [Pub. L. 115–91, div. A, title XIII, § 1302(b)(3)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1705](https://www.govinfo.gov/link/statute/131/1705).)*

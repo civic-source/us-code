@@ -3,9 +3,10 @@ title: "Section 1362 - Definitions"
 usc_title: 16
 usc_section: "1362"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1362"
-generated_at: "2026-03-30T02:54:22.957Z"
+generated_at: "2026-11-23T20:26:20.453Z"
+status: "active"
 ---
 
 # § 1362. Definitions
@@ -74,3 +75,13 @@ For the purposes of this chapter—
     - **(B)** provides reasonable assurance that the stock size is equal to or greater than the estimate.
   - **(28)** The term “International Dolphin Conservation Program” means the international program established by the agreement signed in LaJolla, California, in June, 1992, as formalized, modified, and enhanced in accordance with the Declaration of Panama.
   - **(29)** The term “Declaration of Panama” means the declaration signed in Panama City, Republic of Panama, on October 4, 1995 .
+
+Amendments to Take Effect When IDCP in Force
+
+Special Effective Date
+
+“The amendments set forth in section 3004(b) of the Marine Mammal Health and Stranding Response Act ( 106 Stat. 5067 ) [ Pub. L. 102–587 , amending this section]—
+
+## Source Credit
+
+*([Pub. L. 92–522, § 3](https://www.govinfo.gov/link/plaw/92/public/522), Oct. 21, 1972, [86 Stat. 1028](https://www.govinfo.gov/link/statute/86/1028); [Pub. L. 93–205, § 13(e)(1)](https://www.govinfo.gov/link/plaw/93/public/205), Dec. 28, 1973, [87 Stat. 903](https://www.govinfo.gov/link/statute/87/903); [Pub. L. 94–265, title IV, § 404(a)](https://www.govinfo.gov/link/plaw/94/public/265), Apr. 13, 1976, [90 Stat. 360](https://www.govinfo.gov/link/statute/90/360); [Pub. L. 97–58, § 1(a)](https://www.govinfo.gov/link/plaw/97/public/58), (b)(2), Oct. 9, 1981, [95 Stat. 979](https://www.govinfo.gov/link/statute/95/979); [Pub. L. 102–251, title III, § 304](https://www.govinfo.gov/link/plaw/102/public/251), Mar. 9, 1992, [106 Stat. 65](https://www.govinfo.gov/link/statute/106/65); [Pub. L. 102–523, § 2(c)](https://www.govinfo.gov/link/plaw/102/public/523), Oct. 26, 1992, [106 Stat. 3432](https://www.govinfo.gov/link/statute/106/3432); [Pub. L. 102–582, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/102/public/582), Nov. 2, 1992, [106 Stat. 4909](https://www.govinfo.gov/link/statute/106/4909); [Pub. L. 102–587, title III, § 3004(b)](https://www.govinfo.gov/link/plaw/102/public/587), Nov. 4, 1992, [106 Stat. 5067](https://www.govinfo.gov/link/statute/106/5067); [Pub. L. 103–238](https://www.govinfo.gov/link/plaw/103/public/238), §§ 12, 16(a), 24(a)(2), Apr. 30, 1994, [108 Stat. 557](https://www.govinfo.gov/link/statute/108/557), 559, 565; [Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009](https://www.govinfo.gov/link/statute/110/3009), 3009–41; [Pub. L. 104–297, title IV, § 405(b)(2)](https://www.govinfo.gov/link/plaw/104/public/297), (3), Oct. 11, 1996, [110 Stat. 3621](https://www.govinfo.gov/link/statute/110/3621); [Pub. L. 105–42, § 3](https://www.govinfo.gov/link/plaw/105/public/42), Aug. 15, 1997, [111 Stat. 1123](https://www.govinfo.gov/link/statute/111/1123); [Pub. L. 106–555, title II, § 202(b)](https://www.govinfo.gov/link/plaw/106/public/555), Dec. 21, 2000, [114 Stat. 2768](https://www.govinfo.gov/link/statute/114/2768); [Pub. L. 108–136, div. A, title III, § 319(a)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1433](https://www.govinfo.gov/link/statute/117/1433).)*

@@ -3,9 +3,10 @@ title: "Section 1054 - Benefit accrual requirements"
 usc_title: 29
 usc_section: "1054"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1054"
-generated_at: "2026-03-30T02:55:18.706Z"
+generated_at: "2026-11-23T20:26:37.920Z"
+status: "active"
 ---
 
 # § 1054. Benefit accrual requirements
@@ -220,3 +221,88 @@ generated_at: "2026-03-30T02:55:18.706Z"
       - **(i)** is a participant in the plan on or before January 1, 2017 , or
       - **(ii)** is an employee at any time on or before January 1, 2017 , of any employer maintaining the plan, and who becomes a participant in such plan after such date.
 - **(l)** For special rules relating to plan provisions adopted to preclude discrimination, see section 1053(c)(2) of this title .
+
+| Plan year to which paragraph (3) applies: | The applicable percentage is: |
+| --- | --- |
+| 1st | 33 |
+| 2d | 66 |
+| 3d | 100. |
+
+
+Special rules relating to age.—
+
+Comparison to similarly situated younger individual.—
+
+In general
+
+Similarly situated
+
+Disregard of subsidized early retirement benefits
+
+Accrued benefit
+
+Applicable defined benefit plans.—
+
+Interest credits.—
+
+In general
+
+Preservation of capital
+
+Market rate of return
+
+Special rule for plan conversions
+
+Rate of benefit accrual
+
+Special rules for early retirement subsidies
+
+Applicable plan amendment
+
+In general
+
+Special rule for coordinated benefits
+
+Multiple amendments
+
+Applicable defined benefit plan
+
+Termination requirements
+
+Certain offsets permitted
+
+Permitted disparities in plan contributions or benefits
+
+Indexing permitted.—
+
+In general
+
+Protection against loss
+
+Indexing
+
+Early retirement benefit or retirement-type subsidy
+
+Benefit accrued to date
+
+Projected interest crediting rate
+
+Defined benefit plans
+
+1st
+
+2d
+
+3d
+
+In general
+
+Plan amendments not required until january 1, 1989
+
+General rule
+
+Special rule
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 204](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 858](https://www.govinfo.gov/link/statute/88/858); [Pub. L. 98–397, title I](https://www.govinfo.gov/link/plaw/98/public/397), §§ 102(e)(3), (f), 105(b), title III, § 301(a)(2), Aug. 23, 1984, [98 Stat. 1429](https://www.govinfo.gov/link/statute/98/1429), 1436, 1451; [Pub. L. 99–272, title XI, § 11006(a)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 243](https://www.govinfo.gov/link/statute/100/243); [Pub. L. 99–509, title IX, § 9202(a)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1975](https://www.govinfo.gov/link/statute/100/1975); [Pub. L. 99–514, title XI, § 1113(e)(4)(B)](https://www.govinfo.gov/link/plaw/99/public/514), title XVIII, §§ 1879(u)(1), 1898(a)(4)(B)(ii), (f)(1)(B), (2), Oct. 22, 1986, [100 Stat. 2448](https://www.govinfo.gov/link/statute/100/2448), 2913, 2944, 2956; [Pub. L. 100–203, title IX, § 9346(a)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–374](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7862(b)(1)(A), (2), 7871(a)(1), (3), 7881(m)(2)(A)–(C), 7891(a)(1), 7894(c)(4)–(6), Dec. 19, 1989, [103 Stat. 2432](https://www.govinfo.gov/link/statute/103/2432), 2434, 2435, 2444, 2445, 2449; [Pub. L. 103–465, title VII, § 766(a)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 5036](https://www.govinfo.gov/link/statute/108/5036); [Pub. L. 105–34, title X, § 1071(b)(2)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 948](https://www.govinfo.gov/link/statute/111/948); [Pub. L. 107–16, title VI](https://www.govinfo.gov/link/plaw/107/public/16), §§ 645(a)(2), (b)(2), 659(b), June 7, 2001, [115 Stat. 124](https://www.govinfo.gov/link/statute/115/124), 125, 139; [Pub. L. 107–147, title IV, § 411(u)(2)](https://www.govinfo.gov/link/plaw/107/public/147), Mar. 9, 2002, [116 Stat. 52](https://www.govinfo.gov/link/statute/116/52); [Pub. L. 109–280, title I, § 108(a)(5)](https://www.govinfo.gov/link/plaw/109/public/280) –(8), formerly § 107(a)(5)–(8), title V, § 502(c)(1), title VII, § 701(a)(1), title IX, § 901(b)(1), Aug. 17, 2006, [120 Stat. 819](https://www.govinfo.gov/link/statute/120/819), 941, 981, 1029, renumbered [Pub. L. 111–192, title II, § 202(a)](https://www.govinfo.gov/link/plaw/111/public/192), June 25, 2010, [124 Stat. 1297](https://www.govinfo.gov/link/statute/124/1297); [Pub. L. 110–458, title I, § 107(a)(2)](https://www.govinfo.gov/link/plaw/110/public/458), (3), Dec. 23, 2008, [122 Stat. 5107](https://www.govinfo.gov/link/statute/122/5107); [Pub. L. 113–97, title I, § 102(b)(4)](https://www.govinfo.gov/link/plaw/113/public/97), Apr. 7, 2014, [128 Stat. 1116](https://www.govinfo.gov/link/statute/128/1116); [Pub. L. 113–235, div. P, § 2(a)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2827](https://www.govinfo.gov/link/statute/128/2827); [Pub. L. 117–328, div. T, title III, § 348(b)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5385](https://www.govinfo.gov/link/statute/136/5385).)*

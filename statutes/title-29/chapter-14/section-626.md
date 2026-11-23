@@ -3,9 +3,10 @@ title: "Section 626 - Recordkeeping, investigation, and enforcement"
 usc_title: 29
 usc_section: "626"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 626"
-generated_at: "2026-03-30T02:55:18.687Z"
+generated_at: "2026-11-23T20:26:37.828Z"
+status: "active"
 ---
 
 # § 626. Recordkeeping, investigation, and enforcement
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:55:18.687Z"
     - **(B)** the individual is given a reasonable period of time within which to consider the settlement agreement.
   - **(3)** In any dispute that may arise over whether any of the requirements, conditions, and circumstances set forth in subparagraph (A), (B), (C), (D), (E), (F), (G), or (H) of paragraph (1), or subparagraph (A) or (B) of paragraph (2), have been met, the party asserting the validity of a waiver shall have the burden of proving in a court of competent jurisdiction that a waiver was knowing and voluntary pursuant to paragraph (1) or (2).
   - **(4)** No waiver agreement may affect the Commission’s rights and responsibilities to enforce this chapter. No waiver may be used to justify interfering with the protected right of an employee to file a charge or participate in an investigation or proceeding conducted by the Commission.
+
+## Source Credit
+
+*([Pub. L. 90–202, § 7](https://www.govinfo.gov/link/plaw/90/public/202), Dec. 15, 1967, [81 Stat. 604](https://www.govinfo.gov/link/statute/81/604); [Pub. L. 95–256, § 4(a)](https://www.govinfo.gov/link/plaw/95/public/256), (b)(1), (c)(1), Apr. 6, 1978, [92 Stat. 190](https://www.govinfo.gov/link/statute/92/190), 191; 1978 Reorg. Plan No. 1, § 2, eff. Jan. 1, 1979, 43 F.R. 19807, [92 Stat. 3781](https://www.govinfo.gov/link/statute/92/3781); [Pub. L. 101–433, title II, § 201](https://www.govinfo.gov/link/plaw/101/public/433), Oct. 16, 1990, [104 Stat. 983](https://www.govinfo.gov/link/statute/104/983); [Pub. L. 102–166, title I, § 115](https://www.govinfo.gov/link/plaw/102/public/166), Nov. 21, 1991, [105 Stat. 1079](https://www.govinfo.gov/link/statute/105/1079); [Pub. L. 111–2, § 4](https://www.govinfo.gov/link/plaw/111/public/2), Jan. 29, 2009, [123 Stat. 6](https://www.govinfo.gov/link/statute/123/6).)*

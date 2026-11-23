@@ -3,9 +3,10 @@ title: "Section 4029 - Colorado River Floodway"
 usc_title: 42
 usc_section: "4029"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4029"
-generated_at: "2026-03-30T02:56:11.197Z"
+generated_at: "2026-11-23T20:27:22.347Z"
+status: "active"
 ---
 
 # § 4029. Colorado River Floodway
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.197Z"
 - **(b)** No new flood insurance coverage may be provided under this chapter on or after a date six months after October 8, 1986 , for any new construction or substantial improvements of structures located within the Colorado River Floodway established by section 1600c of title 43 . New construction includes all structures that are not insurable prior to that date.
 - **(c)** The Secretary of the Interior may by rule after notice and comment pursuant to section 553 of title 5 establish temporary Floodway boundaries to be in effect until the maps required by section 1600c(b)(2) 1 of title 43 are filed, for the purpose of enforcing subsections (b) and (d) of this section.
 - **(d)** A regulated lending institution or Federal agency lender may make loans secured by structures which are not eligible for flood insurance by reason of this section: Provided , That prior to making such a loan, such institution determines that the loans or structures securing the loan are within the Floodway.
+
+## Source Credit
+
+*([Pub. L. 90–448, title XIII, § 1322](https://www.govinfo.gov/link/plaw/90/public/448), as added [Pub. L. 99–450, § 12](https://www.govinfo.gov/link/plaw/99/public/450), Oct. 8, 1986, [100 Stat. 1135](https://www.govinfo.gov/link/statute/100/1135); amended [Pub. L. 100–242, title V, § 545(e)](https://www.govinfo.gov/link/plaw/100/public/242), Feb. 5, 1988, [101 Stat. 1942](https://www.govinfo.gov/link/statute/101/1942); [Pub. L. 103–325, title V, § 512(b)](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2257](https://www.govinfo.gov/link/statute/108/2257).)*

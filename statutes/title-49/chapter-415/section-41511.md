@@ -3,9 +3,10 @@ title: "Section 41511 - Special prices for foreign air transportation"
 usc_title: 49
 usc_section: "41511"
 chapter: 415
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 41511"
-generated_at: "2026-03-30T02:56:19.375Z"
+generated_at: "2026-11-23T20:27:35.091Z"
+status: "active"
 ---
 
 # § 41511. Special prices for foreign air transportation
@@ -24,3 +25,61 @@ generated_at: "2026-03-30T02:56:19.375Z"
   - **(2)** an individual who is at least 60 years of age and no longer gainfully employed.
   - **(3)** an individual who is at least 65 years of age.
   - **(4)** an individual who has severely impaired vision or hearing or another physical or mental disability and an accompanying attendant needed by that individual.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 41511(a) | 49 App.:1373(b)(1) (2d sentence). | Aug. 23, 1958 , Pub. L. 85–726, § 403(b)(1) (2d– last sentences), 72 Stat. 759 ; July 12, 1960 , Pub. L. 86–627 , 74 Stat. 445 ; Jan. 3, 1975 , Pub. L. 93–623, § 8(a) , 88 Stat. 2105 ; Nov. 9, 1977 , Pub. L. 95–163, § 8(a) , 91 Stat. 1281 . |
+|  | 49 App.:1551(a)(4)(B) (related to 49 App.:1373(b)(1)), (b)(1)(E). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 1601(a)(4)(B) (related to § 403(b)(1)), (b)(1)(E); added Oct. 4, 1984 , Pub. L. 98–443, § 3(c) , (e), 98 Stat. 1703 , 1704. |
+| 41511(b) | 49 App.:1373(b)(1) (3d–last sentences). |  |
+|  | 49 App.:1551(a)(4)(B) (related to 49 App.:1373(b)(1)), (b)(1)(E). |  |
+
+
+Free and Reduced Pricing
+
+Space-Available Basis
+
+Historical and Revision Notes
+
+41511(a)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 403(b)(1)
+
+72 Stat. 759
+
+July 12, 1960
+
+Pub. L. 86–627
+
+74 Stat. 445
+
+Jan. 3, 1975
+
+Pub. L. 93–623, § 8(a)
+
+88 Stat. 2105
+
+Nov. 9, 1977
+
+Pub. L. 95–163, § 8(a)
+
+91 Stat. 1281
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Oct. 4, 1984
+
+Pub. L. 98–443, § 3(c)
+
+98 Stat. 1703
+
+41511(b)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1139](https://www.govinfo.gov/link/statute/108/1139); [Pub. L. 118–63, title V, § 550(b)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1212](https://www.govinfo.gov/link/statute/138/1212).)*

@@ -3,9 +3,10 @@ title: "Section 6923 - Office of Urban Agriculture and Innovative Production"
 usc_title: 7
 usc_section: "6923"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6923"
-generated_at: "2026-03-30T02:53:42.439Z"
+generated_at: "2026-11-23T20:25:41.734Z"
+status: "active"
 ---
 
 # § 6923. Office of Urban Agriculture and Innovative Production
@@ -106,3 +107,7 @@ generated_at: "2026-03-30T02:53:42.439Z"
       - **(i)** the amount of Federal funds used for each project; and
       - **(ii)** a measurement of the outcomes of each project.
 - **(e)** There is authorized to be appropriated to carry out this section and the amendments made by this section $25,000,000 for each of fiscal years 2019 through 2023.
+
+## Source Credit
+
+*([Pub. L. 103–354, title II, § 222](https://www.govinfo.gov/link/plaw/103/public/354), as added [Pub. L. 115–334, title XII, § 12302](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4958](https://www.govinfo.gov/link/statute/132/4958).)*

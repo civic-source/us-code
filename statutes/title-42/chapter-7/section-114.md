@@ -3,9 +3,10 @@ title: "Section 114 - Premium and cost-sharing subsidies for low-income individu
 usc_title: 42
 usc_section: "114"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 114"
-generated_at: "2026-03-30T02:56:10.987Z"
+generated_at: "2026-11-23T20:27:21.303Z"
+status: "active"
 ---
 
 # § 1395w–114. Premium and cost-sharing subsidies for low-income individuals
@@ -17,7 +18,9 @@ generated_at: "2026-03-30T02:56:10.987Z"
     - **(C)** For a year preceding 2025, the continuation of coverage from the initial coverage limit (under paragraph (3) of section 1395w–102(b) of this title ) for expenditures incurred through the total amount of expenditures at which benefits are available under paragraph (4) of such section, subject to the reduced cost-sharing described in subparagraph (D).
     - **(D)**
       - **(i)** In the case of an individual who is a full-benefit dual eligible individual and who is an institutionalized individual or couple (as defined in section 1396a(q)(1)(B) of this title ) or, effective on a date specified by the Secretary (but in no case earlier than January 1, 2012 ), who would be such an institutionalized individual or couple, if the full-benefit dual eligible individual were not receiving services under a home and community-based waiver authorized for a State under section 1315 of this title or subsection (c) or (d) of section 1396n of this title or under a State plan amendment under subsection (i) of such section or services provided through enrollment in a medicaid managed care organization with a contract under section 1396b(m) of this title or under section 1396u–2 of this title , the elimination of any beneficiary coinsurance described in section 1395w–102(b)(2) of this title (for all amounts through the total amount of expenditures at which benefits are available under section 1395w–102(b)(4) of this title ).
-      - **(ii)** Subject to paragraph (6), in the case of an individual not described in clause (i) who is a full-benefit dual eligible individual and whose income does not exceed 100 percent of the poverty line applicable to a family of the size involved, the substitution for the beneficiary coinsurance described in section 1395w–102(b)(2) of this title (for all amounts through the total amount of expenditures at which benefits are available under section 1395w–102(b)(4) of this title ) of a copayment amount that does not exceed $1 for a generic drug or a preferred drug that is a multiple source drug (as defined in section 1396r–8(k)(7)(A)(i) of this title ) and $3 for any other drug, or, if less, the copayment amount applicable to an individual under clause (iii).
+      - **(ii)** Subject to paragraph (6), in the case of an individual not described in clause (i) who is a full-benefit dual eligible individual and whose income does not exceed 100 percent of the poverty line applicable to a family of the size involved, the substitution for the beneficiary coinsurance described in section 1395w–102(b)(2) of this title (for all amounts through the total amount of expenditures at which benefits are available under section 1395w–102(b)(4) of this title ) of a copayment amount that does not exceed—
+        - **(I)** for a plan year before 2028—
+        - **(II)** for plan year 2028 and each subsequent plan year—
       - **(iii)** Subject to paragraph (6), in the case of an individual not described in clause (i) or (ii), the substitution for the beneficiary coinsurance described in section 1395w–102(b)(2) of this title (for all amounts through the total amount of expenditures at which benefits are available under section 1395w–102(b)(4) of this title ) of a copayment amount that does not exceed the copayment amount specified under section 1395w–102(b)(4)(A)(i)(I)(aa) of this title for the drug and year involved. For plan year 2023 and subsequent plan years, the copayment amount applicable under the preceding sentence to a month’s supply of a covered insulin product (as defined in section 1395w–102(b)(9)(C) of this title ) dispensed to the individual may not exceed the applicable copayment amount for the product under the prescription drug plan or MA–PD plan in which the individual is enrolled.
     - **(E)** For a year preceding 2024, the elimination of any cost-sharing imposed under section 1395w–102(b)(4)(A) of this title or under section 1395w–102(b)(9) of this title in the case of a covered insulin product (as defined in subparagraph (C) of such section).
   - **(2)** With respect to a plan year beginning before January 1, 2024 , in the case of a subsidy eligible individual who is not described in paragraph (1), the individual is entitled under this section to the following:
@@ -66,7 +69,7 @@ generated_at: "2026-03-30T02:56:10.987Z"
   - **(4)**
     - **(A)** The dollar amounts applied under paragraph (1)(D)(ii)—
       - **(i)** for 2007 shall be the dollar amounts specified in such paragraph increased by the annual percentage increase in the consumer price index (all items; U.S. city average) as of September of such previous year; or
-      - **(ii)** for a subsequent year shall be the dollar amounts specified in this clause (or clause (i)) for the previous year increased by the annual percentage increase in the consumer price index (all items; U.S. city average) as of September of such previous year.
+      - **(ii)** for a subsequent year (before 2028) shall be the dollar amounts specified in this clause (or clause (i)) for the previous year increased by the annual percentage increase in the consumer price index (all items; U.S. city average) as of September of such previous year.
     - **(B)** The dollar amount applied under paragraph (2)(B)—
       - **(i)** for 2007 shall be the dollar amount specified in such paragraph increased by the annual percentage increase described in section 1395w–102(b)(6) of this title for 2007; or
       - **(ii)** for a subsequent year shall be the dollar amount specified in this clause (or clause (i)) for the previous year increased by the annual percentage increase described in section 1395w–102(b)(6) of this title for the year involved.
@@ -120,3 +123,21 @@ generated_at: "2026-03-30T02:56:10.987Z"
     - **(B)** The Secretary may waive such other requirements of subchapter XI and this subchapter as may be necessary to carry out the purposes of the program established under this subsection.
   - **(6)** The authority vested in the Secretary by this subsection may be performed without regard to such provisions of law or regulations relating to the making, performance, amendment, or modification of contracts of the United States as the Secretary may determine to be inconsistent with the furtherance of the purpose of this subchapter.
 - **(f)** For special provisions under the medicaid program relating to medicare prescription drug benefits, see section 1396u–5 of this title .
+
+(aa) for a generic drug or a preferred drug that is a multiple source drug (as defined in section 1396r–8(k)(7)(A)(i) of this title ), $1 or, if less, the copayment amount applicable to an individual under clause (iii); and
+
+(bb) for any other drug, $3 or, if less, the copayment amount applicable to an individual under clause (iii); and
+
+(aa) for a generic drug, $0;
+
+(bb) for a preferred drug that is a multiple source drug (as defined in section 1396r–8(k)(7)(A)(i) of this title ), the dollar amount applied under this clause for such a drug for the preceding plan year, increased by the annual percentage increase in the consumer price index (all items; U.S. city average) as of September of such preceding year, or, if less, the copayment amount applicable to an individual under clause (iii); and
+
+(cc) for a drug not described in either item (aa) or (bb), the dollar amount applied under this clause for such a drug for the preceding plan year, increased in the manner specified in item (bb), or, if less, the copayment amount applicable to an individual under clause (iii).
+
+Study
+
+Report
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1860D–14, as added [Pub. L. 108–173, title I, § 101(a)(2)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2107](https://www.govinfo.gov/link/statute/117/2107); amended [Pub. L. 110–275, title I](https://www.govinfo.gov/link/plaw/110/public/275), §§ 114(a)(2), 116(a), 117(a), July 15, 2008, [122 Stat. 2506](https://www.govinfo.gov/link/statute/122/2506), 2507; [Pub. L. 111–148, title III](https://www.govinfo.gov/link/plaw/111/public/148), §§ 3302(a), 3303(a), 3304(a), 3305, 3309, Mar. 23, 2010, [124 Stat. 468–470](https://www.govinfo.gov/link/statute/124/468), 475; [Pub. L. 111–152, title I, § 1102(c)(4)](https://www.govinfo.gov/link/plaw/111/public/152), Mar. 30, 2010, [124 Stat. 1045](https://www.govinfo.gov/link/statute/124/1045); [Pub. L. 116–260, div. CC, title I, § 118](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2950](https://www.govinfo.gov/link/statute/134/2950); [Pub. L. 117–169, title I](https://www.govinfo.gov/link/plaw/117/public/169), §§ 11201(e)(3), 11401(b), 11404, 11406(b), Aug. 16, 2022, [136 Stat. 1891](https://www.govinfo.gov/link/statute/136/1891), 1897, 1899, 1903; [Pub. L. 119–75, div. J, title II, § 6219](https://www.govinfo.gov/link/plaw/119/public/75), Feb. 3, 2026, [140 Stat. 655](https://www.govinfo.gov/link/statute/140/655).)*

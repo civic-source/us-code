@@ -3,9 +3,10 @@ title: "Section 7321 - Committee on Care of Severely Chronically Mentally Ill Ve
 usc_title: 38
 usc_section: "7321"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7321"
-generated_at: "2026-03-30T02:55:53.528Z"
+generated_at: "2026-11-23T20:27:01.999Z"
+status: "active"
 ---
 
 # § 7321. Committee on Care of Severely Chronically Mentally Ill Veterans
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:53.528Z"
     - **(D)** The findings and recommendations made by the committee to the Under Secretary for Health and the views of the Under Secretary on such findings and recommendations.
     - **(E)** A description of the steps taken, plans made (and a timetable for their execution), and resources to be applied toward improving the capability of the Veterans Health Administration to meet effectively the treatment and rehabilitation needs of severely chronically mentally ill veterans who are eligible for Department care.
   - **(2)** Not later than June 1 of each year through 2012, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report containing information updating the reports submitted under this subsection before the submission of such report.
+
+## Source Credit
+
+*(Added [Pub. L. 104–262, title III, § 335(a)](https://www.govinfo.gov/link/plaw/104/public/262), Oct. 9, 1996, [110 Stat. 3204](https://www.govinfo.gov/link/statute/110/3204); amended [Pub. L. 106–419, title IV, § 402(f)](https://www.govinfo.gov/link/plaw/106/public/419), Nov. 1, 2000, [114 Stat. 1863](https://www.govinfo.gov/link/statute/114/1863); [Pub. L. 108–170, title IV, § 405(c)](https://www.govinfo.gov/link/plaw/108/public/170), Dec. 6, 2003, [117 Stat. 2063](https://www.govinfo.gov/link/statute/117/2063); [Pub. L. 110–387, title VIII, § 807](https://www.govinfo.gov/link/plaw/110/public/387), Oct. 10, 2008, [122 Stat. 4141](https://www.govinfo.gov/link/statute/122/4141).)*

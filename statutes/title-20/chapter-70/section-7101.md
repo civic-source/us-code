@@ -3,9 +3,10 @@ title: "Section 7101 - General provisions"
 usc_title: 20
 usc_section: "7101"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 7101"
-generated_at: "2026-03-30T02:54:48.204Z"
+generated_at: "2026-11-23T20:26:14.870Z"
+status: "active"
 ---
 
 # § 7101. General provisions
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:48.204Z"
 - **(c)** No child shall be required to obtain a prescription for a controlled substance, as defined in section 802 of title 21 as a condition of—
   - **(1)** receiving an evaluation or other service described under this subchapter; or
   - **(2)** attending a school receiving assistance under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 89–10, title IV, § 4001](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title IV, § 4002](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1967](https://www.govinfo.gov/link/statute/129/1967).)*

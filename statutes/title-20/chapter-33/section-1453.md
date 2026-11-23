@@ -3,9 +3,10 @@ title: "Section 1453 - Applications"
 usc_title: 20
 usc_section: "1453"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1453"
-generated_at: "2026-03-30T02:54:48.167Z"
+generated_at: "2026-11-23T20:26:14.659Z"
+status: "active"
 ---
 
 # § 1453. Applications
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:54:48.167Z"
   - **(1)** describe the progress of the State educational agency in implementing its plan;
   - **(2)** analyze the effectiveness of the State educational agency’s activities under this part and of the State educational agency’s strategies for meeting its goals under section 1412(a)(15) of this title ; and
   - **(3)** identify changes in the strategies used by the State educational agency and described in subsection (b)(4), if any, to improve the State educational agency’s performance.
+
+## Source Credit
+
+*([Pub. L. 91–230, title VI, § 653](https://www.govinfo.gov/link/plaw/91/public/230), as added [Pub. L. 108–446, title I, § 101](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2768](https://www.govinfo.gov/link/statute/118/2768); amended [Pub. L. 114–95, title IX](https://www.govinfo.gov/link/plaw/114/public/95), §§ 9214(d)(3), 9215(ss)(7), Dec. 10, 2015, [129 Stat. 2165](https://www.govinfo.gov/link/statute/129/2165), 2183.)*

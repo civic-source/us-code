@@ -3,9 +3,10 @@ title: "Section 8003 - Statement of policy"
 usc_title: 16
 usc_section: "8003"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 8003"
-generated_at: "2026-03-30T02:54:23.081Z"
+generated_at: "2026-11-23T20:26:20.865Z"
+status: "active"
 ---
 
 # § 8003. Statement of policy
@@ -33,3 +34,7 @@ It is the policy of the United States_ 1 1 So in original. Probably should be �
     - **(A)** a deterrent to IUU fishing; and
     - **(B)** an approach for strengthening fisheries management and food security; and
   - **(14)** to promote technological investment and innovation to combat IUU fishing.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. C, title XXXV, § 3534](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2000](https://www.govinfo.gov/link/statute/133/2000).)*

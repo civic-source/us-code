@@ -3,9 +3,10 @@ title: "Section 178 - Injunctions during national emergency"
 usc_title: 29
 usc_section: "178"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 178"
-generated_at: "2026-03-30T02:55:18.679Z"
+generated_at: "2026-11-23T20:26:37.787Z"
+status: "active"
 ---
 
 # § 178. Injunctions during national emergency
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:18.679Z"
       - **(ii)** if permitted to occur or to continue, will imperil the national health or safety, it shall have jurisdiction to enjoin any such strike or lockout, or the continuing thereof, and to make such other orders as may be appropriate.
 - **(b)** In any case, the provisions of chapter 6 of this title shall not be applicable.
 - **(c)** The order or orders of the court shall be subject to review by the appropriate United States court of appeals and by the Supreme Court upon writ of certiorari or certification as provided in section 1254 of title 28 .
+
+## Source Credit
+
+*(June 23, 1947, ch. 120, title II, § 208, [61 Stat. 155](https://www.govinfo.gov/link/statute/61/155); June 25, 1948, ch. 646, § 32(a), [62 Stat. 991](https://www.govinfo.gov/link/statute/62/991); May 24, 1949, ch. 139, § 127, [63 Stat. 107](https://www.govinfo.gov/link/statute/63/107).)*

@@ -3,9 +3,10 @@ title: "Section 1803 - Health care"
 usc_title: 38
 usc_section: "1803"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 1803"
-generated_at: "2026-03-30T02:55:53.489Z"
+generated_at: "2026-11-23T20:27:01.726Z"
+status: "active"
 ---
 
 # § 1803. Health care
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:53.489Z"
   - **(7)** The term “preventive care” means care and treatment furnished to prevent disability or illness, including periodic examinations, immunizations, patient health education, and such other services as the Secretary determines necessary to provide effective and economical preventive health care.
   - **(8)** The term “habilitative and rehabilitative care” means such professional, counseling, and guidance services and treatment programs (other than vocational training under section 1804 of this title ) as are necessary to develop, maintain, or restore, to the maximum extent practicable, the functioning of a disabled person.
   - **(9)** The term “respite care” means care furnished on an intermittent basis for a limited period to an individual who resides primarily in a private residence when such care will help the individual to continue residing in such private residence.
+
+## Source Credit
+
+*(Added [Pub. L. 104–204, title IV, § 421(b)(1)](https://www.govinfo.gov/link/plaw/104/public/204), Sept. 26, 1996, [110 Stat. 2923](https://www.govinfo.gov/link/statute/110/2923); amended [Pub. L. 105–368, title X, § 1005(b)(4)](https://www.govinfo.gov/link/plaw/105/public/368), Nov. 11, 1998, [112 Stat. 3365](https://www.govinfo.gov/link/statute/112/3365); [Pub. L. 110–387, title IV, § 408(a)](https://www.govinfo.gov/link/plaw/110/public/387), Oct. 10, 2008, [122 Stat. 4130](https://www.govinfo.gov/link/statute/122/4130).)*

@@ -3,9 +3,10 @@ title: "Section 4731 - Border water infrastructure improvement authority"
 usc_title: 19
 usc_section: "4731"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 4731"
-generated_at: "2026-03-30T02:54:24.715Z"
+generated_at: "2026-11-23T20:26:11.180Z"
+status: "active"
 ---
 
 # § 4731. Border water infrastructure improvement authority
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:24.715Z"
       - **(iii)** A regional water board.
       - **(iv)** A public wastewater utility.
   - **(3)** The term “treatment works” has the meaning given that term in section 1292 of title 33 .
+
+## Source Credit
+
+*([Pub. L. 116–113, title VIII, § 821](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 95](https://www.govinfo.gov/link/statute/134/95).)*

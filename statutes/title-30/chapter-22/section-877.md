@@ -3,9 +3,10 @@ title: "Section 877 - General safety provisions"
 usc_title: 30
 usc_section: "877"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 877"
-generated_at: "2026-03-30T02:55:29.391Z"
+generated_at: "2026-11-23T20:26:34.966Z"
+status: "active"
 ---
 
 # § 877. General safety provisions
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:29.391Z"
 - **(r)** Whenever an operator mines coal from a coal mine opened after the operative date of this subchapter, or from any new working section of a mine opened prior to such date, in a manner that requires the construction, operation, and maintenance of tunnels under any river, stream, lake, or other body of water, that is, in the judgment of the Secretary, sufficiently large to constitute a hazard to miners, such operator shall obtain a permit from the Secretary which shall include such terms and conditions as he deems appropriate to protect the safety of miners working or passing through such tunnels from cave-ins and other hazards. Such permits shall require, in accordance with a plan to be approved by the Secretary, that a safety zone be established beneath and adjacent to such body of water. No plan shall be approved unless there is a minimum of cover to be determined by the Secretary, based on test holes drilled by the operator in a manner to be prescribed by the Secretary. No such permit shall be required in the case of any new working section of a mine which is located under any water resource reservoir being constructed by a Federal agency on December 30, 1969 , the operator of which is required by such agency to operate in a manner that adequately protects the safety of miners working in such section from cave-ins and other hazards.
 - **(s)** An adequate supply of potable water shall be provided for drinking purposes in the active workings of the mine, and such water shall be carried, stored, and otherwise protected in sanitary containers.
 - **(t)** Within one year after the operative date of this subchapter, the Secretary shall propose standards for preventing explosions from explosive gases other than methane and for testing for accumulations of such gases.
+
+## Source Credit
+
+*([Pub. L. 91–173, title III, § 317](https://www.govinfo.gov/link/plaw/91/public/173), Dec. 30, 1969, [83 Stat. 787](https://www.govinfo.gov/link/statute/83/787); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695).)*

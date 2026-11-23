@@ -3,9 +3,10 @@ title: "Section 1748b - Cohesive wildfire management strategy"
 usc_title: 43
 usc_section: "1748b"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1748b"
-generated_at: "2026-03-30T02:55:57.489Z"
+generated_at: "2026-11-23T20:27:06.370Z"
+status: "active"
 ---
 
 # § 1748b. Cohesive wildfire management strategy
@@ -20,3 +21,43 @@ generated_at: "2026-03-30T02:55:57.489Z"
   - **(6)** assessing the impacts of climate change on the frequency and severity of wildfire; and
   - **(7)** studying the effects of invasive species on wildfire risk.
 - **(c)** At least once during each five-year period beginning on the date of the submission of the cohesive wildfire management strategy under subsection (a), the Secretary of the Interior and the Secretary of Agriculture shall revise the strategy to address any changes affecting the strategy, including changes with respect to landscape, vegetation, climate, and weather.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Donald J. Trump.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 111–88, div. A, title V, § 503](https://www.govinfo.gov/link/plaw/111/public/88), Oct. 30, 2009, [123 Stat. 2971](https://www.govinfo.gov/link/statute/123/2971).)*

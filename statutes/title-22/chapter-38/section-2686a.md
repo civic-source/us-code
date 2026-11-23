@@ -3,9 +3,10 @@ title: "Section 2686a - Appointment of Special Coordinator for water policy nego
 usc_title: 22
 usc_section: "2686a"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2686a"
-generated_at: "2026-03-30T02:55:05.378Z"
+generated_at: "2026-11-23T20:26:32.374Z"
+status: "active"
 ---
 
 # § 2686a. Appointment of Special Coordinator for water policy negotiations and water resources policy
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.378Z"
   - **(2)** to represent the United States Government, whenever appropriate, in multilateral fora in discussions concerning access to fresh water; and
   - **(3)** to formulate United States policy to assist in the resolution of international problems posed by the lack of fresh water supplies.
 - **(b)** The individual designated under subsection (a) may carry out the functions of subsection (a) in addition to other assigned responsibilities.
+
+## Source Credit
+
+*([Pub. L. 102–138, title I, § 180](https://www.govinfo.gov/link/plaw/102/public/138), Oct. 28, 1991, [105 Stat. 682](https://www.govinfo.gov/link/statute/105/682).)*

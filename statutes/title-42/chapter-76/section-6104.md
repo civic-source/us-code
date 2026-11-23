@@ -3,9 +3,10 @@ title: "Section 6104 - Enforcement"
 usc_title: 42
 usc_section: "6104"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6104"
-generated_at: "2026-03-30T02:56:11.241Z"
+generated_at: "2026-11-23T20:27:22.577Z"
+status: "active"
 ---
 
 # § 6104. Enforcement
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.241Z"
   - **(1)** When any interested person brings an action in any United States district court for the district in which the defendant is found or transacts business to enjoin a violation of this Act by any program or activity receiving Federal financial assistance, such interested person shall give notice by registered mail not less than 30 days prior to the commencement of that action to the Secretary of Health and Human Services, the Attorney General of the United States, and the person against whom the action is directed. Such interested person may elect, by a demand for such relief in his complaint, to recover reasonable attorney’s fees, in which case the court shall award the costs of suit, including a reasonable attorney’s fee, to the prevailing plaintiff.
   - **(2)** The notice referred to in paragraph (1) shall state the nature of the alleged violation, the relief to be requested, the court in which the action will be brought, and whether or not attorney’s fees are being demanded in the event that the plaintiff prevails. No action described in paragraph (1) shall be brought (A) if at the time the action is brought the same alleged violation by the same defendant is the subject of a pending action in any court of the United States; or (B) if administrative remedies have not been exhausted.
 - **(f)** With respect to actions brought for relief based on an alleged violation of the provisions of this chapter, administrative remedies shall be deemed exhausted upon the expiration of 180 days from the filing of an administrative complaint during which time the Federal department or agency makes no finding with regard to the complaint, or upon the day that the Federal department or agency issues a finding in favor of the recipient of financial assistance, whichever occurs first.
+
+## Source Credit
+
+*([Pub. L. 94–135, title III, § 305](https://www.govinfo.gov/link/plaw/94/public/135), Nov. 28, 1975, [89 Stat. 730](https://www.govinfo.gov/link/statute/89/730); [Pub. L. 95–478, title IV, § 401(c)](https://www.govinfo.gov/link/plaw/95/public/478), (d), Oct. 18, 1978, [92 Stat. 1555](https://www.govinfo.gov/link/statute/92/1555), 1556; [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695).)*

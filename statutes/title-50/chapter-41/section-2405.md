@@ -3,9 +3,10 @@ title: "Section 2405 - Deputy Administrator for Defense Nuclear Nonproliferation
 usc_title: 50
 usc_section: "2405"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 2405"
-generated_at: "2026-03-30T02:56:26.224Z"
+generated_at: "2026-11-23T20:27:30.845Z"
+status: "active"
 ---
 
 # § 2405. Deputy Administrator for Defense Nuclear Nonproliferation
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:26.224Z"
   - **(2)** Detecting the proliferation of weapons of mass destruction worldwide.
   - **(3)** Eliminating inventories of surplus fissile materials usable for nuclear weapons.
   - **(4)** Providing for international nuclear safety.
+
+## Source Credit
+
+*([Pub. L. 106–65, div. C, title XXXII, § 3215](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 959](https://www.govinfo.gov/link/statute/113/959).)*

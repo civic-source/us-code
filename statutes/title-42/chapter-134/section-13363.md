@@ -3,12 +3,17 @@ title: "Section 13363 - Conventional coal technology transfer"
 usc_title: 42
 usc_section: "13363"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13363"
-generated_at: "2026-03-30T02:56:11.442Z"
+generated_at: "2026-11-23T20:27:23.483Z"
+status: "active"
 ---
 
 # § 13363. Conventional coal technology transfer
 
 If the Secretary determines that the utilization of a clean coal technology is not practicable for a proposed project and that a United States conventional coal technology would constitute a substantial improvement in efficiency, costs, and environmental performance relative to the technology being used in a developing country or country making the transition from nonmarket to market economies, with significant indigenous coal resources, such technology shall, for purposes of sections 13361 and 13362 1 1 See References in Text note below. of this title, be considered a clean coal technology. In the case of combustion technologies, only the retrofit, repowering, or replacement of a conventional technology shall constitute a substantial improvement for purposes of this section. In carrying out this section, the Secretary shall give highest priority to promoting the most environmentally sound and energy efficient technologies.
 
+
+## Source Credit
+
+*([Pub. L. 102–486, title XIII, § 1333](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2984](https://www.govinfo.gov/link/statute/106/2984).)*

@@ -3,9 +3,10 @@ title: "Section 2907 - Operation of branch facilities by minorities and women"
 usc_title: 12
 usc_section: "2907"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 2907"
-generated_at: "2026-03-30T02:53:53.489Z"
+generated_at: "2026-11-23T20:25:59.313Z"
+status: "active"
 ---
 
 # § 2907. Operation of branch facilities by minorities and women
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:53.489Z"
     - **(B)** more than 50 percent of the net profit or loss of which accrues to 1 or more women; and
     - **(C)** a significant percentage of senior management positions of which are held by women.
   - **(3)** The term “minority” has the meaning given to such term by section 1204(c)(3) of the Financial Institutions Reform, Recovery and Enforcement Act of 1989.
+
+## Source Credit
+
+*([Pub. L. 95–128, title VIII, § 808](https://www.govinfo.gov/link/plaw/95/public/128), as added [Pub. L. 102–233, title IV, § 402(b)](https://www.govinfo.gov/link/plaw/102/public/233), Dec. 12, 1991, [105 Stat. 1775](https://www.govinfo.gov/link/statute/105/1775); amended [Pub. L. 102–550, title IX, § 909(2)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3874](https://www.govinfo.gov/link/statute/106/3874).)*

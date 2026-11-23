@@ -3,9 +3,10 @@ title: "Section 1507 - Common carrier status"
 usc_title: 33
 usc_section: "1507"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1507"
-generated_at: "2026-03-30T02:55:41.108Z"
+generated_at: "2026-11-23T20:26:54.090Z"
+status: "active"
 ---
 
 # § 1507. Common carrier status
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:41.108Z"
 - **(c)** When the Secretary has reason to believe that a licensee is not in compliance with this section, the Secretary shall commence an appropriate proceeding before the Federal Energy Regulatory Commission or request the Attorney General to take appropriate steps to enforce compliance with this section and, when appropriate, to secure the imposition of appropriate sanctions. In addition, the Secretary may suspend or revoke the license of a licensee not complying with its obligations under this section.
 - **(d)** Subsections (a) and (b) shall not apply to deepwater ports for natural gas. A licensee of a deepwater port for natural gas, or an affiliate thereof, may exclusively utilize the entire capacity of the deepwater port and storage facilities for the acceptance, transport, storage, regasification, or conveyance of natural gas produced, processed, marketed, or otherwise obtained by agreement by such licensee or its affiliates. The licensee may make unused capacity of the deepwater port and storage facilities available to other persons, pursuant to reasonable terms and conditions imposed by the licensee, if such use does not otherwise interfere in any way with the acceptance, transport, storage, regasification, or conveyance of natural gas produced, processed, marketed, or otherwise obtained by agreement by such licensee or its affiliates.
 - **(e)** Notwithstanding any provision of the Natural Gas Act ( 15 U.S.C. 717 et seq.), any regulation or rule issued thereunder, or section 1518 of this title as it pertains to such Act, this chapter shall apply with respect to the licensing, siting, construction, or operation of a deepwater natural gas port or the acceptance, transport, storage, regasification, or conveyance of natural gas at or through a deepwater port, to the exclusion of the Natural Gas Act or any regulation or rule issued thereunder.
+
+## Source Credit
+
+*([Pub. L. 93–627, § 8](https://www.govinfo.gov/link/plaw/93/public/627), Jan. 3, 1975, [88 Stat. 2136](https://www.govinfo.gov/link/statute/88/2136); [Pub. L. 98–419, § 3(a)](https://www.govinfo.gov/link/plaw/98/public/419), Sept. 25, 1984, [98 Stat. 1608](https://www.govinfo.gov/link/statute/98/1608); [Pub. L. 104–324, title V, § 507](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3927](https://www.govinfo.gov/link/statute/110/3927); [Pub. L. 107–295, title I, § 106(d)](https://www.govinfo.gov/link/plaw/107/public/295), Nov. 25, 2002, [116 Stat. 2087](https://www.govinfo.gov/link/statute/116/2087).)*

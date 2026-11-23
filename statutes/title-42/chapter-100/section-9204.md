@@ -3,9 +3,10 @@ title: "Section 9204 - Research, development, and demonstration"
 usc_title: 42
 usc_section: "9204"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9204"
-generated_at: "2026-03-30T02:56:11.351Z"
+generated_at: "2026-11-23T20:27:23.079Z"
+status: "active"
 ---
 
 # § 9204. Research, development, and demonstration
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.351Z"
   - **(2)** As often as he deems appropriate, the Secretary shall solicit and evaluate proposals for the research and development of any new or improved technologies, which, in the Secretary’s opinion, will contribute to the development of improvements in current wind energy systems.
 - **(c)** The Secretary is authorized to enter into contracts, grants, and cooperative agreements with public and private entities for the purchase, fabrication, installation, and testing to obtain scientific, technological, and economic information from the demonstration of a variety of prototypes of advanced wind energy systems under a variety of circumstances and conditions.
 - **(d)** In carrying out the responsibilities under this section, the Secretary is not subject to the requirements of section 553 of title 5 or section 7191 of this title .
+
+## Source Credit
+
+*([Pub. L. 96–345, § 5](https://www.govinfo.gov/link/plaw/96/public/345), Sept. 8, 1980, [94 Stat. 1141](https://www.govinfo.gov/link/statute/94/1141).)*

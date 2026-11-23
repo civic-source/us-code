@@ -3,9 +3,10 @@ title: "Section 1079b - Procedures for charging fees for care provided to civili
 usc_title: 10
 usc_section: "1079b"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1079b"
-generated_at: "2026-03-30T02:53:38.105Z"
+generated_at: "2026-11-23T20:25:51.230Z"
+status: "active"
 ---
 
 # § 1079b. Procedures for charging fees for care provided to civilians; retention and use of fees collected
@@ -28,3 +29,25 @@ generated_at: "2026-03-30T02:53:38.105Z"
 - **(e)** In this section:
   - **(1)** The term “covered payer” means a third-party payer or other insurance, medical service, or health plan.
   - **(2)** The terms “third-party payer” and “insurance, medical service, or health plan” have the meaning given those terms in section 1095(h) of this title .
+
+Requirement To Implement Procedures
+
+Waiver of Fees
+
+Modified Payment Plan for Certain Civilians
+
+Use of Fees Collected
+
+Definitions
+
+Final Rule Required
+
+Treatment of Claims.—
+
+In general
+
+Exception
+
+## Source Credit
+
+*(Added [Pub. L. 107–107, div. A, title VII, § 732(a)(1)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1169](https://www.govinfo.gov/link/statute/115/1169); amended [Pub. L. 116–283, div. A, title VII, § 702](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3686](https://www.govinfo.gov/link/statute/134/3686); [Pub. L. 117–263, div. A, title VII, § 716(a)](https://www.govinfo.gov/link/plaw/117/public/263), (b), Dec. 23, 2022, [136 Stat. 2661](https://www.govinfo.gov/link/statute/136/2661).)*

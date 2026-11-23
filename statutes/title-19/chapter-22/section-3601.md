@@ -3,9 +3,10 @@ title: "Section 3601 - Administration of tariff-rate quotas"
 usc_title: 19
 usc_section: "3601"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3601"
-generated_at: "2026-03-30T02:54:24.694Z"
+generated_at: "2026-11-23T20:26:11.065Z"
+status: "active"
 ---
 
 # § 3601. Administration of tariff-rate quotas
@@ -25,3 +26,9 @@ generated_at: "2026-03-30T02:54:24.694Z"
     - **(A)** the March 24, 1994 , agreement between the United States and Argentina; or
     - **(B)** the March 9, 1994 , agreement between the United States and Uruguay.
   - **(5)** The President is authorized to proclaim additional United States note 3 to chapter 17 of the HTS, and to proclaim the modifications to the note, as determined appropriate by the President to reflect Schedule XX.
+
+William J. Clinton.
+
+## Source Credit
+
+*([Pub. L. 103–465, title IV, § 404](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4959](https://www.govinfo.gov/link/statute/108/4959).)*

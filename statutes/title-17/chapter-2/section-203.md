@@ -3,9 +3,10 @@ title: "Section 203 - Termination of transfers and licenses granted by the autho
 usc_title: 17
 usc_section: "203"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 203"
-generated_at: "2026-03-30T02:54:15.350Z"
+generated_at: "2026-11-23T20:26:06.509Z"
+status: "active"
 ---
 
 # § 203. Termination of transfers and licenses granted by the author
@@ -29,3 +30,11 @@ generated_at: "2026-03-30T02:54:15.350Z"
   - **(4)** A further grant, or agreement to make a further grant, of any right covered by a terminated grant is valid only if it is made after the effective date of the termination. As an exception, however, an agreement for such a further grant may be made between the persons provided by clause (3) of this subsection and the original grantee or such grantee’s successor in title, after the notice of termination has been served as provided by clause (4) of subsection (a).
   - **(5)** Termination of a grant under this section affects only those rights covered by the grants that arise under this title, and in no way affects rights arising under any other Federal, State, or foreign laws.
   - **(6)** Unless and until termination is effected under this section, the grant, if it does not provide otherwise, continues in effect for the term of copyright provided by this title.
+
+Conditions for Termination
+
+Effect of Termination
+
+## Source Credit
+
+*([Pub. L. 94–553, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/553), Oct. 19, 1976, [90 Stat. 2569](https://www.govinfo.gov/link/statute/90/2569); [Pub. L. 105–298, title I, § 103](https://www.govinfo.gov/link/plaw/105/public/298), Oct. 27, 1998, [112 Stat. 2829](https://www.govinfo.gov/link/statute/112/2829); [Pub. L. 107–273, div. C, title III, § 13210(9)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1909](https://www.govinfo.gov/link/statute/116/1909).)*

@@ -3,9 +3,10 @@ title: "Section 40741 - Definitions"
 usc_title: 34
 usc_section: "40741"
 chapter: 407
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 40741"
-generated_at: "2026-03-30T02:55:33.311Z"
+generated_at: "2026-11-23T20:26:50.652Z"
+status: "active"
 ---
 
 # § 40741. Definitions
@@ -19,3 +20,7 @@ For purposes of this subchapter:
     - **(D)** Individuals who are arrested for or charged with a criminal offense under State law that consists of burglary punishable by imprisonment for more than 1 year.
     - **(E)** Individuals who are arrested for or charged with a criminal offense under State law that consists of aggravated assault punishable by imprisonment for more than 1 year.
   - **(2)** The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands.
+
+## Source Credit
+
+*([Pub. L. 112–253, § 2](https://www.govinfo.gov/link/plaw/112/public/253), Jan. 10, 2013, [126 Stat. 2407](https://www.govinfo.gov/link/statute/126/2407).)*

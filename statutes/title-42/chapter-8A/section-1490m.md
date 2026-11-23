@@ -3,9 +3,10 @@ title: "Section 1490m - Housing preservation grants"
 usc_title: 42
 usc_section: "1490m"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1490m"
-generated_at: "2026-03-30T02:56:11.098Z"
+generated_at: "2026-11-23T20:27:21.801Z"
+status: "active"
 ---
 
 # § 1490m. Housing preservation grants
@@ -65,3 +66,7 @@ generated_at: "2026-03-30T02:56:11.098Z"
   - **(1)** The Secretary is authorized to prescribe such rules and regulations and make such delegations of authority as he deems necessary to carry out this section within 90 days after November 30, 1983 .
   - **(2)** The Secretary shall, not later than the expiration of the 30-day period following February 5, 1988 , issue regulations to carry out the program of grants under subsection (a)(2).
 - **(i)** The Secretary shall establish procedures which support national historic preservation objectives and which assure that, if any rehabilitation proposed to be assisted under this section would affect property that is included or is eligible for inclusion on the National Register of Historic Places, such activity shall not be undertaken unless (1) it will reasonably meet the standards for rehabilitation issued by the Secretary of the Interior and the appropriate State historic preservation officer is afforded the opportunity to comment on the specific rehabilitation plan, or (2) the Advisory Council on Historic Preservation is afforded an opportunity to comment on cases for which the recipient of assistance, in consultation with the State historic preservation officer, determines that the proposed rehabilitation activity cannot reasonably meet such standards or would adversely affect historic property as defined therein.
+
+## Source Credit
+
+*(July 15, 1949, ch. 338, title V, § 533, as added [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title V, § 522], Nov. 30, 1983, [97 Stat. 1250](https://www.govinfo.gov/link/statute/97/1250); amended [Pub. L. 100–242, title III](https://www.govinfo.gov/link/plaw/100/public/242), §§ 310, 316(g), Feb. 5, 1988, [101 Stat. 1896](https://www.govinfo.gov/link/statute/101/1896), 1898; [Pub. L. 101–625, title VII, § 717](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4296](https://www.govinfo.gov/link/statute/104/4296); [Pub. L. 102–550, title VII](https://www.govinfo.gov/link/plaw/102/public/550), §§ 706(1), 711, Oct. 28, 1992, [106 Stat. 3835](https://www.govinfo.gov/link/statute/106/3835), 3840; [Pub. L. 105–276, title V, § 550(e)](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2610](https://www.govinfo.gov/link/statute/112/2610); [Pub. L. 105–362, title I, § 101(h)](https://www.govinfo.gov/link/plaw/105/public/362), Nov. 10, 1998, [112 Stat. 3281](https://www.govinfo.gov/link/statute/112/3281).)*

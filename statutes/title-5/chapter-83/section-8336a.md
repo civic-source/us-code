@@ -3,9 +3,10 @@ title: "Section 8336a - Phased retirement"
 usc_title: 5
 usc_section: "8336a"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8336a"
-generated_at: "2026-03-30T02:52:56.048Z"
+generated_at: "2026-11-23T20:25:32.154Z"
+status: "active"
 ---
 
 # § 8336a. Phased retirement
@@ -82,3 +83,7 @@ generated_at: "2026-03-30T02:52:56.048Z"
 - **(l)** For purposes of sections 8343 and 8351, and subchapter III of chapter 84, a phased retiree shall be deemed to be an employee.
 - **(m)** A phased retiree is not subject to section 8344.
 - **(n)** For purposes of chapter 87, a phased retiree shall be deemed to be receiving basic pay at the rate of a full-time employee in the position to which the phased retiree is appointed.
+
+## Source Credit
+
+*(Added [Pub. L. 112–141, div. F, title I, § 100121(a)(2)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 907](https://www.govinfo.gov/link/statute/126/907).)*

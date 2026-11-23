@@ -3,9 +3,10 @@ title: "Section 1166 - Financial assistance"
 usc_title: 16
 usc_section: "1166"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1166"
-generated_at: "2026-03-30T02:54:22.942Z"
+generated_at: "2026-11-23T20:26:20.406Z"
+status: "active"
 ---
 
 # § 1166. Financial assistance
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:54:22.942Z"
   - **(2)** providing funds for, or planning, constructing, or operating, any interim solid waste management facilities that may be required by the State of Alaska before permanent solid waste management facilities constructed with assistance provided under subsection (b) are complete and operational.
 - **(f)** Each entity which receives assistance authorized under subsection (c) shall submit an audited statement listing the expenditure of that assistance to the Committee on Appropriations and the Committee on Resources of the House of Representatives and the Committee on Appropriations and the Committee on Commerce, Science, and Transportation of the Senate, on the last day of fiscal years 2002, 2004, and 2006.
 - **(g)** Amounts authorized under subsection (c) are intended by Congress to be provided in addition to the base funding appropriated to the National Oceanic and Atmospheric Administration in fiscal year 2000.
+
+## Source Credit
+
+*([Pub. L. 89–702, title II, § 206](https://www.govinfo.gov/link/plaw/89/public/702), Nov. 2, 1966, [80 Stat. 1094](https://www.govinfo.gov/link/statute/80/1094); [Pub. L. 98–129, § 2](https://www.govinfo.gov/link/plaw/98/public/129), Oct. 14, 1983, [97 Stat. 840](https://www.govinfo.gov/link/statute/97/840); [Pub. L. 100–711, § 9](https://www.govinfo.gov/link/plaw/100/public/711), Nov. 23, 1988, [102 Stat. 4772](https://www.govinfo.gov/link/statute/102/4772); [Pub. L. 101–512, title I](https://www.govinfo.gov/link/plaw/101/public/512), Nov. 5, 1990, [104 Stat. 1931](https://www.govinfo.gov/link/statute/104/1931); [Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(e)(3)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–244; [Pub. L. 106–562, title I, § 103](https://www.govinfo.gov/link/plaw/106/public/562), Dec. 23, 2000, [114 Stat. 2794](https://www.govinfo.gov/link/statute/114/2794); [Pub. L. 109–59, title IV, § 4403](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1775](https://www.govinfo.gov/link/statute/119/1775).)*

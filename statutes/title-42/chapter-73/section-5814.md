@@ -3,9 +3,10 @@ title: "Section 5814 - Abolition and transfers"
 usc_title: 42
 usc_section: "5814"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5814"
-generated_at: "2026-03-30T02:56:11.237Z"
+generated_at: "2026-11-23T20:27:22.557Z"
+status: "active"
 ---
 
 # § 5814. Abolition and transfers
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.237Z"
 - **(i)** In the exercise of his responsibilities under section 5813 of this title , the Administrator shall utilize, with their consent, to the fullest extent he determines advisable the technical and management capabilities of other executive agencies having facilities, personnel, or other resources which can assist or advantageously be expanded to assist in carrying out such responsibilities. The Administrator shall consult with the head of each agency with respect to such facilities, personnel, or other resources, and may assign, with their consent, specific programs or projects in energy research and development as appropriate. In making such assignments under this subsection, the head of each such agency shall insure that—
   - **(1)** such assignments shall be in addition to and not detract from the basic mission responsibilities of the agency, and
   - **(2)** such assignments shall be carried out under such guidance as the Administrator deems appropriate.
+
+## Source Credit
+
+*([Pub. L. 93–438, title I, § 104](https://www.govinfo.gov/link/plaw/93/public/438), Oct. 11, 1974, [88 Stat. 1237](https://www.govinfo.gov/link/statute/88/1237); [Pub. L. 102–285, § 10(b)](https://www.govinfo.gov/link/plaw/102/public/285), May 18, 1992, [106 Stat. 172](https://www.govinfo.gov/link/statute/106/172).)*

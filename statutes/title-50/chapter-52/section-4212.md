@@ -3,9 +3,10 @@ title: "Section 4212 - Remedies with respect to criminal convictions"
 usc_title: 50
 usc_section: "4212"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4212"
-generated_at: "2026-03-30T02:56:26.267Z"
+generated_at: "2026-11-23T20:27:31.078Z"
+status: "active"
 ---
 
 # § 4212. Remedies with respect to criminal convictions
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:26.267Z"
   - **(3)** any other Executive order, Presidential proclamation, law of the United States, directive of the Armed Forces of the United States, or other action taken by or on behalf of the United States or its agents, representatives, officers, or employees, respecting the evacuation, relocation, or internment of individuals solely on the basis of Japanese ancestry;
 - **(b)** Based upon any review under subsection (a), the Attorney General is requested to recommend to the President for pardon consideration those convictions which the Attorney General considers appropriate.
 - **(c)** In consideration of the statement of the Congress set forth in section 4202(a) of this title , the President is requested to offer pardons to any individuals recommended by the Attorney General under subsection (b).
+
+## Source Credit
+
+*([Pub. L. 100–383, title I, § 102](https://www.govinfo.gov/link/plaw/100/public/383), Aug. 10, 1988, [102 Stat. 904](https://www.govinfo.gov/link/statute/102/904).)*

@@ -3,9 +3,10 @@ title: "Section 3505b - Functions and duties of Deputy Assistant Secretary for P
 usc_title: 42
 usc_section: "3505b"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3505b"
-generated_at: "2026-03-30T02:56:11.187Z"
+generated_at: "2026-11-23T20:27:22.283Z"
+status: "active"
 ---
 
 # § 3505b. Functions and duties of Deputy Assistant Secretary for Population Affairs
@@ -18,3 +19,7 @@ The Secretary shall utilize the Deputy Assistant Secretary for Population Affair
   - **(4)** to provide a liaison with the activities carried on by other agencies and instrumentalities of the Federal Government relating to population research and family planning;
   - **(5)** to provide or support training for necessary manpower for domestic programs of population research and family planning programs of service and research; and
   - **(6)** to coordinate and be responsible for the evaluation of the other Department of Health and Human Services programs related to population research and family planning and to make periodic recommendations to the Secretary.
+
+## Source Credit
+
+*([Pub. L. 91–572, § 4](https://www.govinfo.gov/link/plaw/91/public/572), Dec. 24, 1970, [84 Stat. 1505](https://www.govinfo.gov/link/statute/84/1505); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695).)*

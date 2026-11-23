@@ -3,9 +3,10 @@ title: "Section 296e - Generally applicable provisions"
 usc_title: 42
 usc_section: "296e"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 296e"
-generated_at: "2026-03-30T02:56:10.782Z"
+generated_at: "2026-11-23T20:27:20.406Z"
+status: "active"
 ---
 
 # § 296e. Generally applicable provisions
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:10.782Z"
   - **(1)** Applications for grants or contracts under this subchapter may be submitted by health professions schools, schools of nursing, academic health centers, State or local governments, or other appropriate public or private nonprofit entities as determined appropriate by the Secretary in accordance with this subchapter.
   - **(2)** Notwithstanding paragraph (1), a for-profit entity may be eligible for a grant or contract under this subchapter as determined appropriate by the Secretary.
 - **(i)** Not later than September 30, 2020 , and biennially thereafter, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report that contains an assessment of the programs and activities of the Department of Health and Human Services related to enhancing the nursing workforce, including the extent to which programs and activities under this subchapter meet the identified goals and performance measures developed for the respective programs and activities, and the extent to which the Department coordinates with other Federal departments regarding programs designed to improve the nursing workforce.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VIII, § 806, as added [Pub. L. 105–392, title I, § 123(4)](https://www.govinfo.gov/link/plaw/105/public/392), Nov. 13, 1998, [112 Stat. 3565](https://www.govinfo.gov/link/statute/112/3565); amended [Pub. L. 116–136, div. A, title III, § 3404(a)(4)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 392](https://www.govinfo.gov/link/statute/134/392).)*

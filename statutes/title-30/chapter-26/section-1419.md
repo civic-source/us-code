@@ -3,9 +3,10 @@ title: "Section 1419 - Protection of the environment"
 usc_title: 30
 usc_section: "1419"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1419"
-generated_at: "2026-03-30T02:55:29.405Z"
+generated_at: "2026-11-23T20:26:35.043Z"
+status: "active"
 ---
 
 # § 1419. Protection of the environment
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:55:29.405Z"
   - **(2)** Nothing in this chapter shall be construed as authorizing the United States to unilaterally establish such reference area or areas nor shall the United States recognize the unilateral claim to such reference area or areas by any State.
   - **(3)** Within four years after June 28, 1980 , the Secretary of State shall submit a report to Congress on the progress of establishing such stable reference areas, including the designation of appropriate zones to insure a representative and stable biota of the deep seabed.
   - **(4)** For purposes of this section “stable reference areas” shall mean an area or areas of the deep seabed to be used as a reference zone or zones for purposes of resource evaluation and environmental assessment of deep seabed mining in which no mining will occur.
+
+## Source Credit
+
+*([Pub. L. 96–283, title I, § 109](https://www.govinfo.gov/link/plaw/96/public/283), June 28, 1980, [94 Stat. 568](https://www.govinfo.gov/link/statute/94/568).)*

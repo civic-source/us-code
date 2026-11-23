@@ -3,9 +3,10 @@ title: "Section 298 - Immigration functions"
 usc_title: 6
 usc_section: "298"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 298"
-generated_at: "2026-03-30T02:53:09.455Z"
+generated_at: "2026-11-23T20:25:34.691Z"
+status: "active"
 ---
 
 # § 298. Immigration functions
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:09.455Z"
 - **(b)** It is the sense of Congress that—
   - **(1)** the quality and efficiency of immigration services rendered by the Federal Government should be improved after the transfers made by this part take effect; and
   - **(2)** the Secretary should undertake efforts to guarantee that concerns regarding the quality and efficiency of immigration services are addressed after such effective date.
+
+## Source Credit
+
+*([Pub. L. 107–296, title IV, § 478](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2211](https://www.govinfo.gov/link/statute/116/2211).)*

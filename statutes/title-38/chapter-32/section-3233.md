@@ -3,9 +3,10 @@ title: "Section 3233 - Apprenticeship or other on-job training"
 usc_title: 38
 usc_section: "3233"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 3233"
-generated_at: "2026-03-30T02:55:53.502Z"
+generated_at: "2026-11-23T20:27:01.838Z"
+status: "active"
 ---
 
 # § 3233. Apprenticeship or other on-job training
@@ -20,3 +21,9 @@ generated_at: "2026-03-30T02:55:53.502Z"
   - **(2)** 55 percent of a month in the case of payments made in accordance with subsection (a)(2) of this section; and
   - **(3)** 35 percent of a month in the case of payments made in accordance with subsection (a)(3) of this section.
 - **(d)** For any month in which an individual fails to complete 120 hours of training, the entitlement otherwise chargeable under subsection (c) of this section shall be reduced in the same proportion as the monthly benefit payment payable is reduced under subsection (b) of this section.
+
+“For months beginning on or after October 1, 2005 , and before January 1, 2008 , subsection (a) of section 3233 of title 38 , United States Code, shall be applied as if—
+
+## Source Credit
+
+*(Added [Pub. L. 99–576, title III, § 310(b)(2)](https://www.govinfo.gov/link/plaw/99/public/576), Oct. 28, 1986, [100 Stat. 3271](https://www.govinfo.gov/link/statute/100/3271), § 1633; amended [Pub. L. 101–237, title IV, § 423(a)(7)](https://www.govinfo.gov/link/plaw/101/public/237), Dec. 18, 1989, [103 Stat. 2091](https://www.govinfo.gov/link/statute/103/2091); renumbered § 3233, [Pub. L. 102–83, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/83), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406).)*

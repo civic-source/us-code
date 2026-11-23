@@ -3,9 +3,10 @@ title: "Section 7701 - Definitions"
 usc_title: 26
 usc_section: "7701"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 7701"
-generated_at: "2026-03-30T02:55:27.881Z"
+generated_at: "2026-11-23T20:26:46.825Z"
+status: "active"
 ---
 
 # § 7701. Definitions
@@ -272,7 +273,14 @@ generated_at: "2026-03-30T02:55:27.881Z"
   - **(3)**
     - **(A)** Except as otherwise provided in this paragraph, an individual meets the substantial presence test of this paragraph with respect to any calendar year (hereinafter in this subsection referred to as the “current year”) if—
       - **(i)** such individual was present in the United States on at least 31 days during the calendar year, and
-      - **(ii)** the sum of the number of days on which such individual was present in the United States during the current year and the 2 preceding calendar years (when multiplied by the applicable multiplier determined under the following table) equals or exceeds 183 days: In the case of days in: The applicable multiplier is: Current year 1 1st preceding year ⅓ 2nd preceding year ⅙
+      - **(ii)** the sum of the number of days on which such individual was present in the United States during the current year and the 2 preceding calendar years (when multiplied by the applicable multiplier determined under the following table) equals or exceeds 183 days:
+
+| In the case of days in: | The applicable multiplier is: |
+| --- | --- |
+| Current year | 1 |
+| 1st preceding year | ⅓ |
+| 2nd preceding year | ⅙ |
+
     - **(B)** An individual shall not be treated as meeting the substantial presence test of this paragraph with respect to any current year if—
       - **(i)** such individual is present in the United States on fewer than 183 days during the current year, and
       - **(ii)** it is established that for the current year such individual has a tax home (as defined in section 911(d)(3) without regard to the second sentence thereof) in a foreign country and has a closer connection to such foreign country than to the United States.
@@ -451,3 +459,177 @@ generated_at: "2026-03-30T02:55:27.881Z"
   - **(8)** Vehicle as including all means of land transportation, section 4.
   - **(9)** Company or association as including successors and assigns, section 5.
   - **(2)** For effect of cross references in this title, see section 7806(a).
+
+(aa) a specified foreign entity has the direct authority to appoint a covered officer of such entity,
+
+(bb) a single specified foreign entity owns at least 25 percent of such entity,
+
+(cc) one or more specified foreign entities own in the aggregate at least 40 percent of such entity, or
+
+(dd) at least 15 percent of the debt of such entity has been issued, in the aggregate, to 1 or more specified foreign entities, or
+
+(aa) any qualified facility or energy storage technology of the taxpayer (or any person related to the taxpayer), or
+
+(bb) with respect to any eligible component produced by the taxpayer (or any person related to the taxpayer)— (AA) the extraction, processing, or recycling of any applicable critical mineral, or (BB) the production of an eligible component which is not an applicable critical mineral.
+
+(aa) General rule Subject to subclause (II), for purposes of clause (i)(II), the term “effective control” means 1 or more agreements or arrangements similar to those described in subclauses (II) and (III) which provide 1 or more contractual counterparties of a taxpayer with specific authority over key aspects of the production of eligible components, energy generation in a qualified facility, or energy storage which are not included in the measures of control through authority, ownership, or debt held which are described in clause (i)(I).
+
+(bb) Guidance The Secretary shall issue such guidance as is necessary to carry out the purposes of this clause, including the establishment of rules to prevent entities from evading, circumventing, or abusing the application of the restrictions described subparagraph (C) and subclauses (II) and (III) of this clause through a contract, agreement, or other arrangement.
+
+(aa) determine the quantity or timing of production of an eligible component produced by the taxpayer,
+
+(bb) determine the amount or timing of activities related to the production of electricity undertaken at a qualified facility of the taxpayer or the storage of electrical energy in energy storage technology of the taxpayer,
+
+(cc) determine which entity may purchase or use the output of a production unit of the taxpayer that produces eligible components,
+
+(dd) determine which entity may purchase or use the output of a qualified facility of the taxpayer,
+
+(ee) restrict access to data critical to production or storage of energy undertaken at a qualified facility of the taxpayer, or to the site of production or any part of a qualified facility or energy storage technology of the taxpayer, to the personnel or agents of such contractual counterparty, or
+
+(ff) on an exclusive basis, maintain, repair, or operate any plant or equipment which is necessary to the production by the taxpayer of eligible components or electricity.
+
+(aa) In general In addition to subclause (II), for purposes of clause (i)(II), the term “effective control” means, with respect to a licensing agreement for the provision of intellectual property (or any other contract, agreement or other arrangement entered into with a contractual counterparty related to such licensing agreement) with respect to a qualified facility, energy storage technology, or the production of an eligible component, any of the following: (AA) A contractual right retained by the contractual counterparty to specify or otherwise direct 1 or more sources of components, subcomponents, or applicable critical minerals utilized in a qualified facility, energy storage technology, or in the production of an eligible component. (BB) A contractual right retained by the contractual counterparty to direct the operation of any qualified facility, any energy storage technology, or any production unit that produces an eligible component. (CC) A contractual right retained by the contractual counterparty to limit the taxpayer’s utilization of intellectual property related to the operation of a qualified facility or energy storage technology, or in the production of an eligible component. (DD) A contractual right retained by the contractual counterparty to receive royalties under the licensing agreement or any similar agreement (or payments under any related agreement) beyond the 10th year of the agreement (including modifications or extensions thereof). (EE) A contractual right retained by the contractual counterparty to direct or otherwise require the taxpayer to enter into an agreement for the provision of services for a duration longer than 2 years (including any modifications or extensions thereof). (FF) Such contract, agreement, or other arrangement does not provide the licensee with all the technical data, information, and know-how necessary to enable the licensee to produce the eligible component or components subject to the contract, agreement, or other arrangement without further involvement from the contractual counterparty or a specified foreign entity. (GG) Such contract, agreement, or other arrangement was entered into (or modified) on or after the date of enactment of this paragraph.
+
+(bb) Exception (AA) In general Item (aa) shall not apply in the case of a bona fide purchase or sale of intellectual property. (BB) Bona fide purchase or sale For purposes of item (aa), any purchase or sale of intellectual property where the agreement provides that ownership of the intellectual property reverts to the contractual counterparty after a period of time shall not be considered a bona-fide purchase or sale.
+
+(aa) a national securities exchange which is registered with the Securities and Exchange Commission,
+
+(bb) the national market system established pursuant to section 11A of the Securities and 1 1 So in original. The word “and” probably should not appear. Exchange Act of 1934, or
+
+(cc) any other exchange or other market which the Secretary has determined in guidance issued under section 1296(e)(1)(A)(ii) has rules adequate to carry out the purposes of part VI of subchapter P of chapter 1 of subtitle A.
+
+(aa) the securities of which are regularly traded in a manner described in subclause (I), or
+
+(bb) for which not less than 80 percent of the equity securities of such entity are owned directly or indirectly by an entity which is described in item (aa).
+
+(aa) is incorporated or organized under the laws of a covered nation, or
+
+(bb) has its principal place of business in a covered nation.
+
+(aa) a specified foreign entity has the authority to appoint a covered officer of such entity,
+
+(bb) a single specified foreign entity required to report its beneficial ownership under Rule 13d-3 of the Securities and 1 Exchange Act of 1934 (or, in the case of an exchange or market described in clause (i)(I)(cc), an equivalent rule) owns not less than 25 percent of such entity, or
+
+(cc) 1 or more specified foreign entities that are each required to report their beneficial ownership under Rule 13d-3 of the Securities and 1 Exchange Act of 1934 own, in the aggregate, not less than 40 percent of such entity, or
+
+(aa) during calendar year 2026, 50 percent,
+
+(bb) during calendar year 2027, 60 percent,
+
+(cc) during calendar year 2028, 70 percent,
+
+(dd) during calendar year 2029, 80 percent, and
+
+(ee) after December 31, 2029 , 85 percent,
+
+(aa) during calendar year 2026, 85 percent, and
+
+(bb) during calendar year 2027, 90 percent,
+
+(aa) during calendar year 2026, 50 percent,
+
+(bb) during calendar year 2027, 55 percent,
+
+(cc) during calendar year 2028, 60 percent,
+
+(dd) during calendar year 2029, 65 percent, and
+
+(ee) after December 31, 2029 , 70 percent,
+
+(aa) during calendar year 2026, 60 percent,
+
+(bb) during calendar year 2027, 65 percent,
+
+(cc) during calendar year 2028, 70 percent,
+
+(dd) during calendar year 2029, 80 percent, and
+
+(ee) after December 31, 2029 , 85 percent, and
+
+(aa) after December 31, 2025 , and before January 1, 2030 , 0 percent,
+
+(bb) during calendar year 2030, 25 percent,
+
+(cc) during calendar year 2031, 30 percent,
+
+(dd) during calendar year 2032, 40 percent, and
+
+(ee) after December 31, 2032 , 50 percent.
+
+(aa) domestic geographic availability,
+
+(bb) supply chain constraints,
+
+(cc) domestic processing capacity needs, and
+
+(dd) national security concerns.
+
+(aa) the total direct costs to the taxpayer attributable to all manufactured products (including components) which are incorporated into the qualified facility or energy storage technology upon completion of construction, minus
+
+(bb) the total direct costs to the taxpayer attributable to all manufactured products (including components) which are— (AA) incorporated into the qualified facility or energy storage technology upon completion of construction, and (BB) mined, produced, or manufactured by a prohibited foreign entity, divided by
+
+(aa) with respect to an eligible component, the total direct material costs that are paid or incurred (within the meaning of section 461 and any regulations issued under section 263A) by the taxpayer for production of such eligible component, minus
+
+(bb) with respect to an eligible component, the total direct material costs that are paid or incurred (within the meaning of section 461 and any regulations issued under section 263A) by the taxpayer for production of such eligible component that are mined, produced, or manufactured by a prohibited foreign entity, divided by
+
+(aa) identify the percentage of total direct costs of any manufactured product which is attributable to a prohibited foreign entity,
+
+(bb) identify the percentage of total direct material costs of any eligible component which is attributable to a prohibited foreign entity, and
+
+(cc) provide all rules necessary to determine the amount of a taxpayer’s material assistance from a prohibited foreign entity within the meaning of this paragraph.
+
+(aa) use the tables included in Internal Revenue Service Notice 2025–08 to establish the percentage of the total direct costs of any listed eligible component and any manufactured product, and
+
+(bb) rely on a certification by the supplier of the manufactured product, eligible component, or constituent element, material, or subcomponent of an eligible component— (AA) of the total direct costs or the total direct material costs, as applicable, of such product or component that was not produced or manufactured by a prohibited foreign entity, or (BB) that such product or component was not produced or manufactured by a prohibited foreign entity.
+
+(aa) if the taxpayer knows (or has reason to know) that a manufactured product or eligible component was produced or manufactured by a prohibited foreign entity, the taxpayer shall treat all direct costs with respect to such manufactured product, or all direct material costs with respect to such eligible component, as attributable to a prohibited foreign entity, and
+
+(bb) if the taxpayer knows (or has reason to know) that the certification referred to in subclause (II)(bb) pertaining to a manufactured product or eligible component is inaccurate, the taxpayer may not rely on such certification.
+
+(aa) include— (AA) the supplier’s employer identification number, or (BB) any such similar identification number issued by a foreign government,
+
+(bb) be signed under penalties of perjury,
+
+(cc) be retained by the supplier and the taxpayer for a period of not less than 6 years and shall be provided to the Secretary upon request, and
+
+(dd) be from the supplier from which the taxpayer purchased any manufactured product, eligible component, or constituent elements, materials, or subcomponents of an eligible component, stating— (AA) that such property was not produced or manufactured by a prohibited foreign entity and that the supplier does not know (or have reason to know) that any prior supplier in the chain of production of that property is a prohibited foreign entity, (BB) for purposes of section 45X, the total direct material costs for each component, constituent element, material, or subcomponent that were not produced or manufactured by a prohibited foreign entity, or (CC) for purposes of section 45Y or section 48E, the total direct costs attributable to all manufactured products that were not produced or manufactured by a prohibited foreign entity.
+
+(aa) placed into service before January 1, 2030 (or, in the case of an applicable facility, as defined in section 45Y(d)(4)(B), before January 1, 2028 ) in a facility the construction of which began before August 1, 2025 , or
+
+(bb) in the case of a constituent element, material, or subcomponent, used in a product sold before January 1, 2030 ,
+
+Current year
+
+1st preceding year
+
+2nd preceding year
+
+In general
+
+Fuel taxes
+
+In general
+
+Presence
+
+“The Secretary of the Treasury may by regulations or other administrative guidance provide that the amendments made by section 1907(a) of the Small Business Job Protection Act of 1996 [ Pub. L. 104–188 , amending this section] shall not apply to a trust with respect to a reasonable period beginning on the date of the enactment of such Act [ Aug. 20, 1996 ], if—
+
+In general
+
+Transitional rule for applying substantial presence test.—
+
+Transitional rule for applying lawful residence test
+
+In General
+
+Definitions
+
+Contract
+
+Corporation
+
+Effective Date
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 911; [Pub. L. 86–70, § 22(g)](https://www.govinfo.gov/link/plaw/86/public/70), (h), June 25, 1959, [73 Stat. 146](https://www.govinfo.gov/link/statute/73/146); [Pub. L. 86–624, § 18(i)](https://www.govinfo.gov/link/plaw/86/public/624), (j), July 12, 1960, [74 Stat. 416](https://www.govinfo.gov/link/statute/74/416); [Pub. L. 86–778, title I, § 103(t)](https://www.govinfo.gov/link/plaw/86/public/778), Sept. 13, 1960, [74 Stat. 941](https://www.govinfo.gov/link/statute/74/941); [Pub. L. 87–834](https://www.govinfo.gov/link/plaw/87/public/834), §§ 6(c), 7(h), Oct. 16, 1962, [76 Stat. 982](https://www.govinfo.gov/link/statute/76/982), 988; [Pub. L. 87–870, § 5(a)](https://www.govinfo.gov/link/plaw/87/public/870), Oct. 23, 1962, [76 Stat. 1161](https://www.govinfo.gov/link/statute/76/1161); [Pub. L. 88–272, title II](https://www.govinfo.gov/link/plaw/88/public/272), §§ 204(a)(3), 234(b)(3), Feb. 26, 1964, [78 Stat. 36](https://www.govinfo.gov/link/statute/78/36), 114; [Pub. L. 89–368, title I, § 102(b)(5)](https://www.govinfo.gov/link/plaw/89/public/368), Mar. 15, 1966, [80 Stat. 64](https://www.govinfo.gov/link/statute/80/64); [Pub. L. 89–809, title I, § 103](https://www.govinfo.gov/link/plaw/89/public/809) (l)(1), Nov. 13, 1966, [80 Stat. 1554](https://www.govinfo.gov/link/statute/80/1554); [Pub. L. 90–364, title I, § 103(e)(6)](https://www.govinfo.gov/link/plaw/90/public/364), June 28, 1968, [82 Stat. 264](https://www.govinfo.gov/link/statute/82/264); [Pub. L. 91–172, title IV, § 432(c)](https://www.govinfo.gov/link/plaw/91/public/172), (d), title IX, § 960(j), Dec. 30, 1969, [83 Stat. 622](https://www.govinfo.gov/link/statute/83/622), 623, 735; [Pub. L. 92–606, § 1(f)(4)](https://www.govinfo.gov/link/plaw/92/public/606), Oct. 31, 1972, [86 Stat. 1497](https://www.govinfo.gov/link/statute/86/1497); [Pub. L. 93–406, title III, § 3043](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 1003](https://www.govinfo.gov/link/statute/88/1003); [Pub. L. 94–455, title XII, § 1203(a)](https://www.govinfo.gov/link/plaw/94/public/455), title XIX, § 1906(a)(57), (b)(13)(A), (c)(3), Oct. 4, 1976, [90 Stat. 1688](https://www.govinfo.gov/link/statute/90/1688), 1832, 1834, 1835; [Pub. L. 95–600, title I, § 157(k)(2)](https://www.govinfo.gov/link/plaw/95/public/600), title VII, § 701(cc)(2), Nov. 6, 1978, [92 Stat. 2809](https://www.govinfo.gov/link/statute/92/2809), 2923; [Pub. L. 97–34, title VII, § 725(c)(4)](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 346](https://www.govinfo.gov/link/statute/95/346); [Pub. L. 97–248, title II, § 201(d)(10)](https://www.govinfo.gov/link/plaw/97/public/248), formerly § 201(c)(10), title III, §§ 307(a)(17), 308(a), 336(a), Sept. 3, 1982, [96 Stat. 421](https://www.govinfo.gov/link/statute/96/421), 590, 591, 628, renumbered § 201(d)(10) and amended [Pub. L. 97–448, title III, § 306(a)(1)(A)(i)](https://www.govinfo.gov/link/plaw/97/public/448), (b)(3), Jan. 12, 1983, [96 Stat. 2400](https://www.govinfo.gov/link/statute/96/2400), 2406; [Pub. L. 97–449, § 5(e)](https://www.govinfo.gov/link/plaw/97/public/449), Jan. 12, 1983, [96 Stat. 2442](https://www.govinfo.gov/link/statute/96/2442); [Pub. L. 97–473, title II, § 203](https://www.govinfo.gov/link/plaw/97/public/473), Jan. 14, 1983, [96 Stat. 2611](https://www.govinfo.gov/link/statute/96/2611); [Pub. L. 98–67, title I](https://www.govinfo.gov/link/plaw/98/public/67), §§ 102(a), 104(d)(1), Aug. 5, 1983, [97 Stat. 369](https://www.govinfo.gov/link/statute/97/369), 379; [Pub. L. 98–216, § 3(c)(2)](https://www.govinfo.gov/link/plaw/98/public/216), Feb. 14, 1984, [98 Stat. 6](https://www.govinfo.gov/link/statute/98/6); [Pub. L. 98–369, div. A, title I](https://www.govinfo.gov/link/plaw/98/public/369), §§ 31(e), 43(a)(1), 53(c), 75(c), 138(a), title IV, §§ 412(b)(11), 422(d)(3), 474(r)(29)(K), 491(d)(53), title V, § 526(c)(1), July 18, 1984, [98 Stat. 518](https://www.govinfo.gov/link/statute/98/518), 558, 567, 595, 672, 792, 798, 845, 852, 874; [Pub. L. 98–443, § 9(q)](https://www.govinfo.gov/link/plaw/98/public/443), Oct. 4, 1984, [98 Stat. 1708](https://www.govinfo.gov/link/statute/98/1708); [Pub. L. 99–514, title II, § 201(c)](https://www.govinfo.gov/link/plaw/99/public/514), (d)(14), title VI, §§ 671(b)(3), 673, title XI, §§ 1137, 1147(a), 1166(a), title XVIII, §§ 1802(a)(9)(C), 1810(l)(1)–(5)(A), 1842(d), 1899A(63), (64), Oct. 22, 1986, [100 Stat. 2138](https://www.govinfo.gov/link/statute/100/2138), 2142, 2317, 2319, 2486, 2493, 2511, 2790, 2830–2832, 2853, 2962; [Pub. L. 100–202, § 101(m) [title VI, § 624(a)]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–390](https://www.govinfo.gov/link/statute/101/1329), 1329–429; [Pub. L. 100–647, § 1(c)](https://www.govinfo.gov/link/plaw/100/public/647), title I, §§ 1001(d)(2)(D), 1002(a)(2), 1006(t)(12), (25)(A), 1011A(m)(1), 1011B(e), 1018(g)(3), Nov. 10, 1988, [102 Stat. 3342](https://www.govinfo.gov/link/statute/102/3342), 3351, 3352, 3422, 3426, 3483, 3489, 3583; [Pub. L. 101–194, title VI, § 602](https://www.govinfo.gov/link/plaw/101/public/194), Nov. 30, 1989, [103 Stat. 1762](https://www.govinfo.gov/link/statute/103/1762); [Pub. L. 101–508, title XI](https://www.govinfo.gov/link/plaw/101/public/508), §§ 11704(a)(34), 11812(b)(13), Nov. 5, 1990, [104 Stat. 1388–519](https://www.govinfo.gov/link/statute/104/1388), 1388–536; [Pub. L. 102–90, title III, § 314(e)](https://www.govinfo.gov/link/plaw/102/public/90), Aug. 14, 1991, [105 Stat. 470](https://www.govinfo.gov/link/statute/105/470); [Pub. L. 102–318, title V, § 521(b)(43)](https://www.govinfo.gov/link/plaw/102/public/318), July 3, 1992, [106 Stat. 313](https://www.govinfo.gov/link/statute/106/313); [Pub. L. 103–66, title XIII, § 13238](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 508](https://www.govinfo.gov/link/statute/107/508); [Pub. L. 103–296, title III, § 320(a)(3)](https://www.govinfo.gov/link/plaw/103/public/296), Aug. 15, 1994, [108 Stat. 1535](https://www.govinfo.gov/link/statute/108/1535); [Pub. L. 104–88, title III, § 304(e)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 944](https://www.govinfo.gov/link/statute/109/944); [Pub. L. 104–188, title I](https://www.govinfo.gov/link/plaw/104/public/188), §§ 1402(b)(3), 1621(b)(8), (9), 1907(a)(1), (2), Aug. 20, 1996, [110 Stat. 1790](https://www.govinfo.gov/link/statute/110/1790), 1867, 1916; [Pub. L. 105–34, title XI](https://www.govinfo.gov/link/plaw/105/public/34), §§ 1151(a), 1174(b), title XVI, § 1601(i)(3)(A), Aug. 5, 1997, [111 Stat. 986](https://www.govinfo.gov/link/statute/111/986), 989, 1093; [Pub. L. 106–554, § 1(a)(7) [title IV, § 401(i)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–650; [Pub. L. 107–16, title V, § 542(e)(3)](https://www.govinfo.gov/link/plaw/107/public/16), June 7, 2001, [115 Stat. 85](https://www.govinfo.gov/link/statute/115/85); [Pub. L. 108–311, title II, § 207(24)](https://www.govinfo.gov/link/plaw/108/public/311), Oct. 4, 2004, [118 Stat. 1178](https://www.govinfo.gov/link/statute/118/1178); [Pub. L. 108–357, title VIII](https://www.govinfo.gov/link/plaw/108/public/357), §§ 804(b), 835(b)(10), (11), 852(a), Oct. 22, 2004, [118 Stat. 1570](https://www.govinfo.gov/link/statute/118/1570), 1594, 1609; [Pub. L. 109–135, title IV, § 403(v)(2)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2628](https://www.govinfo.gov/link/statute/119/2628); [Pub. L. 109–280, title XII](https://www.govinfo.gov/link/plaw/109/public/280), §§ 1207(f), 1222, Aug. 17, 2006, [120 Stat. 1071](https://www.govinfo.gov/link/statute/120/1071), 1089; [Pub. L. 110–28, title VIII, § 8246(a)(1)](https://www.govinfo.gov/link/plaw/110/public/28), May 25, 2007, [121 Stat. 200](https://www.govinfo.gov/link/statute/121/200); [Pub. L. 110–245, title III, § 301(c)(1)](https://www.govinfo.gov/link/plaw/110/public/245), (2)(B), (C), June 17, 2008, [122 Stat. 1646](https://www.govinfo.gov/link/statute/122/1646); [Pub. L. 111–152, title I, § 1409(a)](https://www.govinfo.gov/link/plaw/111/public/152), Mar. 30, 2010, [124 Stat. 1067](https://www.govinfo.gov/link/statute/124/1067); [Pub. L. 111–312, title III, § 301(a)](https://www.govinfo.gov/link/plaw/111/public/312), Dec. 17, 2010, [124 Stat. 3300](https://www.govinfo.gov/link/statute/124/3300); [Pub. L. 113–295, div. A, title II, § 221(a)(119)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4055](https://www.govinfo.gov/link/statute/128/4055); [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 11051(b)(4), 13304(a)(2)(F), Dec. 22, 2017, [131 Stat. 2090](https://www.govinfo.gov/link/statute/131/2090), 2125; [Pub. L. 115–141, div. U, title IV, § 401(a)(331)](https://www.govinfo.gov/link/plaw/115/public/141), (332), (b)(54), (55), Mar. 23, 2018, [132 Stat. 1200](https://www.govinfo.gov/link/statute/132/1200), 1205; [Pub. L. 117–169, title I, § 13102(n)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 1920](https://www.govinfo.gov/link/statute/136/1920); [Pub. L. 117–286, § 4(c)(33)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4358](https://www.govinfo.gov/link/statute/136/4358); [Pub. L. 119–21, title VII, § 70512(c)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 253](https://www.govinfo.gov/link/statute/139/253).)*

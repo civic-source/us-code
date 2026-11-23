@@ -3,9 +3,10 @@ title: "Section 2454 - Administration"
 usc_title: 22
 usc_section: "2454"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2454"
-generated_at: "2026-03-30T02:55:05.369Z"
+generated_at: "2026-11-23T20:26:32.304Z"
+status: "active"
 ---
 
 # § 2454. Administration
@@ -26,3 +27,47 @@ generated_at: "2026-03-30T02:55:05.369Z"
   - **(3)** The total amount of United States dollars acquired by any individual through currency exchanges under the authority of section 2452(b)(10) of this title shall in no event exceed $3,000 during any academic year.
   - **(4)** An individual shall be eligible to exchange foreign currency for United States dollars at United States embassies under section 2452(b)(10) of this title only if he gives satisfactory assurances that (A) he will devote essentially full time to his proposed educational activity in the United States and will maintain good standing in relation to such program; (B) he will return to the country of his citizenship or nationality prior to coming to the United States and will render such public service as is determined acceptable for a period of time determined reasonable and necessary by the government of such country; and (C) he will not apply for an immigrant visa or for permanent residence or for a nonimmigrant visa under the Immigration and Nationality Act [ 8 U.S.C. 1101 et seq.] after having received any benefits under such section for a period of time equal to the period of study, research, instruction, or other educational activity he performed pursuant to such section.
   - **(5)** As used in section 2452(b)(10) of this title , the term “excess foreign currencies” means foreign currencies, which if acquired by the United States (A) would be in excess of the normal requirements of departments, agencies, and embassies of the United States for such currencies, as determined by the President, and (B) would be available for the use of the United States Government under applicable agreements with the foreign country concerned.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Section
+
+Sec
+
+Sec
+
+Lyndon B. Johnson.
+
+Section
+
+Sec
+
+Sec
+
+Richard Nixon.
+
+## Source Credit
+
+*([Pub. L. 87–256, § 104](https://www.govinfo.gov/link/plaw/87/public/256), Sept. 21, 1961, [75 Stat. 529](https://www.govinfo.gov/link/statute/75/529); [Pub. L. 87–793, § 1001(j)](https://www.govinfo.gov/link/plaw/87/public/793), Oct. 11, 1962, [76 Stat. 865](https://www.govinfo.gov/link/statute/76/865); [Pub. L. 89–698, title II, § 203(b)](https://www.govinfo.gov/link/plaw/89/public/698), Oct. 29, 1966, [80 Stat. 1071](https://www.govinfo.gov/link/statute/80/1071); 1977 Reorg. Plan No. 2, § 7(a)(2), 42 F.R. 62461, [91 Stat. 1637](https://www.govinfo.gov/link/statute/91/1637); [Pub. L. 95–426, title II, § 204(a)](https://www.govinfo.gov/link/plaw/95/public/426), Oct. 7, 1978, [92 Stat. 973](https://www.govinfo.gov/link/statute/92/973); [Pub. L. 96–60, title II, § 203(a)(1)](https://www.govinfo.gov/link/plaw/96/public/60), Aug. 15, 1979, [93 Stat. 398](https://www.govinfo.gov/link/statute/93/398); [Pub. L. 96–465, title II](https://www.govinfo.gov/link/plaw/96/public/465), §§ 2205(7), 2206(a)(9), Oct. 17, 1980, [94 Stat. 2160](https://www.govinfo.gov/link/statute/94/2160), 2162; [Pub. L. 97–241, title III, § 303(b)](https://www.govinfo.gov/link/plaw/97/public/241), Aug. 24, 1982, [96 Stat. 291](https://www.govinfo.gov/link/statute/96/291); [Pub. L. 103–236, title II, § 231](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 424](https://www.govinfo.gov/link/statute/108/424).)*

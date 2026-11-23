@@ -3,9 +3,10 @@ title: "Section 3504 - General authorities; fiscal requirement for authorities"
 usc_title: 22
 usc_section: "3504"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3504"
-generated_at: "2026-03-30T02:55:05.394Z"
+generated_at: "2026-11-23T20:26:32.462Z"
+status: "active"
 ---
 
 # § 3504. General authorities; fiscal requirement for authorities
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:05.394Z"
   - **(11)** adopt, alter, and use an official seal for the Institute, which shall be judicially noticed; and
   - **(12)** take such other actions as may be necessary and incident to carrying out the functions of the Institute.
 - **(b)** Any authority provided by this section involving the expenditure of appropriated funds shall be effective for a fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
+
+## Source Credit
+
+*([Pub. L. 96–53, title IV, § 404](https://www.govinfo.gov/link/plaw/96/public/53), Aug. 14, 1979, [93 Stat. 373](https://www.govinfo.gov/link/statute/93/373).)*

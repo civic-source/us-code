@@ -3,9 +3,10 @@ title: "Section 760 - Declaration of purpose"
 usc_title: 29
 usc_section: "760"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 760"
-generated_at: "2026-03-30T02:55:18.694Z"
+generated_at: "2026-11-23T20:26:37.857Z"
+status: "active"
 ---
 
 # § 760. Declaration of purpose
@@ -26,3 +27,7 @@ The purpose of this subchapter is to—
   - **(6)** identify strategies for effective coordination of services to job seekers with disabilities available through programs of one-stop partners, as defined in section 3102 of this title ;
   - **(7)** increase opportunities for researchers who are members of traditionally underserved populations, including researchers who are members of minority groups and researchers who are individuals with disabilities; and
   - **(8)** identify effective strategies for supporting the employment of individuals with disabilities in competitive integrated employment.
+
+## Source Credit
+
+*([Pub. L. 93–112, title II, § 200](https://www.govinfo.gov/link/plaw/93/public/112), as added [Pub. L. 105–220, title IV, § 405](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1167](https://www.govinfo.gov/link/statute/112/1167); amended [Pub. L. 105–277, div. A, § 101(f) [title VIII, § 401(16)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–412; [Pub. L. 113–128, title IV, § 431](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1660](https://www.govinfo.gov/link/statute/128/1660).)*

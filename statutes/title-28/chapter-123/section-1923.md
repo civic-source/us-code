@@ -3,9 +3,10 @@ title: "Section 1923 - Docket fees and costs of briefs"
 usc_title: 28
 usc_section: "1923"
 chapter: 123
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 1923"
-generated_at: "2026-03-30T02:55:30.146Z"
+generated_at: "2026-11-23T20:26:36.486Z"
+status: "active"
 ---
 
 # § 1923. Docket fees and costs of briefs
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:30.146Z"
 - **(a)** Attorney’s and proctor’s docket fees in courts of the United States may be taxed as costs as follows: $20 on trial or final hearing (including a default judgment whether entered by the court or by the clerk) in civil, criminal, or admiralty cases, except that in cases of admiralty and maritime jurisdiction where the libellant recovers less than $50 the proctor’s docket fee shall be $10; $20 in admiralty appeals involving not over $1,000; $50 in admiralty appeals involving not over $5,000; $100 in admiralty appeals involving more than $5,000; $5 on discontinuance of a civil action; $5 on motion for judgment and other proceedings on recognizances; $2.50 for each deposition admitted in evidence.
 - **(b)** The docket fees of United States attorneys and United States trustees shall be paid to the clerk of court and by him paid into the Treasury.
 - **(c)** In admiralty appeals the court may allow as costs for printing the briefs of the successful party not more than: $25 where the amount involved is not over $1,000; $50 where the amount involved is not over $5,000; $75 where the amount involved is over $5,000.
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 956](https://www.govinfo.gov/link/statute/62/956); June 18, 1954, ch. 304, [68 Stat. 253](https://www.govinfo.gov/link/statute/68/253); [Pub. L. 95–598, title II, § 245](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2671](https://www.govinfo.gov/link/statute/92/2671).)*

@@ -3,9 +3,10 @@ title: "Section 6760 - Relationship to State law"
 usc_title: 15
 usc_section: "6760"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 6760"
-generated_at: "2026-03-30T02:54:08.215Z"
+generated_at: "2026-11-23T20:26:04.416Z"
+status: "active"
 ---
 
 # § 6760. Relationship to State law
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:08.215Z"
     - **(C)** require that a member of the Association submit to a criminal history record check as a condition of doing business in the State; or
     - **(D)** impose any licensing, registration, or appointment requirements upon a member of the Association, or require a member of the Association to be authorized to operate as an insurance producer, in order to sell, solicit, or negotiate insurance for commercial property and casualty risks to an insured with risks located in more than one State, if the member is licensed or otherwise authorized to operate in the State where the insured maintains its principal place of business and the contract of insurance insures risks located in that State.
   - **(3)** Nothing in this section may be construed to prohibit a State from investigating and taking appropriate disciplinary action, including suspension or revocation of authority of an insurance producer to do business in a State, in accordance with State law and that is not inconsistent with the provisions of this section, against a member of the Association as a result of a complaint or for any alleged activity, regardless of whether the activity occurred before or after the insurance producer commenced doing business in the State pursuant to Association membership.
+
+## Source Credit
+
+*([Pub. L. 106–102, title III, § 330](https://www.govinfo.gov/link/plaw/106/public/102), as added [Pub. L. 114–1, title II, § 202(a)](https://www.govinfo.gov/link/plaw/114/public/1), Jan. 12, 2015, [129 Stat. 25](https://www.govinfo.gov/link/statute/129/25).)*

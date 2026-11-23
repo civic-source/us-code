@@ -3,9 +3,10 @@ title: "Section 2008w - Rural Innovation Stronger Economy Grant Program"
 usc_title: 7
 usc_section: "2008w"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2008w"
-generated_at: "2026-03-30T02:53:42.357Z"
+generated_at: "2026-11-23T20:25:41.392Z"
+status: "active"
 ---
 
 # § 2008w. Rural Innovation Stronger Economy Grant Program
@@ -106,3 +107,15 @@ generated_at: "2026-03-30T02:53:42.357Z"
       - **(xvii)** improvement in income of participating workers; or
       - **(xviii)** any other measure the Secretary determines to be appropriate.
 - **(f)** There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2019 through 2023.
+
+(aa) a nonmetropolitan area that qualifies as a low-income community (as defined in section 45D(e) of title 26 ); and
+
+(bb) an area that has access to or has a plan to achieve broadband service (within the meaning of title VI of the Rural Electrification Act of 1936 ( 7 U.S.C. 950bb et seq.)); and
+
+(aa) has a population of 50,000 or fewer inhabitants; or
+
+(bb) for a region with a population of more than 50,000 inhabitants, is the subject of a positive determination by the Secretary with respect to a rural-in-character petition, including such a petition submitted concurrently with the application of the partnership for a grant under this section.
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 379I](https://www.govinfo.gov/link/plaw/87/public/128), as added [Pub. L. 115–334, title VI, § 6424](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4765](https://www.govinfo.gov/link/statute/132/4765).)*

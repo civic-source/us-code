@@ -3,9 +3,10 @@ title: "Section 364e - Labeling"
 usc_title: 21
 usc_section: "364e"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 364e"
-generated_at: "2026-03-30T02:54:54.263Z"
+generated_at: "2026-11-23T20:26:27.702Z"
+status: "active"
 ---
 
 # § 364e. Labeling
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:54.263Z"
   - **(2)** A cosmetic product introduced into interstate commerce and intended to be used only by a professional shall bear a label that—
     - **(A)** contains a clear and prominent statement that the product shall be administered or used only by licensed professionals; and
     - **(B)** is in conformity with the requirements of the Secretary for cosmetics labeling under this chapter and section 1453(a) of title 15 .
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 609, as added [Pub. L. 117–328, div. FF, title III, § 3502](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5854](https://www.govinfo.gov/link/statute/136/5854).)*

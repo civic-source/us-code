@@ -3,9 +3,10 @@ title: "Section 3063 - Designation of senior officials for biotechnology"
 usc_title: 50
 usc_section: "3063"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3063"
-generated_at: "2026-03-30T02:56:26.233Z"
+generated_at: "2026-11-23T20:27:30.906Z"
+status: "active"
 ---
 
 # § 3063. Designation of senior officials for biotechnology
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:26.233Z"
 - **(c)** Not later than 15 days after designating a senior official under this section, the head of the element of the intelligence community designating such official shall submit notice of the designation to—
   - **(1)** the congressional intelligence committees and the Committees on Appropriations of the Senate and the House of Representatives; and
   - **(2)** in the case of a designation relating to the Federal Bureau of Investigation, the Committees on the Judiciary of the Senate and the House of Representatives.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title I, § 123, as added [Pub. L. 119–60, div. F, title LXVI, § 6611(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1636](https://www.govinfo.gov/link/statute/139/1636).)*

@@ -3,9 +3,10 @@ title: "Section 1 - Energy sustainability and efficiency grants and loans for in
 usc_title: 42
 usc_section: "1"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T02:56:11.258Z"
+generated_at: "2026-11-23T20:27:22.670Z"
+status: "active"
 ---
 
 # § 6371h–1. Energy sustainability and efficiency grants and loans for institutions
@@ -114,3 +115,7 @@ generated_at: "2026-03-30T02:56:11.258Z"
 - **(i)**
   - **(1)** There is authorized to be appropriated for the cost of grants authorized in subsections (b), (c), and (d) $250,000,000 for each of fiscal years 2009 through 2013, of which not more than 5 percent may be used for administrative expenses.
   - **(2)** There is authorized to be appropriated for the initial cost of direct loans authorized in subsection (g) $500,000,000 for each of fiscal years 2009 through 2013, of which not more than 5 percent may be used for administrative expenses.
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 399A](https://www.govinfo.gov/link/plaw/94/public/163), as added [Pub. L. 110–140, title IV, § 471](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1642](https://www.govinfo.gov/link/statute/121/1642).)*

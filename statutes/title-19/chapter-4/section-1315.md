@@ -3,9 +3,10 @@ title: "Section 1315 - Effective date of rates of duty"
 usc_title: 19
 usc_section: "1315"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1315"
-generated_at: "2026-03-30T02:54:24.628Z"
+generated_at: "2026-11-23T20:26:10.735Z"
+status: "active"
 ---
 
 # § 1315. Effective date of rates of duty
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:24.628Z"
 - **(b)** Any article which has been entered for consumption but which, before release from custody of the Customs Service, is removed from the port or other place of intended release because of inaccessibility, overcarriage, strike, act of God, or unforeseen contingency, shall be subject to duty at the rate or rates in effect when the entry for consumption and any required duties were deposited in accordance with subsection (a) of this section, but only if the article is returned to such port or place within ninety days after the date of removal and the identity of the article as that covered by the entry is established in accordance with regulations prescribed by the Secretary of the Treasury.
 - **(c)** Insofar as duties are based upon the quantity of any merchandise, such duties shall, except as provided in chapter 98 of the Harmonized Tariff Schedule of the United States and section 1562 of this title (relating respectively to certain beverages and to manipulating warehouses), be levied and collected upon the quantity of such merchandise at the time of its importation.
 - **(d)** No administrative ruling resulting in the imposition of a higher rate of duty or charge than the Secretary of the Treasury shall find to have been applicable to imported merchandise under an established and uniform practice shall be effective with respect to articles entered for consumption or withdrawn from warehouse for consumption prior to the expiration of thirty days after the date of publication in the Federal Register of notice of such ruling; but this provision shall not apply with respect to the imposition of antidumping duties, or the imposition of countervailing duties under section 1303 of this title (as in effect on the day before the effective date of title II of the Uruguay Round Agreements Act) or section 1671 of this title . This subsection shall not apply with respect to increases in rates of duty resulting from the enactment of the Harmonized Tariff Schedule of the United States to replace the Tariff Schedules of the United States.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title III, § 315, [46 Stat. 695](https://www.govinfo.gov/link/statute/46/695); June 25, 1938, ch. 679, § 6, [52 Stat. 1081](https://www.govinfo.gov/link/statute/52/1081); Aug. 8, 1953, ch. 397, § 3(a), [67 Stat. 508](https://www.govinfo.gov/link/statute/67/508); [Pub. L. 91–271, title III, § 301(b)](https://www.govinfo.gov/link/plaw/91/public/271), June 2, 1970, [84 Stat. 287](https://www.govinfo.gov/link/statute/84/287); [Pub. L. 93–618, title III, § 331(c)](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 2053](https://www.govinfo.gov/link/statute/88/2053); [Pub. L. 95–410, title I, § 101](https://www.govinfo.gov/link/plaw/95/public/410), title II, § 204, Oct. 3, 1978, [92 Stat. 888](https://www.govinfo.gov/link/statute/92/888), 900; [Pub. L. 96–39, title XI, § 1106(e)](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 312](https://www.govinfo.gov/link/statute/93/312); [Pub. L. 100–418, title I, § 1213(c)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1155](https://www.govinfo.gov/link/statute/102/1155); [Pub. L. 103–182, title VI, § 633](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2198](https://www.govinfo.gov/link/statute/107/2198); [Pub. L. 103–465, title II, § 261(d)(1)(B)(i)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4909](https://www.govinfo.gov/link/statute/108/4909).)*

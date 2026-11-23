@@ -3,9 +3,10 @@ title: "Section 1552 - Earnings and profits"
 usc_title: 26
 usc_section: "1552"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1552"
-generated_at: "2026-03-30T02:55:27.778Z"
+generated_at: "2026-11-23T20:26:46.138Z"
+status: "active"
 ---
 
 # § 1552. Earnings and profits
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:27.778Z"
   - **(3)** The tax liability of the group (excluding the tax increases arising from the consolidation) shall be allocated on the basis of the contribution of each member of the group to the consolidated taxable income of the group. Any tax increases arising from the consolidation shall be distributed to the several members in direct proportion to the reduction in tax liability resulting to such members from the filing of the consolidated return as measured by the difference between their tax liabilities determined on a separate return basis and their tax liabilities based on their contributions to the consolidated taxable income.
   - **(4)** The tax liability of the group shall be allocated in accord with any other method selected by the group with the approval of the Secretary.
 - **(b)** If no election is made in such first return, the tax liability shall be allocated among the several members of the group pursuant to the method prescribed in subsection (a)(1).
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 371; [Pub. L. 88–272, title II, § 234(b)(8)](https://www.govinfo.gov/link/plaw/88/public/272), Feb. 26, 1964, [78 Stat. 116](https://www.govinfo.gov/link/statute/78/116); [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1901(a)(159), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1790](https://www.govinfo.gov/link/statute/90/1790), 1834.)*

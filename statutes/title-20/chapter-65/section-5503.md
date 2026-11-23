@@ -3,9 +3,10 @@ title: "Section 5503 - Office of Environmental Education"
 usc_title: 20
 usc_section: "5503"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 5503"
-generated_at: "2026-03-30T02:54:48.187Z"
+generated_at: "2026-11-23T20:26:14.788Z"
+status: "active"
 ---
 
 # § 5503. Office of Environmental Education
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:48.187Z"
   - **(1)** be directed by a Director who shall be a member of the Senior Executive Service;
   - **(2)** include a headquarters staff of not less than six and not more than ten full-time equivalent employees; and
   - **(3)** be supported by one full-time equivalent employee in each Agency regional office.
+
+## Source Credit
+
+*([Pub. L. 101–619, § 4](https://www.govinfo.gov/link/plaw/101/public/619), Nov. 16, 1990, [104 Stat. 3327](https://www.govinfo.gov/link/statute/104/3327).)*

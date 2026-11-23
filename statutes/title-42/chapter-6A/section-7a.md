@@ -3,9 +3,10 @@ title: "Section 7a - Youth prevention and recovery"
 usc_title: 42
 usc_section: "7a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7a"
-generated_at: "2026-03-30T02:56:10.760Z"
+generated_at: "2026-11-23T20:27:20.300Z"
+status: "active"
 ---
 
 # § 290bb–7a. Youth prevention and recovery
@@ -72,3 +73,7 @@ generated_at: "2026-03-30T02:56:10.760Z"
     - **(C)** $13,000,000 for fiscal year 2028;
     - **(D)** $14,000,000 for fiscal year 2029; and
     - **(E)** $15,000,000 for fiscal year 2030.
+
+## Source Credit
+
+*([Pub. L. 115–271, title VII, § 7102](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 4038](https://www.govinfo.gov/link/statute/132/4038); [Pub. L. 119–44, title I, § 110(a)](https://www.govinfo.gov/link/plaw/119/public/44), title III, § 304, Dec. 1, 2025, [139 Stat. 677](https://www.govinfo.gov/link/statute/139/677), 685.)*

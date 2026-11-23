@@ -3,9 +3,10 @@ title: "Section 1753 - Relation to other laws"
 usc_title: 30
 usc_section: "1753"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1753"
-generated_at: "2026-03-30T02:55:29.410Z"
+generated_at: "2026-11-23T20:26:35.066Z"
+status: "active"
 ---
 
 # § 1753. Relation to other laws
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:29.410Z"
 - **(b)** Nothing in this chapter shall be construed to reduce the responsibilities of the Secretary to ensure prompt and proper collection of revenues from coal, uranium and other energy and nonenergy minerals on Federal and Indian lands, or to restrain the Secretary from entering into cooperative agreements or other appropriate arrangements with States and Indian tribes to share royalty management responsibilities and activities for such minerals under existing authorities.
 - **(c)** Nothing in this chapter shall be construed to enlarge, diminish, or otherwise affect the authority or responsibility of the Inspector General of the Department of the Interior or of the Comptroller General of the United States.
 - **(d)** No provision of this chapter impairs or affects lands and interests in land entrusted to the Tennessee Valley Authority.
+
+## Source Credit
+
+*([Pub. L. 97–451, title III, § 304](https://www.govinfo.gov/link/plaw/97/public/451), Jan. 12, 1983, [96 Stat. 2461](https://www.govinfo.gov/link/statute/96/2461); [Pub. L. 105–362, title IX, § 901(j)(2)](https://www.govinfo.gov/link/plaw/105/public/362), Nov. 10, 1998, [112 Stat. 3290](https://www.govinfo.gov/link/statute/112/3290).)*

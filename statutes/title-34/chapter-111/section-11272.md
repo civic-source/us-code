@@ -3,9 +3,10 @@ title: "Section 11272 - Lease of surplus Federal facilities for use as runaway a
 usc_title: 34
 usc_section: "11272"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 11272"
-generated_at: "2026-03-30T02:55:33.280Z"
+generated_at: "2026-11-23T20:26:50.521Z"
+status: "active"
 ---
 
 # § 11272. Lease of surplus Federal facilities for use as runaway and homeless youth centers or as transitional living youth shelter facilities
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:33.280Z"
 - **(b)**
   - **(1)** Each facility made available under this section shall be made available for a period of not less than 2 years, and no rent or fee shall be charged to the applicant in connection with use of such facility.
   - **(2)** Any structural modifications or additions to facilities made available under this section shall become the property of the United States. All such modifications or additions may be made only after receiving the prior written consent of the Secretary or other appropriate officer of the Department of Health and Human Services.
+
+## Source Credit
+
+*([Pub. L. 93–415, title III, § 381](https://www.govinfo.gov/link/plaw/93/public/415), formerly § 316, as added [Pub. L. 98–473, title II, § 655(2)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2124](https://www.govinfo.gov/link/statute/98/2124); renumbered § 342 and amended [Pub. L. 100–690, title VII, § 7273(b)](https://www.govinfo.gov/link/plaw/100/public/690), (e)(2), Nov. 18, 1988, [102 Stat. 4454](https://www.govinfo.gov/link/statute/102/4454), 4455; renumbered § 372, [Pub. L. 102–586, § 3(g)(1)(B)(ii)](https://www.govinfo.gov/link/plaw/102/public/586), Nov. 4, 1992, [106 Stat. 5022](https://www.govinfo.gov/link/statute/106/5022); [Pub. L. 105–277, div. A, § 101(b) [title I, § 129(a)(2)(E)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–50](https://www.govinfo.gov/link/statute/112/2681), 2681–76; renumbered § 381, [Pub. L. 106–71, § 3(q)](https://www.govinfo.gov/link/plaw/106/public/71), Oct. 12, 1999, [113 Stat. 1042](https://www.govinfo.gov/link/statute/113/1042).)*

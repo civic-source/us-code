@@ -3,12 +3,17 @@ title: "Section 894b - Rights of the victim of a sexual assault"
 usc_title: 33
 usc_section: "894b"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 894b"
-generated_at: "2026-03-30T02:55:41.075Z"
+generated_at: "2026-11-23T20:26:53.930Z"
+status: "active"
 ---
 
 # § 894b. Rights of the victim of a sexual assault
 
 A victim of a sexual assault covered by the comprehensive policy developed under section 894a(a) of this title has the right to be reasonably protected from the accused.
 
+
+## Source Credit
+
+*([Pub. L. 114–328, div. C, title XXXV, § 3543](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2803](https://www.govinfo.gov/link/statute/130/2803).)*

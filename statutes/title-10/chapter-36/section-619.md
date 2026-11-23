@@ -3,9 +3,10 @@ title: "Section 619 - Eligibility for consideration for promotion: time-in-grade
 usc_title: 10
 usc_section: "619"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 619"
-generated_at: "2026-03-30T02:53:38.068Z"
+generated_at: "2026-11-23T20:25:51.017Z"
+status: "active"
 ---
 
 # § 619. Eligibility for consideration for promotion: time-in-grade and other requirements
@@ -53,3 +54,17 @@ generated_at: "2026-03-30T02:53:38.068Z"
     - **(A)** the basis for the request is to allow an officer to complete a broadening assignment, advanced education, another assignment of significant value to the Department, training, or a career progression requirement delayed by the assignment, education, or training;
     - **(B)** the Secretary determines the exclusion from consideration is in the best interest of the military department concerned; and
     - **(C)** the officer has not previously failed of selection for promotion to the grade for which the officer requests the exclusion from consideration.
+
+Time-in-Grade Requirements
+
+Continued Eligibility for Consideration for Promotion of Officers Who Have Previously Failed of Selection
+
+Officers To Be Considered by Promotion Boards
+
+Certain Officers Not To Be Considered
+
+Authority To Allow Officers To Opt Out of Selection Board Consideration
+
+## Source Credit
+
+*(Added [Pub. L. 96–513, title I, § 105](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2854](https://www.govinfo.gov/link/statute/94/2854); amended [Pub. L. 97–22, § 4(c)](https://www.govinfo.gov/link/plaw/97/public/22), July 10, 1981, [95 Stat. 126](https://www.govinfo.gov/link/statute/95/126); [Pub. L. 97–86, title IV, § 405(b)(1)](https://www.govinfo.gov/link/plaw/97/public/86), Dec. 1, 1981, [95 Stat. 1105](https://www.govinfo.gov/link/statute/95/1105); [Pub. L. 98–525, title V](https://www.govinfo.gov/link/plaw/98/public/525), §§ 525(a), (b), 529(a), Oct. 19, 1984, [98 Stat. 2524](https://www.govinfo.gov/link/statute/98/2524), 2525, 2526; [Pub. L. 99–145, title V, § 514(b)(1)](https://www.govinfo.gov/link/plaw/99/public/145), Nov. 8, 1985, [99 Stat. 628](https://www.govinfo.gov/link/statute/99/628); [Pub. L. 99–433, title IV, § 404](https://www.govinfo.gov/link/plaw/99/public/433), Oct. 1, 1986, [100 Stat. 1032](https://www.govinfo.gov/link/statute/100/1032); [Pub. L. 100–180, div. A, title XIII](https://www.govinfo.gov/link/plaw/100/public/180), §§ 1305(a), 1314(b)(4), Dec. 4, 1987, [101 Stat. 1173](https://www.govinfo.gov/link/statute/101/1173), 1175; [Pub. L. 100–456, div. A, title V, § 515(a)(1)](https://www.govinfo.gov/link/plaw/100/public/456), (b), Sept. 29, 1988, [102 Stat. 1970](https://www.govinfo.gov/link/statute/102/1970); [Pub. L. 102–190, div. A, title V, § 504(d)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1357](https://www.govinfo.gov/link/statute/105/1357); [Pub. L. 103–160, div. A, title IX, § 931(b)](https://www.govinfo.gov/link/plaw/103/public/160), (c)(1), Nov. 30, 1993, [107 Stat. 1734](https://www.govinfo.gov/link/statute/107/1734); [Pub. L. 103–337, div. A, title X, § 1070(b)(7)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2857](https://www.govinfo.gov/link/statute/108/2857); [Pub. L. 105–85, div. A, title V, § 503(a)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1724](https://www.govinfo.gov/link/statute/111/1724); [Pub. L. 107–107, div. A, title V](https://www.govinfo.gov/link/plaw/107/public/107), §§ 504, 505(c)(1)(A), Dec. 28, 2001, [115 Stat. 1085](https://www.govinfo.gov/link/statute/115/1085), 1087; [Pub. L. 108–375, div. A, title V, § 501(a)(3)(B)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1873](https://www.govinfo.gov/link/statute/118/1873); [Pub. L. 109–364, div. A, title V, § 506](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2179](https://www.govinfo.gov/link/statute/120/2179); [Pub. L. 115–232, div. A, title V, § 505(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1742](https://www.govinfo.gov/link/statute/132/1742); [Pub. L. 116–283, div. A, title IX, § 924(b)(3)(E)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3821](https://www.govinfo.gov/link/statute/134/3821); [Pub. L. 117–81, div. A, title V, § 502](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1680](https://www.govinfo.gov/link/statute/135/1680); [Pub. L. 118–31, div. A, title XVII, § 1722(b)(3)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 668](https://www.govinfo.gov/link/statute/137/668); [Pub. L. 118–159, div. A, title V](https://www.govinfo.gov/link/plaw/118/public/159), §§ 503(b), 505(a)(1), Dec. 23, 2024, [138 Stat. 1868](https://www.govinfo.gov/link/statute/138/1868), 1869.)*

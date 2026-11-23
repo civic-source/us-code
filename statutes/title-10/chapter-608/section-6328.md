@@ -3,9 +3,10 @@ title: "Section 6328 - Cost-benefit analyses for competition of management and o
 usc_title: 10
 usc_section: "6328"
 chapter: 608
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6328"
-generated_at: "2026-03-30T02:53:38.226Z"
+generated_at: "2026-11-23T20:25:52.030Z"
+status: "active"
 ---
 
 # § 6328. Cost-benefit analyses for competition of management and operating contracts
@@ -40,3 +41,29 @@ generated_at: "2026-03-30T02:53:38.226Z"
 - **(f)**
   - **(1)** The requirements for briefings under subsection (a) and reports under subsection (b) shall apply with respect to requests for proposals issued or contracts awarded, as applicable, by the Administrator during fiscal years 2019 through 2032.
   - **(2)** The requirements for briefings under subsection (a) and reports under subsection (b) shall not apply with respect to a management and operations contract for a Naval Reactor facility.
+
+Briefings on Requests for Proposals
+
+Reports After Transition to New Contracts
+
+Matters Described
+
+Information Quality
+
+Review of Reports by Comptroller General of the United States
+
+Applicability
+
+“Determination”, “Initial review”
+
+“Submission”
+
+“Elements”
+
+“In general”
+
+“Naval reactors”
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2), Dec. 18, 2025, [139 Stat. 1446](https://www.govinfo.gov/link/statute/139/1446), 1462.)*

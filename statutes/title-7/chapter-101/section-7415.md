@@ -3,9 +3,10 @@ title: "Section 7415 - Permissive terms in orders"
 usc_title: 7
 usc_section: "7415"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7415"
-generated_at: "2026-03-30T02:53:42.451Z"
+generated_at: "2026-11-23T20:25:41.779Z"
+status: "active"
 ---
 
 # § 7415. Permissive terms in orders
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:42.451Z"
 - **(g)** An order issued under this subchapter may contain authority to take any other action that—
   - **(1)** is not inconsistent with the purpose of this subchapter, any term or condition specified in section 7414 of this title , or any rule issued to carry out this subchapter; and
   - **(2)** is necessary to administer the order.
+
+## Source Credit
+
+*([Pub. L. 104–127, title V, § 516](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1041](https://www.govinfo.gov/link/statute/110/1041).)*

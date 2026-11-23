@@ -3,9 +3,10 @@ title: "Section 1831m - Early identification of needed improvements in financial
 usc_title: 12
 usc_section: "1831m"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1831m"
-generated_at: "2026-03-30T02:53:53.458Z"
+generated_at: "2026-11-23T20:25:59.167Z"
+status: "active"
 ---
 
 # § 1831m. Early identification of needed improvements in financial management
@@ -91,3 +92,11 @@ generated_at: "2026-03-30T02:53:53.458Z"
 - **(j)** This section shall not apply with respect to any fiscal year of any insured depository institution the total assets of which, as of the beginning of such fiscal year, are less than the greater of—
   - **(1)** $150,000,000; or
   - **(2)** such amount (in excess of $150,000,000) as the Corporation may prescribe by regulation.
+
+In general
+
+Attestation requirements
+
+## Source Credit
+
+*(Sept. 21, 1950, ch. 967, § 2 [36], as added [Pub. L. 102–242, title I, § 112(a)](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2242](https://www.govinfo.gov/link/statute/105/2242); amended [Pub. L. 102–550, title XVI, § 1603(b)(3)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 4079](https://www.govinfo.gov/link/statute/106/4079); [Pub. L. 103–325, title III, § 314](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2221](https://www.govinfo.gov/link/statute/108/2221); [Pub. L. 104–208, div. A, title II](https://www.govinfo.gov/link/plaw/104/public/208), §§ 2301, 2704(d)(14)(Z), Sept. 30, 1996, [110 Stat. 3009–419](https://www.govinfo.gov/link/statute/110/3009), 3009–494; [Pub. L. 109–171, title II, § 2102(b)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 9](https://www.govinfo.gov/link/statute/120/9); [Pub. L. 109–173, § 8(a)(34)](https://www.govinfo.gov/link/plaw/109/public/173), Feb. 15, 2006, [119 Stat. 3615](https://www.govinfo.gov/link/statute/119/3615).)*

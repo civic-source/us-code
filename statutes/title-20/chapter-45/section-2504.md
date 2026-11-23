@@ -3,9 +3,10 @@ title: "Section 2504 - Prerequisites for State participation"
 usc_title: 20
 usc_section: "2504"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 2504"
-generated_at: "2026-03-30T02:54:48.176Z"
+generated_at: "2026-11-23T20:26:14.713Z"
+status: "active"
 ---
 
 # § 2504. Prerequisites for State participation
@@ -18,3 +19,7 @@ Any State desiring to receive the amount for which it is eligible for any fiscal
   - **(4)** the development of training programs, including inservice training programs, for teachers, counselors, other educators, and administrators;
   - **(5)** fostering cooperative arrangements with such community groups and agencies as the public employment services, vocational rehabilitation service, community mental health agencies, education opportunity centers, and other community resources concerned with vocational development guidance and counseling, in order to avoid unnecessary duplication in the provision of services in the community or area to be served; and
   - **(6)** inventories of State, local, and private resources available for the development of career education and career development programs and services.
+
+## Source Credit
+
+*([Pub. L. 94–482, title III, § 334](https://www.govinfo.gov/link/plaw/94/public/482), Oct. 12, 1976, [90 Stat. 2222](https://www.govinfo.gov/link/statute/90/2222); [Pub. L. 96–88, title III, § 301(a)(1)](https://www.govinfo.gov/link/plaw/96/public/88), title V, § 507, Oct. 17, 1979, [93 Stat. 677](https://www.govinfo.gov/link/statute/93/677), 692.)*

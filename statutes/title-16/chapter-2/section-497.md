@@ -3,9 +3,10 @@ title: "Section 497 - Use and occupation of lands for hotels, resorts, summer ho
 usc_title: 16
 usc_section: "497"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 497"
-generated_at: "2026-03-30T02:54:22.859Z"
+generated_at: "2026-11-23T20:26:20.085Z"
+status: "active"
 ---
 
 # § 497. Use and occupation of lands for hotels, resorts, summer homes, stores, and facilities for industrial, commercial, educational or public uses
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:22.859Z"
 - **(c)** to permit the use and occupancy of suitable areas of land within the national forest, not exceeding eighty acres and for periods not exceeding thirty years, for the purpose of constructing or maintaining buildings, structures, and facilities for industrial or commercial purposes whenever such use is related to or consistent with other uses on the national forests;
 - **(d)** to permit any State or political subdivision thereof, or any public or nonprofit agency, to use and occupy suitable areas of land within the national forests not exceeding eighty acres and for periods not exceeding thirty years, for the purpose of constructing or maintaining any buildings, structures, or facilities necessary or desirable for education or for any public use or in connection with any public activity. The authority provided by this section shall be exercised in such manner as not to preclude the general public from full enjoyment of the natural, scenic, recreational, and other aspects of the national forests.
 
+
+## Source Credit
+
+*(Mar. 4, 1915, ch. 144, [38 Stat. 1101](https://www.govinfo.gov/link/statute/38/1101); July 28, 1956, ch. 771, [70 Stat. 708](https://www.govinfo.gov/link/statute/70/708).)*

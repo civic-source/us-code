@@ -3,9 +3,10 @@ title: "Section 4541 - Congressional findings and declaration of purpose"
 usc_title: 42
 usc_section: "4541"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4541"
-generated_at: "2026-03-30T02:56:11.206Z"
+generated_at: "2026-11-23T20:27:22.396Z"
+status: "active"
 ---
 
 # § 4541. Congressional findings and declaration of purpose
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.206Z"
   - **(3)** the development and encouragement of prevention programs designed to combat the spread of alcoholism, alcohol abuse, and abuse of other legal and illegal drugs;
   - **(4)** the development and encouragement of effective occupational prevention and treatment programs within government and in cooperation with the private sector; and
   - **(5)** increased Federal commitment to research into the behavioral and biomedical etiology of, the treatment of, and the mental and physical health and social and economic consequences of, alcohol abuse and alcoholism.
+
+## Source Credit
+
+*([Pub. L. 91–616, § 2](https://www.govinfo.gov/link/plaw/91/public/616), as added [Pub. L. 93–282, title I, § 102(a)](https://www.govinfo.gov/link/plaw/93/public/282), May 14, 1974, [88 Stat. 126](https://www.govinfo.gov/link/statute/88/126); amended [Pub. L. 94–371, § 2](https://www.govinfo.gov/link/plaw/94/public/371), July 26, 1976, [90 Stat. 1035](https://www.govinfo.gov/link/statute/90/1035); [Pub. L. 95–622, title II, § 268(a)](https://www.govinfo.gov/link/plaw/95/public/622), Nov. 9, 1978, [92 Stat. 3437](https://www.govinfo.gov/link/statute/92/3437); [Pub. L. 96–180, § 2](https://www.govinfo.gov/link/plaw/96/public/180), Jan. 2, 1980, [93 Stat. 1301](https://www.govinfo.gov/link/statute/93/1301).)*

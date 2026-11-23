@@ -3,12 +3,17 @@ title: "Section 1295 - Requirements for American materials"
 usc_title: 33
 usc_section: "1295"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1295"
-generated_at: "2026-03-30T02:55:41.089Z"
+generated_at: "2026-11-23T20:26:54.001Z"
+status: "active"
 ---
 
 # § 1295. Requirements for American materials
 
 Notwithstanding any other provision of law, no grant for which application is made after February 1, 1978 , shall be made under this subchapter for any treatment works unless only such unmanufactured articles, materials, and supplies as have been mined or produced in the United States, and only such manufactured articles, materials, and supplies as have been manufactured in the United States, substantially all from articles, materials, or supplies mined, produced, or manufactured, as the case may be, in the United States will be used in such treatment works. This section shall not apply in any case where the Administrator determines, based upon those factors the Administrator deems relevant, including the available resources of the agency, it to be inconsistent with the public interest (including multilateral government procurement agreements) or the cost to be unreasonable, or if articles, materials, or supplies of the class or kind to be used or the articles, materials, or supplies from which they are manufactured are not mined, produced, or manufactured, as the case may be, in the United States in sufficient and reasonably available commercial quantities and of a satisfactory quality.
 
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title II, § 215, as added [Pub. L. 95–217, § 39](https://www.govinfo.gov/link/plaw/95/public/217), Dec. 27, 1977, [91 Stat. 1581](https://www.govinfo.gov/link/statute/91/1581).)*

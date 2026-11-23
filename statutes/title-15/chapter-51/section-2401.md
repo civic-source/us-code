@@ -3,9 +3,10 @@ title: "Section 2401 - Congressional findings"
 usc_title: 15
 usc_section: "2401"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2401"
-generated_at: "2026-03-30T02:54:08.171Z"
+generated_at: "2026-11-23T20:26:04.196Z"
+status: "active"
 ---
 
 # § 2401. Congressional findings
@@ -30,3 +31,7 @@ The Congress finds that—
   - **(16)** there is a national need to encourage and support efforts by qualified institutions of higher learning to identify and inaugurate programs which will improve productivity;
   - **(17)** there is a national need to develop precise, standardized measurements of productivity; and
   - **(18)** there is a national need to gather and disseminate information about methods and techniques to improve productivity.
+
+## Source Credit
+
+*([Pub. L. 94–136, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/136), Nov. 28, 1975, [89 Stat. 733](https://www.govinfo.gov/link/statute/89/733).)*

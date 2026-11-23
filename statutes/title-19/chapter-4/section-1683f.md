@@ -3,9 +3,10 @@ title: "Section 1683f - Penalties"
 usc_title: 19
 usc_section: "1683f"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1683f"
-generated_at: "2026-03-30T02:54:24.659Z"
+generated_at: "2026-11-23T20:26:10.881Z"
+status: "active"
 ---
 
 # § 1683f. Penalties
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:24.659Z"
   - **(1)** the importer made an appropriate inquiry in accordance with section 1683a(c)(1) of this title with respect to the declaration;
   - **(2)** the importer produces records maintained pursuant to section 1683e(b) of this title that substantiate the declaration; and
   - **(3)** there is not substantial evidence indicating that the importer knew that the fact to which the importer made the declaration was false.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title VIII, § 808, as added [Pub. L. 110–246, title III, § 3301(a)](https://www.govinfo.gov/link/plaw/110/public/246), June 18, 2008, [122 Stat. 1852](https://www.govinfo.gov/link/statute/122/1852).)*

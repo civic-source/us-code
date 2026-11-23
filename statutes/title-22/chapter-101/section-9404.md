@@ -3,9 +3,10 @@ title: "Section 9404 - Imposition of terrorism-related sanctions with respect to
 usc_title: 22
 usc_section: "9404"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9404"
-generated_at: "2026-03-30T02:55:05.465Z"
+generated_at: "2026-11-23T20:26:32.770Z"
+status: "active"
 ---
 
 # § 9404. Imposition of terrorism-related sanctions with respect to the IRGC
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:05.465Z"
   - **(3)** The IRGC, not just the IRGC–QF, is responsible for implementing Iran’s international program of destabilizing activities, support for acts of international terrorism, and ballistic missile program.
 - **(b)** Beginning on the date that is 90 days after August 2, 2017 , the President shall impose the sanctions described in subsection (c) with respect to the IRGC and foreign persons that are officials, agents, or affiliates of the IRGC.
 - **(c)** The sanctions described in this subsection are sanctions applicable with respect to a foreign person pursuant to Executive Order No. 13224 ( 50 U.S.C. 1701 note; relating to blocking property and prohibiting transactions with persons who commit, threaten to commit, or support terrorism).
+
+## Source Credit
+
+*([Pub. L. 115–44, title I, § 105](https://www.govinfo.gov/link/plaw/115/public/44), Aug. 2, 2017, [131 Stat. 892](https://www.govinfo.gov/link/statute/131/892).)*

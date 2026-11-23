@@ -3,9 +3,10 @@ title: "Section 657 - Prohibition on service in the armed forces by individuals 
 usc_title: 10
 usc_section: "657"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 657"
-generated_at: "2026-03-30T02:53:38.072Z"
+generated_at: "2026-11-23T20:25:51.035Z"
+status: "active"
 ---
 
 # § 657. Prohibition on service in the armed forces by individuals convicted of certain sexual offenses
@@ -16,3 +17,11 @@ generated_at: "2026-03-30T02:53:38.072Z"
   - **(2)** Forcible sodomy.
   - **(3)** Incest.
   - **(4)** An attempt to commit an offense specified in paragraph (1) through (3), as punishable under applicable Federal or State law.
+
+Prohibition on Commissioning or Enlistment
+
+Covered Offenses
+
+## Source Credit
+
+*(Added [Pub. L. 113–66, div. A, title XVII, § 1711(a)(1)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 962](https://www.govinfo.gov/link/statute/127/962).)*

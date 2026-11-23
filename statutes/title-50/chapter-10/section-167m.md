@@ -3,9 +3,10 @@ title: "Section 167m - Information"
 usc_title: 50
 usc_section: "167m"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 167m"
-generated_at: "2026-03-30T02:56:26.199Z"
+generated_at: "2026-11-23T20:27:30.706Z"
+status: "active"
 ---
 
 # § 167m. Information
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:56:26.199Z"
     - **(G)** updates on repair status and the anticipated online date;
   - **(3)** monthly summaries of meetings and communications between the Bureau of Land Management and the Cliffside Refiners Limited Partnership, including a list of participants and an indication of any actions taken as a result of the meetings or communications; and
   - **(4)** current predictions of the lifespan of the Federal Helium System, including how much longer the crude helium supply will be available based on current and forecasted demand and the projected maximum production capacity of the Federal Helium System for the following fiscal year.
+
+## Source Credit
+
+*(Mar. 3, 1925, ch. 426, § 15, as added [Pub. L. 113–40, § 6(3)](https://www.govinfo.gov/link/plaw/113/public/40), Oct. 2, 2013, [127 Stat. 541](https://www.govinfo.gov/link/statute/127/541).)*

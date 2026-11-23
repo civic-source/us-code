@@ -3,9 +3,10 @@ title: "Section 288 - Ruth L. Kirschstein National Research Service Awards"
 usc_title: 42
 usc_section: "288"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 288"
-generated_at: "2026-03-30T02:56:10.753Z"
+generated_at: "2026-11-23T20:27:20.270Z"
+status: "active"
 ---
 
 # § 288. Ruth L. Kirschstein National Research Service Awards
@@ -45,3 +46,11 @@ generated_at: "2026-03-30T02:56:10.753Z"
   - **(5)**
     - **(A)** Any obligation of an individual under paragraph (1) shall be canceled upon the death of such individual.
     - **(B)** The Secretary shall by regulation provide for the waiver or suspension of any such obligation applicable to any individual whenever compliance by such individual is impossible or would involve substantial hardship to such individual or would be against equity and good conscience.
+
+A
+
+B
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title IV, § 487, as added [Pub. L. 99–158, § 2](https://www.govinfo.gov/link/plaw/99/public/158), Nov. 20, 1985, [99 Stat. 869](https://www.govinfo.gov/link/statute/99/869); amended [Pub. L. 100–607, title I, § 151](https://www.govinfo.gov/link/plaw/100/public/607), title VI, § 635, Nov. 4, 1988, [102 Stat. 3058](https://www.govinfo.gov/link/statute/102/3058), 3148; [Pub. L. 101–93, § 5(d)](https://www.govinfo.gov/link/plaw/101/public/93), Aug. 16, 1989, [103 Stat. 612](https://www.govinfo.gov/link/statute/103/612); [Pub. L. 101–239, title VI, § 6103(e)(7)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2208](https://www.govinfo.gov/link/statute/103/2208); [Pub. L. 102–321, title I, § 163(b)(4)](https://www.govinfo.gov/link/plaw/102/public/321), July 10, 1992, [106 Stat. 376](https://www.govinfo.gov/link/statute/106/376); [Pub. L. 103–43, title XVI](https://www.govinfo.gov/link/plaw/103/public/43), §§ 1601, 1602, 1632, 1641, title XX, § 2008(b)(14), June 10, 1993, [107 Stat. 181](https://www.govinfo.gov/link/statute/107/181), 186, 211; [Pub. L. 106–129, § 2(b)(2)](https://www.govinfo.gov/link/plaw/106/public/129), Dec. 6, 1999, [113 Stat. 1670](https://www.govinfo.gov/link/statute/113/1670); [Pub. L. 107–206, title I, § 804(a)](https://www.govinfo.gov/link/plaw/107/public/206), (b), Aug. 2, 2002, [116 Stat. 874](https://www.govinfo.gov/link/statute/116/874); [Pub. L. 109–482, title I, § 103(b)(47)](https://www.govinfo.gov/link/plaw/109/public/482), Jan. 15, 2007, [120 Stat. 3688](https://www.govinfo.gov/link/statute/120/3688).)*

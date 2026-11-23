@@ -3,9 +3,10 @@ title: "Section 284e - Payment of subscription to Association by United States"
 usc_title: 22
 usc_section: "284e"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 284e"
-generated_at: "2026-03-30T02:55:05.316Z"
+generated_at: "2026-11-23T20:26:31.992Z"
+status: "active"
 ---
 
 # § 284e. Payment of subscription to Association by United States
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:05.316Z"
 - **(b)** The United States Governor is hereby authorized (1) to vote for an increase in the resources of the Association and (2) to agree on behalf of the United States to contribute to the Association the sum of $312 million, both as recommended by the Executive Directors, in a report dated September 9, 1963 , to the Board of Governors of the Association. There is hereby authorized to be appropriated out of funds supplied by the Nation’s taxpayers or out of funds borrowed on their credit, without fiscal year limitations, $312 million to provide the United States share of the increase in the resources of the Association.
 - **(c)** For the purpose of keeping to a minimum the cost to the United States of participation in the Association, the Secretary of the Treasury is authorized and directed to issue special notes of the United States from time to time, at par, and to deliver such notes to the Association in exchange for dollars to the extent permitted by the articles. The special notes provided for in this subsection shall be issued under the authority and subject to the provisions of chapter 31 of title 31, and the purposes for which securities may be issued under that chapter are extended to include the purposes for which special notes are authorized and directed to be issued under this subsection, but such notes shall bear no interest, shall be nonnegotiable, and shall be payable on demand of the Association. The face amount of special notes issued to the Association under the authority of this subsection and outstanding at any one time shall not exceed, in the aggregate, the amount actually paid to the Association under the articles.
 - **(d)** Any payment made to the United States by the Association as a distribution of net income shall be covered into the Treasury as a miscellaneous receipt.
+
+## Source Credit
+
+*([Pub. L. 86–565, § 7](https://www.govinfo.gov/link/plaw/86/public/565), June 30, 1960, [74 Stat. 294](https://www.govinfo.gov/link/statute/74/294); [Pub. L. 88–310](https://www.govinfo.gov/link/plaw/88/public/310), §§ 1, 2, May 26, 1964, [78 Stat. 200](https://www.govinfo.gov/link/statute/78/200).)*

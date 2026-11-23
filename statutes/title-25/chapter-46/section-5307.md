@@ -3,9 +3,10 @@ title: "Section 5307 - Wage and labor standards"
 usc_title: 25
 usc_section: "5307"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 5307"
-generated_at: "2026-03-30T02:54:52.865Z"
+generated_at: "2026-11-23T20:26:25.721Z"
+status: "active"
 ---
 
 # § 5307. Wage and labor standards
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:52.865Z"
   - **(1)** preferences and opportunities for training and employment in connection with the administration of such contracts or grants shall be given to Indians; and
   - **(2)** preference in the award of subcontracts and subgrants in connection with the administration of such contracts or grants shall be given to Indian organizations and to Indian-owned economic enterprises as defined in section 1452 of this title .
 - **(c)** Notwithstanding subsections (a) and (b) of this section, with respect to any self-determination contract, or portion of a self-determination contract, that is intended to benefit one tribe, the tribal employment or contract preference laws adopted by such tribe shall govern with respect to the administration of the contract or portion of the contract.
+
+## Source Credit
+
+*([Pub. L. 93–638, § 7](https://www.govinfo.gov/link/plaw/93/public/638), Jan. 4, 1975, [88 Stat. 2205](https://www.govinfo.gov/link/statute/88/2205); [Pub. L. 103–413, title I, § 102(3)](https://www.govinfo.gov/link/plaw/103/public/413), (4), Oct. 25, 1994, [108 Stat. 4251](https://www.govinfo.gov/link/statute/108/4251).)*

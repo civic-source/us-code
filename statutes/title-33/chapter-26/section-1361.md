@@ -3,9 +3,10 @@ title: "Section 1361 - Administration"
 usc_title: 33
 usc_section: "1361"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1361"
-generated_at: "2026-03-30T02:55:41.102Z"
+generated_at: "2026-11-23T20:26:54.061Z"
+status: "active"
 ---
 
 # § 1361. Administration
@@ -19,3 +20,41 @@ generated_at: "2026-03-30T02:55:41.102Z"
   - **(2)** The Administrator shall award a certificate or plaque of suitable design to each industrial organization or political subdivision which qualifies for such recognition under regulations established under this subsection.
   - **(3)** The President of the United States, the Governor of the appropriate State, the Speaker of the House of Representatives, and the President pro tempore of the Senate shall be notified of the award by the Administrator and the awarding of such recognition shall be published in the Federal Register.
 - **(f)** Upon the request of a State water pollution control agency, personnel of the Environmental Protection Agency may be detailed to such agency for the purpose of carrying out the provisions of this chapter.
+
+Definitions
+
+Administrator
+
+Farm
+
+Gallon
+
+Oil
+
+Oil discharge
+
+Reportable oil discharge history.—
+
+In general
+
+Exclusions
+
+Spill prevention, control, and countermeasure rule
+
+Certification
+
+Regulation of Aboveground Storage at Farms.—
+
+Calculation of aggregate aboveground storage capacity
+
+Certain farm containers
+
+Study.—
+
+In general
+
+Adjustment
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title V, § 501, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 885](https://www.govinfo.gov/link/statute/86/885); amended [Pub. L. 100–4, title V, § 501](https://www.govinfo.gov/link/plaw/100/public/4), Feb. 4, 1987, [101 Stat. 75](https://www.govinfo.gov/link/statute/101/75).)*

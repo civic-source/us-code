@@ -3,9 +3,10 @@ title: "Section 9602 - Comprehensive centers"
 usc_title: 20
 usc_section: "9602"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 9602"
-generated_at: "2026-03-30T02:54:48.230Z"
+generated_at: "2026-11-23T20:26:14.998Z"
+status: "active"
 ---
 
 # § 9602. Comprehensive centers
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:54:48.230Z"
 - **(h)** Each comprehensive center established under this section shall submit to the Secretary an annual report, at such time, in such manner, and containing such information as the Secretary may require, which shall include the following:
   - **(1)** A summary of the comprehensive center’s activities during the preceding year.
   - **(2)** A listing of the States, local educational agencies, and schools the comprehensive center assisted during the preceding year.
+
+## Source Credit
+
+*([Pub. L. 107–279, title II, § 203](https://www.govinfo.gov/link/plaw/107/public/279), Nov. 5, 2002, [116 Stat. 1975](https://www.govinfo.gov/link/statute/116/1975); [Pub. L. 114–95, title IX, § 9215(gg)(2)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2174](https://www.govinfo.gov/link/statute/129/2174).)*

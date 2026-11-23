@@ -3,9 +3,10 @@ title: "Section 312 - Terrorism and financial intelligence"
 usc_title: 31
 usc_section: "312"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 312"
-generated_at: "2026-03-30T02:55:34.044Z"
+generated_at: "2026-11-23T20:26:51.649Z"
+status: "active"
 ---
 
 # § 312. Terrorism and financial intelligence
@@ -65,3 +66,67 @@ generated_at: "2026-03-30T02:55:34.044Z"
   - **(1)** The Secretary of the Treasury may appoint, without regard to the provisions of sections 3309 through 3318 of title 5, candidates directly to positions in the competitive service, as defined in section 2102 of that title, in the OTFI.
   - **(2)** The primary responsibility of candidates appointed under paragraph (1) shall be to provide substantive support in support of the duties described in subparagraphs (A) through (G) of subsection (a)(4).
 - **(h)** The Secretary of the Treasury may detail, without regard to the provisions of section 300.301 of title 5, Code of Federal Regulations, any employee in the OTFI to any position in the OTFI for which the Secretary has determined there is a need.
+
+Office of Terrorism and Financial Intelligence.—
+
+Establishment
+
+Leadership.—
+
+Undersecretary
+
+Appointment
+
+Assistant secretary for terrorist financing.—
+
+Establishment
+
+Appointment
+
+Duties
+
+Functions
+
+Reports to congress on proposed measures
+
+Other offices within otfi
+
+FinCEN.—
+
+Reporting to undersecretary
+
+Office of compliance
+
+Interagency coordination
+
+Office of Intelligence and Analysis.—
+
+Assistant secretary for intelligence and analysis
+
+Responsibilities
+
+Primary functions
+
+Other functions and duties
+
+Duties of the assistant secretary
+
+Delegation
+
+Designation as Enforcement Organization
+
+Use of Existing Resources
+
+References
+
+Special Hiring Authority.—
+
+In general
+
+Primary responsibilities
+
+Deployment of Staff
+
+## Source Credit
+
+*(Added [Pub. L. 108–447, div. H, title II, § 222(a)](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3242](https://www.govinfo.gov/link/statute/118/3242), § 313; renumbered § 312, [Pub. L. 111–203, title V, § 502(a)(2)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1580](https://www.govinfo.gov/link/statute/124/1580); amended [Pub. L. 114–22, title I, § 105(c)(2)(A)(ii)(I)](https://www.govinfo.gov/link/plaw/114/public/22), May 29, 2015, [129 Stat. 237](https://www.govinfo.gov/link/statute/129/237); [Pub. L. 116–92, div. F, title LXXI, § 7153](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2259](https://www.govinfo.gov/link/statute/133/2259); [Pub. L. 116–283, div. F, title LXI, § 6105(b)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4555](https://www.govinfo.gov/link/statute/134/4555).)*

@@ -3,9 +3,10 @@ title: "Section 414 - Vessel removal by Corps of Engineers"
 usc_title: 33
 usc_section: "414"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 414"
-generated_at: "2026-03-30T02:55:41.054Z"
+generated_at: "2026-11-23T20:26:53.806Z"
+status: "active"
 ---
 
 # § 414. Vessel removal by Corps of Engineers
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:41.054Z"
         - **(I)** for which the owner is not identified, unless determined to be abandoned by the Commandant of the Coast Guard; or
         - **(II)** for which the owner has not agreed to pay the costs of removal, destruction, or disposal.
   - **(5)** There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2025 through 2029.
+
+## Source Credit
+
+*(Mar. 3, 1899, ch. 425, § 19, [30 Stat. 1154](https://www.govinfo.gov/link/statute/30/1154); July 26, 1947, ch. 343, title II, § 205(a), [61 Stat. 501](https://www.govinfo.gov/link/statute/61/501); [Pub. L. 99–662, title IX, § 939(b)](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4199](https://www.govinfo.gov/link/statute/100/4199); [Pub. L. 118–272, div. A, title I, § 1124(a)](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3016](https://www.govinfo.gov/link/statute/138/3016).)*

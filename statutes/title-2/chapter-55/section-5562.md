@@ -3,9 +3,10 @@ title: "Section 5562 - Preservation of reports, statements, or documents filed w
 usc_title: 2
 usc_section: "5562"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 5562"
-generated_at: "2026-03-30T02:53:04.838Z"
+generated_at: "2026-11-23T20:25:29.064Z"
+status: "active"
 ---
 
 # § 5562. Preservation of reports, statements, or documents filed with Clerk of House
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:04.838Z"
   - **(1)** for a period of 6 years from the date on which the document is filed; or
   - **(2)** if the law, rule, or regulation so provides, the period required under such law, rule, or regulation.
 - **(b)** Subsection (a) shall apply with respect to reports, statements, and documents filed before, on, or after December 8, 2004 .
+
+## Source Credit
+
+*([Pub. L. 108–447, div. G, title I, § 106](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3176](https://www.govinfo.gov/link/statute/118/3176).)*

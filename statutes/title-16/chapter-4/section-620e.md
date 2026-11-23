@@ -3,9 +3,10 @@ title: "Section 620e - Definitions"
 usc_title: 16
 usc_section: "620e"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 620e"
-generated_at: "2026-03-30T02:54:22.886Z"
+generated_at: "2026-11-23T20:26:20.198Z"
+status: "active"
 ---
 
 # § 620e. Definitions
@@ -48,3 +49,13 @@ For purposes of sections 620 to 620j of this title:
   - **(11)** The term “violation” means a violation of sections 620 to 620j of this title (including a regulation issued to implement sections 620 to 620j of this title) with regard to a course of action, including—
     - **(A)** in the case of a violation by the original purchaser of unprocessed timber, an act or omission with respect to a single timber sale; and
     - **(B)** in the case of a violation of a subsequent purchaser of the timber, an act or omission with respect to an operation at a particular processing facility or log yard.
+
+Minor violation
+
+Northwestern private timber open market area
+
+Violation
+
+## Source Credit
+
+*([Pub. L. 101–382, title IV, § 493](https://www.govinfo.gov/link/plaw/101/public/382), Aug. 20, 1990, [104 Stat. 723](https://www.govinfo.gov/link/statute/104/723); [Pub. L. 105–83, title VI, § 604](https://www.govinfo.gov/link/plaw/105/public/83), Nov. 14, 1997, [111 Stat. 1621](https://www.govinfo.gov/link/statute/111/1621).)*

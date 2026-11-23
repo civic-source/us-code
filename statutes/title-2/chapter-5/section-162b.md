@@ -3,9 +3,10 @@ title: "Section 162b - Little Scholars Child Development Center; employee compen
 usc_title: 2
 usc_section: "162b"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 162b"
-generated_at: "2026-03-30T02:53:04.789Z"
+generated_at: "2026-11-23T20:25:28.848Z"
+status: "active"
 ---
 
 # § 162b. Little Scholars Child Development Center; employee compensation and personnel matters
@@ -37,3 +38,13 @@ generated_at: "2026-03-30T02:53:04.789Z"
   - **(5)** consult with the Librarian of Congress on the administration and implementation of this section.
 - **(g)** Notwithstanding paragraph (1) of subsection (f), in the case of expenses described in such paragraph which are attributable to the compensation of the Executive Director and Deputy Executive Director of the Center, the Librarian of Congress may reimburse the Center for such expenses from amounts appropriated or otherwise made available for salaries and expenses of the Library of Congress.
 - **(h)** The Librarian of Congress may prescribe regulations to carry out this section.
+
+“Notwithstanding any other provision of this Act [div. A of Pub. L. 116–159 , see Tables for classification]—
+
+Reimbursements
+
+Amount
+
+## Source Credit
+
+*([Pub. L. 106–554, § 1(a)(2) [title II, § 210]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–114; [Pub. L. 117–328, div. I, title I, § 141(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 4932](https://www.govinfo.gov/link/statute/136/4932).)*

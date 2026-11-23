@@ -3,9 +3,10 @@ title: "Section 1728 - Findings regarding emergency food assistance"
 usc_title: 7
 usc_section: "1728"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1728"
-generated_at: "2026-03-30T02:53:42.338Z"
+generated_at: "2026-11-23T20:25:41.280Z"
+status: "active"
 ---
 
 # § 1728. Findings regarding emergency food assistance
@@ -16,3 +17,7 @@ The Congress finds that—
   - **(2)** the United States continues to respond to these needs, as a reflection of its humanitarian concern for the people of the Third World, with emergency food and other necessary assistance to alleviate the suffering of those affected by severe food shortages;
   - **(3)** the timely provision of food and other necessary assistance to those in need is of paramount importance if the worst effects of such food crises are to be mitigated; and
   - **(4)** the ability of the United States to provide food and other necessary assistance on a timely basis, and to ensure that such assistance is distributed to those in need, should be enhanced in order to better enable the United States to help those affected by severe food shortages.
+
+## Source Credit
+
+*([Pub. L. 98–473, title III, § 302](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2194](https://www.govinfo.gov/link/statute/98/2194).)*

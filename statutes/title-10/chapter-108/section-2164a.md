@@ -3,9 +3,10 @@ title: "Section 2164a - Rights of parents of children attending schools operated
 usc_title: 10
 usc_section: "2164a"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2164a"
-generated_at: "2026-03-30T02:53:38.145Z"
+generated_at: "2026-11-23T20:25:51.475Z"
+status: "active"
 ---
 
 # § 2164a. Rights of parents of children attending schools operated by the Department of Defense Education Activity
@@ -43,3 +44,17 @@ generated_at: "2026-03-30T02:53:38.145Z"
   - **(2)** The term “school” means—
     - **(A)** a Department of Defense domestic dependent elementary or secondary school, as described in section 2164 of this title ; or
     - **(B)** any elementary or secondary school or program for dependents operated by the Department of Defense Education Activity.
+
+In General
+
+Disclosures and Notifications
+
+Exceptions
+
+School Advisory Committees and Boards
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title V, § 589(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 284](https://www.govinfo.gov/link/statute/137/284).)*

@@ -3,9 +3,10 @@ title: "Section 4534 - Defense Production Act Fund"
 usc_title: 50
 usc_section: "4534"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4534"
-generated_at: "2026-03-30T02:56:26.275Z"
+generated_at: "2026-11-23T20:27:31.110Z"
+status: "active"
 ---
 
 # § 4534. Defense Production Act Fund
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:26.275Z"
   - **(2)** ensuring the visibility and accountability of transactions engaged in through the Fund; and
   - **(3)** reporting to the Congress each year regarding activities of the Fund during the previous fiscal year.
 - **(g)** When any agreement entered into pursuant to this subchapter after December 31, 1991 , imposes any contingent liability upon the United States, such liability shall be considered an obligation against the Fund.
+
+## Source Credit
+
+*(Sept. 8, 1950, ch. 932, title III, § 304, as added [Pub. L. 111–67, § 7](https://www.govinfo.gov/link/plaw/111/public/67), Sept. 30, 2009, [123 Stat. 2017](https://www.govinfo.gov/link/statute/123/2017).)*

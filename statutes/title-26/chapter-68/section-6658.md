@@ -3,9 +3,10 @@ title: "Section 6658 - Coordination with title 11"
 usc_title: 26
 usc_section: "6658"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6658"
-generated_at: "2026-03-30T02:55:27.861Z"
+generated_at: "2026-11-23T20:26:46.703Z"
+status: "active"
 ---
 
 # § 6658. Coordination with title 11
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:27.861Z"
       - **(i)** the petition was filed before the due date prescribed by law (including extensions) for filing a return of such tax, or
       - **(ii)** the date for making the addition to the tax occurs on or after the day on which the petition was filed.
 - **(b)** Subsection (a) shall not apply to any liability for an addition to the tax which arises from the failure to pay or deposit a tax withheld or collected from others and required to be paid to the United States.
+
+## Source Credit
+
+*(Added [Pub. L. 96–589, § 6(e)(1)](https://www.govinfo.gov/link/plaw/96/public/589), Dec. 24, 1980, [94 Stat. 3408](https://www.govinfo.gov/link/statute/94/3408).)*

@@ -3,9 +3,10 @@ title: "Section 8476 - Administrative provisions"
 usc_title: 5
 usc_section: "8476"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8476"
-generated_at: "2026-03-30T02:52:56.063Z"
+generated_at: "2026-11-23T20:25:32.226Z"
+status: "active"
 ---
 
 # § 8476. Administrative provisions
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:52:56.063Z"
   - **(2)** A member of the Board shall be paid travel, per diem, and other necessary expenses under subchapter I of chapter 57 of this title while traveling away from such member’s home or regular place of business in the performance of the duties of the Board.
   - **(3)** Payments authorized under this subsection shall be paid from the Thrift Savings Fund.
 - **(e)** The accrued annual leave of any employee who is a member of the Board or the Council shall not be charged for any time used in performing services for the Board or the Council.
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 581](https://www.govinfo.gov/link/statute/100/581); amended [Pub. L. 101–509, title V, § 529 [title I, § 101(b)(9)(K)]](https://www.govinfo.gov/link/plaw/101/public/509), Nov. 5, 1990, [104 Stat. 1427](https://www.govinfo.gov/link/statute/104/1427), 1442.)*

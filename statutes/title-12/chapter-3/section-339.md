@@ -3,9 +3,10 @@ title: "Section 339 - Participation by State member banks in lotteries and relat
 usc_title: 12
 usc_section: "339"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 339"
-generated_at: "2026-03-30T02:53:53.379Z"
+generated_at: "2026-11-23T20:25:58.739Z"
+status: "active"
 ---
 
 # § 339. Participation by State member banks in lotteries and related activities
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:53.379Z"
   - **(4)** The term “savings promotion raffle” means a contest in which the sole consideration required for a chance of winning designated prizes is obtained by the deposit of a specified amount of money in a savings account or other savings program, where each ticket or entry has an equal chance of being drawn, such contest being subject to regulations that may from time to time be promulgated by the appropriate prudential regulator (as defined in section 5481 of this title ).
 - **(d)** Nothing contained in this section prohibits a State member bank from accepting deposits or cashing or otherwise handling checks or other negotiable instruments, or performing other lawful banking services for a State operating a lottery, or for an officer or employee of that State who is charged with the administration of the lottery.
 - **(e)** The Board of Governors of the Federal Reserve System shall issue such regulations as may be necessary to the strict enforcement of this section and the prevention of evasions thereof.
+
+## Source Credit
+
+*(Dec. 13, 1913, ch. 6, § 9A, as added [Pub. L. 90–203, § 2](https://www.govinfo.gov/link/plaw/90/public/203), Dec. 15, 1967, [81 Stat. 609](https://www.govinfo.gov/link/statute/81/609); amended [Pub. L. 113–251, § 3(b)](https://www.govinfo.gov/link/plaw/113/public/251), Dec. 18, 2014, [128 Stat. 2889](https://www.govinfo.gov/link/statute/128/2889).)*

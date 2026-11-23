@@ -3,9 +3,10 @@ title: "Section 1792 - Promoting Federal food donation"
 usc_title: 42
 usc_section: "1792"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1792"
-generated_at: "2026-03-30T02:56:11.122Z"
+generated_at: "2026-11-23T20:27:21.922Z"
+status: "active"
 ---
 
 # § 1792. Promoting Federal food donation
@@ -16,3 +17,17 @@ generated_at: "2026-03-30T02:56:11.122Z"
 - **(b)**
   - **(1)** In any case in which a contractor enters into a contract with an executive agency under which apparently wholesome food is donated to food-insecure people in the United States, the head of the executive agency shall not assume responsibility for the costs and logistics of collecting, transporting, maintaining the safety of, or distributing excess, apparently wholesome food to food-insecure people in the United States under this section.
   - **(2)** An executive agency (including an executive agency that enters into a contract with a contractor) and any contractor making donations pursuant to this section shall be exempt from civil and criminal liability to the extent provided under section 1791 of this title .
+
+“In this Act [enacting this section and provisions set out as notes under this section and section 1771 of this title ]:
+
+Apparently wholesome food
+
+Excess
+
+Food-insecure
+
+Nonprofit organization
+
+## Source Credit
+
+*([Pub. L. 110–247, § 4](https://www.govinfo.gov/link/plaw/110/public/247), June 20, 2008, [122 Stat. 2314](https://www.govinfo.gov/link/statute/122/2314).)*

@@ -3,9 +3,10 @@ title: "Section 5513 - Unfunded priorities of the Missile Defense Agency: annual
 usc_title: 10
 usc_section: "5513"
 chapter: 551
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 5513"
-generated_at: "2026-03-30T02:53:38.217Z"
+generated_at: "2026-11-23T20:25:52.002Z"
+status: "active"
 ---
 
 # § 5513. Unfunded priorities of the Missile Defense Agency: annual report
@@ -24,3 +25,17 @@ generated_at: "2026-03-30T02:53:38.217Z"
   - **(1)** is not funded in the budget of the President for the fiscal year as submitted to Congress pursuant to section 1105 of title 31 , United States Code;
   - **(2)** is necessary to fulfill a requirement associated with an operational or contingency plan of a combatant command or other validated requirement; and
   - **(3)** would have been recommended for funding through the budget referred to in paragraph (1) by the Director of the Missile Defense Agency in connection with the budget if additional resources had been available for the budget to fund the program, activity, or mission requirement.
+
+Reports
+
+Elements.—
+
+In general
+
+Prioritization of priorities
+
+Unfunded Priority Defined
+
+## Source Credit
+
+*(Added [Pub. L. 118–159, div. A, title XVI, § 1649(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2190](https://www.govinfo.gov/link/statute/138/2190); amended [Pub. L. 119–60, div. A, title XVII, § 1701(a)(33)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1209](https://www.govinfo.gov/link/statute/139/1209).)*

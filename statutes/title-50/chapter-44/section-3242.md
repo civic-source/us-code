@@ -3,9 +3,10 @@ title: "Section 3242 - Annual reports on certain cyber vulnerabilities procured 
 usc_title: 50
 usc_section: "3242"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3242"
-generated_at: "2026-03-30T02:56:26.242Z"
+generated_at: "2026-11-23T20:27:30.948Z"
+status: "active"
 ---
 
 # § 3242. Annual reports on certain cyber vulnerabilities procured by intelligence community and foreign commercial providers of cyber vulnerabilities
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:26.242Z"
 - **(d)** In this section:
   - **(1)** The term “commercial provider” means any person that sells, or acts as a broker, for a cyber vulnerability.
   - **(2)** The term “cyber vulnerability” means any tool, exploit, vulnerability, or code that is intended to compromise a device, network, or system, including such a tool, exploit, vulnerability, or code procured by the intelligence community for purposes of research and development.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title XI, § 1112, as added [Pub. L. 117–103, div. X, title VIII, § 822(a)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 1020](https://www.govinfo.gov/link/statute/136/1020).)*

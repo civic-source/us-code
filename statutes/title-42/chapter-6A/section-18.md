@@ -3,9 +3,10 @@ title: "Section 18 - Transitions"
 usc_title: 42
 usc_section: "18"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18"
-generated_at: "2026-03-30T02:56:10.846Z"
+generated_at: "2026-11-23T20:27:20.703Z"
+status: "active"
 ---
 
 # § 300jj–18. Transitions
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:56:10.846Z"
 - **(a)** To the extent consistent with section 300jj–11 of this title , all functions, personnel, assets, liabilities, and administrative actions applicable to the National Coordinator for Health Information Technology appointed under Executive Order No. 13335 or the Office of such National Coordinator on the date before February 17, 2009 , shall be transferred to the National Coordinator appointed under section 300jj–11(a) of this title and the Office of such National Coordinator as of February 17, 2009 .
 - **(b)** Nothing in sections 1 1 So in original. Probably should be “section”. 300jj–12 of this title or this subsection shall be construed as prohibiting the AHIC Successor, Inc. doing business as the National eHealth Collaborative from modifying its charter, duties, membership, and any other structure or function required to be consistent with section 2 2 So in original. Probably should be “sections”. 300jj–12 and 300jj–13 3 3 See References in Text note below. of this title so as to allow the Secretary to recognize such AHIC Successor, Inc. as the HIT Advisory Committee.
 - **(c)** In carrying out section 300jj–12(b)(2) of this title , until recommendations are made by the HIT Advisory Committee, 4 4 So in original. See 2016 Amendment note below. recommendations of the HIT Advisory Committee 4 shall be consistent with the most recent recommendations made by such AHIC Successor, Inc.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXX, § 3008, as added [Pub. L. 111–5, div. A, title XIII, § 13101](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 241](https://www.govinfo.gov/link/statute/123/241); amended [Pub. L. 114–255, div. A, title IV, § 4003(e)(2)(A)(i)](https://www.govinfo.gov/link/plaw/114/public/255), (iii), (F), Dec. 13, 2016, [130 Stat. 1174](https://www.govinfo.gov/link/statute/130/1174), 1175.)*

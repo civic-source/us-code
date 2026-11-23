@@ -3,9 +3,10 @@ title: "Section 2626 - Reports respecting standards"
 usc_title: 16
 usc_section: "2626"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 2626"
-generated_at: "2026-03-30T02:54:23.005Z"
+generated_at: "2026-11-23T20:26:20.615Z"
+status: "active"
 ---
 
 # § 2626. Reports respecting standards
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:23.005Z"
   - **(1)** a summary of the reports submitted under subsection (a),
   - **(2)** his analysis of such reports, and
   - **(3)** his actions under this chapter, and his recommendations for such further Federal actions, including any legislation, regarding retail electric utility rates (and other practices) as may be necessary to carry out the purposes of this chapter.
+
+## Source Credit
+
+*([Pub. L. 95–617, title I, § 116](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3128](https://www.govinfo.gov/link/statute/92/3128).)*

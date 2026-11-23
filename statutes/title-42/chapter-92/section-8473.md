@@ -3,9 +3,10 @@ title: "Section 8473 - Environmental impact statements under section 4332 of thi
 usc_title: 42
 usc_section: "8473"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8473"
-generated_at: "2026-03-30T02:56:11.343Z"
+generated_at: "2026-11-23T20:27:23.045Z"
+status: "active"
 ---
 
 # § 8473. Environmental impact statements under section 4332 of this title
@@ -19,3 +20,7 @@ The following actions are not deemed to be major Federal actions for purposes of
     - **(C)** under section 8352(b) of this title , relating to certain State or local requirements;
     - **(D)** under section 8352(g) of this title , relating to certain intermediate load powerplants; and
   - **(3)** the grant or denial of any exemption under this chapter for any powerplant for which the Secretary finds, in consultation with the appropriate Federal agency, and publishes such finding that an environmental impact statement is required in connection with another Federal action and such statement will be prepared by such agency and will reflect the exemption adequately.
+
+## Source Credit
+
+*([Pub. L. 95–620, title VII, § 763](https://www.govinfo.gov/link/plaw/95/public/620), Nov. 9, 1978, [92 Stat. 3346](https://www.govinfo.gov/link/statute/92/3346); [Pub. L. 100–42, § 1(c)(24)](https://www.govinfo.gov/link/plaw/100/public/42), May 21, 1987, [101 Stat. 314](https://www.govinfo.gov/link/statute/101/314).)*

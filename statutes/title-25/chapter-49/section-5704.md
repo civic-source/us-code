@@ -3,9 +3,10 @@ title: "Section 5704 - Guidelines for responding to cases of missing or murdered
 usc_title: 25
 usc_section: "5704"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 5704"
-generated_at: "2026-03-30T02:54:52.873Z"
+generated_at: "2026-11-23T20:26:25.763Z"
+status: "active"
 ---
 
 # § 5704. Guidelines for responding to cases of missing or murdered Indians
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:54:52.873Z"
 - **(f)**
   - **(1)** Indian Tribes may submit their own guidelines to respond to cases of missing or murdered Indians to the Attorney General.
   - **(2)** Upon receipt of any guidelines from an Indian Tribe, the Attorney General shall publish the guidelines on the website of the Department of Justice in 1 centralized location to make the guidelines available as a resource to any Federal agency, State, or Tribal government.
+
+## Source Credit
+
+*([Pub. L. 116–165, § 5](https://www.govinfo.gov/link/plaw/116/public/165), Oct. 10, 2020, [134 Stat. 762](https://www.govinfo.gov/link/statute/134/762).)*

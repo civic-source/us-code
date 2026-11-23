@@ -3,9 +3,10 @@ title: "Section 743 - Special rules where section 754 election or substantial bu
 usc_title: 26
 usc_section: "743"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 743"
-generated_at: "2026-03-30T02:55:27.727Z"
+generated_at: "2026-11-23T20:26:45.873Z"
+status: "active"
 ---
 
 # § 743. Special rules where section 754 election or substantial built-in loss
@@ -39,3 +40,11 @@ generated_at: "2026-03-30T02:55:27.727Z"
 - **(f)**
   - **(1)** For purposes of this section, a securitization partnership shall not be treated as having a substantial built-in loss with respect to any transfer.
   - **(2)** For purposes of paragraph (1), the term “securitization partnership” means any partnership the sole business activity of which is to issue securities which provide for a fixed principal (or similar) amount and which are primarily serviced by the cash flows of a discrete pool (either fixed or revolving) of receivables or other financial assets that by their terms convert into cash in a finite period, but only if the sponsor of the pool reasonably believes that the receivables and other financial assets comprising the pool are not acquired so as to be disposed of.
+
+In general
+
+Transition rule
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 249; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 98–369, div. A, title I, § 71(b)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 589](https://www.govinfo.gov/link/statute/98/589); [Pub. L. 108–357, title VIII, § 833(b)(1)](https://www.govinfo.gov/link/plaw/108/public/357) –(4)(A), (5), (6)(A), Oct. 22, 2004, [118 Stat. 1589](https://www.govinfo.gov/link/statute/118/1589), 1591; [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 13502(a), 13504(b)(2), Dec. 22, 2017, [131 Stat. 2141](https://www.govinfo.gov/link/statute/131/2141), 2142.)*

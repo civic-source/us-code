@@ -3,9 +3,10 @@ title: "Section 1397bb - General contents of State child health plan; eligibilit
 usc_title: 42
 usc_section: "1397bb"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1397bb"
-generated_at: "2026-03-30T02:56:11.068Z"
+generated_at: "2026-11-23T20:27:21.668Z"
+status: "active"
 ---
 
 # § 1397bb. General contents of State child health plan; eligibility; outreach
@@ -51,3 +52,11 @@ generated_at: "2026-03-30T02:56:11.068Z"
     - **(B)** in the case of a targeted low-income child who was determined eligible for child health assistance under the State child health plan (or waiver of such plan) immediately before becoming an inmate of a public institution, the State shall, prior to the child’s release from such public institution, conduct a redetermination of eligibility for such child with respect to such child health assistance (without requiring a new application from the child) and, if the State determines pursuant to such redetermination that the child continues to meet the eligibility requirements for such child health assistance, the State shall restore coverage for such child health assistance to such child upon the child’s release from such public institution; and
     - **(C)** in the case of a targeted low-income child who is determined eligible for child health assistance while an inmate of a public institution (subject to the exception to the exclusion of children who are inmates of a public institution described in section 1397jj(b)(7) of this title ), the State shall process any application for child health assistance submitted by, or on behalf of, the child such that the State makes a determination of eligibility for the child with respect to child health assistance upon release of the child from the public institution.
   - **(2)** A State child health plan shall provide that, in the case of a targeted low-income child who is within 30 days of the date on which such child is scheduled to be released from a public institution following adjudication, the State shall have in place a plan for providing, and shall provide in accordance with such plan, screenings, diagnostic services, referrals, and case management services otherwise covered under the State child health plan (or waiver of such plan) in the same manner as described in section 1396a(a)(84)(D) of this title .
+
+In general
+
+Exception for state legislation
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XXI, § 2102, as added [Pub. L. 105–33, title IV, § 4901(a)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 552](https://www.govinfo.gov/link/statute/111/552); amended [Pub. L. 111–3, title I, § 111(b)(2)](https://www.govinfo.gov/link/plaw/111/public/3), title II, §§ 201(b)(2)(B)(i), 212, title III, § 302(a), title V, § 501(a)(2), (b)(2), Feb. 4, 2009, [123 Stat. 28](https://www.govinfo.gov/link/statute/123/28), 39, 55, 63, 85, 86; [Pub. L. 111–148, title II, § 2101(d)(1)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 287](https://www.govinfo.gov/link/statute/124/287); [Pub. L. 111–152, title I, § 1004(b)(2)(A)](https://www.govinfo.gov/link/plaw/111/public/152), Mar. 30, 2010, [124 Stat. 1034](https://www.govinfo.gov/link/statute/124/1034); [Pub. L. 114–198, title VII, § 706(b)(2)](https://www.govinfo.gov/link/plaw/114/public/198), July 22, 2016, [130 Stat. 754](https://www.govinfo.gov/link/statute/130/754); [Pub. L. 115–271, title V, § 5022(c)](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 3964](https://www.govinfo.gov/link/statute/132/3964); [Pub. L. 117–328, div. FF, title V, § 5121(c)(1)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5942](https://www.govinfo.gov/link/statute/136/5942); [Pub. L. 118–42, div. G, title I, § 205(b)(1)](https://www.govinfo.gov/link/plaw/118/public/42), Mar. 9, 2024, [138 Stat. 406](https://www.govinfo.gov/link/statute/138/406); [Pub. L. 119–21, title VII, § 71112(c)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 299](https://www.govinfo.gov/link/statute/139/299).)*

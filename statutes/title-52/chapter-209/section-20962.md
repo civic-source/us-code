@@ -3,9 +3,10 @@ title: "Section 20962 - Process for adoption"
 usc_title: 52
 usc_section: "20962"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "52 U.S.C. § 20962"
-generated_at: "2026-03-30T02:56:30.166Z"
+generated_at: "2026-11-23T20:27:36.978Z"
+status: "active"
 ---
 
 # § 20962. Process for adoption
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:30.166Z"
   - **(1)** A voluntary voting system guideline described in subsection (b) (or modification of such a guideline) shall not be considered to be finally adopted by the Commission unless the Commission votes to approve the final adoption of the guideline (or modification), taking into consideration the comments and recommendations submitted by the Board of Advisors and the Standards Board under subsection (c).
   - **(2)** The Commission may not vote on the final adoption of a guideline described in subsection (b) (or modification of such a guideline) until the expiration of the 90-day period which begins on the date the Executive Director of the Commission submits the proposed guideline (or modification) to the Board of Advisors and the Standards Board under subsection (b).
 - **(e)** Notwithstanding any other provision of this subpart, the most recent set of voting system standards adopted by the Federal Election Commission prior to October 29, 2002 , shall be deemed to have been adopted by the Commission as of October 29, 2002 , as the first set of voluntary voting system guidelines adopted under this subpart.
+
+## Source Credit
+
+*([Pub. L. 107–252, title II, § 222](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1683](https://www.govinfo.gov/link/statute/116/1683).)*

@@ -3,9 +3,10 @@ title: "Section 3201 - Findings and purpose"
 usc_title: 25
 usc_section: "3201"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3201"
-generated_at: "2026-03-30T02:54:52.849Z"
+generated_at: "2026-11-23T20:26:25.639Z"
+status: "active"
 ---
 
 # § 3201. Findings and purpose
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:52.849Z"
   - **(7)** provide for the treatment and prevention of incidents of family violence;
   - **(8)** establish tribally operated programs to protect Indian children and reduce the incidents of family violence in Indian country; and
   - **(9)** authorize other actions necessary to ensure effective child protection on Indian reservations.
+
+## Source Credit
+
+*([Pub. L. 101–630, title IV, § 402](https://www.govinfo.gov/link/plaw/101/public/630), Nov. 28, 1990, [104 Stat. 4544](https://www.govinfo.gov/link/statute/104/4544).)*

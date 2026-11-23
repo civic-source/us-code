@@ -3,9 +3,10 @@ title: "Section 50501 - Definitions"
 usc_title: 51
 usc_section: "50501"
 chapter: 505
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 50501"
-generated_at: "2026-03-30T02:56:28.707Z"
+generated_at: "2026-11-23T20:27:37.495Z"
+status: "active"
 ---
 
 # § 50501. Definitions
@@ -28,3 +29,54 @@ In this chapter:
   - **(12)** The term “space transportation infrastructure” means facilities, associated equipment, and real property (including launch sites, launch support facilities, space recovery sites, and space recovery support facilities) required to perform launch or space recovery activities.
   - **(13)** The term “State” means the several States, the District of Columbia, Puerto Rico, American Samoa, the United States Virgin Islands, Guam, the Northern Mariana Islands, and any other commonwealth, territory, or possession of the United States.
   - **(14)** The term “United States” means the States, collectively.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 50501 | 15 U.S.C. 5802 . | Pub. L. 102–588, title V, § 502 , Nov. 4, 1992 , 106 Stat. 5123 . |
+
+
+Agency
+
+Anchor tenancy
+
+Commercial
+
+Cost effective
+
+Launch
+
+Launch services
+
+Launch support facilities
+
+Launch vehicle
+
+Payload
+
+Payload integration services
+
+Space recovery support facilities
+
+Space transportation infrastructure
+
+State
+
+United states
+
+Historical and Revision Notes
+
+50501
+
+15 U.S.C. 5802
+
+Pub. L. 102–588, title V, § 502
+
+Nov. 4, 1992
+
+106 Stat. 5123
+
+“The Congress finds that—
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3404](https://www.govinfo.gov/link/statute/124/3404).)*

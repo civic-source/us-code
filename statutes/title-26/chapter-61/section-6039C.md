@@ -3,9 +3,10 @@ title: "Section 6039C - Returns with respect to foreign persons holding direct i
 usc_title: 26
 usc_section: "6039C"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6039C"
-generated_at: "2026-03-30T02:55:27.831Z"
+generated_at: "2026-11-23T20:26:46.508Z"
+status: "active"
 ---
 
 # § 6039C. Returns with respect to foreign persons holding direct investments in United States real property interests
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:27.831Z"
 - **(d)** A nonresident alien individual or foreign corporation subject to tax under section 897(a) (and any person required to withhold tax under section 1445) shall pay any tax and file any return required by this title—
   - **(1)** to the United States, in the case of any interest in real property located in the United States and an interest (other than an interest solely as a creditor) in a domestic corporation (with respect to the United States) described in section 897(c)(1)(A)(ii), and
   - **(2)** to the Virgin Islands, in the case of any interest in real property located in the Virgin Islands and an interest (other than an interest solely as a creditor) in a domestic corporation (with respect to the Virgin Islands) described in section 897(c)(1)(A)(ii).
+
+## Source Credit
+
+*(Added [Pub. L. 96–499, title XI, § 1123(a)](https://www.govinfo.gov/link/plaw/96/public/499), Dec. 5, 1980, [94 Stat. 2687](https://www.govinfo.gov/link/statute/94/2687); amended [Pub. L. 97–34, title VIII, § 831(a)(3)](https://www.govinfo.gov/link/plaw/97/public/34), (e), Aug. 13, 1981, [95 Stat. 352](https://www.govinfo.gov/link/statute/95/352), 354; [Pub. L. 98–369, div. A, title I, § 129(b)(1)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 659](https://www.govinfo.gov/link/statute/98/659); [Pub. L. 99–514, title XVIII, § 1810(f)(7)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2828](https://www.govinfo.gov/link/statute/100/2828).)*

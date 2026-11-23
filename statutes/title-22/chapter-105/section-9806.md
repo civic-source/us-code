@@ -3,9 +3,10 @@ title: "Section 9806 - Implementation"
 usc_title: 22
 usc_section: "9806"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9806"
-generated_at: "2026-03-30T02:55:05.473Z"
+generated_at: "2026-11-23T20:26:32.802Z"
+status: "active"
 ---
 
 # § 9806. Implementation
@@ -14,3 +15,7 @@ The President, in coordination with the Secretary of State, the Administrator of
 
   - **(1)** the Global Fragility Strategy required under section 9803 of this title , including each of the country plans developed under section 9805 of this title , is implemented, updated, and coordinated on a regular basis; and
   - **(2)** the strategy is used to guide United States Government policy at a senior level and incorporated into relevant strategies and plans across the United States Government such that the activities of all relevant Federal departments and agencies are consistent with the strategy.
+
+## Source Credit
+
+*([Pub. L. 116–94, div. J, title V, § 507](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3065](https://www.govinfo.gov/link/statute/133/3065).)*

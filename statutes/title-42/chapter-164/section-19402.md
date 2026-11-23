@@ -3,9 +3,10 @@ title: "Section 19402 - Definitions"
 usc_title: 42
 usc_section: "19402"
 chapter: 164
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 19402"
-generated_at: "2026-03-30T02:56:11.547Z"
+generated_at: "2026-11-23T20:27:23.878Z"
+status: "active"
 ---
 
 # § 19402. Definitions
@@ -16,3 +17,7 @@ In this chapter:
   - **(2)** The term “nondisparagement clause” means a provision in a contract or agreement that requires 1 or more parties to the contract or agreement not to make a negative statement about another party that relates to the contract, agreement, claim, or case.
   - **(3)** The term “sexual assault dispute” means a dispute involving a nonconsensual sexual act or sexual contact, as such terms are defined in section 2246 of title 18 or similar applicable Tribal or State law, including when the victim lacks capacity to consent.
   - **(4)** The term “sexual harassment dispute” means a dispute relating to conduct that is alleged to constitute sexual harassment under applicable Federal, Tribal, or State law.
+
+## Source Credit
+
+*([Pub. L. 117–224, § 3](https://www.govinfo.gov/link/plaw/117/public/224), Dec. 7, 2022, [136 Stat. 2290](https://www.govinfo.gov/link/statute/136/2290).)*

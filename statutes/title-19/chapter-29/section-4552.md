@@ -3,9 +3,10 @@ title: "Section 4552 - Presidential action regarding USMCA imports"
 usc_title: 19
 usc_section: "4552"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 4552"
-generated_at: "2026-03-30T02:54:24.713Z"
+generated_at: "2026-11-23T20:26:11.167Z"
+status: "active"
 ---
 
 # § 4552. Presidential action regarding USMCA imports
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:24.713Z"
   - **(2)** Upon receiving a request under paragraph (1)(B), the International Trade Commission shall conduct an investigation to determine whether a surge in such imports undermines the effectiveness of the action. The International Trade Commission shall submit the findings of its investigation to the President no later than 30 days after the request is received by the International Trade Commission.
   - **(3)** For purposes of this subsection, the term “surge” means a significant increase in imports over the trend for a recent representative base period.
 - **(d)** Any action taken under this section proclaiming a quantitative restriction shall permit the importation of a quantity or value of the article which is not less than the quantity or value of such article imported into the United States during the most recent period that is representative of imports of such article, with allowance for reasonable growth.
+
+## Source Credit
+
+*([Pub. L. 116–113, title III, § 302](https://www.govinfo.gov/link/plaw/116/public/113), formerly [Pub. L. 103–182, title III, § 312](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2107](https://www.govinfo.gov/link/statute/107/2107); renumbered [§ 302 of Pub. L. 116–113](https://www.govinfo.gov/link/plaw/116/public/113) and amended [Pub. L. 116–113, title V, § 502(c)](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 70](https://www.govinfo.gov/link/statute/134/70).)*

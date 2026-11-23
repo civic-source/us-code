@@ -3,9 +3,10 @@ title: "Section 2349 - Overseas Workload Program"
 usc_title: 10
 usc_section: "2349"
 chapter: 138
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2349"
-generated_at: "2026-03-30T02:53:38.155Z"
+generated_at: "2026-11-23T20:25:51.547Z"
+status: "active"
 ---
 
 # § 2349. Overseas Workload Program
@@ -16,3 +17,15 @@ generated_at: "2026-03-30T02:53:38.155Z"
   - **(1)** could adversely affect the military preparedness of the armed forces; or
   - **(2)** would violate the terms of an international agreement to which the United States is a party.
 - **(d)** In this section, the term “major non-NATO ally” has the meaning given that term in section 2350a(i)(2) of this title .
+
+In General
+
+Site of Performance
+
+Exceptions
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 103–160, div. A, title XIV, § 1431(a)(1)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1832](https://www.govinfo.gov/link/statute/107/1832); amended [Pub. L. 108–375, div. A, title X, § 1084(d)(18)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2062](https://www.govinfo.gov/link/statute/118/2062).)*

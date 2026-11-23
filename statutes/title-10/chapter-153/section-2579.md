@@ -3,9 +3,10 @@ title: "Section 2579 - War booty: procedures for handling and retaining battlefi
 usc_title: 10
 usc_section: "2579"
 chapter: 153
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2579"
-generated_at: "2026-03-30T02:53:38.165Z"
+generated_at: "2026-11-23T20:25:51.617Z"
+status: "active"
 ---
 
 # § 2579. War booty: procedures for handling and retaining battlefield objects
@@ -20,3 +21,13 @@ generated_at: "2026-03-30T02:53:38.165Z"
     - **(A)** The only weapons that may be retained are those in categories to be agreed upon jointly by the Secretary of Defense and the Secretary of the Treasury.
     - **(B)** Before a weapon is turned over to a member, the weapon shall be rendered unserviceable.
     - **(C)** A charge may be assessed in connection with each weapon in an amount sufficient to cover the full cost of rendering the weapon unserviceable.
+
+Policy
+
+Regulations
+
+“The initial regulations required by section 2579 of title 10 , United States Code, as added by subsection (a), shall be prescribed not later than 270 days after the date of enactment of this Act [ Nov. 30, 1993 ]. Such regulations shall specifically address the following, consistent with section 2579 of title 10 , United States Code, as added by subsection (a):
+
+## Source Credit
+
+*(Added [Pub. L. 103–160, div. A, title XI, § 1171(a)(1)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1765](https://www.govinfo.gov/link/statute/107/1765).)*

@@ -3,9 +3,10 @@ title: "Section 8122 - Procedures for complementary access"
 usc_title: 22
 usc_section: "8122"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8122"
-generated_at: "2026-03-30T02:55:05.449Z"
+generated_at: "2026-11-23T20:26:32.699Z"
+status: "active"
 ---
 
 # § 8122. Procedures for complementary access
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:05.449Z"
     - **(F)** data maintained for compliance with environmental or occupational health and safety regulations; or
     - **(G)** research data.
 - **(e)** In carrying out their activities, members of the IAEA complementary access team and representatives or designees of the United States Government shall observe applicable environmental, health, safety, and security regulations established at the location subject to complementary access, including those for protection of controlled environments within a facility and for personal safety.
+
+## Source Credit
+
+*([Pub. L. 109–401, title II, § 222](https://www.govinfo.gov/link/plaw/109/public/401), Dec. 18, 2006, [120 Stat. 2744](https://www.govinfo.gov/link/statute/120/2744).)*

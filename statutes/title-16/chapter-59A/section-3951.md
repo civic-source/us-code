@@ -3,9 +3,10 @@ title: "Section 3951 - Definitions"
 usc_title: 16
 usc_section: "3951"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3951"
-generated_at: "2026-03-30T02:54:23.038Z"
+generated_at: "2026-11-23T20:26:20.725Z"
+status: "active"
 ---
 
 # § 3951. Definitions
@@ -24,3 +25,7 @@ As used in this chapter, the term—
   - **(8)** “Governor” means the Governor of Louisiana;
   - **(9)** “Task Force” means the Louisiana Coastal Wetlands Conservation and Restoration Task Force which shall consist of the Secretary, who shall serve as chairman, the Administrator, the Governor, the Secretary of the Interior, the Secretary of Agriculture and the Secretary of Commerce; and
   - **(10)** “Director” means the Director of the United States Fish and Wildlife Service.
+
+## Source Credit
+
+*([Pub. L. 101–646, title III, § 302](https://www.govinfo.gov/link/plaw/101/public/646), Nov. 29, 1990, [104 Stat. 4778](https://www.govinfo.gov/link/statute/104/4778).)*

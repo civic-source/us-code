@@ -3,9 +3,10 @@ title: "Section 7631 - Presidential Task Force on Wildlife Trafficking"
 usc_title: 16
 usc_section: "7631"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 7631"
-generated_at: "2026-03-30T02:54:23.076Z"
+generated_at: "2026-11-23T20:26:20.846Z"
+status: "active"
 ---
 
 # § 7631. Presidential Task Force on Wildlife Trafficking
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:54:23.076Z"
   - **(5)** recommendations for how to improve United States and international efforts to suppress and prevent illegal wildlife trafficking in the future, based upon the Task Force’s experience as of the time of the review; and
   - **(6)** an analysis of the indicators developed by the Task Force, and recommended by the Government Accountability Office, to track and measure inputs, outputs, law enforcement outcomes, and the market for wildlife products for each focus country listed in the report, including baseline measures, as appropriate, for each indicator in each focus country to determine the effectiveness and appropriateness of such indicators to assess progress and whether additional or separate indicators, or adjustments to indicators, may be necessary for focus countries.
 - **(e)** The statutory authorization for the Task Force provided by this chapter shall terminate on September 30, 2028 1 1 So in original. Probably should be followed by a period.
+
+## Source Credit
+
+*([Pub. L. 114–231, title III, § 301](https://www.govinfo.gov/link/plaw/114/public/231), Oct. 7, 2016, [130 Stat. 952](https://www.govinfo.gov/link/statute/130/952); [Pub. L. 117–263, div. E, title LIX, § 5943(c)(2)](https://www.govinfo.gov/link/plaw/117/public/263), (3), Dec. 23, 2022, [136 Stat. 3471](https://www.govinfo.gov/link/statute/136/3471).)*

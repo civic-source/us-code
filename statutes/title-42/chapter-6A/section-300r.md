@@ -3,9 +3,10 @@ title: "Section 300r - Grants for construction or modernization proj­ects"
 usc_title: 42
 usc_section: "300r"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 300r"
-generated_at: "2026-03-30T02:56:10.808Z"
+generated_at: "2026-11-23T20:27:20.522Z"
+status: "active"
 ---
 
 # § 300r. Grants for construction or modernization proj­ects
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:10.808Z"
   - **(1)** The Secretary may make grants to public and nonprofit private entities for projects for (A) construction or modernization of outpatient medical facilities which are located apart from hospitals and which will provide services for medically underserved populations, and (B) conversion of existing facilities into outpatient medical facilities or facilities for long-term care to provide services for such populations.
   - **(2)** The amount of any grant under paragraph (1) may not exceed 80 per centum of the cost of the project for which the grant is made unless the project is located in an area determined by the Secretary to be an urban or rural poverty area, in which case the grant may cover up to 100 per centum of such costs.
   - **(3)** There are authorized to be appropriated for grants under paragraph (1) $15,000,000 for the fiscal year ending September 30, 1981 , and $15,000,000 for the fiscal year ending September 30, 1982 .
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XVI, § 1610, formerly § 1625, as added [Pub. L. 93–641, § 4](https://www.govinfo.gov/link/plaw/93/public/641), Jan. 4, 1975, [88 Stat. 2268](https://www.govinfo.gov/link/statute/88/2268); amended [Pub. L. 95–83, title I, § 103(b)](https://www.govinfo.gov/link/plaw/95/public/83), Aug. 1, 1977, [91 Stat. 383](https://www.govinfo.gov/link/statute/91/383); renumbered § 1610 and amended [Pub. L. 96–79, title II](https://www.govinfo.gov/link/plaw/96/public/79), §§ 201(c), 203(b), Oct. 4, 1979, [93 Stat. 631](https://www.govinfo.gov/link/statute/93/631), 635.)*

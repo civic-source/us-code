@@ -3,9 +3,10 @@ title: "Section 5813 - Responsibilities of Administrator"
 usc_title: 42
 usc_section: "5813"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5813"
-generated_at: "2026-03-30T02:56:11.237Z"
+generated_at: "2026-11-23T20:27:22.557Z"
+status: "active"
 ---
 
 # § 5813. Responsibilities of Administrator
@@ -23,3 +24,7 @@ The responsibilities of the Administrator shall include, but not be limited to�
   - **(9)** encouraging and participating in international cooperation in energy and related environmental research and development;
   - **(10)** helping to assure an adequate supply of manpower for the accomplishment of energy research and development programs, by sponsoring and assisting in education and training activities in institutions of higher education, vocational schools, and other institutions, and by assuring the collection, analysis, and dissemination of necessary manpower supply and demand data;
   - **(11)** encouraging and conducting research and development in clean and renewable energy sources.
+
+## Source Credit
+
+*([Pub. L. 93–438, title I, § 103](https://www.govinfo.gov/link/plaw/93/public/438), Oct. 11, 1974, [88 Stat. 1235](https://www.govinfo.gov/link/statute/88/1235); [Pub. L. 95–39, title V, § 510(a)](https://www.govinfo.gov/link/plaw/95/public/39), June 3, 1977, [91 Stat. 200](https://www.govinfo.gov/link/statute/91/200); [Pub. L. 102–486, title I, § 143(b)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2843](https://www.govinfo.gov/link/statute/106/2843).)*

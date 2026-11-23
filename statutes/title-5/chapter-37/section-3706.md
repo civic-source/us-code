@@ -3,9 +3,10 @@ title: "Section 3706 - Reporting requirement"
 usc_title: 5
 usc_section: "3706"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 3706"
-generated_at: "2026-03-30T02:52:56.008Z"
+generated_at: "2026-11-23T20:25:31.850Z"
+status: "active"
 ---
 
 # § 3706. Reporting requirement
@@ -22,3 +23,15 @@ generated_at: "2026-03-30T02:52:56.008Z"
   - **(1)** shall be published in the Federal Register; and
   - **(2)** shall be made publicly available on the Internet.
 - **(d)** On request of the Office, agencies shall furnish such information and reports as the Office may require in order to carry out this section.
+
+In General
+
+Content
+
+Publication
+
+Agency Cooperation
+
+## Source Credit
+
+*(Added [Pub. L. 107–347, title II, § 209(c)(1)](https://www.govinfo.gov/link/plaw/107/public/347), Dec. 17, 2002, [116 Stat. 2929](https://www.govinfo.gov/link/statute/116/2929).)*

@@ -3,9 +3,10 @@ title: "Section 18302 - Definitions"
 usc_title: 42
 usc_section: "18302"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18302"
-generated_at: "2026-03-30T02:56:11.518Z"
+generated_at: "2026-11-23T20:27:23.794Z"
+status: "active"
 ---
 
 # § 18302. Definitions
@@ -24,3 +25,7 @@ In this chapter:
   - **(8)** The term “NOAA” means the National Oceanic and Atmospheric Administration.
   - **(9)** The term “OSTP” means the Office of Science and Technology Policy.
   - **(10)** The term “Space Launch System” means the follow-on government-owned civil launch system developed, managed, and operated by NASA to serve as a key component to expand human presence beyond low-Earth orbit.
+
+## Source Credit
+
+*([Pub. L. 111–267, § 3](https://www.govinfo.gov/link/plaw/111/public/267), Oct. 11, 2010, [124 Stat. 2808](https://www.govinfo.gov/link/statute/124/2808).)*

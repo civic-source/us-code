@@ -3,9 +3,10 @@ title: "Section 12527 - Participation of students and teachers from private scho
 usc_title: 42
 usc_section: "12527"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12527"
-generated_at: "2026-03-30T02:56:11.414Z"
+generated_at: "2026-11-23T20:27:23.365Z"
+status: "active"
 ---
 
 # § 12527. Participation of students and teachers from private schools
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.414Z"
   - **(1)** for the inclusion of services and arrangements for the benefit of such students so as to allow for the equitable participation of such students in the programs implemented to carry out the objectives and provide the benefits described in this part; and
   - **(2)** for the training of the teachers of such students so as to allow for the equitable participation of such teachers in the programs implemented to carry out the objectives and provide the benefits described in this part.
 - **(b)** If a State, territory, Indian tribe, or local educational agency is prohibited by law from providing for the participation of students or teachers from private nonprofit schools as required by subsection (a), or if the Corporation determines that a State, territory, Indian tribe, or local educational agency substantially fails or is unwilling to provide for such participation on an equitable basis, the Chief Executive Officer shall waive such requirements and shall arrange for the provision of services to such students and teachers.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 115](https://www.govinfo.gov/link/plaw/101/public/610), as added [Pub. L. 111–13, title I, § 1201](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1473](https://www.govinfo.gov/link/statute/123/1473).)*

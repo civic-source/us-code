@@ -3,9 +3,10 @@ title: "Section 8142 - Peace Corps volunteers"
 usc_title: 5
 usc_section: "8142"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8142"
-generated_at: "2026-03-30T02:52:56.042Z"
+generated_at: "2026-11-23T20:25:32.101Z"
+status: "active"
 ---
 
 # § 8142. Peace Corps volunteers
@@ -30,3 +31,26 @@ generated_at: "2026-03-30T02:52:56.042Z"
   - **(2)** The Secretary shall prescribe the form and content of the certification required under paragraph (1).
   - **(3)** A certification under paragraph (1) will cease to be effective if the volunteer sustains compensable disability in connection with volunteer service.
   - **(4)** Nothing in this subsection may be construed to authorize the furnishing of any medical benefit that the Secretary of Labor is not otherwise authorized to reimburse for former Peace Corps volunteers who receive treatment for injury or disease proximately caused by their service in the Peace Corps in accordance with this chapter.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 22 U.S.C. 2504(d) . | Sept. 22, 1961 , Pub. L. 87–293, § 5(d) , 75 Stat. 613 . |
+
+
+Historical and Revision Notes
+
+Act
+
+22 U.S.C. 2504(d)
+
+Sept. 22, 1961
+
+Pub. L. 87–293, § 5(d)
+
+75 Stat. 613
+
+Act
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 552](https://www.govinfo.gov/link/statute/80/552); [Pub. L. 90–83, § 1(64)](https://www.govinfo.gov/link/plaw/90/public/83), Sept. 11, 1967, [81 Stat. 212](https://www.govinfo.gov/link/statute/81/212); [Pub. L. 93–416, § 23(b)](https://www.govinfo.gov/link/plaw/93/public/416), Sept. 7, 1974, [88 Stat. 1150](https://www.govinfo.gov/link/statute/88/1150); [Pub. L. 115–256, title I, § 102](https://www.govinfo.gov/link/plaw/115/public/256), Oct. 9, 2018, [132 Stat. 3652](https://www.govinfo.gov/link/statute/132/3652).)*

@@ -3,9 +3,10 @@ title: "Section 7381b - Laboratory cooperative science centers and other authori
 usc_title: 42
 usc_section: "7381b"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7381b"
-generated_at: "2026-03-30T02:56:11.290Z"
+generated_at: "2026-11-23T20:27:22.810Z"
+status: "active"
 ---
 
 # § 7381b. Laboratory cooperative science centers and other authorized education activities
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:11.290Z"
   - **(17)** Sponsor and assist in educational and training activities identified as critical skills needs for future workforce development at Department research and development facilities.
 - **(b)** Any of the activities authorized by subsection (a) may be conducted through Department research and development facilities. The Secretary may designate facilities conducting such education activities as “Laboratory Cooperative Science Centers”.
 - **(c)** The Secretary is authorized to accept non-Federal funds to finance education activities described in subsection (a).
+
+## Source Credit
+
+*([Pub. L. 101–510, div. C, title XXXI, § 3165](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1841](https://www.govinfo.gov/link/statute/104/1841); [Pub. L. 102–25, title VII, § 704(d)](https://www.govinfo.gov/link/plaw/102/public/25), Apr. 6, 1991, [105 Stat. 120](https://www.govinfo.gov/link/statute/105/120); [Pub. L. 109–58, title XI, § 1102(b)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 938](https://www.govinfo.gov/link/statute/119/938).)*

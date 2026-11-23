@@ -3,9 +3,10 @@ title: "Section 1490b - Housing for rural trainees"
 usc_title: 42
 usc_section: "1490b"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1490b"
-generated_at: "2026-03-30T02:56:11.098Z"
+generated_at: "2026-11-23T20:27:21.797Z"
+status: "active"
 ---
 
 # § 1490b. Housing for rural trainees
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.098Z"
 - **(h)** The Secretary shall prescribe regulations to insure that Federal funds expended under this section are not wasted or dissipated.
 - **(i)** As used in this section (1) the term “related facilities” shall include any necessary community rooms or buildings, infirmaries, utilities, access roads, water and sewer services, and the minimum fixed or movable equipment determined by the Secretary to be necessary to make the housing reasonably habitable by trainees and their families; and (2) the term “trainee” means any person receiving training under any federally assisted training program.
 - **(j)** There are authorized to be appropriated such sums as may be necessary to carry out this section.
+
+## Source Credit
+
+*(July 15, 1949, ch. 338, title V, § 522, as added [Pub. L. 90–448, title X, § 1002](https://www.govinfo.gov/link/plaw/90/public/448), Aug. 1, 1968, [82 Stat. 551](https://www.govinfo.gov/link/statute/82/551); amended [Pub. L. 98–479, title II, § 201(c)](https://www.govinfo.gov/link/plaw/98/public/479), Oct. 17, 1984, [98 Stat. 2228](https://www.govinfo.gov/link/statute/98/2228); [Pub. L. 100–242, title III, § 316(e)](https://www.govinfo.gov/link/plaw/100/public/242), Feb. 5, 1988, [101 Stat. 1898](https://www.govinfo.gov/link/statute/101/1898).)*

@@ -3,9 +3,10 @@ title: "Section 58 - Denial of certain losses"
 usc_title: 26
 usc_section: "58"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 58"
-generated_at: "2026-03-30T02:55:27.615Z"
+generated_at: "2026-11-23T20:26:45.284Z"
+status: "active"
 ---
 
 # § 58. Denial of certain losses
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:27.615Z"
     - **(A)** The amount of losses to which subsection (a) or (b) applies shall be reduced by the amount (if any) by which the taxpayer is insolvent as of the close of the taxable year.
     - **(B)** For purposes of this paragraph, the term “insolvent” means the excess of liabilities over the fair market value of assets.
   - **(2)** If the taxpayer disposes of his entire interest in any tax shelter farm activity during any taxable year, the amount of the loss attributable to such activity (determined after carryovers under subsection (a)(1)(B)) shall (to the extent otherwise allowable) be allowed for such taxable year in computing alternative minimum taxable income and not treated as a loss from a tax shelter farm activity.
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title VII, § 701(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2335](https://www.govinfo.gov/link/statute/100/2335); amended [Pub. L. 100–203, title X, § 10212(b)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–406](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–647, title I, § 1007(d)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3432](https://www.govinfo.gov/link/statute/102/3432); [Pub. L. 113–295, div. A, title II, § 221(a)(58)(E)](https://www.govinfo.gov/link/plaw/113/public/295), (60)(B), Dec. 19, 2014, [128 Stat. 4047](https://www.govinfo.gov/link/statute/128/4047), 4048; [Pub. L. 115–97, title I, § 12001(b)(9)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2093](https://www.govinfo.gov/link/statute/131/2093); [Pub. L. 115–141, div. U, title IV, § 401(a)(30)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1185](https://www.govinfo.gov/link/statute/132/1185).)*

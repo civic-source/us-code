@@ -3,9 +3,10 @@ title: "Section 5318a - John Heinz Neighborhood Development Program"
 usc_title: 42
 usc_section: "5318a"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5318a"
-generated_at: "2026-03-30T02:56:11.233Z"
+generated_at: "2026-11-23T20:27:22.534Z"
+status: "active"
 ---
 
 # § 5318a. John Heinz Neighborhood Development Program
@@ -69,3 +70,7 @@ generated_at: "2026-03-30T02:56:11.233Z"
     - **(D)** may use not more than 5 per centum of the funds appropriated for administrative or other expenses in connection with the program.
 - **(f)** Of the amounts made available for assistance under section 5303 of this title , $1,000,000 for fiscal year 1993 (in addition to other amounts provided for such fiscal year) and $3,000,000 for fiscal year 1994 shall be available to carry out this section.
 - **(g)** This section may be cited as the “John Heinz Neighborhood Development Act”.
+
+## Source Credit
+
+*([Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title I, § 123], Nov. 30, 1983, [97 Stat. 1172](https://www.govinfo.gov/link/statute/97/1172); [Pub. L. 98–479, title I, § 101(b)(2)](https://www.govinfo.gov/link/plaw/98/public/479), (3), Oct. 17, 1984, [98 Stat. 2220](https://www.govinfo.gov/link/statute/98/2220); [Pub. L. 100–242, title V](https://www.govinfo.gov/link/plaw/100/public/242), §§ 521, 525, Feb. 5, 1988, [101 Stat. 1938](https://www.govinfo.gov/link/statute/101/1938), 1939; [Pub. L. 101–625, title IX, § 915](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4395](https://www.govinfo.gov/link/statute/104/4395); [Pub. L. 102–550, title VIII, § 832](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3852](https://www.govinfo.gov/link/statute/106/3852); [Pub. L. 105–362, title VII, § 701(d)](https://www.govinfo.gov/link/plaw/105/public/362), Nov. 10, 1998, [112 Stat. 3287](https://www.govinfo.gov/link/statute/112/3287).)*

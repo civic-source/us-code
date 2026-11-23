@@ -3,9 +3,10 @@ title: "Section 41 - Collection and publication"
 usc_title: 13
 usc_section: "41"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "13 U.S.C. § 41"
-generated_at: "2026-03-30T02:54:03.337Z"
+generated_at: "2026-11-23T20:25:53.901Z"
+status: "active"
 ---
 
 # § 41. Collection and publication
@@ -18,3 +19,7 @@ The Secretary shall collect and publish statistics concerning the—
   - **(4)** number of active consuming cotton spindles;
   - **(5)** number of active spindle hours; and
   - **(6)** quantity of cotton imported and exported, with the country of origin and destination.
+
+## Source Credit
+
+*(Aug. 31, 1954, ch. 1158, [68 Stat. 1016](https://www.govinfo.gov/link/statute/68/1016).)*

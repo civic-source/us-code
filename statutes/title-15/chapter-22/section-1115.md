@@ -3,9 +3,10 @@ title: "Section 1115 - Registration on principal register as evidence of exclusi
 usc_title: 15
 usc_section: "1115"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1115"
-generated_at: "2026-03-30T02:54:08.126Z"
+generated_at: "2026-11-23T20:26:03.959Z"
+status: "active"
 ---
 
 # § 1115. Registration on principal register as evidence of exclusive right to use mark; defenses
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:08.126Z"
   - **(7)** That the mark has been or is being used to violate the antitrust laws of the United States; or
   - **(8)** That the mark is functional; or
   - **(9)** That equitable principles, including laches, estoppel, and acquiescence, are applicable.
+
+## Source Credit
+
+*(July 5, 1946, ch. 540, title VI, § 33, [60 Stat. 438](https://www.govinfo.gov/link/statute/60/438); [Pub. L. 87–772, § 18](https://www.govinfo.gov/link/plaw/87/public/772), Oct. 9, 1962, [76 Stat. 774](https://www.govinfo.gov/link/statute/76/774); [Pub. L. 100–667, title I, § 128(a)](https://www.govinfo.gov/link/plaw/100/public/667), (b), Nov. 16, 1988, [102 Stat. 3944](https://www.govinfo.gov/link/statute/102/3944); [Pub. L. 105–330, title II, § 201(a)(9)](https://www.govinfo.gov/link/plaw/105/public/330), Oct. 30, 1998, [112 Stat. 3070](https://www.govinfo.gov/link/statute/112/3070); [Pub. L. 107–273, div. C, title III, § 13207(b)(7)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1908](https://www.govinfo.gov/link/statute/116/1908).)*

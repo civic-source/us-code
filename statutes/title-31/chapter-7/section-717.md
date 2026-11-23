@@ -3,9 +3,10 @@ title: "Section 717 - Evaluating programs and activities of the United States Go
 usc_title: 31
 usc_section: "717"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 717"
-generated_at: "2026-03-30T02:55:34.046Z"
+generated_at: "2026-11-23T20:26:51.682Z"
+status: "active"
 ---
 
 # § 717. Evaluating programs and activities of the United States Government
@@ -21,3 +22,43 @@ generated_at: "2026-03-30T02:55:34.046Z"
     - **(A)** develop a statement of legislative goals and ways to assess and report program performance related to the goals, including recommended ways to assess performance, information to be reported, responsibility for reporting, frequency of reports, and feasibility of pilot testing; and
     - **(B)** assess program evaluations prepared by and for an agency.
   - **(2)** On request of a member of Congress, the Comptroller General shall give the member a copy of the material the Comptroller General compiles in carrying out this subsection that has been released by the committee for which the material was compiled.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 717(a) | 31:1157. | Oct. 26, 1970 , Pub. L. 91–510, § 207 , 84 Stat. 1168 . |
+| 717(b) | 31:1154(a). | Oct. 26, 1970 , Pub. L. 91–510, § 204(a) –(c), 84 Stat. 1168 ; restated July 12, 1974 , Pub. L. 93–344, § 702(a) , 88 Stat. 326 . |
+| 717(c) | 31:1154(c). |  |
+| 717(d) | 31:1154(b). |  |
+
+
+Historical and Revision Notes
+
+717(a)
+
+Oct. 26, 1970
+
+Pub. L. 91–510, § 207
+
+84 Stat. 1168
+
+717(b)
+
+Oct. 26, 1970
+
+Pub. L. 91–510, § 204(a)
+
+84 Stat. 1168
+
+July 12, 1974
+
+Pub. L. 93–344, § 702(a)
+
+88 Stat. 326
+
+717(c)
+
+717(d)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 893](https://www.govinfo.gov/link/statute/96/893).)*

@@ -3,9 +3,10 @@ title: "Section 2018 - Regional meetings and negotiated rulemaking"
 usc_title: 25
 usc_section: "2018"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 2018"
-generated_at: "2026-03-30T02:54:52.834Z"
+generated_at: "2026-11-23T20:26:25.570Z"
+status: "active"
 ---
 
 # § 2018. Regional meetings and negotiated rulemaking
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:52.834Z"
 - **(c)**
   - **(1)** The provisions of this section shall supersede any conflicting regulations in effect on the day before the date of enactment of this chapter, and the Secretary may repeal any regulation that is inconsistent with the provisions of this chapter.
   - **(2)** The Secretary may modify regulations promulgated under this section or the Tribally Controlled Schools Act of 1988 [ 25 U.S.C. 2501 et seq.], only in accordance with this section.
+
+## Source Credit
+
+*([Pub. L. 95–561, title XI, § 1138](https://www.govinfo.gov/link/plaw/95/public/561), as added [Pub. L. 107–110, title X, § 1042](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2057](https://www.govinfo.gov/link/statute/115/2057); amended [Pub. L. 117–286, § 4(a)(182)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4326](https://www.govinfo.gov/link/statute/136/4326).)*

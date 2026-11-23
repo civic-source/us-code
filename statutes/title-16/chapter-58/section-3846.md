@@ -3,9 +3,10 @@ title: "Section 3846 - Regulations"
 usc_title: 16
 usc_section: "3846"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3846"
-generated_at: "2026-03-30T02:54:23.035Z"
+generated_at: "2026-11-23T20:26:20.714Z"
+status: "active"
 ---
 
 # § 3846. Regulations
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:23.035Z"
   - **(1)** shall be carried out without regard to chapter 35 of title 44 (commonly known as the Paperwork Reduction Act); and
   - **(2)** shall be made as an interim rule effective on publication with an opportunity for notice and comment.
 - **(c)** In promulgating regulations under this section, the Secretary shall use the authority provided under section 808 of title 5 .
+
+## Source Credit
+
+*([Pub. L. 99–198, title XII, § 1246](https://www.govinfo.gov/link/plaw/99/public/198), as added [Pub. L. 113–79, title II, § 2608](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 761](https://www.govinfo.gov/link/statute/128/761).)*

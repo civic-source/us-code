@@ -3,9 +3,10 @@ title: "Section 1508 - Publication in Federal Register as notice of hearing"
 usc_title: 44
 usc_section: "1508"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "44 U.S.C. § 1508"
-generated_at: "2026-03-30T02:55:56.291Z"
+generated_at: "2026-11-23T20:27:03.788Z"
+status: "active"
 ---
 
 # § 1508. Publication in Federal Register as notice of hearing
@@ -14,3 +15,7 @@ A notice of hearing or of opportunity to be heard, required or authorized to be 
 
   - **(1)** not less than the time specifically prescribed for the publication of the notice by the appropriate Act of Congress; or
   - **(2)** not less than fifteen days when time for publication is not specifically prescribed by the Act, without prejudice, however, to the effectiveness of a notice of less than fifteen days where the shorter period is reasonable.
+
+## Source Credit
+
+*([Pub. L. 90–620](https://www.govinfo.gov/link/plaw/90/public/620), Oct. 22, 1968, [82 Stat. 1276](https://www.govinfo.gov/link/statute/82/1276).)*

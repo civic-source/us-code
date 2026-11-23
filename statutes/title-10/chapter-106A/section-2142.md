@@ -3,9 +3,10 @@ title: "Section 2142 - Educational assistance program: eligibility"
 usc_title: 10
 usc_section: "2142"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2142"
-generated_at: "2026-03-30T02:53:38.143Z"
+generated_at: "2026-11-23T20:25:51.459Z"
+status: "active"
 ---
 
 # § 2142. Educational assistance program: eligibility
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:38.143Z"
   - **(1)** enlist or reenlist for service on active duty as a member of the Army, Navy, Air Force, or Marine Corps after September 30, 1980 , and before October 1, 1981 ;
   - **(2)** are graduates from a secondary school; and
   - **(3)** meet such other requirements as the Secretary may consider appropriate for the purposes of this chapter and the needs of the armed forces.
+
+## Source Credit
+
+*(Added [Pub. L. 96–342, title IX, § 901(a)](https://www.govinfo.gov/link/plaw/96/public/342), Sept. 8, 1980, [94 Stat. 1111](https://www.govinfo.gov/link/statute/94/1111).)*

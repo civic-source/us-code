@@ -3,9 +3,10 @@ title: "Section 8574 - Strategy to counter role of the People’s Republic of Ch
 usc_title: 22
 usc_section: "8574"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8574"
-generated_at: "2026-03-30T02:55:05.454Z"
+generated_at: "2026-11-23T20:26:32.723Z"
+status: "active"
 ---
 
 # § 8574. Strategy to counter role of the People’s Republic of China in evasion of sanctions with respect to Iran
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:55:05.454Z"
     - **(F)** the personnel and resources needed to enforce sanctions with respect to Iranian-origin petroleum products; and
     - **(G)** the impact of smuggled illicit Iranian-origin petroleum products on global energy markets.
 - **(c)** The strategy required by subsection (a) shall be submitted in unclassified form, but may include a classified index.
+
+## Source Credit
+
+*([Pub. L. 118–50, div. J, § 5](https://www.govinfo.gov/link/plaw/118/public/50), Apr. 24, 2024, [138 Stat. 967](https://www.govinfo.gov/link/statute/138/967).)*

@@ -3,9 +3,10 @@ title: "Section 6301 - Definitions"
 usc_title: 49
 usc_section: "6301"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 6301"
-generated_at: "2026-03-30T02:56:19.321Z"
+generated_at: "2026-11-23T20:27:34.699Z"
+status: "active"
 ---
 
 # § 6301. Definitions
@@ -17,3 +18,19 @@ In this chapter, the following definitions apply:
   - **(3)** The term “Director” means the Director of the Bureau.
   - **(4)** The term “Library” means the National Transportation Library established by section 6304(a).
   - **(5)** The term “Secretary” means the Secretary of Transportation.
+
+Bureau
+
+Department
+
+Director
+
+Library
+
+Secretary
+
+“If the provisions of section 111 of title 49 , United States Code, are transferred to chapter 63 of that title, the following rules of construction apply:
+
+## Source Credit
+
+*(Added [Pub. L. 112–141, div. E, title II, § 52011(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 887](https://www.govinfo.gov/link/statute/126/887).)*

@@ -3,9 +3,10 @@ title: "Section 3244 - Fiscal controls; sanctions"
 usc_title: 29
 usc_section: "3244"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3244"
-generated_at: "2026-03-30T02:55:18.760Z"
+generated_at: "2026-11-23T20:26:38.128Z"
+status: "active"
 ---
 
 # § 3244. Fiscal controls; sanctions
@@ -64,3 +65,7 @@ generated_at: "2026-03-30T02:55:18.760Z"
 - **(e)** In emergency situations, if the Secretary determines it is necessary to protect the integrity of the funds or ensure the proper operation of the program or activity involved, the Secretary may immediately terminate or suspend financial assistance, in whole or in part, to the recipient if the recipient is given prompt notice and the opportunity for a subsequent hearing within 30 days after such termination or suspension. The Secretary shall not delegate any of the functions or authority specified in this subsection, other than to an officer whose appointment is required to be made by and with the advice and consent of the Senate.
 - **(f)** If the Secretary determines that any recipient under this subchapter has discharged or in any other manner discriminated against a participant or against any individual in connection with the administration of the program involved, or against any individual because such individual has filed any complaint or instituted or caused to be instituted any proceeding under or related to this subchapter, or has testified or is about to testify in any such proceeding or an investigation under or related to this subchapter, or otherwise unlawfully denied to any individual a benefit to which that individual is entitled under the provisions of this subchapter, including regulations issued under this subchapter, the Secretary shall, within 30 days, take such action or order such corrective measures, as necessary, with respect to the recipient or the aggrieved individual, or both.
 - **(g)** The remedies described in this section shall not be considered to be the exclusive remedies available for violations described in this section.
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 184](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1590](https://www.govinfo.gov/link/statute/128/1590).)*

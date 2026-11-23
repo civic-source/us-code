@@ -3,9 +3,10 @@ title: "Section 2283 - Transportation of explosive, biological, chemical, or rad
 usc_title: 18
 usc_section: "2283"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2283"
-generated_at: "2026-03-30T02:54:16.501Z"
+generated_at: "2026-11-23T20:26:08.588Z"
+status: "active"
 ---
 
 # § 2283. Transportation of explosive, biological, chemical, or radioactive or nuclear materials
@@ -25,3 +26,29 @@ generated_at: "2026-03-30T02:54:16.501Z"
     - **(D)** all refined isotopes of radium.
   - **(8)** The term “source material” has the meaning given that term in section 11(z) of the Atomic Energy Act of 1954 ( 42 U.S.C. 2014(z) ).
   - **(9)** The term “special nuclear material” has the meaning given that term in section 11(aa) of the Atomic Energy Act of 1954 ( 42 U.S.C. 2014(aa) ).
+
+In General
+
+Causing Death
+
+Definitions
+
+Biological agent
+
+By-product material
+
+Chemical weapon
+
+Explosive or incendiary device
+
+Nuclear material
+
+Radioactive material
+
+Source material
+
+Special nuclear material
+
+## Source Credit
+
+*(Added [Pub. L. 109–177, title III, § 305(a)](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 236](https://www.govinfo.gov/link/statute/120/236).)*

@@ -3,9 +3,10 @@ title: "Section 1962b - Creation of commissions; powers and duties"
 usc_title: 42
 usc_section: "1962b"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1962b"
-generated_at: "2026-03-30T02:56:11.133Z"
+generated_at: "2026-11-23T20:27:21.978Z"
+status: "active"
 ---
 
 # § 1962b. Creation of commissions; powers and duties
@@ -16,3 +17,19 @@ generated_at: "2026-03-30T02:56:11.133Z"
   - **(2)** prepare and keep up to date, to the extent practicable, a comprehensive, coordinated, joint plan for Federal, State, interstate, local and nongovernmental development of water and related resources: Provided , That the plan shall include an evaluation of all reasonable alternative means of achieving optimum development of water and related land resources of the basin or basins, and it may be prepared in stages, including recommendations with respect to individual projects;
   - **(3)** recommend long-range schedules of priorities for the collection and analysis of basic data and for investigation, planning, and construction of projects; and
   - **(4)** foster and undertake such studies of water and related land resources problems in its area, river basin, or group of river basins as are necessary in the preparation of the plan described in clause (2) of this subsection.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Ronald Reagan.
+
+## Source Credit
+
+*([Pub. L. 89–80, title II, § 201](https://www.govinfo.gov/link/plaw/89/public/80), July 22, 1965, [79 Stat. 246](https://www.govinfo.gov/link/statute/79/246).)*

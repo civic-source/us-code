@@ -3,9 +3,10 @@ title: "Section 1102 - National Domestic Preparedness Consortium"
 usc_title: 6
 usc_section: "1102"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 1102"
-generated_at: "2026-03-30T02:53:09.503Z"
+generated_at: "2026-11-23T20:25:34.896Z"
+status: "active"
 ---
 
 # § 1102. National Domestic Preparedness Consortium
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:53:09.503Z"
   - **(3)** the National Center for Biomedical Research and Training, Louisiana State University;
   - **(4)** the National Emergency Response and Rescue Training Center, Texas A&M University; and
   - **(5)** the National Exercise, Test, and Training Center, Nevada Test Site.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XII, § 1204](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 386](https://www.govinfo.gov/link/statute/121/386).)*

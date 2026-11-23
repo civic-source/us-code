@@ -3,9 +3,10 @@ title: "Section 12898a - Enterprise zone homeownership opportunity grants"
 usc_title: 42
 usc_section: "12898a"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12898a"
-generated_at: "2026-03-30T02:56:11.435Z"
+generated_at: "2026-11-23T20:27:23.455Z"
+status: "active"
 ---
 
 # § 12898a. Enterprise zone homeownership opportunity grants
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:56:11.435Z"
   - **(2)** To the extent that non-Federal public entities are prohibited by the law of any State from making any form of contribution described in subparagraph (A) or (B) of paragraph (1), the Secretary shall not consider such form of contribution in evaluating such program.
 - **(h)** Not later than 180 days after October 28, 1992 , the Secretary shall issue final regulations to carry out the provisions of this title. 2 2 So in original. Probably should be “this section.” Any such regulations shall be issued in accordance with section 553 of title 5 , notwithstanding the provisions of subsection (a)(2) of such section.
 - **(i)** There are authorized to be appropriated to carry out this section $30,000,000 in each of fiscal years 1993 and 1994.
+
+## Source Credit
+
+*([Pub. L. 102–550, title I, § 186](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3748](https://www.govinfo.gov/link/statute/106/3748).)*

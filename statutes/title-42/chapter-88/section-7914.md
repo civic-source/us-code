@@ -3,9 +3,10 @@ title: "Section 7914 - Acquisition and disposition of lands and materials"
 usc_title: 42
 usc_section: "7914"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7914"
-generated_at: "2026-03-30T02:56:11.331Z"
+generated_at: "2026-11-23T20:27:22.985Z"
+status: "active"
 ---
 
 # § 7914. Acquisition and disposition of lands and materials
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:11.331Z"
   - **(1)** that portion of the fair market value of the lands or interests therein which bears the same ratio to such fair market value as the Federal share of the costs of acquisition by the State to such lands or interest therein bears to the total cost of such acquisition, or
   - **(2)** the total amount paid by the Secretary with respect to such acquisition.
 - **(h)** No provision of any agreement under section 7913 of this title shall prohibit the Secretary of the Interior, with the concurrence of the Secretary of Energy and the Commission, from disposing of any subsurface mineral rights by sale or lease (in accordance with laws of the United States applicable to the sale, lease, or other disposal of such rights) which are associated with land on which residual radioactive materials are disposed and which are transferred to the United States as required under this section if the Secretary of the Interior takes such action as the Commission deems necessary pursuant to a license issued by the Commission to assure that the residual radioactive materials will not be disturbed by reason of any activity carried on following such disposition. If any such materials are disturbed by any such activity, the Secretary of the Interior shall insure, prior to the disposition of the minerals, that such materials will be restored to a safe and environmentally sound condition as determined by the Commission, and that the costs of such restoration will be borne by the person acquiring such rights from the Secretary of the Interior or from his successor or assign.
+
+## Source Credit
+
+*([Pub. L. 95–604, title I, § 104](https://www.govinfo.gov/link/plaw/95/public/604), Nov. 8, 1978, [92 Stat. 3025](https://www.govinfo.gov/link/statute/92/3025); [Pub. L. 104–259, § 4(a)](https://www.govinfo.gov/link/plaw/104/public/259), Oct. 9, 1996, [110 Stat. 3174](https://www.govinfo.gov/link/statute/110/3174).)*

@@ -3,9 +3,10 @@ title: "Section 6002 - Definitions"
 usc_title: 7
 usc_section: "6002"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6002"
-generated_at: "2026-03-30T02:53:42.422Z"
+generated_at: "2026-11-23T20:25:41.677Z"
+status: "active"
 ---
 
 # § 6002. Definitions
@@ -42,3 +43,7 @@ As used in this chapter—
     - **(B)** during the immediately previous year, purchased more than 50 percent of the pecans such person shelled or had shelled for such account.
   - **(25)** The term “State” means any of the several States, the District of Columbia and the Commonwealth of Puerto Rico.
   - **(26)** The term “United States” means collectively the several States, the District of Columbia, and the Commonwealth of Puerto Rico.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XIX, § 1907](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3839](https://www.govinfo.gov/link/statute/104/3839); [Pub. L. 102–237, title VIII, § 802(1)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1882](https://www.govinfo.gov/link/statute/105/1882).)*

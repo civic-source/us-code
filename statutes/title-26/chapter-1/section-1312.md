@@ -3,9 +3,10 @@ title: "Section 1312 - Circumstances of adjustment"
 usc_title: 26
 usc_section: "1312"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1312"
-generated_at: "2026-03-30T02:55:27.768Z"
+generated_at: "2026-11-23T20:26:46.084Z"
+status: "active"
 ---
 
 # § 1312. Circumstances of adjustment
@@ -30,3 +31,7 @@ The circumstances under which the adjustment provided in section 1311 is authori
       - **(i)** there was an erroneous inclusion in, or omission from, gross income,
       - **(ii)** there was an erroneous recognition, or nonrecognition, of gain or loss, or
       - **(iii)** there was an erroneous deduction of an item properly chargeable to capital account or an erroneous charge to capital account of an item properly deductible.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 338; [Pub. L. 85–866, title I, § 59(a)](https://www.govinfo.gov/link/plaw/85/public/866), Sept. 2, 1958, [72 Stat. 1647](https://www.govinfo.gov/link/statute/72/1647).)*

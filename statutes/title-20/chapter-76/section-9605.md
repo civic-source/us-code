@@ -3,9 +3,10 @@ title: "Section 9605 - Regional advisory committees"
 usc_title: 20
 usc_section: "9605"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 9605"
-generated_at: "2026-03-30T02:54:48.230Z"
+generated_at: "2026-11-23T20:26:14.999Z"
+status: "active"
 ---
 
 # § 9605. Regional advisory committees
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:48.230Z"
   - **(1)** assess the educational needs within the region to be served;
   - **(2)** in conducting the assessment under paragraph (1), seek input from chief executive officers of States, chief State school officers, educators, and parents (including through a process of open hearings to solicit the views and needs of schools (including public charter schools), teachers, administrators, members of the regional educational laboratory governing board, parents, local educational agencies, librarians, businesses, State educational agencies, and other customers (such as adult education programs) within the region) regarding the need for the activities described in section 9564 of this title and section 9602 of this title and how those needs would be most effectively addressed; and
   - **(3)** submit the assessment to the Secretary and to the Director of the Institute of Education Sciences, at such time, in such manner, and containing such information as the Secretary may require.
+
+## Source Credit
+
+*([Pub. L. 107–279, title II, § 206](https://www.govinfo.gov/link/plaw/107/public/279), Nov. 5, 2002, [116 Stat. 1979](https://www.govinfo.gov/link/statute/116/1979); [Pub. L. 108–446, title II, § 203](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2803](https://www.govinfo.gov/link/statute/118/2803).)*

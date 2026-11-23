@@ -3,9 +3,10 @@ title: "Section 254n - Private practice"
 usc_title: 42
 usc_section: "254n"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 254n"
-generated_at: "2026-03-30T02:56:10.715Z"
+generated_at: "2026-11-23T20:27:20.094Z"
+status: "active"
 ---
 
 # § 254n. Private practice
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:10.715Z"
     - **(D)** $2,500 in the fourth year of obligated service; or
   - **(2)** an amount determined by subtracting such individual’s net income before taxes from the income the individual would have received as a member of the Corps for each such year of obligated service.
 - **(g)** The Secretary shall, upon request, provide to each individual released from service obligation under this section technical assistance to assist such individual in fulfilling his or her agreement under this section.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 338D, formerly title VII, § 753, as added [Pub. L. 94–484, title IV, § 408(b)(1)](https://www.govinfo.gov/link/plaw/94/public/484), Oct. 12, 1976, [90 Stat. 2285](https://www.govinfo.gov/link/statute/90/2285); amended [Pub. L. 96–538, title IV, § 403](https://www.govinfo.gov/link/plaw/96/public/538), Dec. 17, 1980, [94 Stat. 3192](https://www.govinfo.gov/link/statute/94/3192); renumbered § 338C and amended [Pub. L. 97–35, title XXVII, § 2709(a)](https://www.govinfo.gov/link/plaw/97/public/35), (d), Aug. 13, 1981, [95 Stat. 908](https://www.govinfo.gov/link/statute/95/908), 910; renumbered § 338D and amended [Pub. L. 100–177, title II, § 201(2)](https://www.govinfo.gov/link/plaw/100/public/177), title III, § 307, Dec. 1, 1987, [101 Stat. 992](https://www.govinfo.gov/link/statute/101/992), 1005; [Pub. L. 101–597, title IV, § 401(b)[(a)]](https://www.govinfo.gov/link/plaw/101/public/597), Nov. 16, 1990, [104 Stat. 3035](https://www.govinfo.gov/link/statute/104/3035); [Pub. L. 107–251, title III, § 312](https://www.govinfo.gov/link/plaw/107/public/251), Oct. 26, 2002, [116 Stat. 1650](https://www.govinfo.gov/link/statute/116/1650).)*

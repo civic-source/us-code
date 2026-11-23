@@ -3,9 +3,10 @@ title: "Section 5 - Mandatory actions applicable to level II"
 usc_title: 12
 usc_section: "5"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5"
-generated_at: "2026-03-30T02:53:53.484Z"
+generated_at: "2026-11-23T20:25:59.288Z"
+status: "active"
 ---
 
 # § 2279bb–5. Mandatory actions applicable to level II
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:53.484Z"
     - **(A)** the Corporation does not submit a capital restoration plan that is approved by the Director; or
     - **(B)** the Director determines that the Corporation has failed to make, in good faith, reasonable efforts necessary to comply with such a capital restoration plan and fulfill the schedule for the plan approved by the Director.
 - **(d)** This section shall take effect upon the expiration of the 30-month period beginning on December 13, 1991 .
+
+## Source Credit
+
+*([Pub. L. 92–181, title VIII, § 8](https://www.govinfo.gov/link/plaw/92/public/181).36, as added [Pub. L. 102–237, title V, § 503(b)(2)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1876](https://www.govinfo.gov/link/statute/105/1876).)*

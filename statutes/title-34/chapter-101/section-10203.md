@@ -3,9 +3,10 @@ title: "Section 10203 - Reports"
 usc_title: 34
 usc_section: "10203"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10203"
-generated_at: "2026-03-30T02:55:33.262Z"
+generated_at: "2026-11-23T20:26:50.440Z"
+status: "active"
 ---
 
 # § 10203. Reports
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:33.262Z"
   - **(3)** a summary of the information provided in compliance with paragraphs (1) and (2) of subsection (a);
   - **(4)** an explanation of how Federal funds provided under this subchapter have been coordinated with Federal funds provided to States for drug abuse education, prevention, treatment, and research activities; and
   - **(5)** evaluation results of programs and projects and State strategy implementation.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 522](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 100–690, title VI, § 6091(a)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4337](https://www.govinfo.gov/link/statute/102/4337); amended [Pub. L. 109–162, title XI, § 1111(c)(2)(C)](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3101](https://www.govinfo.gov/link/statute/119/3101).)*

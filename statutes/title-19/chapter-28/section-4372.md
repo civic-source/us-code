@@ -3,9 +3,10 @@ title: "Section 4372 - Collection of information on evasion of trade remedy laws
 usc_title: 19
 usc_section: "4372"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 4372"
-generated_at: "2026-03-30T02:54:24.707Z"
+generated_at: "2026-11-23T20:26:11.140Z"
+status: "active"
 ---
 
 # § 4372. Collection of information on evasion of trade remedy laws
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:24.707Z"
     - **(A)** the allegation of evasion of the trade remedy laws, if any, submitted to U.S. Customs and Border Protection;
     - **(B)** a determination by the Commissioner in another investigation, proceeding, or other action regarding evasion of the unfair trade laws; or
     - **(C)** any other available information.
+
+## Source Credit
+
+*([Pub. L. 114–125, title IV, § 412](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 158](https://www.govinfo.gov/link/statute/130/158).)*

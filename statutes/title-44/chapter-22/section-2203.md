@@ -3,9 +3,10 @@ title: "Section 2203 - Management and custody of Presidential records"
 usc_title: 44
 usc_section: "2203"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "44 U.S.C. § 2203"
-generated_at: "2026-03-30T02:55:56.294Z"
+generated_at: "2026-11-23T20:27:03.806Z"
+status: "active"
 ---
 
 # § 2203. Management and custody of Presidential records
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:56.294Z"
   - **(2)** The Archivist shall deposit all such Presidential records in a Presidential archival depository or another archival facility operated by the United States. The Archivist is authorized to designate, after consultation with the former President, a director at each depository or facility, who shall be responsible for the care and preservation of such records.
   - **(3)** When the President considers it practicable and in the public interest, the President shall include in the President’s budget transmitted to Congress, for each fiscal year in which the term of office of the President will expire, such funds as may be necessary for carrying out the authorities of this subsection.
   - **(4)** The Archivist is authorized to dispose of such Presidential records which the Archivist has appraised and determined to have insufficient administrative, historical, informational, or evidentiary value to warrant their continued preservation. Notice of such disposal shall be published in the Federal Register at least 60 days in advance of the proposed disposal date. Publication of such notice shall constitute a final agency action for purposes of review under chapter 7 of title 5, United States Code.
+
+## Source Credit
+
+*(Added [Pub. L. 95–591, § 2(a)](https://www.govinfo.gov/link/plaw/95/public/591), Nov. 4, 1978, [92 Stat. 2524](https://www.govinfo.gov/link/statute/92/2524); amended [Pub. L. 104–186, title II, § 223(9)](https://www.govinfo.gov/link/plaw/104/public/186), Aug. 20, 1996, [110 Stat. 1752](https://www.govinfo.gov/link/statute/110/1752); [Pub. L. 113–187](https://www.govinfo.gov/link/plaw/113/public/187), §§ 2(c), 8(3), Nov. 26, 2014, [128 Stat. 2006](https://www.govinfo.gov/link/statute/128/2006), 2011; [Pub. L. 114–136, § 3](https://www.govinfo.gov/link/plaw/114/public/136), Mar. 18, 2016, [130 Stat. 305](https://www.govinfo.gov/link/statute/130/305).)*

@@ -3,9 +3,10 @@ title: "Section 453 - Use of appropriated funds"
 usc_title: 6
 usc_section: "453"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 453"
-generated_at: "2026-03-30T02:53:09.464Z"
+generated_at: "2026-11-23T20:25:34.744Z"
+status: "active"
 ---
 
 # § 453. Use of appropriated funds
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:09.464Z"
   - **(2)** The Secretary shall deposit the proceeds of any exercise of property disposal authority into the miscellaneous receipts of the Treasury in accordance with section 3302(b) of title 31 .
 - **(b)** Except as authorized by section 2601 of title 10 , by section 93 1 1 See References in Text note below. of title 14, or by section 321n or 464 of this title, gifts or donations of services or property of or for the Department may not be accepted, used, or disposed of unless specifically permitted in advance in an appropriations Act and only under the conditions and for the purposes specified in such appropriations Act.
 - **(c)** Under section 1105 of title 31 , the President shall submit to Congress a detailed budget request for the Department for fiscal year 2004, and for each subsequent fiscal year.
+
+## Source Credit
+
+*([Pub. L. 107–296, title VIII, § 873](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2243](https://www.govinfo.gov/link/statute/116/2243); [Pub. L. 108–7, div. L, § 103(3)](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 529](https://www.govinfo.gov/link/statute/117/529); [Pub. L. 111–245, § 2(a)(2)](https://www.govinfo.gov/link/plaw/111/public/245), Sept. 30, 2010, [124 Stat. 2621](https://www.govinfo.gov/link/statute/124/2621).)*

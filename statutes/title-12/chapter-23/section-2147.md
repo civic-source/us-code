@@ -3,9 +3,10 @@ title: "Section 2147 - Patronage pools"
 usc_title: 12
 usc_section: "2147"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 2147"
-generated_at: "2026-03-30T02:53:53.473Z"
+generated_at: "2026-11-23T20:25:59.238Z"
+status: "active"
 ---
 
 # § 2147. Patronage pools
@@ -14,3 +15,7 @@ Under such terms and conditions as may be determined by its board of directors, 
 
   - **(1)** for a period of at least 3 years following January 6, 1988 , establish separate patronage pools consisting of loans to eligible borrowers located in each constituent farm credit district (as such district existed on January 6, 1988 ); and
   - **(2)** allocate revenues, expenses, and net savings among such pools on an equitable basis.
+
+## Source Credit
+
+*([Pub. L. 92–181, title III, § 3](https://www.govinfo.gov/link/plaw/92/public/181).26, as added [Pub. L. 100–233, title IV, § 415(2)](https://www.govinfo.gov/link/plaw/100/public/233), Jan. 6, 1988, [101 Stat. 1644](https://www.govinfo.gov/link/statute/101/1644).)*

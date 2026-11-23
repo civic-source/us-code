@@ -3,9 +3,10 @@ title: "Section 1582 - Procedure relating to importations; disposal of refuse; e
 usc_title: 7
 usc_section: "1582"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1582"
-generated_at: "2026-03-30T02:53:42.327Z"
+generated_at: "2026-11-23T20:25:41.214Z"
+status: "active"
 ---
 
 # § 1582. Procedure relating to importations; disposal of refuse; exceptions
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:42.327Z"
 - **(d)** The provisions of this subchapter prohibiting the importation of seed shall not apply—
   - **(1)** when seed grown in the United States is returned from a foreign country without having been admitted into the commerce of any foreign country: Provided , That there is satisfactory proof as provided for in the joint rules and regulations prescribed under section 1592 of this title , that the seed was grown in the United States and was not admitted into the commerce of a foreign country and was not commingled with other seed, or
   - **(2)** when seed is imported for sowing for experimental or breeding purposes and not for sale: Provided , That declarations are filed, and importations are limited in quantity, as provided for in the rules and regulations prescribed under section 1592 of this title , to assure that the importations are for experimental or breeding purposes.
+
+## Source Credit
+
+*(Aug. 9, 1939, ch. 615, title III, § 302, [53 Stat. 1283](https://www.govinfo.gov/link/statute/53/1283); [Pub. L. 85–581](https://www.govinfo.gov/link/plaw/85/public/581), §§ 13, 14, Aug. 1, 1958, [72 Stat. 478](https://www.govinfo.gov/link/statute/72/478), 479; [Pub. L. 89–686](https://www.govinfo.gov/link/plaw/89/public/686), §§ 15–17, Oct. 15, 1966, [80 Stat. 979](https://www.govinfo.gov/link/statute/80/979); [Pub. L. 97–439, § 5(b)(2)](https://www.govinfo.gov/link/plaw/97/public/439), (3), Jan. 8, 1983, [96 Stat. 2288](https://www.govinfo.gov/link/statute/96/2288); [Pub. L. 100–449, title III, § 301(e)](https://www.govinfo.gov/link/plaw/100/public/449), Sept. 28, 1988, [102 Stat. 1868](https://www.govinfo.gov/link/statute/102/1868); [Pub. L. 103–182, title III, § 361(a)](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2122](https://www.govinfo.gov/link/statute/107/2122); [Pub. L. 103–465, title IV, § 441(2)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4973](https://www.govinfo.gov/link/statute/108/4973).)*

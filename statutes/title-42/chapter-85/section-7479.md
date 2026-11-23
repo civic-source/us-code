@@ -3,9 +3,10 @@ title: "Section 7479 - Definitions"
 usc_title: 42
 usc_section: "7479"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7479"
-generated_at: "2026-03-30T02:56:11.304Z"
+generated_at: "2026-11-23T20:27:22.873Z"
+status: "active"
 ---
 
 # § 7479. Definitions
@@ -19,3 +20,7 @@ For purposes of this part—
     - **(C)** The term “construction” when used in connection with any source or facility, includes the modification (as defined in section 7411(a) of this title ) of any source or facility.
   - **(3)** The term “best available control technology” means an emission limitation based on the maximum degree of reduction of each pollutant subject to regulation under this chapter emitted from or which results from any major emitting facility, which the permitting authority, on a case-by-case basis, taking into account energy, environmental, and economic impacts and other costs, determines is achievable for such facility through application of production processes and available methods, systems, and techniques, including fuel cleaning, clean fuels, or treatment or innovative fuel combustion techniques for control of each such pollutant. In no event shall application of “best available control technology” result in emissions of any pollutants which will exceed the emissions allowed by any applicable standard established pursuant to section 7411 or 7412 of this title. Emissions from any source utilizing clean fuels, or any other means, to comply with this paragraph shall not be allowed to increase above levels that would have been required under this paragraph as it existed prior to November 15, 1990 .
   - **(4)** The term “baseline concentration” means, with respect to a pollutant, the ambient concentration levels which exist at the time of the first application for a permit in an area subject to this part, based on air quality data available in the Environmental Protection Agency or a State air pollution control agency and on such monitoring data as the permit applicant is required to submit. Such ambient concentration levels shall take into account all projected emissions in, or which may affect, such area from any major emitting facility on which construction commenced prior to January 6, 1975 , but which has not begun operation by the date of the baseline air quality concentration determination. Emissions of sulfur oxides and particulate matter from any major emitting facility on which construction commenced after January 6, 1975 , shall not be included in the baseline and shall be counted against the maximum allowable increases in pollutant concentrations established under this part.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 169, as added [Pub. L. 95–95, title I, § 127(a)](https://www.govinfo.gov/link/plaw/95/public/95), Aug. 7, 1977, [91 Stat. 740](https://www.govinfo.gov/link/statute/91/740); amended [Pub. L. 95–190, § 14(a)(54)](https://www.govinfo.gov/link/plaw/95/public/190), Nov. 16, 1977, [91 Stat. 1402](https://www.govinfo.gov/link/statute/91/1402); [Pub. L. 101–549, title III, § 305(b)](https://www.govinfo.gov/link/plaw/101/public/549), title IV, § 403(d), Nov. 15, 1990, [104 Stat. 2583](https://www.govinfo.gov/link/statute/104/2583), 2631.)*

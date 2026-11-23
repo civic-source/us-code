@@ -3,9 +3,10 @@ title: "Section 30503 - Performance assessments"
 usc_title: 51
 usc_section: "30503"
 chapter: 305
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 30503"
-generated_at: "2026-03-30T02:56:28.705Z"
+generated_at: "2026-11-23T20:27:37.467Z"
+status: "active"
 ---
 
 # § 30503. Performance assessments
@@ -16,3 +17,30 @@ generated_at: "2026-03-30T02:56:28.705Z"
   - **(1)** setting forth in detail the results of any external review under subsection (a);
   - **(2)** setting forth in detail actions taken by the Administration in response to any external review; and
   - **(3)** including a summary of findings and recommendations from any other relevant external reviews of the Administration’s science mission priorities and programs.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30503 | 42 U.S.C. 16651 . | Pub. L. 109–155, title III, § 301 , Dec. 30, 2005 , 119 Stat. 2916 . |
+
+
+In General
+
+Timing
+
+Reports
+
+Historical and Revision Notes
+
+30503
+
+42 U.S.C. 16651
+
+Pub. L. 109–155, title III, § 301
+
+Dec. 30, 2005
+
+119 Stat. 2916
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3368](https://www.govinfo.gov/link/statute/124/3368).)*

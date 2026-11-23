@@ -3,9 +3,10 @@ title: "Section 4907 - Moratoria for species not covered by Convention"
 usc_title: 16
 usc_section: "4907"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 4907"
-generated_at: "2026-03-30T02:54:23.049Z"
+generated_at: "2026-11-23T20:26:20.757Z"
+status: "active"
 ---
 
 # § 4907. Moratoria for species not covered by Convention
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:23.049Z"
       - **(i)** the country has not developed and implemented a management program for exotic birds in trade generally, that ensures both the conservation and the humane treatment of exotic birds during capture, transport, and maintenance; and
       - **(ii)** the Secretary finds that the moratorium or quota is necessary for the conservation of the species or is otherwise consistent with the purpose of this chapter.
 - **(b)** The Secretary shall terminate a quota or moratorium established under subsection (a) if the Secretary finds that the reasons for establishing the quota or moratorium no longer exist.
+
+## Source Credit
+
+*([Pub. L. 102–440, title I, § 108](https://www.govinfo.gov/link/plaw/102/public/440), Oct. 23, 1992, [106 Stat. 2229](https://www.govinfo.gov/link/statute/106/2229).)*

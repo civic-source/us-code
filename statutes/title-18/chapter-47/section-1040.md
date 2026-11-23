@@ -3,9 +3,10 @@ title: "Section 1040 - Fraud in connection with major disaster or emergency bene
 usc_title: 18
 usc_section: "1040"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 1040"
-generated_at: "2026-03-30T02:54:16.481Z"
+generated_at: "2026-11-23T20:26:08.461Z"
+status: "active"
 ---
 
 # § 1040. Fraud in connection with major disaster or emergency benefits
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:16.481Z"
   - **(2)** the benefit is transported in the mail at any point in the authorization, transportation, transmission, transfer, disbursement, or payment of that benefit; or
   - **(3)** the benefit is a record, voucher, payment, money, or thing of value of the United States, or of any department or agency thereof.
 - **(c)** In this section, the term “benefit” means any record, voucher, payment, money or thing of value, good, service, right, or privilege provided by the United States, a State or local government, or other entity.
+
+## Source Credit
+
+*(Added [Pub. L. 110–179, § 2(a)](https://www.govinfo.gov/link/plaw/110/public/179), Jan. 7, 2008, [121 Stat. 2556](https://www.govinfo.gov/link/statute/121/2556).)*

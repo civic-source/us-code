@@ -3,9 +3,10 @@ title: "Section 3226 - YouthBuild program"
 usc_title: 29
 usc_section: "3226"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3226"
-generated_at: "2026-03-30T02:55:18.759Z"
+generated_at: "2026-11-23T20:26:38.120Z"
+status: "active"
 ---
 
 # § 3226. YouthBuild program
@@ -154,3 +155,53 @@ generated_at: "2026-03-30T02:55:18.759Z"
   - **(4)** $87,147,000 for fiscal year 2018;
   - **(5)** $89,196,000 for fiscal year 2019; and
   - **(6)** $91,087,000 for fiscal year 2020.
+
+Definitions
+
+Transfer of Functions
+
+Determinations of Certain Functions by the Office of Management and Budget
+
+Personnel Provisions.—
+
+Appointments
+
+Experts and consultants
+
+Delegation and Assignment
+
+Reorganization
+
+Rules
+
+Transfer and Allocations of Appropriations
+
+Transfers
+
+Savings Provisions.—
+
+Continuing effect of legal documents
+
+Proceedings not affected
+
+Suits not affected
+
+Nonabatement of actions
+
+Administrative actions relating to promulgation of regulations
+
+Separability
+
+Transition
+
+Accomplishing Orderly Transfer
+
+Administration of Prior Grants
+
+References
+
+Effective Date
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 171](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1576](https://www.govinfo.gov/link/statute/128/1576).)*

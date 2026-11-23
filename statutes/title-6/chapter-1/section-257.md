@@ -3,9 +3,10 @@ title: "Section 257 - Report"
 usc_title: 6
 usc_section: "257"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 257"
-generated_at: "2026-03-30T02:53:09.454Z"
+generated_at: "2026-11-23T20:25:34.685Z"
+status: "active"
 ---
 
 # § 257. Report
@@ -20,3 +21,15 @@ generated_at: "2026-03-30T02:53:09.454Z"
   - **(4)** the Committee on Homeland Security of the House of Representatives;
   - **(5)** the Committee on the Judiciary of the House of Representatives; and
   - **(6)** the Committee on Appropriations of the House of Representatives.
+
+Counter Illicit Cross-border Tunnel Operations Strategic Plan.—
+
+In general
+
+Report to congress on strategic plan
+
+Authorization of Appropriations
+
+## Source Credit
+
+*([Pub. L. 112–127, § 8](https://www.govinfo.gov/link/plaw/112/public/127), June 5, 2012, [126 Stat. 371](https://www.govinfo.gov/link/statute/126/371).)*

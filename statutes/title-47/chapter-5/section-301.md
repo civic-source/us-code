@@ -3,9 +3,10 @@ title: "Section 301 - License for radio communication or transmission of energy"
 usc_title: 47
 usc_section: "301"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 301"
-generated_at: "2026-03-30T02:56:24.503Z"
+generated_at: "2026-11-23T20:27:28.860Z"
+status: "active"
 ---
 
 # § 301. License for radio communication or transmission of energy
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:24.503Z"
 - **(e)** upon any vessel or aircraft of the United States (except as provided in section 303(t) of this title ); or
 - **(f)** upon any other mobile stations within the jurisdiction of the United States, except under and in accordance with this chapter and with a license in that behalf granted under the provisions of this chapter.
 
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title III, § 301, [48 Stat. 1081](https://www.govinfo.gov/link/statute/48/1081); [Pub. L. 97–259, title I](https://www.govinfo.gov/link/plaw/97/public/259), §§ 107, 111(b), Sept. 13, 1982, [96 Stat. 1091](https://www.govinfo.gov/link/statute/96/1091), 1093.)*

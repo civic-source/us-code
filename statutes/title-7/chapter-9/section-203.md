@@ -3,9 +3,10 @@ title: "Section 203 - Activity as stockyard dealer or market agency; benefits to
 usc_title: 7
 usc_section: "203"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 203"
-generated_at: "2026-03-30T02:53:42.277Z"
+generated_at: "2026-11-23T20:25:40.997Z"
+status: "active"
 ---
 
 # § 203. Activity as stockyard dealer or market agency; benefits to business and welfare of stockyard; registration; penalty for failure to register
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:53:42.277Z"
   - **(1)** the stockyard owner has determined that his services will be beneficial to the business and welfare of said stockyard, its patrons, and customers, which determination shall be made on a basis which is not unreasonable or unjustly discriminatory, and has given written authorization to such person, and
   - **(2)** he has registered with the Secretary, under such rules and regulations as the Secretary may prescribe, his name and address, the character of business in which he is engaged, and the kinds of stockyards services, if any, which he furnishes at such stockyard. Every other person operating as a market agency or dealer as defined in section 201 of this title may be required to register in such manner as the Secretary may prescribe. Whoever violates the provisions of this section shall be liable to a penalty of not more than $500 for each such offense and not more than $25 for each day it continues, which shall accrue to the United States and may be recovered in a civil action brought by the United States.
 
+
+## Source Credit
+
+*(Aug. 15, 1921, ch. 64, title III, § 303, [42 Stat. 163](https://www.govinfo.gov/link/statute/42/163); [Pub. L. 85–909, § 2(3)](https://www.govinfo.gov/link/plaw/85/public/909), Sept. 2, 1958, [72 Stat. 1750](https://www.govinfo.gov/link/statute/72/1750); [Pub. L. 90–446, § 1(b)](https://www.govinfo.gov/link/plaw/90/public/446), July 31, 1968, [82 Stat. 474](https://www.govinfo.gov/link/statute/82/474).)*

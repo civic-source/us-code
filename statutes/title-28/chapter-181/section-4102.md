@@ -3,9 +3,10 @@ title: "Section 4102 - Recognition of foreign defamation judgments"
 usc_title: 28
 usc_section: "4102"
 chapter: 181
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 4102"
-generated_at: "2026-03-30T02:55:30.154Z"
+generated_at: "2026-11-23T20:26:36.552Z"
+status: "active"
 ---
 
 # § 4102. Recognition of foreign defamation judgments
@@ -25,3 +26,29 @@ generated_at: "2026-03-30T02:55:30.154Z"
 - **(e)** Nothing in this section shall be construed to—
   - **(1)** affect the enforceability of any foreign judgment other than a foreign judgment for defamation; or
   - **(2)** limit the applicability of section 230 of the Communications Act of 1934 ( 47 U.S.C. 230 ) to causes of action for defamation.
+
+First Amendment Considerations.—
+
+In general
+
+Burden of establishing application of defamation laws
+
+Jurisdictional Considerations.—
+
+In general
+
+Burden of establishing exercise of jurisdiction
+
+Judgment Against Provider of Interactive Computer Service.—
+
+In general
+
+Burden of establishing consistency of judgment
+
+Appearances Not a Bar
+
+Rule of Construction
+
+## Source Credit
+
+*(Added [Pub. L. 111–223, § 3(a)](https://www.govinfo.gov/link/plaw/111/public/223), Aug. 10, 2010, [124 Stat. 2381](https://www.govinfo.gov/link/statute/124/2381).)*

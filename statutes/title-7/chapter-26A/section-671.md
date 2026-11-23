@@ -3,9 +3,10 @@ title: "Section 671 - Arbitration of disputes concerning milk"
 usc_title: 7
 usc_section: "671"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 671"
-generated_at: "2026-03-30T02:53:42.293Z"
+generated_at: "2026-11-23T20:25:41.075Z"
+status: "active"
 ---
 
 # § 671. Arbitration of disputes concerning milk
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:42.293Z"
 - **(b)** Meetings held pursuant to this section shall be conducted subject to such rules and regulations as the Secretary may prescribe.
 - **(c)** No award or agreement resulting from any such arbitration or mediation shall be effective unless and until approved by the Secretary of Agriculture, or such officer or employee of the Department of Agriculture as may be designated by him, and shall not be approved if it permits any unlawful trade practice or any unfair method of competition.
 - **(d)** No meeting so held and no award or agreement so approved shall be deemed to be in violation of any of the antitrust laws of the United States.
+
+## Source Credit
+
+*(June 3, 1937, ch. 296, § 3, [50 Stat. 248](https://www.govinfo.gov/link/statute/50/248).)*

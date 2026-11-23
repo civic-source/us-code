@@ -3,9 +3,10 @@ title: "Section 3605 - Authority to acquire consumption-based solutions"
 usc_title: 10
 usc_section: "3605"
 chapter: 253
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 3605"
-generated_at: "2026-03-30T02:53:38.195Z"
+generated_at: "2026-11-23T20:25:51.843Z"
+status: "active"
 ---
 
 # § 3605. Authority to acquire consumption-based solutions
@@ -27,3 +28,39 @@ generated_at: "2026-03-30T02:53:38.195Z"
   - **(2)** may be used to enter into incrementally funded contracts or other agreements, including advanced payments.
 - **(d)** In this section, the term “consumption-based solution” means a model under which a service is provided to the Department of Defense and may utilize any combination of software, hardware or equipment, data, and labor or services that provides a capability that is metered and billed based on actual usage at fixed-price units.
 - **(e)** Nothing in this section shall be construed to prohibit the use of the authority created under this section in combination with another contract type provided for under the Department of Defense Supplement to the Federal Acquisition Regulation.
+
+Authority
+
+Guidance Required
+
+Funding
+
+Consumption-based Solution Defined
+
+Rule of Construction
+
+In General
+
+Selection of Initiatives
+
+Requirements
+
+Exemption
+
+Duration
+
+Monitoring and Evaluation of Pilot Program
+
+Reports.—
+
+Initial report
+
+Progress report
+
+Final report
+
+Consumption-based Solution Defined
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. A, title XVIII, § 1825](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1248](https://www.govinfo.gov/link/statute/139/1248).)*

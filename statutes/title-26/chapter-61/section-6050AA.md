@@ -3,9 +3,10 @@ title: "Section 6050AA - Returns relating to applicable passenger vehicle loan i
 usc_title: 26
 usc_section: "6050AA"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6050AA"
-generated_at: "2026-03-30T02:55:27.836Z"
+generated_at: "2026-11-23T20:26:46.539Z"
+status: "active"
 ---
 
 # § 6050AA. Returns relating to applicable passenger vehicle loan interest received in trade or business from individuals
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:27.836Z"
   - **(2)** The term “specified passenger vehicle loan” means the indebtedness described in section 163(h)(4)(B) with respect to any applicable passenger vehicle.
 - **(e)** The Secretary shall issue such regulations or other guidance as may be necessary or appropriate to carry out the purposes of this section, including regulations or other guidance to prevent the duplicate reporting of information under this section.
 - **(f)** No return shall be required under this section for any period to which section 163(h)(4) does not apply.
+
+## Source Credit
+
+*(Added [Pub. L. 119–21, title VII, § 70203(c)(1)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 178](https://www.govinfo.gov/link/statute/139/178).)*

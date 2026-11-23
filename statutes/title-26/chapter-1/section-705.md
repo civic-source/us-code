@@ -3,9 +3,10 @@ title: "Section 705 - Determination of basis of partner’s interest"
 usc_title: 26
 usc_section: "705"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 705"
-generated_at: "2026-03-30T02:55:27.725Z"
+generated_at: "2026-11-23T20:26:45.867Z"
+status: "active"
 ---
 
 # § 705. Determination of basis of partner’s interest
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:27.725Z"
     - **(B)** expenditures of the partnership not deductible in computing its taxable income and not properly chargeable to capital account; and
   - **(3)** decreased (but not below zero) by the amount of the partner’s deduction for depletion for any partnership oil and gas property to the extent such deduction does not exceed the proportionate share of the adjusted basis of such property allocated to such partner under section 613A(c)(7)(D).
 - **(b)** The Secretary shall prescribe by regulations the circumstances under which the adjusted basis of a partner’s interest in a partnership may be determined by reference to his proportionate share of the adjusted basis of partnership property upon a termination of the partnership.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 242; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), title XXI, § 2115(c)(3), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834), 1909; [Pub. L. 98–369, div. A, title VII, § 722(e)(1)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 974](https://www.govinfo.gov/link/statute/98/974).)*

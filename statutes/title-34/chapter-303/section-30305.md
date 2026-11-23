@@ -3,9 +3,10 @@ title: "Section 30305 - Grants to protect inmates and safeguard communities"
 usc_title: 34
 usc_section: "30305"
 chapter: 303
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 30305"
-generated_at: "2026-03-30T02:55:33.306Z"
+generated_at: "2026-11-23T20:26:50.629Z"
+status: "active"
 ---
 
 # § 30305. Grants to protect inmates and safeguard communities
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:55:33.306Z"
 - **(g)**
   - **(1)** There are authorized to be appropriated for grants under this section $40,000,000 for each of fiscal years 2004 through 2010.
   - **(2)** Of amounts made available for grants under this section, not less than 50 percent shall be available only for activities specified in paragraph (1) of subsection (b).
+
+## Source Credit
+
+*([Pub. L. 108–79, § 6](https://www.govinfo.gov/link/plaw/108/public/79), Sept. 4, 2003, [117 Stat. 978](https://www.govinfo.gov/link/statute/117/978); [Pub. L. 114–324, § 7(1)](https://www.govinfo.gov/link/plaw/114/public/324), Dec. 16, 2016, [130 Stat. 1951](https://www.govinfo.gov/link/statute/130/1951).)*

@@ -3,12 +3,17 @@ title: "Section 4193 - Payment of interest"
 usc_title: 25
 usc_section: "4193"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 4193"
-generated_at: "2026-03-30T02:54:52.860Z"
+generated_at: "2026-11-23T20:26:25.691Z"
+status: "active"
 ---
 
 # § 4193. Payment of interest
 
 The Secretary may make, and contract to make, grants, in such amounts as may be approved in appropriations Acts, to or on behalf of an Indian tribe or housing entity issuing notes or other obligations guaranteed under this subchapter, to cover not to exceed 30 percent of the net interest cost (including such servicing, underwriting, or other costs as may be specified in regulations of the Secretary) to the borrowing entity or agency of such obligations. The Secretary may also, to the extent approved in appropriations Acts, assist the issuer of a note or other obligation guaranteed under this subchapter in the payment of all or a portion of the principal and interest amount due under the note or other obligation, if the Secretary determines that the issuer is unable to pay the amount because of circumstances of extreme hardship beyond the control of the issuer.
 
+
+## Source Credit
+
+*([Pub. L. 104–330, title VI, § 603](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4047](https://www.govinfo.gov/link/statute/110/4047).)*

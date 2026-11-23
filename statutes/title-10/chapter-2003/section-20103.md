@@ -3,9 +3,10 @@ title: "Section 20103 - Members not on sustained duty: agreements concerning con
 usc_title: 10
 usc_section: "20103"
 chapter: 2003
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 20103"
-generated_at: "2026-03-30T02:53:38.280Z"
+generated_at: "2026-11-23T20:25:52.503Z"
+status: "active"
 ---
 
 # § 20103. Members not on sustained duty: agreements concerning conditions of service
@@ -19,3 +20,13 @@ generated_at: "2026-03-30T02:53:38.280Z"
   - **(2)** the obligations of the parties; and
   - **(3)** the consequences of failure to comply with the terms of the agreement.
 - **(c)** If the period of service on active duty of a member under an agreement under subsection (a) expires during a war or during a national emergency declared by Congress or the President, the member concerned may be kept on active duty, without the consent of the member, as otherwise prescribed by law.
+
+Agreements
+
+Conditions of Service
+
+Authority for Retention on Active Duty During War or National Emergency
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title XVII, § 1715](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 628](https://www.govinfo.gov/link/statute/137/628).)*

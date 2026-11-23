@@ -3,9 +3,10 @@ title: "Section 362 - Forfeitures; recovery"
 usc_title: 47
 usc_section: "362"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 362"
-generated_at: "2026-03-30T02:56:24.512Z"
+generated_at: "2026-11-23T20:27:28.902Z"
+status: "active"
 ---
 
 # § 362. Forfeitures; recovery
@@ -14,3 +15,7 @@ The following forfeitures shall apply to this part, in addition to the penalties
 
 - **(a)** Any ship that leaves or attempts to leave any harbor or port of the United States in violation of the provisions of this part, or the rules and regulations of the Commission made in pursuance thereof, or any ship of the United States that is navigated outside of any harbor or port in violation of any of the provisions of this part, or the rules and regulations of the Commission made in pursuance thereof, shall forfeit to the United States the sum of $5,000, recoverable by way of suit or libel. Each such departure or attempted departure, and in the case of a ship of the United States each day during which such navigation occurs shall constitute a separate offense.
 - **(b)** Every willful failure on the part of the master of a ship of the United States to enforce or to comply with the provisions of this chapter or the rules and regulations of the Commission as to equipment, operators, watches, or radio service shall cause him to forfeit to the United States the sum of $1,000.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title III, § 364, formerly § 362, as added May 20, 1937, ch. 229, § 10(b), [50 Stat. 196](https://www.govinfo.gov/link/statute/50/196); renumbered § 364, Aug. 13, 1954, ch. 729, § 2(a)(1), [68 Stat. 706](https://www.govinfo.gov/link/statute/68/706); amended [Pub. L. 101–239, title III, § 3002(g)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2131](https://www.govinfo.gov/link/statute/103/2131).)*

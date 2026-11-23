@@ -3,9 +3,10 @@ title: "Section 6374b - Alternative fuels bus program"
 usc_title: 42
 usc_section: "6374b"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6374b"
-generated_at: "2026-03-30T02:56:11.261Z"
+generated_at: "2026-11-23T20:27:22.676Z"
+status: "active"
 ---
 
 # § 6374b. Alternative fuels bus program
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:56:11.261Z"
 - **(a)** The Secretary, in cooperation with the Administrator of the Environmental Protection Agency and the Administrator of the National Highway Traffic Safety Administration, shall, beginning in the fiscal year ending September 30, 1990 , assist State and local government agencies in the testing in urban settings of buses capable of operating on alternative fuels for the emissions levels, durability, safety, and fuel economy of such buses, comparing the different types with each other and with diesel powered buses, as such buses will be required to operate under Federal safety and environmental standards applicable to such buses for the model year 1991. To the extent practicable, testing assisted under this section shall apply to each of the various types of alternative fuel buses.
 - **(b)** There are authorized to be appropriated for the period encompassing the fiscal years ending September 30, 1990 , September 30, 1991 , and September 30, 1992 , a total of $2,000,000 to carry out the purposes of this section.
 - **(c)** For purposes of this section, the term “bus” means a vehicle which is designed to transport 30 individuals or more.
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 400CC](https://www.govinfo.gov/link/plaw/94/public/163), as added [Pub. L. 100–494, § 4(a)](https://www.govinfo.gov/link/plaw/100/public/494), Oct. 14, 1988, [102 Stat. 2445](https://www.govinfo.gov/link/statute/102/2445); amended [Pub. L. 102–486, title IV, § 402(1)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2875](https://www.govinfo.gov/link/statute/106/2875).)*

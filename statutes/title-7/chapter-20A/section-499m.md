@@ -3,9 +3,10 @@ title: "Section 499m - Complaints; procedure, penalties, etc."
 usc_title: 7
 usc_section: "499m"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 499m"
-generated_at: "2026-03-30T02:53:42.286Z"
+generated_at: "2026-11-23T20:25:41.044Z"
+status: "active"
 ---
 
 # § 499m. Complaints; procedure, penalties, etc.
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:42.286Z"
 - **(d)** In case of disobedience to a subpoena, the Secretary or any of his examiners may invoke the aid of any court of the United States in requiring the attendance and testimony of witnesses and the production of accounts, records, and memoranda. Any district court of the United States within the jurisdiction of which any hearing is carried on may, in case of contumacy or refusal to obey a subpoena issued to any person, issue an order requiring the person to appear before the Secretary or his examiner or to produce accounts, records, and memoranda if so ordered, or to give evidence touching any matter pertinent to any complaint; and any failure to obey such order of the court shall be punished by the court as a contempt thereof.
 - **(e)** The Secretary may order testimony to be taken by deposition in any proceeding or investigation or incident to any complaint pending under this chapter at any stage thereof. Such depositions may be taken before any person designated by the Secretary and having power to administer oaths. Such testimony shall be reduced to writing by the person taking the deposition or under his direction and shall then be subscribed by the deponent. Any person may be compelled to appear and depose and to produce accounts, records, and memoranda in the same manner as witnesses may be compelled to appear and testify and produce accounts, records, and memoranda before the Secretary or any of his examiners.
 - **(f)** Witnesses summoned before the Secretary or any officer or employee designated by him shall be paid the same fees and mileage that are paid witnesses in the courts of the United States, and witnesses whose depositions are taken and the persons taking the same shall severally be entitled to the same fees as are paid for like service in the courts of the United States.
+
+## Source Credit
+
+*(June 10, 1930, ch. 436, § 13, [46 Stat. 536](https://www.govinfo.gov/link/statute/46/536); July 30, 1956, ch. 786, § 6, [70 Stat. 727](https://www.govinfo.gov/link/statute/70/727); [Pub. L. 91–452, title II, § 205](https://www.govinfo.gov/link/plaw/91/public/452), Oct. 15, 1970, [84 Stat. 928](https://www.govinfo.gov/link/statute/84/928); [Pub. L. 95–562, § 3](https://www.govinfo.gov/link/plaw/95/public/562), Nov. 1, 1978, [92 Stat. 2381](https://www.govinfo.gov/link/statute/92/2381).)*

@@ -3,9 +3,10 @@ title: "Section 1111 - Murder"
 usc_title: 18
 usc_section: "1111"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 1111"
-generated_at: "2026-03-30T02:54:16.481Z"
+generated_at: "2026-11-23T20:26:08.464Z"
+status: "active"
 ---
 
 # § 1111. Murder
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:16.481Z"
   - **(4)** the term “pattern or practice of assault or torture” means assault or torture engaged in on at least two occasions;
   - **(5)** the term “serious bodily injury” has the meaning set forth in section 1365; and
   - **(6)** the term “torture” means conduct, whether or not committed under the color of law, that otherwise satisfies the definition set forth in section 2340(1).
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 756](https://www.govinfo.gov/link/statute/62/756); [Pub. L. 98–473, title II, § 1004](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2138](https://www.govinfo.gov/link/statute/98/2138); [Pub. L. 99–646, § 87(c)(4)](https://www.govinfo.gov/link/plaw/99/public/646), Nov. 10, 1986, [100 Stat. 3623](https://www.govinfo.gov/link/statute/100/3623); [Pub. L. 99–654, § 3(a)(4)](https://www.govinfo.gov/link/plaw/99/public/654), Nov. 14, 1986, [100 Stat. 3663](https://www.govinfo.gov/link/statute/100/3663); [Pub. L. 100–690, title VII, § 7025](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4397](https://www.govinfo.gov/link/statute/102/4397); [Pub. L. 103–322, title VI, § 60003(a)(4)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1969](https://www.govinfo.gov/link/statute/108/1969); [Pub. L. 108–21, title I, § 102](https://www.govinfo.gov/link/plaw/108/public/21), Apr. 30, 2003, [117 Stat. 652](https://www.govinfo.gov/link/statute/117/652).)*

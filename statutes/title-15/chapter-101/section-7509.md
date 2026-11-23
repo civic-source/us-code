@@ -3,9 +3,10 @@ title: "Section 7509 - Definitions"
 usc_title: 15
 usc_section: "7509"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 7509"
-generated_at: "2026-03-30T02:54:08.224Z"
+generated_at: "2026-11-23T20:26:04.462Z"
+status: "active"
 ---
 
 # § 7509. Definitions
@@ -18,3 +19,7 @@ In this chapter:
   - **(4)** The term “Council” means the National Science and Technology Council or an appropriate subgroup designated by the Council under section 7501(c) of this title .
   - **(5)** The term “advanced technology user facility” means a nanotechnology research and development facility supported, in whole or in part, by Federal funds that is open to all United States researchers on a competitive, merit-reviewed basis.
   - **(6)** The term “program component area” means a major subject area established under section 7501(c)(2) of this title under which is 1 1 So in original. Probably should be “are”. grouped related individual projects and activities carried out under the Program.
+
+## Source Credit
+
+*([Pub. L. 108–153, § 10](https://www.govinfo.gov/link/plaw/108/public/153), Dec. 3, 2003, [117 Stat. 1931](https://www.govinfo.gov/link/statute/117/1931).)*

@@ -3,9 +3,10 @@ title: "Section 5335 - Prohibition on concealment of the source of assets in mon
 usc_title: 31
 usc_section: "5335"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 5335"
-generated_at: "2026-03-30T02:55:34.070Z"
+generated_at: "2026-11-23T20:26:51.880Z"
+status: "active"
 ---
 
 # § 5335. Prohibition on concealment of the source of assets in monetary transactions
@@ -28,3 +29,29 @@ generated_at: "2026-03-30T02:55:34.070Z"
   - **(2)**
     - **(A)** Any property involved in a violation of subsection (b) or (c), or a conspiracy to commit a violation of subsection (b) or (c), and any property traceable thereto may be seized and forfeited to the United States.
     - **(B)** Seizures and forfeitures under this paragraph shall be governed by the provisions of chapter 46 of title 18 relating to civil forfeitures, except that such duties, under the customs laws described in section 981(d) of title 18 , given to the Secretary of the Treasury shall be performed by such officers, agents, and other persons as may be designated for that purpose by the Secretary of Homeland Security or the Attorney General.
+
+Definition of Monetary Transaction
+
+Prohibition
+
+Source of Funds
+
+Penalties
+
+Forfeiture.—
+
+Criminal forfeiture.—
+
+In general
+
+Procedure
+
+Civil forfeiture.—
+
+In general
+
+Procedure
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. F, title LXIII, § 6313(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4596](https://www.govinfo.gov/link/statute/134/4596).)*

@@ -3,9 +3,10 @@ title: "Section 9303 - Use of eligible obligations instead of surety bonds"
 usc_title: 31
 usc_section: "9303"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 9303"
-generated_at: "2026-03-30T02:55:34.077Z"
+generated_at: "2026-11-23T20:26:51.941Z"
+status: "active"
 ---
 
 # § 9303. Use of eligible obligations instead of surety bonds
@@ -37,3 +38,31 @@ generated_at: "2026-03-30T02:55:34.077Z"
   - **(3)** authority of a court over an eligible obligation given as security in a civil action; and
   - **(4)** authority of an official of the Government authorized by another law to receive an eligible obligation as security.
 - **(f)** To avoid frequent substitution of eligible obligations, the Secretary may prescribe regulations limiting the effect of this section to an eligible obligation maturing more than one year after the date the obligation is given as security.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 9303(a) | 6:15(1st sentence). |  |
+| 9303(b) | 6:15(3d sentence). |  |
+| 9303(c) | 6:15(2d sentence). |  |
+| 9303(d) | 6:15(4th, 5th sentences). |  |
+| 9303(e) | 6:15(6th, 8th sentences). |  |
+| 9303(f) | 6:15(7th, 9th, 11th sentences). |  |
+
+
+Historical and Revision Notes
+
+9303(a)
+
+9303(b)
+
+9303(c)
+
+9303(d)
+
+9303(e)
+
+9303(f)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 1046](https://www.govinfo.gov/link/statute/96/1046); [Pub. L. 107–217, § 3(h)(9)](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1300](https://www.govinfo.gov/link/statute/116/1300); [Pub. L. 108–178, § 4(f)(2)](https://www.govinfo.gov/link/plaw/108/public/178), Dec. 15, 2003, [117 Stat. 2641](https://www.govinfo.gov/link/statute/117/2641); [Pub. L. 109–351, title IX, § 901(b)](https://www.govinfo.gov/link/plaw/109/public/351), (c), Oct. 13, 2006, [120 Stat. 2007](https://www.govinfo.gov/link/statute/120/2007).)*

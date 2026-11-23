@@ -3,9 +3,10 @@ title: "Section 13281 - Program and solicitation"
 usc_title: 42
 usc_section: "13281"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13281"
-generated_at: "2026-03-30T02:56:11.440Z"
+generated_at: "2026-11-23T20:27:23.474Z"
+status: "active"
 ---
 
 # § 13281. Program and solicitation
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.440Z"
     - **(A)** Solicitations for proposals under this subsection shall require the proposer to include a description, including the manufacturer or manufacturers of the electric motor vehicles; the proposed users of the electric motor vehicles; the eligible metropolitan area or areas involved; the number of electric motor vehicles to be demonstrated and their type, characteristics, and life-cycle costs; the price differential; the proposed discount payment; the contributions of State or local governments and other persons to the demonstration project; the type of associated equipment to be demonstrated; the domestic content of the electric motor vehicles and associated equipment; and any other information the Secretary considers appropriate.
     - **(B)** If the proposal includes a lease arrangement, the proposal shall indicate the terms of such lease arrangement for the electric motor vehicles or associated equipment.
   - **(3)** The solicitation for proposals under this subsection shall establish a closing date for receipt of proposals. The Secretary may, if necessary, extend the closing date for receipt of proposals for a period not to exceed 90 days.
+
+## Source Credit
+
+*([Pub. L. 102–486, title VI, § 611](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2900](https://www.govinfo.gov/link/statute/106/2900).)*

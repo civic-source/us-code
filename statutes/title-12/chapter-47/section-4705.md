@@ -3,9 +3,10 @@ title: "Section 4705 - Community partnerships"
 usc_title: 12
 usc_section: "4705"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4705"
-generated_at: "2026-03-30T02:53:53.516Z"
+generated_at: "2026-11-23T20:25:59.422Z"
+status: "active"
 ---
 
 # § 4705. Community partnerships
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:53.516Z"
   - **(4)** the extent to which service to the investment area or targeted population will be better performed by a partnership as opposed to the individual community development financial institution coapplicant.
 - **(d)** Assistance provided upon approval of an application under this section shall be distributed only to the community development financial institution coapplicant, and shall not be used to fund any activities carried out directly by the community partner or an affiliate or subsidiary thereof.
 - **(e)** All other requirements and limitations imposed by this subchapter on a community development financial institution assisted under this subchapter shall apply (in the manner that the Fund determines to be appropriate) to assistance provided to carry out community partnerships. The Fund may establish additional guidelines and restrictions on the use of Federal funds to carry out community partnerships.
+
+## Source Credit
+
+*([Pub. L. 103–325, title I, § 106](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2171](https://www.govinfo.gov/link/statute/108/2171).)*

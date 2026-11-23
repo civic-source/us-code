@@ -3,9 +3,10 @@ title: "Section 965 - Tier 2 participants in C–TPAT"
 usc_title: 6
 usc_section: "965"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 965"
-generated_at: "2026-03-30T02:53:09.502Z"
+generated_at: "2026-11-23T20:25:34.891Z"
+status: "active"
 ---
 
 # § 965. Tier 2 participants in C–TPAT
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:09.502Z"
   - **(2)** reduced examinations of cargo; and
   - **(3)** priority searches of cargo.
 - **(c)** Not later than 180 days after October 13, 2006 , the Secretary, acting through the Commissioner, shall develop a schedule and update the guidelines for validating a participant’s security measures and supply chain security practices under this section.
+
+## Source Credit
+
+*([Pub. L. 109–347, title II, § 215](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1910](https://www.govinfo.gov/link/statute/120/1910).)*

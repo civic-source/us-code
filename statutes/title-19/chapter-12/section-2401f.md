@@ -3,9 +3,10 @@ title: "Section 2401f - Fraud and recovery of overpayments"
 usc_title: 19
 usc_section: "2401f"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2401f"
-generated_at: "2026-03-30T02:54:24.673Z"
+generated_at: "2026-11-23T20:26:10.955Z"
+status: "active"
 ---
 
 # § 2401f. Fraud and recovery of overpayments
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:24.673Z"
 - **(c)** Except for overpayments determined by a court of competent jurisdiction, no repayment may be required, and no deduction may be made, under this section until a determination under subsection (a)(1) by the Secretary has been made, notice of the determination and an opportunity for a fair hearing thereon has been given to the person concerned, and the determination has become final.
 - **(d)** Any amount recovered under this section shall be returned to the Treasury of the United States.
 - **(e)** Whoever makes a false statement of a material fact knowing it to be false, or knowingly fails to disclose a material fact, for the purpose of obtaining or increasing for himself or for any other person any payment authorized to be furnished under this part shall be fined not more than $10,000 or imprisoned for not more than 1 year, or both.
+
+## Source Credit
+
+*([Pub. L. 93–618, title II, § 297](https://www.govinfo.gov/link/plaw/93/public/618), as added [Pub. L. 107–210, div. A, title I, § 141(a)](https://www.govinfo.gov/link/plaw/107/public/210), Aug. 6, 2002, [116 Stat. 952](https://www.govinfo.gov/link/statute/116/952); amended [Pub. L. 111–5, div. B, title I, § 1885](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 419](https://www.govinfo.gov/link/statute/123/419); [Pub. L. 112–40, title II, § 201(b)](https://www.govinfo.gov/link/plaw/112/public/40), (c), Oct. 21, 2011, [125 Stat. 403](https://www.govinfo.gov/link/statute/125/403); [Pub. L. 114–27, title IV, § 402(b)](https://www.govinfo.gov/link/plaw/114/public/27), (c), June 29, 2015, [129 Stat. 374](https://www.govinfo.gov/link/statute/129/374).)*

@@ -3,9 +3,10 @@ title: "Section 1478 - Death gratuity: amount"
 usc_title: 10
 usc_section: "1478"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1478"
-generated_at: "2026-03-30T02:53:38.125Z"
+generated_at: "2026-11-23T20:25:51.351Z"
+status: "active"
 ---
 
 # § 1478. Death gratuity: amount
@@ -27,3 +28,31 @@ generated_at: "2026-03-30T02:53:38.125Z"
   - **(2)** This subsection applies in the case of a person who died during the period beginning on October 7, 2001 , and ending on August 31, 2005 , while a member of the armed forces on active duty and whose death did not establish eligibility for an additional death gratuity under the prior subsection (e) of this section (as added by section 1013(b) of Public Law 109–13 ; 119 Stat. 247 ), because the person was not described in paragraph (2) of that prior subsection.
   - **(3)** The amount of additional death gratuity payable under this subsection shall be $150,000.
   - **(4)** A payment pursuant to this subsection shall be paid in the same manner as provided under paragraph (4) of the prior subsection (e) of this section (as added by section 1013(b) of Public Law 109–13 ; 119 Stat. 247 ), for payments pursuant to paragraph (3)(A) of that prior subsection.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1478(a) | 38:1101(6)(B) (last 32 words of 1st sentence, as applicable to death gratuity). 38:1101(10)(B) (as applicable to death gratuity). 38:1101(11)(E) (last 27 words, as applicable to death gratuity). 38:1131(b). 38:1133(d). 38:1134(c). | Aug. 1, 1956, ch. 837 , §§ 102(6)(B) (last 32 words of 1st sentence, as applicable to death gratuity), (10)(B) (as applicable to death gratuity), (11)(E) (last 27 words, as applicable to death gratuity), (12) (as applicable to death gratuity), 301(b), 303(d), 304(c), 70 Stat. 859–861 , 868, 869. |
+| 1478(b) | 38:1101(12) (as applicable to death gratuity). |  |
+
+
+Historical and Revision Notes
+
+1478(a)
+
+Aug. 1, 1956, ch. 837
+
+70 Stat. 859–861
+
+1478(b)
+
+Effective Date
+
+Termination.—
+
+In general
+
+Continuing obligation to pay
+
+## Source Credit
+
+*(Added [Pub. L. 85–861, § 1(32)(A)](https://www.govinfo.gov/link/plaw/85/public/861), Sept. 2, 1958, [72 Stat. 1454](https://www.govinfo.gov/link/statute/72/1454); amended [Pub. L. 88–647, title III, § 301(2)](https://www.govinfo.gov/link/plaw/88/public/647), Oct. 13, 1964, [78 Stat. 1071](https://www.govinfo.gov/link/statute/78/1071); [Pub. L. 89–718, § 11](https://www.govinfo.gov/link/plaw/89/public/718), Nov. 2, 1966, [80 Stat. 1117](https://www.govinfo.gov/link/statute/80/1117); [Pub. L. 102–190, div. A, title VI, § 652(a)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1387](https://www.govinfo.gov/link/statute/105/1387); [Pub. L. 108–121, title I, § 102(a)(1)](https://www.govinfo.gov/link/plaw/108/public/121), Nov. 11, 2003, [117 Stat. 1337](https://www.govinfo.gov/link/statute/117/1337); [Pub. L. 108–136, div. A, title VI, § 646(a)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1520](https://www.govinfo.gov/link/statute/117/1520); [Pub. L. 108–375, div. A, title VI, § 643(b)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1958](https://www.govinfo.gov/link/statute/118/1958); [Pub. L. 109–13, div. A, title I, § 1013(a)](https://www.govinfo.gov/link/plaw/109/public/13) –(c), May 11, 2005, [119 Stat. 246–248](https://www.govinfo.gov/link/statute/119/246); [Pub. L. 109–163, div. A, title VI, § 664(a)(1)](https://www.govinfo.gov/link/plaw/109/public/163), (2), (b), Jan. 6, 2006, [119 Stat. 3316](https://www.govinfo.gov/link/statute/119/3316); [Pub. L. 109–234, title I, § 1210](https://www.govinfo.gov/link/plaw/109/public/234), June 15, 2006, [120 Stat. 430](https://www.govinfo.gov/link/statute/120/430); [Pub. L. 112–81, div. A, title VI, § 651(a)(2)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1466](https://www.govinfo.gov/link/statute/125/1466).)*

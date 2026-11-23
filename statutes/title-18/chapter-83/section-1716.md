@@ -3,9 +3,10 @@ title: "Section 1716 - Injurious articles as nonmailable"
 usc_title: 18
 usc_section: "1716"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 1716"
-generated_at: "2026-03-30T02:54:16.489Z"
+generated_at: "2026-11-23T20:26:08.518Z"
+status: "active"
 ---
 
 # § 1716. Injurious articles as nonmailable
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:16.489Z"
   - **(2)** Whoever knowingly deposits for mailing or delivery, or knowingly causes to be delivered by mail, according to the direction thereon or at any place to which it is directed to be delivered by the person to whom it is addressed, anything declared nonmailable by this section, whether or not transmitted in accordance with the rules and regulations authorized to be prescribed by the Postal Service, with intent to kill or injure another, or injure the mails or other property, shall be fined under this title or imprisoned not more than twenty years, or both.
   - **(3)** Whoever is convicted of any crime prohibited by this section, which has resulted in the death of any person, shall be subject also to the death penalty or to imprisonment for life.
 - **(k)** For purposes of this section, the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 781](https://www.govinfo.gov/link/statute/62/781); May 8, 1952, ch. 246, [66 Stat. 67](https://www.govinfo.gov/link/statute/66/67); June 29, 1955, ch. 224, [69 Stat. 191](https://www.govinfo.gov/link/statute/69/191); [Pub. L. 85–268](https://www.govinfo.gov/link/plaw/85/public/268), Sept. 2, 1957, [71 Stat. 594](https://www.govinfo.gov/link/statute/71/594); [Pub. L. 85–623, § 5](https://www.govinfo.gov/link/plaw/85/public/623), Aug. 12, 1958, [72 Stat. 562](https://www.govinfo.gov/link/statute/72/562); [Pub. L. 91–375, § 6(j)(25)](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 779](https://www.govinfo.gov/link/statute/84/779); [Pub. L. 92–191, § 1](https://www.govinfo.gov/link/plaw/92/public/191), Dec. 15, 1971, [85 Stat. 647](https://www.govinfo.gov/link/statute/85/647); [Pub. L. 99–570, title X, § 10003](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–167](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 103–322, title VI, § 60003(a)(7)](https://www.govinfo.gov/link/plaw/103/public/322), title XXXIII, § 330016(1)(H), Sept. 13, 1994, [108 Stat. 1969](https://www.govinfo.gov/link/statute/108/1969), 2147; [Pub. L. 104–294, title VI, § 607(g)](https://www.govinfo.gov/link/plaw/104/public/294), Oct. 11, 1996, [110 Stat. 3511](https://www.govinfo.gov/link/statute/110/3511); [Pub. L. 107–273, div. B, title IV, § 4002(b)(2)](https://www.govinfo.gov/link/plaw/107/public/273), (6), Nov. 2, 2002, [116 Stat. 1807](https://www.govinfo.gov/link/statute/116/1807); [Pub. L. 109–435, title X, § 1008(d)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3261](https://www.govinfo.gov/link/statute/120/3261).)*

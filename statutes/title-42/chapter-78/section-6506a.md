@@ -3,9 +3,10 @@ title: "Section 6506a - Competitive leasing of oil and gas"
 usc_title: 42
 usc_section: "6506a"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6506a"
-generated_at: "2026-03-30T02:56:11.262Z"
+generated_at: "2026-11-23T20:27:22.683Z"
+status: "active"
 ---
 
 # § 6506a. Competitive leasing of oil and gas
@@ -63,3 +64,31 @@ generated_at: "2026-03-30T02:56:11.262Z"
         - **(II)** waive administration of the lease that covers the subsurface estate conveyed to the Corporation; and
       - **(iii)** the segregation of the lease described in clause (ii)(I) has no effect on the obligations of the lessee under either of the resulting leases, including obligations relating to operations, production, or other circumstances (other than payment of rentals or royalties); and
     - **(C)** nothing in this subsection limits the authority of the Secretary of the Interior to manage the federally-owned surface estate within the Reserve.
+
+Definitions
+
+NPR–A final environmental impact statement
+
+NPR–A record of decision
+
+Program
+
+Secretary
+
+Restoration of NPR–A Oil and Gas Leasing Program
+
+Resumption of NPR–A Lease Sales.—
+
+In general
+
+Sales acreages; schedule.—
+
+Acreages
+
+Schedule
+
+Terms and Stipulations for NPR–A Lease Sales
+
+## Source Credit
+
+*([Pub. L. 94–258, title I, § 107](https://www.govinfo.gov/link/plaw/94/public/258), formerly [Pub. L. 96–514, title I](https://www.govinfo.gov/link/plaw/96/public/514), Dec. 12, 1980, [94 Stat. 2964](https://www.govinfo.gov/link/statute/94/2964); [Pub. L. 98–620, title IV, § 402(41)](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3360](https://www.govinfo.gov/link/statute/98/3360); [Pub. L. 105–83, title I, § 128](https://www.govinfo.gov/link/plaw/105/public/83), Nov. 14, 1997, [111 Stat. 1568](https://www.govinfo.gov/link/statute/111/1568); renumbered [Pub. L. 94–258, title I, § 107](https://www.govinfo.gov/link/plaw/94/public/258), and amended [Pub. L. 109–58, title III, § 347(a)(2)](https://www.govinfo.gov/link/plaw/109/public/58), (b), Aug. 8, 2005, [119 Stat. 704](https://www.govinfo.gov/link/statute/119/704); [Pub. L. 119–21, title V, § 50105(e)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 144](https://www.govinfo.gov/link/statute/139/144).)*

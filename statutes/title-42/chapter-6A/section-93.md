@@ -3,9 +3,10 @@ title: "Section 93 - Health insurance consumer information"
 usc_title: 42
 usc_section: "93"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 93"
-generated_at: "2026-03-30T02:56:10.836Z"
+generated_at: "2026-11-23T20:27:20.666Z"
+status: "active"
 ---
 
 # § 300gg–93. Health insurance consumer information
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:10.836Z"
 - **(e)**
   - **(1)** There is hereby appropriated to the Secretary, out of any funds in the Treasury not otherwise appropriated, $30,000,000 for the first fiscal year for which this section applies to carry out this section. Such amount shall remain available without fiscal year limitation.
   - **(2)** There is authorized to be appropriated to the Secretary for each fiscal year following the fiscal year described in paragraph (1), such sums as may be necessary to carry out this section.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXVII, § 2793, as added [Pub. L. 111–148, title I, § 1002](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 138](https://www.govinfo.gov/link/statute/124/138).)*

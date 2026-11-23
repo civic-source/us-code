@@ -3,9 +3,10 @@ title: "Section 1824 - Issuance of order"
 usc_title: 50
 usc_section: "1824"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 1824"
-generated_at: "2026-03-30T02:56:26.209Z"
+generated_at: "2026-11-23T20:27:30.778Z"
+status: "active"
 ---
 
 # § 1824. Issuance of order
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:56:26.209Z"
   - **(5)** In the event that such application for approval is denied, or in any other case where the physical search is terminated and no order is issued approving the physical search, no information obtained or evidence derived from such physical search shall be received in evidence or otherwise disclosed in any trial, hearing, or other proceeding in or before any court, grand jury, department, office, agency, regulatory body, legislative committee, or other authority of the United States, a State, or political subdivision thereof, and no information concerning any United States person acquired from such physical search shall subsequently be used or disclosed in any other manner by Federal officers or employees without the consent of such person, except with the approval of the Attorney General if the information indicates a threat of death or serious bodily harm to any person.
   - **(6)** The Attorney General shall assess compliance with the requirements of paragraph (5).
 - **(f)** Applications made and orders granted under this subchapter shall be retained for a period of at least 10 years from the date of the application.
+
+## Source Credit
+
+*([Pub. L. 95–511, title III, § 304](https://www.govinfo.gov/link/plaw/95/public/511), as added [Pub. L. 103–359, title VIII, § 807(a)(3)](https://www.govinfo.gov/link/plaw/103/public/359), Oct. 14, 1994, [108 Stat. 3447](https://www.govinfo.gov/link/statute/108/3447); amended [Pub. L. 106–567, title VI, § 603(b)](https://www.govinfo.gov/link/plaw/106/public/567), Dec. 27, 2000, [114 Stat. 2853](https://www.govinfo.gov/link/statute/114/2853); [Pub. L. 107–56, title II, § 207(a)(2)](https://www.govinfo.gov/link/plaw/107/public/56), (b)(2), Oct. 26, 2001, [115 Stat. 282](https://www.govinfo.gov/link/statute/115/282); [Pub. L. 107–108, title III, § 314(a)(4)](https://www.govinfo.gov/link/plaw/107/public/108), Dec. 28, 2001, [115 Stat. 1402](https://www.govinfo.gov/link/statute/115/1402); [Pub. L. 108–458, title I, § 1071(e)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3691](https://www.govinfo.gov/link/statute/118/3691); [Pub. L. 109–177, title I, § 105(b)](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 195](https://www.govinfo.gov/link/statute/120/195); [Pub. L. 110–261, title I](https://www.govinfo.gov/link/plaw/110/public/261), §§ 107(b), (c)(1), 110(c)(3), July 10, 2008, [122 Stat. 2463](https://www.govinfo.gov/link/statute/122/2463), 2464, 2467; [Pub. L. 111–259, title VIII](https://www.govinfo.gov/link/plaw/111/public/259), §§ 801(5), 806(a)(2), Oct. 7, 2010, [124 Stat. 2746](https://www.govinfo.gov/link/statute/124/2746), 2748; [Pub. L. 118–49, § 6(g)(2)](https://www.govinfo.gov/link/plaw/118/public/49), Apr. 20, 2024, [138 Stat. 873](https://www.govinfo.gov/link/statute/138/873).)*

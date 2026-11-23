@@ -3,9 +3,10 @@ title: "Section 7103 - Decision by contracting officer"
 usc_title: 41
 usc_section: "7103"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 7103"
-generated_at: "2026-03-30T02:55:55.811Z"
+generated_at: "2026-11-23T20:27:04.476Z"
+status: "active"
 ---
 
 # § 7103. Decision by contracting officer
@@ -46,3 +47,280 @@ generated_at: "2026-03-30T02:55:55.811Z"
   - **(3)**
     - **(A)** A contracting officer who rejects a contractor’s request for alternative dispute resolution proceedings shall provide the contractor with a written explanation, citing one or more of the conditions in section 572(b) of title 5 or other specific reasons that alternative dispute resolution procedures are inappropriate.
     - **(B)** A contractor that rejects an agency’s request for alternative dispute resolution proceedings shall inform the agency in writing of the contractor’s specific reasons for rejecting the request.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 7103(a)(1) | 41:605(a) (1st sentence related to submission). | Pub. L. 95–563 , §§ 5, 6(a) (1st, 2d, 5th–last sentences), (b), (c)(3), (5), Nov. 1, 1978 , 92 Stat. 2384 , 2385. |
+| 7103(a)(2) | 41:605(a) (1st sentence related to writing requirement). |  |
+| 7103(a)(3) | 41:605(a) (2d sentence). |  |
+| 7103(a)(4)(A) | 41:605(a) (3d sentence). | Pub. L. 95–563, § 6(a) (3d, 4th sentences), Nov. 1, 1978 , as added Pub. L. 103–355, title II, § 2351(a)(1) , Oct. 13, 1994 , 108 Stat. 3322 , amended Pub. L. 104–106, div. D, title XLIII, § 4321(a)(6) , Feb. 10, 1996 , 110 Stat. 671 . |
+| 7103(a)(4)(B) | 41:605(a) (4th sentence). |  |
+| 7103(a)(5) | 41:605(a) (8th sentence). |  |
+| 7103(b)(1) | 41:605(c)(1) (last sentence). | Pub. L. 95–563, § 6(c)(1) (last sentence), Nov. 1, 1978 , 92 Stat. 2385 ; Pub. L. 102–572, title IX, § 907(a)(1)(A) , Oct. 29, 1992 , 106 Stat. 4518 ; Pub. L. 103–355, title II, § 2351(b) , Oct. 13, 1994 , 108 Stat. 3322 . |
+| 7103(b)(2) | 41:605(c)(7). | Pub. L. 95–563, § 6(c)(6) , (7), as added Pub. L. 102–572, title IX, § 907(a)(1)(B) , Oct. 29, 1992 , 106 Stat. 4518 . |
+| 7103(b)(3) | 41:605(c)(6). |  |
+| 7103(c)(1) | 41:605(a) (last sentence). |  |
+| 7103(c)(2) | 41:604. |  |
+| 7103(d) | 41:605(a) (5th sentence). |  |
+| 7103(e) | 41:605(a) (6th, 7th sentences). |  |
+| 7103(f)(1) | 41:605(c)(1) (1st sentence). | Pub. L. 95–563, § 6(c)(1) (1st sentence), (2), Nov. 1, 1978 , 92 Stat. 2385 ; Pub. L. 103–355, title II, § 2351(b) , Oct. 13, 1994 , 108 Stat. 3322 . |
+| 7103(f)(2) | 41:605(c)(2). |  |
+| 7103(f)(3) | 41:605(c)(3). |  |
+| 7103(f)(4) | 41:605(c)(4). | Pub. L. 95–563, § 6(c)(4) , Nov. 1, 1978 , 92 Stat. 2385 ; Pub. L. 103–355, title II, § 2351(e) , Oct. 13, 1994 , 108 Stat. 3322 . |
+| 7103(f)(5) | 41:605(c)(5). |  |
+| 7103(g) | 41:605(b). |  |
+| 7103(h)(1) | 41:605(d) (1st, last sentences). | Pub. L. 95–563, § 6(d) (1st, last sentences), as added Pub. L. 101–552, § 6(a) , Nov. 15, 1990 , 104 Stat. 2745 , 2746; Pub. L. 104–106, div. D, title XLIII, § 4322(b)(6) , Feb. 10, 1996 , 110 Stat. 677 ; Pub. L. 105–85, div. A, title X, § 1073(g)(3) , Nov. 18, 1997 , 111 Stat. 1906 . |
+| 7103(h)(2) | 41:605(d) (2d sentence). | Pub. L. 95–563, § 6(d) (2d sentence), as added Pub. L. 101–552, § 6(a) , Nov. 15, 1990 , 104 Stat. 2745 ; Pub. L. 104–320, § 6(1) , Oct. 19, 1996 , 110 Stat. 3871 . |
+| 7103(h)(3)(A) | 41:605(e) (1st sentence). | Pub. L. 95–563, § 6(e) , as added Pub. L. 101–552, § 6(a) , Nov. 15, 1990 , 104 Stat. 2746 ; Pub. L. 103–355, title II, § 2352 , Oct. 13, 1994 , 108 Stat. 3322 ; Pub. L. 104–106, div. D, title XLIII , §§ 4321(a)(7), 4322(b)(6), Feb. 10, 1996 , 110 Stat. 671 , 677; Pub. L. 104–320, § 6(2) , Oct. 19, 1996 , 110 Stat. 3871 ; Pub. L. 105–85, div. A, title X, § 1073(g)(3) , Nov. 18, 1997 , 111 Stat. 1906 . |
+| 7103(h)(3)(B) | 41:605(e) (last sentence). |  |
+
+
+Claims Generally.—
+
+Submission of contractor’s claims to contracting officer
+
+Contractor’s claims in writing
+
+Contracting officer to decide federal government’s claims
+
+Time for submitting claims.—
+
+In general
+
+Exception
+
+Applicability
+
+Certification of Claims.—
+
+Requirement generally
+
+Who may execute certification
+
+Failure to certify or defective certification
+
+Fraudulent Claims.—
+
+No authority to settle
+
+Liability of contractor
+
+Issuance of Decision
+
+Contents of Decision
+
+Time for Issuance of Decision.—
+
+Claim of $100,000 or less
+
+Claim of more than $100,000
+
+General requirement of reasonableness
+
+Requesting tribunal to direct issuance within specified time period
+
+Failure to issue decision within required time period
+
+Finality of Decision Unless Appealed
+
+Alternative Means of Dispute Resolution.—
+
+In general
+
+Certification of claim
+
+Rejecting request for alternative dispute resolution.—
+
+Contracting officer
+
+Contractor
+
+Historical and Revision Notes
+
+7103(a)(1)
+
+Pub. L. 95–563
+
+Nov. 1, 1978
+
+92 Stat. 2384
+
+7103(a)(2)
+
+7103(a)(3)
+
+7103(a)(4)(A)
+
+Pub. L. 95–563, § 6(a)
+
+Nov. 1, 1978
+
+Pub. L. 103–355, title II, § 2351(a)(1)
+
+Oct. 13, 1994
+
+108 Stat. 3322
+
+Pub. L. 104–106, div. D, title XLIII, § 4321(a)(6)
+
+Feb. 10, 1996
+
+110 Stat. 671
+
+7103(a)(4)(B)
+
+7103(a)(5)
+
+7103(b)(1)
+
+Pub. L. 95–563, § 6(c)(1)
+
+Nov. 1, 1978
+
+92 Stat. 2385
+
+Pub. L. 102–572, title IX, § 907(a)(1)(A)
+
+Oct. 29, 1992
+
+106 Stat. 4518
+
+Pub. L. 103–355, title II, § 2351(b)
+
+Oct. 13, 1994
+
+108 Stat. 3322
+
+7103(b)(2)
+
+Pub. L. 95–563, § 6(c)(6)
+
+Pub. L. 102–572, title IX, § 907(a)(1)(B)
+
+Oct. 29, 1992
+
+106 Stat. 4518
+
+7103(b)(3)
+
+7103(c)(1)
+
+7103(c)(2)
+
+7103(d)
+
+7103(e)
+
+7103(f)(1)
+
+Pub. L. 95–563, § 6(c)(1)
+
+Nov. 1, 1978
+
+92 Stat. 2385
+
+Pub. L. 103–355, title II, § 2351(b)
+
+Oct. 13, 1994
+
+108 Stat. 3322
+
+7103(f)(2)
+
+7103(f)(3)
+
+7103(f)(4)
+
+Pub. L. 95–563, § 6(c)(4)
+
+Nov. 1, 1978
+
+92 Stat. 2385
+
+Pub. L. 103–355, title II, § 2351(e)
+
+Oct. 13, 1994
+
+108 Stat. 3322
+
+7103(f)(5)
+
+7103(g)
+
+7103(h)(1)
+
+Pub. L. 95–563, § 6(d)
+
+Pub. L. 101–552, § 6(a)
+
+Nov. 15, 1990
+
+104 Stat. 2745
+
+Pub. L. 104–106, div. D, title XLIII, § 4322(b)(6)
+
+Feb. 10, 1996
+
+110 Stat. 677
+
+Pub. L. 105–85, div. A, title X, § 1073(g)(3)
+
+Nov. 18, 1997
+
+111 Stat. 1906
+
+7103(h)(2)
+
+Pub. L. 95–563, § 6(d)
+
+Pub. L. 101–552, § 6(a)
+
+Nov. 15, 1990
+
+104 Stat. 2745
+
+Pub. L. 104–320, § 6(1)
+
+Oct. 19, 1996
+
+110 Stat. 3871
+
+7103(h)(3)(A)
+
+Pub. L. 95–563, § 6(e)
+
+Pub. L. 101–552, § 6(a)
+
+Nov. 15, 1990
+
+104 Stat. 2746
+
+Pub. L. 103–355, title II, § 2352
+
+Oct. 13, 1994
+
+108 Stat. 3322
+
+Pub. L. 104–106, div. D, title XLIII
+
+Feb. 10, 1996
+
+110 Stat. 671
+
+Pub. L. 104–320, § 6(2)
+
+Oct. 19, 1996
+
+110 Stat. 3871
+
+Pub. L. 105–85, div. A, title X, § 1073(g)(3)
+
+Nov. 18, 1997
+
+111 Stat. 1906
+
+7103(h)(3)(B)
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3817](https://www.govinfo.gov/link/statute/124/3817).)*

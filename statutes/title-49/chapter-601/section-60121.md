@@ -3,9 +3,10 @@ title: "Section 60121 - Actions by private persons"
 usc_title: 49
 usc_section: "60121"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 60121"
-generated_at: "2026-03-30T02:56:19.415Z"
+generated_at: "2026-11-23T20:27:35.417Z"
+status: "active"
 ---
 
 # § 60121. Actions by private persons
@@ -22,3 +23,69 @@ generated_at: "2026-03-30T02:56:19.415Z"
   - **(2)** computed at the rate prevailing for providing similar services for actions brought in the court awarding the fee.
 - **(c)** In this section, a violation of a safety standard or practice of a State is deemed to be a violation of this chapter or a regulation prescribed or order issued under this chapter only to the extent the standard or practice is not more stringent than a comparable minimum safety standard prescribed under this chapter.
 - **(d)** A remedy under this section is in addition to any other remedies provided by law. This section does not restrict a right to relief that a person or a class of persons may have under another law or at common law.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 60121(a)(1) | 49 App.:1686(a), (b) (1st sentence). | Aug. 12, 1968 , Pub. L. 90–481 , 82 Stat. 720 , § 19; added Oct. 11, 1976 , Pub. L. 94–477, § 8 , 90 Stat. 2075 ; Nov. 30, 1979 , Pub. L. 96–129, § 104(b) , 93 Stat. 992 . |
+|  | 49 App.:2014(a), (b) (1st sentence). | Nov. 30, 1979 , Pub. L. 96–129, § 215 , 93 Stat. 1014 . |
+| 60121(a)(2) | 49 App.:1686(b) (last sentence). |  |
+|  | 49 App.:2014(b) (last sentence). |  |
+| 60121(a)(3) | 49 App.:1686(c). |  |
+|  | 49 App.:2014(c). |  |
+| 60121(b) | 49 App.:1686(e). |  |
+|  | 49 App.:2014(e). |  |
+| 60121(c) | 49 App.:1686(f). |  |
+|  | 49 App.:2014(f). |  |
+| 60121(d) | 49 App.:1686(d). |  |
+|  | 49 App.:2014(d). |  |
+
+
+General Authority
+
+Costs and Fees
+
+State Violations as Violations of This Chapter
+
+Additional Remedies
+
+Historical and Revision Notes
+
+60121(a)(1)
+
+Aug. 12, 1968
+
+Pub. L. 90–481
+
+82 Stat. 720
+
+Oct. 11, 1976
+
+Pub. L. 94–477, § 8
+
+90 Stat. 2075
+
+Nov. 30, 1979
+
+Pub. L. 96–129, § 104(b)
+
+93 Stat. 992
+
+Nov. 30, 1979
+
+Pub. L. 96–129, § 215
+
+93 Stat. 1014
+
+60121(a)(2)
+
+60121(a)(3)
+
+60121(b)
+
+60121(c)
+
+60121(d)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1324](https://www.govinfo.gov/link/statute/108/1324).)*

@@ -3,9 +3,10 @@ title: "Section 1903 - Grants, contracts, and cooperative agreements"
 usc_title: 30
 usc_section: "1903"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1903"
-generated_at: "2026-03-30T02:55:29.410Z"
+generated_at: "2026-11-23T20:26:35.068Z"
+status: "active"
 ---
 
 # § 1903. Grants, contracts, and cooperative agreements
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:55:29.410Z"
 - **(d)** An eligible entity that receives a grant or contract or enters into a cooperative agreement under this section shall submit an annual progress report and a final technical report to the Secretary that—
   - **(1)** describes project activities, implications of the project, the significance of the project to marine mineral research, identification, assessment, and exploration, and potential commercial and economic benefits and effects of the project; and
   - **(2)** in the case of an annual progress report, includes a project plan for the subsequent year.
+
+## Source Credit
+
+*([Pub. L. 91–631, title II, § 203](https://www.govinfo.gov/link/plaw/91/public/631), as added [Pub. L. 104–325, § 2(3)](https://www.govinfo.gov/link/plaw/104/public/325), Oct. 19, 1996, [110 Stat. 3995](https://www.govinfo.gov/link/statute/110/3995).)*

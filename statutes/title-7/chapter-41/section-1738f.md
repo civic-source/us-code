@@ -3,9 +3,10 @@ title: "Section 1738f - Environmental framework agreements"
 usc_title: 7
 usc_section: "1738f"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1738f"
-generated_at: "2026-03-30T02:53:42.341Z"
+generated_at: "2026-11-23T20:25:41.297Z"
+status: "active"
 ---
 
 # § 1738f. Environmental framework agreements
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:42.341Z"
   - **(5)** present an annual program for review by the Board established under section 1738i of this title each year;
   - **(6)** present an annual report on the activities undertaken during the previous year to the Chairman of the Board established under section 1738i of this title , and the government of the eligible country each year; and
   - **(7)** have any grant over $100,000 be subject to veto by the United States and the government of the eligible country.
+
+## Source Credit
+
+*(July 10, 1954, ch. 469, title VI, § 607, as added [Pub. L. 101–624, title XV, § 1512](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3659](https://www.govinfo.gov/link/statute/104/3659); amended [Pub. L. 102–237, title III, § 305](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1855](https://www.govinfo.gov/link/statute/105/1855).)*

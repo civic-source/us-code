@@ -3,9 +3,10 @@ title: "Section 5511 - Transfer of funds"
 usc_title: 2
 usc_section: "5511"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 5511"
-generated_at: "2026-03-30T02:53:04.837Z"
+generated_at: "2026-11-23T20:25:29.062Z"
+status: "active"
 ---
 
 # § 5511. Transfer of funds
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:04.837Z"
 - **(b)** Subsection (a) does not apply to amounts appropriated under the heading “House of Representatives, Salaries and Expenses, Members’ Representational Allowances”.
 - **(c)** The Chief Administrative Officer of the House of Representatives shall notify the Committee on Appropriations of the House of Representatives prior to the obligation or expenditure of any amounts transferred under subsection (a).
 - **(d)** This section shall apply with respect to amounts appropriated for fiscal year 2018 or any succeeding fiscal year.
+
+## Source Credit
+
+*([Pub. L. 115–141, div. I, title I, § 119](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 777](https://www.govinfo.gov/link/statute/132/777).)*

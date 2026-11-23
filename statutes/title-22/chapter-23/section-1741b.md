@@ -3,9 +3,10 @@ title: "Section 1741b - Hostage Recovery Fusion Cell"
 usc_title: 22
 usc_section: "1741b"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 1741b"
-generated_at: "2026-03-30T02:55:05.338Z"
+generated_at: "2026-11-23T20:26:32.142Z"
+status: "active"
 ---
 
 # § 1741b. Hostage Recovery Fusion Cell
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:55:05.338Z"
     - **(F)** make recommendations to agencies in order to reduce the likelihood of United States nationals’ being taken hostage abroad and enhance United States Government preparation to maximize the probability of a favorable outcome following a hostage-taking; and
     - **(G)** coordinate with agencies regarding congressional, media, and other public inquiries pertaining to hostage events.
 - **(e)** The Hostage Recovery Fusion Cell shall be located within the Federal Bureau of Investigation for administrative purposes.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. FF, title III, § 304](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3094](https://www.govinfo.gov/link/statute/134/3094).)*

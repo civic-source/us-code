@@ -3,9 +3,10 @@ title: "Section 6055 - Reporting of health insurance coverage"
 usc_title: 26
 usc_section: "6055"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6055"
-generated_at: "2026-03-30T02:55:27.837Z"
+generated_at: "2026-11-23T20:26:46.543Z"
+status: "active"
 ---
 
 # § 6055. Reporting of health insurance coverage
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:27.837Z"
   - **(3)** An individual shall be deemed to have consented to receive the statement under this subsection in electronic form if such individual has affirmatively consented at any prior time, to the person required to make such statement, to receive such statement in electronic form. The preceding sentence shall not apply if the individual revokes such consent in writing.
 - **(d)** In the case of coverage provided by any governmental unit or any agency or instrumentality thereof, the officer or employee who enters into the agreement to provide such coverage (or the person appropriately designated for purposes of this section) shall make the returns and statements required by this section.
 - **(e)** For purposes of this section, the term “minimum essential coverage” has the meaning given such term by section 5000A(f).
+
+## Source Credit
+
+*(Added [Pub. L. 111–148, title I, § 1502(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 250](https://www.govinfo.gov/link/statute/124/250); [Pub. L. 118–167, § 2(a)](https://www.govinfo.gov/link/plaw/118/public/167), Dec. 23, 2024, [138 Stat. 2584](https://www.govinfo.gov/link/statute/138/2584); [Pub. L. 118–168](https://www.govinfo.gov/link/plaw/118/public/168), §§ 2(a), 3(b), Dec. 23, 2024, [138 Stat. 2586](https://www.govinfo.gov/link/statute/138/2586).)*

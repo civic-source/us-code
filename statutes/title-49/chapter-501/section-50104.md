@@ -3,9 +3,10 @@ title: "Section 50104 - Restriction on airport projects using products or servic
 usc_title: 49
 usc_section: "50104"
 chapter: 501
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 50104"
-generated_at: "2026-03-30T02:56:19.409Z"
+generated_at: "2026-11-23T20:27:35.373Z"
+status: "active"
 ---
 
 # § 50104. Restriction on airport projects using products or services of foreign countries denying fair market opportunities
@@ -27,3 +28,48 @@ generated_at: "2026-03-30T02:56:19.409Z"
   - **(2)** The Trade Representative shall publish in the Federal Register—
     - **(A)** annually the list required under paragraph (1) of this subsection; and
     - **(B)** any modification of the list made before the next list is published.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 49104(a)(1) | (no source). |  |
+| 49104(a)(2)– (4) | 49 App.:2226(d). | Sept. 3, 1982 , Pub. L. 97–248 , 96 Stat. 324 , § 533; added Dec. 30, 1987 , Pub. L. 100–223, § 115 , 101 Stat. 1505 . |
+| 49104(b) | 49 App.:2226(a). |  |
+| 49104(c) | 49 App.:2226(b). |  |
+| 49104(d) | 49 App.:2226(c). |  |
+
+
+Definition and Rules for Construing Section
+
+Limitation on Use of Available Amounts
+
+Decisions on Denial of Fair Market Opportunities
+
+List of Countries Denying Fair Market Opportunities
+
+Historical and Revision Notes
+
+Pub. L
+
+49104(a)(1)
+
+Sept. 3, 1982
+
+Pub. L. 97–248
+
+96 Stat. 324
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 115
+
+101 Stat. 1505
+
+49104(b)
+
+49104(c)
+
+49104(d)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1299](https://www.govinfo.gov/link/statute/108/1299), § 49104; renumbered § 50104 and amended [Pub. L. 104–287, § 5(88)(D)](https://www.govinfo.gov/link/plaw/104/public/287), (89), Oct. 11, 1996, [110 Stat. 3398](https://www.govinfo.gov/link/statute/110/3398); [Pub. L. 118–63, title VII, § 768(b)(2)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1294](https://www.govinfo.gov/link/statute/138/1294).)*

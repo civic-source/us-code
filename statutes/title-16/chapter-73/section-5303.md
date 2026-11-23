@@ -3,9 +3,10 @@ title: "Section 5303 - Definitions"
 usc_title: 16
 usc_section: "5303"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 5303"
-generated_at: "2026-03-30T02:54:23.051Z"
+generated_at: "2026-11-23T20:26:20.772Z"
+status: "active"
 ---
 
 # § 5303. Definitions
@@ -25,3 +26,13 @@ In this chapter—
       - **(iii)** any foreign government;
     - **(C)** a State, municipality, or political subdivision of a State; or
     - **(D)** any other entity subject to the jurisdiction of the United States.
+
+multinational species conservation fund
+
+multinational species conservation fund
+
+multinational species conservation fund
+
+## Source Credit
+
+*([Pub. L. 103–391, § 4](https://www.govinfo.gov/link/plaw/103/public/391), Oct. 22, 1994, [108 Stat. 4095](https://www.govinfo.gov/link/statute/108/4095); [Pub. L. 105–312, title IV, § 404](https://www.govinfo.gov/link/plaw/105/public/312), Oct. 30, 1998, [112 Stat. 2960](https://www.govinfo.gov/link/statute/112/2960); [Pub. L. 107–112, § 6(a)(1)](https://www.govinfo.gov/link/plaw/107/public/112), Jan. 8, 2002, [115 Stat. 2098](https://www.govinfo.gov/link/statute/115/2098).)*

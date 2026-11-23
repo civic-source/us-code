@@ -3,9 +3,10 @@ title: "Section 4336 - Procedure for determination of level of review"
 usc_title: 42
 usc_section: "4336"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4336"
-generated_at: "2026-03-30T02:56:11.201Z"
+generated_at: "2026-11-23T20:27:22.373Z"
+status: "active"
 ---
 
 # § 4336. Procedure for determination of level of review
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.201Z"
   - **(3)** In making a determination under this subsection, an agency—
     - **(A)** may make use of any reliable data source; and
     - **(B)** is not required to undertake new scientific or technical research unless the new scientific or technical research is essential to a reasoned choice among alternatives, and the overall costs and time frame of obtaining it are not unreasonable.
+
+## Source Credit
+
+*([Pub. L. 91–190, title I, § 106](https://www.govinfo.gov/link/plaw/91/public/190), as added [Pub. L. 118–5, div. C, title III, § 321(b)](https://www.govinfo.gov/link/plaw/118/public/5), June 3, 2023, [137 Stat. 39](https://www.govinfo.gov/link/statute/137/39).)*

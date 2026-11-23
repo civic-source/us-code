@@ -3,9 +3,10 @@ title: "Section 4004 - Definitions applicable to Biggert-Waters Flood Insurance 
 usc_title: 42
 usc_section: "4004"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4004"
-generated_at: "2026-03-30T02:56:11.195Z"
+generated_at: "2026-11-23T20:27:22.330Z"
+status: "active"
 ---
 
 # § 4004. Definitions applicable to Biggert-Waters Flood Insurance Reform Act of 2012
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.195Z"
   - **(4)** The term “National Flood Insurance Program” means the program established under the National Flood Insurance Act of 1968 ( 42 U.S.C. 4011 et seq.).
   - **(5)** The term “Write Your Own” means the cooperative undertaking between the insurance industry and the Federal Insurance Administration which allows participating property and casualty insurance companies to write and service standard flood insurance policies.
 - **(b)** Except as otherwise provided in this subtitle, any terms used in this subtitle shall have the meaning given to such terms under section 1370 of the National Flood Insurance Act of 1968 ( 42 U.S.C. 4121 ).
+
+## Source Credit
+
+*([Pub. L. 112–141, div. F, title II, § 100202](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 916](https://www.govinfo.gov/link/statute/126/916).)*

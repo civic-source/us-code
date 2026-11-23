@@ -3,9 +3,10 @@ title: "Section 31k - National Volcano Early Warning and Monitoring System"
 usc_title: 43
 usc_section: "31k"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 31k"
-generated_at: "2026-03-30T02:55:57.433Z"
+generated_at: "2026-11-23T20:27:06.152Z"
+status: "active"
 ---
 
 # § 31k. National Volcano Early Warning and Monitoring System
@@ -56,3 +57,7 @@ generated_at: "2026-03-30T02:55:57.433Z"
   - **(1)** There is authorized to be appropriated to the United States Geological Survey to carry out this section $55,000,000 for the period of fiscal years 2019 through 2023.
   - **(2)** There is authorized to be appropriated to the National Oceanic and Atmospheric Administration to carry out this section such sums as may be necessary for the period of fiscal years 2023 through 2024.
   - **(3)** Amounts made available under this subsection shall supplement, and not supplant, Federal funds made available for other hazards activities and programs of the United States Geological Survey and the National Oceanic and Atmospheric Administration.
+
+## Source Credit
+
+*([Pub. L. 116–9, title V, § 5001](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 766](https://www.govinfo.gov/link/statute/133/766); [Pub. L. 117–263, div. J, title CV, § 10501(a)](https://www.govinfo.gov/link/plaw/117/public/263) –(e), Dec. 23, 2022, [136 Stat. 3993](https://www.govinfo.gov/link/statute/136/3993), 3994.)*

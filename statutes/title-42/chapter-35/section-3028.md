@@ -3,9 +3,10 @@ title: "Section 3028 - Cost of administration of State plans"
 usc_title: 42
 usc_section: "3028"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3028"
-generated_at: "2026-03-30T02:56:11.174Z"
+generated_at: "2026-11-23T20:27:22.214Z"
+status: "active"
 ---
 
 # § 3028. Cost of administration of State plans
@@ -62,3 +63,7 @@ generated_at: "2026-03-30T02:56:11.174Z"
     - **(A)** the effectiveness of the programs, policies, and services provided by area agencies on aging in assisting older individuals whose needs were the focus of all centers funded under subchapter IV in fiscal year 2019; and
     - **(B)** outreach efforts and other activities carried out to satisfy the assurances described in paragraphs (18) and (19) of section 3026(a) of this title , to identify such older individuals and their service needs.
 - **(c)** The amounts of any State’s allotment under subsection (b) for any fiscal year which the Assistant Secretary determines will not be required for that year for the purposes described in subsection (a)(1) shall be available to provide services under part B or part C, or both, in the State.
+
+## Source Credit
+
+*([Pub. L. 89–73, title III, § 308](https://www.govinfo.gov/link/plaw/89/public/73), as added [Pub. L. 95–478, title I, § 103(b)](https://www.govinfo.gov/link/plaw/95/public/478), Oct. 18, 1978, [92 Stat. 1530](https://www.govinfo.gov/link/statute/92/1530); amended [Pub. L. 97–115](https://www.govinfo.gov/link/plaw/97/public/115), §§ 3(d), 8, Dec. 29, 1981, [95 Stat. 1597](https://www.govinfo.gov/link/statute/95/1597), 1600; [Pub. L. 98–459, title III, § 308](https://www.govinfo.gov/link/plaw/98/public/459), Oct. 9, 1984, [98 Stat. 1777](https://www.govinfo.gov/link/statute/98/1777); [Pub. L. 100–175, title I](https://www.govinfo.gov/link/plaw/100/public/175), §§ 129(c)(2), 182(l), Nov. 29, 1987, [101 Stat. 935](https://www.govinfo.gov/link/statute/101/935), 966; [Pub. L. 102–375, title I, § 102(b)(9)(C)](https://www.govinfo.gov/link/plaw/102/public/375), (10)(A), title III, § 308, title IX, § 904(a)(14), Sept. 30, 1992, [106 Stat. 1202](https://www.govinfo.gov/link/statute/106/1202), 1234, 1308; [Pub. L. 103–171, § 3(a)(13)](https://www.govinfo.gov/link/plaw/103/public/171), Dec. 2, 1993, [107 Stat. 1990](https://www.govinfo.gov/link/statute/107/1990); [Pub. L. 106–501, title III, § 307](https://www.govinfo.gov/link/plaw/106/public/501), Nov. 13, 2000, [114 Stat. 2245](https://www.govinfo.gov/link/statute/114/2245); [Pub. L. 116–131, title II](https://www.govinfo.gov/link/plaw/116/public/131), §§ 209–211, Mar. 25, 2020, [134 Stat. 257](https://www.govinfo.gov/link/statute/134/257), 258.)*

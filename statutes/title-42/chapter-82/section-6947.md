@@ -3,9 +3,10 @@ title: "Section 6947 - Approval of State plan; Federal assistance"
 usc_title: 42
 usc_section: "6947"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6947"
-generated_at: "2026-03-30T02:56:11.275Z"
+generated_at: "2026-11-23T20:27:22.748Z"
+status: "active"
 ---
 
 # § 6947. Approval of State plan; Federal assistance
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.275Z"
   - **(2)** The Administrator shall approve a State application for financial assistance under this subchapter, and make grants to such State, for fiscal years 1978 and 1979 if the Administrator determines that the State plan continues to be eligible for approval under subsection (a) and is being implemented by the State.
   - **(3)** Upon withdrawal of approval of a State plan under subsection (a), the Administrator shall withhold Federal financial and technical assistance under this subchapter (other than such technical assistance as may be necessary to assist in obtaining the reinstatement of approval) until such time as such approval is reinstated.
 - **(c)** Nothing in this subchapter shall be construed to prevent or affect any activities respecting solid waste planning or management which are carried out by State, regional, or local authorities unless such activities are inconsistent with a State plan approved by the Administrator under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 4007](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 94–580, § 2](https://www.govinfo.gov/link/plaw/94/public/580), Oct. 21, 1976, [90 Stat. 2817](https://www.govinfo.gov/link/statute/90/2817); amended [Pub. L. 95–609, § 7](https://www.govinfo.gov/link/plaw/95/public/609) (l), Nov. 8, 1978, [92 Stat. 3082](https://www.govinfo.gov/link/statute/92/3082); [Pub. L. 104–119, § 4(8)](https://www.govinfo.gov/link/plaw/104/public/119), Mar. 26, 1996, [110 Stat. 833](https://www.govinfo.gov/link/statute/110/833).)*

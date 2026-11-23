@@ -3,9 +3,10 @@ title: "Section 815 - Art. 15. Commanding officer’s non-judicial punishment"
 usc_title: 10
 usc_section: "815"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 815"
-generated_at: "2026-03-30T02:53:38.077Z"
+generated_at: "2026-11-23T20:25:51.061Z"
+status: "active"
 ---
 
 # § 815. Art. 15. Commanding officer’s non-judicial punishment
@@ -51,3 +52,31 @@ generated_at: "2026-03-30T02:53:38.077Z"
   - **(7)** detention of more than 14 days’ pay;
 - **(f)** The imposition and enforcement of disciplinary punishment under this article for any act or omission is not a bar to trial by court-martial for a serious crime or offense growing out of the same act or omission, and not properly punishable under this article; but the fact that a disciplinary punishment has been enforced may be shown by the accused upon trial, and when so shown shall be considered in determining the measure of punishment to be adjudged in the event of a finding of guilty.
 - **(g)** The Secretary concerned may, by regulation, prescribe the form of records to be kept of proceedings under this article and may also prescribe that certain categories of those proceedings shall be in writing.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 815(a) 815(b) | 50:571(a). 50:571(b). | May 5, 1950, ch. 169, § 1 (Art. 15), 64 Stat. 112 . |
+| 815(c) | 50:571(c). |  |
+| 815(d) | 50:571(d). |  |
+| 815(e) | 50:571(e). |  |
+
+
+Historical and Revision Notes
+
+815(a)
+
+815(b)
+
+May 5, 1950, ch. 169, § 1
+
+64 Stat. 112
+
+815(c)
+
+815(d)
+
+815(e)
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 41; [Pub. L. 87–648, § 1](https://www.govinfo.gov/link/plaw/87/public/648), Sept. 7, 1962, [76 Stat. 447](https://www.govinfo.gov/link/statute/76/447); [Pub. L. 90–179, § 1(4)](https://www.govinfo.gov/link/plaw/90/public/179), Dec. 8, 1967, [81 Stat. 545](https://www.govinfo.gov/link/statute/81/545); [Pub. L. 90–623, § 2(4)](https://www.govinfo.gov/link/plaw/90/public/623), Oct. 22, 1968, [82 Stat. 1314](https://www.govinfo.gov/link/statute/82/1314); [Pub. L. 98–209](https://www.govinfo.gov/link/plaw/98/public/209), §§ 2(c), 13(b), Dec. 6, 1983, [97 Stat. 1393](https://www.govinfo.gov/link/statute/97/1393), 1408; [Pub. L. 107–296, title XVII, § 1704(b)(1)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314); [Pub. L. 114–328, div. E, title LIII, § 5141](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2897](https://www.govinfo.gov/link/statute/130/2897).)*

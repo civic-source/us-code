@@ -3,9 +3,10 @@ title: "Section 986 - Determination of foreign taxes and foreign corporation’s
 usc_title: 26
 usc_section: "986"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 986"
-generated_at: "2026-03-30T02:55:27.751Z"
+generated_at: "2026-11-23T20:26:45.999Z"
+status: "active"
 ---
 
 # § 986. Determination of foreign taxes and foreign corporation’s earnings and profits
@@ -36,3 +37,13 @@ generated_at: "2026-03-30T02:55:27.751Z"
 - **(c)**
   - **(1)** Foreign currency gain or loss with respect to distributions of previously taxed earnings and profits (as described in section 959 or 1293(c)) attributable to movements in exchange rates between the times of deemed and actual distribution shall be recognized and treated as ordinary income or loss from the same source as the associated income inclusion.
   - **(2)** The Secretary shall prescribe regulations with respect to the treatment of distributions of previously taxed earnings and profits through tiers of foreign corporations.
+
+Foreign Taxes.—
+
+In general
+
+Foreign income taxes
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title XII, § 1261(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2586](https://www.govinfo.gov/link/statute/100/2586); amended [Pub. L. 100–647, title I, § 1012(v)(1)(A)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3528](https://www.govinfo.gov/link/statute/102/3528); [Pub. L. 105–34, title XI, § 1102(a)(1)](https://www.govinfo.gov/link/plaw/105/public/34), (b)(1), Aug. 5, 1997, [111 Stat. 963](https://www.govinfo.gov/link/statute/111/963), 965; [Pub. L. 108–357, title IV, § 408(a)](https://www.govinfo.gov/link/plaw/108/public/357), (b), Oct. 22, 2004, [118 Stat. 1499](https://www.govinfo.gov/link/statute/118/1499).)*

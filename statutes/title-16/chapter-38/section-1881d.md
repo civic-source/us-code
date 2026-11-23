@@ -3,9 +3,10 @@ title: "Section 1881d - Incidental harvest research"
 usc_title: 16
 usc_section: "1881d"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1881d"
-generated_at: "2026-03-30T02:54:22.995Z"
+generated_at: "2026-11-23T20:26:20.578Z"
+status: "active"
 ---
 
 # § 1881d. Incidental harvest research
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:22.995Z"
 - **(f)** To the extent practicable, any conservation and management measure implemented under this chapter to reduce the incidental mortality of bycatch in the course of shrimp trawl fishing shall be consistent with—
   - **(1)** measures applicable to fishing throughout the range in United States waters of the bycatch species concerned; and
   - **(2)** the need to avoid any serious adverse environmental impacts on such bycatch species or the ecology of the affected area.
+
+## Source Credit
+
+*([Pub. L. 94–265, title IV, § 405](https://www.govinfo.gov/link/plaw/94/public/265), as added [Pub. L. 104–297, title II, § 206](https://www.govinfo.gov/link/plaw/104/public/297), Oct. 11, 1996, [110 Stat. 3611](https://www.govinfo.gov/link/statute/110/3611).)*

@@ -3,9 +3,10 @@ title: "Section 32901 - Definitions"
 usc_title: 49
 usc_section: "32901"
 chapter: 329
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 32901"
-generated_at: "2026-03-30T02:56:19.364Z"
+generated_at: "2026-11-23T20:27:35.000Z"
+status: "active"
 ---
 
 # § 32901. Definitions
@@ -69,3 +70,218 @@ generated_at: "2026-03-30T02:56:19.364Z"
     - **(B)** The minimum driving range prescribed for dual fueled automobiles (except electric automobiles) under subparagraph (A) of this paragraph or paragraph (1) of this subsection must be at least 200 miles, except that beginning with model year 2016, alternative fueled automobiles that use a fuel described in subparagraph (E) of subsection (a)(1) shall have a minimum driving range of 150 miles.
     - **(C)** If the Secretary prescribes a minimum driving range of 200 miles for dual fueled automobiles (except electric automobiles) under paragraph (1) of this subsection, subparagraph (A) of this paragraph does not apply to dual fueled automobiles (except electric automobiles). Beginning with model year 2016, if the Secretary prescribes a minimum driving range of 150 miles for alternative fueled automobiles that use a fuel described in subparagraph (E) of subsection (a)(1), subparagraph (A) shall not apply to dual fueled automobiles (except electric automobiles).
   - **(3)** In prescribing a minimum driving range under paragraph (1) of this subsection and in taking an action under paragraph (2) of this subsection, the Secretary shall consider the purpose set forth in section 3 of the Alternative Motor Fuels Act of 1988 ( Public Law 100–494 , 102 Stat. 2442 ), consumer acceptability, economic practicability, technology, environmental impact, safety, drivability, performance, and other factors the Secretary considers relevant.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 32901(a)(1) | 15:2013(h)(1)(A) (less words in 1st parentheses). | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , § 513(h); added Oct. 14, 1988 , Pub. L. 100–494, § 6(a) , 102 Stat. 2450 ; Oct. 24, 1992 , Pub. L. 102–486, § 403(5)(H) , (I), 106 Stat. 2878 . |
+| 32901(a)(2) | 15:2013(h)(1)(B). |  |
+| 32901(a)(3) | 15:2001(1). | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , § 501(1); added Dec. 22, 1975 , Pub. L. 94–163, § 301 , 89 Stat. 901 ; Oct. 14, 1988 , Pub. L. 100–494, § 6(b) , 102 Stat. 2452 ; Oct. 24, 1992 , Pub. L. 102–486, § 403(1) , 106 Stat. 2876 . |
+|  | 15:2001(13), (14). | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , §§ 501(2)–(7), (10)–(14), 503(c); added Dec. 22, 1975 , Pub. L. 94–163, § 301 , 89 Stat. 901 , 902, 907. |
+| 32901(a)(4) | 15:2003(c). |  |
+| 32901(a)(5) | 15:2001(4). |  |
+| 32901(a)(6) | 15:2001(7). |  |
+| 32901(a)(7) | 15:2013(h)(1)(C). |  |
+| 32901(a)(8) | 15:2001(h)(1)(D). |  |
+| 32901(a)(9) | 15:2001(5). |  |
+| 32901(a)(10) | 15:2001(6). |  |
+| 32901(a)(11) | 15:2001(10). |  |
+| 32901(a)(12) | 15:2001(9). | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , § 501(8), (9); added Dec. 22, 1975 , Pub. L. 94–163, § 301 , 89 Stat. 902 ; Oct. 10, 1980 , Pub. L. 96–425 , §§ 4(c)(1), 8(b), 94 Stat. 1824 , 1828. |
+| 32901(a)(13) | 15:2001(8). |  |
+| 32901(a)(14) | 15:2001(11). |  |
+| 32901(a)(15) | 15:2001(12). |  |
+| 32901(a)(16) | 15:2001(2), (3). |  |
+| 32901(b) | 15:2013(h)(1)(A) (words in 1st parentheses). |  |
+| 32901(c)(1) | 15:2013(h)(2)(A). |  |
+| 32901(c)(2) | 15:2013(h)(2)(B), (C). |  |
+| 32901(c)(3) | 15:2013(h)(2)(D). |  |
+
+
+General
+
+Authority To Change Percentage
+
+Minimum Driving Ranges for Dual Fueled Passenger Automobiles
+
+Historical and Revision Notes
+
+32901(a)(1)
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+Oct. 14, 1988
+
+Pub. L. 100–494, § 6(a)
+
+102 Stat. 2450
+
+Oct. 24, 1992
+
+Pub. L. 102–486, § 403(5)(H)
+
+106 Stat. 2878
+
+32901(a)(2)
+
+32901(a)(3)
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+Dec. 22, 1975
+
+Pub. L. 94–163, § 301
+
+89 Stat. 901
+
+Oct. 14, 1988
+
+Pub. L. 100–494, § 6(b)
+
+102 Stat. 2452
+
+Oct. 24, 1992
+
+Pub. L. 102–486, § 403(1)
+
+106 Stat. 2876
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+Dec. 22, 1975
+
+Pub. L. 94–163, § 301
+
+89 Stat. 901
+
+32901(a)(4)
+
+32901(a)(5)
+
+32901(a)(6)
+
+32901(a)(7)
+
+32901(a)(8)
+
+32901(a)(9)
+
+32901(a)(10)
+
+32901(a)(11)
+
+32901(a)(12)
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+Dec. 22, 1975
+
+Pub. L. 94–163, § 301
+
+89 Stat. 902
+
+Oct. 10, 1980
+
+Pub. L. 96–425
+
+94 Stat. 1824
+
+32901(a)(13)
+
+32901(a)(14)
+
+32901(a)(15)
+
+32901(a)(16)
+
+32901(b)
+
+32901(c)(1)
+
+32901(c)(2)
+
+32901(c)(3)
+
+Short Title
+
+Consumer Assistance to Recycle and Save Program
+
+Establishment
+
+Qualifications for and Value of Vouchers
+
+value
+
+value
+
+Program Specifications.—
+
+Limitations.—
+
+General period of eligibility
+
+Number of vouchers per person and per trade-in vehicle
+
+No combination of vouchers
+
+Cap on funds for category 3 trucks
+
+Combination with other incentives permitted
+
+No additional fees
+
+Number and amount
+
+Disposition of eligible trade-in vehicles.—
+
+In general
+
+Savings provision
+
+Coordination
+
+Regulations
+
+Anti-Fraud Provisions.—
+
+Violation
+
+Penalties
+
+Information to Consumers and Dealers
+
+Record Keeping and Report.—
+
+Database
+
+Report on efficacy of the program
+
+Review of administration of the program by government accountability office and inspector general
+
+Exclusion of Vouchers From Income.—
+
+For purposes of all federal and state programs
+
+For purposes of taxation
+
+Definitions
+
+Appropriation
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1056](https://www.govinfo.gov/link/statute/108/1056); [Pub. L. 110–140, title I, § 103(a)](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1501](https://www.govinfo.gov/link/statute/121/1501); [Pub. L. 113–291, div. A, title III, § 318(b)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3341](https://www.govinfo.gov/link/statute/128/3341).)*

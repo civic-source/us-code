@@ -3,9 +3,10 @@ title: "Section 10174a - Report"
 usc_title: 42
 usc_section: "10174a"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10174a"
-generated_at: "2026-03-30T02:56:11.383Z"
+generated_at: "2026-11-23T20:27:23.219Z"
+status: "active"
 ---
 
 # § 10174a. Report
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.383Z"
   - **(12)** availability of energy;
   - **(13)** tourism and economic development, including the potential loss of revenue and future economic growth; and
   - **(14)** other needs of the State and local governments that would not have arisen but for the characterization of the site and the construction, operation, and eventual closure of the repository facility.
+
+## Source Credit
+
+*([Pub. L. 97–425, title I, § 175](https://www.govinfo.gov/link/plaw/97/public/425), as added [Pub. L. 100–202, § 101(d) [title III, § 300]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–104](https://www.govinfo.gov/link/statute/101/1329), 1329–121; [Pub. L. 100–203, title V, § 5031](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–240](https://www.govinfo.gov/link/statute/101/1330).)*

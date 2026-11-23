@@ -3,9 +3,10 @@ title: "Section 239e - Payment for death"
 usc_title: 42
 usc_section: "239e"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 239e"
-generated_at: "2026-03-30T02:56:10.689Z"
+generated_at: "2026-11-23T20:27:19.976Z"
+status: "active"
 ---
 
 # § 239e. Payment for death
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:10.689Z"
       - **(i)** Any payment under paragraph (1) shall be secondary to the obligation of the United States or any third party (including any State or local governmental entity, private insurance carrier, or employer), under any other law or contractual agreement, to pay compensation for loss of employment income or to provide disability benefits, retirement benefits, life insurance benefits on behalf of dependents under the age of 18, or death benefits.
       - **(ii)** Payments under paragraph (1) shall not be made to with respect to 2 2 So in original. an eligible individual to the extent that the total of amounts paid with respect to the individual under such paragraph and under the other obligations referred to in clause (i) is an amount that exceeds the rate of payment that applies under paragraph (2). If under any such other obligation a lump-sum payment is made, such payment shall, for purposes of this subparagraph, be deemed to be received over multiple years rather than received in a single year. The Secretary may, in the discretion of the Secretary, determine how to apportion such payment over multiple years.
 - **(c)** A benefit under subsection (a) or (b) shall be in addition to any amounts received by an eligible individual under section 239c of this title .
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title II, § 266, as added [Pub. L. 108–20, § 2](https://www.govinfo.gov/link/plaw/108/public/20), Apr. 30, 2003, [117 Stat. 643](https://www.govinfo.gov/link/statute/117/643).)*

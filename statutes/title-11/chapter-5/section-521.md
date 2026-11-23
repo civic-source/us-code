@@ -3,9 +3,10 @@ title: "Section 521 - Debtor’s duties"
 usc_title: 11
 usc_section: "521"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 521"
-generated_at: "2026-03-30T02:53:53.877Z"
+generated_at: "2026-11-23T20:25:55.356Z"
+status: "active"
 ---
 
 # § 521. Debtor’s duties
@@ -72,3 +73,19 @@ generated_at: "2026-03-30T02:53:53.877Z"
 - **(j)**
   - **(1)** Notwithstanding any other provision of this title, if the debtor fails to file a tax return that becomes due after the commencement of the case or to properly obtain an extension of the due date for filing such return, the taxing authority may request that the court enter an order converting or dismissing the case.
   - **(2)** If the debtor does not file the required return or obtain the extension referred to in paragraph (1) within 90 days after a request is filed by the taxing authority under that paragraph, the court shall convert or dismiss the case, whichever is in the best interests of creditors and the estate.
+
+Chapter
+
+Cases
+
+Chapter
+
+and Chapter
+
+Cases
+
+Document Retention
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2586](https://www.govinfo.gov/link/statute/92/2586); [Pub. L. 98–353, title III](https://www.govinfo.gov/link/plaw/98/public/353), §§ 305, 452, July 10, 1984, [98 Stat. 352](https://www.govinfo.gov/link/statute/98/352), 375; [Pub. L. 99–554, title II, § 283(h)](https://www.govinfo.gov/link/plaw/99/public/554), Oct. 27, 1986, [100 Stat. 3117](https://www.govinfo.gov/link/statute/100/3117); [Pub. L. 109–8, title I, § 106(d)](https://www.govinfo.gov/link/plaw/109/public/8), title II, § 225(b), title III, §§ 304(1), 305(2), 315(b), 316, title IV, § 446(a), title VI, § 603(c), title VII, § 720, Apr. 20, 2005, [119 Stat. 38](https://www.govinfo.gov/link/statute/119/38), 66, 78, 80, 89, 92, 118, 123, 133; [Pub. L. 111–16, § 2(5)](https://www.govinfo.gov/link/plaw/111/public/16), (6), May 7, 2009, [123 Stat. 1607](https://www.govinfo.gov/link/statute/123/1607); [Pub. L. 111–327, § 2(a)(16)](https://www.govinfo.gov/link/plaw/111/public/327), Dec. 22, 2010, [124 Stat. 3559](https://www.govinfo.gov/link/statute/124/3559); [Pub. L. 113–295, div. B, title I, § 104(c)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4064](https://www.govinfo.gov/link/statute/128/4064).)*

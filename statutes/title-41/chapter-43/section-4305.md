@@ -3,9 +3,10 @@ title: "Section 4305 - Required regulations"
 usc_title: 41
 usc_section: "4305"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 4305"
-generated_at: "2026-03-30T02:55:55.807Z"
+generated_at: "2026-11-23T20:27:04.452Z"
+status: "active"
 ---
 
 # § 4305. Required regulations
@@ -35,3 +36,48 @@ generated_at: "2026-03-30T02:55:55.807Z"
     - **(B)** the opinion of the contract auditor on the allowability of those costs.
   - **(2)** The Federal Acquisition Regulation shall provide that, to the maximum extent practicable, a contract auditor be present at any negotiation or meeting with the contractor regarding a determination of the allowability of indirect costs of the contractor.
   - **(3)** The Federal Acquisition Regulation shall require that all categories of costs designated in the report of a contract auditor as questioned with respect to a proposal for settlement be resolved in a manner so that the amount of the individual questioned costs that are paid will be reflected in the settlement.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 4305(a) | 41:256(f)(1) (1st, 2d sentences). | June 30, 1949, ch. 288 , title III, § 306(f), as added Pub. L. 100–700, § 8(a)(1) , Nov. 19, 1988 , 102 Stat. 4634 ; Pub. L. 103–355, title II, § 2151 , Oct. 13, 1994 , 108 Stat. 3312 . |
+| 4305(b) | 41:256(f)(1) (last sentence). |  |
+| 4305(c) | 41:256(f)(2)–(4). |  |
+
+
+In General
+
+Specific Items
+
+Additional Requirements.—
+
+When questioned costs may be resolved
+
+Presence of contract auditor
+
+Settlement to reflect amount of individual questioned costs
+
+Historical and Revision Notes
+
+4305(a)
+
+June 30, 1949, ch. 288
+
+Pub. L. 100–700, § 8(a)(1)
+
+Nov. 19, 1988
+
+102 Stat. 4634
+
+Pub. L. 103–355, title II, § 2151
+
+Oct. 13, 1994
+
+108 Stat. 3312
+
+4305(b)
+
+4305(c)
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3787](https://www.govinfo.gov/link/statute/124/3787).)*

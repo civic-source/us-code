@@ -3,9 +3,10 @@ title: "Section 971a - Commissioners"
 usc_title: 16
 usc_section: "971a"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 971a"
-generated_at: "2026-03-30T02:54:22.936Z"
+generated_at: "2026-11-23T20:26:20.349Z"
+status: "active"
 ---
 
 # § 971a. Commissioners
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:22.936Z"
   - **(1)** The Secretary of State shall pay the necessary travel expenses of United States Commissioners, Alternate United States Commissioners, and authorized advisors in accordance with the Federal Travel Regulations and sections 5701, 5702, 5704 through 5708, and 5731 of title 5.
   - **(2)** The Secretary may reimburse the Secretary of State for amounts expended by the Secretary of State under this subsection.
 - **(e)** It is the sense of the Congress that the United States Commissioners should seek to include ecosystem considerations in fisheries management, including the conservation of fish habitat.
+
+## Source Credit
+
+*([Pub. L. 94–70, § 3](https://www.govinfo.gov/link/plaw/94/public/70), Aug. 5, 1975, [89 Stat. 385](https://www.govinfo.gov/link/statute/89/385); [Pub. L. 101–627, title II](https://www.govinfo.gov/link/plaw/101/public/627), §§ 201(a), 203, Nov. 28, 1990, [104 Stat. 4459](https://www.govinfo.gov/link/statute/104/4459), 4460; [Pub. L. 106–562, title III, § 303](https://www.govinfo.gov/link/plaw/106/public/562), Dec. 23, 2000, [114 Stat. 2806](https://www.govinfo.gov/link/statute/114/2806); [Pub. L. 109–479, title IV, § 405(c)](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3633](https://www.govinfo.gov/link/statute/120/3633).)*

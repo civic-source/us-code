@@ -3,9 +3,10 @@ title: "Section 3835 - Contracts"
 usc_title: 16
 usc_section: "3835"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3835"
-generated_at: "2026-03-30T02:54:23.028Z"
+generated_at: "2026-11-23T20:26:20.694Z"
+status: "active"
 ---
 
 # § 3835. Contracts
@@ -87,3 +88,7 @@ generated_at: "2026-03-30T02:54:23.028Z"
       - **(ii)** begins the establishment of a practice under that contract; or
   - **(2)** during the 3 years prior to the expiration of the contract, the owner or operator begins the certification process under the Organic Foods Production Act of 1990 ( 7 U.S.C. 6501 et seq.).
 - **(h)** The Secretary may terminate or modify a contract entered into under this subpart if eligible land that is subject to such contract is transferred into the agricultural conservation easement program under subchapter VII.
+
+## Source Credit
+
+*([Pub. L. 99–198, title XII, § 1235](https://www.govinfo.gov/link/plaw/99/public/198), as added [Pub. L. 107–171, title II, § 2101(a)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 249](https://www.govinfo.gov/link/statute/116/249); amended [Pub. L. 110–234, title II, § 2111](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1035](https://www.govinfo.gov/link/statute/122/1035); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title II, § 2111, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1763; [Pub. L. 113–79, title II, § 2006](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 719](https://www.govinfo.gov/link/statute/128/719); [Pub. L. 115–334, title II, § 2208](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4549](https://www.govinfo.gov/link/statute/132/4549).)*

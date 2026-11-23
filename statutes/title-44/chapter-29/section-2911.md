@@ -3,9 +3,10 @@ title: "Section 2911 - Disclosure requirement for official business conducted us
 usc_title: 44
 usc_section: "2911"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "44 U.S.C. § 2911"
-generated_at: "2026-03-30T02:55:56.295Z"
+generated_at: "2026-11-23T20:27:03.816Z"
+status: "active"
 ---
 
 # § 2911. Disclosure requirement for official business conducted using non-official electronic messaging accounts
@@ -18,3 +19,19 @@ generated_at: "2026-03-30T02:55:56.295Z"
   - **(1)** The term “electronic messages” means electronic mail and other electronic messaging systems that are used for purposes of communicating between individuals.
   - **(2)** The term “electronic messaging account” means any account that sends electronic messages.
   - **(3)** The term “executive agency” has the meaning given that term in section 105 of title 5 .
+
+In General
+
+Adverse Actions
+
+Definitions
+
+Electronic messages
+
+Electronic messaging account
+
+Executive agency
+
+## Source Credit
+
+*(Added [Pub. L. 113–187, § 10(a)](https://www.govinfo.gov/link/plaw/113/public/187), Nov. 26, 2014, [128 Stat. 2014](https://www.govinfo.gov/link/statute/128/2014).)*

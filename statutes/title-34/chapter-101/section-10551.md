@@ -3,9 +3,10 @@ title: "Section 10551 - Program authorized"
 usc_title: 34
 usc_section: "10551"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10551"
-generated_at: "2026-03-30T02:55:33.272Z"
+generated_at: "2026-11-23T20:26:50.480Z"
+status: "active"
 ---
 
 # § 10551. Program authorized
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:33.272Z"
   - **(3)** The COPS Director and the BJA Director may each provide, in the guidelines implementing this section, for the requirement of paragraph (1) to be waived or altered in the case of a recipient with a financial need for such a waiver or alteration.
 - **(g)** In awarding grants under this subchapter, the COPS Director and the BJA shall each ensure, to the extent practicable, an equitable geographic distribution among the regions of the United States and among urban, suburban, and rural areas.
 - **(h)** The COPS Director and the BJA Director may each reserve not more than 2 percent from amounts appropriated to carry out this subchapter for administrative costs.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 2701](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 106–386, div. B, title I, § 1108(b)](https://www.govinfo.gov/link/plaw/106/public/386), Oct. 28, 2000, [114 Stat. 1501](https://www.govinfo.gov/link/statute/114/1501); amended [Pub. L. 109–162, title XI, § 1169(b)](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3122](https://www.govinfo.gov/link/statute/119/3122); [Pub. L. 109–271, § 8(j)](https://www.govinfo.gov/link/plaw/109/public/271), Aug. 12, 2006, [120 Stat. 767](https://www.govinfo.gov/link/statute/120/767); [Pub. L. 114–255, div. B, title XIV, § 14010](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1297](https://www.govinfo.gov/link/statute/130/1297); [Pub. L. 115–141, div. S, title V, § 502(1)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1128](https://www.govinfo.gov/link/statute/132/1128).)*

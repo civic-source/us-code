@@ -3,9 +3,10 @@ title: "Section 50506 - Commercial Space Achievement Award"
 usc_title: 51
 usc_section: "50506"
 chapter: 505
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 50506"
-generated_at: "2026-03-30T02:56:28.707Z"
+generated_at: "2026-11-23T20:27:37.497Z"
+status: "active"
 ---
 
 # § 50506. Commercial Space Achievement Award
@@ -17,3 +18,38 @@ generated_at: "2026-03-30T02:56:28.707Z"
   - **(3)** The individual, corporation, division, or subsidiary has substantially advanced space technology and space applications directly related to commercial space activities.
 - **(c)** No individual or corporate entity may receive an award under this section more than once every 5 years.
 - **(d)** The Secretary of Commerce may seek and accept gifts of money from public and private sources for the purpose of making cash prize awards under this section. Such money may be used only for that purpose, and only such money may be used for that purpose. The Secretary of Commerce shall make publicly available an itemized list of the sources of such funding.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 50506 | 15 U.S.C. 5808 . | Pub. L. 102–588, title V, § 510 , Nov. 4, 1992 , 106 Stat. 5129 . |
+
+
+Establishment
+
+Criteria for Award
+
+Non-governmental revenue
+
+Substantial contribution
+
+Substantial advancement of technology
+
+Limitations
+
+Funding for Award
+
+Historical and Revision Notes
+
+50506
+
+15 U.S.C. 5808
+
+Pub. L. 102–588, title V, § 510
+
+Nov. 4, 1992
+
+106 Stat. 5129
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3407](https://www.govinfo.gov/link/statute/124/3407).)*

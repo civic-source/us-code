@@ -3,9 +3,10 @@ title: "Section 5323 - Whistleblower incentives and protections"
 usc_title: 31
 usc_section: "5323"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 5323"
-generated_at: "2026-03-30T02:55:34.069Z"
+generated_at: "2026-11-23T20:26:51.875Z"
+status: "active"
 ---
 
 # § 5323. Whistleblower incentives and protections
@@ -127,3 +128,155 @@ generated_at: "2026-03-30T02:55:34.069Z"
 - **(j)**
   - **(1)** The rights and remedies provided for in this section may not be waived by any agreement, policy form, or condition of employment, including by a predispute arbitration agreement.
   - **(2)** No predispute arbitration agreement shall be valid or enforceable, to the extent the agreement requires arbitration of a dispute arising under this section.
+
+Definitions
+
+Covered judicial or administrative action
+
+Monetary sanctions
+
+Original information
+
+Related action
+
+Whistleblower.—
+
+In general
+
+Special rule
+
+Awards.—
+
+In general
+
+Payment of awards.—
+
+In general
+
+Related actions
+
+Source of awards.—
+
+In general
+
+Use of fund
+
+Restrictions on use of fund
+
+Deposits and credits.—
+
+In general
+
+Additional amounts
+
+Exception
+
+Investments.—
+
+Amounts in fund may be invested
+
+Eligible investments
+
+Interest and proceeds credited
+
+Determination of Amount of Award; Denial of Award.—
+
+Determination of amount of award.—
+
+Discretion
+
+Criteria
+
+Denial of award
+
+Representation.—
+
+Permitted representation
+
+Required representation.—
+
+In general
+
+Disclosure of identity
+
+No Contract Necessary
+
+Appeals.—
+
+In general
+
+Requirements.—
+
+In general
+
+Scope of review
+
+Protection of Whistleblowers.—
+
+Prohibition against retaliation
+
+Enforcement
+
+Procedure.—
+
+Department of labor complaint.—
+
+In general
+
+Exception
+
+District court complaint.—
+
+Jury trial
+
+Statute of limitations.—
+
+In general
+
+(aa) more than 6 years after the date on which the violation of paragraph (1) occurs; or
+
+(bb) more than 3 years after the date on which when facts material to the right of action are known, or reasonably should have been known, by the employee alleging a violation of paragraph (1).
+
+Required action within 10 years
+
+Relief
+
+Confidentiality.—
+
+In general
+
+Exempted statute
+
+Rule of construction
+
+Availability to government agencies.—
+
+In general
+
+Confidentiality.—
+
+In general
+
+Foreign authorities
+
+Rights retained
+
+Coordination with other provisions of law
+
+Provision of False Information
+
+Rulemaking Authority
+
+Nonenforceability of Certain Provisions Waiving Rights and Remedies or Requiring Arbitration of Disputes.—
+
+Waiver of rights and remedies
+
+Predispute arbitration agreements
+
+In general
+
+Source of awards
+
+## Source Credit
+
+*(Added [Pub. L. 98–473, title II, § 901(e)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2135](https://www.govinfo.gov/link/statute/98/2135); amended [Pub. L. 116–283, div. F, title LXIII, § 6314(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4597](https://www.govinfo.gov/link/statute/134/4597); [Pub. L. 117–328, div. AA, title IV, § 401](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5536](https://www.govinfo.gov/link/statute/136/5536).)*

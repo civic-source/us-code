@@ -3,9 +3,10 @@ title: "Section 7701 - Findings"
 usc_title: 7
 usc_section: "7701"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7701"
-generated_at: "2026-03-30T02:53:42.460Z"
+generated_at: "2026-11-23T20:25:41.826Z"
+status: "active"
 ---
 
 # § 7701. Findings
@@ -21,3 +22,13 @@ Congress finds that—
   - **(7)** the unregulated movement of plant pests, noxious weeds, plants, certain biological control organisms, plant products, and articles capable of harboring plant pests or noxious weeds could present an unacceptable risk of introducing or spreading plant pests or noxious weeds;
   - **(8)** the existence on any premises in the United States of a plant pest or noxious weed new to or not known to be widely prevalent in or distributed within and throughout the United States could constitute a threat to crops and other plants or plant products of the United States and burden interstate commerce or foreign commerce; and
   - **(9)** all plant pests, noxious weeds, plants, plant products, articles capable of harboring plant pests or noxious weeds regulated under this chapter are in or affect interstate commerce or foreign commerce.
+
+In General
+
+Inclusions
+
+Consideration
+
+## Source Credit
+
+*([Pub. L. 106–224, title IV, § 402](https://www.govinfo.gov/link/plaw/106/public/224), June 20, 2000, [114 Stat. 438](https://www.govinfo.gov/link/statute/114/438).)*

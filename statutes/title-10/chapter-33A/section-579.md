@@ -3,9 +3,10 @@ title: "Section 579 - Removal from a promotion list"
 usc_title: 10
 usc_section: "579"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 579"
-generated_at: "2026-03-30T02:53:38.067Z"
+generated_at: "2026-11-23T20:25:51.002Z"
+status: "active"
 ---
 
 # § 579. Removal from a promotion list
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:38.067Z"
 - **(c)** An officer whose name is removed from the list of officers recommended for promotion by a selection board continues to be eligible for consideration for promotion.
 - **(d)** If the next selection board that considers the warrant officer for promotion under this chapter selects the warrant officer for promotion and the warrant officer is promoted, the Secretary concerned may, upon his promotion, grant him the same effective date for pay and allowances and the same date of rank, and the same position on the warrant officer active-duty list as the warrant officer would have had if his name had not been so removed.
 - **(e)** If the next selection board does not select the warrant officer for promotion, or if his name is again removed under subsection (a) from the list of officers recommended for promotion by the selection board or under subsection (b) from the warrant officer promotion list, he shall be treated for all purposes as if he has twice failed of selection for promotion.
+
+## Source Credit
+
+*(Added [Pub. L. 102–190, div. A, title XI, § 1112(a)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1497](https://www.govinfo.gov/link/statute/105/1497).)*

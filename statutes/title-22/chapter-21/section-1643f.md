@@ -3,12 +3,17 @@ title: "Section 1643f - Action of Commission with respect to claims"
 usc_title: 22
 usc_section: "1643f"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 1643f"
-generated_at: "2026-03-30T02:55:05.337Z"
+generated_at: "2026-11-23T20:26:32.138Z"
+status: "active"
 ---
 
 # § 1643f. Action of Commission with respect to claims
 
 - **(a)** The Commission shall certify to each individual who has filed a claim under this subchapter the amount determined by the Commission to be the loss or damage suffered by the claimant which is covered by this subchapter. The Commission shall certify to the Secretary of State such amount and the basic information underlying that amount, together with a statement of the evidence relied upon and the reasoning employed in reaching its decision.
 - **(b)** The amount determined to be due on any claim of an assignee who acquires the same by purchase shall not exceed (or, in the case of any such acquisition subsequent to the date of the determination, shall not be deemed to have exceeded) the amount of the actual consideration paid by such assignee, or in case of successive assignments of a claim by any assignee.
+
+## Source Credit
+
+*(Mar. 10, 1950, ch. 54, title V, § 507, as added [Pub. L. 88–666](https://www.govinfo.gov/link/plaw/88/public/666), Oct. 16, 1964, [78 Stat. 1112](https://www.govinfo.gov/link/statute/78/1112).)*

@@ -3,9 +3,10 @@ title: "Section 336 - Unmanned system program and autonomous control and compute
 usc_title: 14
 usc_section: "336"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 336"
-generated_at: "2026-03-30T02:53:51.488Z"
+generated_at: "2026-11-23T20:25:54.519Z"
+status: "active"
 ---
 
 # § 336. Unmanned system program and autonomous control and computer vision technology project
@@ -21,3 +22,39 @@ generated_at: "2026-03-30T02:53:51.488Z"
   - **(1)** an unmanned aircraft system (as such term is defined in section 44801 of title 49 );
   - **(2)** an unmanned marine surface system; and
   - **(3)** an unmanned marine subsurface system.
+
+Unmanned System Program
+
+Autonomous Control and Computer Vision Technology Project.—
+
+In general
+
+Data collection
+
+Briefing
+
+Unmanned System Defined
+
+In General
+
+Course Subject Matter
+
+Definitions
+
+Small uncrewed maritime systems
+
+Uncrewed system
+
+Training Area
+
+Designation of Area.—
+
+In general
+
+Considerations
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 115–282, title III, § 304(a)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4244](https://www.govinfo.gov/link/statute/132/4244), § 319; amended [Pub. L. 116–283, div. G, title LVXXXIV](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXIV], § 8413(a), Jan. 1, 2021, [134 Stat. 4725](https://www.govinfo.gov/link/statute/134/4725); [Pub. L. 117–263, div. K, title CXII, § 11225(a)](https://www.govinfo.gov/link/plaw/117/public/263), title CXVIII, § 11803(a), Dec. 23, 2022, [136 Stat. 4024](https://www.govinfo.gov/link/statute/136/4024), 4163; renumbered § 336 and amended [Pub. L. 119–60, div. G, title LXXII, § 7201(b)](https://www.govinfo.gov/link/plaw/119/public/60), title LXXIII, § 7334, Dec. 18, 2025, [139 Stat. 1675](https://www.govinfo.gov/link/statute/139/1675), 1773.)*

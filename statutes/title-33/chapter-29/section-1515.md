@@ -3,9 +3,10 @@ title: "Section 1515 - Citizen civil action"
 usc_title: 33
 usc_section: "1515"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1515"
-generated_at: "2026-03-30T02:55:41.109Z"
+generated_at: "2026-11-23T20:26:54.092Z"
+status: "active"
 ---
 
 # § 1515. Citizen civil action
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:41.109Z"
 - **(c)** In any action under this section, the Secretary or the Attorney General, if not a party, may intervene as a matter of right.
 - **(d)** The Court, in issuing any final order in any action brought pursuant to subsection (a) of this section, may award costs of litigation (including reasonable attorney and expert witness fees) to any party whenever the court determines that such an award is appropriate.
 - **(e)** Nothing in this section shall restrict any right which any person (or class of persons) may have under any statute or common law to seek enforcement or to seek any other relief.
+
+## Source Credit
+
+*([Pub. L. 93–627, § 16](https://www.govinfo.gov/link/plaw/93/public/627), Jan. 3, 1975, [88 Stat. 2140](https://www.govinfo.gov/link/statute/88/2140).)*

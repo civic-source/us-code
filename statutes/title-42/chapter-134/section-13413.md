@@ -3,9 +3,10 @@ title: "Section 13413 - Natural gas supply"
 usc_title: 42
 usc_section: "13413"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13413"
-generated_at: "2026-03-30T02:56:11.444Z"
+generated_at: "2026-11-23T20:27:23.494Z"
+status: "active"
 ---
 
 # § 13413. Natural gas supply
@@ -21,3 +22,15 @@ generated_at: "2026-03-30T02:56:11.444Z"
   - **(2)** The Secretary shall enter into agreements with, and provide financial assistance to, appropriate parties for application of cofiring technologies to boilers to demonstrate this technology.
   - **(3)** The Secretary shall, before December 31, 1995 , submit to the Congress a report on the progress made in carrying out this subsection.
 - **(d)** There are authorized to be appropriated to the Secretary for carrying out this section and sections 13414 and 13415 of this title, $29,745,000 for fiscal year 1993 and $45,000,000 for fiscal year 1994.
+
+Section
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XX, § 2013](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3059](https://www.govinfo.gov/link/statute/106/3059).)*

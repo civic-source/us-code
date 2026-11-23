@@ -3,9 +3,10 @@ title: "Section 502 - Services for other entities"
 usc_title: 40
 usc_section: "502"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 502"
-generated_at: "2026-03-30T02:55:43.372Z"
+generated_at: "2026-11-23T20:26:56.526Z"
+status: "active"
 ---
 
 # § 502. Services for other entities
@@ -43,3 +44,75 @@ generated_at: "2026-03-30T02:55:43.372Z"
   - **(2)** The authority under this subsection may not be used to purchase supplies for resale.
   - **(3)** In this subsection, the term “qualified organization” means a relief or disaster assistance organization as described in section 309 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5152 ).
 - **(f)** All users of Federal supply schedules, including non-Federal users, shall use the schedules in accordance with the ordering guidance provided by the Administrator of General Services.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 502(a) | 40:481(b)(1). | June 30, 1949, ch. 288 , title II, § 201(b), 63 Stat. 384 ; Sept. 5, 1950, ch. 849, § 8(b) , 64 Stat. 591 ; Pub. L. 103–355, title I, § 1555 , Oct. 13, 1994 , 108 Stat. 3300 ; Pub. L. 105–61, title IV, § 413 , Oct. 10, 1997 , 111 Stat. 1300 . |
+| 502(b) | 40:481(b)(2). |  |
+
+
+Federal Agencies, Mixed-Ownership Government Corporations, and the District of Columbia
+
+Qualified Nonprofit Agencies.—
+
+In general
+
+Use of services
+
+Use of Certain Supply Schedules.—
+
+In general
+
+Voluntary use
+
+Definitions
+
+Use of Supply Schedules for Certain Goods and Services.—
+
+In general
+
+Determination by secretary of homeland security
+
+Voluntary use
+
+Definitions
+
+Use of Supply Schedules by the Red Cross and Other Qualified Organizations.—
+
+In general
+
+Limitation
+
+Qualified organization
+
+Duty of Users Regarding Use of Supply Schedules
+
+Historical and Revision Notes
+
+502(a)
+
+June 30, 1949, ch. 288
+
+63 Stat. 384
+
+Sept. 5, 1950, ch. 849, § 8(b)
+
+64 Stat. 591
+
+Pub. L. 103–355, title I, § 1555
+
+Oct. 13, 1994
+
+108 Stat. 3300
+
+Pub. L. 105–61, title IV, § 413
+
+Oct. 10, 1997
+
+111 Stat. 1300
+
+502(b)
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1080](https://www.govinfo.gov/link/statute/116/1080); [Pub. L. 107–347, title II, § 211(a)](https://www.govinfo.gov/link/plaw/107/public/347), Dec. 17, 2002, [116 Stat. 2939](https://www.govinfo.gov/link/statute/116/2939); [Pub. L. 109–364, div. A, title VIII, § 833(a)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2332](https://www.govinfo.gov/link/statute/120/2332); [Pub. L. 110–248, § 2](https://www.govinfo.gov/link/plaw/110/public/248), June 26, 2008, [122 Stat. 2316](https://www.govinfo.gov/link/statute/122/2316); [Pub. L. 111–263](https://www.govinfo.gov/link/plaw/111/public/263), §§ 2–4, Oct. 8, 2010, [124 Stat. 2787](https://www.govinfo.gov/link/statute/124/2787), 2788; [Pub. L. 111–350, § 5](https://www.govinfo.gov/link/plaw/111/public/350) (l)(7), Jan. 4, 2011, [124 Stat. 3851](https://www.govinfo.gov/link/statute/124/3851); [Pub. L. 114–95, title IX, § 9215(www)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2191](https://www.govinfo.gov/link/statute/129/2191).)*

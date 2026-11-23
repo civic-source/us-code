@@ -3,9 +3,10 @@ title: "Section 1820a - Examination of investment companies"
 usc_title: 12
 usc_section: "1820a"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1820a"
-generated_at: "2026-03-30T02:53:53.449Z"
+generated_at: "2026-11-23T20:25:59.125Z"
+status: "active"
 ---
 
 # § 1820a. Examination of investment companies
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:53.449Z"
   - **(5)** The term “insured depository institution” has the meaning given the term in section 1813(c) of this title .
   - **(6)** The term “registered investment company” means an investment company that is registered with the Commission under the Investment Company Act of 1940 [ 15 U.S.C. 80a–1 et seq.].
   - **(7)** The term “savings and loan holding company” has the meaning given the term in section 1467a(a)(1)(D) of this title .
+
+## Source Credit
+
+*([Pub. L. 106–102, title I, § 115](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1371](https://www.govinfo.gov/link/statute/113/1371).)*

@@ -3,9 +3,10 @@ title: "Section 460ooo - Definitions"
 usc_title: 16
 usc_section: "460ooo"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 460ooo"
-generated_at: "2026-03-30T02:54:22.845Z"
+generated_at: "2026-11-23T20:26:20.033Z"
+status: "active"
 ---
 
 # § 460ooo. Definitions
@@ -17,3 +18,7 @@ For the purposes of this subchapter, the following definitions apply:
   - **(3)** The term “management plan” means the management plan for the Conservation Area.
   - **(4)** The term “public lands” has the meaning given the term in section 1702(e) of title 43 , except that such term shall not include interest in lands not owned by the United States.
   - **(5)** The term “Secretary” means the Secretary of the Interior.
+
+## Source Credit
+
+*([Pub. L. 106–538, § 1](https://www.govinfo.gov/link/plaw/106/public/538), Dec. 6, 2000, [114 Stat. 2563](https://www.govinfo.gov/link/statute/114/2563).)*

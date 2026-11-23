@@ -3,9 +3,10 @@ title: "Section 5496b - GAO study of financial regulations"
 usc_title: 12
 usc_section: "5496b"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5496b"
-generated_at: "2026-03-30T02:53:53.542Z"
+generated_at: "2026-11-23T20:25:59.512Z"
+status: "active"
 ---
 
 # § 5496b. GAO study of financial regulations
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:53.542Z"
   - **(2)** efforts to avoid duplicative or conflicting rulemakings, including an evaluation of the consultative process under subparagraphs (B) and (C) of section 5512(b)(2) of this title , information requests, and examinations; and
   - **(3)** other matters related to the operations of financial services regulations deemed by the Comptroller General to be appropriate.
 - **(b)** Not later than the end of the 30-day period following the completion of a study conducted pursuant to subsection (a), the Comptroller General shall issue a report to the Congress containing a detailed description of all findings and conclusions made by the Comptroller General in carrying out such study, together with such recommendations for legislative or administrative action as the Comptroller General may determine to be appropriate.
+
+## Source Credit
+
+*([Pub. L. 111–203, title X, § 1016B](https://www.govinfo.gov/link/plaw/111/public/203), as added [Pub. L. 112–10, div. B, title V, § 1573(a)](https://www.govinfo.gov/link/plaw/112/public/10), Apr. 15, 2011, [125 Stat. 138](https://www.govinfo.gov/link/statute/125/138).)*

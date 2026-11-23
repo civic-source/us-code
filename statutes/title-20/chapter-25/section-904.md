@@ -3,9 +3,10 @@ title: "Section 904 - Leave"
 usc_title: 20
 usc_section: "904"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 904"
-generated_at: "2026-03-30T02:54:48.086Z"
+generated_at: "2026-11-23T20:26:14.269Z"
+status: "active"
 ---
 
 # § 904. Leave
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:48.086Z"
 - **(h)** The Director of Dependents’ Education, in consultation with the Director of the Office of Personnel Management—
   - **(1)** shall establish for teachers a voluntary leave transfer program similar to the one under subchapter III of chapter 63 of title 5; and
   - **(2)** may establish for teachers a voluntary leave bank program similar to the one under subchapter IV of chapter 63 of title 5.
+
+## Source Credit
+
+*([Pub. L. 86–91, § 6](https://www.govinfo.gov/link/plaw/86/public/91), July 17, 1959, [73 Stat. 214](https://www.govinfo.gov/link/statute/73/214); 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783](https://www.govinfo.gov/link/statute/92/3783); [Pub. L. 98–369, div. B, title II, § 2204](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1059](https://www.govinfo.gov/link/statute/98/1059); [Pub. L. 103–425, § 1](https://www.govinfo.gov/link/plaw/103/public/425), Oct. 31, 1994, [108 Stat. 4369](https://www.govinfo.gov/link/statute/108/4369).)*

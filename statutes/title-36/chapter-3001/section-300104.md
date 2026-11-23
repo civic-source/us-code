@@ -3,9 +3,10 @@ title: "Section 300104 - Board of governors"
 usc_title: 36
 usc_section: "300104"
 chapter: 3001
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 300104"
-generated_at: "2026-03-30T02:55:44.712Z"
+generated_at: "2026-11-23T20:26:59.114Z"
+status: "active"
 ---
 
 # § 300104. Board of governors
@@ -52,3 +53,101 @@ generated_at: "2026-03-30T02:55:44.712Z"
 - **(h)** For purposes of this section—
   - **(1)** the term “entire board” means the total number of members of the board of governors that the corporation would have if there were no vacancies; and
   - **(2)** the term “emergency” shall have such meaning as may be provided in the bylaws.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 300104(a) | 36:5 (matter before (a)), (a), (b), (c) (1st, 3d pars.). | Jan. 5, 1905, ch. 23, § 5 (matter before (a)), (a), (b), (c) (1st–5th pars., last par.), 33 Stat. 601 ; Dec. 10, 1912, ch. 1, § 1 , 37 Stat. 647 ; Mar. 3, 1921, ch. 131, § 1 , 41 Stat. 1354 ; May 8, 1947, ch. 50, § 6 , 61 Stat. 82 , 83. |
+| 300104(b) | 36:5(c) (2d, 4th pars.). |  |
+| 300104(c) | 36:5(c) (5th par.). |  |
+| 300104(d) | 36:5(c) (last par.). |  |
+
+
+Board of Governors.—
+
+In general
+
+Number
+
+Appointment
+
+Chairman.—
+
+In general
+
+Vacancies
+
+Duties
+
+Other members.—
+
+In general
+
+Vacancies
+
+Terms of Office.—
+
+In general
+
+Staggered terms
+
+Term limits
+
+Committees and Officers
+
+Advisory Council.—
+
+Establishment
+
+Membership; appointment by president.—
+
+In general
+
+Members from the armed forces
+
+Duties
+
+Action Without Meeting
+
+Voting by Proxy.—
+
+In general
+
+Exception
+
+Bylaws.—
+
+In general
+
+Emergency bylaws
+
+Definitions
+
+Historical and Revision Notes
+
+300104(a)
+
+Jan. 5, 1905, ch. 23, § 5
+
+33 Stat. 601
+
+Dec. 10, 1912, ch. 1, § 1
+
+37 Stat. 647
+
+Mar. 3, 1921, ch. 131, § 1
+
+41 Stat. 1354
+
+May 8, 1947, ch. 50, § 6
+
+61 Stat. 82
+
+300104(b)
+
+300104(c)
+
+300104(d)
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1491](https://www.govinfo.gov/link/statute/112/1491); [Pub. L. 110–26, § 6](https://www.govinfo.gov/link/plaw/110/public/26), May 11, 2007, [121 Stat. 106](https://www.govinfo.gov/link/statute/121/106).)*

@@ -3,9 +3,10 @@ title: "Section 41703 - Navigation of foreign civil aircraft"
 usc_title: 49
 usc_section: "41703"
 chapter: 417
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 41703"
-generated_at: "2026-03-30T02:56:19.376Z"
+generated_at: "2026-11-23T20:27:35.091Z"
+status: "active"
 ---
 
 # § 41703. Navigation of foreign civil aircraft
@@ -29,3 +30,72 @@ generated_at: "2026-03-30T02:56:19.376Z"
     - **(B)** on an air carrier way bill of an air carrier providing air transportation to Alaska;
     - **(C)** under a term arrangement or block space agreement with an air carrier; or
     - **(D)** under the code of a United States air carrier for purposes of transportation within the United States.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 41703(a) | 49 App.:1508(b) (1st sentence). | Aug. 23, 1958 , Pub. L. 85–726, § 1108(b) (1st, 2d, last sentences), 72 Stat. 798 , 799. |
+|  | 49 App.:1551(b)(1)(E). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 1601(b)(1)(E); added Oct. 4, 1984 , Pub. L. 98–443, § 3(e) , 98 Stat. 1704 . |
+| 41703(b) | 49 App.:1508(b) (2d sentence). |  |
+|  | 49 App.:1551(b)(1)(E). |  |
+| 41703(c) | 49 App.:1508(b) (3d sentence). | Aug. 23, 1958 , Pub. L. 85–726, § 1108(b) (3d sentence), 72 Stat. 799 ; Feb. 15, 1980 , Pub. L. 96–192, § 20 , 94 Stat. 43 . |
+|  | 49 App.:1551(b)(1)(E). |  |
+| 41703(d) | 49 App.:1508(b) (last sentence). |  |
+
+
+Permitted Navigation
+
+Requirements for Authorizing Navigation
+
+Providing Air Commerce
+
+Permit Requirements Not Affected
+
+Cargo in Alaska.—
+
+In general
+
+Eligible cargo
+
+Historical and Revision Notes
+
+41703(a)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 1108(b)
+
+72 Stat. 798
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Oct. 4, 1984
+
+Pub. L. 98–443, § 3(e)
+
+98 Stat. 1704
+
+41703(b)
+
+41703(c)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 1108(b)
+
+72 Stat. 799
+
+Feb. 15, 1980
+
+Pub. L. 96–192, § 20
+
+94 Stat. 43
+
+41703(d)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1140](https://www.govinfo.gov/link/statute/108/1140); [Pub. L. 108–176, title VIII, § 808](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2588](https://www.govinfo.gov/link/statute/117/2588).)*

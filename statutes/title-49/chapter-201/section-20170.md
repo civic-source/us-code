@@ -3,9 +3,10 @@ title: "Section 20170 - Pre-revenue service safety validation plan"
 usc_title: 49
 usc_section: "20170"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 20170"
-generated_at: "2026-03-30T02:56:19.338Z"
+generated_at: "2026-11-23T20:27:34.802Z"
+status: "active"
 ---
 
 # § 20170. Pre-revenue service safety validation plan
@@ -15,3 +16,13 @@ generated_at: "2026-03-30T02:56:19.338Z"
 - **(c)** The Secretary shall promulgate regulations to carry out this section, including—
   - **(1)** requiring that any identified safety deficiencies be addressed and corrected before the initiation of revenue service; and
   - **(2)** establishing appropriate deadlines to enable the Secretary to review and approve the pre-revenue service safety validation plan to ensure that service is not unduly delayed.
+
+Plan Submission
+
+Compliance
+
+Rulemaking
+
+## Source Credit
+
+*(Added [Pub. L. 117–58, div. B, title II, § 22416(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 747](https://www.govinfo.gov/link/statute/135/747).)*

@@ -3,9 +3,10 @@ title: "Section 1488 - Removal of remains"
 usc_title: 10
 usc_section: "1488"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1488"
-generated_at: "2026-03-30T02:53:38.126Z"
+generated_at: "2026-11-23T20:25:51.356Z"
+status: "active"
 ---
 
 # § 1488. Removal of remains
@@ -23,3 +24,26 @@ generated_at: "2026-03-30T02:53:38.126Z"
     - **(B)** The term “covered member of the armed forces” means a member of the armed forces who—
       - **(i)** has been awarded the Medal of Honor; and
       - **(ii)** has no known next of kin.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1488 | 5:2160 (as applicable to armed forces). | July 15, 1954, ch. 507, § 10 (as applicable to armed forces), 68 Stat. 480 . |
+
+
+Removal Upon Discontinuance of Installation Cemetery
+
+Removal From Temporary Interment or Abandoned Grave or Cemetery
+
+Removal of Remains of Certain Members With No Known Next of Kin
+
+Historical and Revision Notes
+
+1488
+
+July 15, 1954, ch. 507, § 10
+
+68 Stat. 480
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 115; [Pub. L. 113–291, div. A, title V, § 594](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3395](https://www.govinfo.gov/link/statute/128/3395); [Pub. L. 115–232, div. A, title VIII, § 809(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1840](https://www.govinfo.gov/link/statute/132/1840).)*

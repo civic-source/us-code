@@ -3,9 +3,10 @@ title: "Section 475 - Transnational Criminal Investigative Units"
 usc_title: 6
 usc_section: "475"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 475"
-generated_at: "2026-03-30T02:53:09.466Z"
+generated_at: "2026-11-23T20:25:34.764Z"
+status: "active"
 ---
 
 # § 475. Transnational Criminal Investigative Units
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:09.466Z"
   - **(2)** the amount paid in stipends to such members, disaggregated by country;
   - **(3)** relevant enforcement statistics, such as arrests and progress made on joint investigations, in each such country; and
   - **(4)** whether any vetted members of the Transnational Criminal Investigative Unit in each country were involved in any unlawful activity, including human rights abuses or significant acts of corruption.
+
+## Source Credit
+
+*([Pub. L. 107–296, title VIII, § 890C](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 117–263, div. G, title LXXI, § 7105(b)(1)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3623](https://www.govinfo.gov/link/statute/136/3623).)*

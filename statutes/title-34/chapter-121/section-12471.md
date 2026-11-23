@@ -3,9 +3,10 @@ title: "Section 12471 - Findings"
 usc_title: 34
 usc_section: "12471"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12471"
-generated_at: "2026-03-30T02:55:33.288Z"
+generated_at: "2026-11-23T20:26:50.551Z"
+status: "active"
 ---
 
 # § 12471. Findings
@@ -24,3 +25,7 @@ Congress finds that:
   - **(10)** Because abusers frequently manipulate finances in an effort to control their partners, victims often lack steady income, credit history, landlord references, and a current address, all of which are necessary to obtain long-term permanent housing.
   - **(11)** Victims of domestic violence in rural areas face additional barriers, challenges, and unique circumstances, such as geographical isolation, poverty, lack of public transportation systems, shortages of health care providers, under-insurance or lack of health insurance, difficulty ensuring confidentiality in small communities, and decreased access to many resources (such as advanced education, job opportunities, and adequate childcare).
   - **(12)** Congress and the Secretary of Housing and Urban Development have recognized in recent years that families experiencing domestic violence have unique needs that should be addressed by those administering the Federal housing programs.
+
+## Source Credit
+
+*([Pub. L. 103–322, title IV, § 41401](https://www.govinfo.gov/link/plaw/103/public/322), as added [Pub. L. 109–162, title VI, § 601](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3030](https://www.govinfo.gov/link/statute/119/3030).)*

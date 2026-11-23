@@ -3,9 +3,10 @@ title: "Section 8115 - Carbon utilization and biogas education program"
 usc_title: 7
 usc_section: "8115"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 8115"
-generated_at: "2026-03-30T02:53:42.473Z"
+generated_at: "2026-11-23T20:25:41.877Z"
+status: "active"
 ---
 
 # § 8115. Carbon utilization and biogas education program
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:42.473Z"
 - **(c)** There are authorized to be appropriated for each of fiscal years 2019 through 2023—
   - **(1)** $1,000,000 to carry out subsection (b)(1); and
   - **(2)** $1,000,000 to carry out subsection (b)(2).
+
+## Source Credit
+
+*([Pub. L. 107–171, title IX, § 9014](https://www.govinfo.gov/link/plaw/107/public/171), as added [Pub. L. 115–334, title IX, § 9011](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4887](https://www.govinfo.gov/link/statute/132/4887).)*

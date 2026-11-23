@@ -3,9 +3,10 @@ title: "Section 13332 - Coal-fired diesel engines"
 usc_title: 42
 usc_section: "13332"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13332"
-generated_at: "2026-03-30T02:56:11.441Z"
+generated_at: "2026-11-23T20:27:23.479Z"
+status: "active"
 ---
 
 # § 13332. Coal-fired diesel engines
@@ -18,3 +19,7 @@ The Secretary shall conduct a program of research, development, demonstration, a
   - **(4)** the testing of low-Btu highly reactive fuels;
   - **(5)** fuel delivery and storage systems requirements; and
   - **(6)** other infrastructure required to support commercial deployment.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XIII, § 1302](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2972](https://www.govinfo.gov/link/statute/106/2972).)*

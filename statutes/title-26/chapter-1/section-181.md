@@ -3,9 +3,10 @@ title: "Section 181 - Treatment of certain qualified productions"
 usc_title: 26
 usc_section: "181"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 181"
-generated_at: "2026-03-30T02:55:27.649Z"
+generated_at: "2026-11-23T20:26:45.490Z"
+status: "active"
 ---
 
 # § 181. Treatment of certain qualified productions
@@ -52,3 +53,19 @@ generated_at: "2026-03-30T02:55:27.649Z"
 - **(f)** For purposes of this section, the term “qualified sound recording production” means a sound recording (as defined in section 101 of title 17 , United States Code) produced and recorded in the United States.
 - **(g)** For purposes of this section, rules similar to the rules of subsections (b)(2) and (c)(4) of section 194 shall apply.
 - **(h)** This section shall not apply to qualified film and television productions, qualified live theatrical productions, or qualified sound recording productions commencing after December 31, 2025 .
+
+Extension
+
+Modifications.—
+
+In general
+
+Commencement
+
+In general
+
+Deduction
+
+## Source Credit
+
+*(Added [Pub. L. 108–357, title II, § 244(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1445](https://www.govinfo.gov/link/statute/118/1445); amended [Pub. L. 109–135, title IV, § 403(e)(1)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2623](https://www.govinfo.gov/link/statute/119/2623); [Pub. L. 110–343, div. C, title V, § 502(a)](https://www.govinfo.gov/link/plaw/110/public/343), (b), (d), Oct. 3, 2008, [122 Stat. 3876](https://www.govinfo.gov/link/statute/122/3876), 3877; [Pub. L. 111–312, title VII, § 744(a)](https://www.govinfo.gov/link/plaw/111/public/312), Dec. 17, 2010, [124 Stat. 3319](https://www.govinfo.gov/link/statute/124/3319); [Pub. L. 112–240, title III, § 317(a)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2331](https://www.govinfo.gov/link/statute/126/2331); [Pub. L. 113–295, div. A, title I, § 129(a)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4018](https://www.govinfo.gov/link/statute/128/4018); [Pub. L. 114–113, div. Q, title I, § 169(a)](https://www.govinfo.gov/link/plaw/114/public/113) –(b)(2), (c), Dec. 18, 2015, [129 Stat. 3067](https://www.govinfo.gov/link/statute/129/3067), 3068; [Pub. L. 115–123, div. D, title I, § 40308(a)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 146](https://www.govinfo.gov/link/statute/132/146); [Pub. L. 116–94, div. Q, title I, § 117(a)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3229](https://www.govinfo.gov/link/statute/133/3229); [Pub. L. 116–260, div. EE, title I, § 116(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3051](https://www.govinfo.gov/link/statute/134/3051); [Pub. L. 119–21, title VII, § 70434(a)](https://www.govinfo.gov/link/plaw/119/public/21) –(f), (h)(1), July 4, 2025, [139 Stat. 244](https://www.govinfo.gov/link/statute/139/244), 245.)*

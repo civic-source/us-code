@@ -3,9 +3,10 @@ title: "Section 1829c - Making online banking initiation legal and easy"
 usc_title: 12
 usc_section: "1829c"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1829c"
-generated_at: "2026-03-30T02:53:53.457Z"
+generated_at: "2026-11-23T20:25:59.159Z"
+status: "active"
 ---
 
 # § 1829c. Making online banking initiation legal and easy
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:53:53.457Z"
     - **(B)** any copy of any such image.
   - **(4)** Nothing in this section shall be construed to amend, modify, or otherwise affect any State or Federal law that governs a financial institution’s disclosure and security of personal information that is not publicly available.
 - **(c)** The provisions of this section shall preempt and supersede any State law that conflicts with a provision of this section, but only to the extent of such conflict.
+
+## Source Credit
+
+*([Pub. L. 115–174, title II, § 213](https://www.govinfo.gov/link/plaw/115/public/174), May 24, 2018, [132 Stat. 1319](https://www.govinfo.gov/link/statute/132/1319).)*

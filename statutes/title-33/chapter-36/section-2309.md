@@ -3,9 +3,10 @@ title: "Section 2309 - Great Lakes Commodities Marketing Board"
 usc_title: 33
 usc_section: "2309"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2309"
-generated_at: "2026-03-30T02:55:41.121Z"
+generated_at: "2026-11-23T20:26:54.167Z"
+status: "active"
 ---
 
 # § 2309. Great Lakes Commodities Marketing Board
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:55:41.121Z"
   - **(2)** The United States representatives to the international advisory group shall serve without pay and the United States representatives to the advisory group who are full time officers or employees of the United States shall receive no additional pay by reason of their service on the advisory group, except that the United States representatives shall be allowed travel or transportation expenses under subchapter I of chapter 57 of title 5 while away from their homes or regular place of business and engaged in the actual performance of duties vested in the advisory group.
   - **(3)** The international advisory group established by this subsection shall report to Congress and to the Canadian Parliament on its progress in carrying out the duties set forth in this subsection not later than one year after the formation of such group and biennially thereafter.
 - **(d)** The Secretary and the Administrator of the Environmental Protection Agency, in cooperation with the Secretary of the Interior, the Administrator of the National Oceanic and Atmospheric Administration, and other appropriate Federal and non-Federal entities, shall carry out a review of the environmental, economic, and social impacts of navigation in the United States portion of the Great Lakes. In carrying out such review, the Secretary and the Administrator shall use existing research, studies, and investigations relating to such impacts to the maximum extent possible. Special emphasis shall be made in such review of the impacts of navigation on the shoreline and on fish and wildlife habitat, including, but not limited to, impacts associated with resuspension of bottom sediment. The Secretary and the Administrator shall submit to Congress an interim report of such review not later than September 30, 1988 , and a final report of such review along with recommendations not later than September 30, 1990 .
+
+## Source Credit
+
+*([Pub. L. 99–662, title XI, § 1132](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4246](https://www.govinfo.gov/link/statute/100/4246); [Pub. L. 116–260, div. AA, title V, § 512(c)(5)(D)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2756](https://www.govinfo.gov/link/statute/134/2756).)*

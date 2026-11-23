@@ -3,9 +3,10 @@ title: "Section 7313 - Comprehensive review of past and future of production agr
 usc_title: 7
 usc_section: "7313"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7313"
-generated_at: "2026-03-30T02:53:42.449Z"
+generated_at: "2026-11-23T20:25:41.771Z"
+status: "active"
 ---
 
 # § 7313. Comprehensive review of past and future of production agriculture
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:42.449Z"
   - **(3)** An assessment of the personnel and infrastructure requirements of the Department of Agriculture necessary to support the future relationship of the Federal Government with production agriculture.
   - **(4)** An assessment of economic risks to farms delineated by size of farm operation (such as small, medium, or large farms) and region of production.
 - **(c)** In carrying out the subsequent review under subsection (b), the Commission shall develop specific recommendations for legislation to achieve the appropriate future relationship of the Federal Government with production agriculture identified under subsection (a)(2).
+
+## Source Credit
+
+*([Pub. L. 104–127, title I, § 183](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 939](https://www.govinfo.gov/link/statute/110/939).)*

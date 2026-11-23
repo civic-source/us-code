@@ -3,9 +3,10 @@ title: "Section 470 - Disclosures regarding homeland security grants"
 usc_title: 6
 usc_section: "470"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 470"
-generated_at: "2026-03-30T02:53:09.465Z"
+generated_at: "2026-11-23T20:25:34.761Z"
+status: "active"
 ---
 
 # § 470. Disclosures regarding homeland security grants
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:09.465Z"
     - **(E)** the Metropolitan Medical Response System.
   - **(2)** The term “local government” has the meaning given the term in section 101 of this title .
 - **(b)** Each State or local government that receives a homeland security grant shall, not later than 12 months after the later of October 13, 2006 , and the date of receipt of such grant, and every 12 months thereafter until all funds provided under such grant are expended, submit a report to the Secretary that contains a list of all expenditures made by such State or local government using funds from such grant.
+
+## Source Credit
+
+*([Pub. L. 109–347, title VII, § 702](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1943](https://www.govinfo.gov/link/statute/120/1943).)*

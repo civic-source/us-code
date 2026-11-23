@@ -3,9 +3,10 @@ title: "Section 2513 - Gift by husband or wife to third party"
 usc_title: 26
 usc_section: "2513"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 2513"
-generated_at: "2026-03-30T02:55:27.784Z"
+generated_at: "2026-11-23T20:26:46.172Z"
+status: "active"
 ---
 
 # § 2513. Gift by husband or wife to third party
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:27.784Z"
   - **(1)** shall not exist after the 15th day of April following the close of such year if the consent was signified on or before such 15th day; and
   - **(2)** shall not exist if the consent was not signified until after such 15th day.
 - **(d)** If the consent required by subsection (a)(2) is signified with respect to a gift made in any calendar year, the liability with respect to the entire tax imposed by this chapter of each spouse for such year shall be joint and several.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 406; [Pub. L. 91–614, title I, § 102(b)(2)](https://www.govinfo.gov/link/plaw/91/public/614), Dec. 31, 1970, [84 Stat. 1840](https://www.govinfo.gov/link/statute/84/1840); [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 97–34, title IV, § 442(b)(2)](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 322](https://www.govinfo.gov/link/statute/95/322).)*

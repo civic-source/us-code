@@ -3,9 +3,10 @@ title: "Section 3802 - Trade negotiating objectives"
 usc_title: 19
 usc_section: "3802"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3802"
-generated_at: "2026-03-30T02:54:24.696Z"
+generated_at: "2026-11-23T20:26:11.076Z"
+status: "active"
 ---
 
 # § 3802. Trade negotiating objectives
@@ -154,3 +155,7 @@ generated_at: "2026-03-30T02:54:24.696Z"
     - **(A)** consult closely and on a timely basis (including immediately before initialing an agreement) with, and keep fully apprised of the negotiations, the congressional advisers for trade policy and negotiations appointed under section 2211 of this title , the Committee on Ways and Means of the House of Representatives, the Committee on Finance of the Senate, and the Congressional Oversight Group convened under section 3807 of this title ; and
     - **(B)** with regard to any negotiations and agreement relating to agricultural trade, also consult closely and on a timely basis (including immediately before initialing an agreement) with, and keep fully apprised of the negotiations, the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
 - **(e)** In determining whether to enter into negotiations with a particular country, the President shall take into account the extent to which that country has implemented, or has accelerated the implementation of, its obligations under the Uruguay Round Agreements.
+
+## Source Credit
+
+*([Pub. L. 107–210, div. B, title XXI, § 2102](https://www.govinfo.gov/link/plaw/107/public/210), Aug. 6, 2002, [116 Stat. 994](https://www.govinfo.gov/link/statute/116/994); [Pub. L. 108–429, title II, § 2004(a)(16)](https://www.govinfo.gov/link/plaw/108/public/429), Dec. 3, 2004, [118 Stat. 2591](https://www.govinfo.gov/link/statute/118/2591).)*

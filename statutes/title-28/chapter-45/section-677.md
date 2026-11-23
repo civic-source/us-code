@@ -3,9 +3,10 @@ title: "Section 677 - Counselor to the Chief Justice"
 usc_title: 28
 usc_section: "677"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 677"
-generated_at: "2026-03-30T02:55:30.136Z"
+generated_at: "2026-11-23T20:26:36.415Z"
+status: "active"
 ---
 
 # § 677. Counselor to the Chief Justice
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:30.136Z"
     - **(B)** chapter 171 of this title.
   - **(4)** In the administration of this subsection, the Counselor shall ensure that the acceptance of personal services shall not result in the reduction of pay or displacement of any employee of the Supreme Court.
 - **(d)** The Counselor, with the approval of the Chief Justice, shall establish a retention and recruitment program that is consistent with section 908 of the Emergency Supplemental Act, 2002 ( 2 U.S.C. 1926 ) for Supreme Court Police officers and other critical employees who agree in writing to remain employed with the Supreme Court for a period of service of not less than two years.
+
+## Source Credit
+
+*(Added [Pub. L. 92–238, § 1](https://www.govinfo.gov/link/plaw/92/public/238), Mar. 1, 1972, [86 Stat. 46](https://www.govinfo.gov/link/statute/86/46); amended [Pub. L. 105–233, § 1](https://www.govinfo.gov/link/plaw/105/public/233), Aug. 13, 1998, [112 Stat. 1535](https://www.govinfo.gov/link/statute/112/1535); [Pub. L. 110–402, § 1(b)(3)(A)](https://www.govinfo.gov/link/plaw/110/public/402), Oct. 13, 2008, [122 Stat. 4254](https://www.govinfo.gov/link/statute/122/4254); [Pub. L. 117–328, div. E, title III, § 307](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 4672](https://www.govinfo.gov/link/statute/136/4672).)*

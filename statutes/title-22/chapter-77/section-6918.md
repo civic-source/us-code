@@ -3,9 +3,10 @@ title: "Section 6918 - Staff of the Commission"
 usc_title: 22
 usc_section: "6918"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6918"
-generated_at: "2026-03-30T02:55:05.434Z"
+generated_at: "2026-11-23T20:26:32.637Z"
+status: "active"
 ---
 
 # § 6918. Staff of the Commission
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.434Z"
 - **(e)**
   - **(1)** For purposes of pay and other employment benefits, rights, and privileges, and for all other purposes, any employee of the Commission shall be considered to be a congressional employee as defined in section 2107 of title 5 .
   - **(2)** For purposes of section 3304(i)(1) 1 1 See References in Text note below. of title 5, employees of the Commission shall be considered as if they are in positions in which they are paid by the Secretary of the Senate or the Clerk of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 106–286, div. B, title III, § 308](https://www.govinfo.gov/link/plaw/106/public/286), Oct. 10, 2000, [114 Stat. 899](https://www.govinfo.gov/link/statute/114/899); [Pub. L. 118–188, § 2(a)(2)(C)](https://www.govinfo.gov/link/plaw/118/public/188), Dec. 23, 2024, [138 Stat. 2645](https://www.govinfo.gov/link/statute/138/2645).)*

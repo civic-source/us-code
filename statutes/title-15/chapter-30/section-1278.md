@@ -3,9 +3,10 @@ title: "Section 1278 - Requirements for labeling certain toys and games"
 usc_title: 15
 usc_section: "1278"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1278"
-generated_at: "2026-03-30T02:54:08.132Z"
+generated_at: "2026-11-23T20:26:03.990Z"
+status: "active"
 ---
 
 # § 1278. Requirements for labeling certain toys and games
@@ -56,3 +57,11 @@ generated_at: "2026-03-30T02:54:08.132Z"
       - **(i)** In the case of a product to which subsection (a), subsection (b)(2)(B), subsection (b)(2)(C), or subsection (b)(2)(D) applies, the statement specified by this subparagraph is as follows:
       - **(ii)** In the case of a product to which subsection (b)(2)(A) applies, the statement specified by this subparagraph is as follows:
 - **(e)** A balloon, ball, marble, toy, or game, that is not in compliance with the requirements of this subsection 1 1 So in original. Probably should be “this section”. shall be considered a misbranded hazardous substance under section 1261(p) of this title .
+
+In general
+
+Exception
+
+## Source Credit
+
+*([Pub. L. 86–613, § 24](https://www.govinfo.gov/link/plaw/86/public/613), as added [Pub. L. 103–267, title I, § 101(a)](https://www.govinfo.gov/link/plaw/103/public/267), June 16, 1994, [108 Stat. 722](https://www.govinfo.gov/link/statute/108/722); amended [Pub. L. 110–314, title I, § 105](https://www.govinfo.gov/link/plaw/110/public/314), Aug. 14, 2008, [122 Stat. 3031](https://www.govinfo.gov/link/statute/122/3031).)*

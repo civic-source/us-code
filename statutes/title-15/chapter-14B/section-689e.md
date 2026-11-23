@@ -3,9 +3,10 @@ title: "Section 689e - Issuance and guarantee of trust certificates"
 usc_title: 15
 usc_section: "689e"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 689e"
-generated_at: "2026-03-30T02:54:08.111Z"
+generated_at: "2026-11-23T20:26:03.865Z"
+status: "active"
 ---
 
 # § 689e. Issuance and guarantee of trust certificates
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:08.111Z"
     - **(B)** Any agent performing functions on behalf of the Administrator under this paragraph shall provide a fidelity bond or insurance in such amounts as the Administrator determines to be necessary to fully protect the interests of the United States.
   - **(3)** The Administrator may regulate brokers and dealers in trust certificates issued under this section.
   - **(4)** Nothing in this subsection may be construed to prohibit the use of a book-entry or other electronic form of registration for trust certificates issued under this section.
+
+## Source Credit
+
+*([Pub. L. 85–699, title III, § 356](https://www.govinfo.gov/link/plaw/85/public/699), as added [Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–658.)*

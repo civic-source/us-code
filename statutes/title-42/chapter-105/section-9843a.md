@@ -3,9 +3,10 @@ title: "Section 9843a - Staff qualifications and development"
 usc_title: 42
 usc_section: "9843a"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9843a"
-generated_at: "2026-03-30T02:56:11.370Z"
+generated_at: "2026-11-23T20:27:23.159Z"
+status: "active"
 ---
 
 # § 9843a. Staff qualifications and development
@@ -98,3 +99,15 @@ generated_at: "2026-03-30T02:56:11.370Z"
     - **(A)** a State, tribal, or Federal criminal record check covering all jurisdictions where the grantee provides Head Start services to children;
     - **(B)** a State, tribal, or Federal criminal record check as required by the law of the jurisdiction where the grantee provides Head Start services; or
     - **(C)** a criminal record check as otherwise required by Federal law.
+
+(aa) a baccalaureate or advanced degree in early childhood education; or
+
+(bb) a baccalaureate or advanced degree and coursework equivalent to a major relating to early childhood education, with experience teaching preschool-age children; and
+
+(aa) describe continuing progress each year toward achieving the goals described in subparagraphs (A) and (B); and
+
+(bb) annually submit to the Secretary a report indicating the number and percentage of classroom personnel described in subparagraphs (A) and (B) in center-based programs with child development associate credentials or associate, baccalaureate, or advanced degrees;
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 648A](https://www.govinfo.gov/link/plaw/97/public/35), as added [Pub. L. 103–252, title I, § 115](https://www.govinfo.gov/link/plaw/103/public/252), May 18, 1994, [108 Stat. 643](https://www.govinfo.gov/link/statute/108/643); amended [Pub. L. 105–285, title I, § 115](https://www.govinfo.gov/link/plaw/105/public/285), Oct. 27, 1998, [112 Stat. 2722](https://www.govinfo.gov/link/statute/112/2722); [Pub. L. 110–134, § 19](https://www.govinfo.gov/link/plaw/110/public/134), Dec. 12, 2007, [121 Stat. 1430](https://www.govinfo.gov/link/statute/121/1430).)*

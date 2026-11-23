@@ -3,9 +3,10 @@ title: "Section 193 - Tertiary injectants"
 usc_title: 26
 usc_section: "193"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 193"
-generated_at: "2026-03-30T02:55:27.650Z"
+generated_at: "2026-11-23T20:26:45.495Z"
+status: "active"
 ---
 
 # § 193. Tertiary injectants
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:27.650Z"
 - **(c)** No deduction shall be allowed under subsection (a) with respect to any expenditure—
   - **(1)** with respect to which the taxpayer has made an election under section 263(c), or
   - **(2)** with respect to which a deduction is allowed or allowable to the taxpayer under any other provision of this chapter.
+
+## Source Credit
+
+*(Added [Pub. L. 96–223, title II, § 251(a)(1)](https://www.govinfo.gov/link/plaw/96/public/223), Apr. 2, 1980, [94 Stat. 286](https://www.govinfo.gov/link/statute/94/286); amended [Pub. L. 97–448, title II, § 202(b)](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2396](https://www.govinfo.gov/link/statute/96/2396); [Pub. L. 100–418, title I, § 1941(b)(7)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1324](https://www.govinfo.gov/link/statute/102/1324).)*

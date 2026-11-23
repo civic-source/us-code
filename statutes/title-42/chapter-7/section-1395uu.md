@@ -3,9 +3,10 @@ title: "Section 1395uu - Payments to promote closing or conversion of underutili
 usc_title: 42
 usc_section: "1395uu"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1395uu"
-generated_at: "2026-03-30T02:56:11.013Z"
+generated_at: "2026-11-23T20:27:21.422Z"
+status: "active"
 ---
 
 # § 1395uu. Payments to promote closing or conversion of underutilized hospital facilities
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:11.013Z"
   - **(3)** A transitional allowance shall take effect on a date established by the Secretary, but not earlier than the date of completion of the closure or conversion concerned.
   - **(4)** A transitional allowance shall not be considered in applying the limits to costs recognized as reasonable pursuant to the third sentence of subparagraph (A) and subparagraph (L)(i) of section 1395x(v)(1) of this title , or in determining whether the reasonable cost exceeds the customary charges for a service for purposes of determining the amount to be paid to a provider pursuant to sections 1395f(b) and 1395 l (a)(2) of this title.
 - **(d)** A hospital dissatisfied with a determination of the Secretary on its application under this section may obtain an informal or formal hearing, at the discretion of the Secretary, by filing (in such form and within such time period as the Secretary establishes) a request for such a hearing. The Secretary shall make a final determination on such application within 30 days after the last day of such hearing.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1884, as added [Pub. L. 97–35, title XXI, § 2101(a)[(1)]](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 785](https://www.govinfo.gov/link/statute/95/785); amended [Pub. L. 97–248, title I, § 128(a)(6)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 366](https://www.govinfo.gov/link/statute/96/366).)*

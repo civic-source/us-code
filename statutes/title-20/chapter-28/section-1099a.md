@@ -3,9 +3,10 @@ title: "Section 1099a - State responsibilities"
 usc_title: 20
 usc_section: "1099a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1099a"
-generated_at: "2026-03-30T02:54:48.139Z"
+generated_at: "2026-11-23T20:26:14.539Z"
+status: "active"
 ---
 
 # § 1099a. State responsibilities
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:48.139Z"
     - **(A)** has committed fraud in the administration of the student assistance programs authorized by this subchapter; or
     - **(B)** has substantially violated a provision of this subchapter.
 - **(b)** Each institution of higher education shall provide evidence to the Secretary that the institution has authority to operate within a State at the time the institution is certified under subpart 3 of this part.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 495](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title IV, § 491(2)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1758](https://www.govinfo.gov/link/statute/112/1758).)*

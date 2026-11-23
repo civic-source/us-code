@@ -3,9 +3,10 @@ title: "Section 2317b - Mitigation banks and in-lieu fee arrangements"
 usc_title: 33
 usc_section: "2317b"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2317b"
-generated_at: "2026-03-30T02:55:41.122Z"
+generated_at: "2026-11-23T20:26:54.173Z"
+status: "active"
 ---
 
 # § 2317b. Mitigation banks and in-lieu fee arrangements
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:41.122Z"
   - **(3)** Nothing in this subsection—
     - **(A)** modifies or alters any requirement for a water resources development project to comply with applicable laws or regulations, including section 2283 of this title ; or
     - **(B)** shall be construed as to limit mitigation alternatives or require the use of mitigation banks or in-lieu fee programs.
+
+## Source Credit
+
+*([Pub. L. 110–114, title II, § 2036(c)](https://www.govinfo.gov/link/plaw/110/public/114), Nov. 8, 2007, [121 Stat. 1094](https://www.govinfo.gov/link/statute/121/1094); [Pub. L. 114–322, title I, § 1163](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1669](https://www.govinfo.gov/link/statute/130/1669).)*

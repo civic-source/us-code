@@ -3,9 +3,10 @@ title: "Section 2022 - Disposition of claims"
 usc_title: 7
 usc_section: "2022"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2022"
-generated_at: "2026-03-30T02:53:42.370Z"
+generated_at: "2026-11-23T20:25:41.450Z"
+status: "active"
 ---
 
 # § 2022. Disposition of claims
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:53:42.370Z"
       - **(ii)** furnishing a copy of the agreement to the State agency administering the unemployment compensation law; or
     - **(B)** in the absence of an agreement, by obtaining a writ, order, summons, or other similar process in the nature of garnishment from a court of competent jurisdiction to require the withholding of amounts from the unemployment compensation.
 - **(d)** The amount of an overissuance of benefits, as determined under subsection (b)(1), that has not been recovered pursuant to such subsection may be recovered from Federal pay (including salaries and pensions) as authorized by section 5514 of title 5 or a Federal income tax refund as authorized by section 3720A of title 31 .
+
+## Source Credit
+
+*([Pub. L. 88–525, § 13](https://www.govinfo.gov/link/plaw/88/public/525), Aug. 31, 1964, [78 Stat. 707](https://www.govinfo.gov/link/statute/78/707); [Pub. L. 95–113, title XIII, § 1301](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 974](https://www.govinfo.gov/link/statute/91/974); [Pub. L. 97–35, title I, § 113](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 363](https://www.govinfo.gov/link/statute/95/363); [Pub. L. 97–253, title I](https://www.govinfo.gov/link/plaw/97/public/253), §§ 177, 178, Sept. 8, 1982, [96 Stat. 781](https://www.govinfo.gov/link/statute/96/781), 782; [Pub. L. 99–198, title XV](https://www.govinfo.gov/link/plaw/99/public/198), §§ 1533–1535(a), Dec. 23, 1985, [99 Stat. 1583](https://www.govinfo.gov/link/statute/99/1583); [Pub. L. 100–435, title VI](https://www.govinfo.gov/link/plaw/100/public/435), §§ 601, 602, Sept. 19, 1988, [102 Stat. 1674](https://www.govinfo.gov/link/statute/102/1674); [Pub. L. 101–624, title XVII, § 1746](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3796](https://www.govinfo.gov/link/statute/104/3796); [Pub. L. 102–237, title IX, § 911](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1887](https://www.govinfo.gov/link/statute/105/1887); [Pub. L. 103–66, title XIII](https://www.govinfo.gov/link/plaw/103/public/66), §§ 13941(b), 13951(a), Aug. 10, 1993, [107 Stat. 676](https://www.govinfo.gov/link/statute/107/676), 677; [Pub. L. 104–193, title VIII, § 844(a)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2332](https://www.govinfo.gov/link/statute/110/2332); [Pub. L. 107–171, title IV, § 4118(b)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 321](https://www.govinfo.gov/link/statute/116/321); [Pub. L. 110–234, title IV](https://www.govinfo.gov/link/plaw/110/public/234), §§ 4115(b)(9), 4133, May 22, 2008, [122 Stat. 1107](https://www.govinfo.gov/link/statute/122/1107), 1116; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, §§ 4115(b)(9), 4133, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1869, 1877; [Pub. L. 113–79, title IV, § 4020(b)(1)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 798](https://www.govinfo.gov/link/statute/128/798); [Pub. L. 119–21, title I, § 10105(b)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 84](https://www.govinfo.gov/link/statute/139/84).)*

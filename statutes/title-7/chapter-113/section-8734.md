@@ -3,9 +3,10 @@ title: "Section 8734 - Repayment of loans"
 usc_title: 7
 usc_section: "8734"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 8734"
-generated_at: "2026-03-30T02:53:42.479Z"
+generated_at: "2026-11-23T20:25:41.900Z"
+status: "active"
 ---
 
 # § 8734. Repayment of loans
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:53:42.479Z"
 - **(h)**
   - **(1)** In the event of a severe disruption to marketing, transportation, or related infrastructure, the Secretary may modify the repayment rate otherwise applicable under this section for marketing assistance loans under section 8731 of this title for a loan commodity.
   - **(2)** Any adjustment made under paragraph (1) in the repayment rate for marketing assistance loans for a loan commodity shall be in effect on a short-term and temporary basis, as determined by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 110–234, title I, § 1204](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 956](https://www.govinfo.gov/link/statute/122/956); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1204, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1684.)*

@@ -3,9 +3,10 @@ title: "Section 360pp - Enforcement"
 usc_title: 21
 usc_section: "360pp"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 360pp"
-generated_at: "2026-03-30T02:54:54.254Z"
+generated_at: "2026-11-23T20:26:27.666Z"
+status: "active"
 ---
 
 # § 360pp. Enforcement
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:54.254Z"
 - **(d)** Nothing in this part shall be construed as requiring the Secretary to report for the institution of proceedings minor violations of this part whenever he believes that the public interest will be adequately served by a suitable written notice or warning.
 - **(e)** Except as provided in the first sentence of section 360ss of this title , compliance with this part or any regulations issued thereunder shall not relieve any person from liability at common law or under statutory law.
 - **(f)** The remedies provided for in this part shall be in addition to and not in substitution for any other remedies provided by law.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 539, formerly act July 1, 1944, ch. 373, title III, § 539, formerly § 360C, as added [Pub. L. 90–602, § 2(3)](https://www.govinfo.gov/link/plaw/90/public/602), Oct. 18, 1968, [82 Stat. 1184](https://www.govinfo.gov/link/statute/82/1184); renumbered § 539 and amended [Pub. L. 101–629, § 19(a)(1)(B)](https://www.govinfo.gov/link/plaw/101/public/629), (2)(G), (3), (4), Nov. 28, 1990, [104 Stat. 4529](https://www.govinfo.gov/link/statute/104/4529), 4530; [Pub. L. 103–80, § 4(a)(2)](https://www.govinfo.gov/link/plaw/103/public/80), Aug. 13, 1993, [107 Stat. 779](https://www.govinfo.gov/link/statute/107/779).)*

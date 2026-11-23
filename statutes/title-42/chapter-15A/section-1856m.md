@@ -3,9 +3,10 @@ title: "Section 1856m - Definitions"
 usc_title: 42
 usc_section: "1856m"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1856m"
-generated_at: "2026-03-30T02:56:11.124Z"
+generated_at: "2026-11-23T20:27:21.926Z"
+status: "active"
 ---
 
 # § 1856m. Definitions
@@ -22,3 +23,7 @@ In this subchapter:
   - **(4)** The term “foreign firefighter” means an individual furnished by a foreign fire organization under an agreement entered into under section 1856n of this title .
   - **(5)** The term “wildfire” means any forest or range fire.
   - **(6)** The term “wildfire protection resources” means any personnel, supplies, equipment, or other resources required for wildfire presuppression and suppression activities.
+
+## Source Credit
+
+*([Pub. L. 100–428, § 2](https://www.govinfo.gov/link/plaw/100/public/428), as added [Pub. L. 112–74, div. E, title IV, § 411(2)](https://www.govinfo.gov/link/plaw/112/public/74), Dec. 23, 2011, [125 Stat. 1039](https://www.govinfo.gov/link/statute/125/1039).)*

@@ -3,9 +3,10 @@ title: "Section 70904 - International Space Station completion"
 usc_title: 51
 usc_section: "70904"
 chapter: 709
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 70904"
-generated_at: "2026-03-30T02:56:28.713Z"
+generated_at: "2026-11-23T20:27:37.554Z"
+status: "active"
 ---
 
 # § 70904. International Space Station completion
@@ -21,3 +22,34 @@ generated_at: "2026-03-30T02:56:28.713Z"
 - **(c)**
   - **(1)** The Administrator shall ensure that the International Space Station can have available, if needed, sufficient logistics and on-orbit capabilities to support any potential period during which the space shuttle or its follow-on crew and cargo systems are unavailable, and can have available, if needed, sufficient surge delivery capability or prepositioning of spares and other supplies needed to accommodate any such hiatus.
   - **(2)** Before making any change in the International Space Station assembly sequence in effect on December 30, 2005 , the Administrator shall transmit to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a plan to carry out the policy described in paragraph (1).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 70904 | 42 U.S.C. 16765 . | Pub. L. 109–155, title V, § 505 , Dec. 30, 2005 , 119 Stat. 2929 . |
+
+
+Policy
+
+Elements, Capabilities, and Configuration Criteria
+
+Contingencies.—
+
+Policy
+
+Plan
+
+Historical and Revision Notes
+
+70904
+
+42 U.S.C. 16765
+
+Pub. L. 109–155, title V, § 505
+
+Dec. 30, 2005
+
+119 Stat. 2929
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3437](https://www.govinfo.gov/link/statute/124/3437).)*

@@ -3,9 +3,10 @@ title: "Section 3844 - Administrative requirements for conservation programs"
 usc_title: 16
 usc_section: "3844"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3844"
-generated_at: "2026-03-30T02:54:23.033Z"
+generated_at: "2026-11-23T20:26:20.712Z"
+status: "active"
 ---
 
 # § 3844. Administrative requirements for conservation programs
@@ -142,3 +143,7 @@ generated_at: "2026-03-30T02:54:23.033Z"
       - **(i)** any cause of action; or
       - **(ii)** a provision of Federal or State law establishing a remedy for a civil or criminal cause of action; or
     - **(C)** applies to a case in which the Department of Agriculture is the originating agency requesting a consultation or other technical and programmatic information or assistance from another Federal agency in assisting farmers, ranchers, or nonindustrial private forest landowners participating in a conservation program administered by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 99–198, title XII, § 1244](https://www.govinfo.gov/link/plaw/99/public/198), as added [Pub. L. 107–171, title II, § 2004(a)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 235](https://www.govinfo.gov/link/statute/116/235); amended [Pub. L. 110–234, title II](https://www.govinfo.gov/link/plaw/110/public/234), §§ 2707(a), 2708, May 22, 2008, [122 Stat. 1077](https://www.govinfo.gov/link/statute/122/1077), 1079; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title II, §§ 2707(a), 2708, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1805, 1807; [Pub. L. 113–79, title II](https://www.govinfo.gov/link/plaw/113/public/79), §§ 2301(b), 2606, Feb. 7, 2014, [128 Stat. 743](https://www.govinfo.gov/link/statute/128/743), 760; [Pub. L. 115–141, div. A, title VII, § 766](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 397](https://www.govinfo.gov/link/statute/132/397); [Pub. L. 115–334, title II](https://www.govinfo.gov/link/plaw/115/public/334), §§ 2202(b)(2), 2301(d)(1)(K), (L), 2503, 2821(f), Dec. 20, 2018, [132 Stat. 4538](https://www.govinfo.gov/link/statute/132/4538), 4554, 4580, 4603; [Pub. L. 117–169, title II, § 21001(c)(6)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 2017](https://www.govinfo.gov/link/statute/136/2017).)*

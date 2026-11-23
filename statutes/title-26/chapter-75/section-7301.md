@@ -3,9 +3,10 @@ title: "Section 7301 - Property subject to tax"
 usc_title: 26
 usc_section: "7301"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 7301"
-generated_at: "2026-03-30T02:55:27.869Z"
+generated_at: "2026-11-23T20:26:46.753Z"
+status: "active"
 ---
 
 # § 7301. Property subject to tax
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:27.869Z"
 - **(c)** All property whatsoever, in the place or building, or any yard or enclosure, where the property described in subsection (a) or (b) is found, or which is intended to be used in the making of property described in subsection (a), with intent to defraud the United States of tax or any part thereof, on the property described in subsection (a) may also be seized, and shall be forfeited to the United States.
 - **(d)** All property used as a container for, or which shall have contained, property described in subsection (a) or (b) may also be seized, and shall be forfeited to the United States.
 - **(e)** Any property (including aircraft, vehicles, vessels, or draft animals) used to transport or for the deposit or concealment of property described in subsection (a) or (b), or any property used to transport or for the deposit or concealment of property which is intended to be used in the making or packaging of property described in subsection (a), may also be seized, and shall be forfeited to the United States.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 867; [Pub. L. 85–859, title II, § 204(8)](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1429](https://www.govinfo.gov/link/statute/72/1429).)*

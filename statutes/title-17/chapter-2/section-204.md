@@ -3,9 +3,10 @@ title: "Section 204 - Execution of transfers of copyright ownership"
 usc_title: 17
 usc_section: "204"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 204"
-generated_at: "2026-03-30T02:54:15.350Z"
+generated_at: "2026-11-23T20:26:06.510Z"
+status: "active"
 ---
 
 # § 204. Execution of transfers of copyright ownership
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:15.350Z"
 - **(b)** A certificate of acknowledgement is not required for the validity of a transfer, but is prima facie evidence of the execution of the transfer if—
   - **(1)** in the case of a transfer executed in the United States, the certificate is issued by a person authorized to administer oaths within the United States; or
   - **(2)** in the case of a transfer executed in a foreign country, the certificate is issued by a diplomatic or consular officer of the United States, or by a person authorized to administer oaths whose authority is proved by a certificate of such an officer.
+
+## Source Credit
+
+*([Pub. L. 94–553, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/553), Oct. 19, 1976, [90 Stat. 2570](https://www.govinfo.gov/link/statute/90/2570).)*

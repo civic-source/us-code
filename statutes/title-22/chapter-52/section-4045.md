@@ -3,9 +3,10 @@ title: "Section 4045 - Contributions to Fund"
 usc_title: 22
 usc_section: "4045"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4045"
-generated_at: "2026-03-30T02:55:05.402Z"
+generated_at: "2026-11-23T20:26:32.500Z"
+status: "active"
 ---
 
 # § 4045. Contributions to Fund
@@ -40,3 +41,72 @@ generated_at: "2026-03-30T02:55:05.402Z"
 - **(f)** Contributions shall only be required to obtain credit for periods of military or naval service to the extent provided under subsection (e) and section 4056(a) of this title , except that credit shall be allowed in the absence of contributions to individuals of Japanese ancestry under section 4056 of this title for periods of internment during World War II.
 - **(g)** A participant or survivor may make a special contribution at any time before receipt of annuity and may authorize payment by offset against initial annuity accruals.
 - **(h)** Effective with respect to pay periods beginning after December 31, 1986 , in administering this section with respect to a participant described in section 4071b(c) of this title whose service is employment for the purposes of title II of the Social Security Act [ 42 U.S.C. 401 et seq.] and chapter 21 of title 26, contributions to the Fund and interest thereon shall be computed as if section 8334(k) of title 5 were applicable.
+
+|  | Percent of basic salary |
+| --- | --- |
+| Time of service: |  |
+| July 1, 1924 , through October 15, 1960 , inclusive | 5 |
+| October 16, 1960 , through December 31, 1969 , inclusive | 6½ |
+| January 1, 1970 , through December 31, 1998 , inclusive | 7 |
+| January 1, 1999 , through December 31, 1999 , inclusive | 7.25 |
+| January 1, 2000 , through December 31, 2000 , inclusive | 7.4 |
+| After December 31, 2000 | 7 |
+
+|  | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | “7.25 | January 1, 1999 , to December 31, 1999 . |
+|  | “7.4 | January 1, 2000 , to December 31, 2000 . |
+
+|  | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | “7.75 | January 1, 1999 , to December 31, 1999 . |
+|  | “7.9 | January 1, 2000 , to December 31, 2000 .” |
+
+
+July 1, 1924 , through October 15, 1960 , inclusive
+
+October 16, 1960 , through December 31, 1969 , inclusive
+
+January 1, 1970 , through December 31, 1998 , inclusive
+
+January 1, 1999 , through December 31, 1999 , inclusive
+
+January 1, 2000 , through December 31, 2000 , inclusive
+
+After December 31, 2000
+
+Agency contributions
+
+Individual deductions, withholdings, and deposits.—
+
+In general
+
+“7.25
+
+January 1, 1999
+
+December 31, 1999
+
+“7.4
+
+January 1, 2000
+
+December 31, 2000
+
+Foreign service criminal investigators/inspectors of the office of the inspector general, agency for international development
+
+“7.75
+
+January 1, 1999
+
+December 31, 1999
+
+“7.9
+
+January 1, 2000
+
+December 31, 2000
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 805](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2104](https://www.govinfo.gov/link/statute/94/2104); Ex. Ord. No. 12446, § 4(a), Oct. 17, 1983, 48 F.R. 48444; [Pub. L. 99–335, title IV](https://www.govinfo.gov/link/plaw/99/public/335), §§ 402(a)(2), 405, June 6, 1986, [100 Stat. 609](https://www.govinfo.gov/link/statute/100/609), 610; [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 100–238, title II, § 212](https://www.govinfo.gov/link/plaw/100/public/238), Jan. 8, 1988, [101 Stat. 1773](https://www.govinfo.gov/link/statute/101/1773); [Pub. L. 102–499, § 4(a)](https://www.govinfo.gov/link/plaw/102/public/499), (b), Oct. 24, 1992, [106 Stat. 3265](https://www.govinfo.gov/link/statute/106/3265); [Pub. L. 105–33, title VII, § 7001(d)(2)(C)](https://www.govinfo.gov/link/plaw/105/public/33), (D), Aug. 5, 1997, [111 Stat. 660](https://www.govinfo.gov/link/statute/111/660), 661; [Pub. L. 105–382, § 2(b)](https://www.govinfo.gov/link/plaw/105/public/382), (c), Nov. 13, 1998, [112 Stat. 3407](https://www.govinfo.gov/link/statute/112/3407); [Pub. L. 106–346, § 101(a) [title V, § 505(d)(2)]](https://www.govinfo.gov/link/plaw/106/public/346), Oct. 23, 2000, [114 Stat. 1356](https://www.govinfo.gov/link/statute/114/1356), 1356A–53; [Pub. L. 107–228, div. A, title III, § 322(a)(2)](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1384](https://www.govinfo.gov/link/statute/116/1384); [Pub. L. 112–96, title V, § 5001(c)(2)(D)](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 200](https://www.govinfo.gov/link/statute/126/200); [Pub. L. 117–225, § 3(b)(2)(B)(i)](https://www.govinfo.gov/link/plaw/117/public/225), Dec. 9, 2022, [136 Stat. 2296](https://www.govinfo.gov/link/statute/136/2296).)*

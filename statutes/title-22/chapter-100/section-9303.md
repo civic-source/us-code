@@ -3,9 +3,10 @@ title: "Section 9303 - Definitions"
 usc_title: 22
 usc_section: "9303"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9303"
-generated_at: "2026-03-30T02:55:05.465Z"
+generated_at: "2026-11-23T20:26:32.766Z"
+status: "active"
 ---
 
 # § 9303. Definitions
@@ -48,3 +49,7 @@ In this chapter:
   - **(14)** The term “wasting” means—
     - **(A)** a life-threatening condition attributable to poor nutrient intake or disease that is characterized by a rapid deterioration in nutritional status over a short period of time; and
     - **(B)** in the case of children, is characterized by low weight for height and weakened immunity, increasing their risk of death due to greater frequency and severity of common infection, particularly when severe.
+
+## Source Credit
+
+*([Pub. L. 114–195, § 4](https://www.govinfo.gov/link/plaw/114/public/195), July 20, 2016, [130 Stat. 676](https://www.govinfo.gov/link/statute/130/676); [Pub. L. 115–254, div. F, title VI, § 1470(s)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3519](https://www.govinfo.gov/link/statute/132/3519); [Pub. L. 117–263, div. E, title LV, § 5588(c)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3376](https://www.govinfo.gov/link/statute/136/3376).)*

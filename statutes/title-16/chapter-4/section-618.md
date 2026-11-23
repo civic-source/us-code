@@ -3,9 +3,10 @@ title: "Section 618 - Timber contract payment modification"
 usc_title: 16
 usc_section: "618"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 618"
-generated_at: "2026-03-30T02:54:22.885Z"
+generated_at: "2026-11-23T20:26:20.190Z"
+status: "active"
 ---
 
 # § 618. Timber contract payment modification
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:54:22.885Z"
   - **(2)** Notwithstanding any other provision of law, timber contracts extended pursuant to the President’s program of July 28, 1983 , as implemented by the Secretary of Agriculture shall not be subject to inclusion of additional provisions for calculating damages for default.
 - **(c)** The Secretary of Agriculture and the Secretary of the Interior shall monitor bidding patterns on timber sale contracts and take action to discourage bidding at such a rate as would indicate that the bidder, if awarded the contract, would be unable to perform the obligations as required, or that the bid is otherwise for the purpose of speculation. Each Secretary shall include in the annual report to Congress information concerning actions taken under this subsection.
 - **(d)** Effective January 1, 1985 , in any contract for the sale of timber from the National Forests, the Secretary of Agriculture shall require a cash down-payment at the time the contract is executed and periodic payments to be made over the remaining period of the contract.
+
+## Source Credit
+
+*([Pub. L. 98–478, § 2](https://www.govinfo.gov/link/plaw/98/public/478), Oct. 16, 1984, [98 Stat. 2213](https://www.govinfo.gov/link/statute/98/2213).)*

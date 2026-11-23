@@ -3,9 +3,10 @@ title: "Section 2932 - Committee on Earth and Environmental Sciences"
 usc_title: 15
 usc_section: "2932"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2932"
-generated_at: "2026-03-30T02:54:08.184Z"
+generated_at: "2026-11-23T20:26:04.261Z"
+status: "active"
 ---
 
 # § 2932. Committee on Earth and Environmental Sciences
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:54:08.184Z"
     - **(B)** coordinating the Federal activities of the United States with programs of other nations and with international global change research activities such as the International Geosphere-Biosphere Program;
   - **(6)** consult with actual and potential users of the results of the Program to ensure that such results are useful in developing national and international policy responses to global change; and
   - **(7)** report at least annually to the President and the Congress, through the Chairman of the Council, on Federal global change research priorities, policies, and programs.
+
+## Source Credit
+
+*([Pub. L. 101–606, title I, § 102](https://www.govinfo.gov/link/plaw/101/public/606), Nov. 16, 1990, [104 Stat. 3097](https://www.govinfo.gov/link/statute/104/3097).)*

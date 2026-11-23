@@ -3,9 +3,10 @@ title: "Section 1701b - Enhanced pay authority for certain acquisition and techn
 usc_title: 10
 usc_section: "1701b"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1701b"
-generated_at: "2026-03-30T02:53:38.133Z"
+generated_at: "2026-11-23T20:25:51.407Z"
+status: "active"
 ---
 
 # § 1701b. Enhanced pay authority for certain acquisition and technology positions
@@ -27,3 +28,23 @@ generated_at: "2026-03-30T02:53:38.133Z"
     - **(B)** more than five positions in the Office of the Secretary of Defense; and
     - **(C)** more than five positions in each military department.
   - **(3)** The authority in subsection (a) may be used only for positions having terms less than five years.
+
+In General
+
+Approval Required
+
+Positions
+
+Rate of Basic Pay
+
+Limitations.—
+
+In general
+
+Number of positions
+
+Term of positions
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. A, title XI, § 1114(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3894](https://www.govinfo.gov/link/statute/134/3894); amended [Pub. L. 117–263, div. A, title VIII, § 831(b)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2711](https://www.govinfo.gov/link/statute/136/2711).)*

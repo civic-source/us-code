@@ -3,9 +3,10 @@ title: "Section 9858m - Amounts reserved; allotments"
 usc_title: 42
 usc_section: "9858m"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9858m"
-generated_at: "2026-03-30T02:56:11.375Z"
+generated_at: "2026-11-23T20:27:23.179Z"
+status: "active"
 ---
 
 # § 9858m. Amounts reserved; allotments
@@ -65,3 +66,11 @@ generated_at: "2026-03-30T02:56:11.375Z"
   - **(3)** For purposes of any other section of this subchapter, any amount reallotted to a State under this subsection shall be considered to be part of the allotment made under subsection (b) to the State.
   - **(4)** Any portion of a grant or contract made to an Indian tribe or tribal organization under subsection (c) that the Secretary determines is not being used in a manner consistent with the provision of this subchapter in the period for which the grant or contract is made available, shall be allotted by the Secretary to other tribes or organizations that have submitted applications under subsection (c) in accordance with their respective needs.
 - **(f)** For the purposes of this section, the term “State” includes only the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
+
+(aa) the level of child care services will increase; or
+
+(bb) the quality of child care services will improve.
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 658O](https://www.govinfo.gov/link/plaw/97/public/35), as added [Pub. L. 101–508, title V, § 5082(2)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–246](https://www.govinfo.gov/link/statute/104/1388); amended [Pub. L. 102–401, § 3(a)](https://www.govinfo.gov/link/plaw/102/public/401), Oct. 7, 1992, [106 Stat. 1959](https://www.govinfo.gov/link/statute/106/1959); [Pub. L. 102–586, § 8(c)(1)](https://www.govinfo.gov/link/plaw/102/public/586), Nov. 4, 1992, [106 Stat. 5036](https://www.govinfo.gov/link/statute/106/5036); [Pub. L. 104–193, title VI, § 613](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2286](https://www.govinfo.gov/link/statute/110/2286); [Pub. L. 105–33, title V, § 5602(4)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 646](https://www.govinfo.gov/link/statute/111/646); [Pub. L. 106–78, title VII, § 752(b)(17)](https://www.govinfo.gov/link/plaw/106/public/78), Oct. 22, 1999, [113 Stat. 1170](https://www.govinfo.gov/link/statute/113/1170); [Pub. L. 113–186, § 9](https://www.govinfo.gov/link/plaw/113/public/186), Nov. 19, 2014, [128 Stat. 1998](https://www.govinfo.gov/link/statute/128/1998).)*

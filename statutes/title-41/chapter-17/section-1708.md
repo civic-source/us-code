@@ -3,9 +3,10 @@ title: "Section 1708 - Procurement notice"
 usc_title: 41
 usc_section: "1708"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 1708"
-generated_at: "2026-03-30T02:55:55.802Z"
+generated_at: "2026-11-23T20:27:04.399Z"
+status: "active"
 ---
 
 # § 1708. Procurement notice
@@ -62,3 +63,141 @@ generated_at: "2026-03-30T02:55:55.802Z"
   - **(3)** The Administrator shall prescribe regulations defining limited circumstances in which flexible deadlines can be used under paragraph (1) for the issuance of solicitations and the submission of bids or proposals for the procurement of commercial products or commercial services.
 - **(f)** An executive agency intending to solicit offers for a contract for which a notice of solicitation is required to be posted under subsection (a)(1) shall ensure that contracting officers consider each responsive offer timely received from an offeror.
 - **(g)** An executive agency shall make available to a business concern, or the authorized representative of a concern, the complete solicitation package for any on-going procurement announced pursuant to a notice of solicitation under subsection (a). An executive agency may require the payment of a fee, not exceeding the actual cost of duplication, for a copy of the package.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1708(a) | 41:416(a)(1). | Pub. L. 93–400, § 18 , as added Pub. L. 98–369, title VII, § 2732(a) , July 18, 1984 , 98 Stat. 1195 ; Pub. L. 98–577, title III, § 303(a) , Oct. 30, 1984 , 98 Stat. 3077 ; Pub. L. 99–500, § 101(c) [title X, § 922(b), (d)(2)] , Oct. 18, 1986 , 100 Stat. 1783–151 , 1783–152; Pub. L. 99–591, § 101(c) [title X, § 922(b), (d)(2)] , Oct. 30, 1986 , 100 Stat. 3341–151 , 3341–152; Pub. L. 99–661, title IX , formerly title IV, § 922(b), (d)(2), Nov. 14, 1986 , 100 Stat. 3931 , 3932, renumbered title IX, Pub. L. 100–26, § 3(5) , Apr. 21, 1987 , 101 Stat. 273 ; Pub. L. 101–510, title VIII, § 806(d) , Nov. 5, 1990 , 104 Stat. 1592 ; Pub. L. 103–355, title I, § 1055(b)(1) , title IV, §§ 4201(b), (c), 4202(a)–(c), title VIII, § 8302, title IX, § 9001(b), Oct. 13, 1994 , 108 Stat. 3265 , 3344, 3398, 3402; Pub. L. 104–106, title XLI, § 4101(c) , title XLII, § 4202(d), title XLIII, §§ 4310, 4321(h)(3), Feb. 10, 1996 , 110 Stat. 642 , 654, 670, 675; Pub. L. 105–85, title VIII, § 850(e)(2) , Nov. 18, 1997 , 111 Stat. 1849 ; Pub. L. 105–261, title X, § 1069(d)(1) , Oct. 17, 1998 , 112 Stat. 2136 ; Pub. L. 106–398, § 1 [[div. A] , title VIII, § 810(a), (b)], Oct. 30, 2000 , 114 Stat. 1654 A–209; Pub. L 107–296, title VIII, § 833(c)(2), Nov. 25, 2002 , 116 Stat. 2226 . |
+| 1708(b)(1), (2) | 41:416(c). |  |
+| 1708(b)(3) | no source. |  |
+| 1708(c) | 41:416(b). |  |
+| 1708(d) | 41:416(a)(2), (7). |  |
+| 1708(e) | 41:416(a)(3), (5), (6). |  |
+| 1708(f) | 41:416(a)(4). |  |
+| 1708(g) | 41:416(d). |  |
+
+
+Notice Requirement
+
+Exemptions.—
+
+In general
+
+Certain procurements
+
+Implementation consistent with international agreements
+
+Contents of Notice
+
+Electronic Publication of Notice of Solicitation, Award, or Order
+
+Time Limitations.—
+
+Issuing notice of solicitation and establishing deadline for submitting bids and proposals
+
+Establishing deadline when none provided by statute
+
+Flexible deadlines
+
+Consideration of Certain Timely Received Offers
+
+Availability of Complete Solicitation Package and Payment of Fee
+
+Historical and Revision Notes
+
+1708(a)
+
+Pub. L. 93–400, § 18
+
+Pub. L. 98–369, title VII, § 2732(a)
+
+July 18, 1984
+
+98 Stat. 1195
+
+Pub. L. 98–577, title III, § 303(a)
+
+Oct. 30, 1984
+
+98 Stat. 3077
+
+Pub. L. 99–500, § 101(c) [title X, § 922(b), (d)(2)]
+
+Oct. 18, 1986
+
+100 Stat. 1783–151
+
+Pub. L. 99–591, § 101(c) [title X, § 922(b), (d)(2)]
+
+Oct. 30, 1986
+
+100 Stat. 3341–151
+
+Pub. L. 99–661, title IX
+
+Nov. 14, 1986
+
+100 Stat. 3931
+
+Pub. L. 100–26, § 3(5)
+
+Apr. 21, 1987
+
+101 Stat. 273
+
+Pub. L. 101–510, title VIII, § 806(d)
+
+Nov. 5, 1990
+
+104 Stat. 1592
+
+Pub. L. 103–355, title I, § 1055(b)(1)
+
+Oct. 13, 1994
+
+108 Stat. 3265
+
+Pub. L. 104–106, title XLI, § 4101(c)
+
+Feb. 10, 1996
+
+110 Stat. 642
+
+Pub. L. 105–85, title VIII, § 850(e)(2)
+
+Nov. 18, 1997
+
+111 Stat. 1849
+
+Pub. L. 105–261, title X, § 1069(d)(1)
+
+Oct. 17, 1998
+
+112 Stat. 2136
+
+Pub. L. 106–398, § 1 [[div. A]
+
+Oct. 30, 2000
+
+114 Stat. 1654
+
+Nov. 25, 2002
+
+116 Stat. 2226
+
+1708(b)(1), (2)
+
+1708(b)(3)
+
+1708(c)
+
+1708(d)
+
+1708(e)
+
+1708(f)
+
+1708(g)
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3711](https://www.govinfo.gov/link/statute/124/3711); [Pub. L. 115–232, div. A, title VIII, § 836(b)(3)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1861](https://www.govinfo.gov/link/statute/132/1861); [Pub. L. 117–81, div. A, title XVII, § 1702(h)(4)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2158](https://www.govinfo.gov/link/statute/135/2158).)*

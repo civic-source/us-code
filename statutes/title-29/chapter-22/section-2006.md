@@ -3,9 +3,10 @@ title: "Section 2006 - Exemptions"
 usc_title: 29
 usc_section: "2006"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 2006"
-generated_at: "2026-03-30T02:55:18.742Z"
+generated_at: "2026-11-23T20:26:38.053Z"
+status: "active"
 ---
 
 # § 2006. Exemptions
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:55:18.742Z"
     - **(B)** in the case of a test administered to a current employee, if—
       - **(i)** the test is administered in connection with an ongoing investigation of criminal or other misconduct involving, or potentially involving, loss or injury to the manufacture, distribution, or dispensing of any such controlled substance by such employer, and
       - **(ii)** the employee had access to the person or property that is the subject of the investigation.
+
+## Source Credit
+
+*([Pub. L. 100–347, § 7](https://www.govinfo.gov/link/plaw/100/public/347), June 27, 1988, [102 Stat. 648](https://www.govinfo.gov/link/statute/102/648); [Pub. L. 103–359, title V, § 501(n)](https://www.govinfo.gov/link/plaw/103/public/359), Oct. 14, 1994, [108 Stat. 3430](https://www.govinfo.gov/link/statute/108/3430); [Pub. L. 104–201, div. A, title XI, § 1122(b)(3)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2687](https://www.govinfo.gov/link/statute/110/2687); [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title IX, § 931(b)(3), Oct. 14, 2008, [122 Stat. 4575](https://www.govinfo.gov/link/statute/122/4575).)*

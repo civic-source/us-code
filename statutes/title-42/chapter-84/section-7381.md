@@ -3,9 +3,10 @@ title: "Section 7381 - Findings and purposes"
 usc_title: 42
 usc_section: "7381"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7381"
-generated_at: "2026-03-30T02:56:11.289Z"
+generated_at: "2026-11-23T20:27:22.810Z"
+status: "active"
 ---
 
 # § 7381. Findings and purposes
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.289Z"
 - **(b)** The purposes of this subchapter are—
   - **(1)** to encourage the development and implementation of science, mathematics, and engineering education programs at the Department of Energy and at its research and development facilities as part of a national effort to improve science, mathematics, and engineering education; and
   - **(2)** to provide more efficient coordination among science, mathematics, and engineering education programs.
+
+## Source Credit
+
+*([Pub. L. 101–510, div. C, title XXXI, § 3162](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1840](https://www.govinfo.gov/link/statute/104/1840).)*

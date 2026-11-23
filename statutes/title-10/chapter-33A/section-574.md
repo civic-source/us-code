@@ -3,9 +3,10 @@ title: "Section 574 - Warrant officer active-duty lists; competitive categories;
 usc_title: 10
 usc_section: "574"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 574"
-generated_at: "2026-03-30T02:53:38.066Z"
+generated_at: "2026-11-23T20:25:51.001Z"
+status: "active"
 ---
 
 # § 574. Warrant officer active-duty lists; competitive categories; number to be recommended for promotion; promotion zones
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:38.066Z"
   - **(2)** Warrant officers serving in the same grade shall be carried in the order of their rank in that grade.
   - **(3)** A warrant officer on the warrant officer active-duty list who receives a temporary appointment or a temporary assignment in a grade other than a warrant officer grade or chief warrant officer grade shall retain his position on the warrant officer active-duty list while so serving.
 - **(e)** A chief warrant officer may not be considered for promotion to the next higher grade under this chapter until the officer has completed two years of service on active duty in the grade in which the officer is serving.
+
+## Source Credit
+
+*(Added [Pub. L. 102–190, div. A, title XI, § 1112(a)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1494](https://www.govinfo.gov/link/statute/105/1494); amended [Pub. L. 102–484, div. A, title X, § 1052(3)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2499](https://www.govinfo.gov/link/statute/106/2499); [Pub. L. 103–337, div. A, title V, § 541(b)(2)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2764](https://www.govinfo.gov/link/statute/108/2764); [Pub. L. 104–201, div. A, title V, § 506(a)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2512](https://www.govinfo.gov/link/statute/110/2512).)*

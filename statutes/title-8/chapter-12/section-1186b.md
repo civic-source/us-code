@@ -3,9 +3,10 @@ title: "Section 1186b - Conditional permanent resident status for certain alien 
 usc_title: 8
 usc_section: "1186b"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1186b"
-generated_at: "2026-03-30T02:53:10.482Z"
+generated_at: "2026-11-23T20:25:36.105Z"
+status: "active"
 ---
 
 # § 1186b. Conditional permanent resident status for certain alien entrepreneurs, spouses, and children
@@ -68,3 +69,117 @@ generated_at: "2026-03-30T02:53:10.482Z"
   - **(1)** The term “alien investor” means an alien who obtains the status of an alien lawfully admitted for permanent residence (whether on a conditional basis or otherwise) under section 1153(b)(5) of this title .
   - **(2)** The term “alien spouse” and the term “alien child” mean an alien who obtains the status of an alien lawfully admitted for permanent residence (whether on a conditional basis or otherwise) by virtue of being the spouse or child, respectively, of an alien investor.
   - **(3)** The term “commercial enterprise” includes any entity formed for the purpose of doing for-profit business.
+
+(aa) if the alien files a petition not later than 30 days after the third anniversary of the alien’s lawful admission for permanent residence demonstrating that the alien complied with subsection (d)(1)(B)(i), the Secretary shall remove the conditional basis of the alien’s status effective as of such third anniversary; or
+
+(bb) if the alien does not file the petition described in item (aa), the conditional status shall terminate at the end of such additional year.
+
+In general
+
+Exceptions.—
+
+Site visits
+
+Petition beneficiaries
+
+In General
+
+Eligible Aliens Described.—
+
+In general
+
+Reopening petitions previously denied.—
+
+In general
+
+Petitioners abroad
+
+Deportation or removal proceedings
+
+Determinations on Petitions.—
+
+Initial determination.—
+
+In general
+
+Investment under pilot immigration program
+
+Exception for troubled businesses
+
+Dates
+
+Removal of conditional basis if favorable determination
+
+Requirements relating to adverse determinations.—
+
+Notice
+
+Continuation of conditional basis if certain adverse determinations
+
+Termination if adverse determination
+
+Administrative and judicial review
+
+Second determination.—
+
+Authorization to consider investments in other commercial enterprises
+
+Petition
+
+Period for filing petition.—
+
+day period before second anniversary
+
+Date petitions for good cause
+
+Termination of permanent resident status for failure to file petition.—
+
+In general
+
+Hearing in removal proceeding
+
+Determinations after petition
+
+Removal of conditional basis if favorable determination
+
+Requirements relating to adverse determinations.—
+
+Notice
+
+Termination if adverse determination
+
+Hearing in Removal Proceeding
+
+Clarification With Respect to Children
+
+Definition of Full-Time
+
+In General
+
+Eligible Aliens Described
+
+Treatment of Certain Applications.—
+
+Revocation of approval of petitions
+
+Applications no longer pending.—
+
+In general
+
+Applicants abroad
+
+Recordation of Date; Reduction of Numbers
+
+Removal of Conditional Basis.—
+
+Petition
+
+Determination
+
+Dates
+
+Clarification With Respect to Children
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 2, § 216A, as added [Pub. L. 101–649, title I, § 121(b)(1)](https://www.govinfo.gov/link/plaw/101/public/649), Nov. 29, 1990, [104 Stat. 4990](https://www.govinfo.gov/link/statute/104/4990); amended [Pub. L. 102–232, title III, § 302(b)(3)](https://www.govinfo.gov/link/plaw/102/public/232), Dec. 12, 1991, [105 Stat. 1743](https://www.govinfo.gov/link/statute/105/1743); [Pub. L. 104–208, div. C, title III, § 308(e)(8)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–620](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 107–273, div. C, title I, § 11036(b)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1847](https://www.govinfo.gov/link/statute/116/1847); [Pub. L. 117–103, div. BB, § 104(a)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 1100](https://www.govinfo.gov/link/statute/136/1100).)*

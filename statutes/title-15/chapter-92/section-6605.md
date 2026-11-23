@@ -3,9 +3,10 @@ title: "Section 6605 - Proportionate liability"
 usc_title: 15
 usc_section: "6605"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 6605"
-generated_at: "2026-03-30T02:54:08.212Z"
+generated_at: "2026-11-23T20:26:04.401Z"
+status: "active"
 ---
 
 # § 6605. Proportionate liability
@@ -69,3 +70,11 @@ generated_at: "2026-03-30T02:54:08.212Z"
 - **(g)** Nothing in this section preempts or supersedes any provision of State law that—
   - **(1)** limits the liability of a defendant in a Y2K action to a lesser amount than the amount determined under this section; or
   - **(2)** otherwise affords a greater degree of protection from joint or several liability than is afforded by this section.
+
+(aa) a single lawsuit in which: (1) damages are sought on behalf of more than 10 persons or prospective class members; or (2) one or more named parties seek to recover damages on a representative basis on behalf of themselves and other unnamed parties similarly situated; or
+
+(bb) any group of lawsuits filed in or pending in the same court in which: (1) damages are sought on behalf of more than 10 persons; and (2) the lawsuits are joined, consolidated, or otherwise proceed as a single action for any purpose.
+
+## Source Credit
+
+*([Pub. L. 106–37, § 6](https://www.govinfo.gov/link/plaw/106/public/37), July 20, 1999, [113 Stat. 192](https://www.govinfo.gov/link/statute/113/192).)*

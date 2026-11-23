@@ -3,9 +3,10 @@ title: "Section 2093 - Payment of benefits"
 usc_title: 50
 usc_section: "2093"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 2093"
-generated_at: "2026-03-30T02:56:26.218Z"
+generated_at: "2026-11-23T20:27:30.826Z"
+status: "active"
 ---
 
 # § 2093. Payment of benefits
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:26.218Z"
   - **(3)** Subject to paragraph (2), an annuitant may change the State designated by that annuitant for purposes of having withholdings made, and may request that the withholdings be remitted in accordance with such change. An annuitant also may revoke any request of that annuitant for withholding. Any change in the State designated or revocation is effective on the first day of the month after the month in which the request or the revocation is processed by the Director, but in no event later than on the first day of the second month beginning after the day on which such request or revocation is received by the Director.
   - **(4)** This subsection does not give the consent of the United States to the application of a statute which imposes more burdensome requirements of the United States than on employers generally, or which subjects the United States or any annuitant to a penalty or liability because of this subsection. The Director may not accept pay from a State for services performed in withholding State income taxes from annuities. Any amount erroneously withheld from an annuity and paid to a State by the Director shall be repaid by the State in accordance with regulations prescribed by the Director.
   - **(5)** For the purpose of this subsection, the term “State” includes the District of Columbia and any territory or possession of the United States.
+
+## Source Credit
+
+*([Pub. L. 88–643, title II, § 263](https://www.govinfo.gov/link/plaw/88/public/643), as added [Pub. L. 102–496, title VIII, § 802](https://www.govinfo.gov/link/plaw/102/public/496), Oct. 24, 1992, [106 Stat. 3235](https://www.govinfo.gov/link/statute/106/3235); amended [Pub. L. 118–31, div. G, title IX, § 7901(d)(2)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1106](https://www.govinfo.gov/link/statute/137/1106).)*

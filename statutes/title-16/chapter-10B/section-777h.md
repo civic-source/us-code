@@ -3,9 +3,10 @@ title: "Section 777h - Requirements and restrictions concerning use of amounts f
 usc_title: 16
 usc_section: "777h"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 777h"
-generated_at: "2026-03-30T02:54:22.909Z"
+generated_at: "2026-11-23T20:26:20.276Z"
+status: "active"
 ---
 
 # § 777h. Requirements and restrictions concerning use of amounts for expenses for administration
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:54:22.909Z"
   - **(3)** The Inspector General of the Department of the Interior shall promptly submit to the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate—
     - **(A)** a report on the results of each audit under this subsection; and
     - **(B)** a copy of each audit under this subsection.
+
+## Source Credit
+
+*(Aug. 9, 1950, ch. 658, § 9, [64 Stat. 433](https://www.govinfo.gov/link/statute/64/433); [Pub. L. 106–408, title I, § 121(b)](https://www.govinfo.gov/link/plaw/106/public/408), Nov. 1, 2000, [114 Stat. 1770](https://www.govinfo.gov/link/statute/114/1770); [Pub. L. 109–59, title X, § 10116](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1929](https://www.govinfo.gov/link/statute/119/1929); [Pub. L. 117–58, div. B, title VIII, § 28001(a)(2)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 887](https://www.govinfo.gov/link/statute/135/887); [Pub. L. 117–263, div. K, title CXIII, § 11324(a)(2)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4095](https://www.govinfo.gov/link/statute/136/4095).)*

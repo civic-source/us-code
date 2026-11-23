@@ -3,9 +3,10 @@ title: "Section 8481 - Accessible recreation inventory"
 usc_title: 16
 usc_section: "8481"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 8481"
-generated_at: "2026-03-30T02:54:23.086Z"
+generated_at: "2026-11-23T20:26:20.890Z"
+status: "active"
 ---
 
 # § 8481. Accessible recreation inventory
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:23.086Z"
     - **(B)** each relevant unit and subunit of the Federal land management agencies.
 - **(b)** As part of the comprehensive assessment required under subsection (a)(1), to the extent practicable, the Secretary concerned may rely on assessments completed or data gathered prior to January 4, 2025 .
 - **(c)** Not later than 7 years after January 4, 2025 , the Secretary concerned shall identify opportunities to create, update, or replace signage and other publicly available information, including web page information, related to accessibility and consistent with the Architectural Barriers Act of 1968 ( 42 U.S.C. 4151 et seq.) and section 794 of title 29 at outdoor recreation facilities covered by the assessment required under subsection (a)(1).
+
+## Source Credit
+
+*([Pub. L. 118–234, title II, § 211](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2881](https://www.govinfo.gov/link/statute/138/2881).)*

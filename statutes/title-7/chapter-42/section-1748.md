@@ -3,9 +3,10 @@ title: "Section 1748 - Annual reports by agricultural attachés"
 usc_title: 7
 usc_section: "1748"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1748"
-generated_at: "2026-03-30T02:53:42.342Z"
+generated_at: "2026-11-23T20:25:41.301Z"
+status: "active"
 ---
 
 # § 1748. Annual reports by agricultural attachés
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:42.342Z"
 - **(c)** The Secretary and the United States Trade Representative shall convene a meeting, at least once each year, of the Agricultural Policy Advisory Committee and the agricultural technical advisory committees to develop specific recommendations for actions to be taken by the Federal Government and private industry to—
   - **(1)** reduce or eliminate trade barriers or distortions identified in the annual reports required to be submitted under subsections (a) and (b); and
   - **(2)** expand United States agricultural export opportunities identified in such annual reports.
+
+## Source Credit
+
+*(Aug. 28, 1954, ch. 1041, title I, § 108, as added [Pub. L. 101–624, title XV, § 1532](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3689](https://www.govinfo.gov/link/statute/104/3689); amended [Pub. L. 102–237, title III](https://www.govinfo.gov/link/plaw/102/public/237), §§ 316–318, Dec. 13, 1991, [105 Stat. 1856](https://www.govinfo.gov/link/statute/105/1856), 1857; [Pub. L. 104–127, title II, § 272](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 976](https://www.govinfo.gov/link/statute/110/976).)*

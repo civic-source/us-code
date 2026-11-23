@@ -3,9 +3,10 @@ title: "Section 4105 - Two-party exchanges"
 usc_title: 26
 usc_section: "4105"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 4105"
-generated_at: "2026-03-30T02:55:27.799Z"
+generated_at: "2026-11-23T20:26:46.288Z"
+status: "active"
 ---
 
 # § 4105. Two-party exchanges
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:27.799Z"
   - **(2)** The exchange transaction occurs before or contemporaneous with completion of removal across the rack from the terminal by the receiving person.
   - **(3)** The terminal operator in its books and records treats the receiving person as the person that removes the product across the terminal rack for purposes of reporting the transaction to the Secretary.
   - **(4)** The transaction is the subject of a written contract.
+
+## Source Credit
+
+*(Added [Pub. L. 108–357, title VIII, § 866(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1621](https://www.govinfo.gov/link/statute/118/1621).)*

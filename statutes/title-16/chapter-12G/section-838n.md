@@ -3,9 +3,10 @@ title: "Section 838n - Columbia Basin power management"
 usc_title: 16
 usc_section: "838n"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 838n"
-generated_at: "2026-03-30T02:54:22.929Z"
+generated_at: "2026-11-23T20:26:20.324Z"
+status: "active"
 ---
 
 # § 838n. Columbia Basin power management
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:54:22.929Z"
     - **(C)** the Commissioner of Reclamation; and
     - **(D)** any public utility districts that operate hydroelectric projects on the mainstem of the Columbia River.
   - **(4)** There is authorized to be appropriated $10,000,000, which shall be nonreimburseable, to carry out this subsection.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title I, § 40113](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 947](https://www.govinfo.gov/link/statute/135/947).)*

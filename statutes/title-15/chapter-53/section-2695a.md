@@ -3,9 +3,10 @@ title: "Section 2695a - Model guidelines for siting of school facilities"
 usc_title: 15
 usc_section: "2695a"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2695a"
-generated_at: "2026-03-30T02:54:08.181Z"
+generated_at: "2026-11-23T20:26:04.247Z"
+status: "active"
 ---
 
 # § 2695a. Model guidelines for siting of school facilities
@@ -16,3 +17,7 @@ Not later than 18 months after December 19, 2007 , the Administrator, in consult
   - **(2)** modes of transportation available to students and staff;
   - **(3)** the efficient use of energy; and
   - **(4)** the potential use of a school at the site as an emergency shelter.
+
+## Source Credit
+
+*([Pub. L. 94–469, title V, § 502](https://www.govinfo.gov/link/plaw/94/public/469), as added [Pub. L. 110–140, title IV, § 461(a)](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1640](https://www.govinfo.gov/link/statute/121/1640).)*

@@ -3,9 +3,10 @@ title: "Section 8503 - Brown tree snake control, interdiction, research and erad
 usc_title: 7
 usc_section: "8503"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 8503"
-generated_at: "2026-03-30T02:53:42.477Z"
+generated_at: "2026-11-23T20:25:41.892Z"
+status: "active"
 ---
 
 # § 8503. Brown tree snake control, interdiction, research and eradication
@@ -30,3 +31,13 @@ generated_at: "2026-03-30T02:53:42.477Z"
   - **(4)** For activities conducted through the Fish and Wildlife Service, not more than $2,000,000 for each of the fiscal years 2006 through 2010.
   - **(5)** For activities conducted through the United States Geological Survey, Biological Resources, not more than $1,500,000 for each of the fiscal years 2006 through 2010.
 - **(d)** There is authorized to be appropriated to the Secretary of Agriculture and the Secretary of the Interior such amounts as may be required to carry out subsection (b)(10).
+
+In General
+
+Introduction Into Hawaii
+
+Authority
+
+## Source Credit
+
+*([Pub. L. 108–384, § 4](https://www.govinfo.gov/link/plaw/108/public/384), Oct. 30, 2004, [118 Stat. 2222](https://www.govinfo.gov/link/statute/118/2222).)*

@@ -3,9 +3,10 @@ title: "Section 1654 - Contracts and grants for determination of unmet health ca
 usc_title: 25
 usc_section: "1654"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1654"
-generated_at: "2026-03-30T02:54:52.824Z"
+generated_at: "2026-11-23T20:26:25.503Z"
+status: "active"
 ---
 
 # § 1654. Contracts and grants for determination of unmet health care needs
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:52.824Z"
     - **(B)** with respect to urban Indians in the urban center involved, determine the matters described in clauses (2), (3), (4), and (8) of section 1653(b) of this title ; and
   - **(2)** the urban Indian organization complete performance of the contract, or carry out the requirements of the grant, within one year after the date on which the Secretary and such organization enter into such contract, or within one year after such organization receives such grant, whichever is applicable.
 - **(c)** The Secretary may not renew any contract entered into, or grant made, under this section.
+
+## Source Credit
+
+*([Pub. L. 94–437, title V, § 504](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 100–713, title V, § 501](https://www.govinfo.gov/link/plaw/100/public/713), Nov. 23, 1988, [102 Stat. 4822](https://www.govinfo.gov/link/statute/102/4822); amended [Pub. L. 102–573, title V, § 501(b)(2)](https://www.govinfo.gov/link/plaw/102/public/573), Oct. 29, 1992, [106 Stat. 4567](https://www.govinfo.gov/link/statute/106/4567).)*

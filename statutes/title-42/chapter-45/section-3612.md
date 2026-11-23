@@ -3,9 +3,10 @@ title: "Section 3612 - Enforcement by Secretary"
 usc_title: 42
 usc_section: "3612"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3612"
-generated_at: "2026-03-30T02:56:11.191Z"
+generated_at: "2026-11-23T20:27:22.304Z"
+status: "active"
 ---
 
 # § 3612. Enforcement by Secretary
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:56:11.191Z"
   - **(2)** Any aggrieved person with respect to the issues to be determined in a civil action under this subsection may intervene as of right in that civil action.
   - **(3)** In a civil action under this subsection, if the court finds that a discriminatory housing practice has occurred or is about to occur, the court may grant as relief any relief which a court could grant with respect to such discriminatory housing practice in a civil action under section 3613 of this title . Any relief so granted that would accrue to an aggrieved person in a civil action commenced by that aggrieved person under section 3613 of this title shall also accrue to that aggrieved person in a civil action under this subsection. If monetary relief is sought for the benefit of an aggrieved person who does not intervene in the civil action, the court shall not award such relief if that aggrieved person has not complied with discovery orders entered by the court.
 - **(p)** In any administrative proceeding brought under this section, or any court proceeding arising therefrom, or any civil action under this section, the administrative law judge or the court, as the case may be, in its discretion, may allow the prevailing party, other than the United States, a reasonable attorney’s fee and costs. The United States shall be liable for such fees and costs to the extent provided by section 504 of title 5 or by section 2412 of title 28 .
+
+## Source Credit
+
+*([Pub. L. 90–284, title VIII, § 812](https://www.govinfo.gov/link/plaw/90/public/284), as added [Pub. L. 100–430, § 8(2)](https://www.govinfo.gov/link/plaw/100/public/430), Sept. 13, 1988, [102 Stat. 1629](https://www.govinfo.gov/link/statute/102/1629).)*

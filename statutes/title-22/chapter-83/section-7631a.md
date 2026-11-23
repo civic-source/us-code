@@ -3,9 +3,10 @@ title: "Section 7631a - United States Agency for International Development"
 usc_title: 22
 usc_section: "7631a"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7631a"
-generated_at: "2026-03-30T02:55:05.443Z"
+generated_at: "2026-11-23T20:26:32.674Z"
+status: "active"
 ---
 
 # § 7631a. United States Agency for International Development
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.443Z"
     - **(B)** a stringent regulatory agency acceptable to the Secretary of Health and Human Services; or
     - **(C)** a quality assurance mechanism acceptable to the Secretary of Health and Human Services.
   - **(2)** Of the amounts authorized to be appropriated under section 7671 of this title for HIV/AIDS assistance, there are authorized to be appropriated to the President such sums as may be necessary for each of the fiscal years 2009 through 2013 to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 110–293, title II, § 203(e)](https://www.govinfo.gov/link/plaw/110/public/293), July 30, 2008, [122 Stat. 2941](https://www.govinfo.gov/link/statute/122/2941).)*

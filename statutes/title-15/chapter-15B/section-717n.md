@@ -3,9 +3,10 @@ title: "Section 717n - Process coordination; hearings; rules of procedure"
 usc_title: 15
 usc_section: "717n"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 717n"
-generated_at: "2026-03-30T02:54:08.118Z"
+generated_at: "2026-11-23T20:26:03.904Z"
+status: "active"
 ---
 
 # § 717n. Process coordination; hearings; rules of procedure
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:08.118Z"
   - **(2)** judicial review under section 717r(d) of this title of decisions made or actions taken of Federal and State administrative agencies and officials, provided that, if the Court determines that the record does not contain sufficient information, the Court may remand the proceeding to the Commission for further development of the consolidated record.
 - **(e)** Hearings under this chapter may be held before the Commission, any member or members thereof, or any representative of the Commission designated by it, and appropriate records thereof shall be kept. In any proceeding before it, the Commission in accordance with such rules and regulations as it may prescribe, may admit as a party any interested State, State commission, municipality or any representative of interested consumers or security holders, or any competitor of a party to such proceeding, or any other person whose participation in the proceeding may be in the public interest.
 - **(f)** All hearings, investigations, and proceedings under this chapter shall be governed by rules of practice and procedure to be adopted by the Commission, and in the conduct thereof the technical rules of evidence need not be applied. No informality in any hearing, investigation, or proceeding or in the manner of taking testimony shall invalidate any order, decision, rule, or regulation issued under the authority of this chapter.
+
+## Source Credit
+
+*(June 21, 1938, ch. 556, § 15, [52 Stat. 829](https://www.govinfo.gov/link/statute/52/829); [Pub. L. 109–58, title III, § 313(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 688](https://www.govinfo.gov/link/statute/119/688).)*

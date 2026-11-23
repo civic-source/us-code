@@ -3,9 +3,10 @@ title: "Section 13285 - Reports to Congress"
 usc_title: 42
 usc_section: "13285"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13285"
-generated_at: "2026-03-30T02:56:11.441Z"
+generated_at: "2026-11-23T20:27:23.475Z"
+status: "active"
 ---
 
 # § 13285. Reports to Congress
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.441Z"
   - **(1)** address the potential cost of purchasing and maintaining electric motor vehicles, including the initial cost of the batteries and the cost of replacement batteries;
   - **(2)** identify methods for reducing, subsidizing, or sharing such costs; and
   - **(3)** include recommendations for legislative and administrative measures to encourage the purchase and use of electric motor vehicles.
+
+## Source Credit
+
+*([Pub. L. 102–486, title VI, § 615](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2903](https://www.govinfo.gov/link/statute/106/2903).)*

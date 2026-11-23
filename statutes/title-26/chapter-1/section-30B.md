@@ -3,9 +3,10 @@ title: "Section 30B - Alternative motor vehicle credit"
 usc_title: 26
 usc_section: "30B"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 30B"
-generated_at: "2026-03-30T02:55:27.589Z"
+generated_at: "2026-11-23T20:26:45.140Z"
+status: "active"
 ---
 
 # § 30B. Alternative motor vehicle credit
@@ -32,8 +33,44 @@ generated_at: "2026-03-30T02:55:27.589Z"
       - **(vi)** $3,500, if such vehicle achieves at least 275 percent but less than 300 percent of the 2002 model year city fuel economy, and
       - **(vii)** $4,000, if such vehicle achieves at least 300 percent of the 2002 model year city fuel economy.
     - **(B)** For purposes of subparagraph (A), the 2002 model year city fuel economy with respect to a vehicle shall be determined in accordance with the following tables:
-      - **(i)** In the case of a passenger automobile: If vehicle inertia weight class is: The 2002 model year city fuel economy is: 1,500 or 1,750 lbs 45.2 mpg 2,000 lbs 39.6 mpg 2,250 lbs 35.2 mpg 2,500 lbs 31.7 mpg 2,750 lbs 28.8 mpg 3,000 lbs 26.4 mpg 3,500 lbs 22.6 mpg 4,000 lbs 19.8 mpg 4,500 lbs 17.6 mpg 5,000 lbs 15.9 mpg 5,500 lbs 14.4 mpg 6,000 lbs 13.2 mpg 6,500 lbs 12.2 mpg 7,000 to 8,500 lbs 11.3 mpg.
-      - **(ii)** In the case of a light truck: If vehicle inertia weight class is: The 2002 model year city fuel economy is: 1,500 or 1,750 lbs 39.4 mpg 2,000 lbs 35.2 mpg 2,250 lbs 31.8 mpg 2,500 lbs 29.0 mpg 2,750 lbs 26.8 mpg 3,000 lbs 24.9 mpg 3,500 lbs 21.8 mpg 4,000 lbs 19.4 mpg 4,500 lbs 17.6 mpg 5,000 lbs 16.1 mpg 5,500 lbs 14.8 mpg 6,000 lbs 13.7 mpg 6,500 lbs 12.8 mpg 7,000 to 8,500 lbs 12.1 mpg.
+      - **(i)** In the case of a passenger automobile:
+
+| If vehicle inertia weight class is: | The 2002 model year city fuel economy is: |
+| --- | --- |
+| 1,500 or 1,750 lbs | 45.2 mpg |
+| 2,000 lbs | 39.6 mpg |
+| 2,250 lbs | 35.2 mpg |
+| 2,500 lbs | 31.7 mpg |
+| 2,750 lbs | 28.8 mpg |
+| 3,000 lbs | 26.4 mpg |
+| 3,500 lbs | 22.6 mpg |
+| 4,000 lbs | 19.8 mpg |
+| 4,500 lbs | 17.6 mpg |
+| 5,000 lbs | 15.9 mpg |
+| 5,500 lbs | 14.4 mpg |
+| 6,000 lbs | 13.2 mpg |
+| 6,500 lbs | 12.2 mpg |
+| 7,000 to 8,500 lbs | 11.3 mpg. |
+
+      - **(ii)** In the case of a light truck:
+
+| If vehicle inertia weight class is: | The 2002 model year city fuel economy is: |
+| --- | --- |
+| 1,500 or 1,750 lbs | 39.4 mpg |
+| 2,000 lbs | 35.2 mpg |
+| 2,250 lbs | 31.8 mpg |
+| 2,500 lbs | 29.0 mpg |
+| 2,750 lbs | 26.8 mpg |
+| 3,000 lbs | 24.9 mpg |
+| 3,500 lbs | 21.8 mpg |
+| 4,000 lbs | 19.4 mpg |
+| 4,500 lbs | 17.6 mpg |
+| 5,000 lbs | 16.1 mpg |
+| 5,500 lbs | 14.8 mpg |
+| 6,000 lbs | 13.7 mpg |
+| 6,500 lbs | 12.8 mpg |
+| 7,000 to 8,500 lbs | 12.1 mpg. |
+
     - **(C)** For purposes of subparagraph (B), the term “vehicle inertia weight class” has the same meaning as when defined in regulations prescribed by the Administrator of the Environmental Protection Agency for purposes of the administration of title II of the Clean Air Act ( 42 U.S.C. 7521 et seq.).
   - **(3)** For purposes of this subsection, the term “new qualified fuel cell motor vehicle” means a motor vehicle—
     - **(A)** which is propelled by power derived from 1 or more cells which convert chemical energy directly into electricity by combining oxygen with hydrogen fuel which is stored on board the vehicle in any form and may or may not require reformation prior to use,
@@ -172,3 +209,100 @@ generated_at: "2026-03-30T02:55:27.589Z"
   - **(2)** in the case of a new advanced lean burn technology motor vehicle (as described in subsection (c)) or a new qualified hybrid motor vehicle (as described in subsection (d)(2)(A)), December 31, 2010 ,
   - **(3)** in the case of a new qualified hybrid motor vehicle (as described in subsection (d)(2)(B)), December 31, 2009 , and
   - **(4)** in the case of a new qualified alternative fuel vehicle (as described in subsection (e)), December 31, 2010 .
+
+| In the case of a vehicle which achieves a fuel economy (expressed as a percentage of the 2002 model year city fuel economy) of— | The credit amount is— |
+| --- | --- |
+| At least 125 percent but less than 150 percent | $400 |
+| At least 150 percent but less than 175 percent | $800 |
+| At least 175 percent but less than 200 percent | $1,200 |
+| At least 200 percent but less than 225 percent | $1,600 |
+| At least 225 percent but less than 250 percent | $2,000 |
+| At least 250 percent | $2,400. |
+
+| In the case of a vehicle which achieves a lifetime fuel savings (expressed in gallons of gasoline) of— | The conservation credit amount is— |
+| --- | --- |
+| At least 1,200 but less than 1,800 | $250 |
+| At least 1,800 but less than 2,400 | $500 |
+| At least 2,400 but less than 3,000 | $750 |
+| At least 3,000 | $1,000. |
+
+
+1,500 or 1,750 lbs
+
+2,000 lbs
+
+2,250 lbs
+
+2,500 lbs
+
+2,750 lbs
+
+3,000 lbs
+
+3,500 lbs
+
+4,000 lbs
+
+4,500 lbs
+
+5,000 lbs
+
+5,500 lbs
+
+6,000 lbs
+
+6,500 lbs
+
+7,000 to 8,500 lbs
+
+1,500 or 1,750 lbs
+
+2,000 lbs
+
+2,250 lbs
+
+2,500 lbs
+
+2,750 lbs
+
+3,000 lbs
+
+3,500 lbs
+
+4,000 lbs
+
+4,500 lbs
+
+5,000 lbs
+
+5,500 lbs
+
+6,000 lbs
+
+6,500 lbs
+
+7,000 to 8,500 lbs
+
+At least 125 percent but less than 150 percent
+
+At least 150 percent but less than 175 percent
+
+At least 175 percent but less than 200 percent
+
+At least 200 percent but less than 225 percent
+
+At least 225 percent but less than 250 percent
+
+At least 250 percent
+
+At least 1,200 but less than 1,800
+
+At least 1,800 but less than 2,400
+
+At least 2,400 but less than 3,000
+
+At least 3,000
+
+## Source Credit
+
+*(Added [Pub. L. 109–58, title XIII, § 1341(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 1038](https://www.govinfo.gov/link/statute/119/1038); amended [Pub. L. 109–135, title IV](https://www.govinfo.gov/link/plaw/109/public/135), §§ 402(j), 412(d), Dec. 21, 2005, [119 Stat. 2615](https://www.govinfo.gov/link/statute/119/2615), 2636; [Pub. L. 110–343, div. B, title II, § 205(b)](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3838](https://www.govinfo.gov/link/statute/122/3838); [Pub. L. 111–5, div. B, title I](https://www.govinfo.gov/link/plaw/111/public/5), §§ 1141(b)(1), 1142(b)(2), 1143(a)–(c), 1144(a), Feb. 17, 2009, [123 Stat. 328](https://www.govinfo.gov/link/statute/123/328), 330–332; [Pub. L. 111–148, title X, § 10909(b)(2)(G)](https://www.govinfo.gov/link/plaw/111/public/148), (c), Mar. 23, 2010, [124 Stat. 1023](https://www.govinfo.gov/link/statute/124/1023); [Pub. L. 111–312, title I, § 101(b)(1)](https://www.govinfo.gov/link/plaw/111/public/312), Dec. 17, 2010, [124 Stat. 3298](https://www.govinfo.gov/link/statute/124/3298); [Pub. L. 112–240, title I, § 104(c)(2)(H)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2322](https://www.govinfo.gov/link/statute/126/2322); [Pub. L. 113–295, div. A, title II](https://www.govinfo.gov/link/plaw/113/public/295), §§ 218(a), 220(a), Dec. 19, 2014, [128 Stat. 4035](https://www.govinfo.gov/link/statute/128/4035); [Pub. L. 114–113, div. Q, title I, § 193(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3075](https://www.govinfo.gov/link/statute/129/3075); [Pub. L. 115–123, div. D, title I, § 40403(a)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 148](https://www.govinfo.gov/link/statute/132/148); [Pub. L. 116–94, div. Q, title I, § 124(a)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3231](https://www.govinfo.gov/link/statute/133/3231); [Pub. L. 116–260, div. EE, title I, § 142(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3054](https://www.govinfo.gov/link/statute/134/3054); [Pub. L. 117–169, title I, § 13401(i)(2)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 1961](https://www.govinfo.gov/link/statute/136/1961).)*

@@ -3,9 +3,10 @@ title: "Section 286a - Appointments"
 usc_title: 22
 usc_section: "286a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 286a"
-generated_at: "2026-03-30T02:55:05.318Z"
+generated_at: "2026-11-23T20:26:32.001Z"
+status: "active"
 ---
 
 # § 286a. Appointments
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.318Z"
   - **(1)** No person shall be entitled to receive any salary or other compensation from the United States for services as a Governor, executive director, councillor, alternate, or associate.
   - **(2)** The United States executive director of the Fund shall not be compensated by the Fund at a rate in excess of the rate provided for an individual occupying a position at level IV of the Executive Schedule under section 5315 of title 5 . The United States alternate executive director of the Fund shall not be compensated by the Fund at a rate in excess of the rate provided for an individual occupying a position at level V of the Executive Schedule under section 5316 of title 5 .
   - **(3)** The Secretary of the Treasury shall instruct the United States executive director of the Fund to present to the Fund’s Executive Board a comprehensive set of proposals, consistent with maintaining high levels of competence of Fund personnel and consistent with the Articles of Agreement, with the objective of assuring that salaries and other compensation accorded Fund employees do not exceed those received by persons filling similar levels of responsibility within national government service or private industry. The Secretary shall report these proposals together with any measures adopted by the Fund’s Executive Board to the Congress prior to February 1, 1979 .
+
+## Source Credit
+
+*(July 31, 1945, ch. 339, § 3, [59 Stat. 512](https://www.govinfo.gov/link/statute/59/512); [Pub. L. 93–94](https://www.govinfo.gov/link/plaw/93/public/94), Aug. 15, 1973, [87 Stat. 314](https://www.govinfo.gov/link/statute/87/314); [Pub. L. 94–564, § 2](https://www.govinfo.gov/link/plaw/94/public/564), Oct. 19, 1976, [90 Stat. 2660](https://www.govinfo.gov/link/statute/90/2660); [Pub. L. 95–435, § 2](https://www.govinfo.gov/link/plaw/95/public/435), Oct. 10, 1978, [92 Stat. 1051](https://www.govinfo.gov/link/statute/92/1051).)*

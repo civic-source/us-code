@@ -3,9 +3,10 @@ title: "Section 652 - Central European Enterprise Development Commission"
 usc_title: 15
 usc_section: "652"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 652"
-generated_at: "2026-03-30T02:54:08.104Z"
+generated_at: "2026-11-23T20:26:03.829Z"
+status: "active"
 ---
 
 # § 652. Central European Enterprise Development Commission
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:08.104Z"
 - **(g)** The Commission shall not have any authority to appoint staff, but upon request of the Chairperson, the head of any Federal department or agency may detail, on a reimbursable basis, any of the personnel of such department or agency to the Commission to assist in carrying out the Commission’s functions under this section without regard to section 3341 of title 5 . The Administrator of the General Services Administration shall provide, on a reimbursable basis, such administrative support services as the Commission may request.
 - **(h)** The Commission shall report to Congress not later than December 1, 1991 , and annually thereafter, on the progress in carrying out the provisions of this section.
 - **(i)** There are hereby authorized to be appropriated to the Small Business Administration the sum of $3,000,000 for fiscal year 1991, $5,000,000 for fiscal year 1992, $2,000,000 for each of fiscal years 1993 and 1994, and $1,000,000 for fiscal year 1995 to carry out the provisions of this section. Such sums shall be disbursed by the Small Business Administration as requested by the Commission and may remain available until expended. Any authority to enter contracts or other spending authority provided for in this section is subject to amounts provided for in advance in appropriations Acts.
+
+## Source Credit
+
+*([Pub. L. 85–536, § 2[25]](https://www.govinfo.gov/link/plaw/85/public/536), as added [Pub. L. 101–515, title V, § 7](https://www.govinfo.gov/link/plaw/101/public/515), Nov. 5, 1990, [104 Stat. 2142](https://www.govinfo.gov/link/statute/104/2142); amended [Pub. L. 103–81, § 9(b)](https://www.govinfo.gov/link/plaw/103/public/81), Aug. 13, 1993, [107 Stat. 783](https://www.govinfo.gov/link/statute/107/783); [Pub. L. 103–403, title IV, § 405](https://www.govinfo.gov/link/plaw/103/public/403), Oct. 22, 1994, [108 Stat. 4192](https://www.govinfo.gov/link/statute/108/4192).)*

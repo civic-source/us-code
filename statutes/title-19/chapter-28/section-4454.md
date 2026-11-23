@@ -3,9 +3,10 @@ title: "Section 4454 - Trade preferences for Nepal"
 usc_title: 19
 usc_section: "4454"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 4454"
-generated_at: "2026-03-30T02:54:24.709Z"
+generated_at: "2026-11-23T20:26:11.148Z"
+status: "active"
 ---
 
 # § 4454. Trade preferences for Nepal
@@ -26,7 +27,38 @@ generated_at: "2026-03-30T02:54:24.709Z"
         - **(I)** the article is the growth, product, or manufacture of Nepal; and
         - **(II)** in the case of a textile or apparel article, Nepal is the country of origin of the article, as determined under section 102.21 of title 19, Code of Federal Regulations (as in effect on the day before February 24, 2016 );
       - **(ii)** the article is imported directly from Nepal into the customs territory of the United States;
-      - **(iii)** the article is classified under any of the following subheadings of the Harmonized Tariff Schedule of the United States (as in effect on the day before February 24, 2016 ): 4202.11.00 4202.22.60 4202.92.08 4202.12.20 4202.22.70 4202.92.15 4202.12.40 4202.22.80 4202.92.20 4202.12.60 4202.29.50 4202.92.30 4202.12.80 4202.29.90 4202.92.45 4202.21.60 4202.31.60 4202.92.60 4202.21.90 4202.32.40 4202.92.90 4202.22.15 4202.32.80 4202.99.90 4202.22.40 4202.32.95 4203.29.50 4202.22.45 4202.91.00 5701.10.90 5702.91.30 5703.10.80 5702.31.20 5702.91.40 5703.90.00 5702.49.20 5702.92.90 5705.00.20 5702.50.40 5702.99.15 5702.50.59 5703.10.20 6117.10.60 6214.20.00 6217.10.85 6117.80.85 6214.40.00 6301.90.00 6214.10.10 6214.90.00 6308.00.00 6214.10.20 6216.00.80 6504.00.90 6505.00.30 6505.00.90 6505.00.08 6505.00.40 6506.99.30 6505.00.15 6505.00.50 6506.99.60 6505.00.20 6505.00.60 6505.00.25 6505.00.80
+      - **(iii)** the article is classified under any of the following subheadings of the Harmonized Tariff Schedule of the United States (as in effect on the day before February 24, 2016 ):
+
+|  |  |  |
+| --- | --- | --- |
+| 4202.11.00 | 4202.22.60 | 4202.92.08 |
+| 4202.12.20 | 4202.22.70 | 4202.92.15 |
+| 4202.12.40 | 4202.22.80 | 4202.92.20 |
+| 4202.12.60 | 4202.29.50 | 4202.92.30 |
+| 4202.12.80 | 4202.29.90 | 4202.92.45 |
+| 4202.21.60 | 4202.31.60 | 4202.92.60 |
+| 4202.21.90 | 4202.32.40 | 4202.92.90 |
+| 4202.22.15 | 4202.32.80 | 4202.99.90 |
+| 4202.22.40 | 4202.32.95 | 4203.29.50 |
+| 4202.22.45 | 4202.91.00 |  |
+|  |  |  |
+| 5701.10.90 | 5702.91.30 | 5703.10.80 |
+| 5702.31.20 | 5702.91.40 | 5703.90.00 |
+| 5702.49.20 | 5702.92.90 | 5705.00.20 |
+| 5702.50.40 | 5702.99.15 |  |
+| 5702.50.59 | 5703.10.20 |  |
+|  |  |  |
+| 6117.10.60 | 6214.20.00 | 6217.10.85 |
+| 6117.80.85 | 6214.40.00 | 6301.90.00 |
+| 6214.10.10 | 6214.90.00 | 6308.00.00 |
+| 6214.10.20 | 6216.00.80 |  |
+|  |  |  |
+| 6504.00.90 | 6505.00.30 | 6505.00.90 |
+| 6505.00.08 | 6505.00.40 | 6506.99.30 |
+| 6505.00.15 | 6505.00.50 | 6506.99.60 |
+| 6505.00.20 | 6505.00.60 |  |
+| 6505.00.25 | 6505.00.80 |  |
+
       - **(iv)** the President determines, after receiving the advice of the United States International Trade Commission in accordance with section 503(e) of the Trade Act of 1974 ( 19 U.S.C. 2463(e) ), that the article is not import-sensitive in the context of imports from Nepal; and
       - **(v)** subject to subparagraph (C), the sum of the cost or value of the materials produced in, and the direct costs of processing operations performed in, Nepal or the customs territory of the United States is not less than 35 percent of the appraised value of the article at the time it is entered.
     - **(B)** An article shall not be treated as the growth, product, or manufacture of Nepal for purposes of subparagraph (A)(i)(I) by virtue of having merely undergone—
@@ -49,3 +81,91 @@ generated_at: "2026-03-30T02:54:24.709Z"
 - **(e)** Not later than one year after February 24, 2016 , and annually thereafter, the President shall monitor, review, and report to Congress on the implementation of this section, the compliance of Nepal with subsection (b)(1), and the trade and investment policy of the United States with respect to Nepal.
 - **(f)** No preferential treatment extended under this section shall remain in effect after December 31, 2025 .
 - **(g)** The provisions of this section shall take effect on the date that is 30 days after February 24, 2016 .
+
+4202.11.00
+
+4202.22.60
+
+4202.12.20
+
+4202.22.70
+
+4202.12.40
+
+4202.22.80
+
+4202.12.60
+
+4202.29.50
+
+4202.12.80
+
+4202.29.90
+
+4202.21.60
+
+4202.31.60
+
+4202.21.90
+
+4202.32.40
+
+4202.22.15
+
+4202.32.80
+
+4202.22.40
+
+4202.32.95
+
+4202.22.45
+
+5701.10.90
+
+5702.91.30
+
+5702.31.20
+
+5702.91.40
+
+5702.49.20
+
+5702.92.90
+
+5702.50.40
+
+5702.50.59
+
+6117.10.60
+
+6214.20.00
+
+6117.80.85
+
+6214.40.00
+
+6214.10.10
+
+6214.90.00
+
+6214.10.20
+
+6504.00.90
+
+6505.00.30
+
+6505.00.08
+
+6505.00.40
+
+6505.00.15
+
+6505.00.50
+
+6505.00.20
+
+6505.00.25
+
+## Source Credit
+
+*([Pub. L. 114–125, title IX, § 915](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 276](https://www.govinfo.gov/link/statute/130/276).)*

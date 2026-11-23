@@ -3,9 +3,10 @@ title: "Section 14503 - Assistance for proposed low- and middle-income housing p
 usc_title: 40
 usc_section: "14503"
 chapter: 145
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 14503"
-generated_at: "2026-03-30T02:55:43.387Z"
+generated_at: "2026-11-23T20:26:56.690Z"
+status: "active"
 ---
 
 # § 14503. Assistance for proposed low- and middle-income housing projects
@@ -38,3 +39,106 @@ generated_at: "2026-03-30T02:55:43.387Z"
     - **(B)** the rehabilitation of housing shall not be more than 10 percent of the reasonable value of the rehabilitation housing, as determined by the Secretary.
 - **(f)** The Secretary or the Commission may provide, or contract with public or private organizations to provide, information, advice, and technical assistance with respect to the construction, rehabilitation, and operation by nonprofit organizations of housing for low- or moderate- income families in areas of the region the Commission establishes.
 - **(g)** Programs and projects assisted under this section are subject to the provisions cited in section 14701 of this title to the extent provided in the laws authorizing assistance for low- and moderate-income housing.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 14503(a) | 40 App.:207(d). | Pub. L. 89–4, title II, § 207 , as added Pub. L. 90–103, title I, § 112 , Oct. 11, 1967 , 81 Stat. 261 ; Pub. L. 90–448, title II, § 201(f) , Aug. 1, 1968 , 82 Stat. 502 ; Pub. L. 91–123, title I, § 106 , Nov. 25, 1969 , 83 Stat. 215 ; Pub. L. 92–65, title II, § 208 , Aug. 5, 1971 , 85 Stat. 169 ; Pub. L. 94–188, title I, § 113 , Dec. 31, 1975 , 89 Stat. 1082 ; Pub. L. 105–393, title II, § 212 , Nov. 13, 1998 , 112 Stat. 3621 ; Pub. L. 107–149, § 13(e) , Mar. 12, 2002 , 116 Stat. 71 . |
+| 14503(b) | 40 App.:207(a). |  |
+| 14503(c) | 40 App.:207(e) (words after “areas of the region”). |  |
+| 14503(d) | 40 App.:207(b). |  |
+| 14503(e) | 40 App.:207(c). |  |
+| 14503(f) | 40 App.:207(e) (words before “and may provide funds”). |  |
+| 14503(g) | 40 App.:207(f). |  |
+
+
+Appalachian Housing Fund.—
+
+Establishment
+
+Source and use of amounts in fund
+
+Purpose
+
+Providing Amounts to States for Grants and Loans
+
+Loans.—
+
+Limitation on available amounts
+
+Interest
+
+Payment
+
+Grants.—
+
+In general
+
+Site development costs and offsite improvements
+
+Information, Advice, and Technical Assistance
+
+Application of Certain Provisions
+
+Historical and Revision Notes
+
+14503(a)
+
+Pub. L. 89–4, title II, § 207
+
+Pub. L. 90–103, title I, § 112
+
+Oct. 11, 1967
+
+81 Stat. 261
+
+Pub. L. 90–448, title II, § 201(f)
+
+Aug. 1, 1968
+
+82 Stat. 502
+
+Pub. L. 91–123, title I, § 106
+
+Nov. 25, 1969
+
+83 Stat. 215
+
+Pub. L. 92–65, title II, § 208
+
+Aug. 5, 1971
+
+85 Stat. 169
+
+Pub. L. 94–188, title I, § 113
+
+Dec. 31, 1975
+
+89 Stat. 1082
+
+Pub. L. 105–393, title II, § 212
+
+Nov. 13, 1998
+
+112 Stat. 3621
+
+Pub. L. 107–149, § 13(e)
+
+Mar. 12, 2002
+
+116 Stat. 71
+
+14503(b)
+
+14503(c)
+
+14503(d)
+
+14503(e)
+
+14503(f)
+
+14503(g)
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1268](https://www.govinfo.gov/link/statute/116/1268); [Pub. L. 110–371, § 2(c)](https://www.govinfo.gov/link/plaw/110/public/371), Oct. 8, 2008, [122 Stat. 4038](https://www.govinfo.gov/link/statute/122/4038).)*

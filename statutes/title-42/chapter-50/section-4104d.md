@@ -3,9 +3,10 @@ title: "Section 4104d - National Flood Mitigation Fund"
 usc_title: 42
 usc_section: "4104d"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4104d"
-generated_at: "2026-03-30T02:56:11.200Z"
+generated_at: "2026-11-23T20:27:22.361Z"
+status: "active"
 ---
 
 # § 4104d. National Flood Mitigation Fund
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.200Z"
 - **(e)** Any amounts made available pursuant to subparagraph (A), (B), or (C) of subsection (b)(1) that are not used in any fiscal year shall continue to be available for the purposes specified in the subparagraph of subsection (b)(1) pursuant to which such amounts were made available, unless the Administrator determines that reallocation of such unused amounts to meet demonstrated need for other mitigation activities under section 4104c of this title is in the best interest of the National Flood Insurance Fund.
 - **(f)** If the Administrator determines that the amounts in the National Flood Mitigation Fund are in excess of amounts needed under subsection (a), the Administrator may invest any excess amounts the Administrator determines advisable in interest-bearing obligations issued or guaranteed by the United States.
 - **(g)** The Administrator shall submit a report to the Congress not later than the expiration of the 1-year period beginning on September 23, 1994 , and not less than once during each successive 2-year period thereafter. The report shall describe the status of the Fund and any activities carried out with amounts from the Fund.
+
+## Source Credit
+
+*([Pub. L. 90–448, title XIII, § 1367](https://www.govinfo.gov/link/plaw/90/public/448), as added [Pub. L. 103–325, title V, § 554(a)](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2273](https://www.govinfo.gov/link/statute/108/2273); amended [Pub. L. 108–264, title I, § 103(d)](https://www.govinfo.gov/link/plaw/108/public/264), June 30, 2004, [118 Stat. 721](https://www.govinfo.gov/link/statute/118/721); [Pub. L. 112–141, div. F, title II](https://www.govinfo.gov/link/plaw/112/public/141), §§ 100225(e), 100238(b)(1), July 6, 2012, [126 Stat. 941](https://www.govinfo.gov/link/statute/126/941), 958.)*

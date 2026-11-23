@@ -3,9 +3,10 @@ title: "Section 100902 - Rights of way for public utilities and power and commun
 usc_title: 54
 usc_section: "100902"
 chapter: 1009
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "54 U.S.C. § 100902"
-generated_at: "2026-03-30T02:56:28.413Z"
+generated_at: "2026-11-23T20:27:38.000Z"
+status: "active"
 ---
 
 # § 100902. Rights of way for public utilities and power and communication facilities
@@ -37,3 +38,61 @@ generated_at: "2026-03-30T02:56:28.413Z"
   - **(4)** The Secretary may forfeit and annul any part of a right of way under this subsection for—
     - **(A)** nonuse for a period of 2 years; or
     - **(B)** abandonment.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 100902(a) | 16 U.S.C. 79 . | Feb. 15, 1901 , ch.372 (relating to System units), 31 Stat. 790 . |
+| 100902(b) | 16 U.S.C. 5 . | Mar. 4, 1911, ch. 238 (4th and last paragraphs (relating to System units) under heading “ Improvement of the National Forest ” under heading “ Forest Service ”), 36 Stat. 1253 ; May 27, 1952, ch. 338 , 66 Stat. 95 . |
+
+
+Public Utilities.—
+
+In general
+
+Extent of right of way
+
+Approval
+
+Revocation
+
+Right, easement, or interest not conferred
+
+Power and Communication Facilities.—
+
+In general
+
+Extent of right of way
+
+Approval
+
+Forfeiture and annulment
+
+Historical and Revision Notes
+
+100902(a)
+
+16 U.S.C. 79
+
+Feb. 15, 1901
+
+31 Stat. 790
+
+100902(b)
+
+16 U.S.C. 5
+
+Mar. 4, 1911, ch. 238
+
+Improvement of the National Forest
+
+Forest Service
+
+36 Stat. 1253
+
+May 27, 1952, ch. 338
+
+66 Stat. 95
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3113](https://www.govinfo.gov/link/statute/128/3113).)*

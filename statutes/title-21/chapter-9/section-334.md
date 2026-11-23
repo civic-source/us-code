@@ -3,9 +3,10 @@ title: "Section 334 - Seizure"
 usc_title: 21
 usc_section: "334"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 334"
-generated_at: "2026-03-30T02:54:54.218Z"
+generated_at: "2026-11-23T20:26:27.509Z"
+status: "active"
 ---
 
 # § 334. Seizure
@@ -57,3 +58,7 @@ generated_at: "2026-03-30T02:54:54.218Z"
     - **(B)** provide a period of not less than 60 days for comments on the proposed regulation; and
     - **(C)** publish the final regulation not less than 30 days before the regulation’s effective date.
   - **(2)** Notwithstanding any other provision of Federal law, in implementing this section, the Secretary shall only promulgate regulations as described in paragraph (1).
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 304, [52 Stat. 1044](https://www.govinfo.gov/link/statute/52/1044); June 24, 1948, ch. 613, § 2, [62 Stat. 582](https://www.govinfo.gov/link/statute/62/582); Aug. 7, 1953, ch. 350, § 3, [67 Stat. 477](https://www.govinfo.gov/link/statute/67/477); [Pub. L. 85–250](https://www.govinfo.gov/link/plaw/85/public/250), Aug. 31, 1957, [71 Stat. 567](https://www.govinfo.gov/link/statute/71/567); [Pub. L. 89–74, § 6](https://www.govinfo.gov/link/plaw/89/public/74), July 15, 1965, [79 Stat. 232](https://www.govinfo.gov/link/statute/79/232); [Pub. L. 90–639, § 4(b)](https://www.govinfo.gov/link/plaw/90/public/639), Oct. 24, 1968, [82 Stat. 1362](https://www.govinfo.gov/link/statute/82/1362); [Pub. L. 91–513, title II, § 701(c)](https://www.govinfo.gov/link/plaw/91/public/513), (d), Oct. 27, 1970, [84 Stat. 1281](https://www.govinfo.gov/link/statute/84/1281), 1282; [Pub. L. 94–278, title V, § 502(a)(2)(C)](https://www.govinfo.gov/link/plaw/94/public/278), Apr. 22, 1976, [90 Stat. 411](https://www.govinfo.gov/link/statute/90/411); [Pub. L. 94–295](https://www.govinfo.gov/link/plaw/94/public/295), §§ 3(c), 7(a), May 28, 1976, [90 Stat. 576](https://www.govinfo.gov/link/statute/90/576), 582; [Pub. L. 102–300, § 6(c)](https://www.govinfo.gov/link/plaw/102/public/300), June 16, 1992, [106 Stat. 240](https://www.govinfo.gov/link/statute/106/240); [Pub. L. 103–80, § 3(f)](https://www.govinfo.gov/link/plaw/103/public/80), Aug. 13, 1993, [107 Stat. 775](https://www.govinfo.gov/link/statute/107/775); [Pub. L. 105–115, title IV, § 418](https://www.govinfo.gov/link/plaw/105/public/115), Nov. 21, 1997, [111 Stat. 2379](https://www.govinfo.gov/link/statute/111/2379); [Pub. L. 107–188, title III, § 303(a)](https://www.govinfo.gov/link/plaw/107/public/188), June 12, 2002, [116 Stat. 663](https://www.govinfo.gov/link/statute/116/663); [Pub. L. 110–85, title IX, § 912(b)(1)](https://www.govinfo.gov/link/plaw/110/public/85), Sept. 27, 2007, [121 Stat. 952](https://www.govinfo.gov/link/statute/121/952); [Pub. L. 111–31, div. A, title I, § 103(d)](https://www.govinfo.gov/link/plaw/111/public/31), June 22, 2009, [123 Stat. 1836](https://www.govinfo.gov/link/statute/123/1836); [Pub. L. 111–353, title II, § 207(a)](https://www.govinfo.gov/link/plaw/111/public/353), Jan. 4, 2011, [124 Stat. 3944](https://www.govinfo.gov/link/statute/124/3944); [Pub. L. 112–144, title VII, § 709(a)](https://www.govinfo.gov/link/plaw/112/public/144), (b)(2), July 9, 2012, [126 Stat. 1069](https://www.govinfo.gov/link/statute/126/1069); [Pub. L. 117–328, div. FF, title II, § 2513(c)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5805](https://www.govinfo.gov/link/statute/136/5805).)*

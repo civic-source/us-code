@@ -3,9 +3,10 @@ title: "Section 7671b - Monitoring and reporting requirements"
 usc_title: 42
 usc_section: "7671b"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7671b"
-generated_at: "2026-03-30T02:56:11.327Z"
+generated_at: "2026-11-23T20:27:22.965Z"
+status: "active"
 ---
 
 # § 7671b. Monitoring and reporting requirements
@@ -24,3 +25,25 @@ generated_at: "2026-03-30T02:56:11.327Z"
       - **(iii)** delay the date by which the average atmospheric concentration of chlorine is projected under the base case to return to a level of two parts per billion.
 - **(e)** The Administrator shall review, on a periodic basis, the progress being made in the development of alternative systems or products necessary to manufacture and operate appliances without class II substances. If the Administrator finds, after notice and opportunity for public comment, that as a result of technological development problems, the development of such alternative systems or products will not occur within the time necessary to provide for the manufacture of such equipment without such substances prior to the applicable deadlines under section 7671d of this title , the Administrator shall, not later than January 1, 2015 , so inform the Congress.
 - **(f)** If, in consultation with the Administrators of the National Aeronautics and Space Administration and the National Oceanic and Atmospheric Administration, and after notice and opportunity for public comment, the Administrator determines that the global production, consumption, and use of class II substances are projected to contribute to an atmospheric chlorine loading in excess of the base case projections by more than 5 ⁄ 10 ths parts per billion, the Administrator shall so inform the Congress immediately. The determination referred to in the preceding sentence shall be based on the monitoring under subsection (d) and updated not less often than every 3 years.
+
+Economically Justified Actions
+
+Domestic Methane Source Inventory and Control
+
+International Studies.—
+
+Methane emissions
+
+Preventing increases in methane concentrations
+
+Natural Sources
+
+Study of Measures To Limit Growth in Methane Concentrations
+
+Information Gathering
+
+Consultation and Coordination
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title VI, § 603, as added [Pub. L. 101–549, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2653](https://www.govinfo.gov/link/statute/104/2653).)*

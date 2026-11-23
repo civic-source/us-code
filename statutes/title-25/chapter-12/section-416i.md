@@ -3,9 +3,10 @@ title: "Section 416i - Restrictions"
 usc_title: 25
 usc_section: "416i"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 416i"
-generated_at: "2026-03-30T02:54:52.809Z"
+generated_at: "2026-11-23T20:26:25.411Z"
+status: "active"
 ---
 
 # § 416i. Restrictions
@@ -16,3 +17,7 @@ Nothing contained in sections 416 to 416j of this title shall—
 - **(b)** confer jurisdiction on the State of Arizona to adjudicate in probate proceedings or otherwise the ownership or right to possession of trust or restricted property or any interests therein;
 - **(c)** alter or abridge in any way the authority of public school districts to include areas within the San Xavier and Salt River Pima-Maricopa Reservation;
 - **(d)** be construed to repeal any authority to lease or mortgage trust or restricted Indian lands conferred by or pursuant to any other provision of law.
+
+## Source Credit
+
+*([Pub. L. 89–715, § 10](https://www.govinfo.gov/link/plaw/89/public/715), Nov. 2, 1966, [80 Stat. 1113](https://www.govinfo.gov/link/statute/80/1113).)*

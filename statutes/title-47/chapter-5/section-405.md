@@ -3,9 +3,10 @@ title: "Section 405 - Petition for reconsideration; procedure; disposition; time
 usc_title: 47
 usc_section: "405"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 405"
-generated_at: "2026-03-30T02:56:24.516Z"
+generated_at: "2026-11-23T20:27:28.913Z"
+status: "active"
 ---
 
 # § 405. Petition for reconsideration; procedure; disposition; time of filing; additional evidence; time for disposition of petition for reconsideration of order concluding hearing or investigation; appeal of order
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:24.516Z"
 - **(b)**
   - **(1)** Within 90 days after receiving a petition for reconsideration of an order concluding a hearing under section 204(a) of this title or concluding an investigation under section 208(b) of this title , the Commission shall issue an order granting or denying such petition.
   - **(2)** Any order issued under paragraph (1) shall be a final order and may be appealed under section 402(a) of this title .
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title IV, § 405, [48 Stat. 1095](https://www.govinfo.gov/link/statute/48/1095); July 16, 1952, ch. 879, § 15, [66 Stat. 720](https://www.govinfo.gov/link/statute/66/720); [Pub. L. 86–752, § 4(c)](https://www.govinfo.gov/link/plaw/86/public/752), Sept. 13, 1960, [74 Stat. 892](https://www.govinfo.gov/link/statute/74/892); [Pub. L. 87–192, § 3](https://www.govinfo.gov/link/plaw/87/public/192), Aug. 31, 1961, [75 Stat. 421](https://www.govinfo.gov/link/statute/75/421); [Pub. L. 97–259, title I](https://www.govinfo.gov/link/plaw/97/public/259), §§ 122, 127(c), Sept. 13, 1982, [96 Stat. 1097](https://www.govinfo.gov/link/statute/96/1097), 1099; [Pub. L. 100–594, § 8(d)](https://www.govinfo.gov/link/plaw/100/public/594), Nov. 3, 1988, [102 Stat. 3023](https://www.govinfo.gov/link/statute/102/3023).)*

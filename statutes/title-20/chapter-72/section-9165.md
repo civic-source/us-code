@@ -3,9 +3,10 @@ title: "Section 9165 - Laura Bush 21st Century Librarian Program"
 usc_title: 20
 usc_section: "9165"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 9165"
-generated_at: "2026-03-30T02:54:48.225Z"
+generated_at: "2026-11-23T20:26:14.978Z"
+status: "active"
 ---
 
 # § 9165. Laura Bush 21st Century Librarian Program
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:48.225Z"
   - **(5)** enhance doctoral education in order to develop faculty to educate the future generation of library professionals and develop the future generation of library leaders; and
   - **(6)** conduct research, including research to support the successful recruitment and education of the next generation of librarians.
 - **(c)** The Director shall establish procedures for reviewing and evaluating projects supported under this part.
+
+## Source Credit
+
+*([Pub. L. 94–462, title II, § 264](https://www.govinfo.gov/link/plaw/94/public/462), as added [Pub. L. 111–340, title II, § 207](https://www.govinfo.gov/link/plaw/111/public/340), Dec. 22, 2010, [124 Stat. 3602](https://www.govinfo.gov/link/statute/124/3602); amended [Pub. L. 115–410, § 15](https://www.govinfo.gov/link/plaw/115/public/410), Dec. 31, 2018, [132 Stat. 5419](https://www.govinfo.gov/link/statute/132/5419).)*

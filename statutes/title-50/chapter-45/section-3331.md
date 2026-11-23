@@ -3,9 +3,10 @@ title: "Section 3331 - Management of intelligence community personnel"
 usc_title: 50
 usc_section: "3331"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3331"
-generated_at: "2026-03-30T02:56:26.243Z"
+generated_at: "2026-11-23T20:27:30.956Z"
+status: "active"
 ---
 
 # § 3331. Management of intelligence community personnel
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:26.243Z"
   - **(2)** the cost analysis tool used to calculate personnel costs in the intelligence community; and
   - **(3)** the plans of the Director of National Intelligence and the head of each element of the intelligence community to implement a multi-sector workforce as required by subsections (a) and (b).
 - **(d)** Not later than 240 days after May 5, 2017 , the Inspector General of the Intelligence Community shall submit to the congressional intelligence committees a written report on the accuracy of intelligence community data for the numbers and costs associated with the civilian and contractor workforce in each element of the intelligence community.
+
+## Source Credit
+
+*([Pub. L. 115–31, div. N, title III, § 306](https://www.govinfo.gov/link/plaw/115/public/31), May 5, 2017, [131 Stat. 812](https://www.govinfo.gov/link/statute/131/812).)*

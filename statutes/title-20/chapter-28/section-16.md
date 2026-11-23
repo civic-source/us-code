@@ -3,9 +3,10 @@ title: "Section 16 - Educational opportunity centers"
 usc_title: 20
 usc_section: "16"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 16"
-generated_at: "2026-03-30T02:54:48.106Z"
+generated_at: "2026-11-23T20:26:14.369Z"
+status: "active"
 ---
 
 # § 1070a–16. Educational opportunity centers
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:48.106Z"
   - **(1)** require an assurance that not less than two-thirds of the persons participating in the project proposed to be carried out under any application be low-income individuals who are first generation college students;
   - **(2)** require that such participants be persons who are at least nineteen years of age, unless the imposition of such limitation with respect to any person would defeat the purposes of this section or the purposes of section 1070a–12 of this title ; and
   - **(3)** require an assurance that individuals participating in the project proposed in the application do not have access to services from another project funded under this section or under section 1070a–12 of this title .
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 402F](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 102–325, title IV, § 402(a)(4)](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 490](https://www.govinfo.gov/link/statute/106/490); amended [Pub. L. 110–315, title IV, § 403(f)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3203](https://www.govinfo.gov/link/statute/122/3203).)*

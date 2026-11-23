@@ -3,9 +3,10 @@ title: "Section 4 - Training programs"
 usc_title: 42
 usc_section: "4"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4"
-generated_at: "2026-03-30T02:56:11.144Z"
+generated_at: "2026-11-23T20:27:22.036Z"
+status: "active"
 ---
 
 # § 2000ff–4. Training programs
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:56:11.144Z"
     - **(E)** the employer, labor organization, or joint labor-management committee, excluding any licensed health care professional or board certified genetic counselor that is involved in the genetic monitoring program, receives the results of the monitoring only in aggregate terms that do not disclose the identity of specific individuals; or
   - **(6)** where the employer conducts DNA analysis for law enforcement purposes as a forensic laboratory or for purposes of human remains identification, and requests or requires genetic information of such employer’s apprentices or trainees, but only to the extent that such genetic information is used for analysis of DNA identification markers for quality control to detect sample contamination.
 - **(c)** In the case of information to which any of paragraphs (1) through (6) of subsection (b) applies, such information may not be used in violation of paragraph (1), (2), or (3) of subsection (a) or treated or disclosed in a manner that violates section 2000ff–5 of this title .
+
+## Source Credit
+
+*([Pub. L. 110–233, title II, § 205](https://www.govinfo.gov/link/plaw/110/public/233), May 21, 2008, [122 Stat. 911](https://www.govinfo.gov/link/statute/122/911).)*

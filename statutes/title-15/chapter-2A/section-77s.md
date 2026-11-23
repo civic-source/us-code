@@ -3,9 +3,10 @@ title: "Section 77s - Special powers of Commission"
 usc_title: 15
 usc_section: "77s"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 77s"
-generated_at: "2026-03-30T02:54:08.034Z"
+generated_at: "2026-11-23T20:26:03.445Z"
+status: "active"
 ---
 
 # § 77s. Special powers of Commission
@@ -56,3 +57,47 @@ generated_at: "2026-03-30T02:54:08.034Z"
       - **(i)** provide the Commission or any national securities association direct or indirect oversight of the budget or technical agenda of the GASB; or
       - **(ii)** affect the setting of generally accepted accounting principles by the GASB.
     - **(C)** Nothing in this subsection shall be construed to impair or limit the authority of a State or local government to establish accounting and financial reporting standards.
+
+Definitions
+
+Commission
+
+Investment company
+
+Market value adjustment
+
+Purchaser
+
+Registered index-linked annuity
+
+Security
+
+Rules.—
+
+In general
+
+Design of form
+
+Treatment if Rules Not Prepared and Finalized in a Timely Manner.—
+
+In general
+
+Preparation
+
+Termination
+
+Rules of Construction
+
+Study
+
+Consultation
+
+Report
+
+Rulemaking
+
+Rule of Construction
+
+## Source Credit
+
+*(May 27, 1933, ch. 38, title I, § 19, [48 Stat. 85](https://www.govinfo.gov/link/statute/48/85); June 6, 1934, ch. 404, title II, § 209, [48 Stat. 908](https://www.govinfo.gov/link/statute/48/908); [Pub. L. 94–210, title III, § 308(a)(2)](https://www.govinfo.gov/link/plaw/94/public/210), Feb. 5, 1976, [90 Stat. 57](https://www.govinfo.gov/link/statute/90/57); [Pub. L. 96–477, title V, § 505](https://www.govinfo.gov/link/plaw/96/public/477), Oct. 21, 1980, [94 Stat. 2292](https://www.govinfo.gov/link/statute/94/2292); [Pub. L. 100–181, title II, § 207](https://www.govinfo.gov/link/plaw/100/public/181), Dec. 4, 1987, [101 Stat. 1252](https://www.govinfo.gov/link/statute/101/1252); [Pub. L. 107–204, title I, § 108(a)](https://www.govinfo.gov/link/plaw/107/public/204), July 30, 2002, [116 Stat. 768](https://www.govinfo.gov/link/statute/116/768); [Pub. L. 111–203, title IX](https://www.govinfo.gov/link/plaw/111/public/203), §§ 912, 978(a), 985(a)(3), July 21, 2010, [124 Stat. 1824](https://www.govinfo.gov/link/statute/124/1824), 1924, 1933.)*

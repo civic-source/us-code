@@ -3,9 +3,10 @@ title: "Section 12463 - Saving money and reducing tragedies through prevention (
 usc_title: 34
 usc_section: "12463"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12463"
-generated_at: "2026-03-30T02:55:33.288Z"
+generated_at: "2026-11-23T20:26:50.549Z"
+status: "active"
 ---
 
 # § 12463. Saving money and reducing tragedies through prevention (SMART Prevention)
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:55:33.288Z"
     - **(C)** include a focus on the unmet needs of underserved populations.
 - **(e)** In this section, the definitions and grant conditions provided for in section 12291 of this title shall apply.
 - **(f)** There is authorized to be appropriated to carry out this section, $20,000,000 for each of fiscal years 2023 through 2027. Amounts appropriated under this section may only be used for programs and activities described under this section.
+
+## Source Credit
+
+*([Pub. L. 103–322, title IV, § 41303](https://www.govinfo.gov/link/plaw/103/public/322), as added [Pub. L. 109–162, title IV, § 401](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3018](https://www.govinfo.gov/link/statute/119/3018); amended [Pub. L. 113–4, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 92](https://www.govinfo.gov/link/statute/127/92); [Pub. L. 117–103, div. W, title IV, § 402](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 869](https://www.govinfo.gov/link/statute/136/869).)*

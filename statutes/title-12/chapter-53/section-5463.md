@@ -3,9 +3,10 @@ title: "Section 5463 - Designation of systemic importance"
 usc_title: 12
 usc_section: "5463"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5463"
-generated_at: "2026-03-30T02:53:53.539Z"
+generated_at: "2026-11-23T20:25:59.503Z"
+status: "active"
 ---
 
 # § 5463. Designation of systemic importance
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:53:53.539Z"
   - **(1)** Within 60 days of any hearing under subsection (c)(2), the Council shall notify the financial market utility or financial institutions of the final determination of the Council in writing, which shall include findings of fact upon which the determination of the Council is based.
   - **(2)** If the Council does not receive a timely request for a hearing under subsection (c)(2), the Council shall notify the financial market utility or financial institutions of the final determination of the Council in writing not later than 30 days after the expiration of the date by which a financial market utility or a financial institution could have requested a hearing. All notices to financial institutions under this subsection shall be published in the Federal Register.
 - **(e)** The Council may extend the time periods established in subsections (c) and (d) as the Council determines to be necessary or appropriate.
+
+## Source Credit
+
+*([Pub. L. 111–203, title VIII, § 804](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1807](https://www.govinfo.gov/link/statute/124/1807).)*

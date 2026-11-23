@@ -3,9 +3,10 @@ title: "Section 5508 - Environmental Education Advisory Council and Task Force"
 usc_title: 20
 usc_section: "5508"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 5508"
-generated_at: "2026-03-30T02:54:48.188Z"
+generated_at: "2026-11-23T20:26:14.790Z"
+status: "active"
 ---
 
 # § 5508. Environmental Education Advisory Council and Task Force
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:54:48.188Z"
     - **(D)** identify personnel skills, education, and training needed to respond to current and anticipated environmental problems and make recommendations for actions to assure sufficient educational and training opportunities in these professions; and
     - **(E)** describe and assess the extent and quality of environmental education programs available to senior Americans and make recommendations thereon; describe the various Federal agency programs to further senior environmental education; and evaluate and make recommendations as to how such educational apparatuses could best be coordinated with nonprofit senior organizations across the Nation, and environmental education institutions and organizations now in existence.
   - **(2)** The Federal Task Force on Environmental Education shall review and comment on a draft of the report to Congress.
+
+## Source Credit
+
+*([Pub. L. 101–619, § 9](https://www.govinfo.gov/link/plaw/101/public/619), Nov. 16, 1990, [104 Stat. 3333](https://www.govinfo.gov/link/statute/104/3333); [Pub. L. 117–286, § 4(a)(150)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4322](https://www.govinfo.gov/link/statute/136/4322).)*

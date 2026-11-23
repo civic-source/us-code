@@ -3,9 +3,10 @@ title: "Section 6412 - Coral reef prize competitions"
 usc_title: 16
 usc_section: "6412"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6412"
-generated_at: "2026-03-30T02:54:23.058Z"
+generated_at: "2026-11-23T20:26:20.795Z"
+status: "active"
 ---
 
 # § 6412. Coral reef prize competitions
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:23.058Z"
   - **(3)** the development of adaptation options to alleviate economic harm and job loss caused by damage to coral reef ecosystems;
   - **(4)** the development of measures to help vulnerable communities or industries, with an emphasis on rural communities and businesses; and
   - **(5)** the development of adaptation and management options for impacted tourism industries.
+
+## Source Credit
+
+*([Pub. L. 106–562, title II, § 213](https://www.govinfo.gov/link/plaw/106/public/562), as added [Pub. L. 117–263, div. J, title C, § 10001(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3946](https://www.govinfo.gov/link/statute/136/3946).)*

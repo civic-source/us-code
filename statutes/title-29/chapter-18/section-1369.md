@@ -3,9 +3,10 @@ title: "Section 1369 - Treatment of transactions to evade liability; effect of c
 usc_title: 29
 usc_section: "1369"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1369"
-generated_at: "2026-03-30T02:55:18.734Z"
+generated_at: "2026-11-23T20:26:38.029Z"
+status: "active"
 ---
 
 # § 1369. Treatment of transactions to evade liability; effect of corporate reorganization
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:18.734Z"
   - **(1)** If a person ceases to exist by reason of a reorganization which involves a mere change in identity, form, or place of organization, however effected, a successor corporation resulting from such reorganization shall be treated as the person to whom this subtitle applies.
   - **(2)** If a person ceases to exist by reason of liquidation into a parent corporation, the parent corporation shall be treated as the person to whom this subtitle applies.
   - **(3)** If a person ceases to exist by reason of a merger, consolidation, or division, the successor corporation or corporations shall be treated as the person to whom this subtitle applies.
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4069](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 99–272, title XI, § 11013(a)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 260](https://www.govinfo.gov/link/statute/100/260).)*

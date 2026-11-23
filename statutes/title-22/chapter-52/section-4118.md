@@ -3,9 +3,10 @@ title: "Section 4118 - Administrative provisions"
 usc_title: 22
 usc_section: "4118"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4118"
-generated_at: "2026-03-30T02:55:05.407Z"
+generated_at: "2026-11-23T20:26:32.521Z"
+status: "active"
 ---
 
 # § 4118. Administrative provisions
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:05.407Z"
   - **(2)** Any activities performed by any employee relating to the internal business of the labor organization, including the solicitation of membership, elections of labor organization officials, and collection of dues, shall be performed during the time the employee is in a nonduty status.
   - **(3)** Except as provided in paragraph (1), the Board shall determine whether any employee participating for, or on behalf of, a labor organization in any phase of proceedings before the Board shall be authorized official time for such purpose during the time the employee would otherwise be in a duty status.
   - **(4)** Except as provided in paragraphs (1), (2), and (3), any employee representing an exclusive representative, or engaged in any other matter covered by this subchapter, shall be granted official time in any amount the Department and the exclusive representative agree to be reasonable, necessary, and in the public interest.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 1018](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2141](https://www.govinfo.gov/link/statute/94/2141).)*

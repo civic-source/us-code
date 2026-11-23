@@ -3,9 +3,10 @@ title: "Section 3341 - Security clearances"
 usc_title: 50
 usc_section: "3341"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3341"
-generated_at: "2026-03-30T02:56:26.245Z"
+generated_at: "2026-11-23T20:27:30.967Z"
+status: "active"
 ---
 
 # § 3341. Security clearances
@@ -122,3 +123,27 @@ generated_at: "2026-03-30T02:56:26.245Z"
   - **(7)** Nothing in this section shall be construed to permit, authorize, or require a private cause of action to challenge the merits of a security clearance determination.
   - **(8)** Except as otherwise provided in this subsection, the President shall provide for the enforcement of this section consistent, to the fullest extent possible, with the policies and procedures used to adjudicate alleged violations of section 2302(b)(8) of title 5 .
   - **(9)** In this subsection, the term “employee” includes an employee of a contractor, subcontractor, grantee, subgrantee, or personal services contractor, of an agency. With respect to such employees, the term “employing agency” shall be deemed to be the contracting agency.
+
+Access determination
+
+Policy Required
+
+Requirements
+
+Updated Policies.—
+
+Modifications
+
+Recommendations
+
+Annual Reports
+
+Appropriate Congressional Committees Defined
+
+Strategy
+
+Congressional Notification
+
+## Source Credit
+
+*([Pub. L. 108–458, title III, § 3001](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3705](https://www.govinfo.gov/link/statute/118/3705); [Pub. L. 113–126, title VI, § 602(a)(1)](https://www.govinfo.gov/link/plaw/113/public/126), (b), (c), July 7, 2014, [128 Stat. 1416](https://www.govinfo.gov/link/statute/128/1416), 1417, 1419; [Pub. L. 113–293, title III, § 310](https://www.govinfo.gov/link/plaw/113/public/293), Dec. 19, 2014, [128 Stat. 3999](https://www.govinfo.gov/link/statute/128/3999); [Pub. L. 115–118, title I, § 110(c)](https://www.govinfo.gov/link/plaw/115/public/118), Jan. 19, 2018, [132 Stat. 17](https://www.govinfo.gov/link/statute/132/17); [Pub. L. 117–103, div. X, title V, § 501(b)](https://www.govinfo.gov/link/plaw/117/public/103) –(d)(1), (e)(2), (h)–(k), Mar. 15, 2022, [136 Stat. 981–985](https://www.govinfo.gov/link/statute/136/981); [Pub. L. 117–286, § 4(b)(101)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4353](https://www.govinfo.gov/link/statute/136/4353); [Pub. L. 118–31, div. G, title VII](https://www.govinfo.gov/link/plaw/118/public/31), §§ 7702(a)(3), 7703(c), title IX, § 7901(e), Dec. 22, 2023, [137 Stat. 1101](https://www.govinfo.gov/link/statute/137/1101), 1102, 1107.)*

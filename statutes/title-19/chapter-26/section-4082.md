@@ -3,9 +3,10 @@ title: "Section 4082 - Determination and provision of relief"
 usc_title: 19
 usc_section: "4082"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 4082"
-generated_at: "2026-03-30T02:54:24.701Z"
+generated_at: "2026-11-23T20:26:11.118Z"
+status: "active"
 ---
 
 # § 4082. Determination and provision of relief
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:24.701Z"
   - **(2)** The relief that the President is authorized to provide under this subsection with respect to imports of an article is an increase in the rate of duty imposed on the article to a level that does not exceed the lesser of—
     - **(A)** the column 1 general rate of duty imposed under the HTS on like articles at the time the import relief is provided; or
     - **(B)** the column 1 general rate of duty imposed under the HTS on like articles on the day before the date on which the Agreement enters into force.
+
+## Source Credit
+
+*([Pub. L. 109–53, title III, § 322](https://www.govinfo.gov/link/plaw/109/public/53), Aug. 2, 2005, [119 Stat. 493](https://www.govinfo.gov/link/statute/119/493).)*

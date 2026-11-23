@@ -3,9 +3,10 @@ title: "Section 16539 - National Laboratory Jobs ACCESS Program"
 usc_title: 42
 usc_section: "16539"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16539"
-generated_at: "2026-03-30T02:56:11.491Z"
+generated_at: "2026-11-23T20:27:23.702Z"
+status: "active"
 ---
 
 # § 16539. National Laboratory Jobs ACCESS Program
@@ -87,3 +88,7 @@ generated_at: "2026-03-30T02:56:11.491Z"
       - **(i)** proactively addresses workforce needs using a dual customer approach, which considers the needs of both employees and employers; and
       - **(ii)** has partnered with a sponsor of a pre-apprenticeship program or apprenticeship program or is a sponsor of a pre-apprenticeship program or apprenticeship program; and
     - **(B)** may include a community organization, an employer organization, a community college, a temporary staffing agency, a State workforce development board, a local workforce development board, or a labor or labor-management organization.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. C, title XXXI, § 3122](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1953](https://www.govinfo.gov/link/statute/133/1953).)*

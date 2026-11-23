@@ -3,9 +3,10 @@ title: "Section 3532 - Establishment of Department"
 usc_title: 42
 usc_section: "3532"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3532"
-generated_at: "2026-03-30T02:56:11.188Z"
+generated_at: "2026-11-23T20:27:22.288Z"
+status: "active"
 ---
 
 # § 3532. Establishment of Department
@@ -17,3 +18,17 @@ generated_at: "2026-03-30T02:56:11.188Z"
   - **(1)** promote the coordination of all programs under the jurisdiction of the Secretary that are carried on within an enterprise zone designated pursuant to section 11501 of this title ;
   - **(2)** expedite, to the greatest extent possible, the consideration of applications for programs referred to in paragraph (1) through the consolidation of forms or otherwise; and
   - **(3)** provide, whenever possible, for the consolidation of periodic reports required under programs referred to in paragraph (1) into one summary report submitted at such intervals as may be designated by the Secretary.
+
+Section
+
+Section
+
+Section
+
+Section
+
+Lyndon B. Johnson.
+
+## Source Credit
+
+*([Pub. L. 89–174, § 3](https://www.govinfo.gov/link/plaw/89/public/174), Sept. 9, 1965, [79 Stat. 667](https://www.govinfo.gov/link/statute/79/667); [Pub. L. 90–83, § 10(b)](https://www.govinfo.gov/link/plaw/90/public/83), Sept. 11, 1967, [81 Stat. 223](https://www.govinfo.gov/link/statute/81/223); [Pub. L. 100–242, title VII, § 705](https://www.govinfo.gov/link/plaw/100/public/242), Feb. 5, 1988, [101 Stat. 1963](https://www.govinfo.gov/link/statute/101/1963).)*

@@ -3,9 +3,10 @@ title: "Section 7842 - Optional consolidated State plans or applications"
 usc_title: 20
 usc_section: "7842"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 7842"
-generated_at: "2026-03-30T02:54:48.219Z"
+generated_at: "2026-11-23T20:26:14.944Z"
+status: "active"
 ---
 
 # § 7842. Optional consolidated State plans or applications
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:48.219Z"
   - **(1)** In establishing criteria and procedures under this section, the Secretary shall collaborate with State educational agencies and, as appropriate, with other State agencies, local educational agencies, public and private agencies, organizations, and institutions, private schools, and representatives of parents, students, and teachers.
   - **(2)** Through the collaborative process described in paragraph (1), the Secretary shall establish, for each program under this chapter to which this section applies, the descriptions, information, assurances, and other material required to be included in a consolidated State plan or consolidated State application.
   - **(3)** The Secretary shall require only descriptions, information, assurances (including assurances of compliance with applicable provisions regarding participation by private school children and teachers), and other materials that are absolutely necessary for the consideration of the consolidated State plan or consolidated State application.
+
+## Source Credit
+
+*([Pub. L. 89–10, title VIII, § 8302](https://www.govinfo.gov/link/plaw/89/public/10), formerly title IX, § 9302, as added [Pub. L. 107–110, title IX, § 901](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1968](https://www.govinfo.gov/link/statute/115/1968); renumbered title VIII, § 8302, and amended [Pub. L. 114–95, title VIII](https://www.govinfo.gov/link/plaw/114/public/95), §§ 8001(a)(3), 8009, Dec. 10, 2015, [129 Stat. 2088](https://www.govinfo.gov/link/statute/129/2088), 2089, 2102.)*

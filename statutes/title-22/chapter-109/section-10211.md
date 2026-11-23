@@ -3,9 +3,10 @@ title: "Section 10211 - Statement of policy"
 usc_title: 22
 usc_section: "10211"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 10211"
-generated_at: "2026-03-30T02:55:05.475Z"
+generated_at: "2026-11-23T20:26:32.813Z"
+status: "active"
 ---
 
 # § 10211. Statement of policy
@@ -20,3 +21,7 @@ It is the policy of the United States to—
   - **(6)** continue to provide humanitarian assistance to populations impacted by violence perpetrated by the Burmese military wherever they may reside, and coordinate efforts among like-minded governments and other international donors to maximize the effectiveness of assistance and support for the people of Burma;
   - **(7)** secure the unconditional release of all unlawfully detained individuals in Burma, including those detained for the exercise of their fundamental freedoms; and
   - **(8)** provide humanitarian assistance to the people of Burma in Burma, Bangladesh, Thailand, and the surrounding region without going through the Burmese military.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. E, title LV, § 5569](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3362](https://www.govinfo.gov/link/statute/136/3362).)*

@@ -3,9 +3,10 @@ title: "Section 4 - Coordination of required reviews"
 usc_title: 42
 usc_section: "4"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4"
-generated_at: "2026-03-30T02:56:11.205Z"
+generated_at: "2026-11-23T20:27:22.388Z"
+status: "active"
 ---
 
 # § 4370m–4. Coordination of required reviews
@@ -56,3 +57,7 @@ generated_at: "2026-03-30T02:56:11.205Z"
     - **(B)** communicate any issues described in subparagraph (A) to the project sponsor.
 - **(f)** When an environmental impact statement is prepared, Federal agencies must, to the maximum extent practicable, issue a record of decision not later than 90 days after the date on which the final environmental impact statement is issued.
 - **(g)** The authorities granted under this section may be exercised for an individual covered project or a category of covered projects.
+
+## Source Credit
+
+*([Pub. L. 114–94, div. D, title XLI, § 41005](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1755](https://www.govinfo.gov/link/statute/129/1755); [Pub. L. 117–58, div. G, title VIII, § 70801(d)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1291](https://www.govinfo.gov/link/statute/135/1291).)*

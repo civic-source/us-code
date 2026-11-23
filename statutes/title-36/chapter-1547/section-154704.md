@@ -3,12 +3,39 @@ title: "Section 154704 - Membership"
 usc_title: 36
 usc_section: "154704"
 chapter: 1547
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 154704"
-generated_at: "2026-03-30T02:55:44.707Z"
+generated_at: "2026-11-23T20:26:59.032Z"
+status: "active"
 ---
 
 # § 154704. Membership
 
 - **(a)** Except as provided in this chapter, eligibility for membership in the corporation and the rights and privileges of members are as provided in the constitution and bylaws of the corporation.
 - **(b)** The terms of membership may not discriminate on the basis of race, color, religion, sex, disability, age, or national origin.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 154704(a) | 36:4005. | Apr. 6, 1988 , Pub. L. 100–281 , §§ 5, 8 (related to membership), 102 Stat. 73 , 74. |
+| 154704(b) | 36:4008 (related to membership). |  |
+
+
+Eligibility
+
+Nondiscrimination
+
+Historical and Revision Notes
+
+154704(a)
+
+Apr. 6, 1988
+
+Pub. L. 100–281
+
+102 Stat. 73
+
+154704(b)
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1438](https://www.govinfo.gov/link/statute/112/1438).)*

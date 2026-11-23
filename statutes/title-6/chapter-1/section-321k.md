@@ -3,12 +3,17 @@ title: "Section 321k - Model standards and guidelines for critical infrastructur
 usc_title: 6
 usc_section: "321k"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 321k"
-generated_at: "2026-03-30T02:53:09.458Z"
+generated_at: "2026-11-23T20:25:34.701Z"
+status: "active"
 ---
 
 # § 321k. Model standards and guidelines for critical infrastructure workers
 
 - **(a)** Not later than 12 months after August 3, 2007 , and in coordination with appropriate national professional organizations, Federal, State, local, and tribal government agencies, and private-sector and nongovernmental entities, the Administrator shall establish model standards and guidelines for credentialing critical infrastructure workers that may be used by a State to credential critical infrastructure workers that may respond to a natural disaster, act of terrorism, or other man-made disaster.
 - **(b)** The Administrator shall provide the standards developed under subsection (a), including detailed written guidance, to State, local, and tribal governments, and provide expertise and technical assistance to aid such governments with credentialing critical infrastructure workers that may respond to a natural disaster, act of terrorism, or other manmade disaster.
+
+## Source Credit
+
+*([Pub. L. 107–296, title V, § 522](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 110–53, title IV, § 409(a)](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 305](https://www.govinfo.gov/link/statute/121/305).)*

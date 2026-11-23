@@ -3,9 +3,10 @@ title: "Section 9203 - Comprehensive program management plan"
 usc_title: 42
 usc_section: "9203"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9203"
-generated_at: "2026-03-30T02:56:11.351Z"
+generated_at: "2026-11-23T20:27:23.079Z"
+status: "active"
 ---
 
 # § 9203. Comprehensive program management plan
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.351Z"
   - **(4)** any significant economic, environmental, and societal effects which the program may have;
   - **(5)** the total estimated cost of individual program items; and
   - **(6)** the estimated relative financial contributions of the Federal Government and non-Federal participants in the program.
+
+## Source Credit
+
+*([Pub. L. 96–345, § 4](https://www.govinfo.gov/link/plaw/96/public/345), Sept. 8, 1980, [94 Stat. 1141](https://www.govinfo.gov/link/statute/94/1141).)*

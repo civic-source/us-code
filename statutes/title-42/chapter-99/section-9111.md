@@ -3,9 +3,10 @@ title: "Section 9111 - License for ownership, construction, and operation of oce
 usc_title: 42
 usc_section: "9111"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9111"
-generated_at: "2026-03-30T02:56:11.349Z"
+generated_at: "2026-11-23T20:27:23.071Z"
+status: "active"
 ---
 
 # § 9111. License for ownership, construction, and operation of ocean thermal energy conversion facilities or plantships
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:11.349Z"
 - **(e)** Upon application, a license issued under this chapter may be transferred if the Administrator determines that such transfer is in the public interest and that the transferee meets the requirements of this chapter and the prerequisites to issuance under subsection (c) of this section.
 - **(f)** Any United States citizen who otherwise qualifies under the terms of this chapter shall be eligible to be issued a license for the ownership, construction, and operation of an ocean thermal energy conversion facility or plantship.
 - **(g)** Licenses issued under this chapter shall be for a term of not to exceed 25 years. Each licensee shall have a preferential right to renew his license subject to the requirements of subsection (c) of this section, upon such conditions and for such term, not to exceed an additional 10 years upon each renewal, as the Administrator determines to be reasonable and appropriate.
+
+## Source Credit
+
+*([Pub. L. 96–320, title I, § 101](https://www.govinfo.gov/link/plaw/96/public/320), Aug. 3, 1980, [94 Stat. 976](https://www.govinfo.gov/link/statute/94/976); [Pub. L. 98–623, title VI, § 602(a)(3)](https://www.govinfo.gov/link/plaw/98/public/623) –(5), (b), (e)(8)–(11), Nov. 8, 1984, [98 Stat. 3410–3412](https://www.govinfo.gov/link/statute/98/3410).)*

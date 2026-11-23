@@ -3,9 +3,10 @@ title: "Section 3486 - Administrative subpoenas"
 usc_title: 18
 usc_section: "3486"
 chapter: 223
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 3486"
-generated_at: "2026-03-30T02:54:16.517Z"
+generated_at: "2026-11-23T20:26:08.721Z"
+status: "active"
 ---
 
 # § 3486. Administrative subpoenas
@@ -49,3 +50,17 @@ generated_at: "2026-03-30T02:54:16.517Z"
   - **(1)** Health information about an individual that is disclosed under this section may not be used in, or disclosed to any person for use in, any administrative, civil, or criminal action or investigation directed against the individual who is the subject of the information unless the action or investigation arises out of and is directly related to receipt of health care or payment for health care or action involving a fraudulent claim related to health; or if authorized by an appropriate order of a court of competent jurisdiction, granted after application showing good cause therefor.
   - **(2)** In assessing good cause, the court shall weigh the public interest and the need for disclosure against the injury to the patient, to the physician-patient relationship, and to the treatment services.
   - **(3)** Upon the granting of such order, the court, in determining the extent to which any disclosure of all or any part of any record is necessary, shall impose appropriate safeguards against unauthorized disclosure.
+
+Authorization
+
+Service
+
+Enforcement
+
+Immunity From Civil Liability
+
+Limitation on Use
+
+## Source Credit
+
+*(Added [Pub. L. 104–191, title II, § 248(a)](https://www.govinfo.gov/link/plaw/104/public/191), Aug. 21, 1996, [110 Stat. 2018](https://www.govinfo.gov/link/statute/110/2018); amended [Pub. L. 105–277, div. A, § 101(b) [title I, § 122]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–50](https://www.govinfo.gov/link/statute/112/2681), 2681–72; [Pub. L. 105–314, title VI, § 606(a)(1)](https://www.govinfo.gov/link/plaw/105/public/314), Oct. 30, 1998, [112 Stat. 2984](https://www.govinfo.gov/link/statute/112/2984); [Pub. L. 106–544, § 5(a)](https://www.govinfo.gov/link/plaw/106/public/544), (b)(1), (c), Dec. 19, 2000, [114 Stat. 2716](https://www.govinfo.gov/link/statute/114/2716), 2718; [Pub. L. 108–21, title V, § 509](https://www.govinfo.gov/link/plaw/108/public/21), Apr. 30, 2003, [117 Stat. 684](https://www.govinfo.gov/link/statute/117/684); [Pub. L. 110–457, title II, § 224(b)](https://www.govinfo.gov/link/plaw/110/public/457), Dec. 23, 2008, [122 Stat. 5072](https://www.govinfo.gov/link/statute/122/5072); [Pub. L. 112–206, § 4(a)](https://www.govinfo.gov/link/plaw/112/public/206), Dec. 7, 2012, [126 Stat. 1492](https://www.govinfo.gov/link/statute/126/1492).)*

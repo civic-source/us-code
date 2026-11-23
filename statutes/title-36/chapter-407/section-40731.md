@@ -3,9 +3,10 @@ title: "Section 40731 - Issuance or loan of firearms and supplies"
 usc_title: 36
 usc_section: "40731"
 chapter: 407
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 40731"
-generated_at: "2026-03-30T02:55:44.696Z"
+generated_at: "2026-11-23T20:26:58.881Z"
+status: "active"
 ---
 
 # § 40731. Issuance or loan of firearms and supplies
@@ -17,3 +18,29 @@ generated_at: "2026-03-30T02:55:44.696Z"
   - **(4)** the Future Farmers of America; and
   - **(5)** other youth oriented organizations.
 - **(b)** The corporation shall ensure adequate oversight and accountability for firearms issued or loaned under this section. The corporation shall prescribe procedures for the security of issued or loaned firearms in accordance with United States, State, and local laws.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 40731(a) | 36:5504(a). | Feb. 10, 1996 , Pub. L. 104–106, title XVI, § 1614(a) , (d), 110 Stat. 517 , 518. |
+| 40731(b) | 36:5504(d). |  |
+
+
+Issuance or Loan
+
+Security of Firearms
+
+Historical and Revision Notes
+
+40731(a)
+
+Feb. 10, 1996
+
+Pub. L. 104–106, title XVI, § 1614(a)
+
+110 Stat. 517
+
+40731(b)
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1340](https://www.govinfo.gov/link/statute/112/1340).)*

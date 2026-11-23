@@ -3,9 +3,10 @@ title: "Section 3720 - Office of Innovation and Entrepreneurship"
 usc_title: 15
 usc_section: "3720"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 3720"
-generated_at: "2026-03-30T02:54:08.194Z"
+generated_at: "2026-11-23T20:26:04.307Z"
+status: "active"
 ---
 
 # § 3720. Office of Innovation and Entrepreneurship
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:08.194Z"
   - **(4)** strengthening collaboration on and coordination of policies relating to innovation and commercialization, including those focused on the needs of small businesses and rural communities, within the Department of Commerce, between the Department of Commerce and other Federal agencies, and between the Department of Commerce and appropriate State government agencies and institutions, as appropriate; and
   - **(5)** any other duties as determined by the Secretary.
 - **(c)** The Secretary shall establish an Advisory Council on Innovation and Entrepreneurship to provide advice to the Secretary on carrying out subsection (b).
+
+## Source Credit
+
+*([Pub. L. 96–480, § 25](https://www.govinfo.gov/link/plaw/96/public/480), as added [Pub. L. 111–358, title VI, § 601](https://www.govinfo.gov/link/plaw/111/public/358), Jan. 4, 2011, [124 Stat. 4026](https://www.govinfo.gov/link/statute/124/4026).)*

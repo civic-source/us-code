@@ -3,9 +3,10 @@ title: "Section 4044 - Reconciliation report"
 usc_title: 25
 usc_section: "4044"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 4044"
-generated_at: "2026-03-30T02:54:52.857Z"
+generated_at: "2026-11-23T20:26:25.675Z"
+status: "active"
 ---
 
 # § 4044. Reconciliation report
@@ -17,3 +18,11 @@ The Secretary shall transmit to the Committee on Natural Resources of the House 
     - **(A)** the Secretary has provided the account holder with as full and complete accounting as possible of the account holder’s funds to the earliest possible date, and that the account holder accepts the balance as reconciled by the Secretary; or
     - **(B)** the account holder disputes the balance of the account holder’s account as reconciled by the Secretary and statement explaining why the account holder disputes the Secretary’s reconciled balance; and
   - **(3)** a statement by the Secretary with regard to each account balance disputed by the account holder outlining efforts the Secretary will undertake to resolve the dispute.
+
+In General
+
+Statement of Purpose
+
+## Source Credit
+
+*([Pub. L. 103–412, title III, § 304](https://www.govinfo.gov/link/plaw/103/public/412), Oct. 25, 1994, [108 Stat. 4248](https://www.govinfo.gov/link/statute/108/4248).)*

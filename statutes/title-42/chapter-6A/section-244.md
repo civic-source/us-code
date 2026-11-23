@@ -3,9 +3,10 @@ title: "Section 244 - Public access defibrillation programs"
 usc_title: 42
 usc_section: "244"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 244"
-generated_at: "2026-03-30T02:56:10.692Z"
+generated_at: "2026-11-23T20:27:19.991Z"
+status: "active"
 ---
 
 # § 244. Public access defibrillation programs
@@ -38,3 +39,9 @@ generated_at: "2026-03-30T02:56:10.692Z"
     - **(E)** contain procedures for ensuring notification of local emergency medical services system personnel, including dispatchers, of the location and type of devices used in the public access defibrillation program; and
     - **(F)** provide for the collection of data regarding the effectiveness of the public access defibrillation program to be funded with the grant in affecting the out-of-hospital cardiac arrest survival rate.
 - **(e)** For the purpose of carrying out this section, there are authorized to be appropriated $25,000,000 for for 1 1 So in original. each of fiscal years 2003 through 2014. Not more than 10 percent of amounts received under a grant awarded under this section may be used for administrative expenses.
+
+“Congress makes the following findings:
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 312, as added [Pub. L. 107–188, title I, § 159(c)](https://www.govinfo.gov/link/plaw/107/public/188), June 12, 2002, [116 Stat. 634](https://www.govinfo.gov/link/statute/116/634); amended [Pub. L. 108–41, § 2](https://www.govinfo.gov/link/plaw/108/public/41), July 1, 2003, [117 Stat. 839](https://www.govinfo.gov/link/statute/117/839); [Pub. L. 111–148, title X, § 10412](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 990](https://www.govinfo.gov/link/statute/124/990).)*

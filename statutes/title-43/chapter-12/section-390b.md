@@ -3,9 +3,10 @@ title: "Section 390b - Development of water supplies for domestic, municipal, in
 usc_title: 43
 usc_section: "390b"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 390b"
-generated_at: "2026-03-30T02:55:57.441Z"
+generated_at: "2026-11-23T20:27:06.187Z"
+status: "active"
 ---
 
 # § 390b. Development of water supplies for domestic, municipal, industrial, and other purposes
@@ -25,3 +26,95 @@ generated_at: "2026-03-30T02:55:57.441Z"
   - **(4)** Nothing in this subsection authorizes the Secretary to release a State or local interest from a contractual obligation unless specifically authorized by Congress.
 - **(d)** The provisions of this section shall not be construed to modify the provisions of section 701–1 of title 33 and section 390 of this title , as amended and extended, or the provisions of sections 372 and 383 of this title.
 - **(e)** Modifications of a reservoir project heretofore authorized, surveyed, planned, or constructed to include storage as provided in subsection (b) which would seriously affect the purposes for which the project was authorized, surveyed, planned, or constructed, or which would involve major structural or operational changes shall be made only upon the approval of Congress as now provided by law.
+
+Definitions
+
+Federally owned storage project
+
+State-led storage project
+
+Federally Owned Storage Projects.—
+
+Agreements
+
+Federal cost share
+
+Commencement
+
+Environmental laws
+
+State-Led Storage Projects.—
+
+In general
+
+Request by governor
+
+Environmental laws
+
+Information
+
+Authority To Provide Assistance
+
+Rights To Use Capacity
+
+Compliance With California Water Bond.—
+
+In general
+
+Applicability
+
+Partnership and Agreements
+
+Authorization of Appropriations.—
+
+Sunset
+
+Consistency With State Law
+
+In General
+
+Successor Biological Opinions.—
+
+In general
+
+Limitation
+
+Severability
+
+“This subtitle [subtitle J (§§ 4001–4014) of title III of Pub. L. 114–322 , see Tables for classification] shall expire on the date that is 5 years after the date of its enactment [ Dec. 16, 2016 ], with the exception of—
+
+“In this subtitle [subtitle J (§§ 4001–4014) of title III of Pub. L. 114–322 , see Tables for classification]:
+
+Assistant administrator
+
+Central valley project
+
+Commissioner
+
+Delta
+
+Delta smelt
+
+Director
+
+Listed fish species
+
+Reclamation state
+
+Salmonid biological opinion.—
+
+In general
+
+Inclusions
+
+Smelt biological opinion.—
+
+In general
+
+Inclusions
+
+State water project
+
+## Source Credit
+
+*([Pub. L. 85–500, title III, § 301](https://www.govinfo.gov/link/plaw/85/public/500), July 3, 1958, [72 Stat. 319](https://www.govinfo.gov/link/statute/72/319); [Pub. L. 87–88, § 10](https://www.govinfo.gov/link/plaw/87/public/88), July 20, 1961, [75 Stat. 210](https://www.govinfo.gov/link/statute/75/210); [Pub. L. 99–662, title IX, § 932(a)](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4196](https://www.govinfo.gov/link/statute/100/4196); [Pub. L. 113–121, title I](https://www.govinfo.gov/link/plaw/113/public/121), §§ 1046(d), 1051(a), June 10, 2014, [128 Stat. 1254](https://www.govinfo.gov/link/statute/128/1254), 1259; [Pub. L. 114–322, title I, § 1187](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1681](https://www.govinfo.gov/link/statute/130/1681); [Pub. L. 117–263, div. H, title LXXXI, § 8389](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3831](https://www.govinfo.gov/link/statute/136/3831).)*

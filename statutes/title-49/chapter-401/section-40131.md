@@ -3,9 +3,10 @@ title: "Section 40131 - National airspace system cyber threat management process
 usc_title: 49
 usc_section: "40131"
 chapter: 401
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 40131"
-generated_at: "2026-03-30T02:56:19.372Z"
+generated_at: "2026-11-23T20:27:35.073Z"
+status: "active"
 ---
 
 # § 40131. National airspace system cyber threat management process
@@ -31,3 +32,47 @@ generated_at: "2026-03-30T02:56:19.372Z"
   - **(4)** The term “cyber threat” means the threat of an action that, if carried out, would constitute a cyber incident or an electronic attack.
   - **(5)** The term “electronic attack” means the use of electromagnetic spectrum energy to impede operations in the cyber environment, including through techniques such as jamming or spoofing.
   - **(6)** The term “significant cyber incident” means a cyber incident, or a group of related cyber incidents, that the Administrator determines is likely to result in demonstrable harm to the national airspace system of the United States.
+
+Establishment
+
+Issues To Be Addressed
+
+Definitions
+
+Cyber common operating picture
+
+Cyber environment
+
+Cyber incident
+
+Cyber threat
+
+Electronic attack
+
+Significant cyber incident
+
+In General
+
+Duties
+
+Briefing
+
+In General
+
+Duties
+
+Segmentation
+
+Composition
+
+Member Eligibility
+
+Prohibition on Compensation
+
+Considerations
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 118–63, title III, § 393(a)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1144](https://www.govinfo.gov/link/statute/138/1144).)*

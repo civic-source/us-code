@@ -3,9 +3,10 @@ title: "Section 6083 - Proof of ownership of claims to confiscated property"
 usc_title: 22
 usc_section: "6083"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6083"
-generated_at: "2026-03-30T02:55:05.424Z"
+generated_at: "2026-11-23T20:26:32.594Z"
+status: "active"
 ---
 
 # § 6083. Proof of ownership of claims to confiscated property
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.424Z"
 - **(c)** Nothing in this chapter or in section 514 of the International Claims Settlement Act of 1949 [ 22 U.S.C. 1643 l ], as added by subsection (b), shall be construed—
   - **(1)** to require or otherwise authorize the claims of Cuban nationals who became United States citizens after their property was confiscated to be included in the claims certified to the Secretary of State by the Foreign Claims Settlement Commission for purposes of future negotiation and espousal of claims with a friendly government in Cuba when diplomatic relations are restored; or
   - **(2)** as superseding, amending, or otherwise altering certifications that have been made under title V of the International Claims Settlement Act of 1949 [ 22 U.S.C. 1643 et seq.] before March 12, 1996 .
+
+## Source Credit
+
+*([Pub. L. 104–114, title III, § 303](https://www.govinfo.gov/link/plaw/104/public/114), Mar. 12, 1996, [110 Stat. 819](https://www.govinfo.gov/link/statute/110/819).)*

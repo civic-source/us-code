@@ -3,9 +3,10 @@ title: "Section 1308 - Filing of prepetition tax returns"
 usc_title: 11
 usc_section: "1308"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 1308"
-generated_at: "2026-03-30T02:53:53.887Z"
+generated_at: "2026-11-23T20:25:55.436Z"
+status: "active"
 ---
 
 # § 1308. Filing of prepetition tax returns
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:53.887Z"
     - **(A)** a period of not more than 30 days for returns described in paragraph (1)(A); and
     - **(B)** a period not to extend after the applicable extended due date for a return described in paragraph (1)(B).
 - **(c)** For purposes of this section, the term “return” includes a return prepared pursuant to subsection (a) or (b) of section 6020 of the Internal Revenue Code of 1986, or a similar State or local law, or a written stipulation to a judgment or a final order entered by a nonbankruptcy tribunal.
+
+## Source Credit
+
+*(Added [Pub. L. 109–8, title VII, § 716(b)(1)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 129](https://www.govinfo.gov/link/statute/119/129); amended [Pub. L. 111–327, § 2(a)(42)](https://www.govinfo.gov/link/plaw/111/public/327), Dec. 22, 2010, [124 Stat. 3562](https://www.govinfo.gov/link/statute/124/3562).)*

@@ -3,9 +3,10 @@ title: "Section 6399 - Definitions"
 usc_title: 20
 usc_section: "6399"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 6399"
-generated_at: "2026-03-30T02:54:48.199Z"
+generated_at: "2026-11-23T20:26:14.841Z"
+status: "active"
 ---
 
 # § 6399. Definitions
@@ -26,3 +27,7 @@ As used in this part:
     - **(B)** from one school district to another school district, except—
       - **(i)** in the case of a State that is comprised of a single school district, wherein a qualifying move is from one administrative area to another within such district; or
       - **(ii)** in the case of a school district of more than 15,000 square miles, wherein a qualifying move is a distance of 20 miles or more to a temporary residence.
+
+## Source Credit
+
+*([Pub. L. 89–10, title I, § 1309](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 107–110, title I, § 101](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1579](https://www.govinfo.gov/link/statute/115/1579); amended [Pub. L. 114–95, title I, § 1301(h)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1899](https://www.govinfo.gov/link/statute/129/1899).)*

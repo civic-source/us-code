@@ -3,9 +3,10 @@ title: "Section 2101 - Definitions"
 usc_title: 44
 usc_section: "2101"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "44 U.S.C. § 2101"
-generated_at: "2026-03-30T02:55:56.292Z"
+generated_at: "2026-11-23T20:27:03.795Z"
+status: "active"
 ---
 
 # § 2101. Definitions
@@ -16,3 +17,7 @@ As used in this chapter—
   - **(2)** “historical materials” including books, correspondence, documents, papers, pamphlets, works of art, models, pictures, photographs, plats, maps, films, motion pictures, sound recordings, and other objects or materials having historical or commemorative value;
   - **(3)** “Archivist” means the Archivist of the United States appointed under section 2103 of this title ; and
   - **(4)** “Administration” means the National Archives and Records Administration established under section 2102 of this title .
+
+## Source Credit
+
+*([Pub. L. 90–620](https://www.govinfo.gov/link/plaw/90/public/620), Oct. 22, 1968, [82 Stat. 1287](https://www.govinfo.gov/link/statute/82/1287); [Pub. L. 98–497, title I, § 102(b)](https://www.govinfo.gov/link/plaw/98/public/497), Oct. 19, 1984, [98 Stat. 2282](https://www.govinfo.gov/link/statute/98/2282); [Pub. L. 99–323, § 2](https://www.govinfo.gov/link/plaw/99/public/323), May 27, 1986, [100 Stat. 495](https://www.govinfo.gov/link/statute/100/495).)*

@@ -3,9 +3,10 @@ title: "Section 165 - Losses"
 usc_title: 26
 usc_section: "165"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 165"
-generated_at: "2026-03-30T02:55:27.640Z"
+generated_at: "2026-11-23T20:26:45.431Z"
+status: "active"
 ---
 
 # § 165. Losses
@@ -109,3 +110,91 @@ generated_at: "2026-03-30T02:55:27.640Z"
   - **(3)** For special rule for losses on stock in a small business investment company, see section 1242.
   - **(4)** For special rule for losses of a small business investment company, see section 1243.
   - **(5)** For special rule for losses on small business stock, see section 1244.
+
+Election
+
+“Except as otherwise expressly provided—
+
+“In the case of taxable years beginning before January 1, 1984 —
+
+General Rule
+
+FSLIC Assistance
+
+Effective Date.—
+
+In general
+
+Exceptions
+
+“If on the date of the enactment of this Act [ Nov. 10, 1988 ] (or at any time before the date 1 year after such date of enactment) credit or refund of any overpayment of tax attributable to amendments made by section 905 of the Reform Act [ section 905 of Pub. L. 99–514 , amending this section and section 451 of this title ] or by this subsection [amending this section and section 451 of this title and provisions set out as a note under section 451 of this title ] (or the assessment of any underpayment of tax so attributable) is barred by any law or rule of law—
+
+Bus Operating Authority.—
+
+In general
+
+Modifications
+
+Bus operating authority defined
+
+Freight Forwarder Operating Authority.—
+
+In general
+
+Modifications
+
+month period
+
+Authority must be held as of beginning of 60-month period
+
+Adjusted basis not to exceed adjusted basis at beginning of 60-month period
+
+Deregulation month
+
+Special Rule for Motor Carrier Operating Authority
+
+Application of Section
+
+Effective Dates.—
+
+Bus operating authority.—
+
+In general
+
+Statute of limitations
+
+Freight forwarder operating authority
+
+General Rule.—
+
+Definition of Motor Carrier Operating Authority.—
+
+Special Rules.—
+
+Adjusted basis.—
+
+Certain stock acquisitions.—
+
+In general.—
+
+Treatment of certain noncorporate taxpayers
+
+Adjustment to basis.—
+
+Section 381 of the internal revenue code of 1986 to apply.—
+
+Effective Date.—
+
+Application of Section
+
+Effect of Election
+
+Income Taken Into Account
+
+Phaseout Where Adjusted Gross Income Exceeds
+
+Statute of Limitations
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 49; [Pub. L. 85–866, title I](https://www.govinfo.gov/link/plaw/85/public/866), §§ 7, 57(c)(1), title II, § 202(a), Sept. 2, 1958, [72 Stat. 1608](https://www.govinfo.gov/link/statute/72/1608), 1646, 1676; [Pub. L. 87–426, § 2(a)](https://www.govinfo.gov/link/plaw/87/public/426), Mar. 31, 1962, [76 Stat. 51](https://www.govinfo.gov/link/statute/76/51); [Pub. L. 88–272, title II](https://www.govinfo.gov/link/plaw/88/public/272), §§ 208(a), 238, Feb. 26, 1964, [78 Stat. 43](https://www.govinfo.gov/link/statute/78/43), 128; [Pub. L. 88–348, § 3(a)](https://www.govinfo.gov/link/plaw/88/public/348), June 30, 1964, [78 Stat. 237](https://www.govinfo.gov/link/statute/78/237); [Pub. L. 91–606, title III, § 301(h)](https://www.govinfo.gov/link/plaw/91/public/606), Dec. 31, 1970, [84 Stat. 1759](https://www.govinfo.gov/link/statute/84/1759); [Pub. L. 91–677, § 1(a)](https://www.govinfo.gov/link/plaw/91/public/677), Jan. 12, 1971, [84 Stat. 2061](https://www.govinfo.gov/link/statute/84/2061); [Pub. L. 91–687, § 1](https://www.govinfo.gov/link/plaw/91/public/687), Jan. 12, 1971, [84 Stat. 2071](https://www.govinfo.gov/link/statute/84/2071); [Pub. L. 92–336, § 2(a)](https://www.govinfo.gov/link/plaw/92/public/336), July 1, 1972, [86 Stat. 406](https://www.govinfo.gov/link/statute/86/406); [Pub. L. 92–418, § 2(a)](https://www.govinfo.gov/link/plaw/92/public/418), Aug. 29, 1972, [86 Stat. 656](https://www.govinfo.gov/link/statute/86/656), 657; [Pub. L. 93–288, title VII, § 702(h)](https://www.govinfo.gov/link/plaw/93/public/288), formerly title VI, § 602(h), May 22, 1974, [88 Stat. 164](https://www.govinfo.gov/link/statute/88/164), renumbered title VII, § 702(h), [Pub. L. 103–337, div. C, title XXXIV, § 3411(a)(1)](https://www.govinfo.gov/link/plaw/103/public/337), (2), Oct. 5, 1994, [108 Stat. 3100](https://www.govinfo.gov/link/statute/108/3100); [Pub. L. 94–455, title XIX, § 1901(a)(26)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1767](https://www.govinfo.gov/link/statute/90/1767); [Pub. L. 97–248, title II, § 203(a)](https://www.govinfo.gov/link/plaw/97/public/248), (b), title III, § 310(b)(5), Sept. 3, 1982, [96 Stat. 422](https://www.govinfo.gov/link/statute/96/422), 598; [Pub. L. 98–369, div. A, title I, § 42(a)(4)](https://www.govinfo.gov/link/plaw/98/public/369), title VII, § 711(c)(1), (2)(A)(i), (ii), title X, § 1051(a), July 18, 1984, [98 Stat. 556](https://www.govinfo.gov/link/statute/98/556), 943, 1044; [Pub. L. 99–514, title IX, § 905(a)](https://www.govinfo.gov/link/plaw/99/public/514), title X, § 1004(a), Oct. 22, 1986, [100 Stat. 2385](https://www.govinfo.gov/link/statute/100/2385), 2388; [Pub. L. 100–647, title I, § 1009(d)(1)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3449](https://www.govinfo.gov/link/statute/102/3449); [Pub. L. 100–707, title I, § 109](https://www.govinfo.gov/link/plaw/100/public/707) (l), Nov. 23, 1988, [102 Stat. 4709](https://www.govinfo.gov/link/statute/102/4709); [Pub. L. 105–34, title IX, § 912(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 878](https://www.govinfo.gov/link/statute/111/878); [Pub. L. 106–554, § 1(a)(7) [title III, § 318(b)(1), (2)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–645; [Pub. L. 108–311, title IV, § 408(a)(7)(A)](https://www.govinfo.gov/link/plaw/108/public/311), (B), Oct. 4, 2004, [118 Stat. 1191](https://www.govinfo.gov/link/statute/118/1191); [Pub. L. 110–343, div. C, title VII, § 706(a)(1)](https://www.govinfo.gov/link/plaw/110/public/343), (2)(A)–(C), (c), Oct. 3, 2008, [122 Stat. 3921–3923](https://www.govinfo.gov/link/statute/122/3921); [Pub. L. 111–147, title V, § 502(a)(2)(D)](https://www.govinfo.gov/link/plaw/111/public/147), Mar. 18, 2010, [124 Stat. 107](https://www.govinfo.gov/link/statute/124/107); [Pub. L. 113–295, div. A, title II](https://www.govinfo.gov/link/plaw/113/public/295), §§ 211(c)(1)(C), 221(a)(27)(A)–(C), Dec. 19, 2014, [128 Stat. 4033](https://www.govinfo.gov/link/statute/128/4033), 4040; [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 11044(a), 11050(a), Dec. 22, 2017, [131 Stat. 2087](https://www.govinfo.gov/link/statute/131/2087), 2089; [Pub. L. 119–21, title VII](https://www.govinfo.gov/link/plaw/119/public/21), §§ 70109(a), (b), 70114(a), July 4, 2025, [139 Stat. 163](https://www.govinfo.gov/link/statute/139/163), 166.)*

@@ -3,9 +3,10 @@ title: "Section 5812 - Officers of Administration"
 usc_title: 42
 usc_section: "5812"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5812"
-generated_at: "2026-03-30T02:56:11.237Z"
+generated_at: "2026-11-23T20:27:22.556Z"
+status: "active"
 ---
 
 # § 5812. Officers of Administration
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.237Z"
 - **(g)** The Division of Military Application transferred to and established in the Administration by section 5814(d) of this title shall be under the direction of a Director of Military Application, who shall be appointed by the Administrator and who shall serve at the pleasure of and be removable by the Administrator and shall be an active commissioned officer of the Armed Forces serving in general or flag officer rank or grade. The functions, qualifications, and compensation of the Director of Military Application shall be the same as those provided under the Atomic Energy Act of 1954, as amended [ 42 U.S.C. 2011 et seq.], for the Assistant General Manager for Military Application.
 - **(h)** Officers appointed pursuant to this section shall perform such functions as the Administrator shall specify from time to time. The Administrator shall delegate to one such officer the special responsibility for international cooperation in all energy and related environmental research and development.
 - **(i)** The Deputy Administrator (or in the absence or disability of the Deputy Administrator, or in the event of a vacancy in the office of the Deputy Administrator, an Assistant Administrator, the General Counsel or such other official, determined according to such order as the Administrator shall prescribe) shall act for and perform the functions of the Administrator during any absence or disability of the Administrator or in the event of a vacancy in the office of the Administrator.
+
+## Source Credit
+
+*([Pub. L. 93–438, title I, § 102](https://www.govinfo.gov/link/plaw/93/public/438), Oct. 11, 1974, [88 Stat. 1234](https://www.govinfo.gov/link/statute/88/1234).)*

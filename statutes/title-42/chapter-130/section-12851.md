@@ -3,9 +3,10 @@ title: "Section 12851 - National Homeownership Trust"
 usc_title: 42
 usc_section: "12851"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12851"
-generated_at: "2026-03-30T02:56:11.433Z"
+generated_at: "2026-11-23T20:27:23.446Z"
+status: "active"
 ---
 
 # § 12851. National Homeownership Trust
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.433Z"
 - **(e)**
   - **(1)** The Board of Directors may appoint an executive director of the Trust and fix the compensation of the executive director, which shall be paid from amounts in the National Homeownership Trust Fund.
   - **(2)** Subject to such rules as the Board of Directors may prescribe, the Trust may appoint and hire such staff and provide for offices as may be necessary to carry out its duties. The Trust may fix the compensation of the staff, which shall be paid from amounts in the National Homeownership Trust Fund.
+
+## Source Credit
+
+*([Pub. L. 101–625, title III, § 302](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4129](https://www.govinfo.gov/link/statute/104/4129).)*

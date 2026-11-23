@@ -3,9 +3,10 @@ title: "Section 1185 - Rights and procedures"
 usc_title: 10
 usc_section: "1185"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1185"
-generated_at: "2026-03-30T02:53:38.115Z"
+generated_at: "2026-11-23T20:25:51.277Z"
+status: "active"
 ---
 
 # § 1185. Rights and procedures
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:38.115Z"
   - **(4)** shall be allowed full access to, and shall be furnished copies of, records relevant to his case, except that the board of inquiry shall withhold any record that the Secretary concerned determines should be withheld in the interest of national security.
 - **(b)** When a record is withheld under subsection (a)(4), the officer whose case is under consideration shall, to the extent that the interest of national security permits, be furnished a summary of the record so withheld.
 - **(c)** The Secretary concerned may determine that, in exceptional circumstances, the appearance of an officer before the proceedings of a board of inquiry may be via means other than in person.
+
+## Source Credit
+
+*(Added [Pub. L. 96–513, title I, § 110](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2874](https://www.govinfo.gov/link/statute/94/2874); amended [Pub. L. 118–159, div. A, title V, § 509(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1872](https://www.govinfo.gov/link/statute/138/1872).)*

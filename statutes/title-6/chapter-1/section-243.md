@@ -3,9 +3,10 @@ title: "Section 243 - Maritime operations coordination plan"
 usc_title: 6
 usc_section: "243"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 243"
-generated_at: "2026-03-30T02:53:09.454Z"
+generated_at: "2026-11-23T20:25:34.679Z"
+status: "active"
 ---
 
 # § 243. Maritime operations coordination plan
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:09.454Z"
   - **(2)** Maintaining effective information sharing and, as appropriate, intelligence integration, with Federal, State, and local officials and the private sector, regarding threats to maritime security.
   - **(3)** Cooperating and coordinating with Federal departments and agencies, and State and local agencies, in the maritime environment, in support of maritime security missions.
   - **(4)** Highlighting the work completed within the context of other national and Department maritime security strategic guidance and how that work fits with the Maritime Operations Coordination Plan.
+
+## Source Credit
+
+*([Pub. L. 107–296, title IV, § 435](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 115–254, div. J, § 1807(a)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3536](https://www.govinfo.gov/link/statute/132/3536).)*

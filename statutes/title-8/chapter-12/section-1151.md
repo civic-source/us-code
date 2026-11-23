@@ -3,9 +3,10 @@ title: "Section 1151 - Worldwide level of immigration"
 usc_title: 8
 usc_section: "1151"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1151"
-generated_at: "2026-03-30T02:53:10.472Z"
+generated_at: "2026-11-23T20:25:35.989Z"
+status: "active"
 ---
 
 # § 1151. Worldwide level of immigration
@@ -58,3 +59,65 @@ generated_at: "2026-03-30T02:53:10.472Z"
   - **(2)** In the case of a petition under section 1154 of this title initially filed for an alien child’s classification as a family-sponsored immigrant under section 1153(a)(2)(A) of this title , based on the child’s parent being lawfully admitted for permanent residence, if the petition is later converted, due to the naturalization of the parent, to a petition to classify the alien as an immediate relative under subsection (b)(2)(A)(i), the determination described in paragraph (1) shall be made using the age of the alien on the date of the parent’s naturalization.
   - **(3)** In the case of a petition under section 1154 of this title initially filed for an alien’s classification as a family-sponsored immigrant under section 1153(a)(3) of this title , based on the alien’s being a married son or daughter of a citizen, if the petition is later converted, due to the legal termination of the alien’s marriage, to a petition to classify the alien as an immediate relative under subsection (b)(2)(A)(i) or as an unmarried son or daughter of a citizen under section 1153(a)(1) of this title , the determination described in paragraph (1) shall be made using the age of the alien on the date of the termination of the marriage.
   - **(4)** Paragraphs (1) through (3) shall apply to self-petitioners and derivatives of self-petitioners.
+
+Immediate relatives
+
+In general
+
+Transition cases.—
+
+In general
+
+Aliens described
+
+“The amendments made by this Act [amending this section and sections 1153, 1154, 1157, and 1158 of this title] shall take effect on the date of the enactment of this Act [ Aug. 6, 2002 ] and shall apply to any alien who is a derivative beneficiary or any other beneficiary of—
+
+Treatment as Immediate Relatives.—
+
+Spouses
+
+Children.—
+
+In general
+
+Petitions
+
+Parents.—
+
+In general
+
+Petitions
+
+Exception
+
+Applications for Adjustment of Status by Surviving Spouses, Children, and Parents.—
+
+In general
+
+Alien described
+
+Spouses and Children of Lawful Permanent Resident Aliens.—
+
+Treatment as immediate relatives.—
+
+In general
+
+Petitions
+
+Self-petitions
+
+Alien described
+
+Parents of Lawful Permanent Resident Aliens.—
+
+Self-petitions
+
+Alien described
+
+Waiver of Ground for Inadmissibility
+
+“The numerical limitations contained in sections 201 and 202 of the Immigration and Nationality Act [sections 1151 and 1152 of this title] shall not apply to any alien who is present in the United States and who, on or before June 1, 1978 —
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 1, § 201, [66 Stat. 175](https://www.govinfo.gov/link/statute/66/175); [Pub. L. 89–236, § 1](https://www.govinfo.gov/link/plaw/89/public/236), Oct. 3, 1965, [79 Stat. 911](https://www.govinfo.gov/link/statute/79/911); [Pub. L. 94–571, § 2](https://www.govinfo.gov/link/plaw/94/public/571), Oct. 20, 1976, [90 Stat. 2703](https://www.govinfo.gov/link/statute/90/2703); [Pub. L. 95–412, § 1](https://www.govinfo.gov/link/plaw/95/public/412), Oct. 5, 1978, [92 Stat. 907](https://www.govinfo.gov/link/statute/92/907); [Pub. L. 96–212, title II, § 203(a)](https://www.govinfo.gov/link/plaw/96/public/212), Mar. 17, 1980, [94 Stat. 106](https://www.govinfo.gov/link/statute/94/106); [Pub. L. 97–116, § 20[(a)]](https://www.govinfo.gov/link/plaw/97/public/116), Dec. 29, 1981, [95 Stat. 1621](https://www.govinfo.gov/link/statute/95/1621); [Pub. L. 101–649, title I, § 101(a)](https://www.govinfo.gov/link/plaw/101/public/649), Nov. 29, 1990, [104 Stat. 4980](https://www.govinfo.gov/link/statute/104/4980); [Pub. L. 102–232, title III, § 302(a)(1)](https://www.govinfo.gov/link/plaw/102/public/232), Dec. 12, 1991, [105 Stat. 1742](https://www.govinfo.gov/link/statute/105/1742); [Pub. L. 103–322, title IV, § 40701(b)(2)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1954](https://www.govinfo.gov/link/statute/108/1954); [Pub. L. 103–416, title II, § 219(b)(1)](https://www.govinfo.gov/link/plaw/103/public/416), Oct. 25, 1994, [108 Stat. 4316](https://www.govinfo.gov/link/statute/108/4316); [Pub. L. 104–208, div. C, title III, § 308(e)(5)](https://www.govinfo.gov/link/plaw/104/public/208), (g)(8)(A)(i), title VI, §§ 603, 671(d)(1)(A), Sept. 30, 1996, [110 Stat. 3009–620](https://www.govinfo.gov/link/statute/110/3009), 3009–624, 3009–690, 3009–723; [Pub. L. 106–386, div. B, title V, § 1507(a)(3)](https://www.govinfo.gov/link/plaw/106/public/386), Oct. 28, 2000, [114 Stat. 1530](https://www.govinfo.gov/link/statute/114/1530); [Pub. L. 107–208, § 2](https://www.govinfo.gov/link/plaw/107/public/208), Aug. 6, 2002, [116 Stat. 927](https://www.govinfo.gov/link/statute/116/927); [Pub. L. 109–162, title VIII, § 805(b)(1)](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3056](https://www.govinfo.gov/link/statute/119/3056); [Pub. L. 111–83, title V, § 568(c)(1)](https://www.govinfo.gov/link/plaw/111/public/83), Oct. 28, 2009, [123 Stat. 2186](https://www.govinfo.gov/link/statute/123/2186).)*

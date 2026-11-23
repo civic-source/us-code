@@ -3,9 +3,10 @@ title: "Section 3224a - Studies and agreements by Secretary of Energy on multina
 usc_title: 22
 usc_section: "3224a"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3224a"
-generated_at: "2026-03-30T02:55:05.390Z"
+generated_at: "2026-11-23T20:26:32.446Z"
+status: "active"
 ---
 
 # § 3224a. Studies and agreements by Secretary of Energy on multinational or international basis concerning spent fuel storage facilities and transportation systems; congressional consent; authorization of appropriations; limitations on use of funds; exceptions; special nuclear material for India
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.390Z"
   - **(2)** previously and expressly authorized by a concurrent resolution, or
   - **(3)** the President submits a plan for such use, with the report information specified herein, thirty days during which the Congress is in continuous session, as defined in the Impoundment Control Act of 1974 [ 2 U.S.C. 681 et seq.], prior to such use and neither House of Congress approves a resolution of disapproval of the plan prior to the expiration of the aforementioned thirty-day period. If such a resolution of disapproval has been introduced, but has not been reported by the Committee on or before the twentieth day after transmission of the Presidential message, a privileged motion shall be in order in the respective body to discharge the Committee from further consideration of the resolution and to provide for its immediate consideration, using the procedures specified for consideration of an impoundment resolution in section 1017 of the Impoundment Control Act of 1974 ( 31 U.S.C. 1407 ) [ 2 U.S.C. 688 ]. Any report or plan proposed under this proviso shall include information and any supporting documentation thereof relating to policy objectives, technical description and discussion, geographic information, cost data, justification and projections, legal and regulatory considerations, environmental impact information and any related bilateral or international agreements, arrangements or understandings: And provided further , That nothing contained in this section shall be construed in any executive branch action, administrative proceeding, regulatory proceeding, or legal proceeding as being intended to delay, modify, or reverse the Memorandum and Order of the Nuclear Regulatory Commission of June 28, 1977 , for the issuance of License No. XSNM–845 to the agent-applicant for the Government of India and the subsequent export thereby licensed of the special nuclear material to be used as fuel for the Tarapur Atomic Power Station or any other order of the Nuclear Regulatory Commission to issue a license for the export of special nuclear material and subsequent exports thereby licensed, or any consideration by the Nuclear Regulatory Commission of a license application for the export of special nuclear material.
 
+
+## Source Credit
+
+*([Pub. L. 95–238, title I, § 107](https://www.govinfo.gov/link/plaw/95/public/238), Feb. 25, 1978, [92 Stat. 55](https://www.govinfo.gov/link/statute/92/55); [Pub. L. 103–437, § 9(c)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4588](https://www.govinfo.gov/link/statute/108/4588).)*

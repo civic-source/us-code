@@ -3,9 +3,10 @@ title: "Section 3717 - National Quality Council"
 usc_title: 15
 usc_section: "3717"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 3717"
-generated_at: "2026-03-30T02:54:08.193Z"
+generated_at: "2026-11-23T20:26:04.305Z"
+status: "active"
 ---
 
 # § 3717. National Quality Council
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:54:08.193Z"
   - **(3)** contributions to the Council from non-Federal sources;
   - **(4)** plans for the Council’s operations and activities for the future; and
   - **(5)** any other information or recommendations the Council considers appropriate.
+
+## Source Credit
+
+*([Pub. L. 102–245, title V, § 507](https://www.govinfo.gov/link/plaw/102/public/245), Feb. 14, 1992, [106 Stat. 27](https://www.govinfo.gov/link/statute/106/27).)*

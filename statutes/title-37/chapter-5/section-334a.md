@@ -3,9 +3,10 @@ title: "Section 334a - Special aviation incentive pay and bonus authorities: enl
 usc_title: 37
 usc_section: "334a"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "37 U.S.C. § 334a"
-generated_at: "2026-03-30T02:55:44.055Z"
+generated_at: "2026-11-23T20:26:57.371Z"
+status: "active"
 ---
 
 # § 334a. Special aviation incentive pay and bonus authorities: enlisted members who operate remotely piloted aircraft
@@ -48,3 +49,45 @@ generated_at: "2026-03-30T02:55:44.055Z"
   - **(2)** The term “operational flying duty” means flying performed under competent orders by enlisted members of the regular or reserve components while serving in assignments in which basic flying skills are normally maintained in the performance of assigned duties as determined by the Secretary concerned, and flying duty performed by members in training that leads to designation as a remotely piloted aircraft pilot by the Secretary concerned.
   - **(3)** The term “proficiency flying duty” means flying performed under competent orders by enlisted members of the regular or reserve components while serving in assignments in which such skills would normally not be maintained in the performance of assigned duties.
 - **(i)** No agreement may be entered into under this section after December 31, 2018 .
+
+Aviation Incentive Pay.—
+
+Incentive pay authorized
+
+Enlisted members not currently engaged in flying duty
+
+Aviation Bonus
+
+Maximum Amount and Method of Payment.—
+
+Maximum amount
+
+Lump sum or installments
+
+Fixing bonus amount
+
+Written Agreement for Bonus
+
+Reserve Component Enlisted Members Performing Inactive Duty Training
+
+Relationship to Other Pay and Allowances.—
+
+Aviation incentive pay
+
+Aviation bonus
+
+Repayment
+
+Definitions
+
+Aviation service
+
+Operational flying duty
+
+Proficiency flying duty
+
+Termination of Authority
+
+## Source Credit
+
+*(Added [Pub. L. 115–91, div. A, title VI, § 617(a)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1424](https://www.govinfo.gov/link/statute/131/1424).)*

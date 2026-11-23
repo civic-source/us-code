@@ -3,9 +3,10 @@ title: "Section 9920 - Operational rule"
 usc_title: 42
 usc_section: "9920"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9920"
-generated_at: "2026-03-30T02:56:11.378Z"
+generated_at: "2026-11-23T20:27:23.197Z"
+status: "active"
 ---
 
 # § 9920. Operational rule
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.378Z"
   - **(1)** Except as provided in paragraph (2), any religious organization providing assistance under any program described in subsection (a) shall be subject to the same regulations as other nongovernmental organizations to account in accord with generally accepted accounting principles for the use of such funds provided under such program.
   - **(2)** Such organization shall segregate government funds provided under such program into a separate account. Only the government funds shall be subject to audit by the government.
 - **(e)** If an eligible entity or other organization (referred to in this subsection as an “intermediate organization”), acting under a contract, or grant or other agreement, with the Federal Government or a State or local government, is given the authority under the contract or agreement to select nongovernmental organizations to provide assistance under the programs described in subsection (a), the intermediate organization shall have the same duties under this section as the government.
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 679](https://www.govinfo.gov/link/plaw/97/public/35), as added [Pub. L. 105–285, title II, § 201](https://www.govinfo.gov/link/plaw/105/public/285), Oct. 27, 1998, [112 Stat. 2749](https://www.govinfo.gov/link/statute/112/2749).)*

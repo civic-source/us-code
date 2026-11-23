@@ -3,9 +3,10 @@ title: "Section 79m - Annual reporting requirements; contents; comprehensive gen
 usc_title: 16
 usc_section: "79m"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 79m"
-generated_at: "2026-03-30T02:54:22.731Z"
+generated_at: "2026-11-23T20:26:19.360Z"
+status: "active"
 ---
 
 # § 79m. Annual reporting requirements; contents; comprehensive general management plan; submission date and scope
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:22.731Z"
   - **(2)** the type and level of visitor use to be accommodated by the park, by specific area, with specific indications of carrying capacities consistent with the protection of park resources;
   - **(3)** the type, extent, and estimated cost of development proposed to accommodate visitor use and to protect the resource, to include anticipated location of all major development areas, roads, and trails; and
   - **(4)** the specific locations and types of foot trail access to the Tall Trees Grove, of which one route shall, unless shown by the Secretary to be inadvisable, principally traverse the east side of Redwood Creek through the essentially virgin forest, connecting with the roadhead on the west side of the park east of Orick.
+
+## Source Credit
+
+*([Pub. L. 95–250, title I, § 104](https://www.govinfo.gov/link/plaw/95/public/250), Mar. 27, 1978, [92 Stat. 170](https://www.govinfo.gov/link/statute/92/170).)*

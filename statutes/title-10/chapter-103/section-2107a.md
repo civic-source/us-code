@@ -3,9 +3,10 @@ title: "Section 2107a - Financial assistance program for specially selected memb
 usc_title: 10
 usc_section: "2107a"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2107a"
-generated_at: "2026-03-30T02:53:38.141Z"
+generated_at: "2026-11-23T20:25:51.448Z"
+status: "active"
 ---
 
 # § 2107a. Financial assistance program for specially selected members: Army Reserve and Army National Guard
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:53:38.141Z"
 - **(h)** The Secretary of the Army shall appoint each year under this section not less than 22 cadets at each military junior college at which there are not less than 22 members of the program eligible under subsection (b) for such an appointment. At any military junior college at which in any year there are fewer than 22 such members, the Secretary shall appoint each such member as a cadet under this section.
 - **(i)** Cadets appointed under this section are in addition to the number appointed under section 2107 of this title .
 - **(j)** Financial assistance provided under this section to a cadet appointed at a military junior college is designated as, and shall be known as, an “Ike Skelton Early Commissioning Program Scholarship”.
+
+## Source Credit
+
+*(Added [Pub. L. 96–357, § 1(c)(1)](https://www.govinfo.gov/link/plaw/96/public/357), Sept. 24, 1980, [94 Stat. 1179](https://www.govinfo.gov/link/statute/94/1179); amended [Pub. L. 102–190, div. A, title V, § 522(a)](https://www.govinfo.gov/link/plaw/102/public/190), (b)(1), Dec. 5, 1991, [105 Stat. 1362](https://www.govinfo.gov/link/statute/105/1362); [Pub. L. 104–201, div. A, title V](https://www.govinfo.gov/link/plaw/104/public/201), §§ 507(a)(3), 555(a), Sept. 23, 1996, [110 Stat. 2512](https://www.govinfo.gov/link/statute/110/2512), 2527; [Pub. L. 105–85, div. A, title X, § 1073(a)(36)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1902](https://www.govinfo.gov/link/statute/111/1902); [Pub. L. 107–107, div. A, title V](https://www.govinfo.gov/link/plaw/107/public/107), §§ 534(b), 536(a), (c), Dec. 28, 2001, [115 Stat. 1106](https://www.govinfo.gov/link/statute/115/1106), 1107; [Pub. L. 108–136, div. A, title V](https://www.govinfo.gov/link/plaw/108/public/136), §§ 521(b), 522, Nov. 24, 2003, [117 Stat. 1463](https://www.govinfo.gov/link/statute/117/1463); [Pub. L. 108–375, div. A, title V, § 524(b)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1889](https://www.govinfo.gov/link/statute/118/1889); [Pub. L. 109–163, div. A, title V](https://www.govinfo.gov/link/plaw/109/public/163), §§ 531(b), 532, 534(b), 536, Jan. 6, 2006, [119 Stat. 3247–3249](https://www.govinfo.gov/link/statute/119/3247); [Pub. L. 109–364, div. A, title V, § 535](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2207](https://www.govinfo.gov/link/statute/120/2207); [Pub. L. 110–181, div. A, title V](https://www.govinfo.gov/link/plaw/110/public/181), §§ 522, 523, Jan. 28, 2008, [122 Stat. 102](https://www.govinfo.gov/link/statute/122/102), 103; [Pub. L. 111–84, div. A, title V, § 522](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2285](https://www.govinfo.gov/link/statute/123/2285).)*

@@ -3,9 +3,10 @@ title: "Section 5135 - Citizens Coinage Advisory Committee"
 usc_title: 31
 usc_section: "5135"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 5135"
-generated_at: "2026-03-30T02:55:34.066Z"
+generated_at: "2026-11-23T20:26:51.852Z"
+status: "active"
 ---
 
 # § 5135. Citizens Coinage Advisory Committee
@@ -57,3 +58,71 @@ generated_at: "2026-03-30T02:55:34.066Z"
   - **(1)** Not later than September 30 of each year, the Advisory Committee shall submit a report to the Secretary, the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate. Should circumstances arise in which the Advisory Committee cannot meet the September 30 deadline in any year, the Secretary shall advise the Chairpersons of the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate of the reasons for such delay and the date on which the submission of the report is anticipated.
   - **(2)** The report required by paragraph (1) shall describe the activities of the Advisory Committee during the preceding year and the reports and recommendations made by the Advisory Committee to the Secretary of the Treasury.
 - **(h)** Subject to the requirements of subsection (b)(8), chapter 10 of title 5 shall not apply with respect to the Committee.
+
+Establishment.—
+
+In general
+
+Oversight of advisory committee
+
+Membership.—
+
+Appointment
+
+Terms.—
+
+In general
+
+Terms of initial appointees
+
+Preservation of public advisory status
+
+Continuation of service
+
+Vacancy and removal.—
+
+In general
+
+Removal
+
+Chairperson
+
+Pay and expenses
+
+Meetings.—
+
+In general
+
+Open meetings
+
+Prior notice of meetings
+
+Quorum
+
+Duties of the Advisory Committee
+
+Expenses
+
+Administrative Support, Technical Services, and Advice
+
+Consultation Authority
+
+Annual Report.—
+
+Required
+
+Contents
+
+Chapter
+
+of Title
+
+Does Not Apply
+
+Abolishment of Citizens Commemorative Coin Advisory Committee.
+
+Continuity of Members of Citizens Commemorative Coin Advisory Committee.
+
+## Source Credit
+
+*(Added [Pub. L. 102–390, title II, § 229(a)](https://www.govinfo.gov/link/plaw/102/public/390), Oct. 6, 1992, [106 Stat. 1631](https://www.govinfo.gov/link/statute/106/1631); amended [Pub. L. 104–208, div. A, title I, § 101(f) [title V, § 529(d)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–314](https://www.govinfo.gov/link/statute/110/3009), 3009–352; [Pub. L. 104–329, title III, § 303(a)](https://www.govinfo.gov/link/plaw/104/public/329), Oct. 20, 1996, [110 Stat. 4014](https://www.govinfo.gov/link/statute/110/4014); [Pub. L. 108–15, title I, § 103(a)](https://www.govinfo.gov/link/plaw/108/public/15), Apr. 23, 2003, [117 Stat. 616](https://www.govinfo.gov/link/statute/117/616); [Pub. L. 117–286, § 4(a)(196)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4327](https://www.govinfo.gov/link/statute/136/4327).)*

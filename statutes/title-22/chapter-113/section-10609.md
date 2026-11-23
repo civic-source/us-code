@@ -3,9 +3,10 @@ title: "Section 10609 - Authorization of appropriations"
 usc_title: 22
 usc_section: "10609"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 10609"
-generated_at: "2026-03-30T02:55:05.478Z"
+generated_at: "2026-11-23T20:26:32.830Z"
+status: "active"
 ---
 
 # § 10609. Authorization of appropriations
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:05.478Z"
 - **(b)** Amounts appropriated pursuant to subsection (a) may only be made available to grantees to the extent the Foundation or such grantees secure funding for an eligible project from sources other than the United States Government in an amount that is not less than twice the amount received in grants for such project pursuant to section 10606 of this title .
 - **(c)** The administrative costs of the Foundation shall come from sources other than the United States Government.
 - **(d)** Amounts provided as a grant by the Foundation pursuant to section 10606 of this title may not be used for any activity intended to influence legislation pending before the Congress of the United States.
+
+## Source Credit
+
+*([Pub. L. 118–159, div. E, title LI, § 5109](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2421](https://www.govinfo.gov/link/statute/138/2421).)*

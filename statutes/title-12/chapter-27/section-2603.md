@@ -3,9 +3,10 @@ title: "Section 2603 - Uniform settlement statement"
 usc_title: 12
 usc_section: "2603"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 2603"
-generated_at: "2026-03-30T02:53:53.485Z"
+generated_at: "2026-11-23T20:25:59.297Z"
+status: "active"
 ---
 
 # § 2603. Uniform settlement statement
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:53.485Z"
   - **(1)** the fee paid directly to the appraiser by such company; and
   - **(2)** the administration fee charged by such company.
 - **(d)** With respect to a mortgage loan transaction involving a residential mortgage loan offered at 0 percent interest with only bonafide and reasonable fees and that is primarily for charitable purposes, an organization described in section 501(c)(3) of title 26 and exempt from taxation under section 501(a) of such title may use forms HUD–1 and GFE (as defined under section 1024.2(b) of title 12, Code of Federal Regulations) together with a disclosure substantially in the form of the Loan Model Form H–2 (as depicted in Appendix H to part 1026 of title 12, Code of Federal Regulations), collectively, in lieu of the disclosure published under subsection (a) of this section.
+
+## Source Credit
+
+*([Pub. L. 93–533, § 4](https://www.govinfo.gov/link/plaw/93/public/533), Dec. 22, 1974, [88 Stat. 1725](https://www.govinfo.gov/link/statute/88/1725); [Pub. L. 94–205, § 3](https://www.govinfo.gov/link/plaw/94/public/205), Jan. 2, 1976, [89 Stat. 1157](https://www.govinfo.gov/link/statute/89/1157); [Pub. L. 104–208, div. A, title II, § 2103(g)(1)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–401](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 111–203, title X, § 1098(2)](https://www.govinfo.gov/link/plaw/111/public/203), title XIV, § 1475, July 21, 2010, [124 Stat. 2103](https://www.govinfo.gov/link/statute/124/2103), 2200; [Pub. L. 116–342, § 2(b)](https://www.govinfo.gov/link/plaw/116/public/342), Jan. 13, 2021, [134 Stat. 5134](https://www.govinfo.gov/link/statute/134/5134).)*

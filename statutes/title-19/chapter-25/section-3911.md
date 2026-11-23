@@ -3,9 +3,10 @@ title: "Section 3911 - Reports"
 usc_title: 19
 usc_section: "3911"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3911"
-generated_at: "2026-03-30T02:54:24.699Z"
+generated_at: "2026-11-23T20:26:11.107Z"
+status: "active"
 ---
 
 # § 3911. Reports
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:24.699Z"
   - **(3)** identifying each country that, during the preceding 12-month period, exported rough diamonds to the United States and was exporting rough diamonds not controlled through the Kimberley Process Certification Scheme, if the failure to do so has significantly increased the likelihood that those diamonds not so controlled are being imported into the United States; and
   - **(4)** identifying any problems or obstacles encountered in the implementation of this chapter or the Kimberly 1 1 So in original. Probably should be “Kimberley”. Process Certification Scheme.
 - **(b)** For each country identified in subsection (a)(3), the President, during such period as this chapter is in effect, shall, every 6 months after the initial report in which the country was identified, transmit to the Congress a report that explains what actions have been taken by the United States or such country since the previous report to ensure that diamonds the exportation of which was not controlled through the Kimberley Process Certification Scheme are not being imported from that country into the United States. The requirement to issue a semiannual report with respect to a country under this subsection shall remain in effect until such time as the country is controlling the importation and exportation of rough diamonds through the Kimberley Process Certification Scheme.
+
+## Source Credit
+
+*([Pub. L. 108–19, § 12](https://www.govinfo.gov/link/plaw/108/public/19), Apr. 25, 2003, [117 Stat. 636](https://www.govinfo.gov/link/statute/117/636).)*

@@ -3,9 +3,10 @@ title: "Section 55117 - Great Lakes rail route"
 usc_title: 46
 usc_section: "55117"
 chapter: 551
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 55117"
-generated_at: "2026-03-30T02:56:15.579Z"
+generated_at: "2026-11-23T20:27:27.384Z"
+status: "active"
 ---
 
 # § 55117. Great Lakes rail route
@@ -16,3 +17,22 @@ Section 55102 of this title does not apply to the transportation of merchandise 
   - **(2)** the stock of the common carrier by water, or its predecessor, was owned or controlled by a common carrier by rail prior to June 5, 1920 ;
   - **(3)** the stock of the common carrier owning the car ferry is, with the approval of the Board, now owned or controlled by a common carrier by rail; and
   - **(4)** the car ferry is built in and documented under the laws of the United States.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 55117 | 46 App.:883 (5th proviso). | June 5, 1920, ch. 250, § 27 , as added Apr. 11, 1935, ch. 58 , 49 Stat. 154 . |
+
+
+Historical and Revision Notes
+
+55117
+
+June 5, 1920, ch. 250, § 27
+
+Apr. 11, 1935, ch. 58
+
+49 Stat. 154
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(c)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1640](https://www.govinfo.gov/link/statute/120/1640).)*

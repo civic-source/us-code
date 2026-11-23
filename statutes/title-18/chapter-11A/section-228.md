@@ -3,9 +3,10 @@ title: "Section 228 - Failure to pay legal child support obligations"
 usc_title: 18
 usc_section: "228"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 228"
-generated_at: "2026-03-30T02:54:16.460Z"
+generated_at: "2026-11-23T20:26:08.350Z"
+status: "active"
 ---
 
 # § 228. Failure to pay legal child support obligations
@@ -27,3 +28,19 @@ generated_at: "2026-03-30T02:54:16.460Z"
   - **(1)** the term “Indian tribe” has the meaning given that term in section 102 of the Federally Recognized Indian Tribe List Act of 1994 ( 25 U.S.C. 479a ); 1 1 See References in Text note below.
   - **(2)** the term “State” includes any State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States; and
   - **(3)** the term “support obligation” means any amount determined under a court order or an order of an administrative process pursuant to the law of a State or of an Indian tribe to be due from a person for the support and maintenance of a child or of a child and the parent with whom the child is living.
+
+Offense
+
+Presumption
+
+Punishment
+
+Mandatory Restitution
+
+Venue
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 102–521, § 2(a)](https://www.govinfo.gov/link/plaw/102/public/521), Oct. 25, 1992, [106 Stat. 3403](https://www.govinfo.gov/link/statute/106/3403); amended [Pub. L. 104–294, title VI, § 607](https://www.govinfo.gov/link/plaw/104/public/294) (l), Oct. 11, 1996, [110 Stat. 3512](https://www.govinfo.gov/link/statute/110/3512); [Pub. L. 105–187, § 2](https://www.govinfo.gov/link/plaw/105/public/187), June 24, 1998, [112 Stat. 618](https://www.govinfo.gov/link/statute/112/618).)*

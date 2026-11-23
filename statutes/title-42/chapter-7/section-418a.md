@@ -3,9 +3,10 @@ title: "Section 418a - Voluntary agreements for coverage of Indian tribal counci
 usc_title: 42
 usc_section: "418a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 418a"
-generated_at: "2026-03-30T02:56:10.865Z"
+generated_at: "2026-11-23T20:27:20.795Z"
+status: "active"
 ---
 
 # § 418a. Voluntary agreements for coverage of Indian tribal council members
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:10.865Z"
   - **(1)** Any agreement under this section shall be effective with respect to services performed after an effective date specified in such agreement, provided that such date may not be earlier than the first day of the next calendar month after the month in which the agreement is executed by both parties.
   - **(2)** At the request of the Indian tribe at the time of the agreement, such agreement may apply with respect to services performed before such effective date for which there were timely paid in good faith (and not subsequently refunded) to the Secretary of the Treasury amounts equivalent to the sum of the taxes which would have been imposed by sections 3101 and 3111 of the Internal Revenue Code of 1986 had such services constituted employment for purposes of chapter 21 of such Code. No agreement under this section may require payment to be made after the effective date specified in such agreement of any taxes with respect to services performed before such effective date.
 - **(d)** No agreement under this section may be terminated on or after the effective date of the agreement.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title II, § 218A, as added [Pub. L. 115–243, § 2(a)](https://www.govinfo.gov/link/plaw/115/public/243), Sept. 20, 2018, [132 Stat. 2894](https://www.govinfo.gov/link/statute/132/2894).)*

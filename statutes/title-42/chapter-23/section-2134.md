@@ -3,9 +3,10 @@ title: "Section 2134 - Medical, industrial, and commercial licenses"
 usc_title: 42
 usc_section: "2134"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2134"
-generated_at: "2026-03-30T02:56:11.149Z"
+generated_at: "2026-11-23T20:27:22.070Z"
+status: "active"
 ---
 
 # § 2134. Medical, industrial, and commercial licenses
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.149Z"
       - **(iii)** a combination of nonenergy services and energy; and
     - **(B)** not more than 50 percent of the annual costs to the licensee of owning and operating the facility are devoted to the sale of energy.
 - **(d)** No license under this section may be given to any person for activities which are not under or within the jurisdiction of the United States, except for the export of production or utilization facilities under terms of an agreement for cooperation arranged pursuant to section 2153 of this title or except under the provisions of section 2139 of this title . No license may be issued to any corporation or other entity if the Commission knows or has reason to believe it is owned, controlled, or dominated by an alien, a foreign corporation, or a foreign government. In any event, no license may be issued to any person within the United States if, in the opinion of the Commission, the issuance of a license to such person would be inimical to the common defense and security or to the health and safety of the public.
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 104, as added Aug. 30, 1954, ch. 1073, § 1, [68 Stat. 937](https://www.govinfo.gov/link/statute/68/937); amended [Pub. L. 91–560, § 5](https://www.govinfo.gov/link/plaw/91/public/560), Dec. 19, 1970, [84 Stat. 1472](https://www.govinfo.gov/link/statute/84/1472); renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944); [Pub. L. 115–439, title I, § 106(b)](https://www.govinfo.gov/link/plaw/115/public/439), Jan. 14, 2019, [132 Stat. 5577](https://www.govinfo.gov/link/statute/132/5577); [Pub. L. 118–67, div. B, title VI, § 601](https://www.govinfo.gov/link/plaw/118/public/67), July 9, 2024, [138 Stat. 1481](https://www.govinfo.gov/link/statute/138/1481).)*

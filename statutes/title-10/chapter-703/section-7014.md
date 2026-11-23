@@ -3,9 +3,10 @@ title: "Section 7014 - Office of the Secretary of the Army"
 usc_title: 10
 usc_section: "7014"
 chapter: 703
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 7014"
-generated_at: "2026-03-30T02:53:38.228Z"
+generated_at: "2026-11-23T20:25:52.036Z"
+status: "active"
 ---
 
 # § 7014. Office of the Secretary of the Army
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:53:38.228Z"
   - **(3)** The total number of general officers assigned or detailed to permanent duty in the Office of the Secretary of the Army and on the Army Staff may not exceed 67.
   - **(4)** The limitations in paragraphs (1), (2), and (3) do not apply in time of war.
   - **(5)** Each limitation in paragraphs (1) and (2) may be exceeded by a number equal to 15 percent of such limitation in time of national emergency.
+
+## Source Credit
+
+*(Added [Pub. L. 99–433, title V, § 501(a)(5)](https://www.govinfo.gov/link/plaw/99/public/433), Oct. 1, 1986, [100 Stat. 1036](https://www.govinfo.gov/link/statute/100/1036), § 3014; amended [Pub. L. 100–180, div. A, title XIII, § 1314(b)(7)](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1175](https://www.govinfo.gov/link/statute/101/1175); [Pub. L. 100–456, div. A, title III, § 325(a)](https://www.govinfo.gov/link/plaw/100/public/456), Sept. 29, 1988, [102 Stat. 1955](https://www.govinfo.gov/link/statute/102/1955); [Pub. L. 101–189, div. A, title VI, § 652(a)(4)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1461](https://www.govinfo.gov/link/statute/103/1461); [Pub. L. 107–107, div. A, title X, § 1048(a)(27)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1225](https://www.govinfo.gov/link/statute/115/1225); [Pub. L. 107–314, div. A, title V, § 504(c)(2)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2532](https://www.govinfo.gov/link/statute/116/2532); [Pub. L. 114–328, div. A, title IX, § 903(c)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2344](https://www.govinfo.gov/link/statute/130/2344); renumbered § 7014, [Pub. L. 115–232, div. A, title VIII, § 808(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1838](https://www.govinfo.gov/link/statute/132/1838); [Pub. L. 116–92, div. A, title IX, § 901(a)(3)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1541](https://www.govinfo.gov/link/statute/133/1541).)*

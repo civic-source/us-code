@@ -3,9 +3,10 @@ title: "Section 7423 - Personnel administration: full-time employees"
 usc_title: 38
 usc_section: "7423"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7423"
-generated_at: "2026-03-30T02:55:53.531Z"
+generated_at: "2026-11-23T20:27:02.019Z"
+status: "active"
 ---
 
 # § 7423. Personnel administration: full-time employees
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:55:53.531Z"
     - **(B)** Participation of such health-care professionals in a leave transfer program or a leave bank program pursuant to an agreement entered into under subparagraph (A) shall be subject to such requirements and conditions as may be prescribed in such agreement.
   - **(5)** The Secretary is not required to establish a leave transfer program for any personnel permitted to participate in a leave transfer program pursuant to an agreement referred to in paragraph (4).
 - **(f)** The Secretary may purchase promotional items of nominal value for use in the recruitment of individuals for employment under this chapter. The Secretary shall prescribe guidelines for the administration of the preceding sentence.
+
+## Source Credit
+
+*(Added and amended [Pub. L. 102–40, title II, § 202](https://www.govinfo.gov/link/plaw/102/public/40), title IV, § 401(b)(3)(A), May 7, 1991, [105 Stat. 201](https://www.govinfo.gov/link/statute/105/201), 230; [Pub. L. 102–405, title II, § 203](https://www.govinfo.gov/link/plaw/102/public/405), title III, § 302(c)(1), Oct. 9, 1992, [106 Stat. 1983](https://www.govinfo.gov/link/statute/106/1983), 1984; [Pub. L. 104–262, title III, § 347](https://www.govinfo.gov/link/plaw/104/public/262), Oct. 9, 1996, [110 Stat. 3208](https://www.govinfo.gov/link/statute/110/3208); [Pub. L. 114–315, title VI, § 614](https://www.govinfo.gov/link/plaw/114/public/315), Dec. 16, 2016, [130 Stat. 1577](https://www.govinfo.gov/link/statute/130/1577); [Pub. L. 117–168, title IX, § 906(c)(2)](https://www.govinfo.gov/link/plaw/117/public/168), Aug. 10, 2022, [136 Stat. 1812](https://www.govinfo.gov/link/statute/136/1812).)*

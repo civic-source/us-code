@@ -3,12 +3,17 @@ title: "Section 1507 - Public lands"
 usc_title: 48
 usc_section: "1507"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1507"
-generated_at: "2026-03-30T02:56:14.587Z"
+generated_at: "2026-11-23T20:27:28.057Z"
+status: "active"
 ---
 
 # § 1507. Public lands
 
 This chapter shall not in any manner be construed to authorize aliens to acquire title from the United States to any of the public lands of the United States or to in any manner affect or change the laws regulating the disposal of the public lands of the United States.
 
+
+## Source Credit
+
+*(Mar. 3, 1887, ch. 340, § 7, as added Mar. 2, 1897, ch. 363, [29 Stat. 619](https://www.govinfo.gov/link/statute/29/619); amended Feb. 23, 1905, ch. 733, § 1, [33 Stat. 733](https://www.govinfo.gov/link/statute/33/733).)*

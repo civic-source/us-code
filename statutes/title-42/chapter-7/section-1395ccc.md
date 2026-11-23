@@ -3,9 +3,10 @@ title: "Section 1395ccc - Offset of payments to individuals to collect past-due 
 usc_title: 42
 usc_section: "1395ccc"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1395ccc"
-generated_at: "2026-03-30T02:56:11.026Z"
+generated_at: "2026-11-23T20:27:21.476Z"
+status: "active"
 ---
 
 # § 1395ccc. Offset of payments to individuals to collect past-due obligations arising from breach of scholarship and loan contract
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:56:11.026Z"
   - **(5)** No deduction shall be made under this subsection if, within the 6-month period after notice is given to the provider, organization, or plan, the individual pays the past-due obligation, or ceases to be employed by the provider, organization, or plan.
   - **(6)** The Secretary shall also apply the provisions of this subsection in the case of an individual who is a member of a group practice, if such group practice submits bills under this program as a group, rather than by individual physicians. 3
 - **(e)** Amounts equal to the amounts deducted pursuant to this section shall be transferred from the Trust Fund from which the payment to the individual, provider, or other entity would otherwise have been made, to the general fund in the Treasury, and shall be credited as payment of the past-due obligation of the individual from whom (or with respect to whom) the deduction was made.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1892, as added [Pub. L. 100–203, title IV, § 4052(a)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–95](https://www.govinfo.gov/link/statute/101/1330); amended [Pub. L. 100–360, title IV, § 411(f)(10)(A)](https://www.govinfo.gov/link/plaw/100/public/360), (C)(i), July 1, 1988, [102 Stat. 780](https://www.govinfo.gov/link/statute/102/780); [Pub. L. 100–485, title VI, § 608(d)(21)(E)](https://www.govinfo.gov/link/plaw/100/public/485) –(H), Oct. 13, 1988, [102 Stat. 2420](https://www.govinfo.gov/link/statute/102/2420).)*

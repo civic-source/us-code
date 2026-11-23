@@ -3,9 +3,10 @@ title: "Section 2464 - Core logistics capabilities"
 usc_title: 10
 usc_section: "2464"
 chapter: 146
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2464"
-generated_at: "2026-03-30T02:53:38.159Z"
+generated_at: "2026-11-23T20:25:51.590Z"
+status: "active"
 ---
 
 # § 2464. Core logistics capabilities
@@ -39,3 +40,17 @@ generated_at: "2026-03-30T02:53:38.159Z"
   - **(8)** In the case of any shortfall that is identified, a description of the shortfall and an identification of the subcategory of the work breakdown structure in which the shortfall occurred.
   - **(9)** In the case of any work breakdown structure category designated as a special interest item or other pursuant to such Instruction, or any successor instruction, an explanation for such designation.
   - **(10)** Whether the core depot-level maintenance and repair capability requirements described in the report submitted under this subsection for the preceding fiscal year have been executed.
+
+Necessity for Core Logistics Capabilities
+
+Limitation on Contracting
+
+Notification of Determinations Regarding Certain Commercial Products or Commercial Services
+
+Biennial Core Report
+
+“To ensure that the biennial core reporting procedures of the Department of Defense align with the requirements of section 2464 of title 10 , United States Code, and that each reporting agency provides accurate and complete information, the Secretary of Defense shall direct the Under Secretary of Defense for Acquisition, Technology and Logistics to update the Department of Defense Guidance, in particular Department of Defense Instruction 4151.20, to require future biennial core reports include instructions to the reporting agencies on how to—
+
+## Source Credit
+
+*(Added and amended [Pub. L. 112–239, div. A, title III, § 322(b)(2)(A)](https://www.govinfo.gov/link/plaw/112/public/239), (d), Jan. 2, 2013, [126 Stat. 1695](https://www.govinfo.gov/link/statute/126/1695); [Pub. L. 115–91, div. A, title III, § 332](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1354](https://www.govinfo.gov/link/statute/131/1354); [Pub. L. 115–232, div. A, title VIII, § 836(e)(10)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1870](https://www.govinfo.gov/link/statute/132/1870); [Pub. L. 118–31, div. A, title III, § 342](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 224](https://www.govinfo.gov/link/statute/137/224).)*

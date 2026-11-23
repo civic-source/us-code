@@ -3,9 +3,10 @@ title: "Section 528 - Certain homeowners associations"
 usc_title: 26
 usc_section: "528"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 528"
-generated_at: "2026-03-30T02:55:27.715Z"
+generated_at: "2026-11-23T20:26:45.806Z"
+status: "active"
 ---
 
 # § 528. Certain homeowners associations
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:55:27.715Z"
     - **(A)** owners of condominium housing units in the case of a condominium management association,
     - **(B)** owners of real property in the case of a residential real estate management association, or
     - **(C)** owners of timeshare rights to use, or timeshare ownership interests in, real property in the case of a timeshare association.
+
+## Source Credit
+
+*(Added [Pub. L. 94–455, title XXI, § 2101(a)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1897](https://www.govinfo.gov/link/statute/90/1897); amended [Pub. L. 95–600, title III, § 301(b)(7)](https://www.govinfo.gov/link/plaw/95/public/600), title IV, § 403(c)(2), title VII, § 701(n)(1), Nov. 6, 1978, [92 Stat. 2821](https://www.govinfo.gov/link/statute/92/2821), 2868, 2907; [Pub. L. 96–605, title I, § 105(a)](https://www.govinfo.gov/link/plaw/96/public/605), Dec. 28, 1980, [94 Stat. 3523](https://www.govinfo.gov/link/statute/94/3523); [Pub. L. 105–34, title IX, § 966(a)](https://www.govinfo.gov/link/plaw/105/public/34) –(d), Aug. 5, 1997, [111 Stat. 894](https://www.govinfo.gov/link/statute/111/894), 895.)*

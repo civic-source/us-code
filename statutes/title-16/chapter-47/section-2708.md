@@ -3,9 +3,10 @@ title: "Section 2708 - Definitions"
 usc_title: 16
 usc_section: "2708"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 2708"
-generated_at: "2026-03-30T02:54:23.006Z"
+generated_at: "2026-11-23T20:26:20.619Z"
+status: "active"
 ---
 
 # § 2708. Definitions
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:23.006Z"
 - **(b)** The requirement in subsection (a)(1) that a project be located at the site of an existing dam in order to qualify as a small hydroelectric power project, and the other provisions of this chapter which require that a project be at or in connection with an existing dam (or utilize the potential of such dam) in order to be assisted under or included within such provisions, shall not be construed to exclude—
   - **(1)** from the definition contained in such subsection (a)(1), or
   - **(2)** from any other provision of this chapter,
+
+## Source Credit
+
+*([Pub. L. 95–617, title IV, § 408](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3156](https://www.govinfo.gov/link/statute/92/3156); [Pub. L. 96–294, title IV, § 408(a)](https://www.govinfo.gov/link/plaw/96/public/294), (c), June 30, 1980, [94 Stat. 718](https://www.govinfo.gov/link/statute/94/718); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 109–58, title II, § 246](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 679](https://www.govinfo.gov/link/statute/119/679).)*

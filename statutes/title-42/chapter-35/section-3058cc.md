@@ -3,9 +3,10 @@ title: "Section 3058cc - Administration"
 usc_title: 42
 usc_section: "3058cc"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3058cc"
-generated_at: "2026-03-30T02:56:11.181Z"
+generated_at: "2026-11-23T20:27:22.252Z"
+status: "active"
 ---
 
 # § 3058cc. Administration
@@ -18,3 +19,7 @@ A State agency may carry out vulnerable elder rights protection activities eithe
   - **(4)** institutions of higher education;
   - **(5)** Indian tribes; or
   - **(6)** nonprofit service providers or volunteer organizations.
+
+## Source Credit
+
+*([Pub. L. 89–73, title VII, § 762](https://www.govinfo.gov/link/plaw/89/public/73), as added [Pub. L. 102–375, title VII, § 707](https://www.govinfo.gov/link/plaw/102/public/375), Sept. 30, 1992, [106 Stat. 1291](https://www.govinfo.gov/link/statute/106/1291); amended [Pub. L. 106–501, title VIII, § 801(e)(5)](https://www.govinfo.gov/link/plaw/106/public/501), Nov. 13, 2000, [114 Stat. 2293](https://www.govinfo.gov/link/statute/114/2293).)*

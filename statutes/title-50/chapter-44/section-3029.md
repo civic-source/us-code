@@ -3,9 +3,10 @@ title: "Section 3029 - Civil Liberties Protection Officer"
 usc_title: 50
 usc_section: "3029"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3029"
-generated_at: "2026-03-30T02:56:26.228Z"
+generated_at: "2026-11-23T20:27:30.883Z"
+status: "active"
 ---
 
 # § 3029. Civil Liberties Protection Officer
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:26.228Z"
   - **(6)** conduct privacy impact assessments when appropriate or as required by law; and
   - **(7)** perform such other duties as may be prescribed by the Director of National Intelligence or specified by law.
 - **(c)** When appropriate, the Civil Liberties Protection Officer may refer complaints to the Office of Inspector General having responsibility for the affected element of the department or agency of the intelligence community to conduct an investigation under paragraph (3) of subsection (b).
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title I, § 103D, as added [Pub. L. 108–458, title I, § 1011(a)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3658](https://www.govinfo.gov/link/statute/118/3658).)*

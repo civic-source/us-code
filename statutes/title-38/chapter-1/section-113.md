@@ -3,9 +3,10 @@ title: "Section 113 - Treatment of certain programs under sequestration procedur
 usc_title: 38
 usc_section: "113"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 113"
-generated_at: "2026-03-30T02:55:53.469Z"
+generated_at: "2026-11-23T20:27:01.550Z"
+status: "active"
 ---
 
 # § 113. Treatment of certain programs under sequestration procedures
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:53.469Z"
   - **(1)** The term “sequestration” means a reduction in spending authority and loan guarantee commitments generally throughout the Government under the Balanced Budget and Emergency Deficit Control Act of 1985 ( 2 U.S.C. 901 et seq.) or any other law.
   - **(2)** The term “sequestration law” means a law enacted with respect to a sequestration under the Balanced Budget and Emergency Deficit Control Act of 1985 ( 2 U.S.C. 901 et seq.) or any other law (under the procedures specified in that Act or otherwise).
   - **(3)** The term “sequestration order” means an order of the President issued under part C of such Act.
+
+## Source Credit
+
+*(Added [Pub. L. 99–576, title VI, § 601(a)(1)](https://www.govinfo.gov/link/plaw/99/public/576), Oct. 28, 1986, [100 Stat. 3287](https://www.govinfo.gov/link/statute/100/3287); amended [Pub. L. 100–198, § 12(a)](https://www.govinfo.gov/link/plaw/100/public/198), Dec. 21, 1987, [101 Stat. 1325](https://www.govinfo.gov/link/statute/101/1325); [Pub. L. 100–322, title IV, § 411(b)](https://www.govinfo.gov/link/plaw/100/public/322), (c), May 20, 1988, [102 Stat. 547](https://www.govinfo.gov/link/statute/102/547); [Pub. L. 102–40, title IV, § 402(d)(1)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 239](https://www.govinfo.gov/link/statute/105/239); [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(a)(2)(B)(i), (3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, [105 Stat. 403–406](https://www.govinfo.gov/link/statute/105/403); [Pub. L. 116–315, title II, § 2202(b)(1)(D)](https://www.govinfo.gov/link/plaw/116/public/315), Jan. 5, 2021, [134 Stat. 4985](https://www.govinfo.gov/link/statute/134/4985).)*

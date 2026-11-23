@@ -3,9 +3,10 @@ title: "Section 185 - Inspector General of the Library of Congress"
 usc_title: 2
 usc_section: "185"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 185"
-generated_at: "2026-03-30T02:53:04.792Z"
+generated_at: "2026-11-23T20:25:28.860Z"
+status: "active"
 ---
 
 # § 185. Inspector General of the Library of Congress
@@ -70,3 +71,17 @@ generated_at: "2026-03-30T02:53:04.792Z"
 - **(f)** The individual who serves in the position of Inspector General of the Library of Congress on August 2, 2005 , shall continue to serve in that position, subject to removal in accordance with this section.
 - **(g)** References in any other Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or relating to the Inspector General of the Library of Congress shall be deemed to refer to the Inspector General of the Library of Congress as set forth under this section.
 - **(h)** This section shall be effective on August 2, 2005 .
+
+(aa) is a citizen of the United States;
+
+(bb) has successfully completed a basic law enforcement training program or military or other equivalent; and
+
+(cc) is not prohibited from receiving a firearm under Federal law, including under section 922(g)(9) of title 18 , because of a conviction of a misdemeanor crime of domestic violence.
+
+(aa) determine whether an individual meets the requirements under this paragraph; and
+
+(bb) revoke any authority granted to an individual under subparagraph (A) if the individual is not in compliance with the requirements of this paragraph.
+
+## Source Credit
+
+*([Pub. L. 109–55, title I, § 1307](https://www.govinfo.gov/link/plaw/109/public/55), Aug. 2, 2005, [119 Stat. 583](https://www.govinfo.gov/link/statute/119/583); [Pub. L. 110–161, div. H, title I, § 1004(d)(3)](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2234](https://www.govinfo.gov/link/statute/121/2234); [Pub. L. 110–178, § 4(c)](https://www.govinfo.gov/link/plaw/110/public/178), Jan. 7, 2008, [121 Stat. 2552](https://www.govinfo.gov/link/statute/121/2552); [Pub. L. 111–145, § 6(d)(1)](https://www.govinfo.gov/link/plaw/111/public/145), Mar. 4, 2010, [124 Stat. 54](https://www.govinfo.gov/link/statute/124/54); [Pub. L. 116–94, div. P, title XVI](https://www.govinfo.gov/link/plaw/116/public/94), §§ 1602(a), 1603(a), 1604(a)(1), 1605(a), Dec. 20, 2019, [133 Stat. 3209](https://www.govinfo.gov/link/statute/133/3209), 3212, 3218, 3219; [Pub. L. 117–286, § 4(b)(1)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4342](https://www.govinfo.gov/link/statute/136/4342).)*

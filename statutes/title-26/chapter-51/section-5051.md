@@ -3,9 +3,10 @@ title: "Section 5051 - Imposition and rate of tax"
 usc_title: 26
 usc_section: "5051"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 5051"
-generated_at: "2026-03-30T02:55:27.819Z"
+generated_at: "2026-11-23T20:26:46.399Z"
+status: "active"
 ---
 
 # § 5051. Imposition and rate of tax
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:55:27.819Z"
 - **(c)** The production of any beer at any place in the United States shall be subject to tax at the rate prescribed in subsection (a) and such tax shall be due and payable as provided in section 5054(a)(3) unless—
   - **(1)** such beer is produced in a brewery qualified under the provisions of subchapter G, or
   - **(2)** such production is exempt from tax under section 5053(e) (relating to beer for personal or family use).
+
+## Source Credit
+
+*(Added [Pub. L. 85–859, title II, § 201](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1333](https://www.govinfo.gov/link/statute/72/1333); amended [Pub. L. 86–75, § 3(a)(6)](https://www.govinfo.gov/link/plaw/86/public/75), June 30, 1959, [73 Stat. 157](https://www.govinfo.gov/link/statute/73/157); [Pub. L. 86–564, title II, § 202(a)(8)](https://www.govinfo.gov/link/plaw/86/public/564), June 30, 1960, [74 Stat. 290](https://www.govinfo.gov/link/statute/74/290); [Pub. L. 87–72, § 3(a)(8)](https://www.govinfo.gov/link/plaw/87/public/72), June 30, 1961, [75 Stat. 193](https://www.govinfo.gov/link/statute/75/193); [Pub. L. 87–508, § 3(a)(7)](https://www.govinfo.gov/link/plaw/87/public/508), June 28, 1962, [76 Stat. 114](https://www.govinfo.gov/link/statute/76/114); [Pub. L. 88–52, § 3(a)(8)](https://www.govinfo.gov/link/plaw/88/public/52), June 29, 1963, [77 Stat. 72](https://www.govinfo.gov/link/statute/77/72); [Pub. L. 88–348, § 2(a)(8)](https://www.govinfo.gov/link/plaw/88/public/348), June 30, 1964, [78 Stat. 237](https://www.govinfo.gov/link/statute/78/237); [Pub. L. 89–44, title V, § 501(d)](https://www.govinfo.gov/link/plaw/89/public/44), June 21, 1965, [79 Stat. 150](https://www.govinfo.gov/link/statute/79/150); [Pub. L. 94–529, § 1](https://www.govinfo.gov/link/plaw/94/public/529), Oct. 17, 1976, [90 Stat. 2485](https://www.govinfo.gov/link/statute/90/2485); [Pub. L. 95–458, § 2(b)(2)(A)](https://www.govinfo.gov/link/plaw/95/public/458), Oct. 14, 1978, [92 Stat. 1256](https://www.govinfo.gov/link/statute/92/1256); [Pub. L. 101–508, title XI, § 11201(c)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–416](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 115–97, title I, § 13802(a)](https://www.govinfo.gov/link/plaw/115/public/97) –(d), Dec. 22, 2017, [131 Stat. 2170](https://www.govinfo.gov/link/statute/131/2170), 2171; [Pub. L. 116–94, div. Q, title I, § 144(b)(1)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3234](https://www.govinfo.gov/link/statute/133/3234); [Pub. L. 116–260, div. EE, title I](https://www.govinfo.gov/link/plaw/116/public/260), §§ 106(b)(1)–(4), 107(b)(1), 110(a), Dec. 27, 2020, [134 Stat. 3042](https://www.govinfo.gov/link/statute/134/3042), 3046, 3049.)*

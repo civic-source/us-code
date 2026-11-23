@@ -3,9 +3,10 @@ title: "Section 5311 - Definitions"
 usc_title: 12
 usc_section: "5311"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5311"
-generated_at: "2026-03-30T02:53:53.528Z"
+generated_at: "2026-11-23T20:25:59.462Z"
+status: "active"
 ---
 
 # § 5311. Definitions
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:53.528Z"
   - **(7)** The terms “significant nonbank financial company” and “significant bank holding company” have the meanings given those terms by rule of the Board of Governors, but in no instance shall the term “significant nonbank financial company” include those entities that are excluded under paragraph (4)(B).
 - **(b)** The Board of Governors shall establish, by regulation, the requirements for determining if a company is predominantly engaged in financial activities, as defined in subsection (a)(6).
 - **(c)** For purposes of the application of parts A and C (other than section 5323(b) of this title ) with respect to a foreign nonbank financial company, references in this subchapter to “company” or “subsidiary” include only the United States activities and subsidiaries of such foreign company, except as otherwise provided.
+
+## Source Credit
+
+*([Pub. L. 111–203, title I, § 102](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1391](https://www.govinfo.gov/link/statute/124/1391).)*

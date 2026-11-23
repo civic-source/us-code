@@ -3,9 +3,10 @@ title: "Section 9227 - Travel recommendations for United States citizens to Nort
 usc_title: 22
 usc_section: "9227"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9227"
-generated_at: "2026-03-30T02:55:05.464Z"
+generated_at: "2026-11-23T20:26:32.761Z"
+status: "active"
 ---
 
 # § 9227. Travel recommendations for United States citizens to North Korea
@@ -16,3 +17,7 @@ The Secretary of State shall expand the scope and frequency of issuance of trave
   - **(2)** publicly released or credible open source information on the past and present detention and abduction or alleged abduction of citizens of the United States, South Korea, or Japan by North Korean authorities;
   - **(3)** unclassified information about the nature of the North Korean regime, as described in congressionally mandated reports and annual reports issued by the Department of State and the United Nations, including information about North Korea’s weapons of mass destruction programs, illicit activities, international sanctions violations, and human rights situation; and
   - **(4)** any other information that the Secretary deems useful to provide United States citizens with a comprehensive picture of the nature of the North Korean regime.
+
+## Source Credit
+
+*([Pub. L. 114–122, title II, § 207](https://www.govinfo.gov/link/plaw/114/public/122), Feb. 18, 2016, [130 Stat. 108](https://www.govinfo.gov/link/statute/130/108).)*

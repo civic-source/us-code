@@ -3,9 +3,10 @@ title: "Section 303a - Development of water transportation"
 usc_title: 49
 usc_section: "303a"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 303a"
-generated_at: "2026-03-30T02:56:19.298Z"
+generated_at: "2026-11-23T20:27:34.518Z"
+status: "active"
 ---
 
 # § 303a. Development of water transportation
@@ -23,3 +24,70 @@ generated_at: "2026-03-30T02:56:19.298Z"
     - **(B)** water carriers using those waterways are interchanging traffic with rail carriers;
   - **(5)** investigate other matters that may promote and encourage inland water transportation; and
   - **(6)** compile, publish, and distribute information about transportation on inland waterways that the Secretary considers useful to the commercial interests of the United States.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 303a | 49 App.:142. | Feb. 28, 1920, ch. 91, § 500 , 41 Stat. 499 ; Aug. 6, 1981 , Pub. L. 97–31, § 12(9) , 95 Stat. 154 . |
+
+
+Policy
+
+Definition
+
+Requirements
+
+Historical and Revision Notes
+
+303a
+
+Feb. 28, 1920, ch. 91, § 500
+
+41 Stat. 499
+
+Aug. 6, 1981
+
+Pub. L. 97–31, § 12(9)
+
+95 Stat. 154
+
+Purpose
+
+Definitions
+
+Advisory committee
+
+Arctic
+
+Establishment of the Arctic Shipping Federal Advisory Committee.—
+
+Establishment of advisory committee.—
+
+In general
+
+Meetings
+
+Membership.—
+
+In general
+
+Composition
+
+Terms.—
+
+Limitations
+
+Vacancies
+
+Functions
+
+Report to Congress
+
+Termination of the Advisory Committee
+
+International Engagement
+
+Tribal Consultation
+
+## Source Credit
+
+*([Pub. L. 103–272, § 4(j)(6)(A)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1366](https://www.govinfo.gov/link/statute/108/1366).)*

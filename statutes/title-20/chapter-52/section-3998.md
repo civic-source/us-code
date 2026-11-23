@@ -3,9 +3,10 @@ title: "Section 3998 - Computation of grant amounts"
 usc_title: 20
 usc_section: "3998"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 3998"
-generated_at: "2026-03-30T02:54:48.182Z"
+generated_at: "2026-11-23T20:26:14.750Z"
+status: "active"
 ---
 
 # § 3998. Computation of grant amounts
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:48.182Z"
   - **(1)** an amount equal to its share of funds appropriated under chapter 1 of the Education Consolidation and Improvement Act; or
   - **(2)** $225,000.
 - **(c)** If sums appropriated to carry out this part are not sufficient to permit the Secretary to pay in full the grants which States may receive under subsection (b), the amount of such grants shall be ratably reduced.
+
+## Source Credit
+
+*([Pub. L. 98–377, title III, § 328](https://www.govinfo.gov/link/plaw/98/public/377), as added [Pub. L. 100–418, title VI, § 6031(a)(2)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1482](https://www.govinfo.gov/link/statute/102/1482).)*

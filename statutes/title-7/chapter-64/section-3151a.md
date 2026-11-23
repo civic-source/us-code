@@ -3,9 +3,10 @@ title: "Section 3151a - Veterinary medicine loan repayment"
 usc_title: 7
 usc_section: "3151a"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 3151a"
-generated_at: "2026-03-30T02:53:42.394Z"
+generated_at: "2026-11-23T20:25:41.563Z"
+status: "active"
 ---
 
 # § 3151a. Veterinary medicine loan repayment
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:53:42.394Z"
 - **(d)** None of the funds appropriated to the Secretary under subsection (f) may be used to carry out section 5379 of title 5 .
 - **(e)** Notwithstanding subchapter II of chapter 5 of title 5, not later than 270 days after the date of enactment of this subsection, the Secretary shall promulgate regulations to carry out this section.
 - **(f)** There are authorized to be appropriated for carrying out this section such sums as may be necessary and such sums shall remain available to the Secretary for the purposes of this section until expended.
+
+## Source Credit
+
+*([Pub. L. 95–113, title XIV, § 1415A](https://www.govinfo.gov/link/plaw/95/public/113), as added [Pub. L. 108–161, § 2](https://www.govinfo.gov/link/plaw/108/public/161), Dec. 6, 2003, [117 Stat. 2014](https://www.govinfo.gov/link/statute/117/2014); amended [Pub. L. 110–234, title VII, § 7105(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1216](https://www.govinfo.gov/link/statute/122/1216); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, § 7105(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1977.)*

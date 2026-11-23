@@ -3,9 +3,10 @@ title: "Section 285t - Purpose of Institute"
 usc_title: 42
 usc_section: "285t"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 285t"
-generated_at: "2026-03-30T02:56:10.751Z"
+generated_at: "2026-11-23T20:27:20.259Z"
+status: "active"
 ---
 
 # § 285t. Purpose of Institute
@@ -60,3 +61,13 @@ generated_at: "2026-03-30T02:56:10.751Z"
   - **(1)** The Secretary shall, in accordance with section 284a of this title , establish an advisory council to advise, assist, consult with, and make recommendations to the Director of the Institute on matters relating to the activities described in subsection (a), and with respect to such activities to carry out any other functions described in section 284a of this title for advisory councils under such section. Functions under the preceding sentence shall include making recommendations on budgetary allocations made in the plan under subsection (f), and shall include reviewing reports under subsection (k) before the reports are submitted under such subsection.
   - **(2)** With respect to the membership of the advisory council under paragraph (1), a majority of the members shall be individuals with demonstrated expertise regarding minority health disparity and other health disparity issues; representatives of communities impacted by minority and other health disparities shall be included; and a diversity of health professionals shall be represented. The membership shall in addition include a representative of the Office of Behavioral and Social Sciences Research under section 283c of this title .
 - **(k)** The Director of the Institute, as the primary Federal official with responsibility for coordinating all research and activities conducted or supported by the National Institutes of Health on minority health and health disparities, shall plan, coordinate, review, and evaluate research and other activities conducted or supported by the national research institutes and national centers. The Director of the Institute may foster partnerships between the national research institutes and national centers and may encourage the funding of collaborative research projects to achieve the goals of the National Institutes of Health that are related to minority health and health disparities.
+
+“The Congress finds as follows:
+
+Public Awareness on Health Disparities
+
+Dissemination of Information on Health Disparities
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title IV, § 464z–3, formerly § 485E, as added [Pub. L. 106–525, title I, § 101(a)](https://www.govinfo.gov/link/plaw/106/public/525), Nov. 22, 2000, [114 Stat. 2497](https://www.govinfo.gov/link/statute/114/2497); amended [Pub. L. 109–482, title I](https://www.govinfo.gov/link/plaw/109/public/482), §§ 103(b)(44), 104(b)(1)(N), Jan. 15, 2007, [120 Stat. 3688](https://www.govinfo.gov/link/statute/120/3688), 3693; renumbered § 464z–3 and amended [Pub. L. 111–148, title X, § 10334(c)(1)(D)](https://www.govinfo.gov/link/plaw/111/public/148), (2), Mar. 23, 2010, [124 Stat. 973](https://www.govinfo.gov/link/statute/124/973); [Pub. L. 112–74, div. F, title II, § 221(d)(3)](https://www.govinfo.gov/link/plaw/112/public/74), Dec. 23, 2011, [125 Stat. 1090](https://www.govinfo.gov/link/statute/125/1090); [Pub. L. 114–255, div. A, title II, § 2038(f)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1066](https://www.govinfo.gov/link/statute/130/1066); [Pub. L. 117–104, § 2](https://www.govinfo.gov/link/plaw/117/public/104), Mar. 18, 2022, [136 Stat. 1117](https://www.govinfo.gov/link/statute/136/1117).)*

@@ -3,9 +3,10 @@ title: "Section 6039E - Information concerning resident status"
 usc_title: 26
 usc_section: "6039E"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6039E"
-generated_at: "2026-03-30T02:55:27.831Z"
+generated_at: "2026-11-23T20:26:46.509Z"
+status: "active"
 ---
 
 # § 6039E. Information concerning resident status
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:27.831Z"
   - **(1)** provide any such statement to the Secretary, and
   - **(2)** provide to the Secretary the name (and any other identifying information) of any individual refusing to comply with the provisions of subsection (a).
 - **(e)** The Secretary may by regulations exempt any class of individuals from the requirements of this section if he determines that applying this section to such individuals is not necessary to carry out the purposes of this section.
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title XII, § 1234(a)(1)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2565](https://www.govinfo.gov/link/statute/100/2565); amended [Pub. L. 100–647, title I, § 1012](https://www.govinfo.gov/link/plaw/100/public/647) (o), Nov. 10, 1988, [102 Stat. 3515](https://www.govinfo.gov/link/statute/102/3515).)*

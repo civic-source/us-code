@@ -3,9 +3,10 @@ title: "Section 7108 - Actions against significant traffickers in persons"
 usc_title: 22
 usc_section: "7108"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7108"
-generated_at: "2026-03-30T02:55:05.438Z"
+generated_at: "2026-11-23T20:26:32.655Z"
+status: "active"
 ---
 
 # § 7108. Actions against significant traffickers in persons
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:05.438Z"
   - **(3)** Such rules and regulations shall include procedures affording an opportunity for a person to be heard in an expeditious manner, either in person or through a representative, for the purpose of seeking changes to or termination of any determination, order, designation or other action associated with the exercise of the authority in subsection (a).
 - **(f)** In this section, the term “foreign person” means any citizen or national of a foreign state or any entity not organized under the laws of the United States, including a foreign government official, but does not include a foreign state.
 - **(g)** Nothing in this section shall be construed as precluding judicial review of the exercise of the authority described in subsection (a).
+
+## Source Credit
+
+*([Pub. L. 106–386, div. A, § 111](https://www.govinfo.gov/link/plaw/106/public/386), Oct. 28, 2000, [114 Stat. 1484](https://www.govinfo.gov/link/statute/114/1484); [Pub. L. 115–425, title I, § 124](https://www.govinfo.gov/link/plaw/115/public/425), Jan. 8, 2019, [132 Stat. 5479](https://www.govinfo.gov/link/statute/132/5479).)*

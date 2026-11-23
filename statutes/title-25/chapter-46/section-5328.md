@@ -3,9 +3,10 @@ title: "Section 5328 - Rules and regulations"
 usc_title: 25
 usc_section: "5328"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 5328"
-generated_at: "2026-03-30T02:54:52.866Z"
+generated_at: "2026-11-23T20:26:25.729Z"
+status: "active"
 ---
 
 # § 5328. Rules and regulations
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:52.866Z"
     - **(D)** Notwithstanding any other provision of law (including any regulation), the Secretary of the Interior and the Secretary of Health and Human Services are authorized to jointly establish and fund such interagency committees or other interagency bodies, including advisory bodies comprised of tribal representatives, as may be necessary or appropriate to carry out the provisions of this chapter.
     - **(E)** If the Secretary determines that an extension of the deadlines under subsection (a)(2)(B) of this section and subparagraph (C) of this paragraph is appropriate, the Secretary may submit proposed legislation to Congress for the extension of such deadlines.
 - **(e)** The Secretary may, with respect to a contract entered into under this chapter, make exceptions in the regulations promulgated to carry out this chapter, or waive such regulations, if the Secretary finds that such exception or waiver is in the best interest of the Indians served by the contract or is consistent with the policies of this chapter, and is not contrary to statutory law. In reviewing each request, the Secretary shall follow the timeline, findings, assistance, hearing, and appeal procedures set forth in section 5321 of this title .
+
+## Source Credit
+
+*([Pub. L. 93–638, title I, § 107](https://www.govinfo.gov/link/plaw/93/public/638), Jan. 4, 1975, [88 Stat. 2212](https://www.govinfo.gov/link/statute/88/2212); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695); [Pub. L. 100–472, title II, § 207](https://www.govinfo.gov/link/plaw/100/public/472), Oct. 5, 1988, [102 Stat. 2295](https://www.govinfo.gov/link/statute/102/2295); [Pub. L. 101–644, title II, § 203(f)](https://www.govinfo.gov/link/plaw/101/public/644), Nov. 29, 1990, [104 Stat. 4666](https://www.govinfo.gov/link/statute/104/4666); [Pub. L. 103–413, title I, § 105](https://www.govinfo.gov/link/plaw/103/public/413), Oct. 25, 1994, [108 Stat. 4269](https://www.govinfo.gov/link/statute/108/4269); [Pub. L. 103–435, § 22(a)(1)](https://www.govinfo.gov/link/plaw/103/public/435), Nov. 2, 1994, [108 Stat. 4575](https://www.govinfo.gov/link/statute/108/4575); [Pub. L. 103–437, § 10(c)(2)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4589](https://www.govinfo.gov/link/statute/108/4589); [Pub. L. 104–133, § 1](https://www.govinfo.gov/link/plaw/104/public/133), Apr. 25, 1996, [110 Stat. 1320](https://www.govinfo.gov/link/statute/110/1320); [Pub. L. 104–287, § 6(e)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3399](https://www.govinfo.gov/link/statute/110/3399).)*

@@ -3,9 +3,10 @@ title: "Section 748 - Abandonments"
 usc_title: 45
 usc_section: "748"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 748"
-generated_at: "2026-03-30T02:55:56.557Z"
+generated_at: "2026-11-23T20:27:05.311Z"
+status: "active"
 ---
 
 # § 748. Abandonments
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:56.557Z"
     - **(B)** If the Corporation receives no bona fide offer under subparagraph (A), within such 120-day period, the Corporation may abandon or dispose of the line as it chooses, except that the Corporation may not dismantle bridges, or other structures (not including rail, signals, and other rail facilities) for 120 days thereafter. The Secretary may require that bridges or other structures (not including rail, signals, and other rail facilities), not be dismantled for an additional 8 months if he assumes all liability of any sort related to such property.
   - **(4)** If the purchaser under paragraph (3)(A) of this subsection of any line of the Corporation abandons such line within five years after such purchase, the proceeds of any track liquidations shall be paid into the general fund of the Treasury of the United States.
 - **(f)** The provisions of section 10903(b)(3) 1 1 So in original. Section 10903(b) of Title 49 , Transportation, does not contain a par. (3). of title 49 shall not apply to any abandonment granted under this section. Any employee who was protected by the compensatory provisions of subchapter V 2 2 See References in Text note below. of this chapter immediately prior to August 13, 1981 , who is deprived of employment by such an abandonment shall be eligible for employee protection under section 797 2 of this title.
+
+## Source Credit
+
+*([Pub. L. 93–236, title III, § 308](https://www.govinfo.gov/link/plaw/93/public/236), as added [Pub. L. 97–35, title XI, § 1156(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 679](https://www.govinfo.gov/link/statute/95/679); amended [Pub. L. 98–181, title II, § 2003(c)(2)](https://www.govinfo.gov/link/plaw/98/public/181), Nov. 30, 1983, [97 Stat. 1298](https://www.govinfo.gov/link/statute/97/1298); [Pub. L. 104–88, title III, § 327(4)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 952](https://www.govinfo.gov/link/statute/109/952).)*

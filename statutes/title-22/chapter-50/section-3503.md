@@ -3,9 +3,10 @@ title: "Section 3503 - Functions"
 usc_title: 22
 usc_section: "3503"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3503"
-generated_at: "2026-03-30T02:55:05.394Z"
+generated_at: "2026-11-23T20:26:32.462Z"
+status: "active"
 ---
 
 # § 3503. Functions
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:05.394Z"
 - **(c)** For purposes of carrying out the functions of the Institute, the President may utilize, in addition to authorities conferred by this chapter, such authority contained in the Foreign Assistance Act of 1961 [ 22 U.S.C. 2151 et seq.], the Foreign Service Act of 1980 [ 22 U.S.C. 3901 et seq.], title V of the Foreign Relations Authorization Act, Fiscal Year 1979 [ 22 U.S.C. 2656a to 2656d], and title IV of the International Development and Food Assistance Act of 1978 [ 22 U.S.C. 2385a ], as the President deems necessary.
 - **(d)** The Institute shall carry out its functions in consultation and cooperation with the agencies of the United States Government, international organizations, and agencies of other governments engaged in promoting economic, social, and technological development in developing countries.
 - **(e)** The President shall prescribe appropriate procedures to assure coordination of the activities of the Institute with other activities of the United States Government in furthering the use of science and technology in the cause of development.
+
+## Source Credit
+
+*([Pub. L. 96–53, title IV, § 403](https://www.govinfo.gov/link/plaw/96/public/53), Aug. 14, 1979, [93 Stat. 372](https://www.govinfo.gov/link/statute/93/372); [Pub. L. 96–465, title II, § 2206(a)(11)](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2162](https://www.govinfo.gov/link/statute/94/2162).)*

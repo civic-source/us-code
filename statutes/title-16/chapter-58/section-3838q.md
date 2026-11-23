@@ -3,10 +3,23 @@ title: "Section 3838q - Repealed. Pub. L. 113–79, title II, § 2705(a) , Feb. 
 usc_title: 16
 usc_section: "3838q"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3838q"
-generated_at: "2026-03-30T02:54:23.028Z"
+generated_at: "2026-11-23T20:26:20.695Z"
+status: "repealed"
 ---
 
 # §§ 3838n to 3838q. Repealed. Pub. L. 113–79, title II, § 2705(a) , Feb. 7, 2014 , 128 Stat. 768
 
+
+Repeal
+
+Transitional Provisions.—
+
+Effect on existing contracts, agreements, and easements
+
+Funding.—
+
+Use of prior year funds
+
+Other

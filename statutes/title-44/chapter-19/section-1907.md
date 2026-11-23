@@ -3,12 +3,17 @@ title: "Section 1907 - Libraries of executive departments, service academies, an
 usc_title: 44
 usc_section: "1907"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "44 U.S.C. § 1907"
-generated_at: "2026-03-30T02:55:56.292Z"
+generated_at: "2026-11-23T20:27:03.794Z"
+status: "active"
 ---
 
 # § 1907. Libraries of executive departments, service academies, and independent agencies constituted depositories; certifications of need; disposal of unwanted publications
 
 The libraries of the executive departments, of the United States Military Academy, of the United States Naval Academy, of the United States Air Force Academy, of the United States Coast Guard Academy, and of the United States Merchant Marine Academy are designated depositories of Government publications. A depository library within each independent agency may be designated upon certification of need by the head of the independent agency to the Superintendent of Documents. Additional depository libraries within executive departments and independent agencies may be designated to receive Government publications to the extent that the number so designated does not exceed the number of major bureaus or divisions of the departments and independent agencies. These designations may be made only after certification by the head of each executive department or independent agency to the Superintendent of Documents as to the justifiable need for additional depository libraries. Depository libraries within executive departments and independent agencies may dispose of unwanted Government publications after first offering them to the Library of Congress and the Archivist of the United States.
 
+
+## Source Credit
+
+*([Pub. L. 90–620](https://www.govinfo.gov/link/plaw/90/public/620), Oct. 22, 1968, [82 Stat. 1285](https://www.govinfo.gov/link/statute/82/1285).)*

@@ -3,9 +3,10 @@ title: "Section 6114 - Nuclear weapons stockpile stewardship, management, and re
 usc_title: 10
 usc_section: "6114"
 chapter: 602
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6114"
-generated_at: "2026-03-30T02:53:38.218Z"
+generated_at: "2026-11-23T20:25:52.010Z"
+status: "active"
 ---
 
 # § 6114. Nuclear weapons stockpile stewardship, management, and responsiveness plan
@@ -105,3 +106,29 @@ generated_at: "2026-03-30T02:53:38.218Z"
     - **(C)** nuclear intelligence;
     - **(D)** nuclear safety; and
     - **(E)** nuclear incident response.
+
+Plan Requirement
+
+Submissions to Congress
+
+Elements of Biennial Detailed Report
+
+Nuclear Weapons Council Assessment
+
+Definitions
+
+Coordination with other amendments made by this act
+
+Report on the Plan for the Nuclear Weapons Stockpile, Nuclear Weapons Complex, and Delivery Platforms.—
+
+Report required
+
+Elements
+
+Sense of Congress
+
+Barack Obama.
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI](https://www.govinfo.gov/link/plaw/119/public/60), §§ 3111(a), (d)(1)(A), (2)(B), 3121, Dec. 18, 2025, [139 Stat. 1346](https://www.govinfo.gov/link/statute/139/1346), 1461, 1462, 1466.)*

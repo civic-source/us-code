@@ -3,9 +3,10 @@ title: "Section 9705 - Transfers"
 usc_title: 26
 usc_section: "9705"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 9705"
-generated_at: "2026-03-30T02:55:27.894Z"
+generated_at: "2026-11-23T20:26:46.891Z"
+status: "active"
 ---
 
 # § 9705. Transfers
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:27.894Z"
 - **(b)**
   - **(1)** The Combined Fund shall include any amount transferred to the Fund under subsections (h) and (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 ( 30 U.S.C. 1232 ).
   - **(2)** Any amount transferred under paragraph (1) for any fiscal year shall be used to pay benefits and administrative costs of beneficiaries of the Combined Fund or for such other purposes as are specifically provided in the Act described in paragraph (1).
+
+## Source Credit
+
+*(Added [Pub. L. 102–486, title XIX, § 19143(a)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3046](https://www.govinfo.gov/link/statute/106/3046); amended [Pub. L. 109–432, div. C, title II, § 212(a)(1)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 3023](https://www.govinfo.gov/link/statute/120/3023); [Pub. L. 115–141, div. U, title IV, § 401(a)(345)](https://www.govinfo.gov/link/plaw/115/public/141), (346), Mar. 23, 2018, [132 Stat. 1200](https://www.govinfo.gov/link/statute/132/1200), 1201.)*

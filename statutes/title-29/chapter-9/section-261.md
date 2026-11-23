@@ -3,9 +3,10 @@ title: "Section 261 - Applicability of “area of production” regulations"
 usc_title: 29
 usc_section: "261"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 261"
-generated_at: "2026-03-30T02:55:18.683Z"
+generated_at: "2026-11-23T20:26:37.813Z"
+status: "active"
 ---
 
 # § 261. Applicability of “area of production” regulations
@@ -14,3 +15,7 @@ No employer shall be subject to any liability or punishment under the Fair Labor
 
   - **(1)** was not so subject by reason of the definition of an “area of production”, by a regulation of the Administrator of the Wage and Hour Division of the Department of Labor, which regulation was applicable at the time of performance of the activity even though at that time the regulation was invalid; or
   - **(2)** would not have been so subject if the regulation signed on December 18, 1946 (Federal Register, Vol. 11, p. 14648) had been in force on and after October 24, 1938 .
+
+## Source Credit
+
+*(May 14, 1947, ch. 52, § 12, [61 Stat. 89](https://www.govinfo.gov/link/statute/61/89).)*

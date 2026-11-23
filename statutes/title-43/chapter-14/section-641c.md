@@ -3,12 +3,17 @@ title: "Section 641c - Requirements of application for quitclaim deed"
 usc_title: 43
 usc_section: "641c"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 641c"
-generated_at: "2026-03-30T02:55:57.460Z"
+generated_at: "2026-11-23T20:27:06.250Z"
+status: "active"
 ---
 
 # § 641c. Requirements of application for quitclaim deed
 
 The application must include a list of all the lands which the State certifies should be transferred under the terms of section 641a of this title , the basis for the certification of each tract included, and a quitclaim or relinquishment of all right, title, and interest in the State to any and all other lands under section 641 of this title . Such quitclaim or relinquishment by the State shall not affect any private rights obtained from the State prior to August 13, 1954 .
 
+
+## Source Credit
+
+*(Aug. 13, 1954, ch. 727, § 3, [68 Stat. 703](https://www.govinfo.gov/link/statute/68/703).)*

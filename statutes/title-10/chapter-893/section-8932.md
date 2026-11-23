@@ -3,9 +3,10 @@ title: "Section 8932 - Ocean Policy Committee"
 usc_title: 10
 usc_section: "8932"
 chapter: 893
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 8932"
-generated_at: "2026-03-30T02:53:38.253Z"
+generated_at: "2026-11-23T20:25:52.266Z"
+status: "active"
 ---
 
 # § 8932. Ocean Policy Committee
@@ -74,3 +75,27 @@ generated_at: "2026-03-30T02:53:38.253Z"
   - **(5)** the Committee on Science, Space, and Technology of the House of Representatives;
   - **(6)** the Committee on Armed Services of the House of Representatives; and
   - **(7)** the Committee on Appropriations of the House of Representatives.
+
+Committee
+
+Responsibilities
+
+Subcommittees
+
+Annual Report and Briefing
+
+Partnership Program Office
+
+Contract and Grant Authority
+
+Establishment and Forms of Partnership Projects
+
+Elements of Document System
+
+Appropriate Congressional Committees
+
+Term of Office
+
+## Source Credit
+
+*(Added [Pub. L. 104–201, div. A, title II, § 282(a)(1)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2470](https://www.govinfo.gov/link/statute/110/2470), § 7902; amended [Pub. L. 105–85, div. A, title II, § 241(a)](https://www.govinfo.gov/link/plaw/105/public/85), title X, § 1073(a)(64), Nov. 18, 1997, [111 Stat. 1665](https://www.govinfo.gov/link/statute/111/1665), 1903; [Pub. L. 106–65, div. A, title X, § 1066(a)(30)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 772](https://www.govinfo.gov/link/statute/113/772); [Pub. L. 107–296, title XVII, § 1713](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2320](https://www.govinfo.gov/link/statute/116/2320); renumbered § 8932, [Pub. L. 115–232, div. A, title VIII, § 807(d)(14)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1837](https://www.govinfo.gov/link/statute/132/1837); [Pub. L. 116–283, div. A, title X, § 1055(b)(1)](https://www.govinfo.gov/link/plaw/116/public/283), (2)(A), Jan. 1, 2021, [134 Stat. 3851–3853](https://www.govinfo.gov/link/statute/134/3851); [Pub. L. 117–263, div. J, title CIII, § 10303](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3967](https://www.govinfo.gov/link/statute/136/3967).)*

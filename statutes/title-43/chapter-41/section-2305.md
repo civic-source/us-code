@@ -3,9 +3,10 @@ title: "Section 2305 - Federal Land Disposal Account"
 usc_title: 43
 usc_section: "2305"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 2305"
-generated_at: "2026-03-30T02:55:57.496Z"
+generated_at: "2026-11-23T20:27:06.402Z"
+status: "active"
 ---
 
 # § 2305. Federal Land Disposal Account
@@ -37,3 +38,15 @@ generated_at: "2026-03-30T02:55:57.496Z"
   - **(1)** contains a hazardous substance or is otherwise contaminated; or
   - **(2)** because of the location or other characteristics of the land, would be difficult or uneconomic to manage as Federal land.
 - **(e)** Funds made available under this section shall be supplemental to any funds appropriated under chapter 2003 of title 54.
+
+Purchase of land
+
+Inholdings
+
+Administrative and other expenses
+
+Same state purchases
+
+## Source Credit
+
+*([Pub. L. 106–248, title II, § 206](https://www.govinfo.gov/link/plaw/106/public/248), July 25, 2000, [114 Stat. 616](https://www.govinfo.gov/link/statute/114/616); [Pub. L. 113–287, § 5](https://www.govinfo.gov/link/plaw/113/public/287) (l)(9), Dec. 19, 2014, [128 Stat. 3271](https://www.govinfo.gov/link/statute/128/3271); [Pub. L. 115–141, div. O, title III, § 302(5)](https://www.govinfo.gov/link/plaw/115/public/141) –(7), Mar. 23, 2018, [132 Stat. 1075](https://www.govinfo.gov/link/statute/132/1075), 1076.)*

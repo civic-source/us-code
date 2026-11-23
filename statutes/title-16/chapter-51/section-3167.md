@@ -3,9 +3,10 @@ title: "Section 3167 - Rights-of-way terms and conditions"
 usc_title: 16
 usc_section: "3167"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3167"
-generated_at: "2026-03-30T02:54:23.011Z"
+generated_at: "2026-11-23T20:26:20.638Z"
+status: "active"
 ---
 
 # § 3167. Rights-of-way terms and conditions
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:23.011Z"
   - **(6)** requirements to employ measures to avoid or minimize adverse environmental, social or economic impacts.
 - **(b)** Any transportation or utility system approved pursuant to this subchapter which occupies, uses, or traverses any area within the boundaries of a unit of the National Wild and Scenic Rivers System shall be subject to such conditions as may be necessary to assure that the stream flow of, and transportation on, such river are not interfered with or impeded, and that the transportation or utility system is located and constructed in an environmentally sound manner.
 - **(c)** In the case of a pipeline described in section 185(a) of title 30 , a right-of-way issued pursuant to this subchapter shall be issued in the same manner as a right-of-way is granted under section 185 of title 30 , and the provisions of subsections (c) through (j), ( l ) through (q), and (u) through (y) of section 185 of title 30 shall apply to rights-of-way issued pursuant to this subchapter.
+
+## Source Credit
+
+*([Pub. L. 96–487, title XI, § 1107](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2463](https://www.govinfo.gov/link/statute/94/2463).)*

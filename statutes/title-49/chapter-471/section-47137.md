@@ -3,9 +3,10 @@ title: "Section 47137 - Airport security program"
 usc_title: 49
 usc_section: "47137"
 chapter: 471
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 47137"
-generated_at: "2026-03-30T02:56:19.405Z"
+generated_at: "2026-11-23T20:27:35.315Z"
+status: "active"
 ---
 
 # § 47137. Airport security program
@@ -19,3 +20,21 @@ generated_at: "2026-03-30T02:56:19.405Z"
 - **(e)** The Secretary, in cooperation with the Secretary of Homeland Security, shall administer the program authorized by this section.
 - **(f)** In this section, the term “eligible sponsor” means a nonprofit corporation composed of a consortium of public and private persons, including a sponsor of a primary airport, with the necessary engineering and technical expertise to successfully conduct the testing and evaluation of airport and aircraft related security systems.
 - **(g)** Of the amounts made available to the Secretary under section 47115 in a fiscal year, the Secretary shall make available not less than $5,000,000 for the purpose of carrying out this section.
+
+General Authority
+
+Priority
+
+Matching Share
+
+Terms and Conditions
+
+Administration
+
+Eligible Sponsor Defined
+
+Authorization of Appropriations
+
+## Source Credit
+
+*(Added [Pub. L. 106–181, title I, § 134(a)](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 83](https://www.govinfo.gov/link/statute/114/83); amended [Pub. L. 108–176, title I, § 157](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2508](https://www.govinfo.gov/link/statute/117/2508).)*

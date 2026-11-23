@@ -3,9 +3,10 @@ title: "Section 1679c - Disclosures"
 usc_title: 15
 usc_section: "1679c"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1679c"
-generated_at: "2026-03-30T02:54:08.146Z"
+generated_at: "2026-11-23T20:26:04.071Z"
+status: "active"
 ---
 
 # § 1679c. Disclosures
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.146Z"
   - **(1)** In general The credit repair organization shall maintain a copy of the statement signed by the consumer acknowledging receipt of the statement.
   - **(2)** Maintenance for 2 years The copy of any consumer’s statement shall be maintained in the organization’s files for 2 years after the date on which the statement is signed by the consumer.
 
+
+## Source Credit
+
+*([Pub. L. 90–321, title IV, § 405](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 104–208, div. A, title II, § 2451](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–457](https://www.govinfo.gov/link/statute/110/3009).)*

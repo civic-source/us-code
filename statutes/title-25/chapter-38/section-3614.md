@@ -3,9 +3,10 @@ title: "Section 3614 - Tribal judicial conferences"
 usc_title: 25
 usc_section: "3614"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3614"
-generated_at: "2026-03-30T02:54:52.854Z"
+generated_at: "2026-11-23T20:26:25.659Z"
+status: "active"
 ---
 
 # § 3614. Tribal judicial conferences
@@ -24,3 +25,7 @@ The Secretary is authorized to provide funds to tribal judicial conferences, und
     - **(C)** tribal probation services or diversion programs;
     - **(D)** juvenile services and multidisciplinary investigations of child abuse; and
     - **(E)** traditional tribal judicial practices, traditional justice systems, and traditional methods of dispute resolution.
+
+## Source Credit
+
+*([Pub. L. 103–176, title I, § 104](https://www.govinfo.gov/link/plaw/103/public/176), Dec. 3, 1993, [107 Stat. 2008](https://www.govinfo.gov/link/statute/107/2008).)*

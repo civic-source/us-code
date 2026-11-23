@@ -3,9 +3,10 @@ title: "Section 1406 - Requirements for prescribing regulations"
 usc_title: 20
 usc_section: "1406"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1406"
-generated_at: "2026-03-30T02:54:48.159Z"
+generated_at: "2026-11-23T20:26:14.631Z"
+status: "active"
 ---
 
 # § 1406. Requirements for prescribing regulations
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:48.159Z"
   - **(2)** For each item of correspondence published in a list under paragraph (1), the Secretary shall—
     - **(A)** identify the topic addressed by the correspondence and shall include such other summary information as the Secretary determines to be appropriate; and
     - **(B)** ensure that all such correspondence is issued, where applicable, in compliance with the requirements of section 553 of title 5 .
+
+## Source Credit
+
+*([Pub. L. 91–230, title VI, § 607](https://www.govinfo.gov/link/plaw/91/public/230), as added [Pub. L. 108–446, title I, § 101](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2659](https://www.govinfo.gov/link/statute/118/2659).)*

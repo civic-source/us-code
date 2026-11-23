@@ -3,9 +3,10 @@ title: "Section 2151 - Advice from International Trade Commission"
 usc_title: 19
 usc_section: "2151"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2151"
-generated_at: "2026-03-30T02:54:24.665Z"
+generated_at: "2026-11-23T20:26:10.911Z"
+status: "active"
 ---
 
 # § 2151. Advice from International Trade Commission
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:24.665Z"
   - **(3)** describe the probable nature and extent of any significant change in employment, profit levels, and use of productive facilities; the overall impact of such or other possible changes on the competitiveness of relevant domestic industries or sectors; and such other conditions as it deems relevant in the domestic industries or sectors concerned which it believes such modifications would cause; and
   - **(4)** make special studies (including studies of real wages paid in foreign supplying countries), whenever deemed to be warranted, of particular proposed modifications affecting United States manufacturing, agriculture, mining, fishing, labor, consumers, services, intellectual property and investment, using to the fullest extent practicable United States Government facilities abroad and appropriate personnel of the United States.
 - **(e)** In preparing its advice to the President under this section, the Commission shall, after reasonable notice, hold public hearings.
+
+## Source Credit
+
+*([Pub. L. 93–618, title I, § 131](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 1994](https://www.govinfo.gov/link/statute/88/1994); [Pub. L. 100–418, title I, § 1111(a)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1135](https://www.govinfo.gov/link/statute/102/1135); [Pub. L. 107–210, div. B, title XXI, § 2110(a)(2)](https://www.govinfo.gov/link/plaw/107/public/210), Aug. 6, 2002, [116 Stat. 1019](https://www.govinfo.gov/link/statute/116/1019); [Pub. L. 114–26, title I, § 110(a)(1)](https://www.govinfo.gov/link/plaw/114/public/26), June 29, 2015, [129 Stat. 357](https://www.govinfo.gov/link/statute/129/357).)*

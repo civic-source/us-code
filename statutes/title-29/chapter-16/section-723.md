@@ -3,9 +3,10 @@ title: "Section 723 - Vocational rehabilitation services"
 usc_title: 29
 usc_section: "723"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 723"
-generated_at: "2026-03-30T02:55:18.692Z"
+generated_at: "2026-11-23T20:26:37.850Z"
+status: "active"
 ---
 
 # § 723. Vocational rehabilitation services
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:55:18.692Z"
     - **(A)** such eligibility;
     - **(B)** previous completion of a bachelor’s degree program at an institution of higher education or scheduled completion of such degree program prior to matriculating in the program for which the individual proposes to use the support; and
     - **(C)** acceptance by a program at an institution of higher education in the United States that confers a master’s degree in a science, technology, engineering, or mathematics (including computer science) field, a juris doctor degree, a master of business administration degree, or a doctor of medicine degree,
+
+## Source Credit
+
+*([Pub. L. 93–112, title I, § 103](https://www.govinfo.gov/link/plaw/93/public/112), as added [Pub. L. 105–220, title IV, § 404](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1148](https://www.govinfo.gov/link/statute/112/1148); amended [Pub. L. 113–128, title IV, § 414](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1652](https://www.govinfo.gov/link/statute/128/1652).)*

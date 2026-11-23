@@ -3,9 +3,10 @@ title: "Section 4906 - Establishment of Data Bank"
 usc_title: 15
 usc_section: "4906"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 4906"
-generated_at: "2026-03-30T02:54:08.204Z"
+generated_at: "2026-11-23T20:26:04.362Z"
+status: "active"
 ---
 
 # § 4906. Establishment of Data Bank
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:54:08.204Z"
   - **(4)** export financing information, including the availability, through public sources of funds for United States exporters and foreign competitors;
   - **(5)** transactions involving barter and countertrade; and
   - **(6)** any other similar information, that the Secretary determines to be useful in carrying out the purposes of this chapter.
+
+## Source Credit
+
+*([Pub. L. 100–418, title V, § 5406](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1464](https://www.govinfo.gov/link/statute/102/1464).)*

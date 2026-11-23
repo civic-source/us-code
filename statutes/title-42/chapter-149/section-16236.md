@@ -3,9 +3,10 @@ title: "Section 16236 - Research and development into integrating renewable ener
 usc_title: 42
 usc_section: "16236"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16236"
-generated_at: "2026-03-30T02:56:11.474Z"
+generated_at: "2026-11-23T20:27:23.632Z"
+status: "active"
 ---
 
 # § 16236. Research and development into integrating renewable energy onto the electric grid
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.474Z"
   - **(3)** development of cost-effective advanced technologies for variable renewable generation sources to provide grid services.
 - **(b)** In carrying out this program, the Secretary shall coordinate across all relevant program offices at the Department to achieve the goals established in this section, including the Office of Electricity.
 - **(c)** In carrying out this section, the Secretary shall consider barriers to adoption and commercial application of technologies that enable integration of renewable energy sources onto the electric grid, including cost and other economic barriers, and shall coordinate with relevant entities to reduce these barriers.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 936](https://www.govinfo.gov/link/plaw/109/public/58), as added [Pub. L. 116–260, div. Z, title VIII, § 8004(b)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2583](https://www.govinfo.gov/link/statute/134/2583).)*

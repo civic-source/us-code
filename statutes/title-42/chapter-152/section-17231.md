@@ -3,9 +3,10 @@ title: "Section 17231 - Energy storage competitiveness"
 usc_title: 42
 usc_section: "17231"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17231"
-generated_at: "2026-03-30T02:56:11.501Z"
+generated_at: "2026-11-23T20:27:23.739Z"
+status: "active"
 ---
 
 # § 17231. Energy storage competitiveness
@@ -192,3 +193,23 @@ generated_at: "2026-03-30T02:56:11.501Z"
       - **(iv)** technologies and methods to enable the safe transport, storage, and disposal of energy storage systems containing critical materials, including waste materials and components recovered during the critical material recycling process; and
     - **(B)** research on nontechnical barriers to improve the collection and critical material recycling of energy storage systems, including strategies to improve consumer education of, acceptance of, and participation in, the critical material recycling of energy storage systems.
   - **(4)** Not later than 2 years after December 27, 2020 , and every 3 years thereafter, the Secretary shall submit to the Committee on Science, Space, and Technology and the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report summarizing the activities, findings, and progress of the program.
+
+(aa) technology to increase the efficiency of electric drive vehicle battery recycling and maximize the recovery of critical materials for use in new products;
+
+(bb) expanded uses for critical materials recovered from electric drive vehicle batteries;
+
+(cc) product design and construction to facilitate the disassembly and recycling of electric drive vehicle batteries;
+
+(dd) product design and construction and other tools and techniques to extend the lifecycle of electric drive vehicle batteries, including methods to promote the safe second-use of electric drive vehicle batteries;
+
+(ee) strategies to increase consumer acceptance of, and participation in, the recycling of electric drive vehicle batteries;
+
+(ff) improvements and changes to electric drive vehicle battery chemistries that include ways to decrease processing costs for battery recycling without sacrificing front-end performance;
+
+(gg) second-use of electric drive vehicle batteries, including in applications outside of the automotive industry; and
+
+(hh) the commercialization and scale-up of electric drive vehicle battery recycling technologies.
+
+## Source Credit
+
+*([Pub. L. 110–140, title VI, § 641](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1688](https://www.govinfo.gov/link/statute/121/1688); [Pub. L. 116–260, div. Z, title III, § 3201(f)](https://www.govinfo.gov/link/plaw/116/public/260), formerly § 3201(e), Dec. 27, 2020, [134 Stat. 2523](https://www.govinfo.gov/link/statute/134/2523), renumbered § 3201(f), [Pub. L. 117–58, div. D, title III, § 40334(1)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1025](https://www.govinfo.gov/link/statute/135/1025); [Pub. L. 117–58, div. D, title II, § 40208](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 971](https://www.govinfo.gov/link/statute/135/971); [Pub. L. 117–286, § 4(a)(280)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4336](https://www.govinfo.gov/link/statute/136/4336).)*

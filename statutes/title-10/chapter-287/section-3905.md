@@ -3,9 +3,10 @@ title: "Section 3905 - Products of Federal Prison Industries: procedural require
 usc_title: 10
 usc_section: "3905"
 chapter: 287
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 3905"
-generated_at: "2026-03-30T02:53:38.199Z"
+generated_at: "2026-11-23T20:25:51.874Z"
+status: "active"
 ---
 
 # § 3905. Products of Federal Prison Industries: procedural requirements
@@ -39,3 +40,31 @@ generated_at: "2026-03-30T02:53:38.199Z"
     - **(A)** contacting knowledgeable individuals in government and industry;
     - **(B)** interactive communication among industry, acquisition personnel, and customers; and
     - **(C)** interchange meetings or pre-solicitation conferences with potential offerors.
+
+Products for Which Federal Prison Industries Does Not Have Significant Market Share
+
+Products for Which Federal Prison Industries Has Significant Market Share
+
+Implementation by Secretary of Defense
+
+Market Research Determination Not Subject to Review
+
+Performance as a Subcontractor
+
+Protection of Classified and Sensitive Information
+
+Definitions
+
+Market Research
+
+Competition Requirement
+
+Initial list
+
+Modification
+
+Consultation
+
+## Source Credit
+
+*(Added [Pub. L. 107–107, div. A, title VIII, § 811(a)(1)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1180](https://www.govinfo.gov/link/statute/115/1180), § 2410n; amended [Pub. L. 107–314, div. A, title VIII, § 819(a)(1)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2612](https://www.govinfo.gov/link/statute/116/2612); [Pub. L. 109–163, div. A, title X, § 1056(c)(4)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3439](https://www.govinfo.gov/link/statute/119/3439); [Pub. L. 110–181, div. A, title VIII, § 827(a)(1)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 228](https://www.govinfo.gov/link/statute/122/228); renumbered § 3905 and amended [Pub. L. 116–283, div. A, title XVIII](https://www.govinfo.gov/link/plaw/116/public/283), §§ 1838(b), 1883(b)(2), Jan. 1, 2021, [134 Stat. 4242](https://www.govinfo.gov/link/statute/134/4242), 4294; [Pub. L. 117–81, div. A, title XVII, § 1701(v)(2)(A)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2154](https://www.govinfo.gov/link/statute/135/2154).)*

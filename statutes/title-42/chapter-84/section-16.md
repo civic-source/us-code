@@ -3,9 +3,10 @@ title: "Section 16 - Advisory Board on Toxic Substances and Worker Health"
 usc_title: 42
 usc_section: "16"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16"
-generated_at: "2026-03-30T02:56:11.293Z"
+generated_at: "2026-11-23T20:27:22.830Z"
+status: "active"
 ---
 
 # § 7385s–16. Advisory Board on Toxic Substances and Worker Health
@@ -44,3 +45,21 @@ generated_at: "2026-03-30T02:56:11.293Z"
     - **(A)** shall not be appropriated to the account established under subsection (a) of section 151 of title I of division B of Appendix D of the Consolidated Appropriations Act, 2001 ( Public Law 106–554 ; 114 Stat. 2763 A–251); and
     - **(B)** shall not be subject to subsection (b) of that section.
 - **(j)** The Board shall terminate on the date that is 15 years after December 19, 2014 .
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 106–398, § 1 [div. C, title XXXVI, § 3687]](https://www.govinfo.gov/link/plaw/106/public/398), as added [Pub. L. 113–291, div. C, title XXXI, § 3141(a)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3897](https://www.govinfo.gov/link/statute/128/3897); amended [Pub. L. 115–91, div. C, title XXXI, § 3120](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1892](https://www.govinfo.gov/link/statute/131/1892); [Pub. L. 116–92, div. C, title XXXI, § 3134(b)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1959](https://www.govinfo.gov/link/statute/133/1959); [Pub. L. 118–31, div. E, title LV, § 5501(c)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 956](https://www.govinfo.gov/link/statute/137/956).)*

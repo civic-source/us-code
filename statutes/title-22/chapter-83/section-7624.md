@@ -3,9 +3,10 @@ title: "Section 7624 - Facilitating vaccine development"
 usc_title: 22
 usc_section: "7624"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7624"
-generated_at: "2026-03-30T02:55:05.443Z"
+generated_at: "2026-11-23T20:26:32.674Z"
+status: "active"
 ---
 
 # § 7624. Facilitating vaccine development
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:05.443Z"
       - **(i)** initiatives to create economic incentives for the research, development, and manufacturing of vaccines for HIV/AIDS, tuberculosis, malaria, and other infectious diseases;
       - **(ii)** an expansion of public-private partnerships and the leveraging of resources from other countries and the private sector; and
       - **(iii)** efforts to maximize United States capabilities to support clinical trials of vaccines in developing countries and to address the challenges of delivering vaccines in developing countries to minimize delays in access once vaccines are available.
+
+## Source Credit
+
+*([Pub. L. 110–293, title II, § 206](https://www.govinfo.gov/link/plaw/110/public/293), July 30, 2008, [122 Stat. 2944](https://www.govinfo.gov/link/statute/122/2944).)*

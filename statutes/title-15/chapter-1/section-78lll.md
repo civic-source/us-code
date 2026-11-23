@@ -3,9 +3,10 @@ title: "Section 78lll - Definitions"
 usc_title: 15
 usc_section: "78lll"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 78lll"
-generated_at: "2026-03-30T02:54:08.063Z"
+generated_at: "2026-11-23T20:26:03.582Z"
+status: "active"
 ---
 
 # § 78lll. Definitions
@@ -59,3 +60,7 @@ For purposes of this chapter, including the application of the Bankruptcy Act to
   - **(12)** The term “persons registered as brokers or dealers” includes any person who is a member of a national securities exchange other than a government securities broker or government securities dealer registered under section 78 o –5(a)(1)(A) of this title.
   - **(13)** The term “protective decree” means a decree, issued by a court upon application of SIPC under section 78eee(a)(3) of this title , that the customers of a member of SIPC are in need of the protection provided under this chapter.
   - **(14)** The term “Security” means any note, stock, treasury stock, bond, debenture, evidence of indebtedness, any collateral trust certificate, preorganization certificate or subscription, transferable share, voting trust certificate, certificate of deposit, certificate of deposit for a security, or any security future as that term is defined in section 78c(a)(55)(A) of this title , any investment contract or certificate of interest or participation in any profit-sharing agreement or in any oil, gas, or mineral royalty or lease (if such investment contract or interest is the subject of a registration statement with the Commission pursuant to the provisions of the Securities Act of 1933 [ 15 U.S.C. 77a et seq.]), any put, call, straddle, option, or privilege on any security, or group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency, any certificate of interest or participation in, temporary or interim certificate for, receipt for, guarantee of, or warrant or right to subscribe to or purchase or sell any of the foregoing, and any other instrument commonly known as a security. Except as specifically provided above, the term “security” does not include any currency, or any commodity or related contract or futures contract, or any warrant or right to subscribe to or purchase or sell any of the foregoing.
+
+## Source Credit
+
+*([Pub. L. 91–598, § 16](https://www.govinfo.gov/link/plaw/91/public/598), formerly § 12, Dec. 30, 1970, [84 Stat. 1656](https://www.govinfo.gov/link/statute/84/1656); renumbered § 16 and amended [Pub. L. 95–283](https://www.govinfo.gov/link/plaw/95/public/283), §§ 9, 15, May 21, 1978, [92 Stat. 260](https://www.govinfo.gov/link/statute/92/260), 271; [Pub. L. 95–598, title III, § 308](https://www.govinfo.gov/link/plaw/95/public/598) (o), Nov. 6, 1978, [92 Stat. 2676](https://www.govinfo.gov/link/statute/92/2676); [Pub. L. 97–303, § 7](https://www.govinfo.gov/link/plaw/97/public/303), Oct. 13, 1982, [96 Stat. 1410](https://www.govinfo.gov/link/statute/96/1410); [Pub. L. 100–181, title VIII, § 802](https://www.govinfo.gov/link/plaw/100/public/181), Dec. 4, 1987, [101 Stat. 1265](https://www.govinfo.gov/link/statute/101/1265); [Pub. L. 106–554, § 1(a)(5) [title II, § 203(d)(1)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–424; [Pub. L. 111–203, title IX, § 983(b)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1931](https://www.govinfo.gov/link/statute/124/1931); [Pub. L. 119–27, § 17(e)](https://www.govinfo.gov/link/plaw/119/public/27), July 18, 2025, [139 Stat. 463](https://www.govinfo.gov/link/statute/139/463).)*

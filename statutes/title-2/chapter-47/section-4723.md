@@ -3,9 +3,10 @@ title: "Section 4723 - Annual report by Select Committee on Ethics"
 usc_title: 2
 usc_section: "4723"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 4723"
-generated_at: "2026-03-30T02:53:04.834Z"
+generated_at: "2026-11-23T20:25:29.050Z"
+status: "active"
 ---
 
 # § 4723. Annual report by Select Committee on Ethics
@@ -22,3 +23,7 @@ The Select Committee on Ethics of the Senate shall issue an annual report due no
   - **(6)** The number of private letters of admonition or public letters of admonition issued.
   - **(7)** The number of matters resulting in a disciplinary sanction.
   - **(8)** Any other information deemed by the committee to be appropriate to describe its activities in the preceding year.
+
+## Source Credit
+
+*([Pub. L. 110–81, title V, § 554](https://www.govinfo.gov/link/plaw/110/public/81), Sept. 14, 2007, [121 Stat. 773](https://www.govinfo.gov/link/statute/121/773).)*

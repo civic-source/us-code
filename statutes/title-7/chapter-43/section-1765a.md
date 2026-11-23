@@ -3,9 +3,10 @@ title: "Section 1765a - Agricultural Trade Offices"
 usc_title: 7
 usc_section: "1765a"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1765a"
-generated_at: "2026-03-30T02:53:42.342Z"
+generated_at: "2026-11-23T20:25:41.303Z"
+status: "active"
 ---
 
 # § 1765a. Agricultural Trade Offices
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:42.342Z"
 - **(f)** To carry out the functions of United States Agricultural Trade Offices, the Secretary of Agriculture may appoint such other personnel as the Secretary determines to be necessary and may, with the concurrence of the Secretary of State, assign such personnel abroad and employ local nationals for necessary professional and clerical help.
 - **(g)** No employee of any United States Agricultural Trade Office may engage in any business, vocation, or other employment, or have other interests, that are inconsistent with official responsibilities.
 - **(h)** Upon the request of the Secretary of Agriculture, the Secretary of State shall request for Agricultural Trade Officers and personnel of United States Agricultural Trade Offices diplomatic privileges and immunities equivalent to those enjoyed by members of the Foreign Service of comparable rank and salary.
+
+## Source Credit
+
+*(Aug. 28, 1954, ch. 1041, title VI, § 605A, as added [Pub. L. 95–501, title IV, § 401(1)](https://www.govinfo.gov/link/plaw/95/public/501), Oct. 21, 1978, [92 Stat. 1688](https://www.govinfo.gov/link/statute/92/1688); amended [Pub. L. 96–465, title II, § 2206(b)(1)](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2162](https://www.govinfo.gov/link/statute/94/2162).)*

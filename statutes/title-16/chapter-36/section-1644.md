@@ -3,9 +3,10 @@ title: "Section 1644 - Forestry and rangeland competitive research grants"
 usc_title: 16
 usc_section: "1644"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1644"
-generated_at: "2026-03-30T02:54:22.980Z"
+generated_at: "2026-11-23T20:26:20.536Z"
+status: "active"
 ---
 
 # § 1644. Forestry and rangeland competitive research grants
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:22.980Z"
   - **(1)** the proposed research will be collaborative research organized through a center of scientific excellence;
   - **(2)** the applicant agrees to provide matching funds (in the form of direct funding or in-kind support) in an amount equal to not less than 50 percent of the grant amount; and
   - **(3)** the proposed research will be conducted as part of an existing private and public partnership or cooperative research effort and involves several interested research partners.
+
+## Source Credit
+
+*([Pub. L. 95–307, § 5](https://www.govinfo.gov/link/plaw/95/public/307), June 30, 1978, [92 Stat. 355](https://www.govinfo.gov/link/statute/92/355); [Pub. L. 105–185, title II, § 253(d)](https://www.govinfo.gov/link/plaw/105/public/185), June 23, 1998, [112 Stat. 561](https://www.govinfo.gov/link/statute/112/561).)*

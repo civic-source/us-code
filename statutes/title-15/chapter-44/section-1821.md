@@ -3,9 +3,10 @@ title: "Section 1821 - Definitions"
 usc_title: 15
 usc_section: "1821"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1821"
-generated_at: "2026-03-30T02:54:08.160Z"
+generated_at: "2026-11-23T20:26:04.133Z"
+status: "active"
 ---
 
 # § 1821. Definitions
@@ -20,3 +21,7 @@ As used in this chapter unless the context otherwise requires:
     - **(C)** any tack, nail, screw, or chemical agent has been injected by a person into or used by a person on any limb of a horse, or
     - **(D)** any other substance or device has been used by a person on any limb of a horse or a person has engaged in a practice involving a horse,
   - **(4)** The term “State” means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Trust Territory of the Pacific Islands.
+
+## Source Credit
+
+*([Pub. L. 91–540, § 2](https://www.govinfo.gov/link/plaw/91/public/540), Dec. 9, 1970, [84 Stat. 1404](https://www.govinfo.gov/link/statute/84/1404); [Pub. L. 94–360, § 3](https://www.govinfo.gov/link/plaw/94/public/360), July 13, 1976, [90 Stat. 915](https://www.govinfo.gov/link/statute/90/915).)*

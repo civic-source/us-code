@@ -3,9 +3,10 @@ title: "Section 670h - Comprehensive plans for conservation and rehabilitation p
 usc_title: 16
 usc_section: "670h"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 670h"
-generated_at: "2026-03-30T02:54:22.893Z"
+generated_at: "2026-11-23T20:26:20.220Z"
+status: "active"
 ---
 
 # § 670h. Comprehensive plans for conservation and rehabilitation programs
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:22.893Z"
   - **(4)** Except where limited under a comprehensive plan or pursuant to cooperative agreement, hunting, fishing, and trapping shall be permitted with respect to resident fish and wildlife in accordance with applicable laws and regulations of the State in which such land is located on public land which is the subject of a conservation and rehabilitation program implemented under this subchapter.
   - **(5)** The Secretary of the Interior and the Secretary of Agriculture, as the case may be, shall prescribe such regulations as are deemed necessary to control, in a manner consistent with the applicable comprehensive plan and cooperative agreement, the public use of public land which is the subject of any conservation and rehabilitation program implemented by him under this subchapter.
 - **(d)** Agreements entered into by State agencies under the authority of this section shall not be deemed to be, or treated as, cooperative agreements to which chapter 63 of title 31 applies.
+
+## Source Credit
+
+*([Pub. L. 86–797, title II, § 202](https://www.govinfo.gov/link/plaw/86/public/797), as added [Pub. L. 93–452, § 2](https://www.govinfo.gov/link/plaw/93/public/452), Oct. 18, 1974, [88 Stat. 1369](https://www.govinfo.gov/link/statute/88/1369); amended [Pub. L. 97–396, § 4](https://www.govinfo.gov/link/plaw/97/public/396), Dec. 31, 1982, [96 Stat. 2005](https://www.govinfo.gov/link/statute/96/2005); [Pub. L. 112–81, div. A, title III, § 312(b)(8)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1354](https://www.govinfo.gov/link/statute/125/1354).)*

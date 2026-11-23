@@ -3,9 +3,10 @@ title: "Section 2009 - Division of Budget Analysis"
 usc_title: 25
 usc_section: "2009"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 2009"
-generated_at: "2026-03-30T02:54:52.833Z"
+generated_at: "2026-11-23T20:26:25.564Z"
+status: "active"
 ---
 
 # § 2009. Division of Budget Analysis
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:52.833Z"
   - **(2)** a description of the methods and formulas used to calculate the amounts projected pursuant to paragraph (1); and
   - **(3)** such other information as the Director of the Office considers appropriate.
 - **(d)** The Director of the Office and the Assistant Secretary for Indian Affairs shall use the annual report required by subsection (c) when preparing annual budget submissions.
+
+## Source Credit
+
+*([Pub. L. 95–561, title XI, § 1129](https://www.govinfo.gov/link/plaw/95/public/561), as added [Pub. L. 107–110, title X, § 1042](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2038](https://www.govinfo.gov/link/statute/115/2038).)*

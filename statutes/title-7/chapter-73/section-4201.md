@@ -3,9 +3,10 @@ title: "Section 4201 - General provisions"
 usc_title: 7
 usc_section: "4201"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 4201"
-generated_at: "2026-03-30T02:53:42.405Z"
+generated_at: "2026-11-23T20:25:41.612Z"
+status: "active"
 ---
 
 # § 4201. General provisions
@@ -28,3 +29,99 @@ generated_at: "2026-03-30T02:53:42.405Z"
   - **(3)** the term “unit of local government” means the government of a county, municipality, town, township, village, or other unit of general government below the State level, or a combination of units of local government acting through an areawide agency under State law or an agreement for the formulation of regional development policies and plans;
   - **(4)** the term “Federal program” means those activities or responsibilities of a department, agency, independent commission, or other unit of the Federal Government that involve (A) undertaking, financing, or assisting construction or improvement projects; or (B) acquiring, managing, or disposing of Federal lands and facilities. The term “Federal program” does not include construction or improvement projects that on the effective date of this chapter are beyond the planning stage and are in either the active design or construction state; and
   - **(5)** the term “Secretary” means the Secretary of Agriculture.
+
+Short Title
+
+Purpose
+
+Definitions
+
+Allowable interest rate
+
+Eligible loan
+
+Eligible state
+
+Lending institution
+
+Program
+
+Secretary
+
+State
+
+State trust fund
+
+In General.—
+
+Purpose
+
+Assistance
+
+Mandatory Assistance to Each State Trust Fund
+
+Funding.—
+
+Issuance of stock
+
+Purchase of stock
+
+Commodity credit corporation
+
+Required Purchases of Stock
+
+Entitlements
+
+Regulations
+
+Duration of Program
+
+Eligible Uses for Guaranteed Loan Funds.—
+
+In general
+
+Collateral for loans
+
+State Use of Guaranteed Loan Funds
+
+Special Rules for the Pilot Project State
+
+Provision of loan guarantee and interest assistance agreement
+
+Approval of application
+
+Amount of guarantees
+
+Miscellaneous Provisions.—
+
+Operation
+
+Earnings
+
+Accounts
+
+Compliance
+
+Applications
+
+Annual Applications
+
+Match and Maximum Amount.—
+
+In general
+
+Earnings
+
+Obligations
+
+Land
+
+Clarification of Federal Law
+
+In general
+
+Regulations
+
+## Source Credit
+
+*([Pub. L. 97–98, title XV, § 1540](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1341](https://www.govinfo.gov/link/statute/95/1341).)*

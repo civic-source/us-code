@@ -3,9 +3,10 @@ title: "Section 15101 - Transportation policy"
 usc_title: 49
 usc_section: "15101"
 chapter: 151
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 15101"
-generated_at: "2026-03-30T02:56:19.333Z"
+generated_at: "2026-11-23T20:27:34.767Z"
+status: "active"
 ---
 
 # § 15101. Transportation policy
@@ -18,3 +19,11 @@ generated_at: "2026-03-30T02:56:19.333Z"
   - **(5)** to cooperate with each State and the officials of each State on transportation matters; and
   - **(6)** to encourage fair wages and working conditions in the transportation industry.
 - **(b)** This part shall be administered and enforced to carry out the policy of this section.
+
+In General
+
+Administration To Carry Out Policy
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 106(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 921](https://www.govinfo.gov/link/statute/109/921); amended [Pub. L. 105–102, § 2(13)](https://www.govinfo.gov/link/plaw/105/public/102), Nov. 20, 1997, [111 Stat. 2205](https://www.govinfo.gov/link/statute/111/2205).)*

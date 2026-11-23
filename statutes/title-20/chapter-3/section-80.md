@@ -3,9 +3,10 @@ title: "Section 80 - National Armed Forces Museum Advisory Board"
 usc_title: 20
 usc_section: "80"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 80"
-generated_at: "2026-03-30T02:54:48.075Z"
+generated_at: "2026-11-23T20:26:14.225Z"
+status: "active"
 ---
 
 # § 80. National Armed Forces Museum Advisory Board
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:48.075Z"
 - **(d)** Five members of the Board shall constitute a quorum and any vacancy in the Board shall not affect its power to function.
 - **(e)** The members of the Board shall serve without compensation but shall be reimbursed for travel, subsistence, and other necessary expenses incurred by them in the performance of their duties as members of the Board.
 - **(f)** The Board shall select officers from among its members biennially and shall make such bylaws, rules, and regulations as it deems necessary for the furtherance of its business.
+
+## Source Credit
+
+*([Pub. L. 87–186, § 1](https://www.govinfo.gov/link/plaw/87/public/186), Aug. 30, 1961, [75 Stat. 414](https://www.govinfo.gov/link/statute/75/414).)*

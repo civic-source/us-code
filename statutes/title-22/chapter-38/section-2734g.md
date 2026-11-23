@@ -3,9 +3,10 @@ title: "Section 2734g - Promoting transparency and accountability in the Departm
 usc_title: 22
 usc_section: "2734g"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2734g"
-generated_at: "2026-03-30T02:55:05.382Z"
+generated_at: "2026-11-23T20:26:32.394Z"
+status: "active"
 ---
 
 # § 2734g. Promoting transparency and accountability in the Department of State workforce
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.382Z"
 - **(c)** The Secretary shall—
   - **(1)** use transparent, competitive, inclusive, and merit-based processes for appointments and details to the staff positions specified in subsection (a); and
   - **(2)** ensure that such positions are equally available to all employees of the Civil Service and the Foreign Service of the Department.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. I, title XCIV, § 9404](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3896](https://www.govinfo.gov/link/statute/136/3896).)*

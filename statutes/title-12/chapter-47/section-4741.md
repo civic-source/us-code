@@ -3,9 +3,10 @@ title: "Section 4741 - Findings and purposes"
 usc_title: 12
 usc_section: "4741"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4741"
-generated_at: "2026-03-30T02:53:53.518Z"
+generated_at: "2026-11-23T20:25:59.428Z"
+status: "active"
 ---
 
 # § 4741. Findings and purposes
@@ -25,3 +26,197 @@ generated_at: "2026-03-30T02:53:53.518Z"
   - **(3)** to promote economic efficiency;
   - **(4)** to enhance productivity; and
   - **(5)** to spur innovation.
+
+Appropriate committees of congress
+
+Appropriate federal banking agency
+
+Bank holding company
+
+Call report
+
+CDCI
+
+CDCI investment
+
+CDFI; community development financial institution
+
+CDLF; community development loan fund
+
+CPP
+
+CPP investment
+
+Eligible institution
+
+Fund
+
+Insured depository institution
+
+Minority-owned and women-owned business
+
+Program
+
+Savings and loan holding company
+
+Secretary
+
+Small business lending.—
+
+In general
+
+Exclusion
+
+Treatment of holding companies
+
+Veteran-owned business.—
+
+Fund and Program.—
+
+Fund established
+
+Programs authorized
+
+Use of Fund.—
+
+In general
+
+Maximum purchase limit
+
+Proceeds used to pay down public debt
+
+Limitation on purchases from cdlfs.—
+
+In general
+
+Eligibility standards
+
+Requirement to submit audited financial statements
+
+Credits to the Fund
+
+Terms.—
+
+Application.—
+
+Institutions with assets of $1,000,000,000 or less
+
+Institutions with assets of more than $1,000,000,000 and less than or equal to $10,000,000,000
+
+Treatment of holding companies
+
+Treatment of applicants that are institutions controlled by holding companies
+
+Requirement to provide a small business lending plan
+
+Treatment of applicants that are community development loan funds
+
+Consultation with regulators
+
+Consideration of matched private investments.—
+
+In general
+
+Conditions
+
+Capital sources
+
+Amount of capital
+
+Terms
+
+Ineligibility of institutions on fdic problem bank list.—
+
+In general
+
+Construction
+
+FDIC problem bank list defined
+
+Incentives to lend.—
+
+Requirements on preferred stock and other financial instruments
+
+Basis of initial rate
+
+Timing of rate adjustments
+
+Rate following initial 2-year period
+
+Rate following initial 4½-year period
+
+Limitation on rate reductions with respect to certain amount
+
+Rate adjustments for s corporation
+
+Repayment deadline
+
+Requirements on financial instruments issued by a community development financial institution loan fund
+
+Additional incentives to repay
+
+Capital purchase program refinance.—
+
+In general
+
+Prohibition on participation by non-paying cpp participants
+
+Outreach to minorities, women, and veterans
+
+Additional terms
+
+Minimum underwriting standards
+
+Inspector General Oversight
+
+Office of Small Business Lending Fund Program Oversight.—
+
+Establishment
+
+Leadership
+
+Reporting.—
+
+In general
+
+Recommendations
+
+Coordination
+
+Termination
+
+Definitions
+
+Office
+
+Inspector general
+
+Required Certifications.—
+
+Eligible institution certification
+
+Loan recipients
+
+Prohibition on Pornography
+
+Credit Reform
+
+Funds Made Available
+
+Termination of Investment Authority
+
+Continuation of Other Authorities
+
+Small Business Lending Fund Separate From TARP
+
+Change in Law
+
+Study
+
+Report
+
+Information Provided to the Secretary
+
+## Source Credit
+
+*([Pub. L. 103–325, title II, § 251](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2203](https://www.govinfo.gov/link/statute/108/2203).)*

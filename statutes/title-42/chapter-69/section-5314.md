@@ -3,12 +3,17 @@ title: "Section 5314 - Consultation by Secretary with other Federal departments,
 usc_title: 42
 usc_section: "5314"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5314"
-generated_at: "2026-03-30T02:56:11.231Z"
+generated_at: "2026-11-23T20:27:22.530Z"
+status: "active"
 ---
 
 # § 5314. Consultation by Secretary with other Federal departments, etc.
 
 In carrying out the provisions of this chapter including the issuance of regulations, the Secretary shall consult with other Federal departments and agencies administering Federal grant-in-aid programs.
 
+
+## Source Credit
+
+*([Pub. L. 93–383, title I, § 114](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 651](https://www.govinfo.gov/link/statute/88/651).)*

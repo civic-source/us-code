@@ -3,9 +3,10 @@ title: "Section 7712 - Application to wireless"
 usc_title: 15
 usc_section: "7712"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 7712"
-generated_at: "2026-03-30T02:54:08.226Z"
+generated_at: "2026-11-23T20:26:04.469Z"
+status: "active"
 ---
 
 # § 7712. Application to wireless
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:08.226Z"
   - **(4)** determine how a sender of mobile service commercial messages may comply with the provisions of this chapter, considering the unique technical aspects, including the functional and character limitations, of devices that receive such messages.
 - **(c)** The Federal Communications Commission shall consider the ability of a sender of a commercial electronic mail message to reasonably determine that the message is a mobile service commercial message.
 - **(d)** In this section, the term “mobile service commercial message” means a commercial electronic mail message that is transmitted directly to a wireless device that is utilized by a subscriber of commercial mobile service (as such term is defined in section 332(d) of title 47 ) in connection with such service.
+
+## Source Credit
+
+*([Pub. L. 108–187, § 14](https://www.govinfo.gov/link/plaw/108/public/187), Dec. 16, 2003, [117 Stat. 2718](https://www.govinfo.gov/link/statute/117/2718).)*

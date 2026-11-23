@@ -3,9 +3,10 @@ title: "Section 7214a - Additional disclosure"
 usc_title: 15
 usc_section: "7214a"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 7214a"
-generated_at: "2026-03-30T02:54:08.219Z"
+generated_at: "2026-11-23T20:26:04.439Z"
+status: "active"
 ---
 
 # § 7214a. Additional disclosure
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:08.219Z"
     - **(A)** the issuer; or
     - **(B)** the operating entity with respect to the issuer; and
   - **(5)** whether the articles of incorporation of the issuer (or equivalent organizing document) contains any charter of the Chinese Communist Party, including the text of any such charter.
+
+## Source Credit
+
+*([Pub. L. 116–222, § 3](https://www.govinfo.gov/link/plaw/116/public/222), Dec. 18, 2020, [134 Stat. 1064](https://www.govinfo.gov/link/statute/134/1064).)*

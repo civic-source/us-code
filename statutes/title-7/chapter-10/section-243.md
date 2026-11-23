@@ -3,9 +3,10 @@ title: "Section 243 - Imposition and collection of fees"
 usc_title: 7
 usc_section: "243"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 243"
-generated_at: "2026-03-30T02:53:42.279Z"
+generated_at: "2026-11-23T20:25:41.008Z"
+status: "active"
 ---
 
 # § 243. Imposition and collection of fees
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:42.279Z"
 - **(e)**
   - **(1)** The Secretary shall seek to minimize the fees established under this section by improving efficiencies and reducing costs, including the efficient use of personnel to the extent practicable and consistent with the effective implementation of this chapter.
   - **(2)** The Secretary shall publish an annual report on the actions taken by the Secretary to comply with paragraph (1).
+
+## Source Credit
+
+*(Aug. 11, 1916, ch. 313, pt. C, § 4, as added [Pub. L. 106–472, title II, § 201](https://www.govinfo.gov/link/plaw/106/public/472), Nov. 9, 2000, [114 Stat. 2064](https://www.govinfo.gov/link/statute/114/2064).)*

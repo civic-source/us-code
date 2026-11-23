@@ -3,9 +3,10 @@ title: "Section 4102 - Criteria for land management and use"
 usc_title: 42
 usc_section: "4102"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4102"
-generated_at: "2026-03-30T02:56:11.199Z"
+generated_at: "2026-11-23T20:27:22.357Z"
+status: "active"
 ---
 
 # § 4102. Criteria for land management and use
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.199Z"
     - **(A)** types of building materials; and
     - **(B)** types of floodproofing; and
   - **(2)** inform property owners about how the implementation of mitigation methods described in paragraph (1) may affect risk premium rates for flood insurance coverage under the National Flood Insurance Program.
+
+## Source Credit
+
+*([Pub. L. 90–448, title XIII, § 1361](https://www.govinfo.gov/link/plaw/90/public/448), Aug. 1, 1968, [82 Stat. 587](https://www.govinfo.gov/link/statute/82/587); [Pub. L. 91–152, title IV, § 410(c)](https://www.govinfo.gov/link/plaw/91/public/152), Dec. 24, 1969, [83 Stat. 397](https://www.govinfo.gov/link/statute/83/397); [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title IV, § 451(d)(1)], Nov. 30, 1983, [97 Stat. 1229](https://www.govinfo.gov/link/statute/97/1229); [Pub. L. 112–141, div. F, title II, § 100238(b)(1)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 958](https://www.govinfo.gov/link/statute/126/958); [Pub. L. 113–89, § 26(a)(1)](https://www.govinfo.gov/link/plaw/113/public/89), Mar. 21, 2014, [128 Stat. 1032](https://www.govinfo.gov/link/statute/128/1032).)*

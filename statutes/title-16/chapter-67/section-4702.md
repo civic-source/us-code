@@ -3,9 +3,10 @@ title: "Section 4702 - Definitions"
 usc_title: 16
 usc_section: "4702"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 4702"
-generated_at: "2026-03-30T02:54:23.045Z"
+generated_at: "2026-11-23T20:26:20.748Z"
+status: "active"
 ---
 
 # § 4702. Definitions
@@ -44,3 +45,7 @@ As used in this chapter, the term—
   - **(17)** “Under Secretary” means the Under Secretary of Commerce for Oceans and Atmosphere;
   - **(18)** “waters of the United States” means the navigable waters and the territorial sea of the United States; and
   - **(19)** “unintentional introduction” means an introduction of nonindigenous species that occurs as the result of activities other than the purposeful or intentional introduction of the species involved, such as the transport of nonindigenous species in ballast or in water used to transport fish, mollusks or crustaceans for aquaculture or other purposes.
+
+## Source Credit
+
+*([Pub. L. 101–646, title I, § 1003](https://www.govinfo.gov/link/plaw/101/public/646), Nov. 29, 1990, [104 Stat. 4762](https://www.govinfo.gov/link/statute/104/4762); [Pub. L. 102–580, title III, § 302(b)(2)](https://www.govinfo.gov/link/plaw/102/public/580), Oct. 31, 1992, [106 Stat. 4839](https://www.govinfo.gov/link/statute/106/4839); [Pub. L. 104–332, § 2(a)(2)](https://www.govinfo.gov/link/plaw/104/public/332), (h)(1), (3), Oct. 26, 1996, [110 Stat. 4074](https://www.govinfo.gov/link/statute/110/4074), 4091; [Pub. L. 117–263, div. K, title CXIII, § 11327(a)](https://www.govinfo.gov/link/plaw/117/public/263), (e)(2), Dec. 23, 2022, [136 Stat. 4096](https://www.govinfo.gov/link/statute/136/4096), 4098.)*

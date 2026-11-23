@@ -3,9 +3,10 @@ title: "Section 45e - Office for the prevention of fraud targeting seniors"
 usc_title: 15
 usc_section: "45e"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 45e"
-generated_at: "2026-03-30T02:54:08.025Z"
+generated_at: "2026-11-23T20:26:03.394Z"
+status: "active"
 ---
 
 # § 45e. Office for the prevention of fraud targeting seniors
@@ -22,3 +23,19 @@ generated_at: "2026-03-30T02:54:08.025Z"
     - **(B)** provide to individuals described in subparagraph (A), and to any other persons, specific and general information on mail, television, internet, telemarketing, and robocall fraud, including descriptions of the most common schemes using such methods of communication.
 - **(b)** The Commission shall commence carrying out the requirements of this section not later than 1 year after March 15, 2022 .
 - **(c)** No additional funds are authorized to be appropriated to carry out this section and the Commission shall carry out this section using amounts otherwise made available to the Commission.
+
+Establishment
+
+Members
+
+No Compensation for Members
+
+Duties.—
+
+In general
+
+Encouraged use
+
+## Source Credit
+
+*([Pub. L. 117–103, div. Q, title I, § 122](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 811](https://www.govinfo.gov/link/statute/136/811).)*

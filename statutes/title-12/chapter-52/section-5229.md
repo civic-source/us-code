@@ -3,9 +3,10 @@ title: "Section 5229 - Judicial review and related matters"
 usc_title: 12
 usc_section: "5229"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5229"
-generated_at: "2026-03-30T02:53:53.526Z"
+generated_at: "2026-11-23T20:25:59.456Z"
+status: "active"
 ---
 
 # § 5229. Judicial review and related matters
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:53.526Z"
 - **(b)**
   - **(1)** The terms of any residential mortgage loan that is part of any purchase by the Secretary under this chapter shall remain subject to all claims and defenses that would otherwise apply, notwithstanding the exercise of authority by the Secretary under this chapter.
   - **(2)** Any exercise of the authority of the Secretary pursuant to this chapter shall not impair the claims or defenses that would otherwise apply with respect to persons other than the Secretary. Except as established in any contract, a servicer of pooled residential mortgages owes any 2 2 So in original. Probably should be “a”. duty to determine whether the net present value of the payments on the loan, as modified, is likely to be greater than the anticipated net recovery that would result from foreclosure to all investors and holders of beneficial interests in such investment, but not to any individual or groups of investors or beneficial interest holders, and shall be deemed to act in the best interests of all such investors or holders of beneficial interests if the servicer agrees to or implements a modification or workout plan when the servicer takes reasonable loss mitigation actions, including partial payments.
+
+## Source Credit
+
+*([Pub. L. 110–343, div. A, title I, § 119](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3787](https://www.govinfo.gov/link/statute/122/3787).)*

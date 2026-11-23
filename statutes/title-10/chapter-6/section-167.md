@@ -3,9 +3,10 @@ title: "Section 167 - Unified combatant command for special operations forces"
 usc_title: 10
 usc_section: "167"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 167"
-generated_at: "2026-03-30T02:53:38.042Z"
+generated_at: "2026-11-23T20:25:50.845Z"
+status: "active"
 ---
 
 # § 167. Unified combatant command for special operations forces
@@ -78,3 +79,65 @@ generated_at: "2026-03-30T02:53:38.042Z"
 - **(l)**
   - **(1)** Before the budget proposal for the special operations command for any fiscal year is submitted to the Secretary of Defense, the commander of the command shall consult with the Secretaries of the military departments concerning funding for reserve component special operations units. If the Secretary of a military department does not concur in the recommended level of funding with respect to any such unit that is under the jurisdiction of the Secretary, the commander shall include with the budget proposal submitted to the Secretary of Defense the views of the Secretary of the military department concerning such funding.
   - **(2)** Before the budget proposal for a military department for any fiscal year is submitted to the Secretary of Defense, the Secretary of that military department shall consult with the commander of the special operations command concerning funding for special operations forces in the military personnel budget for a reserve component in that military department. If the commander of that command does not concur in the recommended level of funding with respect to reserve component special operations units, the Secretary shall include with the budget proposal submitted to the Secretary of Defense the views of the commander of that command.
+
+Establishment
+
+Assignment of Forces
+
+Grade of Commander
+
+Command of Activity or Mission
+
+Authority of Combatant Commander
+
+Administrative Chain of Command
+
+Budget
+
+Intelligence and Special Activities
+
+Regulations
+
+Identification of Special Operations Forces
+
+Special Operations Activities
+
+Budget Support for Reserve Elements
+
+Review Required
+
+Elements of Review
+
+Report Required
+
+Definitions
+
+In General
+
+Processes and Procedures
+
+Requirement
+
+Format
+
+Annual Reports Required.—
+
+In general
+
+Combat mission requirements funds
+
+Elements
+
+Form
+
+“The Secretary of Defense shall provide sufficient resources for the commander of the unified combatant command for special operations forces established pursuant to section 167 of title 10 , United States Code, to carry out his duties and responsibilities, including particularly his duties and responsibilities relating to the following functions:
+
+Major Force Program Category
+
+Program and Budget Execution
+
+Grade for Commanders of Certain Area Special Operations Commands
+
+## Source Credit
+
+*(Added [Pub. L. 99–500, § 101(c) [title IX, § 9115(b)(1)]](https://www.govinfo.gov/link/plaw/99/public/500), Oct. 18, 1986, [100 Stat. 1783–82](https://www.govinfo.gov/link/statute/100/1783), 1783–122, and [Pub. L. 99–591, § 101(c) [title IX, § 9115(b)(1)]](https://www.govinfo.gov/link/plaw/99/public/591), Oct. 30, 1986, [100 Stat. 3341–82](https://www.govinfo.gov/link/statute/100/3341), 3341–122; [Pub. L. 99–661, div. A, title XIII, § 1311(b)(1)](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 3983](https://www.govinfo.gov/link/statute/100/3983); amended [Pub. L. 100–180, div. A, title XII, § 1211(d)](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1156](https://www.govinfo.gov/link/statute/101/1156); [Pub. L. 100–456, div. A, title VII, § 712](https://www.govinfo.gov/link/plaw/100/public/456), Sept. 29, 1988, [102 Stat. 1997](https://www.govinfo.gov/link/statute/102/1997); [Pub. L. 102–88, title VI, § 602(c)(3)](https://www.govinfo.gov/link/plaw/102/public/88), Aug. 14, 1991, [105 Stat. 444](https://www.govinfo.gov/link/statute/105/444); [Pub. L. 103–337, div. A, title IX, § 925](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2832](https://www.govinfo.gov/link/statute/108/2832); [Pub. L. 110–181, div. A, title VIII, § 810](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 217](https://www.govinfo.gov/link/statute/122/217); [Pub. L. 112–81, div. A, title X, § 1086(1)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1603](https://www.govinfo.gov/link/statute/125/1603); [Pub. L. 113–66, div. A, title IX, § 903](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 816](https://www.govinfo.gov/link/statute/127/816); [Pub. L. 113–291, div. A, title X, § 1071(c)(3)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3508](https://www.govinfo.gov/link/statute/128/3508); [Pub. L. 114–328, div. A, title IX, § 922(c)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2356](https://www.govinfo.gov/link/statute/130/2356).)*

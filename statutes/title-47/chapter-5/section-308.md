@@ -3,9 +3,10 @@ title: "Section 308 - Requirements for license"
 usc_title: 47
 usc_section: "308"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 308"
-generated_at: "2026-03-30T02:56:24.506Z"
+generated_at: "2026-11-23T20:27:28.870Z"
+status: "active"
 ---
 
 # § 308. Requirements for license
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:24.506Z"
 - **(b)** All applications for station licenses, or modifications or renewals thereof, shall set forth such facts as the Commission by regulation may prescribe as to the citizenship, character, and financial, technical, and other qualifications of the applicant to operate the station; the ownership and location of the proposed station and of the stations, if any, with which it is proposed to communicate; the frequencies and the power desired to be used; the hours of the day or other periods of time during which it is proposed to operate the station; the purposes for which the station is to be used; and such other information as it may require. The Commission, at any time after the filing of such original application and during the term of any such license, may require from an applicant or licensee further written statements of fact to enable it to determine whether such original application should be granted or denied or such license revoked. Such application and/or such statement of fact shall be signed by the applicant and/or licensee in any manner or form, including by electronic means, as the Commission may prescribe by regulation.
 - **(c)** The Commission in granting any license for a station intended or used for commercial communication between the United States or any Territory or possession, continental or insular, subject to the jurisdiction of the United States, and any foreign country, may impose any terms, conditions, or restrictions authorized to be imposed with respect to submarine-cable licenses by section 35 of this title .
 - **(d)** Each applicant for the renewal of a commercial or noncommercial television license shall attach as an exhibit to the application a summary of written comments and suggestions received from the public and maintained by the licensee (in accordance with Commission regulations) that comment on the applicant’s programming, if any, and that are characterized by the commentor as constituting violent programming.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title III, § 308, [48 Stat. 1084](https://www.govinfo.gov/link/statute/48/1084); July 16, 1952, ch. 879, § 6, [66 Stat. 714](https://www.govinfo.gov/link/statute/66/714); [Pub. L. 87–444, § 3](https://www.govinfo.gov/link/plaw/87/public/444), Apr. 27, 1962, [76 Stat. 63](https://www.govinfo.gov/link/statute/76/63); [Pub. L. 102–538, title II, § 204(b)](https://www.govinfo.gov/link/plaw/102/public/538), Oct. 27, 1992, [106 Stat. 3543](https://www.govinfo.gov/link/statute/106/3543); [Pub. L. 103–414, title III, § 303(a)(15)](https://www.govinfo.gov/link/plaw/103/public/414), Oct. 25, 1994, [108 Stat. 4295](https://www.govinfo.gov/link/statute/108/4295); [Pub. L. 104–104, title II, § 204(b)](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 113](https://www.govinfo.gov/link/statute/110/113).)*

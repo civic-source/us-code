@@ -3,9 +3,10 @@ title: "Section 3310a - Research equipment grants"
 usc_title: 7
 usc_section: "3310a"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 3310a"
-generated_at: "2026-03-30T02:53:42.401Z"
+generated_at: "2026-11-23T20:25:41.586Z"
+status: "active"
 ---
 
 # § 3310a. Research equipment grants
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:42.401Z"
   - **(1)** a college or university; or
   - **(2)** a State cooperative institution.
 - **(e)** There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2019 through 2023.
+
+## Source Credit
+
+*([Pub. L. 95–113, title XIV, § 1462A](https://www.govinfo.gov/link/plaw/95/public/113), as added [Pub. L. 115–334, title VII, § 7126](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4794](https://www.govinfo.gov/link/statute/132/4794).)*

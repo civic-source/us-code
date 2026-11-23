@@ -3,9 +3,10 @@ title: "Section 2151 - Rear admirals and rear admirals (lower half); continuatio
 usc_title: 14
 usc_section: "2151"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 2151"
-generated_at: "2026-03-30T02:53:51.498Z"
+generated_at: "2026-11-23T20:25:54.596Z"
+status: "active"
 ---
 
 # § 2151. Rear admirals and rear admirals (lower half); continuation on active duty; involuntary retirement
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:51.498Z"
 - **(g)**
   - **(1)** Unless retired under another provision of law, an officer subject to this section shall, except as provided in paragraph (2), be retired on July 1 of the promotion year immediately following the promotion year in which that officer completes a total of thirty-six years of active commissioned service unless selected for or serving in the grade of admiral.
   - **(2)** The Commandant, with the approval of the Secretary, may by annual action retain on active duty from promotion year to promotion year any officer who would otherwise be retired under paragraph (1). Unless selected for or serving in the grade of admiral or retired under another provision of law, an officer so retained shall be retired on July 1 of the promotion year immediately following the promotion year in which no action is taken to further retain that officer under this paragraph.
+
+## Source Credit
+
+*(Added [Pub. L. 88–130, § 1(10)(C)](https://www.govinfo.gov/link/plaw/88/public/130), Sept. 24, 1963, [77 Stat. 187](https://www.govinfo.gov/link/statute/77/187), § 290; amended [Pub. L. 92–451, § 1(7)](https://www.govinfo.gov/link/plaw/92/public/451), Oct. 2, 1972, [86 Stat. 756](https://www.govinfo.gov/link/statute/86/756); [Pub. L. 94–546, § 1(27)](https://www.govinfo.gov/link/plaw/94/public/546), Oct. 18, 1976, [90 Stat. 2521](https://www.govinfo.gov/link/statute/90/2521); [Pub. L. 97–136, § 6(b)](https://www.govinfo.gov/link/plaw/97/public/136), Dec. 29, 1981, [95 Stat. 1706](https://www.govinfo.gov/link/statute/95/1706); [Pub. L. 97–417, § 2(9)(A)](https://www.govinfo.gov/link/plaw/97/public/417), Jan. 4, 1983, [96 Stat. 2086](https://www.govinfo.gov/link/statute/96/2086); [Pub. L. 98–557, § 25(a)(2)](https://www.govinfo.gov/link/plaw/98/public/557), Oct. 30, 1984, [98 Stat. 2872](https://www.govinfo.gov/link/statute/98/2872); [Pub. L. 99–145, title V, § 514(c)(1)](https://www.govinfo.gov/link/plaw/99/public/145), (2)(A), Nov. 8, 1985, [99 Stat. 629](https://www.govinfo.gov/link/statute/99/629); [Pub. L. 102–241, § 5](https://www.govinfo.gov/link/plaw/102/public/241), Dec. 19, 1991, [105 Stat. 2210](https://www.govinfo.gov/link/statute/105/2210); [Pub. L. 103–206, title II, § 205(d)](https://www.govinfo.gov/link/plaw/103/public/206), Dec. 20, 1993, [107 Stat. 2422](https://www.govinfo.gov/link/statute/107/2422); [Pub. L. 111–281, title V, § 511(e)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2952](https://www.govinfo.gov/link/statute/124/2952); [Pub. L. 112–213, title II, § 217(5)](https://www.govinfo.gov/link/plaw/112/public/213), Dec. 20, 2012, [126 Stat. 1557](https://www.govinfo.gov/link/statute/126/1557); [Pub. L. 114–328, div. C, title XXXV, § 3522](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2793](https://www.govinfo.gov/link/statute/130/2793); [Pub. L. 115–232, div. C, title XXXV, § 3537](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2322](https://www.govinfo.gov/link/statute/132/2322); renumbered § 2151 and amended [Pub. L. 115–282, title I](https://www.govinfo.gov/link/plaw/115/public/282), §§ 112(b), 123(b)(2), Dec. 4, 2018, [132 Stat. 4216](https://www.govinfo.gov/link/statute/132/4216), 4240.)*

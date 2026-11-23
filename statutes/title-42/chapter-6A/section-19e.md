@@ -3,9 +3,10 @@ title: "Section 19e - Water infrastructure and workforce investment"
 usc_title: 42
 usc_section: "19e"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 19e"
-generated_at: "2026-03-30T02:56:10.806Z"
+generated_at: "2026-11-23T20:27:20.511Z"
+status: "active"
 ---
 
 # § 300j–19e. Water infrastructure and workforce investment
@@ -63,3 +64,7 @@ generated_at: "2026-03-30T02:56:10.806Z"
     - **(B)** Not later than 2 years after November 15, 2021 , the Administrator, in coordination with the working group established under subparagraph (A), shall submit to Congress a report describing potential solutions to recruitment, training, and retention challenges in the water and wastewater utility workforce.
     - **(C)** In carrying out the duties of the working group established under subparagraph (A), the working group shall consult with State operator certification programs.
   - **(5)** There is authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2022 through 2026.
+
+## Source Credit
+
+*([Pub. L. 115–270, title IV, § 4304](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3882](https://www.govinfo.gov/link/statute/132/3882); [Pub. L. 117–58, div. E, title II, § 50211](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1170](https://www.govinfo.gov/link/statute/135/1170).)*

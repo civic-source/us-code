@@ -3,9 +3,10 @@ title: "Section 1397ii - Miscellaneous provisions"
 usc_title: 42
 usc_section: "1397ii"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1397ii"
-generated_at: "2026-03-30T02:56:11.074Z"
+generated_at: "2026-11-23T20:27:21.689Z"
+status: "active"
 ---
 
 # § 1397ii. Miscellaneous provisions
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.074Z"
     - **(F)** Continue making the adjustments described in the last sentence of paragraph (1) with respect to expansion of the sample size used in State sampling units, the number of sampling units in a State, and using an appropriate verification element.
   - **(3)** If, on the basis of the assessment required under paragraph (2)(D), the Secretary of Commerce recommends to the Secretary of Health and Human Services that American Community Survey estimates should be used in lieu of, or in some combination with, Current Population Survey estimates for the purposes described in paragraph (2)(B), the Secretary of Health and Human Services, in consultation with the States, may provide for a period during which the Secretary may transition from carrying out such purposes through the use of Current Population Survey estimates to the use of American Community Survey estimates (in lieu of, or in combination with the Current Population Survey estimates, as recommended), provided that any such transition is implemented in a manner that is designed to avoid adverse impacts upon States with approved State child health plans under this subchapter.
   - **(4)** Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated $20,000,000 for fiscal year 2009 and each fiscal year thereafter for the purpose of carrying out this subsection (except that only with respect to fiscal year 2008, there are appropriated $20,000,000 for the purpose of carrying out this subsection, to remain available until expended).
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XXI, § 2109, as added [Pub. L. 105–33, title IV, § 4901(a)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 567](https://www.govinfo.gov/link/statute/111/567); amended [Pub. L. 106–113, div. B, § 1000(a)(6) [title VII, §§ 703(a), 705(c)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–400, 1501A–403; [Pub. L. 110–173, title II, § 205](https://www.govinfo.gov/link/plaw/110/public/173), Dec. 29, 2007, [121 Stat. 2514](https://www.govinfo.gov/link/statute/121/2514); [Pub. L. 111–3, title VI, § 602](https://www.govinfo.gov/link/plaw/111/public/3), Feb. 4, 2009, [123 Stat. 98](https://www.govinfo.gov/link/statute/123/98); [Pub. L. 111–148, title II, § 2102(a)(6)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 288](https://www.govinfo.gov/link/statute/124/288).)*

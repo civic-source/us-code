@@ -3,9 +3,10 @@ title: "Section 3334l - Oversight of Defense Intelligence Agency culture"
 usc_title: 50
 usc_section: "3334l"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3334l"
-generated_at: "2026-03-30T02:56:26.244Z"
+generated_at: "2026-11-23T20:27:30.963Z"
+status: "active"
 ---
 
 # § 3334l. Oversight of Defense Intelligence Agency culture
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:26.244Z"
 - **(e)** Not later than 270 days after December 23, 2022 , the Director of the Defense Intelligence Agency shall submit to the appropriate committees of Congress a report containing an analysis of the feasibility (including the anticipated cost, personnel requirements, necessary authorities, and such other matters as may be determined appropriate by the Director for purposes of analyzing feasibility) of—
   - **(1)** conducting 360-degree performance reviews among employees of the Defense Intelligence Agency; and
   - **(2)** including leadership suitability assessments (including personality evaluations, communication style assessments, and emotional intelligence aptitude assessments) for promotions of such employees to a position within grade GS–14 or above of the General Schedule.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. F, title LXIV, § 6422](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3530](https://www.govinfo.gov/link/statute/136/3530); [Pub. L. 118–31, div. G, title IX, § 7901(b)(1)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1106](https://www.govinfo.gov/link/statute/137/1106).)*

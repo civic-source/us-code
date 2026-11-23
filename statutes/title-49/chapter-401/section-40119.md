@@ -3,9 +3,10 @@ title: "Section 40119 - Sensitive security information"
 usc_title: 49
 usc_section: "40119"
 chapter: 401
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 40119"
-generated_at: "2026-03-30T02:56:19.371Z"
+generated_at: "2026-11-23T20:27:35.067Z"
+status: "active"
 ---
 
 # § 40119. Sensitive security information
@@ -23,3 +24,19 @@ generated_at: "2026-03-30T02:56:19.371Z"
     - **(D)** prevent or delay the release of information that does not require protection in the interest of transportation security, including basic scientific research information not clearly related to transportation security.
   - **(4)** Section 552a of title 5 shall not apply to disclosures that the Administrator may make from the systems of records of the Federal Aviation Administration to any Federal law enforcement, intelligence, protective service, immigration, or national security official in order to assist the official receiving the information in the performance of official duties.
 - **(b)** Except as otherwise provided by law, a duty or power under this section may not be transferred to another department, agency, or instrumentality of the Federal Government.
+
+Disclosure.—
+
+Regulations prohibiting disclosure
+
+Disclosure to congress
+
+Rule of construction
+
+Law enforcement disclosure
+
+Transfers of Duties and Powers Prohibited
+
+## Source Credit
+
+*(Added [Pub. L. 118–63, title II, § 223(a)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1060](https://www.govinfo.gov/link/statute/138/1060).)*

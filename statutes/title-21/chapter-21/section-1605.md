@@ -3,9 +3,10 @@ title: "Section 1605 - Procedures for dismissal of civil actions against biomate
 usc_title: 21
 usc_section: "1605"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 1605"
-generated_at: "2026-03-30T02:54:54.304Z"
+generated_at: "2026-11-23T20:26:27.884Z"
+status: "active"
 ---
 
 # § 1605. Procedures for dismissal of civil actions against biomaterials suppliers
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:54:54.304Z"
   - **(3)** A biomaterials supplier shall be subject to discovery in connection with a motion seeking dismissal or summary judgment on the basis of the inapplicability of section 1604(d) of this title or the failure to establish the applicable elements of section 1604(d) of this title solely to the extent permitted by the applicable Federal or State rules for discovery against nonparties.
 - **(e)** An order granting a motion to dismiss or for summary judgment pursuant to this section shall be entered with prejudice, except insofar as the moving defendant may be rejoined to the action as provided in section 1606 of this title .
 - **(f)** The manufacturer of an implant that is the subject of an action covered under this chapter shall be permitted to conduct litigation on any motion for summary judgment or dismissal filed by a biomaterials supplier who is a defendant under this section on behalf of such supplier if the manufacturer and any other defendant in such action enter into a valid and applicable contractual agreement under which the manufacturer agrees to bear the cost of such litigation or to conduct such litigation.
+
+## Source Credit
+
+*([Pub. L. 105–230, § 6](https://www.govinfo.gov/link/plaw/105/public/230), Aug. 13, 1998, [112 Stat. 1526](https://www.govinfo.gov/link/statute/112/1526).)*

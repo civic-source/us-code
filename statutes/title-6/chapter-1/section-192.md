@@ -3,9 +3,10 @@ title: "Section 192 - Homeland Security Institute"
 usc_title: 6
 usc_section: "192"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 192"
-generated_at: "2026-03-30T02:53:09.448Z"
+generated_at: "2026-11-23T20:25:34.656Z"
+status: "active"
 ---
 
 # § 192. Homeland Security Institute
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:09.448Z"
 - **(e)** The Institute shall utilize the capabilities of the National Infrastructure Simulation and Analysis Center.
 - **(f)** The Institute shall transmit to the Secretary and Congress an annual report on the activities of the Institute under this section.
 - **(g)** The Homeland Security Institute shall terminate 5 years after its establishment.
+
+## Source Credit
+
+*([Pub. L. 107–296, title III, § 312](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2176](https://www.govinfo.gov/link/statute/116/2176); [Pub. L. 108–334, title V, § 519](https://www.govinfo.gov/link/plaw/108/public/334), Oct. 18, 2004, [118 Stat. 1318](https://www.govinfo.gov/link/statute/118/1318).)*

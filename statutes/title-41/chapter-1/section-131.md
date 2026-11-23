@@ -3,9 +3,10 @@ title: "Section 131 - Acquisition"
 usc_title: 41
 usc_section: "131"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 131"
-generated_at: "2026-03-30T02:55:55.799Z"
+generated_at: "2026-11-23T20:27:04.375Z"
+status: "active"
 ---
 
 # § 131. Acquisition
@@ -22,3 +23,24 @@ In division B, the term “acquisition”—
     - **(F)** contract financing;
     - **(G)** management and measurement of contract performance through final delivery and payment; and
     - **(H)** technical and management functions directly related to the process of fulfilling agency requirements by contract.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 131 | 41:403(16). | Pub. L. 93–400, § 4(16) , as added Pub. L. 108–136, title XIV, § 1411 , Nov. 24, 2003 , 117 Stat. 1663 . |
+
+
+Historical and Revision Notes
+
+131
+
+Pub. L. 93–400, § 4(16)
+
+Pub. L. 108–136, title XIV, § 1411
+
+Nov. 24, 2003
+
+117 Stat. 1663
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3682](https://www.govinfo.gov/link/statute/124/3682).)*

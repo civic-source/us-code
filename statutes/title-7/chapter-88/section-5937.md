@@ -3,9 +3,10 @@ title: "Section 5937 - Natural products research program"
 usc_title: 7
 usc_section: "5937"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 5937"
-generated_at: "2026-03-30T02:53:42.422Z"
+generated_at: "2026-11-23T20:25:41.674Z"
+status: "active"
 ---
 
 # § 5937. Natural products research program
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:42.422Z"
   - **(2)** approve funding for research on the basis of merit, quality, and relevance to advancing the purposes of this section.
 - **(d)** Funds made available under this section shall not be used for the construction of a new building or facility or the acquisition, expansion, remodeling, or alteration of an existing building or facility (including site grading and improvement and architect fees).
 - **(e)** There are authorized to be appropriated to carry out this section $7,000,000 for each of fiscal years 2014 through 2023.
+
+## Source Credit
+
+*([Pub. L. 110–234, title VII, § 7525](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1273](https://www.govinfo.gov/link/statute/122/1273); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, § 7525, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2035; [Pub. L. 113–79, title VII, § 7515](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 903](https://www.govinfo.gov/link/statute/128/903); [Pub. L. 115–334, title VII, § 7413](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4819](https://www.govinfo.gov/link/statute/132/4819).)*

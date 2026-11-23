@@ -3,9 +3,10 @@ title: "Section 4131 - Levee certifications"
 usc_title: 42
 usc_section: "4131"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4131"
-generated_at: "2026-03-30T02:56:11.200Z"
+generated_at: "2026-11-23T20:27:22.365Z"
+status: "active"
 ---
 
 # § 4131. Levee certifications
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.200Z"
     - **(A)** The Secretary may use amounts made available under section 1962d–16 of this title to carry out this subsection.
     - **(B)** The Secretary shall apply the cost share under section 1962d–16(b) of this title to any activities carried out under this subsection.
     - **(C)** Notwithstanding subparagraph (B), a non-Federal interest may fund up to 100 percent of the cost of any activity carried out under this subsection.
+
+## Source Credit
+
+*([Pub. L. 113–121, title III, § 3014](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1287](https://www.govinfo.gov/link/statute/128/1287); [Pub. L. 116–260, div. AA, title I, § 142(b)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2653](https://www.govinfo.gov/link/statute/134/2653).)*

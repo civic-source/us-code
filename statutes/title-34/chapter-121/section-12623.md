@@ -3,9 +3,10 @@ title: "Section 12623 - Standards and best practices for use of non-invasive and
 usc_title: 34
 usc_section: "12623"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12623"
-generated_at: "2026-03-30T02:55:33.292Z"
+generated_at: "2026-11-23T20:26:50.571Z"
+status: "active"
 ---
 
 # § 12623. Standards and best practices for use of non-invasive and non-permanent tracking devices
@@ -36,3 +37,21 @@ generated_at: "2026-03-30T02:55:33.292Z"
 - **(d)**
   - **(1)** Any tracking data provided by tracking devices issued under this program may not be used by a Federal entity to create a database.
   - **(2)** Nothing in this Act may be construed to require that a parent or guardian use a tracking device to monitor the location of a child or adult under that parent or guardian’s supervision if the parent or guardian does not believe that the use of such device is necessary or in the interest of the child or adult under supervision.
+
+“In this title [enacting this section]:
+
+Child
+
+Indian tribe
+
+Law enforcement agency
+
+Non-invasive and non-permanent
+
+State
+
+Unit of local government
+
+## Source Credit
+
+*([Pub. L. 115–141, div. Q, title III, § 302](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1121](https://www.govinfo.gov/link/statute/132/1121).)*

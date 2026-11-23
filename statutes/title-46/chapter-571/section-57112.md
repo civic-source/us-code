@@ -3,9 +3,10 @@ title: "Section 57112 - Requirements for purchasing federally auctioned vessels"
 usc_title: 46
 usc_section: "57112"
 chapter: 571
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 57112"
-generated_at: "2026-03-30T02:56:15.581Z"
+generated_at: "2026-11-23T20:27:27.406Z"
+status: "active"
 ---
 
 # § 57112. Requirements for purchasing federally auctioned vessels
@@ -18,3 +19,11 @@ generated_at: "2026-03-30T02:56:15.581Z"
   - **(1)** a government owned vessel disposed of in accordance with this part and section 548 of title 40 ;
   - **(2)** a vessel seized or forfeited pursuant to any law, and auctioned by the Federal Government, including a vessel seized or forfeited pursuant to section 7301 or 7302 of the Internal Revenue Code of 1986; or
   - **(3)** a fishing vessel seized or forfeited pursuant to section 310 of the Magnuson-Stevens Fishery Conservation and Management Act ( 16 U.S.C. 1860 ).
+
+In General
+
+Covered Vessel Defined
+
+## Source Credit
+
+*(Added [Pub. L. 118–159, div. C, title XXXV, § 3532(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2312](https://www.govinfo.gov/link/statute/138/2312).)*

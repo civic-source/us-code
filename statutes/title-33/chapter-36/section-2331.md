@@ -3,9 +3,10 @@ title: "Section 2331 - Use of continuing contracts for construction of certain p
 usc_title: 33
 usc_section: "2331"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2331"
-generated_at: "2026-03-30T02:55:41.125Z"
+generated_at: "2026-11-23T20:26:54.189Z"
+status: "active"
 ---
 
 # § 2331. Use of continuing contracts for construction of certain projects
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:41.125Z"
   - **(1)** Construction, General.
   - **(2)** Operation and Maintenance, General.
   - **(3)** Flood Control, Mississippi River and Tributaries.
+
+## Source Credit
+
+*([Pub. L. 106–53, title II, § 206](https://www.govinfo.gov/link/plaw/106/public/53), Aug. 17, 1999, [113 Stat. 286](https://www.govinfo.gov/link/statute/113/286).)*

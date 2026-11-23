@@ -3,9 +3,10 @@ title: "Section 2206 - Emergency forest restoration program"
 usc_title: 16
 usc_section: "2206"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 2206"
-generated_at: "2026-03-30T02:54:23.001Z"
+generated_at: "2026-11-23T20:26:20.603Z"
+status: "active"
 ---
 
 # § 2206. Emergency forest restoration program
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:23.001Z"
 - **(c)** To be eligible to receive a payment under subsection (b), an owner must demonstrate to the satisfaction of the Secretary that the nonindustrial private forest land on which the emergency measures are carried out had tree cover immediately before the natural disaster.
 - **(d)** Payments made under subsection (b) shall not exceed 75 percent of the total cost of the emergency measures carried out by an owner of nonindustrial private forest land.
 - **(e)** There are authorized to be appropriated to the Secretary such funds as may be necessary to carry out this section. Amounts so appropriated shall remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 95–334, title IV, § 407](https://www.govinfo.gov/link/plaw/95/public/334), as added [Pub. L. 110–234, title VIII, § 8203(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1290](https://www.govinfo.gov/link/statute/122/1290), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VIII, § 8203(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2051; amended [Pub. L. 115–334, title II, § 2403(a)(2)(B)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4571](https://www.govinfo.gov/link/statute/132/4571).)*

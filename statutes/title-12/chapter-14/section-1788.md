@@ -3,9 +3,10 @@ title: "Section 1788 - Special assistance to avoid liquidation"
 usc_title: 12
 usc_section: "1788"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1788"
-generated_at: "2026-03-30T02:53:53.442Z"
+generated_at: "2026-11-23T20:25:59.085Z"
+status: "active"
 ---
 
 # § 1788. Special assistance to avoid liquidation
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:53.442Z"
   - **(1)** deal with, complete, reconstruct, rent, renovate, modernize, insure, make contracts for the management of, sell for cash or credit, or lease, in its discretion, any real property acquired or held by it under this section; and
   - **(2)** assign or sell at public or private sale, or otherwise dispose of, any evidence of debt, contract, claim, personal property, or security assigned to or held by it under this section.
 - **(c)** Money received by the Board in carrying out this section shall be paid into the Fund.
+
+## Source Credit
+
+*(June 26, 1934, ch. 750, title II, § 208, as added [Pub. L. 91–468, § 1(3)](https://www.govinfo.gov/link/plaw/91/public/468), Oct. 19, 1970, [84 Stat. 1013](https://www.govinfo.gov/link/statute/84/1013); amended [Pub. L. 92–221, § 3](https://www.govinfo.gov/link/plaw/92/public/221), Dec. 23, 1971, [85 Stat. 797](https://www.govinfo.gov/link/statute/85/797); [Pub. L. 93–383, title VII, § 729](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 721](https://www.govinfo.gov/link/statute/88/721); [Pub. L. 95–630, title V, § 502(b)](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3681](https://www.govinfo.gov/link/statute/92/3681); [Pub. L. 100–86, title VII, § 714(b)](https://www.govinfo.gov/link/plaw/100/public/86), (c), Aug. 10, 1987, [101 Stat. 655](https://www.govinfo.gov/link/statute/101/655).)*

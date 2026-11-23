@@ -3,9 +3,10 @@ title: "Section 16133 - State grant, rebate, and loan programs"
 usc_title: 42
 usc_section: "16133"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16133"
-generated_at: "2026-03-30T02:56:11.469Z"
+generated_at: "2026-11-23T20:27:23.613Z"
+status: "active"
 ---
 
 # § 16133. State grant, rebate, and loan programs
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:56:11.469Z"
   - **(5)** Not later than 60 days after the date of the award of a grant, rebate, or loan by a State, the State shall publish on the Web site of the State—
     - **(A)** for rebates, grants, and loans provided to the owner of a diesel vehicle or fleet, the total number and dollar amount of rebates, grants, or loans provided, as well as a breakdown of the technologies funded through the rebates, grants, or loans; and
     - **(B)** for other rebates, grants, and loans, a description of each application for which the grant, rebate, or loan is provided.
+
+## Source Credit
+
+*([Pub. L. 109–58, title VII, § 793](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 841](https://www.govinfo.gov/link/statute/119/841); [Pub. L. 110–255, § 3(b)](https://www.govinfo.gov/link/plaw/110/public/255), June 30, 2008, [122 Stat. 2424](https://www.govinfo.gov/link/statute/122/2424); [Pub. L. 111–364, § 2(c)](https://www.govinfo.gov/link/plaw/111/public/364), Jan. 4, 2011, [124 Stat. 4059](https://www.govinfo.gov/link/statute/124/4059).)*

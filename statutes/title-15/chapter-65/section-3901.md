@@ -3,9 +3,10 @@ title: "Section 3901 - Definitions"
 usc_title: 15
 usc_section: "3901"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 3901"
-generated_at: "2026-03-30T02:54:08.196Z"
+generated_at: "2026-11-23T20:26:04.318Z"
+status: "active"
 ---
 
 # § 3901. Definitions
@@ -45,3 +46,17 @@ generated_at: "2026-03-30T02:54:08.196Z"
     - **(A)** to meet obligations to policyholders with respect to known claims and reasonably anticipated claims; or
     - **(B)** to pay other obligations in the normal course of business.
 - **(b)** Nothing in this chapter shall be construed to affect either the tort law or the law governing the interpretation of insurance contracts of any State, and the definitions of liability, personal risk liability, and insurance under any State law shall not be applied for the purposes of this chapter, including recognition or qualification of risk retention groups or purchasing groups.
+
+General Rule
+
+Special Rule Regarding Feasibility Study
+
+Rule Regarding Pollution Liability.—
+
+In General
+
+Contents of the Report
+
+## Source Credit
+
+*([Pub. L. 97–45, § 2](https://www.govinfo.gov/link/plaw/97/public/45), Sept. 25, 1981, [95 Stat. 949](https://www.govinfo.gov/link/statute/95/949); [Pub. L. 98–193](https://www.govinfo.gov/link/plaw/98/public/193), Dec. 1, 1983, [97 Stat. 1344](https://www.govinfo.gov/link/statute/97/1344); [Pub. L. 99–563](https://www.govinfo.gov/link/plaw/99/public/563), §§ 3, 4, 12(b), Oct. 27, 1986, [100 Stat. 3170](https://www.govinfo.gov/link/statute/100/3170), 3171, 3177.)*

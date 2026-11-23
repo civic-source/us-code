@@ -3,9 +3,10 @@ title: "Section 1395ww - Payments to hospitals for inpatient hospital services"
 usc_title: 42
 usc_section: "1395ww"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1395ww"
-generated_at: "2026-03-30T02:56:11.014Z"
+generated_at: "2026-11-23T20:27:21.423Z"
+status: "active"
 ---
 
 # § 1395ww. Payments to hospitals for inpatient hospital services
@@ -152,13 +153,13 @@ generated_at: "2026-03-30T02:56:11.014Z"
       - **(ii)** with respect to a later cost reporting period beginning before fiscal year 1994, the target amount for the preceding 12-month cost reporting period, increased by the applicable percentage increase under subparagraph (B)(iv) for discharges occurring in the fiscal year in which that later cost reporting period begins,
       - **(iii)** with respect to discharges occurring in fiscal year 1994, the target amount for the cost reporting period beginning in fiscal year 1993 increased by the applicable percentage increase under subparagraph (B)(iv), or
       - **(iv)** with respect to discharges occurring in fiscal year 1995 and each subsequent fiscal year, the target amount for the preceding year increased by the applicable percentage increase under subparagraph (B)(iv).
-    - **(D)** For cost reporting periods ending on or before September 30, 1994 , and for discharges occurring on or after October 1, 1997 , and before January 31, 2026 , in the case of a hospital that is a medicare-dependent, small rural hospital (as defined in subsection (d)(5)(G)), subject to subparagraph (K), the term “target amount” means—
+    - **(D)** For cost reporting periods ending on or before September 30, 1994 , and for discharges occurring on or after October 1, 1997 , and before January 1, 2027 , in the case of a hospital that is a medicare-dependent, small rural hospital (as defined in subsection (d)(5)(G)), subject to subparagraph (K), the term “target amount” means—
       - **(i)** with respect to the first 12-month cost reporting period in which this subparagraph is applied to the hospital—
         - **(I)** the allowable operating costs of inpatient hospital services (as defined in subsection (a)(4)) recognized under this subchapter for the hospital for the 12-month cost reporting period (in this subparagraph referred to as the “base cost reporting period”) preceding the first cost reporting period for which this subsection was in effect with respect to such hospital, increased (in a compounded manner) by—
         - **(II)** the applicable percentage increases applied to such hospital under this paragraph for cost reporting periods after the base cost reporting period and up to and including such first 12-month cost reporting period, or
       - **(ii)** with respect to a later cost reporting period beginning before fiscal year 1994, the target amount for the preceding 12-month cost reporting period, increased by the applicable percentage increase under subparagraph (B)(iv) for discharges occurring in the fiscal year in which that later cost reporting period begins,
       - **(iii)** with respect to discharges occurring in fiscal year 1994, the target amount for the cost reporting period beginning in fiscal year 1993 increased by the applicable percentage increase under subparagraph (B)(iv), and
-      - **(iv)** with respect to discharges occurring during fiscal year 1998 through fiscal year 2025 and the portion of fiscal year 2026 beginning on October 1, 2025 , and ending on January 30, 2026 , the target amount for the preceding year increased by the applicable percentage increase under subparagraph (B)(iv).
+      - **(iv)** with respect to discharges occurring during fiscal year 1998 through fiscal year 2026 and the portion of fiscal year 2027 beginning on October 1, 2026 , and ending on December 31, 2026 , the target amount for the preceding year increased by the applicable percentage increase under subparagraph (B)(iv).
     - **(E)** In the case of a hospital described in clause (v) of subsection (d)(1)(B), the term “target amount” means—
       - **(i)** with respect to the first 12-month cost reporting period in which this subparagraph is applied to the hospital—
         - **(I)** the allowable operating costs of inpatient hospital services (as defined in subsection (a)(4)) recognized under this subchapter for the hospital for the 12-month cost reporting period (in this subparagraph referred to as the “base cost reporting period”) preceding the first cost reporting period for which this subsection was in effect with respect to such hospital, increased (in a compounded manner) by—
@@ -496,10 +497,10 @@ generated_at: "2026-03-30T02:56:11.014Z"
         - **(I)** In the case of discharges occurring on or after April 1, 2004 , subject to subclause (II), there shall be substituted for the disproportionate share adjustment percentage otherwise determined under clause (iv) (other than subclause (I)) or under clause (viii), (x), (xi), (xii), or (xiii), the disproportionate share adjustment percentage determined under clause (vii) (relating to large, urban hospitals).
         - **(II)** Under subclause (I), the disproportionate share adjustment percentage shall not exceed 12 percent for a hospital that is not classified as a rural referral center under subparagraph (C) or, in the case of discharges occurring on or after October 1, 2006 , as a medicare-dependent, small rural hospital under subparagraph (G)(iv).
     - **(G)**
-      - **(i)** For any cost reporting period beginning on or after April 1, 1990 , and before October 1, 1994 , or discharges occurring on or after October 1, 1997 , and before January 31, 2026 , in the case of a subsection (d) hospital which is a medicare-dependent, small rural hospital, payment under paragraph (1)(A) shall be equal to the sum of the amount determined under clause (ii) and the amount determined under paragraph (1)(A)(iii).
+      - **(i)** For any cost reporting period beginning on or after April 1, 1990 , and before October 1, 1994 , or discharges occurring on or after October 1, 1997 , and before January 1, 2027 , in the case of a subsection (d) hospital which is a medicare-dependent, small rural hospital, payment under paragraph (1)(A) shall be equal to the sum of the amount determined under clause (ii) and the amount determined under paragraph (1)(A)(iii).
       - **(ii)** The amount determined under this clause is—
         - **(I)** for discharges occurring during the 36-month period beginning with the first day of the cost reporting period that begins on or after April 1, 1990 , the amount by which the hospital’s target amount for the cost reporting period (as defined in subsection (b)(3)(D)) exceeds the amount determined under paragraph (1)(A)(iii); and
-        - **(II)** for discharges occurring during any subsequent cost reporting period (or portion thereof) and before October 1, 1994 , or discharges occurring on or after October 1, 1997 , and before January 31, 2026 , 50 percent (or 75 percent in the case of discharges occurring on or after October 1, 2006 ) of the amount by which the hospital’s target amount for the cost reporting period or for discharges in the fiscal year (as defined in subsection (b)(3)(D)) exceeds the amount determined under paragraph (1)(A)(iii).
+        - **(II)** for discharges occurring during any subsequent cost reporting period (or portion thereof) and before October 1, 1994 , or discharges occurring on or after October 1, 1997 , and before January 1, 2027 , 50 percent (or 75 percent in the case of discharges occurring on or after October 1, 2006 ) of the amount by which the hospital’s target amount for the cost reporting period or for discharges in the fiscal year (as defined in subsection (b)(3)(D)) exceeds the amount determined under paragraph (1)(A)(iii).
       - **(iii)** In the case of a medicare dependent, small rural hospital that experiences, in a cost reporting period compared to the previous cost reporting period, a decrease of more than 5 percent in its total number of inpatient cases due to circumstances beyond its control, the Secretary shall provide for such adjustment to the payment amounts under this subsection (other than under paragraph (9)) as may be necessary to fully compensate the hospital for the fixed costs it incurs in the period in providing inpatient hospital services, including the reasonable cost of maintaining necessary core staff and services.
       - **(iv)** The term “medicare-dependent, small rural hospital” means, with respect to any cost reporting period to which clause (i) applies, any hospital—
         - **(I)** that is located in—
@@ -668,23 +669,23 @@ generated_at: "2026-03-30T02:56:11.014Z"
     - **(D)** The Secretary shall establish rules for the application of this paragraph to a hospital reimbursed under a reimbursement system authorized under section 1395f(b)(3) of this title in the same manner as it would apply to the hospital if it were not reimbursed under such section.
   - **(12)**
     - **(A)** In addition to any payments calculated under this section for a subsection (d) hospital, for discharges occurring during a fiscal year (beginning with fiscal year 2005), the Secretary shall provide for an additional payment amount to each low-volume hospital (as defined in subparagraph (C)(i)) for discharges occurring during that fiscal year that is equal to the applicable percentage increase (determined under subparagraph (B) or (D) for the hospital involved) in the amount paid to such hospital under this section for such discharges (determined without regard to this paragraph).
-    - **(B)** For discharges occurring in fiscal years 2005 through 2010 and for discharges occurring during the portion of fiscal year 2026 beginning on January 31, 2026 , and ending on September 30, 2026 , and in fiscal year 2027 and subsequent fiscal years, the Secretary shall determine an applicable percentage increase for purposes of subparagraph (A) as follows:
+    - **(B)** For discharges occurring in fiscal years 2005 through 2010 and for discharges occurring during the portion of fiscal year 2027 beginning on January 1, 2027 , and ending on September 30, 2027 , and in fiscal year 2028 and subsequent fiscal years, the Secretary shall determine an applicable percentage increase for purposes of subparagraph (A) as follows:
       - **(i)** The Secretary shall determine the empirical relationship for subsection (d) hospitals between the standardized cost-per-case for such hospitals and the total number of discharges of such hospitals and the amount of the additional incremental costs (if any) that are associated with such number of discharges.
       - **(ii)** The applicable percentage increase shall be determined based upon such relationship in a manner that reflects, based upon the number of such discharges for a subsection (d) hospital, such additional incremental costs.
       - **(iii)** In no case shall the applicable percentage increase exceed 25 percent.
     - **(C)**
-      - **(i)** For purposes of this paragraph, the term “low-volume hospital” means, for a fiscal year or portion of a fiscal year, a subsection (d) hospital (as defined in paragraph (1)(B)) that the Secretary determines is located more than 25 road miles (or, with respect to fiscal years 2011 through 2025 and the portion of fiscal year 2026 beginning on October 1, 2025 , and ending on January 30, 2026 , 15 road miles) from another subsection (d) hospital and has—
+      - **(i)** For purposes of this paragraph, the term “low-volume hospital” means, for a fiscal year or portion of a fiscal year, a subsection (d) hospital (as defined in paragraph (1)(B)) that the Secretary determines is located more than 25 road miles (or, with respect to fiscal years 2011 through 2026 and the portion of fiscal year 2027 beginning on October 1, 2026 , and ending on December 31, 2026 , 15 road miles) from another subsection (d) hospital and has—
         - **(I)** with respect to each of fiscal years 2005 through 2010, less than 800 discharges during the fiscal year;
         - **(II)** with respect to each of fiscal years 2011 through 2018, less than 1,600 discharges of individuals entitled to, or enrolled for, benefits under part A during the fiscal year or portion of fiscal year;
-        - **(III)** with respect to each of fiscal years 2019 through 2025 and the portion of fiscal year 2026 beginning on October 1, 2025 , and ending on January 30, 2026 , less than 3,800 discharges during the fiscal year; and
-        - **(IV)** with respect to the portion of fiscal year 2026 beginning on January 31, 2026 , and ending on September 30, 2026 , and fiscal year 2027 and each subsequent fiscal year, less than 800 discharges during the fiscal year.
+        - **(III)** with respect to each of fiscal years 2019 through 2026 and the portion of fiscal year 2027 beginning on October 1, 2026 , and ending on December 31, 2026 , less than 3,800 discharges during the fiscal year; and
+        - **(IV)** with respect to the portion of fiscal year 2027 beginning on January 1, 2027 , and ending on September 30, 2027 , and fiscal year 2028 and each subsequent fiscal year, less than 800 discharges during the fiscal year.
       - **(ii)** For purposes of subparagraphs (B) and (D) and clause (i), the term “discharge” means an inpatient acute care discharge of an individual regardless (except as provided in clause (i)(II) and subparagraph (D)(i)) of whether the individual is entitled to benefits under part A.
       - **(iii)** For purposes of determining whether—
         - **(I)** a subsection (d) hospital of the Indian Health Service (whether operated by such Service or by an Indian tribe or tribal organization (as those terms are defined in section 1603 of title 25 )), or
         - **(II)** a subsection (d) hospital other than a hospital of the Indian Health Service meets the mileage criterion under clause (i) with respect to fiscal year 2011 or a succeeding fiscal year, the Secretary shall apply the policy described in the regulation at part 8 8 So in original. Probably should be “section”. 412.101(e) of title 42, Code of Federal Regulations (as in effect on March 23, 2018 ).
-    - **(D)** For discharges occurring in fiscal years 2011 through 2025 or during the portion of fiscal year 2026 beginning on October 1, 2025 , and ending on January 30, 2026 , the Secretary shall determine an applicable percentage increase for purposes of subparagraph (A) using a continuous linear sliding scale ranging from 25 percent for low-volume hospitals—
+    - **(D)** For discharges occurring in fiscal years 2011 through 2026 or during the portion of fiscal year 2027 beginning on October 1, 2026 , and ending on December 31, 2026 , the Secretary shall determine an applicable percentage increase for purposes of subparagraph (A) using a continuous linear sliding scale ranging from 25 percent for low-volume hospitals—
       - **(i)** with respect to each of fiscal years 2011 through 2018, with 200 or fewer discharges of individuals entitled to, or enrolled for, benefits under part A in the fiscal year or the portion of fiscal year to 0 percent for low-volume hospitals with greater than 1,600 discharges of such individuals in the fiscal year or the portion of fiscal year or portion of fiscal year; 9 9 So in original. and
-      - **(ii)** with respect to each of fiscal years 2019 through 2025 and the portion of fiscal year 2026 beginning on October 1, 2025 , and ending on January 30, 2026 , with 500 or fewer discharges in the fiscal year to 0 percent for low-volume hospitals with greater than 3,800 discharges in the fiscal year.
+      - **(ii)** with respect to each of fiscal years 2019 through 2026 and the portion of fiscal year 2027 beginning on October 1, 2026 , and ending on December 31, 2026 , with 500 or fewer discharges in the fiscal year to 0 percent for low-volume hospitals with greater than 3,800 discharges in the fiscal year.
   - **(13)**
     - **(A)** In order to recognize commuting patterns among geographic areas, the Secretary shall establish a process through application or otherwise for an increase of the wage index applied under paragraph (3)(E) for subsection (d) hospitals located in a qualifying county described in subparagraph (B) in the amount computed under subparagraph (D) based on out-migration of hospital employees who reside in that county to any higher wage index area.
     - **(B)** The Secretary shall establish criteria for a qualifying county under this subparagraph based on the out-migration referred to in subparagraph (A) and differences in the area wage indices. Under such criteria the Secretary shall, utilizing such data as the Secretary determines to be appropriate, establish—
@@ -1555,3 +1556,1007 @@ generated_at: "2026-03-30T02:56:11.014Z"
   - **(4)** In this subsection:
     - **(A)** The term “HCPCS” means, with respect to hospital items and services, the code under the Healthcare Common Procedure Coding System (HCPCS) (or a successor code) for such items and services.
     - **(B)** The term “ICD–10–PCS” means the International Classification of Diseases, 10th Revision, Procedure Coding System, and includes any subsequent revision of such International Classification of Diseases, Procedure Coding System.
+
+(aa) Subject to item (bb), effective for payments beginning with fiscal year 2013, each measure specified by the Secretary under this clause shall be endorsed by the entity with a contract under section 1395aaa(a) of this title .
+
+(bb) In the case of a specified area or medical topic determined appropriate by the Secretary for which a feasible and practical measure has not been endorsed by the entity with a contract under section 1395aaa(a) of this title , the Secretary may specify a measure that is not so endorsed as long as due consideration is given to measures that have been endorsed or adopted by a consensus organization identified by the Secretary.
+
+(aa) physicians under section 1395w–4(k) of this title ; and
+
+(bb) other providers of services and suppliers under this subchapter.
+
+(aa) With respect to a Hospital Consumer Assessment of Healthcare Providers and Systems survey (or a successor survey) conducted on or after January 1, 2020 , such survey may not include questions about communication by hospital staff with an individual about such individual’s pain unless such questions take into account, as applicable, whether an individual experiencing pain was informed about risks associated with the use of opioids and about non-opioid alternatives for the treatment of pain.
+
+(bb) The Secretary shall not include on the Hospital Compare internet website any measures based on the questions appearing on the Hospital Consumer Assessment of Healthcare Providers and Systems survey in 2018 or 2019 about communication by hospital staff with an individual about such individual’s pain.
+
+Determining allowable individual hospital costs for base period
+
+Updating for fiscal year 1984
+
+Standardizing amounts
+
+Computing urban and rural averages
+
+Reducing for value of outlier payments
+
+Maintaining budget neutrality
+
+Computing drg-specific rates for urban and rural hospitals in the united states and in each region
+
+Adjusting for different area wage levels
+
+Updating previous standardized amounts
+
+Reducing for value of outlier payments
+
+Maintaining budget neutrality for fiscal year 1985
+
+Reducing for savings from amendment to indirect teaching adjustment for discharges after september 30, 1986
+
+Computing drg-specific rates for hospitals
+
+Adjusting for different area wage levels.—
+
+In general
+
+Alternative proportion to be adjusted beginning in fiscal year 2005
+
+Floor on area wage index for hospitals in frontier states.—
+
+In general
+
+Frontier state defined
+
+Frontier county defined
+
+Limitation
+
+Floor on area wage index for hospitals in all-urban states.—
+
+In general
+
+Minimum area wage index
+
+Waiving budget neutrality
+
+All-urban state defined
+
+(aa) is recognized as a subsection (d) hospital;
+
+(bb) is recognized as a subsection (d) Puerto Rico hospital;
+
+(cc) is reimbursed under a reimbursement system authorized under section 1395f(b)(3) of this title ; or
+
+(dd) is a provider-based hospital outpatient department.
+
+(a) for discharges occurring on or after April 1, 1990 , and on or before December 31, 1990 , (P−20.2)(.65) + 5.62,
+
+(b) for discharges occurring on or after January 1, 1991 , and on or before September 30, 1993 , (P−20.2)(.7) + 5.62,
+
+(c) for discharges occurring on or after October 1, 1993 , and on or before September 30, 1994 , (P−20.2)(.8) + 5.88, and
+
+(d) for discharges occurring on or after October 1, 1994 , (P−20.2)(.825) + 5.88; or
+
+(a) for discharges occurring on or after April 1, 1990 , and on or before December 31, 1990 , (P−15)(.6) + 2.5,
+
+(b) for discharges occurring on or after January 1, 1991 , and on or before September 30, 1993 , (P−15)(.6) + 2.5, 6 6 So in original. Probably should be followed by “and”.
+
+(c) for discharges occurring on or after October 1, 1993 , (P−15)(.65) + 2.5,
+
+(aa) a rural area; or
+
+(bb) a State with no rural area (as defined in paragraph (2)(D)) and satisfies any of the criteria in subclause (I), (II), or (III) of paragraph (8)(E)(ii),
+
+(aa) the national adjusted DRG prospective payment rate (determined under paragraph (3)(D)) for hospitals located in a large urban area,
+
+(bb) such rate for hospitals located in other urban areas, and
+
+(cc) such rate for hospitals located in a rural area,
+
+Additional payments for managed care enrollees.—
+
+In general
+
+Applicable discharge
+
+Determination of amount
+
+Special rule for hospitals under reimbursement system
+
+Payment adjustment for low-volume hospitals.—
+
+In general
+
+Applicable percentage increase
+
+Definitions.—
+
+Low-volume hospital
+
+Discharge
+
+Treatment of indian health service and non-indian health service facilities
+
+Temporary applicable percentage increase
+
+(aa) First, to hospitals located in the same core-based statistical area as, or a core-based statistical area contiguous to, the hospital that closed.
+
+(bb) Second, to hospitals located in the same State as the hospital that closed.
+
+(cc) Third, to hospitals located in the same region of the country as the hospital that closed.
+
+(dd) Fourth, only if the Secretary is not able to distribute the increase to hospitals described in item (cc), to qualifying hospitals in accordance with the provisions of paragraph (8).
+
+(aa) new medical schools that received “Candidate School” status from the Liaison Committee on Medical Education or that received “Pre-Accreditation” status from the American Osteopathic Association Commission on Osteopathic College Accreditation on or after January 1, 2000 , and that have achieved or continue to progress toward “Full Accreditation” status (as such term is defined by the Liaison Committee on Medical Education) or toward “Accreditation” status (as such term is defined by the American Osteopathic Association Commission on Osteopathic College Accreditation); or
+
+(bb) additional locations and branch campuses established on or after January 1, 2000 , by medical schools with “Full Accreditation” status (as such term is defined by the Liaison Committee on Medical Education) or “Accreditation” status (as such term is defined by the American Osteopathic Association Commission on Osteopathic College Accreditation).
+
+(aa) new medical schools that received “Candidate School” status from the Liaison Committee on Medical Education or that received “Pre-Accreditation” status from the American Osteopathic Association Commission on Osteopathic College Accreditation on or after January 1, 2000 , and that have achieved or continue to progress toward “Full Accreditation” status (as such term is defined by the Liaison Committee on Medical Education) or toward “Accreditation” status (as such term is defined by the American Osteopathic Association Commission on Osteopathic College Accreditation); or
+
+(bb) additional locations and branch campuses established on or after January 1, 2000 , by medical schools with “Full Accreditation” status (as such term is defined by the Liaison Committee on Medical Education) or “Accreditation” status (as such term is defined by the American Osteopathic Association Commission on Osteopathic College Accreditation).
+
+(aa) is classified as a rehabilitation facility under the IRF Rate Setting File for the Inpatient Rehabilitation Facility Prospective Payment System for Federal Fiscal Year 2019 (83 Fed. Reg. 38514), or any successor regulations that contain such information;
+
+(bb) holds at least one Federal rehabilitation research and training designation for research projects on traumatic brain injury or spinal cord injury from the National Institute on Disability, Independent Living, and Rehabilitation Research at the Department of Health and Human Services, based on such data submitted to the Secretary by a facility, in a form, manner, and time frame specified by the Secretary;
+
+(cc) submits to the Secretary a description of the clinical research enterprise of the facility and a summary of research activities of the facility that are supported by Federal agencies;
+
+(dd) has a minimum Medicare estimated average weight per discharge of 1.20 for the most recent fiscal year for which such information is available according to the IRF Rate Setting File described in item (aa), or any successor regulations that contain such information; and
+
+(ee) has a minimum teaching status of 0.075 for the most recent fiscal year for which such information is available according to the IRF Rate Setting File described in item (aa), or any successor regulations that contain such information.
+
+(aa) identified by the last sentence of subsection (d)(1)(B); and
+
+(bb) located in a rural area (as defined in subsection (d)(2)(D)) or treated as being so located pursuant to subsection (d)(8)(E); and
+
+(aa) Acute myocardial infarction (AMI).
+
+(bb) Heart failure.
+
+(cc) Pneumonia.
+
+(dd) Surgeries, as measured by the Surgical Care Improvement Project (formerly referred to as “Surgical Infection Prevention” for discharges occurring before July 2006).
+
+(ee) Healthcare-associated infections, as measured by the prevention metrics and targets established in the HHS Action Plan to Prevent Healthcare-Associated Infections (or any successor plan) of the Department of Health and Human Services.
+
+(aa) payments under paragraphs (5)(A), (5)(B), (5)(F), and (12) of subsection (d); and
+
+(bb) such other payments under subsection (d) determined appropriate by the Secretary.
+
+(E) Standardized patient assessment data (i) In general For rate year 2028 and each subsequent rate year, in addition to such data on the quality measures described in subparagraph (C), each psychiatric hospital and psychiatric unit shall submit to the Secretary, through the use of a standardized assessment instrument implemented under clause (iii), the standardized patient assessment data described in clause (ii). Such data shall be submitted with respect to admission and discharge of an individual (and may be submitted more frequently as the Secretary determines appropriate). (ii) Standardized patient assessment data described For purposes of clause (i), the standardized patient assessment data described in this clause, with respect to a psychiatric hospital or psychiatric unit, is data with respect to the following categories: (I) Functional status, such as mobility and self-care at admission to a psychiatric hospital or unit and before discharge from a psychiatric hospital or unit. (II) Cognitive function, such as ability to express ideas and to understand, and mental status, such as depression and dementia. (III) Special services, treatments, and interventions for psychiatric conditions. (IV) Medical conditions and co-morbidities, such as diabetes, congestive heart failure, and pressure ulcers. (V) Impairments, such as incontinence and an impaired ability to hear, see, or swallow. (VI) Other categories as determined appropriate by the Secretary. (iii) Standardized assessment instrument
+
+In general
+
+In general
+
+Reconsiderations of applications for fiscal year 2004 that are denied
+
+“The amendment made by paragraph (1) [amending this section] applies with respect to—
+
+“The amendment made by subsection (a) [amending this section] shall apply—
+
+“The amendments made by this subsection [amending this section] shall apply with respect to cost reporting periods beginning on or after October 1, 1989 , except that—
+
+PPS hospitals, drg portion of payment
+
+PPS sole community hospitals, hospital specific portion of payment
+
+PPS-exempt hospitals
+
+Definition, regional floor, and technical and conforming amendments
+
+Transition for large urban area rates
+
+Definition
+
+PPS hospitals, drg portion of payment
+
+PPS hospitals, hospital specific portion of payment
+
+PPS-exempt hospitals
+
+Definition
+
+Delay in final transition
+
+Change in hospital specific percentage
+
+Change in blended rate
+
+Exception.—
+
+Waiver of IRF
+
+-hour Rule
+
+Waiver of Site-neutral Payment Rate Provisions for Long-term Care Hospitals
+
+LTCH 50-percent rule
+
+Site-neutral ipps payment rate
+
+In general
+
+Applicable hospital defined
+
+“For discharges occurring in cost reporting periods beginning on or after October 1, 2015 , in calculating the length of stay requirement applicable to a long-term care hospital or satellite facility under section 1886(d)(1)(B)(iv)(I) [now 1886(d)(1)(B)(iv)] of the Social Security Act ( 42 U.S.C. 1395ww(d)(1)(B)(iv)(I) [1395ww(d)(1)(B)(iv)]) and section 1861(ccc)(2) of such Act ( 42 U.S.C. 1395x(ccc)(2) ), the Secretary of Health and Human Services shall exclude the following:
+
+Site neutral payment
+
+Medicare advantage
+
+Evaluation
+
+Adjustment authority
+
+Special rule for fiscal year 2011.—
+
+In general
+
+Exception
+
+Adjustment for certain hospitals in fiscal year 2011.—
+
+In general
+
+Timeframe for payments
+
+In general
+
+Services described
+
+In General
+
+Amounts Available
+
+Payment Amount
+
+Qualifying Hospital Defined
+
+Value-based purchasing demonstration program for inpatient critical access hospitals.—
+
+Establishment.—
+
+In general
+
+Duration
+
+Sites
+
+Waiver authority
+
+Budget neutrality requirement
+
+Report
+
+Value-based purchasing demonstration program for hospitals excluded from hospital value-based purchasing program as a result of insufficient numbers of measures and cases.—
+
+Establishment.—
+
+In general
+
+Applicable hospital defined
+
+Duration
+
+Sites
+
+Waiver authority
+
+Budget neutrality requirement
+
+Report
+
+Plan for Reforming the Medicare Hospital Wage Index System
+
+In general
+
+Details
+
+Consultation
+
+Use of Particular Criteria for Determining Reclassifications
+
+In General.—
+
+Establishment.—
+
+In general
+
+Number
+
+Written agreements
+
+Costs described.—
+
+In general
+
+Limitation
+
+Waiver authority
+
+Administration
+
+Written Agreements With Eligible Partners
+
+Evaluation
+
+Funding.—
+
+In general
+
+Proration
+
+Without fiscal year limitation
+
+Definitions
+
+Advanced practice registered nurse
+
+Applicable non-hospital community-based care setting
+
+Applicable school of nursing
+
+Demonstration
+
+Eligible hospital
+
+Eligible partners
+
+Qualified training.—
+
+In general
+
+Waiver of requirement half of training be provided in non-hospital community-based care setting in certain areas
+
+Secretary
+
+Delay in application of 25 percent patient threshold payment adjustment
+
+Payment for hospitals-within-hospitals.—
+
+In general
+
+Co-located long-term care hospitals and satellite facilities.—
+
+In general
+
+Applicable long-term care hospital or satellite facility defined
+
+Effective date
+
+No application of very short-stay outlier policy
+
+No application of one-time adjustment to standard amount
+
+In general
+
+Exception for certain long-term care hospitals
+
+Exception for bed increases during moratorium.—
+
+In general
+
+No effect on certain limitation
+
+Existing hospital or satellite facility defined
+
+Judicial review
+
+Limitation on application of exceptions
+
+Additional exception for certain long-term care hospitals
+
+In general
+
+Review methodology
+
+Continuation of reviews
+
+Termination of required reviews.—
+
+In general
+
+Continuation
+
+Funding
+
+Special exception reclassifications
+
+Use of particular wage index
+
+Special Rule.—
+
+In general
+
+Exception
+
+Timeframe for Payments.—
+
+In general
+
+Special Rule for October and November 2011.—
+
+In general
+
+Exception
+
+Timeframe for Payments
+
+In general
+
+Details
+
+In General
+
+Continued Use of Comorbidities
+
+Regulation
+
+Establishment
+
+Requirements Described
+
+Arrangement for remuneration as share of savings
+
+Written plan agreement
+
+Patient notification
+
+Monitoring quality and efficiency of care
+
+Independent review
+
+Referral limitations
+
+Waiver of Certain Restrictions.—
+
+In general
+
+Protection for existing arrangements
+
+Program Administration.—
+
+Solicitation of applications
+
+Number of projects approved
+
+Duration
+
+Reports.—
+
+Initial report
+
+Project update
+
+Quality improvement and savings
+
+Final report
+
+Funding.—
+
+In general
+
+Availability
+
+Definitions
+
+Demonstration project
+
+Hospital
+
+Medicare
+
+Physician
+
+Secretary
+
+More Frequent Updates in Weights
+
+Incorporation of Explanation in Rulemaking
+
+Establishment of Rural Community Hospital (RCH) Demonstration Program.—
+
+In general
+
+Demonstration areas
+
+Application
+
+Selection of hospitals
+
+Duration
+
+Implementation
+
+Payment.—
+
+In general
+
+Target amount
+
+Funding.—
+
+In general
+
+Budget neutrality
+
+Waiver Authority
+
+Report
+
+Definitions
+
+Rural community hospital defined.—
+
+In general
+
+Treatment of psychiatric and rehabilitation units
+
+Covered inpatient hospital services
+
+Fifteen-Year Extension of Demonstration Program.—
+
+In general
+
+Expansion of demonstration states
+
+Increase in maximum number of hospitals participating in the demonstration program
+
+Hospitals participating in the demonstration program during the initial 5-year period
+
+Other hospitals in demonstration program.—
+
+CURES act extension
+
+Additional extension
+
+Expansion of demonstration program to rural areas in any state.—
+
+In general
+
+Priority
+
+In General
+
+Reports.—
+
+Interim report
+
+Final report
+
+Study
+
+Report
+
+Establishment of Process.—
+
+In general
+
+Process requirements
+
+Reclassification upon successful appeal
+
+Inapplicability of certain provisions
+
+Application of Reclassification
+
+Qualifying Hospital Defined
+
+Wage Index Classification
+
+Limitation on Expenditures
+
+Transitional Extension
+
+Disregarding Hospital Reclassifications for Purposes of Group Reclassifications
+
+Clarification of Congressional Intent
+
+Interim Final Regulatory Authority and Effective Date
+
+Moratorium on Changes in Treatment
+
+Study and Report.—
+
+Study
+
+Report
+
+“Notwithstanding the amendment made by subsection (a) [amending this section], for purposes of making payments for fiscal year 2001 for inpatient hospital services furnished by subsection (d) hospitals (as defined in section 1886(d)(1)(B) of the Social Security Act ( 42 U.S.C. 1395ww(d)(1)(B) )[)], the ‘applicable percentage increase’ referred to in section 1886(b)(3)(B)(i) of such Act ( 42 U.S.C. 1395ww(b)(3)(B)(i) )—
+
+“Notwithstanding the amendment made by subsection (a)(1) [amending this section], for purposes of making disproportionate share payments for subsection (d) hospitals (as defined in section 1886(d)(1)(B) of the Social Security Act ( 42 U.S.C. 1395ww(d)(1)(B) )[)] for fiscal year 2001, the additional payment amount otherwise determined under clause (ii) of section 1886(d)(5)(F) of the Social Security Act ( 42 U.S.C. 1395ww(d)(5)(F) )—
+
+Inpatient Hospital Services
+
+Study
+
+Consultation
+
+Report
+
+In general
+
+Prohibition on individual hospital reclassification
+
+“By not later than September 30, 2003 , for application beginning October 1, 2004 , the Secretary shall first complete—
+
+Report
+
+Implementation
+
+Additional payment
+
+No effect on other payments or determinations
+
+In general
+
+Effective date
+
+Modification of requirement
+
+Default implementation of system based on existing drg methodology
+
+Development of System.—
+
+In general
+
+Collection of data and evaluation
+
+Report
+
+Implementation of Prospective Payment System
+
+Development of System.—
+
+In general
+
+Collection of data and evaluation
+
+Definition
+
+Report
+
+Implementation of Prospective Payment System
+
+Study
+
+Report
+
+In General
+
+Report
+
+In general
+
+Applicable resident described
+
+Effective date.—
+
+In general
+
+Retroactive payments
+
+In General
+
+Report
+
+In general
+
+Budget neutrality
+
+In General
+
+Applicable Guidelines
+
+Period Described
+
+In general
+
+Hospitals covered
+
+Non-teaching, non-DSH hospitals described
+
+Report on New Payment Formula.—
+
+Report
+
+Factors in Determination of Formula
+
+Data Collection
+
+New Guidelines for Reclassification
+
+Hospitals Covered
+
+In General
+
+Implementation
+
+Exclusion of Certain Wages
+
+Application to cost reporting periods
+
+Base year
+
+Deadline for payments
+
+Application to cost reporting periods
+
+Base year
+
+Deadline for payments
+
+In General.—
+
+Legislative proposal
+
+Collection of data and evaluation
+
+Report
+
+Determination and Notice Concerning Hospital-Specific Per Discharge Relative Values.—
+
+In general
+
+Notice to subset of medical staffs; evaluation of responses
+
+Determination of Hospital-Specific Per Discharge Relative Values.—
+
+In general
+
+Special rule for teaching hospitals
+
+Adjustment for teaching and disproportionate share hospitals
+
+Definitions
+
+Hospital
+
+Medical staff
+
+Physicians’ services
+
+Rural area; urban area
+
+Secretary
+
+Teaching hospital
+
+Relation to Demonstration Projects and Authority.—
+
+Interim, Final Regulations
+
+In General
+
+Qualifying Consortia
+
+Amount and Source of Payment
+
+In General
+
+Consultation
+
+Report
+
+In General
+
+Report
+
+Extension of classification through fiscal year 1994
+
+Permitting hospitals to decline reclassification
+
+Requiring lump-sum retroactive payment for hospitals losing classification.—
+
+In general
+
+Period of applicability
+
+Permitting hospitals to decline reclassification
+
+Requiring lump-sum retroactive payment.—
+
+In general
+
+Period of applicability
+
+In general
+
+Hospitals affected
+
+Definitions
+
+Hospital Graduate Medical Education Recoupment.—
+
+In general
+
+Cap on annual amount of recoupment
+
+Effective date
+
+University Hospital Nursing Education.—
+
+In general
+
+Conditions for reimbursement
+
+Prohibition against recoupment of costs by secretary.—
+
+In general
+
+Refund of amounts recouped
+
+Special audit to determine costs
+
+Effective date
+
+Hospital Graduate Medical Education Recoupment.—
+
+In general
+
+Cap on annual amount of recoupment
+
+Effective date
+
+University Hospital Nursing Education.—
+
+In general
+
+Conditions for reimbursement
+
+Prohibition against recoupment of costs by secretary.—
+
+In general
+
+Refund of amounts recouped
+
+Special audit to determine costs
+
+Effective Date
+
+Development of proposal
+
+Reports
+
+In General
+
+Description of Period
+
+In general
+
+Report
+
+“Notwithstanding any other provision of law, the Secretary of Health and Human Services may not issue any proposed or final regulation, instruction, or other policy which is estimated by the Secretary to result in a net reduction in expenditures under title XVIII of the Social Security Act [ 42 U.S.C. 1395 et seq.] in a fiscal year (beginning with fiscal year 1991 and ending with fiscal year 1993, or, if later, the last fiscal year for which there is a maximum deficit amount specified under section 601(a)(1) of the Congressional Budget and Impoundment Control Act of 1974 [ 2 U.S.C. 665(a)(1) ]) of more than $50,000,000, except as follows:
+
+In general
+
+Conditions for additional payment
+
+Period of applicability
+
+Determining Payment Amount
+
+Recommendations on Payments
+
+Establishment
+
+Limitations on Payment
+
+hospitals
+
+exempt hospitals
+
+Development of Data Base
+
+Demonstration Project.—
+
+Consultation
+
+Increase in outlier payments for burn center drgs.—
+
+In general
+
+Budget neutrality
+
+Limitation on changes in outlier regulations.—
+
+In general
+
+Propac report
+
+Report on outlier payments
+
+Propac reports on study of drg rates for hospitals in rural and urban areas
+
+Propac report on separate urban payment rates
+
+Report on adjustment for non-labor costs
+
+In General
+
+Nature of Project
+
+Selection
+
+Clarification of Payment
+
+Duration of Project
+
+Definition
+
+“Notwithstanding any other provision of law, with respect to payment for inpatient hospital services under section 1886 of the Social Security Act [ 42 U.S.C. 1395ww ]:
+
+Temporary freeze in pps hospital rates
+
+Temporary freeze in payment basis.—
+
+Extension of blended drg rate
+
+Extension of hospital-specific payment
+
+Temporary freeze in amounts of payment for capital
+
+Temporary freeze in return on equity reductions
+
+Temporary freeze in payments rates for pps-exempt hospitals
+
+In general
+
+Other cost savings policies
+
+Exception
+
+“For payments made under section 1886(d) of the Social Security Act [ 42 U.S.C. 1395ww(d) ] for discharges occurring in fiscal year 1987—
+
+Prohibition of issuance of final regulations on capital-related costs as part of payment for operating costs before november 21, 1987
+
+Not including capital-related regulations in budget baseline
+
+Exception
+
+Capital-related costs defined
+
+Continuation of Waivers
+
+Approval
+
+Effective Date
+
+Disclosure of Information
+
+Confidentiality
+
+Waiver of Paperwork Reduction
+
+Use of Interim Final Regulations
+
+Studies by Secretary
+
+GAO Study
+
+Report on Uniformity of Approved FTE Resident Amounts
+
+Study on Foreign Medical Graduates
+
+Paperwork Reduction
+
+Moratorium
+
+Cooperation in Study
+
+Maintaining Existing Hospital Payment Rates
+
+Maintaining Existing Payment Rates for Physicians’ Services
+
+Extension Period Defined.—
+
+Hospital payments
+
+Physician payments
+
+“The Secretary of Health and Human Services shall, prior to December 31, 1984 —
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1886, as added and amended [Pub. L. 97–248, title I](https://www.govinfo.gov/link/plaw/97/public/248), §§ 101(a)(1), 110, Sept. 3, 1982, [96 Stat. 331](https://www.govinfo.gov/link/statute/96/331), 339; [Pub. L. 97–448, title III, § 309(b)(13)](https://www.govinfo.gov/link/plaw/97/public/448) –(15), Jan. 12, 1983, [96 Stat. 2409](https://www.govinfo.gov/link/statute/96/2409); [Pub. L. 98–21, title VI, § 601(a)(1)](https://www.govinfo.gov/link/plaw/98/public/21), (2), (b), (c), (d)(2), (e), Apr. 20, 1983, [97 Stat. 149](https://www.govinfo.gov/link/statute/97/149), 150, 152; [Pub. L. 98–369, div. B, title III](https://www.govinfo.gov/link/plaw/98/public/369), §§ 2307(b)(1), 2310(a), 2311(a)–(c), 2312(a), (b), 2313(a), (b), (d), 2315(a)–(c), 2354(b)(42)–(44), July 18, 1984, [98 Stat. 1073](https://www.govinfo.gov/link/statute/98/1073), 1075–1080, 1102; [Pub. L. 98–617, § 3(b)(9)](https://www.govinfo.gov/link/plaw/98/public/617), Nov. 8, 1984, [98 Stat. 3296](https://www.govinfo.gov/link/statute/98/3296); [Pub. L. 99–272, title IX](https://www.govinfo.gov/link/plaw/99/public/272), §§ 9101(b), (c), 9102(a)–(c), 9104(a), (b), 9105(a)–(c), 9106(a), 9107(a), 9109(a), 9111(a), 9127(a), 9202(a), Apr. 7, 1986, [100 Stat. 153–155](https://www.govinfo.gov/link/statute/100/153), 157–162, 170, 171; [Pub. L. 99–349, title II, § 206](https://www.govinfo.gov/link/plaw/99/public/349), July 2, 1986, [100 Stat. 749](https://www.govinfo.gov/link/statute/100/749); [Pub. L. 99–509, title IX](https://www.govinfo.gov/link/plaw/99/public/509), §§ 9302(a)(1), (2), (b)(1), (c), (d)(1)(A), (e), 9303, 9304(a)–(c), 9306(a)–(c), 9307(c)(1), 9314(a), 9320(g), 9321(e)(2), Oct. 21, 1986, [100 Stat. 1982–1985](https://www.govinfo.gov/link/statute/100/1982), 1988, 1995, 2005, 2015, 2018; [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), title XVIII, § 1895(b)(1)(A)–(C), (2)(A)–(C), (3), (9), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095), 2931–2933; [Pub. L. 100–93, § 8(c)(4)](https://www.govinfo.gov/link/plaw/100/public/93), Aug. 18, 1987, [101 Stat. 693](https://www.govinfo.gov/link/statute/101/693); [Pub. L. 100–203, title IV](https://www.govinfo.gov/link/plaw/100/public/203), §§ 4002(a)–(f)(1), 4003(a)–(c), 4004(a), 4005(a)(1), (c)(1), (d)(1)(A), 4006(a)–(b)(2), 4007(b)(1), 4009(d)(1), (j)(1)–(6)(B), 4083(b)(1), Dec. 22, 1987, [101 Stat. 1330–42](https://www.govinfo.gov/link/statute/101/1330) to 1330–44, 1330–46, 1330–47, 1330–49, 1330–52, 1330–53, 1330–57 to 1330–59, 1330–129, as amended [Pub. L. 100–360, title IV, § 411(b)(1)(E)](https://www.govinfo.gov/link/plaw/100/public/360), (3), (4)(C)(i), (5)(B), (6)(B), (8)(B), July 1, 1988, [102 Stat. 769](https://www.govinfo.gov/link/statute/102/769), 770, 772; [Pub. L. 100–360, title IV, § 411(b)(1)(A)](https://www.govinfo.gov/link/plaw/100/public/360) –(D), (F)–(H)(i), (4)(A), (B), (5)(A), July 1, 1988, [102 Stat. 768–770](https://www.govinfo.gov/link/statute/102/768); [Pub. L. 100–485, title VI, § 608(d)(18)(A)](https://www.govinfo.gov/link/plaw/100/public/485), (B), Oct. 13, 1988, [102 Stat. 2418](https://www.govinfo.gov/link/statute/102/2418); [Pub. L. 100–647, title I, § 1018(r)(1)](https://www.govinfo.gov/link/plaw/100/public/647), title VIII, §§ 8401, 8403(a), Nov. 10, 1988, [102 Stat. 3586](https://www.govinfo.gov/link/statute/102/3586), 3798; [Pub. L. 101–234, title III, § 301(b)(3)](https://www.govinfo.gov/link/plaw/101/public/234), (c)(3), Dec. 13, 1989, [103 Stat. 1985](https://www.govinfo.gov/link/statute/103/1985), 1986; [Pub. L. 101–239, title VI](https://www.govinfo.gov/link/plaw/101/public/239), §§ 6002, 6003(a)(1), (b)–(c)(3), (e)(1), (2)(B)–(E), (f), (g)(2), (4)–(h)(4), (6), 6004(a)(1), (2), (b)(1), 6011(a), 6015(a), 6022, Dec. 19, 1989, [103 Stat. 2140–2144](https://www.govinfo.gov/link/statute/103/2140), 2151, 2154–2157, 2159–2161, 2164, 2167; [Pub. L. 101–403, title I, § 115(b)(1)](https://www.govinfo.gov/link/plaw/101/public/403), Oct. 1, 1990, [104 Stat. 870](https://www.govinfo.gov/link/statute/104/870); [Pub. L. 101–508, title IV](https://www.govinfo.gov/link/plaw/101/public/508), §§ 4001, 4002(a)(1), (b)(1)–(4), (c)(1), (2), (e)(1), (g)(1), (2), (h)(1)(A), (2)(B), 4003(a), 4005(a)(1), (c)(1)(B), (2), 4008(f)(1), (m)(2)(A), Nov. 5, 1990, [104 Stat. 1388–31](https://www.govinfo.gov/link/statute/104/1388) to 1388–38, 1388–40, 1388–42, 1388–45, 1388–53; [Pub. L. 103–66, title XIII](https://www.govinfo.gov/link/plaw/103/public/66), §§ 13501(a), (b)(1), (c), (e)(1), (f), 13502, 13506, 13563(a), (b)(1), (c)(1), Aug. 10, 1993, [107 Stat. 572](https://www.govinfo.gov/link/statute/107/572), 574, 575, 577, 579, 605; [Pub. L. 103–432, title I](https://www.govinfo.gov/link/plaw/103/public/432), §§ 101(a)(1), (b), (c), 102(b)(1)(B), 105, 108–110(a), (c), 153(a), Oct. 31, 1994, [108 Stat. 4400–4402](https://www.govinfo.gov/link/statute/108/4400), 4405, 4407, 4408, 4437; [Pub. L. 105–33, title IV](https://www.govinfo.gov/link/plaw/105/public/33), §§ 4022(b)(1)(A), 4201(c)(1), (4), 4202(a), 4204(a)(1), (2), 4401(a), 4402, 4403(a), 4405(a)–(c), 4406, 4407, 4411–4415(c), 4416, 4417(a)(1), (b)(1), 4418(a), 4419(a)(1), 4421(a), (b), 4621–4626(a), 4627(a), 4644(a)(1), (b)(1), (c)(1), Aug. 5, 1997, [111 Stat. 354](https://www.govinfo.gov/link/statute/111/354), 373–375, 397, 398, 400, 401, 403–410, 413, 475–480, 483, 488; [Pub. L. 106–113, div. B, § 1000(a)(6) [title I, §§ 111(a), (c), 112(a), 121(a), 122, 125(a), title III, §§ 311, 312(a), 321(b), (e), (f), (h), (k)(15)–(17), title IV, §§ 401(a), 402(a), 404(a), (b)(1), 405–407(a)(2), (b)(1), (2), (c)(1), title V, § 541]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–329 to 1501A–332, 1501A–362 to 150A–366, 1501A–368, 1501A–369, 1501A–372 to 1501A–374, 1501A–391; [Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 152(a), (b)]](https://www.govinfo.gov/link/plaw/106/public/554), § 1(a)(6) [title II, §§ 211, 212(a), 213(a), title III, §§ 301(a), (e)(1), 302(a), (c), (d), 303(a), (c), (d)(1), 304(a), (c)(2), 305(a), (b), 307(a)(1), title V, §§ 511, 512(a), 533(b)(1), (3)], Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–251, 2763A–252, 2763A–483, 2763A–485, 2763A–491 to 2763A–496, 2763A–533, 2763A–548, 2763A–550; [Pub. L. 108–173, title IV](https://www.govinfo.gov/link/plaw/108/public/173), §§ 401(a)–(c), 402, 403, 406, 407(a), 422(a), (b)(1), title V, §§ 501(a), (b), 502(a), (b), 503(a)–(d)(1), 504, 505(a), title VII, §§ 711, 736(a)(9), (15), (c)(6), Dec. 8, 2003, [117 Stat. 2262–2265](https://www.govinfo.gov/link/statute/117/2262), 2269, 2270, 2284, 2286, 2289–2293, 2340, 2355, 2356; [Pub. L. 109–171, title V](https://www.govinfo.gov/link/plaw/109/public/171), §§ 5001(a), (c), 5002(a), 5003(a)(1), (2)(A), (b)–(d), Feb. 8, 2006, [120 Stat. 28](https://www.govinfo.gov/link/statute/120/28), 30–32; [Pub. L. 109–432, div. B, title I](https://www.govinfo.gov/link/plaw/109/public/432), §§ 106(c), 109(a)(2), title II, § 205(b)(1), Dec. 20, 2006, [120 Stat. 2983](https://www.govinfo.gov/link/statute/120/2983), 2985, 2989; [Pub. L. 110–161, div. G, title II, § 225(a)](https://www.govinfo.gov/link/plaw/110/public/161), (b)(1), Dec. 26, 2007, [121 Stat. 2189](https://www.govinfo.gov/link/statute/121/2189); [Pub. L. 110–173, title I](https://www.govinfo.gov/link/plaw/110/public/173), §§ 114(e)(1), 115(a)(1), Dec. 29, 2007, [121 Stat. 2504](https://www.govinfo.gov/link/statute/121/2504), 2506; [Pub. L. 110–275, title I, § 122](https://www.govinfo.gov/link/plaw/110/public/275), July 15, 2008, [122 Stat. 2514](https://www.govinfo.gov/link/statute/122/2514); [Pub. L. 111–5, div. B, title IV, § 4102(a)(1)](https://www.govinfo.gov/link/plaw/111/public/5), (b)(1), Feb. 17, 2009, [123 Stat. 477](https://www.govinfo.gov/link/statute/123/477), 482; [Pub. L. 111–148, title III](https://www.govinfo.gov/link/plaw/111/public/148), §§ 3001(a)(1)–(3), 3004(a), (b), 3008(a), 3025(a), 3124(a), (b)(1), 3125, 3133, 3401(a), (c), (d), (f), title V, §§ 5503(a), (b), 5504(a), (b), 5505(a), (b), 5506(a), (b), (e), title X, §§ 10309, 10314, 10316, 10319(a)–(c), (e), 10322(a), 10324(a), 10335, Mar. 23, 2010, [124 Stat. 353–360](https://www.govinfo.gov/link/statute/124/353), 368, 369, 376, 408, 424, 425, 432, 480–483, 655, 658–663, 942, 944, 946, 948, 949, 952, 959, 974; [Pub. L. 111–152, title I](https://www.govinfo.gov/link/plaw/111/public/152), §§ 1104–1105(d), Mar. 30, 2010, [124 Stat. 1047](https://www.govinfo.gov/link/statute/124/1047), 1048; [Pub. L. 111–192, title I, § 102(a)](https://www.govinfo.gov/link/plaw/111/public/192), June 25, 2010, [124 Stat. 1281](https://www.govinfo.gov/link/statute/124/1281); [Pub. L. 111–309, title II, § 203](https://www.govinfo.gov/link/plaw/111/public/309), Dec. 15, 2010, [124 Stat. 3289](https://www.govinfo.gov/link/statute/124/3289); [Pub. L. 112–40, title II, § 261(a)(3)(A)](https://www.govinfo.gov/link/plaw/112/public/40), Oct. 21, 2011, [125 Stat. 423](https://www.govinfo.gov/link/statute/125/423); [Pub. L. 112–240, title VI](https://www.govinfo.gov/link/plaw/112/public/240), §§ 605–606(b)(1), Jan. 2, 2013, [126 Stat. 2349](https://www.govinfo.gov/link/statute/126/2349); [Pub. L. 113–67, div. B, title I](https://www.govinfo.gov/link/plaw/113/public/67), §§ 1105–1106(b)(1), title II, § 1206(a)(1), (c), Dec. 26, 2013, [127 Stat. 1197](https://www.govinfo.gov/link/statute/127/1197), 1200, 1204; [Pub. L. 113–93, title I](https://www.govinfo.gov/link/plaw/113/public/93), §§ 105–106(b)(1), 112(a), Apr. 1, 2014, [128 Stat. 1042](https://www.govinfo.gov/link/statute/128/1042), 1044; [Pub. L. 113–185, § 2(c)(2)](https://www.govinfo.gov/link/plaw/113/public/185), (3), Oct. 6, 2014, [128 Stat. 1963](https://www.govinfo.gov/link/statute/128/1963), 1964; [Pub. L. 114–10, title I, § 106(b)(2)(B)](https://www.govinfo.gov/link/plaw/114/public/10), title II, §§ 204–205(b)(1), title IV, § 411(b), (e), Apr. 16, 2015, [129 Stat. 139](https://www.govinfo.gov/link/statute/129/139), 144, 145, 161, 162; [Pub. L. 114–113, div. H, title II, § 231](https://www.govinfo.gov/link/plaw/114/public/113), div. O, title VI, §§ 601–602(b)(1), Dec. 18, 2015, [129 Stat. 2626](https://www.govinfo.gov/link/statute/129/2626), 3023, 3024; [Pub. L. 114–115, § 4(b)](https://www.govinfo.gov/link/plaw/114/public/115), Dec. 28, 2015, [129 Stat. 3133](https://www.govinfo.gov/link/statute/129/3133); [Pub. L. 114–255, div. A, title IV, § 4002(b)(2)](https://www.govinfo.gov/link/plaw/114/public/255), div. C, title XV, §§ 15001—15002(b), 15004(b), 15008(a), (b), (d)(2), 15009(a), 15010(a), Dec. 13, 2016, [130 Stat. 1161](https://www.govinfo.gov/link/statute/130/1161), 1315—1317, 1319, 1321–1323; [Pub. L. 115–123, div. E, title II](https://www.govinfo.gov/link/plaw/115/public/123), §§ 50204(a), 50205(a), (b)(1), title IV, § 50413, title X, § 51005, title XII, § 53109(a), Feb. 9, 2018, [132 Stat. 181–183](https://www.govinfo.gov/link/statute/132/181), 221, 296, 303; [Pub. L. 115–141, div. G, title IV, § 429](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 693](https://www.govinfo.gov/link/statute/132/693); [Pub. L. 115–271, title VI, § 6104](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 4006](https://www.govinfo.gov/link/statute/132/4006); [Pub. L. 116–94, div. N, title I, § 108](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3102](https://www.govinfo.gov/link/statute/133/3102); [Pub. L. 116–136, div. A, title III, § 3710(a)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 422](https://www.govinfo.gov/link/statute/134/422); [Pub. L. 116–260, div. CC, title I](https://www.govinfo.gov/link/plaw/116/public/260), §§ 126(a)–(c), 127, 131(a)–(c), Dec. 27, 2020, [134 Stat. 2967–2970](https://www.govinfo.gov/link/statute/134/2967), 2974, 2976; [Pub. L. 117–2, title IX, § 9831](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 221](https://www.govinfo.gov/link/statute/135/221); [Pub. L. 117–180, div. D, title I](https://www.govinfo.gov/link/plaw/117/public/180), §§ 101(a), 102(a), (b)(1), Sept. 30, 2022, [136 Stat. 2134](https://www.govinfo.gov/link/statute/136/2134), 2135; [Pub. L. 117–229, div. C, title I](https://www.govinfo.gov/link/plaw/117/public/229), §§ 101(a), 102(a), (b)(1), Dec. 16, 2022, [136 Stat. 2310](https://www.govinfo.gov/link/statute/136/2310); [Pub. L. 117–328, div. FF, title IV](https://www.govinfo.gov/link/plaw/117/public/328), §§ 4101(a), 4102(a), (b)(1), 4122, 4125, 4143(a), (b), Dec. 29, 2022, [136 Stat. 5895](https://www.govinfo.gov/link/statute/136/5895), 5896, 5903, 5910, 5930; [Pub. L. 117–341, § 2(a)](https://www.govinfo.gov/link/plaw/117/public/341), Jan. 5, 2023, [136 Stat. 6179](https://www.govinfo.gov/link/statute/136/6179); [Pub. L. 118–42, div. G, title I](https://www.govinfo.gov/link/plaw/118/public/42), §§ 306(a), 307(a), (b)(1), Mar. 9, 2024, [138 Stat. 416](https://www.govinfo.gov/link/statute/138/416), 417; [Pub. L. 118–158, div. C, title II](https://www.govinfo.gov/link/plaw/118/public/158), §§ 3201(a), 3202(a), (b)(1), Dec. 21, 2024, [138 Stat. 1764](https://www.govinfo.gov/link/statute/138/1764); [Pub. L. 119–4, div. B, title II](https://www.govinfo.gov/link/plaw/119/public/4), §§ 2201(a), 2202(a), (b)(1), Mar. 15, 2025, [139 Stat. 42](https://www.govinfo.gov/link/statute/139/42); [Pub. L. 119–37, div. F, title II](https://www.govinfo.gov/link/plaw/119/public/37), §§ 6201(a), 6202(a), (b)(1), Nov. 12, 2025, [139 Stat. 630](https://www.govinfo.gov/link/statute/139/630), 631; [Pub. L. 119–75, div. J, title II](https://www.govinfo.gov/link/plaw/119/public/75), §§ 6201(a), 6202(a), (b)(1), Feb. 3, 2026, [140 Stat. 645](https://www.govinfo.gov/link/statute/140/645), 646.)*

@@ -3,9 +3,10 @@ title: "Section 6n - Registration of commodity trading advisors and commodity po
 usc_title: 7
 usc_section: "6n"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6n"
-generated_at: "2026-03-30T02:53:42.241Z"
+generated_at: "2026-11-23T20:25:40.864Z"
+status: "active"
 ---
 
 # § 6n. Registration of commodity trading advisors and commodity pool operators; application; expiration and renewal; record keeping and reports; disclosure; statements of account
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:42.241Z"
     - **(A)** Every commodity trading advisor and commodity pool operator registered under this chapter shall maintain books and records and file such reports in such form and manner as may be prescribed by the Commission. All such books and records shall be kept for a period of at least three years, or longer if the Commission so directs, and shall be open to inspection by any representative of the Commission or the Department of Justice. Upon the request of the Commission, a registered commodity trading advisor or commodity pool operator shall furnish the name and address of each client, subscriber, or participant, and submit samples or copies of all reports, letters, circulars, memorandums, publications, writings, or other literature or advice distributed to clients, subscribers, or participants, or prospective clients, subscribers, or participants.
     - **(B)** Unless otherwise authorized by the Commission by rule or regulation, all commodity trading advisors and commodity pool operators shall make a full and complete disclosure to their subscribers, clients, or participants of all futures market positions taken or held by the individual principals of their organization.
   - **(4)** Every commodity pool operator shall regularly furnish statements of account to each participant in his operations. Such statements shall be in such form and manner as may be prescribed by the Commission and shall include complete information as to the current status of all trading accounts in which such participant has an interest.
+
+## Source Credit
+
+*(Sept. 21, 1922, ch. 369, § 4n, as added [Pub. L. 93–463, title II, § 205(a)](https://www.govinfo.gov/link/plaw/93/public/463), Oct. 23, 1974, [88 Stat. 1398](https://www.govinfo.gov/link/statute/88/1398); amended [Pub. L. 95–405, § 9](https://www.govinfo.gov/link/plaw/95/public/405), Sept. 30, 1978, [92 Stat. 870](https://www.govinfo.gov/link/statute/92/870); [Pub. L. 97–444, title II, § 213](https://www.govinfo.gov/link/plaw/97/public/444), Jan. 11, 1983, [96 Stat. 2305](https://www.govinfo.gov/link/statute/96/2305).)*

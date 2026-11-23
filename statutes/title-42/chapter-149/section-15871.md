@@ -3,9 +3,10 @@ title: "Section 15871 - Coordination of geothermal leasing and permitting on Fed
 usc_title: 42
 usc_section: "15871"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 15871"
-generated_at: "2026-03-30T02:56:11.461Z"
+generated_at: "2026-11-23T20:27:23.575Z"
+status: "active"
 ---
 
 # § 15871. Coordination of geothermal leasing and permitting on Federal lands
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.461Z"
   - **(2)** establish a 5-year program for geothermal leasing of lands in the National Forest System, and a process for updating that program every 5 years; and
   - **(3)** establish a program for reducing the backlog of geothermal lease application pending on January 1, 2005 , by 90 percent within the 5-year period beginning on August 8, 2005 , including, as necessary, by issuing leases, rejecting lease applications for failure to comply with the provisions of the regulations under which they were filed, or determining that an original applicant (or the applicant’s assigns, heirs, or estate) is no longer interested in pursuing the lease application.
 - **(c)** The memorandum of understanding shall establish a joint data retrieval system that is capable of tracking lease and permit applications and providing to the applicant information as to their status within the Departments of the Interior and Agriculture, including an estimate of the time required for administrative action.
+
+## Source Credit
+
+*([Pub. L. 109–58, title II, § 225](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 665](https://www.govinfo.gov/link/statute/119/665).)*

@@ -3,9 +3,10 @@ title: "Section 7699 - Eligibility; agreement"
 usc_title: 38
 usc_section: "7699"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7699"
-generated_at: "2026-03-30T02:55:53.535Z"
+generated_at: "2026-11-23T20:27:02.050Z"
+status: "active"
 ---
 
 # § 7699. Eligibility; agreement
@@ -22,3 +23,15 @@ generated_at: "2026-03-30T02:55:53.535Z"
   - **(1)** An agreement by the Secretary to provide the participant with a scholarship under the Program for a specified number of school years during which the participant pursues a program of study described in subsection (a)(1) that meets the requirements set forth in section 7602(a) of this title .
   - **(2)** An agreement by the participant to serve as a full-time employee of the Department at a Vet Center for a six-year period following the completion by the participant of such program of study (in this subchapter referred to as the “period of obligated service”).
 - **(d)** In this section, the term “Vet Center” has the meaning given that term in section 1712A(h) of this title .
+
+In General
+
+Priority
+
+Agreement
+
+Vet Center Defined
+
+## Source Credit
+
+*(Added [Pub. L. 116–171, title V, § 502(a)](https://www.govinfo.gov/link/plaw/116/public/171), Oct. 17, 2020, [134 Stat. 815](https://www.govinfo.gov/link/statute/134/815).)*

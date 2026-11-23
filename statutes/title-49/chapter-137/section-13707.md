@@ -3,9 +3,10 @@ title: "Section 13707 - Payment of rates"
 usc_title: 49
 usc_section: "13707"
 chapter: 137
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 13707"
-generated_at: "2026-03-30T02:56:19.329Z"
+generated_at: "2026-11-23T20:27:34.744Z"
+status: "active"
 ---
 
 # § 13707. Payment of rates
@@ -22,3 +23,25 @@ generated_at: "2026-03-30T02:56:19.329Z"
     - **(B)** For purposes of subparagraph (A)(iii), the prorated percentage of the charges shall be the percentage of the total charges due to the carrier as described in clause (i) or (ii) of subparagraph (A) that is equal to the percentage of the weight of that portion of the shipment delivered to the total weight of the shipment.
     - **(C)** Subparagraph (A) does not apply to additional services requested by a shipper after the contract of service is executed that were not included in the estimate.
     - **(D)** Subparagraph (A) does not apply to impracticable operations, as defined by the applicable carrier tariff, except that the charges collected at delivery for such operations shall not exceed 15 percent of all other charges due at delivery. Any remaining charges due shall be paid within 30 days after the carrier presents its freight bill.
+
+Transfer of Possession Upon Payment
+
+Exceptions.—
+
+Regulations
+
+Extensions of credit to governmental entities
+
+Shipments of household goods.—
+
+In general
+
+Calculation of prorated charges
+
+Post-contract services
+
+Impracticable operations
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 873](https://www.govinfo.gov/link/statute/109/873); amended [Pub. L. 109–59, title IV, § 4203](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1752](https://www.govinfo.gov/link/statute/119/1752).)*

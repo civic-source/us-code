@@ -3,9 +3,10 @@ title: "Section 3369c - Notification of an active measures campaign"
 usc_title: 50
 usc_section: "3369c"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3369c"
-generated_at: "2026-03-30T02:56:26.249Z"
+generated_at: "2026-11-23T20:27:30.995Z"
+status: "active"
 ---
 
 # § 3369c. Notification of an active measures campaign
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:26.249Z"
     - **(D)** The minority leader of the House of Representatives.
 - **(b)** The Director of National Intelligence, in cooperation with the Director of the Federal Bureau of Investigation and the head of any other relevant agency, shall notify the congressional leadership and the chairman and vice chairman or ranking member of each of the appropriate congressional committees, and of other relevant committees of jurisdiction, each time the Director of National Intelligence determines there is credible information that a foreign power has, is, or will attempt to employ a covert influence or active measures campaign with regard to the modernization, employment, doctrine, or force posture of the nuclear deterrent or missile defense.
 - **(c)** Each notification required by subsection (b) shall include information concerning actions taken by the United States to expose or halt an attempt referred to in subsection (b).
+
+## Source Credit
+
+*([Pub. L. 116–92, div. E, title LXVII, § 6703](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2223](https://www.govinfo.gov/link/statute/133/2223).)*

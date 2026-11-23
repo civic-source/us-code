@@ -3,9 +3,10 @@ title: "Section 5801 - Purpose"
 usc_title: 20
 usc_section: "5801"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 5801"
-generated_at: "2026-03-30T02:54:48.189Z"
+generated_at: "2026-11-23T20:26:14.797Z"
+status: "active"
 ---
 
 # § 5801. Purpose
@@ -28,3 +29,7 @@ The purpose of this chapter is to provide a framework for meeting the National E
     - **(E)** promoting the use of technology to enable all students to achieve the National Education Goals;
   - **(7)** stimulating the development and adoption of a voluntary national system of skill standards and certification to serve as a cornerstone of the national strategy to enhance workforce skills; and
   - **(8)** assisting every elementary and secondary school that receives funds under this chapter to actively involve parents and families in supporting the academic work of their children at home and in providing parents with skills to advocate for their children at school.
+
+## Source Credit
+
+*([Pub. L. 103–227, § 2](https://www.govinfo.gov/link/plaw/103/public/227), Mar. 31, 1994, [108 Stat. 128](https://www.govinfo.gov/link/statute/108/128); [Pub. L. 104–134, title I, § 101(d) [title VII, § 703(a)(2)]](https://www.govinfo.gov/link/plaw/104/public/134), Apr. 26, 1996, [110 Stat. 1321–211](https://www.govinfo.gov/link/statute/110/1321), 1321–252; renumbered title I, [Pub. L. 104–140, § 1(a)](https://www.govinfo.gov/link/plaw/104/public/140), May 2, 1996, [110 Stat. 1327](https://www.govinfo.gov/link/statute/110/1327).)*

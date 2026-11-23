@@ -3,12 +3,17 @@ title: "Section 1627 - Appointment of personnel; compensation; employment of spe
 usc_title: 7
 usc_section: "1627"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1627"
-generated_at: "2026-03-30T02:53:42.329Z"
+generated_at: "2026-11-23T20:25:41.221Z"
+status: "active"
 ---
 
 # § 1627. Appointment of personnel; compensation; employment of specialists
 
 The Secretary of Agriculture shall have the power to appoint, remove, and fix, in accordance with existing law, the compensation of such officers and employees, and to make such expenditures as he deems necessary, including expenditures for rent outside the District of Columbia, travel, supplies, books, equipment, and such other expenditures as may be necessary to the administration of this chapter: Provided , That the Secretary of Agriculture may appoint any technically qualified person, firm, or organization by contract or otherwise on a temporary basis and for a term not to exceed six months in any fiscal year to perform research, inspection, classification, technical, or other special services, without regard to the civil-service laws.
 
+
+## Source Credit
+
+*(Aug. 14, 1946, ch. 966, title II, § 208, [60 Stat. 1091](https://www.govinfo.gov/link/statute/60/1091).)*

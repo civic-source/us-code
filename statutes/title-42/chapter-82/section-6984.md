@@ -3,9 +3,10 @@ title: "Section 6984 - Full-scale demonstration facilities"
 usc_title: 42
 usc_section: "6984"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6984"
-generated_at: "2026-03-30T02:56:11.279Z"
+generated_at: "2026-11-23T20:27:22.762Z"
+status: "active"
 ---
 
 # § 6984. Full-scale demonstration facilities
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.279Z"
   - **(1)** Wherever practicable, in constructing, operating, or providing financial assistance under this subchapter to a full-scale demonstration facility, the Administrator shall endeavor to enter into agreements and make other arrangements for maximum practicable cost sharing with other Federal, State, and local agencies, private persons, or any combination thereof.
   - **(2)** The Administrator shall enter into arrangements, wherever practicable and desirable, to provide monitoring of full-scale solid waste facilities (whether or not constructed or operated under this chapter) for purposes of obtaining information concerning the performance, and other aspects, of such facilities. Where the Administrator provides only monitoring and evaluation instruments or personnel (or both) or funds for such instruments or personnel and provides no other financial assistance to a facility, notwithstanding section 6981(c)(3) of this title , title to any invention made or conceived of in the course of developing, constructing, or operating such facility shall not be required to vest in the United States and patents respecting such invention shall not be required to be issued to the United States.
 - **(d)** After October 21, 1976 , the Administrator shall not construct or operate any full-scale facility (except by contract with public agencies or authorities or private persons).
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 8004](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 94–580, § 2](https://www.govinfo.gov/link/plaw/94/public/580), Oct. 21, 1976, [90 Stat. 2836](https://www.govinfo.gov/link/statute/90/2836); amended [Pub. L. 95–609, § 7(v)](https://www.govinfo.gov/link/plaw/95/public/609), Nov. 8, 1978, [92 Stat. 3084](https://www.govinfo.gov/link/statute/92/3084); [Pub. L. 98–616, title V, § 502(f)](https://www.govinfo.gov/link/plaw/98/public/616), Nov. 8, 1984, [98 Stat. 3276](https://www.govinfo.gov/link/statute/98/3276).)*

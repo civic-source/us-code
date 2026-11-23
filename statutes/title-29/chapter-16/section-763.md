@@ -3,9 +3,10 @@ title: "Section 763 - Interagency Committee"
 usc_title: 29
 usc_section: "763"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 763"
-generated_at: "2026-03-30T02:55:18.695Z"
+generated_at: "2026-11-23T20:26:37.860Z"
+status: "active"
 ---
 
 # § 763. Interagency Committee
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:55:18.695Z"
 - **(e)** In this section—
   - **(1)** the terms “assistive technology” and “universal design” have the meanings given the terms in section 3002 of this title ; and
   - **(2)** the term “independent living”, used in connection with research, means research on issues and topics related to attaining maximum self-sufficiency and function by individuals with disabilities, including research on assistive technology and universal design, employment, education, health and wellness, and community integration and participation.
+
+## Source Credit
+
+*([Pub. L. 93–112, title II, § 203](https://www.govinfo.gov/link/plaw/93/public/112), as added [Pub. L. 105–220, title IV, § 405](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1173](https://www.govinfo.gov/link/statute/112/1173); amended [Pub. L. 105–277, div. A, § 101(f) [title VIII, § 401(16)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–412; [Pub. L. 105–394, title II, § 201](https://www.govinfo.gov/link/plaw/105/public/394), Nov. 13, 1998, [112 Stat. 3651](https://www.govinfo.gov/link/statute/112/3651); [Pub. L. 108–364, § 3(b)(1)](https://www.govinfo.gov/link/plaw/108/public/364), Oct. 25, 2004, [118 Stat. 1737](https://www.govinfo.gov/link/statute/118/1737); [Pub. L. 113–128, title IV, § 434](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1664](https://www.govinfo.gov/link/statute/128/1664).)*

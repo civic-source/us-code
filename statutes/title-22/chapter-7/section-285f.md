@@ -3,12 +3,17 @@ title: "Section 285f - Jurisdiction and venue of actions"
 usc_title: 22
 usc_section: "285f"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 285f"
-generated_at: "2026-03-30T02:55:05.317Z"
+generated_at: "2026-11-23T20:26:31.997Z"
+status: "active"
 ---
 
 # § 285f. Jurisdiction and venue of actions
 
 For the purpose of any civil action which may be brought within the United States, its territories or possessions, or the Commonwealth of Puerto Rico, by or against the Bank in accordance with the agreement, the Bank shall be deemed to be an inhabitant of the Federal judicial district in which its principal office or agency in the United States is located, and any such action to which the Bank shall be a party shall be deemed to arise under the laws of the United States, and the district courts of the United States, including the courts enumerated in section 460 of title 28 , shall have original jurisdiction of any such action. When the Bank is a defendant in any action in a State court, it may, at any time before the trial thereof, remove such action into the district court of the United States for the proper district by following the procedure for removal of causes otherwise provided by law.
 
+
+## Source Credit
+
+*([Pub. L. 89–369, § 8](https://www.govinfo.gov/link/plaw/89/public/369), Mar. 16, 1966, [80 Stat. 72](https://www.govinfo.gov/link/statute/80/72).)*

@@ -3,9 +3,10 @@ title: "Section 153 - Definitions"
 usc_title: 47
 usc_section: "153"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 153"
-generated_at: "2026-03-30T02:56:24.492Z"
+generated_at: "2026-11-23T20:27:28.816Z"
+status: "active"
 ---
 
 # § 153. Definitions
@@ -102,3 +103,37 @@ For the purposes of this chapter, unless the context otherwise requires—
   - **(57)** The term “transmission of energy by radio” or “radio transmission of energy” includes both such transmission and all instrumentalities, facilities, and services incidental to such transmission.
   - **(58)** The term “United States” means the several States and Territories, the District of Columbia, and the possessions of the United States, but does not include the Canal Zone.
   - **(59)** The term “wire communication” or “communication by wire” means the transmission of writing, signs, signals, pictures, and sounds of all kinds by aid of wire, cable, or other like connection between the points of origin and reception of such transmission, including all instrumentalities, facilities, apparatus, and services (among other things, the receipt, forwarding, and delivery of communications) incidental to such transmission.
+
+“This Act [enacting section 1343 of Title 18 , Crimes and Criminal Procedure, amending this section and sections 154, 155, 307 to 312, 315, 316, 319, 402, 405, 409, and 410 of this title, and enacting provisions set out as notes under this section and section 609 of this title ] shall take effect on the date of its enactment [ July 16, 1952 ], but—
+
+In General
+
+Exception
+
+“In this title [amending sections 325, 338, 534, and 543 of this title and enacting provisions set out as notes under sections 325, 338, and 534 of this title]:
+
+Appropriate congressional committees
+
+Commission
+
+“In this title [amending sections 303, 330, and 613 of this title and enacting provisions set out as notes under sections 303 and 613 of this title]:
+
+Advisory committee
+
+Chairman
+
+Commission
+
+Emergency information
+
+Internet protocol
+
+Navigation device
+
+Video description
+
+Video programming
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title I, § 3, [48 Stat. 1065](https://www.govinfo.gov/link/statute/48/1065); May 20, 1937, ch. 229, § 2, [50 Stat. 189](https://www.govinfo.gov/link/statute/50/189); Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, [60 Stat. 1352](https://www.govinfo.gov/link/statute/60/1352); July 16, 1952, ch. 879, § 2, [66 Stat. 711](https://www.govinfo.gov/link/statute/66/711); Apr. 27, 1954, ch. 175, §§ 2, 3, [68 Stat. 64](https://www.govinfo.gov/link/statute/68/64); Aug. 13, 1954, ch. 729, § 3, [68 Stat. 707](https://www.govinfo.gov/link/statute/68/707); Aug. 13, 1954, ch. 735, § 1, [68 Stat. 729](https://www.govinfo.gov/link/statute/68/729); Aug. 6, 1956, ch. 973, § 3, [70 Stat. 1049](https://www.govinfo.gov/link/statute/70/1049); [Pub. L. 89–121, § 1](https://www.govinfo.gov/link/plaw/89/public/121), Aug. 13, 1965, [79 Stat. 511](https://www.govinfo.gov/link/statute/79/511); [Pub. L. 90–299, § 2](https://www.govinfo.gov/link/plaw/90/public/299), May 3, 1968, [82 Stat. 112](https://www.govinfo.gov/link/statute/82/112); [Pub. L. 97–259, title I, § 120(b)](https://www.govinfo.gov/link/plaw/97/public/259), Sept. 13, 1982, [96 Stat. 1097](https://www.govinfo.gov/link/statute/96/1097); [Pub. L. 103–66, title VI, § 6002(b)(2)(B)(ii)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 396](https://www.govinfo.gov/link/statute/107/396); [Pub. L. 104–104, § 3(a)](https://www.govinfo.gov/link/plaw/104/public/104), (c), Feb. 8, 1996, [110 Stat. 58](https://www.govinfo.gov/link/statute/110/58), 61; [Pub. L. 105–33, title III, § 3001(b)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 258](https://www.govinfo.gov/link/statute/111/258); [Pub. L. 111–260, title I, § 101](https://www.govinfo.gov/link/plaw/111/public/260), Oct. 8, 2010, [124 Stat. 2752](https://www.govinfo.gov/link/statute/124/2752); [Pub. L. 117–338, § 2(b)](https://www.govinfo.gov/link/plaw/117/public/338), Jan. 5, 2023, [136 Stat. 6156](https://www.govinfo.gov/link/statute/136/6156).)*

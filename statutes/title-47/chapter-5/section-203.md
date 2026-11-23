@@ -3,9 +3,10 @@ title: "Section 203 - Schedules of charges"
 usc_title: 47
 usc_section: "203"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 203"
-generated_at: "2026-03-30T02:56:24.494Z"
+generated_at: "2026-11-23T20:27:28.825Z"
+status: "active"
 ---
 
 # § 203. Schedules of charges
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:24.494Z"
 - **(c)** No carrier, unless otherwise provided by or under authority of this chapter, shall engage or participate in such communication unless schedules have been filed and published in accordance with the provisions of this chapter and with the regulations made thereunder; and no carrier shall (1) charge, demand, collect, or receive a greater or less or different compensation for such communication, or for any service in connection therewith, between the points named in any such schedule than the charges specified in the schedule then in effect, or (2) refund or remit by any means or device any portion of the charges so specified, or (3) extend to any person any privileges or facilities in such communication, or employ or enforce any classifications, regulations, or practices affecting such charges, except as specified in such schedule.
 - **(d)** The Commission may reject and refuse to file any schedule entered for filing which does not provide and give lawful notice of its effective date. Any schedule so rejected by the Commission shall be void and its use shall be unlawful.
 - **(e)** In case of failure or refusal on the part of any carrier to comply with the provisions of this section or of any regulation or order made by the Commission thereunder, such carrier shall forfeit to the United States the sum of $6,000 for each such offense, and $300 for each and every day of the continuance of such offense.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title II, § 203, [48 Stat. 1070](https://www.govinfo.gov/link/statute/48/1070); [Pub. L. 94–376, § 1](https://www.govinfo.gov/link/plaw/94/public/376), Aug. 4, 1976, [90 Stat. 1080](https://www.govinfo.gov/link/statute/90/1080); [Pub. L. 101–239, title III, § 3002(b)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2131](https://www.govinfo.gov/link/statute/103/2131); [Pub. L. 101–396, § 7](https://www.govinfo.gov/link/plaw/101/public/396), Sept. 28, 1990, [104 Stat. 850](https://www.govinfo.gov/link/statute/104/850).)*

@@ -3,9 +3,10 @@ title: "Section 133 - Provider requirements with respect to disclosure on patien
 usc_title: 42
 usc_section: "133"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 133"
-generated_at: "2026-03-30T02:56:10.839Z"
+generated_at: "2026-11-23T20:27:20.679Z"
+status: "active"
 ---
 
 # § 300gg–133. Provider requirements with respect to disclosure on patient protections against balance billing
@@ -15,3 +16,7 @@ Beginning not later than January 1, 2022 , each health care provider and health 
   - **(1)** the requirements and prohibitions of such provider or facility under sections 300gg–131 and 300gg–132 of this title (relating to prohibitions on balance billing in certain circumstances);
   - **(2)** any other applicable State law requirements on such provider or facility regarding the amounts such provider or facility may, with respect to an item or service, charge a participant, beneficiary, or enrollee of a group health plan or group or individual health insurance coverage offered by a health insurance issuer with respect to which such provider or facility does not have a contractual relationship for furnishing such item or service under the plan or coverage, respectively, after receiving payment from the plan or coverage, respectively, for such item or service and any applicable cost-sharing payment from such participant, beneficiary, or enrollee; and
   - **(3)** information on contacting appropriate State and Federal agencies in the case that an individual believes that such provider or facility has violated any requirement described in paragraph (1) or (2) with respect to such individual.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXVII, § 2799B–3, as added [Pub. L. 116–260, div. BB, title I, § 104(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2829](https://www.govinfo.gov/link/statute/134/2829).)*

@@ -3,9 +3,10 @@ title: "Section 2164c - Authorization of dual or concurrent enrollment programs 
 usc_title: 10
 usc_section: "2164c"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2164c"
-generated_at: "2026-03-30T02:53:38.146Z"
+generated_at: "2026-11-23T20:25:51.475Z"
+status: "active"
 ---
 
 # § 2164c. Authorization of dual or concurrent enrollment programs for students of Defense Dependent Schools
@@ -55,3 +56,35 @@ generated_at: "2026-03-30T02:53:38.146Z"
     - **(A)** toward completion of a postsecondary degree or recognized educational credential as described in the Higher Education Act of 1965 ( 20 U.S.C. 1001 et seq.); and
     - **(B)** toward completion of high school.
   - **(4)** The term “institution of higher education” has the meaning given that term in section 102 of the Higher Education Act of 1965 ( 20 U.S.C. 1002 ).
+
+In General
+
+Amount of Assistance
+
+Credit Transferability
+
+Institutional Integrity
+
+Preparation and Informing Families and Educators
+
+Course sequence alignment
+
+Outreach and information dissemination
+
+Teacher Certification
+
+Additional Requirements
+
+Annual Briefings.—
+
+In general
+
+Elements
+
+Disaggregation
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. A, title V, § 584](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 889](https://www.govinfo.gov/link/statute/139/889).)*

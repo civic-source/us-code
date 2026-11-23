@@ -3,9 +3,10 @@ title: "Section 12605 - Presentation of United States flag: members transferred 
 usc_title: 10
 usc_section: "12605"
 chapter: 1217
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 12605"
-generated_at: "2026-03-30T02:53:38.271Z"
+generated_at: "2026-11-23T20:25:52.444Z"
+status: "active"
 ---
 
 # § 12605. Presentation of United States flag: members transferred from an active status or discharged after completion of eligibility for retired pay
@@ -13,3 +14,13 @@ generated_at: "2026-03-30T02:53:38.271Z"
 - **(a)** Upon the transfer from an active status or discharge of a Reserve who has completed the years of service required for eligibility for retired pay under chapter 1223 of this title, the Secretary concerned shall present a United States flag to the member.
 - **(b)** A member is not eligible for presentation of a flag under subsection (a) if the member has previously been presented a flag under this section or any provision of law providing for the presentation of a United States flag incident to release from active service for retirement.
 - **(c)** The presentation of a flag under this section shall be at no cost to the recipient.
+
+Presentation of Flag
+
+Multiple Presentations Not Authorized
+
+No Cost to Recipient
+
+## Source Credit
+
+*(Added [Pub. L. 106–65, div. A, title VI, § 652(a)(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 664](https://www.govinfo.gov/link/statute/113/664).)*

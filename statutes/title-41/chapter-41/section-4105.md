@@ -3,9 +3,10 @@ title: "Section 4105 - Advisory and assistance services"
 usc_title: 41
 usc_section: "4105"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 4105"
-generated_at: "2026-03-30T02:55:55.807Z"
+generated_at: "2026-11-23T20:27:04.449Z"
+status: "active"
 ---
 
 # § 4105. Advisory and assistance services
@@ -35,3 +36,99 @@ generated_at: "2026-03-30T02:55:55.807Z"
     - **(B)** the extension is necessary to ensure continuity of the receipt of services pending the award of, and commencement of performance under, the follow-on contract.
   - **(2)** A task order contract may be extended under paragraph (1) only once and only in accordance with the limitations and requirements of this subsection.
 - **(i)** This section does not apply to a contract for the acquisition of property or services that includes acquisition of advisory and assistance services if the head of the executive agency entering into the contract determines that, under the contract, advisory and assistance services are necessarily incident to, and not a significant component of, the contract.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 4105(a) | 41:253i(i). | June 30, 1949, ch. 288 , title III, § 303I, as added Pub. L. 103–355, title I, § 1054(a) , Oct. 13, 1994 , 108 Stat. 3262 . |
+| 4105(b) | 41:253i(a). |  |
+| 4105(c)(1) | 41:253i(b). |  |
+| 4105(c)(2) | 41:253i note. | Pub. L. 109–364, div. A, title VIII, § 834(b) , (c) (related to (b)), Oct. 17, 2006 , 120 Stat. 2333 . |
+| 4105(d) | 41:253i(c). |  |
+| 4105(e) | 41:253i(d). |  |
+| 4105(f) | 41:253i(e). |  |
+| 4105(g) | 41:253i(f). |  |
+| 4105(h) | 41:253i(g). |  |
+| 4105(i) | 41:253i(h). |  |
+
+
+Definition
+
+Authority To Award.—
+
+In general
+
+Only under this section
+
+Contract Period
+
+Content of Notice
+
+Required Content of Solicitation and Contract.—
+
+Solicitation
+
+Contract
+
+Multiple Awards.—
+
+Authority to make multiple awards
+
+Content of solicitation
+
+Nonapplication
+
+Contract Modifications.—
+
+Increase in scope, period, or maximum value of contract only by modification of contract
+
+Use of competitive procedures
+
+Notice
+
+Contract Extensions.—
+
+When contract may be extended
+
+Limit of one extension
+
+Inapplicability to Certain Contracts
+
+Historical and Revision Notes
+
+4105(a)
+
+June 30, 1949, ch. 288
+
+Pub. L. 103–355, title I, § 1054(a)
+
+Oct. 13, 1994
+
+108 Stat. 3262
+
+4105(b)
+
+4105(c)(1)
+
+4105(c)(2)
+
+Pub. L. 109–364, div. A, title VIII, § 834(b)
+
+Oct. 17, 2006
+
+120 Stat. 2333
+
+4105(d)
+
+4105(e)
+
+4105(f)
+
+4105(g)
+
+4105(h)
+
+4105(i)
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3780](https://www.govinfo.gov/link/statute/124/3780).)*

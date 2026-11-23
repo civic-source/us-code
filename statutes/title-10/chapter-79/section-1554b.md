@@ -3,9 +3,10 @@ title: "Section 1554b - Confidential review of characterization of terms of disc
 usc_title: 10
 usc_section: "1554b"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1554b"
-generated_at: "2026-03-30T02:53:38.128Z"
+generated_at: "2026-11-23T20:25:51.368Z"
+status: "active"
 ---
 
 # § 1554b. Confidential review of characterization of terms of discharge of members of the armed forces who are victims of sex-related offenses
@@ -19,3 +20,15 @@ generated_at: "2026-03-30T02:53:38.128Z"
   - **(1)** Rape or sexual assault under subsection (a) or (b) of section 920 of this title (article 120 of the Uniform Code of Military Justice).
   - **(2)** Forcible sodomy under section 925 of this title (article 125 of the Uniform Code of Military Justice).
   - **(3)** An attempt to commit an offense specified in paragraph (1) or (2) as punishable under section 880 of this title (article 80 of the Uniform Code of Military Justice).
+
+Confidential Review Process Through Boards for Correction of Military Records
+
+Consideration of Individual Experiences in Connection With Offenses
+
+Preservation of Confidentiality
+
+Sex-related Offense Defined
+
+## Source Credit
+
+*(Added and amended [Pub. L. 115–91, div. A, title V, § 522(a)(1)](https://www.govinfo.gov/link/plaw/115/public/91), (b), (c), Dec. 12, 2017, [131 Stat. 1380](https://www.govinfo.gov/link/statute/131/1380), 1381.)*

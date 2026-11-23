@@ -3,9 +3,10 @@ title: "Section 7321 - National Energy Policy Plan"
 usc_title: 42
 usc_section: "7321"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7321"
-generated_at: "2026-03-30T02:56:11.289Z"
+generated_at: "2026-11-23T20:27:22.807Z"
+status: "active"
 ---
 
 # § 7321. National Energy Policy Plan
@@ -27,3 +28,17 @@ generated_at: "2026-03-30T02:56:11.289Z"
   - **(4)** a summary of research and development efforts funded by the Federal Government to forestall energy shortages, to reduce waste, to foster recycling, to encourage conservation practices, and to otherwise protect environmental quality, including recommendations for developing technologies to accomplish such purposes; and
   - **(5)** a review and appraisal of the adequacy and appropriateness of technologies, procedures, and practices (including competitive and regulatory practices) employed by Federal, State, and local governments and nongov­ernmental entities to achieve the purposes of the Plan.
 - **(d)** The President shall insure that consumers, small businesses, and a wide range of other interests, including those of individual citizens who have no financial interest in the energy industry, are consulted in the development of the Plan.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 95–91, title VIII, § 801](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 610](https://www.govinfo.gov/link/statute/91/610).)*

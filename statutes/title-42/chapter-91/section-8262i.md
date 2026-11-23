@@ -3,9 +3,10 @@ title: "Section 8262i - United States Postal Service energy management report"
 usc_title: 42
 usc_section: "8262i"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8262i"
-generated_at: "2026-03-30T02:56:11.339Z"
+generated_at: "2026-11-23T20:27:23.026Z"
+status: "active"
 ---
 
 # § 8262i. United States Postal Service energy management report
@@ -17,3 +18,7 @@ Not later than one year after October 24, 1992 , and not later than January 1 of
   - **(3)** an assessment of the success of the energy conservation program;
   - **(4)** a statement of energy costs incurred in operating and maintaining all United States Postal Service facilities; and
   - **(5)** the status of the energy efficient procurement program established under section 8262h of this title .
+
+## Source Credit
+
+*([Pub. L. 102–486, title I, § 165](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2861](https://www.govinfo.gov/link/statute/106/2861).)*

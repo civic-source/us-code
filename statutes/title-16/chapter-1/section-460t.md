@@ -3,12 +3,17 @@ title: "Section 460t - Establishment"
 usc_title: 16
 usc_section: "460t"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 460t"
-generated_at: "2026-03-30T02:54:22.817Z"
+generated_at: "2026-11-23T20:26:19.924Z"
+status: "active"
 ---
 
 # § 460t. Establishment
 
 - **(a)** In order to provide for public outdoor recreation use and enjoyment of the proposed Yellowtail Reservoir and lands adjacent thereto in the States of Wyoming and Montana by the people of the United States and for preservation of the scenic, scientific, and historic features contributing to public enjoyment of such lands and waters, there is hereby established the Bighorn Canyon National Recreation Area to comprise the area generally depicted on the drawing entitled “Proposed Bighorn Canyon National Recreation Area”, LNPMW–010A–BC, November 1964, which is on file in the Office of the National Park Service, Department of the Interior.
 - **(b)** As soon as practicable after October 15, 1966 , the Secretary of the Interior shall publish in the Federal Register a detailed description of the boundaries of the area which shall encompass, to the extent practicable, the lands and waters shown on the drawing referred to in subsection (a) of this section. The Secretary may subsequently make adjustments in the boundary of the area, subject to the provisions of section 460t–1(b) of this title , by publication of an amended description in the Federal Register.
+
+## Source Credit
+
+*([Pub. L. 89–664, § 1](https://www.govinfo.gov/link/plaw/89/public/664), Oct. 15, 1966, [80 Stat. 913](https://www.govinfo.gov/link/statute/80/913).)*

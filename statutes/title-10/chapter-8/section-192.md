@@ -3,9 +3,10 @@ title: "Section 192 - Defense Agencies and Department of Defense Field Activitie
 usc_title: 10
 usc_section: "192"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 192"
-generated_at: "2026-03-30T02:53:38.046Z"
+generated_at: "2026-11-23T20:25:50.871Z"
+status: "active"
 ---
 
 # § 192. Defense Agencies and Department of Defense Field Activities: oversight by the Secretary of Defense
@@ -37,3 +38,17 @@ generated_at: "2026-03-30T02:53:38.046Z"
 - **(e)** The Secretary of Defense may not terminate a Defense Agency or Department of Defense Field Activity until 30 days after the date on which the Secretary submits to the congressional defense committees a report setting forth the following:
   - **(1)** Notice of the intent of the Secretary to terminate the Agency or Activity.
   - **(2)** Such recommendations for legislative action as the Secretary considers appropriate in connection with the termination of the Agency or Activity.
+
+Overall Supervision
+
+Program and Budget Review
+
+Periodic Review
+
+Special Rule for Defense Commissary Agency
+
+Limitation on Termination
+
+## Source Credit
+
+*(Added [Pub. L. 99–433, title III, § 301(a)(2)](https://www.govinfo.gov/link/plaw/99/public/433), Oct. 1, 1986, [100 Stat. 1020](https://www.govinfo.gov/link/statute/100/1020); amended [Pub. L. 105–261, div. A, title III, § 361(a)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 1984](https://www.govinfo.gov/link/statute/112/1984); [Pub. L. 106–65, div. A, title X, § 1066(a)(3)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 770](https://www.govinfo.gov/link/statute/113/770); [Pub. L. 109–163, div. A, title III, § 371](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3209](https://www.govinfo.gov/link/statute/119/3209); [Pub. L. 110–181, div. A, title IX](https://www.govinfo.gov/link/plaw/110/public/181), §§ 904(c), 931(a)(1), Jan. 28, 2008, [122 Stat. 274](https://www.govinfo.gov/link/statute/122/274), 285; [Pub. L. 113–291, div. A, title IX, § 901(n)(1)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3469](https://www.govinfo.gov/link/statute/128/3469); [Pub. L. 115–91, div. A, title X, § 1081(b)(1)(D)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1597](https://www.govinfo.gov/link/statute/131/1597); [Pub. L. 115–232, div. A, title IX, § 923](https://www.govinfo.gov/link/plaw/115/public/232), title X, § 1081(f)(1)(A)(i), Aug. 13, 2018, [132 Stat. 1930](https://www.govinfo.gov/link/statute/132/1930), 1986; [Pub. L. 116–283, div. A, title X, § 1081(a)(11)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3871](https://www.govinfo.gov/link/statute/134/3871); [Pub. L. 118–31, div. A, title IX, § 901(b)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 354](https://www.govinfo.gov/link/statute/137/354).)*

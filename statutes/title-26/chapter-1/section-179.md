@@ -3,9 +3,10 @@ title: "Section 179 - Election to expense certain depreciable business assets"
 usc_title: 26
 usc_section: "179"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 179"
-generated_at: "2026-03-30T02:55:27.648Z"
+generated_at: "2026-11-23T20:26:45.484Z"
+status: "active"
 ---
 
 # § 179. Election to expense certain depreciable business assets
@@ -82,3 +83,21 @@ generated_at: "2026-03-30T02:55:27.648Z"
     - **(B)** Heating, ventilation, and air-conditioning property.
     - **(C)** Fire protection and alarm systems.
     - **(D)** Security systems.
+
+In general
+
+Carryover of unused cost
+
+Computation of taxable income
+
+Extension
+
+Modifications
+
+In general
+
+Extensions
+
+## Source Credit
+
+*(Added [Pub. L. 85–866, title II, § 204(a)](https://www.govinfo.gov/link/plaw/85/public/866), Sept. 2, 1958, [72 Stat. 1679](https://www.govinfo.gov/link/statute/72/1679); amended [Pub. L. 87–834, § 13(c)(2)](https://www.govinfo.gov/link/plaw/87/public/834), Oct. 16, 1962, [76 Stat. 1034](https://www.govinfo.gov/link/statute/76/1034); [Pub. L. 91–172, title IV, § 401(f)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 603](https://www.govinfo.gov/link/statute/83/603); [Pub. L. 94–455, title II, § 213(a)](https://www.govinfo.gov/link/plaw/94/public/455), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1547](https://www.govinfo.gov/link/statute/90/1547), 1834; [Pub. L. 97–34, title II, § 202(a)](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 219](https://www.govinfo.gov/link/statute/95/219); [Pub. L. 97–354, § 3(f)](https://www.govinfo.gov/link/plaw/97/public/354), Oct. 19, 1982, [96 Stat. 1689](https://www.govinfo.gov/link/statute/96/1689); [Pub. L. 97–448, title I, § 102(aa)](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2369](https://www.govinfo.gov/link/statute/96/2369); [Pub. L. 98–369, div. A, title I, § 13](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 505](https://www.govinfo.gov/link/statute/98/505); [Pub. L. 99–514, title II](https://www.govinfo.gov/link/plaw/99/public/514), §§ 201(d)(3), 202, Oct. 22, 1986, [100 Stat. 2139](https://www.govinfo.gov/link/statute/100/2139), 2142; [Pub. L. 100–647, title I, § 1002(a)(19)](https://www.govinfo.gov/link/plaw/100/public/647), (b)(1), Nov. 10, 1988, [102 Stat. 3356](https://www.govinfo.gov/link/statute/102/3356), 3357; [Pub. L. 101–508, title XI, § 11813(b)(11)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–554](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–66, title XIII, § 13116(a)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 432](https://www.govinfo.gov/link/statute/107/432); [Pub. L. 104–188, title I](https://www.govinfo.gov/link/plaw/104/public/188), §§ 1111(a), 1702(h)(10), (19), Aug. 20, 1996, [110 Stat. 1758](https://www.govinfo.gov/link/statute/110/1758), 1874; [Pub. L. 108–27, title II, § 202(a)](https://www.govinfo.gov/link/plaw/108/public/27) –(e), May 28, 2003, [117 Stat. 757](https://www.govinfo.gov/link/statute/117/757), 758; [Pub. L. 108–357, title II, § 201](https://www.govinfo.gov/link/plaw/108/public/357), title VIII, § 910(a), Oct. 22, 2004, [118 Stat. 1429](https://www.govinfo.gov/link/statute/118/1429), 1659; [Pub. L. 109–222, title I, § 101](https://www.govinfo.gov/link/plaw/109/public/222), May 17, 2006, [120 Stat. 346](https://www.govinfo.gov/link/statute/120/346); [Pub. L. 110–28, title VIII, § 8212(a)](https://www.govinfo.gov/link/plaw/110/public/28) –(c), May 25, 2007, [121 Stat. 192](https://www.govinfo.gov/link/statute/121/192); [Pub. L. 110–185, title I, § 102(a)](https://www.govinfo.gov/link/plaw/110/public/185), Feb. 13, 2008, [122 Stat. 618](https://www.govinfo.gov/link/statute/122/618); [Pub. L. 110–343, div. C, title VII, § 711(a)](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3928](https://www.govinfo.gov/link/statute/122/3928); [Pub. L. 111–5, div. B, title I, § 1202(a)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 335](https://www.govinfo.gov/link/statute/123/335); [Pub. L. 111–147, title II, § 201(a)](https://www.govinfo.gov/link/plaw/111/public/147), Mar. 18, 2010, [124 Stat. 77](https://www.govinfo.gov/link/statute/124/77); [Pub. L. 111–240, title II, § 2021(a)](https://www.govinfo.gov/link/plaw/111/public/240) –(d), Sept. 27, 2010, [124 Stat. 2556](https://www.govinfo.gov/link/statute/124/2556), 2558; [Pub. L. 111–312, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/111/public/312) –(e), title VII, § 737(b)(3), Dec. 17, 2010, [124 Stat. 3306](https://www.govinfo.gov/link/statute/124/3306), 3307, 3318; [Pub. L. 112–240, title III, § 315(a)](https://www.govinfo.gov/link/plaw/112/public/240) –(d), Jan. 2, 2013, [126 Stat. 2330](https://www.govinfo.gov/link/statute/126/2330), 2331; [Pub. L. 113–295, div. A, title I, § 127(a)](https://www.govinfo.gov/link/plaw/113/public/295) –(d), Dec. 19, 2014, [128 Stat. 4017](https://www.govinfo.gov/link/statute/128/4017); [Pub. L. 114–113, div. Q, title I, § 124(a)](https://www.govinfo.gov/link/plaw/114/public/113) –(f), Dec. 18, 2015, [129 Stat. 3053](https://www.govinfo.gov/link/statute/129/3053); [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 11002(d)(1)(R), 13101(a)–(c), Dec. 22, 2017, [131 Stat. 2060](https://www.govinfo.gov/link/statute/131/2060), 2101, 2102; [Pub. L. 115–141, div. U, title IV, § 401(b)(15)(A)](https://www.govinfo.gov/link/plaw/115/public/141), (B), Mar. 23, 2018, [132 Stat. 1202](https://www.govinfo.gov/link/statute/132/1202); [Pub. L. 119–21, title VII, § 70306(a)](https://www.govinfo.gov/link/plaw/119/public/21), (b), July 4, 2025, [139 Stat. 197](https://www.govinfo.gov/link/statute/139/197).)*

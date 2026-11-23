@@ -3,9 +3,10 @@ title: "Section 2295 - Assistance for the independent states"
 usc_title: 22
 usc_section: "2295"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2295"
-generated_at: "2026-03-30T02:55:05.355Z"
+generated_at: "2026-11-23T20:26:32.221Z"
+status: "active"
 ---
 
 # § 2295. Assistance for the independent states
@@ -55,3 +56,19 @@ The President is authorized to provide assistance to the independent states of t
   - **(12)** Improving transportation and telecommunications infrastructure and management, including intermodal transportation systems to ensure the safe and efficient movement of people, products, and materials.
   - **(13)** Promoting drug education, interdiction, and eradication programs.
   - **(14)** Protecting and caring for refugees, displaced persons, and other migrants; addressing the root causes of migration; and promoting the development of appropriate immigration and emigration laws and procedures.
+
+Findings
+
+Purposes
+
+Sense of Congress
+
+Statement of Policy
+
+Assistance Programs
+
+Radio Free Europe/Radio Liberty and Voice of America
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 498, as added [Pub. L. 102–511, title II, § 201](https://www.govinfo.gov/link/plaw/102/public/511), Oct. 24, 1992, [106 Stat. 3324](https://www.govinfo.gov/link/statute/106/3324); amended [Pub. L. 107–246, § 4(a)](https://www.govinfo.gov/link/plaw/107/public/246), Oct. 23, 2002, [116 Stat. 1514](https://www.govinfo.gov/link/statute/116/1514).)*

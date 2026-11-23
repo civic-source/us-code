@@ -3,9 +3,10 @@ title: "Section 12222 - Use of funds"
 usc_title: 34
 usc_section: "12222"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12222"
-generated_at: "2026-03-30T02:55:33.284Z"
+generated_at: "2026-11-23T20:26:50.539Z"
+status: "active"
 ---
 
 # § 12222. Use of funds
@@ -17,3 +18,7 @@ Grants made by the Attorney General under this section shall be used—
   - **(3)** to fund programs that coordinate criminal justice resources with educational, social service, and community resources to develop and deliver violence prevention programs, including mediation and other conflict resolution methods, treatment, counseling, educational, and recreational programs that create alternatives to criminal activity;
   - **(4)** in rural States (as defined in section 10351(b) of this title ), to fund cooperative efforts between State and local prosecutors, victim advocacy and assistance groups, social and community service providers, and law enforcement agencies to investigate and prosecute child abuse cases, treat youthful victims of child abuse, and work in cooperation with the community to develop education and prevention strategies directed toward the issues with which such entities are concerned; and
   - **(5)** by a State, unit of local government, or Indian tribe to create and expand witness and victim protection programs to prevent threats, intimidation, and retaliation against victims of, and witnesses to, violent crimes.
+
+## Source Credit
+
+*([Pub. L. 103–322, title III, § 31702](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1890](https://www.govinfo.gov/link/statute/108/1890); [Pub. L. 110–177, title III, § 301(a)](https://www.govinfo.gov/link/plaw/110/public/177), Jan. 7, 2008, [121 Stat. 2538](https://www.govinfo.gov/link/statute/121/2538).)*

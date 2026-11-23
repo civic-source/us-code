@@ -3,12 +3,17 @@ title: "Section 6734 - Administration; rules; authorization of appropriations"
 usc_title: 42
 usc_section: "6734"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6734"
-generated_at: "2026-03-30T02:56:11.266Z"
+generated_at: "2026-11-23T20:27:22.702Z"
+status: "active"
 ---
 
 # § 6734. Administration; rules; authorization of appropriations
 
 - **(a)** The Secretary is authorized to prescribe, after consultation with the Secretary of Labor, such rules as may be necessary for the purpose of carrying out his functions under this subchapter. Such rules should be prescribed by the Secretary not later than ninety days of July 22, 1976 .
 - **(b)** There are authorized to be appropriated such sums as may be necessary for the administration of this subchapter.
+
+## Source Credit
+
+*([Pub. L. 94–369, title II, § 214](https://www.govinfo.gov/link/plaw/94/public/369), July 22, 1976, [90 Stat. 1010](https://www.govinfo.gov/link/statute/90/1010).)*

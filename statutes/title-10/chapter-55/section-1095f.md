@@ -3,9 +3,10 @@ title: "Section 1095f - TRICARE program: referrals and preauthorizations under T
 usc_title: 10
 usc_section: "1095f"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1095f"
-generated_at: "2026-03-30T02:53:38.107Z"
+generated_at: "2026-11-23T20:25:51.239Z"
+status: "active"
 ---
 
 # § 1095f. TRICARE program: referrals and preauthorizations under TRICARE Prime
@@ -27,3 +28,25 @@ generated_at: "2026-03-30T02:53:38.107Z"
   - **(3)** Inpatient care at a rehabilitation facility.
   - **(4)** Inpatient care at a residential treatment center.
 - **(c)** The Secretary of Defense shall ensure that no contract for managed care support under the TRICARE program includes any requirement that a managed care support contractor require a primary care or specialty care provider to obtain prior authorization before referring a patient to a specialty care provider that is part of the network of health care providers or institutions of the contractor.
+
+Referrals
+
+Preauthorization
+
+Prohibition Regarding Prior Authorization for Certain Referrals
+
+In General
+
+Objectives
+
+Deadline for Implementation
+
+Evaluation and Improvement
+
+Improvement of Specialty Care Referrals During Permanent Changes of Station
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title VII, § 728(a)(1)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–189; amended [Pub. L. 114–328, div. A, title VII, § 701(c)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2186](https://www.govinfo.gov/link/statute/130/2186); [Pub. L. 115–91, div. A, title VII, § 739(e)(1)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1447](https://www.govinfo.gov/link/statute/131/1447); [Pub. L. 118–159, div. A, title VII, § 703](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1942](https://www.govinfo.gov/link/statute/138/1942).)*

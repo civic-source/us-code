@@ -3,9 +3,10 @@ title: "Section 4407 - Allocation of amounts available to carry out this chapter
 usc_title: 16
 usc_section: "4407"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 4407"
-generated_at: "2026-03-30T02:54:23.043Z"
+generated_at: "2026-11-23T20:26:20.743Z"
+status: "active"
 ---
 
 # § 4407. Allocation of amounts available to carry out this chapter
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:23.043Z"
 - **(c)**
   - **(1)** The Secretary may from time to time make payments to carry out approved wetlands conservation projects as such projects progress, but such payments, including previous payments, if any, shall not be more than the Federal pro rata share of any such project in conformity with subsection (b) of this section.
   - **(2)** The Secretary may enter into agreements to make payments on an initial portion of an approved wetlands conservation project and to agree to make payments on the remaining Federal share of the costs of such project from subsequent allocations if and when they become available. The liability of the United States under such an agreement is contingent upon the continued availability of funds for the purposes of this chapter.
+
+## Source Credit
+
+*([Pub. L. 101–233, § 8](https://www.govinfo.gov/link/plaw/101/public/233), Dec. 13, 1989, [103 Stat. 1975](https://www.govinfo.gov/link/statute/103/1975); [Pub. L. 103–375, § 2(a)](https://www.govinfo.gov/link/plaw/103/public/375), Oct. 19, 1994, [108 Stat. 3494](https://www.govinfo.gov/link/statute/108/3494); [Pub. L. 107–308](https://www.govinfo.gov/link/plaw/107/public/308), §§ 6, 7, Dec. 2, 2002, [116 Stat. 2447](https://www.govinfo.gov/link/statute/116/2447); [Pub. L. 111–149, § 1(a)](https://www.govinfo.gov/link/plaw/111/public/149), Mar. 25, 2010, [124 Stat. 1025](https://www.govinfo.gov/link/statute/124/1025).)*

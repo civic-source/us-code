@@ -3,9 +3,10 @@ title: "Section 40302 - Definitions"
 usc_title: 51
 usc_section: "40302"
 chapter: 403
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 40302"
-generated_at: "2026-03-30T02:56:28.706Z"
+generated_at: "2026-11-23T20:27:37.479Z"
+status: "active"
 ---
 
 # § 40302. Definitions
@@ -29,3 +30,44 @@ In this chapter:
     - **(A)** aeronautical and space activities; or
     - **(B)** advancements in any field related to space.
   - **(10)** The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, or any other territory or possession of the United States.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 40302 | 42 U.S.C. 2486b . | Pub. L. 100–147, title II, § 204 , Oct. 30, 1987 , 101 Stat. 870 . |
+
+
+Aeronautical and space activities
+
+Field related to space
+
+Panel
+
+Person
+
+Space environment
+
+Space grant college
+
+Space grant program
+
+Space grant regional consortium
+
+Space resource
+
+State
+
+Historical and Revision Notes
+
+40302
+
+42 U.S.C. 2486b
+
+Pub. L. 100–147, title II, § 204
+
+Oct. 30, 1987
+
+101 Stat. 870
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3383](https://www.govinfo.gov/link/statute/124/3383).)*

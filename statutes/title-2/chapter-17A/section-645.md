@@ -3,9 +3,10 @@ title: "Section 645 - Adjustments"
 usc_title: 2
 usc_section: "645"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 645"
-generated_at: "2026-03-30T02:53:04.800Z"
+generated_at: "2026-11-23T20:25:28.906Z"
+status: "active"
 ---
 
 # § 645. Adjustments
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:53:04.800Z"
       - **(vi)** for fiscal year 2027, $633,000,000.
     - **(E)** As used in this subsection, the term “additional new budget authority” means the amount provided for a fiscal year, in excess of $117,000,000, in an appropriation measure or conference report (as the case may be) and specified to pay for grants to States under section 506 of title 42 .
   - **(2)** Following any adjustment made under paragraph (1), the Committees on Appropriations of the Senate and the House of Representatives may report appropriately revised suballocations pursuant to section 633(b) of this title to carry out this subsection.
+
+## Source Credit
+
+*([Pub. L. 93–344, title III, § 314](https://www.govinfo.gov/link/plaw/93/public/344), as added [Pub. L. 105–33, title X, § 10114(a)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 688](https://www.govinfo.gov/link/statute/111/688); amended [Pub. L. 105–89, title II, § 201(b)(2)](https://www.govinfo.gov/link/plaw/105/public/89), Nov. 19, 1997, [111 Stat. 2125](https://www.govinfo.gov/link/statute/111/2125); [Pub. L. 112–25, title I, § 105(a)](https://www.govinfo.gov/link/plaw/112/public/25), Aug. 2, 2011, [125 Stat. 246](https://www.govinfo.gov/link/statute/125/246); [Pub. L. 112–78, title V, § 511](https://www.govinfo.gov/link/plaw/112/public/78), Dec. 23, 2011, [125 Stat. 1291](https://www.govinfo.gov/link/statute/125/1291); [Pub. L. 113–67, div. A, title I, § 122(10)](https://www.govinfo.gov/link/plaw/113/public/67), Dec. 26, 2013, [127 Stat. 1176](https://www.govinfo.gov/link/statute/127/1176); [Pub. L. 115–123, div. C, title II, § 30206(d)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 131](https://www.govinfo.gov/link/statute/132/131).)*

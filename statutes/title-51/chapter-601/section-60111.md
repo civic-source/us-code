@@ -3,9 +3,10 @@ title: "Section 60111 - Landsat Program Management"
 usc_title: 51
 usc_section: "60111"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 60111"
-generated_at: "2026-03-30T02:56:28.711Z"
+generated_at: "2026-11-23T20:27:37.519Z"
+status: "active"
 ---
 
 # § 60111. Landsat Program Management
@@ -39,3 +40,38 @@ generated_at: "2026-03-30T02:56:28.711Z"
       - **(i)** a response to the public comments received pursuant to paragraph (1);
       - **(ii)** information on the volume of use, by category, of data from the Landsat system; and
       - **(iii)** any recommendations for policy or programmatic changes to improve the utility and operation of the Landsat system.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 60111 | 15 U.S.C. 5611 . | Pub. L. 102–555, title I, § 101 , Oct. 28, 1992 , 106 Stat. 4166 . |
+
+
+Establishment
+
+Management Plan
+
+Responsibilities
+
+Authority To Contract
+
+Landsat Advisory Process.—
+
+Advice and comments
+
+Reports
+
+Historical and Revision Notes
+
+60111
+
+15 U.S.C. 5611
+
+Pub. L. 102–555, title I, § 101
+
+Oct. 28, 1992
+
+106 Stat. 4166
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3411](https://www.govinfo.gov/link/statute/124/3411).)*

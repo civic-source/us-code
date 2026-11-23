@@ -3,9 +3,10 @@ title: "Section 5662 - Compliance provisions"
 usc_title: 7
 usc_section: "5662"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 5662"
-generated_at: "2026-03-30T02:53:42.417Z"
+generated_at: "2026-11-23T20:25:41.654Z"
+status: "active"
 ---
 
 # § 5662. Compliance provisions
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:42.417Z"
   - **(3)** collect liquidated damages from such exporter, assignee, or participant in an amount determined appropriate by the Secretary.
 - **(c)** The Commodity Credit Corporation may suspend or debar for 1 or more years any exporter, assignee, or other participant from participation in one or more of the programs authorized by this chapter if the Corporation determines, after opportunity for a hearing, that such exporter, assignee, or other participant has violated the terms and conditions of the program or of this chapter and that the violation is of such a nature as to warrant suspension or debarment.
 - **(d)** The provisions of section 1001 of title 18 shall apply to any false certifications issued under this chapter.
+
+## Source Credit
+
+*([Pub. L. 95–501, title IV, § 402](https://www.govinfo.gov/link/plaw/95/public/501), as added [Pub. L. 101–624, title XV, § 1531](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3681](https://www.govinfo.gov/link/statute/104/3681); amended [Pub. L. 104–127, title II, § 247](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 969](https://www.govinfo.gov/link/statute/110/969); [Pub. L. 110–246, title III, § 3103(b)(5)](https://www.govinfo.gov/link/plaw/110/public/246), June 18, 2008, [122 Stat. 1833](https://www.govinfo.gov/link/statute/122/1833); [Pub. L. 115–334, title III, § 3201(b)(1)(B)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4616](https://www.govinfo.gov/link/statute/132/4616).)*

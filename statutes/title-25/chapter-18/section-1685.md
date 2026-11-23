@@ -3,9 +3,10 @@ title: "Section 1685 - Service of traditional foods in public facilities"
 usc_title: 25
 usc_section: "1685"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1685"
-generated_at: "2026-03-30T02:54:52.828Z"
+generated_at: "2026-11-23T20:26:25.534Z"
+status: "active"
 ---
 
 # § 1685. Service of traditional foods in public facilities
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:54:52.828Z"
 - **(d)**
   - **(1)** The United States, an Indian tribe, a tribal organization, a State, a county or county equivalent, a local educational agency, and an entity or person authorized to facilitate the donation, storage, preparation, or serving of traditional food by the operator of a food service program shall not be liable in any civil action for any damage, injury, or death caused to any person by the donation to or storage, preparation, or serving of traditional foods through food service programs.
   - **(2)** Nothing in paragraph (1) alters any liability or other obligation of the United States under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 1450 et seq.). 1
+
+## Source Credit
+
+*([Pub. L. 113–79, title IV, § 4033](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 818](https://www.govinfo.gov/link/statute/128/818); [Pub. L. 115–334, title IV, § 4203](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4656](https://www.govinfo.gov/link/statute/132/4656).)*

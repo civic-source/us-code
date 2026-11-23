@@ -3,9 +3,10 @@ title: "Section 1204 - Criminal offenses and penalties"
 usc_title: 17
 usc_section: "1204"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 1204"
-generated_at: "2026-03-30T02:54:15.357Z"
+generated_at: "2026-11-23T20:26:06.546Z"
+status: "active"
 ---
 
 # § 1204. Criminal offenses and penalties
@@ -15,3 +16,13 @@ generated_at: "2026-03-30T02:54:15.357Z"
   - **(2)** shall be fined not more than $1,000,000 or imprisoned for not more than 10 years, or both, for any subsequent offense.
 - **(b)** Subsection (a) shall not apply to a nonprofit library, archives, educational institution, or public broadcasting entity (as defined under section 118(f)).
 - **(c)** No criminal proceeding shall be brought under this section unless such proceeding is commenced within 5 years after the cause of action arose.
+
+In General
+
+Limitation for Nonprofit Library, Archives, Educational Institution, or Public Broadcasting Entity
+
+Statute of Limitations
+
+## Source Credit
+
+*(Added [Pub. L. 105–304, title I, § 103(a)](https://www.govinfo.gov/link/plaw/105/public/304), Oct. 28, 1998, [112 Stat. 2876](https://www.govinfo.gov/link/statute/112/2876); amended [Pub. L. 106–113, div. B, § 1000(a)(9) [title V, § 5004(b)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–593; [Pub. L. 111–295, § 6(f)(3)](https://www.govinfo.gov/link/plaw/111/public/295), Dec. 9, 2010, [124 Stat. 3181](https://www.govinfo.gov/link/statute/124/3181).)*

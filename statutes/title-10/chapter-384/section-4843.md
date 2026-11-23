@@ -3,9 +3,10 @@ title: "Section 4843 - Manufacturing engineering education program"
 usc_title: 10
 usc_section: "4843"
 chapter: 384
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 4843"
-generated_at: "2026-03-30T02:53:38.212Z"
+generated_at: "2026-11-23T20:25:51.979Z"
+status: "active"
 ---
 
 # § 4843. Manufacturing engineering education program
@@ -48,3 +49,21 @@ generated_at: "2026-03-30T02:53:38.212Z"
   - **(8)** Proposes to achieve a significant level of participation by women, members of minority groups, and individuals with disabilities through active recruitment of students from among such persons.
   - **(9)** Trains students in advanced manufacturing and in relevant emerging technologies and production processes.
 - **(h)** In this section, the term “institution of higher education” has the meaning given such term in section 101(a) of the Higher Education Act of 1965 ( 20 U.S.C. 1001(a) ).
+
+Establishment of Manufacturing Engineering Education Program
+
+Covered Programs
+
+Components of Program
+
+Proposals
+
+Merit Competition
+
+Selection Criteria
+
+Institution of Higher Education Defined
+
+## Source Credit
+
+*(Added [Pub. L. 102–190, div. A, title VIII, § 825(a)(1)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1438](https://www.govinfo.gov/link/statute/105/1438), § 2196; amended [Pub. L. 114–328, div. A, title II, § 215](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2048](https://www.govinfo.gov/link/statute/130/2048); renumbered § 4843, [Pub. L. 116–283, div. A, title XVIII, § 1869(d)(1)](https://www.govinfo.gov/link/plaw/116/public/283), as added [Pub. L. 117–81, div. A, title XVII, § 1701(p)(1)(A)](https://www.govinfo.gov/link/plaw/117/public/81), (B), Dec. 27, 2021, [135 Stat. 2148](https://www.govinfo.gov/link/statute/135/2148).)*

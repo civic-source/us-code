@@ -3,9 +3,10 @@ title: "Section 9032 - Loan rates for nonrecourse marketing assistance loans"
 usc_title: 7
 usc_section: "9032"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 9032"
-generated_at: "2026-03-30T02:53:42.484Z"
+generated_at: "2026-11-23T20:25:41.937Z"
+status: "active"
 ---
 
 # § 9032. Loan rates for nonrecourse marketing assistance loans
@@ -109,3 +110,7 @@ generated_at: "2026-03-30T02:53:42.484Z"
 - **(e)**
   - **(1)** For purposes of section 9016 (b)(2) of this title and paragraphs (1)(B)(ii) and (2)(A)(ii)(II) of section 9017(b) of this title , the loan rate for seed cotton shall be deemed to be equal to $0.30 per pound.
   - **(2)** Nothing in this subsection authorizes any nonrecourse marketing assistance loan under this subchapter for seed cotton.
+
+## Source Credit
+
+*([Pub. L. 113–79, title I, § 1202](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 675](https://www.govinfo.gov/link/statute/128/675); [Pub. L. 115–123, div. F, § 60101(a)(9)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 310](https://www.govinfo.gov/link/statute/132/310); [Pub. L. 115–334, title I, § 1202(a)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4509](https://www.govinfo.gov/link/statute/132/4509); [Pub. L. 119–21, title I, § 10309(b)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 93](https://www.govinfo.gov/link/statute/139/93).)*

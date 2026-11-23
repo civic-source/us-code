@@ -3,9 +3,10 @@ title: "Section 1401 - Definitions"
 usc_title: 47
 usc_section: "1401"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 1401"
-generated_at: "2026-03-30T02:56:24.533Z"
+generated_at: "2026-11-23T20:27:28.991Z"
+status: "active"
 ---
 
 # § 1401. Definitions
@@ -66,3 +67,7 @@ In this chapter:
   - **(31)** The term “State” has the meaning given such term in section 153 of this title .
   - **(32)** The term “ultra high frequency” means, with respect to a television channel, that the channel is located in the portion of the electromagnetic spectrum between the frequencies from 470 megahertz to 698 megahertz.
   - **(33)** The term “very high frequency” means, with respect to a television channel, that the channel is located in the portion of the electromagnetic spectrum between the frequencies from 54 megahertz to 72 megahertz, from 76 megahertz to 88 megahertz, or from 174 megahertz to 216 megahertz.
+
+## Source Credit
+
+*([Pub. L. 112–96, title VI, § 6001](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 201](https://www.govinfo.gov/link/statute/126/201).)*

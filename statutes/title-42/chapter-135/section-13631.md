@@ -3,9 +3,10 @@ title: "Section 13631 - Requirement to provide service coordinators"
 usc_title: 42
 usc_section: "13631"
 chapter: 135
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13631"
-generated_at: "2026-03-30T02:56:11.449Z"
+generated_at: "2026-11-23T20:27:23.513Z"
+status: "active"
 ---
 
 # § 13631. Requirement to provide service coordinators
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:11.449Z"
       - **(vi)** their consumer protection rights under Federal law;
     - **(B)** provides such other information as the Secretary considers necessary to protect such residents against fraudulent telemarketing; and
     - **(C)** disseminates the information provided by appropriate means, and in determining such appropriate means, the Secretary shall consider on-site presentations at federally assisted housing, public service announcements, a printed manual or pamphlet, an Internet website, and telephone outreach to residents whose names appear on “mooch lists” confiscated from fraudulent telemarketers.
+
+## Source Credit
+
+*([Pub. L. 102–550, title VI, § 671](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3826](https://www.govinfo.gov/link/statute/106/3826); [Pub. L. 106–569, title VIII, § 851(b)](https://www.govinfo.gov/link/plaw/106/public/569), (c)(2), Dec. 27, 2000, [114 Stat. 3024](https://www.govinfo.gov/link/statute/114/3024).)*

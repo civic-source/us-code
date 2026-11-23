@@ -3,9 +3,10 @@ title: "Section 2606 - Scouting: cooperation and assistance in foreign areas"
 usc_title: 10
 usc_section: "2606"
 chapter: 155
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2606"
-generated_at: "2026-03-30T02:53:38.166Z"
+generated_at: "2026-11-23T20:25:51.621Z"
+status: "active"
 ---
 
 # § 2606. Scouting: cooperation and assistance in foreign areas
@@ -19,3 +20,9 @@ generated_at: "2026-03-30T02:53:38.166Z"
 - **(e)** The Secretary concerned may reimburse a qualified scouting organization for all or part of the pay of an employee of that organization for any period during which the employee was performing services under subsection (a). Any such reimbursement may not be made from appropriated funds and shall be made under regulations prescribed under subsection (b).
 - **(f)** For the purposes of this section, employees of a qualified scouting organization performing services under subsection (a) may not be considered to be employees of the United States.
 - **(g)** In this section, the term “qualified scouting organization” means the Girl Scouts of the United States of America and the Boy Scouts of America.
+
+George Bush.
+
+## Source Credit
+
+*(Added [Pub. L. 100–456, div. A, title III, § 323(a)](https://www.govinfo.gov/link/plaw/100/public/456), Sept. 29, 1988, [102 Stat. 1953](https://www.govinfo.gov/link/statute/102/1953).)*

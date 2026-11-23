@@ -3,9 +3,10 @@ title: "Section 2012 - Support and services for eligible organizations and activ
 usc_title: 10
 usc_section: "2012"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2012"
-generated_at: "2026-03-30T02:53:38.139Z"
+generated_at: "2026-11-23T20:25:51.438Z"
+status: "active"
 ---
 
 # § 2012. Support and services for eligible organizations and activities outside Department of Defense
@@ -58,3 +59,27 @@ generated_at: "2026-03-30T02:53:38.139Z"
   - **(3)** Require that each application for a project to be conducted in accordance with this section include an analysis and certification that the proposed project would not result in a significant increase in the cost of training (as determined in accordance with procedures prescribed by the Secretary of Defense).
   - **(4)** Determine the total program cost for each project, including both those costs that are borne by the military departments from their own accounts and those costs that are borne by defense-wide accounts.
   - **(5)** Provide for oversight of project execution to ensure that a training project under this section is carried out in accordance with the proposal for that project as approved.
+
+Authority To Provide Services and Support
+
+Scope of Covered Activities Subject to Section
+
+Requirement for Specific Request
+
+Relationship to Military Training
+
+Eligible Entities
+
+Regulations
+
+Treatment of Member’s Participation in Provision of Support or Services
+
+Advisory Councils
+
+Construction of Provision
+
+Oversight and Cost Accounting
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. A, title V, § 572(a)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 353](https://www.govinfo.gov/link/statute/110/353); amended [Pub. L. 105–85, div. A, title V, § 594](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1764](https://www.govinfo.gov/link/statute/111/1764); [Pub. L. 105–261, div. A, title V, § 525(a)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2014](https://www.govinfo.gov/link/statute/112/2014); [Pub. L. 117–81, div. A, title XV, § 1512](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2039](https://www.govinfo.gov/link/statute/135/2039); [Pub. L. 117–286, § 4(a)(51)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4311](https://www.govinfo.gov/link/statute/136/4311); [Pub. L. 118–31, div. A, title III, § 341](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 223](https://www.govinfo.gov/link/statute/137/223); [Pub. L. 119–60, div. A, title III, § 332](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 816](https://www.govinfo.gov/link/statute/139/816).)*

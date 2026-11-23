@@ -3,9 +3,10 @@ title: "Section 6744 - Confidentiality of information"
 usc_title: 22
 usc_section: "6744"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6744"
-generated_at: "2026-03-30T02:55:05.433Z"
+generated_at: "2026-11-23T20:26:32.632Z"
+status: "active"
 ---
 
 # § 6744. Confidentiality of information
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:05.433Z"
 - **(d)** Any officer or employee of the United States, and any former officer or employee of the United States, who by reason of such employment or official position has obtained possession of, or has access to, information the disclosure or other provision of which is prohibited by subsection (a), and who, knowing that disclosure or provision of such information is prohibited by such subsection, willfully discloses or otherwise provides the information in any manner to any person (including any person located outside the territory of the United States) not authorized to receive it, shall be fined under title 18 or imprisoned for not more than five years, or both.
 - **(e)** The property of any person who violates subsection (d) shall be subject to forfeiture to the United States in the same manner and to the same extent as is provided in section 229C 1 1 So in original. Probably should be section “229B”. of title 18.
 - **(f)** The provisions of this section shall also apply to employees of the Technical Secretariat.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. I, title IV, § 404](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–882](https://www.govinfo.gov/link/statute/112/2681).)*

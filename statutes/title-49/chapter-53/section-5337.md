@@ -3,9 +3,10 @@ title: "Section 5337 - State of good repair grants"
 usc_title: 49
 usc_section: "5337"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 5337"
-generated_at: "2026-03-30T02:56:19.317Z"
+generated_at: "2026-11-23T20:27:34.675Z"
+status: "active"
 ---
 
 # § 5337. State of good repair grants
@@ -89,3 +90,163 @@ generated_at: "2026-03-30T02:56:19.317Z"
       - **(i)** shall obligate an amount of available budget authority specified in law; and
       - **(ii)** may include a commitment, contingent on amounts to be specified in law in advance for commitments under this paragraph, to obligate an additional amount from future available budget authority specified in law.
     - **(D)** A multi-year agreement under this paragraph shall state that the contingent commitment is not an obligation of the Federal Government.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5337(a) | 49 App.:1602(h) (1)–(4). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 3(h)(1)–(6); added Aug. 22, 1974 , Pub. L. 93–503, § 110 , 88 Stat. 1573 ; Nov. 6, 1978 , Pub. L. 95–599, § 302(d) , 92 Stat. 2737 ; restated Dec. 18, 1991 , Pub. L. 102–240, § 3008 , 105 Stat. 2091 . |
+| 5337(b) | 49 App.:1602(h)(5). |  |
+| 5337(c) | 49 App.:1602(h)(6). |  |
+| 5337(d) | 49 App.:1602(h)(7). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , §3(h)(7); added Oct. 6, 1992 , Pub. L. 102–388, § 502(c) , 106 Stat. 1566 . |
+
+
+Definitions
+
+Fixed guideway
+
+State
+
+State of good repair
+
+Transit asset management plan
+
+General Authority.—
+
+Eligible projects
+
+Inclusion in plan
+
+High Intensity Fixed Guideway State of Good Repair Formula.—
+
+In general
+
+Area share.—
+
+In general
+
+Share
+
+Recipient
+
+Vehicle revenue miles and directional route miles.—
+
+In general
+
+Vehicle revenue miles
+
+Directional route miles
+
+Limitation.—
+
+In general
+
+Special rule for fiscal year 2013
+
+Use of funds
+
+Receiving apportionment.—
+
+In general
+
+Exception
+
+Apportionment requirements
+
+High Intensity Motorbus State of Good Repair.—
+
+Definition
+
+Apportionment
+
+Vehicle revenue miles and directional route miles.—
+
+In general
+
+Vehicle revenue miles
+
+Directional route miles
+
+Apportionment requirements
+
+Use of funds
+
+Government Share of Costs.—
+
+Capital projects
+
+Remaining costs
+
+Competitive Grants for Rail Vehicle Replacement.—
+
+In general
+
+Grant requirements
+
+Competitive process
+
+Consideration
+
+Maximum share of competitive grant assistance
+
+Government share of cost
+
+Multi-year grant agreements.—
+
+In general
+
+Requirements
+
+Financial rules
+
+Statement of contingent commitment
+
+Historical and Revision Notes
+
+Pub
+
+5337(a)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Aug. 22, 1974
+
+Pub. L. 93–503, § 110
+
+88 Stat. 1573
+
+Nov. 6, 1978
+
+Pub. L. 95–599, § 302(d)
+
+92 Stat. 2737
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3008
+
+105 Stat. 2091
+
+5337(b)
+
+5337(c)
+
+5337(d)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Oct. 6, 1992
+
+Pub. L. 102–388, § 502(c)
+
+106 Stat. 1566
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 844](https://www.govinfo.gov/link/statute/108/844); [Pub. L. 103–429, § 6(14)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4379](https://www.govinfo.gov/link/statute/108/4379); [Pub. L. 102–240, title III, § 3049(b)](https://www.govinfo.gov/link/plaw/102/public/240), as added [Pub. L. 105–130, § 8](https://www.govinfo.gov/link/plaw/105/public/130), Dec. 1, 1997, [111 Stat. 2559](https://www.govinfo.gov/link/statute/111/2559); [Pub. L. 105–178, title III](https://www.govinfo.gov/link/plaw/105/public/178), §§ 3028, 3029(b)(12), June 9, 1998, [112 Stat. 366](https://www.govinfo.gov/link/statute/112/366), 373; [Pub. L. 105–206, title IX, § 9009(p)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 858](https://www.govinfo.gov/link/statute/112/858); [Pub. L. 108–88, § 8(b)(2)](https://www.govinfo.gov/link/plaw/108/public/88), Sept. 30, 2003, [117 Stat. 1121](https://www.govinfo.gov/link/statute/117/1121); [Pub. L. 109–59, title III, § 3035(a)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1629](https://www.govinfo.gov/link/statute/119/1629); [Pub. L. 110–244, title II, § 201(m)](https://www.govinfo.gov/link/plaw/110/public/244), June 6, 2008, [122 Stat. 1611](https://www.govinfo.gov/link/statute/122/1611); [Pub. L. 111–147, title IV, § 435](https://www.govinfo.gov/link/plaw/111/public/147), Mar. 18, 2010, [124 Stat. 89](https://www.govinfo.gov/link/statute/124/89); [Pub. L. 111–322, title II, § 2305](https://www.govinfo.gov/link/plaw/111/public/322), Dec. 22, 2010, [124 Stat. 3528](https://www.govinfo.gov/link/statute/124/3528); [Pub. L. 112–5, title III, § 305](https://www.govinfo.gov/link/plaw/112/public/5), Mar. 4, 2011, [125 Stat. 19](https://www.govinfo.gov/link/statute/125/19); [Pub. L. 112–30, title I, § 135](https://www.govinfo.gov/link/plaw/112/public/30), Sept. 16, 2011, [125 Stat. 352](https://www.govinfo.gov/link/statute/125/352); [Pub. L. 112–102, title III, § 305](https://www.govinfo.gov/link/plaw/112/public/102), Mar. 30, 2012, [126 Stat. 277](https://www.govinfo.gov/link/statute/126/277); [Pub. L. 112–140, title III, § 305](https://www.govinfo.gov/link/plaw/112/public/140), June 29, 2012, [126 Stat. 398](https://www.govinfo.gov/link/statute/126/398); [Pub. L. 112–141, div. B, § 20027](https://www.govinfo.gov/link/plaw/112/public/141), div. G, title III, § 113005, July 6, 2012, [126 Stat. 723](https://www.govinfo.gov/link/statute/126/723), 985; [Pub. L. 114–94, div. A, title III, § 3015](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1478](https://www.govinfo.gov/link/statute/129/1478); [Pub. L. 117–58, div. C, § 30016](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 911](https://www.govinfo.gov/link/statute/135/911).)*

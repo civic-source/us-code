@@ -3,9 +3,10 @@ title: "Section 228 - Authority of Secretary"
 usc_title: 7
 usc_section: "228"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 228"
-generated_at: "2026-03-30T02:53:42.278Z"
+generated_at: "2026-11-23T20:25:41.004Z"
+status: "active"
 ---
 
 # § 228. Authority of Secretary
@@ -20,3 +21,9 @@ generated_at: "2026-03-30T02:53:42.278Z"
 - **(e)** For the purposes of subsection (d)—
   - **(1)** the term “unit of local government” means a county, municipality, town, township, village, or other unit of general government below the State level; and
   - **(2)** the term “geographic area within a State” means a special purpose district or other region recognized for governmental purposes within such State which is not a unit of local government.
+
+“As soon as practicable, but not later than 2 years after the date of the enactment of this Act [ June 18, 2008 ], the Secretary of Agriculture shall promulgate regulations with respect to the Packers and Stockyards Act, 1921 ( 7 U.S.C. 181 et seq.) to establish criteria that the Secretary will consider in determining—
+
+## Source Credit
+
+*(Aug. 15, 1921, ch. 64, title IV, § 407, [42 Stat. 169](https://www.govinfo.gov/link/statute/42/169); [Pub. L. 85–909, § 4](https://www.govinfo.gov/link/plaw/85/public/909), Sept. 2, 1958, [72 Stat. 1750](https://www.govinfo.gov/link/statute/72/1750); [Pub. L. 88–61](https://www.govinfo.gov/link/plaw/88/public/61), July 8, 1963, [77 Stat. 79](https://www.govinfo.gov/link/statute/77/79); [Pub. L. 94–410, § 11](https://www.govinfo.gov/link/plaw/94/public/410), Sept. 13, 1976, [90 Stat. 1252](https://www.govinfo.gov/link/statute/90/1252); [Pub. L. 103–354, title II, § 293(b)](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3237](https://www.govinfo.gov/link/statute/108/3237); [Pub. L. 103–437, § 4(a)(2)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4581](https://www.govinfo.gov/link/statute/108/4581).)*

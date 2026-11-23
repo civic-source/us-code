@@ -3,9 +3,10 @@ title: "Section 6306 - Authority to vest title in tangible personal property for
 usc_title: 31
 usc_section: "6306"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 6306"
-generated_at: "2026-03-30T02:55:34.072Z"
+generated_at: "2026-11-23T20:26:51.905Z"
+status: "active"
 ---
 
 # § 6306. Authority to vest title in tangible personal property for research
@@ -16,3 +17,22 @@ The head of an executive agency may vest title in tangible personal property in 
   - **(2)** when the head of the agency decides the vesting furthers the objectives of the agency;
   - **(3)** without further obligation to the United States Government; and
   - **(4)** under conditions the head of the agency considers appropriate.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 6306 | 41:506. | Feb. 3, 1978 , Pub. L. 95–224, § 7 , 92 Stat. 5 . |
+
+
+Historical and Revision Notes
+
+6306
+
+Feb. 3, 1978
+
+Pub. L. 95–224, § 7
+
+92 Stat. 5
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 1004](https://www.govinfo.gov/link/statute/96/1004).)*

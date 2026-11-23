@@ -3,9 +3,10 @@ title: "Section 860F - Other rules"
 usc_title: 26
 usc_section: "860F"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 860F"
-generated_at: "2026-03-30T02:55:27.737Z"
+generated_at: "2026-11-23T20:26:45.920Z"
+status: "active"
 ---
 
 # § 860F. Other rules
@@ -53,3 +54,7 @@ generated_at: "2026-03-30T02:55:27.737Z"
     - **(A)** except as provided in regulations, any residual interest in any REMIC and any interest in a taxable mortgage pool (as defined in section 7701(i)) comparable to a residual interest in a REMIC shall be treated as substantially identical stock or securities, and
     - **(B)** subsections (a) and (e) of such section shall be applied by substituting “6 months” for “30 days” each place it appears.
 - **(e)** For purposes of subtitle F, a REMIC shall be treated as a partnership (and holders of residual interests in such REMIC shall be treated as partners). Any return required by reason of the preceding sentence shall include the amount of the daily accruals determined under section 860E(c). Such return shall be filed by the REMIC. The determination of who may sign such return shall be made without regard to the first sentence of this subsection.
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title VI, § 671(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2313](https://www.govinfo.gov/link/statute/100/2313); amended [Pub. L. 100–647, title I, § 1006(t)(3)](https://www.govinfo.gov/link/plaw/100/public/647), (4), (14), (18)(A), (22)(B)–(E), Nov. 10, 1988, [102 Stat. 3419](https://www.govinfo.gov/link/statute/102/3419), 3420, 3423, 3426; [Pub. L. 104–188, title I, § 1704(t)(74)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1891](https://www.govinfo.gov/link/statute/110/1891).)*

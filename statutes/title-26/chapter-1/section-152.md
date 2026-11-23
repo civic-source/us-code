@@ -3,9 +3,10 @@ title: "Section 152 - Dependent defined"
 usc_title: 26
 usc_section: "152"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 152"
-generated_at: "2026-03-30T02:55:27.636Z"
+generated_at: "2026-11-23T20:26:45.413Z"
+status: "active"
 ---
 
 # § 152. Dependent defined
@@ -131,3 +132,7 @@ generated_at: "2026-03-30T02:55:27.636Z"
       - **(ii)** who was (without regard to this paragraph) a qualifying relative of the taxpayer for the portion of the taxable year before the date of the kidnapping,
     - **(D)** Subparagraphs (A) and (C) shall cease to apply as of the first taxable year of the taxpayer beginning after the calendar year in which there is a determination that the child is dead (or, if earlier, in which the child would have attained age 18).
   - **(7)** For provision treating child as dependent of both parents for purposes of certain provisions, see sections 105(b), 132(h)(2)(B), and 213(d)(5).
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 43; Aug. 9, 1955, ch. 693, § 2, [69 Stat. 626](https://www.govinfo.gov/link/statute/69/626); [Pub. L. 85–866, title I, § 4(a)](https://www.govinfo.gov/link/plaw/85/public/866) –(c), Sept. 2, 1958, [72 Stat. 1607](https://www.govinfo.gov/link/statute/72/1607); [Pub. L. 86–376, § 1(a)](https://www.govinfo.gov/link/plaw/86/public/376), Sept. 23, 1959, [73 Stat. 699](https://www.govinfo.gov/link/statute/73/699); [Pub. L. 90–78, § 1](https://www.govinfo.gov/link/plaw/90/public/78), Aug. 31, 1967, [81 Stat. 191](https://www.govinfo.gov/link/statute/81/191); [Pub. L. 91–172, title IX, § 912(a)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 722](https://www.govinfo.gov/link/statute/83/722); [Pub. L. 92–580, § 1(a)](https://www.govinfo.gov/link/plaw/92/public/580), Oct. 27, 1972, [86 Stat. 1276](https://www.govinfo.gov/link/statute/86/1276); [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1901(a)(24), (b)(7)(B), (8)(A), 1906(b)(13)(A), title XXI, § 2139(a), Oct. 4, 1976, [90 Stat. 1767](https://www.govinfo.gov/link/statute/90/1767), 1794, 1834, 1932; [Pub. L. 98–369, div. A, title IV](https://www.govinfo.gov/link/plaw/98/public/369), §§ 423(a), 482(b)(2), July 18, 1984, [98 Stat. 799](https://www.govinfo.gov/link/statute/98/799), 848; [Pub. L. 99–514, title I, § 104(b)(1)(B)](https://www.govinfo.gov/link/plaw/99/public/514), (3), title XIII, § 1301(j)(8), Oct. 22, 1986, [100 Stat. 2104](https://www.govinfo.gov/link/statute/100/2104), 2105, 2658; [Pub. L. 108–311, title II, § 201](https://www.govinfo.gov/link/plaw/108/public/311), Oct. 4, 2004, [118 Stat. 1169](https://www.govinfo.gov/link/statute/118/1169); [Pub. L. 109–135, title IV, § 404(a)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2632](https://www.govinfo.gov/link/statute/119/2632); [Pub. L. 110–351, title V, § 501(a)](https://www.govinfo.gov/link/plaw/110/public/351), (b), (c)(2), Oct. 7, 2008, [122 Stat. 3979](https://www.govinfo.gov/link/statute/122/3979), 3980; [Pub. L. 115–97, title I, § 11051(b)(3)(B)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2089](https://www.govinfo.gov/link/statute/131/2089).)*

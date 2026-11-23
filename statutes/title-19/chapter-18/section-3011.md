@@ -3,9 +3,10 @@ title: "Section 3011 - Transition to Harmonized Tariff Schedule"
 usc_title: 19
 usc_section: "3011"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3011"
-generated_at: "2026-03-30T02:54:24.687Z"
+generated_at: "2026-11-23T20:26:11.030Z"
+status: "active"
 ---
 
 # § 3011. Transition to Harmonized Tariff Schedule
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:54:24.687Z"
     - **(A)** entries made on or after the date of such proclamation; and
     - **(B)** entries made on or after January 1, 1989 , if, notwithstanding section 1514 of this title , application for liquidation or reliquidation thereof is made by the importer to the customs officer concerned within 180 days after the effective date of such proclamation.
   - **(4)** If any protest or petition referred to in paragraph (1)(A) is not sustained in whole or in part by a final judicial decision, the entries subject to that petition or protest and made before January 1, 1989 , shall be liquidated or reliquidated, as appropriate, in accordance with the final judicial decision under the old Schedules.
+
+## Source Credit
+
+*([Pub. L. 100–418, title I, § 1211](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1153](https://www.govinfo.gov/link/statute/102/1153); [Pub. L. 104–188, title I, § 1954(a)(1)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1927](https://www.govinfo.gov/link/statute/110/1927).)*

@@ -3,9 +3,10 @@ title: "Section 1281 - Designation procedures"
 usc_title: 30
 usc_section: "1281"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1281"
-generated_at: "2026-03-30T02:55:29.402Z"
+generated_at: "2026-11-23T20:26:35.031Z"
+status: "active"
 ---
 
 # § 1281. Designation procedures
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:29.402Z"
 - **(e)** Prior to any designation pursuant to this section, the Secretary shall prepare a detailed statement on (i) the potential mineral resources of the area, (ii) the demand for such mineral resources, and (iii) the impact of such designation or the absence of such designation on the environment, economy, and the supply of such mineral resources.
 - **(f)** When the Secretary designates an area of Federal lands as unsuitable for all or certain types of mining operations for minerals and materials other than coal pursuant to this section he may withdraw such area from mineral entry or leasing, or condition such entry or leasing so as to limit such mining operations in accordance with his determination, if the Secretary also determines, based on his analysis pursuant to subsection (e), that the benefits resulting from such designation would be greater than the benefits to the regional or national economy which could result from mineral development of such area.
 - **(g)** Any party with a valid legal interest who has appeared in the proceedings in connection with the Secretary’s determination pursuant to this section and who is aggrieved by the Secretary’s decision (or by his failure to act within a reasonable time) shall have the right of appeal for review by the United States district court for the district in which the pertinent area is located.
+
+## Source Credit
+
+*([Pub. L. 95–87, title VI, § 601](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 515](https://www.govinfo.gov/link/statute/91/515).)*

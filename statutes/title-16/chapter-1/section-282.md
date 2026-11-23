@@ -3,12 +3,17 @@ title: "Section 282 - Acquisition of property; purpose; authority of Secretary; 
 usc_title: 16
 usc_section: "282"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 282"
-generated_at: "2026-03-30T02:54:22.747Z"
+generated_at: "2026-11-23T20:26:19.402Z"
+status: "active"
 ---
 
 # § 282. Acquisition of property; purpose; authority of Secretary; manner and place; donation of State lands
 
 The Secretary of the Interior is authorized to acquire on behalf of the United States by donation, purchase with donated or appropriated funds, or by exchange, lands, interests in lands, and such other property on San Juan Island, Puget Sound, State of Washington, as the Secretary may deem necessary for the purpose of interpreting and preserving the sites of the American and English camps on the island, and of commemorating the historic events that occurred from 1853 to 1871 on the island in connection with the final settlement of the Oregon Territory boundary dispute, including the so-called Pig War of 1859. Lands or interests therein owned by the State of Washington or a political subdivision thereof may be acquired only by donation.
 
+
+## Source Credit
+
+*([Pub. L. 89–565, § 1](https://www.govinfo.gov/link/plaw/89/public/565), Sept. 9, 1966, [80 Stat. 737](https://www.govinfo.gov/link/statute/80/737).)*

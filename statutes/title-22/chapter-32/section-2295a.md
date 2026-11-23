@@ -3,9 +3,10 @@ title: "Section 2295a - Criteria for assistance to governments of the independen
 usc_title: 22
 usc_section: "2295a"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2295a"
-generated_at: "2026-03-30T02:55:05.355Z"
+generated_at: "2026-11-23T20:26:32.222Z"
+status: "active"
 ---
 
 # § 2295a. Criteria for assistance to governments of the independent states
@@ -55,3 +56,17 @@ generated_at: "2026-03-30T02:55:05.355Z"
     - **(E)** the development of a free market economic system;
     - **(F)** assistance under the secondary school exchange program administered by the United States Information Agency; or
     - **(G)** assistance for the purposes described in the Cooperative Threat Reduction Act of 1993 (title XII of Public Law 103–160 ) [ 22 U.S.C. 5951 et seq.].
+
+Prohibition
+
+Exception for Humanitarian Assistance
+
+Waiver Authority
+
+Report
+
+United States Person
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 498A, as added [Pub. L. 102–511, title II, § 201](https://www.govinfo.gov/link/plaw/102/public/511), Oct. 24, 1992, [106 Stat. 3326](https://www.govinfo.gov/link/statute/106/3326); amended [Pub. L. 103–236, title VIII, § 826(c)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 519](https://www.govinfo.gov/link/statute/108/519); [Pub. L. 104–114, title I, § 106(b)](https://www.govinfo.gov/link/plaw/104/public/114), (c)(1), (3), (d)(2), Mar. 12, 1996, [110 Stat. 795–797](https://www.govinfo.gov/link/statute/110/795).)*

@@ -3,9 +3,10 @@ title: "Section 551 - Definitions"
 usc_title: 5
 usc_section: "551"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 551"
-generated_at: "2026-03-30T02:52:55.985Z"
+generated_at: "2026-11-23T20:25:31.706Z"
+status: "active"
 ---
 
 # § 551. Definitions
@@ -44,3 +45,86 @@ For the purpose of this subchapter—
   - **(12)** “agency proceeding” means an agency process as defined by paragraphs (5), (7), and (9) of this section;
   - **(13)** “agency action” includes the whole or a part of an agency rule, order, license, sanction, relief, or the equivalent or denial thereof, or failure to act; and
   - **(14)** “ex parte communication” means an oral or written communication not on the public record with respect to which reasonable prior notice to all parties is not given, but it shall not include requests for status reports on any matter or proceeding covered by this subchapter.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| (1) | 5 U.S.C. 1001(a) . | June 11, 1946, ch. 324, § 2(a) , 60 Stat. 237 . |
+|  |  | Aug. 8, 1946, ch. 870, § 302 , 60 Stat. 918 . |
+|  |  | Aug. 10, 1946, ch. 951, § 601 , 60 Stat. 993 . |
+|  |  | Mar. 31, 1947, ch. 30, § 6(a) , 61 Stat. 37 . |
+|  |  | June 30, 1947, ch. 163, § 210 , 61 Stat. 201 . |
+|  |  | Mar. 30, 1948, ch. 161, § 301 , 62 Stat. 99 . |
+| (2)–(13) | 5 U.S.C. 1001 (less (a)). | June 11, 1946, ch. 324, § 2 (less (a)), 60 Stat. 237 . |
+
+
+Historical and Revision Notes
+
+(1)
+
+5 U.S.C. 1001(a)
+
+June 11, 1946, ch. 324, § 2(a)
+
+60 Stat. 237
+
+Aug. 8, 1946, ch. 870, § 302
+
+60 Stat. 918
+
+Aug. 10, 1946, ch. 951, § 601
+
+60 Stat. 993
+
+Mar. 31, 1947, ch. 30, § 6(a)
+
+61 Stat. 37
+
+June 30, 1947, ch. 163, § 210
+
+61 Stat. 201
+
+Mar. 30, 1948, ch. 161, § 301
+
+62 Stat. 99
+
+(2)–(13)
+
+5 U.S.C. 1001
+
+June 11, 1946, ch. 324, § 2
+
+60 Stat. 237
+
+Discretionary Administrative Actions.—
+
+In general
+
+Increasing direct spending.—
+
+In general
+
+Review.—
+
+In general
+
+No offset
+
+Nondiscretionary Actions
+
+Projections
+
+In General
+
+Publication
+
+Study on Use of Administrative Subpoenas
+
+Report on Frequency of Use of Administrative Subpoenas.—
+
+In general
+
+Expiration
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 381](https://www.govinfo.gov/link/statute/80/381); [Pub. L. 94–409, § 4(b)](https://www.govinfo.gov/link/plaw/94/public/409), Sept. 13, 1976, [90 Stat. 1247](https://www.govinfo.gov/link/statute/90/1247); [Pub. L. 103–272, § 5(a)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1373](https://www.govinfo.gov/link/statute/108/1373); [Pub. L. 111–350, § 5(a)(2)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3841](https://www.govinfo.gov/link/statute/124/3841).)*

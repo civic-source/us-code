@@ -3,9 +3,10 @@ title: "Section 19302 - Clean Energy Technology University Prize competition"
 usc_title: 42
 usc_section: "19302"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 19302"
-generated_at: "2026-03-30T02:56:11.546Z"
+generated_at: "2026-11-23T20:27:23.874Z"
+status: "active"
 ---
 
 # § 19302. Clean Energy Technology University Prize competition
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.546Z"
 - **(f)** In accordance with section 16391a of this title , the Secretary shall report annually on the progress and implementation of the program established under section (b).
 - **(g)** In accordance with section 16391a of this title , the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate an evaluation on the long-term outcomes of the program established under this section and the progress towards achieving the purposes of the program in subsection (b).
 - **(h)** There are authorized to be appropriated to the Secretary to carry out the activities authorized in this section $1,000,000 for each of fiscal years 2023 through 2027.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title VI, § 10714](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1703](https://www.govinfo.gov/link/statute/136/1703).)*

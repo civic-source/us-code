@@ -3,9 +3,10 @@ title: "Section 5104 - Authority of Speaker and Minority Leader to allocate fund
 usc_title: 2
 usc_section: "5104"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 5104"
-generated_at: "2026-03-30T02:53:04.835Z"
+generated_at: "2026-11-23T20:25:29.054Z"
+status: "active"
 ---
 
 # § 5104. Authority of Speaker and Minority Leader to allocate funds among certain House leadership offices
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:04.835Z"
     - **(E)** Cloakroom personnel—minority (as so described).
     - **(F)** Nine minority employees (as so described).
 - **(c)** This section shall apply with respect to any months occurring during the One Hundred Twelfth Congress that begin after December 23, 2011 , and to any succeeding Congress.
+
+## Source Credit
+
+*([Pub. L. 112–74, div. G, title I, § 103](https://www.govinfo.gov/link/plaw/112/public/74), Dec. 23, 2011, [125 Stat. 1121](https://www.govinfo.gov/link/statute/125/1121).)*

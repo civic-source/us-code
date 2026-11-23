@@ -3,9 +3,10 @@ title: "Section 839b - Regional planning and participation"
 usc_title: 16
 usc_section: "839b"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 839b"
-generated_at: "2026-03-30T02:54:22.930Z"
+generated_at: "2026-11-23T20:26:20.325Z"
+status: "active"
 ---
 
 # § 839b. Regional planning and participation
@@ -41,7 +42,7 @@ generated_at: "2026-03-30T02:54:22.930Z"
   - **(9)** The Administrator and other Federal agencies, to the extent authorized by other provisions of law, shall furnish the Council all information requested by the Council as necessary for performance of its functions, subject to such requirements of law concerning trade secrets and proprietary data as may be applicable.
   - **(10)**
     - **(A)** At the request of the Council, the Administrator shall pay from funds available to the Administrator the compensation and other expenses of the Council as are authorized by this chapter, including the reimbursement of those States with members on the Council for services and personnel to assist in preparing a plan pursuant to subsection (d) and a program pursuant to subsection (h) of this section, as the Council determines are necessary or appropriate for the performance of its functions and responsibilities. Such payments shall be included by the Administrator in his annual budgets submitted to Congress pursuant to the Federal Columbia River Transmission System Act [ 16 U.S.C. 838 et seq.] and shall be subject to the requirements of that Act, including the audit requirements of section 11(d) of such Act [ 16 U.S.C. 838i(d) ]. The records, reports, and other documents of the Council shall be available to the Comptroller General for review in connection with such audit or other review and examination by the Comptroller General pursuant to other provisions of law applicable to the Comptroller General. Funds provided by the Administrator for such payments shall not exceed annually an amount equal to 0.02 mill multiplied by the kilowatt hours of firm power forecast to be sold by the Administrator during the year to be funded. In order to assist the Council’s initial organization, the Administrator after December 5, 1980 , shall promptly prepare and propose an amended annual budget to expedite payment for Council activities.
-    - **(B)** Notwithstanding the limitation contained in the fourth sentence of subparagraph (A) of this paragraph, upon an annual showing by the Council that such limitation will not permit the Council to carry out its functions and responsibilities under this chapter the Administrator may raise such limit up to any amount not in excess of 0.10 mill multiplied by the kilowatt hours of firm power forecast to be sold by the Administrator during the year to be funded.
+    - **(B)** Notwithstanding the limitation contained in the fourth sentence of subparagraph (A) of this paragraph, upon an annual showing by the Council that such limitation will not permit the Council to carry out its functions and responsibilities under this chapter the Administrator may raise such limit up to any amount not in excess of 0.10 mill multiplied by the kilowatt hours of firm power forecast to be sold by the Administrator during the year to be funded, adjusted for inflation.
   - **(11)** The Council shall establish a voluntary scientific and statistical advisory committee to assist in the development, collection, and evaluation of such statistical, biological, economic, social, environmental, and other scientific information as is relevant to the Council’s devel­opment and amendment of a regional conservation and electric power plan.
   - **(12)** The Council may establish such other voluntary advisory committees as it determines are necessary or appropriate to assist it in carrying out its functions and responsibilities under this chapter.
   - **(13)** The Council shall ensure that the membership for any advisory committee established or formed pursuant to this section shall, to the extent feasible, include representatives of, and seek the advice of, the Federal, and the various regional, State, local, and Indian Tribal Governments, consumer groups, and customers.
@@ -137,3 +138,25 @@ generated_at: "2026-03-30T02:54:22.930Z"
     - **(B)** have not been or are likely not to be generally equitable to all consumers in the region; or
     - **(C)** have impaired or are likely to impair the ability of the Administrator to carry out his obligations under this chapter and other laws, consistent with sound business practices.
   - **(2)** The Administrator may determine that section 839a(4)(D) of this title shall not apply to any proposed conservation measure or resource if the Administrator finds after receipt of such analysis from the Council that such measure or resource would have any result or effect described in subparagraph (A), (B) or (C) of paragraph (1).
+
+Independent Scientific Review Panel
+
+Scientific Peer Review Groups
+
+Conflict of Interest and Compensation
+
+Project Criteria and Review
+
+Public Review
+
+Responsibilities of the Council
+
+Cost limitation
+
+Cost Limitation
+
+Expiration
+
+## Source Credit
+
+*([Pub. L. 96–501, § 4](https://www.govinfo.gov/link/plaw/96/public/501), Dec. 5, 1980, [94 Stat. 2700](https://www.govinfo.gov/link/statute/94/2700); [Pub. L. 103–437, § 6(u)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4587](https://www.govinfo.gov/link/statute/108/4587); [Pub. L. 104–206, title V, § 512](https://www.govinfo.gov/link/plaw/104/public/206), Sept. 30, 1996, [110 Stat. 3005](https://www.govinfo.gov/link/statute/110/3005); [Pub. L. 106–60, title VI, § 610](https://www.govinfo.gov/link/plaw/106/public/60), Sept. 29, 1999, [113 Stat. 502](https://www.govinfo.gov/link/statute/113/502); [Pub. L. 112–74, div. B, title III, § 307](https://www.govinfo.gov/link/plaw/112/public/74), Dec. 23, 2011, [125 Stat. 877](https://www.govinfo.gov/link/statute/125/877); [Pub. L. 117–286, § 4(a)(104)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4317](https://www.govinfo.gov/link/statute/136/4317); [Pub. L. 119–74, div. B, title III, § 312](https://www.govinfo.gov/link/plaw/119/public/74), Jan. 23, 2026, [140 Stat. 89](https://www.govinfo.gov/link/statute/140/89).)*

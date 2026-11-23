@@ -3,9 +3,10 @@ title: "Section 613 - Procedure for determining title uncertainties"
 usc_title: 30
 usc_section: "613"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 613"
-generated_at: "2026-03-30T02:55:29.386Z"
+generated_at: "2026-11-23T20:26:34.944Z"
+status: "active"
 ---
 
 # § 613. Procedure for determining title uncertainties
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:55:29.386Z"
 - **(e)** Failure to deliver or mail copy of notice If any department or agency requesting publication shall fail to comply with the requirements of subsection
 - **(a)** of this section as to the personal delivery or mailing of a copy of notice to any person, the publication of such notice shall be deemed wholly ineffectual as to that person or as to the rights asserted by that person and the failure of that person to file a verified statement, as provided in such notice, shall in no manner affect, diminish, prejudice or bar any rights of that person.
 
+
+## Source Credit
+
+*(July 23, 1955, ch. 375, § 5, [69 Stat. 369](https://www.govinfo.gov/link/statute/69/369); [Pub. L. 86–507, § 1(26)](https://www.govinfo.gov/link/plaw/86/public/507), June 11, 1960, [74 Stat. 201](https://www.govinfo.gov/link/statute/74/201).)*

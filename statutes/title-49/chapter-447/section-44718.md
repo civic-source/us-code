@@ -3,9 +3,10 @@ title: "Section 44718 - Structures interfering with air commerce or national sec
 usc_title: 49
 usc_section: "44718"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44718"
-generated_at: "2026-03-30T02:56:19.386Z"
+generated_at: "2026-11-23T20:27:35.182Z"
+status: "active"
 ---
 
 # § 44718. Structures interfering with air commerce or national security
@@ -41,3 +42,128 @@ generated_at: "2026-03-30T02:56:19.386Z"
   - **(2)** transmit the finding to the Secretary of Transportation for inclusion in the report required under subsection (b)(2).
 - **(g)** In the case of a proposed structure to be located within a geographic area identified under section 183a(d)(2)(B) of title 10 , the Secretary of Transportation may not issue a determination pursuant to this section until the Secretary of Defense issues a finding under section 183a(e) of title 10 , the Secretary of Defense advises the Secretary of Transportation that no finding under section 183a(e) of title 10 will be forthcoming, or 180 days have lapsed since the project was filed with the Secretary of Transportation pursuant to this section, whichever occurs first.
 - **(h)** In this section, the terms “adverse impact on military operations and readiness” and “unacceptable risk to the national security of the United States” have the meaning given those terms in section 183a(h) of title 10 .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 44718(a) | 49 App.:1501(a). | Aug. 23, 1958 , Pub. L. 85–726, § 1101 , 72 Stat. 797 ; restated Dec. 30, 1987 , Pub. L. 100–223, § 206 (less (b)), 101 Stat. 1521 ; Oct. 31, 1992 , Pub. L. 102–581, § 203(a) , 106 Stat. 4890 . |
+| 44718(b) | 49 App.:1501(b). |  |
+| 44718(c) | 49 App.:1501(c). |  |
+
+
+Notice
+
+Studies.—
+
+In general
+
+Report
+
+Severability
+
+Broadcast Applications and Tower Studies
+
+Limitation on Construction of Landfills.—
+
+In general
+
+Limitation on applicability
+
+Review of Aeronautical Studies
+
+National Security Finding
+
+Special Rule for Identified Geographic Areas
+
+Definitions
+
+Historical and Revision Notes
+
+44718(a)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 1101
+
+72 Stat. 797
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 206
+
+101 Stat. 1521
+
+Oct. 31, 1992
+
+Pub. L. 102–581, § 203(a)
+
+106 Stat. 4890
+
+44718(b)
+
+44718(c)
+
+In General
+
+Report
+
+Airspace Review Process Requirements
+
+Required Information
+
+Expiration.—
+
+In general
+
+After expiration
+
+Authority to Consolidate OEI Surface Criteria
+
+Development of Policies to Protect OEI Surfaces
+
+Authority to Consult With Other Agencies
+
+Applicability
+
+Application.—
+
+In general
+
+Meteorological evaluation tower
+
+Definitions.—
+
+In general
+
+Covered tower.—
+
+In general
+
+“(aa) in a rural area; and
+
+“(bb) used for agricultural purposes or immediately adjacent to such land.
+
+Exclusions
+
+(aa) is registered with the Federal Communications Commission under the Antenna Structure Registration program set forth under part 17 of title 47, Code of Federal Regulations; and
+
+“(bb) is determined by the Administrator to pose no hazard to air navigation; or
+
+Rural area
+
+Agricultural purposes
+
+Other definitions
+
+Database
+
+Exclusion and Waiver Authorities
+
+Periodic Review
+
+FCC Regulations
+
+“Congress finds that—
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1200](https://www.govinfo.gov/link/statute/108/1200); [Pub. L. 104–264, title XII, § 1220(a)](https://www.govinfo.gov/link/plaw/104/public/264), Oct. 9, 1996, [110 Stat. 3286](https://www.govinfo.gov/link/statute/110/3286); [Pub. L. 106–181, title V, § 503(b)](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 133](https://www.govinfo.gov/link/statute/114/133); [Pub. L. 112–81, div. A, title III, § 332](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1369](https://www.govinfo.gov/link/statute/125/1369); [Pub. L. 114–248, § 1(a)](https://www.govinfo.gov/link/plaw/114/public/248), Nov. 28, 2016, [130 Stat. 998](https://www.govinfo.gov/link/statute/130/998); [Pub. L. 114–328, div. A, title III, § 341(a)(1)](https://www.govinfo.gov/link/plaw/114/public/328) –(4)(A), Dec. 23, 2016, [130 Stat. 2079–2081](https://www.govinfo.gov/link/statute/130/2079); [Pub. L. 115–91, div. A, title III, § 311(b)(2)](https://www.govinfo.gov/link/plaw/115/public/91), (3), (e), Dec. 12, 2017, [131 Stat. 1347](https://www.govinfo.gov/link/statute/131/1347), 1348; [Pub. L. 115–232, div. A, title X, § 1081(e)(2)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1986](https://www.govinfo.gov/link/statute/132/1986); [Pub. L. 115–254, div. B, title V, § 539(h)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3371](https://www.govinfo.gov/link/statute/132/3371); [Pub. L. 118–63, title XI, § 1101(m)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1414](https://www.govinfo.gov/link/statute/138/1414).)*

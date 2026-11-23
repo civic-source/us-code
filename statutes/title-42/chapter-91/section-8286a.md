@@ -3,9 +3,10 @@ title: "Section 8286a - Use of factors and data"
 usc_title: 42
 usc_section: "8286a"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8286a"
-generated_at: "2026-03-30T02:56:11.340Z"
+generated_at: "2026-11-23T20:27:23.029Z"
+status: "active"
 ---
 
 # § 8286a. Use of factors and data
@@ -15,3 +16,7 @@ Factors and data consented to pursuant to section 8286 of this title may be revi
   - **(1)** the other factors and data are approved by the Secretary of Energy solely on the basis that such other factors and data are critical to meet the unique needs of the program concerned;
   - **(2)** using the consented to factors and data would cause a violation of an express provision of law; or
   - **(3)** statutory requirements or responsibilities require a modification of the consented to factors and data.
+
+## Source Credit
+
+*([Pub. L. 96–294, title V, § 596](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 762](https://www.govinfo.gov/link/statute/94/762).)*

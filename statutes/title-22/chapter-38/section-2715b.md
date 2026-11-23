@@ -3,9 +3,10 @@ title: "Section 2715b - Notification of next of kin; reports of death"
 usc_title: 22
 usc_section: "2715b"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2715b"
-generated_at: "2026-03-30T02:55:05.380Z"
+generated_at: "2026-11-23T20:26:32.385Z"
+status: "active"
 ---
 
 # § 2715b. Notification of next of kin; reports of death
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.380Z"
   - **(1)** in the case of a finding of death by the appropriate local authorities, issue a report of death or of presumptive death; or
   - **(2)** in the absence of a finding of death by the appropriate local authorities, issue a report of presumptive death.
 - **(c)** The Secretary of State shall prescribe such regulations as may be necessary to carry out this section.
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title I, § 43A, as added [Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 234(b)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–426.)*

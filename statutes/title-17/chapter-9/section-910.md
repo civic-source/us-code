@@ -3,9 +3,10 @@ title: "Section 910 - Enforcement of exclusive rights"
 usc_title: 17
 usc_section: "910"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 910"
-generated_at: "2026-03-30T02:54:15.355Z"
+generated_at: "2026-11-23T20:26:06.538Z"
+status: "active"
 ---
 
 # § 910. Enforcement of exclusive rights
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:15.355Z"
     - **(B)** Furnish proof that the mask work involved is protected under this chapter and that the importation of the articles would infringe the rights in the mask work under this chapter.
     - **(C)** Post a surety bond for any injury that may result if the detention or exclusion of the articles proves to be unjustified.
   - **(2)** Articles imported in violation of the rights set forth in section 905 are subject to seizure and forfeiture in the same manner as property imported in violation of the customs laws. Any such forfeited articles shall be destroyed as directed by the Secretary of the Treasury or the court, as the case may be, except that the articles may be returned to the country of export whenever it is shown to the satisfaction of the Secretary of the Treasury that the importer had no reasonable grounds for believing that his or her acts constituted a violation of the law.
+
+## Source Credit
+
+*(Added [Pub. L. 98–620, title III, § 302](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3352](https://www.govinfo.gov/link/statute/98/3352); amended [Pub. L. 101–553, § 2(b)(1)](https://www.govinfo.gov/link/plaw/101/public/553), Nov. 15, 1990, [104 Stat. 2750](https://www.govinfo.gov/link/statute/104/2750); [Pub. L. 105–80, § 12(a)(23)](https://www.govinfo.gov/link/plaw/105/public/80), Nov. 13, 1997, [111 Stat. 1535](https://www.govinfo.gov/link/statute/111/1535).)*

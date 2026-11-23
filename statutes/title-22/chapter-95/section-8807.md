@@ -3,9 +3,10 @@ title: "Section 8807 - Impositions of sanctions with respect to the Islamic Repu
 usc_title: 22
 usc_section: "8807"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8807"
-generated_at: "2026-03-30T02:55:05.458Z"
+generated_at: "2026-11-23T20:26:32.740Z"
+status: "active"
 ---
 
 # § 8807. Impositions of sanctions with respect to the Islamic Republic of Iran Broadcasting
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.458Z"
     - **(B)** include the Islamic Republic of Iran Broadcasting and the President of the Islamic Republic of Iran Broadcasting, Ezzatollah Zargami, on the list of specially designated nationals and blocked persons maintained by the Office of Foreign Assets Control of the Department of the Treasury.
   - **(2)** The requirement to impose sanctions under paragraph (1)(A) shall not include the authority to impose sanctions on the importation of goods.
   - **(3)** Sections 8514(d) and 8551(b) of this title shall apply with respect to sanctions imposed under paragraph (1)(A) to the same extent that such sections apply with respect to the imposition of sanctions under section 8514(a) of this title .
+
+## Source Credit
+
+*([Pub. L. 112–239, div. A, title XII, § 1248](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2015](https://www.govinfo.gov/link/statute/126/2015).)*

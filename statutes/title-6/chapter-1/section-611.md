@@ -3,9 +3,10 @@ title: "Section 611 - Administration and coordination"
 usc_title: 6
 usc_section: "611"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 611"
-generated_at: "2026-03-30T02:53:09.473Z"
+generated_at: "2026-11-23T20:25:34.809Z"
+status: "active"
 ---
 
 # § 611. Administration and coordination
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:09.473Z"
   - **(1)** the Department should administer a coherent and coordinated system of both terrorism-focused and all-hazards grants;
   - **(2)** there should be a continuing and appropriate balance between funding for terrorism-focused and all-hazards preparedness, as reflected in the authorizations of appropriations for grants under the amendments made by titles I and II, as applicable, of the Implementing Recommendations of the 9/11 Commission Act of 2007; and
   - **(3)** with respect to terrorism-focused grants, it is necessary to ensure both that the target capabilities of the highest risk areas are achieved quickly and that basic levels of preparedness, as measured by the attainment of target capabilities, are achieved nationwide.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XX, § 2021](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 110–53, title I, § 101](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 285](https://www.govinfo.gov/link/statute/121/285); amended [Pub. L. 114–328, div. A, title XIX, § 1911](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2682](https://www.govinfo.gov/link/statute/130/2682); [Pub. L. 115–278, § 2(g)(7)(C)](https://www.govinfo.gov/link/plaw/115/public/278), Nov. 16, 2018, [132 Stat. 4180](https://www.govinfo.gov/link/statute/132/4180).)*

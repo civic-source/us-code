@@ -3,9 +3,10 @@ title: "Section 12114 - Illegal use of drugs and alcohol"
 usc_title: 42
 usc_section: "12114"
 chapter: 126
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12114"
-generated_at: "2026-03-30T02:56:11.407Z"
+generated_at: "2026-11-23T20:27:23.337Z"
+status: "active"
 ---
 
 # § 12114. Illegal use of drugs and alcohol
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:11.407Z"
 - **(e)** Nothing in this subchapter shall be construed to encourage, prohibit, restrict, or authorize the otherwise lawful exercise by entities subject to the jurisdiction of the Department of Transportation of authority to—
   - **(1)** test employees of such entities in, and applicants for, positions involving safety-sensitive duties for the illegal use of drugs and for on-duty impairment by alcohol; and
   - **(2)** remove such persons who test positive for illegal use of drugs and on-duty impairment by alcohol pursuant to paragraph (1) from safety-sensitive duties in implementing subsection (c).
+
+## Source Credit
+
+*([Pub. L. 101–336, title I, § 104](https://www.govinfo.gov/link/plaw/101/public/336), July 26, 1990, [104 Stat. 334](https://www.govinfo.gov/link/statute/104/334); [Pub. L. 110–325, § 5(c)(2)](https://www.govinfo.gov/link/plaw/110/public/325), Sept. 25, 2008, [122 Stat. 3557](https://www.govinfo.gov/link/statute/122/3557).)*

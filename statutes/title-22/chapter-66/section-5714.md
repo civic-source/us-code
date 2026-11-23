@@ -3,9 +3,10 @@ title: "Section 5714 - Transportation"
 usc_title: 22
 usc_section: "5714"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 5714"
-generated_at: "2026-03-30T02:55:05.419Z"
+generated_at: "2026-11-23T20:26:32.574Z"
+status: "active"
 ---
 
 # § 5714. Transportation
@@ -20,3 +21,7 @@ It is the sense of the Congress that the following, which are based in part on t
   - **(6)** The United States should recognize certificates issued by the Hong Kong to United States air carriers for air service involving travel to, from, or through Hong Kong which does not involve travel to, from, or through other parts of the People’s Republic of China.
   - **(7)** The United States should negotiate at the appropriate time directly with the Hong Kong Special Administrative Region, acting under authorization from the Government of the People’s Republic of China, to renew or amend all air service agreements existing on June 30, 1997 , and to conclude new air service agreements affecting all flights to, from, or through the Hong Kong Special Administrative Region which do not involve travel to, from, or through other parts of the People’s Republic of China.
   - **(8)** The United States should make every effort to ensure that the negotiations described in paragraph (7) lead to procompetitive air service agreements.
+
+## Source Credit
+
+*([Pub. L. 102–383, title I, § 104](https://www.govinfo.gov/link/plaw/102/public/383), Oct. 5, 1992, [106 Stat. 1451](https://www.govinfo.gov/link/statute/106/1451).)*

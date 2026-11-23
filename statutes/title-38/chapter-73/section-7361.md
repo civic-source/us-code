@@ -3,9 +3,10 @@ title: "Section 7361 - Authority to establish; status"
 usc_title: 38
 usc_section: "7361"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7361"
-generated_at: "2026-03-30T02:55:53.529Z"
+generated_at: "2026-11-23T20:27:02.007Z"
+status: "active"
 ---
 
 # § 7361. Authority to establish; status
@@ -25,3 +26,9 @@ generated_at: "2026-03-30T02:55:53.529Z"
 - **(f)** A corporation established under this subchapter may act as a multi-medical center research corporation under this subchapter in accordance with subsection (b) if—
   - **(1)** the board of directors of the corporation approves a resolution permitting facilitation by the corporation of the conduct of research, education, or both at the other Department medical center or medical centers concerned; and
   - **(2)** the Secretary approves the resolution of the corporation under paragraph (1).
+
+“The following actions of the Secretary of Veterans Affairs during the period beginning on October 1, 1991 , and ending on the date of the enactment of this Act [ May 20, 1992 ] are hereby ratified:
+
+## Source Credit
+
+*(Added [Pub. L. 100–322, title II, § 204(a)](https://www.govinfo.gov/link/plaw/100/public/322), May 20, 1988, [102 Stat. 510](https://www.govinfo.gov/link/statute/102/510), § 4161; renumbered § 7361 and amended [Pub. L. 102–40, title IV](https://www.govinfo.gov/link/plaw/102/public/40), §§ 401(a)(4)(B), 403(a)(1), (2), May 7, 1991, [105 Stat. 221](https://www.govinfo.gov/link/statute/105/221), 239; [Pub. L. 102–291, § 3(a)](https://www.govinfo.gov/link/plaw/102/public/291), May 20, 1992, [106 Stat. 179](https://www.govinfo.gov/link/statute/106/179); [Pub. L. 104–262, title III, § 343(b)](https://www.govinfo.gov/link/plaw/104/public/262), Oct. 9, 1996, [110 Stat. 3207](https://www.govinfo.gov/link/statute/110/3207); [Pub. L. 106–117, title II, § 204(a)](https://www.govinfo.gov/link/plaw/106/public/117), Nov. 30, 1999, [113 Stat. 1562](https://www.govinfo.gov/link/statute/113/1562); [Pub. L. 111–163, title VIII, § 801(a)](https://www.govinfo.gov/link/plaw/111/public/163), (b)(1), (c), (d), May 5, 2010, [124 Stat. 1175](https://www.govinfo.gov/link/statute/124/1175), 1176.)*

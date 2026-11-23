@@ -3,9 +3,10 @@ title: "Section 6304 - Great Ape Conservation Fund"
 usc_title: 16
 usc_section: "6304"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6304"
-generated_at: "2026-03-30T02:54:23.056Z"
+generated_at: "2026-11-23T20:26:20.791Z"
+status: "active"
 ---
 
 # § 6304. Great Ape Conservation Fund
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:23.056Z"
   - **(1)** The amounts required to be transferred to the Fund under this section shall be transferred at least monthly from the general fund of the Treasury to the Fund on the basis of estimates made by the Secretary of the Treasury.
   - **(2)** Proper adjustment shall be made in amounts subsequently transferred to the extent prior estimates were in excess of or less than the amounts required to be transferred.
 - **(e)** The Secretary may accept and use donations to provide assistance under section 6303 of this title . Amounts received by the Secretary in the form of donations shall be transferred to the Secretary of the Treasury for deposit into the Fund.
+
+## Source Credit
+
+*([Pub. L. 106–411, § 5](https://www.govinfo.gov/link/plaw/106/public/411), Nov. 1, 2000, [114 Stat. 1793](https://www.govinfo.gov/link/statute/114/1793); [Pub. L. 109–363, title VII, § 702](https://www.govinfo.gov/link/plaw/109/public/363), Oct. 17, 2006, [120 Stat. 2082](https://www.govinfo.gov/link/statute/120/2082); [Pub. L. 116–9, title VII, § 7001(c)(2)(C)](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 785](https://www.govinfo.gov/link/statute/133/785).)*

@@ -3,9 +3,10 @@ title: "Section 323 - Guidance on how to prevent exposure to and release of PFAS
 usc_title: 6
 usc_section: "323"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 323"
-generated_at: "2026-03-30T02:53:09.460Z"
+generated_at: "2026-11-23T20:25:34.707Z"
+status: "active"
 ---
 
 # § 323. Guidance on how to prevent exposure to and release of PFAS
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:53:09.460Z"
 - **(c)** Not later than 3 years after the date on which the guidance and curriculum required under subsection (a) is issued, and not less frequently than once every 3 years thereafter, the Secretary of Homeland Security, in consultation with the Administrator of the United States Fire Administration, the Administrator of the Environmental Protection Agency, and the Director of the National Institute for Occupational Safety and Health, shall review the guidance and curriculum and, as appropriate, issue updates to the guidance and curriculum.
 - **(d)** The Federal Advisory Committee Act (5 U.S.C. App.) 1 1 See References in Text note below. shall not apply to this Act.
 - **(e)** Nothing in this Act shall be construed to require the Secretary of Homeland Security to promulgate or enforce regulations under subchapter II of chapter 5 of title 5 (commonly known as the “Administrative Procedure Act”).
+
+## Source Credit
+
+*([Pub. L. 117–248, § 2](https://www.govinfo.gov/link/plaw/117/public/248), Dec. 20, 2022, [136 Stat. 2348](https://www.govinfo.gov/link/statute/136/2348).)*

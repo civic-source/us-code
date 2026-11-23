@@ -3,9 +3,10 @@ title: "Section 6276 - Fund transfer authority"
 usc_title: 10
 usc_section: "6276"
 chapter: 607
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6276"
-generated_at: "2026-03-30T02:53:38.225Z"
+generated_at: "2026-11-23T20:25:52.027Z"
+status: "active"
 ---
 
 # § 6276. Fund transfer authority
@@ -18,3 +19,19 @@ generated_at: "2026-03-30T02:53:38.225Z"
   - **(1)** may be used only to provide funds for items relating to activities necessary for national security programs that have a higher priority than the items from which the funds are transferred; and
   - **(2)** may not be used to provide funds for an item for which Congress has specifically denied funds.
 - **(d)** The Secretary of Energy shall promptly notify the congressional defense committees of any transfer of funds to or from any DOE national security authorization.
+
+Transfer to Other Federal Agencies
+
+Transfer Within Department of Energy
+
+Limitations
+
+Notice to Congress
+
+Transfers permitted
+
+Maximum amounts
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2), Dec. 18, 2025, [139 Stat. 1428](https://www.govinfo.gov/link/statute/139/1428), 1462.)*

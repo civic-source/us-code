@@ -3,9 +3,10 @@ title: "Section 18931 - Engineering biology and biometrology"
 usc_title: 42
 usc_section: "18931"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18931"
-generated_at: "2026-03-30T02:56:11.533Z"
+generated_at: "2026-11-23T20:27:23.838Z"
+status: "active"
 ---
 
 # § 18931. Engineering biology and biometrology
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.533Z"
   - **(6)** support graduate and postgraduate research and training in biometrology, biomanufacturing, and engineering biology.
 - **(b)** Nothing in this section may be construed to alter the policies, processes, or practices of individual Federal agencies in effect on the day before August 9, 2022 , relating to the conduct or support of biomedical research and advanced development, including the solicitation and review of extramural research proposals.
 - **(c)** In carrying out activities authorized by this section, the Secretary shall ensure proper security controls are in place to protect sensitive information, as appropriate.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title II, § 10221](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1474](https://www.govinfo.gov/link/statute/136/1474).)*

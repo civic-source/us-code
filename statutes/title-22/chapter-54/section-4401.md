@@ -3,9 +3,10 @@ title: "Section 4401 - Findings"
 usc_title: 22
 usc_section: "4401"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4401"
-generated_at: "2026-03-30T02:55:05.411Z"
+generated_at: "2026-11-23T20:26:32.536Z"
+status: "active"
 ---
 
 # § 4401. Findings
@@ -17,3 +18,7 @@ The Congress finds that—
   - **(3)** The Asia Foundation, as a private organization, is able to conduct programs in response to Asian initiatives that would be difficult or impossible for an official United States instrumentality, and it is in a position in Asia to respond quickly and flexibly to meet new opportunities;
   - **(4)** in recognition of the valuable contributions of The Asia Foundation to long-range United States foreign policy interests, the United States Government has, through a variety of agencies, provided financial support for The Asia Foundation; and
   - **(5)** it is in the interest of the United States, and the further strengthening of Asian-American friendship and cooperation, to establish a more permanent mechanism for United States Government financial support for the ongoing activities of The Asia Foundation, while preserving the independent character of the Foundation.
+
+## Source Credit
+
+*([Pub. L. 98–164, title IV, § 402](https://www.govinfo.gov/link/plaw/98/public/164), Nov. 22, 1983, [97 Stat. 1038](https://www.govinfo.gov/link/statute/97/1038).)*

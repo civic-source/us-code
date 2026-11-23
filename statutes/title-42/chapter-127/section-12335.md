@@ -3,9 +3,10 @@ title: "Section 12335 - State plan"
 usc_title: 42
 usc_section: "12335"
 chapter: 127
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12335"
-generated_at: "2026-03-30T02:56:11.412Z"
+generated_at: "2026-11-23T20:27:23.353Z"
+status: "active"
 ---
 
 # § 12335. State plan
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.412Z"
 - **(e)**
   - **(1)** The Commissioner shall approve any State plan under sections 12337 and 12338 of this title that the Commissioner determines meets the requirements of such sections.
   - **(2)** The Commissioner shall not make a final determination disapproving any State plan, modifying such plan, or declaring a State to be ineligible to receive funds under sections 12337 and 12338 of this title without previously affording such State reasonable notice and opportunity to correct deficiencies in its application.
+
+## Source Credit
+
+*([Pub. L. 101–501, title IX, § 929](https://www.govinfo.gov/link/plaw/101/public/501), Nov. 3, 1990, [104 Stat. 1270](https://www.govinfo.gov/link/statute/104/1270).)*

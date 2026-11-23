@@ -3,9 +3,10 @@ title: "Section 5336 - Beneficial ownership information reporting requirements"
 usc_title: 31
 usc_section: "5336"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 5336"
-generated_at: "2026-03-30T02:55:34.070Z"
+generated_at: "2026-11-23T20:26:51.880Z"
+status: "active"
 ---
 
 # § 5336. Beneficial ownership information reporting requirements
@@ -286,3 +287,219 @@ generated_at: "2026-03-30T02:55:34.070Z"
     - **(A)** shall be submitted in unclassified form; and
     - **(B)** may include a classified annex.
 - **(j)** There are authorized to be appropriated to FinCEN for each of the 3 fiscal years beginning on the effective date of the regulations promulgated under subsection (b)(4), such sums as may be necessary to carry out this section, including allocating funds to the States to pay reasonable costs relating to compliance with the requirements of such section.
+
+Definitions
+
+Acceptable identification document
+
+Applicant
+
+Beneficial owner
+
+Director
+
+FinCEN
+
+FinCEN identifier
+
+Foreign person
+
+Indian tribe
+
+Lawfully admitted for permanent residence
+
+Pooled investment vehicle
+
+Reporting company
+
+(aa) (AA) a futures commission merchant, introducing broker, swap dealer, major swap participant, commodity pool operator, or commodity trading advisor (as those terms are defined in section 1a of the Commodity Exchange Act ( 7 U.S.C. 1a )); or (BB) a retail foreign exchange dealer, as described in section 2(c)(2)(B) of that Act ( 7 U.S.C. 2(c)(2)(B) ); and
+
+(bb) registered with the Commodity Futures Trading Commission under the Commodity Exchange Act ( 7 U.S.C. 1 et seq.);
+
+(aa) other entities owned by the entity; and
+
+(bb) other entities through which the entity operates; and
+
+State
+
+Unique identifying number
+
+United states person
+
+Beneficial Ownership Information Reporting.—
+
+Reporting
+
+In general
+
+Reporting of existing entities
+
+Reporting at time of formation or registration
+
+Updated reporting for changes in beneficial ownership
+
+Treasury review of updated reporting for changes in beneficial ownership
+
+Regulation requirements
+
+Regulatory simplification
+
+Required information.—
+
+In general
+
+Reporting requirement for exempt entities having an ownership interest
+
+Reporting requirement for certain pooled investment vehicles
+
+Reporting requirement for exempt subsidiaries
+
+Reporting requirement for exempt grandfathered entities
+
+FinCEN identifier.—
+
+Issuance of fincen identifier.—
+
+In general
+
+Updating of information
+
+Exclusive identifier
+
+Use of fincen identifier for individuals
+
+Use of fincen identifier for entities
+
+Regulations
+
+Effective date
+
+Report
+
+Retention and Disclosure of Beneficial Ownership Information by FinCEN.—
+
+Retention of information
+
+Disclosure.—
+
+Prohibition
+
+Scope of disclosure by fincen
+
+(aa) requires compliance with the disclosure and use provisions of the treaty, agreement, or convention, publicly disclosing any beneficial ownership information received; or
+
+(bb) limits the use of the information for any purpose other than the authorized investigation or national security or intelligence activity;
+
+Form and manner of disclosure to financial institutions and regulatory agencies
+
+Appropriate protocols
+
+Violation of protocols
+
+Department of the treasury access.—
+
+In general
+
+Tax administration purposes
+
+Rejection of request
+
+Suspension
+
+Security protections
+
+Report by the secretary
+
+Audit by the comptroller general
+
+Department of the treasury testimony.—
+
+In general
+
+Testimony classification
+
+Agency Coordination.—
+
+In general
+
+Information from relevant federal, state, and tribal agencies
+
+Regulations
+
+Notification of Federal Obligations.—
+
+Federal
+
+States and indian tribes.—
+
+In general
+
+Notification from the department of the treasury
+
+No Bearer Share Corporations or Limited Liability Companies
+
+Regulations
+
+Penalties.—
+
+Reporting violations
+
+Unauthorized disclosure or use
+
+Criminal and civil penalties.—
+
+Reporting violations
+
+Unauthorized disclosure or use violations
+
+Safe harbor.—
+
+Safe harbor.—
+
+In general
+
+(aa) has reason to believe that any report submitted by the person in accordance with subsection (b) contains inaccurate information; and
+
+(bb) in accordance with regulations issued by the Secretary, voluntarily and promptly, and in no case later than 90 days after the date on which the person submitted the report, submits a report containing corrected information.
+
+Exceptions
+
+(aa) acts for the purpose of evading the reporting requirements under subsection (b); and
+
+(bb) has actual knowledge that any information contained in the report is inaccurate.
+
+Assistance
+
+User complaint process.—
+
+In general
+
+Report
+
+Treasury office of inspector general investigation in the event of a cybersecurity breach.—
+
+In general
+
+Report
+
+Actions of the secretary
+
+Definition
+
+Continuous Review of Exempt Entities.—
+
+In general
+
+Classified annex
+
+Authorization of Appropriations
+
+“It is the sense of Congress that—
+
+In general
+
+Applicability
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. F, title LXIV, § 6403(a)](https://www.govinfo.gov/link/plaw/116/public/283), title LXV, § 6509(b), Jan. 1, 2021, [134 Stat. 4605](https://www.govinfo.gov/link/statute/134/4605), 4633.)*

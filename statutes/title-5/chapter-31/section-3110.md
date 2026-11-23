@@ -3,9 +3,10 @@ title: "Section 3110 - Employment of relatives; restrictions"
 usc_title: 5
 usc_section: "3110"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 3110"
-generated_at: "2026-03-30T02:52:55.999Z"
+generated_at: "2026-11-23T20:25:31.797Z"
+status: "active"
 ---
 
 # § 3110. Employment of relatives; restrictions
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:52:55.999Z"
 - **(c)** An individual appointed, employed, promoted, or advanced in violation of this section is not entitled to pay, and money may not be paid from the Treasury as pay to an individual so appointed, employed, promoted, or advanced.
 - **(d)** The Office of Personnel Management may prescribe regulations authorizing the temporary employment, in the event of emergencies resulting from natural disasters or similar unforeseen events or circumstances, of individuals whose employment would otherwise be prohibited by this section.
 - **(e)** This section shall not be construed to prohibit the appointment of an individual who is a preference eligible in any case in which the passing over of that individual on a certificate of eligibles furnished under section 3317(a) of this title will result in the selection for appointment of an individual who is not a preference eligible.
+
+## Source Credit
+
+*(Added [Pub. L. 90–206, title II, § 221(a)](https://www.govinfo.gov/link/plaw/90/public/206), Dec. 16, 1967, [81 Stat. 640](https://www.govinfo.gov/link/statute/81/640); amended [Pub. L. 95–454, title IX, § 906(a)(2)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1224](https://www.govinfo.gov/link/statute/92/1224).)*

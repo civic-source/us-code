@@ -3,9 +3,10 @@ title: "Section 13438 - Telecommuting study"
 usc_title: 42
 usc_section: "13438"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13438"
-generated_at: "2026-03-30T02:56:11.445Z"
+generated_at: "2026-11-23T20:27:23.497Z"
+status: "active"
 ---
 
 # § 13438. Telecommuting study
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.445Z"
   - **(4)** an estimation of the amount and type of reduction of energy use and savings by form of transportation type; and
   - **(5)** an estimation of the social impact of widespread use of telecommuting.
 - **(b)** This study shall be completed no more than one hundred and eighty days after October 24, 1992 . A report, summarizing the results of the study, shall be transmitted to the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate no more than sixty days after completion of this study.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XX, § 2028](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3067](https://www.govinfo.gov/link/statute/106/3067).)*

@@ -3,9 +3,10 @@ title: "Section 4101 - Definitions"
 usc_title: 5
 usc_section: "4101"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 4101"
-generated_at: "2026-03-30T02:52:56.008Z"
+generated_at: "2026-11-23T20:25:31.850Z"
+status: "active"
 ---
 
 # § 4101. Definitions
@@ -32,3 +33,22 @@ For the purpose of this chapter—
     - **(D)** a business, commercial, or industrial firm, corporation, partnership, proprietorship, or other organization;
     - **(E)** individuals other than civilian or military personnel of the Government; and
     - **(F)** the services and property of any of the foregoing furnishing the training.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 2302 . | July 7, 1958 , Pub. L. 85–507, § 3 , 72 Stat. 328 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 2302
+
+July 7, 1958
+
+Pub. L. 85–507, § 3
+
+72 Stat. 328
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 432](https://www.govinfo.gov/link/statute/80/432); [Pub. L. 90–206, title II, § 224(a)](https://www.govinfo.gov/link/plaw/90/public/206), Dec. 16, 1967, [81 Stat. 642](https://www.govinfo.gov/link/statute/81/642); [Pub. L. 97–258, § 3(a)(8)](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 1063](https://www.govinfo.gov/link/statute/96/1063); [Pub. L. 103–226, § 2(a)(1)](https://www.govinfo.gov/link/plaw/103/public/226), Mar. 30, 1994, [108 Stat. 111](https://www.govinfo.gov/link/statute/108/111); [Pub. L. 113–235, div. H, title I, § 1301(b)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537).)*

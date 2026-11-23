@@ -3,9 +3,10 @@ title: "Section 60141 - Standards for underground natural gas storage facilities
 usc_title: 49
 usc_section: "60141"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 60141"
-generated_at: "2026-03-30T02:56:19.416Z"
+generated_at: "2026-11-23T20:27:35.431Z"
+status: "active"
 ---
 
 # § 60141. Standards for underground natural gas storage facilities
@@ -24,3 +25,23 @@ generated_at: "2026-03-30T02:56:19.416Z"
     - **(B)** to require the Secretary’s permission to construct a facility referred to in subparagraph (A).
 - **(e)** A State authority may adopt additional or more stringent safety standards for intrastate underground natural gas storage facilities if such standards are compatible with the minimum standards prescribed under this section.
 - **(f)** Nothing in this section shall be construed to affect the Secretary’s authority under this title to regulate the underground storage of gas that is not natural gas.
+
+Minimum Safety Standards
+
+Considerations
+
+Federal-State Cooperation
+
+Rules of Construction.—
+
+In general
+
+Limitations
+
+Preemption
+
+Statutory Construction
+
+## Source Credit
+
+*(Added [Pub. L. 114–183, § 12(b)](https://www.govinfo.gov/link/plaw/114/public/183), June 22, 2016, [130 Stat. 522](https://www.govinfo.gov/link/statute/130/522).)*

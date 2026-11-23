@@ -3,9 +3,10 @@ title: "Section 7403 - Research, investigation, training, and other activities"
 usc_title: 42
 usc_section: "7403"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7403"
-generated_at: "2026-03-30T02:56:11.293Z"
+generated_at: "2026-11-23T20:27:22.832Z"
+status: "active"
 ---
 
 # § 7403. Research, investigation, training, and other activities
@@ -148,3 +149,53 @@ generated_at: "2026-03-30T02:56:11.293Z"
       - **(i)** the reduction in deposition rates that must be achieved in order to prevent adverse ecological effects; and
       - **(ii)** the costs and benefits of the acid deposition control program created by subchapter IV–A of this chapter.
 - **(k)** If, in the judgment of the Administrator, an air pollution problem of substantial significance may result from discharge or discharges into the atmosphere, the Administrator may call a conference concerning this potential air pollution problem to be held in or near one or more of the places where such discharge or discharges are occurring or will occur. All interested persons shall be given an opportunity to be heard at such conference, either orally or in writing, and shall be permitted to appear in person or by representative in accordance with procedures prescribed by the Administrator. If the Administrator finds, on the basis of the evidence presented at such conference, that the discharge or discharges if permitted to take place or continue are likely to cause or contribute to air pollution subject to abatement under this part, the Administrator shall send such findings, together with recommendations concerning the measures which the Administrator finds reasonable and suitable to prevent such pollution, to the person or persons whose actions will result in the discharge or discharges involved; to air pollution agencies of the State or States and of the municipality or municipalities where such discharge or discharges will originate; and to the interstate air pollution control agency, if any, in the jurisdictional area of which any such municipality is located. Such findings and recommendations shall be advisory only, but shall be admitted together with the record of the conference, as part of the proceedings under subsections (b), (c), (d), (e), and (f) of section 7408 of this title .
+
+(aa) In general The term “direct air capture”, with respect to a facility, technology, or system, means that the facility, technology, or system uses carbon capture equipment to capture carbon dioxide directly from the air.
+
+(bb) Exclusion The term “direct air capture” does not include any facility, technology, or system that captures carbon dioxide— (AA) that is deliberately released from a naturally occurring subsurface spring; or (BB) using natural photosynthesis.
+
+(aa) an invention that is patentable under title 35; and
+
+(bb) any patent on an invention described in item (aa).
+
+(aa) subject to subclause (III), develop specific requirements for— (AA) the competition process; and (BB) the demonstration of performance of approved projects;
+
+(bb) offer financial awards for a project designed— (AA) to the maximum extent practicable, to capture more than 10,000 tons of carbon dioxide per year; (BB) to operate in a manner that would be commercially viable in the foreseeable future (as determined by the Board); and (CC) to improve the technologies or information systems that enable monitoring and verification methods for direct air capture projects; and
+
+(cc) to the maximum extent practicable, make financial awards to geographically diverse projects, including at least— (AA) 1 project in a coastal State; and (BB) 1 project in a rural State.
+
+(aa) provide notice of and, for a period of not less than 60 days, an opportunity for public comment on, any draft or proposed version of the requirements described in subclause (II)(aa); and
+
+(bb) take into account public comments received in developing the final version of those requirements.
+
+(aa) climate science;
+
+(bb) physics;
+
+(cc) chemistry;
+
+(dd) biology;
+
+(ee) engineering;
+
+(ff) economics;
+
+(gg) business management; and
+
+(hh) such other disciplines as the Administrator determines to be necessary to achieve the purposes of this subparagraph.
+
+(aa) Term A member of the Board shall serve for a term of 6 years.
+
+(bb) Vacancies A vacancy on the Board— (AA) shall not affect the powers of the Board; and (BB) shall be filled in the same manner as the original appointment was made.
+
+(aa) advise the Administrator on carrying out the duties of the Administrator under this subparagraph; and
+
+(bb) provide other assistance and advice as requested by the Administrator.
+
+(aa) may reserve a nonexclusive, nontransferable, irrevocable, paid-up license, to have practiced for or on behalf of the United States, in connection with any intellectual property described in subclause (I); but
+
+(bb) shall not, in the exercise of a license reserved under item (aa), publicly disclose proprietary information relating to the license.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 103, formerly § 3, as added [Pub. L. 88–206, § 1](https://www.govinfo.gov/link/plaw/88/public/206), Dec. 17, 1963, [77 Stat. 394](https://www.govinfo.gov/link/statute/77/394); renumbered § 103 and amended [Pub. L. 89–272, title I](https://www.govinfo.gov/link/plaw/89/public/272), §§ 101(3), 103, Oct. 20, 1965, [79 Stat. 992](https://www.govinfo.gov/link/statute/79/992), 996; [Pub. L. 90–148, § 2](https://www.govinfo.gov/link/plaw/90/public/148), Nov. 21, 1967, [81 Stat. 486](https://www.govinfo.gov/link/statute/81/486); [Pub. L. 91–604](https://www.govinfo.gov/link/plaw/91/public/604), §§ 2(a), 4(2), 15(a)(2), (c)(2), Dec. 31, 1970, [84 Stat. 1676](https://www.govinfo.gov/link/statute/84/1676), 1689, 1710, 1713; [Pub. L. 95–95, title I, § 101(a)](https://www.govinfo.gov/link/plaw/95/public/95), (b), Aug. 7, 1977, [91 Stat. 686](https://www.govinfo.gov/link/statute/91/686), 687; [Pub. L. 101–549, title IX, § 901(a)](https://www.govinfo.gov/link/plaw/101/public/549) –(c), Nov. 15, 1990, [104 Stat. 2700–2703](https://www.govinfo.gov/link/statute/104/2700); [Pub. L. 116–260, div. S, § 102(b)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2243](https://www.govinfo.gov/link/statute/134/2243).)*

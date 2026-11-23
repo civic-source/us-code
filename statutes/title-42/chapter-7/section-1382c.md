@@ -3,9 +3,10 @@ title: "Section 1382c - Definitions"
 usc_title: 42
 usc_section: "1382c"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1382c"
-generated_at: "2026-03-30T02:56:10.929Z"
+generated_at: "2026-11-23T20:27:21.061Z"
+status: "active"
 ---
 
 # § 1382c. Definitions
@@ -76,3 +77,51 @@ generated_at: "2026-03-30T02:56:10.929Z"
       - **(iv)** but for this subparagraph, would not be eligible for benefits under this subchapter.
   - **(3)** For purposes of determining eligibility for and the amount of benefits for any individual who is an alien, such individual’s income and resources shall be deemed to include the income and resources of his sponsor and such sponsor’s spouse (if such alien has a sponsor) as provided in section 1382j of this title . Any such income deemed to be income of such individual shall be treated as unearned income of such individual.
   - **(4)** For purposes of paragraphs (1) and (2), a spouse or parent (or spouse of such a parent) who is absent from the household in which the individual lives due solely to a duty assignment as a member of the Armed Forces on active duty shall, in the absence of evidence to the contrary, be deemed to be living in the same household as the individual.
+
+(aa) although the individual has not improved medically, he or she is nonetheless a beneficiary of advances in medical or vocational therapy or technology (related to the individual’s ability to work), and
+
+(bb) the individual is now able to engage in substantial gainful activity, or
+
+(aa) although the individual has not improved medically, he or she has undergone vocational therapy (related to the individual’s ability to work), and
+
+(bb) the individual is now able to engage in substantial gainful activity; or
+
+Effective dates.—
+
+Subsections
+
+and
+
+In general
+
+Determination of final adjudication
+
+Subsection
+
+Application to current recipients.—
+
+Eligibility redeterminations
+
+Grandfather provision
+
+Notice
+
+Report
+
+Regulations
+
+Cap adjustment for ssi administrative work required by welfare reform.—
+
+Authorization
+
+Cap adjustment
+
+Adjustments
+
+Conforming amendment
+
+Benefits under title xvi
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVI, § 1614, as added [Pub. L. 92–603, title III, § 301](https://www.govinfo.gov/link/plaw/92/public/603), Oct. 30, 1972, [86 Stat. 1471](https://www.govinfo.gov/link/statute/86/1471); amended [Pub. L. 93–233, § 9](https://www.govinfo.gov/link/plaw/93/public/233), Dec. 31, 1973, [87 Stat. 957](https://www.govinfo.gov/link/statute/87/957); [Pub. L. 96–265, title II, § 203(a)](https://www.govinfo.gov/link/plaw/96/public/265), title III, §§ 302(a)(2), 303(c)(1), title V, § 504(a), June 9, 1980, [94 Stat. 449](https://www.govinfo.gov/link/statute/94/449), 450, 453, 471; [Pub. L. 98–369, div. B, title VI, § 2663(g)(6)](https://www.govinfo.gov/link/plaw/98/public/369), (7), July 18, 1984, [98 Stat. 1168](https://www.govinfo.gov/link/statute/98/1168), 1169; [Pub. L. 98–460](https://www.govinfo.gov/link/plaw/98/public/460), §§ 2(c), 3(a)(2), 4(b), 8(b), 10(b), Oct. 9, 1984, [98 Stat. 1796](https://www.govinfo.gov/link/statute/98/1796), 1799, 1800, 1804, 1805; [Pub. L. 99–643, § 4(d)(2)](https://www.govinfo.gov/link/plaw/99/public/643), (3)(A), Nov. 10, 1986, [100 Stat. 3577](https://www.govinfo.gov/link/statute/100/3577); [Pub. L. 101–239, title VIII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 8009(b), 8010(a), 8012(a), Dec. 19, 1989, [103 Stat. 2463](https://www.govinfo.gov/link/statute/103/2463), 2464; [Pub. L. 101–508, title V, § 5036(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–225](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 101–649, title I, § 162(e)(5)](https://www.govinfo.gov/link/plaw/101/public/649), Nov. 29, 1990, [104 Stat. 5011](https://www.govinfo.gov/link/statute/104/5011); [Pub. L. 103–66, title XIII](https://www.govinfo.gov/link/plaw/103/public/66), §§ 13733(a), 13734(a), Aug. 10, 1993, [107 Stat. 662](https://www.govinfo.gov/link/statute/107/662); [Pub. L. 103–296, title I, § 107(a)(4)](https://www.govinfo.gov/link/plaw/103/public/296), title II, § 201(b)(4)(A), Aug. 15, 1994, [108 Stat. 1478](https://www.govinfo.gov/link/statute/108/1478), 1505; [Pub. L. 103–432, title II, § 221(a)](https://www.govinfo.gov/link/plaw/103/public/432), Oct. 31, 1994, [108 Stat. 4462](https://www.govinfo.gov/link/statute/108/4462); [Pub. L. 104–121, title I, § 105(b)(1)](https://www.govinfo.gov/link/plaw/104/public/121), Mar. 29, 1996, [110 Stat. 853](https://www.govinfo.gov/link/statute/110/853); [Pub. L. 104–193, title II](https://www.govinfo.gov/link/plaw/104/public/193), §§ 204(c)(1), 211(a), (c), 212(a), (b)(1), (c), Aug. 22, 1996, [110 Stat. 2188](https://www.govinfo.gov/link/statute/110/2188), 2189, 2192, 2193; [Pub. L. 105–33, title V, § 5522(a)](https://www.govinfo.gov/link/plaw/105/public/33), (d), Aug. 5, 1997, [111 Stat. 622](https://www.govinfo.gov/link/statute/111/622), 623; [Pub. L. 108–203, title IV, § 434(a)](https://www.govinfo.gov/link/plaw/108/public/203), Mar. 2, 2004, [118 Stat. 540](https://www.govinfo.gov/link/statute/118/540).)*

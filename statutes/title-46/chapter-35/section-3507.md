@@ -3,9 +3,10 @@ title: "Section 3507 - Passenger vessel security and safety requirements"
 usc_title: 46
 usc_section: "3507"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 3507"
-generated_at: "2026-03-30T02:56:15.544Z"
+generated_at: "2026-11-23T20:27:27.079Z"
+status: "active"
 ---
 
 # § 3507. Passenger vessel security and safety requirements
@@ -146,3 +147,117 @@ generated_at: "2026-03-30T02:56:15.544Z"
     - **(C)** is on a voyage that embarks or disembarks passengers in the United States.
   - **(2)** This section and section 3508 do not apply to a vessel of the United States operated by the Federal Government or a vessel owned and operated by a State.
 - **(l)** In this section and section 3508, the term “owner” means the owner, charterer, managing operator, master, or other individual in charge of a vessel.
+
+Vessel Design, Equipment, Construction, and Retrofitting Requirements.—
+
+In general
+
+Fire safety codes
+
+Video Recording.—
+
+Requirement to maintain surveillance.—
+
+In general
+
+Placement of video surveillance equipment.—
+
+In general
+
+Risk assessment
+
+Surveillance plan
+
+Installation
+
+Attestation
+
+Updates
+
+Availability
+
+Definitions
+
+Notice of video surveillance
+
+Access to video records.—
+
+Law enforcement
+
+Civil actions
+
+Limited access
+
+Retention requirements
+
+Safety Information.—
+
+Criminal Activity Prevention and Response Guide
+
+Embassy and consulate locations
+
+Sexual Assault
+
+Confidentiality of Sexual Assault Examination and Support Information
+
+Crew Access to Passenger Staterooms
+
+Log Book and Reporting Requirements.—
+
+In general
+
+Details required
+
+Requirement to report crimes and other information.—
+
+In general
+
+Incidents to which subparagraph (A) applies
+
+Availability of incident data via internet.—
+
+Website.—
+
+In general
+
+Updates and other requirements
+
+User-friendly format
+
+Access to website
+
+Enforcement.—
+
+Penalties.—
+
+Civil penalty
+
+Criminal penalty
+
+Denial of entry
+
+Procedures
+
+Regulations
+
+Application.—
+
+In general
+
+Federal and state vessels
+
+Definition
+
+Study and report
+
+Interim standards
+
+Final standards
+
+Considerations
+
+“The Congress makes the following findings:
+
+## Source Credit
+
+*(Added [Pub. L. 111–207, § 3(a)](https://www.govinfo.gov/link/plaw/111/public/207), July 27, 2010, [124 Stat. 2244](https://www.govinfo.gov/link/statute/124/2244); amended [Pub. L. 113–281, title III, § 321](https://www.govinfo.gov/link/plaw/113/public/281), Dec. 18, 2014, [128 Stat. 3054](https://www.govinfo.gov/link/statute/128/3054); [Pub. L. 115–232, div. C, title XXXV](https://www.govinfo.gov/link/plaw/115/public/232), §§ 3541(b)(9), 3543(a), Aug. 13, 2018, [132 Stat. 2323](https://www.govinfo.gov/link/statute/132/2323), 2324; [Pub. L. 116–283, div. G, title LVXXXIII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXIII], § 8311, div. G, title LVXXXIV [LXXXIV], § 8440(a)–(c)(1), Jan. 1, 2021, [134 Stat. 4697](https://www.govinfo.gov/link/statute/134/4697), 4739–4741; [Pub. L. 117–263, div. K, title CXVIII, § 11802](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4163](https://www.govinfo.gov/link/statute/136/4163); [Pub. L. 119–60, div. G, title LXXIII](https://www.govinfo.gov/link/plaw/119/public/60), §§ 7301(k)(1)(D), 7343, Dec. 18, 2025, [139 Stat. 1759](https://www.govinfo.gov/link/statute/139/1759), 1778.)*

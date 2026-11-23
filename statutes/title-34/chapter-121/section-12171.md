@@ -3,9 +3,10 @@ title: "Section 12171 - Grant authority"
 usc_title: 34
 usc_section: "12171"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12171"
-generated_at: "2026-03-30T02:55:33.284Z"
+generated_at: "2026-11-23T20:26:50.538Z"
+status: "active"
 ---
 
 # § 12171. Grant authority
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:55:33.284Z"
   - **(2)** individuals providing tutorials and other academic assistance programs;
   - **(3)** individuals providing retention services; and
   - **(4)** the content and duration of recruitment, retention, and counseling programs and the means and devices used to publicize such programs.
+
+## Source Credit
+
+*([Pub. L. 103–322, title III, § 30801](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1857](https://www.govinfo.gov/link/statute/108/1857).)*

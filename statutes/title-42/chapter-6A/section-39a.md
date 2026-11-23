@@ -3,9 +3,10 @@ title: "Section 39a - Best practices for behavioral and mental health interventi
 usc_title: 42
 usc_section: "39a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 39a"
-generated_at: "2026-03-30T02:56:10.763Z"
+generated_at: "2026-11-23T20:27:20.317Z"
+status: "active"
 ---
 
 # § 290bb–39a. Best practices for behavioral and mental health intervention teams
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:56:10.763Z"
       - **(iii)** support positive, safe, and supportive learning environments.
   - **(2)** The terms “elementary school”, “parent”, and “secondary school” have the meanings given to such terms in section 7801 of title 20 .
   - **(3)** The term “institution of higher education” has the meaning given to such term in section 1002 of title 20 .
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title V, § 520H–1, as added [Pub. L. 117–328, div. FF, title I, § 1404](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5700](https://www.govinfo.gov/link/statute/136/5700).)*

@@ -3,9 +3,10 @@ title: "Section 1103 - Functions of the Director"
 usc_title: 5
 usc_section: "1103"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 1103"
-generated_at: "2026-03-30T02:52:55.994Z"
+generated_at: "2026-11-23T20:25:31.766Z"
+status: "active"
 ---
 
 # § 1103. Functions of the Director
@@ -40,3 +41,25 @@ generated_at: "2026-03-30T02:52:55.994Z"
     - **(D)** sustaining a culture that cultivates and develops a high performing workforce;
     - **(E)** developing and implementing a knowledge management strategy supported by appropriate investment in training and technology; and
     - **(F)** holding managers and human resources officers accountable for efficient and effective human resources management in support of agency missions in accordance with merit system principles.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | [Uncodified]. | 1949 Reorg. Plan No. 5, §§ 1, 2(a) (35th through 46th words), 3, eff. Aug. 20, 1949 , 63 Stat. 1067 , 1069. |
+|  | 5 U.S.C. 632 (5th par.). | July 31, 1956, ch. 804, § 201(b) , 70 Stat. 742 . |
+
+
+Historical and Revision Notes
+
+Aug. 20, 1949
+
+63 Stat. 1067
+
+5 U.S.C. 632
+
+July 31, 1956, ch. 804, § 201(b)
+
+70 Stat. 742
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 399](https://www.govinfo.gov/link/statute/80/399); [Pub. L. 95–454, title II, § 201(a)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1119](https://www.govinfo.gov/link/statute/92/1119); [Pub. L. 99–251, title III](https://www.govinfo.gov/link/plaw/99/public/251), §§ 301, 302, Feb. 27, 1986, [100 Stat. 26](https://www.govinfo.gov/link/statute/100/26); [Pub. L. 107–296, title XIII, § 1304](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2289](https://www.govinfo.gov/link/statute/116/2289).)*

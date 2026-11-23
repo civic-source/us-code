@@ -3,9 +3,10 @@ title: "Section 40301 - State grant program for criminal justice identification,
 usc_title: 34
 usc_section: "40301"
 chapter: 403
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 40301"
-generated_at: "2026-03-30T02:55:33.308Z"
+generated_at: "2026-11-23T20:26:50.639Z"
+status: "active"
 ---
 
 # § 40301. State grant program for criminal justice identification, information, and communication
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:55:33.308Z"
     - **(B)** not more than 5 percent may be used for technical assistance, training and evaluations, and studies commissioned by Bureau of Justice Statistics of the Department of Justice (through discretionary grants or otherwise) in furtherance of the purposes of this section; and
     - **(C)** the Attorney General shall ensure the amounts are distributed on an equitable geographic basis.
 - **(f)** Notwithstanding any other provision of this section, the Attorney General may use amounts made available under this section to make grants to Indian tribes for use in accordance with this section.
+
+## Source Credit
+
+*([Pub. L. 105–251, title I, § 102](https://www.govinfo.gov/link/plaw/105/public/251), Oct. 9, 1998, [112 Stat. 1871](https://www.govinfo.gov/link/statute/112/1871); [Pub. L. 106–177, title I, § 102](https://www.govinfo.gov/link/plaw/106/public/177), Mar. 10, 2000, [114 Stat. 35](https://www.govinfo.gov/link/statute/114/35); [Pub. L. 106–561, § 2(c)(4)](https://www.govinfo.gov/link/plaw/106/public/561), Dec. 21, 2000, [114 Stat. 2791](https://www.govinfo.gov/link/statute/114/2791); [Pub. L. 107–56, title X, § 1015](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 400](https://www.govinfo.gov/link/statute/115/400); [Pub. L. 109–162, title XI, § 1111(c)(1)](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3101](https://www.govinfo.gov/link/statute/119/3101); [Pub. L. 115–141, div. S, title VI, § 604(a)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1136](https://www.govinfo.gov/link/statute/132/1136).)*

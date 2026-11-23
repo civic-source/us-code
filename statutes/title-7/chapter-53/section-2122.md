@@ -3,12 +3,17 @@ title: "Section 2122 - Authorization of appropriations for cotton ginning studie
 usc_title: 7
 usc_section: "2122"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2122"
-generated_at: "2026-03-30T02:53:42.377Z"
+generated_at: "2026-11-23T20:25:41.482Z"
+status: "active"
 ---
 
 # § 2122. Authorization of appropriations for cotton ginning studies
 
 For the purposes of section 2121 of this title there is authorized to be appropriated, after June 30, 1931 , out of any money in the Treasury not otherwise appropriated, such sums as may be necessary.
 
+
+## Source Credit
+
+*(Apr. 19, 1930, ch. 203, § 2, [46 Stat. 248](https://www.govinfo.gov/link/statute/46/248).)*

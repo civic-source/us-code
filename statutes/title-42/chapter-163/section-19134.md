@@ -3,9 +3,10 @@ title: "Section 19134 - Advisory committee on engineering biology research and d
 usc_title: 42
 usc_section: "19134"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 19134"
-generated_at: "2026-03-30T02:56:11.541Z"
+generated_at: "2026-11-23T20:27:23.858Z"
+status: "active"
 ---
 
 # § 19134. Advisory committee on engineering biology research and development
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.541Z"
   - **(2)** The advisory committee’s recommendations for ways to improve the Initiative.
 - **(d)** Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) 1 1 See References in Text note below. shall not apply to the advisory committee.
 - **(e)** The advisory committee established under subsection (a) shall terminate on the date that is 10 years after August 9, 2022 .
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title IV, § 10404](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1605](https://www.govinfo.gov/link/statute/136/1605).)*

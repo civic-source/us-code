@@ -3,9 +3,10 @@ title: "Section 660 - Judicial review"
 usc_title: 29
 usc_section: "660"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 660"
-generated_at: "2026-03-30T02:55:18.688Z"
+generated_at: "2026-11-23T20:26:37.836Z"
+status: "active"
 ---
 
 # § 660. Judicial review
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:18.688Z"
   - **(1)** No person shall discharge or in any manner discriminate against any employee because such employee has filed any complaint or instituted or caused to be instituted any proceeding under or related to this chapter or has testified or is about to testify in any such proceeding or because of the exercise by such employee on behalf of himself or others of any right afforded by this chapter.
   - **(2)** Any employee who believes that he has been discharged or otherwise discriminated against by any person in violation of this subsection may, within thirty days after such violation occurs, file a complaint with the Secretary alleging such discrimination. Upon receipt of such complaint, the Secretary shall cause such investigation to be made as he deems appropriate. If upon such investigation, the Secretary determines that the provisions of this subsection have been violated, he shall bring an action in any appropriate United States district court against such person. In any such action the United States district courts shall have jurisdiction, for cause shown to restrain violations of paragraph (1) of this subsection and order all appropriate relief including rehiring or reinstatement of the employee to his former position with back pay.
   - **(3)** Within 90 days of the receipt of a complaint filed under this subsection the Secretary shall notify the complainant of his determination under paragraph (2) of this subsection.
+
+## Source Credit
+
+*([Pub. L. 91–596, § 11](https://www.govinfo.gov/link/plaw/91/public/596), Dec. 29, 1970, [84 Stat. 1602](https://www.govinfo.gov/link/statute/84/1602); [Pub. L. 98–620, title IV, § 402(32)](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3360](https://www.govinfo.gov/link/statute/98/3360).)*

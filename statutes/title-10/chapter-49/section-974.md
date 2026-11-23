@@ -3,9 +3,10 @@ title: "Section 974 - Military musical units and musicians: performance policies
 usc_title: 10
 usc_section: "974"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 974"
-generated_at: "2026-03-30T02:53:38.091Z"
+generated_at: "2026-11-23T20:25:51.160Z"
+status: "active"
 ---
 
 # § 974. Military musical units and musicians: performance policies; restriction on performance in competition with local civilian musicians
@@ -43,3 +44,19 @@ generated_at: "2026-03-30T02:53:38.091Z"
   - **(2)** Any contribution of money under paragraph (1) shall be credited to the appropriation or account providing the funds for such military musical unit. Any amount so credited shall be merged with amounts in the appropriation or account to which credited, and shall be available for the same purposes, and subject to the same conditions and limitations, as amounts in such appropriation or account.
 - **(e)** Subsection (a) does not apply to a performance outside the United States, its commonwealths, or its possessions.
 - **(f)** In this section, the term “military musical unit” means a band, ensemble, chorus, or similar musical unit of the armed forces.
+
+Military Musicians Performing in an Official Capacity
+
+Prohibition of Military Musicians Accepting Additional Remuneration for Official Performances
+
+Recordings
+
+Private Donations
+
+Performances at Foreign Locations
+
+Military Musical Unit Defined
+
+## Source Credit
+
+*(Added [Pub. L. 110–181, div. A, title V, § 590(a)(1)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 136](https://www.govinfo.gov/link/statute/122/136); amended [Pub. L. 111–84, div. A, title V, § 591(a)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2335](https://www.govinfo.gov/link/statute/123/2335); [Pub. L. 113–66, div. A, title III, § 351](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 741](https://www.govinfo.gov/link/statute/127/741); [Pub. L. 115–91, div. A, title X, § 1051(a)(4)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1560](https://www.govinfo.gov/link/statute/131/1560).)*

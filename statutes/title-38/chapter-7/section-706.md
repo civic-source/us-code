@@ -3,9 +3,10 @@ title: "Section 706 - Additional authority relating to recruitment and retention
 usc_title: 38
 usc_section: "706"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 706"
-generated_at: "2026-03-30T02:55:53.474Z"
+generated_at: "2026-11-23T20:27:01.577Z"
+status: "active"
 ---
 
 # § 706. Additional authority relating to recruitment and retention of personnel
@@ -62,3 +63,65 @@ generated_at: "2026-03-30T02:55:53.474Z"
     - **(B)** “level II of the Executive Schedule” shall be substituted for “level IV of the Executive Schedule”.
 - **(j)** The Secretary may waive the limitation in section 5307 of title 5 for an employee or a payment.
 - **(k)** The authorities under this section shall terminate on September 30, 2027 .
+
+Recruitment and Relocation Bonuses
+
+Retention Bonuses
+
+Merit Awards
+
+Incentives for Critical Skills
+
+(aa) The Under Secretary for Benefits, the Under Secretary for Health, or the Under Secretary for Memorial Affairs.
+
+(bb) The Assistant Secretary for Human Resources and Administration.
+
+(cc) The Director of the Office of Management or the Chief Financial Officer.
+
+(dd) The Assistant Secretary for Accountability and Whistleblower Protection.
+
+(ee) The General Counsel.
+
+(ff) Such other officers as the Secretary determines appropriate.
+
+Student Loan Repayments
+
+Expedited Hiring Authority for College Graduates; Competitive Service
+
+Expedited Hiring Authority for Post-secondary Students; Competitive Service
+
+Pay Authority for Critical Positions
+
+Rates of Special Pay
+
+Waiver of Limitations on Certain Payments Under Pay Comparability System
+
+Termination
+
+Establishment
+
+Benefits: Student Loan Repayment; Reimbursements.—
+
+In general
+
+Agreement
+
+Professional Development Activities.—
+
+Mentorship
+
+Assignments
+
+Other rotational assignments
+
+Periodic Reports.—
+
+Reports required
+
+Elements
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 117–168, title IX, § 909](https://www.govinfo.gov/link/plaw/117/public/168), Aug. 10, 2022, [136 Stat. 1815](https://www.govinfo.gov/link/statute/136/1815); amended [Pub. L. 119–33, § 1(c)](https://www.govinfo.gov/link/plaw/119/public/33), Aug. 14, 2025, [139 Stat. 484](https://www.govinfo.gov/link/statute/139/484).)*

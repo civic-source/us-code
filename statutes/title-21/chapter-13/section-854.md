@@ -3,9 +3,10 @@ title: "Section 854 - Investment of illicit drug profits"
 usc_title: 21
 usc_section: "854"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 854"
-generated_at: "2026-03-30T02:54:54.296Z"
+generated_at: "2026-11-23T20:26:27.843Z"
+status: "active"
 ---
 
 # § 854. Investment of illicit drug profits
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:54.296Z"
 - **(b)** Whoever violates this section shall be fined not more than $50,000 or imprisoned not more than ten years, or both.
 - **(c)** As used in this section, the term “enterprise” includes any individual, partnership, corporation, association, or other legal entity, and any union or group of individuals associated in fact although not a legal entity.
 - **(d)** The provisions of this section shall be liberally construed to effectuate its remedial purposes.
+
+## Source Credit
+
+*([Pub. L. 91–513, title II, § 414](https://www.govinfo.gov/link/plaw/91/public/513), as added [Pub. L. 98–473, title II, § 303](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2049](https://www.govinfo.gov/link/statute/98/2049).)*

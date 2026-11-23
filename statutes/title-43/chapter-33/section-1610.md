@@ -3,9 +3,10 @@ title: "Section 1610 - Withdrawal of public lands"
 usc_title: 43
 usc_section: "1610"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1610"
-generated_at: "2026-03-30T02:55:57.479Z"
+generated_at: "2026-11-23T20:27:06.321Z"
+status: "active"
 ---
 
 # § 1610. Withdrawal of public lands
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:57.479Z"
   - **(3)** Native villages not listed in subsection (b)(1) hereof shall be eligible for land and benefits under this chapter and lands shall be withdrawn pursuant to this section if the Secretary within two and one-half years from December 18, 1971 , determines that—
     - **(A)** twenty-five or more Natives were residents of an established village on the 1970 census enumeration date as shown by the census or other evidence satisfactory to the Secretary, who shall make findings of fact in each instance; and
     - **(B)** the village is not of a modern and urban character, and a majority of the residents are Natives.
+
+## Source Credit
+
+*([Pub. L. 92–203, § 11](https://www.govinfo.gov/link/plaw/92/public/203), Dec. 18, 1971, [85 Stat. 696](https://www.govinfo.gov/link/statute/85/696).)*

@@ -3,9 +3,10 @@ title: "Section 30120 - Remedies for defects and noncompliance"
 usc_title: 49
 usc_section: "30120"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 30120"
-generated_at: "2026-03-30T02:56:19.351Z"
+generated_at: "2026-11-23T20:27:34.897Z"
+status: "active"
 ---
 
 # § 30120. Remedies for defects and noncompliance
@@ -68,3 +69,144 @@ generated_at: "2026-03-30T02:56:19.351Z"
       - **(i)** the total number of recalls issued by the manufacturer during the year covered by the list;
       - **(ii)** the estimated number of vehicles of the manufacturer subject to recall during the year covered by the list; and
       - **(iii)** the percentage of vehicles that have been remedied.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30120(a) | 15:1397(a)(1)(D) (related to 15:1414(a)(1) (1st sentence), (2)). | Sept. 9, 1966 , Pub. L. 89–563, § 108(a)(1)(D) (related to §§ 154(a), (b)(1), (2) (1st sentence), (c), 156, 157), 80 Stat. 722 ; restated Oct. 27, 1974 , Pub. L. 93–492, § 103(a)(1)(A) , (3), 88 Stat. 1477 , 1478. |
+|  | 15:1414(a)(1) (1st sentence), (2). | Sept. 9, 1966 , Pub. L. 89–563 , 80 Stat. 718 , §§ 154(a), (b)(1), (2) (1st sentence), (c), 156 (related to remedy), 157 (related to remedy); added Oct. 27, 1974 , Pub. L. 93–492, § 102(a) , 88 Stat. 1472 , 1474, 1475. |
+| 30120(b) | 15:1397(a)(1)(D) (related to 15:1414(a)(5)). |  |
+|  | 15:1414(a)(5). |  |
+| 30120(c) | 15:1397(a)(1)(D) (related to 15:1414(b)(1), (2) (1st sentence)). |  |
+|  | 15:1414(b)(1), (2) (1st sentence). |  |
+| 30120(d) | 15:1397(a)(1)(D) (related to 15:1414(c)). |  |
+|  | 15:1414(c). |  |
+| 30120(e) | 15:1397(a)(1)(D) (related to 15:1416). |  |
+|  | 15:1416 (related to remedy). |  |
+| 30120(f) | 15:1397(a)(1)(D) (related to 15:1414(a)(3)). |  |
+|  | 15:1414(a)(3). |  |
+| 30120(g)(1) | 15:1397(a)(1)(D) (related to 15:1414(a)(4)). |  |
+|  | 15:1414(a)(4). |  |
+| 30120(g)(2) | 15:1397(a)(1)(D) (related to 15:1414(a)(1) (last sentence)). |  |
+|  | 15:1414(a)(1) (last sentence). |  |
+| 30120(h) | 15:1397(a)(1)(D) (related to 15:1417). |  |
+|  | 15:1417 (related to remedy). |  |
+| 30120(i) | 15:1414(d). | Sept. 9, 1966 , Pub. L. 89–563 , 80 Stat. 718 , § 154(d); added Dec. 18, 1991 , Pub. L. 102–240, § 2504(b) , 105 Stat. 2083 . |
+
+
+Ways To Remedy
+
+Tire Remedies
+
+Adequacy of Repairs
+
+Filing Manufacturer’s Remedy Program
+
+Hearings About Meeting Remedy Requirements
+
+Fair Reimbursement to Dealers.—
+
+In general
+
+Definition of open recall
+
+Nonapplication
+
+Exemptions
+
+Limitation on Sale or Lease of New Vehicles or Equipment, or Rental.—
+
+In general
+
+Rule of construction
+
+Specific rules for rental companies.—
+
+In general
+
+Special rule for large vehicle fleets
+
+Special rule for when remedies not immediately available
+
+Inapplicability to junk automobiles
+
+Prohibition on Sales of Replacement Equipment
+
+Recall Completion Rates.—
+
+In general
+
+Requirements
+
+Historical and Revision Notes
+
+30120(a)
+
+Sept. 9, 1966
+
+Pub. L. 89–563, § 108(a)(1)(D)
+
+80 Stat. 722
+
+Oct. 27, 1974
+
+Pub. L. 93–492, § 103(a)(1)(A)
+
+88 Stat. 1477
+
+Sept. 9, 1966
+
+Pub. L. 89–563
+
+80 Stat. 718
+
+Oct. 27, 1974
+
+Pub. L. 93–492, § 102(a)
+
+88 Stat. 1472
+
+30120(b)
+
+30120(c)
+
+30120(d)
+
+30120(e)
+
+30120(f)
+
+30120(g)(1)
+
+30120(g)(2)
+
+30120(h)
+
+30120(i)
+
+Sept. 9, 1966
+
+Pub. L. 89–563
+
+80 Stat. 718
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 2504(b)
+
+105 Stat. 2083
+
+(1) in general
+
+In general
+
+replacement
+
+replaced
+
+Replacement
+
+Replaced
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 952](https://www.govinfo.gov/link/statute/108/952); [Pub. L. 105–178, title VII, § 7106(a)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 467](https://www.govinfo.gov/link/statute/112/467); [Pub. L. 106–414](https://www.govinfo.gov/link/plaw/106/public/414), §§ 4, 6–8, Nov. 1, 2000, [114 Stat. 1803–1805](https://www.govinfo.gov/link/statute/114/1803); [Pub. L. 112–141, div. C, title I, § 31311](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 771](https://www.govinfo.gov/link/statute/126/771); [Pub. L. 114–94, div. B, title XXIV](https://www.govinfo.gov/link/plaw/114/public/94), §§ 24107, 24108, 24109(c), 24402, Dec. 4, 2015, [129 Stat. 1705](https://www.govinfo.gov/link/statute/129/1705), 1706, 1720; [Pub. L. 117–58, div. B, title IV, § 24202(b)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 819](https://www.govinfo.gov/link/statute/135/819).)*

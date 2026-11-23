@@ -3,9 +3,10 @@ title: "Section 717a - Definitions"
 usc_title: 15
 usc_section: "717a"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 717a"
-generated_at: "2026-03-30T02:54:08.117Z"
+generated_at: "2026-11-23T20:26:03.899Z"
+status: "active"
 ---
 
 # § 717a. Definitions
@@ -25,3 +26,7 @@ When used in this chapter, unless the context otherwise requires—
   - **(11)** “LNG terminal” includes all natural gas facilities located onshore or in State waters that are used to receive, unload, load, store, transport, gasify, liquefy, or process natural gas that is imported to the United States from a foreign country, exported to a foreign country from the United States, or transported in interstate commerce by waterborne vessel, but does not include—
     - **(A)** waterborne vessels used to deliver natural gas to or from any such facility; or
     - **(B)** any pipeline or storage facility subject to the jurisdiction of the Commission under section 717f of this title .
+
+## Source Credit
+
+*(June 21, 1938, ch. 556, § 2, [52 Stat. 821](https://www.govinfo.gov/link/statute/52/821); [Pub. L. 102–486, title IV, § 404(a)(2)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2879](https://www.govinfo.gov/link/statute/106/2879); [Pub. L. 109–58, title III, § 311(b)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 685](https://www.govinfo.gov/link/statute/119/685).)*

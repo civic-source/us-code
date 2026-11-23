@@ -3,9 +3,10 @@ title: "Section 2996f - Grants and contracts"
 usc_title: 42
 usc_section: "2996f"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2996f"
-generated_at: "2026-03-30T02:56:11.169Z"
+generated_at: "2026-11-23T20:27:22.181Z"
+status: "active"
 ---
 
 # § 2996f. Grants and contracts
@@ -59,3 +60,7 @@ generated_at: "2026-03-30T02:56:11.169Z"
   - **(3)** migrants or seasonal farm workers,
   - **(4)** persons with limited English-speaking abilities, and
   - **(5)** persons in sparsely populated areas where a harsh climate and an inadequate transportation system are significant impediments to receipt of legal services 2 2 So in original. Probably should be followed by a comma.
+
+## Source Credit
+
+*([Pub. L. 88–452, title X, § 1007](https://www.govinfo.gov/link/plaw/88/public/452), as added [Pub. L. 93–355, § 2](https://www.govinfo.gov/link/plaw/93/public/355), July 25, 1974, [88 Stat. 383](https://www.govinfo.gov/link/statute/88/383); amended [Pub. L. 95–222](https://www.govinfo.gov/link/plaw/95/public/222), §§ 7(b), 9(a), (b)(1), (c), 10–13, Dec. 28, 1977, [91 Stat. 1620–1623](https://www.govinfo.gov/link/statute/91/1620); [Pub. L. 105–12, § 9](https://www.govinfo.gov/link/plaw/105/public/12) (o), Apr. 30, 1997, [111 Stat. 28](https://www.govinfo.gov/link/statute/111/28); [Pub. L. 106–185, § 2(d)](https://www.govinfo.gov/link/plaw/106/public/185), Apr. 25, 2000, [114 Stat. 211](https://www.govinfo.gov/link/statute/114/211); [Pub. L. 111–211, title II, § 234(d)](https://www.govinfo.gov/link/plaw/111/public/211), July 29, 2010, [124 Stat. 2282](https://www.govinfo.gov/link/statute/124/2282).)*

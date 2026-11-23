@@ -3,9 +3,10 @@ title: "Section 742d - Investigations; preparation and dissemination of informat
 usc_title: 16
 usc_section: "742d"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 742d"
-generated_at: "2026-03-30T02:54:22.903Z"
+generated_at: "2026-11-23T20:26:20.258Z"
+status: "active"
 ---
 
 # § 742d. Investigations; preparation and dissemination of information; reports
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:22.903Z"
   - **(5)** The collection and dissemination of statistics on the nature and availability of wildlife, progress in acquisition of additional refuges and measures being taken to foster a coordinated program to encourage and develop wildlife values;
   - **(6)** The improvement of production and marketing practices in regard to commercial species and the conduct of educational and extension services relative to commercial and sport fishing, and wildlife matters;
   - **(7)** Any other matters which in the judgment of the Secretary are of public interest in connection with any phases of fish and wildlife operations.
+
+## Source Credit
+
+*(Aug. 8, 1956, ch. 1036, § 5, [70 Stat. 1121](https://www.govinfo.gov/link/statute/70/1121).)*

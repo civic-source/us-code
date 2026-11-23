@@ -3,9 +3,10 @@ title: "Section 783 - Additional powers of trustee"
 usc_title: 11
 usc_section: "783"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 783"
-generated_at: "2026-03-30T02:53:53.883Z"
+generated_at: "2026-11-23T20:25:55.393Z"
+status: "active"
 ---
 
 # § 783. Additional powers of trustee
@@ -20,3 +21,13 @@ generated_at: "2026-03-30T02:53:53.883Z"
     - **(A)** the bridge depository institution to which such assets or liabilities are transferred shall be treated as a clearing bank for the purpose of this subsection; and
     - **(B)** any references in any such provision of law to the Federal Deposit Insurance Corporation shall be construed to be references to the appointing agency and that references to deposit insurance shall be omitted.
 - **(c)** Any reference in this section to transfers of liabilities includes a ratable transfer of liabilities within a priority class.
+
+Distribution of Property Not of the Estate
+
+Disposition of Institution
+
+Certain Transfers Included
+
+## Source Credit
+
+*(Added [Pub. L. 106–554, § 1(a)(5) [title I, § 112(c)(5)(B)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–395; amended [Pub. L. 110–289, div. A, title VI, § 1604(b)(3)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2829](https://www.govinfo.gov/link/statute/122/2829).)*

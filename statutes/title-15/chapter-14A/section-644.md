@@ -3,9 +3,10 @@ title: "Section 644 - Awards or contracts"
 usc_title: 15
 usc_section: "644"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 644"
-generated_at: "2026-03-30T02:54:08.100Z"
+generated_at: "2026-11-23T20:26:03.802Z"
+status: "active"
 ---
 
 # § 644. Awards or contracts
@@ -115,7 +116,7 @@ generated_at: "2026-03-30T02:54:08.100Z"
     - **(F)**
       - **(i)** Each procurement employee or program manager described in clause (ii) shall communicate to the subordinates of the procurement employee or program manager the importance of achieving goals established under subparagraph (A).
       - **(ii)** A procurement employee or program manager described in this clause is a senior procurement executive, senior program manager, or Director of Small and Disadvantaged Business Utilization of a Federal agency having contracting authority.
-  - **(3)** First tier subcontracts that are awarded by Management and Operating contractors sponsored by the Department of Energy to small business concerns, small businesses 1 1 So in original. Probably should be “business”. concerns owned and controlled by service disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women, shall be considered toward the annually established agency and Government-wide goals for procurement contracts awarded.
+  - **(3)** First tier subcontracts that are awarded by Management and Operating contractors sponsored by the Department of Energy and by site support prime contractors at the National Energy Technology Laboratory to small business concerns, small businesses 1 1 So in original. Probably should be “business”. concerns owned and controlled by service disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women, shall be considered toward the annually established agency and Government-wide goals for procurement contracts awarded.
 - **(h)**
   - **(1)** At the conclusion of each fiscal year, the head of each Federal agency shall submit to the Administrator a report describing—
     - **(A)** the extent of the participation by small business concerns, small business concerns owned and controlled by veterans (including service-disabled veterans), qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women in the procurement contracts of such agency during such fiscal year;
@@ -387,3 +388,167 @@ generated_at: "2026-03-30T02:54:08.100Z"
   - **(6)** In this subsection, the term “scorecard” means any summary using a rating system to evaluate the efforts of a Federal agency to meet goals established under subsection (g)(1)(B) that—
     - **(A)** includes the measures described in paragraph (2); and
     - **(B)** assigns a score to each Federal agency evaluated.
+
+Governmentwide goals.—
+
+Establishment
+
+Achievement of governmentwide goals
+
+Assignment and role
+
+Activities
+
+Appeals
+
+Position requirements.—
+
+In general
+
+Compensation
+
+Certification requirements.—
+
+In general
+
+Delay of certification requirements.—
+
+Timing
+
+Application
+
+(aa) be included in any initial job posting for the position of a procurement center representative; and
+
+(bb) apply to any person appointed as a procurement center representative after January 3, 2013 .
+
+Major procurement center defined
+
+Training.—
+
+Authorization
+
+Limitation
+
+Annual briefing and report
+
+Scope of review
+
+(aa) the justification for the bundling of contract requirements or the consolidation of contract requirements (as applicable);
+
+(bb) the cost savings realized by the bundling of contract requirements or the consolidation of contract requirements (as applicable) over the life of the contract;
+
+(cc) the extent to which maintaining contract requirements in a bundled or consolidated contract is projected to result in continued cost savings;
+
+(dd) the extent to which the bundling of contract requirements or the consolidation of contract requirements (as applicable) complied with the contracting agency’s small business subcontracting plan, including the total dollar value awarded to small business concerns as subcontractors and the total dollar value previously awarded to small business concerns as prime contractors; and
+
+(ee) the impact of the bundling of contract requirements or the consolidation of contract requirements (as applicable) on small business concerns unable to compete as prime contractors for the contract and on the industries of such small business concerns, including a description of any changes to the proportion of any such industry that is composed of small business concerns.
+
+“The amendment made by subsection (a) [amending this section] shall take effect on the ninetieth day after the date of the enactment of this Act [ Apr. 7, 1986 ].
+
+Definitions
+
+Administrator
+
+Small business concern; small business concerns owned and controlled by service-disabled veterans
+
+Eliminating Self-Certification in Prime Contracting and Subcontracting for SDVOSBs.—
+
+In general
+
+Effective date
+
+Phased Approach to Eliminating Self-Certification for SDVOSBs
+
+Rulemaking
+
+Report
+
+Specified Date Defined
+
+“Not later than 180 days after the date of the enactment of this part [ Jan. 2, 2013 ], the Administrator of the Small Business Administration shall review and revise the Goaling Guidelines for the Small Business Preference Programs for Prime and Subcontract Federal Procurement Goals and Achievements to the extent necessary to ensure that—
+
+In general
+
+Report
+
+Definitions
+
+Establishment
+
+Grants
+
+Contracting Opportunities
+
+Report
+
+Termination
+
+Authorization of Appropriations
+
+Regulations Required
+
+Rule of Construction
+
+Definition
+
+Procurement Procedures Authorized
+
+Implementation Through the Federal Acquisition Regulation.—
+
+In general
+
+Matters to be addressed
+
+Termination
+
+“The amendment made by this section [repealing sections 701–722 of Pub. L. 100–656 , formerly set out above, and section 741 of Pub. L. 100–656 , formerly set out below]—
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+William J. Clinton.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+William J. Clinton.
+
+George Bush.
+
+William J. Clinton.
+
+## Source Credit
+
+*([Pub. L. 85–536, § 2[15]](https://www.govinfo.gov/link/plaw/85/public/536), July 18, 1958, [72 Stat. 395](https://www.govinfo.gov/link/statute/72/395); [Pub. L. 95–89, title V, § 502](https://www.govinfo.gov/link/plaw/95/public/89), Aug. 4, 1977, [91 Stat. 562](https://www.govinfo.gov/link/statute/91/562); [Pub. L. 95–507, title II](https://www.govinfo.gov/link/plaw/95/public/507), §§ 221, 232, 233, Oct. 24, 1978, [92 Stat. 1770](https://www.govinfo.gov/link/statute/92/1770), 1772; [Pub. L. 96–302, title I](https://www.govinfo.gov/link/plaw/96/public/302), §§ 116, 117, July 2, 1980, [94 Stat. 839](https://www.govinfo.gov/link/statute/94/839); [Pub. L. 98–577, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/98/public/577), Oct. 30, 1984, [98 Stat. 3080](https://www.govinfo.gov/link/statute/98/3080); [Pub. L. 99–272, title XVIII, § 18003(a)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 363](https://www.govinfo.gov/link/statute/100/363); [Pub. L. 99–500, § 101(c) [title X, §§ 903(d), 921(a), (b)(1), (c)(2)–(e), 922(c)]](https://www.govinfo.gov/link/plaw/99/public/500), Oct. 18, 1986, [100 Stat. 1783–82](https://www.govinfo.gov/link/statute/100/1783), 1783–132, 1783–147 to 1783–149, 1783–152, and [Pub. L. 99–591, § 101(c) [title X, §§ 903(d), 921(a), (b)(1), (c)(2)–(e), 922(c)]](https://www.govinfo.gov/link/plaw/99/public/591), Oct. 30, 1986, [100 Stat. 3341–82](https://www.govinfo.gov/link/statute/100/3341), 3341–132, 3341–147 to 3341–149, 3341–152; [Pub. L. 99–661, div. A, title IX](https://www.govinfo.gov/link/plaw/99/public/661), formerly title IV, §§ 903(d), 921(a), (b)(1), (c)(2)–(e), 922(c), Nov. 14, 1986, [100 Stat. 3912](https://www.govinfo.gov/link/statute/100/3912), 3926–3928, 3932, renumbered title IX, [Pub. L. 100–26, § 3(5)](https://www.govinfo.gov/link/plaw/100/public/26), Apr. 21, 1987, [101 Stat. 273](https://www.govinfo.gov/link/statute/101/273); [Pub. L. 100–26, § 10(a)(1)](https://www.govinfo.gov/link/plaw/100/public/26), (b)(1), Apr. 21, 1987, [101 Stat. 288](https://www.govinfo.gov/link/statute/101/288); [Pub. L. 100–180, div. A, title VIII, § 809(a)](https://www.govinfo.gov/link/plaw/100/public/180) –(c), Dec. 4, 1987, [101 Stat. 1130](https://www.govinfo.gov/link/statute/101/1130); [Pub. L. 100–496, § 12](https://www.govinfo.gov/link/plaw/100/public/496), Oct. 17, 1988, [102 Stat. 2465](https://www.govinfo.gov/link/statute/102/2465); [Pub. L. 100–590, title I](https://www.govinfo.gov/link/plaw/100/public/590), §§ 110, 133(a), Nov. 3, 1988, [102 Stat. 2994](https://www.govinfo.gov/link/statute/102/2994), 3005; [Pub. L. 100–656, title V](https://www.govinfo.gov/link/plaw/100/public/656), §§ 502, 503, title VI, §§ 601, 603, Nov. 15, 1988, [102 Stat. 3881](https://www.govinfo.gov/link/statute/102/3881), 3887, 3888; [Pub. L. 101–37](https://www.govinfo.gov/link/plaw/101/public/37), §§ 19, 21, June 15, 1989, [103 Stat. 74](https://www.govinfo.gov/link/statute/103/74), 75; [Pub. L. 101–510, div. A, title VIII, § 806(e)(3)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1593](https://www.govinfo.gov/link/statute/104/1593); [Pub. L. 101–574, title II, § 208](https://www.govinfo.gov/link/plaw/101/public/574), Nov. 15, 1990, [104 Stat. 2820](https://www.govinfo.gov/link/statute/104/2820); [Pub. L. 102–190, div. A, title VIII, § 806(d)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1419](https://www.govinfo.gov/link/statute/105/1419); [Pub. L. 102–366, title II, § 232(b)](https://www.govinfo.gov/link/plaw/102/public/366), Sept. 4, 1992, [106 Stat. 1002](https://www.govinfo.gov/link/statute/106/1002); [Pub. L. 102–484, div. A, title VIII, § 801(h)(8)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2446](https://www.govinfo.gov/link/statute/106/2446); [Pub. L. 102–569, title IX, § 911(b)](https://www.govinfo.gov/link/plaw/102/public/569), Oct. 29, 1992, [106 Stat. 4486](https://www.govinfo.gov/link/statute/106/4486); [Pub. L. 103–355, title IV, § 4004](https://www.govinfo.gov/link/plaw/103/public/355), title VII, §§ 7101(a), 7106(a), Oct. 13, 1994, [108 Stat. 3338](https://www.govinfo.gov/link/statute/108/3338), 3367, 3374; [Pub. L. 103–403, title III, § 305](https://www.govinfo.gov/link/plaw/103/public/403), Oct. 22, 1994, [108 Stat. 4189](https://www.govinfo.gov/link/statute/108/4189); [Pub. L. 104–106, div. D, title XLIII, § 4321(c)(3)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 674](https://www.govinfo.gov/link/statute/110/674); [Pub. L. 105–135, title IV, § 413](https://www.govinfo.gov/link/plaw/105/public/135), title VI, § 603(b), Dec. 2, 1997, [111 Stat. 2618](https://www.govinfo.gov/link/statute/111/2618), 2632; [Pub. L. 106–50, title V, § 502](https://www.govinfo.gov/link/plaw/106/public/50), title VI, § 601, Aug. 17, 1999, [113 Stat. 247](https://www.govinfo.gov/link/statute/113/247), 248; [Pub. L. 106–554, § 1(a)(9) [title VIII, §§ 806(a), 810]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–706; [Pub. L. 111–240, title I](https://www.govinfo.gov/link/plaw/111/public/240), §§ 1312(a), (b), 1331, 1333, 1346, 1347(b)(2), Sept. 27, 2010, [124 Stat. 2537](https://www.govinfo.gov/link/statute/124/2537), 2541, 2542, 2546, 2547; [Pub. L. 112–239, div. A, title XVI](https://www.govinfo.gov/link/plaw/112/public/239), §§ 1621, 1623, 1631(a), (b), 1632, 1691, 1696(a), (b)(3), Jan. 2, 2013, [126 Stat. 2067](https://www.govinfo.gov/link/statute/126/2067), 2069–2071, 2073, 2087, 2090, 2091; [Pub. L. 113–66, div. A, title XVI, § 1613](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 948](https://www.govinfo.gov/link/statute/127/948); [Pub. L. 113–76, div. D, title III, § 318](https://www.govinfo.gov/link/plaw/113/public/76), Jan. 17, 2014, [128 Stat. 178](https://www.govinfo.gov/link/statute/128/178); [Pub. L. 113–291, div. A, title VIII](https://www.govinfo.gov/link/plaw/113/public/291), §§ 822(a), 825(b), Dec. 19, 2014, [128 Stat. 3435](https://www.govinfo.gov/link/statute/128/3435), 3438; [Pub. L. 114–88, div. B, title I, § 2108](https://www.govinfo.gov/link/plaw/114/public/88), Nov. 25, 2015, [129 Stat. 694](https://www.govinfo.gov/link/statute/129/694); [Pub. L. 114–92, div. A, title VIII](https://www.govinfo.gov/link/plaw/114/public/92), §§ 862(a), 863(a), 865(c), 867, 868(a), 870, Nov. 25, 2015, [129 Stat. 925](https://www.govinfo.gov/link/statute/129/925), 926, 928, 932, 933, 938; [Pub. L. 114–187, title IV, § 408](https://www.govinfo.gov/link/plaw/114/public/187), June 30, 2016, [130 Stat. 592](https://www.govinfo.gov/link/statute/130/592); [Pub. L. 114–328, div. A, title XVIII](https://www.govinfo.gov/link/plaw/114/public/328), §§ 1801, 1802, 1811–1813(a), (c), (d), 1814(a), 1821(b), Dec. 23, 2016, [130 Stat. 2648](https://www.govinfo.gov/link/statute/130/2648), 2650–2654; [Pub. L. 115–91, div. A, title XVII](https://www.govinfo.gov/link/plaw/115/public/91), §§ 1702(a), (c), 1703(a), Dec. 12, 2017, [131 Stat. 1803](https://www.govinfo.gov/link/statute/131/1803); [Pub. L. 115–232, div. A, title VIII](https://www.govinfo.gov/link/plaw/115/public/232), §§ 812(a)(2)(C)(viii), 855, 861(b), Aug. 13, 2018, [132 Stat. 1847](https://www.govinfo.gov/link/statute/132/1847), 1890, 1896; [Pub. L. 116–92, div. A, title VIII](https://www.govinfo.gov/link/plaw/116/public/92), §§ 871, 875, 880(d), (e), Dec. 20, 2019, [133 Stat. 1525](https://www.govinfo.gov/link/statute/133/1525), 1528, 1532; [Pub. L. 116–283, div. A, title VIII](https://www.govinfo.gov/link/plaw/116/public/283), §§ 866(a)(2), 868(a), Jan. 1, 2021, [134 Stat. 3785](https://www.govinfo.gov/link/statute/134/3785), 3787; [Pub. L. 117–81, div. A, title XVII, § 1702(e)(5)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2157](https://www.govinfo.gov/link/statute/135/2157); [Pub. L. 117–263, div. A, title VIII](https://www.govinfo.gov/link/plaw/117/public/263), §§ 871, 873, Dec. 23, 2022, [136 Stat. 2738](https://www.govinfo.gov/link/statute/136/2738), 2740; [Pub. L. 118–31, div. A, title VIII, § 863](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 347](https://www.govinfo.gov/link/statute/137/347); [Pub. L. 119–74, div. B, title III, § 310](https://www.govinfo.gov/link/plaw/119/public/74), Jan. 23, 2026, [140 Stat. 87](https://www.govinfo.gov/link/statute/140/87).)*

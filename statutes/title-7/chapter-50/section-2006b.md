@@ -3,9 +3,10 @@ title: "Section 2006b - Loan assessments"
 usc_title: 7
 usc_section: "2006b"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2006b"
-generated_at: "2026-03-30T02:53:42.354Z"
+generated_at: "2026-11-23T20:25:41.385Z"
+status: "active"
 ---
 
 # § 2006b. Loan assessments
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:42.354Z"
   - **(2)** The Secretary may contract with an entity that is eligible to provide borrower training under section 2006a(b) of this title to conduct loan reviews under paragraph (1).
   - **(3)** If a borrower is delinquent in payments on a direct or guaranteed loan made under this chapter, the Secretary or the contracting entity shall determine the cause of, and action necessary to correct, the delinquency.
 - **(e)** The Secretary shall issue regulations providing guidelines for loan assessments conducted under this section.
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 360](https://www.govinfo.gov/link/plaw/87/public/128), as added [Pub. L. 101–624, title XVIII, § 1819](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3830](https://www.govinfo.gov/link/statute/104/3830); amended [Pub. L. 107–171, title V](https://www.govinfo.gov/link/plaw/107/public/171), §§ 5317, 5318, May 13, 2002, [116 Stat. 348](https://www.govinfo.gov/link/statute/116/348).)*

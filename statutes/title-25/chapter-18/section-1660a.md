@@ -3,9 +3,10 @@ title: "Section 1660a - Grants for alcohol and substance abuse related services"
 usc_title: 25
 usc_section: "1660a"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1660a"
-generated_at: "2026-03-30T02:54:52.824Z"
+generated_at: "2026-11-23T20:26:25.505Z"
+status: "active"
 ---
 
 # § 1660a. Grants for alcohol and substance abuse related services
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:52.824Z"
   - **(5)** satisfactory performance standards for the organization in meeting the goals set forth in such grant, which standards shall be negotiated and agreed to between the Secretary and the grantee on a grant-by-grant basis; and
   - **(6)** identification of need for services.
 - **(d)** Any funds received by an urban Indian organization under this chapter for substance abuse prevention, treatment, and rehabilitation shall be subject to the criteria set forth in subsection (c).
+
+## Source Credit
+
+*([Pub. L. 94–437, title V, § 511](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 102–573, title V, § 502](https://www.govinfo.gov/link/plaw/102/public/573), Oct. 29, 1992, [106 Stat. 4569](https://www.govinfo.gov/link/statute/106/4569).)*

@@ -3,9 +3,10 @@ title: "Section 31322 - Preferred mortgages"
 usc_title: 46
 usc_section: "31322"
 chapter: 313
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 31322"
-generated_at: "2026-03-30T02:56:15.562Z"
+generated_at: "2026-11-23T20:27:27.217Z"
+status: "active"
 ---
 
 # § 31322. Preferred mortgages
@@ -54,3 +55,31 @@ generated_at: "2026-03-30T02:56:15.562Z"
   - **(5)** The issuance, assignment, or transfer of an instrument or evidence of indebtedness contrary to this subsection is voidable by the Secretary.
 - **(g)** For purposes of this section a “commercial lender” means an entity primarily engaged in the business of lending and other financing transactions with a loan portfolio in excess of $100,000,000, of which not more than 50 per centum in dollar amount consists of loans to borrowers in the commercial fishing industry, as certified to the Secretary by such lender.
 - **(h)** For purposes of this section a “lender syndicate” means an arrangement established for the combined extension of credit of not less than $20,000,000 made up of four or more entities that each have a beneficial interest, held through an agent, under a trust arrangement established pursuant to subsection (f), no one of which may exercise powers thereunder without the concurrence of at least one other unaffiliated beneficiary.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 31322(a)(1) | 46:922(a), (b) |
+| 31322(a)(2) | New |
+| 31322(b) | 46:926(d) |
+| 31322(c)(1) | 46:922(e) |
+| 31322(c)(2) | 46:922(f) |
+| 31322(d), (e) | New |
+
+
+Historical and Revision Notes
+
+31322(a)(1)
+
+31322(a)(2)
+
+31322(b)
+
+31322(c)(1)
+
+31322(c)(2)
+
+31322(d), (e)
+
+## Source Credit
+
+*([Pub. L. 100–710, title I, § 102(c)](https://www.govinfo.gov/link/plaw/100/public/710), Nov. 23, 1988, [102 Stat. 4743](https://www.govinfo.gov/link/statute/102/4743); [Pub. L. 101–225, title III, § 303(3)](https://www.govinfo.gov/link/plaw/101/public/225), Dec. 12, 1989, [103 Stat. 1923](https://www.govinfo.gov/link/statute/103/1923); [Pub. L. 104–324, title XI, § 1113(a)](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3970](https://www.govinfo.gov/link/statute/110/3970); [Pub. L. 105–277, div. C, title II, § 202(b)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–618](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 105–383, title IV, § 401(c)(1)](https://www.govinfo.gov/link/plaw/105/public/383) –(4), Nov. 13, 1998, [112 Stat. 3425](https://www.govinfo.gov/link/statute/112/3425); [Pub. L. 106–31, title III, § 3027(a)(1)](https://www.govinfo.gov/link/plaw/106/public/31), May 21, 1999, [113 Stat. 101](https://www.govinfo.gov/link/statute/113/101); [Pub. L. 107–20, title II, § 2202(b)](https://www.govinfo.gov/link/plaw/107/public/20), (c), July 24, 2001, [115 Stat. 168](https://www.govinfo.gov/link/statute/115/168), 169; [Pub. L. 109–304](https://www.govinfo.gov/link/plaw/109/public/304), §§ 15(29), 16(c)(7), Oct. 6, 2006, [120 Stat. 1704](https://www.govinfo.gov/link/statute/120/1704), 1706; [Pub. L. 115–232, div. C, title XXXV, § 3546](https://www.govinfo.gov/link/plaw/115/public/232) (l), Aug. 13, 2018, [132 Stat. 2327](https://www.govinfo.gov/link/statute/132/2327).)*

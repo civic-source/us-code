@@ -3,9 +3,10 @@ title: "Section 3131 - Bonds of contractors of public buildings or works"
 usc_title: 40
 usc_section: "3131"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 3131"
-generated_at: "2026-03-30T02:55:43.378Z"
+generated_at: "2026-11-23T20:26:56.578Z"
+status: "active"
 ---
 
 # § 3131. Bonds of contractors of public buildings or works
@@ -22,3 +23,92 @@ generated_at: "2026-03-30T02:55:43.378Z"
     - **(B)** more than one year after the day on which notice is given.
 - **(d)** A contracting officer may waive the requirement of a performance bond and payment bond for work under a contract that is to be performed in a foreign country if the officer finds that it is impracticable for the contractor to furnish the bonds.
 - **(e)** This section does not limit the authority of a contracting officer to require a performance bond or other security in addition to those, or in cases other than the cases, specified in subsection (b).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3131(a) | 40:270a(a) (words before cl. (1) related to definition). | Aug. 24, 1935, ch. 642, § 1(a) –(c), 49 Stat. 793 ; Pub. L. 95–585 , Nov. 2, 1978 , 92 Stat. 2484 ; Pub. L. 103–355, title IV, § 4104(b)(1)(B) , Oct. 13, 1994 , 108 Stat. 3342 ; Pub. L. 106–49, § 2(a) , Aug. 17, 1999 , 113 Stat. 231 . |
+|  | 40:270d. | Aug. 24, 1935, ch. 642, § 4 , 49 Stat. 794 . |
+| 3131(b) | 40:270a(a) (words before cl. (1) related to furnishing bond), (1), (2). |  |
+|  | 40:270d–1. | Aug. 24, 1935, ch. 642, § 5 , as added Pub. L. 103–355, title IV, § 4104(b)(1)(A) , Oct. 13, 1994 , 108 Stat. 3341 . |
+| 3131(c) | 40:270a(d). | Aug. 24, 1935, ch. 642, § 1(d) , as added Pub. L. 89–719, title I, § 105(b) , Nov. 2, 1966 , 80 Stat. 1139 . |
+| 3131(d) | 40:270a(b). |  |
+| 3131(e) | 40:270a(c). |  |
+
+
+Definition
+
+Type of Bonds Required
+
+Performance bond
+
+Payment bond
+
+Coverage for Taxes in Performance Bond.—
+
+In general
+
+Notice
+
+Civil action
+
+Waiver of Bonds for Contracts Performed in Foreign Countries
+
+Authority To Require Additional Bonds
+
+Historical and Revision Notes
+
+3131(a)
+
+Aug. 24, 1935, ch. 642, § 1(a)
+
+49 Stat. 793
+
+Pub. L. 95–585
+
+Nov. 2, 1978
+
+92 Stat. 2484
+
+Pub. L. 103–355, title IV, § 4104(b)(1)(B)
+
+Oct. 13, 1994
+
+108 Stat. 3342
+
+Pub. L. 106–49, § 2(a)
+
+Aug. 17, 1999
+
+113 Stat. 231
+
+Aug. 24, 1935, ch. 642, § 4
+
+49 Stat. 794
+
+3131(b)
+
+Aug. 24, 1935, ch. 642, § 5
+
+Pub. L. 103–355, title IV, § 4104(b)(1)(A)
+
+Oct. 13, 1994
+
+108 Stat. 3341
+
+3131(c)
+
+Aug. 24, 1935, ch. 642, § 1(d)
+
+Pub. L. 89–719, title I, § 105(b)
+
+Nov. 2, 1966
+
+80 Stat. 1139
+
+3131(d)
+
+3131(e)
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1147](https://www.govinfo.gov/link/statute/116/1147); [Pub. L. 109–284, § 6(8)](https://www.govinfo.gov/link/plaw/109/public/284), Sept. 27, 2006, [120 Stat. 1213](https://www.govinfo.gov/link/statute/120/1213).)*

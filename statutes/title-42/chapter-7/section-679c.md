@@ -3,9 +3,10 @@ title: "Section 679c - Programs operated by Indian tribal organizations"
 usc_title: 42
 usc_section: "679c"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 679c"
-generated_at: "2026-03-30T02:56:10.892Z"
+generated_at: "2026-11-23T20:27:20.931Z"
+status: "active"
 ---
 
 # § 679c. Programs operated by Indian tribal organizations
@@ -51,3 +52,17 @@ generated_at: "2026-03-30T02:56:10.892Z"
 - **(e)** Any cooperative agreement or contract entered into between an Indian tribe, a tribal organization, or a tribal consortium and a State for the administration or payment of funds under this part that is in effect as of October 7, 2008 , shall remain in full force and effect, subject to the right of either party to the agreement or contract to revoke or modify the agreement or contract pursuant to the terms of the agreement or contract. Nothing in this section shall be construed as affecting the authority for an Indian tribe, a tribal organization, or a tribal consortium and a State to enter into a cooperative agreement or contract for the administration or payment of funds under this part.
 - **(f)** Except as provided in section 677(j) of this title , subsection (b) of this section shall not apply with respect to the John H. Chafee Foster Care Independence Program established under section 677 of this title (or with respect to payments made under section 674(a)(4) of this title or grants made under section 674(e) of this title ).
 - **(g)** Nothing in this section shall be construed as affecting the application of section 672(h) of this title to a child on whose behalf payments are paid under section 672 of this title , or the application of section 673(b) of this title to a child on whose behalf payments are made under section 673 of this title pursuant to an adoption assistance agreement or a kinship guardianship assistance agreement, by an Indian tribe, tribal organization, or tribal consortium that elects to operate a foster care and adoption assistance program in accordance with this section.
+
+(aa) A State or local government.
+
+(bb) An Indian tribe, tribal organization, or tribal consortium other than the tribe, organization, or consortium submitting the plan.
+
+(cc) A public institution of higher education.
+
+(dd) A Tribal College or University (as defined in section 1059c of title 20 ).
+
+(ee) A private charitable organization.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 479B, as added [Pub. L. 110–351, title III, § 301(a)(1)](https://www.govinfo.gov/link/plaw/110/public/351), Oct. 7, 2008, [122 Stat. 3962](https://www.govinfo.gov/link/statute/122/3962); amended [Pub. L. 115–123, div. E, title VII](https://www.govinfo.gov/link/plaw/115/public/123), §§ 50711(e), 50722(b), Feb. 9, 2018, [132 Stat. 243](https://www.govinfo.gov/link/statute/132/243), 246.)*

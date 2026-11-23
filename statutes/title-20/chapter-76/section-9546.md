@@ -3,9 +3,10 @@ title: "Section 9546 - Dissemination"
 usc_title: 20
 usc_section: "9546"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 9546"
-generated_at: "2026-03-30T02:54:48.227Z"
+generated_at: "2026-11-23T20:26:14.991Z"
+status: "active"
 ---
 
 # § 9546. Dissemination
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:48.227Z"
 - **(e)**
   - **(1)** The Statistics Center shall, consistent with section 9573 of this title , cooperate with other Federal agencies having a need for educational data in providing access to educational data received by the Statistics Center.
   - **(2)** The Statistics Center shall, in accordance with such terms and conditions as the Center may prescribe, provide all interested parties, including public and private agencies, parents, and other individuals, direct access, in the most appropriate form (including, where possible, electronically), to data collected by the Statistics Center for the purposes of research and acquiring statistical information.
+
+## Source Credit
+
+*([Pub. L. 107–279, title I, § 156](https://www.govinfo.gov/link/plaw/107/public/279), Nov. 5, 2002, [116 Stat. 1961](https://www.govinfo.gov/link/statute/116/1961).)*

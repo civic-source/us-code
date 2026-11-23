@@ -3,9 +3,10 @@ title: "Section 6695 - Other assessable penalties with respect to the preparatio
 usc_title: 26
 usc_section: "6695"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6695"
-generated_at: "2026-03-30T02:55:27.864Z"
+generated_at: "2026-11-23T20:26:46.715Z"
+status: "active"
 ---
 
 # § 6695. Other assessable penalties with respect to the preparation of tax returns for other persons
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:27.864Z"
   - **(2)** If any amount adjusted under paragraph (1)—
     - **(A)** is not less than $5,000 and is not a multiple of $500, such amount shall be rounded to the next lowest multiple of $500, and
     - **(B)** is not described in subparagraph (A) and is not a multiple of $5, such amount shall be rounded to the next lowest multiple of $5.
+
+## Source Credit
+
+*(Added [Pub. L. 94–455, title XII, § 1203(f)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1692](https://www.govinfo.gov/link/statute/90/1692); amended [Pub. L. 95–600, title VII, § 701(cc)(1)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2923](https://www.govinfo.gov/link/statute/92/2923); [Pub. L. 98–369, div. A, title I, § 179(b)(2)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 718](https://www.govinfo.gov/link/statute/98/718); [Pub. L. 99–44, § 1(b)](https://www.govinfo.gov/link/plaw/99/public/44), May 24, 1985, [99 Stat. 77](https://www.govinfo.gov/link/statute/99/77); [Pub. L. 101–239, title VII, § 7733(a)](https://www.govinfo.gov/link/plaw/101/public/239) –(d), Dec. 19, 1989, [103 Stat. 2402](https://www.govinfo.gov/link/statute/103/2402), 2403; [Pub. L. 105–34, title X, § 1085(a)(2)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 956](https://www.govinfo.gov/link/statute/111/956); [Pub. L. 110–28, title VIII, § 8246(a)(2)(G)(i)](https://www.govinfo.gov/link/plaw/110/public/28), (ii), May 25, 2007, [121 Stat. 202](https://www.govinfo.gov/link/statute/121/202); [Pub. L. 112–41, title V, § 501(a)](https://www.govinfo.gov/link/plaw/112/public/41), Oct. 21, 2011, [125 Stat. 459](https://www.govinfo.gov/link/statute/125/459); [Pub. L. 113–295, div. B, title II, § 208(c)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4073](https://www.govinfo.gov/link/statute/128/4073); [Pub. L. 114–113, div. Q, title II, § 207(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3082](https://www.govinfo.gov/link/statute/129/3082); [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 11001(b), 11002(d)(1)(MM), Dec. 22, 2017, [131 Stat. 2058](https://www.govinfo.gov/link/statute/131/2058), 2060; [Pub. L. 115–141, div. U, title IV, § 401(a)(299)(C)](https://www.govinfo.gov/link/plaw/115/public/141), (309), (310), Mar. 23, 2018, [132 Stat. 1198](https://www.govinfo.gov/link/statute/132/1198), 1199.)*

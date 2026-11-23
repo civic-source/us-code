@@ -3,9 +3,10 @@ title: "Section 271 - Findings and purposes"
 usc_title: 15
 usc_section: "271"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 271"
-generated_at: "2026-03-30T02:54:08.077Z"
+generated_at: "2026-11-23T20:26:03.670Z"
+status: "active"
 ---
 
 # § 271. Findings and purposes
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:08.077Z"
   - **(2)** to assist private sector initiatives to capitalize on advanced technology;
   - **(3)** to advance, through cooperative efforts among industries, universities, and government laboratories, promising research and development projects, which can be optimized by the private sector for commercial and industrial applications; and
   - **(4)** to promote shared risks, accelerated development, and pooling of skills which will be necessary to strengthen America’s manufacturing industries.
+
+## Source Credit
+
+*(Mar. 3, 1901, ch. 872, § 1, [31 Stat. 1449](https://www.govinfo.gov/link/statute/31/1449); [Pub. L. 100–418, title V, § 5111](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1427](https://www.govinfo.gov/link/statute/102/1427).)*

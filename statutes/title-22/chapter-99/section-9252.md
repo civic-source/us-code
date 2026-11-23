@@ -3,9 +3,10 @@ title: "Section 9252 - Termination of sanctions and other measures"
 usc_title: 22
 usc_section: "9252"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9252"
-generated_at: "2026-03-30T02:55:05.464Z"
+generated_at: "2026-11-23T20:26:32.764Z"
+status: "active"
 ---
 
 # § 9252. Termination of sanctions and other measures
@@ -21,3 +22,7 @@ Any sanction or other measure required under subchapter I, II, or III (or any am
     - **(E)** fully accounting for and repatriating United States citizens (including deceased United States citizens)—
       - **(i)** abducted or unlawfully held captive by the Government of North Korea; or
       - **(ii)** detained in violation of the Agreement Concerning a Military Armistice in Korea, signed at Panmunjom July 27, 1953 (commonly referred to as the “Korean War Armistice Agreement”).
+
+## Source Credit
+
+*([Pub. L. 114–122, title IV, § 402](https://www.govinfo.gov/link/plaw/114/public/122), Feb. 18, 2016, [130 Stat. 115](https://www.govinfo.gov/link/statute/130/115).)*

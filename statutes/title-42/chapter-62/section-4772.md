@@ -3,12 +3,17 @@ title: "Section 4772 - Effective date of grant provisions"
 usc_title: 42
 usc_section: "4772"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4772"
-generated_at: "2026-03-30T02:56:11.208Z"
+generated_at: "2026-11-23T20:27:22.416Z"
+status: "active"
 ---
 
 # § 4772. Effective date of grant provisions
 
 Grant provisions of this chapter shall become effective one hundred and eighty days following January 5, 1971 .
 
+
+## Source Credit
+
+*([Pub. L. 91–648, title V, § 513](https://www.govinfo.gov/link/plaw/91/public/648), Jan. 5, 1971, [84 Stat. 1929](https://www.govinfo.gov/link/statute/84/1929).)*

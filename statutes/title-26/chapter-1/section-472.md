@@ -3,9 +3,10 @@ title: "Section 472 - Last-in, first-out inventories"
 usc_title: 26
 usc_section: "472"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 472"
-generated_at: "2026-03-30T02:55:27.707Z"
+generated_at: "2026-11-23T20:26:45.774Z"
+status: "active"
 ---
 
 # § 472. Last-in, first-out inventories
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:27.707Z"
   - **(2)** For purposes of paragraph (1), the term “group of financially related corporations” means—
     - **(A)** any affiliated group as defined in section 1504 determined by substituting “50 percent” for “80 percent” each place it appears in section 1504(a) and without regard to section 1504(b), and
     - **(B)** any other group of corporations which consolidate or combine for purposes of financial statements.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 159; [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1901(b)(36)(A), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1802](https://www.govinfo.gov/link/statute/90/1802), 1834; [Pub. L. 97–34, title II](https://www.govinfo.gov/link/plaw/97/public/34), §§ 235, 236(a), Aug. 13, 1981, [95 Stat. 252](https://www.govinfo.gov/link/statute/95/252); [Pub. L. 98–369, div. A, title I, § 95(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 616](https://www.govinfo.gov/link/statute/98/616).)*

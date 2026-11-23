@@ -3,9 +3,10 @@ title: "Section 3384 - Taiwan Fellowship Program"
 usc_title: 22
 usc_section: "3384"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3384"
-generated_at: "2026-03-30T02:55:05.393Z"
+generated_at: "2026-11-23T20:26:32.458Z"
+status: "active"
 ---
 
 # § 3384. Taiwan Fellowship Program
@@ -67,3 +68,7 @@ generated_at: "2026-03-30T02:55:05.393Z"
         - **(II)** the percentage of the period specified in paragraph (2)(C) during which the fellow did not remain employed by the Federal Government.
 - **(f)** Notwithstanding any requirement under this section, the Secretary of State, in consultation with the American Institute in Taiwan and, as appropriate, the implementing partner, may award fellowships that have a duration of less than 2 years, and may alter the curriculum requirements under subsection (d) for such purposes.
 - **(g)** The fellowship program under this subchapter shall terminate 7 years after December 23, 2022 .
+
+## Source Credit
+
+*([Pub. L. 117–263, div. E, title LV, § 5530](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3326](https://www.govinfo.gov/link/statute/136/3326).)*

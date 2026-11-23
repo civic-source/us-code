@@ -3,9 +3,10 @@ title: "Section 5207 - Definitions"
 usc_title: 16
 usc_section: "5207"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 5207"
-generated_at: "2026-03-30T02:54:23.051Z"
+generated_at: "2026-11-23T20:26:20.771Z"
+status: "active"
 ---
 
 # § 5207. Definitions
@@ -31,3 +32,7 @@ As used in this chapter:
       - **(iii)** wildlife refuges.
   - **(7)** The term “wildlife refuge” means lands and waters included in the National Wildlife Refuge System (as established by section 668dd of this title ).
   - **(8)** The term “conduct” does not include speech protected by the first article of amendment to the Constitution.
+
+## Source Credit
+
+*([Pub. L. 103–322, title XXXII, § 320808](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2122](https://www.govinfo.gov/link/statute/108/2122).)*

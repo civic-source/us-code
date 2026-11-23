@@ -3,9 +3,10 @@ title: "Section 1184 - Admission of nonimmigrants"
 usc_title: 8
 usc_section: "1184"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1184"
-generated_at: "2026-03-30T02:53:10.480Z"
+generated_at: "2026-11-23T20:25:36.049Z"
+status: "active"
 ---
 
 # § 1184. Admission of nonimmigrants
@@ -314,3 +315,59 @@ generated_at: "2026-03-30T02:53:10.480Z"
       - **(i)** Domestic violence, sexual assault, child abuse and neglect, dating violence, elder abuse, stalking, or an attempt to commit any such crime.
       - **(ii)** Homicide, murder, manslaughter, rape, abusive sexual contact, sexual exploitation, incest, torture, trafficking, peonage, holding hostage, involuntary servitude, slave trade, kidnapping, abduction, unlawful criminal restraint, false imprisonment, or an attempt to commit any of the crimes described in this clause.
       - **(iii)** At least three convictions for crimes relating to a controlled substance or alcohol not arising from a single act.
+
+(aa) the foreign league or association is the highest level of amateur performance of that sport in the relevant foreign country;
+
+(bb) participation in such league or association renders players ineligible, whether on a temporary or permanent basis, to earn a scholarship in, or participate in, that sport at a college or university in the United States under the rules of the National Collegiate Athletic Association; and
+
+(cc) a significant number of the individuals who play in such league or association are drafted by a major sports league or a minor league affiliate of such a sports league; or
+
+In general
+
+Transition from nafta
+
+In general
+
+Implementation
+
+Establishment
+
+Report
+
+In general
+
+Effective date
+
+Exemption From Limitation
+
+Extension of H–
+
+B Worker Status
+
+Ensuring Accurate Count
+
+Revision of Petition Forms
+
+Provision of Information.—
+
+Quarterly notification
+
+Annual submission
+
+Specification of number of petitions filed by certain employers
+
+Provision of Information.—
+
+Semiannual notification
+
+Annual submission
+
+Information maintained by state
+
+Year Provision
+
+Report to Congress
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 2, § 214, [66 Stat. 189](https://www.govinfo.gov/link/statute/66/189); [Pub. L. 91–225, § 3](https://www.govinfo.gov/link/plaw/91/public/225), Apr. 7, 1970, [84 Stat. 117](https://www.govinfo.gov/link/statute/84/117); [Pub. L. 98–454, title VI, § 602(b)](https://www.govinfo.gov/link/plaw/98/public/454), Oct. 5, 1984, [98 Stat. 1737](https://www.govinfo.gov/link/statute/98/1737); [Pub. L. 99–603, title III](https://www.govinfo.gov/link/plaw/99/public/603), §§ 301(b), 313(b), Nov. 6, 1986, [100 Stat. 3411](https://www.govinfo.gov/link/statute/100/3411), 3438; [Pub. L. 99–639, § 3(a)](https://www.govinfo.gov/link/plaw/99/public/639), (c), Nov. 10, 1986, [100 Stat. 3542](https://www.govinfo.gov/link/statute/100/3542); [Pub. L. 100–449, title III, § 307(b)](https://www.govinfo.gov/link/plaw/100/public/449), Sept. 28, 1988, [102 Stat. 1877](https://www.govinfo.gov/link/statute/102/1877); [Pub. L. 100–525, § 2](https://www.govinfo.gov/link/plaw/100/public/525) (l)(1), Oct. 24, 1988, [102 Stat. 2612](https://www.govinfo.gov/link/statute/102/2612); [Pub. L. 101–649, title II](https://www.govinfo.gov/link/plaw/101/public/649), §§ 202(a), 205(a), (b), (c)(2), 206(b), 207(b), Nov. 29, 1990, [104 Stat. 5014](https://www.govinfo.gov/link/statute/104/5014), 5019, 5020, 5023, 5025; [Pub. L. 102–232, title II](https://www.govinfo.gov/link/plaw/102/public/232), §§ 202(a), 203(b), 204, 205(d), (e), 206(a), (c)(2), 207(a), (c)(1), title III, § 303(a)(10)–(12), Dec. 12, 1991, [105 Stat. 1737–1741](https://www.govinfo.gov/link/statute/105/1737), 1748; [Pub. L. 103–322, title XIII, § 130003(b)(2)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2025](https://www.govinfo.gov/link/statute/108/2025); [Pub. L. 103–416, title II, § 220(b)](https://www.govinfo.gov/link/plaw/103/public/416), Oct. 25, 1994, [108 Stat. 4319](https://www.govinfo.gov/link/statute/108/4319); [Pub. L. 104–208, div. C, title III, § 308(e)(1)(D)](https://www.govinfo.gov/link/plaw/104/public/208), (2)(B), (f)(1)(G), (H), (3)(B), (g)(5)(A)(i), (7)(A), title VI, §§ 621, 622(c), 625(a)(1), 671(a)(3)(A), (e)(4)(A), Sept. 30, 1996, [110 Stat. 3009–619](https://www.govinfo.gov/link/statute/110/3009) to 3009–621, 3009–623, 3009–695, 3009–699, 3009–721, 3009–723; [Pub. L. 105–65, title I, § 108](https://www.govinfo.gov/link/plaw/105/public/65), Oct. 27, 1997, [111 Stat. 1350](https://www.govinfo.gov/link/statute/111/1350); [Pub. L. 105–277, div. C, title IV](https://www.govinfo.gov/link/plaw/105/public/277), §§ 411(a), 414(a), Oct. 21, 1998, [112 Stat. 2681–642](https://www.govinfo.gov/link/statute/112/2681), 2681–651; [Pub. L. 106–104, § 2](https://www.govinfo.gov/link/plaw/106/public/104), Nov. 13, 1999, [113 Stat. 1483](https://www.govinfo.gov/link/statute/113/1483); [Pub. L. 106–311, § 1](https://www.govinfo.gov/link/plaw/106/public/311), Oct. 17, 2000, [114 Stat. 1247](https://www.govinfo.gov/link/statute/114/1247); [Pub. L. 106–313, title I](https://www.govinfo.gov/link/plaw/106/public/313), §§ 102(a), 103, 105(a), 108, Oct. 17, 2000, [114 Stat. 1251–1253](https://www.govinfo.gov/link/statute/114/1251), 1255; [Pub. L. 106–386, div. A, § 107(e)(2)](https://www.govinfo.gov/link/plaw/106/public/386), div. B, title V, § 1513(c), Oct. 28, 2000, [114 Stat. 1478](https://www.govinfo.gov/link/statute/114/1478), 1535; [Pub. L. 106–396, title IV, § 401](https://www.govinfo.gov/link/plaw/106/public/396), Oct. 30, 2000, [114 Stat. 1647](https://www.govinfo.gov/link/statute/114/1647); [Pub. L. 106–553, § 1(a)(2) [title XI, §§ 1102(b), (d)(1), 1103(b), (c)(1)]](https://www.govinfo.gov/link/plaw/106/public/553), Dec. 21, 2000, [114 Stat. 2762](https://www.govinfo.gov/link/statute/114/2762), 2762A–142, 2762A–144, 2762A–145; [Pub. L. 107–45, § 1](https://www.govinfo.gov/link/plaw/107/public/45), Oct. 1, 2001, [115 Stat. 258](https://www.govinfo.gov/link/statute/115/258); [Pub. L. 107–124](https://www.govinfo.gov/link/plaw/107/public/124), Jan. 16, 2002, [115 Stat. 2402](https://www.govinfo.gov/link/statute/115/2402); [Pub. L. 107–125](https://www.govinfo.gov/link/plaw/107/public/125), §§ 1, 2(a), Jan. 16, 2002, [115 Stat. 2403](https://www.govinfo.gov/link/statute/115/2403); [Pub. L. 107–273, div. C, title I, § 11018(a)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1825](https://www.govinfo.gov/link/statute/116/1825); [Pub. L. 107–274, § 2(c)](https://www.govinfo.gov/link/plaw/107/public/274), Nov. 2, 2002, [116 Stat. 1923](https://www.govinfo.gov/link/statute/116/1923); [Pub. L. 108–77, title IV](https://www.govinfo.gov/link/plaw/108/public/77), §§ 402(a)(2), (d)(1), 403, 404, Sept. 3, 2003, [117 Stat. 940](https://www.govinfo.gov/link/statute/117/940), 946, 947; [Pub. L. 108–78, title IV, § 402](https://www.govinfo.gov/link/plaw/108/public/78), Sept. 3, 2003, [117 Stat. 970](https://www.govinfo.gov/link/statute/117/970); [Pub. L. 108–193](https://www.govinfo.gov/link/plaw/108/public/193), §§ 4(b)(2), 8(a)(3), Dec. 19, 2003, [117 Stat. 2878](https://www.govinfo.gov/link/statute/117/2878), 2886; [Pub. L. 108–441, § 1(b)](https://www.govinfo.gov/link/plaw/108/public/441) –(d), Dec. 3, 2004, [118 Stat. 2630](https://www.govinfo.gov/link/statute/118/2630); [Pub. L. 108–447, div. J, title IV](https://www.govinfo.gov/link/plaw/108/public/447), §§ 412(a), 413(a), 422(b), 425(a) 426(a), Dec. 8, 2004, [118 Stat. 3351–3353](https://www.govinfo.gov/link/statute/118/3351), 3356, 3357; [Pub. L. 109–13, div. B, title IV](https://www.govinfo.gov/link/plaw/109/public/13), §§ 402(a), 403(a), 404(a), 405, title V, § 501(b), (c), May 11, 2005, [119 Stat. 318–322](https://www.govinfo.gov/link/statute/119/318); [Pub. L. 109–162, title VIII](https://www.govinfo.gov/link/plaw/109/public/162), §§ 821(a), (b), (c)(2), 832(a)(1),(2), Jan. 5, 2006, [119 Stat. 3062](https://www.govinfo.gov/link/statute/119/3062), 3066, 3067; [Pub. L. 109–364, div. A, title X, § 1074(a)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2403](https://www.govinfo.gov/link/statute/120/2403); [Pub. L. 109–463, § 2](https://www.govinfo.gov/link/plaw/109/public/463), Dec. 22, 2006, [120 Stat. 3477](https://www.govinfo.gov/link/statute/120/3477); [Pub. L. 110–229, title VII, § 702(b)(1)](https://www.govinfo.gov/link/plaw/110/public/229), May 8, 2008, [122 Stat. 860](https://www.govinfo.gov/link/statute/122/860); [Pub. L. 110–362, § 2](https://www.govinfo.gov/link/plaw/110/public/362), Oct. 8, 2008, [122 Stat. 4013](https://www.govinfo.gov/link/statute/122/4013); [Pub. L. 110–457, title II, § 201(b)](https://www.govinfo.gov/link/plaw/110/public/457), (c), Dec. 23, 2008, [122 Stat. 5053](https://www.govinfo.gov/link/statute/122/5053); [Pub. L. 113–4, title VIII](https://www.govinfo.gov/link/plaw/113/public/4), §§ 805(a), 807(a), Mar. 7, 2013, [127 Stat. 111](https://www.govinfo.gov/link/statute/127/111), 112; [Pub. L. 114–113, div. F, title V, § 565](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2523](https://www.govinfo.gov/link/statute/129/2523); [Pub. L. 116–113, title III, § 311(b)](https://www.govinfo.gov/link/plaw/116/public/113), (c), formerly [Pub. L. 103–182, title III, § 341(b)](https://www.govinfo.gov/link/plaw/103/public/182), (c), Dec. 8, 1993, [107 Stat. 2116](https://www.govinfo.gov/link/statute/107/2116), 2117, renumbered § 311(b), (c) of [Pub. L. 116–113](https://www.govinfo.gov/link/plaw/116/public/113) by [Pub. L. 116–113, title V, § 503(b)(1)](https://www.govinfo.gov/link/plaw/116/public/113) –(3), Jan. 29, 2020, [134 Stat. 71](https://www.govinfo.gov/link/statute/134/71); [Pub. L. 116–113, title V, § 503(c)](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 71](https://www.govinfo.gov/link/statute/134/71).)*

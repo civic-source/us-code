@@ -3,9 +3,10 @@ title: "Section 2 - Pretrial conference"
 usc_title: 10
 usc_section: "2"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2"
-generated_at: "2026-03-30T02:53:38.090Z"
+generated_at: "2026-11-23T20:25:51.151Z"
+status: "active"
 ---
 
 # § 949p–2. Pretrial conference
@@ -21,3 +22,19 @@ generated_at: "2026-03-30T02:53:38.090Z"
     - **(A)** which relates to classified information; or
     - **(B)** which may promote a fair and expeditious trial.
 - **(d)** No admission made by the accused or by any counsel for the accused at a pretrial conference under this section may be used against the accused unless the admission is in writing and is signed by the accused and by the counsel for the accused.
+
+Motion
+
+Conference
+
+Matters To Be Established at Pretrial Conference.—
+
+Timing of subsequent actions
+
+Other matters
+
+Effect of Admissions by Accused at Pretrial Conference
+
+## Source Credit
+
+*(Added [Pub. L. 111–84, div. A, title XVIII, § 1802](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2591](https://www.govinfo.gov/link/statute/123/2591).)*

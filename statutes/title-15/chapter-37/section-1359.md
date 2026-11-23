@@ -3,12 +3,17 @@ title: "Section 1359 - Advisory councils for technical services; appointment; fu
 usc_title: 15
 usc_section: "1359"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1359"
-generated_at: "2026-03-30T02:54:08.134Z"
+generated_at: "2026-11-23T20:26:04.002Z"
+status: "active"
 ---
 
 # § 1359. Advisory councils for technical services; appointment; functions; compensation and expenses
 
 Each designated agency shall appoint an advisory council for technical services, the members of which shall represent broad community interests and shall be qualified to evaluate programs submitted under section 1354 of this title . The advisory council shall review each annual program, evaluate its relation to the purposes of this chapter, and report its findings to the designated agency and the Governor or his designee. Each report of each advisory council shall be available to the Secretary on request. Members of any such advisory council shall not be compensated for serving as such, but may be reimbursed for necessary expenses incurred by them in connection with attending meetings of any advisory council of which they are members.
 
+
+## Source Credit
+
+*([Pub. L. 89–182, § 9](https://www.govinfo.gov/link/plaw/89/public/182), Sept. 14, 1965, [79 Stat. 682](https://www.govinfo.gov/link/statute/79/682).)*

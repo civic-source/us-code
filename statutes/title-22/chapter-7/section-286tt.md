@@ -3,9 +3,10 @@ title: "Section 286tt - Restrictions on use of United States funds for foreign g
 usc_title: 22
 usc_section: "286tt"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 286tt"
-generated_at: "2026-03-30T02:55:05.320Z"
+generated_at: "2026-11-23T20:26:32.017Z"
+status: "active"
 ---
 
 # § 286tt. Restrictions on use of United States funds for foreign governments; protection of American taxpayers
@@ -19,3 +20,9 @@ generated_at: "2026-03-30T02:55:05.320Z"
   - **(1)** the borrowing country’s current debt status, including, to the extent possible, its maturity structure, whether it has fixed or floating rates, whether it is indexed, and by whom it is held;
   - **(2)** the borrowing country’s external and internal vulnerabilities that could potentially affect its ability to repay; and
   - **(3)** the borrowing country’s debt management strategy.
+
+Opposition to loans unlikely to be repaid in full
+
+## Source Credit
+
+*(July 31, 1945, ch. 339, § 68, as added [Pub. L. 111–203, title XV, § 1501](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2212](https://www.govinfo.gov/link/statute/124/2212).)*

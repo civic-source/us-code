@@ -3,9 +3,10 @@ title: "Section 1234 - Options to buy or sell"
 usc_title: 26
 usc_section: "1234"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1234"
-generated_at: "2026-03-30T02:55:27.760Z"
+generated_at: "2026-11-23T20:26:46.048Z"
+status: "active"
 ---
 
 # § 1234. Options to buy or sell
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:27.760Z"
   - **(2)**
     - **(A)** For purposes of subsections (a) and (b), a cash settlement option shall be treated as an option to buy or sell property.
     - **(B)** For purposes of subparagraph (A), the term “cash settlement option” means any option which on exercise settles in (or could be settled in) cash or property other than the underlying property.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 376, 68A Stat. 329; [Pub. L. 85–866, title I, § 53](https://www.govinfo.gov/link/plaw/85/public/866), Sept. 2, 1958, [72 Stat. 1644](https://www.govinfo.gov/link/statute/72/1644); [Pub. L. 89–809, title II, § 210(a)](https://www.govinfo.gov/link/plaw/89/public/809), Nov. 13, 1966, [80 Stat. 1580](https://www.govinfo.gov/link/statute/80/1580); [Pub. L. 94–455, title XIV, § 1402(b)(1)(U)](https://www.govinfo.gov/link/plaw/94/public/455), (2), title XXI, § 2136(a), Oct. 4, 1976, [90 Stat. 1732](https://www.govinfo.gov/link/statute/90/1732), 1929; [Pub. L. 98–369, div. A, title I, § 105(a)](https://www.govinfo.gov/link/plaw/98/public/369), title X, § 1001(b)(18), (e), July 18, 1984, [98 Stat. 629](https://www.govinfo.gov/link/statute/98/629), 1012; [Pub. L. 106–170, title V, § 532(c)(1)(H)](https://www.govinfo.gov/link/plaw/106/public/170), Dec. 17, 1999, [113 Stat. 1930](https://www.govinfo.gov/link/statute/113/1930).)*

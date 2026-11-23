@@ -3,9 +3,10 @@ title: "Section 12338 - Supportive services"
 usc_title: 42
 usc_section: "12338"
 chapter: 127
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12338"
-generated_at: "2026-03-30T02:56:11.412Z"
+generated_at: "2026-11-23T20:27:23.355Z"
+status: "active"
 ---
 
 # § 12338. Supportive services
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.412Z"
     - **(J)** encourage young individuals and the families of such individuals to use any community facilities and services that are available to such individuals;
     - **(K)** ensure that young individuals who are unable to live with the biological families of such individuals have a safe place to live until such individuals can return home or move into independent adult life; and
     - **(L)** prevent the abuse, neglect, or exploitation of young individuals.
+
+## Source Credit
+
+*([Pub. L. 101–501, title IX, § 932](https://www.govinfo.gov/link/plaw/101/public/501), Nov. 3, 1990, [104 Stat. 1273](https://www.govinfo.gov/link/statute/104/1273).)*

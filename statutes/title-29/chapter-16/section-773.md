@@ -3,9 +3,10 @@ title: "Section 773 - Demonstration and training programs"
 usc_title: 29
 usc_section: "773"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 773"
-generated_at: "2026-03-30T02:55:18.696Z"
+generated_at: "2026-11-23T20:26:37.865Z"
+status: "active"
 ---
 
 # § 773. Demonstration and training programs
@@ -106,3 +107,7 @@ generated_at: "2026-03-30T02:55:18.696Z"
     - **(C)** activities to promote knowledge and use of braille and nonvisual access technology for blind youth and adults through a program of training, demonstration, and evaluation conducted with leadership of experienced blind individuals, including the use of comprehensive, state-of-the-art technology.
   - **(3)** To be eligible to receive a grant, or enter into a contract, under paragraph (1), an agency or organization shall submit an application to the Commissioner at such time, in such manner, and containing such information as the Commissioner may require.
 - **(e)** For the purpose of carrying out this section there are authorized to be appropriated $5,796,000 for fiscal year 2015, $6,244,000 for fiscal year 2016, $6,373,000 for fiscal year 2017, $6,515,000 for fiscal year 2018, $6,668,000 for fiscal year 2019, and $6,809,000 for fiscal year 2020.
+
+## Source Credit
+
+*([Pub. L. 93–112, title III, § 303](https://www.govinfo.gov/link/plaw/93/public/112), as added [Pub. L. 105–220, title IV, § 406](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1190](https://www.govinfo.gov/link/statute/112/1190); amended [Pub. L. 108–446, title III, § 305(h)(5)](https://www.govinfo.gov/link/plaw/108/public/446), (6), Dec. 3, 2004, [118 Stat. 2805](https://www.govinfo.gov/link/statute/118/2805); [Pub. L. 113–128, title IV, § 442](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1673](https://www.govinfo.gov/link/statute/128/1673).)*

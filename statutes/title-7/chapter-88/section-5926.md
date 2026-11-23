@@ -3,9 +3,10 @@ title: "Section 5926 - Centers of excellence"
 usc_title: 7
 usc_section: "5926"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 5926"
-generated_at: "2026-03-30T02:53:42.421Z"
+generated_at: "2026-11-23T20:25:41.671Z"
+status: "active"
 ---
 
 # § 5926. Centers of excellence
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:53:42.421Z"
   - **(4)** Not later than 1 year after December 20, 2018 , and every year thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing—
     - **(A)** the resources invested in the centers of excellence established under paragraph (1); and
     - **(B)** the work being done by those centers of excellence.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XVI, § 1673](https://www.govinfo.gov/link/plaw/101/public/624), as added [Pub. L. 113–79, title VII, § 7214(a)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 886](https://www.govinfo.gov/link/statute/128/886); amended [Pub. L. 115–334, title VII, § 7213](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4813](https://www.govinfo.gov/link/statute/132/4813).)*

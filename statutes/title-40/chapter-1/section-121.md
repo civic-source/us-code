@@ -3,9 +3,10 @@ title: "Section 121 - Administrative"
 usc_title: 40
 usc_section: "121"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 121"
-generated_at: "2026-03-30T02:55:43.371Z"
+generated_at: "2026-11-23T20:26:56.518Z"
+status: "active"
 ---
 
 # § 121. Administrative
@@ -39,3 +40,197 @@ generated_at: "2026-03-30T02:55:43.371Z"
 - **(f)** The Administrator may establish advisory committees to provide advice on any function of the Administrator under this subtitle. Members of the advisory committees shall serve without compensation but are entitled to transportation and not more than $25 a day instead of expenses under section 5703 of title 5 .
 - **(g)** The Administrator shall advise and consult with interested federal agencies and seek their advice and assistance to accomplish the purposes of this subtitle.
 - **(h)** In carrying out investigative duties, an officer or employee of the Administration, if authorized by the Administrator, may administer an oath to an individual.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 121(a), (b) | 40:486(a), (b). | June 30, 1949, ch. 288 , title II, § 205, 63 Stat. 389 ; Sept. 5, 1950, ch. 849, § 9 , 64 Stat. 591 ; Pub. L. 87–619 , Aug. 31, 1962 , 76 Stat. 414 . |
+| 121(c)(1) | 40:751(f). | June 30, 1949, ch. 288 , title I, § 101(f), as added Pub. L. 99–500, § 101(m) [title VIII, § 832] , Oct. 18, 1986 , 100 Stat. 1783–345 ; Pub. L. 99–591, § 101(m) [title VIII, § 832] , Oct. 30, 1986 , 100 Stat. 3341–345 . |
+| 121(c)(2) | 40:486(c). |  |
+| 121(d)(1), (2) | 40:486(d). |  |
+| 121(d)(3) | 40:486a. | Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 611] , Sept. 30, 1996 , 110 Stat. 3009–355 . |
+| 121(e)(1) | 40:486(e). |  |
+|  | 40:754 (1st sentence). | June 30, 1949, ch. 288 , title I, § 106, 63 Stat. 381 . |
+| 121(e)(2)(A) | 40:754 (last sentence). |  |
+| 121(e)(2)(B) | 40:486(f). |  |
+| 121(f) | 40:486(g). |  |
+| 121(g) | 40:486(h). |  |
+| 121(h) | 40:486(i). |  |
+
+
+Policies Prescribed by the President
+
+Accounting Principles and Standards.—
+
+Prescription
+
+Property accounting systems
+
+Compliance review
+
+Regulations by Administrator.—
+
+General authority
+
+Required regulations and orders
+
+Delegation of Authority by Administrator.—
+
+In general
+
+Exceptions
+
+Retention and use of rental payments
+
+Assignment of Functions by Administrator.—
+
+In general
+
+Transfer of resources.—
+
+Within administration
+
+Between agencies
+
+Advisory Committees
+
+Consultation With Federal Agencies
+
+Administering Oaths
+
+Historical and Revision Notes
+
+121(a), (b)
+
+June 30, 1949, ch. 288
+
+63 Stat. 389
+
+Sept. 5, 1950, ch. 849, § 9
+
+64 Stat. 591
+
+Pub. L. 87–619
+
+Aug. 31, 1962
+
+76 Stat. 414
+
+121(c)(1)
+
+June 30, 1949, ch. 288
+
+Pub. L. 99–500, § 101(m) [title VIII, § 832]
+
+Oct. 18, 1986
+
+100 Stat. 1783–345
+
+Pub. L. 99–591, § 101(m) [title VIII, § 832]
+
+Oct. 30, 1986
+
+100 Stat. 3341–345
+
+121(c)(2)
+
+121(d)(1), (2)
+
+121(d)(3)
+
+Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 611]
+
+Sept. 30, 1996
+
+110 Stat. 3009–355
+
+121(e)(1)
+
+June 30, 1949, ch. 288
+
+63 Stat. 381
+
+121(e)(2)(A)
+
+121(e)(2)(B)
+
+121(f)
+
+121(g)
+
+121(h)
+
+Space Acquisition
+
+Administrator of General Services
+
+General Provisions
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+William J. Clinton.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+J.R. Biden, Jr.
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1068](https://www.govinfo.gov/link/statute/116/1068).)*

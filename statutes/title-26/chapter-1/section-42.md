@@ -3,9 +3,10 @@ title: "Section 42 - Low-income housing credit"
 usc_title: 26
 usc_section: "42"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 42"
-generated_at: "2026-03-30T02:55:27.596Z"
+generated_at: "2026-11-23T20:26:45.188Z"
+status: "active"
 ---
 
 # § 42. Low-income housing credit
@@ -529,3 +530,202 @@ generated_at: "2026-03-30T02:55:27.596Z"
   - **(2)** providing for the application of this section to short taxable years,
   - **(3)** preventing the avoidance of the rules of this section, and
   - **(4)** providing the opportunity for housing credit agencies to correct administrative errors and omissions with respect to allocations and record keeping within a reasonable period after their discovery, taking into account the availability of regulations and other administrative guidance from the Secretary.
+
+|  | Col 2 |
+| --- | --- |
+|  | The additional |
+| “For calendar year: | allocation is: |
+| 1987 | $3,900,000 |
+| 1988 | $7,600,000 |
+| 1989 | $1,300,000. |
+
+|  | Col 2 |
+| --- | --- |
+|  | The housing credit |
+| “The code number is: | dollar amount is: |
+| (i) 49284553664 | $16,000 |
+| (ii) 4927742022446 | $22,000 |
+| (iii) 49270742276087 | $64,000 |
+| (iv) 490270742387293 | $48,000 |
+| (v) 4927074218234 | $32,000 |
+| (vi) 49270742274019 | $36,000 |
+| (vii) 51460742345074 | $53,000. |
+
+
+(aa) are part of an issue the issue date of which is after December 31, 2025 , and
+
+(bb) provide the financing for not less than 5 percent of the aggregate basis of such building and the land on which the building is located.
+
+In general
+
+Credit increased
+
+st year computation applies
+
+Allocation may not be earlier than year in which building placed in service
+
+In general
+
+Rehabilitation expenditures treated as separate new building
+
+“The amendments made by this section [amending this section] shall apply to—
+
+In general
+
+Rehabilitation requirements.—
+
+In general
+
+Buildings not subject to allocation limits
+
+In general
+
+Repeal of bonding requirement on disposition of building
+
+Energy efficiency and historic nature taken into account in making allocations
+
+Continued eligibility for students who received foster care assistance
+
+Treatment of rural projects
+
+Clarification of general public use requirement
+
+“The amendment made by this section [amending this section] shall apply to—
+
+“Except as otherwise provided in this subtitle [amending this section and enacting provisions set out above], the amendments made by this subtitle shall apply to—
+
+In general
+
+Full-time students, waiver authority, and prohibited discrimination
+
+HOME assistance
+
+In general
+
+Tenant rights, etc
+
+Monitoring
+
+Study
+
+“In the case of a building to which (but for this subparagraph) the amendment made by subparagraph (A) [amending this section] does not apply, such amendment shall apply to—
+
+In general
+
+Exception
+
+Exception for previously grandfather expenditures
+
+In general
+
+Buildings not subject to allocation limits
+
+One-year carryover of unused credit authority, etc
+
+Additional buildings eligible for waiver of 10-year rule
+
+Certifications with respect to 1st year of credit period
+
+Certain rules which apply to bonds
+
+Clarifications
+
+Guidance on difficult development areas and posting of bond to avoid recapture
+
+In general
+
+Period for election
+
+In general
+
+Special rule for rehabilitation expenditures
+
+In General
+
+Low-Income Housing Grant Election Amount
+
+Subawards for Low-Income Buildings.—
+
+In general
+
+Subawards subject to same requirements as low-income housing credit allocations
+
+Compliance and asset management
+
+Recapture
+
+Return of Unused Grant Funds
+
+Definitions
+
+Appropriations
+
+In general
+
+Reduction in aggregate credit to reflect increased
+
+credit
+
+Election
+
+Limitation to non-acrs buildings not to apply to certain buildings, etc.—
+
+In general
+
+Project described
+
+Additional units eligible for credit
+
+Project described
+
+Maximum additional credit
+
+Additional allocation of housing credit ceiling.—
+
+In general
+
+1987
+
+1988
+
+1989
+
+Housing credit agencies described
+
+Project described
+
+Special rules.—
+
+All units treated as low income units in certain cases
+
+Certain projects placed in service before 1987.—
+
+In general
+
+Project described
+
+(i) 49284553664
+
+(ii) 4927742022446
+
+(iii) 49270742276087
+
+(iv) 490270742387293
+
+(v) 4927074218234
+
+(vi) 49270742274019
+
+(vii) 51460742345074
+
+Determination of adjusted basis
+
+Certain rules to apply
+
+Definitions
+
+Transitional rule
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title II, § 252(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2189](https://www.govinfo.gov/link/statute/100/2189); amended [Pub. L. 99–509, title VIII, § 8072(a)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1964](https://www.govinfo.gov/link/statute/100/1964); [Pub. L. 100–647, title I](https://www.govinfo.gov/link/plaw/100/public/647), §§ 1002(l)(1)–(25), (32), 1007(g)(3)(B), title IV, §§ 4003(a), (b)(1), (3), 4004(a), Nov. 10, 1988, [102 Stat. 3373–3381](https://www.govinfo.gov/link/statute/102/3373), 3435, 3643, 3644; [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7108(a)(1), (b)–(e)(2), (f)–(m), (n)(2)–(q), 7811(a), 7831(c), 7841(d)(13)–(15), Dec. 19, 1989, [103 Stat. 2306–2321](https://www.govinfo.gov/link/statute/103/2306), 2406, 2426, 2429; [Pub. L. 101–508, title XI](https://www.govinfo.gov/link/plaw/101/public/508), §§ 11407(a)(1), (b)(1)–(9), 11701(a)(1)–(3)(A), (4), (5)(A), (6)–(10), 11812(b)(3), 11813(b)(3), Nov. 5, 1990, [104 Stat. 1388–474](https://www.govinfo.gov/link/statute/104/1388), 1388–475, 1388–505 to 1388–507, 1388–535, 1388–551; [Pub. L. 102–227, title I, § 107(a)](https://www.govinfo.gov/link/plaw/102/public/227), Dec. 11, 1991, [105 Stat. 1687](https://www.govinfo.gov/link/statute/105/1687); [Pub. L. 103–66, title XIII, § 13142(a)(1)](https://www.govinfo.gov/link/plaw/103/public/66), (b)(1)–(5), Aug. 10, 1993, [107 Stat. 437–439](https://www.govinfo.gov/link/statute/107/437); [Pub. L. 104–188, title I, § 1704(t)(53)](https://www.govinfo.gov/link/plaw/104/public/188), (64), Aug. 20, 1996, [110 Stat. 1890](https://www.govinfo.gov/link/statute/110/1890); [Pub. L. 105–206, title VI, § 6004(g)(5)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 796](https://www.govinfo.gov/link/statute/112/796); [Pub. L. 106–400, § 2](https://www.govinfo.gov/link/plaw/106/public/400), Oct. 30, 2000, [114 Stat. 1675](https://www.govinfo.gov/link/statute/114/1675); [Pub. L. 106–554, § 1(a)(7) [title I, §§ 131(a)–(c), 132–136]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–610 to 2763A–613; [Pub. L. 107–147, title IV, § 417(2)](https://www.govinfo.gov/link/plaw/107/public/147), (3), Mar. 9, 2002, [116 Stat. 56](https://www.govinfo.gov/link/statute/116/56); [Pub. L. 108–311, title II, § 207(8)](https://www.govinfo.gov/link/plaw/108/public/311), title IV, § 408(a)(3), Oct. 4, 2004, [118 Stat. 1177](https://www.govinfo.gov/link/statute/118/1177), 1191; [Pub. L. 110–142, § 6(a)](https://www.govinfo.gov/link/plaw/110/public/142), Dec. 20, 2007, [121 Stat. 1806](https://www.govinfo.gov/link/statute/121/1806); [Pub. L. 110–289, div. C, title I](https://www.govinfo.gov/link/plaw/110/public/289), §§ 3001–3002(b), 3003(a)–(g), 3004(a)–(g), 3007(b), July 30, 2008, [122 Stat. 2878–2884](https://www.govinfo.gov/link/statute/122/2878), 2886; [Pub. L. 111–5, div. B, title I, § 1404](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 352](https://www.govinfo.gov/link/statute/123/352); [Pub. L. 112–240, title III, § 302(a)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2328](https://www.govinfo.gov/link/statute/126/2328); [Pub. L. 113–295, div. A, title I, § 112(a)](https://www.govinfo.gov/link/plaw/113/public/295), title II, §§ 212(a), 221(a)(7), Dec. 19, 2014, [128 Stat. 4014](https://www.govinfo.gov/link/statute/128/4014), 4033, 4038; [Pub. L. 114–113, div. Q, title I, § 131(a)](https://www.govinfo.gov/link/plaw/114/public/113), (b), Dec. 18, 2015, [129 Stat. 3055](https://www.govinfo.gov/link/statute/129/3055); [Pub. L. 115–97, title I, § 11002(d)(1)(G)](https://www.govinfo.gov/link/plaw/115/public/97), (3), Dec. 22, 2017, [131 Stat. 2060](https://www.govinfo.gov/link/statute/131/2060), 2061; [Pub. L. 115–141, div. T](https://www.govinfo.gov/link/plaw/115/public/141), §§ 102(a), 103(a), (b), div. U, title IV, § 401(a)(10)–(13), Mar. 23, 2018, [132 Stat. 1157](https://www.govinfo.gov/link/statute/132/1157), 1184, 1185; [Pub. L. 116–260, div. EE, title II, § 201(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3056](https://www.govinfo.gov/link/statute/134/3056); [Pub. L. 119–21, title VII, § 70422(a)(1)](https://www.govinfo.gov/link/plaw/119/public/21), (b)(1), July 4, 2025, [139 Stat. 234](https://www.govinfo.gov/link/statute/139/234).)*

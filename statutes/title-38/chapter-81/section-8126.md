@@ -3,9 +3,10 @@ title: "Section 8126 - Limitation on prices of drugs procured by Department and 
 usc_title: 38
 usc_section: "8126"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 8126"
-generated_at: "2026-03-30T02:55:53.538Z"
+generated_at: "2026-11-23T20:27:02.074Z"
+status: "active"
 ---
 
 # § 8126. Limitation on prices of drugs procured by Department and certain other Federal agencies
@@ -69,3 +70,7 @@ generated_at: "2026-03-30T02:55:53.538Z"
     - **(A)** For the portion of the first contract year during which the drug is so included, the price of the drug shall be determined in accordance with subsection (a)(2), except that the reference in such subsection to “the one-year period beginning on the date the agreement takes effect” shall be considered a reference to such portion of the first contract year.
     - **(B)** For any subsequent contract year, the price of the drug shall be determined in accordance with subsection (d), except that each reference in such subsection to “the first year for which the contract is in effect” shall be considered a reference to the portion of the first contract year during which the drug is included under the contract.
   - **(2)** In this subsection, the term “contract year” means any one-year period for which a multi-year contract described in subsection (d) is in effect.
+
+## Source Credit
+
+*(Added [Pub. L. 102–585, title VI, § 603(a)(1)](https://www.govinfo.gov/link/plaw/102/public/585), Nov. 4, 1992, [106 Stat. 4971](https://www.govinfo.gov/link/statute/106/4971); amended [Pub. L. 103–18, § 1(a)](https://www.govinfo.gov/link/plaw/103/public/18), Apr. 12, 1993, [107 Stat. 53](https://www.govinfo.gov/link/statute/107/53); [Pub. L. 103–446, title XII, § 1201(e)(27)](https://www.govinfo.gov/link/plaw/103/public/446), (f)(6), Nov. 2, 1994, [108 Stat. 4686](https://www.govinfo.gov/link/statute/108/4686), 4687; [Pub. L. 104–106, div. A, title VII, § 737(a)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 383](https://www.govinfo.gov/link/statute/110/383); [Pub. L. 105–115, title I, § 125(b)(2)(E)](https://www.govinfo.gov/link/plaw/105/public/115), Nov. 21, 1997, [111 Stat. 2325](https://www.govinfo.gov/link/statute/111/2325).)*

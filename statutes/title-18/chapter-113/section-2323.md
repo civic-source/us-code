@@ -3,9 +3,10 @@ title: "Section 2323 - Forfeiture, destruction, and restitution"
 usc_title: 18
 usc_section: "2323"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2323"
-generated_at: "2026-03-30T02:54:16.502Z"
+generated_at: "2026-11-23T20:26:08.597Z"
+status: "active"
 ---
 
 # § 2323. Forfeiture, destruction, and restitution
@@ -24,3 +25,25 @@ generated_at: "2026-03-30T02:54:16.502Z"
       - **(i)** forfeited article or component of an article bearing or consisting of a counterfeit mark be destroyed or otherwise disposed of according to law; and
       - **(ii)** infringing items or other property described in subsection (a)(1)(A) and forfeited under paragraph (1) of this subsection be destroyed or otherwise disposed of according to law.
 - **(c)** When a person is convicted of an offense under section 506 of title 17 or section 2318, 2319, 2319A, 2319B, or 2320, or chapter 90, of this title, the court, pursuant to sections 3556, 3663A, and 3664 of this title, shall order the person to pay restitution to any victim of the offense as an offense against property referred to in section 3663A(c)(1)(A)(ii) of this title .
+
+Civil Forfeiture.—
+
+Property subject to forfeiture
+
+Procedures
+
+Criminal Forfeiture.—
+
+Property subject to forfeiture
+
+Procedures.—
+
+In general
+
+Destruction
+
+Restitution
+
+## Source Credit
+
+*(Added [Pub. L. 110–403, title II, § 206(a)](https://www.govinfo.gov/link/plaw/110/public/403), Oct. 13, 2008, [122 Stat. 4262](https://www.govinfo.gov/link/statute/122/4262).)*

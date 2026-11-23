@@ -3,9 +3,10 @@ title: "Section 242k - National Center for Health Statistics"
 usc_title: 42
 usc_section: "242k"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 242k"
-generated_at: "2026-03-30T02:56:10.691Z"
+generated_at: "2026-11-23T20:27:19.983Z"
+status: "active"
 ---
 
 # § 242k. National Center for Health Statistics
@@ -86,3 +87,7 @@ generated_at: "2026-03-30T02:56:10.691Z"
   - **(1)** For health statistical and epidemiological activities undertaken or supported under subsections (a) through ( l ), there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1991 through 2003.
   - **(2)** For activities authorized in paragraphs (1) through (3) of subsection (m), there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1999 through 2003. Of such amounts, the Secretary shall use not more than 10 percent for administration and for activities described in subsection (m)(2).
   - **(3)** For activities authorized in subsection (m)(4), there are authorized to be appropriated $1,000,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 through 2002.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 306, as added [Pub. L. 93–353, title I, § 105](https://www.govinfo.gov/link/plaw/93/public/353), July 23, 1974, [88 Stat. 365](https://www.govinfo.gov/link/statute/88/365); amended [Pub. L. 95–623](https://www.govinfo.gov/link/plaw/95/public/623), §§ 5, 8(a), Nov. 9, 1978, [92 Stat. 3445](https://www.govinfo.gov/link/statute/92/3445), 3453; [Pub. L. 97–35, title IX, § 920](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 566](https://www.govinfo.gov/link/statute/95/566); [Pub. L. 97–414, § 8(b)](https://www.govinfo.gov/link/plaw/97/public/414), Jan. 4, 1983, [96 Stat. 2060](https://www.govinfo.gov/link/statute/96/2060); [Pub. L. 100–177, title I](https://www.govinfo.gov/link/plaw/100/public/177), §§ 104, 105(a), Dec. 1, 1987, [101 Stat. 988](https://www.govinfo.gov/link/statute/101/988); [Pub. L. 101–239, title VI, § 6103(e)(2)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2206](https://www.govinfo.gov/link/statute/103/2206); [Pub. L. 101–527, § 7(a)](https://www.govinfo.gov/link/plaw/101/public/527), (b)(1), (c), Nov. 6, 1990, [104 Stat. 2327](https://www.govinfo.gov/link/statute/104/2327), 2328; [Pub. L. 102–54, § 13(q)(1)(A)(i)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 278](https://www.govinfo.gov/link/statute/105/278); [Pub. L. 103–183, title V, § 501(a)](https://www.govinfo.gov/link/plaw/103/public/183), (d), Dec. 14, 1993, [107 Stat. 2237](https://www.govinfo.gov/link/statute/107/2237), 2238; [Pub. L. 104–191, title II, § 263](https://www.govinfo.gov/link/plaw/104/public/191), Aug. 21, 1996, [110 Stat. 2031](https://www.govinfo.gov/link/statute/110/2031); [Pub. L. 105–340, title II, § 201](https://www.govinfo.gov/link/plaw/105/public/340), Oct. 31, 1998, [112 Stat. 3193](https://www.govinfo.gov/link/statute/112/3193); [Pub. L. 105–392, title II, § 201(b)](https://www.govinfo.gov/link/plaw/105/public/392), Nov. 13, 1998, [112 Stat. 3585](https://www.govinfo.gov/link/statute/112/3585).)*

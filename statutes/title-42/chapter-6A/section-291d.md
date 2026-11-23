@@ -3,9 +3,10 @@ title: "Section 291d - State plans"
 usc_title: 42
 usc_section: "291d"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 291d"
-generated_at: "2026-03-30T02:56:10.771Z"
+generated_at: "2026-11-23T20:27:20.352Z"
+status: "active"
 ---
 
 # § 291d. State plans
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:10.771Z"
   - **(12)** provide that the State agency will from time to time, but not less often than annually, review its State plan and submit to the Surgeon General any modifications thereof which it considers necessary; and
   - **(13)** Effective 1 1 So in original. Probably should not be capitalized. July 1, 1971 , provide that before any project for construction or modernization of any general hospital is approved by the State agency there will be reasonable assurance of adequate provision for extended care services (as determined in accordance with regulations) to patients of such hospital when such services are medically appropriate for them, with such services being provided in facilities which (A) are structurally part of, physically connected with, or in immediate proximity to, such hospital, and (B) either (i) are under the supervision of the professional staff of such hospital or (ii) have organized medical staffs and have in effect transfer agreements with such hospital; except that the Secretary may, at the request of the State agency, waive compliance with clause (A) or (B), or both such clauses, as the case may be, in the case of any project if the State agency has determined that compliance with such clause or clauses in such case would be inadvisable.
 - **(b)** The Surgeon General shall approve any State plan and any modification thereof which complies with the provisions of subsection (a). If any such plan or modification thereof shall have been disapproved by the Surgeon General for failure to comply with subsection (a), the Federal Hospital Council shall, upon request of the State agency, afford it an opportunity for hearing. If such Council determines that the plan or modification complies with the provisions of such subsection, the Surgeon General shall thereupon approve such plan or modification.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VI, § 604, as added [Pub. L. 88–443, § 3(a)](https://www.govinfo.gov/link/plaw/88/public/443), Aug. 18, 1964, [78 Stat. 452](https://www.govinfo.gov/link/statute/78/452); amended [Pub. L. 91–296, title I](https://www.govinfo.gov/link/plaw/91/public/296), §§ 115, 116(b), (c), 123, June 30, 1970, [84 Stat. 341](https://www.govinfo.gov/link/statute/84/341), 342, 344.)*

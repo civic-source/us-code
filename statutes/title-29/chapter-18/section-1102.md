@@ -3,9 +3,10 @@ title: "Section 1102 - Establishment of plan"
 usc_title: 29
 usc_section: "1102"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1102"
-generated_at: "2026-03-30T02:55:18.716Z"
+generated_at: "2026-11-23T20:26:37.956Z"
+status: "active"
 ---
 
 # § 1102. Establishment of plan
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:18.716Z"
   - **(1)** that any person or group of persons may serve in more than one fiduciary capacity with respect to the plan (including service both as trustee and administrator);
   - **(2)** that a named fiduciary, or a fiduciary designated by a named fiduciary pursuant to a plan procedure described in section 1105(c)(1) of this title , may employ one or more persons to render advice with regard to any responsibility such fiduciary has under the plan; or
   - **(3)** that a person who is a named fiduciary with respect to control or management of the assets of the plan may appoint an investment manager or managers to manage (including the power to acquire and dispose of) any assets of a plan.
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 402](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 875](https://www.govinfo.gov/link/statute/88/875).)*

@@ -3,9 +3,10 @@ title: "Section 41764 - Use of Federal facilities and assistance"
 usc_title: 49
 usc_section: "41764"
 chapter: 417
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 41764"
-generated_at: "2026-03-30T02:56:19.378Z"
+generated_at: "2026-11-23T20:27:35.118Z"
+status: "active"
 ---
 
 # § 41764. Use of Federal facilities and assistance
@@ -15,3 +16,13 @@ generated_at: "2026-03-30T02:56:19.378Z"
   - **(2)** on a reimbursable basis.
 - **(b)** The head of each appropriate department or agency of the United States Government shall exercise the duties and powers of that head in such manner as to assist in carrying out the policy specified in section 41761.
 - **(c)** The Secretary shall make available to the Comptroller General of the United States such information with respect to any Federal credit instrument made under this subchapter as the Comptroller General may require to carry out the duties of the Comptroller General under chapter 7 of title 31, United States Code.
+
+Use of Federal Facilities
+
+Assistance
+
+Oversight
+
+## Source Credit
+
+*(Added [Pub. L. 106–181, title II, § 210(a)](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 101](https://www.govinfo.gov/link/statute/114/101).)*

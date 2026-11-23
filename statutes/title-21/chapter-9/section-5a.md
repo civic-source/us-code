@@ -3,9 +3,10 @@ title: "Section 5a - Emerging technology program"
 usc_title: 21
 usc_section: "5a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 5a"
-generated_at: "2026-03-30T02:54:54.257Z"
+generated_at: "2026-11-23T20:26:27.675Z"
+status: "active"
 ---
 
 # § 360bbb–5a. Emerging technology program
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:54:54.257Z"
   - **(2)** a description of how Food and Drug Administration staff were utilized to carry out this section and, as applicable, any challenges or limitations related to staffing;
   - **(3)** the number of public meetings held or participated in by the Food and Drug Administration pursuant to this section, including meetings convened as part of a working group described in subparagraph (D) or (G) of subsection (a)(2), and the topics of each such meeting; and
   - **(4)** the number of drug products approved or licensed, after December 29, 2022 , using an innovative approach to drug product design and manufacturing.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 566A, as added [Pub. L. 117–328, div. FF, title III, § 3203](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5814](https://www.govinfo.gov/link/statute/136/5814).)*

@@ -3,9 +3,10 @@ title: "Section 1312 - Civil investigative demands"
 usc_title: 15
 usc_section: "1312"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1312"
-generated_at: "2026-03-30T02:54:08.133Z"
+generated_at: "2026-11-23T20:26:03.995Z"
+status: "active"
 ---
 
 # § 1312. Civil investigative demands
@@ -56,3 +57,7 @@ generated_at: "2026-03-30T02:54:08.133Z"
     - **(A)** Any person compelled to appear under a demand for oral testimony pursuant to this section may be accompanied, represented, and advised by counsel. Counsel may advise such person, in confidence, either upon the request of such person or upon counsel’s own initiative, with respect to any question asked of such person. Such person or counsel may object on the record to any question, in whole or in part, and shall briefly state for the record the reason for the objection. An objection may properly be made, received, and entered upon the record when it is claimed that such person is entitled to refuse to answer the question on grounds of any constitutional or other legal right or privilege, including the privilege against self-incrimination. Such person shall not otherwise object to or refuse to answer any question, and shall not by himself or through counsel otherwise interrupt the oral examination. If such person refuses to answer any question, the antitrust investigator conducting the examination may petition the district court of the United States pursuant to section 1314 of this title for an order compelling such person to answer such question.
     - **(B)** If such person refuses to answer any question on grounds of the privilege against self-incrimination, the testimony of such person may be compelled in accordance with the provisions of Part V of title 18.
   - **(8)** Any person appearing for oral examination pursuant to a demand served under this section shall be entitled to the same fees and mileage which are paid to witnesses in the district courts of the United States.
+
+## Source Credit
+
+*([Pub. L. 87–664, § 3](https://www.govinfo.gov/link/plaw/87/public/664), Sept. 19, 1962, [76 Stat. 548](https://www.govinfo.gov/link/statute/76/548); [Pub. L. 94–435, title I, § 102](https://www.govinfo.gov/link/plaw/94/public/435), Sept. 30, 1976, [90 Stat. 1384](https://www.govinfo.gov/link/statute/90/1384); [Pub. L. 96–349, § 2(b)(1)](https://www.govinfo.gov/link/plaw/96/public/349) –(3), Sept. 12, 1980, [94 Stat. 1154](https://www.govinfo.gov/link/statute/94/1154); [Pub. L. 103–438, § 3(e)(1)(B)](https://www.govinfo.gov/link/plaw/103/public/438), Nov. 2, 1994, [108 Stat. 4598](https://www.govinfo.gov/link/statute/108/4598).)*

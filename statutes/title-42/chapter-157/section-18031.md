@@ -3,9 +3,10 @@ title: "Section 18031 - Affordable choices of health benefit plans"
 usc_title: 42
 usc_section: "18031"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18031"
-generated_at: "2026-03-30T02:56:11.512Z"
+generated_at: "2026-11-23T20:27:23.775Z"
+status: "active"
 ---
 
 # § 18031. Affordable choices of health benefit plans
@@ -179,3 +180,11 @@ generated_at: "2026-03-30T02:56:11.512Z"
   - **(6)** Grants under this subsection shall be made from the operational funds of the Exchange and not Federal funds received by the State to establish the Exchange.
 - **(j)** Section 2726 of the Public Health Service Act [ 42 U.S.C. 300gg–26 ] shall apply to qualified health plans in the same manner and to the same extent as such section applies to health insurance issuers and group health plans.
 - **(k)** An Exchange may not establish rules that conflict with or prevent the application of regulations promulgated by the Secretary under this subchapter.
+
+In General
+
+Funding
+
+## Source Credit
+
+*([Pub. L. 111–148, title I, § 1311](https://www.govinfo.gov/link/plaw/111/public/148), title X, §§ 10104(e)–(h), 10203(a), Mar. 23, 2010, [124 Stat. 173](https://www.govinfo.gov/link/statute/124/173), 900, 901, 927; [Pub. L. 116–94, div. N, title I, § 608](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3130](https://www.govinfo.gov/link/statute/133/3130).)*

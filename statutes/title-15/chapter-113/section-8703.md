@@ -3,9 +3,10 @@ title: "Section 8703 - Issuance of orders"
 usc_title: 15
 usc_section: "8703"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 8703"
-generated_at: "2026-03-30T02:54:08.232Z"
+generated_at: "2026-11-23T20:26:04.498Z"
+status: "active"
 ---
 
 # § 8703. Issuance of orders
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:08.232Z"
     - **(A)** After notice and opportunity for public comment are provided in accordance with paragraph (2), the Secretary shall issue the order, taking into consideration the comments received and including in the order such provisions as are necessary to ensure that the order is in conformity with this chapter.
     - **(B)** If there is an affirmative vote in a referendum as provided in section 8706 of this title , the Secretary shall issue the order and such order shall be effective not later than 140 days after publication of the proposed order.
 - **(c)** The Secretary may, from time to time, amend an order. The provisions of this chapter applicable to an order shall be applicable to any amendment to an order.
+
+## Source Credit
+
+*([Pub. L. 115–254, div. E, § 1304](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3471](https://www.govinfo.gov/link/statute/132/3471).)*

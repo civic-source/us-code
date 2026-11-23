@@ -3,9 +3,10 @@ title: "Section 7586 - Centrally fueled fleets"
 usc_title: 42
 usc_section: "7586"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7586"
-generated_at: "2026-03-30T02:56:11.318Z"
+generated_at: "2026-11-23T20:27:22.926Z"
+status: "active"
 ---
 
 # § 7586. Centrally fueled fleets
@@ -37,3 +38,21 @@ generated_at: "2026-03-30T02:56:11.318Z"
   - **(5)** The State plan revision shall provide credits under this subsection to fleet operators that purchase vehicles certified to meet clean-fuel vehicle standards under this part during any period after approval of the plan revision and prior to the effective date of the fleet program under this section.
 - **(g)** At any facility owned or operated by a department, agency, or instrumentality of the United States where vehicles subject to this subsection are supplied with clean alternative fuel, such fuel shall be offered for sale to the public for use in other vehicles during reasonable business times and subject to national security concerns, unless such fuel is commercially available for vehicles in the vicinity of such Federal facilities.
 - **(h)** The Administrator shall by rule, within 1 year after November 15, 1990 , ensure that certain transportation control measures including time-of-day or day-of-week restrictions, and other similar measures that restrict vehicle usage, do not apply to any clean-fuel vehicle that meets the requirements of this section. This subsection shall apply notwithstanding subchapter I.
+
+| Clean Fuel Vehicle Phase-in Requirements for Fleets | Col 2 | Col 3 | Col 4 |
+| --- | --- | --- | --- |
+| Light-duty trucks up to 6,000 lbs. GVWR and light-duty vehicles | 30% | 50% | 70% |
+| Heavy-duty trucks above 8,500 lbs. GVWR | 50% | 50% | 50% |
+
+
+Clean Fuel Vehicle Phase-in Requirements for Fleets
+
+The term MY refers to model year.
+
+Light-duty trucks up to 6,000 lbs. GVWR and light-duty vehicles
+
+Heavy-duty trucks above 8,500 lbs. GVWR
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title II, § 246, as added [Pub. L. 101–549, title II, § 229(a)](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2520](https://www.govinfo.gov/link/statute/104/2520).)*

@@ -3,9 +3,10 @@ title: "Section 7111 - Congressional findings"
 usc_title: 42
 usc_section: "7111"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7111"
-generated_at: "2026-03-30T02:56:11.282Z"
+generated_at: "2026-11-23T20:27:22.773Z"
+status: "active"
 ---
 
 # § 7111. Congressional findings
@@ -17,3 +18,7 @@ The Congress of the United States finds that—
   - **(3)** a strong national energy program is needed to meet the present and future energy needs of the Nation consistent with overall national economic, environmental and social goals;
   - **(4)** responsibility for energy policy, regulation, and research, development and demonstration is fragmented in many departments and agencies and thus does not allow for the comprehensive, centralized focus necessary for effective coordination of energy supply and conservation programs; and
   - **(5)** formulation and implementation of a national energy program require the integration of major Federal energy functions into a single department in the executive branch.
+
+## Source Credit
+
+*([Pub. L. 95–91, title I, § 101](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 567](https://www.govinfo.gov/link/statute/91/567).)*

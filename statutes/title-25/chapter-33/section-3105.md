@@ -3,9 +3,10 @@ title: "Section 3105 - Forest management deduction"
 usc_title: 25
 usc_section: "3105"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3105"
-generated_at: "2026-03-30T02:54:52.848Z"
+generated_at: "2026-11-23T20:26:25.634Z"
+status: "active"
 ---
 
 # § 3105. Forest management deduction
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:52.848Z"
     - **(A)** cover the costs that are paid from funds appropriated specifically for fire suppression or pest control, or
     - **(B)** otherwise offset Federal appropriations for meeting the Federal trust responsibility for management of Indian forest lands.
   - **(2)** No other forest management deductions derived from Indian forest lands shall be collected to be covered into the general funds of the United States Treasury.
+
+## Source Credit
+
+*([Pub. L. 101–630, title III, § 306](https://www.govinfo.gov/link/plaw/101/public/630), Nov. 28, 1990, [104 Stat. 4536](https://www.govinfo.gov/link/statute/104/4536).)*

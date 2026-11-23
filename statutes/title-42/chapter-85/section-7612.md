@@ -3,9 +3,10 @@ title: "Section 7612 - Economic impact analyses"
 usc_title: 42
 usc_section: "7612"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7612"
-generated_at: "2026-03-30T02:56:11.319Z"
+generated_at: "2026-11-23T20:27:22.935Z"
+status: "active"
 ---
 
 # § 7612. Economic impact analyses
@@ -28,3 +29,19 @@ generated_at: "2026-03-30T02:56:11.319Z"
   - **(1)** review the data to be used for any analysis required under this section and make recommendations to the Administrator on the use of such data;
   - **(2)** review the methodology used to analyze such data and make recommendations to the Administrator on the use of such methodology; and
   - **(3)** prior to the issuance of a report required under subsection (d) or (e), review the findings of such report, and make recommendations to the Administrator concerning the validity and utility of such findings.
+
+Findings
+
+Action by the President.—
+
+In general
+
+Additional reporting requirements
+
+Public comment
+
+Interim report
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title III, § 312, formerly § 305, as added [Pub. L. 90–148, § 2](https://www.govinfo.gov/link/plaw/90/public/148), Nov. 21, 1967, [81 Stat. 505](https://www.govinfo.gov/link/statute/81/505); renumbered § 312 and amended [Pub. L. 91–604](https://www.govinfo.gov/link/plaw/91/public/604), §§ 12(a), 15(c)(2), Dec. 31, 1970, [84 Stat. 1705](https://www.govinfo.gov/link/statute/84/1705), 1713; [Pub. L. 95–95, title II, § 224(c)](https://www.govinfo.gov/link/plaw/95/public/95), Aug. 7, 1977, [91 Stat. 767](https://www.govinfo.gov/link/statute/91/767); [Pub. L. 101–549, title VIII, § 812(a)](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2691](https://www.govinfo.gov/link/statute/104/2691).)*

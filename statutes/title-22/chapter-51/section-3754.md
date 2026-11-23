@@ -3,9 +3,10 @@ title: "Section 3754 - Congressional restraints on property transfers and tax ex
 usc_title: 22
 usc_section: "3754"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3754"
-generated_at: "2026-03-30T02:55:05.397Z"
+generated_at: "2026-11-23T20:26:32.475Z"
+status: "active"
 ---
 
 # § 3754. Congressional restraints on property transfers and tax expenditures; formal apprisal of Panama
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.397Z"
   - **(3)** no tax revenues of the United States shall be made available for obligations and expenditure after October 1, 1979 , for purposes of implementing the Panama Canal Treaty of 1977 and related agreements, unless hereafter specifically approved by the Congress through the authorization and appropriation process;
   - **(4)** the total amount expended by the Commission from funds available for the use of the Commission shall not exceed the total amount deposited in the Panama Canal Revolving Fund; and
   - **(5)** the foregoing paragraphs of this subsection do not apply to expenditures made by the United States in fulfilling United States obligations to transfer the remains of our honored dead from Mount Hope Cemetery in the former Canal Zone to an appropriate and dignified resting place in accordance with Reservation 3 to the Treaty Concerning the Permanent Neutrality and Operation of the Panama Canal.
+
+## Source Credit
+
+*([Pub. L. 96–70, title I, § 1344](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 484](https://www.govinfo.gov/link/statute/93/484); [Pub. L. 100–203, title V, § 5428(c)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–274](https://www.govinfo.gov/link/statute/101/1330).)*

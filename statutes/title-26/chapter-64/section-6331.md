@@ -3,9 +3,10 @@ title: "Section 6331 - Levy and distraint"
 usc_title: 26
 usc_section: "6331"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6331"
-generated_at: "2026-03-30T02:55:27.849Z"
+generated_at: "2026-11-23T20:26:46.621Z"
+status: "active"
 ---
 
 # § 6331. Levy and distraint
@@ -84,3 +85,15 @@ generated_at: "2026-03-30T02:55:27.849Z"
   - **(1)** For provisions relating to jeopardy, see subchapter A of chapter 70.
   - **(2)** For proceedings applicable to sale of seized property see section 6335.
   - **(3)** For release and notice of release of levy, see section 6343.
+
+In general
+
+Suspension of collection by levy
+
+In general
+
+Subsection
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 783; [Pub. L. 89–719, title I, § 104(a)](https://www.govinfo.gov/link/plaw/89/public/719), Nov. 2, 1966, [80 Stat. 1135](https://www.govinfo.gov/link/statute/80/1135); [Pub. L. 92–178, title II, § 211(a)](https://www.govinfo.gov/link/plaw/92/public/178), Dec. 10, 1971, [85 Stat. 520](https://www.govinfo.gov/link/statute/85/520); [Pub. L. 94–455, title XII, § 1209(d)(1)](https://www.govinfo.gov/link/plaw/94/public/455), (2), (4), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1710](https://www.govinfo.gov/link/statute/90/1710), 1711, 1834; [Pub. L. 97–248, title III, § 349(a)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 639](https://www.govinfo.gov/link/statute/96/639); [Pub. L. 98–369, div. A, title VII, § 714](https://www.govinfo.gov/link/plaw/98/public/369) (o), July 18, 1984, [98 Stat. 964](https://www.govinfo.gov/link/statute/98/964); [Pub. L. 100–647, title VI, § 6236(a)](https://www.govinfo.gov/link/plaw/100/public/647), (b), (d), Nov. 10, 1988, [102 Stat. 3737](https://www.govinfo.gov/link/statute/102/3737), 3739; [Pub. L. 105–34, title X, § 1024(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 923](https://www.govinfo.gov/link/statute/111/923); [Pub. L. 105–206, title III](https://www.govinfo.gov/link/plaw/105/public/206), §§ 3433(a), 3444(a), 3462(b), title VI, § 6010(f), July 22, 1998, [112 Stat. 759](https://www.govinfo.gov/link/statute/112/759), 762, 765, 814; [Pub. L. 106–554, § 1(a)(7) [title III, § 313(b)(3)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–642; [Pub. L. 107–147, title IV, § 416(e)(1)](https://www.govinfo.gov/link/plaw/107/public/147), Mar. 9, 2002, [116 Stat. 55](https://www.govinfo.gov/link/statute/116/55); [Pub. L. 108–357, title VIII, § 887(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1641](https://www.govinfo.gov/link/statute/118/1641); [Pub. L. 112–56, title III, § 301(a)](https://www.govinfo.gov/link/plaw/112/public/56), Nov. 21, 2011, [125 Stat. 733](https://www.govinfo.gov/link/statute/125/733); [Pub. L. 113–295, div. B, title II, § 209(a)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4074](https://www.govinfo.gov/link/statute/128/4074); [Pub. L. 114–10, title IV, § 413(a)](https://www.govinfo.gov/link/plaw/114/public/10), Apr. 16, 2015, [129 Stat. 162](https://www.govinfo.gov/link/statute/129/162); [Pub. L. 114–94, div. C, title XXXII, § 32101(b)(2)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1731](https://www.govinfo.gov/link/statute/129/1731).)*

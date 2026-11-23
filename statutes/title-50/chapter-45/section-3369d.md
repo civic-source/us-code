@@ -3,9 +3,10 @@ title: "Section 3369d - Committee to counter active measures by the Russian Fede
 usc_title: 50
 usc_section: "3369d"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3369d"
-generated_at: "2026-03-30T02:56:26.249Z"
+generated_at: "2026-11-23T20:27:30.995Z"
+status: "active"
 ---
 
 # § 3369d. Committee to counter active measures by the Russian Federation, the People’s Republic of China, the Islamic Republic of Iran, the Democratic People’s Republic of Korea, or other nation state to exert covert influence over peoples and governments
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:56:26.249Z"
   - **(2)** Such other duties as the President may designate for purposes of this section.
 - **(f)** The committee established by subsection (b) may employ such staff as the members of such committee consider appropriate.
 - **(g)** A request for funds required for the functioning of the committee established by subsection (b) may be included in each budget for a fiscal year submitted by the President pursuant to section 1105(a) of title 31 .
+
+## Source Credit
+
+*([Pub. L. 115–31, div. N, title V, § 501](https://www.govinfo.gov/link/plaw/115/public/31), May 5, 2017, [131 Stat. 823](https://www.govinfo.gov/link/statute/131/823); [Pub. L. 116–92, div. E, title LXVII, § 6706(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2224](https://www.govinfo.gov/link/statute/133/2224); [Pub. L. 119–60, div. F, title LXVIII, § 6801(b)(6)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1653](https://www.govinfo.gov/link/statute/139/1653).)*

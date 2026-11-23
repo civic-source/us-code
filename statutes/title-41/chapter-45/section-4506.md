@@ -3,9 +3,10 @@ title: "Section 4506 - Action in case of fraud"
 usc_title: 41
 usc_section: "4506"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 4506"
-generated_at: "2026-03-30T02:55:55.808Z"
+generated_at: "2026-11-23T20:27:04.456Z"
+status: "active"
 ---
 
 # § 4506. Action in case of fraud
@@ -21,3 +22,48 @@ generated_at: "2026-03-30T02:55:55.808Z"
   - **(2)** transmit a recommendation to the head of the executive agency whether the suspension or reduction should continue.
 - **(h)** The head of each executive agency who receives recommendations made by the remedy coordination official of the executive agency to reduce or suspend payments under subsection (c) during a fiscal year shall prepare for that year a report that contains the recommendations, the actions taken on the recommendations and the reasons for those actions, and an assessment of the effects of those actions on the Federal Government. The report shall be available to any Member of Congress on request.
 - **(i)** The head of an executive agency may not delegate responsibilities under this section to an individual in a position below level IV of the Executive Schedule.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 4506 | 41:255(g). | June 30, 1949, ch. 288 , title III, § 305(g), as added Pub. L. 103–355, title II, § 2051(e) , Oct. 13, 1994 , 108 Stat. 3305 , as amended Pub. L. 104–106, title XLIII, § 4321(a)(4) , Feb. 10, 1996 , 110 Stat. 671 . |
+
+
+Definition
+
+Recommendation To Reduce or Suspend Payments
+
+Reduction or Suspension of Payments
+
+Extent of Reduction or Suspension
+
+Written Justification
+
+Notice
+
+Review
+
+Report
+
+Restriction on Delegation
+
+Historical and Revision Notes
+
+4506
+
+June 30, 1949, ch. 288
+
+Pub. L. 103–355, title II, § 2051(e)
+
+Oct. 13, 1994
+
+108 Stat. 3305
+
+Pub. L. 104–106, title XLIII, § 4321(a)(4)
+
+Feb. 10, 1996
+
+110 Stat. 671
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3792](https://www.govinfo.gov/link/statute/124/3792).)*

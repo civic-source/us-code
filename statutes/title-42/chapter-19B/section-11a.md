@@ -3,9 +3,10 @@ title: "Section 11a - Potomac River water diversion structure"
 usc_title: 42
 usc_section: "11a"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11a"
-generated_at: "2026-03-30T02:56:11.135Z"
+generated_at: "2026-11-23T20:27:21.986Z"
+status: "active"
 ---
 
 # § 1962d–11a. Potomac River water diversion structure
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.135Z"
   - **(2)** The structure authorized by paragraph (1) of this subsection, may not be constructed until the Secretary of the Army, acting through the Chief of Engineers, and the State of Maryland, the Commonwealth of Virginia, the Washington Suburban Sanitary Commission, and such other governmental authorities as the Secretary of the Army, the State of Maryland, and the Commonwealth of Virginia deem desirable signatories enter into a written agreement providing an enforceable schedule for allocation among the parties to such agreement for the withdrawal of the waters of that portion of the Potomac River located between Little Falls Dam and the farthest upstream limit of the pool of water behind the Chesapeake and Ohio Canal Company rubble dam at Seneca, Maryland, during periods of low flow of such portion of such river.
 - **(b)** The Secretary of the Army, acting through the Chief of Engineers, is authorized to enter into the agreement referred to in subsection (a)(2) of this section and any amendment to or revision of such agreement.
 - **(c)** Except as may be provided in the agreement referred to in subsection (a)(2) of this section, nothing in this section shall alter any riparian rights or other authority of the State of Maryland, or any political subdivision thereof, the Commonwealth of Virginia, or any political subdivision thereof, or the District of Columbia, or authority of the Corps of Engineers existing on October 22, 1976 , relative to the appropriation of water from, or the use of, the Potomac River.
+
+## Source Credit
+
+*([Pub. L. 94–587, § 181](https://www.govinfo.gov/link/plaw/94/public/587), Oct. 22, 1976, [90 Stat. 2939](https://www.govinfo.gov/link/statute/90/2939); [Pub. L. 96–292, § 2](https://www.govinfo.gov/link/plaw/96/public/292), June 28, 1980, [94 Stat. 609](https://www.govinfo.gov/link/statute/94/609).)*

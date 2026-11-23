@@ -3,9 +3,10 @@ title: "Section 9675 - Applicability of securities laws"
 usc_title: 42
 usc_section: "9675"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9675"
-generated_at: "2026-03-30T02:56:11.365Z"
+generated_at: "2026-11-23T20:27:23.131Z"
+status: "active"
 ---
 
 # § 9675. Applicability of securities laws
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.365Z"
   - **(2)** securities for purposes of the provisions of section 77q of title 15 and the provisions of section 78j of title 15 .
 - **(b)** A risk retention group shall not be considered to be an investment company for purposes of the Investment Company Act of 1940 ( 15 U.S.C. 80a–1 et seq.).
 - **(c)** The ownership interests of members in a risk retention group shall not be considered securities for purposes of any State blue sky law.
+
+## Source Credit
+
+*([Pub. L. 96–510, title IV, § 405](https://www.govinfo.gov/link/plaw/96/public/510), as added [Pub. L. 99–499, title II, § 210(a)](https://www.govinfo.gov/link/plaw/99/public/499), formerly § 210, Oct. 17, 1986, [100 Stat. 1719](https://www.govinfo.gov/link/statute/100/1719); renumbered § 210(a), [Pub. L. 99–563, § 11(c)(1)](https://www.govinfo.gov/link/plaw/99/public/563), Oct. 27, 1986, [100 Stat. 3177](https://www.govinfo.gov/link/statute/100/3177).)*

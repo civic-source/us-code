@@ -3,9 +3,10 @@ title: "Section 3122 - Longitudinal study of vocational rehabilitation programs"
 usc_title: 38
 usc_section: "3122"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 3122"
-generated_at: "2026-03-30T02:55:53.501Z"
+generated_at: "2026-11-23T20:27:01.834Z"
+status: "active"
 ---
 
 # § 3122. Longitudinal study of vocational rehabilitation programs
@@ -34,3 +35,13 @@ generated_at: "2026-03-30T02:55:53.501Z"
   - **(14)** The average total household income of such individuals for the year covered by the report.
   - **(15)** The percentage of such individuals who own their principal residences.
   - **(16)** The average number of dependents of each such veteran.
+
+Study Required
+
+Annual Reports
+
+Contents of Report
+
+## Source Credit
+
+*(Added [Pub. L. 110–389, title III, § 334(a)](https://www.govinfo.gov/link/plaw/110/public/389), Oct. 10, 2008, [122 Stat. 4172](https://www.govinfo.gov/link/statute/122/4172).)*

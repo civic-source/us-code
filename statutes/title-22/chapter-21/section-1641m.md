@@ -3,12 +3,17 @@ title: "Section 1641m - Finality of action of Commission"
 usc_title: 22
 usc_section: "1641m"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 1641m"
-generated_at: "2026-03-30T02:55:05.336Z"
+generated_at: "2026-11-23T20:26:32.133Z"
+status: "active"
 ---
 
 # § 1641m. Finality of action of Commission
 
 The action of the Commission in allowing or denying any claim under this subchapter shall be final and conclusive on all questions of law and fact and not subject to review by any other official of the United States or by any court by mandamus or otherwise, and the Comptroller General shall allow credit in the accounts of any certifying or disbursing officer for payments in accordance with such action.
 
+
+## Source Credit
+
+*(Mar. 10, 1950, ch. 54, title III, § 314, as added Aug. 9, 1955, ch. 645, § 3, [69 Stat. 574](https://www.govinfo.gov/link/statute/69/574).)*

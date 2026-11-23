@@ -3,9 +3,10 @@ title: "Section 1615 - Withdrawal and selection of public lands; funds in lieu o
 usc_title: 43
 usc_section: "1615"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1615"
-generated_at: "2026-03-30T02:55:57.480Z"
+generated_at: "2026-11-23T20:27:06.327Z"
+status: "active"
 ---
 
 # § 1615. Withdrawal and selection of public lands; funds in lieu of acreage
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:57.480Z"
 - **(d)**
   - **(1)** The Secretary is authorized and directed to withdraw seventy thousand acres of public lands, as defined in section 1602 of this title , in order that the Village Corporation for the village of Klukwan may select twenty-three thousand and forty acres of land. Such Corporation and the shareholders thereof shall otherwise participate fully in the benefits provided by this chapter to the same extent as they would have participated had they not elected to acquire title to their former reserve as provided by section 1618(b) of this title : Provided , That nothing in this subsection shall affect the existing entitlement of any Regional Corporation to lands pursuant to section 1613(h)(8) of this title : Provided further , That no such lands shall be withdrawn from an area previously withdrawn as a forest reserve without prior consultation with the Secretary of Agriculture: Provided further , That the foregoing provisions of this subsection shall not become effective unless and until the Village Corporation for the village of Klukwan shall quitclaim to Chilkat Indian Village, organized under the provisions of the Act of June 18, 1934 ( 48 Stat. 984 ), as amended by the Act of May 1, 1936 ( 49 Stat. 1250 ), 1 1 See References in Text note below. all its right, title, and interest in the lands of the reservation defined in and vested by the Act of September 2, 1957 ( 71 Stat. 596 ), which lands are hereby conveyed and confirmed to said Chilkat Indian Village in fee simple absolute, free of trust and all restrictions upon alienation, encumbrance, or otherwise: Provided further , That the United States and the Village Corporation for the village of Klukwan shall also quitclaim to said Chilkat Indian Village any right or interest they may have in and to income derived from the reservation lands defined in and vested by the Act of September 2, 1957 , after December 18, 1971 , and prior to January 2, 1976 .
   - **(2)** The lands withdrawn by the Secretary pursuant to paragraph (1) of this subsection shall be located in the southeastern Alaska region and shall be of similar character and comparable value, to the extent possible, to those of the Chilkat Valley surrounding the village of Klukwan. Such withdrawal shall be made within six months of October 4, 1976 , and the Village Corporation for the village of Klukwan shall select, within one year from the time that the withdrawal is made, and be conveyed, twenty-three thousand and forty acres. None of the lands withdrawn by the Secretary for selection by the Village Corporation for the village of Klukwan shall have been selected by, or be subject to an outstanding nomination for selection by, any other Native Corporation organized pursuant to this chapter, or located on Admiralty Island.
+
+## Source Credit
+
+*([Pub. L. 92–203, § 16](https://www.govinfo.gov/link/plaw/92/public/203), Dec. 18, 1971, [85 Stat. 705](https://www.govinfo.gov/link/statute/85/705); [Pub. L. 94–204](https://www.govinfo.gov/link/plaw/94/public/204), §§ 9, 10, Jan. 2, 1976, [89 Stat. 1150](https://www.govinfo.gov/link/statute/89/1150); [Pub. L. 94–456, § 1](https://www.govinfo.gov/link/plaw/94/public/456), Oct. 4, 1976, [90 Stat. 1934](https://www.govinfo.gov/link/statute/90/1934); [Pub. L. 95–178, § 1](https://www.govinfo.gov/link/plaw/95/public/178), Nov. 15, 1977, [91 Stat. 1369](https://www.govinfo.gov/link/statute/91/1369).)*

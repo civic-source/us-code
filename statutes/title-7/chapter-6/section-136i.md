@@ -3,9 +3,10 @@ title: "Section 136i - Use of restricted use pesticides; applicators"
 usc_title: 7
 usc_section: "136i"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 136i"
-generated_at: "2026-03-30T02:53:42.261Z"
+generated_at: "2026-11-23T20:25:40.926Z"
+status: "active"
 ---
 
 # § 136i. Use of restricted use pesticides; applicators
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:42.261Z"
 - **(c)** Standards prescribed by the Administrator for the certification of applicators of pesticides under subsection (a), and State plans submitted to the Administrator under subsection (a), shall include provisions for making instructional materials concerning integrated pest management techniques available to individuals at their request in accordance with the provisions of section 136u(c) of this title , but such plans may not require that any individual receive instruction concerning such techniques or to be shown to be competent with respect to the use of such techniques. The Administrator and States implementing such plans shall provide that all interested individuals are notified on the availability of such instructional materials.
 - **(d)** No regulations prescribed by the Administrator for carrying out the provisions of this subchapter shall require any private applicator to maintain any records or file any reports or other documents.
 - **(e)** When establishing or approving standards for licensing or certification, the Administrator shall establish separate standards for commercial and private applicators.
+
+## Source Credit
+
+*(June 25, 1947, ch. 125, § 11, formerly §§ 4, 11, as added [Pub. L. 92–516, § 2](https://www.govinfo.gov/link/plaw/92/public/516), Oct. 21, 1972, [86 Stat. 983](https://www.govinfo.gov/link/statute/86/983), 989; amended [Pub. L. 94–140](https://www.govinfo.gov/link/plaw/94/public/140), §§ 5, 11, Nov. 28, 1975, [89 Stat. 753](https://www.govinfo.gov/link/statute/89/753), 754; [Pub. L. 95–396, § 9](https://www.govinfo.gov/link/plaw/95/public/396), Sept. 30, 1978, [92 Stat. 827](https://www.govinfo.gov/link/statute/92/827); [Pub. L. 100–532, title VIII, § 801(c)](https://www.govinfo.gov/link/plaw/100/public/532), (q)(1)(A)–(C), Oct. 25, 1988, [102 Stat. 2681](https://www.govinfo.gov/link/statute/102/2681), 2683; [Pub. L. 102–237, title X, § 1006(a)(6)](https://www.govinfo.gov/link/plaw/102/public/237), (b)(1), (2), (3)(K), Dec. 13, 1991, [105 Stat. 1895](https://www.govinfo.gov/link/statute/105/1895), 1896.)*

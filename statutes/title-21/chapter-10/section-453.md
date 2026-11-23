@@ -3,9 +3,10 @@ title: "Section 453 - Definitions"
 usc_title: 21
 usc_section: "453"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 453"
-generated_at: "2026-03-30T02:54:54.285Z"
+generated_at: "2026-11-23T20:26:27.789Z"
+status: "active"
 ---
 
 # § 453. Definitions
@@ -64,3 +65,7 @@ For purposes of this chapter—
 - **(z)** The term “poultry products broker” means any person engaged in the business of buying or selling poultry products on commission, or otherwise negotiating purchases or sales of such articles other than for his own account or as an employee of another person.
 - **(aa)** The term “renderer” means any person engaged in the business of rendering carcasses, or parts or products of the carcasses, of poultry, except rendering conducted under inspection or exemption under this chapter.
 - **(bb)** The term “animal food manufacturer” means any person engaged in the business of manufacturing or processing animal food derived wholly or in part from carcasses, or parts or products of the carcasses, of poultry.
+
+## Source Credit
+
+*([Pub. L. 85–172, § 4](https://www.govinfo.gov/link/plaw/85/public/172), Aug. 28, 1957, [71 Stat. 441](https://www.govinfo.gov/link/statute/71/441); [Pub. L. 87–498](https://www.govinfo.gov/link/plaw/87/public/498), June 25, 1962, [76 Stat. 110](https://www.govinfo.gov/link/statute/76/110); [Pub. L. 90–492, § 4](https://www.govinfo.gov/link/plaw/90/public/492), Aug. 18, 1968, [82 Stat. 792](https://www.govinfo.gov/link/statute/82/792); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695); [Pub. L. 102–571, title I, § 107(13)](https://www.govinfo.gov/link/plaw/102/public/571), Oct. 29, 1992, [106 Stat. 4499](https://www.govinfo.gov/link/statute/106/4499).)*

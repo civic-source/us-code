@@ -3,9 +3,10 @@ title: "Section 7420 - Noncompliance penalty"
 usc_title: 42
 usc_section: "7420"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7420"
-generated_at: "2026-03-30T02:56:11.301Z"
+generated_at: "2026-11-23T20:27:22.862Z"
+status: "active"
 ---
 
 # § 7420. Noncompliance penalty
@@ -65,3 +66,7 @@ generated_at: "2026-03-30T02:56:11.301Z"
 - **(e)** Any action pursuant to this section, including any objection of the Administrator under the last sentence of subsection (b), shall be considered a final action for purposes of judicial review of any penalty under section 7607 of this title .
 - **(f)** Any orders, payments, sanctions, or other requirements under this section shall be in addition to any other permits, orders, payments, sanctions, or other requirements established under this chapter, and shall in no way affect any civil or criminal enforcement proceedings brought under any provision of this chapter or State or local law.
 - **(g)** In the case of any emission limitation or other requirement approved or promulgated by the Administrator under this chapter after August 7, 1977 , which is more stringent than the emission limitation or requirement for the source in effect prior to such approval or promulgation, if any, or where there was no emission limitation or requirement approved or promulgated before August 7, 1977 , the date for imposition of the non-compliance penalty under this section, shall be either July 1, 1979 , or the date on which the source is required to be in full compliance with such emission limitation or requirement, whichever is later, but in no event later than three years after the approval or promulgation of such emission limitation or requirement.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 120, as added [Pub. L. 95–95, title I, § 118](https://www.govinfo.gov/link/plaw/95/public/95), Aug. 7, 1977, [91 Stat. 714](https://www.govinfo.gov/link/statute/91/714); amended [Pub. L. 95–190, § 14(a)(28)](https://www.govinfo.gov/link/plaw/95/public/190) –(38), Nov. 16, 1977, [91 Stat. 1401](https://www.govinfo.gov/link/statute/91/1401); [Pub. L. 101–549, title VII, § 710(a)](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2684](https://www.govinfo.gov/link/statute/104/2684).)*

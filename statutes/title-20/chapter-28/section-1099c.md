@@ -3,9 +3,10 @@ title: "Section 1099c - Eligibility and certification procedures"
 usc_title: 20
 usc_section: "1099c"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1099c"
-generated_at: "2026-03-30T02:54:48.140Z"
+generated_at: "2026-11-23T20:26:14.541Z"
+status: "active"
 ---
 
 # § 1099c. Eligibility and certification procedures
@@ -108,3 +109,7 @@ generated_at: "2026-03-30T02:54:48.140Z"
   - **(2)** An institution of higher education that conducts a teach-out through the establishment of an additional location described in paragraph (1) shall be permitted to establish a permanent additional location at a closed institution and shall not be required—
     - **(A)** to meet the requirements of sections 1002(b)(1)(E) and 1002(c)(1)(C) of this title for such additional location; or
     - **(B)** to assume the liabilities of the closed institution.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 498](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 102–325, title IV, § 499](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 647](https://www.govinfo.gov/link/statute/106/647); amended [Pub. L. 103–208, § 2(i)(9)](https://www.govinfo.gov/link/plaw/103/public/208) –(14), Dec. 20, 1993, [107 Stat. 2479](https://www.govinfo.gov/link/statute/107/2479), 2480; [Pub. L. 105–244, title I, § 102(a)(6)(B)](https://www.govinfo.gov/link/plaw/105/public/244), (b)(6), (7), title IV, § 493(a)–(c)(1), (d)–(h), Oct. 7, 1998, [112 Stat. 1618](https://www.govinfo.gov/link/statute/112/1618), 1622, 1761–1763; [Pub. L. 110–315, title IV, § 496](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3327](https://www.govinfo.gov/link/statute/122/3327); [Pub. L. 111–39, title IV, § 408(2)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1953](https://www.govinfo.gov/link/statute/123/1953).)*

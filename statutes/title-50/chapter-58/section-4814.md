@@ -3,9 +3,10 @@ title: "Section 4814 - Administration of export controls"
 usc_title: 50
 usc_section: "4814"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4814"
-generated_at: "2026-03-30T02:56:26.283Z"
+generated_at: "2026-11-23T20:27:31.143Z"
+status: "active"
 ---
 
 # § 4814. Administration of export controls
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:26.283Z"
     - **(E)** policies and procedures for the end-use monitoring of exports, reexports, and in-country transfers of items controlled under this subchapter; and
   - **(3)** benefit from the inherent equities, experience, and capabilities of the Federal officials described in subsection (a).
 - **(c)** It is the sense of Congress that the administration of export controls under this subchapter should be consistent with the procedures relating to export license applications described in Executive Order 12981 (1995).
+
+## Source Credit
+
+*([Pub. L. 115–232, div. A, title XVII, § 1755](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2216](https://www.govinfo.gov/link/statute/132/2216).)*

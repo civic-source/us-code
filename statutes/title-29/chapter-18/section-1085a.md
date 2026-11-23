@@ -3,9 +3,10 @@ title: "Section 1085a - Minimum funding standards"
 usc_title: 29
 usc_section: "1085a"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1085a"
-generated_at: "2026-03-30T02:55:18.715Z"
+generated_at: "2026-11-23T20:26:37.951Z"
+status: "active"
 ---
 
 # § 1085a. Minimum funding standards
@@ -109,7 +110,15 @@ generated_at: "2026-03-30T02:55:18.715Z"
     - **(C)** For purposes of subparagraph (A)(ii), contributions shall be credited against unpaid required installments in the order in which such installments are required to be paid.
   - **(3)** For purposes of this subsection—
     - **(A)** There shall be 4 required installments for each plan year.
-    - **(B)** In the case of the following required installments: The due date is: 1st April 15 2nd July 15 3rd October 15 4th January 15 of the following year.
+    - **(B)**
+
+|  | In the case of the following required installments: | The due date is: |
+| --- | --- | --- |
+|  | 1st | April 15 |
+|  | 2nd | July 15 |
+|  | 3rd | October 15 |
+|  | 4th | January 15 of the following year. |
+
   - **(4)** For purposes of this subsection—
     - **(A)** The amount of any required installment shall be 25 percent of the required annual payment.
     - **(B)** For purposes of subparagraph (A), the term “required annual payment” means the lesser of—
@@ -197,3 +206,40 @@ generated_at: "2026-03-30T02:55:18.715Z"
       - **(ii)** the plan’s funding liability.
     - **(C)** The term “funding liability” for a plan year means the present value of all benefits accrued or earned under the plan as of the beginning of the plan year, based on the assumptions used by the plan pursuant to this section, including the interest rate described in subsection (b)(5)(A) (without regard to subsection (b)(5)(B)).
     - **(D)** The term “spread gain funding method” has the meaning given such term under rules and forms issued by the Secretary of the Treasury.
+
+|  | If the years of participation are: | The applicable percentage is: |
+| --- | --- | --- |
+|  | 1 | 20 |
+|  | 2 | 40 |
+|  | 3 | 60 |
+|  | 4 | 80 |
+|  | 5 or more | 100. |
+
+
+Minimum amount.—
+
+In general
+
+Assets
+
+1st
+
+2nd
+
+3rd
+
+4th
+
+1
+
+2
+
+3
+
+4
+
+5 or more
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 306](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 113–97, title I, § 102(a)](https://www.govinfo.gov/link/plaw/113/public/97), Apr. 7, 2014, [128 Stat. 1102](https://www.govinfo.gov/link/statute/128/1102).)*

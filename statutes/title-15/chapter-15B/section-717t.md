@@ -3,12 +3,17 @@ title: "Section 717t - General penalties"
 usc_title: 15
 usc_section: "717t"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 717t"
-generated_at: "2026-03-30T02:54:08.118Z"
+generated_at: "2026-11-23T20:26:03.906Z"
+status: "active"
 ---
 
 # § 717t. General penalties
 
 - **(a)** Any person who willfully and knowingly does or causes or suffers to be done any act, matter, or thing in this chapter prohibited or declared to be unlawful, or who willfully and knowingly omits or fails to do any act, matter, or thing in this chapter required to be done, or willfully and knowingly causes or suffers such omission or failure, shall, upon conviction thereof, be punished by a fine of not more than $1,000,000 or by imprisonment for not more than 5 years, or both.
 - **(b)** Any person who willfully and knowingly violates any rule, regulation, restriction, condition, or order made or imposed by the Commission under authority of this chapter, shall, in addition to any other penalties provided by law, be punished upon conviction thereof by a fine of not exceeding $50,000 for each and every day during which such offense occurs.
+
+## Source Credit
+
+*(June 21, 1938, ch. 556, § 21, [52 Stat. 833](https://www.govinfo.gov/link/statute/52/833); [Pub. L. 109–58, title III, § 314(a)(1)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 690](https://www.govinfo.gov/link/statute/119/690).)*

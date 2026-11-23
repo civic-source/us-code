@@ -3,9 +3,10 @@ title: "Section 7701 - Appellate procedures"
 usc_title: 5
 usc_section: "7701"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 7701"
-generated_at: "2026-03-30T02:52:56.039Z"
+generated_at: "2026-11-23T20:25:32.073Z"
+status: "active"
 ---
 
 # § 7701. Appellate procedures
@@ -56,3 +57,31 @@ generated_at: "2026-03-30T02:52:56.039Z"
   - **(4)** It shall be the duty of the Board, an administrative law judge, or employee designated by the Board to hear any proceeding under this section to expedite to the extent practicable that proceeding.
 - **(j)** In determining the appealability under this section of any case involving a removal from the service (other than the removal of a reemployed annuitant), neither an individual’s status under any retirement system established by or under Federal statute nor any election made by such individual under any such system may be taken into account.
 - **(k)** The Board may prescribe regulations to carry out the purpose of this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 863 (less 1st 168 words, and less 2d proviso). | June 27, 1944, ch. 287, § 14 (less 1st 168 words, and less 2d proviso), 58 Stat. 390 . Aug. 4, 1947, ch. 447 , 61 Stat. 723 . |
+|  | 5 U.S.C. 868 (proviso). | June 22, 1948, ch. 604 , 62 Stat. 575 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 863
+
+June 27, 1944, ch. 287, § 14
+
+58 Stat. 390
+
+Aug. 4, 1947, ch. 447
+
+61 Stat. 723
+
+5 U.S.C. 868
+
+June 22, 1948, ch. 604
+
+62 Stat. 575
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 530](https://www.govinfo.gov/link/statute/80/530); [Pub. L. 95–454, title II, § 205](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1138](https://www.govinfo.gov/link/statute/92/1138); [Pub. L. 96–54, § 2(a)(45)](https://www.govinfo.gov/link/plaw/96/public/54), Aug. 14, 1979, [93 Stat. 384](https://www.govinfo.gov/link/statute/93/384); [Pub. L. 99–386, title II, § 208](https://www.govinfo.gov/link/plaw/99/public/386), Aug. 22, 1986, [100 Stat. 824](https://www.govinfo.gov/link/statute/100/824); [Pub. L. 101–12, § 6](https://www.govinfo.gov/link/plaw/101/public/12), Apr. 10, 1989, [103 Stat. 33](https://www.govinfo.gov/link/statute/103/33); [Pub. L. 101–194, title V, § 506(b)(6)](https://www.govinfo.gov/link/plaw/101/public/194), Nov. 30, 1989, [103 Stat. 1758](https://www.govinfo.gov/link/statute/103/1758); [Pub. L. 101–280, § 6(d)(2)](https://www.govinfo.gov/link/plaw/101/public/280), May 4, 1990, [104 Stat. 160](https://www.govinfo.gov/link/statute/104/160); [Pub. L. 101–376, § 3](https://www.govinfo.gov/link/plaw/101/public/376), Aug. 17, 1990, [104 Stat. 462](https://www.govinfo.gov/link/statute/104/462); [Pub. L. 102–175, § 5](https://www.govinfo.gov/link/plaw/102/public/175), Dec. 2, 1991, [105 Stat. 1223](https://www.govinfo.gov/link/statute/105/1223); [Pub. L. 102–378, § 2(56)](https://www.govinfo.gov/link/plaw/102/public/378), Oct. 2, 1992, [106 Stat. 1354](https://www.govinfo.gov/link/statute/106/1354); [Pub. L. 107–296, title XIII, § 1321(a)(3)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2297](https://www.govinfo.gov/link/statute/116/2297).)*

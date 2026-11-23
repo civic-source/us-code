@@ -3,9 +3,10 @@ title: "Section 833 - Treatment of Blue Cross and Blue Shield organizations, etc
 usc_title: 26
 usc_section: "833"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 833"
-generated_at: "2026-03-30T02:55:27.731Z"
+generated_at: "2026-11-23T20:26:45.891Z"
+status: "active"
 ---
 
 # § 833. Treatment of Blue Cross and Blue Shield organizations, etc.
@@ -61,3 +62,29 @@ generated_at: "2026-03-30T02:55:27.731Z"
       - **(i)** is organized under, and governed by, State laws which are specifically and exclusively applicable to not-for-profit health insurance or health service type organizations, and
       - **(ii)** is not a Blue Cross or Blue Shield organization or health maintenance organization.
   - **(5)** Notwithstanding the preceding paragraphs, paragraphs (2) and (3) of subsection (a) shall not apply to any organization unless such organization’s percentage of total premium revenue expended on reimbursement for clinical services and for activities that improve health care quality provided to enrollees under its policies during such taxable year (as reported under section 2718 of the Public Health Service Act) is not less than 85 percent.
+
+In general
+
+Study of fraternal beneficiary associations
+
+Special rules for existing blue cross or blue shield organizations.—
+
+In general
+
+Treatment of certain distributions
+
+Reserve weakening after august 16, 1986
+
+Other special rules.—
+
+In General
+
+Special Rules
+
+Reserve Weakening After June
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title X, § 1012(b)(1)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2391](https://www.govinfo.gov/link/statute/100/2391); amended [Pub. L. 104–191, title III, § 351(a)](https://www.govinfo.gov/link/plaw/104/public/191), Aug. 21, 1996, [110 Stat. 2071](https://www.govinfo.gov/link/statute/110/2071); [Pub. L. 105–34, title XVI, § 1604(d)(2)(A)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1098](https://www.govinfo.gov/link/statute/111/1098); [Pub. L. 111–148, title IX, § 9016(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 872](https://www.govinfo.gov/link/statute/124/872); [Pub. L. 113–235, div. N, § 102(a)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2773](https://www.govinfo.gov/link/statute/128/2773); [Pub. L. 113–295, div. A, title II, § 221(a)(41)(G)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4044](https://www.govinfo.gov/link/statute/128/4044).)*

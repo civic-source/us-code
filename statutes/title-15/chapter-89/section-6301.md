@@ -3,9 +3,10 @@ title: "Section 6301 - Definitions"
 usc_title: 15
 usc_section: "6301"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 6301"
-generated_at: "2026-03-30T02:54:08.210Z"
+generated_at: "2026-11-23T20:26:04.388Z"
+status: "active"
 ---
 
 # § 6301. Definitions
@@ -32,3 +33,13 @@ For purposes of this chapter:
     - **(A)** between boxers who are residents of different States; or
     - **(B)** that are advertised, otherwise promoted, or broadcast (including closed circuit television) in interstate commerce.
   - **(15)** The term “suspension” includes within its meaning the revocation of a boxing license.
+
+“The provisions of this Act [enacting this chapter] shall take effect on January 1, 1997 , except as follows:
+
+“The Congress makes the following findings:
+
+“The purposes of this Act [see Short Title of 2000 Amendment note above] are—
+
+## Source Credit
+
+*([Pub. L. 104–272, § 2](https://www.govinfo.gov/link/plaw/104/public/272), Oct. 9, 1996, [110 Stat. 3309](https://www.govinfo.gov/link/statute/110/3309); [Pub. L. 106–210, § 7(a)](https://www.govinfo.gov/link/plaw/106/public/210), May 26, 2000, [114 Stat. 327](https://www.govinfo.gov/link/statute/114/327).)*

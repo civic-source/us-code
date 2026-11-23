@@ -3,9 +3,10 @@ title: "Section 389 - Relocation of highways, railroads, transmission lines, etc
 usc_title: 43
 usc_section: "389"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 389"
-generated_at: "2026-03-30T02:55:57.441Z"
+generated_at: "2026-11-23T20:27:06.187Z"
+status: "active"
 ---
 
 # § 389. Relocation of highways, railroads, transmission lines, etc., exchange of water, water rights or electric energy
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:57.441Z"
 - **(c)** for the purpose of effecting completely said relocations, to convey or exchange Government properties acquired or improved under
 - **(a)** above, with or without improvements, or other properties owned and held by the United States in connection with the construction or operation and maintenance of said project, or to grant perpetual easements therein or thereover. Grants or conveyances hereunder shall be by instruments executed by the Secretary without regard to provisions of law governing the patenting of public lands. The Secretary is further authorized, for the purpose of orderly and economical construction or operation and maintenance of any project, to enter into such contracts for exchange or replacement of water, water rights, or electric energy or for the adjustment of water rights, as in his judgment are necessary and in the interests of the United States and the project.
 
+
+## Source Credit
+
+*(Aug. 4, 1939, ch. 418, § 14, [53 Stat. 1197](https://www.govinfo.gov/link/statute/53/1197).)*

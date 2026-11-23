@@ -3,9 +3,10 @@ title: "Section 302l - Special pay: accession bonus for dental specialist office
 usc_title: 37
 usc_section: "302l"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "37 U.S.C. § 302l"
-generated_at: "2026-03-30T02:55:44.051Z"
+generated_at: "2026-11-23T20:26:57.336Z"
+status: "active"
 ---
 
 # § 302l. Special pay: accession bonus for dental specialist officers in critically short wartime specialties
@@ -19,3 +20,21 @@ generated_at: "2026-03-30T02:55:44.051Z"
 - **(e)** A person who, after executing an agreement under subsection (a) is not commissioned as an officer of the armed forces, does not become licensed as a dentist, or does not complete the period of active duty in a specialty specified in the agreement, shall be subject to the repayment provisions of section 303a(e) of this title .
 - **(f)** A person eligible to execute an agreement under both subsection (a) and section 302h of this title shall elect which authority to execute the agreement under. A person may not execute an agreement under both subsection (a) and such section 302h.
 - **(g)** No agreement under this section may be entered into after December 31, 2018 .
+
+Accession Bonus Authorized
+
+Amount of Bonus
+
+Limitation on Eligibility for Bonus
+
+Agreement
+
+Repayment
+
+Coordination With Other Accession Bonus Authority
+
+Termination of Authority
+
+## Source Credit
+
+*(Added [Pub. L. 109–364, div. A, title VI, § 617(c)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2250](https://www.govinfo.gov/link/statute/120/2250); amended [Pub. L. 110–181, div. A, title VI, § 612(i)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 149](https://www.govinfo.gov/link/statute/122/149); [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title VI, § 612(i), Oct. 14, 2008, [122 Stat. 4485](https://www.govinfo.gov/link/statute/122/4485); [Pub. L. 111–84, div. A, title VI, § 612(b)(8)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2353](https://www.govinfo.gov/link/statute/123/2353); [Pub. L. 111–383, div. A, title VI, § 612(b)(8)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4236](https://www.govinfo.gov/link/statute/124/4236); [Pub. L. 112–81, div. A, title VI, § 612(b)(8)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1450](https://www.govinfo.gov/link/statute/125/1450); [Pub. L. 112–239, div. A, title VI, § 612(b)(8)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1776](https://www.govinfo.gov/link/statute/126/1776); [Pub. L. 113–66, div. A, title VI, § 612(b)(8)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 780](https://www.govinfo.gov/link/statute/127/780); [Pub. L. 113–291, div. A, title VI, § 612(b)(8)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3400](https://www.govinfo.gov/link/statute/128/3400); [Pub. L. 114–92, div. A, title VI, § 612(b)(8)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 838](https://www.govinfo.gov/link/statute/129/838); [Pub. L. 114–328, div. A, title VI, § 612(b)(8)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2158](https://www.govinfo.gov/link/statute/130/2158); [Pub. L. 115–91, div. A, title VI, § 612(b)(8)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1422](https://www.govinfo.gov/link/statute/131/1422).)*

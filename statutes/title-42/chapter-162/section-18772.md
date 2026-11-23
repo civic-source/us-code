@@ -3,9 +3,10 @@ title: "Section 18772 - Data collection in the electricity sector"
 usc_title: 42
 usc_section: "18772"
 chapter: 162
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18772"
-generated_at: "2026-03-30T02:56:11.529Z"
+generated_at: "2026-11-23T20:27:23.828Z"
+status: "active"
 ---
 
 # § 18772. Data collection in the electricity sector
@@ -72,3 +73,7 @@ generated_at: "2026-03-30T02:56:11.529Z"
       - **(ii)** consider that generation and transmission entities may provide data on behalf of load-serving entities;
       - **(iii)** to the extent that the Administrator determines necessary, and in a manner designed to protect confidential information, require each load-serving entity to submit additional information as needed to determine the delivered generation resource mix of the load-serving entity, including financial or contractual agreements for power and generation resource type attributes with respect to power owned by or retired by the load-serving entity; and
       - **(iv)** for any portion of the generation resource mix of a load-serving entity that is otherwise unaccounted for, develop a methodology to assign to the load-serving entity a share of the otherwise unaccounted for resource mix of the relevant balancing authority.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title IV, § 40412](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1039](https://www.govinfo.gov/link/statute/135/1039).)*

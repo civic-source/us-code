@@ -3,9 +3,10 @@ title: "Section 3112 - Countercyclical employment policies"
 usc_title: 15
 usc_section: "3112"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 3112"
-generated_at: "2026-03-30T02:54:08.187Z"
+generated_at: "2026-11-23T20:26:04.273Z"
+status: "active"
 ---
 
 # § 3112. Countercyclical employment policies
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:08.187Z"
   - **(8)** Federal procurement programs which are targeted on labor surplus areas; and
   - **(9)** augmentation of other employment and training programs which would help to reduce high levels of unemployment arising from cyclical causes.
 - **(b)** In any countercyclical efforts undertaken, the President shall consider a triggering mechanism which will implement the program during a period of rising unemployment and phase out the program when unemployment is appropriately reduced, and incorporate effective means to facilitate individuals assisted under programs developed pursuant to this section to return promptly to regular private and public employment as the economy recovers.
+
+## Source Credit
+
+*([Pub. L. 95–523, title II, § 202](https://www.govinfo.gov/link/plaw/95/public/523), Oct. 27, 1978, [92 Stat. 1900](https://www.govinfo.gov/link/statute/92/1900).)*

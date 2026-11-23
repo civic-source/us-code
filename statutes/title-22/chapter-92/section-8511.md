@@ -3,9 +3,10 @@ title: "Section 8511 - Definitions"
 usc_title: 22
 usc_section: "8511"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8511"
-generated_at: "2026-03-30T02:55:05.451Z"
+generated_at: "2026-11-23T20:26:32.711Z"
+status: "active"
 ---
 
 # § 8511. Definitions
@@ -24,3 +25,7 @@ In this subchapter:
   - **(10)** The term “United States person” means—
     - **(A)** a natural person who is a citizen or resident of the United States or a national of the United States (as defined in section 1101(a) of title 8 ; 1 1 So in original. Probably should be “title 8);”. and
     - **(B)** an entity that is organized under the laws of the United States or any State.
+
+## Source Credit
+
+*([Pub. L. 111–195, title I, § 101](https://www.govinfo.gov/link/plaw/111/public/195), July 1, 2010, [124 Stat. 1316](https://www.govinfo.gov/link/statute/124/1316); [Pub. L. 112–158, title III, § 311(b)(2)](https://www.govinfo.gov/link/plaw/112/public/158), Aug. 10, 2012, [126 Stat. 1248](https://www.govinfo.gov/link/statute/126/1248).)*

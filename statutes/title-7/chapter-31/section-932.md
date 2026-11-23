@@ -3,9 +3,10 @@ title: "Section 932 - Liabilities and uses of Rural Electrification and Telephon
 usc_title: 7
 usc_section: "932"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 932"
-generated_at: "2026-03-30T02:53:42.296Z"
+generated_at: "2026-11-23T20:25:41.084Z"
+status: "active"
 ---
 
 # § 932. Liabilities and uses of Rural Electrification and Telephone Revolving Fund
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:42.296Z"
   - **(3)**
     - **(A)** The assets accounted for in the electric account shall be available solely for electrification loan operations under this chapter.
     - **(B)** The assets accounted for in the telephone account shall be available solely for telephone loan operations under this chapter (other than under subchapter IV).
+
+## Source Credit
+
+*(May 20, 1936, ch. 432, title III, § 302, as added [Pub. L. 92–12, § 2](https://www.govinfo.gov/link/plaw/92/public/12), May 7, 1971, [85 Stat. 30](https://www.govinfo.gov/link/statute/85/30); amended [Pub. L. 93–32, § 2](https://www.govinfo.gov/link/plaw/93/public/32), May 11, 1973, [87 Stat. 66](https://www.govinfo.gov/link/statute/87/66); [Pub. L. 101–624, title XXIII, § 2359](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 4041](https://www.govinfo.gov/link/statute/104/4041); [Pub. L. 103–354, title II, § 235(a)(13)](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3221](https://www.govinfo.gov/link/statute/108/3221); [Pub. L. 104–127, title VII, § 772(b)(2)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1149](https://www.govinfo.gov/link/statute/110/1149).)*

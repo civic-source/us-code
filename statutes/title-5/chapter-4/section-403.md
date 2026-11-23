@@ -3,9 +3,10 @@ title: "Section 403 - Appointments"
 usc_title: 5
 usc_section: "403"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 403"
-generated_at: "2026-03-30T02:52:55.979Z"
+generated_at: "2026-11-23T20:25:31.666Z"
+status: "active"
 ---
 
 # § 403. Appointments
@@ -31,3 +32,80 @@ generated_at: "2026-03-30T02:52:55.979Z"
 - **(e)** The annual rate of basic pay for an Inspector General (as defined under section 401 of this title ) shall be the rate payable for level III of the Executive Schedule under section 5314 of this title , plus 3 percent.
 - **(f)** An Inspector General (as defined under section 401 or 415(a) of this title) may not receive any cash award or cash bonus, including any cash award under chapter 45 of this title.
 - **(g)** Each Inspector General shall, in accordance with applicable laws and regulations governing the civil service, obtain legal advice from a counsel either reporting directly to the Inspector General or another Inspector General.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 403 | 5 U.S.C. App. (IGA § 3) | Pub. L. 95–452, § 3 , Oct. 12, 1978 , 92 Stat. 1101 ; Pub. L. 110–409 , §§ 3(a), 4(a)(1), 5, 6(a), Oct. 14, 2008 , 122 Stat. 4302 , 4305; Pub. L. 112–199, title I, § 117(a) , Nov. 27, 2012 , 126 Stat. 1474 ; Pub. L. 114–317, § 7(d)(3)(A) , Dec. 16, 2016 , 130 Stat. 1606 ; Pub. L. 115–192, § 2(a) , June 25, 2018 , 132 Stat. 1502 . |
+
+
+In General
+
+Removal or Transfer
+
+Not Employee Determining Policy
+
+Assistant Inspectors General and Whistleblower Protection Coordinator.—
+
+In general
+
+(aa) the means by which employees may seek review of any allegation of reprisal, including the roles of the Office of the Inspector General, the Office of Special Counsel, the Merit Systems Protection Board, and any other relevant entities; and
+
+(bb) general information about the timeliness of such cases, the availability of any alternative dispute mechanisms, and avenues for potential relief;
+
+Whistleblower protection coordinator not to act as legal representative, agent, or advocate
+
+Whistleblower protection coordinator access to inspector general
+
+Whistleblower protection coordinator exception for intelligence activity
+
+Rate of Pay
+
+Prohibition on Cash Awards
+
+Legal Advice
+
+Historical and Revision Notes
+
+403
+
+Pub. L. 95–452, § 3
+
+Oct. 12, 1978
+
+92 Stat. 1101
+
+Pub. L. 110–409
+
+Oct. 14, 2008
+
+122 Stat. 4302
+
+Pub. L. 112–199, title I, § 117(a)
+
+Nov. 27, 2012
+
+126 Stat. 1474
+
+Pub. L. 114–317, § 7(d)(3)(A)
+
+Dec. 16, 2016
+
+130 Stat. 1606
+
+Pub. L. 115–192, § 2(a)
+
+June 25, 2018
+
+132 Stat. 1502
+
+Definition
+
+Applicability.—
+
+In general
+
+Existing vacancies
+
+## Source Credit
+
+*([Pub. L. 117–286, § 3(b)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4208](https://www.govinfo.gov/link/statute/136/4208).)*

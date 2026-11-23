@@ -3,9 +3,10 @@ title: "Section 1791 - Bill Emerson Good Samaritan Food Donation Act"
 usc_title: 42
 usc_section: "1791"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1791"
-generated_at: "2026-03-30T02:56:11.122Z"
+generated_at: "2026-11-23T20:27:21.921Z"
+status: "active"
 ---
 
 # § 1791. Bill Emerson Good Samaritan Food Donation Act
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:56:11.122Z"
   - **(2)** agrees to recondition the donated food or grocery products to comply with all the quality and labeling standards prior to distribution; and
   - **(3)** is knowledgeable of the standards to properly recondition the donated food or grocery product.
 - **(f)** This section shall not be construed to create any liability. Nothing in this section shall be construed to supercede State or local health regulations.
+
+## Source Credit
+
+*([Pub. L. 89–642, § 22](https://www.govinfo.gov/link/plaw/89/public/642), formerly [Pub. L. 101–610, title IV, § 402](https://www.govinfo.gov/link/plaw/101/public/610), Nov. 16, 1990, [104 Stat. 3183](https://www.govinfo.gov/link/statute/104/3183); renumbered § 22 and amended [Pub. L. 104–210, § 1(a)(2)](https://www.govinfo.gov/link/plaw/104/public/210), (b), Oct. 1, 1996, [110 Stat. 3011](https://www.govinfo.gov/link/statute/110/3011), 3012; [Pub. L. 117–362, § 1](https://www.govinfo.gov/link/plaw/117/public/362), Jan. 5, 2023, [136 Stat. 6295](https://www.govinfo.gov/link/statute/136/6295).)*

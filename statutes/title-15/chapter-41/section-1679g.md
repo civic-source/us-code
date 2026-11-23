@@ -3,9 +3,10 @@ title: "Section 1679g - Civil liability"
 usc_title: 15
 usc_section: "1679g"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1679g"
-generated_at: "2026-03-30T02:54:08.146Z"
+generated_at: "2026-11-23T20:26:04.072Z"
+status: "active"
 ---
 
 # § 1679g. Civil liability
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:08.146Z"
   - **(2)** the nature of the noncompliance;
   - **(3)** the extent to which such noncompliance was intentional; and
   - **(4)** in the case of any class action, the number of consumers adversely affected.
+
+## Source Credit
+
+*([Pub. L. 90–321, title IV, § 409](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 104–208, div. A, title II, § 2451](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–459](https://www.govinfo.gov/link/statute/110/3009).)*

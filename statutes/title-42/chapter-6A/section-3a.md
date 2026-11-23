@@ -3,9 +3,10 @@ title: "Section 3a - Grants to public sector agencies"
 usc_title: 42
 usc_section: "3a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3a"
-generated_at: "2026-03-30T02:56:10.801Z"
+generated_at: "2026-11-23T20:27:20.495Z"
+status: "active"
 ---
 
 # § 300j–3a. Grants to public sector agencies
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:10.801Z"
   - **(2)** Grants under this section shall not be made for any project involving the construction or modification of any facilities for any public water system in a State unless such project has been approved by the State agency charged with the responsibility for safety of drinking water (or if there is no such agency in a State, by the State health authority).
   - **(3)** Grants under this section shall not be made for any project unless the Administrator determines, after consultation, that such project will serve a useful purpose relating to the development and demonstration of new or improved techniques, methods, or technologies for the provision of safe water to the public for drinking.
 - **(c)** There are authorized to be appropriated for the purposes of this section $25,000,000 for fiscal year 1978.
+
+## Source Credit
+
+*([Pub. L. 95–155, § 5](https://www.govinfo.gov/link/plaw/95/public/155), Nov. 8, 1977, [91 Stat. 1258](https://www.govinfo.gov/link/statute/91/1258); [Pub. L. 95–477, § 7(a)(1)](https://www.govinfo.gov/link/plaw/95/public/477), Oct. 18, 1978, [92 Stat. 1511](https://www.govinfo.gov/link/statute/92/1511).)*

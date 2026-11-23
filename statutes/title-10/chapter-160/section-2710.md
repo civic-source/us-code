@@ -3,9 +3,10 @@ title: "Section 2710 - Inventory of unexploded ordnance, discarded military muni
 usc_title: 10
 usc_section: "2710"
 chapter: 160
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2710"
-generated_at: "2026-03-30T02:53:38.172Z"
+generated_at: "2026-11-23T20:25:51.687Z"
+status: "active"
 ---
 
 # § 2710. Inventory of unexploded ordnance, discarded military munitions, and munitions constituents at defense sites (other than operational ranges)
@@ -45,3 +46,71 @@ generated_at: "2026-03-30T02:53:38.172Z"
   - **(5)** The term “Secretary” means the Secretary of Defense.
   - **(6)** The term “State” means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and the territories and possessions.
   - **(7)** The term “United States”, in a geographic sense, means the States, territories, and possessions and associated navigable waters, contiguous zones, and ocean waters of which the natural resources are under the exclusive management authority of the United States.
+
+Inventory Required
+
+Site Prioritization
+
+Updates and Availability
+
+Exceptions
+
+Definitions
+
+Expedited Use of Appropriate Technologies
+
+Report
+
+Unexploded Ordnance Defined
+
+Performance Goals for Remediation
+
+Response Plan Required.—
+
+In general
+
+Content
+
+Updates
+
+Report on Reuse Standards and Principles
+
+Definitions
+
+Identification of Disposal Sites.—
+
+Historical review
+
+Cooperation
+
+Interim reports
+
+Inclusion of information in annual report on environmental restoration activities
+
+Final report
+
+Identification of Navigational and Safety Hazards.—
+
+Identification of hazards
+
+Continuation of information activities
+
+Research.—
+
+In general
+
+Scope
+
+Research criteria
+
+Authority to make grants and enter into cooperative agreements
+
+Monitoring
+
+Definitions
+
+“The requirements of section 2710 of title 10 , United States Code, as added by subsection (a), shall be implemented as follows:
+
+## Source Credit
+
+*(Added [Pub. L. 107–107, div. A, title III, § 311(a)(1)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1048](https://www.govinfo.gov/link/statute/115/1048); amended [Pub. L. 108–136, div. A, title X, § 1042(b)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1610](https://www.govinfo.gov/link/statute/117/1610); [Pub. L. 111–84, div. A, title III, § 318(a)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2250](https://www.govinfo.gov/link/statute/123/2250).)*

@@ -3,9 +3,10 @@ title: "Section 1136 - Assistance to passengers involved in aircraft accidents a
 usc_title: 49
 usc_section: "1136"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 1136"
-generated_at: "2026-03-30T02:56:19.304Z"
+generated_at: "2026-11-23T20:27:34.569Z"
+status: "active"
 ---
 
 # § 1136. Assistance to passengers involved in aircraft accidents and families of such passengers
@@ -50,3 +51,59 @@ generated_at: "2026-03-30T02:56:19.304Z"
 - **(j)**
   - **(1)** This section (other than subsection (g)) shall not apply to an aircraft accident if the Board has relinquished investigative priority under section 1131(a)(2)(B) and the Federal agency to which the Board relinquished investigative priority is willing and able to provide assistance to the victims and families of the passengers involved in the accident.
   - **(2)** If this section does not apply to an aircraft accident because the Board has relinquished investigative priority with respect to the accident, the Board shall assist, to the maximum extent possible, the agency to which the Board has relinquished investigative priority in assisting families with respect to the accident.
+
+In General
+
+Responsibilities of the Board
+
+Responsibilities of Designated Organization
+
+Passenger Lists.—
+
+Requests for passenger lists by the director of family services.—
+
+Requests by director of family support services
+
+Use of information
+
+Limitation
+
+Rule of construction
+
+Requests for passenger lists by designated organization.—
+
+Requests by designated organization
+
+Use of information
+
+Continuing Responsibilities of the Board
+
+Use of Air Carrier Resources
+
+Prohibited Actions.—
+
+Actions to impede the board
+
+Unsolicited communications
+
+Prohibition on actions to prevent certain care and support services
+
+Definitions
+
+Aircraft accident
+
+Passenger
+
+Passenger list
+
+Statutory Construction
+
+Relinquishment of Investigative Priority.—
+
+General rule
+
+Board assistance
+
+## Source Credit
+
+*(Added [Pub. L. 104–264, title VII, § 702(a)(1)](https://www.govinfo.gov/link/plaw/104/public/264), Oct. 9, 1996, [110 Stat. 3265](https://www.govinfo.gov/link/statute/110/3265); amended [Pub. L. 106–181, title IV, § 401(a)(1)](https://www.govinfo.gov/link/plaw/106/public/181), (b)–(d), Apr. 5, 2000, [114 Stat. 129](https://www.govinfo.gov/link/statute/114/129); [Pub. L. 108–168, § 3(a)](https://www.govinfo.gov/link/plaw/108/public/168), Dec. 6, 2003, [117 Stat. 2033](https://www.govinfo.gov/link/statute/117/2033); [Pub. L. 115–254, div. C, § 1109(c)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3434](https://www.govinfo.gov/link/statute/132/3434); [Pub. L. 118–63, title XII, § 1215(a)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1427](https://www.govinfo.gov/link/statute/138/1427).)*

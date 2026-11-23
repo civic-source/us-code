@@ -3,9 +3,10 @@ title: "Section 2996i - Financing"
 usc_title: 42
 usc_section: "2996i"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2996i"
-generated_at: "2026-03-30T02:56:11.170Z"
+generated_at: "2026-11-23T20:27:22.183Z"
+status: "active"
 ---
 
 # § 2996i. Financing
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.170Z"
 - **(b)** Funds appropriated pursuant to this section shall remain available until expended.
 - **(c)** Non-Federal funds received by the Corporation, and funds received by any recipient from a source other than the Corporation, shall be accounted for and reported as receipts and disbursements separate and distinct from Federal funds; but any funds so received for the provision of legal assistance shall not be expended by recipients for any purpose prohibited by this subchapter, except that this provision shall not be construed to prevent recipients from receiving other public funds or tribal funds (including foundation funds benefiting Indians or Indian tribes) and expending them in accordance with the purposes for which they are provided, or to prevent contracting or making other arrangements with private attorneys, private law firms, or other State or local entities of attorneys, or with legal aid societies having separate public defender programs, for the provision of legal assistance to eligible clients under this subchapter.
 - **(d)** Not more than 10 percent of the amounts appropriated pursuant to subsection (a) of this section for any fiscal year shall be available for grants or contracts under section 2996e(a)(3) of this title in any such year.
+
+## Source Credit
+
+*([Pub. L. 88–452, title X, § 1010](https://www.govinfo.gov/link/plaw/88/public/452), as added [Pub. L. 93–355, § 2](https://www.govinfo.gov/link/plaw/93/public/355), July 25, 1974, [88 Stat. 388](https://www.govinfo.gov/link/statute/88/388); amended [Pub. L. 95–222](https://www.govinfo.gov/link/plaw/95/public/222), §§ 5(c), 15, Dec. 28, 1977, [91 Stat. 1619](https://www.govinfo.gov/link/statute/91/1619), 1623.)*

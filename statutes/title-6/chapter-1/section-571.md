@@ -3,9 +3,10 @@ title: "Section 571 - Emergency Communications Division"
 usc_title: 6
 usc_section: "571"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 571"
-generated_at: "2026-03-30T02:53:09.469Z"
+generated_at: "2026-11-23T20:25:34.795Z"
+status: "active"
 ---
 
 # § 571. Emergency Communications Division
@@ -40,3 +41,9 @@ generated_at: "2026-03-30T02:53:09.469Z"
   - **(1)** Not later than 120 days after October 4, 2006 , the Secretary shall submit to Congress a report on the resources and staff necessary to carry out fully the responsibilities under this subchapter.
   - **(2)** The Comptroller General shall review the validity of the report submitted by the Secretary under paragraph (1). Not later than 60 days after the date on which such report is submitted, the Comptroller General shall submit to Congress a report containing the findings of such review.
 - **(g)** Any reference to the Assistant Director for Emergency Communications in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Executive Assistant Director for Emergency Communications.
+
+“Any reference to—
+
+## Source Credit
+
+*([Pub. L. 107–296, title XVIII, § 1801](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 109–295, title VI, § 671(b)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1433](https://www.govinfo.gov/link/statute/120/1433); amended [Pub. L. 115–278, § 2(g)(6)(A)](https://www.govinfo.gov/link/plaw/115/public/278), Nov. 16, 2018, [132 Stat. 4179](https://www.govinfo.gov/link/statute/132/4179); [Pub. L. 116–283, div. H, title XC, § 9001(e)(1)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4767](https://www.govinfo.gov/link/statute/134/4767); [Pub. L. 117–263, div. G, title LXXI, § 7143(c)(3)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3662](https://www.govinfo.gov/link/statute/136/3662).)*

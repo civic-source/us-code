@@ -3,9 +3,10 @@ title: "Section 3909 - General authorities"
 usc_title: 12
 usc_section: "3909"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 3909"
-generated_at: "2026-03-30T02:53:53.498Z"
+generated_at: "2026-11-23T20:25:59.355Z"
+status: "active"
 ---
 
 # § 3909. General authorities
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:53.498Z"
 - **(d)**
   - **(1)** Any banking institution which violates, or any officer, director, employee, agent, or other person participating in the conduct of the affairs of such banking institution, who violates any provision of this chapter, or any rule, regulation, or order, issued under this chapter, shall forfeit and pay a civil penalty of not more than $1,000 per day for each day during which such violation continues.
   - **(2)** Such violations shall be deemed to be a violation of a final order under section 1818(i)(2) of this title and the penalty shall be assessed and collected by the appropriate Federal banking agency under the procedures established by, and subject to the rights afforded to parties in, such section.
+
+## Source Credit
+
+*([Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title IX, § 910], Nov. 30, 1983, [97 Stat. 1282](https://www.govinfo.gov/link/statute/97/1282); [Pub. L. 109–351, title VII, § 713(b)](https://www.govinfo.gov/link/plaw/109/public/351), Oct. 13, 2006, [120 Stat. 1995](https://www.govinfo.gov/link/statute/120/1995).)*

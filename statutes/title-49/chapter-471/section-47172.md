@@ -3,12 +3,21 @@ title: "Section 47172 - Air traffic procedures for airport capacity enhancement 
 usc_title: 49
 usc_section: "47172"
 chapter: 471
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 47172"
-generated_at: "2026-03-30T02:56:19.406Z"
+generated_at: "2026-11-23T20:27:35.325Z"
+status: "active"
 ---
 
 # § 47172. Air traffic procedures for airport capacity enhancement projects at congested airports
 
 - **(a)** The Administrator of the Federal Aviation Administration may consider prescribing flight procedures to avoid or minimize potentially significant adverse noise impacts of an airport capacity enhancement project at a congested airport that involves the construction of new runways or the reconfiguration of existing runways during the environmental planning process for the project. If the Administrator determines that noise mitigation flight procedures are consistent with safe and efficient use of the navigable airspace, the Administrator may commit, at the request of the airport sponsor and in a manner consistent with applicable Federal law, to prescribing such procedures in any record of decision approving the project.
 - **(b)** Notwithstanding any commitment by the Administrator under subsection (a), the Administrator may initiate changes to such procedures if necessary to maintain safety and efficiency in light of new information or changed circumstances.
+
+In General
+
+Modification
+
+## Source Credit
+
+*(Added [Pub. L. 108–176, title III, § 304(a)](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2537](https://www.govinfo.gov/link/statute/117/2537).)*

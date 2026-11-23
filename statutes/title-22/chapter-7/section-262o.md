@@ -3,9 +3,10 @@ title: "Section 262o - Negotiations concerning replenishment or increase in capi
 usc_title: 22
 usc_section: "262o"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 262o"
-generated_at: "2026-03-30T02:55:05.306Z"
+generated_at: "2026-11-23T20:26:31.923Z"
+status: "active"
 ---
 
 # § 262o. Negotiations concerning replenishment or increase in capital; annual reports on implementation of lending policy goals
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:05.306Z"
   - **(2)** Involvement of nongovernmental organizations and local and indigenous populations in loan design, implementation, planning, and monitoring.
   - **(3)** Integration of, consideration of, and concern for environmental quality and the sustainable use of natural resources into loan design, implementation, planning, and monitoring.
   - **(4)** Recognition of and support for the economic and social development of women.
+
+## Source Credit
+
+*([Pub. L. 95–118, title XV, § 1501](https://www.govinfo.gov/link/plaw/95/public/118), as added [Pub. L. 100–202, § 101(e) [title I]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–131](https://www.govinfo.gov/link/statute/101/1329), 1329–134.)*

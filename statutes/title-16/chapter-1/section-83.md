@@ -3,12 +3,17 @@ title: "Section 83 - Authorization of appropriations"
 usc_title: 16
 usc_section: "83"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 83"
-generated_at: "2026-03-30T02:54:22.775Z"
+generated_at: "2026-11-23T20:26:19.511Z"
+status: "active"
 ---
 
 # § 410aaa–83. Authorization of appropriations
 
 There is authorized to be appropriated to the National Park Service and to the Bureau of Land Management to carry out this Act an amount not to exceed $36,000,000 over and above that provided in fiscal year 1994 for additional administrative and construction costs over the fiscal year 1995–1999 period, and $300,000,000 for all land acquisition costs. No funds in excess of these amounts may be used for construction, administration, or land acquisition authorized under this Act without a specific authorization in an Act of Congress enacted after October 31, 1994 .
 
+
+## Source Credit
+
+*([Pub. L. 103–433, title IX, § 901](https://www.govinfo.gov/link/plaw/103/public/433), Oct. 31, 1994, [108 Stat. 4508](https://www.govinfo.gov/link/statute/108/4508).)*

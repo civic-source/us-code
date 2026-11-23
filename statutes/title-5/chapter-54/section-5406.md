@@ -3,9 +3,10 @@ title: "Section 5406 - Agency plan"
 usc_title: 5
 usc_section: "5406"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 5406"
-generated_at: "2026-03-30T02:52:56.017Z"
+generated_at: "2026-11-23T20:25:31.920Z"
+status: "active"
 ---
 
 # § 5406. Agency plan
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:52:56.017Z"
   - **(4)** provide such information to the Office regarding payments made and use of funds received under this section as the Office may specify.
 - **(b)** The Office, in consultation with the Chief Human Capital Officers Council, shall review and approve an agency’s plan before the agency is eligible to receive an allocation of funding from the Office.
 - **(c)** The Chief Human Capital Officers Council shall include in its annual report to Congress under section 1303(d) of the Homeland Security Act of 2002 an evaluation of the formulation and implementation of agency performance management systems.
+
+## Source Credit
+
+*(Added [Pub. L. 108–136, div. A, title XI, § 1129(a)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1644](https://www.govinfo.gov/link/statute/117/1644).)*

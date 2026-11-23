@@ -3,9 +3,10 @@ title: "Section 13382 - Least-cost energy strategy"
 usc_title: 42
 usc_section: "13382"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13382"
-generated_at: "2026-03-30T02:56:11.443Z"
+generated_at: "2026-11-23T20:27:23.486Z"
+status: "active"
 ---
 
 # § 13382. Least-cost energy strategy
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:56:11.443Z"
 - **(e)** The Secretary shall include in the least-cost energy strategy an identification of all of the assumptions used in developing the strategy and priorities thereunder, and the reasons for such assumptions.
 - **(f)** When comparing an energy efficiency resource to an energy resource, a higher priority shall be assigned to the energy efficiency resource whenever all direct and quantifiable net costs for the resource over its available life are equal to the estimated cost of the energy resource.
 - **(g)** The Secretary shall provide for a period of public review and comment of the least-cost energy strategy, for a period of at least 30 days, to be completed at least 60 days before the issuance of such strategy. The Secretary shall also provide for public review and comment before the issuance of any update to the least-cost energy strategy required under this section.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XVI, § 1602](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2999](https://www.govinfo.gov/link/statute/106/2999).)*

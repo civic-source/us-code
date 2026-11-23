@@ -3,9 +3,10 @@ title: "Section 6912 - Functions of the Commission"
 usc_title: 22
 usc_section: "6912"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6912"
-generated_at: "2026-03-30T02:55:05.434Z"
+generated_at: "2026-11-23T20:26:32.636Z"
+status: "active"
 ---
 
 # § 6912. Functions of the Commission
@@ -53,3 +54,7 @@ generated_at: "2026-03-30T02:55:05.434Z"
     - **(A)** as an exercise of the rulemaking power of the House of Representatives, and as such are deemed a part of the rules of the House, and they supersede other rules only to the extent that they are inconsistent therewith; and
     - **(B)** with full recognition of the constitutional right of the House to change the rules (so far as relating to the procedure of the House) at any time, in the same manner and to the same extent as in the case of any other rule of the House.
 - **(j)** The Commission may submit to the President and the Congress reports that supplement the reports described in subsection (g), as appropriate, in carrying out subsections (a) through (c).
+
+## Source Credit
+
+*([Pub. L. 106–286, div. B, title III, § 302](https://www.govinfo.gov/link/plaw/106/public/286), Oct. 10, 2000, [114 Stat. 895](https://www.govinfo.gov/link/statute/114/895); [Pub. L. 107–228, div. A, title VI, § 615](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1396](https://www.govinfo.gov/link/statute/116/1396).)*

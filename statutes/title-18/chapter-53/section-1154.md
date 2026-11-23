@@ -3,9 +3,10 @@ title: "Section 1154 - Intoxicants dispensed in Indian country"
 usc_title: 18
 usc_section: "1154"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 1154"
-generated_at: "2026-03-30T02:54:16.482Z"
+generated_at: "2026-11-23T20:26:08.469Z"
+status: "active"
 ---
 
 # § 1154. Intoxicants dispensed in Indian country
@@ -13,3 +14,11 @@ generated_at: "2026-03-30T02:54:16.482Z"
 - **(a)** Whoever sells, gives away, disposes of, exchanges, or barters any malt, spirituous, or vinous liquor, including beer, ale, and wine, or any ardent or other intoxicating liquor of any kind whatsoever, except for scientific, sacramental, medicinal or mechanical purposes, or any essence, extract, bitters, preparation, compound, composition, or any article whatsoever, under any name, label, or brand, which produces intoxication, to any Indian to whom an allotment of land has been made while the title to the same shall be held in trust by the Government, or to any Indian who is a ward of the Government under charge of any Indian superintendent, or to any Indian, including mixed bloods, over whom the Government, through its departments, exercises guardianship, and whoever introduces or attempts to introduce any malt, spirituous, or vinous liquor, including beer, ale, and wine, or any ardent or intoxicating liquor of any kind whatsoever into the Indian country, shall, for the first offense, be fined under this title or imprisoned not more than one year, or both; and, for each subsequent offense, be fined under this title or imprisoned not more than five years, or both.
 - **(b)** It shall be a sufficient defense to any charge of introducing or attempting to introduce ardent spirits, ale, beer, wine, or intoxicating liquors into the Indian country that the acts charged were done under authority, in writing, from the Department of the Army or any officer duly authorized thereunto by the Department of the Army, but this subsection shall not bar the prosecution of any officer, soldier, sutler or storekeeper, attaché, or employee of the Army of the United States who barters, donates, or furnishes in any manner whatsoever liquors, beer, or any intoxicating beverage whatsoever to any Indian.
 - **(c)** The term “Indian country” as used in this section does not include fee-patented lands in non-Indian communities or rights-of-way through Indian reservations, and this section does not apply to such lands or rights-of-way in the absence of a treaty or statute extending the Indian liquor laws thereto.
+
+Act
+
+Act
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 758](https://www.govinfo.gov/link/statute/62/758); May 24, 1949, ch. 139, § 27, [63 Stat. 94](https://www.govinfo.gov/link/statute/63/94); [Pub. L. 103–322, title XXXIII, § 330016(1)(G)](https://www.govinfo.gov/link/plaw/103/public/322), (I), Sept. 13, 1994, [108 Stat. 2147](https://www.govinfo.gov/link/statute/108/2147).)*

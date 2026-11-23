@@ -3,9 +3,10 @@ title: "Section 3354 - Do Not Pay Initiative"
 usc_title: 31
 usc_section: "3354"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 3354"
-generated_at: "2026-03-30T02:55:34.056Z"
+generated_at: "2026-11-23T20:26:51.773Z"
+status: "active"
 ---
 
 # § 3354. Do Not Pay Initiative
@@ -65,3 +66,67 @@ generated_at: "2026-03-30T02:55:34.056Z"
     - **(D)** identify improved methods by executive agencies for determining ineligible payments due to the death of a recipient through proactive verification means; and
     - **(E)** address improper payments made by executive agencies to deceased individuals as part of Federal retirement programs.
   - **(3)** Not later than 120 days after the date of enactment of this section, the Director of the Office of Management and Budget shall submit a report to Congress on the plan described in this subsection, including recommended legislation.
+
+Prepayment and Preaward Procedures.—
+
+In general
+
+Databases
+
+Do Not Pay Initiative.—
+
+In general
+
+Other databases
+
+Access and review.—
+
+In general
+
+Matching programs.—
+
+In general
+
+Guidance
+
+Other entities
+
+Consistency with privacy act of 1974
+
+Payment otherwise required
+
+Annual report
+
+Initial Working System
+
+Facilitating Data Access by Federal Agencies and Offices of Inspectors General for Purposes of Program Integrity.—
+
+Computer matching by executive agencies for purposes of investigation and prevention of improper payments and fraud.—
+
+In general
+
+Review
+
+Termination date
+
+Multiple agencies
+
+Cost-benefit analysis
+
+Guidance and procedures by the office of management and budget
+
+Compliance
+
+Rule of construction
+
+Plan To Curb Federal Improper Payments to Deceased Individuals by Improving the Quality and Use by Federal Agencies of the Social Security Administration Death Master File and Other Death Data.—
+
+Establishment
+
+Additional actions under plan
+
+Report
+
+## Source Credit
+
+*(Added [Pub. L. 116–117, § 2(a)](https://www.govinfo.gov/link/plaw/116/public/117), Mar. 2, 2020, [134 Stat. 126](https://www.govinfo.gov/link/statute/134/126).)*

@@ -3,9 +3,10 @@ title: "Section 1i - Increase in United States quota; consultations with Congres
 usc_title: 22
 usc_section: "1i"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 1i"
-generated_at: "2026-03-30T02:55:05.318Z"
+generated_at: "2026-11-23T20:26:32.005Z"
+status: "active"
 ---
 
 # § 286e–1i. Increase in United States quota; consultations with Congress
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.318Z"
     - **(A)** not later than thirty days before the initiation of such international negotiations;
     - **(B)** during the period in which such negotiations are being held, in a frequent and timely manner; and
     - **(C)** before a session of such negotiations is held at which the United States representatives may agree to such quota increase.
+
+## Source Credit
+
+*(July 31, 1945, ch. 339, § 41, as added [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title VIII, § 802(a)(4)], Nov. 30, 1983, [97 Stat. 1268](https://www.govinfo.gov/link/statute/97/1268).)*

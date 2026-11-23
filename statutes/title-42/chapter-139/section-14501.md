@@ -3,9 +3,10 @@ title: "Section 14501 - Findings and purpose"
 usc_title: 42
 usc_section: "14501"
 chapter: 139
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 14501"
-generated_at: "2026-03-30T02:56:11.452Z"
+generated_at: "2026-11-23T20:27:23.532Z"
+status: "active"
 ---
 
 # § 14501. Findings and purpose
@@ -25,3 +26,11 @@ generated_at: "2026-03-30T02:56:11.452Z"
       - **(i)** liability reform for volunteers, will promote the free flow of goods and services, lessen burdens on interstate commerce and uphold constitutionally protected due process rights; and
       - **(ii)** therefore, liability reform is an appropriate use of the powers contained in article 1, section 8, clause 3 of the United States Constitution, and the fourteenth amendment to the United States Constitution.
 - **(b)** The purpose of this chapter is to promote the interests of social service program beneficiaries and taxpayers and to sustain the availability of programs, nonprofit organizations, and governmental entities that depend on volunteer contributions by reforming the laws to provide certain protections from liability abuses related to volunteers serving nonprofit organizations and governmental entities.
+
+In General
+
+Application
+
+## Source Credit
+
+*([Pub. L. 105–19, § 2](https://www.govinfo.gov/link/plaw/105/public/19), June 18, 1997, [111 Stat. 218](https://www.govinfo.gov/link/statute/111/218).)*

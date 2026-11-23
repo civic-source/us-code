@@ -3,9 +3,10 @@ title: "Section 291e - Projects for construction or modernization"
 usc_title: 42
 usc_section: "291e"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 291e"
-generated_at: "2026-03-30T02:56:10.771Z"
+generated_at: "2026-11-23T20:27:20.352Z"
+status: "active"
 ---
 
 # § 291e. Projects for construction or modernization
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:10.771Z"
 - **(c)** No application shall be disapproved until the Surgeon General has afforded the State agency an opportunity for a hearing.
 - **(d)** Amendment of any approved application shall be subject to approval in the same manner as an original application.
 - **(e)** Notwithstanding any other provision of this subchapter, no application for an outpatient facility shall be approved under this section unless the applicant is (1) a State, political subdivision, or public agency, or (2) a corporation or association which owns and operates a nonprofit hospital (as defined in section 291 o of this title) or which provides reasonable assurance that the services of a general hospital will be available to patients of such facility who are in need of hospital care.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VI, § 605, as added [Pub. L. 88–443, § 3(a)](https://www.govinfo.gov/link/plaw/88/public/443), Aug. 18, 1964, [78 Stat. 453](https://www.govinfo.gov/link/statute/78/453); amended [Pub. L. 91–296, title I](https://www.govinfo.gov/link/plaw/91/public/296), §§ 111(a), 116(e), June 30, 1970, [84 Stat. 340](https://www.govinfo.gov/link/statute/84/340), 342; [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695).)*

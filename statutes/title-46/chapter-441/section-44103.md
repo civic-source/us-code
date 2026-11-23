@@ -3,9 +3,10 @@ title: "Section 44103 - Financial responsibility to pay liability for death or i
 usc_title: 46
 usc_section: "44103"
 chapter: 441
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 44103"
-generated_at: "2026-03-30T02:56:15.567Z"
+generated_at: "2026-11-23T20:27:27.257Z"
+status: "active"
 ---
 
 # § 44103. Financial responsibility to pay liability for death or injury
@@ -24,3 +25,34 @@ generated_at: "2026-03-30T02:56:15.567Z"
   - **(2)** Surety bond issued by a bonding company authorized to do business in the United States.
   - **(3)** Qualification as a self-insurer.
   - **(4)** Other evidence of financial responsibility.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 44103 | 46 App.:817d(a) (1st–5th, 29th–last words), (b). | Pub. L. 89–777, § 2(a) (1st–5th, 29th–last words), (b), Nov. 6, 1966 , 80 Stat. 1356 . |
+
+
+General Requirement
+
+Amounts
+
+In general
+
+Multiple vessels
+
+Availability To Pay Judgment
+
+Means of Establishing
+
+Historical and Revision Notes
+
+44103
+
+Pub. L. 89–777, § 2(a)
+
+Nov. 6, 1966
+
+80 Stat. 1356
+
+## Source Credit
+
+*([Pub. L. 109–304, § 7](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1554](https://www.govinfo.gov/link/statute/120/1554).)*

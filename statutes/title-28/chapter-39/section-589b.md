@@ -3,9 +3,10 @@ title: "Section 589b - Bankruptcy data"
 usc_title: 28
 usc_section: "589b"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 589b"
-generated_at: "2026-03-30T02:55:30.133Z"
+generated_at: "2026-11-23T20:26:36.387Z"
+status: "active"
 ---
 
 # § 589b. Bankruptcy data
@@ -35,3 +36,17 @@ generated_at: "2026-03-30T02:55:30.133Z"
   - **(5)** compliance with title 11, whether or not tax returns and tax payments since the date of the order for relief have been timely filed and made;
   - **(6)** all professional fees approved by the court in the case for the most recent period and cumulatively since the date of the order for relief (separately reported, for the professional fees incurred by or on behalf of the debtor, between those that would have been incurred absent a bankruptcy case and those not); and
   - **(7)** plans of reorganization filed and confirmed and, with respect thereto, by class, the recoveries of the holders, expressed in aggregate dollar values and, in the case of claims, as a percentage of total claims of the class allowed.
+
+Rules
+
+Reports
+
+Required Information
+
+Final Reports
+
+Periodic Reports
+
+## Source Credit
+
+*(Added [Pub. L. 109–8, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 120](https://www.govinfo.gov/link/statute/119/120); amended [Pub. L. 116–54, § 4(b)(2)](https://www.govinfo.gov/link/plaw/116/public/54), Aug. 23, 2019, [133 Stat. 1086](https://www.govinfo.gov/link/statute/133/1086).)*

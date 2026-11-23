@@ -3,9 +3,10 @@ title: "Section 2492 - Tariff treatment of products of uncooperative major drug 
 usc_title: 19
 usc_section: "2492"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2492"
-generated_at: "2026-03-30T02:54:24.676Z"
+generated_at: "2026-11-23T20:26:10.980Z"
+status: "active"
 ---
 
 # § 2492. Tariff treatment of products of uncooperative major drug producing or drug-transit countries
@@ -74,3 +75,7 @@ generated_at: "2026-03-30T02:54:24.676Z"
   - **(3)** The Secretary of Transportation may provide for such exceptions from paragraphs (1) and (2) as the Secretary considers necessary to provide for emergencies in which the safety of an aircraft or its crew or passengers is threatened.
   - **(4)** For purposes of this subsection, the terms “air transportation”, “air carrier”, “foreign air carrier” and “foreign air transportation” have the meanings such terms have under section 40102(a) of title 49 .
 - **(e)** For each calendar year, the Secretary of State, after consultation with the appropriate committees of the Congress, shall establish numerical standards and other guidelines for determining which countries will be considered to be major drug-transit countries under section 2495(3)(A) and (B) of this title.
+
+## Source Credit
+
+*([Pub. L. 93–618, title VIII, § 802](https://www.govinfo.gov/link/plaw/93/public/618), as added [Pub. L. 99–570, title IX, § 9001](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–164](https://www.govinfo.gov/link/statute/100/3207); amended [Pub. L. 100–204, title VIII, § 806(a)](https://www.govinfo.gov/link/plaw/100/public/204), Dec. 22, 1987, [101 Stat. 1398](https://www.govinfo.gov/link/statute/101/1398); [Pub. L. 100–690, title IV, § 4408](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4281](https://www.govinfo.gov/link/statute/102/4281); [Pub. L. 101–231, § 17(h)(1)](https://www.govinfo.gov/link/plaw/101/public/231) –(4), Dec. 13, 1989, [103 Stat. 1965](https://www.govinfo.gov/link/statute/103/1965); [Pub. L. 106–36, title I, § 1001(a)(8)](https://www.govinfo.gov/link/plaw/106/public/36), June 25, 1999, [113 Stat. 131](https://www.govinfo.gov/link/statute/113/131).)*

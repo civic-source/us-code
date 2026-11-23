@@ -3,9 +3,10 @@ title: "Section 687b - Investigations and examinations; power to subpena and tak
 usc_title: 15
 usc_section: "687b"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 687b"
-generated_at: "2026-03-30T02:54:08.110Z"
+generated_at: "2026-11-23T20:26:03.859Z"
+status: "active"
 ---
 
 # § 687b. Investigations and examinations; power to subpena and take oaths and affirmations; aid of courts; examiners; reports
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:08.110Z"
   - **(2)** Each valuation submitted under this subsection shall be prepared by the licensee in accordance with valuation criteria, which shall—
     - **(A)** be established or approved by the Administrator; and
     - **(B)** include appropriate safeguards to ensure that the noncash assets of a licensee are not overvalued.
+
+## Source Credit
+
+*([Pub. L. 85–699, title III, § 310](https://www.govinfo.gov/link/plaw/85/public/699), as added [Pub. L. 87–341, § 9](https://www.govinfo.gov/link/plaw/87/public/341), Oct. 3, 1961, [75 Stat. 755](https://www.govinfo.gov/link/statute/75/755); amended [Pub. L. 89–779, § 5](https://www.govinfo.gov/link/plaw/89/public/779), Nov. 6, 1966, [80 Stat. 1360](https://www.govinfo.gov/link/statute/80/1360); [Pub. L. 90–104, title II, § 208](https://www.govinfo.gov/link/plaw/90/public/104), Oct. 11, 1967, [81 Stat. 271](https://www.govinfo.gov/link/statute/81/271); [Pub. L. 100–590, title I, § 104](https://www.govinfo.gov/link/plaw/100/public/590), Nov. 3, 1988, [102 Stat. 2992](https://www.govinfo.gov/link/statute/102/2992); [Pub. L. 102–366, title IV](https://www.govinfo.gov/link/plaw/102/public/366), §§ 406(b), 407(a), 408(b), Sept. 4, 1992, [106 Stat. 1016](https://www.govinfo.gov/link/statute/106/1016); [Pub. L. 104–208, div. D, title II, § 208(f)](https://www.govinfo.gov/link/plaw/104/public/208), (h)(1)(C), Sept. 30, 1996, [110 Stat. 3009–745](https://www.govinfo.gov/link/statute/110/3009), 3009–747; [Pub. L. 105–135, title II, § 216](https://www.govinfo.gov/link/plaw/105/public/135), Dec. 2, 1997, [111 Stat. 2603](https://www.govinfo.gov/link/statute/111/2603); [Pub. L. 106–554, § 1(a)(9) [title IV, § 406]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–691.)*

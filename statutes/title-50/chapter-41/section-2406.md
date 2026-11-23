@@ -3,9 +3,10 @@ title: "Section 2406 - Deputy Administrator for Naval Reactors"
 usc_title: 50
 usc_section: "2406"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 2406"
-generated_at: "2026-03-30T02:56:26.224Z"
+generated_at: "2026-11-23T20:27:30.846Z"
+status: "active"
 ---
 
 # § 2406. Deputy Administrator for Naval Reactors
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:26.224Z"
 - **(b)** The Deputy Administrator shall be assigned the responsibilities, authorities, and accountability for all functions of the Office of Naval Reactors under the Naval Nuclear Propulsion Executive Order.
 - **(c)** Except as otherwise specified in this section and notwithstanding any other provision of this chapter, the provisions of the Naval Nuclear Propulsion Executive Order remain in full force and effect until changed by law.
 - **(d)** As used in this section, the Naval Nuclear Propulsion Executive Order is Executive Order No. 12344, dated February 1, 1982 ( 42 U.S.C. 7158 note) 1 1 See References in Text note below. (as in force pursuant to section 1634 of the Department of Defense Authorization Act, 1985 ( Public Law 98–525 ; 42 U.S.C. 7158 note)). 1
+
+## Source Credit
+
+*([Pub. L. 106–65, div. C, title XXXII, § 3216](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 959](https://www.govinfo.gov/link/statute/113/959).)*

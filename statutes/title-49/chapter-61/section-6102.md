@@ -3,9 +3,10 @@ title: "Section 6102 - Definitions"
 usc_title: 49
 usc_section: "6102"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 6102"
-generated_at: "2026-03-30T02:56:19.321Z"
+generated_at: "2026-11-23T20:27:34.697Z"
+status: "active"
 ---
 
 # § 6102. Definitions
@@ -16,3 +17,15 @@ In this chapter, the following definitions apply:
   - **(2)** The term “State one-call notification program” means the State statutes, regulations, orders, judicial decisions, and other elements of law and policy in effect in a State that establish the requirements for the operation of one-call notification systems in such State.
   - **(3)** The term “State” means a State, the District of Columbia, and Puerto Rico.
   - **(4)** The term “Secretary” means the Secretary of Transportation.
+
+One-call notification system
+
+State one-call notification program
+
+State
+
+Secretary
+
+## Source Credit
+
+*(Added [Pub. L. 105–178, title VII, § 7302(a)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 478](https://www.govinfo.gov/link/statute/112/478).)*

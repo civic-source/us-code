@@ -3,9 +3,10 @@ title: "Section 8909 - Mandatory imposition of sanctions with respect to certain
 usc_title: 22
 usc_section: "8909"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8909"
-generated_at: "2026-03-30T02:55:05.458Z"
+generated_at: "2026-11-23T20:26:32.743Z"
+status: "active"
 ---
 
 # § 8909. Mandatory imposition of sanctions with respect to certain transactions with persons that evade sanctions imposed with respect to the Russian Federation
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:55:05.458Z"
     - **(F)** Executive Order No. 13757 (82 Fed. Reg. 1; relating to taking additional steps to address the national emergency with respect to significant malicious cyber-enabled activities), relating to the Russian Federation.
   - **(2)** The term “foreign person” has the meaning given such term in section 595.304 of title 31, Code of Federal Regulations (as in effect on August 2, 2017 ).
   - **(3)** The term “structured”, with respect to a transaction, has the meaning given the term “structure” in paragraph (xx) of section 1010.100 of title 31, Code of Federal Regulations (or any corresponding similar regulation or ruling).
+
+## Source Credit
+
+*([Pub. L. 113–95, § 10](https://www.govinfo.gov/link/plaw/113/public/95), as added [Pub. L. 115–44, title II, § 228(a)](https://www.govinfo.gov/link/plaw/115/public/44), Aug. 2, 2017, [131 Stat. 911](https://www.govinfo.gov/link/statute/131/911).)*

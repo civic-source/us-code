@@ -3,9 +3,10 @@ title: "Section 230503 - Purposes"
 usc_title: 36
 usc_section: "230503"
 chapter: 2305
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 230503"
-generated_at: "2026-03-30T02:55:44.712Z"
+generated_at: "2026-11-23T20:26:59.107Z"
+status: "active"
 ---
 
 # § 230503. Purposes
@@ -23,3 +24,22 @@ The purposes of the corporation are as provided in its articles of incorporation
     - **(D)** other matters that affect the educational, economic, social, physical, or cultural welfare of Vietnam-era veterans, other veterans, and their families;
   - **(6)** to assist disabled Vietnam-era veterans and other veterans in need of assistance and the dependents and survivors of those veterans; and
   - **(7)** to consecrate the efforts of the members of the corporation, and Vietnam-era veterans generally, to mutual helpfulness and service to their country.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 230503 | 36:3803. | May 23, 1986 , Pub. L. 99–318, § 3 , 100 Stat. 474 . |
+
+
+Historical and Revision Notes
+
+230503
+
+May 23, 1986
+
+Pub. L. 99–318, § 3
+
+100 Stat. 474
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1486](https://www.govinfo.gov/link/statute/112/1486).)*

@@ -3,9 +3,10 @@ title: "Section 1245 - Ballistic knives"
 usc_title: 15
 usc_section: "1245"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1245"
-generated_at: "2026-03-30T02:54:08.130Z"
+generated_at: "2026-11-23T20:26:03.982Z"
+status: "active"
 ---
 
 # § 1245. Ballistic knives
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:08.130Z"
 - **(b)** Whoever possesses or uses a ballistic knife in the commission of a Federal crime of violence shall be fined as provided in title 18, or imprisoned not less than five years and not more than ten years, or both.
 - **(c)** The exceptions provided in paragraphs (1), (2), and (3) of section 1244 of this title with respect to switchblade knives shall apply to ballistic knives under subsection (a) of this section.
 - **(d)** As used in this section, the term “ballistic knife” means a knife with a detachable blade that is propelled by a spring-operated mechanism.
+
+## Source Credit
+
+*([Pub. L. 85–623, § 7](https://www.govinfo.gov/link/plaw/85/public/623), as added [Pub. L. 99–570, title X, § 10002](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–167](https://www.govinfo.gov/link/statute/100/3207); amended [Pub. L. 100–690, title VI, § 6472](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4379](https://www.govinfo.gov/link/statute/102/4379).)*

@@ -3,9 +3,10 @@ title: "Section 24 - Registration of securities under Securities Act of 1933"
 usc_title: 15
 usc_section: "24"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 24"
-generated_at: "2026-03-30T02:54:08.068Z"
+generated_at: "2026-11-23T20:26:03.601Z"
+status: "active"
 ---
 
 # § 80a–24. Registration of securities under Securities Act of 1933
@@ -28,3 +29,9 @@ generated_at: "2026-03-30T02:54:08.068Z"
   - **(3)** A company or trust paying the fee required by this subsection or any portion thereof more than 90 days after the end of the fiscal year of the company or trust shall pay to the Commission interest on unpaid amounts, at the average investment rate for Treasury tax and loan accounts published by the Secretary of the Treasury pursuant to section 3717(a) of title 31 . The payment of interest pursuant to this paragraph shall not preclude the Commission from bringing an action to enforce the requirements of paragraph (2).
   - **(4)** The Commission may adopt rules and regulations to implement this subsection.
 - **(g)** In addition to any prospectus permitted or required by section 10(a) of the Securities Act of 1933 [ 15 U.S.C. 77j(a) ], the Commission shall permit, by rules or regulations deemed necessary or appropriate in the public interest or for the protection of investors, the use of a prospectus for purposes of section 5(b)(1) of that Act [ 15 U.S.C. 77e(b)(1) ] with respect to securities issued by a registered investment company. Such a prospectus, which may include information the substance of which is not included in the prospectus specified in section 10(a) of the Securities Act of 1933, shall be deemed to be permitted by section 10(b) of that Act [ 15 U.S.C. 77j(b) ].
+
+“The amendments made by this section [amending this section] shall become effective on the earlier of—
+
+## Source Credit
+
+*(Aug. 22, 1940, ch. 686, title I, § 24, [54 Stat. 825](https://www.govinfo.gov/link/statute/54/825); Aug. 10, 1954, ch. 667, title IV, §§ 402, 403, [68 Stat. 689](https://www.govinfo.gov/link/statute/68/689); [Pub. L. 91–547, § 13](https://www.govinfo.gov/link/plaw/91/public/547), Dec. 14, 1970, [84 Stat. 1423](https://www.govinfo.gov/link/statute/84/1423); [Pub. L. 100–181, title VI, § 617](https://www.govinfo.gov/link/plaw/100/public/181), Dec. 4, 1987, [101 Stat. 1262](https://www.govinfo.gov/link/statute/101/1262); [Pub. L. 104–290, title II](https://www.govinfo.gov/link/plaw/104/public/290), §§ 203(a), (b), 204, Oct. 11, 1996, [110 Stat. 3427](https://www.govinfo.gov/link/statute/110/3427), 3428.)*

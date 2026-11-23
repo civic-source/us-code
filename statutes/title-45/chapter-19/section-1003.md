@@ -3,9 +3,10 @@ title: "Section 1003 - Service continuation"
 usc_title: 45
 usc_section: "1003"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 1003"
-generated_at: "2026-03-30T02:55:56.559Z"
+generated_at: "2026-11-23T20:27:05.331Z"
+status: "active"
 ---
 
 # § 1003. Service continuation
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:56.559Z"
   - **(1)** Not more than $15,000,000 of the funds available for expenditure by the Secretary out of the Railroad Rehabilitation and Improvement Fund established under chapter 224 of title 49 may be made available by the Secretary to the Commission for purposes of providing directed service under this section.
   - **(2)** Funds may be made available for directed service under this section without regard to the findings of the Secretary required under chapter 224 of title 49, including section 22404 of such title, shall not apply to any directed service provided with such funds.
 - **(c)** The terms of compensation for all trackage rights, joint facilities, and similar arrangements between other rail carriers and the trustee of the Rock Island Railroad which are in effect on or after March 15, 1980 , on portions of the lines of the Rock Island Railroad involved in temporary emergency operations shall be continued in effect during the duration of the temporary emergency operating authority with the carrier providing temporary emergency service substituting for the trustee, except where the Rock Island Railroad has been given more favorable treatment by virtue of its bankruptcy. Such continuation shall not alter or affect the ultimate rights of other rail carriers under trackage rights, joint facilities, or similar arrangements nor prejudice the ultimate determination of any controversy or proceeding concerning rights of the parties with regard to assignment by the trustee of rights in or to the facilities or under the arrangements.
+
+## Source Credit
+
+*([Pub. L. 96–254, title I, § 104](https://www.govinfo.gov/link/plaw/96/public/254), May 30, 1980, [94 Stat. 400](https://www.govinfo.gov/link/statute/94/400); [Pub. L. 104–88, title III, § 329(1)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 952](https://www.govinfo.gov/link/statute/109/952); [Pub. L. 117–58, div. B, title I, § 21301(j)(3)(F)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 692](https://www.govinfo.gov/link/statute/135/692).)*

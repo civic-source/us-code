@@ -3,9 +3,10 @@ title: "Section 331 - Evaluation of projects within an operational right-of-way"
 usc_title: 23
 usc_section: "331"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 331"
-generated_at: "2026-03-30T02:55:12.569Z"
+generated_at: "2026-11-23T20:26:23.871Z"
+status: "active"
 ---
 
 # § 331. Evaluation of projects within an operational right-of-way
@@ -33,3 +34,27 @@ generated_at: "2026-03-30T02:55:12.569Z"
   - **(3)** If the head of the relevant agency fails to meet a deadline under paragraph (1) or (2), as applicable, the head of the relevant agency shall—
     - **(A)** not later than 30 days after the date of the missed deadline, submit to the State, the Committee on Environment and Public Works of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives a report that describes why the deadline was missed; and
     - **(B)** not later than 14 days after the date on which a report is submitted under subparagraph (A), make publicly available, including on the internet, a copy of that report.
+
+Definitions.—
+
+Eligible project or activity.—
+
+In general
+
+Exclusion
+
+Preliminary evaluation
+
+Relevant agency
+
+Action Required.—
+
+In general
+
+Extension
+
+Failure to act
+
+## Source Credit
+
+*(Added [Pub. L. 117–58, div. A, title I, § 11309(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 535](https://www.govinfo.gov/link/statute/135/535).)*

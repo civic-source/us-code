@@ -3,9 +3,10 @@ title: "Section 1981d - Notice of loan service programs"
 usc_title: 7
 usc_section: "1981d"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1981d"
-generated_at: "2026-03-30T02:53:42.350Z"
+generated_at: "2026-11-23T20:25:41.366Z"
+status: "active"
 ---
 
 # § 1981d. Notice of loan service programs
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:42.350Z"
     - **(E)** foreclosing on property; or
     - **(F)** taking any other collection action.
 - **(e)** The Secretary shall consider a farmer program borrower for all loan service programs if, within 60 days after receipt of the notice required in this section or, in extraordinary circumstances as determined by the applicable State director, after the 60-day period, the borrower requests such consideration in writing. In considering a borrower for loan service programs, the Secretary shall place the highest priority on the preservation of the borrower’s farming operations.
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 331D](https://www.govinfo.gov/link/plaw/87/public/128), as added [Pub. L. 100–233, title VI, § 605](https://www.govinfo.gov/link/plaw/100/public/233), Jan. 6, 1988, [101 Stat. 1666](https://www.govinfo.gov/link/statute/101/1666); amended [Pub. L. 101–624, title XVIII, § 1807](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3819](https://www.govinfo.gov/link/statute/104/3819); [Pub. L. 102–554, § 10](https://www.govinfo.gov/link/plaw/102/public/554), Oct. 28, 1992, [106 Stat. 4151](https://www.govinfo.gov/link/statute/106/4151); [Pub. L. 104–127, title VI, § 633](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1092](https://www.govinfo.gov/link/statute/110/1092); [Pub. L. 115–334, title V, § 5401(b)(1)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4674](https://www.govinfo.gov/link/statute/132/4674).)*

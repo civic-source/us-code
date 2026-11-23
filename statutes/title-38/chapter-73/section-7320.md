@@ -3,9 +3,10 @@ title: "Section 7320 - Centers for mental illness research, education, and clini
 usc_title: 38
 usc_section: "7320"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7320"
-generated_at: "2026-03-30T02:55:53.528Z"
+generated_at: "2026-11-23T20:27:01.998Z"
+status: "active"
 ---
 
 # § 7320. Centers for mental illness research, education, and clinical activities
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:55:53.528Z"
     - **(A)** $3,125,000 for fiscal year 1998.
     - **(B)** $6,250,000 for each of fiscal years 1999 through 2001.
   - **(2)** In addition to funds appropriated for a fiscal year pursuant to the authorization of appropriations in paragraph (1), the Under Secretary for Health shall allocate to such centers from other funds appropriated for that fiscal year generally for the Department of Veterans Affairs medical services account and the Department of Veterans Affairs medical and prosthetics research account such amounts as the Under Secretary for Health determines appropriate to carry out the purposes of this section.
+
+## Source Credit
+
+*(Added [Pub. L. 104–262, title III, § 334(a)(1)](https://www.govinfo.gov/link/plaw/104/public/262), Oct. 9, 1996, [110 Stat. 3200](https://www.govinfo.gov/link/statute/110/3200); amended [Pub. L. 110–387, title IX, § 901(a)(8)](https://www.govinfo.gov/link/plaw/110/public/387), Oct. 10, 2008, [122 Stat. 4142](https://www.govinfo.gov/link/statute/122/4142); [Pub. L. 117–286, § 4(a)(220)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4330](https://www.govinfo.gov/link/statute/136/4330).)*

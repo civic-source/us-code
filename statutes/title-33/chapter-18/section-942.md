@@ -3,12 +3,17 @@ title: "Section 942 - Annual report"
 usc_title: 33
 usc_section: "942"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 942"
-generated_at: "2026-03-30T02:55:41.079Z"
+generated_at: "2026-11-23T20:26:53.951Z"
+status: "active"
 ---
 
 # § 942. Annual report
 
 The Secretary shall make to Congress at the end of each fiscal year, 1 1 So in original. The comma probably should not appear. a report of the administration of this chapter for the preceding fiscal year, including a detailed statement of receipts of and expenditures from the fund established in section 944 of this title , together with such recommendations as the Secretary deems advisable. Such report shall include the annual report required under section 936(b) of title 30 and shall be identified as the Annual Report of the Office of Workers’ Compensation Programs.
 
+
+## Source Credit
+
+*(Mar. 4, 1927, ch. 509, § 42, as added [Pub. L. 98–426, § 23](https://www.govinfo.gov/link/plaw/98/public/426), Sept. 28, 1984, [98 Stat. 1653](https://www.govinfo.gov/link/statute/98/1653); amended [Pub. L. 104–66, title I, § 1102(b)(1)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 722](https://www.govinfo.gov/link/statute/109/722).)*

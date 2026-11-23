@@ -3,9 +3,10 @@ title: "Section 5307 - Special purpose grants"
 usc_title: 42
 usc_section: "5307"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5307"
-generated_at: "2026-03-30T02:56:11.230Z"
+generated_at: "2026-11-23T20:27:22.525Z"
+status: "active"
 ---
 
 # § 5307. Special purpose grants
@@ -37,3 +38,11 @@ generated_at: "2026-03-30T02:56:11.230Z"
   - **(2)** No grant may be made to an Indian tribe under this section, section 5306(a)(1) of this title , or section 5318 of this title unless the applicant provides satisfactory assurances that its program will be conducted and administered in conformity with title II of Public Law 90–284 [ 25 U.S.C. 1301 et seq.]. The Secretary may waive, in connection with grants to Indian tribes, the provisions of section 5309 of this title and section 5310 of this title .
   - **(3)** The Secretary may accept a certification from the grantee or applicant that it has complied with the requirements of paragraph (1) or (2), as appropriate.
 - **(f)** Any grant made under this section shall be made pursuant to criteria for selection of recipients of such grants that the Secretary shall by regulation establish and which the Secretary shall publish together with any notification of availability of amounts under this section.
+
+In general
+
+Prior grants
+
+## Source Credit
+
+*([Pub. L. 93–383, title I, § 107](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 647](https://www.govinfo.gov/link/statute/88/647); [Pub. L. 94–375, § 15(c)](https://www.govinfo.gov/link/plaw/94/public/375), Aug. 3, 1976, [90 Stat. 1076](https://www.govinfo.gov/link/statute/90/1076); [Pub. L. 95–128, title I, § 107](https://www.govinfo.gov/link/plaw/95/public/128), Oct. 12, 1977, [91 Stat. 1123](https://www.govinfo.gov/link/statute/91/1123); [Pub. L. 95–557, title I, § 103(f)](https://www.govinfo.gov/link/plaw/95/public/557), Oct. 31, 1978, [92 Stat. 2084](https://www.govinfo.gov/link/statute/92/2084); [Pub. L. 96–399, title I](https://www.govinfo.gov/link/plaw/96/public/399), §§ 107, 117(b), Oct. 8, 1980, [94 Stat. 1618](https://www.govinfo.gov/link/statute/94/1618), 1624; [Pub. L. 97–35, title III, § 305](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 391](https://www.govinfo.gov/link/statute/95/391); [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title I, § 107, title III, § 302(b)], Nov. 30, 1983, [97 Stat. 1167](https://www.govinfo.gov/link/statute/97/1167), 1206; [Pub. L. 100–242, title V](https://www.govinfo.gov/link/plaw/100/public/242), §§ 501(b), 517(b)(2), 522(b), Feb. 5, 1988, [101 Stat. 1922](https://www.govinfo.gov/link/statute/101/1922), 1936, 1939; [Pub. L. 101–235, title I, § 105(a)](https://www.govinfo.gov/link/plaw/101/public/235) –(c), (e), Dec. 15, 1989, [103 Stat. 1998](https://www.govinfo.gov/link/statute/103/1998), 1999; [Pub. L. 101–625, title IX](https://www.govinfo.gov/link/plaw/101/public/625), §§ 901(c), 913(c), Nov. 28, 1990, [104 Stat. 4385](https://www.govinfo.gov/link/statute/104/4385), 4393; [Pub. L. 102–550, title VIII](https://www.govinfo.gov/link/plaw/102/public/550), §§ 801(c)(1), (2), (4), 808, Oct. 28, 1992, [106 Stat. 3843–3845](https://www.govinfo.gov/link/statute/106/3843), 3850; [Pub. L. 106–569, title I, § 102(f)](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 2947](https://www.govinfo.gov/link/statute/114/2947); [Pub. L. 108–186, title V, § 501(f)](https://www.govinfo.gov/link/plaw/108/public/186), Dec. 16, 2003, [117 Stat. 2697](https://www.govinfo.gov/link/statute/117/2697).)*

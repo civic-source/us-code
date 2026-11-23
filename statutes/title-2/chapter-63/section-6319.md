@@ -3,9 +3,10 @@ title: "Section 6319 - Transportation of official records and papers to a Senato
 usc_title: 2
 usc_section: "6319"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 6319"
-generated_at: "2026-03-30T02:53:04.840Z"
+generated_at: "2026-11-23T20:25:29.072Z"
+status: "active"
 ---
 
 # § 6319. Transportation of official records and papers to a Senator’s State
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:04.840Z"
 - **(c)** The Committee on Rules and Administration shall have the authority to issue rules and regulations to carry out the provisions of this section.
 - **(d)** In this section, the term “official records and papers” means books, records, papers, and official files which could be sent as franked mail.
 - **(e)** This section shall apply with respect to fiscal year 2005 and each succeeding fiscal year.
+
+## Source Credit
+
+*([Pub. L. 108–447, div. G, title I, § 7](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3170](https://www.govinfo.gov/link/statute/118/3170).)*

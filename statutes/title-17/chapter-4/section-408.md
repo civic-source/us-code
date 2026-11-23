@@ -3,9 +3,10 @@ title: "Section 408 - Copyright registration in general"
 usc_title: 17
 usc_section: "408"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 408"
-generated_at: "2026-03-30T02:54:15.351Z"
+generated_at: "2026-11-23T20:26:06.521Z"
+status: "active"
 ---
 
 # § 408. Copyright registration in general
@@ -38,3 +39,27 @@ generated_at: "2026-03-30T02:54:15.351Z"
   - **(4)** An action under this chapter for infringement of a work preregistered under this subsection, in a case in which the infringement commenced no later than 2 months after the first publication of the work, shall be dismissed if the items described in paragraph (3) are not submitted to the Copyright Office in proper form within the earlier of—
     - **(A)** 3 months after the first publication of the work; or
     - **(B)** 1 month after the copyright owner has learned of the infringement.
+
+Registration Permissive
+
+Deposit for Copyright Registration
+
+Administrative Classification and Optional Deposit.—
+
+Corrections and Amplifications
+
+Published Edition of Previously Registered Work
+
+Preregistration of Works Being Prepared for Commercial Distribution.—
+
+Rulemaking
+
+Class of works
+
+Application for registration
+
+Effect of untimely application
+
+## Source Credit
+
+*([Pub. L. 94–553, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/553), Oct. 19, 1976, [90 Stat. 2580](https://www.govinfo.gov/link/statute/90/2580); [Pub. L. 100–568, § 9(a)](https://www.govinfo.gov/link/plaw/100/public/568), Oct. 31, 1988, [102 Stat. 2859](https://www.govinfo.gov/link/statute/102/2859); [Pub. L. 102–307, title I, § 102(e)](https://www.govinfo.gov/link/plaw/102/public/307), June 26, 1992, [106 Stat. 266](https://www.govinfo.gov/link/statute/106/266); [Pub. L. 109–9, title I, § 104(a)](https://www.govinfo.gov/link/plaw/109/public/9), Apr. 27, 2005, [119 Stat. 221](https://www.govinfo.gov/link/statute/119/221).)*

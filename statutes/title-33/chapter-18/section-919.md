@@ -3,9 +3,10 @@ title: "Section 919 - Procedure in respect of claims"
 usc_title: 33
 usc_section: "919"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 919"
-generated_at: "2026-03-30T02:55:41.077Z"
+generated_at: "2026-11-23T20:26:53.939Z"
+status: "active"
 ---
 
 # § 919. Procedure in respect of claims
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:41.077Z"
 - **(f)** An award of compensation for disability may be made after the death of an injured employee.
 - **(g)** At any time after a claim has been filed with him, the deputy commissioner may, with the approval of the Secretary, transfer such case to any other deputy commissioner for the purpose of making investigation, taking testimony, making physical examinations or taking such other necessary action therein as may be directed.
 - **(h)** An injured employee claiming or entitled to compensation shall submit to such physical examination by a medical officer of the United States or by a duly qualified physician designated or approved by the Secretary as the deputy commissioner may require. The place or places shall be reasonably convenient for the employee. Such physician or physicians as the employee, employer, or carrier may select and pay for may participate in an examination if the employee, employer, or carrier so requests. Proceedings shall be suspended and no compensation be payable for any period during which the employee may refuse to submit to examination.
+
+## Source Credit
+
+*(Mar. 4, 1927, ch. 509, § 19, [44 Stat. 1435](https://www.govinfo.gov/link/statute/44/1435); June 25, 1938, ch. 685, § 9, [52 Stat. 1167](https://www.govinfo.gov/link/statute/52/1167); [Pub. L. 86–507, § 1(30)](https://www.govinfo.gov/link/plaw/86/public/507), (31), June 11, 1960, [74 Stat. 202](https://www.govinfo.gov/link/statute/74/202); [Pub. L. 92–576, § 14](https://www.govinfo.gov/link/plaw/92/public/576), Oct. 27, 1972, [86 Stat. 1261](https://www.govinfo.gov/link/statute/86/1261); [Pub. L. 95–251, § 2(a)(10)](https://www.govinfo.gov/link/plaw/95/public/251), Mar. 27, 1978, [92 Stat. 183](https://www.govinfo.gov/link/statute/92/183); [Pub. L. 98–426, § 27(a)(2)](https://www.govinfo.gov/link/plaw/98/public/426), Sept. 28, 1984, [98 Stat. 1654](https://www.govinfo.gov/link/statute/98/1654).)*

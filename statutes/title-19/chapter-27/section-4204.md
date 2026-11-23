@@ -3,9 +3,10 @@ title: "Section 4204 - Notice, consultations, and reports"
 usc_title: 19
 usc_section: "4204"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 4204"
-generated_at: "2026-03-30T02:54:24.703Z"
+generated_at: "2026-11-23T20:26:11.124Z"
+status: "active"
 ---
 
 # § 4204. Notice, consultations, and reports
@@ -98,3 +99,13 @@ generated_at: "2026-03-30T02:54:24.703Z"
     - **(A)** The United States Trade Representative shall consult with the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate after acceptance of a petition for review or taking an enforcement action in regard to an obligation under a trade agreement, including a labor or environmental obligation. During such consultations, the United States Trade Representative shall describe the matter, including the basis for such action and the application of any relevant legal obligations.
     - **(B)** As part of the report required pursuant to section 163 of the Trade Act of 1974 ( 19 U.S.C. 2213 ), the President shall report annually to Congress on enforcement actions taken pursuant to a trade agreement to which the United States is a party, as well as on any public reports issued by Federal agencies on enforcement matters relating to a trade agreement.
 - **(g)** Any Member of the House of Representatives may submit to the Committee on Ways and Means of the House of Representatives and any Member of the Senate may submit to the Committee on Finance of the Senate the views of that Member on any matter relevant to a proposed trade agreement, and the relevant Committee shall receive those views for consideration.
+
+(aa) whether any further tariff reductions on the products identified under subclause (I) should be appropriate, taking into account the impact of any such tariff reduction on the United States industry producing the product concerned;
+
+(bb) whether the products so identified face unjustified sanitary or phytosanitary restrictions, including those not based on scientific principles in contravention of the Uruguay Round Agreements; and
+
+(cc) whether the countries participating in the negotiations maintain export subsidies or other programs, policies, or practices that distort world trade in such products and the impact of such programs, policies, and practices on United States producers of the products;
+
+## Source Credit
+
+*([Pub. L. 114–26, title I, § 105](https://www.govinfo.gov/link/plaw/114/public/26), June 29, 2015, [129 Stat. 342](https://www.govinfo.gov/link/statute/129/342); [Pub. L. 114–125, title IX, § 914(f)(1)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 275](https://www.govinfo.gov/link/statute/130/275).)*

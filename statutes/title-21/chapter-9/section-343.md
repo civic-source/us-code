@@ -3,9 +3,10 @@ title: "Section 343 - Misbranded food"
 usc_title: 21
 usc_section: "343"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 343"
-generated_at: "2026-03-30T02:54:54.219Z"
+generated_at: "2026-11-23T20:26:27.519Z"
+status: "active"
 ---
 
 # § 343. Misbranded food
@@ -254,3 +255,113 @@ A food shall be deemed to be misbranded—
     - **(C)** The Secretary shall promptly post to a public site all notifications received under this subparagraph within 14 days of receipt and promptly post any objections thereto by the Secretary.
 - **(x)** Notwithstanding subsection (g), (i), or (k), or any other law, a spice, flavoring, coloring, or incidental additive that is, or that bears or contains, a food allergen (other than a major food allergen), as determined by the Secretary by regulation, shall be disclosed in a manner specified by the Secretary by regulation.
 - **(y)** If it is a dietary supplement that is marketed in the United States, unless the label of such dietary supplement includes a domestic address or domestic phone number through which the responsible person (as described in section 379aa–1 of this title ) may receive a report of a serious adverse event with such dietary supplement.
+
+Restaurants, Retail Food Establishments, and Vending Machines.—
+
+General requirements for restaurants and similar retail food establishments
+
+Information required to be disclosed by restaurants and retail food establishments
+
+(aa) in a nutrient content disclosure statement adjacent to the name of the standard menu item, so as to be clearly associated with the standard menu item, on the menu listing the item for sale, the number of calories contained in the standard menu item, as usually prepared and offered for sale; and
+
+(bb) a succinct statement concerning suggested daily caloric intake, as specified by the Secretary by regulation and posted prominently on the menu and designed to enable the public to understand, in the context of a total daily diet, the significance of the caloric information that is provided on the menu;
+
+(aa) in a nutrient content disclosure statement adjacent to the name of the standard menu item, so as to be clearly associated with the standard menu item, on the menu board, including a drive-through menu board, the number of calories contained in the standard menu item, as usually prepared and offered for sale; and
+
+(bb) a succinct statement concerning suggested daily caloric intake, as specified by the Secretary by regulation and posted prominently on the menu board, designed to enable the public to understand, in the context of a total daily diet, the significance of the nutrition information that is provided on the menu board;
+
+Self-service food and food on display
+
+Reasonable basis
+
+Menu variability and combination meals
+
+Additional information
+
+Nonapplicability to certain food.—
+
+In general
+
+(aa) items that are not listed on a menu or menu board (such as condiments and other items placed on the table or counter for general use);
+
+(bb) daily specials, temporary menu items appearing on the menu for less than 60 days per calendar year, or custom orders; or
+
+(cc) such other food that is part of a customary market test appearing on the menu for less than 90 days, under terms and conditions established by the Secretary.
+
+Written forms
+
+Vending machines.—
+
+In general
+
+(aa) does not permit a prospective purchaser to examine the Nutrition Facts Panel before purchasing the article or does not otherwise provide visible nutrition information at the point of purchase; and
+
+(bb) is operated by a person who is engaged in the business of owning or operating 20 or more vending machines,
+
+Voluntary provision of nutrition information.—
+
+In general
+
+Registration
+
+Rule of construction
+
+Regulations.—
+
+Proposed regulation
+
+Contents
+
+(aa) consider standardization of recipes and methods of preparation, reasonable variation in serving size and formulation of menu items, space on menus and menu boards, inadvertent human error, training of food service workers, variations in ingredients, and other factors, as the Secretary determines; and
+
+(bb) specify the format and manner of the nutrient content disclosure requirements under this subclause.
+
+Reporting
+
+Definition
+
+In general
+
+Misbranding
+
+“Dietary supplements—
+
+“Nothing in the amendments made by this section [amending this section and section 343–1 of this title ] shall be construed—
+
+“Congress finds that—
+
+Establishment
+
+Membership.—
+
+Composition
+
+Expertise requirement
+
+Functions of the Commission
+
+Administrative Powers of the Commission.—
+
+Hearings
+
+Information from federal agencies
+
+Authorization of appropriations
+
+Reports and Recommendations.—
+
+Final report required
+
+Recommendations
+
+Action on recommendations
+
+Before may 8, 1995
+
+After may 8, 1995
+
+“The Secretary of Health and Human Services shall carry out activities which educate consumers about—
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 403, [52 Stat. 1047](https://www.govinfo.gov/link/statute/52/1047); [Pub. L. 86–537, § 1](https://www.govinfo.gov/link/plaw/86/public/537), June 29, 1960, [74 Stat. 251](https://www.govinfo.gov/link/statute/74/251); [Pub. L. 86–618, title I, § 102(a)(3)](https://www.govinfo.gov/link/plaw/86/public/618), July 12, 1960, [74 Stat. 398](https://www.govinfo.gov/link/statute/74/398); [Pub. L. 91–601, § 6(c)](https://www.govinfo.gov/link/plaw/91/public/601), formerly § 7(c), Dec. 30, 1970, [84 Stat. 1673](https://www.govinfo.gov/link/statute/84/1673), renumbered [Pub. L. 97–35, title XII, § 1205(c)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 716](https://www.govinfo.gov/link/statute/95/716); [Pub. L. 94–278, title V, § 502(a)(1)](https://www.govinfo.gov/link/plaw/94/public/278), Apr. 22, 1976, [90 Stat. 411](https://www.govinfo.gov/link/statute/90/411); [Pub. L. 95–203, § 4(a)(1)](https://www.govinfo.gov/link/plaw/95/public/203), (b)(1), Nov. 23, 1977, [91 Stat. 1452](https://www.govinfo.gov/link/statute/91/1452), 1453; [Pub. L. 101–535](https://www.govinfo.gov/link/plaw/101/public/535), §§ 2(a), 3(a), 7, Nov. 8, 1990, [104 Stat. 2353](https://www.govinfo.gov/link/statute/104/2353), 2357, 2364; [Pub. L. 102–108, § 2(a)](https://www.govinfo.gov/link/plaw/102/public/108), (c), Aug. 17, 1991, [105 Stat. 549](https://www.govinfo.gov/link/statute/105/549); [Pub. L. 102–571, title I, § 107(5)](https://www.govinfo.gov/link/plaw/102/public/571), (6), Oct. 29, 1992, [106 Stat. 4499](https://www.govinfo.gov/link/statute/106/4499); [Pub. L. 103–80](https://www.govinfo.gov/link/plaw/103/public/80), §§ 2(b), 3(j), Aug. 13, 1993, [107 Stat. 773](https://www.govinfo.gov/link/statute/107/773), 776; [Pub. L. 103–417](https://www.govinfo.gov/link/plaw/103/public/417), §§ 6, 7(a)–(c), 10(c), Oct. 25, 1994, [108 Stat. 4329](https://www.govinfo.gov/link/statute/108/4329), 4330, 4332; [Pub. L. 104–124, § 1](https://www.govinfo.gov/link/plaw/104/public/124), Apr. 1, 1996, [110 Stat. 882](https://www.govinfo.gov/link/statute/110/882); [Pub. L. 105–115, title III](https://www.govinfo.gov/link/plaw/105/public/115), §§ 301–305, Nov. 21, 1997, [111 Stat. 2350–2353](https://www.govinfo.gov/link/statute/111/2350); [Pub. L. 106–554, § 1(a)(1) [title V, § 517]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–73; [Pub. L. 107–171, title X](https://www.govinfo.gov/link/plaw/107/public/171), §§ 10806(a)(2), (b)(2), 10808(b), May 13, 2002, [116 Stat. 526](https://www.govinfo.gov/link/statute/116/526), 527, 530; [Pub. L. 107–188, title III, § 308(b)](https://www.govinfo.gov/link/plaw/107/public/188), June 12, 2002, [116 Stat. 672](https://www.govinfo.gov/link/statute/116/672); [Pub. L. 108–282, title II, § 203(a)](https://www.govinfo.gov/link/plaw/108/public/282), Aug. 2, 2004, [118 Stat. 906](https://www.govinfo.gov/link/statute/118/906); [Pub. L. 109–462, § 3(c)](https://www.govinfo.gov/link/plaw/109/public/462), Dec. 22, 2006, [120 Stat. 3475](https://www.govinfo.gov/link/statute/120/3475); [Pub. L. 111–148, title IV, § 4205(a)](https://www.govinfo.gov/link/plaw/111/public/148), (b), Mar. 23, 2010, [124 Stat. 573](https://www.govinfo.gov/link/statute/124/573).)*

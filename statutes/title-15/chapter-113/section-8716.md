@@ -3,9 +3,10 @@ title: "Section 8716 - Study and report by the Government Accountability Office"
 usc_title: 15
 usc_section: "8716"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 8716"
-generated_at: "2026-03-30T02:54:08.233Z"
+generated_at: "2026-11-23T20:26:04.503Z"
+status: "active"
 ---
 
 # § 8716. Study and report by the Government Accountability Office
@@ -25,3 +26,7 @@ Not later than 5 years after October 5, 2018 , the Comptroller General of the Un
   - **(11)** the extent and strength of Federal oversight of the program established by this chapter;
   - **(12)** the appropriateness of administering the program from within the Office of the Secretary of Commerce and the appropriateness of administering the program from within any division of the Department, including whether the Department has the expertise, knowledge, or other capabilities necessary to adequately administer the program; and
   - **(13)** any other topic that the Comptroller General considers appropriate.
+
+## Source Credit
+
+*([Pub. L. 115–254, div. E, § 1317](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3484](https://www.govinfo.gov/link/statute/132/3484).)*

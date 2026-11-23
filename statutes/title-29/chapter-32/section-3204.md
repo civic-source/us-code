@@ -3,9 +3,10 @@ title: "Section 3204 - Workforce councils"
 usc_title: 29
 usc_section: "3204"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3204"
-generated_at: "2026-03-30T02:55:18.756Z"
+generated_at: "2026-11-23T20:26:38.112Z"
+status: "active"
 ---
 
 # § 3204. Workforce councils
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:18.756Z"
     - **(D)** recommend to the Secretary the type of career and technical education and training that should be implemented at the center to enable the enrollees to obtain the employment opportunities; and
   - **(3)** to meet at least once every 6 months to reevaluate the labor market information, and other relevant information, to determine, and recommend to the Secretary, any necessary changes in the career and technical education and training provided at the center.
 - **(d)** The workforce council for a Job Corps center that is not yet operating shall carry out the responsibilities described in subsection (c) at least 3 months prior to the date on which the center accepts the first enrollee at the center.
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 154](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1551](https://www.govinfo.gov/link/statute/128/1551).)*

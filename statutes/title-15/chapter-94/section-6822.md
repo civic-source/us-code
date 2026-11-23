@@ -3,9 +3,10 @@ title: "Section 6822 - Administrative enforcement"
 usc_title: 15
 usc_section: "6822"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 6822"
-generated_at: "2026-03-30T02:54:08.216Z"
+generated_at: "2026-11-23T20:26:04.421Z"
+status: "active"
 ---
 
 # § 6822. Administrative enforcement
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:08.216Z"
       - **(iv)** savings associations the deposits of which are insured by the Federal Deposit Insurance Corporation, by the Director of the Office of Thrift Supervision; and
     - **(B)** the Federal Credit Union Act [ 12 U.S.C. 1751 et seq.], by the Administrator of the National Credit Union Administration with respect to any Federal credit union.
   - **(2)** For the purpose of the exercise by any agency referred to in paragraph (1) of its powers under any Act referred to in that paragraph, a violation of this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in paragraph (1), each of the agencies referred to in that paragraph may exercise, for the purpose of enforcing compliance with this subchapter, any other authority conferred on such agency by law.
+
+## Source Credit
+
+*([Pub. L. 106–102, title V, § 522](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1447](https://www.govinfo.gov/link/statute/113/1447).)*

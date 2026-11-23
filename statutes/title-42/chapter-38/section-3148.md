@@ -3,9 +3,10 @@ title: "Section 3148 - Investment priorities"
 usc_title: 42
 usc_section: "3148"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3148"
-generated_at: "2026-03-30T02:56:11.182Z"
+generated_at: "2026-11-23T20:27:22.260Z"
+status: "active"
 ---
 
 # § 3148. Investment priorities
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.182Z"
   - **(5)** Economic development planning or implementation projects that encourage job creation, business expansion, technology and capital upgrades, and productivity growth in manufacturing, including efforts that contribute to the competitiveness and growth of domestic suppliers or the domestic production of innovative, high-value products and production technologies.
 - **(b)** If the Secretary plans to use an investment priority that is not described in subsection (a), the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a written notification that explains the basis for using that investment priority.
 - **(c)** Nothing in this section waives any other requirement of this chapter.
+
+## Source Credit
+
+*([Pub. L. 89–136, title II, § 208](https://www.govinfo.gov/link/plaw/89/public/136), as added [Pub. L. 118–272, div. B, title II, § 2218](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3182](https://www.govinfo.gov/link/statute/138/3182).)*

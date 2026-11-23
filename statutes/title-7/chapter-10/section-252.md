@@ -3,9 +3,10 @@ title: "Section 252 - Suspension or revocation of licenses"
 usc_title: 7
 usc_section: "252"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 252"
-generated_at: "2026-03-30T02:53:42.280Z"
+generated_at: "2026-11-23T20:25:41.010Z"
+status: "active"
 ---
 
 # § 252. Suspension or revocation of licenses
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:42.280Z"
 - **(d)**
   - **(1)** A final administrative determination issued subsequent to a hearing may be reviewable only in a district court of the United States.
   - **(2)** The review shall be conducted in accordance with the standards set forth in section 706(2) of title 5 .
+
+## Source Credit
+
+*(Aug. 11, 1916, ch. 313, pt. C, § 13, as added [Pub. L. 106–472, title II, § 201](https://www.govinfo.gov/link/plaw/106/public/472), Nov. 9, 2000, [114 Stat. 2067](https://www.govinfo.gov/link/statute/114/2067).)*

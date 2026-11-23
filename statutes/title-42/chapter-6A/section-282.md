@@ -3,9 +3,10 @@ title: "Section 282 - Director of National Institutes of Health"
 usc_title: 42
 usc_section: "282"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 282"
-generated_at: "2026-03-30T02:56:10.736Z"
+generated_at: "2026-11-23T20:27:20.191Z"
+status: "active"
 ---
 
 # § 282. Director of National Institutes of Health
@@ -333,3 +334,139 @@ generated_at: "2026-03-30T02:56:10.736Z"
     - **(B)** receives approval for the use of such authority from the Director of NIH; and
     - **(C)** for each year in which the institute, center, or office has used such authority in accordance with this subsection, submits a report to the Director of NIH on the activities of the institute, center, or office relating to such research.
 - **(o)** The Director of NIH shall, as appropriate, continue to consult with the directors of relevant institutes and centers of the National Institutes of Health, other relevant experts from such institutes and centers, and relevant experts within the Food and Drug Administration, to further the field of regenerative medicine using adult stem cells, including autologous stem cells, therapeutic tissue engineering products, human cell and tissue products, human gene therapies, and genetically modified cells.
+
+(aa) a brief title, intended for the lay public;
+
+(bb) a brief summary, intended for the lay public;
+
+(cc) the primary purpose;
+
+(dd) the study design;
+
+(ee) for an applicable drug clinical trial, the study phase;
+
+(ff) study type;
+
+(gg) the primary disease or condition being studied, or the focus of the study;
+
+(hh) the intervention name and intervention type;
+
+(ii) the study start date;
+
+(jj) the expected completion date;
+
+(kk) the target number of subjects; and
+
+(ll) outcomes, including primary and secondary outcome measures;
+
+(aa) eligibility criteria;
+
+(bb) gender;
+
+(cc) age limits;
+
+(dd) whether the trial accepts healthy volunteers;
+
+(ee) overall recruitment status;
+
+(ff) individual site status; and
+
+(gg) in the case of an applicable drug clinical trial, if the drug is not approved under section 355 of title 21 or licensed under section 262 of this title , specify whether or not there is expanded access to the drug under section 360bbb of title 21 for those who do not qualify for enrollment in the clinical trial and how to obtain information about such access;
+
+(aa) the name of the sponsor;
+
+(bb) the responsible party, by official title; and
+
+(cc) the facility name and facility contact information (including the city, State, and zip code for each clinical trial location, or a toll-free number through which such location information may be accessed); and
+
+(aa) the unique protocol identification number;
+
+(bb) other protocol identification numbers, if any; and
+
+(cc) the Food and Drug Administration IND/IDE protocol number and the record verification date.
+
+(aa) If an advisory committee considered at a meeting an applicable clinical trial, any posted Food and Drug Administration summary document regarding such applicable clinical trial.
+
+(bb) If an applicable drug clinical trial was conducted under section 355a or 355c of title 21, a link to the posted Food and Drug Administration assessment of the results of such trial.
+
+(cc) Food and Drug Administration public health advisories regarding the drug or device that is the subject of the applicable clinical trial, if any.
+
+(dd) For an applicable drug clinical trial, the Food and Drug Administration action package for approval document required under section 355( l )(2) of title 21.
+
+(ee) For an applicable device clinical trial, in the case of a premarket application under section 360e of title 21 , the detailed summary of information respecting the safety and effectiveness of the device required under section 360j(h)(1) of title 21 , or, in the case of a report under section 360(k) of title 21 , the section 360(k) summary of the safety and effectiveness data required under section 807.95(d) of title 21, Code of Federal Regulations (or any successor regulation).
+
+(aa) Medline citations to any publications focused on the results of an applicable clinical trial.
+
+(bb) The entry for the drug that is the subject of an applicable drug clinical trial in the National Library of Medicine database of structured product labels, if available.
+
+(aa) each applicable drug clinical trial for a drug that is approved under section 355 of title 21 or licensed under section 262 of this title ; and
+
+(bb) each applicable device clinical trial for a device that is cleared under section 360(k) of title 21 or approved under section 360e or 360j(m) of title 21.
+
+(aa) an applicable drug clinical trial for a drug that is not approved under section 355 of title 21 and not licensed under section 262 of this title (whether approval or licensure was sought or not); and
+
+(bb) an applicable device clinical trial for a device that is not cleared under section 360(k) of title 21 and not approved under section 360e or section 360j(m) of title 21 (whether clearance or approval was sought or not).
+
+(aa) the certification process under subparagraph (E)(iii) when approval, licensure, or clearance is sought; and
+
+(bb) whether there should be a delay of submission when approval, licensure, or clearance will not be sought.
+
+(aa) subparagraph (C); or
+
+(bb) the regulations issued under subparagraph (D).
+
+(aa) the new use of the drug or device is approved under such section 355, licensed under such section 262, cleared under such section 360(k), or approved under such section 360e or 360j(m);
+
+(bb) the Secretary issues a letter, such as a complete response letter, not approving the submission or not clearing the submission, a not approvable letter, or a not substantially equivalent letter for the new use of the drug or device under such section 355, 262, 360(k), 360e, or 360j(m); or
+
+(cc) except as provided in subclause (III), the application or premarket notification under such section 355, 262, 360(k), 360e, or 360j(m) is withdrawn without resubmission for no less than 210 days.
+
+(aa) failing to submit required clinical trial information; or
+
+(bb) submitting false or misleading clinical trial information;
+
+Input from experts
+
+Policy updates
+
+Public availability of findings and conclusions
+
+Establishment
+
+Considerations
+
+Policies
+
+Report
+
+Confidentiality
+
+In General.—
+
+Request for proposals
+
+Determination on grants or contracts
+
+Application
+
+Use of Funds
+
+Coordination.—
+
+National institutes of health
+
+Food and drug administration
+
+Effectiveness and outcomes
+
+Authorization of Appropriations
+
+In general
+
+Rule of construction
+
+“The Secretary of Health and Human Services, acting through the Director of the National Institutes of Health, shall conduct a study for the purpose of—
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title IV, § 402, as added [Pub. L. 99–158, § 2](https://www.govinfo.gov/link/plaw/99/public/158), Nov. 20, 1985, [99 Stat. 823](https://www.govinfo.gov/link/statute/99/823); amended [Pub. L. 100–607, title I, § 111](https://www.govinfo.gov/link/plaw/100/public/607), Nov. 4, 1988, [102 Stat. 3052](https://www.govinfo.gov/link/statute/102/3052); [Pub. L. 102–321, title I, § 163(b)(3)](https://www.govinfo.gov/link/plaw/102/public/321), July 10, 1992, [106 Stat. 376](https://www.govinfo.gov/link/statute/106/376); [Pub. L. 103–43, title I, § 141(b)](https://www.govinfo.gov/link/plaw/103/public/43), title II, §§ 201, 202, 206, 208, 210(b), (c), title III, § 303(b), June 10, 1993, [107 Stat. 139](https://www.govinfo.gov/link/statute/107/139), 144, 148–150, 153; [Pub. L. 105–115, title I, § 113(a)](https://www.govinfo.gov/link/plaw/105/public/115), Nov. 21, 1997, [111 Stat. 2310](https://www.govinfo.gov/link/statute/111/2310); [Pub. L. 105–362, title VI, § 601(a)(1)(A)](https://www.govinfo.gov/link/plaw/105/public/362), Nov. 10, 1998, [112 Stat. 3285](https://www.govinfo.gov/link/statute/112/3285); [Pub. L. 105–392, title IV, § 409](https://www.govinfo.gov/link/plaw/105/public/392), Nov. 13, 1998, [112 Stat. 3589](https://www.govinfo.gov/link/statute/112/3589); [Pub. L. 107–109, § 15(c)(2)](https://www.govinfo.gov/link/plaw/107/public/109), Jan. 4, 2002, [115 Stat. 1420](https://www.govinfo.gov/link/statute/115/1420); [Pub. L. 109–482, title I](https://www.govinfo.gov/link/plaw/109/public/482), §§ 102(a)–(d), (f)(1)(A), 103(b)(1), Jan. 15, 2007, [120 Stat. 3681](https://www.govinfo.gov/link/statute/120/3681), 3683, 3684, 3687; [Pub. L. 110–85, title III, § 304(a)](https://www.govinfo.gov/link/plaw/110/public/85), title VIII, § 801(a), title XI, § 1104(2), Sept. 27, 2007, [121 Stat. 863](https://www.govinfo.gov/link/statute/121/863), 904, 975; [Pub. L. 110–316, title III, § 302](https://www.govinfo.gov/link/plaw/110/public/316), Aug. 14, 2008, [122 Stat. 3524](https://www.govinfo.gov/link/statute/122/3524); [Pub. L. 111–148, title X, § 10409(b)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 978](https://www.govinfo.gov/link/statute/124/978); [Pub. L. 112–74, div. F, title II, § 221(b)(5)(B)](https://www.govinfo.gov/link/plaw/112/public/74), (d)(1), Dec. 23, 2011, [125 Stat. 1089](https://www.govinfo.gov/link/statute/125/1089), 1090; [Pub. L. 113–94, § 3(a)](https://www.govinfo.gov/link/plaw/113/public/94), Apr. 3, 2014, [128 Stat. 1086](https://www.govinfo.gov/link/statute/128/1086); [Pub. L. 114–255, div. A, title II](https://www.govinfo.gov/link/plaw/114/public/255), §§ 2014(a), 2031(a), 2036(a), 2038(a), 2051, Dec. 13, 2016, [130 Stat. 1051](https://www.govinfo.gov/link/statute/130/1051), 1054, 1062, 1064, 1074; [Pub. L. 115–271, title VII, § 7041](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 4016](https://www.govinfo.gov/link/statute/132/4016); [Pub. L. 117–15, § 4](https://www.govinfo.gov/link/plaw/117/public/15), May 26, 2021, [135 Stat. 278](https://www.govinfo.gov/link/statute/135/278); [Pub. L. 117–286, § 4(a)(231)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4331](https://www.govinfo.gov/link/statute/136/4331); [Pub. L. 117–328, div. FF, title II](https://www.govinfo.gov/link/plaw/117/public/328), §§ 2302, 2323, Dec. 29, 2022, [136 Stat. 5757](https://www.govinfo.gov/link/statute/136/5757), 5767; [Pub. L. 118–228](https://www.govinfo.gov/link/plaw/118/public/228), §§ 2(3), 3(b), Jan. 4, 2025, [138 Stat. 2822](https://www.govinfo.gov/link/statute/138/2822).)*

@@ -3,9 +3,10 @@ title: "Section 3154 - Contingency contracting matters covered"
 usc_title: 10
 usc_section: "3154"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 3154"
-generated_at: "2026-03-30T02:53:38.189Z"
+generated_at: "2026-11-23T20:25:51.808Z"
+status: "active"
 ---
 
 # § 3154. Contingency contracting matters covered
@@ -22,3 +23,11 @@ generated_at: "2026-03-30T02:53:38.189Z"
   - **(5)** Appropriate steps to ensure that training is maintained for such personnel even when they are not deployed in a contingency operation.
   - **(6)** Such steps as may be needed to ensure jointness and cross-service coordination in the area of contingency contracting.
 - **(b)** To the extent practicable, the joint policy for contingency contracting required by section 3151 of this title should be taken into account in the development of interagency plans for stabilization and reconstruction operations, consistent with the report submitted by the President under section 1035 of the John Warner National Defense Authorization Act for Fiscal Year 2007 ( Public Law 109–364 ; 120 Stat. 2388 ) on interagency operating procedures for the planning and conduct of stabilization and reconstruction operations.
+
+In General
+
+Interagency Plans
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1810(a)](https://www.govinfo.gov/link/plaw/116/public/283), (b)(4), (c), Jan. 1, 2021, [134 Stat. 4162–4164](https://www.govinfo.gov/link/statute/134/4162).)*

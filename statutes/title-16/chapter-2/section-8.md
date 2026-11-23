@@ -3,9 +3,10 @@ title: "Section 8 - Extinguishment of claims"
 usc_title: 16
 usc_section: "8"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 8"
-generated_at: "2026-03-30T02:54:22.865Z"
+generated_at: "2026-11-23T20:26:20.113Z"
+status: "active"
 ---
 
 # § 539m–8. Extinguishment of claims
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:22.865Z"
   - **(2)** the land on which the crest facilities are located.
 - **(d)** As provided in the Settlement Agreement, the Pueblo has agreed to the relinquishment and extinguishment of those claims, rights, titles and interests extinguished pursuant to subsection 1 1 So in original. Probably should be “subsections”. (a), (b), and (c).
 - **(e)** The recognition of the Pueblo’s rights and interests in sections 539m to 539m–12 of this title constitutes adequate consideration for the Pueblo’s agreement to the extinguishment of the Pueblo’s claims in this section and the right-of-way grants contained in section 539m–7 of this title , and it is the intent of Congress that those rights and interests may only be diminished by a future Act of Congress specifically authorizing diminishment of such rights, with express reference to sections 539m to 539m–12 of this title.
+
+## Source Credit
+
+*([Pub. L. 108–7, div. F, title IV, § 410](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 290](https://www.govinfo.gov/link/statute/117/290).)*

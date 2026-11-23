@@ -3,9 +3,10 @@ title: "Section 8705 - Death claims; order of precedence; escheat"
 usc_title: 5
 usc_section: "8705"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8705"
-generated_at: "2026-03-30T02:52:56.065Z"
+generated_at: "2026-11-23T20:25:32.234Z"
+status: "active"
 ---
 
 # § 8705. Death claims; order of precedence; escheat
@@ -21,3 +22,42 @@ generated_at: "2026-03-30T02:52:56.065Z"
     - **(A)** with the written consent of such person, if received as described in paragraph (2); or
     - **(B)** by modification of the decree, order, or agreement, as the case may be, if received as described in paragraph (2).
   - **(4)** The Office shall prescribe any regulations necessary to carry out this subsection, including regulations for the application of this subsection in the event that two or more decrees, orders, or agreements, are received with respect to the same amount.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 2093 . | Aug. 17, 1954, ch. 752, § 4 , 68 Stat. 738 . Aug. 28, 1962 , Pub. L. 87–611, § 1 , 76 Stat. 406 . |
+
+| 1967 Act | Col 2 | Col 3 |
+| --- | --- | --- |
+| 8705(a) | 5 App.: 2093. | Mar. 23, 1966 , Pub. L. 89–373, § 1 , 80 Stat. 78 . |
+
+
+Historical and Revision Notes
+
+Act
+
+5 U.S.C. 2093
+
+Aug. 17, 1954, ch. 752, § 4
+
+68 Stat. 738
+
+Aug. 28, 1962
+
+Pub. L. 87–611, § 1
+
+76 Stat. 406
+
+Act
+
+8705(a)
+
+Mar. 23, 1966
+
+Pub. L. 89–373, § 1
+
+80 Stat. 78
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 594](https://www.govinfo.gov/link/statute/80/594); [Pub. L. 90–83, § 1(91)](https://www.govinfo.gov/link/plaw/90/public/83), Sept. 11, 1967, [81 Stat. 219](https://www.govinfo.gov/link/statute/81/219); [Pub. L. 95–454, title IX, § 906(a)(2)](https://www.govinfo.gov/link/plaw/95/public/454), (3), Oct. 13, 1978, [92 Stat. 1224](https://www.govinfo.gov/link/statute/92/1224); [Pub. L. 95–583, § 1(b)](https://www.govinfo.gov/link/plaw/95/public/583), Nov. 2, 1978, [92 Stat. 2481](https://www.govinfo.gov/link/statute/92/2481); [Pub. L. 105–205, § 1](https://www.govinfo.gov/link/plaw/105/public/205), July 22, 1998, [112 Stat. 683](https://www.govinfo.gov/link/statute/112/683).)*

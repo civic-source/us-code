@@ -3,9 +3,10 @@ title: "Section 1613a - Appellate jurisdiction of District Court; procedure; rev
 usc_title: 48
 usc_section: "1613a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1613a"
-generated_at: "2026-03-30T02:56:14.589Z"
+generated_at: "2026-11-23T20:27:28.062Z"
+status: "active"
 ---
 
 # § 1613a. Appellate jurisdiction of District Court; procedure; review by United States Court of Appeals for Third Circuit; rules; appeals to appellate court
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:14.589Z"
 - **(b)** Appeals to the District Court of the Virgin Islands shall be heard and determined by an appellate division of the court consisting of three judges, of whom two shall constitute a quorum. The chief judge of the district court shall be the presiding judge of the appellate division and shall preside therein unless disqualified or otherwise unable to act. The other judges who are to sit in the appellate division at any session shall be designated by the presiding judge from among the judges who are serving on, or are assigned to, the district court from time to time pursuant to section 1614(a) of this title : Provided , That no more than one of them may be a judge of a court established by local law. The concurrence of two judges shall be necessary to any decision by the appellate division of the district court on the merits of an appeal, but the presiding judge alone may make any appropriate orders with respect to an appeal prior to the hearing and determination thereof on the merits and may dismiss an appeal for want of jurisdiction or failure to take or prosecute it in accordance with the applicable law or rules of procedure. Appeals pending in the district court on the effective date of this Act 1 1 See References in Text note below. shall be heard and determined by a single judge.
 - **(c)** The United States Court of Appeals for the Third Circuit shall have jurisdiction of appeals from all final decisions of the district court on appeal from the courts established by local law. The United States Court of Appeals for the Third Circuit shall have jurisdiction to promulgate rules necessary to carry out the provisions of this subsection.
 - **(d)** Upon the establishment of the appellate court provided for in section 1611(a) of this title all appeals from the decisions of the courts of the Virgin Islands established by local law not previously taken must be taken to that appellate court. The establishment of the appellate court shall not result in the loss of jurisdiction of the district court over any appeal then pending in it. The rulings of the district court on such appeals may be reviewed in the United States Court of Appeals for the Third Circuit and in the Supreme Court notwithstanding the establishment of the appellate court.
+
+## Source Credit
+
+*(July 22, 1954, ch. 558, § 23A, as added [Pub. L. 98–454, title VII, § 705](https://www.govinfo.gov/link/plaw/98/public/454), Oct. 5, 1984, [98 Stat. 1739](https://www.govinfo.gov/link/statute/98/1739).)*

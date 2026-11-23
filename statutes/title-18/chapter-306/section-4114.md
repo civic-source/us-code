@@ -3,9 +3,10 @@ title: "Section 4114 - Return of transferred offenders"
 usc_title: 18
 usc_section: "4114"
 chapter: 306
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 4114"
-generated_at: "2026-03-30T02:54:16.528Z"
+generated_at: "2026-11-23T20:26:08.786Z"
+status: "active"
 ---
 
 # § 4114. Return of transferred offenders
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:16.528Z"
 - **(e)** The return of an offender shall be conditioned upon the offender being given credit toward service of the sentence for the time spent in the custody of or under the supervision of the United States.
 - **(f)** Sections 3186, 3188 through 3191, and 3195 of this title shall be applicable to the return of an offender under this section. However, an offender returned under this section shall not be deemed to have been extradited for any purpose.
 - **(g)** An offender whose return is sought pursuant to this section may be admitted to bail or be released on his own recognizance at any stage of the proceedings.
+
+## Source Credit
+
+*(Added [Pub. L. 95–144, § 1](https://www.govinfo.gov/link/plaw/95/public/144), Oct. 28, 1977, [91 Stat. 1219](https://www.govinfo.gov/link/statute/91/1219); amended [Pub. L. 101–650, title III, § 321](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5117](https://www.govinfo.gov/link/statute/104/5117).)*

@@ -3,9 +3,10 @@ title: "Section 375a - Loans to executive officers of banks"
 usc_title: 12
 usc_section: "375a"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 375a"
-generated_at: "2026-03-30T02:53:53.382Z"
+generated_at: "2026-11-23T20:25:58.753Z"
+status: "active"
 ---
 
 # § 375a. Loans to executive officers of banks
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:53.382Z"
   - **(6)** This section does not prohibit any executive officer of a member bank from endorsing or guaranteeing for the protection of the bank any loan or other asset previously acquired by the bank in good faith or from incurring any indebtedness to the bank for the purpose of protecting the bank against loss or giving financial assistance to it.
   - **(7)** Each day that any extension of credit in violation of this section exists is a continuation of the violation for the purposes of section 1818 of this title .
   - **(8)** The Board of Governors of the Federal Reserve System may prescribe such rules and regulations, including definitions of terms, as it deems necessary to effectuate the purposes and to prevent evasions of this section.
+
+## Source Credit
+
+*(Dec. 23, 1913, ch. 6, § 22(g), as added June 16, 1933, ch. 89, § 12, [48 Stat. 182](https://www.govinfo.gov/link/statute/48/182); amended June 14, 1935, ch. 245, [49 Stat. 375](https://www.govinfo.gov/link/statute/49/375); Aug. 23, 1935, ch. 614, title III, § 326(c), [49 Stat. 716](https://www.govinfo.gov/link/statute/49/716); Apr. 25, 1938, ch. 173, [52 Stat. 223](https://www.govinfo.gov/link/statute/52/223); June 20, 1939, ch. 214, § 1, [53 Stat. 842](https://www.govinfo.gov/link/statute/53/842); [Pub. L. 90–44, § 1](https://www.govinfo.gov/link/plaw/90/public/44), July 3, 1967, [81 Stat. 109](https://www.govinfo.gov/link/statute/81/109); [Pub. L. 95–630, title I, § 110](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3665](https://www.govinfo.gov/link/statute/92/3665); [Pub. L. 97–320, title IV, § 421](https://www.govinfo.gov/link/plaw/97/public/320), Oct. 15, 1982, [96 Stat. 1522](https://www.govinfo.gov/link/statute/96/1522); [Pub. L. 103–325, title III, § 334(a)](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2233](https://www.govinfo.gov/link/statute/108/2233); [Pub. L. 109–351, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/109/public/351), Oct. 13, 2006, [120 Stat. 1978](https://www.govinfo.gov/link/statute/120/1978).)*

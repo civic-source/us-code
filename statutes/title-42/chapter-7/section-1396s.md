@@ -3,9 +3,10 @@ title: "Section 1396s - Program for distribution of pediatric vaccines"
 usc_title: 42
 usc_section: "1396s"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1396s"
-generated_at: "2026-03-30T02:56:11.056Z"
+generated_at: "2026-11-23T20:27:21.618Z"
+status: "active"
 ---
 
 # § 1396s. Program for distribution of pediatric vaccines
@@ -82,3 +83,7 @@ generated_at: "2026-03-30T02:56:11.056Z"
   - **(7)** The term “program-registered provider” has the meaning given such term in subsection (c).
   - **(8)** The term “qualified pediatric vaccine” means a pediatric vaccine with respect to which a contract is in effect under subsection (d).
   - **(9)** The terms “vaccine-eligible child”, “federally vaccine-eligible child”, and “State vaccine-eligible child” have the meaning given such terms in subsection (b).
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XIX, § 1928, as added [Pub. L. 103–66, title XIII, § 13631(b)(2)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 637](https://www.govinfo.gov/link/statute/107/637).)*

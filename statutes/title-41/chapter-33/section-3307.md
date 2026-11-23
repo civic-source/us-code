@@ -3,9 +3,10 @@ title: "Section 3307 - Preference for commercial products and commercial service
 usc_title: 41
 usc_section: "3307"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 3307"
-generated_at: "2026-03-30T02:55:55.805Z"
+generated_at: "2026-11-23T20:27:04.424Z"
+status: "active"
 ---
 
 # § 3307. Preference for commercial products and commercial services
@@ -76,3 +77,100 @@ generated_at: "2026-03-30T02:55:55.805Z"
     - **(A)** allow, to the maximum extent practicable, a contractor under a commercial products acquisition to use the existing quality assurance system of the contractor as a substitute for compliance with an otherwise applicable requirement for the Federal Government to inspect or test the commercial products before the contractor’s tender of those products for acceptance by the Federal Government;
     - **(B)** require that, to the maximum extent practicable, the executive agency take advantage of warranties (including extended warranties) offered by offerors of commercial products and use those warranties for the repair and replacement of commercial products; and
     - **(C)** set forth guidance regarding the use of past performance of commercial products and sources as a factor in contract award decisions.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3307(a) | 41:264. | June 30, 1949, ch. 288 , title III, §§ 314, 314B, as added Pub. L. 103–355, title VIII , §§ 8201, 8203, Oct. 13, 1994 , 108 Stat. 3394 . |
+| 3307(b) | 41:264b(a). |  |
+| 3307(c) | 41:264b(b). |  |
+| 3307(d) | 41:264b(c). |  |
+| 3307(e) | 41:264 note. | Pub. L. 103–355, title VIII, § 8002 , Oct. 13, 1994 , 108 Stat. 3386 ; Pub. L. 108–136, title XIV , 1432, Nov. 24, 2003 , 117 Stat. 1672 . |
+
+
+Relationship of Provisions of Law to Procurement of Commercial Products and Commercial Services.—
+
+This division
+
+Laws listed in federal acquisition regulation
+
+Preference
+
+Implementation
+
+Market Research.—
+
+When to be used
+
+Use of results
+
+Only minimum information required to be submitted
+
+Documentation
+
+Regulations.—
+
+In general
+
+Contract clauses.—
+
+Definition
+
+List of clauses to be included
+
+Requirements of prime contractor
+
+Clauses that may be used in a contract
+
+Waiver of contract clauses
+
+Market acceptance.—
+
+Requirement of offerors
+
+Regulation to provide guidance on criteria
+
+Provisions relating to types of contracts.—
+
+Types of contracts that may be used
+
+When time-and-materials or labor-hour contract may be used
+
+Categories of commercial services
+
+Contract quality requirements
+
+Historical and Revision Notes
+
+3307(a)
+
+June 30, 1949, ch. 288
+
+Pub. L. 103–355, title VIII
+
+Oct. 13, 1994
+
+108 Stat. 3394
+
+3307(b)
+
+3307(c)
+
+3307(d)
+
+3307(e)
+
+Pub. L. 103–355, title VIII, § 8002
+
+Oct. 13, 1994
+
+108 Stat. 3386
+
+Pub. L. 108–136, title XIV
+
+Nov. 24, 2003
+
+117 Stat. 1672
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3754](https://www.govinfo.gov/link/statute/124/3754); [Pub. L. 115–232, div. A, title VIII, § 836(b)(10)(A)](https://www.govinfo.gov/link/plaw/115/public/232), (B)(i), Aug. 13, 2018, [132 Stat. 1861–1863](https://www.govinfo.gov/link/statute/132/1861); [Pub. L. 116–92, div. A, title VIII, § 818(b)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1488](https://www.govinfo.gov/link/statute/133/1488); [Pub. L. 117–81, div. A, title XVII, § 1702(h)(13)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2158](https://www.govinfo.gov/link/statute/135/2158).)*

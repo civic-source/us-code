@@ -3,9 +3,10 @@ title: "Section 9761 - Congressional briefings"
 usc_title: 22
 usc_section: "9761"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9761"
-generated_at: "2026-03-30T02:55:05.473Z"
+generated_at: "2026-11-23T20:26:32.800Z"
+status: "active"
 ---
 
 # § 9761. Congressional briefings
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:55:05.473Z"
     - **(B)** the Committee on Homeland Security and Governmental Affairs of the Senate;
     - **(C)** the Committee on Foreign Affairs of the House of Representatives; and
     - **(D)** the Committee on Homeland Security of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 116–94, div. J, title I, § 181](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3046](https://www.govinfo.gov/link/statute/133/3046).)*

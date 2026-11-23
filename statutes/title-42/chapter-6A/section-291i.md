@@ -3,9 +3,10 @@ title: "Section 291i - Recovery of expenditures under certain conditions"
 usc_title: 42
 usc_section: "291i"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 291i"
-generated_at: "2026-03-30T02:56:10.771Z"
+generated_at: "2026-11-23T20:27:20.354Z"
+status: "active"
 ---
 
 # § 291i. Recovery of expenditures under certain conditions
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:10.771Z"
     - **(B)** will meet the obligation of the facility under clause (1) of section 291c(e) of this title .
   - **(2)** The Secretary may waive the recovery rights of the United States under subsection (a)(2) with respect to a facility in any State if the Secretary determines, in accordance with regulations, that there is good cause for waiving such rights with respect to such facility.
 - **(e)** The right of recovery of the United States under subsection (a) shall not constitute a lien on any facility with respect to which funds have been paid under section 291f of this title .
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VI, § 609, as added [Pub. L. 88–443, § 3(a)](https://www.govinfo.gov/link/plaw/88/public/443), Aug. 18, 1964, [78 Stat. 456](https://www.govinfo.gov/link/statute/78/456); amended [Pub. L. 91–296, title I](https://www.govinfo.gov/link/plaw/91/public/296) § 116(d), June 30, 1970, [84 Stat. 342](https://www.govinfo.gov/link/statute/84/342); [Pub. L. 98–369, div. B, title III, § 2381(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1112](https://www.govinfo.gov/link/statute/98/1112).)*

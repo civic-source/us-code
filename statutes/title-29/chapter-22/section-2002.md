@@ -3,9 +3,10 @@ title: "Section 2002 - Prohibitions on lie detector use"
 usc_title: 29
 usc_section: "2002"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 2002"
-generated_at: "2026-03-30T02:55:18.741Z"
+generated_at: "2026-11-23T20:26:38.053Z"
+status: "active"
 ---
 
 # § 2002. Prohibitions on lie detector use
@@ -21,3 +22,7 @@ Except as provided in sections 2006 and 2007 of this title, it shall be unlawful
     - **(A)** such employee or prospective employee has filed any complaint or instituted or caused to be instituted any proceeding under or related to this chapter,
     - **(B)** such employee or prospective employee has testified or is about to testify in any such proceeding, or
     - **(C)** of the exercise by such employee or prospective employee, on behalf of such employee or another person, of any right afforded by this chapter.
+
+## Source Credit
+
+*([Pub. L. 100–347, § 3](https://www.govinfo.gov/link/plaw/100/public/347), June 27, 1988, [102 Stat. 646](https://www.govinfo.gov/link/statute/102/646).)*

@@ -3,9 +3,10 @@ title: "Section 4606 - Required terms of order"
 usc_title: 7
 usc_section: "4606"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 4606"
-generated_at: "2026-03-30T02:53:42.409Z"
+generated_at: "2026-11-23T20:25:41.626Z"
+status: "active"
 ---
 
 # § 4606. Required terms of order
@@ -138,3 +139,79 @@ generated_at: "2026-03-30T02:53:42.409Z"
 - **(i)** The Honey Board shall develop and submit to the Secretary, for approval, plans for research, promotion, and consumer information. Any such plans or projects must be approved by the Secretary before becoming effective. The Honey Board may enter into contracts or agreements with the approval of the Secretary for the development and carrying out of research, promotion, and consumer information, and for the payment of the cost thereof with funds collected pursuant to this chapter.
 - **(j)** The Honey Board shall maintain books and records and prepare and submit to the Secretary such reports from time to time as may be required for appropriate accounting with respect to the receipt and disbursement of funds entrusted to it and cause a complete audit report to be submitted to the Secretary at the end of each fiscal year.
 - **(k)** Any patent on any product, copyright on any material, or any invention, product formulation or publication developed through the use of funds collected by the Honey Board shall be the property of the Honey Board. The funds generated from any such patent, copyright, invention, product formulation, or publication shall inure to the benefit of the Honey Board.
+
+Alternates
+
+Reconstitution.—
+
+Review
+
+Recommendations
+
+Scope of review
+
+Basis for recommendations.—
+
+In general
+
+Proportions
+
+Timing of review.—
+
+In general
+
+Initial review
+
+Base period proportions.—
+
+In general
+
+Initial review
+
+Restrictions on nomination and appointment.—
+
+Producer-packers as producers
+
+Importers
+
+Certification of organizations.—
+
+In general
+
+Eligibility criteria
+
+Finality
+
+Basis for certification
+
+Primary considerations
+
+Nonmembers
+
+Minimum percentage of honey producers
+
+Referendum requirement.—
+
+Definition of existing honey board
+
+Conduct of referenda
+
+Requirements
+
+Honey board referendum
+
+In general
+
+Rate
+
+Alternative rate approved in referendum
+
+Small quantities.—
+
+In general
+
+Inapplicability
+
+## Source Credit
+
+*([Pub. L. 98–590, § 7](https://www.govinfo.gov/link/plaw/98/public/590), Oct. 30, 1984, [98 Stat. 3117](https://www.govinfo.gov/link/statute/98/3117); [Pub. L. 101–624, title XIX](https://www.govinfo.gov/link/plaw/101/public/624), §§ 1983, 1984(a), Nov. 28, 1990, [104 Stat. 3905](https://www.govinfo.gov/link/statute/104/3905); [Pub. L. 105–185, title VI, § 605(f)](https://www.govinfo.gov/link/plaw/105/public/185), June 23, 1998, [112 Stat. 590](https://www.govinfo.gov/link/statute/112/590); [Pub. L. 105–277, div. A, § 101(a) [title VII, § 753(b)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681](https://www.govinfo.gov/link/statute/112/2681), 2681–33; [Pub. L. 110–234, title X, § 10401](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1348](https://www.govinfo.gov/link/statute/122/1348); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title X, § 10401, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2109.)*

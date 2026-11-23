@@ -3,9 +3,10 @@ title: "Section 1626 - Payments"
 usc_title: 22
 usc_section: "1626"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 1626"
-generated_at: "2026-03-30T02:55:05.334Z"
+generated_at: "2026-11-23T20:26:32.126Z"
+status: "active"
 ---
 
 # § 1626. Payments
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:05.334Z"
 - **(d)** Whenever the Secretary of the Treasury shall find that any person is entitled to any such payment, after such payment shall have been received by such person, it shall be an absolute bar to recovery by any other person against the United States, its officers, agents, or employees with respect to such payment.
 - **(e)** Any person who makes application for any such payment shall be held to have consented to all the provisions of this subchapter.
 - **(f)** Nothing in this subchapter shall be construed as the assumption of any liability by the United States for the payment or satisfaction, in whole or in part, of any claim on behalf of any national of the United States against any foreign government.
+
+## Source Credit
+
+*(Mar. 10, 1950, ch. 54, title I, § 7, [64 Stat. 16](https://www.govinfo.gov/link/statute/64/16); Aug. 8, 1953, ch. 396, § 2, [67 Stat. 506](https://www.govinfo.gov/link/statute/67/506); Aug. 9, 1955, ch. 645, §§ 1, 2, [69 Stat. 562](https://www.govinfo.gov/link/statute/69/562); [Pub. L. 90–421, § 1(2)](https://www.govinfo.gov/link/plaw/90/public/421), (3), July 24, 1968, [82 Stat. 420](https://www.govinfo.gov/link/statute/82/420); [Pub. L. 104–316, title II, § 202(h)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3842](https://www.govinfo.gov/link/statute/110/3842).)*

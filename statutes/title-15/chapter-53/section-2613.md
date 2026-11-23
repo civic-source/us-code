@@ -3,9 +3,10 @@ title: "Section 2613 - Confidential information"
 usc_title: 15
 usc_section: "2613"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2613"
-generated_at: "2026-03-30T02:54:08.176Z"
+generated_at: "2026-11-23T20:26:04.218Z"
+status: "active"
 ---
 
 # § 2613. Confidential information
@@ -165,3 +166,15 @@ generated_at: "2026-03-30T02:54:08.176Z"
     - **(B)** to impose substantiation or resubstantiation requirements, with respect to the protection of information described in subsection (a), under this chapter that are more extensive than those required under this section.
   - **(2)** Nothing in this chapter prevents the Administrator from reviewing, requiring substantiation or resubstantiation of, or approving, approving in part, or denying any claim for the protection from disclosure of information before the effective date of such rules applicable to those claims as the Administrator may promulgate after June 22, 2016 .
 - **(j)** Notwithstanding any limitation contained in this section or any other provision of law, all information reported to or otherwise obtained by the Administrator (or any representative of the Administrator) under this chapter shall be made available, upon written request of any duly authorized committee of the Congress, to such committee.
+
+(aa) grant an extension of 10 years; or
+
+(bb) deny the request.
+
+(aa) the Administrator has provided to the person that asserted the claim a notice under subsection (e)(2)(A); and
+
+(bb) such person does not submit to the Administrator a request under subsection (e)(2)(B) on or before the deadline established in subsection (e)(2)(B)(i).
+
+## Source Credit
+
+*([Pub. L. 94–469, title I, § 14](https://www.govinfo.gov/link/plaw/94/public/469), Oct. 11, 1976, [90 Stat. 2034](https://www.govinfo.gov/link/statute/90/2034); renumbered title I, [Pub. L. 99–519, § 3(c)(1)](https://www.govinfo.gov/link/plaw/99/public/519), Oct. 22, 1986, [100 Stat. 2989](https://www.govinfo.gov/link/statute/100/2989); amended [Pub. L. 114–182, title I, § 11](https://www.govinfo.gov/link/plaw/114/public/182), June 22, 2016, [130 Stat. 481](https://www.govinfo.gov/link/statute/130/481).)*

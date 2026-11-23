@@ -3,9 +3,10 @@ title: "Section 6905 - Application of chapter and integration with other Acts"
 usc_title: 42
 usc_section: "6905"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6905"
-generated_at: "2026-03-30T02:56:11.270Z"
+generated_at: "2026-11-23T20:27:22.724Z"
+status: "active"
 ---
 
 # § 6905. Application of chapter and integration with other Acts
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.270Z"
 - **(c)**
   - **(1)** No later than 90 days after October 21, 1980 , the Administrator shall review any regulations applicable to the treatment, storage, or disposal of any coal mining wastes or overburden promulgated by the Secretary of the Interior under the Surface Mining and Reclamation Act of 1977 [ 30 U.S.C. 1201 et seq.]. If the Administrator determines that any requirement of final regulations promulgated under any section of subchapter III relating to mining wastes or overburden is not adequately addressed in such regulations promulgated by the Secretary, the Administrator shall promptly transmit such determination, together with suggested revisions and supporting documentation, to the Secretary.
   - **(2)** The Secretary of the Interior shall have exclusive responsibility for carrying out any requirement of subchapter III of this chapter with respect to coal mining wastes or overburden for which a surface coal mining and reclamation permit is issued or approved under the Surface Mining Control and Reclamation Act of 1977 [ 30 U.S.C. 1201 et seq.]. The Secretary shall, with the concurrence of the Administrator, promulgate such regulations as may be necessary to carry out the purposes of this subsection and shall integrate such regulations with regulations promulgated under the Surface Mining Control and Reclamation Act of 1977.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 1006](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 94–580, § 2](https://www.govinfo.gov/link/plaw/94/public/580), Oct. 21, 1976, [90 Stat. 2802](https://www.govinfo.gov/link/statute/90/2802); amended [Pub. L. 96–482, § 3](https://www.govinfo.gov/link/plaw/96/public/482), Oct. 21, 1980, [94 Stat. 2334](https://www.govinfo.gov/link/statute/94/2334); [Pub. L. 98–616, title I, § 102](https://www.govinfo.gov/link/plaw/98/public/616), title V, § 501(f)(2), Nov. 8, 1984, [98 Stat. 3225](https://www.govinfo.gov/link/statute/98/3225), 3276.)*

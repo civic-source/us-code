@@ -3,9 +3,10 @@ title: "Section 1331 - General powers"
 usc_title: 19
 usc_section: "1331"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1331"
-generated_at: "2026-03-30T02:54:24.629Z"
+generated_at: "2026-11-23T20:26:10.739Z"
+status: "active"
 ---
 
 # § 1331. General powers
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:24.629Z"
 - **(d)** The principal office of the commission shall be in the city of Washington, but it may meet and exercise all its powers at any other place. The commission may, by one or more of its members, or by such agents as it may designate, prosecute any inquiry necessary to its duties in any part of the United States or in any foreign country.
 - **(e)** The commission is authorized to establish and maintain an office at the port of New York for the purpose of directing or carrying on any investigation, receiving and compiling statistics, selecting, describing, and filing samples of articles, and performing any of the duties or exercising any of the powers imposed upon it by law.
 - **(f)** The commission is authorized to adopt an official seal, which shall be judicially noticed.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title III, § 331, [46 Stat. 697](https://www.govinfo.gov/link/statute/46/697); [Pub. L. 95–106, § 3(a)](https://www.govinfo.gov/link/plaw/95/public/106), (b), Aug. 17, 1977, [91 Stat. 868](https://www.govinfo.gov/link/statute/91/868); 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783](https://www.govinfo.gov/link/statute/92/3783); [Pub. L. 97–456, § 1(b)](https://www.govinfo.gov/link/plaw/97/public/456), Jan. 12, 1983, [96 Stat. 2503](https://www.govinfo.gov/link/statute/96/2503).)*

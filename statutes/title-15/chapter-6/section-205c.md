@@ -3,9 +3,10 @@ title: "Section 205c - Definitions"
 usc_title: 15
 usc_section: "205c"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 205c"
-generated_at: "2026-03-30T02:54:08.075Z"
+generated_at: "2026-11-23T20:26:03.658Z"
+status: "active"
 ---
 
 # § 205c. Definitions
@@ -28,3 +29,11 @@ As used in this subchapter, the term—
     - **(E)** on military installations (including any fort, camp, post, naval training station, airfield, proving ground, military supply depot, military school, or any similar facility of the Department of Defense);
     - **(F)** on installations of the Department of Veteran 2 2 So in original. Probably should be “Veterans”. Affairs used for hospital or domiciliary purposes; or
     - **(G)** on lands used in connection with Federal prisons,
+
+Effective Date
+
+Savings Provisions
+
+## Source Credit
+
+*([Pub. L. 94–168, § 4](https://www.govinfo.gov/link/plaw/94/public/168), Dec. 23, 1975, [89 Stat. 1007](https://www.govinfo.gov/link/statute/89/1007); [Pub. L. 104–289, § 3](https://www.govinfo.gov/link/plaw/104/public/289), Oct. 11, 1996, [110 Stat. 3411](https://www.govinfo.gov/link/statute/110/3411).)*

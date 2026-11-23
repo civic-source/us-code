@@ -3,9 +3,10 @@ title: "Section 522 - Exemptions"
 usc_title: 11
 usc_section: "522"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 522"
-generated_at: "2026-03-30T02:53:53.877Z"
+generated_at: "2026-11-23T20:25:55.357Z"
+status: "active"
 ---
 
 # § 522. Exemptions
@@ -150,3 +151,7 @@ generated_at: "2026-03-30T02:53:53.877Z"
       - **(iii)** any civil remedy under section 1964 of title 18 ; or
       - **(iv)** any criminal act, intentional tort, or willful or reckless misconduct that caused serious physical injury or death to another individual in the preceding 5 years.
   - **(2)** Paragraph (1) shall not apply to the extent the amount of an interest in property described in subparagraphs (A), (B), (C), and (D) of subsection (p)(1) is reasonably necessary for the support of the debtor and any dependent of the debtor.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2586](https://www.govinfo.gov/link/statute/92/2586); [Pub. L. 98–353, title III](https://www.govinfo.gov/link/plaw/98/public/353), §§ 306, 453, July 10, 1984, [98 Stat. 353](https://www.govinfo.gov/link/statute/98/353), 375; [Pub. L. 99–554, title II, § 283(i)](https://www.govinfo.gov/link/plaw/99/public/554), Oct. 27, 1986, [100 Stat. 3117](https://www.govinfo.gov/link/statute/100/3117); [Pub. L. 101–647, title XXV, § 2522(b)](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4866](https://www.govinfo.gov/link/statute/104/4866); [Pub. L. 103–394, title I, § 108(d)](https://www.govinfo.gov/link/plaw/103/public/394), title III, §§ 303, 304(d), 310, title V, § 501(d)(12), Oct. 22, 1994, [108 Stat. 4112](https://www.govinfo.gov/link/statute/108/4112), 4132, 4133, 4137, 4145; [Pub. L. 106–420, § 4](https://www.govinfo.gov/link/plaw/106/public/420), Nov. 1, 2000, [114 Stat. 1868](https://www.govinfo.gov/link/statute/114/1868); [Pub. L. 109–8, title II](https://www.govinfo.gov/link/plaw/109/public/8), §§ 216, 224(a), (e)(1), title III, §§ 307, 308, 313(a), 322(a), Apr. 20, 2005, [119 Stat. 55](https://www.govinfo.gov/link/statute/119/55), 62, 65, 81, 87, 96; [Pub. L. 111–327, § 2(a)(17)](https://www.govinfo.gov/link/plaw/111/public/327), Dec. 22, 2010, [124 Stat. 3559](https://www.govinfo.gov/link/statute/124/3559).)*

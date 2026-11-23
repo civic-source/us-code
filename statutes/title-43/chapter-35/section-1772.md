@@ -3,9 +3,10 @@ title: "Section 1772 - Vegetation managment, 1 1 So in original. Probably should
 usc_title: 43
 usc_section: "1772"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1772"
-generated_at: "2026-03-30T02:55:57.492Z"
+generated_at: "2026-11-23T20:27:06.379Z"
+status: "active"
 ---
 
 # § 1772. Vegetation managment, 1 1 So in original. Probably should be “management,”. facility inspection, and operation and maintenance relating to electric transmission and distribution facility rights of way
@@ -104,3 +105,93 @@ generated_at: "2026-03-30T02:55:57.492Z"
   - **(1)** not later than 1 year after March 23, 2018 , propose regulations, or amend existing regulations, to implement this section; and
   - **(2)** not later than 2 years after March 23, 2018 , finalize regulations, or amend existing regulations, to implement this section.
 - **(k)** Nothing in this section requires an owner or operator to develop and submit a new plan under this section if a plan consistent with this section has already been approved by the Secretary concerned before March 23, 2018 .
+
+Definitions
+
+National forest system land.—
+
+In general
+
+Exclusions
+
+Passing wildfire
+
+Pilot program
+
+Right-of-way
+
+Utility infrastructure
+
+Establishment.—
+
+In general
+
+Application
+
+Eligible Participants.—
+
+In general
+
+Selection priority
+
+Vegetation Management Projects.—
+
+In general
+
+Approval
+
+Fire prevention
+
+Treatment of slash
+
+Project Costs.—
+
+In general
+
+Federal funding
+
+Liability.—
+
+Activities within rights-of-way
+
+Wildfires.—
+
+Operations fires.—
+
+In general
+
+Credit for actions by participants.—
+
+In general
+
+Reimbursement
+
+Negligent fires.—
+
+In general
+
+Limitation
+
+Failure to comply
+
+Exceptions
+
+Effect
+
+Implementation.—
+
+In general
+
+Compliance with existing laws
+
+Modification of regulations
+
+Treatment of Proceeds
+
+Report to Congress
+
+Duration
+
+## Source Credit
+
+*([Pub. L. 94–579, title V, § 512](https://www.govinfo.gov/link/plaw/94/public/579), as added [Pub. L. 115–141, div. O, title II, § 211(a)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1068](https://www.govinfo.gov/link/statute/132/1068).)*

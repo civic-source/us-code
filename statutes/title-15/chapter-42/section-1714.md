@@ -3,9 +3,10 @@ title: "Section 1714 - Investigations, injunctions, and prosecution of offenses"
 usc_title: 15
 usc_section: "1714"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1714"
-generated_at: "2026-03-30T02:54:08.159Z"
+generated_at: "2026-11-23T20:26:04.130Z"
+status: "active"
 ---
 
 # § 1714. Investigations, injunctions, and prosecution of offenses
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:08.159Z"
 - **(b)** The Director may, in his discretion, make such investigations as he deems necessary to determine whether any person has violated or is about to violate any provision of this chapter or any rule or regulation prescribed pursuant thereto, and may require or permit any person to file with him a statement in writing, under oath or otherwise as the Director shall determine, as to all the facts and circumstances concerning the matter to be investigated. The Director is authorized, in his discretion, to publish information concerning any such violations, and to investigate any facts, conditions, practices, or matters which he may deem necessary or proper to aid in the enforcement of the provisions of this chapter, in the prescribing of rules and regulations thereunder, or in securing information to serve as a basis for recommending further legislation concerning the matters to which this chapter relates.
 - **(c)** For the purpose of any such investigation, or any other proceeding under this chapter; the Director, or any officer designated by him, is empowered to administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memorandums, or other records which the Director deems relevant or material to the inquiry. Such attendance of witnesses and the production of any such records may be required from any place in the United States or any State at any designated place of hearing.
 - **(d)** In case of contumacy by, or refusal to obey a subpena issued to, any person, the Director may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of books, papers, correspondence, memorandums, and other records and documents. And such court may issue an order requiring such person to appear before the Director or any officer designated by the Director, there to produce records, if so ordered, or to give testimony touching the matter under investigation or in question; and any failure to obey such order of the court may be punished by such court as a contempt thereof. All process in any such case may be served in the judicial district whereof such person is an inhabitant or wherever he may be found.
+
+## Source Credit
+
+*([Pub. L. 90–448, title XIV, § 1415](https://www.govinfo.gov/link/plaw/90/public/448), Aug. 1, 1968, [82 Stat. 596](https://www.govinfo.gov/link/statute/82/596); [Pub. L. 91–452, title II, § 220](https://www.govinfo.gov/link/plaw/91/public/452), Oct. 15, 1970, [84 Stat. 929](https://www.govinfo.gov/link/statute/84/929); [Pub. L. 111–203, title X, § 1098A(1)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2105](https://www.govinfo.gov/link/statute/124/2105).)*

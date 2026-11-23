@@ -3,9 +3,10 @@ title: "Section 2281a - Additional offenses against maritime fixed platforms"
 usc_title: 18
 usc_section: "2281a"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2281a"
-generated_at: "2026-03-30T02:54:16.500Z"
+generated_at: "2026-11-23T20:26:08.587Z"
+status: "active"
 ---
 
 # § 2281a. Additional offenses against maritime fixed platforms
@@ -31,3 +32,19 @@ generated_at: "2026-03-30T02:54:16.500Z"
 - **(d)** In this section—
   - **(1)** “continental shelf” means the sea-bed and subsoil of the submarine areas that extend beyond a country’s territorial sea to the limits provided by customary international law as reflected in Article 76 of the 1982 Convention on the Law of the Sea; and
   - **(2)** “fixed platform” means an artificial island, installation, or structure permanently attached to the sea-bed for the purpose of exploration or exploitation of resources or for other economic purposes.
+
+Offenses.—
+
+In general
+
+Threat to safety
+
+Jurisdiction
+
+Exceptions
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 114–23, title VIII, § 804(a)](https://www.govinfo.gov/link/plaw/114/public/23), June 2, 2015, [129 Stat. 307](https://www.govinfo.gov/link/statute/129/307).)*

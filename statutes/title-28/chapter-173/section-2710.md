@@ -3,9 +3,10 @@ title: "Section 2710 - Right of attachment"
 usc_title: 28
 usc_section: "2710"
 chapter: 173
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 2710"
-generated_at: "2026-03-30T02:55:30.151Z"
+generated_at: "2026-11-23T20:26:36.538Z"
+status: "active"
 ---
 
 # § 2710. Right of attachment
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:30.151Z"
   - **(1)** is a nonresident of the district where he was appointed, or has departed from that district for the purpose of permanently residing outside thereof, or of avoiding the service of civil process; and
   - **(2)** has conveyed away, or is about to convey away any of his property, or has removed or is about to remove the same from the district wherein it is situated, with intent to defraud the United States.
 - **(b)** When the property has been removed, the marshal of the district into which it has been removed, upon receipt of certified copies of the warrant, may seize the property and convey it to a convenient place within the jurisdiction of the court which issued the warrant. Alias warrants may be issued upon due application. The warrant first issued remains valid until the return day thereof.
+
+## Source Credit
+
+*(Added [Pub. L. 86–682, § 9](https://www.govinfo.gov/link/plaw/86/public/682), Sept. 2, 1960, [74 Stat. 706](https://www.govinfo.gov/link/statute/74/706).)*

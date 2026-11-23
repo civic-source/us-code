@@ -3,9 +3,10 @@ title: "Section 41104 - Additional limitations and requirements of charter air c
 usc_title: 49
 usc_section: "41104"
 chapter: 411
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 41104"
-generated_at: "2026-03-30T02:56:19.372Z"
+generated_at: "2026-11-23T20:27:35.075Z"
+status: "active"
 ---
 
 # § 41104. Additional limitations and requirements of charter air carriers
@@ -26,3 +27,115 @@ generated_at: "2026-03-30T02:56:19.372Z"
 - **(d)**
   - **(1)** The Secretary shall suspend for not more than 30 days any part of the certificate of a charter air carrier if the Secretary decides that the failure of the carrier to comply with the requirements described in sections 41110(e) and 41112 of this title, or a regulation or order of the Secretary under section 41110(e) or 41112, requires immediate suspension in the interest of the rights, welfare, or safety of the public. The Secretary may act under this paragraph without notice or a hearing.
   - **(2)** The Secretary shall begin immediately a hearing to decide if the certificate referred to in paragraph (1) of this subsection should be amended, modified, suspended, or revoked. Until the hearing is completed, the Secretary may suspend the certificate for additional periods totaling not more than 60 days. If the Secretary decides that the carrier is complying with the requirements described in sections 41110(e) and 41112 of this title and regulations and orders under sections 41110(e) and 41112, the Secretary immediately may end the suspension period and proceeding begun under this subsection. However, the Secretary is not prevented from imposing a civil penalty on the carrier for violating the requirements described in section 41110(e) or 41112 or a regulation or order under section 41110(e) or 41112.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 41104(a) | 49 App.:1371(n)(2), (4). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 401(n)(2)–(4); added July 10, 1962 , Pub. L. 87–528, § 4 , 76 Stat. 144 ; restated Oct. 24, 1978 , Pub. L. 95–504, § 20(b) , 92 Stat. 1721 . |
+|  | 49 App.:1551(a)(1)(E) (related to 49 App.:1371(n)(4)). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 1601(a)(1)(E) (related to § 401(n)(4)); added Oct. 24, 1978 , Pub. L. 95–504, § 40(a) , 92 Stat. 1744 . |
+|  | 49 App.:1551(b)(1)(E). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 1601(b) (1)(E); added Oct. 4, 1984 , Pub. L. 98–443, § 3(e) , 98 Stat. 1704 . |
+| 41104(b) | 49 App.:1371(n)(3). |  |
+|  | 49 App.:1551(b)(1)(E). |  |
+| 41104(c) | 49 App.:1371(n)(5). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 401(n)(5); added July 10, 1962 , Pub. L. 87–528, § 4 , 76 Stat. 145 ; Oct. 24, 1978 , Pub. L. 95–504, § 20(c) , 92 Stat. 1722 . |
+|  | 49 App.:1371(n)(6). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 401(n)(6); added July 10, 1962 , Pub. L. 87–528, § 4 , 76 Stat. 145 . |
+|  | 49 App.:1551(b)(1)(E). |  |
+
+
+Restrictions
+
+Scheduled Operations.—
+
+In general
+
+Definition
+
+Exception
+
+Waivers
+
+Alaska
+
+Suspensions
+
+Historical and Revision Notes
+
+41104(a)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+July 10, 1962
+
+Pub. L. 87–528, § 4
+
+76 Stat. 144
+
+Oct. 24, 1978
+
+Pub. L. 95–504, § 20(b)
+
+92 Stat. 1721
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Oct. 24, 1978
+
+Pub. L. 95–504, § 40(a)
+
+92 Stat. 1744
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Oct. 4, 1984
+
+Pub. L. 98–443, § 3(e)
+
+98 Stat. 1704
+
+41104(b)
+
+41104(c)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+July 10, 1962
+
+Pub. L. 87–528, § 4
+
+76 Stat. 145
+
+Oct. 24, 1978
+
+Pub. L. 95–504, § 20(c)
+
+92 Stat. 1722
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+July 10, 1962
+
+Pub. L. 87–528, § 4
+
+76 Stat. 145
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1120](https://www.govinfo.gov/link/statute/108/1120); [Pub. L. 106–181, title VII, § 723](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 165](https://www.govinfo.gov/link/statute/114/165); [Pub. L. 106–528, § 8(c)](https://www.govinfo.gov/link/plaw/106/public/528), Nov. 22, 2000, [114 Stat. 2522](https://www.govinfo.gov/link/statute/114/2522); [Pub. L. 108–176, title VIII, § 822](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2594](https://www.govinfo.gov/link/statute/117/2594).)*

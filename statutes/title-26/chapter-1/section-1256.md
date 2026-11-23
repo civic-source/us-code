@@ -3,9 +3,10 @@ title: "Section 1256 - Section 1256 contracts marked to market"
 usc_title: 26
 usc_section: "1256"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1256"
-generated_at: "2026-03-30T02:55:27.762Z"
+generated_at: "2026-11-23T20:26:46.061Z"
+status: "active"
 ---
 
 # § 1256. Section 1256 contracts marked to market
@@ -105,3 +106,81 @@ generated_at: "2026-03-30T02:55:27.762Z"
       - **(ii)** is traded on a qualified board or exchange.
     - **(B)** For purposes of subparagraph (A), a person shall be treated as a dealer in securities futures contracts or options on such contracts if the Secretary determines that such person performs, with respect to such contracts or options, as the case may be, functions similar to the functions performed by persons described in paragraph (8)(A). Such determination shall be made to the extent appropriate to carry out the purposes of this section.
     - **(C)** The term “securities futures contract” has the meaning given to such term by section 1234B.
+
+In general
+
+Exception for certain options regulated by commodities futures trading commission
+
+Effective Dates.—
+
+In general
+
+Special rule for options on regulated futures contracts
+
+Special rule for self-employment tax
+
+Gains or losses from certain terminations
+
+Elections With Respect to Property Held on or Before the Date of the Enactment of This Act
+
+Elections for Installment Payment of Tax Attributable to Stock Options.—
+
+In general
+
+Date for payment of installment.—
+
+Interest imposed
+
+Form of election
+
+Delay of identification requirement
+
+Definitions
+
+Section 1256 contract
+
+Stock option
+
+Coordination of Election Under Subsection
+
+With Elections Under Subsections
+
+and
+
+In general
+
+Election by taxpayer of retroactive application.—
+
+Retroactive application
+
+Additional choices with respect to 1981
+
+Additional choices apply to all regulated futures contracts
+
+Section 509
+
+(3) and (4) not to apply to foreign currency contracts
+
+Time for making election or revocation
+
+Definitions
+
+Election by taxpayer with respect to positions held during taxable years ending after may 11, 1982
+
+Election.—
+
+In general
+
+Application of section 1256
+
+Determination of deferred tax liability
+
+Date for payment of installment.—
+
+Interest imposed
+
+Form of Election
+
+## Source Credit
+
+*(Added [Pub. L. 97–34, title V, § 503(a)](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 327](https://www.govinfo.gov/link/statute/95/327); amended [Pub. L. 97–354, § 5(a)(38)](https://www.govinfo.gov/link/plaw/97/public/354), Oct. 19, 1982, [96 Stat. 1696](https://www.govinfo.gov/link/statute/96/1696); [Pub. L. 97–448, title I, § 105(c)(1)](https://www.govinfo.gov/link/plaw/97/public/448) –(3), (5)(A)–(C), Jan. 12, 1983, [96 Stat. 2385](https://www.govinfo.gov/link/statute/96/2385), 2386; [Pub. L. 98–369, div. A, title I](https://www.govinfo.gov/link/plaw/98/public/369), §§ 102(a), (b), (e)(1), (5), 104(a), 107(c), (d), title VII, § 722(a)(2), July 18, 1984, [98 Stat. 620](https://www.govinfo.gov/link/statute/98/620), 621, 623, 624, 628, 630, 972; [Pub. L. 99–514, title XII, § 1261(c)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2591](https://www.govinfo.gov/link/statute/100/2591); [Pub. L. 106–170, title V, § 532(b)(4)](https://www.govinfo.gov/link/plaw/106/public/170), Dec. 17, 1999, [113 Stat. 1930](https://www.govinfo.gov/link/statute/113/1930); [Pub. L. 106–554, § 1(a)(7) [title IV, § 401(g)(1)–(3)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–649, 2763A–650; [Pub. L. 107–147, title IV, § 416(b)(1)](https://www.govinfo.gov/link/plaw/107/public/147), Mar. 9, 2002, [116 Stat. 55](https://www.govinfo.gov/link/statute/116/55); [Pub. L. 108–311, title IV, § 405(a)(2)](https://www.govinfo.gov/link/plaw/108/public/311), Oct. 4, 2004, [118 Stat. 1188](https://www.govinfo.gov/link/statute/118/1188); [Pub. L. 109–135, title IV, § 412](https://www.govinfo.gov/link/plaw/109/public/135) (oo), Dec. 21, 2005, [119 Stat. 2639](https://www.govinfo.gov/link/statute/119/2639); [Pub. L. 111–203, title XVI, § 1601(a)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2223](https://www.govinfo.gov/link/statute/124/2223); [Pub. L. 115–141, div. U, title IV, § 401(a)(176)(A)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1192](https://www.govinfo.gov/link/statute/132/1192).)*

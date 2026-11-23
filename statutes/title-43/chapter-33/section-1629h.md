@@ -3,9 +3,10 @@ title: "Section 1629h - Kake Tribal Corporation land transfer"
 usc_title: 43
 usc_section: "1629h"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1629h"
-generated_at: "2026-03-30T02:55:57.484Z"
+generated_at: "2026-11-23T20:27:06.342Z"
+status: "active"
 ---
 
 # § 1629h. Kake Tribal Corporation land transfer
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:57.484Z"
     - **(C)** a source of fresh water for the Gunnuk Creek Hatchery; and
     - **(D)** habitat for black bear, deer, birds, and other wildlife.
 - **(h)** There are authorized such sums as may be necessary to carry out this chapter, including to compensate Kake Tribal Corporation for relinquishing its development rights pursuant to subsection (g)(2). No funds authorized under this section may be paid to Kake Tribal Corporation unless Kake Tribal Corporation is a party to the conservation easements described in subsection (g).
+
+## Source Credit
+
+*([Pub. L. 92–203, § 42](https://www.govinfo.gov/link/plaw/92/public/203), as added [Pub. L. 106–283, § 3](https://www.govinfo.gov/link/plaw/106/public/283), Oct. 6, 2000, [114 Stat. 867](https://www.govinfo.gov/link/statute/114/867); amended [Pub. L. 116–9, title I, § 1105](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 607](https://www.govinfo.gov/link/statute/133/607).)*

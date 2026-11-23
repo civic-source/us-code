@@ -3,9 +3,10 @@ title: "Section 294j - Demonstration program to integrate quality improvement an
 usc_title: 42
 usc_section: "294j"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 294j"
-generated_at: "2026-03-30T02:56:10.779Z"
+generated_at: "2026-11-23T20:27:20.387Z"
+status: "active"
 ---
 
 # § 294j. Demonstration program to integrate quality improvement and patient safety training into clinical education of health professionals
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:10.779Z"
 - **(e)** Not later than 2 years after March 23, 2010 , and annually thereafter, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Finance of the Senate and the Committee on Energy and Commerce and the Committee on Ways and Means of the House of Representatives a report that—
   - **(1)** describes the specific projects supported under this section; and
   - **(2)** contains recommendations for Congress based on the evaluation conducted under subsection (d).
+
+## Source Credit
+
+*([Pub. L. 111–148, title III, § 3508](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 530](https://www.govinfo.gov/link/statute/124/530).)*

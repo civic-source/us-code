@@ -3,9 +3,10 @@ title: "Section 13641 - Definitions"
 usc_title: 42
 usc_section: "13641"
 chapter: 135
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13641"
-generated_at: "2026-03-30T02:56:11.449Z"
+generated_at: "2026-11-23T20:27:23.514Z"
+status: "active"
 ---
 
 # § 13641. Definitions
@@ -25,3 +26,7 @@ For purposes of this title: 1 1 See References in Text note below.
   - **(3)** The term “housing assistance” means, with respect to federally assisted housing, the grant, contribution, capital advance, loan, mortgage insurance, or other assistance provided for the housing under the provisions of law referred to in paragraph (2). The term also includes any related assistance provided for the housing by the Secretary, including any rental assistance for low-income occupants.
   - **(4)** The term “owner” means, with respect to federally assisted housing, the entity or private person, including a cooperative or public housing agency, that has the legal right to lease or sublease dwelling units in such housing.
   - **(5)** The term “Secretary” means the Secretary of Housing and Urban Development.
+
+## Source Credit
+
+*([Pub. L. 102–550, title VI, § 683](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3831](https://www.govinfo.gov/link/statute/106/3831); [Pub. L. 111–8, div. I, title II, § 228](https://www.govinfo.gov/link/plaw/111/public/8), Mar. 11, 2009, [123 Stat. 978](https://www.govinfo.gov/link/statute/123/978).)*

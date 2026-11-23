@@ -3,9 +3,10 @@ title: "Section 3093 - Presidential approval and reporting of covert actions"
 usc_title: 50
 usc_section: "3093"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3093"
-generated_at: "2026-03-30T02:56:26.234Z"
+generated_at: "2026-11-23T20:27:30.912Z"
+status: "active"
 ---
 
 # § 3093. Presidential approval and reporting of covert actions
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:56:26.234Z"
     - **(A)** a record of the members of Congress to whom a finding is reported under subsection (c) or notification is provided under subsection (d)(1) and the date on which each member of Congress receives such finding or notification; and
     - **(B)** each written statement provided under subsection (c)(5).
 - **(h)** For each type of activity undertaken as part of a covert action, the President shall establish in writing a plan to respond to the unauthorized public disclosure of that type of activity.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title V, § 503, as added [Pub. L. 102–88, title VI, § 602(a)(2)](https://www.govinfo.gov/link/plaw/102/public/88), Aug. 14, 1991, [105 Stat. 442](https://www.govinfo.gov/link/statute/105/442); amended [Pub. L. 107–306, title III, § 353(b)(3)(C)](https://www.govinfo.gov/link/plaw/107/public/306), (8), Nov. 27, 2002, [116 Stat. 2402](https://www.govinfo.gov/link/statute/116/2402); [Pub. L. 108–458, title I, § 1071(a)(1)(Y)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3689](https://www.govinfo.gov/link/statute/118/3689); [Pub. L. 111–259, title III, § 331(c)](https://www.govinfo.gov/link/plaw/111/public/259), Oct. 7, 2010, [124 Stat. 2685](https://www.govinfo.gov/link/statute/124/2685); [Pub. L. 113–126, title III, § 308](https://www.govinfo.gov/link/plaw/113/public/126), July 7, 2014, [128 Stat. 1397](https://www.govinfo.gov/link/statute/128/1397); [Pub. L. 116–92, div. E, title LXVII, § 6742(b)(12)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2240](https://www.govinfo.gov/link/statute/133/2240); [Pub. L. 118–31, div. G, title IX, § 7901(a)(2)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1106](https://www.govinfo.gov/link/statute/137/1106).)*

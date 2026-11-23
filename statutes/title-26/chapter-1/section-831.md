@@ -3,9 +3,10 @@ title: "Section 831 - Tax on insurance companies other than life insurance compa
 usc_title: 26
 usc_section: "831"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 831"
-generated_at: "2026-03-30T02:55:27.730Z"
+generated_at: "2026-11-23T20:26:45.887Z"
+status: "active"
 ---
 
 # § 831. Tax on insurance companies other than life insurance companies
@@ -51,3 +52,11 @@ generated_at: "2026-03-30T02:55:27.730Z"
 - **(e)**
   - **(1)** For taxation of foreign corporations carrying on an insurance business within the United States, see section 842.
   - **(2)** For exemption from tax for certain insurance companies other than life, see section 501(c)(15).
+
+Treatment of amounts in protection against loss account
+
+Transitional rule for unused loss carryover under section 825
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 264; [Pub. L. 87–834, § 8(e)(1)](https://www.govinfo.gov/link/plaw/87/public/834), (f), (g)(4)(B), Oct. 16, 1962, [76 Stat. 997–999](https://www.govinfo.gov/link/statute/76/997); [Pub. L. 89–809, title I, § 104(i)(6)](https://www.govinfo.gov/link/plaw/89/public/809), Nov. 13, 1966, [80 Stat. 1562](https://www.govinfo.gov/link/statute/80/1562); [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1901(a)(107), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1782](https://www.govinfo.gov/link/statute/90/1782), 1834; [Pub. L. 99–514, title X, § 1024(a)(4)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2405](https://www.govinfo.gov/link/statute/100/2405); [Pub. L. 100–647, title I, § 1010(f)(1)](https://www.govinfo.gov/link/plaw/100/public/647), (9), Nov. 10, 1988, [102 Stat. 3454](https://www.govinfo.gov/link/statute/102/3454), 3455; [Pub. L. 108–218, title II, § 206(c)](https://www.govinfo.gov/link/plaw/108/public/218), (d), Apr. 10, 2004, [118 Stat. 611](https://www.govinfo.gov/link/statute/118/611); [Pub. L. 114–113, div. Q, title III, § 333(a)](https://www.govinfo.gov/link/plaw/114/public/113), (b), Dec. 18, 2015, [129 Stat. 3106](https://www.govinfo.gov/link/statute/129/3106), 3108; [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 11002(d)(1)(AA), 13001(b)(2)(H), 13511(b)(2)(B), Dec. 22, 2017, [131 Stat. 2060](https://www.govinfo.gov/link/statute/131/2060), 2096, 2142; [Pub. L. 115–141, div. U, title I, § 101(r)](https://www.govinfo.gov/link/plaw/115/public/141), title IV, § 401(a)(142), Mar. 23, 2018, [132 Stat. 1168](https://www.govinfo.gov/link/statute/132/1168), 1191.)*

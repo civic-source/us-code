@@ -3,9 +3,10 @@ title: "Section 136a - Collection of fees for inspection services"
 usc_title: 21
 usc_section: "136a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 136a"
-generated_at: "2026-03-30T02:54:54.215Z"
+generated_at: "2026-11-23T20:26:27.491Z"
+status: "active"
 ---
 
 # § 136a. Collection of fees for inspection services
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:54:54.215Z"
   - **(3)** For the purposes of this section, the term “person” means an individual, corporation, partnership, trust, association, or any other public or private entity, or any officer, employee, or agent thereof.
   - **(4)** For the purposes of subsection (b), the term “United States” means the several States of the United States, the District of Columbia, Guam, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, and all other territories and possessions of the United States.
   - **(5)** For the purposes of subsection (a), the term “vessel” does not include any ferry.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XXV, § 2509](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 4069](https://www.govinfo.gov/link/statute/104/4069); [Pub. L. 101–508, title I, § 1203](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–11](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 102–237, title X, § 1015](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1902](https://www.govinfo.gov/link/statute/105/1902); [Pub. L. 104–127, title IX, § 917](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1187](https://www.govinfo.gov/link/statute/110/1187); [Pub. L. 107–171, title X, § 10418(b)(5)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 509](https://www.govinfo.gov/link/statute/116/509).)*

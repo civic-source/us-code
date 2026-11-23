@@ -3,9 +3,10 @@ title: "Section 1292 - Definitions"
 usc_title: 33
 usc_section: "1292"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1292"
-generated_at: "2026-03-30T02:55:41.089Z"
+generated_at: "2026-11-23T20:26:54.000Z"
+status: "active"
 ---
 
 # § 1292. Definitions
@@ -18,3 +19,7 @@ As used in this subchapter—
     - **(B)** In addition to the definition contained in subparagraph (A) of this paragraph, “treatment works” means any other method or system for preventing, abating, reducing, storing, treating, separating, or disposing of municipal waste, including storm water runoff, or industrial waste, including waste in combined storm water and sanitary sewer systems. Any application for construction grants which includes wholly or in part such methods or systems shall, in accordance with guidelines published by the Administrator pursuant to subparagraph (C) of this paragraph, contain adequate data and analysis demonstrating such proposal to be, over the life of such works, the most cost efficient alternative to comply with sections 1311 or 1312 of this title, or the requirements of section 1281 of this title .
     - **(C)** For the purposes of subparagraph (B) of this paragraph, the Administrator shall, within one hundred and eighty days after October 18, 1972 , publish and thereafter revise no less often than annually, guidelines for the evaluation of methods, including cost-effective analysis, described in subparagraph (B) of this paragraph.
   - **(3)** The term “replacement” as used in this subchapter means those expenditures for obtaining and installing equipment, accessories, or appurtenances during the useful life of the treatment works necessary to maintain the capacity and performance for which such works are designed and constructed.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title II, § 212, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 844](https://www.govinfo.gov/link/statute/86/844); amended [Pub. L. 95–217, § 37](https://www.govinfo.gov/link/plaw/95/public/217), Dec. 27, 1977, [91 Stat. 1581](https://www.govinfo.gov/link/statute/91/1581); [Pub. L. 97–117, § 8(d)](https://www.govinfo.gov/link/plaw/97/public/117), Dec. 29, 1981, [95 Stat. 1626](https://www.govinfo.gov/link/statute/95/1626); [Pub. L. 113–121, title V, § 5012(a)](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1328](https://www.govinfo.gov/link/statute/128/1328).)*

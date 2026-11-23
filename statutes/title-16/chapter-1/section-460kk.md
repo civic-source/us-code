@@ -3,9 +3,10 @@ title: "Section 460kk - Establishment"
 usc_title: 16
 usc_section: "460kk"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 460kk"
-generated_at: "2026-03-30T02:54:22.828Z"
+generated_at: "2026-11-23T20:26:19.964Z"
+status: "active"
 ---
 
 # § 460kk. Establishment
@@ -82,3 +83,7 @@ generated_at: "2026-03-30T02:54:22.828Z"
   - **(3)** the projected need for any additional facilities within the area;
   - **(4)** any additions or alterations to the boundaries of the recreation area which are necessary or desirable to the better carrying out of the purposes of this section; and
   - **(5)** a plan for preservation of scenic, archeological and natural values and of fragile ecological areas.
+
+## Source Credit
+
+*([Pub. L. 95–625, title V, § 507](https://www.govinfo.gov/link/plaw/95/public/625), Nov. 10, 1978, [92 Stat. 3501](https://www.govinfo.gov/link/statute/92/3501); [Pub. L. 96–87, title IV, § 401(j)](https://www.govinfo.gov/link/plaw/96/public/87), Oct. 12, 1979, [93 Stat. 666](https://www.govinfo.gov/link/statute/93/666); [Pub. L. 96–199, title I, § 118](https://www.govinfo.gov/link/plaw/96/public/199), Mar. 5, 1980, [94 Stat. 71](https://www.govinfo.gov/link/statute/94/71); [Pub. L. 98–572](https://www.govinfo.gov/link/plaw/98/public/572), Oct. 30, 1984, [98 Stat. 2946](https://www.govinfo.gov/link/statute/98/2946); [Pub. L. 103–437, § 6(d)(5)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4583](https://www.govinfo.gov/link/statute/108/4583); [Pub. L. 107–236](https://www.govinfo.gov/link/plaw/107/public/236), §§ 2, 3, Oct. 9, 2002, [116 Stat. 1483](https://www.govinfo.gov/link/statute/116/1483).)*

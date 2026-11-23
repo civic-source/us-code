@@ -3,9 +3,10 @@ title: "Section 21104 - Limitations on duty hours of signal employees"
 usc_title: 49
 usc_section: "21104"
 chapter: 211
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 21104"
-generated_at: "2026-03-30T02:56:19.339Z"
+generated_at: "2026-11-23T20:27:34.814Z"
+status: "active"
 ---
 
 # § 21104. Limitations on duty hours of signal employees
@@ -24,3 +25,86 @@ generated_at: "2026-03-30T02:56:19.339Z"
 - **(c)** A signal employee may be allowed to remain or go on duty for not more than 4 additional hours in any period of 24 consecutive hours when an emergency exists and the work of that employee is related to the emergency. In this subsection, an emergency ends when the signal system is restored to service. A signal employee may not be allowed to remain or go on duty under the emergency authority provided under this subsection to conduct routine repairs, routine maintenance, or routine inspection of signal systems.
 - **(d)** During a signal employee’s minimum off-duty period of 10 consecutive hours, as provided under subsection (a), a railroad carrier or a contractor or subcontractor to a railroad carrier, and its officers and agents, shall not communicate with the signal employee by telephone, by pager, or in any other manner that could reasonably be expected to disrupt the employee’s rest. Nothing in this subsection shall prohibit communication necessary to notify an employee of an emergency situation, as defined by the Secretary.
 - **(e)** The hours of service, duty hours, and rest periods of signal employees shall be governed exclusively by this chapter. Signal employees operating motor vehicles shall not be subject to any hours of service rules, duty hours or rest period rules promulgated by any Federal authority, including the Federal Motor Carrier Safety Administration, other than the Federal Railroad Administration.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 21104(a) | 45:63a(a) (1st sentence). | Mar. 4, 1907, ch. 2939 , 34 Stat. 1415 , § 3A(a) (1st sentence), (b); added July 8, 1976 , Pub. L. 94–348, § 4(d) , 90 Stat. 819 ; June 22, 1988 , Pub. L. 100–342, § 16(4) , 102 Stat. 635 . |
+|  | 45:63a(a) (2d–last sentences). | Mar. 4, 1907, ch. 2939 , 34 Stat. 1415 , § 3A(a) (2d–last sentences); added Nov. 2, 1978 , Pub. L. 95–574, § 4(a) , 92 Stat. 2459 . |
+| 21104(b) | 45:63a(b). |  |
+|  | 45:63a(c). | Mar. 4, 1907, ch. 2939 , 34 Stat. 1415 ; § 3A(c); added July 8, 1976 , Pub. L. 94–348, § 4(d) , 90 Stat. 819 ; restated Nov. 2, 1978 , Pub. L. 95–574, § 4(b) , 92 Stat. 2460 . |
+| 21104(c) | 45:63a(f). | Mar. 4, 1907, ch. 2939 , 34 Stat. 1415 , § 3A(f); added July 8, 1976 , Pub. L. 94–348, § 4(d) , 90 Stat. 819 . |
+
+
+In General
+
+Determining Time on Duty
+
+Emergencies
+
+Communication During Time Off Duty
+
+Exclusivity
+
+Historical and Revision Notes
+
+21104(a)
+
+Mar. 4, 1907, ch. 2939
+
+34 Stat. 1415
+
+July 8, 1976
+
+Pub. L. 94–348, § 4(d)
+
+90 Stat. 819
+
+June 22, 1988
+
+Pub. L. 100–342, § 16(4)
+
+102 Stat. 635
+
+Mar. 4, 1907, ch. 2939
+
+34 Stat. 1415
+
+Nov. 2, 1978
+
+Pub. L. 95–574, § 4(a)
+
+92 Stat. 2459
+
+21104(b)
+
+Mar. 4, 1907, ch. 2939
+
+34 Stat. 1415
+
+July 8, 1976
+
+Pub. L. 94–348, § 4(d)
+
+90 Stat. 819
+
+Nov. 2, 1978
+
+Pub. L. 95–574, § 4(b)
+
+92 Stat. 2460
+
+21104(c)
+
+Mar. 4, 1907, ch. 2939
+
+34 Stat. 1415
+
+July 8, 1976
+
+Pub. L. 94–348, § 4(d)
+
+90 Stat. 819
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 889](https://www.govinfo.gov/link/statute/108/889); [Pub. L. 110–432, div. A, title I, § 108(c)](https://www.govinfo.gov/link/plaw/110/public/432), Oct. 16, 2008, [122 Stat. 4862](https://www.govinfo.gov/link/statute/122/4862).)*

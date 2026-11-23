@@ -3,9 +3,10 @@ title: "Section 8906 - Enhanced security cooperation with Ukraine and other coun
 usc_title: 22
 usc_section: "8906"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8906"
-generated_at: "2026-03-30T02:55:05.458Z"
+generated_at: "2026-11-23T20:26:32.742Z"
+status: "active"
 ---
 
 # § 8906. Enhanced security cooperation with Ukraine and other countries in Central and Eastern Europe
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.458Z"
 - **(d)**
   - **(1)** Funds appropriated or otherwise made available pursuant to subsection (b) may not be obligated until 15 days after the date on which the President has provided notice of intent to obligate such funds to the appropriate congressional committees and the Committees on Armed Services of the Senate and the House of Representatives.
   - **(2)** The President may waive the notification requirement under paragraph (1) if the President determines that failure to do so would pose a substantial risk to human health or welfare, in which case notification shall be provided as early as practicable, but in no event later than three days after taking the action to which such notification requirement was applicable in the context of the circumstances necessitating such waiver.
+
+## Source Credit
+
+*([Pub. L. 113–95, § 7](https://www.govinfo.gov/link/plaw/113/public/95), Apr. 3, 2014, [128 Stat. 1092](https://www.govinfo.gov/link/statute/128/1092).)*

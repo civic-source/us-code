@@ -3,12 +3,17 @@ title: "Section 2153a - Approval for enrichment after export of source or specia
 usc_title: 42
 usc_section: "2153a"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2153a"
-generated_at: "2026-03-30T02:56:11.151Z"
+generated_at: "2026-11-23T20:27:22.074Z"
+status: "active"
 ---
 
 # § 2153a. Approval for enrichment after export of source or special nuclear material; export of major critical components of enrichment facilities
 
 - **(a)** Except as specifically provided in any agreement for cooperation, no source or special nuclear material hereafter exported from the United States may be enriched after export without the prior approval of the United States for such enrichment: Provided , That the procedures governing such approvals shall be identical to those set forth for the approval of proposed subsequent arrangements under section 2160 of this title , and any commitments from the recipient which the Secretary of Energy and the Secretary of State deem necessary to ensure that such approval will be obtained prior to such enrichment shall be obtained prior to the submission of the executive branch judgment regarding the export in question and shall be set forth in such submission: And provided further , That no source or special nuclear material shall be exported for the purpose of enrichment or reactor fueling to any nation or group of nations which has, after March 10, 1978 , entered into a new or amended agreement for cooperation with the United States, except pursuant to such agreement.
 - **(b)** In addition to other requirements of law, no major critical component of any uranium enrichment, nuclear fuel reprocessing, or heavy water production facility shall be exported under any agreement for cooperation (except an agreement for cooperation pursuant to section 2121(c), 2164(b), or 2164(c) of this title) unless such agreement for cooperation specifically designates such components as items to be exported pursuant to the agreement for cooperation. For purposes of this subsection, the term “major critical component” means any component part or group of component parts which the President determines to be essential to the operation of a complete uranium enrichment, nuclear fuel reprocessing, or heavy water production facility.
+
+## Source Credit
+
+*([Pub. L. 95–242, title IV, § 402](https://www.govinfo.gov/link/plaw/95/public/242), Mar. 10, 1978, [92 Stat. 145](https://www.govinfo.gov/link/statute/92/145).)*

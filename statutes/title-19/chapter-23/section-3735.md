@@ -3,9 +3,10 @@ title: "Section 3735 - Expansion of the United States and Foreign Commercial Ser
 usc_title: 19
 usc_section: "3735"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3735"
-generated_at: "2026-03-30T02:54:24.696Z"
+generated_at: "2026-11-23T20:26:11.074Z"
+status: "active"
 ---
 
 # § 3735. Expansion of the United States and Foreign Commercial Service in sub-Saharan Africa
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:24.696Z"
   - **(3)** hold discussions with appropriate authorities in sub-Saharan Africa on the matters described in paragraphs (1) and (2) with a view to securing increased market access for United States exporters of goods and services;
   - **(4)** identify current resource allocations and personnel levels in sub-Saharan Africa for the Commercial Service and consider plans for the deployment of additional resources or personnel to that region; and
   - **(5)** make available to the public, through printed and electronic means of communication, the information derived pursuant to paragraphs (1) through (4) for each of the 4 years after May 18, 2000 .
+
+## Source Credit
+
+*([Pub. L. 106–200, title I, § 125](https://www.govinfo.gov/link/plaw/106/public/200), May 18, 2000, [114 Stat. 270](https://www.govinfo.gov/link/statute/114/270).)*

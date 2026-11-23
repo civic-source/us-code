@@ -3,9 +3,10 @@ title: "Section 9608 - Financial responsibility"
 usc_title: 42
 usc_section: "9608"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9608"
-generated_at: "2026-03-30T02:56:11.358Z"
+generated_at: "2026-11-23T20:27:23.105Z"
+status: "active"
 ---
 
 # § 9608. Financial responsibility
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.358Z"
 - **(d)**
   - **(1)** The total liability of any guarantor in a direct action suit brought under this section shall be limited to the aggregate amount of the monetary limits of the policy of insurance, guarantee, surety bond, letter of credit, or similar instrument obtained from the guarantor by the person subject to liability under section 9607 of this title for the purpose of satisfying the requirement for evidence of financial responsibility.
   - **(2)** Nothing in this subsection shall be construed to limit any other State or Federal statutory, contractual, or common law liability of a guarantor, including, but not limited to, the liability of such guarantor for bad faith either in negotiating or in failing to negotiate the settlement of any claim. Nothing in this subsection shall be construed, interpreted, or applied to diminish the liability of any person under section 9607 of this title or other applicable law.
+
+## Source Credit
+
+*([Pub. L. 96–510, title I, § 108](https://www.govinfo.gov/link/plaw/96/public/510), Dec. 11, 1980, [94 Stat. 2785](https://www.govinfo.gov/link/statute/94/2785); [Pub. L. 99–499, title I](https://www.govinfo.gov/link/plaw/99/public/499), §§ 108, 127(c), Oct. 17, 1986, [100 Stat. 1631](https://www.govinfo.gov/link/statute/100/1631), 1692.)*

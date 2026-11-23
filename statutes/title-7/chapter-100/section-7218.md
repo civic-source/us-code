@@ -3,9 +3,10 @@ title: "Section 7218 - Planting flexibility"
 usc_title: 7
 usc_section: "7218"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7218"
-generated_at: "2026-03-30T02:53:42.445Z"
+generated_at: "2026-11-23T20:25:41.759Z"
+status: "active"
 ---
 
 # § 7218. Planting flexibility
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:42.445Z"
     - **(C)** by a producer who the Secretary determines has an established planting history of a specific fruit or vegetable, except that—
       - **(i)** the quantity planted may not exceed the producer’s average annual planting history of the fruit or vegetable in the 1991 through 1995 crop years (excluding any crop year in which no plantings were made), as determined by the Secretary; and
       - **(ii)** a contract payment shall be reduced by an acre for each acre planted to the fruit or vegetable.
+
+## Source Credit
+
+*([Pub. L. 104–127, title I, § 118](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 904](https://www.govinfo.gov/link/statute/110/904).)*

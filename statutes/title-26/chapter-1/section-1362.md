@@ -3,9 +3,10 @@ title: "Section 1362 - Election; revocation; termination"
 usc_title: 26
 usc_section: "1362"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1362"
-generated_at: "2026-03-30T02:55:27.770Z"
+generated_at: "2026-11-23T20:26:46.093Z"
+status: "active"
 ---
 
 # § 1362. Election; revocation; termination
@@ -90,3 +91,11 @@ generated_at: "2026-03-30T02:55:27.770Z"
     - **(B)** to acquire the required shareholder consents, and
   - **(4)** the corporation for which the election was made or the termination occurred, and each person who was a shareholder in such corporation at any time during the period specified pursuant to this subsection, agrees to make such adjustments (consistent with the treatment of such corporation as an S corporation or a qualified subchapter S subsidiary, as the case may be) as may be required by the Secretary with respect to such period,
 - **(g)** If a small business corporation has made an election under subsection (a) and if such election has been terminated under subsection (d), such corporation (and any successor corporation) shall not be eligible to make an election under subsection (a) for any taxable year before its 5th taxable year which begins after the 1st taxable year for which such termination is effective, unless the Secretary consents to such election.
+
+Subchapter c earnings and profits
+
+Inadvertent Terminations
+
+## Source Credit
+
+*(Added [Pub. L. 97–354, § 2](https://www.govinfo.gov/link/plaw/97/public/354), Oct. 19, 1982, [96 Stat. 1672](https://www.govinfo.gov/link/statute/96/1672); amended [Pub. L. 98–369, div. A, title I, § 102(d)(2)](https://www.govinfo.gov/link/plaw/98/public/369), title VII, § 721(g), (h), (l), (t), July 18, 1984, [98 Stat. 623](https://www.govinfo.gov/link/statute/98/623), 968, 969, 971; [Pub. L. 100–647, title I](https://www.govinfo.gov/link/plaw/100/public/647), §§ 1006(f)(6), 1007(g)(9), Nov. 10, 1988, [102 Stat. 3406](https://www.govinfo.gov/link/statute/102/3406), 3435; [Pub. L. 104–188, title I](https://www.govinfo.gov/link/plaw/104/public/188), §§ 1305(a), (b), 1308(c), 1311(b)(1), Aug. 20, 1996, [110 Stat. 1779](https://www.govinfo.gov/link/statute/110/1779), 1780, 1783, 1784; [Pub. L. 106–170, title V, § 532(c)(2)(T)](https://www.govinfo.gov/link/plaw/106/public/170), Dec. 17, 1999, [113 Stat. 1931](https://www.govinfo.gov/link/statute/113/1931); [Pub. L. 108–357, title II](https://www.govinfo.gov/link/plaw/108/public/357), §§ 231(b), 237(a), 238(a), Oct. 22, 2004, [118 Stat. 1433](https://www.govinfo.gov/link/statute/118/1433), 1436; [Pub. L. 109–135, title IV, § 413(b)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2641](https://www.govinfo.gov/link/statute/119/2641); [Pub. L. 110–28, title VIII, § 8231(a)](https://www.govinfo.gov/link/plaw/110/public/28), May 25, 2007, [121 Stat. 196](https://www.govinfo.gov/link/statute/121/196); [Pub. L. 110–172, § 11(a)(25)](https://www.govinfo.gov/link/plaw/110/public/172), Dec. 29, 2007, [121 Stat. 2487](https://www.govinfo.gov/link/statute/121/2487); [Pub. L. 113–295, div. A, title II, § 221(a)(88)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4050](https://www.govinfo.gov/link/statute/128/4050); [Pub. L. 115–141, div. U, title IV, § 401(a)(190)](https://www.govinfo.gov/link/plaw/115/public/141), (191), Mar. 23, 2018, [132 Stat. 1193](https://www.govinfo.gov/link/statute/132/1193).)*

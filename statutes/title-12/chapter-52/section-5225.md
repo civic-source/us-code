@@ -3,9 +3,10 @@ title: "Section 5225 - Graduated authorization to purchase"
 usc_title: 12
 usc_section: "5225"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5225"
-generated_at: "2026-03-30T02:53:53.526Z"
+generated_at: "2026-11-23T20:25:59.454Z"
+status: "active"
 ---
 
 # § 5225. Graduated authorization to purchase
@@ -56,3 +57,7 @@ generated_at: "2026-03-30T02:53:53.526Z"
   - **(5)** This subsection and subsections (c), (d), and (e) are enacted by Congress—
     - **(A)** as an exercise of the rulemaking power of the Senate and House of Representatives, respectively, and as such it is deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of a joint resolution, and it supersedes other rules only to the extent that it is inconsistent with such rules; and
     - **(B)** with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.
+
+## Source Credit
+
+*([Pub. L. 110–343, div. A, title I, § 115](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3780](https://www.govinfo.gov/link/statute/122/3780); [Pub. L. 111–22, div. A, title II, § 202(b)](https://www.govinfo.gov/link/plaw/111/public/22), title IV, § 402(f), May 20, 2009, [123 Stat. 1643](https://www.govinfo.gov/link/statute/123/1643), 1658; [Pub. L. 111–203, title XIII, § 1302](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2133](https://www.govinfo.gov/link/statute/124/2133).)*

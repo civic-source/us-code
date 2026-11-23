@@ -3,9 +3,10 @@ title: "Section 1161p - Grants to create bridges from jobs to careers"
 usc_title: 20
 usc_section: "1161p"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1161p"
-generated_at: "2026-03-30T02:54:48.153Z"
+generated_at: "2026-11-23T20:26:14.598Z"
+status: "active"
 ---
 
 # § 1161p. Grants to create bridges from jobs to careers
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:48.153Z"
 - **(h)** The Secretary shall provide technical assistance to recipients of, and applicants for, grants under this section.
 - **(i)** Each institution of higher education that receives a grant under this section shall report to the Secretary on the effectiveness of the program in enabling students to move rapidly from developmental coursework into for-credit occupational courses and through program completion. The Secretary shall summarize the reports, identify best practices, and disseminate the information from such summary and identification to the public.
 - **(j)** There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
+
+## Source Credit
+
+*([Pub. L. 89–329, title VIII, § 851](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title VIII, § 801](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3421](https://www.govinfo.gov/link/statute/122/3421); amended [Pub. L. 111–39, title VIII, § 801(13)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1956](https://www.govinfo.gov/link/statute/123/1956).)*

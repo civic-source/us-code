@@ -3,9 +3,10 @@ title: "Section 16 - Appeals"
 usc_title: 9
 usc_section: "16"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "9 U.S.C. § 16"
-generated_at: "2026-03-30T02:53:06.639Z"
+generated_at: "2026-11-23T20:25:33.660Z"
+status: "active"
 ---
 
 # § 16. Appeals
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:06.639Z"
   - **(2)** directing arbitration to proceed under section 4 of this title ;
   - **(3)** compelling arbitration under section 206 of this title ; or
   - **(4)** refusing to enjoin an arbitration that is subject to this title.
+
+## Source Credit
+
+*(Added [Pub. L. 100–702, title X, § 1019(a)](https://www.govinfo.gov/link/plaw/100/public/702), Nov. 19, 1988, [102 Stat. 4670](https://www.govinfo.gov/link/statute/102/4670), § 15; renumbered § 16, [Pub. L. 101–650, title III, § 325(a)(1)](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5120](https://www.govinfo.gov/link/statute/104/5120).)*

@@ -3,9 +3,10 @@ title: "Section 406 - Sale of timber on lands held under trust"
 usc_title: 25
 usc_section: "406"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 406"
-generated_at: "2026-03-30T02:54:52.807Z"
+generated_at: "2026-11-23T20:26:25.404Z"
+status: "active"
 ---
 
 # § 406. Sale of timber on lands held under trust
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:52.807Z"
 - **(d)** For the purposes of this Act, the Secretary of the Interior is authorized to represent any Indian owner (1) who is a minor, (2) who has been adjudicated non compos mentis, (3) whose ownership interest in a decedent’s estate has not been determined, or (4) who cannot be located by the Secretary after a reasonable and diligent search and the giving of notice by publication.
 - **(e)** The timber on any Indian land held under a trust or other patent containing restrictions on alienations may be sold by the Secretary of the Interior without the consent of the owners when in his judgment such action is necessary to prevent loss of values resulting from fire, insects, disease, windthrow, or other natural catastrophes.
 - **(f)** A change from a trust or restricted status to an unrestricted status of any interest in timber that has been sold pursuant to this section shall not affect the obligations of the Secretary of the Interior under any contract of sale that is in effect at the time such change in status occurs.
+
+## Source Credit
+
+*(June 25, 1910, ch. 431, § 8, [36 Stat. 857](https://www.govinfo.gov/link/statute/36/857); [Pub. L. 88–301](https://www.govinfo.gov/link/plaw/88/public/301), Apr. 30, 1964, [78 Stat. 187](https://www.govinfo.gov/link/statute/78/187).)*

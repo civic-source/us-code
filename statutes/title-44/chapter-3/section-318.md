@@ -3,9 +3,10 @@ title: "Section 318 - Transfer of surplus property; acceptance of voluntary serv
 usc_title: 44
 usc_section: "318"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "44 U.S.C. § 318"
-generated_at: "2026-03-30T02:55:56.288Z"
+generated_at: "2026-11-23T20:27:03.754Z"
+status: "active"
 ---
 
 # § 318. Transfer of surplus property; acceptance of voluntary services
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:56.288Z"
     - **(C)** State or local governments; and
   - **(2)** accept voluntary and uncompensated services, notwithstanding section 1342 of title 31 .
 - **(b)** Individuals providing voluntary and uncompensated services under subsection (a)(2) shall not be considered Federal employees, except for purposes of chapter 81 of title 5 (relating to compensation for work injuries) and chapter 171 of title 28 (relating to tort claims).
+
+## Source Credit
+
+*(Added [Pub. L. 108–83, title I, § 1302(a)](https://www.govinfo.gov/link/plaw/108/public/83), Sept. 30, 2003, [117 Stat. 1033](https://www.govinfo.gov/link/statute/117/1033); amended [Pub. L. 113–235, div. H, title I, § 1301(b)](https://www.govinfo.gov/link/plaw/113/public/235), (c)(1), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537).)*

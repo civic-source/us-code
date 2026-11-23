@@ -3,9 +3,10 @@ title: "Section 1395dd - Examination and treatment for emergency medical conditi
 usc_title: 42
 usc_section: "1395dd"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1395dd"
-generated_at: "2026-03-30T02:56:11.002Z"
+generated_at: "2026-11-23T20:27:21.374Z"
+status: "active"
 ---
 
 # § 1395dd. Examination and treatment for emergency medical conditions and women in labor
@@ -64,3 +65,95 @@ generated_at: "2026-03-30T02:56:11.002Z"
 - **(g)** A participating hospital that has specialized capabilities or facilities (such as burn units, shock-trauma units, neonatal intensive care units, or (with respect to rural areas) regional referral centers as identified by the Secretary in regulation) shall not refuse to accept an appropriate transfer of an individual who requires such specialized capabilities or facilities if the hospital has the capacity to treat the individual.
 - **(h)** A participating hospital may not delay provision of an appropriate medical screening examination required under subsection (a) or further medical examination and treatment required under subsection (b) in order to inquire about the individual’s method of payment or insurance status.
 - **(i)** A participating hospital may not penalize or take adverse action against a qualified medical person described in subsection (c)(1)(A)(iii) or a physician because the person or physician refuses to authorize the transfer of an individual with an emergency medical condition that has not been stabilized or against any hospital employee because the employee reports a violation of a requirement of this section.
+
+Establishment
+
+Membership
+
+General Responsibilities
+
+Administrative Matters.—
+
+Chairperson
+
+Meetings
+
+Termination
+
+Waiver of Administrative Limitation
+
+Total Amount Available for Allotment.—
+
+In general
+
+Availability
+
+State Allotments.—
+
+Based on percentage of undocumented aliens.—
+
+In general
+
+Formula
+
+Based on number of undocumented alien apprehension states.—
+
+In general
+
+Determination of allotments
+
+Data
+
+Use of Funds.—
+
+Authority to make payments
+
+Determination of payment amounts.—
+
+In general
+
+Pro-rata reduction
+
+Methodology
+
+Limitation on use of funds
+
+Aliens described
+
+Applications; Advance Payments.—
+
+Deadline for establishment of application process.—
+
+In general
+
+Inclusion of measures to combat fraud and abuse
+
+Advance payment; retrospective adjustment
+
+Definitions
+
+Eligible provider
+
+Eligible services
+
+Hospital
+
+Physician
+
+Indian tribe; tribal organization
+
+State
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1867, as added [Pub. L. 99–272, title IX, § 9121(b)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 164](https://www.govinfo.gov/link/statute/100/164); amended [Pub. L. 99–509, title IX, § 9307(c)(4)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1996](https://www.govinfo.gov/link/statute/100/1996); [Pub. L. 99–514, title XVIII, § 1895(b)(4)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2933](https://www.govinfo.gov/link/statute/100/2933); [Pub. L. 100–203, title IV, § 4009(a)(1)](https://www.govinfo.gov/link/plaw/100/public/203), formerly § 4009(a)(1), (2), Dec. 22, 1987, [101 Stat. 1330–56](https://www.govinfo.gov/link/statute/101/1330), 1330–57; [Pub. L. 100–360, title IV, § 411(b)(8)(A)(i)](https://www.govinfo.gov/link/plaw/100/public/360), July 1, 1988, [102 Stat. 772](https://www.govinfo.gov/link/statute/102/772); [Pub. L. 100–485, title VI, § 608(d)(18)(E)](https://www.govinfo.gov/link/plaw/100/public/485), Oct. 13, 1988, [102 Stat. 2419](https://www.govinfo.gov/link/statute/102/2419); [Pub. L. 101–239, title VI](https://www.govinfo.gov/link/plaw/101/public/239), §§ 6003(g)(3)(D)(xiv), 6211(a)–(h), Dec. 19, 1989, [103 Stat. 2154](https://www.govinfo.gov/link/statute/103/2154), 2245–2248; [Pub. L. 101–508, title IV](https://www.govinfo.gov/link/plaw/101/public/508), §§ 4008(b)(1)–(3)(A), 4207(a)(1)(A), (2), (3), (k)(3), formerly 4027(a)(1)(A), (2), (3), (k)(3), Nov. 5, 1990, [104 Stat. 1388–44](https://www.govinfo.gov/link/statute/104/1388), 1388–117, 1388–124, renumbered and amended [Pub. L. 103–432, title I, § 160(d)(4)](https://www.govinfo.gov/link/plaw/103/public/432), (5)(A), Oct. 31, 1994, [108 Stat. 4444](https://www.govinfo.gov/link/statute/108/4444); [Pub. L. 105–33, title IV, § 4201(c)(1)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 373](https://www.govinfo.gov/link/statute/111/373); [Pub. L. 108–173, title VII, § 736(a)(14)](https://www.govinfo.gov/link/plaw/108/public/173), title IX, § 944(b), (c)(1), Dec. 8, 2003, [117 Stat. 2355](https://www.govinfo.gov/link/statute/117/2355), 2423; [Pub. L. 112–40, title II, § 261(a)(3)(A)](https://www.govinfo.gov/link/plaw/112/public/40), (E), Oct. 21, 2011, [125 Stat. 423](https://www.govinfo.gov/link/statute/125/423); [Pub. L. 116–260, div. CC, title I, § 125(b)(2)(B)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2966](https://www.govinfo.gov/link/statute/134/2966).)*

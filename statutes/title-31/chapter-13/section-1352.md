@@ -3,9 +3,10 @@ title: "Section 1352 - Limitation on use of appropriated funds to influence cert
 usc_title: 31
 usc_section: "1352"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 1352"
-generated_at: "2026-03-30T02:55:34.052Z"
+generated_at: "2026-11-23T20:26:51.729Z"
+status: "active"
 ---
 
 # § 1352. Limitation on use of appropriated funds to influence certain Federal contracting and financial transactions
@@ -81,3 +82,7 @@ generated_at: "2026-03-30T02:55:34.052Z"
   - **(9)** The term “reasonable compensation” means, with respect to a regularly employed officer or employee of any person, compensation that is consistent with the normal compensation for such officer or employee for work that is not furnished to, not funded by, or not furnished in cooperation with the Federal Government.
   - **(10)** The term “regularly employed”, with respect to an officer or employee of a person requesting or receiving a Federal contract, grant, loan, or cooperative agreement or a commitment providing for the United States to insure or guarantee a loan, means an officer or employee who is employed by such person for at least 130 working days within one year immediately preceding the date of the submission that initiates agency consideration of such person for receipt of such contract, grant, loan, cooperative agreement, loan insurance commitment, or loan guaranty commitment.
   - **(11)** The terms “Indian tribe” and “tribal organization” have the meaning provided in section 4 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450b ). 1 1 See References in Text note below.
+
+## Source Credit
+
+*(Added [Pub. L. 101–121, title III, § 319(a)(1)](https://www.govinfo.gov/link/plaw/101/public/121), Oct. 23, 1989, [103 Stat. 750](https://www.govinfo.gov/link/statute/103/750); amended [Pub. L. 101–512, title III, § 320](https://www.govinfo.gov/link/plaw/101/public/512), Nov. 5, 1990, [104 Stat. 1977](https://www.govinfo.gov/link/statute/104/1977); [Pub. L. 103–272, § 4(f)(1)(F)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1362](https://www.govinfo.gov/link/statute/108/1362); [Pub. L. 104–65, § 10](https://www.govinfo.gov/link/plaw/104/public/65), Dec. 19, 1995, [109 Stat. 700](https://www.govinfo.gov/link/statute/109/700); [Pub. L. 104–66, title III, § 3001(b)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 734](https://www.govinfo.gov/link/statute/109/734); [Pub. L. 104–106, div. A, title X, § 1064(c)](https://www.govinfo.gov/link/plaw/104/public/106), div. D, title XLIII, § 4301(a)(2), Feb. 10, 1996, [110 Stat. 445](https://www.govinfo.gov/link/statute/110/445), 656.)*

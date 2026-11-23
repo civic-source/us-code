@@ -3,9 +3,10 @@ title: "Section 7939 - Availability of recourse loans for high moisture feed gra
 usc_title: 7
 usc_section: "7939"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7939"
-generated_at: "2026-03-30T02:53:42.467Z"
+generated_at: "2026-11-23T20:25:41.855Z"
+status: "active"
 ---
 
 # § 7939. Availability of recourse loans for high moisture feed grains and seed cotton
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:42.467Z"
 - **(b)** For each of the 2002 through 2007 crops of upland cotton and extra long staple cotton, the Secretary shall make available recourse seed cotton loans, as determined by the Secretary, on any production.
 - **(c)** Repayment of a recourse loan made under this section shall be at the loan rate established for the commodity by the Secretary, plus interest (determined in accordance with section 7283 of this title ).
 - **(d)** Notwithstanding section 7237 of this title , recourse loans shall not be made for the 2002 crop of corn, grain sorghum, and seed cotton under such section.
+
+## Source Credit
+
+*([Pub. L. 107–171, title I, § 1209](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 165](https://www.govinfo.gov/link/statute/116/165).)*

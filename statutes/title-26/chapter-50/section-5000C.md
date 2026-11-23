@@ -3,9 +3,10 @@ title: "Section 5000C - Imposition of tax on certain foreign procurement"
 usc_title: 26
 usc_section: "5000C"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 5000C"
-generated_at: "2026-03-30T02:55:27.816Z"
+generated_at: "2026-11-23T20:26:46.388Z"
+status: "active"
 ---
 
 # § 5000C. Imposition of tax on certain foreign procurement
@@ -18,3 +19,13 @@ generated_at: "2026-03-30T02:55:27.816Z"
 - **(d)**
   - **(1)** The amount deducted and withheld under chapter 3 shall be increased by the amount of tax imposed by this section on such payment.
   - **(2)** For purposes of subtitle F, any tax imposed by this section shall be treated as a tax imposed by subtitle A.
+
+In general
+
+Annual review
+
+Executive agency
+
+## Source Credit
+
+*(Added [Pub. L. 111–347, title III, § 301(a)(1)](https://www.govinfo.gov/link/plaw/111/public/347), Jan. 2, 2011, [124 Stat. 3666](https://www.govinfo.gov/link/statute/124/3666).)*

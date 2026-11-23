@@ -3,9 +3,10 @@ title: "Section 981a - Pilot integrated scanning system"
 usc_title: 6
 usc_section: "981a"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 981a"
-generated_at: "2026-03-30T02:53:09.502Z"
+generated_at: "2026-11-23T20:25:34.894Z"
+status: "active"
 ---
 
 # § 981a. Pilot integrated scanning system
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:53:09.502Z"
   - **(3)** an evaluation of software that is capable of automatically identifying potential anomalies in scanned containers; and
   - **(4)** a plan and schedule to expand the integrated scanning system developed under this section to other container security initiative ports.
 - **(e)** If the Secretary determines the available technology meets the criteria outlined in subsection (c), the Secretary, in cooperation with the Secretary of State, shall seek to secure the cooperation of foreign governments to initiate and maximize the use of such technology at foreign ports to scan all cargo bound for the United States as quickly as possible.
+
+## Source Credit
+
+*([Pub. L. 109–295, title V, § 558](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1392](https://www.govinfo.gov/link/statute/120/1392).)*

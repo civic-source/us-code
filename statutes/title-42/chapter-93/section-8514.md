@@ -3,9 +3,10 @@ title: "Section 8514 - Judicial review"
 usc_title: 42
 usc_section: "8514"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8514"
-generated_at: "2026-03-30T02:56:11.344Z"
+generated_at: "2026-11-23T20:27:23.049Z"
+status: "active"
 ---
 
 # § 8514. Judicial review
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.344Z"
   - **(3)** Any decision by such court of appeals on a matter certified under paragraph (2) shall be reviewable by the Supreme Court upon attainment of a writ of certiorari. Any petition for such a writ shall be filed no later than 20 days after the decision of the court of appeals.
 - **(b)**
 - **(c)** With respect to judicial review under subsection (a)(1)(A), the court shall not have jurisdiction to grant any injunctive relief except in conjunction with a final judgment entered in the case.
+
+## Source Credit
+
+*([Pub. L. 96–102, title II, § 214](https://www.govinfo.gov/link/plaw/96/public/102), Nov. 5, 1979, [93 Stat. 764](https://www.govinfo.gov/link/statute/93/764); [Pub. L. 98–620, title IV, § 402(42)](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3360](https://www.govinfo.gov/link/statute/98/3360).)*

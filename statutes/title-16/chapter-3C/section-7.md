@@ -3,9 +3,10 @@ title: "Section 7 - Provisions for furnishing surplus power and municipal or mis
 usc_title: 16
 usc_section: "7"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 7"
-generated_at: "2026-03-30T02:54:22.883Z"
+generated_at: "2026-11-23T20:26:20.185Z"
+status: "active"
 ---
 
 # § 590z–7. Provisions for furnishing surplus power and municipal or miscellaneous water supplies
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:22.883Z"
   - **(4)** Except as otherwise provided under paragraph (5), all right, title, and interest in and to installed power facilities constructed by non-Federal entities pursuant to a lease under paragraph (1), and any direct revenues derived from that lease, shall remain with the lessee.
   - **(5)** Notwithstanding section 590z–6 of this title , lease charges shall be credited to the project from which the power is derived.
   - **(6)** Nothing in this section alters or affects any agreement in effect on December 19, 2014 , for the development of hydropower projects or disposition of revenues.
+
+## Source Credit
+
+*(Aug. 11, 1939, ch. 717, § 9, as added Oct. 14, 1940, ch. 861, [54 Stat. 1124](https://www.govinfo.gov/link/statute/54/1124); [Pub. L. 113–291, div. B, title XXX, § 3087](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3857](https://www.govinfo.gov/link/statute/128/3857).)*

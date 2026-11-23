@@ -3,9 +3,10 @@ title: "Section 1593 - Mandatory restitution"
 usc_title: 18
 usc_section: "1593"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 1593"
-generated_at: "2026-03-30T02:54:16.488Z"
+generated_at: "2026-11-23T20:26:08.510Z"
+status: "active"
 ---
 
 # § 1593. Mandatory restitution
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:16.488Z"
   - **(3)** As used in this subsection, the term “full amount of the victim’s losses” has the same meaning as provided in section 2259(c)(2) and shall in addition include the greater of the gross income or value to the defendant of the victim’s services or labor or the value of the victim’s labor as guaranteed under the minimum wage and overtime guarantees of the Fair Labor Standards Act ( 29 U.S.C. 201 et seq.).
   - **(4)** The forfeiture of property under this subsection shall be governed by the provisions of section 413 (other than subsection (d) of such section) of the Controlled Substances Act ( 21 U.S.C. 853 ).
 - **(c)** As used in this section, the term “victim” means the individual harmed as a result of a crime under this chapter, including, in the case of a victim who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardian of the victim or a representative of the victim’s estate, or another family member, or any other person appointed as suitable by the court, but in no event shall the defendant be named such representative or guardian.
+
+## Source Credit
+
+*(Added [Pub. L. 106–386, div. A, § 112(a)(2)](https://www.govinfo.gov/link/plaw/106/public/386), Oct. 28, 2000, [114 Stat. 1488](https://www.govinfo.gov/link/statute/114/1488); amended [Pub. L. 110–457, title II, § 221(1)](https://www.govinfo.gov/link/plaw/110/public/457), Dec. 23, 2008, [122 Stat. 5067](https://www.govinfo.gov/link/statute/122/5067); [Pub. L. 115–299, § 3(c)](https://www.govinfo.gov/link/plaw/115/public/299), Dec. 7, 2018, [132 Stat. 4385](https://www.govinfo.gov/link/statute/132/4385).)*

@@ -3,9 +3,10 @@ title: "Section 647 - Force shaping authority"
 usc_title: 10
 usc_section: "647"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 647"
-generated_at: "2026-03-30T02:53:38.072Z"
+generated_at: "2026-11-23T20:25:51.032Z"
+status: "active"
 ---
 
 # § 647. Force shaping authority
@@ -21,3 +22,17 @@ generated_at: "2026-03-30T02:53:38.072Z"
 - **(c)** An officer of the Regular Army, Regular Air Force, Regular Navy, or Regular Marine Corps who is transferred to a reserve active-status list under this section shall be discharged from the regular component concerned and appointed as a reserve commissioned officer under section 12203 of this title .
 - **(d)** The Secretary concerned shall prescribe regulations for the exercise of the Secretary’s authority under this section.
 - **(e)** For a similar provision with respect to officers of the Space Force, see section 20405 of this title .
+
+Authority
+
+Covered Officers
+
+Appointment of Transferred Officers
+
+Regulations
+
+Space Force
+
+## Source Credit
+
+*(Added [Pub. L. 108–375, div. A, title V, § 501(c)(1)(A)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1873](https://www.govinfo.gov/link/statute/118/1873); amended [Pub. L. 110–181, div. A, title V, § 503(b)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 95](https://www.govinfo.gov/link/statute/122/95); [Pub. L. 116–283, div. A, title IX, § 924(b)(4)(H)](https://www.govinfo.gov/link/plaw/116/public/283), (16), Jan. 1, 2021, [134 Stat. 3822](https://www.govinfo.gov/link/statute/134/3822), 3823; [Pub. L. 118–31, div. A, title XVII, § 1718(b)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 658](https://www.govinfo.gov/link/statute/137/658).)*

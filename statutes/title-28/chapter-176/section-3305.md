@@ -3,9 +3,10 @@ title: "Section 3305 - When transfer is made or obligation is incurred"
 usc_title: 28
 usc_section: "3305"
 chapter: 176
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 3305"
-generated_at: "2026-03-30T02:55:30.153Z"
+generated_at: "2026-11-23T20:26:36.549Z"
+status: "active"
 ---
 
 # § 3305. When transfer is made or obligation is incurred
@@ -21,3 +22,7 @@ For the purposes of this subchapter:
   - **(5)** An obligation is incurred—
     - **(A)** if oral, when it becomes effective between the parties; or
     - **(B)** if evidenced by a writing executed by the obligor, when such writing is delivered to or for the benefit of the obligee.
+
+## Source Credit
+
+*(Added [Pub. L. 101–647, title XXXVI, § 3611](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4962](https://www.govinfo.gov/link/statute/104/4962).)*

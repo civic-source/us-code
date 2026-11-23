@@ -3,9 +3,10 @@ title: "Section 3971 - Definitions"
 usc_title: 50
 usc_section: "3971"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3971"
-generated_at: "2026-03-30T02:56:26.264Z"
+generated_at: "2026-11-23T20:27:31.059Z"
+status: "active"
 ---
 
 # § 3971. Definitions
@@ -20,3 +21,7 @@ For the purposes of this subchapter:
   - **(2)** The term “premium” means the amount specified in an insurance policy to be paid to keep the policy in force.
   - **(3)** The term “insured” means a servicemember whose life is insured under a policy.
   - **(4)** The term “insurer” includes any firm, corporation, partnership, association, or business that is chartered or authorized to provide insurance and issue contracts or policies by the laws of a State or the United States.
+
+## Source Credit
+
+*(Oct. 17, 1940, ch. 888, title IV, § 401, as added [Pub. L. 108–189, § 1](https://www.govinfo.gov/link/plaw/108/public/189), Dec. 19, 2003, [117 Stat. 2851](https://www.govinfo.gov/link/statute/117/2851).)*

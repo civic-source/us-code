@@ -3,12 +3,17 @@ title: "Section 313 - Examining boards: paper; bindery materials; machinery"
 usc_title: 44
 usc_section: "313"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "44 U.S.C. § 313"
-generated_at: "2026-03-30T02:55:56.288Z"
+generated_at: "2026-11-23T20:27:03.753Z"
+status: "active"
 ---
 
 # § 313. Examining boards: paper; bindery materials; machinery
 
 The Deputy Director of the Government Publishing Office, the superintendent of printing, and a person designated by the Joint Committee on Printing, shall constitute a board to examine and report in writing on paper delivered under contract, or by purchase or otherwise, at the Government Publishing Office. The Deputy Director of the Government Publishing Office, the superintendent of binding, and a person designated by the Joint Committee on Printing shall constitute a board to examine and report in writing on material, except paper, for the use of the bindery. The Deputy Director of the Government Publishing Office, the superintendent of printing, and a person designated by the Joint Committee on Printing shall constitute a board of condemnation, who, upon the call of the Director of the Government Publishing Office, shall determine the condition of presses and other machinery and material used in the Government Publishing Office, with a view to condemnation.
 
+
+## Source Credit
+
+*([Pub. L. 90–620](https://www.govinfo.gov/link/plaw/90/public/620), Oct. 22, 1968, [82 Stat. 1242](https://www.govinfo.gov/link/statute/82/1242); [Pub. L. 113–235, div. H, title I, § 1301(b)](https://www.govinfo.gov/link/plaw/113/public/235), (c)(1), (e)(1), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537).)*

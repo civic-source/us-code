@@ -3,9 +3,10 @@ title: "Section 45B - Credit for portion of employer social security taxes paid 
 usc_title: 26
 usc_section: "45B"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 45B"
-generated_at: "2026-03-30T02:55:27.600Z"
+generated_at: "2026-11-23T20:26:45.208Z"
+status: "active"
 ---
 
 # § 45B. Credit for portion of employer social security taxes paid with respect to employee cash tips
@@ -24,3 +25,9 @@ generated_at: "2026-03-30T02:55:27.600Z"
       - **(iv)** Body and spa treatments.
 - **(c)** No deduction shall be allowed under this chapter for any amount taken into account in determining the credit under this section.
 - **(d)** This section shall not apply to a taxpayer for any taxable year if such taxpayer elects to have this section not apply for such taxable year.
+
+Only tips received at food and beverage establishments taken into account
+
+## Source Credit
+
+*(Added [Pub. L. 103–66, title XIII, § 13443(a)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 568](https://www.govinfo.gov/link/statute/107/568); amended [Pub. L. 104–188, title I, § 1112(a)(1)](https://www.govinfo.gov/link/plaw/104/public/188), (b)(1), Aug. 20, 1996, [110 Stat. 1759](https://www.govinfo.gov/link/statute/110/1759); [Pub. L. 110–28, title VIII, § 8213(a)](https://www.govinfo.gov/link/plaw/110/public/28), May 25, 2007, [121 Stat. 193](https://www.govinfo.gov/link/statute/121/193); [Pub. L. 119–21, title VII, § 70201(e)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 171](https://www.govinfo.gov/link/statute/139/171).)*

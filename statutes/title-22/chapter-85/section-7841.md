@@ -3,9 +3,10 @@ title: "Section 7841 - United States policy toward refugees and defectors"
 usc_title: 22
 usc_section: "7841"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7841"
-generated_at: "2026-03-30T02:55:05.446Z"
+generated_at: "2026-11-23T20:26:32.690Z"
+status: "active"
 ---
 
 # § 7841. United States policy toward refugees and defectors
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.446Z"
   - **(5)** an estimate of the number of North Koreans with family connections to United States citizens; and
   - **(6)** a description of the measures that the Secretary of State is taking to carry out section 7843 of this title .
 - **(c)** The information required by paragraphs (1) through (5) of subsection (b) shall be provided in unclassified form. All or part of the information required by subsection (b)(6) may be provided in classified form, if necessary.
+
+## Source Credit
+
+*([Pub. L. 108–333, title III, § 301](https://www.govinfo.gov/link/plaw/108/public/333), Oct. 18, 2004, [118 Stat. 1295](https://www.govinfo.gov/link/statute/118/1295).)*

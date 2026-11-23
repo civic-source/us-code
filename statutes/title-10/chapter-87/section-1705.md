@@ -3,9 +3,10 @@ title: "Section 1705 - Department of Defense Acquisition Workforce Development A
 usc_title: 10
 usc_section: "1705"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1705"
-generated_at: "2026-03-30T02:53:38.135Z"
+generated_at: "2026-11-23T20:25:51.408Z"
+status: "active"
 ---
 
 # § 1705. Department of Defense Acquisition Workforce Development Account
@@ -45,3 +46,41 @@ generated_at: "2026-03-30T02:53:38.135Z"
       - **(i)** contribute significantly to the acquisition process by virtue of their assigned duties; or
       - **(ii)** contribute significantly to the acquisition or development of systems relating to cybersecurity; and
     - **(B)** are designated as temporary members of the acquisition workforce by the Under Secretary of Defense for Acquisition and Sustainment, or by the senior acquisition executive of a military department, for the limited purpose of receiving training for the performance of acquisition-related functions and duties.
+
+Establishment
+
+Purpose
+
+Management
+
+Elements
+
+Availability of Funds.—
+
+In general
+
+Prohibition
+
+Guidance
+
+Limitation on payments to or for contractors
+
+Prohibition on payment of base salary of current employees
+
+Duration of availability
+
+Expedited Hiring Authority
+
+Acquisition Workforce Defined
+
+In general
+
+Duration of availability of previously deposited funds
+
+Funding amendments
+
+Technical amendments
+
+## Source Credit
+
+*(Added [Pub. L. 110–181, div. A, title VIII, § 852(a)(1)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 248](https://www.govinfo.gov/link/statute/122/248); amended [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title VIII, § 833, Oct. 14, 2008, [122 Stat. 4535](https://www.govinfo.gov/link/statute/122/4535); [Pub. L. 111–84, div. A, title VIII](https://www.govinfo.gov/link/plaw/111/public/84), §§ 831, 832(a)–(g), Oct. 28, 2009, [123 Stat. 2414](https://www.govinfo.gov/link/statute/123/2414), 2415; [Pub. L. 112–81, div. A, title VIII, § 804(a)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1486](https://www.govinfo.gov/link/statute/125/1486); [Pub. L. 112–239, div. A, title VIII, § 803(a)](https://www.govinfo.gov/link/plaw/112/public/239), (b), Jan. 2, 2013, [126 Stat. 1825](https://www.govinfo.gov/link/statute/126/1825); [Pub. L. 114–92, div. A, title VIII, § 841(a)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 913](https://www.govinfo.gov/link/statute/129/913); [Pub. L. 114–328, div. A, title VIII, § 863(a)](https://www.govinfo.gov/link/plaw/114/public/328), (b), title X, § 1081(a)(5), Dec. 23, 2016, [130 Stat. 2302](https://www.govinfo.gov/link/statute/130/2302), 2303, 2417; [Pub. L. 115–91, div. A, title VIII](https://www.govinfo.gov/link/plaw/115/public/91), §§ 842, 843(a)(1), title X, § 1051(a)(7), title XVI, § 1636, Dec. 12, 2017, [131 Stat. 1479](https://www.govinfo.gov/link/statute/131/1479), 1480, 1560, 1741; [Pub. L. 116–92, div. A, title VIII, § 863(b)](https://www.govinfo.gov/link/plaw/116/public/92), title IX, § 902(13), title X, § 1010(a)(1), (2)(A), (b)–(d), Dec. 20, 2019, [133 Stat. 1522](https://www.govinfo.gov/link/statute/133/1522), 1544, 1576; [Pub. L. 117–81, div. A, title X, § 1081(a)(22)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1920](https://www.govinfo.gov/link/statute/135/1920).)*

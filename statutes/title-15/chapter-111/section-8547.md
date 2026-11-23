@@ -3,9 +3,10 @@ title: "Section 8547 - Report on contract positions at National Weather Service"
 usc_title: 15
 usc_section: "8547"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 8547"
-generated_at: "2026-03-30T02:54:08.232Z"
+generated_at: "2026-11-23T20:26:04.495Z"
+status: "active"
 ---
 
 # § 8547. Report on contract positions at National Weather Service
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:08.232Z"
   - **(7)** The average salary for full-time equivalent contractors performing at each equivalent level of the General Schedule at the National Weather Service.
   - **(8)** A description of any actions taken by the Under Secretary to respond to the issues raised by the Inspector General of the Department of Commerce regarding the hiring of former National Oceanic and Atmospheric Administration employees as contractors at the National Weather Service such as the issues raised in the Investigative Report dated June 2, 2015 (OIG–12–0447).
 - **(c)** For each fiscal year after the fiscal year covered by the report required by subsection (a), the Under Secretary shall, not later than 180 days after the completion of the fiscal year, publish on a publicly accessible Internet website the information described in paragraphs (1) through (8) of subsection (b) for such fiscal year.
+
+## Source Credit
+
+*([Pub. L. 115–25, title IV, § 410](https://www.govinfo.gov/link/plaw/115/public/25), Apr. 18, 2017, [131 Stat. 112](https://www.govinfo.gov/link/statute/131/112).)*

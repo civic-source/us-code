@@ -3,9 +3,10 @@ title: "Section 3937 - Maximum rate of interest on debts incurred before militar
 usc_title: 50
 usc_section: "3937"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3937"
-generated_at: "2026-03-30T02:56:26.263Z"
+generated_at: "2026-11-23T20:27:31.054Z"
+status: "active"
 ---
 
 # § 3937. Maximum rate of interest on debts incurred before military service
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:26.263Z"
   - **(1)** The term “interest” includes service charges, renewal charges, fees, or any other charges (except bona fide insurance) with respect to an obligation or liability.
   - **(2)** The term “obligation or liability” includes an obligation or liability consisting of a mortgage, trust deed, or other security in the nature of a mortgage.
 - **(e)** Whoever knowingly violates subsection (a) shall be fined as provided in title 18, imprisoned for not more than one year, or both.
+
+## Source Credit
+
+*(Oct. 17, 1940, ch. 888, title II, § 207, as added [Pub. L. 108–189, § 1](https://www.govinfo.gov/link/plaw/108/public/189), Dec. 19, 2003, [117 Stat. 2844](https://www.govinfo.gov/link/statute/117/2844); amended [Pub. L. 110–289, div. B, title II, § 2203(b)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2849](https://www.govinfo.gov/link/statute/122/2849); [Pub. L. 110–389, title VIII, § 807](https://www.govinfo.gov/link/plaw/110/public/389), Oct. 10, 2008, [122 Stat. 4189](https://www.govinfo.gov/link/statute/122/4189); [Pub. L. 111–275, title III, § 303(b)(1)](https://www.govinfo.gov/link/plaw/111/public/275), Oct. 13, 2010, [124 Stat. 2877](https://www.govinfo.gov/link/statute/124/2877); [Pub. L. 115–232, div. A, title V, § 600](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1793](https://www.govinfo.gov/link/statute/132/1793).)*

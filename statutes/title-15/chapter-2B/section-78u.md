@@ -3,9 +3,10 @@ title: "Section 78u - Investigations and actions"
 usc_title: 15
 usc_section: "78u"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 78u"
-generated_at: "2026-03-30T02:54:08.056Z"
+generated_at: "2026-11-23T20:26:03.549Z"
+status: "active"
 ---
 
 # § 78u. Investigations and actions
@@ -91,3 +92,63 @@ generated_at: "2026-03-30T02:54:08.056Z"
   - **(12)** Nothing in this subsection shall enlarge or restrict any rights of a financial institution to challenge requests for records made by the Commission under existing law. Nothing in this subsection shall entitle a customer to assert any rights of a financial institution.
   - **(13)** Unless the context otherwise requires, all terms defined in the Right to Financial Privacy Act of 1978 [ 12 U.S.C. 3401 et seq.] which are common to this subsection shall have the same meaning as in such Act.
 - **(i)** The Commission shall provide the Commodity Futures Trading Commission with notice of the commencement of any proceeding and a copy of any order entered by the Commission against any broker or dealer registered pursuant to section 78 o (b)(11) of this title, any exchange registered pursuant to section 78f(g) of this title , or any national securities association registered pursuant to section 78 o –3(k) of this title.
+
+Authority of Court To Prohibit Persons From Serving as Officers and Directors
+
+Civil money penalties and authority to seek disgorgement.—
+
+Authority of commission
+
+Amount of penalty.—
+
+First tier
+
+Second tier
+
+Third tier
+
+(aa) the violation described in subparagraph (A) involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement; and
+
+(bb) such violation directly or indirectly resulted in substantial losses or created a significant risk of substantial losses to other persons.
+
+Procedures for collection.—
+
+Payment of penalty to treasury
+
+Collection of penalties
+
+Remedy not exclusive
+
+Jurisdiction and venue
+
+Special provisions relating to a violation of a cease-and-desist order
+
+Prohibition of attorneys’ fees paid from commission disgorgement funds
+
+Equitable Relief
+
+Authority of a court to prohibit persons from participating in an offering of penny stock.—
+
+In general
+
+Definition
+
+Disgorgement
+
+Limitations periods.—
+
+Disgorgement
+
+Equitable remedies
+
+Calculation
+
+Rule of construction
+
+Commission Action
+
+Report
+
+## Source Credit
+
+*(June 6, 1934, ch. 404, title I, § 21, [48 Stat. 899](https://www.govinfo.gov/link/statute/48/899); May 27, 1936, ch. 462, § 7, [49 Stat. 1379](https://www.govinfo.gov/link/statute/49/1379); [Pub. L. 91–452, title II, § 212](https://www.govinfo.gov/link/plaw/91/public/452), Oct. 15, 1970, [84 Stat. 929](https://www.govinfo.gov/link/statute/84/929); [Pub. L. 94–29, § 17](https://www.govinfo.gov/link/plaw/94/public/29), June 4, 1975, [89 Stat. 154](https://www.govinfo.gov/link/statute/89/154); [Pub. L. 96–433](https://www.govinfo.gov/link/plaw/96/public/433), §§ 3, 4, Oct. 10, 1980, [94 Stat. 1855](https://www.govinfo.gov/link/statute/94/1855), 1858; [Pub. L. 98–376, § 2](https://www.govinfo.gov/link/plaw/98/public/376), Aug. 10, 1984, [98 Stat. 1264](https://www.govinfo.gov/link/statute/98/1264); [Pub. L. 100–181, title III, § 323](https://www.govinfo.gov/link/plaw/100/public/181), Dec. 4, 1987, [101 Stat. 1259](https://www.govinfo.gov/link/statute/101/1259); [Pub. L. 100–704](https://www.govinfo.gov/link/plaw/100/public/704), §§ 3(a)(1), 6(b), Nov. 19, 1988, [102 Stat. 4677](https://www.govinfo.gov/link/statute/102/4677), 4681; [Pub. L. 101–429, title II, § 201](https://www.govinfo.gov/link/plaw/101/public/429), Oct. 15, 1990, [104 Stat. 935](https://www.govinfo.gov/link/statute/104/935); [Pub. L. 101–650, title III, § 321](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5117](https://www.govinfo.gov/link/statute/104/5117); [Pub. L. 104–67, title I, § 103(b)(2)](https://www.govinfo.gov/link/plaw/104/public/67), Dec. 22, 1995, [109 Stat. 756](https://www.govinfo.gov/link/statute/109/756); [Pub. L. 106–554, § 1(a)(5) [title II, § 205(a)(5)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–426; [Pub. L. 107–204, § 3(b)(2)](https://www.govinfo.gov/link/plaw/107/public/204), title III, §§ 305(a)(1), (b), 308(d)(1), title VI, § 603(a), July 30, 2002, [116 Stat. 749](https://www.govinfo.gov/link/statute/116/749), 778, 779, 785, 794; [Pub. L. 111–203, title IX](https://www.govinfo.gov/link/plaw/111/public/203), §§ 923(b)(1), 929F(c), (d), (g)(2), 986(a)(3), July 21, 2010, [124 Stat. 1849](https://www.govinfo.gov/link/statute/124/1849), 1854, 1855, 1935; [Pub. L. 114–113, div. O, title VII, § 708](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3030](https://www.govinfo.gov/link/statute/129/3030); [Pub. L. 116–283, div. F, title LXV, § 6501(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4625](https://www.govinfo.gov/link/statute/134/4625).)*

@@ -3,9 +3,10 @@ title: "Section 3107 - Certification of compliance with oversight requirements"
 usc_title: 50
 usc_section: "3107"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3107"
-generated_at: "2026-03-30T02:56:26.236Z"
+generated_at: "2026-11-23T20:27:30.921Z"
+status: "active"
 ---
 
 # § 3107. Certification of compliance with oversight requirements
@@ -19,3 +20,7 @@ The head of each element of the intelligence community shall annually submit to 
     - **(A)** of the reasons the head of such element is unable to submit such a certification;
     - **(B)** describing any information required to be submitted by the head of such element under this chapter before the date of the submission of such statement that has not been properly submitted; and
     - **(C)** that the head of such element will submit such information as soon as possible after the submission of such statement.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title V, § 508, as added [Pub. L. 111–259, title III, § 332(a)](https://www.govinfo.gov/link/plaw/111/public/259), Oct. 7, 2010, [124 Stat. 2686](https://www.govinfo.gov/link/statute/124/2686).)*

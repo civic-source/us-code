@@ -3,9 +3,10 @@ title: "Section 402 - Definitions"
 usc_title: 29
 usc_section: "402"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 402"
-generated_at: "2026-03-30T02:55:18.683Z"
+generated_at: "2026-11-23T20:26:37.814Z"
+status: "active"
 ---
 
 # § 402. Definitions
@@ -35,3 +36,7 @@ For the purposes of this chapter—
 - **(p)** “Secretary” means the Secretary of Labor.
 - **(q)** “Officer, agent, shop steward, or other representative”, when used with respect to a labor organization, includes elected officials and key administrative personnel, whether elected or appointed (such as business agents, heads of departments or major units, and organizers who exercise substantial independent authority), but does not include salaried nonsupervisory professional staff, stenographic, and service personnel.
 - **(r)** “District court of the United States” means a United States district court and a United States court of any place subject to the jurisdiction of the United States.
+
+## Source Credit
+
+*([Pub. L. 86–257, § 3](https://www.govinfo.gov/link/plaw/86/public/257), Sept. 14, 1959, [73 Stat. 520](https://www.govinfo.gov/link/statute/73/520); [Pub. L. 95–598, title III, § 320](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2678](https://www.govinfo.gov/link/statute/92/2678).)*

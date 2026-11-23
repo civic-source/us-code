@@ -3,9 +3,10 @@ title: "Section 3054 - POW/MIA analytic capability"
 usc_title: 50
 usc_section: "3054"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3054"
-generated_at: "2026-03-30T02:56:26.232Z"
+generated_at: "2026-11-23T20:27:30.902Z"
+status: "active"
 ---
 
 # § 3054. POW/MIA analytic capability
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:26.232Z"
 - **(b)** In this section, the term “unaccounted for United States personnel” means the following:
   - **(1)** Any missing person (as that term is defined in section 1513(1) of title 10 ).
   - **(2)** Any United States national who was killed while engaged in activities on behalf of the United States and whose remains have not been repatriated to the United States.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title I, § 117, as added [Pub. L. 106–567, title III, § 307(a)](https://www.govinfo.gov/link/plaw/106/public/567), Dec. 27, 2000, [114 Stat. 2839](https://www.govinfo.gov/link/statute/114/2839); amended [Pub. L. 108–458, title I, § 1071(a)(1)(T)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3689](https://www.govinfo.gov/link/statute/118/3689).)*

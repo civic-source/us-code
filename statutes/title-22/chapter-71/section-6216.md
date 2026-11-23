@@ -3,9 +3,10 @@ title: "Section 6216 - Special authority for surge capacity"
 usc_title: 22
 usc_section: "6216"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6216"
-generated_at: "2026-03-30T02:55:05.426Z"
+generated_at: "2026-11-23T20:26:32.603Z"
+status: "active"
 ---
 
 # § 6216. Special authority for surge capacity
@@ -20,3 +21,11 @@ generated_at: "2026-03-30T02:55:05.426Z"
   - **(2)** Amounts appropriated pursuant to the authorization of appropriations in this subsection are authorized to remain available until expended.
   - **(3)** Amounts appropriated pursuant to the authorization of appropriations in this subsection may be referred to as the “United States International Broadcasting Surge Capacity Fund”.
 - **(c)** The annual report submitted to the President and Congress by the United States Agency for Global Media under section 6204(a)(9) of this title shall provide a detailed description of any activities carried out under this section.
+
+Finding
+
+Sense of Congress
+
+## Source Credit
+
+*([Pub. L. 103–236, title III, § 316](https://www.govinfo.gov/link/plaw/103/public/236), as added [Pub. L. 110–53, title XX, § 2031(c)](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 516](https://www.govinfo.gov/link/statute/121/516); amended [Pub. L. 116–283, div. A, title XII, § 1299Q(e)(11)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4026](https://www.govinfo.gov/link/statute/134/4026).)*

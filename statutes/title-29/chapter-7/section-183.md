@@ -3,9 +3,10 @@ title: "Section 183 - Conciliation of labor disputes in the health care industry
 usc_title: 29
 usc_section: "183"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 183"
-generated_at: "2026-03-30T02:55:18.679Z"
+generated_at: "2026-11-23T20:26:37.787Z"
+status: "active"
 ---
 
 # § 183. Conciliation of labor disputes in the health care industry
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:18.679Z"
   - **(2)** Members of any board established under this section who are not subject to paragraph (1) shall receive compensation at a rate prescribed by the Director but not to exceed the daily rate prescribed for GS–18 of the General Schedule under section 5332 of title 5 , including travel for each day they are engaged in the performance of their duties under this section and shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred by them in carrying out their duties under this section.
 - **(c)** After the establishment of a board under subsection (a) of this section and for 15 days after any such board has issued its report, no change in the status quo in effect prior to the expiration of the contract in the case of negotiations for a contract renewal, or in effect prior to the time of the impasse in the case of an initial bargaining negotiation, except by agreement, shall be made by the parties to the controversy.
 - **(d)** There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.
+
+## Source Credit
+
+*(June 23, 1947, ch. 120, title II, § 213, as added [Pub. L. 93–360, § 2](https://www.govinfo.gov/link/plaw/93/public/360), July 26, 1974, [88 Stat. 396](https://www.govinfo.gov/link/statute/88/396).)*

@@ -3,9 +3,10 @@ title: "Section 5552 - Preservation of enforcement powers of States"
 usc_title: 12
 usc_section: "5552"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5552"
-generated_at: "2026-03-30T02:53:53.545Z"
+generated_at: "2026-11-23T20:25:59.523Z"
+status: "active"
 ---
 
 # § 5552. Preservation of enforcement powers of States
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:53:53.545Z"
   - **(1)** No provision of this section shall be construed as altering, limiting, or affecting the authority of a State attorney general or any other regulatory or enforcement agency or authority to bring an action or other regulatory proceeding arising solely under the law in effect in that State.
   - **(2)** No provision of this title 1 shall be construed as altering, limiting, or affecting the authority of a State securities commission (or any agency or office performing like functions) under State law to adopt rules, initiate enforcement proceedings, or take any other action with respect to a person regulated by such commission or authority.
   - **(3)** No provision of this title 1 shall be construed as altering, limiting, or affecting the authority of a State insurance commission or State insurance regulator under State law to adopt rules, initiate enforcement proceedings, or take any other action with respect to a person regulated by such commission or regulator.
+
+## Source Credit
+
+*([Pub. L. 111–203, title X, § 1042](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2012](https://www.govinfo.gov/link/statute/124/2012).)*

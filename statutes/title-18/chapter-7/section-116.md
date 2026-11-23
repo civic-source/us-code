@@ -3,9 +3,10 @@ title: "Section 116 - Female genital mutilation"
 usc_title: 18
 usc_section: "116"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 116"
-generated_at: "2026-03-30T02:54:16.457Z"
+generated_at: "2026-11-23T20:26:08.333Z"
+status: "active"
 ---
 
 # § 116. Female genital mutilation
@@ -31,3 +32,9 @@ generated_at: "2026-03-30T02:54:16.457Z"
   - **(2)** excision or the partial or total removal (with or without excision of the clitoris) of the labia minora or the labia majora, or both;
   - **(3)** infibulation or the narrowing of the vaginal opening (with or without excision of the clitoris); or
   - **(4)** other procedures that are harmful to the external female genitalia, including pricking, incising, scraping, or cauterizing the genital area.
+
+“The Congress finds that—
+
+## Source Credit
+
+*(Added [Pub. L. 104–208, div. C, title VI, § 645(b)(1)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–709](https://www.govinfo.gov/link/statute/110/3009); amended [Pub. L. 112–239, div. A, title X, § 1088](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1970](https://www.govinfo.gov/link/statute/126/1970); [Pub. L. 116–309, § 3](https://www.govinfo.gov/link/plaw/116/public/309), Jan. 5, 2021, [134 Stat. 4923](https://www.govinfo.gov/link/statute/134/4923).)*

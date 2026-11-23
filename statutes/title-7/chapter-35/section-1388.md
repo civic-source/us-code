@@ -3,9 +3,10 @@ title: "Section 1388 - Utilization of local agencies"
 usc_title: 7
 usc_section: "1388"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1388"
-generated_at: "2026-03-30T02:53:42.310Z"
+generated_at: "2026-11-23T20:25:41.143Z"
+status: "active"
 ---
 
 # § 1388. Utilization of local agencies
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:42.310Z"
 - **(c)**
   - **(1)** The Secretary shall make payments to members of local, county, and State committees to cover expenses for travel incurred by such persons (including, in the case of a member of a local or county committee, travel between the home of such member and the local county office of the Agricultural Stabilization and Conservation Service) in cooperating in carrying out this chapter and chapter 3B of title 16 in connection with which such Committees 1 1 So in original. Probably should not be capitalized. are used.
   - **(2)** Such travel expenses shall be paid in the manner authorized under section 5703 of title 5 for the payment of expenses and allowances for individuals employed intermittently in the Federal Government service.
+
+## Source Credit
+
+*(Feb. 16, 1938, ch. 30, title III, § 388, [52 Stat. 68](https://www.govinfo.gov/link/statute/52/68); [Pub. L. 99–198, title XVII, § 1713(a)](https://www.govinfo.gov/link/plaw/99/public/198), (b), Dec. 23, 1985, [99 Stat. 1636](https://www.govinfo.gov/link/statute/99/1636), 1637.)*

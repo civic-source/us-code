@@ -3,9 +3,10 @@ title: "Section 2202 - Reconsideration of actions"
 usc_title: 12
 usc_section: "2202"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 2202"
-generated_at: "2026-03-30T02:53:53.474Z"
+generated_at: "2026-11-23T20:25:59.245Z"
+status: "active"
 ---
 
 # § 2202. Reconsideration of actions
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:53.474Z"
   - **(3)** A copy of any appraisal made under this subsection shall be provided to the borrower.
   - **(4)** An independent appraisal shall be permitted if additional collateral for a loan is demanded by the qualified lender when determining whether to restructure the loan.
 - **(e)** Promptly after a review by the credit review committee, the committee shall notify the applicant or borrower, as the case may be, in writing of the decision of the committee and the reasons for the decision.
+
+## Source Credit
+
+*([Pub. L. 92–181, title IV, § 4](https://www.govinfo.gov/link/plaw/92/public/181).14, Dec. 10, 1971, [85 Stat. 613](https://www.govinfo.gov/link/statute/85/613); [Pub. L. 99–205, title III, § 303](https://www.govinfo.gov/link/plaw/99/public/205), Dec. 23, 1985, [99 Stat. 1708](https://www.govinfo.gov/link/statute/99/1708); [Pub. L. 100–233, title I, § 106](https://www.govinfo.gov/link/plaw/100/public/233), title VIII, § 805(s), Jan. 6, 1988, [101 Stat. 1580](https://www.govinfo.gov/link/statute/101/1580), 1716; [Pub. L. 100–399, title I, § 103](https://www.govinfo.gov/link/plaw/100/public/399), title VII, § 702(b), Aug. 17, 1988, [102 Stat. 990](https://www.govinfo.gov/link/statute/102/990), 1006.)*

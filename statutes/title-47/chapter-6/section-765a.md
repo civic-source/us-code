@@ -3,9 +3,10 @@ title: "Section 765a - Signatory role"
 usc_title: 47
 usc_section: "765a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 765a"
-generated_at: "2026-03-30T02:56:24.526Z"
+generated_at: "2026-11-23T20:27:28.956Z"
+status: "active"
 ---
 
 # § 765a. Signatory role
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:24.526Z"
   - **(3)** If COMSAT is found liable for any action taken in its status as a signatory or a representative of the party to INTELSAT, any such liability shall be limited to the portion of the judgment that corresponds to COMSAT’s percentage of the ownership of INTELSAT at the time the activity began which lead to the liability.
   - **(4)** Paragraph (1) shall not apply with respect to liability for any action taken by COMSAT before March 17, 2000 .
 - **(c)** Notwithstanding any other law or executive agreement, the Commission shall have the authority to impose similar regulatory fees on the United States signatory which it imposes on other entities providing similar services.
+
+## Source Credit
+
+*([Pub. L. 87–624, title VI, § 642](https://www.govinfo.gov/link/plaw/87/public/624), as added [Pub. L. 106–180, § 3](https://www.govinfo.gov/link/plaw/106/public/180), Mar. 17, 2000, [114 Stat. 55](https://www.govinfo.gov/link/statute/114/55).)*

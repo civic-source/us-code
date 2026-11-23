@@ -3,9 +3,10 @@ title: "Section 913 - Art. 113. Drunken or reckless operation of a vehicle, airc
 usc_title: 10
 usc_section: "913"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 913"
-generated_at: "2026-03-30T02:53:38.086Z"
+generated_at: "2026-11-23T20:25:51.111Z"
+status: "active"
 ---
 
 # § 913. Art. 113. Drunken or reckless operation of a vehicle, aircraft, or vessel
@@ -24,3 +25,20 @@ generated_at: "2026-03-30T02:53:38.086Z"
   - **(4)** In this subsection:
     - **(A)** The term “blood alcohol content limit” means the amount of alcohol concentration in a person’s blood or breath at which operation or control of a vehicle, aircraft, or vessel is prohibited.
     - **(B)** The term “United States” includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, and American Samoa and the term “State” includes each of those jurisdictions.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 911 | 50:705. | May 5, 1950, ch. 169, § 1 (Art. 111), 64 Stat. 139 . |
+
+
+Historical and Revision Notes
+
+911
+
+May 5, 1950, ch. 169, § 1
+
+64 Stat. 139
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 72, § 911; [Pub. L. 99–570, title III, § 3055](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–76](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 102–484, div. A, title X, § 1066(a)(1)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2506](https://www.govinfo.gov/link/statute/106/2506); [Pub. L. 103–160, div. A, title V, § 576(a)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1677](https://www.govinfo.gov/link/statute/107/1677); [Pub. L. 107–107, div. A, title V, § 581](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1123](https://www.govinfo.gov/link/statute/115/1123); [Pub. L. 108–136, div. A, title V, § 552](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1481](https://www.govinfo.gov/link/statute/117/1481); renumbered § 913 and amended [Pub. L. 114–328, div. E, title LX](https://www.govinfo.gov/link/plaw/114/public/328), §§ 5401(9), 5425, Dec. 23, 2016, [130 Stat. 2939](https://www.govinfo.gov/link/statute/130/2939), 2948.)*

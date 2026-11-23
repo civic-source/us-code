@@ -3,9 +3,10 @@ title: "Section 4603a - Study and report by Semiconductor Technology Council"
 usc_title: 15
 usc_section: "4603a"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 4603a"
-generated_at: "2026-03-30T02:54:08.200Z"
+generated_at: "2026-11-23T20:26:04.341Z"
+status: "active"
 ---
 
 # § 4603a. Study and report by Semiconductor Technology Council
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.200Z"
   - **(2)** definition and assessment of continued Federal participation in Sematech including, but not limited to, issues of technology research and development, civilian and defense industrial base objectives and initiatives, and commercialization. The report shall include a summary of the most recent plans, milestones, and cost estimates for Sematech, including any changes and alterations, and shall comment on Sematech’s accomplishments and shortfalls in the preceding fiscal year;
   - **(3)** coordination of inter-agency participation, including all matters pertaining to Federal funding and decisionmaking, and other issues regarding Federal participation in Sematech; and
   - **(4)** any other issues and questions the Council deems appropriate shall be considered.
+
+## Source Credit
+
+*([Pub. L. 100–418, title V, § 5422](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1468](https://www.govinfo.gov/link/statute/102/1468); [Pub. L. 102–245, title I, § 103(e)](https://www.govinfo.gov/link/plaw/102/public/245), Feb. 14, 1992, [106 Stat. 9](https://www.govinfo.gov/link/statute/106/9); [Pub. L. 103–160, div. A, title II, § 263(g)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1610](https://www.govinfo.gov/link/statute/107/1610).)*

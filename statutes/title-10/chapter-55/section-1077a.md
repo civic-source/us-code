@@ -3,9 +3,10 @@ title: "Section 1077a - Access to military medical treatment facilities and othe
 usc_title: 10
 usc_section: "1077a"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1077a"
-generated_at: "2026-03-30T02:53:38.104Z"
+generated_at: "2026-11-23T20:25:51.226Z"
+status: "active"
 ---
 
 # § 1077a. Access to military medical treatment facilities and other facilities
@@ -27,3 +28,15 @@ generated_at: "2026-03-30T02:53:38.104Z"
       - **(i)** the needs of the military medical treatment facility to meet the access standards under the TRICARE Prime program; and
       - **(ii)** the primary care utilization patterns of members and covered beneficiaries at such military medical treatment facility.
     - **(B)** The primary care clinic hours at a military medical treatment facility determined under subparagraph (A) shall include expanded hours beyond regular business hours during weekdays and the weekend if the Secretary determines under such subparagraph that sufficient demand exists at the military medical treatment facility for such expanded primary care clinic hours.
+
+Urgent Care
+
+Nurse Advice Line
+
+Primary Care Clinics
+
+“The Secretary of Defense shall implement—
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. A, title VII, § 704(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2200](https://www.govinfo.gov/link/statute/130/2200).)*

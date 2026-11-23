@@ -3,9 +3,10 @@ title: "Section 274 - Electronic publishing by Bell operating companies"
 usc_title: 47
 usc_section: "274"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 274"
-generated_at: "2026-03-30T02:56:24.503Z"
+generated_at: "2026-11-23T20:27:28.858Z"
+status: "active"
 ---
 
 # § 274. Electronic publishing by Bell operating companies
@@ -75,3 +76,7 @@ generated_at: "2026-03-30T02:56:24.503Z"
   - **(8)** The term “own” with respect to an entity means to have a direct or indirect equity interest (or the equivalent thereof) of more than 10 percent of an entity, or the right to more than 10 percent of the gross revenues of an entity under a revenue sharing or royalty agreement.
   - **(9)** The term “separated affiliate” means a corporation under common ownership or control with a Bell operating company that does not own or control a Bell operating company and is not owned or controlled by a Bell operating company and that engages in the provision of electronic publishing which is disseminated by means of such Bell operating company’s or any of its affiliates’ basic telephone service.
   - **(10)** The term “Bell operating company” has the meaning provided in section 153 of this title , except that such term includes any entity or corporation that is owned or controlled by such a company (as so defined) but does not include an electronic publishing joint venture owned by such an entity or corporation.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title II, § 274, as added [Pub. L. 104–104, title I, § 151(a)](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 100](https://www.govinfo.gov/link/statute/110/100).)*

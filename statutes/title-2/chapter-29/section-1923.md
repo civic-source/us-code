@@ -3,9 +3,10 @@ title: "Section 1923 - Unified schedules of rates of basic pay and leave system"
 usc_title: 2
 usc_section: "1923"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1923"
-generated_at: "2026-03-30T02:53:04.820Z"
+generated_at: "2026-11-23T20:25:28.994Z"
+status: "active"
 ---
 
 # § 1923. Unified schedules of rates of basic pay and leave system
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:53:04.820Z"
     - **(B)** elect to have the leave remain to the credit of such member or civilian employee until such member or civilian employee returns from active duty.
   - **(4)** The Capitol Police Board may prescribe regulations to carry out this subsection. No lump sum payment may be paid under this subsection until such regulations are approved by the Committee on Rules and Administration of the Senate and the Committee on House Oversight of the House of Representatives. All regulations approved under this subsection shall have the force and effect of law.
 - **(d)** Nothing in this section shall be construed to affect the appointing authority of any officer of the Senate or the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 105–55, title I, § 111](https://www.govinfo.gov/link/plaw/105/public/55), Oct. 7, 1997, [111 Stat. 1186](https://www.govinfo.gov/link/statute/111/1186).)*

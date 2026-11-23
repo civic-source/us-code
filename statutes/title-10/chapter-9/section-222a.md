@@ -3,9 +3,10 @@ title: "Section 222a - Unfunded priorities of the armed forces and combatant com
 usc_title: 10
 usc_section: "222a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 222a"
-generated_at: "2026-03-30T02:53:38.046Z"
+generated_at: "2026-11-23T20:25:50.876Z"
+status: "active"
 ---
 
 # § 222a. Unfunded priorities of the armed forces and combatant commands: annual report
@@ -54,3 +55,27 @@ generated_at: "2026-03-30T02:53:38.046Z"
   - **(2)** The term “covered military construction project”, in connection with a fiscal year, means a military construction project that—
     - **(A)** is included in any fiscal year of the future-years defense program under section 221 of this title that is submitted in connection with the budget of the President for the fiscal year, and is executable in the fiscal year; or
     - **(B)** is considered by the commander of a combatant command referred to in subsection (b)(5) to be an urgent need, and is executable in the fiscal year.
+
+Annual Report
+
+Officers
+
+Elements.—
+
+In general
+
+Prioritization of priorities
+
+National guard unfunded priorities.—
+
+In general
+
+Exception
+
+Prioritization
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. A, title X, § 1064(a)(1)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2408](https://www.govinfo.gov/link/statute/130/2408); amended [Pub. L. 116–92, div. A, title X, § 1005](https://www.govinfo.gov/link/plaw/116/public/92), title XVII, § 1731(a)(12), Dec. 20, 2019, [133 Stat. 1573](https://www.govinfo.gov/link/statute/133/1573), 1813; [Pub. L. 116–283, div. A, title IX, § 924(b)(10)](https://www.govinfo.gov/link/plaw/116/public/283), title X, §§ 1006, 1081(a)(12), Jan. 1, 2021, [134 Stat. 3823](https://www.govinfo.gov/link/statute/134/3823), 3838, 3871; [Pub. L. 117–263, div. A, title III, § 384(b)](https://www.govinfo.gov/link/plaw/117/public/263), title X, § 1051, Dec. 23, 2022, [136 Stat. 2544](https://www.govinfo.gov/link/statute/136/2544), 2775; [Pub. L. 118–31, div. A, title X, § 1003](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 379](https://www.govinfo.gov/link/statute/137/379); [Pub. L. 118–159, div. A, title XVII, § 1701(a)(5)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2203](https://www.govinfo.gov/link/statute/138/2203).)*

@@ -3,9 +3,10 @@ title: "Section 1607 - Critical minerals supply chains and reliability"
 usc_title: 30
 usc_section: "1607"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1607"
-generated_at: "2026-03-30T02:55:29.407Z"
+generated_at: "2026-11-23T20:26:35.056Z"
+status: "active"
 ---
 
 # § 1607. Critical minerals supply chains and reliability
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:55:29.407Z"
   - **(2)** using the performance metric developed under subsection (e), describes progress made by the Executive branch, as compared to the baseline developed pursuant to subsection (d)(3), in expediting the permitting of activities that will increase exploration for, and development of, domestic critical minerals; and
   - **(3)** compares the United States to other countries in terms of permitting efficiency and any other criteria relevant to the globally competitive critical minerals industry.
 - **(g)** Each year, using data contained in the reports submitted under subsection (f), the Director of the Office of Management and Budget shall prioritize inclusion of individual critical mineral projects on the website operated by the Office of Management and Budget in accordance with section 1122 of title 31 .
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title II, § 40206](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 961](https://www.govinfo.gov/link/statute/135/961).)*

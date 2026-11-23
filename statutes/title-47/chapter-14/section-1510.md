@@ -3,9 +3,10 @@ title: "Section 1510 - Wireless telecommunications tax and fee collection fairne
 usc_title: 47
 usc_section: "1510"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 1510"
-generated_at: "2026-03-30T02:56:24.536Z"
+generated_at: "2026-11-23T20:27:29.006Z"
+status: "active"
 ---
 
 # § 1510. Wireless telecommunications tax and fee collection fairness
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:24.536Z"
 - **(d)**
   - **(1)** Any person aggrieved by a violation of subsection (c) may bring a civil action in an appropriate district court of the United States for equitable relief in accordance with paragraph (2) of this subsection.
   - **(2)** Notwithstanding section 1341 of title 28 , or the constitution or laws of any State, the district courts of the United States shall have jurisdiction, without regard to the amount in controversy or citizenship of the parties, to grant such mandatory or prohibitive injunctive relief, interim equitable relief, and declaratory judgments as may be necessary to prevent, restrain, or terminate any acts in violation of subsection (c).
+
+## Source Credit
+
+*([Pub. L. 115–141, div. P, title VI, § 620](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1114](https://www.govinfo.gov/link/statute/132/1114).)*

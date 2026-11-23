@@ -3,9 +3,10 @@ title: "Section 3402 - Supplemental authorization of foreign military sales loan
 usc_title: 22
 usc_section: "3402"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3402"
-generated_at: "2026-03-30T02:55:05.394Z"
+generated_at: "2026-11-23T20:26:32.460Z"
+status: "active"
 ---
 
 # § 3402. Supplemental authorization of foreign military sales loan guaranties for Egypt and Israel
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.394Z"
 - **(e)**
   - **(1)** The Congress finds that the Governments of Israel and Egypt each have an enormous external debt burden which may be made more difficult by virtue of the financing authorized by this section. The Congress further finds that, as a consequence of the impact of the debt burdens incurred by Israel and Egypt under such financing, it may become necessary in future years to modify the terms of the loans guaranteed with funds made available pursuant to this section.
   - **(2)** Repealed. Pub. L. 97–113, title VII, § 734(a)(4) , Dec. 29, 1981 , 95 Stat. 1560 .
+
+## Source Credit
+
+*([Pub. L. 96–35, § 4](https://www.govinfo.gov/link/plaw/96/public/35), July 20, 1979, [93 Stat. 90](https://www.govinfo.gov/link/statute/93/90); [Pub. L. 97–113, title VII, § 734(a)(4)](https://www.govinfo.gov/link/plaw/97/public/113), Dec. 29, 1981, [95 Stat. 1560](https://www.govinfo.gov/link/statute/95/1560).)*

@@ -3,9 +3,10 @@ title: "Section 21721 - Establishment of best practices for local, State, and Fe
 usc_title: 34
 usc_section: "21721"
 chapter: 217
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 21721"
-generated_at: "2026-03-30T02:55:33.304Z"
+generated_at: "2026-11-23T20:26:50.622Z"
+status: "active"
 ---
 
 # § 21721. Establishment of best practices for local, State, and Federal data collection
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:33.304Z"
   - **(2)** provide technical assistance to State, local, and tribal governments in adopting the best practices established under paragraph (1).
 - **(b)** Not later than 1 year after October 18, 2017 , the Attorney General shall publish the best practices established under subsection (a)(1) on the website of the Department of Justice in a publicly accessible manner.
 - **(c)** Nothing in this section shall be construed to require or obligate compliance with the best practices established under subsection (a)(1).
+
+## Source Credit
+
+*([Pub. L. 115–70, title II, § 201](https://www.govinfo.gov/link/plaw/115/public/70), Oct. 18, 2017, [131 Stat. 1211](https://www.govinfo.gov/link/statute/131/1211).)*

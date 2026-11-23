@@ -3,9 +3,10 @@ title: "Section 30109 - Enforcement"
 usc_title: 52
 usc_section: "30109"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "52 U.S.C. § 30109"
-generated_at: "2026-03-30T02:56:30.170Z"
+generated_at: "2026-11-23T20:27:37.001Z"
+status: "active"
 ---
 
 # § 30109. Enforcement
@@ -71,3 +72,11 @@ generated_at: "2026-03-30T02:56:30.170Z"
     - **(A)** the specific act or failure to act which constitutes the violation for which the action was brought is the subject of a conciliation agreement entered into between the defendant and the Commission under subparagraph (a)(4)(A);
     - **(B)** the conciliation agreement is in effect; and
     - **(C)** the defendant is, with respect to the violation involved, in compliance with the conciliation agreement.
+
+“The amendment made by subsection (a) [amending this section] shall take effect on the earlier of—
+
+“The amendments made by this Act [amending this section] shall take effect on the earlier of—
+
+## Source Credit
+
+*([Pub. L. 92–225, title III, § 309](https://www.govinfo.gov/link/plaw/92/public/225), formerly § 314, as added [Pub. L. 93–443, title II, § 208(a)](https://www.govinfo.gov/link/plaw/93/public/443), Oct. 15, 1974, [88 Stat. 1284](https://www.govinfo.gov/link/statute/88/1284); renumbered § 313 and amended [Pub. L. 94–283, title I](https://www.govinfo.gov/link/plaw/94/public/283), §§ 105, 109, May 11, 1976, [90 Stat. 481](https://www.govinfo.gov/link/statute/90/481), 483; renumbered § 309 and amended [Pub. L. 96–187, title I](https://www.govinfo.gov/link/plaw/96/public/187), §§ 105(4), 108, Jan. 8, 1980, [93 Stat. 1354](https://www.govinfo.gov/link/statute/93/1354), 1358; [Pub. L. 98–620, title IV, § 402(1)(A)](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3357](https://www.govinfo.gov/link/statute/98/3357); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 106–58, title VI, § 640(a)](https://www.govinfo.gov/link/plaw/106/public/58), (b), Sept. 29, 1999, [113 Stat. 476](https://www.govinfo.gov/link/statute/113/476), 477; [Pub. L. 107–155, title III](https://www.govinfo.gov/link/plaw/107/public/155), §§ 312(a), 315(a), (b), Mar. 27, 2002, [116 Stat. 106](https://www.govinfo.gov/link/statute/116/106), 108; [Pub. L. 110–433, § 1(a)](https://www.govinfo.gov/link/plaw/110/public/433), Oct. 16, 2008, [122 Stat. 4971](https://www.govinfo.gov/link/statute/122/4971); [Pub. L. 113–72](https://www.govinfo.gov/link/plaw/113/public/72), §§ 1, 2, Dec. 26, 2013, [127 Stat. 1210](https://www.govinfo.gov/link/statute/127/1210); [Pub. L. 115–386, § 1(a)](https://www.govinfo.gov/link/plaw/115/public/386), Dec. 21, 2018, [132 Stat. 5161](https://www.govinfo.gov/link/statute/132/5161); [Pub. L. 118–26, § 1](https://www.govinfo.gov/link/plaw/118/public/26), Dec. 19, 2023, [137 Stat. 131](https://www.govinfo.gov/link/statute/137/131).)*

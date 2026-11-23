@@ -3,9 +3,10 @@ title: "Section 11 - Valles Caldera National Preserve, New Mexico"
 usc_title: 16
 usc_section: "11"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 11"
-generated_at: "2026-03-30T02:54:22.899Z"
+generated_at: "2026-11-23T20:26:20.240Z"
+status: "active"
 ---
 
 # § 698v–11. Valles Caldera National Preserve, New Mexico
@@ -142,3 +143,19 @@ generated_at: "2026-03-30T02:54:22.899Z"
     - **(B)** the Santa Fe National Forest (other than the modification made by subsection (c)(2));
     - **(C)** Bandelier National Monument; and
     - **(D)** any land conveyed to the Pueblo of Santa Clara.
+
+(aa) Budget Not later than 90 days after December 19, 2014 , the Secretary and the Trust shall prepare a budget for the interim management of the Preserve.
+
+(bb) Written concurrence required The Trust shall not incur any new liabilities not authorized in the budget prepared under item (aa) without the written concurrence of the Secretary.
+
+In general
+
+Status of land acquired
+
+Mineral estate
+
+Savings
+
+## Source Credit
+
+*([Pub. L. 113–291, div. B, title XXX, § 3043](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3792](https://www.govinfo.gov/link/statute/128/3792).)*

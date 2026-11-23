@@ -3,9 +3,10 @@ title: "Section 1807 - Technical assistance program"
 usc_title: 48
 usc_section: "1807"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1807"
-generated_at: "2026-03-30T02:56:14.593Z"
+generated_at: "2026-11-23T20:27:28.073Z"
+status: "active"
 ---
 
 # § 1807. Technical assistance program
@@ -18,3 +19,9 @@ generated_at: "2026-03-30T02:56:14.593Z"
     - **(A)** consult with the Government of the Commonwealth, local businesses, regional banks, educational institutions, and other experts in the economy of the Commonwealth; and
     - **(B)** assist in the development and implementation of a process to identify opportunities for and encourage diversification and growth of the economy of the Commonwealth and to identify and encourage opportunities to meet the labor needs of the Commonwealth.
   - **(3)** For the provision of technical assistance or support under this paragraph (other than that required to pay the salaries and expenses of Federal personnel), the Secretary of the Interior shall require a non-Federal matching contribution of 10 percent.
+
+“Not later than October 1, 2019 , and biennially thereafter, the Secretary of the Interior shall submit a report to Congress that describes the fulfillment of the Department of the Interior’s responsibilities to the Commonwealth of the Northern Mariana Islands—
+
+## Source Credit
+
+*([Pub. L. 110–229, title VII, § 702(e)](https://www.govinfo.gov/link/plaw/110/public/229), May 8, 2008, [122 Stat. 863](https://www.govinfo.gov/link/statute/122/863).)*

@@ -3,9 +3,10 @@ title: "Section 70205 - National multimodal cooperative freight research program
 usc_title: 49
 usc_section: "70205"
 chapter: 702
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 70205"
-generated_at: "2026-03-30T02:56:19.417Z"
+generated_at: "2026-11-23T20:27:35.438Z"
+status: "active"
 ---
 
 # § 70205. National multimodal cooperative freight research program
@@ -65,3 +66,49 @@ generated_at: "2026-03-30T02:56:19.417Z"
   - **(2)** In addition to using funds made available to carry out this section, the National Academy of Sciences may seek and accept additional funding from public and private entities capable of accepting funding from the Department of Transportation, States, units of local government, nonprofit entities, and the private sector.
 - **(f)** There is authorized to be appropriated to the Secretary $3,750,000 for each fiscal year to carry out the program established under subsection (a), to remain available until expended.
 - **(g)** The program established under subsection (a) shall terminate 5 years after the date of enactment of this section.
+
+Establishment
+
+Administration by National Academy of Sciences.—
+
+In general
+
+Advisory committee
+
+Activities.—
+
+National research agenda.—
+
+In general
+
+Action by interested parties
+
+Research contracts and grants.—
+
+In general
+
+Evaluation.—
+
+Peer review
+
+Programmatic evaluations
+
+Dissemination of findings
+
+Report
+
+Areas for Research
+
+Federal Share.—
+
+In general
+
+Use of non-federal funds
+
+Authorization of Appropriations
+
+Sunset
+
+## Source Credit
+
+*(Added [Pub. L. 117–58, div. B, title I, § 21204(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 677](https://www.govinfo.gov/link/statute/135/677).)*

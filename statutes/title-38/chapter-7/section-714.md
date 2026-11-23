@@ -3,9 +3,10 @@ title: "Section 714 - Employees: removal, demotion, or suspension based on perfo
 usc_title: 38
 usc_section: "714"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 714"
-generated_at: "2026-03-30T02:55:53.475Z"
+generated_at: "2026-11-23T20:27:01.580Z"
+status: "active"
 ---
 
 # § 714. Employees: removal, demotion, or suspension based on performance or misconduct
@@ -73,3 +74,23 @@ generated_at: "2026-03-30T02:55:53.475Z"
     - **(B)** a limited term appointee, limited emergency appointee, or noncareer appointee in the Senior Executive Service, as defined under paragraphs (5), (6), and (7), respectively, of section 3132(a) of title 5 ; or
     - **(C)** employed in a position of a confidential or policy-determining character under schedule C of subpart C of part 213 of title 5, Code of Federal Regulations, or successor regulation.
   - **(6)** The term “whistleblower disclosure” has the meaning given such term in section 323(g) of this title .
+
+In General
+
+Pay of Certain Demoted Individuals
+
+Procedure
+
+Expedited Review
+
+Whistleblower Protection
+
+Termination of Investigations by Office of Special Counsel
+
+Vacancies
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 115–41, title II, § 202(a)](https://www.govinfo.gov/link/plaw/115/public/41), June 23, 2017, [131 Stat. 869](https://www.govinfo.gov/link/statute/131/869); amended [Pub. L. 116–61, § 6(1)](https://www.govinfo.gov/link/plaw/116/public/61), Sept. 30, 2019, [133 Stat. 1116](https://www.govinfo.gov/link/statute/133/1116).)*

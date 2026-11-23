@@ -3,9 +3,10 @@ title: "Section 2005 - Facilities construction"
 usc_title: 25
 usc_section: "2005"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 2005"
-generated_at: "2026-03-30T02:54:52.832Z"
+generated_at: "2026-11-23T20:26:25.559Z"
+status: "active"
 ---
 
 # § 2005. Facilities construction
@@ -89,3 +90,7 @@ generated_at: "2026-03-30T02:54:52.832Z"
   - **(1)** Beginning with the first fiscal year following January 8, 2002 , all funds appropriated to the budget accounts for the operations and maintenance of Bureau-funded schools shall be distributed by formula to the schools. No funds from these accounts may be retained or segregated by the Bureau to pay for administrative or other costs of any facilities branch or office, at any level of the Bureau.
   - **(2)** No funds shall be withheld from the distribution to the budget of any school operated under contract or grant by the Bureau for maintenance or any other facilities or road-related purpose, unless such school has consented, as a modification to the contract or in writing for grants schools, to the withholding of such funds, including the amount thereof, the purpose for which the funds will be used, and the timeline for the services to be provided. The school may, at the end of any fiscal year, cancel an agreement under this paragraph upon giving the Bureau 30 days notice of its intent to do so.
 - **(g)** Nothing in this section shall diminish any Federal funding due to the receipt by the school of funding for facilities improvement or construction from a State or any other source.
+
+## Source Credit
+
+*([Pub. L. 95–561, title XI, § 1125](https://www.govinfo.gov/link/plaw/95/public/561), as added [Pub. L. 107–110, title X, § 1042](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2021](https://www.govinfo.gov/link/statute/115/2021); amended [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814).)*

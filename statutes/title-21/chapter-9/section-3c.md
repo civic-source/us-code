@@ -3,9 +3,10 @@ title: "Section 3c - Expedited development and review of medical products for em
 usc_title: 21
 usc_section: "3c"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 3c"
-generated_at: "2026-03-30T02:54:54.256Z"
+generated_at: "2026-11-23T20:26:27.671Z"
+status: "active"
 ---
 
 # § 360bbb–3c. Expedited development and review of medical products for emergency uses
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:54.256Z"
     - **(A)** the Food and Drug Administration shall meet with the Department of Defense and any other appropriate development partners, such as the Biomedical Advanced Research and Development Authority, on a semi-annual basis for the purposes of conducting a full review of the relevant products in the Department of Defense portfolio; and
     - **(B)** the Director of the Center for Biologics Evaluation and Research shall meet quarterly with the Department of Defense to discuss the development status of regenerative medicine advanced therapy, blood, and vaccine medical products and projects that are the highest priorities to the Department of Defense (which may include freeze dried plasma products and platelet alternatives),
   - **(4)** In this subsection, the term “medical product” means a drug (as defined in section 321 of this title ), a device (as defined in such section 321 of this title ), or a biological product (as defined in section 262 of title 42 ).
+
+## Source Credit
+
+*([Pub. L. 115–92, § 1(b)](https://www.govinfo.gov/link/plaw/115/public/92), Dec. 12, 2017, [131 Stat. 2023](https://www.govinfo.gov/link/statute/131/2023).)*

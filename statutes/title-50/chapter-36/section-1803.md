@@ -3,9 +3,10 @@ title: "Section 1803 - Designation of judges"
 usc_title: 50
 usc_section: "1803"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 1803"
-generated_at: "2026-03-30T02:56:26.208Z"
+generated_at: "2026-11-23T20:27:30.768Z"
+status: "active"
 ---
 
 # § 1803. Designation of judges
@@ -82,3 +83,13 @@ generated_at: "2026-03-30T02:56:26.208Z"
     - **(B)** that the Government should supply additional information in connection with such application; or
     - **(C)** that any requirements or conditions should be imposed on the Government for the approval of such application.
 - **(m)** An officer or employee of the United States Government who engages in intentional misconduct with respect to proceedings before the Foreign Intelligence Surveillance Court or the Foreign Intelligence Surveillance Court of Review shall be subject to appropriate adverse actions, including, at minimum, suspension without pay or removal, up to and including termination.
+
+Effective Date
+
+Sunset
+
+Authorizations in Effect
+
+## Source Credit
+
+*([Pub. L. 95–511, title I, § 103](https://www.govinfo.gov/link/plaw/95/public/511), Oct. 25, 1978, [92 Stat. 1788](https://www.govinfo.gov/link/statute/92/1788); [Pub. L. 107–56, title II, § 208](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 283](https://www.govinfo.gov/link/statute/115/283); [Pub. L. 108–458, title I, § 1071(e)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3691](https://www.govinfo.gov/link/statute/118/3691); [Pub. L. 109–177, title I](https://www.govinfo.gov/link/plaw/109/public/177), §§ 106(f)(1), 109(d), Mar. 9, 2006, [120 Stat. 197](https://www.govinfo.gov/link/statute/120/197), 205; [Pub. L. 110–55, § 5(a)](https://www.govinfo.gov/link/plaw/110/public/55), Aug. 5, 2007, [121 Stat. 556](https://www.govinfo.gov/link/statute/121/556); [Pub. L. 110–261, title I, § 109(a)](https://www.govinfo.gov/link/plaw/110/public/261) –(b)(2)(A), (c), (d), title IV, § 403(a)(1)(B)(ii), July 10, 2008, [122 Stat. 2464](https://www.govinfo.gov/link/statute/122/2464), 2465, 2474; [Pub. L. 111–259, title VIII](https://www.govinfo.gov/link/plaw/111/public/259), §§ 801(2), 806(a)(2), Oct. 7, 2010, [124 Stat. 2746](https://www.govinfo.gov/link/statute/124/2746), 2748; [Pub. L. 114–23, title IV, § 401](https://www.govinfo.gov/link/plaw/114/public/23), June 2, 2015, [129 Stat. 279](https://www.govinfo.gov/link/statute/129/279); [Pub. L. 115–118, title I](https://www.govinfo.gov/link/plaw/115/public/118), §§ 101(b)(2)(A), 106, title II, § 205(a)(1), (b)(1), Jan. 19, 2018, [132 Stat. 8](https://www.govinfo.gov/link/statute/132/8), 13, 21, 22; [Pub. L. 118–49](https://www.govinfo.gov/link/plaw/118/public/49), §§ 5(b), (c), 8(a), 17(a), Apr. 20, 2024, [138 Stat. 868](https://www.govinfo.gov/link/statute/138/868), 869, 874, 884.)*

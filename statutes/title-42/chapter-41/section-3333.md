@@ -3,12 +3,17 @@ title: "Section 3333 - Metropolitan expediters"
 usc_title: 42
 usc_section: "3333"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3333"
-generated_at: "2026-03-30T02:56:11.186Z"
+generated_at: "2026-11-23T20:27:22.276Z"
+status: "active"
 ---
 
 # § 3333. Metropolitan expediters
 
 Upon the request of the duly authorized local officials of the central city in any metropolitan area, and after consultation with local governmental authorities throughout the metropolitan area with respect to whether or not the Secretary should make an appointment under this section (and with respect to the individuals who might be so appointed), the Secretary may appoint a metropolitan expediter for such area whenever he finds a need for the services specified in this section. The metropolitan expediter shall provide information, data, and assistance to local authorities and private individuals and entities within the metropolitan area, and to all relevant Federal departments and agencies, with respect to all programs and activities conducted within such metropolitan area by the Department of Housing and Urban Development, and with respect to other public and private activities and needs within such metropolitan area which relate to the programs and activities of the Department.
 
+
+## Source Credit
+
+*([Pub. L. 89–754, title II, § 203](https://www.govinfo.gov/link/plaw/89/public/754), Nov. 3, 1966, [80 Stat. 1262](https://www.govinfo.gov/link/statute/80/1262).)*

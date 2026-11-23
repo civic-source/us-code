@@ -3,9 +3,10 @@ title: "Section 613 - Exemptions"
 usc_title: 22
 usc_section: "613"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 613"
-generated_at: "2026-03-30T02:55:05.328Z"
+generated_at: "2026-11-23T20:26:32.076Z"
+status: "active"
 ---
 
 # § 613. Exemptions
@@ -20,3 +21,7 @@ The requirements of section 612(a) of this title shall not apply to the followin
 - **(f)** Any person, or employee of such person, whose foreign principal is a government of a foreign country the defense of which the President deems vital to the defense of the United States while, (1) such person or employee engages only in activities which are in furtherance of the policies, public interest, or national defense both of such government and of the Government of the United States, and are not intended to conflict with any of the domestic or foreign policies of the Government of the United States, (2) each communication or expression by such person or employee which he intends to, or has reason to believe will, be published, disseminated, or circulated among any section of the public, or portion thereof, within the United States, is a part of such activities and is believed by such person to be truthful and accurate and the identity of such person as an agent of such foreign principal is disclosed therein, and (3) such government of a foreign country furnishes to the Secretary of State for transmittal to, and retention for the duration of this subchapter by, the Attorney General such information as to the identity and activities of such person or employee at such times as the Attorney General may require. Upon notice to the Government of which such person is an agent or to such person or employee, the Attorney General, having due regard for the public interest and national defense, may, with the approval of the Secretary of State, and shall, at the request of the Secretary of State, terminate in whole or in part the exemption herein of any such person or employee;
 - **(g)** Any person qualified to practice law, insofar as he engages or agrees to engage in the legal representation of a disclosed foreign principal before any court of law or any agency of the Government of the United States: Provided , That for the purposes of this subsection legal representation does not include attempts to influence or persuade agency personnel or officials other than in the course of judicial proceedings, criminal or civil law enforcement inquiries, investigations, or proceedings, or agency proceedings required by statute or regulation to be conducted on the record.
 - **(h)** Any agent of a person described in section 611(b)(2) of this title or an entity described in section 611(b)(3) of this title if the agent has engaged in lobbying activities and has registered under the Lobbying Disclosure Act of 1995 [ 2 U.S.C. 1601 et seq.] in connection with the agent’s representation of such person or entity.
+
+## Source Credit
+
+*(June 8, 1938, ch. 327, § 3, [52 Stat. 632](https://www.govinfo.gov/link/statute/52/632); Aug. 7, 1939, ch. 521, § 2, [53 Stat. 1245](https://www.govinfo.gov/link/statute/53/1245); Apr. 29, 1942, ch. 263, § 1, [56 Stat. 254](https://www.govinfo.gov/link/statute/56/254); [Pub. L. 87–366, § 2](https://www.govinfo.gov/link/plaw/87/public/366), Oct. 4, 1961, [75 Stat. 784](https://www.govinfo.gov/link/statute/75/784); [Pub. L. 89–486, § 3](https://www.govinfo.gov/link/plaw/89/public/486), July 4, 1966, [80 Stat. 246](https://www.govinfo.gov/link/statute/80/246); [Pub. L. 104–65, § 9(2)](https://www.govinfo.gov/link/plaw/104/public/65), (3), Dec. 19, 1995, [109 Stat. 700](https://www.govinfo.gov/link/statute/109/700); [Pub. L. 105–166, § 5](https://www.govinfo.gov/link/plaw/105/public/166), Apr. 6, 1998, [112 Stat. 39](https://www.govinfo.gov/link/statute/112/39).)*

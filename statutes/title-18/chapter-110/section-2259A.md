@@ -3,9 +3,10 @@ title: "Section 2259A - Assessments in child pornography cases"
 usc_title: 18
 usc_section: "2259A"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2259A"
-generated_at: "2026-03-30T02:54:16.499Z"
+generated_at: "2026-11-23T20:26:08.574Z"
+status: "active"
 ---
 
 # § 2259A. Assessments in child pornography cases
@@ -24,3 +25,19 @@ generated_at: "2026-03-30T02:54:16.499Z"
     - **(C)** An assessment under this section.
     - **(D)** Other orders under any other section of this title.
     - **(E)** All other fines, penalties, costs, and other payments required under the sentence.
+
+In General
+
+Annual Adjustment
+
+Factors Considered
+
+Imposition and Implementation.—
+
+In general
+
+Effect on other penalties
+
+## Source Credit
+
+*(Added [Pub. L. 115–299, § 5(a)](https://www.govinfo.gov/link/plaw/115/public/299), Dec. 7, 2018, [132 Stat. 4386](https://www.govinfo.gov/link/statute/132/4386).)*

@@ -3,9 +3,10 @@ title: "Section 9851 - Political activities"
 usc_title: 42
 usc_section: "9851"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9851"
-generated_at: "2026-03-30T02:56:11.372Z"
+generated_at: "2026-11-23T20:27:23.165Z"
+status: "active"
 ---
 
 # § 9851. Political activities
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.372Z"
     - **(B)** any activity to provide voters or prospective voters with transportation to the polls or similar assistance in connection with any such election.
   - **(2)** No funds appropriated under this subchapter may be used to conduct voter registration activities. Nothing in this subchapter prohibits the availability of Head Start facilities during hours of operation for the use of any nonpartisan organization to increase the number of eligible citizens who register to vote in elections for Federal office.
   - **(3)** The Secretary, after consultation with the Director of the Office of Personnel Management, may issue rules and regulations to provide for the enforcement of this section, which may include provisions for summary suspension of assistance or other action necessary to permit enforcement on an emergency basis.
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 656](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 508](https://www.govinfo.gov/link/statute/95/508); [Pub. L. 110–134, § 24](https://www.govinfo.gov/link/plaw/110/public/134), Dec. 12, 2007, [121 Stat. 1443](https://www.govinfo.gov/link/statute/121/1443).)*

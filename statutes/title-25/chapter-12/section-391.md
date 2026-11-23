@@ -3,12 +3,17 @@ title: "Section 391 - Continuance of restrictions on alienation in patent"
 usc_title: 25
 usc_section: "391"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 391"
-generated_at: "2026-03-30T02:54:52.806Z"
+generated_at: "2026-11-23T20:26:25.391Z"
+status: "active"
 ---
 
 # § 391. Continuance of restrictions on alienation in patent
 
 Prior to the expiration of the trust period of any Indian allottee to whom a trust or other patent containing restrictions upon alienation has been or shall be issued under any law or treaty the President may, in his discretion, continue such restrictions on alienation for such period as he may deem best: Provided, however , That this shall not apply to lands in the former Indian Territory.
 
+
+## Source Credit
+
+*(June 21, 1906, ch. 3504, [34 Stat. 326](https://www.govinfo.gov/link/statute/34/326).)*

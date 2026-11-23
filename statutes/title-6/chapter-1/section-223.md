@@ -3,9 +3,10 @@ title: "Section 223 - Border security metrics"
 usc_title: 6
 usc_section: "223"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 223"
-generated_at: "2026-03-30T02:53:09.452Z"
+generated_at: "2026-11-23T20:25:34.670Z"
+status: "active"
 ---
 
 # § 223. Border security metrics
@@ -142,3 +143,7 @@ generated_at: "2026-03-30T02:53:09.452Z"
   - **(4)**
     - **(A)** After submitting the tenth report to the Comptroller General under paragraph (1), the Secretary may reevaluate and update any of the metrics developed in accordance with this section to ensure that such metrics are suitable to measure the effectiveness of border security.
     - **(B)** Not later than 30 days before updating the metrics pursuant to subparagraph (A), the Secretary shall notify the appropriate congressional committees of such updates.
+
+## Source Credit
+
+*([Pub. L. 114–328, div. A, title X, § 1092](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2429](https://www.govinfo.gov/link/statute/130/2429).)*

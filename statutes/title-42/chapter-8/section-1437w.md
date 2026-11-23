@@ -3,9 +3,10 @@ title: "Section 1437w - Transfer of management of certain housing to independent
 usc_title: 42
 usc_section: "1437w"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1437w"
-generated_at: "2026-03-30T02:56:11.088Z"
+generated_at: "2026-11-23T20:27:21.753Z"
+status: "active"
 ---
 
 # § 1437w. Transfer of management of certain housing to independent manager at request of residents
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:56:11.088Z"
     - **(D)** has among its purposes significant activities related to the provision of decent housing that is affordable to low-income families.
   - **(5)** The term “public nonprofit organization” means any public entity that is nonprofit in character.
   - **(6)** The term “specified housing” means a public housing project or projects, or a portion of a project or projects, for which the transfer of management is requested under this section. The term includes one or more contiguous buildings and an area of contiguous row houses, but in the case of a single building, the building shall be sufficiently separable from the remainder of the project of which it is part to make transfer of the management of the building feasible for purposes of this section.
+
+## Source Credit
+
+*(Sept. 1, 1937, ch. 896, title I, § 25, as added [Pub. L. 105–276, title V, § 534](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2579](https://www.govinfo.gov/link/statute/112/2579).)*

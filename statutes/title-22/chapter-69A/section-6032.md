@@ -3,9 +3,10 @@ title: "Section 6032 - Enforcement of economic embargo of Cuba"
 usc_title: 22
 usc_section: "6032"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6032"
-generated_at: "2026-03-30T02:55:05.422Z"
+generated_at: "2026-11-23T20:26:32.587Z"
+status: "active"
 ---
 
 # § 6032. Enforcement of economic embargo of Cuba
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.422Z"
 - **(e)** It is the sense of the Congress that the President should instruct the Secretary of State and the Attorney General to enforce fully existing regulations to deny visas to Cuban nationals considered by the Secretary of State to be officers or employees of the Cuban Government or of the Communist Party of Cuba.
 - **(f)**
 - **(h)** The economic embargo of Cuba, as in effect on March 1, 1996 , including all restrictions under part 515 of title 31, Code of Federal Regulations, shall be in effect on March 12, 1996 , and shall remain in effect, subject to section 6064 of this title .
+
+## Source Credit
+
+*([Pub. L. 104–114, title I, § 102](https://www.govinfo.gov/link/plaw/104/public/114), Mar. 12, 1996, [110 Stat. 792](https://www.govinfo.gov/link/statute/110/792).)*

@@ -3,9 +3,10 @@ title: "Section 8722 - Proposed federal and district developments and projects"
 usc_title: 40
 usc_section: "8722"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 8722"
-generated_at: "2026-03-30T02:55:43.384Z"
+generated_at: "2026-11-23T20:26:56.650Z"
+status: "active"
 ---
 
 # § 8722. Proposed federal and district developments and projects
@@ -22,3 +23,83 @@ generated_at: "2026-03-30T02:55:43.384Z"
   - **(3)** In carrying out its planning functions with respect to federal developments or projects in the environs, the Commission may work with, and make agreements with, any state or local authority or planning agency as the Commission considers necessary to have a plan or proposal adopted and carried out.
 - **(d)** The provisions of the Act of June 20, 1938 (ch. 534, 52 Stat. 797 ) shall not apply to federal public buildings. In order to ensure the orderly development of the National Capital, the location, height, bulk, number of stories, and size of federal public buildings in the District of Columbia and the provision for open space in and around federal public buildings in the District of Columbia are subject to the approval of the Commission.
 - **(e)** Subsection (d) is extended to include public buildings erected by any agency of the Government of the District of Columbia in the central area of the District (as defined by concurrent action of the Commission and the Council of the District of Columbia), except that the Commission shall transmit its approval or disapproval within 30 days after the day the proposal was submitted to the Commission.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 8722(a) | 40:71d(e). | June 6, 1924, ch. 270, § 5 , as added July 19, 1952, ch. 949, § 1 , 66 Stat. 787 ; Pub. L. 93–198, title II, § 203(d) , Dec. 24, 1973 , 87 Stat. 782 . |
+| 8722(b)(1) | 40:71d(a) (1st sentence words before proviso, 2d–last sentences). |  |
+| 8722(b)(2)(A) | 40:71d(b). |  |
+| 8722(b)(2)(B) | 40:71d(a) (1st sentence proviso). |  |
+| 8722(c)(1), (2) | 40:71d(d). |  |
+| 8722(c)(3) | 40:71c(e) (last par.). | June 6, 1924, ch. 270, § 4(e) (last par.), as added July 19, 1952, ch. 949, § 1 , 66 Stat. 787 . |
+| 8722(d) | (uncodified). | June 20, 1938, ch. 534, § 16 , 52 Stat. 802 . |
+| 8722(e) | 40:71d(c). |  |
+
+
+Agencies To Use Commission as Central Planning Agency
+
+Consultation Between Agencies and Commission.—
+
+Before construction plans prepared
+
+Exceptions.—
+
+In general
+
+Advance decisions of commission
+
+Additional Procedure for Developments and Projects Within Environs.—
+
+Submission to commission
+
+Commission action
+
+Working with state or local authority or agency
+
+Approval of Federal Public Buildings
+
+Approval of District Government Buildings in Central Area
+
+Historical and Revision Notes
+
+8722(a)
+
+June 6, 1924, ch. 270, § 5
+
+July 19, 1952, ch. 949, § 1
+
+66 Stat. 787
+
+Pub. L. 93–198, title II, § 203(d)
+
+Dec. 24, 1973
+
+87 Stat. 782
+
+8722(b)(1)
+
+8722(b)(2)(A)
+
+8722(b)(2)(B)
+
+8722(c)(1), (2)
+
+8722(c)(3)
+
+June 6, 1924, ch. 270, § 4(e)
+
+July 19, 1952, ch. 949, § 1
+
+66 Stat. 787
+
+8722(d)
+
+June 20, 1938, ch. 534, § 16
+
+52 Stat. 802
+
+8722(e)
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1221](https://www.govinfo.gov/link/statute/116/1221); [Pub. L. 109–284, § 6(29)](https://www.govinfo.gov/link/plaw/109/public/284), Sept. 27, 2006, [120 Stat. 1213](https://www.govinfo.gov/link/statute/120/1213).)*

@@ -3,9 +3,10 @@ title: "Section 2492a - Limitation on Department of Defense entities competing w
 usc_title: 10
 usc_section: "2492a"
 chapter: 147
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2492a"
-generated_at: "2026-03-30T02:53:38.161Z"
+generated_at: "2026-11-23T20:25:51.602Z"
+status: "active"
 ---
 
 # § 2492a. Limitation on Department of Defense entities competing with private sector in offering personal information services
@@ -18,3 +19,13 @@ generated_at: "2026-03-30T02:53:38.161Z"
   - **(2)** the interests of the user population would be best served by allowing the Government to provide such services; or
   - **(3)** circumstances (as specified by the Secretary for purposes of this section) are such that the provision of such services by a Department entity is in the best interest of the Government or military users in general.
 - **(c)** In this section, the term “personal information services” means the provision of Internet, telephone, or television services to consumers.
+
+Limitation
+
+Exceptions
+
+Personal Information Services Defined
+
+## Source Credit
+
+*(Added [Pub. L. 111–84, div. A, title VI, § 651(a)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2368](https://www.govinfo.gov/link/statute/123/2368).)*

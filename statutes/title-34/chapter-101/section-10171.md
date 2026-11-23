@@ -3,9 +3,10 @@ title: "Section 10171 - Correctional options grants"
 usc_title: 34
 usc_section: "10171"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10171"
-generated_at: "2026-03-30T02:55:33.261Z"
+generated_at: "2026-11-23T20:26:50.438Z"
+status: "active"
 ---
 
 # § 10171. Correctional options grants
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:33.261Z"
   - **(1)** consider the overall quality of an applicant’s shock incarceration program, including the existence of substance abuse treatment, drug testing, counseling literacy education, vocational education, and job training programs during incarceration or after release; and
   - **(2)** give priority to public agencies that clearly demonstrate that the capacity of their correctional facilities is inadequate to accommodate the number of individuals who are convicted of offenses punishable by a term of imprisonment exceeding 1 year.
 - **(c)** The Director shall consult with the Commission on Alternative Utilization of Military Facilities created by Public Law 100–456 in order to identify military facilities that may be used as sites for correctional programs receiving assistance under this subpart.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 515](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 101–647, title XVIII, § 1801(a)(7)](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4847](https://www.govinfo.gov/link/statute/104/4847); amended [Pub. L. 103–322, title XXXIII, § 330001(b)(1)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2138](https://www.govinfo.gov/link/statute/108/2138); [Pub. L. 110–177, title III, § 302(a)](https://www.govinfo.gov/link/plaw/110/public/177), Jan. 7, 2008, [121 Stat. 2539](https://www.govinfo.gov/link/statute/121/2539).)*

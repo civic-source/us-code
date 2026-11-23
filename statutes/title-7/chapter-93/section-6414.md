@@ -3,9 +3,10 @@ title: "Section 6414 - Suspension or termination of orders"
 usc_title: 7
 usc_section: "6414"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6414"
-generated_at: "2026-03-30T02:53:42.430Z"
+generated_at: "2026-11-23T20:25:41.706Z"
+status: "active"
 ---
 
 # § 6414. Suspension or termination of orders
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:42.430Z"
     - **(A)** by at least 50 percent of fluid milk processors voting in the referendum; and
     - **(B)** by fluid milk processors voting in the referendum that marketed during a representative period, as determined by the Secretary, 40 percent or more of the volume of fluid milk products marketed by fluid milk processors voting in the referendum;
   - **(3)** Subsections (c) and (d) of section 6413 of this title shall apply to a referendum conducted under this subsection.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XIX, § 1999O](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3925](https://www.govinfo.gov/link/statute/104/3925); [Pub. L. 104–127, title I, § 146(d)(2)](https://www.govinfo.gov/link/plaw/104/public/127), (e), Apr. 4, 1996, [110 Stat. 919](https://www.govinfo.gov/link/statute/110/919); [Pub. L. 107–171, title I, § 1506(c)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 210](https://www.govinfo.gov/link/statute/116/210).)*

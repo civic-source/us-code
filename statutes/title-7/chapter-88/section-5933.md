@@ -3,9 +3,10 @@ title: "Section 5933 - Assistive technology program for farmers with disabilitie
 usc_title: 7
 usc_section: "5933"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 5933"
-generated_at: "2026-03-30T02:53:42.421Z"
+generated_at: "2026-11-23T20:25:41.672Z"
+status: "active"
 ---
 
 # § 5933. Assistive technology program for farmers with disabilities
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:53:42.421Z"
     - **(B)** $5,000,000 for each of fiscal years 2014 through 2023.
   - **(2)** Not more than 15 percent of the amounts made available under paragraph (1) and subsection (d) for a fiscal year shall be used to carry out subsection (b).
 - **(d)** Subject to subsection (c)(2), of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $8,000,000 for fiscal year 2026, to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XVI, § 1680](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3781](https://www.govinfo.gov/link/statute/104/3781); [Pub. L. 104–127, title VIII, § 841](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1170](https://www.govinfo.gov/link/statute/110/1170); [Pub. L. 105–185, title II, § 246](https://www.govinfo.gov/link/plaw/105/public/185), June 23, 1998, [112 Stat. 556](https://www.govinfo.gov/link/statute/112/556); [Pub. L. 107–171, title VII](https://www.govinfo.gov/link/plaw/107/public/171), §§ 7122, 7208(c), May 13, 2002, [116 Stat. 434](https://www.govinfo.gov/link/statute/116/434), 444; [Pub. L. 110–234, title VII, § 7210](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1241](https://www.govinfo.gov/link/statute/122/1241); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, § 7210, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2003; [Pub. L. 113–79, title VII, § 7216](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 887](https://www.govinfo.gov/link/statute/128/887); [Pub. L. 115–334, title VII, § 7214](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4814](https://www.govinfo.gov/link/statute/132/4814); [Pub. L. 119–21, title I, § 10604(d)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 109](https://www.govinfo.gov/link/statute/139/109).)*

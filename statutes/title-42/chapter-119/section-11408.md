@@ -3,9 +3,10 @@ title: "Section 11408 - Rural housing stability grant program"
 usc_title: 42
 usc_section: "11408"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11408"
-generated_at: "2026-03-30T02:56:11.401Z"
+generated_at: "2026-11-23T20:27:23.306Z"
+status: "active"
 ---
 
 # § 11408. Rural housing stability grant program
@@ -94,3 +95,7 @@ generated_at: "2026-03-30T02:56:11.401Z"
   - **(1)** The Secretary shall determine the total amount of funding attributable under section 11386a(b)(2) of this title to meet the needs of any geographic area in the Nation that applies for funding under this section. The Secretary shall transfer any amounts determined under this subsection from the Community Homeless Assistance Program and consolidate such transferred amounts for grants under this section, except that the Secretary shall transfer an amount not less than 5 percent of the amount available under part C for grants under this section. Any amounts so transferred and not used for grants under this section due to an insufficient number of applications shall be transferred to be used for grants under part C.
   - **(2)** Any amount paid to a grant recipient for a fiscal year that remains unobligated at the end of the year shall remain available to the recipient for the purposes for which the payment was made for the next fiscal year. The Secretary shall take such action as may be necessary to recover any amount not obligated by the recipient at the end of the second fiscal year, and shall redistribute the amount to another eligible organization.
 - **(m)** For any fiscal year, in addition to funds awarded under part B, funds under this subchapter to be used in a city or county shall only be awarded under either part C or part D.
+
+## Source Credit
+
+*([Pub. L. 100–77, title IV, § 491](https://www.govinfo.gov/link/plaw/100/public/77), as added [Pub. L. 102–550, title XIV, § 1408](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 4035](https://www.govinfo.gov/link/statute/106/4035); amended [Pub. L. 104–330, title V, § 506(a)(10)](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4045](https://www.govinfo.gov/link/statute/110/4045); [Pub. L. 111–22, div. B, title IV, § 1401(2)](https://www.govinfo.gov/link/plaw/111/public/22), May 20, 2009, [123 Stat. 1696](https://www.govinfo.gov/link/statute/123/1696).)*

@@ -3,9 +3,10 @@ title: "Section 17333 - United States trade missions to encourage private sector
 usc_title: 42
 usc_section: "17333"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17333"
-generated_at: "2026-03-30T02:56:11.504Z"
+generated_at: "2026-11-23T20:27:23.750Z"
+status: "active"
 ---
 
 # § 17333. United States trade missions to encourage private sector trade and investment
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.504Z"
   - **(2)** by creating reverse trade missions in which the Department of Commerce facilitates the meeting of foreign private and public sector organizations with private sector companies in the United States for the purpose of showcasing clean and efficient energy technologies in use or in development that could be exported to other countries.
 - **(b)** The Secretary of Commerce shall submit to the appropriate congressional committees an annual report on the implementation of this section for each of the fiscal years 2008 through 2012.
 - **(c)** To carry out this section, there are authorized to be appropriated to the Secretary of Commerce such sums as may be necessary for each of the fiscal years 2008 through 2012.
+
+## Source Credit
+
+*([Pub. L. 110–140, title IX, § 913](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1726](https://www.govinfo.gov/link/statute/121/1726).)*

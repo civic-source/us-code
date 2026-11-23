@@ -3,9 +3,10 @@ title: "Section 2413 - Consultation upon initiation of investigation"
 usc_title: 19
 usc_section: "2413"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2413"
-generated_at: "2026-03-30T02:54:24.673Z"
+generated_at: "2026-11-23T20:26:10.958Z"
+status: "active"
 ---
 
 # § 2413. Consultation upon initiation of investigation
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:24.673Z"
   - **(2)** The Trade Representative shall—
     - **(A)** publish notice of any delay under paragraph (1) in the Federal Register, and
     - **(B)** report to Congress on the reasons for such delay in the report required under section 2419(a)(3) of this title .
+
+## Source Credit
+
+*([Pub. L. 93–618, title III, § 303](https://www.govinfo.gov/link/plaw/93/public/618), as added [Pub. L. 96–39, title IX, § 901](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 297](https://www.govinfo.gov/link/statute/93/297); amended [Pub. L. 98–573, title III](https://www.govinfo.gov/link/plaw/98/public/573), §§ 304(d)(2)(B), (e), 306(c)(2)(C)(ii), Oct. 30, 1984, [98 Stat. 3004](https://www.govinfo.gov/link/statute/98/3004), 3005, 3012; [Pub. L. 100–418, title I, § 1301(a)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1170](https://www.govinfo.gov/link/statute/102/1170).)*

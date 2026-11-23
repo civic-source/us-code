@@ -3,9 +3,10 @@ title: "Section 350i - Protection against intentional adulteration"
 usc_title: 21
 usc_section: "350i"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 350i"
-generated_at: "2026-03-30T02:54:54.228Z"
+generated_at: "2026-11-23T20:26:27.549Z"
+status: "active"
 ---
 
 # § 350i. Protection against intentional adulteration
@@ -24,3 +25,13 @@ generated_at: "2026-03-30T02:54:54.228Z"
   - **(2)** in bulk or batch form, prior to being packaged for the final consumer.
 - **(d)** This section shall not apply to farms, except for those that produce milk.
 - **(e)** For purposes of this section, the term “farm” has the meaning given that term in section 1.227 of title 21, Code of Federal Regulations (or any successor regulation).
+
+In general
+
+Content
+
+Limited distribution
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 420, as added [Pub. L. 111–353, title I, § 106(a)](https://www.govinfo.gov/link/plaw/111/public/353), Jan. 4, 2011, [124 Stat. 3905](https://www.govinfo.gov/link/statute/124/3905).)*

@@ -3,9 +3,10 @@ title: "Section 664 - National asset database"
 usc_title: 6
 usc_section: "664"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 664"
-generated_at: "2026-03-30T02:53:09.477Z"
+generated_at: "2026-11-23T20:25:34.829Z"
+status: "active"
 ---
 
 # § 664. National asset database
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:53:09.477Z"
 - **(e)** The Secretary may establish a consortium to be known as the “National Infrastructure Protection Consortium”. The Consortium may advise the Secretary on the best way to identify, generate, organize, and maintain any database or list of systems and assets established by the Secretary, including the database established under subsection (a)(1) and the list established under subsection (a)(2). If the Secretary establishes the National Infrastructure Protection Consortium, the Consortium may—
   - **(1)** be composed of national laboratories, Federal agencies, State and local homeland security organizations, academic institutions, or national Centers of Excellence that have demonstrated experience working with and identifying critical infrastructure and key resources; and
   - **(2)** provide input to the Secretary on any request pertaining to the contents of such database or such list.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XXII, § 2214](https://www.govinfo.gov/link/plaw/107/public/296), formerly title II, § 210E, as added [Pub. L. 110–53, title X, § 1001(a)](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 372](https://www.govinfo.gov/link/statute/121/372); renumbered title XXII, § 2214, and amended [Pub. L. 115–278, § 2(g)(2)(G)](https://www.govinfo.gov/link/plaw/115/public/278), (9)(A)(viii), Nov. 16, 2018, [132 Stat. 4178](https://www.govinfo.gov/link/statute/132/4178), 4181; [Pub. L. 116–283, div. H, title XC, § 9002(c)(2)(E)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4773](https://www.govinfo.gov/link/statute/134/4773).)*

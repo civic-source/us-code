@@ -3,9 +3,10 @@ title: "Section 1508 - Recordkeeping"
 usc_title: 19
 usc_section: "1508"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1508"
-generated_at: "2026-03-30T02:54:24.638Z"
+generated_at: "2026-11-23T20:26:10.788Z"
+status: "active"
 ---
 
 # § 1508. Recordkeeping
@@ -109,3 +110,21 @@ generated_at: "2026-03-30T02:54:24.638Z"
 - **(l)** Any person who fails to retain records and supporting documents required by subsection (f), (g), (h), (i), (j), or (k) or the regulations issued to implement any such subsection shall be liable for the greater of—
   - **(1)** a civil penalty not to exceed $10,000; or
   - **(2)** the general record keeping penalty that applies under the customs laws of the United States.
+
+In general
+
+Applicability.—
+
+Exports
+
+Imports
+
+Transition from nafta treatment.—
+
+Exports
+
+Imports
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 508, as added [Pub. L. 95–410, title I, § 104](https://www.govinfo.gov/link/plaw/95/public/410), Oct. 3, 1978, [92 Stat. 889](https://www.govinfo.gov/link/statute/92/889); amended [Pub. L. 100–449, title II, § 205(b)](https://www.govinfo.gov/link/plaw/100/public/449), Sept. 28, 1988, [102 Stat. 1864](https://www.govinfo.gov/link/statute/102/1864); [Pub. L. 103–182, title II, § 205(a)](https://www.govinfo.gov/link/plaw/103/public/182), title VI, § 614, Dec. 8, 1993, [107 Stat. 2093](https://www.govinfo.gov/link/statute/107/2093), 2174; [Pub. L. 104–295, § 3(a)(6)(B)](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3515](https://www.govinfo.gov/link/statute/110/3515); [Pub. L. 108–77, title II](https://www.govinfo.gov/link/plaw/108/public/77), §§ 207, 209, Sept. 3, 2003, [117 Stat. 931](https://www.govinfo.gov/link/statute/117/931), 933; [Pub. L. 109–53, title II, § 208](https://www.govinfo.gov/link/plaw/109/public/53), Aug. 2, 2005, [119 Stat. 485](https://www.govinfo.gov/link/statute/119/485); [Pub. L. 110–138, title II, § 207](https://www.govinfo.gov/link/plaw/110/public/138), Dec. 14, 2007, [121 Stat. 1476](https://www.govinfo.gov/link/statute/121/1476); [Pub. L. 112–41, title II, § 206](https://www.govinfo.gov/link/plaw/112/public/41), Oct. 21, 2011, [125 Stat. 449](https://www.govinfo.gov/link/statute/125/449); [Pub. L. 112–42, title II, § 207](https://www.govinfo.gov/link/plaw/112/public/42), Oct. 21, 2011, [125 Stat. 484](https://www.govinfo.gov/link/statute/125/484); [Pub. L. 112–43, title II, § 207](https://www.govinfo.gov/link/plaw/112/public/43), Oct. 21, 2011, [125 Stat. 520](https://www.govinfo.gov/link/statute/125/520); [Pub. L. 114–125, title IX, § 906](https://www.govinfo.gov/link/plaw/114/public/125) (o), Feb. 24, 2016, [130 Stat. 233](https://www.govinfo.gov/link/statute/130/233); [Pub. L. 116–113, title II, § 206(a)](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 46](https://www.govinfo.gov/link/statute/134/46); [Pub. L. 116–260, div. O, title VI, § 601(d)(1)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2151](https://www.govinfo.gov/link/statute/134/2151).)*

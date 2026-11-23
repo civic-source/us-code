@@ -3,9 +3,10 @@ title: "Section 14322 - Rechargeable consumer products and labeling"
 usc_title: 42
 usc_section: "14322"
 chapter: 137
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 14322"
-generated_at: "2026-03-30T02:56:11.451Z"
+generated_at: "2026-11-23T20:27:23.529Z"
+status: "active"
 ---
 
 # § 14322. Rechargeable consumer products and labeling
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:56:11.451Z"
     - **(A)** posing a threat to human health, safety, or the environment; or
     - **(B)** violating requirements for approvals from governmental agencies or widely recognized private standard-setting organizations (including Underwriters Laboratories).
   - **(3)** A person granted an exemption under paragraph (2) may apply for a renewal of the exemption in accordance with the requirements and procedures described in paragraphs (1) and (2). The Administrator may grant a renewal of such an exemption for a period of not more than 2 years after the date of the granting of the renewal.
+
+## Source Credit
+
+*([Pub. L. 104–142, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/142), May 13, 1996, [110 Stat. 1332](https://www.govinfo.gov/link/statute/110/1332).)*

@@ -3,9 +3,10 @@ title: "Section 4305 - Collection and removal from Federal caves"
 usc_title: 16
 usc_section: "4305"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 4305"
-generated_at: "2026-03-30T02:54:23.042Z"
+generated_at: "2026-11-23T20:26:20.740Z"
+status: "active"
 ---
 
 # § 4305. Collection and removal from Federal caves
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:23.042Z"
   - **(2)** If the Secretary determines that issuance of a permit pursuant to this section may result in harm to, or destruction of, any religious or cultural site, the Secretary, prior to issuing such permit, shall notify any Indian tribe which may consider the site as having significant religious or cultural importance. Such notice shall not be deemed a disclosure to the public for purposes of section 4304 of this title .
   - **(3)** A permit shall not be required under this section for the collection or removal of any cave resource located on Indian lands or activities associated with such collection, by the Indian or Indian tribe owning or having jurisdiction over such lands.
 - **(e)** No action specifically authorized by a permit under this section shall be treated as a violation of section 4306 of this title .
+
+## Source Credit
+
+*([Pub. L. 100–691, § 6](https://www.govinfo.gov/link/plaw/100/public/691), Nov. 18, 1988, [102 Stat. 4548](https://www.govinfo.gov/link/statute/102/4548).)*

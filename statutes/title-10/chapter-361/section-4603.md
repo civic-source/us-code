@@ -3,9 +3,10 @@ title: "Section 4603 - Advance notification of contract performance outside the 
 usc_title: 10
 usc_section: "4603"
 chapter: 361
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 4603"
-generated_at: "2026-03-30T02:53:38.209Z"
+generated_at: "2026-11-23T20:25:51.959Z"
+status: "active"
 ---
 
 # § 4603. Advance notification of contract performance outside the United States
@@ -27,3 +28,15 @@ generated_at: "2026-03-30T02:53:38.209Z"
   - **(6)** Petroleum products and crudes.
   - **(7)** Timber.
   - **(8)** Subsistence.
+
+Notification
+
+Recipient of Notification
+
+Availability of Notifications
+
+Inapplicability to Certain Contracts
+
+## Source Credit
+
+*(Added [Pub. L. 102–484, div. A, title VIII, § 840(a)(1)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2466](https://www.govinfo.gov/link/statute/106/2466), § 2410g; amended [Pub. L. 104–106, div. D, title XLIII, § 4321(b)(16)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 673](https://www.govinfo.gov/link/statute/110/673); [Pub. L. 111–350, § 5(b)(30)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3845](https://www.govinfo.gov/link/statute/124/3845); [Pub. L. 115–232, div. A, title VIII, § 836(e)(7)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1870](https://www.govinfo.gov/link/statute/132/1870); renumbered § 4603 and amended [Pub. L. 116–283, div. A, title XVIII](https://www.govinfo.gov/link/plaw/116/public/283), §§ 1861(b), 1883(b)(2), Jan. 1, 2021, [134 Stat. 4277](https://www.govinfo.gov/link/statute/134/4277), 4294.)*

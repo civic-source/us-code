@@ -3,9 +3,10 @@ title: "Section 2164 - Petition and proceedings relating to petition"
 usc_title: 48
 usc_section: "2164"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 2164"
-generated_at: "2026-03-30T02:56:14.604Z"
+generated_at: "2026-11-23T20:27:28.202Z"
+status: "active"
 ---
 
 # § 2164. Petition and proceedings relating to petition
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:14.604Z"
 - **(g)** If the Oversight Board, on behalf of a debtor and one or more affiliates, has filed separate cases and the Oversight Board, on behalf of the debtor or one of the affiliates, files a motion to administer the cases jointly, the court may order a joint administration of the cases.
 - **(h)** This chapter may not be construed to permit the discharge of obligations arising under Federal police or regulatory laws, including laws relating to the environment, public health or safety, or territorial laws implementing such Federal legal provisions. This includes compliance obligations, requirements under consent decrees or judicial orders, and obligations to pay associated administrative, civil, or other penalties.
 - **(i)** Notwithstanding any provision in this subchapter to the contrary, including sections of title 11 incorporated by reference, nothing in this section shall prevent the holder of a claim from voting on or consenting to a proposed modification of such claim under subchapter VI of this chapter.
+
+## Source Credit
+
+*([Pub. L. 114–187, title III, § 304](https://www.govinfo.gov/link/plaw/114/public/187), June 30, 2016, [130 Stat. 579](https://www.govinfo.gov/link/statute/130/579).)*

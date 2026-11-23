@@ -3,9 +3,10 @@ title: "Section 3720E - Dissemination of information regarding identity of delin
 usc_title: 31
 usc_section: "3720E"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 3720E"
-generated_at: "2026-03-30T02:55:34.060Z"
+generated_at: "2026-11-23T20:26:51.809Z"
+status: "active"
 ---
 
 # § 3720E. Dissemination of information regarding identity of delinquent debtors
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:34.060Z"
     - **(A)** standards for disseminating information that maximize collections of delinquent nontax debts, by directing actions under this section toward delinquent debtors that have assets or income sufficient to pay their delinquent nontax debt;
     - **(B)** procedures and requirements that prevent dissemination of information under this section regarding persons who have not had an opportunity to verify, contest, and compromise their nontax debt in accordance with this subchapter; and
     - **(C)** procedures to ensure that persons are not incorrectly identified pursuant to this section.
+
+## Source Credit
+
+*(Added [Pub. L. 104–134, title III, § 31001(r)(1)](https://www.govinfo.gov/link/plaw/104/public/134), Apr. 26, 1996, [110 Stat. 1321–372](https://www.govinfo.gov/link/statute/110/1321).)*

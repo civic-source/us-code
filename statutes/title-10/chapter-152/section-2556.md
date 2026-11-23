@@ -3,9 +3,10 @@ title: "Section 2556 - Shelter for homeless; incidental services"
 usc_title: 10
 usc_section: "2556"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2556"
-generated_at: "2026-03-30T02:53:38.162Z"
+generated_at: "2026-11-23T20:25:51.608Z"
+status: "active"
 ---
 
 # § 2556. Shelter for homeless; incidental services
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:38.162Z"
 - **(c)** Shelter and incidental services may only be provided under this section to the extent that the Secretary concerned determines will not interfere with military preparedness or ongoing military functions.
 - **(d)** The Secretary concerned may provide bedding for support of shelters for the homeless that are operated by entities other than the Department of Defense. Bedding may be provided under this subsection without reimbursement, but may only be provided to the extent that the Secretary determines that the provision of such bedding will not interfere with military requirements.
 - **(e)** The Secretary of Defense shall prescribe regulations for the administration of this section.
+
+## Source Credit
+
+*(Added [Pub. L. 98–94, title III, § 305(a)(1)](https://www.govinfo.gov/link/plaw/98/public/94), Sept. 24, 1983, [97 Stat. 628](https://www.govinfo.gov/link/statute/97/628), § 2546; amended [Pub. L. 99–167, title VIII, § 825](https://www.govinfo.gov/link/plaw/99/public/167), Dec. 3, 1985, [99 Stat. 992](https://www.govinfo.gov/link/statute/99/992); renumbered § 2556, [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title X, § 1033(b)(1)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–260.)*

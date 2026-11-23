@@ -3,9 +3,10 @@ title: "Section 2344 - Review of orders; time; notice; contents of petition; ser
 usc_title: 28
 usc_section: "2344"
 chapter: 158
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 2344"
-generated_at: "2026-03-30T02:55:30.148Z"
+generated_at: "2026-11-23T20:26:36.514Z"
+status: "active"
 ---
 
 # § 2344. Review of orders; time; notice; contents of petition; service
@@ -16,3 +17,20 @@ On the entry of a final order reviewable under this chapter, the agency shall pr
   - **(2)** the facts on which venue is based;
   - **(3)** the grounds on which relief is sought; and
   - **(4)** the relief prayed.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 1034 . | Dec. 29, 1950, ch. 1189, § 4 , 64 Stat. 1130 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 1034
+
+Dec. 29, 1950, ch. 1189, § 4
+
+64 Stat. 1130
+
+## Source Credit
+
+*(Added [Pub. L. 89–554, § 4(e)](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 622](https://www.govinfo.gov/link/statute/80/622).)*

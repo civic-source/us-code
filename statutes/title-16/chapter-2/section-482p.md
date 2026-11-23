@@ -3,12 +3,17 @@ title: "Section 482p - Patents affecting lands within forest"
 usc_title: 16
 usc_section: "482p"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 482p"
-generated_at: "2026-03-30T02:54:22.858Z"
+generated_at: "2026-11-23T20:26:20.082Z"
+status: "active"
 ---
 
 # § 482p. Patents affecting lands within forest
 
 On and after July 12, 1951 , all patents issued under the United States mining laws affecting lands within the above-described area shall convey title to the mineral deposits within the claim, together with the right to cut and remove so much of the mature timber therefrom as may be needed in extracting and removing and beneficiation of the mineral deposits, if the timber is cut under sound principles of forest management as defined by such rules and regulations, but each patent shall reserve to the United States all title in or to the surface of the lands and products thereof, and no use of the surface of the claim or the resources therefrom not reasonably required for carrying on mining or prospecting shall be allowed except under the rules and regulations of the Department of Agriculture or the Department of the Interior, respectively.
 
+
+## Source Credit
+
+*(July 12, 1951, ch. 222, § 2, [65 Stat. 118](https://www.govinfo.gov/link/statute/65/118).)*

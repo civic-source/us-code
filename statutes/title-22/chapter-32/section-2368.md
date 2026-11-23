@@ -3,9 +3,10 @@ title: "Section 2368 - Assistance for a reconstruction and stabilization crisis"
 usc_title: 22
 usc_section: "2368"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2368"
-generated_at: "2026-03-30T02:55:05.360Z"
+generated_at: "2026-11-23T20:26:32.263Z"
+status: "active"
 ---
 
 # § 2368. Assistance for a reconstruction and stabilization crisis
@@ -15,3 +16,13 @@ generated_at: "2026-03-30T02:55:05.360Z"
   - **(2)** The funds referred to in paragraph (1) are funds made available under any other provision of this chapter, and transferred or reprogrammed for purposes of this section, and such transfer or reprogramming shall be subject to the procedures applicable to a notification under section 2394–1 of this title .
   - **(3)** Nothing in this section shall be construed to provide authority to transfer funds between accounts or between Federal departments or agencies.
 - **(b)** The authority contained in this section may be exercised only during fiscal years 2009, 2010, and 2011.
+
+“Congress finds the following:
+
+In General
+
+Contents
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. III, § 618, as added [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title XVI, § 1604, Oct. 14, 2008, [122 Stat. 4654](https://www.govinfo.gov/link/statute/122/4654).)*

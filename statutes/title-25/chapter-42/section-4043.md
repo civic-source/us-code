@@ -3,9 +3,10 @@ title: "Section 4043 - Authorities and functions of Special Trustee"
 usc_title: 25
 usc_section: "4043"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 4043"
-generated_at: "2026-03-30T02:54:52.857Z"
+generated_at: "2026-11-23T20:26:25.674Z"
+status: "active"
 ---
 
 # § 4043. Authorities and functions of Special Trustee
@@ -49,3 +50,49 @@ generated_at: "2026-03-30T02:54:52.857Z"
 - **(d)** The Special Trustee shall provide such guidance as necessary to assist Department personnel in identifying problems and options for resolving problems, and in implementing reforms to Department, Bureau, Bureau of Land Management, and Minerals Management Service policies, procedures, systems and practices.
 - **(e)** The Special Trustee, and his staff, shall have access to all records, reports, audits, reviews, documents, papers, recommendations, files and other material, as well as to any officer and employee, of the Department and any office or bureau thereof, as the Special Trustee deems necessary for the accomplishment of his duties under this chapter.
 - **(f)** The Special Trustee shall report to the Secretary and the Committee on Natural Resources of the House of Representatives and the Committee on Indian Affairs of the Senate each year on the progress of the Department, the Bureau, the Bureau of Land Management, and the Minerals Management Service in implementing the reforms identified in the comprehensive strategic plan under subsection (a)(1) and in meeting the timetable established in the strategic plan under subsection (a)(2)(C).
+
+Establishment
+
+Membership.—
+
+Appointment
+
+Qualifications.—
+
+Members of tribes
+
+Experience in land title matters
+
+Chairperson
+
+Vacancies
+
+Travel expenses
+
+Initial Meeting
+
+Duties
+
+Report
+
+Powers.—
+
+Hearings and sessions
+
+Staff of federal agencies
+
+Obtaining official data
+
+Mails
+
+Administrative support services
+
+Staff
+
+Authorization of Appropriations
+
+Termination
+
+## Source Credit
+
+*([Pub. L. 103–412, title III, § 303](https://www.govinfo.gov/link/plaw/103/public/412), Oct. 25, 1994, [108 Stat. 4245](https://www.govinfo.gov/link/statute/108/4245); [Pub. L. 104–109, § 6(a)](https://www.govinfo.gov/link/plaw/104/public/109), Feb. 12, 1996, [110 Stat. 764](https://www.govinfo.gov/link/statute/110/764).)*

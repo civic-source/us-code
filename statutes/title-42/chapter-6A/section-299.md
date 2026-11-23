@@ -3,9 +3,10 @@ title: "Section 299 - Mission and duties"
 usc_title: 42
 usc_section: "299"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 299"
-generated_at: "2026-03-30T02:56:10.784Z"
+generated_at: "2026-11-23T20:27:20.417Z"
+status: "active"
 ---
 
 # § 299. Mission and duties
@@ -34,3 +35,37 @@ generated_at: "2026-03-30T02:56:10.784Z"
       - **(vi)** individuals with special health care needs, including individuals with disabilities and individuals who need chronic care or end-of-life health care.
   - **(2)** The Director shall establish a process to ensure that the requirements of paragraph (1) are reflected in the overall portfolio of research conducted and supported by the Agency.
   - **(3)** The Director shall establish an Office of Priority Populations to assist in carrying out the requirements of paragraph (1).
+
+In general
+
+References
+
+Study
+
+Report
+
+Participation
+
+Identification.—
+
+In general
+
+Consultation
+
+In general
+
+Objectives.—
+
+Conduct of study.—
+
+Expert committee
+
+Completion
+
+Report
+
+Authorization of appropriations
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title IX, § 901, as added [Pub. L. 106–129, § 2(a)](https://www.govinfo.gov/link/plaw/106/public/129), Dec. 6, 1999, [113 Stat. 1653](https://www.govinfo.gov/link/statute/113/1653).)*

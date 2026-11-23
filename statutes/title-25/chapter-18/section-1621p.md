@@ -3,9 +3,10 @@ title: "Section 1621p - American Indians Into Psychology Program"
 usc_title: 25
 usc_section: "1621p"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1621p"
-generated_at: "2026-03-30T02:54:52.821Z"
+generated_at: "2026-11-23T20:26:25.489Z"
+status: "active"
 ---
 
 # § 1621p. American Indians Into Psychology Program
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:52.821Z"
   - **(2)** in a program assisted under subchapter IV; or
   - **(3)** in the private practice of psychology if, as determined by the Secretary, in accordance with guidelines promulgated by the Secretary, such practice is situated in a physician or other health professional shortage area and addresses the health care needs of a substantial number of Indians.
 - **(f)** There is authorized to be appropriated to carry out this section $2,700,000 for fiscal year 2010 and each fiscal year thereafter.
+
+## Source Credit
+
+*([Pub. L. 94–437, title II, § 217](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 102–573, title II, § 213](https://www.govinfo.gov/link/plaw/102/public/573), Oct. 29, 1992, [106 Stat. 4555](https://www.govinfo.gov/link/statute/106/4555); amended [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

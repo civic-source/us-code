@@ -3,9 +3,10 @@ title: "Section 860c - Art. 60c. Entry of judgment"
 usc_title: 10
 usc_section: "860c"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 860c"
-generated_at: "2026-03-30T02:53:38.082Z"
+generated_at: "2026-11-23T20:25:51.087Z"
+status: "active"
 ---
 
 # § 860c. Art. 60c. Entry of judgment
@@ -20,3 +21,11 @@ generated_at: "2026-03-30T02:53:38.082Z"
     - **(A)** provided to the accused and to any victim of the offense; and
     - **(B)** made available to the public.
 - **(b)** The findings and sentence of a summary court-martial, as modified by any post-trial action by the convening authority under section 860b of this title (article 60b), constitutes the judgment of the court-martial and shall be recorded and distributed under rules prescribed by the President.
+
+Entry of Judgment of General or Special Court-martial
+
+Summary Court-martial Judgment
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. E, title LIX, § 5324](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2927](https://www.govinfo.gov/link/statute/130/2927).)*

@@ -3,9 +3,10 @@ title: "Section 4531 - Rules of origin"
 usc_title: 19
 usc_section: "4531"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 4531"
-generated_at: "2026-03-30T02:54:24.710Z"
+generated_at: "2026-11-23T20:26:11.159Z"
+status: "active"
 ---
 
 # § 4531. Rules of origin
@@ -232,3 +233,28 @@ generated_at: "2026-03-30T02:54:24.710Z"
     - **(A)** take effect on the date on which the USMCA enters into force; and
     - **(B)** apply with respect to a good entered for consumption, or withdrawn from warehouse for consumption, on or after that date.
   - **(2)** Section 202 of the North American Free Trade Agreement Implementation Act ( 19 U.S.C. 3332 ), 2 2 See References in Text note below. as in effect on the day before the date on which the USMCA enters into force, shall continue to apply on and after that date with respect to a good entered for consumption, or withdrawn from warehouse for consumption, before that date.
+
+| rvc | = | tv–vnm | × | 100 |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+
+| rvc | = | nc–vnm | × | 100 |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+
+
+rvc
+
+tv–vnm
+
+tv
+
+rvc
+
+nc–vnm
+
+nc
+
+## Source Credit
+
+*([Pub. L. 116–113, title II, § 202](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 20](https://www.govinfo.gov/link/statute/134/20); [Pub. L. 116–260, div. O, title VI, § 601(b)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2150](https://www.govinfo.gov/link/statute/134/2150).)*

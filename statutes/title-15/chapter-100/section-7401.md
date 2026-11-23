@@ -3,9 +3,10 @@ title: "Section 7401 - Findings"
 usc_title: 15
 usc_section: "7401"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 7401"
-generated_at: "2026-03-30T02:54:08.221Z"
+generated_at: "2026-11-23T20:26:04.450Z"
+status: "active"
 ---
 
 # § 7401. Findings
@@ -24,3 +25,7 @@ The Congress finds the following:
     - **(B)** expand and improve the pool of information security professionals, including researchers, in the United States workforce; and
     - **(C)** better coordinate information sharing and collaboration among industry, government, and academic research projects.
   - **(6)** While African-Americans, Hispanics, and Native Americans constitute 25 percent of the total United States workforce and 30 percent of the college-age population, members of these minorities comprise less than 7 percent of the United States computer and information science workforce.
+
+## Source Credit
+
+*([Pub. L. 107–305, § 2](https://www.govinfo.gov/link/plaw/107/public/305), Nov. 27, 2002, [116 Stat. 2367](https://www.govinfo.gov/link/statute/116/2367).)*

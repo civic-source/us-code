@@ -3,9 +3,10 @@ title: "Section 4325 - Major weapon systems: assessment, management, and control
 usc_title: 10
 usc_section: "4325"
 chapter: 323
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 4325"
-generated_at: "2026-03-30T02:53:38.206Z"
+generated_at: "2026-11-23T20:25:51.943Z"
+status: "active"
 ---
 
 # § 4325. Major weapon systems: assessment, management, and control of operating and support costs
@@ -25,3 +26,19 @@ generated_at: "2026-03-30T02:53:38.206Z"
   - **(9)** prior to the Milestone B approval (or equivalent approval) for a major weapon system, require the Secretary concerned to ensure the completion of an intellectual property management plan for product support required under section 4324(b)(1)(D) of this title ; and
   - **(10)** require each Secretary of a military department to create and retain an independent cost estimate for the remainder of the life cycle of the covered weapon system every five years.
 - **(c)** In this section, the term “major weapon system” has the meaning given that term in section 101(a) of this title .
+
+Guidance Required
+
+Elements
+
+Major Weapon System Defined
+
+In general
+
+Support
+
+Coordination
+
+## Source Credit
+
+*(Added [Pub. L. 115–91, div. A, title VIII, § 836(a)(1)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1472](https://www.govinfo.gov/link/statute/131/1472), § 2337a; amended [Pub. L. 115–232, div. A, title X, § 1081(a)(20)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1984](https://www.govinfo.gov/link/statute/132/1984); renumbered § 4325 and amended [Pub. L. 116–283, div. A, title XVIII, § 1848(d)(1)](https://www.govinfo.gov/link/plaw/116/public/283), (3), Jan. 1, 2021, [134 Stat. 4258](https://www.govinfo.gov/link/statute/134/4258); [Pub. L. 119–60, div. A, title VIII, § 811(c)(2)(C)](https://www.govinfo.gov/link/plaw/119/public/60), title XVIII, § 1803(e), Dec. 18, 2025, [139 Stat. 950](https://www.govinfo.gov/link/statute/139/950), 1233.)*

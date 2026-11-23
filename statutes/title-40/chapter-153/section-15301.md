@@ -3,9 +3,10 @@ title: "Section 15301 - Establishment, membership, and employees"
 usc_title: 40
 usc_section: "15301"
 chapter: 153
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 15301"
-generated_at: "2026-03-30T02:55:43.388Z"
+generated_at: "2026-11-23T20:26:56.699Z"
+status: "active"
 ---
 
 # § 15301. Establishment, membership, and employees
@@ -40,3 +41,47 @@ generated_at: "2026-03-30T02:55:43.388Z"
   - **(2)** The executive director shall be responsible for carrying out the administrative duties of the Commission, directing the Commission staff, and such other duties as the Commission may assign.
 - **(e)** No member, alternate, officer, or employee of a Commission (other than the Federal Cochairperson, the alternate Federal Cochairperson, staff of the Federal Cochairperson, and any Federal employee detailed to the Commission) shall be considered to be a Federal employee for any purpose.
 - **(f)** Subject to the time limitations under section 3346 of title 5 , the Federal Cochairperson may designate an employee of the Commission to perform the functions and duties of the office of the Federal Cochairperson temporarily in an acting capacity if both the Federal Cochairperson and the alternate Federal Cochairperson die, resign, or otherwise are unable to perform the functions and duties of their offices.
+
+Establishment
+
+Membership.—
+
+Federal and state members
+
+Alternate members.—
+
+Alternate federal cochairperson
+
+State alternates
+
+Voting.—
+
+In general
+
+State alternates
+
+Cochairpersons
+
+Consecutive terms
+
+Compensation.—
+
+Federal cochairpersons
+
+Alternate federal cochairpersons
+
+State members and alternates
+
+Executive Director and Staff.—
+
+In general
+
+Executive director
+
+No Federal Employee Status
+
+Succession
+
+## Source Credit
+
+*(Added [Pub. L. 110–234, title XIV, § 14217(a)(2)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1469](https://www.govinfo.gov/link/statute/122/1469), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIV, § 14217(a)(2), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2231; amended [Pub. L. 115–334, title VI, § 6304(f)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4752](https://www.govinfo.gov/link/statute/132/4752); [Pub. L. 117–328, div. O, title IV, § 401(a)(1)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5228](https://www.govinfo.gov/link/statute/136/5228); [Pub. L. 118–272, div. B, title II](https://www.govinfo.gov/link/plaw/118/public/272), §§ 2242(a), 2249(a), 2250(a), Jan. 4, 2025, [138 Stat. 3202](https://www.govinfo.gov/link/statute/138/3202), 3209.)*

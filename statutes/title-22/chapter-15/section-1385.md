@@ -3,12 +3,17 @@ title: "Section 1385 - Ownership of naval reservations, diplomatic property, etc
 usc_title: 22
 usc_section: "1385"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 1385"
-generated_at: "2026-03-30T02:55:05.331Z"
+generated_at: "2026-11-23T20:26:32.098Z"
+status: "active"
 ---
 
 # § 1385. Ownership of naval reservations, diplomatic property, etc., unaffected
 
 Nothing contained in this subchapter shall be construed as amending the provisions of the Act of March 24, 1934 ( 48 Stat. 456 ), as amended, respecting naval reservations and fueling stations, and diplomatic or consular property, and the property of the High Commissioner to the Philippine Islands, nor as amending the provisions of section 1392 of this title , respecting bases for the mutual protection of the Philippine Islands and the United States.
 
+
+## Source Credit
+
+*(July 3, 1946, ch. 536, § 6, [60 Stat. 419](https://www.govinfo.gov/link/statute/60/419).)*

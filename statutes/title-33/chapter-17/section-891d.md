@@ -3,9 +3,10 @@ title: "Section 891d - Contract authority"
 usc_title: 33
 usc_section: "891d"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 891d"
-generated_at: "2026-03-30T02:55:41.074Z"
+generated_at: "2026-11-23T20:26:53.924Z"
+status: "active"
 ---
 
 # § 891d. Contract authority
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:41.074Z"
     - **(A)** the cost of the contract is less than the cost (including the cost of operation, maintenance, and personnel) to the NOAA of obtaining those services on NOAA vessels; or
     - **(B)** NOAA vessels are not available or cannot provide those services.
 - **(c)** Notwithstanding any other law, the Secretary may not require a contractor for the construction, alteration, repair or maintenance of a NOAA vessel to provide a bid bond, payment bond, performance bond, completion bond, or other surety instrument in an amount greater than 20 percent of the value of the base contract quantity (excluding options) unless the Secretary determines that requiring an instrument in that amount will not prevent a responsible bidder or offeror from competing for the award of the contract.
+
+## Source Credit
+
+*([Pub. L. 102–567, title VI, § 606](https://www.govinfo.gov/link/plaw/102/public/567), Oct. 29, 1992, [106 Stat. 4301](https://www.govinfo.gov/link/statute/106/4301).)*

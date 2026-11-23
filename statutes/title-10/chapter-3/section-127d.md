@@ -3,9 +3,10 @@ title: "Section 127d - Support of special operations for irregular warfare"
 usc_title: 10
 usc_section: "127d"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 127d"
-generated_at: "2026-03-30T02:53:38.033Z"
+generated_at: "2026-11-23T20:25:50.815Z"
+status: "active"
 ---
 
 # § 127d. Support of special operations for irregular warfare
@@ -71,3 +72,59 @@ generated_at: "2026-03-30T02:53:38.033Z"
     - **(C)** An overview of irregular warfare-related interagency activities and initiatives.
     - **(D)** A description of emerging combatant command requirements for the use of the authority provided by this section.
 - **(k)** Subject to subsection (d), in this section, the term “irregular warfare” means Department of Defense activities not involving armed conflict that support predetermined United States policy and military objectives conducted by, with, and through regular forces, irregular forces, groups, and individuals.
+
+Authority
+
+Funds
+
+Procedures.—
+
+In general
+
+Elements
+
+Notice to congress on procedures and material modifications
+
+Construction of Authority
+
+Limitation on Delegation
+
+Programmatic and Policy Oversight
+
+Notification.—
+
+In general
+
+Elements
+
+Notification of Suspension or Termination of Support.—
+
+In general
+
+Elements
+
+Biannual Reports.—
+
+Report on preceding fiscal year
+
+Report on current calendar year
+
+Elements
+
+Quarterly Briefings.—
+
+In general
+
+Elements
+
+Irregular Warfare Defined
+
+In General
+
+Authorities
+
+National Security Forces Defined
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title XII, § 1201(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 437](https://www.govinfo.gov/link/statute/137/437).)*

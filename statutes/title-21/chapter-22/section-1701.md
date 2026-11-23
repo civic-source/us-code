@@ -3,9 +3,10 @@ title: "Section 1701 - Definitions"
 usc_title: 21
 usc_section: "1701"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 1701"
-generated_at: "2026-03-30T02:54:54.304Z"
+generated_at: "2026-11-23T20:26:27.885Z"
+status: "active"
 ---
 
 # § 1701. Definitions
@@ -60,3 +61,17 @@ In this chapter:
     - **(F)** activities to facilitate and enhance the sharing of domestic and foreign intelligence information among National Drug Control Program agencies, relating to the production and trafficking of drugs in the United States and in foreign countries;
     - **(G)** activities to prevent the diversion of drugs for their illicit use; and
     - **(H)** research related to any of the activities described in this paragraph.
+
+In general
+
+Laws described
+
+Section
+
+Sec
+
+Sec
+
+## Source Credit
+
+*([Pub. L. 105–277, div. C, title VII](https://www.govinfo.gov/link/plaw/105/public/277), §§ 702, 715, Oct. 21, 1998, [112 Stat. 2681–670](https://www.govinfo.gov/link/statute/112/2681), 2681–693; [Pub. L. 109–469, title I, § 101](https://www.govinfo.gov/link/plaw/109/public/469), title VI, § 602, Dec. 29, 2006, [120 Stat. 3503](https://www.govinfo.gov/link/statute/120/3503), 3533; [Pub. L. 115–271, title VIII](https://www.govinfo.gov/link/plaw/115/public/271), §§ 8202(a), (b)(2), 8216, Oct. 24, 2018, [132 Stat. 4110](https://www.govinfo.gov/link/statute/132/4110), 4117; [Pub. L. 116–74, § 2(a)(1)](https://www.govinfo.gov/link/plaw/116/public/74), (3), Nov. 27, 2019, [133 Stat. 1155](https://www.govinfo.gov/link/statute/133/1155).)*

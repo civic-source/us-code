@@ -3,9 +3,10 @@ title: "Section 40502 - Eligibility"
 usc_title: 34
 usc_section: "40502"
 chapter: 405
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 40502"
-generated_at: "2026-03-30T02:55:33.309Z"
+generated_at: "2026-11-23T20:26:50.643Z"
+status: "active"
 ---
 
 # § 40502. Eligibility
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:33.309Z"
 - **(c)**
   - **(1)** Any suspected biological family DNA reference samples received from citizens of the United States or foreign nationals and uploaded into the Combined DNA Index System (commonly referred to as “CODIS”) by an accredited, publicly funded CODIS forensic laboratory awarded a grant under this section may be used only for identifying missing persons and unidentified remains.
   - **(2)** Any biological family DNA reference samples from citizens of the United States or foreign nationals entered into CODIS for purposes of identifying missing persons and unidentified remains may not be disclosed to a Federal or State law enforcement agency for law enforcement purposes.
+
+## Source Credit
+
+*([Pub. L. 106–177, title II, § 203](https://www.govinfo.gov/link/plaw/106/public/177), Mar. 10, 2000, [114 Stat. 36](https://www.govinfo.gov/link/statute/114/36); [Pub. L. 116–277, § 2(a)(2)](https://www.govinfo.gov/link/plaw/116/public/277), Dec. 31, 2020, [134 Stat. 3369](https://www.govinfo.gov/link/statute/134/3369).)*

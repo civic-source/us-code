@@ -3,9 +3,10 @@ title: "Section 5538 - Net Expenses of Telecommunications Revolving Fund"
 usc_title: 2
 usc_section: "5538"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 5538"
-generated_at: "2026-03-30T02:53:04.837Z"
+generated_at: "2026-11-23T20:25:29.063Z"
+status: "active"
 ---
 
 # § 5538. Net Expenses of Telecommunications Revolving Fund
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:04.837Z"
 - **(c)** The Revolving Fund shall be treated as a category of allowances and expenses for purposes of section 5507(a) of this title .
 - **(d)**
 - **(f)** This section and the amendments made by this section shall apply with respect to fiscal year 2005 and each succeeding fiscal year, except that for purposes of making deposits into the Revolving Fund under subsection (a), the Chief Administrative Officer may deposit amounts provided by legislative branch offices during fiscal year 2004 or any succeeding fiscal year.
+
+## Source Credit
+
+*([Pub. L. 108–447, div. G, title I, § 102](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3174](https://www.govinfo.gov/link/statute/118/3174).)*

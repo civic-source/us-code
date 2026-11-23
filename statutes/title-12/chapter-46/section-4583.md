@@ -3,9 +3,10 @@ title: "Section 4583 - Judicial review"
 usc_title: 12
 usc_section: "4583"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4583"
-generated_at: "2026-03-30T02:53:53.510Z"
+generated_at: "2026-11-23T20:25:59.401Z"
+status: "active"
 ---
 
 # § 4583. Judicial review
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:53.510Z"
 - **(d)** Review of such proceedings shall be governed by chapter 7 of title 5.
 - **(e)** Such court shall have the authority in any such review to order payment of any penalty imposed by the Director under this subpart.
 - **(f)** The commencement of proceedings for judicial review under this section shall not, unless specifically ordered by the court, operate as a stay of any order issued by the Director.
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1343](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3966](https://www.govinfo.gov/link/statute/106/3966); [Pub. L. 110–289, div. A, title I, § 1130(e)(3)(B)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2711](https://www.govinfo.gov/link/statute/122/2711).)*

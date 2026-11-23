@@ -3,9 +3,10 @@ title: "Section 1 - Sale or lease to State or nonprofit organization; reservatio
 usc_title: 43
 usc_section: "1"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1"
-generated_at: "2026-03-30T02:55:57.463Z"
+generated_at: "2026-11-23T20:27:06.257Z"
+status: "active"
 ---
 
 # § 869–1. Sale or lease to State or nonprofit organization; reservation of mineral deposits; termination of lease for nonuse
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:57.463Z"
 - **(c)** sell such land to a nonprofit corporation or nonprofit association, for the purpose for which the land has been classified, at a price to be fixed by the Secretary of the Interior through appraisal, after taking into consideration the purpose for which the lands are to be used, or
 - **(d)** lease such land to a nonprofit corporation or nonprofit association at a reasonable annual rental, for a period up to twenty years, and, at the discretion of the Secretary, with a privilege of renewal for a like period. Each patent or lease so issued shall contain a reservation to the United States of all mineral deposits in the lands conveyed or leased and of the right to mine and remove the same, under applicable laws and regulations to be established by the Secretary. Each lease shall contain a provision for its termination upon a finding by the Secretary that the land has not been used by the lessee for the purpose specified in the lease for such period, not over five years, as may be specified in the lease, or that such land or any part thereof is being devoted to another use.
 
+
+## Source Credit
+
+*(June 14, 1926, ch. 578, § 2, as added June 4, 1954, ch. 263, [68 Stat. 174](https://www.govinfo.gov/link/statute/68/174); amended [Pub. L. 89–457, § 1](https://www.govinfo.gov/link/plaw/89/public/457), June 20, 1966, [80 Stat. 210](https://www.govinfo.gov/link/statute/80/210); [Pub. L. 94–579, title II, § 212(c)](https://www.govinfo.gov/link/plaw/94/public/579), (d), Oct. 21, 1976, [90 Stat. 2760](https://www.govinfo.gov/link/statute/90/2760); [Pub. L. 117–328, div. DD, title I, § 104(b)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5581](https://www.govinfo.gov/link/statute/136/5581).)*

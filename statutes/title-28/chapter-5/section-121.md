@@ -3,9 +3,10 @@ title: "Section 121 - South Carolina"
 usc_title: 28
 usc_section: "121"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 121"
-generated_at: "2026-03-30T02:55:30.123Z"
+generated_at: "2026-11-23T20:26:36.289Z"
+status: "active"
 ---
 
 # § 121. South Carolina
@@ -23,3 +24,13 @@ South Carolina constitutes one judicial district comprising eleven divisions.
   - **(9)** The Anderson Division comprises the counties of Anderson, Oconee, and Pickens. Court for the Anderson Division shall be held at Anderson.
   - **(10)** The Spartanburg Division comprises the counties of Cherokee, Spartanburg, and Union. Court for the Spartanburg Division shall be held at Spartanburg.
   - **(11)** The Beaufort Division comprises the counties of Beaufort, Hampton, and Jasper. Court for the Beaufort Division shall be held at Beaufort.
+
+Effective Date
+
+Pending Actions
+
+Juries
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 889](https://www.govinfo.gov/link/statute/62/889); [Pub. L. 89–242, § 1(a)](https://www.govinfo.gov/link/plaw/89/public/242), Oct. 7, 1965, [79 Stat. 951](https://www.govinfo.gov/link/statute/79/951); [Pub. L. 99–657, § 2](https://www.govinfo.gov/link/plaw/99/public/657), Nov. 14, 1986, [100 Stat. 3670](https://www.govinfo.gov/link/statute/100/3670); [Pub. L. 102–140, title III, § 304](https://www.govinfo.gov/link/plaw/102/public/140), Oct. 28, 1991, [105 Stat. 810](https://www.govinfo.gov/link/statute/105/810).)*

@@ -3,9 +3,10 @@ title: "Section 4b - Medical countermeasure master files"
 usc_title: 21
 usc_section: "4b"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 4b"
-generated_at: "2026-03-30T02:54:54.256Z"
+generated_at: "2026-11-23T20:26:27.674Z"
+status: "active"
 ---
 
 # § 360bbb–4b. Medical countermeasure master files
@@ -35,3 +36,15 @@ generated_at: "2026-03-30T02:54:54.256Z"
     - **(A)** the approval, licensure, classification, clearance, conditional approval, or authorization of a security countermeasure, qualified countermeasure, or qualified pandemic or epidemic product; or
     - **(B)** a new indication to an approved security countermeasure, qualified countermeasure, or qualified pandemic or epidemic product.
   - **(3)** The terms “qualified countermeasure”, “security countermeasure”, and “qualified pandemic or epidemic product” have the meanings given such terms in sections 319F–1, 319F–2, and 319F–3, respectively, of the Public Health Service Act [ 42 U.S.C. 247d–6a , 247d–6b, 247d–6d].
+
+In General
+
+Medical Countermeasure Master Files
+
+Stakeholder Input
+
+Guidance
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 565B, as added [Pub. L. 116–22, title VI, § 603(b)](https://www.govinfo.gov/link/plaw/116/public/22), June 24, 2019, [133 Stat. 953](https://www.govinfo.gov/link/statute/133/953).)*

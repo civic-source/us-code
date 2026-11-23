@@ -3,9 +3,10 @@ title: "Section 1058 - Transfers of securities under certain agreements"
 usc_title: 26
 usc_section: "1058"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1058"
-generated_at: "2026-03-30T02:55:27.757Z"
+generated_at: "2026-11-23T20:26:46.030Z"
+status: "active"
 ---
 
 # § 1058. Transfers of securities under certain agreements
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:27.757Z"
   - **(3)** not reduce the risk of loss or opportunity for gain of the transferor of the securities in the securities transferred; and
   - **(4)** meet such other requirements as the Secretary may by regulation prescribe.
 - **(c)** Property acquired by a taxpayer described in subsection (a), in a transaction described in that subsection, shall have the same basis as the property transferred by that taxpayer.
+
+## Source Credit
+
+*(Added [Pub. L. 95–345, § 2(d)(1)](https://www.govinfo.gov/link/plaw/95/public/345), Aug. 15, 1978, [92 Stat. 482](https://www.govinfo.gov/link/statute/92/482).)*

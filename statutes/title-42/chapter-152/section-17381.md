@@ -3,9 +3,10 @@ title: "Section 17381 - Statement of policy on modernization of electricity grid
 usc_title: 42
 usc_section: "17381"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17381"
-generated_at: "2026-03-30T02:56:11.506Z"
+generated_at: "2026-11-23T20:27:23.757Z"
+status: "active"
 ---
 
 # § 17381. Statement of policy on modernization of electricity grid
@@ -22,3 +23,7 @@ It is the policy of the United States to support the modernization of the Nation
   - **(8)** Provision to consumers of timely information and control options.
   - **(9)** Development of standards for communication and interoperability of appliances and equipment connected to the electric grid, including the infrastructure serving the grid.
   - **(10)** Identification and lowering of unreasonable or unnecessary barriers to adoption of smart grid technologies, practices, and services.
+
+## Source Credit
+
+*([Pub. L. 110–140, title XIII, § 1301](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1783](https://www.govinfo.gov/link/statute/121/1783).)*

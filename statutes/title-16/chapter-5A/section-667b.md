@@ -3,9 +3,10 @@ title: "Section 667b - Transfer of certain real property for wildlife conservati
 usc_title: 16
 usc_section: "667b"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 667b"
-generated_at: "2026-03-30T02:54:22.888Z"
+generated_at: "2026-11-23T20:26:20.203Z"
+status: "active"
 ---
 
 # § 667b. Transfer of certain real property for wildlife conservation purposes; reservation of rights
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:22.888Z"
 - **(a)** such State agency if the management thereof for the conservation of wildlife relates to other than migratory birds, or
 - **(b)** to the Secretary of the Interior if the real property has particular value in carrying out the national migratory bird management program. Any such transfer to other than the United States shall be subject to the reservation by the United States of all oil, gas, and mineral rights, and to the condition that the property shall continue to be used for wildlife conservation or other of the above-stated purposes and in the event it is no longer used for such purposes or in the event it is needed for national defense purposes title thereto shall revert to the United States.
 
+
+## Source Credit
+
+*(May 19, 1948, ch. 310, § 1, [62 Stat. 240](https://www.govinfo.gov/link/statute/62/240); June 30, 1949, ch. 288, title I, § 105, [63 Stat. 381](https://www.govinfo.gov/link/statute/63/381); [Pub. L. 92–432](https://www.govinfo.gov/link/plaw/92/public/432), Sept. 26, 1972, [86 Stat. 723](https://www.govinfo.gov/link/statute/86/723).)*

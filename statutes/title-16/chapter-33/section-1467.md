@@ -3,9 +3,10 @@ title: "Section 1467 - Establishment of the Digital Coast"
 usc_title: 16
 usc_section: "1467"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1467"
-generated_at: "2026-03-30T02:54:22.973Z"
+generated_at: "2026-11-23T20:26:20.515Z"
+status: "active"
 ---
 
 # § 1467. Establishment of the Digital Coast
@@ -59,3 +60,21 @@ generated_at: "2026-03-30T02:54:22.973Z"
   - **(3)** Contracts entered into under paragraph (1)(B) shall be considered “surveying and mapping” services as such term is used in and as such contracts are awarded by the Secretary in accordance with the selection procedures in chapter 11 of title 40.
 - **(f)** The Secretary may establish publically available tools that track ocean and Great Lakes economy data for each coastal State.
 - **(g)** There is authorized to be appropriated to the Secretary $4,000,000 for each fiscal year 2021 through 2025 to carry out the program.
+
+“Congress makes the following findings:
+
+“In this Act [see Short Title of 2020 Amendment note set out under section 1451 of this title ]:
+
+Coastal region
+
+Coastal state
+
+Federal geographic data committee
+
+Remote sensing and other geospatial
+
+Secretary
+
+## Source Credit
+
+*([Pub. L. 116–223, § 4](https://www.govinfo.gov/link/plaw/116/public/223), Dec. 18, 2020, [134 Stat. 1068](https://www.govinfo.gov/link/statute/134/1068).)*

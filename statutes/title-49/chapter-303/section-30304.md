@@ -3,9 +3,10 @@ title: "Section 30304 - Reports by chief driver licensing officials"
 usc_title: 49
 usc_section: "30304"
 chapter: 303
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 30304"
-generated_at: "2026-03-30T02:56:19.354Z"
+generated_at: "2026-11-23T20:27:34.926Z"
+status: "active"
 ---
 
 # § 30304. Reports by chief driver licensing officials
@@ -29,3 +30,32 @@ generated_at: "2026-03-30T02:56:19.354Z"
   - **(2)** after the State becomes a participating State, the report shall be submitted not later than 31 days after the motor vehicle department of the State receives any information specified in subsection (b)(1) of this section that is the subject of the report.
 - **(d)** This section does not require a State to report information about an event that occurs before the 2-year period before the State becomes a participating State.
 - **(e)** Before issuing a motor vehicle operator’s license to an individual or renewing such a license, a State shall request from the Secretary information from the National Driver Register under section 30302 and the commercial driver’s license information system under section 31309 on the individual’s driving record.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30304 | 23:401 (note). | Oct. 25, 1982 , Pub. L. 97–364, § 205 , 96 Stat. 1742 . |
+
+
+Individuals Covered
+
+Contents
+
+Time for Filing
+
+Events Occurring Before Participation
+
+Driver Record Inquiry
+
+Historical and Revision Notes
+
+30304
+
+Oct. 25, 1982
+
+Pub. L. 97–364, § 205
+
+96 Stat. 1742
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 975](https://www.govinfo.gov/link/statute/108/975); [Pub. L. 106–159, title II, § 204](https://www.govinfo.gov/link/plaw/106/public/159), Dec. 9, 1999, [113 Stat. 1762](https://www.govinfo.gov/link/statute/113/1762).)*

@@ -3,9 +3,10 @@ title: "Section 203 - Definitions"
 usc_title: 29
 usc_section: "203"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 203"
-generated_at: "2026-03-30T02:55:18.679Z"
+generated_at: "2026-11-23T20:26:37.789Z"
+status: "active"
 ---
 
 # § 203. Definitions
@@ -82,3 +83,11 @@ As used in this chapter—
 - **(y)** “Employee in fire protection activities” means an employee, including a firefighter, paramedic, emergency medical technician, rescue worker, ambulance personnel, or hazardous materials worker, who—
   - **(1)** is trained in fire suppression, has the legal authority and responsibility to engage in fire suppression, and is employed by a fire department of a municipality, county, fire district, or State; and
   - **(2)** is engaged in the prevention, control, and extinguishment of fires or response to emergency situations where life, property, or the environment is at risk.
+
+In general
+
+Violations
+
+## Source Credit
+
+*(June 25, 1938, ch. 676, § 3, [52 Stat. 1060](https://www.govinfo.gov/link/statute/52/1060); 1946 Reorg. Plan No. 2, § 1(b), eff. July 16, 1946, 11 F.R. 7873, [60 Stat. 1095](https://www.govinfo.gov/link/statute/60/1095); Oct. 26, 1949, ch. 736, § 3, [63 Stat. 911](https://www.govinfo.gov/link/statute/63/911); [Pub. L. 87–30, § 2](https://www.govinfo.gov/link/plaw/87/public/30), May 5, 1961, [75 Stat. 65](https://www.govinfo.gov/link/statute/75/65); [Pub. L. 89–601, title I](https://www.govinfo.gov/link/plaw/89/public/601), §§ 101–103, title II, § 215(a), Sept. 23, 1966, [80 Stat. 830–832](https://www.govinfo.gov/link/statute/80/830), 837; [Pub. L. 92–318, title IX, § 906(b)(2)](https://www.govinfo.gov/link/plaw/92/public/318), (3), June 23, 1972, [86 Stat. 375](https://www.govinfo.gov/link/statute/86/375); [Pub. L. 93–259](https://www.govinfo.gov/link/plaw/93/public/259), §§ 6(a), 13(e), Apr. 8, 1974, [88 Stat. 58](https://www.govinfo.gov/link/statute/88/58), 64; [Pub. L. 95–151](https://www.govinfo.gov/link/plaw/95/public/151), §§ 3(a), (b), 9(a)–(c), Nov. 1, 1977, [91 Stat. 1249](https://www.govinfo.gov/link/statute/91/1249), 1251; [Pub. L. 99–150](https://www.govinfo.gov/link/plaw/99/public/150), §§ 4(a), 5, Nov. 13, 1985, [99 Stat. 790](https://www.govinfo.gov/link/statute/99/790); [Pub. L. 101–157](https://www.govinfo.gov/link/plaw/101/public/157), §§ 3(a), (d), 5, Nov. 17, 1989, [103 Stat. 938](https://www.govinfo.gov/link/statute/103/938), 939, 941; [Pub. L. 104–1, title II, § 203(d)](https://www.govinfo.gov/link/plaw/104/public/1), Jan. 23, 1995, [109 Stat. 10](https://www.govinfo.gov/link/statute/109/10); [Pub. L. 104–188](https://www.govinfo.gov/link/plaw/104/public/188), [title II], § 2105(b), Aug. 20, 1996, [110 Stat. 1929](https://www.govinfo.gov/link/statute/110/1929); [Pub. L. 105–221, § 2](https://www.govinfo.gov/link/plaw/105/public/221), Aug. 7, 1998, [112 Stat. 1248](https://www.govinfo.gov/link/statute/112/1248); [Pub. L. 106–151, § 1](https://www.govinfo.gov/link/plaw/106/public/151), Dec. 9, 1999, [113 Stat. 1731](https://www.govinfo.gov/link/statute/113/1731); [Pub. L. 109–435, title VI, § 604(f)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3242](https://www.govinfo.gov/link/statute/120/3242); [Pub. L. 113–235, div. H, title I, § 1301(b)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537); [Pub. L. 115–141, div. S, title XII, § 1201(a)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1148](https://www.govinfo.gov/link/statute/132/1148).)*

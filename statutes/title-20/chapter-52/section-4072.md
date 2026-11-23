@@ -3,9 +3,10 @@ title: "Section 4072 - Definitions"
 usc_title: 20
 usc_section: "4072"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 4072"
-generated_at: "2026-03-30T02:54:48.182Z"
+generated_at: "2026-11-23T20:26:14.755Z"
+status: "active"
 ---
 
 # § 4072. Definitions
@@ -16,3 +17,7 @@ As used in this subchapter—
   - **(2)** The term “sponsorship” includes the act of promoting, leading, or participating in a meeting. The assignment of a teacher, administrator, or other school employee to a meeting for custodial purposes does not constitute sponsorship of the meeting.
   - **(3)** The term “meeting” includes those activities of student groups which are permitted under a school’s limited open forum and are not directly related to the school curriculum.
   - **(4)** The term “noninstructional time” means time set aside by the school before actual classroom instruction begins or after actual classroom instruction ends.
+
+## Source Credit
+
+*([Pub. L. 98–377, title VIII, § 803](https://www.govinfo.gov/link/plaw/98/public/377), Aug. 11, 1984, [98 Stat. 1303](https://www.govinfo.gov/link/statute/98/1303).)*

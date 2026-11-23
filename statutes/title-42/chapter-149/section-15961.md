@@ -3,9 +3,10 @@ title: "Section 15961 - Authorization of appropriations"
 usc_title: 42
 usc_section: "15961"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 15961"
-generated_at: "2026-03-30T02:56:11.466Z"
+generated_at: "2026-11-23T20:27:23.591Z"
+status: "active"
 ---
 
 # § 15961. Authorization of appropriations
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.466Z"
   - **(2)** a detailed description of how proposals will be solicited and evaluated, including a list of all activities expected to be undertaken;
   - **(3)** a detailed list of technical milestones for each coal and related technology that will be pursued; and
   - **(4)** a detailed description of how the program will avoid problems enumerated in Government Accountability Office reports on the Clean Coal Technology Program, including problems that have resulted in unspent funds and projects that failed either financially or scientifically.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IV, § 401](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 749](https://www.govinfo.gov/link/statute/119/749).)*

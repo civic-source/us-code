@@ -3,9 +3,10 @@ title: "Section 5701 - Short title; findings"
 usc_title: 15
 usc_section: "5701"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 5701"
-generated_at: "2026-03-30T02:54:08.208Z"
+generated_at: "2026-11-23T20:26:04.377Z"
+status: "active"
 ---
 
 # § 5701. Short title; findings
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:08.208Z"
   - **(6)** Because the consumer most often incurs a financial obligation as soon as a pay-per-call transaction is completed, the accuracy and descriptiveness of vendor advertisements become crucial in avoiding consumer abuse. The obligation for accuracy should include price-per-call and duration-of-call information, odds disclosure for lotteries, games, and sweepstakes, and obligations for obtaining parental consent from callers under 18.
   - **(7)** The continued growth of the legitimate pay-per-call industry is dependent upon consumer confidence that unfair and deceptive behavior will be effectively curtailed and that consumers will have adequate rights of redress.
   - **(8)** Vendors of telephone-billed goods and services must also feel confident in their rights and obligations for resolving billing disputes if they are to use this new marketplace for the sale of products of more than nominal value.
+
+## Source Credit
+
+*([Pub. L. 102–556, § 1](https://www.govinfo.gov/link/plaw/102/public/556), Oct. 28, 1992, [106 Stat. 4181](https://www.govinfo.gov/link/statute/106/4181).)*

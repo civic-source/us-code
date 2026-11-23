@@ -3,9 +3,10 @@ title: "Section 3373 - Effect of certain natural gas prices on indefinite price 
 usc_title: 15
 usc_section: "3373"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 3373"
-generated_at: "2026-03-30T02:54:08.189Z"
+generated_at: "2026-11-23T20:26:04.283Z"
+status: "active"
 ---
 
 # § 3373. Effect of certain natural gas prices on indefinite price escalator clauses
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:08.189Z"
 - **(b)** No price paid—
   - **(1)** in any sale authorized under section 3362(a) of this title , or
   - **(2)** pursuant to any order issued under section 3363(b), (c), (d), or (g) of this title,
+
+## Source Credit
+
+*([Pub. L. 95–621, title III, § 313](https://www.govinfo.gov/link/plaw/95/public/621), Nov. 9, 1978, [92 Stat. 3392](https://www.govinfo.gov/link/statute/92/3392); [Pub. L. 101–60, § 3(b)(3)](https://www.govinfo.gov/link/plaw/101/public/60), July 26, 1989, [103 Stat. 159](https://www.govinfo.gov/link/statute/103/159).)*

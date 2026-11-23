@@ -3,9 +3,10 @@ title: "Section 93 - Violation of provisions of chapter"
 usc_title: 12
 usc_section: "93"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 93"
-generated_at: "2026-03-30T02:53:53.373Z"
+generated_at: "2026-11-23T20:25:58.695Z"
+status: "active"
 ---
 
 # § 93. Violation of provisions of chapter
@@ -55,3 +56,9 @@ generated_at: "2026-03-30T02:53:53.373Z"
   - **(3)** This subsection shall not apply to a successor to the interests of, or a person who acquires, a bank, a Federal branch, or a Federal agency that violated a provision of law described in paragraph (1), if the successor succeeds to the interests of the violator, or the acquisition is made, in good faith and not for purposes of evading this subsection or regulations prescribed under this subsection.
   - **(4)** The term “senior executive officer” has the same meaning as in regulations prescribed under section 1831i(f) of this title .
 - **(d)** The Comptroller of the Currency may act in the Comptroller’s own name and through the Comptroller’s own attorneys in enforcing any provision of title 62 of the Revised Statutes, regulations thereunder, or any other law or regulation, or in any action, suit, or proceeding to which the Comptroller of the Currency is a party.
+
+“The amendments made by this section [amending this section and sections 481, 504, 505, 1467a, 1786, 1817, 1818, 1828, 1847, and 1972 of this title] shall apply with respect to conduct engaged in by any person after the date of the enactment of this Act [ Aug. 9, 1989 ], except that the increased maximum civil penalties of $5,000 and $25,000 per violation or per day may apply to such conduct engaged in before such date if such conduct—
+
+## Source Credit
+
+*(R.S. § 5239; Mar. 3, 1911, ch. 231, § 291, [36 Stat. 1167](https://www.govinfo.gov/link/statute/36/1167); [Pub. L. 95–630, title I, § 103](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3643](https://www.govinfo.gov/link/statute/92/3643); [Pub. L. 97–320, title IV, § 424(d)(3)](https://www.govinfo.gov/link/plaw/97/public/320), (f), (g), Oct. 15, 1982, [96 Stat. 1523](https://www.govinfo.gov/link/statute/96/1523); [Pub. L. 97–457, § 24](https://www.govinfo.gov/link/plaw/97/public/457), Jan. 12, 1983, [96 Stat. 2510](https://www.govinfo.gov/link/statute/96/2510); [Pub. L. 101–73, title IX](https://www.govinfo.gov/link/plaw/101/public/73), §§ 905(e), 907(e), Aug. 9, 1989, [103 Stat. 460](https://www.govinfo.gov/link/statute/103/460), 469; [Pub. L. 102–550, title XV, § 1502(a)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 4045](https://www.govinfo.gov/link/statute/106/4045); [Pub. L. 103–322, title XXXIII, § 330017(b)(2)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2149](https://www.govinfo.gov/link/statute/108/2149); [Pub. L. 103–325, title III, § 331(b)(3)](https://www.govinfo.gov/link/plaw/103/public/325), title IV, §§ 411(c)(2)(C), 413(b)(2), Sept. 23, 1994, [108 Stat. 2232](https://www.govinfo.gov/link/statute/108/2232), 2253, 2254.)*

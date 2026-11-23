@@ -3,9 +3,10 @@ title: "Section 827 - Records and reports of registrants"
 usc_title: 21
 usc_section: "827"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 827"
-generated_at: "2026-03-30T02:54:54.293Z"
+generated_at: "2026-11-23T20:26:27.829Z"
+status: "active"
 ---
 
 # § 827. Records and reports of registrants
@@ -47,3 +48,11 @@ generated_at: "2026-03-30T02:54:54.293Z"
   - **(5)** That each dispensing practitioner shall maintain for each prescription the name of the prescribing practitioner, the prescribing practitioner’s Federal and State registration numbers, with the expiration dates of these registrations, verification that the prescribing practitioner possesses the appropriate registration to prescribe this controlled substance, the patient’s name and address, the name of the patient’s insurance provider and documentation by a medical practitioner licensed and registered to prescribe the drug of the patient’s medical need for the drug. Such information shall be available for inspection and copying by the Attorney General.
   - **(6)** That section 830(b)(3) of this title (relating to mail order reporting) applies with respect to gamma hydroxybutyric acid to the same extent and in the same manner as such section applies with respect to the chemicals and drug products specified in subparagraph (A)(i) of such section.
 - **(j)** All of the reports required under this section shall be provided in an electronic format.
+
+In General
+
+Rule of Construction
+
+## Source Credit
+
+*([Pub. L. 91–513, title II, § 307](https://www.govinfo.gov/link/plaw/91/public/513), Oct. 27, 1970, [84 Stat. 1258](https://www.govinfo.gov/link/statute/84/1258); [Pub. L. 93–281, § 5](https://www.govinfo.gov/link/plaw/93/public/281), May 14, 1974, [88 Stat. 125](https://www.govinfo.gov/link/statute/88/125); [Pub. L. 95–633, title I](https://www.govinfo.gov/link/plaw/95/public/633), §§ 104, 110, Nov. 10, 1978, [92 Stat. 3772](https://www.govinfo.gov/link/statute/92/3772), 3773; [Pub. L. 98–473, title II](https://www.govinfo.gov/link/plaw/98/public/473), §§ 514, 515, Oct. 12, 1984, [98 Stat. 2074](https://www.govinfo.gov/link/statute/98/2074); [Pub. L. 106–172, § 4](https://www.govinfo.gov/link/plaw/106/public/172), Feb. 18, 2000, [114 Stat. 9](https://www.govinfo.gov/link/statute/114/9); [Pub. L. 110–425, § 3(c)](https://www.govinfo.gov/link/plaw/110/public/425), Oct. 15, 2008, [122 Stat. 4824](https://www.govinfo.gov/link/statute/122/4824); [Pub. L. 115–271, title III, § 3273(a)](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 3952](https://www.govinfo.gov/link/statute/132/3952); [Pub. L. 117–215, title I, § 103(b)(1)(D)](https://www.govinfo.gov/link/plaw/117/public/215), Dec. 2, 2022, [136 Stat. 2263](https://www.govinfo.gov/link/statute/136/2263).)*

@@ -3,9 +3,10 @@ title: "Section 1550 - Reports and briefings on use of military force and suppor
 usc_title: 50
 usc_section: "1550"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 1550"
-generated_at: "2026-03-30T02:56:26.206Z"
+generated_at: "2026-11-23T20:27:30.745Z"
+status: "active"
 ---
 
 # § 1550. Reports and briefings on use of military force and support of partner forces
@@ -26,3 +27,9 @@ generated_at: "2026-03-30T02:56:26.206Z"
   - **(2)** the War Powers Resolution ( 50 U.S.C. 1541 et seq.); and
   - **(3)** any other applicable provision of law.
 - **(e)** At least once during each 180-day period described in subsection (a), the President shall provide to the congressional defense committees, the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives a briefing on the matters covered by the report required under this section for such period.
+
+J.R. Biden, Jr.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. A, title XII, § 1285](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1709](https://www.govinfo.gov/link/statute/133/1709).)*

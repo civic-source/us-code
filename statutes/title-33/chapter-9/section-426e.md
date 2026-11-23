@@ -3,9 +3,10 @@ title: "Section 426e - Federal aid in protection of shores"
 usc_title: 33
 usc_section: "426e"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 426e"
-generated_at: "2026-03-30T02:55:41.055Z"
+generated_at: "2026-11-23T20:26:53.811Z"
+status: "active"
 ---
 
 # § 426e. Federal aid in protection of shores
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:55:41.055Z"
         - **(I)** specify the life of the project; and
         - **(II)** ensure that the Federal Government and the non-Federal interest will cooperate in carrying out the project or separable element.
     - **(C)** In constructing a shore protection project or separable element under this paragraph, the Secretary shall, to the extent practicable, coordinate the project or element with any complementary project identified under paragraph (2)(C).
+
+## Source Credit
+
+*(Aug. 13, 1946, ch. 960, § 1, [60 Stat. 1056](https://www.govinfo.gov/link/statute/60/1056); July 28, 1956, ch. 768, [70 Stat. 702](https://www.govinfo.gov/link/statute/70/702); [Pub. L. 87–874, title I, § 103(a)(1)](https://www.govinfo.gov/link/plaw/87/public/874) –(3), Oct. 23, 1962, [76 Stat. 1178](https://www.govinfo.gov/link/statute/76/1178); [Pub. L. 88–172, § 1](https://www.govinfo.gov/link/plaw/88/public/172), Nov. 7, 1963, [77 Stat. 304](https://www.govinfo.gov/link/statute/77/304); [Pub. L. 91–611, title II, § 208](https://www.govinfo.gov/link/plaw/91/public/611), Dec. 31, 1970, [84 Stat. 1829](https://www.govinfo.gov/link/statute/84/1829); [Pub. L. 104–303, title II, § 227(a)](https://www.govinfo.gov/link/plaw/104/public/303), (b), (e)(2)(A), (B), Oct. 12, 1996, [110 Stat. 3698](https://www.govinfo.gov/link/statute/110/3698), 3703.)*

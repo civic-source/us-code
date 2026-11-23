@@ -3,9 +3,10 @@ title: "Section 2571 - Definitions"
 usc_title: 19
 usc_section: "2571"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2571"
-generated_at: "2026-03-30T02:54:24.680Z"
+generated_at: "2026-11-23T20:26:10.996Z"
+status: "active"
 ---
 
 # § 2571. Definitions
@@ -39,3 +40,9 @@ As used in this subchapter—
   - **(16)** The term “State agency” means any department, agency, or other instrumentality of the government of any State or of any political subdivision of any State.
   - **(17)** The term “technical regulation” means a document which lays down product characteristics or their related processes and production methods, including the applicable administrative provisions, with which compliance is mandatory. Such term may also include or deal exclusively with terminology, symbols, packaging, marking, or labeling requirements as they apply to a product, process, or production method.
   - **(18)** The term “United States”, when used in a geographical context, means all States.
+
+Special representative
+
+## Source Credit
+
+*([Pub. L. 96–39, title IV, § 451](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 249](https://www.govinfo.gov/link/statute/93/249); [Pub. L. 103–182, title III, § 351(b)(1)](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2122](https://www.govinfo.gov/link/statute/107/2122); [Pub. L. 103–465, title III, § 351(e)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4956](https://www.govinfo.gov/link/statute/108/4956); [Pub. L. 104–295, § 20(c)(16)](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3529](https://www.govinfo.gov/link/statute/110/3529).)*

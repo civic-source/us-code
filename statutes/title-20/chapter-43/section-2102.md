@@ -3,9 +3,10 @@ title: "Section 2102 - Definitions"
 usc_title: 20
 usc_section: "2102"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 2102"
-generated_at: "2026-03-30T02:54:48.171Z"
+generated_at: "2026-11-23T20:26:14.680Z"
+status: "active"
 ---
 
 # § 2102. Definitions
@@ -19,3 +20,7 @@ As used in this subchapter—
   - **(5)** the term “Librarian” means the Librarian of Congress;
   - **(6)** the term “State” includes, in addition to the several States of the Union, the Commonwealth of Puerto Rico, the District of Columbia, Guam, American Samoa, and the Virgin Islands; and
   - **(7)** the term “workshop” means an activity the primary purpose of which is to encourage the development of skills, appreciation, or enjoyment of American folklife among amateur, student, or nonprofessional participants, or to promote scholarship or teaching among the participants.
+
+## Source Credit
+
+*([Pub. L. 94–201, § 3](https://www.govinfo.gov/link/plaw/94/public/201), Jan. 2, 1976, [89 Stat. 1129](https://www.govinfo.gov/link/statute/89/1129).)*

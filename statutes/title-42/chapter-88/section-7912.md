@@ -3,9 +3,10 @@ title: "Section 7912 - Processing site designations"
 usc_title: 42
 usc_section: "7912"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7912"
-generated_at: "2026-03-30T02:56:11.331Z"
+generated_at: "2026-11-23T20:27:22.984Z"
+status: "active"
 ---
 
 # § 7912. Processing site designations
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:11.331Z"
   - **(3)** Subject to the availability of appropriations for this purpose, the Secretary shall conduct remediation at the Moab site in a safe and environmentally sound manner that takes into consideration the remedial action plan prepared pursuant to section 3405(i) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 ( 10 U.S.C. 8720 note; Public Law 105–261 ), including—
     - **(A)** ground water restoration; and
     - **(B)** the removal, to a site in the State of Utah, for permanent disposition and any necessary stabilization, of residual radioactive material and other contaminated material from the Moab site and the floodplain of the Colorado River.
+
+## Source Credit
+
+*([Pub. L. 95–604, title I, § 102](https://www.govinfo.gov/link/plaw/95/public/604), Nov. 8, 1978, [92 Stat. 3023](https://www.govinfo.gov/link/statute/92/3023); [Pub. L. 97–415, § 21](https://www.govinfo.gov/link/plaw/97/public/415), Jan. 4, 1983, [96 Stat. 2079](https://www.govinfo.gov/link/statute/96/2079); [Pub. L. 106–398, § 1 [div. C, title XXXIV, § 3403(b)]](https://www.govinfo.gov/link/plaw/106/public/398), Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–489; [Pub. L. 115–232, div. A, title VIII, § 809(n)(4)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1844](https://www.govinfo.gov/link/statute/132/1844).)*

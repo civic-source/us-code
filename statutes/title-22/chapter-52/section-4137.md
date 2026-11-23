@@ -3,9 +3,10 @@ title: "Section 4137 - Foreign Service Grievance Board decisions"
 usc_title: 22
 usc_section: "4137"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4137"
-generated_at: "2026-03-30T02:55:05.408Z"
+generated_at: "2026-11-23T20:26:32.523Z"
+status: "active"
 ---
 
 # § 4137. Foreign Service Grievance Board decisions
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:05.408Z"
     - **(B)** Whenever material is provided to the Committee or a Member thereof pursuant to paragraph (1), the Board shall, at the same time, provide a copy of all such material to the supervisor who is the subject of such material.
     - **(C)** A supervisor who is the subject of records disclosed to the committee 1 1 So in original. Probably should be capitalized. pursuant to this subsection shall have the right to review such record and provide comments to the Committee concerning such record. Such comments shall be treated in a confidential manner.
 - **(f)** The Board shall, with respect to any grievance based on an alleged violation of a law, rule, regulation, or policy directive referred to in section 4131(a)(1)(H) of this title , apply the substantive law that would be applied by the Equal Employment Opportunity Commission if a charge or claim alleging discrimination under such law, rule, regulation, or policy directive had been filed with the commission. 1
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 1107](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2146](https://www.govinfo.gov/link/statute/94/2146); [Pub. L. 100–204, title I](https://www.govinfo.gov/link/plaw/100/public/204), §§ 181(a), (b), 182, Dec. 22, 1987, [101 Stat. 1363](https://www.govinfo.gov/link/statute/101/1363), 1364; [Pub. L. 102–138, title I, § 153(c)](https://www.govinfo.gov/link/plaw/102/public/138), Oct. 28, 1991, [105 Stat. 673](https://www.govinfo.gov/link/statute/105/673).)*

@@ -3,9 +3,10 @@ title: "Section 6715 - Dyed fuel sold for use or used in taxable use, etc."
 usc_title: 26
 usc_section: "6715"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6715"
-generated_at: "2026-03-30T02:55:27.865Z"
+generated_at: "2026-11-23T20:26:46.728Z"
+status: "active"
 ---
 
 # § 6715. Dyed fuel sold for use or used in taxable use, etc.
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:27.865Z"
 - **(e)** In the case of any person who is found to be subject to the penalty under this section after a chemical analysis of such fuel and who has been penalized under this section at least twice after the date of the enactment of this subsection, no administrative appeal or review shall be allowed with respect to such finding except in the case of a claim regarding—
   - **(1)** fraud or mistake in the chemical analysis, or
   - **(2)** mathematical calculation of the amount of the penalty.
+
+## Source Credit
+
+*(Added [Pub. L. 103–66, title XIII, § 13242(b)(1)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 520](https://www.govinfo.gov/link/statute/107/520), § 6714; renumbered § 6715, [Pub. L. 104–188, title I, § 1703(n)(9)(A)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1877](https://www.govinfo.gov/link/statute/110/1877); amended [Pub. L. 105–34, title X, § 1032(e)(11)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 935](https://www.govinfo.gov/link/statute/111/935); [Pub. L. 108–357, title VIII](https://www.govinfo.gov/link/plaw/108/public/357), §§ 855(a), 856(a), (b), Oct. 22, 2004, [118 Stat. 1616](https://www.govinfo.gov/link/statute/118/1616), 1617.)*

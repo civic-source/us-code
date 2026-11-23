@@ -3,9 +3,10 @@ title: "Section 3357 - Financial and administrative controls relating to fraud a
 usc_title: 31
 usc_section: "3357"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 3357"
-generated_at: "2026-03-30T02:55:34.056Z"
+generated_at: "2026-11-23T20:26:51.774Z"
+status: "active"
 ---
 
 # § 3357. Financial and administrative controls relating to fraud and improper payments
@@ -25,3 +26,15 @@ generated_at: "2026-03-30T02:55:34.056Z"
     - **(C)** Office of Management and Budget Circular A–123, or any successor thereto, with respect to the leading practices for managing fraud risk;
   - **(2)** identifying risks and vulnerabilities to fraud, including with respect to payroll, beneficiary payments, grants, large contracts, and purchase and travel cards; and
   - **(3)** establishing strategies, procedures, and other steps to curb fraud.
+
+Definition
+
+Guidelines
+
+Requirements for Controls
+
+Report
+
+## Source Credit
+
+*(Added [Pub. L. 116–117, § 2(a)](https://www.govinfo.gov/link/plaw/116/public/117), Mar. 2, 2020, [134 Stat. 131](https://www.govinfo.gov/link/statute/134/131).)*

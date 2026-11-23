@@ -3,9 +3,10 @@ title: "Section 40128 - Overflights of national parks"
 usc_title: 49
 usc_section: "40128"
 chapter: 401
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 40128"
-generated_at: "2026-03-30T02:56:19.372Z"
+generated_at: "2026-11-23T20:27:35.070Z"
+status: "active"
 ---
 
 # § 40128. Overflights of national parks
@@ -127,3 +128,237 @@ generated_at: "2026-03-30T02:56:19.372Z"
   - **(6)** The term “tribal lands” means Indian country (as that term is defined in section 1151 of title 18 ) that is within or abutting a national park.
   - **(7)** The term “Administrator” means the Administrator of the Federal Aviation Administration.
   - **(8)** The term “Director” means the Director of the National Park Service.
+
+In General.—
+
+General requirements
+
+Application for operating authority.—
+
+Application required
+
+Competitive bidding for limited capacity parks
+
+Number of operations authorized
+
+Cooperation with nps
+
+Time limit on response to atmp applications
+
+Priority
+
+Exception
+
+Special rule for safety requirements
+
+Exemption for national parks with 50 or fewer flights each year.—
+
+In general
+
+Withdrawal of exemption
+
+List of parks.—
+
+In general
+
+Notification of withdrawal of exemption
+
+Annual report
+
+Air Tour Management Plans.—
+
+Establishment.—
+
+In general
+
+Objective
+
+Exception
+
+Environmental determination
+
+Contents
+
+Procedure
+
+Judicial review
+
+Amendments
+
+Voluntary agreements.—
+
+In general
+
+Park protection
+
+Public review
+
+Termination.—
+
+In general
+
+Effect of termination
+
+Interim Operating Authority.—
+
+In general
+
+Requirements and limitations
+
+New entrant air tour operators.—
+
+In general
+
+Safety limitation
+
+ATMP limitation
+
+Commercial Air Tour Operator Reports.—
+
+Report
+
+Report submission
+
+Exemptions
+
+Lake Mead
+
+Definitions
+
+Commercial air tour operator
+
+Existing commercial air tour operator
+
+New entrant commercial air tour operator
+
+Commercial air tour operation over a national park.—
+
+In general
+
+Factors to consider
+
+National park
+
+Tribal lands
+
+Administrator
+
+Director
+
+over a national park
+
+operation
+
+Determinations With Respect to Substantial Restoration of Natural Quiet and Experience.—
+
+In general
+
+Considerations.—
+
+In general
+
+Sound from other sources
+
+Continued monitoring
+
+Day defined
+
+Conversion to Quiet Technology Aircraft.—
+
+In general
+
+Conversion incentives
+
+Deadline for rule
+
+Resolution of disputes
+
+In General
+
+Conforming Amendment
+
+Compliance With Other Regulations
+
+Quiet Technology Requirements
+
+Routes or Corridors
+
+Operational Caps
+
+Modification of Existing Aircraft To Meet Standards
+
+Mandate To Restore Natural Quiet
+
+Establishment
+
+Membership.—
+
+In general
+
+Ex officio members
+
+Chairperson
+
+Duties
+
+Compensation; Support; Chapter
+
+of Title
+
+, United States Code.—
+
+Compensation and travel
+
+Administrative support
+
+Nonapplication of Chapter
+
+of title
+
+, united states code
+
+Overflight Fee Report
+
+Quiet Aircraft Technology Report
+
+Study by Park Service
+
+General Requirements of Study
+
+Specific Requirements
+
+Report to Congress
+
+FAA Review of Rules
+
+Authorization
+
+Yosemite National Park
+
+Haleakala̅ National Park
+
+Study and Review Periods
+
+Exceptions
+
+Enforcement
+
+Recommendations.—
+
+Submission
+
+Implementation
+
+Report
+
+Helicopter Flights of River Runners
+
+Assessment by Forest Service
+
+Report to Congress
+
+Authorization
+
+## Source Credit
+
+*(Added [Pub. L. 106–181, title VIII, § 803(a)](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 186](https://www.govinfo.gov/link/statute/114/186); amended [Pub. L. 108–176, title III, § 323(a)](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2541](https://www.govinfo.gov/link/statute/117/2541); [Pub. L. 109–115, div. A, title I, § 177](https://www.govinfo.gov/link/plaw/109/public/115), Nov. 30, 2005, [119 Stat. 2427](https://www.govinfo.gov/link/statute/119/2427); [Pub. L. 112–95, title V, § 501](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 100](https://www.govinfo.gov/link/statute/126/100); [Pub. L. 112–141, div. C, title V, § 35002](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 843](https://www.govinfo.gov/link/statute/126/843); [Pub. L. 115–254, div. B, title V, § 539(c)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3370](https://www.govinfo.gov/link/statute/132/3370); [Pub. L. 118–63, title VI, § 628](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1243](https://www.govinfo.gov/link/statute/138/1243).)*

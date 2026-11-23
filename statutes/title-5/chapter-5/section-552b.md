@@ -3,9 +3,10 @@ title: "Section 552b - Open meetings"
 usc_title: 5
 usc_section: "552b"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 552b"
-generated_at: "2026-03-30T02:52:55.988Z"
+generated_at: "2026-11-23T20:25:31.717Z"
+status: "active"
 ---
 
 # § 552b. Open meetings
@@ -53,3 +54,7 @@ generated_at: "2026-03-30T02:52:55.988Z"
 - **(k)** Nothing herein expands or limits the present rights of any person under section 552 of this title , except that the exemptions set forth in subsection (c) of this section shall govern in the case of any request made pursuant to section 552 to copy or inspect the transcripts, recordings, or minutes described in subsection (f) of this section. The requirements of chapter 33 of title 44, United States Code, shall not apply to the transcripts, recordings, and minutes described in subsection (f) of this section.
 - **(l)** This section does not constitute authority to withhold any information from Congress, and does not authorize the closing of any agency meeting or portion thereof required by any other provision of law to be open.
 - **(m)** Nothing in this section authorizes any agency to withhold from any individual any record, including transcripts, recordings, or minutes required by this section, which is otherwise accessible to such individual under section 552a of this title .
+
+## Source Credit
+
+*(Added [Pub. L. 94–409, § 3(a)](https://www.govinfo.gov/link/plaw/94/public/409), Sept. 13, 1976, [90 Stat. 1241](https://www.govinfo.gov/link/statute/90/1241); amended [Pub. L. 104–66, title III, § 3002](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 734](https://www.govinfo.gov/link/statute/109/734).)*

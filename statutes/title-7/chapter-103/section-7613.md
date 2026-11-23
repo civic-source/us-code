@@ -3,9 +3,10 @@ title: "Section 7613 - Relevance and merit of agricultural research, extension, 
 usc_title: 7
 usc_section: "7613"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7613"
-generated_at: "2026-03-30T02:53:42.458Z"
+generated_at: "2026-11-23T20:25:41.812Z"
+status: "active"
 ---
 
 # § 7613. Relevance and merit of agricultural research, extension, and education funded by the Department
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:53:42.458Z"
   - **(3)** To be eligible to obtain agricultural extension funds from the Secretary for an activity, each Hispanic-serving agricultural college and university shall—
     - **(A)** establish a process for merit review of the activity; and
     - **(B)** review the activity in accordance with such process.
+
+## Source Credit
+
+*([Pub. L. 105–185, title I, § 103](https://www.govinfo.gov/link/plaw/105/public/185), June 23, 1998, [112 Stat. 527](https://www.govinfo.gov/link/statute/112/527); [Pub. L. 110–234, title VII](https://www.govinfo.gov/link/plaw/110/public/234), §§ 7129(c)(3), 7301, 7511(c)(30), May 22, 2008, [122 Stat. 1227](https://www.govinfo.gov/link/statute/122/1227), 1242, 1270; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, §§ 7129(c)(3), 7301, 7511(c)(30), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1988, 2003, 2031; [Pub. L. 113–79, title VII, § 7301](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 887](https://www.govinfo.gov/link/statute/128/887).)*

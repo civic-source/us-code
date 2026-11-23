@@ -3,9 +3,10 @@ title: "Section 2 - Conditions of transfer by grantee; solid waste disposal"
 usc_title: 43
 usc_section: "2"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 2"
-generated_at: "2026-03-30T02:55:57.463Z"
+generated_at: "2026-11-23T20:27:06.257Z"
+status: "active"
 ---
 
 # § 869–2. Conditions of transfer by grantee; solid waste disposal
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:57.463Z"
 - **(c)**
   - **(1)** Upon the application or with the concurrence of any party to whom the Secretary, prior to November 10, 1988 , conveyed land under sections 869 to 869–4 of this title, the Secretary may renounce the reversionary interests of the United States in such land, or portion thereof, if the Secretary finds that such land, or portion thereof, has been used for solid waste disposal or for any other purpose which the Secretary finds may result in the disposal, placement, or release of any hazardous substance, and the Secretary may rescind any portion of any patent or other instrument of conveyance inconsistent with such renunciation. After such renunciation, affected lands shall not under any circumstances revert to the United States by the operation of law, and shall cease to be subject to the provisions of subsection (a) of this section.
   - **(2)** Upon the application or with the concurrence of a party to whom the Secretary, prior to November 10, 1988 , leased lands pursuant to sections 869 to 869–4 of this title, the Secretary may convey in fee the lands covered by such lease or any portion thereof which have been used for solid waste disposal or for any other purpose that the Secretary finds may result in the disposal, placement, or release of any hazardous substance. Notwithstanding any other provision of sections 869 to 869–4 of this title, a patent issued pursuant to this paragraph shall not contain a reverter provision and the lands covered by such patent shall not under any circumstances revert to the United States by operation of law after the issuance of such patent and shall not be subject to the provisions of subsection (a) of this section.
+
+## Source Credit
+
+*(June 14, 1926, ch. 578, § 3, as added June 4, 1954, ch. 263, [68 Stat. 175](https://www.govinfo.gov/link/statute/68/175); amended [Pub. L. 86–292, § 2](https://www.govinfo.gov/link/plaw/86/public/292), Sept. 21, 1959, [73 Stat. 571](https://www.govinfo.gov/link/statute/73/571); [Pub. L. 100–648, § 2](https://www.govinfo.gov/link/plaw/100/public/648), Nov. 10, 1988, [102 Stat. 3813](https://www.govinfo.gov/link/statute/102/3813).)*

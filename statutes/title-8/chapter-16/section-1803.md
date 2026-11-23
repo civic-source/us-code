@@ -3,15 +3,16 @@ title: "Section 1803 - Employment authorization document fees"
 usc_title: 8
 usc_section: "1803"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1803"
-generated_at: "2026-03-30T02:53:10.509Z"
+generated_at: "2026-11-23T20:25:36.291Z"
+status: "active"
 ---
 
 # § 1803. Employment authorization document fees
 
 - **(a)**
-  - **(1)** In addition to any other fee authorized by law, the Secretary of Homeland Security shall require the payment of a fee, equal to the amount specified in this subsection, by any alien who files an initial application for employment authorization under section 1158(d)(2)) of this title at the time such initial employment authorization application is filed.
+  - **(1)** In addition to any other fee authorized by law, the Secretary of Homeland Security shall require the payment of a fee, equal to the amount specified in this subsection, by any alien who files an initial application for employment authorization under section 1158(d)(2) of this title at the time such initial employment authorization application is filed.
   - **(2)** During fiscal year 2025, the amount specified in this subsection shall be the greater of—
     - **(A)** $550; or
     - **(B)** such amount as the Secretary of Homeland Security may establish, by rule.
@@ -21,7 +22,7 @@ generated_at: "2026-03-30T02:53:10.509Z"
   - **(4)** During each fiscal year—
     - **(A)** 25 percent of the fees collected pursuant to this subsection—
       - **(i)** shall be credited to U.S. Citizenship and Immigration Services;
-      - **(ii)** shall be deposited into the Immigration Examinations Fee Account established under section 356(m) of this title ; and
+      - **(ii)** shall be deposited into the Immigration Examinations Fee Account established under section 1356(m) of this title ; and
       - **(iii)** may be retained and expended by U.S. Citizenship and Immigration Services without further appropriation, provided that not less than 50 percent is used to detect and prevent immigration benefit fraud; and
     - **(B)** any amounts collected pursuant to this subsection that are not credited to U.S. Citizenship and Immigration Services pursuant to subparagraph (A) shall be deposited into the general fund of the Treasury.
   - **(5)** Fees required to be paid under this subsection shall not be waived or reduced.
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:53:10.509Z"
     - **(B)** the product resulting from the multiplication of the amount referred to in subparagraph (A) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded to the next lowest multiple of $10.
   - **(4)** All of the fees collected pursuant to this subsection shall be deposited into the general fund of the Treasury.
   - **(5)** Fees required to be paid under this subsection shall not be waived or reduced.
+
+## Source Credit
+
+*([Pub. L. 119–21, title X, § 100003](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 365](https://www.govinfo.gov/link/statute/139/365).)*

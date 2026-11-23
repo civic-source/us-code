@@ -3,9 +3,10 @@ title: "Section 4610a - Investigations and power to subpoena"
 usc_title: 7
 usc_section: "4610a"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 4610a"
-generated_at: "2026-03-30T02:53:42.410Z"
+generated_at: "2026-11-23T20:25:41.629Z"
+status: "active"
 ---
 
 # § 4610a. Investigations and power to subpoena
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:42.410Z"
 - **(d)** Any failure to obey such order of the court may be punished by such court as a contempt thereof.
 - **(e)** Process in any such case may be served in the judicial district in which such person resides or conducts business or wherever such person may be found.
 - **(f)** The site of any hearings held under section 4609 or 4610 of this title shall be within the judicial district where such person resides or has a principal place of business.
+
+## Source Credit
+
+*([Pub. L. 98–590, § 11A](https://www.govinfo.gov/link/plaw/98/public/590), as added [Pub. L. 101–624, title XIX, § 1986](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3908](https://www.govinfo.gov/link/statute/104/3908); amended [Pub. L. 102–237, title VIII, § 807(2)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1883](https://www.govinfo.gov/link/statute/105/1883).)*

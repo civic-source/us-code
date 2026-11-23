@@ -3,9 +3,10 @@ title: "Section 7616 - Sewage treatment grants"
 usc_title: 42
 usc_section: "7616"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7616"
-generated_at: "2026-03-30T02:56:11.319Z"
+generated_at: "2026-11-23T20:27:22.936Z"
+status: "active"
 ---
 
 # § 7616. Sewage treatment grants
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.319Z"
     - **(B)** would otherwise not be in conformity with the applicable implementation plan, or
   - **(4)** such increase in emissions would interfere with, or be inconsistent with, the applicable implementation plan for any other State.
 - **(c)** Nothing in this section shall be construed to amend or alter any provision of the National Environmental Policy Act [ 42 U.S.C. 4321 et seq.] or to affect any determination as to whether or not the requirements of such Act have been met in the case of the construction of any sewage treatment works.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title III, § 316, as added [Pub. L. 95–95, title III, § 306](https://www.govinfo.gov/link/plaw/95/public/95), Aug. 7, 1977, [91 Stat. 777](https://www.govinfo.gov/link/statute/91/777).)*

@@ -3,9 +3,10 @@ title: "Section 6718 - Investigations and reviews"
 usc_title: 31
 usc_section: "6718"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 6718"
-generated_at: "2026-03-30T02:55:34.075Z"
+generated_at: "2026-11-23T20:26:51.920Z"
+status: "active"
 ---
 
 # § 6718. Investigations and reviews
@@ -17,3 +18,15 @@ generated_at: "2026-03-30T02:55:34.075Z"
     - **(C)** advise a complainant of the status of an audit, investigation, or review of an allegation by the complainant of a violation of section 6711(a) or (b) or other provision of this chapter.
   - **(2)** The maximum time limit under paragraph (1)(A) is 120 days.
 - **(b)** The Comptroller General of the United States may carry out reviews of the activities of the Secretary, State governments, and units of general local government necessary for the Congress to evaluate compliance and operations under this chapter. These reviews may include a comparison of the waste and inefficiency of local governments using funds under this chapter compared to waste and inefficiency with other comparable Federal programs.
+
+Investigations by Secretary.—
+
+In general
+
+Time limit
+
+Reviews by Comptroller General
+
+## Source Credit
+
+*(Added [Pub. L. 103–322, title III, § 31001(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1879](https://www.govinfo.gov/link/statute/108/1879); amended [Pub. L. 104–316, title I, § 115(k)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3835](https://www.govinfo.gov/link/statute/110/3835).)*

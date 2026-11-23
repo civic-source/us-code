@@ -3,9 +3,10 @@ title: "Section 1111 - Claims and interests"
 usc_title: 11
 usc_section: "1111"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 1111"
-generated_at: "2026-03-30T02:53:53.884Z"
+generated_at: "2026-11-23T20:25:55.401Z"
+status: "active"
 ---
 
 # § 1111. Claims and interests
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:53.884Z"
       - **(i)** the interest on account of such claims of the holders of such claims in such property is of inconsequential value; or
       - **(ii)** the holder of a claim of such class has recourse against the debtor on account of such claim and such property is sold under section 363 of this title or is to be sold under the plan.
   - **(2)** If such an election is made, then notwithstanding section 506(a) of this title , such claim is a secured claim to the extent that such claim is allowed.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2630](https://www.govinfo.gov/link/statute/92/2630); [Pub. L. 111–327, § 2(a)(32)](https://www.govinfo.gov/link/plaw/111/public/327), Dec. 22, 2010, [124 Stat. 3561](https://www.govinfo.gov/link/statute/124/3561).)*

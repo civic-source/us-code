@@ -3,9 +3,10 @@ title: "Section 7453 - Native American and Alaska Native language immersion scho
 usc_title: 20
 usc_section: "7453"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 7453"
-generated_at: "2026-03-30T02:54:48.213Z"
+generated_at: "2026-11-23T20:26:14.914Z"
+status: "active"
 ---
 
 # § 7453. Native American and Alaska Native language immersion schools and programs
@@ -70,3 +71,7 @@ generated_at: "2026-03-30T02:54:48.213Z"
   - **(1)** the activities the entity carried out to meet the purposes of this section; and
   - **(2)** the number of children served by the program and the number of instructional hours in the Native American or Alaska Native language.
 - **(g)** Not more than 5 percent of the funds provided to a grantee under this section for any fiscal year may be used for administrative purposes.
+
+## Source Credit
+
+*([Pub. L. 89–10, title VI, § 6133](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title VI, § 6002](https://www.govinfo.gov/link/plaw/114/public/95) (o), Dec. 10, 2015, [129 Stat. 2057](https://www.govinfo.gov/link/statute/129/2057).)*

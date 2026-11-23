@@ -3,9 +3,10 @@ title: "Section 4162 - Definitions; treatment of certain resales"
 usc_title: 26
 usc_section: "4162"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 4162"
-generated_at: "2026-03-30T02:55:27.799Z"
+generated_at: "2026-11-23T20:26:46.292Z"
+status: "active"
 ---
 
 # § 4162. Definitions; treatment of certain resales
@@ -50,3 +51,11 @@ generated_at: "2026-03-30T02:55:27.799Z"
     - **(B)** the related person establishes the amount of the tax which was paid on the sale described in paragraph (1)(A),
   - **(3)** For purposes of this subsection, the term “related person” has the meaning given such term by section 465(b)(3)(C).
   - **(4)** Except to the extent provided in regulations, rules similar to the rules of this subsection shall also apply in cases (not described in paragraph (1)) in which intermediaries or other devices are used for purposes of reducing the amount of the tax imposed by section 4161(a).
+
+In general
+
+Treatment of certain resales
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title X, § 1015(b)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1017](https://www.govinfo.gov/link/statute/98/1017); amended [Pub. L. 99–514, title II, § 201(d)(7)(C)](https://www.govinfo.gov/link/plaw/99/public/514), (12), title XVIII, § 1878(b), Oct. 22, 1986, [100 Stat. 2141](https://www.govinfo.gov/link/statute/100/2141), 2142, 2903; [Pub. L. 108–357, title III, § 334(a)](https://www.govinfo.gov/link/plaw/108/public/357), (b), Oct. 22, 2004, [118 Stat. 1478](https://www.govinfo.gov/link/statute/118/1478).)*

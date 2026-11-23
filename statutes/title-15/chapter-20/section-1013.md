@@ -3,9 +3,10 @@ title: "Section 1013 - Suspension until June 30, 1948 , of application of certai
 usc_title: 15
 usc_section: "1013"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1013"
-generated_at: "2026-03-30T02:54:08.123Z"
+generated_at: "2026-11-23T20:26:03.939Z"
+status: "active"
 ---
 
 # § 1013. Suspension until June 30, 1948 , of application of certain Federal laws; Sherman Act applicable to agreements to, or acts of, boycott, coercion, or intimidation
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:08.123Z"
         - **(II)** any other line of insurance that is classified as property or casualty insurance under State law;
     - **(C)** the term “historical loss data” means information respecting claims paid, or reserves held for claims reported, by any person engaged in the business of insurance; and
     - **(D)** the term “loss development factor” means an adjustment to be made to reserves held for losses incurred for claims reported by any person engaged in the business of insurance, for the purpose of bringing such reserves to an ultimate paid basis.
+
+## Source Credit
+
+*(Mar. 9, 1945, ch. 20, § 3, [59 Stat. 34](https://www.govinfo.gov/link/statute/59/34); July 25, 1947, ch. 326, [61 Stat. 448](https://www.govinfo.gov/link/statute/61/448); [Pub. L. 116–327, § 2(a)](https://www.govinfo.gov/link/plaw/116/public/327), Jan. 13, 2021, [134 Stat. 5097](https://www.govinfo.gov/link/statute/134/5097).)*

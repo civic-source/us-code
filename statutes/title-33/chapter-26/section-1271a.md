@@ -3,9 +3,10 @@ title: "Section 1271a - Research and development program"
 usc_title: 33
 usc_section: "1271a"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1271a"
-generated_at: "2026-03-30T02:55:41.085Z"
+generated_at: "2026-11-23T20:26:53.983Z"
+status: "active"
 ---
 
 # § 1271a. Research and development program
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:41.085Z"
 - **(b)**
   - **(1)** In addition to any amounts authorized under other provisions of law, there is authorized to be appropriated to carry out this section $3,000,000 for each of fiscal years 2004 through 2010.
   - **(2)** Funds appropriated under paragraph (1) shall remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 107–303, title I, § 106](https://www.govinfo.gov/link/plaw/107/public/303), Nov. 27, 2002, [116 Stat. 2358](https://www.govinfo.gov/link/statute/116/2358); [Pub. L. 110–365, § 4](https://www.govinfo.gov/link/plaw/110/public/365), Oct. 8, 2008, [122 Stat. 4023](https://www.govinfo.gov/link/statute/122/4023).)*

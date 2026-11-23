@@ -3,9 +3,10 @@ title: "Section 1044e - Special Victims’ Counsel for victims of sex-related of
 usc_title: 10
 usc_section: "1044e"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1044e"
-generated_at: "2026-03-30T02:53:38.096Z"
+generated_at: "2026-11-23T20:25:51.179Z"
+status: "active"
 ---
 
 # § 1044e. Special Victims’ Counsel for victims of sex-related offenses
@@ -79,3 +80,67 @@ generated_at: "2026-03-30T02:53:38.096Z"
   - **(1)** a violation of section 920, 920b, 920c, or 930 of this title (article 120, 120b, 120c, or 130 of the Uniform Code of Military Justice); or
   - **(2)** an attempt to commit an offense specified in a paragraph (1) as punishable under section 880 of this title (article 80 of the Uniform Code of Military Justice).
 - **(i)** The Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating shall prescribe regulations to carry out this section.
+
+Designation; Purposes
+
+Types of Legal Assistance Authorized
+
+Nature of Relationship
+
+Qualifications
+
+Administrative Responsibility
+
+Availability of Special Victims’ Counsel
+
+Staffing Caseload Levels
+
+Alleged Sex-related Offense Defined
+
+Regulations
+
+Civilian Support Positions
+
+Duties
+
+Special Victims’ Counsel Defined
+
+Notification to Victims of Events in Military Justice Process.—
+
+Notification required
+
+Documentation
+
+Documentation of Victim’s Preference for Prosecution Jurisdiction
+
+Regulations
+
+Training.—
+
+In general
+
+Criminal justice matters
+
+Alleged Sex-related Offense Defined
+
+Exception
+
+Consultation Regarding Victim’s Preference in Prosecution Venue.—
+
+Consultation process required
+
+Convening authority consideration of preference
+
+Notice to appropriate jurisdiction of victim’s preference for civilian prosecution
+
+Notice to victim of status of civilian prosecution when victim expresses preference for civilian prosecution
+
+Modification of Manual for Courts-Martial
+
+Notice to Counsel on Scheduling of Proceedings
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 113–66, div. A, title XVII, § 1716(a)(1)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 966](https://www.govinfo.gov/link/statute/127/966); amended [Pub. L. 113–291, div. A, title V](https://www.govinfo.gov/link/plaw/113/public/291), §§ 531(c), 533, 534(a), Dec. 19, 2014, [128 Stat. 3364](https://www.govinfo.gov/link/statute/128/3364), 3366, 3367; [Pub. L. 114–92, div. A, title V](https://www.govinfo.gov/link/plaw/114/public/92), §§ 532–534(a), 535(a), (b), Nov. 25, 2015, [129 Stat. 815](https://www.govinfo.gov/link/statute/129/815), 816; [Pub. L. 115–91, div. A, title X, § 1081(c)(2)(D)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1599](https://www.govinfo.gov/link/statute/131/1599); [Pub. L. 116–92, div. A, title V](https://www.govinfo.gov/link/plaw/116/public/92), §§ 541, 542(a), Dec. 20, 2019, [133 Stat. 1374](https://www.govinfo.gov/link/statute/133/1374), 1375; [Pub. L. 116–283, div. A, title X, § 1081(a)(22)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3872](https://www.govinfo.gov/link/statute/134/3872); [Pub. L. 117–81, div. A, title X, § 1081(a)(15)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1920](https://www.govinfo.gov/link/statute/135/1920).)*

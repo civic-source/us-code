@@ -3,9 +3,10 @@ title: "Section 703 - Sacramento River, California"
 usc_title: 33
 usc_section: "703"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 703"
-generated_at: "2026-03-30T02:55:41.072Z"
+generated_at: "2026-11-23T20:26:53.906Z"
+status: "active"
 ---
 
 # § 703. Sacramento River, California
@@ -18,3 +19,15 @@ generated_at: "2026-03-30T02:55:41.072Z"
 - **(a)** of this section. [Maintenance of works for flood control by State of California.]
 - **(c)** Upon the completion of all works for flood control herein authorized the said works shall be turned over to the State of California for maintenance thereafter; but for all other purposes the United States shall retain such control over the same as it may have the right to exercise upon such completion.
 
+
+[Flood-control works authorized.]
+
+[Limitation on expenditure of appropriations generally.]
+
+[Expenditure of contributions by State of California; acquisition of sites, easements, etc.]
+
+[Maintenance of works for flood control by State of California.]
+
+## Source Credit
+
+*(Mar. 1, 1917, ch. 144, § 2, [39 Stat. 949](https://www.govinfo.gov/link/statute/39/949); July 26, 1947, ch. 343, title II, § 205(a), [61 Stat. 501](https://www.govinfo.gov/link/statute/61/501).)*

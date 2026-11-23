@@ -3,9 +3,10 @@ title: "Section 5726 - Treatment of Hong Kong applicants for visas to study or w
 usc_title: 22
 usc_section: "5726"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 5726"
-generated_at: "2026-03-30T02:55:05.420Z"
+generated_at: "2026-11-23T20:26:32.575Z"
+status: "active"
 ---
 
 # § 5726. Treatment of Hong Kong applicants for visas to study or work in the United States
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.420Z"
 - **(c)** The Secretary of State shall contact appropriate representatives of other democratic countries, particularly those who receive a large number of applicants for student and employment visas from Hong Kong—
   - **(1)** to inform them of the United States policy regarding arrests for participation in nonviolent protests in Hong Kong; and
   - **(2)** to encourage them to take similar steps to ensure the rights of nonviolent protesters are protected from discrimination due to the actions of the Government of Hong Kong and of the Government of the People’s Republic of China.
+
+## Source Credit
+
+*([Pub. L. 102–383, title II, § 206](https://www.govinfo.gov/link/plaw/102/public/383), as added [Pub. L. 116–76, § 4(b)](https://www.govinfo.gov/link/plaw/116/public/76), Nov. 27, 2019, [133 Stat. 1165](https://www.govinfo.gov/link/statute/133/1165).)*

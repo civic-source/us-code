@@ -3,9 +3,10 @@ title: "Section 3701 - Definitions"
 usc_title: 38
 usc_section: "3701"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 3701"
-generated_at: "2026-03-30T02:55:53.511Z"
+generated_at: "2026-11-23T20:27:01.891Z"
+status: "active"
 ---
 
 # § 3701. Definitions
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:53.511Z"
     - **(A)** of not less than 90 cumulative days; and
     - **(B)** that includes 30 consecutive days.
 - **(c)** Benefits shall not be afforded under this chapter to any individual on account of service as a commissioned officer of the National Oceanic and Atmospheric Administration (or predecessor entity), or of the Regular or Reserve Corps 1 1 See Change of Name note below. of the Public Health Service, unless such service would have qualified such individual for benefits under title III of the Servicemen’s Readjustment Act of 1944.
+
+## Source Credit
+
+*([Pub. L. 85–857](https://www.govinfo.gov/link/plaw/85/public/857), Sept. 2, 1958, [72 Stat. 1203](https://www.govinfo.gov/link/statute/72/1203), § 1801; [Pub. L. 91–584, § 5(a)](https://www.govinfo.gov/link/plaw/91/public/584), Dec. 24, 1970, [84 Stat. 1576](https://www.govinfo.gov/link/statute/84/1576); [Pub. L. 94–324, § 7(1)](https://www.govinfo.gov/link/plaw/94/public/324), (2), June 30, 1976, [90 Stat. 721](https://www.govinfo.gov/link/statute/90/721); [Pub. L. 97–72, title III, § 303(a)](https://www.govinfo.gov/link/plaw/97/public/72), Nov. 3, 1981, [95 Stat. 1059](https://www.govinfo.gov/link/statute/95/1059); [Pub. L. 97–295, § 4(62)](https://www.govinfo.gov/link/plaw/97/public/295), Oct. 12, 1982, [96 Stat. 1309](https://www.govinfo.gov/link/statute/96/1309); [Pub. L. 100–322, title IV, § 415(c)(1)](https://www.govinfo.gov/link/plaw/100/public/322), May 20, 1988, [102 Stat. 551](https://www.govinfo.gov/link/statute/102/551); [Pub. L. 101–237, title III, § 313(a)](https://www.govinfo.gov/link/plaw/101/public/237), Dec. 18, 1989, [103 Stat. 2077](https://www.govinfo.gov/link/statute/103/2077); renumbered § 3701 and amended [Pub. L. 102–83, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/83), (c)(1), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 102–547, § 2(a)(1)](https://www.govinfo.gov/link/plaw/102/public/547), Oct. 28, 1992, [106 Stat. 3633](https://www.govinfo.gov/link/statute/106/3633); [Pub. L. 103–446, title IX, § 901](https://www.govinfo.gov/link/plaw/103/public/446), Nov. 2, 1994, [108 Stat. 4675](https://www.govinfo.gov/link/statute/108/4675); [Pub. L. 104–106, div. A, title XV, § 1501(e)(2)(B)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 501](https://www.govinfo.gov/link/statute/110/501); [Pub. L. 112–154, title II, § 206(a)](https://www.govinfo.gov/link/plaw/112/public/154), Aug. 6, 2012, [126 Stat. 1178](https://www.govinfo.gov/link/statute/126/1178); [Pub. L. 116–283, div. A, title IX, § 926(a)(47)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3830](https://www.govinfo.gov/link/statute/134/3830); [Pub. L. 116–315, title II, § 2101(a)](https://www.govinfo.gov/link/plaw/116/public/315), Jan. 5, 2021, [134 Stat. 4981](https://www.govinfo.gov/link/statute/134/4981).)*

@@ -3,9 +3,10 @@ title: "Section 113 - Definitions of terms and words used in chapter"
 usc_title: 29
 usc_section: "113"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 113"
-generated_at: "2026-03-30T02:55:18.677Z"
+generated_at: "2026-11-23T20:26:37.778Z"
+status: "active"
 ---
 
 # § 113. Definitions of terms and words used in chapter
@@ -16,3 +17,7 @@ When used in this chapter, and for the purposes of this chapter—
 - **(b)** A person or association shall be held to be a person participating or interested in a labor dispute if relief is sought against him or it, and if he or it is engaged in the same industry, trade, craft, or occupation in which such dispute occurs, or has a direct or indirect interest therein, or is a member, officer, or agent of any association composed in whole or in part of employers or employees engaged in such industry, trade, craft, or occupation.
 - **(c)** The term “labor dispute” includes any controversy concerning terms or conditions of employment, or concerning the association or representation of persons in negotiating, fixing, maintaining, changing, or seeking to arrange terms or conditions of employment, regardless of whether or not the disputants stand in the proximate relation of employer and employee.
 - **(d)** The term “court of the United States” means any court of the United States whose jurisdiction has been or may be conferred or defined or limited by Act of Congress, including the courts of the District of Columbia.
+
+## Source Credit
+
+*(Mar. 23, 1932, ch. 90, § 13, [47 Stat. 73](https://www.govinfo.gov/link/statute/47/73).)*

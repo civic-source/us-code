@@ -3,9 +3,10 @@ title: "Section 17389 - Technology demonstration on the distribution grid"
 usc_title: 42
 usc_section: "17389"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17389"
-generated_at: "2026-03-30T02:56:11.507Z"
+generated_at: "2026-11-23T20:27:23.760Z"
+status: "active"
 ---
 
 # § 17389. Technology demonstration on the distribution grid
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.507Z"
   - **(2)** demonstrate—
     - **(A)** secure integration and management of two or more energy resources, including distributed energy generation, combined heat and power, micro-grids, energy storage, electric vehicles, energy efficiency, demand response, and intelligent loads; and
     - **(B)** secure integration and interoperability of communications and information technologies.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. Z, title VIII, § 8007](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2586](https://www.govinfo.gov/link/statute/134/2586).)*

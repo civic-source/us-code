@@ -3,12 +3,17 @@ title: "Section 2668a - Disposition of trust funds received from foreign governm
 usc_title: 22
 usc_section: "2668a"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2668a"
-generated_at: "2026-03-30T02:55:05.377Z"
+generated_at: "2026-11-23T20:26:32.364Z"
+status: "active"
 ---
 
 # § 2668a. Disposition of trust funds received from foreign governments for citizens of United States
 
 All moneys received by the Secretary of State from foreign governments and other sources, in trust for citizens of the United States or others, shall be deposited and covered into the Treasury. The Secretary of State shall determine the amounts due claimants, respectively, from each of such trust funds, and certify the same to the Secretary of the Treasury, who shall, upon the presentation of the certificates of the Secretary of State, pay the amounts so found to be due. Each of the trust funds covered into the Treasury as aforesaid is appropriated for the payment to the ascertained beneficiaries thereof of the certificates provided for in this section.
 
+
+## Source Credit
+
+*(Feb. 27, 1896, ch. 34, [29 Stat. 32](https://www.govinfo.gov/link/statute/29/32).)*

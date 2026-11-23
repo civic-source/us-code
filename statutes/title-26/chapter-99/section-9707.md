@@ -3,9 +3,10 @@ title: "Section 9707 - Failure to pay premium"
 usc_title: 26
 usc_section: "9707"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 9707"
-generated_at: "2026-03-30T02:55:27.894Z"
+generated_at: "2026-11-23T20:26:46.893Z"
+status: "active"
 ---
 
 # § 9707. Failure to pay premium
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:27.894Z"
   - **(3)** In the case of a failure that is due to reasonable cause and not to willful neglect, the Secretary of the Treasury may waive all or part of the penalty imposed by subsection (a) for failures to the extent that the Secretary determines, in his sole discretion, that the payment of such penalty would be excessive relative to the failure involved.
 - **(e)** The person failing to meet the requirements of section 9704 shall be liable for the penalty imposed by subsection (a).
 - **(f)** For purposes of this title, the penalty imposed by this section shall be treated in the same manner as the tax imposed by section 4980B.
+
+## Source Credit
+
+*(Added [Pub. L. 102–486, title XIX, § 19143(a)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3050](https://www.govinfo.gov/link/statute/106/3050); amended [Pub. L. 104–188, title I, § 1704(t)(65)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1890](https://www.govinfo.gov/link/statute/110/1890); [Pub. L. 109–432, div. C, title II, § 213(b)(1)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 3027](https://www.govinfo.gov/link/statute/120/3027).)*

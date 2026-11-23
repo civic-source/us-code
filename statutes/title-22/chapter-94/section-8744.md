@@ -3,12 +3,17 @@ title: "Section 8744 - Rule of construction"
 usc_title: 22
 usc_section: "8744"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8744"
-generated_at: "2026-03-30T02:55:05.456Z"
+generated_at: "2026-11-23T20:26:32.734Z"
+status: "active"
 ---
 
 # § 8744. Rule of construction
 
 Nothing in this subchapter shall be construed to limit the authority of the President to designate foreign persons for the imposition of sanctions pursuant to the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.).
 
+
+## Source Credit
+
+*([Pub. L. 112–158, title III, § 304](https://www.govinfo.gov/link/plaw/112/public/158), Aug. 10, 2012, [126 Stat. 1247](https://www.govinfo.gov/link/statute/126/1247).)*

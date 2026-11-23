@@ -3,9 +3,10 @@ title: "Section 5386 - General provisions"
 usc_title: 25
 usc_section: "5386"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 5386"
-generated_at: "2026-03-30T02:54:52.870Z"
+generated_at: "2026-11-23T20:26:25.747Z"
+status: "active"
 ---
 
 # § 5386. General provisions
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:54:52.870Z"
     - **(B)** the funds referred to in subparagraph (A) shall be transferred from the funding agreement of the inter-tribal consortium or tribal organization, on the condition that the provisions of sections 5321 and 5324(i) of this title, as appropriate, shall apply to that withdrawing Indian tribe.
   - **(3)** If an Indian tribe elects to operate all or some programs, services, functions, or activities (or portions thereof) carried out under a compact or funding agreement under this subchapter through a self-determination contract under subchapter I of this chapter, at the option of the Indian tribe, the resulting self-determination contract shall be a mature self-determination contract.
 - **(h)** For the period for which, and to the extent to which, funding is provided under this subchapter or under the compact or funding agreement, the Indian tribe shall not be entitled to contract with the Secretary for such funds under section 5321 of this title , except that such Indian tribe shall be eligible for new programs on the same basis as other Indian tribes.
+
+## Source Credit
+
+*([Pub. L. 93–638, title V, § 506](https://www.govinfo.gov/link/plaw/93/public/638), as added [Pub. L. 106–260, § 4](https://www.govinfo.gov/link/plaw/106/public/260), Aug. 18, 2000, [114 Stat. 717](https://www.govinfo.gov/link/statute/114/717).)*

@@ -3,9 +3,10 @@ title: "Section 3691A - Withdrawal or leave of absence from certain education"
 usc_title: 38
 usc_section: "3691A"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 3691A"
-generated_at: "2026-03-30T02:55:53.509Z"
+generated_at: "2026-11-23T20:27:01.879Z"
+status: "active"
 ---
 
 # § 3691A. Withdrawal or leave of absence from certain education
@@ -34,3 +35,15 @@ generated_at: "2026-03-30T02:55:53.509Z"
   - **(4)** The term “institution concerned” means, with respect to a covered member, the institution of higher education where the covered member is enrolled in covered education.
   - **(5)** The term “institution of higher education” has the meaning given such term in section 101 of the Higher Education Act of 1965 ( 20 U.S.C. 1001 ).
   - **(6)** The term “period of covered service” means the period beginning on the date on which a covered member enters covered service and ending on the date on which the covered member is released from covered service or dies while in covered service.
+
+In General
+
+Withdrawal
+
+Leave of Absence
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 117–328, div. U, title II, § 216(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5455](https://www.govinfo.gov/link/statute/136/5455).)*

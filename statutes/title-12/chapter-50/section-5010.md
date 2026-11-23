@@ -3,9 +3,10 @@ title: "Section 5010 - Statute of limitations and notice of claim"
 usc_title: 12
 usc_section: "5010"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5010"
-generated_at: "2026-03-30T02:53:53.522Z"
+generated_at: "2026-11-23T20:25:59.441Z"
+status: "active"
 ---
 
 # § 5010. Statute of limitations and notice of claim
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:53.522Z"
   - **(2)** A cause of action accrues as of the date the injured party first learns, or by which such person reasonably should have learned, of the facts and circumstances giving rise to the cause of action.
 - **(b)** Except as provided in subsection (c), unless a person gives notice of a claim to the indemnifying or warranting bank within 30 days after the person has reason to know of the claim and the identity of the indemnifying or warranting bank, the indemnifying or warranting bank is discharged from liability in an action to enforce a claim under this chapter to the extent of any loss caused by the delay in giving notice of the claim.
 - **(c)** A timely claim by a consumer under section 5006 of this title for expedited recredit constitutes timely notice of a claim by the consumer for purposes of subsection (b).
+
+## Source Credit
+
+*([Pub. L. 108–100, § 11](https://www.govinfo.gov/link/plaw/108/public/100), Oct. 28, 2003, [117 Stat. 1188](https://www.govinfo.gov/link/statute/117/1188).)*

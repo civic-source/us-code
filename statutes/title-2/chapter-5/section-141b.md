@@ -3,9 +3,10 @@ title: "Section 141b - Collections, physical security, control, and preservation
 usc_title: 2
 usc_section: "141b"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 141b"
-generated_at: "2026-03-30T02:53:04.788Z"
+generated_at: "2026-11-23T20:25:28.843Z"
+status: "active"
 ---
 
 # § 141b. Collections, physical security, control, and preservation of order and decorum within the library
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:04.788Z"
     - **(B)** Section 141a of this title .
     - **(C)** Section 1964 of this title .
     - **(D)** Section 1965 of this title .
+
+## Source Credit
+
+*([Pub. L. 110–161, div. H, title I, § 1004(e)](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2234](https://www.govinfo.gov/link/statute/121/2234); [Pub. L. 110–178, § 5](https://www.govinfo.gov/link/plaw/110/public/178), Jan. 7, 2008, [121 Stat. 2552](https://www.govinfo.gov/link/statute/121/2552); [Pub. L. 111–145, § 6(d)(1)](https://www.govinfo.gov/link/plaw/111/public/145), Mar. 4, 2010, [124 Stat. 54](https://www.govinfo.gov/link/statute/124/54).)*

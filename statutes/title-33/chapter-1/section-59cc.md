@@ -3,9 +3,10 @@ title: "Section 59cc - Declaration of nonnavigability of portion of Hudson River
 usc_title: 33
 usc_section: "59cc"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 59cc"
-generated_at: "2026-03-30T02:55:41.052Z"
+generated_at: "2026-11-23T20:26:53.792Z"
+status: "active"
 ---
 
 # § 59cc. Declaration of nonnavigability of portion of Hudson River, New York
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:41.052Z"
 - **(f)** For the purposes of this section, the term “proposed project” means any project for the rehabilitation and development of—
   - **(1)** the structure located in the area described in subsection (b), commonly referred to as Pier A; and
   - **(2)** the area surrounding such structure.
+
+## Source Credit
+
+*([Pub. L. 102–240, title I, § 1078](https://www.govinfo.gov/link/plaw/102/public/240), Dec. 18, 1991, [105 Stat. 2015](https://www.govinfo.gov/link/statute/105/2015).)*

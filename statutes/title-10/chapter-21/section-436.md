@@ -3,9 +3,10 @@ title: "Section 436 - Regulations"
 usc_title: 10
 usc_section: "436"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 436"
-generated_at: "2026-03-30T02:53:38.059Z"
+generated_at: "2026-11-23T20:25:50.957Z"
+status: "active"
 ---
 
 # § 436. Regulations
@@ -18,3 +19,7 @@ The Secretary of Defense shall prescribe regulations to implement the authority 
   - **(4)** designate a single office within the Department of Defense to be responsible for the oversight of all activities authorized under this subchapter;
   - **(5)** require that each commercial activity proposed to be authorized under this subchapter be subject to appropriate legal review before the activity is authorized; and
   - **(6)** provide for appropriate internal audit controls and oversight for such activities.
+
+## Source Credit
+
+*(Added [Pub. L. 102–88, title V, § 504(a)(2)](https://www.govinfo.gov/link/plaw/102/public/88), Aug. 14, 1991, [105 Stat. 439](https://www.govinfo.gov/link/statute/105/439); amended [Pub. L. 113–66, div. A, title IX, § 921(b)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 827](https://www.govinfo.gov/link/statute/127/827).)*

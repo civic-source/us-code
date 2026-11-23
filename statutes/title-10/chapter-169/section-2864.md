@@ -3,9 +3,10 @@ title: "Section 2864 - Master plans for major military installations"
 usc_title: 10
 usc_section: "2864"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2864"
-generated_at: "2026-03-30T02:53:38.180Z"
+generated_at: "2026-11-23T20:25:51.742Z"
+status: "active"
 ---
 
 # § 2864. Master plans for major military installations
@@ -41,3 +42,57 @@ generated_at: "2026-03-30T02:53:38.180Z"
   - **(2)** The terms “metropolitan planning area” and “metropolitan planning organization” have the meanings given those terms in section 134(b) of title 23 and section 5303(b) of title 49 .
   - **(3)** The term “energy and climate resiliency” means anticipation, preparation for, and adaptation to utility disruptions and changing environmental conditions and the ability to withstand, respond to, and recover rapidly from utility disruptions while ensuring the sustainment of mission-critical operations.
   - **(4)** The term “military installation resilience” has the meaning given that term in section 101(e) 1 1 See References in Text note below. of this title.
+
+Plans Required
+
+Transportation Component
+
+Military Installation Resilience Component
+
+Report
+
+Definitions
+
+Pilot Project
+
+Selection
+
+Collaboration
+
+Strategic Decisions Relating to Military Installations
+
+National Defense Strategy and National Military Strategy
+
+National Security Planning Documents
+
+Campaign Plans of Combatant Commands
+
+Definitions
+
+Identification of At-Risk Installations
+
+Completion Deadline
+
+Briefings
+
+Definitions
+
+In General
+
+Military Installation Resilience
+
+Fiscal year 2019
+
+Fiscal year 2020.—
+
+Amendments required
+
+“(aa) from the United States Global Change Research Program, including in the National Climate Assessment; or
+
+“(bb) from the National Oceanic and Atmospheric Administration, if such projections are more up-to-date than projections under item (aa).
+
+Notification
+
+## Source Credit
+
+*(Added [Pub. L. 112–239, div. B, title XXVIII, § 2802(a)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2147](https://www.govinfo.gov/link/statute/126/2147); amended [Pub. L. 113–66, div. B, title XXVIII, § 2811](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 1013](https://www.govinfo.gov/link/statute/127/1013); [Pub. L. 115–232, div. B, title XXVIII, § 2805(d)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2263](https://www.govinfo.gov/link/statute/132/2263); [Pub. L. 116–92, div. B, title XXVIII, § 2801(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1879](https://www.govinfo.gov/link/statute/133/1879); [Pub. L. 117–81, div. B, title XXVIII](https://www.govinfo.gov/link/plaw/117/public/81), §§ 2831, 2832, Dec. 27, 2021, [135 Stat. 2198](https://www.govinfo.gov/link/statute/135/2198); [Pub. L. 118–31, div. A, title XVIII, § 1801(a)(23)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 684](https://www.govinfo.gov/link/statute/137/684); [Pub. L. 119–60, div. B, title XXVIII, § 2848(b)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1319](https://www.govinfo.gov/link/statute/139/1319).)*

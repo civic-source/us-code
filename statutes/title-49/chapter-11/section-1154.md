@@ -3,9 +3,10 @@ title: "Section 1154 - Discovery and use of cockpit and surface vehicle recordin
 usc_title: 49
 usc_section: "1154"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 1154"
-generated_at: "2026-03-30T02:56:19.304Z"
+generated_at: "2026-11-23T20:27:34.574Z"
+status: "active"
 ---
 
 # § 1154. Discovery and use of cockpit and surface vehicle recordings and transcripts
@@ -34,3 +35,67 @@ generated_at: "2026-03-30T02:56:19.304Z"
     - **(B)** The term “still image” means any still image obtained from a video recorder.
     - **(C)** The term “transcript” includes any written depiction of visual information obtained from a video recorder.
 - **(b)** No part of a report of the Board, related to an accident or an investigation of an accident, may be admitted into evidence or used in a civil action for damages resulting from a matter mentioned in the report.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1154(a) | 49 App.:1905(c)(3), (d). | Jan. 3, 1975 , Pub. L. 93–633 , 88 Stat. 2156 , § 306(c)(3), (d); added Oct. 14, 1982 , Pub. L. 97–309, § 2 , 96 Stat. 1453 ; restated Nov. 28, 1990 , Pub. L. 101–641, § 4 , 104 Stat. 4655 . |
+| 1154(b) | 49 App.:1441(e). | Aug. 23, 1958 , Pub. L. 85–726, § 701(e) , 72 Stat. 781 . |
+|  | 49 App.:1655(d) (1st sentence). | Oct. 15, 1966 , Pub. L. 89–670, § 6(d) (1st sentence), 80 Stat. 938 . |
+|  | 49 App.:1903(a)(1)(A), (c). | Jan. 3, 1975 , Pub. L. 93–633, § 304(a)(1)(A) , (c), 88 Stat. 2168 , 2171. |
+
+
+In General
+
+Recorder
+
+Still image
+
+Transcript
+
+Reports
+
+Historical and Revision Notes
+
+1154(a)
+
+Jan. 3, 1975
+
+Pub. L. 93–633
+
+88 Stat. 2156
+
+Oct. 14, 1982
+
+Pub. L. 97–309, § 2
+
+96 Stat. 1453
+
+Nov. 28, 1990
+
+Pub. L. 101–641, § 4
+
+104 Stat. 4655
+
+1154(b)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 701(e)
+
+72 Stat. 781
+
+Oct. 15, 1966
+
+Pub. L. 89–670, § 6(d)
+
+80 Stat. 938
+
+Jan. 3, 1975
+
+Pub. L. 93–633, § 304(a)(1)(A)
+
+88 Stat. 2168
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 757](https://www.govinfo.gov/link/statute/108/757); [Pub. L. 106–424, § 5(c)(1)](https://www.govinfo.gov/link/plaw/106/public/424), Nov. 1, 2000, [114 Stat. 1885](https://www.govinfo.gov/link/statute/114/1885); [Pub. L. 115–254, div. C, § 1104(b)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3430](https://www.govinfo.gov/link/statute/132/3430).)*

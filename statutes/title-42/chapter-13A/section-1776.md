@@ -3,9 +3,10 @@ title: "Section 1776 - State administrative expenses"
 usc_title: 42
 usc_section: "1776"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1776"
-generated_at: "2026-03-30T02:56:11.119Z"
+generated_at: "2026-11-23T20:27:21.896Z"
+status: "active"
 ---
 
 # § 1776. State administrative expenses
@@ -112,3 +113,15 @@ generated_at: "2026-03-30T02:56:11.119Z"
       - **(iii)** compatibility with statewide reporting systems.
   - **(4)** There are authorized to be appropriated to carry out this subsection such sums as are necessary for each of fiscal years 2010 through 2015, to remain available until expended.
 - **(j)** For the fiscal year beginning October 1, 1977 , and each succeeding fiscal year ending before October 1, 2015 , there are hereby authorized to be appropriated such sums as may be necessary for the purposes of this section.
+
+Reallocation of funds.—
+
+Return to secretary
+
+Reallocation by secretary
+
+Use of administrative funds
+
+## Source Credit
+
+*([Pub. L. 89–642, § 7](https://www.govinfo.gov/link/plaw/89/public/642), Oct. 11, 1966, [80 Stat. 888](https://www.govinfo.gov/link/statute/80/888); [Pub. L. 90–302, § 4](https://www.govinfo.gov/link/plaw/90/public/302), May 8, 1968, [82 Stat. 119](https://www.govinfo.gov/link/statute/82/119); [Pub. L. 91–248, § 5](https://www.govinfo.gov/link/plaw/91/public/248), May 14, 1970, [84 Stat. 210](https://www.govinfo.gov/link/statute/84/210); [Pub. L. 95–166, § 14](https://www.govinfo.gov/link/plaw/95/public/166), Nov. 10, 1977, [91 Stat. 1338](https://www.govinfo.gov/link/statute/91/1338); [Pub. L. 95–627, § 7(a)](https://www.govinfo.gov/link/plaw/95/public/627), Nov. 10, 1978, [92 Stat. 3621](https://www.govinfo.gov/link/statute/92/3621); [Pub. L. 96–499, title II, § 201(b)](https://www.govinfo.gov/link/plaw/96/public/499), Dec. 5, 1980, [94 Stat. 2600](https://www.govinfo.gov/link/statute/94/2600); [Pub. L. 97–35, title VIII](https://www.govinfo.gov/link/plaw/97/public/35), §§ 814, 819(e), Aug. 13, 1981, [95 Stat. 531](https://www.govinfo.gov/link/statute/95/531), 533; [Pub. L. 99–500, title III](https://www.govinfo.gov/link/plaw/99/public/500), §§ 313, 332, Oct. 18, 1986, [100 Stat. 1783–360](https://www.govinfo.gov/link/statute/100/1783), 1783–363, and [Pub. L. 99–591, title III](https://www.govinfo.gov/link/plaw/99/public/591), §§ 313, 332, Oct. 30, 1986, [100 Stat. 3341–363](https://www.govinfo.gov/link/statute/100/3341), 3341–367; [Pub. L. 99–661, div. D, title I, § 4103](https://www.govinfo.gov/link/plaw/99/public/661), title II, § 4212, Nov. 14, 1986, [100 Stat. 4071](https://www.govinfo.gov/link/statute/100/4071), 4075; [Pub. L. 101–147, title I, § 122(a)](https://www.govinfo.gov/link/plaw/101/public/147), Nov. 10, 1989, [103 Stat. 893](https://www.govinfo.gov/link/statute/103/893); [Pub. L. 102–512, title I, § 103](https://www.govinfo.gov/link/plaw/102/public/512), Oct. 24, 1992, [106 Stat. 3363](https://www.govinfo.gov/link/statute/106/3363); [Pub. L. 103–448, title I, § 117(a)(2)(B)](https://www.govinfo.gov/link/plaw/103/public/448), title II, § 202, Nov. 2, 1994, [108 Stat. 4717](https://www.govinfo.gov/link/statute/108/4717), 4737; [Pub. L. 104–193, title VII, § 724](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2302](https://www.govinfo.gov/link/statute/110/2302); [Pub. L. 105–336, title II, § 202](https://www.govinfo.gov/link/plaw/105/public/336), Oct. 31, 1998, [112 Stat. 3158](https://www.govinfo.gov/link/statute/112/3158); [Pub. L. 106–78, title VII, § 752(b)(16)](https://www.govinfo.gov/link/plaw/106/public/78), Oct. 22, 1999, [113 Stat. 1170](https://www.govinfo.gov/link/statute/113/1170); [Pub. L. 106–224, title II, § 243(j)](https://www.govinfo.gov/link/plaw/106/public/224), June 20, 2000, [114 Stat. 420](https://www.govinfo.gov/link/statute/114/420); [Pub. L. 108–265, title I, § 126(c)](https://www.govinfo.gov/link/plaw/108/public/265), title II, § 202, June 30, 2004, [118 Stat. 765](https://www.govinfo.gov/link/statute/118/765), 769; [Pub. L. 111–296, title III, § 306](https://www.govinfo.gov/link/plaw/111/public/296), title IV, §§ 421, 422, 441(b)(1), Dec. 13, 2010, [124 Stat. 3243](https://www.govinfo.gov/link/statute/124/3243), 3260, 3264; [Pub. L. 119–69, § 3](https://www.govinfo.gov/link/plaw/119/public/69), Jan. 14, 2026, [139 Stat. 1998](https://www.govinfo.gov/link/statute/139/1998).)*

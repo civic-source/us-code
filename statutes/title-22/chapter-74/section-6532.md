@@ -3,12 +3,17 @@ title: "Section 6532 - Transfer of functions"
 usc_title: 22
 usc_section: "6532"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6532"
-generated_at: "2026-03-30T02:55:05.430Z"
+generated_at: "2026-11-23T20:26:32.620Z"
+status: "active"
 ---
 
 # § 6532. Transfer of functions
 
 - **(a)** There are transferred to the Secretary of State all functions of the Director of the United States Information Agency and all functions of the United States Information Agency and any office or component of such agency, under any statute, reorganization plan, Executive order, or other provision of law, as of the day before the effective date of this subchapter.
 - **(b)** Subsection (a) does not apply to the Broadcasting Board of Governors, the International Broadcasting Bureau, or any function performed by the Board or the Bureau.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XIII, § 1312, Oct. 21, 1998, [112 Stat. 2681–776](https://www.govinfo.gov/link/statute/112/2681).)*

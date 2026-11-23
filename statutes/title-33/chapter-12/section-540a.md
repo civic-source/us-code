@@ -3,12 +3,17 @@ title: "Section 540a - Availability of appropriations for attendance by military
 usc_title: 33
 usc_section: "540a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 540a"
-generated_at: "2026-03-30T02:55:41.061Z"
+generated_at: "2026-11-23T20:26:53.852Z"
+status: "active"
 ---
 
 # § 540a. Availability of appropriations for attendance by military personnel at meetings and for printing survey reports
 
 Appropriations in this title 1 1 See References in Text note below. or appropriations made in this title 1 in subsequent Energy and Water Development Appropriations Acts shall on and after October 2, 1992 , be available for expenses of attendance by military personnel at meetings in the manner authorized by section 4110 of title 5 , uniforms, and allowances therefor, as authorized by law ( 5 U.S.C. 5901–590 2), and for printing, either during a recess or session of Congress, of survey reports authorized by law, and such survey reports as may be printed during a recess of Congress shall be printed, with illustrations, as documents of the next succeeding session of Congress.
 
+
+## Source Credit
+
+*([Pub. L. 102–377, title I](https://www.govinfo.gov/link/plaw/102/public/377), Oct. 2, 1992, [106 Stat. 1325](https://www.govinfo.gov/link/statute/106/1325).)*

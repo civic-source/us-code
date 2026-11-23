@@ -3,9 +3,10 @@ title: "Section 921 - Art. 121. Larceny and wrongful appropriation"
 usc_title: 10
 usc_section: "921"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 921"
-generated_at: "2026-03-30T02:53:38.086Z"
+generated_at: "2026-11-23T20:25:51.127Z"
+status: "active"
 ---
 
 # § 921. Art. 121. Larceny and wrongful appropriation
@@ -14,3 +15,22 @@ generated_at: "2026-03-30T02:53:38.086Z"
   - **(1)** with intent permanently to deprive or defraud another person of the use and benefit of property or to appropriate it to his own use or the use of any person other than the owner, steals that property and is guilty of larceny; or
   - **(2)** with intent temporarily to deprive or defraud another person of the use and benefit of property or to appropriate it to his own use or the use of any person other than the owner, is guilty of wrongful appropriation.
 - **(b)** Any person found guilty of larceny or wrongful appropriation shall be punished as a court-martial may direct.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 921(a) 921(b) | 50:715(a). 50:715(b). | May 5, 1950, ch. 169, § 1 (Art. 121), 64 Stat. 140 . |
+
+
+Historical and Revision Notes
+
+921(a)
+
+921(b)
+
+May 5, 1950, ch. 169, § 1
+
+64 Stat. 140
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 73.)*

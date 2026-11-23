@@ -3,9 +3,10 @@ title: "Section 7429 - Review of jeopardy levy or assessment procedures"
 usc_title: 26
 usc_section: "7429"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 7429"
-generated_at: "2026-03-30T02:55:27.871Z"
+generated_at: "2026-11-23T20:26:46.764Z"
+status: "active"
 ---
 
 # § 7429. Review of jeopardy levy or assessment procedures
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:55:27.871Z"
 - **(g)**
   - **(1)** In a proceeding under subsection (b) involving the issue of whether the making of a levy described in subsection (a)(1) or the making of an assessment under section 6851, 6852, 6861, or 6862 is reasonable under the circumstances, the burden of proof in respect to such issue shall be upon the Secretary.
   - **(2)** In a proceeding under subsection (b) involving the issue of whether an amount assessed or demanded as a result of action taken under section 6851, 6852, 6861, or 6862 is appropriate under the circumstances, the Secretary shall provide a written statement which contains any information with respect to which his determination of the amount assessed was based, but the burden of proof in respect of such issue shall be upon the taxpayer.
+
+## Source Credit
+
+*(Added [Pub. L. 94–455, title XII, § 1204(a)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1695](https://www.govinfo.gov/link/statute/90/1695); amended [Pub. L. 98–369, div. A, title IV, § 446(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 817](https://www.govinfo.gov/link/statute/98/817); [Pub. L. 100–203, title X, § 10713(b)(2)(F)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–470](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–647, title VI, § 6237(a)](https://www.govinfo.gov/link/plaw/100/public/647) –(e)(3), Nov. 10, 1988, [102 Stat. 3741–3743](https://www.govinfo.gov/link/statute/102/3741); [Pub. L. 105–206, title III, § 3434(a)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 760](https://www.govinfo.gov/link/statute/112/760).)*

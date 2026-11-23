@@ -3,12 +3,17 @@ title: "Section 213 - Appropriation for preparing and editing supplements"
 usc_title: 1
 usc_section: "213"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "1 U.S.C. § 213"
-generated_at: "2026-03-30T02:52:49.393Z"
+generated_at: "2026-11-23T20:25:27.180Z"
+status: "active"
 ---
 
 # § 213. Appropriation for preparing and editing supplements
 
 For preparation and editing an annual appropriation of $6,500 is authorized to carry out the purposes of sections 202 and 203 of this title.
 
+
+## Source Credit
+
+*(July 30, 1947, ch. 388, [61 Stat. 640](https://www.govinfo.gov/link/statute/61/640).)*

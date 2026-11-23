@@ -3,9 +3,10 @@ title: "Section 5004 - Substitute check warranties"
 usc_title: 12
 usc_section: "5004"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5004"
-generated_at: "2026-03-30T02:53:53.521Z"
+generated_at: "2026-11-23T20:25:59.439Z"
+status: "active"
 ---
 
 # § 5004. Substitute check warranties
@@ -14,3 +15,7 @@ A bank that transfers, presents, or returns a substitute check and receives cons
 
   - **(1)** the substitute check meets all the requirements for legal equivalence under section 5003(b) of this title ; and
   - **(2)** no depositary bank, drawee, drawer, or endorser will receive presentment or return of the substitute check, the original check, or a copy or other paper or electronic version of the substitute check or original check such that the bank, drawee, drawer, or endorser will be asked to make a payment based on a check that the bank, drawee, drawer, or endorser has already paid.
+
+## Source Credit
+
+*([Pub. L. 108–100, § 5](https://www.govinfo.gov/link/plaw/108/public/100), Oct. 28, 2003, [117 Stat. 1181](https://www.govinfo.gov/link/statute/117/1181).)*

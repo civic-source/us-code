@@ -3,9 +3,10 @@ title: "Section 8502 - Military Veterans Outdoor Recreation Liaisons"
 usc_title: 16
 usc_section: "8502"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 8502"
-generated_at: "2026-03-30T02:54:23.087Z"
+generated_at: "2026-11-23T20:26:20.892Z"
+status: "active"
 ---
 
 # § 8502. Military Veterans Outdoor Recreation Liaisons
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:23.087Z"
     - **(C)** facilitating the use of Federal recreational lands and waters for promoting wellness and facilitating the delivery of health care and therapeutic interventions for veterans;
   - **(3)** coordinate with Military Veterans Outdoor Recreation Liaisons at other Federal agencies and veterans organizations; and
   - **(4)** promote outdoor recreation experiences for veterans on Federal recreational lands and waters through new and innovative approaches.
+
+## Source Credit
+
+*([Pub. L. 118–234, title II, § 222](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2887](https://www.govinfo.gov/link/statute/138/2887).)*

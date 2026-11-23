@@ -3,9 +3,10 @@ title: "Section 5178 - Premises of distilled spirits plants"
 usc_title: 26
 usc_section: "5178"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 5178"
-generated_at: "2026-03-30T02:55:27.820Z"
+generated_at: "2026-11-23T20:26:46.417Z"
+status: "active"
 ---
 
 # § 5178. Premises of distilled spirits plants
@@ -31,3 +32,50 @@ generated_at: "2026-03-30T02:55:27.820Z"
   - **(2)** For penalty for distilling on prohibited premises, see section 5601(a)(6).
   - **(3)** For provisions relating to the bottling of distilled spirits labeled as alcohol, see section 5235.
   - **(4)** For provisions relating to the unauthorized use of distilled spirits in any manufacturing process, see section 5601(a)(9).
+
+| Present subsecs.: | Prior sections |
+| --- | --- |
+| (a)(1)(A) | 5172, 5173(a), 5231, 5271(a), 5273(a), 5305. |
+| (a)(1)(B) | 5171(a). |
+| (a)(2)(A) | 5307. |
+| (a)(2)(B) | 5173(b). |
+| (a)(2)(C) | 5173(a), (c). |
+| (a)(3) | 5231, 5243(a), 5302. |
+| (a)(4)(A) | 5243(a). |
+| (a)(4)(B), (D) | 5271(a), 5273(a). |
+| (a)(5) | 5303, 5305, 5331(a)(1). |
+| (b) | 5171(a). |
+| (c)(1) | 5173(d)(1), 5273(b)(1). |
+| (c)(2) | 5171(b). |
+| (c)(4) | 5216(b). |
+
+
+(a)(1)(A)
+
+(a)(1)(B)
+
+(a)(2)(A)
+
+(a)(2)(B)
+
+(a)(2)(C)
+
+(a)(3)
+
+(a)(4)(A)
+
+(a)(4)(B), (D)
+
+(a)(5)
+
+(b)
+
+(c)(1)
+
+(c)(2)
+
+(c)(4)
+
+## Source Credit
+
+*(Added [Pub. L. 85–859, title II, § 201](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1353](https://www.govinfo.gov/link/statute/72/1353); amended [Pub. L. 91–659, § 5](https://www.govinfo.gov/link/plaw/91/public/659), Jan. 8, 1971, [84 Stat. 1966](https://www.govinfo.gov/link/statute/84/1966); [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 95–176, § 2(b)](https://www.govinfo.gov/link/plaw/95/public/176), Nov. 14, 1977, [91 Stat. 1364](https://www.govinfo.gov/link/statute/91/1364); [Pub. L. 96–39, title VIII](https://www.govinfo.gov/link/plaw/96/public/39), §§ 805(b)(1), 807(a)(18), July 26, 1979, [93 Stat. 275](https://www.govinfo.gov/link/statute/93/275), 283.)*

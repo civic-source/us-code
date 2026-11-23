@@ -3,9 +3,10 @@ title: "Section 207 - Conditions of lease"
 usc_title: 30
 usc_section: "207"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 207"
-generated_at: "2026-03-30T02:55:29.380Z"
+generated_at: "2026-11-23T20:26:34.923Z"
+status: "active"
 ---
 
 # § 207. Conditions of lease
@@ -25,3 +26,9 @@ generated_at: "2026-03-30T02:55:29.380Z"
   - **(6)** 1 The Secretary may, upon six months’ notification to the lessee cease to accept advance royalties in lieu of the requirement of continued operation.
   - **(7)** Nothing in this subsection shall be construed to affect the requirement contained in the second sentence of subsection (a) relating to commencement of production at the end of ten years.
 - **(c)** Prior to taking any action on a leasehold which might cause a significant disturbance of the environment, the lessee shall submit for the Secretary’s approval an operation and reclamation plan. The Secretary shall approve or disapprove the plan or require that it be modified. Where the land involved is under the surface jurisdiction of another Federal agency, that other agency must consent to the terms of such approval.
+
+“The amendment made by subsection (a) [amending this section] shall apply to a coal lease—
+
+## Source Credit
+
+*(Feb. 25, 1920, ch. 85, § 7, [41 Stat. 439](https://www.govinfo.gov/link/statute/41/439); [Pub. L. 94–377, § 6](https://www.govinfo.gov/link/plaw/94/public/377), Aug. 4, 1976, [90 Stat. 1087](https://www.govinfo.gov/link/statute/90/1087); [Pub. L. 109–58, title IV](https://www.govinfo.gov/link/plaw/109/public/58), §§ 434, 435, Aug. 8, 2005, [119 Stat. 761](https://www.govinfo.gov/link/statute/119/761), 762; [Pub. L. 119–21, title V, § 50202(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 145](https://www.govinfo.gov/link/statute/139/145).)*

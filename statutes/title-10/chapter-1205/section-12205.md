@@ -3,9 +3,10 @@ title: "Section 12205 - Commissioned officers: appointment; educational requirem
 usc_title: 10
 usc_section: "12205"
 chapter: 1205
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 12205"
-generated_at: "2026-03-30T02:53:38.268Z"
+generated_at: "2026-11-23T20:25:52.410Z"
+status: "active"
 ---
 
 # § 12205. Commissioned officers: appointment; educational requirement
@@ -27,3 +28,19 @@ generated_at: "2026-03-30T02:53:38.268Z"
   - **(1)** The Secretary of the Army may waive the applicability of subsection (a) to any officer whose original appointment in the Army as a Reserve officer is through the Army Officer Candidate School program.
   - **(2)** The Secretary of the Navy may waive the applicability of subsection (a) to any officer whose original appointment in the Marine Corps as a Reserve officer is through the Marine Corps meritorious commissioning program.
   - **(3)** Any such waiver shall be made on a case-by-case basis, considering the individual circumstances of the officer involved, and may continue in effect for no more than two years after the waiver is granted. The Secretary concerned may provide for such a waiver to be effective before the date of the waiver, as appropriate in an individual case.
+
+In General
+
+Exceptions
+
+Qualifying Educational Institutions
+
+Waiver Authority for Army OCS Graduates and Certain Marine Corps Officers
+
+Waiver Authority for Army OCS Graduates
+
+Expiration of Authority
+
+## Source Credit
+
+*(Added [Pub. L. 102–484, div. A, title V, § 515(a)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2406](https://www.govinfo.gov/link/statute/106/2406), § 596; renumbered § 12205 and amended [Pub. L. 103–337, div. A, title V](https://www.govinfo.gov/link/plaw/103/public/337), §§ 519, 520, title XVI, § 1662(c)(2), Oct. 5, 1994, [108 Stat. 2755](https://www.govinfo.gov/link/statute/108/2755), 2990; [Pub. L. 104–201, div. A, title V](https://www.govinfo.gov/link/plaw/104/public/201), §§ 504, 505, title X, § 1074(a)(22), Sept. 23, 1996, [110 Stat. 2512](https://www.govinfo.gov/link/statute/110/2512), 2660; [Pub. L. 107–107, div. A, title V, § 512(a)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1092](https://www.govinfo.gov/link/statute/115/1092); [Pub. L. 109–163, div. A, title V, § 515(b)(1)(KK)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3234](https://www.govinfo.gov/link/statute/119/3234).)*

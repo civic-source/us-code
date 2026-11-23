@@ -3,9 +3,10 @@ title: "Section 8701 - Findings and purposes"
 usc_title: 40
 usc_section: "8701"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 8701"
-generated_at: "2026-03-30T02:55:43.384Z"
+generated_at: "2026-11-23T20:26:56.647Z"
+status: "active"
 ---
 
 # § 8701. Findings and purposes
@@ -26,3 +27,46 @@ generated_at: "2026-03-30T02:55:43.384Z"
   - **(2)** The general objective of this chapter (except sections 8733–8736) is to enable appropriate agencies to plan for the development of the federal establishment at the seat of government in a manner—
     - **(A)** consistent with the nature and function of the National Capital and with due regard for the rights and prerogatives of the adjoining States and local governments to exercise control appropriate to their functions; and
     - **(B)** which will, in accordance with present and future needs, best promote public health, safety, morals, order, convenience, prosperity, and the general welfare, as well as efficiency and economy in the process of development.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 8701(a) | 40:71(a) (2d sentence). | June 6, 1924, ch. 270, § 1(a) , 43 Stat. 463 ; Apr. 30, 1926, ch. 198 , 44 Stat. 374 ; May 24, 1928, ch. 726 , 45 Stat. 726 ; July 19, 1952, ch. 949, § 1 , 66 Stat. 781 . |
+| 8701(b)(1) | 40:71(a) (1st sentence). |  |
+| 8701(b)(2) | 40:71(a) (last sentence). |  |
+
+
+Findings
+
+Purposes.—
+
+In general
+
+Objective
+
+Historical and Revision Notes
+
+8701(a)
+
+June 6, 1924, ch. 270, § 1(a)
+
+43 Stat. 463
+
+Apr. 30, 1926, ch. 198
+
+44 Stat. 374
+
+May 24, 1928, ch. 726
+
+45 Stat. 726
+
+July 19, 1952, ch. 949, § 1
+
+66 Stat. 781
+
+8701(b)(1)
+
+8701(b)(2)
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1216](https://www.govinfo.gov/link/statute/116/1216).)*

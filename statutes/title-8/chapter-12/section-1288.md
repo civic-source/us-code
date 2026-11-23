@@ -3,9 +3,10 @@ title: "Section 1288 - Limitations on performance of longshore work by alien cre
 usc_title: 8
 usc_section: "1288"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1288"
-generated_at: "2026-03-30T02:53:10.492Z"
+generated_at: "2026-11-23T20:25:36.185Z"
+status: "active"
 ---
 
 # § 1288. Limitations on performance of longshore work by alien crewmen
@@ -86,3 +87,7 @@ generated_at: "2026-03-30T02:53:10.492Z"
     - **(B)** nationals of a country (or countries) which by law, regulation, or in practice does not prohibit such activity by crewmembers aboard United States vessels hold a majority of the ownership interest in the vessel.
   - **(2)** The Secretary of State shall, in accordance with section 553 of title 5 , compile and annually maintain a list, of longshore work by particular activity, of countries where performance of such a particular activity by crewmembers aboard United States vessels is prohibited by law, regulation, or in practice in the country. By not later than 90 days after November 29, 1990 , the Secretary shall publish a notice of proposed rulemaking to establish such list. The Secretary shall first establish such list by not later than 180 days after November 29, 1990 .
   - **(3)** For purposes of this subsection, the term “in practice” refers to an activity normally performed in such country during the one-year period preceding the arrival of such vessel into the United States or coastal waters thereof.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 6, § 258, as added [Pub. L. 101–649, title II, § 203(a)(1)](https://www.govinfo.gov/link/plaw/101/public/649), Nov. 29, 1990, [104 Stat. 5015](https://www.govinfo.gov/link/statute/104/5015); amended [Pub. L. 102–232, title III, § 303(a)(4)](https://www.govinfo.gov/link/plaw/102/public/232), Dec. 12, 1991, [105 Stat. 1747](https://www.govinfo.gov/link/statute/105/1747); [Pub. L. 103–198, § 8(a)](https://www.govinfo.gov/link/plaw/103/public/198), (b), Dec. 17, 1993, [107 Stat. 2313](https://www.govinfo.gov/link/statute/107/2313), 2315; [Pub. L. 103–206, title III, § 323(a)](https://www.govinfo.gov/link/plaw/103/public/206), (b), Dec. 20, 1993, [107 Stat. 2428](https://www.govinfo.gov/link/statute/107/2428), 2430; [Pub. L. 103–416, title II, § 219(f)](https://www.govinfo.gov/link/plaw/103/public/416), (gg), Oct. 25, 1994, [108 Stat. 4317](https://www.govinfo.gov/link/statute/108/4317), 4319; [Pub. L. 104–208, div. C, title VI, § 671(e)(4)(B)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–723](https://www.govinfo.gov/link/statute/110/3009).)*

@@ -3,9 +3,10 @@ title: "Section 935 - Art. 135. Courts of inquiry"
 usc_title: 10
 usc_section: "935"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 935"
-generated_at: "2026-03-30T02:53:38.087Z"
+generated_at: "2026-11-23T20:25:51.133Z"
+status: "active"
 ---
 
 # § 935. Art. 135. Courts of inquiry
@@ -21,3 +22,39 @@ generated_at: "2026-03-30T02:53:38.087Z"
 - **(f)** Witnesses may be summoned to appear and testify and be examined before courts of inquiry, as provided for courts-martial.
 - **(g)** Courts of inquiry shall make findings of fact but may not express opinions or make recommendations unless required to do so by the convening authority.
 - **(h)** Each court of inquiry shall keep a record of its proceedings, which shall be authenticated by the signatures of the president and counsel for the court and forwarded to the convening authority. If the record cannot be authenticated by the president, it shall be signed by a member in lieu of the president. If the record cannot be authenticated by the counsel for the court, it shall be signed by a member in lieu of the counsel.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 935(a) 935(b) 935(c) | 50:731(a). 50:731(b). 50:731(c). | May 5, 1950, ch. 169, § 1 (Art. 135), 64 Stat. 143 . |
+| 935(d) | 50:731(d). |  |
+| 935(e) | 50:731(e). |  |
+| 935(f) | 50:731(f). |  |
+| 935(g) | 50:731(g). |  |
+| 935(h) | 50:731(h). |  |
+
+
+Historical and Revision Notes
+
+935(a)
+
+935(b)
+
+935(c)
+
+May 5, 1950, ch. 169, § 1
+
+64 Stat. 143
+
+935(d)
+
+935(e)
+
+935(f)
+
+935(g)
+
+935(h)
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 76; [Pub. L. 114–328, div. E, title LXI, § 5501](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2960](https://www.govinfo.gov/link/statute/130/2960).)*

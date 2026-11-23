@@ -3,9 +3,10 @@ title: "Section 1106 - Required contract terms"
 usc_title: 14
 usc_section: "1106"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 1106"
-generated_at: "2026-03-30T02:53:51.492Z"
+generated_at: "2026-11-23T20:25:54.554Z"
+status: "active"
 ---
 
 # § 1106. Required contract terms
@@ -23,3 +24,19 @@ generated_at: "2026-03-30T02:53:51.492Z"
     - **(B)** shall be reviewed by an independent third party with expertise in acquisition management, and the results of that review shall be submitted to the appropriate congressional committees at least 60 days prior to the award of the contract, contract modification, or award term.
 - **(c)** Integrated product teams, and all teams that oversee integrated product teams, shall be chaired by officers, members, or employees of the Coast Guard.
 - **(d)** The Commandant shall maintain or designate the technical authority to establish, approve, and maintain technical requirements. Any such designation shall be made in writing and may not be delegated to the authority of the Chief Acquisition Officer established by section 308 of this title .
+
+In General
+
+Prohibited Provisions.—
+
+In general
+
+Extension of program
+
+Integrated Product Teams
+
+Technical Authority
+
+## Source Credit
+
+*(Added [Pub. L. 111–281, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2936](https://www.govinfo.gov/link/statute/124/2936), § 565; amended [Pub. L. 111–330, § 1(4)](https://www.govinfo.gov/link/plaw/111/public/330), Dec. 22, 2010, [124 Stat. 3569](https://www.govinfo.gov/link/statute/124/3569); [Pub. L. 115–232, div. C, title XXXV, § 3533(f)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2321](https://www.govinfo.gov/link/statute/132/2321); renumbered § 1106 and amended [Pub. L. 115–282, title I](https://www.govinfo.gov/link/plaw/115/public/282), §§ 108(b), 123(b)(2), Dec. 4, 2018, [132 Stat. 4208](https://www.govinfo.gov/link/statute/132/4208), 4240.)*

@@ -3,9 +3,10 @@ title: "Section 113 - Premiums; late enrollment penalty"
 usc_title: 42
 usc_section: "113"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 113"
-generated_at: "2026-03-30T02:56:10.985Z"
+generated_at: "2026-11-23T20:27:21.300Z"
+status: "active"
 ---
 
 # § 1395w–113. Premiums; late enrollment penalty
@@ -126,3 +127,7 @@ generated_at: "2026-03-30T02:56:10.985Z"
   - **(4)**
     - **(A)** Notwithstanding any provision of this subsection or section 1395w–24(d)(2) of this title , subject to subparagraph (B), the amount of the income-related increase in the base beneficiary premium for an individual for a month (as determined under subsection (a)(7)) shall be paid through withholding from benefit payments in the manner provided under section 1395s of this title .
     - **(B)** In the case where the monthly benefit payments of an individual that are withheld under subparagraph (A) are insufficient to pay the amount described in such subparagraph, the Commissioner of Social Security shall enter into agreements with the Secretary, the Director of the Office of Personnel Management, and the Railroad Retirement Board as necessary in order to allow other agencies to collect the amount described in subparagraph (A) that was not withheld under such subparagraph.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1860D–13, as added [Pub. L. 108–173, title I, § 101(a)(2)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2102](https://www.govinfo.gov/link/statute/117/2102); amended [Pub. L. 110–275, title I, § 114(a)(1)](https://www.govinfo.gov/link/plaw/110/public/275), July 15, 2008, [122 Stat. 2506](https://www.govinfo.gov/link/statute/122/2506); [Pub. L. 111–148, title III, § 3308(a)](https://www.govinfo.gov/link/plaw/111/public/148), (b)(1), Mar. 23, 2010, [124 Stat. 472](https://www.govinfo.gov/link/statute/124/472), 474; [Pub. L. 117–169, title I, § 11201(d)(1)](https://www.govinfo.gov/link/plaw/117/public/169), (2), (3)(C), Aug. 16, 2022, [136 Stat. 1888](https://www.govinfo.gov/link/statute/136/1888), 1890.)*

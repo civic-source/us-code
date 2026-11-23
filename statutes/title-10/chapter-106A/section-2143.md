@@ -3,9 +3,10 @@ title: "Section 2143 - Educational assistance: amount"
 usc_title: 10
 usc_section: "2143"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2143"
-generated_at: "2026-03-30T02:53:38.143Z"
+generated_at: "2026-11-23T20:25:51.459Z"
+status: "active"
 ---
 
 # § 2143. Educational assistance: amount
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:38.143Z"
   - **(1)** The Secretary concerned shall establish the amount of educational assistance for a standard academic year (or the equivalent) to which a person becomes entitled under this chapter at the time of an enlistment described in section 2142 of this title . Depending on the needs of the service, different amounts may be established for different categories of persons or enlistments. The amount of educational assistance to which any person is entitled shall be adjusted in accordance with section 2145 of this title .
   - **(2)** The amount of educational assistance which may be provided to any person for a standard academic year (or the equivalent) may not exceed $1,200, adjusted in accordance with section 2145 of this title .
 - **(c)** In this section, the term “accredited institution” means a civilian college or university or a trade, technical, or vocational school in the United States (including the District of Columbia, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands) that provides education at the postsecondary level and that is accredited by a nationally recognized accrediting agency or association or by an accrediting agency or association recognized by the Secretary of Education.
+
+## Source Credit
+
+*(Added [Pub. L. 96–342, title IX, § 901(a)](https://www.govinfo.gov/link/plaw/96/public/342), Sept. 8, 1980, [94 Stat. 1112](https://www.govinfo.gov/link/statute/94/1112); amended [Pub. L. 100–180, div. A, title XII, § 1231(18)(A)](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1161](https://www.govinfo.gov/link/statute/101/1161).)*

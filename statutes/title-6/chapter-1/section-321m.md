@@ -3,9 +3,10 @@ title: "Section 321m - Voluntary private sector preparedness accreditation and c
 usc_title: 6
 usc_section: "321m"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 321m"
-generated_at: "2026-03-30T02:53:09.459Z"
+generated_at: "2026-11-23T20:25:34.702Z"
+status: "active"
 ---
 
 # § 321m. Voluntary private sector preparedness accreditation and certification program
@@ -83,3 +84,7 @@ generated_at: "2026-03-30T02:53:09.459Z"
     - **(A)** under any other provision of federal law; or
     - **(B)** by any Sector Risk Management Agency, as those agencies are defined under Homeland Security Presidential Directive–7; or
   - **(2)** exempting any private sector entity seeking certification or meeting certification requirements under subsection (b) from compliance with all applicable statutes, regulations, directives, policies, and industry codes of practice.
+
+## Source Credit
+
+*([Pub. L. 107–296, title V, § 524](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 110–53, title IX, § 901(a)](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 365](https://www.govinfo.gov/link/statute/121/365); amended [Pub. L. 116–283, div. H, title XC, § 9002(c)(2)(B)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4772](https://www.govinfo.gov/link/statute/134/4772).)*

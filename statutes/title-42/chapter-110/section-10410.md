@@ -3,9 +3,10 @@ title: "Section 10410 - National resource centers and training and technical ass
 usc_title: 42
 usc_section: "10410"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10410"
-generated_at: "2026-03-30T02:56:11.388Z"
+generated_at: "2026-11-23T20:27:23.248Z"
+status: "active"
 ---
 
 # § 10410. National resource centers and training and technical assistance centers
@@ -65,3 +66,7 @@ generated_at: "2026-03-30T02:56:11.388Z"
       - **(ii)** be an Indian tribe, tribal organization, or Native Hawaiian organization that focuses primarily on issues of domestic violence among Indians or Native Hawaiians, or an institution of higher education; and
     - **(B)** demonstrate the ability to serve all regions of the State, including underdeveloped areas and areas that are geographically distant from population centers.
 - **(d)** Each entity receiving a grant under this section shall submit a performance report to the Secretary annually and in such manner as shall be reasonably required by the Secretary. Such performance report shall describe the activities that have been carried out with such grant funds, contain an evaluation of the effectiveness of the activities, and provide such additional information as the Secretary may reasonably require.
+
+## Source Credit
+
+*([Pub. L. 98–457, title III, § 310](https://www.govinfo.gov/link/plaw/98/public/457), as added [Pub. L. 111–320, title II, § 201](https://www.govinfo.gov/link/plaw/111/public/320), Dec. 20, 2010, [124 Stat. 3497](https://www.govinfo.gov/link/statute/124/3497).)*

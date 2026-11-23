@@ -3,9 +3,10 @@ title: "Section 152409 - Civil action by Attorney General for equitable relief"
 usc_title: 36
 usc_section: "152409"
 chapter: 1524
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 152409"
-generated_at: "2026-03-30T02:55:44.704Z"
+generated_at: "2026-11-23T20:26:59.001Z"
+status: "active"
 ---
 
 # § 152409. Civil action by Attorney General for equitable relief
@@ -14,3 +15,7 @@ The Attorney General may bring a civil action in the United States District Cour
 
   - **(1)** engages or threatens to engage in any act, practice, or policy that is inconsistent with the purposes in section 152402 of this title ; or
   - **(2)** refuses, fails, or neglects to carry out its obligations under this chapter or threatens to do so.
+
+## Source Credit
+
+*(Added [Pub. L. 106–474, title II, § 201(a)](https://www.govinfo.gov/link/plaw/106/public/474), Nov. 9, 2000, [114 Stat. 2094](https://www.govinfo.gov/link/statute/114/2094).)*

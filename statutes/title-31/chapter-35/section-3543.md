@@ -3,9 +3,10 @@ title: "Section 3543 - Postponing a distress warrant proceeding"
 usc_title: 31
 usc_section: "3543"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 3543"
-generated_at: "2026-03-30T02:55:34.057Z"
+generated_at: "2026-11-23T20:26:51.786Z"
+status: "active"
 ---
 
 # § 3543. Postponing a distress warrant proceeding
@@ -16,3 +17,22 @@ generated_at: "2026-03-30T02:55:34.057Z"
   - **(2)** An injunction under this subsection does not affect a lien under section 3542(b)(1) of this title . The United States Government is not required to answer in a civil action brought under this subsection.
   - **(3)** If the court dissolves the injunction on a finding that the civil action for the injunction was brought only for delay, the court may increase the interest rate imposed on amounts found due against the complainant to not more than 10 percent a year. The judge may grant or dissolve an injunction under this subsection either in or out of court.
 - **(c)** A person adversely affected by a refusal to grant an injunction or by dissolving an injunction under subsection (b) of this section may petition a judge of a circuit court of appeals in which the district is located or the Supreme Court justice allotted to that circuit by giving the judge or justice a copy of the proceeding held before the district judge. The judge or justice may grant an injunction or allow an appeal if the judge or justice finds the case requires it.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3543(a) | 31:517. | R.S. § 3635. |
+| 3543(b) | 31:518. | R.S. § 3636. |
+| 3543(c) | 31:519. | R.S. § 3637. |
+
+
+Historical and Revision Notes
+
+3543(a)
+
+3543(b)
+
+3543(c)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 968](https://www.govinfo.gov/link/statute/96/968).)*

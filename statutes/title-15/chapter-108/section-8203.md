@@ -3,12 +3,17 @@ title: "Section 8203 - Participation in national producer database"
 usc_title: 15
 usc_section: "8203"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 8203"
-generated_at: "2026-03-30T02:54:08.228Z"
+generated_at: "2026-11-23T20:26:04.477Z"
+status: "active"
 ---
 
 # § 8203. Participation in national producer database
 
 After the expiration of the 2-year period beginning on July 21, 2010 , a State may not collect any fees relating to licensing of an individual or entity as a surplus lines broker in the State unless the State has in effect at such time laws or regulations that provide for participation by the State in the national insurance producer database of the NAIC, or any other equivalent uniform national database, for the licensure of surplus lines brokers and the renewal of such licenses.
 
+
+## Source Credit
+
+*([Pub. L. 111–203, title V, § 523](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1590](https://www.govinfo.gov/link/statute/124/1590).)*

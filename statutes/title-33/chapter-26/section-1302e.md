@@ -3,9 +3,10 @@ title: "Section 1302e - Connection to publicly owned treatment works"
 usc_title: 33
 usc_section: "1302e"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1302e"
-generated_at: "2026-03-30T02:55:41.090Z"
+generated_at: "2026-11-23T20:26:54.006Z"
+status: "active"
 ---
 
 # § 1302e. Connection to publicly owned treatment works
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:55:41.090Z"
       - **(i)** eligible entities described in subsection (a)(1)(A) that are owners and operators of publicly owned treatment works that serve fewer than 3,300 people; and
       - **(ii)** eligible entities described in subsection (a)(1)(B) that provide the assistance described in that subsection in areas that are served by publicly owned treatment works that serve fewer than 3,300 people.
     - **(B)** Of the amounts made available for grants under paragraph (1), not more than 2 percent may be used to pay the administrative costs of the Administrator.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title II, § 227, as added [Pub. L. 117–58, div. E, title II, § 50209](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1167](https://www.govinfo.gov/link/statute/135/1167).)*

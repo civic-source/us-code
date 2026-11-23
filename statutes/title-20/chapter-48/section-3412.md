@@ -3,9 +3,10 @@ title: "Section 3412 - Principal officers"
 usc_title: 20
 usc_section: "3412"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 3412"
-generated_at: "2026-03-30T02:54:48.177Z"
+generated_at: "2026-11-23T20:26:14.726Z"
+status: "active"
 ---
 
 # § 3412. Principal officers
@@ -50,3 +51,11 @@ generated_at: "2026-03-30T02:54:48.177Z"
       - **(i)** the outreach programs in the numerous Federal departments and agencies that administer education and job training programs;
       - **(ii)** collaborative business education partnerships; and
       - **(iii)** education programs located in, and regarding, rural areas.
+
+In General
+
+Special Rule
+
+## Source Credit
+
+*([Pub. L. 96–88, title II, § 202](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 671](https://www.govinfo.gov/link/statute/93/671); [Pub. L. 99–145, title XII, § 1204(a)(1)](https://www.govinfo.gov/link/plaw/99/public/145), Nov. 8, 1985, [99 Stat. 720](https://www.govinfo.gov/link/statute/99/720); [Pub. L. 101–509, title V, § 529 [title I, § 112(a)(3)(B)]](https://www.govinfo.gov/link/plaw/101/public/509), Nov. 5, 1990, [104 Stat. 1427](https://www.govinfo.gov/link/statute/104/1427), 1454; [Pub. L. 102–73, title I, § 101](https://www.govinfo.gov/link/plaw/102/public/73), July 25, 1991, [105 Stat. 334](https://www.govinfo.gov/link/statute/105/334); [Pub. L. 102–103, title II, § 201](https://www.govinfo.gov/link/plaw/102/public/103), Aug. 17, 1991, [105 Stat. 498](https://www.govinfo.gov/link/statute/105/498); [Pub. L. 102–325, title XV, § 1553(a)](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 838](https://www.govinfo.gov/link/statute/106/838); [Pub. L. 103–227, title IX, § 913](https://www.govinfo.gov/link/plaw/103/public/227), Mar. 31, 1994, [108 Stat. 223](https://www.govinfo.gov/link/statute/108/223); [Pub. L. 103–382, title II, § 271(b)](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 3929](https://www.govinfo.gov/link/statute/108/3929); [Pub. L. 107–110, title X, § 1072(e)(2)](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2089](https://www.govinfo.gov/link/statute/115/2089); [Pub. L. 107–279, title IV, § 402(1)](https://www.govinfo.gov/link/plaw/107/public/279), Nov. 5, 2002, [116 Stat. 1984](https://www.govinfo.gov/link/statute/116/1984); [Pub. L. 112–166, § 2(d)(1)](https://www.govinfo.gov/link/plaw/112/public/166), Aug. 10, 2012, [126 Stat. 1284](https://www.govinfo.gov/link/statute/126/1284); [Pub. L. 113–76, div. H, title III, § 307(b)](https://www.govinfo.gov/link/plaw/113/public/76), Jan. 17, 2014, [128 Stat. 399](https://www.govinfo.gov/link/statute/128/399); [Pub. L. 117–286, § 4(b)(40)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4348](https://www.govinfo.gov/link/statute/136/4348).)*

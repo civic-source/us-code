@@ -3,9 +3,10 @@ title: "Section 1304 - Contract clauses and certifications"
 usc_title: 41
 usc_section: "1304"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 1304"
-generated_at: "2026-03-30T02:55:55.799Z"
+generated_at: "2026-11-23T20:27:04.385Z"
+status: "active"
 ---
 
 # § 1304. Contract clauses and certifications
@@ -23,3 +24,52 @@ generated_at: "2026-03-30T02:55:55.799Z"
     - **(B)** A requirement for a certification by a contractor or offeror may not be included in a procurement regulation of an executive agency unless—
       - **(i)** the certification requirement is specifically imposed by statute; or
       - **(ii)** written justification for the certification requirement is provided to the head of the executive agency by the senior procurement executive of the agency and the head of the executive agency approves in writing the inclusion of the certification requirement.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1304(a) | 41:425(a). | Pub. L. 93–400, § 29 , as added Pub. L. 103–355, title I, § 1093 , Oct. 13, 1994 , 108 Stat. 3273 ; Pub. L. 104–106, title XLIII, § 4301(b)(2)(A) , (c), Feb. 10, 1996 , 110 Stat. 657 , 658. |
+| 1304(b)(1) | 41:425(b). |  |
+| 1304(b)(2), (3) | 41:425(c). |  |
+
+
+Repetitive Nonstandard Contract Clauses Discouraged
+
+When Certification Required.—
+
+By law
+
+In federal acquisition regulation
+
+Executive agency procurement regulation.—
+
+Definition
+
+When certification requirement may be included in regulation
+
+Historical and Revision Notes
+
+1304(a)
+
+Pub. L. 93–400, § 29
+
+Pub. L. 103–355, title I, § 1093
+
+Oct. 13, 1994
+
+108 Stat. 3273
+
+Pub. L. 104–106, title XLIII, § 4301(b)(2)(A)
+
+Feb. 10, 1996
+
+110 Stat. 657
+
+1304(b)(1)
+
+1304(b)(2), (3)
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3693](https://www.govinfo.gov/link/statute/124/3693).)*

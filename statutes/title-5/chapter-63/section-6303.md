@@ -3,9 +3,10 @@ title: "Section 6303 - Annual leave; accrual"
 usc_title: 5
 usc_section: "6303"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 6303"
-generated_at: "2026-03-30T02:52:56.030Z"
+generated_at: "2026-11-23T20:25:32.022Z"
+status: "active"
 ---
 
 # § 6303. Annual leave; accrual
@@ -38,3 +39,49 @@ generated_at: "2026-03-30T02:52:56.030Z"
 - **(f)** Notwithstanding any other provision of this section, the rate of accrual of annual leave under subsection (a) shall be 1 day for each full biweekly pay period in the case of any employee who holds a position which is subject to—
   - **(1)** section 5376 or 5383; or
   - **(2)** a pay system equivalent to either of the foregoing, as determined by the Office of Personnel Management.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 2062(a) , (b), (e), (i). | Oct. 30, 1951, ch. 631, § 203(a) , (b), (e), (i), 65 Stat. 679–681 . |
+|  |  | Sept. 6, 1960 , Pub. L. 86–707, § 401 “(e)”, 74 Stat. 799 . |
+|  |  | Aug. 19, 1964 , Pub. L. 88–448, § 203 , 78 Stat. 487 . |
+|  | 5 U.S.C. 3101 (as applicable to 5 U.S.C. 2062(a) ). | Aug. 19, 1964 , Pub. L. 88–448, § 101 (as applicable to § 203), 78 Stat. 484 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 2062(a)
+
+Oct. 30, 1951, ch. 631, § 203(a)
+
+65 Stat. 679–681
+
+Sept. 6, 1960
+
+Pub. L. 86–707, § 401
+
+74 Stat. 799
+
+Aug. 19, 1964
+
+Pub. L. 88–448, § 203
+
+78 Stat. 487
+
+5 U.S.C. 3101
+
+5 U.S.C. 2062(a)
+
+Aug. 19, 1964
+
+Pub. L. 88–448, § 101
+
+78 Stat. 484
+
+In General
+
+Exceptions
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 518](https://www.govinfo.gov/link/statute/80/518); [Pub. L. 93–181, § 2](https://www.govinfo.gov/link/plaw/93/public/181), Dec. 14, 1973, [87 Stat. 705](https://www.govinfo.gov/link/statute/87/705); [Pub. L. 99–335, title II, § 207(d)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 595](https://www.govinfo.gov/link/statute/100/595); [Pub. L. 102–83, § 5(c)(2)](https://www.govinfo.gov/link/plaw/102/public/83), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 102–378, § 2(52)](https://www.govinfo.gov/link/plaw/102/public/378), Oct. 2, 1992, [106 Stat. 1353](https://www.govinfo.gov/link/statute/106/1353); [Pub. L. 108–411, title II, § 202(a)](https://www.govinfo.gov/link/plaw/108/public/411), (b), Oct. 30, 2004, [118 Stat. 2312](https://www.govinfo.gov/link/statute/118/2312).)*

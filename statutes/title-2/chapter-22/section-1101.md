@@ -3,9 +3,10 @@ title: "Section 1101 - Congressional findings"
 usc_title: 2
 usc_section: "1101"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1101"
-generated_at: "2026-03-30T02:53:04.808Z"
+generated_at: "2026-11-23T20:25:28.946Z"
+status: "active"
 ---
 
 # § 1101. Congressional findings
@@ -17,3 +18,7 @@ The Congress makes the following findings:
   - **(3)** Senator Stennis has long maintained a special interest in and devotion to the development of leadership and excellence in public service.
   - **(4)** There is a compelling need to encourage outstanding young people to pursue public service on a career basis and to provide public service leadership training opportunities for individuals serving in State and local governments and for individuals serving as employees of Members of Congress.
   - **(5)** It would be a fitting tribute to Senator Stennis and to his leadership, integrity, and years of devoted public service to establish in his name a center for the training and development of leadership and excellence in public service.
+
+## Source Credit
+
+*([Pub. L. 100–458, title I, § 112](https://www.govinfo.gov/link/plaw/100/public/458), Oct. 1, 1988, [102 Stat. 2172](https://www.govinfo.gov/link/statute/102/2172).)*

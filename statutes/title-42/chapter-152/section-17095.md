@@ -3,9 +3,10 @@ title: "Section 17095 - Cost-effective technology acceleration program"
 usc_title: 42
 usc_section: "17095"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17095"
-generated_at: "2026-03-30T02:56:11.495Z"
+generated_at: "2026-11-23T20:27:23.724Z"
+status: "active"
 ---
 
 # § 17095. Cost-effective technology acceleration program
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:56:11.495Z"
     - **(H)** include recommendations to address each of the matters, and a plan for implementation of each recommendation, described in subparagraphs (A) through (G).
   - **(4)** Notwithstanding any provision of this section, the program required under this section shall fully comply with the requirements of sections 321 through 324, 431 through 438, 461, 511 through 518, and 523 through 525 1 and amendments made by those sections, which shall be applicable to the extent that they are more stringent or would achieve greater energy or water savings than required by this section.
 - **(e)** There are authorized to be appropriated such sums as are necessary to carry out this section, to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 110–140, title IV, § 439](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1620](https://www.govinfo.gov/link/statute/121/1620).)*

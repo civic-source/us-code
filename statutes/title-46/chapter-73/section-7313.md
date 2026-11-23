@@ -3,9 +3,10 @@ title: "Section 7313 - General requirements for members of engine departments"
 usc_title: 46
 usc_section: "7313"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 7313"
-generated_at: "2026-03-30T02:56:15.550Z"
+generated_at: "2026-11-23T20:27:27.115Z"
+status: "active"
 ---
 
 # § 7313. General requirements for members of engine departments
@@ -21,3 +22,20 @@ generated_at: "2026-03-30T02:56:15.550Z"
   - **(2)** has a minimum of 6-months service in the related entry rating;
   - **(3)** is qualified professionally as demonstrated by an applicable examination or educational requirements; and
   - **(4)** is qualified as to sight, hearing, and physical condition to perform the member’s duties.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 7313 | 46:672(g) |
+
+
+Classification of Credentials
+
+Qualifications
+
+Historical and Revision Notes
+
+7313
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 544](https://www.govinfo.gov/link/statute/97/544); [Pub. L. 104–324, title VII, § 724](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3939](https://www.govinfo.gov/link/statute/110/3939); [Pub. L. 119–60, div. G, title LXXIII, § 7301(d)(5)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1754](https://www.govinfo.gov/link/statute/139/1754).)*

@@ -3,9 +3,10 @@ title: "Section 1442a - National security measures"
 usc_title: 22
 usc_section: "1442a"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 1442a"
-generated_at: "2026-03-30T02:55:05.331Z"
+generated_at: "2026-11-23T20:26:32.105Z"
+status: "active"
 ---
 
 # § 1442a. National security measures
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.331Z"
 - **(b)**
   - **(1)** The term “appropriate executive branch officials” means officials from the elements of the United States Government listed pursuant to section 101 of the Intelligence Authorization Act for Fiscal Year 1999 ( Public Law 105–272 ).
   - **(2)** The term “agent of a foreign power” has the same meaning as set forth in section 1801(b)(1)(B) and (b)(2) of title 50, and does not include any person who acts in the capacity defined under section 1801(b)(1)(A) of title 50 .
+
+## Source Credit
+
+*(Jan. 27, 1948, ch. 36, title X, § 1012, as added [Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title IV, § 403]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–446.)*

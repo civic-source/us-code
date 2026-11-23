@@ -3,9 +3,10 @@ title: "Section 59 - Plans for performance partnerships"
 usc_title: 42
 usc_section: "59"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 59"
-generated_at: "2026-03-30T02:56:10.815Z"
+generated_at: "2026-11-23T20:27:20.560Z"
+status: "active"
 ---
 
 # § 300x–59. Plans for performance partnerships
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:10.815Z"
 - **(b)** Not later than 2 years after October 17, 2000 , the plans developed under subsection (a) shall be submitted to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Commerce of the House of Representatives.
 - **(c)** As the elements of the plans described in subsection (a) are developed, States are encouraged to provide information to the Secretary on a voluntary basis.
 - **(d)** The Secretary shall include among those interested groups that participate in the development of the plan consumers of mental health or substance use disorders services, providers, representatives of political divisions of States, and representatives of racial and ethnic groups including Native Americans.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XIX, § 1949, as added [Pub. L. 102–321, title II, § 203(a)](https://www.govinfo.gov/link/plaw/102/public/321), July 10, 1992, [106 Stat. 408](https://www.govinfo.gov/link/statute/106/408); amended [Pub. L. 106–310, div. B, title XXXIV, § 3403(a)](https://www.govinfo.gov/link/plaw/106/public/310), Oct. 17, 2000, [114 Stat. 1219](https://www.govinfo.gov/link/statute/114/1219); [Pub. L. 117–328, div. FF, title I, § 1241(a)(11)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5678](https://www.govinfo.gov/link/statute/136/5678).)*

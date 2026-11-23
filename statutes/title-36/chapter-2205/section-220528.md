@@ -3,9 +3,10 @@ title: "Section 220528 - Applications to replace an incumbent national governing
 usc_title: 36
 usc_section: "220528"
 chapter: 2205
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 220528"
-generated_at: "2026-03-30T02:55:44.710Z"
+generated_at: "2026-11-23T20:26:59.091Z"
+status: "active"
 ---
 
 # § 220528. Applications to replace an incumbent national governing body
@@ -31,3 +32,59 @@ generated_at: "2026-03-30T02:55:44.710Z"
 - **(g)** If the national governing body does not comply with sections 220522, 220524, and 220525 of this title within the probationary period prescribed under subsection (f)(4) of this section, the corporation shall revoke the certification of the national governing body and either—
   - **(1)** certify the applicant as the national governing body; or
   - **(2)** declare a vacancy in the national governing body for that sport.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 220528(a) | 36:395(b)(1) (1st sentence). | Sept. 21, 1950, ch. 975 , title II, § 205(b)(1)–(4), as added Nov. 8, 1978 , Pub. L. 95–606, § 2 , 92 Stat. 3056 . |
+| 220528(b) | 36:395(b)(1) (last sentence), (2) (2d sentence). |  |
+| 220528(c)(1) | 36:395(b)(1) (2d sentence). |  |
+| 220528(c)(2) | 36:395(b)(2) (1st, 3d, last sentences). |  |
+| 220528(d) | 36:395(b)(3) (1st–3d sentences). |  |
+| 220528(e) | 36:395(b)(3) (last sentence). |  |
+| 220528(f) | 36:395(b)(4) (1st sentence). |  |
+| 220528(g) | 36:395(b)(4) (last sentence). |  |
+
+
+General
+
+Establishment of Procedures
+
+Filing Procedures
+
+Hearings
+
+Standards for Granting Applications
+
+Disposition of Applications
+
+Revocation of Certification After Probation
+
+Historical and Revision Notes
+
+220528(a)
+
+Sept. 21, 1950, ch. 975
+
+Nov. 8, 1978
+
+Pub. L. 95–606, § 2
+
+92 Stat. 3056
+
+220528(b)
+
+220528(c)(1)
+
+220528(c)(2)
+
+220528(d)
+
+220528(e)
+
+220528(f)
+
+220528(g)
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1476](https://www.govinfo.gov/link/statute/112/1476); [Pub. L. 105–277, div. C, title I, § 142(p)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–609](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 116–189](https://www.govinfo.gov/link/plaw/116/public/189), §§ 4(a)(10), 7(a)(2)(A)(v), Oct. 30, 2020, [134 Stat. 945](https://www.govinfo.gov/link/statute/134/945), 957.)*

@@ -3,9 +3,10 @@ title: "Section 7518 - Tax incentives relating to merchant marine capital constr
 usc_title: 26
 usc_section: "7518"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 7518"
-generated_at: "2026-03-30T02:55:27.877Z"
+generated_at: "2026-11-23T20:26:46.794Z"
+status: "active"
 ---
 
 # § 7518. Tax incentives relating to merchant marine capital construction funds
@@ -101,3 +102,26 @@ generated_at: "2026-03-30T02:55:27.877Z"
   - **(1)** a transfer of a fund from one person to another person in a transaction to which section 381 applies may be treated as if such transaction did not constitute a nonqualified withdrawal, and
   - **(2)** a similar rule shall be applied in the case of a continuation of a partnership.
 - **(i)** For purposes of this section, any term defined in chapter 535 of title 46, United States Code, which is also used in this section (including the definition of “Secretary”) shall have the meaning given such term by such chapter as in effect on the date of the enactment of this section.
+
+| If the amount remains in the fund at the close of the— | The applicable percentage is— |
+| --- | --- |
+| 26th taxable year | 20 percent |
+| 27th taxable year | 40 percent |
+| 28th taxable year | 60 percent |
+| 29th taxable year | 80 percent |
+| 30th taxable year | 100 percent. |
+
+
+26th taxable year
+
+27th taxable year
+
+28th taxable year
+
+29th taxable year
+
+30th taxable year
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title II, § 261(b)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2208](https://www.govinfo.gov/link/statute/100/2208); amended [Pub. L. 100–647, title I](https://www.govinfo.gov/link/plaw/100/public/647), §§ 1002(m)(1), 1018(u)(23), Nov. 10, 1988, [102 Stat. 3382](https://www.govinfo.gov/link/statute/102/3382), 3591; [Pub. L. 101–508, title XI, § 11101(d)(7)(A)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–405](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 105–34, title III, § 311(c)(2)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 835](https://www.govinfo.gov/link/statute/111/835); [Pub. L. 108–27, title III, § 301(a)(2)(D)](https://www.govinfo.gov/link/plaw/108/public/27), May 28, 2003, [117 Stat. 758](https://www.govinfo.gov/link/statute/117/758); [Pub. L. 109–304, § 17(e)(6)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1708](https://www.govinfo.gov/link/statute/120/1708); [Pub. L. 112–240, title I, § 102(c)(1)(D)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2319](https://www.govinfo.gov/link/statute/126/2319); [Pub. L. 113–295, div. A, title II, § 221(a)(117)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4054](https://www.govinfo.gov/link/statute/128/4054); [Pub. L. 115–97, title I, § 13001(b)(2)(Q)](https://www.govinfo.gov/link/plaw/115/public/97), (7), Dec. 22, 2017, [131 Stat. 2097](https://www.govinfo.gov/link/statute/131/2097), 2098; [Pub. L. 115–141, div. U, title IV, § 401(a)(352)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1201](https://www.govinfo.gov/link/statute/132/1201).)*

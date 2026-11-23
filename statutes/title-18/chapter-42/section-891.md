@@ -3,9 +3,10 @@ title: "Section 891 - Definitions and rules of construction"
 usc_title: 18
 usc_section: "891"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 891"
-generated_at: "2026-03-30T02:54:16.471Z"
+generated_at: "2026-11-23T20:26:08.417Z"
+status: "active"
 ---
 
 # § 891. Definitions and rules of construction
@@ -21,3 +22,7 @@ For the purposes of this chapter:
   - **(7)** An extortionate means is any means which involves the use, or an express or implicit threat of use, of violence or other criminal means to cause harm to the person, reputation, or property of any person.
   - **(8)** The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and territories and possessions of the United States.
   - **(9)** State law, including conflict of laws rules, governing the enforceability through civil judicial processes of repayment of any extension of credit or the performance of any promise given in consideration thereof shall be judicially noticed. This paragraph does not impair any authority which any court would otherwise have to take judicial notice of any matter of State law.
+
+## Source Credit
+
+*(Added [Pub. L. 90–321, title II, § 202(a)](https://www.govinfo.gov/link/plaw/90/public/321), May 29, 1968, [82 Stat. 160](https://www.govinfo.gov/link/statute/82/160).)*

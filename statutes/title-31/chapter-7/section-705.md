@@ -3,9 +3,10 @@ title: "Section 705 - Inspector General for the Government Accountability Office
 usc_title: 31
 usc_section: "705"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 705"
-generated_at: "2026-03-30T02:55:34.046Z"
+generated_at: "2026-11-23T20:26:51.676Z"
+status: "active"
 ---
 
 # § 705. Inspector General for the Government Accountability Office
@@ -73,3 +74,39 @@ generated_at: "2026-03-30T02:55:34.046Z"
   - **(3)** necessary maintenance services for such office space, equipment, office supplies, and communications facilities; and
   - **(4)** equipment and facilities located in such office space.
 - **(i)** As used in this section, the term “Federal agency” means a department, agency, instrumentality, or unit thereof, of the Federal Government.
+
+Establishment of Office
+
+Appointment, Supervision, and Removal.—
+
+Authority of Inspector General
+
+Complaints by Employees.—
+
+Semiannual Reports
+
+Independence in Carrying Out Duties and Responsibilities.—
+
+Prohibition
+
+Budget independence
+
+Authority for Staff.—
+
+In general
+
+Experts and consultants
+
+Independence in appointing staff
+
+Limitation on program responsibilities
+
+Legal advice
+
+Office Space
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 110–323, § 5(a)](https://www.govinfo.gov/link/plaw/110/public/323), Sept. 22, 2008, [122 Stat. 3544](https://www.govinfo.gov/link/statute/122/3544); amended [Pub. L. 118–131, § 2](https://www.govinfo.gov/link/plaw/118/public/131), Nov. 25, 2024, [138 Stat. 1641](https://www.govinfo.gov/link/statute/138/1641).)*

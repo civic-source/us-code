@@ -3,9 +3,10 @@ title: "Section 698u - Tallgrass Prairie National Preserve: findings and purpose
 usc_title: 16
 usc_section: "698u"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 698u"
-generated_at: "2026-03-30T02:54:22.899Z"
+generated_at: "2026-11-23T20:26:20.238Z"
+status: "active"
 ---
 
 # § 698u. Tallgrass Prairie National Preserve: findings and purposes
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:22.899Z"
 - **(b)** The purposes of sections 698u to 698u–7 of this title are—
   - **(1)** to preserve, protect, and interpret for the public an example of a tallgrass prairie ecosystem on the Spring Hill Ranch, located in the Flint Hills of Kansas; and
   - **(2)** to preserve and interpret for the public the historic and cultural values represented on the Spring Hill Ranch.
+
+## Source Credit
+
+*([Pub. L. 104–333, div. I, title X, § 1002](https://www.govinfo.gov/link/plaw/104/public/333), Nov. 12, 1996, [110 Stat. 4204](https://www.govinfo.gov/link/statute/110/4204); [Pub. L. 106–176, title I, § 122(1)](https://www.govinfo.gov/link/plaw/106/public/176), Mar. 10, 2000, [114 Stat. 29](https://www.govinfo.gov/link/statute/114/29).)*

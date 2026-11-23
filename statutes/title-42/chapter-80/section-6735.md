@@ -3,9 +3,10 @@ title: "Section 6735 - Program studies and recommendations; evaluation; counterc
 usc_title: 42
 usc_section: "6735"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6735"
-generated_at: "2026-03-30T02:56:11.266Z"
+generated_at: "2026-11-23T20:27:22.702Z"
+status: "active"
 ---
 
 # § 6735. Program studies and recommendations; evaluation; countercyclical study
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.266Z"
   - **(1)** the extent to which allocations of funds provided under this chapter might be more precisely related to true economic conditions by the use of data on aggregate declines in private real wages and salaries;
   - **(2)** the extent to which other factors, such as relative tax effort, should also be made part of the allocation system provided by this chapter; and
   - **(3)** the availability and reliability of data concerning Puerto Rico, Guam, the Virgin Islands, American Samoa, and the Trust Territory of the Pacific Islands, and the extent to which such territories may properly be made part of the regular allocation system applicable to the several States.
+
+## Source Credit
+
+*([Pub. L. 94–369, title II, § 215](https://www.govinfo.gov/link/plaw/94/public/369), July 22, 1976, [90 Stat. 1010](https://www.govinfo.gov/link/statute/90/1010); [Pub. L. 95–30, title VI, § 606](https://www.govinfo.gov/link/plaw/95/public/30), May 23, 1977, [91 Stat. 167](https://www.govinfo.gov/link/statute/91/167).)*

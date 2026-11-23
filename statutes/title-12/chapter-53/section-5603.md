@@ -3,9 +3,10 @@ title: "Section 5603 - Review, report, and program with respect to exchange faci
 usc_title: 12
 usc_section: "5603"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5603"
-generated_at: "2026-03-30T02:53:53.549Z"
+generated_at: "2026-11-23T20:25:59.534Z"
+status: "active"
 ---
 
 # § 5603. Review, report, and program with respect to exchange facilitators
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:53.549Z"
   - **(1)** facilitates, for a fee, an exchange of like kind property by entering into an agreement with a taxpayer by which the exchange facilitator acquires from the taxpayer the contractual rights to sell the taxpayer’s relinquished property and transfers a replacement property to the taxpayer as a qualified intermediary (within the meaning of Treasury Regulations section 1.1031(k)–1(g)(4)) or enters into an agreement with the taxpayer to take title to a property as an exchange accommodation titleholder (within the meaning of Revenue Procedure 2000–37) or enters into an agreement with a taxpayer to act as a qualified trustee or qualified escrow holder (within the meaning of Treasury Regulations section 1.1031(k)–1(g)(3));
   - **(2)** maintains an office for the purpose of soliciting business to perform the services described in paragraph (1); or
   - **(3)** advertises any of the services described in paragraph (1) or solicits clients in printed publications, direct mail, television or radio advertisements, telephone calls, facsimile transmissions, or other electronic communications directed to the general public for purposes of providing any such services.
+
+## Source Credit
+
+*([Pub. L. 111–203, title X, § 1079](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2077](https://www.govinfo.gov/link/statute/124/2077).)*

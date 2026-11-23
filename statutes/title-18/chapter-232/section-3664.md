@@ -3,9 +3,10 @@ title: "Section 3664 - Procedure for issuance and enforcement of order of restit
 usc_title: 18
 usc_section: "3664"
 chapter: 232
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 3664"
-generated_at: "2026-03-30T02:54:16.524Z"
+generated_at: "2026-11-23T20:26:08.763Z"
+status: "active"
 ---
 
 # § 3664. Procedure for issuance and enforcement of order of restitution
@@ -72,3 +73,7 @@ generated_at: "2026-03-30T02:54:16.524Z"
     - **(D)** adjusted under section 3664(k), 3572, or 3613A; or
   - **(2)** the defendant may be resentenced under section 3565 or 3614.
 - **(p)** Nothing in this section or sections 2248, 2259, 2264, 2327, 3663, and 3663A and arising out of the application of such sections, shall be construed to create a cause of action not otherwise authorized in favor of any person against the United States or any officer or employee of the United States.
+
+## Source Credit
+
+*(Added [Pub. L. 97–291, § 5(a)](https://www.govinfo.gov/link/plaw/97/public/291), Oct. 12, 1982, [96 Stat. 1255](https://www.govinfo.gov/link/statute/96/1255), § 3580; renumbered § 3664, [Pub. L. 98–473, title II, § 212(a)(1)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 1987](https://www.govinfo.gov/link/statute/98/1987); amended [Pub. L. 101–647, title XXXV, § 3596](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4931](https://www.govinfo.gov/link/statute/104/4931); [Pub. L. 104–132, title II, § 206(a)](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1232](https://www.govinfo.gov/link/statute/110/1232); [Pub. L. 107–273, div. B, title IV, § 4002(e)(1)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1810](https://www.govinfo.gov/link/statute/116/1810).)*

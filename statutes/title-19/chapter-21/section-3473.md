@@ -3,9 +3,10 @@ title: "Section 3473 - Agreement on Border Environment Cooperation Commission"
 usc_title: 19
 usc_section: "3473"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3473"
-generated_at: "2026-03-30T02:54:24.690Z"
+generated_at: "2026-11-23T20:26:11.041Z"
+status: "active"
 ---
 
 # § 3473. Agreement on Border Environment Cooperation Commission
@@ -18,3 +19,29 @@ generated_at: "2026-03-30T02:54:24.690Z"
   - **(1)** the term “Border Environment Cooperation Agreement” means the November 1993 Agreement Between the Government of the United States of America and the Government of the United Mexican States Concerning the Establishment of a Border Environment Cooperation Commission and a North American Development Bank;
   - **(2)** the terms “Border Environment Cooperation Commission” and “Commission” mean the commission established pursuant to Chapter I of the Border Environment Cooperation Agreement; and
   - **(3)** the term “United States” means the United States, its territories and possessions, and the Commonwealth of Puerto Rico.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+## Source Credit
+
+*([Pub. L. 103–182, title V, § 533](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2164](https://www.govinfo.gov/link/statute/107/2164); [Pub. L. 116–113, title VI, § 601](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 78](https://www.govinfo.gov/link/statute/134/78); [Pub. L. 116–260, div. O, title VI, § 601(a)(1)](https://www.govinfo.gov/link/plaw/116/public/260), (2), Dec. 27, 2020, [134 Stat. 2149](https://www.govinfo.gov/link/statute/134/2149).)*

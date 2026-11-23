@@ -3,9 +3,10 @@ title: "Section 1537a - Convention implementation"
 usc_title: 16
 usc_section: "1537a"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1537a"
-generated_at: "2026-03-30T02:54:22.976Z"
+generated_at: "2026-11-23T20:26:20.524Z"
+status: "active"
 ---
 
 # § 1537a. Convention implementation
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:22.976Z"
     - **(C)** identification of measures that are necessary and appropriate to implement those provisions of the Western Convention which address the protection of wild plants.
   - **(3)** No later than September 30, 1985 , the Secretary and the Secretary of State shall submit a report to Congress describing those steps taken in accordance with the requirements of this subsection and identifying the principal remaining actions yet necessary for comprehensive and effective implementation of the Western Convention.
   - **(4)** The provisions of this subsection shall not be construed as affecting the authority, jurisdiction, or responsibility of the several States to manage, control, or regulate resident fish or wildlife under State law or regulations.
+
+## Source Credit
+
+*([Pub. L. 93–205, § 8A](https://www.govinfo.gov/link/plaw/93/public/205), as added [Pub. L. 96–159, § 6(a)(1)](https://www.govinfo.gov/link/plaw/96/public/159), Dec. 28, 1979, [93 Stat. 1228](https://www.govinfo.gov/link/statute/93/1228); amended [Pub. L. 97–304, § 5[(a)]](https://www.govinfo.gov/link/plaw/97/public/304), Oct. 13, 1983, [96 Stat. 1421](https://www.govinfo.gov/link/statute/96/1421).)*

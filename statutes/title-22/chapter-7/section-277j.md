@@ -3,9 +3,10 @@ title: "Section 277j - Management of international transboundary water pollution
 usc_title: 22
 usc_section: "277j"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 277j"
-generated_at: "2026-03-30T02:55:05.313Z"
+generated_at: "2026-11-23T20:26:31.975Z"
+status: "active"
 ---
 
 # § 277j. Management of international transboundary water pollution
@@ -23,3 +24,7 @@ In fiscal year 2023 and in each fiscal year thereafter—
   - **(2)** any other applicable treaty.
 - **(d)** Funds transferred pursuant to subsection (a) shall be subject to the regular notification procedures of the Committees on Appropriations.
 - **(e)** Amounts repurposed pursuant to this section that were previously designated by the Congress as an emergency requirement pursuant to the Balanced Budget and Emergency Deficit Control Act of 1985 or a concurrent resolution on the budget are designated as an emergency requirement pursuant to section 4001(a)(1) of S. Con. Res. 14 (117th Congress), the concurrent resolution on the budget for fiscal year 2022, and section 1(e) of H. Res. 1151 (117th Congress), as engrossed in the House of Representatives on June 8, 2022 .
+
+## Source Credit
+
+*([Pub. L. 117–328, div. K, title VII, § 7069](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5089](https://www.govinfo.gov/link/statute/136/5089).)*

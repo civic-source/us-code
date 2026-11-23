@@ -3,9 +3,10 @@ title: "Section 256e - Program of payments to children’s hospitals that operat
 usc_title: 42
 usc_section: "256e"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 256e"
-generated_at: "2026-03-30T02:56:10.718Z"
+generated_at: "2026-11-23T20:27:20.107Z"
+status: "active"
 ---
 
 # § 256e. Program of payments to children’s hospitals that operate graduate medical education programs
@@ -101,3 +102,7 @@ generated_at: "2026-03-30T02:56:10.718Z"
   - **(6)**
     - **(A)** If the payments to qualified hospitals under paragraph (1) for a fiscal year are less than the total amount made available under such paragraph for that fiscal year, any remaining amounts for such fiscal year may be made available to all hospitals participating in the program under this subsection or subsection (a).
     - **(B)** For purposes of distributing the remaining amounts described in subparagraph (A), the Secretary may establish a quality bonus system, whereby the Secretary distributes bonus payments to hospitals participating in the program under this subsection or subsection (a) that meet standards specified by the Secretary, which may include a focus on quality measurement and improvement, interpersonal and communications skills, delivering patient-centered care, and practicing in integrated health systems, including training in community-based settings. In developing such standards, the Secretary shall collaborate with relevant stakeholders, including program accrediting bodies, certifying boards, training programs, health care organizations, health care purchasers, and patient and consumer groups.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 340E, as added [Pub. L. 106–129, § 4](https://www.govinfo.gov/link/plaw/106/public/129), Dec. 6, 1999, [113 Stat. 1671](https://www.govinfo.gov/link/statute/113/1671); amended [Pub. L. 106–310, div. A, title XX, § 2001](https://www.govinfo.gov/link/plaw/106/public/310), Oct. 17, 2000, [114 Stat. 1155](https://www.govinfo.gov/link/statute/114/1155); [Pub. L. 108–490, § 1(a)](https://www.govinfo.gov/link/plaw/108/public/490), Dec. 23, 2004, [118 Stat. 3972](https://www.govinfo.gov/link/statute/118/3972); [Pub. L. 109–307, § 2](https://www.govinfo.gov/link/plaw/109/public/307), Oct. 6, 2006, [120 Stat. 1721](https://www.govinfo.gov/link/statute/120/1721); [Pub. L. 113–98](https://www.govinfo.gov/link/plaw/113/public/98), §§ 2, 3, Apr. 7, 2014, [128 Stat. 1140](https://www.govinfo.gov/link/statute/128/1140); [Pub. L. 115–241, § 2](https://www.govinfo.gov/link/plaw/115/public/241), Sept. 18, 2018, [132 Stat. 2892](https://www.govinfo.gov/link/statute/132/2892).)*

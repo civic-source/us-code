@@ -3,9 +3,10 @@ title: "Section 1641 - Definitions"
 usc_title: 22
 usc_section: "1641"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 1641"
-generated_at: "2026-03-30T02:55:05.335Z"
+generated_at: "2026-11-23T20:26:32.131Z"
+status: "active"
 ---
 
 # § 1641. Definitions
@@ -21,3 +22,7 @@ As used in this subchapter the term—
   - **(7)** “Russian national” includes any corporation or business association organized under the laws, decrees, ordinances, or acts of the former Empire of Russia or of any government successor thereto, and subsequently nationalized or dissolved or whose assets were taken over by the Soviet Government or which was merged with any other corporation or organization by the Soviet Government.
   - **(8)** “Commission” means the Foreign Claims Settlement Commission of the United States, established pursuant to Reorganization Plan Numbered 1 of 1954 ( 68 Stat. 1279 ).
   - **(9)** “Property” means any property, right, or interest.
+
+## Source Credit
+
+*(Mar. 10, 1950, ch. 54, title III, § 301, as added Aug. 9, 1955, ch. 645, § 3, [69 Stat. 570](https://www.govinfo.gov/link/statute/69/570).)*

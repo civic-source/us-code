@@ -3,9 +3,10 @@ title: "Section 8262e - Federal energy cost accounting and management"
 usc_title: 42
 usc_section: "8262e"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8262e"
-generated_at: "2026-03-30T02:56:11.339Z"
+generated_at: "2026-11-23T20:27:23.025Z"
+status: "active"
 ---
 
 # § 8262e. Federal energy cost accounting and management
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.339Z"
   - **(2)** unusual or abnormal changes in energy consumption; and
   - **(3)** the accuracy of utility charges for electric and gas consumption.
 - **(c)** The Administrator of General Services shall include, in each report submitted under section 8262a of this title , the estimated energy cost of leased buildings or space in which the Federal Government does not directly pay the utility bills.
+
+## Source Credit
+
+*([Pub. L. 102–486, title I, § 159](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2857](https://www.govinfo.gov/link/statute/106/2857).)*

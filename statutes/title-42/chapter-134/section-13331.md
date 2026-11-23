@@ -3,9 +3,10 @@ title: "Section 13331 - Coal research, development, demonstration, and commercia
 usc_title: 42
 usc_section: "13331"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13331"
-generated_at: "2026-03-30T02:56:11.441Z"
+generated_at: "2026-11-23T20:27:23.479Z"
+status: "active"
 ---
 
 # § 13331. Coal research, development, demonstration, and commercial application programs
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:56:11.441Z"
     - **(C)** the dates at which further deadlines for additional cost sharing demonstrations shall be established.
 - **(d)** Within one year after transmittal of the report described in subsection (c), and every 2 years thereafter for a period of 6 years, the Secretary shall transmit to the Congress a report that provides a detailed description of the status of development of the advanced coal-based technologies and the research, development, demonstration, and commercial application activities undertaken to carry out the programs required by this part.
 - **(e)** In carrying out research, development, demonstration, and commercial application activities under this part, the Secretary shall consult with the National Coal Council and other representatives of the public and private sectors as the Secretary considers appropriate.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XIII, § 1301](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2970](https://www.govinfo.gov/link/statute/106/2970).)*

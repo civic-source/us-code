@@ -3,12 +3,17 @@ title: "Section 362 - Leases of bathhouses and sites; supply of water"
 usc_title: 16
 usc_section: "362"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 362"
-generated_at: "2026-03-30T02:54:22.750Z"
+generated_at: "2026-11-23T20:26:19.417Z"
+status: "active"
 ---
 
 # § 362. Leases of bathhouses and sites; supply of water
 
 The Secretary of the Interior is authorized and empowered to execute leases to the bathhouses and bathhouse sites in the Hot Springs National Park for periods not exceeding twenty years, and at an annual rental of not less than $30 per tub for each tub used in any bathhouse. Said annual rental shall be payable quarterly in advance, at the office of the Government superintendent of said property, in Hot Springs, Arkansas. The same rate for water rent shall be charged for the water to all parties receiving the same, whether in or outside said park. After the Army and Navy hospital bathhouse, the public bathhouse, the bathhouses which are authorized in the said park, the Arlington Hotel, and the bathhouses outside said park authorized on or before March 3, 1891 , to be supplied with hot water, in the order herein named, if there shall still be a surplus of hot water the Secretary of the Interior may, in his discretion and under such regulations as he may prescribe, cause hot water to be furnished to bathhouses, hotels, and families outside the said park. Such bathhouses, hotels, and families shall cause all connections for obtaining such hot water to be made at their own expense. All water furnished to any hotel or family for other use than bathing shall be paid for at such reasonable price, as shall be fixed by the Secretary of the Interior. The Secretary of the Interior shall at the expiration of each period of five years during the continuance of each lease readjust the terms and amounts of payment provided for therein as may be just, but not less than the minimum herein provided.
 
+
+## Source Credit
+
+*(Mar. 3, 1891, ch. 533, § 1, [26 Stat. 842](https://www.govinfo.gov/link/statute/26/842); Mar. 4, 1921, ch. 161, § 1, [41 Stat. 1407](https://www.govinfo.gov/link/statute/41/1407).)*

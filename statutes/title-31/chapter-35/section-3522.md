@@ -3,9 +3,10 @@ title: "Section 3522 - Making and submitting accounts"
 usc_title: 31
 usc_section: "3522"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 3522"
-generated_at: "2026-03-30T02:55:34.057Z"
+generated_at: "2026-11-23T20:26:51.780Z"
+status: "active"
 ---
 
 # § 3522. Making and submitting accounts
@@ -23,3 +24,106 @@ generated_at: "2026-03-30T02:55:34.057Z"
 - **(e)**
   - **(1)** The Comptroller General shall disapprove a requisition for an advance of money if an account from which the advance is to be made is not submitted to the Comptroller General within the time required by subsection (b) of this section. The Comptroller General may disapprove the request for another reason related to the condition of an account of the official for whom the advance is requested. However, the Secretary of the Treasury may overrule the decision of the Comptroller General on the sufficiency of the other reasons.
   - **(2)** The Secretary may extend the time requirements of subsection (b)(1) and (2) of this section for submitting an account to the proper official in the District of Columbia or waive a condition of delinquency only when there is, or is likely to be, a manifest physical difficulty in complying with those requirements. If an account is not submitted to the Comptroller General on time under subsection (b), an order of the President or, if the President is ill or not in the District of Columbia, the Secretary is required to authorize an advance.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3522(a)(1) | 31:44(1st sentence). | June 10, 1921, ch. 18, § 304 (1st par. 1st sentence), 42 Stat. 24 . |
+|  | 31:496(1st sentence). | R.S. § 3622; Feb. 27, 1877, ch. 69 (8th complete par. on p. 249), 19 Stat. 249 ; July 31, 1894, ch. 174, § 12 (last par.), 28 Stat. 209 . |
+|  | 31:497. | Aug. 30, 1890, ch. 837, § 4 , 26 Stat. 413 . |
+| 3522(a)(2) | 31:498. | R.S. § 3623. |
+| 3522(b)(1), (2) | 31:44(1st sentence). |  |
+|  | 31:78(1st, last sentences). | July 31, 1894, ch. 174, § 12 (1st par.), 28 Stat. 209 ; Mar. 2, 1895, ch. 177, § 4 , 28 Stat. 807 . |
+|  | 31:496(2d sentence). |  |
+| 3522(b)(3) | 31:44(1st sentence). | June 10, 1921, ch. 18, § 304 (1st par. 1st sentence), 42 Stat. 24 . |
+|  | 31:80. | Mar. 2, 1901, ch. 803 (3d par. on p. 910), 31 Stat. 910 ; July 9, 1918, ch. 143 , ch. XVIII(last par.), 40 Stat. 892 . |
+|  | 31:80a. | Nov. 21, 1941, ch. 499 , 55 Stat. 781 . |
+|  | 31:80b. | Dec. 26, 1941, ch. 629 , 55 Stat. 862 ; Dec. 23, 1944, ch. 720 , 58 Stat. 923 . |
+|  | 31:80c. | Feb. 20, 1942, ch. 95 , 56 Stat. 94 . |
+|  | 31:496(3d sentence). |  |
+| 3522(b)(4) | 31:44(1st sentence). |  |
+|  | 31:81. | Mar. 4, 1907, ch. 2918, § 1 (3d par. under heading “United States Courts”), 34 Stat. 1360 . |
+| 3522(c) | 31:496(4th sentence). |  |
+| 3522(d) | 31:496(last sentence). |  |
+| 3522(e)(1) | 31:44(1st sentence). |  |
+|  | 31:78(2d sentence). |  |
+| 3522(e)(2) | 31:44(1st sentence). |  |
+|  | 31:78(3d, 4th sentences). |  |
+
+
+Historical and Revision Notes
+
+3522(a)(1)
+
+June 10, 1921, ch. 18, § 304
+
+42 Stat. 24
+
+Feb. 27, 1877, ch. 69
+
+19 Stat. 249
+
+July 31, 1894, ch. 174, § 12
+
+28 Stat. 209
+
+Aug. 30, 1890, ch. 837, § 4
+
+26 Stat. 413
+
+3522(a)(2)
+
+July 31, 1894, ch. 174, § 12
+
+28 Stat. 209
+
+Mar. 2, 1895, ch. 177, § 4
+
+28 Stat. 807
+
+3522(b)(3)
+
+June 10, 1921, ch. 18, § 304
+
+42 Stat. 24
+
+Mar. 2, 1901, ch. 803
+
+31 Stat. 910
+
+July 9, 1918, ch. 143
+
+40 Stat. 892
+
+Nov. 21, 1941, ch. 499
+
+55 Stat. 781
+
+Dec. 26, 1941, ch. 629
+
+55 Stat. 862
+
+Dec. 23, 1944, ch. 720
+
+58 Stat. 923
+
+Feb. 20, 1942, ch. 95
+
+56 Stat. 94
+
+3522(b)(4)
+
+Mar. 4, 1907, ch. 2918, § 1
+
+34 Stat. 1360
+
+3522(c)
+
+3522(d)
+
+3522(e)(1)
+
+3522(e)(2)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 961](https://www.govinfo.gov/link/statute/96/961).)*

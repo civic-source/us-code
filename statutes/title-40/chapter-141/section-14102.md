@@ -3,9 +3,10 @@ title: "Section 14102 - Definitions"
 usc_title: 40
 usc_section: "14102"
 chapter: 141
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 14102"
-generated_at: "2026-03-30T02:55:43.386Z"
+generated_at: "2026-11-23T20:26:56.680Z"
+status: "active"
 ---
 
 # § 14102. Definitions
@@ -31,3 +32,84 @@ generated_at: "2026-03-30T02:55:43.386Z"
     - **(C)** a nonprofit agency or instrumentality created through an interstate compact.
     - **(D)** a nonprofit association or combination of bodies, agencies, and instrumentalities described in this paragraph.
 - **(b)** The Commission may not propose or consider a recommendation for any change in the definition of the Appalachian region as set forth in this section without a prior resolution by the Committee on Environment and Public Works of the Senate or the Committee on Transportation and Infrastructure of the House of Representatives that directs a study of the change.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 14102(a)(1) | 40 App.:403 (less last 2 pars.). | Pub. L. 89–4, title IV, § 403 , Mar. 9, 1965 , 79 Stat. 21 ; Pub. L. 90–103, title I, § 123 , Oct. 11, 1967 , 81 Stat. 266 ; Pub. L. 91–123, title I, § 110 , Nov. 25, 1969 , 83 Stat. 215 ; Pub. L. 101–434 , Oct. 17, 1990 , 104 Stat. 985 ; Pub. L. 102–240, title I, § 1087 , Dec. 18, 1991 , 105 Stat. 2022 ; Pub. L. 103–437, § 14(e) , Nov. 2, 1994 , 108 Stat. 4591 ; Pub. L. 105–178, title I, § 1222(a) , June 9, 1998 , 112 Stat. 223 ; Pub. L. 107–149 , §§ 11, 13(j), Mar. 12, 2002 , 116 Stat. 70 , 73. |
+| 14102(a)(2) | 40 App.:301. | Pub. L. 89–4, title III, § 301 , Mar. 9, 1965 , 79 Stat. 19 . |
+| 14102(b) | 40 App.:403 (last 2 pars.). |  |
+
+
+Definitions
+
+Appalachian region
+
+Local development district
+
+Change in Definition
+
+Historical and Revision Notes
+
+14102(a)(1)
+
+Pub. L. 89–4, title IV, § 403
+
+Mar. 9, 1965
+
+79 Stat. 21
+
+Pub. L. 90–103, title I, § 123
+
+Oct. 11, 1967
+
+81 Stat. 266
+
+Pub. L. 91–123, title I, § 110
+
+Nov. 25, 1969
+
+83 Stat. 215
+
+Pub. L. 101–434
+
+Oct. 17, 1990
+
+104 Stat. 985
+
+Pub. L. 102–240, title I, § 1087
+
+Dec. 18, 1991
+
+105 Stat. 2022
+
+Pub. L. 103–437, § 14(e)
+
+Nov. 2, 1994
+
+108 Stat. 4591
+
+Pub. L. 105–178, title I, § 1222(a)
+
+June 9, 1998
+
+112 Stat. 223
+
+Pub. L. 107–149
+
+Mar. 12, 2002
+
+116 Stat. 70
+
+14102(a)(2)
+
+Pub. L. 89–4, title III, § 301
+
+Mar. 9, 1965
+
+79 Stat. 19
+
+14102(b)
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1254](https://www.govinfo.gov/link/statute/116/1254); [Pub. L. 110–371, § 7](https://www.govinfo.gov/link/plaw/110/public/371), Oct. 8, 2008, [122 Stat. 4042](https://www.govinfo.gov/link/statute/122/4042); [Pub. L. 117–58, div. A, title I, § 11506(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 584](https://www.govinfo.gov/link/statute/135/584).)*

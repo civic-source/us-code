@@ -3,9 +3,10 @@ title: "Section 518d - Use of assessments as source of funds for payments"
 usc_title: 7
 usc_section: "518d"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 518d"
-generated_at: "2026-03-30T02:53:42.288Z"
+generated_at: "2026-11-23T20:25:41.051Z"
+status: "active"
 ---
 
 # § 518d. Use of assessments as source of funds for payments
@@ -76,3 +77,7 @@ generated_at: "2026-03-30T02:53:42.288Z"
   - **(2)** Administrative remedies shall be deemed exhausted if no decision by the Secretary is made within the time limits established under subsection (i)(4).
   - **(3)** The court shall restrain collection of the excessive portion of any assessment or order a refund of excessive assessments already paid, along with interest calculated at the rate prescribed in section 3717 of title 31 , if it finds that the Secretary’s determination is not supported by a preponderance of the information available to the Secretary.
 - **(k)** The authority provided by this section to impose assessments terminates on September 30, 2014 .
+
+## Source Credit
+
+*([Pub. L. 108–357, title VI, § 625](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1529](https://www.govinfo.gov/link/statute/118/1529).)*

@@ -3,9 +3,10 @@ title: "Section 5303 - Certain bars to benefits"
 usc_title: 38
 usc_section: "5303"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 5303"
-generated_at: "2026-03-30T02:55:53.520Z"
+generated_at: "2026-11-23T20:27:01.954Z"
+status: "active"
 ---
 
 # § 5303. Certain bars to benefits
@@ -21,3 +22,9 @@ generated_at: "2026-03-30T02:55:53.520Z"
   - **(2)** Notwithstanding any other provision of law—
     - **(A)** no person discharged or released from active military, naval, air, or space service under other than honorable conditions who has been awarded a general or honorable discharge under revised standards for the review of discharges, (i) as implemented by the President’s directive of January 19, 1977 , initiating further action with respect to the President’s Proclamation 4313 of September 16, 1974 , (ii) as implemented on or after April 5, 1977 , under the Department of Defense’s special discharge review program, or (iii) as implemented subsequent to April 5, 1977 , and not made applicable to all persons administratively discharged or released from active military, naval, air, or space service under other than honorable conditions, shall be entitled to benefits under laws administered by the Secretary except upon a determination, based on a case-by-case review, under standards (meeting the requirements of paragraph (1) of this subsection) applied by the board of review concerned under section 1553 of title 10 , subject to review by the Secretary concerned, that such person would be awarded an upgraded discharge under such standards; and
     - **(B)** such determination shall be made by such board (i) on an expedited basis after notification by the Department to the Secretary concerned that such person has received, is in receipt of, or has applied for such benefits or after a written request is made by such person or such determination, (ii) on its own initiative before October 9, 1978 , in any case where a general or honorable discharge has been awarded before October 9, 1977 , under revised standards referred to in clause (A)(i), (ii), or (iii) of this paragraph, or (iii) on its own initiative at the time a general or honorable discharge is so awarded in any case where a general or honorable discharge is awarded after October 8, 1977 .
+
+“This Act [amending this section and section 101 of this title and enacting provisions set out below] shall become effective on the date of its enactment [ Oct. 8, 1977 ], except that—
+
+## Source Credit
+
+*([Pub. L. 85–857](https://www.govinfo.gov/link/plaw/85/public/857), Sept. 2, 1958, [72 Stat. 1230](https://www.govinfo.gov/link/statute/72/1230), § 3103; [Pub. L. 86–113](https://www.govinfo.gov/link/plaw/86/public/113), July 28, 1959, [73 Stat. 262](https://www.govinfo.gov/link/statute/73/262); [Pub. L. 95–126, § 1(a)](https://www.govinfo.gov/link/plaw/95/public/126), Oct. 8, 1977, [91 Stat. 1106](https://www.govinfo.gov/link/statute/91/1106); [Pub. L. 97–295, § 4(75)](https://www.govinfo.gov/link/plaw/97/public/295), Oct. 12, 1982, [96 Stat. 1310](https://www.govinfo.gov/link/statute/96/1310); [Pub. L. 99–576, title VII, § 701(70)](https://www.govinfo.gov/link/plaw/99/public/576), Oct. 28, 1986, [100 Stat. 3296](https://www.govinfo.gov/link/statute/100/3296); renumbered § 5303, [Pub. L. 102–40, title IV, § 402(b)(1)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238); [Pub. L. 102–83, § 4(a)(1)](https://www.govinfo.gov/link/plaw/102/public/83), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 403–405](https://www.govinfo.gov/link/statute/105/403); [Pub. L. 114–315, title VII, § 702](https://www.govinfo.gov/link/plaw/114/public/315), Dec. 16, 2016, [130 Stat. 1585](https://www.govinfo.gov/link/statute/130/1585); [Pub. L. 116–283, div. A, title IX, § 926(a)(55)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3830](https://www.govinfo.gov/link/statute/134/3830).)*

@@ -3,9 +3,10 @@ title: "Section 21 - Eligibility, election, and enrollment"
 usc_title: 42
 usc_section: "21"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 21"
-generated_at: "2026-03-30T02:56:10.971Z"
+generated_at: "2026-11-23T20:27:21.247Z"
+status: "active"
 ---
 
 # § 1395w–21. Eligibility, election, and enrollment
@@ -117,6 +118,7 @@ generated_at: "2026-03-30T02:56:10.971Z"
       - **(iii)** information on health outcomes, and
       - **(iv)** the recent record regarding compliance of the plan with requirements of this part (as determined by the Secretary).
     - **(E)** Supplemental health care benefits, including any reductions in cost-sharing under section 1395w–22(a)(3) of this title and the terms and conditions (including premiums) for such benefits.
+    - **(F)** Beginning with plan years beginning on or after January 1, 2029 , in the case of a specified MA plan (as defined in section 1395w–22(c)(3)(C) of this title ), the accuracy score of the plan’s provider directory (as reported under section 1395w–27(e)(6)(A)(ii) of this title ) listed prominently on the plan’s provider directory.
   - **(5)** The Secretary shall maintain a toll-free number for inquiries regarding Medicare+Choice options and the operation of this part in all areas in which Medicare+Choice plans are offered and an Internet site through which individuals may electronically obtain information on such options and Medicare+Choice plans.
   - **(6)** The Secretary may enter into contracts with non-Federal entities to carry out activities under this subsection.
   - **(7)** A Medicare+Choice organization shall provide the Secretary with such information on the organization and each Medicare+Choice plan it offers as may be required for the preparation of the information referred to in paragraph (2)(A).
@@ -236,3 +238,45 @@ generated_at: "2026-03-30T02:56:10.971Z"
     - **(C)** The offering of gifts and other promotional items other than those that are of nominal value (as determined by the Secretary) to prospective enrollees at promotional activities.
     - **(D)** The use of compensation other than as provided under guidelines established by the Secretary. Such guidelines shall ensure that the use of compensation creates incentives for agents and brokers to enroll individuals in the Medicare Advantage plan that is intended to best meet their health care needs.
     - **(E)** The use by a Medicare Advantage organization of any individual as an agent, broker, or other third party representing the organization that has not completed an initial training and testing program and does not complete an annual retraining and testing program.
+
+In general
+
+Application to prior plan terminations
+
+In General
+
+References
+
+Transition
+
+Authority to designate other plans as specialized ma plans
+
+Enrollment in new plans
+
+In general
+
+Reports
+
+Demonstration Project.—
+
+Establishment
+
+Consultation
+
+Performance standards.—
+
+In general
+
+Noncompliance
+
+Report to Congress
+
+Waiver Authority
+
+Duration
+
+Separate From Other Demonstration Proj­ects
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1851, as added [Pub. L. 105–33, title IV, § 4001](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 275](https://www.govinfo.gov/link/statute/111/275); amended [Pub. L. 106–113, div. B, § 1000(a)(6) [title III, § 321(k)(6)(A), title V, §§ 501(a)(1), (b), (c), 502(a), 519(a)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–367, 1501A–378 to 1501A–380, 1501A–385; [Pub. L. 106–554, § 1(a)(6) [title VI, §§ 606(a)(2)(C), 613(a), 619(a), 620(a)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–558, 2763A–560, 2763A–563; [Pub. L. 107–188, title V, § 532(a)](https://www.govinfo.gov/link/plaw/107/public/188), (c)(1), June 12, 2002, [116 Stat. 696](https://www.govinfo.gov/link/statute/116/696); [Pub. L. 108–173, title I, § 102(a)](https://www.govinfo.gov/link/plaw/108/public/173), (c)(1), title II, §§ 221(a)(1), (d)(5), 222(l)(3)(A), (B), (D), (E), 231(a), 233(b), (d), 237(b)(2)(A), Dec. 8, 2003, [117 Stat. 2152](https://www.govinfo.gov/link/statute/117/2152), 2154, 2180, 2193, 2206, 2207, 2209, 2212; [Pub. L. 109–432, div. B, title II, § 206(a)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 2990](https://www.govinfo.gov/link/statute/120/2990); [Pub. L. 110–48, § 2](https://www.govinfo.gov/link/plaw/110/public/48), July 18, 2007, [121 Stat. 244](https://www.govinfo.gov/link/statute/121/244); [Pub. L. 110–275, title I, § 103(a)(1)](https://www.govinfo.gov/link/plaw/110/public/275), (b)(1), (c)(1), (d)(1), July 15, 2008, [122 Stat. 2498–2501](https://www.govinfo.gov/link/statute/122/2498); [Pub. L. 111–5, div. B, title IV, § 4102(d)(2)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 486](https://www.govinfo.gov/link/statute/123/486); [Pub. L. 111–148, title III](https://www.govinfo.gov/link/plaw/111/public/148), §§ 3201(e)(2)(A)(i), 3204(a)(1), (b), Mar. 23, 2010, [124 Stat. 446](https://www.govinfo.gov/link/statute/124/446), 456; [Pub. L. 111–152, title I, § 1102(a)](https://www.govinfo.gov/link/plaw/111/public/152), Mar. 30, 2010, [124 Stat. 1040](https://www.govinfo.gov/link/statute/124/1040); [Pub. L. 114–10, title II, § 209(b)(1)](https://www.govinfo.gov/link/plaw/114/public/10) –(2)(B)(i), (3), (c), Apr. 16, 2015, [129 Stat. 147–150](https://www.govinfo.gov/link/statute/129/147); [Pub. L. 114–255, div. C, title XVII](https://www.govinfo.gov/link/plaw/114/public/255), §§ 17005, 17006(a)(1), (c)(2), Dec. 13, 2016, [130 Stat. 1333–1335](https://www.govinfo.gov/link/statute/130/1333); [Pub. L. 119–75, div. J, title II, § 6220(b)(2)(B)](https://www.govinfo.gov/link/plaw/119/public/75), Feb. 3, 2026, [140 Stat. 659](https://www.govinfo.gov/link/statute/140/659).)*

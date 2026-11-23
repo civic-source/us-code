@@ -3,9 +3,10 @@ title: "Section 4141 - Award of grants and contracts to colleges and universitie
 usc_title: 10
 usc_section: "4141"
 chapter: 305
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 4141"
-generated_at: "2026-03-30T02:53:38.203Z"
+generated_at: "2026-11-23T20:25:51.914Z"
+status: "active"
 ---
 
 # § 4141. Award of grants and contracts to colleges and universities: requirement of competition
@@ -21,3 +22,29 @@ generated_at: "2026-03-30T02:53:38.203Z"
   - **(2)** A grant may not be made, or a contract awarded, pursuant to a provision of law that authorizes or requires the making of the grant, or the awarding of the contract, in a manner that is inconsistent with subsection (a) until—
     - **(A)** the Secretary of Defense submits to Congress a notice in writing of the intent to make the grant or award the contract; and
     - **(B)** a period of 180 days has elapsed after the date on which the notice is received by Congress.
+
+In General
+
+Institute Described
+
+Financial Assistance Authorized.—
+
+In general
+
+Use of funds
+
+Duration
+
+Application for financial assistance
+
+Competitive, merit review
+
+Collaboration
+
+Limitation
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 100–456, div. A, title II, § 220(a)](https://www.govinfo.gov/link/plaw/100/public/456), Sept. 29, 1988, [102 Stat. 1940](https://www.govinfo.gov/link/statute/102/1940), § 2361; amended [Pub. L. 101–189, div. A, title II, § 252(a)](https://www.govinfo.gov/link/plaw/101/public/189), (b)(1), (c)(1), Nov. 29, 1989, [103 Stat. 1404](https://www.govinfo.gov/link/statute/103/1404), 1405; [Pub. L. 101–510, div. A, title XIII, § 1311(4)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1669](https://www.govinfo.gov/link/statute/104/1669); [Pub. L. 103–35, title II, § 201(g)(5)](https://www.govinfo.gov/link/plaw/103/public/35), May 31, 1993, [107 Stat. 100](https://www.govinfo.gov/link/statute/107/100); [Pub. L. 103–160, div. A, title VIII, § 821(b)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1704](https://www.govinfo.gov/link/statute/107/1704); [Pub. L. 103–337, div. A, title VIII, § 813](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2816](https://www.govinfo.gov/link/statute/108/2816); [Pub. L. 104–106, div. A, title II, § 264](https://www.govinfo.gov/link/plaw/104/public/106), title XV, § 1502(a)(1), Feb. 10, 1996, [110 Stat. 237](https://www.govinfo.gov/link/statute/110/237), 502; [Pub. L. 104–201, div. A, title II, § 265](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2466](https://www.govinfo.gov/link/statute/110/2466); renumbered § 4141, [Pub. L. 116–283, div. A, title XVIII, § 1844(b)](https://www.govinfo.gov/link/plaw/116/public/283), as added [Pub. L. 117–81, div. A, title XVII, § 1701(u)(5)(B)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2154](https://www.govinfo.gov/link/statute/135/2154); [Pub. L. 116–283, div. A, title XVIII](https://www.govinfo.gov/link/plaw/116/public/283), §§ 1841(c), 1883(b)(2), Jan. 1, 2021, [134 Stat. 4243](https://www.govinfo.gov/link/statute/134/4243), 4294; [Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(D)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2151](https://www.govinfo.gov/link/statute/135/2151); [Pub. L. 118–159, div. A, title XVII, § 1701(a)(38)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2205](https://www.govinfo.gov/link/statute/138/2205).)*

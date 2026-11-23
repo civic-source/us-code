@@ -3,9 +3,10 @@ title: "Section 20991 - Annual report on enforcement of registration requirement
 usc_title: 34
 usc_section: "20991"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 20991"
-generated_at: "2026-03-30T02:55:33.302Z"
+generated_at: "2026-11-23T20:26:50.615Z"
+status: "active"
 ---
 
 # § 20991. Annual report on enforcement of registration requirements
@@ -17,3 +18,7 @@ Not later than July 1 of each year, the Attorney General shall submit a report t
   - **(3)** a detailed explanation of each jurisdiction’s compliance with subchapter I of this chapter;
   - **(4)** a detailed description of Justice Department efforts to ensure compliance and any funding reductions, the basis for any decision to reduce funding or not to reduce funding under section 20927 of this title ; and
   - **(5)** the denial or grant of any extensions to comply with subchapter I of this chapter, and the reasons for such denial or grant.
+
+## Source Credit
+
+*([Pub. L. 109–248, title VI, § 635](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 644](https://www.govinfo.gov/link/statute/120/644).)*

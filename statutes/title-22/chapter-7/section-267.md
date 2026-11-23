@@ -3,12 +3,17 @@ title: "Section 267 - Permanent Commission of International Geodetic Association
 usc_title: 22
 usc_section: "267"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 267"
-generated_at: "2026-03-30T02:55:05.309Z"
+generated_at: "2026-11-23T20:26:31.942Z"
+status: "active"
 ---
 
 # § 267. Permanent Commission of International Geodetic Association; representative of United States
 
 The duly appointed representative of the United States on the permanent commission of the International Geodetic Association is granted authority to vote with the representatives on the permanent commission from other nations on all matters coming before the association, including the extension of its existence, subject to the approval of Congress.
 
+
+## Source Credit
+
+*(Mar. 3, 1917, ch. 161, [39 Stat. 1055](https://www.govinfo.gov/link/statute/39/1055).)*

@@ -3,9 +3,10 @@ title: "Section 142e - Disbursing Officer of the Library of Congress; disburseme
 usc_title: 2
 usc_section: "142e"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 142e"
-generated_at: "2026-03-30T02:53:04.788Z"
+generated_at: "2026-11-23T20:25:28.844Z"
+status: "active"
 ---
 
 # § 142e. Disbursing Officer of the Library of Congress; disbursements for Congressional Budget Office, accountability; financial management support to Congressional Budget Office under agreement of Librarian of Congress and Director of Congressional Budget Office; Congressional Budget Office certifying officers: voucher certifications, accountability, relief by Comptroller General
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:04.788Z"
   - **(1)** that the certification was based on official records and that such certifying officer or employee did not know, and by reasonable diligence and inquiry could not have ascertained the actual facts, or
   - **(2)** that the obligation was incurred in good faith, that the payment was not contrary to any statutory provision specifically prohibiting payments of the character involved, and the United States has received value for such payment: Provided further , That the Comptroller General shall relieve such certifying officer or employee of liability for an overpayment for transportation services made to any common carrier covered by section 3726 of title 31 , whenever he finds that the overpayment occurred solely because the administrative examination made prior to payment of the transportation bill did not include a verification of transportation rates, freight classifications, or land grant deductions. The Disbursing Officer of the Library of Congress shall not be held accountable or responsible for any illegal, improper, or incorrect payment resulting from any false, inaccurate, or misleading certificate, the responsibility for which is imposed upon a certifying officer or employee of the Congressional Budget Office.
 
+
+## Source Credit
+
+*([Pub. L. 96–536, § 101(c)](https://www.govinfo.gov/link/plaw/96/public/536), Dec. 16, 1980, [94 Stat. 3167](https://www.govinfo.gov/link/statute/94/3167).)*

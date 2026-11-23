@@ -3,9 +3,10 @@ title: "Section 1733 - Qualifications for Office of Delegate"
 usc_title: 48
 usc_section: "1733"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1733"
-generated_at: "2026-03-30T02:56:14.592Z"
+generated_at: "2026-11-23T20:27:28.068Z"
+status: "active"
 ---
 
 # § 1733. Qualifications for Office of Delegate
@@ -16,3 +17,7 @@ To be eligible for the office of Delegate a candidate shall—
 - **(b)** owe allegiance to the United States;
 - **(c)** be an inhabitant of the Territory of American Samoa; and
 - **(d)** not be, on the date of the election, a candidate for any other office.
+
+## Source Credit
+
+*([Pub. L. 95–556, § 3](https://www.govinfo.gov/link/plaw/95/public/556), Oct. 31, 1978, [92 Stat. 2078](https://www.govinfo.gov/link/statute/92/2078); [Pub. L. 95–584, § 3](https://www.govinfo.gov/link/plaw/95/public/584), Nov. 2, 1978, [92 Stat. 2483](https://www.govinfo.gov/link/statute/92/2483).)*

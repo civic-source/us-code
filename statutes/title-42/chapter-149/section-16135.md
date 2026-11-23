@@ -3,9 +3,10 @@ title: "Section 16135 - Outreach and incentives"
 usc_title: 42
 usc_section: "16135"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16135"
-generated_at: "2026-03-30T02:56:11.469Z"
+generated_at: "2026-11-23T20:27:23.614Z"
+status: "active"
 ---
 
 # § 16135. Outreach and incentives
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.469Z"
     - **(F)** public health, educational, and environmental organizations.
 - **(c)** The Administrator shall develop appropriate guidance to provide credit to a State for emission reductions in the State created by the use of eligible technologies through a State implementation plan under section 7410 of this title .
 - **(d)** The Administrator, in coordination with the Department of Commerce and industry stakeholders, shall inform foreign countries with air quality problems of the potential of technology developed or used in the United States to provide emission reductions in those countries.
+
+## Source Credit
+
+*([Pub. L. 109–58, title VII, § 795](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 843](https://www.govinfo.gov/link/statute/119/843).)*

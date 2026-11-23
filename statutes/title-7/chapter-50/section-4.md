@@ -3,9 +3,10 @@ title: "Section 4 - Debentures"
 usc_title: 7
 usc_section: "4"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 4"
-generated_at: "2026-03-30T02:53:42.361Z"
+generated_at: "2026-11-23T20:25:41.409Z"
+status: "active"
 ---
 
 # § 2009cc–4. Debentures
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:42.361Z"
     - **(A)** 300 percent of the private capital of the rural business investment company; or
     - **(B)** $105,000,000; and
   - **(2)** provide for the use of discounted debentures.
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 384E](https://www.govinfo.gov/link/plaw/87/public/128), as added [Pub. L. 107–171, title VI, § 6029](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 393](https://www.govinfo.gov/link/statute/116/393).)*

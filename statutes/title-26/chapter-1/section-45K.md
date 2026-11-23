@@ -3,9 +3,10 @@ title: "Section 45K - Credit for producing fuel from a nonconventional source"
 usc_title: 26
 usc_section: "45K"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 45K"
-generated_at: "2026-03-30T02:55:27.602Z"
+generated_at: "2026-11-23T20:26:45.218Z"
+status: "active"
 ---
 
 # § 45K. Credit for producing fuel from a nonconventional source
@@ -85,3 +86,19 @@ generated_at: "2026-03-30T02:55:27.602Z"
     - **(C)** This subsection shall not apply to any facility producing qualified fuels for which a credit was allowed under this section for the taxable year or any preceding taxable year by reason of subsection (f).
     - **(D)** Subsection (b)(1) shall not apply.
     - **(E)** No credit shall be allowed with respect to any coke or coke gas which is produced using steel industry fuel (as defined in section 45(c)(7)) as feedstock if a credit is allowed to any taxpayer under section 45 with respect to the production of such steel industry fuel.
+
+In general
+
+Election
+
+In general
+
+Subsection
+
+In general
+
+Exceptions
+
+## Source Credit
+
+*(Added [Pub. L. 96–223, title II, § 231(a)](https://www.govinfo.gov/link/plaw/96/public/223), Apr. 2, 1980, [94 Stat. 268](https://www.govinfo.gov/link/statute/94/268), § 44D; amended [Pub. L. 97–34, title VI](https://www.govinfo.gov/link/plaw/97/public/34) § 611(a), Aug. 13, 1981, [95 Stat. 339](https://www.govinfo.gov/link/statute/95/339); [Pub. L. 97–354, § 5(a)(1)](https://www.govinfo.gov/link/plaw/97/public/354), Oct. 19, 1982, [96 Stat. 1692](https://www.govinfo.gov/link/statute/96/1692); [Pub. L. 97–448, title II, § 202(a)](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2396](https://www.govinfo.gov/link/statute/96/2396); renumbered § 29 and amended [Pub. L. 98–369, div. A, title IV](https://www.govinfo.gov/link/plaw/98/public/369), §§ 471(c), 474(h), title VI, § 612(e)(1), title VII, § 722(d)(1), (2), July 18, 1984, [98 Stat. 826](https://www.govinfo.gov/link/statute/98/826), 831, 912, 973; [Pub. L. 99–514, title VII, § 701(c)(3)](https://www.govinfo.gov/link/plaw/99/public/514), title XVIII, § 1879(c)(1), Oct. 22, 1986, [100 Stat. 2340](https://www.govinfo.gov/link/statute/100/2340), 2906; [Pub. L. 100–647, title VI, § 6302](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3755](https://www.govinfo.gov/link/statute/102/3755); [Pub. L. 101–508, title XI](https://www.govinfo.gov/link/plaw/101/public/508), §§ 11501(a), (b)(1), (c)(1), 11813(b)(1), 11816, Nov. 5, 1990, [104 Stat. 1388–479](https://www.govinfo.gov/link/statute/104/1388), 1388–550, 1388–558; [Pub. L. 102–486, title XIX, § 1918](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3025](https://www.govinfo.gov/link/statute/106/3025); [Pub. L. 104–188, title I](https://www.govinfo.gov/link/plaw/104/public/188), §§ 1205(d)(3), 1207(a), Aug. 20, 1996, [110 Stat. 1776](https://www.govinfo.gov/link/statute/110/1776); renumbered § 45K and amended [Pub. L. 109–58, title XIII](https://www.govinfo.gov/link/plaw/109/public/58), §§ 1321(a), 1322(a)(1), (3)(E), (F), (b), Aug. 8, 2005, [119 Stat. 1010–1012](https://www.govinfo.gov/link/statute/119/1010); [Pub. L. 109–135, title IV](https://www.govinfo.gov/link/plaw/109/public/135), §§ 402(g), 412(l), Dec. 21, 2005, [119 Stat. 2611](https://www.govinfo.gov/link/statute/119/2611), 2637; [Pub. L. 109–432, div. A, title II, § 211(a)](https://www.govinfo.gov/link/plaw/109/public/432), (b), Dec. 20, 2006, [120 Stat. 2947](https://www.govinfo.gov/link/statute/120/2947), 2948; [Pub. L. 110–343, div. B, title I, § 108(d)(2)](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3821](https://www.govinfo.gov/link/statute/122/3821); [Pub. L. 113–295, div. A, title II, § 210(a)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4031](https://www.govinfo.gov/link/statute/128/4031).)*

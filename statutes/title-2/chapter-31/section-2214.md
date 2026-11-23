@@ -3,9 +3,10 @@ title: "Section 2214 - Assistant to the Chief Executive Officer"
 usc_title: 2
 usc_section: "2214"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 2214"
-generated_at: "2026-03-30T02:53:04.827Z"
+generated_at: "2026-11-23T20:25:29.021Z"
+status: "active"
 ---
 
 # § 2214. Assistant to the Chief Executive Officer
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:04.827Z"
 - **(b)**
   - **(1)** The individual who serves as the assistant under section 1807 of this title as of October 20, 2008 , shall be the first Assistant Chief Executive Officer for Visitor Services appointed by the Architect under this section.
   - **(2)**
+
+## Source Credit
+
+*([Pub. L. 110–437, title II, § 204](https://www.govinfo.gov/link/plaw/110/public/437), Oct. 20, 2008, [122 Stat. 4988](https://www.govinfo.gov/link/statute/122/4988).)*

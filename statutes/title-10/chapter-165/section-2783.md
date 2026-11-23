@@ -3,9 +3,10 @@ title: "Section 2783 - Nonappropriated fund instrumentalities: financial managem
 usc_title: 10
 usc_section: "2783"
 chapter: 165
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2783"
-generated_at: "2026-03-30T02:53:38.175Z"
+generated_at: "2026-11-23T20:25:51.704Z"
+status: "active"
 ---
 
 # § 2783. Nonappropriated fund instrumentalities: financial management and use of nonappropriated funds
@@ -22,3 +23,13 @@ generated_at: "2026-03-30T02:53:38.175Z"
     - **(B)** other mismanagement or gross waste of such funds.
   - **(2)** The Secretary of Defense shall designate civilian employees of the Department of Defense or members of the armed forces to receive a notification described in paragraph (1) and ensure the prompt investigation of the validity of information provided in the notification.
   - **(3)** The Secretary shall prescribe regulations to protect the confidentiality of a person making a notification under paragraph (1).
+
+Regulation of Management and Use of Nonappropriated Funds
+
+Penalties for Violations
+
+Notification of Violations
+
+## Source Credit
+
+*(Added [Pub. L. 102–484, div. A, title III, § 362(a)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2379](https://www.govinfo.gov/link/statute/106/2379), § 2490a; renumbered § 2783 and amended [Pub. L. 103–160, div. A, title XI, § 1182(a)(8)(A)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1771](https://www.govinfo.gov/link/statute/107/1771).)*

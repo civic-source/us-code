@@ -3,9 +3,10 @@ title: "Section 4241 - Authority to enter into contracts for private counsel"
 usc_title: 12
 usc_section: "4241"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4241"
-generated_at: "2026-03-30T02:53:53.503Z"
+generated_at: "2026-11-23T20:25:59.374Z"
+status: "active"
 ---
 
 # § 4241. Authority to enter into contracts for private counsel
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:53.503Z"
 - **(b)** Each contract under subsection (a) shall include the provisions described in section 4244 of this title and such other terms and conditions as the Attorney General considers necessary and appropriate to protect the interests of the United States.
 - **(c)** The amount of the contingency fee payable for legal services furnished under a contract described in subsection (a) shall not exceed the contingency fee that counsel engaged in the private practice of law in the jurisdiction wherein the legal services are furnished typically charge clients for furnishing the same or comparable legal services.
 - **(d)** Notwithstanding section 3302(b) of title 31 , a contract under this section shall provide that a fee that the United States pays private counsel for services is payable from the amount recovered and shall be based on a percentage of the civil penalties or assets recovered.
+
+## Source Credit
+
+*([Pub. L. 101–647, title XXV, § 2588](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4905](https://www.govinfo.gov/link/statute/104/4905).)*

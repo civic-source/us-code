@@ -3,9 +3,10 @@ title: "Section 8484 - Accessible trails"
 usc_title: 16
 usc_section: "8484"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 8484"
-generated_at: "2026-03-30T02:54:23.087Z"
+generated_at: "2026-11-23T20:26:20.891Z"
+status: "active"
 ---
 
 # § 8484. Accessible trails
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:54:23.087Z"
 - **(f)**
   - **(1)** Not later than 3 years after January 4, 2025 , the Secretary concerned, in coordination with stakeholders and other interested organizations, shall prepare and publish an interim report that lists the accessible trails developed under this section during the previous 3 years.
   - **(2)** Not later than 7 years after January 4, 2025 , the Secretary concerned, in coordination with stakeholders and other interested organizations, shall prepare and publish a final report that lists the accessible trails developed under this section.
+
+## Source Credit
+
+*([Pub. L. 118–234, title II, § 214](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2883](https://www.govinfo.gov/link/statute/138/2883).)*

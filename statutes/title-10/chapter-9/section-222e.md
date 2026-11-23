@@ -3,9 +3,10 @@ title: "Section 222e - Programs, projects, and activities that were internally c
 usc_title: 10
 usc_section: "222e"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 222e"
-generated_at: "2026-03-30T02:53:38.047Z"
+generated_at: "2026-11-23T20:25:50.878Z"
+status: "active"
 ---
 
 # § 222e. Programs, projects, and activities that were internally changed in the submission of the President’s budget: annual report
@@ -22,3 +23,13 @@ generated_at: "2026-03-30T02:53:38.047Z"
   - **(8)** If applicable, the amount reduced or saved by the current year elimination or reduction over the future years defense plan.
   - **(9)** A characterization of the change as a fact-of-life change, a prioritization change, a programmatic change, or a change due to congressional action.
 - **(c)** The report required under subsection (a) shall be submitted in machine readable, electronic form.
+
+In General
+
+Elements
+
+Form
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title X, § 1002](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 378](https://www.govinfo.gov/link/statute/137/378).)*

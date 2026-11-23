@@ -3,9 +3,10 @@ title: "Section 26b - Application of antitrust laws to professional major league
 usc_title: 15
 usc_section: "26b"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 26b"
-generated_at: "2026-03-30T02:54:08.022Z"
+generated_at: "2026-11-23T20:26:03.372Z"
+status: "active"
 ---
 
 # § 26b. Application of antitrust laws to professional major league baseball
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:08.022Z"
   - **(3)** As used in subsection (a), interpretation of the term “directly” shall not be governed by any interpretation of section 151 et seq. of title 29, United States Code (as amended).
   - **(4)** Nothing in this section shall be construed to affect the application to organized professional baseball of the nonstatutory labor exemption from the antitrust laws.
   - **(5)** The scope of the conduct, acts, practices, or agreements covered by subsection (b) shall not be strictly or narrowly construed.
+
+## Source Credit
+
+*(Oct. 15, 1914, ch. 323, § 27, as added [Pub. L. 105–297, § 3](https://www.govinfo.gov/link/plaw/105/public/297), Oct. 27, 1998, [112 Stat. 2824](https://www.govinfo.gov/link/statute/112/2824).)*

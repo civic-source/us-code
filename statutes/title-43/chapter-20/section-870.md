@@ -3,9 +3,10 @@ title: "Section 870 - Grants of land in aid of common or public schools; extensi
 usc_title: 43
 usc_section: "870"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 870"
-generated_at: "2026-03-30T02:55:57.463Z"
+generated_at: "2026-11-23T20:27:06.258Z"
+status: "active"
 ---
 
 # § 870. Grants of land in aid of common or public schools; extension to those mineral in character; effect of leases
@@ -22,3 +23,7 @@ Subject to the provisions of subsections (a), (b), and (c) of this section, the 
   - **(4)** The Secretary of the Interior shall, upon application by a State, issue patents to the State for the lands granted by this section and section 871 of this title , in accordance with section 871a 1 1 See References in Text note below. of this title. Such patent shall, if the lease is then outstanding, include a statement that the State succeeded to the position of the United States as lessor at the time the title vested in the State.
   - **(5)** Where at the time rents, royalties, and bonuses accrue the lands or deposits covered by a single lease are owned in part by the State and in part by the United States, the rents, royalties, and bonuses shall be allocated between them in proportion to the acreage in said lease owned by each.
   - **(6)** As used in this subsection, “lease” includes “permit” and “lessor” includes “grantor”.
+
+## Source Credit
+
+*(Jan. 25, 1927, ch. 57, § 1, [44 Stat. 1026](https://www.govinfo.gov/link/statute/44/1026); May 2, 1932, ch. 151, § 1, [47 Stat. 140](https://www.govinfo.gov/link/statute/47/140); Apr. 22, 1954, ch. 169, [68 Stat. 57](https://www.govinfo.gov/link/statute/68/57); July 11, 1956, ch. 572, [70 Stat. 529](https://www.govinfo.gov/link/statute/70/529).)*

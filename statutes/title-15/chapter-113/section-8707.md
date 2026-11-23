@@ -3,9 +3,10 @@ title: "Section 8707 - Petition and review"
 usc_title: 15
 usc_section: "8707"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 8707"
-generated_at: "2026-03-30T02:54:08.233Z"
+generated_at: "2026-11-23T20:26:04.501Z"
+status: "active"
 ---
 
 # § 8707. Petition and review
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:08.233Z"
     - **(A)** to make such ruling as the court shall determine to be in accordance with law; or
     - **(B)** to take such further action as, in the opinion of the court, the law requires.
 - **(c)** The pendency of proceedings instituted under this section shall not impede, hinder, or delay the Attorney General or the Secretary from obtaining relief under section 8708 of this title .
+
+## Source Credit
+
+*([Pub. L. 115–254, div. E, § 1308](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3480](https://www.govinfo.gov/link/statute/132/3480).)*

@@ -3,9 +3,10 @@ title: "Section 231b - Computation of annuities"
 usc_title: 45
 usc_section: "231b"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 231b"
-generated_at: "2026-03-30T02:55:56.545Z"
+generated_at: "2026-11-23T20:27:05.240Z"
+status: "active"
 ---
 
 # § 231b. Computation of annuities
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:55:56.545Z"
   - **(1)** Except as provided in subdivision (2) of this subsection, if an annuity awarded under section 231a(a)(1)(iii) of this title or under section 231a(c)(2) of this title is increased or decreased either by a change in the law or by a recomputation, the reduction on account of age in the amount of such increase or decrease shall be computed as though such increased or decreased annuity amount had been in effect for and after the month in which the annuitant first became entitled to such annuity under section 231a(a)(1)(iii) or section 231a(c)(2) of this title .
   - **(2)** The reduction required under section 231a(a)(1)(iii) or section 231a(c)(2) of this title may be applied separately to each of the annuity amounts computed under subsections (a), (b), and (h) of this section and subsections (a), (b), and (e) of section 231c of this title . For this purpose, in any case in which an annuity amount was computed for an individual under the provisions of this subchapter or of Public Law 93–445 prior to October 1, 1981 , an annuity amount computed under subsections (a), (b), (c), (d) and (h) of this section, subsection (a), (b), or (e) of section 231c of this title , and section 204 or section 206 of Public Law 93–445 shall be reduced by its proportionate share of the reduction on account of age. For purposes of the preceding sentence, annuity amounts computed for an individual under subsections (b), (c), and (d) of this section prior to October 1981 shall be considered as one annuity amount.
 - **(m)** The annuity of any individual under subsection (a) of this section for any month shall, after any reduction pursuant to paragraph (iii) of section 231a(a)(1) of this title , be reduced, but not below zero, by the amount of any monthly benefit (before any deductions on account of work) payable to that individual for that month under title II of the Social Security Act [ 42 U.S.C. 401 et seq.].
+
+## Source Credit
+
+*(Aug. 29, 1935, ch. 812, § 3, as restated June 24, 1937, ch. 382, pt. I, [50 Stat. 307](https://www.govinfo.gov/link/statute/50/307), as restated [Pub. L. 93–445, title I, § 101](https://www.govinfo.gov/link/plaw/93/public/445), Oct. 16, 1974, [88 Stat. 1319](https://www.govinfo.gov/link/statute/88/1319); amended [Pub. L. 95–216, title III, § 358(a)](https://www.govinfo.gov/link/plaw/95/public/216), Dec. 20, 1977, [91 Stat. 1556](https://www.govinfo.gov/link/statute/91/1556); [Pub. L. 96–582, § 1](https://www.govinfo.gov/link/plaw/96/public/582), Dec. 23, 1980, [94 Stat. 3374](https://www.govinfo.gov/link/statute/94/3374); [Pub. L. 97–35, title XI, § 1118](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 630](https://www.govinfo.gov/link/statute/95/630); [Pub. L. 98–76, title I](https://www.govinfo.gov/link/plaw/98/public/76), §§ 101(a), 102(a), 107(a), (b), title IV, §§ 404(1), (2), 405(a), Aug. 12, 1983, [97 Stat. 411](https://www.govinfo.gov/link/statute/97/411), 413, 418, 434, 435; [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 107–90, title I](https://www.govinfo.gov/link/plaw/107/public/90), §§ 102(a), (c), 103(b), 104(a)(1), (2)(A), Dec. 21, 2001, [115 Stat. 879](https://www.govinfo.gov/link/statute/115/879), 880, 882.)*

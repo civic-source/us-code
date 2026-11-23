@@ -3,9 +3,10 @@ title: "Section 9124 - Civil actions"
 usc_title: 42
 usc_section: "9124"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9124"
-generated_at: "2026-03-30T02:56:11.350Z"
+generated_at: "2026-11-23T20:27:23.075Z"
+status: "active"
 ---
 
 # § 9124. Civil actions
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.350Z"
 - **(c)** In any action under this section, the Administrator or the Attorney General, if not a party, may intervene as a matter of right.
 - **(d)** The court, in issuing any final order in any action brought pursuant to subsection (a) of this section, may award costs of litigation (including reasonable attorney and expert witness fees) to any party whenever the court determines that such an award is appropriate.
 - **(e)** Nothing in this section shall restrict any right which any person or class of persons may have under any statute or common law to seek enforcement or to seek any other relief.
+
+## Source Credit
+
+*([Pub. L. 96–320, title I, § 114](https://www.govinfo.gov/link/plaw/96/public/320), Aug. 3, 1980, [94 Stat. 990](https://www.govinfo.gov/link/statute/94/990).)*

@@ -3,9 +3,10 @@ title: "Section 4101b - National Flood Mapping Program"
 usc_title: 42
 usc_section: "4101b"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4101b"
-generated_at: "2026-03-30T02:56:11.198Z"
+generated_at: "2026-11-23T20:27:22.356Z"
+status: "active"
 ---
 
 # § 4101b. National Flood Mapping Program
@@ -70,3 +71,7 @@ generated_at: "2026-03-30T02:56:11.198Z"
     - **(E)** encouraging property owners to maintain or acquire flood insurance coverage.
 - **(e)** Upon the adoption by the Administrator of any recommendation by the Technical Mapping Advisory Council for reviewing, updating, or maintaining National Flood Insurance Program rate maps in accordance with this section, a community that believes that its flood insurance rates in effect prior to adoption would be affected by the adoption of such recommendation may submit a request for an update of its rate maps, which may be considered at the Administrator’s sole discretion. The Administrator shall establish a protocol for the evaluation of such community map update requests.
 - **(f)** There is authorized to be appropriated to the Administrator to carry out this section $400,000,000 for each of fiscal years 2013 through 2017.
+
+## Source Credit
+
+*([Pub. L. 112–141, div. F, title II, § 100216](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 927](https://www.govinfo.gov/link/statute/126/927); [Pub. L. 113–89](https://www.govinfo.gov/link/plaw/113/public/89), §§ 27, 30, Mar. 21, 2014, [128 Stat. 1033](https://www.govinfo.gov/link/statute/128/1033), 1034.)*

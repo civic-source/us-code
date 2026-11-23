@@ -3,9 +3,10 @@ title: "Section 18996 - Cybersecurity workforce data initiative"
 usc_title: 42
 usc_section: "18996"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18996"
-generated_at: "2026-03-30T02:56:11.536Z"
+generated_at: "2026-11-23T20:27:23.845Z"
+status: "active"
 ---
 
 # § 18996. Cybersecurity workforce data initiative
@@ -19,3 +20,7 @@ The Director, acting through the National Center for Science and Engineering Sta
   - **(5)** evaluates existing Federal survey data for information pertinent to developing national estimates of the cybersecurity workforce;
   - **(6)** evaluates administrative data and other supplementary data sources, as available, to describe and measure the cybersecurity workforce; and
   - **(7)** collects statistical data, to the greatest extent practicable, on credential attainment and employment outcomes information for the cybersecurity workforce.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10317](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1531](https://www.govinfo.gov/link/statute/136/1531).)*

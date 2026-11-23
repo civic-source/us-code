@@ -3,9 +3,10 @@ title: "Section 20122 - Education, training, and enhanced services to end violen
 usc_title: 34
 usc_section: "20122"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 20122"
-generated_at: "2026-03-30T02:55:33.293Z"
+generated_at: "2026-11-23T20:26:50.579Z"
+status: "active"
 ---
 
 # § 20122. Education, training, and enhanced services to end violence against and abuse of individuals with disabilities and Deaf people
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:55:33.293Z"
   - **(2)** A grant awarded for the purpose described in subsection (b)(8) shall only be awarded to an eligible agency (as defined in section 796f–5 1 1 See References in Text note below. of title 29).
 - **(d)** In awarding grants under this section, the Director shall ensure that the needs of underserved populations are being addressed.
 - **(e)** There are authorized to be appropriated $15,000,000 for each of fiscal years 2023 through 2027 to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 106–386, div. B, title IV, § 1402](https://www.govinfo.gov/link/plaw/106/public/386), Oct. 28, 2000, [114 Stat. 1513](https://www.govinfo.gov/link/statute/114/1513); [Pub. L. 109–162, title II, § 204(a)](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3000](https://www.govinfo.gov/link/statute/119/3000); [Pub. L. 113–4, title II, § 203](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 82](https://www.govinfo.gov/link/statute/127/82); [Pub. L. 117–103, div. W, title II, § 203](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 857](https://www.govinfo.gov/link/statute/136/857).)*

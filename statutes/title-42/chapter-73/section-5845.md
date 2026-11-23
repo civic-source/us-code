@@ -3,9 +3,10 @@ title: "Section 5845 - Office of Nuclear Regulatory Research"
 usc_title: 42
 usc_section: "5845"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5845"
-generated_at: "2026-03-30T02:56:11.238Z"
+generated_at: "2026-11-23T20:27:22.562Z"
+status: "active"
 ---
 
 # § 5845. Office of Nuclear Regulatory Research
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.238Z"
 - **(d)** Nothing in subsections (a) and (b) of this section or section 5841 of this title shall be construed to limit in any way the functions of the Administration relating to the safety of activities within the jurisdiction of the Administration.
 - **(e)** Each Federal agency, subject to the provisions of existing law, shall cooperate with the Commission and provide such information and research services, on a reimbursable basis, as it may have or be reasonably able to acquire.
 - **(f)** The Commission shall develop a long-term plan for projects for the development of new or improved safety systems for nuclear powerplants.
+
+## Source Credit
+
+*([Pub. L. 93–438, title II, § 205](https://www.govinfo.gov/link/plaw/93/public/438), Oct. 11, 1974, [88 Stat. 1246](https://www.govinfo.gov/link/statute/88/1246); [Pub. L. 95–209, § 4(a)](https://www.govinfo.gov/link/plaw/95/public/209), Dec. 13, 1977, [91 Stat. 1482](https://www.govinfo.gov/link/statute/91/1482).)*

@@ -3,9 +3,10 @@ title: "Section 9054 - Conflicts of interest"
 usc_title: 15
 usc_section: "9054"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 9054"
-generated_at: "2026-03-30T02:54:08.242Z"
+generated_at: "2026-11-23T20:26:04.544Z"
+status: "active"
 ---
 
 # § 9054. Conflicts of interest
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:08.242Z"
     - **(C)** a warrant or right, other than a right to convert, to purchase, sell, or subscribe to a share or interest described in subparagraph (A) or (B), respectively.
 - **(b)** Notwithstanding any other provision of this part, no covered entity may be eligible for any transaction described in section 9042 of this title .
 - **(c)** The principal executive officer and the principal financial officer, or individuals performing similar functions, of an entity seeking to enter a transaction under section 9042 of this title shall, before that transaction is approved, certify to the Secretary and the Board of Governors of the Federal Reserve System that the entity is eligible to engage in that transaction, including that the entity is not a covered entity.
+
+## Source Credit
+
+*([Pub. L. 116–136, div. A, title IV, § 4019](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 485](https://www.govinfo.gov/link/statute/134/485).)*

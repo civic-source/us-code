@@ -3,9 +3,10 @@ title: "Section 1583 - Examination of outbound mail"
 usc_title: 19
 usc_section: "1583"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1583"
-generated_at: "2026-03-30T02:54:24.644Z"
+generated_at: "2026-11-23T20:26:10.810Z"
+status: "active"
 ---
 
 # § 1583. Examination of outbound mail
@@ -37,3 +38,11 @@ generated_at: "2026-03-30T02:54:24.644Z"
     - **(A)** a search warrant has been issued pursuant to rule 41 of the Federal Rules of Criminal Procedure; or
     - **(B)** the sender or addressee has given written authorization for such reading.
 - **(d)** Notwithstanding any other provision of this section, subsection (a)(1) shall not apply to mail weighing 16 ounces or less sealed against inspection under the postal laws and regulations of the United States.
+
+In general
+
+Certification with respect to foreign mail
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 583, as added [Pub. L. 107–210, div. A, title III, § 344(a)](https://www.govinfo.gov/link/plaw/107/public/210), Aug. 6, 2002, [116 Stat. 986](https://www.govinfo.gov/link/statute/116/986); amended [Pub. L. 108–429, title II, § 2004(a)(12)](https://www.govinfo.gov/link/plaw/108/public/429), Dec. 3, 2004, [118 Stat. 2590](https://www.govinfo.gov/link/statute/118/2590).)*

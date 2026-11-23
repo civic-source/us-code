@@ -3,9 +3,10 @@ title: "Section 3352h - Timeliness standard for rendering determinations of trus
 usc_title: 50
 usc_section: "3352h"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3352h"
-generated_at: "2026-03-30T02:56:26.247Z"
+generated_at: "2026-11-23T20:27:30.978Z"
+status: "active"
 ---
 
 # § 3352h. Timeliness standard for rendering determinations of trust for personnel vetting
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:26.247Z"
 - **(d)**
   - **(1)** With respect to each report on compliance with timeliness standards for rendering determinations of trust for personnel vetting prepared pursuant to subsection (b), the Director of National Intelligence shall make available to the congressional intelligence committees as soon as practicable anonymized raw data with respect to the timeliness of polygraph examinations used to prepare each such report in machine-readable format for each element of the intelligence community that collects such data.
   - **(2)** The data provided to the congressional intelligence committees under paragraph (1) may be modified to remove any personally identifying information, shall be submitted in unclassified form to the greatest extent possible, and shall contain a justification for the classification of any such data provided.
+
+## Source Credit
+
+*([Pub. L. 118–31, div. G, title VII, § 7702](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1100](https://www.govinfo.gov/link/statute/137/1100); [Pub. L. 118–159, div. F, title LXVI, § 6604](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2503](https://www.govinfo.gov/link/statute/138/2503).)*

@@ -3,9 +3,10 @@ title: "Section 415 - Homeland Security Education Program"
 usc_title: 6
 usc_section: "415"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 415"
-generated_at: "2026-03-30T02:53:09.463Z"
+generated_at: "2026-11-23T20:25:34.733Z"
+status: "active"
 ---
 
 # § 415. Homeland Security Education Program
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:09.463Z"
   - **(3)** If an employee who is required to make a payment under this subsection does not make the payment, a sum equal to the amount of the expenses incurred by the Government for the education of that employee is recoverable by the Government from the employee or his estate by—
     - **(A)** setoff against accrued pay, compensation, amount of retirement credit, or other amount due the employee from the Government; or
     - **(B)** such other method as is provided by lay 1 1 So in original. Probably should be “law”. for the recovery of amounts owing to the Government.
+
+## Source Credit
+
+*([Pub. L. 107–296, title VIII, § 845](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 109–295, title VI, § 623(a)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1418](https://www.govinfo.gov/link/statute/120/1418).)*

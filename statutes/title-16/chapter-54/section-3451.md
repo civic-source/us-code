@@ -3,9 +3,10 @@ title: "Section 3451 - Definitions"
 usc_title: 16
 usc_section: "3451"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3451"
-generated_at: "2026-03-30T02:54:23.016Z"
+generated_at: "2026-11-23T20:26:20.656Z"
+status: "active"
 ---
 
 # § 3451. Definitions
@@ -59,3 +60,7 @@ In this subchapter:
     - **(B)** providing maps, reports, and other documents associated with the services provided;
     - **(C)** providing assistance for the implementation of area plans and projects; and
     - **(D)** providing services that involve the resources of Department of Agriculture programs in a local community, as defined in the locally led planning process.
+
+## Source Credit
+
+*([Pub. L. 97–98, title XV, § 1528](https://www.govinfo.gov/link/plaw/97/public/98), as added [Pub. L. 107–171, title II, § 2504](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 269](https://www.govinfo.gov/link/statute/116/269); [Pub. L. 110–234, title II, § 2805(a)](https://www.govinfo.gov/link/plaw/110/public/234), (b), May 22, 2008, [122 Stat. 1088](https://www.govinfo.gov/link/statute/122/1088); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title II, § 2805(a), (b), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1816.)*

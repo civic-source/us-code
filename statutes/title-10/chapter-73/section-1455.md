@@ -3,9 +3,10 @@ title: "Section 1455 - Regulations"
 usc_title: 10
 usc_section: "1455"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1455"
-generated_at: "2026-03-30T02:53:38.123Z"
+generated_at: "2026-11-23T20:25:51.345Z"
+status: "active"
 ---
 
 # § 1455. Regulations
@@ -34,3 +35,29 @@ generated_at: "2026-03-30T02:53:38.123Z"
       - **(iii)** procedures for determining when annuity payments to a supplemental or special needs trust shall end based on the death or marriage of the dependent child for which the trust was established.
     - **(I)** Provisions for any other matter that the President considers appropriate in connection with the payment of an annuity in the case of a person referred to in paragraph (1).
   - **(3)** An annuity paid to a person on behalf of an annuitant in accordance with the regulations prescribed pursuant to paragraph (1) discharges the obligation of the United States for payment to the annuitant of the amount of the annuity so paid.
+
+In General
+
+Notice of Elections
+
+Procedure for Depositing Certain Receipts
+
+Payments to Guardians, Fiduciaries, and Special Needs Trusts.—
+
+In general
+
+Authorized procedures
+
+Legal effect of payment to guardian, fiduciary, or trust
+
+, Fiduciaries, and Special Needs Trusts
+
+and Fiduciaries
+
+, fiduciary, or trust
+
+or fiduciary
+
+## Source Credit
+
+*(Added [Pub. L. 92–425, § 1(3)](https://www.govinfo.gov/link/plaw/92/public/425), Sept. 21, 1972, [86 Stat. 711](https://www.govinfo.gov/link/statute/86/711); amended [Pub. L. 99–145, title VII, § 724](https://www.govinfo.gov/link/plaw/99/public/145), Nov. 8, 1985, [99 Stat. 678](https://www.govinfo.gov/link/statute/99/678); [Pub. L. 102–190, div. A, title VI, § 654(a)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1389](https://www.govinfo.gov/link/statute/105/1389); [Pub. L. 104–201, div. A, title VI, § 634](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2577](https://www.govinfo.gov/link/statute/110/2577); [Pub. L. 113–291, div. A, title VI, § 624(b)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3404](https://www.govinfo.gov/link/statute/128/3404).)*

@@ -3,9 +3,10 @@ title: "Section 1673h - Establishment of product categories for short life cycle
 usc_title: 19
 usc_section: "1673h"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1673h"
-generated_at: "2026-03-30T02:54:24.652Z"
+generated_at: "2026-11-23T20:26:10.851Z"
+status: "active"
 ---
 
 # § 1673h. Establishment of product categories for short life cycle merchandise
@@ -55,3 +56,7 @@ generated_at: "2026-03-30T02:54:24.652Z"
   - **(2)** No affirmative dumping determination that—
     - **(A)** is described in subsection (b)(2)(A) and was made before January 1, 1981 , or
     - **(B)** is described in subsection (b)(2)(B) and was made before January 1, 1985 ,
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title VII, § 739, as added [Pub. L. 100–418, title I, § 1323(a)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1195](https://www.govinfo.gov/link/statute/102/1195); amended [Pub. L. 101–382, title I, § 139(a)(2)](https://www.govinfo.gov/link/plaw/101/public/382), Aug. 20, 1990, [104 Stat. 653](https://www.govinfo.gov/link/statute/104/653); [Pub. L. 103–465, title II, § 233(a)(1)(D)](https://www.govinfo.gov/link/plaw/103/public/465), (2)(A)(v), Dec. 8, 1994, [108 Stat. 4898](https://www.govinfo.gov/link/statute/108/4898).)*

@@ -3,9 +3,10 @@ title: "Section 41104 - Common carriers"
 usc_title: 46
 usc_section: "41104"
 chapter: 411
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 41104"
-generated_at: "2026-03-30T02:56:15.564Z"
+generated_at: "2026-11-23T20:27:27.242Z"
+status: "active"
 ---
 
 # § 41104. Common carriers
@@ -56,3 +57,66 @@ generated_at: "2026-03-30T02:56:15.564Z"
     - **(M)** A statement that the common carrier’s performance did not cause or contribute to the underlying invoiced charges.
 - **(e)** If a non-vessel operating common carrier passes through to the relevant shipper an invoice made by the ocean common carrier, and the Commission finds that the non-vessel operating common carrier is not otherwise responsible for the charge, then the ocean common carrier shall be subject to refunds or penalties pursuant to subsection (d)(1).
 - **(f)** Failure to include the information required under subsection (d) on an invoice with any demurrage or detention charge shall eliminate any obligation of the charged party to pay the applicable charge.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 41104 | 46 App.:1709(b) (1)–(12). | Pub. L. 98–237, § 10(b)(1) –(12), Mar. 20, 1984 , 98 Stat. 77 ; Pub. L. 101–595, title VII, § 710(c) , Nov. 16, 1990 , 104 Stat. 2997 ; Pub. L. 102–251, title II, § 201(b) , Mar. 9, 1992 , 106 Stat. 60 ; Pub. L. 105–258, title I, § 109(a) , Oct. 14, 1998 , 112 Stat. 1909 ; Pub. L. 105–383, title IV, § 424(b) , Nov. 13, 1998 , 112 Stat. 3441 . |
+
+
+In General
+
+Rule of Construction
+
+Agreement Violation
+
+Detention and Demurrage Invoice Information.—
+
+Inaccurate invoice
+
+Contents of invoice
+
+Safe Harbor
+
+Elimination of Charge Obligation
+
+Historical and Revision Notes
+
+41104
+
+Pub. L. 98–237, § 10(b)(1)
+
+Mar. 20, 1984
+
+98 Stat. 77
+
+Pub. L. 101–595, title VII, § 710(c)
+
+Nov. 16, 1990
+
+104 Stat. 2997
+
+Pub. L. 102–251, title II, § 201(b)
+
+Mar. 9, 1992
+
+106 Stat. 60
+
+Pub. L. 105–258, title I, § 109(a)
+
+Oct. 14, 1998
+
+112 Stat. 1909
+
+Pub. L. 105–383, title IV, § 424(b)
+
+Nov. 13, 1998
+
+112 Stat. 3441
+
+Rulemaking on Unfair or Unjustly Discriminatory Methods
+
+Rulemaking on Unreasonable Refusal to Deal or Negotiate With Respect to Vessel Space Accommodations
+
+## Source Credit
+
+*([Pub. L. 109–304, § 7](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1541](https://www.govinfo.gov/link/statute/120/1541); [Pub. L. 115–282, title VII, § 708(a)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4295](https://www.govinfo.gov/link/statute/132/4295); [Pub. L. 117–146, § 7(a)](https://www.govinfo.gov/link/plaw/117/public/146), June 16, 2022, [136 Stat. 1274](https://www.govinfo.gov/link/statute/136/1274).)*

@@ -3,9 +3,10 @@ title: "Section 572 - United States contributions to Pennsylvania: authority, co
 usc_title: 30
 usc_section: "572"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 572"
-generated_at: "2026-03-30T02:55:29.385Z"
+generated_at: "2026-11-23T20:26:34.942Z"
+status: "active"
 ---
 
 # § 572. United States contributions to Pennsylvania: authority, conditions, limitations
@@ -18,3 +19,7 @@ The Secretary of the Interior is authorized, in order to carry out the purposes 
 - **(d)** The Commonwealth shall have full responsibility for installing, operating, and maintaining projects constructed pursuant to this chapter, and shall give evidence, satisfactory to the Secretary of the Interior, that it will enforce effective installation, operation, and maintenance safeguards;
 - **(e)** Projects constructed pursuant to this chapter shall be so located, operated, and maintained as to provide the maximum conservation of anthracite coal resources or, in those instances where such work would be in the interest of the public health or safety, to seal abandoned coal mines and to fill voids in abandoned coal mines, and, where possible, to avoid creating inequities among those mines which may be affected by the waters to be controlled thereby; and
 - **(f)** Projects for the sealing of abandoned coal mines or the filling of voids in abandoned coal mines shall be determined by the Secretary of the Interior to be economically justified. The Secretary shall not find any project to be economically justified unless the potential benefits are estimated by him to exceed the estimated cost of the project.
+
+## Source Credit
+
+*(July 15, 1955, ch. 369, § 2, [69 Stat. 353](https://www.govinfo.gov/link/statute/69/353); [Pub. L. 87–818, § 1(2)](https://www.govinfo.gov/link/plaw/87/public/818) –(7), Oct. 15, 1962, [76 Stat. 934](https://www.govinfo.gov/link/statute/76/934).)*

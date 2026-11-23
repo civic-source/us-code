@@ -3,9 +3,10 @@ title: "Section 2575a - Inquiry point"
 usc_title: 19
 usc_section: "2575a"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2575a"
-generated_at: "2026-03-30T02:54:24.680Z"
+generated_at: "2026-11-23T20:26:10.997Z"
+status: "active"
 ---
 
 # § 2575a. Inquiry point
@@ -16,3 +17,7 @@ The standards information center maintained under section 2544 of this title sha
   - **(2)** the procedures of a Federal or State agency for risk assessment, and factors the agency considers in conducting the assessment and in establishing the levels of protection that the agency considers appropriate;
   - **(3)** the membership and participation of the Federal Government and State governments in international and regional sanitary and phytosanitary organizations and systems, and in bilateral and multilateral arrangements regarding sanitary and phytosanitary measures, and the provisions of those systems and arrangements; and
   - **(4)** the location of notices of the type required under article 719 of the NAFTA, or where the information contained in such notices can be obtained.
+
+## Source Credit
+
+*([Pub. L. 96–39, title IV, § 462](https://www.govinfo.gov/link/plaw/96/public/39), as added [Pub. L. 103–182, title III, § 351(a)](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2118](https://www.govinfo.gov/link/statute/107/2118).)*

@@ -3,9 +3,10 @@ title: "Section 3702 - Authority to settle claims"
 usc_title: 31
 usc_section: "3702"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 3702"
-generated_at: "2026-03-30T02:55:34.058Z"
+generated_at: "2026-11-23T20:26:51.792Z"
+status: "active"
 ---
 
 # § 3702. Authority to settle claims
@@ -31,3 +32,78 @@ generated_at: "2026-03-30T02:55:34.058Z"
   - **(1)** The Secretary of Defense may waive the time limitations set forth in subsection (b) or (c) in the case of a claim referred to in subsection (a)(1)(A). In the case of a claim by or with respect to a member of the uniformed services who is not under the jurisdiction of the Secretary of a military department, such a waiver may be made only upon the request of the Secretary concerned (as defined in section 101 of title 37 ).
   - **(2)** Payment of a claim settled under subsection (a)(1)(A) shall be made from an appropriation that is available, for the fiscal year in which the payment is made, for the same purpose as the appropriation to which the obligation claimed would have been charged if the obligation had been timely paid, except that in the case of a claim for retired pay or survivor benefits, if the obligation claimed would have been paid from a trust fund if timely paid, the payment of the claim shall be made from that trust fund.
   - **(3)** This subsection does not apply to a claim in excess of $25,000.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3702(a) | 31:44(1st sentence). | June 10, 1921, ch. 18, § 304 (1st par. 1st sentence), 42 Stat. 24 . |
+|  | 31:71(related to claims). | R.S. § 236(related to claims); June 10, 1921, ch. 18, § 305 , 42 Stat. 24 . |
+|  | 31:86. | July 31, 1894, ch. 174, § 14 , 28 Stat. 210 . |
+| 3702(b)(1) | 31:71a(1)(less proviso). | Oct. 9, 1940, ch. 788 , 54 Stat. 1061 ; Jan. 2, 1975 , Pub. L. 93–604, § 801 , 88 Stat. 1965 . |
+|  | 31:237(1)(less proviso). |  |
+| 3702(b)(2) | 31:71a(1)(proviso). |  |
+|  | 31:237(1)(proviso). |  |
+| 3702(b)(3) | 31:71a(2). |  |
+|  | 31:237(2). |  |
+| 3702(c) | 31:122. | June 22, 1926, ch. 650, § 2 , 44 Stat. 761 ; Aug. 28, 1957 , Pub. L. 85–183, § 3(a) , 71 Stat. 465 . |
+| 3702(d) | 31:236. | Apr. 10, 1928, ch. 334 , 45 Stat. 413 . |
+
+
+One-Year Limit for Check Claims
+
+Historical and Revision Notes
+
+Act
+
+3702(a)
+
+June 10, 1921, ch. 18, § 304
+
+42 Stat. 24
+
+June 10, 1921, ch. 18, § 305
+
+42 Stat. 24
+
+July 31, 1894, ch. 174, § 14
+
+28 Stat. 210
+
+3702(b)(1)
+
+Oct. 9, 1940, ch. 788
+
+54 Stat. 1061
+
+Jan. 2, 1975
+
+Pub. L. 93–604, § 801
+
+88 Stat. 1965
+
+3702(b)(2)
+
+3702(b)(3)
+
+3702(c)
+
+June 22, 1926, ch. 650, § 2
+
+44 Stat. 761
+
+Aug. 28, 1957
+
+Pub. L. 85–183, § 3(a)
+
+71 Stat. 465
+
+3702(d)
+
+Apr. 10, 1928, ch. 334
+
+45 Stat. 413
+
+Act
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 970](https://www.govinfo.gov/link/statute/96/970); [Pub. L. 97–452, § 1(14)](https://www.govinfo.gov/link/plaw/97/public/452), Jan. 12, 1983, [96 Stat. 2470](https://www.govinfo.gov/link/statute/96/2470); [Pub. L. 100–86, title X, § 1004(b)](https://www.govinfo.gov/link/plaw/100/public/86), Aug. 10, 1987, [101 Stat. 659](https://www.govinfo.gov/link/statute/101/659); [Pub. L. 104–201, div. A, title VI, § 608](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2542](https://www.govinfo.gov/link/statute/110/2542); [Pub. L. 104–316, title II, § 202(n)(1)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3843](https://www.govinfo.gov/link/statute/110/3843); [Pub. L. 105–85, div. A, title X, § 1012](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1874](https://www.govinfo.gov/link/statute/111/1874); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title VI, § 664], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–168; [Pub. L. 107–314, div. A, title VI, § 635(a)](https://www.govinfo.gov/link/plaw/107/public/314), (b), Dec. 2, 2002, [116 Stat. 2574](https://www.govinfo.gov/link/statute/116/2574); [Pub. L. 109–163, div. A, title X, § 1056(e)(2)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3440](https://www.govinfo.gov/link/statute/119/3440).)*

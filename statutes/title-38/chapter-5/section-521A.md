@@ -3,9 +3,10 @@ title: "Section 521A - Adaptive sports programs for disabled veterans and member
 usc_title: 38
 usc_section: "521A"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 521A"
-generated_at: "2026-03-30T02:55:53.472Z"
+generated_at: "2026-11-23T20:27:01.566Z"
+status: "active"
 ---
 
 # § 521A. Adaptive sports programs for disabled veterans and members of the Armed Forces
@@ -59,3 +60,33 @@ generated_at: "2026-03-30T02:55:53.472Z"
   - **(3)** If an eligible entity that receives a grant under this section for any fiscal year does not submit the report required by paragraph (1) for such fiscal year, the entity shall not be eligible to receive a grant under this section for the subsequent fiscal year.
 - **(k)** For any fiscal year during which the Secretary provides assistance under this section, the Secretary shall submit to Congress a report on the use of funds provided under this section.
 - **(l)** The Secretary may only provide assistance under this section for adaptive sports opportunities occurring during fiscal years 2010 through 2026.
+
+Adaptive Sports Program
+
+Oversight by Secretary
+
+Application Requirement
+
+Use of Funds
+
+Outreach Requirement
+
+Coordination
+
+Authorization of Appropriations
+
+Separate Accounting
+
+Limitation on Use of Funds
+
+Annual Report to Secretary
+
+Annual Report to Congress
+
+Termination
+
+“The Secretary of Veterans Affairs shall direct the Under Secretary for Health of the Department of Veterans Affairs—
+
+## Source Credit
+
+*(Added [Pub. L. 110–389, title VII, § 702(a)](https://www.govinfo.gov/link/plaw/110/public/389), Oct. 10, 2008, [122 Stat. 4181](https://www.govinfo.gov/link/statute/122/4181); amended [Pub. L. 113–37, § 2(b)(1)](https://www.govinfo.gov/link/plaw/113/public/37), (2), Sept. 30, 2013, [127 Stat. 523](https://www.govinfo.gov/link/statute/127/523); [Pub. L. 113–59, § 5(a)](https://www.govinfo.gov/link/plaw/113/public/59) –(e), (g), (h)(1), Dec. 20, 2013, [127 Stat. 659–662](https://www.govinfo.gov/link/statute/127/659); [Pub. L. 114–58, title IV, § 405](https://www.govinfo.gov/link/plaw/114/public/58), Sept. 30, 2015, [129 Stat. 535](https://www.govinfo.gov/link/statute/129/535); [Pub. L. 114–228, title IV, § 405](https://www.govinfo.gov/link/plaw/114/public/228), Sept. 29, 2016, [130 Stat. 940](https://www.govinfo.gov/link/statute/130/940); [Pub. L. 115–62, title IV, § 405](https://www.govinfo.gov/link/plaw/115/public/62), Sept. 29, 2017, [131 Stat. 1164](https://www.govinfo.gov/link/statute/131/1164); [Pub. L. 115–251, title I, § 165](https://www.govinfo.gov/link/plaw/115/public/251), Sept. 29, 2018, [132 Stat. 3171](https://www.govinfo.gov/link/statute/132/3171); [Pub. L. 116–159, div. E, title IV, § 5403](https://www.govinfo.gov/link/plaw/116/public/159), Oct. 1, 2020, [134 Stat. 751](https://www.govinfo.gov/link/statute/134/751); [Pub. L. 117–180, div. E, title IV, § 402](https://www.govinfo.gov/link/plaw/117/public/180), Sept. 30, 2022, [136 Stat. 2139](https://www.govinfo.gov/link/statute/136/2139).)*

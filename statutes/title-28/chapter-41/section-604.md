@@ -3,9 +3,10 @@ title: "Section 604 - Duties of Director generally"
 usc_title: 28
 usc_section: "604"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 604"
-generated_at: "2026-03-30T02:55:30.135Z"
+generated_at: "2026-11-23T20:26:36.395Z"
+status: "active"
 ---
 
 # § 604. Duties of Director generally
@@ -82,3 +83,35 @@ generated_at: "2026-03-30T02:55:30.135Z"
     - **(A)** Not later than 18 months after the date of enactment of the Fair Chance to Compete for Jobs Act of 2019, the Director shall issue regulations to implement this subsection.
     - **(B)** The regulations issued under subparagraph (A) shall be the same as substantive regulations promulgated by the Director of the Office of Personnel Management under section 2(b)(1) of the Fair Chance to Compete for Jobs Act of 2019 except to the extent that the Director of the Administrative Office of the United States Courts may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this subsection.
   - **(6)** Paragraphs (1) through (4) shall take effect on the date on which section 9202 of title 5 applies with respect to agencies.
+
+Restrictions on Criminal History Inquiries.—
+
+Definitions
+
+Restriction
+
+Employing office policies; complaint procedure
+
+Adverse action.—
+
+Adverse action
+
+Appeals
+
+Applicability of other laws
+
+Regulations to be issued.—
+
+In general
+
+Parallel with agency regulations
+
+Effective date
+
+Increase in Pay Rates of Judicial Branch Employees Whose Rates of Pay Are Fixed by Administrative Action
+
+salaries of supporting personnel
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 914](https://www.govinfo.gov/link/statute/62/914); Aug. 3, 1956, ch. 944, § 3, [70 Stat. 1026](https://www.govinfo.gov/link/statute/70/1026); [Pub. L. 90–219, title II, § 203(a)](https://www.govinfo.gov/link/plaw/90/public/219) –(c), Dec. 20, 1967, [81 Stat. 669](https://www.govinfo.gov/link/statute/81/669); [Pub. L. 90–578, title II, § 201](https://www.govinfo.gov/link/plaw/90/public/578), title IV, § 402(b)(2), Oct. 17, 1968, [82 Stat. 1114](https://www.govinfo.gov/link/statute/82/1114), 1118; [Pub. L. 92–397, § 4](https://www.govinfo.gov/link/plaw/92/public/397), Aug. 22, 1972, [86 Stat. 580](https://www.govinfo.gov/link/statute/86/580); [Pub. L. 93–619, title II, § 204](https://www.govinfo.gov/link/plaw/93/public/619), Jan. 3, 1975, [88 Stat. 2089](https://www.govinfo.gov/link/statute/88/2089); [Pub. L. 95–539](https://www.govinfo.gov/link/plaw/95/public/539), §§ 3, 4, Oct. 28, 1978, [92 Stat. 2043](https://www.govinfo.gov/link/statute/92/2043); [Pub. L. 95–598, title II, § 225](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2664](https://www.govinfo.gov/link/statute/92/2664); [Pub. L. 96–82, § 5](https://www.govinfo.gov/link/plaw/96/public/82), Oct. 10, 1979, [93 Stat. 645](https://www.govinfo.gov/link/statute/93/645); [Pub. L. 96–458, § 5](https://www.govinfo.gov/link/plaw/96/public/458), Oct. 15, 1980, [94 Stat. 2040](https://www.govinfo.gov/link/statute/94/2040); [Pub. L. 96–523, § 1(c)(1)](https://www.govinfo.gov/link/plaw/96/public/523), Dec. 12, 1980, [94 Stat. 3040](https://www.govinfo.gov/link/statute/94/3040); [Pub. L. 97–267, § 7](https://www.govinfo.gov/link/plaw/97/public/267), Sept. 27, 1982, [96 Stat. 1139](https://www.govinfo.gov/link/statute/96/1139); [Pub. L. 99–554, title I, § 116](https://www.govinfo.gov/link/plaw/99/public/554), Oct. 27, 1986, [100 Stat. 3095](https://www.govinfo.gov/link/statute/100/3095); [Pub. L. 100–185, § 2](https://www.govinfo.gov/link/plaw/100/public/185), Dec. 11, 1987, [101 Stat. 1279](https://www.govinfo.gov/link/statute/101/1279); [Pub. L. 100–659, § 6(a)](https://www.govinfo.gov/link/plaw/100/public/659), Nov. 15, 1988, [102 Stat. 3918](https://www.govinfo.gov/link/statute/102/3918); [Pub. L. 100–702, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/100/public/702), title X, §§ 1008, 1010, 1011, 1020(a)(2), Nov. 19, 1988, [102 Stat. 4650](https://www.govinfo.gov/link/statute/102/4650), 4667, 4668, 4671; [Pub. L. 101–474, § 5(r)](https://www.govinfo.gov/link/plaw/101/public/474), Oct. 30, 1990, [104 Stat. 1101](https://www.govinfo.gov/link/statute/104/1101); [Pub. L. 101–647, title XXV, § 2548](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4888](https://www.govinfo.gov/link/statute/104/4888); [Pub. L. 101–650, title III](https://www.govinfo.gov/link/plaw/101/public/650), §§ 306(e)(1), 321, 325(c)(1), Dec. 1, 1990, [104 Stat. 5111](https://www.govinfo.gov/link/statute/104/5111), 5117, 5121; [Pub. L. 102–572, title V, § 503](https://www.govinfo.gov/link/plaw/102/public/572), title IX, § 902(b)(1), Oct. 29, 1992, [106 Stat. 4513](https://www.govinfo.gov/link/statute/106/4513), 4516; [Pub. L. 106–113, div. B, § 1000(a)(1) [title III, § 305]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1535](https://www.govinfo.gov/link/statute/113/1535), 1501A–37; [Pub. L. 106–518, title II, § 204](https://www.govinfo.gov/link/plaw/106/public/518), title III, § 304(d), Nov. 13, 2000, [114 Stat. 2414](https://www.govinfo.gov/link/statute/114/2414), 2418; [Pub. L. 107–217, § 3(g)(1)](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1299](https://www.govinfo.gov/link/statute/116/1299); [Pub. L. 107–273, div. C, title I, § 11043(e)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1855](https://www.govinfo.gov/link/statute/116/1855); [Pub. L. 109–115, div. A, title IV, § 407(a)](https://www.govinfo.gov/link/plaw/109/public/115), Nov. 30, 2005, [119 Stat. 2470](https://www.govinfo.gov/link/statute/119/2470); [Pub. L. 110–177, title V, § 502(a)](https://www.govinfo.gov/link/plaw/110/public/177), Jan. 7, 2008, [121 Stat. 2542](https://www.govinfo.gov/link/statute/121/2542); [Pub. L. 111–8, div. D, title III, § 307(a)](https://www.govinfo.gov/link/plaw/111/public/8), Mar. 11, 2009, [123 Stat. 648](https://www.govinfo.gov/link/statute/123/648); [Pub. L. 111–350, § 5(g)(2)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3848](https://www.govinfo.gov/link/statute/124/3848); [Pub. L. 116–92, div. A, title XI, § 1122(e)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1609](https://www.govinfo.gov/link/statute/133/1609); [Pub. L. 117–263, div. E, title LIX, § 5936(a)(3)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3467](https://www.govinfo.gov/link/statute/136/3467).)*

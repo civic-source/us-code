@@ -3,9 +3,10 @@ title: "Section 9124 - Waiver by the Secretary of State"
 usc_title: 22
 usc_section: "9124"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9124"
-generated_at: "2026-03-30T02:55:05.461Z"
+generated_at: "2026-11-23T20:26:32.754Z"
+status: "active"
 ---
 
 # § 9124. Waiver by the Secretary of State
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:05.461Z"
   - **(1)** is published in the Federal Register; or
   - **(2)** is posted on the Department of State website.
 - **(d)** The Secretary of State may limit the publication of information under subsection (c) in the same manner and to the same extent as the President may limit the publication of findings and determinations described in section 2414(c) of this title , if the Secretary determines that the publication of such information would be harmful to the national security of the United States and would not further the purposes of this chapter.
+
+## Source Credit
+
+*([Pub. L. 113–150, title II, § 204](https://www.govinfo.gov/link/plaw/113/public/150), Aug. 8, 2014, [128 Stat. 1821](https://www.govinfo.gov/link/statute/128/1821).)*

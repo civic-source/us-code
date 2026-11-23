@@ -3,9 +3,10 @@ title: "Section 1135 - Public transportation security assistance"
 usc_title: 6
 usc_section: "1135"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 1135"
-generated_at: "2026-03-30T02:53:09.504Z"
+generated_at: "2026-11-23T20:25:34.909Z"
+status: "active"
 ---
 
 # § 1135. Public transportation security assistance
@@ -67,3 +68,13 @@ generated_at: "2026-03-30T02:53:09.504Z"
   - **(2)** Sums appropriated to carry out this section shall remain available until expended.
   - **(3)** The Secretary may waive the limitation on operational costs specified in subparagraphs (B) through (E) of paragraph (1) if the Secretary determines that such a waiver is required in the interest of national security, and if the Secretary provides a written justification to the appropriate congressional committees prior to any such action.
   - **(4)** Funds provided for fiscal year 2007 transit security grants under Public Law 110–28 shall be allocated based on security assessments that are in existence as of August 3, 2007 .
+
+Period of availability
+
+Waiver
+
+Effective date
+
+## Source Credit
+
+*([Pub. L. 110–53, title XIV, § 1406](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 405](https://www.govinfo.gov/link/statute/121/405); [Pub. L. 117–81, div. F, title LXIV](https://www.govinfo.gov/link/plaw/117/public/81), §§ 6420, 6421, Dec. 27, 2021, [135 Stat. 2418](https://www.govinfo.gov/link/statute/135/2418).)*

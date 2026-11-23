@@ -3,12 +3,17 @@ title: "Section 530 - Cooperation for purposes of development and administration
 usc_title: 16
 usc_section: "530"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 530"
-generated_at: "2026-03-30T02:54:22.862Z"
+generated_at: "2026-11-23T20:26:20.100Z"
+status: "active"
 ---
 
 # § 530. Cooperation for purposes of development and administration with State and local governmental agencies and others
 
 In the effectuation of sections 528 to 531 of this title the Secretary of Agriculture is authorized to cooperate with interested State and local governmental agencies and others in the development and management of the national forests.
 
+
+## Source Credit
+
+*([Pub. L. 86–517, § 3](https://www.govinfo.gov/link/plaw/86/public/517), June 12, 1960, [74 Stat. 215](https://www.govinfo.gov/link/statute/74/215).)*

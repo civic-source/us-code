@@ -3,9 +3,10 @@ title: "Section 2523 - Executive agreements on access to data by foreign governm
 usc_title: 18
 usc_section: "2523"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2523"
-generated_at: "2026-03-30T02:54:16.507Z"
+generated_at: "2026-11-23T20:26:08.629Z"
+status: "active"
 ---
 
 # § 2523. Executive agreements on access to data by foreign governments
@@ -105,3 +106,73 @@ generated_at: "2026-03-30T02:54:16.507Z"
   - **(2)** the applicable time period under paragraphs (5) and (6)(B) of subsection (d) shall be 60 days after the date notice is provided under subsection (d)(1).
 - **(g)** Any determination or certification under subsection (b) regarding an executive agreement under this section, including any termination or renewal of such an agreement, shall be published in the Federal Register as soon as is reasonably practicable.
 - **(h)** A United States authority that receives the content of a communication described in subsection (b)(4)(H) from a foreign government in accordance with an executive agreement under this section shall use procedures that, to the maximum extent possible, meet the definition of minimization procedures in section 101 of the Foreign Intelligence Surveillance Act of 1978 ( 50 U.S.C. 1801 ) to appropriately protect nonpublicly available information concerning United States persons.
+
+Definitions
+
+Executive Agreement Requirements
+
+Limitation on Judicial Review
+
+Effective Date of Certification.—
+
+Notice
+
+Entry into force
+
+Requests for information
+
+Congressional review.—
+
+Joint resolution defined
+
+Joint resolution enacted
+
+Introduction
+
+Floor consideration in house of representatives
+
+Consideration in the senate.—
+
+Committee referral
+
+Reporting and discharge
+
+Proceeding to consideration
+
+Consideration in the senate
+
+Consideration of veto messages
+
+Rules relating to senate and house of representatives.—
+
+Treatment of senate joint resolution in house
+
+Treatment of house joint resolution in senate.—
+
+(aa) the procedure in the Senate shall be the same as if no joint resolution had been received from the House of Representatives; but
+
+(bb) the vote on passage shall be on the joint resolution from the House of Representatives.
+
+Application to revenue measures
+
+Rules of house of representatives and senate
+
+Renewal of Determination.—
+
+In general
+
+Report
+
+Nonrenewal
+
+Revisions to Agreement
+
+Publication
+
+Minimization Procedures
+
+“Congress finds the following:
+
+## Source Credit
+
+*(Added [Pub. L. 115–141, div. V, § 105(a)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1217](https://www.govinfo.gov/link/statute/132/1217).)*

@@ -3,9 +3,10 @@ title: "Section 31323 - Disclosing and incurring obligations before executing pr
 usc_title: 46
 usc_section: "31323"
 chapter: 313
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 31323"
-generated_at: "2026-03-30T02:56:15.563Z"
+generated_at: "2026-11-23T20:27:27.218Z"
+status: "active"
 ---
 
 # § 31323. Disclosing and incurring obligations before executing preferred mortgages
@@ -17,3 +18,22 @@ generated_at: "2026-03-30T02:56:15.563Z"
   - **(3)** general average; or
   - **(4)** salvage, including contract salvage.
 - **(c)** On conviction of a mortgagor under section 31330(a)(1)(A) or (B) of this title for violating this section, the mortgage indebtedness, at the option of the mortgagee, is payable immediately.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 31323(a) | 46:924(1) |
+| 31323(b) | 46:924(2) |
+| 31323(c) | 46:941(b) (last sentence) |
+
+
+Historical and Revision Notes
+
+31323(a)
+
+31323(b)
+
+31323(c)
+
+## Source Credit
+
+*([Pub. L. 100–710, title I, § 102(c)](https://www.govinfo.gov/link/plaw/100/public/710), Nov. 23, 1988, [102 Stat. 4744](https://www.govinfo.gov/link/statute/102/4744).)*

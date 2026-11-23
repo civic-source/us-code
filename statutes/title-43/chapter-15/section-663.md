@@ -3,12 +3,17 @@ title: "Section 663 - Restriction of sites to inclusion of necessary lands"
 usc_title: 43
 usc_section: "663"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 663"
-generated_at: "2026-03-30T02:55:57.460Z"
+generated_at: "2026-11-23T20:27:06.251Z"
+status: "active"
 ---
 
 # § 663. Restriction of sites to inclusion of necessary lands
 
 Reservoir sites located or selected and to be located and selected shall be restricted to and shall contain only so much land as is actually necessary for the construction and maintenance of reservoirs; excluding so far as practicable lands occupied by actual settlers at the date of the location of said reservoirs.
 
+
+## Source Credit
+
+*(Mar. 3, 1891, ch. 561, § 17, [26 Stat. 1101](https://www.govinfo.gov/link/statute/26/1101).)*

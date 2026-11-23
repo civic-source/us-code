@@ -3,9 +3,10 @@ title: "Section 1397ff - Process for submission, approval, and amendment of Stat
 usc_title: 42
 usc_section: "1397ff"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1397ff"
-generated_at: "2026-03-30T02:56:11.074Z"
+generated_at: "2026-11-23T20:27:21.686Z"
+status: "active"
 ---
 
 # § 1397ff. Process for submission, approval, and amendment of State child health plans
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:56:11.074Z"
   - **(1)** The State shall conduct the program in accordance with the plan (and any amendments) approved under subsection (c) and with the requirements of this subchapter.
   - **(2)** The Secretary shall establish a process for enforcing requirements under this subchapter. Such process shall provide for the withholding of funds in the case of substantial noncompliance with such requirements. In the case of an enforcement action against a State under this paragraph, the Secretary shall provide a State with a reasonable opportunity for correction before taking financial sanctions against the State on the basis of such an action.
 - **(e)** An approved State child health plan shall continue in effect unless and until the State amends the plan under subsection (b) or the Secretary finds, under subsection (d), substantial noncompliance of the plan with the requirements of this subchapter.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XXI, § 2106, as added [Pub. L. 105–33, title IV, § 4901(a)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 563](https://www.govinfo.gov/link/statute/111/563); amended [Pub. L. 119–21, title VII, § 71401(b)(3)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 332](https://www.govinfo.gov/link/statute/139/332).)*

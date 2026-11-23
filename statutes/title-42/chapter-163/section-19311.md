@@ -3,9 +3,10 @@ title: "Section 19311 - Lab-Embedded Entrepreneurship Program"
 usc_title: 42
 usc_section: "19311"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 19311"
-generated_at: "2026-03-30T02:56:11.546Z"
+generated_at: "2026-11-23T20:27:23.874Z"
+status: "active"
 ---
 
 # § 19311. Lab-Embedded Entrepreneurship Program
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:11.546Z"
 - **(i)** The Secretary shall oversee the planning and coordination of grants under subsection (a) and shall identify and disseminate best practices for achieving the purposes of subsection (a) to National Laboratories that receive grants under this section.
 - **(j)** The Secretary shall collaborate with other executive branch agencies, including the Department of Defense and other agencies with Federal laboratories, regarding opportunities to partner with National Laboratories receiving a grant under subsection (a).
 - **(k)** There are authorized to be appropriated to the Secretary to carry out the activities authorized in this section $25,000,000 for each of fiscal years 2023 through 2027.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title VI, § 10717](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1704](https://www.govinfo.gov/link/statute/136/1704).)*

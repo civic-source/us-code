@@ -3,9 +3,10 @@ title: "Section 3702 - Definitions"
 usc_title: 33
 usc_section: "3702"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 3702"
-generated_at: "2026-03-30T02:55:41.143Z"
+generated_at: "2026-11-23T20:26:54.273Z"
+status: "active"
 ---
 
 # § 3702. Definitions
@@ -17,3 +18,7 @@ In this chapter:
   - **(3)** The term “Secretary” means the Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration.
   - **(4)** The term “Subcommittee” means the National Science and Technology Council Subcommittee on Ocean Science and Technology.
   - **(5)** The term “State” means each State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the Virgin Islands of the United States, and any other territory or possession of the United States.
+
+## Source Credit
+
+*([Pub. L. 111–11, title XII, § 12403](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1437](https://www.govinfo.gov/link/statute/123/1437); [Pub. L. 117–167, div. B, title VI, § 10643](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1672](https://www.govinfo.gov/link/statute/136/1672).)*

@@ -3,12 +3,17 @@ title: "Section 160e - Payment of value differential by Secretary to owner of co
 usc_title: 16
 usc_section: "160e"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 160e"
-generated_at: "2026-03-30T02:54:22.736Z"
+generated_at: "2026-11-23T20:26:19.375Z"
+status: "active"
 ---
 
 # § 160e. Payment of value differential by Secretary to owner of commercial timberlands exchanging lands for State lands outside of park; determination of value; prerequisites
 
 The Secretary is authorized to pay a differential in value, as hereinafter set forth, to any owner of commercial timberlands within the park with whom the State of Minnesota has negotiated, for the purpose of conveyance to the United States, an exchange of lands for State lands outside the park. Payment hereunder may be made when an exchange is based upon valuations for timber purposes only, and shall be the difference between the value of such lands for timber purposes, as agreeable to the State, the Secretary, and any owner, and the higher value, if any, of such lands for recreational purposes not attributable to establishment or authorization of the park: Provided , That any payment shall be made only at such time as fee title of lands so acquired within the boundaries is conveyed to the United States.
 
+
+## Source Credit
+
+*([Pub. L. 91–661, § 204](https://www.govinfo.gov/link/plaw/91/public/661), Jan. 8, 1971, [84 Stat. 1972](https://www.govinfo.gov/link/statute/84/1972).)*

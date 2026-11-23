@@ -3,9 +3,10 @@ title: "Section 7657 - Senior Scientific Research Service"
 usc_title: 7
 usc_section: "7657"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7657"
-generated_at: "2026-03-30T02:53:42.460Z"
+generated_at: "2026-11-23T20:25:41.826Z"
+status: "active"
 ---
 
 # § 7657. Senior Scientific Research Service
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:53:42.460Z"
   - **(2)** In the case of an individual described in paragraph (1) who immediately prior to appointment as a member of the Service was not a career appointee in the civil service or the Senior Executive Service, the appointment of the individual under paragraph (1)—
     - **(A)** shall be to the excepted civil service; and
     - **(B)** may not exceed a period of 2 years.
+
+## Source Credit
+
+*([Pub. L. 105–185, title VI, § 620](https://www.govinfo.gov/link/plaw/105/public/185), as added [Pub. L. 107–171, title VII, § 7219](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 449](https://www.govinfo.gov/link/statute/116/449).)*

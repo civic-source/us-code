@@ -3,9 +3,10 @@ title: "Section 637 - Additional powers"
 usc_title: 15
 usc_section: "637"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 637"
-generated_at: "2026-03-30T02:54:08.093Z"
+generated_at: "2026-11-23T20:26:03.769Z"
+status: "active"
 ---
 
 # § 637. Additional powers
@@ -433,3 +434,123 @@ generated_at: "2026-03-30T02:54:08.093Z"
     - **(B)** to provide businesses, directly or indirectly, with online information and a database of companies that are interested in mentor-protege programs or community-based, statewide, or local business development programs.
   - **(2)** Subject to subparagraph (B), the Administrator may make a grant to a coalition under paragraph (1) only if the coalition provides for activities described in paragraph (1)(A) or (1)(B) an amount, either in kind or in cash, equal to the grant amount.
   - **(3)** There is authorized to be appropriated to carry out this subsection $6,600,000, to remain available until expended, for each of fiscal years 2001 through 2006.
+
+Limitations on subcontracting
+
+Limitation
+
+(aa) voluntary business, professional, educational, and other nonprofit organizations, associations, and institutions (except that the Administration shall take such actions as it determines necessary to ensure that such cooperation does not constitute or imply an endorsement by the Administration of the organization or its products or services, and shall ensure that it receives appropriate recognition in all printed materials); and
+
+(bb) other Federal and State agencies;
+
+(aa) the Administration receives appropriate recognition and publicity;
+
+(bb) the cooperation does not constitute or imply an endorsement by the Administration of any product or service of the cosponsor;
+
+(cc) unnecessary promotion of the products or services of the cosponsor is avoided; and
+
+(dd) utilization of any one cosponsor in a marketing area is minimized; and
+
+(aa) any printed material to announce the cosponsorship or to be distributed at the cosponsored activity, shall be approved in advance by the Administration;
+
+(bb) the terms and conditions of the cooperation shall be specified;
+
+(cc) only minimal charges may be imposed on any small business concern to cover the direct costs of providing the assistance;
+
+(dd) the Administration may provide to the cosponsorship mailing labels, but not lists of names and addresses of small business concerns compiled by the Administration;
+
+(ee) all printed materials containing the names of both the Administration and the cosponsor shall include a prominent disclaimer that the cooperation does not constitute or imply an endorsement by the Administration of any product or service of the cosponsor; and
+
+(ff) the Administration shall ensure that it receives appropriate recognition in all cosponsorship printed materials.
+
+Material breach
+
+Payment of Subcontractors.—
+
+Definition
+
+Notice.—
+
+In general
+
+Contents
+
+Performance
+
+Control of funds
+
+Cooperation.—
+
+In general
+
+Duration
+
+Regulations
+
+Credit for certain small business concern subcontractors.—
+
+In general
+
+Collection and review of data on subcontracting plans
+
+Rule of construction
+
+Past performance ratings for certain small business subcontractors
+
+Repeal
+
+Effective date
+
+In General
+
+Emergency Rulemaking Authority
+
+In General
+
+Emergency Rulemaking Authority
+
+Definitions
+
+Contracting Improvements.—
+
+Contracting opportunities
+
+Contracting goals
+
+Mentor-protege programs
+
+In General
+
+Limitation
+
+In General
+
+Waiver of Minimum Period of Operation
+
+Test Program
+
+Comprehensive Small Business Subcontracting Plan
+
+Waiver of Certain Small Business Act Subcontracting Plan Requirements
+
+Failure To Make a Good Faith Effort To Comply With a Comprehensive Subcontracting Plan
+
+Test Program Period
+
+Report
+
+Definitions
+
+Competitive Thresholds
+
+Joint Ventures
+
+Limitations
+
+Sunset
+
+“For the purposes of this section [amending this section and enacting provisions set out as notes under this section], the term ‘small business concern owned and controlled by women’ means any small business concern—
+
+## Source Credit
+
+*([Pub. L. 85–536, § 2[8]](https://www.govinfo.gov/link/plaw/85/public/536), July 18, 1958, [72 Stat. 389](https://www.govinfo.gov/link/statute/72/389); [Pub. L. 87–305](https://www.govinfo.gov/link/plaw/87/public/305), §§ 7, 8, Sept. 26, 1961, [75 Stat. 667](https://www.govinfo.gov/link/statute/75/667), 668; [Pub. L. 88–560, title III, § 305(c)](https://www.govinfo.gov/link/plaw/88/public/560), Sept. 2, 1964, [78 Stat. 786](https://www.govinfo.gov/link/statute/78/786); [Pub. L. 89–754, title X, § 1017](https://www.govinfo.gov/link/plaw/89/public/754), Nov. 3, 1966, [80 Stat. 1295](https://www.govinfo.gov/link/statute/80/1295); [Pub. L. 90–104, title I](https://www.govinfo.gov/link/plaw/90/public/104), §§ 105–107, Oct. 11, 1967, [81 Stat. 268](https://www.govinfo.gov/link/statute/81/268), 269; [Pub. L. 91–375, § 6(g)](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 776](https://www.govinfo.gov/link/statute/84/776); [Pub. L. 95–89, title V, § 501](https://www.govinfo.gov/link/plaw/95/public/89), Aug. 4, 1977, [91 Stat. 561](https://www.govinfo.gov/link/statute/91/561); [Pub. L. 95–507, title II](https://www.govinfo.gov/link/plaw/95/public/507), §§ 202(a), 211, Oct. 24, 1978, [92 Stat. 1761](https://www.govinfo.gov/link/statute/92/1761), 1767; [Pub. L. 95–510, § 101](https://www.govinfo.gov/link/plaw/95/public/510), Oct. 24, 1978, [92 Stat. 1780](https://www.govinfo.gov/link/statute/92/1780); [Pub. L. 96–302, title I, § 118(b)](https://www.govinfo.gov/link/plaw/96/public/302), July 2, 1980, [94 Stat. 840](https://www.govinfo.gov/link/statute/94/840); [Pub. L. 96–481, title I](https://www.govinfo.gov/link/plaw/96/public/481), §§ 101, 105, Oct. 21, 1980, [94 Stat. 2321](https://www.govinfo.gov/link/statute/94/2321), 2322; [Pub. L. 98–47](https://www.govinfo.gov/link/plaw/98/public/47), §§ 1(a), 2, 3, July 13, 1983, [97 Stat. 243](https://www.govinfo.gov/link/statute/97/243); [Pub. L. 98–72, § 1(a)](https://www.govinfo.gov/link/plaw/98/public/72), Aug. 11, 1983, [97 Stat. 403](https://www.govinfo.gov/link/statute/97/403); [Pub. L. 98–362, § 5(a)](https://www.govinfo.gov/link/plaw/98/public/362), July 16, 1984, [98 Stat. 433](https://www.govinfo.gov/link/statute/98/433); [Pub. L. 98–577, title IV](https://www.govinfo.gov/link/plaw/98/public/577), §§ 401, 402, 404(a), Oct. 30, 1984, [98 Stat. 3079](https://www.govinfo.gov/link/statute/98/3079), 3082; [Pub. L. 99–272, title XVIII, § 18015(b)](https://www.govinfo.gov/link/plaw/99/public/272) –(d), Apr. 7, 1986, [100 Stat. 370](https://www.govinfo.gov/link/statute/100/370), 371; [Pub. L. 99–500, § 101(c) [title X, §§ 921(b)(2), (c)(1), 922(a), (d)(1)]](https://www.govinfo.gov/link/plaw/99/public/500), Oct. 18, 1986, [100 Stat. 1783–82](https://www.govinfo.gov/link/statute/100/1783), 1783–147, 1783–151, 1783–152, and [Pub. L. 99–591, § 101(c) [title X, §§ 921(b)(2), (c)(1), 922(a), (d)(1)]](https://www.govinfo.gov/link/plaw/99/public/591), Oct. 30, 1986, [100 Stat. 3341–82](https://www.govinfo.gov/link/statute/100/3341), 3341–147, 3341–151, 3341–152; [Pub. L. 99–567](https://www.govinfo.gov/link/plaw/99/public/567), §§ 1(a), 2, 3, Oct. 27, 1986, [100 Stat. 3188](https://www.govinfo.gov/link/statute/100/3188); [Pub. L. 99–661, div. A, title IX](https://www.govinfo.gov/link/plaw/99/public/661), formerly title IV, §§ 921(b)(2), (c)(1), 922(a), (d)(1), Nov. 14, 1986, [100 Stat. 3927](https://www.govinfo.gov/link/statute/100/3927), 3930, 3932, renumbered title IX, [Pub. L. 100–26, § 3(5)](https://www.govinfo.gov/link/plaw/100/public/26), Apr. 21, 1987, [101 Stat. 273](https://www.govinfo.gov/link/statute/101/273); [Pub. L. 100–26, § 10(b)(3)](https://www.govinfo.gov/link/plaw/100/public/26), Apr. 21, 1987, [101 Stat. 288](https://www.govinfo.gov/link/statute/101/288); [Pub. L. 100–533, title II](https://www.govinfo.gov/link/plaw/100/public/533), §§ 201, 202, Oct. 25, 1988, [102 Stat. 2690](https://www.govinfo.gov/link/statute/102/2690), 2692; [Pub. L. 100–590, title I](https://www.govinfo.gov/link/plaw/100/public/590), §§ 127(a), (b), 131(b), Nov. 3, 1988, [102 Stat. 3001](https://www.govinfo.gov/link/statute/102/3001), 3003, 3004; [Pub. L. 100–656, title II](https://www.govinfo.gov/link/plaw/100/public/656), §§ 201(b), 207(a), (c), 209, title III, §§ 303(b)–(e), (g), (h), 304(a), title IV, §§ 402–404, 407, 409, title V, § 501, Nov. 15, 1988, [102 Stat. 3858](https://www.govinfo.gov/link/statute/102/3858), 3861, 3863, 3869, 3870, 3872–3874, 3876, 3878, 3880; [Pub. L. 101–37](https://www.govinfo.gov/link/plaw/101/public/37), §§ 6(b), (d), 7(b), 10(c), (e), 12–14, 16, 17, June 15, 1989, [103 Stat. 72–74](https://www.govinfo.gov/link/statute/103/72); [Pub. L. 101–162, title V](https://www.govinfo.gov/link/plaw/101/public/162), (3), Nov. 21, 1989, [103 Stat. 1025](https://www.govinfo.gov/link/statute/103/1025); [Pub. L. 101–510, div. A, title VIII, § 806(e)(2)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1593](https://www.govinfo.gov/link/statute/104/1593); [Pub. L. 101–574, title II](https://www.govinfo.gov/link/plaw/101/public/574), §§ 204(b), 207, 210, 244, Nov. 15, 1990, [104 Stat. 2819–2821](https://www.govinfo.gov/link/statute/104/2819), 2827; [Pub. L. 102–190, div. A, title VIII, § 814(c)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1425](https://www.govinfo.gov/link/statute/105/1425); [Pub. L. 102–191, § 3](https://www.govinfo.gov/link/plaw/102/public/191), Dec. 5, 1991, [105 Stat. 1591](https://www.govinfo.gov/link/statute/105/1591); [Pub. L. 102–366, title II, § 232(a)](https://www.govinfo.gov/link/plaw/102/public/366), Sept. 4, 1992, [106 Stat. 1001](https://www.govinfo.gov/link/statute/106/1001); [Pub. L. 102–564, title III](https://www.govinfo.gov/link/plaw/102/public/564), §§ 303(a), 304, Oct. 28, 1992, [106 Stat. 4262](https://www.govinfo.gov/link/statute/106/4262); [Pub. L. 103–355, title I, § 1055(b)(2)](https://www.govinfo.gov/link/plaw/103/public/355), title IV, §§ 4202(d), 4404(b), title VII, § 7106(b), Oct. 13, 1994, [108 Stat. 3265](https://www.govinfo.gov/link/statute/108/3265), 3345, 3349, 3375; [Pub. L. 103–403, title IV](https://www.govinfo.gov/link/plaw/103/public/403), §§ 401(a)(1), 407, 415, Oct. 22, 1994, [108 Stat. 4190](https://www.govinfo.gov/link/statute/108/4190), 4192, 4198; [Pub. L. 104–106, div. D, title XLIII, § 4321(c)(1)](https://www.govinfo.gov/link/plaw/104/public/106), (2), Feb. 10, 1996, [110 Stat. 674](https://www.govinfo.gov/link/statute/110/674); [Pub. L. 105–85, div. A, title VIII, § 850(e)(1)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1848](https://www.govinfo.gov/link/statute/111/1848); [Pub. L. 105–135, title IV](https://www.govinfo.gov/link/plaw/105/public/135), §§ 415, 416(a), (c), title VI, § 603(a), title VII, § 708, Dec. 2, 1997, [111 Stat. 2619](https://www.govinfo.gov/link/statute/111/2619), 2620, 2631, 2637; [Pub. L. 106–50, title III, § 303(a)](https://www.govinfo.gov/link/plaw/106/public/50), title V, § 501, Aug. 17, 1999, [113 Stat. 243](https://www.govinfo.gov/link/statute/113/243), 247; [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title VIII, § 810(c)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–209; [Pub. L. 106–554, § 1(a)(8) [§ 2]](https://www.govinfo.gov/link/plaw/106/public/554), § 1(a)(9) [title V, § 504(a), title VI, § 615(b), title VIII, §§ 803, 807, 809, 811], Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–666, 2763A–695, 2763A–701, 2763A–702, 2763A–706, 2763A–708; [Pub. L. 108–447, div. K, title I](https://www.govinfo.gov/link/plaw/108/public/447), §§ 132(b), (c), 141(a), 144, Dec. 8, 2004, [118 Stat. 3453](https://www.govinfo.gov/link/statute/118/3453), 3455; [Pub. L. 111–240, title I](https://www.govinfo.gov/link/plaw/111/public/240), §§ 1322, 1334, Sept. 27, 2010, [124 Stat. 2540](https://www.govinfo.gov/link/statute/124/2540), 2542; [Pub. L. 112–239, div. A, title XVI](https://www.govinfo.gov/link/plaw/112/public/239), §§ 1653(a), 1654, 1696(b)(2), 1697(a), Jan. 2, 2013, [126 Stat. 2081](https://www.govinfo.gov/link/statute/126/2081), 2083, 2091; [Pub. L. 113–66, div. A, title XVI, § 1614(a)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 948](https://www.govinfo.gov/link/statute/127/948); [Pub. L. 113–291, div. A, title VIII, § 825(a)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3437](https://www.govinfo.gov/link/statute/128/3437); [Pub. L. 114–92, div. A, title VIII, § 864(a)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 927](https://www.govinfo.gov/link/statute/129/927); [Pub. L. 114–328, div. A, title XVIII](https://www.govinfo.gov/link/plaw/114/public/328), §§ 1821(a), 1822, 1832(c), Dec. 23, 2016, [130 Stat. 2654](https://www.govinfo.gov/link/statute/130/2654), 2660; [Pub. L. 115–91, div. A, title XVII](https://www.govinfo.gov/link/plaw/115/public/91), §§ 1701(a)(4)(C), 1706, Dec. 12, 2017, [131 Stat. 1796](https://www.govinfo.gov/link/statute/131/1796), 1808; [Pub. L. 116–92, div. A, title VIII](https://www.govinfo.gov/link/plaw/116/public/92), §§ 870, 877(d), Dec. 20, 2019, [133 Stat. 1524](https://www.govinfo.gov/link/statute/133/1524), 1530; [Pub. L. 116–283, div. A, title VIII](https://www.govinfo.gov/link/plaw/116/public/283), §§ 864(1), 868(b), Jan. 1, 2021, [134 Stat. 3784](https://www.govinfo.gov/link/statute/134/3784), 3787; [Pub. L. 117–81, div. A, title XVII, § 1702(e)(2)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2156](https://www.govinfo.gov/link/statute/135/2156); [Pub. L. 117–263, div. A, title VIII, § 856(e)(2)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2726](https://www.govinfo.gov/link/statute/136/2726); [Pub. L. 118–31, div. A, title VIII, § 862(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 346](https://www.govinfo.gov/link/statute/137/346); [Pub. L. 118–159, div. A, title VIII, § 873(b)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2011](https://www.govinfo.gov/link/statute/138/2011).)*

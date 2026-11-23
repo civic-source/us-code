@@ -3,9 +3,10 @@ title: "Section 10703 - Board of Directors"
 usc_title: 42
 usc_section: "10703"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10703"
-generated_at: "2026-03-30T02:56:11.391Z"
+generated_at: "2026-11-23T20:27:23.254Z"
+status: "active"
 ---
 
 # § 10703. Board of Directors
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:56:11.391Z"
   - **(4)** present to other Government departments, agencies, and instrumentalities whose programs or activities relate to the administration of justice in the State judiciaries of the United States, the recommendations of the Institute for the improvement of such programs or activities;
   - **(5)** consider and recommend to both public and private agencies aspects of the operation of the State courts of the United States considered worthy of special study; and
   - **(6)** award grants and enter into cooperative agreements or contracts pursuant to section 10705(a) of this title .
+
+## Source Credit
+
+*([Pub. L. 98–620, title II, § 204](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3337](https://www.govinfo.gov/link/statute/98/3337); [Pub. L. 102–572, title VIII, § 803(a)](https://www.govinfo.gov/link/plaw/102/public/572), Oct. 29, 1992, [106 Stat. 4516](https://www.govinfo.gov/link/statute/106/4516); [Pub. L. 108–372, § 3(c)](https://www.govinfo.gov/link/plaw/108/public/372), Oct. 25, 2004, [118 Stat. 1754](https://www.govinfo.gov/link/statute/118/1754).)*

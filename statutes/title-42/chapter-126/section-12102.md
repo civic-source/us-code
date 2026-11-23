@@ -3,9 +3,10 @@ title: "Section 12102 - Definition of disability"
 usc_title: 42
 usc_section: "12102"
 chapter: 126
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12102"
-generated_at: "2026-03-30T02:56:11.407Z"
+generated_at: "2026-11-23T20:27:23.335Z"
+status: "active"
 ---
 
 # § 12102. Definition of disability
@@ -37,3 +38,7 @@ As used in this chapter:
       - **(iii)** As used in this subparagraph—
         - **(I)** the term “ordinary eyeglasses or contact lenses” means lenses that are intended to fully correct visual acuity or eliminate refractive error; and
         - **(II)** the term “low-vision devices” means devices that magnify, enhance, or otherwise augment a visual image.
+
+## Source Credit
+
+*([Pub. L. 101–336, § 3](https://www.govinfo.gov/link/plaw/101/public/336), July 26, 1990, [104 Stat. 329](https://www.govinfo.gov/link/statute/104/329); [Pub. L. 110–325, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/325), Sept. 25, 2008, [122 Stat. 3555](https://www.govinfo.gov/link/statute/122/3555).)*

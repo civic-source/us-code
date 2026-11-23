@@ -3,9 +3,10 @@ title: "Section 1207 - Labor disputes"
 usc_title: 39
 usc_section: "1207"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "39 U.S.C. § 1207"
-generated_at: "2026-03-30T02:55:43.690Z"
+generated_at: "2026-11-23T20:26:57.728Z"
+status: "active"
 ---
 
 # § 1207. Labor disputes
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:43.690Z"
   - **(2)** The arbitration board shall give the parties a full and fair hearing, including an opportunity to present evidence in support of their claims, and an opportunity to present their case in person, by counsel or by other representative as they may elect. Decisions of the arbitration board shall be conclusive and binding upon the parties. The arbitration board shall render its decision within 45 days after its appointment.
   - **(3)** Costs of the arbitration board and mediation shall be shared equally by the Postal Service and the bargaining representative.
 - **(d)** In the case of a bargaining unit whose recognized collective-bargaining representative does not have an agreement with the Postal Service, if the parties fail to reach the agreement within 90 days after the commencement of collective bargaining, a mediator shall be appointed in accordance with the terms in subsection (b) of this section, unless the parties have previously agreed to another procedure for a binding resolution of their differences. If the parties fail to reach agreement within 180 days after the commencement of collective bargaining, and if they have not agreed to another procedure for binding resolution, an arbitration board shall be established to provide conclusive and binding arbitration in accordance with the terms of subsection (c) of this section.
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 735](https://www.govinfo.gov/link/statute/84/735); [Pub. L. 109–435, title V, § 505(a)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3235](https://www.govinfo.gov/link/statute/120/3235).)*

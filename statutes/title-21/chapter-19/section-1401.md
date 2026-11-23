@@ -3,9 +3,10 @@ title: "Section 1401 - Pesticide monitoring and enforcement information"
 usc_title: 21
 usc_section: "1401"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 1401"
-generated_at: "2026-03-30T02:54:54.302Z"
+generated_at: "2026-11-23T20:26:27.876Z"
+status: "active"
 ---
 
 # § 1401. Pesticide monitoring and enforcement information
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:54:54.302Z"
     - **(B)** the United States district of entry for each such imported food product.
 - **(c)** The Food and Drug Administration shall use the computerized data management systems placed into effect under subsection (a)(1) to summarize the volume of each type of food product subject to the requirements of the Federal Food, Drug, and Cosmetic Act [ 21 U.S.C. 301 et seq.] which is imported into the United States and which has an entry value which exceeds an amount established by the Secretary of Health and Human Services. The summary shall be made by country of origin and district of entry. Information with respect to volumes of food products to be included in the summary shall, to the extent feasible, be obtained from data bases of other Federal agencies.
 - **(d)** Not later than 90 days after the expiration of 1 year after the data management systems are placed into effect under subsection (a) and annually thereafter, the Secretary of Health and Human Services shall compile a summary of the information described in subsection (b) with respect to the previous year. When the Food and Drug Administration is able to make summaries under subsection (c), the Secretary shall include in the compilation under the preceding sentence a compilation of the information described in subsection (c). Compilations under this subsection shall be made available to Federal and State agencies and other interested persons.
+
+## Source Credit
+
+*([Pub. L. 100–418, title IV, § 4702](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1412](https://www.govinfo.gov/link/statute/102/1412).)*

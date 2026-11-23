@@ -3,9 +3,10 @@ title: "Section 6362 - University-based defense nuclear policy collaboration pro
 usc_title: 10
 usc_section: "6362"
 chapter: 608
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6362"
-generated_at: "2026-03-30T02:53:38.227Z"
+generated_at: "2026-11-23T20:25:52.034Z"
+status: "active"
 ---
 
 # § 6362. University-based defense nuclear policy collaboration program
@@ -24,3 +25,17 @@ generated_at: "2026-03-30T02:53:38.227Z"
     - **(D)** the study of foreign nuclear programs;
     - **(E)** nuclear security; or
     - **(F)** educating and training the next generation of defense nuclear policy experts.
+
+Program
+
+Purposes
+
+Duties
+
+“Support”
+
+“Individuals described”
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2), Dec. 18, 2025, [139 Stat. 1458](https://www.govinfo.gov/link/statute/139/1458), 1462.)*

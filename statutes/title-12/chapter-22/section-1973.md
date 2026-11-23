@@ -3,12 +3,17 @@ title: "Section 1973 - Jurisdiction of courts; duty of United States attorneys; 
 usc_title: 12
 usc_section: "1973"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1973"
-generated_at: "2026-03-30T02:53:53.470Z"
+generated_at: "2026-11-23T20:25:59.219Z"
+status: "active"
 ---
 
 # § 1973. Jurisdiction of courts; duty of United States attorneys; equitable proceedings; petition; expedition of cases; temporary restraining orders; bringing in additional parties; subpenas
 
 The district courts of the United States have jurisdiction to prevent and restrain violations of section 1972 of this title and it is the duty of the United States attorneys, under the direction of the Attorney General, to institute proceedings in equity to prevent and restrain such violations. The proceedings may be by way of a petition setting forth the case and praying that the violation be enjoined or otherwise prohibited. When the parties complained of have been duly notified of the petition, the court shall proceed, as soon as possible, to the hearing and determination of the case. While the petition is pending, and before final decree, the court may at any time make such temporary restraining order or prohibition as it deems just. Whenever it appears to the court that the ends of justice require that other parties be brought before it, the court may cause them to be summoned whether or not they reside in the district in which the court is held, and subpenas to that end may be served in any district by the marshal thereof.
 
+
+## Source Credit
+
+*([Pub. L. 91–607, title I, § 106(c)](https://www.govinfo.gov/link/plaw/91/public/607), Dec. 31, 1970, [84 Stat. 1767](https://www.govinfo.gov/link/statute/84/1767).)*

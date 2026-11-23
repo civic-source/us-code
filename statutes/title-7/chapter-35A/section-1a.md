@@ -3,9 +3,10 @@ title: "Section 1a - Marketing certificates for rice"
 usc_title: 7
 usc_section: "1a"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1a"
-generated_at: "2026-03-30T02:53:42.312Z"
+generated_at: "2026-11-23T20:25:41.153Z"
+status: "active"
 ---
 
 # § 1441–1a. Marketing certificates for rice
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:42.312Z"
 - **(d)** Insofar as practicable, the Secretary shall permit owners of certificates to designate the commodities and the products thereof, including storage sites thereof, such owners would prefer to receive in exchange for certificates. If any certificate is not presented for redemption, marketing, or exchange within a reasonable number of days after the issuance of such certificate (as determined by the Secretary), reasonable costs of storage and other carrying charges, as determined by the Secretary, shall be deducted from the value of the certificate for the period beginning after such reasonable number of days and ending with the date of the presentation of such certificate to the Commodity Credit Corporation.
 - **(e)** The Secretary of Agriculture shall take such measures as may be necessary to prevent the marketing or exchange of agricultural commodities and the products thereof for certificates under this section from adversely affecting the income of producers of such commodities or products.
 - **(f)** Under regulations prescribed by the Secretary of Agriculture, certificates issued to rice exporters under this section may be transferred to other exporters and persons approved by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 99–198, title VI, § 603](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1429](https://www.govinfo.gov/link/statute/99/1429).)*

@@ -3,9 +3,10 @@ title: "Section 6309 - Honorable discharge certificate in lieu of birth certific
 usc_title: 41
 usc_section: "6309"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 6309"
-generated_at: "2026-03-30T02:55:55.810Z"
+generated_at: "2026-11-23T20:27:04.468Z"
+status: "active"
 ---
 
 # § 6309. Honorable discharge certificate in lieu of birth certificate
@@ -18,3 +19,37 @@ generated_at: "2026-03-30T02:55:55.810Z"
   - **(2)** engaged in the activity described in paragraph (1) under—
     - **(A)** a contract with the Federal Government; or
     - **(B)** any contract that the President, the Secretary of the Army, the Secretary of the Air Force, the Secretary of the Navy, or the Secretary of the Department in which the Coast Guard is operating certifies to the employer to be necessary to the national defense.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 6309(a) | 41:49. | June 22, 1942, ch. 432, § 1 , 56 Stat. 375 . |
+| 6309(b) | 41:50. | June 22, 1942, ch. 432, § 2 , 56 Stat. 376 ; Pub. L. 97–31, § 12(16) , Aug. 6, 1981 , 95 Stat. 154 . |
+
+
+In General
+
+Employers to Which Section Applies
+
+Historical and Revision Notes
+
+6309(a)
+
+June 22, 1942, ch. 432, § 1
+
+56 Stat. 375
+
+6309(b)
+
+June 22, 1942, ch. 432, § 2
+
+56 Stat. 376
+
+Pub. L. 97–31, § 12(16)
+
+Aug. 6, 1981
+
+95 Stat. 154
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3806](https://www.govinfo.gov/link/statute/124/3806); [Pub. L. 116–283, div. A, title IX, § 927(e)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3832](https://www.govinfo.gov/link/statute/134/3832).)*

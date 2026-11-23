@@ -3,9 +3,10 @@ title: "Section 2057e - Banning of crib bumpers"
 usc_title: 15
 usc_section: "2057e"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2057e"
-generated_at: "2026-03-30T02:54:08.163Z"
+generated_at: "2026-11-23T20:26:04.153Z"
+status: "active"
 ---
 
 # § 2057e. Banning of crib bumpers
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:08.163Z"
   - **(1)** means any material that is intended to cover the sides of a crib to prevent injury to any crib occupant from impacts against the side of a crib or to prevent partial or complete access to any openings in the sides of a crib to prevent a crib occupant from getting any part of the body entrapped in any opening;
   - **(2)** includes a padded crib bumper, a supported and unsupported vinyl bumper guard, and vertical crib slat covers; and
   - **(3)** does not include a non-padded mesh crib liner.
+
+## Source Credit
+
+*([Pub. L. 117–126, § 3](https://www.govinfo.gov/link/plaw/117/public/126), May 16, 2022, [136 Stat. 1208](https://www.govinfo.gov/link/statute/136/1208).)*

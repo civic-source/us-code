@@ -3,9 +3,10 @@ title: "Section 5211 - Purchases of troubled assets"
 usc_title: 12
 usc_section: "5211"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5211"
-generated_at: "2026-03-30T02:53:53.524Z"
+generated_at: "2026-11-23T20:25:59.448Z"
+status: "active"
 ---
 
 # § 5211. Purchases of troubled assets
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:53.524Z"
   - **(3)** Procedures for selecting asset managers.
   - **(4)** Criteria for identifying troubled assets for purchase.
 - **(e)** In making purchases under the authority of this chapter, the Secretary shall take such steps as may be necessary to prevent unjust enrichment of financial institutions participating in a program established under this section, including by preventing the sale of a troubled asset to the Secretary at a higher price than what the seller paid to purchase the asset. This subsection does not apply to troubled assets acquired in a merger or acquisition, or a purchase of assets from a financial institution in conservatorship or receivership, or that has initiated bankruptcy proceedings under title 11.
+
+## Source Credit
+
+*([Pub. L. 110–343, div. A, title I, § 101](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3767](https://www.govinfo.gov/link/statute/122/3767).)*

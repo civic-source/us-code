@@ -3,9 +3,10 @@ title: "Section 599 - Definitions"
 usc_title: 7
 usc_section: "599"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 599"
-generated_at: "2026-03-30T02:53:42.289Z"
+generated_at: "2026-11-23T20:25:41.055Z"
+status: "active"
 ---
 
 # § 599. Definitions
@@ -17,3 +18,7 @@ When used in this chapter—
   - **(3)** Except as provided herein, the term “foreign commerce” means commerce between any State, or the District of Columbia, and any place outside of the United States or its possessions.
   - **(4)** The term “grapes” means vinifera species table grapes, European type, whether or not they have been in storage.
   - **(5)** The term “plums” means both European and Japanese type, whether or not they have been in storage, but does not mean Italian-type prunes, nor damson-type plums.
+
+## Source Credit
+
+*([Pub. L. 86–687, § 9](https://www.govinfo.gov/link/plaw/86/public/687), Sept. 2, 1960, [74 Stat. 735](https://www.govinfo.gov/link/statute/74/735).)*

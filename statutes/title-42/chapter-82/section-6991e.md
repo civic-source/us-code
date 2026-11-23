@@ -3,9 +3,10 @@ title: "Section 6991e - Federal enforcement"
 usc_title: 42
 usc_section: "6991e"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6991e"
-generated_at: "2026-03-30T02:56:11.281Z"
+generated_at: "2026-11-23T20:27:22.767Z"
+status: "active"
 ---
 
 # § 6991e. Federal enforcement
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:11.281Z"
 - **(e)** Both of the following may be taken into account in determining the terms of a civil penalty under subsection (d):
   - **(1)** The compliance history of an owner or operator in accordance with this subchapter or a program approved under section 6991c of this title .
   - **(2)** Any other factor the Administrator considers appropriate.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 9006](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 98–616, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/98/public/616), Nov. 8, 1984, [98 Stat. 3285](https://www.govinfo.gov/link/statute/98/3285); amended [Pub. L. 109–58, title XV](https://www.govinfo.gov/link/plaw/109/public/58), §§ 1524(c), 1526(d), 1527(b), 1530(d), Aug. 8, 2005, [119 Stat. 1096](https://www.govinfo.gov/link/statute/119/1096), 1098, 1099, 1104.)*

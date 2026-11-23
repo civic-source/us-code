@@ -3,9 +3,10 @@ title: "Section 12711 - Protection of State and local authority"
 usc_title: 42
 usc_section: "12711"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12711"
-generated_at: "2026-03-30T02:56:11.430Z"
+generated_at: "2026-11-23T20:27:23.430Z"
+status: "active"
 ---
 
 # § 12711. Protection of State and local authority
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:56:11.430Z"
   - **(1)** adopted, continued, or discontinued in accordance with the jurisdiction’s duly established authority, and
   - **(2)** not in violation of any Federal law.
 
+
+## Source Credit
+
+*([Pub. L. 101–625, title I, § 111](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4093](https://www.govinfo.gov/link/statute/104/4093).)*

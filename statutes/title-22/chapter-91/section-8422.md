@@ -3,9 +3,10 @@ title: "Section 8422 - Authorization of assistance"
 usc_title: 22
 usc_section: "8422"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8422"
-generated_at: "2026-03-30T02:55:05.450Z"
+generated_at: "2026-11-23T20:26:32.708Z"
+status: "active"
 ---
 
 # § 8422. Authorization of assistance
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:05.450Z"
   - **(2)** The program authorized under paragraph (1) may include conferences, seminars, exchanges, and other events, distribution of publications and reimbursements of expenses of foreign military personnel participating in the program, including transportation, translation and administrative expenses.
   - **(3)** Amounts authorized to be appropriated to carry out this section for a fiscal year are authorized to be made available for nongovernmental organizations to facilitate the implementation of the program authorized under paragraph (1).
   - **(4)** There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2010 through 2014 to carry out the program established by this subsection.
+
+## Source Credit
+
+*([Pub. L. 111–73, title II, § 202](https://www.govinfo.gov/link/plaw/111/public/73), Oct. 15, 2009, [123 Stat. 2069](https://www.govinfo.gov/link/statute/123/2069).)*

@@ -3,9 +3,10 @@ title: "Section 4801 - Definitions"
 usc_title: 50
 usc_section: "4801"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4801"
-generated_at: "2026-03-30T02:56:26.283Z"
+generated_at: "2026-11-23T20:27:31.141Z"
+status: "active"
 ---
 
 # § 4801. Definitions
@@ -42,3 +43,7 @@ In this chapter:
       - **(iii)** any person in the United States; and
     - **(B)** for purposes of subchapter II, any United States resident or national (other than an individual resident outside the United States and employed by other than a United States person), any domestic concern (including any permanent domestic establishment of any foreign concern) and any foreign subsidiary or affiliate (including any permanent foreign establishment) of any domestic concern which is controlled in fact by such domestic concern, as determined under regulations by the Secretary.
   - **(14)** The term “weapons of mass destruction” means nuclear, radiological, chemical, and biological weapons and delivery systems for such weapons.
+
+## Source Credit
+
+*([Pub. L. 115–232, div. A, title XVII, § 1742](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2208](https://www.govinfo.gov/link/statute/132/2208).)*

@@ -3,9 +3,10 @@ title: "Section 8813 - Insured loans"
 usc_title: 42
 usc_section: "8813"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8813"
-generated_at: "2026-03-30T02:56:11.347Z"
+generated_at: "2026-11-23T20:27:23.060Z"
+status: "active"
 ---
 
 # § 8813. Insured loans
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.347Z"
   - **(3)** Notwithstanding any provision of the Consolidated Farm and Rural Development Act [ 7 U.S.C. 1921 et seq.], no funds made available to the Secretary of Agriculture under this section for insured loans shall be used for any other purpose.
   - **(4)** For purposes of this section, the term “insured loan” means a loan which is made, sold, and insured.
 - **(d)** An insured loan may not be made under this section unless the applicant for such loan has established to the satisfaction of the Secretary that the applicant is unable without such a loan to obtain sufficient credit elsewhere at reasonable rates and terms, taking into consideration prevailing private and cooperative rates and terms for loans for similar purposes and periods of time, to finance the construction of the biomass energy project for which such loan is sought.
+
+## Source Credit
+
+*([Pub. L. 96–294, title II, § 213](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 690](https://www.govinfo.gov/link/statute/94/690).)*

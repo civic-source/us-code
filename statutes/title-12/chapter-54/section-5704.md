@@ -3,9 +3,10 @@ title: "Section 5704 - Approving State capital access programs"
 usc_title: 12
 usc_section: "5704"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5704"
-generated_at: "2026-03-30T02:53:53.550Z"
+generated_at: "2026-11-23T20:25:59.539Z"
+status: "active"
 ---
 
 # § 5704. Approving State capital access programs
@@ -42,3 +43,13 @@ generated_at: "2026-03-30T02:53:53.550Z"
       - **(iv)** may include additional restrictions on the eligibility of loans or borrowers that are not inconsistent with the provisions and purposes of this chapter, including compliance with all applicable Federal and State laws, regulations, ordinances, and Executive orders.
     - **(B)** In this paragraph, the terms “executive officer”, “director”, “principal shareholder”, “immediate family”, and “related interest” refer to the same relationship to a financial institution lender as the relationship described in part 215 of title 12 of the Code of Federal Regulations, or any successor to such part.
   - **(8)** At the time that a State applies to the Secretary to have the State capital access program approved as eligible for Federal contributions, the State shall deliver to the Secretary a report stating how the State plans to use the Federal contributions to the reserve fund to provide access to capital for small businesses in low- and moderate-income, minority, and other underserved communities, including women- and minority-owned small businesses.
+
+(aa) an executive officer, director, or principal shareholder of the financial institution lender;
+
+(bb) a member of the immediate family of an executive officer, director, or principal shareholder of the financial institution lender; or
+
+(cc) a related interest of any such executive officer, director, principal shareholder, or member of the immediate family;
+
+## Source Credit
+
+*([Pub. L. 111–240, title III, § 3005](https://www.govinfo.gov/link/plaw/111/public/240), Sept. 27, 2010, [124 Stat. 2574](https://www.govinfo.gov/link/statute/124/2574); [Pub. L. 117–2, title III, § 3301(a)(1)(C)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 69](https://www.govinfo.gov/link/statute/135/69).)*

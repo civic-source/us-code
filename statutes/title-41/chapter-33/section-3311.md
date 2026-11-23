@@ -3,9 +3,10 @@ title: "Section 3311 - Qualification requirement"
 usc_title: 41
 usc_section: "3311"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 3311"
-generated_at: "2026-03-30T02:55:55.806Z"
+generated_at: "2026-11-23T20:27:04.427Z"
+status: "active"
 ---
 
 # § 3311. Qualification requirement
@@ -42,3 +43,66 @@ generated_at: "2026-03-30T02:55:55.806Z"
   - **(3)** The head of the agency shall require a prospective contractor requesting the Federal Government to bear testing and evaluation costs under paragraph (1)(B) to certify its status as a small business concern under section 3 of the Small Business Act ( 15 U.S.C. 632 ).
 - **(e)** Within 7 years after the establishment of a qualification requirement, the need for the requirement shall be examined and the standards of the requirement revalidated in accordance with the requirements of subsection (b). This subsection does not apply in the case of a qualification requirement for which a waiver is in effect under subsection (c)(2).
 - **(f)** Except in an emergency as determined by the head of the agency, after the head of the agency determines not to enforce a qualification requirement for a solicitation, the agency may not enforce the requirement unless the agency complies with the requirements of subsection (b).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3311 | 41:253c. | June 30, 1949, ch. 288 , title III, § 303C, formerly § 303D, as added Pub. L. 98–577, title II, § 202(a) , Oct. 30, 1984 , 98 Stat. 3069 ; renumbered § 303C, Pub. L. 99–145, title XIII, § 1304(c)(4)(A) , Nov. 8, 1985 , 99 Stat. 742 . |
+
+
+Definition
+
+Actions Before Enforcing Qualification Requirement
+
+Applicability, Waiver Authority, and Referral of Offers.—
+
+Applicability
+
+Waiver authority.—
+
+Submission of determination of unreasonableness
+
+Authority to grant waiver
+
+Nonapplicability to qualified products list
+
+Submission and consideration of offer not to be denied
+
+Referral to small business administration not required
+
+Delay of procurement not required
+
+Fewer Than
+
+Actual Manufacturers.—
+
+Solicitation and testing of additional sources or products
+
+When agency may bear cost
+
+Certification required
+
+Examination and Revalidation of Qualification Requirement
+
+When Enforcement of Qualification Requirement Not Allowed
+
+Historical and Revision Notes
+
+3311
+
+June 30, 1949, ch. 288
+
+Pub. L. 98–577, title II, § 202(a)
+
+Oct. 30, 1984
+
+98 Stat. 3069
+
+Pub. L. 99–145, title XIII, § 1304(c)(4)(A)
+
+Nov. 8, 1985
+
+99 Stat. 742
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3761](https://www.govinfo.gov/link/statute/124/3761).)*

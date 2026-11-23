@@ -3,9 +3,10 @@ title: "Section 8857 - Duties of commanding officer of capturing vessel"
 usc_title: 10
 usc_section: "8857"
 chapter: 883
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 8857"
-generated_at: "2026-03-30T02:53:38.252Z"
+generated_at: "2026-11-23T20:25:52.254Z"
+status: "active"
 ---
 
 # § 8857. Duties of commanding officer of capturing vessel
@@ -20,3 +21,18 @@ generated_at: "2026-03-30T02:53:38.252Z"
   - **(5)** place a competent prize master and a prize crew on board the prize and send the prize, the witnesses, and all documents and papers, under charge of the prize master, into port for adjudication.
 - **(b)** In the absence of instructions from higher authority as to the port to which the prize shall be sent for adjudication, the commanding officer of the capturing vessel shall select the port that he considers most convenient in view of the interests of probable claimants.
 - **(c)** If the captured vessel, or any part of the captured property, is not in condition to be sent in for adjudication, the commanding officer of the capturing vessel shall have a survey and an appraisal made by competent and impartial persons. The reports of the survey and the appraisal shall be sent to the court in which proceedings are to be had. Property so surveyed and appraised, unless appropriated for the use of the United States, shall be sold under authority of the commanding officer present. Proceeds of the sale shall be deposited with the Treasurer of the United States or in the public depositary most accessible to the court in which proceedings are to be had and subject to its order in the cause.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 7657 | 34 U.S.C. 1133 . | R.S. 4615. |
+
+
+Historical and Revision Notes
+
+7657
+
+34 U.S.C. 1133
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 476, § 7657; renumbered § 8857, [Pub. L. 115–232, div. A, title VIII, § 807(d)(9)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1837](https://www.govinfo.gov/link/statute/132/1837).)*

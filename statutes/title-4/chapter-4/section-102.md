@@ -3,12 +3,17 @@ title: "Section 102 - Same; by whom administered"
 usc_title: 4
 usc_section: "102"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "4 U.S.C. § 102"
-generated_at: "2026-03-30T02:52:51.498Z"
+generated_at: "2026-11-23T20:25:27.022Z"
+status: "active"
 ---
 
 # § 102. Same; by whom administered
 
 Such oath may be administered by any person who, by the law of the State, is authorized to administer the oath of office; and the person so administering such oath shall cause a record or certificate thereof to be made in the same manner, as by the law of the State, he is directed to record or certify the oath of office.
 
+
+## Source Credit
+
+*(July 30, 1947, ch. 389, [61 Stat. 644](https://www.govinfo.gov/link/statute/61/644).)*

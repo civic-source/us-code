@@ -3,9 +3,10 @@ title: "Section 2325b - Materials, services, and funds for repair, restoration, 
 usc_title: 33
 usc_section: "2325b"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2325b"
-generated_at: "2026-03-30T02:55:41.123Z"
+generated_at: "2026-11-23T20:26:54.178Z"
+status: "active"
 ---
 
 # § 2325b. Materials, services, and funds for repair, restoration, or rehabilitation of projects
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:41.123Z"
   - **(2)** If an agreement under paragraph (1) was not entered prior to materials or services being contributed, a non-Federal interest or private entity shall enter into an agreement with the Secretary that—
     - **(A)** specifies the value, as determined by the Secretary, of those materials or services contributed and eligible for reimbursement; and
     - **(B)** ensures that the materials or services comply with subsection (c) and paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 116–260, div. AA, title I, § 130](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2642](https://www.govinfo.gov/link/statute/134/2642).)*

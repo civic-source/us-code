@@ -3,9 +3,10 @@ title: "Section 905 - Procurement authority for family housing"
 usc_title: 14
 usc_section: "905"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 905"
-generated_at: "2026-03-30T02:53:51.491Z"
+generated_at: "2026-11-23T20:25:54.544Z"
+status: "active"
 ---
 
 # § 905. Procurement authority for family housing
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:51.491Z"
     - **(A)** the use of a contract will promote the efficiency of the Coast Guard family housing program and will result in reduced total costs under the contract; and
     - **(B)** there are realistic estimates of both the cost of the contract and the anticipated cost avoidance through the use of a multiyear contract.
   - **(3)** A multiyear contract authorized under subsection (a) of this section shall contain cancellation and termination provisions to the extent necessary to protect the best interests of the United States, and may include consideration of both recurring and nonrecurring costs. The contract may provide for a cancellation payment to be made. Amounts that were originally obligated for the cost of the contract may be used for cancellation or termination costs.
+
+## Source Credit
+
+*(Added [Pub. L. 103–206, title III, § 302(a)](https://www.govinfo.gov/link/plaw/103/public/206), Dec. 20, 1993, [107 Stat. 2423](https://www.govinfo.gov/link/statute/107/2423), § 670; renumbered § 905, [Pub. L. 115–282, title I, § 107(b)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4205](https://www.govinfo.gov/link/statute/132/4205).)*

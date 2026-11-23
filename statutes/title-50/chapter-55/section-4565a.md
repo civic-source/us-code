@@ -3,9 +3,10 @@ title: "Section 4565a - Enhanced intelligence community support to secure United
 usc_title: 50
 usc_section: "4565a"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4565a"
-generated_at: "2026-03-30T02:56:26.280Z"
+generated_at: "2026-11-23T20:27:31.128Z"
+status: "active"
 ---
 
 # § 4565a. Enhanced intelligence community support to secure United States biological data
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:26.280Z"
   - **(2)** The term “biological data” means multiomic information and other relevant information, including associated descriptors, derived from the structure, function, or process of a biological system, that is either measured, collected, or aggregated for analysis, including information from humans, animals, plants, or microbes.
   - **(3)** The term “covered entity” means a private entity involved in biological data (including biological data equipment, technologies, sequencing, or synthesis), including a biobank or other private entity that holds large amounts of biological data.
   - **(4)** The term “foreign entity of concern” has the meaning given that term in section 19221(a) of title 42 .
+
+## Source Credit
+
+*([Pub. L. 119–60, div. F, title LXVI, § 6614](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1638](https://www.govinfo.gov/link/statute/139/1638).)*

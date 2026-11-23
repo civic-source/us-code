@@ -3,12 +3,17 @@ title: "Section 2406 - Development programs for dependable fuel supplies"
 usc_title: 22
 usc_section: "2406"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2406"
-generated_at: "2026-03-30T02:55:05.365Z"
+generated_at: "2026-11-23T20:26:32.289Z"
+status: "active"
 ---
 
 # § 2406. Development programs for dependable fuel supplies
 
 It is of paramount importance that long-range economic plans take cognizance of the need for a dependable supply of fuels, which is necessary to orderly and stable development and growth, and that dependence not be placed upon sources which are inherently hostile to free countries and the ultimate well-being of economically underdeveloped countries and which might exploit such dependence for ultimate political domination. The agencies of government in the United States are directed to work with other countries in developing plans for basing development programs on the use of the large and stable supply of relatively low cost fuels available in the free world.
 
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. III, § 647, Sept. 4, 1961, [75 Stat. 462](https://www.govinfo.gov/link/statute/75/462).)*

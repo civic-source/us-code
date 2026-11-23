@@ -3,9 +3,10 @@ title: "Section 1066a - Definitions"
 usc_title: 20
 usc_section: "1066a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1066a"
-generated_at: "2026-03-30T02:54:48.102Z"
+generated_at: "2026-11-23T20:26:14.349Z"
+status: "active"
 ---
 
 # § 1066a. Definitions
@@ -29,3 +30,7 @@ For the purposes of this part:
   - **(7)** The term “outstanding”, when used with respect to bonds, shall not include bonds the payment of which shall have been provided for by the irrevocable deposit in trust of obligations maturing as to principal and interest in such amounts and at such times as will ensure the availability of sufficient moneys to make payments on such bonds.
   - **(8)** The term “designated bonding authority” means the private, for-profit corporation selected by the Secretary pursuant to section 1066d(1) of this title for the purpose of issuing taxable capital project construction bonds in furtherance of the purposes of this part.
   - **(9)** The term “Advisory Board” means the Advisory Board established by section 1066f of this title .
+
+## Source Credit
+
+*([Pub. L. 89–329, title III, § 342](https://www.govinfo.gov/link/plaw/89/public/329), formerly title VII, § 722, as added [Pub. L. 102–325, title VII, § 704](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 742](https://www.govinfo.gov/link/statute/106/742); renumbered title III, § 342, and amended [Pub. L. 105–244, title III](https://www.govinfo.gov/link/plaw/105/public/244), §§ 301(a)(3), (4), (c)(4), 306(a), Oct. 7, 1998, [112 Stat. 1636](https://www.govinfo.gov/link/statute/112/1636), 1637, 1646; [Pub. L. 110–315, title III](https://www.govinfo.gov/link/plaw/110/public/315), §§ 314(a), 320(1), Aug. 14, 2008, [122 Stat. 3180](https://www.govinfo.gov/link/statute/122/3180), 3187.)*

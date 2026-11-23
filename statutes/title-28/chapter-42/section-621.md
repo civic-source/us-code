@@ -3,9 +3,10 @@ title: "Section 621 - Board; composition, tenure of members, compensation"
 usc_title: 28
 usc_section: "621"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 621"
-generated_at: "2026-03-30T02:55:30.135Z"
+generated_at: "2026-11-23T20:26:36.400Z"
+status: "active"
 ---
 
 # § 621. Board; composition, tenure of members, compensation
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:30.135Z"
 - **(b)** The term of office of each elected member of the Board shall be four years. A member elected to serve for an unexpired term arising by virtue of the death, disability, retirement pursuant to section 371(a) or section 372(a) of this title , or resignation of a member shall be elected only for such unexpired term.
 - **(c)** No member elected for a four-year term shall be eligible for reelection to the Board.
 - **(d)** Members of the Board shall serve without additional compensation, but shall be reimbursed for actual and necessary expenses incurred in the performance of their official duties.
+
+## Source Credit
+
+*(Added [Pub. L. 90–219, title I, § 101](https://www.govinfo.gov/link/plaw/90/public/219), Dec. 20, 1967, [81 Stat. 664](https://www.govinfo.gov/link/statute/81/664); amended [Pub. L. 95–598, title II](https://www.govinfo.gov/link/plaw/95/public/598), §§ 228, 229, Nov. 6, 1978, [92 Stat. 2665](https://www.govinfo.gov/link/statute/92/2665); [Pub. L. 104–317, title VI, § 601(b)](https://www.govinfo.gov/link/plaw/104/public/317), Oct. 19, 1996, [110 Stat. 3857](https://www.govinfo.gov/link/statute/110/3857).)*

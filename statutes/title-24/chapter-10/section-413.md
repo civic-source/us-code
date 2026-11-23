@@ -3,9 +3,10 @@ title: "Section 413 - Services provided to residents"
 usc_title: 24
 usc_section: "413"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "24 U.S.C. § 413"
-generated_at: "2026-03-30T02:54:50.791Z"
+generated_at: "2026-11-23T20:26:22.700Z"
+status: "active"
 ---
 
 # § 413. Services provided to residents
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:50.791Z"
 - **(d)**
   - **(1)** With respect to each facility of the Retirement Home, the Retirement Home shall provide daily scheduled transportation to nearby medical facilities used by residents of the facility. The Retirement Home may provide, based on a determination of medical need, unscheduled transportation for a resident of the facility to any medical facility located not more than 30 miles from the facility for the provision of necessary and urgent medical care for the resident.
   - **(2)** The Retirement Home may not collect a fee from a resident for transportation provided under this subsection.
+
+## Source Credit
+
+*([Pub. L. 101–510, div. A, title XV, § 1513](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1725](https://www.govinfo.gov/link/statute/104/1725); [Pub. L. 103–160, div. A, title III, § 366(c)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1630](https://www.govinfo.gov/link/statute/107/1630); [Pub. L. 107–107, div. A, title XIV](https://www.govinfo.gov/link/plaw/107/public/107), §§ 1404(b)(1)(B), 1410(a)(1), Dec. 28, 2001, [115 Stat. 1260](https://www.govinfo.gov/link/statute/115/1260), 1266; [Pub. L. 109–163, div. A, title IX, § 909(a)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3404](https://www.govinfo.gov/link/statute/119/3404); [Pub. L. 110–181, div. A, title XIV, § 1422(c)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 420](https://www.govinfo.gov/link/statute/122/420); [Pub. L. 112–81, div. A, title V, § 567(c)(2)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1426](https://www.govinfo.gov/link/statute/125/1426); [Pub. L. 118–159, div. A, title XIV, § 1423](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2129](https://www.govinfo.gov/link/statute/138/2129).)*

@@ -3,9 +3,10 @@ title: "Section 5465 - Operations of designated financial market utilities"
 usc_title: 12
 usc_section: "5465"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5465"
-generated_at: "2026-03-30T02:53:53.540Z"
+generated_at: "2026-11-23T20:25:59.504Z"
+status: "active"
 ---
 
 # § 5465. Operations of designated financial market utilities
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:53:53.540Z"
     - **(D)** The Supervisory Agency may require modification or rescission of the change if it finds that the change is not consistent with the purposes of this Act or any applicable rules, orders, or standards prescribed under section 5464(a) of this title .
   - **(3)** The Supervisory Agency shall provide the Board of Governors concurrently with a complete copy of any notice, request, or other information it issues, submits, or receives under this subsection.
   - **(4)** Before taking any action on, or completing its review of, a change proposed by a designated financial market utility, the Supervisory Agency shall consult with the Board of Governors.
+
+## Source Credit
+
+*([Pub. L. 111–203, title VIII, § 806](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1811](https://www.govinfo.gov/link/statute/124/1811).)*

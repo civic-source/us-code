@@ -3,9 +3,10 @@ title: "Section 292e - Certificate of loan insurance; effective date of insuranc
 usc_title: 42
 usc_section: "292e"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 292e"
-generated_at: "2026-03-30T02:56:10.773Z"
+generated_at: "2026-11-23T20:27:20.361Z"
+status: "active"
 ---
 
 # § 292e. Certificate of loan insurance; effective date of insurance
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:10.773Z"
   - **(2)** the Student Loan Marketing Association.
 - **(d)** The consolidation of the obligations of two or more federally insured loans obtained by a borrower in any fiscal year into a single obligation evidenced by a single instrument of indebtedness or the refinancing of a single loan shall not affect the insurance by the United States. If the loans thus consolidated are covered by separate certificates of insurance issued under subsection (a), the Secretary may upon surrender of the original certificates issue a new certificate of insurance in accordance with that subsection upon the consolidated obligation. If the loans thus consolidated are covered by a single comprehensive certificate issued under subsection (b), the Secretary may amend that certificate accordingly.
 - **(e)** Nothing in this section shall be construed to preclude the lender and the borrower, by mutual agreement, from consolidating all of the borrower’s loans insured under this subpart into a single instrument (or, if the borrower obtained only 1 loan insured under this subpart, refinancing the loan 1 time) under the terms applicable to an insured loan made at the same time as the consolidation. The lender or loan holder should provide full information to the borrower concerning the advantages and disadvantages of loan consolidation or refinancing. Nothing in this section shall be construed to preclude the consolidation of the borrower’s loans insured under this subpart under section 1078–3 of title 20 . Any loans insured pursuant to this subpart that are consolidated under section 1078–3 of title 20 shall not be eligible for special allowance payments under section 1087–1 of title 20 .
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 706, as added [Pub. L. 102–408, title I, § 102](https://www.govinfo.gov/link/plaw/102/public/408), Oct. 13, 1992, [106 Stat. 2000](https://www.govinfo.gov/link/statute/106/2000); amended [Pub. L. 105–392, title I, § 145](https://www.govinfo.gov/link/plaw/105/public/392), Nov. 13, 1998, [112 Stat. 3581](https://www.govinfo.gov/link/statute/112/3581).)*

@@ -3,9 +3,10 @@ title: "Section 7456 - Nurses: special rules for weekend duty"
 usc_title: 38
 usc_section: "7456"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7456"
-generated_at: "2026-03-30T02:55:53.532Z"
+generated_at: "2026-11-23T20:27:02.027Z"
+status: "active"
 ---
 
 # § 7456. Nurses: special rules for weekend duty
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:53.532Z"
     - **(B)** Except as provided in subparagraph (C), a nurse to whom this subsection is applicable is not entitled to additional pay under section 7453 of this title , or other applicable law, for any period included in a regularly scheduled 12-hour tour of duty.
     - **(C)** If the Secretary determines it to be further necessary in order to obtain or retain the services of nurses at a particular facility, a nurse to whom this paragraph is applicable who performs service in excess of such nurse’s regularly scheduled two 12-hour tours of duty may be paid overtime pay under section 7453(e) of this title , or other applicable law, for all or part of the hours of officially ordered or approved service performed by such nurse in excess of 40 hours during an administrative workweek.
 - **(c)** The Secretary shall prescribe regulations for the implementation of this section.
+
+## Source Credit
+
+*(Added [Pub. L. 102–40, title IV, § 401(b)(4)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 235](https://www.govinfo.gov/link/statute/105/235); amended [Pub. L. 111–163, title VI, § 602(b)](https://www.govinfo.gov/link/plaw/111/public/163), May 5, 2010, [124 Stat. 1173](https://www.govinfo.gov/link/statute/124/1173).)*

@@ -3,9 +3,10 @@ title: "Section 24a - Financial subsidiaries of national banks"
 usc_title: 12
 usc_section: "24a"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 24a"
-generated_at: "2026-03-30T02:53:53.369Z"
+generated_at: "2026-11-23T20:25:58.678Z"
+status: "active"
 ---
 
 # § 24a. Financial subsidiaries of national banks
@@ -92,3 +93,7 @@ generated_at: "2026-03-30T02:53:53.369Z"
       - **(i)** the achievement of a composite rating of 1 or 2 under the Uniform Financial Institutions Rating System (or an equivalent rating under an equivalent rating system) in connection with the most recent examination or subsequent review of the depository institution; and
       - **(ii)** at least a rating of 2 for management, if such rating is given; or
     - **(B)** in the case of any depository institution that has not been examined, the existence and use of managerial resources that the appropriate Federal banking agency determines are satisfactory.
+
+## Source Credit
+
+*(R.S. § 5136A, as added [Pub. L. 106–102, title I, § 121(a)(2)](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1373](https://www.govinfo.gov/link/statute/113/1373); amended [Pub. L. 111–203, title IX, § 939(d)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1886](https://www.govinfo.gov/link/statute/124/1886).)*

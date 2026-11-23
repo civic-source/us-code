@@ -3,9 +3,10 @@ title: "Section 632 - Jurisdiction of United States courts; disposition by banks
 usc_title: 12
 usc_section: "632"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 632"
-generated_at: "2026-03-30T02:53:53.385Z"
+generated_at: "2026-11-23T20:25:58.776Z"
+status: "active"
 ---
 
 # § 632. Jurisdiction of United States courts; disposition by banks of foreign owned property
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:53.385Z"
   - **(4)** the term “person” includes any individual, or any corporation, partnership, association, or other similar organization; and
   - **(5)** the term “insured bank” shall have the meaning given to it in section 12B of this Act.
 
+
+## Source Credit
+
+*(Dec. 23, 1913, ch. 6, § 25B, formerly § 25(b), as added June 16, 1933, ch. 89, § 15, [48 Stat. 184](https://www.govinfo.gov/link/statute/48/184); amended Apr. 7, 1941, ch. 43, § 2, [55 Stat. 131](https://www.govinfo.gov/link/statute/55/131); renumbered § 25B, [Pub. L. 102–242, title I, § 142(e)(3)](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2281](https://www.govinfo.gov/link/statute/105/2281).)*

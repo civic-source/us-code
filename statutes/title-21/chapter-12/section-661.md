@@ -3,9 +3,10 @@ title: "Section 661 - Federal and State cooperation"
 usc_title: 21
 usc_section: "661"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 661"
-generated_at: "2026-03-30T02:54:54.288Z"
+generated_at: "2026-11-23T20:26:27.805Z"
+status: "active"
 ---
 
 # § 661. Federal and State cooperation
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:54.288Z"
   - **(3)** Whenever the Secretary determines that any State designated under this paragraph (c) has developed and will enforce State meat inspection requirements at least equal to those imposed under subchapters I and IV, with respect to the operations and transactions within such State which are regulated under paragraph (1), he shall terminate the designation of such State under this paragraph (c), but this shall not preclude the subsequent redesignation of the State at any time upon thirty days notice to the Governor and publication in the Federal Register in accordance with this paragraph, and any State may be designated upon such notice and publication at any time after the period specified in this paragraph whether or not the State has theretofore been designated upon the Secretary determining that it is not effectively enforcing requirements at least equal to those imposed under subchapters I and IV.
   - **(4)** The Secretary shall promptly upon December 15, 1967 , and periodically thereafter, but at least annually, review the requirements, including the enforcement thereof, of the several States not designated under this paragraph (c), with respect to the slaughter, and the preparation, storage, handling and distribution of carcasses, parts thereof, meat and meat food products, of such animals, and inspection of such operations and annually report thereon to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate in the report required under section 691 1 1 See References in Text note below. of this title.
 - **(d)** As used in this section, the term “State” means any State (including the Commonwealth of Puerto Rico) or organized Territory.
+
+## Source Credit
+
+*(Mar. 4, 1907, ch. 2907, title III § 301, as added [Pub. L. 90–201, § 15](https://www.govinfo.gov/link/plaw/90/public/201), Dec. 15, 1967, [81 Stat. 595](https://www.govinfo.gov/link/statute/81/595); amended [Pub. L. 98–487, § 1](https://www.govinfo.gov/link/plaw/98/public/487), Oct. 17, 1984, [98 Stat. 2264](https://www.govinfo.gov/link/statute/98/2264); [Pub. L. 103–437, § 8(2)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4588](https://www.govinfo.gov/link/statute/108/4588).)*

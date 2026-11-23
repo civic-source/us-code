@@ -3,9 +3,10 @@ title: "Section 70132 - Credentialing standards, training, and certification for
 usc_title: 46
 usc_section: "70132"
 chapter: 701
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 70132"
-generated_at: "2026-03-30T02:56:15.588Z"
+generated_at: "2026-11-23T20:27:27.455Z"
+status: "active"
 ---
 
 # § 70132. Credentialing standards, training, and certification for State and local support for the enforcement of security zones for the transportation of especially hazardous cargo
@@ -35,3 +36,15 @@ generated_at: "2026-03-30T02:56:15.588Z"
   - **(2)** utilize, as appropriate, government training facilities, courses provided by community colleges, public safety academies, State and private universities, and other facilities; and
   - **(3)** certify organizations that offer the curriculum for training and certification.
 - **(d)** For the purposes of this section, the term “public safety personnel” includes any Federal, State (or political subdivision thereof), territorial, or Tribal law enforcement officer, firefighter, or emergency response provider.
+
+Standard
+
+Training.—
+
+Certification; Training Partners
+
+Public Safety Personnel Defined
+
+## Source Credit
+
+*(Added [Pub. L. 111–281, title VIII, § 828(a)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 3005](https://www.govinfo.gov/link/statute/124/3005); amended [Pub. L. 111–330, § 1(16)](https://www.govinfo.gov/link/plaw/111/public/330), Dec. 22, 2010, [124 Stat. 3570](https://www.govinfo.gov/link/statute/124/3570); [Pub. L. 116–283, div. G, title LVXXXIII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXIII], § 8314(2), Jan. 1, 2021, [134 Stat. 4699](https://www.govinfo.gov/link/statute/134/4699).)*

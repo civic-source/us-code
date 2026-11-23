@@ -3,9 +3,10 @@ title: "Section 13506 - Miscellaneous motor carrier transportation exemptions"
 usc_title: 49
 usc_section: "13506"
 chapter: 135
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 13506"
-generated_at: "2026-03-30T02:56:19.327Z"
+generated_at: "2026-11-23T20:27:34.739Z"
+status: "active"
 ---
 
 # § 13506. Miscellaneous motor carrier transportation exemptions
@@ -51,3 +52,11 @@ generated_at: "2026-03-30T02:56:19.327Z"
     - **(A)** the motor vehicle is operated by a person that provides recreational activities;
     - **(B)** the transportation is provided within a 150 air-mile radius of the location at which passengers initially boarded the motor vehicle at the outset of the trip; and
     - **(C)** in the case of a motor vehicle transporting passengers over a route between a place in a State and a place in another State, the person operating the motor vehicle is lawfully providing transportation of passengers over the entire route in accordance with applicable State law.
+
+In General
+
+Exempt Unless Otherwise Necessary
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 861](https://www.govinfo.gov/link/statute/109/861); amended [Pub. L. 105–102, § 2(8)](https://www.govinfo.gov/link/plaw/105/public/102), Nov. 20, 1997, [111 Stat. 2204](https://www.govinfo.gov/link/statute/111/2204); [Pub. L. 107–298, § 3(b)(1)](https://www.govinfo.gov/link/plaw/107/public/298), Nov. 26, 2002, [116 Stat. 2343](https://www.govinfo.gov/link/statute/116/2343); [Pub. L. 114–113, div. L, title I, § 136](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2851](https://www.govinfo.gov/link/statute/129/2851); [Pub. L. 117–58, div. B, title III, § 23012](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 771](https://www.govinfo.gov/link/statute/135/771).)*

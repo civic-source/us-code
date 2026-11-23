@@ -3,12 +3,17 @@ title: "Section 1358 - Rights of third countries"
 usc_title: 22
 usc_section: "1358"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 1358"
-generated_at: "2026-03-30T02:55:05.330Z"
+generated_at: "2026-11-23T20:26:32.093Z"
+status: "active"
 ---
 
 # § 1358. Rights of third countries
 
 The benefits granted by subchapters I to IV of this chapter, and by the executive agreement provided for in subchapter III, to the Philippines, Philippine articles or products, and Philippine citizens, shall not, by reason of any provision of any existing treaty or agreement with any third country, be extended to such country or its products, citizens, or subjects.
 
+
+## Source Credit
+
+*(Apr. 30, 1946, ch. 244, title V, § 509, [60 Stat. 158](https://www.govinfo.gov/link/statute/60/158).)*

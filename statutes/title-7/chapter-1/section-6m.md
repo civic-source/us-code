@@ -3,9 +3,10 @@ title: "Section 6m - Use of mails or other means or instrumentalities of interst
 usc_title: 7
 usc_section: "6m"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6m"
-generated_at: "2026-03-30T02:53:42.241Z"
+generated_at: "2026-11-23T20:25:40.864Z"
+status: "active"
 ---
 
 # § 6m. Use of mails or other means or instrumentalities of interstate commerce by commodity trading advisors and commodity pool operators; relation to other law
@@ -16,3 +17,15 @@ generated_at: "2026-03-30T02:53:42.241Z"
     - **(A)** Paragraph (1) shall not apply to any commodity trading advisor that is registered with the Securities and Exchange Commission as an investment adviser whose business does not consist primarily of acting as a commodity trading advisor, as defined in section 1a of this title , and that does not act as a commodity trading advisor to any commodity pool that is engaged primarily in trading commodity interests.
     - **(B)** For purposes of subparagraph (A), a commodity trading advisor or a commodity pool shall be considered to be “engaged primarily” in the business of being a commodity trading advisor or commodity pool if it is or holds itself out to the public as being engaged primarily, or proposes to engage primarily, in the business of advising on commodity interests or investing, reinvesting, owning, holding, or trading in commodity interests, respectively.
     - **(C)** For purposes of this paragraph, commodity interests shall include contracts of sale of a commodity for future delivery, options on such contracts, security futures, swaps, leverage contracts, foreign exchange, spot and forward contracts on physical commodities, and any monies held in an account used for trading commodity interests.
+
+Exception.—
+
+In general
+
+Engaged primarily
+
+Commodity interests
+
+## Source Credit
+
+*(Sept. 21, 1922, ch. 369, § 4m, as added [Pub. L. 93–463, title II, § 205(a)](https://www.govinfo.gov/link/plaw/93/public/463), Oct. 23, 1974, [88 Stat. 1398](https://www.govinfo.gov/link/statute/88/1398); amended [Pub. L. 95–405, § 8](https://www.govinfo.gov/link/plaw/95/public/405), Sept. 30, 1978, [92 Stat. 870](https://www.govinfo.gov/link/statute/92/870); [Pub. L. 97–444, title I, § 103](https://www.govinfo.gov/link/plaw/97/public/444), Jan. 11, 1983, [96 Stat. 2296](https://www.govinfo.gov/link/statute/96/2296); [Pub. L. 106–554, § 1(a)(5) [title II, § 251(d)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–443; [Pub. L. 111–203, title VII](https://www.govinfo.gov/link/plaw/111/public/203), §§ 721(e)(2), 749(b), July 21, 2010, [124 Stat. 1671](https://www.govinfo.gov/link/statute/124/1671), 1747.)*

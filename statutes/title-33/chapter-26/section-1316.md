@@ -3,9 +3,10 @@ title: "Section 1316 - National standards of performance"
 usc_title: 33
 usc_section: "1316"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1316"
-generated_at: "2026-03-30T02:55:41.092Z"
+generated_at: "2026-11-23T20:26:54.014Z"
+status: "active"
 ---
 
 # § 1316. National standards of performance
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:41.092Z"
 - **(c)** Each State may develop and submit to the Administrator a procedure under State law for applying and enforcing standards of performance for new sources located in such State. If the Administrator finds that the procedure and the law of any State require the application and enforcement of standards of performance to at least the same extent as required by this section, such State is authorized to apply and enforce such standards of performance (except with respect to new sources owned or operated by the United States).
 - **(d)** Notwithstanding any other provision of this chapter, any point source the construction of which is commenced after October 18, 1972 , and which is so constructed as to meet all applicable standards of performance shall not be subject to any more stringent standard of performance during a ten-year period beginning on the date of completion of such construction or during the period of depreciation or amortization of such facility for the purposes of section 167 or 169 (or both) of title 26 whichever period ends first.
 - **(e)** After the effective date of standards of performance promulgated under this section, it shall be unlawful for any owner or operator of any new source to operate such source in violation of any standard of performance applicable to such source.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title III, § 306, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 854](https://www.govinfo.gov/link/statute/86/854).)*

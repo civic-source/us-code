@@ -3,9 +3,10 @@ title: "Section 247 - Assisting veterans with military emergency medical trainin
 usc_title: 42
 usc_section: "247"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 247"
-generated_at: "2026-03-30T02:56:10.693Z"
+generated_at: "2026-11-23T20:27:19.995Z"
+status: "active"
 ---
 
 # § 247. Assisting veterans with military emergency medical training to meet requirements for becoming civilian health care professionals
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:10.693Z"
 - **(c)** Upon the completion of the demonstration program under this section, the Secretary shall submit to Congress a report on the program.
 - **(d)** No additional funds are authorized to be appropriated for the purpose of carrying out this section. This section shall be carried out using amounts otherwise available for such purpose.
 - **(e)** The demonstration program under this section shall not exceed 5 years.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 315, as added [Pub. L. 114–198, title I, § 105](https://www.govinfo.gov/link/plaw/114/public/198), July 22, 2016, [130 Stat. 701](https://www.govinfo.gov/link/statute/130/701).)*

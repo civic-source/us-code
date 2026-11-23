@@ -3,9 +3,10 @@ title: "Section 1 - Staff exchanges"
 usc_title: 15
 usc_section: "1"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1"
-generated_at: "2026-03-30T02:54:08.028Z"
+generated_at: "2026-11-23T20:26:03.417Z"
+status: "active"
 ---
 
 # § 57c–1. Staff exchanges
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:08.028Z"
   - **(2)** detail officers or employees of the Commission to work on a temporary basis for appropriate foreign government agencies.
 - **(b)** The staff arrangements described in subsection (a) need not be reciprocal. The Commission may accept payment or reimbursement, in cash or in kind, from a foreign government agency to which this section is applicable, or payment or reimbursement made on behalf of such agency, for expenses incurred by the Commission, its members, and employees in carrying out such arrangements.
 - **(c)** A person appointed under subsection (a)(1) shall be subject to the provisions of law relating to ethics, conflicts of interest, corruption, and any other criminal or civil statute or regulation governing the standards of conduct for Federal employees that are applicable to the type of appointment.
+
+## Source Credit
+
+*(Sept. 26, 1914, ch. 311, § 25A, as added [Pub. L. 109–455, § 9](https://www.govinfo.gov/link/plaw/109/public/455), Dec. 22, 2006, [120 Stat. 3381](https://www.govinfo.gov/link/statute/120/3381).)*

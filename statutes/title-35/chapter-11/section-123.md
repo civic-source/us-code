@@ -3,9 +3,10 @@ title: "Section 123 - Micro entity defined"
 usc_title: 35
 usc_section: "123"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "35 U.S.C. § 123"
-generated_at: "2026-03-30T02:55:34.237Z"
+generated_at: "2026-11-23T20:26:49.121Z"
+status: "active"
 ---
 
 # § 123. Micro entity defined
@@ -22,3 +23,19 @@ generated_at: "2026-03-30T02:55:34.237Z"
   - **(2)** the applicant has assigned, granted, conveyed, or is under an obligation by contract or law, to assign, grant, or convey, a license or other ownership interest in the particular applications to such an institution of higher education.
 - **(e)** In addition to the limits imposed by this section, the Director may, in the Director’s discretion, impose income limits, annual filing limits, or other limits on who may qualify as a micro entity pursuant to this section if the Director determines that such additional limits are reasonably necessary to avoid an undue impact on other patent applicants or owners or are otherwise reasonably necessary and appropriate. At least 3 months before any limits proposed to be imposed pursuant to this subsection take effect, the Director shall inform the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate of any such proposed limits.
 - **(f)** In addition to any other penalty available under law, an entity that is found to have falsely made a certification under this section shall, unless the entity shows that the certification was made in good faith, be subject to a fine, to be determined by the Director, the amount of which shall be not less than 3 times the amount that the entity failed to pay as a result of the false certification, whether the Director discovers the false certification before or after the date on which a patent has been issued.
+
+In General
+
+Applications Resulting From Prior Employment
+
+Foreign Currency Exchange Rate
+
+Institutions of Higher Education
+
+Director’s Authority
+
+Penalty for False Certifications
+
+## Source Credit
+
+*(Added and amended [Pub. L. 112–29](https://www.govinfo.gov/link/plaw/112/public/29), §§ 10(g)(1), 20(j), Sept. 16, 2011, [125 Stat. 318](https://www.govinfo.gov/link/statute/125/318), 335; [Pub. L. 112–274, § 1(m)](https://www.govinfo.gov/link/plaw/112/public/274), Jan. 14, 2013, [126 Stat. 2459](https://www.govinfo.gov/link/statute/126/2459); [Pub. L. 117–328, div. W, § 107(b)(2)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5522](https://www.govinfo.gov/link/statute/136/5522); [Pub. L. 118–151, § 1(2)](https://www.govinfo.gov/link/plaw/118/public/151), Dec. 17, 2024, [138 Stat. 1685](https://www.govinfo.gov/link/statute/138/1685).)*

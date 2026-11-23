@@ -3,9 +3,10 @@ title: "Section 3306 - Planning and solicitation requirements"
 usc_title: 41
 usc_section: "3306"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 3306"
-generated_at: "2026-03-30T02:55:55.805Z"
+generated_at: "2026-11-23T20:27:04.424Z"
+status: "active"
 ---
 
 # § 3306. Planning and solicitation requirements
@@ -60,3 +61,77 @@ generated_at: "2026-03-30T02:55:55.805Z"
   - **(3)** The Federal Acquisition Regulation at a minimum shall provide that a solicitation for the acquisition of property or services may not set forth any requirement or evaluation criteria that would—
     - **(A)** render an offeror ineligible to enter into a contract on the basis of the inclusion of a plan of the offeror to allow the offeror’s employees to telecommute, unless the contracting officer concerned first determines that the requirements of the agency, including security requirements, cannot be met if telecommuting is allowed and documents in writing the basis for the determination; or
     - **(B)** reduce the scoring of an offer on the basis of the inclusion in the offer of a plan of the offeror to allow the offeror’s employees to telecommute, unless the contracting officer concerned first determines that the requirements of the agency, including security requirements, would be adversely impacted if telecommuting is allowed and documents in writing the basis for the determination.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3306(a)–(e) | 41:253a. | June 30, 1949, ch. 288 , title III, § 303A, as added Pub. L. 98–369, title VII, § 2711(a)(2) , July 18, 1984 , 98 Stat. 1178 ; Pub. L. 103–355, title I , §§ 1061(a), (b), 1062, title IV, § 4402(b), Oct. 13, 1994 , 108 Stat. 3266 , 3267, 3348; Pub. L. 104–106, title XLII, § 4202(b)(2) , Feb. 10, 1996 , 110 Stat. 653 . |
+| 3306(f) | 41:253a note. | Pub. L. 108–136, title XIV, § 1428 , Nov. 24, 2003 , 117 Stat. 1670 . |
+
+
+Planning and Specifications.—
+
+Preparing for procurement
+
+Requirements of specifications
+
+Types of specifications
+
+Contents of Solicitation
+
+Evaluation Factors.—
+
+In general
+
+Restriction on implementing regulations
+
+Exceptions for certain indefinite delivery, indefinite quantity multiple-award contracts and certain federal supply schedule contracts for services acquired on an hourly rate
+
+Definition
+
+Additional Information in Solicitation
+
+Limitation on Evaluation of Purchase Options
+
+Authorization of Telecommuting for Federal Contractors.—
+
+Definition
+
+Federal acquisition regulation to allow telecommuting
+
+Scope of allowance
+
+Historical and Revision Notes
+
+3306(a)–(e)
+
+June 30, 1949, ch. 288
+
+Pub. L. 98–369, title VII, § 2711(a)(2)
+
+July 18, 1984
+
+98 Stat. 1178
+
+Pub. L. 103–355, title I
+
+Oct. 13, 1994
+
+108 Stat. 3266
+
+Pub. L. 104–106, title XLII, § 4202(b)(2)
+
+Feb. 10, 1996
+
+110 Stat. 653
+
+3306(f)
+
+Pub. L. 108–136, title XIV, § 1428
+
+Nov. 24, 2003
+
+117 Stat. 1670
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3752](https://www.govinfo.gov/link/statute/124/3752); [Pub. L. 115–232, div. A, title VIII](https://www.govinfo.gov/link/plaw/115/public/232), §§ 836(b)(9), 876, Aug. 13, 2018, [132 Stat. 1861](https://www.govinfo.gov/link/statute/132/1861), 1907.)*

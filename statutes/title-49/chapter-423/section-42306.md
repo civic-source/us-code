@@ -3,9 +3,10 @@ title: "Section 42306 - Know Your Rights posters"
 usc_title: 49
 usc_section: "42306"
 chapter: 423
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 42306"
-generated_at: "2026-03-30T02:56:19.379Z"
+generated_at: "2026-11-23T20:27:35.126Z"
+status: "active"
 ---
 
 # § 42306. Know Your Rights posters
@@ -17,3 +18,13 @@ generated_at: "2026-03-30T02:56:19.379Z"
   - **(4)** lost, delayed, or damaged baggage.
 - **(b)** Posters described in subsection (a) shall be displayed in conspicuous locations throughout the airport, including ticket counters, security checkpoints, and boarding gates.
 - **(c)** Each large hub airport, medium hub airport, and small hub airport with scheduled passenger service shall ensure that passengers with a disability (as such term is defined in section 382.3 of title 14, Code of Federal Regulations) who identify themselves as having such a disability are notified of the availability of accessibility assistance and shall assist such passengers in connecting to the appropriate entities to obtain the same information required in this section that is provided to other passengers.
+
+In General
+
+Location
+
+Accessibility Assistance
+
+## Source Credit
+
+*(Added [Pub. L. 118–63, title V, § 504(a)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1190](https://www.govinfo.gov/link/statute/138/1190).)*

@@ -3,9 +3,10 @@ title: "Section 7913 - Closure of Federal land to hunting, fishing, and recreati
 usc_title: 16
 usc_section: "7913"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 7913"
-generated_at: "2026-03-30T02:54:23.079Z"
+generated_at: "2026-11-23T20:26:20.862Z"
+status: "active"
 ---
 
 # § 7913. Closure of Federal land to hunting, fishing, and recreational shooting
@@ -47,3 +48,19 @@ generated_at: "2026-03-30T02:54:23.079Z"
 - **(e)** This section shall not apply if the closure is—
   - **(1)** less than 14 days in duration; and
   - **(2)** covered by a special use permit.
+
+(aa) in the Federal Register;
+
+(bb) on the website of the applicable Federal agency;
+
+(cc) on the website of the Federal land unit, if available; and
+
+(dd) in at least 1 local newspaper;
+
+(aa) the proposed closure; and
+
+(bb) the justification for the proposed closure, including an explanation of the reasons and necessity for the decision to close the area to hunting, fishing, or recreational shooting; and
+
+## Source Credit
+
+*([Pub. L. 116–9, title IV, § 4103](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 757](https://www.govinfo.gov/link/statute/133/757).)*

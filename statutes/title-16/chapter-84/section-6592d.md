@@ -3,9 +3,10 @@ title: "Section 6592d - Joint Chiefs Landscape Restoration Partnership program"
 usc_title: 16
 usc_section: "6592d"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6592d"
-generated_at: "2026-03-30T02:54:23.065Z"
+generated_at: "2026-11-23T20:26:20.813Z"
+status: "active"
 ---
 
 # § 6592d. Joint Chiefs Landscape Restoration Partnership program
@@ -63,3 +64,7 @@ generated_at: "2026-03-30T02:54:23.065Z"
     - **(C)** the remaining funds shall be allocated by the Chiefs to the Natural Resources Conservation Service or the Forest Service—
       - **(i)** to carry out eligible activities; or
       - **(ii)** for other purposes, such as technical assistance, project development, or local capacity building.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title VIII, § 40808](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1114](https://www.govinfo.gov/link/statute/135/1114).)*

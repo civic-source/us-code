@@ -3,12 +3,17 @@ title: "Section 1974 - Actions by United States; subpenas for witnesses"
 usc_title: 12
 usc_section: "1974"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1974"
-generated_at: "2026-03-30T02:53:53.470Z"
+generated_at: "2026-11-23T20:25:59.220Z"
+status: "active"
 ---
 
 # § 1974. Actions by United States; subpenas for witnesses
 
 In any action brought by or on behalf of the United States under section 1972 of this title , subpenas for witnesses may run into any district, but no writ of subpena may issue for witnesses living out of the district in which the court is held at a greater distance than one hundred miles from the place of holding the same without the prior permission of the trial court upon proper application and cause shown.
 
+
+## Source Credit
+
+*([Pub. L. 91–607, title I, § 106(d)](https://www.govinfo.gov/link/plaw/91/public/607), Dec. 31, 1970, [84 Stat. 1767](https://www.govinfo.gov/link/statute/84/1767).)*

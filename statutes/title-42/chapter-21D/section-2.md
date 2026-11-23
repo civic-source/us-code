@@ -3,9 +3,10 @@ title: "Section 2 - Limitation on interrogation techniques"
 usc_title: 42
 usc_section: "2"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T02:56:11.142Z"
+generated_at: "2026-11-23T20:27:22.030Z"
+status: "active"
 ---
 
 # § 2000dd–2. Limitation on interrogation techniques
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:11.142Z"
   - **(2)** Nothing in this subsection shall be construed—
     - **(A)** to create or otherwise imply the authority to detain; or
     - **(B)** to limit or otherwise affect any other individual rights or state obligations which may arise under United States law or international agreements to which the United States is a party, including the Geneva Conventions, or to state all of the situations under which notification to and access for the International Committee of the Red Cross is required or allowed.
+
+## Source Credit
+
+*([Pub. L. 114–92, div. A, title X, § 1045](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 977](https://www.govinfo.gov/link/statute/129/977).)*

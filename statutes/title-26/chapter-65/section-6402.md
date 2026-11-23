@@ -3,9 +3,10 @@ title: "Section 6402 - Authority to make credits or refunds"
 usc_title: 26
 usc_section: "6402"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6402"
-generated_at: "2026-03-30T02:55:27.851Z"
+generated_at: "2026-11-23T20:26:46.635Z"
+status: "active"
 ---
 
 # § 6402. Authority to make credits or refunds
@@ -92,3 +93,15 @@ generated_at: "2026-03-30T02:55:27.851Z"
     - **(A)** identifying the accounts to which transfers described in paragraph (1) were made; and
     - **(B)** recovery of the amounts so transferred; and
   - **(3)** the refund to be delivered to the correct account of the taxpayer.
+
+Collection of Overpayments Under Title IV–A of the Social Security Act
+
+“The amendments made by this section [amending this section, section 3720A of Title 31 , Money and Finance, and section 404 of Title 42 , The Public Health and Welfare]—
+
+In General
+
+Text of Document
+
+## Source Credit
+
+*(Aug. 6, 1954, ch. 736, 68A Stat. 791; [Pub. L. 94–455, title XIX, § 1906(b)(13)](https://www.govinfo.gov/link/plaw/94/public/455) (A), (K), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834), 1835; [Pub. L. 97–35, title XXIII, § 2331(c)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 861](https://www.govinfo.gov/link/statute/95/861); [Pub. L. 98–369, div. B, title VI, § 2653(b)(1)](https://www.govinfo.gov/link/plaw/98/public/369), (2), July 18, 1984, [98 Stat. 1154](https://www.govinfo.gov/link/statute/98/1154), 1155; [Pub. L. 98–378, § 21(e)](https://www.govinfo.gov/link/plaw/98/public/378), Aug. 16, 1984, [98 Stat. 1325](https://www.govinfo.gov/link/statute/98/1325); [Pub. L. 100–647, title VI, § 6276](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3753](https://www.govinfo.gov/link/statute/102/3753); [Pub. L. 101–508, title V, § 5129(c)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–288](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–296, title I, § 108(h)(7)](https://www.govinfo.gov/link/plaw/103/public/296), Aug. 15, 1994, [108 Stat. 1487](https://www.govinfo.gov/link/statute/108/1487); [Pub. L. 104–134, title III, § 31001(u)(2)](https://www.govinfo.gov/link/plaw/104/public/134), Apr. 26, 1996, [110 Stat. 1321–375](https://www.govinfo.gov/link/statute/110/1321); [Pub. L. 104–193, title I, § 110](https://www.govinfo.gov/link/plaw/104/public/193) (l)(7), Aug. 22, 1996, [110 Stat. 2173](https://www.govinfo.gov/link/statute/110/2173); [Pub. L. 105–33, title V, § 5514(a)(1)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 620](https://www.govinfo.gov/link/statute/111/620); [Pub. L. 105–206, title III](https://www.govinfo.gov/link/plaw/105/public/206), §§ 3505(a), 3711(a), (c), July 22, 1998, [112 Stat. 771](https://www.govinfo.gov/link/statute/112/771), 779, 781; [Pub. L. 109–171, title VII, § 7301(d)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 144](https://www.govinfo.gov/link/statute/120/144); [Pub. L. 110–328, § 3(a)](https://www.govinfo.gov/link/plaw/110/public/328), (d), Sept. 30, 2008, [122 Stat. 3570](https://www.govinfo.gov/link/statute/122/3570), 3573; [Pub. L. 111–291, title VIII, § 801(a)](https://www.govinfo.gov/link/plaw/111/public/291), Dec. 8, 2010, [124 Stat. 3157](https://www.govinfo.gov/link/statute/124/3157); [Pub. L. 111–312, title V, § 503(a)](https://www.govinfo.gov/link/plaw/111/public/312), Dec. 17, 2010, [124 Stat. 3308](https://www.govinfo.gov/link/statute/124/3308); [Pub. L. 114–113, div. Q, title II, § 201(b)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3076](https://www.govinfo.gov/link/statute/129/3076); [Pub. L. 115–141, div. U, title IV, § 401(a)(285)](https://www.govinfo.gov/link/plaw/115/public/141) –(287), Mar. 23, 2018, [132 Stat. 1198](https://www.govinfo.gov/link/statute/132/1198); [Pub. L. 116–25, title I, § 1407](https://www.govinfo.gov/link/plaw/116/public/25), July 1, 2019, [133 Stat. 1001](https://www.govinfo.gov/link/statute/133/1001); [Pub. L. 118–258, title II, § 202(a)(2)(F)](https://www.govinfo.gov/link/plaw/118/public/258), Jan. 4, 2025, [138 Stat. 2972](https://www.govinfo.gov/link/statute/138/2972).)*

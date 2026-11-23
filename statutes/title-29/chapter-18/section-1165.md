@@ -3,9 +3,10 @@ title: "Section 1165 - Election"
 usc_title: 29
 usc_section: "1165"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1165"
-generated_at: "2026-03-30T02:55:18.721Z"
+generated_at: "2026-11-23T20:26:37.986Z"
+status: "active"
 ---
 
 # § 1165. Election
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:55:18.721Z"
       - **(ii)** an eligible alternative TAA recipient (as defined in paragraph (3) of such section).
     - **(C)** The term “TAA-related election period” means, with respect to a TAA-related loss of coverage, the 60-day election period under this part which is a direct consequence of such loss.
     - **(D)** The term “TAA-related loss of coverage” means, with respect to an individual whose separation from employment gives rise to being an TAA-eligible individual, the loss of health benefits coverage associated with such separation.
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 605](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 99–272, title X, § 10002(a)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 230](https://www.govinfo.gov/link/statute/100/230); amended [Pub. L. 99–514, title XVIII, § 1895(d)(5)(B)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2939](https://www.govinfo.gov/link/statute/100/2939); [Pub. L. 107–210, div. A, title II, § 203(e)(1)](https://www.govinfo.gov/link/plaw/107/public/210), Aug. 6, 2002, [116 Stat. 969](https://www.govinfo.gov/link/statute/116/969).)*

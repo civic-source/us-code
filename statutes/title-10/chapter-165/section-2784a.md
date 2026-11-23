@@ -3,9 +3,10 @@ title: "Section 2784a - Management of travel cards"
 usc_title: 10
 usc_section: "2784a"
 chapter: 165
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2784a"
-generated_at: "2026-03-30T02:53:38.175Z"
+generated_at: "2026-11-23T20:25:51.704Z"
+status: "active"
 ---
 
 # § 2784a. Management of travel cards
@@ -39,3 +40,21 @@ generated_at: "2026-03-30T02:53:38.175Z"
     - **(A)** in the case of a former employee of the Department of Defense, any retirement benefit payable to that individual, out of the Civil Service Retirement and Disability Fund, based (in whole or in part) on service performed by such individual as a civilian employee of the Department of Defense; and
     - **(B)** in the case of a retired member of the armed forces or member of the Fleet Reserve or Fleet Marine Corps Reserve, retired or retainer pay to which the member is entitled.
 - **(g)** This section does not apply to the Coast Guard.
+
+Disbursement of Travel Allowances Directly to Creditors
+
+Offsets for Delinquent Travel Card Charges
+
+Offsets of Retired Pay
+
+Determinations of Creditworthiness for Issuance of Defense Travel Card
+
+Regulations on Disciplinary Action
+
+Definitions
+
+Exclusion of Coast Guard
+
+## Source Credit
+
+*(Added [Pub. L. 107–314, div. A, title X, § 1008(a)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2634](https://www.govinfo.gov/link/statute/116/2634); amended [Pub. L. 108–136, div. A, title X, § 1009(a)](https://www.govinfo.gov/link/plaw/108/public/136) –(c)(1), Nov. 24, 2003, [117 Stat. 1587](https://www.govinfo.gov/link/statute/117/1587), 1588; [Pub. L. 109–364, div. A, title X, § 1071(a)(25)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2399](https://www.govinfo.gov/link/statute/120/2399); [Pub. L. 112–81, div. A, title VI, § 631(f)(4)(A)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1465](https://www.govinfo.gov/link/statute/125/1465); [Pub. L. 112–239, div. A, title X, § 1076(a)(9)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1948](https://www.govinfo.gov/link/statute/126/1948); [Pub. L. 117–81, div. A, title VI, § 603(e)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1767](https://www.govinfo.gov/link/statute/135/1767).)*

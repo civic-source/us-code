@@ -3,9 +3,10 @@ title: "Section 4567 - Defense Production Act Committee"
 usc_title: 50
 usc_section: "4567"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4567"
-generated_at: "2026-03-30T02:56:26.280Z"
+generated_at: "2026-11-23T20:27:31.129Z"
+status: "active"
 ---
 
 # § 4567. Defense Production Act Committee
@@ -28,3 +29,17 @@ generated_at: "2026-03-30T02:56:26.280Z"
   - **(5)** up-to-date copies of the rules described under section 4511(d)(1) of this title ; and
   - **(6)** short attestations signed by each member of the Committee stating their concurrence in the report.
 - **(e)** The provisions of chapter 10 of title 5 shall not apply to the Committee.
+
+In general
+
+In general
+
+Appointment
+
+Compensation
+
+Barack Obama.
+
+## Source Credit
+
+*(Sept. 8, 1950, ch. 932, title VII, § 722, as added [Pub. L. 102–558, title I, § 135](https://www.govinfo.gov/link/plaw/102/public/558), Oct. 28, 1992, [106 Stat. 4212](https://www.govinfo.gov/link/statute/106/4212); amended [Pub. L. 109–295, title VI, § 612(c)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1410](https://www.govinfo.gov/link/statute/120/1410); [Pub. L. 111–67, § 11](https://www.govinfo.gov/link/plaw/111/public/67), Sept. 30, 2009, [123 Stat. 2019](https://www.govinfo.gov/link/statute/123/2019); [Pub. L. 113–172, § 2](https://www.govinfo.gov/link/plaw/113/public/172), Sept. 26, 2014, [128 Stat. 1896](https://www.govinfo.gov/link/statute/128/1896); [Pub. L. 117–286, § 4(a)(323)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4341](https://www.govinfo.gov/link/statute/136/4341).)*

@@ -3,12 +3,17 @@ title: "Section 43 - Appointment of regents; terms of office; vacancies"
 usc_title: 20
 usc_section: "43"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 43"
-generated_at: "2026-03-30T02:54:48.072Z"
+generated_at: "2026-11-23T20:26:14.208Z"
+status: "active"
 ---
 
 # § 43. Appointment of regents; terms of office; vacancies
 
 The regents to be selected shall be appointed as follows: The Members of the Senate by the President thereof; the Members of the House by the Speaker thereof; and the nine other persons by joint resolution of the Congress. The Members of the House so appointed shall serve for the term of two years; and on every alternate fourth Wednesday of December a like number shall be appointed in the same manner to serve until the fourth Wednesday in December, in the second year succeeding their appointment. The Senators so appointed shall serve during the term for which they shall hold, without re-election, their office as Senators. Vacancies, occasioned by death, resignation, or otherwise, shall be filled as vacancies in committees are filled. The regular term of service for the other nine members shall be six years; and new elections thereof shall be made by joint resolutions of Congress. Vacancies occasioned by death, resignation, or otherwise may be filled in like manner by joint resolution of Congress.
 
+
+## Source Credit
+
+*(R.S. § 5581; [Pub. L. 91–551, § 1(b)](https://www.govinfo.gov/link/plaw/91/public/551), (c), Dec. 15, 1970, [84 Stat. 1440](https://www.govinfo.gov/link/statute/84/1440).)*

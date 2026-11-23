@@ -3,12 +3,40 @@ title: "Section 4302 - Adjustment of threshold amount of covered contract"
 usc_title: 41
 usc_section: "4302"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 4302"
-generated_at: "2026-03-30T02:55:55.807Z"
+generated_at: "2026-11-23T20:27:04.451Z"
+status: "active"
 ---
 
 # § 4302. Adjustment of threshold amount of covered contract
 
 Effective on October 1 of each year that is divisible by 5, the amount set forth in section 4301(2) of this title shall be adjusted to the equivalent amount in constant fiscal year 1994 dollars. An adjusted amount that is not evenly divisible by $50,000 shall be rounded to the nearest multiple of $50,000. If an amount is evenly divisible by $25,000 but is not evenly divisible by $50,000, the amount shall be rounded to the next higher multiple of $50,000.
 
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 4302 | 41:256( l )(2). | June 30, 1949, ch. 288 , title III, § 306( l )(2), as added Pub. L. 100–700, § 8(a)(1) , Nov. 19, 1988 , 102 Stat. 4634 ; Pub. L. 103–355, title II, § 2151 , Oct. 13, 1994 , 108 Stat. 3315 . |
+
+
+Historical and Revision Notes
+
+4302
+
+June 30, 1949, ch. 288
+
+Pub. L. 100–700, § 8(a)(1)
+
+Nov. 19, 1988
+
+102 Stat. 4634
+
+Pub. L. 103–355, title II, § 2151
+
+Oct. 13, 1994
+
+108 Stat. 3315
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3784](https://www.govinfo.gov/link/statute/124/3784).)*

@@ -3,9 +3,10 @@ title: "Section 4310 - Proceeding costs not allowable"
 usc_title: 41
 usc_section: "4310"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 4310"
-generated_at: "2026-03-30T02:55:55.807Z"
+generated_at: "2026-11-23T20:27:04.454Z"
+status: "active"
 ---
 
 # § 4310. Proceeding costs not allowable
@@ -42,3 +43,73 @@ generated_at: "2026-03-30T02:55:55.807Z"
   - **(3)** In the case of a proceeding referred to in paragraph (1), contractor, subcontractor, or personal services contractor costs otherwise allowable as reimbursable costs under this subsection are not allowable if—
     - **(A)** the proceeding involves the same contractor, subcontractor, or personal services contractor misconduct alleged as the basis of another criminal, civil, or administrative proceeding; and
     - **(B)** the costs of the other proceeding are not allowable under subsection (b).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 4310(a) | 41:256(k)(6). | June 30, 1949, ch. 288 , title III, § 306(k), as added Pub. L. 100–700, § 8(a)(1) , Nov. 19, 1988 , 102 Stat. 4634 ; Pub. L. 103–355, title II, § 2151 , Oct. 13, 1994 , 108 Stat. 3313 . |
+| 4310(b) | 41:256(k)(1). |  |
+| 4310(c) | 41:256(k)(2). |  |
+| 4310(d) | 41:256(k)(3). |  |
+| 4310(e) | 41:256(k)(4). |  |
+| 4310(f) | 41:256(k)(5). |  |
+
+
+Definitions
+
+Costs
+
+Penalty
+
+Proceeding
+
+In General
+
+Covered Dispositions
+
+Costs Allowed by Settlement Agreement in Proceeding Commenced by Federal Government
+
+Costs Specifically Authorized by Executive Agency in Proceeding Commenced by State
+
+Other Allowable Costs.—
+
+In general
+
+Amount of allowable costs.—
+
+Maximum amount allowed
+
+Content of regulations
+
+When otherwise allowable costs are not allowable
+
+Historical and Revision Notes
+
+4310(a)
+
+June 30, 1949, ch. 288
+
+Pub. L. 100–700, § 8(a)(1)
+
+Nov. 19, 1988
+
+102 Stat. 4634
+
+Pub. L. 103–355, title II, § 2151
+
+Oct. 13, 1994
+
+108 Stat. 3313
+
+4310(b)
+
+4310(c)
+
+4310(d)
+
+4310(e)
+
+4310(f)
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3789](https://www.govinfo.gov/link/statute/124/3789); [Pub. L. 112–239, div. A, title VIII, § 828(d)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1841](https://www.govinfo.gov/link/statute/126/1841); [Pub. L. 114–261, § 1(b)(2)(A)](https://www.govinfo.gov/link/plaw/114/public/261), Dec. 14, 2016, [130 Stat. 1362](https://www.govinfo.gov/link/statute/130/1362).)*

@@ -3,9 +3,10 @@ title: "Section 60139 - Maximum allowable operating pressure"
 usc_title: 49
 usc_section: "60139"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 60139"
-generated_at: "2026-03-30T02:56:19.416Z"
+generated_at: "2026-11-23T20:27:35.431Z"
+status: "active"
 ---
 
 # § 60139. Maximum allowable operating pressure
@@ -29,3 +30,37 @@ generated_at: "2026-03-30T02:56:19.416Z"
     - **(B)** other alternative methods, including in-line inspections, determined by the Secretary to be of equal or greater effectiveness.
   - **(3)** The Secretary, in consultation with the Chairman of the Federal Energy Regulatory Commission and State regulators, as appropriate, shall establish timeframes for the completion of such testing that take into account potential consequences to public safety and the environment and that minimize costs and service disruptions.
 - **(e)** In this section, the term “high-consequence area” means an area described in section 60109(a).
+
+Verification of Records.—
+
+In general
+
+Purpose
+
+Elements
+
+Reporting.—
+
+Documentation of certain pipelines
+
+Exceedances of maximum allowable operating pressure
+
+Determination of Maximum Allowable Operating Pressure.—
+
+In general
+
+Interim actions
+
+Testing Regulations.—
+
+In general
+
+Considerations
+
+Completion of testing
+
+High-consequence Area Defined
+
+## Source Credit
+
+*(Added [Pub. L. 112–90, § 23(a)](https://www.govinfo.gov/link/plaw/112/public/90), Jan. 3, 2012, [125 Stat. 1918](https://www.govinfo.gov/link/statute/125/1918).)*

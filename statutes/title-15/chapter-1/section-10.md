@@ -3,12 +3,17 @@ title: "Section 10 - Bringing in additional parties"
 usc_title: 15
 usc_section: "10"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 10"
-generated_at: "2026-03-30T02:54:08.021Z"
+generated_at: "2026-11-23T20:26:03.359Z"
+status: "active"
 ---
 
 # § 10. Bringing in additional parties
 
 Whenever it shall appear to the court before which any proceeding under section 9 of this title may be pending, that the ends of justice require that other parties should be brought before the court, the court may cause them to be summoned, whether they reside in the district in which the court is held or not; and subpoenas to that end may be served in any district by the marshal thereof.
 
+
+## Source Credit
+
+*(Aug. 27, 1894, ch. 349, § 75, [28 Stat. 570](https://www.govinfo.gov/link/statute/28/570).)*

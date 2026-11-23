@@ -3,9 +3,10 @@ title: "Section 4704 - Barry Goldwater scholarship and excellence in education a
 usc_title: 20
 usc_section: "4704"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 4704"
-generated_at: "2026-03-30T02:54:48.185Z"
+generated_at: "2026-11-23T20:26:14.775Z"
+status: "active"
 ---
 
 # § 4704. Barry Goldwater scholarship and excellence in education awards
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:48.185Z"
     - **(C)** To persons affiliated with secondary schools on military reservations.
     - **(D)** To persons affiliated with the dependent overseas school system.
   - **(2)** The Board shall establish a schedule of honoraria to be awarded under paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 99–661, div. A, title XIV, § 1405](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 4009](https://www.govinfo.gov/link/statute/100/4009); [Pub. L. 117–81, div. F, title LXIII, § 6303](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2393](https://www.govinfo.gov/link/statute/135/2393).)*

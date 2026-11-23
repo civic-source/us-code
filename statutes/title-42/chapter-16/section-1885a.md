@@ -3,9 +3,10 @@ title: "Section 1885a - Women in science and engineering; support of activities 
 usc_title: 42
 usc_section: "1885a"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1885a"
-generated_at: "2026-03-30T02:56:11.131Z"
+generated_at: "2026-11-23T20:27:21.970Z"
+status: "active"
 ---
 
 # § 1885a. Women in science and engineering; support of activities by Foundation for promotion, etc.
@@ -29,3 +30,65 @@ The Foundation is authorized to—
   - **(10)** provide support to individuals or academic institutions for full-time or part-time visiting professorships for women in science and engineering;
   - **(11)** support demonstration project activities of individuals, public agencies, and private entities designed to encourage the employment and advancement of women in science and engineering; and
   - **(12)** encourage its entrepreneurial programs to recruit and support women to extend their focus beyond the laboratory and into the commercial world.
+
+“The Congress finds that—
+
+Number and Appointment
+
+Initial Appointments
+
+Terms.—
+
+In general
+
+Vacancies
+
+Pay of Members
+
+Travel Expenses
+
+Quorum
+
+Chairperson
+
+Meetings
+
+Employment Status
+
+Director
+
+Staff
+
+Applicability of Certain Civil Service Laws
+
+Experts and Consultants
+
+Staff of Federal Agencies
+
+Hearings and Sessions
+
+Powers of Members and Agents
+
+Obtaining Official Data
+
+Mails
+
+Administrative Support Services
+
+Contract Authority
+
+In General
+
+Use of Information Obtained
+
+Termination
+
+Access to Information
+
+Provision of Information
+
+Review of Information
+
+## Source Credit
+
+*([Pub. L. 96–516, § 33](https://www.govinfo.gov/link/plaw/96/public/516), Dec. 12, 1980, [94 Stat. 3011](https://www.govinfo.gov/link/statute/94/3011); [Pub. L. 99–159, title I, § 111(b)(6)](https://www.govinfo.gov/link/plaw/99/public/159), Nov. 22, 1985, [99 Stat. 892](https://www.govinfo.gov/link/statute/99/892); [Pub. L. 115–6, § 3](https://www.govinfo.gov/link/plaw/115/public/6), Feb. 28, 2017, [131 Stat. 11](https://www.govinfo.gov/link/statute/131/11).)*

@@ -3,9 +3,10 @@ title: "Section 6423 - Conditions to allowance in the case of alcohol and tobacc
 usc_title: 26
 usc_section: "6423"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6423"
-generated_at: "2026-03-30T02:55:27.853Z"
+generated_at: "2026-11-23T20:26:46.655Z"
+status: "active"
 ---
 
 # § 6423. Conditions to allowance in the case of alcohol and tobacco taxes
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:27.853Z"
     - **(A)** he has not, directly or indirectly, been relieved of such burden or shifted such burden to any other person,
     - **(B)** no understanding or agreement exists for any such relief or shifting, and
     - **(C)** if he has neither sold nor contracted to sell the commodities involved in such claim, he agrees that there will be no such relief or shifting, and furnishes such bond as the Secretary may require to insure faithful compliance with his agreement.
+
+## Source Credit
+
+*(Added [Pub. L. 85–323, § 1](https://www.govinfo.gov/link/plaw/85/public/323), Feb. 11, 1958, [72 Stat. 9](https://www.govinfo.gov/link/statute/72/9); amended [Pub. L. 94–455, title XIX, § 1906(a)(29)](https://www.govinfo.gov/link/plaw/94/public/455), (b)(13)(A), Oct. 4, 1976, [90 Stat. 1828](https://www.govinfo.gov/link/statute/90/1828), 1834.)*

@@ -3,9 +3,10 @@ title: "Section 7701 - Congressional findings and policy"
 usc_title: 15
 usc_section: "7701"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 7701"
-generated_at: "2026-03-30T02:54:08.225Z"
+generated_at: "2026-11-23T20:26:04.464Z"
+status: "active"
 ---
 
 # § 7701. Congressional findings and policy
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:08.225Z"
   - **(1)** there is a substantial government interest in regulation of commercial electronic mail on a nationwide basis;
   - **(2)** senders of commercial electronic mail should not mislead recipients as to the source or content of such mail; and
   - **(3)** recipients of commercial electronic mail have a right to decline to receive additional commercial electronic mail from the same source.
+
+## Source Credit
+
+*([Pub. L. 108–187, § 2](https://www.govinfo.gov/link/plaw/108/public/187), Dec. 16, 2003, [117 Stat. 2699](https://www.govinfo.gov/link/statute/117/2699).)*

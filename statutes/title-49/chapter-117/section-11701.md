@@ -3,9 +3,10 @@ title: "Section 11701 - General authority"
 usc_title: 49
 usc_section: "11701"
 chapter: 117
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 11701"
-generated_at: "2026-03-30T02:56:19.325Z"
+generated_at: "2026-11-23T20:27:34.731Z"
+status: "active"
 ---
 
 # § 11701. General authority
@@ -30,3 +31,9 @@ generated_at: "2026-03-30T02:56:19.325Z"
   - **(2)** The court—
     - **(A)** shall have jurisdiction to enter a judgment affirming, modifying, or setting aside, in whole or in part, the order of the Board; and
     - **(B)** may remand the proceeding to the Board for such further action as the court may direct.
+
+“Not later than 1 year after the date of the enactment of this Act [ Dec. 18, 2015 ], the Board shall issue rules, after notice and comment rulemaking, for investigations commenced on its own initiative that—
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 102(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 845](https://www.govinfo.gov/link/statute/109/845); amended [Pub. L. 114–110, § 12(a)](https://www.govinfo.gov/link/plaw/114/public/110), (b), Dec. 18, 2015, [129 Stat. 2234](https://www.govinfo.gov/link/statute/129/2234).)*

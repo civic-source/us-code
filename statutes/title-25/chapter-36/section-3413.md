@@ -3,9 +3,10 @@ title: "Section 3413 - Administration of funds"
 usc_title: 25
 usc_section: "3413"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3413"
-generated_at: "2026-03-30T02:54:52.852Z"
+generated_at: "2026-11-23T20:26:25.651Z"
+status: "active"
 ---
 
 # § 3413. Administration of funds
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:54:52.852Z"
 - **(g)**
   - **(1)** An Indian tribe shall be entitled to retain interest earned on any funds transferred to the tribe under an approved plan and such interest shall not diminish the amount of funds the Indian tribe is authorized to receive under the plan in the year the interest is earned or in any subsequent fiscal year.
   - **(2)** Funds transferred under a plan shall be managed in accordance with the prudent investment standard.
+
+## Source Credit
+
+*([Pub. L. 102–477, § 14](https://www.govinfo.gov/link/plaw/102/public/477), Oct. 23, 1992, [106 Stat. 2305](https://www.govinfo.gov/link/statute/106/2305); [Pub. L. 115–93, § 14](https://www.govinfo.gov/link/plaw/115/public/93), Dec. 18, 2017, [131 Stat. 2035](https://www.govinfo.gov/link/statute/131/2035).)*

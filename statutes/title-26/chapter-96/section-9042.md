@@ -3,9 +3,10 @@ title: "Section 9042 - Criminal penalties"
 usc_title: 26
 usc_section: "9042"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 9042"
-generated_at: "2026-03-30T02:55:27.891Z"
+generated_at: "2026-11-23T20:26:46.871Z"
+status: "active"
 ---
 
 # § 9042. Criminal penalties
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:27.891Z"
   - **(1)** It is unlawful for any person knowingly and willfully to give or accept any kickback or any illegal payment in connection with any qualified campaign expense of a candidate, or his authorized committees, who receives payments under section 9037.
   - **(2)** Any person who violates the provisions of paragraph (1) shall be fined not more than $10,000, or imprisoned not more than 5 years, or both.
   - **(3)** In addition to the penalty provided by paragraph (2), any person who accepts any kickback or illegal payment in connection with any qualified campaign expense of a candidate or his authorized committees shall pay to the Secretary for deposit in the matching payment account, an amount equal to 125 percent of the kickback or payment received.
+
+## Source Credit
+
+*(Added [Pub. L. 93–443, title IV, § 408(c)](https://www.govinfo.gov/link/plaw/93/public/443), Oct. 15, 1974, [88 Stat. 1302](https://www.govinfo.gov/link/statute/88/1302).)*

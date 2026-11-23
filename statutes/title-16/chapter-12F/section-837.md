@@ -3,9 +3,10 @@ title: "Section 837 - Definitions"
 usc_title: 16
 usc_section: "837"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 837"
-generated_at: "2026-03-30T02:54:22.928Z"
+generated_at: "2026-11-23T20:26:20.319Z"
+status: "active"
 ---
 
 # § 837. Definitions
@@ -19,3 +20,7 @@ As used in this chapter—
 - **(e)** “Non-Federal utility” means any utility not owned or controlled by the United States, including any entity (1) which such a utility owns or controls, in whole or in part, or is controlled by, (2) which is controlled by those controlling such utility, or (3) of which such utility is a member.
 - **(f)** “Energy requirements of any Pacific Northwest customer” means the full requirements for electric energy of (1) any purchaser from the United States for direct consumption in the Pacific Northwest, and (2) any non-Federal utility in that region in excess of (i) the hydroelectric energy available for its own use from its generating plants in the Pacific Northwest, and (ii) any additional energy available for use in the Pacific Northwest which, under a then existing contract, the utility (A) can obtain at no higher incremental cost than the rate charged by the United States, or (B) is required to accept.
 - **(g)** Terms not defined herein shall, unless the context requires otherwise, have the meaning given them in the March 1949 Glossary of Important Power and Rate Terms prepared under the supervision of the Federal Power Commission.
+
+## Source Credit
+
+*([Pub. L. 88–552, § 1](https://www.govinfo.gov/link/plaw/88/public/552), Aug. 31, 1964, [78 Stat. 756](https://www.govinfo.gov/link/statute/78/756); [Pub. L. 95–91, title III, § 302(a)](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 578](https://www.govinfo.gov/link/statute/91/578); [Pub. L. 96–501, § 8(e)](https://www.govinfo.gov/link/plaw/96/public/501), Dec. 5, 1980, [94 Stat. 2729](https://www.govinfo.gov/link/statute/94/2729).)*

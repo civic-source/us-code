@@ -3,9 +3,10 @@ title: "Section 455 - Disqualification of justice, judge, or magistrate judge"
 usc_title: 28
 usc_section: "455"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 455"
-generated_at: "2026-03-30T02:55:30.129Z"
+generated_at: "2026-11-23T20:26:36.350Z"
+status: "active"
 ---
 
 # § 455. Disqualification of justice, judge, or magistrate judge
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:55:30.129Z"
       - **(iv)** Ownership of government securities is a “financial interest” in the issuer only if the outcome of the proceeding could substantially affect the value of the securities.
 - **(e)** No justice, judge, or magistrate judge shall accept from the parties to the proceeding a waiver of any ground for disqualification enumerated in subsection (b). Where the ground for disqualification arises only under subsection (a), waiver may be accepted provided it is preceded by a full disclosure on the record of the basis for disqualification.
 - **(f)** Notwithstanding the preceding provisions of this section, if any justice, judge, magistrate judge, or bankruptcy judge to whom a matter has been assigned would be disqualified, after substantial judicial time has been devoted to the matter, because of the appearance or discovery, after the matter was assigned to him or her, that he or she individually or as a fiduciary, or his or her spouse or minor child residing in his or her household, has a financial interest in a party (other than an interest that could be substantially affected by the outcome), disqualification is not required if the justice, judge, magistrate judge, bankruptcy judge, spouse or minor child, as the case may be, divests himself or herself of the interest that provides the grounds for the disqualification.
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 908](https://www.govinfo.gov/link/statute/62/908); [Pub. L. 93–512, § 1](https://www.govinfo.gov/link/plaw/93/public/512), Dec. 5, 1974, [88 Stat. 1609](https://www.govinfo.gov/link/statute/88/1609); [Pub. L. 95–598, title II, § 214(a)](https://www.govinfo.gov/link/plaw/95/public/598), (b), Nov. 6, 1978, [92 Stat. 2661](https://www.govinfo.gov/link/statute/92/2661); [Pub. L. 100–702, title X, § 1007](https://www.govinfo.gov/link/plaw/100/public/702), Nov. 19, 1988, [102 Stat. 4667](https://www.govinfo.gov/link/statute/102/4667); [Pub. L. 101–650, title III, § 321](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5117](https://www.govinfo.gov/link/statute/104/5117).)*

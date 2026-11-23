@@ -3,9 +3,10 @@ title: "Section 277g - Agreements to correct pollution of Rio Grande"
 usc_title: 22
 usc_section: "277g"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 277g"
-generated_at: "2026-03-30T02:55:05.313Z"
+generated_at: "2026-11-23T20:26:31.974Z"
+status: "active"
 ---
 
 # § 277g. Agreements to correct pollution of Rio Grande
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.313Z"
   - **(3)** formulas for the initial division between the United States and Mexico of the cost of plans, constructions, operation, and maintenance of the facilities referred to in paragraph (1);
   - **(4)** a method for review and adjustment of the formulas referred to in paragraph (3) at intervals of five years which recognizes that such initial formulas should not be used as a precedent in their subsequent review and adjustment; and
   - **(5)** dates for the beginning and completion of construction of the facilities referred to in paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 100–465, § 2](https://www.govinfo.gov/link/plaw/100/public/465), Oct. 3, 1988, [102 Stat. 2272](https://www.govinfo.gov/link/statute/102/2272).)*

@@ -3,9 +3,10 @@ title: "Section 656 - Administration"
 usc_title: 29
 usc_section: "656"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 656"
-generated_at: "2026-03-30T02:55:18.688Z"
+generated_at: "2026-11-23T20:26:37.834Z"
+status: "active"
 ---
 
 # § 656. Administration
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:18.688Z"
   - **(1)** use, with the consent of any Federal agency, the services, facilities, and personnel of such agency, with or without reimbursement, and with the consent of any State or political subdivision thereof, accept and use the services, facilities, and personnel of any agency of such State or subdivision with reimbursement; and
   - **(2)** employ experts and consultants or organizations thereof as authorized by section 3109 of title 5 , except that contracts for such employment may be renewed annually; compensate individuals so employed at rates not in excess of the rate specified at the time of service for grade GS–18 under section 5332 of title 5 , including traveltime, and allow them while away from their homes or regular places of business, travel expenses (including per diem in lieu of subsistence) as authorized by section 5703 of title 5 for persons in the Government service employed intermittently, while so employed.
 - **(d)** There is established a Maritime Occupational Safety and Health Advisory Committee, which shall be a continuing body and shall provide advice to the Secretary in formulating maritime industry standards and regarding matters pertaining to the administration of this chapter related to the maritime industry. The composition of such advisory committee shall be consistent with the advisory committees established under subsection (b). A member of the advisory committee who is otherwise qualified may continue to serve until a successor is appointed. The Secretary may promulgate or amend regulations as necessary to implement this subsection.
+
+## Source Credit
+
+*([Pub. L. 91–596, § 7](https://www.govinfo.gov/link/plaw/91/public/596), Dec. 29, 1970, [84 Stat. 1597](https://www.govinfo.gov/link/statute/84/1597); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695); [Pub. L. 116–92, div. C, title XXXV, § 3510](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1977](https://www.govinfo.gov/link/statute/133/1977).)*

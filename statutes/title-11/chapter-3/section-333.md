@@ -3,9 +3,10 @@ title: "Section 333 - Appointment of patient care ombudsman"
 usc_title: 11
 usc_section: "333"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 333"
-generated_at: "2026-03-30T02:53:53.874Z"
+generated_at: "2026-11-23T20:25:55.339Z"
+status: "active"
 ---
 
 # § 333. Appointment of patient care ombudsman
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:53.874Z"
 - **(c)**
   - **(1)** An ombudsman appointed under subsection (a) shall maintain any information obtained by such ombudsman under this section that relates to patients (including information relating to patient records) as confidential information. Such ombudsman may not review confidential patient records unless the court approves such review in advance and imposes restrictions on such ombudsman to protect the confidentiality of such records.
   - **(2)** An ombudsman appointed under subsection (a)(2)(B) shall have access to patient records consistent with authority of such ombudsman under the Older Americans Act of 1965 and under non-Federal laws governing the State Long-Term Care Ombudsman program.
+
+## Source Credit
+
+*(Added [Pub. L. 109–8, title XI, § 1104(a)(1)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 191](https://www.govinfo.gov/link/statute/119/191).)*

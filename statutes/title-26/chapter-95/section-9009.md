@@ -3,9 +3,10 @@ title: "Section 9009 - Reports to Congress; regulations"
 usc_title: 26
 usc_section: "9009"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 9009"
-generated_at: "2026-03-30T02:55:27.889Z"
+generated_at: "2026-11-23T20:26:46.866Z"
+status: "active"
 ---
 
 # § 9009. Reports to Congress; regulations
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:27.889Z"
   - **(2)** If either such House does not, through appropriate action, disapprove the proposed rule or regulation set forth in such statement no later than 30 legislative days after receipt of such statement, then the Commission may prescribe such rule or regulation. Whenever a committee of the House of Representatives reports any resolution relating to any such rule or regulation, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion is highly privileged and is not debatable. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to. The Commission may not prescribe any rule or regulation which is disapproved by either such House under this paragraph.
   - **(3)** For purposes of this subsection, the term “legislative days” does not include any calendar day on which both Houses of the Congress are not in session.
   - **(4)** For purposes of this subsection, the term “rule or regulation” means a provision or series of interrelated provisions stating a single separable rule of law.
+
+## Source Credit
+
+*(Added [Pub. L. 92–178, title VIII, § 801](https://www.govinfo.gov/link/plaw/92/public/178), Dec. 10, 1971, [85 Stat. 569](https://www.govinfo.gov/link/statute/85/569); amended [Pub. L. 93–443, title IV](https://www.govinfo.gov/link/plaw/93/public/443), §§ 404(c)(12), (13), 406(b)(1), 409, Oct. 15, 1974, [88 Stat. 1292](https://www.govinfo.gov/link/statute/88/1292), 1293, 1296, 1303; [Pub. L. 94–283, title III, § 304(a)](https://www.govinfo.gov/link/plaw/94/public/283), May 11, 1976, [90 Stat. 498](https://www.govinfo.gov/link/statute/90/498); [Pub. L. 113–94, § 2(c)(1)](https://www.govinfo.gov/link/plaw/113/public/94), Apr. 3, 2014, [128 Stat. 1085](https://www.govinfo.gov/link/statute/128/1085).)*

@@ -3,9 +3,10 @@ title: "Section 10105 - Reports to Congress"
 usc_title: 46
 usc_section: "10105"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 10105"
-generated_at: "2026-03-30T02:56:15.553Z"
+generated_at: "2026-11-23T20:27:27.147Z"
+status: "active"
 ---
 
 # § 10105. Reports to Congress
@@ -19,3 +20,11 @@ generated_at: "2026-03-30T02:56:15.553Z"
   - **(6)** the number of credentials denied or revoked due to sexual harassment, sexual assault, or related offenses; and
   - **(7)** recommendations to support efforts of the Coast Guard to improve investigations and oversight of sexual harassment and sexual assault in the maritime sector, including funding requirements and legislative change proposals necessary to ensure compliance with title CXVI of the Don Young Coast Guard Authorization Act of 2022 and the amendments made by such title.
 - **(b)** In collecting the information required under subsection (a), the Commandant shall collect such information in a manner that protects the privacy rights of individuals who are subjects of such information.
+
+In General
+
+Privacy
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. K, title CXVI, § 11611(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4155](https://www.govinfo.gov/link/statute/136/4155).)*

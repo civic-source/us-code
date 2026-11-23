@@ -3,9 +3,10 @@ title: "Section 2232 - Construction of water resources development projects by n
 usc_title: 33
 usc_section: "2232"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2232"
-generated_at: "2026-03-30T02:55:41.114Z"
+generated_at: "2026-11-23T20:26:54.127Z"
+status: "active"
 ---
 
 # § 2232. Construction of water resources development projects by non-Federal interests
@@ -80,3 +81,23 @@ generated_at: "2026-03-30T02:55:41.114Z"
     - **(B)** the Secretary certifies that the project or separable element of the project is constructed in accordance with applicable permits and appropriate engineering and design standards; and
     - **(C)** the Secretary does not find that the project or separable element is no longer feasible.
   - **(2)** In the case of improvements determined by the Secretary pursuant to paragraph (1)(A)(i) to deviate from the national economic development plan, the Secretary shall be responsible for all operation and maintenance costs of such improvements, as described in section 2211(b) of this title , including costs in excess of the costs of the national economic development plan, if the Secretary determines that the improvements satisfy the requirements of paragraph (1).
+
+“Nothing in this section [amending this section and section 2231 of this title , repealing sections 426i–1 and 701b–13 of this title, and repealing provisions set out as a note under this section] may be construed to affect an agreement in effect on the date of enactment of this Act [ June 10, 2014 ], or an agreement that is finalized between the Corps of Engineers and a non-Federal interest on or before December 31, 2014 , under any of the following sections (as such sections were in effect on the day before such date of enactment):
+
+“A non-Federal interest may submit to the Secretary [of the Army] a report on improvements to a federally authorized harbor or inland harbor to be carried out by the non-Federal interest, containing any information necessary for the Secretary determine whether the improvements satisfy the requirements of section 204(f)(1) of the Water Resources Development Act of 1986 ( 33 U.S.C. 2232 [(f)(1)]), including—
+
+Definition of Environmental Impact Statement
+
+Demonstration Program
+
+Requirements
+
+Secretary Review of Potential Adverse Impacts
+
+Sunset
+
+Savings Provision
+
+## Source Credit
+
+*([Pub. L. 99–662, title II, § 204](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4099](https://www.govinfo.gov/link/statute/100/4099); [Pub. L. 101–640, title III, § 303](https://www.govinfo.gov/link/plaw/101/public/640), Nov. 28, 1990, [104 Stat. 4634](https://www.govinfo.gov/link/statute/104/4634); [Pub. L. 113–121, title I, § 1014(b)(1)](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1220](https://www.govinfo.gov/link/statute/128/1220); [Pub. L. 114–322, title I, § 1127](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1648](https://www.govinfo.gov/link/statute/130/1648); [Pub. L. 115–270, title I, § 1153](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3789](https://www.govinfo.gov/link/statute/132/3789); [Pub. L. 116–260, div. AA, title I, § 105(a)](https://www.govinfo.gov/link/plaw/116/public/260), (b), Dec. 27, 2020, [134 Stat. 2622](https://www.govinfo.gov/link/statute/134/2622); [Pub. L. 118–272, div. A, title I, § 1110(a)](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3009](https://www.govinfo.gov/link/statute/138/3009).)*

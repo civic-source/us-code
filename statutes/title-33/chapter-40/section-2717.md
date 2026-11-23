@@ -3,9 +3,10 @@ title: "Section 2717 - Litigation, jurisdiction, and venue"
 usc_title: 33
 usc_section: "2717"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2717"
-generated_at: "2026-03-30T02:55:41.132Z"
+generated_at: "2026-11-23T20:26:54.219Z"
+status: "active"
 ---
 
 # § 2717. Litigation, jurisdiction, and venue
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:41.132Z"
     - **(A)** against a minor until the earlier of the date when such minor reaches 18 years of age or the date on which a legal representative is duly appointed for such minor, or
     - **(B)** against an incompetent person until the earlier of the date on which such incompetent’s incompetency ends or the date on which a legal representative is duly appointed for such incompetent.
 - **(g)** Before the date of completion of a removal action, no person may bring an action under this Act, section 1321 of this title , or chapter 7 of title 5 challenging any decision relating to such removal action that is made by an on-scene coordinator appointed under the National Contingency Plan.
+
+## Source Credit
+
+*([Pub. L. 101–380, title I, § 1017](https://www.govinfo.gov/link/plaw/101/public/380), Aug. 18, 1990, [104 Stat. 504](https://www.govinfo.gov/link/statute/104/504); [Pub. L. 119–60, div. G, title LXXIV, § 7403](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1784](https://www.govinfo.gov/link/statute/139/1784).)*

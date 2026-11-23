@@ -3,9 +3,10 @@ title: "Section 6242 - Whistleblower protection program"
 usc_title: 10
 usc_section: "6242"
 chapter: 606
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6242"
-generated_at: "2026-03-30T02:53:38.224Z"
+generated_at: "2026-11-23T20:25:52.024Z"
+status: "active"
 ---
 
 # § 6242. Whistleblower protection program
@@ -56,3 +57,33 @@ generated_at: "2026-03-30T02:53:38.224Z"
 - **(m)**
   - **(1)** Not later than 30 days after the commencement of each fiscal year, the Director shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the investigations undertaken under subsection (j)(1)(B) during the preceding fiscal year, including a summary of the results of each such investigation.
   - **(2)** A report under paragraph (1) may not identify or otherwise provide any information about an individual submitting a complaint under this section without the consent of the individual.
+
+Program Required
+
+Covered Individuals
+
+Protected Disclosures
+
+Persons and Entities to Which Disclosures May Be Made
+
+Official Capacity of Persons to Whom Information Is Disclosed
+
+Assistance and Guidance
+
+Regulations
+
+Notification to Covered Individuals
+
+Complaint by Covered Individuals
+
+Investigation by Office of Hearings and Appeals
+
+Remedial Action
+
+Relationship to Other Laws
+
+Annual Report
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2)(B), Dec. 18, 2025, [139 Stat. 1413](https://www.govinfo.gov/link/statute/139/1413), 1462.)*

@@ -3,9 +3,10 @@ title: "Section 12745 - Qualification as affordable housing"
 usc_title: 42
 usc_section: "12745"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12745"
-generated_at: "2026-03-30T02:56:11.430Z"
+generated_at: "2026-11-23T20:27:23.434Z"
+status: "active"
 ---
 
 # § 12745. Qualification as affordable housing
@@ -40,3 +41,9 @@ generated_at: "2026-03-30T02:56:11.430Z"
       - **(ii)** ensure that the housing will remain affordable to a reasonable range of low-income homebuyers; or
     - **(B)** recapture the investment provided under this subchapter in order to assist other persons in accordance with the requirements of this subchapter, except where there are no net proceeds or where the net proceeds are insufficient to repay the full amount of the assistance; and
   - **(4)** if newly constructed, meets the energy efficiency standards promulgated by the Secretary in accordance with section 12709 of this title .
+
+home investment partnerships program
+
+## Source Credit
+
+*([Pub. L. 101–625, title II, § 215](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4101](https://www.govinfo.gov/link/statute/104/4101); [Pub. L. 102–550, title II](https://www.govinfo.gov/link/plaw/102/public/550), §§ 208, 209, Oct. 28, 1992, [106 Stat. 3754](https://www.govinfo.gov/link/statute/106/3754); [Pub. L. 103–233, title II, § 203](https://www.govinfo.gov/link/plaw/103/public/233), Apr. 11, 1994, [108 Stat. 364](https://www.govinfo.gov/link/statute/108/364); [Pub. L. 105–276, title V, § 599B(b)](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2660](https://www.govinfo.gov/link/statute/112/2660); [Pub. L. 106–569, title IX, § 904](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 3027](https://www.govinfo.gov/link/statute/114/3027).)*

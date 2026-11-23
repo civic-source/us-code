@@ -3,9 +3,10 @@ title: "Section 522 - Definitions"
 usc_title: 47
 usc_section: "522"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 522"
-generated_at: "2026-03-30T02:56:24.517Z"
+generated_at: "2026-11-23T20:27:28.919Z"
+status: "active"
 ---
 
 # § 522. Definitions
@@ -36,3 +37,7 @@ For purposes of this subchapter—
   - **(18)** the term “State” means any State, or political subdivision, or agency thereof;
   - **(19)** the term “usable activated channels” means activated channels of a cable system, except those channels whose use for the distribution of broadcast signals would conflict with technical and safety regulations as determined by the Commission; and
   - **(20)** the term “video programming” means programming provided by, or generally considered comparable to programming provided by, a television broadcast station.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title VI, § 602, as added [Pub. L. 98–549, § 2](https://www.govinfo.gov/link/plaw/98/public/549), Oct. 30, 1984, [98 Stat. 2780](https://www.govinfo.gov/link/statute/98/2780); amended [Pub. L. 102–385, § 2(c)](https://www.govinfo.gov/link/plaw/102/public/385), Oct. 5, 1992, [106 Stat. 1463](https://www.govinfo.gov/link/statute/106/1463); [Pub. L. 104–104, title III](https://www.govinfo.gov/link/plaw/104/public/104), §§ 301(a), 302(b)(2), Feb. 8, 1996, [110 Stat. 114](https://www.govinfo.gov/link/statute/110/114), 124.)*

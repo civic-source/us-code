@@ -3,9 +3,10 @@ title: "Section 2204b - Rural development policy"
 usc_title: 7
 usc_section: "2204b"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2204b"
-generated_at: "2026-03-30T02:53:42.379Z"
+generated_at: "2026-11-23T20:25:41.492Z"
+status: "active"
 ---
 
 # § 2204b. Rural development policy
@@ -41,3 +42,15 @@ generated_at: "2026-03-30T02:53:42.379Z"
   - **(4)** facilitate and expedite joint funding of rural projects through Federal programs;
   - **(5)** correct administrative problems in Federal programs that delay or hinder the effective delivery of services, assistance, or benefits to rural areas; and
   - **(6)** simplify, standardize, and reduce the complexity of applications, reports, and other forms required under Federal rural development programs.
+
+Cooperative agreements.—
+
+In general
+
+Cooperators
+
+“Not later than 1 year after the date of enactment of this Act [ Apr. 4, 1996 ], the Secretary of Agriculture shall develop a streamlined, simplified, and uniform application which shall be used in applying for assistance under all of the following:
+
+## Source Credit
+
+*([Pub. L. 92–419, title VI, § 607](https://www.govinfo.gov/link/plaw/92/public/419), as added [Pub. L. 96–355, § 2](https://www.govinfo.gov/link/plaw/96/public/355), Sept. 24, 1980, [94 Stat. 1171](https://www.govinfo.gov/link/statute/94/1171); amended [Pub. L. 104–127, title VII, § 759A](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1138](https://www.govinfo.gov/link/statute/110/1138); [Pub. L. 117–286, § 4(a)(28)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4308](https://www.govinfo.gov/link/statute/136/4308).)*

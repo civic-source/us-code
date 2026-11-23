@@ -3,9 +3,10 @@ title: "Section 5318A - Special measures for jurisdictions, financial institutio
 usc_title: 31
 usc_section: "5318A"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 5318A"
-generated_at: "2026-03-30T02:55:34.069Z"
+generated_at: "2026-11-23T20:26:51.871Z"
+status: "active"
 ---
 
 # § 5318A. Special measures for jurisdictions, financial institutions, international transactions, or types of accounts of primary money laundering concern
@@ -70,3 +71,75 @@ generated_at: "2026-03-30T02:55:34.069Z"
   - **(3)** The Secretary shall promulgate regulations defining beneficial ownership of an account for purposes of this section and subsections (i) and (j) of section 5318. Such regulations shall address issues related to an individual’s authority to fund, direct, or manage the account (including, without limitation, the power to direct payments into or out of the account), and an individual’s material interest in the income or corpus of the account, and shall ensure that the identification of individuals under this section or subsection (i) or (j) of section 5318 does not extend to any individual whose beneficial interest in the income or corpus of the account is immaterial.
   - **(4)** The Secretary may, by regulation, further define the terms in paragraphs (1), (2), and (3), and define other terms for the purposes of this section, as the Secretary deems appropriate.
 - **(f)** In any judicial review of a finding of the existence of a primary money laundering concern, or of the requirement for 1 or more special measures with respect to a primary money laundering concern, made under this section, if the designation or imposition, or both, were based on classified information (as defined in section 1(a) of the Classified Information Procedures Act (18 U.S.C. App.), 2 2 So in original. A second closing parenthesis probably should precede the comma. such information may be submitted by the Secretary to the reviewing court ex parte and in camera. This subsection does not confer or imply any right to judicial review of any finding made or any requirement imposed under this section.
+
+International Counter-Money Laundering Requirements.—
+
+In general
+
+Form of requirement
+
+Duration of orders; rulemaking
+
+Process for selecting special measures
+
+No limitation on other authority
+
+Special Measures
+
+Recordkeeping and reporting of certain financial transactions.—
+
+In general
+
+Form of records and reports
+
+Information relating to beneficial ownership
+
+Information relating to certain payable-through accounts
+
+Information relating to certain correspondent accounts
+
+Prohibitions or conditions on opening or maintaining certain correspondent or payable-through accounts
+
+Consultations and Information To Be Considered in Finding Jurisdictions, Institutions, Types of Accounts, or Transactions To Be of Primary Money Laundering Concern.—
+
+In general
+
+Additional considerations
+
+Jurisdictional factors
+
+Institutional factors
+
+Notification of Special Measures Invoked by the Secretary
+
+Definitions
+
+Bank definitions
+
+Account
+
+Correspondent account
+
+Payable-through account
+
+Definitions applicable to institutions other than banks
+
+Regulatory definition of beneficial ownership
+
+Other terms
+
+Classified Information
+
+Determination
+
+Classified Information
+
+Availability of Information
+
+Penalties
+
+Injunctions
+
+## Source Credit
+
+*(Added [Pub. L. 107–56, title III, § 311(a)](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 298](https://www.govinfo.gov/link/statute/115/298); amended [Pub. L. 108–177, title III, § 376](https://www.govinfo.gov/link/plaw/108/public/177), Dec. 13, 2003, [117 Stat. 2630](https://www.govinfo.gov/link/statute/117/2630); [Pub. L. 108–458, title VI, § 6203(e)](https://www.govinfo.gov/link/plaw/108/public/458), (f), Dec. 17, 2004, [118 Stat. 3747](https://www.govinfo.gov/link/statute/118/3747); [Pub. L. 109–293, title V, § 501](https://www.govinfo.gov/link/plaw/109/public/293), Sept. 30, 2006, [120 Stat. 1350](https://www.govinfo.gov/link/statute/120/1350).)*

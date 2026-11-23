@@ -3,9 +3,10 @@ title: "Section 106 - Contributions by employer to accident and health plans"
 usc_title: 26
 usc_section: "106"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 106"
-generated_at: "2026-03-30T02:55:27.622Z"
+generated_at: "2026-11-23T20:26:45.332Z"
+status: "active"
 ---
 
 # § 106. Contributions by employer to accident and health plans
@@ -49,3 +50,11 @@ generated_at: "2026-03-30T02:55:27.622Z"
       - **(ii)** In the case of a qualified HSA distribution to any employee, the failure to offer such distribution to any eligible individual covered under a high deductible health plan of the employer shall (notwithstanding section 4980G(d)) be treated for purposes of section 4980G as a failure to meet the requirements of section 4980G(b).
 - **(f)** For purposes of this section and section 105, expenses incurred for menstrual care products (as defined in section 223(d)(2)(D)) shall be treated as incurred for medical care.
 - **(g)** For purposes of this section and section 105, payments or reimbursements from a qualified small employer health reimbursement arrangement (as defined in section 9831(d)) of an individual for medical care (as defined in section 213(d)) shall not be treated as paid or reimbursed under employer-provided coverage for medical expenses under an accident or health plan if for the month in which such medical care is provided the individual does not have minimum essential coverage (within the meaning of section 5000A(f)).
+
+General rule
+
+Special rule for collective bargaining agreements
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 32; [Pub. L. 99–272, title X, § 10001(b)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 223](https://www.govinfo.gov/link/statute/100/223); [Pub. L. 99–514, title XI](https://www.govinfo.gov/link/plaw/99/public/514), §§ 1114(b)(1), 1151(j)(2), Oct. 22, 1986, [100 Stat. 2450](https://www.govinfo.gov/link/statute/100/2450), 2508; [Pub. L. 100–647, title I, § 1018(t)(7)(A)](https://www.govinfo.gov/link/plaw/100/public/647), title III, § 3011(b)(1), Nov. 10, 1988, [102 Stat. 3589](https://www.govinfo.gov/link/statute/102/3589), 3624; [Pub. L. 101–239, title VII, § 7862(c)(1)(A)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2432](https://www.govinfo.gov/link/statute/103/2432); [Pub. L. 104–191, title III](https://www.govinfo.gov/link/plaw/104/public/191), §§ 301(c)(1), 321(c)(2), Aug. 21, 1996, [110 Stat. 2048](https://www.govinfo.gov/link/statute/110/2048), 2058; [Pub. L. 106–554, § 1(a)(7) [title II, § 202(a)(2), (b)(2)(A), (6), (10)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–628, 2763A–629; [Pub. L. 108–173, title XII, § 1201(d)(1)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2476](https://www.govinfo.gov/link/statute/117/2476); [Pub. L. 109–432, div. A, title III, § 302(a)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 2948](https://www.govinfo.gov/link/statute/120/2948); [Pub. L. 111–148, title IX, § 9003(c)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 854](https://www.govinfo.gov/link/statute/124/854); [Pub. L. 113–295, div. A, title II, § 221(a)(17)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4039](https://www.govinfo.gov/link/statute/128/4039); [Pub. L. 114–255, div. C, title XVIII, § 18001(a)(2)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1341](https://www.govinfo.gov/link/statute/130/1341); [Pub. L. 116–136, div. A, title III, § 3702(c)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 416](https://www.govinfo.gov/link/statute/134/416).)*

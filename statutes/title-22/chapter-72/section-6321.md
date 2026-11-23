@@ -3,9 +3,10 @@ title: "Section 6321 - Bilateral and multilateral initiatives"
 usc_title: 22
 usc_section: "6321"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6321"
-generated_at: "2026-03-30T02:55:05.427Z"
+generated_at: "2026-11-23T20:26:32.606Z"
+status: "active"
 ---
 
 # § 6321. Bilateral and multilateral initiatives
@@ -23,3 +24,11 @@ It is the sense of the Congress that in order to maintain and enhance internatio
   - **(9)** develop an institutional means for IAEA member nations to share intelligence material with the IAEA on possible safeguards violations without compromising national security or intelligence sources or methods;
   - **(10)** require any exporter of a sensitive nuclear facility or sensitive nuclear technology to a non-nuclear-weapon state to notify the IAEA prior to export and to require safeguards over that facility or technology, regardless of its destination; and
   - **(11)** seek agreement among the parties to the Treaty to apply IAEA safeguards in perpetuity and to establish new limits on the right to withdraw from the Treaty.
+
+Sense of Congress Regarding Initiation of Dialogue Between the IAEA and the OECD
+
+Contingent Report
+
+## Source Credit
+
+*([Pub. L. 103–236, title VIII, § 841](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 522](https://www.govinfo.gov/link/statute/108/522).)*

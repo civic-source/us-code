@@ -3,9 +3,10 @@ title: "Section 13383 - Director of Climate Protection"
 usc_title: 42
 usc_section: "13383"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13383"
-generated_at: "2026-03-30T02:56:11.443Z"
+generated_at: "2026-11-23T20:27:23.486Z"
+status: "active"
 ---
 
 # § 13383. Director of Climate Protection
@@ -15,3 +16,7 @@ Within 6 months after October 24, 1992 , the Secretary shall establish, within t
   - **(1)** in the absence of the Secretary, serve as the Secretary’s representative for interagency and multilateral policy discussions of global climate change, including the activities of the Committee on Earth and Environmental Sciences as established by the Global Change Research Act of 1990 ( Public Law 101–606 ) [ 15 U.S.C. 2921 et seq.] and the Policy Coordinating Committee Working Group on Climate Change;
   - **(2)** monitor, in cooperation with other Federal agencies, domestic and international policies for their effects on the generation of greenhouse gases; and
   - **(3)** have the authority to participate in the planning activities of relevant Department of Energy programs.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XVI, § 1603](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3001](https://www.govinfo.gov/link/statute/106/3001).)*

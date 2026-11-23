@@ -3,9 +3,10 @@ title: "Section 356g - Standards for regenerative medicine and regenerative adva
 usc_title: 21
 usc_section: "356g"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 356g"
-generated_at: "2026-03-30T02:54:54.243Z"
+generated_at: "2026-11-23T20:26:27.615Z"
+status: "active"
 ---
 
 # § 356g. Standards for regenerative medicine and regenerative advanced therapies
@@ -18,3 +19,11 @@ generated_at: "2026-03-30T02:54:54.243Z"
     - **(C)** work with stakeholders, such as those described in subsection (a), as appropriate, in the development of such standards.
   - **(2)** Not later than 1 year after the development of standards as described in subsection (a), the Secretary shall review relevant regulations and guidance and, through a public process, update such regulations and guidance as the Secretary determines appropriate.
 - **(c)** For purposes of this section, the terms “regenerative medicine therapy” and “regenerative advanced therapy” have the meanings given such terms in section 356(g) of this title .
+
+Draft Guidance
+
+Final Guidance
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 506G, as added [Pub. L. 114–255, div. A, title III, § 3036](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1104](https://www.govinfo.gov/link/statute/130/1104); amended [Pub. L. 115–52, title IX, § 901(b)](https://www.govinfo.gov/link/plaw/115/public/52), Aug. 18, 2017, [131 Stat. 1076](https://www.govinfo.gov/link/statute/131/1076).)*

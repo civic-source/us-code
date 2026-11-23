@@ -3,9 +3,10 @@ title: "Section 2391 - Missions and staffs abroad"
 usc_title: 22
 usc_section: "2391"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2391"
-generated_at: "2026-03-30T02:55:05.363Z"
+generated_at: "2026-11-23T20:26:32.278Z"
+status: "active"
 ---
 
 # § 2391. Missions and staffs abroad
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:05.363Z"
 - **(b)** The chief and his deputy of each special mission or staff carrying out the purposes of subchapter I of this chapter shall be appointed by the President, and may, notwithstanding any other law, be removed by the President at his discretion. Such chief shall be entitled to receive such compensation and allowances as are authorized by the Foreign Service Act of 1980 [ 22 U.S.C. 3901 et seq.], not to exceed those authorized for a chief of mission (as defined in section 102(a)(3) 1 1 See References in Text note below. of that Act [ 22 U.S.C. 3902(a)(3) ]), as the President shall determine to be appropriate.
 - **(c)** The President may appoint any United States citizen who is not an employee of the United States Government or may assign any United States citizen who is a United States Government employee to serve as Chairman of the Development Assistance Committee or any successor committee thereto of the Organization for Economic Cooperation and Development upon election thereto by members of said Committee, and, in his discretion, may terminate such appointment or assignment, notwithstanding any other provision of law. Such person may receive such compensation and allowances as are authorized by the Foreign Service Act of 1980 [ 22 U.S.C. 3901 et seq.], not to exceed those authorized for a chief of mission (as defined in section 102(a)(3) 1 of that Act [ 22 U.S.C. 3902(a)(3) ]), as the President shall determine to be appropriate. Such person (if not a United States Government employee who is assigned to serve as Chairman) shall be deemed to be an employee of the United States Government for purposes of chapters 81, 83, 87, and 89 of title 5. Such person may also, in the President’s discretion, receive any other benefits and perquisites available under this chapter to chiefs of special missions or staffs outside the United States established under this section.
 - **(d)** Wherever practicable, especially in the case of the smaller programs, assistance under subchapter I of this chapter shall be administered under the direction of the Chief of the United States Diplomatic Mission by the principal economic officer of the mission.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. III, § 631, Sept. 4, 1961, [75 Stat. 453](https://www.govinfo.gov/link/statute/75/453); [Pub. L. 88–205](https://www.govinfo.gov/link/plaw/88/public/205), pt. III, § 302(d), Dec. 16, 1963, [77 Stat. 389](https://www.govinfo.gov/link/statute/77/389); [Pub. L. 89–171](https://www.govinfo.gov/link/plaw/89/public/171), pt. III, § 302(f), Sept. 6, 1965, [79 Stat. 660](https://www.govinfo.gov/link/statute/79/660); [Pub. L. 95–92, § 7(c)](https://www.govinfo.gov/link/plaw/95/public/92), Aug. 4, 1977, [91 Stat. 617](https://www.govinfo.gov/link/statute/91/617); [Pub. L. 96–465, title II, § 2203(c)](https://www.govinfo.gov/link/plaw/96/public/465), (d), Oct. 17, 1980, [94 Stat. 2159](https://www.govinfo.gov/link/statute/94/2159).)*

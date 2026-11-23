@@ -3,9 +3,10 @@ title: "Section 2 - Oversight of NSF major multi-user research facility projects
 usc_title: 42
 usc_section: "2"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T02:56:11.128Z"
+generated_at: "2026-11-23T20:27:21.955Z"
+status: "active"
 ---
 
 # § 1862s–2. Oversight of NSF major multi-user research facility projects
@@ -67,3 +68,7 @@ generated_at: "2026-03-30T02:56:11.128Z"
 - **(g)** In this section:
   - **(1)** The term “appropriate committees of Congress” means the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate and the Committee on Science, Space, and Technology and the Committee on Appropriations of the House of Representatives.
   - **(2)** The term “major multi-user research facility project” means a science and engineering facility project that exceeds $100,000,000 in total construction, acquisition, or upgrade costs to the Foundation.
+
+## Source Credit
+
+*([Pub. L. 114–329, title I, § 110](https://www.govinfo.gov/link/plaw/114/public/329), Jan. 6, 2017, [130 Stat. 2988](https://www.govinfo.gov/link/statute/130/2988); [Pub. L. 116–283, div. A, title II, § 267](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3502](https://www.govinfo.gov/link/statute/134/3502).)*

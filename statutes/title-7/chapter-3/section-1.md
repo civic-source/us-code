@@ -3,9 +3,10 @@ title: "Section 1 - Registration requirements"
 usc_title: 7
 usc_section: "1"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-30T02:53:42.254Z"
+generated_at: "2026-11-23T20:25:40.909Z"
+status: "active"
 ---
 
 # § 87f–1. Registration requirements
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:42.254Z"
 - **(c)** The Secretary shall issue a certificate of registration to persons who comply with the provisions of this section. The certificate of registration issued in accordance with this section shall be renewed annually. If there has been any change in the information required under subsection (b), the person holding such certificate shall, within thirty days of the discovery of such change, notify the Secretary of such change. No person shall engage in the business of buying grain for sale in foreign commerce, and in the business of handling, weighing, or transporting of grain in foreign commerce unless the person has registered with the Secretary as required by this chapter and has an unsuspended and unrevoked certificate of registration.
 - **(d)** The Secretary may suspend or revoke any certificate of registration issued under this section whenever, after the person holding such certificate has been afforded an opportunity for a hearing in accordance with sections 554, 556, and 557 of title 5, the Secretary shall determine that such person has violated any provision of this chapter or of the regulations promulgated thereunder, or has been convicted of any violation involving the handling, weighing, or inspection of grain under title 18.
 - **(e)** The Secretary shall charge and collect fees from any person registered under this section. The amount of such fees shall be determined on the basis of the costs of the Secretary in administering the registration required by this section. Such fees shall be deposited in, and used as part of, the fund described in section 79(j) of this title .
+
+## Source Credit
+
+*(Aug. 11, 1916, ch. 313, pt. B, § 17A, as added [Pub. L. 94–582, § 22](https://www.govinfo.gov/link/plaw/94/public/582), Oct. 21, 1976, [90 Stat. 2886](https://www.govinfo.gov/link/statute/90/2886); amended [Pub. L. 95–113, title XVI, § 1604](https://www.govinfo.gov/link/plaw/95/public/113) (l), Sept. 29, 1977, [91 Stat. 1029](https://www.govinfo.gov/link/statute/91/1029); [Pub. L. 103–156, § 12(p)](https://www.govinfo.gov/link/plaw/103/public/156), Nov. 24, 1993, [107 Stat. 1529](https://www.govinfo.gov/link/statute/107/1529); [Pub. L. 103–354, title II, § 293(a)(7)](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3237](https://www.govinfo.gov/link/statute/108/3237).)*

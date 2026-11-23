@@ -3,9 +3,10 @@ title: "Section 8 - Universal ratings symbols"
 usc_title: 15
 usc_section: "8"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 8"
-generated_at: "2026-03-30T02:54:08.052Z"
+generated_at: "2026-11-23T20:26:03.535Z"
+status: "active"
 ---
 
 # § 78o–8. Universal ratings symbols
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:08.052Z"
   - **(2)** clearly define and disclose the meaning of any symbol used by the nationally recognized statistical rating organization to denote a credit rating; and
   - **(3)** apply any symbol described in paragraph (2) in a manner that is consistent for all types of securities and money market instruments for which the symbol is used.
 - **(b)** Nothing in this section shall prohibit a nationally recognized statistical rating organization from using distinct sets of symbols to denote credit ratings for different types of securities or money market instruments.
+
+## Source Credit
+
+*([Pub. L. 111–203, title IX, § 938](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1885](https://www.govinfo.gov/link/statute/124/1885).)*

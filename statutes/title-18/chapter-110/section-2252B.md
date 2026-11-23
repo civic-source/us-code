@@ -3,9 +3,10 @@ title: "Section 2252B - Misleading domain names on the Internet"
 usc_title: 18
 usc_section: "2252B"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2252B"
-generated_at: "2026-03-30T02:54:16.498Z"
+generated_at: "2026-11-23T20:26:08.566Z"
+status: "active"
 ---
 
 # § 2252B. Misleading domain names on the Internet
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:16.498Z"
   - **(2)** is patently offensive to prevailing standards in the adult community as a whole with respect to what is suitable material for minors; and
   - **(3)** lacks serious literary, artistic, political, or scientific value for minors.
 - **(e)** For the purposes of subsection (d), the term “sex” means acts of masturbation, sexual intercourse, or physcial 1 1 So in original. Probably should be “physical”. contact with a person’s genitals, or the condition of human male or female genitals when in a state of sexual stimulation or arousal.
+
+## Source Credit
+
+*(Added [Pub. L. 108–21, title V, § 521(a)](https://www.govinfo.gov/link/plaw/108/public/21), Apr. 30, 2003, [117 Stat. 686](https://www.govinfo.gov/link/statute/117/686); amended [Pub. L. 109–248, title II, § 206(b)(4)](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 614](https://www.govinfo.gov/link/statute/120/614).)*

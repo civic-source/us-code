@@ -3,9 +3,10 @@ title: "Section 470ee - Prohibited acts and criminal penalties"
 usc_title: 16
 usc_section: "470ee"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 470ee"
-generated_at: "2026-03-30T02:54:22.854Z"
+generated_at: "2026-11-23T20:26:20.064Z"
+status: "active"
 ---
 
 # § 470ee. Prohibited acts and criminal penalties
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:22.854Z"
 - **(e)** The prohibitions contained in this section shall take effect on October 31, 1979 .
 - **(f)** Nothing in subsection (b)(1) of this section shall be deemed applicable to any person with respect to an archaeological resource which was in the lawful possession of such person prior to October 31, 1979 .
 - **(g)** Nothing in subsection (d) of this section shall be deemed applicable to any person with respect to the removal of arrowheads located on the surface of the ground.
+
+## Source Credit
+
+*([Pub. L. 96–95, § 6](https://www.govinfo.gov/link/plaw/96/public/95), Oct. 31, 1979, [93 Stat. 724](https://www.govinfo.gov/link/statute/93/724); [Pub. L. 100–588, § 1(b)](https://www.govinfo.gov/link/plaw/100/public/588), (c), Nov. 3, 1988, [102 Stat. 2983](https://www.govinfo.gov/link/statute/102/2983).)*

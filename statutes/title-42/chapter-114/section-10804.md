@@ -3,9 +3,10 @@ title: "Section 10804 - Use of allotments"
 usc_title: 42
 usc_section: "10804"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10804"
-generated_at: "2026-03-30T02:56:11.392Z"
+generated_at: "2026-11-23T20:27:23.259Z"
+status: "active"
 ---
 
 # § 10804. Use of allotments
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.392Z"
   - **(2)** An eligible system may not use more than 10 percent of any allotment under this subchapter for any fiscal year for the costs of providing technical assistance and training to carry out this subchapter.
 - **(c)** An eligible system may use its allotment under this subchapter to provide representation to individuals with mental illness in Federal facilities who request representation by the eligible system. Representatives of such individuals from such system shall be accorded all the rights and authority accorded to other representatives of residents of such facilities pursuant to State law and other Federal laws.
 - **(d)** The definition of “individual with a mental illness” contained in section 10802(4)(B)(iii) 2 2 See References in Text note below. of this title shall apply, and thus an eligible system may use its allotment under this subchapter to provide representation to such individuals, only if the total allotment under this subchapter for any fiscal year is $30,000,000 or more, and in such case, an eligible system must give priority to representing persons with mental illness as defined in subparagraphs (A) and (B)(i) of section 10802(4) of this title .
+
+## Source Credit
+
+*([Pub. L. 99–319, title I, § 104](https://www.govinfo.gov/link/plaw/99/public/319), May 23, 1986, [100 Stat. 479](https://www.govinfo.gov/link/statute/100/479); [Pub. L. 100–509, § 7(a)](https://www.govinfo.gov/link/plaw/100/public/509), (b)(1), Oct. 20, 1988, [102 Stat. 2544](https://www.govinfo.gov/link/statute/102/2544); [Pub. L. 102–173](https://www.govinfo.gov/link/plaw/102/public/173), §§ 5, 10(2), Nov. 27, 1991, [105 Stat. 1217](https://www.govinfo.gov/link/statute/105/1217), 1219; [Pub. L. 106–310, div. B, title XXXII, § 3206(c)](https://www.govinfo.gov/link/plaw/106/public/310), Oct. 17, 2000, [114 Stat. 1194](https://www.govinfo.gov/link/statute/114/1194).)*

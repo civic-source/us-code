@@ -3,9 +3,10 @@ title: "Section 15911 - Denali Commission"
 usc_title: 42
 usc_section: "15911"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 15911"
-generated_at: "2026-03-30T02:56:11.463Z"
+generated_at: "2026-11-23T20:27:23.585Z"
+status: "active"
 ---
 
 # § 15911. Denali Commission
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:11.463Z"
     - **(B)** The Commission shall make a public announcement of any change to the information made available under subparagraph (A) at the earliest practicable time.
   - **(4)** The Commission shall keep, and make available to the public, a transcript, electronic recording, or minutes from each Commission meeting, except for portions of the meeting closed under paragraph (2).
 - **(d)** There is authorized to be appropriated to the Commission not more than $55,000,000 for each of fiscal years 2006 through 2015 to carry out subsection (b).
+
+## Source Credit
+
+*([Pub. L. 109–58, title III, § 356](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 719](https://www.govinfo.gov/link/statute/119/719).)*

@@ -3,9 +3,10 @@ title: "Section 90103 - Board of directors"
 usc_title: 36
 usc_section: "90103"
 chapter: 901
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 90103"
-generated_at: "2026-03-30T02:55:44.700Z"
+generated_at: "2026-11-23T20:26:58.917Z"
+status: "active"
 ---
 
 # § 90103. Board of directors
@@ -27,3 +28,21 @@ generated_at: "2026-03-30T02:55:44.700Z"
 - **(e)** The board shall meet at the call of the chair of the board for regularly scheduled meetings, except that the board shall meet not less often than annually.
 - **(f)** Directors shall serve without compensation but may receive travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5.
 - **(g)** Directors are not personally liable, except for gross negligence.
+
+General
+
+Members and Appointment
+
+Chair
+
+Quorum
+
+Meetings
+
+Reimbursement of Expenses
+
+Liability of Directors
+
+## Source Credit
+
+*(Added [Pub. L. 107–252, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1718](https://www.govinfo.gov/link/statute/116/1718), § 152603; renumbered § 90103, [Pub. L. 113–237, § 3(c)(6)(B)](https://www.govinfo.gov/link/plaw/113/public/237), Dec. 18, 2014, [128 Stat. 2840](https://www.govinfo.gov/link/statute/128/2840).)*

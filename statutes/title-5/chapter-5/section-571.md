@@ -3,9 +3,10 @@ title: "Section 571 - Definitions"
 usc_title: 5
 usc_section: "571"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 571"
-generated_at: "2026-03-30T02:52:55.989Z"
+generated_at: "2026-11-23T20:25:31.725Z"
+status: "active"
 ---
 
 # § 571. Definitions
@@ -30,3 +31,23 @@ For the purposes of this subchapter, the term—
     - **(B)** for a proceeding without named parties, a person who will be significantly affected by the decision in the proceeding and who participates in the proceeding;
   - **(11)** “person” has the same meaning as in section 551(2) of this title ; and
   - **(12)** “roster” means a list of persons qualified to provide services as neutrals.
+
+“The Congress finds that—
+
+Promulgation of Agency Policy
+
+Dispute Resolution Specialists
+
+Training
+
+Procedures for Grants and Contracts.—
+
+Representation of Parties
+
+Representation and Assistance by Nonattorneys
+
+Disqualification of Representation or Assistance
+
+## Source Credit
+
+*(Added [Pub. L. 101–552, § 4(b)](https://www.govinfo.gov/link/plaw/101/public/552), Nov. 15, 1990, [104 Stat. 2738](https://www.govinfo.gov/link/statute/104/2738), § 581; renumbered § 571 and amended [Pub. L. 102–354](https://www.govinfo.gov/link/plaw/102/public/354), §§ 3(b)(2), 5(b)(1), (2), Aug. 26, 1992, [106 Stat. 944](https://www.govinfo.gov/link/statute/106/944), 946; [Pub. L. 104–320, § 2](https://www.govinfo.gov/link/plaw/104/public/320), Oct. 19, 1996, [110 Stat. 3870](https://www.govinfo.gov/link/statute/110/3870).)*

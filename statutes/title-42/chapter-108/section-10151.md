@@ -3,9 +3,10 @@ title: "Section 10151 - Findings and purposes"
 usc_title: 42
 usc_section: "10151"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10151"
-generated_at: "2026-03-30T02:56:11.381Z"
+generated_at: "2026-11-23T20:27:23.211Z"
+status: "active"
 ---
 
 # § 10151. Findings and purposes
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.381Z"
 - **(b)** The purposes of this part are—
   - **(1)** to provide for the utilization of available spent nuclear fuel pools at the site of each civilian nuclear power reactor to the extent practical and the addition of new spent nuclear fuel storage capacity where practical at the site of such reactor; and
   - **(2)** to provide, in accordance with the provisions of this part, for the establishment of a federally owned and operated system for the interim storage of spent nuclear fuel at one or more facilities owned by the Federal Government with not more than 1,900 metric tons of capacity to prevent disruptions in the orderly operation of any civilian nuclear power reactor that cannot reasonably provide adequate spent nuclear fuel storage capacity at the site of such reactor when needed.
+
+## Source Credit
+
+*([Pub. L. 97–425, title I, § 131](https://www.govinfo.gov/link/plaw/97/public/425), Jan. 7, 1983, [96 Stat. 2229](https://www.govinfo.gov/link/statute/96/2229).)*

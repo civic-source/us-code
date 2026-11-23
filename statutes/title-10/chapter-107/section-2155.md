@@ -3,9 +3,10 @@ title: "Section 2155 - Joint professional military education Phase II program of
 usc_title: 10
 usc_section: "2155"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2155"
-generated_at: "2026-03-30T02:53:38.145Z"
+generated_at: "2026-11-23T20:25:51.462Z"
+status: "active"
 ---
 
 # § 2155. Joint professional military education Phase II program of instruction
@@ -26,3 +27,15 @@ generated_at: "2026-03-30T02:53:38.145Z"
 - **(d)** Not later than September 30, 2009 , for courses of instruction in a Phase II program of instruction that is offered at senior level service school that has been designated by the Secretary of Defense as a joint professional military education institution—
   - **(1)** the percentage of students enrolled in any such course who are officers of the armed force that administers the school may not exceed 60 percent, with the remaining services proportionally represented; and
   - **(2)** of the faculty at the school who are active-duty officers who provide instruction in such courses, the percentage who are officers of the armed force that administers the school may not exceed 60 percent, with the remaining services proportionally represented.
+
+Prerequisite of Completion of Joint Professional Military Education Phase I Program of Instruction
+
+Phase II Requirements
+
+Curriculum Content
+
+Student Ratio; Faculty Ratio
+
+## Source Credit
+
+*(Added [Pub. L. 108–375, div. A, title V, § 532(a)(2)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1898](https://www.govinfo.gov/link/statute/118/1898); amended [Pub. L. 109–364, div. A, title X, § 1071(a)(13)](https://www.govinfo.gov/link/plaw/109/public/364), (14), Oct. 17, 2006, [120 Stat. 2399](https://www.govinfo.gov/link/statute/120/2399).)*

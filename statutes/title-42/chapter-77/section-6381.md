@@ -3,9 +3,10 @@ title: "Section 6381 - Verification examinations"
 usc_title: 42
 usc_section: "6381"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6381"
-generated_at: "2026-03-30T02:56:11.261Z"
+generated_at: "2026-11-23T20:27:22.677Z"
+status: "active"
 ---
 
 # § 6381. Verification examinations
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.261Z"
   - **(2)** The term “energy information” has the same meaning as such term has in section 796(e)(1) of title 15 .
   - **(3)** The term “person” has the same meaning as such term has in section 796(e)(2) of title 15 .
   - **(4)** The term “vertically integrated petroleum company” means any person which itself, or through a person which is controlled by, controls, or is under common control with such person, is engaged in the production, refining, and marketing of petroleum products.
+
+## Source Credit
+
+*([Pub. L. 94–163, title V, § 501](https://www.govinfo.gov/link/plaw/94/public/163), Dec. 22, 1975, [89 Stat. 956](https://www.govinfo.gov/link/statute/89/956); [Pub. L. 95–91, title III, § 301](https://www.govinfo.gov/link/plaw/95/public/91), title IV, § 402, title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577](https://www.govinfo.gov/link/statute/91/577), 583, 606, 607; [Pub. L. 95–619, title VI, § 691(b)(2)](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3288](https://www.govinfo.gov/link/statute/92/3288).)*

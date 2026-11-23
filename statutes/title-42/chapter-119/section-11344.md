@@ -3,12 +3,17 @@ title: "Section 11344 - Limitation on certain costs"
 usc_title: 42
 usc_section: "11344"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11344"
-generated_at: "2026-03-30T02:56:11.397Z"
+generated_at: "2026-11-23T20:27:23.288Z"
+status: "active"
 ---
 
 # § 11344. Limitation on certain costs
 
 Not more than 5 percent of the total amount appropriated for the emergency food and shelter program for each fiscal year may be expended for the costs of administration.
 
+
+## Source Credit
+
+*([Pub. L. 100–77, title III, § 314](https://www.govinfo.gov/link/plaw/100/public/77), July 22, 1987, [101 Stat. 492](https://www.govinfo.gov/link/statute/101/492).)*

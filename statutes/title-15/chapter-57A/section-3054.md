@@ -3,9 +3,10 @@ title: "Section 3054 - Jurisdiction of the Commission and the Horseracing Integr
 usc_title: 15
 usc_section: "3054"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 3054"
-generated_at: "2026-03-30T02:54:08.186Z"
+generated_at: "2026-11-23T20:26:04.267Z"
+status: "active"
 ---
 
 # § 3054. Jurisdiction of the Commission and the Horseracing Integrity and Safety Authority
@@ -85,3 +86,7 @@ generated_at: "2026-03-30T02:54:08.186Z"
   - **(1)** A State racing commission or a breed governing organization for a breed of horses other than Thoroughbred horses may elect to have such breed be covered by this chapter by the filing of a designated election form and subsequent approval by the Authority. A State racing commission may elect to have a breed covered by this chapter for the applicable State only.
   - **(2)** A commission or organization may not make an election under paragraph (1) unless the commission or organization has in place a mechanism to provide sufficient funds to cover the costs of the administration of this chapter with respect to the horses that will be covered by this chapter as a result of the election.
   - **(3)** The Authority shall apportion costs described in paragraph (2) in connection with an election under paragraph (1) fairly among all impacted segments of the horseracing industry, subject to approval by the Commission in accordance with section 3053 of this title . Such apportionment may not provide for the allocation of costs or funds among breeds of horses.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. FF, title XII, § 1205](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3259](https://www.govinfo.gov/link/statute/134/3259).)*

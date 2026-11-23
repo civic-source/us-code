@@ -3,9 +3,10 @@ title: "Section 1692g - Validation of debts"
 usc_title: 15
 usc_section: "1692g"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1692g"
-generated_at: "2026-03-30T02:54:08.155Z"
+generated_at: "2026-11-23T20:26:04.109Z"
+status: "active"
 ---
 
 # § 1692g. Validation of debts
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:08.155Z"
 - **(c)** The failure of a consumer to dispute the validity of a debt under this section may not be construed by any court as an admission of liability by the consumer.
 - **(d)** A communication in the form of a formal pleading in a civil action shall not be treated as an initial communication for purposes of subsection (a).
 - **(e)** The sending or delivery of any form or notice which does not relate to the collection of a debt and is expressly required by title 26, title V of Gramm-Leach-Bliley Act [ 15 U.S.C. 6801 et seq.], or any provision of Federal or State law relating to notice of data security breach or privacy, or any regulation prescribed under any such provision of law, shall not be treated as an initial communication in connection with debt collection for purposes of this section.
+
+## Source Credit
+
+*([Pub. L. 90–321, title VIII, § 809](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 95–109](https://www.govinfo.gov/link/plaw/95/public/109), Sept. 20, 1977, [91 Stat. 879](https://www.govinfo.gov/link/statute/91/879); amended [Pub. L. 109–351, title VIII, § 802](https://www.govinfo.gov/link/plaw/109/public/351), Oct. 13, 2006, [120 Stat. 2006](https://www.govinfo.gov/link/statute/120/2006).)*

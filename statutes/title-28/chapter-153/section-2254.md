@@ -3,9 +3,10 @@ title: "Section 2254 - State custody; remedies in Federal courts"
 usc_title: 28
 usc_section: "2254"
 chapter: 153
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 2254"
-generated_at: "2026-03-30T02:55:30.147Z"
+generated_at: "2026-11-23T20:26:36.500Z"
+status: "active"
 ---
 
 # § 2254. State custody; remedies in Federal courts
@@ -34,3 +35,91 @@ generated_at: "2026-03-30T02:55:30.147Z"
 - **(g)** A copy of the official records of the State court, duly certified by the clerk of such court to be a true and correct copy of a finding, judicial opinion, or other reliable written indicia showing such a factual determination by the State court shall be admissible in the Federal court proceeding.
 - **(h)** Except as provided in section 408 of the Controlled Substances Act, in all proceedings brought under this section, and any subsequent proceedings on review, the court may appoint counsel for an applicant who is or becomes financially unable to afford counsel, except as provided by a rule promulgated by the Supreme Court pursuant to statutory authority. Appointment of counsel under this section shall be governed by section 3006A of title 18 .
 - **(i)** The ineffectiveness or incompetence of counsel during Federal or State collateral post-conviction proceedings shall not be a ground for relief in a proceeding arising under section 2254.
+
+| RULES GOVERNING SECTION 2254 CASES IN THE UNITED STATES DISTRICT COURTS | Col 2 |
+| --- | --- |
+| 1. | Scope. |
+| 2. | The Petition. |
+| 3. | Filing the Petition; Inmate Filing. |
+| 4. | Preliminary Review; Serving the Petition and Order. |
+| 5. | The Answer and the Reply. |
+| 6. | Discovery. |
+| 7. | Expanding the Record. |
+| 8. | Evidentiary Hearing. |
+| 9. | Second or Successive Petitions. |
+| 10. | Powers of a Magistrate Judge. |
+| 11. | Certificate of Appealability; Time to Appeal. |
+| 12. | Applicability of the Federal Rules of Civil Procedure. |
+
+
+Feb. 1, 1977
+
+Jan. 23, 2026
+
+Cases Involving a Petition under
+
+U.S.C.
+
+Other Cases
+
+Current Custody; Naming the Respondent
+
+Future Custody; Naming the Respondents and Specifying the Judgment
+
+Form
+
+Standard Form
+
+Separate Petitions for Judgments of Separate Courts
+
+Amendment
+
+Where to File; Copies; Filing Fee
+
+Filing
+
+Time to File
+
+Inmate Filing
+
+When Required
+
+Contents: Addressing the Allegations; Stating a Bar
+
+Contents: Transcripts
+
+Contents: Briefs on Appeal and Opinions
+
+Reply
+
+Leave of Court Required
+
+Requesting Discovery
+
+Deposition Expenses
+
+In General
+
+Types of Materials
+
+Review by the Opposing Party
+
+Determining Whether to Hold a Hearing
+
+Reference to a Magistrate Judge
+
+Appointing Counsel; Time of Hearing
+
+Amendment
+
+Certificate of Appealability
+
+Time to Appeal
+
+______________
+
+______________
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 967](https://www.govinfo.gov/link/statute/62/967); [Pub. L. 89–711, § 2](https://www.govinfo.gov/link/plaw/89/public/711), Nov. 2, 1966, [80 Stat. 1105](https://www.govinfo.gov/link/statute/80/1105); [Pub. L. 104–132, title I, § 104](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1218](https://www.govinfo.gov/link/statute/110/1218).)*

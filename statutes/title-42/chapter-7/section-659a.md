@@ -3,9 +3,10 @@ title: "Section 659a - International support enforcement"
 usc_title: 42
 usc_section: "659a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 659a"
-generated_at: "2026-03-30T02:56:10.885Z"
+generated_at: "2026-11-23T20:27:20.895Z"
+status: "active"
 ---
 
 # § 659a. International support enforcement
@@ -35,3 +36,15 @@ generated_at: "2026-03-30T02:56:10.885Z"
   - **(1)** The term “foreign reciprocating country” means a foreign country (or political subdivision thereof) with respect to which the Secretary has made a declaration pursuant to subsection (a).
   - **(2)** The term “foreign treaty country” means a foreign country for which the 2007 Family Maintenance Convention is in force.
   - **(3)** The term “2007 Family Maintenance Convention” means the Hague Convention of 23 November 2007 on the International Recovery of Child Support and Other Forms of Family Maintenance.
+
+Section
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 459A, as added [Pub. L. 104–193, title III, § 371(a)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2252](https://www.govinfo.gov/link/statute/110/2252); amended [Pub. L. 113–183, title III, § 301(d)](https://www.govinfo.gov/link/plaw/113/public/183), Sept. 29, 2014, [128 Stat. 1944](https://www.govinfo.gov/link/statute/128/1944).)*

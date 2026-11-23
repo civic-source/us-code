@@ -3,9 +3,10 @@ title: "Section 1863 - Plan for random jury selection"
 usc_title: 28
 usc_section: "1863"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 1863"
-generated_at: "2026-03-30T02:55:30.145Z"
+generated_at: "2026-11-23T20:26:36.478Z"
+status: "active"
 ---
 
 # § 1863. Plan for random jury selection
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:30.145Z"
   - **(8)** specify the procedures to be followed by the clerk or jury commission in assigning persons whose names have been drawn from the qualified jury wheel to grand and petit jury panels.
 - **(c)** The initial plan shall be devised by each district court and transmitted to the reviewing panel specified in subsection (a) of this section within one hundred and twenty days of the date of enactment of the Jury Selection and Service Act of 1968. The panel shall approve or direct the modification of each plan so submitted within sixty days thereafter. Each plan or modification made at the direction of the panel shall become effective after approval at such time thereafter as the panel directs, in no event to exceed ninety days from the date of approval. Modifications made at the instance of the district court under subsection (a) of this section shall be effective at such time thereafter as the panel directs, in no event to exceed ninety days from the date of modification.
 - **(d)** State, local, and Federal officials having custody, possession, or control of voter registration lists, lists of actual voters, or other appropriate records shall make such lists and records available to the jury commission or clerks for inspection, reproduction, and copying at all reasonable times as the commission or clerk may deem necessary and proper for the performance of duties under this title. The district courts shall have jurisdiction upon application by the Attorney General of the United States to compel compliance with this subsection by appropriate process.
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 952](https://www.govinfo.gov/link/statute/62/952); [Pub. L. 90–274, § 101](https://www.govinfo.gov/link/plaw/90/public/274), Mar. 27, 1968, [82 Stat. 54](https://www.govinfo.gov/link/statute/82/54); [Pub. L. 92–269, § 2](https://www.govinfo.gov/link/plaw/92/public/269), Apr. 6, 1972, [86 Stat. 117](https://www.govinfo.gov/link/statute/86/117); [Pub. L. 95–572, § 2(a)](https://www.govinfo.gov/link/plaw/95/public/572), Nov. 2, 1978, [92 Stat. 2453](https://www.govinfo.gov/link/statute/92/2453); [Pub. L. 100–702, title VIII, § 802(b)](https://www.govinfo.gov/link/plaw/100/public/702), (c), Nov. 19, 1988, [102 Stat. 4657](https://www.govinfo.gov/link/statute/102/4657), 4658; [Pub. L. 102–572, title IV, § 401](https://www.govinfo.gov/link/plaw/102/public/572), Oct. 29, 1992, [106 Stat. 4511](https://www.govinfo.gov/link/statute/106/4511).)*

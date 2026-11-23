@@ -3,9 +3,10 @@ title: "Section 3091a - Congressional oversight of controlled access programs"
 usc_title: 50
 usc_section: "3091a"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3091a"
-generated_at: "2026-03-30T02:56:26.234Z"
+generated_at: "2026-11-23T20:27:30.911Z"
+status: "active"
 ---
 
 # § 3091a. Congressional oversight of controlled access programs
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:56:26.234Z"
     - **(C)** the Speaker of the House of Representatives; and
     - **(D)** the minority leader of the House of Representatives.
   - **(3)** The term “controlled access program” means a program created or managed pursuant to Intelligence Community Directive 906, or successor directive.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title V, § 501A, as added [Pub. L. 117–103, div. X, title V, § 504](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 986](https://www.govinfo.gov/link/statute/136/986); amended [Pub. L. 118–159, div. F, title LXVI](https://www.govinfo.gov/link/plaw/118/public/159), §§ 6602(a), 6603, Dec. 23, 2024, [138 Stat. 2502](https://www.govinfo.gov/link/statute/138/2502).)*

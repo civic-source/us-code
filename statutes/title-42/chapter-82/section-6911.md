@@ -3,9 +3,10 @@ title: "Section 6911 - Office of Solid Waste and Interagency Coordinating Commit
 usc_title: 42
 usc_section: "6911"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6911"
-generated_at: "2026-03-30T02:56:11.270Z"
+generated_at: "2026-11-23T20:27:22.725Z"
+status: "active"
 ---
 
 # § 6911. Office of Solid Waste and Interagency Coordinating Committee
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.270Z"
     - **(A)** the May 1979 Memorandum of Understanding on Energy Recovery from Municipal Solid Waste between the Environmental Protection Agency and the Department of Energy;
     - **(B)** the May 30, 1978 , Interagency Agreement between the Department of Commerce and the Environmental Protection Agency on the Implementation of the Resource Conservation and Recovery Act [ 42 U.S.C. 6901 et seq.]; and
     - **(C)** any subsequent agreements between these agencies or other Federal agencies which address Federal resource recovery or conservation activities.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 2001](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 94–580, § 2](https://www.govinfo.gov/link/plaw/94/public/580), Oct. 21, 1976, [90 Stat. 2804](https://www.govinfo.gov/link/statute/90/2804); amended [Pub. L. 96–482, § 4(c)](https://www.govinfo.gov/link/plaw/96/public/482), Oct. 21, 1980, [94 Stat. 2335](https://www.govinfo.gov/link/statute/94/2335); [Pub. L. 96–510, title III, § 307(a)](https://www.govinfo.gov/link/plaw/96/public/510), Dec. 11, 1980, [94 Stat. 2810](https://www.govinfo.gov/link/statute/94/2810).)*

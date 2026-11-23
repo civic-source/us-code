@@ -3,9 +3,10 @@ title: "Section 13 - Payments to States and counties"
 usc_title: 16
 usc_section: "13"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 13"
-generated_at: "2026-03-30T02:54:22.841Z"
+generated_at: "2026-11-23T20:26:20.017Z"
+status: "active"
 ---
 
 # § 460lll–13. Payments to States and counties
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:22.841Z"
 - **(c)** After the transfer of administrative jurisdiction is made under section 460 lll –41 of this title—
   - **(1)** the Tennessee Valley Authority shall continue to calculate the amount of payments to be made to States and counties under section 831 l of this title; and
   - **(2)** each State (including, for the purposes of this subsection, the State of Kentucky, the State of Tennessee, and any other State) that receives a payment under that section shall continue to calculate the amounts to be distributed to the State and local governments, as though the transfer had not been made.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. A, § 101(e) [title V, § 513]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–231](https://www.govinfo.gov/link/statute/112/2681), 2681–313.)*

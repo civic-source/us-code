@@ -3,9 +3,10 @@ title: "Section 3634 - Report"
 usc_title: 18
 usc_section: "3634"
 chapter: 229
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 3634"
-generated_at: "2026-03-30T02:54:16.524Z"
+generated_at: "2026-11-23T20:26:08.760Z"
+status: "active"
 ---
 
 # § 3634. Report
@@ -45,3 +46,7 @@ Beginning on the date that is 2 years after the date of enactment of this subcha
   - **(8)** Statistics on—
     - **(A)** the prevalence of dyslexia among prisoners in prisons operated by the Bureau of Prisons; and
     - **(B)** any change in the effectiveness of dyslexia mitigation programs among such prisoners that may be attributed to the incorporation of dyslexia screening into the System and of dyslexia treatment into the evidence-based recidivism reduction programs, as required under this chapter.
+
+## Source Credit
+
+*(Added [Pub. L. 115–391, title I, § 101(a)](https://www.govinfo.gov/link/plaw/115/public/391), Dec. 21, 2018, [132 Stat. 5205](https://www.govinfo.gov/link/statute/132/5205).)*

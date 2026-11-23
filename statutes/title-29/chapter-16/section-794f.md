@@ -3,9 +3,10 @@ title: "Section 794f - Establishment of standards for accessible medical diagnos
 usc_title: 29
 usc_section: "794f"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 794f"
-generated_at: "2026-03-30T02:55:18.698Z"
+generated_at: "2026-11-23T20:26:37.876Z"
+status: "active"
 ---
 
 # § 794f. Establishment of standards for accessible medical diagnostic equipment
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:18.698Z"
 - **(a)** Not later than 24 months after March 23, 2010 , 1 1 See References in Text note below. the Architectural and Transportation Barriers Compliance Board shall, in consultation with the Commissioner of the Food and Drug Administration, promulgate regulatory standards in accordance with the Administrative Procedure Act ( 2 U.S.C. 551 et seq.) 1 setting forth the minimum technical criteria for medical diagnostic equipment used in (or in conjunction with) physician’s offices, clinics, emergency rooms, hospitals, and other medical settings. The standards shall ensure that such equipment is accessible to, and usable by, individuals with accessibility needs, and shall allow independent entry to, use of, and exit from the equipment by such individuals to the maximum extent possible.
 - **(b)** The standards issued under subsection (a) for medical diagnostic equipment shall apply to equipment that includes examination tables, examination chairs (including chairs used for eye examinations or procedures, and dental examinations or procedures), weight scales, mammography equipment, x-ray machines, and other radiological equipment commonly used for diagnostic purposes by health professionals.
 - **(c)** The Architectural and Transportation Barriers Compliance Board, in consultation with the Commissioner of the Food and Drug Administration, shall periodically review and, as appropriate, amend the standards in accordance with the Administrative Procedure Act ( 2 U.S.C. 551 et seq.). 1
+
+## Source Credit
+
+*([Pub. L. 93–112, title V, § 510](https://www.govinfo.gov/link/plaw/93/public/112), as added [Pub. L. 111–148, title IV, § 4203](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 570](https://www.govinfo.gov/link/statute/124/570).)*

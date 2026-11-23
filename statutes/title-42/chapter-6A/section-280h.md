@@ -3,9 +3,10 @@ title: "Section 280h - Grants to promote childhood nutrition and physical activi
 usc_title: 42
 usc_section: "280h"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 280h"
-generated_at: "2026-03-30T02:56:10.733Z"
+generated_at: "2026-11-23T20:27:20.177Z"
+status: "active"
 ---
 
 # § 280h. Grants to promote childhood nutrition and physical activity
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:10.733Z"
 - **(f)** A grant awarded under subsection (a) shall be for a term of 3 years.
 - **(g)** In this section, the term “children and adolescents” means individuals who do not exceed 18 years of age.
 - **(h)** There are authorized to be appropriated to carry out this section such sums as may be necessary for each of the fiscal years 2001 through 2005.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 399W, as added [Pub. L. 106–310, div. A, title XXIV, § 2401](https://www.govinfo.gov/link/plaw/106/public/310), Oct. 17, 2000, [114 Stat. 1158](https://www.govinfo.gov/link/statute/114/1158).)*

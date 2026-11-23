@@ -3,9 +3,10 @@ title: "Section 20232 - Authority to allow officers to opt out of selection boar
 usc_title: 10
 usc_section: "20232"
 chapter: 2005
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 20232"
-generated_at: "2026-03-30T02:53:38.281Z"
+generated_at: "2026-11-23T20:25:52.508Z"
+status: "active"
 ---
 
 # § 20232. Authority to allow officers to opt out of selection board consideration
@@ -24,3 +25,17 @@ generated_at: "2026-03-30T02:53:38.281Z"
     - **(A)** the officer is serving in a critical skill position that cannot be filled by another Space Force officer serving in the same grade;
     - **(B)** the Secretary determines that it is in the best interests of the Space Force for the officer to continue to serve in their current position and grade; and
     - **(C)** the officer has not previously opted out of a promotion board under this section.
+
+Authority
+
+Criteria
+
+Completion of certain assignments
+
+Completion of certain education
+
+Service in critical skill position
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title XVII, § 1716(c)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 641](https://www.govinfo.gov/link/statute/137/641).)*

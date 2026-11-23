@@ -3,9 +3,10 @@ title: "Section 6274 - Exchange of information with International Energy Agency"
 usc_title: 42
 usc_section: "6274"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6274"
-generated_at: "2026-03-30T02:56:11.245Z"
+generated_at: "2026-11-23T20:27:22.595Z"
+status: "active"
 ---
 
 # § 6274. Exchange of information with International Energy Agency
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:11.245Z"
   - **(4)** section 9 of title 13 ;
   - **(5)** section 176a of title 15 ; and
   - **(6)** section 1905 of title 18 .
+
+## Source Credit
+
+*([Pub. L. 94–163, title II, § 254](https://www.govinfo.gov/link/plaw/94/public/163), Dec. 22, 1975, [89 Stat. 899](https://www.govinfo.gov/link/statute/89/899); [Pub. L. 95–619, title VI, § 691(b)(2)](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3288](https://www.govinfo.gov/link/statute/92/3288); [Pub. L. 96–72, § 22(b)(2)](https://www.govinfo.gov/link/plaw/96/public/72), Sept. 29, 1979, [93 Stat. 535](https://www.govinfo.gov/link/statute/93/535).)*

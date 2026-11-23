@@ -3,9 +3,10 @@ title: "Section 350d - Registration of food facilities"
 usc_title: 21
 usc_section: "350d"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 350d"
-generated_at: "2026-03-30T02:54:54.226Z"
+generated_at: "2026-11-23T20:26:27.543Z"
+status: "active"
 ---
 
 # § 350d. Registration of food facilities
@@ -43,3 +44,29 @@ generated_at: "2026-03-30T02:54:54.226Z"
     - **(A)** The term “foreign facility” means a facility that manufacturers, 1 1 So in original. Probably should be “manufactures,”. processes, packs, or holds food, but only if food from such facility is exported to the United States without further processing or packaging outside the United States.
     - **(B)** A food may not be considered to have undergone further processing or packaging for purposes of subparagraph (A) solely on the basis that labeling was added or that any similar activity of a de minimis nature was carried out with respect to the food.
 - **(d)** Nothing in this section shall be construed to authorize the Secretary to require an application, review, or licensing process for a facility to be registered, except with respect to the reinstatement of a registration that is suspended under subsection (b).
+
+Retail food establishment
+
+Definitions
+
+Proposed rulemaking.—
+
+In general
+
+Clarification
+
+Science-based risk analysis
+
+Authority with respect to certain facilities.—
+
+In general
+
+Limitation
+
+Final regulations
+
+“Not later than 18 months after the date of the enactment of this Act [ June 12, 2002 ], the Secretary of Health and Human Services shall promulgate proposed and final regulations for the requirement of registration under section 415 of the Federal Food, Drug, and Cosmetic Act [ 21 U.S.C. 350d ] (as added by subsection (a) of this section). Such requirement of registration takes effect—
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 415, as added [Pub. L. 107–188, title III, § 305(a)](https://www.govinfo.gov/link/plaw/107/public/188), June 12, 2002, [116 Stat. 667](https://www.govinfo.gov/link/statute/116/667); amended [Pub. L. 111–353, title I, § 102(a)](https://www.govinfo.gov/link/plaw/111/public/353) –(b)(1), (d)(2), Jan. 4, 2011, [124 Stat. 3887](https://www.govinfo.gov/link/statute/124/3887), 3889.)*

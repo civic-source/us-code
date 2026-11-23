@@ -3,9 +3,10 @@ title: "Section 8902 - Contracting authority"
 usc_title: 5
 usc_section: "8902"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8902"
-generated_at: "2026-03-30T02:52:56.066Z"
+generated_at: "2026-11-23T20:25:32.240Z"
+status: "active"
 ---
 
 # § 8902. Contracting authority
@@ -41,3 +42,33 @@ generated_at: "2026-03-30T02:52:56.066Z"
   - **(2)** to establish incentives to encourage compliance with measures under paragraph (1).
 - **(o)** A contract may not be made or a plan approved which includes coverage for any benefit, item, or service for which funds may not be used under the Assisted Suicide Funding Restriction Act of 1997.
 - **(p)** Each contract under this chapter shall require the carrier to comply with requirements described in the provisions of sections 2799A–1, 2799A–2, and 2799A–7 of the Public Health Service Act, sections 716, 717, and 722 of the Employee Retirement Income Security Act of 1974, and sections 9816, 9817, and 9822 of the Internal Revenue Code of 1986 (as applicable) in the same manner as such provisions apply to a group health plan or health insurance issuer offering group or individual health insurance coverage, as described in such sections. The provisions of sections 2799B–1, 2799B–2, 2799B–3, and 2799B–5 of the Public Health Service Act shall apply to a health care provider and facility and an air ambulance provider described in such respective sections with respect to an enrollee in a health benefits plan under this chapter in the same manner as such provisions apply to such a provider and facility with respect to an enrollee in a group health plan or group or individual health insurance coverage offered by a health insurance issuer, as described in such sections.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 3005 . | Sept. 28, 1959 , Pub. L. 86–382, § 6 , 73 Stat. 712 . |
+|  |  | Mar. 17, 1964 , Pub. L. 88–284, § 1(7) –(9), 78 Stat. 165 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 3005
+
+Sept. 28, 1959
+
+Pub. L. 86–382, § 6
+
+73 Stat. 712
+
+Mar. 17, 1964
+
+Pub. L. 88–284, § 1(7)
+
+78 Stat. 165
+
+In General
+
+Definition
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 601](https://www.govinfo.gov/link/statute/80/601); [Pub. L. 93–246, § 3](https://www.govinfo.gov/link/plaw/93/public/246), Jan. 31, 1974, [88 Stat. 4](https://www.govinfo.gov/link/statute/88/4); [Pub. L. 93–363, § 1](https://www.govinfo.gov/link/plaw/93/public/363), July 30, 1974, [88 Stat. 398](https://www.govinfo.gov/link/statute/88/398); [Pub. L. 94–183, § 2(43)](https://www.govinfo.gov/link/plaw/94/public/183), Dec. 31, 1975, [89 Stat. 1059](https://www.govinfo.gov/link/statute/89/1059); [Pub. L. 94–460, title I, § 110(b)](https://www.govinfo.gov/link/plaw/94/public/460), Oct. 8, 1976, [90 Stat. 1952](https://www.govinfo.gov/link/statute/90/1952); [Pub. L. 95–368, § 1](https://www.govinfo.gov/link/plaw/95/public/368), Sept. 17, 1978, [92 Stat. 606](https://www.govinfo.gov/link/statute/92/606); [Pub. L. 95–454, title IX, § 906(a)(2)](https://www.govinfo.gov/link/plaw/95/public/454), (3), Oct. 13, 1978, [92 Stat. 1224](https://www.govinfo.gov/link/statute/92/1224); [Pub. L. 96–179, § 3](https://www.govinfo.gov/link/plaw/96/public/179), Jan. 2, 1980, [93 Stat. 1299](https://www.govinfo.gov/link/statute/93/1299); [Pub. L. 98–615, § 3(2)](https://www.govinfo.gov/link/plaw/98/public/615), Nov. 8, 1984, [98 Stat. 3203](https://www.govinfo.gov/link/statute/98/3203); [Pub. L. 99–53, § 2(a)](https://www.govinfo.gov/link/plaw/99/public/53), June 17, 1985, [99 Stat. 94](https://www.govinfo.gov/link/statute/99/94); [Pub. L. 99–251, title I](https://www.govinfo.gov/link/plaw/99/public/251), §§ 105(b), 106(a)(3), Feb. 27, 1986, [100 Stat. 15](https://www.govinfo.gov/link/statute/100/15), 16; [Pub. L. 100–202, § 101(m) [title VI, § 626]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–390](https://www.govinfo.gov/link/statute/101/1329), 1329–430; [Pub. L. 100–654, title II](https://www.govinfo.gov/link/plaw/100/public/654), §§ 201(b), 202(a), Nov. 14, 1988, [102 Stat. 3845](https://www.govinfo.gov/link/statute/102/3845); [Pub. L. 101–508, title VII, § 7002(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–329](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 101–509, title IV, § 1](https://www.govinfo.gov/link/plaw/101/public/509), Nov. 5, 1990, [104 Stat. 1421](https://www.govinfo.gov/link/statute/104/1421); [Pub. L. 102–393, title V, § 537(a)](https://www.govinfo.gov/link/plaw/102/public/393), (b), Oct. 6, 1992, [106 Stat. 1765](https://www.govinfo.gov/link/statute/106/1765); [Pub. L. 105–12, § 9(g)](https://www.govinfo.gov/link/plaw/105/public/12), Apr. 30, 1997, [111 Stat. 27](https://www.govinfo.gov/link/statute/111/27); [Pub. L. 105–266](https://www.govinfo.gov/link/plaw/105/public/266), §§ 3(c), 8, Oct. 19, 1998, [112 Stat. 2366](https://www.govinfo.gov/link/statute/112/2366), 2370; [Pub. L. 111–350, § 5(a)(15)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3842](https://www.govinfo.gov/link/statute/124/3842); [Pub. L. 116–260, div. BB, title I, § 102(d)(1)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2797](https://www.govinfo.gov/link/statute/134/2797).)*

@@ -3,9 +3,10 @@ title: "Section 6214 - Determinations by Tax Court"
 usc_title: 26
 usc_section: "6214"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6214"
-generated_at: "2026-03-30T02:55:27.846Z"
+generated_at: "2026-11-23T20:26:46.597Z"
+status: "active"
 ---
 
 # § 6214. Determinations by Tax Court
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:27.846Z"
 - **(c)** The Tax Court, in redetermining a deficiency of any tax imposed by section 507 or chapter 41, 42, 43, or 44 for any period, act, or failure to act, shall consider such facts with relation to the taxes under chapter 41, 42, 43, or 44 for other periods, acts, or failures to act as may be necessary correctly to redetermine the amount of such deficiency, but in so doing shall have no jurisdiction to determine whether or not the taxes under chapter 41, 42, 43, or 44 for any other period, act, or failure to act have been overpaid or underpaid. The Tax Court, in redetermining a deficiency of any second tier tax (as defined in section 4963(b)), shall make a determination with respect to whether the taxable event has been corrected.
 - **(d)** For purposes of this chapter, chapter 41, 42, 43, or 44, and subtitles A or B the date on which a decision of the Tax Court becomes final shall be determined according to the provisions of section 7481.
 - **(e)** For provision giving Tax Court jurisdiction to order a refund of an overpayment and to award sanctions, see section 6512(b)(2).
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 773; [Pub. L. 91–172, title I, § 101(j)(43)](https://www.govinfo.gov/link/plaw/91/public/172), (44), title IX, § 960(a), Dec. 30, 1969, [83 Stat. 530](https://www.govinfo.gov/link/statute/83/530), 531, 734; [Pub. L. 91–614, title I, § 102(d)(6)](https://www.govinfo.gov/link/plaw/91/public/614), Dec. 31, 1970, [84 Stat. 1842](https://www.govinfo.gov/link/statute/84/1842); [Pub. L. 93–406, title II, § 1016(a)(12)](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 930](https://www.govinfo.gov/link/statute/88/930); [Pub. L. 94–455, title XIII, § 1307(d)(2)(F)(iv)](https://www.govinfo.gov/link/plaw/94/public/455), (H), title XVI, § 1605(b)(7), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1728](https://www.govinfo.gov/link/statute/90/1728), 1755, 1834; [Pub. L. 96–223, title I, § 101(f)(1)(F)](https://www.govinfo.gov/link/plaw/96/public/223), (G), Apr. 2, 1980, [94 Stat. 252](https://www.govinfo.gov/link/statute/94/252); [Pub. L. 96–596, § 2(b)](https://www.govinfo.gov/link/plaw/96/public/596), Dec. 24, 1980, [94 Stat. 3472](https://www.govinfo.gov/link/statute/94/3472); [Pub. L. 98–369, div. A, title I, § 144(b)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 683](https://www.govinfo.gov/link/statute/98/683); [Pub. L. 99–514, title XV](https://www.govinfo.gov/link/plaw/99/public/514), §§ 1511(c)(8), 1554(a), title XVIII, § 1833, Oct. 22, 1986, [100 Stat. 2745](https://www.govinfo.gov/link/statute/100/2745), 2754, 2852; [Pub. L. 100–418, title I, § 1941(b)(2)(B)(vi)](https://www.govinfo.gov/link/plaw/100/public/418), (vii), Aug. 23, 1988, [102 Stat. 1323](https://www.govinfo.gov/link/statute/102/1323); [Pub. L. 100–647, title VI, § 6244(b)(1)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3750](https://www.govinfo.gov/link/statute/102/3750); [Pub. L. 104–188, title I, § 1704(t)(16)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1888](https://www.govinfo.gov/link/statute/110/1888); [Pub. L. 109–280, title VIII, § 858(a)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1020](https://www.govinfo.gov/link/statute/120/1020).)*

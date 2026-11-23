@@ -3,9 +3,10 @@ title: "Section 12655f - Training and education services"
 usc_title: 42
 usc_section: "12655f"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12655f"
-generated_at: "2026-03-30T02:56:11.428Z"
+generated_at: "2026-11-23T20:27:23.420Z"
+status: "active"
 ---
 
 # § 12655f. Training and education services
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.428Z"
   - **(2)** The standards and procedures described in paragraph (1) shall provide that an individual serving in a program that receives assistance under this division—
     - **(A)** who is not a high school graduate, participate in an educational curriculum so that such individual can earn a high school diploma or the equivalent of such diploma; and
     - **(B)** may arrange to receive academic credit in recognition of the education and skills obtained from service satisfactorily completed.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 199G](https://www.govinfo.gov/link/plaw/101/public/610), formerly § 127, Nov. 16, 1990, [104 Stat. 3145](https://www.govinfo.gov/link/statute/104/3145); renumbered § 199G, [Pub. L. 103–82, title I, § 101(a)](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 788](https://www.govinfo.gov/link/statute/107/788).)*

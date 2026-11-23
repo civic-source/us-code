@@ -3,9 +3,10 @@ title: "Section 12558 - Service obligation"
 usc_title: 34
 usc_section: "12558"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12558"
-generated_at: "2026-03-30T02:55:33.291Z"
+generated_at: "2026-11-23T20:26:50.566Z"
+status: "active"
 ---
 
 # § 12558. Service obligation
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:33.291Z"
 - **(b)** A participant shall have all of the rights and responsibilities of and shall be subject to all rules and regulations applicable to other members of the police force of which the participant is a member, including those contained in applicable agreements with labor organizations and those provided by State and local law.
 - **(c)** If the police force of which the participant is a member subjects the participant to discipline such as would preclude the participant’s completing 4 years of service, and result in denial of educational assistance under section 12555 of this title , the Director may, upon a showing of good cause, permit the participant to complete the service obligation in an equivalent alternative law enforcement service and, if such service is satisfactorily completed, section 12555(d)(1)(B)(iii) of this title shall not apply.
 - **(d)** If the police force of which the participant is a member lays off the participant such as would preclude the participant’s completing 4 years of service, and result in denial of educational assistance under section 12555 of this title , the Director may permit the participant to complete the service obligation in an equivalent alternative law enforcement service and, if such service is satisfactorily completed, section 12555(d)(1)(B)(iii) of this title shall not apply.
+
+## Source Credit
+
+*([Pub. L. 103–322, title XX, § 200109](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2055](https://www.govinfo.gov/link/statute/108/2055).)*

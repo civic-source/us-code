@@ -3,9 +3,10 @@ title: "Section 3387 - Funding"
 usc_title: 22
 usc_section: "3387"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3387"
-generated_at: "2026-03-30T02:55:05.393Z"
+generated_at: "2026-11-23T20:26:32.459Z"
+status: "active"
 ---
 
 # § 3387. Funding
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.393Z"
     - **(A)** $2,300,000 should be used for a cooperative agreement to the appropriate implementing partner; and
     - **(B)** $100,000 should be used for management expenses of the American Institute in Taiwan related to the management of the Taiwan Fellowship Program.
 - **(b)** The implementing partner selected to implement the Taiwan Fellowship Program may accept, use, and dispose of gifts or donations of services or property in carrying out such program, subject to the review and approval of the American Institute in Taiwan.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. E, title LV, § 5533](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3332](https://www.govinfo.gov/link/statute/136/3332).)*

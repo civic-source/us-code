@@ -3,9 +3,10 @@ title: "Section 666 - Civil and criminal penalties"
 usc_title: 29
 usc_section: "666"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 666"
-generated_at: "2026-03-30T02:55:18.688Z"
+generated_at: "2026-11-23T20:26:37.837Z"
+status: "active"
 ---
 
 # § 666. Civil and criminal penalties
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:18.688Z"
 - **(j)** The Commission shall have authority to assess all civil penalties provided in this section, giving due consideration to the appropriateness of the penalty with respect to the size of the business of the employer being charged, the gravity of the violation, the good faith of the employer, and the history of previous violations.
 - **(k)** For purposes of this section, a serious violation shall be deemed to exist in a place of employment if there is a substantial probability that death or serious physical harm could result from a condition which exists, or from one or more practices, means, methods, operations, or processes which have been adopted or are in use, in such place of employment unless the employer did not, and could not with the exercise of reasonable diligence, know of the presence of the violation.
 - **(l)** Civil penalties owed under this chapter shall be paid to the Secretary for deposit into the Treasury of the United States and shall accrue to the United States and may be recovered in a civil action in the name of the United States brought in the United States district court for the district where the violation is alleged to have occurred or where the employer has its principal office.
+
+## Source Credit
+
+*([Pub. L. 91–596, § 17](https://www.govinfo.gov/link/plaw/91/public/596), Dec. 29, 1970, [84 Stat. 1606](https://www.govinfo.gov/link/statute/84/1606), 1607; [Pub. L. 101–508, title III, § 3101](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–29](https://www.govinfo.gov/link/statute/104/1388).)*

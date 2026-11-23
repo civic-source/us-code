@@ -3,9 +3,10 @@ title: "Section 9072 - Pandemic relief for aviation workers"
 usc_title: 15
 usc_section: "9072"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 9072"
-generated_at: "2026-03-30T02:54:08.244Z"
+generated_at: "2026-11-23T20:26:04.554Z"
+status: "active"
 ---
 
 # § 9072. Pandemic relief for aviation workers
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:08.244Z"
   - **(2)** cargo air carriers, in the aggregate amount up to $4,000,000,000; and
   - **(3)** contractors, in an aggregate amount up to $3,000,000,000.
 - **(b)** Notwithstanding any other provision of law, the Secretary, may use $67,000,000 of the funds made available under section 9080(a) 1 1 So in original. There is no subsec. (a) in section 9080 of this title . of this title for costs and administrative expenses associated with providing financial assistance under this part.
+
+## Source Credit
+
+*([Pub. L. 116–136, div. A, title IV, § 4112](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 498](https://www.govinfo.gov/link/statute/134/498); [Pub. L. 117–328, div. LL, § 102(d)(1)(B)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 6103](https://www.govinfo.gov/link/statute/136/6103).)*

@@ -3,9 +3,10 @@ title: "Section 7107 - Joint management funds"
 usc_title: 31
 usc_section: "7107"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 7107"
-generated_at: "2026-03-30T02:55:34.076Z"
+generated_at: "2026-11-23T20:26:51.929Z"
+status: "active"
 ---
 
 # § 7107. Joint management funds
@@ -24,3 +25,34 @@ generated_at: "2026-03-30T02:55:34.076Z"
 - **(e)** For a project subject to a joint management fund, one non-Government share may be established conforming to—
   - **(1)** the proportional shares applicable to the assistance programs involved; and
   - **(2)** the proportional shares of an amount transferred to the project account from each of the programs.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 7107(a) | 42:4257(a). | Dec. 5, 1974 , Pub. L. 93–510, § 8 , 88 Stat. 1606 . |
+| 7107(b) | 42:4257(b). |  |
+| 7107(c) | 42:4257(c). |  |
+| 7107(d) | 42:4257(d). |  |
+| 7107(e) | 42:4257(e). |  |
+
+
+Historical and Revision Notes
+
+7107(a)
+
+Dec. 5, 1974
+
+Pub. L. 93–510, § 8
+
+88 Stat. 1606
+
+7107(b)
+
+7107(c)
+
+7107(d)
+
+7107(e)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 1038](https://www.govinfo.gov/link/statute/96/1038).)*

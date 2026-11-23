@@ -3,9 +3,10 @@ title: "Section 777a - Definitions"
 usc_title: 16
 usc_section: "777a"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 777a"
-generated_at: "2026-03-30T02:54:22.908Z"
+generated_at: "2026-11-23T20:26:20.272Z"
+status: "active"
 ---
 
 # § 777a. Definitions
@@ -19,3 +20,7 @@ For purposes of this chapter—
     - **(D)** the selection, restoration, rehabilitation, and improvement of areas of water or land adaptable as hatching, feeding, resting, or breeding places for fish, including acquisition by purchase, condemnation, lease, or gift of such areas or estates or interests therein as are suitable or capable of being made suitable therefor, and the construction thereon or therein of such works as may be necessary to make them available for such purposes, and such preliminary or incidental costs and expenses as may be incurred in and about such works; the term “State fish and game department” shall be construed to mean and include any department or division of department of another name, or commission, or official or officials, of a State empowered under its laws to exercise the functions ordinarily exercised by a State fish and game department;
   - **(2)** the term “outreach and communications program” means a program to improve communications with anglers, boaters, and the general public regarding angling and boating opportunities, to reduce barriers to participation in these activities, to advance adoption of sound fishing and boating practices, to promote conservation and the responsible use of the Nation’s aquatic resources, and to further safety in fishing and boating; and
   - **(3)** the term “aquatic resource education program” means a program designed to enhance the public’s understanding of aquatic resources and sportfishing, and to promote the development of responsible attitudes and ethics toward the aquatic environment.
+
+## Source Credit
+
+*(Aug. 9, 1950, ch. 658, § 2, [64 Stat. 431](https://www.govinfo.gov/link/statute/64/431); July 2, 1956, ch. 489, § 3, [70 Stat. 473](https://www.govinfo.gov/link/statute/70/473); [Pub. L. 86–624, § 12](https://www.govinfo.gov/link/plaw/86/public/624), July 12, 1960, [74 Stat. 413](https://www.govinfo.gov/link/statute/74/413); [Pub. L. 105–178, title VII, § 7402(a)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 483](https://www.govinfo.gov/link/statute/112/483).)*

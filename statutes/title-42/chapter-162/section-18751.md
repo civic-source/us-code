@@ -3,9 +3,10 @@ title: "Section 18751 - Infrastructure planning for micro and small modular nucl
 usc_title: 42
 usc_section: "18751"
 chapter: 162
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18751"
-generated_at: "2026-03-30T02:56:11.529Z"
+generated_at: "2026-11-23T20:27:23.825Z"
+status: "active"
 ---
 
 # § 18751. Infrastructure planning for micro and small modular nuclear reactors
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:56:11.529Z"
   - **(1)** The Secretary shall offer financial and technical assistance to entities to conduct feasibility studies for the purpose of identifying suitable locations for the deployment of micro-reactors, small modular reactors, and advanced nuclear reactors in isolated communities.
   - **(2)** Prior to providing financial and technical assistance under paragraph (1), the Secretary shall conduct robust community engagement and outreach for the purpose of identifying levels of interest in isolated communities.
   - **(3)** The Secretary shall not disburse more than 50 percent of the amounts available for financial assistance under this subsection to the National Laboratories.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title III, § 40321](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1016](https://www.govinfo.gov/link/statute/135/1016).)*

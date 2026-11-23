@@ -3,9 +3,10 @@ title: "Section 1059g - Asian American and Native American Pacific Islander-serv
 usc_title: 20
 usc_section: "1059g"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1059g"
-generated_at: "2026-03-30T02:54:48.100Z"
+generated_at: "2026-11-23T20:26:14.342Z"
+status: "active"
 ---
 
 # § 1059g. Asian American and Native American Pacific Islander-serving institutions
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:54:48.100Z"
     - **(C)** In awarding grants under this section, the Secretary shall—
       - **(i)** to the extent possible and consistent with the competitive process under which such grants are awarded, ensure maximum and equitable distribution among all eligible institutions; and
       - **(ii)** give priority consideration to institutions for which not less than 10 percent of such institution’s Asian American and Native American Pacific Islander students are low-income individuals.
+
+## Source Credit
+
+*([Pub. L. 89–329, title III, § 320](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title III, § 307](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3175](https://www.govinfo.gov/link/statute/122/3175).)*

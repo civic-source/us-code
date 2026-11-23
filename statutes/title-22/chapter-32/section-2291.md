@@ -3,9 +3,10 @@ title: "Section 2291 - Policy, general authorities, coordination, foreign police
 usc_title: 22
 usc_section: "2291"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2291"
-generated_at: "2026-03-30T02:55:05.353Z"
+generated_at: "2026-11-23T20:26:32.208Z"
+status: "active"
 ---
 
 # § 2291. Policy, general authorities, coordination, foreign police actions, definitions, and other provisions
@@ -65,3 +66,95 @@ generated_at: "2026-03-30T02:55:05.353Z"
   - **(7)** the term “major money laundering country” means a country whose financial institutions engage in currency transactions involving significant amounts of proceeds from international narcotics trafficking;
   - **(8)** the term “appropriate congressional committees” means the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate; and
   - **(9)** the term “covered synthetic drug” has the meaning given that term in section 5558 of the FENTANYL Results Act.
+
+In General
+
+Strategy Elements
+
+Bilateral Cooperation Reporting
+
+Form
+
+Implementation Report
+
+Rule of Construction Regarding Use of Military Force Against Mexico
+
+In General
+
+Specific Actions
+
+Report
+
+Authorization of Appropriations
+
+Limitation on provision of assistance
+
+Exception
+
+Notification
+
+Negotiations
+
+Reports
+
+Penalties
+
+Definitions
+
+Findings
+
+Instruction of United States Executive Directors
+
+Report to Congress
+
+Definitions
+
+Authority
+
+Congressional Review of Agreements
+
+Coordination with Multilateral Debt Relief Activities
+
+Effective Date
+
+MDB Assistance for Development and Implementation of Drug Eradication Program
+
+Increases in Multilateral Development Bank Lending for Crop Substitution Projects
+
+National Advisory Council Report
+
+Definitions
+
+Multilateral development bank
+
+Major illicit drug producing country
+
+Narcotic drug and controlled substance
+
+Establishment
+
+Duties
+
+Membership
+
+Powers
+
+Report by President to Caucus
+
+Report to Senate
+
+Authorization of Appropriations
+
+Staff
+
+Termination
+
+Findings
+
+Policy
+
+George Bush.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 481, as added [Pub. L. 92–352, title V, § 503](https://www.govinfo.gov/link/plaw/92/public/352), July 13, 1972, [86 Stat. 496](https://www.govinfo.gov/link/statute/86/496); amended [Pub. L. 93–189, § 11(a)](https://www.govinfo.gov/link/plaw/93/public/189), Dec. 17, 1973, [87 Stat. 719](https://www.govinfo.gov/link/statute/87/719); [Pub. L. 94–329, title V, § 504(b)](https://www.govinfo.gov/link/plaw/94/public/329), June 30, 1976, [90 Stat. 764](https://www.govinfo.gov/link/statute/90/764); [Pub. L. 95–384](https://www.govinfo.gov/link/plaw/95/public/384), §§ 3, 4, Sept. 26, 1978, [92 Stat. 730](https://www.govinfo.gov/link/statute/92/730); [Pub. L. 96–92, § 3(b)](https://www.govinfo.gov/link/plaw/96/public/92), Oct. 29, 1979, [93 Stat. 702](https://www.govinfo.gov/link/statute/93/702); [Pub. L. 97–113, title V, § 502(a)(1)](https://www.govinfo.gov/link/plaw/97/public/113), (b), title VII, § 734(a)(1), Dec. 29, 1981, [95 Stat. 1538](https://www.govinfo.gov/link/statute/95/1538), 1539, 1560; [Pub. L. 98–164, title X, § 1003](https://www.govinfo.gov/link/plaw/98/public/164), Nov. 22, 1983, [97 Stat. 1053](https://www.govinfo.gov/link/statute/97/1053); [Pub. L. 99–83, title VI](https://www.govinfo.gov/link/plaw/99/public/83), §§ 604–606, 618, Aug. 8, 1985, [99 Stat. 228](https://www.govinfo.gov/link/statute/99/228), 229, 233; [Pub. L. 99–570, title II](https://www.govinfo.gov/link/plaw/99/public/570), §§ 2005, 2008, 2009, 2017, Oct. 27, 1986, [100 Stat. 3207–61](https://www.govinfo.gov/link/statute/100/3207), 3207–64, 3207–68; [Pub. L. 100–202, § 101(e) [title V, § 585(a)]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–131](https://www.govinfo.gov/link/statute/101/1329), 1329–184; [Pub. L. 100–204, title VIII, § 805](https://www.govinfo.gov/link/plaw/100/public/204), Dec. 22, 1987, [101 Stat. 1397](https://www.govinfo.gov/link/statute/101/1397); [Pub. L. 100–461, title V, § 578(e)(2)](https://www.govinfo.gov/link/plaw/100/public/461), (g)(1), (3), (h), (i), Oct. 1, 1988, [102 Stat. 2268–47](https://www.govinfo.gov/link/statute/102/2268), 2268–48; [Pub. L. 100–690, title IV, § 4202(b)](https://www.govinfo.gov/link/plaw/100/public/690), 4401–4403, 4405(a), 4407(a), (b)(1), 4502, 4802(b), Nov. 18, 1988, [102 Stat. 4267](https://www.govinfo.gov/link/statute/102/4267), 4275–4277, 4281, 4285, 4294; [Pub. L. 101–231](https://www.govinfo.gov/link/plaw/101/public/231), §§ 15, 17(a)–(f), Dec. 13, 1989, [103 Stat. 1963–1965](https://www.govinfo.gov/link/statute/103/1963); [Pub. L. 102–550, title XV, § 1519](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 4060](https://www.govinfo.gov/link/statute/106/4060); [Pub. L. 102–583](https://www.govinfo.gov/link/plaw/102/public/583), §§ 4(a)–(d), 5(b), 6(b)(1)–(3), 11(a), Nov. 2, 1992, [106 Stat. 4914](https://www.govinfo.gov/link/statute/106/4914), 4915, 4931, 4932, 4934; [Pub. L. 103–447, title I, § 101(a)](https://www.govinfo.gov/link/plaw/103/public/447), (b), Nov. 2, 1994, [108 Stat. 4691](https://www.govinfo.gov/link/statute/108/4691); [Pub. L. 104–164, title I, § 131(a)](https://www.govinfo.gov/link/plaw/104/public/164), July 21, 1996, [110 Stat. 1429](https://www.govinfo.gov/link/statute/110/1429); [Pub. L. 105–20, § 2(b)](https://www.govinfo.gov/link/plaw/105/public/20), June 27, 1997, [111 Stat. 234](https://www.govinfo.gov/link/statute/111/234); [Pub. L. 110–246, title III, § 3001(b)(1)(A)](https://www.govinfo.gov/link/plaw/110/public/246), (2)(Q), June 18, 2008, [122 Stat. 1820](https://www.govinfo.gov/link/statute/122/1820); [Pub. L. 115–254, div. F, title VI, § 1470(j)(3)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3517](https://www.govinfo.gov/link/statute/132/3517); [Pub. L. 117–81, div. F, title LXVI, § 6610(b)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2447](https://www.govinfo.gov/link/statute/135/2447); [Pub. L. 117–263, div. E, title LV, § 5555(b)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3343](https://www.govinfo.gov/link/statute/136/3343).)*

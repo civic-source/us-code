@@ -3,9 +3,10 @@ title: "Section 201 - Ownership of copyright"
 usc_title: 17
 usc_section: "201"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 201"
-generated_at: "2026-03-30T02:54:15.350Z"
+generated_at: "2026-11-23T20:26:06.509Z"
+status: "active"
 ---
 
 # § 201. Ownership of copyright
@@ -17,3 +18,17 @@ generated_at: "2026-03-30T02:54:15.350Z"
   - **(1)** The ownership of a copyright may be transferred in whole or in part by any means of conveyance or by operation of law, and may be bequeathed by will or pass as personal property by the applicable laws of intestate succession.
   - **(2)** Any of the exclusive rights comprised in a copyright, including any subdivision of any of the rights specified by section 106, may be transferred as provided by clause (1) and owned separately. The owner of any particular exclusive right is entitled, to the extent of that right, to all of the protection and remedies accorded to the copyright owner by this title.
 - **(e)** When an individual author’s ownership of a copyright, or of any of the exclusive rights under a copyright, has not previously been transferred voluntarily by that individual author, no action by any governmental body or other official or organization purporting to seize, expropriate, transfer, or exercise rights of ownership with respect to the copyright, or any of the exclusive rights under a copyright, shall be given effect under this title, except as provided under title 11.
+
+Initial Ownership
+
+Works Made for Hire
+
+Contributions to Collective Works
+
+Transfer of Ownership.—
+
+Involuntary Transfer
+
+## Source Credit
+
+*([Pub. L. 94–553, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/553), Oct. 19, 1976, [90 Stat. 2568](https://www.govinfo.gov/link/statute/90/2568); [Pub. L. 95–598, title III, § 313](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2676](https://www.govinfo.gov/link/statute/92/2676).)*

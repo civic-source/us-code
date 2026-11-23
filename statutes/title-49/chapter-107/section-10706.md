@@ -3,9 +3,10 @@ title: "Section 10706 - Rate agreements: exemption from antitrust laws"
 usc_title: 49
 usc_section: "10706"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 10706"
-generated_at: "2026-03-30T02:56:19.323Z"
+generated_at: "2026-11-23T20:27:34.714Z"
+status: "active"
 ---
 
 # § 10706. Rate agreements: exemption from antitrust laws
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:56:19.323Z"
       - **(ii)** an organization operating under those agreements; and
     - **(B)** possible ways to alleviate or end an anticompetitive feature, effect, or aspect in a manner that will further the goals of this part and of the transportation policy of section 10101 of this title .
   - **(2)** Reports received by the Board under this subsection shall be published and made available to the public under section 552(a) of title 5 .
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 102(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 812](https://www.govinfo.gov/link/statute/109/812); amended [Pub. L. 104–287, § 5(24)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3390](https://www.govinfo.gov/link/statute/110/3390).)*

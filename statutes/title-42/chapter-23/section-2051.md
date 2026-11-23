@@ -3,9 +3,10 @@ title: "Section 2051 - Research and development assistance"
 usc_title: 42
 usc_section: "2051"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2051"
-generated_at: "2026-03-30T02:56:11.147Z"
+generated_at: "2026-11-23T20:27:22.057Z"
+status: "active"
 ---
 
 # § 2051. Research and development assistance
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.147Z"
   - **(2)** to provide grants, loans, cooperative agreements, contracts, and equipment to institutions of higher education (as defined in section 1002 of title 20 ) to support courses, studies, training, curricula, and disciplines pertaining to nuclear safety, security, or environmental protection, or any other field that the Commission determines to be critical to the regulatory mission of the Commission.
 - **(c)** The Commission may (1) make arrangements pursuant to this section, without regard to the provisions of section 6101 of title 41 , upon certification by the Commission that such action is necessary in the interest of the common defense and security, or upon a showing by the Commission that advertising is not reasonably practicable; (2) make partial and advance payments under such arrangements; and (3) make available for use in connection therewith such of its equipment and facilities as it may deem desirable.
 - **(d)** The arrangements made pursuant to this section shall contain such provisions (1) to protect health, (2) to minimize danger to life or property, and (3) to require the reporting and to permit the inspection of work performed thereunder, as the Commission may determine. No such arrangement shall contain any provisions or conditions which prevent the dissemination of scientific or technical information, except to the extent such dissemination is prohibited by law.
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 31, as added Aug. 30, 1954, ch. 1073, § 1, [68 Stat. 927](https://www.govinfo.gov/link/statute/68/927); amended Aug. 6, 1956, ch. 1015, §§ 2, 3, [70 Stat. 1069](https://www.govinfo.gov/link/statute/70/1069); [Pub. L. 91–560, § 1](https://www.govinfo.gov/link/plaw/91/public/560), Dec. 19, 1970, [84 Stat. 1472](https://www.govinfo.gov/link/statute/84/1472); [Pub. L. 92–84, title II, § 201(a)](https://www.govinfo.gov/link/plaw/92/public/84), Aug. 11, 1971, [85 Stat. 307](https://www.govinfo.gov/link/statute/85/307); renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944); [Pub. L. 109–58, title VI, § 651(c)(1)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 801](https://www.govinfo.gov/link/statute/119/801).)*

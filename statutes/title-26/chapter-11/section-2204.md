@@ -3,9 +3,10 @@ title: "Section 2204 - Discharge of fiduciary from personal liability"
 usc_title: 26
 usc_section: "2204"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 2204"
-generated_at: "2026-03-30T02:55:27.783Z"
+generated_at: "2026-11-23T20:26:46.167Z"
+status: "active"
 ---
 
 # § 2204. Discharge of fiduciary from personal liability
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:27.783Z"
 - **(d)** If the executor in good faith relies on gift tax returns furnished under section 6103(e)(3) for determining the decedent’s adjusted taxable gifts, the executor shall be discharged from personal liability with respect to any deficiency of the tax imposed by this chapter which is attributable to adjusted taxable gifts which—
   - **(1)** are made more than 3 years before the date of the decedent’s death, and
   - **(2)** are not shown on such returns.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 401; [Pub. L. 91–614, title I, § 101(d)(1)](https://www.govinfo.gov/link/plaw/91/public/614), (f), Dec. 31, 1970, [84 Stat. 1836](https://www.govinfo.gov/link/statute/84/1836), 1838; [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1902(a)(9), 1906(b)(13)(A), title XX, § 2004(d)(2), (f)(4), (6), Oct. 4, 1976, [90 Stat. 1805](https://www.govinfo.gov/link/statute/90/1805), 1834, 1870, 1872; [Pub. L. 95–600, title VII, § 702(p)(1)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2937](https://www.govinfo.gov/link/statute/92/2937); [Pub. L. 97–34, title IV, § 422(e)(1)](https://www.govinfo.gov/link/plaw/97/public/34), (3), Aug. 13, 1981, [95 Stat. 316](https://www.govinfo.gov/link/statute/95/316).)*

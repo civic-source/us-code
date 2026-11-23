@@ -3,9 +3,10 @@ title: "Section 596b - Securing the Cities program"
 usc_title: 6
 usc_section: "596b"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 596b"
-generated_at: "2026-03-30T02:53:09.471Z"
+generated_at: "2026-11-23T20:25:34.804Z"
+status: "active"
 ---
 
 # § 596b. Securing the Cities program
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:53:09.471Z"
       - **(i)** a briefing on the proposed changes, including a justification for the changes;
       - **(ii)** documentation relating to the changes, including plans, strategies, and resources to implement the changes; and
       - **(iii)** an assessment of the effect of the changes on the capabilities of the STC program, taking into consideration previous resource allocations and stakeholder input.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XIX, § 1928](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 115–387, § 2(a)(10)](https://www.govinfo.gov/link/plaw/115/public/387), Dec. 21, 2018, [132 Stat. 5164](https://www.govinfo.gov/link/statute/132/5164).)*

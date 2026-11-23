@@ -3,9 +3,10 @@ title: "Section 1517 - Procedures for investigating claims of evasion of antidum
 usc_title: 19
 usc_section: "1517"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1517"
-generated_at: "2026-03-30T02:54:24.641Z"
+generated_at: "2026-11-23T20:26:10.799Z"
+status: "active"
 ---
 
 # § 1517. Procedures for investigating claims of evasion of antidumping and countervailing duty orders
@@ -120,3 +121,7 @@ generated_at: "2026-03-30T02:54:24.641Z"
     - **(B)** whether any determination, finding, or conclusion is arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law.
   - **(3)** Nothing in this subsection shall affect the availability of judicial review to an interested party under any other provision of law.
 - **(h)** No determination under subsection (c), review under subsection (f), or action taken by the Commissioner pursuant to this section shall preclude any individual or entity from proceeding, or otherwise affect or limit the authority of any individual or entity to proceed, with any civil, criminal, or administrative investigation or proceeding pursuant to any other provision of Federal or State law, including sections 1592 of this title and 1595a of this title.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 517, as added [Pub. L. 114–125, title IV, § 421(a)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 161](https://www.govinfo.gov/link/statute/130/161).)*

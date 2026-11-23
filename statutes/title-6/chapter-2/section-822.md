@@ -3,9 +3,10 @@ title: "Section 822 - Assessment of global catastrophic risk"
 usc_title: 6
 usc_section: "822"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 822"
-generated_at: "2026-03-30T02:53:09.501Z"
+generated_at: "2026-11-23T20:25:34.882Z"
+status: "active"
 ---
 
 # § 822. Assessment of global catastrophic risk
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:09.501Z"
   - **(15)** the Administrator of the United States Agency for International Development;
   - **(16)** the Secretary of Transportation; and
   - **(17)** other stakeholders the Secretary and the Administrator determine appropriate.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. G, title LXXIII, § 7303](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3685](https://www.govinfo.gov/link/statute/136/3685).)*

@@ -3,9 +3,10 @@ title: "Section 3812 - Exemptions"
 usc_title: 16
 usc_section: "3812"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3812"
-generated_at: "2026-03-30T02:54:23.022Z"
+generated_at: "2026-11-23T20:26:20.680Z"
+status: "active"
 ---
 
 # § 3812. Exemptions
@@ -58,3 +59,21 @@ generated_at: "2026-03-30T02:54:23.022Z"
   - **(1)** concerning cost effective and applicable erosion control measures that may be available to such individual to meet the requirements of this section; and
   - **(2)** concerning crop flexibility, base adjustment, and conservation assistance options that may be available to such individual to meet the requirements of this section, including the provisions of titles X, XII, and XIII of the Food, Agriculture, Conservation, and Trade Act of 1990 (or the amendments made by such titles).
 - **(h)** Section 3811 of this title shall not apply to the noncommercial production of agricultural commodities on a farm if such production is limited to two acres or less and if the Secretary determines that such production is not intended to circumvent the conservation requirements otherwise applicable to lands under this subchapter.
+
+Eligibility based on compliance with conservation plan.—
+
+In general
+
+Minimization of documentation
+
+Crop insurance.—
+
+Operations new to compliance
+
+Existing operations with prior violations
+
+Applicable reinsurance year
+
+## Source Credit
+
+*([Pub. L. 99–198, title XII, § 1212](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1506](https://www.govinfo.gov/link/statute/99/1506); [Pub. L. 100–28](https://www.govinfo.gov/link/plaw/100/public/28), §§ 2, 3, Apr. 24, 1987, [101 Stat. 291](https://www.govinfo.gov/link/statute/101/291); [Pub. L. 101–624, title XIV, § 1412](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3569](https://www.govinfo.gov/link/statute/104/3569); [Pub. L. 102–237, title II, § 204(2)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1854](https://www.govinfo.gov/link/statute/105/1854); [Pub. L. 104–127, title III](https://www.govinfo.gov/link/plaw/104/public/127), §§ 301(d), 312–314, Apr. 4, 1996, [110 Stat. 981–983](https://www.govinfo.gov/link/statute/110/981); [Pub. L. 110–234, title II, § 2002](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1027](https://www.govinfo.gov/link/statute/122/1027); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title II, § 2002, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1755; [Pub. L. 113–79, title II, § 2611(a)(2)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 762](https://www.govinfo.gov/link/statute/128/762).)*

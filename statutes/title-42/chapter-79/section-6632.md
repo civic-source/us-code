@@ -3,9 +3,10 @@ title: "Section 6632 - Membership of Committee"
 usc_title: 42
 usc_section: "6632"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6632"
-generated_at: "2026-03-30T02:56:11.264Z"
+generated_at: "2026-11-23T20:27:22.695Z"
+status: "active"
 ---
 
 # § 6632. Membership of Committee
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.264Z"
   - **(3)** shall collectively constitute a balanced composition with respect to (A) fields of science and engineering, (B) academic, industrial, and government experience, and (C) business, labor, consumer, and public interest points of view.
 - **(c)** The President shall appoint one member of the Committee to serve as Chairman and another member to serve as Vice Chairman for such periods as the President may determine.
 - **(d)** Each member of the Committee who is not an officer of the Federal Government shall, while serving on business of the Committee, be entitled to receive compensation at a rate not to exceed the daily rate prescribed for GS–18 of the General Schedule under section 5332 of title 5 , including traveltime, and while so serving away from his home or regular place of business he may be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as the expenses authorized by section 5703(b) 1 1 See References in Text note below. of title 5 for persons in Government service employed intermittently.
+
+## Source Credit
+
+*([Pub. L. 94–282, title III, § 302](https://www.govinfo.gov/link/plaw/94/public/282), May 11, 1976, [90 Stat. 468](https://www.govinfo.gov/link/statute/90/468).)*

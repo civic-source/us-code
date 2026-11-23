@@ -3,9 +3,10 @@ title: "Section 321a - Evacuation plans and exercises"
 usc_title: 6
 usc_section: "321a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 321a"
-generated_at: "2026-03-30T02:53:09.458Z"
+generated_at: "2026-11-23T20:25:34.699Z"
+status: "active"
 ---
 
 # § 321a. Evacuation plans and exercises
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:09.458Z"
   - **(1)** The Administrator may establish any guidelines, standards, or requirements determined appropriate to administer this section and to ensure effective mass evacuation planning for State, local, and tribal areas.
   - **(2)** The Administrator shall make assistance available upon request of a State, local, or tribal government to assist hospitals, nursing homes, and other institutions that house individuals with special needs to establish, maintain, and exercise mass evacuation plans that are coordinated and integrated into the plans developed by that State, local, or tribal government under this section.
 - **(d)** Nothing in this section may be construed to preclude a State, local, or tribal government from using grant funds in a manner that enhances preparedness for a natural or man-made disaster unrelated to an act of terrorism, if such use assists such government in building capabilities for terrorism preparedness.
+
+## Source Credit
+
+*([Pub. L. 107–296, title V, § 512](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 109–295, title VI, § 611(13)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1407](https://www.govinfo.gov/link/statute/120/1407); amended [Pub. L. 110–53, title I, § 102(b)](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 293](https://www.govinfo.gov/link/statute/121/293).)*

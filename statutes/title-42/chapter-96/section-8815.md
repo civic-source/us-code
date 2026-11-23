@@ -3,9 +3,10 @@ title: "Section 8815 - Price guarantees"
 usc_title: 42
 usc_section: "8815"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8815"
-generated_at: "2026-03-30T02:56:11.347Z"
+generated_at: "2026-11-23T20:27:23.061Z"
+status: "active"
 ---
 
 # § 8815. Price guarantees
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.347Z"
 - **(d)** If the Secretary determines, in the discretion of the Secretary, that—
   - **(1)** a biomass energy project would not otherwise be satisfactorily completed or continued, and
   - **(2)** completion or continuation of such project would be necessary to achieve the purposes of this chapter,
+
+## Source Credit
+
+*([Pub. L. 96–294, title II, § 215](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 692](https://www.govinfo.gov/link/statute/94/692).)*

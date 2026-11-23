@@ -3,9 +3,10 @@ title: "Section 54301 - Port infrastructure development program"
 usc_title: 46
 usc_section: "54301"
 chapter: 543
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 54301"
-generated_at: "2026-03-30T02:56:15.578Z"
+generated_at: "2026-11-23T20:27:27.375Z"
+status: "active"
 ---
 
 # § 54301. Port infrastructure development program
@@ -147,3 +148,161 @@ generated_at: "2026-03-30T02:56:15.578Z"
   - **(1)** coordinate with other Federal agencies to expedite the process established under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.) for the improvement of port facilities to improve the efficiency of the transportation system, to increase port security, or to provide greater access to port facilities;
   - **(2)** seek to coordinate all reviews or requirements with appropriate Federal, State, and local agencies; and
   - **(3)** in addition to any financial assistance provided under subsection (a) or subsection (b), provide such technical assistance to any eligible applicants as described in subsection (a)(2).
+
+Port and Intermodal Improvement Program.—
+
+General authority
+
+Eligible applicant
+
+Eligible projects
+
+(aa) port electrification or electrification master planning;
+
+(bb) harbor craft or equipment replacements or retrofits;
+
+(cc) development of port or terminal microgrids;
+
+(dd) providing idling reduction infrastructure;
+
+(ee) purchase of cargo handling equipment and related infrastructure;
+
+(ff) worker training to support electrification technology;
+
+(gg) installation of port bunkering facilities from oceangoing vessels for fuels;
+
+(hh) electric vehicle charge or hydrogen refueling infrastructure for drayage and medium or heavy duty trucks and locomotives that service the port and related grid upgrades; or
+
+(ii) other related port activities, including charging infrastructure, electric rubber-tired gantry cranes, and anti-idling technologies; or
+
+Prohibited uses
+
+Applications and process.—
+
+Applications
+
+In general
+
+Ensuring cybersecurity
+
+Update of facility security plan
+
+Covered applicant defined
+
+Solicitation process
+
+Delayed notice of funding opportunity
+
+Project selection criteria.—
+
+In general
+
+Additional considerations
+
+In general
+
+Noncontiguous states and territories
+
+Allocation of funds.—
+
+Geographic distribution
+
+Small projects
+
+Development phase activities
+
+Federal share of total project costs.—
+
+Total project costs
+
+Federal share.—
+
+In general
+
+Rural areas
+
+Procedural safeguards
+
+Grant conditions.—
+
+In general
+
+Efficient use of non-federal funds.—
+
+In general
+
+Requirements.—
+
+Application
+
+(aa) a description of the activities the grant recipient intends to fund;
+
+(bb) a justification for advancing the activities described in item (aa), including an assessment of the effects to the project scope, schedule, and budget if the request is not approved; and
+
+(cc) the level of risk of the activities described in item (aa).
+
+Approval
+
+Compliance with applicable requirements
+
+Effect
+
+Construction, repair, or alteration of vessels
+
+Administration.—
+
+Administrative and oversight costs
+
+Availability.—
+
+In general
+
+Unexpended funds
+
+Definitions
+
+Port
+
+Project
+
+Rural area
+
+Resilience
+
+Strategic seaport defined
+
+Assistance for Small Inland River and Coastal Ports and Terminals.—
+
+In general
+
+Independent audit.—
+
+In general
+
+Acceptable use of data
+
+Justification
+
+Tonnage determination
+
+Awards
+
+Use of funds.—
+
+In general
+
+Acquisition methods
+
+Prohibited uses
+
+Matching requirements.—
+
+In general
+
+Determination of effectiveness
+
+Additional Authority of the Secretary
+
+## Source Credit
+
+*(Added and amended [Pub. L. 117–81, div. C, title XXXV, § 3513(a)](https://www.govinfo.gov/link/plaw/117/public/81), (b), Dec. 27, 2021, [135 Stat. 2240](https://www.govinfo.gov/link/statute/135/2240); [Pub. L. 118–31, div. C, title XXXV](https://www.govinfo.gov/link/plaw/118/public/31), §§ 3511, 3512, 3513(b), 3514(a), Dec. 22, 2023, [137 Stat. 808–810](https://www.govinfo.gov/link/statute/137/808); [Pub. L. 118–159, div. C, title XXXV](https://www.govinfo.gov/link/plaw/118/public/159), §§ 3511(a)(3), (d)–(f), 3535(a), Dec. 23, 2024, [138 Stat. 2306](https://www.govinfo.gov/link/statute/138/2306), 2307, 2314.)*

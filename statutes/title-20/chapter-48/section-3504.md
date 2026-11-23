@@ -3,12 +3,17 @@ title: "Section 3504 - Incidental transfers"
 usc_title: 20
 usc_section: "3504"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 3504"
-generated_at: "2026-03-30T02:54:48.180Z"
+generated_at: "2026-11-23T20:26:14.738Z"
+status: "active"
 ---
 
 # § 3504. Incidental transfers
 
 - **(a)** The Director of the Office of Management and Budget, at such time or times as the Director shall provide, is authorized and directed to make such determinations as may be necessary with regard to the functions, offices, or portions thereof transferred by this chapter, and to make such additional incidental dispositions of personnel, assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds held, used, arising from, available to, or to be made available in connection with such functions, offices, or portions thereof, as may be necessary to carry out the provisions of this chapter. The Director shall provide for the termination of the affairs of all entities terminated by this chapter and for such further measures and dispositions as may be necessary to effectuate the purposes of this chapter.
 - **(b)** After consultation with the Director of the Office of Personnel Management, the Director of the Office of Management and Budget is authorized, at such time as the Director of the Office of Management and Budget provides, to make such determinations as may be necessary with regard to the transfer of positions within the Senior Executive Service in connection with functions and offices transferred by this chapter.
+
+## Source Credit
+
+*([Pub. L. 96–88, title V, § 504](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 690](https://www.govinfo.gov/link/statute/93/690).)*

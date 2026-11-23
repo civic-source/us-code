@@ -3,9 +3,10 @@ title: "Section 1427a - Reserve inventories for alleviation of distress of natur
 usc_title: 7
 usc_section: "1427a"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1427a"
-generated_at: "2026-03-30T02:53:42.311Z"
+generated_at: "2026-11-23T20:25:41.148Z"
+status: "active"
 ---
 
 # § 1427a. Reserve inventories for alleviation of distress of natural disaster
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:42.311Z"
 - **(f)** The Secretary may use the Commodity Credit Corporation to the extent feasible to fulfill the purposes of this section; and to the maximum extent practicable consistent with the fulfillment of the purposes of this section and the effective and efficient administration of this section shall utilize the usual and customary channels, facilities, and arrangements of trade and commerce.
 - **(g)** The Secretary may issue such rules and regulations as may be necessary to carry out the provisions of this section.
 - **(h)** There is hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this section.
+
+## Source Credit
+
+*([Pub. L. 91–524, title VIII, § 813](https://www.govinfo.gov/link/plaw/91/public/524), as added [Pub. L. 93–86, § 1(27)(B)](https://www.govinfo.gov/link/plaw/93/public/86), Aug. 10, 1973, [87 Stat. 239](https://www.govinfo.gov/link/statute/87/239); amended [Pub. L. 95–113, title XI, § 1103](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 953](https://www.govinfo.gov/link/statute/91/953); [Pub. L. 97–98, title X, § 1003](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1260](https://www.govinfo.gov/link/statute/95/1260); [Pub. L. 100–707, title I, § 109(b)](https://www.govinfo.gov/link/plaw/100/public/707), Nov. 23, 1988, [102 Stat. 4708](https://www.govinfo.gov/link/statute/102/4708); [Pub. L. 103–337, div. C, title XXXIV, § 3412(b)(3)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 3111](https://www.govinfo.gov/link/statute/108/3111).)*

@@ -3,9 +3,10 @@ title: "Section 3771 - Injuries in locks of canal; adjustment and payment of cla
 usc_title: 22
 usc_section: "3771"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3771"
-generated_at: "2026-03-30T02:55:05.397Z"
+generated_at: "2026-11-23T20:26:32.475Z"
+status: "active"
 ---
 
 # § 3771. Injuries in locks of canal; adjustment and payment of claims
@@ -14,3 +15,15 @@ generated_at: "2026-03-30T02:55:05.397Z"
 - **(b)**
   - **(1)** With respect to a claim under subsection (a) for damages for injuries to a vessel or its cargo, if, at the time the injuries were incurred, the navigation or movement of the vessel was not under the control of a Panama Canal pilot, the Commission may pay not more than $50,000 on the claim, unless the injuries were caused by another vessel under the control of a Panama Canal pilot.
   - **(2)** The provisions of subsections (c) through (e) of section 3761 of this title shall apply to any claim described in paragraph (1).
+
+Retroactive Applicability
+
+Future Applicability.—
+
+Sections 3 and 6
+
+Section 2
+
+## Source Credit
+
+*([Pub. L. 96–70, title I, § 1411](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 485](https://www.govinfo.gov/link/statute/93/485); [Pub. L. 99–209, § 2(a)](https://www.govinfo.gov/link/plaw/99/public/209), (b), Dec. 23, 1985, [99 Stat. 1716](https://www.govinfo.gov/link/statute/99/1716); [Pub. L. 100–203, title V, § 5417(b)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–271](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 105–85, div. C, title XXXV, § 3543(a)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 2072](https://www.govinfo.gov/link/statute/111/2072); [Pub. L. 105–261, div. C, title XXXV](https://www.govinfo.gov/link/plaw/105/public/261), §§ 3509(a)(1), 3512(a)(4), Oct. 17, 1998, [112 Stat. 2269](https://www.govinfo.gov/link/statute/112/2269), 2271.)*

@@ -3,9 +3,10 @@ title: "Section 2345 - Deeds; form and provisions"
 usc_title: 42
 usc_section: "2345"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2345"
-generated_at: "2026-03-30T02:56:11.164Z"
+generated_at: "2026-11-23T20:27:22.147Z"
+status: "active"
 ---
 
 # § 2345. Deeds; form and provisions
@@ -17,3 +18,7 @@ Deeds executed in connection with the disposal of property pursuant to the provi
 - **(c)** may require that the transferee, his heirs, successors, and assigns shall compensate the Commission for any municipal services provided by the Commission at rates which will not be in excess of the average tax for such services in the immediate vicinity of the community; and any amounts due and unpaid for such compensation (together with interest and costs thereon) shall, as of the date on which such amounts become delinquent, be a lien in favor of the United States upon the premises sold by the Commission, though not valid as against any mortgagee, pledgee, purchaser, or judgment creditor until notice thereof has been filed in accordance with the laws of the State in which the property is situated or in the office of the clerk of the United States district court for the judicial district in which the property subject to the lien is situated, if such State has not by law provided for the filing of such notice;
 - **(d)** in transferring any property pursuant to sections 2321 and 2342 of this title, may impose such restrictions and requirements relating to the use of the premises and to public health and safety, as the Commission may deem appropriate, which restrictions and requirements shall not be valid beyond one year after the incorporation of the city at the community or after June 30, 1966 , in the case of Los Alamos; and
 - **(e)** may require that any payments in lieu of property taxes or assessments for local improvements made by the Commission with respect to the property shall be equitably prorated.
+
+## Source Credit
+
+*(Aug. 4, 1955, ch. 543, ch. 5, § 55, [69 Stat. 477](https://www.govinfo.gov/link/statute/69/477); [Pub. L. 87–719, § 12](https://www.govinfo.gov/link/plaw/87/public/719), Sept. 28, 1962, [76 Stat. 665](https://www.govinfo.gov/link/statute/76/665).)*

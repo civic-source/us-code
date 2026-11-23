@@ -3,9 +3,10 @@ title: "Section 6518 - National Organic Standards Board"
 usc_title: 7
 usc_section: "6518"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6518"
-generated_at: "2026-03-30T02:53:42.432Z"
+generated_at: "2026-11-23T20:25:41.712Z"
+status: "active"
 ---
 
 # § 6518. National Organic Standards Board
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:53:42.432Z"
   - **(7)** its compatibility with a system of sustainable agriculture.
 - **(n)** The Board shall establish procedures under which persons may petition the Board for the purpose of evaluating substances for inclusion on the National List.
 - **(o)** Any confidential business information obtained by the Board in carrying out this section shall not be released to the public.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XXI, § 2119](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3947](https://www.govinfo.gov/link/statute/104/3947); [Pub. L. 102–237, title X, § 1001(7)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1893](https://www.govinfo.gov/link/statute/105/1893); [Pub. L. 115–334, title X, § 10104(e)](https://www.govinfo.gov/link/plaw/115/public/334), (f), Dec. 20, 2018, [132 Stat. 4901](https://www.govinfo.gov/link/statute/132/4901); [Pub. L. 117–286, § 4(a)(39)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4309](https://www.govinfo.gov/link/statute/136/4309).)*

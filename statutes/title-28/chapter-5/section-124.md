@@ -3,9 +3,10 @@ title: "Section 124 - Texas"
 usc_title: 28
 usc_section: "124"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 124"
-generated_at: "2026-03-30T02:55:30.123Z"
+generated_at: "2026-11-23T20:26:36.290Z"
+status: "active"
 ---
 
 # § 124. Texas
@@ -42,3 +43,13 @@ generated_at: "2026-03-30T02:55:30.123Z"
   - **(6)** The Pecos Division comprises the counties of Brewster, Culberson, Jeff Davis, Hudspeth, Loving, Pecos, Presidio, Reeves, Ward, and Winkler. Court for the Pecos Division shall be held at Pecos and Alpine.
   - **(7)** The Midland-Odessa Division comprises the counties of Andrews, Crane, Ector, Martin, Midland, and Upton. Court for the Midland-Odessa Division shall be held at Midland. Court may be held, in the discretion of the court, in Odessa, when courtroom facilities are made available at no expense to the Government.
 
+
+In general
+
+Pending cases not affected
+
+Juries not affected
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 891](https://www.govinfo.gov/link/statute/62/891); Feb. 10, 1954, ch. 6, § 2(b)(9)(a), (b), [68 Stat. 11](https://www.govinfo.gov/link/statute/68/11); [Pub. L. 85–298](https://www.govinfo.gov/link/plaw/85/public/298), §§ 1, 2, Sept. 4, 1957, [71 Stat. 618](https://www.govinfo.gov/link/statute/71/618); [Pub. L. 87–352](https://www.govinfo.gov/link/plaw/87/public/352), Oct. 4, 1961, [75 Stat. 772](https://www.govinfo.gov/link/statute/75/772); [Pub. L. 88–282](https://www.govinfo.gov/link/plaw/88/public/282), Mar. 11, 1964, [78 Stat. 163](https://www.govinfo.gov/link/statute/78/163); [Pub. L. 88–512](https://www.govinfo.gov/link/plaw/88/public/512), Aug. 30, 1964, [78 Stat. 695](https://www.govinfo.gov/link/statute/78/695); [Pub. L. 90–216](https://www.govinfo.gov/link/plaw/90/public/216), Dec. 18, 1967, [81 Stat. 661](https://www.govinfo.gov/link/statute/81/661); [Pub. L. 96–462, § 6](https://www.govinfo.gov/link/plaw/96/public/462), Oct. 15, 1980, [94 Stat. 2054](https://www.govinfo.gov/link/statute/94/2054); [Pub. L. 98–620, title IV, § 407(a)](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3362](https://www.govinfo.gov/link/statute/98/3362); [Pub. L. 108–157, § 1(a)](https://www.govinfo.gov/link/plaw/108/public/157), Dec. 3, 2003, [117 Stat. 1947](https://www.govinfo.gov/link/statute/117/1947); [Pub. L. 108–455, § 3](https://www.govinfo.gov/link/plaw/108/public/455), Dec. 10, 2004, [118 Stat. 3628](https://www.govinfo.gov/link/statute/118/3628); [Pub. L. 118–73, § 2(a)](https://www.govinfo.gov/link/plaw/118/public/73), July 30, 2024, [138 Stat. 1504](https://www.govinfo.gov/link/statute/138/1504).)*

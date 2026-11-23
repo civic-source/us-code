@@ -3,9 +3,10 @@ title: "Section 330 - Research activities"
 usc_title: 49
 usc_section: "330"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 330"
-generated_at: "2026-03-30T02:56:19.299Z"
+generated_at: "2026-11-23T20:27:34.541Z"
+status: "active"
 ---
 
 # § 330. Research activities
@@ -38,3 +39,71 @@ generated_at: "2026-03-30T02:56:19.299Z"
 - **(g)** For each of fiscal years 2016 through 2020, the Secretary is authorized to expend not more than 1 ½ percent of the amounts authorized to be appropriated for the coordination, evaluation, and oversight of the programs administered by the Office of the Assistant Secretary for Research and Technology.
 - **(h)** The research, development, or use of a technology under a contract, grant, cooperative research and development agreement, or other agreement entered into under this section, including the terms under which the technology may be licensed and the resulting royalties may be distributed, shall be subject to the Stevenson-Wydler Technology Innovation Act of 1980 ( 15 U.S.C. 3701 et seq.).
 - **(i)** Section 6101 of title 41 shall not apply to a contract, grant, or other agreement entered into under this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 330(a) | 49:1657(q)(1). | Oct. 15, 1966 , Pub. L. 89–670, § 9(q)(1) –(3), 80 Stat. 947 . |
+|  | 49:1657(q)(2) (1st sentence). |  |
+| 330(b) | 49:1657(q)(2) (less 1st sentence). |  |
+| 330(c) | 49:1657(q)(3). |  |
+
+
+In General
+
+Responsibilities
+
+Publications
+
+Duties
+
+Additional Authorities
+
+Federal Share.—
+
+In general
+
+Exception
+
+Non-federal share
+
+Program Evaluation and Oversight
+
+Use of Technology
+
+Waiver of Advertising Requirements
+
+Historical and Revision Notes
+
+330(a)
+
+Oct. 15, 1966
+
+Pub. L. 89–670, § 9(q)(1)
+
+80 Stat. 947
+
+330(b)
+
+330(c)
+
+Financial Management
+
+GAO Review.—
+
+In general
+
+Contents
+
+Compliance with regulation
+
+Study.—
+
+In general
+
+Consultation
+
+Report
+
+## Source Credit
+
+*([Pub. L. 97–449, § 1(b)](https://www.govinfo.gov/link/plaw/97/public/449), Jan. 12, 1983, [96 Stat. 2427](https://www.govinfo.gov/link/statute/96/2427); [Pub. L. 114–94, div. A, title VI, § 6011(b)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1568](https://www.govinfo.gov/link/statute/129/1568).)*

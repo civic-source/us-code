@@ -3,9 +3,10 @@ title: "Section 3111 - Assessment of Indian forest land and management programs"
 usc_title: 25
 usc_section: "3111"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3111"
-generated_at: "2026-03-30T02:54:52.848Z"
+generated_at: "2026-11-23T20:26:25.635Z"
+status: "active"
 ---
 
 # § 3111. Assessment of Indian forest land and management programs
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:52.848Z"
 - **(b)** On each 10-year anniversary of November 28, 1990 , the Secretary shall provide for an independent assessment of Indian forest lands and Indian forest land management practices under the criteria established in subsection (a) which shall include analyses measured against findings in previous assessments.
 - **(c)** The Secretary shall submit, within 1 year of the first full fiscal year after November 28, 1990 , and within 6 months of the end of each succeeding fiscal year, a report to the Committee on Natural Resources of the United States House of Representatives, the Committee on Indian Affairs of the United States Senate, and to the affected Indian tribes a report on the status of Indian forest lands with respect to standards, goals and objectives set forth in approved forest management plans for each Indian tribe with Indian forest lands. The report shall identify the amount of Indian forest land in need of forestation or other silviculture treatment and the quantity of timber available for sale, offered for sale, and sold for each Indian tribe.
 - **(d)** The Secretary of Agriculture, through the Forest Service, is authorized to provide, upon the request of the Secretary of the Interior, on a nonreimbursable basis, technical assistance in the conduct of such research and evaluation activities as may be necessary for the completion of any reports or assessments required by this chapter.
+
+## Source Credit
+
+*([Pub. L. 101–630, title III, § 312](https://www.govinfo.gov/link/plaw/101/public/630), Nov. 28, 1990, [104 Stat. 4539](https://www.govinfo.gov/link/statute/104/4539); [Pub. L. 103–437, § 10(f)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4589](https://www.govinfo.gov/link/statute/108/4589).)*

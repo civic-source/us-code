@@ -3,9 +3,10 @@ title: "Section 794e - Protection and advocacy of individual rights"
 usc_title: 29
 usc_section: "794e"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 794e"
-generated_at: "2026-03-30T02:55:18.698Z"
+generated_at: "2026-11-23T20:26:37.875Z"
+status: "active"
 ---
 
 # § 794e. Protection and advocacy of individual rights
@@ -53,3 +54,15 @@ generated_at: "2026-03-30T02:55:18.698Z"
 - **(m)** As used in this section:
   - **(1)** The term “eligible system” means a protection and advocacy system that is established under subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 [ 42 U.S.C. 15041 et seq.] and that meets the requirements of subsection (f).
   - **(2)** The term “American Indian consortium” means a consortium established as described in section 142 1 of the Developmental Disabilities Assistance and Bill of Rights Act ( 42 U.S.C. 6042 ).
+
+Allotments
+
+Other jurisdictions
+
+States
+
+Certain territories
+
+## Source Credit
+
+*([Pub. L. 93–112, title V, § 509](https://www.govinfo.gov/link/plaw/93/public/112), as added [Pub. L. 102–569, title V, § 510(a)](https://www.govinfo.gov/link/plaw/102/public/569), Oct. 29, 1992, [106 Stat. 4430](https://www.govinfo.gov/link/statute/106/4430); amended [Pub. L. 103–73, title I, § 112(c)](https://www.govinfo.gov/link/plaw/103/public/73), Aug. 11, 1993, [107 Stat. 727](https://www.govinfo.gov/link/statute/107/727); [Pub. L. 105–12, § 9(n)](https://www.govinfo.gov/link/plaw/105/public/12), Apr. 30, 1997, [111 Stat. 28](https://www.govinfo.gov/link/statute/111/28); [Pub. L. 105–220, title IV, § 408(c)](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1206](https://www.govinfo.gov/link/statute/112/1206); [Pub. L. 105–394, title IV, § 402(c)](https://www.govinfo.gov/link/plaw/105/public/394), Nov. 13, 1998, [112 Stat. 3662](https://www.govinfo.gov/link/statute/112/3662); [Pub. L. 106–402, title IV, § 401(b)(3)(C)](https://www.govinfo.gov/link/plaw/106/public/402), (D), Oct. 30, 2000, [114 Stat. 1738](https://www.govinfo.gov/link/statute/114/1738); [Pub. L. 113–128, title IV, § 457](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1676](https://www.govinfo.gov/link/statute/128/1676).)*

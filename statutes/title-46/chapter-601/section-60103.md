@@ -3,9 +3,10 @@ title: "Section 60103 - Oath of ownership on entry"
 usc_title: 46
 usc_section: "60103"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 60103"
-generated_at: "2026-03-30T02:56:15.582Z"
+generated_at: "2026-11-23T20:27:27.419Z"
+status: "active"
 ---
 
 # § 60103. Oath of ownership on entry
@@ -17,3 +18,22 @@ generated_at: "2026-03-30T02:56:15.582Z"
   - **(1)** an owner if one resides at the port of entry; or
   - **(2)** the master if an owner does not reside at the port of entry.
 - **(c)** If the appropriate individual does not make the statement required by this section, the vessel is not entitled to the privileges of a vessel of the United States.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 60103 | 46 App.:42. | R.S. § 4173. |
+
+
+Required Statement
+
+Person To Make Statement
+
+Consequence of Not Making Statement
+
+Historical and Revision Notes
+
+60103
+
+## Source Credit
+
+*([Pub. L. 109–304, § 9(b)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1674](https://www.govinfo.gov/link/statute/120/1674).)*

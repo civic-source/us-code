@@ -3,9 +3,10 @@ title: "Section 220105 - Powers"
 usc_title: 36
 usc_section: "220105"
 chapter: 2201
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 220105"
-generated_at: "2026-03-30T02:55:44.708Z"
+generated_at: "2026-11-23T20:26:59.072Z"
+status: "active"
 ---
 
 # § 220105. Powers
@@ -25,3 +26,23 @@ The corporation has all the powers necessary and proper to carry out the purpose
   - **(11)** to solicit funds;
   - **(12)** to sue and be sued; and
   - **(13)** to do any other act necessary and proper to carry out the purposes stated in section 220102 of this title .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 220105 | 36:1303. | Dec. 29, 1979 , Pub. L. 96–165 , §§ 3, 6 (1st sentence), 93 Stat. 1269 , 1271. |
+|  | 36:1306 (1st sentence). |  |
+
+
+Historical and Revision Notes
+
+220105
+
+Dec. 29, 1979
+
+Pub. L. 96–165
+
+93 Stat. 1269
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1460](https://www.govinfo.gov/link/statute/112/1460).)*

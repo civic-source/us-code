@@ -3,9 +3,10 @@ title: "Section 8730 - Disposition of products"
 usc_title: 10
 usc_section: "8730"
 chapter: 869
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 8730"
-generated_at: "2026-03-30T02:53:38.250Z"
+generated_at: "2026-11-23T20:25:52.242Z"
+status: "active"
 ---
 
 # § 8730. Disposition of products
@@ -44,3 +45,47 @@ generated_at: "2026-03-30T02:53:38.250Z"
   - **(2)** Petroleum may be provided to the Department of Defense under paragraph (1) either directly or by such exchange as the Secretary deems appropriate. Appropriate reimbursement reasonably reflecting the fair market value shall be provided by the Secretary of Defense for petroleum provided under this subsection.
   - **(3)** Any exchange made pursuant to this subsection may be made without regard to otherwise applicable Federal procurement statutes and regulations.
   - **(4)** Paragraph (1) does not apply to any petroleum set aside for small refiners under subsection (d) or placed in the Strategic Petroleum Reserve under subsection (k).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 7430(a) | 34 U.S.C. 524 (244th through 293d words of 1st par.). | June 4, 1920, ch. 228 (1st par., 244th through 293d words, of amended 3d and 4th provisos), 41 Stat. 813 ; June 30, 1938, ch. 851, § 1 , 52 Stat. 1252 ; June 17, 1944, ch. 262 , 58 Stat. 281 . |
+| 7430(b) | 34 U.S.C. 524 (2d sentence of 3d par.). | June 4, 1920, ch. 228 (3d par., 2d sentence, of amended 3d and 4th provisos), 41 Stat. 813 ; June 30, 1938, ch. 851, § 1 , 52 Stat. 1252 ; June 17, 1944, ch. 262 , 58 Stat. 281 . |
+
+
+Historical and Revision Notes
+
+7430(a)
+
+34 U.S.C. 524
+
+June 4, 1920, ch. 228
+
+41 Stat. 813
+
+June 30, 1938, ch. 851, § 1
+
+52 Stat. 1252
+
+June 17, 1944, ch. 262
+
+58 Stat. 281
+
+7430(b)
+
+34 U.S.C. 524
+
+June 4, 1920, ch. 228
+
+41 Stat. 813
+
+June 30, 1938, ch. 851, § 1
+
+52 Stat. 1252
+
+June 17, 1944, ch. 262
+
+58 Stat. 281
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 460, § 7430; [Pub. L. 87–599, § 2](https://www.govinfo.gov/link/plaw/87/public/599), Aug. 24, 1962, [76 Stat. 401](https://www.govinfo.gov/link/statute/76/401); [Pub. L. 87–796, § 1(6)](https://www.govinfo.gov/link/plaw/87/public/796), Oct. 11, 1962, [76 Stat. 905](https://www.govinfo.gov/link/statute/76/905); [Pub. L. 94–258, title II, § 201(11)](https://www.govinfo.gov/link/plaw/94/public/258), Apr. 5, 1976, [90 Stat. 309](https://www.govinfo.gov/link/statute/90/309); [Pub. L. 96–294, title VIII, § 804](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 777](https://www.govinfo.gov/link/statute/94/777); [Pub. L. 96–513, title V, § 513(34)](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2934](https://www.govinfo.gov/link/statute/94/2934); [Pub. L. 97–22, § 11(a)(10)](https://www.govinfo.gov/link/plaw/97/public/22), July 10, 1981, [95 Stat. 138](https://www.govinfo.gov/link/statute/95/138); [Pub. L. 98–525, title XIV, § 1405(53)](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2625](https://www.govinfo.gov/link/statute/98/2625); [Pub. L. 99–413, § 1(b)](https://www.govinfo.gov/link/plaw/99/public/413), (c), Aug. 29, 1986, [100 Stat. 944](https://www.govinfo.gov/link/statute/100/944), 945; [Pub. L. 100–26, § 7(k)(9)](https://www.govinfo.gov/link/plaw/100/public/26), Apr. 21, 1987, [101 Stat. 284](https://www.govinfo.gov/link/statute/101/284); [Pub. L. 100–202, § 101(g) [title II, § 201]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–213](https://www.govinfo.gov/link/statute/101/1329), 1329–242; [Pub. L. 100–456, div. A, title XII, § 1233(e)(2)](https://www.govinfo.gov/link/plaw/100/public/456), Sept. 29, 1988, [102 Stat. 2057](https://www.govinfo.gov/link/statute/102/2057); [Pub. L. 106–398, § 1 [div. C, title XXXIV, § 3401]](https://www.govinfo.gov/link/plaw/106/public/398), Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–484; [Pub. L. 107–107, div. A, title X, § 1048(e)(12)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1228](https://www.govinfo.gov/link/statute/115/1228); [Pub. L. 114–328, div. A, title X, § 1081(b)(3)(E)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2419](https://www.govinfo.gov/link/statute/130/2419); renumbered § 8730 and amended [Pub. L. 115–232, div. A, title VIII](https://www.govinfo.gov/link/plaw/115/public/232), §§ 807(d)(5), 809(a), Aug. 13, 2018, [132 Stat. 1836](https://www.govinfo.gov/link/statute/132/1836), 1840.)*

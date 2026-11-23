@@ -3,9 +3,10 @@ title: "Section 3115b - Tribal forest management demonstration project"
 usc_title: 25
 usc_section: "3115b"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3115b"
-generated_at: "2026-03-30T02:54:52.849Z"
+generated_at: "2026-11-23T20:26:25.638Z"
+status: "active"
 ---
 
 # § 3115b. Tribal forest management demonstration project
@@ -17,3 +18,47 @@ generated_at: "2026-03-30T02:54:52.849Z"
     - **(A)** the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.); and
     - **(B)** the Tribal Forest Protection Act of 2004 ( 25 U.S.C. 3115a et seq.); and
   - **(3)** the contract or project shall be entered into under, and in accordance with, section 403(b)(2) of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5363(b)(2) ).
+
+Definitions
+
+Federal land
+
+Indian tribe
+
+Secretary
+
+Tribal organization
+
+Agreements
+
+Demonstration projects
+
+Eligibility criteria
+
+Selection
+
+Implementation
+
+Report
+
+Term
+
+Stewardship Contracts or Similar Agreements
+
+Demonstration Projects
+
+Eligibility Criteria
+
+Selection
+
+Implementation
+
+Report
+
+Incorporation of Management Plans
+
+Term
+
+## Source Credit
+
+*([Pub. L. 115–334, title VIII, § 8703](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4877](https://www.govinfo.gov/link/statute/132/4877).)*

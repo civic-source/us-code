@@ -3,9 +3,10 @@ title: "Section 2173 - Education loan repayment program: commissioned officers i
 usc_title: 10
 usc_section: "2173"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2173"
-generated_at: "2026-03-30T02:53:38.146Z"
+generated_at: "2026-11-23T20:25:51.479Z"
+status: "active"
 ---
 
 # § 2173. Education loan repayment program: commissioned officers in specified health professions
@@ -35,3 +36,27 @@ generated_at: "2026-03-30T02:53:38.146Z"
   - **(1)** A commissioned officer who is relieved of the officer’s active duty obligation under this section before the completion of that obligation may be given, with or without the consent of the officer, any alternative obligation comparable to any of the alternative obligations authorized by section 2123(e) of this title for participants in the Armed Forces Health Professions Scholarship and Financial Assistance program.
   - **(2)** An officer who does not complete the period of active duty specified in the agreement entered into under subsection (b)(3), or the alternative obligation imposed under paragraph (1), shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
 - **(h)** The Secretary of Defense shall prescribe regulations to carry out this section, including standards for qualified loans and authorized payees and other terms and conditions for the making of loan repayments.
+
+Authority To Repay Education Loans
+
+Eligible Persons
+
+Academic and Professional Requirements
+
+Certain Persons Ineligible
+
+Loan Repayments
+
+Active Duty Service Obligation
+
+Effect of Failure To Complete Obligation
+
+Regulations
+
+In general
+
+Prohibition on adjustment
+
+## Source Credit
+
+*(Added [Pub. L. 105–85, div. A, title VI, § 651(a)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1802](https://www.govinfo.gov/link/statute/111/1802); amended [Pub. L. 107–314, div. A, title V, § 573](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2558](https://www.govinfo.gov/link/statute/116/2558); [Pub. L. 109–163, div. A, title VI, § 687(c)(7)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3334](https://www.govinfo.gov/link/statute/119/3334); [Pub. L. 109–364, div. A, title V, § 537(a)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2209](https://www.govinfo.gov/link/statute/120/2209); [Pub. L. 111–383, div. A, title V, § 553](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4220](https://www.govinfo.gov/link/statute/124/4220); [Pub. L. 115–91, div. A, title VI, § 618(a)(1)(I)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1426](https://www.govinfo.gov/link/statute/131/1426).)*

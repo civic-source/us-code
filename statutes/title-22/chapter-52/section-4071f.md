@@ -3,9 +3,10 @@ title: "Section 4071f - Government contributions"
 usc_title: 22
 usc_section: "4071f"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4071f"
-generated_at: "2026-03-30T02:55:05.405Z"
+generated_at: "2026-11-23T20:26:32.514Z"
+status: "active"
 ---
 
 # § 4071f. Government contributions
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.405Z"
   - **(1)** Subject to paragraphs (2) and (3), for purposes of any period in any year beginning after December 31, 2013 , the normal-cost percentage under this section shall be determined and applied as if section 402(b) of the Bipartisan Budget Act of 2013 had not been enacted.
   - **(2)** Any contributions under this section in excess of the amounts which (but for paragraph (1)) would otherwise have been payable shall be applied toward reducing the unfunded liability of the Foreign Service Retirement and Disability System.
   - **(3)** After the unfunded liability of the Foreign Service Retirement and Disability System has been eliminated, as determined by the Secretary of State, Government contributions under this section shall be determined and made disregarding this subsection.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 857](https://www.govinfo.gov/link/plaw/96/public/465), as added [Pub. L. 99–335, title IV, § 415](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 618](https://www.govinfo.gov/link/statute/100/618); amended [Pub. L. 113–67, div. A, title IV, § 402(c)](https://www.govinfo.gov/link/plaw/113/public/67), Dec. 26, 2013, [127 Stat. 1185](https://www.govinfo.gov/link/statute/127/1185).)*

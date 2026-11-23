@@ -3,9 +3,10 @@ title: "Section 20705a - Enhancing the ability of State, local, and Tribal child
 usc_title: 34
 usc_section: "20705a"
 chapter: 207
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 20705a"
-generated_at: "2026-03-30T02:55:33.299Z"
+generated_at: "2026-11-23T20:26:50.601Z"
+status: "active"
 ---
 
 # § 20705a. Enhancing the ability of State, local, and Tribal child welfare agencies to identify and respond to children who are, or are at risk of being, victims of trafficking
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:33.299Z"
     - **(D)** The State has developed and implemented or will develop and implement a specialized protocol for responding to a child who is, or is at risk of being, a trafficking victim to ensure the response focuses on the child’s specific safety needs as a victim of trafficking, and that includes the development and use of an alternative mechanism for investigating and responding to cases of child human trafficking in which the alleged offender is not the child’s parent or caregiver without utilizing existing processes for investigating and responding to other forms of child abuse or neglect that require the filing of an abuse or neglect petition.
   - **(3)** The term “Indian tribe” and “tribal organization” have the meanings given those terms in section 5304 of title 25 .
   - **(4)** The term “State” means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands. Such term includes an Indian tribe, tribal organization, or tribal consortium with a plan approved under section 479B of the Social Security Act ( 42 U.S.C. 679c ), or which is receiving funding to provide foster care under part E of title IV of such Act [ 42 U.S.C. 670 et seq.] pursuant to a cooperative agreement or contract with a State.
+
+## Source Credit
+
+*([Pub. L. 109–164, title II, § 204A](https://www.govinfo.gov/link/plaw/109/public/164), as added [Pub. L. 117–347, title I, § 104(a)(1)](https://www.govinfo.gov/link/plaw/117/public/347), Jan. 5, 2023, [136 Stat. 6201](https://www.govinfo.gov/link/statute/136/6201).)*

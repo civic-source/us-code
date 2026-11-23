@@ -3,9 +3,10 @@ title: "Section 2649 - State and Federal law"
 usc_title: 15
 usc_section: "2649"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2649"
-generated_at: "2026-03-30T02:54:08.180Z"
+generated_at: "2026-11-23T20:26:04.238Z"
+status: "active"
 ---
 
 # § 2649. State and Federal law
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:08.180Z"
 - **(c)** Nothing in this subchapter shall be construed or interpreted as preempting a State from establishing any additional liability or more stringent requirements with respect to asbestos in school buildings within such State.
 - **(d)** Nothing in this subchapter creates a cause of action or in any other way increases or diminishes the liability of any person under any other law.
 - **(e)** It is not the intent of Congress that this subchapter or rules, regulations, or orders issued pursuant to this subchapter be interpreted as influencing, in either the plaintiff’s or defendant’s favor, the disposition of any civil action for damages relating to asbestos. This subsection does not affect the authority of any court to make a determination in an adjudicatory proceeding under applicable State law with respect to the admission into evidence or any other use of this subchapter or rules, regulations, or orders issued pursuant to this subchapter.
+
+## Source Credit
+
+*([Pub. L. 94–469, title II, § 209](https://www.govinfo.gov/link/plaw/94/public/469), as added [Pub. L. 99–519, § 2](https://www.govinfo.gov/link/plaw/99/public/519), Oct. 22, 1986, [100 Stat. 2986](https://www.govinfo.gov/link/statute/100/2986).)*

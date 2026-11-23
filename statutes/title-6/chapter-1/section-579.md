@@ -3,9 +3,10 @@ title: "Section 579 - Interoperable Emergency Communications Grant Program"
 usc_title: 6
 usc_section: "579"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 579"
-generated_at: "2026-03-30T02:53:09.470Z"
+generated_at: "2026-11-23T20:25:34.799Z"
+status: "active"
 ---
 
 # § 579. Interoperable Emergency Communications Grant Program
@@ -68,3 +69,7 @@ generated_at: "2026-03-30T02:53:09.470Z"
   - **(1)** for fiscal year 2008, such sums as may be necessary;
   - **(2)** for each of fiscal years 2009 through 2012, $400,000,000; and
   - **(3)** for each subsequent fiscal year, such sums as may be necessary.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XVIII, § 1809](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 110–53, title III, § 301(a)](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 296](https://www.govinfo.gov/link/statute/121/296); amended [Pub. L. 115–278, § 2(g)(6)(C)](https://www.govinfo.gov/link/plaw/115/public/278), Nov. 16, 2018, [132 Stat. 4179](https://www.govinfo.gov/link/statute/132/4179).)*

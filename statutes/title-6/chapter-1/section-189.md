@@ -3,9 +3,10 @@ title: "Section 189 - Utilization of Department of Energy national laboratories 
 usc_title: 6
 usc_section: "189"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 189"
-generated_at: "2026-03-30T02:53:09.447Z"
+generated_at: "2026-11-23T20:25:34.654Z"
+status: "active"
 ---
 
 # § 189. Utilization of Department of Energy national laboratories and sites in support of homeland security activities
@@ -30,3 +31,57 @@ generated_at: "2026-03-30T02:53:09.447Z"
 - **(f)** No funds authorized to be appropriated or otherwise made available to the Department in any fiscal year may be obligated or expended for laboratory directed research and development activities carried out by the Department of Energy unless such activities support the missions of the Department of Homeland Security.
 - **(g)** There is established within the Directorate of Science and Technology an Office for National Laboratories, which shall be responsible for the coordination and utilization of the Department of Energy national laboratories and sites under this section in a manner to create a networked laboratory system for the purpose of supporting the missions of the Department.
 - **(h)** The Secretary of Energy shall ensure that any research, development, test, and evaluation activities conducted within the Department of Energy that are directly or indirectly related to homeland security are fully coordinated with the Secretary to minimize duplication of effort and maximize the effective application of Federal budget resources.
+
+Definitions
+
+Appropriate congressional committees
+
+Covered entity
+
+Exploit
+
+Industrial control system
+
+National laboratory
+
+Program
+
+Secretary
+
+Security vulnerability
+
+Pilot Program for Securing Energy Infrastructure
+
+Working Group To Evaluate Program Standards and Develop Strategy.—
+
+Establishment
+
+Membership
+
+Reports on the Program.—
+
+Interim report
+
+Final report
+
+Exemption From Disclosure
+
+Protection From Liability.—
+
+In general
+
+Voluntary activities
+
+No New Regulatory Authority for Federal Agencies
+
+Authorization of Appropriations.—
+
+Pilot program
+
+Working group and report
+
+Availability
+
+## Source Credit
+
+*([Pub. L. 107–296, title III, § 309](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2172](https://www.govinfo.gov/link/statute/116/2172).)*

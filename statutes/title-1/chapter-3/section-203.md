@@ -3,12 +3,17 @@ title: "Section 203 - District of Columbia Code; preparation and publication; cu
 usc_title: 1
 usc_section: "203"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "1 U.S.C. § 203"
-generated_at: "2026-03-30T02:52:49.392Z"
+generated_at: "2026-11-23T20:25:27.177Z"
+status: "active"
 ---
 
 # § 203. District of Columbia Code; preparation and publication; cumulative supplements
 
 The Committee on the Judiciary of the House of Representatives is authorized to print bills to codify, revise, and reenact the general and permanent laws relating to the District of Columbia and cumulative supplements thereto, similar in style, respectively, to the Code of Laws of the United States, and supplements thereto, and to so continue until final enactment thereof in both Houses of the Congress of the United States.
 
+
+## Source Credit
+
+*(July 30, 1947, ch. 388, [61 Stat. 638](https://www.govinfo.gov/link/statute/61/638).)*

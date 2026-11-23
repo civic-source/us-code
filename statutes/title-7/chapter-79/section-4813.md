@@ -3,9 +3,10 @@ title: "Section 4813 - Refunds"
 usc_title: 7
 usc_section: "4813"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 4813"
-generated_at: "2026-03-30T02:53:42.412Z"
+generated_at: "2026-11-23T20:25:41.635Z"
+status: "active"
 ---
 
 # § 4813. Refunds
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:42.412Z"
 - **(c)** Such refund shall be made not later than 30 days after demand is received therefore 1 1 So in original. Probably should be “therefor”. on submission of proof satisfactory to the Board that the producer, person, or importer—
   - **(1)** paid the assessment for which refund is sought; and
   - **(2)** did not collect such assessment from another producer, person, or importer.
+
+## Source Credit
+
+*([Pub. L. 99–198, title XVI, § 1624](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1619](https://www.govinfo.gov/link/statute/99/1619).)*

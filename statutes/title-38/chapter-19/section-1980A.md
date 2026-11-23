@@ -3,9 +3,10 @@ title: "Section 1980A - Traumatic injury protection"
 usc_title: 38
 usc_section: "1980A"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 1980A"
-generated_at: "2026-03-30T02:55:53.492Z"
+generated_at: "2026-11-23T20:27:01.756Z"
+status: "active"
 ---
 
 # § 1980A. Traumatic injury protection
@@ -72,3 +73,27 @@ generated_at: "2026-03-30T02:55:53.492Z"
     - **(A)** Each reason for that denial, including a description of all the information upon which the denial is based and a description of the applicable laws, regulations, or policies, with appropriate citations, and an explanation of how such laws, regulations, or policies affected the denial.
     - **(B)** Each finding that is favorable to the member.
   - **(2)** Any finding favorable to the member as described in paragraph (1)(B) shall be binding on all subsequent reviews or appeals of the denial of the claim, unless clear and convincing evidence is shown to the contrary to rebut such favorable finding.
+
+Designation of Fiduciary or Trustee
+
+In general
+
+Rulemaking
+
+In general
+
+Qualifying loss defined
+
+Eligibility
+
+Certification of persons entitled to payment
+
+Funding
+
+Qualifying loss
+
+Secretary concerned
+
+## Source Credit
+
+*(Added [Pub. L. 109–13, div. A, title I, § 1032(a)(2)](https://www.govinfo.gov/link/plaw/109/public/13), May 11, 2005, [119 Stat. 257](https://www.govinfo.gov/link/statute/119/257); amended [Pub. L. 109–233, title V, § 501(a)](https://www.govinfo.gov/link/plaw/109/public/233), June 15, 2006, [120 Stat. 411](https://www.govinfo.gov/link/statute/120/411); [Pub. L. 110–181, div. A, title XVII, § 1711](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 495](https://www.govinfo.gov/link/statute/122/495); [Pub. L. 111–275, title IV, § 406(a)(1)](https://www.govinfo.gov/link/plaw/111/public/275), title X, § 1001(d)(2), Oct. 13, 2010, [124 Stat. 2880](https://www.govinfo.gov/link/statute/124/2880), 2896; [Pub. L. 116–315, title II, § 2005](https://www.govinfo.gov/link/plaw/116/public/315), Jan. 5, 2021, [134 Stat. 4974](https://www.govinfo.gov/link/statute/134/4974).)*

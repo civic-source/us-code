@@ -3,9 +3,10 @@ title: "Section 3353 - Appraisal management company minimum requirements"
 usc_title: 12
 usc_section: "3353"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 3353"
-generated_at: "2026-03-30T02:53:53.493Z"
+generated_at: "2026-11-23T20:25:59.335Z"
+status: "active"
 ---
 
 # § 3353. Appraisal management company minimum requirements
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:53.493Z"
 - **(f)**
   - **(1)** No appraisal management company may perform services related to a federally related transaction in a State after the date that is 36 months after the date on which the regulations required to be prescribed under subsection (a) are prescribed in final form unless such company is registered with such State or subject to oversight by a Federal financial institutions regulatory agency.
   - **(2)** Subject to the approval of the Council, the Appraisal Subcommittee may extend by an additional 12 months the requirements for the registration and supervision of appraisal management companies if it makes a written finding that a State has made substantial progress in establishing a State appraisal management company registration and supervision system that appears to conform with the provisions of this chapter.
+
+## Source Credit
+
+*([Pub. L. 101–73, title XI, § 1124](https://www.govinfo.gov/link/plaw/101/public/73), as added [Pub. L. 111–203, title XIV, § 1473(f)(2)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2192](https://www.govinfo.gov/link/statute/124/2192).)*

@@ -3,9 +3,10 @@ title: "Section 16091 - Clean school bus program"
 usc_title: 42
 usc_section: "16091"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16091"
-generated_at: "2026-03-30T02:56:11.467Z"
+generated_at: "2026-11-23T20:27:23.606Z"
+status: "active"
 ---
 
 # § 16091. Clean school bus program
@@ -95,3 +96,7 @@ generated_at: "2026-03-30T02:56:11.467Z"
 - **(f)** There is authorized to be appropriated to the Administrator to carry out this section, to remain available until expended, $1,000,000,000 for each of fiscal years 2022 through 2026, of which—
   - **(1)** $500,000,000 shall be made available for the adoption of clean school buses and zero-emission school buses; and
   - **(2)** $500,000,000 shall be made available for the adoption of zero-emission school buses.
+
+## Source Credit
+
+*([Pub. L. 109–58, title VII, § 741](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 821](https://www.govinfo.gov/link/statute/119/821); [Pub. L. 117–58, div. G, title XI, § 71101](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1321](https://www.govinfo.gov/link/statute/135/1321); [Pub. L. 117–328, div. O, title IV, § 405](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5229](https://www.govinfo.gov/link/statute/136/5229).)*

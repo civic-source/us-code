@@ -3,9 +3,10 @@ title: "Section 20981 - Periodic studies of election administration issues"
 usc_title: 52
 usc_section: "20981"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "52 U.S.C. § 20981"
-generated_at: "2026-03-30T02:56:30.166Z"
+generated_at: "2026-11-23T20:27:36.978Z"
+status: "active"
 ---
 
 # § 20981. Periodic studies of election administration issues
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:56:30.166Z"
   - **(18)** Broadcasting practices that may result in the broadcast of false information concerning the location or time of operation of a polling place.
   - **(19)** Such other matters as the Commission determines are appropriate.
 - **(c)** The Commission shall submit to the President and to the Committee on House Administration of the House of Representatives and the Committee on Rules and Administration of the Senate a report on each study conducted under subsection (a) together with such recommendations for administrative and legislative action as the Commission determines is appropriate.
+
+## Source Credit
+
+*([Pub. L. 107–252, title II, § 241](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1686](https://www.govinfo.gov/link/statute/116/1686).)*

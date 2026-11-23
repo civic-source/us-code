@@ -3,9 +3,10 @@ title: "Section 8698 - Roles and responsibilities relating to sustainment and re
 usc_title: 10
 usc_section: "8698"
 chapter: 863
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 8698"
-generated_at: "2026-03-30T02:53:38.249Z"
+generated_at: "2026-11-23T20:25:52.231Z"
+status: "active"
 ---
 
 # § 8698. Roles and responsibilities relating to sustainment and readiness of certain naval surface vessels
@@ -32,3 +33,13 @@ generated_at: "2026-03-30T02:53:38.249Z"
   - **(5)** The term “type commander” means the flag officer in command of a naval surface force, such as the following:
     - **(A)** Commander, Naval Surface Force, Atlantic.
     - **(B)** Commander, Naval Surface Force, Pacific Fleet.
+
+Type Commander Leadership
+
+Maintenance and Repair at Private Shipyards
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. A, title III, § 337](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 819](https://www.govinfo.gov/link/statute/139/819).)*

@@ -3,9 +3,10 @@ title: "Section 16195 - Secondary electric vehicle battery use program"
 usc_title: 42
 usc_section: "16195"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16195"
-generated_at: "2026-03-30T02:56:11.472Z"
+generated_at: "2026-11-23T20:27:23.626Z"
+status: "active"
 ---
 
 # § 16195. Secondary electric vehicle battery use program
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:56:11.472Z"
     - **(C)** the proposers of a project under this section; and
     - **(D)** the battery manufacturers; and
   - **(2)** the costs of carrying out projects and activities under this section are shared in accordance with section 16352 of this title .
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 915](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 861](https://www.govinfo.gov/link/statute/119/861).)*

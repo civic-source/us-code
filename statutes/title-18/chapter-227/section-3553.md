@@ -3,9 +3,10 @@ title: "Section 3553 - Imposition of a sentence"
 usc_title: 18
 usc_section: "3553"
 chapter: 227
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 3553"
-generated_at: "2026-03-30T02:54:16.519Z"
+generated_at: "2026-11-23T20:26:08.734Z"
+status: "active"
 ---
 
 # § 3553. Imposition of a sentence
@@ -56,3 +57,39 @@ generated_at: "2026-03-30T02:54:16.519Z"
   - **(4)** the defendant was not an organizer, leader, manager, or supervisor of others in the offense, as determined under the sentencing guidelines and was not engaged in a continuing criminal enterprise, as defined in section 408 of the Controlled Substances Act; and
   - **(5)** not later than the time of the sentencing hearing, the defendant has truthfully provided to the Government all information and evidence the defendant has concerning the offense or offenses that were part of the same course of conduct or of a common scheme or plan, but the fact that the defendant has no relevant or useful other information to provide or that the Government is already aware of the information shall not preclude a determination by the court that the defendant has complied with this requirement.
 - **(g)** As used in this section, the term “violent offense” means a crime of violence, as defined in section 16, that is punishable by imprisonment.
+
+Factors To Be Considered in Imposing a Sentence
+
+Application of Guidelines in Imposing a Sentence
+
+In general
+
+Child crimes and sexual offenses
+
+Sentencing
+
+Statement of Reasons for Imposing a Sentence
+
+Presentence Procedure for an Order of Notice
+
+Limited Authority To Impose a Sentence Below a Statutory Minimum
+
+Limitation on Applicability of Statutory Minimums in Certain Cases
+
+Definition of Violent Offense
+
+Defined term
+
+Report required.—
+
+In general
+
+Contents
+
+Appeal of the departure
+
+Effective date
+
+## Source Credit
+
+*(Added [Pub. L. 98–473, title II, § 212(a)(2)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 1989](https://www.govinfo.gov/link/statute/98/1989); amended [Pub. L. 99–570, title I, § 1007(a)](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–7](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 99–646](https://www.govinfo.gov/link/plaw/99/public/646), §§ 8(a), 9(a), 80(a), 81(a), Nov. 10, 1986, [100 Stat. 3593](https://www.govinfo.gov/link/statute/100/3593), 3619; [Pub. L. 100–182](https://www.govinfo.gov/link/plaw/100/public/182), §§ 3, 16(a), 17, Dec. 7, 1987, [101 Stat. 1266](https://www.govinfo.gov/link/statute/101/1266), 1269, 1270; [Pub. L. 100–690, title VII, § 7102](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4416](https://www.govinfo.gov/link/statute/102/4416); [Pub. L. 103–322, title VIII, § 80001(a)](https://www.govinfo.gov/link/plaw/103/public/322), title XXVIII, § 280001, Sept. 13, 1994, [108 Stat. 1985](https://www.govinfo.gov/link/statute/108/1985), 2095; [Pub. L. 104–294, title VI](https://www.govinfo.gov/link/plaw/104/public/294), §§ 601(b)(5), (6), (h), Oct. 11, 1996, [110 Stat. 3499](https://www.govinfo.gov/link/statute/110/3499), 3500; [Pub. L. 107–273, div. B, title IV, § 4002(a)(8)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1807](https://www.govinfo.gov/link/statute/116/1807); [Pub. L. 108–21, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/108/public/21), (c), (j)(5), Apr. 30, 2003, [117 Stat. 667](https://www.govinfo.gov/link/statute/117/667), 669, 673; [Pub. L. 111–174, § 4](https://www.govinfo.gov/link/plaw/111/public/174), May 27, 2010, [124 Stat. 1216](https://www.govinfo.gov/link/statute/124/1216); [Pub. L. 115–391, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/115/public/391), Dec. 21, 2018, [132 Stat. 5221](https://www.govinfo.gov/link/statute/132/5221).)*

@@ -3,9 +3,10 @@ title: "Section 9822 - Other patient protections"
 usc_title: 26
 usc_section: "9822"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 9822"
-generated_at: "2026-03-30T02:55:27.898Z"
+generated_at: "2026-11-23T20:26:46.909Z"
+status: "active"
 ---
 
 # § 9822. 1 1 So in original. No section 9821 has been enacted. Other patient protections
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:27.898Z"
   - **(3)** Nothing in paragraph (1) shall be construed to—
     - **(A)** waive any exclusions of coverage under the terms and conditions of the plan with respect to coverage of obstetrical or gynecological care; or
     - **(B)** preclude the group health plan involved from requiring that the obstetrical or gynecological provider notify the primary care health care professional or the plan or issuer of treatment decisions.
+
+## Source Credit
+
+*(Added [Pub. L. 116–260, div. BB, title I, § 102(c)(2)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2795](https://www.govinfo.gov/link/statute/134/2795).)*

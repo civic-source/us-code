@@ -3,9 +3,10 @@ title: "Section 663 - Federal intrusion detection and prevention system"
 usc_title: 6
 usc_section: "663"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 663"
-generated_at: "2026-03-30T02:53:09.477Z"
+generated_at: "2026-11-23T20:25:34.828Z"
+status: "active"
 ---
 
 # § 663. Federal intrusion detection and prevention system
@@ -38,3 +39,55 @@ generated_at: "2026-03-30T02:53:09.477Z"
   - **(2)** No cause of action shall lie in any court against a private entity for assistance provided to the Secretary in accordance with this section and any contract or agreement entered into pursuant to subsection (c)(2).
   - **(3)** Nothing in paragraph (2) shall be construed to authorize an Internet service provider to break a user agreement with a customer without the consent of the customer.
 - **(f)** Not later than 1 year after December 18, 2015 , the Privacy Officer appointed under section 142 of this title , in consultation with the Attorney General, shall review the policies and guidelines for the program carried out under this section to ensure that the policies and guidelines are consistent with applicable privacy laws, including those governing the acquisition, interception, retention, use, and disclosure of communications.
+
+Vulnerability Disclosure Policy
+
+Remediation Process
+
+Consultation.—
+
+In general
+
+Nonapplicability of faca
+
+Public Availability
+
+Submission to Congress.—
+
+Disclosure policy and remediation process
+
+Report and briefing.—
+
+Report
+
+Annual briefings
+
+Matters for inclusion
+
+Definitions
+
+Definitions
+
+Bug Bounty Pilot Program.—
+
+Establishment
+
+Responsibilities of secretary
+
+Contract authority
+
+Report to Congress
+
+Authorization of Appropriations
+
+In general
+
+Exception
+
+Definition
+
+Rule of construction
+
+## Source Credit
+
+*([Pub. L. 107–296, title XXII, § 2213](https://www.govinfo.gov/link/plaw/107/public/296), formerly title II, § 230, as added [Pub. L. 114–113, div. N, title II, § 223(a)(6)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2964](https://www.govinfo.gov/link/statute/129/2964); renumbered title XXII, § 2213, and amended [Pub. L. 115–278, § 2(g)(2)(I)](https://www.govinfo.gov/link/plaw/115/public/278), (9)(A)(vii), Nov. 16, 2018, [132 Stat. 4178](https://www.govinfo.gov/link/statute/132/4178), 4181; [Pub. L. 117–263, div. G, title LXXI, § 7143(b)(2)(H)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3660](https://www.govinfo.gov/link/statute/136/3660).)*

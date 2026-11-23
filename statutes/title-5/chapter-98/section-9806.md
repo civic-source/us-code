@@ -3,9 +3,10 @@ title: "Section 9806 - Term appointments"
 usc_title: 5
 usc_section: "9806"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 9806"
-generated_at: "2026-03-30T02:52:56.074Z"
+generated_at: "2026-11-23T20:25:32.263Z"
+status: "active"
 ---
 
 # § 9806. Term appointments
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:52:56.074Z"
 - **(c)** Notwithstanding chapter 33 or any other provision of law relating to the examination, certification, and appointment of individuals in the competitive service, the Administrator may convert an employee serving under a term appointment to a permanent appointment in the competitive service within the Administration through internal competitive promotion procedures if the conditions under paragraphs (1) through (4) of subsection (b) are met.
 - **(d)** An employee converted under this section becomes a career-conditional employee, unless the employee has otherwise completed the service requirements for career tenure.
 - **(e)** An employee converted to career or career-conditional employment under this section acquires competitive status upon conversion.
+
+## Source Credit
+
+*(Added [Pub. L. 108–201, § 3(a)](https://www.govinfo.gov/link/plaw/108/public/201), Feb. 24, 2004, [118 Stat. 466](https://www.govinfo.gov/link/statute/118/466).)*

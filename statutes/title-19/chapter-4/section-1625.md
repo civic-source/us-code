@@ -3,9 +3,10 @@ title: "Section 1625 - Interpretive rulings and decisions; public information"
 usc_title: 19
 usc_section: "1625"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1625"
-generated_at: "2026-03-30T02:54:24.648Z"
+generated_at: "2026-11-23T20:26:10.829Z"
+status: "active"
 ---
 
 # § 1625. Interpretive rulings and decisions; public information
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:24.648Z"
   - **(2)** have the effect of modifying the treatment previously accorded by the Customs Service to substantially identical transactions;
 - **(d)** A decision that proposes to limit the application of a court decision shall be published in the Customs Bulletin together with notice of opportunity for public comment thereon prior to a final decision.
 - **(e)** The Secretary may make available in writing or through electronic media, in an efficient, comprehensive and timely manner, all information, including directives, memoranda, electronic messages and telexes which contain instructions, requirements, methods or advice necessary for importers and exporters to comply with the Customs 1 1 So in original. Probably should not be capitalized. laws and regulations. All information which may be made available pursuant to this subsection shall be subject to any exemption from disclosure provided by section 552 of title 5 .
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 625, as added [Pub. L. 95–410, title I, § 112](https://www.govinfo.gov/link/plaw/95/public/410), Oct. 3, 1978, [92 Stat. 898](https://www.govinfo.gov/link/statute/92/898); amended [Pub. L. 103–182, title VI, § 623](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2186](https://www.govinfo.gov/link/statute/107/2186); [Pub. L. 104–295, § 21(e)(14)](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3531](https://www.govinfo.gov/link/statute/110/3531).)*

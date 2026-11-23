@@ -3,9 +3,10 @@ title: "Section 11112 - Standards for professional review actions"
 usc_title: 42
 usc_section: "11112"
 chapter: 117
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11112"
-generated_at: "2026-03-30T02:56:11.395Z"
+generated_at: "2026-11-23T20:27:23.273Z"
+status: "active"
 ---
 
 # § 11112. Standards for professional review actions
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:56:11.395Z"
     - **(A)** where there is no adverse professional review action taken, or
     - **(B)** in the case of a suspension or restriction of clinical privileges, for a period of not longer than 14 days, during which an investigation is being conducted to determine the need for a professional review action; or
   - **(2)** precluding an immediate suspension or restriction of clinical privileges, subject to subsequent notice and hearing or other adequate procedures, where the failure to take such an action may result in an imminent danger to the health of any individual.
+
+## Source Credit
+
+*([Pub. L. 99–660, title IV, § 412](https://www.govinfo.gov/link/plaw/99/public/660), Nov. 14, 1986, [100 Stat. 3785](https://www.govinfo.gov/link/statute/100/3785).)*

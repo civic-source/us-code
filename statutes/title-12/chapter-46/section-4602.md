@@ -3,9 +3,10 @@ title: "Section 4602 - Studies of effects of privatization of FNMA and FHLMC"
 usc_title: 12
 usc_section: "4602"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4602"
-generated_at: "2026-03-30T02:53:53.510Z"
+generated_at: "2026-11-23T20:25:59.403Z"
+status: "active"
 ---
 
 # § 4602. Studies of effects of privatization of FNMA and FHLMC
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:53.510Z"
 - **(d)**
   - **(1)** In conducting the studies under this section, the Comptroller General, the Secretary of Housing and Urban Development, the Secretary of the Treasury, and the Director of the Congressional Budget Office shall each consider the views of the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation.
   - **(2)** The Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation may each report directly to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on its own analysis of the desirability and feasibility of repealing the Federal charters of the enterprises, eliminating any Federal sponsorship, and allowing the enterprises to continue to operate as fully private entities.
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1355](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3970](https://www.govinfo.gov/link/statute/106/3970).)*

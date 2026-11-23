@@ -3,9 +3,10 @@ title: "Section 4103 - Establishment of training programs"
 usc_title: 5
 usc_section: "4103"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 4103"
-generated_at: "2026-03-30T02:52:56.008Z"
+generated_at: "2026-11-23T20:25:31.852Z"
+status: "active"
 ---
 
 # § 4103. Establishment of training programs
@@ -24,3 +25,94 @@ generated_at: "2026-03-30T02:52:56.008Z"
 - **(c)** The head of each agency shall, on a regular basis—
   - **(1)** evaluate each program or plan established, operated, or maintained under subsection (a) with respect to accomplishing specific performance plans and strategic goals in performing the agency mission; and
   - **(2)** modify such program or plan as needed to accomplish such plans and goals.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 2306 . | July 7, 1958 , Pub. L. 85–507, § 7 , 72 Stat. 331 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 2306
+
+July 7, 1958
+
+Pub. L. 85–507, § 7
+
+72 Stat. 331
+
+Findings
+
+Sense of Congress on Implementation of Anti-trafficking-in-persons Policies
+
+Policy for Executive Branch Employees
+
+Timing
+
+Reporting
+
+In General
+
+Definition
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Section
+
+Sec
+
+Sec
+
+Ronald Reagan.
+
+Section
+
+Sec
+
+George Bush.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Secs
+
+Sec
+
+Sec
+
+Section
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966. [80 Stat. 433](https://www.govinfo.gov/link/statute/80/433); [Pub. L. 95–454, title III, § 304](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1146](https://www.govinfo.gov/link/statute/92/1146); [Pub. L. 103–226, § 2(a)(2)](https://www.govinfo.gov/link/plaw/103/public/226), Mar. 30, 1994, [108 Stat. 111](https://www.govinfo.gov/link/statute/108/111); [Pub. L. 108–411, title II, § 201(a)](https://www.govinfo.gov/link/plaw/108/public/411), Oct. 30, 2004, [118 Stat. 2311](https://www.govinfo.gov/link/statute/118/2311).)*

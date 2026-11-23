@@ -3,9 +3,10 @@ title: "Section 2702 - Research, development, and demonstration program"
 usc_title: 10
 usc_section: "2702"
 chapter: 160
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2702"
-generated_at: "2026-03-30T02:53:38.172Z"
+generated_at: "2026-11-23T20:25:51.681Z"
+status: "active"
 ---
 
 # § 2702. Research, development, and demonstration program
@@ -21,3 +22,19 @@ generated_at: "2026-03-30T02:53:38.172Z"
 - **(d)**
   - **(1)** The Secretary shall develop, collect, evaluate, and disseminate information related to the use (or potential use) of the treatment, disposal, and management technologies that are researched, developed, and demonstrated under this section.
   - **(2)** The functions of the Secretary under paragraph (1) shall be carried out in cooperation and consultation with the Administrator. To the extent appropriate and agreed upon by the Administrator and the Secretary, the Administrator shall evaluate and disseminate such information through the office of technology demonstration of the Environmental Protection Agency.
+
+Program
+
+Special Permit
+
+Contracts and Grants
+
+Information Collection and Dissemination.—
+
+In general
+
+Role of epa
+
+## Source Credit
+
+*(Added [Pub. L. 99–499, title II, § 211(a)(1)(B)](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1721](https://www.govinfo.gov/link/statute/100/1721); amended [Pub. L. 108–375, div. A, title X, § 1084(d)(25)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2063](https://www.govinfo.gov/link/statute/118/2063).)*

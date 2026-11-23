@@ -3,9 +3,10 @@ title: "Section 8088 - Judge Advocate General’s Corps: Office of the Judge Adv
 usc_title: 10
 usc_section: "8088"
 chapter: 809
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 8088"
-generated_at: "2026-03-30T02:53:38.239Z"
+generated_at: "2026-11-23T20:25:52.143Z"
+status: "active"
 ---
 
 # § 8088. Judge Advocate General’s Corps: Office of the Judge Advocate General; Judge Advocate General; appointment, term, emoluments, duties
@@ -22,3 +23,47 @@ generated_at: "2026-03-30T02:53:38.239Z"
   - **(1)** the ability of the Judge Advocate General to give independent legal advice to the Secretary of the Navy or the Chief of Naval Operations; or
   - **(2)** the ability of judge advocates of the Navy assigned or attached to, or performing duty with, military units to give independent legal advice to commanders.
 - **(f)** If the Judge Advocate General is removed from office before the end of the term of the Judge Advocate General as specified in subsection (b), the Secretary of Defense shall, not later than five days after the removal takes effect, submit to the Committees on Armed Services of the Senate and the House of Representatives notice that the Judge Advocate General is being removed and a statement of the reason for the removal.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5148 | 5 U.S.C. 428 . | June 8, 1880, ch. 129 , 21 Stat. 164 ; June 5, 1896, ch. 331 , 29 Stat. 251 . |
+|  | 50 U.S.C. 741 (as applicable to Navy JAG). | May 5, 1950, ch. 169, § 13 (as applicable to Navy JAG), 64 Stat. 147 . |
+|  | 5 U.S.C. 441 (as applicable to JAG). | July 1, 1918, ch. 114 , 40 Stat. 717 (1st sentence on p. 717, as applicable to JAG). |
+|  | 5 U.S.C. 425a (as applicable to JAG). | June 22, 1938, ch. 567 (as applicable to JAG), 52 Stat. 839 . |
+
+
+Historical and Revision Notes
+
+5148
+
+5 U.S.C. 428
+
+June 8, 1880, ch. 129
+
+21 Stat. 164
+
+June 5, 1896, ch. 331
+
+29 Stat. 251
+
+50 U.S.C. 741
+
+May 5, 1950, ch. 169, § 13
+
+64 Stat. 147
+
+5 U.S.C. 441
+
+July 1, 1918, ch. 114
+
+40 Stat. 717
+
+5 U.S.C. 425a
+
+June 22, 1938, ch. 567
+
+52 Stat. 839
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 289, § 5148; [Pub. L. 87–649, § 14c(20)](https://www.govinfo.gov/link/plaw/87/public/649), Sept. 7, 1962, [76 Stat. 501](https://www.govinfo.gov/link/statute/76/501); [Pub. L. 90–179, § 2(1)](https://www.govinfo.gov/link/plaw/90/public/179), Dec. 8, 1967, [81 Stat. 546](https://www.govinfo.gov/link/statute/81/546); [Pub. L. 96–513, title III, § 343](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2901](https://www.govinfo.gov/link/statute/94/2901); [Pub. L. 103–337, div. A, title V, § 504(b)(1)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2750](https://www.govinfo.gov/link/statute/108/2750); [Pub. L. 108–375, div. A, title V, § 574(b)(1)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1922](https://www.govinfo.gov/link/statute/118/1922); [Pub. L. 109–163, div. A, title V, § 508(b)](https://www.govinfo.gov/link/plaw/109/public/163), title X, § 1057(a)(2), Jan. 6, 2006, [119 Stat. 3229](https://www.govinfo.gov/link/statute/119/3229), 3440; [Pub. L. 110–181, div. A, title V, § 543(b)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 115](https://www.govinfo.gov/link/statute/122/115); [Pub. L. 114–328, div. A, title V, § 502(ff)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2105](https://www.govinfo.gov/link/statute/130/2105); renumbered § 8088, [Pub. L. 115–232, div. A, title VIII, § 807(a)(2)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1834](https://www.govinfo.gov/link/statute/132/1834); [Pub. L. 119–60, div. A, title V, § 506(b)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 858](https://www.govinfo.gov/link/statute/139/858).)*

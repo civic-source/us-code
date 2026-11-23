@@ -3,9 +3,10 @@ title: "Section 1602 - Definitions"
 usc_title: 21
 usc_section: "1602"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 1602"
-generated_at: "2026-03-30T02:54:54.303Z"
+generated_at: "2026-11-23T20:26:27.882Z"
+status: "active"
 ---
 
 # § 1602. Definitions
@@ -63,3 +64,11 @@ As used in this chapter:
         - **(I)** the sale or use of the implant is incidental to such services; and
         - **(II)** the essence of the professional health care services provided is the furnishing of judgment, skill, or services; or
       - **(iii)** any person who acts in only a financial capacity with respect to the sale of an implant.
+
+(aa) be disclosed to a jury in any civil action or other proceeding; and
+
+(bb) except as necessary to establish the applicability of this chapter, otherwise be presented in any civil action or other proceeding.
+
+## Source Credit
+
+*([Pub. L. 105–230, § 3](https://www.govinfo.gov/link/plaw/105/public/230), Aug. 13, 1998, [112 Stat. 1520](https://www.govinfo.gov/link/statute/112/1520).)*

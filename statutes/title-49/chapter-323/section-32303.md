@@ -3,9 +3,10 @@ title: "Section 32303 - Insurance information"
 usc_title: 49
 usc_section: "32303"
 chapter: 323
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 32303"
-generated_at: "2026-03-30T02:56:19.362Z"
+generated_at: "2026-11-23T20:27:34.984Z"
+status: "active"
 ---
 
 # § 32303. Insurance information
@@ -23,3 +24,34 @@ generated_at: "2026-03-30T02:56:19.362Z"
   - **(1)** about the extent to which the insurance premiums charged by the insurer are affected by damage susceptibility, crashworthiness, and the cost of repair and personal injury, for each make and model of passenger motor vehicle; and
   - **(2)** available to the insurer about the effect of damage susceptibility, crashworthiness, and the cost of repair and personal injury for each make and model of passenger motor vehicle on the risk incurred by the insurer in insuring that make and model.
 - **(c)** In distributing information received under this section, the Secretary may disclose identifying information about a person that may be an insured, a claimant, a passenger, an owner, a witness, or an individual involved in a motor vehicle accident, only with the consent of the person.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 32303(a) | 15:1945(a)–(d), (g). | Oct. 20, 1972 , Pub. L. 92–513, § 205 , 86 Stat. 958 . |
+| 32303(b) | 15:1945(e). |  |
+| 32303(c) | 15:1945(f). |  |
+
+
+General Reports and Information Requirements
+
+Requested Information on Crashworthiness, Damage Susceptibility, and Repair and Personal Injury Cost
+
+Disclosure
+
+Historical and Revision Notes
+
+32303(a)
+
+Oct. 20, 1972
+
+Pub. L. 92–513, § 205
+
+86 Stat. 958
+
+32303(b)
+
+32303(c)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1036](https://www.govinfo.gov/link/statute/108/1036).)*

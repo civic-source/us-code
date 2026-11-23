@@ -3,9 +3,10 @@ title: "Section 30112 - Prohibitions on manufacturing, selling, and importing no
 usc_title: 49
 usc_section: "30112"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 30112"
-generated_at: "2026-03-30T02:56:19.350Z"
+generated_at: "2026-11-23T20:27:34.891Z"
+status: "active"
 ---
 
 # § 30112. Prohibitions on manufacturing, selling, and importing noncomplying motor vehicles and equipment
@@ -31,3 +32,87 @@ generated_at: "2026-03-30T02:56:19.350Z"
     - **(A)** has manufactured and distributed motor vehicles into the United States that are certified to comply with all applicable Federal motor vehicle safety standards;
     - **(B)** has submitted to the Secretary appropriate manufacturer identification information under part 566 of title 49, Code of Federal Regulations; and
     - **(C)** if applicable, has identified an agent for service of process in accordance with part 551 of such title.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30112(a) | 15:1397(a)(1)(A). | Sept. 9, 1966 , Pub. L. 89–563, § 108(a)(1)(A) , 80 Stat. 722 ; Oct. 27, 1974 , Pub. L. 93–492, § 103(a)(1) , 88 Stat. 1477 ; Oct. 31, 1988 , Pub. L. 100–562, § 2(c) , (d), 102 Stat. 2824 . |
+|  | 15:1397(c)(1). | Sept. 9, 1966 , Pub. L. 89–563 , 80 Stat. 718 , § 108(c)(1), (i); added Oct. 31, 1988 , Pub. L. 100–562, § 2(b) , 102 Stat. 2818 , 2823. |
+| 30112(b) (1)–(3) | 15:1397(a)(2)(D), (b)(1) (1st sentence), (2). | Sept. 9, 1966 , Pub. L. 89–563, § 108(a)(2)(D) , (b)(1) (1st sentence), (2), 80 Stat. 722 ; Oct. 27, 1974 , Pub. L. 93–492, § 103(a)(1) , 88 Stat. 1477 , 1478. |
+|  | 15:1397(b)(3). | Sept. 9, 1966 , Pub. L. 89–563, § 108(b)(3) , 80 Stat. 723 ; Oct. 27, 1974 , Pub. L. 93–492, § 103(a)(1)(B) , 88 Stat. 1478 ; Oct. 31, 1988 , Pub. L. 100–562, § 2(a) , 102 Stat. 2818 . |
+| 30112(b) (4)–(8) | (no source). |  |
+| 30112(b)(9) | 15:1397(i). |  |
+
+
+General
+
+Nonapplication
+
+Historical and Revision Notes
+
+30112(a)
+
+Sept. 9, 1966
+
+Pub. L. 89–563, § 108(a)(1)(A)
+
+80 Stat. 722
+
+Oct. 27, 1974
+
+Pub. L. 93–492, § 103(a)(1)
+
+88 Stat. 1477
+
+Oct. 31, 1988
+
+Pub. L. 100–562, § 2(c)
+
+102 Stat. 2824
+
+Sept. 9, 1966
+
+Pub. L. 89–563
+
+80 Stat. 718
+
+Oct. 31, 1988
+
+Pub. L. 100–562, § 2(b)
+
+102 Stat. 2818
+
+Sept. 9, 1966
+
+Pub. L. 89–563, § 108(a)(2)(D)
+
+80 Stat. 722
+
+Oct. 27, 1974
+
+Pub. L. 93–492, § 103(a)(1)
+
+88 Stat. 1477
+
+Sept. 9, 1966
+
+Pub. L. 89–563, § 108(b)(3)
+
+80 Stat. 723
+
+Oct. 27, 1974
+
+Pub. L. 93–492, § 103(a)(1)(B)
+
+88 Stat. 1478
+
+Oct. 31, 1988
+
+Pub. L. 100–562, § 2(a)
+
+102 Stat. 2818
+
+30112(b)(9)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 945](https://www.govinfo.gov/link/statute/108/945); [Pub. L. 109–59, title X, § 10309(b)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1942](https://www.govinfo.gov/link/statute/119/1942); [Pub. L. 112–141, div. C, title I, § 31207](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 761](https://www.govinfo.gov/link/statute/126/761); [Pub. L. 114–94, div. B, title XXIV, § 24404](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1721](https://www.govinfo.gov/link/statute/129/1721).)*

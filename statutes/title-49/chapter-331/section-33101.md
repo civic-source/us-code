@@ -3,9 +3,10 @@ title: "Section 33101 - Definitions"
 usc_title: 49
 usc_section: "33101"
 chapter: 331
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 33101"
-generated_at: "2026-03-30T02:56:19.368Z"
+generated_at: "2026-11-23T20:27:35.023Z"
+status: "active"
 ---
 
 # § 33101. Definitions
@@ -39,3 +40,90 @@ In this chapter—
   - **(9)** “new line” means a line introduced into commerce after December 31, 1989 .
   - **(10)** “passenger motor vehicle” includes a multipurpose passenger vehicle or light duty truck when that vehicle or truck is rated at not more than 6,000 pounds gross vehicle weight.
   - **(11)** “vehicle theft prevention standard” means a minimum performance standard for identifying major parts of new motor vehicles and major replacement parts by inscribing or affixing numbers or symbols on those parts.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 33101(1) | 15:2021(11). | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , § 601(11); added Oct. 25, 1992 , Pub. L. 102–519, § 301(b) , 106 Stat. 3394 . |
+| 33101(2) | 15:2021(6). | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , § 601(2)–(7), (9), (10); added Oct. 25, 1984 , Pub. L. 98–547, § 101(a) , 98 Stat. 2755 , 2756. |
+| 33101(3) | 15:2021(3). |  |
+| 33101(4) | 15:2021(5). |  |
+| 33101(5) | 15:2021(2). |  |
+| 33101(6) | 15:2021(7). |  |
+| 33101(7) | 15:2021(8). | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , § 601(1), (8); added Oct. 25, 1984 , Pub. L. 98–547, § 101(a) , 98 Stat. 2755 ; restated Oct. 25, 1992 , Pub. L. 102–519, § 301(a) , (c), 106 Stat. 3393 , 3394. |
+| 33101(8) | 15:2021(9). |  |
+| 33101(9) | 15:2021(4). |  |
+| 33101(10) | 15:2021(1). |  |
+| 33101(11) | 15:2021(10). |  |
+
+
+Historical and Revision Notes
+
+Pub. L
+
+33101(1)
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+Oct. 25, 1992
+
+Pub. L. 102–519, § 301(b)
+
+106 Stat. 3394
+
+33101(2)
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+Oct. 25, 1984
+
+Pub. L. 98–547, § 101(a)
+
+98 Stat. 2755
+
+33101(3)
+
+33101(4)
+
+33101(5)
+
+33101(6)
+
+33101(7)
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+Oct. 25, 1984
+
+Pub. L. 98–547, § 101(a)
+
+98 Stat. 2755
+
+Oct. 25, 1992
+
+Pub. L. 102–519, § 301(a)
+
+106 Stat. 3393
+
+33101(8)
+
+33101(9)
+
+33101(10)
+
+33101(11)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1076](https://www.govinfo.gov/link/statute/108/1076); [Pub. L. 103–429, § 6(44)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4383](https://www.govinfo.gov/link/statute/108/4383); [Pub. L. 104–287, § 6(d)(1)(B)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3399](https://www.govinfo.gov/link/statute/110/3399).)*

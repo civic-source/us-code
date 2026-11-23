@@ -3,9 +3,10 @@ title: "Section 3755 - Prerequisites to foreclosure"
 usc_title: 12
 usc_section: "3755"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 3755"
-generated_at: "2026-03-30T02:53:53.497Z"
+generated_at: "2026-11-23T20:25:59.349Z"
+status: "active"
 ---
 
 # § 3755. Prerequisites to foreclosure
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:53.497Z"
 - **(b)** Nothing in this chapter shall preclude the Secretary from—
   - **(1)** enforcing any right, other than foreclosure, under applicable Federal or State law, including any right to obtain a monetary judgment; or
   - **(2)** foreclosing under this chapter if the Secretary has obtained or is seeking any other remedy available pursuant to Federal or State law, or under the mortgage agreement, including the appointment of a receiver, mortgagee-in-possession status, or relief under an assignment of rents.
+
+## Source Credit
+
+*([Pub. L. 103–327, title II](https://www.govinfo.gov/link/plaw/103/public/327), Sept. 28, 1994, [108 Stat. 2316](https://www.govinfo.gov/link/statute/108/2316).)*

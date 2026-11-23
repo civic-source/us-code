@@ -3,9 +3,10 @@ title: "Section 7256c - Milestone-based demonstration projects"
 usc_title: 42
 usc_section: "7256c"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7256c"
-generated_at: "2026-03-30T02:56:11.285Z"
+generated_at: "2026-11-23T20:27:22.791Z"
+status: "active"
 ---
 
 # § 7256c. Milestone-based demonstration projects
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.285Z"
   - **(2)** should an awardee not meet the milestones described in subsection (a), the Secretary or their designee may end the partnership with an award recipient and use the remaining funds in the ended agreement for new or existing projects carried out under this section.
 - **(d)** In carrying out projects under this program and assessing the completion of their milestones in accordance with subsection (b), the Secretary shall consult with experts that represent diverse perspectives and professional experiences, including those from the private sector, to ensure a complete and thorough review.
 - **(e)** In accordance with section 16391a(a) of this title , the Secretary shall report annually on any demonstration projects carried out using the authorities under this section.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. Z, title IX, § 9005](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2599](https://www.govinfo.gov/link/statute/134/2599).)*

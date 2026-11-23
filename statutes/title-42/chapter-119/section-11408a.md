@@ -3,9 +3,10 @@ title: "Section 11408a - Use of FMHA inventory for transitional housing for home
 usc_title: 42
 usc_section: "11408a"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11408a"
-generated_at: "2026-03-30T02:56:11.402Z"
+generated_at: "2026-11-23T20:27:23.307Z"
+status: "active"
 ---
 
 # § 11408a. Use of FMHA inventory for transitional housing for homeless persons and for turnkey housing
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:56:11.402Z"
   - **(1)** The Secretary shall, by regulation, require each public agency and nonprofit organization leasing or purchasing property under this section to provide for the participation of not less than 1 homeless individual or former homeless individual on the board of directors or other equivalent policy making entity of such agency or organization, to the extent that such organization or applicant considers and makes policies and decisions regarding any property acquired under this section.
   - **(2)** The Secretary may grant a waiver to a public agency or nonprofit organization that is unable to meet the requirement of paragraph (1), if the agency or organization agrees to otherwise consult with homeless or formerly homeless individuals in considering and making such policies and decisions.
 - **(h)** The authority provided to the Secretary under this section shall be effective only to the extent approved in advance in appropriations Acts.
+
+## Source Credit
+
+*([Pub. L. 100–77, title IV, § 592[492]](https://www.govinfo.gov/link/plaw/100/public/77), as added [Pub. L. 102–550, title XIV, § 1414](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 4041](https://www.govinfo.gov/link/statute/106/4041).)*

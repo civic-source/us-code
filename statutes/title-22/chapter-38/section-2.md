@@ -3,12 +3,17 @@ title: "Section 2 - Facilitating access to Department of State"
 usc_title: 22
 usc_section: "2"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2"
-generated_at: "2026-03-30T02:55:05.378Z"
+generated_at: "2026-11-23T20:26:32.370Z"
+status: "active"
 ---
 
 # § 2680–2. Facilitating access to Department of State
 
 - **(a)** The Department of State shall maintain procedures to ensure that the members and staff of the congressional committees of jurisdiction are granted easy access to the Department of State in the conduct of their duties.
 - **(b)** The Department of State shall also make available adequate parking for members and staff of the congressional committees of jurisdiction in order to facilitate attendance of meetings at the Department of State.
+
+## Source Credit
+
+*([Pub. L. 103–236, title I, § 129](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 394](https://www.govinfo.gov/link/statute/108/394).)*

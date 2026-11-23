@@ -3,9 +3,10 @@ title: "Section 850a - Art. 50a. Defense of lack of mental responsibility"
 usc_title: 10
 usc_section: "850a"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 850a"
-generated_at: "2026-03-30T02:53:38.080Z"
+generated_at: "2026-11-23T20:25:51.074Z"
+status: "active"
 ---
 
 # § 850a. Art. 50a. Defense of lack of mental responsibility
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:38.080Z"
 - **(e)** Notwithstanding the provisions of section 852 of this title (article 52), the accused shall be found not guilty only by reason of lack of mental responsibility if—
   - **(1)** a majority of the members of the court-martial present at the time the vote is taken determines that the defense of lack of mental responsibility has been established; or
   - **(2)** in the case of a court-martial composed of a military judge only, the military judge determines that the defense of lack of mental responsibility has been established.
+
+## Source Credit
+
+*(Added [Pub. L. 99–661, div. A, title VIII, § 802(a)(1)](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 3905](https://www.govinfo.gov/link/statute/100/3905); [Pub. L. 114–328, div. E, title LVII, § 5233](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2915](https://www.govinfo.gov/link/statute/130/2915).)*

@@ -3,9 +3,10 @@ title: "Section 12111 - Registry endorsement"
 usc_title: 46
 usc_section: "12111"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 12111"
-generated_at: "2026-03-30T02:56:15.558Z"
+generated_at: "2026-11-23T20:27:27.172Z"
+status: "active"
 ---
 
 # § 12111. Registry endorsement
@@ -26,3 +27,46 @@ generated_at: "2026-03-30T02:56:15.558Z"
     - **(A)** the setting, relocation, or recovery of the anchors or other mooring equipment of a mobile offshore drilling unit that is located over the outer Continental Shelf (as defined in section 2(a) of the Outer Continental Shelf Lands Act ( 43 U.S.C. 1331(a) )); or
     - **(B)** the transportation of merchandise or personnel to or from a point in the United States from or to a mobile offshore drilling unit located over the outer Continental Shelf that is not attached to the seabed.
   - **(2)** Nothing in paragraph (1) authorizes the employment in the coastwise trade of a vessel that does not meet the requirements of section 12112 of this title .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 12111(a) | 46:12105(a). |  |
+| 12111(b) | 46:12105(b). |  |
+| 12111(c) | 46:12102(d). |  |
+
+
+Requirements
+
+Authorized Activity
+
+Certain Vessels Owned by Trusts
+
+Nonapplication of beneficiary citizenship requirement
+
+Requirements for trust to qualify
+
+In general
+
+Authority of non-citizens
+
+Ownership by non-citizens
+
+Citizenship of person chartering vessel
+
+Activities Involving Mobile Offshore Drilling Units.—
+
+In general
+
+Coastwise trade not authorized
+
+Historical and Revision Notes
+
+12111(a)
+
+12111(b)
+
+12111(c)
+
+## Source Credit
+
+*([Pub. L. 109–304, § 5](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1494](https://www.govinfo.gov/link/statute/120/1494); [Pub. L. 109–241, title III, § 310](https://www.govinfo.gov/link/plaw/109/public/241), July 11, 2006, [120 Stat. 529](https://www.govinfo.gov/link/statute/120/529); [Pub. L. 110–181, div. C, title XXXV, § 3525(a)(1)](https://www.govinfo.gov/link/plaw/110/public/181), (b), Jan. 28, 2008, [122 Stat. 600](https://www.govinfo.gov/link/statute/122/600), 601.)*

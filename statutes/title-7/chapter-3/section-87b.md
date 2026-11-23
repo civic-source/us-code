@@ -3,9 +3,10 @@ title: "Section 87b - Prohibited acts"
 usc_title: 7
 usc_section: "87b"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 87b"
-generated_at: "2026-03-30T02:53:42.254Z"
+generated_at: "2026-11-23T20:25:40.907Z"
+status: "active"
 ---
 
 # § 87b. Prohibited acts
@@ -59,3 +60,7 @@ generated_at: "2026-03-30T02:53:42.254Z"
   - **(3)** Prior to taking action under this subsection, the Secretary shall promulgate regulations after providing for notice and an opportunity for public comment, that identify and define actions and conditions that are subject to prohibition.
   - **(4)** In no case shall the Secretary prohibit the blending of an entire grade of grain.
   - **(5)** In implementing paragraph (1)(C), the Secretary shall report any prohibitions to other appropriate public health agencies.
+
+## Source Credit
+
+*(Aug. 11, 1916, ch. 313, pt. B, § 13, as added [Pub. L. 90–487, § 1](https://www.govinfo.gov/link/plaw/90/public/487), Aug. 15, 1968, [82 Stat. 766](https://www.govinfo.gov/link/statute/82/766); amended [Pub. L. 94–582, § 15](https://www.govinfo.gov/link/plaw/94/public/582), Oct. 21, 1976, [90 Stat. 2883](https://www.govinfo.gov/link/statute/90/2883); [Pub. L. 95–113, title XVI](https://www.govinfo.gov/link/plaw/95/public/113), §§ 1604(j), 1606(h), Sept. 29, 1977, [91 Stat. 1029](https://www.govinfo.gov/link/statute/91/1029), 1030; [Pub. L. 99–641, title III, § 303(a)](https://www.govinfo.gov/link/plaw/99/public/641), Nov. 10, 1986, [100 Stat. 3564](https://www.govinfo.gov/link/statute/100/3564); [Pub. L. 101–624, title XX, § 2008](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3931](https://www.govinfo.gov/link/statute/104/3931); [Pub. L. 103–156](https://www.govinfo.gov/link/plaw/103/public/156), §§ 7, 12(l), Nov. 24, 1993, [107 Stat. 1526](https://www.govinfo.gov/link/statute/107/1526), 1529; [Pub. L. 103–354, title II, § 293(a)(7)](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3237](https://www.govinfo.gov/link/statute/108/3237); [Pub. L. 106–472, title I, § 107](https://www.govinfo.gov/link/plaw/106/public/472), Nov. 9, 2000, [114 Stat. 2060](https://www.govinfo.gov/link/statute/114/2060).)*

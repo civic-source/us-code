@@ -3,9 +3,10 @@ title: "Section 11 - Supervision, examination, and report of condition"
 usc_title: 12
 usc_section: "11"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 11"
-generated_at: "2026-03-30T02:53:53.483Z"
+generated_at: "2026-11-23T20:25:59.284Z"
+status: "active"
 ---
 
 # § 2279aa–11. Supervision, examination, and report of condition
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:53:53.483Z"
 - **(f)** The Farm Credit Administration Board shall ensure that—
   - **(1)** the Office of Secondary Market Oversight has access to a sufficient number of qualified and trained employees to adequately supervise the secondary market activities of the Corporation; and
   - **(2)** the supervision of the powers, functions, and duties of the Corporation is performed, to the extent practicable, by personnel who are not responsible for the supervision of the banks and associations of the Farm Credit System.
+
+## Source Credit
+
+*([Pub. L. 92–181, title VIII, § 8](https://www.govinfo.gov/link/plaw/92/public/181).11, as added [Pub. L. 100–233, title VII, § 702](https://www.govinfo.gov/link/plaw/100/public/233), Jan. 6, 1988, [101 Stat. 1702](https://www.govinfo.gov/link/statute/101/1702); amended [Pub. L. 101–624, title XVIII, § 1840](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3835](https://www.govinfo.gov/link/statute/104/3835); [Pub. L. 102–237, title V, § 503(a)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1870](https://www.govinfo.gov/link/statute/105/1870); [Pub. L. 102–552, title III, § 308(b)(2)](https://www.govinfo.gov/link/plaw/102/public/552), Oct. 28, 1992, [106 Stat. 4116](https://www.govinfo.gov/link/statute/106/4116); [Pub. L. 104–105, title I, § 111](https://www.govinfo.gov/link/plaw/104/public/105), Feb. 10, 1996, [110 Stat. 165](https://www.govinfo.gov/link/statute/110/165); [Pub. L. 115–334, title V, § 5411(47)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4685](https://www.govinfo.gov/link/statute/132/4685).)*

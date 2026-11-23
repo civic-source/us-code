@@ -3,9 +3,10 @@ title: "Section 294e - Allied health and other disciplines"
 usc_title: 42
 usc_section: "294e"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 294e"
-generated_at: "2026-03-30T02:56:10.777Z"
+generated_at: "2026-11-23T20:27:20.384Z"
+status: "active"
 ---
 
 # § 294e. Allied health and other disciplines
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:10.777Z"
   - **(2)** Planning and implementing projects in preventive and primary care training for podiatric physicians in approved or provisionally approved residency programs that shall provide financial assistance in the form of traineeships to residents who participate in such projects and who plan to specialize in primary care.
   - **(3)** Carrying out demonstration projects in which chiropractors and physicians collaborate to identify and provide effective treatment for spinal and lower-back conditions.
   - **(4)** Increasing educational opportunities in physical therapy, occupational therapy, respiratory therapy, audiology, and speech-language pathology professions, which may include offering scholarships or stipends and carrying out other activities to improve retention, for individuals from disadvantaged backgrounds or individuals who are underrepresented in such professions.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 755, as added [Pub. L. 105–392, title I, § 103](https://www.govinfo.gov/link/plaw/105/public/392), Nov. 13, 1998, [112 Stat. 3548](https://www.govinfo.gov/link/statute/112/3548); amended [Pub. L. 116–136, div. A, title III, § 3401(8)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 386](https://www.govinfo.gov/link/statute/134/386); [Pub. L. 117–328, div. FF, title II, § 2224](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5749](https://www.govinfo.gov/link/statute/136/5749).)*

@@ -3,9 +3,10 @@ title: "Section 1437n - Eligibility for assisted housing"
 usc_title: 42
 usc_section: "1437n"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1437n"
-generated_at: "2026-03-30T02:56:11.086Z"
+generated_at: "2026-11-23T20:27:21.742Z"
+status: "active"
 ---
 
 # § 1437n. Eligibility for assisted housing
@@ -103,3 +104,9 @@ generated_at: "2026-03-30T02:56:11.086Z"
 - **(f)** Notwithstanding any other provision of law, a public housing agency shall establish standards for occupancy in public housing dwelling units and assistance under section 1437f of this title that—
   - **(1)** permanently prohibit occupancy in any public housing dwelling unit by, and assistance under section 1437f of this title for, any person who has been convicted of manufacturing or otherwise producing methamphetamine on the premises in violation of any Federal or State law; and
   - **(2)** immediately and permanently terminate the tenancy in any public housing unit of, and the assistance under section 1437f of this title for, any person who is convicted of manufacturing or otherwise producing methamphetamine on the premises in violation of any Federal or State law.
+
+Targeting
+
+## Source Credit
+
+*(Sept. 1, 1937, ch. 896, title I, § 16, as added [Pub. L. 97–35, title III, § 323](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 404](https://www.govinfo.gov/link/statute/95/404); amended [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title II, § 213], Nov. 30, 1983, [97 Stat. 1184](https://www.govinfo.gov/link/statute/97/1184); [Pub. L. 100–242, title I](https://www.govinfo.gov/link/plaw/100/public/242), §§ 103, 112(b)(8), Feb. 5, 1988, [101 Stat. 1822](https://www.govinfo.gov/link/statute/101/1822), 1824; renumbered title I, [Pub. L. 100–358, § 5](https://www.govinfo.gov/link/plaw/100/public/358), June 29, 1988, [102 Stat. 681](https://www.govinfo.gov/link/statute/102/681); [Pub. L. 100–628, title X, § 1001(a)](https://www.govinfo.gov/link/plaw/100/public/628), Nov. 7, 1988, [102 Stat. 3263](https://www.govinfo.gov/link/statute/102/3263); [Pub. L. 101–625, title V](https://www.govinfo.gov/link/plaw/101/public/625), §§ 511, 572(1), Nov. 28, 1990, [104 Stat. 4194](https://www.govinfo.gov/link/statute/104/4194), 4236; [Pub. L. 102–550, title I, § 105](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3684](https://www.govinfo.gov/link/statute/106/3684); [Pub. L. 104–99, title IV, § 402(d)(6)(A)(v)](https://www.govinfo.gov/link/plaw/104/public/99), Jan. 26, 1996, [110 Stat. 42](https://www.govinfo.gov/link/statute/110/42); [Pub. L. 104–120, § 9(d)](https://www.govinfo.gov/link/plaw/104/public/120), Mar. 28, 1996, [110 Stat. 837](https://www.govinfo.gov/link/statute/110/837); [Pub. L. 104–330, title V, § 501(b)(7)](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4042](https://www.govinfo.gov/link/statute/110/4042); [Pub. L. 105–276, title IV, § 428](https://www.govinfo.gov/link/plaw/105/public/276), title V, §§ 513(a), 576(d)(2), Oct. 21, 1998, [112 Stat. 2511](https://www.govinfo.gov/link/statute/112/2511), 2543, 2640; [Pub. L. 105–277, div. A, § 123](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–546](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 106–74, title II, § 205](https://www.govinfo.gov/link/plaw/106/public/74), Oct. 20, 1999, [113 Stat. 1069](https://www.govinfo.gov/link/statute/113/1069); [Pub. L. 113–76, div. L, title II, § 238(b)](https://www.govinfo.gov/link/plaw/113/public/76), Jan. 17, 2014, [128 Stat. 635](https://www.govinfo.gov/link/statute/128/635); [Pub. L. 114–201, title I](https://www.govinfo.gov/link/plaw/114/public/201), §§ 103, 104, July 29, 2016, [130 Stat. 792](https://www.govinfo.gov/link/statute/130/792), 793.)*

@@ -3,9 +3,10 @@ title: "Section 2912 - Authority to provide assistance to cooperative countries"
 usc_title: 50
 usc_section: "2912"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 2912"
-generated_at: "2026-03-30T02:56:26.226Z"
+generated_at: "2026-11-23T20:27:30.864Z"
+status: "active"
 ---
 
 # § 2912. Authority to provide assistance to cooperative countries
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:26.226Z"
 - **(f)**
   - **(1)** Except as provided in paragraph (2), the President may not transfer any excess defense article that is a vessel or an aircraft to a country that has not agreed, in connection with such transfer, that it will support and assist efforts by the United States, consistent with international law, to interdict items of proliferation concern until 30 days after the date on which the President has provided notice of the proposed transfer to the committees described in subsection (c) in accordance with the procedures applicable to reprogramming notifications under section 634A(a) of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2394–1(a) ), in addition to any other requirement of law.
   - **(2)** The limitation in paragraph (1) shall not apply to any transfer, not involving significant military equipment, in which the primary use of the aircraft or vessel will be for counternarcotics, counterterrorism, or counter-proliferation purposes.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XVIII, § 1822](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 495](https://www.govinfo.gov/link/statute/121/495).)*

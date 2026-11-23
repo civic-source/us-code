@@ -3,9 +3,10 @@ title: "Section 3006 - Projects of national significance"
 usc_title: 29
 usc_section: "3006"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3006"
-generated_at: "2026-03-30T02:55:18.747Z"
+generated_at: "2026-11-23T20:26:38.081Z"
+status: "active"
 ---
 
 # § 3006. Projects of national significance
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:18.747Z"
 - **(c)** A public or private nonprofit entity desiring a grant under this section shall submit an application to the Secretary at such time, in such manner, and containing a description of the project of national significance the entity proposes to carry out under this section.
 - **(d)** For each grant award period, the Secretary may give preference for 1 or more categories of projects of national significance described in subparagraphs (A) through (H) of subsection (a)(2).
 - **(e)** The Secretary may only award grants, contracts, or cooperative agreements under this section if the amount made available under section 3008 of this title to carry out sections 3003, 3004, and 3005 of this title is equal to or greater than $49,000,000.
+
+## Source Credit
+
+*([Pub. L. 105–394, § 7](https://www.govinfo.gov/link/plaw/105/public/394), as added [Pub. L. 108–364, § 2](https://www.govinfo.gov/link/plaw/108/public/364), Oct. 25, 2004, [118 Stat. 1734](https://www.govinfo.gov/link/statute/118/1734); amended [Pub. L. 113–128, title IV, § 491](https://www.govinfo.gov/link/plaw/113/public/128) (o)(3), July 22, 2014, [128 Stat. 1698](https://www.govinfo.gov/link/statute/128/1698); [Pub. L. 117–263, div. E, title LIV, § 5402](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3286](https://www.govinfo.gov/link/statute/136/3286).)*

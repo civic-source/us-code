@@ -3,9 +3,10 @@ title: "Section 1188 - Admission of temporary H–2A workers"
 usc_title: 8
 usc_section: "1188"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1188"
-generated_at: "2026-03-30T02:53:10.484Z"
+generated_at: "2026-11-23T20:25:36.133Z"
+status: "active"
 ---
 
 # § 1188. Admission of temporary H–2A workers
@@ -70,3 +71,15 @@ generated_at: "2026-03-30T02:53:10.484Z"
 - **(i)** For purposes of this section:
   - **(1)** The term “eligible individual” means, with respect to employment, an individual who is not an unauthorized alien (as defined in section 1324a(h)(3) of this title ) with respect to that employment.
   - **(2)** The term “H–2A worker” means a nonimmigrant described in section 1101(a)(15)(H)(ii)(a) of this title .
+
+Effective Date
+
+Regulations
+
+Presidential Reports
+
+Deadlines
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 2, § 218, formerly § 216, as added [Pub. L. 99–603, title III, § 301(c)](https://www.govinfo.gov/link/plaw/99/public/603), Nov. 6, 1986, [100 Stat. 3411](https://www.govinfo.gov/link/statute/100/3411); renumbered § 218 and amended [Pub. L. 100–525, § 2](https://www.govinfo.gov/link/plaw/100/public/525) (l)(2), (3), Oct. 24, 1988, [102 Stat. 2612](https://www.govinfo.gov/link/statute/102/2612); [Pub. L. 102–232, title III](https://www.govinfo.gov/link/plaw/102/public/232), §§ 307(l)(4), 309(b)(8), Dec. 12, 1991, [105 Stat. 1756](https://www.govinfo.gov/link/statute/105/1756), 1759; [Pub. L. 103–416, title II, § 219(z)(8)](https://www.govinfo.gov/link/plaw/103/public/416), Oct. 25, 1994, [108 Stat. 4318](https://www.govinfo.gov/link/statute/108/4318); [Pub. L. 106–78, title VII, § 748](https://www.govinfo.gov/link/plaw/106/public/78), Oct. 22, 1999, [113 Stat. 1167](https://www.govinfo.gov/link/statute/113/1167); [Pub. L. 106–554, § 1(a)(1) [title I, § 105]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–11.)*

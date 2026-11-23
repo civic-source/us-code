@@ -3,9 +3,10 @@ title: "Section 2423 - Loan guarantees"
 usc_title: 43
 usc_section: "2423"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 2423"
-generated_at: "2026-03-30T02:55:57.497Z"
+generated_at: "2026-11-23T20:27:06.408Z"
+status: "active"
 ---
 
 # § 2423. Loan guarantees
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:57.497Z"
   - **(4)** A loan guarantee under this section shall provide for complete amortization of the loan guarantee within not more than 40 years.
   - **(5)** An obligation shall be subject to the condition that the obligation is not subordinate to other financing.
 - **(c)** Any prepayment or refinancing terms on a loan guarantee shall be negotiated between the non-Federal borrower and the lender with the consent of the Secretary.
+
+## Source Credit
+
+*([Pub. L. 109–451, title II, § 204](https://www.govinfo.gov/link/plaw/109/public/451), Dec. 22, 2006, [120 Stat. 3358](https://www.govinfo.gov/link/statute/120/3358).)*

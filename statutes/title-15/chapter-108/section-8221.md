@@ -3,9 +3,10 @@ title: "Section 8221 - Regulation of credit for reinsurance and reinsurance agre
 usc_title: 15
 usc_section: "8221"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 8221"
-generated_at: "2026-03-30T02:54:08.228Z"
+generated_at: "2026-11-23T20:26:04.479Z"
+status: "active"
 ---
 
 # § 8221. Regulation of credit for reinsurance and reinsurance agreements
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.228Z"
   - **(2)** require that a certain State’s law shall govern the reinsurance contract, disputes arising from the reinsurance contract, or requirements of the reinsurance contract;
   - **(3)** attempt to enforce a reinsurance contract on terms different than those set forth in the reinsurance contract, to the extent that the terms are not inconsistent with this subchapter; or
   - **(4)** otherwise apply the laws of the State to reinsurance agreements of ceding insurers not domiciled in that State.
+
+## Source Credit
+
+*([Pub. L. 111–203, title V, § 531](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1595](https://www.govinfo.gov/link/statute/124/1595).)*

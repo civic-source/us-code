@@ -3,9 +3,10 @@ title: "Section 5111 - Commencement of period of payment"
 usc_title: 38
 usc_section: "5111"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 5111"
-generated_at: "2026-03-30T02:55:53.520Z"
+generated_at: "2026-11-23T20:27:01.949Z"
+status: "active"
 ---
 
 # § 5111. Commencement of period of payment
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:53.520Z"
 - **(d)** For the purposes of this section, the term “award or increased award” means—
   - **(1)** an original award or award based on a supplemental claim; or
   - **(2)** an award that is increased because of an added dependent, increase in disability or disability rating, or reduction in income.
+
+## Source Credit
+
+*(Added [Pub. L. 97–253, title IV, § 401(a)(1)](https://www.govinfo.gov/link/plaw/97/public/253), Sept. 8, 1982, [96 Stat. 801](https://www.govinfo.gov/link/statute/96/801), § 3011; amended [Pub. L. 98–223, title I, § 113](https://www.govinfo.gov/link/plaw/98/public/223), Mar. 2, 1984, [98 Stat. 40](https://www.govinfo.gov/link/statute/98/40); renumbered § 5111 and amended [Pub. L. 102–40, title IV, § 402(b)(1)](https://www.govinfo.gov/link/plaw/102/public/40), (d)(1), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238), 239; [Pub. L. 102–83, § 4(a)(1)](https://www.govinfo.gov/link/plaw/102/public/83), Aug. 6, 1991, [105 Stat. 403](https://www.govinfo.gov/link/statute/105/403); [Pub. L. 111–275, title VI, § 605(a)](https://www.govinfo.gov/link/plaw/111/public/275), Oct. 13, 2010, [124 Stat. 2885](https://www.govinfo.gov/link/statute/124/2885); [Pub. L. 112–154, title V, § 507(b)](https://www.govinfo.gov/link/plaw/112/public/154), Aug. 6, 2012, [126 Stat. 1194](https://www.govinfo.gov/link/statute/126/1194); [Pub. L. 115–55, § 2(m)](https://www.govinfo.gov/link/plaw/115/public/55), Aug. 23, 2017, [131 Stat. 1110](https://www.govinfo.gov/link/statute/131/1110); [Pub. L. 116–283, div. A, title IX, § 926(a)(53)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3830](https://www.govinfo.gov/link/statute/134/3830).)*

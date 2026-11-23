@@ -3,9 +3,10 @@ title: "Section 430kk - Wilson’s Creek National Battlefield: establishment and
 usc_title: 16
 usc_section: "430kk"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 430kk"
-generated_at: "2026-03-30T02:54:22.797Z"
+generated_at: "2026-11-23T20:26:19.845Z"
+status: "active"
 ---
 
 # § 430kk. Wilson’s Creek National Battlefield: establishment and acquisition of lands
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:22.797Z"
 - **(e)** Nothing in sections 430kk to 430mm of this title shall be construed to modify the authority of Federal, State, or local governments to regulate land use.
 - **(f)** Nothing in sections 430kk to 430mm of this title shall be construed to require the owner of any private property located within the boundaries of the Wilson’s Creek National Battlefield to participate in, or be associated with, the National Battlefield.
 - **(g)** The boundaries of the Wilson’s Creek National Battlefield, as revised by subsection (b), represent the area within which Federal funds appropriated for the purpose of sections 430kk to 430mm of this title may be expended. The boundary revision shall not be construed to provide any nonexisting regulatory authority on land use within the National Battlefield or its viewshed by the Secretary or the National Park Service.
+
+## Source Credit
+
+*([Pub. L. 86–434, § 1](https://www.govinfo.gov/link/plaw/86/public/434), Apr. 22, 1960, [74 Stat. 76](https://www.govinfo.gov/link/statute/74/76); [Pub. L. 108–394, § 2(a)](https://www.govinfo.gov/link/plaw/108/public/394), Oct. 30, 2004, [118 Stat. 2247](https://www.govinfo.gov/link/statute/118/2247); [Pub. L. 117–328, div. DD, title VI, § 616](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5604](https://www.govinfo.gov/link/statute/136/5604).)*

@@ -3,9 +3,10 @@ title: "Section 4941 - Taxes on self-dealing"
 usc_title: 26
 usc_section: "4941"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 4941"
-generated_at: "2026-03-30T02:55:27.806Z"
+generated_at: "2026-11-23T20:26:46.343Z"
+status: "active"
 ---
 
 # § 4941. Taxes on self-dealing
@@ -55,3 +56,11 @@ generated_at: "2026-03-30T02:55:27.806Z"
     - **(A)** in the case of the taxes imposed by subsection (a), shall be determined as of the date on which the act of self-dealing occurs; and
     - **(B)** in the case of the taxes imposed by subsection (b), shall be the highest fair market value during the taxable period.
   - **(3)** The terms “correction” and “correct” mean, with respect to any act of self-dealing, undoing the transaction to the extent possible, but in any case placing the private foundation in a financial position not worse than that in which it would be if the disqualified person were dealing under the highest fiduciary standards.
+
+General Rule
+
+Statute of Limitations
+
+## Source Credit
+
+*(Added [Pub. L. 91–172, title I, § 101(b)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 499](https://www.govinfo.gov/link/statute/83/499); amended [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1901(b)(8)(H), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1795](https://www.govinfo.gov/link/statute/90/1795), 1834; [Pub. L. 96–596, § 2(a)(1)(A)](https://www.govinfo.gov/link/plaw/96/public/596), (B), (2)(A), (3)(A), Dec. 24, 1980, [94 Stat. 3469](https://www.govinfo.gov/link/statute/94/3469), 3471; [Pub. L. 96–608, § 5](https://www.govinfo.gov/link/plaw/96/public/608), Dec. 28, 1980, [94 Stat. 3553](https://www.govinfo.gov/link/statute/94/3553); [Pub. L. 99–234, title I, § 107(c)](https://www.govinfo.gov/link/plaw/99/public/234), Jan. 2, 1986, [99 Stat. 1759](https://www.govinfo.gov/link/statute/99/1759); [Pub. L. 99–514, title I, § 122(a)(2)(A)](https://www.govinfo.gov/link/plaw/99/public/514), title XVIII, § 1812(b)(1), Oct. 22, 1986, [100 Stat. 2110](https://www.govinfo.gov/link/statute/100/2110), 2833; [Pub. L. 100–647, title I, § 1001(d)(1)(A)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3350](https://www.govinfo.gov/link/statute/102/3350); [Pub. L. 109–280, title XII, § 1212(a)(1)](https://www.govinfo.gov/link/plaw/109/public/280), (2), Aug. 17, 2006, [120 Stat. 1074](https://www.govinfo.gov/link/statute/120/1074).)*

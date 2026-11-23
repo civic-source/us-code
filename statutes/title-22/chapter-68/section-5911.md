@@ -3,9 +3,10 @@ title: "Section 5911 - Administration of demilitarization programs"
 usc_title: 22
 usc_section: "5911"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 5911"
-generated_at: "2026-03-30T02:55:05.421Z"
+generated_at: "2026-11-23T20:26:32.581Z"
+status: "active"
 ---
 
 # § 5911. Administration of demilitarization programs
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:05.421Z"
     - **(F)** not more than $10,000,000 may be made available for the Volunteers Investing in Peace and Security (VIPS) program under chapter 89 1 1 See References in Text note below. of title 10.
   - **(2)** , (3) Omitted.
 - **(b)**
+
+## Source Credit
+
+*([Pub. L. 102–484, div. A, title XIV, § 1421](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2564](https://www.govinfo.gov/link/statute/106/2564).)*

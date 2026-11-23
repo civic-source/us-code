@@ -3,9 +3,10 @@ title: "Section 1681a - Definitions; rules of construction"
 usc_title: 15
 usc_section: "1681a"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1681a"
-generated_at: "2026-03-30T02:54:08.146Z"
+generated_at: "2026-11-23T20:26:04.074Z"
+status: "active"
 ---
 
 # § 1681a. Definitions; rules of construction
@@ -140,3 +141,89 @@ generated_at: "2026-03-30T02:54:08.146Z"
 - **(aa)** The term “veteran’s medical debt”—
   - **(1)** means a medical collection debt of a veteran owed to a non-Department of Veterans Affairs health care provider that was submitted to the Department for payment for health care authorized by the Department of Veterans Affairs; and
   - **(2)** includes medical collection debt that the Department of Veterans Affairs has wrongfully charged a veteran.
+
+Consumer Report.—
+
+In general
+
+Exclusions
+
+Restriction on sharing of medical information
+
+Medical Information
+
+Definitions Relating to Child Support Obligations.—
+
+Overdue support
+
+State or local child support enforcement agency
+
+Adverse Action.—
+
+Actions included
+
+Applicable findings, decisions, commentary, and orders
+
+Firm Offer of Credit or Insurance
+
+Credit or Insurance Transaction That Is Not Initiated by the Consumer
+
+State
+
+Excluded Communications
+
+Consumer Reporting Agency That Compiles and Maintains Files on Consumers on a Nationwide Basis
+
+Definitions Relating to Fraud Alerts.—
+
+Active duty military consumer
+
+Fraud alert; active duty alert
+
+Identity theft
+
+Identity theft report
+
+New credit plan
+
+Card issuer
+
+Credit card
+
+Debit card
+
+Account and electronic fund transfer
+
+Credit and creditor
+
+Federal Banking Agency
+
+Financial Institution
+
+Reseller
+
+Commission
+
+Nationwide Specialty Consumer Reporting Agency
+
+Exclusion of Certain Communications for Employee Investigations.—
+
+Communications described in this subsection
+
+Subsequent disclosure
+
+Self-regulatory organization defined
+
+Veteran
+
+Veteran’s Medical Debt
+
+“This section [amending this section and section 1681b of this title ] shall take effect at the end of the 180-day period beginning on the date of enactment of this Act [ Dec. 4, 2003 ], except that paragraph (2) of section 604(g) of the Fair Credit Reporting Act [ 15 U.S.C. 1681b(g)(2) ] (as amended by subsection (a) of this section) shall take effect on the later of—
+
+In General
+
+Early Compliance
+
+## Source Credit
+
+*([Pub. L. 90–321, title VI, § 603](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 91–508, title VI, § 601](https://www.govinfo.gov/link/plaw/91/public/508), Oct. 26, 1970, [84 Stat. 1128](https://www.govinfo.gov/link/statute/84/1128); amended [Pub. L. 102–537, § 2(b)](https://www.govinfo.gov/link/plaw/102/public/537), Oct. 27, 1992, [106 Stat. 3531](https://www.govinfo.gov/link/statute/106/3531); [Pub. L. 104–208, div. A, title II, § 2402](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–426](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 105–347, § 6(1)](https://www.govinfo.gov/link/plaw/105/public/347) –(3), Nov. 2, 1998, [112 Stat. 3211](https://www.govinfo.gov/link/statute/112/3211); [Pub. L. 108–159, title I, § 111](https://www.govinfo.gov/link/plaw/108/public/159), title II, § 214(c)(1), title IV, § 411(b), (c), title VI, § 611, Dec. 4, 2003, [117 Stat. 1954](https://www.govinfo.gov/link/statute/117/1954), 1983, 2001, 2010; [Pub. L. 111–203, title X, § 1088(a)(1)](https://www.govinfo.gov/link/plaw/111/public/203), (2)(A), (C), (3), July 21, 2010, [124 Stat. 2086](https://www.govinfo.gov/link/statute/124/2086), 2087; [Pub. L. 115–174, title III, § 302(b)(1)](https://www.govinfo.gov/link/plaw/115/public/174), May 24, 2018, [132 Stat. 1333](https://www.govinfo.gov/link/statute/132/1333).)*

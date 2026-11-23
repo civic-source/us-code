@@ -3,9 +3,10 @@ title: "Section 661 - Cybersecurity strategy"
 usc_title: 6
 usc_section: "661"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 661"
-generated_at: "2026-03-30T02:53:09.477Z"
+generated_at: "2026-11-23T20:25:34.828Z"
+status: "active"
 ---
 
 # § 661. Cybersecurity strategy
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:53:09.477Z"
   - **(2)** A copy of the implementation plan required under subsection (d) upon issuance, together with detailed information on any associated legislative or budgetary proposals.
 - **(f)** The strategy required under subsection (a) shall be in an unclassified form but may contain a classified annex.
 - **(g)** Nothing in this section may be construed as permitting the Department to engage in monitoring, surveillance, exfiltration, or other collection activities for the purpose of tracking an individual’s personally identifiable information.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XXII, § 2211](https://www.govinfo.gov/link/plaw/107/public/296), formerly title II, § 228A, as added [Pub. L. 114–328, div. A, title XIX, § 1912(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2683](https://www.govinfo.gov/link/statute/130/2683); renumbered title XXII, § 2211, and amended [Pub. L. 115–278, § 2(g)(2)(I)](https://www.govinfo.gov/link/plaw/115/public/278), (9)(A)(v), Nov. 16, 2018, [132 Stat. 4178](https://www.govinfo.gov/link/statute/132/4178), 4181; [Pub. L. 117–263, div. G, title LXXI, § 7143(b)(2)(F)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3660](https://www.govinfo.gov/link/statute/136/3660).)*

@@ -3,9 +3,10 @@ title: "Section 715a - Definitions"
 usc_title: 15
 usc_section: "715a"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 715a"
-generated_at: "2026-03-30T02:54:08.117Z"
+generated_at: "2026-11-23T20:26:03.897Z"
+status: "active"
 ---
 
 # § 715a. Definitions
@@ -16,3 +17,7 @@ As used in this chapter—
   - **(2)** The term “products” or “petroleum products” includes any article produced or derived in whole or in part from petroleum or any product thereof by refining, processing, manufacturing, or otherwise.
   - **(3)** The term “interstate commerce” means commerce between any point in a State and any point outside thereof, or between points within the same State but through any place outside thereof, or from any place in the United States to a foreign country, but only insofar as such commerce takes place within the United States.
   - **(4)** The term “person” includes an individual, partnership, corporation, or joint-stock company,
+
+## Source Credit
+
+*(Feb. 22, 1935, ch. 18, § 2, [49 Stat. 30](https://www.govinfo.gov/link/statute/49/30); [Pub. L. 89–644](https://www.govinfo.gov/link/plaw/89/public/644), Oct. 13, 1966, [80 Stat. 890](https://www.govinfo.gov/link/statute/80/890).)*

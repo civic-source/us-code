@@ -3,9 +3,10 @@ title: "Section 5390 - Powers and duties of the Corporation"
 usc_title: 12
 usc_section: "5390"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5390"
-generated_at: "2026-03-30T02:53:53.534Z"
+generated_at: "2026-11-23T20:25:59.485Z"
+status: "active"
 ---
 
 # § 5390. Powers and duties of the Corporation
@@ -684,3 +685,15 @@ generated_at: "2026-03-30T02:53:53.534Z"
   - **(1)** The Corporation, as receiver of a covered financial company, may recover from any current or former senior executive or director substantially responsible for the failed condition of the covered financial company any compensation received during the 2-year period preceding the date on which the Corporation was appointed as the receiver of the covered financial company, except that, in the case of fraud, no time limit shall apply.
   - **(2)** In seeking to recover any such compensation, the Corporation shall weigh the financial and deterrent benefits of such recovery against the cost of executing the recovery.
   - **(3)** The Corporation shall promulgate regulations to implement the requirements of this subsection, including defining the term “compensation” to mean any financial remuneration, including salary, bonuses, incentives, benefits, severance, deferred compensation, or golden parachute benefits, and any profits realized from the sale of the securities of the covered financial company.
+
+(aa) after the 90-day period preceding the date on which the Corporation was appointed as receiver for the covered financial company; and
+
+(bb) while the covered financial company was insolvent (except for a setoff in connection with a qualified financial contract); or
+
+(aa) in the opinion of the Corporation or such authority— (AA) the covered financial company is not likely to be able to pay its obligations in the normal course of business; and (BB) there is no reasonable prospect that the covered financial company will be able to pay such obligations without Federal assistance; or
+
+(bb) in the opinion of the Corporation or such authority— (AA) the covered financial company has incurred or is likely to incur losses that will deplete all or substantially all of its capital; and (BB) there is no reasonable prospect that the capital will be replenished without Federal assistance.
+
+## Source Credit
+
+*([Pub. L. 111–203, title II, § 210](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1460](https://www.govinfo.gov/link/statute/124/1460).)*

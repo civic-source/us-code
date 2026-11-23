@@ -3,12 +3,31 @@ title: "Section 7151 - General transfers"
 usc_title: 42
 usc_section: "7151"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7151"
-generated_at: "2026-03-30T02:56:11.283Z"
+generated_at: "2026-11-23T20:27:22.781Z"
+status: "active"
 ---
 
 # § 7151. General transfers
 
 - **(a)** Except as otherwise provided in this chapter, there are transferred to, and vested in, the Secretary all of the functions vested by law in the Administrator of the Federal Energy Administration or the Federal Energy Administration, the Administrator of the Energy Research and Development Administration or the Energy Research and Development Administration; and the functions vested by law in the officers and components of either such Administration.
 - **(b)** Except as provided in subchapter IV, there are transferred to, and vested in, the Secretary the function of the Federal Power Commission, or of the members, officers, or components thereof. The Secretary may exercise any power described in section 7172(a)(2) of this title to the extent the Secretary determines such power to be necessary to the exercise of any function within his jurisdiction pursuant to the preceding sentence.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Jimmy Carter.
+
+## Source Credit
+
+*([Pub. L. 95–91, title III, § 301](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 577](https://www.govinfo.gov/link/statute/91/577).)*

@@ -3,9 +3,10 @@ title: "Section 3222 - Migrant and seasonal farmworker programs"
 usc_title: 29
 usc_section: "3222"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3222"
-generated_at: "2026-03-30T02:55:18.757Z"
+generated_at: "2026-11-23T20:26:38.115Z"
+status: "active"
 ---
 
 # § 3222. Migrant and seasonal farmworker programs
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:55:18.757Z"
       - **(i)** for 12 consecutive months out of the 24 months prior to application for the program involved, has been primarily employed in agricultural or fish farming labor that is characterized by chronic unemployment or underemployment; and
       - **(ii)** faces multiple barriers to economic self-sufficiency; and
     - **(B)** a dependent of the person described in subparagraph (A).
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 167](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1564](https://www.govinfo.gov/link/statute/128/1564).)*

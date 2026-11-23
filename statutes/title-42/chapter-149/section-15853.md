@@ -3,9 +3,10 @@ title: "Section 15853 - Rebate program"
 usc_title: 42
 usc_section: "15853"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 15853"
-generated_at: "2026-03-30T02:56:11.461Z"
+generated_at: "2026-11-23T20:27:23.574Z"
+status: "active"
 ---
 
 # § 15853. Rebate program
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.461Z"
     - **(C)** $200,000,000 for fiscal year 2008;
     - **(D)** $250,000,000 for fiscal year 2009; and
     - **(E)** $250,000,000 for fiscal year 2010.
+
+## Source Credit
+
+*([Pub. L. 109–58, title II, § 206(c)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 655](https://www.govinfo.gov/link/statute/119/655).)*

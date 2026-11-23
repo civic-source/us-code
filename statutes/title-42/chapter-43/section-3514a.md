@@ -3,12 +3,17 @@ title: "Section 3514a - Nonrecurring expenses fund"
 usc_title: 42
 usc_section: "3514a"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3514a"
-generated_at: "2026-03-30T02:56:11.187Z"
+generated_at: "2026-11-23T20:27:22.286Z"
+status: "active"
 ---
 
 # § 3514a. Nonrecurring expenses fund
 
 There is hereby established in the Treasury of the United States a fund to be known as the “Nonrecurring expenses fund” (the Fund): Provided , That unobligated balances of expired discretionary funds appropriated in this or any succeeding fiscal year from the General Fund of the Treasury to the Department of Health and Human Services by this or any other Act may be transferred (not later than the end of the fifth fiscal year after the last fiscal year for which such funds are available for the purposes for which appropriated) into the Fund: Provided further , That amounts deposited in the Fund shall be available until expended, and in addition to such other funds as may be available for such purposes, for capital acquisition necessary for the operation of the Department, including facilities infrastructure and information technology infrastructure, subject to approval by the Office of Management and Budget: Provided further , That amounts in the Fund may be obligated only after the Committees on Appropriations of the House of Representatives and the Senate are notified at least 15 days in advance of the planned use of funds.
 
+
+## Source Credit
+
+*([Pub. L. 110–161, div. G, title II, § 223](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2188](https://www.govinfo.gov/link/statute/121/2188); [Pub. L. 111–8, div. F, title II, § 220](https://www.govinfo.gov/link/plaw/111/public/8), Mar. 11, 2009, [123 Stat. 783](https://www.govinfo.gov/link/statute/123/783).)*

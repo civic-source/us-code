@@ -3,9 +3,10 @@ title: "Section 51315 - Gifts to the Merchant Marine Academy"
 usc_title: 46
 usc_section: "51315"
 chapter: 513
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 51315"
-generated_at: "2026-03-30T02:56:15.570Z"
+generated_at: "2026-11-23T20:27:27.287Z"
+status: "active"
 ---
 
 # § 51315. Gifts to the Merchant Marine Academy
@@ -20,3 +21,19 @@ generated_at: "2026-03-30T02:56:15.570Z"
 - **(d)** There are hereby authorized to be disbursed from the Fund such sums as may be on deposit, to remain available until expended.
 - **(e)** Gifts accepted under this section are a gift to or for the use of the Government under the Internal Revenue Code of 1986.
 - **(f)** The Maritime Administrator may pay all necessary expenses in connection with the conveyance or transfer of a gift, devise, or bequest accepted under this section.
+
+In General
+
+Establishment of Academy Gift Fund
+
+Investment of Fund Balances
+
+Disbursement Authority
+
+Deductibility of Gifts
+
+Payment of Expenses
+
+## Source Credit
+
+*(Added [Pub. L. 110–417, div. C, title XXXV, § 3506(g)(1)](https://www.govinfo.gov/link/plaw/110/public/417), Oct. 14, 2008, [122 Stat. 4764](https://www.govinfo.gov/link/statute/122/4764); amended [Pub. L. 115–91, div. C, title XXXV, § 3511](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1918](https://www.govinfo.gov/link/statute/131/1918).)*

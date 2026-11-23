@@ -3,9 +3,10 @@ title: "Section 2803 - National Aquaculture Development Plan"
 usc_title: 16
 usc_section: "2803"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 2803"
-generated_at: "2026-03-30T02:54:23.006Z"
+generated_at: "2026-11-23T20:26:20.620Z"
+status: "active"
 ---
 
 # § 2803. National Aquaculture Development Plan
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:54:23.006Z"
   - **(4)** to the extent practicable, the identification of aquacultural production regions, species, and markets that have significant potential for development;
   - **(5)** a catalog describing all Federal programs and activities that directly or indirectly encourage, support, or assist aquaculture; and
   - **(6)** the identification of the economic, physical, legal, institutional, and social constraints that inhibit the development of aquaculture in the United States.
+
+## Source Credit
+
+*([Pub. L. 96–362, § 4](https://www.govinfo.gov/link/plaw/96/public/362), Sept. 26, 1980, [94 Stat. 1199](https://www.govinfo.gov/link/statute/94/1199); [Pub. L. 96–561, title II, § 238(b)](https://www.govinfo.gov/link/plaw/96/public/561), Dec. 22, 1980, [94 Stat. 3300](https://www.govinfo.gov/link/statute/94/3300); [Pub. L. 99–198, title XVII, § 1734](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1641](https://www.govinfo.gov/link/statute/99/1641); [Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009](https://www.govinfo.gov/link/statute/110/3009), 3009–41.)*

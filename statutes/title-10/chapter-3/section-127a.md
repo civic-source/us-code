@@ -3,9 +3,10 @@ title: "Section 127a - Operations for which funds are not provided in advance: f
 usc_title: 10
 usc_section: "127a"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 127a"
-generated_at: "2026-03-30T02:53:38.032Z"
+generated_at: "2026-11-23T20:25:50.815Z"
+status: "active"
 ---
 
 # § 127a. Operations for which funds are not provided in advance: funding mechanisms
@@ -36,3 +37,23 @@ generated_at: "2026-03-30T02:53:38.032Z"
 - **(g)** For purposes of this section, incremental costs of the Department of Defense with respect to an operation are the costs of the Department that are directly attributable to the operation (and would not have been incurred but for the operation). Incremental costs do not include the cost of property or services acquired by the Department that are paid for by a source outside the Department or out of funds contributed by such a source.
 - **(h)** This section may not be construed as altering or superseding the War Powers Resolution. This section does not provide authority to conduct any military operation.
 - **(i)** The Comptroller General of the United States shall from time to time, and when requested by a committee of Congress, conduct a review of the defense funding structure under this section to determine whether the Department of Defense is complying with the requirements and limitations of this section.
+
+In General
+
+Waiver of Requirement To Reimburse Support Units
+
+Transfer Authority
+
+Limitations
+
+Submission of Requests for Supplemental Appropriations
+
+Incremental Costs
+
+Relationship to War Powers Resolution
+
+GAO Compliance Reviews
+
+## Source Credit
+
+*(Added [Pub. L. 103–160, div. A, title XI, § 1108(a)(1)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1751](https://www.govinfo.gov/link/statute/107/1751); amended [Pub. L. 104–106, div. A, title X, § 1003(a)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 415](https://www.govinfo.gov/link/statute/110/415); [Pub. L. 108–136, div. A, title X, § 1031(a)(3)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1596](https://www.govinfo.gov/link/statute/117/1596); [Pub. L. 111–383, div. A, title X, § 1075(b)(2)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4369](https://www.govinfo.gov/link/statute/124/4369); [Pub. L. 112–81, div. A, title X, § 1061(1)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1583](https://www.govinfo.gov/link/statute/125/1583).)*

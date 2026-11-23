@@ -3,9 +3,10 @@ title: "Section 10534 - James Guelff and Chris McCurley Body Armor Act of 2002"
 usc_title: 34
 usc_section: "10534"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10534"
-generated_at: "2026-03-30T02:55:33.271Z"
+generated_at: "2026-11-23T20:26:50.479Z"
+status: "active"
 ---
 
 # § 10534. James Guelff and Chris McCurley Body Armor Act of 2002
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:55:33.271Z"
       - **(ii)** The Commissioner of U.S. Customs and Border Protection.
       - **(iii)** The Director of the United States Secret Service.
   - **(5)** Notwithstanding any other provision of law, the United States shall not be liable for any harm occurring in connection with the use or misuse of any body armor donated under this subsection.
+
+## Source Credit
+
+*([Pub. L. 107–273, div. C, title I, § 11009](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1819](https://www.govinfo.gov/link/statute/116/1819); [Pub. L. 114–125, title VIII, § 802(d)(2)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 210](https://www.govinfo.gov/link/statute/130/210).)*

@@ -3,9 +3,10 @@ title: "Section 2906 - Written evaluations"
 usc_title: 12
 usc_section: "2906"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 2906"
-generated_at: "2026-03-30T02:53:53.488Z"
+generated_at: "2026-11-23T20:25:59.312Z"
+status: "active"
 ---
 
 # § 2906. Written evaluations
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:53:53.488Z"
   - **(1)** The term “domestic branch” means any branch office or other facility of a regulated financial institution that accepts deposits, located in any State.
   - **(2)** The term “metropolitan area” means any primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area, as defined by the Director of the Office of Management and Budget, with a population of 250,000 or more, and any other area designated as such by the appropriate Federal financial supervisory agency.
   - **(3)** The term “State” has the same meaning as in section 1813 of this title .
+
+## Source Credit
+
+*([Pub. L. 95–128, title VIII, § 807](https://www.govinfo.gov/link/plaw/95/public/128), as added [Pub. L. 101–73, title XII, § 1212(b)](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 527](https://www.govinfo.gov/link/statute/103/527); amended [Pub. L. 102–242, title II, § 222](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2306](https://www.govinfo.gov/link/statute/105/2306); [Pub. L. 103–328, title I, § 110](https://www.govinfo.gov/link/plaw/103/public/328), Sept. 29, 1994, [108 Stat. 2364](https://www.govinfo.gov/link/statute/108/2364).)*

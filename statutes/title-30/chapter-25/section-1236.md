@@ -3,9 +3,10 @@ title: "Section 1236 - Reclamation of rural lands"
 usc_title: 30
 usc_section: "1236"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1236"
-generated_at: "2026-03-30T02:55:29.398Z"
+generated_at: "2026-11-23T20:26:35.004Z"
+status: "active"
 ---
 
 # § 1236. Reclamation of rural lands
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:29.398Z"
 - **(g)** The Secretary of Agriculture shall be authorized to issue such rules and regulations as he determines are necessary to carry out the provisions of this section.
 - **(h)** In carrying out the provisions of this section, the Secretary of Agriculture shall utilize the services of the Natural Resources Conservation Service.
 - **(i)** There are authorized to be appropriated to the Secretary of Agriculture, from amounts in the Treasury other than amounts in the fund, such sums as may be necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 95–87, title IV, § 406](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 460](https://www.govinfo.gov/link/statute/91/460); [Pub. L. 97–98, title XV, § 1551](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1344](https://www.govinfo.gov/link/statute/95/1344); [Pub. L. 101–508, title VI](https://www.govinfo.gov/link/plaw/101/public/508), §§ 6008, 6012(c), (d)(3), Nov. 5, 1990, [104 Stat. 1388–295](https://www.govinfo.gov/link/statute/104/1388), 1388–298; [Pub. L. 109–432, div. C, title II, § 204](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 3016](https://www.govinfo.gov/link/statute/120/3016).)*

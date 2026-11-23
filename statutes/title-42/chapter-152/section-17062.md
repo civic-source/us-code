@@ -3,9 +3,10 @@ title: "Section 17062 - Energy efficiency in Federal and other buildings"
 usc_title: 42
 usc_section: "17062"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17062"
-generated_at: "2026-03-30T02:56:11.494Z"
+generated_at: "2026-11-23T20:27:23.720Z"
+status: "active"
 ---
 
 # § 17062. Energy efficiency in Federal and other buildings
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.494Z"
     - **(C)** The Administrator shall periodically publish the model commercial leasing provisions developed under this subsection, along with explanatory materials, to encourage building owners and tenants in the private sector to use such provisions and materials.
   - **(3)** The Administrator shall develop policies and practices to implement cost-effective energy efficiency measures and cost-effective water efficiency measures for the realty services provided by the Administrator to Federal agencies (or other clients of the Administrator), including periodic training of appropriate Federal employees and contractors on how to identify and evaluate those measures.
   - **(4)** The Administrator, in consultation with the Secretary of Energy, shall make available model commercial leasing provisions and best practices developed under this subsection to State, county, and municipal governments for use in managing owned and leased building space in accordance with the goal of encouraging investment in all cost-effective energy efficiency measures and cost-effective water efficiency measures.
+
+## Source Credit
+
+*([Pub. L. 114–11, title I, § 102](https://www.govinfo.gov/link/plaw/114/public/11), Apr. 30, 2015, [129 Stat. 182](https://www.govinfo.gov/link/statute/129/182).)*

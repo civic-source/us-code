@@ -3,9 +3,10 @@ title: "Section 8421 - Purposes of assistance"
 usc_title: 22
 usc_section: "8421"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8421"
-generated_at: "2026-03-30T02:55:05.450Z"
+generated_at: "2026-11-23T20:26:32.708Z"
+status: "active"
 ---
 
 # § 8421. Purposes of assistance
@@ -16,3 +17,7 @@ The purposes of assistance under this subchapter are—
   - **(2)** to work with the Government of Pakistan to improve Pakistan’s border security and control and help prevent any Pakistani territory from being used as a base or conduit for terrorist attacks in Pakistan, or elsewhere;
   - **(3)** to work in close cooperation with the Government of Pakistan to coordinate action against extremist and terrorist targets; and
   - **(4)** to help strengthen the institutions of democratic governance and promote control of military institutions by a democratically elected civilian government.
+
+## Source Credit
+
+*([Pub. L. 111–73, title II, § 201](https://www.govinfo.gov/link/plaw/111/public/73), Oct. 15, 2009, [123 Stat. 2069](https://www.govinfo.gov/link/statute/123/2069).)*

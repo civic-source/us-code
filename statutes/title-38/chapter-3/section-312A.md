@@ -3,9 +3,10 @@ title: "Section 312A - Director of Construction and Facilities Management"
 usc_title: 38
 usc_section: "312A"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 312A"
-generated_at: "2026-03-30T02:55:53.470Z"
+generated_at: "2026-11-23T20:27:01.557Z"
+status: "active"
 ---
 
 # § 312A. Director of Construction and Facilities Management
@@ -28,3 +29,13 @@ generated_at: "2026-03-30T02:55:53.470Z"
     - **(C)** Management of the short-term and long-term leasing of real property by the Department.
     - **(D)** Repair and maintenance of facilities of the Department, including custodial services, building management and administration, and maintenance of roads, grounds, and infrastructure.
     - **(E)** Management of procurement and acquisition processes relating to the construction and operation of facilities of the Department, including the award of contracts related to design, construction, furnishing, and supplies and equipment.
+
+In General
+
+Qualifications
+
+Responsibilities
+
+## Source Credit
+
+*(Added [Pub. L. 109–461, title VIII, § 811(a)](https://www.govinfo.gov/link/plaw/109/public/461), Dec. 22, 2006, [120 Stat. 3446](https://www.govinfo.gov/link/statute/120/3446).)*

@@ -3,9 +3,10 @@ title: "Section 2113 - World War II memorial in the District of Columbia"
 usc_title: 36
 usc_section: "2113"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 2113"
-generated_at: "2026-03-30T02:55:44.691Z"
+generated_at: "2026-11-23T20:26:58.776Z"
+status: "active"
 ---
 
 # § 2113. World War II memorial in the District of Columbia
@@ -39,3 +40,23 @@ generated_at: "2026-03-30T02:55:44.691Z"
   - **(4)** Nothing in this subsection shall be construed to require any Federal employee to work without compensation or to allow the use of volunteer services to displace or replace any Federal employee.
 - **(g)** A contract entered into by the Commission for the design or construction of the World War II memorial is not a funding agreement as that term is defined in section 201 of title 35 .
 - **(h)** Notwithstanding section 8903(e) of title 40 , the authority for the construction of the World War II memorial provided by Public Law 103–32 ( 40 U.S.C. 8903 note) expires on December 31, 2005 .
+
+Solicitation and Acceptance of Contributions
+
+Creation of Memorial Fund
+
+Use of Fund
+
+Special Borrowing Authority
+
+Treatment of Borrowing Authority
+
+Voluntary Services
+
+Treatment of Certain Contracts
+
+Extension of Authority To Establish Memorial
+
+## Source Credit
+
+*(Added [Pub. L. 106–117, title VI, § 601(a)(1)](https://www.govinfo.gov/link/plaw/106/public/117), Nov. 30, 1999, [113 Stat. 1576](https://www.govinfo.gov/link/statute/113/1576); amended [Pub. L. 108–178, § 4(h)](https://www.govinfo.gov/link/plaw/108/public/178), Dec. 15, 2003, [117 Stat. 2641](https://www.govinfo.gov/link/statute/117/2641).)*

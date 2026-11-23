@@ -3,9 +3,10 @@ title: "Section 1456b - Coastal zone enhancement grants"
 usc_title: 16
 usc_section: "1456b"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1456b"
-generated_at: "2026-03-30T02:54:22.972Z"
+generated_at: "2026-11-23T20:26:20.510Z"
+status: "active"
 ---
 
 # § 1456b. Coastal zone enhancement grants
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:54:22.972Z"
 - **(e)** A State shall not be required to contribute any portion of the cost of any proposal for which funding is awarded under this section.
 - **(f)** Beginning in fiscal year 1991, not less than 10 percent and not more than 20 percent of the amounts appropriated to implement sections 1455 and 1455a of this title shall be retained by the Secretary for use in implementing this section, up to a maximum of $10,000,000 annually.
 - **(g)** If the Secretary finds that the State is not undertaking the actions committed to under the terms of the grant, the Secretary shall suspend the State’s eligibility for further funding under this section for at least one year.
+
+## Source Credit
+
+*([Pub. L. 89–454, title III, § 309](https://www.govinfo.gov/link/plaw/89/public/454), as added [Pub. L. 94–370, § 8](https://www.govinfo.gov/link/plaw/94/public/370), July 26, 1976, [90 Stat. 1028](https://www.govinfo.gov/link/statute/90/1028); amended [Pub. L. 96–464, § 8](https://www.govinfo.gov/link/plaw/96/public/464), Oct. 17, 1980, [94 Stat. 2064](https://www.govinfo.gov/link/statute/94/2064); [Pub. L. 101–508, title VI, § 6210](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–309](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 102–587, title II, § 2205(b)(1)(B)](https://www.govinfo.gov/link/plaw/102/public/587), Nov. 4, 1992, [106 Stat. 5050](https://www.govinfo.gov/link/statute/106/5050); [Pub. L. 104–150](https://www.govinfo.gov/link/plaw/104/public/150), §§ 3, 7(2), June 3, 1996, [110 Stat. 1380](https://www.govinfo.gov/link/statute/110/1380), 1382.)*

@@ -3,9 +3,10 @@ title: "Section 1485 - Sale or assignment of loans and underlying security"
 usc_title: 25
 usc_section: "1485"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1485"
-generated_at: "2026-03-30T02:54:52.817Z"
+generated_at: "2026-11-23T20:26:25.466Z"
+status: "active"
 ---
 
 # § 1485. Sale or assignment of loans and underlying security
@@ -32,3 +33,11 @@ generated_at: "2026-03-30T02:54:52.817Z"
   - **(1)** Nothing in this subchapter prohibits the pooling of whole loans or interests in loans transferred under this section.
   - **(2)** In promulgating regulations under subsection (i), 1 1 See References in Text note below. the Secretary may include such regulations to effect orderly and efficient pooling procedures as the Secretary determines to be necessary.
 - **(h)** Not later than 180 days after December 13, 2002 , the Secretary shall develop such procedures and promulgate such regulations as are necessary to facilitate, administer, and promote transfers of loans and guaranteed and insured portions of loans under this section.
+
+Findings
+
+Purpose
+
+## Source Credit
+
+*([Pub. L. 93–262, title II, § 205](https://www.govinfo.gov/link/plaw/93/public/262), Apr. 12, 1974, [88 Stat. 80](https://www.govinfo.gov/link/statute/88/80); [Pub. L. 100–442, § 2](https://www.govinfo.gov/link/plaw/100/public/442), Sept. 22, 1988, [102 Stat. 1763](https://www.govinfo.gov/link/statute/102/1763); [Pub. L. 107–331, title I, § 103(b)](https://www.govinfo.gov/link/plaw/107/public/331), Dec. 13, 2002, [116 Stat. 2836](https://www.govinfo.gov/link/statute/116/2836); [Pub. L. 109–221, title IV, § 401(b)](https://www.govinfo.gov/link/plaw/109/public/221), May 12, 2006, [120 Stat. 342](https://www.govinfo.gov/link/statute/120/342).)*

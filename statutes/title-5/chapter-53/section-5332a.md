@@ -3,9 +3,10 @@ title: "Section 5332a - Special base rates of pay for wildland firefighters"
 usc_title: 5
 usc_section: "5332a"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 5332a"
-generated_at: "2026-03-30T02:52:56.013Z"
+generated_at: "2026-11-23T20:25:31.899Z"
+status: "active"
 ---
 
 # § 5332a. Special base rates of pay for wildland firefighters
@@ -44,3 +45,19 @@ generated_at: "2026-03-30T02:52:56.013Z"
       - **(xiv)** For GS–14, 3 percent.
       - **(xv)** For GS–15, 1.5 percent.
     - **(B)** When the special base rate with respect to a wildland firefighter is expressed as an hourly, daily, weekly, or biweekly rate, the special base rate shall be computed from the appropriate annual rate of basic pay derived under subparagraph (A) in accordance with the rules under section 5504(b).
+
+Definitions
+
+Special Base Rates of Pay.—
+
+Entitlement to special rate
+
+Computation
+
+In general
+
+Hourly, daily, weekly, or biweekly rates
+
+## Source Credit
+
+*(Added [Pub. L. 119–4, div. A, title VIII, § 1807](https://www.govinfo.gov/link/plaw/119/public/4), Mar. 15, 2025, [139 Stat. 30](https://www.govinfo.gov/link/statute/139/30).)*

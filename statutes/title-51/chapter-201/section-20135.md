@@ -3,9 +3,10 @@ title: "Section 20135 - Property rights in inventions"
 usc_title: 51
 usc_section: "20135"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 20135"
-generated_at: "2026-03-30T02:56:28.703Z"
+generated_at: "2026-11-23T20:27:37.448Z"
+status: "active"
 ---
 
 # § 20135. Property rights in inventions
@@ -28,3 +29,86 @@ generated_at: "2026-03-30T02:56:28.703Z"
 - **(i)** The Administration shall be considered a defense agency of the United States for the purpose of chapter 17 of title 35.
 - **(j)** Any object intended for launch, launched, or assembled in outer space shall be considered a vehicle for the purpose of section 272 of title 35 .
 - **(k)** The use or manufacture of any patented invention incorporated in a space vehicle launched by the United States Government for a person other than the United States shall not be considered to be a use or manufacture by or for the United States within the meaning of section 1498(a) of title 28 , unless the Administration gives an express authorization or consent for such use or manufacture.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 20135 | 42 U.S.C. 2457 . | Pub. L. 85–568, title III, § 305 , July 29, 1958 , 72 Stat. 435 ; Pub. L. 96–517, § 7(b) , Dec. 12, 1980 , 94 Stat. 3027 ; Pub. L. 97–96, § 7 , Dec. 21, 1981 , 95 Stat. 1210 ; Pub. L. 97–164, title I, § 162(3) , Apr. 2, 1982 , 96 Stat. 49 ; Pub. L. 98–622, title II, § 205(c) , Nov. 8, 1984 , 98 Stat. 3388 ; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(20)] , Nov. 29, 1999 , 113 Stat. 1536 , 1501A–585. |
+
+
+Definitions
+
+Contract
+
+Made
+
+Person
+
+Exclusive Property of United States.—
+
+In general
+
+Patent to united states
+
+Contract Provisions for Furnishing Reports of Inventions, Discoveries, Improvements, or Innovations
+
+Patent Application
+
+Issuance of Patent to Applicant
+
+Subsequent Transfer of Patent in Case of False Representations
+
+Waiver of Rights to Inventions
+
+Protection of Title
+
+Administration as Defense Agency
+
+Objects Intended for Launch, Launched, or Assembled in Outer Space
+
+Use or Manufacture of Patented Inventions Incorporated in Space Vehicles Launched for Persons Other Than United States
+
+Historical and Revision Notes
+
+20135
+
+42 U.S.C. 2457
+
+Pub. L. 85–568, title III, § 305
+
+July 29, 1958
+
+72 Stat. 435
+
+Pub. L. 96–517, § 7(b)
+
+Dec. 12, 1980
+
+94 Stat. 3027
+
+Pub. L. 97–96, § 7
+
+Dec. 21, 1981
+
+95 Stat. 1210
+
+Pub. L. 97–164, title I, § 162(3)
+
+Apr. 2, 1982
+
+96 Stat. 49
+
+Pub. L. 98–622, title II, § 205(c)
+
+Nov. 8, 1984
+
+98 Stat. 3388
+
+Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(20)]
+
+Nov. 29, 1999
+
+113 Stat. 1536
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3339](https://www.govinfo.gov/link/statute/124/3339); [Pub. L. 112–29, § 7(d)(2)](https://www.govinfo.gov/link/plaw/112/public/29), Sept. 16, 2011, [125 Stat. 315](https://www.govinfo.gov/link/statute/125/315).)*

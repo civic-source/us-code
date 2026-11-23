@@ -3,9 +3,10 @@ title: "Section 6626 - Working group on inclusion in STEM fields"
 usc_title: 42
 usc_section: "6626"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6626"
-generated_at: "2026-03-30T02:56:11.264Z"
+generated_at: "2026-11-23T20:27:22.694Z"
+status: "active"
 ---
 
 # § 6626. Working group on inclusion in STEM fields
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.264Z"
   - **(7)** such other members of the public interested in promoting a diverse and inclusive Federal STEM workforce.
 - **(d)** Not later than 1 year after January 6, 2017 , and periodically thereafter, the working group shall publish a report on the review and assessment under subsection (b), including a summary of available research and best practices, any recommendations for Federal actions to promote a diverse and inclusive Federal STEM workforce, and updates on the implementation of previous recommendations for Federal actions.
 - **(e)** The interagency working group established under subsection (a) shall terminate on the date that is 10 years after the date that it is established.
+
+## Source Credit
+
+*([Pub. L. 114–329, title III, § 308](https://www.govinfo.gov/link/plaw/114/public/329), Jan. 6, 2017, [130 Stat. 3011](https://www.govinfo.gov/link/statute/130/3011).)*

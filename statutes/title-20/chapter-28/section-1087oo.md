@@ -3,9 +3,10 @@ title: "Section 1087oo - Student aid index for dependent students"
 usc_title: 20
 usc_section: "1087oo"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1087oo"
-generated_at: "2026-03-30T02:54:48.128Z"
+generated_at: "2026-11-23T20:26:14.480Z"
+status: "active"
 ---
 
 # § 1087oo. Student aid index for dependent students
@@ -63,3 +64,198 @@ generated_at: "2026-03-30T02:54:48.128Z"
     - **(B)** the amount earned by the student that does not exceed such contribution and benefit base for the year of the earnings, multiplied by the rate of tax applicable to such earnings under section 3101(a) of title 26 .
   - **(4)** The allowance for parents’ negative available income is the amount, if any, by which the sum of the amounts deducted under subsection (c)(1) exceeds the sum of the parents’ total income (as defined in section 1087vv of this title ) and the parents’ available assets (as determined in accordance with subsection (d)).
 - **(h)** The student’s assets are determined by calculating the assets of the student and multiplying such amount by 20 percent, except that the result shall not be less than zero.
+
+| Income Protection Allowance (to be adjusted for 2023–2024 and succeeding years) | Col 2 |
+| --- | --- |
+| 2 | $23,330 |
+| 3 | $29,040 |
+| 4 | $35,870 |
+| 5 | $42,320 |
+| 6 | $49,500 |
+| For each additional add | $5,590. |
+
+| Asset Protection Allowances for Parents of Dependent Students | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | then the allowance is— |  |
+| 25 or less | $ 0 | $0 |
+| 26 | $400 | $100 |
+| 27 | $700 | $300 |
+| 28 | $1,100 | $400 |
+| 29 | $1,500 | $600 |
+| 30 | $1,800 | $700 |
+| 31 | $2,200 | $800 |
+| 32 | $2,600 | $1,000 |
+| 33 | $2,900 | $1,100 |
+| 34 | $3,300 | $1,300 |
+| 35 | $3,700 | $1,400 |
+| 36 | $4,000 | $1,500 |
+| 37 | $4,400 | $1,700 |
+| 38 | $4,800 | $1,800 |
+| 39 | $5,100 | $2,000 |
+| 40 | $5,500 | $2,100 |
+| 41 | $5,600 | $2,200 |
+| 42 | $5,700 | $2,200 |
+| 43 | $5,900 | $2,300 |
+| 44 | $6,000 | $2,300 |
+| 45 | $6,200 | $2,400 |
+| 46 | $6,300 | $2,400 |
+| 47 | $6,500 | $2,500 |
+| 48 | $6,600 | $2,500 |
+| 49 | $6,800 | $2,600 |
+| 50 | $7,000 | $2,700 |
+| 51 | $7,100 | $2,700 |
+| 52 | $7,300 | $2,800 |
+| 53 | $7,500 | $2,900 |
+| 54 | $7,700 | $2,900 |
+| 55 | $7,900 | $3,000 |
+| 56 | $8,100 | $3,100 |
+| 57 | $8,400 | $3,100 |
+| 58 | $8,600 | $3,200 |
+| 59 | $8,800 | $3,300 |
+| 60 | $9,100 | $3,400 |
+| 61 | $9,300 | $3,500 |
+| 62 | $9,600 | $3,600 |
+| 63 | $9,900 | $3,700 |
+| 64 | $10,200 | $3,800 |
+| 65 or more | $10,500 | $3,900. |
+
+| Parents’ Contribution From AAI | Col 2 |
+| --- | --- |
+| Less than − $6,820 | − $1,500 |
+| − $6,820 to $17,400 | 22% of AAI |
+| $17,401 to $21,800 | $3,828 + 25% of AAI over $17,400 |
+| $21,801 to $26,200 | $4,928 + 29% of AAI over $21,800 |
+| $26,201 to $30,700 | $6,204 + 34% of AAI over $26,200 |
+| $30,701 to $35,100 | $7,734 + 40% of AAI over $30,700 |
+| $35,101 or more | $9,494 + 47% of AAI over $35,100. |
+
+| “Adjusted Net Worth of a Business or Farm | Col 2 |
+| --- | --- |
+| Less than $1 | $0 |
+| $1–$65,000 | 40 percent of NW |
+| $65,001–$195,000 | $26,000 plus 50 percent of NW over $65,000 |
+| $195,001–$325,000 | $91,000 plus 60 percent of NW over $195,000 |
+| $325,001 or more | $169,000 plus 100 percent of NW over $325,000”. |
+
+
+2
+
+3
+
+4
+
+5
+
+6
+
+For each additional add
+
+25 or less
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+32
+
+33
+
+34
+
+35
+
+36
+
+37
+
+38
+
+39
+
+40
+
+41
+
+42
+
+43
+
+44
+
+45
+
+46
+
+47
+
+48
+
+49
+
+50
+
+51
+
+52
+
+53
+
+54
+
+55
+
+56
+
+57
+
+58
+
+59
+
+60
+
+61
+
+62
+
+63
+
+64
+
+65 or more
+
+Less than − $6,820
+
+− $6,820 to $17,400
+
+$17,401 to $21,800
+
+$21,801 to $26,200
+
+$26,201 to $30,700
+
+$30,701 to $35,100
+
+$35,101 or more
+
+Less than $1
+
+$1–$65,000
+
+$65,001–$195,000
+
+$195,001–$325,000
+
+$325,001 or more
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 475](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title IV, § 406(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1456](https://www.govinfo.gov/link/statute/100/1456); amended [Pub. L. 100–50, § 14(1)](https://www.govinfo.gov/link/plaw/100/public/50) –(12), June 3, 1987, [101 Stat. 349](https://www.govinfo.gov/link/statute/101/349), 350; [Pub. L. 102–325, title IV, § 471(a)](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 587](https://www.govinfo.gov/link/statute/106/587); [Pub. L. 103–208, § 2(g)(2)](https://www.govinfo.gov/link/plaw/103/public/208) –(5), Dec. 20, 1993, [107 Stat. 2472](https://www.govinfo.gov/link/statute/107/2472); [Pub. L. 105–78, title VI, § 609(g)](https://www.govinfo.gov/link/plaw/105/public/78), Nov. 13, 1997, [111 Stat. 1523](https://www.govinfo.gov/link/statute/111/1523); [Pub. L. 105–244, title IV, § 473](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1729](https://www.govinfo.gov/link/statute/112/1729); [Pub. L. 109–171, title VIII, § 8017(a)(1)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 173](https://www.govinfo.gov/link/statute/120/173); [Pub. L. 110–84, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/110/public/84), Sept. 27, 2007, [121 Stat. 801](https://www.govinfo.gov/link/statute/121/801); [Pub. L. 111–39, title IV, § 406(a)(2)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1948](https://www.govinfo.gov/link/statute/123/1948); [Pub. L. 116–260, div. FF, title VII, § 702(d)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3141](https://www.govinfo.gov/link/statute/134/3141); [Pub. L. 118–40, div. B, § 101(a)](https://www.govinfo.gov/link/plaw/118/public/40), Mar. 1, 2024, [138 Stat. 18](https://www.govinfo.gov/link/statute/138/18).)*

@@ -3,9 +3,10 @@ title: "Section 1315 - Advisory Council on Coal Research"
 usc_title: 30
 usc_section: "1315"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1315"
-generated_at: "2026-03-30T02:55:29.404Z"
+generated_at: "2026-11-23T20:26:35.037Z"
+status: "active"
 ---
 
 # § 1315. Advisory Council on Coal Research
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:29.404Z"
   - **(1)** Members of the Council who are not regular officers or employees of the United States Government shall, while serving on business of the Council, be entitled to receive compensation at rates fixed by the Secretary of Energy but not exceeding the daily rate prescribed for GS-18 of the General Schedule under section 5332 of title 5 and while so serving away from their homes or regular places of business, they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government service employed intermittently.
   - **(2)** Members of the Council who are officers or employees of the Government shall be reimbursed for travel, subsistence, and other necessary expenses incurred by them in carrying out their duties on the Council.
 - **(e)** Whenever a member of the Council appointed under clauses (1) through (5) is unable to attend a meeting, that member shall appoint an appropriate alternate to represent him for that meeting.
+
+## Source Credit
+
+*([Pub. L. 95–87, title VIII, § 805](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 528](https://www.govinfo.gov/link/statute/91/528); [Pub. L. 95–617, title VI, § 604(c)](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3167](https://www.govinfo.gov/link/statute/92/3167); [Pub. L. 102–285, § 10(b)](https://www.govinfo.gov/link/plaw/102/public/285), May 18, 1992, [106 Stat. 172](https://www.govinfo.gov/link/statute/106/172).)*

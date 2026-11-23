@@ -3,9 +3,10 @@ title: "Section 5 - Enterprise integration initiative"
 usc_title: 15
 usc_section: "5"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 5"
-generated_at: "2026-03-30T02:54:08.079Z"
+generated_at: "2026-11-23T20:26:03.683Z"
+status: "active"
 ---
 
 # § 278g–5. Enterprise integration initiative
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:08.079Z"
   - **(3)** to support the development, testing, promulgation, integration, adoption, and upgrading of standards related to enterprise integration including application protocols; and
   - **(4)** to provide technical assistance and, if necessary, financial support to small- and medium-sized businesses that set up pilot projects in enterprise integration.
 - **(d)** The Director shall ensure that the Manufacturing Extension Program is prepared to advise small- and medium-sized businesses on how to acquire the expertise, equipment, and training necessary to participate fully in supply chains using enterprise integration.
+
+## Source Credit
+
+*([Pub. L. 107–277, § 3](https://www.govinfo.gov/link/plaw/107/public/277), Nov. 5, 2002, [116 Stat. 1936](https://www.govinfo.gov/link/statute/116/1936); [Pub. L. 113–188, title II, § 201(b)](https://www.govinfo.gov/link/plaw/113/public/188), Nov. 26, 2014, [128 Stat. 2018](https://www.govinfo.gov/link/statute/128/2018); [Pub. L. 114–329, title V, § 501(e)(2)](https://www.govinfo.gov/link/plaw/114/public/329), Jan. 6, 2017, [130 Stat. 3033](https://www.govinfo.gov/link/statute/130/3033).)*

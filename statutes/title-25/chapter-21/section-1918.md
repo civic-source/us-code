@@ -3,9 +3,10 @@ title: "Section 1918 - Reassumption of jurisdiction over child cus­tody proceed
 usc_title: 25
 usc_section: "1918"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1918"
-generated_at: "2026-03-30T02:54:52.830Z"
+generated_at: "2026-11-23T20:26:25.552Z"
+status: "active"
 ---
 
 # § 1918. Reassumption of jurisdiction over child cus­tody proceedings
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:52.830Z"
   - **(2)** In those cases where the Secretary determines that the jurisdictional provisions of section 1911(a) of this title are not feasible, he is authorized to accept partial retrocession which will enable tribes to exercise referral jurisdiction as provided in section 1911(b) of this title , or, where appropriate, will allow them to exercise exclusive jurisdiction as provided in section 1911(a) of this title over limited community or geographic areas without regard for the reservation status of the area affected.
 - **(c)** If the Secretary approves any petition under subsection (a), the Secretary shall publish notice of such approval in the Federal Register and shall notify the affected State or States of such approval. The Indian tribe concerned shall reassume jurisdiction sixty days after publication in the Federal Register of notice of approval. If the Secretary disapproves any petition under subsection (a), the Secretary shall provide such technical assistance as may be necessary to enable the tribe to correct any deficiency which the Secretary identified as a cause for disapproval.
 - **(d)** Assumption of jurisdiction under this section shall not affect any action or proceeding over which a court has already assumed jurisdiction, except as may be provided pursuant to any agreement under section 1919 of this title .
+
+## Source Credit
+
+*([Pub. L. 95–608, title I, § 108](https://www.govinfo.gov/link/plaw/95/public/608), Nov. 8, 1978, [92 Stat. 3074](https://www.govinfo.gov/link/statute/92/3074).)*

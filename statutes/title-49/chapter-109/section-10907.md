@@ -3,9 +3,10 @@ title: "Section 10907 - Railroad development"
 usc_title: 49
 usc_section: "10907"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 10907"
-generated_at: "2026-03-30T02:56:19.324Z"
+generated_at: "2026-11-23T20:27:34.719Z"
+status: "active"
 ---
 
 # § 10907. Railroad development
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:19.324Z"
   - **(2)** The provisions of paragraph (1) of this subsection shall apply to any line of railroad which was abandoned during the 18-month period immediately prior to October 1, 1980 , and was subsequently purchased by a financially responsible person.
 - **(h)** If a purchasing carrier under this section proposes to sell or abandon all or any portion of a purchased railroad line, such purchasing carrier shall offer the right of first refusal with respect to such line or portion thereof to the carrier which sold such line under this section. Such offer shall be made at a price equal to the sum of the price paid by such purchasing carrier to such selling carrier for such line or portion thereof and the fair market value (less deterioration) of any improvements made, as adjusted to reflect inflation.
 - **(i)** Any person operating a railroad line acquired under this section may determine preconditions, such as payment of a subsidy, which must be met by shippers in order to obtain service over such lines, but such operator must notify the shippers on the line of its intention to impose such preconditions.
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 102(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 828](https://www.govinfo.gov/link/statute/109/828).)*

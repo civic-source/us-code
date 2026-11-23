@@ -3,9 +3,10 @@ title: "Section 4503a - Institute of Pacific Islands Forestry"
 usc_title: 16
 usc_section: "4503a"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 4503a"
-generated_at: "2026-03-30T02:54:23.044Z"
+generated_at: "2026-11-23T20:26:20.745Z"
+status: "active"
 ---
 
 # § 4503a. Institute of Pacific Islands Forestry
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:23.044Z"
     - **(C)** to promote sound watershed and forest management;
     - **(D)** to develop compatible land uses adjacent to protected natural areas; and
     - **(E)** to develop new methods of reclaiming and restoring degraded lands.
+
+## Source Credit
+
+*([Pub. L. 101–513, title VI, § 605](https://www.govinfo.gov/link/plaw/101/public/513), as added [Pub. L. 102–574, § 2(a)(2)](https://www.govinfo.gov/link/plaw/102/public/574), Oct. 29, 1992, [106 Stat. 4593](https://www.govinfo.gov/link/statute/106/4593); amended [Pub. L. 103–437, § 6(d)(42)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4585](https://www.govinfo.gov/link/statute/108/4585).)*

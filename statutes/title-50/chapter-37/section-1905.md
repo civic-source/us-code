@@ -3,9 +3,10 @@ title: "Section 1905 - Regulations and administrative provisions"
 usc_title: 50
 usc_section: "1905"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 1905"
-generated_at: "2026-03-30T02:56:26.215Z"
+generated_at: "2026-11-23T20:27:30.809Z"
+status: "active"
 ---
 
 # § 1905. Regulations and administrative provisions
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:26.215Z"
   - **(2)** may use, sell, or otherwise dispose of such property for that purpose.
 - **(c)** In order to conduct the program required by this chapter, the Secretary may accept and use the services of voluntary and noncompensated personnel.
 - **(d)** Expenditures necessary to conduct the program required by this chapter shall be paid from the Fund, subject to section 1904(b) of this title .
+
+## Source Credit
+
+*([Pub. L. 102–183, title VIII, § 805](https://www.govinfo.gov/link/plaw/102/public/183), Dec. 4, 1991, [105 Stat. 1275](https://www.govinfo.gov/link/statute/105/1275).)*

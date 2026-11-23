@@ -3,9 +3,10 @@ title: "Section 10208 - Annual mobilization exercise"
 usc_title: 10
 usc_section: "10208"
 chapter: 1007
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 10208"
-generated_at: "2026-03-30T02:53:38.265Z"
+generated_at: "2026-11-23T20:25:52.381Z"
+status: "active"
 ---
 
 # § 10208. Annual mobilization exercise
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:38.265Z"
   - **(2)** The exercise under this subsection—
     - **(A)** shall include a review of national mobilization strategic and operational concepts; and
     - **(B)** shall include a simulation of a mobilization of all armed forces and reserve units, with plans and processes for incorporating Selective Service System inductees.
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1661(a)(1)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2978](https://www.govinfo.gov/link/statute/108/2978); amended [Pub. L. 117–81, div. A, title V, § 527(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1689](https://www.govinfo.gov/link/statute/135/1689).)*

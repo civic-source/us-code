@@ -3,9 +3,10 @@ title: "Section 87a - National HIV/AIDS testing goal"
 usc_title: 42
 usc_section: "87a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 87a"
-generated_at: "2026-03-30T02:56:10.829Z"
+generated_at: "2026-11-23T20:27:20.631Z"
+status: "active"
 ---
 
 # § 300ff–87a. National HIV/AIDS testing goal
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:10.829Z"
     - **(D)** progress made toward the goals described in paragraph (3).
   - **(5)** Recommendations if any to Congress on ways to allocate funding for domestic HIV/AIDS prevention activities and programs in order to achieve the National HIV/AIDS testing goal.
 - **(d)** In pursuing the National HIV/AIDS testing goal, the Secretary, where appropriate, shall consider and coordinate with other national strategies conducted by the Federal Government to address HIV/AIDS.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXVI, § 2688, as added [Pub. L. 111–87, § 12(2)](https://www.govinfo.gov/link/plaw/111/public/87), Oct. 30, 2009, [123 Stat. 2896](https://www.govinfo.gov/link/statute/123/2896).)*

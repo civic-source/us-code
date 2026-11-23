@@ -3,9 +3,10 @@ title: "Section 5601 - Representation of United States under Convention"
 usc_title: 16
 usc_section: "5601"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 5601"
-generated_at: "2026-03-30T02:54:23.053Z"
+generated_at: "2026-11-23T20:26:20.778Z"
+status: "active"
 ---
 
 # § 5601. Representation of United States under Convention
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:54:23.053Z"
     - **(A)** coordinate with the appropriate Regional Fishery Management Councils established by section 1852 of this title ; and
     - **(B)** consult with the committee established under section 5607 of this title .
   - **(2)** Chapter 10 of title 5 shall not apply to coordination and consultations under this subsection.
+
+## Source Credit
+
+*([Pub. L. 104–43, title II, § 202](https://www.govinfo.gov/link/plaw/104/public/43), Nov. 3, 1995, [109 Stat. 377](https://www.govinfo.gov/link/statute/109/377); [Pub. L. 114–327, title V, § 502](https://www.govinfo.gov/link/plaw/114/public/327), Dec. 16, 2016, [130 Stat. 1995](https://www.govinfo.gov/link/statute/130/1995); [Pub. L. 117–286, § 4(a)(124)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4319](https://www.govinfo.gov/link/statute/136/4319).)*

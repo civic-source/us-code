@@ -3,9 +3,10 @@ title: "Section 9832 - Definitions"
 usc_title: 20
 usc_section: "9832"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 9832"
-generated_at: "2026-03-30T02:54:48.232Z"
+generated_at: "2026-11-23T20:26:15.008Z"
+status: "active"
 ---
 
 # § 9832. Definitions
@@ -29,3 +30,7 @@ In this part:
     - **(B)**
       - **(i)** with a high concentration of low-income students; or
       - **(ii)** designated with a school locale code of 41, 42, or 43, as determined by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 110–69, title VI, § 6122](https://www.govinfo.gov/link/plaw/110/public/69), Aug. 9, 2007, [121 Stat. 635](https://www.govinfo.gov/link/statute/121/635); [Pub. L. 114–95, title IX, § 9215(i)(2)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2167](https://www.govinfo.gov/link/statute/129/2167).)*

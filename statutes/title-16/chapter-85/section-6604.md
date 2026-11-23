@@ -3,9 +3,10 @@ title: "Section 6604 - Marine Turtle Conservation Fund"
 usc_title: 16
 usc_section: "6604"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6604"
-generated_at: "2026-03-30T02:54:23.066Z"
+generated_at: "2026-11-23T20:26:20.814Z"
+status: "active"
 ---
 
 # § 6604. Marine Turtle Conservation Fund
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:23.066Z"
   - **(1)** The amounts required to be transferred to the Fund under this section shall be transferred at least monthly from the general fund of the Treasury to the Fund on the basis of estimates made by the Secretary of the Treasury.
   - **(2)** Proper adjustment shall be made in amounts subsequently transferred to the extent prior estimates were in excess of or less than the amounts required to be transferred.
 - **(e)** The Secretary may accept and use donations to provide assistance under section 6603 of this title . Amounts received by the Secretary in the form of donations shall be transferred to the Secretary of the Treasury for deposit in the Fund.
+
+## Source Credit
+
+*([Pub. L. 108–266, § 5](https://www.govinfo.gov/link/plaw/108/public/266), July 2, 2004, [118 Stat. 794](https://www.govinfo.gov/link/statute/118/794); [Pub. L. 116–9, title VII, § 7001(c)(3)(D)](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 788](https://www.govinfo.gov/link/statute/133/788).)*

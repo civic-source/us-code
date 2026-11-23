@@ -3,9 +3,10 @@ title: "Section 2734b - Report on diversity recruitment, employment, retention, 
 usc_title: 22
 usc_section: "2734b"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2734b"
-generated_at: "2026-03-30T02:55:05.382Z"
+generated_at: "2026-11-23T20:26:32.393Z"
+status: "active"
 ---
 
 # § 2734b. Report on diversity recruitment, employment, retention, and promotion
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.382Z"
   - **(1)** develop and implement effective mechanisms to ensure that the Department is able effectively to recruit and retain highly qualified candidates from a wide diversity of institutions; and
   - **(2)** improve and expand recruitment and outreach programs at minority-serving institutions.
 - **(c)** Not later than 180 days after December 16, 2016 , and quadrennially thereafter, the Secretary shall submit to Congress a comprehensive report that describes the efforts, consistent with existing law, including procedures, effects, and results of the Department since the period covered by the prior such report, to promote equal opportunity and inclusion for all American employees in direct hire and personal service contractors status, particularly employees of the Foreign Service, including equal opportunity for all traditionally underrepresented minority groups.
+
+## Source Credit
+
+*([Pub. L. 114–323, title IV, § 410](https://www.govinfo.gov/link/plaw/114/public/323), Dec. 16, 2016, [130 Stat. 1931](https://www.govinfo.gov/link/statute/130/1931).)*

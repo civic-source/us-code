@@ -3,9 +3,10 @@ title: "Section 1045 - Voluntary withholding of State income tax from retired or
 usc_title: 10
 usc_section: "1045"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1045"
-generated_at: "2026-03-30T02:53:38.097Z"
+generated_at: "2026-11-23T20:25:51.180Z"
+status: "active"
 ---
 
 # § 1045. Voluntary withholding of State income tax from retired or retainer pay
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:38.097Z"
 - **(e)** In this section:
   - **(1)** The term “State” means any State, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
   - **(2)** The term “Secretary concerned” includes the Secretary of Health and Human Services with respect to the commissioned corps of the Public Health Service and the Secretary of Commerce with respect to the commissioned corps of the National Oceanic and Atmospheric Administration.
+
+## Source Credit
+
+*(Added [Pub. L. 98–525, title VI, § 654(a)](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2551](https://www.govinfo.gov/link/statute/98/2551); amended [Pub. L. 100–26, § 7(k)(2)](https://www.govinfo.gov/link/plaw/100/public/26), Apr. 21, 1987, [101 Stat. 284](https://www.govinfo.gov/link/statute/101/284); [Pub. L. 109–163, div. A, title VI, § 661](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3314](https://www.govinfo.gov/link/statute/119/3314).)*

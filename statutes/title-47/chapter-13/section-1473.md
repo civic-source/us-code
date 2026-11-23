@@ -3,9 +3,10 @@ title: "Section 1473 - Commission proceeding on autodialing"
 usc_title: 47
 usc_section: "1473"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 1473"
-generated_at: "2026-03-30T02:56:24.535Z"
+generated_at: "2026-11-23T20:27:29.003Z"
+status: "active"
 ---
 
 # § 1473. Commission proceeding on autodialing
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:24.535Z"
   - **(1)** establish monetary penalties for violations of the protective regulations established pursuant to subsection (b)(4) of not less than $100,000 per incident nor more than $1,000,000 per incident;
   - **(2)** establish monetary penalties for violations of the prohibition on automatically dialing registered numbers established pursuant to subsection (b)(5) of not less than $10,000 per call nor more than $100,000 per call; and
   - **(3)** provide for the imposition of fines under paragraphs (1) or (2) that vary depending upon whether the conduct leading to the violation was negligent, grossly negligent, reckless, or willful, and depending on whether the violation was a first or subsequent offence.
+
+## Source Credit
+
+*([Pub. L. 112–96, title VI, § 6507](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 243](https://www.govinfo.gov/link/statute/126/243).)*

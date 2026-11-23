@@ -3,9 +3,10 @@ title: "Section 4902 - Definitions"
 usc_title: 7
 usc_section: "4902"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 4902"
-generated_at: "2026-03-30T02:53:42.412Z"
+generated_at: "2026-11-23T20:25:41.637Z"
+status: "active"
 ---
 
 # § 4902. Definitions
@@ -22,3 +23,7 @@ As used in this chapter:
   - **(8)** The term “promotion” means any action taken by the Board, under this chapter, to present a favorable image for watermelons to the public with the express intent of improving the competitive position of watermelons in the marketplace and stimulating sales of watermelons, and shall include, but not be limited to, paid advertising.
   - **(9)** The term “Board” means the National Watermelon Promotion Board provided for in section 4906 of this title .
   - **(10)** The term “United States” means each of the several States and the District of Columbia.
+
+## Source Credit
+
+*([Pub. L. 99–198, title XVI, § 1643](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1623](https://www.govinfo.gov/link/statute/99/1623); [Pub. L. 103–189](https://www.govinfo.gov/link/plaw/103/public/189), §§ 3(a), 8(a), (k)(3), 9(a), Dec. 14, 1993, [107 Stat. 2259](https://www.govinfo.gov/link/statute/107/2259), 2261, 2263, 2264.)*

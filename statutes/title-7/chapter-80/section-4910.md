@@ -3,9 +3,10 @@ title: "Section 4910 - Enforcement"
 usc_title: 7
 usc_section: "4910"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 4910"
-generated_at: "2026-03-30T02:53:42.413Z"
+generated_at: "2026-11-23T20:25:41.639Z"
+status: "active"
 ---
 
 # § 4910. Enforcement
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:42.413Z"
   - **(2)** Any person against whom a violation is found and a civil penalty assessed or cease and desist order issued under paragraph (1) may obtain review in the court of appeals of the United States for the circuit in which such person resides or carries on business or in the United States Court of Appeals for the District of Columbia Circuit by filing a notice of appeal in such court within thirty days after the date of the order and by simultaneously sending a copy of the notice by certified mail to the Secretary. The Secretary shall promptly file in such court a certified copy of the record on which the violation was found. The findings of the Secretary shall be set aside only if found to be unsupported by substantial evidence.
   - **(3)** Any person who fails to obey a cease and desist order after it has become final and unappealable, or after the appropriate court of appeals has entered a final judgment in favor of the Secretary, shall be subject to a civil penalty assessed by the Secretary, after opportunity for a hearing and for judicial review under the procedures specified in paragraphs (1) and (2), of not more than $500 for each offense. Each day during which the failure continues shall be deemed a separate offense.
   - **(4)** If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order, or after the appropriate court of appeals has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General for recovery of the amount assessed in any appropriate district court of the United States. In such action, the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
+
+## Source Credit
+
+*([Pub. L. 99–198, title XVI, § 1651](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1627](https://www.govinfo.gov/link/statute/99/1627).)*

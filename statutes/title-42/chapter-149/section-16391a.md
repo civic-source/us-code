@@ -3,12 +3,17 @@ title: "Section 16391a - Technology transfer reports and evaluation"
 usc_title: 42
 usc_section: "16391a"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16391a"
-generated_at: "2026-03-30T02:56:11.485Z"
+generated_at: "2026-11-23T20:27:23.679Z"
+status: "active"
 ---
 
 # § 16391a. Technology transfer reports and evaluation
 
 - **(a)** As part of the updated technology transfer execution plan required each year under section 16391(h)(2) of this title , the Secretary of Energy (in this section referred to as the “Secretary”) shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report on the progress and implementation of programs established under sections 9001, 9002, 9003, 9004, and 9005 of this Act and under sections 10714, 10718, 10719, 10720, and 10723 of the Research and Development, Competition, and Innovation Act.
 - **(b)** Not later than 3 years after December 27, 2020 , and every 3 years thereafter the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate an evaluation on the extent to which programs established under sections 9001, 9002, 9003, 9004, and 9005 of this Act and sections 10713, 10714, 10715, and 10717 of the Research and Development, Competition, and Innovation Act are achieving success based on relevant short-term and long-term metrics.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. Z, title IX, § 9007](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2600](https://www.govinfo.gov/link/statute/134/2600); [Pub. L. 117–167, div. B, title VI, § 10727](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1710](https://www.govinfo.gov/link/statute/136/1710).)*

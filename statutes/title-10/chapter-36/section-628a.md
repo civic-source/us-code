@@ -3,9 +3,10 @@ title: "Section 628a - Special selection review boards"
 usc_title: 10
 usc_section: "628a"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 628a"
-generated_at: "2026-03-30T02:53:38.069Z"
+generated_at: "2026-11-23T20:25:51.021Z"
+status: "active"
 ---
 
 # § 628a. Special selection review boards
@@ -57,3 +58,23 @@ generated_at: "2026-03-30T02:53:38.069Z"
   - **(1)** The Secretary of Defense shall prescribe regulations to carry out this section. Such regulations shall apply uniformly across the military departments.
   - **(2)** Any regulation prescribed by the Secretary of a military department to supplement the regulations prescribed pursuant to paragraph (1) may not take effect without the approval of the Secretary of Defense, in writing.
 - **(h)** In this section, the term “promotion board” means a selection board convened by the Secretary of a military department under section 611(a) of this title .
+
+In General
+
+Convening
+
+Information Considered
+
+Consideration
+
+Reports
+
+Appointment of Persons
+
+Regulations
+
+Promotion Board Defined
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. A, title V, § 505(a)(1)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3565](https://www.govinfo.gov/link/statute/134/3565); amended [Pub. L. 117–263, div. A, title V, § 521](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2570](https://www.govinfo.gov/link/statute/136/2570); [Pub. L. 118–31, div. A, title V, § 507(a)](https://www.govinfo.gov/link/plaw/118/public/31), title XVII, § 1722(b)(5), Dec. 22, 2023, [137 Stat. 242](https://www.govinfo.gov/link/statute/137/242), 668; [Pub. L. 118–159, div. A, title V, § 506(a)](https://www.govinfo.gov/link/plaw/118/public/159), title XVII, § 1701(a)(15), Dec. 23, 2024, [138 Stat. 1870](https://www.govinfo.gov/link/statute/138/1870), 2203.)*

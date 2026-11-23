@@ -3,9 +3,10 @@ title: "Section 610 - Control of aquatic plant growths and invasive species"
 usc_title: 33
 usc_section: "610"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 610"
-generated_at: "2026-03-30T02:55:41.065Z"
+generated_at: "2026-11-23T20:26:53.870Z"
+status: "active"
 ---
 
 # § 610. Control of aquatic plant growths and invasive species
@@ -86,3 +87,73 @@ generated_at: "2026-03-30T02:55:41.065Z"
     - **(C)** Not later than 18 months after December 27, 2020 , the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report describing the implementation of the pilot program.
     - **(D)** The authority provided under this paragraph shall terminate on September 30, 2028 .
   - **(4)** The Federal share of an action carried out under a partnership under paragraph (2) or an activity carried out under the pilot program under paragraph (3) shall not exceed 80 percent of the total cost of the action or activity.
+
+(aa) at least 1 flood control district; and
+
+(bb) at least 1 city, county, township, town, borough, parish, village, or other general purpose political subdivision of a State or Indian Tribe (as defined in section 5304 of title 25 ); and
+
+In General
+
+Consultation; Use of Existing Data and Program Authorities
+
+Focus Areas
+
+Additional Focus Areas
+
+Authorization of Appropriations
+
+Priority
+
+Agreements
+
+In General
+
+Inclusion
+
+In General
+
+Partnerships
+
+Cooperative Agreements
+
+Report to Congress
+
+Corps of Engineers Asian Carp Prevention Pilot Program.—
+
+In general
+
+Project selection.—
+
+Location
+
+Consultation
+
+Limitations.—
+
+Number of projects
+
+Deadline
+
+Best practices
+
+Cost-share.—
+
+In general
+
+Operation, maintenance, rehabilitation, and repair
+
+Memorandum of agreement
+
+Payments
+
+Report
+
+Authorization of appropriations
+
+In General
+
+Scalability Requirement
+
+## Source Credit
+
+*([Pub. L. 85–500, title I, § 104](https://www.govinfo.gov/link/plaw/85/public/500), July 3, 1958, [72 Stat. 300](https://www.govinfo.gov/link/statute/72/300); [Pub. L. 89–298, title III, § 302](https://www.govinfo.gov/link/plaw/89/public/298), Oct. 27, 1965, [79 Stat. 1092](https://www.govinfo.gov/link/statute/79/1092); [Pub. L. 98–63, title I](https://www.govinfo.gov/link/plaw/98/public/63), July 30, 1983, [97 Stat. 313](https://www.govinfo.gov/link/statute/97/313); [Pub. L. 99–662, title IX, § 941](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4199](https://www.govinfo.gov/link/statute/100/4199); [Pub. L. 104–303, title II, § 225](https://www.govinfo.gov/link/plaw/104/public/303), Oct. 12, 1996, [110 Stat. 3697](https://www.govinfo.gov/link/statute/110/3697); [Pub. L. 106–53, title II, § 205](https://www.govinfo.gov/link/plaw/106/public/53), Aug. 17, 1999, [113 Stat. 285](https://www.govinfo.gov/link/statute/113/285); [Pub. L. 113–121, title I, § 1039(d)](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1238](https://www.govinfo.gov/link/statute/128/1238); [Pub. L. 114–322, title I, § 1178(b)](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1674](https://www.govinfo.gov/link/statute/130/1674); [Pub. L. 115–270, title I, § 1170](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3798](https://www.govinfo.gov/link/statute/132/3798); [Pub. L. 116–260, div. AA, title V, § 505](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2746](https://www.govinfo.gov/link/statute/134/2746); [Pub. L. 117–263, div. H, title LXXXI, § 8305(b)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3778](https://www.govinfo.gov/link/statute/136/3778); [Pub. L. 118–272, div. A, title I, § 1144](https://www.govinfo.gov/link/plaw/118/public/272), title III, §§ 1303(j), 1361, Jan. 4, 2025, [138 Stat. 3035](https://www.govinfo.gov/link/statute/138/3035), 3115, 3163.)*

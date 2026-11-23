@@ -3,9 +3,10 @@ title: "Section 2241a - Exchange or sale authority"
 usc_title: 7
 usc_section: "2241a"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2241a"
-generated_at: "2026-03-30T02:53:42.381Z"
+generated_at: "2026-11-23T20:25:41.505Z"
+status: "active"
 ---
 
 # § 2241a. Exchange or sale authority
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:42.381Z"
   - **(1)** to acquire any qualified item of personal property; or
   - **(2)** to offset costs related to the maintenance, care, or feeding of any qualified item of personal property.
 - **(c)** Subsection (b) does not apply to the free dissemination of new varieties of seeds and germplasm in accordance with section 2201 of this title .
+
+## Source Credit
+
+*([Pub. L. 103–354, title III, § 307](https://www.govinfo.gov/link/plaw/103/public/354), as added [Pub. L. 110–234, title VII, § 7408](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1252](https://www.govinfo.gov/link/statute/122/1252), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, § 7408, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2013; amended [Pub. L. 113–79, title VII, § 7605](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 912](https://www.govinfo.gov/link/statute/128/912).)*

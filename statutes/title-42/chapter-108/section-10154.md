@@ -3,9 +3,10 @@ title: "Section 10154 - Licensing of facility expansions and transshipments"
 usc_title: 42
 usc_section: "10154"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10154"
-generated_at: "2026-03-30T02:56:11.382Z"
+generated_at: "2026-11-23T20:27:23.211Z"
+status: "active"
 ---
 
 # § 10154. Licensing of facility expansions and transshipments
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.382Z"
 - **(c)** No court shall hold unlawful or set aside a decision of the Commission in any proceeding described in subsection (a) because of a failure by the Commission to use a particular procedure pursuant to this section unless—
   - **(1)** an objection to the procedure used was presented to the Commission in a timely fashion or there are extraordinary circumstances that excuse the failure to present a timely objection; and
   - **(2)** the court finds that such failure has precluded a fair consideration and informed resolution of a significant issue of the proceeding taken as a whole.
+
+## Source Credit
+
+*([Pub. L. 97–425, title I, § 134](https://www.govinfo.gov/link/plaw/97/public/425), Jan. 7, 1983, [96 Stat. 2230](https://www.govinfo.gov/link/statute/96/2230).)*

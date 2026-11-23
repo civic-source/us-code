@@ -3,9 +3,10 @@ title: "Section 4086 - Entitlement to vote in a State in a Federal election; pre
 usc_title: 22
 usc_section: "4086"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4086"
-generated_at: "2026-03-30T02:55:05.406Z"
+generated_at: "2026-11-23T20:26:32.517Z"
+status: "active"
 ---
 
 # § 4086. Entitlement to vote in a State in a Federal election; preconditions; applicability
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.406Z"
   - **(2)** notifies that State of such election and notifies any other States in which he or she is entitled to vote of such election; and
   - **(3)** otherwise meets the requirements of such Act [ 42 U.S.C. 1973dd et seq.].
 - **(b)** The provisions of subsection (a) shall apply only to an individual who becomes a member of the Service on or after November 22, 1983 , and shall not apply to an individual who registers to vote in a State in which he is entitled to vote under section 3 of Overseas Citizens Voting Rights Act [ 42 U.S.C. 1973dd–1 ].
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 906](https://www.govinfo.gov/link/plaw/96/public/465), as added [Pub. L. 98–164, title I, § 129(a)](https://www.govinfo.gov/link/plaw/98/public/164), Nov. 22, 1983, [97 Stat. 1027](https://www.govinfo.gov/link/statute/97/1027).)*

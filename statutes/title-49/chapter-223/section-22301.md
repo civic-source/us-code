@@ -3,9 +3,10 @@ title: "Section 22301 - Capital grants for class II and class III railroads"
 usc_title: 49
 usc_section: "22301"
 chapter: 223
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 22301"
-generated_at: "2026-03-30T02:56:19.340Z"
+generated_at: "2026-11-23T20:27:34.830Z"
+status: "active"
 ---
 
 # § 22301. Capital grants for class II and class III railroads
@@ -30,3 +31,33 @@ generated_at: "2026-03-30T02:56:19.340Z"
   - **(2)** Wage rates in a collective bargaining agreement negotiated under the Railway Labor Act ( 45 U.S.C. 151 et seq.) are deemed for purposes of this subsection to comply with the 1 1 So in original. The word “the” probably should not appear. subchapter IV of chapter 31 of title 40.
 - **(f)** The Secretary shall conduct a study of the projects carried out with grant assistance under this section to determine the extent to which the program helps promote a reduction in fuel use associated with the transportation of freight and demonstrates innovative technologies that increase fuel economy, reduce greenhouse gas emissions, and lower the costs of operation. Not later than March 31, 2009 , the Secretary shall submit a report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the study, including any recommendations the Secretary considers appropriate regarding the program.
 - **(g)** There is authorized to be appropriated to the Secretary $50,000,000 for each of fiscal years 2008 through 2011 for carrying out this section.
+
+Establishment of Program.—
+
+Establishment
+
+Provision of grants
+
+State cooperation
+
+Regulations
+
+Maximum Federal Share
+
+Use of Funds
+
+Employee Protection
+
+Labor Standards.—
+
+Prevailing wages
+
+Wage rates
+
+Study
+
+Authorization of Appropriations
+
+## Source Credit
+
+*(Added [Pub. L. 110–140, title XI, § 1112(a)](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1758](https://www.govinfo.gov/link/statute/121/1758); amended [Pub. L. 110–432, div. A, title VII, § 701(b)](https://www.govinfo.gov/link/plaw/110/public/432), Oct. 16, 2008, [122 Stat. 4906](https://www.govinfo.gov/link/statute/122/4906).)*

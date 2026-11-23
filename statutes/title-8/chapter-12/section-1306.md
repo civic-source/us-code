@@ -3,9 +3,10 @@ title: "Section 1306 - Penalties"
 usc_title: 8
 usc_section: "1306"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1306"
-generated_at: "2026-03-30T02:53:10.493Z"
+generated_at: "2026-11-23T20:25:36.187Z"
+status: "active"
 ---
 
 # § 1306. Penalties
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:10.493Z"
 - **(b)** Any alien or any parent or legal guardian in the United States of any alien who fails to give written notice to the Attorney General, as required by section 1305 of this title , shall be guilty of a misdemeanor and shall, upon conviction thereof, be fined not to exceed $200 or be imprisoned not more than thirty days, or both. Irrespective of whether an alien is convicted and punished as herein provided, any alien who fails to give written notice to the Attorney General, as required by section 1305 of this title , shall be taken into custody and removed in the manner provided by part IV of this subchapter, unless such alien establishes to the satisfaction of the Attorney General that such failure was reasonably excusable or was not willful.
 - **(c)** Any alien or any parent or legal guardian of any alien, who files an application for registration containing statements known by him to be false, or who procures or attempts to procure registration of himself or another person through fraud, shall be guilty of a misdemeanor and shall, upon conviction thereof, be fined not to exceed $1,000, or be imprisoned not more than six months, or both; and any alien so convicted shall, upon the warrant of the Attorney General, be taken into custody and be removed in the manner provided in part IV of this subchapter.
 - **(d)** Any person who with unlawful intent photographs, prints, or in any other manner makes, or executes, any engraving, photograph, print, or impression in the likeness of any certificate of alien registration or an alien registration receipt card or any colorable imitation thereof, except when and as authorized under such rules and regulations as may be prescribed by the Attorney General, shall upon conviction be fined not to exceed $5,000 or be imprisoned not more than five years, or both.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 7, § 266, [66 Stat. 225](https://www.govinfo.gov/link/statute/66/225); [Pub. L. 104–208, div. C, title III, § 308(e)(2)(G)](https://www.govinfo.gov/link/plaw/104/public/208), (g)(9)(A), Sept. 30, 1996, [110 Stat. 3009–620](https://www.govinfo.gov/link/statute/110/3009), 3009–624.)*

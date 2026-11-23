@@ -3,9 +3,10 @@ title: "Section 2669 - Printing and binding outside continental United States; s
 usc_title: 22
 usc_section: "2669"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2669"
-generated_at: "2026-03-30T02:55:05.377Z"
+generated_at: "2026-11-23T20:26:32.365Z"
+status: "active"
 ---
 
 # § 2669. Printing and binding outside continental United States; settlement and payment of claims by foreign governments; employment of aliens; official functions and courtesies; purchase of uniforms; payment of tort claims; payment of assumed obligations in Germany; telecommunications services; security; special purpose passenger motor vehicles; pay obligations arising under international conventions or contracts; personal service contracts
@@ -27,3 +28,7 @@ The Secretary of State may use funds appropriated or otherwise available to the 
 - **(m)** pay obligations arising under international agreements, conventions, and binational contracts to the extent otherwise authorized by law;
 - **(n)** exercise the authority provided in subsection (c), upon the request of the Secretary of Defense or the head of any other department or agency of the United States, to enter into personal service contracts with individuals to perform services in support of the Department of Defense or such other department or agency, as the case may be; and
 - **(o)** make administrative corrections or adjustments to an employee’s pay, allowances, or differentials, resulting from mistakes or retroactive personnel actions, as well as provide back pay and other categories of payments under section 5596 of title 5 , as part of the settlement or compromise of administrative claims or grievances filed against the Department.
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title I, § 2, [70 Stat. 890](https://www.govinfo.gov/link/statute/70/890); [Pub. L. 86–624, § 2](https://www.govinfo.gov/link/plaw/86/public/624), July 12, 1960, [74 Stat. 411](https://www.govinfo.gov/link/statute/74/411); [Pub. L. 86–707, title V, § 511(a)(2)](https://www.govinfo.gov/link/plaw/86/public/707), Sept. 6, 1960, [74 Stat. 800](https://www.govinfo.gov/link/statute/74/800); [Pub. L. 87–565](https://www.govinfo.gov/link/plaw/87/public/565), pt. IV, § 402, Aug. 1, 1962, [76 Stat. 263](https://www.govinfo.gov/link/statute/76/263); renumbered title I, [Pub. L. 97–241, title II, § 202(a)](https://www.govinfo.gov/link/plaw/97/public/241), Aug. 24, 1982, [96 Stat. 282](https://www.govinfo.gov/link/statute/96/282); [Pub. L. 98–533, title III, § 303(a)](https://www.govinfo.gov/link/plaw/98/public/533), Oct. 19, 1984, [98 Stat. 2710](https://www.govinfo.gov/link/statute/98/2710); [Pub. L. 99–93, title I](https://www.govinfo.gov/link/plaw/99/public/93), §§ 114, 118(a), Aug. 16, 1985, [99 Stat. 411](https://www.govinfo.gov/link/statute/99/411), 412; [Pub. L. 101–246, title I, § 111](https://www.govinfo.gov/link/plaw/101/public/246), Feb. 16, 1990, [104 Stat. 21](https://www.govinfo.gov/link/statute/104/21); [Pub. L. 102–20, § 4](https://www.govinfo.gov/link/plaw/102/public/20), Mar. 27, 1991, [105 Stat. 68](https://www.govinfo.gov/link/statute/105/68); [Pub. L. 102–138, title I, § 120](https://www.govinfo.gov/link/plaw/102/public/138), Oct. 28, 1991, [105 Stat. 658](https://www.govinfo.gov/link/statute/105/658); [Pub. L. 103–236, title I](https://www.govinfo.gov/link/plaw/103/public/236), §§ 137, 162(k)(4), 180(b), Apr. 30, 1994, [108 Stat. 397](https://www.govinfo.gov/link/statute/108/397), 409, 416; [Pub. L. 107–107, div. A, title VIII, § 833](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1191](https://www.govinfo.gov/link/statute/115/1191); [Pub. L. 108–447, div. B, title IV, § 413](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 2906](https://www.govinfo.gov/link/statute/118/2906); [Pub. L. 109–313, § 2(c)(1)](https://www.govinfo.gov/link/plaw/109/public/313), Oct. 6, 2006, [120 Stat. 1735](https://www.govinfo.gov/link/statute/120/1735).)*

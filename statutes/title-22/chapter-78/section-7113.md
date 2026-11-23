@@ -3,9 +3,10 @@ title: "Section 7113 - Accountability"
 usc_title: 22
 usc_section: "7113"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7113"
-generated_at: "2026-03-30T02:55:05.438Z"
+generated_at: "2026-11-23T20:26:32.657Z"
+status: "active"
 ---
 
 # § 7113. Accountability
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:55:05.438Z"
 - **(b)** For purposes of subsection (a), for fiscal year 2018, and each fiscal year thereafter, the term “grant awarded by the Attorney General under this title or an Act amended by this title” includes a grant under any of the following:
   - **(1)** Section 20333 of title 34 .
   - **(2)** The program under section 20709c of title 34 .
+
+## Source Credit
+
+*([Pub. L. 113–4, title XII, § 1236](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 147](https://www.govinfo.gov/link/statute/127/147); [Pub. L. 115–393, title VI, § 601](https://www.govinfo.gov/link/plaw/115/public/393), Dec. 21, 2018, [132 Stat. 5278](https://www.govinfo.gov/link/statute/132/5278).)*

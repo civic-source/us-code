@@ -3,9 +3,10 @@ title: "Section 1300 - Pilot program for alternative water source projects"
 usc_title: 33
 usc_section: "1300"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1300"
-generated_at: "2026-03-30T02:55:41.090Z"
+generated_at: "2026-11-23T20:26:54.002Z"
+status: "active"
 ---
 
 # § 1300. Pilot program for alternative water source projects
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:41.090Z"
 - **(i)**
   - **(1)** There is authorized to be appropriated to carry out this section $25,000,000 for each of fiscal years 2022 through 2026, to remain available until expended.
   - **(2)** Of the amounts made available for grants under paragraph (1), not more than 2 percent may be used to pay the administrative costs of the Administrator.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title II, § 220, as added [Pub. L. 106–457, title VI, § 602](https://www.govinfo.gov/link/plaw/106/public/457), Nov. 7, 2000, [114 Stat. 1975](https://www.govinfo.gov/link/statute/114/1975); amended [Pub. L. 117–58, div. E, title II, § 50203](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1159](https://www.govinfo.gov/link/statute/135/1159).)*

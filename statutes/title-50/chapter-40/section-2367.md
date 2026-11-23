@@ -3,9 +3,10 @@ title: "Section 2367 - Reports on acquisition of technology relating to weapons 
 usc_title: 50
 usc_section: "2367"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 2367"
-generated_at: "2026-03-30T02:56:26.223Z"
+generated_at: "2026-11-23T20:27:30.842Z"
+status: "active"
 ---
 
 # § 2367. Reports on acquisition of technology relating to weapons of mass destruction and the threat posed by weapons of mass destruction, ballistic missiles, and cruise missiles
@@ -30,3 +31,25 @@ generated_at: "2026-03-30T02:56:26.223Z"
   - **(1)** The congressional defense committees.
   - **(2)** The congressional intelligence committees (as defined in section 3003 of this title ).
   - **(3)** The Speaker and the minority leader of the House of Representatives and the majority leader and the minority leader of the Senate.
+
+Strategy
+
+Briefings.—
+
+In general
+
+Interim briefings
+
+Pursuit of Strategy
+
+Appropriate Congressional Committees Defined
+
+Report Required
+
+Matters to Be Included
+
+Notification
+
+## Source Credit
+
+*([Pub. L. 105–85, div. A, title II, § 234](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1664](https://www.govinfo.gov/link/statute/111/1664); [Pub. L. 112–239, div. A, title X, § 1065(a)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1941](https://www.govinfo.gov/link/statute/126/1941).)*

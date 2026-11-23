@@ -3,9 +3,10 @@ title: "Section 9802 - Prohibiting discrimination against individual participant
 usc_title: 26
 usc_section: "9802"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 9802"
-generated_at: "2026-03-30T02:55:27.895Z"
+generated_at: "2026-11-23T20:26:46.898Z"
+status: "active"
 ---
 
 # § 9802. Prohibiting discrimination against individual participants and beneficiaries based on health status
@@ -57,3 +58,7 @@ generated_at: "2026-03-30T02:55:27.895Z"
 - **(g)** Any reference in this chapter to genetic information concerning an individual or family member of an individual shall—
   - **(1)** with respect to such an individual or family member of an individual who is a pregnant woman, include genetic information of any fetus carried by such pregnant woman; and
   - **(2)** with respect to an individual or family member utilizing an assisted reproductive technology, include genetic information of any embryo legally held by the individual or family member.
+
+## Source Credit
+
+*(Added [Pub. L. 104–191, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/104/public/191), Aug. 21, 1996, [110 Stat. 2078](https://www.govinfo.gov/link/statute/110/2078); amended [Pub. L. 105–34, title XV, § 1532(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1085](https://www.govinfo.gov/link/statute/111/1085); [Pub. L. 110–233, title I, § 103(a)](https://www.govinfo.gov/link/plaw/110/public/233) –(c), May 21, 2008, [122 Stat. 896](https://www.govinfo.gov/link/statute/122/896), 897; [Pub. L. 113–295, div. A, title II, § 220(aa)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4037](https://www.govinfo.gov/link/statute/128/4037).)*

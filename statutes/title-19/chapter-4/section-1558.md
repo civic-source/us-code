@@ -3,9 +3,10 @@ title: "Section 1558 - No remission or refund after release of merchandise"
 usc_title: 19
 usc_section: "1558"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1558"
-generated_at: "2026-03-30T02:54:24.643Z"
+generated_at: "2026-11-23T20:26:10.807Z"
+status: "active"
 ---
 
 # § 1558. No remission or refund after release of merchandise
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:24.643Z"
   - **(2)** When prohibited articles have been regularly entered in good faith and are subsequently exported or destroyed pursuant to a law of the United States and under such regulations as the Secretary of the Treasury may prescribe; and
   - **(3)** When articles entered under bond, under any provision of law, are destroyed within the bonded period as provided for in section 1557 of this title , or are destroyed within the bonded period by death, accidental fire, or other casualty, and proof of such destruction is furnished which shall be satisfactory to the Secretary of the Treasury, in which case any accrued duties shall be remitted or refunded and any condition in the bond that the articles shall be exported shall be deemed to have been satisfied.
 - **(b)** When articles are exported or destroyed under customs supervision after once having been released from customs custody, as provided for in subsection (h) 1 1 See References in Text note below. of section 1304 of this title , such exportation or destruction shall not exempt such articles from the payment of duties other than the marking duty provided for in such subsection (h).
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 558, [46 Stat. 744](https://www.govinfo.gov/link/statute/46/744); June 25, 1938, ch. 679, § 24, [52 Stat. 1088](https://www.govinfo.gov/link/statute/52/1088); [Pub. L. 106–36, title I, § 1001(b)(9)](https://www.govinfo.gov/link/plaw/106/public/36), June 25, 1999, [113 Stat. 132](https://www.govinfo.gov/link/statute/113/132).)*

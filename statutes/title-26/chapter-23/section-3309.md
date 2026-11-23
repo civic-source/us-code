@@ -3,9 +3,10 @@ title: "Section 3309 - State law coverage of services performed for nonprofit or
 usc_title: 26
 usc_section: "3309"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 3309"
-generated_at: "2026-03-30T02:55:27.794Z"
+generated_at: "2026-11-23T20:26:46.250Z"
+status: "active"
 ---
 
 # § 3309. State law coverage of services performed for nonprofit organizations or governmental entities
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:27.794Z"
   - **(6)** by an inmate of a custodial or penal institution.
 - **(c)** This section shall not apply to service performed during any calendar year in the employ of any organization unless on each of some 20 days during such calendar year or the preceding calendar year, each day being in a different calendar week, the total number of individuals who were employed by such organization in employment (determined without regard to section 3306(c)(8) and by excluding service to which this section does not apply by reason of subsection (b)) for some portion of the day (whether or not at the same moment of time) was 4 or more.
 - **(d)** The State law shall provide that an Indian tribe may make contributions for employment as if the employment is within the meaning of section 3306 or make payments in lieu of contributions under this section, and shall provide that an Indian tribe may make separate elections for itself and each subdivision, subsidiary, or business enterprise wholly owned by such Indian tribe. State law may require a tribe to post a payment bond or take other reasonable measures to assure the making of payments in lieu of contributions under this section. Notwithstanding the requirements of section 3306(a)(6), if, within 90 days of having received a notice of delinquency, a tribe fails to make contributions, payments in lieu of contributions, or payment of penalties or interest (at amounts or rates comparable to those applied to all other employers covered under the State law) assessed with respect to such failure, or if the tribe fails to post a required payment bond, then service for the tribe shall not be excepted from employment under section 3306(c)(7) until any such failure is corrected. This subsection shall apply to an Indian tribe within the meaning of section 4(e) of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5304(e) ).
+
+## Source Credit
+
+*(Added [Pub. L. 91–373, title I, § 104(b)(1)](https://www.govinfo.gov/link/plaw/91/public/373), Aug. 10, 1970, [84 Stat. 697](https://www.govinfo.gov/link/statute/84/697); amended [Pub. L. 94–566, title I, § 115(a)](https://www.govinfo.gov/link/plaw/94/public/566), (b), (c)(2), (3), title V, § 506(a), Oct. 20, 1976, [90 Stat. 2670](https://www.govinfo.gov/link/statute/90/2670), 2671, 2687; [Pub. L. 95–19, title III, § 302(b)](https://www.govinfo.gov/link/plaw/95/public/19), Apr. 12, 1977, [91 Stat. 44](https://www.govinfo.gov/link/statute/91/44); [Pub. L. 105–33, title V](https://www.govinfo.gov/link/plaw/105/public/33), §§ 5405(a), 5407(a), Aug. 5, 1997, [111 Stat. 604](https://www.govinfo.gov/link/statute/111/604), 605; [Pub. L. 106–554, § 1(a)(7) [title I, § 166(b), (c)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–627; [Pub. L. 115–141, div. U, title IV, § 401(a)(216)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1194](https://www.govinfo.gov/link/statute/132/1194).)*

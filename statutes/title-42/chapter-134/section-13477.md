@@ -3,9 +3,10 @@ title: "Section 13477 - High-temperature superconductivity program"
 usc_title: 42
 usc_section: "13477"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13477"
-generated_at: "2026-03-30T02:56:11.447Z"
+generated_at: "2026-11-23T20:27:23.501Z"
+status: "active"
 ---
 
 # § 13477. High-temperature superconductivity program
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.447Z"
   - **(5)** activities that will assist the private sector with designs for more efficient electric power generation and delivery systems which are cost competitive with conventional energy systems; and
   - **(6)** development of prototypes that have application in both the commercial and defense sectors.
 - **(b)** There are authorized to be appropriated to the Secretary for carrying out this section $21,900,000 for fiscal year 1993 and such sums as may be necessary for subsequent fiscal years, to be derived from sums authorized under section 13471(c) of this title .
+
+## Source Credit
+
+*([Pub. L. 102–486, title XXI, § 2117](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3075](https://www.govinfo.gov/link/statute/106/3075).)*

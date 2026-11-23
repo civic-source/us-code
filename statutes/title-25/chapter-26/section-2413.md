@@ -3,9 +3,10 @@ title: "Section 2413 - Departmental responsibility"
 usc_title: 25
 usc_section: "2413"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 2413"
-generated_at: "2026-03-30T02:54:52.840Z"
+generated_at: "2026-11-23T20:26:25.591Z"
+status: "active"
 ---
 
 # § 2413. Departmental responsibility
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:54:52.840Z"
   - **(3)** In addition to other responsibilities which may be assigned to the Indian Youth Programs Officer relating to Indian youth such Officer shall be responsible for—
     - **(A)** monitoring the performance and compliance of the applicable Federal programs in meeting the goals and purposes of this chapter and the Memorandum of Agreement entered into under section 2411 of this title as they relate to Indian youth efforts, and
     - **(B)** providing advice and recommendations, including recommendations submitted by Indian tribes and Tribal Coordinating Committees, to the Director of the Office as they relate to Indian youth.
+
+## Source Credit
+
+*([Pub. L. 99–570, title IV, § 4207](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–141](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 100–690, title II, § 2216](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4221](https://www.govinfo.gov/link/statute/102/4221); [Pub. L. 102–573, title VII, § 703(2)](https://www.govinfo.gov/link/plaw/102/public/573), Oct. 29, 1992, [106 Stat. 4583](https://www.govinfo.gov/link/statute/106/4583); [Pub. L. 111–211, title II, § 241(a)(3)](https://www.govinfo.gov/link/plaw/111/public/211), July 29, 2010, [124 Stat. 2288](https://www.govinfo.gov/link/statute/124/2288).)*

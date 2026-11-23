@@ -3,9 +3,10 @@ title: "Section 1312 - Bonded smelting and refining warehouses"
 usc_title: 19
 usc_section: "1312"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1312"
-generated_at: "2026-03-30T02:54:24.627Z"
+generated_at: "2026-11-23T20:26:10.729Z"
+status: "active"
 ---
 
 # § 1312. Bonded smelting and refining warehouses
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:54:24.627Z"
     - **(B)** for the treatment of unwrought metal or metal waste and scrap to remove impurities or undesired components; and
   - **(3)** the term “product of smelting or refining” means metals or metal-bearing materials resulting directly from smelting or refining processes, but does not include metal-bearing ores of chapter 26 of the Harmonized Tariff Schedule of the United States.
 - **(g)** Labor performed and services rendered pursuant to this section shall be under the supervision of an officer of the customs, to be appointed by the Secretary of the Treasury and at the expense of the manufacturer. The Secretary of the Treasury is authorized to make such rules and regulations as may be necessary to carry out the provisions of this section.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title III, § 312, [46 Stat. 692](https://www.govinfo.gov/link/statute/46/692); [Pub. L. 87–456, title III, § 301(b)](https://www.govinfo.gov/link/plaw/87/public/456), May 24, 1962, [76 Stat. 75](https://www.govinfo.gov/link/statute/76/75); [Pub. L. 100–418, title I, § 1214(h)(1)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1157](https://www.govinfo.gov/link/statute/102/1157); [Pub. L. 100–449, title II, § 204(c)(2)](https://www.govinfo.gov/link/plaw/100/public/449), Sept. 28, 1988, [102 Stat. 1862](https://www.govinfo.gov/link/statute/102/1862); [Pub. L. 103–182, title II, § 203(b)(2)](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2088](https://www.govinfo.gov/link/statute/107/2088); [Pub. L. 108–77, title II, § 203(b)(2)](https://www.govinfo.gov/link/plaw/108/public/77), Sept. 3, 2003, [117 Stat. 925](https://www.govinfo.gov/link/statute/117/925); [Pub. L. 116–113, title V, § 501(e)(2)](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 68](https://www.govinfo.gov/link/statute/134/68); [Pub. L. 116–260, div. O, title VI, § 601(c)(2)(A)(ii)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2150](https://www.govinfo.gov/link/statute/134/2150).)*

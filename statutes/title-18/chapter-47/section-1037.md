@@ -3,9 +3,10 @@ title: "Section 1037 - Fraud and related activity in connection with electronic 
 usc_title: 18
 usc_section: "1037"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 1037"
-generated_at: "2026-03-30T02:54:16.481Z"
+generated_at: "2026-11-23T20:26:08.460Z"
+status: "active"
 ---
 
 # § 1037. Fraud and related activity in connection with electronic mail
@@ -38,3 +39,27 @@ generated_at: "2026-03-30T02:54:16.481Z"
   - **(2)** For purposes of paragraphs (3) and (4) of subsection (a), header information or registration information is materially falsified if it is altered or concealed in a manner that would impair the ability of a recipient of the message, an Internet access service processing the message on behalf of a recipient, a person alleging a violation of this section, or a law enforcement agency to identify, locate, or respond to a person who initiated the electronic mail message or to investigate the alleged violation.
   - **(3)** The term “multiple” means more than 100 electronic mail messages during a 24-hour period, more than 1,000 electronic mail messages during a 30-day period, or more than 10,000 electronic mail messages during a 1-year period.
   - **(4)** Any other term has the meaning given that term by section 3 of the CAN-SPAM Act of 2003.
+
+In General
+
+Penalties
+
+Forfeiture.—
+
+In general
+
+Procedures
+
+Definitions
+
+Loss
+
+Materially
+
+Multiple
+
+Other terms
+
+## Source Credit
+
+*(Added [Pub. L. 108–187, § 4(a)(1)](https://www.govinfo.gov/link/plaw/108/public/187), Dec. 16, 2003, [117 Stat. 2703](https://www.govinfo.gov/link/statute/117/2703).)*

@@ -3,9 +3,10 @@ title: "Section 7211 - Establishment; administrative provisions"
 usc_title: 15
 usc_section: "7211"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 7211"
-generated_at: "2026-03-30T02:54:08.218Z"
+generated_at: "2026-11-23T20:26:04.436Z"
+status: "active"
 ---
 
 # § 7211. Establishment; administrative provisions
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:54:08.218Z"
   - **(3)** establish ethics rules and standards of conduct for Board members and staff, including a bar on practice before the Board (and the Commission, with respect to Board-related matters) of 1 year for former members of the Board, and appropriate periods (not to exceed 1 year) for former staff of the Board; and
   - **(4)** provide as otherwise required by this Act.
 - **(h)** The Board shall submit an annual report (including its audited financial statements) to the Commission, and the Commission shall transmit a copy of that report to the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Financial Services of the House of Representatives, not later than 30 days after the date of receipt of that report by the Commission.
+
+## Source Credit
+
+*([Pub. L. 107–204, title I, § 101](https://www.govinfo.gov/link/plaw/107/public/204), July 30, 2002, [116 Stat. 750](https://www.govinfo.gov/link/statute/116/750); [Pub. L. 111–203, title IX, § 982(b)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1928](https://www.govinfo.gov/link/statute/124/1928).)*

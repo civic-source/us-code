@@ -3,9 +3,10 @@ title: "Section 2166 - Jurisdiction"
 usc_title: 48
 usc_section: "2166"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 2166"
-generated_at: "2026-03-30T02:56:14.604Z"
+generated_at: "2026-11-23T20:27:28.202Z"
+status: "active"
 ---
 
 # § 2166. Jurisdiction
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:14.604Z"
   - **(6)** Except as provided in section 2164(d) of this title , an appeal of an interlocutory order or decree does not stay any proceeding of the district court from which the appeal is taken unless the district court, or the court of appeals in which the appeal is pending, issues a stay of such proceedings pending the appeal.
   - **(7)** Any request for a certification in respect to an interlocutory appeal of an order or decree shall be made not later than 60 days after the entry of the order or decree.
 - **(f)** Notwithstanding any law to the contrary, the clerk of the court in which a case is pending shall reallocate as many staff and assistants as the clerk deems necessary to ensure that the court has adequate resources to provide for proper case management.
+
+## Source Credit
+
+*([Pub. L. 114–187, title III, § 306](https://www.govinfo.gov/link/plaw/114/public/187), June 30, 2016, [130 Stat. 580](https://www.govinfo.gov/link/statute/130/580).)*

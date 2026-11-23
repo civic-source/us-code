@@ -3,9 +3,10 @@ title: "Section 10707 - Restrictions on activities of the Institute"
 usc_title: 42
 usc_section: "10707"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10707"
-generated_at: "2026-03-30T02:56:11.391Z"
+generated_at: "2026-11-23T20:27:23.256Z"
+status: "active"
 ---
 
 # § 10707. Restrictions on activities of the Institute
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.391Z"
   - **(3)** Neither the Institute nor any recipient shall contribute or make available Institute funds or program personnel or equipment to any political party or association, or the campaign of any candidate for public or party office.
   - **(4)** The Institute shall not contribute or make available Institute funds or program personnel or equipment for use in advocating or opposing any ballot measure, initiative, or referendum.
 - **(c)** Officers and employees of the Institute or of recipients shall not at any time intentionally identify the Institute or the recipient with any partisan or nonpartisan political activity associated with a political party or association, or the campaign of any candidate for public or party office.
+
+## Source Credit
+
+*([Pub. L. 98–620, title II, § 208](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3343](https://www.govinfo.gov/link/statute/98/3343).)*

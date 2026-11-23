@@ -3,9 +3,10 @@ title: "Section 8501 - Findings"
 usc_title: 22
 usc_section: "8501"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8501"
-generated_at: "2026-03-30T02:55:05.451Z"
+generated_at: "2026-11-23T20:26:32.710Z"
+status: "active"
 ---
 
 # § 8501. Findings
@@ -30,3 +31,77 @@ Congress makes the following findings:
   - **(8)** There is an increasing interest by State governments, local governments, educational institutions, and private institutions, business firms, and other investors to disassociate themselves from companies that conduct business activities in the energy sector of Iran, since such business activities may directly or indirectly support the efforts of the Government of Iran to achieve a nuclear weapons capability.
   - **(9)** Black market proliferation networks continue to flourish in the Middle East, allowing countries like Iran to gain access to sensitive dual-use technologies.
   - **(10)** Economic sanctions imposed pursuant to the provisions of this Act, the Iran Sanctions Act of 1996, as amended by this Act, and the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.), and other authorities available to the United States to impose economic sanctions to prevent Iran from developing nuclear weapons, are necessary to protect the essential security interests of the United States.
+
+Findings
+
+Sense of Congress
+
+In General.—
+
+Determination and report required
+
+Sanctions listed
+
+Form of determination
+
+Foreign Persons Described
+
+Congressional Oversight.—
+
+In general
+
+Appropriate congressional committees defined
+
+Financial Institutions and Assets Report.—
+
+In general
+
+Exemptions
+
+Waiver
+
+Persons Described
+
+Form of Report; Public Availability.—
+
+Form
+
+Public availability
+
+Format of publicly available reports
+
+Report and Briefing on Iranian Assets and Licenses.—
+
+In general
+
+Form.—
+
+Assets
+
+Exemptions
+
+Covered person defined
+
+In General
+
+Suspension
+
+Appropriate members of congress
+
+Financial institution
+
+Foreign financial institution
+
+Funds
+
+Knowingly
+
+Secretary
+
+United states financial institution
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 111–195, § 2](https://www.govinfo.gov/link/plaw/111/public/195), July 1, 2010, [124 Stat. 1313](https://www.govinfo.gov/link/statute/124/1313).)*

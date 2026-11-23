@@ -3,9 +3,10 @@ title: "Section 8103 - Biorefinery, renewable chemical, and biobased product man
 usc_title: 7
 usc_section: "8103"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 8103"
-generated_at: "2026-03-30T02:53:42.470Z"
+generated_at: "2026-11-23T20:25:41.866Z"
+status: "active"
 ---
 
 # § 8103. Biorefinery, renewable chemical, and biobased product manufacturing assistance
@@ -81,3 +82,7 @@ generated_at: "2026-03-30T02:53:42.470Z"
   - **(5)** The Secretary shall not enter into, pursuant to this subsection—
     - **(A)** any loan agreement that may result in a disbursement after September 30, 2031 ; or
     - **(B)** any grant agreement that may result in any outlay after September 30, 2031 .
+
+## Source Credit
+
+*([Pub. L. 107–171, title IX, § 9003](https://www.govinfo.gov/link/plaw/107/public/171), as added [Pub. L. 110–234, title IX, § 9001(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1310](https://www.govinfo.gov/link/statute/122/1310), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IX, § 9001(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2072; amended [Pub. L. 112–240, title VII, § 701(f)(2)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2365](https://www.govinfo.gov/link/statute/126/2365); [Pub. L. 113–79, title IX, § 9003](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 928](https://www.govinfo.gov/link/statute/128/928); [Pub. L. 115–334, title IX, § 9003](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4884](https://www.govinfo.gov/link/statute/132/4884); [Pub. L. 117–169, title II](https://www.govinfo.gov/link/plaw/117/public/169), §§ 22001, 22003, 22004, Aug. 16, 2022, [136 Stat. 2018](https://www.govinfo.gov/link/statute/136/2018), 2020.)*

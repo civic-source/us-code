@@ -3,9 +3,10 @@ title: "Section 3162 - Comprehensive economic development strategies"
 usc_title: 42
 usc_section: "3162"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3162"
-generated_at: "2026-03-30T02:56:11.183Z"
+generated_at: "2026-11-23T20:27:22.266Z"
+status: "active"
 ---
 
 # § 3162. Comprehensive economic development strategies
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.183Z"
   - **(1)** The Secretary may accept as a comprehensive economic development strategy a satisfactory plan developed under another federally supported program.
   - **(2)** To the maximum extent practicable, a plan submitted under this paragraph shall be consistent and coordinated with any existing comprehensive economic development strategy for the area.
 - **(d)** This section shall not apply to grants awarded under section 3147 of this title or grants awarded under section 3149(c)(2) of this title for areas to which more than one comprehensive economic development strategy may apply.
+
+## Source Credit
+
+*([Pub. L. 89–136, title III, § 302](https://www.govinfo.gov/link/plaw/89/public/136), as added [Pub. L. 105–393, title I, § 102(a)](https://www.govinfo.gov/link/plaw/105/public/393), Nov. 13, 1998, [112 Stat. 3608](https://www.govinfo.gov/link/statute/112/3608); amended [Pub. L. 108–373, title III, § 302](https://www.govinfo.gov/link/plaw/108/public/373), Oct. 27, 2004, [118 Stat. 1767](https://www.govinfo.gov/link/statute/118/1767); [Pub. L. 118–272, div. B, title II, § 2226](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3191](https://www.govinfo.gov/link/statute/138/3191).)*

@@ -3,9 +3,10 @@ title: "Section 53517 - Reports"
 usc_title: 46
 usc_section: "53517"
 chapter: 535
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 53517"
-generated_at: "2026-03-30T02:56:15.576Z"
+generated_at: "2026-11-23T20:27:27.331Z"
+status: "active"
 ---
 
 # § 53517. Reports
@@ -17,3 +18,28 @@ generated_at: "2026-03-30T02:56:15.576Z"
   - **(3)** terminating a capital construction fund during the calendar year;
   - **(4)** making a deposit to or withdrawal from a capital construction fund during the calendar year, and the amount of the deposit or withdrawal; or
   - **(5)** having been determined during the calendar year to have failed to fulfill a substantial obligation under a capital construction fund agreement to which the person is a party.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 53517 | 46 App.:1177(m). | June 29, 1936, ch. 858 , title VI, § 607(m), as added Pub. L. 99–514, § 261(d) , Oct. 22, 1986 , 100 Stat. 2214 . |
+
+
+In General
+
+Contents
+
+Historical and Revision Notes
+
+53517
+
+June 29, 1936, ch. 858
+
+Pub. L. 99–514, § 261(d)
+
+Oct. 22, 1986
+
+100 Stat. 2214
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(c)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1600](https://www.govinfo.gov/link/statute/120/1600).)*

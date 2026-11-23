@@ -3,9 +3,10 @@ title: "Section 1011h - Binge drinking on college campuses"
 usc_title: 20
 usc_section: "1011h"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1011h"
-generated_at: "2026-03-30T02:54:48.093Z"
+generated_at: "2026-11-23T20:26:14.303Z"
+status: "active"
 ---
 
 # § 1011h. Binge drinking on college campuses
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:48.093Z"
   - **(4)** The institution should vigorously enforce the institution’s code of disciplinary sanctions for those who violate campus alcohol policies. Students with alcohol or other drug-related problems should be referred for assistance, including on-campus counseling programs if appropriate.
   - **(5)** The institution should adopt a policy to discourage alcoholic beverage-related sponsorship of on-campus activities. It should adopt policies limiting the advertisement and promotion of alcoholic beverages on campus.
   - **(6)** The institution should work with the local community, including local businesses, in a “Town/Gown” alliance to encourage responsible policies toward alcohol consumption and to address illegal alcohol use by students.
+
+## Source Credit
+
+*([Pub. L. 89–329, title I, § 119](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title I, § 101(a)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1596](https://www.govinfo.gov/link/statute/112/1596).)*

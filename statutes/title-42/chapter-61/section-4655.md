@@ -3,9 +3,10 @@ title: "Section 4655 - Requirements for uniform land acquisition policies; payme
 usc_title: 42
 usc_section: "4655"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4655"
-generated_at: "2026-03-30T02:56:11.207Z"
+generated_at: "2026-11-23T20:27:22.405Z"
+status: "active"
 ---
 
 # § 4655. Requirements for uniform land acquisition policies; payments of expenses incidental to transfer of real property to State; payment of litigation expenses in certain cases
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.207Z"
 - **(b)** For purposes of this section, the term “acquiring agency” means—
   - **(1)** a State agency (as defined in section 4601(3) of this title ) which has the authority to acquire property by eminent domain under State law, and
   - **(2)** a State agency or person which does not have such authority, to the extent provided by the head of the lead agency by regulation.
+
+## Source Credit
+
+*([Pub. L. 91–646, title III, § 305](https://www.govinfo.gov/link/plaw/91/public/646), Jan. 2, 1971, [84 Stat. 1906](https://www.govinfo.gov/link/statute/84/1906); [Pub. L. 100–17, title IV, § 417](https://www.govinfo.gov/link/plaw/100/public/17), Apr. 2, 1987, [101 Stat. 256](https://www.govinfo.gov/link/statute/101/256).)*

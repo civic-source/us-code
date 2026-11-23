@@ -3,9 +3,10 @@ title: "Section 20929 - Election by Indian tribes"
 usc_title: 34
 usc_section: "20929"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 20929"
-generated_at: "2026-03-30T02:55:33.301Z"
+generated_at: "2026-11-23T20:26:50.609Z"
+status: "active"
 ---
 
 # § 20929. Election by Indian tribes
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:33.301Z"
   - **(2)** A tribe may, through cooperative agreements with such a jurisdiction or jurisdictions—
     - **(A)** arrange for the tribe to carry out any function of such a jurisdiction under this part with respect to sex offenders subject to the tribe’s jurisdiction; and
     - **(B)** arrange for such a jurisdiction to carry out any function of the tribe under this part with respect to sex offenders subject to the tribe’s jurisdiction.
+
+## Source Credit
+
+*([Pub. L. 109–248, title I, § 127](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 599](https://www.govinfo.gov/link/statute/120/599).)*

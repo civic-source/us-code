@@ -3,9 +3,10 @@ title: "Section 5537 - Net Expenses of Equipment Revolving Fund"
 usc_title: 2
 usc_section: "5537"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 5537"
-generated_at: "2026-03-30T02:53:04.837Z"
+generated_at: "2026-11-23T20:25:29.063Z"
+status: "active"
 ---
 
 # § 5537. Net Expenses of Equipment Revolving Fund
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:04.837Z"
 - **(c)** The Revolving Fund shall be treated as a category of allowances and expenses for purposes of section 5507(a) of this title .
 - **(d)** This section shall apply with respect to fiscal year 2003 and each succeeding fiscal year, except that for purposes of making deposits into the Revolving Fund under subsection (a), the Chief Administrative Officer may deposit amounts provided by offices of the House of Representatives during fiscal year 2002 or any succeeding fiscal year.
 - **(e)** This section shall not apply with respect to any telecommunications equipment which is subject to coverage under section 5538 1 1 See References in Text note below. of this title (relating to the Net Expenses of Telecommunications Revolving Fund).
+
+## Source Credit
+
+*([Pub. L. 108–7, div. H, title I, § 102](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 353](https://www.govinfo.gov/link/statute/117/353); [Pub. L. 108–447, div. G, title I, § 102(e)](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3174](https://www.govinfo.gov/link/statute/118/3174).)*

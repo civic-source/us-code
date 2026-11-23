@@ -3,9 +3,10 @@ title: "Section 6372 - Definitions"
 usc_title: 42
 usc_section: "6372"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6372"
-generated_at: "2026-03-30T02:56:11.259Z"
+generated_at: "2026-11-23T20:27:22.672Z"
+status: "active"
 ---
 
 # § 6372. Definitions
@@ -25,3 +26,11 @@ For purposes of this part—
   - **(7)** The term “technical assistance” means assistance under rules, promulgated by the Secretary, to States, units of local government and public care institutions—
     - **(A)** to conduct specialized studies identifying and specifying energy savings and related cost savings that are likely to be realized as a result of (i) modification or maintenance and operating procedures in a building, (ii) the acquisition and installation of one or more specified energy conservation measures in such building or (iii) both, or
     - **(B)** the planning or administration of such specialized studies.
+
+Findings
+
+Purpose.—
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 400A](https://www.govinfo.gov/link/plaw/94/public/163), as added [Pub. L. 95–619, title III, § 311(a)](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3248](https://www.govinfo.gov/link/statute/92/3248); amended [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095).)*

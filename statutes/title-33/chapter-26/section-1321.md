@@ -3,9 +3,10 @@ title: "Section 1321 - Oil and hazardous substance liability"
 usc_title: 33
 usc_section: "1321"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1321"
-generated_at: "2026-03-30T02:55:41.094Z"
+generated_at: "2026-11-23T20:26:54.018Z"
+status: "active"
 ---
 
 # § 1321. Oil and hazardous substance liability
@@ -502,3 +503,327 @@ generated_at: "2026-03-30T02:55:41.094Z"
       - **(i)** the Gulf Coast Ecosystem Restoration Science, Observation, Monitoring, and Technology program authorized in section 1604 of the Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act of 2012; and
       - **(ii)** the centers of excellence research grants authorized in section 1605 of that Act; and
     - **(B)** 50 percent shall be made available to the Gulf Coast Ecosystem Restoration Council to carry out the Comprehensive Plan pursuant to paragraph (2).
+
+Administrative penalties.—
+
+Violations
+
+Classes of penalties.—
+
+Class i
+
+Class ii
+
+Rights of interested persons.—
+
+Public notice
+
+Presentation of evidence
+
+Rights of interested persons to a hearing
+
+Finality of order
+
+Effect of order
+
+Effect of action on compliance
+
+Judicial review
+
+Collection
+
+Subpoenas
+
+Civil penalty action.—
+
+Discharge, generally
+
+Failure to remove or comply
+
+Failure to comply with regulation
+
+Gross negligence
+
+Jurisdiction
+
+Limitation
+
+Determination of amount
+
+Mitigation of damage
+
+Recovery of removal costs
+
+Limitation
+
+Withholding clearance
+
+(aa) is capable of responding in all operating environments in such part of such area;
+
+(bb) controls oil spill response resources of dedicated and nondedicated resources within such part of such area, through ownership, contracts, agreements, or other means approved by the President, sufficient— (AA) to mobilize and sustain a response to a worst case discharge of oil; and (BB) to contain, recover, and temporarily store discharged oil;
+
+(cc) has pre-positioned oil spill response resources in strategic locations throughout such part of such area in a manner that ensures the ability to support response personnel, marine operations, air cargo, or other related logistics infrastructure;
+
+(dd) has temporary storage capability using both dedicated and non-dedicated assets located within such part of such area;
+
+(ee) has non-mechanical oil spill response resources capable of responding to a discharge of persistent oil and a discharge of nonpersistent oil, whether the discharged oil was carried by a vessel as fuel or cargo; and
+
+(ff) has wildlife response resources for primary, secondary, and tertiary responses to support carcass collection, sampling, deterrence, rescue, and rehabilitation of birds, sea turtles, marine mammals, fishery resources, and other wildlife.
+
+(aa) 40 percent based on the weighted average of miles of the parish shoreline oiled.
+
+(bb) 40 percent based on the weighted average of the population of the parish.
+
+(cc) 20 percent based on the weighted average of the land mass of the parish.
+
+(aa) The Governor of Alabama, who shall also serve as Chairperson and preside over the meetings of the Alabama Gulf Coast Recovery Council.
+
+(bb) The Director of the Alabama State Port Authority, who shall also serve as Vice Chairperson and preside over the meetings of the Alabama Gulf Coast Recovery Council in the absence of the Chairperson.
+
+(cc) The Chairman of the Baldwin County Commission.
+
+(dd) The President of the Mobile County Commission.
+
+(ee) The Mayor of the city of Bayou La Batre.
+
+(ff) The Mayor of the town of Dauphin Island.
+
+(gg) The Mayor of the city of Fairhope.
+
+(hh) The Mayor of the city of Gulf Shores.
+
+(ii) The Mayor of the city of Mobile.
+
+(jj) The Mayor of the city of Orange Beach.
+
+(aa) Approval of a Comprehensive Plan and future revisions to a Comprehensive Plan.
+
+(bb) Approval of State plans pursuant to paragraph (3)(B)(iv).
+
+(cc) Approval of reports to Congress pursuant to clause (vii)(VII).
+
+(dd) Approval of transfers pursuant to subparagraph (E)(ii)(I).
+
+(ee) Other significant actions determined by the Council.
+
+(aa) have been authorized prior to July 6, 2012 , but not yet commenced; and
+
+(bb) if implemented quickly, would restore and protect the natural resources, ecosystems, fisheries, marine and wildlife habitats, beaches, barrier islands, dunes, and coastal wetlands of the Gulf Coast region;
+
+(aa) summarizes the policies, strategies, plans, and activities for addressing the restoration and protection of the Gulf Coast region;
+
+(bb) describes the projects and programs being implemented to restore and protect the Gulf Coast region, including— (AA) a list of each project and program; (BB) an identification of the funding provided to projects and programs identified in subitem (AA); (CC) an identification of each recipient for funding identified in subitem (BB); and (DD) a description of the length of time and funding needed to complete the objectives of each project and program identified in subitem (AA);
+
+(cc) makes such recommendations to Congress for modifications of existing laws as the Council determines necessary to implement the Comprehensive Plan;
+
+(dd) reports on the progress on implementation of each project or program— (AA) after 3 years of ongoing activity of the project or program, if applicable; and (BB) on completion of the project or program;
+
+(ee) includes the information required to be submitted under section 1605(c)(4) of the Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act of 2012; and
+
+(ff) submits the reports required under item (dd) to— (AA) the Committee on Science, Space, and Technology, the Committee on Natural Resources, the Committee on Transportation and Infrastructure, and the Committee on Appropriations of the House of Representatives; and (BB) the Committee on Environment and Public Works, the Committee on Commerce, Science, and Transportation, the Committee on Energy and Natural Resources, and the Committee on Appropriations of the Senate.
+
+(aa) such provisions as are necessary to fully incorporate in the Comprehensive Plan the strategy, projects, and programs recommended by the President’s Gulf Coast Restoration Task Force;
+
+(bb) a list of any project or program authorized prior to July 6, 2012 , but not yet commenced, the completion of which would further the purposes and goals of this subsection and of the Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act of 2012;
+
+(cc) a description of the manner in which amounts from the Trust Fund projected to be made available to the Council for the succeeding 10 years will be allocated; and
+
+(dd) subject to available funding in accordance with clause (iii), a prioritized list of specific projects and programs to be funded and carried out during the 3-year period immediately following the date of publication of the initial Comprehensive Plan, including a table that illustrates the distribution of projects and programs by the Gulf Coast State.
+
+(aa) the Comprehensive Plan every 5 years in a manner comparable to the manner established in this subparagraph for each 5-year period for which amounts are expected to be made available to the Gulf Coast States from the Trust Fund; and
+
+(bb) the 3-year list of projects and programs described in subclause (IV)(dd) annually.
+
+(aa) Grants to nongovernmental entities In the case of funds transferred to a Federal or State agency under subclause (II), the agency shall not make 1 or more grants or cooperative agreements to a nongovernmental entity if the total amount provided to the entity would equal or exceed 10 percent of the total amount provided to the agency for that particular project or program, unless the 1 or more grants have been reported in accordance with item (bb).
+
+(bb) Reporting of grantees At least 30 days prior to making a grant or entering into a cooperative agreement described in item (aa), the name of each grantee, including the amount and purpose of each grant or cooperative agreement, shall be published in the Federal Register and delivered to the congressional committees listed in subparagraph (C)(vii)(VII)(ff).
+
+(cc) Annual reporting of grantees Annually, the name of each grantee, including the amount and purposes of each grant or cooperative agreement, shall be published in the Federal Register and delivered to Congress as part of the report submitted pursuant to subparagraph (C)(vii)(VII).
+
+(aa) ecosystem restoration needs in the State will be addressed by the projects in the proposed plan; and
+
+(bb) additional investment in infrastructure is required to mitigate the impacts of the Deepwater Horizon Oil Spill to the ecosystem or economy.
+
+In General
+
+Requirements.—
+
+Source of funds
+
+Uncompensated removal
+
+Limitation
+
+Applicability of Exemptions
+
+Deadline
+
+Consultation
+
+Congressional report
+
+In General
+
+Policy
+
+Periodic Updates
+
+Report.—
+
+In general
+
+Public availability
+
+In general
+
+Post-approval requirements
+
+Vessel Response Plan Contents
+
+Definitions
+
+Mobile offshore drilling unit
+
+Response plan
+
+Worst case discharge
+
+Rule of Construction
+
+Establishment
+
+Transfers
+
+Expenditures
+
+Investment
+
+Administration
+
+Sunset
+
+Definitions
+
+Administrator
+
+Commission
+
+Director
+
+Program
+
+Establishment of Program.—
+
+In general
+
+Expenditure of funds
+
+Cooperation with the commission
+
+Consultation
+
+Species Included
+
+Research Priorities
+
+Duplication
+
+Coordination With Other Programs
+
+Limitation on Expenditures.—
+
+In general
+
+NOAA
+
+Funding
+
+Sunset
+
+In General
+
+Approval by State Entity, Task Force, or Agency
+
+Grants.—
+
+In general
+
+Application
+
+Priority
+
+Reporting.—
+
+In general
+
+Inclusion
+
+Disciplines
+
+Definition of Deepwater Horizon Oil Spill
+
+Effect and Application
+
+Use of Funds
+
+Willing Seller
+
+Acquisition of Federal Land
+
+Status Report.—
+
+In general
+
+Information required
+
+Final Rules
+
+Report to Congress
+
+Definitions
+
+Area committees and contingency plans
+
+National response unit
+
+Coast guard district response groups
+
+Tank vessel and facility response plans; transition provision; effective date of prohibition
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title III, § 311, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 862](https://www.govinfo.gov/link/statute/86/862); amended [Pub. L. 93–207, § 1(4)](https://www.govinfo.gov/link/plaw/93/public/207), Dec. 28, 1973, [87 Stat. 906](https://www.govinfo.gov/link/statute/87/906); [Pub. L. 95–217](https://www.govinfo.gov/link/plaw/95/public/217), §§ 57, 58(a)–(g), (i), (k)–(m), Dec. 27, 1977, [91 Stat. 1593–1596](https://www.govinfo.gov/link/statute/91/1593); [Pub. L. 95–576, § 1(b)](https://www.govinfo.gov/link/plaw/95/public/576), Nov. 2, 1978, [92 Stat. 2467](https://www.govinfo.gov/link/statute/92/2467); [Pub. L. 96–478, § 13(b)](https://www.govinfo.gov/link/plaw/96/public/478), Oct. 21, 1980, [94 Stat. 2303](https://www.govinfo.gov/link/statute/94/2303); [Pub. L. 96–483, § 8](https://www.govinfo.gov/link/plaw/96/public/483), Oct. 21, 1980, [94 Stat. 2362](https://www.govinfo.gov/link/statute/94/2362); [Pub. L. 96–561, title II, § 238(b)](https://www.govinfo.gov/link/plaw/96/public/561), Dec. 22, 1980, [94 Stat. 3300](https://www.govinfo.gov/link/statute/94/3300); [Pub. L. 97–164, title I, § 161(5)](https://www.govinfo.gov/link/plaw/97/public/164), Apr. 2, 1982, [96 Stat. 49](https://www.govinfo.gov/link/statute/96/49); [Pub. L. 100–4, title V, § 502(b)](https://www.govinfo.gov/link/plaw/100/public/4), Feb. 4, 1987, [101 Stat. 75](https://www.govinfo.gov/link/statute/101/75); [Pub. L. 101–380, title II, § 2002(b)](https://www.govinfo.gov/link/plaw/101/public/380), title IV, §§ 4201(a), (b), (b)[(c)], 4202(a), (c), 4204, 4301(a), (b), 4305, 4306, Aug. 18, 1990, [104 Stat. 507](https://www.govinfo.gov/link/statute/104/507), 523–527, 532, 533, 540, 541; [Pub. L. 102–388, title III, § 349](https://www.govinfo.gov/link/plaw/102/public/388), Oct. 6, 1992, [106 Stat. 1554](https://www.govinfo.gov/link/statute/106/1554); [Pub. L. 102–572, title IX, § 902(b)(1)](https://www.govinfo.gov/link/plaw/102/public/572), Oct. 29, 1992, [106 Stat. 4516](https://www.govinfo.gov/link/statute/106/4516); [Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009](https://www.govinfo.gov/link/statute/110/3009), 3009–41; [Pub. L. 104–324, title XI](https://www.govinfo.gov/link/plaw/104/public/324), §§ 1143, 1144, Oct. 19, 1996, [110 Stat. 3992](https://www.govinfo.gov/link/statute/110/3992); [Pub. L. 105–383, title IV, § 411](https://www.govinfo.gov/link/plaw/105/public/383), Nov. 13, 1998, [112 Stat. 3432](https://www.govinfo.gov/link/statute/112/3432); [Pub. L. 108–293, title VII, § 701(a)](https://www.govinfo.gov/link/plaw/108/public/293), (b), (d), Aug. 9, 2004, [118 Stat. 1067](https://www.govinfo.gov/link/statute/118/1067), 1068; [Pub. L. 109–241, title VI, § 608](https://www.govinfo.gov/link/plaw/109/public/241), title IX, § 901(i), July 11, 2006, [120 Stat. 558](https://www.govinfo.gov/link/statute/120/558), 564; [Pub. L. 112–90, § 10](https://www.govinfo.gov/link/plaw/112/public/90), Jan. 3, 2012, [125 Stat. 1912](https://www.govinfo.gov/link/statute/125/1912); [Pub. L. 112–141, div. A, title I, § 1603](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 589](https://www.govinfo.gov/link/statute/126/589); [Pub. L. 113–281, title III, § 313](https://www.govinfo.gov/link/plaw/113/public/281), Dec. 18, 2014, [128 Stat. 3048](https://www.govinfo.gov/link/statute/128/3048); [Pub. L. 115–91, div. C, title XXXV, § 3508(b)(2)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1916](https://www.govinfo.gov/link/statute/131/1916); [Pub. L. 115–232, div. C, title XXXV, § 3541(b)(5)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2323](https://www.govinfo.gov/link/statute/132/2323); [Pub. L. 117–263, div. K, title CXIII](https://www.govinfo.gov/link/plaw/117/public/263), §§ 11306, 11309(b)(1), Dec. 23, 2022, [136 Stat. 4078](https://www.govinfo.gov/link/statute/136/4078), 4081; [Pub. L. 117–286, § 4(a)(201)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4328](https://www.govinfo.gov/link/statute/136/4328); [Pub. L. 119–60, div. G, title LXXII, § 7201(i)(4)](https://www.govinfo.gov/link/plaw/119/public/60), title LXXIII, § 7301(k)(2)(C), title LXXIV, § 7401(a), Dec. 18, 2025, [139 Stat. 1686](https://www.govinfo.gov/link/statute/139/1686), 1759, 1783.)*

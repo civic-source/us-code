@@ -3,9 +3,10 @@ title: "Section 8158 - Deposit in escrow"
 usc_title: 38
 usc_section: "8158"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 8158"
-generated_at: "2026-03-30T02:55:53.539Z"
+generated_at: "2026-11-23T20:27:02.083Z"
+status: "active"
 ---
 
 # § 8158. Deposit in escrow
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:53.539Z"
 - **(c)**
   - **(1)** If the Secretary enters into an escrow agreement under this section, the Secretary may enter into an agreement to procure medical equipment if one-half the purchase price of the equipment is available in an appropriation or fund for the expenditure or obligation.
   - **(2)** Funds held in an escrow account under this section shall not be considered to be public funds.
+
+## Source Credit
+
+*(Added [Pub. L. 102–405, title I, § 103(a)(1)](https://www.govinfo.gov/link/plaw/102/public/405), Oct. 9, 1992, [106 Stat. 1974](https://www.govinfo.gov/link/statute/106/1974).)*

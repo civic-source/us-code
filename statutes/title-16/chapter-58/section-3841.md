@@ -3,9 +3,10 @@ title: "Section 3841 - Commodity Credit Corporation"
 usc_title: 16
 usc_section: "3841"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3841"
-generated_at: "2026-03-30T02:54:23.032Z"
+generated_at: "2026-11-23T20:26:20.708Z"
+status: "active"
 ---
 
 # § 3841. Commodity Credit Corporation
@@ -139,3 +140,15 @@ generated_at: "2026-03-30T02:54:23.032Z"
   - **(2)** The Administrator of the Farm Service Agency shall ensure that—
     - **(A)** technical standards of programs administered by the Farm Service Agency are consistent with the technical standards established by the Natural Resources Conservation Service under paragraph (1); and
     - **(B)** payment rates, to the extent practicable, are consistent between the Farm Service Agency and the Natural Resources Conservation Service.
+
+Priority funding to promote equity
+
+Specific funding allocations
+
+February 20, 2003 , through september 30, 2003
+
+Subsequent fiscal years
+
+## Source Credit
+
+*([Pub. L. 99–198, title XII, § 1241](https://www.govinfo.gov/link/plaw/99/public/198), as added [Pub. L. 107–171, title II, § 2701](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 278](https://www.govinfo.gov/link/statute/116/278); amended [Pub. L. 108–7, div. N, title II](https://www.govinfo.gov/link/plaw/108/public/7), §§ 213, 216(c), Feb. 20, 2003, [117 Stat. 545](https://www.govinfo.gov/link/statute/117/545), 546; [Pub. L. 108–11, title II, § 2106(a)](https://www.govinfo.gov/link/plaw/108/public/11), Apr. 16, 2003, [117 Stat. 590](https://www.govinfo.gov/link/statute/117/590); [Pub. L. 108–199, div. H, § 101](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 434](https://www.govinfo.gov/link/statute/118/434); [Pub. L. 108–324, div. B, § 101(e)](https://www.govinfo.gov/link/plaw/108/public/324), Oct. 13, 2004, [118 Stat. 1235](https://www.govinfo.gov/link/statute/118/1235); [Pub. L. 108–498, § 1(a)](https://www.govinfo.gov/link/plaw/108/public/498), Dec. 23, 2004, [118 Stat. 4020](https://www.govinfo.gov/link/statute/118/4020); [Pub. L. 109–171, title I](https://www.govinfo.gov/link/plaw/109/public/171), §§ 1202(b), 1203(c), Feb. 8, 2006, [120 Stat. 5](https://www.govinfo.gov/link/statute/120/5), 6; [Pub. L. 110–234, title II](https://www.govinfo.gov/link/plaw/110/public/234), §§ 2701–2705, May 22, 2008, [122 Stat. 1071–1074](https://www.govinfo.gov/link/statute/122/1071); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title II, §§ 2701–2705, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1799–1802; [Pub. L. 112–55, div. A, title VII, § 716(d)](https://www.govinfo.gov/link/plaw/112/public/55) –(f), Nov. 18, 2011, [125 Stat. 582](https://www.govinfo.gov/link/statute/125/582); [Pub. L. 113–76, div. A, title VII, § 750(b)](https://www.govinfo.gov/link/plaw/113/public/76), Jan. 17, 2014, [128 Stat. 42](https://www.govinfo.gov/link/statute/128/42); [Pub. L. 113–79, title II](https://www.govinfo.gov/link/plaw/113/public/79), §§ 2601–2605, Feb. 7, 2014, [128 Stat. 756–759](https://www.govinfo.gov/link/statute/128/756); [Pub. L. 115–123, div. F, § 60102(b)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 312](https://www.govinfo.gov/link/statute/132/312); [Pub. L. 115–334, title II, § 2501](https://www.govinfo.gov/link/plaw/115/public/334), title XII, § 12306(g), Dec. 20, 2018, [132 Stat. 4576](https://www.govinfo.gov/link/statute/132/4576), 4970; [Pub. L. 117–169, title II, § 21001(c)(5)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 2017](https://www.govinfo.gov/link/statute/136/2017); [Pub. L. 117–328, div. HH, title I, § 202](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5982](https://www.govinfo.gov/link/statute/136/5982); [Pub. L. 119–21, title I, § 10601(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 107](https://www.govinfo.gov/link/statute/139/107).)*

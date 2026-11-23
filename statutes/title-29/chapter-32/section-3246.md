@@ -3,9 +3,10 @@ title: "Section 3246 - Administrative adjudication"
 usc_title: 29
 usc_section: "3246"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3246"
-generated_at: "2026-03-30T02:55:18.760Z"
+generated_at: "2026-11-23T20:26:38.132Z"
+status: "active"
 ---
 
 # § 3246. Administrative adjudication
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:18.760Z"
 - **(b)** The decision of the administrative law judge shall constitute final action by the Secretary unless, within 20 days after receipt of the decision of the administrative law judge, a party dissatisfied with the decision or any part of the decision has filed exceptions with the Secretary specifically identifying the procedure, fact, law, or policy to which exception is taken. Any exception not specifically urged during the 20-day period shall be deemed to have been waived. After the 20-day period the decision of the administrative law judge shall become the final decision of the Secretary unless the Secretary, within 30 days after such filing, notifies the parties that the case involved has been accepted for review.
 - **(c)** Any case accepted for review by the Secretary under subsection (b) shall be decided within 180 days after such acceptance. If the case is not decided within the 180-day period, the decision of the administrative law judge shall become the final decision of the Secretary at the end of the 180-day period.
 - **(d)** The provisions of section 3247 of this title shall apply to any final action of the Secretary under this section.
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 186](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1596](https://www.govinfo.gov/link/statute/128/1596).)*

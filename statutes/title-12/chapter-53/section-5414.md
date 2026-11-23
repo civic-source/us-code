@@ -3,9 +3,10 @@ title: "Section 5414 - Savings provisions"
 usc_title: 12
 usc_section: "5414"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5414"
-generated_at: "2026-03-30T02:53:53.537Z"
+generated_at: "2026-11-23T20:25:59.498Z"
+status: "active"
 ---
 
 # § 5414. Savings provisions
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:53:53.537Z"
 - **(d)**
   - **(1)** Any proposed regulation of the Office of Thrift Supervision, which the Office of Thrift Supervision in performing functions transferred by this title, 1 has proposed before the transfer date but has not published as a final regulation before such date, shall be deemed to be a proposed regulation of the Office of the Comptroller of the Currency or the Board of Governors, as appropriate, according to the terms of the proposed regulation.
   - **(2)** Any interim or final regulation of the Office of Thrift Supervision, which the Office of Thrift Supervision, in performing functions transferred by this title, 1 has published before the transfer date but which has not become effective before that date, shall become effective as a regulation of the Office of the Comptroller of the Currency or the Board of Governors, as appropriate, according to the terms of the interim or final regulation, unless modified, terminated, set aside, or superseded in accordance with applicable law by the Office of the Comptroller of the Currency or the Board of Governors, as appropriate, by any court of competent jurisdiction, or by operation of law.
+
+## Source Credit
+
+*([Pub. L. 111–203, title III, § 316](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1524](https://www.govinfo.gov/link/statute/124/1524).)*

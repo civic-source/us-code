@@ -3,9 +3,10 @@ title: "Section 10310 - Enforcement proceedings"
 usc_title: 52
 usc_section: "10310"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "52 U.S.C. § 10310"
-generated_at: "2026-03-30T02:56:30.161Z"
+generated_at: "2026-11-23T20:27:36.956Z"
+status: "active"
 ---
 
 # § 10310. Enforcement proceedings
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:30.161Z"
   - **(3)** The term “language minorities” or “language minority group” means persons who are American Indian, Asian American, Alaskan Natives or of Spanish heritage.
 - **(d)** In any action for a declaratory judgment brought pursuant to section 10303 or 10304 of this title, subpenas for witnesses who are required to attend the District Court for the District of Columbia may be served in any judicial district of the United States: Provided , That no writ of subpena shall issue for witnesses without the District of Columbia at a greater distance than one hundred miles from the place of holding court without the permission of the District Court for the District of Columbia being first had upon proper application and cause shown.
 - **(e)** In any action or proceeding to enforce the voting guarantees of the fourteenth or fifteenth amendment, the court, in its discretion, may allow the prevailing party, other than the United States, a reasonable attorney’s fee, reasonable expert fees, and other reasonable litigation expenses as part of the costs.
+
+## Source Credit
+
+*([Pub. L. 89–110, title I, § 14](https://www.govinfo.gov/link/plaw/89/public/110), Aug. 6, 1965, [79 Stat. 445](https://www.govinfo.gov/link/statute/79/445); renumbered title I, [Pub. L. 91–285, § 2](https://www.govinfo.gov/link/plaw/91/public/285), June 22, 1970, [84 Stat. 314](https://www.govinfo.gov/link/statute/84/314); amended [Pub. L. 94–73, title II, § 207](https://www.govinfo.gov/link/plaw/94/public/73), title IV, § 402, Aug. 6, 1975, [89 Stat. 402](https://www.govinfo.gov/link/statute/89/402), 404; [Pub. L. 109–246](https://www.govinfo.gov/link/plaw/109/public/246), §§ 3(e)(3), 6, July 27, 2006, [120 Stat. 580](https://www.govinfo.gov/link/statute/120/580), 581.)*

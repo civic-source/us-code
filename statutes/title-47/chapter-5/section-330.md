@@ -3,9 +3,10 @@ title: "Section 330 - Prohibition against shipment of certain television receive
 usc_title: 47
 usc_section: "330"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 330"
-generated_at: "2026-03-30T02:56:24.509Z"
+generated_at: "2026-11-23T20:27:28.884Z"
+status: "active"
 ---
 
 # § 330. Prohibition against shipment of certain television receivers
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:24.509Z"
 - **(d)** For the purposes of this section, and sections 303(s), 303(u), and 303(x) of this title—
   - **(1)** The term “interstate commerce” means (A) commerce between any State, the District of Columbia, the Commonwealth of Puerto Rico, or any possession of the United States and any place outside thereof which is within the United States, (B) commerce between points in the same State, the District of Columbia, the Commonwealth of Puerto Rico, or possession of the United States but through any place outside thereof, or (C) commerce wholly within the District of Columbia or any possession of the United States.
   - **(2)** The term “United States” means the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the possessions of the United States, but does not include the Canal Zone.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title III, § 330, as added [Pub. L. 87–529, § 2](https://www.govinfo.gov/link/plaw/87/public/529), July 10, 1962, [76 Stat. 151](https://www.govinfo.gov/link/statute/76/151); amended [Pub. L. 101–431, § 4](https://www.govinfo.gov/link/plaw/101/public/431), Oct. 15, 1990, [104 Stat. 961](https://www.govinfo.gov/link/statute/104/961); [Pub. L. 104–104, title V, § 551(d)](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 141](https://www.govinfo.gov/link/statute/110/141); [Pub. L. 111–260, title II, § 203(c)](https://www.govinfo.gov/link/plaw/111/public/260), Oct. 8, 2010, [124 Stat. 2773](https://www.govinfo.gov/link/statute/124/2773).)*

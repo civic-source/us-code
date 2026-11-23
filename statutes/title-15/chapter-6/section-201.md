@@ -3,12 +3,17 @@ title: "Section 201 - Sets of standard weights and measures for agricultural col
 usc_title: 15
 usc_section: "201"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 201"
-generated_at: "2026-03-30T02:54:08.075Z"
+generated_at: "2026-11-23T20:26:03.657Z"
+status: "active"
 ---
 
 # § 201. Sets of standard weights and measures for agricultural colleges
 
 The Secretary of Commerce is directed to cause a complete set of all the weights and measures adopted as standards to be delivered to the governor of each State in the Union for the use of agricultural colleges in the States, respectively, which have received a grant of lands from the United States, and also one set of the same for the use of the Smithsonian Institution: Provided , That the cost of each set shall not exceed $200.
 
+
+## Source Credit
+
+*(Mar. 3, 1881, No. 26, [21 Stat. 521](https://www.govinfo.gov/link/statute/21/521); Feb. 14, 1903, ch. 552, §§ 4, 10, [32 Stat. 826](https://www.govinfo.gov/link/statute/32/826), 829; Mar. 4, 1913, ch. 141, § 1, [37 Stat. 736](https://www.govinfo.gov/link/statute/37/736).)*

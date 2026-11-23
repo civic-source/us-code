@@ -3,9 +3,10 @@ title: "Section 2128 - Loans, commitments, and technical and financial assistanc
 usc_title: 12
 usc_section: "2128"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 2128"
-generated_at: "2026-03-30T02:53:53.472Z"
+generated_at: "2026-11-23T20:25:59.235Z"
+status: "active"
 ---
 
 # § 2128. Loans, commitments, and technical and financial assistance
@@ -33,3 +34,9 @@ generated_at: "2026-03-30T02:53:53.472Z"
 - **(f)** The banks for cooperatives may, for the purpose of installing, maintaining, expanding, improving, or operating water and waste disposal facilities in rural areas, make and participate in loans and commitments and extending other technical and financial assistance to—
   - **(1)** cooperatives formed specifically for the purpose of establishing or operating such facilities; and
   - **(2)** public and quasi-public agencies and bodies, and other public and private entities that, under authority of State or local law, establish or operate such facilities.
+
+Definition of agricultural supply
+
+## Source Credit
+
+*([Pub. L. 92–181, title III, § 3](https://www.govinfo.gov/link/plaw/92/public/181).7, Dec. 10, 1971, [85 Stat. 605](https://www.govinfo.gov/link/statute/85/605); [Pub. L. 96–592, title III, § 304](https://www.govinfo.gov/link/plaw/96/public/592), Dec. 24, 1980, [94 Stat. 3444](https://www.govinfo.gov/link/statute/94/3444); [Pub. L. 101–624, title XXIII, § 2323(a)](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 4013](https://www.govinfo.gov/link/statute/104/4013); [Pub. L. 102–237, title V, § 502(e)(1)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1868](https://www.govinfo.gov/link/statute/105/1868); [Pub. L. 102–552, title V](https://www.govinfo.gov/link/plaw/102/public/552), §§ 504, 505, Oct. 28, 1992, [106 Stat. 4131](https://www.govinfo.gov/link/statute/106/4131); [Pub. L. 103–376, § 3](https://www.govinfo.gov/link/plaw/103/public/376), Oct. 19, 1994, [108 Stat. 3497](https://www.govinfo.gov/link/statute/108/3497); [Pub. L. 107–171, title V, § 5402](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 350](https://www.govinfo.gov/link/statute/116/350); [Pub. L. 115–334, title V, § 5411(7)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4679](https://www.govinfo.gov/link/statute/132/4679).)*

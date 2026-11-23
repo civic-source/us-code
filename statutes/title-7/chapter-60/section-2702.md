@@ -3,9 +3,10 @@ title: "Section 2702 - Definitions"
 usc_title: 7
 usc_section: "2702"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2702"
-generated_at: "2026-03-30T02:53:42.390Z"
+generated_at: "2026-11-23T20:25:41.545Z"
+status: "active"
 ---
 
 # § 2702. Definitions
@@ -32,3 +33,7 @@ As used in this chapter—
 - **(r)** The term “started pullet” means a hen less than twenty weeks of age.
 - **(s)** The term “started pullet dealer” means any person engaged in the sale of started pullets.
 - **(t)** The term “handler” means any person, specified in the order or the rules and regulations issued thereunder, who receives or otherwise acquires eggs from an egg producer, and processes, prepares for marketing, or markets, such eggs, including eggs of his own production.
+
+## Source Credit
+
+*([Pub. L. 93–428, § 3](https://www.govinfo.gov/link/plaw/93/public/428), Oct. 1, 1974, [88 Stat. 1172](https://www.govinfo.gov/link/statute/88/1172).)*

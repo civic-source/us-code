@@ -3,9 +3,10 @@ title: "Section 412 - Minimum funding standards"
 usc_title: 26
 usc_section: "412"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 412"
-generated_at: "2026-03-30T02:55:27.684Z"
+generated_at: "2026-11-23T20:26:45.668Z"
+status: "active"
 ---
 
 # § 412. Minimum funding standards
@@ -94,3 +95,73 @@ generated_at: "2026-03-30T02:55:27.684Z"
     - **(E)** no rights under such contracts have been subject to a security interest at any time during the plan year, and
     - **(F)** no policy loans are outstanding at any time during the plan year.
   - **(4)** This section applies with respect to a terminated multiemployer plan to which section 4021 of the Employee Retirement Income Security Act of 1974 applies until the last day of the plan year in which the plan terminates (within the meaning of section 4041A(a)(2) of such Act).
+
+Interest rates used
+
+In general
+
+Special rule for certain notices
+
+Special rule for certain restored benefits
+
+In general
+
+Certain changes cease to be effective
+
+In general
+
+Regulations
+
+In general
+
+Subsections
+
+and
+
+Special rule for steel companies.—
+
+In general
+
+Required percentage
+
+Special rules for contingent events
+
+Amortization amount
+
+Benefit and contributions not taken into account
+
+Steel employee plan
+
+Other definitions
+
+Steel company
+
+Other definitions
+
+Special rule
+
+In general
+
+Special rule for application requirement.—
+
+In general
+
+Transitional rule for years beginning in 1988
+
+Subsection
+
+Subsection
+
+Funding Rules Not To Apply to Certain Plans
+
+Change in Actuarial Method
+
+“The unamortized balance (as of the close of the plan year preceding the plan’s first year beginning in 1999) of any amortization base established under [former] section 412(c)(7)(D)(iii) of such Code [ 26 U.S.C. 412(c)(7)(D)(iii) ] and section 302(c)(7)(D)(iii) of such Act [ 29 U.S.C. 1082(c)(7)(D)(iii) ] (as repealed by subsection (c)(3)) for any plan year beginning before 1999 shall be amortized in equal annual installments (until fully amortized) over a period of years equal to the excess of—
+
+General rule
+
+Limitation
+
+## Source Credit
+
+*(Added [Pub. L. 93–406, title II, § 1013(a)](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 914](https://www.govinfo.gov/link/statute/88/914); amended [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1901(a)(63), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1775](https://www.govinfo.gov/link/statute/90/1775), 1834; [Pub. L. 96–364, title II](https://www.govinfo.gov/link/plaw/96/public/364), §§ 203, 208(c), Sept. 26, 1980, [94 Stat. 1285](https://www.govinfo.gov/link/statute/94/1285), 1289; [Pub. L. 98–369, div. A, title IV, § 491(d)(25)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 850](https://www.govinfo.gov/link/statute/98/850); [Pub. L. 99–272, title XI](https://www.govinfo.gov/link/plaw/99/public/272), §§ 11015(a)(2), (b)(2), 11016(c)(4), Apr. 7, 1986, [100 Stat. 265](https://www.govinfo.gov/link/statute/100/265), 267, 273; [Pub. L. 100–203, title IX](https://www.govinfo.gov/link/plaw/100/public/203), §§ 9301(a), 9303(a), (d)(1), 9304(a)(1), (b)(1), (e)(1), 9305(b)(1), 9306(a)(1), (b)(1), (c)(1), (d)(1), (e)(1), 9307(a)(1), (b)(1), (e)(1), Dec. 22, 1987, [101 Stat. 1330–331](https://www.govinfo.gov/link/statute/101/1330), 1330–333, 1330–342 to 1330–344, 1330–348, 1330–351, 1330–352, 1330–354 to 1330–357; [Pub. L. 100–647, title II, § 2005(a)(2)(A)](https://www.govinfo.gov/link/plaw/100/public/647), (d)(1), Nov. 10, 1988, [102 Stat. 3610](https://www.govinfo.gov/link/statute/102/3610), 3612; [Pub. L. 101–239, title VII, § 7881(a)(1)(A)](https://www.govinfo.gov/link/plaw/101/public/239), (2)(A), (3)(A), (4)(A), (5)(A), (6)(A), (b)(1)(A), (2)(A), (3)(A), (4)(A), (6)(A), (c)(1), (d)(1)(A), Dec. 19, 1989, [103 Stat. 2435–2439](https://www.govinfo.gov/link/statute/103/2435); [Pub. L. 103–465, title VII](https://www.govinfo.gov/link/plaw/103/public/465), §§ 751(a)(1)–(9)(A), (10), 752(a), 753(a), 754(a), 768(a), Dec. 8, 1994, [108 Stat. 5012–5019](https://www.govinfo.gov/link/statute/108/5012), 5021–5023, 5040; [Pub. L. 105–34, title XV, § 1521(a)](https://www.govinfo.gov/link/plaw/105/public/34), (c)(1), (3)(A), title XVI, § 1604(b)(2)(A), Aug. 5, 1997, [111 Stat. 1069](https://www.govinfo.gov/link/statute/111/1069), 1070, 1097; [Pub. L. 107–16, title VI](https://www.govinfo.gov/link/plaw/107/public/16), §§ 651(a), 661(a), June 7, 2001, [115 Stat. 129](https://www.govinfo.gov/link/statute/115/129), 141; [Pub. L. 107–147, title IV](https://www.govinfo.gov/link/plaw/107/public/147), §§ 405(a), 411(v)(1), Mar. 9, 2002, [116 Stat. 42](https://www.govinfo.gov/link/statute/116/42), 52; [Pub. L. 108–218, title I](https://www.govinfo.gov/link/plaw/108/public/218), §§ 101(b)(1)–(3), 102(b), 104(b), Apr. 10, 2004, [118 Stat. 597](https://www.govinfo.gov/link/statute/118/597), 598, 601, 606; [Pub. L. 109–135, title IV, § 412(x)(1)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2638](https://www.govinfo.gov/link/statute/119/2638); [Pub. L. 109–280, title I, § 111(a)](https://www.govinfo.gov/link/plaw/109/public/280), title II, § 212(c), title III, § 301(b), Aug. 17, 2006, [120 Stat. 820](https://www.govinfo.gov/link/statute/120/820), 917, 919; [Pub. L. 110–458, title I](https://www.govinfo.gov/link/plaw/110/public/458), §§ 101(a)(2), 102(b)(2)(H), Dec. 23, 2008, [122 Stat. 5093](https://www.govinfo.gov/link/statute/122/5093), 5103; [Pub. L. 113–97, title II, § 202(c)(1)](https://www.govinfo.gov/link/plaw/113/public/97), (2), Apr. 7, 2014, [128 Stat. 1135](https://www.govinfo.gov/link/statute/128/1135); [Pub. L. 115–141, div. U, title IV, § 401(a)(83)](https://www.govinfo.gov/link/plaw/115/public/141) –(85), Mar. 23, 2018, [132 Stat. 1188](https://www.govinfo.gov/link/statute/132/1188).)*

@@ -3,9 +3,10 @@ title: "Section 1753 - Disposition of articles entered for fairs"
 usc_title: 19
 usc_section: "1753"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1753"
-generated_at: "2026-03-30T02:54:24.660Z"
+generated_at: "2026-11-23T20:26:10.884Z"
+status: "active"
 ---
 
 # § 1753. Disposition of articles entered for fairs
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:24.660Z"
   - **(4)** abandoned to the Government.
 - **(c)** If any article entered under section 1752 of this title is still in customs custody, under such entry, at the expiration of 3 months after the closing date of the fair for which it was entered, such article shall thereupon be regarded as an article abandoned to the Government and shall be subject to sale or destruction of the article and disposition of the proceeds of sale in the manner provided for in sections 1491, 1492, and 1493 of this title. For purposes of this subsection, any duties or internal-revenue taxes on the article shall be computed on the basis of its condition and quantity at the time it becomes subject to sale.
 - **(d)** Whenever any article entered under section 1752 of this title is transferred pursuant to subsection (b)(2) or entered under subsection (a), the period prescribed for the performance of any act required by the provision governing the status to which the article is transferred, or under which the article is entered, shall run from the date of such transfer or entry.
+
+## Source Credit
+
+*([Pub. L. 86–14, § 4](https://www.govinfo.gov/link/plaw/86/public/14), Apr. 22, 1959, [73 Stat. 18](https://www.govinfo.gov/link/statute/73/18).)*

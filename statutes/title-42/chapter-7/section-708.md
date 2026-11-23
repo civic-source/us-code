@@ -3,9 +3,10 @@ title: "Section 708 - Nondiscrimination provisions"
 usc_title: 42
 usc_section: "708"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 708"
-generated_at: "2026-03-30T02:56:10.893Z"
+generated_at: "2026-11-23T20:27:20.938Z"
+status: "active"
 ---
 
 # § 708. Nondiscrimination provisions
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:10.893Z"
   - **(2)** exercise the powers and functions provided by title VI of the Civil Rights Act of 1964 [ 42 U.S.C. 2000d et seq.], the Age Discrimination Act of 1975 [ 42 U.S.C. 6101 et seq.], or section 504 of the Rehabilitation Act of 1973 [ 29 U.S.C. 794 ], as may be applicable, or
   - **(3)** take such other action as may be provided by law.
 - **(c)** When a matter is referred to the Attorney General pursuant to subsection (b)(1), or whenever he has reason to believe that the entity is engaged in a pattern or practice in violation of a provision of law referred to in subsection (a)(1) or in violation of subsection (a)(2), the Attorney General may bring a civil action in any appropriate district court of the United States for such relief as may be appropriate, including injunctive relief.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title V, § 508, as added [Pub. L. 97–35, title XXI, § 2192(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 825](https://www.govinfo.gov/link/statute/95/825); amended [Pub. L. 101–239, title VI, § 6502(b)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2276](https://www.govinfo.gov/link/statute/103/2276).)*

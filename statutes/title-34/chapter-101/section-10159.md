@@ -3,9 +3,10 @@ title: "Section 10159 - Law enforcement training programs"
 usc_title: 34
 usc_section: "10159"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10159"
-generated_at: "2026-03-30T02:55:33.261Z"
+generated_at: "2026-11-23T20:26:50.436Z"
+status: "active"
 ---
 
 # § 10159. Law enforcement training programs
@@ -105,3 +106,11 @@ generated_at: "2026-03-30T02:55:33.261Z"
 - **(h)** There is authorized to be appropriated to carry out this section—
   - **(1)** $40,000,000 for fiscal year 2025; and
   - **(2)** $50,000,000 for fiscal year 2026.
+
+(aa) the cost of collecting and reporting the information; and
+
+(bb) the value of that information for determining whether— (AA) the objectives of the training have been met; and (BB) the training reduced or eliminated the risk of serious physical injury to officers, subjects, and third parties; and
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 508](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 117–325, § 2(c)(2)](https://www.govinfo.gov/link/plaw/117/public/325), Dec. 27, 2022, [136 Stat. 4444](https://www.govinfo.gov/link/statute/136/4444).)*

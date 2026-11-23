@@ -3,9 +3,10 @@ title: "Section 4103 - Definitions"
 usc_title: 25
 usc_section: "4103"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 4103"
-generated_at: "2026-03-30T02:54:52.858Z"
+generated_at: "2026-11-23T20:26:25.677Z"
+status: "active"
 ---
 
 # § 4103. Definitions
@@ -83,3 +84,7 @@ For purposes of this chapter, the following definitions shall apply:
       - **(i)** by exercise of the power of self-government of one or more Indian tribes independent of State law, or
       - **(ii)** by operation of State law providing specifically for housing authorities or housing entities for Indians, including regional housing authorities in the State of Alaska,
     - **(C)** A tribally designated housing entity may be authorized or established by one or more Indian tribes to act on behalf of each such tribe authorizing or establishing the housing entity.
+
+## Source Credit
+
+*([Pub. L. 104–330, § 4](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4018](https://www.govinfo.gov/link/statute/110/4018); [Pub. L. 105–256, § 13(b)](https://www.govinfo.gov/link/plaw/105/public/256), Oct. 14, 1998, [112 Stat. 1900](https://www.govinfo.gov/link/statute/112/1900); [Pub. L. 105–276, title V, § 595(e)(1)](https://www.govinfo.gov/link/plaw/105/public/276), (2), Oct. 21, 1998, [112 Stat. 2656](https://www.govinfo.gov/link/statute/112/2656); [Pub. L. 106–402, title IV, § 401(b)(2)](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1737](https://www.govinfo.gov/link/statute/114/1737); [Pub. L. 107–292, § 3](https://www.govinfo.gov/link/plaw/107/public/292), Nov. 13, 2002, [116 Stat. 2053](https://www.govinfo.gov/link/statute/116/2053); [Pub. L. 110–411, § 3](https://www.govinfo.gov/link/plaw/110/public/411), Oct. 14, 2008, [122 Stat. 4320](https://www.govinfo.gov/link/statute/122/4320); [Pub. L. 111–269, § 2](https://www.govinfo.gov/link/plaw/111/public/269), Oct. 12, 2010, [124 Stat. 2850](https://www.govinfo.gov/link/statute/124/2850).)*

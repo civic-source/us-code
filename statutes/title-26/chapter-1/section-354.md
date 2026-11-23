@@ -3,9 +3,10 @@ title: "Section 354 - Exchanges of stock and securities in certain reorganizatio
 usc_title: 26
 usc_section: "354"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 354"
-generated_at: "2026-03-30T02:55:27.666Z"
+generated_at: "2026-11-23T20:26:45.579Z"
+status: "active"
 ---
 
 # § 354. Exchanges of stock and securities in certain reorganizations
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:27.666Z"
     - **(B)** the stock, securities, and other properties received by such transferor, as well as the other properties of such transferor, are distributed in pursuance of the plan of reorganization.
   - **(2)** For special rules for certain exchanges in pursuance of plans of reorganization within the meaning of subparagraph (D) or (G) of section 368(a)(1), see section 355.
 - **(c)** Notwithstanding any other provision of this subchapter, subsection (a)(1) (and so much of section 356 as relates to this section) shall apply with respect to a plan of reorganization (whether or not a reorganization within the meaning of section 368(a)) for a railroad confirmed under section 1173 of title 11 of the United States Code, as being in the public interest.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 112; [Pub. L. 94–253, § 1(c)](https://www.govinfo.gov/link/plaw/94/public/253), Mar. 31, 1976, [90 Stat. 296](https://www.govinfo.gov/link/statute/90/296); [Pub. L. 95–473, § 2(a)(2)(F)](https://www.govinfo.gov/link/plaw/95/public/473), Oct. 17, 1978, [92 Stat. 1465](https://www.govinfo.gov/link/statute/92/1465); [Pub. L. 96–589](https://www.govinfo.gov/link/plaw/96/public/589), §§ 4(e)(1), (h)(1), 6(i)(2), Dec. 24, 1980, [94 Stat. 3403](https://www.govinfo.gov/link/statute/94/3403), 3404, 3410; [Pub. L. 101–508, title XI, § 11801(c)(8)(D)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–524](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 104–88, title III, § 304(c)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 944](https://www.govinfo.gov/link/statute/109/944); [Pub. L. 105–34, title X, § 1014(b)](https://www.govinfo.gov/link/plaw/105/public/34), (e)(1), (2), Aug. 5, 1997, [111 Stat. 920](https://www.govinfo.gov/link/statute/111/920), 921; [Pub. L. 105–206, title VI, § 6010(e)(2)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 814](https://www.govinfo.gov/link/statute/112/814).)*

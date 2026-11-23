@@ -3,9 +3,10 @@ title: "Section 2235 - Working capital fund established; use of central services
 usc_title: 7
 usc_section: "2235"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2235"
-generated_at: "2026-03-30T02:53:42.381Z"
+generated_at: "2026-11-23T20:25:41.504Z"
+status: "active"
 ---
 
 # § 2235. Working capital fund established; use of central services by bureaus, etc., of the Department
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:42.381Z"
   - **(3)** a central supply service for the purchase, storage, handling, issuance, packing, or shipping of stationery, supplies, equipment, blank forms, and miscellaneous materials, for which stocks thereof, not to exceed $200,000 in value (except for the value of blank forms) at the close of any fiscal year, may be maintained sufficient to meet, in whole or in part, requirements of the bureaus and offices of the Department in the city of Washington and elsewhere, and
   - **(4)** such other services as the Secretary, with the approval of the Director of the Office of Management and Budget, determines may be performed more advantageously as central services; said fund to be credited with advances or reimbursements from applicable funds of bureaus, offices, and agencies for which services are performed on the basis of rates which shall include estimated or actual charges for personal services, materials, equipment (including maintenance, repairs, and depreciation) and other expenses: Provided , That such advances shall not be available for any period beyond that provided by the Act appropriating the funds: Provided further , That such central services shall, to the fullest extent practicable, be used to make unnecessary the maintenance of separate like services in the bureaus, offices, and agencies of the department.
 
+
+## Source Credit
+
+*(July 12, 1943, ch. 215, [57 Stat. 393](https://www.govinfo.gov/link/statute/57/393); [Pub. L. 89–106, § 7](https://www.govinfo.gov/link/plaw/89/public/106), Aug. 4, 1965, [79 Stat. 432](https://www.govinfo.gov/link/statute/79/432); 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, [84 Stat. 2085](https://www.govinfo.gov/link/statute/84/2085).)*

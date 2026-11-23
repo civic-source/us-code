@@ -3,9 +3,10 @@ title: "Section 2385 - Employment of personnel"
 usc_title: 22
 usc_section: "2385"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2385"
-generated_at: "2026-03-30T02:55:05.363Z"
+generated_at: "2026-11-23T20:26:32.276Z"
+status: "active"
 ---
 
 # § 2385. Employment of personnel
@@ -30,3 +31,11 @@ generated_at: "2026-03-30T02:55:05.363Z"
   - **(2)** Funds authorized to carry out such purposes may be made available for the operating expenses and administrative costs of such personnel and may remain attributed to any minimum funding requirement for which they were originally made available.
   - **(3)** The Administrator of the United States Agency for International Development shall coordinate with the Office of Personnel Management on implementation of the appointment authority under paragraph (1).
   - **(4)** Not later than one year after December 23, 2024 , and annually thereafter for 3 years, the Administrator shall submit to the appropriate congressional committees, the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Appropriations of the Senate, the Committee on Oversight and Accountability of the House of Representatives, and the Committee on Appropriations of the House of Representatives a report regarding the continued need for and utilization of the authority pursuant to this subsection.
+
+In General
+
+Employment Targets
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. III, § 625, Sept. 4, 1961, [75 Stat. 449](https://www.govinfo.gov/link/statute/75/449); [Pub. L. 87–565](https://www.govinfo.gov/link/plaw/87/public/565), pt. III, § 302(c), Aug. 1, 1962, [76 Stat. 262](https://www.govinfo.gov/link/statute/76/262); [Pub. L. 87–793](https://www.govinfo.gov/link/plaw/87/public/793), pt. II, § 1001(k), Oct. 11, 1962, [76 Stat. 865](https://www.govinfo.gov/link/statute/76/865); [Pub. L. 88–663](https://www.govinfo.gov/link/plaw/88/public/663), pt. III, § 302(a), Oct. 7, 1964, [78 Stat. 1014](https://www.govinfo.gov/link/statute/78/1014); [Pub. L. 89–171](https://www.govinfo.gov/link/plaw/89/public/171), pt. III, § 302(c), Sept. 6, 1965, [79 Stat. 660](https://www.govinfo.gov/link/statute/79/660); [Pub. L. 90–137](https://www.govinfo.gov/link/plaw/90/public/137), pt. III, § 302(b)–(d), Nov. 14, 1967, [81 Stat. 460](https://www.govinfo.gov/link/statute/81/460); [Pub. L. 90–554, title III, § 302(c)](https://www.govinfo.gov/link/plaw/90/public/554), Oct. 8, 1968, [82 Stat. 965](https://www.govinfo.gov/link/statute/82/965); [Pub. L. 93–189, § 16](https://www.govinfo.gov/link/plaw/93/public/189), Dec. 17, 1973, [87 Stat. 722](https://www.govinfo.gov/link/statute/87/722); [Pub. L. 95–88, title I, § 125](https://www.govinfo.gov/link/plaw/95/public/88), Aug. 3, 1977, [91 Stat. 542](https://www.govinfo.gov/link/statute/91/542); [Pub. L. 96–465, title II](https://www.govinfo.gov/link/plaw/96/public/465), §§ 2203(a), 2205(8), Oct. 17, 1980, [94 Stat. 2158](https://www.govinfo.gov/link/statute/94/2158), 2160; [Pub. L. 97–113, title VII, § 703](https://www.govinfo.gov/link/plaw/97/public/113), Dec. 29, 1981, [95 Stat. 1544](https://www.govinfo.gov/link/statute/95/1544); [Pub. L. 109–234, title I, § 1602(b)(2)](https://www.govinfo.gov/link/plaw/109/public/234), June 15, 2006, [120 Stat. 442](https://www.govinfo.gov/link/statute/120/442); [Pub. L. 111–32, title XI, § 1115(c)(3)](https://www.govinfo.gov/link/plaw/111/public/32), June 24, 2009, [123 Stat. 1905](https://www.govinfo.gov/link/statute/123/1905); [Pub. L. 118–159, div. G, title LXXVI, § 7602](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2552](https://www.govinfo.gov/link/statute/138/2552).)*

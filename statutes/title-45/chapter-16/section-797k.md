@@ -3,9 +3,10 @@ title: "Section 797k - Factfinding panel"
 usc_title: 45
 usc_section: "797k"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 797k"
-generated_at: "2026-03-30T02:55:56.557Z"
+generated_at: "2026-11-23T20:27:05.323Z"
+status: "active"
 ---
 
 # § 797k. Factfinding panel
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:56.557Z"
 - **(a)** The Corporation shall enter into collective bargaining agreements with its employees which provide for the establishment of one or more advisory factfinding panels, chaired by a neutral expert in industrial relations, for purposes of recommending changes in operating practices and procedures which result in greater productivity to the maximum extent practicable.
 - **(b)** The National Mediation Board shall appoint public members to any panel established by an agreement entered into under this subparagraph, and shall perform such functions contained in the agreement as are consistent with the duties of such Board under the Railway Labor Act [ 45 U.S.C. 151 et seq.].
 - **(c)** The factfinding panel may, before making its report to the parties, provide mediation, concil­iation, and other assistance to the parties.
+
+## Source Credit
+
+*([Pub. L. 93–236, title VII, § 712](https://www.govinfo.gov/link/plaw/93/public/236), as added [Pub. L. 97–35, title XI, § 1143(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 668](https://www.govinfo.gov/link/statute/95/668).)*

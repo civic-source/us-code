@@ -3,9 +3,10 @@ title: "Section 5006 - Lien on compensation of contractor"
 usc_title: 39
 usc_section: "5006"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "39 U.S.C. § 5006"
-generated_at: "2026-03-30T02:55:43.695Z"
+generated_at: "2026-11-23T20:26:57.764Z"
+status: "active"
 ---
 
 # § 5006. Lien on compensation of contractor
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:43.695Z"
   - **(2)** files his contract for service with the Postal Service; and
   - **(3)** files satisfactory evidence of performance with the Postal Service;
 - **(b)** The Postal Service may pay the person establishing a lien under subsection (a) of this section the sum due him, when the contractor or subcontractor fails to pay the person the amount of his lien within 2 months after the expiration of the month in which the service was performed. It shall charge the amount so paid to the contract. The payments may not exceed the annual rate of pay of the contractor or subcontractor.
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 767](https://www.govinfo.gov/link/statute/84/767).)*

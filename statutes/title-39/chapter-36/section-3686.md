@@ -3,9 +3,10 @@ title: "Section 3686 - Bonus authority"
 usc_title: 39
 usc_section: "3686"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "39 U.S.C. § 3686"
-generated_at: "2026-03-30T02:55:43.695Z"
+generated_at: "2026-11-23T20:26:57.761Z"
+status: "active"
 ---
 
 # § 3686. Bonus authority
@@ -23,3 +24,23 @@ generated_at: "2026-03-30T02:55:43.695Z"
   - **(2)** the amount of the bonus or other payment; and
   - **(3)** the amount by which the limitation set forth in the last sentence of section 1003(a) was exceeded as a result of such bonus or other payment.
 - **(e)** The Board of Governors may prescribe regulations for the administration of this section.
+
+In General
+
+Limitation on Total Compensation.—
+
+In general
+
+Approval process
+
+Revocation authority
+
+Exceptions for Critical Positions
+
+Information for Inclusion in Comprehensive Statement
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 109–435, title V, § 506](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3236](https://www.govinfo.gov/link/statute/120/3236).)*

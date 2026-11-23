@@ -3,9 +3,10 @@ title: "Section 777a - Wearing of insignia of higher grade before appointment to
 usc_title: 10
 usc_section: "777a"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 777a"
-generated_at: "2026-03-30T02:53:38.076Z"
+generated_at: "2026-11-23T20:25:51.053Z"
+status: "active"
 ---
 
 # § 777a. Wearing of insignia of higher grade before appointment to a grade above major general or rear admiral (frocking): authority; restrictions
@@ -24,3 +25,15 @@ generated_at: "2026-03-30T02:53:38.076Z"
     - **(A)** Seniority in that grade.
     - **(B)** Time of service in that grade.
 - **(d)** The total number of officers who are authorized to wear the insignia for a higher grade under this section shall count against the limitation in section 777(d) of this title on the total number of officers authorized to wear the insignia of a higher grade.
+
+Authority
+
+Restrictions
+
+Benefits Not to Be Construed as Accruing
+
+Limitation on Number of Officers Frocked
+
+## Source Credit
+
+*(Added [Pub. L. 111–383, div. A, title V, § 505(a)(1)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4208](https://www.govinfo.gov/link/statute/124/4208).)*

@@ -3,9 +3,10 @@ title: "Section 9009 - Office of Children’s Issues"
 usc_title: 22
 usc_section: "9009"
 chapter: 97
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9009"
-generated_at: "2026-03-30T02:55:05.460Z"
+generated_at: "2026-11-23T20:26:32.751Z"
+status: "active"
 ---
 
 # § 9009. Office of Children’s Issues
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.460Z"
   - **(2)** The requirement in paragraph (1) shall not apply in a case of an abducted child if—
     - **(A)** the case has been closed and the Secretary of State has reported the reason the case was closed to the parent who requested assistance; or
     - **(B)** the parent seeking assistance requests that such reports not be provided.
+
+## Source Credit
+
+*([Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 201]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–419).*

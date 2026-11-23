@@ -3,9 +3,10 @@ title: "Section 17085 - Tenant Star program"
 usc_title: 42
 usc_section: "17085"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17085"
-generated_at: "2026-03-30T02:56:11.495Z"
+generated_at: "2026-11-23T20:27:23.722Z"
+status: "active"
 ---
 
 # § 17085. Tenant Star program
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.495Z"
     - **(B)** establish building occupancy categories eligible for Tenant Star recognition based on the data collected under subsection (c) and any other appropriate data sources; and
     - **(C)** consider other forms of recognition for commercial building tenants or other occupants that lower energy consumption in separate spaces.
   - **(2)** After the study required by section 17084(b) of this title is completed, the Administrator of the Environmental Protection Agency, in consultation with the Secretary and following an opportunity for public notice and comment, may develop a voluntary program to recognize commercial building owners and tenants that use high-performance energy efficiency measures in the design and construction of separate spaces.
+
+## Source Credit
+
+*([Pub. L. 110–140, title IV, § 425](https://www.govinfo.gov/link/plaw/110/public/140), as added [Pub. L. 114–11, title I, § 104(a)](https://www.govinfo.gov/link/plaw/114/public/11), Apr. 30, 2015, [129 Stat. 185](https://www.govinfo.gov/link/statute/129/185).)*

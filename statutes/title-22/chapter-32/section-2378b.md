@@ -3,9 +3,10 @@ title: "Section 2378b - Limitation on assistance to the Palestinian Authority"
 usc_title: 22
 usc_section: "2378b"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2378b"
-generated_at: "2026-03-30T02:55:05.362Z"
+generated_at: "2026-11-23T20:26:32.272Z"
+status: "active"
 ---
 
 # § 2378b. Limitation on assistance to the Palestinian Authority
@@ -43,3 +44,63 @@ generated_at: "2026-03-30T02:55:05.362Z"
     - **(B)** the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
   - **(2)** The term “foreign terrorist organization” means an organization designated as a foreign terrorist organization by the Secretary of State in accordance with section 1189(a) of title 8 .
   - **(3)** The term “Palestinian Authority” means the interim Palestinian administrative organization that governs part of the West Bank and all of the Gaza Strip (or any successor Palestinian governing entity), including the Palestinian Legislative Council.
+
+Declaration of Policy
+
+Amendments
+
+Previously Obligated Funds
+
+Amendment
+
+Oversight and Related Requirements.—
+
+Oversight
+
+Vetting
+
+Prohibition
+
+Audits.—
+
+In general
+
+Audits by inspector general of usaid
+
+In General
+
+Exception
+
+In General
+
+Exception
+
+Prohibition
+
+Enforcement.—
+
+Attorney general
+
+Relief
+
+Waiver
+
+Requirement
+
+Exceptions
+
+Definition
+
+Establishment of Fund
+
+Authorization of Appropriations
+
+Appropriate congressional committees
+
+Palestinian authority
+
+George W. Bush.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. III, § 620K, as added, [Pub. L. 109–446, § 2(b)(2)](https://www.govinfo.gov/link/plaw/109/public/446), Dec. 21, 2006, [120 Stat. 3318](https://www.govinfo.gov/link/statute/120/3318).)*

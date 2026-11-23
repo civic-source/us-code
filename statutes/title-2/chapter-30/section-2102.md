@@ -3,9 +3,10 @@ title: "Section 2102 - Duties of Commission"
 usc_title: 2
 usc_section: "2102"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 2102"
-generated_at: "2026-03-30T02:53:04.824Z"
+generated_at: "2026-11-23T20:25:29.012Z"
+status: "active"
 ---
 
 # § 2102. Duties of Commission
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:04.824Z"
 - **(b)** The Commission shall prescribe such regulations as it deems necessary for the care, protection, and placement of such works of art, exhibits, and historical objects in the Senate wing of the Capitol and the Senate Office Buildings, and for their acceptance on behalf of the Senate, its committees, and officers. Such regulations shall be published in the Congressional Record at such time or times as the Commission may deem necessary for the information of the Members of the Senate and the public.
 - **(c)** Regulations authorized by the provisions of section 2183 of this title to be issued by the Sergeant at Arms of the Senate for the protection of the Capitol, and any regulations issued, or activities undertaken, by the Committee on Rules and Administration of the Senate, or the Architect of the Capitol, in carrying out duties relating to the care, preservation, and protection of the Senate wing of the Capitol and the Senate Office Buildings, shall be consistent with such rules and regulations as the Commission may issue pursuant to subsection (b) of this section.
 - **(d)** The Committee on Rules and Administration of the Senate in consultation with the Architect of the Capitol and consistent with regulations prescribed by the Commission under subsection (b) of this section, shall have responsibility for the supervision, protection, and placement of all works of art, historical objects, and exhibits which shall have been accepted on behalf of the Senate by the Commission or acknowledged as United States property by inventory of the Commission, and which may be lodged in the Senate wing of the Capitol or the Senate Office Buildings by the Commission.
+
+## Source Credit
+
+*([Pub. L. 100–696, title IX, § 901(a)](https://www.govinfo.gov/link/plaw/100/public/696), (b)(2), Nov. 18, 1988, [102 Stat. 4610](https://www.govinfo.gov/link/statute/102/4610), 4611.)*

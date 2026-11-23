@@ -3,9 +3,10 @@ title: "Section 797a - Termination allowance"
 usc_title: 45
 usc_section: "797a"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 797a"
-generated_at: "2026-03-30T02:55:56.557Z"
+generated_at: "2026-11-23T20:27:05.320Z"
+status: "active"
 ---
 
 # § 797a. Termination allowance
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:56.557Z"
   - **(4)** Notwithstanding paragraphs (1) and (2) of this subsection, the Corporation shall retain all rights it has under any provision of law or agreement to refrain from filling any position of employment.
 - **(f)** The Corporation and representatives of the various classes and crafts of employees to be separated may agree on procedures to implement this section, but the absence of such agreement shall not interfere with implementation of the separations authorized by this section.
 - **(g)** The provisions of this section shall apply to the separation of firemen in commuter service, except that with respect to such employees the Corporation is required to make the separations authorized by this section.
+
+## Source Credit
+
+*([Pub. L. 93–236, title VII, § 702](https://www.govinfo.gov/link/plaw/93/public/236), as added [Pub. L. 97–35, title XI, § 1143(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 662](https://www.govinfo.gov/link/statute/95/662).)*

@@ -3,9 +3,10 @@ title: "Section 12491 - Housing protections for victims of domestic violence, da
 usc_title: 34
 usc_section: "12491"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12491"
-generated_at: "2026-03-30T02:55:33.289Z"
+generated_at: "2026-11-23T20:26:50.553Z"
+status: "active"
 ---
 
 # § 12491. Housing protections for victims of domestic violence, dating violence, sexual assault, and stalking
@@ -94,3 +95,7 @@ generated_at: "2026-03-30T02:55:33.289Z"
   - **(2)** incorporates reasonable confidentiality measures to ensure that the public housing agency or owner or manager does not disclose the location of the dwelling unit of a tenant to a person that commits an act of domestic violence, dating violence, sexual assault, or stalking against the tenant.
 - **(f)** The Secretary of Housing and Urban Development shall establish policies and procedures under which a victim requesting an emergency transfer under subsection (e) may receive, subject to the availability of tenant protection vouchers, assistance under section 1437f( o ) of title 42.
 - **(g)** The appropriate agency with respect to each covered housing program shall implement this section, as this section applies to the covered housing program.
+
+## Source Credit
+
+*([Pub. L. 103–322, title IV, § 41411](https://www.govinfo.gov/link/plaw/103/public/322), as added [Pub. L. 113–4, title VI, § 601(a)(4)](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 102](https://www.govinfo.gov/link/statute/127/102); amended [Pub. L. 114–324, § 6](https://www.govinfo.gov/link/plaw/114/public/324), Dec. 16, 2016, [130 Stat. 1951](https://www.govinfo.gov/link/statute/130/1951); [Pub. L. 117–103, div. W, title VI, § 601](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 881](https://www.govinfo.gov/link/statute/136/881).)*

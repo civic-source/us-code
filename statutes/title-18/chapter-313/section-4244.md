@@ -3,9 +3,10 @@ title: "Section 4244 - Hospitalization of a convicted person suffering from ment
 usc_title: 18
 usc_section: "4244"
 chapter: 313
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 4244"
-generated_at: "2026-03-30T02:54:16.529Z"
+generated_at: "2026-11-23T20:26:08.791Z"
+status: "active"
 ---
 
 # § 4244. Hospitalization of a convicted person suffering from mental disease or defect
@@ -15,3 +16,17 @@ generated_at: "2026-03-30T02:54:16.529Z"
 - **(c)** The hearing shall be conducted pursuant to the provisions of section 4247(d).
 - **(d)** If, after the hearing, the court finds by a preponderance of the evidence that the defendant is presently suffering from a mental disease or defect and that he should, in lieu of being sentenced to imprisonment, be committed to a suitable facility for care or treatment, the court shall commit the defendant to the custody of the Attorney General. The Attorney General shall hospitalize the defendant for care or treatment in a suitable facility. Such a commitment constitutes a provisional sentence of imprisonment to the maximum term authorized by law for the offense for which the defendant was found guilty.
 - **(e)** When the director of the facility in which the defendant is hospitalized pursuant to subsection (d) determines that the defendant has recovered from his mental disease or defect to such an extent that he is no longer in need of custody for care or treatment in such a facility, he shall promptly file a certificate to that effect with the clerk of the court that ordered the commitment. The clerk shall send a copy of the certificate to the defendant’s counsel and to the attorney for the Government. If, at the time of the filing of the certificate, the provisional sentence imposed pursuant to subsection (d) has not expired, the court shall proceed finally to sentencing and may modify the provisional sentence.
+
+Motion To Determine Present Mental Condition of Convicted Defendant
+
+Psychiatric or Psychological Examination and Report
+
+Hearing
+
+Determination and Disposition
+
+Discharge
+
+## Source Credit
+
+*(Added Sept. 7, 1949, ch. 535, § 1, [63 Stat. 686](https://www.govinfo.gov/link/statute/63/686); amended [Pub. L. 98–473, title II, § 403(a)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2061](https://www.govinfo.gov/link/statute/98/2061).)*

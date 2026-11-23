@@ -3,9 +3,10 @@ title: "Section 1606 - Mineral security"
 usc_title: 30
 usc_section: "1606"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1606"
-generated_at: "2026-03-30T02:55:29.407Z"
+generated_at: "2026-11-23T20:26:35.053Z"
+status: "active"
 ---
 
 # § 1606. Mineral security
@@ -248,3 +249,7 @@ generated_at: "2026-03-30T02:55:29.407Z"
     - **(B)** Nothing in this section or an amendment made by this section affects the authority of the Secretary of Defense with respect to the work of the Department of Defense on critical material supplies in furtherance of the national defense mission of the Department of Defense.
     - **(C)** This section shall not apply to any mineral described in Secretarial Order No. 3324, issued by the Secretary on December 3, 2012 , in any area to which the order applies.
 - **(o)** There is authorized to be appropriated to the Secretary to carry out this section $50,000,000 for each of fiscal years 2021 through 2029.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. Z, title VII, § 7002](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2562](https://www.govinfo.gov/link/statute/134/2562); [Pub. L. 118–233, § 2](https://www.govinfo.gov/link/plaw/118/public/233), Jan. 4, 2025, [138 Stat. 2835](https://www.govinfo.gov/link/statute/138/2835).)*

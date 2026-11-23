@@ -3,9 +3,10 @@ title: "Section 2345 - Electronic submission and tracking of permit applications
 usc_title: 33
 usc_section: "2345"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2345"
-generated_at: "2026-03-30T02:55:41.127Z"
+generated_at: "2026-11-23T20:26:54.196Z"
+status: "active"
 ---
 
 # § 2345. Electronic submission and tracking of permit applications
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:55:41.127Z"
   - **(2)** The Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a quarterly update describing the status of the implementation of this section.
 - **(g)** The requirements described in subsections (c), (d), and (e) shall apply to permit applications and requests for jurisdictional determinations submitted to the Secretary after December 16, 2016 .
 - **(h)** This section shall not preclude the submission to the Secretary, acting through the Chief of Engineers, of a physical copy of a permit application or a request for a jurisdictional determination.
+
+## Source Credit
+
+*([Pub. L. 110–114, title II, § 2040](https://www.govinfo.gov/link/plaw/110/public/114), Nov. 8, 2007, [121 Stat. 1100](https://www.govinfo.gov/link/statute/121/1100); [Pub. L. 114–322, title I, § 1134(a)](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1654](https://www.govinfo.gov/link/statute/130/1654); [Pub. L. 117–263, div. H, title LXXXI, § 8226](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3764](https://www.govinfo.gov/link/statute/136/3764).)*

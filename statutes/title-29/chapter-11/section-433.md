@@ -3,9 +3,10 @@ title: "Section 433 - Report of employers"
 usc_title: 29
 usc_section: "433"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 433"
-generated_at: "2026-03-30T02:55:18.683Z"
+generated_at: "2026-11-23T20:26:37.816Z"
+status: "active"
 ---
 
 # § 433. Report of employers
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:18.683Z"
 - **(e)** Nothing contained in this section shall be construed to require any regular officer, supervisor, or employee of an employer to file a report in connection with services rendered to such employer nor shall any employer be required to file a report covering expenditures made to any regular officer, supervisor, or employee of an employer as compensation for service as a regular officer, supervisor, or employee of such employer.
 - **(f)** Nothing contained in this section shall be construed as an amendment to, or modification of the rights protected by, section 158(c) of this title .
 - **(g)** The term “interfere with, restrain, or coerce” as used in this section means interference, restraint, and coercion which, if done with respect to the exercise of rights guaranteed in section 157 of this title , would, under section 158(a) of this title , constitute an unfair labor practice.
+
+## Source Credit
+
+*([Pub. L. 86–257, title II, § 203](https://www.govinfo.gov/link/plaw/86/public/257), Sept. 14, 1959, [73 Stat. 526](https://www.govinfo.gov/link/statute/73/526).)*

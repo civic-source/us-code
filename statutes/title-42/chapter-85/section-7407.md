@@ -3,9 +3,10 @@ title: "Section 7407 - Air quality control regions"
 usc_title: 42
 usc_section: "7407"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7407"
-generated_at: "2026-03-30T02:56:11.294Z"
+generated_at: "2026-11-23T20:27:22.836Z"
+status: "active"
 ---
 
 # § 7407. Air quality control regions
@@ -67,3 +68,9 @@ generated_at: "2026-03-30T02:56:11.294Z"
   - **(1)** Except as otherwise provided in paragraph (2), the Governor of each State is authorized, with the approval of the Administrator, to redesignate from time to time the air quality control regions within such State for purposes of efficient and effective air quality management. Upon such redesignation, the list under subsection (d) shall be modified accordingly.
   - **(2)** In the case of an air quality control region in a State, or part of such region, which the Administrator finds may significantly affect air pollution concentrations in another State, the Governor of the State in which such region, or part of a region, is located may redesignate from time to time the boundaries of so much of such air quality control region as is located within such State only with the approval of the Administrator and with the consent of all Governors of all States which the Administrator determines may be significantly affected.
   - **(3)** No compliance date extension granted under section 7413(d)(5) 1 1 See References in Text note below. of this title (relating to coal conversion) shall cease to be effective by reason of the regional limitation provided in section 7413(d)(5) 1 of this title if the violation of such limitation is due solely to a redesignation of a region under this subsection.
+
+Field Study
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 107, as added [Pub. L. 91–604, § 4(a)](https://www.govinfo.gov/link/plaw/91/public/604), Dec. 31, 1970, [84 Stat. 1678](https://www.govinfo.gov/link/statute/84/1678); amended [Pub. L. 95–95, title I, § 103](https://www.govinfo.gov/link/plaw/95/public/95), Aug. 7, 1977, [91 Stat. 687](https://www.govinfo.gov/link/statute/91/687); [Pub. L. 101–549, title I, § 101(a)](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2399](https://www.govinfo.gov/link/statute/104/2399); [Pub. L. 108–199, div. G, title IV, § 425(a)](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 417](https://www.govinfo.gov/link/statute/118/417).)*

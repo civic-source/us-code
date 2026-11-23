@@ -3,9 +3,10 @@ title: "Section 53403 - Award of operating agreements"
 usc_title: 46
 usc_section: "53403"
 chapter: 534
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 53403"
-generated_at: "2026-03-30T02:56:15.574Z"
+generated_at: "2026-11-23T20:27:27.319Z"
+status: "active"
 ---
 
 # § 53403. Award of operating agreements
@@ -22,3 +23,21 @@ generated_at: "2026-03-30T02:56:15.574Z"
   - **(1)** for each of fiscal years 2022 and 2023, 10 vessels; and
   - **(2)** for any subsequent fiscal year, 20 vessels.
 - **(d)** No court shall have jurisdiction to review the Secretary’s decision with respect to the award or non-award of an operating agreement issued under this chapter.
+
+In General
+
+Procedure for Applications.—
+
+Eligible vessels
+
+Establishment of priority
+
+Concurrence of award
+
+Limitation
+
+Judicial Review
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. C, title XXXV, § 3511(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4412](https://www.govinfo.gov/link/statute/134/4412); amended [Pub. L. 117–263, div. C, title XXXV, § 3501(b)(2)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3064](https://www.govinfo.gov/link/statute/136/3064).)*

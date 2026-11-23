@@ -3,9 +3,10 @@ title: "Section 10303 - Cybersecurity recruitment and retention"
 usc_title: 22
 usc_section: "10303"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 10303"
-generated_at: "2026-03-30T02:55:05.476Z"
+generated_at: "2026-11-23T20:26:32.818Z"
+status: "active"
 ---
 
 # § 10303. Cybersecurity recruitment and retention
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:55:05.476Z"
 - **(e)** Not later than 1 year after December 23, 2022 , and annually thereafter for the following 5 years, the Secretary shall provide a list to the appropriate congressional committees that identifies—
   - **(1)** the computer programming languages included within the Recruitment Language Program and the language incentive pay rate; and
   - **(2)** the number of individuals benefitting from the inclusion of such computer programming languages in the Recruitment Language Program and language incentive pay.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. I, title XCV, § 9506](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3904](https://www.govinfo.gov/link/statute/136/3904).)*

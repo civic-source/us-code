@@ -3,9 +3,10 @@ title: "Section 9057 - Forbearance of residential mortgage loan payments for mul
 usc_title: 15
 usc_section: "9057"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 9057"
-generated_at: "2026-03-30T02:54:08.242Z"
+generated_at: "2026-11-23T20:26:04.546Z"
+status: "active"
 ---
 
 # § 9057. Forbearance of residential mortgage loan payments for multifamily properties with Federally backed loans
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:08.242Z"
   - **(5)** The term “covered period” means the period beginning on March 27, 2020 , and ending on the sooner of—
     - **(A)** the termination date of the national emergency concerning the novel coronavirus disease (COVID–19) outbreak declared by the President on March 13, 2020 under the National Emergencies Act ( 50 U.S.C. 1601 et seq.); or
     - **(B)** December 31, 2020 .
+
+## Source Credit
+
+*([Pub. L. 116–136, div. A, title IV, § 4023](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 491](https://www.govinfo.gov/link/statute/134/491).)*

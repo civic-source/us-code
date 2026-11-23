@@ -3,9 +3,10 @@ title: "Section 993 - Definitions and special rules"
 usc_title: 26
 usc_section: "993"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 993"
-generated_at: "2026-03-30T02:55:27.752Z"
+generated_at: "2026-11-23T20:26:46.003Z"
+status: "active"
 ---
 
 # § 993. Definitions and special rules
@@ -86,3 +87,11 @@ generated_at: "2026-03-30T02:55:27.752Z"
     - **(B)** the ownership of stock or securities in such foreign corporation by the domestic corporation is determined (under regulations prescribed by the Secretary) to be reasonably in furtherance of a transaction or transactions giving rise to qualified export receipts of the domestic corporation.
 - **(f)** For purposes of this part, the term “gross receipts” means the total receipts from the sale, lease, or rental of property held primarily for sale, lease, or rental in the ordinary course of trade or business, and gross income from all other sources. In the case of commissions on the sale, lease, or rental of property, the amount taken into account for purposes of this part as gross receipts shall be the gross receipts on the sale, lease, or rental of the property on which such commissions arose.
 - **(g)** For purposes of this part, the term “United States” includes the Commonwealth of Puerto Rico and the possessions of the United States.
+
+In general.—
+
+Binding contract.—
+
+## Source Credit
+
+*(Added [Pub. L. 92–178, title V, § 501](https://www.govinfo.gov/link/plaw/92/public/178), Dec. 10, 1971, [85 Stat. 538](https://www.govinfo.gov/link/statute/85/538); amended [Pub. L. 93–482, § 3(a)](https://www.govinfo.gov/link/plaw/93/public/482), Oct. 26, 1974, [88 Stat. 1456](https://www.govinfo.gov/link/statute/88/1456); [Pub. L. 94–12, title VI, § 603(a)](https://www.govinfo.gov/link/plaw/94/public/12), Mar. 29, 1975, [89 Stat. 64](https://www.govinfo.gov/link/statute/89/64); [Pub. L. 94–455, title XI, § 1101(b)](https://www.govinfo.gov/link/plaw/94/public/455), (c), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1658](https://www.govinfo.gov/link/statute/90/1658), 1834; [Pub. L. 96–39, title II, § 202(c)(2)](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 202](https://www.govinfo.gov/link/statute/93/202); [Pub. L. 96–72, § 22(c)](https://www.govinfo.gov/link/plaw/96/public/72), Sept. 29, 1979, [93 Stat. 535](https://www.govinfo.gov/link/statute/93/535); [Pub. L. 98–369, div. A, title VIII, § 802(c)(2)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 999](https://www.govinfo.gov/link/statute/98/999); [Pub. L. 103–66, title XIII, § 13239(b)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 509](https://www.govinfo.gov/link/statute/107/509); [Pub. L. 115–141, div. U, title IV, § 401(a)(165)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1192](https://www.govinfo.gov/link/statute/132/1192).)*

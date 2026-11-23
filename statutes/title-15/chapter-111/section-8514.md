@@ -3,9 +3,10 @@ title: "Section 8514 - Hurricane forecast improvement program"
 usc_title: 15
 usc_section: "8514"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 8514"
-generated_at: "2026-03-30T02:54:08.230Z"
+generated_at: "2026-11-23T20:26:04.489Z"
+status: "active"
 ---
 
 # § 8514. Hurricane forecast improvement program
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.230Z"
   - **(3)** incorporating risk communication research to create more effective watch and warning products; and
   - **(4)** evaluating and incorporating, as appropriate, innovative observations, including acoustic or infrasonic measurements.
 - **(c)** Not later than 1 year after April 18, 2017 , the Under Secretary, acting through the Assistant Administrator for Oceanic and Atmospheric Research and in consultation with the Director of the National Weather Service, shall develop a plan for the project maintained under subsection (a) that details the specific research, development, and technology transfer activities, as well as corresponding resources and timelines, necessary to achieve the goal set forth in subsection (b).
+
+## Source Credit
+
+*([Pub. L. 115–25, title I, § 104](https://www.govinfo.gov/link/plaw/115/public/25), Apr. 18, 2017, [131 Stat. 94](https://www.govinfo.gov/link/statute/131/94); [Pub. L. 117–316, § 9](https://www.govinfo.gov/link/plaw/117/public/316), Dec. 27, 2022, [136 Stat. 4412](https://www.govinfo.gov/link/statute/136/4412).)*

@@ -3,9 +3,10 @@ title: "Section 1741c - Hostage Response Group"
 usc_title: 22
 usc_section: "1741c"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 1741c"
-generated_at: "2026-03-30T02:55:05.338Z"
+generated_at: "2026-11-23T20:26:32.142Z"
+status: "active"
 ---
 
 # § 1741c. Hostage Response Group
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:05.338Z"
   - **(6)** as appropriate, direct the use of resources at the Hostage Recovery Fusion Cell to coordinate the United States Government response to other hostage-takings occurring abroad in which the United States has a national interest.
 - **(d)** The Hostage Response Group shall meet regularly.
 - **(e)** The Hostage Response Group shall regularly provide recommendations on hostage recovery options and strategies to the National Security Council.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. FF, title III, § 305](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3095](https://www.govinfo.gov/link/statute/134/3095).)*

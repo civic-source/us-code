@@ -3,9 +3,10 @@ title: "Section 33104 - Designation of high theft vehicle lines and parts"
 usc_title: 49
 usc_section: "33104"
 chapter: 331
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 33104"
-generated_at: "2026-03-30T02:56:19.368Z"
+generated_at: "2026-11-23T20:27:35.025Z"
+status: "active"
 ---
 
 # § 33104. Designation of high theft vehicle lines and parts
@@ -30,3 +31,65 @@ generated_at: "2026-03-30T02:56:19.368Z"
   - **(5)** The Secretary periodically (but not more often than once every 2 years) may redetermine and prescribe by regulation the median theft rate under this subsection.
 - **(c)** The Secretary by regulation shall require each manufacturer to provide information necessary to select under subsection (a)(3) of this section the high theft lines and the major parts to be subject to the standard.
 - **(d)** Except as provided in section 33106 of this title , the Secretary may not make the standard inapplicable to a line that has been subject to the standard.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 33104(a) | 15:2023(a)(1)–(4). | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , § 603(a)(1)–(4), (b)–(d); added Oct. 25, 1984 , Pub. L. 98–547, § 101(a) , 98 Stat. 2757 ; Oct. 25, 1992 , Pub. L. 102–519, § 303(1) –(3), (5), 106 Stat. 3396 . |
+|  | 15:2023(a)(5). | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , §§ 602(g), 603(a)(5); added Oct. 25, 1992 , Pub. L. 102–519 , §§ 302(2), 303(4), 106 Stat. 3395 , 3396. |
+| 33104(b) | 15:2022(g). |  |
+|  | 15:2023(b). |  |
+| 33104(c) | 15:2023(c). |  |
+| 33104(d) | 15:2023(d). |  |
+
+
+Designation, Nonapplication, Selection, and Procedures
+
+Determining Theft Rate for Passenger Vehicles
+
+Providing Information
+
+Application
+
+Historical and Revision Notes
+
+33104(a)
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+Oct. 25, 1984
+
+Pub. L. 98–547, § 101(a)
+
+98 Stat. 2757
+
+Oct. 25, 1992
+
+Pub. L. 102–519, § 303(1)
+
+106 Stat. 3396
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+Oct. 25, 1992
+
+Pub. L. 102–519
+
+106 Stat. 3395
+
+33104(b)
+
+33104(c)
+
+33104(d)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1079](https://www.govinfo.gov/link/statute/108/1079).)*

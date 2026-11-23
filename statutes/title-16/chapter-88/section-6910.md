@@ -3,12 +3,17 @@ title: "Section 6910 - Authorization of appropriations"
 usc_title: 16
 usc_section: "6910"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6910"
-generated_at: "2026-03-30T02:54:23.071Z"
+generated_at: "2026-11-23T20:26:20.826Z"
+status: "active"
 ---
 
 # § 6910. Authorization of appropriations
 
 There are authorized to be appropriated to the Secretary of Commerce such sums as may be necessary to carry out this chapter and to pay the United States’ contribution to the Commission under section 5 of part III of the WCPFC Convention.
 
+
+## Source Credit
+
+*([Pub. L. 109–479, title V, § 512](https://www.govinfo.gov/link/plaw/109/public/479), formerly § 511, Jan. 12, 2007, [120 Stat. 3644](https://www.govinfo.gov/link/statute/120/3644); renumbered § 512, [Pub. L. 114–327, title III, § 301(a)(2)](https://www.govinfo.gov/link/plaw/114/public/327), Dec. 16, 2016, [130 Stat. 1994](https://www.govinfo.gov/link/statute/130/1994).)*

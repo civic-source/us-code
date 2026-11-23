@@ -3,9 +3,10 @@ title: "Section 119 - Meals or lodging furnished for the convenience of the empl
 usc_title: 26
 usc_section: "119"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 119"
-generated_at: "2026-03-30T02:55:27.625Z"
+generated_at: "2026-11-23T20:26:45.344Z"
+status: "active"
 ---
 
 # § 119. Meals or lodging furnished for the convenience of the employer
@@ -48,3 +49,23 @@ generated_at: "2026-03-30T02:55:27.625Z"
       - **(i)** which is described in section 170(b)(1)(A)(iii),
       - **(ii)** which receives (during the calendar year in which the taxable year of the taxpayer begins) payments under subsection (d)(5)(B) or (h) of section 1886 of the Social Security Act (relating to graduate medical education), and
       - **(iii)** which has as one of its principal purposes or functions the providing and teaching of basic and clinical medical science and research with the entity’s own faculty.
+
+Educational institution
+
+General Rule
+
+Allowances to Which Section Applies
+
+Other Definitions
+
+State police officer
+
+Income tax return
+
+Limitation on Deduction
+
+Statute of Limitations
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 39; [Pub. L. 95–427, § 4(a)](https://www.govinfo.gov/link/plaw/95/public/427), Oct. 7, 1978, [92 Stat. 997](https://www.govinfo.gov/link/statute/92/997); [Pub. L. 95–615, title II, § 205](https://www.govinfo.gov/link/plaw/95/public/615), Nov. 8, 1978, [92 Stat. 3107](https://www.govinfo.gov/link/statute/92/3107); [Pub. L. 96–222, title I, § 108(a)(1)(G)](https://www.govinfo.gov/link/plaw/96/public/222), Apr. 1, 1980, [94 Stat. 225](https://www.govinfo.gov/link/statute/94/225); [Pub. L. 97–34, title I, § 113](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 195](https://www.govinfo.gov/link/statute/95/195); [Pub. L. 99–514, title XI, § 1164(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2511](https://www.govinfo.gov/link/statute/100/2511); [Pub. L. 100–647, title I, § 1011B(d)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3489](https://www.govinfo.gov/link/statute/102/3489); [Pub. L. 104–188, title I, § 1123(a)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1768](https://www.govinfo.gov/link/statute/110/1768); [Pub. L. 105–206, title V, § 5002(a)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 788](https://www.govinfo.gov/link/statute/112/788).)*

@@ -3,12 +3,32 @@ title: "Section 1309 - Preservation, sale, or collection of wrecked, abandoned, 
 usc_title: 40
 usc_section: "1309"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 1309"
-generated_at: "2026-03-30T02:55:43.377Z"
+generated_at: "2026-11-23T20:26:56.571Z"
+status: "active"
 ---
 
 # § 1309. Preservation, sale, or collection of wrecked, abandoned, or derelict property
 
 The Administrator of General Services may make contracts and provisions for the preservation, sale, or collection of property, or the proceeds of property, which may have been wrecked, been abandoned, or become derelict, if the Administrator considers the contracts and provisions to be in the interest of the Federal Government and the property is within the jurisdiction of the United States and should come to the Government. A contract may provide compensation the Administrator considers just and reasonable to any person who gives information about the property or actually preserves, collects, surrenders, or pays over the property. Under each specific agreement for obtaining, preserving, collecting, or receiving property or making property available, the costs or claim chargeable to the Government may not exceed amounts realized and received by the Government.
 
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1309 | 40:310. | R.S. § 3755; Pub. L. 89–30, § 4 , June 2, 1965 , 79 Stat. 119 . |
+
+
+Historical and Revision Notes
+
+1309
+
+Pub. L. 89–30, § 4
+
+June 2, 1965
+
+79 Stat. 119
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1137](https://www.govinfo.gov/link/statute/116/1137).)*

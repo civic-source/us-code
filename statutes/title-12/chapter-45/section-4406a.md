@@ -3,9 +3,10 @@ title: "Section 4406a - Treatment of contracts with uninsured national banks, un
 usc_title: 12
 usc_section: "4406a"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4406a"
-generated_at: "2026-03-30T02:53:53.505Z"
+generated_at: "2026-11-23T20:25:59.379Z"
+status: "active"
 ---
 
 # § 4406a. Treatment of contracts with uninsured national banks, uninsured Federal branches and agencies, certain uninsured State member banks, and Edge Act corporations
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:53.505Z"
   - **(1)** The Comptroller of the Currency in the case of an uninsured national bank or uninsured Federal branch or agency and the Board of Governors of the Federal Reserve System in the case of a corporation chartered under section 25A of the Federal Reserve Act [ 12 U.S.C. 611 et seq.], or an uninsured State member bank that operates, or operates as, a multilateral clearing organization pursuant to section 4422 1 of this title, in consultation with the Federal Deposit Insurance Corporation, may each promulgate regulations solely to implement this section.
   - **(2)** In promulgating regulations, limited solely to implementing paragraphs (8), (9), (10), and (11) of section 11(e) of the Federal Deposit Insurance Act [ 12 U.S.C. 1821(e) ], the Comptroller of the Currency and the Board of Governors of the Federal Reserve System each shall ensure that the regulations generally are consistent with the regulations and policies of the Federal Deposit Insurance Corporation adopted pursuant to the Federal Deposit Insurance Act [ 12 U.S.C. 1811 et seq.].
 - **(d)** For purposes of this section, the terms “Federal branch”, “Federal agency”, and “foreign bank” have the same meanings as in section 3101 of this title .
+
+## Source Credit
+
+*([Pub. L. 102–242, title IV, § 407](https://www.govinfo.gov/link/plaw/102/public/242), as added [Pub. L. 109–8, title IX, § 906(d)(2)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 169](https://www.govinfo.gov/link/statute/119/169).)*

@@ -3,9 +3,10 @@ title: "Section 2765 - Annual estimate and justification for sales program"
 usc_title: 22
 usc_section: "2765"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2765"
-generated_at: "2026-03-30T02:55:05.385Z"
+generated_at: "2026-11-23T20:26:32.408Z"
+status: "active"
 ---
 
 # § 2765. Annual estimate and justification for sales program
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:05.385Z"
 - **(d)** For the purposes of subsection (a)(5)(B) of this section, the term “cash flow financing” means the dollar amount of the difference between the total estimated price of a Letter of Offer and Acceptance or other purchase agreement that has been approved for financing under this chapter or under section 503(a)(3) of the Foreign Assistance Act of 1961 [ 22 U.S.C. 2311(a)(3) ] and the amount of the financing that has been approved therefor; 3 3 So in original. The semicolon probably should be a period.
 - **(d)** The information required by subsection (a)(4) of this section shall be transmitted to the Congress no later than April 1 of each year.
 - **(e)** As used in this section, the term “appropriate congressional committees” means the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 90–629](https://www.govinfo.gov/link/plaw/90/public/629), ch. 2, § 25, as added [Pub. L. 94–329, title II, § 209(a)](https://www.govinfo.gov/link/plaw/94/public/329), June 30, 1976, [90 Stat. 739](https://www.govinfo.gov/link/statute/90/739); amended [Pub. L. 95–384, § 18](https://www.govinfo.gov/link/plaw/95/public/384), Sept. 26, 1978, [92 Stat. 740](https://www.govinfo.gov/link/statute/92/740); [Pub. L. 96–92](https://www.govinfo.gov/link/plaw/96/public/92), §§ 13, 14, Oct. 29, 1979, [93 Stat. 706](https://www.govinfo.gov/link/statute/93/706); [Pub. L. 96–533, title I](https://www.govinfo.gov/link/plaw/96/public/533), §§ 104(c), 107(d), Dec. 16, 1980, [94 Stat. 3133](https://www.govinfo.gov/link/statute/94/3133), 3137; [Pub. L. 97–113, title VII, § 732](https://www.govinfo.gov/link/plaw/97/public/113), Dec. 29, 1981, [95 Stat. 1557](https://www.govinfo.gov/link/statute/95/1557); [Pub. L. 99–83, title I](https://www.govinfo.gov/link/plaw/99/public/83), §§ 112, 113, Aug. 8, 1985, [99 Stat. 198](https://www.govinfo.gov/link/statute/99/198); [Pub. L. 104–164, title I, § 102(d)](https://www.govinfo.gov/link/plaw/104/public/164), July 21, 1996, [110 Stat. 1423](https://www.govinfo.gov/link/statute/110/1423); [Pub. L. 105–118, title V, § 519](https://www.govinfo.gov/link/plaw/105/public/118), Nov. 26, 1997, [111 Stat. 2411](https://www.govinfo.gov/link/statute/111/2411); [Pub. L. 107–228, div. B, title XII, § 1232](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1433](https://www.govinfo.gov/link/statute/116/1433); [Pub. L. 111–266, title I, § 104(c)](https://www.govinfo.gov/link/plaw/111/public/266), Oct. 8, 2010, [124 Stat. 2799](https://www.govinfo.gov/link/statute/124/2799); [Pub. L. 113–276, title II, § 208(a)(3)](https://www.govinfo.gov/link/plaw/113/public/276), Dec. 18, 2014, [128 Stat. 2993](https://www.govinfo.gov/link/statute/128/2993).)*

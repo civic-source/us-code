@@ -3,9 +3,10 @@ title: "Section 7219 - Funding"
 usc_title: 15
 usc_section: "7219"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 7219"
-generated_at: "2026-03-30T02:54:08.220Z"
+generated_at: "2026-11-23T20:26:04.442Z"
+status: "active"
 ---
 
 # § 7219. Funding
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:54:08.220Z"
 - **(i)**
 - **(j)** Nothing in this section shall be construed to render either the Board, the standard setting body referred to in subsection (a), or both, subject to procedures in Congress to authorize or appropriate public funds, or to prevent such organization from utilizing additional sources of revenue for its activities, such as earnings from publication sales, provided that each additional source of revenue shall not jeopardize, in the judgment of the Commission, the actual and perceived independence of such organization.
 - **(k)** From the unexpended balances of the appropriations to the Commission for fiscal year 2003, the Secretary of the Treasury is authorized to advance to the Board not to exceed the amount necessary to cover the expenses of the Board during its first fiscal year (which may be a short fiscal year).
+
+## Source Credit
+
+*([Pub. L. 107–204, title I, § 109](https://www.govinfo.gov/link/plaw/107/public/204), July 30, 2002, [116 Stat. 769](https://www.govinfo.gov/link/statute/116/769); [Pub. L. 111–203, title IX, § 982(h)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1930](https://www.govinfo.gov/link/statute/124/1930).)*

@@ -3,9 +3,10 @@ title: "Section 6063 - Study of Goals 2000 and students with disabilities"
 usc_title: 20
 usc_section: "6063"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 6063"
-generated_at: "2026-03-30T02:54:48.190Z"
+generated_at: "2026-11-23T20:26:14.806Z"
+status: "active"
 ---
 
 # § 6063. Study of Goals 2000 and students with disabilities
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:48.190Z"
 - **(c)** Any panel constituted in furtherance of the study to be conducted under subsection (a) shall include consumer representatives.
 - **(d)** The Secretary shall request the National Academy of Sciences or the National Academy of Education to submit an interim report of its findings and recommendations to the President and Congress not later than 12 months, and a final report not later than 24 months, from the date of the completion of procurement relating to the study.
 - **(e)** From funds appropriated to the Secretary for research related to individuals with disabilities the Secretary shall make available $600,000 for fiscal year 1994, and such sums as may be necessary for fiscal year 1995, to carry out this section. Amounts made available under this subsection shall remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 103–227, title X, § 1015](https://www.govinfo.gov/link/plaw/103/public/227), Mar. 31, 1994, [108 Stat. 266](https://www.govinfo.gov/link/statute/108/266).)*

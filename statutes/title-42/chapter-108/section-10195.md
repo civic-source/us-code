@@ -3,9 +3,10 @@ title: "Section 10195 - Test and evaluation facility siting review and reports"
 usc_title: 42
 usc_section: "10195"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10195"
-generated_at: "2026-03-30T02:56:11.383Z"
+generated_at: "2026-11-23T20:27:23.221Z"
+status: "active"
 ---
 
 # § 10195. Test and evaluation facility siting review and reports
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.383Z"
   - **(4)** procedures by which the Secretary and either such Governor or governing body may review or modify the agreement periodically; and
   - **(5)** procedures for public notification of the procedures specified under subparagraphs (A) through (D).
 - **(c)** Except as specifically provided in this section, nothing in this subchapter is intended to grant any State or affected Indian tribe any authority with respect to the siting, development, or loading of the test and evaluation facility.
+
+## Source Credit
+
+*([Pub. L. 97–425, title II, § 215](https://www.govinfo.gov/link/plaw/97/public/425), Jan. 7, 1983, [96 Stat. 2247](https://www.govinfo.gov/link/statute/96/2247).)*

@@ -3,9 +3,10 @@ title: "Section 3621 - Imprisonment of a convicted person"
 usc_title: 18
 usc_section: "3621"
 chapter: 229
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 3621"
-generated_at: "2026-03-30T02:54:16.522Z"
+generated_at: "2026-11-23T20:26:08.753Z"
+status: "active"
 ---
 
 # § 3621. Imprisonment of a convicted person
@@ -82,3 +83,117 @@ generated_at: "2026-03-30T02:54:16.522Z"
 - **(i)**
   - **(1)** In order to ensure a minimum standard of health and habitability, the Bureau of Prisons should ensure that each prisoner in a community confinement facility has access to necessary medical care, mental health care, and medicine through partnerships with local health service providers and transition planning.
   - **(2)** In this subsection, the term “community confinement” has the meaning given that term in the application notes under section 5F1.1 of the Federal Sentencing Guidelines Manual, as in effect on the date of the enactment of the Second Chance Act of 2007.
+
+Commitment to Custody of Bureau of Prisons
+
+Place of Imprisonment
+
+Delivery of Order of Commitment
+
+Delivery of Prisoner for Court Appearances
+
+Substance Abuse Treatment.—
+
+Phase-in
+
+Incentive for prisoners’ successful completion of treatment program.—
+
+Generally
+
+Period of custody
+
+Report
+
+Authorization of appropriations
+
+Definitions
+
+Coordination of federal assistance
+
+Eligibility of primary caretaker parents and pregnant women
+
+Sex Offender Management.—
+
+In general
+
+Sex offender management programs
+
+Residential sex offender treatment programs
+
+Regions
+
+Authorization of appropriations
+
+Partnerships To Expand Access to Reentry Programs Proven To Reduce Recidivism.—
+
+Definition
+
+Eligibility for recidivism reduction partnership
+
+Recidivism reduction partnerships
+
+Reporting requirement
+
+Implementation of Risk and Needs Assessment System.—
+
+In general
+
+Phase-in
+
+Priority during phase-in
+
+Preliminary expansion of evidence-based recidivism reduction programs and authority to use incentives
+
+Recidivism reduction partnerships
+
+Requirement to provide programs to all prisoners; priority
+
+Definitions
+
+Continued Access to Medical Care.—
+
+In general
+
+Definition
+
+In general
+
+Report
+
+Definitions
+
+Supply of Personal Protective Equipment and Test Kits to Bureau of Prisons; Home Confinement Authority.—
+
+Personal protective equipment and test kits.—
+
+Findings
+
+Consideration
+
+Home confinement authority
+
+Video Visitation.—
+
+In general
+
+Exemption from notice-and-comment rulemaking requirements
+
+Emergency Requirement
+
+“Not later than 2 years after the Director of the Bureau of Prisons implements the risk and needs assessment system under section 3621 of title 18 , United States Code, and every 2 years thereafter, the Comptroller General of the United States shall conduct an audit of the use of the risk and needs assessment system at Bureau of Prisons facilities. The audit shall include analysis of the following:
+
+In General
+
+Eligibility for Earned Time Credit
+
+Limitation on Activities
+
+Rule of Construction
+
+Report on Evidence-based Treatment for Opioid and Heroin Abuse
+
+Report on the Availability of Medication-Assisted Treatment for Opioid and Heroin Abuse, and Implementation Thereof
+
+## Source Credit
+
+*(Added [Pub. L. 98–473, title II, § 212(a)(2)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2007](https://www.govinfo.gov/link/statute/98/2007); amended [Pub. L. 101–647, title XXIX, § 2903](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4913](https://www.govinfo.gov/link/statute/104/4913); [Pub. L. 103–322, title II, § 20401](https://www.govinfo.gov/link/plaw/103/public/322), title III, § 32001, Sept. 13, 1994, [108 Stat. 1824](https://www.govinfo.gov/link/statute/108/1824), 1896; [Pub. L. 109–162, title XI, § 1146](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3112](https://www.govinfo.gov/link/statute/119/3112); [Pub. L. 109–248, title VI, § 622](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 634](https://www.govinfo.gov/link/statute/120/634); [Pub. L. 110–199, title II](https://www.govinfo.gov/link/plaw/110/public/199), §§ 231(f), 251(b), 252, Apr. 9, 2008, [122 Stat. 687](https://www.govinfo.gov/link/statute/122/687), 693; [Pub. L. 115–391, title I, § 102(a)](https://www.govinfo.gov/link/plaw/115/public/391), title V, § 504(f)(1), title VI, § 601, Dec. 21, 2018, [132 Stat. 5208](https://www.govinfo.gov/link/statute/132/5208), 5234, 5237; [Pub. L. 117–103, div. W, title X, § 1001(c)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 914](https://www.govinfo.gov/link/statute/136/914).)*

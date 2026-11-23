@@ -3,9 +3,10 @@ title: "Section 1359hh - Regulations; violations; publication of Secretary’s d
 usc_title: 7
 usc_section: "1359hh"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1359hh"
-generated_at: "2026-03-30T02:53:42.308Z"
+generated_at: "2026-11-23T20:25:41.137Z"
+status: "active"
 ---
 
 # § 1359hh. Regulations; violations; publication of Secretary’s determinations; jurisdiction of the courts; United States attorneys
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:42.308Z"
   - **(1)** The several district courts of the United States are vested with jurisdiction specifically to enforce, and to prevent and restrain any person from violating, this subpart or any regulation issued thereunder.
   - **(2)** Whenever the Secretary shall so request, it shall be the duty of the several United States attorneys, in their respective districts, to institute proceedings to enforce the remedies and to collect the penalties provided for in this subpart. The Secretary may elect not to refer to a United States attorney any violation of this subpart or regulation when the Secretary determines that the administration and enforcement of this subpart would be adequately served by written notice or warning to any person committing the violation.
 - **(e)** The remedies and penalties provided for in this subpart shall be in addition to, and not exclusive of, any remedies or penalties existing at law or in equity.
+
+## Source Credit
+
+*(Feb. 16, 1938, ch. 30, title III, § 359h, as added [Pub. L. 107–171, title I, § 1403](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 202](https://www.govinfo.gov/link/statute/116/202).)*

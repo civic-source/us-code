@@ -3,9 +3,10 @@ title: "Section 50905 - License applications and requirements"
 usc_title: 51
 usc_section: "50905"
 chapter: 509
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 50905"
-generated_at: "2026-03-30T02:56:28.708Z"
+generated_at: "2026-11-23T20:27:37.502Z"
+status: "active"
 ---
 
 # § 50905. License applications and requirements
@@ -63,3 +64,73 @@ generated_at: "2026-03-30T02:56:28.708Z"
   - **(9)** Beginning on January 1, 2028 , the Secretary may propose regulations under this subsection without regard to subparagraphs (C) and (D) of paragraph (2). The development of any such regulations shall take into consideration the evolving standards of the commercial space flight industry as identified in the reports published under paragraphs (5), (6), and (7).
   - **(10)** Nothing in this subsection shall be construed to limit the authority of the Secretary to issue requirements or regulations to protect the public health and safety, safety of property, national security interests, and foreign policy interests of the United States.
 - **(d)** The Secretary shall establish procedures and timetables that expedite review of a license or permit application and reduce the regulatory burden for an applicant.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 70105(a) | 49 App.:2606 (1st sentence). | Oct. 30, 1984 , Pub. L. 98–575 , §§ 7 (1st sentence), 8, 9(a), (b), 98 Stat. 3058 . |
+|  | 49 App.:2608(a) (1st sentence), (b) (1st, 3d, last sentences). |  |
+| 70105(b)(1) | 49 App.:2607(a)(1). |  |
+| 70105(b) (2)(A) | 49 App.:2608(b) (2d sentence). |  |
+| 70105(b) (2)(B) | 49 App.:2607(b). |  |
+| 70105(b) (2)(C) | 49 App.:2607(a)(2). |  |
+| 70105(b)(3) | 49 App.:2607(c). |  |
+| 70105(c) | 49 App.:2608(a) (last sentence). |  |
+
+
+Applications
+
+Requirements
+
+Safety Regulations.—
+
+In general
+
+Regulations
+
+Facilitation of standards
+
+Communication and transparency
+
+Interim voluntary industry consensus standards reports.—
+
+In general
+
+Contents
+
+Report
+
+Reports
+
+Independent review
+
+Learning period
+
+Rule of construction
+
+Procedures and Timetables
+
+Historical and Revision Notes
+
+70105(a)
+
+Oct. 30, 1984
+
+Pub. L. 98–575
+
+98 Stat. 3058
+
+70105(b)(1)
+
+70105(b)(3)
+
+70105(c)
+
+In general
+
+Regulations
+
+Rule of construction
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1333](https://www.govinfo.gov/link/statute/108/1333), § 70105 of title 49; [Pub. L. 105–303, title I, § 102(a)(6)](https://www.govinfo.gov/link/plaw/105/public/303), Oct. 28, 1998, [112 Stat. 2848](https://www.govinfo.gov/link/statute/112/2848); [Pub. L. 108–492, § 2(c)(6)](https://www.govinfo.gov/link/plaw/108/public/492) –(15), Dec. 23, 2004, [118 Stat. 3976–3979](https://www.govinfo.gov/link/statute/118/3976); renumbered § 70105 then § 50905 of title 51 and amended [Pub. L. 111–314, § 4(d)(2)](https://www.govinfo.gov/link/plaw/111/public/314), (3)(E), (5)(F), Dec. 18, 2010, [124 Stat. 3440](https://www.govinfo.gov/link/statute/124/3440), 3441; [Pub. L. 112–95, title VIII, § 827](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 133](https://www.govinfo.gov/link/statute/126/133); [Pub. L. 114–55, title I, § 102(e)](https://www.govinfo.gov/link/plaw/114/public/55), Sept. 30, 2015, [129 Stat. 523](https://www.govinfo.gov/link/statute/129/523); [Pub. L. 114–90, title I](https://www.govinfo.gov/link/plaw/114/public/90), §§ 111, 112(l), Nov. 25, 2015, [129 Stat. 709](https://www.govinfo.gov/link/statute/129/709), 713; [Pub. L. 118–15, div. B, title II, § 2202(k)](https://www.govinfo.gov/link/plaw/118/public/15), Sept. 30, 2023, [137 Stat. 83](https://www.govinfo.gov/link/statute/137/83); [Pub. L. 118–34, title I, § 102(k)](https://www.govinfo.gov/link/plaw/118/public/34), Dec. 26, 2023, [137 Stat. 1114](https://www.govinfo.gov/link/statute/137/1114); [Pub. L. 118–41, title I, § 102(k)](https://www.govinfo.gov/link/plaw/118/public/41), Mar. 8, 2024, [138 Stat. 22](https://www.govinfo.gov/link/statute/138/22); [Pub. L. 118–63, title XI, § 1111](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1419](https://www.govinfo.gov/link/statute/138/1419); [Pub. L. 118–159, div. E, title LVII, § 5702(1)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2461](https://www.govinfo.gov/link/statute/138/2461).)*

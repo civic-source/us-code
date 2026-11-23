@@ -3,9 +3,10 @@ title: "Section 652 - Upper Mississippi River Management"
 usc_title: 33
 usc_section: "652"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 652"
-generated_at: "2026-03-30T02:55:41.066Z"
+generated_at: "2026-11-23T20:26:53.877Z"
+status: "active"
 ---
 
 # § 652. Upper Mississippi River Management
@@ -61,3 +62,161 @@ generated_at: "2026-03-30T02:55:41.066Z"
   - **(1)** The Secretary shall, as he determines feasible, dispose of dredged material from the system pursuant to the recommendations of the GREAT I, GREAT II, and GRRM studies.
   - **(2)** The Secretary shall establish and request appropriate Federal funding for a program to facilitate productive uses of dredged material. The Secretary shall work with the States which have, within their boundaries, any part of the system to identify potential users of dredged material.
 - **(j)** The Secretary is authorized to provide for the engineering, design, and construction of a second lock at locks and dam 26, Mississippi River, Alton, Illinois and Missouri, at a total cost of $220,000,000, with a first Federal cost of $220,000,000. Such second lock shall be one hundred and ten feet by six hundred feet and shall be constructed at or in the vicinity of the location of the replacement lock authorized by section 102 of Public Law 95–502 . Section 2212 of this title shall apply to the project authorized by this subsection.
+
+Authority.—
+
+In general
+
+Advisory committee
+
+Reports
+
+Authorization of appropriations
+
+Transfer of amounts
+
+Determination.—
+
+In general
+
+Requirements
+
+Study
+
+Area of Evaluation
+
+Reports
+
+Public Availability
+
+Plan
+
+Upper mississippi river and illinois waterway system
+
+Small Scale and Nonstructural Measures.—
+
+In general
+
+Authorization of appropriations
+
+New Locks.—
+
+In general
+
+Authorization of appropriations
+
+Concurrence
+
+Operation
+
+Ecosystem Restoration Projects.—
+
+In general
+
+Projects included
+
+Cost sharing.—
+
+In general
+
+Exception for certain restoration projects
+
+Savings clause
+
+Nongovernmental organizations
+
+Land acquisition
+
+Monitoring
+
+Ecosystem Restoration Preconstruction Engineering and Design.—
+
+Restoration design
+
+Outcomes
+
+Restoration design
+
+Consultation and Funding Agreements.—
+
+In general
+
+Funding agreements
+
+Specific Projects Authorization.—
+
+In general
+
+Limitation on available funds
+
+Individual project limit
+
+Monitoring
+
+Implementation Reports.—
+
+In general
+
+Advisory panel.—
+
+In general
+
+Panel members
+
+Chairperson
+
+Application of chapter
+
+of title
+
+, united states code
+
+Ranking System.—
+
+In general
+
+Priority
+
+In General
+
+No Comparable Rate
+
+In General
+
+Study Components.—
+
+Computer modeling
+
+Research
+
+Use of Information
+
+Reports.—
+
+Preliminary report
+
+Final report
+
+Funding.—
+
+Authorization of appropriations
+
+Federal share
+
+Development
+
+Contents
+
+Consultation and Use of Existing Data
+
+Cost Sharing.—
+
+Development
+
+Feasibility studies
+
+Report
+
+## Source Credit
+
+*([Pub. L. 99–662, title XI, § 1103](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4225](https://www.govinfo.gov/link/statute/100/4225); [Pub. L. 101–640, title IV, § 405](https://www.govinfo.gov/link/plaw/101/public/640), Nov. 28, 1990, [104 Stat. 4646](https://www.govinfo.gov/link/statute/104/4646); [Pub. L. 102–580, title I, § 107](https://www.govinfo.gov/link/plaw/102/public/580), Oct. 31, 1992, [106 Stat. 4815](https://www.govinfo.gov/link/statute/106/4815); [Pub. L. 106–53, title V, § 509](https://www.govinfo.gov/link/plaw/106/public/53), Aug. 17, 1999, [113 Stat. 339](https://www.govinfo.gov/link/statute/113/339); [Pub. L. 106–109, § 2](https://www.govinfo.gov/link/plaw/106/public/109), Nov. 24, 1999, [113 Stat. 1494](https://www.govinfo.gov/link/statute/113/1494); [Pub. L. 110–114, title III, § 3177](https://www.govinfo.gov/link/plaw/110/public/114), Nov. 8, 2007, [121 Stat. 1155](https://www.govinfo.gov/link/statute/121/1155); [Pub. L. 116–260, div. AA, title III, § 307](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2704](https://www.govinfo.gov/link/statute/134/2704); [Pub. L. 117–263, div. H, title LXXXI, § 8345](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3796](https://www.govinfo.gov/link/statute/136/3796); [Pub. L. 118–272, div. A, title III, § 1354](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3161](https://www.govinfo.gov/link/statute/138/3161).)*

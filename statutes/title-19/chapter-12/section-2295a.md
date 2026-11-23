@@ -3,9 +3,10 @@ title: "Section 2295a - Omitted"
 usc_title: 19
 usc_section: "2295a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2295a"
-generated_at: "2026-03-30T02:54:24.669Z"
+generated_at: "2026-11-23T20:26:10.935Z"
+status: "omitted"
 ---
 
 # § 2295a. Omitted

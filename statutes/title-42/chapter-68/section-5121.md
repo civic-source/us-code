@@ -3,9 +3,10 @@ title: "Section 5121 - Congressional findings and declarations"
 usc_title: 42
 usc_section: "5121"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5121"
-generated_at: "2026-03-30T02:56:11.219Z"
+generated_at: "2026-11-23T20:27:22.465Z"
+status: "active"
 ---
 
 # § 5121. Congressional findings and declarations
@@ -21,3 +22,21 @@ generated_at: "2026-03-30T02:56:11.219Z"
   - **(5)** encouraging hazard mitigation measures to reduce losses from disasters, including development of land use and construction regulations;
   - **(6)** providing Federal assistance programs for both public and private losses sustained in disasters; and
   - **(7)** identifying and improving the climate and natural hazard resilience of vulnerable communities.
+
+Applicability for Stafford Act
+
+Division Applicability
+
+In General
+
+Implementation
+
+Sections
+
+Sec
+
+Sec
+
+## Source Credit
+
+*([Pub. L. 93–288, title I, § 101](https://www.govinfo.gov/link/plaw/93/public/288), May 22, 1974, [88 Stat. 143](https://www.govinfo.gov/link/statute/88/143); [Pub. L. 100–707, title I, § 103(a)](https://www.govinfo.gov/link/plaw/100/public/707), Nov. 23, 1988, [102 Stat. 4689](https://www.govinfo.gov/link/statute/102/4689); [Pub. L. 117–255, § 2](https://www.govinfo.gov/link/plaw/117/public/255), Dec. 20, 2022, [136 Stat. 2363](https://www.govinfo.gov/link/statute/136/2363).)*

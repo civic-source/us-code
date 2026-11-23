@@ -3,9 +3,10 @@ title: "Section 1671h - Conditional payment of countervailing duty"
 usc_title: 19
 usc_section: "1671h"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1671h"
-generated_at: "2026-03-30T02:54:24.651Z"
+generated_at: "2026-11-23T20:26:10.844Z"
+status: "active"
 ---
 
 # § 1671h. Conditional payment of countervailing duty
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:24.651Z"
   - **(1)** furnish, or arrange to have furnished, to the appropriate customs officer such information as the administering authority deems necessary for ascertaining any countervailing duty to be imposed under this part,
   - **(2)** maintain and furnish to the customs officer such records concerning such merchandise as the administering authority, by regulation, requires, and
   - **(3)** pay, or agree to pay on demand, to the customs officer the amount of countervailing duty imposed under this part on that merchandise.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title VII, § 709, as added [Pub. L. 98–573, title VI, § 608](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 3029](https://www.govinfo.gov/link/statute/98/3029).)*

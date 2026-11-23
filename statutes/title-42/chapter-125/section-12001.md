@@ -3,9 +3,10 @@ title: "Section 12001 - Finding, purpose, and general authority"
 usc_title: 42
 usc_section: "12001"
 chapter: 125
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12001"
-generated_at: "2026-03-30T02:56:11.406Z"
+generated_at: "2026-11-23T20:27:23.332Z"
+status: "active"
 ---
 
 # § 12001. Finding, purpose, and general authority
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.406Z"
 - **(c)** The Secretary, acting in accordance with section 13541 of this title , is authorized and directed to—
   - **(1)** pursue a program of research, development, demonstration, and commercial application with the private sector, to achieve the purpose of this chapter, including the goals established under section 12003 of this title ; and
   - **(2)** undertake demonstration and commercial application projects as provided in section 12005 of this title .
+
+## Source Credit
+
+*([Pub. L. 101–218, § 2](https://www.govinfo.gov/link/plaw/101/public/218), Dec. 11, 1989, [103 Stat. 1859](https://www.govinfo.gov/link/statute/103/1859); [Pub. L. 102–486, title XII, § 1202(d)(1)](https://www.govinfo.gov/link/plaw/102/public/486) –(3), Oct. 24, 1992, [106 Stat. 2959](https://www.govinfo.gov/link/statute/106/2959), 2960.)*

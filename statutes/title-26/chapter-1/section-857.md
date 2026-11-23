@@ -3,9 +3,10 @@ title: "Section 857 - Taxation of real estate investment trusts and their benefi
 usc_title: 26
 usc_section: "857"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 857"
-generated_at: "2026-03-30T02:55:27.735Z"
+generated_at: "2026-11-23T20:26:45.912Z"
+status: "active"
 ---
 
 # § 857. Taxation of real estate investment trusts and their beneficiaries
@@ -184,3 +185,27 @@ generated_at: "2026-03-30T02:55:27.735Z"
   - **(1)** The aggregate amount of dividends designated by a real estate investment trust under subsections (b)(3)(C) and (c)(2)(A) with respect to any taxable year may not exceed the dividends paid by such trust with respect to such year. For purposes of the preceding sentence, dividends paid after the close of the taxable year described in section 858 shall be treated as paid with respect to such year.
   - **(2)** The Secretary may prescribe regulations or other guidance requiring the proportionality of the designation of particular types of dividends among shares or beneficial interests of a real estate investment trust.
 - **(h)** For provisions relating to excise tax based on certain real estate investment trust taxable income not distributed during the taxable year, see section 4981.
+
+In general
+
+Termination
+
+Capital gain dividend.—
+
+In general
+
+Application of safe harbors.—
+
+In general
+
+Retroactive application of no inference not applicable to certain timber property previously treated as not inventory property
+
+In general
+
+“The amendments made by this section [amending this section and section 897 of this title ] shall apply to—
+
+“The amendments made by section 1601 [enacting sections 859 and 6697 of this title and amending this section and sections 316, 381, 6422, 6503, and 6515 of this title] shall apply with respect to determinations (as defined in section 859(c) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954]) occurring after the date of the enactment of this Act [ Oct. 4, 1976 ]. If the amendments made by section 1601 apply to a taxable year ending on or before the date of enactment of this Act:
+
+## Source Credit
+
+*(Added [Pub. L. 86–779, § 10(a)](https://www.govinfo.gov/link/plaw/86/public/779), Sept. 14, 1960, [74 Stat. 1006](https://www.govinfo.gov/link/statute/74/1006); amended [Pub. L. 88–272, title II, § 201(d)(11)](https://www.govinfo.gov/link/plaw/88/public/272), Feb. 26, 1964, [78 Stat. 32](https://www.govinfo.gov/link/statute/78/32); [Pub. L. 91–172, title V, § 511(c)(3)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 637](https://www.govinfo.gov/link/statute/83/637); [Pub. L. 93–625, § 6(c)](https://www.govinfo.gov/link/plaw/93/public/625), (d)(2)–(4), Jan. 3, 1975, [88 Stat. 2113](https://www.govinfo.gov/link/statute/88/2113), 2114; [Pub. L. 94–455, title XIV, § 1402(b)(1)(P)](https://www.govinfo.gov/link/plaw/94/public/455), (2), title XVI, §§ 1601(c), 1602(b), 1603(b), (c)(5), 1604(c)(2), (f)(3)(B), (j), (k)(2)(B), 1605(b)(2), 1606(a), (d), 1607(a), (b)(1)(A), (2), (3), title XIX, §§ 1901(a)(112), (b)(1)(V), (33)(K), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1732](https://www.govinfo.gov/link/statute/90/1732), 1746–1748, 1750–1757, 1783, 1792, 1801, 1834; [Pub. L. 95–600, title III](https://www.govinfo.gov/link/plaw/95/public/600), §§ 301(b)(12), 362(d)(3), 363(b), title IV, § 403(c)(3), Nov. 6, 1978, [92 Stat. 2822](https://www.govinfo.gov/link/statute/92/2822), 2851, 2852, 2868; [Pub. L. 96–222, title I, § 103(a)(1)](https://www.govinfo.gov/link/plaw/96/public/222), Apr. 1, 1980, [94 Stat. 208](https://www.govinfo.gov/link/statute/94/208); [Pub. L. 96–223, title IV, § 404(b)(8)](https://www.govinfo.gov/link/plaw/96/public/223), Apr. 2, 1980, [94 Stat. 307](https://www.govinfo.gov/link/statute/94/307); [Pub. L. 97–34, title III, § 302(c)(5)](https://www.govinfo.gov/link/plaw/97/public/34), (d)(1), Aug. 13, 1981, [95 Stat. 273](https://www.govinfo.gov/link/statute/95/273), 274; [Pub. L. 98–369, div. A, title I](https://www.govinfo.gov/link/plaw/98/public/369), §§ 16(a), 55(b), title X, § 1001(b)(13), (e), July 18, 1984, [98 Stat. 505](https://www.govinfo.gov/link/statute/98/505), 572, 1011, 1012; [Pub. L. 99–514, title VI](https://www.govinfo.gov/link/plaw/99/public/514), §§ 612(b)(7), 661(b), 664, 665(a), (b)(1), 666, 668(b)(1)(A), (2), (3), Oct. 22, 1986, [100 Stat. 2251](https://www.govinfo.gov/link/statute/100/2251), 2300, 2303–2305, 2307, 2308; [Pub. L. 100–647, title I](https://www.govinfo.gov/link/plaw/100/public/647), §§ 1006(r), (s)(2), (4), (5), 1018(u)(28), Nov. 10, 1988, [102 Stat. 3418](https://www.govinfo.gov/link/statute/102/3418), 3419, 3591; [Pub. L. 101–508, title XI, § 11704(a)(37)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–520](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 105–34, title XII](https://www.govinfo.gov/link/plaw/105/public/34), §§ 1251(a), 1254(a), (b)(1), 1255(b)(2), (3), 1256, 1259, 1260, Aug. 5, 1997, [111 Stat. 1030](https://www.govinfo.gov/link/statute/111/1030), 1032–1035; [Pub. L. 105–206, title VI, § 6012(g)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 819](https://www.govinfo.gov/link/statute/112/819); [Pub. L. 106–170, title V](https://www.govinfo.gov/link/plaw/106/public/170), §§ 532(c)(2)(L), (M), 545, 556(a), (b), 566(a)(2), (b), Dec. 17, 1999, [113 Stat. 1930](https://www.govinfo.gov/link/statute/113/1930), 1944, 1949, 1950; [Pub. L. 106–554, § 1(a)(7) [title III, § 311(b)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–640; [Pub. L. 107–147, title IV](https://www.govinfo.gov/link/plaw/107/public/147), §§ 413(a), 417(13), Mar. 9, 2002, [116 Stat. 54](https://www.govinfo.gov/link/statute/116/54), 56; [Pub. L. 108–27, title III, § 302(d)](https://www.govinfo.gov/link/plaw/108/public/27), May 28, 2003, [117 Stat. 763](https://www.govinfo.gov/link/statute/117/763); [Pub. L. 108–311, title IV, § 402(a)(5)(E)](https://www.govinfo.gov/link/plaw/108/public/311), Oct. 4, 2004, [118 Stat. 1185](https://www.govinfo.gov/link/statute/118/1185); [Pub. L. 108–357, title II, § 243(c)](https://www.govinfo.gov/link/plaw/108/public/357), (e), (f)(4), title III, § 321(a), title IV, § 418(b), Oct. 22, 2004, [118 Stat. 1442](https://www.govinfo.gov/link/statute/118/1442), 1445, 1473, 1512; [Pub. L. 109–135, title IV](https://www.govinfo.gov/link/plaw/109/public/135), §§ 403(d)(3), 412(ii), Dec. 21, 2005, [119 Stat. 2622](https://www.govinfo.gov/link/statute/119/2622), 2639; [Pub. L. 110–172, § 11(a)(17)(B)](https://www.govinfo.gov/link/plaw/110/public/172), Dec. 29, 2007, [121 Stat. 2486](https://www.govinfo.gov/link/statute/121/2486); [Pub. L. 110–234, title XV](https://www.govinfo.gov/link/plaw/110/public/234), §§ 15311(c), 15315(a)–(d), May 22, 2008, [122 Stat. 1503–1505](https://www.govinfo.gov/link/statute/122/1503); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XV, §§ 15311(c), 15315(a)–(d), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2265–2267; [Pub. L. 110–289, div. C, title II](https://www.govinfo.gov/link/plaw/110/public/289), §§ 3033, 3051, 3052, July 30, 2008, [122 Stat. 2900](https://www.govinfo.gov/link/statute/122/2900), 2901; [Pub. L. 114–113, div. Q, title III](https://www.govinfo.gov/link/plaw/114/public/113), §§ 313(a), (b), 316(a), 320(a), 321(a)(1), (2), (b), 322(a)(2)(B), Dec. 18, 2015, [129 Stat. 3091–3093](https://www.govinfo.gov/link/statute/129/3091), 3096, 3097, 3101; [Pub. L. 115–97, title I, § 13001(b)(2)(K)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2096](https://www.govinfo.gov/link/statute/131/2096); [Pub. L. 115–141, div. U, title IV, § 401(a)(148)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1191](https://www.govinfo.gov/link/statute/132/1191).)*

@@ -3,12 +3,17 @@ title: "Section 1386 - Definitions"
 usc_title: 22
 usc_section: "1386"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 1386"
-generated_at: "2026-03-30T02:55:05.331Z"
+generated_at: "2026-11-23T20:26:32.098Z"
+status: "active"
 ---
 
 # § 1386. Definitions
 
 For the purposes of this subchapter the term “Philippine Government” shall mean “Government of the Commonwealth of the Philippines” until the date of independence, and thereafter it shall mean the “Government of the Republic of the Philippines”.
 
+
+## Source Credit
+
+*(July 3, 1946, ch. 536, § 7, [60 Stat. 420](https://www.govinfo.gov/link/statute/60/420).)*

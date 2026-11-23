@@ -3,9 +3,10 @@ title: "Section 716 - Public employee insignia and uniform"
 usc_title: 18
 usc_section: "716"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 716"
-generated_at: "2026-03-30T02:54:16.469Z"
+generated_at: "2026-11-23T20:26:08.403Z"
+status: "active"
 ---
 
 # § 716. Public employee insignia and uniform
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:16.469Z"
 - **(d)** It is a defense to a prosecution under this section that the official insignia or uniform is not used or intended to be used to mislead or deceive, or is a counterfeit insignia or uniform and is used or is intended to be used exclusively—
   - **(1)** for a dramatic presentation, such as a theatrical, film, or television production; or
   - **(2)** for legitimate law enforcement purposes.
+
+## Source Credit
+
+*(Added [Pub. L. 106–547, § 3(a)](https://www.govinfo.gov/link/plaw/106/public/547), Dec. 19, 2000, [114 Stat. 2739](https://www.govinfo.gov/link/statute/114/2739); amended [Pub. L. 109–162, title XI, § 1191(a)](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3128](https://www.govinfo.gov/link/statute/119/3128).)*

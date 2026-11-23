@@ -3,9 +3,10 @@ title: "Section 1395fff - Prospective payment for home health services"
 usc_title: 42
 usc_section: "1395fff"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1395fff"
-generated_at: "2026-03-30T02:56:11.028Z"
+generated_at: "2026-11-23T20:27:21.483Z"
+status: "active"
 ---
 
 # § 1395fff. Prospective payment for home health services
@@ -79,3 +80,173 @@ generated_at: "2026-03-30T02:56:11.028Z"
     - **(A)** do not substitute for in-person home health services ordered as part of a plan of care certified by a physician 2 a nurse practitioner or clinical nurse specialist, or a physician assistant pursuant to section 1395f(a)(2)(C) or 1395n(a)(2)(A) of this title; and
     - **(B)** are not considered a home health visit for purposes of eligibility or payment under this subchapter.
   - **(2)** Nothing in this section shall be construed as waiving the requirement for a certification under section 1395f(a)(2)(C) or 1395n(a)(2)(A) of this title for the payment for home health services, whether or not furnished via a telecommunications system.
+
+(aa) In general For the year beginning on the specified application date (as defined in subsection (a)(2)(E) of section 1395 lll of this title), as applicable with respect to home health agencies and quality measures under subsection (c)(1) of such section and measures under subsection (d)(1) of such section, and each subsequent year, in addition to the data described in subclause (II), each home health agency shall submit to the Secretary data on such quality measures and any necessary data specified by the Secretary under such subsection (d)(1).
+
+(bb) Standardized patient assessment data For 2019 and each subsequent year, in addition to such data described in item (aa), each home health agency shall submit to the Secretary standardized patient assessment data required under subsection (b)(1) of section 1395 lll of this title.
+
+(cc) Submission Data shall be submitted under items (aa) and (bb) in the form and manner, and at the time, specified by the Secretary for purposes of this clause.
+
+Transparency
+
+Engagement With Stakeholders.—
+
+In general
+
+Requirement
+
+Construction
+
+In general
+
+Considerations
+
+Report
+
+Consultations
+
+Medicare demonstration project based on the results of the study.—
+
+In general
+
+Waiving budget neutrality
+
+No effect on subsequent periods
+
+Duration
+
+Funding
+
+Evaluation and report
+
+Administration
+
+In General
+
+Subsequent Temporary Increase.—
+
+In general
+
+Rules for determinations.—
+
+No switching
+
+Utilization
+
+Population density
+
+Limitations on review
+
+Waiving Budget Neutrality
+
+No Effect on Subsequent Periods
+
+Establishment
+
+Payment.—
+
+In general
+
+Adjustment in case of overutilization of substitute adult day-care services to ensure budget neutrality
+
+Demonstration Project Sites
+
+Duration
+
+Voluntary Participation
+
+Preference in Selecting Agencies
+
+Waiver Authority
+
+Evaluation and Report
+
+Definitions
+
+Home health agency
+
+Medical adult day-care facility
+
+Medical adult day-care services
+
+Medicare beneficiary
+
+In General
+
+Period of Suspension
+
+Report.—
+
+Study
+
+Report
+
+Construction
+
+Study
+
+Report
+
+In general
+
+No effect on other payments or determinations
+
+In General
+
+Exceptions
+
+-Month Increase Beginning April
+
+Waiving Budget Neutrality
+
+Transitional allowance for full marketbasket [sic] increase
+
+Temporary increase for rural home health services
+
+Adjustment To Reflect Administrative Costs
+
+In general
+
+Payment schedule
+
+Midyear payment
+
+Upon settled cost report
+
+Payment from trust funds
+
+Definitions
+
+Home health agency
+
+Home health services
+
+Medicare beneficiary
+
+GAO Report on Costs of Compliance With OASIS Data Collection Requirements.—
+
+Report to congress.—
+
+In general
+
+Matters studied
+
+Audit
+
+Definitions
+
+Comprehensive assessment of patients
+
+Outcome and assessment information set
+
+Study
+
+Report
+
+Estimate
+
+Annual Report
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1895, as added [Pub. L. 105–33, title IV, § 4603(a)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 467](https://www.govinfo.gov/link/statute/111/467); amended [Pub. L. 105–277, div. J, title V, § 5101(c)(1)](https://www.govinfo.gov/link/plaw/105/public/277), (d)(2), Oct. 21, 1998, [112 Stat. 2681–914](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 106–113, div. B, § 1000(a)(6) [title III, §§ 302(b), 303(b), 306, 321(k)(19)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–359, 1501A–361, 1501A–362, 1501A–368; [Pub. L. 106–554, § 1(a)(6) [title V, §§ 501(a), (c)(1), 504]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–529, 2763A–531; [Pub. L. 108–173, title VII, § 701](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2334](https://www.govinfo.gov/link/statute/117/2334); [Pub. L. 109–171, title V, § 5201(a)](https://www.govinfo.gov/link/plaw/109/public/171), (c), Feb. 8, 2006, [120 Stat. 46](https://www.govinfo.gov/link/statute/120/46); [Pub. L. 111–148, title III](https://www.govinfo.gov/link/plaw/111/public/148), §§ 3131(a)(1), (b), 3401(e), title X, §§ 10315(a), 10319(d), Mar. 23, 2010, [124 Stat. 427](https://www.govinfo.gov/link/statute/124/427), 428, 483, 944, 949; [Pub. L. 113–185, § 2(c)(1)](https://www.govinfo.gov/link/plaw/113/public/185), Oct. 6, 2014, [128 Stat. 1962](https://www.govinfo.gov/link/statute/128/1962); [Pub. L. 114–10, title IV, § 411(c)](https://www.govinfo.gov/link/plaw/114/public/10), Apr. 16, 2015, [129 Stat. 161](https://www.govinfo.gov/link/statute/129/161); [Pub. L. 115–123, div. E, title II, § 50208(a)(2)](https://www.govinfo.gov/link/plaw/115/public/123), title X, § 51001(a), title XII, § 53110, Feb. 9, 2018, [132 Stat. 189](https://www.govinfo.gov/link/statute/132/189), 289, 304; [Pub. L. 116–136, div. A, title III, § 3708(d)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 421](https://www.govinfo.gov/link/statute/134/421).)*

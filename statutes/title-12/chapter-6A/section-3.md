@@ -3,9 +3,10 @@ title: "Section 3 - Tied Aid Credit Fund and program"
 usc_title: 12
 usc_section: "3"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 3"
-generated_at: "2026-03-30T02:53:53.388Z"
+generated_at: "2026-11-23T20:25:58.794Z"
+status: "active"
 ---
 
 # § 635i–3. Tied Aid Credit Fund and program
@@ -98,3 +99,13 @@ generated_at: "2026-03-30T02:53:53.388Z"
     - **(A)** financing offers made or lines of credit extended on or before February 15, 1992 ; or
     - **(B)** financing offers extended for subloans under lines of credit referred to in subparagraph (A) made on or before August 15, 1992 , or, in the case of Mexico, on or before December 31, 1992 .
   - **(7)** The Bank, in consultation with the Secretary of the Treasury, shall define “market window” for purposes of this section.
+
+Report required
+
+Contents of report
+
+“The Congress finds that—
+
+## Source Credit
+
+*(July 31, 1945, ch. 341, § 10, formerly § 15, as added [Pub. L. 99–472, § 19](https://www.govinfo.gov/link/plaw/99/public/472), Oct. 15, 1986, [100 Stat. 1205](https://www.govinfo.gov/link/statute/100/1205); amended [Pub. L. 100–217](https://www.govinfo.gov/link/plaw/100/public/217), Dec. 29, 1987, [101 Stat. 1454](https://www.govinfo.gov/link/statute/101/1454); [Pub. L. 100–418, title III, § 3302(b)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1383](https://www.govinfo.gov/link/statute/102/1383); [Pub. L. 101–240, title I, § 101(b)](https://www.govinfo.gov/link/plaw/101/public/240), Dec. 19, 1989, [103 Stat. 2493](https://www.govinfo.gov/link/statute/103/2493); [Pub. L. 101–513, title V, § 562(d)](https://www.govinfo.gov/link/plaw/101/public/513), Nov. 5, 1990, [104 Stat. 2036](https://www.govinfo.gov/link/statute/104/2036); renumbered § 10 and amended [Pub. L. 102–429, title I](https://www.govinfo.gov/link/plaw/102/public/429), §§ 103, 121(c)(4), Oct. 21, 1992, [106 Stat. 2187](https://www.govinfo.gov/link/statute/106/2187), 2199; [Pub. L. 104–97, § 1](https://www.govinfo.gov/link/plaw/104/public/97), Jan. 11, 1996, [109 Stat. 984](https://www.govinfo.gov/link/statute/109/984); [Pub. L. 104–107, title V, § 579](https://www.govinfo.gov/link/plaw/104/public/107), Feb. 12, 1996, [110 Stat. 751](https://www.govinfo.gov/link/statute/110/751); [Pub. L. 105–121, § 3](https://www.govinfo.gov/link/plaw/105/public/121), Nov. 26, 1997, [111 Stat. 2528](https://www.govinfo.gov/link/statute/111/2528); [Pub. L. 106–569, title XI, § 1103(d)(2)](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 3031](https://www.govinfo.gov/link/statute/114/3031); [Pub. L. 107–189](https://www.govinfo.gov/link/plaw/107/public/189), §§ 9, 10(c), (d), 24(a)(2)(E), June 14, 2002, [116 Stat. 701](https://www.govinfo.gov/link/statute/116/701), 703, 704, 708; [Pub. L. 109–438, § 10](https://www.govinfo.gov/link/plaw/109/public/438), Dec. 20, 2006, [120 Stat. 3275](https://www.govinfo.gov/link/statute/120/3275).)*

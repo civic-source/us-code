@@ -3,9 +3,10 @@ title: "Section 22402 - Direct loans and loan guarantees"
 usc_title: 49
 usc_section: "22402"
 chapter: 224
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 22402"
-generated_at: "2026-03-30T02:56:19.340Z"
+generated_at: "2026-11-23T20:27:34.831Z"
+status: "active"
 ---
 
 # § 22402. Direct loans and loan guarantees
@@ -176,3 +177,133 @@ generated_at: "2026-03-30T02:56:19.340Z"
     - **(C)** provide for the obligation of funds for the direct loans or loan guarantees contingent on and after all requirements have been met for the projects subject to the master credit agreement; and
     - **(D)** provide 1 or more dates, as determined by the Secretary, before which the master credit agreement results in each of the direct loans or loan guarantees or in the release of the master credit agreement.
 - **(n)** The proceeds of a loan provided under this section may be used as the non-Federal share of project costs for any grant program administered by the Secretary if such loan is repayable from non-Federal funds.
+
+General Authority
+
+Eligible Purposes.—
+
+In general
+
+Operating expenses not eligible
+
+Priority Projects
+
+Extent of Authority
+
+Rates of Interest.—
+
+Direct loans
+
+Loan guarantees
+
+Infrastructure Partners.—
+
+Authority of secretary
+
+Credit risk premium amount
+
+Creditworthiness
+
+Payment of premiums
+
+Cohorts of loans
+
+Collateral.—
+
+Types of collateral
+
+(aa) inclusion in the pledge of all the assets necessary for independent operational utility of the collateral, including tangible assets such as real property, track and structure, motive power, equipment and rolling stock, stations, systems and maintenance facilities and intangible assets such as long-term shipping agreements, easements, leases and access rights such as for trackage and haulage;
+
+(bb) interchange commitments; and
+
+(cc) the value of the asset as determined through the cost or market approaches, or the market value of the going concern, with the latter considering discounted cash flows for a period not to exceed the term of the direct loan or loan guarantee.
+
+Appraisal standards
+
+Repayment of credit risk premiums
+
+Prerequisites for Assistance
+
+Conditions of Assistance.—
+
+Application Processing Procedures.—
+
+Application status notices
+
+Incomplete applications
+
+Application approvals and disapprovals.—
+
+In general
+
+Actions by the Office of Management and Budget
+
+Streamlined application review process.—
+
+In general
+
+Criteria
+
+Expedited credit review
+
+Dashboard
+
+Creditworthiness review status.—
+
+In general
+
+Report upon request
+
+Exception
+
+Repayment Schedules.—
+
+In general
+
+Accrual
+
+Deferred payments.—
+
+In general
+
+Interest
+
+Prepayments.—
+
+Use of excess revenues
+
+Use of proceeds of refinancing
+
+Sale of Direct Loans.—
+
+In general
+
+Consent of obligor
+
+Nonsubordination.—
+
+In general
+
+Preexisting indentures.—
+
+In general
+
+Limitation
+
+Master Credit Agreements.—
+
+In general
+
+Conditions
+
+Non-Federal Share
+
+“Not later than 6 months after the date of enactment of this Act [ Nov. 15, 2021 ], and every 6 months thereafter, the Secretary [of Transportation] shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives that identifies—
+
+In general
+
+Deadline described
+
+## Source Credit
+
+*(Added and amended [Pub. L. 117–58, div. B, title I, § 21301(a)(2)](https://www.govinfo.gov/link/plaw/117/public/58), (4), (d), Nov. 15, 2021, [135 Stat. 683](https://www.govinfo.gov/link/statute/135/683), 684.)*

@@ -3,9 +3,10 @@ title: "Section 9403 - Imposition of additional sanctions in response to Iran’
 usc_title: 22
 usc_section: "9403"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9403"
-generated_at: "2026-03-30T02:55:05.465Z"
+generated_at: "2026-11-23T20:26:32.769Z"
+status: "active"
 ---
 
 # § 9403. Imposition of additional sanctions in response to Iran’s ballistic missile program
@@ -34,3 +35,15 @@ generated_at: "2026-03-30T02:55:05.465Z"
     - **(A)** in the case of the first report submitted under paragraph (1), the period beginning January 1, 2016 , and ending on the date the report is submitted; and
     - **(B)** in the case of a subsequent such report, the 180-day period preceding the submission of the report.
   - **(3)** Each report required by paragraph (1) shall be submitted in unclassified form but may include a classified annex.
+
+Section
+
+Sec
+
+Sec
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 115–44, title I, § 104](https://www.govinfo.gov/link/plaw/115/public/44), Aug. 2, 2017, [131 Stat. 890](https://www.govinfo.gov/link/statute/131/890).)*

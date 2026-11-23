@@ -3,9 +3,10 @@ title: "Section 521a - Administration, management, and consolidation of certain 
 usc_title: 16
 usc_section: "521a"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 521a"
-generated_at: "2026-03-30T02:54:22.861Z"
+generated_at: "2026-11-23T20:26:20.097Z"
+status: "active"
 ---
 
 # § 521a. Administration, management, and consolidation of certain lands
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:22.861Z"
   - **(1)** affecting the status of lands administered by the Secretary of Agriculture under the Act of June 24, 1954 ( 68 Stat. 270 ), and which are revested Oregon and California Railroad grant lands, administered as national forest lands, or
   - **(2)** changing the disposition of revenues from or authorizing the exchange of the lands, or the timber thereon, described in the Act of February 11, 1920 (ch. 69, 41 Stat. 405 ), the Act of September 22, 1922 (ch. 407, 42 Stat. 1019 ), and the Act of June 4, 1936 (ch. 494, 49 Stat. 1460 ).
 
+
+## Source Credit
+
+*([Pub. L. 85–862](https://www.govinfo.gov/link/plaw/85/public/862), Sept. 2, 1958, [72 Stat. 1571](https://www.govinfo.gov/link/statute/72/1571).)*

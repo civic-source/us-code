@@ -3,9 +3,10 @@ title: "Section 218a - Abraham Lincoln Birthplace National Historical Park, Kent
 usc_title: 16
 usc_section: "218a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 218a"
-generated_at: "2026-03-30T02:54:22.742Z"
+generated_at: "2026-11-23T20:26:19.386Z"
+status: "active"
 ---
 
 # § 218a. Abraham Lincoln Birthplace National Historical Park, Kentucky
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:22.742Z"
     - **(B)** identify current and potential uses of Knob Creek Farm for recreational, interpretive, and educational opportunities; and
     - **(C)** project costs and potential revenues associated with acquisition, development, and operation of Knob Creek Farm.
 - **(d)** There are authorized to be appropriated such sums as may be necessary to carry out subsection (c).
+
+## Source Credit
+
+*([Pub. L. 105–355, title V, § 510](https://www.govinfo.gov/link/plaw/105/public/355), Nov. 6, 1998, [112 Stat. 3265](https://www.govinfo.gov/link/statute/112/3265); [Pub. L. 111–11, title VII, § 7114(b)](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1202](https://www.govinfo.gov/link/statute/123/1202).)*

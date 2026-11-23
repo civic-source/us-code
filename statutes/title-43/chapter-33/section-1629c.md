@@ -3,9 +3,10 @@ title: "Section 1629c - Duration of alienability restrictions"
 usc_title: 43
 usc_section: "1629c"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1629c"
-generated_at: "2026-03-30T02:55:57.483Z"
+generated_at: "2026-11-23T20:27:06.337Z"
+status: "active"
 ---
 
 # § 1629c. Duration of alienability restrictions
@@ -92,3 +93,7 @@ generated_at: "2026-03-30T02:55:57.483Z"
         - **(II)** investment power, which includes the power to dispose of, or to direct the disposition of, such security.
       - **(iv)** Any person who, directly or indirectly, creates or uses a trust, proxy, power of attorney, pooling arrangement, or any other contract, arrangement, or device with the purpose or effect of divesting such person of beneficial ownership of a security or preventing the vesting of such beneficial ownership as part of a plan or scheme to evade the requirements imposed by this section or section 78m(d) of title 15 shall be deemed for purposes of such sections to be the beneficial owner of such security.
     - **(C)** The statement required by subparagraph (B) shall be verified by the transferee before a notary public or other official authorized to administer oaths in accordance with the laws of the jurisdiction of the transferee or in which the transfer is made.
+
+## Source Credit
+
+*([Pub. L. 92–203, § 37](https://www.govinfo.gov/link/plaw/92/public/203), as added [Pub. L. 100–241, § 8](https://www.govinfo.gov/link/plaw/100/public/241), Feb. 3, 1988, [101 Stat. 1797](https://www.govinfo.gov/link/statute/101/1797); amended [Pub. L. 101–378, title III, § 301](https://www.govinfo.gov/link/plaw/101/public/378), Aug. 17, 1990, [104 Stat. 471](https://www.govinfo.gov/link/statute/104/471); [Pub. L. 102–201, title III, § 301](https://www.govinfo.gov/link/plaw/102/public/201), Dec. 10, 1991, [105 Stat. 1633](https://www.govinfo.gov/link/statute/105/1633).)*

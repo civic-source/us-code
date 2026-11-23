@@ -3,9 +3,10 @@ title: "Section 8191 - Determination of eligibility"
 usc_title: 5
 usc_section: "8191"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8191"
-generated_at: "2026-03-30T02:52:56.043Z"
+generated_at: "2026-11-23T20:25:32.108Z"
+status: "active"
 ---
 
 # § 8191. Determination of eligibility
@@ -18,3 +19,7 @@ The benefits of this subchapter are available as provided in this subchapter to 
     - **(C)** who at that time was sought as a material witness in a criminal proceeding instituted by the United States; or
   - **(2)** a law enforcement officer and to have been engaged on that occasion in protecting or guarding a person held for the commission of a crime against the United States or as a material witness in connection with such a crime; or
   - **(3)** a law enforcement officer and to have been engaged on that occasion in the lawful prevention of, or lawful attempt to prevent, the commission of a crime against the United States;
+
+## Source Credit
+
+*(Added [Pub. L. 90–291, § 1(a)](https://www.govinfo.gov/link/plaw/90/public/291), Apr. 19, 1968, [82 Stat. 98](https://www.govinfo.gov/link/statute/82/98); amended [Pub. L. 90–623, § 1(20)](https://www.govinfo.gov/link/plaw/90/public/623), Oct. 22, 1968, [82 Stat. 1313](https://www.govinfo.gov/link/statute/82/1313).)*

@@ -3,9 +3,10 @@ title: "Section 3253 - Continuation of State activities and policies"
 usc_title: 29
 usc_section: "3253"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3253"
-generated_at: "2026-03-30T02:55:18.761Z"
+generated_at: "2026-11-23T20:26:38.134Z"
+status: "active"
 ---
 
 # § 3253. Continuation of State activities and policies
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:18.761Z"
 - **(b)** In this section:
   - **(1)** The term “covered State” means a State that enacted State laws described in paragraph (2).
   - **(2)** The term “prior consistent State laws” means State laws, not inconsistent with the Job Training Partnership Act or any other applicable Federal law, that took effect on September 1, 1993 , September 1, 1995 , and September 1, 1997 .
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 193](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1604](https://www.govinfo.gov/link/statute/128/1604).)*

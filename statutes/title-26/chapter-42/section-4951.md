@@ -3,9 +3,10 @@ title: "Section 4951 - Taxes on self-dealing"
 usc_title: 26
 usc_section: "4951"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 4951"
-generated_at: "2026-03-30T02:55:27.808Z"
+generated_at: "2026-11-23T20:26:46.352Z"
+status: "active"
 ---
 
 # § 4951. Taxes on self-dealing
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:55:27.808Z"
     - **(G)** a partnership in which persons described in subparagraph (A), (B), (C), (D), or (E), own more than 35 percent of the profits interest, or
     - **(H)** a trust or estate in which persons described in subparagraph (A), (B), (C), (D), or (E), hold more than 35 percent of the beneficial interest.
 - **(f)** For purposes of this section, a payment, out of assets or income of a trust described in section 501(c)(21), for the purposes described in subclause (I) or (IV) of section 501(c)(21)(A)(i) shall not be considered an act of self-dealing.
+
+## Source Credit
+
+*(Added [Pub. L. 95–227, § 4(c)(1)](https://www.govinfo.gov/link/plaw/95/public/227), Feb. 10, 1978, [92 Stat. 18](https://www.govinfo.gov/link/statute/92/18); amended [Pub. L. 96–596, § 2(a)(1)(G)](https://www.govinfo.gov/link/plaw/96/public/596), (H), (2)(F), (3)(E), Dec. 24, 1980, [94 Stat. 3469–3471](https://www.govinfo.gov/link/statute/94/3469); [Pub. L. 102–486, title XIX, § 1940(b)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3035](https://www.govinfo.gov/link/statute/106/3035).)*

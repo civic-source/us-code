@@ -3,9 +3,10 @@ title: "Section 551d - Wildland firefighter safety"
 usc_title: 16
 usc_section: "551d"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 551d"
-generated_at: "2026-03-30T02:54:22.875Z"
+generated_at: "2026-11-23T20:26:20.144Z"
+status: "active"
 ---
 
 # § 551d. Wildland firefighter safety
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:22.875Z"
         - **(I)** the provisions relating to wildland firefighter safety practices in any Federal contract or other agreement governing the provision of wildland firefighters by a non-Federal entity;
         - **(II)** a summary of any actions taken by the Secretaries to ensure that the provisions relating to safety practices, including training, are complied with by the non-Federal entity; and
         - **(III)** the results of those actions.
+
+## Source Credit
+
+*([Pub. L. 111–11, title III, § 3101](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1127](https://www.govinfo.gov/link/statute/123/1127).)*

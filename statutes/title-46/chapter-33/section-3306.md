@@ -3,9 +3,10 @@ title: "Section 3306 - Regulations"
 usc_title: 46
 usc_section: "3306"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 3306"
-generated_at: "2026-03-30T02:56:15.543Z"
+generated_at: "2026-11-23T20:27:27.070Z"
+status: "active"
 ---
 
 # § 3306. Regulations
@@ -75,3 +76,136 @@ generated_at: "2026-03-30T02:56:15.543Z"
       - **(i)** has overnight passenger accommodations; or
       - **(ii)** is operating on a coastwise or oceans route; and
     - **(B)** does not include a ferry (as defined in section 2101) or fishing vessel (as defined in section 2101).
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 3306 | 46:366 |
+|  | 46:369 |
+|  | 46:375 |
+|  | 46:390b |
+|  | 46:392 |
+|  | 46:404 |
+|  | 46:408 |
+|  | 46:411 |
+|  | 46:412 |
+|  | 46:416 |
+|  | 46:420 |
+|  | 46:445 |
+|  | 46:459 |
+|  | 46:473 |
+|  | 46:477 |
+|  | 46:478 |
+|  | 46:479 |
+|  | 46:481 |
+|  | 46:482 |
+|  | 46:483 |
+|  | 46:489 |
+|  | 46:526p |
+|  | 46:1295f(c) |
+
+
+Covered Small Passenger Vessels.—
+
+Regulations
+
+Comprehensive review
+
+Requirements.—
+
+In general
+
+Applicability to certain covered small passenger vessels
+
+Interim requirements.—
+
+Interim requirements
+
+Implementation
+
+Definition of covered small passenger vessel
+
+Historical and Revision Notes
+
+3306
+
+Extension authority.—
+
+In general
+
+Plan required
+
+Extension
+
+Limitation
+
+Notice to passengers
+
+Overnight fishing charter defined
+
+“The Secretary shall—
+
+Rulemaking Required.—
+
+In general
+
+Deadline for regulations
+
+Requirements
+
+Consideration
+
+Waiver
+
+Notice to Passengers
+
+Interim Requirements
+
+Implementation
+
+Definitions
+
+Appropriate congressional committees
+
+DUKW amphibious passenger vessel
+
+Report on Historic Wood Sailing Vessels.—
+
+In general
+
+Elements
+
+Consultation
+
+Waiver for Covered Historic Vessels
+
+Waiver for Other Historic Wood Sailing Vessels.—
+
+In general
+
+Request and alternative arrangements
+
+Savings Clause
+
+Notice to Passengers
+
+Definitions
+
+Covered historic vessels
+
+Historic wood sailing vessel
+
+In General
+
+Assessment
+
+Submission
+
+Regulations
+
+Savings Clause
+
+Report Required
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 513](https://www.govinfo.gov/link/statute/97/513); [Pub. L. 98–364, title IV, § 402(5)](https://www.govinfo.gov/link/plaw/98/public/364), July 17, 1984, [98 Stat. 446](https://www.govinfo.gov/link/statute/98/446); [Pub. L. 103–206, title V, § 512(a)](https://www.govinfo.gov/link/plaw/103/public/206), Dec. 20, 1993, [107 Stat. 2442](https://www.govinfo.gov/link/statute/107/2442); [Pub. L. 104–324, title VI, § 604(a)](https://www.govinfo.gov/link/plaw/104/public/324), (c), title VII, § 712, Oct. 19, 1996, [110 Stat. 3930](https://www.govinfo.gov/link/statute/110/3930), 3931, 3936; [Pub. L. 108–293, title IV, § 415(b)](https://www.govinfo.gov/link/plaw/108/public/293), Aug. 9, 2004, [118 Stat. 1047](https://www.govinfo.gov/link/statute/118/1047); [Pub. L. 109–304, § 15(12)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1703](https://www.govinfo.gov/link/statute/120/1703); [Pub. L. 111–281, title VI, § 612](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2970](https://www.govinfo.gov/link/statute/124/2970); [Pub. L. 115–232, div. C, title XXXV, § 3542(b)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2324](https://www.govinfo.gov/link/statute/132/2324); [Pub. L. 115–265, title II, § 206(a)(1)](https://www.govinfo.gov/link/plaw/115/public/265), Oct. 11, 2018, [132 Stat. 3746](https://www.govinfo.gov/link/statute/132/3746); [Pub. L. 116–283, div. G, title LVXXXIV](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXIV], § 8441(a), Jan. 1, 2021, [134 Stat. 4742](https://www.govinfo.gov/link/statute/134/4742).)*

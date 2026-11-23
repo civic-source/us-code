@@ -3,9 +3,10 @@ title: "Section 983 - General rules for civil forfeiture proceedings"
 usc_title: 18
 usc_section: "983"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 983"
-generated_at: "2026-03-30T02:54:16.477Z"
+generated_at: "2026-11-23T20:26:08.444Z"
+status: "active"
 ---
 
 # § 983. General rules for civil forfeiture proceedings
@@ -165,3 +166,27 @@ generated_at: "2026-03-30T02:54:16.477Z"
   - **(2)** An order entered pursuant to paragraph (1)(B) shall be effective for not more than 90 days, unless extended by the court for good cause shown, or unless a complaint described in paragraph (1)(A) has been filed.
   - **(3)** A temporary restraining order under this subsection may be entered upon application of the United States without notice or opportunity for a hearing when a complaint has not yet been filed with respect to the property, if the United States demonstrates that there is probable cause to believe that the property with respect to which the order is sought is subject to civil forfeiture and that provision of notice will jeopardize the availability of the property for forfeiture. Such a temporary order shall expire not more than 14 days after the date on which it is entered, unless extended for good cause shown or unless the party against whom it is entered consents to an extension for a longer period. A hearing requested concerning an order entered under this paragraph shall be held at the earliest possible time and prior to the expiration of the temporary order.
   - **(4)** The court may receive and consider, at a hearing held pursuant to this subsection, evidence and information that would be inadmissible under the Federal Rules of Evidence.
+
+Notice; Claim; Complaint.—
+
+Representation.—
+
+Burden of Proof
+
+Innocent Owner Defense.—
+
+Motion To Set Aside Forfeiture.—
+
+Release Of Seized Property.—
+
+Proportionality.—
+
+Civil Fine.—
+
+Civil Forfeiture Statute Defined
+
+Restraining Orders; Protective Orders.—
+
+## Source Credit
+
+*(Added and amended [Pub. L. 106–185](https://www.govinfo.gov/link/plaw/106/public/185), §§ 2(a), 9, Apr. 25, 2000, [114 Stat. 202](https://www.govinfo.gov/link/statute/114/202), 216; [Pub. L. 106–561, § 3(a)](https://www.govinfo.gov/link/plaw/106/public/561), Dec. 21, 2000, [114 Stat. 2791](https://www.govinfo.gov/link/statute/114/2791); [Pub. L. 107–56, title III, § 316(d)](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 310](https://www.govinfo.gov/link/statute/115/310); [Pub. L. 111–16, § 3(1)](https://www.govinfo.gov/link/plaw/111/public/16), May 7, 2009, [123 Stat. 1607](https://www.govinfo.gov/link/statute/123/1607); [Pub. L. 114–122, title I, § 105(b)](https://www.govinfo.gov/link/plaw/114/public/122), Feb. 18, 2016, [130 Stat. 101](https://www.govinfo.gov/link/statute/130/101).)*

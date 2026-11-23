@@ -3,9 +3,10 @@ title: "Section 390h - Program to investigate reclamation and reuse of wastewate
 usc_title: 43
 usc_section: "390h"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 390h"
-generated_at: "2026-03-30T02:55:57.442Z"
+generated_at: "2026-11-23T20:27:06.191Z"
+status: "active"
 ---
 
 # § 390h. Program to investigate reclamation and reuse of wastewater and groundwater; general authority
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:55:57.442Z"
 - **(g)**
   - **(1)** There is authorized to be appropriated to the Secretary of the Interior an additional $50,000,000 to remain available until expended.
   - **(2)** Projects can only receive funding if enacted appropriations legislation designates funding to them by name, after the Secretary recommends specific projects for funding pursuant to subsection (f) and transmits such recommendations to the appropriate committees of Congress.
+
+## Source Credit
+
+*([Pub. L. 102–575, title XVI, § 1602](https://www.govinfo.gov/link/plaw/102/public/575), Oct. 30, 1992, [106 Stat. 4664](https://www.govinfo.gov/link/statute/106/4664); [Pub. L. 106–566, title I, § 104(a)](https://www.govinfo.gov/link/plaw/106/public/566), Dec. 23, 2000, [114 Stat. 2819](https://www.govinfo.gov/link/statute/114/2819); [Pub. L. 114–322, title III, § 4009(c)](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1868](https://www.govinfo.gov/link/statute/130/1868).)*

@@ -3,9 +3,10 @@ title: "Section 20106 - Restrictions"
 usc_title: 36
 usc_section: "20106"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 20106"
-generated_at: "2026-03-30T02:55:44.691Z"
+generated_at: "2026-11-23T20:26:58.786Z"
+status: "active"
 ---
 
 # § 20106. Restrictions
@@ -17,3 +18,44 @@ generated_at: "2026-03-30T02:55:44.691Z"
 - **(e)** None of the principal or interest of a fund referred to in section 20102(1) of this title may be contributed to an organization if—
   - **(1)** a substantial part of its activities is carrying on propaganda or attempting to influence legislation; or
   - **(2)** any part of its net earnings benefits a private shareholder or individual.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 20106(a) | 36:982. | Aug. 31, 1960 , Pub. L. 86–680 , §§ 3(A) (1st sentence proviso), 9, 10, 12, 74 Stat. 573 , 575, 576. |
+| 20106(b) | 36:980. |  |
+| 20106(c) | 36:979(a). |  |
+| 20106(d) | 36:979(b). |  |
+| 20106(e) | 36:973(A) (proviso). |  |
+
+
+Stock and Dividends
+
+Political Activities
+
+Distribution of Income or Assets
+
+Loans
+
+Contributions to Certain Organizations
+
+Historical and Revision Notes
+
+20106(a)
+
+Aug. 31, 1960
+
+Pub. L. 86–680
+
+74 Stat. 573
+
+20106(b)
+
+20106(c)
+
+20106(d)
+
+20106(e)
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1285](https://www.govinfo.gov/link/statute/112/1285).)*

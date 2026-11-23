@@ -3,9 +3,10 @@ title: "Section 9622 - Settlements"
 usc_title: 42
 usc_section: "9622"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9622"
-generated_at: "2026-03-30T02:56:11.361Z"
+generated_at: "2026-11-23T20:27:23.117Z"
+status: "active"
 ---
 
 # § 9622. Settlements
@@ -113,3 +114,7 @@ generated_at: "2026-03-30T02:56:11.361Z"
 - **(k)** The provisions of this section shall not apply to releases from a vessel.
 - **(l)** A potentially responsible party which is a party to an administrative order or consent decree entered pursuant to an agreement under this section or section 9620 of this title (relating to Federal facilities) or which is a party to an agreement under section 9620 of this title and which fails or refuses to comply with any term or condition of the order, decree or agreement shall be subject to a civil penalty in accordance with section 9609 of this title .
 - **(m)** In the case of consent decrees and other settlements under this section (including covenants not to sue), no provision of this chapter shall be construed to preclude or otherwise affect the applicability of general principles of law regarding the setting aside or modification of consent decrees or other settlements.
+
+## Source Credit
+
+*([Pub. L. 96–510, title I, § 122](https://www.govinfo.gov/link/plaw/96/public/510), as added [Pub. L. 99–499, title I, § 122(a)](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1678](https://www.govinfo.gov/link/statute/100/1678); amended [Pub. L. 107–118, title I, § 102(b)](https://www.govinfo.gov/link/plaw/107/public/118), Jan. 11, 2002, [115 Stat. 2359](https://www.govinfo.gov/link/statute/115/2359).)*

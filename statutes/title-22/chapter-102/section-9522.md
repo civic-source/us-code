@@ -3,9 +3,10 @@ title: "Section 9522 - Codification of sanctions relating to the Russian Federat
 usc_title: 22
 usc_section: "9522"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9522"
-generated_at: "2026-03-30T02:55:05.467Z"
+generated_at: "2026-11-23T20:26:32.776Z"
+status: "active"
 ---
 
 # § 9522. Codification of sanctions relating to the Russian Federation
@@ -24,3 +25,15 @@ generated_at: "2026-03-30T02:55:05.467Z"
     - **(A)** is in the vital national security interests of the United States; or
     - **(B)** will further the enforcement of this chapter; and
   - **(2)** a certification that the Government of the Russian Federation is taking steps to implement the Minsk Agreement to address the ongoing conflict in eastern Ukraine, signed in Minsk, Belarus, on February 11, 2015 , by the leaders of Ukraine, Russia, France, and Germany, the Minsk Protocol, which was agreed to on September 5, 2014 , and any successor agreements that are agreed to by the Government of Ukraine.
+
+Statement of Policy
+
+Implementation
+
+Termination
+
+Waiver
+
+## Source Credit
+
+*([Pub. L. 115–44, title II, § 222](https://www.govinfo.gov/link/plaw/115/public/44), Aug. 2, 2017, [131 Stat. 906](https://www.govinfo.gov/link/statute/131/906).)*

@@ -3,9 +3,10 @@ title: "Section 1275 - Toxicological Advisory Board"
 usc_title: 15
 usc_section: "1275"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1275"
-generated_at: "2026-03-30T02:54:08.131Z"
+generated_at: "2026-11-23T20:26:03.989Z"
+status: "active"
 ---
 
 # § 1275. Toxicological Advisory Board
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:08.131Z"
   - **(4)** The Board shall meet at such times and places as may be designated by the Commission in consultation with the Chairman, but not less than two times each year.
   - **(5)** Members of the Board who are not officers or employees of the United States shall, while attending meetings or conferences of the Board or while otherwise engaged in the business of the Board, be entitled to receive compensation at a rate fixed by the Commission, not exceeding the daily equivalent of the annual rate of basic pay payable for grade GS–18 of the General Schedule under section 5332 of title 5 . While away from their homes or regular places of business, such members may be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed under section 5703(b) 1 1 See References in Text note below. of such title. Individuals serving as members on the Board shall not be considered officers or employees of the United States by reason of receiving payments under this paragraph.
 - **(c)** The Board shall terminate on the date six years after the date it is established under this section.
+
+## Source Credit
+
+*([Pub. L. 86–613, § 20](https://www.govinfo.gov/link/plaw/86/public/613), as added [Pub. L. 95–631, § 10](https://www.govinfo.gov/link/plaw/95/public/631), Nov. 10, 1978, [92 Stat. 3747](https://www.govinfo.gov/link/statute/92/3747); amended [Pub. L. 110–314, title II, § 204(b)(4)(H)](https://www.govinfo.gov/link/plaw/110/public/314), (I), Aug. 14, 2008, [122 Stat. 3042](https://www.govinfo.gov/link/statute/122/3042).)*

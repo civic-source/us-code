@@ -3,9 +3,10 @@ title: "Section 384f - Strengthening FDA and CBP coordination and capacity"
 usc_title: 21
 usc_section: "384f"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 384f"
-generated_at: "2026-03-30T02:54:54.279Z"
+generated_at: "2026-11-23T20:26:27.765Z"
+status: "active"
 ---
 
 # § 384f. Strengthening FDA and CBP coordination and capacity
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:54.279Z"
     - **(B)** innovative technology, including controlled substance detection and testing equipment and other applicable technology, in order to collaborate with the U.S. Customs and Border Protection to share near-real-time information, including information about test results, as appropriate.
   - **(2)** Any technology used in accordance with paragraph (1)(B) shall be interoperable with technology used by other relevant Federal agencies, including the U.S. Customs and Border Protection, as the Secretary determines appropriate and practicable.
 - **(c)** Not later than 6 months after October 24, 2018 , the Secretary, in consultation with the Secretary of Homeland Security and the Postmaster General of the United States Postal Service, shall report to the Committee on Energy and Commerce and the Committee on Homeland Security of the House of Representatives and the Committee on Health, Education, Labor, and Pensions and the Committee on Homeland Security and Governmental Affairs of the Senate on the implementation of this section, including a summary of progress made toward near-real-time information sharing and the interoperability of such technologies.
+
+## Source Credit
+
+*([Pub. L. 115–271, title III, § 3014](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 3937](https://www.govinfo.gov/link/statute/132/3937).)*

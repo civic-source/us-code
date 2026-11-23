@@ -3,9 +3,10 @@ title: "Section 5412 - Powers and duties transferred"
 usc_title: 12
 usc_section: "5412"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5412"
-generated_at: "2026-03-30T02:53:53.537Z"
+generated_at: "2026-11-23T20:25:59.498Z"
+status: "active"
 ---
 
 # § 5412. Powers and duties transferred
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:53:53.537Z"
       - **(ii)** the Corporation shall succeed to all powers, authorities, rights, and duties that were vested in the Office of Thrift Supervision and the Director of the Office of Thrift Supervision on the day before the transfer date relating to the functions transferred under clause (i).
 - **(c)**
 - **(d)** Nothing in this section may be construed to limit or otherwise affect the transfer of powers under title X. 1 1 See References in Text note below.
+
+## Source Credit
+
+*([Pub. L. 111–203, title III, § 312](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1521](https://www.govinfo.gov/link/statute/124/1521).)*

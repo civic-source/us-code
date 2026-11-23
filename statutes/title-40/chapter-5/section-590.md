@@ -3,9 +3,10 @@ title: "Section 590 - Child care"
 usc_title: 40
 usc_section: "590"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 590"
-generated_at: "2026-03-30T02:55:43.376Z"
+generated_at: "2026-11-23T20:26:56.552Z"
+status: "active"
 ---
 
 # § 590. Child care
@@ -46,3 +47,115 @@ generated_at: "2026-03-30T02:55:43.376Z"
   - **(7)** This subsection shall apply with respect to the Senate in the same manner as it applies to an Executive agency, except that—
     - **(A)** the authority granted to the Office of Personnel Management shall be exercised with respect to the Senate, by the Majority and Minority Leaders of the Senate, in accordance with regulations promulgated by the Committee on Rules and Administration of the Senate; and
     - **(B)** amounts may be made available to implement this subsection with respect to the Senate without advance notice to the Committee on Appropriations of the House of Representatives.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 590(a) | 40:490b(c). | Pub. L. 100–202, § 101(m) [title VI, § 616(a)–(d)] , Dec. 22, 1987 , 101 Stat. 1329–423 ; Pub. L. 102–393, title V, § 528 , Oct. 6, 1992 , 106 Stat. 1760 . |
+| 590(b) | 40:490b(a). |  |
+| 590(c) | 40:490b(b)(1), (2), (4). |  |
+| 590(d) | 40:490b(b)(3). |  |
+|  | 40:490b(d). |  |
+| 590(e) | 40:490b note. | Pub. L. 105–277, div. A, § 101(h) [title VI, § 603] , Oct. 21, 1998 , 112 Stat. 2681–513 . |
+| 590(f) | 40:490b(e). | Pub. L. 100–202, § 101(m) [title VI, § 616(e)] , as added Pub. L. 106–554, § 1[(] a)(3) [title VI, § 643], Dec. 21, 2000 , 114 Stat. 2763 A–169. |
+| 590(g) | 40:490b–1. | Pub. L. 107–67, title VI, § 630 , Nov. 12, 2001 , 115 Stat. 552 . |
+
+
+Guidance, Assistance, and Oversight
+
+Allotment of Space in Federal Buildings.—
+
+Definitions
+
+Child care provider
+
+Allotment officer
+
+Allotment
+
+Payment for Space and Services.—
+
+Definition
+
+No charge
+
+Reimbursement for costs
+
+Payment of Other Costs
+
+Reimbursement for Employee Training
+
+Criminal History Background Checks.—
+
+Definition
+
+In general
+
+Nonapplication to legislative branch facilities
+
+Appropriated Amounts for Affordable Child Care.—
+
+Definition
+
+In general
+
+Affordability
+
+Advances
+
+Notification
+
+Application to house of representatives
+
+Application to senate
+
+Historical and Revision Notes
+
+590(a)
+
+Pub. L. 100–202, § 101(m) [title VI, § 616(a)–(d)]
+
+Dec. 22, 1987
+
+101 Stat. 1329–423
+
+Pub. L. 102–393, title V, § 528
+
+Oct. 6, 1992
+
+106 Stat. 1760
+
+590(b)
+
+590(c)
+
+590(d)
+
+590(e)
+
+Pub. L. 105–277, div. A, § 101(h) [title VI, § 603]
+
+Oct. 21, 1998
+
+112 Stat. 2681–513
+
+590(f)
+
+Pub. L. 100–202, § 101(m) [title VI, § 616(e)]
+
+Pub. L. 106–554, § 1[(]
+
+Dec. 21, 2000
+
+114 Stat. 2763
+
+590(g)
+
+Pub. L. 107–67, title VI, § 630
+
+Nov. 12, 2001
+
+115 Stat. 552
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1116](https://www.govinfo.gov/link/statute/116/1116); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 117–328, div. I, title I, § 117(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 4924](https://www.govinfo.gov/link/statute/136/4924); [Pub. L. 118–47, div. E, title I, § 103(a)](https://www.govinfo.gov/link/plaw/118/public/47), Mar. 23, 2024, [138 Stat. 712](https://www.govinfo.gov/link/statute/138/712).)*

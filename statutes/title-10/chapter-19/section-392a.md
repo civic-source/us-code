@@ -3,9 +3,10 @@ title: "Section 392a - Principal Cyber Advisors"
 usc_title: 10
 usc_section: "392a"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 392a"
-generated_at: "2026-03-30T02:53:38.056Z"
+generated_at: "2026-11-23T20:25:50.929Z"
+status: "active"
 ---
 
 # § 392a. Principal Cyber Advisors
@@ -80,3 +81,63 @@ generated_at: "2026-03-30T02:53:38.056Z"
     - **(B)** Each Principal Cyber Advisor under paragraph (1)(A) shall review each proposed budget transmitted under subparagraph (A) and submit to the secretary of the relevant military department a report containing the comments of the Principal Cyber Advisor with respect to all such proposed budgets, together with the certification of the Principal Cyber Advisor regarding whether each proposed budget is adequate.
     - **(C)** Not later than March 31 of each year, each of the secretaries of the military departments shall submit to the congressional defense committees a report specifying each proposed budget for the subsequent fiscal year contained in the most-recent report submitted under subparagraph (B) that the Principal Cyber Advisor did not certify to be adequate. The report of the secretary shall include a discussion of the actions that the secretary took or proposes to take, together with any additional comments that the Secretary considers appropriate regarding the adequacy or inadequacy of the proposed budgets.
   - **(5)** Not later than February 1, 2021 , and biannually thereafter, each Principal Cyber Advisor under paragraph (1) shall brief the Committees on Armed Services of the Senate and House of Representatives on that Advisor’s activities and ability to perform the functions specified in paragraph (2).
+
+Principal Cyber Advisor to Secretary of Defense.—
+
+Establishment
+
+Responsibilities
+
+Cross-functional team
+
+Budget review
+
+Senior Military Advisor for Cyber Policy and Deputy Principal Cyber Advisor.—
+
+Advisor.—
+
+In general
+
+Officers eligible for designation
+
+Grade
+
+Scope of Positions.—
+
+In general
+
+Direction and control and reporting
+
+Duties.—
+
+Duties as senior military advisor for cyber policy
+
+Duties as deputy principal cyber advisor
+
+Cyber Governance Structures and Principal Cyber Advisors on Military Cyber Force Matters.—
+
+Designation.—
+
+In general
+
+Nature of position
+
+Notification
+
+Responsibilities of Principal Cyber Advisors
+
+Coordination
+
+Budget Certification Authority.—
+
+In general
+
+Review
+
+Report
+
+Principal Cyber Advisors’ Briefing to Congress
+
+## Source Credit
+
+*(Added and amended [Pub. L. 117–263, div. A, title XV, § 1501(b)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2877](https://www.govinfo.gov/link/statute/136/2877); [Pub. L. 118–31, div. A, title XVIII, § 1801(a)(5)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 683](https://www.govinfo.gov/link/statute/137/683); [Pub. L. 118–159, div. A, title XVII, § 1701(a)(8)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2203](https://www.govinfo.gov/link/statute/138/2203); [Pub. L. 119–60, div. A, title XV, § 1502](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1138](https://www.govinfo.gov/link/statute/139/1138).)*

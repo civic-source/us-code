@@ -3,9 +3,10 @@ title: "Section 1023 - Rules and regulations"
 usc_title: 30
 usc_section: "1023"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1023"
-generated_at: "2026-03-30T02:55:29.395Z"
+generated_at: "2026-11-23T20:26:34.991Z"
+status: "active"
 ---
 
 # § 1023. Rules and regulations
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:29.395Z"
 - **(h)** the maintenance by the lessee of an active development program, and
       - **(i)** protection of water quality and other environmental qualities.
 
+
+## Source Credit
+
+*([Pub. L. 91–581, § 24](https://www.govinfo.gov/link/plaw/91/public/581), Dec. 24, 1970, [84 Stat. 1573](https://www.govinfo.gov/link/statute/84/1573); [Pub. L. 109–58, title II, § 236(22)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 673](https://www.govinfo.gov/link/statute/119/673).)*

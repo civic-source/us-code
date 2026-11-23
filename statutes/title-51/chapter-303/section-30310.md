@@ -3,9 +3,10 @@ title: "Section 30310 - Exception to alternative fuel procurement requirement"
 usc_title: 51
 usc_section: "30310"
 chapter: 303
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 30310"
-generated_at: "2026-03-30T02:56:28.705Z"
+generated_at: "2026-11-23T20:27:37.466Z"
+status: "active"
 ---
 
 # § 30310. Exception to alternative fuel procurement requirement
@@ -15,3 +16,24 @@ Section 526(a) 1 1 See References in Text note below. of the Energy Independence
   - **(1)** the contract does not specifically require the contractor to provide an alternative or synthetic fuel or fuel from a nonconventional petroleum source;
   - **(2)** the purpose of the contract is not to obtain an alternative or synthetic fuel or fuel from a nonconventional petroleum source; and
   - **(3)** the contract does not provide incentives for a refinery upgrade or expansion to allow a refinery to use or increase its use of fuel from a nonconventional petroleum source.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30310 | 42 U.S.C. 17827 . | Pub. L. 110–422, title XI, § 1112 , Oct. 15, 2008 , 122 Stat. 4811 . |
+
+
+Historical and Revision Notes
+
+30310
+
+42 U.S.C. 17827
+
+Pub. L. 110–422, title XI, § 1112
+
+Oct. 15, 2008
+
+122 Stat. 4811
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3366](https://www.govinfo.gov/link/statute/124/3366).)*

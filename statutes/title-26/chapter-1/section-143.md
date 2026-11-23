@@ -3,9 +3,10 @@ title: "Section 143 - Mortgage revenue bonds: qualified mortgage bond and qualif
 usc_title: 26
 usc_section: "143"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 143"
-generated_at: "2026-03-30T02:55:27.630Z"
+generated_at: "2026-11-23T20:26:45.385Z"
+status: "active"
 ---
 
 # § 143. Mortgage revenue bonds: qualified mortgage bond and qualified veterans’ mortgage bond
@@ -314,3 +315,73 @@ generated_at: "2026-03-30T02:55:27.630Z"
     - **(B)** Except as provided in subparagraph (C) and in regulations prescribed by the Secretary, if 2 or more persons hold interests in any residence and are jointly liable for the federally-subsidized indebtedness, the recapture amount shall be determined separately with respect to their respective interests in the residence.
     - **(C)** Paragraph (1) shall not apply to any transfer on which no gain or loss is recognized under section 1041. In any such case, the transferee shall be treated under this subsection in the same manner as the transferor would have been treated had such transfer not occurred.
     - **(D)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out this subsection, including regulations dealing with dispositions of partial interests in a residence.
+
+|  | For Calendar Year: | Applicable percentage is: |
+| --- | --- | --- |
+|  | 2006 | 20 percent |
+|  | 2007 | 40 percent |
+|  | 2008 | 60 percent |
+|  | 2009 | 80 percent. |
+
+|  | If the disposition occurs during a year after the testing date which is: | The holding period percentage is: |
+| --- | --- | --- |
+|  | The 1st such year | 20 |
+|  | The 2d such year | 40 |
+|  | The 3d such year | 60 |
+|  | The 4th such year | 80 |
+|  | The 5th such year | 100 |
+|  | The 6th such year | 80 |
+|  | The 7th such year | 60 |
+|  | The 8th such year | 40 |
+|  | The 9th such year | 20. |
+
+
+2006
+
+2007
+
+2008
+
+2009
+
+The 1st such year
+
+The 2d such year
+
+The 3d such year
+
+The 4th such year
+
+The 5th such year
+
+The 6th such year
+
+The 7th such year
+
+The 8th such year
+
+The 9th such year
+
+In general
+
+Termination on June 30, 1992
+
+Bonds
+
+Certificates
+
+Simplification
+
+In general
+
+Special rules relating to certain requirements and refunding bonds
+
+Subsection
+
+In general
+
+Exception
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title XIII, § 1301(b)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2610](https://www.govinfo.gov/link/statute/100/2610); amended [Pub. L. 100–647, title I, § 1013(a)(2)](https://www.govinfo.gov/link/plaw/100/public/647), (3), title IV, § 4005(a)(1), (b)–(d)(1), (e)–(g)(2), (6), Nov. 10, 1988, [102 Stat. 3537](https://www.govinfo.gov/link/statute/102/3537), 3645–3651; [Pub. L. 101–239, title VII, § 7104(a)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2305](https://www.govinfo.gov/link/statute/103/2305); [Pub. L. 101–508, title XI, § 11408(a)](https://www.govinfo.gov/link/plaw/101/public/508), (c), Nov. 5, 1990, [104 Stat. 1388–477](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 102–227, title I, § 108(a)](https://www.govinfo.gov/link/plaw/102/public/227), Dec. 11, 1991, [105 Stat. 1688](https://www.govinfo.gov/link/statute/105/1688); [Pub. L. 103–66, title XIII, § 13141(a)](https://www.govinfo.gov/link/plaw/103/public/66), (c)–(e), Aug. 10, 1993, [107 Stat. 436](https://www.govinfo.gov/link/statute/107/436), 437; [Pub. L. 104–188, title I](https://www.govinfo.gov/link/plaw/104/public/188), §§ 1702(d)(2), 1703(n)(3), Aug. 20, 1996, [110 Stat. 1870](https://www.govinfo.gov/link/statute/110/1870), 1877; [Pub. L. 105–34, title III, § 312(d)(1)](https://www.govinfo.gov/link/plaw/105/public/34), (3), title IX, § 914, Aug. 5, 1997, [111 Stat. 839](https://www.govinfo.gov/link/statute/111/839), 840, 878; [Pub. L. 109–222, title II, § 203(a)(1)](https://www.govinfo.gov/link/plaw/109/public/222), (b)(1), May 17, 2006, [120 Stat. 348](https://www.govinfo.gov/link/statute/120/348), 349; [Pub. L. 109–432, div. A, title IV](https://www.govinfo.gov/link/plaw/109/public/432), §§ 411(a), 416(a), Dec. 20, 2006, [120 Stat. 2963](https://www.govinfo.gov/link/statute/120/2963), 2965; [Pub. L. 110–245, title I, § 103(a)](https://www.govinfo.gov/link/plaw/110/public/245) –(c), June 17, 2008, [122 Stat. 1625](https://www.govinfo.gov/link/statute/122/1625); [Pub. L. 110–289, div. C, title I](https://www.govinfo.gov/link/plaw/110/public/289), §§ 3021(b)(1), 3026(a), July 30, 2008, [122 Stat. 2893](https://www.govinfo.gov/link/statute/122/2893), 2897; [Pub. L. 110–343, div. C, title VII, § 709(a)](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3925](https://www.govinfo.gov/link/statute/122/3925); [Pub. L. 113–295, div. A, title II, § 211(c)(2)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4033](https://www.govinfo.gov/link/statute/128/4033).)*

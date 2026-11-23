@@ -3,9 +3,10 @@ title: "Section 1182e - Denial of entry into United States of foreign nationals 
 usc_title: 8
 usc_section: "1182e"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1182e"
-generated_at: "2026-03-30T02:53:10.480Z"
+generated_at: "2026-11-23T20:25:36.047Z"
+status: "active"
 ---
 
 # § 1182e. Denial of entry into United States of foreign nationals engaged in establishment or enforcement of forced abortion or sterilization policy
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:10.480Z"
 - **(c)** The Secretary of State may waive the prohibitions in subsection (a) with respect to a foreign national if the Secretary—
   - **(1)** determines that it is important to the national interest of the United States to do so; and
   - **(2)** provides written notification to the appropriate congressional committees containing a justification for the waiver.
+
+## Source Credit
+
+*([Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VIII, § 801]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–468.)*

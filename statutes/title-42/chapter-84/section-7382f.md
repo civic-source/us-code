@@ -3,12 +3,17 @@ title: "Section 7382f - Authorization of appropriations"
 usc_title: 42
 usc_section: "7382f"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7382f"
-generated_at: "2026-03-30T02:56:11.290Z"
+generated_at: "2026-11-23T20:27:22.816Z"
+status: "active"
 ---
 
 # § 7382f. Authorization of appropriations
 
 - **(a)** There are authorized to be appropriated for the Program $700,000 for fiscal year 1995, and such sums as may be necessary for each of the four succeeding fiscal years.
 - **(b)** There are authorized to be appropriated for the WERC program under section 7382e of this title such sums as may be necessary for fiscal year 1995 and each of the four succeeding fiscal years.
+
+## Source Credit
+
+*([Pub. L. 103–382, title V, § 518](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 4044](https://www.govinfo.gov/link/statute/108/4044).)*

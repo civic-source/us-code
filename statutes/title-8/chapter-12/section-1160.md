@@ -3,9 +3,10 @@ title: "Section 1160 - Special agricultural workers"
 usc_title: 8
 usc_section: "1160"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1160"
-generated_at: "2026-03-30T02:53:10.476Z"
+generated_at: "2026-11-23T20:25:36.025Z"
+status: "active"
 ---
 
 # § 1160. Special agricultural workers
@@ -94,3 +95,7 @@ generated_at: "2026-03-30T02:53:10.476Z"
 - **(f)** During the five-year period beginning on the date an alien was granted lawful temporary resident status under subsection (a), and notwithstanding any other provision of law, the alien is not eligible for assistance under a State program funded under part A of title IV of the Social Security Act [ 42 U.S.C. 601 et seq.]. Notwithstanding the previous sentence, in the case of an alien who would be eligible for assistance under a State program funded under part A of title IV of the Social Security Act but for the previous sentence, the provisions of paragraph (3) of section 1255a(h) of this title shall apply in the same manner as they apply with respect to paragraph (1) of such section and, for this purpose, any reference in section 1255a(h)(3) of this title to paragraph (1) is deemed a reference to the previous sentence.
 - **(g)** For all purposes (subject to subsections (a)(5) and (f)) an alien whose status is adjusted under this section to that of an alien lawfully admitted for permanent residence, such status not having changed, shall be considered to be an alien lawfully admitted for permanent residence (within the meaning of section 1101(a)(20) of this title ).
 - **(h)** In this section, the term “seasonal agricultural services” means the performance of field work related to planting, cultural practices, cultivating, growing and harvesting of fruits and vegetables of every kind and other perishable commodities, as defined in regulations by the Secretary of Agriculture.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 1, § 210, as added [Pub. L. 99–603, title III, § 302(a)(1)](https://www.govinfo.gov/link/plaw/99/public/603), Nov. 6, 1986, [100 Stat. 3417](https://www.govinfo.gov/link/statute/100/3417); amended [Pub. L. 100–202, § 101(a) [title II, § 211]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329](https://www.govinfo.gov/link/statute/101/1329), 1329–18; [Pub. L. 100–525, § 2(m)](https://www.govinfo.gov/link/plaw/100/public/525), Oct. 24, 1988, [102 Stat. 2613](https://www.govinfo.gov/link/statute/102/2613); [Pub. L. 101–238, § 4](https://www.govinfo.gov/link/plaw/101/public/238), Dec. 18, 1989, [103 Stat. 2103](https://www.govinfo.gov/link/statute/103/2103); [Pub. L. 101–649, title VI, § 603(a)(5)](https://www.govinfo.gov/link/plaw/101/public/649), Nov. 29, 1990, [104 Stat. 5082](https://www.govinfo.gov/link/statute/104/5082); [Pub. L. 102–232, title III](https://www.govinfo.gov/link/plaw/102/public/232), §§ 307(j), 309(b)(6), Dec. 12, 1991, [105 Stat. 1756](https://www.govinfo.gov/link/statute/105/1756), 1758; [Pub. L. 103–416, title II, § 219(d)](https://www.govinfo.gov/link/plaw/103/public/416), (z)(7), Oct. 25, 1994, [108 Stat. 4316](https://www.govinfo.gov/link/statute/108/4316), 4318; [Pub. L. 104–132, title IV, § 431(b)](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1273](https://www.govinfo.gov/link/statute/110/1273); [Pub. L. 104–193, title I, § 110(s)(1)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2175](https://www.govinfo.gov/link/statute/110/2175); [Pub. L. 104–208, div. C, title III](https://www.govinfo.gov/link/plaw/104/public/208), §§ 308(g)(2)(B), 384(d)(1), title VI, § 623(b), Sept. 30, 1996, [110 Stat. 3009–622](https://www.govinfo.gov/link/statute/110/3009), 3009–653, 3009–697.)*

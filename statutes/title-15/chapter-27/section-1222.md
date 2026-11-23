@@ -3,12 +3,17 @@ title: "Section 1222 - Authorization of suits against manufacturers; amount of r
 usc_title: 15
 usc_section: "1222"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1222"
-generated_at: "2026-03-30T02:54:08.130Z"
+generated_at: "2026-11-23T20:26:03.980Z"
+status: "active"
 ---
 
 # § 1222. Authorization of suits against manufacturers; amount of recovery; defenses
 
 An automobile dealer may bring suit against any automobile manufacturer engaged in commerce, in any district court of the United States in the district in which said manufacturer resides, or is found, or has an agent, without respect to the amount in controversy, and shall recover the damages by him sustained and the cost of suit by reason of the failure of said automobile manufacturer from and after August 8, 1956 , to act in good faith in performing or complying with any of the terms or provisions of the franchise, or in terminating, canceling, or not renewing the franchise with said dealer: Provided , That in any such suit the manufacturer shall not be barred from asserting in defense of any such action the failure of the dealer to act in good faith.
 
+
+## Source Credit
+
+*(Aug. 8, 1956, ch. 1038, § 2, [70 Stat. 1125](https://www.govinfo.gov/link/statute/70/1125).)*

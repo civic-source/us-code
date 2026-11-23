@@ -3,9 +3,10 @@ title: "Section 6374 - Alternative fuel use by light duty Federal vehicles"
 usc_title: 42
 usc_section: "6374"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6374"
-generated_at: "2026-03-30T02:56:11.259Z"
+generated_at: "2026-11-23T20:27:22.674Z"
+status: "active"
 ---
 
 # § 6374. Alternative fuel use by light duty Federal vehicles
@@ -70,3 +71,11 @@ generated_at: "2026-03-30T02:56:11.259Z"
 - **(h)**
   - **(1)** For the purposes of this section, there are authorized to be appropriated such sums as may be necessary for fiscal years 1993 through 1998, to remain available until expended.
   - **(2)** The authority of the Secretary to obligate amounts to be expended under this section shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance by appropriation Acts.
+
+“The Congress finds and declares that—
+
+“The purpose of this Act [see Short Title of 1988 Amendment note set out under section 6201 of this title ] is to encourage—
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 400AA](https://www.govinfo.gov/link/plaw/94/public/163), as added [Pub. L. 100–494, § 4(a)](https://www.govinfo.gov/link/plaw/100/public/494), Oct. 14, 1988, [102 Stat. 2442](https://www.govinfo.gov/link/statute/102/2442); amended [Pub. L. 102–486, title III](https://www.govinfo.gov/link/plaw/102/public/486), §§ 302(a), 309, Oct. 24, 1992, [106 Stat. 2868](https://www.govinfo.gov/link/statute/106/2868), 2874; [Pub. L. 104–66, title I](https://www.govinfo.gov/link/plaw/104/public/66), §§ 1051(a), 1052(e), Dec. 21, 1995, [109 Stat. 716](https://www.govinfo.gov/link/statute/109/716), 718; [Pub. L. 105–388, § 5(a)(14)](https://www.govinfo.gov/link/plaw/105/public/388), Nov. 13, 1998, [112 Stat. 3479](https://www.govinfo.gov/link/statute/112/3479); [Pub. L. 106–36, title I, § 1002(h)](https://www.govinfo.gov/link/plaw/106/public/36), June 25, 1999, [113 Stat. 134](https://www.govinfo.gov/link/statute/113/134); [Pub. L. 109–58, title VII, § 701](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 814](https://www.govinfo.gov/link/statute/119/814).)*

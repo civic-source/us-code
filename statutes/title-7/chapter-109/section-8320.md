@@ -3,9 +3,10 @@ title: "Section 8320 - Expansion of Animal and Plant Health Inspection Service a
 usc_title: 7
 usc_section: "8320"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 8320"
-generated_at: "2026-03-30T02:53:42.475Z"
+generated_at: "2026-11-23T20:25:41.885Z"
+status: "active"
 ---
 
 # § 8320. Expansion of Animal and Plant Health Inspection Service activities
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:42.475Z"
   - **(5)** otherwise improve the capacity of the Service to protect against the threat of bioterrorism.
 - **(b)** The Administrator of the Animal and Plant Health Inspection Service may implement a central automated recordkeeping system to provide for the reliable tracking of the status of animal and plant shipments, including those shipments on hold at ports of entry and customs. The Secretary shall ensure that such a system shall be fully accessible to or fully integrated with the Food Safety Inspection Service.
 - **(c)** There is authorized to be appropriated to carry out this section, $30,000,000 for fiscal year 2002, and such sums as may be necessary for each subsequent fiscal year.
+
+## Source Credit
+
+*([Pub. L. 107–188, title III, § 331](https://www.govinfo.gov/link/plaw/107/public/188), June 12, 2002, [116 Stat. 678](https://www.govinfo.gov/link/statute/116/678).)*

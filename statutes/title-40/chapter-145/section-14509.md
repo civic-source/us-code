@@ -3,9 +3,10 @@ title: "Section 14509 - High-speed broadband deployment initiative"
 usc_title: 40
 usc_section: "14509"
 chapter: 145
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 14509"
-generated_at: "2026-03-30T02:55:43.387Z"
+generated_at: "2026-11-23T20:26:56.694Z"
+status: "active"
 ---
 
 # § 14509. High-speed broadband deployment initiative
@@ -27,3 +28,21 @@ generated_at: "2026-03-30T02:55:43.387Z"
   - **(1)** the level and extent of broadband service that exists in the area proposed to be served by the broadband service-related infrastructure; and
   - **(2)** the level and extent of broadband service that will be deployed in the area proposed to be served by the broadband service-related infrastructure pursuant to another Federal program.
 - **(g)** For each fiscal year, not less than 65 percent of the amounts made available to carry out this section shall be used for grants for projects and activities described in subsection (b)(2).
+
+In General
+
+Eligible Projects and Activities
+
+Limitation on Available Amounts
+
+Sources of Assistance
+
+Federal Share
+
+Request for Data
+
+Requirement
+
+## Source Credit
+
+*(Added [Pub. L. 114–94, div. A, title I, § 1436(a)(1)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1430](https://www.govinfo.gov/link/statute/129/1430); amended [Pub. L. 117–58, div. A, title I, § 11506(d)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 584](https://www.govinfo.gov/link/statute/135/584).)*

@@ -3,9 +3,10 @@ title: "Section 3227 - Authorization of appropriations"
 usc_title: 29
 usc_section: "3227"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3227"
-generated_at: "2026-03-30T02:55:18.759Z"
+generated_at: "2026-11-23T20:26:38.122Z"
+status: "active"
 ---
 
 # § 3227. Authorization of appropriations
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:55:18.759Z"
   - **(6)** $106,906,000 for fiscal year 2020.
 - **(e)** If, as of July 22, 2014 , any unobligated funds appropriated to carry out section 2913 of this title , as in effect on the day before July 22, 2014 , remain available, the Secretary of Labor shall continue to use such funds to carry out such section, as in effect on such day, until all of such funds are expended.
 - **(f)** If, as of July 22, 2014 , any unobligated funds appropriated to carry out subsections (f) and (g) of section 2918 of this title , as in effect on the day before July 22, 2014 , remain available, the Secretary of Labor shall continue to use such funds to carry out such subsections, as in effect on such day, until all of such funds are expended.
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 172](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1585](https://www.govinfo.gov/link/statute/128/1585).)*

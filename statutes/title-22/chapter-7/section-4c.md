@@ -3,9 +3,10 @@ title: "Section 4c - Initiation of discussions to facilitate debt-for-developmen
 usc_title: 22
 usc_section: "4c"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4c"
-generated_at: "2026-03-30T02:55:05.307Z"
+generated_at: "2026-11-23T20:26:31.928Z"
+status: "active"
 ---
 
 # § 262p–4c. Initiation of discussions to facilitate debt-for-development swaps for human welfare and environmental conservation
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:05.307Z"
       - **(i)** sovereign debt issued by a foreign government;
       - **(ii)** debt owed by private institutions in the country governed by such foreign government; and
       - **(iii)** debt owed by institutions in the country governed by such foreign government, which are owned, in part, by private persons and, in part, by public institutions.
+
+## Source Credit
+
+*([Pub. L. 95–118, title XVI, § 1608](https://www.govinfo.gov/link/plaw/95/public/118), as added [Pub. L. 100–461, title V, § 555](https://www.govinfo.gov/link/plaw/100/public/461), Oct. 1, 1988, [102 Stat. 2268–36](https://www.govinfo.gov/link/statute/102/2268).)*

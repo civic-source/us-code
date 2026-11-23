@@ -3,9 +3,10 @@ title: "Section 2258D - Limited liability for NCMEC"
 usc_title: 18
 usc_section: "2258D"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2258D"
-generated_at: "2026-03-30T02:54:16.499Z"
+generated_at: "2026-11-23T20:26:08.572Z"
+status: "active"
 ---
 
 # § 2258D. Limited liability for NCMEC
@@ -21,3 +22,15 @@ generated_at: "2026-03-30T02:54:16.499Z"
 - **(d)** NCMEC shall—
   - **(1)** minimize the number of employees that are provided access to any visual depiction provided under section 2258A; and
   - **(2)** ensure that any such visual depiction is permanently destroyed upon notification from a law enforcement agency.
+
+In General
+
+Intentional, Reckless, or Other Misconduct
+
+Ordinary Business Activities
+
+Minimizing Access
+
+## Source Credit
+
+*(Added [Pub. L. 110–401, title V, § 501(a)](https://www.govinfo.gov/link/plaw/110/public/401), Oct. 13, 2008, [122 Stat. 4250](https://www.govinfo.gov/link/statute/122/4250); amended [Pub. L. 115–395, § 5](https://www.govinfo.gov/link/plaw/115/public/395), Dec. 21, 2018, [132 Stat. 5294](https://www.govinfo.gov/link/statute/132/5294).)*

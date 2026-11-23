@@ -3,9 +3,10 @@ title: "Section 20981 - Pilot program for monitoring sexual offenders"
 usc_title: 34
 usc_section: "20981"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 20981"
-generated_at: "2026-03-30T02:55:33.302Z"
+generated_at: "2026-11-23T20:26:50.613Z"
+status: "active"
 ---
 
 # § 20981. Pilot program for monitoring sexual offenders
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:33.302Z"
     - **(A)** assessing the effectiveness and value of this section;
     - **(B)** comparing the cost effectiveness of the electronic monitoring to reduce sex offenses compared to other alternatives; and
     - **(C)** making recommendations for continuing funding and the appropriate levels for such funding.
+
+## Source Credit
+
+*([Pub. L. 109–248, title VI, § 621](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 633](https://www.govinfo.gov/link/statute/120/633); [Pub. L. 110–400, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/400), Oct. 13, 2008, [122 Stat. 4227](https://www.govinfo.gov/link/statute/122/4227).)*

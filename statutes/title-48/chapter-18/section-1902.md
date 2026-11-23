@@ -3,9 +3,10 @@ title: "Section 1902 - Agreements with Federated States of Micronesia"
 usc_title: 48
 usc_section: "1902"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1902"
-generated_at: "2026-03-30T02:56:14.594Z"
+generated_at: "2026-11-23T20:27:28.092Z"
+status: "active"
 ---
 
 # § 1902. Agreements with Federated States of Micronesia
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:56:14.594Z"
     - **(A)** whether the Government of the Federated States of Micronesia has met the requirements set forth in the Compact, or any related agreement entered into under the Compact, regarding the purposes for which such grants and other assistance are to be used; and
     - **(B)** the propriety of the financial transactions of the Government of the Federated States of Micronesia pursuant to such grants or assistance.
   - **(6)** The Government of the Federated States of Micronesia will cooperate fully with the Comptroller General of the United States in the conduct of such audits as the Comptroller General determines necessary to enable the Comptroller General to fully discharge his responsibilities under this joint resolution.
+
+## Source Credit
+
+*([Pub. L. 99–239, title I, § 102](https://www.govinfo.gov/link/plaw/99/public/239), Jan. 14, 1986, [99 Stat. 1775](https://www.govinfo.gov/link/statute/99/1775).)*

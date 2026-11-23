@@ -3,9 +3,10 @@ title: "Section 2313 - Research and development"
 usc_title: 33
 usc_section: "2313"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2313"
-generated_at: "2026-03-30T02:55:41.121Z"
+generated_at: "2026-11-23T20:26:54.169Z"
+status: "active"
 ---
 
 # § 2313. Research and development
@@ -54,3 +55,19 @@ generated_at: "2026-03-30T02:55:41.121Z"
     - **(B)** any additional information that the Secretary determines to be appropriate.
 - **(f)** Nothing in this section affects the authority of the Secretary to carry out, through the Engineer Research and Development Center, any activity requested by a district of the Corps of Engineers in support of a water resources development project or feasibility study (as defined in section 2215(d) of this title ).
 - **(g)** The Secretary, in consultation with the Director of the Office of Management and Budget, shall establish a separate appropriations account for administering funds made available to carry out this section.
+
+General Investigations
+
+Research and Development
+
+Collaboration
+
+Cooperative Research Contracts
+
+Licensing of Research and Development
+
+Authorization of Appropriations
+
+## Source Credit
+
+*([Pub. L. 100–676, § 7](https://www.govinfo.gov/link/plaw/100/public/676), Nov. 17, 1988, [102 Stat. 4022](https://www.govinfo.gov/link/statute/102/4022); [Pub. L. 104–303, title II, § 214](https://www.govinfo.gov/link/plaw/104/public/303), Oct. 12, 1996, [110 Stat. 3684](https://www.govinfo.gov/link/statute/110/3684); [Pub. L. 117–263, div. H, title LXXXI, § 8160(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3741](https://www.govinfo.gov/link/statute/136/3741).)*

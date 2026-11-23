@@ -3,9 +3,10 @@ title: "Section 4049 - Death in service"
 usc_title: 22
 usc_section: "4049"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4049"
-generated_at: "2026-03-30T02:55:05.403Z"
+generated_at: "2026-11-23T20:26:32.504Z"
+status: "active"
 ---
 
 # § 4049. Death in service
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.403Z"
 - **(f)** If an annuitant entitled to a reduced annuity dies in service after being recalled under section 3948 of this title and is survived by a spouse or former spouse entitled to a survivor annuity based on the service of such annuitant, such survivor annuity shall be computed as if the recall service had otherwise terminated on the day of death and the annuity of the deceased had been resumed in accordance with section 4063 of this title . If such death occurs after the annuitant had completed sufficient recall service to attain eligibility for a supplemental annuity, a surviving spouse or surviving former spouse who was married to the participant at any time during a period of recall service shall be entitled to elect, in addition to any other benefits and in lieu of a refund of retirement contributions made during the recall service, a supplemental survivor annuity computed and paid under section 4046(i) of this title as if the recall service had otherwise terminated. If the annuitant had completed sufficient recall service to attain eligibility to have his or her annuity determined anew, a surviving spouse or such a surviving former spouse may elect, in lieu of any other survivor benefit under this subchapter, to have the rights of the annuitant redetermined and to receive a survivor annuity computed under subsection (b) on the basis of the total service of the annuitant.
 - **(g)** Notwithstanding subsection (b), if the participant or former participant had a former spouse qualifying for an annuity under section 4054(b) of this title , the annuity of the spouse under this section shall be subject to the limitation of section 4046(b)(3)(B) of this title .
 - **(h)** Annuities that become payable under this section shall commence, terminate, and be resumed in accordance with subsection (b)(4), (e), or (h) of section 4046 of this title , as appropriate.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 809](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2111](https://www.govinfo.gov/link/statute/94/2111); [Pub. L. 99–335, title IV, § 402(a)(2)](https://www.govinfo.gov/link/plaw/99/public/335), (c), June 6, 1986, [100 Stat. 609](https://www.govinfo.gov/link/statute/100/609); [Pub. L. 100–238, title II](https://www.govinfo.gov/link/plaw/100/public/238), §§ 214(b), 215(b), Jan. 8, 1988, [101 Stat. 1774](https://www.govinfo.gov/link/statute/101/1774).)*

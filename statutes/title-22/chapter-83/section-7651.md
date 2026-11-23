@@ -3,9 +3,10 @@ title: "Section 7651 - Findings"
 usc_title: 22
 usc_section: "7651"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7651"
-generated_at: "2026-03-30T02:55:05.444Z"
+generated_at: "2026-11-23T20:26:32.675Z"
+status: "active"
 ---
 
 # § 7651. Findings
@@ -20,3 +21,7 @@ Congress makes the following findings:
   - **(6)** Efforts to prevent mother-to-child transmission can provide the basis for a broader response that includes care and treatment of mothers, fathers, and other family members who are infected with HIV or living with AIDS.
   - **(7)** HIV/AIDS has devastated the lives of countless children and families across the globe. Since the epidemic began, an estimated 13,200,000 children under the age of 15 have been orphaned by AIDS, that is they have lost their mother or both parents to the disease. The Joint United Nations Program on HIV/AIDS (UNAIDS) estimates that this number will double by the year 2010.
   - **(8)** HIV/AIDS also targets young people between the ages of 15 to 24, particularly young women, many of whom carry the burden of caring for family members living with HIV/AIDS. An estimated 10,300,000 young people are now living with HIV/AIDS. One-half of all new infections are occurring among this age group.
+
+## Source Credit
+
+*([Pub. L. 108–25, title III, § 311](https://www.govinfo.gov/link/plaw/108/public/25), May 27, 2003, [117 Stat. 740](https://www.govinfo.gov/link/statute/117/740).)*

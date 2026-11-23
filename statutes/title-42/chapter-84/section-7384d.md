@@ -3,9 +3,10 @@ title: "Section 7384d - Establishment of Energy Employees Occupational Illness C
 usc_title: 42
 usc_section: "7384d"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7384d"
-generated_at: "2026-03-30T02:56:11.291Z"
+generated_at: "2026-11-23T20:27:22.818Z"
+status: "active"
 ---
 
 # § 7384d. Establishment of Energy Employees Occupational Illness Compensation Program
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:56:11.291Z"
 - **(a)** There is hereby established a program to be known as the “Energy Employees Occupational Illness Compensation Program” (in this subchapter referred to as the “compensation program”). The President shall carry out the compensation program through one or more Federal agencies or officials, as designated by the President.
 - **(b)** The purpose of the compensation program is to provide for timely, uniform, and adequate compensation of covered employees and, where applicable, survivors of such employees, suffering from illnesses incurred by such employees in the performance of duty for the Department of Energy and certain of its contractors and subcontractors.
 - **(c)** The eligibility of covered employees for compensation under the compensation program shall be determined in accordance with the provisions of part B as may be modified by a law enacted after the date of the submittal of the proposal for legislation required by section 7384f of this title .
+
+## Source Credit
+
+*([Pub. L. 106–398, § 1 [div. C, title XXXVI, § 3611]](https://www.govinfo.gov/link/plaw/106/public/398), Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–497.)*

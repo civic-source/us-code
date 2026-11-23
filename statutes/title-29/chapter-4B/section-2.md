@@ -3,9 +3,10 @@ title: "Section 2 - Workforce and labor market information system"
 usc_title: 29
 usc_section: "2"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 2"
-generated_at: "2026-03-30T02:55:18.674Z"
+generated_at: "2026-11-23T20:26:37.774Z"
+status: "active"
 ---
 
 # § 49l–2. Workforce and labor market information system
@@ -101,3 +102,7 @@ generated_at: "2026-03-30T02:55:18.674Z"
 - **(f)** None of the functions and activities carried out pursuant to this section shall duplicate the functions and activities carried out under the Carl D. Perkins Career and Technical Education Act of 2006 ( 20 U.S.C. 2301 et seq.).
 - **(g)** There are authorized to be appropriated to carry out this section $60,153,000 for fiscal year 2015, $64,799,000 for fiscal year 2016, $66,144,000 for fiscal year 2017, $67,611,000 for fiscal year 2018, $69,200,000 for fiscal year 2019, and $70,667,000 for fiscal year 2020.
 - **(h)** In this section, the term “local area” means the smallest geographical area for which data can be produced with statistical reliability.
+
+## Source Credit
+
+*(June 6, 1933, ch. 49, § 15, as added [Pub. L. 105–220, title III, § 309(2)](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1082](https://www.govinfo.gov/link/statute/112/1082); amended [Pub. L. 105–277, div. A, § 101(f) [title VIII, § 403(a)(1)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–416; [Pub. L. 105–332, § 5(b)(1)](https://www.govinfo.gov/link/plaw/105/public/332), Oct. 31, 1998, [112 Stat. 3127](https://www.govinfo.gov/link/statute/112/3127); [Pub. L. 109–270, § 2(g)](https://www.govinfo.gov/link/plaw/109/public/270), Aug. 12, 2006, [120 Stat. 747](https://www.govinfo.gov/link/statute/120/747); [Pub. L. 113–128, title III, § 308](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1627](https://www.govinfo.gov/link/statute/128/1627); [Pub. L. 115–224, title III, § 301](https://www.govinfo.gov/link/plaw/115/public/224), July 31, 2018, [132 Stat. 1622](https://www.govinfo.gov/link/statute/132/1622); [Pub. L. 117–286, § 4(a)(186)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4326](https://www.govinfo.gov/link/statute/136/4326).)*

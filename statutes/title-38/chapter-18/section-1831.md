@@ -3,9 +3,10 @@ title: "Section 1831 - Definitions"
 usc_title: 38
 usc_section: "1831"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 1831"
-generated_at: "2026-03-30T02:55:53.489Z"
+generated_at: "2026-11-23T20:27:01.729Z"
+status: "active"
 ---
 
 # § 1831. Definitions
@@ -28,3 +29,9 @@ In this chapter:
   - **(5)** The term “Vietnam era” with respect to—
     - **(A)** subchapter I of this chapter, means the period beginning on January 9, 1962 , and ending on May 7, 1975 ; and
     - **(B)** subchapter II of this chapter, means the period beginning on February 28, 1961 , and ending on May 7, 1975 .
+
+“Not later than 90 days after the date of the enactment of this Act [ Oct. 6, 2023 ], the Under Secretary for Benefits of the Department of Veterans Affairs and the Under Secretary for Health of the Department shall enter into a memorandum of understanding—
+
+## Source Credit
+
+*(Added [Pub. L. 106–419, title IV, § 401(b)](https://www.govinfo.gov/link/plaw/106/public/419), Nov. 1, 2000, [114 Stat. 1859](https://www.govinfo.gov/link/statute/114/1859), § 1821; renumbered § 1831 and amended [Pub. L. 108–183, title I, § 102(a)(1)](https://www.govinfo.gov/link/plaw/108/public/183), (b), Dec. 16, 2003, [117 Stat. 2653](https://www.govinfo.gov/link/statute/117/2653), 2654; [Pub. L. 116–23, § 4(b)](https://www.govinfo.gov/link/plaw/116/public/23), June 25, 2019, [133 Stat. 971](https://www.govinfo.gov/link/statute/133/971); [Pub. L. 118–18, § 1(a)](https://www.govinfo.gov/link/plaw/118/public/18), Oct. 6, 2023, [137 Stat. 103](https://www.govinfo.gov/link/statute/137/103).)*

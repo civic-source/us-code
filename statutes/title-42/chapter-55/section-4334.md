@@ -3,9 +3,10 @@ title: "Section 4334 - Other statutory obligations of agencies"
 usc_title: 42
 usc_section: "4334"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4334"
-generated_at: "2026-03-30T02:56:11.201Z"
+generated_at: "2026-11-23T20:27:22.372Z"
+status: "active"
 ---
 
 # § 4334. Other statutory obligations of agencies
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.201Z"
   - **(2)** to coordinate or consult with any other Federal or State agency, or
   - **(3)** to act, or refrain from acting contingent upon the recommendations or certification of any other Federal or State agency.
 
+
+## Source Credit
+
+*([Pub. L. 91–190, title I, § 104](https://www.govinfo.gov/link/plaw/91/public/190), Jan. 1, 1970, [83 Stat. 854](https://www.govinfo.gov/link/statute/83/854).)*

@@ -3,9 +3,10 @@ title: "Section 5671 - Agricultural embargo protection"
 usc_title: 7
 usc_section: "5671"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 5671"
-generated_at: "2026-03-30T02:53:42.417Z"
+generated_at: "2026-11-23T20:25:41.654Z"
+status: "active"
 ---
 
 # § 5671. Agricultural embargo protection
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:42.417Z"
 - **(c)** Payments under paragraph (1) of subsection (b) shall be made for each marketing year or part thereof during which the suspension or restriction is in effect and shall be made in equal amounts at 90-day intervals, beginning 90 days after the date of the imposition of the suspension or restriction.
 - **(d)** The Secretary shall use the Commodity Credit Corporation in carrying out the provisions of this section.
 - **(e)** The Secretary may issue such regulations as are determined necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 95–501, title IV, § 411](https://www.govinfo.gov/link/plaw/95/public/501), as added [Pub. L. 101–624, title XV, § 1531](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3682](https://www.govinfo.gov/link/statute/104/3682).)*

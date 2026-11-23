@@ -3,9 +3,10 @@ title: "Section 4102A - Assistant Secretary of Labor for Veterans’ Employment 
 usc_title: 38
 usc_section: "4102A"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 4102A"
-generated_at: "2026-03-30T02:55:53.515Z"
+generated_at: "2026-11-23T20:27:01.920Z"
+status: "active"
 ---
 
 # § 4102A. Assistant Secretary of Labor for Veterans’ Employment and Training; program functions; Regional Administrators
@@ -96,3 +97,31 @@ generated_at: "2026-03-30T02:55:53.515Z"
     - **(A)** promotes a more efficient administration of services to veterans with a particular emphasis on services to disabled veterans; and
     - **(B)** does not hinder the provision of services to veterans and employers; and
   - **(2)** the Governor submits to the Secretary a proposal therefor at such time, in such manner, and containing such information as the Secretary may require.
+
+Establishment of Position of Assistant Secretary of Labor for Veterans’ Employment and Training
+
+Program Functions
+
+Conditions for Receipt of Funds
+
+Participation in Other Federally Funded Job Training Programs
+
+Regional Administrators
+
+Establishment of Performance Standards and Outcomes Measures
+
+Authority to Provide Technical Assistance to States
+
+Consolidation of Disabled Veterans’ Outreach Program Specialists and Veterans’ Employment Representatives
+
+Applicability to new employees
+
+Applicability to previously-hired employees
+
+Website Under the Jurisdiction of Secretary of Labor
+
+Coordination With Other Website
+
+## Source Credit
+
+*(Added [Pub. L. 94–502, title VI, § 601(b)(1)](https://www.govinfo.gov/link/plaw/94/public/502), Oct. 15, 1976, [90 Stat. 2404](https://www.govinfo.gov/link/statute/90/2404), § 2002A; amended [Pub. L. 96–466, title V, § 504(a)(3)](https://www.govinfo.gov/link/plaw/96/public/466), (4), Oct. 17, 1980, [94 Stat. 2203](https://www.govinfo.gov/link/statute/94/2203); [Pub. L. 97–306, title III, § 303](https://www.govinfo.gov/link/plaw/97/public/306), Oct. 14, 1982, [96 Stat. 1437](https://www.govinfo.gov/link/statute/96/1437); [Pub. L. 98–160, title VII, § 702(15)](https://www.govinfo.gov/link/plaw/98/public/160), Nov. 21, 1983, [97 Stat. 1010](https://www.govinfo.gov/link/statute/97/1010); [Pub. L. 100–323](https://www.govinfo.gov/link/plaw/100/public/323), §§ 2(a), (e)(3)(A), 15(a)(2), (b)(1), May 20, 1988, [102 Stat. 556](https://www.govinfo.gov/link/statute/102/556), 559, 574; [Pub. L. 101–237, title IV, § 423(b)(8)(A)](https://www.govinfo.gov/link/plaw/101/public/237), Dec. 18, 1989, [103 Stat. 2093](https://www.govinfo.gov/link/statute/103/2093); renumbered § 4102A and amended [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406](https://www.govinfo.gov/link/statute/105/404); [Pub. L. 103–446, title VII, § 701(a)](https://www.govinfo.gov/link/plaw/103/public/446), title XII, § 1201(a)(4), Nov. 2, 1994, [108 Stat. 4674](https://www.govinfo.gov/link/statute/108/4674), 4682; [Pub. L. 104–275, title III, § 301](https://www.govinfo.gov/link/plaw/104/public/275), Oct. 9, 1996, [110 Stat. 3332](https://www.govinfo.gov/link/statute/110/3332); [Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(29)(A), (f)(21)(A)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–424, 2681–432; [Pub. L. 105–368, title X, § 1005(b)(13)](https://www.govinfo.gov/link/plaw/105/public/368), Nov. 11, 1998, [112 Stat. 3365](https://www.govinfo.gov/link/statute/112/3365); [Pub. L. 107–288, § 4(a)(1)](https://www.govinfo.gov/link/plaw/107/public/288), Nov. 7, 2002, [116 Stat. 2038](https://www.govinfo.gov/link/statute/116/2038); [Pub. L. 108–183, title VII, § 708(b)(1)(A)](https://www.govinfo.gov/link/plaw/108/public/183), (2), Dec. 16, 2003, [117 Stat. 2673](https://www.govinfo.gov/link/statute/117/2673); [Pub. L. 109–233, title II, § 201](https://www.govinfo.gov/link/plaw/109/public/233), title V, § 503(11), June 15, 2006, [120 Stat. 402](https://www.govinfo.gov/link/statute/120/402), 416; [Pub. L. 109–461, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/109/public/461), (b), Dec. 22, 2006, [120 Stat. 3436](https://www.govinfo.gov/link/statute/120/3436); [Pub. L. 111–275, title I, § 103(a)](https://www.govinfo.gov/link/plaw/111/public/275), title X, § 1001(k), Oct. 13, 2010, [124 Stat. 2866](https://www.govinfo.gov/link/statute/124/2866), 2897; [Pub. L. 112–56, title II, § 241(c)](https://www.govinfo.gov/link/plaw/112/public/56), Nov. 21, 2011, [125 Stat. 728](https://www.govinfo.gov/link/statute/125/728); [Pub. L. 112–239, div. A, title V, § 544(a)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1737](https://www.govinfo.gov/link/statute/126/1737); [Pub. L. 113–128, title V, § 512(gg)(2)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1719](https://www.govinfo.gov/link/statute/128/1719); [Pub. L. 114–58, title VI, § 601(20)](https://www.govinfo.gov/link/plaw/114/public/58), Sept. 30, 2015, [129 Stat. 539](https://www.govinfo.gov/link/statute/129/539).)*

@@ -3,9 +3,10 @@ title: "Section 2106c - Enhanced community fire protection"
 usc_title: 16
 usc_section: "2106c"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 2106c"
-generated_at: "2026-03-30T02:54:22.999Z"
+generated_at: "2026-11-23T20:26:20.597Z"
+status: "active"
 ---
 
 # § 2106c. Enhanced community fire protection
@@ -37,3 +38,9 @@ generated_at: "2026-03-30T02:54:22.999Z"
 - **(d)** There are hereby authorized to be appropriated to the Secretary to carry out this section—
   - **(1)** $35,000,000 for each of fiscal years 2002 through 2007; and
   - **(2)** such sums as are necessary for fiscal years thereafter.
+
+“Congress finds the following:
+
+## Source Credit
+
+*([Pub. L. 95–313, § 10A](https://www.govinfo.gov/link/plaw/95/public/313), as added [Pub. L. 107–171, title VIII, § 8003(b)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 473](https://www.govinfo.gov/link/statute/116/473).)*

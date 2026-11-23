@@ -3,9 +3,10 @@ title: "Section 6340 - Records of sale"
 usc_title: 26
 usc_section: "6340"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6340"
-generated_at: "2026-03-30T02:55:27.850Z"
+generated_at: "2026-11-23T20:26:46.632Z"
+status: "active"
 ---
 
 # § 6340. Records of sale
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:27.850Z"
   - **(1)** the record under subsection (a) (other than the names of the purchasers);
   - **(2)** the amount from such sale applied to the taxpayer’s liability; and
   - **(3)** the remaining balance of such liability.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 789; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 105–206, title III, § 3442(a)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 761](https://www.govinfo.gov/link/statute/112/761).)*

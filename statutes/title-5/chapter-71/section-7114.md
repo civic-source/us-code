@@ -3,9 +3,10 @@ title: "Section 7114 - Representation rights and duties"
 usc_title: 5
 usc_section: "7114"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 7114"
-generated_at: "2026-03-30T02:52:56.035Z"
+generated_at: "2026-11-23T20:25:32.052Z"
+status: "active"
 ---
 
 # § 7114. Representation rights and duties
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:52:56.035Z"
   - **(2)** The head of the agency shall approve the agreement within 30 days from the date the agreement is executed if the agreement is in accordance with the provisions of this chapter and any other applicable law, rule, or regulation (unless the agency has granted an exception to the provision).
   - **(3)** If the head of the agency does not approve or disapprove the agreement within the 30-day period, the agreement shall take effect and shall be binding on the agency and the exclusive representative subject to the provisions of this chapter and any other applicable law, rule, or regulation.
   - **(4)** A local agreement subject to a national or other controlling agreement at a higher level shall be approved under the procedures of the controlling agreement or, if none, under regulations prescribed by the agency.
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title VII, § 701](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1202](https://www.govinfo.gov/link/statute/92/1202).)*

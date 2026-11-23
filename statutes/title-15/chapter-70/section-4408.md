@@ -3,9 +3,10 @@ title: "Section 4408 - Definitions"
 usc_title: 15
 usc_section: "4408"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 4408"
-generated_at: "2026-03-30T02:54:08.199Z"
+generated_at: "2026-11-23T20:26:04.337Z"
+status: "active"
 ---
 
 # § 4408. Definitions
@@ -18,3 +19,7 @@ For purposes of this chapter:
   - **(4)** The term “package” means a pack, box, carton, pouch, or container of any kind in which smokeless tobacco products are offered for sale, sold, or otherwise distributed to consumers.
   - **(5)** The term “sale or distribution” includes sampling or any other distribution not for sale.
   - **(6)** The term “Secretary” means the Secretary of Health and Human Services.
+
+## Source Credit
+
+*([Pub. L. 99–252, § 9](https://www.govinfo.gov/link/plaw/99/public/252), Feb. 27, 1986, [100 Stat. 34](https://www.govinfo.gov/link/statute/100/34); [Pub. L. 111–31, div. A, title I, § 101(c)](https://www.govinfo.gov/link/plaw/111/public/31), June 22, 2009, [123 Stat. 1830](https://www.govinfo.gov/link/statute/123/1830).)*

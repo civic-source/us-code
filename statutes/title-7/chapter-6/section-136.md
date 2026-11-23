@@ -3,9 +3,10 @@ title: "Section 136 - Definitions"
 usc_title: 7
 usc_section: "136"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 136"
-generated_at: "2026-03-30T02:53:42.255Z"
+generated_at: "2026-11-23T20:25:40.911Z"
+status: "active"
 ---
 
 # § 136. Definitions
@@ -118,3 +119,7 @@ For purposes of this subchapter—
   - **(3)** The term “antimicrobial pesticide” does include any other chemical sterilant product (other than liquid chemical sterilant products exempt under subsection (u)), any other disinfectant product, any other industrial microbiocide product, and any other preservative product that is not excluded by paragraph (2).
 - **(nn)** The term “public health pesticide” means any minor use pesticide product registered for use and used predominantly in public health programs for vector control or for other recognized health protection uses, including the prevention or mitigation of viruses, bacteria, or other microorganisms (other than viruses, bacteria, or other microorganisms on or in living man or other living animal) that pose a threat to public health.
 - **(oo)** The term “vector” means any organism capable of transmitting the causative agent of human disease or capable of producing human discomfort or injury, including mosquitoes, flies, fleas, cockroaches, or other insects and ticks, mites, or rats.
+
+## Source Credit
+
+*(June 25, 1947, ch. 125, § 2, as added [Pub. L. 92–516, § 2](https://www.govinfo.gov/link/plaw/92/public/516), Oct. 21, 1972, [86 Stat. 975](https://www.govinfo.gov/link/statute/86/975); amended [Pub. L. 93–205, § 13(f)](https://www.govinfo.gov/link/plaw/93/public/205), Dec. 28, 1973, [87 Stat. 903](https://www.govinfo.gov/link/statute/87/903); [Pub. L. 94–140, § 9](https://www.govinfo.gov/link/plaw/94/public/140), Nov. 28, 1975, [89 Stat. 754](https://www.govinfo.gov/link/statute/89/754); [Pub. L. 95–396, § 1](https://www.govinfo.gov/link/plaw/95/public/396), Sept. 30, 1978, [92 Stat. 819](https://www.govinfo.gov/link/statute/92/819); [Pub. L. 100–532, title I, § 101](https://www.govinfo.gov/link/plaw/100/public/532), title VI, § 601(a), title VIII, § 801(a), Oct. 25, 1988, [102 Stat. 2655](https://www.govinfo.gov/link/statute/102/2655), 2677, 2679; [Pub. L. 102–237, title X, § 1006(a)(1)](https://www.govinfo.gov/link/plaw/102/public/237), (2), (b)(3)(A), (B), Dec. 13, 1991, [105 Stat. 1894](https://www.govinfo.gov/link/statute/105/1894), 1895; [Pub. L. 104–170, title I](https://www.govinfo.gov/link/plaw/104/public/170), §§ 105(a), 120, title II, §§ 210(a), 221, 230, title III, § 304, Aug. 3, 1996, [110 Stat. 1490](https://www.govinfo.gov/link/statute/110/1490), 1492, 1493, 1502, 1508, 1512.)*

@@ -3,9 +3,10 @@ title: "Section 2627 - State programs"
 usc_title: 15
 usc_section: "2627"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2627"
-generated_at: "2026-03-30T02:54:08.178Z"
+generated_at: "2026-11-23T20:26:04.231Z"
+status: "active"
 ---
 
 # § 2627. State programs
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:08.178Z"
     - **(E)** provide for the making of such reports and evaluations as the Administrator may require, and
     - **(F)** contain such other information as the Administrator may prescribe.
   - **(2)** The Administrator may approve an application submitted in accordance with paragraph (1) only if the applicant has established to the satisfaction of the Administrator a priority need, as determined under rules of the Administrator, for the grant for which the application has been submitted. Such rules shall take into consideration the seriousness of the health effects in a State which are associated with chemical substances or mixtures, including cancer, birth defects, and gene mutations, the extent of the exposure in a State of human beings and the environment to chemical substances and mixtures, and the extent to which chemical substances and mixtures are manufactured, processed, used, and disposed of in a State.
+
+## Source Credit
+
+*([Pub. L. 94–469, title I, § 28](https://www.govinfo.gov/link/plaw/94/public/469), Oct. 11, 1976, [90 Stat. 2049](https://www.govinfo.gov/link/statute/90/2049); [Pub. L. 97–129, § 1(a)](https://www.govinfo.gov/link/plaw/97/public/129), Dec. 29, 1981, [95 Stat. 1686](https://www.govinfo.gov/link/statute/95/1686); renumbered title I, [Pub. L. 99–519, § 3(c)(1)](https://www.govinfo.gov/link/plaw/99/public/519), Oct. 22, 1986, [100 Stat. 2989](https://www.govinfo.gov/link/statute/100/2989); amended [Pub. L. 114–182, title I, § 18](https://www.govinfo.gov/link/plaw/114/public/182), June 22, 2016, [130 Stat. 505](https://www.govinfo.gov/link/statute/130/505).)*

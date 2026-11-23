@@ -3,9 +3,10 @@ title: "Section 4304 - Native American trade and export promotion"
 usc_title: 25
 usc_section: "4304"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 4304"
-generated_at: "2026-03-30T02:54:52.863Z"
+generated_at: "2026-11-23T20:26:25.703Z"
+status: "active"
 ---
 
 # § 4304. Native American trade and export promotion
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:52.863Z"
 - **(e)** In carrying out the duties and activities described in subsections (b) and (c), the Secretary, acting through the Director, shall give priority to activities that—
   - **(1)** provide the greatest degree of economic benefits to Indians; and
   - **(2)** foster long-term stable international markets for Indian goods and services.
+
+## Source Credit
+
+*([Pub. L. 106–464, § 5](https://www.govinfo.gov/link/plaw/106/public/464), Nov. 7, 2000, [114 Stat. 2016](https://www.govinfo.gov/link/statute/114/2016); [Pub. L. 116–261, § 3(e)(2)](https://www.govinfo.gov/link/plaw/116/public/261), Dec. 30, 2020, [134 Stat. 3311](https://www.govinfo.gov/link/statute/134/3311).)*

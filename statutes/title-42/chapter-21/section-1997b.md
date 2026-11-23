@@ -3,9 +3,10 @@ title: "Section 1997b - Certification requirements; Attorney General to personal
 usc_title: 42
 usc_section: "1997b"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1997b"
-generated_at: "2026-03-30T02:56:11.137Z"
+generated_at: "2026-11-23T20:27:22.002Z"
+status: "active"
 ---
 
 # § 1997b. Certification requirements; Attorney General to personally sign certification
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.137Z"
     - **(C)** the Attorney General is satisfied that the appropriate officials have had a reasonable time to take appropriate action to correct such conditions and pattern or practice, taking into consideration the time required to remodel or make necessary changes in physical facilities or relocate residents, reasonable legal or procedural requirements, the urgency of the need to correct such conditions, and other circumstances involved in correcting such conditions; and
   - **(3)** that the Attorney General believes that such an action by the United States is of general public importance and will materially further the vindication of rights, privileges, or immunities secured or protected by the Constitution or laws of the United States.
 - **(b)** The Attorney General shall personally sign any certification made pursuant to this section.
+
+## Source Credit
+
+*([Pub. L. 96–247, § 4](https://www.govinfo.gov/link/plaw/96/public/247), May 23, 1980, [94 Stat. 350](https://www.govinfo.gov/link/statute/94/350); [Pub. L. 97–256, title II, § 201(a)](https://www.govinfo.gov/link/plaw/97/public/256), Sept. 8, 1982, [96 Stat. 816](https://www.govinfo.gov/link/statute/96/816); [Pub. L. 104–134, title I, § 101[(a)]](https://www.govinfo.gov/link/plaw/104/public/134) [title VIII, § 803(b)], Apr. 26, 1996, [110 Stat. 1321](https://www.govinfo.gov/link/statute/110/1321), 1321–71; renumbered title I, [Pub. L. 104–140, § 1(a)](https://www.govinfo.gov/link/plaw/104/public/140), May 2, 1996, [110 Stat. 1327](https://www.govinfo.gov/link/statute/110/1327).)*

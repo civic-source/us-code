@@ -3,9 +3,10 @@ title: "Section 1412 - Transfers between a multiemployer plan and a single-emplo
 usc_title: 29
 usc_section: "1412"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1412"
-generated_at: "2026-03-30T02:55:18.736Z"
+generated_at: "2026-11-23T20:26:38.040Z"
+status: "active"
 ---
 
 # § 1412. Transfers between a multiemployer plan and a single-employer plan
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:18.736Z"
   - **(1)** The corporation may prescribe by regulation such additional requirements with respect to the transfer of assets or liabilities as may be necessary to protect the interests of plan participants and beneficiaries and the corporation.
   - **(2)** Except as otherwise determined by the corporation, a transfer of assets or liabilities to a single-employer plan from a plan in reorganization under section 1421 1 1 See References in Text note below. of this title is not effective unless the corporation approves such transfer.
   - **(3)** No transfer to which this section applies, in connection with a termination described in section 1341a(a)(2) of this title shall be effective unless the transfer meets such requirements as may be established by the corporation to prevent an increase in the risk of loss to the corporation.
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4232](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 96–364, title I, § 104(2)](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1245](https://www.govinfo.gov/link/statute/94/1245).)*

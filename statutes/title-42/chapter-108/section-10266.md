@@ -3,9 +3,10 @@ title: "Section 10266 - Staff"
 usc_title: 42
 usc_section: "10266"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10266"
-generated_at: "2026-03-30T02:56:11.385Z"
+generated_at: "2026-11-23T20:27:23.230Z"
+status: "active"
 ---
 
 # § 10266. Staff
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.385Z"
   - **(1)** Subject to paragraphs (2) and (3), the Chairman may appoint and fix the compensation of such professional staff as may be necessary to discharge the responsibilities of the Board.
   - **(2)** Not more than 10 professional staff members may be appointed under this subsection.
   - **(3)** Professional staff members may be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no individual so appointed may receive pay in excess of the annual rate of basic pay payable for GS–18 of the General Schedule.
+
+## Source Credit
+
+*([Pub. L. 97–425, title V, § 506](https://www.govinfo.gov/link/plaw/97/public/425), as added [Pub. L. 100–202, § 101(d) [title III]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–104](https://www.govinfo.gov/link/statute/101/1329), 1329–121; [Pub. L. 100–203, title V, § 5051](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–249](https://www.govinfo.gov/link/statute/101/1330).)*

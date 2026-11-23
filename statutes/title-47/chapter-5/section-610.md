@@ -3,9 +3,10 @@ title: "Section 610 - Telephone service for disabled"
 usc_title: 47
 usc_section: "610"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 610"
-generated_at: "2026-03-30T02:56:24.521Z"
+generated_at: "2026-11-23T20:27:28.940Z"
+status: "active"
 ---
 
 # § 610. Telephone service for disabled
@@ -38,3 +39,11 @@ generated_at: "2026-03-30T02:56:24.521Z"
 - **(f)** The Commission shall periodically review the regulations established pursuant to this section. Except for coin-operated telephones and telephones provided for emergency use, the Commission may not require the retrofitting of equipment to achieve the purposes of this section.
 - **(g)** Any common carrier or connecting carrier may provide specialized terminal equipment needed by persons whose hearing, speech, vision, or mobility is impaired. The State commission may allow the carrier to recover in its tariffs for regulated service reasonable and prudent costs not charged directly to users of such equipment.
 - **(h)** Nothing in the Twenty-First Century Communications and Video Accessibility Act of 2010 shall be construed to modify the Commission’s regulations set forth in section 20.19 of title 47 of the Code of Federal Regulations, as in effect on October 8, 2010 .
+
+“The Congress finds that—
+
+“The Congress finds that—
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title VII, § 710, formerly title VI, § 610, as added [Pub. L. 97–410, § 3](https://www.govinfo.gov/link/plaw/97/public/410), Jan. 3, 1983, [96 Stat. 2043](https://www.govinfo.gov/link/statute/96/2043); renumbered title VII, § 710, [Pub. L. 98–549, § 6(a)](https://www.govinfo.gov/link/plaw/98/public/549), Oct. 30, 1984, [98 Stat. 2804](https://www.govinfo.gov/link/statute/98/2804); amended [Pub. L. 100–394, § 3](https://www.govinfo.gov/link/plaw/100/public/394), Aug. 16, 1988, [102 Stat. 976](https://www.govinfo.gov/link/statute/102/976); [Pub. L. 103–414, title III, § 304(a)(16)](https://www.govinfo.gov/link/plaw/103/public/414), Oct. 25, 1994, [108 Stat. 4297](https://www.govinfo.gov/link/statute/108/4297); [Pub. L. 111–260, title I, § 102](https://www.govinfo.gov/link/plaw/111/public/260), Oct. 8, 2010, [124 Stat. 2753](https://www.govinfo.gov/link/statute/124/2753).)*

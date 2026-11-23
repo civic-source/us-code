@@ -3,9 +3,10 @@ title: "Section 1908 - Authorization for use of Coast Guard Academy facilities a
 usc_title: 14
 usc_section: "1908"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 1908"
-generated_at: "2026-03-30T02:53:51.496Z"
+generated_at: "2026-11-23T20:25:54.578Z"
+status: "active"
 ---
 
 # § 1908. Authorization for use of Coast Guard Academy facilities and equipment by covered foundations
@@ -30,3 +31,19 @@ generated_at: "2026-03-30T02:53:51.496Z"
     - **(C)** academic, leadership, or character development of Coast Guard Academy cadets;
     - **(D)** institutional development of the Coast Guard Academy; or
     - **(E)** athletics in support of the Coast Guard Academy.
+
+Authority
+
+Prohibition
+
+Limitations
+
+Issuance of Policies
+
+Briefing
+
+Covered Foundation Defined
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. G, title LXXII, § 7244(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1729](https://www.govinfo.gov/link/statute/139/1729).)*

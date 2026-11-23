@@ -3,9 +3,10 @@ title: "Section 3506 - Federal agency responsibilities"
 usc_title: 44
 usc_section: "3506"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "44 U.S.C. § 3506"
-generated_at: "2026-03-30T02:55:56.296Z"
+generated_at: "2026-11-23T20:27:03.828Z"
+status: "active"
 ---
 
 # § 3506. Federal agency responsibilities
@@ -128,3 +129,21 @@ generated_at: "2026-03-30T02:55:56.296Z"
 - **(i)**
   - **(1)** In addition to the requirements described in subsection (c), each agency shall, with respect to the collection of information and the control of paperwork, establish 1 point of contact in the agency to act as a liaison between the agency and small business concerns (as defined in section 3 of the Small Business Act ( 15 U.S.C. 632 )).
   - **(2)** Each point of contact described under paragraph (1) shall be established not later than 1 year after the date of enactment of the Small Business Paperwork Relief Act of 2002.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+William J. Clinton.
+
+## Source Credit
+
+*(Added [Pub. L. 104–13, § 2](https://www.govinfo.gov/link/plaw/104/public/13), May 22, 1995, [109 Stat. 171](https://www.govinfo.gov/link/statute/109/171); amended [Pub. L. 104–106, div. E, title LI, § 5125(a)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 684](https://www.govinfo.gov/link/statute/110/684); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title X, § 1064(b)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–275; [Pub. L. 107–198, § 2(b)](https://www.govinfo.gov/link/plaw/107/public/198), (c), June 28, 2002, [116 Stat. 729](https://www.govinfo.gov/link/statute/116/729); [Pub. L. 107–217, § 3](https://www.govinfo.gov/link/plaw/107/public/217) (l)(6), Aug. 21, 2002, [116 Stat. 1302](https://www.govinfo.gov/link/statute/116/1302); [Pub. L. 107–296, title X, § 1005(c)(3)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2273](https://www.govinfo.gov/link/statute/116/2273); [Pub. L. 107–347, title III, § 305(c)(3)](https://www.govinfo.gov/link/plaw/107/public/347), Dec. 17, 2002, [116 Stat. 2961](https://www.govinfo.gov/link/statute/116/2961); [Pub. L. 115–435, title II, § 202(c)(1)](https://www.govinfo.gov/link/plaw/115/public/435), Jan. 14, 2019, [132 Stat. 5536](https://www.govinfo.gov/link/statute/132/5536).)*

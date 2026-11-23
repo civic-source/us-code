@@ -3,9 +3,10 @@ title: "Section 7699B - Breach of agreement: liability"
 usc_title: 38
 usc_section: "7699B"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7699B"
-generated_at: "2026-03-30T02:55:53.535Z"
+generated_at: "2026-11-23T20:27:02.051Z"
+status: "active"
 ---
 
 # § 7699B. Breach of agreement: liability
@@ -30,3 +31,17 @@ generated_at: "2026-03-30T02:55:53.535Z"
     - **(D)** “s” is the number of months of such period served by the participant.
 - **(d)** Liability shall not arise under subsection (c) if the participant fails to maintain employment as a Department employee due to a staffing adjustment.
 - **(e)** Any amount of damages that the United States is entitled to recover under this section shall be paid to the United States within the one-year period beginning on the date of the breach of the agreement.
+
+Liquidated Damages
+
+Liability During Program of Study
+
+Liability During Period of Obligated Service
+
+Limitation on Liability for Reductions-in-force
+
+Period for Payment of Damages
+
+## Source Credit
+
+*(Added [Pub. L. 116–171, title V, § 502(a)](https://www.govinfo.gov/link/plaw/116/public/171), Oct. 17, 2020, [134 Stat. 816](https://www.govinfo.gov/link/statute/134/816).)*

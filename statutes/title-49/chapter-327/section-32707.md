@@ -3,9 +3,10 @@ title: "Section 32707 - Administrative warrants"
 usc_title: 49
 usc_section: "32707"
 chapter: 327
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 32707"
-generated_at: "2026-03-30T02:56:19.364Z"
+generated_at: "2026-11-23T20:27:34.998Z"
+status: "active"
 ---
 
 # § 32707. Administrative warrants
@@ -34,3 +35,55 @@ generated_at: "2026-03-30T02:56:19.364Z"
     - **(A)** give the person from whose possession or premises the property was impounded a copy of the warrant and a receipt for the property; or
     - **(B)** leave the copy and receipt at the place from which the property was impounded.
   - **(3)** The judge or magistrate shall file the warrant, proof of service, and all documents filed about the warrant with the clerk of the United States district court for the judicial district in which the inspection is made.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 32707(a) | 15:1990e(b)(1) (last sentence). | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , § 415; added July 14, 1976 , Pub. L. 94–364, § 408(2) , 90 Stat. 987 . |
+| 32707(b)(1) | 15:1990e(a) (words before 1st comma). |  |
+| 32707(b)(2) | 15:1990e(b)(1) (1st sentence), (2) (1st sentence). |  |
+| 32707(b)(3) | 15:1990e(b)(2) (2d, last sentences). |  |
+| 32707(b)(4) | 15:1990e(a) (words after 1st comma). |  |
+| 32707(c)(1) | 15:1990e(b)(3) (1st, 3d–last sentences). |  |
+| 32707(c)(2) | 15:1990e(b)(3) (2d sentence). |  |
+| 32707(c)(3) | 15:1990e(b)(4). |  |
+
+
+Definition
+
+Warrant Requirement and Issuance
+
+Service and Impoundment of Property
+
+Historical and Revision Notes
+
+32707(a)
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+July 14, 1976
+
+Pub. L. 94–364, § 408(2)
+
+90 Stat. 987
+
+32707(b)(1)
+
+32707(b)(2)
+
+32707(b)(3)
+
+32707(b)(4)
+
+32707(c)(1)
+
+32707(c)(2)
+
+32707(c)(3)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1053](https://www.govinfo.gov/link/statute/108/1053).)*

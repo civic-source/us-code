@@ -3,9 +3,10 @@ title: "Section 649h - Continuation on active duty"
 usc_title: 10
 usc_section: "649h"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 649h"
-generated_at: "2026-03-30T02:53:38.072Z"
+generated_at: "2026-11-23T20:25:51.034Z"
+status: "active"
 ---
 
 # § 649h. Continuation on active duty
@@ -24,3 +25,31 @@ generated_at: "2026-03-30T02:53:38.072Z"
   - **(1)** be discharged upon the expiration of the term of continued service; or
   - **(2)** if eligible for retirement under another other provision of law, be retired under that law on the first day of the first month following the month in which the officer completes the term of continued service.
 - **(h)** The discharge or retirement of an officer pursuant to this section shall be considered to be an involuntary discharge or retirement for purposes of any other provision of law.
+
+In General
+
+Identification of Positions for Officers Continued on Active Duty.—
+
+In general
+
+Identification
+
+Recommendation for Continuation
+
+Approval of Secretary of Military Department
+
+Nonacceptance of Continuation
+
+Period of Continuation.—
+
+In general
+
+Additional continuation
+
+Effect of Expiration of Continuation
+
+Treatment of Discharge or Retirement
+
+## Source Credit
+
+*(Added [Pub. L. 115–232, div. A, title V, § 507(a)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1747](https://www.govinfo.gov/link/statute/132/1747).)*

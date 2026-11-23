@@ -3,9 +3,10 @@ title: "Section 901 - Authority to prescribe rules for conduct and penalties for
 usc_title: 38
 usc_section: "901"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 901"
-generated_at: "2026-03-30T02:55:53.476Z"
+generated_at: "2026-11-23T20:27:01.585Z"
+status: "active"
 ---
 
 # § 901. Authority to prescribe rules for conduct and penalties for violations
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:53.476Z"
 - **(f)**
   - **(1)** The Secretary may not prohibit the use of a covered service dog in any facility or on any property of the Department or in any facility or on any property that receives funding from the Secretary.
   - **(2)** For purposes of this subsection, a covered service dog is a service dog that has been trained by an entity that is accredited by an appropriate accrediting body that evaluates and accredits organizations which train guide or service dogs.
+
+## Source Credit
+
+*(Added [Pub. L. 102–83, § 2(a)](https://www.govinfo.gov/link/plaw/102/public/83), Aug. 6, 1991, [105 Stat. 397](https://www.govinfo.gov/link/statute/105/397); amended [Pub. L. 112–154, title I, § 109](https://www.govinfo.gov/link/plaw/112/public/154), Aug. 6, 2012, [126 Stat. 1174](https://www.govinfo.gov/link/statute/126/1174).)*

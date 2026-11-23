@@ -3,9 +3,10 @@ title: "Section 539q - Hermosa Creek watershed protection"
 usc_title: 16
 usc_section: "539q"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 539q"
-generated_at: "2026-03-30T02:54:22.867Z"
+generated_at: "2026-11-23T20:26:20.118Z"
+status: "active"
 ---
 
 # § 539q. Hermosa Creek watershed protection
@@ -132,3 +133,11 @@ generated_at: "2026-03-30T02:54:22.867Z"
     - **(C)** the designation or establishment of—
       - **(i)** new units of special use airspace; or
       - **(ii)** any military flight training route over a wilderness area described in subparagraph (A).
+
+(aa) when there exists adequate snow coverage; and
+
+(bb) subject to such terms and conditions as the Secretary may require.
+
+## Source Credit
+
+*([Pub. L. 113–291, div. B, title XXX, § 3062](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3821](https://www.govinfo.gov/link/statute/128/3821).)*

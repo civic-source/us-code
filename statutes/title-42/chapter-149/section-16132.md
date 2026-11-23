@@ -3,9 +3,10 @@ title: "Section 16132 - National grant, rebate, and loan programs"
 usc_title: 42
 usc_section: "16132"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16132"
-generated_at: "2026-03-30T02:56:11.469Z"
+generated_at: "2026-11-23T20:27:23.612Z"
+status: "active"
 ---
 
 # § 16132. National grant, rebate, and loan programs
@@ -83,3 +84,7 @@ generated_at: "2026-03-30T02:56:11.469Z"
 - **(f)** Not later than 60 days after the date of the award of a grant, rebate, or loan, the Administrator shall publish on the website of the Environmental Protection Agency—
   - **(1)** for rebates and loans provided to the owner of a diesel vehicle or fleet, the total number and dollar amount of rebates or loans provided, as well as a breakdown of the technologies funded through the rebates or loans; and
   - **(2)** for other rebates and loans, and for grants, a description of each application for which the grant, rebate, or loan is provided.
+
+## Source Credit
+
+*([Pub. L. 109–58, title VII, § 792](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 839](https://www.govinfo.gov/link/statute/119/839); [Pub. L. 111–364, § 2(b)](https://www.govinfo.gov/link/plaw/111/public/364), Jan. 4, 2011, [124 Stat. 4056](https://www.govinfo.gov/link/statute/124/4056).)*

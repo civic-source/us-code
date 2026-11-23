@@ -3,9 +3,10 @@ title: "Section 893a - NOAA ocean and atmospheric science education programs"
 usc_title: 33
 usc_section: "893a"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 893a"
-generated_at: "2026-03-30T02:55:41.075Z"
+generated_at: "2026-11-23T20:26:53.928Z"
+status: "active"
 ---
 
 # § 893a. NOAA ocean and atmospheric science education programs
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:41.075Z"
   - **(2)** ensure that program or portfolio evaluations focus on educational outcomes and not just inputs, activities completed, or the number of participants.
 - **(e)** Nothing in this section may be construed to affect the application of section 1232a of title 20 or sections 794 and 794d of title 29.
 - **(f)** In this section, the term “STEM” means the academic and professional disciplines of science, technology, engineering, and mathematics.
+
+## Source Credit
+
+*([Pub. L. 110–69, title IV, § 4002](https://www.govinfo.gov/link/plaw/110/public/69), Aug. 9, 2007, [121 Stat. 600](https://www.govinfo.gov/link/statute/121/600); [Pub. L. 111–358, title III, § 302](https://www.govinfo.gov/link/plaw/111/public/358), Jan. 4, 2011, [124 Stat. 3997](https://www.govinfo.gov/link/statute/124/3997); [Pub. L. 114–329, title III, § 314](https://www.govinfo.gov/link/plaw/114/public/329), Jan. 6, 2017, [130 Stat. 3015](https://www.govinfo.gov/link/statute/130/3015).)*

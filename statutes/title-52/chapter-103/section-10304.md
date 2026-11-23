@@ -3,9 +3,10 @@ title: "Section 10304 - Alteration of voting qualifications; procedure and appea
 usc_title: 52
 usc_section: "10304"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "52 U.S.C. § 10304"
-generated_at: "2026-03-30T02:56:30.160Z"
+generated_at: "2026-11-23T20:27:36.953Z"
+status: "active"
 ---
 
 # § 10304. Alteration of voting qualifications; procedure and appeal; purpose or effect of diminishing the ability of citizens to elect their preferred candidates
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:30.160Z"
 - **(b)** Any voting qualification or prerequisite to voting, or standard, practice, or procedure with respect to voting that has the purpose of or will have the effect of diminishing the ability of any citizens of the United States on account of race or color, or in contravention of the guarantees set forth in section 10303(f)(2) of this title , to elect their preferred candidates of choice denies or abridges the right to vote within the meaning of subsection (a) of this section.
 - **(c)** The term “purpose” in subsections (a) and (b) of this section shall include any discriminatory purpose.
 - **(d)** The purpose of subsection (b) of this section is to protect the ability of such citizens to elect their preferred candidates of choice.
+
+## Source Credit
+
+*([Pub. L. 89–110, title I, § 5](https://www.govinfo.gov/link/plaw/89/public/110), Aug. 6, 1965, [79 Stat. 439](https://www.govinfo.gov/link/statute/79/439); renumbered title I and amended [Pub. L. 91–285](https://www.govinfo.gov/link/plaw/91/public/285), §§ 2, 5, June 22, 1970, [84 Stat. 314](https://www.govinfo.gov/link/statute/84/314), 315; [Pub. L. 94–73, title II](https://www.govinfo.gov/link/plaw/94/public/73), §§ 204, 206, title IV, § 405, Aug. 6, 1975, [89 Stat. 402](https://www.govinfo.gov/link/statute/89/402), 404; [Pub. L. 109–246, § 5](https://www.govinfo.gov/link/plaw/109/public/246), July 27, 2006, [120 Stat. 580](https://www.govinfo.gov/link/statute/120/580).)*

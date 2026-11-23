@@ -3,9 +3,10 @@ title: "Section 6037 - Return of S corporation"
 usc_title: 26
 usc_section: "6037"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6037"
-generated_at: "2026-03-30T02:55:27.830Z"
+generated_at: "2026-11-23T20:26:46.502Z"
+status: "active"
 ---
 
 # § 6037. Return of S corporation
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:27.830Z"
     - **(B)** in which the shareholder does not comply with subparagraph (A)(ii) of paragraph (2),
   - **(4)** For purposes of this subsection, the term “subchapter S item” means any item of an S corporation to the extent that regulations prescribed by the Secretary provide that, for purposes of this subtitle, such item is more appropriately determined at the corporation level than at the shareholder level.
   - **(5)** For addition to tax in the case of a shareholder’s negligence in connection with, or disregard of, the requirements of this section, see part II of subchapter A of chapter 68.
+
+## Source Credit
+
+*(Added [Pub. L. 85–866, title I, § 64(c)](https://www.govinfo.gov/link/plaw/85/public/866), Sept. 2, 1958, [72 Stat. 1656](https://www.govinfo.gov/link/statute/72/1656); amended [Pub. L. 94–455, title XIX, § 1906(a)(3)](https://www.govinfo.gov/link/plaw/94/public/455), (b)(13)(A), Oct. 4, 1976, [90 Stat. 1824](https://www.govinfo.gov/link/statute/90/1824), 1834; [Pub. L. 97–354, § 5(a)(39)(A)](https://www.govinfo.gov/link/plaw/97/public/354), Oct. 19, 1982, [96 Stat. 1696](https://www.govinfo.gov/link/statute/96/1696); [Pub. L. 98–369, div. A, title VII, § 714(q)(2)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 965](https://www.govinfo.gov/link/statute/98/965); [Pub. L. 104–188, title I, § 1307(c)(2)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1781](https://www.govinfo.gov/link/statute/110/1781).)*

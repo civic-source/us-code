@@ -3,9 +3,10 @@ title: "Section 12742 - Eligible uses of investment"
 usc_title: 42
 usc_section: "12742"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12742"
-generated_at: "2026-03-30T02:56:11.430Z"
+generated_at: "2026-11-23T20:27:23.433Z"
+status: "active"
 ---
 
 # § 12742. Eligible uses of investment
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:56:11.430Z"
   - **(3)** In calculating cost limits, the Secretary shall consult with organizations that have expertise in the development of affordable housing, including national nonprofit organizations and national organizations representing private development firms and State and local governments.
 - **(f)** The requirements of section 3545(d) of this title shall be satisfied by a certification by a participating jurisdiction to the Secretary that the combination of Federal assistance provided to any housing project shall not be any more than is necessary to provide affordable housing.
 - **(g)** A participating jurisdiction may not use more than 5 percent of its allocation under this part for the payment of operating expenses for community housing development organizations.
+
+## Source Credit
+
+*([Pub. L. 101–625, title II, § 212](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4097](https://www.govinfo.gov/link/statute/104/4097); [Pub. L. 102–550, title II](https://www.govinfo.gov/link/plaw/102/public/550), §§ 203(a), 204–207(b), (d), title X, § 1012(e), Oct. 28, 1992, [106 Stat. 3752–3754](https://www.govinfo.gov/link/statute/106/3752), 3905; [Pub. L. 105–276, title V, § 522(b)(5)](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2565](https://www.govinfo.gov/link/statute/112/2565).)*

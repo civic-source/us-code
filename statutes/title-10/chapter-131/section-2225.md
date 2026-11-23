@@ -3,9 +3,10 @@ title: "Section 2225 - Insider threat detection"
 usc_title: 10
 usc_section: "2225"
 chapter: 131
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2225"
-generated_at: "2026-03-30T02:53:38.150Z"
+generated_at: "2026-11-23T20:25:51.511Z"
+status: "active"
 ---
 
 # § 2225. Insider threat detection
@@ -31,3 +32,11 @@ generated_at: "2026-03-30T02:53:38.150Z"
   - **(5)** A baseline analysis framework that includes measures of performance and effectiveness.
   - **(6)** A plan for how to ensure related security measures are put in place for other departments or agencies with access to Department of Defense networks.
   - **(7)** A plan for enforcement to ensure that the program is being applied and implemented on a uniform and consistent basis.
+
+Program Required
+
+Elements
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. A, title XVI, § 1623(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1183](https://www.govinfo.gov/link/statute/139/1183).)*

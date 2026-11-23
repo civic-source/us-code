@@ -3,9 +3,10 @@ title: "Section 994 - Inter-company pricing rules"
 usc_title: 26
 usc_section: "994"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 994"
-generated_at: "2026-03-30T02:55:27.753Z"
+generated_at: "2026-11-23T20:26:46.004Z"
+status: "active"
 ---
 
 # § 994. Inter-company pricing rules
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:27.753Z"
   - **(1)** rules which are consistent with the rules set forth in subsection (a) for the application of this section in the case of commissions, rentals, and other income, and
   - **(2)** rules for the allocation of expenditures in computing combined taxable income under subsection (a)(2) in those cases where a DISC is seeking to establish or maintain a market for export property.
 - **(c)** For purposes of this section, the term “export promotion expenses” means those expenses incurred to advance the distribution or sale of export property for use, consumption, or distribution outside of the United States, but does not include income taxes. Such expenses shall also include freight expenses to the extent of 50 percent of the cost of shipping export property aboard airplanes owned and operated by United States persons or ships documented under the laws of the United States in those cases where law or regulations does not require that such property be shipped aboard such airplanes or ships.
+
+## Source Credit
+
+*(Added [Pub. L. 92–178, title V, § 501](https://www.govinfo.gov/link/plaw/92/public/178), Dec. 10, 1971, [85 Stat. 543](https://www.govinfo.gov/link/statute/85/543); amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834).)*

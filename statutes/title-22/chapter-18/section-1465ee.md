@@ -3,9 +3,10 @@ title: "Section 1465ee - Authorization of appropriations"
 usc_title: 22
 usc_section: "1465ee"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 1465ee"
-generated_at: "2026-03-30T02:55:05.332Z"
+generated_at: "2026-11-23T20:26:32.112Z"
+status: "active"
 ---
 
 # § 1465ee. Authorization of appropriations
@@ -17,3 +18,9 @@ generated_at: "2026-03-30T02:55:05.332Z"
     - **(A)** the date of the determination and notification by the President under paragraph (1), or
     - **(B)** 30 days,
 - **(c)** Amounts appropriated to carry out the purposes of this subchapter are authorized to be available until expended.
+
+George Bush.
+
+## Source Credit
+
+*([Pub. L. 101–246, title II, § 247](https://www.govinfo.gov/link/plaw/101/public/246), Feb. 16, 1990, [104 Stat. 62](https://www.govinfo.gov/link/statute/104/62); [Pub. L. 102–138, title II, § 232](https://www.govinfo.gov/link/plaw/102/public/138), Oct. 28, 1991, [105 Stat. 703](https://www.govinfo.gov/link/statute/105/703).)*

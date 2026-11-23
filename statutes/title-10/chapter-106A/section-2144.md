@@ -3,9 +3,10 @@ title: "Section 2144 - Subsistence allowance"
 usc_title: 10
 usc_section: "2144"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2144"
-generated_at: "2026-03-30T02:53:38.143Z"
+generated_at: "2026-11-23T20:25:51.459Z"
+status: "active"
 ---
 
 # § 2144. Subsistence allowance
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:53:38.143Z"
 - **(a)** Subject to subsection (b), a person entitled to educational assistance under this chapter is entitled to receive a monthly subsistence allowance during any period for which educational assistance is provided such person. The amount of a subsistence allowance under this section is $300 per month, adjusted in accordance with section 2145 of this title , in the case of a person pursuing a course of instruction on a full-time basis and is one-half of such amount (as so adjusted) in the case of a person pursuing a course of instruction on less than a full-time basis.
 - **(b)** The number of months for which a subsistence allowance may be provided to any person under this section is computed on the basis of nine months for each standard academic year of educational assistance to which such person is entitled.
 - **(c)** For purposes of subsection (a), a person shall be considered to be pursuing a course of instruction on a full-time basis if the person is enrolled in twelve or more semester hours of instruction (or the equivalent, as determined by Secretary concerned).
+
+## Source Credit
+
+*(Added [Pub. L. 96–342, title IX, § 901(a)](https://www.govinfo.gov/link/plaw/96/public/342), Sept. 8, 1980, [94 Stat. 1112](https://www.govinfo.gov/link/statute/94/1112).)*

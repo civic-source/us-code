@@ -3,9 +3,10 @@ title: "Section 16421a - Western Area Power Administration borrowing authority"
 usc_title: 42
 usc_section: "16421a"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16421a"
-generated_at: "2026-03-30T02:56:11.486Z"
+generated_at: "2026-11-23T20:27:23.684Z"
+status: "active"
 ---
 
 # § 16421a. Western Area Power Administration borrowing authority
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:56:11.486Z"
 - **(e)**
   - **(1)** Prior to requesting any loans under this section, the Administrator shall use a public process to develop practices and policies that implement the authority granted by this section.
   - **(2)** In the course of selecting potential projects to be funded under this section, the Administrator shall seek Requests For Interest from entities interested in identifying potential projects through one or more notices published in the Federal Register.
+
+## Source Credit
+
+*([Pub. L. 98–381, title III, § 301](https://www.govinfo.gov/link/plaw/98/public/381), as added [Pub. L. 111–5, div. A, title IV, § 402](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 141](https://www.govinfo.gov/link/statute/123/141).)*

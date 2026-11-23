@@ -3,9 +3,10 @@ title: "Section 12854 - Definitions"
 usc_title: 42
 usc_section: "12854"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12854"
-generated_at: "2026-03-30T02:56:11.433Z"
+generated_at: "2026-11-23T20:27:23.447Z"
+status: "active"
 ---
 
 # § 12854. Definitions
@@ -25,3 +26,7 @@ For purposes of this subchapter:
       - **(ii)** is pregnant.
   - **(5)** The term “State” means the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
   - **(6)** The term “Trust” means the National Homeownership Trust established in section 12851 of this title .
+
+## Source Credit
+
+*([Pub. L. 101–625, title III, § 305](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4132](https://www.govinfo.gov/link/statute/104/4132).)*

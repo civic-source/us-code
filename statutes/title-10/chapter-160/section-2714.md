@@ -3,9 +3,10 @@ title: "Section 2714 - Perfluoroalkyl Substances and Polyfluoroalkyl Substances 
 usc_title: 10
 usc_section: "2714"
 chapter: 160
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2714"
-generated_at: "2026-03-30T02:53:38.173Z"
+generated_at: "2026-11-23T20:25:51.689Z"
+status: "active"
 ---
 
 # § 2714. Perfluoroalkyl Substances and Polyfluoroalkyl Substances Task Force
@@ -30,3 +31,21 @@ generated_at: "2026-03-30T02:53:38.173Z"
 - **(g)** In this section:
   - **(1)** The term “perfluoroalkyl substance” means a man-made chemical of which all of the carbon atoms are fully fluorinated carbon atoms.
   - **(2)** The term “polyfluoroalkyl substance” means a man-made chemical containing a mix of fully fluorinated carbon atoms, partially fluorinated carbon atoms, and nonfluorinated carbon atoms.
+
+In General
+
+Membership
+
+Chairman
+
+Support
+
+Duties
+
+Report
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 117–81, div. A, title III, § 341(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1641](https://www.govinfo.gov/link/statute/135/1641); amended [Pub. L. 117–263, div. A, title III, § 341(b)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2529](https://www.govinfo.gov/link/statute/136/2529); [Pub. L. 118–31, div. A, title III, § 331](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 221](https://www.govinfo.gov/link/statute/137/221).)*

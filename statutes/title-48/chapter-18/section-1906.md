@@ -3,9 +3,10 @@ title: "Section 1906 - Construction contract assistance"
 usc_title: 48
 usc_section: "1906"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1906"
-generated_at: "2026-03-30T02:56:14.595Z"
+generated_at: "2026-11-23T20:27:28.095Z"
+status: "active"
 ---
 
 # § 1906. Construction contract assistance
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:14.595Z"
   - **(2)** to the extent that necessary skills are not possessed by citizens of the Federated States of Micronesia and the Marshall Islands, provide on the job training, with particular emphasis on the development of skills relating to operation of machinery and routine and preventative maintenance of machinery and other facilities; and
   - **(3)** provide specific training or other assistance in order to enable the Government to engage in long-term maintenance of infrastructure.
 - **(b)** There are authorized to be appropriated such sums as may be necessary to cover any additional costs incurred by the Government of the Federated States of Micronesia or the Republic of the Marshall Islands if such Governments, pursuant to an agreement entered into with the United States, apply a preference on the award of contracts to United States firms, provided that the amount of such preference does not exceed 10 percent of the amount of the lowest qualified bid from a non-United States firm for such contract.
+
+## Source Credit
+
+*([Pub. L. 99–239, title I, § 106](https://www.govinfo.gov/link/plaw/99/public/239), Jan. 14, 1986, [99 Stat. 1797](https://www.govinfo.gov/link/statute/99/1797).)*

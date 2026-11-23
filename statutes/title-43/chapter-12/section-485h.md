@@ -3,9 +3,10 @@ title: "Section 485h - New projects; sale of water and electric power; lease of 
 usc_title: 43
 usc_section: "485h"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 485h"
-generated_at: "2026-03-30T02:55:57.451Z"
+generated_at: "2026-11-23T20:27:06.219Z"
+status: "active"
 ---
 
 # § 485h. New projects; sale of water and electric power; lease of power privileges
@@ -43,3 +44,19 @@ generated_at: "2026-03-30T02:55:57.451Z"
 - **(f)** No less than sixty days before entering into or amending any repayment contract or any contract for the delivery of irrigation water (except any contract for the delivery of surplus or interim irrigation water whose duration is for one year or less) the Secretary shall—
   - **(1)** publish notice of the proposed contract or amendment in newspapers of general circulation in the affected area and shall make reasonable efforts to otherwise notify interested parties which may be affected by such contract or amendment, together with information indicating to whom comments or inquiries concerning the proposed actions can be addressed; and
   - **(2)** provide an opportunity for submission of written data, views and arguments, and shall consider all substantive comments so received.
+
+Conduit
+
+Irrigation district
+
+Reserved conduit
+
+Transferred conduit
+
+Small conduit hydropower
+
+“That the Secretary of the Interior shall, upon request of the other party to any long-term contract for municipal, domestic, or industrial water supply hereafter entered into under clause (2) in the proviso to the first sentence of section 9, subsection (c), of the Reclamation Project Act of 1939 ( 53 Stat. 1195 , 43 U.S.C. 485h ), include provision for renewal thereof subject to renegotiation of (1) the charges set forth in the contract in the light of circumstances prevailing at the time of renewal and (2) any other matters with respect to which the right to renegotiate is reserved in the contract. Any right of renewal shall be exercised within such reasonable time prior to the expiration of the contract as the parties shall have agreed upon and set forth therein.
+
+## Source Credit
+
+*(Aug. 4, 1939, ch. 418, § 9, [53 Stat. 1193](https://www.govinfo.gov/link/statute/53/1193); July 26, 1947, ch. 343, title II, § 205(a), [61 Stat. 501](https://www.govinfo.gov/link/statute/61/501); [Pub. L. 85–611](https://www.govinfo.gov/link/plaw/85/public/611), §§ 1, 3, Aug. 8, 1958, [72 Stat. 542](https://www.govinfo.gov/link/statute/72/542), 543; [Pub. L. 87–613, § 2](https://www.govinfo.gov/link/plaw/87/public/613), Aug. 28, 1962, [76 Stat. 407](https://www.govinfo.gov/link/statute/76/407); [Pub. L. 97–293, title II, § 226](https://www.govinfo.gov/link/plaw/97/public/293), Oct. 12, 1982, [96 Stat. 1273](https://www.govinfo.gov/link/statute/96/1273); [Pub. L. 113–24, § 2](https://www.govinfo.gov/link/plaw/113/public/24), Aug. 9, 2013, [127 Stat. 498](https://www.govinfo.gov/link/statute/127/498); [Pub. L. 117–58, div. D, title III, § 40335](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1025](https://www.govinfo.gov/link/statute/135/1025).)*

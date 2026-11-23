@@ -3,9 +3,10 @@ title: "Section 6367 - Receipt and use of leave from a leave bank"
 usc_title: 5
 usc_section: "6367"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 6367"
-generated_at: "2026-03-30T02:52:56.033Z"
+generated_at: "2026-11-23T20:25:32.040Z"
+status: "active"
 ---
 
 # § 6367. Receipt and use of leave from a leave bank
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:52:56.033Z"
   - **(1)** may accumulate without regard to any limitation under section 6304; and
   - **(2)** may be substituted retroactively for any period of leave without pay, or used to liquidate an indebtedness for any period of advanced leave, which began on or after a date fixed by the employing agency of the employee as the beginning of the medical emergency involved.
 - **(e)** Except to the extent that the Office of Personnel Management may prescribe regulations, nothing in the provisions of section 7351 shall apply to any solicitation, contribution, or use of leave to or from a leave bank under this subchapter.
+
+## Source Credit
+
+*(Added [Pub. L. 100–566, § 2(a)](https://www.govinfo.gov/link/plaw/100/public/566), Oct. 31, 1988, [102 Stat. 2841](https://www.govinfo.gov/link/statute/102/2841).)*

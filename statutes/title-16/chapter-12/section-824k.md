@@ -3,9 +3,10 @@ title: "Section 824k - Orders requiring interconnection or wheeling"
 usc_title: 16
 usc_section: "824k"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 824k"
-generated_at: "2026-03-30T02:54:22.916Z"
+generated_at: "2026-11-23T20:26:20.291Z"
+status: "active"
 ---
 
 # § 824k. Orders requiring interconnection or wheeling
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:54:22.916Z"
   - **(2)** For purposes of this subsection—
     - **(A)** the term “ERCOT” means the Electric Reliability Council of Texas; and
     - **(B)** the term “ERCOT utility” means a transmitting utility which is a member of ERCOT.
+
+## Source Credit
+
+*(June 10, 1920, ch. 285, pt. II, § 212, as added [Pub. L. 95–617, title II, § 204(a)](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3138](https://www.govinfo.gov/link/statute/92/3138); amended [Pub. L. 102–486, title VII, § 722](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2916](https://www.govinfo.gov/link/statute/106/2916).)*

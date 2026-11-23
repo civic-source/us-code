@@ -3,9 +3,10 @@ title: "Section 205e - Functions and powers of Board"
 usc_title: 15
 usc_section: "205e"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 205e"
-generated_at: "2026-03-30T02:54:08.075Z"
+generated_at: "2026-11-23T20:26:03.659Z"
+status: "active"
 ---
 
 # § 205e. Functions and powers of Board
@@ -27,3 +28,7 @@ It shall be the function of the Board to devise and carry out a broad program of
   - **(9)** conduct research, including appropriate surveys; publish the results of such research; and recommend to the Congress and to the President such action as may be appropriate to deal with any unresolved problems, issues, and questions associated with metric conversion, or usage, such problems, issues, and questions may include, but are not limited to, the impact on workers (such as costs of tools and training) and on different occupations and industries, possible increased costs to consumers, the impact on society and the economy, effects on small business, the impact on the international trade position of the United States, the appropriateness of and methods for using procurement by the Federal Government as a means to effect conversion to the metric system, the proper conversion or transition period in particular sectors of society, and consequences for national defense;
   - **(10)** submit annually to the Congress and to the President a report on its activities. Each such report shall include a status report on the conversion process as well as projections for the conversion process. Such report may include recommendations covering any legislation or executive action needed to implement the the 1 1 So in original. programs of conversion accepted by the Board. The Board may also submit such other reports and recommendations as it deems necessary; and
   - **(11)** submit to the Congress and to the President, not later than 1 year after the date of enactment of the Act making appropriations for carrying out this subchapter, a report on the need to provide an effective structural mechanism for converting customary units to metric units in statutes, regulations, and other laws at all levels of government, on a coordinated and timely basis, in response to voluntary conversion programs adopted and implemented by various sectors of society under the auspices and with the approval of the Board. If the Board determines that such a need exists, such report shall include recommendations as to appropriate and effective means for establishing and implementing such a mechanism.
+
+## Source Credit
+
+*([Pub. L. 94–168, § 6](https://www.govinfo.gov/link/plaw/94/public/168), Dec. 23, 1975, [89 Stat. 1008](https://www.govinfo.gov/link/statute/89/1008); [Pub. L. 96–88, title III, § 301](https://www.govinfo.gov/link/plaw/96/public/88), title V, § 507, Oct. 17, 1979, [93 Stat. 677](https://www.govinfo.gov/link/statute/93/677), 692.)*

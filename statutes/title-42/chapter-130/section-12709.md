@@ -3,9 +3,10 @@ title: "Section 12709 - Energy efficiency standards"
 usc_title: 42
 usc_section: "12709"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12709"
-generated_at: "2026-03-30T02:56:11.430Z"
+generated_at: "2026-11-23T20:27:23.430Z"
+status: "active"
 ---
 
 # § 12709. Energy efficiency standards
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.430Z"
 - **(d)** If the Secretary of Housing and Urban Development and the Secretary of Agriculture have not, within 1 year after the requirements of the 2006 IECC or the ASHRAE Standard 90.1–2004 are revised, amended the standards or made a determination under subsection (c), all new construction and rehabilitation of housing specified in subsection (a) shall meet the requirements of the revised code or standard if—
   - **(1)** the Secretary of Housing and Urban Development or the Secretary of Agriculture make a determination that the revised codes do not negatively affect the availability or affordability of new construction of assisted housing and single family and multifamily residential housing (other than manufactured homes) subject to mortgages insured under the National Housing Act ( 12 U.S.C. 1701 et seq.) or insured, guaranteed, or made by the Secretary of Agriculture under title V of the Housing Act of 1949 ( 42 U.S.C. 1471 et seq.), respectively; and
   - **(2)** the Secretary of Energy has made a determination under section 6833 of this title that the revised code or standard would improve energy efficiency.
+
+## Source Credit
+
+*([Pub. L. 101–625, title I, § 109](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4093](https://www.govinfo.gov/link/statute/104/4093); [Pub. L. 102–486, title I, § 101(c)(1)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2786](https://www.govinfo.gov/link/statute/106/2786); [Pub. L. 109–58, title I, § 153](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 649](https://www.govinfo.gov/link/statute/119/649); [Pub. L. 110–140, title IV, § 481](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1648](https://www.govinfo.gov/link/statute/121/1648).)*

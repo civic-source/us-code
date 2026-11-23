@@ -3,9 +3,10 @@ title: "Section 4435 - Recovery of initial U.S. Customs and Border Protection pr
 usc_title: 19
 usc_section: "4435"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 4435"
-generated_at: "2026-03-30T02:54:24.708Z"
+generated_at: "2026-11-23T20:26:11.146Z"
+status: "active"
 ---
 
 # § 4435. Recovery of initial U.S. Customs and Border Protection preclearance operations costs
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:24.708Z"
     - **(B)** visits to the airport authority conducted by U.S. Customs and Border Protection personnel necessary to prepare for the establishment or maintenance of preclearance operations at such airport, including the compensation, travel expenses, and allowances payable to such personnel attributable to such visits.
   - **(2)** The costs described in paragraph (1)(A) shall not include the salaries and benefits of new U.S. Customs and Border Protection officers once such officers are permanently stationed at a domestic United States port of entry or other domestic U.S. Customs and Border Protection facility after being hired, trained, and equipped.
 - **(e)** Except as otherwise provided in this section, nothing in this section may be construed as affecting the responsibilities, duties, or authorities of U.S. Customs and Border Protection.
+
+## Source Credit
+
+*([Pub. L. 114–125, title VIII, § 817](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 220](https://www.govinfo.gov/link/statute/130/220).)*

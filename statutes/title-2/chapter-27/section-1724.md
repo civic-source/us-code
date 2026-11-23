@@ -3,9 +3,10 @@ title: "Section 1724 - Responsibilities of Board"
 usc_title: 2
 usc_section: "1724"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1724"
-generated_at: "2026-03-30T02:53:04.816Z"
+generated_at: "2026-11-23T20:25:28.981Z"
+status: "active"
 ---
 
 # § 1724. Responsibilities of Board
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:04.816Z"
   - **(3)** The establishment of clear standards for copying old sound recordings (including equipment specifications and equalization guidelines).
   - **(4)** Current laws and restrictions regarding the use of archives of sound recordings, including recommendations for changes in such laws and restrictions to enable the Library of Congress and other nonprofit institutions in the field of sound recording preservation to make their collections available to researchers in a digital format.
   - **(5)** Copyright and other laws applicable to the preservation of sound recordings.
+
+## Source Credit
+
+*([Pub. L. 106–474, title I, § 124](https://www.govinfo.gov/link/plaw/106/public/474), Nov. 9, 2000, [114 Stat. 2089](https://www.govinfo.gov/link/statute/114/2089).)*

@@ -3,9 +3,10 @@ title: "Section 2605 - Enforcement"
 usc_title: 33
 usc_section: "2605"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2605"
-generated_at: "2026-03-30T02:55:41.129Z"
+generated_at: "2026-11-23T20:26:54.208Z"
+status: "active"
 ---
 
 # § 2605. Enforcement
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:41.129Z"
   - **(1)** deny entry to any place in the United States; and
   - **(2)** detain at the place in the United States from which it is about to depart.
 - **(e)** The Administrator shall conduct an investigation of the owner or operator of a vessel or facility if the owner has 5 or more separate violations during a 6-month period.
+
+## Source Credit
+
+*([Pub. L. 100–688, title IV, § 4105](https://www.govinfo.gov/link/plaw/100/public/688), Nov. 18, 1988, [102 Stat. 4157](https://www.govinfo.gov/link/statute/102/4157).)*

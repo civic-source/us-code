@@ -3,9 +3,10 @@ title: "Section 1350 - Missing participants"
 usc_title: 29
 usc_section: "1350"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1350"
-generated_at: "2026-03-30T02:55:18.733Z"
+generated_at: "2026-11-23T20:26:38.025Z"
+status: "active"
 ---
 
 # § 1350. Missing participants
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:55:18.733Z"
       - **(ii)** has not provided for the transfer of assets to pay the benefits of all missing participants to another pension plan (within the meaning of section 1002(2) of this title ).
   - **(5)** Subsections (a)(1) and (a)(3) shall not apply to a plan described in paragraph (4).
 - **(e)** The corporation shall prescribe such regulations as are necessary to carry out the purposes of this section, including rules relating to what will be considered a diligent search, the amount payable to the corporation, and the amount to be paid by the corporation.
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4050](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 103–465, title VII, § 776(a)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 5047](https://www.govinfo.gov/link/statute/108/5047); amended [Pub. L. 109–280, title IV, § 410(a)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 934](https://www.govinfo.gov/link/statute/120/934); [Pub. L. 110–458, title I, § 104(e)](https://www.govinfo.gov/link/plaw/110/public/458), Dec. 23, 2008, [122 Stat. 5104](https://www.govinfo.gov/link/statute/122/5104).)*

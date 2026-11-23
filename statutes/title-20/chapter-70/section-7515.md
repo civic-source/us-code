@@ -3,9 +3,10 @@ title: "Section 7515 - Program authorized"
 usc_title: 20
 usc_section: "7515"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 7515"
-generated_at: "2026-03-30T02:54:48.214Z"
+generated_at: "2026-11-23T20:26:14.919Z"
+status: "active"
 ---
 
 # § 7515. Program authorized
@@ -57,3 +58,11 @@ generated_at: "2026-03-30T02:54:48.214Z"
   - **(1)** There are authorized to be appropriated to carry out this section and section 7514 of this title $32,397,000 for each of fiscal years 2017 through 2020.
   - **(2)** Of the funds appropriated under this subsection, the Secretary shall reserve $500,000 for each of fiscal years 2017 through 2020 to make a direct grant to the Education Council to carry out section 7514 of this title .
   - **(3)** Funds appropriated under this subsection shall remain available until expended.
+
+Institutions outside hawaii
+
+Scholarship conditions
+
+## Source Credit
+
+*([Pub. L. 89–10, title VI, § 6205](https://www.govinfo.gov/link/plaw/89/public/10), formerly title VII, § 7205, as added [Pub. L. 107–110, title VII, § 701](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1939](https://www.govinfo.gov/link/statute/115/1939); renumbered title VI, § 6205, and amended [Pub. L. 114–95, title VI](https://www.govinfo.gov/link/plaw/114/public/95), §§ 6001(a), (b)(1), (10), 6003(c), Dec. 10, 2015, [129 Stat. 2046](https://www.govinfo.gov/link/statute/129/2046), 2047, 2066.)*

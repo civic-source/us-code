@@ -3,9 +3,10 @@ title: "Section 1862q - Informal STEM education"
 usc_title: 42
 usc_section: "1862q"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1862q"
-generated_at: "2026-03-30T02:56:11.128Z"
+generated_at: "2026-11-23T20:27:21.953Z"
+status: "active"
 ---
 
 # § 1862q. Informal STEM education
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:56:11.128Z"
       - **(i)** the results of the evaluation; and
       - **(ii)** any recommendations for administrative and legislative action that could optimize the effectiveness of the program under this subsection.
   - **(8)** In carrying out this subsection, the Director shall, for purposes of enhancing program effectiveness and avoiding duplication of activities, consult, and coordinate with other relevant Federal agencies.
+
+## Source Credit
+
+*([Pub. L. 114–59, § 3](https://www.govinfo.gov/link/plaw/114/public/59), Oct. 7, 2015, [129 Stat. 540](https://www.govinfo.gov/link/statute/129/540); [Pub. L. 114–329, title III, § 311](https://www.govinfo.gov/link/plaw/114/public/329), Jan. 6, 2017, [130 Stat. 3013](https://www.govinfo.gov/link/statute/130/3013); [Pub. L. 117–167, div. B, title III](https://www.govinfo.gov/link/plaw/117/public/167), §§ 10311(b), 10319(b), Aug. 9, 2022, [136 Stat. 1511](https://www.govinfo.gov/link/statute/136/1511), 1536.)*

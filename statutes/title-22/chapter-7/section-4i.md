@@ -3,9 +3,10 @@ title: "Section 4i - Multilateral development banks and debt-for-nature exchange
 usc_title: 22
 usc_section: "4i"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4i"
-generated_at: "2026-03-30T02:55:05.307Z"
+generated_at: "2026-11-23T20:26:31.930Z"
+status: "active"
 ---
 
 # § 262p–4i. Multilateral development banks and debt-for-nature exchanges
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:05.307Z"
   - **(4)** promote the maintenance and restoration of soils, vegetation, hydrological cycles, wildlife, critical ecosystems (tropical forests, wetlands, and coastal marine resources), biological diversity and other natural resources essential to economic growth and human well-being and shall, when using natural resources, be implemented to minimize the depletion of such natural resources; and
   - **(5)** take steps, wherever feasible, to prevent pollution that threatens human health and important biotic systems and to achieve patterns of energy consumption that meet human needs and rely on renewable resources.
 - **(c)** The United States Executive Directors shall endeavor to include the provisions of paragraphs (1) through (5) of subsection (b) in the guidelines developed through the negotiations specified in this section.
+
+## Source Credit
+
+*([Pub. L. 95–118, title XVI, § 1614](https://www.govinfo.gov/link/plaw/95/public/118), as added [Pub. L. 101–240, title V, § 512](https://www.govinfo.gov/link/plaw/101/public/240), Dec. 19, 1989, [103 Stat. 2508](https://www.govinfo.gov/link/statute/103/2508).)*

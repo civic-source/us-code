@@ -3,9 +3,10 @@ title: "Section 932 - Commissioners; appointment, number, and compensation; term
 usc_title: 16
 usc_section: "932"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 932"
-generated_at: "2026-03-30T02:54:22.934Z"
+generated_at: "2026-11-23T20:26:20.341Z"
+status: "active"
 ---
 
 # § 932. Commissioners; appointment, number, and compensation; term of office; vacancy
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:22.934Z"
   - **(1)** Except as provided in paragraph (2), the term of office of Commissioners appointed under subsection (a)(1)(B) is 6 years.
   - **(2)** Of the Commissioners first appointed under subsection (a)(1)(B) after November 14, 1986 , 1 shall be appointed for a term of 2 years, 1 shall be appointed for a term of 4 years, and 1 shall be appointed for a term of 6 years.
   - **(3)** Whenever a vacancy occurs among Commissioners appointed under subsection (a)(1)(B), the President shall appoint an individual to fill that vacancy for the remainder of the applicable term.
+
+## Source Credit
+
+*(June 4, 1956, ch. 358, § 3, [70 Stat. 242](https://www.govinfo.gov/link/statute/70/242); [Pub. L. 99–659, title IV, § 405(a)](https://www.govinfo.gov/link/plaw/99/public/659), Nov. 14, 1986, [100 Stat. 3737](https://www.govinfo.gov/link/statute/100/3737); [Pub. L. 106–562, title III, § 301](https://www.govinfo.gov/link/plaw/106/public/562), Dec. 23, 2000, [114 Stat. 2806](https://www.govinfo.gov/link/statute/114/2806).)*

@@ -3,9 +3,10 @@ title: "Section 544h - Interim management"
 usc_title: 16
 usc_section: "544h"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 544h"
-generated_at: "2026-03-30T02:54:22.871Z"
+generated_at: "2026-11-23T20:26:20.134Z"
+status: "active"
 ---
 
 # § 544h. Interim management
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:22.871Z"
   - **(1)** The Secretary may acquire by condemnation any land or interest which is being used or threatened to be used in a manner inconsistent with the purposes for which the scenic area was established and which will cause or is likely to cause impacts adversely affecting the scenic, cultural, recreation, and natural resources of the scenic area: Provided , That no lands or interests therein can be acquired by condemnation pursuant to this section if used in the same manner and for the same purposes as used on November 17, 1986 , unless such land is used for or interest is in the development of sand, gravel, or crushed rock, or the disposal of refuse: Provided further , That within thirty days of the filing by the Secretary of a complaint for condemnation of any land or interest in the scenic area, outside of the special management areas and urban areas, the Commission, by a vote of two-thirds of its membership including a majority of the members appointed from each State, or if the Commission is not in existence the Governor of the State in which the land or interest is located, may disapprove such proposed complaint.
   - **(2)** Upon or after the commencement of any action for condemnation pursuant to this subsection, the Secretary, acting through the Attorney General of the United States, may apply to the appropriate United States District Court for a temporary restraining order or injunction to prohibit the use of any property within the scenic area, but outside of urban areas, which will cause or is likely to cause impacts adversely affecting the scenic, cultural, recreation and natural resources of the scenic area or is otherwise inconsistent with the purposes for which the scenic area was established. During the period of such order or injunction, the Secretary shall diligently and in good faith negotiate with the owner of the property to assure that, following termination of the order or injunction, the inconsistent use is abated or the adverse effect is mitigated.
 - **(c)** Prior to the effective date of a land use ordinance for each county pursuant to section 544e of this title , and concurrence of the Secretary on a land use ordinance for each county pursuant to section 544f of this title , the Commission shall review all proposals for major development actions and new residential development in such county in the scenic area, except urban areas. The Commission shall allow major development actions and new residential development only if it determines that such development is consistent with the standards contained in section 544d of this title and the purposes of sections 544 to 544p of this title.
+
+## Source Credit
+
+*([Pub. L. 99–663, § 10](https://www.govinfo.gov/link/plaw/99/public/663), Nov. 17, 1986, [100 Stat. 4291](https://www.govinfo.gov/link/statute/100/4291).)*

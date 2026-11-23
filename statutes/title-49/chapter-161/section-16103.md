@@ -3,9 +3,10 @@ title: "Section 16103 - Unlawful disclosure of information"
 usc_title: 49
 usc_section: "16103"
 chapter: 161
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 16103"
-generated_at: "2026-03-30T02:56:19.333Z"
+generated_at: "2026-11-23T20:27:34.771Z"
+status: "active"
 ---
 
 # § 16103. Unlawful disclosure of information
@@ -16,3 +17,13 @@ generated_at: "2026-03-30T02:56:19.333Z"
   - **(2)** to an officer, employee, or agent of the United States Government, a State, or a territory or possession of the United States; or
   - **(3)** to another carrier or its agent to adjust mutual traffic accounts in the ordinary course of business.
 - **(c)** An employee of the Board delegated to make an inspection or examination under section 15722 who knowingly discloses information acquired during that inspection or examination, except as directed by the Board, a court, or a judge of that court, shall be fined under title 18 or imprisoned for not more than 6 months, or both.
+
+General Prohibition
+
+Limitation on Statutory Construction
+
+Board Employee
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 106(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 931](https://www.govinfo.gov/link/statute/109/931).)*

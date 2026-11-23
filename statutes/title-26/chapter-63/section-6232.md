@@ -3,9 +3,10 @@ title: "Section 6232 - Assessment, collection, and payment"
 usc_title: 26
 usc_section: "6232"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6232"
-generated_at: "2026-03-30T02:55:27.846Z"
+generated_at: "2026-11-23T20:26:46.602Z"
+status: "active"
 ---
 
 # § 6232. Assessment, collection, and payment
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:55:27.846Z"
   - **(6)**
     - **(A)** Subchapter B shall not apply to any assessment or collection under this paragraph.
     - **(B)** Except as otherwise provided in this subtitle, no assessment may be made (or proceeding in court begun without assessment) with respect to any partner with respect to an amount under paragraph (1) after the date which is 2 years after the date on which the Secretary provides the notice and demand referred to in paragraph (1) with respect to such amount.
+
+## Source Credit
+
+*(Added [Pub. L. 114–74, title XI, § 1101(c)(1)](https://www.govinfo.gov/link/plaw/114/public/74), Nov. 2, 2015, [129 Stat. 632](https://www.govinfo.gov/link/statute/129/632); amended [Pub. L. 115–141, div. U, title II](https://www.govinfo.gov/link/plaw/115/public/141), §§ 205(a), 206(g), (p)(4)–(6), Mar. 23, 2018, [132 Stat. 1177](https://www.govinfo.gov/link/statute/132/1177), 1179, 1182.)*

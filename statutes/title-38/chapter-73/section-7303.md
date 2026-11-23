@@ -3,9 +3,10 @@ title: "Section 7303 - Functions of Veterans Health Administration: research pro
 usc_title: 38
 usc_section: "7303"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7303"
-generated_at: "2026-03-30T02:55:53.526Z"
+generated_at: "2026-11-23T20:27:01.990Z"
+status: "active"
 ---
 
 # § 7303. Functions of Veterans Health Administration: research programs
@@ -29,3 +30,21 @@ generated_at: "2026-03-30T02:55:53.526Z"
     - **(A)** Officials of the Department assigned responsibility for women’s health programs and sexual trauma services.
     - **(B)** The members of the Advisory Committee on Women Veterans.
     - **(C)** Members of appropriate task forces and working groups within the Department (including the Women Veterans Working Group and the Task Force on Treatment of Women Who Suffer Sexual Abuse).
+
+Research on Moral Injury
+
+Authorization of Appropriations
+
+In General
+
+Identification of Review Boards
+
+Report.—
+
+In general
+
+Elements
+
+## Source Credit
+
+*(Added [Pub. L. 102–40, title IV, § 401(a)(3)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 211](https://www.govinfo.gov/link/statute/105/211); amended [Pub. L. 102–405, title III, § 302(c)(1)](https://www.govinfo.gov/link/plaw/102/public/405), Oct. 9, 1992, [106 Stat. 1984](https://www.govinfo.gov/link/statute/106/1984); [Pub. L. 103–452, title I, § 102(a)](https://www.govinfo.gov/link/plaw/103/public/452), (b)(1), Nov. 2, 1994, [108 Stat. 4785](https://www.govinfo.gov/link/statute/108/4785), 4786; [Pub. L. 105–220, title IV, § 414(c)](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1242](https://www.govinfo.gov/link/statute/112/1242); [Pub. L. 107–135, title II, § 205(a)](https://www.govinfo.gov/link/plaw/107/public/135), Jan. 23, 2002, [115 Stat. 2460](https://www.govinfo.gov/link/statute/115/2460); [Pub. L. 108–170, title IV, § 401(b)](https://www.govinfo.gov/link/plaw/108/public/170), Dec. 6, 2003, [117 Stat. 2061](https://www.govinfo.gov/link/statute/117/2061).)*

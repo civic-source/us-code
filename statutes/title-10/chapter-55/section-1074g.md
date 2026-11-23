@@ -3,9 +3,10 @@ title: "Section 1074g - Pharmacy benefits program"
 usc_title: 10
 usc_section: "1074g"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1074g"
-generated_at: "2026-03-30T02:53:38.100Z"
+generated_at: "2026-11-23T20:25:51.212Z"
+status: "active"
 ---
 
 # § 1074g. Pharmacy benefits program
@@ -30,7 +31,21 @@ generated_at: "2026-03-30T02:53:38.100Z"
   - **(4)** The pharmacy benefits program may provide that prior authorization be required for certain pharmaceutical agents to assure that the use of such agents is clinically appropriate.
   - **(5)** The pharmacy benefits program shall assure the availability to eligible covered beneficiaries of pharmaceutical agents not included on the uniform formulary. Such pharmaceutical agents shall be available through the national mail-order pharmacy program under terms and conditions that shall include cost-sharing by the eligible covered beneficiary as specified in paragraph (6).
   - **(6)**
-    - **(A)** In the case of any of the years 2018 through 2027, the cost-sharing amounts under this subsection for eligible covered beneficiaries shall be determined in accordance with the following table: For: The cost-sharing amount for a 30-day supply of a retail generic is: The cost-sharing amount for a 30-day supply of a retail formulary is: The cost-sharing amount for a 90-day supply of a mail order generic is: The cost-sharing amount for a 90-day supply of a mail order formulary is: The cost-sharing amount for a 90-day supply of a mail order non-formulary is: 2018 $11 $28 $7 $24 $53 2019 $11 $28 $7 $24 $53 2020 $13 $33 $10 $29 $60 2021 $13 $33 $10 $29 $60 2022 $14 $38 $12 $34 $68 2023 $14 $38 $12 $34 $68 2024 $16 $43 $13 $38 $76 2025 $16 $43 $13 $38 $76 2026 $16 $48 $14 $44 $85 2027 $16 $48 $14 $44 $85
+    - **(A)** In the case of any of the years 2018 through 2027, the cost-sharing amounts under this subsection for eligible covered beneficiaries shall be determined in accordance with the following table:
+
+| For: | The cost-sharing amount for a 30-day supply of a retail generic is: | The cost-sharing amount for a 30-day supply of a retail formulary is: | The cost-sharing amount for a 90-day supply of a mail order generic is: | The cost-sharing amount for a 90-day supply of a mail order formulary is: | The cost-sharing amount for a 90-day supply of a mail order non-formulary is: |
+| --- | --- | --- | --- | --- | --- |
+| 2018 | $11 | $28 | $7 | $24 | $53 |
+| 2019 | $11 | $28 | $7 | $24 | $53 |
+| 2020 | $13 | $33 | $10 | $29 | $60 |
+| 2021 | $13 | $33 | $10 | $29 | $60 |
+| 2022 | $14 | $38 | $12 | $34 | $68 |
+| 2023 | $14 | $38 | $12 | $34 | $68 |
+| 2024 | $16 | $43 | $13 | $38 | $76 |
+| 2025 | $16 | $43 | $13 | $38 | $76 |
+| 2026 | $16 | $48 | $14 | $44 | $85 |
+| 2027 | $16 | $48 | $14 | $44 | $85 |
+
     - **(B)** For any year after 2027, the cost-sharing amounts under this subsection for eligible covered beneficiaries shall be equal to the cost-sharing amounts for the previous year adjusted by an amount, if any, determined by the Secretary to reflect changes in the costs of pharmaceutical agents and prescription dispensing, rounded to the nearest dollar.
     - **(C)** Notwithstanding subparagraphs (A) and (B), the cost-sharing amounts under this subsection for a dependent of a member of the uniformed services who dies while on active duty, a member retired under chapter 61 of this title, or a dependent of a member retired under such chapter shall be equal to the cost-sharing amounts, if any, for 2017.
     - **(D)** Notwithstanding subparagraphs (A), (B), and (C), the Secretary may selectively waive or reduce cost-sharing amounts under this subsection for a dependent of a member of the uniformed services described in section 1074(c)(3)(B) of this title if the dependent is enrolled in the TRICARE Prime Remote program and accompanies the member to the duty assignment of the member at the expense of the Federal Government.
@@ -84,3 +99,187 @@ generated_at: "2026-03-30T02:53:38.100Z"
   - **(3)** The term “over-the-counter drug” means a drug that is not subject to section 503(b) of the Federal Food, Drug, and Cosmetic Act ( 21 U.S.C. 353(b) ).
   - **(4)** The term “prescription drug” means a drug that is subject to section 503(b) of the Federal Food, Drug, and Cosmetic Act ( 21 U.S.C. 353(b) ).
 - **(j)** The Secretary of Defense shall, after consultation with the other administering Secretaries, prescribe regulations to carry out this section.
+
+Pharmacy Benefits
+
+Establishment of Committee
+
+Advisory Panel
+
+Procedures
+
+Pharmacy Data Transaction Service
+
+Procurement of Pharmaceuticals by TRICARE Retail Pharmacy Program
+
+Sharing of Information With State Prescription Drug Monitoring Programs
+
+Labeling
+
+Definitions
+
+Regulations
+
+In general
+
+Federal register
+
+“In order to implement expeditiously the reforms authorized by the amendments made by paragraphs (1) and (2) [amending this section and section 1079 of this title ], the Secretary of Defense may prescribe such changes to the regulations implementing the TRICARE program (as defined in section 1072 of title 10 , United States Code) as the Secretary considers appropriate—
+
+Pilot Program.—
+
+Authority
+
+Requirement
+
+Duration
+
+Selection of Medication
+
+Notification
+
+Reimbursement
+
+Briefing and Reports.—
+
+Briefing
+
+Interim report
+
+Comptroller general report.—
+
+In general
+
+Elements
+
+Rule of Construction
+
+Definitions
+
+Requirement
+
+Elements
+
+Reimbursement.—
+
+In general
+
+Amount of reimbursement.—
+
+In general
+
+Limitation
+
+Definitions
+
+Covered beneficiary; tricare program
+
+State vaccination program
+
+Authority to Establish Pilot Program
+
+Elements of Pilot Program
+
+Consultation
+
+Duration of Pilot Program
+
+Reports
+
+Joint Formulary
+
+Selection
+
+Report
+
+Construction
+
+Definitions
+
+Conforming Amendment
+
+Establishment
+
+Elements of Pilot Program
+
+Locations.—
+
+Selection
+
+First location criteria
+
+Second location criteria
+
+Third location criterion
+
+Duration
+
+Report
+
+Definitions
+
+In General
+
+Medications Covered.—
+
+Determination
+
+Supply
+
+Exemption
+
+Nonparticipation.—
+
+Opt out
+
+Waiver
+
+Regulations
+
+Sunset
+
+TRICARE for Life Beneficiary Defined
+
+Education and Training Required
+
+Recipients of Training
+
+Elements of Training
+
+Tailoring of Training
+
+Review of Pharmacy.—
+
+Review
+
+Recommendations
+
+Requirement to Conduct Demonstration
+
+Elements of Demonstration Project.—
+
+Inclusion of certain over-the-counter drugs
+
+Conduct through military facilities, retail pharmacies, or mail order program
+
+Period of demonstration
+
+Implementation deadline
+
+Evaluation of Demonstration Project
+
+Report
+
+Continuation of Demonstration Project
+
+Definitions
+
+Interoperability
+
+Alternative Requirement
+
+Implementation Funding for Alternative Requirement
+
+## Source Credit
+
+*(Added [Pub. L. 106–65, div. A, title VII, § 701(a)(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 677](https://www.govinfo.gov/link/statute/113/677); amended [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title X, § 1087(a)(5)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–290; [Pub. L. 107–107, div. A, title X, § 1048(c)(4)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1226](https://www.govinfo.gov/link/statute/115/1226); [Pub. L. 108–136, div. A, title VII, § 725](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1535](https://www.govinfo.gov/link/statute/117/1535); [Pub. L. 108–375, div. A, title VII, § 714](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1985](https://www.govinfo.gov/link/statute/118/1985); [Pub. L. 110–181, div. A, title VII, § 703(a)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 188](https://www.govinfo.gov/link/statute/122/188); [Pub. L. 111–84, div. A, title X, § 1073(a)(10)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2473](https://www.govinfo.gov/link/statute/123/2473); [Pub. L. 112–239, div. A, title VII](https://www.govinfo.gov/link/plaw/112/public/239), §§ 702, 712(a), Jan. 2, 2013, [126 Stat. 1798](https://www.govinfo.gov/link/statute/126/1798), 1802; [Pub. L. 113–291, div. A, title VII, § 702(a)](https://www.govinfo.gov/link/plaw/113/public/291) –(c)(1), Dec. 19, 2014, [128 Stat. 3410](https://www.govinfo.gov/link/statute/128/3410); [Pub. L. 114–92, div. A, title VII](https://www.govinfo.gov/link/plaw/114/public/92), §§ 702, 715(f), Nov. 25, 2015, [129 Stat. 860](https://www.govinfo.gov/link/statute/129/860), 867; [Pub. L. 115–91, div. A, title VII](https://www.govinfo.gov/link/plaw/115/public/91), §§ 702(a), (b)(1), 714, title X, § 1081(a)(24), Dec. 12, 2017, [131 Stat. 1433](https://www.govinfo.gov/link/statute/131/1433), 1434, 1438, 1595; [Pub. L. 115–232, div. A, title VII, § 715(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1813](https://www.govinfo.gov/link/statute/132/1813); [Pub. L. 116–92, div. A, title VII, § 713(a)](https://www.govinfo.gov/link/plaw/116/public/92), (b), Dec. 20, 2019, [133 Stat. 1446](https://www.govinfo.gov/link/statute/133/1446); [Pub. L. 118–159, div. A, title VII](https://www.govinfo.gov/link/plaw/118/public/159), §§ 702, 707(a), Dec. 23, 2024, [138 Stat. 1942](https://www.govinfo.gov/link/statute/138/1942), 1944.)*

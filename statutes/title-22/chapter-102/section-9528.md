@@ -3,9 +3,10 @@ title: "Section 9528 - Sanctions with respect to the transfer of arms and relate
 usc_title: 22
 usc_section: "9528"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9528"
-generated_at: "2026-03-30T02:55:05.467Z"
+generated_at: "2026-11-23T20:26:32.779Z"
+status: "active"
 ---
 
 # § 9528. Sanctions with respect to the transfer of arms and related materiel to Syria
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:05.467Z"
   - **(1)** The term “financial, material, or technological support” has the meaning given such term in section 542.304 of title 31, Code of Federal Regulations (or any corresponding similar regulation or ruling).
   - **(2)** The term “foreign person” has the meaning given such term in section 594.304 of title 31, Code of Federal Regulations (or any corresponding similar regulation or ruling).
   - **(3)** The term “Syria” has the meaning given such term in section 542.316 of title 31, Code of Federal Regulations (or any corresponding similar regulation or ruling).
+
+## Source Credit
+
+*([Pub. L. 115–44, title II, § 234](https://www.govinfo.gov/link/plaw/115/public/44), Aug. 2, 2017, [131 Stat. 918](https://www.govinfo.gov/link/statute/131/918).)*

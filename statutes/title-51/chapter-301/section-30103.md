@@ -3,9 +3,10 @@ title: "Section 30103 - Budgets"
 usc_title: 51
 usc_section: "30103"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 30103"
-generated_at: "2026-03-30T02:56:28.704Z"
+generated_at: "2026-11-23T20:27:37.462Z"
+status: "active"
 ---
 
 # § 30103. Budgets
@@ -50,3 +51,65 @@ generated_at: "2026-03-30T02:56:28.704Z"
   - **(5)** The proposed budget as designated by object class for each directorate, theme, and program.
   - **(6)** Sufficient narrative shall be provided to explain the request for each program, project, and activity, and an explanation for any deviation to previously adopted baselines for all justification materials provided to the Committees.
 - **(d)** Each annual budget request shall include an annual estimate of gross receipts and collections and proposed use of all funds collected pursuant to section 20145 of this title .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30103(a) | 42 U.S.C. 16611(h)(1) . | Pub. L. 109–155, title I, § 101(h)(1) , (i), Dec. 30, 2005 , 119 Stat. 2903 . |
+| 30103(b) | 42 U.S.C. 16611(i) . |  |
+| 30103(c) | 42 U.S.C. 16611b . | Pub. L. 110–161, div. B, title III , (7th par. under heading “Administrative Provisions”, at 121 Stat. 1919 ), Dec. 26, 2007 , 121 Stat. 1919 . |
+| 30103(d) | 42 U.S.C. 16611b note. | Pub. L. 111–8, div. B, title III , (3d proviso in par. under heading “Cross Agency Support”, at 123 Stat. 589 ), Mar. 11, 2009 , 123 Stat. 589 . |
+
+
+Categories
+
+Additional Budget Information Upon Request by Committees
+
+Information in Annual Budget Justification
+
+Estimate of Gross Receipts and Proposed Use of Funds Related to Lease of Property
+
+Historical and Revision Notes
+
+30103(a)
+
+42 U.S.C. 16611(h)(1)
+
+Pub. L. 109–155, title I, § 101(h)(1)
+
+Dec. 30, 2005
+
+119 Stat. 2903
+
+30103(b)
+
+42 U.S.C. 16611(i)
+
+30103(c)
+
+42 U.S.C. 16611b
+
+Pub. L. 110–161, div. B, title III
+
+121 Stat. 1919
+
+Dec. 26, 2007
+
+121 Stat. 1919
+
+30103(d)
+
+42 U.S.C. 16611b
+
+Pub. L. 111–8, div. B, title III
+
+123 Stat. 589
+
+Mar. 11, 2009
+
+123 Stat. 589
+
+“The Administrator [of the National Aeronautics and Space Administration] shall, at the time of submission of the President’s annual budget, transmit to the Congress—
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3358](https://www.govinfo.gov/link/statute/124/3358).)*

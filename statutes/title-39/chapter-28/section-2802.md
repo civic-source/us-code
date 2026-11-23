@@ -3,9 +3,10 @@ title: "Section 2802 - Strategic plans"
 usc_title: 39
 usc_section: "2802"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "39 U.S.C. § 2802"
-generated_at: "2026-03-30T02:55:43.691Z"
+generated_at: "2026-11-23T20:26:57.735Z"
+status: "active"
 ---
 
 # § 2802. Strategic plans
@@ -20,3 +21,17 @@ generated_at: "2026-03-30T02:55:43.691Z"
 - **(b)** The strategic plan shall cover a period of not less than five years forward from the fiscal year in which it is submitted, and shall be updated and revised at least every three years.
 - **(c)** The performance plan required under section 2803 shall be consistent with the Postal Service’s strategic plan. A performance plan may not be submitted for a fiscal year not covered by a current strategic plan under this section.
 - **(d)** When developing a strategic plan, the Postal Service shall solicit and consider the views and suggestions of those entities potentially affected by or interested in such a plan, and shall advise the Congress of the contents of the plan.
+
+Office of inspector general of the united states postal service.—
+
+In general
+
+Specific requirements
+
+First submission
+
+Postal inspection service
+
+## Source Credit
+
+*(Added [Pub. L. 103–62, § 7](https://www.govinfo.gov/link/plaw/103/public/62), Aug. 3, 1993, [107 Stat. 292](https://www.govinfo.gov/link/statute/107/292).)*

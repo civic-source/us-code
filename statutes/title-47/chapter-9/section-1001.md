@@ -3,9 +3,10 @@ title: "Section 1001 - Definitions"
 usc_title: 47
 usc_section: "1001"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 1001"
-generated_at: "2026-03-30T02:56:24.529Z"
+generated_at: "2026-11-23T20:27:28.978Z"
+status: "active"
 ---
 
 # § 1001. Definitions
@@ -33,3 +34,11 @@ For purposes of this subchapter—
     - **(C)** does not include—
       - **(i)** persons or entities insofar as they are engaged in providing information services; and
       - **(ii)** any class or category of telecommunications carriers that the Commission exempts by rule after consultation with the Attorney General.
+
+In General
+
+Assistance Capability and Systems Security and Integrity Requirements
+
+## Source Credit
+
+*([Pub. L. 103–414, title I, § 102](https://www.govinfo.gov/link/plaw/103/public/414), Oct. 25, 1994, [108 Stat. 4279](https://www.govinfo.gov/link/statute/108/4279).)*

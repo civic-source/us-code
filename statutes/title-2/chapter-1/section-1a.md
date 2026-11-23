@@ -3,12 +3,17 @@ title: "Section 1a - Election to be certified by governor"
 usc_title: 2
 usc_section: "1a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1a"
-generated_at: "2026-03-30T02:53:04.783Z"
+generated_at: "2026-11-23T20:25:28.807Z"
+status: "active"
 ---
 
 # § 1a. Election to be certified by governor
 
 It shall be the duty of the executive of the State from which any Senator has been chosen to certify his election, under the seal of the State, to the President of the Senate of the United States.
 
+
+## Source Credit
+
+*(R.S. § 18.)*

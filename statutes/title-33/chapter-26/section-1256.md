@@ -3,9 +3,10 @@ title: "Section 1256 - Grants for pollution control programs"
 usc_title: 33
 usc_section: "1256"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1256"
-generated_at: "2026-03-30T02:55:41.082Z"
+generated_at: "2026-11-23T20:26:53.971Z"
+status: "active"
 ---
 
 # § 1256. Grants for pollution control programs
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:41.082Z"
   - **(2)** No federally assumed enforcement as defined in section 1319(a)(2) of this title is in effect with respect to such State or interstate agency.
   - **(3)** Such State (or interstate agency) submits within one hundred and twenty days after October 18, 1972 , and before October 1 of each year thereafter for the Administrator’s approval of its program for the prevention, reduction, and elimination of pollution in accordance with purposes and provisions of this chapter in such form and content as the Administrator may prescribe.
 - **(g)** Any sums allotted under subsection (b) in any fiscal year which are not paid shall be reallotted by the Administrator in accordance with regulations promulgated by him.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title I, § 106, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 827](https://www.govinfo.gov/link/statute/86/827); amended [Pub. L. 93–592, § 3](https://www.govinfo.gov/link/plaw/93/public/592), Jan. 2, 1975, [88 Stat. 1925](https://www.govinfo.gov/link/statute/88/1925); [Pub. L. 94–273, § 3(20)](https://www.govinfo.gov/link/plaw/94/public/273), Apr. 21, 1976, [90 Stat. 377](https://www.govinfo.gov/link/statute/90/377); [Pub. L. 95–217, § 4(c)](https://www.govinfo.gov/link/plaw/95/public/217), Dec. 27, 1977, [91 Stat. 1566](https://www.govinfo.gov/link/statute/91/1566); [Pub. L. 96–483, § 1(b)](https://www.govinfo.gov/link/plaw/96/public/483), Oct. 21, 1980, [94 Stat. 2360](https://www.govinfo.gov/link/statute/94/2360); [Pub. L. 100–4, title I, § 101(b)](https://www.govinfo.gov/link/plaw/100/public/4), Feb. 4, 1987, [101 Stat. 9](https://www.govinfo.gov/link/statute/101/9).)*

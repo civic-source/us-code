@@ -3,9 +3,10 @@ title: "Section 571 - Regulatory treatment of video programming services"
 usc_title: 47
 usc_section: "571"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 571"
-generated_at: "2026-03-30T02:56:24.521Z"
+generated_at: "2026-11-23T20:27:28.936Z"
+status: "active"
 ---
 
 # § 571. Regulatory treatment of video programming services
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:24.521Z"
   - **(4)** A common carrier that is providing video programming in a manner described in paragraph (1) or (2), or a combination thereof, may elect to provide such programming by means of an open video system that complies with section 573 of this title . If the Commission approves such carrier’s certification under section 573 of this title , such carrier shall be subject to the requirements of this part, but shall be subject to parts I through IV of this subchapter only as provided in 573(c) of this title.
 - **(b)** A local exchange carrier that provides cable service through an open video system or a cable system shall not be required, pursuant to subchapter II of this chapter, to make capacity available on a nondiscriminatory basis to any other person for the provision of cable service directly to subscribers.
 - **(c)** A common carrier shall not be required to obtain a certificate under section 214 of this title with respect to the establishment or operation of a system for the delivery of video programming.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title VI, § 651, as added [Pub. L. 104–104, title III, § 302(a)](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 118](https://www.govinfo.gov/link/statute/110/118).)*

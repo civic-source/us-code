@@ -3,9 +3,10 @@ title: "Section 2340 - Revision of project partnership agreement; cost sharing"
 usc_title: 33
 usc_section: "2340"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2340"
-generated_at: "2026-03-30T02:55:41.126Z"
+generated_at: "2026-11-23T20:26:54.192Z"
+status: "active"
 ---
 
 # § 2340. Revision of project partnership agreement; cost sharing
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:41.126Z"
 - **(a)** Upon authorization by law of an increase in the maximum amount of Federal funds that may be allocated for a water resources project or an increase in the total cost of a water resources project authorized to be carried out by the Secretary, the Secretary shall enter into a revised partnership agreement for the project to take into account the change in Federal participation in the project.
 - **(b)** An increase in the maximum amount of Federal funds that may be allocated for a water resources project, or an increase in the total cost of a water resources project, authorized to be carried out by the Secretary shall not affect any cost-sharing requirement applicable to the project.
 - **(c)** The estimated Federal and non-Federal costs of water resources projects authorized to be carried out by the Secretary before, on, or after November 8, 2007 , are for informational purposes only and shall not be interpreted as affecting the cost-sharing responsibilities established by law.
+
+## Source Credit
+
+*([Pub. L. 110–114, title II, § 2008](https://www.govinfo.gov/link/plaw/110/public/114), Nov. 8, 2007, [121 Stat. 1073](https://www.govinfo.gov/link/statute/121/1073).)*

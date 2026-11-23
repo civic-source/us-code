@@ -3,12 +3,17 @@ title: "Section 295 - Placement of positions in compensation schedules"
 usc_title: 2
 usc_section: "295"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 295"
-generated_at: "2026-03-30T02:53:04.795Z"
+generated_at: "2026-11-23T20:25:28.871Z"
+status: "active"
 ---
 
 # § 295. Placement of positions in compensation schedules
 
 The committee shall place each position (in existence on, or established after, January 1, 1965 ) under the House of Representatives to which this chapter applies in its appropriate class, and in its appropriate compensation level of the appropriate compensation schedule, in accordance with the position standards and position descriptions provided for in section 294 of this title . The committee is authorized, when circumstances so warrant, to change any such position from one class or compensation level to another class or compensation level. All actions of the committee under this section shall be binding on the House officer and organization unit concerned and shall be the basis for payment of compensation and for other personnel benefits and transactions until otherwise changed by the committee.
 
+
+## Source Credit
+
+*([Pub. L. 88–652, § 6](https://www.govinfo.gov/link/plaw/88/public/652), Oct. 13, 1964, [78 Stat. 1081](https://www.govinfo.gov/link/statute/78/1081).)*

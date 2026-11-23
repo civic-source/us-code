@@ -3,9 +3,10 @@ title: "Section 1 - Gifts to system and particular national fish hatcheries"
 usc_title: 16
 usc_section: "1"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T02:54:22.906Z"
+generated_at: "2026-11-23T20:26:20.266Z"
+status: "active"
 ---
 
 # § 760aa–1. Gifts to system and particular national fish hatcheries
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:22.906Z"
   - **(2)**
     - **(A)** Any gift, devise, or bequest made for the benefit of a facility of the System shall be disbursed only for the benefit of that facility and without further appropriations.
     - **(B)** Subject to the availability of appropriations and the requirements of the Fish and Wildlife Coordination Act ( 16 U.S.C. 661 et seq.) and other applicable law, the Secretary may provide funds to match gifts, devises, and bequests made for the benefit of a facility of the System. With respect to each gift, devise, or bequest, the amount of Federal funds may not exceed the amount (or, in the case of property or in-kind services, the fair market value) of the gift, devise, or bequest.
+
+## Source Credit
+
+*([Pub. L. 109–360, § 3](https://www.govinfo.gov/link/plaw/109/public/360), Oct. 16, 2006, [120 Stat. 2059](https://www.govinfo.gov/link/statute/120/2059).)*

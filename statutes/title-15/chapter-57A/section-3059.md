@@ -3,9 +3,10 @@ title: "Section 3059 - Unfair or deceptive acts or practices"
 usc_title: 15
 usc_section: "3059"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 3059"
-generated_at: "2026-03-30T02:54:08.187Z"
+generated_at: "2026-11-23T20:26:04.271Z"
+status: "active"
 ---
 
 # § 3059. Unfair or deceptive acts or practices
@@ -16,3 +17,7 @@ The sale of a covered horse, or of any other horse in anticipation of its future
     - **(A)** a bisphosphonate prior to the horse’s fourth birthday; or
     - **(B)** any other substance or method the Authority determines has a long-term degrading effect on the soundness of the covered horse; and
   - **(2)** fails to disclose to the buyer the administration of the bisphosphonate or other substance or method described in paragraph (1)(B).
+
+## Source Credit
+
+*([Pub. L. 116–260, div. FF, title XII, § 1210](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3274](https://www.govinfo.gov/link/statute/134/3274).)*

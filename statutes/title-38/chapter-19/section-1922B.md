@@ -3,9 +3,10 @@ title: "Section 1922B - Service-disabled veterans insurance"
 usc_title: 38
 usc_section: "1922B"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 1922B"
-generated_at: "2026-03-30T02:55:53.490Z"
+generated_at: "2026-11-23T20:27:01.739Z"
+status: "active"
 ---
 
 # § 1922B. Service-disabled veterans insurance
@@ -86,3 +87,21 @@ generated_at: "2026-03-30T02:55:53.490Z"
   - **(3)** Notwithstanding section 1917 of this title , the Secretary shall make an insurance payment under this section in a lump sum.
   - **(4)** The Secretary may not make an insurance payment under this section if such payment will escheat to a State.
   - **(5)** Any payment under this subsection shall be a bar to recovery by any other person.
+
+Insurance
+
+Eligibility
+
+Enrollment and Waiting Period
+
+Premiums
+
+Beneficiaries
+
+Claims
+
+Payments
+
+## Source Credit
+
+*(Added [Pub. L. 116–315, title II, § 2004(a)(1)](https://www.govinfo.gov/link/plaw/116/public/315), Jan. 5, 2021, [134 Stat. 4970](https://www.govinfo.gov/link/statute/134/4970).)*

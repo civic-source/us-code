@@ -3,9 +3,10 @@ title: "Section 3714 - Borrowing authority"
 usc_title: 22
 usc_section: "3714"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3714"
-generated_at: "2026-03-30T02:55:05.396Z"
+generated_at: "2026-11-23T20:26:32.472Z"
+status: "active"
 ---
 
 # § 3714. Borrowing authority
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:05.396Z"
 - **(b)** Amounts borrowed under this section shall not be available for payments to Panama under Article XIII of the Panama Canal Treaty of 1977.
 - **(c)** Amounts borrowed under this section shall increase the investment of the United States in the Panama Canal, and repayment of such amounts shall decrease such investment.
 - **(d)** The Commission shall report to the Congress and to the Office of Management and Budget on each exercise of borrowing authority under this section.
+
+## Source Credit
+
+*([Pub. L. 96–70, title I, § 1304](https://www.govinfo.gov/link/plaw/96/public/70), as added [Pub. L. 100–203, title V, § 5424(a)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–273](https://www.govinfo.gov/link/statute/101/1330).)*

@@ -3,9 +3,10 @@ title: "Section 5103 - Major acquisitions"
 usc_title: 14
 usc_section: "5103"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 5103"
-generated_at: "2026-03-30T02:53:51.506Z"
+generated_at: "2026-11-23T20:25:54.652Z"
+status: "active"
 ---
 
 # § 5103. Major acquisitions
@@ -44,3 +45,23 @@ generated_at: "2026-03-30T02:53:51.506Z"
 - **(f)** In this section:
   - **(1)** The term “Level 1 acquisition” has the meaning given such term in section 1171.
   - **(2)** The term “Level 2 acquisition” has the meaning given such term in section 1171.
+
+In General
+
+Information To Be Included
+
+Adequacy of Acquisition Workforce
+
+Cutters Not Maintained in Class
+
+Long-term Major Acquisitions Plan
+
+Definitions
+
+Level 1 acquisition
+
+Level 2 acquisition
+
+## Source Credit
+
+*(Added [Pub. L. 112–213, title II, § 210(a)](https://www.govinfo.gov/link/plaw/112/public/213), Dec. 20, 2012, [126 Stat. 1550](https://www.govinfo.gov/link/statute/126/1550), § 569a; renumbered § 2903 and amended [Pub. L. 114–120, title I, § 101(d)(3)](https://www.govinfo.gov/link/plaw/114/public/120), title II, § 204(e), Feb. 8, 2016, [130 Stat. 31](https://www.govinfo.gov/link/statute/130/31), 35; [Pub. L. 115–232, div. C, title XXXV, § 3526(c)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2317](https://www.govinfo.gov/link/statute/132/2317); renumbered § 5103 and amended [Pub. L. 115–282, title I](https://www.govinfo.gov/link/plaw/115/public/282), §§ 122(b), 123(b)(2), Dec. 4, 2018, [132 Stat. 4239](https://www.govinfo.gov/link/statute/132/4239), 4240; [Pub. L. 116–283, div. G, title LVXXXII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXII], § 8214, Jan. 1, 2021, [134 Stat. 4650](https://www.govinfo.gov/link/statute/134/4650); [Pub. L. 119–60, div. G, title LXXI, § 7112(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1666](https://www.govinfo.gov/link/statute/139/1666).)*

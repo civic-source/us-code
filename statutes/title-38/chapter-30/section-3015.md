@@ -3,9 +3,10 @@ title: "Section 3015 - Amount of basic educational assistance"
 usc_title: 38
 usc_section: "3015"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 3015"
-generated_at: "2026-03-30T02:55:53.499Z"
+generated_at: "2026-11-23T20:27:01.807Z"
+status: "active"
 ---
 
 # § 3015. Amount of basic educational assistance
@@ -43,3 +44,11 @@ generated_at: "2026-03-30T02:55:53.499Z"
     - **(A)** the average cost of undergraduate tuition in the United States, as determined by the National Center for Education Statistics, for the last academic year preceding the beginning of the fiscal year for which the increase is made, exceeds
     - **(B)** the average cost of undergraduate tuition in the United States, as so determined, for the academic year preceding the academic year described in subparagraph (A).
   - **(2)** Any increase under paragraph (1) in a rate with respect to a fiscal year after fiscal year 2004 and before fiscal year 2014 shall be rounded down to the next lower whole dollar amount. Any such increase with respect to a fiscal year after fiscal year 2013 shall be rounded to the nearest whole dollar amount.
+
+In general
+
+No cost-of-living adjustment for fiscal year 2009
+
+## Source Credit
+
+*(Added [Pub. L. 98–525, title VII, § 702(a)(1)](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2557](https://www.govinfo.gov/link/statute/98/2557), § 1415; amended [Pub. L. 100–689, title I](https://www.govinfo.gov/link/plaw/100/public/689), §§ 103(b)(3), 111(a)(5)(A), Nov. 18, 1988, [102 Stat. 4165](https://www.govinfo.gov/link/statute/102/4165), 4171; [Pub. L. 101–189, div. A, title VI, § 641](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1456](https://www.govinfo.gov/link/statute/103/1456); [Pub. L. 101–237, title IV, § 423(b)(1)(A)](https://www.govinfo.gov/link/plaw/101/public/237), (5), Dec. 18, 1989, [103 Stat. 2092](https://www.govinfo.gov/link/statute/103/2092); [Pub. L. 101–510, div. A, title V, § 561(b)(2)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1573](https://www.govinfo.gov/link/statute/104/1573); [Pub. L. 102–25, title III, § 337(a)](https://www.govinfo.gov/link/plaw/102/public/25), Apr. 6, 1991, [105 Stat. 90](https://www.govinfo.gov/link/statute/105/90); [Pub. L. 102–54, § 14(c)(1)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 284](https://www.govinfo.gov/link/statute/105/284); renumbered § 3015 and amended [Pub. L. 102–83, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/83), (c)(1), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 102–568, title III](https://www.govinfo.gov/link/plaw/102/public/568), §§ 301(a), (c), 307(a), (b), Oct. 29, 1992, [106 Stat. 4325](https://www.govinfo.gov/link/statute/106/4325), 4326, 4328, 4329; [Pub. L. 103–66, title XII, § 12009(a)](https://www.govinfo.gov/link/plaw/103/public/66), (d)(1), (2), Aug. 10, 1993, [107 Stat. 415](https://www.govinfo.gov/link/statute/107/415), 416; [Pub. L. 104–275, title I, § 106(b)(3)](https://www.govinfo.gov/link/plaw/104/public/275), Oct. 9, 1996, [110 Stat. 3329](https://www.govinfo.gov/link/statute/110/3329); [Pub. L. 105–114, title IV, § 401(b)](https://www.govinfo.gov/link/plaw/105/public/114), Nov. 21, 1997, [111 Stat. 2293](https://www.govinfo.gov/link/statute/111/2293); [Pub. L. 105–178, title VIII, § 8203(a)(1)](https://www.govinfo.gov/link/plaw/105/public/178) –(3), June 9, 1998, [112 Stat. 493](https://www.govinfo.gov/link/statute/112/493); [Pub. L. 105–261, div. A, title V, § 565(a)](https://www.govinfo.gov/link/plaw/105/public/261), title VI, § 656(a), Oct. 17, 1998, [112 Stat. 2029](https://www.govinfo.gov/link/statute/112/2029), 2053; [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title XVI, § 1602(b)(3)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–359; [Pub. L. 106–419, title I](https://www.govinfo.gov/link/plaw/106/public/419), §§ 101(a), 103(d), 105(b), Nov. 1, 2000, [114 Stat. 1824](https://www.govinfo.gov/link/statute/114/1824), 1826, 1829; [Pub. L. 107–14, § 7(b)(2)(A)](https://www.govinfo.gov/link/plaw/107/public/14), (c)(3), June 5, 2001, [115 Stat. 31](https://www.govinfo.gov/link/statute/115/31), 32; [Pub. L. 107–103, title I, § 101(a)](https://www.govinfo.gov/link/plaw/107/public/103), Dec. 27, 2001, [115 Stat. 977](https://www.govinfo.gov/link/statute/115/977); [Pub. L. 108–183, title III, § 304(a)](https://www.govinfo.gov/link/plaw/108/public/183), Dec. 16, 2003, [117 Stat. 2659](https://www.govinfo.gov/link/statute/117/2659); [Pub. L. 110–252, title V, § 5004(a)](https://www.govinfo.gov/link/plaw/110/public/252) –(c), June 30, 2008, [122 Stat. 2379](https://www.govinfo.gov/link/statute/122/2379).)*

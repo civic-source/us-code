@@ -3,9 +3,10 @@ title: "Section 30529 - Action by owner for limitation"
 usc_title: 46
 usc_section: "30529"
 chapter: 305
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 30529"
-generated_at: "2026-03-30T02:56:15.561Z"
+generated_at: "2026-11-23T20:27:27.204Z"
+status: "active"
 ---
 
 # § 30529. Action by owner for limitation
@@ -19,3 +20,26 @@ generated_at: "2026-03-30T02:56:15.561Z"
     - **(A)** the owner’s interest in the vessel and pending freight; and
     - **(B)** an amount, or approved security, that the court may fix from time to time as necessary to carry out this chapter.
 - **(c)** When an action has been brought under this section and the owner has complied with subsection (b), all claims and proceedings against the owner related to the matter in question shall cease.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30511 | 46 App.:185. | R.S. § 4285; June 5, 1936, ch. 521, § 3 , 49 Stat. 1480 . |
+
+
+In General
+
+Creation of Fund
+
+Cessation of Other Actions
+
+Historical and Revision Notes
+
+30511
+
+June 5, 1936, ch. 521, § 3
+
+49 Stat. 1480
+
+## Source Credit
+
+*([Pub. L. 109–304, § 6(c)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1515](https://www.govinfo.gov/link/statute/120/1515), § 30511; renumbered § 30529, [Pub. L. 117–263, div. K, title CXV, § 11503(a)(3)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4130](https://www.govinfo.gov/link/statute/136/4130).)*

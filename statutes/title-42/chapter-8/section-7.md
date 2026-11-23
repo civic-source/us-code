@@ -3,9 +3,10 @@ title: "Section 7 - Accountability"
 usc_title: 42
 usc_section: "7"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7"
-generated_at: "2026-03-30T02:56:11.091Z"
+generated_at: "2026-11-23T20:27:21.767Z"
+status: "active"
 ---
 
 # § 1437bbb–7. Accountability
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.091Z"
 - **(d)**
   - **(1)** Based on the performance standards established under section 1437bbb–5(b)(4) of this title , the Secretary shall monitor the performance of participating jurisdictions in providing assistance under this subchapter.
   - **(2)** Not later than 60 days after the conclusion of the second year of the demonstration program under this subchapter, the Secretary shall submit to Congress an interim report on the status of the demonstration program and the progress each participating jurisdiction in achieving the purposes of the demonstration program under section 1437bbb of this title .
+
+## Source Credit
+
+*(Sept. 1, 1937, ch. 896, title IV, § 408, as added [Pub. L. 105–276, title V, § 561](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2623](https://www.govinfo.gov/link/statute/112/2623).)*

@@ -3,9 +3,10 @@ title: "Section 1724 - Personnel management authorities for positions involved i
 usc_title: 8
 usc_section: "1724"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1724"
-generated_at: "2026-03-30T02:53:10.507Z"
+generated_at: "2026-11-23T20:25:36.284Z"
+status: "active"
 ---
 
 # § 1724. Personnel management authorities for positions involved in the development and implementation of the interoperable electronic data system (“Chimera system”)
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:10.507Z"
   - **(1)** describing the Attorney General’s intended use of the authority under this section; and
   - **(2)** identifying any provisions of title 5 being waived for purposes of the development and implementation of the Chimera system.
 - **(e)** The authority of this section shall terminate upon the implementation of the Chimera system.
+
+## Source Credit
+
+*([Pub. L. 107–173, title II, § 204](https://www.govinfo.gov/link/plaw/107/public/173), May 14, 2002, [116 Stat. 551](https://www.govinfo.gov/link/statute/116/551).)*

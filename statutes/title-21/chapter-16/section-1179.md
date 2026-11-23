@@ -3,9 +3,10 @@ title: "Section 1179 - National Drug Abuse Training Center"
 usc_title: 21
 usc_section: "1179"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 1179"
-generated_at: "2026-03-30T02:54:54.302Z"
+generated_at: "2026-11-23T20:26:27.875Z"
+status: "active"
 ---
 
 # § 1179. National Drug Abuse Training Center
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:54.302Z"
 - **(d)**
   - **(1)** For the purpose of carrying out this section, there are authorized to be appropriated $1,000,000 for the fiscal year ending June 30, 1972 , $3,000,000 for the fiscal year ending June 30, 1973 , $5,000,000 for the fiscal year ending June 30, 1974 , and $6,000,000 for the fiscal year ending June 30, 1975 .
   - **(2)** Sums appropriated under this subsection shall remain available for obligation or expenditure in the fiscal year for which appropriated and in the fiscal year next following.
+
+## Source Credit
+
+*([Pub. L. 92–255, title IV, § 412](https://www.govinfo.gov/link/plaw/92/public/255), Mar. 21, 1972, [86 Stat. 84](https://www.govinfo.gov/link/statute/86/84).)*

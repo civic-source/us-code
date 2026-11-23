@@ -3,9 +3,10 @@ title: "Section 53 - Election to be regulated as business development company"
 usc_title: 15
 usc_section: "53"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 53"
-generated_at: "2026-03-30T02:54:08.070Z"
+generated_at: "2026-11-23T20:26:03.619Z"
+status: "active"
 ---
 
 # § 80a–53. Election to be regulated as business development company
@@ -15,3 +16,25 @@ generated_at: "2026-03-30T02:54:08.070Z"
   - **(2)** has filed a registration statement pursuant to section 78 l of this title for a class of its equity securities.
 - **(b)** The Commission may, by rule, prescribe the form and manner in which notification of election under this section shall be given. A business development company shall be deemed to be subject to sections 80a–54 through 80a–64 of this title upon receipt by the Commission of such notification of election.
 - **(c)** Whenever the Commission finds, on its own motion or upon application, that a business development company which has filed a notification of election pursuant to subsection (a) of this section has ceased to engage in business, the Commission shall so declare by order revoking such company’s election. Any business development company may voluntarily withdraw its election under subsection (a) by filing a notice of withdrawal of election with the Commission, in a form and manner which the Commission may, by rule, prescribe. Such withdrawal shall be effective immediately upon receipt by the Commission.
+
+Definitions
+
+Revision to Rules.—
+
+In general
+
+Required revisions
+
+Revision to Form N–
+
+Treatment if Revisions Not Completed in Timely Manner
+
+Rules of Construction.—
+
+Treatment of successor regulations and forms
+
+Distribution of sales material
+
+## Source Credit
+
+*(Aug. 22, 1940, ch. 686, title I, § 54, as added [Pub. L. 96–477, title I, § 105](https://www.govinfo.gov/link/plaw/96/public/477), Oct. 21, 1980, [94 Stat. 2278](https://www.govinfo.gov/link/statute/94/2278); amended [Pub. L. 100–181, title VI, § 625](https://www.govinfo.gov/link/plaw/100/public/181), Dec. 4, 1987, [101 Stat. 1262](https://www.govinfo.gov/link/statute/101/1262).)*

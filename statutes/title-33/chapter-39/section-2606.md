@@ -3,9 +3,10 @@ title: "Section 2606 - Subpena authority"
 usc_title: 33
 usc_section: "2606"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2606"
-generated_at: "2026-03-30T02:55:41.129Z"
+generated_at: "2026-11-23T20:26:54.208Z"
+status: "active"
 ---
 
 # § 2606. Subpena authority
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:41.129Z"
 - **(b)** An official designated by the Secretary of Transportation or Administrator to conduct an investigation under this chapter may issue subpenas as provided in this section and administer oaths to witnesses.
 - **(c)** When a person fails to obey a subpena issued under this section, the district court of the United States for the district in which the investigation is conducted or in which the person failing to obey is found, shall on proper application issue an order directing that person to comply with the subpena. The court may punish as contempt any disobedience of its order.
 - **(d)** A witness complying with a subpena issued under this section may be paid for actual travel and attendance at the rate provided for witnesses in the district courts of the United States.
+
+## Source Credit
+
+*([Pub. L. 100–688, title IV, § 4106](https://www.govinfo.gov/link/plaw/100/public/688), Nov. 18, 1988, [102 Stat. 4157](https://www.govinfo.gov/link/statute/102/4157).)*

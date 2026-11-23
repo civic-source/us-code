@@ -3,9 +3,10 @@ title: "Section 6154 - Disposition of surplus defense plutonium at Savannah Rive
 usc_title: 10
 usc_section: "6154"
 chapter: 603
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6154"
-generated_at: "2026-03-30T02:53:38.220Z"
+generated_at: "2026-11-23T20:25:52.016Z"
+status: "active"
 ---
 
 # § 6154. Disposition of surplus defense plutonium at Savannah River Site, Aiken, South Carolina
@@ -25,3 +26,23 @@ generated_at: "2026-03-30T02:53:38.220Z"
 - **(f)** If the Secretary does not submit to Congress the plan required by subsection (c) (and the plan prepared under subsection (d), if applicable) by February 1, 2002 , the Secretary shall be prohibited from shipping defense plutonium or defense plutonium materials to the Savannah River Site during the period beginning on February 1, 2002 , and ending on the date on which such plans are submitted to Congress.
 - **(g)** Nothing in this section may be construed to prohibit or limit the Secretary from shipping defense plutonium or defense plutonium materials to sites other than the Savannah River Site during the period referred to in subsection (f) or any other period.
 - **(h)** The Secretary shall include with the budget justification materials submitted to Congress in support of the Department of Energy budget for each fiscal year (as submitted with the budget of the President under section 1105(a) of title 31 ) a report setting forth the extent to which amounts requested for the Department for such fiscal year for fissile materials disposition activities will enable the Department to meet commitments for the disposition of surplus defense plutonium and defense plutonium materials located at the Savannah River Site, and for any other fissile materials disposition activities, in such fiscal year.
+
+Consultation Required
+
+Notice Required
+
+Plan for Disposition
+
+Plan for Alternative Disposition
+
+Submission of Plans
+
+Limitation on Plutonium Shipments
+
+Rule of Construction
+
+Annual Report on Funding for Fissile Materials Disposition Activities
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1376](https://www.govinfo.gov/link/statute/139/1376).)*

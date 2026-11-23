@@ -3,9 +3,10 @@ title: "Section 1715n - Miscellaneous mortgage insurance"
 usc_title: 12
 usc_section: "1715n"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1715n"
-generated_at: "2026-03-30T02:53:53.415Z"
+generated_at: "2026-11-23T20:25:58.950Z"
+status: "active"
 ---
 
 # § 1715n. Miscellaneous mortgage insurance
@@ -58,3 +59,19 @@ generated_at: "2026-03-30T02:53:53.415Z"
     - **(B)** permit subordinated liens securing up to the full amount of mortgage financing provided by State or local governments or agencies thereof; and
     - **(C)** pay such benefits in cash unless the mortgagee submits a written request for debenture payment.
 - **(g)** Notwithstanding any other provisions of this chapter, the Secretary may, in his discretion, insure a mortgage covering a multifamily housing project including units which are not self-contained.
+
+“Except as provided in sections 616(a)(2), 633(b), and 634(b) [enacting provisions set out as notes under section 1701q of this title and sections 1437f and 11301 of Title 42, The Public Health and Welfare], this title [amending this section and sections 1437f and 5305 of Title 42, enacting provisions set out as notes under section 1701q of this title and sections 1437, 1437f, and 11301 of Title 42, and amending provisions set out as notes under section 1701q of this title and sections 1437f and 11301 of Title 42] and the amendments made by this title shall take effect or are deemed to have taken effect, as appropriate, on the earlier of—
+
+Definitions
+
+Operating loss
+
+Secretary
+
+Authorization to Provide Mortgage Insurance
+
+Amount of Loan
+
+## Source Credit
+
+*(June 27, 1934, ch. 847, title II, § 223, as added Aug. 2, 1954, ch. 649, title I, § 125, [68 Stat. 605](https://www.govinfo.gov/link/statute/68/605); amended Aug. 4, 1955, ch. 543, ch. 11, § 201, [69 Stat. 484](https://www.govinfo.gov/link/statute/69/484); Aug. 11, 1955, ch. 783, title I, § 102(k), [69 Stat. 636](https://www.govinfo.gov/link/statute/69/636); [Pub. L. 85–104, title I, § 114](https://www.govinfo.gov/link/plaw/85/public/104), July 12, 1957, [71 Stat. 298](https://www.govinfo.gov/link/statute/71/298); [Pub. L. 85–240, § 4](https://www.govinfo.gov/link/plaw/85/public/240), Aug. 30, 1957, [71 Stat. 528](https://www.govinfo.gov/link/statute/71/528); [Pub. L. 85–900, § 12](https://www.govinfo.gov/link/plaw/85/public/900), Sept. 2, 1958, [72 Stat. 1735](https://www.govinfo.gov/link/statute/72/1735); [Pub. L. 87–70, title I, § 101(d)](https://www.govinfo.gov/link/plaw/87/public/70), title VI, § 612(h), June 30, 1961, [75 Stat. 154](https://www.govinfo.gov/link/statute/75/154), 182; [Pub. L. 88–560, title I, § 116](https://www.govinfo.gov/link/plaw/88/public/560), Sept. 2, 1964, [78 Stat. 779](https://www.govinfo.gov/link/statute/78/779); [Pub. L. 89–117, title I, § 108(e)](https://www.govinfo.gov/link/plaw/89/public/117), title II, § 213, Aug. 10, 1965, [79 Stat. 461](https://www.govinfo.gov/link/statute/79/461), 471; [Pub. L. 89–754, title X, § 1013(h)](https://www.govinfo.gov/link/plaw/89/public/754), Nov. 3, 1966, [80 Stat. 1292](https://www.govinfo.gov/link/statute/80/1292); [Pub. L. 90–19, § 1(a)(3)](https://www.govinfo.gov/link/plaw/90/public/19), (h), May 25, 1967, [81 Stat. 17](https://www.govinfo.gov/link/statute/81/17), 18; [Pub. L. 90–448, title I, § 103(a)](https://www.govinfo.gov/link/plaw/90/public/448), title III, § 312, Aug. 1, 1968, [82 Stat. 486](https://www.govinfo.gov/link/statute/82/486), 510; [Pub. L. 91–152, title IV, § 418(c)](https://www.govinfo.gov/link/plaw/91/public/152), (d), Dec. 24, 1969, [83 Stat. 402](https://www.govinfo.gov/link/statute/83/402); [Pub. L. 93–383, title III, § 311(a)](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 683](https://www.govinfo.gov/link/statute/88/683); [Pub. L. 95–557, title III, § 326](https://www.govinfo.gov/link/plaw/95/public/557), Oct. 31, 1978, [92 Stat. 2104](https://www.govinfo.gov/link/statute/92/2104); [Pub. L. 96–399, title III, § 327](https://www.govinfo.gov/link/plaw/96/public/399), Oct. 8, 1980, [94 Stat. 1650](https://www.govinfo.gov/link/statute/94/1650); [Pub. L. 97–35, title III, § 339B(b)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 417](https://www.govinfo.gov/link/statute/95/417); [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title III, § 303(b)], Nov. 30, 1983, [97 Stat. 1207](https://www.govinfo.gov/link/statute/97/1207); [Pub. L. 98–479, title II, § 204(a)(7)](https://www.govinfo.gov/link/plaw/98/public/479), Oct. 17, 1984, [98 Stat. 2232](https://www.govinfo.gov/link/statute/98/2232); [Pub. L. 100–242, title IV](https://www.govinfo.gov/link/plaw/100/public/242), §§ 406(b)(15), (16), 408(a), 409(a), (b), 419(b), 427, 429(d), Feb. 5, 1988, [101 Stat. 1901](https://www.govinfo.gov/link/statute/101/1901), 1903, 1913, 1916, 1918; [Pub. L. 102–550, title V](https://www.govinfo.gov/link/plaw/102/public/550), §§ 510, 511(f), Oct. 28, 1992, [106 Stat. 3784](https://www.govinfo.gov/link/statute/106/3784), 3786; [Pub. L. 103–327, title II](https://www.govinfo.gov/link/plaw/103/public/327), Sept. 28, 1994, [108 Stat. 2316](https://www.govinfo.gov/link/statute/108/2316); [Pub. L. 105–276, title VI, § 601(e)](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2674](https://www.govinfo.gov/link/statute/112/2674); [Pub. L. 107–116, title VI, § 615](https://www.govinfo.gov/link/plaw/107/public/116), Jan. 10, 2002, [115 Stat. 2225](https://www.govinfo.gov/link/statute/115/2225); [Pub. L. 109–115, div. A, title III, § 323](https://www.govinfo.gov/link/plaw/109/public/115), Nov. 30, 2005, [119 Stat. 2466](https://www.govinfo.gov/link/statute/119/2466).)*

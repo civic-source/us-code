@@ -3,9 +3,10 @@ title: "Section 2323 - Accountability"
 usc_title: 20
 usc_section: "2323"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 2323"
-generated_at: "2026-03-30T02:54:48.173Z"
+generated_at: "2026-11-23T20:26:14.694Z"
+status: "active"
 ---
 
 # § 2323. Accountability
@@ -85,3 +86,49 @@ generated_at: "2026-03-30T02:54:48.173Z"
       - **(iii)** The eligible agency shall ensure, in a manner that is consistent with the actions of the Secretary under paragraph (3)(C)(iii), that each eligible recipient does not report duplicative information under this section.
       - **(iv)** The disaggregation of data under this paragraph shall not be required when the number of students in a category is insufficient to yield statistically reliable information or when the results would reveal personally identifiable information about an individual student.
       - **(v)** The report described in clause (i) shall be made available by the eligible recipient through a variety of formats, including electronically through the Internet, to students, parents, educators, and the public, and the information contained in such report shall be in a format that is understandable and uniform, and to the extent practicable, provided in a language that students, parents, and educators can understand.
+
+(aa) The percentage of CTE concentrators graduating from high school having attained a recognized postsecondary credential.
+
+(bb) The percentage of CTE concentrators graduating from high school having attained postsecondary credits in the relevant career and technical education program or program of study earned through a dual or concurrent enrollment program or another credit transfer agreement.
+
+(cc) The percentage of CTE concentrators graduating from high school having participated in work-based learning.
+
+(aa) be expressed in a percentage or numerical form, so as to be objective, quantifiable, and measurable;
+
+(bb) require the State to continually make meaningful progress toward improving the performance of all career and technical education students, including the subgroups of students described in section 6311(h)(1)(C)(ii) of this title , and special populations, as described in section 2302(48) of this title ; and
+
+(cc) have been subject to the public comment process described in subparagraph (B), and the eligible agency has provided a written response;
+
+(dd) when being adjusted pursuant to clause (ii), take into account how the levels of performance involved compare with the State levels of performance established for other States, considering factors including the characteristics of actual (as opposed to anticipated) CTE concentrators when the CTE concentrators entered the program, and the services or instruction to be provided;
+
+(ee) when being adjusted pursuant to clause (ii), be higher than the average actual performance of the 2 most recently completed program years, except in the case of unanticipated circumstances that require revisions in accordance with clause (iii); and
+
+(ff) take into account the extent to which the State determined levels of performance advance the eligible agency’s goals, as set forth in the State plan.
+
+(aa) for subgroups of students, as described in section 6311(h)(1)(C)(ii) of this title , and special populations, as described in section 2302(48) of this title , that are served under this chapter; and
+
+(bb) by the career and technical education programs or programs of study of the CTE concentrators, except that in a case in which reporting by such program or program of study is impractical, the data may be disaggregated by the career clusters of the CTE concentrators, if appropriate;
+
+(aa) Individuals enrolled in postsecondary education (disaggregated by postsecondary award level, including certificate, associate, or baccalaureate degree).
+
+(bb) Individuals in advanced training.
+
+(cc) Individuals in military service or a service program that receives assistance under title I of the National and Community Service Act of 1990 ( 42 U.S.C. 12511 et seq.) or volunteers as described in section 2504(a) of title 22 .
+
+(dd) Individuals in employment (including those individuals who are employed in a high-skill, high-wage, or in-demand sector or occupation).
+
+(aa) the differences within the State in actual economic conditions (including differences in unemployment rates and job losses or gains in particular industries); and
+
+(bb) the abilities of the State and the eligible recipient to collect and access valid, reliable, and cost-effective data.
+
+(aa) Individuals enrolled in postsecondary education (disaggregated by postsecondary award level, including certificate, associate, or baccalaureate degree).
+
+(bb) Individuals in advanced training.
+
+(cc) Individuals in military service or a service program that receives assistance under title I of the National and Community Service Act of 1990 ( 42 U.S.C. 12511 et seq.) or volunteers as described in section 2504(a) of title 22 .
+
+(dd) Individuals in employment (including those individuals who are employed in a high-skill, high-wage, or in-demand sector or occupation).
+
+## Source Credit
+
+*([Pub. L. 88–210, title I, § 113](https://www.govinfo.gov/link/plaw/88/public/210), as added [Pub. L. 109–270, § 1(b)](https://www.govinfo.gov/link/plaw/109/public/270), Aug. 12, 2006, [120 Stat. 696](https://www.govinfo.gov/link/statute/120/696); amended [Pub. L. 114–95, title IX, § 9215(n)(3)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2169](https://www.govinfo.gov/link/statute/129/2169); [Pub. L. 115–224, title I, § 112](https://www.govinfo.gov/link/plaw/115/public/224), July 31, 2018, [132 Stat. 1579](https://www.govinfo.gov/link/statute/132/1579).)*

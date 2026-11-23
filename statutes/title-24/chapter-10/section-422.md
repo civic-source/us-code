@@ -3,9 +3,10 @@ title: "Section 422 - Authority to accept certain uncompensated services"
 usc_title: 24
 usc_section: "422"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "24 U.S.C. § 422"
-generated_at: "2026-03-30T02:54:50.792Z"
+generated_at: "2026-11-23T20:26:22.706Z"
+status: "active"
 ---
 
 # § 422. Authority to accept certain uncompensated services
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:50.792Z"
     - **(A)** the average monthly number of hours that the person provided the services, by
     - **(B)** the minimum wage determined in accordance with section 206(a)(1) of title 29 .
 - **(e)** The Chief Operating Officer or the Administrator of a facility accepting services under subsection (a) may provide for reimbursement of a person for incidental expenses incurred by the person in providing the services accepted under subsection (a). The Chief Operating Officer or Administrator shall determine which expenses qualify for reimbursement under this subsection.
+
+## Source Credit
+
+*([Pub. L. 101–510, div. A, title XV, § 1522](https://www.govinfo.gov/link/plaw/101/public/510), as added [Pub. L. 104–201, div. A, title X, § 1052(a)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2649](https://www.govinfo.gov/link/statute/110/2649); amended [Pub. L. 107–107, div. A, title XIV, § 1404(b)(4)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1260](https://www.govinfo.gov/link/statute/115/1260); [Pub. L. 112–81, div. A, title V, § 564(b)(1)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1424](https://www.govinfo.gov/link/statute/125/1424).)*

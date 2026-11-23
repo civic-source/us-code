@@ -3,9 +3,10 @@ title: "Section 6871 - Definitions"
 usc_title: 16
 usc_section: "6871"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6871"
-generated_at: "2026-03-30T02:54:23.070Z"
+generated_at: "2026-11-23T20:26:20.823Z"
+status: "active"
 ---
 
 # § 6871. Definitions
@@ -25,3 +26,7 @@ In this chapter:
     - **(A)** the Secretary of Agriculture, acting through the Chief of the Forest Service; and
     - **(B)** the Secretary of the Interior.
   - **(6)** The term “State” means each of the several States, the District of Columbia, and each territory of the United States.
+
+## Source Credit
+
+*([Pub. L. 119–62, § 2](https://www.govinfo.gov/link/plaw/119/public/62), Dec. 26, 2025, [139 Stat. 1979](https://www.govinfo.gov/link/statute/139/1979).)*

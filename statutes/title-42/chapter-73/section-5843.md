@@ -3,9 +3,10 @@ title: "Section 5843 - Office of Nuclear Reactor Regulation"
 usc_title: 42
 usc_section: "5843"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5843"
-generated_at: "2026-03-30T02:56:11.238Z"
+generated_at: "2026-11-23T20:27:22.561Z"
+status: "active"
 ---
 
 # § 5843. Office of Nuclear Reactor Regulation
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.238Z"
   - **(2)** maintain the techniques and guidance established under paragraph (1) by periodically assessing and, if necessary, modifying those techniques and guidance; and
   - **(3)** obtain approval from the Commission if establishment or modification of the techniques and guidance under paragraph (1) or (2) involves policy formulation.
 - **(d)** Nothing in this section shall be construed to limit in any way the functions of the Administration relating to the safe operation of all facilities resulting from all activities within the jurisdiction of the Administration pursuant to this chapter.
+
+## Source Credit
+
+*([Pub. L. 93–438, title II, § 203](https://www.govinfo.gov/link/plaw/93/public/438), Oct. 11, 1974, [88 Stat. 1244](https://www.govinfo.gov/link/statute/88/1244); [Pub. L. 118–67, div. B, title V, § 505(a)](https://www.govinfo.gov/link/plaw/118/public/67), July 9, 2024, [138 Stat. 1477](https://www.govinfo.gov/link/statute/138/1477).)*

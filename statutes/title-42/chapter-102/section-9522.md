@@ -3,9 +3,10 @@ title: "Section 9522 - Report on shelter and basic living needs of chronically m
 usc_title: 42
 usc_section: "9522"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9522"
-generated_at: "2026-03-30T02:56:11.352Z"
+generated_at: "2026-11-23T20:27:23.086Z"
+status: "active"
 ---
 
 # § 9522. Report on shelter and basic living needs of chronically mentally ill individuals
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.352Z"
   - **(5)** recommendations for Federal legislation relating to the provision of permanent residential noninstitutional housing arrangements and basic living services for chronically mentally ill individuals, including an estimate of the cost of such recommendations; and
   - **(6)** any other recommendations for Federal initiatives which, in the judgment of the Secretary of Health and Human Services and the Secretary of Housing and Urban Development, will lead to improved shelter and basic living services for chronically mentally ill individuals.
 - **(c)** The report required by subsection (a) shall be submitted to the committees referred to in subsection (a) no later than January 1, 1981 .
+
+## Source Credit
+
+*([Pub. L. 96–398, title VIII, § 802](https://www.govinfo.gov/link/plaw/96/public/398), Oct. 7, 1980, [94 Stat. 1606](https://www.govinfo.gov/link/statute/94/1606); H. Res. 549, Mar. 25, 1980.)*

@@ -3,9 +3,10 @@ title: "Section 4531 - Presidential authorization for the national defense"
 usc_title: 50
 usc_section: "4531"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4531"
-generated_at: "2026-03-30T02:56:26.274Z"
+generated_at: "2026-11-23T20:27:31.107Z"
+status: "active"
 ---
 
 # § 4531. Presidential authorization for the national defense
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:56:26.274Z"
   - **(2)** The authority conferred by this section shall not be used primarily to prevent the financial insolvency or bankruptcy of any person, unless—
     - **(A)** the President certifies that the insolvency or bankruptcy would have a direct and substantially adverse effect upon national defense production; and
     - **(B)** a copy of the certification under subparagraph (A), together with a detailed justification thereof, is transmitted to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives not later than 10 days prior to the exercise of that authority for such use.
+
+## Source Credit
+
+*(Sept. 8, 1950, ch. 932, title III, § 301, as added [Pub. L. 111–67, § 7](https://www.govinfo.gov/link/plaw/111/public/67), Sept. 30, 2009, [123 Stat. 2010](https://www.govinfo.gov/link/statute/123/2010).)*

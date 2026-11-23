@@ -3,9 +3,10 @@ title: "Section 2732c - Submission of federally funded research and development 
 usc_title: 22
 usc_section: "2732c"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2732c"
-generated_at: "2026-03-30T02:55:05.382Z"
+generated_at: "2026-11-23T20:26:32.392Z"
+status: "active"
 ---
 
 # § 2732c. Submission of federally funded research and development center reports to Congress
@@ -15,3 +16,7 @@ Not later than 30 days after receiving a report or other written product provide
   - **(1)** the report or written product, including the original proposal for the report;
   - **(2)** the amount provided by the Department to the FFRDC; and
   - **(3)** a detailed description of the value the Department derived from the report.
+
+## Source Credit
+
+*([Pub. L. 119–60, div. E, title VI, § 5601](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1603](https://www.govinfo.gov/link/statute/139/1603).)*

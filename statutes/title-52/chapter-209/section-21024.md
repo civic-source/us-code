@@ -3,9 +3,10 @@ title: "Section 21024 - Authorization of appropriations"
 usc_title: 52
 usc_section: "21024"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "52 U.S.C. § 21024"
-generated_at: "2026-03-30T02:56:30.167Z"
+generated_at: "2026-11-23T20:27:36.983Z"
+status: "active"
 ---
 
 # § 21024. Authorization of appropriations
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:30.167Z"
   - **(2)** For fiscal year 2004, $25,000,000.
   - **(3)** For fiscal year 2005, $25,000,000.
 - **(b)** Any amounts appropriated pursuant to the authority of subsection (a) shall remain available without fiscal year limitation until expended.
+
+## Source Credit
+
+*([Pub. L. 107–252, title II, § 264](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1699](https://www.govinfo.gov/link/statute/116/1699).)*

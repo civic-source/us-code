@@ -3,9 +3,10 @@ title: "Section 1474 - Federal intervention actions"
 usc_title: 33
 usc_section: "1474"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1474"
-generated_at: "2026-03-30T02:55:41.107Z"
+generated_at: "2026-11-23T20:26:54.083Z"
+status: "active"
 ---
 
 # § 1474. Federal intervention actions
@@ -15,3 +16,7 @@ Upon a determination under section 1472 of this title of a grave and imminent da
   - **(1)** coordinate and direct all public and private efforts directed at the removal or elimination of the threatened pollution damage;
   - **(2)** directly or indirectly undertake the whole or any part of any salvage or other action he could require or direct under subsection (1) of this section; and
   - **(3)** remove, and, if necessary, destroy the ship and cargo which is the source of the danger.
+
+## Source Credit
+
+*([Pub. L. 93–248, § 5](https://www.govinfo.gov/link/plaw/93/public/248), Feb. 5, 1974, [88 Stat. 9](https://www.govinfo.gov/link/statute/88/9).)*

@@ -3,9 +3,10 @@ title: "Section 379aa - Serious adverse event reporting for nonprescription drug
 usc_title: 21
 usc_section: "379aa"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 379aa"
-generated_at: "2026-03-30T02:54:54.275Z"
+generated_at: "2026-11-23T20:26:27.752Z"
+status: "active"
 ---
 
 # § 379aa. Serious adverse event reporting for nonprescription drugs
@@ -57,3 +58,7 @@ generated_at: "2026-03-30T02:54:54.275Z"
       - **(ii)** otherwise be disclosed or distributed to any party without the written consent of the Secretary and the person submitting such information to the Secretary.
     - **(C)** Nothing in this section shall permit a State, territory, or political subdivision of a State or territory, to use any safety report received from the Secretary in a manner inconsistent with subsection (g) or section 379v of this title .
 - **(i)** There are authorized to be appropriated to carry out this section such sums as may be necessary.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 760, as added [Pub. L. 109–462, § 2(a)](https://www.govinfo.gov/link/plaw/109/public/462), Dec. 22, 2006, [120 Stat. 3469](https://www.govinfo.gov/link/statute/120/3469).)*

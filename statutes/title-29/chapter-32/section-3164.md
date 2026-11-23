@@ -3,9 +3,10 @@ title: "Section 3164 - Use of funds for youth workforce investment activities"
 usc_title: 29
 usc_section: "3164"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3164"
-generated_at: "2026-03-30T02:55:18.753Z"
+generated_at: "2026-11-23T20:26:38.096Z"
+status: "active"
 ---
 
 # § 3164. Use of funds for youth workforce investment activities
@@ -116,3 +117,11 @@ generated_at: "2026-03-30T02:55:18.753Z"
     - **(B)** No funds described in paragraph (1) shall be used to provide an activity for eligible youth who are not school dropouts if participation in the activity would interfere with or replace the regular academic requirements of the youth.
   - **(7)** In coordinating the programs authorized under this section, local boards shall establish linkages with local educational agencies responsible for services to participants as appropriate.
   - **(8)** The local board shall make opportunities available for individuals who have successfully participated in programs carried out under this section to volunteer assistance to participants in the form of mentoring, tutoring, and other activities.
+
+(aa) basic skills deficient; or
+
+(bb) an English language learner.
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 129](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1504](https://www.govinfo.gov/link/statute/128/1504); [Pub. L. 114–18, § 2(e)(2)](https://www.govinfo.gov/link/plaw/114/public/18), May 22, 2015, [129 Stat. 213](https://www.govinfo.gov/link/statute/129/213); [Pub. L. 114–95, title IX, § 9215(yyy)(3)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2192](https://www.govinfo.gov/link/statute/129/2192).)*

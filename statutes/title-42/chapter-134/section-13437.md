@@ -3,9 +3,10 @@ title: "Section 13437 - Advanced diesel emissions program"
 usc_title: 42
 usc_section: "13437"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13437"
-generated_at: "2026-03-30T02:56:11.445Z"
+generated_at: "2026-11-23T20:27:23.497Z"
+status: "active"
 ---
 
 # § 13437. Advanced diesel emissions program
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.445Z"
 - **(b)** The goal of the program established under subsection (a) shall be to accelerate the ability of United States diesel manufacturers to meet current and future oxides of nitrogen and particulate emissions requirements.
 - **(c)** Within 180 days after October 24, 1992 , the Secretary, in consultation with appropriate representatives of industry, institutions of higher education, Federal agencies, including national laboratories, and professional and technical societies, shall prepare and submit to the Congress a 5-year program plan to guide the activities under this section. Such plan shall be included as part of the plan required by section 13431(b) of this title .
 - **(d)** Within 1 year after October 24, 1992 , the Secretary shall solicit proposals for conducting activities consistent with the 5-year program plan.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XX, § 2027](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3066](https://www.govinfo.gov/link/statute/106/3066).)*

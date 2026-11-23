@@ -3,9 +3,10 @@ title: "Section 650 - Supervisory and enforcement authority for small business l
 usc_title: 15
 usc_section: "650"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 650"
-generated_at: "2026-03-30T02:54:08.104Z"
+generated_at: "2026-11-23T20:26:03.827Z"
+status: "active"
 ---
 
 # § 650. Supervisory and enforcement authority for small business lending companies
@@ -87,3 +88,7 @@ generated_at: "2026-03-30T02:54:08.104Z"
 - **(j)**
   - **(1)** Except as provided in paragraph (2), a small business lending company or a non-Federally regulated lender which violates any regulation or written directive issued by the Administrator regarding the filing of any regular or special report shall pay to the United States a civil penalty of not more than $5,000 for each day of the continuance of the failure to file such report, unless it is shown that such failure is due to reasonable cause and not due to willful neglect. The civil penalties under this subsection may be enforced in a civil action brought by the Administrator. The penalties under this subsection shall not apply to any affiliate of a small business lending company that procures at least 10 percent of its annual purchasing requirements from small manufacturers.
   - **(2)** The Administrator may by rules and regulations that shall be codified in the Code of Federal Regulations, after an opportunity for notice and comment, or upon application of an interested party, at any time previous to such failure, by order, after notice and opportunity for hearing which shall be conducted pursuant to sections 554, 556, and 557 of title 5, exempt in whole or in part, any small business lending company or non-Federally regulated lender from paragraph (1), upon such terms and conditions and for such period of time as it deems necessary and appropriate, if the Administrator finds that such action is not inconsistent with the public interest or the protection of the Administration. The Administrator may for the purposes of this section make any alternative requirements appropriate to the situation.
+
+## Source Credit
+
+*([Pub. L. 85–536, § 2[23]](https://www.govinfo.gov/link/plaw/85/public/536), as added [Pub. L. 98–473, title I, § 111A(a)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 1965](https://www.govinfo.gov/link/statute/98/1965); [Pub. L. 108–447, div. K, title I, § 161](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3458](https://www.govinfo.gov/link/statute/118/3458).)*

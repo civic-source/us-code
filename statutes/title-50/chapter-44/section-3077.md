@@ -3,12 +3,17 @@ title: "Section 3077 - Effective date"
 usc_title: 50
 usc_section: "3077"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3077"
-generated_at: "2026-03-30T02:56:26.234Z"
+generated_at: "2026-11-23T20:27:30.910Z"
+status: "active"
 ---
 
 # § 3077. Effective date
 
 - **(a)** The first sentence of section 202(a), 1 1 See References in Text note below. this section, and sections 3001, 3002, 3074, 3075, and 3076 of this title shall take effect July 26, 1947 .
 - **(b)** Except as provided in subsection (a), the provisions of this chapter shall take effect on whichever of the following days is the earlier: The day after the day upon which the Secretary of Defense first appointed takes office, or the sixtieth day after July 26, 1947 .
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title III, § 310, [61 Stat. 509](https://www.govinfo.gov/link/statute/61/509).)*

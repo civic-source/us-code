@@ -3,9 +3,10 @@ title: "Section 16025 - Project timelines and authorization of appropriations"
 usc_title: 42
 usc_section: "16025"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16025"
-generated_at: "2026-03-30T02:56:11.467Z"
+generated_at: "2026-11-23T20:27:23.597Z"
+status: "active"
 ---
 
 # § 16025. Project timelines and authorization of appropriations
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.467Z"
 - **(d)** There is authorized to be appropriated to the Secretary for research and construction activities under this part (including for transfer to the Nuclear Regulatory Commission for activities under section 16024 of this title as appropriate)—
   - **(1)** $1,250,000,000 for the period of fiscal years 2006 through 2015; and
   - **(2)** such sums as are necessary for each of fiscal years 2016 through 2021.
+
+## Source Credit
+
+*([Pub. L. 109–58, title VI, § 645](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 798](https://www.govinfo.gov/link/statute/119/798).)*

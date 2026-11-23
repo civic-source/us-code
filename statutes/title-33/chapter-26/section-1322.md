@@ -3,9 +3,10 @@ title: "Section 1322 - Marine sanitation devices; discharges incidental to the n
 usc_title: 33
 usc_section: "1322"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1322"
-generated_at: "2026-03-30T02:55:41.097Z"
+generated_at: "2026-11-23T20:26:54.030Z"
+status: "active"
 ---
 
 # § 1322. Marine sanitation devices; discharges incidental to the normal operation of vessels
@@ -535,3 +536,255 @@ generated_at: "2026-03-30T02:55:41.097Z"
         - **(II)**
         - **(III)** The Administrator shall approve or disapprove an application submitted under subclause (I) by not later than 90 days after the date on which the application is submitted to the Administrator.
     - **(E)** In any case in which a requirement established under this paragraph is more stringent or environmentally protective than a comparable requirement established under paragraph (4), (5), or (6), the more-stringent or more-protective requirement shall control.
+
+(aa) reporting violations of this section; and
+
+(bb) accumulating evidence regarding those violations; and
+
+(aa) the addition of as much midocean water into each empty ballast tank of a vessel as is safe for the vessel and crew; and
+
+(bb) the mixing of the flushwater with residual ballast water and sediment through the motion of the vessel; and
+
+(aa) has the highest salinity possible; and
+
+(bb) is at least 30 parts per thousand.
+
+(aa) this subsection; and
+
+(bb) any law applicable to discharges of sewage.
+
+(aa) documentation of the request submitted under subclause (I); and
+
+(bb) the response of the Administrator to any written objections received from the Secretary relating to the proposed standard of performance during the 60-day period beginning on the date of submission of the request.
+
+(aa) in consultation with interested Governors; and
+
+(bb) in accordance with the deadlines under that clause.
+
+(aa) Submission An interested Governor that objects to a proposed standard of performance under clause (i) may submit to the Administrator in writing a detailed objection to the proposed standard of performance, describing the scientific, technical, or operational factors that form the basis of the objection.
+
+(bb) Response Before finalizing a standard of performance under clause (i) that is subject to an objection under item (aa) from 1 or more interested Governors, the Administrator shall provide a written response to each interested Governor that submitted an objection under that item that details the scientific, technical, or operational factors that form the basis for that standard of performance.
+
+(cc) Judicial review A response of the Administrator under item (bb) shall not be subject to judicial review.
+
+(aa) to achieve the standards of performance; or
+
+(bb) to carry out the purpose and intent of this subsection.
+
+(aa) in accordance with subparagraphs (A) through (C); and
+
+(bb) as necessary to establish requirements for any discharge that is subject to regulation under this subsection.
+
+(aa) if information becomes available that— (AA) was not reasonably available when the Administrator promulgated the initial standard of performance or comparable requirement of the Vessel General Permit, as applicable (including the subsequent scarcity or unavailability of materials used to control the relevant discharge); and (BB) would have justified the application of a less-stringent standard of performance at the time of promulgation; or
+
+(bb) if the Administrator determines that a material technical mistake or misinterpretation of law occurred when promulgating the existing standard of performance or comparable requirement of the Vessel General Permit, as applicable.
+
+(aa) documentation of the request submitted under subclause (I); and
+
+(bb) the response of the Administrator to any written objections received from the Secretary relating to the proposed order during the 60-day period beginning on the date of submission of the request.
+
+(aa) in accordance with this subparagraph or subparagraph (B), as applicable;
+
+(bb) if information becomes available that— (AA) the Administrator determines was not reasonably available when the Administrator promulgated the existing requirement of the Vessel General Permit, or that the Secretary determines was not reasonably available when the Secretary promulgated the existing requirement under the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990 ( 16 U.S.C. 4701 et seq.) or the applicable existing requirement under this subparagraph, as applicable (including subsequent scarcity or unavailability of materials used to control the relevant discharge); and (BB) would have justified the application of a less-stringent requirement at the time of promulgation; or
+
+(cc) if the Administrator determines that a material technical mistake or misinterpretation of law occurred when promulgating an existing requirement of the Vessel General Permit, or if the Secretary determines that a material mistake or misinterpretation of law occurred when promulgating an existing requirement under the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990 ( 16 U.S.C. 4701 et seq.) or this subsection.
+
+(aa) the same port or place of destination; or
+
+(bb) contiguous portions of a single Captain of the Port Zone;
+
+(aa) would compromise the safety of the vessel; or
+
+(bb) is otherwise prohibited by any Federal, Canadian, or international law (including regulations) pertaining to vessel safety;
+
+(aa) the ballast water management system; or
+
+(bb) the vessel;
+
+(aa) to measure the concentration of organisms in ballast water that are capable of reproduction;
+
+(bb) to certify the performance of each ballast water management system under this subsection; and
+
+(cc) to certify laboratories to evaluate applicable treatment technologies.
+
+(aa) organisms greater than or equal to 10 micrometers; and
+
+(bb) organisms less than or equal to 50 micrometers.
+
+(aa) the applicable discharge was avoided; or
+
+(bb) an alternate compliance option approved by the Secretary as meeting the applicable standard was employed.
+
+(aa) In general Except as provided in item (bb), a State may assess a fee for activities under this clause equal to not more than $1,000 against the owner or operator of a vessel that— (AA) has operated outside of that State; and (BB) arrives at a port or place of destination in the State (excluding movement entirely within a single port or place of destination).
+
+(bb) Vessels engaged in coastwise trade A State may assess against the owner or operator of a vessel registered in accordance with applicable Federal law and lawfully engaged in the coastwise trade not more than $5,000 in fees under this clause per vessel during a calendar year.
+
+(aa) In general A State may adjust the amount of a fee authorized under this clause not more frequently than once every 5 years to reflect the percentage by which the Consumer Price Index for All Urban Consumers published by the Department of Labor for the month of October immediately preceding the date of adjustment exceeds the Consumer Price Index for All Urban Consumers published by the Department of Labor for the month of October that immediately precedes the date that is 5 years before the date of adjustment.
+
+(bb) Effect of subclause Nothing in this subclause prevents a State from adjusting a fee in effect before December 4, 2018 , to the applicable maximum amount under subclause (II).
+
+(cc) Applicability This subclause applies only to increases in fees to amounts greater than the applicable maximum amount under subclause (II).
+
+(aa) would compromise the safety of the vessel; or
+
+(bb) is otherwise prohibited by any Federal, Canadian, or international law (including regulations) pertaining to vessel safety;
+
+(aa) is certified by the Secretary as having no residual ballast water or sediments onboard; or
+
+(bb) retains all ballast water while in waters subject to the requirement; or
+
+(aa) no discharge or uptake occurs; and
+
+(bb) any subsequent discharge of ballast water is subject to the requirement.
+
+(aa) is subject to regulation under this subsection; and
+
+(bb) occurs within the Great Lakes System.
+
+(aa) the Executive Director of the Great Lakes Commission, in such manner as may be prescribed by the Great Lakes Commission;
+
+(bb) the Governor of each other Great Lakes State; and
+
+(cc) the Director of the Great Lakes National Program Office established by section 1268(b) of this title .
+
+(aa) In general After the date of receipt of a petition under subclause (II)(aa), the Great Lakes Commission (acting through the Great Lakes Panel on Aquatic Nuisance Species, to the maximum extent practicable) may develop a preliminary assessment regarding each enhanced standard of performance or other requirement described in the petition.
+
+(bb) Provisions The preliminary assessment developed by the Great Lakes Commission under item (aa)— (AA) may be developed in consultation with relevant experts and stakeholders; (BB) may be narrative in nature; (CC) may include the preliminary views, if any, of the Great Lakes Commission on the propriety of the proposed enhanced standard of performance or other requirement; (DD) shall be submitted, in writing, to the Governor of each Great Lakes State and the Director of the Great Lakes National Program Office and published on the internet website of the Great Lakes National Program Office; and (EE) except as provided in clause (iii), shall not be taken into consideration, or provide a basis for review, by the Administrator or the Secretary for purposes of that clause.
+
+(aa) Request by Governor Not earlier than the date that is 90 days after the date on which the Executive Director of the Great Lakes Commission receives from a Governor of a Great Lakes State a petition under clause (i)(II)(aa), the Governor may request the Director of the Great Lakes National Program Office to publish, for a period requested by the Governor of not less than 30 days, and the Director shall so publish, in the Federal Register for public comment— (AA) a copy of the petition; and (BB) if applicable as of the date of publication, any preliminary assessment of the Great Lakes Commission developed under clause (i)(III) relating to the petition.
+
+(bb) Review of public comments On receipt of a written request of a Governor of a Great Lakes State, the Director of the Great Lakes National Program Office shall make available all public comments received in response to the notice under item (aa).
+
+(cc) No response required Notwithstanding any other provision of law, a Governor of a Great Lakes State or the Director of the Great Lakes National Program Office shall not be required to provide a response to any comment received in response to the publication of a petition or preliminary assessment under item (aa).
+
+(dd) Purpose Any public comments received in response to the publication of a petition or preliminary assessment under item (aa) shall be used solely for the purpose of providing information and feedback to the Governor of each Great Lakes State regarding the decision to endorse the proposed standard or requirement.
+
+(ee) Effect of petition A proposed standard or requirement developed under subclause (II) may differ from the proposed standard or requirement described in a petition published under item (aa).
+
+(aa) shall be developed— (AA) in consultation with representatives from the Federal and provincial governments of Canada; (BB) after notice and opportunity for public comment on the petition published under subclause (I); and (CC) taking into consideration the preliminary assessment, if any, of the Great Lakes Commission under clause (i)(III);
+
+(bb) shall be specifically endorsed in writing by— (AA) the Governor of each Great Lakes State, if the proposed standard or requirement would impose any additional equipment requirement on a vessel; or (BB) not fewer than 5 Governors of Great Lakes States, if the proposed standard or requirement would not impose any additional equipment requirement on a vessel; and
+
+(cc) in the case of a proposed requirement to prohibit 1 or more types of discharge regulated under this subsection, whether treated or not treated, into waters within the Great Lakes System, shall not apply outside the waters of the Great Lakes States of the Governors endorsing the proposed requirement under item (bb).
+
+(aa) In general The Governors endorsing a proposed standard or requirement under clause (ii)(III)(bb) may jointly submit to the Administrator and the Secretary for approval each proposed standard of performance or other requirement developed and endorsed pursuant to clause (ii).
+
+(bb) Inclusion Each submission under item (aa) shall include an explanation regarding why the applicable standard of performance or other requirement is— (AA) at least as stringent as a comparable standard of performance or other requirement under this subsection; (BB) in accordance with maritime safety; and (CC) in accordance with applicable maritime and navigation laws and regulations.
+
+(cc) Withdrawal (AA) In general The Governor of any Great Lakes State that endorses a proposed standard or requirement under clause (ii)(III)(bb) may withdraw the endorsement by not later than the date that is 90 days after the date on which the Administrator and the Secretary receive the proposed standard or requirement. (BB) Effect on Federal review If, after the withdrawal of an endorsement under subitem (AA), the proposed standard or requirement does not have the applicable number of endorsements under clause (ii)(III)(bb), the Administrator and the Secretary shall terminate the review under this clause.
+
+(dd) Dissenting opinions The Governor of a Great Lakes State that does not endorse a proposed standard or requirement under clause (ii)(III)(bb) may submit to the Administrator and the Secretary any dissenting opinions of the Governor.
+
+(aa) states that the proposed standard or requirement is publicly available; and
+
+(bb) provides an opportunity for public comment regarding the proposed standard or requirement during the 90-day period beginning on the date of receipt by the Administrator and the Secretary of the proposed standard or requirement.
+
+(aa) In general As soon as practicable after the date of publication of a joint notice under subclause (II)— (AA) the Administrator shall commence a review of each proposed standard of performance or other requirement covered by the notice to determine whether that standard or requirement is at least as stringent as comparable standards and requirements under this subsection; and (BB) the Secretary shall commence a review of each proposed standard of performance or other requirement covered by the notice to determine whether that standard or requirement is in accordance with maritime safety and applicable maritime and navigation laws and regulations.
+
+(bb) Consultation In carrying out item (aa), the Administrator and the Secretary— (AA) shall consult with the Governor of each Great Lakes State and representatives from the Federal and provincial governments of Canada; (BB) shall take into consideration any relevant data or public comments received under subclause (II)(bb); and (CC) shall not take into consideration any preliminary assessment by the Great Lakes Commission under clause (i)(III), or any dissenting opinion under subclause (I)(dd), except to the extent that such an assessment or opinion is relevant to the criteria for the applicable determination under item (aa).
+
+(aa) determine, as applicable, whether each proposed standard or other requirement satisfies the criteria under subclause (III)(aa);
+
+(bb) approve each proposed standard or other requirement, unless the Administrator or the Secretary, as applicable, determines under item (aa) that the proposed standard or other requirement does not satisfy the criteria under subclause (III)(aa); and
+
+(cc) submit to the Governor of each Great Lakes State, and publish in the Federal Register, a notice of the determination under item (aa).
+
+(aa) Rationale and recommendations If the Administrator and the Secretary disapprove a proposed standard of performance or other requirement under subclause (IV)(bb), the notices under subclause (IV)(cc) shall include— (AA) a description of the reasons why the standard or requirement is, as applicable, less stringent than a comparable standard or requirement under this subsection, inconsistent with maritime safety, or inconsistent with applicable maritime and navigation laws and regulations; and (BB) any recommendations regarding changes the Governors of the Great Lakes States could make to conform the disapproved portion of the standard or requirement to the requirements of this subparagraph.
+
+(bb) Review Disapproval of a proposed standard or requirement by the Administrator and the Secretary under this subparagraph shall be considered to be a final agency action subject to judicial review under section 1369 of this title .
+
+(aa) the Administrator shall establish, by regulation, the proposed standard or requirement within the Great Lakes System in lieu of any comparable standard or other requirement promulgated under paragraph (4); and
+
+(bb) the Secretary shall establish, by regulation, any requirements necessary to implement, ensure compliance with, and enforce the standard or requirement under item (aa), or to apply the proposed requirement, within the Great Lakes System in lieu of any comparable requirement promulgated under paragraph (5).
+
+(aa) using, in compliance with applicable requirements, a type-approved ballast water management system approved by the Secretary; or
+
+(bb) voyaging— (AA) between or to a port or place of destination in the State of Washington, if the ballast water to be discharged from the commercial vessel originated solely from waters located between the parallel 46 degrees north latitude, including the internal waters of the Columbia River, and the internal waters of Canada south of parallel 50 degrees north latitude, including the waters of the Strait of Georgia and the Strait of Juan de Fuca; (BB) between ports or places of destination in the State of Oregon, if the ballast water to be discharged from the commercial vessel originated solely from waters located between the parallel 40 degrees north latitude and the parallel 50 degrees north latitude; (CC) between ports or places of destination in the State of California within the San Francisco Bay area east of the Golden Gate Bridge, including the Port of Stockton and the Port of Sacramento, if the ballast water to be discharged from the commercial vessel originated solely from ports or places within that area; (DD) between the Port of Los Angeles, the Port of Long Beach, and the El Segundo offshore marine oil terminal, if the ballast water to be discharged from the commercial vessel originated solely from the Port of Los Angeles, the Port of Long Beach, or the El Segundo offshore marine oil terminal; (EE) between a port or place of destination in the State of Alaska within a single Captain of the Port Zone; (FF) between ports or places of destination in different counties of the State of Hawaii, if the vessel may conduct a complete ballast water exchange in waters that are more than 10 nautical miles from shore and at least 200 meters deep; or (GG) between ports or places of destination within the same county of the State of Hawaii, if the vessel does not transit outside State marine waters during the voyage.
+
+(aa) not less than 50 nautical miles from shore, if the ballast water was sourced from a Pacific Region port or place of destination; or
+
+(bb) more than 200 nautical miles from shore, if the ballast water was not sourced from a Pacific Region port or place of destination.
+
+(aa) less than 1 organism per 10 cubic meters, if that organism— (AA) is living, or has not been rendered nonviable; and (BB) is 50 or more micrometers in minimum dimension;
+
+(bb) less than 1 organism per 10 milliliters, if that organism— (AA) is living, or has not been rendered nonviable; and (BB) is more than 10, but less than 50, micrometers in minimum dimension;
+
+(cc) concentrations of indicator microbes that are less than— (AA) 1 colony-forming unit of toxicogenic Vibrio cholera (serotypes O1 and O139) per 100 milliliters or less than 1 colony-forming unit of that microbe per gram of wet weight of zoological samples; (BB) 126 colony-forming units of escherichia coli per 100 milliliters; and (CC) 33 colony-forming units of intestinal enterococci per 100 milliliters; and
+
+(dd) concentrations of such additional indicator microbes and viruses as may be specified in the standards of performance established by the Administrator under paragraph (4).
+
+(aa) is certified by the Secretary as having no residual ballast water or sediments onboard; or
+
+(bb) retains all ballast water while in waters subject to those requirements; or
+
+(aa) no discharge or uptake occurs; and
+
+(bb) any subsequent discharge of ballast water is subject to those requirements.
+
+(aa) prohibition of the discharge would protect and enhance the quality of the specified waters within the State;
+
+(bb) adequate facilities for the safe and sanitary removal and treatment of the discharge are reasonably available for the water and all vessels to which the prohibition would apply;
+
+(cc) the discharge can be safely collected and stored until a vessel reaches a discharge facility or other location; and
+
+(dd) in the case of an application for the prohibition of discharges of ballast water in a port (or in any other location where cargo, passengers, or fuel are loaded and unloaded)— (AA) the adequate facilities described in item (bb) are reasonably available for commercial vessels, after considering, at a minimum, water depth, dock size, pumpout facility capacity and flow rate, availability of year-round operations, proximity to navigation routes, and the ratio of pumpout facilities to the population and discharge capacity of commercial vessels operating in those waters; and (BB) the prohibition will not unreasonably interfere with the safe loading and unloading of cargo, passengers, or fuel.
+
+(aa) Request The Administrator shall submit to the Secretary a request for written concurrence with respect to a prohibition under subclause (I).
+
+(bb) Effect of failure to concur A failure by the Secretary to concur with the Administrator under subclause (I) by the date that is 60 days after the date on which the Administrator submits a request for concurrence under item (aa) shall not prevent the Administrator from prohibiting the relevant discharge in accordance with subclause (III), subject to the condition that the Administrator shall include in the administrative record of the promulgation— (AA) documentation of the request submitted under item (aa); and (BB) the response of the Administrator to any written objections received from the Secretary relating to the proposed standard of performance during the 60-day period beginning on the date of submission of the request.
+
+“Unless otherwise prohibited by law, the Commandant of the Coast Guard shall, upon request by any State, the District of Columbia, any Indian Tribe, or any territory of the United States, provide all data possessed by the Coast Guard for a ballast water management system with a type approval certificate approved by the Coast Guard pursuant to subpart 162.060 of title 46, Code of Federal Regulations, as in effect on the date of enactment of the Coast Guard Authorization Act of 2025 [ Dec. 18, 2025 ] pertaining to—
+
+Purposes
+
+Findings
+
+“The purposes of this section [amending this section and section 1362 of this title and enacting provisions set out as a note below] are to—
+
+“The Administrator of the Environmental Protection Agency and the Secretary of Defense may, by mutual agreement, with or without reimbursement, provide for the use of information, reports, personnel, or other resources of the Environmental Protection Agency or the Department of Defense to carry out section 312(n) of the Federal Water Pollution Control Act [ 33 U.S.C. 1322(n) ] (as added by subsection (b)), including the use of the resources—
+
+Findings
+
+Purpose
+
+Survey
+
+Plan
+
+Plan Approval.—
+
+In general
+
+Notification of state; modification
+
+Resubmittal
+
+Indication of Stations and Facilities on NOAA Charts.—
+
+In general
+
+Notification of NOAA.—
+
+Lists of stations and facilities
+
+Completion of project
+
+Transfer
+
+Access Increase
+
+Grant Program.—
+
+Matching grants
+
+Priority
+
+Disclaimer
+
+Issuance of Guidance
+
+Notification
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title III, § 312, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 871](https://www.govinfo.gov/link/statute/86/871); amended [Pub. L. 95–217, § 59](https://www.govinfo.gov/link/plaw/95/public/217), Dec. 27, 1977, [91 Stat. 1596](https://www.govinfo.gov/link/statute/91/1596); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695); [Pub. L. 100–4, title III, § 311](https://www.govinfo.gov/link/plaw/100/public/4), Feb. 4, 1987, [101 Stat. 42](https://www.govinfo.gov/link/statute/101/42); [Pub. L. 104–106, div. A, title III, § 325(b)](https://www.govinfo.gov/link/plaw/104/public/106) –(c)(2), Feb. 10, 1996, [110 Stat. 254–259](https://www.govinfo.gov/link/statute/110/254); [Pub. L. 110–288, § 4](https://www.govinfo.gov/link/plaw/110/public/288), July 29, 2008, [122 Stat. 2650](https://www.govinfo.gov/link/statute/122/2650); [Pub. L. 115–282, title IX, § 903(a)(1)](https://www.govinfo.gov/link/plaw/115/public/282), (b), (c)(1), Dec. 4, 2018, [132 Stat. 4324](https://www.govinfo.gov/link/statute/132/4324), 4354, 4355.)*

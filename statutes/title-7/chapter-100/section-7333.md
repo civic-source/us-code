@@ -3,9 +3,10 @@ title: "Section 7333 - Administration and operation of noninsured crop assistanc
 usc_title: 7
 usc_section: "7333"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7333"
-generated_at: "2026-03-30T02:53:42.449Z"
+generated_at: "2026-11-23T20:25:41.773Z"
+status: "active"
 ---
 
 # § 7333. Administration and operation of noninsured crop assistance program
@@ -137,3 +138,11 @@ generated_at: "2026-03-30T02:53:42.449Z"
         - **(I)** a 5.25-percent premium fee; and
         - **(II)** the applicable payment limit.
   - **(3)** The coverage made available under this subsection shall be available to limited resource, beginning, and socially disadvantaged farmers, as determined by the Secretary, and veteran farmers or ranchers (as defined in section 2279(a) of this title ) in exchange for a premium that is 50 percent of the premium determined under paragraph (2).
+
+(aa) during the first 10 crop years after the initial tillage; and
+
+(bb) during which a crop on that acreage is enrolled under subsection ( l )(2) or (k).
+
+## Source Credit
+
+*([Pub. L. 104–127, title I, § 196](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 947](https://www.govinfo.gov/link/statute/110/947); [Pub. L. 105–277, div. A, § 101(a) [title VIII, § 803(b)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681](https://www.govinfo.gov/link/statute/112/2681), 2681–38; [Pub. L. 106–224, title I, § 109](https://www.govinfo.gov/link/plaw/106/public/224), June 20, 2000, [114 Stat. 371](https://www.govinfo.gov/link/statute/114/371); [Pub. L. 107–171, title X, § 10101](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 488](https://www.govinfo.gov/link/statute/116/488); [Pub. L. 110–234, title I, § 1603(f)(1)](https://www.govinfo.gov/link/plaw/110/public/234), title XII, §§ 12020(b), 12025(b), 12027, 12028, May 22, 2008, [122 Stat. 1010](https://www.govinfo.gov/link/statute/122/1010), 1381, 1390; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1603(f)(1), title XII, §§ 12020(b), 12025(b), 12027, 12028, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1739, 2143, 2152; [Pub. L. 113–79, title XI, § 11014(b)](https://www.govinfo.gov/link/plaw/113/public/79), title XII, § 12305(a), Feb. 7, 2014, [128 Stat. 962](https://www.govinfo.gov/link/statute/128/962), 986; [Pub. L. 115–334, title I, § 1601](https://www.govinfo.gov/link/plaw/115/public/334), title XII, § 12306(f), Dec. 20, 2018, [132 Stat. 4523](https://www.govinfo.gov/link/statute/132/4523), 4970.)*

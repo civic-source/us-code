@@ -3,9 +3,10 @@ title: "Section 355 - New drugs"
 usc_title: 21
 usc_section: "355"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 355"
-generated_at: "2026-03-30T02:54:54.232Z"
+generated_at: "2026-11-23T20:26:27.565Z"
+status: "active"
 ---
 
 # § 355. New drugs
@@ -193,6 +194,16 @@ generated_at: "2026-03-30T02:54:54.232Z"
     - **(E)** The written decisions of the reviewing division shall be binding upon, and may not directly or indirectly be changed by, the field or compliance office personnel unless such field or compliance office personnel demonstrate to the reviewing division why such decision should be modified.
     - **(F)** No action by the reviewing division may be delayed because of the unavailability of information from or action by field personnel unless the reviewing division determines that a delay is necessary to assure the marketing of a safe and effective drug.
     - **(G)** For purposes of this paragraph, the reviewing division is the division responsible for the review of an application for approval of a drug under this subsection (including scientific matters, chemistry, manufacturing, and controls).
+    - **(H)**
+      - **(i)** Upon request (in controlled correspondence or an analogous process) by a person that has submitted or intends to submit an abbreviated application under this subsection for a drug that is required by regulation to contain one or more of the same inactive ingredients in the same concentrations as the listed drug referred to, or for which the Secretary determines there is a scientific justification for an approach that is in vitro, in whole or in part, to be used to demonstrate bioequivalence for a drug if such a drug contains one or more of the same inactive ingredients in the same concentrations as the listed drug referred to, the Secretary shall inform the person whether such drug is qualitatively and quantitatively the same as the listed drug. The Secretary may also provide such information to such a person on the Secretary’s own initiative during the review of an abbreviated application under this subsection for such drug.
+      - **(ii)** Notwithstanding section 331(j) of this title , if the Secretary determines that such drug is not qualitatively or quantitatively the same as the listed drug, the Secretary shall identify and disclose to the person—
+        - **(I)** the ingredient or ingredients that cause such drug not to be qualitatively or quantitatively the same as the listed drug; and
+        - **(II)** for any ingredient for which there is an identified quantitative deviation, the amount of such deviation.
+      - **(iii)** If the Secretary determines that such drug is qualitatively and quantitatively the same as the listed drug, the Secretary shall not change or rescind such determination after the submission of an abbreviated application for such drug under this subsection unless—
+        - **(I)** the formulation of the listed drug has been changed and the Secretary has determined that the prior listed drug formulation was withdrawn for reasons of safety or effectiveness; or
+        - **(II)** the Secretary makes a written determination that the prior determination must be changed because an error has been identified.
+      - **(iv)** If the Secretary makes a written determination described in clause (iii)(II), the Secretary shall provide notice and a copy of the written determination to the person making the request under clause (i).
+      - **(v)** The disclosures authorized under clauses (i) and (ii) are disclosures authorized by law, including for purposes of section 1905 of title 18 . This subparagraph shall not otherwise be construed to authorize the disclosure of nonpublic qualitative or quantitative information about the ingredients in a listed drug, or to affect the status, if any, of such information as trade secret or confidential commercial information for purposes of section 331(j) of this title , section 552 of title 5 , or section 1905 of title 18 .
   - **(4)** Subject to paragraph (5), the Secretary shall approve an application for a drug unless the Secretary finds—
     - **(A)** the methods used in, or the facilities and controls used for, the manufacture, processing, and packing of the drug are inadequate to assure and preserve its identity, strength, quality, and purity;
     - **(B)** information submitted with the application is insufficient to show that each of the proposed conditions of use have been previously approved for the listed drug referred to in the application;
@@ -623,3 +634,413 @@ generated_at: "2026-03-30T02:54:54.232Z"
     - **(A)** On the initiative of the Secretary or at the request of a sponsor, the Secretary may waive any requirement in paragraph (1), (2), or (3) if the Secretary determines that a waiver is necessary based on what is known or what can be determined about the prevalence or incidence of the disease or condition for which the new drug is under investigation (including in terms of the patient population that may use the drug), if conducting a clinical investigation in accordance with a diversity action plan would otherwise be impracticable, or if such waiver is necessary to protect public health during a public health emergency.
     - **(B)** The Secretary shall issue a written response granting or denying a request from a sponsor for a waiver within 60 days of receiving such request.
   - **(5)** No diversity action plan shall be required for a submission described in section 360bbb of this title .
+
+Notice of opinion that patent is invalid or will not be infringed.—
+
+Agreement to give notice
+
+Timing of notice
+
+Recipients of notice
+
+Contents of notice
+
+Rx-to-nonprescription switches.—
+
+Meetings
+
+Guidance.—
+
+In general
+
+Contents
+
+Plan to engage with stakeholders
+
+Definition
+
+Rule of construction
+
+(aa) the date on which the court of appeals decides that the patent is invalid or not infringed (including any substantive determination that there is no cause of action for patent infringement or invalidity); or
+
+(bb) the date of a settlement order or consent decree signed and entered by the court of appeals stating that the patent that is the subject of the certification is invalid or not infringed; or
+
+Civil action to obtain patent certainty.—
+
+Declaratory judgment absent infringement action.—
+
+In general
+
+(aa) the 45-day period referred to in such subparagraph has expired;
+
+(bb) neither the owner of such patent nor the holder of the approved application under subsection (b) for the drug that is claimed by the patent or a use of which is claimed by the patent brought a civil action against the applicant for infringement of the patent before the expiration of such period; and
+
+(cc) in any case in which the notice provided under paragraph (2)(B) relates to noninfringement, the notice was accompanied by a document described in subclause (III).
+
+Filing of civil action
+
+Offer of confidential access to application
+
+Counterclaim to infringement action.—
+
+In general
+
+(aa) the drug for which the application was approved; or
+
+(bb) an approved method of using the drug.
+
+No independent cause of action
+
+No damages
+
+Notice of opinion that patent is invalid or will not be infringed.—
+
+Agreement to give notice
+
+Timing of notice
+
+Recipients of notice
+
+Contents of notice
+
+(aa) the date on which the court enters judgment reflecting the decision; or
+
+(bb) the date of a settlement order or consent decree signed and entered by the court stating that the patent that is the subject of the certification is invalid or not infringed;
+
+(aa) if the judgment of the district court is appealed, the approval shall be made effective on— (AA) the date on which the court of appeals decides that the patent is invalid or not infringed (including any substantive determination that there is no cause of action for patent infringement or invalidity); or (BB) the date of a settlement order or consent decree signed and entered by the court of appeals stating that the patent that is the subject of the certification is invalid or not infringed; or
+
+(bb) if the judgment of the district court is not appealed or is affirmed, the approval shall be made effective on the date specified by the district court in a court order under section 271(e)(4)(A) of title 35 ;
+
+day exclusivity period.—
+
+Effectiveness of application
+
+Definitions
+
+(aa) 180- day exclusivity period .— The term “180-day exclusivity period” means the 180-day period ending on the day before the date on which an application submitted by an applicant other than a first applicant could become effective under this clause.
+
+(bb) First applicant .— As used in this subsection, the term “first applicant” means an applicant that, on the first day on which a substantially complete application containing a certification described in paragraph (2)(A)(vii)(IV) is submitted for approval of a drug, submits a substantially complete application that contains and lawfully maintains a certification described in paragraph (2)(A)(vii)(IV) for the drug.
+
+(cc) Substantially complete application .— As used in this subsection, the term “substantially complete application” means an application under this subsection that on its face is sufficiently complete to permit a substantive review and contains all the information required by paragraph (2)(A).
+
+(dd) Tentative approval.— (AA) In general .— The term “tentative approval” means notification to an applicant by the Secretary that an application under this subsection meets the requirements of paragraph (2)(A), but cannot receive effective approval because the application does not meet the requirements of this subparagraph, there is a period of exclusivity for the listed drug under subparagraph (F) or section 355a of this title , or there is a 7-year period of exclusivity for the listed drug under section 360cc of this title . (BB) Limitation .— A drug that is granted tentative approval by the Secretary is not an approved drug and shall not have an effective approval until the Secretary issues an approval after any necessary additional review of the application.
+
+day exclusivity period for competitive generic therapies.—
+
+Effectiveness of application
+
+Limitation
+
+Definitions
+
+(aa) The term “competitive generic therapy” means a drug— (AA) that is designated as a competitive generic therapy under section 356h of this title ; and (BB) for which there are no unexpired patents or exclusivities on the list of products described in section 355(j)(7)(A) of this title at the time of submission.
+
+(bb) The term “first approved applicant” means any applicant that has submitted an application that— (AA) is for a competitive generic therapy that is approved on the first day on which any application for such competitive generic therapy is approved; (BB) is not eligible for a 180-day exclusivity period under clause (iv) for the drug that is the subject of the application for the competitive generic therapy; and (CC) is not for a drug for which all drug versions have forfeited eligibility for a 180-day exclusivity period under clause (iv) pursuant to subparagraph (D).
+
+Civil action to obtain patent certainty.—
+
+Declaratory judgment absent infringement action.—
+
+In general
+
+(aa) the 45-day period referred to in such subparagraph has expired;
+
+(bb) neither the owner of such patent nor the holder of the approved application under subsection (b) for the drug that is claimed by the patent or a use of which is claimed by the patent brought a civil action against the applicant for infringement of the patent before the expiration of such period; and
+
+(cc) in any case in which the notice provided under paragraph (2)(B) relates to noninfringement, the notice was accompanied by a document described in subclause (III).
+
+Filing of civil action
+
+Offer of confidential access to application
+
+Counterclaim to infringement action.—
+
+In general
+
+(aa) the drug for which the application was approved; or
+
+(bb) an approved method of using the drug.
+
+No independent cause of action
+
+No damages
+
+Forfeiture of 180-day exclusivity period.—
+
+Definition of forfeiture event
+
+Failure to market
+
+(aa) the earlier of the date that is— (AA) 75 days after the date on which the approval of the application of the first applicant is made effective under subparagraph (B)(iii); or (BB) 30 months after the date of submission of the application of the first applicant; or
+
+(bb) with respect to the first applicant or any other applicant (which other applicant has received tentative approval), the date that is 75 days after the date as of which, as to each of the patents with respect to which the first applicant submitted and lawfully maintained a certification qualifying the first applicant for the 180-day exclusivity period under subparagraph (B)(iv), at least 1 of the following has occurred: (AA) In an infringement action brought against that applicant with respect to the patent or in a declaratory judgment action brought by that applicant with respect to the patent, a court enters a final decision from which no appeal (other than a petition to the Supreme Court for a writ of certiorari) has been or can be taken that the patent is invalid or not infringed. (BB) In an infringement action or a declaratory judgment action described in subitem (AA), a court signs a settlement order or consent decree that enters a final judgment that includes a finding that the patent is invalid or not infringed. (CC) The patent information submitted under subsection (b) or (c) is withdrawn by the holder of the application approved under subsection (b).
+
+Withdrawal of application
+
+Amendment of certification
+
+Failure to obtain tentative approval
+
+Agreement with another applicant, the listed drug application holder, or a patent owner
+
+Expiration of all patents
+
+Forfeiture
+
+Subsequent applicant
+
+Special forfeiture rule for competitive generic therapy
+
+(aa) With respect to such an application submitted after December 29, 2022 , the evaluation shall be made with respect to a listed drug relied upon in the application pursuant to subsection (b)(2) that is a pharmaceutical equivalent (as defined in section 314.3 of title 21, Code of Federal Regulations (or any successor regulations)) to the drug in the application pursuant to subsection (b)(2) at the time of approval of such application or not later than 180 days after the date of such approval, provided that the request for such an evaluation is made in the original application (or in a resubmission to a complete response letter), and all necessary data and information are submitted in the original application (or in a resubmission in response to a complete response letter) for the therapeutic equivalence evaluation, including information to demonstrate bioequivalence, in a form and manner prescribed by the Secretary.
+
+(bb) With respect to such an application approved prior to or on December 29, 2022 , the evaluation shall be made not later than 180 days after receipt of a request for a therapeutic equivalence evaluation submitted as part of a supplement to such application; or with respect to an application that was submitted prior to December 29, 2022 , but not approved as of December 29, 2022 , the evaluation shall be made not later than 180 days after the date of approval of such application if a request for such evaluation is submitted as an amendment to the application, provided that— (AA) such request for a therapeutic equivalence evaluation is being sought with respect to a listed drug relied upon in the application, and the relied upon listed drug is in the prescription drug product section of the list under this paragraph and is a pharmaceutical equivalent (as defined in section 314.3 of title 21, Code of Federal Regulations (or any successor regulations)) to the drug for which a therapeutic equivalence evaluation is sought; and (BB) the amendment or supplement, as applicable, containing such request, or the relevant application, includes all necessary data and information for the therapeutic equivalence evaluation, including information to demonstrate bioequivalence, in a form and manner prescribed by the Secretary.
+
+Active postmarket risk identification.—
+
+Definition
+
+Development of postmarket risk identification and analysis methods
+
+Establishment of the postmarket risk identification and analysis system.—
+
+In general
+
+(aa) Federal health-related electronic data (such as data from the Medicare program and the health systems of the Department of Veterans Affairs);
+
+(bb) private sector health-related electronic data (such as pharmaceutical purchase data and health insurance claims data); and
+
+(cc) other data as the Secretary deems necessary to create a robust system to identify adverse events and potential drug safety signals;
+
+Timeliness of reporting
+
+Private sector resources
+
+Complementary approaches
+
+Authority for contracts
+
+Advanced analysis of drug safety data.—
+
+Purpose
+
+Privacy
+
+Public process for priority questions
+
+Procedures for the development of drug safety collaborations.—
+
+In general
+
+(aa) unresolved safety questions for drugs or classes of drugs; and
+
+(bb) for a newly-approved drugs, 2 2 So in original. Probably should be “drug,”. safety signals from clinical trials used to approve the drug and other preapproval trials; rare, serious drug side effects; and the safety of use in domestic populations not included, or underrepresented, in the trials used to approve the drug (such as older people, people with comorbidities, pregnant women, or children);
+
+Request for specific methodology
+
+Use of analyses
+
+Qualified entities.—
+
+In general
+
+Qualification
+
+Contract requirements
+
+Ensuring privacy
+
+Component of another organization
+
+Termination or nonrenewal
+
+Confidentiality and privacy protections
+
+Disposition of data
+
+Competitive procedures
+
+Review of contract in the event of a merger or acquisition
+
+Coordination
+
+Action Package for Approval.—
+
+Action package
+
+Immediate publication of summary review
+
+Contents
+
+Review
+
+Confidential information
+
+(aa) necessary for the approval of the application under subsections (c) and (d); and
+
+(bb) conducted or sponsored by the applicant; and
+
+In general
+
+Notice of opinion that patent is invalid or will not be infringed
+
+Effective date of approval
+
+In general
+
+Collusive agreements
+
+Decision of a court when the 180-day exclusivity period has not been triggered
+
+In general
+
+Process
+
+“Not later than 1 year after the date of enactment of this Act [ Dec. 29, 2022 ], the Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) shall issue draft guidance, or revise existing guidance, to address recommendations for sponsors of applications submitted under section 505 of the Federal Food, Drug, and Cosmetic Act ( 21 U.S.C. 355 ) or section 351 of the Public Health Service Act ( 42 U.S.C. 262 ) regarding—
+
+Draft Guidance
+
+Final Guidance
+
+Workshop
+
+In General
+
+Issuance
+
+In General
+
+Confidentiality
+
+Guidance
+
+Report to Congress
+
+Information Disclosure
+
+Public Meetings
+
+Guidance
+
+Definitions
+
+“Not later than 120 days after the end of each fiscal year, the Secretary of Health and Human Services shall post on the website of the Food and Drug Administration information related to inspections of facilities necessary for approval of a drug under subsection (c) or (j) of section 505 of the Federal Food, Drug, and Cosmetic Act ( 21 U.S.C. 355 ) or approval of a device under section 515 of such Act ( 21 U.S.C. 360e ) that were conducted during the previous fiscal year. Such information shall include the following:
+
+Proposals for Use of Novel Clinical Trial Designs for Drugs and Biological Products
+
+Guidance Addressing Use of Novel Clinical Trial Designs.—
+
+In general
+
+Contents
+
+Public meeting
+
+Timing
+
+New drug application.—
+
+In general
+
+Public health exemption
+
+Pediatric opioid labeling
+
+Sunset
+
+Draft Guidance
+
+Final Guidance
+
+Extension.—
+
+In general
+
+Conforming amendment
+
+Period for Obtaining Tentative Approval of Certain Applications
+
+Definitions
+
+Assistant attorney general
+
+Biosimilar biological product
+
+Biosimilar biological product applicant
+
+Biosimilar biological product application
+
+Brand name drug
+
+Brand name drug company
+
+Commission
+
+Generic drug
+
+Generic drug applicant
+
+Listed drug
+
+Reference product
+
+Agreement With Brand Name Drug Company.—
+
+Requirement
+
+Subject matter of agreement
+
+Agreement With Another Generic Drug Applicant or Biosimilar Biological Product Applicant.—
+
+Requirement.—
+
+Generic drugs
+
+Biosimilar biological products
+
+Subject matter of agreement
+
+Filing.—
+
+Agreement
+
+Other agreements
+
+Description
+
+Civil Penalty
+
+Compliance and Equitable Relief
+
+Procedures and requirements.—
+
+In general
+
+Considerations and consultation
+
+Submission of new drug applications and abbreviated new drug applications.—
+
+In general
+
+Exception
+
+Requirements.—
+
+Regulations.—
+
+Proposed regulations
+
+Final regulations
+
+Special rule
+
+Definition
+
+In general
+
+Exception
+
+Publication
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 505, [52 Stat. 1052](https://www.govinfo.gov/link/statute/52/1052); [Pub. L. 86–507, § 1(18)](https://www.govinfo.gov/link/plaw/86/public/507), June 11, 1960, [74 Stat. 201](https://www.govinfo.gov/link/statute/74/201); [Pub. L. 87–781, title I](https://www.govinfo.gov/link/plaw/87/public/781), §§ 102(b)–(d), 103(a), (b), 104(a)–(d)(2), Oct. 10, 1962, [76 Stat. 781–783](https://www.govinfo.gov/link/statute/76/781), 784, 785; [Pub. L. 92–387, § 4(d)](https://www.govinfo.gov/link/plaw/92/public/387), Aug. 16, 1972, [86 Stat. 562](https://www.govinfo.gov/link/statute/86/562); [Pub. L. 98–417, title I](https://www.govinfo.gov/link/plaw/98/public/417), §§ 101, 102(a)–(b)(5), 103, 104, Sept. 24, 1984, [98 Stat. 1585](https://www.govinfo.gov/link/statute/98/1585), 1592, 1593, 1597; [Pub. L. 102–282, § 5](https://www.govinfo.gov/link/plaw/102/public/282), May 13, 1992, [106 Stat. 161](https://www.govinfo.gov/link/statute/106/161); [Pub. L. 103–80, § 3(n)](https://www.govinfo.gov/link/plaw/103/public/80), Aug. 13, 1993, [107 Stat. 777](https://www.govinfo.gov/link/statute/107/777); [Pub. L. 105–115, title I](https://www.govinfo.gov/link/plaw/105/public/115), §§ 115, 117, 119, 120, 124(a), Nov. 21, 1997, [111 Stat. 2313](https://www.govinfo.gov/link/statute/111/2313), 2315, 2316, 2318, 2324; [Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(11)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–584; [Pub. L. 107–109, § 15(c)(1)](https://www.govinfo.gov/link/plaw/107/public/109), Jan. 4, 2002, [115 Stat. 1420](https://www.govinfo.gov/link/statute/115/1420); [Pub. L. 108–155, § 2(b)(1)](https://www.govinfo.gov/link/plaw/108/public/155), Dec. 3, 2003, [117 Stat. 1941](https://www.govinfo.gov/link/statute/117/1941); [Pub. L. 108–173, title XI](https://www.govinfo.gov/link/plaw/108/public/173), §§ 1101(a), (b), 1102(a), 1103(a), Dec. 8, 2003, [117 Stat. 2448](https://www.govinfo.gov/link/statute/117/2448), 2452, 2457, 2460; [Pub. L. 110–85, title VII, § 701(b)](https://www.govinfo.gov/link/plaw/110/public/85), title VIII, § 801(b)(3)(A), (B), title IX, §§ 901(a), 903, 905(a), 914(a), 915, 916, 918, 920, 921, title XI, § 1113, Sept. 27, 2007, [121 Stat. 903](https://www.govinfo.gov/link/statute/121/903), 921, 922, 943, 944, 953, 957, 958, 960–962, 976; [Pub. L. 110–316, title III, § 301](https://www.govinfo.gov/link/plaw/110/public/316), Aug. 14, 2008, [122 Stat. 3524](https://www.govinfo.gov/link/statute/122/3524); [Pub. L. 110–379, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/379), Oct. 8, 2008, [122 Stat. 4076](https://www.govinfo.gov/link/statute/122/4076); [Pub. L. 111–31, div. A, title I, § 103(e)](https://www.govinfo.gov/link/plaw/111/public/31), June 22, 2009, [123 Stat. 1837](https://www.govinfo.gov/link/statute/123/1837); [Pub. L. 111–148, title VII, § 7002(d)(1)](https://www.govinfo.gov/link/plaw/111/public/148), title X, § 10609, Mar. 23, 2010, [124 Stat. 816](https://www.govinfo.gov/link/statute/124/816), 1014; [Pub. L. 112–144, title IX, § 905](https://www.govinfo.gov/link/plaw/112/public/144), title XI, §§ 1101, 1134(a), 1135, July 9, 2012, [126 Stat. 1092](https://www.govinfo.gov/link/statute/126/1092), 1108, 1123; [Pub. L. 113–5, title III, § 301](https://www.govinfo.gov/link/plaw/113/public/5), Mar. 13, 2013, [127 Stat. 179](https://www.govinfo.gov/link/statute/127/179); [Pub. L. 114–89, § 2(a)(1)](https://www.govinfo.gov/link/plaw/114/public/89), Nov. 25, 2015, [129 Stat. 698](https://www.govinfo.gov/link/statute/129/698); [Pub. L. 114–255, div. A, title III](https://www.govinfo.gov/link/plaw/114/public/255), §§ 3024(b), 3031(a), 3075(a), (b), 3101(a)(2)(B), 3102(1), Dec. 13, 2016, [130 Stat. 1099](https://www.govinfo.gov/link/statute/130/1099), 1138, 1152, 1156; [Pub. L. 115–52, title VI, § 601](https://www.govinfo.gov/link/plaw/115/public/52), title VII, § 706(b), title VIII, §§ 801, 802, 808, title IX, § 901(a), Aug. 18, 2017, [131 Stat. 1048](https://www.govinfo.gov/link/statute/131/1048), 1059, 1068, 1069, 1074, 1076; [Pub. L. 115–271, title III, § 3041(b)](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 3942](https://www.govinfo.gov/link/statute/132/3942); [Pub. L. 116–290, § 2(a)](https://www.govinfo.gov/link/plaw/116/public/290) –(d)(1), (g), Jan. 5, 2021, [134 Stat. 4889–4892](https://www.govinfo.gov/link/statute/134/4889); [Pub. L. 117–9, § 1(a)(1)](https://www.govinfo.gov/link/plaw/117/public/9), (b)(1), Apr. 23, 2021, [135 Stat. 256](https://www.govinfo.gov/link/statute/135/256), 258; [Pub. L. 117–180, div. F, title V, § 5004](https://www.govinfo.gov/link/plaw/117/public/180), Sept. 30, 2022, [136 Stat. 2167](https://www.govinfo.gov/link/statute/136/2167); [Pub. L. 117–229, div. C, title III, § 305](https://www.govinfo.gov/link/plaw/117/public/229), Dec. 16, 2022, [136 Stat. 2312](https://www.govinfo.gov/link/statute/136/2312); [Pub. L. 117–328, div. FF, title III](https://www.govinfo.gov/link/plaw/117/public/328), §§ 3105, 3209(a), 3222, 3224, 3601(a), Dec. 29, 2022, [136 Stat. 5807](https://www.govinfo.gov/link/statute/136/5807), 5821, 5829, 5831, 5860; [Pub. L. 119–37, div. F, title V, § 6507(a)](https://www.govinfo.gov/link/plaw/119/public/37), Nov. 12, 2025, [139 Stat. 645](https://www.govinfo.gov/link/statute/139/645); [Pub. L. 119–75, div. J, title VII, § 6703(a)](https://www.govinfo.gov/link/plaw/119/public/75), Feb. 3, 2026, [140 Stat. 737](https://www.govinfo.gov/link/statute/140/737).)*

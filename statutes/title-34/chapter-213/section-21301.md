@@ -3,9 +3,10 @@ title: "Section 21301 - Definitions"
 usc_title: 34
 usc_section: "21301"
 chapter: 213
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 21301"
-generated_at: "2026-03-30T02:55:33.303Z"
+generated_at: "2026-11-23T20:26:50.618Z"
+status: "active"
 ---
 
 # § 21301. Definitions
@@ -18,3 +19,7 @@ In this chapter:
   - **(2)**
     - **(A)** The term “termination” means, when used with respect to parental rights, a complete and final termination of the parent’s right to custody of, guardianship of, visitation with, access to, and inheritance from a child.
     - **(B)** Nothing in this paragraph shall be construed to require a State, in order to receive an increase in the amount provided to the State under the covered formula grants under this chapter, to have in place a law that terminates any obligation of a person who fathered a child through rape to support the child.
+
+## Source Credit
+
+*([Pub. L. 114–22, title IV, § 402](https://www.govinfo.gov/link/plaw/114/public/22), May 29, 2015, [129 Stat. 256](https://www.govinfo.gov/link/statute/129/256).)*

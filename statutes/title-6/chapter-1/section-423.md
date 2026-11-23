@@ -3,9 +3,10 @@ title: "Section 423 - Increased simplified acquisition threshold for procurement
 usc_title: 6
 usc_section: "423"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 423"
-generated_at: "2026-03-30T02:53:09.463Z"
+generated_at: "2026-11-23T20:25:34.737Z"
+status: "active"
 ---
 
 # § 423. Increased simplified acquisition threshold for procurements in support of humanitarian or peacekeeping operations or contingency operations
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:09.463Z"
   - **(2)** Section 153 of title 41 .
   - **(3)** Section 3015 of title 10 .
 - **(c)** For a procurement carried out pursuant to subsection (a), section 644(j) of title 15 shall be applied as if the maximum anticipated value identified therein is equal to the amounts referred to in subsection (a).
+
+## Source Credit
+
+*([Pub. L. 107–296, title VIII, § 853](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2235](https://www.govinfo.gov/link/statute/116/2235); [Pub. L. 117–81, div. A, title XVII, § 1702(c)(2)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2155](https://www.govinfo.gov/link/statute/135/2155).)*

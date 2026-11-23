@@ -3,9 +3,10 @@ title: "Section 4182 - Exemptions"
 usc_title: 26
 usc_section: "4182"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 4182"
-generated_at: "2026-03-30T02:55:27.799Z"
+generated_at: "2026-11-23T20:26:46.293Z"
+status: "active"
 ---
 
 # § 4182. Exemptions
@@ -16,3 +17,11 @@ generated_at: "2026-03-30T02:55:27.799Z"
   - **(1)** The tax imposed by section 4181 shall not apply to any pistol, revolver, or firearm described in such section if manufactured, produced, or imported by a person who manufactures, produces, and imports less than an aggregate of 50 of such articles during the calendar year.
   - **(2)** All persons treated as a single employer for purposes of subsection (a) or (b) of section 52 shall be treated as one person for purposes of paragraph (1).
 - **(d)** Notwithstanding the provisions of sections 922(b)(5) and 923(g) of title 18, United States Code, no person holding a Federal license under chapter 44 of title 18, United States Code, shall be required to record the name, address, or other information about the purchaser of shotgun ammunition, ammunition suitable for use only in rifles generally available in commerce, or component parts for the aforesaid types of ammunition.
+
+In general
+
+No inference
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 490; [Pub. L. 91–128, § 5](https://www.govinfo.gov/link/plaw/91/public/128), Nov. 26, 1969, [83 Stat. 269](https://www.govinfo.gov/link/statute/83/269); [Pub. L. 109–59, title XI, § 11131(a)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1959](https://www.govinfo.gov/link/statute/119/1959); [Pub. L. 119–21, title VII, § 70436(c)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 247](https://www.govinfo.gov/link/statute/139/247).)*

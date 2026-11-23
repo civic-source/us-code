@@ -3,9 +3,10 @@ title: "Section 457A - Nonqualified deferred compensation from certain tax indif
 usc_title: 26
 usc_section: "457A"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 457A"
-generated_at: "2026-03-30T02:55:27.703Z"
+generated_at: "2026-11-23T20:26:45.752Z"
+status: "active"
 ---
 
 # § 457A. Nonqualified deferred compensation from certain tax indifferent parties
@@ -44,3 +45,17 @@ generated_at: "2026-03-30T02:55:27.703Z"
   - **(4)** In the case of a foreign corporation with income which is taxable under section 882, this section shall not apply to compensation which, had such compensation been paid in cash on the date that such compensation ceased to be subject to a substantial risk of forfeiture, would have been deductible by such foreign corporation against such income.
   - **(5)** Rules similar to the rules of paragraphs (5) and (6) of section 409A(d) shall apply.
 - **(e)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations disregarding a substantial risk of forfeiture in cases where necessary to carry out the purposes of this section.
+
+In general
+
+Application to existing deferrals
+
+Accelerated payments
+
+Certain back-to-back arrangements
+
+Accelerated payment not treated as material modification
+
+## Source Credit
+
+*(Added [Pub. L. 110–343, div. C, title VIII, § 801(a)](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3929](https://www.govinfo.gov/link/statute/122/3929); amended [Pub. L. 115–141, div. U, title IV, § 401(a)(113)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1189](https://www.govinfo.gov/link/statute/132/1189).)*

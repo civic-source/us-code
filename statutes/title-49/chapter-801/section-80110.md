@@ -3,9 +3,10 @@ title: "Section 80110 - Duty to deliver goods"
 usc_title: 49
 usc_section: "80110"
 chapter: 801
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 80110"
-generated_at: "2026-03-30T02:56:19.418Z"
+generated_at: "2026-11-23T20:27:35.443Z"
+status: "active"
 ---
 
 # § 80110. Duty to deliver goods
@@ -28,3 +29,47 @@ generated_at: "2026-03-30T02:56:19.418Z"
   - **(1)** bring a civil action to interplead all known claimants to the goods; or
   - **(2)** require those claimants to interplead as a defense in an action brought against the carrier for nondelivery.
 - **(f)** Except as provided in subsections (b), (d), and (e) of this section, title or a right of a third person is not a defense to an action brought by the consignee of a nonnegotiable bill of lading or by the holder of a negotiable bill against the common carrier for failure to deliver the goods on demand unless enforced by legal process.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 80110(a) | 49 App.:88. | Aug. 29, 1916, ch. 415 , §§ 8, 9, 16–19, 39 Stat. 539 , 541. |
+| 80110(b) | 49 App.:89. |  |
+| 80110(c) | 49 App.:96. |  |
+| 80110(d) | 49 App.:98. |  |
+| 80110(e) | 49 App.:97. |  |
+| 80110(f) | 49 App.:99. |  |
+
+
+General Rules
+
+Persons to Whom Goods May Be Delivered
+
+Common Carrier Claims of Title and Possession
+
+Adverse Claims
+
+Interpleader
+
+Third Person Claims Not a Defense
+
+Historical and Revision Notes
+
+80110(a)
+
+Aug. 29, 1916, ch. 415
+
+39 Stat. 539
+
+80110(b)
+
+80110(c)
+
+80110(d)
+
+80110(e)
+
+80110(f)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1349](https://www.govinfo.gov/link/statute/108/1349).)*

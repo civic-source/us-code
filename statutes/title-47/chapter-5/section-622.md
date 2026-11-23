@@ -3,9 +3,10 @@ title: "Section 622 - Optional electronic labeling of communications equipment"
 usc_title: 47
 usc_section: "622"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 622"
-generated_at: "2026-03-30T02:56:24.525Z"
+generated_at: "2026-11-23T20:27:28.948Z"
+status: "active"
 ---
 
 # § 622. Optional electronic labeling of communications equipment
@@ -16,3 +17,9 @@ generated_at: "2026-03-30T02:56:24.525Z"
     - **(A)** is required under regulations of the Commission to be authorized by the Commission before the equipment or device may be marketed or sold within the United States; and
     - **(B)** has the capability to digitally display required labeling and regulatory information.
 - **(b)** Not later than 9 months after November 26, 2014 , the Commission shall promulgate regulations or take other appropriate action, as necessary, to allow manufacturers of radiofrequency devices with display the option to use electronic labeling for the equipment in place of affixing physical labels to the equipment.
+
+“Congress finds the following:
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title VII, § 720, as added [Pub. L. 113–197, § 3](https://www.govinfo.gov/link/plaw/113/public/197), Nov. 26, 2014, [128 Stat. 2055](https://www.govinfo.gov/link/statute/128/2055).)*

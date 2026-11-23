@@ -3,9 +3,10 @@ title: "Section 2501 - Imposition of tax"
 usc_title: 26
 usc_section: "2501"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 2501"
-generated_at: "2026-03-30T02:55:27.784Z"
+generated_at: "2026-11-23T20:26:46.169Z"
+status: "active"
 ---
 
 # § 2501. Imposition of tax
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:55:27.784Z"
 - **(d)**
   - **(1)** For increase in basis of property acquired by gift for gift tax paid, see section 1015(d).
   - **(2)** For exclusion of transfers of property outside the United States by a nonresident who is not a citizen of the United States, see section 2511(a).
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 403; [Pub. L. 85–866, title I](https://www.govinfo.gov/link/plaw/85/public/866), §§ 43(b), 102(b), Sept. 2, 1958, [72 Stat. 1641](https://www.govinfo.gov/link/statute/72/1641), 1674; [Pub. L. 86–779, § 4(d)](https://www.govinfo.gov/link/plaw/86/public/779), Sept. 14, 1960, [74 Stat. 1000](https://www.govinfo.gov/link/statute/74/1000); [Pub. L. 89–809, title I, § 109(a)](https://www.govinfo.gov/link/plaw/89/public/809), Nov. 13, 1966, [80 Stat. 1574](https://www.govinfo.gov/link/statute/80/1574); [Pub. L. 91–614, title I, § 102(a)(1)](https://www.govinfo.gov/link/plaw/91/public/614), Dec. 31, 1970, [84 Stat. 1838](https://www.govinfo.gov/link/statute/84/1838); [Pub. L. 93–625, § 14(a)](https://www.govinfo.gov/link/plaw/93/public/625), Jan. 3, 1975, [88 Stat. 2121](https://www.govinfo.gov/link/statute/88/2121); [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1902(a)(10), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1805](https://www.govinfo.gov/link/statute/90/1805), 1834; [Pub. L. 97–34, title IV, § 442(a)(1)](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 320](https://www.govinfo.gov/link/statute/95/320); [Pub. L. 100–647, title III, § 3031(a)(2)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3635](https://www.govinfo.gov/link/statute/102/3635); [Pub. L. 101–508, title XI, § 11601(b)(2)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–490](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 104–191, title V, § 511(e)(2)](https://www.govinfo.gov/link/plaw/104/public/191), (f)(2)(B), Aug. 21, 1996, [110 Stat. 2098](https://www.govinfo.gov/link/statute/110/2098), 2100; [Pub. L. 105–34, title XVI, § 1602(g)(5)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1095](https://www.govinfo.gov/link/statute/111/1095); [Pub. L. 108–357, title VIII, § 804(d)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1571](https://www.govinfo.gov/link/statute/118/1571); [Pub. L. 114–113, div. Q, title IV, § 408(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3120](https://www.govinfo.gov/link/statute/129/3120).)*

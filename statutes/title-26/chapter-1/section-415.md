@@ -3,9 +3,10 @@ title: "Section 415 - Limitations on benefits and contribution under qualified p
 usc_title: 26
 usc_section: "415"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 415"
-generated_at: "2026-03-30T02:55:27.687Z"
+generated_at: "2026-11-23T20:26:45.685Z"
+status: "active"
 ---
 
 # § 415. Limitations on benefits and contribution under qualified plans
@@ -220,3 +221,97 @@ generated_at: "2026-03-30T02:55:27.687Z"
     - **(D)** In the case of a trustee-to-trustee transfer to which section 403(b)(13)(A) or 457(e)(17)(A) applies (without regard to whether the transfer is made between plans maintained by the same employer)—
       - **(i)** the limitations of subparagraph (B) shall not apply in determining whether the transfer is for the purchase of permissive service credit, and
       - **(ii)** the distribution rules applicable under this title to the defined benefit governmental plan to which any amounts are so transferred shall apply to such amounts and any benefits attributable to such amounts.
+
+In general
+
+Subsection
+
+In general
+
+Defined benefit plans
+
+Special rule
+
+In general
+
+Exclusion allowance
+
+In general
+
+Transition rule.—
+
+In general
+
+Eligible participant
+
+In general
+
+Treatment for years beginning before january 1, 1995
+
+In general
+
+Excess distributions
+
+In general
+
+Election
+
+In general
+
+Collective bargaining agreements
+
+Right to higher accrued defined benefit preserved.—
+
+In general
+
+Current accrued benefit defined.—
+
+In general
+
+Special rule
+
+Transition rule where the sum of defined contribution and defined benefit plan fractions exceeds 1.0
+
+Effective date for subsection
+
+In general
+
+Collective bargaining agreements
+
+Special rule for amendment made by subsection
+
+In general.—
+
+New plans
+
+Existing plans.—
+
+Plan requirements
+
+Amendments related to cost-of-living adjustments.—
+
+In general
+
+Adjustment procedures
+
+Transition rule where the sum of defined contribution and defined benefit plan fractions exceeds 1.0
+
+Right to higher accrued defined benefit preserved.—
+
+In general
+
+Current accrued benefit defined.—
+
+In general
+
+Special rule
+
+Special rule for collective bargaining agreements
+
+General rule
+
+Transition rule for defined benefit plans
+
+## Source Credit
+
+*(Added [Pub. L. 93–406, title II, § 2004(a)(2)](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 979](https://www.govinfo.gov/link/statute/88/979); amended [Pub. L. 94–455, title VIII, § 803(b)(4)](https://www.govinfo.gov/link/plaw/94/public/455), (f), title XV, §§ 1501(b)(3), 1502(a)(1), 1511(a), title XIX, §§ 1901(a)(65), (b)(8)(D), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1584](https://www.govinfo.gov/link/statute/90/1584), 1589, 1735–1737, 1741, 1775, 1794, 1834; [Pub. L. 95–600, title I](https://www.govinfo.gov/link/plaw/95/public/600), §§ 141(f)(7), 152(g), 153(a), Nov. 6, 1978, [92 Stat. 2795](https://www.govinfo.gov/link/statute/92/2795), 2800; [Pub. L. 96–222, title I, § 101(a)(7)(L)(i)(VII)](https://www.govinfo.gov/link/plaw/96/public/222), (iv)(I), (10)(I), (J)(iii), (11), Apr. 1, 1980, [94 Stat. 199](https://www.govinfo.gov/link/statute/94/199), 200, 203, 204; [Pub. L. 96–605, title II, § 222(a)](https://www.govinfo.gov/link/plaw/96/public/605), Dec. 28, 1980, [94 Stat. 3528](https://www.govinfo.gov/link/statute/94/3528); [Pub. L. 97–34, title III](https://www.govinfo.gov/link/plaw/97/public/34), §§ 311(g)(4), (h)(3), 333(b)(1), Aug. 13, 1981, [95 Stat. 281](https://www.govinfo.gov/link/statute/95/281), 282, 297; [Pub. L. 97–248, title II](https://www.govinfo.gov/link/plaw/97/public/248), §§ 235(a)–(e), 238(d)(5), 251(c)(1), (2), 253(a), Sept. 3, 1982, [96 Stat. 505–507](https://www.govinfo.gov/link/statute/96/505), 513, 530, 532; [Pub. L. 98–21, title I, § 122(c)(5)](https://www.govinfo.gov/link/plaw/98/public/21), Apr. 20, 1983, [97 Stat. 87](https://www.govinfo.gov/link/statute/97/87); [Pub. L. 98–369, div. A, title I, § 15](https://www.govinfo.gov/link/plaw/98/public/369), title IV, § 491(d)(28)–(32), (e)(6), title (V), § 528(a), title VII, § 713(a)(1), (3), (d)(4)(B), (7), (k), July 18, 1984, [98 Stat. 505](https://www.govinfo.gov/link/statute/98/505), 850, 853, 876, 955, 956, 958, 960; [Pub. L. 99–514, title XI](https://www.govinfo.gov/link/plaw/99/public/514), §§ 1106(a)–(c)(1), (e)–(g), 1108(g)(5), 1114(b)(12), 1174(d)(1), (2), title XVIII, §§ 1847(b)(4), 1852(h)(2), (3), 1875(c)(9), (11), 1898(b)(15)(C), 1899A(13), Oct. 22, 1986, [100 Stat. 2420](https://www.govinfo.gov/link/statute/100/2420), 2422, 2424, 2425, 2434, 2451, 2518, 2856, 2869, 2895, 2951, 2958; [Pub. L. 100–647, title I](https://www.govinfo.gov/link/plaw/100/public/647), §§ 1011(d)(2), (3), (6), (7), 1018(t)(3)(B), (8)(D), title VI, §§ 6054(a), 6059(a), Nov. 10, 1988, [102 Stat. 3459](https://www.govinfo.gov/link/statute/102/3459), 3460, 3588, 3589, 3696, 3699; [Pub. L. 101–239, title VII, § 7304(c)(1)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2353](https://www.govinfo.gov/link/statute/103/2353); [Pub. L. 102–318, title V, § 521(b)(23)](https://www.govinfo.gov/link/plaw/102/public/318) –(25), July 3, 1992, [106 Stat. 311](https://www.govinfo.gov/link/statute/106/311), 312; [Pub. L. 103–465, title VII](https://www.govinfo.gov/link/plaw/103/public/465), §§ 732(b), 767(b), Dec. 8, 1994, [108 Stat. 5004](https://www.govinfo.gov/link/statute/108/5004), 5038; [Pub. L. 104–188, title I](https://www.govinfo.gov/link/plaw/104/public/188), §§ 1434(a), 1444(a), (b)(1), (c), (d), 1446(a), 1449(b), 1452(a), (c)(1)–(6), 1704(t)(75), Aug. 20, 1996, [110 Stat. 1807](https://www.govinfo.gov/link/statute/110/1807), 1809–1811, 1814, 1816, 1891; [Pub. L. 105–34, title XV](https://www.govinfo.gov/link/plaw/105/public/34), §§ 1526(a), (b), 1527(a), 1530(c)(3), (4), Aug. 5, 1997, [111 Stat. 1072–1074](https://www.govinfo.gov/link/statute/111/1072), 1078; [Pub. L. 106–554, § 1(a)(7) [title III, § 314(e)(1)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–643; [Pub. L. 107–16, title VI](https://www.govinfo.gov/link/plaw/107/public/16), §§ 611(a), (b), (h), 632(a)(1), (3)(C)–(F), (b)(1), 641(e)(9), (10), 654(a), (b), June 7, 2001, [115 Stat. 96](https://www.govinfo.gov/link/statute/115/96), 97, 100, 113–115, 121, 130, 131; [Pub. L. 107–147, title IV, § 411(p)(4)](https://www.govinfo.gov/link/plaw/107/public/147), Mar. 9, 2002, [116 Stat. 50](https://www.govinfo.gov/link/statute/116/50); [Pub. L. 108–218, title I, § 101(b)(4)](https://www.govinfo.gov/link/plaw/108/public/218), Apr. 10, 2004, [118 Stat. 598](https://www.govinfo.gov/link/statute/118/598); [Pub. L. 108–311, title IV](https://www.govinfo.gov/link/plaw/108/public/311), §§ 404(b)(2), 408(a)(17), Oct. 4, 2004, [118 Stat. 1188](https://www.govinfo.gov/link/statute/118/1188), 1192; [Pub. L. 109–135, title IV](https://www.govinfo.gov/link/plaw/109/public/135), §§ 407(b), 412(y), (z), Dec. 21, 2005, [119 Stat. 2635](https://www.govinfo.gov/link/statute/119/2635), 2638; [Pub. L. 109–280, title III, § 303(a)](https://www.govinfo.gov/link/plaw/109/public/280), title VIII, §§ 821(a)–(c), 832(a), 867(a), title IX, § 906(b)(1)(A), (B), Aug. 17, 2006, [120 Stat. 921](https://www.govinfo.gov/link/statute/120/921), 997, 1003, 1025, 1051, 1052; [Pub. L. 110–458, title I](https://www.govinfo.gov/link/plaw/110/public/458), §§ 103(b)(2)(B)(i), 108(g), 109(d)(1), 122(a), Dec. 23, 2008, [122 Stat. 5103](https://www.govinfo.gov/link/statute/122/5103), 5109, 5112, 5114; [Pub. L. 115–141, div. U, title IV, § 401(b)(20)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1202](https://www.govinfo.gov/link/statute/132/1202); [Pub. L. 116–94, div. O, title I, § 116(b)(1)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3161](https://www.govinfo.gov/link/statute/133/3161); [Pub. L. 117–328, div. T, title I, § 119(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5302](https://www.govinfo.gov/link/statute/136/5302).)*

@@ -3,9 +3,10 @@ title: "Section 2074 - Production credit association capitalization"
 usc_title: 12
 usc_section: "2074"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 2074"
-generated_at: "2026-03-30T02:53:53.471Z"
+generated_at: "2026-11-23T20:25:59.227Z"
+status: "active"
 ---
 
 # § 2074. Production credit association capitalization
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:53.471Z"
   - **(1)** first, to the restoration of the impairment (if any) of capital; and
   - **(2)** second, to the establishment and maintenance of the surplus accounts, the minimum aggregate amount of which shall be prescribed by the Farm Credit Bank.
 - **(c)** When the bylaws of an association so provide and subject to the general directions of the Farm Credit Administration, available net earnings at the end of any fiscal year may be distributed on a patronage basis in stock, participation certificates, or in cash. Any part of the earnings of the fiscal year in excess of the operating expenses for such year held in the surplus account may be allocated to patrons on a patronage basis.
+
+## Source Credit
+
+*([Pub. L. 92–181, title II, § 2](https://www.govinfo.gov/link/plaw/92/public/181).3, as added [Pub. L. 100–233, title IV, § 401](https://www.govinfo.gov/link/plaw/100/public/233), Jan. 6, 1988, [101 Stat. 1632](https://www.govinfo.gov/link/statute/101/1632); amended [Pub. L. 102–552, title V, § 501](https://www.govinfo.gov/link/plaw/102/public/552), Oct. 28, 1992, [106 Stat. 4129](https://www.govinfo.gov/link/statute/106/4129).)*

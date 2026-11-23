@@ -3,9 +3,10 @@ title: "Section 2705 - Notice of environmental restoration activities"
 usc_title: 10
 usc_section: "2705"
 chapter: 160
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2705"
-generated_at: "2026-03-30T02:53:38.172Z"
+generated_at: "2026-11-23T20:25:51.684Z"
+status: "active"
 ---
 
 # § 2705. Notice of environmental restoration activities
@@ -56,3 +57,29 @@ generated_at: "2026-03-30T02:53:38.172Z"
 - **(g)** The Secretary shall, to the extent provided in appropriations Acts, make funds available for administrative expenses and technical assistance under this section using funds in the following accounts:
   - **(1)** In the case of a military installation not approved for closure pursuant to a base closure law, the environmental restoration account concerned under section 2703(a) of this title .
   - **(2)** In the case of an installation approved for closure pursuant to such a law, the Department of Defense Base Closure Account established under section 2906(a) of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510 ; 10 U.S.C. 2687 note).
+
+Expedited Notice
+
+Comment by EPA and State and Local Authorities.—
+
+Release notices
+
+Proposals for response actions
+
+Technical Review Committee
+
+Restoration Advisory Board
+
+Technical Assistance
+
+Involvement in Defense Environmental Restoration Program
+
+Funding
+
+“The Secretary of Defense shall amend the regulations required by section 2705(d)(2) of title 10 , United States Code, relating to the establishment, characteristics, composition, and funding of restoration advisory boards to ensure that each restoration advisory board complies with the following requirements:
+
+“Not later than 180 days after the date on which the Secretary of Defense announces a decision to establish restoration advisory boards, the Secretary shall—
+
+## Source Credit
+
+*(Added [Pub. L. 99–499, title II, § 211(a)(1)(B)](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1724](https://www.govinfo.gov/link/statute/100/1724); amended [Pub. L. 103–337, div. A, title III, § 326(a)](https://www.govinfo.gov/link/plaw/103/public/337) –(c), Oct. 5, 1994, [108 Stat. 2712](https://www.govinfo.gov/link/statute/108/2712), 2713; [Pub. L. 104–106, div. A, title III, § 324(a)](https://www.govinfo.gov/link/plaw/104/public/106) –(d)(1), (e), Feb. 10, 1996, [110 Stat. 252–254](https://www.govinfo.gov/link/statute/110/252); [Pub. L. 104–201, div. A, title III, § 322(c)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2479](https://www.govinfo.gov/link/statute/110/2479); [Pub. L. 108–136, div. A, title III, § 317(b)](https://www.govinfo.gov/link/plaw/108/public/136), title X, § 1043(c)(5), Nov. 24, 2003, [117 Stat. 1432](https://www.govinfo.gov/link/statute/117/1432), 1612; [Pub. L. 112–239, div. B, title XXVII, § 2711(c)(4)(C)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2144](https://www.govinfo.gov/link/statute/126/2144); [Pub. L. 117–286, § 4(a)(53)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4311](https://www.govinfo.gov/link/statute/136/4311); [Pub. L. 118–31, div. A, title III, § 313](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 215](https://www.govinfo.gov/link/statute/137/215).)*

@@ -3,9 +3,10 @@ title: "Section 2015c - Partnership program with institutions of higher educatio
 usc_title: 42
 usc_section: "2015c"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2015c"
-generated_at: "2026-03-30T02:56:11.145Z"
+generated_at: "2026-11-23T20:27:22.046Z"
+status: "active"
 ---
 
 # § 2015c. Partnership program with institutions of higher education
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.145Z"
 - **(b)** The Commission may establish and participate in activities relating to research, mentoring, instruction, and training with institutions of higher education, including Hispanic-serving institutions, historically Black colleges or universities, and Tribal colleges, to strengthen the capacity of the institutions—
   - **(1)** to educate and train students (including present or potential employees of the Commission); and
   - **(2)** to conduct research in the field of science, engineering, or law, or any other field that the Commission determines is important to the work of the Commission.
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 244, as added [Pub. L. 109–58, title VI, § 651(c)(4)(A)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 802](https://www.govinfo.gov/link/statute/119/802); amended [Pub. L. 110–315, title IX, § 941(k)(2)(L)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3467](https://www.govinfo.gov/link/statute/122/3467).)*

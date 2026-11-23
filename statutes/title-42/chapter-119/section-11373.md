@@ -3,9 +3,10 @@ title: "Section 11373 - Allocation and distribution of assistance"
 usc_title: 42
 usc_section: "11373"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11373"
-generated_at: "2026-03-30T02:56:11.398Z"
+generated_at: "2026-11-23T20:27:23.293Z"
+status: "active"
 ---
 
 # § 11373. Allocation and distribution of assistance
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.398Z"
   - **(2)** If a city or county eligible for a grant under subsection (a) fails to obtain approval of its comprehensive plan during the 90-day period following the date funds authorized by this part first become available for allocation during any fiscal year, the amount that the city or county would have received shall be available to the State in which the city or county is located if the State has obtained approval of its comprehensive plan. Any amounts that cannot be allocated to a State under the preceding sentence shall be reallocated to other States, counties, and cities that demonstrate extraordinary need or large numbers of homeless individuals, as determined by the Secretary.
   - **(3)** If a State fails to obtain approval of its comprehensive plan during the 90-day period following the date funds authorized by this part first become available for allocation during any fiscal year, the amount that the State would have received shall be reallocated to other States and to cities and counties as applicable, that demonstrate extraordinary need or large numbers of homeless individuals, as determined by the Secretary.
 - **(e)** In addition to the other allocations required in this section, the Secretary shall (for amounts appropriated after July 22, 1987 ) allocate assistance under this part to the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States, in accordance with an allocation formula established by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 100–77, title IV, § 414](https://www.govinfo.gov/link/plaw/100/public/77), formerly § 413, July 22, 1987, [101 Stat. 496](https://www.govinfo.gov/link/statute/101/496); [Pub. L. 100–628, title IV, § 421](https://www.govinfo.gov/link/plaw/100/public/628), Nov. 7, 1988, [102 Stat. 3231](https://www.govinfo.gov/link/statute/102/3231); [Pub. L. 101–625, title VIII, § 832(f)(3)](https://www.govinfo.gov/link/plaw/101/public/625) –(5), Nov. 28, 1990, [104 Stat. 4361](https://www.govinfo.gov/link/statute/104/4361); [Pub. L. 104–330, title V, § 506(a)(3)](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4044](https://www.govinfo.gov/link/statute/110/4044); renumbered § 414 and amended [Pub. L. 111–22, div. B, title II, § 1201(3)](https://www.govinfo.gov/link/plaw/111/public/22), (5), May 20, 2009, [123 Stat. 1678](https://www.govinfo.gov/link/statute/123/1678), 1679; [Pub. L. 114–94, div. G, title LXXIX, § 79002](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1792](https://www.govinfo.gov/link/statute/129/1792); [Pub. L. 114–201, title IV, § 402](https://www.govinfo.gov/link/plaw/114/public/201), July 29, 2016, [130 Stat. 808](https://www.govinfo.gov/link/statute/130/808).)*

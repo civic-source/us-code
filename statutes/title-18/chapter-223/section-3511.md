@@ -3,9 +3,10 @@ title: "Section 3511 - Judicial review of requests for information"
 usc_title: 18
 usc_section: "3511"
 chapter: 223
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 3511"
-generated_at: "2026-03-30T02:54:16.518Z"
+generated_at: "2026-11-23T20:26:08.729Z"
+status: "active"
 ---
 
 # § 3511. Judicial review of requests for information
@@ -29,3 +30,39 @@ generated_at: "2026-03-30T02:54:16.518Z"
 - **(c)** In the case of a failure to comply with a request for records, a report, or other information made to any person or entity under section 2709(b) of this title , section 626(a) or (b) or 627(a) of the Fair Credit Reporting Act, section 1114(a)(5)(A) of the Right to Financial Privacy Act, or section 802(a) of the National Security Act of 1947, the Attorney General may invoke the aid of any district court of the United States within the jurisdiction in which the investigation is carried on or the person or entity resides, carries on business, or may be found, to compel compliance with the request. The court may issue an order requiring the person or entity to comply with the request. Any failure to obey the order of the court may be punished by the court as contempt thereof. Any process under this section may be served in any judicial district in which the person or entity may be found.
 - **(d)** In all proceedings under this section, subject to any right to an open hearing in a contempt proceeding, the court must close any hearing to the extent necessary to prevent an unauthorized disclosure of a request for records, a report, or other information made to any person or entity under section 2709(b) of this title , section 626(a) or (b) or 627(a) of the Fair Credit Reporting Act, section 1114(a)(5)(A) of the Right to Financial Privacy Act, or section 802(a) of the National Security Act of 1947. Petitions, filings, records, orders, and subpoenas must also be kept under seal to the extent and as long as necessary to prevent the unauthorized disclosure of a request for records, a report, or other information made to any person or entity under section 2709(b) of this title , section 626(a) or (b) or 627(a) of the Fair Credit Reporting Act, section 1114(a)(5)(A) of the Right to Financial Privacy Act, or section 802(a) of the National Security Act of 1947.
 - **(e)** In all proceedings under this section, the court shall, upon request of the government, review ex parte and in camera any government submission or portions thereof, which may include classified information.
+
+Nondisclosure.—
+
+In general.—
+
+Notice
+
+Application
+
+Consideration
+
+Application contents
+
+Standard
+
+Existing Reports
+
+Enhanced Oversight of Fair Credit Reporting Act Counterterrorism National Security Letter
+
+Report on Requests for National Security Letters.—
+
+In general
+
+Content.—
+
+In general
+
+Exception
+
+Unclassified form
+
+National Security Letter Defined
+
+## Source Credit
+
+*(Added [Pub. L. 109–177, title I, § 115(2)](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 211](https://www.govinfo.gov/link/statute/120/211); amended [Pub. L. 114–23, title V, § 502(g)](https://www.govinfo.gov/link/plaw/114/public/23), June 2, 2015, [129 Stat. 288](https://www.govinfo.gov/link/statute/129/288).)*

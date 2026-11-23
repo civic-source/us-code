@@ -3,9 +3,10 @@ title: "Section 9222 - Ensuring the consistent enforcement of United Nations Sec
 usc_title: 22
 usc_section: "9222"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9222"
-generated_at: "2026-03-30T02:55:05.462Z"
+generated_at: "2026-11-23T20:26:32.760Z"
+status: "active"
 ---
 
 # § 9222. Ensuring the consistent enforcement of United Nations Security Council resolutions and financial restrictions on North Korea
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:55:05.462Z"
   - **(5)** to harness existing United States Government initiatives and assistance programs, as appropriate, to improve sanctions implementation and enforcement; and
   - **(6)** to increase outreach to the people of North Korea, and to support the engagement of independent, non-governmental journalistic, humanitarian, and other institutions in North Korea.
 - **(d)** Not later than 90 days after February 18, 2016 , and annually thereafter, the Secretary of State shall submit to the appropriate congressional committees a report that describes the actions undertaken to implement the strategy required by subsection (c).
+
+## Source Credit
+
+*([Pub. L. 114–122, title II, § 202](https://www.govinfo.gov/link/plaw/114/public/122), Feb. 18, 2016, [130 Stat. 104](https://www.govinfo.gov/link/statute/130/104).)*

@@ -3,9 +3,10 @@ title: "Section 15 - Protection of social security and medicare trust funds"
 usc_title: 42
 usc_section: "15"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 15"
-generated_at: "2026-03-30T02:56:10.918Z"
+generated_at: "2026-11-23T20:27:21.016Z"
+status: "active"
 ---
 
 # § 1320b–15. Protection of social security and medicare trust funds
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:10.918Z"
   - **(2)** the Federal Disability Insurance Trust Fund;
   - **(3)** the Federal Hospital Insurance Trust Fund; and
   - **(4)** the Federal Supplementary Medical Insurance Trust Fund.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XI, § 1145, as added [Pub. L. 104–121, title I, § 107(a)](https://www.govinfo.gov/link/plaw/104/public/121), Mar. 29, 1996, [110 Stat. 856](https://www.govinfo.gov/link/statute/110/856).)*

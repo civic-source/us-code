@@ -3,9 +3,10 @@ title: "Section 4109 - Judicial review and enforcement"
 usc_title: 22
 usc_section: "4109"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4109"
-generated_at: "2026-03-30T02:55:05.407Z"
+generated_at: "2026-11-23T20:26:32.519Z"
+status: "active"
 ---
 
 # § 4109. Judicial review and enforcement
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:05.407Z"
 - **(b)** The Board may petition the United States Court of Appeals for the District of Columbia for the enforcement of any order of the Board under this subchapter and for any appropriate temporary relief or restraining order.
 - **(c)** Subsection (c) of section 7123 of title 5 shall apply to judicial review and enforcement of actions by the Board in the same manner that it applies to judicial review and enforcement of actions of the Authority under chapter 71 of title 5.
 - **(d)** The Board may, upon issuance of a complaint as provided in section 4116 of this title charging that any person has engaged in or is engaging in an unfair labor practice, petition the United States District Court for the District of Columbia, for appropriate temporary relief (including a restraining order). Upon the filing of the petition, the court shall cause notice thereof to be served upon the person, and thereupon shall have jurisdiction to grant any temporary relief (including a temporary restraining order) it considers just and proper. A court shall not grant any temporary relief under this section if it would interfere with the ability of the Department to carry out its essential functions or if the Board fails to establish probable cause that an unfair labor practice is being committed.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 1009](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2133](https://www.govinfo.gov/link/statute/94/2133).)*

@@ -3,9 +3,10 @@ title: "Section 1666 - Correction of billing errors"
 usc_title: 15
 usc_section: "1666"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1666"
-generated_at: "2026-03-30T02:54:08.145Z"
+generated_at: "2026-11-23T20:26:04.063Z"
+status: "active"
 ---
 
 # § 1666. Correction of billing errors
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:08.145Z"
   - **(2)** the creditor indicates the payment of such amount is not required pending the creditor’s compliance with this section.
 - **(d)** Pursuant to regulations of the Bureau, a creditor operating an open end consumer credit plan may not, prior to the sending of the written explanation or clarification required under paragraph (B)(ii), restrict or close an account with respect to which the obligor has indicated pursuant to subsection (a) that he believes such account to contain a billing error solely because of the obligor’s failure to pay the amount indicated to be in error. Nothing in this subsection shall be deemed to prohibit a creditor from applying against the credit limit on the obligor’s account the amount indicated to be in error.
 - **(e)** Any creditor who fails to comply with the requirements of this section or section 1666a of this title forfeits any right to collect from the obligor the amount indicated by the obligor under paragraph (2) of subsection (a) of this section, and any finance charges thereon, except that the amount required to be forfeited under this subsection may not exceed $50.
+
+## Source Credit
+
+*([Pub. L. 90–321, title I, § 161](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 93–495, title III, § 306](https://www.govinfo.gov/link/plaw/93/public/495), Oct. 28, 1974, [88 Stat. 1512](https://www.govinfo.gov/link/statute/88/1512); amended [Pub. L. 96–221, title VI](https://www.govinfo.gov/link/plaw/96/public/221) §§ 613(g), 620, Mar. 31, 1980, [94 Stat. 177](https://www.govinfo.gov/link/statute/94/177), 184; [Pub. L. 111–203, title X](https://www.govinfo.gov/link/plaw/111/public/203), §§ 1087, 1100A(2), July 21, 2010, [124 Stat. 2086](https://www.govinfo.gov/link/statute/124/2086), 2107.)*

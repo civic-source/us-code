@@ -3,9 +3,10 @@ title: "Section 6505 - Telework Managing Officer"
 usc_title: 5
 usc_section: "6505"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 6505"
-generated_at: "2026-03-30T02:52:56.034Z"
+generated_at: "2026-11-23T20:25:32.046Z"
+status: "active"
 ---
 
 # § 6505. Telework Managing Officer
@@ -20,3 +21,15 @@ generated_at: "2026-03-30T02:52:56.034Z"
   - **(3)** perform other duties as the applicable delegating authority may assign.
 - **(c)** The Telework Managing Officer of an agency shall be a senior official of the agency who has direct access to the head of the agency.
 - **(d)** Nothing in this section shall be construed to prohibit an individual who holds another office or position in an agency from serving as the Telework Managing Officer for the agency under this chapter.
+
+Designation
+
+Duties
+
+Status Within Agency
+
+Rule of Construction Regarding Status of Telework Managing Officer
+
+## Source Credit
+
+*(Added [Pub. L. 111–292, § 2(a)](https://www.govinfo.gov/link/plaw/111/public/292), Dec. 9, 2010, [124 Stat. 3168](https://www.govinfo.gov/link/statute/124/3168).)*

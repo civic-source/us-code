@@ -3,9 +3,10 @@ title: "Section 11304 - Additional logbook and entry requirements"
 usc_title: 46
 usc_section: "11304"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 11304"
-generated_at: "2026-03-30T02:56:15.557Z"
+generated_at: "2026-11-23T20:27:27.167Z"
+status: "active"
 ---
 
 # § 11304. Additional logbook and entry requirements
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:15.557Z"
   - **(1)** The time when each seaman and each officer assumed or relieved the watch.
   - **(2)** The number of hours in service to the vessels of each seaman and each officer.
   - **(3)** Each illness of, and injury to, a seaman of the vessel, the nature of the illness or injury, and the medical treatment provided for the injury or illness.
+
+## Source Credit
+
+*(Added [Pub. L. 111–281, title VI, § 607(a)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2967](https://www.govinfo.gov/link/statute/124/2967); amended [Pub. L. 115–282, title V, § 511](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4274](https://www.govinfo.gov/link/statute/132/4274).)*

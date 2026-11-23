@@ -3,9 +3,10 @@ title: "Section 2347b - Purpose and need"
 usc_title: 33
 usc_section: "2347b"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2347b"
-generated_at: "2026-03-30T02:55:41.127Z"
+generated_at: "2026-11-23T20:26:54.197Z"
+status: "active"
 ---
 
 # § 2347b. Purpose and need
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:41.127Z"
     - **(B)** in any case in which the District Engineer does not concur as described in subparagraph (A), an assessment by the District Engineer of the purpose of and need for the project.
   - **(2)** No environmental impact statement or environmental assessment required under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.) shall substantially commence with respect to a water storage project until the date on which the District Engineer provides to the applicant a purpose and need statement as required under paragraph (1).
 - **(b)** A non-Federal interest may use the administrative appeals process described in part 331 of title 33, Code of Federal Regulations (or any succeeding regulation), in relation to a decision of the Secretary related to an application for a water storage project.
+
+## Source Credit
+
+*([Pub. L. 115–270, title I, § 1126](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3779](https://www.govinfo.gov/link/statute/132/3779).)*

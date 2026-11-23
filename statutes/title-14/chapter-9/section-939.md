@@ -3,9 +3,10 @@ title: "Section 939 - Accounting for industrial work"
 usc_title: 14
 usc_section: "939"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 939"
-generated_at: "2026-03-30T02:53:51.491Z"
+generated_at: "2026-11-23T20:25:54.548Z"
+status: "active"
 ---
 
 # § 939. Accounting for industrial work
@@ -18,3 +19,11 @@ generated_at: "2026-03-30T02:53:51.491Z"
   - **(4)** Notwithstanding any other provision of law, if the industrial workforce of the Coast Guard Yard or Coast Guard industrial establishment satisfies the performance target established in such an order or cost-plus-incentive-fee order—
     - **(A)** the adjustment to be made pursuant to subsection (a) shall be reduced by an agreed-upon amount and distributed to such wage-grade industrial employees; and
     - **(B)** the remainder of the adjustment shall be credited to the appropriation for such order current at that time.
+
+In General
+
+Incentive Contracts.—
+
+## Source Credit
+
+*(Aug. 4, 1949, ch. 393, [63 Stat. 549](https://www.govinfo.gov/link/statute/63/549), § 648; renumbered § 939 and amended [Pub. L. 115–282, title I, § 107(b)](https://www.govinfo.gov/link/plaw/115/public/282), title III, § 307, Dec. 4, 2018, [132 Stat. 4205](https://www.govinfo.gov/link/statute/132/4205), 4247.)*

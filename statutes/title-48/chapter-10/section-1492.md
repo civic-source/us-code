@@ -3,9 +3,10 @@ title: "Section 1492 - Energy resources of Caribbean and Pacific insular areas"
 usc_title: 48
 usc_section: "1492"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1492"
-generated_at: "2026-03-30T02:56:14.586Z"
+generated_at: "2026-11-23T20:27:28.054Z"
+status: "active"
 ---
 
 # § 1492. Energy resources of Caribbean and Pacific insular areas
@@ -87,3 +88,21 @@ generated_at: "2026-03-30T02:56:14.586Z"
   - **(5)** For the purposes of this subsection—
     - **(A)** the term “insular area” means American Samoa, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, the Federated States of Micronesia, Guam, the Republic of the Marshall Islands, the Republic of Palau, and the Virgin Islands; and
     - **(B)** the term “1982 Territorial Energy Assessment” means the comprehensive energy plan prepared by the Secretary of Energy pursuant to subsection (c).
+
+Power line grants for insular areas.—
+
+In general
+
+Eligible projects
+
+Priority
+
+Matching requirement
+
+Treatment of funds for certain purposes
+
+Authorization of appropriations
+
+## Source Credit
+
+*([Pub. L. 96–597, title VI, § 604](https://www.govinfo.gov/link/plaw/96/public/597), Dec. 24, 1980, [94 Stat. 3480](https://www.govinfo.gov/link/statute/94/3480); [Pub. L. 98–213, § 7](https://www.govinfo.gov/link/plaw/98/public/213), Dec. 8, 1983, [97 Stat. 1460](https://www.govinfo.gov/link/statute/97/1460); [Pub. L. 102–486, title XXVII, § 2701](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3118](https://www.govinfo.gov/link/statute/106/3118); [Pub. L. 109–58, title II, § 251](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 679](https://www.govinfo.gov/link/statute/119/679).)*

@@ -3,9 +3,10 @@ title: "Section 20 - Authorization of appropriations for General and Special Ris
 usc_title: 12
 usc_section: "20"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 20"
-generated_at: "2026-03-30T02:53:53.430Z"
+generated_at: "2026-11-23T20:25:59.026Z"
+status: "active"
 ---
 
 # § 1735f–20. Authorization of appropriations for General and Special Risk Insurance Funds
@@ -16,3 +17,7 @@ There are authorized to be appropriated such sums as may be necessary for each o
   - **(2)** The cost to the Government, as defined in section 661a 1 of title 2, of modifications to existing loans, loan guarantees, or insurance commitments.
   - **(3)** The cost to the Government, as defined in section 661a 1 of title 2, of loans provided under section 1701z–11(f) of this title .
   - **(4)** The costs of the rehabilitation of multifamily housing projects (as defined in section 1701z–11(b) of this title ) upon disposition by the Secretary.
+
+## Source Credit
+
+*(June 27, 1934, ch. 847, title V, § 542, as added [Pub. L. 103–233, title I, § 105(c)](https://www.govinfo.gov/link/plaw/103/public/233), Apr. 11, 1994, [108 Stat. 363](https://www.govinfo.gov/link/statute/108/363).)*

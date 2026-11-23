@@ -3,9 +3,10 @@ title: "Section 3908 - Secured loans"
 usc_title: 33
 usc_section: "3908"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 3908"
-generated_at: "2026-03-30T02:55:41.145Z"
+generated_at: "2026-11-23T20:26:54.283Z"
+status: "active"
 ---
 
 # § 3908. Secured loans
@@ -66,3 +67,7 @@ generated_at: "2026-03-30T02:55:41.145Z"
 - **(e)**
   - **(1)** The Secretary or the Administrator, as applicable, may provide a loan guarantee to a lender in lieu of making a secured loan under this section, if the Secretary or the Administrator, as applicable, determines that the budgetary cost of the loan guarantee is substantially the same as that of a secured loan.
   - **(2)** The terms of a loan guarantee provided under this subsection shall be consistent with the terms established in this section for a secured loan, except that the rate on the guaranteed loan and any prepayment features shall be negotiated between the obligor and the lender, with the consent of the Secretary or the Administrator, as applicable.
+
+## Source Credit
+
+*([Pub. L. 113–121, title V, § 5029](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1338](https://www.govinfo.gov/link/statute/128/1338); [Pub. L. 114–322, title IV, § 5008(c)](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1897](https://www.govinfo.gov/link/statute/130/1897); [Pub. L. 115–270, title IV, § 4201(a)(3)](https://www.govinfo.gov/link/plaw/115/public/270), (b)(1), Oct. 23, 2018, [132 Stat. 3877](https://www.govinfo.gov/link/statute/132/3877), 3878.)*

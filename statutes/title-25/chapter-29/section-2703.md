@@ -3,9 +3,10 @@ title: "Section 2703 - Definitions"
 usc_title: 25
 usc_section: "2703"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 2703"
-generated_at: "2026-03-30T02:54:52.842Z"
+generated_at: "2026-11-23T20:26:25.603Z"
+status: "active"
 ---
 
 # § 2703. Definitions
@@ -41,3 +42,7 @@ For purposes of this chapter—
   - **(8)** The term “class III gaming” means all forms of gaming that are not class I gaming or class II gaming.
   - **(9)** The term “net revenues” means gross revenues of an Indian gaming activity less amounts paid out as, or paid for, prizes and total operating expenses, excluding management fees.
   - **(10)** The term “Secretary” means the Secretary of the Interior.
+
+## Source Credit
+
+*([Pub. L. 100–497, § 4](https://www.govinfo.gov/link/plaw/100/public/497), Oct. 17, 1988, [102 Stat. 2467](https://www.govinfo.gov/link/statute/102/2467); [Pub. L. 102–238, § 2(a)](https://www.govinfo.gov/link/plaw/102/public/238), Dec. 17, 1991, [105 Stat. 1908](https://www.govinfo.gov/link/statute/105/1908); [Pub. L. 102–497, § 16](https://www.govinfo.gov/link/plaw/102/public/497), Oct. 24, 1992, [106 Stat. 3261](https://www.govinfo.gov/link/statute/106/3261).)*

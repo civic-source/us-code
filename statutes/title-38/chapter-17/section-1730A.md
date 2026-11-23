@@ -3,9 +3,10 @@ title: "Section 1730A - Prohibition on collection of copayments from certain vet
 usc_title: 38
 usc_section: "1730A"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 1730A"
-generated_at: "2026-03-30T02:55:53.487Z"
+generated_at: "2026-11-23T20:27:01.710Z"
+status: "active"
 ---
 
 # § 1730A. Prohibition on collection of copayments from certain veterans
@@ -14,3 +15,11 @@ generated_at: "2026-03-30T02:55:53.487Z"
 - **(b)** In this section, the term “covered veteran” means a veteran who—
   - **(1)** is catastrophically disabled, as defined by the Secretary; or
   - **(2)** is an Indian or urban Indian (as those terms are defined in section 4 of the Indian Health Care Improvement Act ( 25 U.S.C. 1603 )).
+
+Prohibition
+
+Covered Veteran Defined
+
+## Source Credit
+
+*(Added [Pub. L. 111–163, title V, § 511(a)](https://www.govinfo.gov/link/plaw/111/public/163), May 5, 2010, [124 Stat. 1164](https://www.govinfo.gov/link/statute/124/1164); amended [Pub. L. 116–315, title III, § 3002(a)](https://www.govinfo.gov/link/plaw/116/public/315), Jan. 5, 2021, [134 Stat. 4990](https://www.govinfo.gov/link/statute/134/4990).)*

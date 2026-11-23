@@ -3,12 +3,17 @@ title: "Section 783 - Punishment for violations of law; liability of vessels"
 usc_title: 16
 usc_section: "783"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 783"
-generated_at: "2026-03-30T02:54:22.910Z"
+generated_at: "2026-11-23T20:26:20.278Z"
+status: "active"
 ---
 
 # § 783. Punishment for violations of law; liability of vessels
 
 Every person, partnership, or association guilty of a violation of the provisions of this chapter shall be liable to a fine of not more than $500, and in addition such fine shall be a lien against the vessel or boat on which the offense is committed, and said vessel or boat shall be seized and proceeded against by process of libel in any court having jurisdiction of the offense.
 
+
+## Source Credit
+
+*(Aug. 15, 1914, ch. 253, § 3, [38 Stat. 692](https://www.govinfo.gov/link/statute/38/692).)*

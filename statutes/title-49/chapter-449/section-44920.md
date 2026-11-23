@@ -3,9 +3,10 @@ title: "Section 44920 - Screening partnership program"
 usc_title: 49
 usc_section: "44920"
 chapter: 449
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44920"
-generated_at: "2026-03-30T02:56:19.393Z"
+generated_at: "2026-11-23T20:27:35.220Z"
+status: "active"
 ---
 
 # § 44920. Screening partnership program
@@ -43,3 +44,47 @@ generated_at: "2026-03-30T02:56:19.393Z"
   - **(2)** Any participation on a proposal evaluation committee under paragraph (1) shall be conducted in accordance with chapter 21 of title 41.
 - **(i)** The Administrator shall encourage an airport operator to whom screening services are provided under this section to recommend to the Administrator innovative screening approaches and technologies. Upon receipt of any such recommendations, the Administrator shall review and, if appropriate, test, conduct a pilot project, and, if appropriate, deploy such approaches and technologies.
 - **(i)** In this section, the term “Administrator” means the Administrator of the Transportation Security Administration.
+
+In General
+
+Approval of Applications.—
+
+In general
+
+Standards
+
+Reports on denials of applications.—
+
+In general
+
+Submission to congress
+
+Qualified Private Screening Company
+
+Selection of Contracts and Standards for Private Screening Companies.—
+
+In general
+
+Contracts
+
+Waivers
+
+Supervision of Screening Personnel
+
+Termination or Suspension of Contracts
+
+Operator of Airport
+
+Evaluation of Screening Company Proposals for Award.—
+
+In general
+
+Participation on a proposal evaluation committee
+
+Innovative Screening Approaches and Technologies
+
+Definition of Administrator
+
+## Source Credit
+
+*(Added [Pub. L. 107–71, title I, § 108(a)](https://www.govinfo.gov/link/plaw/107/public/71), Nov. 19, 2001, [115 Stat. 612](https://www.govinfo.gov/link/statute/115/612); amended [Pub. L. 109–90, title V, § 547](https://www.govinfo.gov/link/plaw/109/public/90), Oct. 18, 2005, [119 Stat. 2089](https://www.govinfo.gov/link/statute/119/2089); [Pub. L. 112–95, title VIII, § 830(a)](https://www.govinfo.gov/link/plaw/112/public/95) –(c), Feb. 14, 2012, [126 Stat. 135](https://www.govinfo.gov/link/statute/126/135); [Pub. L. 115–254, div. K, title I](https://www.govinfo.gov/link/plaw/115/public/254), §§ 1946(a), 1991(d)(17), Oct. 5, 2018, [132 Stat. 3585](https://www.govinfo.gov/link/statute/132/3585), 3636.)*

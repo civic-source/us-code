@@ -3,9 +3,10 @@ title: "Section 1283 - Definitions and special rules"
 usc_title: 26
 usc_section: "1283"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1283"
-generated_at: "2026-03-30T02:55:27.766Z"
+generated_at: "2026-11-23T20:26:46.075Z"
+status: "active"
 ---
 
 # § 1283. Definitions and special rules
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:27.766Z"
   - **(1)** The basis of any short-term obligation in the hands of the holder thereof shall be increased by the amount included in his gross income pursuant to section 1281.
   - **(2)** Section 1281 shall not require the inclusion of any amount previously includible in gross income.
   - **(3)** Section 454(b) and paragraphs (3) and (4) of section 1271(a) shall not apply to any short-term obligation to which section 1281 applies.
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title I, § 41(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 549](https://www.govinfo.gov/link/statute/98/549); amended [Pub. L. 99–514, title XVIII, § 1803(a)(1)(B)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2792](https://www.govinfo.gov/link/statute/100/2792).)*

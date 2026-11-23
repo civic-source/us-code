@@ -3,9 +3,10 @@ title: "Section 7298 - Retirement Fund"
 usc_title: 38
 usc_section: "7298"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7298"
-generated_at: "2026-03-30T02:55:53.526Z"
+generated_at: "2026-11-23T20:27:01.989Z"
+status: "active"
 ---
 
 # § 7298. Retirement Fund
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:53.526Z"
     - **(D)** Amounts deposited in the retirement fund under this paragraph shall not be credited to the account of any individual.
 - **(f)** The Secretary of the Treasury shall invest from time to time, in interest-bearing securities of the United States, such portions of the retirement fund as in such Secretary’s judgment may not be immediately required for payments from the fund. The income derived from such investments shall constitute a part of the fund.
 - **(g)** For purpose of section 255(g)(1)(B) of the Balanced Budget and Emergency Deficit Control Act of 1985 ( 2 U.S.C. 905(g)(1)(B) ), the retirement fund shall be treated in the same manner as the Claims Judges’ Retirement Fund.
+
+## Source Credit
+
+*(Added [Pub. L. 101–94, title I, § 101(a)](https://www.govinfo.gov/link/plaw/101/public/94), Aug. 16, 1989, [103 Stat. 625](https://www.govinfo.gov/link/statute/103/625), § 4098; renumbered § 7298 and amended [Pub. L. 102–40, title IV, § 402(b)(1)](https://www.govinfo.gov/link/plaw/102/public/40), (d)(1), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238), 239; [Pub. L. 105–368, title V](https://www.govinfo.gov/link/plaw/105/public/368), §§ 502, 512(a)(1), (2)(C), Nov. 11, 1998, [112 Stat. 3340](https://www.govinfo.gov/link/statute/112/3340), 3341; [Pub. L. 106–117, title X, § 1011(j)](https://www.govinfo.gov/link/plaw/106/public/117), Nov. 30, 1999, [113 Stat. 1589](https://www.govinfo.gov/link/statute/113/1589).)*

@@ -3,9 +3,10 @@ title: "Section 3332 - National leadership activities"
 usc_title: 29
 usc_section: "3332"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3332"
-generated_at: "2026-03-30T02:55:18.762Z"
+generated_at: "2026-11-23T20:26:38.151Z"
+status: "active"
 ---
 
 # § 3332. National leadership activities
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:55:18.762Z"
     - **(E)** collecting data, such as data regarding the improvement of both local and State data systems, through technical assistance and development of model performance data collection systems;
     - **(F)** determining how participation in adult education and literacy activities prepares eligible individuals for entry into postsecondary education and employment and, in the case of programs carried out in correctional institutions, has an effect on recidivism; and
     - **(G)** other activities designed to enhance the quality of adult education and literacy activities nationwide.
+
+## Source Credit
+
+*([Pub. L. 113–128, title II, § 242](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1621](https://www.govinfo.gov/link/statute/128/1621).)*

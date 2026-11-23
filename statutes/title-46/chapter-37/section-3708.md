@@ -3,9 +3,10 @@ title: "Section 3708 - Self-propelled tank vessel minimum standards"
 usc_title: 46
 usc_section: "3708"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 3708"
-generated_at: "2026-03-30T02:56:15.545Z"
+generated_at: "2026-11-23T20:27:27.086Z"
+status: "active"
 ---
 
 # § 3708. Self-propelled tank vessel minimum standards
@@ -19,3 +20,16 @@ A self-propelled tank vessel of at least 10,000 gross tons as measured under sec
   - **(5)** a sonic depth finder;
   - **(6)** a gyrocompass; and
   - **(7)** up-to-date charts.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 3708 | 46:391a(7)(J) |
+
+
+Historical and Revision Notes
+
+3708
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 524](https://www.govinfo.gov/link/statute/97/524); [Pub. L. 104–324, title VII, § 717](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3937](https://www.govinfo.gov/link/statute/110/3937).)*

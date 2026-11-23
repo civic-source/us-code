@@ -3,9 +3,10 @@ title: "Section 16278 - Enabling nuclear energy innovation"
 usc_title: 42
 usc_section: "16278"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16278"
-generated_at: "2026-03-30T02:56:11.476Z"
+generated_at: "2026-11-23T20:27:23.644Z"
+status: "active"
 ---
 
 # § 16278. Enabling nuclear energy innovation
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:56:11.476Z"
 - **(g)**
   - **(1)** Nothing in this section authorizes the Secretary or any person to construct or operate a nuclear reactor for the purpose of demonstrating the suitability for commercial application of the nuclear reactor unless licensed by the Commission in accordance with section 5842 of this title .
   - **(2)** Any activity carried out under this section that involves the risk of public liability shall be subject to the financial protection or indemnification requirements of section 2210 of this title (commonly known as the “Price-Anderson Act”).
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 958](https://www.govinfo.gov/link/plaw/109/public/58), as added [Pub. L. 115–248, § 2(h)](https://www.govinfo.gov/link/plaw/115/public/248), Sept. 28, 2018, [132 Stat. 3157](https://www.govinfo.gov/link/statute/132/3157).)*

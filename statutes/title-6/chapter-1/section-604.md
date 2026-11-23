@@ -3,9 +3,10 @@ title: "Section 604 - Urban Area Security Initiative"
 usc_title: 6
 usc_section: "604"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 604"
-generated_at: "2026-03-30T02:53:09.471Z"
+generated_at: "2026-11-23T20:25:34.806Z"
+status: "active"
 ---
 
 # § 604. Urban Area Security Initiative
@@ -62,3 +63,7 @@ generated_at: "2026-03-30T02:53:09.471Z"
   - **(4)** $1,150,000,000 for fiscal year 2011;
   - **(5)** $1,300,000,000 for fiscal year 2012; and
   - **(6)** such sums as are necessary for fiscal year 2013, and each fiscal year thereafter.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XX, § 2003](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 110–53, title I, § 101](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 274](https://www.govinfo.gov/link/statute/121/274).)*

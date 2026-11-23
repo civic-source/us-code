@@ -3,9 +3,10 @@ title: "Section 17113 - Industrial emissions reduction technology development pr
 usc_title: 42
 usc_section: "17113"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17113"
-generated_at: "2026-03-30T02:56:11.496Z"
+generated_at: "2026-11-23T20:27:23.726Z"
+status: "active"
 ---
 
 # § 17113. Industrial emissions reduction technology development program
@@ -80,3 +81,9 @@ generated_at: "2026-03-30T02:56:11.496Z"
   - **(4)** $150,000,000 for fiscal year 2024; and
   - **(5)** $150,000,000 for fiscal year 2025.
 - **(f)** The Secretary shall carry out the activities authorized in this section in accordance with section 18631 of this title .
+
+“The purpose of this title [enacting this section and sections 17114 to 17115a of this title and amending section 6351 of this title ] and the amendments made by this title is to encourage the development and evaluation of innovative technologies aimed at increasing—
+
+## Source Credit
+
+*([Pub. L. 110–140, title IV, § 454](https://www.govinfo.gov/link/plaw/110/public/140), as added [Pub. L. 116–260, div. Z, title VI, § 6003(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2553](https://www.govinfo.gov/link/statute/134/2553); amended [Pub. L. 117–58, div. D, title V, § 40521(a)(2)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1062](https://www.govinfo.gov/link/statute/135/1062).)*

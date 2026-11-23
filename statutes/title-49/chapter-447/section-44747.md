@@ -3,9 +3,10 @@ title: "Section 44747 - Aviation safety oversight measures carried out by foreig
 usc_title: 49
 usc_section: "44747"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44747"
-generated_at: "2026-03-30T02:56:19.388Z"
+generated_at: "2026-11-23T20:27:35.194Z"
+status: "active"
 ---
 
 # § 44747. Aviation safety oversight measures carried out by foreign countries
@@ -45,3 +46,33 @@ generated_at: "2026-03-30T02:56:19.388Z"
 - **(f)**
   - **(1)** The Administration shall use data, tools, and methods that ensure transparency and repeatability of assessments conducted under this section.
   - **(2)** The Administrator shall ensure that Administration personnel are properly and adequately trained to carry out the assessments set forth in this section, including with respect to the standards, methodology, and material used to make determinations under this section.
+
+Assessment.—
+
+In general
+
+Consultation and criteria
+
+Findings of noncompliance
+
+Uncorrected Non-compliance
+
+Authority
+
+Public Notification.—
+
+In general
+
+Compliance
+
+Accuracy of the IASA List
+
+Consistency.—
+
+In general
+
+Training
+
+## Source Credit
+
+*(Added [Pub. L. 118–63, title III, § 369(a)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1137](https://www.govinfo.gov/link/statute/138/1137).)*

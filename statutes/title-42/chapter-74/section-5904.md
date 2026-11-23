@@ -3,9 +3,10 @@ title: "Section 5904 - Research, development, and demonstration program governin
 usc_title: 42
 usc_section: "5904"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5904"
-generated_at: "2026-03-30T02:56:11.240Z"
+generated_at: "2026-11-23T20:27:22.569Z"
+status: "active"
 ---
 
 # § 5904. Research, development, and demonstration program governing principles
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.240Z"
     - **(D)** There are limited opportunities to induce non-Federal support of the undertaking through regulatory actions, end use controls, tax and price incentives, public education, or other alternatives to direct Federal financial assistance.
     - **(E)** The degree of risk of loss of investment inherent in the research is high, and the availability or risk capital to the non-Federal entities which might otherwise engage in the field of the research is inadequate for the timely development of the technology.
     - **(F)** The magnitude of the investment appears to exceed the financial capabilities of potential non-Federal participants in the research to support effective efforts.
+
+## Source Credit
+
+*([Pub. L. 93–577, § 5](https://www.govinfo.gov/link/plaw/93/public/577), Dec. 31, 1974, [88 Stat. 1880](https://www.govinfo.gov/link/statute/88/1880); [Pub. L. 95–91, title III, § 301(a)](https://www.govinfo.gov/link/plaw/95/public/91), title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577](https://www.govinfo.gov/link/statute/91/577), 606, 607.)*

@@ -3,9 +3,10 @@ title: "Section 1001b - Findings and declaration of policy"
 usc_title: 29
 usc_section: "1001b"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1001b"
-generated_at: "2026-03-30T02:55:18.702Z"
+generated_at: "2026-11-23T20:26:37.901Z"
+status: "active"
 ---
 
 # § 1001b. Findings and declaration of policy
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:18.702Z"
   - **(4)** to provide for the transfer of unfunded pension liabilities onto the single-employer pension plan termination insurance system only in cases of severe hardship;
   - **(5)** to maintain the premium costs of such system at a reasonable level; and
   - **(6)** to assure the prudent financing of current funding deficiencies and future obligations of the single-employer pension plan termination insurance system by increasing termination insurance premiums.
+
+## Source Credit
+
+*([Pub. L. 99–272, title XI, § 11002](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 237](https://www.govinfo.gov/link/statute/100/237).)*

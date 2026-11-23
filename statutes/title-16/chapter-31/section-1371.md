@@ -3,9 +3,10 @@ title: "Section 1371 - Moratorium on taking and importing marine mammals and mar
 usc_title: 16
 usc_section: "1371"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1371"
-generated_at: "2026-03-30T02:54:22.957Z"
+generated_at: "2026-11-23T20:26:20.455Z"
+status: "active"
 ---
 
 # § 1371. Moratorium on taking and importing marine mammals and marine mammal products
@@ -115,3 +116,11 @@ generated_at: "2026-03-30T02:54:22.957Z"
       - **(ii)** making a new determination that the additional exemption is necessary for national defense.
     - **(B)** Each additional exemption under this paragraph shall be effective for a period specified by the Secretary of Defense, of not more than 2 years.
   - **(4)** Not later than 30 days after issuing an exemption under paragraph (1) or an additional exemption under paragraph (3), the Secretary of Defense shall submit to the Committee on Armed Services of the House of Representatives and the Committee on Armed Services of the Senate notice describing the exemption and the reasons therefor. The notice may be provided in classified form if the Secretary of Defense determines that use of the classified form is necessary for reasons of national security.
+
+(aa) permissible methods of taking pursuant to such activity, and other means of effecting the least practicable adverse impact on such species or stock and its habitat, paying particular attention to rookeries, mating grounds, and areas of similar significance, and on the availability of such species or stock for subsistence uses; and
+
+(bb) requirements pertaining to the monitoring and reporting of such taking.
+
+## Source Credit
+
+*([Pub. L. 92–522, title I, § 101](https://www.govinfo.gov/link/plaw/92/public/522), Oct. 21, 1972, [86 Stat. 1029](https://www.govinfo.gov/link/statute/86/1029); [Pub. L. 93–205, § 13(e)(2)](https://www.govinfo.gov/link/plaw/93/public/205), Dec. 28, 1973, [87 Stat. 903](https://www.govinfo.gov/link/statute/87/903); [Pub. L. 97–58, § 2](https://www.govinfo.gov/link/plaw/97/public/58), Oct. 9, 1981, [95 Stat. 979](https://www.govinfo.gov/link/statute/95/979); [Pub. L. 98–364, title I, § 101](https://www.govinfo.gov/link/plaw/98/public/364), July 17, 1984, [98 Stat. 440](https://www.govinfo.gov/link/statute/98/440); [Pub. L. 99–659, title IV, § 411(a)](https://www.govinfo.gov/link/plaw/99/public/659), Nov. 14, 1986, [100 Stat. 3741](https://www.govinfo.gov/link/statute/100/3741); [Pub. L. 100–711](https://www.govinfo.gov/link/plaw/100/public/711), §§ 4(a), 5(c), (e)(1), Nov. 23, 1988, [102 Stat. 4765](https://www.govinfo.gov/link/statute/102/4765), 4769, 4771; [Pub. L. 101–627, title IX, § 901(g)](https://www.govinfo.gov/link/plaw/101/public/627), Nov. 28, 1990, [104 Stat. 4467](https://www.govinfo.gov/link/statute/104/4467); [Pub. L. 102–582, title I, § 103](https://www.govinfo.gov/link/plaw/102/public/582), title IV, § 401(b), Nov. 2, 1992, [106 Stat. 4903](https://www.govinfo.gov/link/statute/106/4903), 4909; [Pub. L. 103–238, § 4](https://www.govinfo.gov/link/plaw/103/public/238), Apr. 30, 1994, [108 Stat. 532](https://www.govinfo.gov/link/statute/108/532); [Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009](https://www.govinfo.gov/link/statute/110/3009), 3009–41; [Pub. L. 105–18, title II, § 2003](https://www.govinfo.gov/link/plaw/105/public/18), June 12, 1997, [111 Stat. 174](https://www.govinfo.gov/link/statute/111/174); [Pub. L. 105–42, § 4(a)](https://www.govinfo.gov/link/plaw/105/public/42) –(c), Aug. 15, 1997, [111 Stat. 1123](https://www.govinfo.gov/link/statute/111/1123), 1124; [Pub. L. 108–136, div. A, title III, § 319(b)](https://www.govinfo.gov/link/plaw/108/public/136), (c), Nov. 24, 2003, [117 Stat. 1434](https://www.govinfo.gov/link/statute/117/1434); [Pub. L. 115–232, div. A, title III, § 316](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1714](https://www.govinfo.gov/link/statute/132/1714).)*

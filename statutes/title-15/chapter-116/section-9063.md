@@ -3,9 +3,10 @@ title: "Section 9063 - Termination of authority"
 usc_title: 15
 usc_section: "9063"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 9063"
-generated_at: "2026-03-30T02:54:08.243Z"
+generated_at: "2026-11-23T20:26:04.553Z"
+status: "active"
 ---
 
 # § 9063. Termination of authority
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:08.243Z"
   - **(3)**
     - **(A)** Except as provided in subparagraph (B), the Secretary is permitted to use the fund established under section 5302 of title 31 for any purpose permitted under that section.
     - **(B)** The fund established under section 5302 of title 31 shall not be available for any program or facility established under section 343(3) of title 12 that is the same as any such program or facility in which the Secretary made an investment pursuant to section 9042(b)(4) of this title , except the Term Asset-Backed Securities Loan Facility.
+
+## Source Credit
+
+*([Pub. L. 116–136, div. A, title IV, § 4029](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 497](https://www.govinfo.gov/link/statute/134/497); [Pub. L. 116–260, div. N, title X, § 1005](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2146](https://www.govinfo.gov/link/statute/134/2146).)*

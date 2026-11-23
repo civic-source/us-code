@@ -3,9 +3,10 @@ title: "Section 2862 - Turn-key selection procedures"
 usc_title: 10
 usc_section: "2862"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2862"
-generated_at: "2026-03-30T02:53:38.180Z"
+generated_at: "2026-11-23T20:25:51.742Z"
+status: "active"
 ---
 
 # § 2862. Turn-key selection procedures
@@ -22,3 +23,15 @@ generated_at: "2026-03-30T02:53:38.180Z"
     - **(C)** foreign military construction sales authorized by section 29 of the Arms Export Control Act ( 22 U.S.C. 2769 );
     - **(D)** foreign assistance authorized under sections 607 and 632 of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2357 , 2392); and
     - **(E)** other international security assistance specifically authorized by law.
+
+Authority to Use for Certain Purposes
+
+Definitions
+
+Authority to Use
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 99–167, title VIII, § 807(a)](https://www.govinfo.gov/link/plaw/99/public/167), Dec. 3, 1985, [99 Stat. 988](https://www.govinfo.gov/link/statute/99/988); amended [Pub. L. 100–26, § 7(k)(3)](https://www.govinfo.gov/link/plaw/100/public/26), Apr. 21, 1987, [101 Stat. 284](https://www.govinfo.gov/link/statute/101/284); [Pub. L. 100–180, div. B](https://www.govinfo.gov/link/plaw/100/public/180), subdiv. 3, title I, § 2301, Dec. 4, 1987, [101 Stat. 1214](https://www.govinfo.gov/link/statute/101/1214); [Pub. L. 101–189, div. B, title XXVIII, § 2806](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1647](https://www.govinfo.gov/link/statute/103/1647); [Pub. L. 102–190, div. B, title XXVIII, § 2802](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1537](https://www.govinfo.gov/link/statute/105/1537); [Pub. L. 113–291, div. B, title XXVIII, § 2804](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3697](https://www.govinfo.gov/link/statute/128/3697).)*

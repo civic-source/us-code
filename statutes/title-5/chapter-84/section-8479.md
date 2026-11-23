@@ -3,9 +3,10 @@ title: "Section 8479 - Exculpatory provisions; insurance"
 usc_title: 5
 usc_section: "8479"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8479"
-generated_at: "2026-03-30T02:52:56.064Z"
+generated_at: "2026-11-23T20:25:32.228Z"
+status: "active"
 ---
 
 # § 8479. Exculpatory provisions; insurance
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:52:56.064Z"
 - **(b)**
   - **(1)** The Executive Director may require employing agencies to contribute an amount not to exceed 1 percent of the amount such agencies are required to contribute in accordance with section 8432(c) of this title to the Thrift Savings Fund.
   - **(2)** The sums credited to the Thrift Savings Fund under paragraph (1) shall be available and may be used at the discretion of the Executive Director to purchase insurance to cover potential liability of persons who serve in a fiduciary capacity with respect to the Thrift Savings Fund, without regard to whether a policy of insurance permits recourse by the insurer against the fiduciary in the case of a breach of a fiduciary obligation.
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 588](https://www.govinfo.gov/link/statute/100/588).)*

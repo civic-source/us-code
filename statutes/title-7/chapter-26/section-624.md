@@ -3,9 +3,10 @@ title: "Section 624 - Limitation on imports; authority of President"
 usc_title: 7
 usc_section: "624"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 624"
-generated_at: "2026-03-30T02:53:42.293Z"
+generated_at: "2026-11-23T20:25:41.074Z"
+status: "active"
 ---
 
 # § 624. Limitation on imports; authority of President
@@ -16,3 +17,17 @@ generated_at: "2026-03-30T02:53:42.293Z"
 - **(d)** After investigation, report, finding, and declaration in the manner provided in the case of a proclamation issued pursuant to subsection (b) of this section, any proclamation or provision of such proclamation may be suspended or terminated by the President whenever he finds and proclaims that the circumstances requiring the proclamation or provision thereof no longer exist or may be modified by the President whenever he finds and proclaims that changed circumstances require such modification to carry out the purposes of this section.
 - **(e)** Any decision of the President as to facts under this section shall be final.
 - **(f)** No quantitative limitation or fee shall be imposed under this section with respect to any article that is the product of a WTO member (as defined in section 3501(10) of title 19 ).
+
+seal]
+
+Dwight D. Eisenhower.
+
+Import Restrictions on Certain Cotton Products
+
+seal]
+
+John F. Kennedy.
+
+## Source Credit
+
+*(May 12, 1933, ch. 25, title I, § 22, as added Aug. 24, 1935, ch. 641, § 31, [49 Stat. 773](https://www.govinfo.gov/link/statute/49/773); amended Feb. 29, 1936, ch. 104, § 5, [49 Stat. 1152](https://www.govinfo.gov/link/statute/49/1152); June 3, 1937, ch. 296, § 1, [50 Stat. 246](https://www.govinfo.gov/link/statute/50/246); Jan. 25, 1940, ch. 13, [54 Stat. 17](https://www.govinfo.gov/link/statute/54/17); July 3, 1948, ch. 827, title I, § 3, [62 Stat. 1248](https://www.govinfo.gov/link/statute/62/1248); June 28, 1950, ch. 381, § 3, [64 Stat. 261](https://www.govinfo.gov/link/statute/64/261); June 16, 1951, ch. 141, § 8(b), [65 Stat. 75](https://www.govinfo.gov/link/statute/65/75); Aug. 7, 1953, ch. 348, title I, § 104, [67 Stat. 472](https://www.govinfo.gov/link/statute/67/472); [Pub. L. 93–618, title I, § 171(b)](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 2009](https://www.govinfo.gov/link/statute/88/2009); [Pub. L. 100–449, title III, § 301(c)](https://www.govinfo.gov/link/plaw/100/public/449), Sept. 28, 1988, [102 Stat. 1868](https://www.govinfo.gov/link/statute/102/1868); [Pub. L. 103–465, title IV, § 401(a)(1)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4957](https://www.govinfo.gov/link/statute/108/4957).)*

@@ -3,9 +3,10 @@ title: "Section 317 - Announcement of payment for broadcast"
 usc_title: 47
 usc_section: "317"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 317"
-generated_at: "2026-03-30T02:56:24.508Z"
+generated_at: "2026-11-23T20:27:28.879Z"
+status: "active"
 ---
 
 # § 317. Announcement of payment for broadcast
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:24.508Z"
 - **(c)** The licensee of each radio station shall exercise reasonable diligence to obtain from its employees, and from other persons with whom it deals directly in connection with any program or program matter for broadcast, information to enable such licensee to make the announcement required by this section.
 - **(d)** The Commission may waive the requirement of an announcement as provided in this section in any case or class of cases with respect to which it determines that the public interest, convenience, or necessity does not require the broadcasting of such announcement.
 - **(e)** The Commission shall prescribe appropriate rules and regulations to carry out the provisions of this section.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title III, § 317, [48 Stat. 1089](https://www.govinfo.gov/link/statute/48/1089); [Pub. L. 86–752, § 8(a)](https://www.govinfo.gov/link/plaw/86/public/752), Sept. 13, 1960, [74 Stat. 895](https://www.govinfo.gov/link/statute/74/895); [Pub. L. 96–507, § 2(a)](https://www.govinfo.gov/link/plaw/96/public/507), Dec. 8, 1980, [94 Stat. 2747](https://www.govinfo.gov/link/statute/94/2747).)*

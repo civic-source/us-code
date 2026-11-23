@@ -3,9 +3,10 @@ title: "Section 5909 - Custody of payment stablecoin reserve and collateral"
 usc_title: 12
 usc_section: "5909"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5909"
-generated_at: "2026-03-30T02:53:53.553Z"
+generated_at: "2026-11-23T20:25:59.551Z"
+status: "active"
 ---
 
 # § 5909. Custody of payment stablecoin reserve and collateral
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:53.553Z"
   - **(3)** With respect to payment stablecoins held by a person described in subsection (a) for a customer, with or without the segregation required under paragraph (1), the claims of the customer against such person with respect to such payment stablecoins shall have priority over the claims of any person other than the claims of another customer with respect to payment stablecoins held by such person described in subsection (a), unless the customer expressly consents to the priority of such other claim.
 - **(d)** A person described under subsection (a) shall submit to the applicable primary Federal payment stablecoin regulator information concerning the person’s business operations and processes to protect customer assets, in such form and manner as the primary regulator shall determine.
 - **(e)** The requirements of this section shall not apply to any person solely on the basis that such person engages in the business of providing hardware or software to facilitate a customer’s own custody or safekeeping of the customer’s payment stablecoins or private keys.
+
+## Source Credit
+
+*([Pub. L. 119–27, § 10](https://www.govinfo.gov/link/plaw/119/public/27), July 18, 2025, [139 Stat. 455](https://www.govinfo.gov/link/statute/139/455).)*

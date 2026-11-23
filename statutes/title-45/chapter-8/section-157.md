@@ -3,9 +3,10 @@ title: "Section 157 - Arbitration"
 usc_title: 45
 usc_section: "157"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 157"
-generated_at: "2026-03-30T02:55:56.543Z"
+generated_at: "2026-11-23T20:27:05.221Z"
+status: "active"
 ---
 
 # § 157. Arbitration
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:56.543Z"
 - **(g)** Compensation of assistants to board of arbitration; expenses; quarters A board of arbitration may, subject to the approval of the Mediation Board, employ and fix the compensation of such assistants as it deems necessary in carrying on the arbitration proceedings. The compensation of such employees, together with their necessary traveling expenses and expenses actually incurred for subsistence, while so employed, and the necessary expenses of boards of arbitration, shall be paid by the Mediation Board. Whenever practicable, the board shall be supplied with suitable quarters in any Federal building located at its place of meeting or at any place where the board may conduct its proceedings or deliberations.
 - **(h)** Testimony before board; oaths; attendance of witnesses; production of documents; subpoenas; fees All testimony before said board shall be given under oath or affirmation, and any member of the board shall have the power to administer oaths or affirmations. The board of arbitration, or any member thereof, shall have the power to require the attendance of witnesses and the production of such books, papers, contracts, agreements, and documents as may be deemed by the board of arbitration material to a just determination of the matters submitted to its arbitration, and may for that purpose request the clerk of the district court of the United States for the district wherein said arbitration is being conducted to issue the necessary subpoenas, and upon such request the said clerk or his duly authorized deputy shall be, and he is, authorized, and it shall be his duty, to issue such subpoenas. Any witness appearing before a board of arbitration shall receive the same fees and mileage as witnesses in courts of the United States, to be paid by the party securing the subpoena.
 
+
+## Source Credit
+
+*(May 20, 1926, ch. 347, § 7, [44 Stat. 582](https://www.govinfo.gov/link/statute/44/582); June 21, 1934, ch. 691, § 7, [48 Stat. 1197](https://www.govinfo.gov/link/statute/48/1197); [Pub. L. 91–452, title II, § 238](https://www.govinfo.gov/link/plaw/91/public/452), Oct. 15, 1970, [84 Stat. 930](https://www.govinfo.gov/link/statute/84/930).)*

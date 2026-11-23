@@ -3,9 +3,10 @@ title: "Section 12542 - Rural drug enforcement training"
 usc_title: 34
 usc_section: "12542"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12542"
-generated_at: "2026-03-30T02:55:33.290Z"
+generated_at: "2026-11-23T20:26:50.560Z"
+status: "active"
 ---
 
 # § 12542. Rural drug enforcement training
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:33.290Z"
   - **(3)** $1,000,000 for fiscal year 1998;
   - **(4)** $1,000,000 for fiscal year 1999; and
   - **(5)** $1,000,000 for fiscal year 2000.
+
+## Source Credit
+
+*([Pub. L. 103–322, title XVIII, § 180103](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2046](https://www.govinfo.gov/link/statute/108/2046).)*

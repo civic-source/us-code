@@ -3,9 +3,10 @@ title: "Section 3356 - Fast-tracking sales to Taiwan under foreign military sale
 usc_title: 22
 usc_section: "3356"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3356"
-generated_at: "2026-03-30T02:55:05.392Z"
+generated_at: "2026-11-23T20:26:32.454Z"
+status: "active"
 ---
 
 # § 3356. Fast-tracking sales to Taiwan under foreign military sales program
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.392Z"
   - **(1)** The Secretary of State and the Secretary of Defense shall prioritize and expedite the processing of requests from Taiwan under the Foreign Military Sales program, and may not delay the processing of requests for bundling purposes.
   - **(2)** The requirement under paragraph (1) shall continue until the Secretary of State determines and certifies to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives that the threat to Taiwan has significantly abated.
 - **(c)** The Secretary of State and the Secretary of Defense shall jointly review and update interagency policies and implementation guidance related to Foreign Military Sales requests from Taiwan, including incorporating the preclearance provisions of this section.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. E, title LV, § 5507](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3301](https://www.govinfo.gov/link/statute/136/3301).)*

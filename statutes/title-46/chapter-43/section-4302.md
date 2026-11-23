@@ -3,9 +3,10 @@ title: "Section 4302 - Regulations"
 usc_title: 46
 usc_section: "4302"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 4302"
-generated_at: "2026-03-30T02:56:15.547Z"
+generated_at: "2026-11-23T20:27:27.092Z"
+status: "active"
 ---
 
 # § 4302. Regulations
@@ -28,3 +29,40 @@ generated_at: "2026-03-30T02:56:15.547Z"
     - **(A)** begin on June 1 of a year and end on July 31 of the following year; and
     - **(B)** be designated by the year in which it ends.
   - **(2)** Upon the request of a recreational vessel manufacturer to which this chapter applies, the Secretary may alter a model year for a model of recreational vessel of the manufacturer and associated equipment, by no more than 6 months from the model year described in paragraph (1).
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 4302 | 46:1454 46:1455 46:1456 46:1464(g) 46:1488 |
+
+
+Historical and Revision Notes
+
+4302
+
+“Not later than one year after the date of enactment of this Act [ Dec. 4, 2018 ], the Secretary of the department in which the Coast Guard is operating shall—
+
+In General
+
+Regulations
+
+In General.—
+
+Issuance
+
+Scope and content of regulations
+
+Deadline
+
+Interim compliance
+
+Definitions.—
+
+Beneficial owner
+
+Owner
+
+“The Secretary of Transportation, through the Coast Guard and in consultation with the National Transportation Safety Board and recreational boating organizations, shall, within 24 months of the date of the enactment of this Act [ Nov. 13, 1998 ], assess and report to Congress on the use of emergency position indicating beacons (EPIRBs) and similar devices by operators of recreational vessels on the Intracoastal Waterway and operators of recreational vessels beyond the Boundary Line. The assessment shall at a minimum—
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 530](https://www.govinfo.gov/link/statute/97/530); [Pub. L. 114–120, title III, § 303(a)](https://www.govinfo.gov/link/plaw/114/public/120), Feb. 8, 2016, [130 Stat. 53](https://www.govinfo.gov/link/statute/130/53); [Pub. L. 115–282, title VI, § 601(c)(4)(B)(i)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4290](https://www.govinfo.gov/link/statute/132/4290).)*

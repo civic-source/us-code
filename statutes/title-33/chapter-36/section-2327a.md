@@ -3,9 +3,10 @@ title: "Section 2327a - Rehabilitation of Corps of Engineers constructed pump st
 usc_title: 33
 usc_section: "2327a"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2327a"
-generated_at: "2026-03-30T02:55:41.125Z"
+generated_at: "2026-11-23T20:26:54.184Z"
+status: "active"
 ---
 
 # § 2327a. Rehabilitation of Corps of Engineers constructed pump stations
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:41.125Z"
 - **(e)** The rehabilitation of an eligible pump station pursuant to this section shall not be considered to be a separable element of the associated flood risk management project constructed by the Corps of Engineers.
 - **(f)** There is authorized to be appropriated to carry out this section $60,000,000, to remain available until expended.
 - **(g)** To the maximum extent practicable, the Secretary shall prioritize the rehabilitation of eligible pump stations under this section that benefit economically disadvantaged communities, as defined by the Secretary under section 160 of the Water Resources Development Act of 2020 ( 33 U.S.C. 2201 note), including economically disadvantaged communities located in urban and rural areas.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. AA, title I, § 133](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2647](https://www.govinfo.gov/link/statute/134/2647); [Pub. L. 117–263, div. H, title LXXXI, § 8152](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3733](https://www.govinfo.gov/link/statute/136/3733).)*

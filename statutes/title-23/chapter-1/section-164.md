@@ -3,9 +3,10 @@ title: "Section 164 - Minimum penalties for repeat offenders for driving while i
 usc_title: 23
 usc_section: "164"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 164"
-generated_at: "2026-03-30T02:55:12.561Z"
+generated_at: "2026-11-23T20:26:23.829Z"
+status: "active"
 ---
 
 # § 164. Minimum penalties for repeat offenders for driving while intoxicated or driving under the influence
@@ -60,3 +61,53 @@ generated_at: "2026-03-30T02:55:12.561Z"
         - **(I)** the amount of obligation authority distributed for the fiscal year to the State for Federal-aid highways and highway safety construction programs, bears to
         - **(II)** the total of the sums apportioned to the State for Federal-aid highways and highway safety construction programs (excluding sums not subject to any obligation limitation) for the fiscal year.
   - **(7)** Notwithstanding any other provision of law, no limitation on the total of obligations for highway safety programs under section 402 shall apply to funds transferred under this subsection to the apportionment of a State under such section.
+
+Definitions
+
+24-7 sobriety program
+
+Alcohol concentration
+
+Driving while intoxicated; driving under the influence
+
+Motor vehicle
+
+Repeat intoxicated driver law
+
+Special exception
+
+Transfer of Funds.—
+
+Fiscal years 2001 and 2002
+
+Fiscal year 2022 and thereafter
+
+Reservation of funds.—
+
+In general
+
+States described
+
+Transfer of funds
+
+Use for highway safety improvement program
+
+In general
+
+State departments of transportation
+
+Federal share
+
+Derivation of amount to be transferred
+
+Transfer of obligation authority.—
+
+In general
+
+Amount
+
+Limitation on applicability of obligation limitation
+
+## Source Credit
+
+*(Added [Pub. L. 105–178, title I, § 1406(a)](https://www.govinfo.gov/link/plaw/105/public/178), as added [Pub. L. 105–206, title IX, § 9005(a)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 845](https://www.govinfo.gov/link/statute/112/845); amended [Pub. L. 109–59, title I, § 1401(a)(3)(C)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1225](https://www.govinfo.gov/link/statute/119/1225); [Pub. L. 110–244, title I, § 115](https://www.govinfo.gov/link/plaw/110/public/244), June 6, 2008, [122 Stat. 1606](https://www.govinfo.gov/link/statute/122/1606); [Pub. L. 112–141, div. A, title I, § 1403](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 556](https://www.govinfo.gov/link/statute/126/556); [Pub. L. 114–94, div. A, title I](https://www.govinfo.gov/link/plaw/114/public/94), §§ 1414, 1446(a)(10), Dec. 4, 2015, [129 Stat. 1420](https://www.govinfo.gov/link/statute/129/1420), 1437; [Pub. L. 117–58, div. A, title I, § 11131(b)](https://www.govinfo.gov/link/plaw/117/public/58), div. B, title IV, § 24107, Nov. 15, 2021, [135 Stat. 510](https://www.govinfo.gov/link/statute/135/510), 807.)*

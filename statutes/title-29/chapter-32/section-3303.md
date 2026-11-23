@@ -3,9 +3,10 @@ title: "Section 3303 - State leadership activities"
 usc_title: 29
 usc_section: "3303"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3303"
-generated_at: "2026-03-30T02:55:18.762Z"
+generated_at: "2026-11-23T20:26:38.144Z"
+status: "active"
 ---
 
 # § 3303. State leadership activities
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:55:18.762Z"
     - **(M)** Other activities of statewide significance that promote the purpose of this subchapter.
 - **(b)** In carrying out this section, eligible agencies shall collaborate where possible, and avoid duplicating efforts, in order to maximize the impact of the activities described in subsection (a).
 - **(c)** Whenever a State or outlying area implements any rule or policy relating to the administration or operation of a program authorized under this subchapter that has the effect of imposing a requirement that is not imposed under Federal law (including any rule or policy based on a State or outlying area interpretation of a Federal statute, regulation, or guideline), the State or outlying area shall identify, to eligible providers, the rule or policy as being imposed by the State or outlying area.
+
+## Source Credit
+
+*([Pub. L. 113–128, title II, § 223](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1615](https://www.govinfo.gov/link/statute/128/1615).)*

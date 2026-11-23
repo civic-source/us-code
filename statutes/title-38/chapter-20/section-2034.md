@@ -3,9 +3,10 @@ title: "Section 2034 - Coordination with other agencies and organizations"
 usc_title: 38
 usc_section: "2034"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 2034"
-generated_at: "2026-03-30T02:55:53.494Z"
+generated_at: "2026-11-23T20:27:01.769Z"
+status: "active"
 ---
 
 # § 2034. Coordination with other agencies and organizations
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:53.494Z"
   - **(2)** seek to encourage the development by the representatives of such entities, in coordination with the director, of a plan to coordinate among such public and private programs the provision of services to homeless veterans;
   - **(3)** take appropriate action to meet, to the maximum extent practicable through existing programs and available resources, the needs of homeless veterans that are identified in the assessment conducted under subsection (b); and
   - **(4)** attempt to inform homeless veterans whose needs the director cannot meet under paragraph (3) of the services available to such veterans within the area served by such center or office.
+
+## Source Credit
+
+*(Added [Pub. L. 105–114, title II, § 202(a)](https://www.govinfo.gov/link/plaw/105/public/114), Nov. 21, 1997, [111 Stat. 2286](https://www.govinfo.gov/link/statute/111/2286), § 1774; renumbered § 2034 and amended [Pub. L. 107–95](https://www.govinfo.gov/link/plaw/107/public/95), §§ 5(b)(1), 6(b), Dec. 21, 2001, [115 Stat. 918](https://www.govinfo.gov/link/statute/115/918), 919.)*

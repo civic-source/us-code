@@ -3,9 +3,10 @@ title: "Section 717s - Enforcement of chapter"
 usc_title: 15
 usc_section: "717s"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 717s"
-generated_at: "2026-03-30T02:54:08.118Z"
+generated_at: "2026-11-23T20:26:03.906Z"
+status: "active"
 ---
 
 # § 717s. Enforcement of chapter
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:08.118Z"
   - **(2)** engaging in the business of—
     - **(A)** the purchasing or selling of natural gas; or
     - **(B)** the purchasing or selling of transmission services subject to the jurisdiction of the Commission.
+
+## Source Credit
+
+*(June 21, 1938, ch. 556, § 20, [52 Stat. 832](https://www.govinfo.gov/link/statute/52/832); June 25, 1948, ch. 646, § 1, [62 Stat. 875](https://www.govinfo.gov/link/statute/62/875), 895; [Pub. L. 109–58, title III, § 318](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 693](https://www.govinfo.gov/link/statute/119/693).)*

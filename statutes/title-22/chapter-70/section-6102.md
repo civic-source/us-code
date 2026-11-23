@@ -3,9 +3,10 @@ title: "Section 6102 - Program requirements"
 usc_title: 22
 usc_section: "6102"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6102"
-generated_at: "2026-03-30T02:55:05.425Z"
+generated_at: "2026-11-23T20:26:32.595Z"
+status: "active"
 ---
 
 # § 6102. Program requirements
@@ -32,3 +33,7 @@ The program established under this chapter shall comply with the following requi
   - **(9)** No fellow may engage in any intelligence or intelligence-related activity on behalf of the United States Government.
   - **(10)** The financial records of the Center shall be audited annually in accordance with generally accepted auditing standards by independent certified public accountants or independent licensed public accountants, certified or licensed by a regulatory authority of a State or other political subdivision of the United States. The audit shall be conducted at the place or places where the financial records of the Center are normally kept. All books, financial records, files, and other papers, things, and property belonging to or in use by the Center and necessary to facilitate the audit shall be made available to the person or persons conducting the audit, and full facilities for verifying transactions with the balances or securities held by depositories, fiscal agents, and custodians shall be afforded to such person or persons.
   - **(11)** The Center shall provide a report of the audit to the Director of the United States Information Agency no later than six months following the close of the fiscal year for which the audit is made. The report shall set forth the scope of the audit and include such statements, together with the independent auditor’s opinion of those statements, as are necessary to present fairly the Center’s assets and liabilities, surplus or deficit, with reasonable detail, including a statement of the Center’s income and expenses during the year, including a schedule of all contracts and grants requiring payments in excess of $5,000 and any payments of compensation, salaries, or fees at a rate in excess of $5,000 per year. The report shall be produced in sufficient copies for the public.
+
+## Source Credit
+
+*([Pub. L. 103–236, title II, § 253](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 428](https://www.govinfo.gov/link/statute/108/428).)*

@@ -3,9 +3,10 @@ title: "Section 1169 - Reporting of child abuse"
 usc_title: 18
 usc_section: "1169"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 1169"
-generated_at: "2026-03-30T02:54:16.482Z"
+generated_at: "2026-11-23T20:26:08.479Z"
+status: "active"
 ---
 
 # § 1169. Reporting of child abuse
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:54:16.482Z"
   - **(3)** “local child protective services agency” means that agency of the Federal Government, of a State, or of an Indian tribe that has the primary responsibility for child protection on any Indian reservation or within any community in Indian country; and
   - **(4)** “local law enforcement agency” means that Federal, tribal, or State law enforcement agency that has the primary responsibility for the investigation of an instance of alleged child abuse within the portion of Indian country involved.
 - **(d)** Any person making a report described in subsection (a) which is based upon their reasonable belief and which is made in good faith shall be immune from civil or criminal liability for making that report.
+
+## Source Credit
+
+*(Added [Pub. L. 101–630, title IV, § 404(a)(1)](https://www.govinfo.gov/link/plaw/101/public/630), Nov. 28, 1990, [104 Stat. 4547](https://www.govinfo.gov/link/statute/104/4547); amended [Pub. L. 103–322, title XXXIII](https://www.govinfo.gov/link/plaw/103/public/322), §§ 330011(d), 330016(1)(K), Sept. 13, 1994, [108 Stat. 2144](https://www.govinfo.gov/link/statute/108/2144), 2147; [Pub. L. 104–294, title VI, § 604(b)(25)](https://www.govinfo.gov/link/plaw/104/public/294), Oct. 11, 1996, [110 Stat. 3508](https://www.govinfo.gov/link/statute/110/3508).)*

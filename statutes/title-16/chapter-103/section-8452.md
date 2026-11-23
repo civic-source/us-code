@@ -3,9 +3,10 @@ title: "Section 8452 - Broadband internet connectivity at developed recreation s
 usc_title: 16
 usc_section: "8452"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 8452"
-generated_at: "2026-03-30T02:54:23.085Z"
+generated_at: "2026-11-23T20:26:20.884Z"
+status: "active"
 ---
 
 # § 8452. Broadband internet connectivity at developed recreation sites
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:23.085Z"
     - **(A)** geographic challenges; or
     - **(B)** the location having an insufficient number of nearby permanent residents, despite high seasonal or daily visitation levels; or
   - **(2)** that are located in an economically distressed county that could benefit significantly from developing the outdoor recreation economy of the county.
+
+## Source Credit
+
+*([Pub. L. 118–234, title I, § 142](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2864](https://www.govinfo.gov/link/statute/138/2864).)*

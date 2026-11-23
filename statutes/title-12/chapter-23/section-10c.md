@@ -3,9 +3,10 @@ title: "Section 10c - Corporation as conservator or receiver; certain other powe
 usc_title: 12
 usc_section: "10c"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 10c"
-generated_at: "2026-03-30T02:53:53.479Z"
+generated_at: "2026-11-23T20:25:59.268Z"
+status: "active"
 ---
 
 # § 2277a–10c. Corporation as conservator or receiver; certain other powers
@@ -481,3 +482,71 @@ generated_at: "2026-03-30T02:53:53.479Z"
   - **(1)** the Farm Credit Administration shall consult with the Corporation prior to taking a preresolution action concerning a System institution that may result in a conservatorship or receivership; and
   - **(2)** the Corporation, acting in the capacity of the Corporation as a conservator or receiver, shall consult with the Farm Credit Administration prior to taking any significant action impacting System institutions or service to System borrowers.
 - **(m)** This section shall become applicable with respect to the power of the Corporation to act as a conservator or receiver on the date on which the Farm Credit Administration appoints the Corporation as a conservator or receiver under section 2183 or 2279cc of this title.
+
+(aa) the System institution in receivership or conservatorship;
+
+(bb) System institutions;
+
+(cc) System institution stockholders or investors; or
+
+(dd) the Corporation.
+
+(aa) means— (AA) an agreement, including related terms, which provides for the transfer of one or more certificates of deposit, mortgage-related securities (as such term is defined in section 78c(a) of title 15 ), mortgage loans, interests in mortgage-related securities or mortgage loans, eligible bankers’ acceptances, qualified foreign government securities or securities that are direct obligations of, or that are fully guaranteed by, the United States or any agency of the United States against the transfer of funds by the transferee of such certificates of deposit, eligible bankers’ acceptances, securities, mortgage loans, or interests with a simultaneous agreement by such transferee to transfer to the transferor thereof certificates of deposit, eligible bankers’ acceptances, securities, mortgage loans, or interests as described above, at a date certain not later than 1 year after such transfers or on demand, against the transfer of funds, or any other similar agreement; (BB) any combination of agreements or transactions referred to in subitems (AA) and (CC); (CC) any option to enter into any agreement or transaction referred to in subitem (AA) or (BB); (DD) a master agreement that provides for an agreement or transaction referred to in subitem (AA), (BB), or (CC), together with all supplements to any such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a repurchase agreement under this item, except that the master agreement shall be considered to be a repurchase agreement under this item only with respect to each agreement or transaction under the master agreement that is referred to in subitem (AA), (BB), or (CC); and (EE) any security agreement or arrangement or other credit enhancement related to any agreement or transaction referred to in any of subitems (AA) through (DD), including any guarantee or reimbursement obligation in connection with any agreement or transaction referred to in any such subitem; and
+
+(bb) does not include any repurchase obligation under a participation in a commercial mortgage, 1 1 So in original. The comma probably should not appear. loan unless the Corporation determines by regulation, resolution, or order to include any such participation within the meaning of such term.
+
+(aa) a contract for the purchase, sale, or loan of a security, a certificate of deposit, a mortgage loan, any interest in a mortgage loan, a group or index of securities, certificates of deposit, or mortgage loans or interests therein (including any interest therein or based on the value thereof) or any option on any of the foregoing, including any option to purchase or sell any such security, certificate of deposit, mortgage loan, interest, group or index, or option, and including any repurchase or reverse repurchase transaction on any such security, certificate of deposit, mortgage loan, interest, group or index, or option (whether or not the repurchase or reverse repurchase transaction is a repurchase agreement);
+
+(bb) any option entered into on a national securities exchange relating to foreign currencies;
+
+(cc) the guarantee (including by novation) by or to any securities clearing agency of any settlement of cash, securities, certificates of deposit, mortgage loans or interests therein, group or index of securities, certificates of deposit, or mortgage loans or interests therein (including any interest therein or based on the value thereof) or option on any of the foregoing, including any option to purchase or sell any such security, certificate of deposit, mortgage loan, interest, group or index, or option (whether or not the settlement is in connection with any agreement or transaction referred to in any of items (aa), (bb), and (dd) through (kk));
+
+(dd) any margin loan;
+
+(ee) any extension of credit for the clearance or settlement of securities transactions;
+
+(ff) any loan transaction coupled with a securities collar transaction, any prepaid securities forward transaction, or any total return swap transaction coupled with a securities sale transaction;
+
+(gg) any other agreement or transaction that is similar to any agreement or transaction referred to in this subclause;
+
+(hh) any combination of the agreements or transactions referred to in this subclause;
+
+(ii) any option to enter into any agreement or transaction referred to in this subclause;
+
+(jj) a master agreement that provides for an agreement or transaction referred to in any of items (aa) through (ii), together with all supplements to any such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a securities contract under this subclause, except that the master agreement shall be considered to be a securities contract under this subclause only with respect to each agreement or transaction under the master agreement that is referred to in item (aa), (bb), (cc), (dd), (ee), (ff), (gg), (hh), or (ii); and
+
+(kk) any security agreement or arrangement or other credit enhancement related to any agreement or transaction referred to in this subclause, including any guarantee or reimbursement obligation in connection with any agreement or transaction referred to in this subclause; and
+
+(aa) an interest rate swap, option, future, or forward agreement, including a rate floor, rate cap, rate collar, cross-currency rate swap, and basis swap;
+
+(bb) a spot, same day-tomorrow, tomorrow-next, forward, or other foreign exchange precious metals or other commodity agreement;
+
+(cc) a currency swap, option, future, or forward agreement;
+
+(dd) an equity index or equity swap, option, future, or forward agreement;
+
+(ee) a debt index or debt swap, option, future, or forward agreement;
+
+(ff) a total return, credit spread or credit swap, option, future, or forward agreement;
+
+(gg) a commodity index or commodity swap, option, future, or forward agreement;
+
+(hh) a weather swap, option, future, or forward agreement;
+
+(ii) an emissions swap, option, future, or forward agreement; or
+
+(jj) an inflation swap, option, future, or forward agreement;
+
+(aa) the status of the party as a nondefaulting party in connection with the insolvency of a System institution that is a party to the contract; or
+
+(bb) the appointment of, or the exercise of rights or powers by, the Corporation as a conservator or receiver of the System institution; and
+
+(aa) the contract;
+
+(bb) any other contract between those parties; or
+
+(cc) applicable law.
+
+## Source Credit
+
+*([Pub. L. 92–181, title V, § 5](https://www.govinfo.gov/link/plaw/92/public/181).61C, as added [Pub. L. 115–334, title V, § 5412](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4686](https://www.govinfo.gov/link/statute/132/4686).)*

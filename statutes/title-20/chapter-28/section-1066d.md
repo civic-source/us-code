@@ -3,9 +3,10 @@ title: "Section 1066d - Authority of Secretary"
 usc_title: 20
 usc_section: "1066d"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1066d"
-generated_at: "2026-03-30T02:54:48.102Z"
+generated_at: "2026-11-23T20:26:14.350Z"
+status: "active"
 ---
 
 # § 1066d. Authority of Secretary
@@ -32,3 +33,7 @@ In the performance of, and with respect to, the functions vested in the Secretar
   - **(8)** may include in any contract such other covenants, conditions, or provisions necessary to ensure that the purposes of this part will be achieved;
   - **(9)** may, directly or by grant or contract, provide technical assistance to eligible institutions to prepare the institutions to qualify, apply for, and maintain a capital improvement loan, including a loan under this part; and
   - **(10)** not later than 120 days after August 14, 2008 , shall submit to the authorizing committees a report on the progress of the Department in implementing the recommendations made by the Government Accountability Office in October 2006 for improving the Historically Black College and Universities Capital Financing Program.
+
+## Source Credit
+
+*([Pub. L. 89–329, title III, § 345](https://www.govinfo.gov/link/plaw/89/public/329), formerly title VII, § 725, as added [Pub. L. 102–325, title VII, § 704](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 745](https://www.govinfo.gov/link/statute/106/745); amended [Pub. L. 103–208, § 2(j)(16)](https://www.govinfo.gov/link/plaw/103/public/208), Dec. 20, 1993, [107 Stat. 2481](https://www.govinfo.gov/link/statute/107/2481); renumbered title III, § 345, and amended [Pub. L. 105–244, title III](https://www.govinfo.gov/link/plaw/105/public/244), §§ 301(a)(3), (4), (c)(6), 306(c), Oct. 7, 1998, [112 Stat. 1636](https://www.govinfo.gov/link/statute/112/1636), 1637, 1647; [Pub. L. 110–315, title III, § 314(d)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3181](https://www.govinfo.gov/link/statute/122/3181).)*

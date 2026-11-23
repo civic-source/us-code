@@ -3,9 +3,10 @@ title: "Section 3603 - Integrated Coastal and Ocean Observing System"
 usc_title: 33
 usc_section: "3603"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 3603"
-generated_at: "2026-03-30T02:55:41.142Z"
+generated_at: "2026-11-23T20:26:54.267Z"
+status: "active"
 ---
 
 # § 3603. Integrated Coastal and Ocean Observing System
@@ -127,3 +128,7 @@ generated_at: "2026-03-30T02:55:41.142Z"
     - **(E)** Section 1013 of title 5 shall not apply to the System advisory committee.
 - **(e)** For purposes of determining liability arising from the dissemination and use of observation data gathered pursuant to this section, any non-Federal asset or regional coastal observing system incorporated into the System by a memorandum of agreement of certification under subsection (c)(3)(C)(iii) that is participating in the System shall be considered to be part of the National Oceanic and Atmospheric Administration. Any employee of such a non-Federal asset or regional coastal observing system, while operating within the scope of his or her employment in carrying out the purposes of this chapter, with respect to tort liability, is deemed to be an employee of the Federal Government.
 - **(f)** Nothing in this chapter shall be construed to invalidate existing certifications, contracts, or agreements between regional coastal observing systems and other elements of the System.
+
+## Source Credit
+
+*([Pub. L. 111–11, title XII, § 12304](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1429](https://www.govinfo.gov/link/statute/123/1429); [Pub. L. 116–271, title I, § 103](https://www.govinfo.gov/link/plaw/116/public/271), Dec. 31, 2020, [134 Stat. 3333](https://www.govinfo.gov/link/statute/134/3333); [Pub. L. 117–286, § 4(a)(209)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4329](https://www.govinfo.gov/link/statute/136/4329).)*

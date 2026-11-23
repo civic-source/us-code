@@ -3,9 +3,10 @@ title: "Section 51504 - Use of training vessels"
 usc_title: 46
 usc_section: "51504"
 chapter: 515
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 51504"
-generated_at: "2026-03-30T02:56:15.571Z"
+generated_at: "2026-11-23T20:27:27.294Z"
+status: "active"
 ---
 
 # § 51504. Use of training vessels
@@ -37,3 +38,89 @@ generated_at: "2026-03-30T02:56:15.571Z"
     - **(D)** identifying ways to minimize costs.
   - **(3)** Subject to the availability of appropriations, the Maritime Administrator may provide additional funding to State maritime academies during periods of limited training vessel capacity, for costs associated with training vessel sharing.
   - **(4)** Not later than 30 days after the beginning of each fiscal year, the Secretary, acting through the Maritime Administrator, shall evaluate the vessel sharing program under this subsection to determine the optimal utilization of State maritime training vessels, and modify the program as necessary to improve utilization.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 51504(a) | 46 App.:1295c(c)(1) (A)(ii), (v). | June 29, 1936, ch. 858 , title XIII, § 1304(c)(1), (2), as added Pub. L. 96–453, § 2 , Oct. 15, 1980 , 94 Stat. 2003 . |
+| 51504(b) | 46 App.:1295c(c)(1) (A) (1st sentence words before “meeting the requirements”). |  |
+| 51504(c)(1) | 46 App.:1295c(c)(1) (A)(ii). |  |
+| 51504(c)(2) | 46 App.:1295c(c)(1) (A) (1st sentence words beginning with “meeting the requirements”). |  |
+| 51504(c)(3) | 46 App.:1295c(c)(1) (A)(iii). |  |
+| 51504(d)(1) | 46 App.:1295c(c)(1) (A)(i). |  |
+| 51504(d)(2) | 46 App.:1295c(c)(1) (A)(iv). |  |
+| 51504(e) | 46 App.:1295c(c)(1) (B). |  |
+| 51504(f) | 46 App.:1295c(c)(2). |  |
+| 51504(g) | 46 App.:1295c note. | Pub. L. 101–115, § 4 , Oct. 13, 1989 , 103 Stat. 692 ; Pub. L. 101–595, title VII, § 705 , Nov. 16, 1990 , 104 Stat. 2994 . |
+
+
+Applications To Use Vessels
+
+General Authority
+
+Approval Requirements
+
+Preparation and Maintenance
+
+Agency Vessels
+
+Fuel Costs.—
+
+In general
+
+Maximum amounts
+
+Vessel Sharing.—
+
+In general
+
+Program of vessel sharing
+
+Additional funding
+
+Evaluation
+
+Historical and Revision Notes
+
+51504(a)
+
+June 29, 1936, ch. 858
+
+Pub. L. 96–453, § 2
+
+Oct. 15, 1980
+
+94 Stat. 2003
+
+51504(b)
+
+51504(c)(1)
+
+51504(c)(2)
+
+51504(c)(3)
+
+51504(d)(1)
+
+51504(d)(2)
+
+51504(e)
+
+51504(f)
+
+51504(g)
+
+Pub. L. 101–115, § 4
+
+Oct. 13, 1989
+
+103 Stat. 692
+
+Pub. L. 101–595, title VII, § 705
+
+Nov. 16, 1990
+
+104 Stat. 2994
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(b)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1577](https://www.govinfo.gov/link/statute/120/1577); [Pub. L. 109–163, div. C, title XXXV, § 3502(b)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3548](https://www.govinfo.gov/link/statute/119/3548); [Pub. L. 110–181, div. C, title XXXV, § 3523(a)(2)](https://www.govinfo.gov/link/plaw/110/public/181), (b), Jan. 28, 2008, [122 Stat. 599](https://www.govinfo.gov/link/statute/122/599), 600; [Pub. L. 115–232, div. C, title XXXV, § 3505](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2308](https://www.govinfo.gov/link/statute/132/2308).)*

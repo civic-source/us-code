@@ -3,9 +3,10 @@ title: "Section 8521 - Minimum automobile fuel purchase measures"
 usc_title: 42
 usc_section: "8521"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8521"
-generated_at: "2026-03-30T02:56:11.344Z"
+generated_at: "2026-11-23T20:27:23.049Z"
+status: "active"
 ---
 
 # § 8521. Minimum automobile fuel purchase measures
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:56:11.344Z"
 - **(h)** The charging and collecting of amounts referred to in subsection (a)(2) under the requirements of subsection (a), or similar amounts collected under comparable requirements under any State law, shall not be considered a violation of—
   - **(1)** the Emergency Petroleum Allocation Act of 1973 1 1 See References in Text note below. [ 15 U.S.C. 751 et seq.] or any regulation thereunder; or
   - **(2)** any Federal or State law requiring the labeling or disclosure of the maximum price per gallon of any fuel.
+
+## Source Credit
+
+*([Pub. L. 96–102, title II, § 221](https://www.govinfo.gov/link/plaw/96/public/102), Nov. 5, 1979, [93 Stat. 765](https://www.govinfo.gov/link/statute/93/765).)*

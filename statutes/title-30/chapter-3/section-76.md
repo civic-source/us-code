@@ -3,12 +3,17 @@ title: "Section 76 - Reservation of rights upon coal lands; sale of certain mini
 usc_title: 30
 usc_section: "76"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 76"
-generated_at: "2026-03-30T02:55:29.377Z"
+generated_at: "2026-11-23T20:26:34.905Z"
+status: "active"
 ---
 
 # § 76. Reservation of rights upon coal lands; sale of certain mining lands
 
 Nothing in sections 71 to 75 of this title shall be construed to destroy or impair any rights which may have attached prior to the third day of March, 1873, or to authorize the sale of lands valuable for mines of gold, silver, or copper.
 
+
+## Source Credit
+
+*(R.S. § 2352.)*

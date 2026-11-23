@@ -3,9 +3,10 @@ title: "Section 8752 - Base acres for peanuts for a farm"
 usc_title: 7
 usc_section: "8752"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 8752"
-generated_at: "2026-03-30T02:53:42.480Z"
+generated_at: "2026-11-23T20:25:41.910Z"
+status: "active"
 ---
 
 # § 8752. Base acres for peanuts for a farm
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:53:42.480Z"
     - **(A)** a socially disadvantaged farmer or rancher (as defined in section 2003(e) of this title ; 1 1 So in original. There probably should be a closing parenthesis after “title”. or
     - **(B)** a limited resource farmer or rancher, as defined by the Secretary.
   - **(3)** Paragraphs (1) and (2) shall not apply during the 2008 crop year.
+
+## Source Credit
+
+*([Pub. L. 110–234, title I, § 1302](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 968](https://www.govinfo.gov/link/statute/122/968); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1302, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1696; [Pub. L. 110–398, § 1(a)(2)](https://www.govinfo.gov/link/plaw/110/public/398), Oct. 13, 2008, [122 Stat. 4213](https://www.govinfo.gov/link/statute/122/4213); [Pub. L. 113–188, title I, § 101(a)](https://www.govinfo.gov/link/plaw/113/public/188), Nov. 26, 2014, [128 Stat. 2017](https://www.govinfo.gov/link/statute/128/2017).)*

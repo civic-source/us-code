@@ -3,9 +3,10 @@ title: "Section 7202 - Restriction"
 usc_title: 22
 usc_section: "7202"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7202"
-generated_at: "2026-03-30T02:55:05.439Z"
+generated_at: "2026-11-23T20:26:32.659Z"
+status: "active"
 ---
 
 # § 7202. Restriction
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:05.439Z"
     - **(B)** describes the actions by the foreign country or foreign entity that justify the sanction; and
   - **(2)** there is enacted into law a joint resolution stating the approval of Congress for the report submitted under paragraph (1).
 - **(b)** The President shall terminate any unilateral agricultural sanction or unilateral medical sanction that is in effect as of October 28, 2000 .
+
+## Source Credit
+
+*([Pub. L. 106–387, § 1(a) [title IX, § 903]](https://www.govinfo.gov/link/plaw/106/public/387), Oct. 28, 2000, [114 Stat. 1549](https://www.govinfo.gov/link/statute/114/1549), 1549A–68.)*

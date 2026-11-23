@@ -3,9 +3,10 @@ title: "Section 13711 - Alternative procedure for resolving undercharge disputes
 usc_title: 49
 usc_section: "13711"
 chapter: 137
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 13711"
-generated_at: "2026-03-30T02:56:19.330Z"
+generated_at: "2026-11-23T20:27:34.745Z"
+status: "active"
 ---
 
 # § 13711. Alternative procedure for resolving undercharge disputes
@@ -24,3 +25,25 @@ generated_at: "2026-03-30T02:56:19.330Z"
 - **(e)** If a person elects to seek enforcement of subsection (a) with respect to a rate for a transportation or service, section 13709 shall not apply to such rate.
 - **(f)** In this section, the term “negotiated rate” means a rate, charge, classification, or rule agreed upon by a motor carrier or freight forwarder and a shipper through negotiations pursuant to which no tariff was lawfully and timely filed and for which there is written evidence of such agreement.
 - **(g)** This section shall apply to all cases and proceedings pending on January 1, 1996 .
+
+General Rule
+
+Jurisdiction of Board.—
+
+Determination
+
+Factors to consider
+
+Stay of Additional Compensation
+
+Treatment
+
+Nonapplicability of Negotiated Rate Dispute Resolution Procedure
+
+Definitions
+
+Applicability to Pending Cases
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 877](https://www.govinfo.gov/link/statute/109/877); amended [Pub. L. 104–287, § 5(31)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3391](https://www.govinfo.gov/link/statute/110/3391).)*

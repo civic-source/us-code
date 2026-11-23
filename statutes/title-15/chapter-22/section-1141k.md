@@ -3,9 +3,10 @@ title: "Section 1141k - Duration, affidavits and fees"
 usc_title: 15
 usc_section: "1141k"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1141k"
-generated_at: "2026-03-30T02:54:08.128Z"
+generated_at: "2026-11-23T20:26:03.970Z"
+status: "active"
 ---
 
 # § 1141k. Duration, affidavits and fees
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:08.128Z"
 - **(d)** Special notice of the requirement for such affidavit shall be attached to each certificate of extension of protection.
 - **(e)** The Director shall notify the holder of the international registration who files any affidavit required by this section of the Director’s acceptance or refusal thereof and, in the case of a refusal, the reasons therefor.
 - **(f)** If the holder of the international registration of the mark is not domiciled in the United States, the holder may designate, by a document filed in the United States Patent and Trademark Office, the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the last designated address, or if the holder does not designate by a document filed in the United States Patent and Trademark Office the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark, such notices or process may be served on the Director.
+
+## Source Credit
+
+*(July 5, 1946, ch. 540, title XII, § 71, as added [Pub. L. 107–273, div. C, title III, § 13402](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1919](https://www.govinfo.gov/link/statute/116/1919); amended [Pub. L. 111–146, § 3(d)(2)](https://www.govinfo.gov/link/plaw/111/public/146), Mar. 17, 2010, [124 Stat. 68](https://www.govinfo.gov/link/statute/124/68).)*

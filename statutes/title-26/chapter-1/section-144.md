@@ -3,9 +3,10 @@ title: "Section 144 - Qualified small issue bond; qualified student loan bond; q
 usc_title: 26
 usc_section: "144"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 144"
-generated_at: "2026-03-30T02:55:27.632Z"
+generated_at: "2026-11-23T20:26:45.391Z"
+status: "active"
 ---
 
 # § 144. Qualified small issue bond; qualified student loan bond; qualified redevelopment bond
@@ -146,3 +147,11 @@ generated_at: "2026-03-30T02:55:27.632Z"
     - **(B)** no portion of the proceeds of such issue is to be used to provide (including the provision of land for) any private or commercial golf course, country club, massage parlor, hot tub facility, suntan facility, racetrack or other facility used for gambling, or any store the principal business of which is the sale of alcoholic beverages for consumption off premises.
   - **(7)** For purposes of this subsection, the term “financed area” means, with respect to any issue, the portion of the designated blighted area with respect to which the proceeds of such issue are to be used.
   - **(8)** Section 147(c) (other than paragraphs (1)(B) and (2) thereof) shall not apply to any qualified redevelopment bond.
+
+In general
+
+Refundings
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title XIII, § 1301(b)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2621](https://www.govinfo.gov/link/statute/100/2621); amended [Pub. L. 100–647, title I, § 1013(a)(4)(A)](https://www.govinfo.gov/link/plaw/100/public/647), (B)(i), (ii), (C), (5), title VI, § 6176(a), Nov. 10, 1988, [102 Stat. 3537](https://www.govinfo.gov/link/statute/102/3537), 3538, 3726; [Pub. L. 101–239, title VII, § 7105](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2306](https://www.govinfo.gov/link/statute/103/2306); [Pub. L. 101–508, title XI, § 11409(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–478](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 102–227, title I, § 109(a)](https://www.govinfo.gov/link/plaw/102/public/227), Dec. 11, 1991, [105 Stat. 1688](https://www.govinfo.gov/link/statute/105/1688); [Pub. L. 103–66, title XIII, § 13122(a)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 432](https://www.govinfo.gov/link/statute/107/432); [Pub. L. 108–357, title III, § 340](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1485](https://www.govinfo.gov/link/statute/118/1485); [Pub. L. 109–222, title II, § 208](https://www.govinfo.gov/link/plaw/109/public/222), May 17, 2006, [120 Stat. 351](https://www.govinfo.gov/link/statute/120/351); [Pub. L. 111–5, div. B, title I, § 1301(a)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 344](https://www.govinfo.gov/link/statute/123/344); [Pub. L. 119–21, title VII, § 70302(b)(5)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 192](https://www.govinfo.gov/link/statute/139/192).)*

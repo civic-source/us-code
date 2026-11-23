@@ -3,9 +3,10 @@ title: "Section 121a - Repealed. Pub. L. 105–275, title I, § 6(h)(1) , Oct. 2
 usc_title: 2
 usc_section: "121a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 121a"
-generated_at: "2026-03-30T02:53:04.787Z"
+generated_at: "2026-11-23T20:25:28.835Z"
+status: "repealed"
 ---
 
 # § 121a. Repealed. Pub. L. 105–275, title I, § 6(h)(1) , Oct. 21, 1998 , 112 Stat. 2434

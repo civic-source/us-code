@@ -3,9 +3,10 @@ title: "Section 1751 - Designation of fairs"
 usc_title: 19
 usc_section: "1751"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1751"
-generated_at: "2026-03-30T02:54:24.660Z"
+generated_at: "2026-11-23T20:26:10.883Z"
+status: "active"
 ---
 
 # § 1751. Designation of fairs
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:24.660Z"
   - **(1)** The term “fair” means any fair, exhibition, or exposition designated by the Secretary of Commerce pursuant to this section.
   - **(2)** The term “closing date” in the case of any fair means the date designated pursuant to subsection (a)(3) as the date when the fair will close, or (if earlier) the date on which such fair actually closes.
 - **(c)** The Secretary of Commerce may prescribe such regulations as he deems necessary or appropriate to carry out the provisions of this section.
+
+## Source Credit
+
+*([Pub. L. 86–14, § 2](https://www.govinfo.gov/link/plaw/86/public/14), Apr. 22, 1959, [73 Stat. 18](https://www.govinfo.gov/link/statute/73/18).)*

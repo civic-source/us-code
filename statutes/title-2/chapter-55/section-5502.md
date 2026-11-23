@@ -3,9 +3,10 @@ title: "Section 5502 - House emergency operations positions"
 usc_title: 2
 usc_section: "5502"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 5502"
-generated_at: "2026-03-30T02:53:04.836Z"
+generated_at: "2026-11-23T20:25:29.060Z"
+status: "active"
 ---
 
 # § 5502. House emergency operations positions
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:04.836Z"
 - **(b)** The duty of the personnel appointed to a position established under this section shall be to ensure the continuity of the operations of the House of Representatives during periods of emergency, in accordance with the direction of the head of the office in which the position is established.
 - **(c)** The annual rate of pay provided for a position established under this section shall be determined by the head of the office in which the position is established.
 - **(d)** Notwithstanding any other provision of law, the head of the office in which a position is established under this section shall have the exclusive authority to appoint personnel to such a position.
+
+## Source Credit
+
+*([Pub. L. 107–68, title I, § 118](https://www.govinfo.gov/link/plaw/107/public/68), Nov. 12, 2001, [115 Stat. 573](https://www.govinfo.gov/link/statute/115/573).)*

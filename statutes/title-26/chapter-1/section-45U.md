@@ -3,9 +3,10 @@ title: "Section 45U - Zero-emission nuclear power production credit"
 usc_title: 26
 usc_section: "45U"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 45U"
-generated_at: "2026-03-30T02:55:27.605Z"
+generated_at: "2026-11-23T20:26:45.227Z"
+status: "active"
 ---
 
 # § 45U. Zero-emission nuclear power production credit
@@ -46,3 +47,11 @@ generated_at: "2026-03-30T02:55:27.605Z"
     - **(B)** Rules similar to the rules of section 45(b)(7)(B) shall apply.
   - **(3)** The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.
 - **(e)** This section shall not apply to taxable years beginning after December 31, 2032 .
+
+(aa) 2.5 cents, multiplied by
+
+(bb) the amount determined under subsection (a)(1)(B).
+
+## Source Credit
+
+*(Added and amended [Pub. L. 117–169, title I](https://www.govinfo.gov/link/plaw/117/public/169), §§ 13105(a), 13204(b)(2), Aug. 16, 2022, [136 Stat. 1929](https://www.govinfo.gov/link/statute/136/1929), 1940; [Pub. L. 119–21, title VII, § 70510(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 252](https://www.govinfo.gov/link/statute/139/252).)*

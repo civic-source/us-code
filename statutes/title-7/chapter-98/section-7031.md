@@ -3,9 +3,10 @@ title: "Section 7031 - Electronic filing and retrieval"
 usc_title: 7
 usc_section: "7031"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7031"
-generated_at: "2026-03-30T02:53:42.443Z"
+generated_at: "2026-11-23T20:25:41.750Z"
+status: "active"
 ---
 
 # § 7031. Electronic filing and retrieval
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:42.443Z"
     - **(A)** use computer hardware and software that is compatible among the agencies and will operate in a common computing environment; and
     - **(B)** develop common Internet user-interface locations and applications to consolidate the agencies’ news, information, and program materials.
 - **(d)** Not later than 180 days after June 20, 2000 , the Secretary shall submit to Congress a report that describes the progress made toward implementing the Internet-based system required under this section.
+
+## Source Credit
+
+*([Pub. L. 106–222, § 2](https://www.govinfo.gov/link/plaw/106/public/222), June 20, 2000, [114 Stat. 353](https://www.govinfo.gov/link/statute/114/353).)*

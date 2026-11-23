@@ -3,12 +3,17 @@ title: "Section 59 - Functions and activities of business development companies"
 usc_title: 15
 usc_section: "59"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 59"
-generated_at: "2026-03-30T02:54:08.070Z"
+generated_at: "2026-11-23T20:26:03.625Z"
+status: "active"
 ---
 
 # § 80a–59. Functions and activities of business development companies
 
 Notwithstanding the exemption set forth in section 80a–6(f) of this title , section 80a–12 of this title shall apply to a business development company to the same extent as if it were a registered closed-end investment company, except that the Commission shall not prescribe any rule, regulation, or order pursuant to section 80a–12(a)(1) of this title governing the circumstances in which a business development company may borrow from a bank in order to purchase any security.
 
+
+## Source Credit
+
+*(Aug. 22, 1940, ch. 686, title I, § 60, as added [Pub. L. 96–477, title I, § 105](https://www.govinfo.gov/link/plaw/96/public/477), Oct. 21, 1980, [94 Stat. 2285](https://www.govinfo.gov/link/statute/94/2285).)*

@@ -3,9 +3,10 @@ title: "Section 10403 - Grant eligibility"
 usc_title: 34
 usc_section: "10403"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10403"
-generated_at: "2026-03-30T02:55:33.267Z"
+generated_at: "2026-11-23T20:26:50.465Z"
+status: "active"
 ---
 
 # § 10403. Grant eligibility
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:55:33.267Z"
 - **(f)** In this section:
   - **(1)** The term “discretionary” means that a system of graduated sanctions is not required to be imposed by each and every juvenile court in a State or unit of local government.
   - **(2)** The term “sanctions” means tangible, proportional consequences that hold the juvenile offender accountable for the offense committed. A sanction may include counseling, restitution, community service, a fine, supervised probation, or confinement.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 1802](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 107–273, div. C, title II, § 12102(a)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1861](https://www.govinfo.gov/link/statute/116/1861); amended [Pub. L. 109–162, title XI, § 1168(a)](https://www.govinfo.gov/link/plaw/109/public/162), formerly § 1168, Jan. 5, 2006, [119 Stat. 3122](https://www.govinfo.gov/link/statute/119/3122), renumbered § 1168(a), [Pub. L. 109–271, § 8(n)(5)(A)](https://www.govinfo.gov/link/plaw/109/public/271), Aug. 12, 2006, [120 Stat. 768](https://www.govinfo.gov/link/statute/120/768).)*

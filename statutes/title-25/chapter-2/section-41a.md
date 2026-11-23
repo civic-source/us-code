@@ -3,12 +3,17 @@ title: "Section 41a - Indian inspectors"
 usc_title: 25
 usc_section: "41a"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 41a"
-generated_at: "2026-03-30T02:54:52.797Z"
+generated_at: "2026-11-23T20:26:25.344Z"
+status: "active"
 ---
 
 # § 41a. Indian inspectors
 
 Indian inspectors shall on and after March 4, 1909 be termed inspectors, and shall be included in the classified service.
 
+
+## Source Credit
+
+*(Mar. 4, 1909, ch. 297, § 1, [35 Stat. 888](https://www.govinfo.gov/link/statute/35/888).)*

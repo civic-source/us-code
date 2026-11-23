@@ -3,9 +3,10 @@ title: "Section 7582 - Requirements applicable to clean-fuel vehicles"
 usc_title: 42
 usc_section: "7582"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7582"
-generated_at: "2026-03-30T02:56:11.316Z"
+generated_at: "2026-11-23T20:27:22.921Z"
+status: "active"
 ---
 
 # § 7582. Requirements applicable to clean-fuel vehicles
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.316Z"
   - **(2)** In the case of light-duty trucks of more than 6,000 lbs gvwr, the useful life for purposes of determining in-use compliance with the standards under section 7583 of this title shall be—
     - **(A)** a period of 5 years or 50,000 miles (or the equivalent) whichever first occurs in the case of standards applicable for purposes of certification at 50,000 miles; and
     - **(B)** a period of 11 years or 120,000 miles (or the equivalent) whichever first occurs in the case of standards applicable for purposes of certification at 120,000 miles, except that in-use testing shall not be done for a period beyond 7 years or 90,000 miles (or the equivalent) whichever first occurs.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title II, § 242, as added [Pub. L. 101–549, title II, § 229(a)](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2513](https://www.govinfo.gov/link/statute/104/2513).)*

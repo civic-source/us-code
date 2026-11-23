@@ -3,9 +3,10 @@ title: "Section 284j - Expropriation of United States property; loan restriction
 usc_title: 22
 usc_section: "284j"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 284j"
-generated_at: "2026-03-30T02:55:05.317Z"
+generated_at: "2026-11-23T20:26:31.992Z"
+status: "active"
 ---
 
 # § 284j. Expropriation of United States property; loan restrictions
@@ -15,3 +16,7 @@ The President shall instruct the United States Executive Directors of the Intern
   - **(1)** nationalized or expropriated or seized ownership or control of property owned by any United States citizen or by any corporation, partnership, or association not less than 50 per centum of which is beneficially owned by the United States citizens;
   - **(2)** taken steps to repudiate or nullify existing contracts or agreements with any United States citizen or any corporation, partnership, or association not less than 50 per centum of which is beneficially owned by United States citizens; or
   - **(3)** imposed or enforced discriminatory taxes or other exactions, or restrictive maintenance or operational conditions, or has taken other actions, which have the effect of nationalizing, expropriating, or otherwise seizing ownership or control of property so owned;
+
+## Source Credit
+
+*([Pub. L. 86–565, § 12](https://www.govinfo.gov/link/plaw/86/public/565), as added [Pub. L. 92–247, § 1](https://www.govinfo.gov/link/plaw/92/public/247), Mar. 10, 1972, [86 Stat. 60](https://www.govinfo.gov/link/statute/86/60).)*

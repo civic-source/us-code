@@ -3,12 +3,17 @@ title: "Section 111a - Authorization for acquisition of additional lands"
 usc_title: 16
 usc_section: "111a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 111a"
-generated_at: "2026-03-30T02:54:22.734Z"
+generated_at: "2026-11-23T20:26:19.368Z"
+status: "active"
 ---
 
 # § 111a. Authorization for acquisition of additional lands
 
 For the purpose of protecting the scenery along the Point Lookout Road between the north boundary of the Mesa Verde National Park and this road’s juncture with the Cortez-Mancos Road, the President of the United States is authorized, upon the recommendation of the Secretary of the Interior, to add to the said Mesa Verde National Park, Colorado, by executive proclamation, a strip of land two hundred and sixty feet wide along and including said Point Lookout Road, and the triangle formed by the fork in said road and such other public land along or adjacent to said road and right-of-way and lands as may be acquired by gift or by exchanges as hereinafter provided, which lands shall thereupon become and be a part of said park subject to all laws and regulations applicable thereto.
 
+
+## Source Credit
+
+*(Feb. 26, 1931, ch. 308, § 1, [46 Stat. 1422](https://www.govinfo.gov/link/statute/46/1422).)*

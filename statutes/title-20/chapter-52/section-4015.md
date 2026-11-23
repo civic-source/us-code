@@ -3,9 +3,10 @@ title: "Section 4015 - Administrative provisions"
 usc_title: 20
 usc_section: "4015"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 4015"
-generated_at: "2026-03-30T02:54:48.182Z"
+generated_at: "2026-11-23T20:26:14.752Z"
+status: "active"
 ---
 
 # § 4015. Administrative provisions
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:48.182Z"
   - **(1)** procedures for testing the level of asbestos fibers in schools, including safety measures to be followed in conducting such tests;
   - **(2)** standards for evaluating (on the basis of such tests) the likelihood of the leakage of asbestos fibers into the school environment; and
   - **(3)** periodic reporting with respect to the activities that have taken place using funds loaned or granted under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 98–377, title V, § 506](https://www.govinfo.gov/link/plaw/98/public/377), Aug. 11, 1984, [98 Stat. 1292](https://www.govinfo.gov/link/statute/98/1292); [Pub. L. 101–637](https://www.govinfo.gov/link/plaw/101/public/637), §§ 7, 14(a)(6), (b)(8), (9), Nov. 28, 1990, [104 Stat. 4592](https://www.govinfo.gov/link/statute/104/4592), 4594, 4595.)*

@@ -3,9 +3,10 @@ title: "Section 5363 - Acquisitions"
 usc_title: 12
 usc_section: "5363"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5363"
-generated_at: "2026-03-30T02:53:53.530Z"
+generated_at: "2026-11-23T20:25:59.474Z"
+status: "active"
 ---
 
 # § 5363. Acquisitions
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:53.530Z"
   - **(3)** The notice procedures set forth in section 1843(j)(1) of this title , without regard to section 1843(j)(3) of this title , shall apply to an acquisition of any company (other than an insured depository institution) by a bank holding company with total consolidated assets equal to or greater than $250,000,000,000 or a nonbank financial company supervised by the Board of Governors, as described in paragraph (1), including any such company engaged in activities described in section 1843(k) of this title .
   - **(4)** In addition to the standards provided in section 1843(j)(2) of this title , the Board of Governors shall consider the extent to which the proposed acquisition would result in greater or more concentrated risks to global or United States financial stability or the United States economy.
   - **(5)** Solely for purposes of section 18a(c)(8) of title 15 , the transactions subject to the requirements of paragraph (1) shall be treated as if Board of Governors approval is not required.
+
+## Source Credit
+
+*([Pub. L. 111–203, title I, § 163](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1422](https://www.govinfo.gov/link/statute/124/1422); [Pub. L. 115–174, title IV, § 401(c)(1)(E)](https://www.govinfo.gov/link/plaw/115/public/174), May 24, 2018, [132 Stat. 1358](https://www.govinfo.gov/link/statute/132/1358).)*

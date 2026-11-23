@@ -3,9 +3,10 @@ title: "Section 6304 - Annual leave; accumulation"
 usc_title: 5
 usc_section: "6304"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 6304"
-generated_at: "2026-03-30T02:52:56.030Z"
+generated_at: "2026-11-23T20:25:32.023Z"
+status: "active"
 ---
 
 # § 6304. Annual leave; accumulation
@@ -54,3 +55,70 @@ generated_at: "2026-03-30T02:52:56.030Z"
   - **(2)** For purposes of applying any limitation on accumulation under this section with respect to any annual leave described in paragraph (1)—
     - **(A)** “30 days” in subsection (a) shall be deemed to read “90 days”; and
     - **(B)** “45 days” in subsection (b) shall be deemed to read “90 days”.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| (a) | 5 U.S.C. 2062(c) . | Oct. 30, 1951, ch. 631, § 203(c) , 65 Stat. 680 . July 2, 1953, ch. 178, § 3(a) , 67 Stat. 137 . |
+| (b) | 5 U.S.C. 2602(d) . | Oct. 30, 1951, ch. 631, § 203(d) , 65 Stat. 680 . July 2, 1953, ch. 178, § 3(b) , 67 Stat. 137 . |
+|  |  | Sept. 6, 1960 , Pub. L. 86–707, § 401 “(d)”, 74 Stat. 799 . |
+| (c) | 5 U.S.C. 2066(a) . | Oct. 30, 1951, ch. 631, § 208(a) , 65 Stat. 682 . |
+|  |  | July 2, 1953, ch. 178, § 3(c) , 67 Stat. 137 . |
+
+
+Historical and Revision Notes
+
+(a)
+
+5 U.S.C. 2062(c)
+
+Oct. 30, 1951, ch. 631, § 203(c)
+
+65 Stat. 680
+
+July 2, 1953, ch. 178, § 3(a)
+
+67 Stat. 137
+
+(b)
+
+5 U.S.C. 2602(d)
+
+Oct. 30, 1951, ch. 631, § 203(d)
+
+65 Stat. 680
+
+July 2, 1953, ch. 178, § 3(b)
+
+67 Stat. 137
+
+Sept. 6, 1960
+
+Pub. L. 86–707, § 401
+
+74 Stat. 799
+
+(c)
+
+5 U.S.C. 2066(a)
+
+Oct. 30, 1951, ch. 631, § 208(a)
+
+65 Stat. 682
+
+July 2, 1953, ch. 178, § 3(c)
+
+67 Stat. 137
+
+In General
+
+Exclusion From Lump-sum Payment
+
+Definitions
+
+Restoration of Annual Leave
+
+Payment of Restored Annual Leave
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 519](https://www.govinfo.gov/link/statute/80/519); [Pub. L. 93–181, § 3](https://www.govinfo.gov/link/plaw/93/public/181), Dec. 14, 1973, [87 Stat. 705](https://www.govinfo.gov/link/statute/87/705); [Pub. L. 95–454, title IV, § 410](https://www.govinfo.gov/link/plaw/95/public/454), title IX, § 906(a)(2), (3), Oct. 13, 1978, [92 Stat. 1173](https://www.govinfo.gov/link/statute/92/1173), 1224; [Pub. L. 96–54, § 2(a)(39)](https://www.govinfo.gov/link/plaw/96/public/54), Aug. 14, 1979, [93 Stat. 383](https://www.govinfo.gov/link/statute/93/383); [Pub. L. 96–465, title II, § 2312(b)](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2166](https://www.govinfo.gov/link/statute/94/2166); [Pub. L. 97–89, title VIII, § 802](https://www.govinfo.gov/link/plaw/97/public/89), Dec. 4, 1981, [95 Stat. 1161](https://www.govinfo.gov/link/statute/95/1161); [Pub. L. 100–325, § 2(k)](https://www.govinfo.gov/link/plaw/100/public/325), May 30, 1988, [102 Stat. 582](https://www.govinfo.gov/link/statute/102/582); [Pub. L. 102–378, § 2(53)](https://www.govinfo.gov/link/plaw/102/public/378), Oct. 2, 1992, [106 Stat. 1354](https://www.govinfo.gov/link/statute/106/1354); [Pub. L. 102–484, div. D, title XLIV, § 4434](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2722](https://www.govinfo.gov/link/statute/106/2722); [Pub. L. 103–337, div. A, title III, § 341(c)](https://www.govinfo.gov/link/plaw/103/public/337), div. B, title XXVIII, § 2816(a), Oct. 5, 1994, [108 Stat. 2720](https://www.govinfo.gov/link/statute/108/2720), 3056; [Pub. L. 103–356, title II, § 201(a)](https://www.govinfo.gov/link/plaw/103/public/356), Oct. 13, 1994, [108 Stat. 3411](https://www.govinfo.gov/link/statute/108/3411); [Pub. L. 105–261, div. A, title XI, § 1105](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2142](https://www.govinfo.gov/link/statute/112/2142); [Pub. L. 106–65, div. A, title XI, § 1103(a)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 776](https://www.govinfo.gov/link/statute/113/776); [Pub. L. 110–181, div. A, title XI, § 1112](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 360](https://www.govinfo.gov/link/statute/122/360); [Pub. L. 111–68, div. A, title I, § 1404(1)](https://www.govinfo.gov/link/plaw/111/public/68) –(3), Oct. 1, 2009, [123 Stat. 2038](https://www.govinfo.gov/link/statute/123/2038); [Pub. L. 111–282, § 2(b)](https://www.govinfo.gov/link/plaw/111/public/282), Oct. 15, 2010, [124 Stat. 3038](https://www.govinfo.gov/link/statute/124/3038).)*

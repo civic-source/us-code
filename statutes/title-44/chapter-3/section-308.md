@@ -3,9 +3,10 @@ title: "Section 308 - Disbursing officer; deputy disbursing officer; certifying 
 usc_title: 44
 usc_section: "308"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "44 U.S.C. § 308"
-generated_at: "2026-03-30T02:55:56.287Z"
+generated_at: "2026-11-23T20:27:03.752Z"
+status: "active"
 ---
 
 # § 308. Disbursing officer; deputy disbursing officer; certifying officers and employees
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:56.287Z"
 - **(c)**
   - **(1)** The Director of the Government Publishing Office may designate in writing officers and employees of the Government Publishing Office to certify vouchers for payment from appropriations and funds. Such officers and employees shall (A) be responsible for the existence and correctness of the facts recited in the certificate or other voucher or its supporting papers and for the legality of the proposed payment under the appropriation or fund involved, (B) be responsible and accountable for the correctness of the computations of certified vouchers, and (C) be accountable for, and required to make restitution to, the United States for the amount of any illegal, improper, or incorrect payment resulting from any false, inaccurate, or misleading certificate made by such officer or employee, as well as for any payment prohibited by law or which did not represent a legal obligation under the appropriation or fund involved. However, the Comptroller General of the United States, may, at the discretion of the Comptroller General, relieve such certifying officer or employee of liability for any payment otherwise proper whenever the Comptroller General finds that (i) the certification was based on the official records and that such certifying officer or employee did not know, and by reasonable diligence and inquiry could not have ascertained, the actual facts, or (ii) when the obligation was incurred in good faith, the payment was not contrary to any statutory provision specifically prohibiting payments of the character involved, and the United States has received value for such payment. The Comptroller General shall relieve such certifying officer or employee of liability for an overpayment for transportation services made to any common carrier covered by section 3726 of title 31 , whenever the Comptroller General finds that the overpayment occurred solely because the administrative examination made prior to payment of the transportation bill did not include a verification of transportation rates, freight classifications, or land grant deductions.
   - **(2)** The liability of such certifying officers or employees shall be enforced in the same manner and to the same extent as provided by law with respect to the enforcement of the liability of disbursing and other accountable officers. Such certifying officers and employees shall have the right to apply for and obtain a decision by the Comptroller General on any question of law involved in a payment on any vouchers presented to them for certification.
+
+## Source Credit
+
+*([Pub. L. 90–620](https://www.govinfo.gov/link/plaw/90/public/620), Oct. 22, 1968, [82 Stat. 1240](https://www.govinfo.gov/link/statute/82/1240); [Pub. L. 92–310, title II, § 210(b)](https://www.govinfo.gov/link/plaw/92/public/310), June 6, 1972, [86 Stat. 204](https://www.govinfo.gov/link/statute/86/204); [Pub. L. 93–459, § 1(a)](https://www.govinfo.gov/link/plaw/93/public/459), Oct. 20, 1974, [88 Stat. 1384](https://www.govinfo.gov/link/statute/88/1384); [Pub. L. 95–473, § 2(a)(5)](https://www.govinfo.gov/link/plaw/95/public/473), Oct. 17, 1978, [92 Stat. 1466](https://www.govinfo.gov/link/statute/92/1466); [Pub. L. 97–258, § 3(m)(1)](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 1066](https://www.govinfo.gov/link/statute/96/1066); [Pub. L. 113–235, div. H, title I, § 1301(b)](https://www.govinfo.gov/link/plaw/113/public/235), (c)(1), (i)(4), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537), 2538.)*

@@ -3,9 +3,10 @@ title: "Section 6971 - Under Secretary of Agriculture for Research, Education, a
 usc_title: 7
 usc_section: "6971"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6971"
-generated_at: "2026-03-30T02:53:42.441Z"
+generated_at: "2026-11-23T20:25:41.743Z"
+status: "active"
 ---
 
 # § 6971. Under Secretary of Agriculture for Research, Education, and Economics
@@ -155,3 +156,7 @@ generated_at: "2026-03-30T02:53:42.441Z"
   - **(6)**
     - **(A)** In addition to funds otherwise appropriated to carry out each program administered by the Institute, there are authorized to be appropriated such sums as are necessary to carry out this subsection for each fiscal year.
     - **(B)** Funding made available under subparagraph (A) shall be allocated according to recommendations contained in the roadmap described in section 7614a of this title .
+
+## Source Credit
+
+*([Pub. L. 103–354, title II, § 251](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3226](https://www.govinfo.gov/link/statute/108/3226); [Pub. L. 110–234, title VII, § 7511(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1259](https://www.govinfo.gov/link/statute/122/1259); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, § 7511(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2021; [Pub. L. 113–79, title VII](https://www.govinfo.gov/link/plaw/113/public/79), §§ 7111(b)(2), 7212(b), Feb. 7, 2014, [128 Stat. 874](https://www.govinfo.gov/link/statute/128/874), 886; [Pub. L. 115–334, title XI, § 11125(b)](https://www.govinfo.gov/link/plaw/115/public/334), title XII, §§ 12301(a)(2)(B), 12411(a), (b)(1), Dec. 20, 2018, [132 Stat. 4936](https://www.govinfo.gov/link/statute/132/4936), 4950, 4978, 4979.)*

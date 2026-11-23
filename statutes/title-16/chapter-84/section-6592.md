@@ -3,9 +3,10 @@ title: "Section 6592 - Wildfire risk reduction"
 usc_title: 16
 usc_section: "6592"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6592"
-generated_at: "2026-03-30T02:54:23.064Z"
+generated_at: "2026-11-23T20:26:20.810Z"
+status: "active"
 ---
 
 # § 6592. Wildfire risk reduction
@@ -156,3 +157,7 @@ generated_at: "2026-03-30T02:54:23.064Z"
     - **(B)** to continue treatment at levels necessary to address the 20,000,000 acres needing priority treatment over the 10-year period beginning on the date of publication of the strategy; and
     - **(C)** to proactively conduct treatment at a level necessary to minimize the risk of wildfire to surrounding at-risk communities.
 - **(k)** A project carried out using funding authorized under paragraphs (11)(A)(i), (13), or (14) of subsection (c) shall be considered an authorized hazardous fuel reduction project pursuant to section 6512 of this title .
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title VIII, § 40803](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1097](https://www.govinfo.gov/link/statute/135/1097).)*

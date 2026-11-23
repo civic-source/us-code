@@ -3,9 +3,10 @@ title: "Section 4309 - Application to public international organizations and off
 usc_title: 22
 usc_section: "4309"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4309"
-generated_at: "2026-03-30T02:55:05.410Z"
+generated_at: "2026-11-23T20:26:32.533Z"
+status: "active"
 ---
 
 # § 4309. Application to public international organizations and official missions to such organizations
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:05.410Z"
 - **(b)** For purposes of this section, “international organization” means—
   - **(1)** a public international organization designated as such pursuant to the International Organizations Immunities Act ( 22 U.S.C. 288 —288f–2) or a public international organization created pursuant to a treaty or other international agreement as an instrument through or by which two or more foreign governments engage in some aspect of their conduct of international affairs; and
   - **(2)** an official mission (other than a United States mission) to such a public international organization,
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title II, § 209, as added [Pub. L. 97–241, title II, § 202(b)](https://www.govinfo.gov/link/plaw/97/public/241), Aug. 24, 1982, [96 Stat. 289](https://www.govinfo.gov/link/statute/96/289).)*

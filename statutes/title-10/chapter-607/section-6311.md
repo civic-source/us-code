@@ -3,9 +3,10 @@ title: "Section 6311 - Reports on financial balances for atomic energy defense a
 usc_title: 10
 usc_section: "6311"
 chapter: 607
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6311"
-generated_at: "2026-03-30T02:53:38.226Z"
+generated_at: "2026-11-23T20:25:52.029Z"
+status: "active"
 ---
 
 # § 6311. Reports on financial balances for atomic energy defense activities
@@ -43,3 +44,21 @@ generated_at: "2026-03-30T02:53:38.226Z"
     - **(A)** total uncosted obligations from prior fiscal years;
     - **(B)** current fiscal year obligations; and
     - **(C)** current fiscal year deobligations.
+
+Reports Required
+
+Elements
+
+Definitions
+
+“In general”
+
+“Presentation of information”
+
+“Format”, “Part 1”
+
+“Part 2”
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2), Dec. 18, 2025, [139 Stat. 1438](https://www.govinfo.gov/link/statute/139/1438), 1462.)*

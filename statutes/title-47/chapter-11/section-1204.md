@@ -3,9 +3,10 @@ title: "Section 1204 - Grant program for remote community alert systems"
 usc_title: 47
 usc_section: "1204"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 1204"
-generated_at: "2026-03-30T02:56:24.530Z"
+generated_at: "2026-11-23T20:27:28.984Z"
+status: "active"
 ---
 
 # § 1204. Grant program for remote community alert systems
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:24.530Z"
   - **(2)** may establish such conditions, and require such assurances, as may be appropriate to ensure the efficiency and integrity of the grant program.
 - **(c)** The Under Secretary may not make grants under subsection (a) more than 5 years after October 13, 2006 .
 - **(d)** The sum of the amounts awarded for all fiscal years as grants under this section may not exceed $10,000,000.
+
+## Source Credit
+
+*([Pub. L. 109–347, title VI, § 605](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1940](https://www.govinfo.gov/link/statute/120/1940).)*

@@ -3,9 +3,10 @@ title: "Section 851 - Proceedings to establish prior convictions"
 usc_title: 21
 usc_section: "851"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 851"
-generated_at: "2026-03-30T02:54:54.296Z"
+generated_at: "2026-11-23T20:26:27.841Z"
+status: "active"
 ---
 
 # § 851. Proceedings to establish prior convictions
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:54.296Z"
   - **(1)** If the person files no response to the information, or if the court determines, after hearing, that the person is subject to increased punishment by reason of prior convictions, the court shall proceed to impose sentence upon him as provided by this part.
   - **(2)** If the court determines that the person has not been convicted as alleged in the information, that a conviction alleged in the information is invalid, or that the person is otherwise not subject to an increased sentence as a matter of law, the court shall, at the request of the United States attorney, postpone sentence to allow an appeal from that determination. If no such request is made, the court shall impose sentence as provided by this part. The person may appeal from an order postponing sentence as if sentence had been pronounced and a final judgment of conviction entered.
 - **(e)** No person who stands convicted of an offense under this part may challenge the validity of any prior conviction alleged under this section which occurred more than five years before the date of the information alleging such prior conviction.
+
+## Source Credit
+
+*([Pub. L. 91–513, title II, § 411](https://www.govinfo.gov/link/plaw/91/public/513), Oct. 27, 1970, [84 Stat. 1269](https://www.govinfo.gov/link/statute/84/1269).)*

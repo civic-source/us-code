@@ -3,12 +3,17 @@ title: "Section 403a - Creation or continuance of obstruction of navigable water
 usc_title: 33
 usc_section: "403a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 403a"
-generated_at: "2026-03-30T02:55:41.054Z"
+generated_at: "2026-11-23T20:26:53.803Z"
+status: "active"
 ---
 
 # § 403a. Creation or continuance of obstruction of navigable waters
 
 The creation of any obstruction, not affirmatively authorized by law, to the navigable capacity of any waters, in respect of which the United States has jurisdiction, is hereby prohibited. The continuance of any such obstruction, except bridges, piers, docks, and wharves, and similar structures erected for business purposes, whether heretofore or hereafter created, shall constitute an offense and each week’s continuance of any such obstruction shall be deemed a separate offense. Every person and every corporation which shall be guilty of creating or continuing any such unlawful obstruction in this act mentioned, or who shall violate the provisions of the last four preceding sections of this act, shall be deemed guilty of a misdemeanor, and on conviction thereof shall be punished by a fine not exceeding five thousand dollars, or by imprisonment (in the case of a natural person) not exceeding one year, or by both such punishments, in the discretion of the court, the creating or continuing of any unlawful obstruction in this act mentioned may be prevented and such obstruction may be caused to be removed by the injunction of any district court exercising jurisdiction in any district in which such obstruction may be threatened or may exist; and proper proceedings in equity to this end may be instituted under the direction of the Attorney-General of the United States.
 
+
+## Source Credit
+
+*(Sept. 19, 1890, ch. 907, § 10, [26 Stat. 454](https://www.govinfo.gov/link/statute/26/454); Mar. 3, 1911, ch. 231, § 291, [36 Stat. 1167](https://www.govinfo.gov/link/statute/36/1167).)*

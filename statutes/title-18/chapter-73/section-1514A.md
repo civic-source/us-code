@@ -3,9 +3,10 @@ title: "Section 1514A - Civil action to protect against retaliation in fraud cas
 usc_title: 18
 usc_section: "1514A"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 1514A"
-generated_at: "2026-03-30T02:54:16.487Z"
+generated_at: "2026-11-23T20:26:08.502Z"
+status: "active"
 ---
 
 # § 1514A. Civil action to protect against retaliation in fraud cases
@@ -36,3 +37,39 @@ generated_at: "2026-03-30T02:54:16.487Z"
 - **(e)**
   - **(1)** The rights and remedies provided for in this section may not be waived by any agreement, policy form, or condition of employment, including by a predispute arbitration agreement.
   - **(2)** No predispute arbitration agreement shall be valid or enforceable, if the agreement requires arbitration of a dispute arising under this section.
+
+Whistleblower Protection for Employees of Publicly Traded Companies
+
+Enforcement Action.—
+
+In general
+
+Procedure.—
+
+In general
+
+Exception
+
+Burdens of proof
+
+Statute of limitations
+
+Jury trial
+
+Remedies.—
+
+In general
+
+Compensatory damages
+
+Rights Retained by Employee
+
+Nonenforceability of Certain Provisions Waiving Rights and Remedies or Requiring Arbitration of Disputes.—
+
+Waiver of rights and remedies
+
+Predispute arbitration agreements
+
+## Source Credit
+
+*(Added [Pub. L. 107–204, title VIII, § 806(a)](https://www.govinfo.gov/link/plaw/107/public/204), July 30, 2002, [116 Stat. 802](https://www.govinfo.gov/link/statute/116/802); amended [Pub. L. 111–203, title IX](https://www.govinfo.gov/link/plaw/111/public/203), §§ 922(b), (c), 929A, July 21, 2010, [124 Stat. 1848](https://www.govinfo.gov/link/statute/124/1848), 1852.)*

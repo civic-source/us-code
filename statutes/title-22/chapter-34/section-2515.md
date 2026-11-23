@@ -3,9 +3,10 @@ title: "Section 2515 - Foreign Currency Fluctuations Account"
 usc_title: 22
 usc_section: "2515"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2515"
-generated_at: "2026-03-30T02:55:05.372Z"
+generated_at: "2026-11-23T20:26:32.322Z"
+status: "active"
 ---
 
 # § 2515. Foreign Currency Fluctuations Account
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:05.372Z"
   - **(2)** The authority of this subsection shall be exercised only to the extent that specific amounts are provided in advance in an appropriation Act.
 - **(g)** There are authorized to be appropriated to the Foreign Currency Fluctuations, Peace Corps, Account for each fiscal year such sums as may be necessary to maintain a balance of $5,000,000 in such account at the beginning of such fiscal year.
 - **(h)** Each year the Director of the Peace Corps shall submit to the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives, and to the Committee on Foreign Relations and the Committee on Appropriations of the Senate, a report on funds transferred under this section.
+
+## Source Credit
+
+*([Pub. L. 87–293, title I, § 16](https://www.govinfo.gov/link/plaw/87/public/293), as added [Pub. L. 102–565, § 2(a)](https://www.govinfo.gov/link/plaw/102/public/565), Oct. 28, 1992, [106 Stat. 4265](https://www.govinfo.gov/link/statute/106/4265).)*

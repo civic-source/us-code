@@ -3,9 +3,10 @@ title: "Section 2165 - Limitation on jurisdiction and powers of court"
 usc_title: 48
 usc_section: "2165"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 2165"
-generated_at: "2026-03-30T02:56:14.604Z"
+generated_at: "2026-11-23T20:27:28.202Z"
+status: "active"
 ---
 
 # § 2165. Limitation on jurisdiction and powers of court
@@ -15,3 +16,7 @@ Subject to the limitations set forth in subchapters I and II of this chapter, no
   - **(1)** any of the political or governmental powers of the debtor;
   - **(2)** any of the property or revenues of the debtor; or
   - **(3)** the use or enjoyment by the debtor of any income-producing property.
+
+## Source Credit
+
+*([Pub. L. 114–187, title III, § 305](https://www.govinfo.gov/link/plaw/114/public/187), June 30, 2016, [130 Stat. 580](https://www.govinfo.gov/link/statute/130/580).)*

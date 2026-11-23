@@ -3,9 +3,10 @@ title: "Section 2103a - Forest Stewardship Program"
 usc_title: 16
 usc_section: "2103a"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 2103a"
-generated_at: "2026-03-30T02:54:22.997Z"
+generated_at: "2026-11-23T20:26:20.590Z"
+status: "active"
 ---
 
 # § 2103a. Forest Stewardship Program
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:22.997Z"
   - **(2)** agree that all activities conducted on such land shall be consistent with the stewardship plan.
 - **(g)** The Secretary, in consultation with State foresters or equivalent State officials, is encouraged to develop an appropriate recognition program for landowners who practice stewardship management on their lands, with an appropriate, special recognition symbol and title.
 - **(h)** There are hereby authorized to be appropriated $25,000,000 for each of the fiscal years 1991 through 1995, and such sums as may be necessary thereafter, to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 95–313, § 5](https://www.govinfo.gov/link/plaw/95/public/313), as added [Pub. L. 101–624, title XII, § 1215(2)](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3525](https://www.govinfo.gov/link/statute/104/3525); amended [Pub. L. 102–237, title X, § 1018(a)(1)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1905](https://www.govinfo.gov/link/statute/105/1905).)*

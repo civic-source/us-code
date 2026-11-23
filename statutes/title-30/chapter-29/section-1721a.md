@@ -3,9 +3,10 @@ title: "Section 1721a - Adjustments and refunds"
 usc_title: 30
 usc_section: "1721a"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1721a"
-generated_at: "2026-03-30T02:55:29.408Z"
+generated_at: "2026-11-23T20:26:35.061Z"
+status: "active"
 ---
 
 # § 1721a. Adjustments and refunds
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:29.408Z"
   - **(2)** The Secretary shall certify the amount of the refund to be paid under paragraph (1) to the Secretary of the Treasury who shall make such refund. Such refund shall be paid from amounts received as current receipts from sales, bonuses, royalties (including interest charges collected under this section) and rentals of the public lands and the Outer Continental Shelf under the provisions of the Mineral Leasing Act [ 30 U.S.C. 181 et seq.] and the Outer Continental Shelf Lands Act [ 43 U.S.C. 1331 et seq.], which are not payable to a State or the Reclamation Fund. The portion of any such refund attributable to any amounts previously disbursed to a State, the Reclamation Fund, or any recipient prescribed by law shall be deducted from the next disbursements to that recipient made under the applicable law. Such amounts deducted from subsequent disbursements shall be credited to miscellaneous receipts in the Treasury.
   - **(3)** A refund under this subsection shall be paid or denied (with an explanation of the reasons for the denial) within 120 days of the date on which the request for refund is received by the Secretary. Such refund shall be subject to later audit by the Secretary or the applicable delegated State and subject to the provisions of this chapter.
   - **(4)** In no event shall the Secretary or any delegated State directly or indirectly claim or offset any amount or amounts against, or reduce any refund or credit (or interest accrued thereon) by the amount of any obligation the enforcement of which is barred by section 1724 of this title .
+
+## Source Credit
+
+*([Pub. L. 97–451, title I, § 111A](https://www.govinfo.gov/link/plaw/97/public/451), as added [Pub. L. 104–185, § 5(a)](https://www.govinfo.gov/link/plaw/104/public/185), Aug. 13, 1996, [110 Stat. 1710](https://www.govinfo.gov/link/statute/110/1710).)*

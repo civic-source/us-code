@@ -3,12 +3,17 @@ title: "Section 9011 - Authorization of appropriations"
 usc_title: 22
 usc_section: "9011"
 chapter: 97
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9011"
-generated_at: "2026-03-30T02:55:05.460Z"
+generated_at: "2026-11-23T20:26:32.751Z"
+status: "active"
 ---
 
 # § 9011. Authorization of appropriations
 
 There are authorized to be appropriated for each fiscal year such sums as may be necessary to carry out the purposes of the Convention and this chapter.
 
+
+## Source Credit
+
+*([Pub. L. 100–300, § 12](https://www.govinfo.gov/link/plaw/100/public/300), Apr. 29, 1988, [102 Stat. 442](https://www.govinfo.gov/link/statute/102/442).)*

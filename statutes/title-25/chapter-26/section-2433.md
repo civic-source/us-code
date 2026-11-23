@@ -3,9 +3,10 @@ title: "Section 2433 - Emergency shelters"
 usc_title: 25
 usc_section: "2433"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 2433"
-generated_at: "2026-03-30T02:54:52.840Z"
+generated_at: "2026-11-23T20:26:25.594Z"
+status: "active"
 ---
 
 # § 2433. Emergency shelters
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:52.840Z"
   - **(5)** Nothing in this Act may be construed—
     - **(A)** to limit the authority for contracts with, or grants to, Indian tribes or tribal organizations under the Indian Self-Determination Act [ 25 U.S.C. 5321 et seq.] for the construction, improvement, renovation, operation, repair, land acquisition, or maintenance of tribal juvenile detention facilities, emergency shelters, or half-way houses, or
     - **(B)** to require a lease of tribal facilities to the United States to qualify for financial assistance for the facilities under this chapter or any other Act.
+
+## Source Credit
+
+*([Pub. L. 99–570, title IV, § 4213](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–144](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 100–690, title II, § 2207](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4218](https://www.govinfo.gov/link/statute/102/4218); [Pub. L. 101–272](https://www.govinfo.gov/link/plaw/101/public/272), Apr. 18, 1990, [104 Stat. 137](https://www.govinfo.gov/link/statute/104/137); [Pub. L. 102–573, title VII, § 703(5)](https://www.govinfo.gov/link/plaw/102/public/573), Oct. 29, 1992, [106 Stat. 4583](https://www.govinfo.gov/link/statute/106/4583); [Pub. L. 111–211, title II, § 241(c)](https://www.govinfo.gov/link/plaw/111/public/211), July 29, 2010, [124 Stat. 2290](https://www.govinfo.gov/link/statute/124/2290).)*

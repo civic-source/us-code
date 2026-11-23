@@ -3,9 +3,10 @@ title: "Section 6034 - United States opposition to Cuban membership in internati
 usc_title: 22
 usc_section: "6034"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6034"
-generated_at: "2026-03-30T02:55:05.422Z"
+generated_at: "2026-11-23T20:26:32.588Z"
+status: "active"
 ---
 
 # § 6034. United States opposition to Cuban membership in international financial institutions
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.422Z"
   - **(1)** The paid-in portion of the increase in capital stock of the institution.
   - **(2)** The callable portion of the increase in capital stock of the institution.
 - **(c)** For purposes of this section, the term “international financial institution” means the International Monetary Fund, the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Multilateral Investment Guaranty Agency, and the Inter-American Development Bank.
+
+## Source Credit
+
+*([Pub. L. 104–114, title I, § 104](https://www.govinfo.gov/link/plaw/104/public/114), Mar. 12, 1996, [110 Stat. 794](https://www.govinfo.gov/link/statute/110/794).)*

@@ -3,9 +3,10 @@ title: "Section 1382h - Benefits for individuals who perform substantial gainful
 usc_title: 42
 usc_section: "1382h"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1382h"
-generated_at: "2026-03-30T02:56:10.930Z"
+generated_at: "2026-11-23T20:27:21.066Z"
+status: "active"
 ---
 
 # § 1382h. Benefits for individuals who perform substantial gainful activity despite severe medical impairment
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:10.930Z"
     - **(B)** was eligible for medical assistance under the State plan approved under subchapter XIX in the month immediately preceding the first month in which the individual qualified for a benefit under such subsection or met such requirements,
 - **(c)** Subsection (a)(2) and section 1383(j)(2)(A) of this title shall not be construed, singly or jointly, to require more than 1 determination during any 12-month period with respect to the continuing disability or blindness of an individual.
 - **(d)** The Commissioner of Social Security and the Secretary of Education shall jointly develop and disseminate information, and establish training programs for staff personnel, with respect to the potential availability of benefits and services for disabled individuals under the provisions of this section. The Commissioner of Social Security shall provide such information to individuals who are applicants for and recipients of benefits based on disability under this subchapter and shall conduct such programs for the staffs of the district offices of the Social Security Administration. The Secretary of Education shall conduct such programs for the staffs of the State Vocational Rehabilitation agencies, and in cooperation with such agencies shall also provide such information to other appropriate individuals and to public and private organizations and agencies which are concerned with rehabilitation and social services or which represent the disabled.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVI, § 1619, as added [Pub. L. 96–265, title II, § 201(a)](https://www.govinfo.gov/link/plaw/96/public/265), June 9, 1980, [94 Stat. 445](https://www.govinfo.gov/link/statute/94/445); amended [Pub. L. 97–35, title XXIII, § 2353](https://www.govinfo.gov/link/plaw/97/public/35) (o), Aug. 13, 1981, [95 Stat. 873](https://www.govinfo.gov/link/statute/95/873); [Pub. L. 98–460, § 14(b)](https://www.govinfo.gov/link/plaw/98/public/460), Oct. 9, 1984, [98 Stat. 1808](https://www.govinfo.gov/link/statute/98/1808); [Pub. L. 99–643](https://www.govinfo.gov/link/plaw/99/public/643), §§ 4(a), (b), (c)(2), 7(a), Nov. 10, 1986, [100 Stat. 3575](https://www.govinfo.gov/link/statute/100/3575), 3577, 3579; [Pub. L. 101–508, title V](https://www.govinfo.gov/link/plaw/101/public/508), §§ 5032(a), 5039(a), Nov. 5, 1990, [104 Stat. 1388–224](https://www.govinfo.gov/link/statute/104/1388), 1388–226; [Pub. L. 103–296, title I, § 107(a)(1)](https://www.govinfo.gov/link/plaw/103/public/296), (4), title II, § 205(a), Aug. 15, 1994, [108 Stat. 1477](https://www.govinfo.gov/link/statute/108/1477), 1478, 1509.)*

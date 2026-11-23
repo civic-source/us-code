@@ -3,9 +3,10 @@ title: "Section 7422 - Waiver and termination of prohibitions of this subchapter
 usc_title: 22
 usc_section: "7422"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7422"
-generated_at: "2026-03-30T02:55:05.440Z"
+generated_at: "2026-11-23T20:26:32.662Z"
+status: "active"
 ---
 
 # § 7422. Waiver and termination of prohibitions of this subchapter
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:55:05.440Z"
       - **(iii)** Individuals who were covered United States persons or covered allied persons.
 - **(d)** Any waiver or waivers exercised pursuant to subsection (c) of the prohibitions and requirements of sections 7423 and 7425 of this title shall terminate at any time that a waiver pursuant to subsection (a) or (b) of the prohibitions and requirements of section 7424 of this title expires and is not extended pursuant to subsection (b).
 - **(e)** The prohibitions and requirements of sections 7423, 7424, and 7425 of this title shall cease to apply, and the authority of section 7427 of this title shall terminate, if the United States becomes a party to the International Criminal Court pursuant to a treaty made under article II, section 2, clause 2 of the Constitution of the United States.
+
+## Source Credit
+
+*([Pub. L. 107–206, title II, § 2003](https://www.govinfo.gov/link/plaw/107/public/206), Aug. 2, 2002, [116 Stat. 901](https://www.govinfo.gov/link/statute/116/901); [Pub. L. 110–181, div. A, title XII, § 1212(b)(1)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 371](https://www.govinfo.gov/link/statute/122/371).)*

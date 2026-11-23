@@ -3,9 +3,10 @@ title: "Section 51323 - United States Merchant Marine Academy Advisory Council"
 usc_title: 46
 usc_section: "51323"
 chapter: 513
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 51323"
-generated_at: "2026-03-30T02:56:15.571Z"
+generated_at: "2026-11-23T20:27:27.292Z"
+status: "active"
 ---
 
 # § 51323. United States Merchant Marine Academy Advisory Council
@@ -17,3 +18,21 @@ generated_at: "2026-03-30T02:56:15.571Z"
   - **(3)** Members of the Council shall not be considered employees of the United States Government by reason of their membership on the Council for any purpose and shall not receive compensation other than reimbursement of travel expenses and per diem allowance in accordance with section 5703 of title 5 .
 - **(c)** The Council shall provide advice to the Secretary at the time and in the manner requested by the Secretary.
 - **(d)** In carrying out its responsibilities under this subsection, the Council shall comply with the obligations of the Department of Transportation to protect personally identifiable information.
+
+Establishment
+
+Membership.—
+
+In general
+
+Governmental experts
+
+Employee status
+
+Responsibilities
+
+Personally Identifiable Information
+
+## Source Credit
+
+*(Added [Pub. L. 117–81, div. C, title XXXV, § 3501(c)(1)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2238](https://www.govinfo.gov/link/statute/135/2238).)*

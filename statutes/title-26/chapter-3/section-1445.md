@@ -3,9 +3,10 @@ title: "Section 1445 - Withholding of tax on dispositions of United States real 
 usc_title: 26
 usc_section: "1445"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1445"
-generated_at: "2026-03-30T02:55:27.776Z"
+generated_at: "2026-11-23T20:26:46.129Z"
+status: "active"
 ---
 
 # § 1445. Withholding of tax on dispositions of United States real property interests
@@ -98,3 +99,7 @@ generated_at: "2026-03-30T02:55:27.776Z"
   - **(6)** The term “qualified substitute” means, with respect to a disposition of a United States real property interest—
     - **(A)** the person (including any attorney or title company) responsible for closing the transaction, other than the transferor’s agent, and
     - **(B)** the transferee’s agent.
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title I, § 129(a)(1)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 655](https://www.govinfo.gov/link/statute/98/655); amended [Pub. L. 99–514, title III, § 311(b)(4)](https://www.govinfo.gov/link/plaw/99/public/514), title XVIII, § 1810(f)(2)–(4)(A), (5), (6), (8), Oct. 22, 1986, [100 Stat. 2219](https://www.govinfo.gov/link/statute/100/2219), 2827, 2828; [Pub. L. 100–647, title I, § 1003(b)(3)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3384](https://www.govinfo.gov/link/statute/102/3384); [Pub. L. 103–66, title XIII, § 13221(c)(3)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 477](https://www.govinfo.gov/link/statute/107/477); [Pub. L. 104–188, title I, § 1704(c)(1)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1878](https://www.govinfo.gov/link/statute/110/1878); [Pub. L. 105–34, title III, § 311(c)(1)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 835](https://www.govinfo.gov/link/statute/111/835); [Pub. L. 108–27, title III, § 301(a)(2)(C)](https://www.govinfo.gov/link/plaw/108/public/27), May 28, 2003, [117 Stat. 758](https://www.govinfo.gov/link/statute/117/758); [Pub. L. 109–222, title V](https://www.govinfo.gov/link/plaw/109/public/222), §§ 505(b), 506(b), May 17, 2006, [120 Stat. 356](https://www.govinfo.gov/link/statute/120/356), 358; [Pub. L. 110–289, div. C, title I, § 3024(a)](https://www.govinfo.gov/link/plaw/110/public/289) –(c), July 30, 2008, [122 Stat. 2895](https://www.govinfo.gov/link/statute/122/2895); [Pub. L. 112–240, title I, § 102(c)(1)(C)](https://www.govinfo.gov/link/plaw/112/public/240), (3), Jan. 2, 2013, [126 Stat. 2319](https://www.govinfo.gov/link/statute/126/2319); [Pub. L. 114–113, div. Q, title III](https://www.govinfo.gov/link/plaw/114/public/113), §§ 323(b), 324(a), (b), Dec. 18, 2015, [129 Stat. 3103](https://www.govinfo.gov/link/statute/129/3103); [Pub. L. 115–97, title I, § 13001(b)(3)(A)](https://www.govinfo.gov/link/plaw/115/public/97) –(C), Dec. 22, 2017, [131 Stat. 2097](https://www.govinfo.gov/link/statute/131/2097).)*

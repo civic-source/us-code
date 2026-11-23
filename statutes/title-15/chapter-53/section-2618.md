@@ -3,9 +3,10 @@ title: "Section 2618 - Judicial review"
 usc_title: 15
 usc_section: "2618"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2618"
-generated_at: "2026-03-30T02:54:08.177Z"
+generated_at: "2026-11-23T20:26:04.226Z"
+status: "active"
 ---
 
 # § 2618. Judicial review
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:08.177Z"
   - **(2)** The judgment of the court affirming or setting aside, in whole or in part, any rule or order reviewed in accordance with this section shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification, as provided in section 1254 of title 28 .
 - **(d)** The decision of the court in an action commenced under subsection (a), or of the Supreme Court of the United States on review of such a decision, may include an award of costs of suit and reasonable fees for attorneys and expert witnesses if the court determines that such an award is appropriate.
 - **(e)** The remedies as provided in this section shall be in addition to and not in lieu of any other remedies provided by law.
+
+## Source Credit
+
+*([Pub. L. 94–469, title I, § 19](https://www.govinfo.gov/link/plaw/94/public/469), Oct. 11, 1976, [90 Stat. 2039](https://www.govinfo.gov/link/statute/90/2039); renumbered title I and amended [Pub. L. 99–519, § 3(b)(2)](https://www.govinfo.gov/link/plaw/99/public/519), (c)(1), Oct. 22, 1986, [100 Stat. 2989](https://www.govinfo.gov/link/statute/100/2989); [Pub. L. 102–550, title X, § 1021(b)(8)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3923](https://www.govinfo.gov/link/statute/106/3923); [Pub. L. 114–182, title I](https://www.govinfo.gov/link/plaw/114/public/182), §§ 14, 19(m), June 22, 2016, [130 Stat. 498](https://www.govinfo.gov/link/statute/130/498), 508.)*

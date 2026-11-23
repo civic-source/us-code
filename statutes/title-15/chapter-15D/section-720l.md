@@ -3,9 +3,10 @@ title: "Section 720l - Sense of Congress concerning natural gas demand"
 usc_title: 15
 usc_section: "720l"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 720l"
-generated_at: "2026-03-30T02:54:08.121Z"
+generated_at: "2026-11-23T20:26:03.918Z"
+status: "active"
 ---
 
 # § 720l. Sense of Congress concerning natural gas demand
@@ -18,3 +19,7 @@ It is the sense of Congress that—
   - **(4)** Federal and State officials should acknowledge that the smaller scope, fewer permitting requirements, and lower cost of the Mackenzie Delta project means it will most likely be completed before the Alaska Natural Gas Pipeline;
   - **(5)** natural gas production in the 48 contiguous States and Canada will not be able to meet all domestic demand in the coming decades; and
   - **(6)** as a result, natural gas delivered from Alaskan North Slope will not displace or reduce the commercial viability of Canadian natural gas produced from the Mackenzie Delta or production from the 48 contiguous States.
+
+## Source Credit
+
+*([Pub. L. 108–324, div. C, § 114](https://www.govinfo.gov/link/plaw/108/public/324), Oct. 13, 2004, [118 Stat. 1264](https://www.govinfo.gov/link/statute/118/1264).)*

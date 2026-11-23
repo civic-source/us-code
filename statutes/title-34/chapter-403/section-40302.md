@@ -3,9 +3,10 @@ title: "Section 40302 - Funding for improvement of criminal records"
 usc_title: 34
 usc_section: "40302"
 chapter: 403
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 40302"
-generated_at: "2026-03-30T02:55:33.308Z"
+generated_at: "2026-11-23T20:26:50.640Z"
+status: "active"
 ---
 
 # § 40302. Funding for improvement of criminal records
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:33.308Z"
     - **(C)** to assist the State in the transmittal of criminal records to the national system; and
     - **(D)** to establish and achieve compliance with an implementation plan under section 40917 of this title .
   - **(2)** There are authorized to be appropriated for grants under paragraph (1) a total of $200,000,000 for fiscal year 1994 and all fiscal years thereafter.
+
+## Source Credit
+
+*([Pub. L. 103–159, title I, § 106(b)](https://www.govinfo.gov/link/plaw/103/public/159), Nov. 30, 1993, [107 Stat. 1544](https://www.govinfo.gov/link/statute/107/1544); [Pub. L. 103–322, title XXI, § 210603(b)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2074](https://www.govinfo.gov/link/statute/108/2074); [Pub. L. 104–294, title VI, § 603(i)(1)](https://www.govinfo.gov/link/plaw/104/public/294), Oct. 11, 1996, [110 Stat. 3504](https://www.govinfo.gov/link/statute/110/3504); [Pub. L. 115–141, div. S, title VI, § 604(b)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1136](https://www.govinfo.gov/link/statute/132/1136).)*

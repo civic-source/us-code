@@ -3,9 +3,10 @@ title: "Section 7901 - Maintenance of effort"
 usc_title: 20
 usc_section: "7901"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 7901"
-generated_at: "2026-03-30T02:54:48.221Z"
+generated_at: "2026-11-23T20:26:14.950Z"
+status: "active"
 ---
 
 # § 7901. Maintenance of effort
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:48.221Z"
 - **(c)** The Secretary may waive the requirements of this section if the Secretary determines that a waiver would be equitable due to—
   - **(1)** exceptional or uncontrollable circumstances, such as a natural disaster or a change in the organizational structure of the local educational agency; or
   - **(2)** a precipitous decline in the financial resources of the local educational agency.
+
+## Source Credit
+
+*([Pub. L. 89–10, title VIII, § 8521](https://www.govinfo.gov/link/plaw/89/public/10), formerly title IX, § 9521, as added [Pub. L. 107–110, title IX, § 901](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1980](https://www.govinfo.gov/link/statute/115/1980); renumbered title VIII, § 8521, and amended [Pub. L. 114–95, title VIII](https://www.govinfo.gov/link/plaw/114/public/95), §§ 8001(a)(6), 8019, Dec. 10, 2015, [129 Stat. 2088](https://www.govinfo.gov/link/statute/129/2088), 2089, 2112.)*

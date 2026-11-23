@@ -3,9 +3,10 @@ title: "Section 426 - Integration of Department of Defense intelligence, surveil
 usc_title: 10
 usc_section: "426"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 426"
-generated_at: "2026-03-30T02:53:38.058Z"
+generated_at: "2026-11-23T20:25:50.951Z"
+status: "active"
 ---
 
 # § 426. Integration of Department of Defense intelligence, surveillance, and reconnaissance capabilities
@@ -51,3 +52,15 @@ generated_at: "2026-03-30T02:53:38.058Z"
       - **(v)** Other elements of the Department of Defense that perform national intelligence, defense intelligence, intelligence-related, counterintelligence, or security functions.
     - **(C)** The term “fulfillment rate” means the percentage of combatant command intelligence and counterintelligence requirements satisfied by available, acquired, or realigned intelligence and counterintelligence capabilities or activities.
     - **(D)** The term “intelligence community” has the meaning given that term in section 3 of the National Security Act of 1947 ( 50 U.S.C. 3003 ).
+
+ISR Integration Council
+
+Annual Briefings on the Intelligence and Counterintelligence Requirements of the Combatant Commands
+
+Findings
+
+Goal
+
+## Source Credit
+
+*(Added [Pub. L. 108–136, div. A, title IX, § 923(c)(1)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1575](https://www.govinfo.gov/link/statute/117/1575); amended [Pub. L. 109–364, div. A, title X, § 1071(a)(3)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2398](https://www.govinfo.gov/link/statute/120/2398); [Pub. L. 110–181, div. A, title IX, § 931(a)(7)](https://www.govinfo.gov/link/plaw/110/public/181), (8), Jan. 28, 2008, [122 Stat. 285](https://www.govinfo.gov/link/statute/122/285); [Pub. L. 111–383, div. A, title IX, § 922(b)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4331](https://www.govinfo.gov/link/statute/124/4331); [Pub. L. 115–232, div. A, title XVI, § 1625(b)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2121](https://www.govinfo.gov/link/statute/132/2121); [Pub. L. 116–92, div. A, title XVI](https://www.govinfo.gov/link/plaw/116/public/92), §§ 1621(e)(1)(A)(vii), 1622, Dec. 20, 2019, [133 Stat. 1733](https://www.govinfo.gov/link/statute/133/1733).)*

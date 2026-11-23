@@ -3,9 +3,10 @@ title: "Section 7609 - Special procedures for third-party summonses"
 usc_title: 26
 usc_section: "7609"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 7609"
-generated_at: "2026-03-30T02:55:27.879Z"
+generated_at: "2026-11-23T20:26:46.809Z"
+status: "active"
 ---
 
 # § 7609. Special procedures for third-party summonses
@@ -56,3 +57,7 @@ generated_at: "2026-03-30T02:55:27.879Z"
   - **(3)** Any summoned party, or agent or employee thereof, making a disclosure of records or testimony pursuant to this section in good faith reliance on the certificate of the Secretary or an order of a court requiring production of records or the giving of such testimony shall not be liable to any customer or other person for such disclosure.
   - **(4)** In the case of a summons described in subsection (f) with respect to which any period of limitations has been suspended under subsection (e)(2), the summoned party shall provide notice of such suspension to any person described in subsection (f).
 - **(j)** Nothing in this section shall be construed to limit the Secretary’s ability to obtain information, other than by summons, through formal or informal procedures authorized by sections 7601 and 7602.
+
+## Source Credit
+
+*(Added [Pub. L. 94–455, title XII, § 1205(a)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1699](https://www.govinfo.gov/link/statute/90/1699); amended [Pub. L. 95–599, title V, § 505(c)(6)](https://www.govinfo.gov/link/plaw/95/public/599), Nov. 6, 1978, [92 Stat. 2760](https://www.govinfo.gov/link/statute/92/2760); [Pub. L. 95–600, title VII, § 703](https://www.govinfo.gov/link/plaw/95/public/600) (l)(4), Nov. 6, 1978, [92 Stat. 2943](https://www.govinfo.gov/link/statute/92/2943); [Pub. L. 96–223, title II, § 232(d)(4)(E)](https://www.govinfo.gov/link/plaw/96/public/223), Apr. 2, 1980, [94 Stat. 278](https://www.govinfo.gov/link/statute/94/278); [Pub. L. 97–248, title III](https://www.govinfo.gov/link/plaw/97/public/248), §§ 311(b), 331(a)–(d), 332(a), Sept. 3, 1982, [96 Stat. 601](https://www.govinfo.gov/link/statute/96/601), 620, 621; [Pub. L. 97–424, title V, § 515(b)(12)](https://www.govinfo.gov/link/plaw/97/public/424), Jan. 6, 1983, [96 Stat. 2182](https://www.govinfo.gov/link/statute/96/2182); [Pub. L. 98–369, div. A, title VII, § 714(i)](https://www.govinfo.gov/link/plaw/98/public/369), title IX, § 911(d)(2)(G), July 18, 1984, [98 Stat. 962](https://www.govinfo.gov/link/statute/98/962), 1007; [Pub. L. 98–620, title IV, § 402(28)(D)](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3359](https://www.govinfo.gov/link/statute/98/3359); [Pub. L. 99–514, title VI, § 656(a)](https://www.govinfo.gov/link/plaw/99/public/514), title XV, § 1561(a), (b), title XVII, § 1703(e)(2)(G), Oct. 22, 1986, [100 Stat. 2299](https://www.govinfo.gov/link/statute/100/2299), 2761, 2778; [Pub. L. 100–647, title I](https://www.govinfo.gov/link/plaw/100/public/647), §§ 1015(l)(1), (2), 1017(c)(9), (12), Nov. 10, 1988, [102 Stat. 3571](https://www.govinfo.gov/link/statute/102/3571), 3572, 3576, 3577; [Pub. L. 104–168, title X, § 1001(a)](https://www.govinfo.gov/link/plaw/104/public/168), July 30, 1996, [110 Stat. 1467](https://www.govinfo.gov/link/statute/110/1467); [Pub. L. 105–206, title III, § 3415(a)](https://www.govinfo.gov/link/plaw/105/public/206) –(c), July 22, 1998, [112 Stat. 755](https://www.govinfo.gov/link/statute/112/755); [Pub. L. 109–135, title IV, § 408(a)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2635](https://www.govinfo.gov/link/statute/119/2635); [Pub. L. 116–25, title I, § 1204(a)](https://www.govinfo.gov/link/plaw/116/public/25), July 1, 2019, [133 Stat. 988](https://www.govinfo.gov/link/statute/133/988).)*

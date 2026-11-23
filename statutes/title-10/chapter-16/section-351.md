@@ -3,9 +3,10 @@ title: "Section 351 - Inter-American Defense College"
 usc_title: 10
 usc_section: "351"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 351"
-generated_at: "2026-03-30T02:53:38.054Z"
+generated_at: "2026-11-23T20:25:50.922Z"
+status: "active"
 ---
 
 # § 351. Inter-American Defense College
@@ -30,3 +31,17 @@ generated_at: "2026-03-30T02:53:38.054Z"
   - **(3)** Funds available to carry out this section for a fiscal year may be used for activities that begin in such fiscal year and end in the next fiscal year.
 - **(d)** The Secretary of Defense may waive reimbursement for developing countries (as such term is defined in section 301 of this title ) of the costs of funding and other host nation support provided to the Inter-American Defense College under this section if the Secretary determines that the provision of such funding or support without reimbursement is in the national security interest of the United States.
 - **(e)** In this section, the term “logistic support, supplies, and services” has the meaning given that term in section 2350 of this title .
+
+Authority To Support
+
+Memorandum of Understanding
+
+Use of Funds
+
+Waiver of Reimbursement
+
+Logistic Support, Supplies, and Services Defined
+
+## Source Credit
+
+*(Added [Pub. L. 115–232, div. A, title XII, § 1207(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2019](https://www.govinfo.gov/link/statute/132/2019).)*

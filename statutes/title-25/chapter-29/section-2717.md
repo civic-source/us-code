@@ -3,9 +3,10 @@ title: "Section 2717 - Commission funding"
 usc_title: 25
 usc_section: "2717"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 2717"
-generated_at: "2026-03-30T02:54:52.843Z"
+generated_at: "2026-11-23T20:26:25.609Z"
+status: "active"
 ---
 
 # § 2717. Commission funding
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:52.843Z"
   - **(1)** The Commission, in coordination with the Secretary and in conjunction with the fiscal year of the United States, shall adopt an annual budget for the expenses and operation of the Commission.
   - **(2)** The budget of the Commission may include a request for appropriations, as authorized by section 2718 of this title , in an amount equal the amount of funds derived from assessments authorized by subsection (a) for the fiscal year preceding the fiscal year for which the appropriation request is made.
   - **(3)** The request for appropriations pursuant to paragraph (2) shall be subject to the approval of the Secretary and shall be included as a part of the budget request of the Department of the Interior.
+
+## Source Credit
+
+*([Pub. L. 100–497, § 18](https://www.govinfo.gov/link/plaw/100/public/497), Oct. 17, 1988, [102 Stat. 2484](https://www.govinfo.gov/link/statute/102/2484); [Pub. L. 105–83, title I, § 123(a)(1)](https://www.govinfo.gov/link/plaw/105/public/83) –(2)(B), Nov. 14, 1997, [111 Stat. 1566](https://www.govinfo.gov/link/statute/111/1566); [Pub. L. 109–221, title III, § 301(b)](https://www.govinfo.gov/link/plaw/109/public/221), May 12, 2006, [120 Stat. 341](https://www.govinfo.gov/link/statute/120/341).)*

@@ -3,9 +3,10 @@ title: "Section 9909 - Designation and redesignation of eligible entities in uns
 usc_title: 42
 usc_section: "9909"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9909"
-generated_at: "2026-03-30T02:56:11.377Z"
+generated_at: "2026-11-23T20:27:23.190Z"
+status: "active"
 ---
 
 # § 9909. Designation and redesignation of eligible entities in unserved areas
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.377Z"
     - **(B)** in the category described in section 9910(a)(2)(B) of this title , by members that reside in the neighborhood to be served.
 - **(b)** In designating an eligible entity under subsection (a), the chief executive officer shall grant the designation to an organization of demonstrated effectiveness in meeting the goals and purposes of this chapter and may give priority, in granting the designation, to eligible entities that are providing related services in the unserved area, consistent with the needs identified by a community-needs assessment.
 - **(c)** If no private, nonprofit organization is identified or determined to be qualified under subsection (a) to serve the unserved area as an eligible entity the chief executive officer may designate an appropriate political subdivision of the State to serve as an eligible entity for the area. In order to serve as the eligible entity for that area, the political subdivision shall have a board or other mechanism as required in section 9910(b) of this title .
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 676A](https://www.govinfo.gov/link/plaw/97/public/35), as added [Pub. L. 105–285, title II, § 201](https://www.govinfo.gov/link/plaw/105/public/285), Oct. 27, 1998, [112 Stat. 2739](https://www.govinfo.gov/link/statute/112/2739).)*

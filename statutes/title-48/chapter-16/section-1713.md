@@ -3,9 +3,10 @@ title: "Section 1713 - Qualifications for Office of Delegate"
 usc_title: 48
 usc_section: "1713"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1713"
-generated_at: "2026-03-30T02:56:14.592Z"
+generated_at: "2026-11-23T20:27:28.068Z"
+status: "active"
 ---
 
 # § 1713. Qualifications for Office of Delegate
@@ -16,3 +17,7 @@ To be eligible for the Office of Delegate a candidate must—
 - **(b)** have been a citizen of the United States for at least seven years prior to the date of the election,
 - **(c)** be an inhabitant of the territory from which he is elected, and
 - **(d)** not be, on the date of the election, a candidate for any other office.
+
+## Source Credit
+
+*([Pub. L. 92–271, § 3](https://www.govinfo.gov/link/plaw/92/public/271), Apr. 10, 1972, [86 Stat. 119](https://www.govinfo.gov/link/statute/86/119).)*

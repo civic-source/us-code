@@ -3,9 +3,10 @@ title: "Section 2996e - Powers, duties, and limitations"
 usc_title: 42
 usc_section: "2996e"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2996e"
-generated_at: "2026-03-30T02:56:11.169Z"
+generated_at: "2026-11-23T20:27:22.180Z"
+status: "active"
 ---
 
 # § 2996e. Powers, duties, and limitations
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:56:11.169Z"
   - **(1)** Employees of the Corporation or of recipients shall not at any time intentionally identify the Corporation or the recipient with any partisan or nonpartisan political activity associated with a political party or association, or the campaign of any candidate for public or party office.
   - **(2)** Employees of the Corporation and staff attorneys shall be deemed to be State or local employees for purposes of chapter 15 of title 5, except that no staff attorney may be a candidate in a partisan political election.
 - **(f)** If an action is commenced by the Corporation or by a recipient and a final order is entered in favor of the defendant and against the Corporation or a recipient’s plaintiff, the court shall, upon motion by the defendant and upon a finding by the court that the action was commenced or pursued for the sole purpose of harassment of the defendant or that the Corporation or a recipient’s plaintiff maliciously abused legal process, enter an order (which shall be appealable before being made final) awarding reasonable costs and legal fees incurred by the defendant in defense of the action, except when in contravention of a State law, a rule of court, or a statute of general applicability. Any such costs and fees shall be directly paid by the Corporation.
+
+## Source Credit
+
+*([Pub. L. 88–452, title X, § 1006](https://www.govinfo.gov/link/plaw/88/public/452), as added [Pub. L. 93–355, § 2](https://www.govinfo.gov/link/plaw/93/public/355), July 25, 1974, [88 Stat. 381](https://www.govinfo.gov/link/statute/88/381); amended [Pub. L. 95–222](https://www.govinfo.gov/link/plaw/95/public/222), §§ 5(a), (b), 6, 7(a), 8, Dec. 28, 1977, [91 Stat. 1619](https://www.govinfo.gov/link/statute/91/1619), 1620.)*

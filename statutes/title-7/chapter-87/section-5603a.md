@@ -3,9 +3,10 @@ title: "Section 5603a - Global market strategy"
 usc_title: 7
 usc_section: "5603a"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 5603a"
-generated_at: "2026-03-30T02:53:42.415Z"
+generated_at: "2026-11-23T20:25:41.648Z"
+status: "active"
 ---
 
 # § 5603a. Global market strategy
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:42.415Z"
 - **(b)** The consultations under subsection (a) shall include a review of—
   - **(1)** the strategic goals of the Department; and
   - **(2)** the progress of the Department in implementing the strategic goals through the global market strategy.
+
+## Source Credit
+
+*([Pub. L. 107–171, title III, § 3206](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 301](https://www.govinfo.gov/link/statute/116/301).)*

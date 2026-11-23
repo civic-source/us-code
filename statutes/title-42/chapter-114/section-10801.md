@@ -3,9 +3,10 @@ title: "Section 10801 - Congressional findings and statement of purpose"
 usc_title: 42
 usc_section: "10801"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10801"
-generated_at: "2026-03-30T02:56:11.391Z"
+generated_at: "2026-11-23T20:27:23.258Z"
+status: "active"
 ---
 
 # § 10801. Congressional findings and statement of purpose
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.391Z"
   - **(2)** to assist States to establish and operate a protection and advocacy system for individuals with mental illness which will—
     - **(A)** protect and advocate the rights of such individuals through activities to ensure the enforcement of the Constitution and Federal and State statutes; and
     - **(B)** investigate incidents of abuse and neglect of individuals with mental illness if the incidents are reported to the system or if there is probable cause to believe that the incidents occurred.
+
+## Source Credit
+
+*([Pub. L. 99–319, title I, § 101](https://www.govinfo.gov/link/plaw/99/public/319), May 23, 1986, [100 Stat. 478](https://www.govinfo.gov/link/statute/100/478); [Pub. L. 102–173](https://www.govinfo.gov/link/plaw/102/public/173), §§ 3, 10(2), Nov. 27, 1991, [105 Stat. 1217](https://www.govinfo.gov/link/statute/105/1217), 1219.)*

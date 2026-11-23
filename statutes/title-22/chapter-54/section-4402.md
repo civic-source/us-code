@@ -3,12 +3,17 @@ title: "Section 4402 - Grants; authorization; purposes; terms and conditions; de
 usc_title: 22
 usc_section: "4402"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4402"
-generated_at: "2026-03-30T02:55:05.411Z"
+generated_at: "2026-11-23T20:26:32.536Z"
+status: "active"
 ---
 
 # § 4402. Grants; authorization; purposes; terms and conditions; deposit of interest
 
 - **(a)** The Secretary of State shall make an annual grant to The Asia Foundation with the funds made available under section 4403 of this title . Such grants shall be in general support of the Foundation’s programs and operations. The terms and conditions of grants pursuant to this section shall be set forth in a grant agreement between the Secretary of State and The Asia Foundation.
 - **(b)** If funds made available to The Asia Foundation pursuant to this subchapter or pursuant to any other provision of law are, with the permission of the head of the Federal agency making the funds available, invested by the Foundation or any of its subgrantees pending disbursement, the resulting interest is not required to be deposited in the United States Treasury if that interest is used for the purposes for which the funds were made available.
+
+## Source Credit
+
+*([Pub. L. 98–164, title IV, § 403](https://www.govinfo.gov/link/plaw/98/public/164), Nov. 22, 1983, [97 Stat. 1038](https://www.govinfo.gov/link/statute/97/1038).)*

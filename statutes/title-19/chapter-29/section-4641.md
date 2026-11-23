@@ -3,9 +3,10 @@ title: "Section 4641 - Interagency Labor Committee for Monitoring and Enforcemen
 usc_title: 19
 usc_section: "4641"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 4641"
-generated_at: "2026-03-30T02:54:24.714Z"
+generated_at: "2026-11-23T20:26:11.174Z"
+status: "active"
 ---
 
 # § 4641. Interagency Labor Committee for Monitoring and Enforcement
@@ -19,3 +20,19 @@ generated_at: "2026-03-30T02:54:24.714Z"
   - **(2)** include representatives of such other Federal departments or agencies with relevant expertise as the President determines appropriate.
 - **(c)** The Interagency Labor Committee shall meet at least once every 90 days during the 5-year period beginning on January 29, 2020 , and at least once every 180 days thereafter for 5 years.
 - **(d)** Notwithstanding any other provision of law, the members of the Interagency Labor Committee may exchange information for purposes of carrying out this subchapter.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 116–113, title VII, § 711](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 81](https://www.govinfo.gov/link/statute/134/81).)*

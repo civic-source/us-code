@@ -3,9 +3,10 @@ title: "Section 122 - Payments to States for bond and other debt instrument fina
 usc_title: 23
 usc_section: "122"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 122"
-generated_at: "2026-03-30T02:55:12.549Z"
+generated_at: "2026-11-23T20:26:23.758Z"
+status: "active"
 ---
 
 # § 122. Payments to States for bond and other debt instrument financing
@@ -22,3 +23,17 @@ generated_at: "2026-03-30T02:55:12.549Z"
 - **(e)** Notwithstanding any other provision of law, the eligibility of an eligible debt financing instrument for reimbursement under subsection (b) shall not—
   - **(1)** constitute a commitment, guarantee, or obligation on the part of the United States to provide for payment of principal or interest on the eligible debt financing instrument; or
   - **(2)** create any right of a third party against the United States for payment under the eligible debt financing instrument.
+
+Definition of Eligible Debt Financing Instrument
+
+Federal Reimbursement
+
+Conditions on Payment
+
+Federal Share
+
+Statutory Construction
+
+## Source Credit
+
+*([Pub. L. 85–767](https://www.govinfo.gov/link/plaw/85/public/767), Aug. 27, 1958, [72 Stat. 900](https://www.govinfo.gov/link/statute/72/900); [Pub. L. 95–599, title I, § 115(b)](https://www.govinfo.gov/link/plaw/95/public/599), Nov. 6, 1978, [92 Stat. 2698](https://www.govinfo.gov/link/statute/92/2698); [Pub. L. 97–424, title I, § 107(f)](https://www.govinfo.gov/link/plaw/97/public/424), Jan. 6, 1983, [96 Stat. 2103](https://www.govinfo.gov/link/statute/96/2103); [Pub. L. 100–17, title I, § 133(b)(7)](https://www.govinfo.gov/link/plaw/100/public/17), Apr. 2, 1987, [101 Stat. 171](https://www.govinfo.gov/link/statute/101/171); [Pub. L. 104–59, title III, § 311(a)](https://www.govinfo.gov/link/plaw/104/public/59), Nov. 28, 1995, [109 Stat. 583](https://www.govinfo.gov/link/statute/109/583).)*

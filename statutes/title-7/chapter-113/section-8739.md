@@ -3,9 +3,10 @@ title: "Section 8739 - Availability of recourse loans for high moisture feed gra
 usc_title: 7
 usc_section: "8739"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 8739"
-generated_at: "2026-03-30T02:53:42.480Z"
+generated_at: "2026-11-23T20:25:41.904Z"
+status: "active"
 ---
 
 # § 8739. Availability of recourse loans for high moisture feed grains and seed cotton
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:42.480Z"
     - **(B)** the lower of the farm program payment yield used to make counter-cyclical payments under subchapter I or the actual yield on a field, as determined by the Secretary, that is similar to the field from which the corn or grain sorghum was obtained.
 - **(b)** For each of the 2008 through 2012 crops of upland cotton and extra long staple cotton, the Secretary shall make available recourse seed cotton loans, as determined by the Secretary, on any production.
 - **(c)** Repayment of a recourse loan made under this section shall be at the loan rate established for the commodity by the Secretary, plus interest (determined in accordance with section 7283 of this title ).
+
+## Source Credit
+
+*([Pub. L. 110–234, title I, § 1209](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 964](https://www.govinfo.gov/link/statute/122/964); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1209, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1692.)*

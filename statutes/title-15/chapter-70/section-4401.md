@@ -3,9 +3,10 @@ title: "Section 4401 - Public education"
 usc_title: 15
 usc_section: "4401"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 4401"
-generated_at: "2026-03-30T02:54:08.199Z"
+generated_at: "2026-11-23T20:26:04.335Z"
+status: "active"
 ---
 
 # § 4401. Public education
@@ -21,3 +22,11 @@ generated_at: "2026-03-30T02:54:08.199Z"
   - **(1)** to assist in the development of educational programs and materials and public service announcements respecting the dangers to human health from the use of smokeless tobacco,
   - **(2)** to assist in the distribution of such programs, materials, and announcements throughout the States, and
   - **(3)** to establish 18 as the minimum age for the purchase of smokeless tobacco.
+
+In General
+
+Exception
+
+## Source Credit
+
+*([Pub. L. 99–252, § 2](https://www.govinfo.gov/link/plaw/99/public/252), Feb. 27, 1986, [100 Stat. 30](https://www.govinfo.gov/link/statute/100/30).)*

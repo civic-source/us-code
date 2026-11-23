@@ -3,9 +3,10 @@ title: "Section 563 - Rules relating to dividends paid after close of taxable ye
 usc_title: 26
 usc_section: "563"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 563"
-generated_at: "2026-03-30T02:55:27.719Z"
+generated_at: "2026-11-23T20:26:45.825Z"
+status: "active"
 ---
 
 # § 563. Rules relating to dividends paid after close of taxable year
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:27.719Z"
   - **(1)** The undistributed personal holding company income of the corporation for the taxable year, computed without regard to this subsection, or
   - **(2)** 20 percent of the sum of the dividends paid during the taxable year, computed without regard to this subsection.
 - **(c)** For the purpose of applying section 562(a), with respect to distributions under subsection (a) or (b) of this section, a distribution made after the close of a taxable year and on or before the 15th day of the fourth month following the close of the taxable year shall be considered as made on the last day of such taxable year.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 199; [Pub. L. 91–172, title IX, § 914(a)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 723](https://www.govinfo.gov/link/statute/83/723); [Pub. L. 101–239, title VII, § 7401(b)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2356](https://www.govinfo.gov/link/statute/103/2356); [Pub. L. 108–357, title IV, § 413(c)(10)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1507](https://www.govinfo.gov/link/statute/118/1507); [Pub. L. 114–41, title II, § 2006(a)(2)(B)](https://www.govinfo.gov/link/plaw/114/public/41), July 31, 2015, [129 Stat. 457](https://www.govinfo.gov/link/statute/129/457).)*

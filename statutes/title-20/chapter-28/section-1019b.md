@@ -3,9 +3,10 @@ title: "Section 1019b - Loan information to be disclosed and model disclosure fo
 usc_title: 20
 usc_section: "1019b"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1019b"
-generated_at: "2026-03-30T02:54:48.096Z"
+generated_at: "2026-11-23T20:26:14.316Z"
+status: "active"
 ---
 
 # § 1019b. Loan information to be disclosed and model disclosure form for covered institutions, institution-affiliated organizations, and lenders participating in preferred lender arrangements
@@ -53,3 +54,17 @@ generated_at: "2026-03-30T02:54:48.096Z"
       - **(i)** comply with the code of conduct developed and published by such covered institution under subparagraphs (A) and (B) of section 1094(a)(25) of this title ;
       - **(ii)** if such institution-affiliated organization has a website, publish such code of conduct prominently on the website; and
       - **(iii)** administer and enforce such code of conduct by, at a minimum, requiring that all of such organization’s agents with responsibilities with respect to education loans be annually informed of the provisions of such code of conduct.
+
+(aa) collected by the lender at or prior to the disbursal of the loan, including whether the charges will be deducted from the proceeds of the loan or paid separately by the borrower; or
+
+(bb) paid in whole or in part by the lender.
+
+(aa) borrowers of loans made under section 1078 of this title ;
+
+(bb) borrowers of loans made under section 1078–2 or 1078–8 of this title, who pay the interest while in school; and
+
+(cc) borrowers of loans made under section 1078–2 or 1078–8 of this title, who do not pay the interest while in school.
+
+## Source Credit
+
+*([Pub. L. 89–329, title I, § 153](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title I, § 120](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3122](https://www.govinfo.gov/link/statute/122/3122); amended [Pub. L. 111–39, title I, § 101(b)(6)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1935](https://www.govinfo.gov/link/statute/123/1935).)*

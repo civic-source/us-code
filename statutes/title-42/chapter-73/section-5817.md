@@ -3,9 +3,10 @@ title: "Section 5817 - Powers of Administrator"
 usc_title: 42
 usc_section: "5817"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5817"
-generated_at: "2026-03-30T02:56:11.238Z"
+generated_at: "2026-11-23T20:27:22.559Z"
+status: "active"
 ---
 
 # § 5817. Powers of Administrator
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:11.238Z"
   - **(3)** Releases, before suit is brought, for past infringement of patents or copyrights.
 - **(e)** Subject to the provisions of chapter 12 of the Atomic Energy Act of 1954, as amended ( 42 U.S.C. 2161–216 6), and other applicable law, the Administrator shall disseminate scientific, technical, and practical information acquired pursuant to this subchapter through information programs and other appropriate means, and shall encourage the dissemination of scientific, technical, and practical information relating to energy so as to enlarge the fund of such information and to provide that free interchange of ideas and criticism which is essential to scientific and industrial progress and public understanding.
 - **(f)** The Administrator is authorized to accept, hold, administer, and utilize gifts, and bequests of property, both real and personal, for the purpose of aiding or facilitating the work of the Administration. Gifts and bequests of money and proceeds from sales of other property received as gifts or bequests shall be deposited in the Treasury and shall be disbursed upon the order of the Administrator. For the purposes of Federal income, estate, and gift taxes, property accepted under this section shall be considered as a gift or bequest to the United States.
+
+## Source Credit
+
+*([Pub. L. 93–438, title I, § 107](https://www.govinfo.gov/link/plaw/93/public/438), Oct. 11, 1974, [88 Stat. 1240](https://www.govinfo.gov/link/statute/88/1240).)*

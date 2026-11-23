@@ -3,9 +3,10 @@ title: "Section 31505 - Development of enhanced-use lease policy"
 usc_title: 51
 usc_section: "31505"
 chapter: 315
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 31505"
-generated_at: "2026-03-30T02:56:28.705Z"
+generated_at: "2026-11-23T20:27:37.473Z"
+status: "active"
 ---
 
 # § 31505. Development of enhanced-use lease policy
@@ -20,3 +21,36 @@ generated_at: "2026-03-30T02:56:28.705Z"
   - **(2)** Requirement for the identification of proposed physical and procedural changes needed to ensure security and restrict access to specified areas, coordination of proposed changes with existing site tenants, and development of estimated costs of such changes.
   - **(3)** Measures of effectiveness for the enhanced-use lease program.
   - **(4)** Accounting controls and procedures to ensure accountability, such as an audit trail and documentation to readily support financial transactions.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 31505 | 42 U.S.C. 17829 . | Pub. L. 110–422, title XI, § 1117 , Oct. 15, 2008 , 122 Stat. 4813 . |
+
+
+In General
+
+Contents
+
+Criteria for determining economic value
+
+Security and access
+
+Measures of effectiveness
+
+Accounting controls
+
+Historical and Revision Notes
+
+31505
+
+42 U.S.C. 17829
+
+Pub. L. 110–422, title XI, § 1117
+
+Oct. 15, 2008
+
+122 Stat. 4813
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3377](https://www.govinfo.gov/link/statute/124/3377).)*

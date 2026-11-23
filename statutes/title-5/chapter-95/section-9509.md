@@ -3,9 +3,10 @@ title: "Section 9509 - General workforce classification and pay"
 usc_title: 5
 usc_section: "9509"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 9509"
-generated_at: "2026-03-30T02:52:56.073Z"
+generated_at: "2026-11-23T20:25:32.261Z"
+status: "active"
 ---
 
 # § 9509. General workforce classification and pay
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:52:56.073Z"
     - **(E)** establish requirements for setting the pay of a supervisory employee whose position is in a pay band or who supervises employees whose positions are in pay bands; and
     - **(F)** establish requirements and methodologies for setting the pay of an employee upon conversion to a broad-banded system, initial appointment, change of position or type of appointment (including promotion, demotion, transfer, reassignment, reinstatement, placement in another pay band, or movement to a different geographic location), and movement between a broad-banded system and another pay system.
 - **(c)** With the approval of the Office of Personnel Management and in accordance with a plan for implementation submitted by the Secretary of the Treasury, the Secretary may, with respect to Internal Revenue Service employees who are covered by a broad-banded system established under this section, provide for variations from the provisions of subchapter VI of chapter 53.
+
+## Source Credit
+
+*(Added [Pub. L. 105–206, title I, § 1201(a)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 716](https://www.govinfo.gov/link/statute/112/716).)*

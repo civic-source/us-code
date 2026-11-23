@@ -3,9 +3,10 @@ title: "Section 20142 - Track safety"
 usc_title: 49
 usc_section: "20142"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 20142"
-generated_at: "2026-03-30T02:56:19.335Z"
+generated_at: "2026-11-23T20:27:34.792Z"
+status: "active"
 ---
 
 # § 20142. Track safety
@@ -25,3 +26,64 @@ generated_at: "2026-03-30T02:56:19.335Z"
     - **(B)** instruct Administration track inspectors to obtain copies of the most recent continuous welded rail programs of each railroad within the inspectors’ areas of responsibility and require that inspectors use those programs when conducting track inspections; and
     - **(C)** establish a program to review continuous welded rail joint bar inspection data from railroads and Administration track inspectors periodically.
   - **(2)** Whenever the Administration determines that it is necessary or appropriate, the Administration may require railroads to increase the frequency of inspection, or improve the methods of inspection, of joint bars in continuous welded rail.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 20142(a) | 45:431(s)(1) (1st sentence), (2). | Oct. 16, 1970 , Pub. L. 91–458 , 84 Stat. 971 , § 202(s); added Sept. 3, 1992 , Pub. L. 102–365, § 8 , 106 Stat. 976 . |
+| 20142(b) | 45:431(s)(1) (last sentence). |  |
+| 20142(c) | 45:431(s)(3). |  |
+
+
+Review of Existing Regulations
+
+Revision of Regulations
+
+Comptroller General’s Study and Report
+
+Identification of Internal Rail Defects
+
+Track Standards.—
+
+In general
+
+Inspection
+
+Historical and Revision Notes
+
+20142(a)
+
+Oct. 16, 1970
+
+Pub. L. 91–458
+
+84 Stat. 971
+
+Sept. 3, 1992
+
+Pub. L. 102–365, § 8
+
+106 Stat. 976
+
+20142(b)
+
+20142(c)
+
+In General
+
+Rulemaking
+
+Report
+
+Construction
+
+Study
+
+Considerations
+
+Update of Regulations
+
+Concrete Cross Ties
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 879](https://www.govinfo.gov/link/statute/108/879); [Pub. L. 103–440, title II, § 208](https://www.govinfo.gov/link/plaw/103/public/440), Nov. 2, 1994, [108 Stat. 4621](https://www.govinfo.gov/link/statute/108/4621); [Pub. L. 109–59, title IX, § 9005(a)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1924](https://www.govinfo.gov/link/statute/119/1924).)*

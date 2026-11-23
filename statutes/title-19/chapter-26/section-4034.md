@@ -3,9 +3,10 @@ title: "Section 4034 - Retroactive application for certain liquidations and reli
 usc_title: 19
 usc_section: "4034"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 4034"
-generated_at: "2026-03-30T02:54:24.700Z"
+generated_at: "2026-11-23T20:26:11.115Z"
+status: "active"
 ---
 
 # § 4034. Retroactive application for certain liquidations and reliquidations of textile or apparel goods
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:24.700Z"
     - **(B)** to reconstruct the entry if it cannot be located; and
   - **(2)** to determine that the good satisfies the conditions set out in subsection (a).
 - **(d)** As used in this section, the term “entry” includes a withdrawal from warehouse for consumption.
+
+## Source Credit
+
+*([Pub. L. 109–53, title II, § 205](https://www.govinfo.gov/link/plaw/109/public/53), Aug. 2, 2005, [119 Stat. 483](https://www.govinfo.gov/link/statute/119/483); [Pub. L. 109–280, title XIV, § 1634(d)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1168](https://www.govinfo.gov/link/statute/120/1168).)*

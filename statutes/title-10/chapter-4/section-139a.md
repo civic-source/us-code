@@ -3,9 +3,10 @@ title: "Section 139a - Director of Cost Assessment and Program Evaluation"
 usc_title: 10
 usc_section: "139a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 139a"
-generated_at: "2026-03-30T02:53:38.037Z"
+generated_at: "2026-11-23T20:25:50.829Z"
+status: "active"
 ---
 
 # § 139a. Director of Cost Assessment and Program Evaluation
@@ -51,3 +52,61 @@ generated_at: "2026-03-30T02:53:38.037Z"
   - **(2)** Each report required by paragraph (1) shall be submitted in classified form, but shall include an unclassified summary.
   - **(3)** Not later than 15 days after the submission of each report required by paragraph (1), the Director of Cost Assessment and Program Evaluation shall provide to the congressional defense committees a briefing on the contents of the report.
 - **(h)** Beginning not later than 30 days after the date of the enactment of this subsection, and on a quarterly basis thereafter, the Director of Cost Assessment and Program Evaluation shall provide to the congressional defense committees a briefing on the activities carried out by the Director during the preceding quarter and any ongoing activities of the Director as of the date of briefing.
+
+Appointment
+
+Independent Advice to Secretary of Defense
+
+Deputy Directors
+
+Responsibilities
+
+Program Evaluation Competitive Analysis Cell.—
+
+Inclusion of Risk Estimates in Certain Submissions
+
+Annual Reports.—
+
+In general
+
+Form
+
+Briefings
+
+Quarterly Briefings
+
+Transfer of functions
+
+Transfer of personnel to deputy director for independent cost assessment
+
+Transfer of personnel to deputy director for program analysis and evaluation
+
+Pilot Program on Alternative Analysis.—
+
+In general
+
+Structure
+
+Requirements
+
+Termination
+
+Establishment of Analysis Working Group.—
+
+In general
+
+Personnel
+
+Membership.—
+
+Regular members
+
+Observers
+
+Duties
+
+Rule of Construction
+
+## Source Credit
+
+*(Added [Pub. L. 111–23, title I, § 101(a)(1)](https://www.govinfo.gov/link/plaw/111/public/23), May 22, 2009, [123 Stat. 1705](https://www.govinfo.gov/link/statute/123/1705), § 139c; renumbered § 139a and amended [Pub. L. 111–383, div. A, title IX, § 901(f)](https://www.govinfo.gov/link/plaw/111/public/383), title X, § 1075(b)(5), Jan. 7, 2011, [124 Stat. 4322](https://www.govinfo.gov/link/statute/124/4322), 4369; [Pub. L. 112–239, div. A, title X, § 1076(f)(4)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1952](https://www.govinfo.gov/link/statute/126/1952); [Pub. L. 115–91, div. A, title IX, § 912(c)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1521](https://www.govinfo.gov/link/statute/131/1521); [Pub. L. 116–92, div. A, title IX, § 902(5)](https://www.govinfo.gov/link/plaw/116/public/92), title XVI, § 1621(e)(1)(A)(iii), Dec. 20, 2019, [133 Stat. 1543](https://www.govinfo.gov/link/statute/133/1543), 1733; [Pub. L. 116–283, div. A, title XVIII, § 1883(b)(2)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4294](https://www.govinfo.gov/link/statute/134/4294); [Pub. L. 118–31, div. A, title IX, § 902(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 355](https://www.govinfo.gov/link/statute/137/355); [Pub. L. 118–159, div. A, title XVII, § 1701(a)(3)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2203](https://www.govinfo.gov/link/statute/138/2203); [Pub. L. 119–60, div. A, title XVII, § 1701(a)(4)](https://www.govinfo.gov/link/plaw/119/public/60), title XVIII, § 1801(a)(2)(C), Dec. 18, 2025, [139 Stat. 1208](https://www.govinfo.gov/link/statute/139/1208), 1222.)*

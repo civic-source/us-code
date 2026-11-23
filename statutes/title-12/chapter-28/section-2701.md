@@ -3,9 +3,10 @@ title: "Section 2701 - Congressional findings and declaration of purpose"
 usc_title: 12
 usc_section: "2701"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 2701"
-generated_at: "2026-03-30T02:53:53.487Z"
+generated_at: "2026-11-23T20:25:59.305Z"
+status: "active"
 ---
 
 # § 2701. Congressional findings and declaration of purpose
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:53.487Z"
   - **(2)** as a result of these adverse economic conditions the capacity of many homeowners to continue to make mortgage payments has deteriorated and may further deteriorate in the months ahead, leading to the possibility of widespread mortgage foreclosures and distress sales of homes; and
   - **(3)** many of these homeowners could retain their homes with temporary financial assistance until economic conditions improve.
 - **(b)** It is the purpose of this chapter to provide a standby authority which will prevent widespread mortgage foreclosures and distress sales of homes resulting from the temporary loss of employment and income through a program of emergency loans and advances and emergency mortgage relief payments to homeowners to defray mortgage expenses.
+
+## Source Credit
+
+*([Pub. L. 94–50, title I, § 102](https://www.govinfo.gov/link/plaw/94/public/50), July 2, 1975, [89 Stat. 249](https://www.govinfo.gov/link/statute/89/249).)*

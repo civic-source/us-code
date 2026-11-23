@@ -3,9 +3,10 @@ title: "Section 2707 - International communications and information policy; duti
 usc_title: 22
 usc_section: "2707"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2707"
-generated_at: "2026-03-30T02:55:05.379Z"
+generated_at: "2026-11-23T20:26:32.379Z"
+status: "active"
 ---
 
 # § 2707. International communications and information policy; duties of Secretary of State
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.379Z"
   - **(5)** maintain liaison with the members and staffs of committees of the Congress concerned with international communications and information policy and provide testimony before such committees;
   - **(6)** maintain appropriate liaison with representatives of the private sector to keep informed of their interests and problems, meet with them, and provide such assistance as may be needed to ensure that matters of concern to the private sector are promptly considered by the Department or other executive branch agencies; and
   - **(7)** assist in arranging meetings of such public sector advisory groups as may be established to advise the Department of State and other executive branch agencies in connection with international communications and information policy issues.
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title I, § 35, as added [Pub. L. 98–164, title I, § 124](https://www.govinfo.gov/link/plaw/98/public/164), Nov. 22, 1983, [97 Stat. 1025](https://www.govinfo.gov/link/statute/97/1025); amended [Pub. L. 100–204, title I, § 173(a)(1)](https://www.govinfo.gov/link/plaw/100/public/204), Dec. 22, 1987, [101 Stat. 1360](https://www.govinfo.gov/link/statute/101/1360); [Pub. L. 103–236, title I, § 162(k)(1)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 408](https://www.govinfo.gov/link/statute/108/408).)*

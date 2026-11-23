@@ -3,9 +3,10 @@ title: "Section 716 - Arctic maritime transportation"
 usc_title: 14
 usc_section: "716"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 716"
-generated_at: "2026-03-30T02:53:51.490Z"
+generated_at: "2026-11-23T20:25:54.540Z"
+status: "active"
 ---
 
 # § 716. Arctic maritime transportation
@@ -21,3 +22,19 @@ generated_at: "2026-03-30T02:53:51.490Z"
 - **(d)** The Secretary may, subject to the availability of appropriations, enter into cooperative agreements, contracts, or other agreements with, or make grants to, individuals and governments to carry out the purpose of this section or any agreements established under subsection (b).
 - **(e)** The Secretary shall promote safe maritime navigation by means of icebreaking where necessary, feasible, and effective to carry out the purposes of this section.
 - **(f)** In this section, the term “Arctic” has the meaning given such term in section 112 of the Arctic Research and Policy Act of 1984 ( 15 U.S.C. 4111 ).
+
+Purpose
+
+International Maritime Organization Agreements
+
+Coordination by Committee on the Maritime Transportation System
+
+Agreements and Contracts
+
+Icebreaking
+
+Arctic Definition
+
+## Source Credit
+
+*(Added [Pub. L. 113–281, title V, § 501(a)](https://www.govinfo.gov/link/plaw/113/public/281), Dec. 18, 2014, [128 Stat. 3056](https://www.govinfo.gov/link/statute/128/3056), § 90; amended [Pub. L. 115–232, div. C, title XXXV, § 3533(d)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2321](https://www.govinfo.gov/link/statute/132/2321); renumbered § 716, [Pub. L. 115–282, title I, § 106(b)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4203](https://www.govinfo.gov/link/statute/132/4203).)*

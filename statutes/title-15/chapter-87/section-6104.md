@@ -3,9 +3,10 @@ title: "Section 6104 - Actions by private persons"
 usc_title: 15
 usc_section: "6104"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 6104"
-generated_at: "2026-03-30T02:54:08.209Z"
+generated_at: "2026-11-23T20:26:04.383Z"
+status: "active"
 ---
 
 # § 6104. Actions by private persons
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.209Z"
 - **(d)** The court, in issuing any final order in any action brought under subsection (a), may award costs of suit and reasonable fees for attorneys and expert witnesses to the prevailing party.
 - **(e)** Nothing in this section shall restrict any right which any person may have under any statute or common law.
 - **(f)** Any civil action brought under subsection (a) in a district court of the United States may be brought in the district in which the defendant is found, is an inhabitant, or transacts business or wherever venue is proper under section 1391 of title 28 . Process in such an action may be served in any district in which the defendant is an inhabitant or in which the defendant may be found.
+
+## Source Credit
+
+*([Pub. L. 103–297, § 5](https://www.govinfo.gov/link/plaw/103/public/297), Aug. 16, 1994, [108 Stat. 1549](https://www.govinfo.gov/link/statute/108/1549); [Pub. L. 111–203, title X, § 1100C(c)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2111](https://www.govinfo.gov/link/statute/124/2111).)*

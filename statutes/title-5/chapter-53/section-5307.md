@@ -3,9 +3,10 @@ title: "Section 5307 - Limitation on certain payments"
 usc_title: 5
 usc_section: "5307"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 5307"
-generated_at: "2026-03-30T02:52:56.012Z"
+generated_at: "2026-11-23T20:25:31.878Z"
+status: "active"
 ---
 
 # § 5307. Limitation on certain payments
@@ -36,3 +37,21 @@ generated_at: "2026-03-30T02:52:56.012Z"
       - **(ii)** with respect to employees of the Office of the Architect of the Capitol shall be the responsibility of the Architect of the Capitol; and
       - **(iii)** with respect to employees of the Government Publishing Office shall be the responsibility of the Director of the Government Publishing Office.
     - **(B)** The regulations under this paragraph shall be consistent with those promulgated under paragraph (3).
+
+Extension to 2009.—
+
+In general
+
+Limitation
+
+Extension to 2010.—
+
+In general
+
+Limitation
+
+Barack Obama.
+
+## Source Credit
+
+*(Added [Pub. L. 91–656, § 3(a)](https://www.govinfo.gov/link/plaw/91/public/656), Jan. 8, 1971, [84 Stat. 1950](https://www.govinfo.gov/link/statute/84/1950); amended [Pub. L. 97–258, § 3(a)(10)](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 1063](https://www.govinfo.gov/link/statute/96/1063); [Pub. L. 101–509, title V, § 529 [title I, § 101(a)(1)]](https://www.govinfo.gov/link/plaw/101/public/509), Nov. 5, 1990, [104 Stat. 1427](https://www.govinfo.gov/link/statute/104/1427), 1438; [Pub. L. 102–77, § 2](https://www.govinfo.gov/link/plaw/102/public/77), July 26, 1991, [105 Stat. 369](https://www.govinfo.gov/link/statute/105/369); [Pub. L. 107–273, div. A, title II, § 207(b)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1780](https://www.govinfo.gov/link/statute/116/1780); [Pub. L. 107–296, title XIII, § 1322](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2297](https://www.govinfo.gov/link/statute/116/2297); [Pub. L. 110–372, § 3(a)](https://www.govinfo.gov/link/plaw/110/public/372), Oct. 8, 2008, [122 Stat. 4045](https://www.govinfo.gov/link/statute/122/4045); [Pub. L. 114–113, div. I, title II, § 210(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2674](https://www.govinfo.gov/link/statute/129/2674).)*

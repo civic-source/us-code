@@ -3,9 +3,10 @@ title: "Section 8301 - Findings; statement of purposes"
 usc_title: 42
 usc_section: "8301"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8301"
-generated_at: "2026-03-30T02:56:11.340Z"
+generated_at: "2026-11-23T20:27:23.031Z"
+status: "active"
 ---
 
 # § 8301. Findings; statement of purposes
@@ -24,3 +25,11 @@ generated_at: "2026-03-30T02:56:11.340Z"
   - **(8)** to insure that adequate supplies of natural gas are available for essential agricultural uses (including crop drying, seed drying, irrigation, fertilizer production, and production of essential fertilizer ingredients for such uses);
   - **(9)** to reduce the vulnerability of the United States to energy supply interruptions; and
   - **(10)** to regulate interstate commerce.
+
+Exemptions in the Case of Certain Powerplants
+
+Exemptions Under Section
+
+## Source Credit
+
+*([Pub. L. 95–620, title I, § 102](https://www.govinfo.gov/link/plaw/95/public/620), Nov. 9, 1978, [92 Stat. 3291](https://www.govinfo.gov/link/statute/92/3291); [Pub. L. 100–42, § 1(c)(1)](https://www.govinfo.gov/link/plaw/100/public/42), May 21, 1987, [101 Stat. 310](https://www.govinfo.gov/link/statute/101/310).)*

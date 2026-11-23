@@ -3,9 +3,10 @@ title: "Section 1017 - Discharge of indebtedness"
 usc_title: 26
 usc_section: "1017"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1017"
-generated_at: "2026-03-30T02:55:27.755Z"
+generated_at: "2026-11-23T20:26:46.014Z"
+status: "active"
 ---
 
 # § 1017. Discharge of indebtedness
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:55:27.755Z"
     - **(A)** any property the basis of which is reduced under this section and which is neither section 1245 property nor section 1250 property shall be treated as section 1245 property, and
     - **(B)** any reduction under this section shall be treated as a deduction allowed for depreciation.
   - **(2)** For purposes of section 1250(b), the determination of what would have been the depreciation adjustments under the straight line method shall be made as if there had been no reduction under this section.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 301; [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1906(b)(13)(A), 1951(c)(1), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834), 1840; [Pub. L. 96–589, § 2(b)](https://www.govinfo.gov/link/plaw/96/public/589), Dec. 24, 1980, [94 Stat. 3394](https://www.govinfo.gov/link/statute/94/3394); [Pub. L. 99–514, title IV, § 405(b)](https://www.govinfo.gov/link/plaw/99/public/514), title VIII, § 822(b)(4), (5), Oct. 22, 1986, [100 Stat. 2224](https://www.govinfo.gov/link/statute/100/2224), 2373; [Pub. L. 100–647, title I, § 1004(a)(5)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3386](https://www.govinfo.gov/link/statute/102/3386); [Pub. L. 101–508, title XI, § 11704(a)(12)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–518](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–66, title XIII, § 13150(c)(6)](https://www.govinfo.gov/link/plaw/103/public/66) –(8), Aug. 10, 1993, [107 Stat. 448](https://www.govinfo.gov/link/statute/107/448); [Pub. L. 104–188, title I, § 1703(n)(5)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1877](https://www.govinfo.gov/link/statute/110/1877); [Pub. L. 105–206, title VI, § 6023(11)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 825](https://www.govinfo.gov/link/statute/112/825); [Pub. L. 106–170, title V, § 532(c)(2)(S)](https://www.govinfo.gov/link/plaw/106/public/170), Dec. 17, 1999, [113 Stat. 1931](https://www.govinfo.gov/link/statute/113/1931).)*

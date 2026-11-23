@@ -3,9 +3,10 @@ title: "Section 3210 - Franked mail transmitted by the Vice President, Members o
 usc_title: 39
 usc_section: "3210"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "39 U.S.C. § 3210"
-generated_at: "2026-03-30T02:55:43.693Z"
+generated_at: "2026-11-23T20:26:57.746Z"
+status: "active"
 ---
 
 # § 3210. Franked mail transmitted by the Vice President, Members of Congress, and congressional officials
@@ -71,3 +72,9 @@ generated_at: "2026-03-30T02:55:43.693Z"
 - **(e)** The frankability of mail matter shall be determined under the provisions of this section by the type and content of the mail sent, or to be sent.
 - **(f)** Any mass mailing which otherwise would be permitted to be mailed as franked mail under this section shall not be so mailed unless the cost of preparing and printing the mail matter is paid exclusively from funds appropriated by Congress, except that an otherwise frankable mass mailing may contain, as an enclosure or supplement, any public service material which is purely instructional or informational in nature, and which in content is frank­able under this section.
 - **(g)** Notwithstanding any other provision of Federal, State, or local law, or any regulation thereunder, the equivalent amount of postage determined under section 3216 of this title on franked mail mailed under the frank of the Vice President or a Member of Congress, and the cost of preparing or printing such frankable matter for such mailing under the frank, shall not be considered as a contribution to, or an expenditure by, the Vice President or a Member of Congress for the purpose of determining any limitation on expenditures or contributions with respect to any such official, imposed by any Federal, State, or local law or regulation, in connection with any campaign of such official for election to any Federal office.
+
+“Effective January 1, 1990 , a mass mailing (as defined in section 3210(a)(6)(E) of title 39 , United States Code) by a Senator shall be limited to 2 sheets of paper (or their equivalent), including any enclosure that—
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 754](https://www.govinfo.gov/link/statute/84/754); [Pub. L. 92–51, § 101](https://www.govinfo.gov/link/plaw/92/public/51), July 9, 1971, [85 Stat. 132](https://www.govinfo.gov/link/statute/85/132); [Pub. L. 93–191, § 1(a)](https://www.govinfo.gov/link/plaw/93/public/191), Dec. 18, 1973, [87 Stat. 737](https://www.govinfo.gov/link/statute/87/737); [Pub. L. 94–177](https://www.govinfo.gov/link/plaw/94/public/177), Dec. 23, 1975, [89 Stat. 1032](https://www.govinfo.gov/link/statute/89/1032); [Pub. L. 95–521, title VII, § 714(a)](https://www.govinfo.gov/link/plaw/95/public/521), Oct. 26, 1978, [92 Stat. 1884](https://www.govinfo.gov/link/statute/92/1884); [Pub. L. 97–69](https://www.govinfo.gov/link/plaw/97/public/69), §§ 1–3(a), 4, Oct. 26, 1981, [95 Stat. 1041–1043](https://www.govinfo.gov/link/statute/95/1041); [Pub. L. 97–263, § 1(1)](https://www.govinfo.gov/link/plaw/97/public/263), (2), Sept. 24, 1982, [96 Stat. 1132](https://www.govinfo.gov/link/statute/96/1132); [Pub. L. 101–163, title III, § 318](https://www.govinfo.gov/link/plaw/101/public/163), Nov. 21, 1989, [103 Stat. 1067](https://www.govinfo.gov/link/statute/103/1067); [Pub. L. 101–520, title III](https://www.govinfo.gov/link/plaw/101/public/520), §§ 311(h)(1), 316, Nov. 5, 1990, [104 Stat. 2280](https://www.govinfo.gov/link/statute/104/2280), 2283; [Pub. L. 102–392, title III, § 309(a)](https://www.govinfo.gov/link/plaw/102/public/392), Oct. 6, 1992, [106 Stat. 1722](https://www.govinfo.gov/link/statute/106/1722); [Pub. L. 104–197, title I, § 102(a)](https://www.govinfo.gov/link/plaw/104/public/197), Sept. 16, 1996, [110 Stat. 2401](https://www.govinfo.gov/link/statute/110/2401); [Pub. L. 109–435, title X, § 1010(g)(4)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3262](https://www.govinfo.gov/link/statute/120/3262); [Pub. L. 116–136, div. B, title IX, § 19006(a)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 578](https://www.govinfo.gov/link/statute/134/578); [Pub. L. 116–260, div. I, title I, § 116(b)(2)(A)(i)](https://www.govinfo.gov/link/plaw/116/public/260), (e)(1)–(5)(A), (6), Dec. 27, 2020, [134 Stat. 1637](https://www.govinfo.gov/link/statute/134/1637), 1640, 1641.)*

@@ -3,9 +3,10 @@ title: "Section 1746 - Unsworn declarations under penalty of per­jury"
 usc_title: 28
 usc_section: "1746"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 1746"
-generated_at: "2026-03-30T02:55:30.144Z"
+generated_at: "2026-11-23T20:26:36.474Z"
+status: "active"
 ---
 
 # § 1746. Unsworn declarations under penalty of per­jury
@@ -14,3 +15,7 @@ Wherever, under any law of the United States or under any rule, regulation, orde
 
   - **(1)** If executed without the United States: “I declare (or certify, verify, or state) under penalty of perjury under the laws of the United States of America that the foregoing is true and correct. Executed on (date). (Signature)”.
   - **(2)** If executed within the United States, its territories, possessions, or commonwealths: “I declare (or certify, verify, or state) under penalty of perjury that the foregoing is true and correct. Executed on (date). (Signature)”.
+
+## Source Credit
+
+*(Added [Pub. L. 94–550, § 1(a)](https://www.govinfo.gov/link/plaw/94/public/550), Oct. 18, 1976, [90 Stat. 2534](https://www.govinfo.gov/link/statute/90/2534).)*

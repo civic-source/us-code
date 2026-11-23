@@ -3,9 +3,10 @@ title: "Section 20504 - Simultaneous application for voter registration and appl
 usc_title: 52
 usc_section: "20504"
 chapter: 205
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "52 U.S.C. § 20504"
-generated_at: "2026-03-30T02:56:30.164Z"
+generated_at: "2026-11-23T20:27:36.967Z"
+status: "active"
 ---
 
 # § 20504. Simultaneous application for voter registration and application for motor vehicle driver’s license
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:56:30.164Z"
 - **(e)**
   - **(1)** Subject to paragraph (2), a completed voter registration portion of an application for a State motor vehicle driver’s license accepted at a State motor vehicle authority shall be transmitted to the appropriate State election official not later than 10 days after the date of acceptance.
   - **(2)** If a registration application is accepted within 5 days before the last day for registration to vote in an election, the application shall be transmitted to the appropriate State election official not later than 5 days after the date of acceptance.
+
+## Source Credit
+
+*([Pub. L. 103–31, § 5](https://www.govinfo.gov/link/plaw/103/public/31), May 20, 1993, [107 Stat. 78](https://www.govinfo.gov/link/statute/107/78).)*

@@ -3,9 +3,10 @@ title: "Section 1964 - Security systems for Capitol buildings and grounds"
 usc_title: 2
 usc_section: "1964"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1964"
-generated_at: "2026-03-30T02:53:04.821Z"
+generated_at: "2026-11-23T20:25:28.998Z"
+status: "active"
 ---
 
 # § 1964. Security systems for Capitol buildings and grounds
@@ -23,3 +24,15 @@ generated_at: "2026-03-30T02:53:04.821Z"
     - **(B)** within the Electronics Engineering Division of the Office of the Architect of the Capitol; and
     - **(C)** related to the design or installation of security systems for the Capitol buildings and grounds.
   - **(3)** All annual leave and sick leave standing to the credit of an individual immediately before such individual is transferred under paragraph (1) shall be credited to such individual, without adjustment, in the new position of the individual.
+
+capitol buildings
+
+Capitol Buildings and Grounds
+
+capitol buildings
+
+Capitol Buildings and Grounds
+
+## Source Credit
+
+*([Pub. L. 104–53, title III, § 308](https://www.govinfo.gov/link/plaw/104/public/53), Nov. 19, 1995, [109 Stat. 537](https://www.govinfo.gov/link/statute/109/537).)*

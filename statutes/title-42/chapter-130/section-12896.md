@@ -3,9 +3,10 @@ title: "Section 12896 - Definitions"
 usc_title: 42
 usc_section: "12896"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12896"
-generated_at: "2026-03-30T02:56:11.435Z"
+generated_at: "2026-11-23T20:27:23.454Z"
+status: "active"
 ---
 
 # § 12896. Definitions
@@ -30,3 +31,7 @@ For purposes of this part:
     - **(B)**
       - **(i)** has 1 or more minor children for whom the individual has custody or joint custody; or
       - **(ii)** is pregnant.
+
+## Source Credit
+
+*([Pub. L. 101–625, title IV, § 446](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4179](https://www.govinfo.gov/link/statute/104/4179); [Pub. L. 102–550, title I, § 181(g)(2)](https://www.govinfo.gov/link/plaw/102/public/550), (h), Oct. 28, 1992, [106 Stat. 3736](https://www.govinfo.gov/link/statute/106/3736).)*

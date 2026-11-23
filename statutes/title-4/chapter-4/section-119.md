@@ -3,9 +3,10 @@ title: "Section 119 - Electronic databases for nationwide standard numeric juris
 usc_title: 4
 usc_section: "119"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "4 U.S.C. § 119"
-generated_at: "2026-03-30T02:52:51.498Z"
+generated_at: "2026-11-23T20:25:27.031Z"
+status: "active"
 ---
 
 # § 119. Electronic databases for nationwide standard numeric jurisdictional codes
@@ -18,3 +19,17 @@ generated_at: "2026-03-30T02:52:51.498Z"
     - **(C)** The nationwide standard numeric codes shall contain the same number of numeric digits with each digit or combination of digits referring to the same level of taxing jurisdiction throughout the United States using a format similar to FIPS 55–3 or other appropriate standard approved by the Federation of Tax Administrators and the Multistate Tax Commission, or their successors. Each address shall be provided in standard postal format.
 - **(b)** A State or designated database provider that provides or maintains an electronic database described in subsection (a) shall provide notice of the availability of the then current electronic database, and any subsequent revisions thereof, by publication in the manner normally employed for the publication of informational tax, charge, or fee notices to taxpayers in such State.
 - **(c)** A home service provider using the data contained in an electronic database described in subsection (a) shall be held harmless from any tax, charge, or fee liability that otherwise would be due solely as a result of any error or omission in such database provided by a State or designated database provider. The home service provider shall reflect changes made to such database during a calendar quarter not later than 30 days after the end of such calendar quarter for each State that issues notice of the availability of an electronic database reflecting such changes under subsection (b).
+
+Electronic Database.—
+
+Provision of database
+
+Format
+
+Notice; Updates
+
+User Held Harmless
+
+## Source Credit
+
+*(Added [Pub. L. 106–252, § 2(a)](https://www.govinfo.gov/link/plaw/106/public/252), July 28, 2000, [114 Stat. 627](https://www.govinfo.gov/link/statute/114/627).)*

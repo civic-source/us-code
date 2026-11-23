@@ -3,9 +3,10 @@ title: "Section 1232h - Protection of pupil rights"
 usc_title: 20
 usc_section: "1232h"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1232h"
-generated_at: "2026-03-30T02:54:48.158Z"
+generated_at: "2026-11-23T20:26:14.620Z"
+status: "active"
 ---
 
 # § 1232h. Protection of pupil rights
@@ -90,3 +91,7 @@ generated_at: "2026-03-30T02:54:48.158Z"
   - **(1)** there has been a failure to comply with such section; and
   - **(2)** compliance with such section cannot be secured by voluntary means.
 - **(f)** The Secretary shall establish or designate an office and review board within the Department of Education to investigate, process, review, and adjudicate violations of the rights established under this section.
+
+## Source Credit
+
+*([Pub. L. 90–247, title IV, § 445](https://www.govinfo.gov/link/plaw/90/public/247), formerly § 439, as added [Pub. L. 93–380, title V, § 514(a)](https://www.govinfo.gov/link/plaw/93/public/380), Aug. 21, 1974, [88 Stat. 574](https://www.govinfo.gov/link/statute/88/574); amended [Pub. L. 95–561, title XII, § 1250](https://www.govinfo.gov/link/plaw/95/public/561), Nov. 1, 1978, [92 Stat. 2355](https://www.govinfo.gov/link/statute/92/2355); [Pub. L. 103–227, title X, § 1017](https://www.govinfo.gov/link/plaw/103/public/227), Mar. 31, 1994, [108 Stat. 268](https://www.govinfo.gov/link/statute/108/268); renumbered § 445, [Pub. L. 103–382, title II, § 212(b)(1)](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 3913](https://www.govinfo.gov/link/statute/108/3913); amended [Pub. L. 107–110, title X, § 1061](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2083](https://www.govinfo.gov/link/statute/115/2083); [Pub. L. 114–95, title IX, § 9215(mm)(5)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2176](https://www.govinfo.gov/link/statute/129/2176).)*

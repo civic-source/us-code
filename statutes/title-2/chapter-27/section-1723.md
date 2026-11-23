@@ -3,9 +3,10 @@ title: "Section 1723 - Service of members; meetings"
 usc_title: 2
 usc_section: "1723"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1723"
-generated_at: "2026-03-30T02:53:04.816Z"
+generated_at: "2026-11-23T20:25:28.981Z"
+status: "active"
 ---
 
 # § 1723. Service of members; meetings
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:04.816Z"
 - **(b)** The Librarian shall establish rules and procedures to address any potential conflict of interest between a member of the Board and responsibilities of the Board.
 - **(c)** The Board shall meet at least once each fiscal year. Meetings shall be at the call of the Librarian.
 - **(d)** Eleven members of the Board shall constitute a quorum for the transaction of business.
+
+## Source Credit
+
+*([Pub. L. 106–474, title I, § 123](https://www.govinfo.gov/link/plaw/106/public/474), Nov. 9, 2000, [114 Stat. 2089](https://www.govinfo.gov/link/statute/114/2089).)*

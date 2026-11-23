@@ -3,9 +3,10 @@ title: "Section 6 - Civil penalties"
 usc_title: 16
 usc_section: "6"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6"
-generated_at: "2026-03-30T02:54:22.855Z"
+generated_at: "2026-11-23T20:26:20.067Z"
+status: "active"
 ---
 
 # § 470aaa–6. Civil penalties
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:22.855Z"
   - **(1)** To protect, restore, or repair the paleontological resources and sites which were the subject of the action, and to protect, monitor, and study the resources and sites.
   - **(2)** To provide educational materials to the public about paleontological resources and sites.
   - **(3)** To provide for the payment of rewards as provided in section 470aaa–7 of this title .
+
+## Source Credit
+
+*([Pub. L. 111–11, title VI, § 6307](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1175](https://www.govinfo.gov/link/statute/123/1175).)*

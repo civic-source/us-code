@@ -3,9 +3,10 @@ title: "Section 1711 - Establishment of program by Librarian of Congress"
 usc_title: 2
 usc_section: "1711"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1711"
-generated_at: "2026-03-30T02:53:04.816Z"
+generated_at: "2026-11-23T20:25:28.981Z"
+status: "active"
 ---
 
 # § 1711. Establishment of program by Librarian of Congress
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:04.816Z"
   - **(3)** increase accessibility of sound recordings for educational purposes;
   - **(4)** undertake studies and investigations of sound recording preservation activities as needed, including the efficacy of new technologies, and recommend solutions to improve these practices; and
   - **(5)** utilize the audiovisual conservation center of the Library of Congress at Culpeper, Virginia, to ensure that preserved sound recordings included in the National Recording Registry are stored in a proper manner and disseminated to researchers, scholars, and the public as may be appropriate in accordance with title 17 and the terms of any agreements between the Librarian and persons who hold copyrights to such recordings.
+
+## Source Credit
+
+*([Pub. L. 106–474, title I, § 111](https://www.govinfo.gov/link/plaw/106/public/474), Nov. 9, 2000, [114 Stat. 2087](https://www.govinfo.gov/link/statute/114/2087).)*

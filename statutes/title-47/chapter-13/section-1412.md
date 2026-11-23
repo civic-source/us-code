@@ -3,12 +3,17 @@ title: "Section 1412 - Flexible use of narrowband spectrum"
 usc_title: 47
 usc_section: "1412"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 1412"
-generated_at: "2026-03-30T02:56:24.533Z"
+generated_at: "2026-11-23T20:27:28.993Z"
+status: "active"
 ---
 
 # § 1412. Flexible use of narrowband spectrum
 
 The Commission may allow the narrowband spectrum to be used in a flexible manner, including usage for public safety broadband communications, subject to such technical and interference protection measures as the Commission may require.
 
+
+## Source Credit
+
+*([Pub. L. 112–96, title VI, § 6102](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 205](https://www.govinfo.gov/link/statute/126/205).)*

@@ -3,9 +3,10 @@ title: "Section 5 - Leasing of gaseous diffusion facilities"
 usc_title: 42
 usc_section: "5"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-03-30T02:56:11.162Z"
+generated_at: "2026-11-23T20:27:22.137Z"
+status: "active"
 ---
 
 # § 2297h–5. Leasing of gaseous diffusion facilities
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.162Z"
       - **(ii)** the private entity leasing the gaseous diffusion plant shall pay the percentage of the costs equal to the percentage of the total number of employees at the gaseous diffusion plant who are employees of the private entity (including employees of a contractor or subcontractor) other than those employees who perform work for the Department.
     - **(B)** Neither the private entity leasing the gaseous diffusion plant nor the Department shall reduce its payments under any contract or lease or take other action to offset its share of the costs referred to in subparagraph (A), and the Department shall not reimburse the private entity for the entity’s share of these costs.
     - **(C)** Nothing in this subsection shall alter the Department’s responsibilities to pay the safety, safeguards and security costs associated with the Department’s highly enriched uranium activities.
+
+## Source Credit
+
+*([Pub. L. 104–134, title III, § 3107](https://www.govinfo.gov/link/plaw/104/public/134), Apr. 26, 1996, [110 Stat. 1321–338](https://www.govinfo.gov/link/statute/110/1321); [Pub. L. 105–62, title V, § 511](https://www.govinfo.gov/link/plaw/105/public/62), Oct. 13, 1997, [111 Stat. 1341](https://www.govinfo.gov/link/statute/111/1341); [Pub. L. 105–245, title III, § 310](https://www.govinfo.gov/link/plaw/105/public/245), Oct. 7, 1998, [112 Stat. 1853](https://www.govinfo.gov/link/statute/112/1853).)*

@@ -3,9 +3,10 @@ title: "Section 1423c - Cooperative management agreement; authority to delegate 
 usc_title: 16
 usc_section: "1423c"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1423c"
-generated_at: "2026-03-30T02:54:22.967Z"
+generated_at: "2026-11-23T20:26:20.482Z"
+status: "active"
 ---
 
 # § 1423c. Cooperative management agreement; authority to delegate enforcement authority
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:22.967Z"
   - **(3)** administer its co-management program for polar bears in accordance with—
     - **(A)** this subchapter; and
     - **(B)** the Agreement.
+
+## Source Credit
+
+*([Pub. L. 92–522, title V, § 504](https://www.govinfo.gov/link/plaw/92/public/522), as added [Pub. L. 109–479, title IX, § 902(a)](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3662](https://www.govinfo.gov/link/statute/120/3662).)*

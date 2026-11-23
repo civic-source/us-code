@@ -3,9 +3,10 @@ title: "Section 364a - Adverse events"
 usc_title: 21
 usc_section: "364a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 364a"
-generated_at: "2026-03-30T02:54:54.262Z"
+generated_at: "2026-11-23T20:26:27.700Z"
+status: "active"
 ---
 
 # § 364a. Adverse events
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:54.262Z"
     - **(B)** otherwise be disclosed or distributed to any party without the written consent of the Secretary and the person submitting such information to the Secretary.
   - **(3)** Nothing in this section shall permit a State, territory, or political subdivision of a State or territory, to use any safety report received from the Secretary in a manner inconsistent with this section.
   - **(4)** The submission of any report in compliance with this section shall not be construed as an admission that the cosmetic product involved caused or contributed to the relevant adverse event.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 605, as added [Pub. L. 117–328, div. FF, title III, § 3502](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5848](https://www.govinfo.gov/link/statute/136/5848).)*

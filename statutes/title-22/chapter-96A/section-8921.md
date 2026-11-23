@@ -3,9 +3,10 @@ title: "Section 8921 - Definitions"
 usc_title: 22
 usc_section: "8921"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8921"
-generated_at: "2026-03-30T02:55:05.459Z"
+generated_at: "2026-11-23T20:26:32.744Z"
+status: "active"
 ---
 
 # § 8921. Definitions
@@ -28,3 +29,7 @@ In this chapter:
     - **(A)** the exclusive economic zone of the Russian Federation in waters more than 500 feet deep;
     - **(B)** Russian Arctic offshore locations; or
     - **(C)** shale formations located in the Russian Federation.
+
+## Source Credit
+
+*([Pub. L. 113–272, § 2](https://www.govinfo.gov/link/plaw/113/public/272), Dec. 18, 2014, [128 Stat. 2952](https://www.govinfo.gov/link/statute/128/2952); [Pub. L. 116–283, div. F, title LXI, § 6110(e)(2)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4563](https://www.govinfo.gov/link/statute/134/4563).)*

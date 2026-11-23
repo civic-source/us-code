@@ -3,9 +3,10 @@ title: "Section 21003 - Condition for receipt of funds"
 usc_title: 52
 usc_section: "21003"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "52 U.S.C. § 21003"
-generated_at: "2026-03-30T02:56:30.167Z"
+generated_at: "2026-11-23T20:27:36.981Z"
+status: "active"
 ---
 
 # § 21003. Condition for receipt of funds
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:30.167Z"
 - **(c)** The specific choices on the methods of complying with the elements of a State plan shall be left to the discretion of the State.
 - **(d)** A State may not file a statement of certification under subsection (a) until the expiration of the 45-day period (or, in the case of a fiscal year other than the first fiscal year for which a requirements payment is made to the State under this part, the 30-day period) which begins on the date notice of the State plan under this part is published in the Federal Register pursuant to section 21005(b) of this title .
 - **(e)** In this part, the “chief State election official” of a State is the individual designated by the State under section 10 of the National Voter Registration Act of 1993 ( 42 U.S.C. 1973gg–8 ) [now 52 U.S.C. 20509 ] to be responsible for coordination of the State’s responsibilities under such Act.
+
+## Source Credit
+
+*([Pub. L. 107–252, title II, § 253](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1693](https://www.govinfo.gov/link/statute/116/1693); [Pub. L. 111–84, div. A, title V, § 588(b)(1)(B)](https://www.govinfo.gov/link/plaw/111/public/84) –(3), Oct. 28, 2009, [123 Stat. 2333](https://www.govinfo.gov/link/statute/123/2333); [Pub. L. 112–74, div. C, title VI, § 622(2)](https://www.govinfo.gov/link/plaw/112/public/74), Dec. 23, 2011, [125 Stat. 927](https://www.govinfo.gov/link/statute/125/927).)*

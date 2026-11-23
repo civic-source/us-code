@@ -3,9 +3,10 @@ title: "Section 4824 - Annual report to Congress"
 usc_title: 50
 usc_section: "4824"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4824"
-generated_at: "2026-03-30T02:56:26.285Z"
+generated_at: "2026-11-23T20:27:31.148Z"
+status: "active"
 ---
 
 # § 4824. Annual report to Congress
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:26.285Z"
   - **(8)** efforts undertaken within the previous year to comply with the requirements of section 4817 1 1 See References in Text note below. of this title, including any critical technologies identified under such section and how or whether such critical technologies were controlled for export; and
   - **(9)** a summary of industrial base assessments conducted during the previous year by the Department of Commerce, including with respect to counterfeit electronics, foundational technologies, and other research and analysis of critical technologies and industrial capabilities of key defense-related sectors.
 - **(b)** The report required under subsection (a) shall be submitted in unclassified form, but may contain a classified annex.
+
+## Source Credit
+
+*([Pub. L. 115–232, div. A, title XVII, § 1765](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2232](https://www.govinfo.gov/link/statute/132/2232).)*

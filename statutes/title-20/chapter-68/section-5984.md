@@ -3,9 +3,10 @@ title: "Section 5984 - Definitions"
 usc_title: 20
 usc_section: "5984"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 5984"
-generated_at: "2026-03-30T02:54:48.190Z"
+generated_at: "2026-11-23T20:26:14.804Z"
+status: "active"
 ---
 
 # § 5984. Definitions
@@ -14,3 +15,7 @@ For purposes of this subchapter—
 
   - **(1)** the term “eligible entity” means a State educational agency, an institution of higher education or a State higher education agency, or a public or private nonprofit organization, with experience in coordinating or conducting teacher training seminars in American government and civics education, or a consortium thereof; and
   - **(2)** the term “State higher education agency” means the officer or agency primarily responsible for the State supervision of higher education.
+
+## Source Credit
+
+*([Pub. L. 103–227, title VIII, § 804](https://www.govinfo.gov/link/plaw/103/public/227), Mar. 31, 1994, [108 Stat. 210](https://www.govinfo.gov/link/statute/108/210).)*

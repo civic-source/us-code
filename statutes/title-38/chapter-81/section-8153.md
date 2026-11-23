@@ -3,9 +3,10 @@ title: "Section 8153 - Sharing of health-care resources"
 usc_title: 38
 usc_section: "8153"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 8153"
-generated_at: "2026-03-30T02:55:53.539Z"
+generated_at: "2026-11-23T20:27:02.081Z"
+status: "active"
 ---
 
 # § 8153. Sharing of health-care resources
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:53.539Z"
 - **(g)** The Secretary shall submit to the Congress not later than February 1 of each year a report on the activities carried out under this section during the preceding fiscal year. Each report shall include—
   - **(1)** an appraisal of the effectiveness of the activities authorized in this section and the degree of cooperation from other sources, financial and otherwise; and
   - **(2)** recommendations for the improvement or more effective administration of such activities.
+
+## Source Credit
+
+*(Added [Pub. L. 89–785, title II, § 203](https://www.govinfo.gov/link/plaw/89/public/785), Nov. 7, 1966, [80 Stat. 1374](https://www.govinfo.gov/link/statute/80/1374), § 5053; amended [Pub. L. 91–496, § 4](https://www.govinfo.gov/link/plaw/91/public/496), Oct. 22, 1970, [84 Stat. 1092](https://www.govinfo.gov/link/statute/84/1092); [Pub. L. 93–82, title III, § 303](https://www.govinfo.gov/link/plaw/93/public/82), Aug. 2, 1973, [87 Stat. 195](https://www.govinfo.gov/link/statute/87/195); [Pub. L. 94–581, title I, § 115(a)(1)](https://www.govinfo.gov/link/plaw/94/public/581), title II, §§ 206(c), 210(e)(11), Oct. 21, 1976, [90 Stat. 2852](https://www.govinfo.gov/link/statute/90/2852), 2859, 2865; [Pub. L. 96–151, title III, § 304](https://www.govinfo.gov/link/plaw/96/public/151), Dec. 20, 1979, [93 Stat. 1096](https://www.govinfo.gov/link/statute/93/1096); [Pub. L. 97–295, § 4(95)(A)](https://www.govinfo.gov/link/plaw/97/public/295), Oct. 12, 1982, [96 Stat. 1313](https://www.govinfo.gov/link/statute/96/1313); [Pub. L. 98–160, title VII, § 702(20)](https://www.govinfo.gov/link/plaw/98/public/160), Nov. 21, 1983, [97 Stat. 1010](https://www.govinfo.gov/link/statute/97/1010); [Pub. L. 99–576, title II, § 231(c)(1)](https://www.govinfo.gov/link/plaw/99/public/576), Oct. 28, 1986, [100 Stat. 3264](https://www.govinfo.gov/link/statute/100/3264); [Pub. L. 101–366, title II, § 202(b)](https://www.govinfo.gov/link/plaw/101/public/366), Aug. 15, 1990, [104 Stat. 438](https://www.govinfo.gov/link/statute/104/438); renumbered § 8153, [Pub. L. 102–40, title IV, § 402(b)(1)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238); [Pub. L. 102–54, § 14(f)(9)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 288](https://www.govinfo.gov/link/statute/105/288); [Pub. L. 102–83, § 4(a)(3)](https://www.govinfo.gov/link/plaw/102/public/83), (4), (b)(1), (2)(D), (E), Aug. 6, 1991, [105 Stat. 404](https://www.govinfo.gov/link/statute/105/404), 405; [Pub. L. 103–210, § 3(c)](https://www.govinfo.gov/link/plaw/103/public/210), Dec. 20, 1993, [107 Stat. 2498](https://www.govinfo.gov/link/statute/107/2498); [Pub. L. 104–262, title III, § 301(c)](https://www.govinfo.gov/link/plaw/104/public/262), (d)(1), Oct. 9, 1996, [110 Stat. 3191](https://www.govinfo.gov/link/statute/110/3191), 3193; [Pub. L. 105–114, title IV, § 402(d)](https://www.govinfo.gov/link/plaw/105/public/114), (e), Nov. 21, 1997, [111 Stat. 2294](https://www.govinfo.gov/link/statute/111/2294); [Pub. L. 106–419, title IV, § 404(b)(2)](https://www.govinfo.gov/link/plaw/106/public/419), Nov. 1, 2000, [114 Stat. 1866](https://www.govinfo.gov/link/statute/114/1866); [Pub. L. 108–170, title IV, § 405(d)](https://www.govinfo.gov/link/plaw/108/public/170), Dec. 6, 2003, [117 Stat. 2063](https://www.govinfo.gov/link/statute/117/2063); [Pub. L. 111–350, § 5(j)(8)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3850](https://www.govinfo.gov/link/statute/124/3850).)*

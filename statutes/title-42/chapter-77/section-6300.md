@@ -3,9 +3,10 @@ title: "Section 6300 - Exports"
 usc_title: 42
 usc_section: "6300"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6300"
-generated_at: "2026-03-30T02:56:11.252Z"
+generated_at: "2026-11-23T20:27:22.634Z"
+status: "active"
 ---
 
 # § 6300. Exports
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:56:11.252Z"
   - **(1)** such covered product is manufactured, sold, or held for sale for export from the United States (or such product was imported for export), unless such product is in fact distributed in commerce for use in the United States, and
   - **(2)** such covered product when distributed in commerce, or any container in which it is enclosed when so distributed, bears a stamp or label stating that such covered product is intended for export.
 
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 330](https://www.govinfo.gov/link/plaw/94/public/163), Dec. 22, 1975, [89 Stat. 928](https://www.govinfo.gov/link/statute/89/928).)*

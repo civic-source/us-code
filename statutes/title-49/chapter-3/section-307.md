@@ -3,9 +3,10 @@ title: "Section 307 - Improving State and Federal agency engagement in environme
 usc_title: 49
 usc_section: "307"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 307"
-generated_at: "2026-03-30T02:56:19.298Z"
+generated_at: "2026-11-23T20:27:34.520Z"
+status: "active"
 ---
 
 # § 307. Improving State and Federal agency engagement in environmental reviews
@@ -23,3 +24,27 @@ generated_at: "2026-03-30T02:56:19.298Z"
     - **(B)** that the use of funds accepted under this section will not impact impartial decisionmaking with respect to environmental reviews or permits, either substantively or procedurally; and
     - **(C)** that the Secretary maintains, and makes publicly available, including on the Internet, a list of projects or programs for which such review or permits have been carried out using funds authorized under this section.
 - **(f)** Nothing in this section may be construed to conflict with section 139(j) of title 23 .
+
+In General.—
+
+Requests to provide funds
+
+Use of funds
+
+Activities Eligible for Funding
+
+Amounts
+
+Agreements
+
+Guidance.—
+
+In general
+
+Factors
+
+Existing Authority
+
+## Source Credit
+
+*(Added [Pub. L. 114–94, div. A, title I, § 1312(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1399](https://www.govinfo.gov/link/statute/129/1399).)*

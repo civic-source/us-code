@@ -3,9 +3,10 @@ title: "Section 3602 - Middle tier of acquisition for rapid prototyping and rapi
 usc_title: 10
 usc_section: "3602"
 chapter: 253
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 3602"
-generated_at: "2026-03-30T02:53:38.194Z"
+generated_at: "2026-11-23T20:25:51.841Z"
+status: "active"
 ---
 
 # § 3602. Middle tier of acquisition for rapid prototyping and rapid fielding
@@ -35,3 +36,25 @@ generated_at: "2026-03-30T02:53:38.194Z"
     - **(D)** Each service acquisition executive, acting in coordination with the defense acquisition executive, may serve as the decision authority for a program or project for which the authority under this section is used, or shall delegate such decision authority.
     - **(E)** A program manager appointed under subparagraph (A) may seek an expedited waiver from any regulatory requirement, or in the case of a statutory requirement, a waiver from Congress, that the program manager determines adds cost, schedule, or performance delays with little or no value to the management of such program or project.
     - **(F)** If an operational capability is fielded for a program or project for which the authority under this section is used, the appropriate service acquisition executive may permit continuous iterative prototyping and fielding under the same program or project for an unlimited number of subsequent periods, where each period is intended to be five years.
+
+Guidance Required
+
+Acquisition Pathways
+
+Rapid prototyping
+
+Rapid fielding
+
+Expedited Process.—
+
+In general
+
+Rapid prototyping
+
+Rapid fielding
+
+Streamlined procedures
+
+## Source Credit
+
+*(Added [Pub. L. 118–159, div. A, title VIII, § 804(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1966](https://www.govinfo.gov/link/statute/138/1966).)*

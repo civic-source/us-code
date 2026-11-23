@@ -3,9 +3,10 @@ title: "Section 1724 - Digital Equity Competitive Grant Program"
 usc_title: 47
 usc_section: "1724"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 1724"
-generated_at: "2026-03-30T02:56:24.540Z"
+generated_at: "2026-11-23T20:27:29.024Z"
+status: "active"
 ---
 
 # § 1724. Digital Equity Competitive Grant Program
@@ -145,3 +146,11 @@ generated_at: "2026-03-30T02:56:24.540Z"
 - **(l)** There are authorized to be appropriated to carry out this section—
   - **(1)** $250,000,000 for each of the first 5 fiscal years in which funds are made available to carry out this section; and
   - **(2)** such sums as may be necessary for each fiscal year after the end of the 5-fiscal year period described in paragraph (1).
+
+(aa) in a competent manner; and
+
+(bb) in compliance with all applicable Federal, State, and local laws; and
+
+## Source Credit
+
+*([Pub. L. 117–58, div. F, title III, § 60305](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1222](https://www.govinfo.gov/link/statute/135/1222).)*

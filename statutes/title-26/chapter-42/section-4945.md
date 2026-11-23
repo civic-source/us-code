@@ -3,9 +3,10 @@ title: "Section 4945 - Taxes on taxable expenditures"
 usc_title: 26
 usc_section: "4945"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 4945"
-generated_at: "2026-03-30T02:55:27.807Z"
+generated_at: "2026-11-23T20:26:46.349Z"
+status: "active"
 ---
 
 # § 4945. Taxes on taxable expenditures
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:55:27.807Z"
   - **(2)** The term “taxable period” means, with respect to any taxable expenditure, the period beginning with the date on which the taxable expenditure occurs and ending on the earlier of—
     - **(A)** the date of mailing a notice of deficiency with respect to the tax imposed by subsection (a)(1) under section 6212, or
     - **(B)** the date on which the tax imposed by subsection (a)(1) is assessed.
+
+## Source Credit
+
+*(Added [Pub. L. 91–172, title I, § 101(b)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 512](https://www.govinfo.gov/link/statute/83/512); amended [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1901(b)(8)(H), 1906(b)(13(A), Oct. 4, 1976, [90 Stat. 1795](https://www.govinfo.gov/link/statute/90/1795), 1834; [Pub. L. 96–596, § 2(a)(1)(F)](https://www.govinfo.gov/link/plaw/96/public/596), (2)(E), Dec. 24, 1980, [94 Stat. 3469](https://www.govinfo.gov/link/statute/94/3469), 3470; [Pub. L. 98–369, div. A, title III, § 302(b)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 780](https://www.govinfo.gov/link/statute/98/780); [Pub. L. 99–514, title I, § 122(a)(2)(B)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2110](https://www.govinfo.gov/link/statute/100/2110); [Pub. L. 100–647, title I, § 1001(d)(1)(B)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3350](https://www.govinfo.gov/link/statute/102/3350); [Pub. L. 109–280, title XII](https://www.govinfo.gov/link/plaw/109/public/280), §§ 1212(e), 1244(b), Aug. 17, 2006, [120 Stat. 1074](https://www.govinfo.gov/link/statute/120/1074), 1107; [Pub. L. 113–295, div. A, title II, § 221(a)(106)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4053](https://www.govinfo.gov/link/statute/128/4053).)*

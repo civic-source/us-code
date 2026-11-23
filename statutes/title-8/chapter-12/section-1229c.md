@@ -3,9 +3,10 @@ title: "Section 1229c - Voluntary departure"
 usc_title: 8
 usc_section: "1229c"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1229c"
-generated_at: "2026-03-30T02:53:10.488Z"
+generated_at: "2026-11-23T20:25:36.164Z"
+status: "active"
 ---
 
 # § 1229c. Voluntary departure
@@ -50,3 +51,19 @@ generated_at: "2026-03-30T02:53:10.488Z"
   - **(3)** The order permitting an alien to depart voluntarily shall inform the alien of the penalties under this subsection.
 - **(e)** The Attorney General may by regulation limit eligibility for voluntary departure under this section for any class or classes of aliens. No court may review any regulation issued under this subsection.
 - **(f)** No court shall have jurisdiction over an appeal from denial of a request for an order of voluntary departure under subsection (b), nor shall any court order a stay of an alien’s removal pending consideration of any claim with respect to voluntary departure.
+
+(aa) the principal alien described in subparagraph (B)(i) is a dependent under the age of 18; or
+
+(bb) one such adult is age 55 or older or is physically handicapped.
+
+Section
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 4, § 240B, as added [Pub. L. 104–208, div. C, title III, § 304(a)(3)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–596](https://www.govinfo.gov/link/statute/110/3009); amended [Pub. L. 106–406, § 2](https://www.govinfo.gov/link/plaw/106/public/406), Nov. 1, 2000, [114 Stat. 1755](https://www.govinfo.gov/link/statute/114/1755); [Pub. L. 109–162, title VIII, § 812](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3057](https://www.govinfo.gov/link/statute/119/3057).)*

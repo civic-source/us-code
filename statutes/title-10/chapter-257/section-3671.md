@@ -3,9 +3,10 @@ title: "Section 3671 - Requirement for authorization by law of certain contracts
 usc_title: 10
 usc_section: "3671"
 chapter: 257
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 3671"
-generated_at: "2026-03-30T02:53:38.195Z"
+generated_at: "2026-11-23T20:25:51.843Z"
+status: "active"
 ---
 
 # § 3671. Requirement for authorization by law of certain contracts relating to vessels, aircraft, and combat vehicles
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:38.195Z"
   - **(3)** Upon receipt of a notice under paragraph (1)(C), a committee identified in paragraph (1)(B) may request the Inspector General of the Department of Defense or the Comptroller General of the United States to conduct a review of the proposed contract to determine whether or not such contract meets the requirements of this section.
   - **(4)** If a review is requested under paragraph (3), the Inspector General of the Department of Defense or the Comptroller General of the United States, as the case may be, shall submit to the Secretary and the congressional defense committees a report on such review before the expiration of the period specified in paragraph (1)(C).
   - **(5)** In the case of a contract described in subsection (a)(1)(B), the commander of the special operations command may make a contract without regard to this subsection if funds are available and obligated for the full cost of the contract (including termination costs) on or before the date the contract is awarded.
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1825(a)](https://www.govinfo.gov/link/plaw/116/public/283), (b), Jan. 1, 2021, [134 Stat. 4206](https://www.govinfo.gov/link/statute/134/4206); [Pub. L. 118–159, div. A, title VIII, § 811(b)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1979](https://www.govinfo.gov/link/statute/138/1979).)*

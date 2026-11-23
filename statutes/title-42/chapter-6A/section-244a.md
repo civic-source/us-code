@@ -3,9 +3,10 @@ title: "Section 244a - Materials and resources to increase education and awarene
 usc_title: 42
 usc_section: "244a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 244a"
-generated_at: "2026-03-30T02:56:10.692Z"
+generated_at: "2026-11-23T20:27:19.991Z"
+status: "active"
 ---
 
 # § 244a. Materials and resources to increase education and awareness of cardiomyopathy among school administrators, educators, and families
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:56:10.692Z"
   - **(3)** The terms “early childhood education program”, “elementary school”, and “secondary school” have the meanings given to those terms in section 7801 of title 20 .
   - **(4)** The term “school administrator” means a principal, director, manager, or other supervisor or leader within an elementary school, secondary school, State-based early childhood education program, or child care center.
   - **(5)** The term “school health professional” means a health professional serving at an elementary school, secondary school, State-based early childhood education program, or child care center.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 312A, as added [Pub. L. 118–176, § 2(a)](https://www.govinfo.gov/link/plaw/118/public/176), Dec. 23, 2024, [138 Stat. 2605](https://www.govinfo.gov/link/statute/138/2605).)*

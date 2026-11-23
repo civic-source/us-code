@@ -3,9 +3,10 @@ title: "Section 124j - Rural Policing Institute"
 usc_title: 6
 usc_section: "124j"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 124j"
-generated_at: "2026-03-30T02:53:09.445Z"
+generated_at: "2026-11-23T20:25:34.645Z"
+status: "active"
 ---
 
 # § 124j. Rural Policing Institute
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:09.445Z"
 - **(d)** There are authorized to be appropriated to carry out this section (including for contracts, staff, and equipment)—
   - **(1)** $10,000,000 for fiscal year 2008; and
   - **(2)** $5,000,000 for each of fiscal years 2009 through 2013.
+
+## Source Credit
+
+*([Pub. L. 107–296, title II, § 210C](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 110–53, title V, § 513(a)](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 327](https://www.govinfo.gov/link/statute/121/327).)*

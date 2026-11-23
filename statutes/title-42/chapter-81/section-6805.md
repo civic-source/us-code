@@ -3,9 +3,10 @@ title: "Section 6805 - Grants for State consumer protection offices by Secretary
 usc_title: 42
 usc_section: "6805"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6805"
-generated_at: "2026-03-30T02:56:11.266Z"
+generated_at: "2026-11-23T20:27:22.703Z"
+status: "active"
 ---
 
 # § 6805. Grants for State consumer protection offices by Secretary
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.266Z"
   - **(3)** advocate, on its own behalf, a position which it determines represents the position most advantageous to consumers, taking into account developments in rate design reform.
 - **(b)** Grants pursuant to subsection (a) of this section shall be made only to States which furnish such assurances as the Secretary may require that funds made available under such section will be in addition to, and not in substitution for, funds made available to offices of consumer services from other sources.
 - **(c)** Assistance may be provided under this section to an office of consumer services established by the Tennessee Valley Authority, if such office is operated independently of the Tennessee Valley Authority.
+
+## Source Credit
+
+*([Pub. L. 94–385, title II, § 205](https://www.govinfo.gov/link/plaw/94/public/385), Aug. 14, 1976, [90 Stat. 1144](https://www.govinfo.gov/link/statute/90/1144); [Pub. L. 95–617, title I, § 143](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3134](https://www.govinfo.gov/link/statute/92/3134).)*

@@ -3,9 +3,10 @@ title: "Section 7606 - Federal procurement"
 usc_title: 42
 usc_section: "7606"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7606"
-generated_at: "2026-03-30T02:56:11.319Z"
+generated_at: "2026-11-23T20:27:22.932Z"
+status: "active"
 ---
 
 # § 7606. Federal procurement
@@ -14,3 +15,33 @@ generated_at: "2026-03-30T02:56:11.319Z"
 - **(b)** The Administrator shall establish procedures to provide all Federal agencies with the notification necessary for the purposes of subsection (a).
 - **(c)** In order to implement the purposes and policy of this chapter to protect and enhance the quality of the Nation’s air, the President shall, not more than 180 days after December 31, 1970 , cause to be issued an order (1) requiring each Federal agency authorized to enter into contracts and each Federal agency which is empowered to extend Federal assistance by way of grant, loan, or contract to effectuate the purpose and policy of this chapter in such contracting or assistance activities, and (2) setting forth procedures, sanctions, penalties, and such other provisions, as the President determines necessary to carry out such requirement.
 - **(d)** The President may exempt any contract, loan, or grant from all or part of the provisions of this section where he determines such exemption is necessary in the paramount interest of the United States and he shall notify the Congress of such exemption.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Richard Nixon.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title III, § 306, as added [Pub. L. 91–604, § 12(a)](https://www.govinfo.gov/link/plaw/91/public/604), Dec. 31, 1970, [84 Stat. 1707](https://www.govinfo.gov/link/statute/84/1707); amended [Pub. L. 101–549, title VII, § 705](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2682](https://www.govinfo.gov/link/statute/104/2682).)*

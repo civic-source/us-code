@@ -3,9 +3,10 @@ title: "Section 138 - Continuity of care"
 usc_title: 42
 usc_section: "138"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 138"
-generated_at: "2026-03-30T02:56:10.841Z"
+generated_at: "2026-11-23T20:27:20.681Z"
+status: "active"
 ---
 
 # § 300gg–138. Continuity of care
@@ -14,3 +15,7 @@ A health care provider or health care facility shall, in the case of an individu
 
   - **(1)** accept payment from such plan or such issuer (as applicable) (and cost-sharing from such individual, if applicable, in accordance with subsection (a)(2)(C) of such section 300gg–113 of this title , 9818 of title 26, or 1185g of title 29) for such items and services as payment in full for such items and services; and
   - **(2)** continue to adhere to all policies, procedures, and quality standards imposed by such plan or issuer with respect to such individual and such items and services in the same manner as if such termination had not occurred.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXVII, § 2799B–8, as added [Pub. L. 116–260, div. BB, title I, § 113(d)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2873](https://www.govinfo.gov/link/statute/134/2873).)*

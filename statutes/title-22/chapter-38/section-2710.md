@@ -3,9 +3,10 @@ title: "Section 2710 - Expenses relating to participation in arbitrations of cer
 usc_title: 22
 usc_section: "2710"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2710"
-generated_at: "2026-03-30T02:55:05.380Z"
+generated_at: "2026-11-23T20:26:32.383Z"
+status: "active"
 ---
 
 # § 2710. Expenses relating to participation in arbitrations of certain disputes
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:05.380Z"
 - **(e)**
   - **(1)** To reimburse the expenses of the United States Government in preparing or prosecuting a proceeding before an international tribunal, or a claim against a foreign government or other foreign entity, the Secretary may retain 1.5 percent of any amount between $100,000 and $5,000,000, and one percent of any amount over $5,000,000, received per claim under section 2668a of this title .
   - **(2)** Amounts retained under the authority of paragraph (1) shall be deposited into the fund under subsection (d).
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title I, § 38, as added [Pub. L. 99–93, title I, § 128](https://www.govinfo.gov/link/plaw/99/public/93), Aug. 16, 1985, [99 Stat. 419](https://www.govinfo.gov/link/statute/99/419); amended [Pub. L. 103–236, title I, § 123](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 392](https://www.govinfo.gov/link/statute/108/392); [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. B, title XXII, § 2212(b), Oct. 21, 1998, [112 Stat. 2681–812](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 107–228, div. A, title II, § 203](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1362](https://www.govinfo.gov/link/statute/116/1362).)*

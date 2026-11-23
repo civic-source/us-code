@@ -3,9 +3,10 @@ title: "Section 1161c - Business workforce partnerships for job skill training i
 usc_title: 20
 usc_section: "1161c"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1161c"
-generated_at: "2026-03-30T02:54:48.150Z"
+generated_at: "2026-11-23T20:26:14.582Z"
+status: "active"
 ---
 
 # § 1161c. Business workforce partnerships for job skill training in high-growth occupations or industries
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:54:48.150Z"
       - **(i)** enrolled for the first time in an institution of higher education three or more years after completing high school; or
       - **(ii)** works full-time.
 - **(k)** There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
+
+## Source Credit
+
+*([Pub. L. 89–329, title VIII, § 803](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title VIII, § 801](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3382](https://www.govinfo.gov/link/statute/122/3382); amended [Pub. L. 113–128, title V, § 512(n)(5)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1710](https://www.govinfo.gov/link/statute/128/1710).)*

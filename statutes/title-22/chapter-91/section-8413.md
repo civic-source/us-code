@@ -3,9 +3,10 @@ title: "Section 8413 - Auditing"
 usc_title: 22
 usc_section: "8413"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8413"
-generated_at: "2026-03-30T02:55:05.450Z"
+generated_at: "2026-11-23T20:26:32.707Z"
+status: "active"
 ---
 
 # § 8413. Auditing
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.450Z"
 - **(c)**
   - **(1)** Of the amounts authorized to be appropriated under section 8412 of this title for each of the fiscal years 2010 through 2014, up to $30,000,000 for each fiscal year is authorized to be made available to carry out this section.
   - **(2)** Amounts made available under paragraph (1) are in addition to amounts otherwise available for such purposes.
+
+## Source Credit
+
+*([Pub. L. 111–73, title I, § 103](https://www.govinfo.gov/link/plaw/111/public/73), Oct. 15, 2009, [123 Stat. 2069](https://www.govinfo.gov/link/statute/123/2069).)*

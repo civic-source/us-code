@@ -3,9 +3,10 @@ title: "Section 3839aa - Purposes"
 usc_title: 16
 usc_section: "3839aa"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3839aa"
-generated_at: "2026-03-30T02:54:23.028Z"
+generated_at: "2026-11-23T20:26:20.696Z"
+status: "active"
 ---
 
 # § 3839aa. Purposes
@@ -22,3 +23,7 @@ The purposes of the environmental quality incentives program established by this
     - **(B)** developing and improving wildlife habitat; and
     - **(C)** conserving energy; and
   - **(4)** assisting producers to make beneficial, cost-effective changes to production systems, including addressing identified, new, or expected resource concerns related to organic production, grazing management, fuels management, forest management, nutrient management associated with crops and livestock, pest management, irrigation management, adapting to, and mitigating against, increasing weather volatility, drought resiliency measures, or other practices on agricultural and forested land.
+
+## Source Credit
+
+*([Pub. L. 99–198, title XII, § 1240](https://www.govinfo.gov/link/plaw/99/public/198), as added [Pub. L. 107–171, title II, § 2301](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 253](https://www.govinfo.gov/link/statute/116/253); amended [Pub. L. 110–234, title II, § 2501(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1057](https://www.govinfo.gov/link/statute/122/1057); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title II, § 2501(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1785; [Pub. L. 113–79, title II, § 2201](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 728](https://www.govinfo.gov/link/statute/128/728); [Pub. L. 115–334, title II](https://www.govinfo.gov/link/plaw/115/public/334), §§ 2301(d)(1)(D), 2302, Dec. 20, 2018, [132 Stat. 4554](https://www.govinfo.gov/link/statute/132/4554), 4555.)*

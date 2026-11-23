@@ -3,9 +3,10 @@ title: "Section 1769d - Childhood hunger research"
 usc_title: 42
 usc_section: "1769d"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1769d"
-generated_at: "2026-03-30T02:56:11.118Z"
+generated_at: "2026-11-23T20:27:21.889Z"
+status: "active"
 ---
 
 # § 1769d. Childhood hunger research
@@ -85,3 +86,7 @@ generated_at: "2026-03-30T02:56:11.118Z"
         - **(II)** the Child Nutrition Act of 1966 ( 42 U.S.C. 1771 et seq.);
         - **(III)** the Food and Nutrition Act of 2008 ( 7 U.S.C. 2011 et seq.); or
         - **(IV)** the Emergency Food Assistance Act of 1983 ( 7 U.S.C. 7501 et seq.).
+
+## Source Credit
+
+*(June 4, 1946, ch. 281, § 23, as added [Pub. L. 111–296, title I, § 141](https://www.govinfo.gov/link/plaw/111/public/296), Dec. 13, 2010, [124 Stat. 3206](https://www.govinfo.gov/link/statute/124/3206).)*

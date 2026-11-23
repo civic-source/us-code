@@ -3,9 +3,10 @@ title: "Section 2307 - Control of ice"
 usc_title: 33
 usc_section: "2307"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2307"
-generated_at: "2026-03-30T02:55:41.121Z"
+generated_at: "2026-11-23T20:26:54.167Z"
+status: "active"
 ---
 
 # § 2307. Control of ice
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:41.121Z"
   - **(2)** There is authorized to be appropriated $3,000,000 for fiscal years beginning after September 30, 1986 , for purposes of carrying out this subsection, such sum to remain available until expended.
 - **(g)** Cost sharing applicable to flood control projects under section 2213 of this title shall apply to projects under this section.
 - **(h)** Not later than March 1, 1989 , the Secretary shall report to the Congress on activities under this section.
+
+## Source Credit
+
+*([Pub. L. 99–662, title XI, § 1101](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4223](https://www.govinfo.gov/link/statute/100/4223).)*

@@ -3,9 +3,10 @@ title: "Section 854 - Limitations applicable to dividends received from regulate
 usc_title: 26
 usc_section: "854"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 854"
-generated_at: "2026-03-30T02:55:27.733Z"
+generated_at: "2026-11-23T20:26:45.904Z"
+status: "active"
 ---
 
 # § 854. Limitations applicable to dividends received from regulated investment company
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:55:27.733Z"
     - **(B)** after the application of section 246 (but without regard to subsection (b) thereof), and
     - **(C)** after the application of section 246A.
   - **(4)** For purposes of this subsection, the term “qualified dividend income” has the meaning given such term by section 1(h)(11)(B).
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 273; [Pub. L. 88–272, title II](https://www.govinfo.gov/link/plaw/88/public/272), §§ 201(d)(8)–(10), 229(a)(4), Feb. 26, 1964, [78 Stat. 32](https://www.govinfo.gov/link/statute/78/32), 99; [Pub. L. 96–223, title IV, § 404(b)(6)](https://www.govinfo.gov/link/plaw/96/public/223), Apr. 2, 1980, [94 Stat. 307](https://www.govinfo.gov/link/statute/94/307); [Pub. L. 97–34, title III, § 302(c)(4)](https://www.govinfo.gov/link/plaw/97/public/34), (d)(1), Aug. 13, 1981, [95 Stat. 272](https://www.govinfo.gov/link/statute/95/272), 274; [Pub. L. 98–369, div. A, title I](https://www.govinfo.gov/link/plaw/98/public/369), §§ 16(a), 52(a)–(c), July 18, 1984, [98 Stat. 505](https://www.govinfo.gov/link/statute/98/505), 564, 565; [Pub. L. 99–514, title VI](https://www.govinfo.gov/link/plaw/99/public/514), §§ 612(b)(6), 655(a)(4), Oct. 22, 1986, [100 Stat. 2250](https://www.govinfo.gov/link/statute/100/2250), 2299; [Pub. L. 100–203, title X, § 10221(d)(3)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–409](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–647, title I, § 1006(b)(2)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3393](https://www.govinfo.gov/link/statute/102/3393); [Pub. L. 108–27, title III, § 302(c)](https://www.govinfo.gov/link/plaw/108/public/27), May 28, 2003, [117 Stat. 762](https://www.govinfo.gov/link/statute/117/762); [Pub. L. 108–311, title IV, § 402(a)(5)(A)](https://www.govinfo.gov/link/plaw/108/public/311) –(D), Oct. 4, 2004, [118 Stat. 1184](https://www.govinfo.gov/link/statute/118/1184); [Pub. L. 111–325, title III, § 301(e)](https://www.govinfo.gov/link/plaw/111/public/325), Dec. 22, 2010, [124 Stat. 3544](https://www.govinfo.gov/link/statute/124/3544).)*

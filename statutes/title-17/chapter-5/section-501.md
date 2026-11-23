@@ -3,9 +3,10 @@ title: "Section 501 - Infringement of copyright"
 usc_title: 17
 usc_section: "501"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 501"
-generated_at: "2026-03-30T02:54:15.353Z"
+generated_at: "2026-11-23T20:26:06.523Z"
+status: "active"
 ---
 
 # § 501. Infringement of copyright
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:15.353Z"
 - **(f)**
   - **(1)** With respect to any secondary transmission that is made by a satellite carrier of a performance or display of a work embodied in a primary transmission and is actionable as an act of infringement under section 122, a television broadcast station holding a copyright or other license to transmit or perform the same version of that work shall, for purposes of subsection (b) of this section, be treated as a legal or beneficial owner if such secondary transmission occurs within the local market of that station.
   - **(2)** A television broadcast station may file a civil action against any satellite carrier that has refused to carry television broadcast signals, as required under section 122(a)(2), to enforce that television broadcast station’s rights under section 338(a) of the Communications Act of 1934.
+
+## Source Credit
+
+*([Pub. L. 94–553, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/553), Oct. 19, 1976, [90 Stat. 2584](https://www.govinfo.gov/link/statute/90/2584); [Pub. L. 100–568, § 10(a)](https://www.govinfo.gov/link/plaw/100/public/568), Oct. 31, 1988, [102 Stat. 2860](https://www.govinfo.gov/link/statute/102/2860); [Pub. L. 100–667, title II, § 202(3)](https://www.govinfo.gov/link/plaw/100/public/667), Nov. 16, 1988, [102 Stat. 3957](https://www.govinfo.gov/link/statute/102/3957); [Pub. L. 101–553, § 2(a)(1)](https://www.govinfo.gov/link/plaw/101/public/553), Nov. 15, 1990, [104 Stat. 2749](https://www.govinfo.gov/link/statute/104/2749); [Pub. L. 101–650, title VI, § 606(a)](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5131](https://www.govinfo.gov/link/statute/104/5131); [Pub. L. 106–44, § 1(g)(5)](https://www.govinfo.gov/link/plaw/106/public/44), Aug. 5, 1999, [113 Stat. 222](https://www.govinfo.gov/link/statute/113/222); [Pub. L. 106–113, div. B, § 1000(a)(9) [title I, §§ 1002(b), 1011(b)(3)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–527, 1501A–544; [Pub. L. 107–273, div. C, title III, § 13210(4)(B)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1909](https://www.govinfo.gov/link/statute/116/1909); [Pub. L. 116–94, div. P, title XI, § 1102(c)(2)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3203](https://www.govinfo.gov/link/statute/133/3203).)*

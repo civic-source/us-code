@@ -3,9 +3,10 @@ title: "Section 10747 - Designation of certain routes by shippers"
 usc_title: 49
 usc_section: "10747"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 10747"
-generated_at: "2026-03-30T02:56:19.324Z"
+generated_at: "2026-11-23T20:27:34.717Z"
+status: "active"
 ---
 
 # § 10747. Designation of certain routes by shippers
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:19.324Z"
     - **(C)** the rail carrier is a party to those routes and rates.
   - **(2)** A rail carrier directed to route property transported under paragraph (1) of this subsection must issue a through bill of lading containing the routing instructions and transport the property according to the instructions. When the property is delivered to a connecting rail carrier, that rail carrier must also receive and transport it according to the routing instructions and deliver it to the next succeeding rail carrier or consignee according to the instructions.
 - **(b)** The Board may prescribe exceptions to the authority of a person to direct the movement of traffic under subsection (a) of this section.
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 102(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 821](https://www.govinfo.gov/link/statute/109/821).)*

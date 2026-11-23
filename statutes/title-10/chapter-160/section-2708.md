@@ -3,9 +3,10 @@ title: "Section 2708 - Contracts for handling hazardous waste from defense facil
 usc_title: 10
 usc_section: "2708"
 chapter: 160
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2708"
-generated_at: "2026-03-30T02:53:38.172Z"
+generated_at: "2026-11-23T20:25:51.686Z"
+status: "active"
 ---
 
 # § 2708. Contracts for handling hazardous waste from defense facilities
@@ -30,3 +31,17 @@ generated_at: "2026-03-30T02:53:38.172Z"
   - **(3)** The term “corrective action” has the meaning given that term under section 3004(u) of the Solid Waste Disposal Act ( 42 U.S.C. 6924(u) ).
   - **(4)** The term “polychlorinated biphenyls” has the meaning given that term under section 6(e) of the Toxic Substances Control Act ( 15 U.S.C. 2605(e) ).
 - **(e)** Nothing in this section shall affect the liability of the Federal Government under any Federal or State law or under common law.
+
+Reimbursement Requirement
+
+Applicability
+
+Exception to Reimbursement Requirement
+
+Definitions
+
+Effect on Liability
+
+## Source Credit
+
+*(Added [Pub. L. 102–190, div. A, title III, § 331(a)(1)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1339](https://www.govinfo.gov/link/statute/105/1339); amended [Pub. L. 102–484, div. A, title III, § 321](https://www.govinfo.gov/link/plaw/102/public/484), title X, § 1052(36), Oct. 23, 1992, [106 Stat. 2365](https://www.govinfo.gov/link/statute/106/2365), 2501; [Pub. L. 103–160, div. A, title X, § 1004](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1748](https://www.govinfo.gov/link/statute/107/1748).)*

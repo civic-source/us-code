@@ -3,9 +3,10 @@ title: "Section 1225a - Preinspection at foreign airports"
 usc_title: 8
 usc_section: "1225a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1225a"
-generated_at: "2026-03-30T02:53:10.486Z"
+generated_at: "2026-11-23T20:25:36.152Z"
+status: "active"
 ---
 
 # § 1225a. Preinspection at foreign airports
@@ -23,3 +24,21 @@ generated_at: "2026-03-30T02:53:10.486Z"
     - **(B)** such employees and their families will not be subject to unreasonable risks to their welfare and safety; and
     - **(C)** the country in which the preinspection station is to be established maintains practices and procedures with respect to asylum seekers and refugees in accordance with the Convention Relating to the Status of Refugees (done at Geneva, July 28, 1951 ), or the Protocol Relating to the Status of Refugees (done at New York, January 31, 1967 ), or that an alien in the country otherwise has recourse to avenues of protection from return to persecution.
 - **(b)** The Secretary of Homeland Security shall assign additional immigration officers to assist air carriers in the detection of fraudulent documents at foreign airports which, based on the records maintained pursuant to subsection (a)(3), served as a point of departure for a significant number of arrivals at United States ports of entry without valid documentation, but where no preinspection station exists. Beginning not later than December 31, 2006 , the number of airports selected for an assignment under this subsection shall be at least 50.
+
+New stations
+
+Report
+
+Data collection
+
+Conditions
+
+Additional stations
+
+Findings
+
+Sense of Congress
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 4, § 235A, as added [Pub. L. 104–208, div. C, title I, § 123(a)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–560](https://www.govinfo.gov/link/statute/110/3009); amended [Pub. L. 108–458, title VII](https://www.govinfo.gov/link/plaw/108/public/458), §§ 7206(a), 7210(d)(1), Dec. 17, 2004, [118 Stat. 3817](https://www.govinfo.gov/link/statute/118/3817), 3825.)*

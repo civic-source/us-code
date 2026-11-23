@@ -3,12 +3,17 @@ title: "Section 1519 - Lethal binary chemical munitions"
 usc_title: 50
 usc_section: "1519"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 1519"
-generated_at: "2026-03-30T02:56:26.205Z"
+generated_at: "2026-11-23T20:27:30.734Z"
+status: "active"
 ---
 
 # § 1519. Lethal binary chemical munitions
 
 - **(a)** Notwithstanding any other provision of law, none of the funds authorized to be appropriated by this or any other Act shall be used for the purpose of production of lethal binary chemical munitions unless the President certifies to Congress that the production of such munitions is essential to the national interest and submits a full report thereon to the President of the Senate and the Speaker of the House of Representatives as far in advance of the production of such munitions as is practicable.
 - **(b)** For purposes of this section the term “lethal binary chemical munitions” means (1) any toxic chemical (solid, liquid, or gas) which, through its chemical properties, is intended to be used to produce injury or death to human beings, and (2) any unique device, instrument, apparatus, or contrivance, including any components or accessories thereof, intended to be used to disperse or otherwise disseminate any such toxic chemical.
+
+## Source Credit
+
+*([Pub. L. 94–106, title VIII, § 818](https://www.govinfo.gov/link/plaw/94/public/106), Oct. 7, 1975, [89 Stat. 544](https://www.govinfo.gov/link/statute/89/544).)*

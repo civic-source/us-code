@@ -3,9 +3,10 @@ title: "Section 3355 - Multi-year plan to fulfill defensive requirements of mili
 usc_title: 22
 usc_section: "3355"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3355"
-generated_at: "2026-03-30T02:55:05.392Z"
+generated_at: "2026-11-23T20:26:32.454Z"
+status: "active"
 ---
 
 # § 3355. Multi-year plan to fulfill defensive requirements of military forces of Taiwan
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:55:05.392Z"
       - **(ii)** recommendations for improving the ability of the Armed Forces to deliver such assistance to Taiwan; and
     - **(D)** an assessment of any challenges in providing such assistance to Taiwan in the event of a crisis or conflict and recommendations for addressing such challenges.
 - **(c)** The joint consultative mechanism required in subsection (a) shall convene on a recurring basis and not less than annually.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. E, title LV, § 5506](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3299](https://www.govinfo.gov/link/statute/136/3299).)*

@@ -3,9 +3,10 @@ title: "Section 6491 - Flexibility for equitable per-pupil funding"
 usc_title: 20
 usc_section: "6491"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 6491"
-generated_at: "2026-03-30T02:54:48.200Z"
+generated_at: "2026-11-23T20:26:14.847Z"
+status: "active"
 ---
 
 # § 6491. Flexibility for equitable per-pupil funding
@@ -82,3 +83,7 @@ generated_at: "2026-03-30T02:54:48.200Z"
     - **(D)** part A of subchapter IV; and
     - **(E)** part B of subchapter V.
   - **(2)** The term “high-poverty school” means a school that is in the highest 2 quartiles of schools served by a local educational agency, based on the percentage of enrolled students from low-income families.
+
+## Source Credit
+
+*([Pub. L. 89–10, title I, § 1501](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title I, § 1501(b)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1906](https://www.govinfo.gov/link/statute/129/1906).)*

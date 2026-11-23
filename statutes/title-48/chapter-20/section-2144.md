@@ -3,9 +3,10 @@ title: "Section 2144 - Review of activities to ensure compliance with Fiscal Pla
 usc_title: 48
 usc_section: "2144"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 2144"
-generated_at: "2026-03-30T02:56:14.604Z"
+generated_at: "2026-11-23T20:27:28.199Z"
+status: "active"
 ---
 
 # § 2144. Review of activities to ensure compliance with Fiscal Plan
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:56:14.604Z"
   - **(2)** implement a federally authorized or federally delegated program;
   - **(3)** implement territorial laws, which are consistent with a certified Fiscal Plan, that execute Federal requirements and standards; or
   - **(4)** preserve and maintain federally funded mass transportation assets.
+
+## Source Credit
+
+*([Pub. L. 114–187, title II, § 204](https://www.govinfo.gov/link/plaw/114/public/187), June 30, 2016, [130 Stat. 570](https://www.govinfo.gov/link/statute/130/570).)*

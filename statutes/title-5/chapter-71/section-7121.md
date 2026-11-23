@@ -3,9 +3,10 @@ title: "Section 7121 - Grievance procedures"
 usc_title: 5
 usc_section: "7121"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 7121"
-generated_at: "2026-03-30T02:52:56.036Z"
+generated_at: "2026-11-23T20:25:32.054Z"
+status: "active"
 ---
 
 # § 7121. Grievance procedures
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:52:56.036Z"
     - **(B)** the remedy described in paragraph (3)(B) if such person has timely filed a grievance in writing, in accordance with the provisions of the parties’ negotiated procedure; or
     - **(C)** the remedy described in paragraph (3)(C) if such person has sought corrective action from the Office of Special Counsel by making an allegation under section 1214(a)(1).
 - **(h)** Settlements and awards under this chapter shall be subject to the limitations in section 5596(b)(4) of this title .
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title VII, § 701](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1211](https://www.govinfo.gov/link/statute/92/1211); amended [Pub. L. 103–424, § 9](https://www.govinfo.gov/link/plaw/103/public/424), Oct. 29, 1994, [108 Stat. 4365](https://www.govinfo.gov/link/statute/108/4365); [Pub. L. 105–261, div. A, title XI, § 1104(b)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2142](https://www.govinfo.gov/link/statute/112/2142).)*

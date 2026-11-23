@@ -3,9 +3,10 @@ title: "Section 3115a - Tribal forest assets protection"
 usc_title: 25
 usc_section: "3115a"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3115a"
-generated_at: "2026-03-30T02:54:52.848Z"
+generated_at: "2026-11-23T20:26:25.637Z"
+status: "active"
 ---
 
 # § 3115a. Tribal forest assets protection
@@ -59,3 +60,7 @@ generated_at: "2026-03-30T02:54:52.848Z"
   - **(1)** prohibits, restricts, or otherwise adversely affects the participation of any Indian tribe in stewardship agreements or contracting under the authority of section 347 of the Department of the Interior and Related Agencies Appropriations Act, 1999 ( 16 U.S.C. 2104 note; Public Law 105–277 ) (as amended by section 323 of the Department of the Interior and Related Agencies Appropriations Act, 2003 ( 117 Stat. 275 )) or other authority invoked pursuant to this Act; or
   - **(2)** invalidates any agreement or contract under that authority.
 - **(g)** Not later than 4 years after July 22, 2004 , the Secretary shall submit to Congress a report that describes the Indian tribal requests received and agreements or contracts that have been entered into under this Act.
+
+## Source Credit
+
+*([Pub. L. 108–278, § 2](https://www.govinfo.gov/link/plaw/108/public/278), July 22, 2004, [118 Stat. 868](https://www.govinfo.gov/link/statute/118/868); [Pub. L. 115–325, title II, § 202(b)(1)](https://www.govinfo.gov/link/plaw/115/public/325), Dec. 18, 2018, [132 Stat. 4459](https://www.govinfo.gov/link/statute/132/4459).)*

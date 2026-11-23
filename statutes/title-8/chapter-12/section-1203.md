@@ -3,9 +3,10 @@ title: "Section 1203 - Reentry permit"
 usc_title: 8
 usc_section: "1203"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1203"
-generated_at: "2026-03-30T02:53:10.485Z"
+generated_at: "2026-11-23T20:25:36.143Z"
+status: "active"
 ---
 
 # § 1203. Reentry permit
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:10.485Z"
 - **(c)** During the period of validity, such permit may be used by the alien in making one or more applications for reentry into the United States.
 - **(d)** Upon the return of the alien to the United States the permit shall be presented to the immigration officer at the port of entry, and upon the expiration of its validity, the permit shall be surrendered to the Service.
 - **(e)** A permit issued under this section in the possession of the person to whom issued, shall be accepted in lieu of any visa which otherwise would be required from such person under this chapter. Otherwise a permit issued under this section shall have no effect under the immigration laws except to show that the alien to whom it was issued is returning from a temporary visit abroad; but nothing in this section shall be construed as making such permit the exclusive means of establishing that the alien is so returning.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 3, § 223, [66 Stat. 194](https://www.govinfo.gov/link/statute/66/194); [Pub. L. 97–116, § 6](https://www.govinfo.gov/link/plaw/97/public/116), Dec. 29, 1981, [95 Stat. 1615](https://www.govinfo.gov/link/statute/95/1615).)*

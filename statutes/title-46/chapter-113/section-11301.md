@@ -3,9 +3,10 @@ title: "Section 11301 - Logbook and entry requirements"
 usc_title: 46
 usc_section: "11301"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 11301"
-generated_at: "2026-03-30T02:56:15.555Z"
+generated_at: "2026-11-23T20:27:27.166Z"
+status: "active"
 ---
 
 # § 11301. Logbook and entry requirements
@@ -27,3 +28,16 @@ generated_at: "2026-03-30T02:56:15.555Z"
   - **(11)** the sale of the property of a seaman who dies during the voyage, including a statement of each article sold and the amount received for the property.
   - **(12)** when a marine casualty occurs, a statement about the casualty and the circumstances under which it occurred, made immediately after the casualty when practicable to do so.
   - **(13)** when a vessel fails to carry out ballast water management requirements as applicable and pursuant to regulations promulgated by the Secretary, including when the vessel fails to carry out ballast water management requirements due to an allowed safety exemption, a statement regarding the failure to comply and the circumstances under which the failure occurred, made immediately after the failure, when practicable to do so.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 11301 | 46:201 |
+
+
+Historical and Revision Notes
+
+11301
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 581](https://www.govinfo.gov/link/statute/97/581); [Pub. L. 98–557, § 30](https://www.govinfo.gov/link/plaw/98/public/557), Oct. 30, 1984, [98 Stat. 2875](https://www.govinfo.gov/link/statute/98/2875); [Pub. L. 104–324, title VII, § 742](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3942](https://www.govinfo.gov/link/statute/110/3942); [Pub. L. 115–282, title IX, § 903(d)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4357](https://www.govinfo.gov/link/statute/132/4357).)*

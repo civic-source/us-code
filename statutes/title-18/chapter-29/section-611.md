@@ -3,9 +3,10 @@ title: "Section 611 - Voting by aliens"
 usc_title: 18
 usc_section: "611"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 611"
-generated_at: "2026-03-30T02:54:16.466Z"
+generated_at: "2026-11-23T20:26:08.390Z"
+status: "active"
 ---
 
 # § 611. Voting by aliens
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:16.466Z"
   - **(1)** each natural parent of the alien (or, in the case of an adopted alien, each adoptive parent of the alien) is or was a citizen (whether by birth or naturalization);
   - **(2)** the alien permanently resided in the United States prior to attaining the age of 16; and
   - **(3)** the alien reasonably believed at the time of voting in violation of such subsection that he or she was a citizen of the United States.
+
+## Source Credit
+
+*(Added [Pub. L. 104–208, div. C, title II, § 216(a)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–572](https://www.govinfo.gov/link/statute/110/3009); amended [Pub. L. 106–395, title II, § 201(d)(1)](https://www.govinfo.gov/link/plaw/106/public/395), Oct. 30, 2000, [114 Stat. 1635](https://www.govinfo.gov/link/statute/114/1635).)*

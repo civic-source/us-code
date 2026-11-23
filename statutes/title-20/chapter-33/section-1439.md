@@ -3,9 +3,10 @@ title: "Section 1439 - Procedural safeguards"
 usc_title: 20
 usc_section: "1439"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1439"
-generated_at: "2026-03-30T02:54:48.166Z"
+generated_at: "2026-11-23T20:26:14.655Z"
+status: "active"
 ---
 
 # § 1439. Procedural safeguards
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:48.166Z"
     - **(B)** any reference in the section to a local educational agency shall be considered to be a reference to a local service provider or the State’s lead agency under this subchapter, as the case may be; and
     - **(C)** any reference in the section to the provision of a free appropriate public education to children with disabilities shall be considered to be a reference to the provision of appropriate early intervention services to infants and toddlers with disabilities.
 - **(b)** During the pendency of any proceeding or action involving a complaint by the parents of an infant or toddler with a disability, unless the State agency and the parents otherwise agree, the infant or toddler shall continue to receive the appropriate early intervention services currently being provided or, if applying for initial services, shall receive the services not in dispute.
+
+## Source Credit
+
+*([Pub. L. 91–230, title VI, § 639](https://www.govinfo.gov/link/plaw/91/public/230), as added [Pub. L. 108–446, title I, § 101](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2755](https://www.govinfo.gov/link/statute/118/2755).)*

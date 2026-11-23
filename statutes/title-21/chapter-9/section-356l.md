@@ -3,9 +3,10 @@ title: "Section 356l - Advanced manufacturing technologies designation program"
 usc_title: 21
 usc_section: "356l"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 356l"
-generated_at: "2026-03-30T02:54:54.244Z"
+generated_at: "2026-11-23T20:26:27.620Z"
+status: "active"
 ---
 
 # § 356l. Advanced manufacturing technologies designation program
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:54:54.244Z"
 - **(f)** The Secretary—
   - **(1)** may not consider any requests for designation submitted under subsection (c) after October 1, 2032 ; and
   - **(2)** may continue all activities under this section with respect to advanced manufacturing technologies that were designated pursuant to subsection (b) prior to such date, if the Secretary determines such activities are in the interest of the public health.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 506L, as added [Pub. L. 117–328, div. FF, title III, § 3213](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5826](https://www.govinfo.gov/link/statute/136/5826).)*

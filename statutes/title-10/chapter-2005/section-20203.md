@@ -3,9 +3,10 @@ title: "Section 20203 - Original appointments: service credit"
 usc_title: 10
 usc_section: "20203"
 chapter: 2005
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 20203"
-generated_at: "2026-03-30T02:53:38.280Z"
+generated_at: "2026-11-23T20:25:52.505Z"
+status: "active"
 ---
 
 # § 20203. Original appointments: service credit
@@ -33,3 +34,21 @@ generated_at: "2026-03-30T02:53:38.280Z"
   - **(1)** in the case of an officer on the active-duty list of an armed force immediately before that appointment, be appointed in the same grade and with the same date of rank as the grade and date of rank held by the officer on the active-duty list immediately before the appointment; and
   - **(2)** in the case of an officer not on the active-duty list immediately before that appointment, be appointed in the same grade and with the same date of rank as the grade and date of rank which the officer would have held had the officer been serving on the active-duty list on the date of the appointment.
 - **(f)** Except as otherwise provided by the President by Executive order, the provisions of Executive Order 13384 ( 10 U.S.C. 531 note) relating to the functions of the President under section 531(a) of this title shall apply in the same manner to functions of the President under section 20201 of this title .
+
+In General
+
+Credit for Prior Service
+
+Credit for Education, Training, and Experience
+
+Authorized Use of Constructive Credit
+
+Exclusion for Graduates of the Service Academies
+
+Reserve Officers
+
+Continuity of Existing Delegation of Presidential Appointment Functions
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title XVII, § 1716(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 632](https://www.govinfo.gov/link/statute/137/632).)*

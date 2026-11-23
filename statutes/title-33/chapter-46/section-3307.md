@@ -3,9 +3,10 @@ title: "Section 3307 - Assessment of Corps of Engineers levees"
 usc_title: 33
 usc_section: "3307"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 3307"
-generated_at: "2026-03-30T02:55:41.140Z"
+generated_at: "2026-11-23T20:26:54.261Z"
+status: "active"
 ---
 
 # § 3307. Assessment of Corps of Engineers levees
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:55:41.140Z"
 - **(f)** The Secretary shall include in the levee database established under section 3303 of this title the information included in each report submitted under subsection (e), and make such information publicly available (including on a publicly available website).
 - **(g)** In this section, the term “levee system” has the meaning given that term in section 3301(9) of this title .
 - **(h)** There is authorized to be appropriated to carry out this section $10,000,000, to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. H, title LXXXI, § 8121](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3712](https://www.govinfo.gov/link/statute/136/3712).)*

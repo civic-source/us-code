@@ -3,9 +3,10 @@ title: "Section 18502 - Reserve components: supplies, services, and facilities"
 usc_title: 10
 usc_section: "18502"
 chapter: 1805
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 18502"
-generated_at: "2026-03-30T02:53:38.279Z"
+generated_at: "2026-11-23T20:25:52.502Z"
+status: "active"
 ---
 
 # § 18502. Reserve components: supplies, services, and facilities
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:38.279Z"
 - **(b)** Whenever he finds it to be in the best interest of the United States, the Secretary concerned may issue supplies of the armed forces under his jurisdiction to the reserve components under his jurisdiction, without charge to the appropriations for those components for the cost or value of the supplies or for any related expense.
 - **(c)** Whenever he finds it to be in the best interest of the United States, the Secretary of the Army or the Secretary of the Air Force may issue to the Army National Guard or the Air National Guard, as the case may be, supplies of the armed forces under his jurisdiction that are in addition to supplies issued to that National Guard under section 702 of title 32 or charged against its appropriations under section 106 or 107 of title 32, without charge to the appropriations for those components for the cost or value of the supplies or for any related expense.
 - **(d)** Supplies issued under subsection (b) or (c) may be repossessed or redistributed as prescribed by the Secretary concerned.
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1664(c)(1)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 3012](https://www.govinfo.gov/link/statute/108/3012).)*

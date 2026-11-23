@@ -3,9 +3,10 @@ title: "Section 101112 - Board"
 usc_title: 54
 usc_section: "101112"
 chapter: 1011
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "54 U.S.C. § 101112"
-generated_at: "2026-03-30T02:56:28.414Z"
+generated_at: "2026-11-23T20:27:38.005Z"
+status: "active"
 ---
 
 # § 101112. Board
@@ -18,3 +19,40 @@ generated_at: "2026-03-30T02:56:28.414Z"
 - **(f)** The National Park Foundation shall have an official seal, which shall be judicially noticed.
 - **(g)** The Board shall meet at the call of the Chairman and there shall be at least one meeting each year.
 - **(h)** No compensation shall be paid to the members of the Board for their services as members, but they shall be reimbursed for actual and necessary traveling and subsistence expenses incurred by them in the performance of their duties as members out of National Park Foundation funds available to the Board for those purposes.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 101112 | 16 U.S.C. 19f . | Pub. L. 90–209, § 2 , Dec. 18, 1967 , 81 Stat. 656 . |
+
+
+Membership
+
+Term of Office and Vacancies
+
+Chairman
+
+Board Membership Not an Office
+
+Quorum
+
+Seal
+
+Meetings
+
+Compensation and Reimbursement
+
+Historical and Revision Notes
+
+101112
+
+16 U.S.C. 19f
+
+Pub. L. 90–209, § 2
+
+Dec. 18, 1967
+
+81 Stat. 656
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3120](https://www.govinfo.gov/link/statute/128/3120); [Pub. L. 114–289, title IV, § 401(1)](https://www.govinfo.gov/link/plaw/114/public/289), Dec. 16, 2016, [130 Stat. 1488](https://www.govinfo.gov/link/statute/130/1488).)*

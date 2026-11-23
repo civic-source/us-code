@@ -3,9 +3,10 @@ title: "Section 6k - Registration of associates of futures commission merchants,
 usc_title: 7
 usc_section: "6k"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6k"
-generated_at: "2026-03-30T02:53:42.241Z"
+generated_at: "2026-11-23T20:25:40.863Z"
+status: "active"
 ---
 
 # § 6k. Registration of associates of futures commission merchants, commodity pool operators, and commodity trading advisors; required disclosure of disqualifications; exemptions for associated persons
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:42.241Z"
     - **(G)** Section 13a–2 of this title .
     - **(H)** Subsections (d) and (g) of section 12 of this title .
     - **(I)** Section 20 of this title .
+
+## Source Credit
+
+*(Sept. 21, 1922, ch. 369, § 4k, as added [Pub. L. 93–463, title II, § 204(a)](https://www.govinfo.gov/link/plaw/93/public/463), Oct. 23, 1974, [88 Stat. 1396](https://www.govinfo.gov/link/statute/88/1396); amended [Pub. L. 95–405, § 7](https://www.govinfo.gov/link/plaw/95/public/405), Sept. 30, 1978, [92 Stat. 869](https://www.govinfo.gov/link/statute/92/869); [Pub. L. 97–444, title II, § 212](https://www.govinfo.gov/link/plaw/97/public/444), Jan. 11, 1983, [96 Stat. 2303](https://www.govinfo.gov/link/statute/96/2303); [Pub. L. 106–554, § 1(a)(5) [title II, § 252(d)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–448; [Pub. L. 110–234, title XIII, § 13105(c)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1434](https://www.govinfo.gov/link/statute/122/1434); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIII, § 13105(c), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2196.)*

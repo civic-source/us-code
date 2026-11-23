@@ -3,9 +3,10 @@ title: "Section 5151 - Conversion of currency of foreign countries"
 usc_title: 31
 usc_section: "5151"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 5151"
-generated_at: "2026-03-30T02:55:34.066Z"
+generated_at: "2026-11-23T20:26:51.855Z"
+status: "active"
 ---
 
 # § 5151. Conversion of currency of foreign countries
@@ -23,3 +24,52 @@ generated_at: "2026-03-30T02:55:34.066Z"
   - **(2)** if there is no buying rate, calculate the rate from—
     - **(A)** actual transactions and quotations in demand or time bills of exchange; or
     - **(B)** the last ascertainable transactions and quotations outside the United States in or for exchange payable in United States currency or foreign currency.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5151(a) | 31:372(c)(2)(1st sentence), (3). | June 17, 1930, ch. 497, § 522(c) , 46 Stat. 740 ; restated Aug. 2, 1956, ch. 887, § 3 , 70 Stat. 946 . |
+| 5151(b) | 31:372(a). | Aug. 27, 1894, ch. 349, § 25 , 28 Stat. 552 ; May 27, 1921, ch. 14, § 403(a) , 42 Stat. 17 ; restated June 17, 1930, ch. 497, § 522(a) , 46 Stat. 739 . |
+| 5151(c) | 31:372(b). | June 17, 1930, ch. 497, § 522(b) , 46 Stat. 740 . |
+| 5151(d) | 31:372(c)(1). |  |
+| 5151(e) | 31:372(c)(2)(2d, last sentences). |  |
+
+
+Historical and Revision Notes
+
+5151(a)
+
+June 17, 1930, ch. 497, § 522(c)
+
+46 Stat. 740
+
+Aug. 2, 1956, ch. 887, § 3
+
+70 Stat. 946
+
+5151(b)
+
+Aug. 27, 1894, ch. 349, § 25
+
+28 Stat. 552
+
+May 27, 1921, ch. 14, § 403(a)
+
+42 Stat. 17
+
+June 17, 1930, ch. 497, § 522(a)
+
+46 Stat. 739
+
+5151(c)
+
+June 17, 1930, ch. 497, § 522(b)
+
+46 Stat. 740
+
+5151(d)
+
+5151(e)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 991](https://www.govinfo.gov/link/statute/96/991).)*

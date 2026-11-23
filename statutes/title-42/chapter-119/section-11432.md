@@ -3,9 +3,10 @@ title: "Section 11432 - Grants for State and local activities for the education 
 usc_title: 42
 usc_section: "11432"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11432"
-generated_at: "2026-03-30T02:56:11.402Z"
+generated_at: "2026-11-23T20:27:23.310Z"
+status: "active"
 ---
 
 # § 11432. Grants for State and local activities for the education of homeless children and youths
@@ -202,3 +203,15 @@ generated_at: "2026-03-30T02:56:11.402Z"
     - **(A)** Each State educational agency and local educational agency that receives assistance under this part shall review and revise any policies that may act as barriers to the identification of homeless children and youths or the enrollment of homeless children and youths in schools that are selected under paragraph (3).
     - **(B)** In reviewing and revising such policies, consideration shall be given to issues concerning transportation, immunization, residency, birth certificates, school records and other documentation, and guardianship.
     - **(C)** Special attention shall be given to ensuring the identification, enrollment, and attendance of homeless children and youths who are not currently attending school.
+
+(aa) the choice of schools homeless children and youths are eligible to attend, as provided in subsection (g)(3)(A);
+
+(bb) that no homeless child or youth is required to attend a separate school for homeless children or youths;
+
+(cc) that homeless children and youths shall be provided comparable services described in subsection (g)(4), including transportation services, educational services, and meals through school meals programs; and
+
+(dd) that homeless children and youths should not be stigmatized by school personnel; and
+
+## Source Credit
+
+*([Pub. L. 100–77, title VII, § 722](https://www.govinfo.gov/link/plaw/100/public/77), as added [Pub. L. 107–110, title X, § 1032](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1990](https://www.govinfo.gov/link/statute/115/1990); amended [Pub. L. 110–289, div. B, title IX, § 2901(b)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2875](https://www.govinfo.gov/link/statute/122/2875); [Pub. L. 114–95, title IX, § 9102](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2124](https://www.govinfo.gov/link/statute/129/2124).)*

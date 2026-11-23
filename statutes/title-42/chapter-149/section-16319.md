@@ -3,9 +3,10 @@ title: "Section 16319 - Energy and water supplies"
 usc_title: 42
 usc_section: "16319"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16319"
-generated_at: "2026-03-30T02:56:11.483Z"
+generated_at: "2026-11-23T20:27:23.668Z"
+status: "active"
 ---
 
 # § 16319. Energy and water supplies
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.483Z"
 - **(d)** The Secretary may utilize all existing facilities within the Department and may design and construct additional facilities as needed to carry out the purposes of this program.
 - **(e)** The Secretary shall establish or utilize an advisory committee to provide independent advice and review of the program.
 - **(f)** Not later than 2 years after August 8, 2005 , the Secretary shall submit to Congress a report on the assessment described in subsection (b) and recommendations for future actions.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 979](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 905](https://www.govinfo.gov/link/statute/119/905).)*

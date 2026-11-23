@@ -3,9 +3,10 @@ title: "Section 6654 - Failure by individual to pay estimated income tax"
 usc_title: 26
 usc_section: "6654"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6654"
-generated_at: "2026-03-30T02:55:27.860Z"
+generated_at: "2026-11-23T20:26:46.694Z"
+status: "active"
 ---
 
 # § 6654. Failure by individual to pay estimated income tax
@@ -24,7 +25,15 @@ generated_at: "2026-03-30T02:55:27.860Z"
   - **(3)** For purposes of paragraph (2)(B), a payment of estimated tax shall be credited against unpaid required installments in the order in which such installments are required to be paid.
 - **(c)** For purposes of this section—
   - **(1)** There shall be 4 required installments for each taxable year.
-  - **(2)** In the case of the following required installments: The due date is: 1st April 15 2nd June 15 3rd September 15 4th January 15 of the following taxable year.
+  - **(2)**
+
+| In the case of the following required installments: | The due date is: |
+| --- | --- |
+| 1st | April 15 |
+| 2nd | June 15 |
+| 3rd | September 15 |
+| 4th | January 15 of the following taxable year. |
+
 - **(d)** For purposes of this section—
   - **(1)**
     - **(A)** Except as provided in paragraph (2), the amount of any required installment shall be 25 percent of the required annual payment.
@@ -44,7 +53,15 @@ generated_at: "2026-03-30T02:55:27.860Z"
       - **(ii)** the aggregate amount of any prior required installments for the taxable year.
     - **(C)** For purposes of this paragraph—
       - **(i)** The taxable income, alternative minimum taxable income, and adjusted self-employment income shall be placed on an annualized basis under regulations prescribed by the Secretary.
-      - **(ii)** In the case of the following required installments: The applicable percentage is: 1st 22.5 2nd 45 3rd 67.5 4th 90.
+      - **(ii)**
+
+| In the case of the following required installments: | The applicable percentage is: |
+| --- | --- |
+| 1st | 22.5 |
+| 2nd | 45 |
+| 3rd | 67.5 |
+| 4th | 90. |
+
       - **(iii)** The term “adjusted self-employment income” means self-employment income (as defined in section 1402(b)); except that section 1402(b) shall be applied by placing wages (within the meaning of section 1402(b)) for months in the taxable year ending before the due date for the installment on an annualized basis consistent with clause (i).
     - **(D)**
       - **(i)** Any amounts required to be included in gross income under section 951(a) (and credits properly allocable thereto) shall be taken into account in computing any annualized income installment under subparagraph (B) in a manner similar to the manner under which partnership income inclusions (and credits properly allocable thereto) are taken into account.
@@ -106,3 +123,48 @@ generated_at: "2026-03-30T02:55:27.860Z"
   - **(4)** In the case of any estate or trust to which this section applies, subsection (d)(2)(B)(i) shall be applied by substituting “ending before the date 1 month before the due date for the installment” for “ending before the due date for the installment”.
 - **(m)** For purposes of this section, the tax imposed under section 3101(b)(2) (to the extent not withheld) shall be treated as a tax imposed under chapter 2.
 - **(n)** The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.
+
+| In the case of the following required installments: | The due date is: |
+| --- | --- |
+| 1st | June 15 |
+| 2nd | September 15 |
+| 3rd | January 15 of the following taxable year. |
+
+
+1st
+
+2nd
+
+3rd
+
+4th
+
+1st
+
+2nd
+
+3rd
+
+4th
+
+1st
+
+2nd
+
+3rd
+
+1st
+
+2nd
+
+3rd
+
+4th
+
+In general
+
+Waiver authority
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 823; [Pub. L. 87–682, § 1(a)(4)](https://www.govinfo.gov/link/plaw/87/public/682), Sept. 25, 1962, [76 Stat. 575](https://www.govinfo.gov/link/statute/76/575); [Pub. L. 89–368, title I](https://www.govinfo.gov/link/plaw/89/public/368), §§ 102(b)(1)–(3), 103(a), Mar. 15, 1966, [80 Stat. 62–64](https://www.govinfo.gov/link/statute/80/62); [Pub. L. 91–172, title III, § 301(b)(13)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 586](https://www.govinfo.gov/link/statute/83/586); [Pub. L. 92–5, title II, § 203(b)(7)](https://www.govinfo.gov/link/plaw/92/public/5), Mar. 17, 1971, [85 Stat. 11](https://www.govinfo.gov/link/statute/85/11); [Pub. L. 92–336, title II, § 203(b)(7)](https://www.govinfo.gov/link/plaw/92/public/336), July 1, 1972, [86 Stat. 420](https://www.govinfo.gov/link/statute/86/420); [Pub. L. 93–66, title II, § 203(b)(7)](https://www.govinfo.gov/link/plaw/93/public/66), (d), July 9, 1973, [87 Stat. 153](https://www.govinfo.gov/link/statute/87/153); [Pub. L. 93–233, § 5(b)(7)](https://www.govinfo.gov/link/plaw/93/public/233), (d), Dec. 31, 1973, [87 Stat. 954](https://www.govinfo.gov/link/statute/87/954); [Pub. L. 93–625, § 7(c)](https://www.govinfo.gov/link/plaw/93/public/625), Jan. 3, 1975, [88 Stat. 2115](https://www.govinfo.gov/link/statute/88/2115); [Pub. L. 94–455, title XIX, § 1906(a)(35)](https://www.govinfo.gov/link/plaw/94/public/455), (b)(13)(A), Oct. 4, 1976, [90 Stat. 1829](https://www.govinfo.gov/link/statute/90/1829), 1834; [Pub. L. 95–30, title I, § 102(b)(16)](https://www.govinfo.gov/link/plaw/95/public/30), May 23, 1977, [91 Stat. 139](https://www.govinfo.gov/link/statute/91/139); [Pub. L. 95–600, title IV, § 421(e)(9)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2877](https://www.govinfo.gov/link/statute/92/2877); [Pub. L. 97–34, title VI, § 601(a)(6)(A)](https://www.govinfo.gov/link/plaw/97/public/34), title VII, § 725(b), (c)(5), Aug. 13, 1981, [95 Stat. 336](https://www.govinfo.gov/link/statute/95/336), 346; [Pub. L. 97–248, title II, § 207(d)(7)](https://www.govinfo.gov/link/plaw/97/public/248), formerly § 207(c)(7), title III, §§ 307(a)(14), 308(a), 328(a), Sept. 3, 1982, [96 Stat. 420](https://www.govinfo.gov/link/statute/96/420), 590, 591, 618, renumbered § 207(d)(7), [Pub. L. 97–448, title III, § 306(a)(1)(A)(i)](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2400](https://www.govinfo.gov/link/statute/96/2400); [Pub. L. 97–448, title I](https://www.govinfo.gov/link/plaw/97/public/448), §§ 106(a)(4)(C), 107(c)(1), title II, § 201(j)(3), Jan. 12, 1983, [96 Stat. 2390](https://www.govinfo.gov/link/statute/96/2390), 2391, 2396; [Pub. L. 98–67, title I, § 102(a)](https://www.govinfo.gov/link/plaw/98/public/67), Aug. 5, 1983, [97 Stat. 369](https://www.govinfo.gov/link/statute/97/369); [Pub. L. 98–369, div. A, title IV, § 411](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 788](https://www.govinfo.gov/link/statute/98/788); [Pub. L. 99–514, title XIV, § 1404(a)](https://www.govinfo.gov/link/plaw/99/public/514), title XV, §§ 1511(c)(14), 1541(a), (b), title XVIII, § 1841, Oct. 22, 1986, [100 Stat. 2713](https://www.govinfo.gov/link/statute/100/2713), 2745, 2751, 2852; [Pub. L. 100–418, title I, § 1941(b)(6)(A)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1324](https://www.govinfo.gov/link/statute/102/1324); [Pub. L. 100–647, title I, § 1014(d)(1)](https://www.govinfo.gov/link/plaw/100/public/647), (2), title IV, § 4005(g)(5), Nov. 10, 1988, [102 Stat. 3560](https://www.govinfo.gov/link/statute/102/3560), 3651; [Pub. L. 101–239, title VII, § 7811(j)(5)](https://www.govinfo.gov/link/plaw/101/public/239), (6), Dec. 19, 1989, [103 Stat. 2411](https://www.govinfo.gov/link/statute/103/2411), 2412; [Pub. L. 102–164, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/102/public/164), (b), Nov. 15, 1991, [105 Stat. 1062](https://www.govinfo.gov/link/statute/105/1062), 1064; [Pub. L. 103–66, title XIII, § 13214(a)](https://www.govinfo.gov/link/plaw/103/public/66), (b), Aug. 10, 1993, [107 Stat. 475](https://www.govinfo.gov/link/statute/107/475); [Pub. L. 103–465, title VII, § 711(b)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4998](https://www.govinfo.gov/link/statute/108/4998); [Pub. L. 105–34, title X, § 1091(a)](https://www.govinfo.gov/link/plaw/105/public/34), title XII, § 1202(a), Aug. 5, 1997, [111 Stat. 962](https://www.govinfo.gov/link/statute/111/962), 994; [Pub. L. 105–277, div. J, title II, § 2003(a)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–901](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 106–170, title V, § 531(a)](https://www.govinfo.gov/link/plaw/106/public/170), Dec. 17, 1999, [113 Stat. 1928](https://www.govinfo.gov/link/statute/113/1928); [Pub. L. 111–5, div. B, title I, § 1212](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 336](https://www.govinfo.gov/link/statute/123/336); [Pub. L. 111–152, title I, § 1402(a)(2)](https://www.govinfo.gov/link/plaw/111/public/152), (b)(2), Mar. 30, 2010, [124 Stat. 1062](https://www.govinfo.gov/link/statute/124/1062), 1063; [Pub. L. 115–141, div. U, title IV, § 401(a)(301)](https://www.govinfo.gov/link/plaw/115/public/141), (302), (b)(48), (49), (d)(1)(D)(xix), Mar. 23, 2018, [132 Stat. 1199](https://www.govinfo.gov/link/statute/132/1199), 1204, 1205, 1208.)*

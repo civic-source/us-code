@@ -3,9 +3,10 @@ title: "Section 6323 - Reporting requirement"
 usc_title: 22
 usc_section: "6323"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6323"
-generated_at: "2026-03-30T02:55:05.427Z"
+generated_at: "2026-11-23T20:26:32.607Z"
+status: "active"
 ---
 
 # § 6323. Reporting requirement
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:05.427Z"
   - **(4)** all activities of the Federal Government in support of the objectives set forth in sections 6321 and 6322 of this title;
   - **(5)** any recommendations of the President on additional measures to enhance the effectiveness of IAEA safeguards; and
   - **(6)** any initiatives that the President plans to take in support of each of the objectives set forth in sections 6321 and 6322 of this title.
+
+## Source Credit
+
+*([Pub. L. 103–236, title VIII, § 843](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 524](https://www.govinfo.gov/link/statute/108/524).)*

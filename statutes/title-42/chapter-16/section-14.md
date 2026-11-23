@@ -3,9 +3,10 @@ title: "Section 14 - Broader Impacts Review Criterion"
 usc_title: 42
 usc_section: "14"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 14"
-generated_at: "2026-03-30T02:56:11.128Z"
+generated_at: "2026-11-23T20:27:21.952Z"
+status: "active"
 ---
 
 # § 1862p–14. Broader Impacts Review Criterion
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.128Z"
   - **(3)** allows for some portion of funds allocated to broader impacts under a research grant to be used for assessment and evaluation of the broader impacts activity;
   - **(4)** encourages institutions of higher education and other nonprofit education or research organizations to develop and provide, either as individual institutions or in partnerships thereof, appropriate training and programs to assist Foundation-funded principal investigators at their institutions in achieving the goals of the Broader Impacts Review Criterion as described in subsection (a); and
   - **(5)** requires principal investigators applying for Foundation research grants to provide evidence of institutional support for the portion of the investigator’s proposal designed to satisfy the Broader Impacts Review Criterion, including evidence of relevant training, programs, and other institutional resources available to the investigator from either their home institution or organization or another institution or organization with relevant expertise.
+
+## Source Credit
+
+*([Pub. L. 111–358, title V, § 526](https://www.govinfo.gov/link/plaw/111/public/358), Jan. 4, 2011, [124 Stat. 4019](https://www.govinfo.gov/link/statute/124/4019); [Pub. L. 114–329, title I, § 102(c)](https://www.govinfo.gov/link/plaw/114/public/329), Jan. 6, 2017, [130 Stat. 2972](https://www.govinfo.gov/link/statute/130/2972).)*

@@ -3,9 +3,10 @@ title: "Section 7933 - Preventing improper use of taxpayer funds"
 usc_title: 20
 usc_section: "7933"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 7933"
-generated_at: "2026-03-30T02:54:48.222Z"
+generated_at: "2026-11-23T20:26:14.958Z"
+status: "active"
 ---
 
 # § 7933. Preventing improper use of taxpayer funds
@@ -17,3 +18,7 @@ To address the misuse of taxpayer funds, the Secretary of Education shall—
   - **(3)** require any applicant—
     - **(A)** for a grant under such Act to provide an assurance to the Secretary that any information submitted when applying for such grant and responding to monitoring and compliance reviews is truthful and accurate; and
     - **(B)** for a subgrant under such Act to provide the assurance described in subparagraph (A) to the entity awarding the subgrant.
+
+## Source Credit
+
+*([Pub. L. 114–95, title IX, § 9203](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2138](https://www.govinfo.gov/link/statute/129/2138).)*

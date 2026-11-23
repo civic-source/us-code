@@ -3,9 +3,10 @@ title: "Section 205 - Recordation of transfers and other documents"
 usc_title: 17
 usc_section: "205"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 205"
-generated_at: "2026-03-30T02:54:15.350Z"
+generated_at: "2026-11-23T20:26:06.510Z"
+status: "active"
 ---
 
 # § 205. Recordation of transfers and other documents
@@ -19,3 +20,25 @@ generated_at: "2026-03-30T02:54:15.350Z"
 - **(e)** A nonexclusive license, whether recorded or not, prevails over a conflicting transfer of copyright ownership if the license is evidenced by a written instrument signed by the owner of the rights licensed or such owner’s duly authorized agent, and if—
   - **(1)** the license was taken before execution of the transfer; or
   - **(2)** the license was taken in good faith before recordation of the transfer and without notice of it.
+
+Conditions for Recordation
+
+Certificate of Recordation
+
+Recordation as Constructive Notice
+
+Priority Between Conflicting Transfers
+
+Priority Between Conflicting Transfer of Ownership and Nonexclusive License
+
+In General
+
+Maintenance of Records; Publication of Information
+
+Deposit of Copies in Library of Congress
+
+Regulations
+
+## Source Credit
+
+*([Pub. L. 94–553, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/553), Oct. 19, 1976, [90 Stat. 2571](https://www.govinfo.gov/link/statute/90/2571); [Pub. L. 100–568, § 5](https://www.govinfo.gov/link/plaw/100/public/568), Oct. 31, 1988, [102 Stat. 2857](https://www.govinfo.gov/link/statute/102/2857); [Pub. L. 111–295, § 3(b)](https://www.govinfo.gov/link/plaw/111/public/295), Dec. 9, 2010, [124 Stat. 3180](https://www.govinfo.gov/link/statute/124/3180).)*

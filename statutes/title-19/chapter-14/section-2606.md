@@ -3,9 +3,10 @@ title: "Section 2606 - Import restrictions"
 usc_title: 19
 usc_section: "2606"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2606"
-generated_at: "2026-03-30T02:54:24.681Z"
+generated_at: "2026-11-23T20:26:11.002Z"
+status: "active"
 ---
 
 # § 2606. Import restrictions
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:24.681Z"
   - **(1)** is a member of the same family as the importer or person of account, including, but not limited to, membership as a brother or sister (whether by whole or half blood), spouse, ancestor, or lineal descendant;
   - **(2)** is a partner or associate with the importer or person of account in any partnership, association, or other venture; or
   - **(3)** is a corporation or other legal entity in which the importer or person of account directly or indirectly owns, controls, or holds power to vote 20 percent or more of the outstanding voting stock or shares in the entity.
+
+## Source Credit
+
+*([Pub. L. 97–446, title III, § 307](https://www.govinfo.gov/link/plaw/97/public/446), Jan. 12, 1983, [96 Stat. 2358](https://www.govinfo.gov/link/statute/96/2358).)*

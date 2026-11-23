@@ -3,9 +3,10 @@ title: "Section 150 - National goals and performance management measures"
 usc_title: 23
 usc_section: "150"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 150"
-generated_at: "2026-03-30T02:55:12.559Z"
+generated_at: "2026-11-23T20:26:23.809Z"
+status: "active"
 ---
 
 # § 150. National goals and performance management measures
@@ -52,3 +53,57 @@ generated_at: "2026-03-30T02:55:12.559Z"
   - **(2)** the effectiveness of the investment strategy document in the State asset management plan for the National Highway System;
   - **(3)** progress in achieving performance targets identified under subsection (d); and
   - **(4)** the ways in which the State is addressing congestion at freight bottlenecks, including those identified in the national freight strategic plan, within the State.
+
+Declaration of Policy
+
+National Goals
+
+Safety
+
+Infrastructure condition
+
+Congestion reduction
+
+System reliability
+
+Freight movement and economic vitality
+
+Environmental sustainability
+
+Reduced project delivery delays
+
+Establishment of Performance Measures.—
+
+In general
+
+Administration
+
+National highway performance program.—
+
+In general
+
+Regions
+
+Highway safety improvement program
+
+Congestion mitigation and air quality program
+
+National freight movement
+
+Establishment of Performance Targets.—
+
+In general
+
+Different approaches for urban and rural areas
+
+Reporting on Performance Targets
+
+Performance Management Data Support
+
+Inclusions
+
+Funding
+
+## Source Credit
+
+*(Added [Pub. L. 112–141, div. A, title I, § 1203(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 524](https://www.govinfo.gov/link/statute/126/524), amended [Pub. L. 114–94, div. A, title I, § 1446(a)(4)](https://www.govinfo.gov/link/plaw/114/public/94) –(6), (d)(2)(A), Dec. 4, 2015, [129 Stat. 1437](https://www.govinfo.gov/link/statute/129/1437), 1438.)*

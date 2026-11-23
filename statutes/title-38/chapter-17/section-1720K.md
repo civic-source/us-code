@@ -3,9 +3,10 @@ title: "Section 1720K - Grants or contracts to provide mental health support to 
 usc_title: 38
 usc_section: "1720K"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 1720K"
-generated_at: "2026-03-30T02:55:53.486Z"
+generated_at: "2026-11-23T20:27:01.700Z"
+status: "active"
 ---
 
 # § 1720K. Grants or contracts to provide mental health support to family caregivers of veterans
@@ -55,3 +56,37 @@ generated_at: "2026-03-30T02:55:53.486Z"
   - **(1)** The terms “caregiver” and “family caregiver” have the meanings given those terms in section 1720G of this title .
   - **(2)** The term “family caregiver program” means the program of comprehensive assistance for family caregivers under section 1720G of this title .
   - **(3)** The term “Veterans Crisis Line” means the toll-free hotline for veterans established under section 1720F of this title .
+
+Authority
+
+Application
+
+Distribution
+
+Priority
+
+Required Activities
+
+Outcome Measures
+
+Tracking Requirements
+
+Performance Review
+
+Remediation Plan
+
+Maximum Amount
+
+Supplement, Not Supplant
+
+Outreach to Family Caregivers
+
+Funding
+
+Authorization of Appropriations
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 118–210, title I, § 122](https://www.govinfo.gov/link/plaw/118/public/210), Jan. 2, 2025, [138 Stat. 2724](https://www.govinfo.gov/link/statute/138/2724).)*

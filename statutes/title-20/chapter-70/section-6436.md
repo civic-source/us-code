@@ -3,9 +3,10 @@ title: "Section 6436 - Institution-wide projects"
 usc_title: 20
 usc_section: "6436"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 6436"
-generated_at: "2026-03-30T02:54:48.199Z"
+generated_at: "2026-11-23T20:26:14.844Z"
+status: "active"
 ---
 
 # § 6436. Institution-wide projects
@@ -20,3 +21,7 @@ A State agency that provides free public education for children and youth in an 
   - **(6)** describes the measures and procedures that will be used to assess and improve student achievement;
   - **(7)** describes how the agency has planned, and will implement and evaluate, the institution-wide or program-wide project in consultation with personnel providing direct instructional services and support services in institutions or community-day programs for neglected or delinquent children and youth, and with personnel from the State educational agency; and
   - **(8)** includes an assurance that the State agency has provided for appropriate training for teachers and other instructional and administrative personnel to enable such teachers and personnel to carry out the project effectively.
+
+## Source Credit
+
+*([Pub. L. 89–10, title I, § 1416](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 107–110, title I, § 101](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1585](https://www.govinfo.gov/link/statute/115/1585); amended [Pub. L. 114–95, title I, § 1401(5)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1902](https://www.govinfo.gov/link/statute/129/1902).)*

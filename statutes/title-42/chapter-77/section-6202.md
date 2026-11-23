@@ -3,9 +3,10 @@ title: "Section 6202 - Definitions"
 usc_title: 42
 usc_section: "6202"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6202"
-generated_at: "2026-03-30T02:56:11.243Z"
+generated_at: "2026-11-23T20:27:22.581Z"
+status: "active"
 ---
 
 # § 6202. Definitions
@@ -34,3 +35,7 @@ As used in this chapter:
     - **(B)** owned by Indians or Alaska Natives with Federal restrictions on the title,
     - **(C)** within any area of the National Park System, the National Wildlife Refuge System, the National Wilderness Preservation System, the National System of Trails, or the Wild and Scenic Rivers System, or
     - **(D)** within military reservations.
+
+## Source Credit
+
+*([Pub. L. 94–163, § 3](https://www.govinfo.gov/link/plaw/94/public/163), Dec. 22, 1975, [89 Stat. 874](https://www.govinfo.gov/link/statute/89/874); [Pub. L. 95–619, title VI, § 691(a)](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3287](https://www.govinfo.gov/link/statute/92/3287); [Pub. L. 98–454, title VI, § 601(f)](https://www.govinfo.gov/link/plaw/98/public/454), Oct. 5, 1984, [98 Stat. 1736](https://www.govinfo.gov/link/statute/98/1736); [Pub. L. 101–383, § 3(a)](https://www.govinfo.gov/link/plaw/101/public/383), Sept. 15, 1990, [104 Stat. 727](https://www.govinfo.gov/link/statute/104/727); [Pub. L. 114–74, title IV, § 401(b)](https://www.govinfo.gov/link/plaw/114/public/74), Nov. 2, 2015, [129 Stat. 589](https://www.govinfo.gov/link/statute/129/589).)*

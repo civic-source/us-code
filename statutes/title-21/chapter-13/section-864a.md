@@ -3,9 +3,10 @@ title: "Section 864a - Grants to reduce production of methamphetamines from anhy
 usc_title: 21
 usc_section: "864a"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 864a"
-generated_at: "2026-03-30T02:54:54.297Z"
+generated_at: "2026-11-23T20:26:27.847Z"
+status: "active"
 ---
 
 # § 864a. Grants to reduce production of methamphetamines from anhydrous ammonia
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:54.297Z"
   - **(1)** an amount not less than $40 and not more than $60, as determined by the Secretary; and
   - **(2)** the number of fertilizer nurse tanks of the eligible entity.
 - **(d)** There is authorized to be appropriated to the Secretary to make grants under this section $15,000,000 for the period of fiscal years 2008 through 2012.
+
+## Source Credit
+
+*([Pub. L. 110–234, title XIV, § 14203](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1458](https://www.govinfo.gov/link/statute/122/1458); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIV, § 14203, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2220.)*

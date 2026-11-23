@@ -3,9 +3,10 @@ title: "Section 3772 - Definitions"
 usc_title: 16
 usc_section: "3772"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3772"
-generated_at: "2026-03-30T02:54:23.021Z"
+generated_at: "2026-11-23T20:26:20.672Z"
+status: "active"
 ---
 
 # § 3772. Definitions
@@ -48,3 +49,7 @@ In this chapter:
     - **(B)** The term “private land” includes tribal land and Hawaiian homeland.
   - **(7)** The term “project” means a project carried out under the Partners for Fish and Wildlife Program established by section 3773 of this title .
   - **(8)** The term “Secretary” means the Secretary of the Interior.
+
+## Source Credit
+
+*([Pub. L. 109–294, § 3](https://www.govinfo.gov/link/plaw/109/public/294), Oct. 3, 2006, [120 Stat. 1352](https://www.govinfo.gov/link/statute/120/1352).)*

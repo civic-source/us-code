@@ -3,9 +3,10 @@ title: "Section 1 - Jurisdiction and powers of local courts"
 usc_title: 48
 usc_section: "1"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1"
-generated_at: "2026-03-30T02:56:14.585Z"
+generated_at: "2026-11-23T20:27:28.047Z"
+status: "active"
 ---
 
 # § 1424–1. Jurisdiction and powers of local courts
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:14.585Z"
   - **(2)** dismissal of an appeal for lack of jurisdiction or failure to take or prosecute the appeal in accordance with applicable laws or rules of procedure.
 - **(d)** Except as granted to the Supreme Court of Guam or otherwise provided by this chapter or any other Act of Congress, the Superior Court of Guam and all other local courts established by the laws of Guam shall have such original and appellate jurisdiction over all causes in Guam as the laws of Guam provide, except that such jurisdiction shall be subject to the exclusive or concurrent jurisdiction conferred on the District Court of Guam under section 1424 of this title .
 - **(e)** The qualifications and duties of the justices and judges of the Supreme Court of Guam, the Superior Court of Guam, and all other local courts established by the laws of Guam shall be governed by the laws of Guam and the rules of such courts.
+
+## Source Credit
+
+*(Aug. 1, 1950, ch. 512, § 22A, as added [Pub. L. 98–454, title VIII, § 801](https://www.govinfo.gov/link/plaw/98/public/454), Oct. 5, 1984, [98 Stat. 1742](https://www.govinfo.gov/link/statute/98/1742); amended [Pub. L. 108–378, § 1(b)](https://www.govinfo.gov/link/plaw/108/public/378), Oct. 30, 2004, [118 Stat. 2206](https://www.govinfo.gov/link/statute/118/2206).)*

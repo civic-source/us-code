@@ -3,9 +3,10 @@ title: "Section 2602 - Definitions"
 usc_title: 15
 usc_section: "2602"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2602"
-generated_at: "2026-03-30T02:54:08.173Z"
+generated_at: "2026-11-23T20:26:04.205Z"
+status: "active"
 ---
 
 # § 2602. Definitions
@@ -48,3 +49,7 @@ As used in this chapter:
       - **(iii)** such other requirements as are necessary to provide such assurance.
   - **(16)** The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Canal Zone, American Samoa, the Northern Mariana Islands, or any other territory or possession of the United States.
   - **(17)** The term “United States”, when used in the geographic sense, means all of the States.
+
+## Source Credit
+
+*([Pub. L. 94–469, title I, § 3](https://www.govinfo.gov/link/plaw/94/public/469), Oct. 11, 1976, [90 Stat. 2004](https://www.govinfo.gov/link/statute/90/2004); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); renumbered title I, [Pub. L. 99–519, § 3(c)(1)](https://www.govinfo.gov/link/plaw/99/public/519), Oct. 22, 1986, [100 Stat. 2989](https://www.govinfo.gov/link/statute/100/2989); [Pub. L. 100–418, title I, § 1214(e)(1)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1156](https://www.govinfo.gov/link/statute/102/1156); [Pub. L. 114–92, div. A, title III, § 315](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 791](https://www.govinfo.gov/link/statute/129/791); [Pub. L. 114–182, title I](https://www.govinfo.gov/link/plaw/114/public/182), §§ 3, 19(c), June 22, 2016, [130 Stat. 448](https://www.govinfo.gov/link/statute/130/448), 505.)*

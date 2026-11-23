@@ -3,9 +3,10 @@ title: "Section 2281b - Corps of Engineers support for underserved communities; 
 usc_title: 33
 usc_section: "2281b"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2281b"
-generated_at: "2026-03-30T02:55:41.118Z"
+generated_at: "2026-11-23T20:26:54.151Z"
+status: "active"
 ---
 
 # § 2281b. Corps of Engineers support for underserved communities; outreach
@@ -33,3 +34,37 @@ generated_at: "2026-03-30T02:55:41.118Z"
   - **(3)** The Secretary shall develop and issue guidance to ensure that community project advisors designated under paragraph (2)(B) are adequately fulfilling their obligations under that paragraph.
   - **(4)** In carrying out this subsection, the Secretary shall, to the maximum extent practicable, prioritize awareness, education, and outreach and engagement to economically disadvantaged communities (as defined by the Secretary under section 160 of the Water Resources Development Act of 2020 ( 33 U.S.C. 2201 note)), including economically disadvantaged communities located in urban and rural areas.
   - **(5)** There is authorized to be appropriated to carry out this section $30,000,000 for each fiscal year.
+
+Establishment
+
+Membership
+
+Duties.—
+
+Recommendations
+
+Meetings
+
+Report
+
+Independent Judgment
+
+Administration.—
+
+Compensation
+
+Travel expenses
+
+Treatment
+
+Definitions
+
+Committee
+
+Economically disadvantaged community
+
+Indian tribe
+
+## Source Credit
+
+*([Pub. L. 117–263, div. H, title LXXXI, § 8117](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3709](https://www.govinfo.gov/link/statute/136/3709); [Pub. L. 118–272, div. A, title I, § 1101(a)](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 2996](https://www.govinfo.gov/link/statute/138/2996).)*

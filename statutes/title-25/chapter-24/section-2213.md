@@ -3,9 +3,10 @@ title: "Section 2213 - Administration of acquired fractional interests; disposit
 usc_title: 25
 usc_section: "2213"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 2213"
-generated_at: "2026-03-30T02:54:52.839Z"
+generated_at: "2026-11-23T20:26:25.585Z"
+status: "active"
 ---
 
 # § 2213. Administration of acquired fractional interests; disposition of proceeds
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:52.839Z"
 - **(c)**
   - **(1)** Paragraph (2) shall apply with respect to any undivided interest in allotted land held by the Secretary in trust for a tribe if a lease or agreement under subsection (a) is otherwise applicable to such undivided interest by reason of this section even though the Indian tribe did not consent to the lease or agreement.
   - **(2)** The lease or agreement described in paragraph (1) shall apply to the portion of the undivided interest in allotted land described in such paragraph (including entitlement of the Indian tribe to payment under the lease or agreement), and the Indian tribe shall not be treated as being a party to the lease or agreement. Nothing in this section (or in the lease or agreement) shall be construed to affect the sovereignty of the Indian tribe.
+
+## Source Credit
+
+*([Pub. L. 97–459, title II, § 214](https://www.govinfo.gov/link/plaw/97/public/459), as added [Pub. L. 106–462, title I, § 103(6)](https://www.govinfo.gov/link/plaw/106/public/462), Nov. 7, 2000, [114 Stat. 2000](https://www.govinfo.gov/link/statute/114/2000); amended [Pub. L. 108–374, § 6(a)(6)](https://www.govinfo.gov/link/plaw/108/public/374), Oct. 27, 2004, [118 Stat. 1801](https://www.govinfo.gov/link/statute/118/1801).)*

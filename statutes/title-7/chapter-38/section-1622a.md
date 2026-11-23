@@ -3,12 +3,17 @@ title: "Section 1622a - Authority to assist farmers and elevator operators"
 usc_title: 7
 usc_section: "1622a"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1622a"
-generated_at: "2026-03-30T02:53:42.328Z"
+generated_at: "2026-11-23T20:25:41.219Z"
+status: "active"
 ---
 
 # § 1622a. Authority to assist farmers and elevator operators
 
 The Secretary may provide technical assistance (including information on such financial assistance as may be available) to grain producers and elevator operators to assist such producers and operators in installing or improving grain cleaning, drying or storage equipment.
 
+
+## Source Credit
+
+*([Pub. L. 101–624, title XX, § 2014](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3933](https://www.govinfo.gov/link/statute/104/3933).)*

@@ -3,9 +3,10 @@ title: "Section 8505 - Career and volunteer opportunities for veterans"
 usc_title: 16
 usc_section: "8505"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 8505"
-generated_at: "2026-03-30T02:54:23.087Z"
+generated_at: "2026-11-23T20:26:20.893Z"
+status: "active"
 ---
 
 # § 8505. Career and volunteer opportunities for veterans
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:23.087Z"
   - **(1)** the Committee on Veterans’ Affairs and the Committee on Natural Resources of the House of Representatives; and
   - **(2)** the Committee on Veterans’ Affairs and the Committee on Energy and Natural Resources of the Senate.
 - **(d)** Each Secretary of a military department is encouraged to allow members of the Armed Forces on active duty status to participate in programs related to environmental stewardship or guided outdoor recreation.
+
+## Source Credit
+
+*([Pub. L. 118–234, title II, § 226](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2889](https://www.govinfo.gov/link/statute/138/2889).)*

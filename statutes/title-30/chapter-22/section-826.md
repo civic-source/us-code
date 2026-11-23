@@ -3,9 +3,10 @@ title: "Section 826 - Limitation on certain liability for rescue operations"
 usc_title: 30
 usc_section: "826"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 826"
-generated_at: "2026-03-30T02:55:29.389Z"
+generated_at: "2026-11-23T20:26:34.957Z"
+status: "active"
 ---
 
 # § 826. Limitation on certain liability for rescue operations
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:29.389Z"
   - **(1)** who is a member of a mine rescue team or who is otherwise a volunteer with respect to a mine accident; and
   - **(2)** who is carrying out activities relating to mine accident rescue or recovery operations.
 - **(c)** For purposes of subsection (a), the term “regular employer” means the entity that is the covered employee’s legal or statutory employer pursuant to applicable State law.
+
+## Source Credit
+
+*([Pub. L. 91–173, title I, § 116](https://www.govinfo.gov/link/plaw/91/public/173), as added [Pub. L. 109–236, § 3](https://www.govinfo.gov/link/plaw/109/public/236), June 15, 2006, [120 Stat. 496](https://www.govinfo.gov/link/statute/120/496).)*

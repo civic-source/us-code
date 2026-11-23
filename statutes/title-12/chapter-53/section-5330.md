@@ -3,9 +3,10 @@ title: "Section 5330 - Additional standards applicable to activities or practice
 usc_title: 12
 usc_section: "5330"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5330"
-generated_at: "2026-03-30T02:53:53.529Z"
+generated_at: "2026-11-23T20:25:59.470Z"
+status: "active"
 ---
 
 # § 5330. Additional standards applicable to activities or practices for financial stability purposes
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:53.529Z"
   - **(2)**
     - **(A)** Upon receipt of a recommendation under paragraph (1), a primary financial regulatory agency that has imposed standards under this section shall determine whether such standards should remain in effect.
     - **(B)** Each primary financial regulatory agency that has imposed standards under this section shall promulgate regulations to establish a procedure under which entities under its jurisdiction may appeal a determination by such agency under this paragraph that standards imposed under this section should remain in effect.
+
+## Source Credit
+
+*([Pub. L. 111–203, title I, § 120](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1408](https://www.govinfo.gov/link/statute/124/1408).)*

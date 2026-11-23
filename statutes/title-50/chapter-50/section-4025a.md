@@ -3,9 +3,10 @@ title: "Section 4025a - Portability of professional licenses of servicemembers a
 usc_title: 50
 usc_section: "4025a"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4025a"
-generated_at: "2026-03-30T02:56:26.265Z"
+generated_at: "2026-11-23T20:27:31.066Z"
+status: "active"
 ---
 
 # § 4025a. Portability of professional licenses of servicemembers and their spouses
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:56:26.265Z"
     - **(B)** is authorized to issue licenses.
   - **(4)** The term “military orders” has the meaning given such term in section 3955 of this title .
   - **(5)** The term “scope of practice” means the defined parameters of various duties or services that may be provided by an individual under a license.
+
+## Source Credit
+
+*(Oct. 17, 1940, ch. 888, title VII, § 705A, as added [Pub. L. 117–333, § 19(a)](https://www.govinfo.gov/link/plaw/117/public/333), Jan. 5, 2023, [136 Stat. 6137](https://www.govinfo.gov/link/statute/136/6137); amended [Pub. L. 118–159, div. A, title V, § 587](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1912](https://www.govinfo.gov/link/statute/138/1912).)*

@@ -3,9 +3,10 @@ title: "Section 2241 - Estimates of barriers to market access"
 usc_title: 19
 usc_section: "2241"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2241"
-generated_at: "2026-03-30T02:54:24.667Z"
+generated_at: "2026-11-23T20:26:10.920Z"
+status: "active"
 ---
 
 # § 2241. Estimates of barriers to market access
@@ -44,3 +45,23 @@ generated_at: "2026-03-30T02:54:24.667Z"
   - **(2)** Nothing in this subsection shall authorize the release of information to, or the use of information by, the Trade Representative in a manner inconsistent with law or any procedure established pursuant thereto.
   - **(3)** The head of any department, agency, or instrumentality of the United States may detail such personnel and may furnish such services, with or without reimbursement, as the Trade Representative may request to assist in carrying out his functions.
 - **(d)** For purposes of this section, the term “electronic commerce” has the meaning given that term in section 1104(3) 5 5 So in original. See References in Text note below. of the Internet Tax Freedom Act.
+
+In General
+
+Negotiating Objectives
+
+Electronic Commerce
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 93–618, title I, § 181](https://www.govinfo.gov/link/plaw/93/public/618), as added [Pub. L. 98–573, title III, § 303(a)](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 3001](https://www.govinfo.gov/link/statute/98/3001); amended [Pub. L. 100–418, title I, § 1304](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1181](https://www.govinfo.gov/link/statute/102/1181); [Pub. L. 103–465, title III](https://www.govinfo.gov/link/plaw/103/public/465), §§ 311(a), 312, Dec. 8, 1994, [108 Stat. 4938](https://www.govinfo.gov/link/statute/108/4938); [Pub. L. 105–277, div. C, title XII, § 1202](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–726](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 112–208, title II, § 203](https://www.govinfo.gov/link/plaw/112/public/208), Dec. 14, 2012, [126 Stat. 1501](https://www.govinfo.gov/link/statute/126/1501).)*

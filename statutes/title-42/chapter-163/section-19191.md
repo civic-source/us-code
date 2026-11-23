@@ -3,9 +3,10 @@ title: "Section 19191 - Findings"
 usc_title: 42
 usc_section: "19191"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 19191"
-generated_at: "2026-03-30T02:56:11.542Z"
+generated_at: "2026-11-23T20:27:23.865Z"
+status: "active"
 ---
 
 # § 19191. Findings
@@ -22,3 +23,7 @@ Congress makes the following findings:
   - **(2)** According to a 2017 University of Illinois study, among astronomers and planetary scientists, 18 percent of women who are members of racial or ethnic minority groups and 12 percent of White women skipped professional events because they did not feel safe attending.
   - **(3)** Reporting procedures with respect to sexual harassment are inconsistent among Federal research agencies and have varying degrees of accessibility.
   - **(4)** There is not adequate communication among Federal research agencies and between such agencies and recipients regarding reports of sexual harassment, which has resulted in harassers receiving Federal funding after moving to a different institution.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title V, § 10531](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1627](https://www.govinfo.gov/link/statute/136/1627).)*

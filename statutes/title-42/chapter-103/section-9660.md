@@ -3,9 +3,10 @@ title: "Section 9660 - Research, development, and demonstration"
 usc_title: 42
 usc_section: "9660"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9660"
-generated_at: "2026-03-30T02:56:11.364Z"
+generated_at: "2026-11-23T20:27:23.126Z"
+status: "active"
 ---
 
 # § 9660. Research, development, and demonstration
@@ -92,3 +93,55 @@ generated_at: "2026-03-30T02:56:11.364Z"
 - **(e)** At the time of the submission of the annual budget request to Congress, the Administrator shall submit to the appropriate committees of the House of Representatives and the Senate and to the advisory council established under subsection (a), a report on the progress of the research, development, and demonstration program authorized by subsection (b), including an evaluation of each demonstration project completed in the preceding fiscal year, findings with respect to the efficacy of such demonstrated technologies in achieving permanent and significant reductions in risk from hazardous wastes, the costs of such demonstration projects, and the potential applicability of, and projected costs for, such technologies at other hazardous substance sites.
 - **(f)** Nothing in this section shall be construed to affect the provisions of the Solid Waste Disposal Act [ 42 U.S.C. 6901 et seq.].
 - **(g)** The Administrator shall ensure, to the maximum extent practicable, an adequate opportunity for small business participation in the program established by subsection (b).
+
+Establishment of Voluntary Guidelines
+
+Considerations
+
+States
+
+Updating the Guidelines
+
+Conference
+
+Report
+
+Study
+
+Report
+
+Environmental Protection Agency
+
+National Institute of Standards and Technology
+
+Establishment of hazardous substance research, development, and demonstration center
+
+Purposes of the center
+
+Operation of center
+
+Authorization of appropriations
+
+Establishment
+
+Purposes of center
+
+Operation of center.—
+
+Nonprofit entity
+
+Authorities
+
+Hazardous waste research at the hanford site.—
+
+Interagency agreements
+
+Funding
+
+Authorization of appropriations
+
+“The purposes of this section [enacting this section] are as follows:
+
+## Source Credit
+
+*([Pub. L. 96–510, title III, § 311](https://www.govinfo.gov/link/plaw/96/public/510), as added [Pub. L. 99–499, title II, § 209(b)](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1708](https://www.govinfo.gov/link/statute/100/1708); amended [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095).)*

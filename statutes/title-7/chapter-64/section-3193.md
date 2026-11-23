@@ -3,9 +3,10 @@ title: "Section 3193 - Authorization to Secretary of Agriculture"
 usc_title: 7
 usc_section: "3193"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 3193"
-generated_at: "2026-03-30T02:53:42.398Z"
+generated_at: "2026-11-23T20:25:41.574Z"
+status: "active"
 ---
 
 # § 3193. Authorization to Secretary of Agriculture
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:42.398Z"
     - **(B)** foster achievement of food safety goals; and
     - **(C)** advance the well-being and treatment of farm animals, with particular emphasis on disease prevention strategies.
   - **(3)** The study required by this subsection shall include recommendations for changes in research and extension policies or priorities, food safety programs and policies, and policies and procedures governing the approval, use, and monitoring of animal drugs.
+
+## Source Credit
+
+*([Pub. L. 95–113, title XIV, § 1431](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 1002](https://www.govinfo.gov/link/statute/91/1002); [Pub. L. 101–624, title XVI, § 1611(a)](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3720](https://www.govinfo.gov/link/statute/104/3720); [Pub. L. 113–79, title VII, § 7111(b)(3)(A)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 874](https://www.govinfo.gov/link/statute/128/874).)*

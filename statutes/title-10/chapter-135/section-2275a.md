@@ -3,9 +3,10 @@ title: "Section 2275a - Requirements for protection of satellites"
 usc_title: 10
 usc_section: "2275a"
 chapter: 135
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2275a"
-generated_at: "2026-03-30T02:53:38.152Z"
+generated_at: "2026-11-23T20:25:51.525Z"
+status: "active"
 ---
 
 # § 2275a. Requirements for protection of satellites
@@ -14,3 +15,11 @@ generated_at: "2026-03-30T02:53:38.152Z"
 - **(b)** In this section:
   - **(1)** The term “major satellite acquisition program” has the meaning given that term in section 2275 of this title .
   - **(2)** The term “Milestone A approval” has the meaning given that term in section 4251 of this title 10.
+
+Establishment of Requirements
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. A, title XVI, § 1601](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2929](https://www.govinfo.gov/link/statute/136/2929).)*

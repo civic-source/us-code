@@ -3,9 +3,10 @@ title: "Section 3582 - Expanding secure access to CIPSEA data assets"
 usc_title: 44
 usc_section: "3582"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "44 U.S.C. § 3582"
-generated_at: "2026-03-30T02:55:56.298Z"
+generated_at: "2026-11-23T20:27:03.843Z"
+status: "active"
 ---
 
 # § 3582. Expanding secure access to CIPSEA data assets
@@ -25,3 +26,13 @@ generated_at: "2026-03-30T02:55:56.298Z"
 - **(c)** The Director shall—
   - **(1)** make public all standards and policies established under this section; and
   - **(2)** ensure that statistical agencies and units have the ability to make information public on the Federal data catalogue established under section 3511(c)(1), in accordance with requirements established pursuant to subsection (b).
+
+Statistical Agency Responsibilities
+
+Regulations for Accessibility of Nonpublic Data Assets
+
+Responsibilities of the Director
+
+## Source Credit
+
+*(Added [Pub. L. 115–435, title III, § 303(a)](https://www.govinfo.gov/link/plaw/115/public/435), Jan. 14, 2019, [132 Stat. 5554](https://www.govinfo.gov/link/statute/132/5554).)*

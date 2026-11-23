@@ -3,9 +3,10 @@ title: "Section 1004 - Royalty payments"
 usc_title: 17
 usc_section: "1004"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 1004"
-generated_at: "2026-03-30T02:54:15.356Z"
+generated_at: "2026-11-23T20:26:06.541Z"
+status: "active"
 ---
 
 # § 1004. Royalty payments
@@ -18,3 +19,17 @@ generated_at: "2026-03-30T02:54:15.356Z"
     - **(C)** If the digital audio recording device is not part of a physically integrated unit and substantially similar devices have not been distributed separately at any time during the preceding 4 calendar quarters, the royalty payment shall be based on a constructed price reflecting the proportional value of such device to the combination as a whole.
   - **(3)** Notwithstanding paragraph (1) or (2), the amount of the royalty payment for each digital audio recording device shall not be less than $1 nor more than the royalty maximum. The royalty maximum shall be $8 per device, except that in the case of a physically integrated unit containing more than 1 digital audio recording device, the royalty maximum for such unit shall be $12. During the 6th year after the effective date of this chapter, and not more than once each year thereafter, any interested copyright party may petition the Copyright Royalty Judges to increase the royalty maximum and, if more than 20 percent of the royalty payments are at the relevant royalty maximum, the Copyright Royalty Judges shall prospectively increase such royalty maximum with the goal of having no more than 10 percent of such payments at the new royalty maximum; however the amount of any such increase as a percentage of the royalty maximum shall in no event exceed the percentage increase in the Consumer Price Index during the period under review.
 - **(b)** The royalty payment due under section 1003 for each digital audio recording medium imported into and distributed in the United States, or manufactured and distributed in the United States, shall be 3 percent of the transfer price. Only the first person to manufacture and distribute or import and distribute such medium shall be required to pay the royalty with respect to such medium.
+
+Digital Audio Recording Devices.—
+
+Amount of payment
+
+Calculation for devices distributed with other devices
+
+Limits on royalties
+
+Digital Audio Recording Media
+
+## Source Credit
+
+*(Added [Pub. L. 102–563, § 2](https://www.govinfo.gov/link/plaw/102/public/563), Oct. 28, 1992, [106 Stat. 4241](https://www.govinfo.gov/link/statute/106/4241); amended [Pub. L. 103–198, § 6(b)(1)](https://www.govinfo.gov/link/plaw/103/public/198), Dec. 17, 1993, [107 Stat. 2312](https://www.govinfo.gov/link/statute/107/2312); [Pub. L. 108–419, § 5(i)(1)](https://www.govinfo.gov/link/plaw/108/public/419), Nov. 30, 2004, [118 Stat. 2368](https://www.govinfo.gov/link/statute/118/2368).)*

@@ -3,9 +3,10 @@ title: "Section 18801 - Building, training, and assessment centers"
 usc_title: 42
 usc_section: "18801"
 chapter: 162
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18801"
-generated_at: "2026-03-30T02:56:11.531Z"
+generated_at: "2026-11-23T20:27:23.833Z"
+status: "active"
 ---
 
 # § 18801. Building, training, and assessment centers
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.531Z"
   - **(1)** The Secretary shall coordinate the program with the industrial research and assessment centers program under section 17116 of this title and with other Federal programs to avoid duplication of effort.
   - **(2)** To the maximum extent practicable, building, training, and assessment centers established under this section shall be collocated with industrial research and assessment centers (as defined in section 18811 of this title ).
 - **(c)** There is authorized to be appropriated to the Secretary to carry out this section $10,000,000 for fiscal year 2022, to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title V, § 40512](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1059](https://www.govinfo.gov/link/statute/135/1059).)*

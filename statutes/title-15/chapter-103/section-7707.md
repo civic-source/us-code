@@ -3,9 +3,10 @@ title: "Section 7707 - Effect on other laws"
 usc_title: 15
 usc_section: "7707"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 7707"
-generated_at: "2026-03-30T02:54:08.226Z"
+generated_at: "2026-11-23T20:26:04.468Z"
+status: "active"
 ---
 
 # § 7707. Effect on other laws
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:08.226Z"
     - **(A)** State laws that are not specific to electronic mail, including State trespass, contract, or tort law; or
     - **(B)** other State laws to the extent that those laws relate to acts of fraud or computer crime.
 - **(c)** Nothing in this chapter shall be construed to have any effect on the lawfulness or unlawfulness, under any other provision of law, of the adoption, implementation, or enforcement by a provider of Internet access service of a policy of declining to transmit, route, relay, handle, or store certain types of electronic mail messages.
+
+## Source Credit
+
+*([Pub. L. 108–187, § 8](https://www.govinfo.gov/link/plaw/108/public/187), Dec. 16, 2003, [117 Stat. 2716](https://www.govinfo.gov/link/statute/117/2716).)*

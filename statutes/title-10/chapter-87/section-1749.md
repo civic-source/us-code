@@ -3,9 +3,10 @@ title: "Section 1749 - Field training for acquisition and sustainment"
 usc_title: 10
 usc_section: "1749"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1749"
-generated_at: "2026-03-30T02:53:38.136Z"
+generated_at: "2026-11-23T20:25:51.418Z"
+status: "active"
 ---
 
 # § 1749. Field training for acquisition and sustainment
@@ -36,3 +37,21 @@ generated_at: "2026-03-30T02:53:38.136Z"
   - **(3)** a budget for the training program that meets the requirements of subsection (f);
   - **(4)** the status and success of the pilot program; and
   - **(5)** any additional information or recommendations with respect to the training program that the Under Secretary of Defense for Acquisition and Sustainment determines appropriate.
+
+Training Program
+
+Elements
+
+Training Team Requirements
+
+Certification
+
+Pilot Program
+
+Funding Requirements
+
+Report
+
+## Source Credit
+
+*(Added [Pub. L. 118–159, div. A, title VIII, § 832(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1984](https://www.govinfo.gov/link/statute/138/1984); amended [Pub. L. 119–60, div. A, title VIII, § 812(a)(1)](https://www.govinfo.gov/link/plaw/119/public/60), title XVII, § 1701(a)(15), Dec. 18, 2025, [139 Stat. 951](https://www.govinfo.gov/link/statute/139/951), 1208.)*

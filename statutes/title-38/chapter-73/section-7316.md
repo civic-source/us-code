@@ -3,9 +3,10 @@ title: "Section 7316 - Malpractice and negligence suits: defense by United State
 usc_title: 38
 usc_section: "7316"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7316"
-generated_at: "2026-03-30T02:55:53.527Z"
+generated_at: "2026-11-23T20:27:01.997Z"
+status: "active"
 ---
 
 # § 7316. Malpractice and negligence suits: defense by United States
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:53.527Z"
 - **(d)** The Attorney General may compromise or settle any claim asserted in such civil action or proceeding in the manner provided in section 2677 of title 28 , and with the same effect.
 - **(e)** The Secretary may, to the extent the Secretary considers appropriate, hold harmless or provide liability insurance for any person to whom the immunity provisions of this section apply (as described in subsection (a)), for damage for personal injury or death, or for property damage, negligently caused by such person while furnishing medical care or treatment (including the conduct of clinical studies or investigations) in the exercise of such person’s duties in or for the Administration, if such person is assigned to a foreign country, detailed to State or political division thereof, or is acting under any other circumstances which would preclude the remedies of an injured third person against the United States, provided by sections 1346(b) and 2672 of title 28, for such damage or injury.
 - **(f)** The exception provided in section 2680(h) of title 28 shall not apply to any claim arising out of a negligent or wrongful act or omission of any person described in subsection (a) in furnishing medical care or treatment (including medical care or treatment furnished in the course of a clinical study or investigation) while in the exercise of such person’s duties in or for the Administration.
+
+## Source Credit
+
+*(Added [Pub. L. 102–40, title IV, § 401(a)(3)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 219](https://www.govinfo.gov/link/statute/105/219); amended [Pub. L. 108–170, title III, § 302(e)](https://www.govinfo.gov/link/plaw/108/public/170), Dec. 6, 2003, [117 Stat. 2058](https://www.govinfo.gov/link/statute/117/2058).)*

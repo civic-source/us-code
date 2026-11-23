@@ -3,9 +3,10 @@ title: "Section 424 - Definitions and special rules"
 usc_title: 26
 usc_section: "424"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 424"
-generated_at: "2026-03-30T02:55:27.692Z"
+generated_at: "2026-11-23T20:26:45.704Z"
+status: "active"
 ---
 
 # § 424. Definitions and special rules
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:55:27.692Z"
     - **(C)** in the case of an option not immediately exercisable in full, to accelerate the time at which the option may be exercised.
 - **(i)** For purposes of this part, if the grant of an option is subject to approval by stockholders, the date of grant of the option shall be determined as if the option had not been subject to such approval.
 - **(j)** For provisions requiring the reporting of certain acts with respect to a qualified stock option, an incentive stock option, options granted under employer stock purchase plans, or a restricted stock option, see section 6039.
+
+## Source Credit
+
+*(Added [Pub. L. 88–272, title II, § 221(a)](https://www.govinfo.gov/link/plaw/88/public/272), Feb. 26, 1964, [78 Stat. 71](https://www.govinfo.gov/link/statute/78/71), § 425; amended [Pub. L. 97–34, title II, § 251(b)(2)](https://www.govinfo.gov/link/plaw/97/public/34) –(4), Aug. 13, 1981, [95 Stat. 259](https://www.govinfo.gov/link/statute/95/259); [Pub. L. 97–448, title I, § 102(j)(5)](https://www.govinfo.gov/link/plaw/97/public/448), (6), Jan. 12, 1983, [96 Stat. 2373](https://www.govinfo.gov/link/statute/96/2373); [Pub. L. 98–369, div. A, title V, § 555(b)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 898](https://www.govinfo.gov/link/statute/98/898); [Pub. L. 100–647, title I, § 1018](https://www.govinfo.gov/link/plaw/100/public/647) (l)(1), (2), Nov. 10, 1988, [102 Stat. 3584](https://www.govinfo.gov/link/statute/102/3584); [Pub. L. 101–239, title VII, § 7811(m)(6)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2412](https://www.govinfo.gov/link/statute/103/2412); renumbered § 424 and amended [Pub. L. 101–508, title XI, § 11801(c)(9)(A)(i)](https://www.govinfo.gov/link/plaw/101/public/508), (F), Nov. 5, 1990, [104 Stat. 1388–524](https://www.govinfo.gov/link/statute/104/1388), 1388–525; [Pub. L. 104–188, title I, § 1702(h)(13)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1874](https://www.govinfo.gov/link/statute/110/1874); [Pub. L. 115–141, div. U, title IV, § 401(a)(98)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1188](https://www.govinfo.gov/link/statute/132/1188).)*

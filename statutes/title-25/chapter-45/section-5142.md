@@ -3,9 +3,10 @@ title: "Section 5142 - Reduction of unpaid principal"
 usc_title: 25
 usc_section: "5142"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 5142"
-generated_at: "2026-03-30T02:54:52.864Z"
+generated_at: "2026-11-23T20:26:25.714Z"
+status: "active"
 ---
 
 # § 5142. Reduction of unpaid principal
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:52.864Z"
   - **(2)** The cost of appraisals undertaken under paragraph (1) shall be paid by the borrower.
 - **(c)** Decisions of the Secretary of Agriculture under this section shall be appealable in accordance with the provisions of section 333B 1 1 See References in Text note below. of the Consolidated Farm and Rural Development Act ( 7 U.S.C. 1983b ).
 - **(d)** A borrower that had a loan or loans reduced under this section shall not submit an application for another reduction on such loan or loans for a period of 5 years after the initial reduction.
+
+## Source Credit
+
+*([Pub. L. 91–229, § 6](https://www.govinfo.gov/link/plaw/91/public/229), as added [Pub. L. 101–82, title III, § 303](https://www.govinfo.gov/link/plaw/101/public/82), Aug. 14, 1989, [103 Stat. 583](https://www.govinfo.gov/link/statute/103/583).)*

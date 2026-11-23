@@ -3,9 +3,10 @@ title: "Section 7011 - Successorship provisions relating to bargaining units and
 usc_title: 7
 usc_section: "7011"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7011"
-generated_at: "2026-03-30T02:53:42.442Z"
+generated_at: "2026-11-23T20:25:41.749Z"
+status: "active"
 ---
 
 # § 7011. Successorship provisions relating to bargaining units and exclusive representatives
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:42.442Z"
 - **(c)** For purposes of this section, the term “affected party” means—
   - **(1)** with respect to an exercise of authority by the Secretary under this chapter, any labor organization affected thereby; and
   - **(2)** the Department of Agriculture.
+
+## Source Credit
+
+*([Pub. L. 103–354, title II, § 291](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3235](https://www.govinfo.gov/link/statute/108/3235).)*

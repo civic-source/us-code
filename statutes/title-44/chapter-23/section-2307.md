@@ -3,12 +3,17 @@ title: "Section 2307 - Trust fund account; disbursements; sales of publications 
 usc_title: 44
 usc_section: "2307"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "44 U.S.C. § 2307"
-generated_at: "2026-03-30T02:55:56.294Z"
+generated_at: "2026-11-23T20:27:03.809Z"
+status: "active"
 ---
 
 # § 2307. Trust fund account; disbursements; sales of publications and releases
 
 The income from trust funds held by the Board and the proceeds from the sale of securities and other personal property, as and when collected, shall be covered into the Treasury of the United States in a trust fund account to be known as the National Archives Trust Fund, subject to disbursement on the basis of certified vouchers of the Archivist of the United States (or his designee) for activities approved by the Board and in the interest of the national archival and records activities administered by the National Archives and Records Administration, including but not restricted to the preparation and publication of special works, and collections of sources and the preparation, duplication, editing, and release of historical photographic materials and sound recordings. The Archivist may sell publications and releases authorized by this section and paid for out of the income derived from trust funds at a price which will cover their cost, plus 10 percent, and moneys received from these sales shall be paid into, administered, and expended as part of the National Archives Trust Fund.
 
+
+## Source Credit
+
+*([Pub. L. 90–620](https://www.govinfo.gov/link/plaw/90/public/620), Oct. 22, 1968, [82 Stat. 1293](https://www.govinfo.gov/link/statute/82/1293); [Pub. L. 98–497, title II, § 202(b)](https://www.govinfo.gov/link/plaw/98/public/497), Oct. 19, 1984, [98 Stat. 2294](https://www.govinfo.gov/link/statute/98/2294).)*

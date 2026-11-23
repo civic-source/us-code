@@ -3,9 +3,10 @@ title: "Section 3712 - Use of funds for certain emergent threats or opportunitie
 usc_title: 50
 usc_section: "3712"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3712"
-generated_at: "2026-03-30T02:56:26.258Z"
+generated_at: "2026-11-23T20:27:31.034Z"
+status: "active"
 ---
 
 # § 3712. Use of funds for certain emergent threats or opportunities
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:26.258Z"
     - **(B)** if such other authorities exist, why the Secretaries were not able to use such authorities for such project or activity.
 - **(c)** With respect to military-to-military and defense contacts carried out under subsection (a)(6) of section 3711 of this title , as further described in subsection (f) of such section, concurrence of the Secretary of State under subsection (a) is required only for participation in such contacts by personnel from non-defense agencies of foreign countries.
 - **(d)** The requirement for a determination under subsection (a) shall not apply to a state of the former Soviet Union.
+
+## Source Credit
+
+*([Pub. L. 113–291, div. A, title XIII, § 1322](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3597](https://www.govinfo.gov/link/statute/128/3597); [Pub. L. 114–328, div. A, title XIII, § 1302(b)(2)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2566](https://www.govinfo.gov/link/statute/130/2566).)*

@@ -3,9 +3,10 @@ title: "Section 409 - Hearings"
 usc_title: 47
 usc_section: "409"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 409"
-generated_at: "2026-03-30T02:56:24.516Z"
+generated_at: "2026-11-23T20:27:28.914Z"
+status: "active"
 ---
 
 # § 409. Hearings
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:24.516Z"
 - **(k)** Witnesses whose depositions are taken as authorized in this chapter, and the magistrate or other officer taking the same, shall severally be entitled to the same fees as are paid for like services in the courts of the United States.
 - **(l)**
 - **(m)** Any person who shall neglect or refuse to attend and testify, or to answer any lawful inquiry, or to produce books, papers, schedules of charges, contracts, agreements, and documents, if in his power to do so, in obedience to the subpena or lawful requirement of the Commission, shall be guilty of a misdemeanor and upon conviction thereof by a court of competent jurisdiction shall be punished by a fine of not less than $100 nor more than $5,000, or by imprisonment for not more than one year, or by both such fine and imprisonment.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title IV, § 409, [48 Stat. 1096](https://www.govinfo.gov/link/statute/48/1096); July 16, 1952, ch. 879, § 16, [66 Stat. 721](https://www.govinfo.gov/link/statute/66/721); [Pub. L. 87–192, § 4](https://www.govinfo.gov/link/plaw/87/public/192), Aug. 31, 1961, [75 Stat. 422](https://www.govinfo.gov/link/statute/75/422); [Pub. L. 90–578, title IV, § 402(b)(2)](https://www.govinfo.gov/link/plaw/90/public/578), Oct. 17, 1968, [82 Stat. 1118](https://www.govinfo.gov/link/statute/82/1118); [Pub. L. 91–452, title II, § 242](https://www.govinfo.gov/link/plaw/91/public/452), Oct. 15, 1970, [84 Stat. 930](https://www.govinfo.gov/link/statute/84/930); [Pub. L. 101–650, title III, § 321](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5117](https://www.govinfo.gov/link/statute/104/5117).)*

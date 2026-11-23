@@ -3,9 +3,10 @@ title: "Section 1606a - Reforestation Trust Fund"
 usc_title: 16
 usc_section: "1606a"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1606a"
-generated_at: "2026-03-30T02:54:22.979Z"
+generated_at: "2026-11-23T20:26:20.534Z"
+status: "active"
 ---
 
 # § 1606a. Reforestation Trust Fund
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:22.979Z"
 - **(d)** The Secretary of Agriculture is on and after December 19, 1985 , authorized to obligate such sums as are available in the Trust Fund (including any amounts not obligated in previous fiscal years) for—
   - **(1)** reforestation and timber stand improvement as specified in subsection (e) of section 1601 of this title and other forest stand improvement activities to enhance forest health and reduce hazardous fuel loads of forest stands in the National Forest System; and
   - **(2)** properly allocable administrative costs of the Federal Government for the activities specified above.
+
+## Source Credit
+
+*([Pub. L. 96–451, title III, § 303](https://www.govinfo.gov/link/plaw/96/public/451), Oct. 14, 1980, [94 Stat. 1991](https://www.govinfo.gov/link/statute/94/1991); [Pub. L. 97–424, title IV, § 422](https://www.govinfo.gov/link/plaw/97/public/424), Jan. 6, 1983, [96 Stat. 2164](https://www.govinfo.gov/link/statute/96/2164); [Pub. L. 99–190, § 101(d) [title II, § 201]](https://www.govinfo.gov/link/plaw/99/public/190), Dec. 19, 1985, [99 Stat. 1224](https://www.govinfo.gov/link/statute/99/1224), 1245; [Pub. L. 100–418, title I, § 1214(r)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1160](https://www.govinfo.gov/link/statute/102/1160); [Pub. L. 105–83, title III, § 322](https://www.govinfo.gov/link/plaw/105/public/83), Nov. 14, 1997, [111 Stat. 1596](https://www.govinfo.gov/link/statute/111/1596); [Pub. L. 117–58, div. G, title III, § 70302(b)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1260](https://www.govinfo.gov/link/statute/135/1260).)*

@@ -3,9 +3,10 @@ title: "Section 619 - Definitions"
 usc_title: 42
 usc_section: "619"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 619"
-generated_at: "2026-03-30T02:56:10.875Z"
+generated_at: "2026-11-23T20:27:20.852Z"
+status: "active"
 ---
 
 # § 619. Definitions
@@ -33,3 +34,7 @@ As used in this part:
       - **(xi)** Kodiak Area Native Association.
       - **(xii)** Copper River Native Association.
   - **(5)** Except as otherwise specifically provided, the term “State” means the 50 States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, and American Samoa.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 419, as added [Pub. L. 104–193, title I, § 103(a)(2)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2159](https://www.govinfo.gov/link/statute/110/2159).)*

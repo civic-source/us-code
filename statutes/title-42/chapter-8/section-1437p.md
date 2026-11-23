@@ -3,9 +3,10 @@ title: "Section 1437p - Demolition and disposition of public housing"
 usc_title: 42
 usc_section: "1437p"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1437p"
-generated_at: "2026-03-30T02:56:11.086Z"
+generated_at: "2026-11-23T20:27:21.744Z"
+status: "active"
 ---
 
 # § 1437p. Demolition and disposition of public housing
@@ -60,3 +61,13 @@ generated_at: "2026-03-30T02:56:11.086Z"
 - **(f)** Notwithstanding any other provision of this section, in any 5-year period a public housing agency may demolish not more than the lesser of 5 dwelling units or 5 percent of the total dwelling units owned by the public housing agency, but only if the space occupied by the demolished unit is used for meeting the service or other needs of public housing residents or the demolished unit was beyond repair.
 - **(g)** The Uniform Relocation and Real Property Acquisition Policies Act of 1970 [ 42 U.S.C. 4601 et seq.] shall not apply to activities under this section.
 - **(h)** Of the amounts appropriated for tenant-based assistance under section 1437f of this title in any fiscal year, the Secretary may use such sums as are necessary for relocation and replacement housing for dwelling units that are demolished and disposed of from the public housing inventory (in addition to other amounts that may be available for such purposes).
+
+(aa) tenant-based assistance, except that the requirement under this clause regarding offering of comparable housing shall be fulfilled by use of tenant-based assistance only upon the relocation of such family into such housing;
+
+(bb) project-based assistance; or
+
+(cc) occupancy in a unit operated or assisted by the public housing agency at a rental rate paid by the family that is comparable to the rental rate applicable to the unit from which the family is vacated;
+
+## Source Credit
+
+*(Sept. 1, 1937, ch. 896, title I, § 18, as added [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title II, § 214(a)], Nov. 30, 1983, [97 Stat. 1184](https://www.govinfo.gov/link/statute/97/1184); amended [Pub. L. 100–242, title I](https://www.govinfo.gov/link/plaw/100/public/242), §§ 112(b)(9), 121, 170(f), Feb. 5, 1988, [101 Stat. 1824](https://www.govinfo.gov/link/statute/101/1824), 1837, 1867; renumbered title I, [Pub. L. 100–358, § 5](https://www.govinfo.gov/link/plaw/100/public/358), June 29, 1988, [102 Stat. 681](https://www.govinfo.gov/link/statute/102/681); [Pub. L. 101–625, title IV, § 412](https://www.govinfo.gov/link/plaw/101/public/625), title V, §§ 512(a), 513(b), (c), 572, Nov. 28, 1990, [104 Stat. 4159](https://www.govinfo.gov/link/statute/104/4159), 4194–4196, 4236; [Pub. L. 102–550, title I](https://www.govinfo.gov/link/plaw/102/public/550), §§ 111(b)(2), 116(a)–(c), Oct. 28, 1992, [106 Stat. 3688](https://www.govinfo.gov/link/statute/106/3688), 3693, 3694; [Pub. L. 104–19, title I, § 1002(a)](https://www.govinfo.gov/link/plaw/104/public/19), July 27, 1995, [109 Stat. 235](https://www.govinfo.gov/link/statute/109/235); [Pub. L. 104–134, title I, § 101(e) [title II, § 201(b)(2)]](https://www.govinfo.gov/link/plaw/104/public/134), Apr. 26, 1996, [110 Stat. 1321–257](https://www.govinfo.gov/link/statute/110/1321), 1321–278; renumbered title I, [Pub. L. 104–140, § 1(a)](https://www.govinfo.gov/link/plaw/104/public/140), May 2, 1996, [110 Stat. 1327](https://www.govinfo.gov/link/statute/110/1327); [Pub. L. 105–276, title V, § 531(a)](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2570](https://www.govinfo.gov/link/statute/112/2570).)*

@@ -3,9 +3,10 @@ title: "Section 825f - Investigations by Commission"
 usc_title: 16
 usc_section: "825f"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 825f"
-generated_at: "2026-03-30T02:54:22.920Z"
+generated_at: "2026-11-23T20:26:20.297Z"
+status: "active"
 ---
 
 # § 825f. Investigations by Commission
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:22.920Z"
 - **(d)** The testimony of any witness may be taken, at the instance of a party, in any proceeding or investigation pending before the Commission, by deposition, at any time after the proceeding is at issue. The Commission may also order testimony to be taken by deposition in any proceeding or investigation pending before it, at any stage of such proceeding or investigation. Such depositions may be taken before any person authorized to administer oaths not being of counsel or attorney to either of the parties, nor interested in the proceeding or investigation. Reasonable notice must first be given in writing by the party or his attorney proposing to take such deposition to the opposite party or his attorney of record, as either may be nearest, which notice shall state the name of the witness and the time and place of the taking of his deposition. Any person may be compelled to appear and depose, and to produce documentary evidence, in the same manner as witnesses may be compelled to appear and testify and produce documentary evidence before the Commission, as hereinbefore provided. Such testimony shall be reduced to writing by the person taking the deposition, or under his direction, and shall, after it has been reduced to writing, be subscribed by the deponent.
 - **(e)** If a witness whose testimony may be desired to be taken by deposition be in a foreign country, the deposition may be taken before an officer or person designated by the Commission, or agreed upon by the parties by stipulation in writing to be filed with the Commission. All depositions must be promptly filed with the Commission.
 - **(f)** Witnesses whose depositions are taken as authorized in this chapter, and the person or officer taking the same, shall be entitled to the same fees as are paid for like services in the courts of the United States.
+
+## Source Credit
+
+*(June 10, 1920, ch. 285, pt. III, § 307, as added Aug. 26, 1935, ch. 687, title II, § 213, [49 Stat. 856](https://www.govinfo.gov/link/statute/49/856); amended [Pub. L. 91–452, title II, § 221](https://www.govinfo.gov/link/plaw/91/public/452), Oct. 15, 1970, [84 Stat. 929](https://www.govinfo.gov/link/statute/84/929); [Pub. L. 109–58, title XII, § 1284(b)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 980](https://www.govinfo.gov/link/statute/119/980).)*

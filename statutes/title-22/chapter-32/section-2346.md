@@ -3,9 +3,10 @@ title: "Section 2346 - Authority"
 usc_title: 22
 usc_section: "2346"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2346"
-generated_at: "2026-03-30T02:55:05.357Z"
+generated_at: "2026-11-23T20:26:32.244Z"
+status: "active"
 ---
 
 # § 2346. Authority
@@ -15,3 +16,21 @@ generated_at: "2026-03-30T02:55:05.357Z"
 - **(c)** As part of the annual presentation materials for foreign assistance submitted to the Congress, the agency primarily responsible for administering subchapter II of this chapter shall provide a detailed justification for the uses and the purposes of the funds provided under this part. Such material shall include, but not be limited to, information concerning the amounts and kinds of cash grant transfers, the amounts and kinds of budgetary and balance-of-payments support provided, and the amounts and kinds of project assistance provided with funds made available under this part.
 - **(d)**
 - **(e)** Amounts appropriated to carry out this part shall be available for economic programs only and may not be used for military or paramilitary purposes.
+
+Prohibition
+
+Requirement Relating to Funds Withheld
+
+Authorization
+
+Earmarking of Funds
+
+Effective Dates
+
+External Debt Burden of Certain Countries Receiving United States Assistance
+
+Annual Reports on Economic Conditions
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. II, § 531, as added [Pub. L. 99–83, title II, § 201(a)](https://www.govinfo.gov/link/plaw/99/public/83), Aug. 8, 1985, [99 Stat. 210](https://www.govinfo.gov/link/statute/99/210); amended [Pub. L. 101–513, title V, § 562(d)(8)](https://www.govinfo.gov/link/plaw/101/public/513), Nov. 5, 1990, [104 Stat. 2031](https://www.govinfo.gov/link/statute/104/2031); [Pub. L. 105–277, div. A, § 101(d) [title V, § 533(a)(5)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–150](https://www.govinfo.gov/link/statute/112/2681), 2681–180.)*

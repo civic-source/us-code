@@ -3,9 +3,10 @@ title: "Section 7466 - Judicial conduct and disability procedures"
 usc_title: 26
 usc_section: "7466"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 7466"
-generated_at: "2026-03-30T02:55:27.875Z"
+generated_at: "2026-11-23T20:26:46.781Z"
+status: "active"
 ---
 
 # § 7466. Judicial conduct and disability procedures
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:27.875Z"
 - **(c)**
   - **(1)** In conducting hearings pursuant to subsection (a), the Tax Court may exercise the authority provided under section 1821 of title 28 , United States Code, to pay the fees and allowances described in that section.
   - **(2)** The Tax Court shall have the power provided under section 361 of such title 28 to award reimbursement for the reasonable expenses described in that section. Reimbursements under this paragraph shall be made out of any funds appropriated for purposes of the Tax Court.
+
+## Source Credit
+
+*(Added [Pub. L. 114–113, div. Q, title IV, § 431(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3125](https://www.govinfo.gov/link/statute/129/3125).)*

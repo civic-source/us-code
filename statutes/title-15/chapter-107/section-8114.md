@@ -3,9 +3,10 @@ title: "Section 8114 - Reporting"
 usc_title: 15
 usc_section: "8114"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 8114"
-generated_at: "2026-03-30T02:54:08.227Z"
+generated_at: "2026-11-23T20:26:04.476Z"
+status: "active"
 ---
 
 # § 8114. Reporting
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:08.227Z"
   - **(9)** The progress made under trade agreements and treaties to protect intellectual property rights of United States persons and their licensees.
   - **(10)** The progress made in minimizing duplicative efforts, materials, facilities, and procedures of the Federal agencies and Departments responsible for the enforcement, investigation, or prosecution of intellectual property crimes.
   - **(11)** Recommendations, if any and as appropriate, on how to enhance the efficiency and consistency with which Federal funds and resources are expended to enforce, investigate, or prosecute intellectual property crimes, including the extent to which the agencies and Departments responsible for the enforcement, investigation, or prosecution of intellectual property crimes have utilized existing personnel, materials, technologies, and facilities.
+
+## Source Credit
+
+*([Pub. L. 110–403, title III, § 304](https://www.govinfo.gov/link/plaw/110/public/403), Oct. 13, 2008, [122 Stat. 4269](https://www.govinfo.gov/link/statute/122/4269).)*

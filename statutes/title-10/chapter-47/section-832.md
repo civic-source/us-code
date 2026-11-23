@@ -3,9 +3,10 @@ title: "Section 832 - Art. 32. Preliminary hearing required before referral to g
 usc_title: 10
 usc_section: "832"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 832"
-generated_at: "2026-03-30T02:53:38.079Z"
+generated_at: "2026-11-23T20:25:51.066Z"
+status: "active"
 ---
 
 # § 832. Art. 32. Preliminary hearing required before referral to general court-martial
@@ -49,3 +50,44 @@ generated_at: "2026-03-30T02:53:38.079Z"
 - **(h)** In this section, the term “victim” means a person who—
   - **(1)** is alleged to have suffered a direct physical, emotional, or pecuniary harm as a result of the matters set forth in a charge or specification being considered; and
   - **(2)** is named in one of the specifications.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 832(a) 832(b) | 50:603(a). 50:603(b). | May 5, 1950, ch. 169, § 1 (Art. 32), 64 Stat. 118 . |
+| 832(c) | 50:603(c). |  |
+| 832(d) | 50:603(d). |  |
+
+
+In General
+
+Hearing Officer
+
+Report to Convening Authority or Special Trial Counsel
+
+Rights of Accused and Victim
+
+Recording of Preliminary Hearing
+
+Effect of Evidence of Uncharged Offense
+
+Effect of Violation
+
+Victim Defined
+
+Historical and Revision Notes
+
+832(a)
+
+832(b)
+
+May 5, 1950, ch. 169, § 1
+
+64 Stat. 118
+
+832(c)
+
+832(d)
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 48; [Pub. L. 97–81, § 4(a)](https://www.govinfo.gov/link/plaw/97/public/81), Nov. 20, 1981, [95 Stat. 1088](https://www.govinfo.gov/link/statute/95/1088); [Pub. L. 104–106, div. A, title XI, § 1131](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 464](https://www.govinfo.gov/link/statute/110/464); [Pub. L. 113–66, div. A, title XVII, § 1702(a)(1)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 954](https://www.govinfo.gov/link/statute/127/954); [Pub. L. 113–291, div. A, title V, § 531(a)(4)(A)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3363](https://www.govinfo.gov/link/statute/128/3363); [Pub. L. 114–328, div. E, title LVI, § 5203(a)](https://www.govinfo.gov/link/plaw/114/public/328) –(d), Dec. 23, 2016, [130 Stat. 2905](https://www.govinfo.gov/link/statute/130/2905), 2906; [Pub. L. 117–81, div. A, title V, § 536](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1696](https://www.govinfo.gov/link/statute/135/1696).)*

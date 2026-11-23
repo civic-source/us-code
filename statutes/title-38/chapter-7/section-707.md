@@ -3,9 +3,10 @@ title: "Section 707 - Benefits for employees at overseas offices who are United 
 usc_title: 38
 usc_section: "707"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 707"
-generated_at: "2026-03-30T02:55:53.475Z"
+generated_at: "2026-11-23T20:27:01.578Z"
+status: "active"
 ---
 
 # § 707. Benefits for employees at overseas offices who are United States citizens
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:53.475Z"
   - **(6)** Section 5724a(c) of title 5 (relating to subsistence expenses for 60 days in connection with the return to the United States of the employee and such employee’s immediate family).
   - **(7)** Section 5724a(d) of title 5 (relating to the sale and purchase of the residence or settlement of an unexpired lease of the employee when transferred from one station to another station and both stations are in the United States, its territories or possessions, or the Commonwealth of Puerto Rico).
 - **(b)** The authority in subsection (a) supplements, but is not in lieu of, other allowances and benefits for overseas employees of the Department provided by title 5 and the Foreign Service Act of 1980 ( 22 U.S.C. 3901 et seq.).
+
+## Source Credit
+
+*(Added [Pub. L. 102–83, § 2(a)](https://www.govinfo.gov/link/plaw/102/public/83), Aug. 6, 1991, [105 Stat. 395](https://www.govinfo.gov/link/statute/105/395); amended [Pub. L. 104–201, div. A, title XVII, § 1723(a)(2)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2759](https://www.govinfo.gov/link/statute/110/2759).)*

@@ -3,9 +3,10 @@ title: "Section 6137 - Rapid capabilities program"
 usc_title: 10
 usc_section: "6137"
 chapter: 602
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6137"
-generated_at: "2026-03-30T02:53:38.220Z"
+generated_at: "2026-11-23T20:25:52.015Z"
+status: "active"
 ---
 
 # § 6137. Rapid capabilities program
@@ -25,3 +26,17 @@ generated_at: "2026-03-30T02:53:38.220Z"
   - **(4)** The Deputy Commander of Air Force Global Strike Command.
 - **(d)** In accordance with the requirements under section 4209, for each budget submitted by the President to Congress under section 1105 of title 31 , United States Code, the amounts requested for the program under this section shall be clearly identified in the budget justification materials submitted to Congress in support of that budget.
 - **(e)** In this section, the term “joint nuclear weapons life cycle process” means the process developed and maintained by the Secretary of Defense and the Secretary of Energy for the development, production, maintenance, and retirement of nuclear weapons.
+
+In General
+
+Objectives
+
+Requirements Advisory Board
+
+Program Budget
+
+Joint Nuclear Weapons Life Cycle Process Defined
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI](https://www.govinfo.gov/link/plaw/119/public/60), §§ 3111(d)(1)(D), 3113(a)(2), Dec. 18, 2025, [139 Stat. 1462](https://www.govinfo.gov/link/statute/139/1462), 1463.)*

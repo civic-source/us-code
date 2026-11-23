@@ -3,9 +3,10 @@ title: "Section 1011i - Drug and alcohol abuse prevention"
 usc_title: 20
 usc_section: "1011i"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1011i"
-generated_at: "2026-03-30T02:54:48.093Z"
+generated_at: "2026-11-23T20:26:14.303Z"
+status: "active"
 ---
 
 # § 1011i. Drug and alcohol abuse prevention
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:54:48.093Z"
       - **(ii)** the equitable geographic participation of such institutions.
     - **(B)** In awarding grants and contracts under this subsection the Secretary shall give appropriate consideration to institutions of higher education with limited enrollment.
   - **(5)** There are authorized to be appropriated to carry out this subsection such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
+
+## Source Credit
+
+*([Pub. L. 89–329, title I, § 120](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title I, § 101(a)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1596](https://www.govinfo.gov/link/statute/112/1596); amended [Pub. L. 110–315, title I, § 107](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3093](https://www.govinfo.gov/link/statute/122/3093).)*

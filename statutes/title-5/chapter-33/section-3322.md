@@ -3,9 +3,10 @@ title: "Section 3322 - Voluntary separation before resolution of personnel inves
 usc_title: 5
 usc_section: "3322"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 3322"
-generated_at: "2026-03-30T02:52:56.002Z"
+generated_at: "2026-11-23T20:25:31.815Z"
+status: "active"
 ---
 
 # § 3322. Voluntary separation before resolution of personnel investigation
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:52:56.002Z"
 - **(e)** In this section, the term “personnel investigation” includes—
   - **(1)** an investigation by an Inspector General; and
   - **(2)** an adverse personnel action as a result of performance, misconduct, or for such cause as will promote the efficiency of the service under chapter 43 or chapter 75.
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. A, title XI, § 1140(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2470](https://www.govinfo.gov/link/statute/130/2470).)*

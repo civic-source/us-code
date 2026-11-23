@@ -3,9 +3,10 @@ title: "Section 906 - Guarantee of trustee certificates"
 usc_title: 45
 usc_section: "906"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 906"
-generated_at: "2026-03-30T02:55:56.558Z"
+generated_at: "2026-11-23T20:27:05.326Z"
+status: "active"
 ---
 
 # § 906. Guarantee of trustee certificates
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:56.558Z"
     - **(A)** the Milwaukee Railroad is reorganized as an operating rail carrier; or
     - **(B)** substantially all of the Milwaukee Railroad is purchased.
   - **(2)** For purposes of this subsection, substantially all of the Milwaukee Railroad shall be considered as having been purchased when (A) more than 50 percent of the rail system operated by the Milwaukee Railroad on October 14, 1980 , has been purchased, and (B) more than 50 percent of the employees employed by the Milwaukee Railroad on October 14, 1980 , have obtained employment with other rail carriers.
+
+## Source Credit
+
+*([Pub. L. 96–101, § 7](https://www.govinfo.gov/link/plaw/96/public/101) (less (a)–(c)), Nov. 4, 1979, [93 Stat. 740](https://www.govinfo.gov/link/statute/93/740); [Pub. L. 96–448, title VII, § 701(c)(1)](https://www.govinfo.gov/link/plaw/96/public/448), Oct. 14, 1980, [94 Stat. 1961](https://www.govinfo.gov/link/statute/94/1961).)*

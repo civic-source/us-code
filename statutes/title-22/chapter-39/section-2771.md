@@ -3,9 +3,10 @@ title: "Section 2771 - Military sales authorizations and ceilings"
 usc_title: 22
 usc_section: "2771"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2771"
-generated_at: "2026-03-30T02:55:05.385Z"
+generated_at: "2026-11-23T20:26:32.411Z"
+status: "active"
 ---
 
 # § 2771. Military sales authorizations and ceilings
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.385Z"
   - **(1)** The total amount of credits extended under section 2763 of this title shall not exceed $5,371,000,000 for fiscal year 1986 and $5,371,000,000 for fiscal year 1987.
   - **(2)** Of the aggregate amount of financing provided under this section, not more than $553,900,000 for fiscal year 1986 and not more than $553,900,000 for fiscal year 1987 may be made available at concessional rates of interest. If a country is released from its contractual liability to repay the United States Government with respect to financing provided under this section, such financing shall not be considered to be financing provided at concessional rates of interest for purposes of the limitation established by this paragraph.
 - **(c)** Loans available under section 2763 of this title shall be provided at rates of interest that are not less than the current average market yield on outstanding marketable obligations of the United States of comparable maturities.
+
+## Source Credit
+
+*([Pub. L. 90–629](https://www.govinfo.gov/link/plaw/90/public/629), ch. 3, § 31, Oct. 22, 1968, [82 Stat. 1324](https://www.govinfo.gov/link/statute/82/1324); [Pub. L. 91–672, § 2](https://www.govinfo.gov/link/plaw/91/public/672), Jan. 12, 1971, [84 Stat. 2053](https://www.govinfo.gov/link/statute/84/2053); [Pub. L. 92–226](https://www.govinfo.gov/link/plaw/92/public/226), pt. IV, § 401(a), (b), Feb. 7, 1972, [86 Stat. 32](https://www.govinfo.gov/link/statute/86/32); [Pub. L. 93–189, § 25(5)](https://www.govinfo.gov/link/plaw/93/public/189), (6), Dec. 17, 1973, [87 Stat. 730](https://www.govinfo.gov/link/statute/87/730); [Pub. L. 93–559, § 45(a)(6)](https://www.govinfo.gov/link/plaw/93/public/559), (7), Dec. 30, 1974, [88 Stat. 1815](https://www.govinfo.gov/link/statute/88/1815); [Pub. L. 94–329, title II, § 210(a)](https://www.govinfo.gov/link/plaw/94/public/329) –(c)(1), June 30, 1976, [90 Stat. 740](https://www.govinfo.gov/link/statute/90/740); [Pub. L. 95–92, § 19](https://www.govinfo.gov/link/plaw/95/public/92), Aug. 4, 1977, [91 Stat. 623](https://www.govinfo.gov/link/statute/91/623); [Pub. L. 95–384, § 20](https://www.govinfo.gov/link/plaw/95/public/384), Sept. 26, 1978, [92 Stat. 741](https://www.govinfo.gov/link/statute/92/741); [Pub. L. 96–92, § 17(a)](https://www.govinfo.gov/link/plaw/96/public/92), Oct. 29, 1979, [93 Stat. 708](https://www.govinfo.gov/link/statute/93/708); [Pub. L. 96–533, title I](https://www.govinfo.gov/link/plaw/96/public/533), §§ 104(d), 105(b)(3), 106(a)–(c), Dec. 16, 1980, [94 Stat. 3133–3136](https://www.govinfo.gov/link/statute/94/3133); [Pub. L. 97–113, title I, § 105](https://www.govinfo.gov/link/plaw/97/public/113), Dec. 29, 1981, [95 Stat. 1521](https://www.govinfo.gov/link/statute/95/1521); [Pub. L. 98–151, § 101(b)(2)](https://www.govinfo.gov/link/plaw/98/public/151), Nov. 14, 1983, [97 Stat. 969](https://www.govinfo.gov/link/statute/97/969), 970; [Pub. L. 99–83, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/83), (b), Aug. 8, 1985, [99 Stat. 193](https://www.govinfo.gov/link/statute/99/193); [Pub. L. 101–513, title V, § 596(c)](https://www.govinfo.gov/link/plaw/101/public/513), Nov. 5, 1990, [104 Stat. 2062](https://www.govinfo.gov/link/statute/104/2062); [Pub. L. 104–164, title I](https://www.govinfo.gov/link/plaw/104/public/164), §§ 101, 104(b)(2)(C), July 21, 1996, [110 Stat. 1422](https://www.govinfo.gov/link/statute/110/1422), 1427.)*

@@ -3,9 +3,10 @@ title: "Section 4682 - Timeline required"
 usc_title: 19
 usc_section: "4682"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 4682"
-generated_at: "2026-03-30T02:54:24.715Z"
+generated_at: "2026-11-23T20:26:11.177Z"
+status: "active"
 ---
 
 # § 4682. Timeline required
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:24.715Z"
 - **(a)** Not later than 90 days after the establishment of the Forced Labor Enforcement Task Force pursuant to section 4681(a) of this title , the Task Force shall establish timelines for responding to petitions submitted to the Commissioner of U.S. Customs and Border Protection alleging that goods are being imported by or with child or forced labor.
 - **(b)** In establishing the timelines during such 90-day period, the Task Force shall consult with the appropriate congressional committees.
 - **(c)** The Task Force shall timely submit to the appropriate congressional committees a report that contains the timelines established pursuant to subsection (a) and shall make such report publicly available.
+
+## Source Credit
+
+*([Pub. L. 116–113, title VII, § 742](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 88](https://www.govinfo.gov/link/statute/134/88).)*

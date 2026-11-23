@@ -3,9 +3,10 @@ title: "Section 2103 - Actions required of procurement officers when contacted r
 usc_title: 41
 usc_section: "2103"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 2103"
-generated_at: "2026-03-30T02:55:55.804Z"
+generated_at: "2026-11-23T20:27:04.409Z"
+status: "active"
 ---
 
 # § 2103. Actions required of procurement officers when contacted regarding non-Federal employment
@@ -21,3 +22,66 @@ generated_at: "2026-03-30T02:55:55.804Z"
 - **(c)** The following are subject to the penalties and administrative actions set forth in section 2105 of this title :
   - **(1)** An official who knowingly fails to comply with the requirements of this section.
   - **(2)** A bidder or offeror that engages in employment discussions with an official who is subject to the restrictions of this section, knowing that the official has not complied with paragraph (1) or (2) of subsection (a).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 2103(a) | 41:423(c)(1). | Pub. L. 93–400, § 27(c) , as added Pub. L. 100–679, § 6(a) , Nov. 17, 1988 , 102 Stat. 4063 ; Pub. L. 101–189, title VIII, § 814(a) –(d)(1), Nov. 29, 1989 , 103 Stat. 1495 ; Pub. L. 101–510, title XIV, § 1484 ( l )(6), Nov. 5, 1990 , 104 Stat. 1720 ; Pub. L. 102–25, title VII, § 705(i) , Apr. 6, 1991 , 105 Stat. 121 ; Pub. L. 103–355, title VIII, § 8301(e) , Oct. 13, 1994 , 108 Stat. 3397 ; Pub. L. 104–106, title XLIII, § 4304(a) , Feb. 10, 1996 , 110 Stat. 660 . |
+| 2103(b) | 41:423(c)(2). |  |
+| 2103(c) | 41:423(c)(3), (4). |  |
+
+
+Actions Required
+
+Retention of Reports
+
+Persons Subject to Penalties
+
+Historical and Revision Notes
+
+2103(a)
+
+Pub. L. 93–400, § 27(c)
+
+Pub. L. 100–679, § 6(a)
+
+Nov. 17, 1988
+
+102 Stat. 4063
+
+Pub. L. 101–189, title VIII, § 814(a)
+
+Nov. 29, 1989
+
+103 Stat. 1495
+
+Pub. L. 101–510, title XIV, § 1484
+
+Nov. 5, 1990
+
+104 Stat. 1720
+
+Pub. L. 102–25, title VII, § 705(i)
+
+Apr. 6, 1991
+
+105 Stat. 121
+
+Pub. L. 103–355, title VIII, § 8301(e)
+
+Oct. 13, 1994
+
+108 Stat. 3397
+
+Pub. L. 104–106, title XLIII, § 4304(a)
+
+Feb. 10, 1996
+
+110 Stat. 660
+
+2103(b)
+
+2103(c)
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3728](https://www.govinfo.gov/link/statute/124/3728).)*

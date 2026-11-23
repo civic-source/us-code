@@ -3,9 +3,10 @@ title: "Section 9875 - Application and description of activities; requirements"
 usc_title: 42
 usc_section: "9875"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9875"
-generated_at: "2026-03-30T02:56:11.376Z"
+generated_at: "2026-11-23T20:27:23.185Z"
+status: "active"
 ---
 
 # § 9875. Application and description of activities; requirements
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.376Z"
     - **(C)** the salary level and benefits paid to employees in such child care programs; and
     - **(D)** the number of clients served in resource and referral systems assisted under this subchapter, and the types of assistance they requested.
 - **(d)** Except where inconsistent with the provisions of this subchapter, the provisions of section 1903(b) [ 42 U.S.C. 300w–2(b) ], paragraphs (1) through (5) of section 1906(a) 1 1 See References in Text note below. [ 42 U.S.C. 300w–5(a) ], and sections 1906(b), 1907, 1908, and 1909 [ 42 U.S.C. 300w–5(b) , 300w–6, 300w–7, 300w–8] of the Public Health Service Act shall apply to this subchapter in the same manner as such provisions apply to part A of title XIX of such Act [ 42 U.S.C. 300w et seq.].
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 670E](https://www.govinfo.gov/link/plaw/97/public/35), as added [Pub. L. 98–558, title I, § 109](https://www.govinfo.gov/link/plaw/98/public/558), Oct. 30, 1984, [98 Stat. 2882](https://www.govinfo.gov/link/statute/98/2882); amended [Pub. L. 101–501, title III](https://www.govinfo.gov/link/plaw/101/public/501), §§ 304, 305(b), Nov. 3, 1990, [104 Stat. 1249](https://www.govinfo.gov/link/statute/104/1249), 1250.)*

@@ -3,9 +3,10 @@ title: "Section 3717 - Marine safety information system"
 usc_title: 46
 usc_section: "3717"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 3717"
-generated_at: "2026-03-30T02:56:15.545Z"
+generated_at: "2026-11-23T20:27:27.088Z"
+status: "active"
 ---
 
 # § 3717. Marine safety information system
@@ -17,3 +18,16 @@ generated_at: "2026-03-30T02:56:15.545Z"
   - **(4)** the history of marine casualties and serious repair problems of the vessel; and
   - **(5)** a record of all inspections and examinations of a vessel conducted under section 3714 of this title .
 - **(b)** On written request from the Secretary, the head of each department, agency, or instrumentality of the United States Government shall provide available information that the Secretary considers necessary to confirm the information received under subsection (a) of this section.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 3717 | 46:391a(16) |
+
+
+Historical and Revision Notes
+
+3717
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 527](https://www.govinfo.gov/link/statute/97/527).)*

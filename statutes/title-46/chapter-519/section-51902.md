@@ -3,9 +3,10 @@ title: "Section 51902 - Gallant Ship Award"
 usc_title: 46
 usc_section: "51902"
 chapter: 519
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 51902"
-generated_at: "2026-03-30T02:56:15.572Z"
+generated_at: "2026-11-23T20:27:27.302Z"
+status: "active"
 ---
 
 # § 51902. Gallant Ship Award
@@ -13,3 +14,28 @@ generated_at: "2026-03-30T02:56:15.572Z"
 - **(a)** The Secretary of Transportation may award a Gallant Ship Award and a citation to a vessel (including a foreign vessel) participating in outstanding or gallant action in a marine disaster or other emergency to save life or property at sea. The Secretary may award a plaque to the vessel, and a replica of the plaque may be preserved as a permanent historical record.
 - **(b)** The Secretary of Transportation may award an appropriate citation ribbon bar to the master and each individual serving, at the time of the action, on a vessel issued an award under subsection (a).
 - **(c)** The Secretary of Transportation shall consult with the Secretary of State before awarding an award or citation to a foreign vessel or its crew under this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 51902 | 46 App.:2003. | Pub. L. 100–324, § 4 , May 30, 1988 , 102 Stat. 576 . |
+
+
+Awards to Vessels
+
+Awards to Crews
+
+Consultation
+
+Historical and Revision Notes
+
+51902
+
+Pub. L. 100–324, § 4
+
+May 30, 1988
+
+102 Stat. 576
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(b)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1584](https://www.govinfo.gov/link/statute/120/1584).)*

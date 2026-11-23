@@ -3,9 +3,10 @@ title: "Section 11201 - Findings"
 usc_title: 34
 usc_section: "11201"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 11201"
-generated_at: "2026-03-30T02:55:33.278Z"
+generated_at: "2026-11-23T20:26:50.517Z"
+status: "active"
 ---
 
 # § 11201. Findings
@@ -23,3 +24,7 @@ The Congress finds that—
   - **(4)** in view of the interstate nature of the problem, it is the responsibility of the Federal Government to develop an accurate national reporting system to report the problem, and to assist in the development of an effective system of care (including preventive and aftercare services, emergency shelter services, extended residential shelter, and street outreach services) outside the welfare system and the law enforcement system;
   - **(5)** to make a successful transition to adulthood, runaway youth, homeless youth, and other street youth need opportunities to complete high school or earn a general equivalency degree, learn job skills, and obtain employment; and
   - **(6)** improved coordination and collaboration between the Federal programs that serve runaway and homeless youth are necessary for the development of a long-term strategy for responding to the needs of this population.
+
+## Source Credit
+
+*([Pub. L. 93–415, title III, § 302](https://www.govinfo.gov/link/plaw/93/public/415), Sept. 7, 1974, [88 Stat. 1129](https://www.govinfo.gov/link/statute/88/1129); [Pub. L. 102–586, § 3(a)](https://www.govinfo.gov/link/plaw/102/public/586), Nov. 4, 1992, [106 Stat. 5017](https://www.govinfo.gov/link/statute/106/5017); [Pub. L. 106–71, § 3(a)](https://www.govinfo.gov/link/plaw/106/public/71), Oct. 12, 1999, [113 Stat. 1035](https://www.govinfo.gov/link/statute/113/1035); [Pub. L. 108–96, title I, § 101](https://www.govinfo.gov/link/plaw/108/public/96), Oct. 10, 2003, [117 Stat. 1167](https://www.govinfo.gov/link/statute/117/1167); [Pub. L. 110–378, § 2](https://www.govinfo.gov/link/plaw/110/public/378), Oct. 8, 2008, [122 Stat. 4068](https://www.govinfo.gov/link/statute/122/4068).)*

@@ -3,9 +3,10 @@ title: "Section 61 - Definitions"
 usc_title: 21
 usc_section: "61"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 61"
-generated_at: "2026-03-30T02:54:54.274Z"
+generated_at: "2026-11-23T20:26:27.746Z"
+status: "active"
 ---
 
 # § 379j–61. Definitions
@@ -16,3 +17,7 @@ In this subpart:
   - **(2)** The term “gross annual sales” means the total worldwide gross annual sales, in United States dollars, for an outsourcing facility, including the sales of all the affiliates of the outsourcing facility.
   - **(3)** The term “outsourcing facility” has the meaning given to such term in section 353b(d)(4) of this title .
   - **(4)** The term “reinspection” means, with respect to an outsourcing facility, 1 or more inspections conducted under section 374 of this title subsequent to an inspection conducted under such provision which identified noncompliance materially related to an applicable requirement of this chapter, specifically to determine whether compliance has been achieved to the Secretary’s satisfaction.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 744J, as added [Pub. L. 113–54, title I, § 102(b)](https://www.govinfo.gov/link/plaw/113/public/54), Nov. 27, 2013, [127 Stat. 593](https://www.govinfo.gov/link/statute/127/593).)*

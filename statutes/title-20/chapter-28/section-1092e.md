@@ -3,9 +3,10 @@ title: "Section 1092e - College access initiative"
 usc_title: 20
 usc_section: "1092e"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1092e"
-generated_at: "2026-03-30T02:54:48.136Z"
+generated_at: "2026-11-23T20:26:14.522Z"
+status: "active"
 ---
 
 # § 1092e. College access initiative
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:48.136Z"
   - **(1)** The Secretary shall ensure the availability of the information provided, by the guaranty agencies in accordance with this section, to students, parents, and other interested individuals, through Internet web links or other methods prescribed by the Secretary.
   - **(2)** The guaranty agencies shall ensure that the information required by this section is available without charge in printed format for students and parents requesting such information.
   - **(3)** Not later than 270 days after February 8, 2006 , the Secretary and guaranty agencies shall publicize the availability of the information required by this section, with special emphasis on ensuring that populations that are traditionally underrepresented in postsecondary education are made aware of the availability of such information.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 485D](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 109–171, title VIII, § 8023](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 179](https://www.govinfo.gov/link/statute/120/179).)*

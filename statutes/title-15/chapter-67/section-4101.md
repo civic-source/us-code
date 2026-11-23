@@ -3,9 +3,10 @@ title: "Section 4101 - Congressional findings and declaration of purposes"
 usc_title: 15
 usc_section: "4101"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 4101"
-generated_at: "2026-03-30T02:54:08.197Z"
+generated_at: "2026-11-23T20:26:04.328Z"
+status: "active"
 ---
 
 # § 4101. Congressional findings and declaration of purposes
@@ -33,3 +34,67 @@ generated_at: "2026-03-30T02:54:08.197Z"
   - **(2)** to establish an Arctic Research Commission to promote Arctic research and to recommend Arctic research policy;
   - **(3)** to designate the National Science Foundation as the lead agency responsible for implementing Arctic research policy; and
   - **(4)** to establish an Interagency Arctic Research Policy Committee to develop a national Arctic research policy and a five year plan to implement that policy.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+[Barack Obama.]
+
+## Source Credit
+
+*([Pub. L. 98–373, title I, § 102](https://www.govinfo.gov/link/plaw/98/public/373), July 31, 1984, [98 Stat. 1242](https://www.govinfo.gov/link/statute/98/1242); [Pub. L. 103–199, title VI, § 601](https://www.govinfo.gov/link/plaw/103/public/199), Dec. 17, 1993, [107 Stat. 2327](https://www.govinfo.gov/link/statute/107/2327).)*

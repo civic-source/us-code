@@ -3,9 +3,10 @@ title: "Section 350f - Reportable food registry"
 usc_title: 21
 usc_section: "350f"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 350f"
-generated_at: "2026-03-30T02:54:54.227Z"
+generated_at: "2026-11-23T20:26:27.544Z"
+status: "active"
 ---
 
 # § 350f. Reportable food registry
@@ -97,3 +98,9 @@ generated_at: "2026-03-30T02:54:54.227Z"
 - **(l)** A report or notification under subsection (d) shall be considered to be a safety report under section 379v of this title and may be accompanied by a statement, which shall be part of any report released for public disclosure, that denies that the report or the notification constitutes an admission that the product involved caused or contributed to a death, serious injury, or serious illness.
 - **(m)** A report or notification under this section shall not be considered an admission that the article of food involved is adulterated or caused or contributed to a death, serious injury, or serious illness.
 - **(n)** If, after receiving a report under subsection (d), the Secretary believes such food may have been deliberately adulterated, the Secretary shall immediately notify the Secretary of Homeland Security. The Secretary shall make relevant information from the Reportable Food Registry available to the Secretary of Homeland Security.
+
+“Congress makes the following findings:
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 417, as added [Pub. L. 110–85, title X, § 1005(b)](https://www.govinfo.gov/link/plaw/110/public/85), Sept. 27, 2007, [121 Stat. 965](https://www.govinfo.gov/link/statute/121/965); amended [Pub. L. 111–353, title II, § 211(a)](https://www.govinfo.gov/link/plaw/111/public/353), Jan. 4, 2011, [124 Stat. 3951](https://www.govinfo.gov/link/statute/124/3951).)*

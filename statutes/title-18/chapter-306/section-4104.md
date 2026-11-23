@@ -3,9 +3,10 @@ title: "Section 4104 - Transfer of offenders on probation"
 usc_title: 18
 usc_section: "4104"
 chapter: 306
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 4104"
-generated_at: "2026-03-30T02:54:16.527Z"
+generated_at: "2026-11-23T20:26:08.783Z"
+status: "active"
 ---
 
 # § 4104. Transfer of offenders on probation
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:16.527Z"
 - **(d)** The probation may be revoked in accordance with section 3565 of this title and the applicable provisions of the Federal Rules of Criminal Procedure. A violation of the conditions of probation shall constitute grounds for revocation. If probation is revoked the suspended sentence imposed by the sentencing court shall be executed.
 - **(e)** The provisions of sections 4105 and 4106 of this title shall be applicable following a revocation of probation.
 - **(f)** Prior to consenting to the transfer from the United States of an offender who is on probation, the Attorney General shall obtain the assent of the court exercising jurisdiction over the probationer.
+
+## Source Credit
+
+*(Added [Pub. L. 95–144, § 1](https://www.govinfo.gov/link/plaw/95/public/144), Oct. 28, 1977, [91 Stat. 1215](https://www.govinfo.gov/link/statute/91/1215); amended [Pub. L. 107–273, div. B, title IV, § 4002(e)(6)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1810](https://www.govinfo.gov/link/statute/116/1810).)*

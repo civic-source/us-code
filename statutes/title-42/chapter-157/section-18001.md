@@ -3,9 +3,10 @@ title: "Section 18001 - Immediate access to insurance for uninsured individuals 
 usc_title: 42
 usc_section: "18001"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18001"
-generated_at: "2026-03-30T02:56:11.511Z"
+generated_at: "2026-11-23T20:27:23.770Z"
+status: "active"
 ---
 
 # § 18001. Immediate access to insurance for uninsured individuals with a preexisting condition
@@ -55,3 +56,49 @@ generated_at: "2026-03-30T02:56:11.511Z"
     - **(B)** The Secretary shall develop procedures to provide for the transition of eligible individuals enrolled in health insurance coverage offered through a high risk pool established under this section into qualified health plans offered through an Exchange. Such procedures shall ensure that there is no lapse in coverage with respect to the individual and may extend coverage after the termination of the risk pool involved, if the Secretary determines necessary to avoid such a lapse.
   - **(4)** The Secretary has the authority to stop taking applications for participation in the program under this section to comply with the funding limitation provided for in paragraph (1).
   - **(5)** The standards established under this section shall supersede any State law or regulation (other than State licensing laws or State laws relating to plan solvency) with respect to qualified high risk pools which are established in accordance with this section.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Donald J. Trump.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 111–148, title I, § 1101](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 141](https://www.govinfo.gov/link/statute/124/141).)*

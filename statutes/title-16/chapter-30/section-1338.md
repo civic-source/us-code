@@ -3,9 +3,10 @@ title: "Section 1338 - Criminal provisions"
 usc_title: 16
 usc_section: "1338"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1338"
-generated_at: "2026-03-30T02:54:22.957Z"
+generated_at: "2026-11-23T20:26:20.452Z"
+status: "active"
 ---
 
 # § 1338. Criminal provisions
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:22.957Z"
   - **(5)** sells, directly or indirectly, a wild free-roaming horse or burro maintained on private or leased land pursuant to section 1334 of this title , or the remains thereof, or
   - **(6)** willfully violates a regulation issued pursuant to this chapter,
 - **(b)** Any employee designated by the Secretary of the Interior or the Secretary of Agriculture shall have power, without warrant, to arrest any person committing in the presence of such employee a violation of this chapter or any regulation made pursuant thereto, and to take such person immediately for examination or trial before an officer or court of competent jurisdiction, and shall have power to execute any warrant or other process issued by an officer or court of competent jurisdiction to enforce the provisions of this chapter or regulations made pursuant thereto. Any judge of a court established under the laws of the United States, or any United States magistrate judge may, within his respective jurisdiction, upon proper oath or affirmation showing probable cause, issue warrants, in all such cases.
+
+## Source Credit
+
+*([Pub. L. 92–195, § 8](https://www.govinfo.gov/link/plaw/92/public/195), Dec. 15, 1971, [85 Stat. 650](https://www.govinfo.gov/link/statute/85/650); [Pub. L. 101–650, title III, § 321](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5117](https://www.govinfo.gov/link/statute/104/5117); [Pub. L. 108–447, div. E, title I, § 142(b)](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3071](https://www.govinfo.gov/link/statute/118/3071).)*

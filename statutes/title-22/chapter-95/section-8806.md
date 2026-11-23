@@ -3,9 +3,10 @@ title: "Section 8806 - Imposition of sanctions with respect to foreign financial
 usc_title: 22
 usc_section: "8806"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8806"
-generated_at: "2026-03-30T02:55:05.458Z"
+generated_at: "2026-11-23T20:26:32.739Z"
+status: "active"
 ---
 
 # § 8806. Imposition of sanctions with respect to foreign financial institutions that facilitate financial transactions on behalf of specially designated nationals
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:55:05.458Z"
     - **(A)** determines that such a waiver is vital to the national security of the United States; and
     - **(B)** submits to the appropriate congressional committees a report providing a justification for the waiver.
   - **(2)** Each report submitted under paragraph (1)(B) shall be submitted in unclassified form, but may include a classified annex.
+
+## Source Credit
+
+*([Pub. L. 112–239, div. A, title XII, § 1247](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2013](https://www.govinfo.gov/link/statute/126/2013).)*

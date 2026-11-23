@@ -3,9 +3,10 @@ title: "Section 971 - Notification, suspension of shipment, and penalties with r
 usc_title: 21
 usc_section: "971"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 971"
-generated_at: "2026-03-30T02:54:54.299Z"
+generated_at: "2026-11-23T20:26:27.865Z"
+status: "active"
 ---
 
 # § 971. Notification, suspension of shipment, and penalties with respect to importation and exportation of listed chemicals
@@ -42,3 +43,9 @@ generated_at: "2026-03-30T02:54:54.299Z"
   - **(1)** With respect to a regulated person importing ephedrine, pseudoephedrine, or phenylpropanolamine (referred to in this section as an “importer”), a notice of importation under subsection (a) or (b) shall include all information known to the importer on the chain of distribution of such chemical from the manufacturer to the importer.
   - **(2)** For the purpose of preventing or responding to the diversion of ephedrine, pseudoephedrine, or phenylpropanolamine for use in the illicit production of methamphetamine, the Attorney General may, in the case of any person who is a manufacturer or distributor of such chemical in the chain of distribution referred to in paragraph (1) (which person is referred to in this subsection as a “foreign-chain distributor”), request that such distributor provide to the Attorney General information known to the distributor on the distribution of the chemical, including sales.
   - **(3)** If the Attorney General determines that a foreign-chain distributor is refusing to cooperate with the Attorney General in obtaining the information referred to in paragraph (2), the Attorney General may, in accordance with procedures that apply under subsection (c), issue an order prohibiting the importation of ephedrine, pseudoephedrine, or phenylpropanolamine in any case in which such distributor is part of the chain of distribution for such chemical. Not later than 60 days prior to issuing the order, the Attorney General shall publish in the Federal Register a notice of intent to issue the order. During such 60-day period, imports of the chemical with respect to such distributor may not be restricted under this paragraph.
+
+Effect of Exception
+
+## Source Credit
+
+*([Pub. L. 91–513, title III, § 1018](https://www.govinfo.gov/link/plaw/91/public/513), as added [Pub. L. 100–690, title VI, § 6053(a)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4314](https://www.govinfo.gov/link/statute/102/4314); amended [Pub. L. 103–200](https://www.govinfo.gov/link/plaw/103/public/200), §§ 4(a), 5(a), 9(b), Dec. 17, 1993, [107 Stat. 2338–2340](https://www.govinfo.gov/link/statute/107/2338); [Pub. L. 103–322, title XXXIII, § 330024(c)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2150](https://www.govinfo.gov/link/statute/108/2150); [Pub. L. 109–177, title VII](https://www.govinfo.gov/link/plaw/109/public/177), §§ 716(a), (b)(1)(B), 721, Mar. 9, 2006, [120 Stat. 265](https://www.govinfo.gov/link/statute/120/265), 267.)*

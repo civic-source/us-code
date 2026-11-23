@@ -3,9 +3,10 @@ title: "Section 305b - Special pay: service as member of Weapons of Mass Destruc
 usc_title: 37
 usc_section: "305b"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "37 U.S.C. § 305b"
-generated_at: "2026-03-30T02:55:44.051Z"
+generated_at: "2026-11-23T20:26:57.341Z"
+status: "active"
 ---
 
 # § 305b. Special pay: service as member of Weapons of Mass Destruction Civil Support Team
@@ -17,3 +18,17 @@ generated_at: "2026-03-30T02:55:44.051Z"
   - **(2)** The amount of the special pay for a member referred to in paragraph (1) shall be equal to 1 ⁄ 30 of the monthly special pay rate in effect under subsection (b) for each day on which the member performs duty under orders as members of a Weapons of Mass Destruction Civil Support Team.
 - **(d)** Special pay under this section shall be provided in accordance with regulations prescribed by the Secretary of Defense.
 - **(e)** In this section, the term “Weapons of Mass Destruction Civil Support Team” means a team of members of the reserve components of the armed forces that is established under section 12310(c) of title 10 in support of emergency preparedness programs to prepare for or to respond to any emergency involving the use of a weapon of mass destruction.
+
+Special Pay Authorized
+
+Monthly Rate
+
+Inclusion of Reserve Component Members Performing Inactive Duty Training
+
+Regulations
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 108–136, div. A, title VI, § 624(a)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1505](https://www.govinfo.gov/link/statute/117/1505).)*

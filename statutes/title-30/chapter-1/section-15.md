@@ -3,9 +3,10 @@ title: "Section 15 - Repealed. Pub. L. 86–533, § 1(17) , June 29, 1960 , 74 S
 usc_title: 30
 usc_section: "15"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 15"
-generated_at: "2026-03-30T02:55:29.374Z"
+generated_at: "2026-11-23T20:26:34.897Z"
+status: "repealed"
 ---
 
 # § 15. Repealed. Pub. L. 86–533, § 1(17) , June 29, 1960 , 74 Stat. 248

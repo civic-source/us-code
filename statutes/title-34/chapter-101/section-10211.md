@@ -3,9 +3,10 @@ title: "Section 10211 - Training and manpower development"
 usc_title: 34
 usc_section: "10211"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10211"
-generated_at: "2026-03-30T02:55:33.262Z"
+generated_at: "2026-11-23T20:26:50.440Z"
+status: "active"
 ---
 
 # § 10211. Training and manpower development
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:33.262Z"
 - **(e)** In this section—
   - **(1)** the terms “rail carrier” and “railroad” have the meanings given such terms in section 20102 of title 49 ; and
   - **(2)** the term “railroad police officer” means a peace officer who is commissioned in his or her State of legal residence or State of primary employment and employed by a rail carrier to enforce State laws for the protection of railroad property, personnel, passengers, or cargo.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 701](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 98–473, title II, § 609A(a)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2090](https://www.govinfo.gov/link/statute/98/2090); amended [Pub. L. 106–110, § 1](https://www.govinfo.gov/link/plaw/106/public/110), Nov. 24, 1999, [113 Stat. 1497](https://www.govinfo.gov/link/statute/113/1497).)*

@@ -3,9 +3,10 @@ title: "Section 1158 - Asylum"
 usc_title: 8
 usc_section: "1158"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1158"
-generated_at: "2026-03-30T02:53:10.475Z"
+generated_at: "2026-11-23T20:25:36.021Z"
+status: "active"
 ---
 
 # § 1158. Asylum
@@ -73,3 +74,19 @@ generated_at: "2026-03-30T02:53:10.475Z"
   - **(6)** If the Attorney General determines that an alien has knowingly made a frivolous application for asylum and the alien has received the notice under paragraph (4)(A), the alien shall be permanently ineligible for any benefits under this chapter, effective as of the date of a final determination on such application.
   - **(7)** Nothing in this subsection shall be construed to create any substantive or procedural right or benefit that is legally enforceable by any party against the United States or its agencies or officers or any other person.
 - **(e)** The provisions of this section and section 1159(b) of this title shall apply to persons physically present in the Commonwealth of the Northern Mariana Islands or arriving in the Commonwealth (whether or not at a designated port of arrival and including persons who are brought to the Commonwealth after having been interdicted in international or United States waters) only on or after January 1, 2014 .
+
+“The amendment made by subsection (a) [amending this section] shall apply to applications for asylum filed on or after the first day of the first month beginning more than 180 days after the date of the enactment of this Act [ Sept. 30, 1996 ].
+
+Issuance of regulations
+
+Authority to waive certain regulatory requirements
+
+In General
+
+Employment Authorization
+
+Authorization of Appropriations
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 1, § 208, as added [Pub. L. 96–212, title II, § 201(b)](https://www.govinfo.gov/link/plaw/96/public/212), Mar. 17, 1980, [94 Stat. 105](https://www.govinfo.gov/link/statute/94/105); amended [Pub. L. 101–649, title V, § 515(a)(1)](https://www.govinfo.gov/link/plaw/101/public/649), Nov. 29, 1990, [104 Stat. 5053](https://www.govinfo.gov/link/statute/104/5053); [Pub. L. 103–322, title XIII, § 130005(b)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2028](https://www.govinfo.gov/link/statute/108/2028); [Pub. L. 104–132, title IV, § 421(a)](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1270](https://www.govinfo.gov/link/statute/110/1270); [Pub. L. 104–208, div. C, title VI, § 604(a)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–690](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 107–56, title IV, § 411(b)(2)](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 348](https://www.govinfo.gov/link/statute/115/348); [Pub. L. 107–208, § 4](https://www.govinfo.gov/link/plaw/107/public/208), Aug. 6, 2002, [116 Stat. 928](https://www.govinfo.gov/link/statute/116/928); [Pub. L. 109–13, div. B, title I, § 101(a)](https://www.govinfo.gov/link/plaw/109/public/13), (b), May 11, 2005, [119 Stat. 302](https://www.govinfo.gov/link/statute/119/302), 303; [Pub. L. 110–229, title VII, § 702(j)(4)](https://www.govinfo.gov/link/plaw/110/public/229), May 8, 2008, [122 Stat. 866](https://www.govinfo.gov/link/statute/122/866); [Pub. L. 110–457, title II, § 235(d)(7)](https://www.govinfo.gov/link/plaw/110/public/457), Dec. 23, 2008, [122 Stat. 5080](https://www.govinfo.gov/link/statute/122/5080); [Pub. L. 119–21, title X, § 100018](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 385](https://www.govinfo.gov/link/statute/139/385).)*

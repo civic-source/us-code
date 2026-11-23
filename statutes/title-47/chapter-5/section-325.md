@@ -3,9 +3,10 @@ title: "Section 325 - False, fraudulent, or unauthorized transmissions"
 usc_title: 47
 usc_section: "325"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 325"
-generated_at: "2026-03-30T02:56:24.508Z"
+generated_at: "2026-11-23T20:27:28.881Z"
+status: "active"
 ---
 
 # § 325. False, fraudulent, or unauthorized transmissions
@@ -101,3 +102,11 @@ generated_at: "2026-03-30T02:56:24.508Z"
     - **(A)** The nonprevailing party before a United States district court may appeal a decision under this subsection to the United States Court of Appeals with jurisdiction over that district court. The Court of Appeals shall not issue any stay of the effectiveness of any decision granting relief against a satellite carrier unless the carrier presents clear and convincing evidence that it is highly likely to prevail on appeal and only after posting a bond for the full amount of any monetary award assessed against it and for such further amount as the Court of Appeals may believe appropriate.
     - **(B)** If the Commission denies relief in response to a complaint filed by a television broadcast station under this subsection, the television broadcast station filing the complaint may file an appeal with the United States Court of Appeals for the District of Columbia Circuit.
   - **(12)** No complaint or civil action may be filed under this subsection after December 31, 2001 . This subsection shall continue to apply to any complaint or civil action filed on or before such date.
+
+“Nothing in this title [enacting section 342 of this title , amending this section and sections 335 and 338 to 340 of this title, and enacting provisions set out as notes under sections 338 and 340 of this title] or the amendments made by this title shall be construed to affect—
+
+“Nothing in the dates by which requirements or other provisions are effective under this Act [probably means title IX of div. J of Pub. L. 108–447 , see Short Title of 2004 Amendment note set out under section 101 of Title 17 , Copyrights] or the amendments made by this Act shall be construed—
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title III, § 325, [48 Stat. 1091](https://www.govinfo.gov/link/statute/48/1091); [Pub. L. 102–385, § 6](https://www.govinfo.gov/link/plaw/102/public/385), Oct. 5, 1992, [106 Stat. 1482](https://www.govinfo.gov/link/statute/106/1482); [Pub. L. 106–113, div. B, § 1000(a)(9) [title I, § 1009]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–537; [Pub. L. 108–447, div. J, title IX](https://www.govinfo.gov/link/plaw/108/public/447) [title II, §§ 201, 207(a)], Dec. 8, 2004, [118 Stat. 3409](https://www.govinfo.gov/link/statute/118/3409), 3428; [Pub. L. 111–118, div. B, § 1003(b)](https://www.govinfo.gov/link/plaw/111/public/118), Dec. 19, 2009, [123 Stat. 3469](https://www.govinfo.gov/link/statute/123/3469); [Pub. L. 111–144, § 10(b)](https://www.govinfo.gov/link/plaw/111/public/144), Mar. 2, 2010, [124 Stat. 47](https://www.govinfo.gov/link/statute/124/47); [Pub. L. 111–151, § 2(b)](https://www.govinfo.gov/link/plaw/111/public/151), Mar. 26, 2010, [124 Stat. 1027](https://www.govinfo.gov/link/statute/124/1027); [Pub. L. 111–157, § 9(b)](https://www.govinfo.gov/link/plaw/111/public/157), Apr. 15, 2010, [124 Stat. 1119](https://www.govinfo.gov/link/statute/124/1119); [Pub. L. 111–175, title II, § 202](https://www.govinfo.gov/link/plaw/111/public/175), May 27, 2010, [124 Stat. 1245](https://www.govinfo.gov/link/statute/124/1245); [Pub. L. 113–200, title I](https://www.govinfo.gov/link/plaw/113/public/200), §§ 101, 103(a), (b), (d), Dec. 4, 2014, [128 Stat. 2060](https://www.govinfo.gov/link/statute/128/2060), 2062; [Pub. L. 116–94, div. P, title X](https://www.govinfo.gov/link/plaw/116/public/94), §§ 1002–1003(c), Dec. 20, 2019, [133 Stat. 3198](https://www.govinfo.gov/link/statute/133/3198), 3199.)*

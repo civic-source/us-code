@@ -3,9 +3,10 @@ title: "Section 1353 - Notional shipping income"
 usc_title: 26
 usc_section: "1353"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1353"
-generated_at: "2026-03-30T02:55:27.769Z"
+generated_at: "2026-11-23T20:26:46.087Z"
+status: "active"
 ---
 
 # § 1353. Notional shipping income
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:27.769Z"
   - **(1)** 40 cents for each 100 tons of so much of the net tonnage of the vessel as does not exceed 25,000 net tons, and
   - **(2)** 20 cents for each 100 tons of so much of the net tonnage of the vessel as exceeds 25,000 net tons.
 - **(d)** If for any period 2 or more persons are operators of a qualifying vessel, the notional shipping income from the operation of such vessel for such period shall be allocated among such persons on the basis of their respective ownership, charter, and operating agreement interests in such vessel or on such other basis as the Secretary may prescribe by regulations.
+
+## Source Credit
+
+*(Added [Pub. L. 108–357, title II, § 248(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1450](https://www.govinfo.gov/link/statute/118/1450); amended [Pub. L. 109–135, title IV, § 403(g)(1)(A)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2624](https://www.govinfo.gov/link/statute/119/2624).)*

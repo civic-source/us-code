@@ -3,9 +3,10 @@ title: "Section 6364 - Establishment of Leave Bank Boards"
 usc_title: 5
 usc_section: "6364"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 6364"
-generated_at: "2026-03-30T02:52:56.032Z"
+generated_at: "2026-11-23T20:25:32.039Z"
+status: "active"
 ---
 
 # § 6364. Establishment of Leave Bank Boards
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:52:56.032Z"
   - **(2)** monitor each case of a leave recipient;
   - **(3)** monitor the amount of leave in the leave bank and the number of applications for use of leave from the bank; and
   - **(4)** maintain an adequate amount of leave in the leave bank to the greatest extent practicable.
+
+## Source Credit
+
+*(Added [Pub. L. 100–566, § 2(a)](https://www.govinfo.gov/link/plaw/100/public/566), Oct. 31, 1988, [102 Stat. 2839](https://www.govinfo.gov/link/statute/102/2839).)*

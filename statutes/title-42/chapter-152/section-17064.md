@@ -3,9 +3,10 @@ title: "Section 17064 - Smart building acceleration"
 usc_title: 42
 usc_section: "17064"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17064"
-generated_at: "2026-03-30T02:56:11.494Z"
+generated_at: "2026-11-23T20:27:23.720Z"
+status: "active"
 ---
 
 # § 17064. Smart building acceleration
@@ -69,3 +70,7 @@ generated_at: "2026-03-30T02:56:11.494Z"
   - **(1)** the establishment of the Federal Smart Building Program and the evaluation of Federal smart buildings under subsection (b);
   - **(2)** the survey and evaluation of private sector smart buildings under subsection (c); and
   - **(3)** any recommendations of the Secretary to further accelerate the transition to smart buildings.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. Z, title I, § 1007](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2433](https://www.govinfo.gov/link/statute/134/2433).)*

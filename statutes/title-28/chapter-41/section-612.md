@@ -3,9 +3,10 @@ title: "Section 612 - Judiciary Information Technology Fund"
 usc_title: 28
 usc_section: "612"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 612"
-generated_at: "2026-03-30T02:55:30.135Z"
+generated_at: "2026-11-23T20:26:36.399Z"
+status: "active"
 ---
 
 # § 612. Judiciary Information Technology Fund
@@ -45,3 +46,55 @@ generated_at: "2026-03-30T02:55:30.135Z"
   - **(4)** expedite efforts to complete the development and implementation of life cycle management standards;
   - **(5)** utilize the standards in developing the next generation of case management and financial systems; and
   - **(6)** assess the current utilization and future user requirements of the data communications network.
+
+Establishment and Availability of Fund
+
+Plan for Meeting Information Technology Needs.—
+
+Development of plan
+
+Expenditures consistent with plan
+
+Deposits Into Fund.—
+
+Deposits
+
+Advances and reimbursements
+
+Authorization of Appropriations
+
+Contract Authority.—
+
+For each fiscal year
+
+Multiyear contracts
+
+Cancellation costs of multiyear contract
+
+Authority of Administrator of General Services
+
+Annual Report.—
+
+In general
+
+Additional contents of report
+
+Reprogramming
+
+Appropriations Into the Fund
+
+Long Range Management and Business Plans
+
+Applicability of Procurement Statute
+
+Report in year of termination of authority
+
+Termination of Authority
+
+Definition
+
+Annual Report
+
+## Source Credit
+
+*(Added [Pub. L. 101–162, title IV, § 404(b)(1)](https://www.govinfo.gov/link/plaw/101/public/162), Nov. 21, 1989, [103 Stat. 1013](https://www.govinfo.gov/link/statute/103/1013); amended [Pub. L. 103–420, § 2](https://www.govinfo.gov/link/plaw/103/public/420), Oct. 25, 1994, [108 Stat. 4343](https://www.govinfo.gov/link/statute/108/4343); [Pub. L. 104–106, div. E, title LVI, § 5602](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 699](https://www.govinfo.gov/link/statute/110/699); [Pub. L. 104–208, div. A, title I, § 101(a) [title III, § 305]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009](https://www.govinfo.gov/link/statute/110/3009), 3009–45; [Pub. L. 105–85, div. A, title X, § 1073(h)(2)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1907](https://www.govinfo.gov/link/statute/111/1907); [Pub. L. 105–119, title III, § 304](https://www.govinfo.gov/link/plaw/105/public/119), Nov. 26, 1997, [111 Stat. 2491](https://www.govinfo.gov/link/statute/111/2491); [Pub. L. 106–518, title I, § 101](https://www.govinfo.gov/link/plaw/106/public/518), Nov. 13, 2000, [114 Stat. 2411](https://www.govinfo.gov/link/statute/114/2411); [Pub. L. 107–217, § 3(g)(2)](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1299](https://www.govinfo.gov/link/statute/116/1299); [Pub. L. 109–115, div. A, title IV, § 407(b)](https://www.govinfo.gov/link/plaw/109/public/115), Nov. 30, 2005, [119 Stat. 2471](https://www.govinfo.gov/link/statute/119/2471).)*

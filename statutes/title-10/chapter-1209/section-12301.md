@@ -3,9 +3,10 @@ title: "Section 12301 - Reserve components generally"
 usc_title: 10
 usc_section: "12301"
 chapter: 1209
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 12301"
-generated_at: "2026-03-30T02:53:38.269Z"
+generated_at: "2026-11-23T20:25:52.420Z"
+status: "active"
 ---
 
 # § 12301. Reserve components generally
@@ -27,3 +28,75 @@ generated_at: "2026-03-30T02:53:38.269Z"
     - **(C)** to complete a required Department of Defense health care study, which may include an associated medical evaluation of the member.
   - **(2)** A member ordered to active duty under this subsection may, with the member’s consent, be retained on active duty, if the Secretary concerned considers it appropriate, for medical treatment for a condition associated with the study or evaluation, if that treatment of the member is otherwise authorized by law.
   - **(3)** A member of the Army National Guard of the United States or the Air National Guard of the United States may be ordered to active duty under this subsection only with the consent of the Governor or other appropriate authority of the State concerned.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 672(a) 672(b) 672(c) 672(d) | 50:961(a). 50:961(c). 50:961(g). 50:961(d). 50:962 (1st sentence). | July 9, 1952, ch. 608 , §§ 233 (less (b) and (f)), 234 (1st sentence), 66 Stat. 489 , 490. |
+| 672(e) | 50:961(e). |  |
+
+| 1958 Act | Col 2 | Col 3 |
+| --- | --- | --- |
+| 672(a) | 50:961(a). | Aug. 9, 1955, ch. 665, § 2(e) , 69 Stat. 599 . |
+
+
+Historical and Revision Notes
+
+Act
+
+672(a)
+
+672(b)
+
+672(c)
+
+672(d)
+
+July 9, 1952, ch. 608
+
+66 Stat. 489
+
+672(e)
+
+Act
+
+672(a)
+
+Aug. 9, 1955, ch. 665, § 2(e)
+
+69 Stat. 599
+
+In General
+
+Definitions
+
+Limitation on Cancellation of Deployment of Certain Units Within
+
+Days of Scheduled Deployment.—
+
+Limitation
+
+Covered deployments
+
+Notice to congress and governors on approval of cancellation of deployment
+
+Advance Notice to Certain Reserves on Involuntary Mobilization.—
+
+Advance notice required
+
+Covered reserves
+
+Commencement of applicability
+
+Secretary concerned defined
+
+Sunset
+
+Nondelegation of Approval
+
+Advance Notice Required
+
+Reduction or Waiver of Notice Requirement
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 27, § 672; [Pub. L. 85–861](https://www.govinfo.gov/link/plaw/85/public/861), §§ 1(13), 33(a)(5), Sept. 2, 1958, [72 Stat. 1440](https://www.govinfo.gov/link/statute/72/1440), 1564; [Pub. L. 96–357, § 6](https://www.govinfo.gov/link/plaw/96/public/357), Sept. 24, 1980, [94 Stat. 1182](https://www.govinfo.gov/link/statute/94/1182); [Pub. L. 96–584, § 1](https://www.govinfo.gov/link/plaw/96/public/584), Dec. 23, 1980, [94 Stat. 3377](https://www.govinfo.gov/link/statute/94/3377); [Pub. L. 99–500, § 101(c) [title IX, § 9122]](https://www.govinfo.gov/link/plaw/99/public/500), Oct. 18, 1986, [100 Stat. 1783–82](https://www.govinfo.gov/link/statute/100/1783), 1783–127, and [Pub. L. 99–591, § 101(c) [title IX, § 9122]](https://www.govinfo.gov/link/plaw/99/public/591), Oct. 30, 1986, [100 Stat. 3341–82](https://www.govinfo.gov/link/statute/100/3341), 3341–127; [Pub. L. 99–661, div. A, title V](https://www.govinfo.gov/link/plaw/99/public/661), §§ 522, 524(a), Nov. 14, 1986, [100 Stat. 3871](https://www.govinfo.gov/link/statute/100/3871); [Pub. L. 100–456, div. A, title XII, § 1234(a)(1)](https://www.govinfo.gov/link/plaw/100/public/456), (2), Sept. 29, 1988, [102 Stat. 2059](https://www.govinfo.gov/link/statute/102/2059); renumbered § 12301 and amended [Pub. L. 103–337, div. A, title XVI](https://www.govinfo.gov/link/plaw/103/public/337), §§ 1662(e)(2), 1675(c)(1), Oct. 5, 1994, [108 Stat. 2992](https://www.govinfo.gov/link/statute/108/2992), 3017; [Pub. L. 106–65, div. A, title V, § 512](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 592](https://www.govinfo.gov/link/statute/113/592); [Pub. L. 108–375, div. A, title V, § 514(a)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1882](https://www.govinfo.gov/link/statute/118/1882).)*

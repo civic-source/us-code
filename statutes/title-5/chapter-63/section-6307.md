@@ -3,9 +3,10 @@ title: "Section 6307 - Sick leave; accrual and accumulation"
 usc_title: 5
 usc_section: "6307"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 6307"
-generated_at: "2026-03-30T02:52:56.030Z"
+generated_at: "2026-11-23T20:25:32.026Z"
+status: "active"
 ---
 
 # § 6307. Sick leave; accrual and accumulation
@@ -26,3 +27,26 @@ generated_at: "2026-03-30T02:52:56.030Z"
   - **(4)**
     - **(A)** This subsection shall be effective during the 3-year period that begins upon the expiration of the 2-month period that begins on the date of the enactment of this subsection.
     - **(B)** Not later than 6 months before the date on which this subsection is scheduled to cease to be effective, the Office shall submit a report to Congress in which it shall evaluate the operation of this subsection and make recommendations as to whether or not this subsection should be continued beyond such date.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 2063 . | Oct. 30, 1951, ch. 631, § 204 , 65 Stat. 681 . Aug. 21, 1964 , Pub. L. 88–471, § 6(b) , (c), 78 Stat. 583 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 2063
+
+Oct. 30, 1951, ch. 631, § 204
+
+65 Stat. 681
+
+Aug. 21, 1964
+
+Pub. L. 88–471, § 6(b)
+
+78 Stat. 583
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 520](https://www.govinfo.gov/link/statute/80/520); [Pub. L. 103–329, title VI, § 629(b)(1)](https://www.govinfo.gov/link/plaw/103/public/329), Sept. 30, 1994, [108 Stat. 2423](https://www.govinfo.gov/link/statute/108/2423); [Pub. L. 103–388, § 2](https://www.govinfo.gov/link/plaw/103/public/388), Oct. 22, 1994, [108 Stat. 4079](https://www.govinfo.gov/link/statute/108/4079).)*

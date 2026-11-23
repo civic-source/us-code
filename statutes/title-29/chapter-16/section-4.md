@@ -3,9 +3,10 @@ title: "Section 4 - Standards and assurances for centers for independent living"
 usc_title: 29
 usc_section: "4"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 4"
-generated_at: "2026-03-30T02:55:18.701Z"
+generated_at: "2026-11-23T20:26:37.893Z"
+status: "active"
 ---
 
 # § 796f–4. Standards and assurances for centers for independent living
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:55:18.701Z"
   - **(12)** the center will submit to the Statewide Independent Living Council a copy of its approved grant application and the annual report required under paragraph (8);
   - **(13)** the center will prepare and submit a report to the designated State unit or the Administrator, as the case may be, at the end of each fiscal year that contains the information described in paragraph (8) and information regarding the extent to which the center is in compliance with the standards set forth in subsection (b); and
   - **(14)** an independent living plan described in section 796c(e) of this title will be developed unless the individual who would receive services under the plan signs a waiver stating that such a plan is unnecessary.
+
+## Source Credit
+
+*([Pub. L. 93–112, title VII, § 725](https://www.govinfo.gov/link/plaw/93/public/112), as added [Pub. L. 105–220, title IV, § 410](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1234](https://www.govinfo.gov/link/statute/112/1234); amended [Pub. L. 105–332, § 5(c)](https://www.govinfo.gov/link/plaw/105/public/332), Oct. 31, 1998, [112 Stat. 3127](https://www.govinfo.gov/link/statute/112/3127); [Pub. L. 113–128, title IV, § 483](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1693](https://www.govinfo.gov/link/statute/128/1693).)*

@@ -3,9 +3,10 @@ title: "Section 2153 - Cooperation with other nations"
 usc_title: 42
 usc_section: "2153"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2153"
-generated_at: "2026-03-30T02:56:11.150Z"
+generated_at: "2026-11-23T20:27:22.073Z"
+status: "active"
 ---
 
 # § 2153. Cooperation with other nations
@@ -26,3 +27,23 @@ No cooperation with any nation, group of nations or regional defense organizatio
 - **(c)** the proposed agreement for cooperation (if not an agreement subject to subsection (d)), together with the approval and determination of the President, has been submitted to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate for a period of thirty days of continuous session (as defined in section 2159(g) of this title ): Provided, however , That these committees, after having received such agreement for cooperation, may by resolution in writing waive the conditions of all or any portion of such thirty-day period; and
 - **(d)** the proposed agreement for cooperation (if arranged pursuant to section 2121(c), 2164(b), 2164(c), or 2164(d) of this title, or if entailing implementation of section 2073, 2074(a), 2133, or 2134 of this title in relation to a reactor that may be capable of producing more than five thermal megawatts or special nuclear material for use in connection therewith) has been submitted to the Congress, together with the approval and determination of the President, for a period of sixty days of continuous session (as defined in section 2159(g) of this title ) and referred to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate, and in addition, in the case of a proposed agreement for cooperation arranged pursuant to section 2121(c), 2164(b), 2164(c), or 2164(d) of this title, the Committee on Armed Services of the House of Representatives and the Committee on Armed Services of the Senate, but such proposed agreement for cooperation shall not become effective if during such sixty-day period the Congress adopts, and there is enacted, a joint resolution stating in substance that the Congress does not favor the proposed agreement for cooperation: Provided , That the sixty-day period shall not begin until a Nuclear Proliferation Assessment Statement prepared by the Secretary of State, and any annexes thereto, when required by subsection (a), have been submitted to the Congress: Provided further , That an agreement for cooperation exempted by the President pursuant to subsection (a) from any requirement contained in that subsection, or an agreement exempted pursuant to section 8003(a)(1) of title 22 , shall not become effective unless the Congress adopts, and there is enacted, a joint resolution stating that the Congress does favor such agreement. During the sixty-day period the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate shall each hold hearings on the proposed agreement for cooperation and submit a report to their respective bodies recommending whether it should be approved or disapproved. Any such proposed agreement for cooperation shall be considered pursuant to the procedures set forth in section 2159(i) of this title .
 - **(e)** The President shall keep the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate fully and currently informed of any initiative or negotiations relating to a new or amended agreement for peaceful nuclear cooperation pursuant to this section (except an agreement arranged pursuant to section 2121(c), 2164(b), 2164(c), or 2164(d) of this title, or an amendment thereto).
+
+Limitation
+
+Waiver
+
+Form
+
+Appropriate Congressional Committees Defined
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 123, as added Aug. 30, 1954, ch. 1073, § 1, [68 Stat. 940](https://www.govinfo.gov/link/statute/68/940); amended [Pub. L. 85–479](https://www.govinfo.gov/link/plaw/85/public/479), §§ 3, 4, July 2, 1958, [72 Stat. 277](https://www.govinfo.gov/link/statute/72/277); [Pub. L. 85–681, § 4](https://www.govinfo.gov/link/plaw/85/public/681), Aug. 19, 1958, [72 Stat. 632](https://www.govinfo.gov/link/statute/72/632); [Pub. L. 88–489, § 15](https://www.govinfo.gov/link/plaw/88/public/489), Aug. 26, 1964, [78 Stat. 606](https://www.govinfo.gov/link/statute/78/606); [Pub. L. 93–377, § 5](https://www.govinfo.gov/link/plaw/93/public/377), Aug. 17, 1974, [88 Stat. 475](https://www.govinfo.gov/link/statute/88/475); [Pub. L. 93–485, § 1](https://www.govinfo.gov/link/plaw/93/public/485), Oct. 26, 1974, [88 Stat. 1460](https://www.govinfo.gov/link/statute/88/1460); [Pub. L. 95–242, title IV, § 401](https://www.govinfo.gov/link/plaw/95/public/242), Mar. 10, 1978, [92 Stat. 142](https://www.govinfo.gov/link/statute/92/142); [Pub. L. 99–64, title III, § 301(a)](https://www.govinfo.gov/link/plaw/99/public/64), (b), July 12, 1985, [99 Stat. 159](https://www.govinfo.gov/link/statute/99/159), 160; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944); [Pub. L. 103–337, div. C, title XXXI, § 3155(c)(1)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 3092](https://www.govinfo.gov/link/statute/108/3092); [Pub. L. 103–437, § 15(f)(5)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4592](https://www.govinfo.gov/link/statute/108/4592); [Pub. L. 104–106, div. A, title XV, § 1505(g)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 515](https://www.govinfo.gov/link/statute/110/515); [Pub. L. 105–277, div. G, title XII, § 1225(d)(4)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–774](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 109–401, title I, § 104(e)](https://www.govinfo.gov/link/plaw/109/public/401), Dec. 18, 2006, [120 Stat. 2734](https://www.govinfo.gov/link/statute/120/2734); [Pub. L. 110–369, title II, § 202](https://www.govinfo.gov/link/plaw/110/public/369), Oct. 8, 2008, [122 Stat. 4033](https://www.govinfo.gov/link/statute/122/4033).)*

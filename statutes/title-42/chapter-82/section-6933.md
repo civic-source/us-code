@@ -3,9 +3,10 @@ title: "Section 6933 - Hazardous waste site inventory"
 usc_title: 42
 usc_section: "6933"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6933"
-generated_at: "2026-03-30T02:56:11.273Z"
+generated_at: "2026-11-23T20:27:22.738Z"
+status: "active"
 ---
 
 # § 6933. Hazardous waste site inventory
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.273Z"
   - **(1)** Upon receipt of an application submitted by any State to carry out a program under this section, the Administrator may make grants to the States for purposes of carrying out such a program. Grants under this section shall be allocated among the several States by the Administrator based upon such regulations as he prescribes to carry out the purposes of this section. The Administrator may make grants to any State which has conducted an inventory program which effectively carried out the purposes of this section before October 21, 1980 , to reimburse such State for all, or any portion of, the costs incurred by such State in conducting such program.
   - **(2)** There are authorized to be appropriated to carry out this section $25,000,000 for each of the fiscal years 1985 through 1988.
 - **(d)** Nothing in this section shall be construed to provide that the Administrator or any State should, pending completion of the inventory required under this section, postpone undertaking any enforcement or remedial action with respect to any site at which hazardous waste has been treated, stored, or disposed of.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 3012](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 96–482, § 17(a)](https://www.govinfo.gov/link/plaw/96/public/482), Oct. 21, 1980, [94 Stat. 2342](https://www.govinfo.gov/link/statute/94/2342); amended [Pub. L. 98–616, § 2(c)](https://www.govinfo.gov/link/plaw/98/public/616), Nov. 8, 1984, [98 Stat. 3222](https://www.govinfo.gov/link/statute/98/3222).)*

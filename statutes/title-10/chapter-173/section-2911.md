@@ -3,9 +3,10 @@ title: "Section 2911 - Energy policy of the Department of Defense"
 usc_title: 10
 usc_section: "2911"
 chapter: 173
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2911"
-generated_at: "2026-03-30T02:53:38.185Z"
+generated_at: "2026-11-23T20:25:51.763Z"
+status: "active"
 ---
 
 # § 2911. Energy policy of the Department of Defense
@@ -95,3 +96,397 @@ generated_at: "2026-03-30T02:53:38.185Z"
       - **(i)** funds appropriated for the Energy Resilience and Conservation Investment Program of the Department; and
       - **(ii)** funds appropriated for the Facilities Sustainment, Restoration, and Modernization program of the Department; and
     - **(B)** funding available under performance contracts, such as energy savings performance contracts and utility energy service contracts.
+
+General Energy Policy
+
+Authorities
+
+Energy Performance Goals
+
+Energy Performance Master Plan
+
+Special Considerations
+
+Selection of Energy Conservation Measures
+
+Goal Regarding Use of Renewable Energy To Meet Facility Energy Needs
+
+Promotion of On-Site Energy Security and Energy Resilience
+
+Assessment of Life-cycle Costs and Performance of Potential Energy Resilience Projects
+
+Aggregate Energy Conservation Measures and Funding
+
+Executive Agent
+
+Responsibilities
+
+Annual Reports
+
+Plan for Program of Record.—
+
+Submission
+
+Elements
+
+Compliance With Applicable Directive
+
+Support Within Department of Defense
+
+Definitions
+
+Notification
+
+Exception
+
+Nuclear Reactor Defined
+
+In General
+
+Selection of Military Installations.—
+
+Nomination
+
+Selection
+
+Considerations
+
+Designation as energy resilience testbed
+
+Covered Technologies
+
+Briefing
+
+Deadline for Commencement of Projects
+
+Responsibility for Administration and Oversight
+
+Consortiums.—
+
+In general
+
+Consortium entities
+
+Authorities.—
+
+In general
+
+Follow-on production contracts or transactions
+
+Interagency Collaboration
+
+Rule of Construction
+
+Definitions
+
+In General
+
+Selection of Military Installations.—
+
+Selection
+
+Considerations
+
+Report.—
+
+In general
+
+Elements
+
+Source of services
+
+Final Report
+
+Definitions
+
+Installation Analysis
+
+Plan
+
+Briefing
+
+Heat Island Defined
+
+Sense of Congress
+
+Eliminating Use of Russian Energy
+
+Installation Energy Plans for Operating Bases.—
+
+Identification of installations
+
+Submittal of plans.—
+
+Main operating bases; feasibility assessment
+
+US european command operating bases
+
+Content of Plans
+
+Implementation of Plans.—
+
+Deadline for implementation
+
+Prioritization of certain projects
+
+Nonapplication of certain other authorities
+
+Policy for Future Bases
+
+Annual Congressional Briefings
+
+Limitation
+
+Definition of Operating Base
+
+Requirement
+
+Major Military Installation Defined
+
+Establishment of Initiative
+
+Selection of Projects
+
+Joint Program.—
+
+Establishment
+
+Memorandum of understanding
+
+Infrastructure
+
+Goals and metrics
+
+Selection of projects.—
+
+In general
+
+Priority
+
+In General
+
+Goals
+
+Locations
+
+Plan Required
+
+Briefings
+
+Management of the Operational Energy Capability Improvement Fund
+
+Alignment and Coordination With Related Programs.—
+
+Realignment of oecif
+
+Better coordination with related programs
+
+Program for Operational Energy Prototyping.—
+
+In general
+
+Operation of program
+
+Program elements
+
+Tool for accountability and transition.—
+
+In general
+
+Transition
+
+Locations.—
+
+In general
+
+Formal demonstrations
+
+Options To Improve Electrical Metering
+
+Metering Options
+
+Cybersecurity
+
+Consideration of Partnerships
+
+Definitions
+
+Implementation Report
+
+Pilot Program Authorized
+
+Goals of Pilot Program
+
+Pilot Program Locations
+
+Specifications of Diesel Generators and Microgrid.—
+
+Generator specifications
+
+Microgrid specifications
+
+Program Authorities
+
+Definitions
+
+In General
+
+Energy Optimization Initiatives
+
+Limitation on Certain Projects
+
+Limitation in Fiscal Year Pending Timely Report
+
+Annual Report.—
+
+In general
+
+Deadline for submittal
+
+Recommendation
+
+Sunset
+
+Prohibition on Use of Certain Energy Source
+
+Waiver for National Security Interests.—
+
+Waiver authority; certification
+
+Submission of waiver notice
+
+Definitions
+
+Authority
+
+Certification Requirement
+
+Definition of Energy Sources Inside Russia
+
+Guidance on Use of Available Financing Approaches
+
+Issuance
+
+Elements
+
+Guidance on Use of Business Case Analyses
+
+Information Sharing
+
+Consultation
+
+Energy Performance Master Plan
+
+Requirements for Energy Technologies and Processes
+
+Regulations and Guidance
+
+Report
+
+Definitions
+
+Policy required
+
+Notification
+
+Energy security defined
+
+Establishment of Training Policy
+
+Issuance of Policy
+
+Briefing Requirement
+
+Pilot Program
+
+Selection of Military Installation and National Laboratory
+
+Program Elements
+
+Implementation and Duration
+
+Reports.—
+
+Initial report
+
+Final report
+
+Definitions
+
+Plan for Energy Security Required.—
+
+In general
+
+Elements
+
+Work With Non-Department of Defense Entities
+
+Planning
+
+Capability Requirements Development Process.—
+
+in general
+
+Waiver of fuel efficiency key performance parameter.—
+
+In general
+
+Nondelegation
+
+Acquisition Process
+
+Implementation Plan
+
+Progress Report
+
+Notification of Compliance
+
+Fully Burdened Cost of Fuel Defined
+
+Risk Assessment
+
+Risk Mitigation Plans.—
+
+In general
+
+Additional considerations
+
+Construction and Alteration of Buildings
+
+Maintenance of Buildings
+
+Considerations
+
+Energy Star
+
+Significant Alterations
+
+Waiver Authority
+
+Effective Date
+
+“It shall be the policy of the Department of Defense to improve the fuel efficiency of weapons platforms, consistent with mission requirements, in order to—
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*(Added and amended [Pub. L. 109–364, div. B, title XXVIII](https://www.govinfo.gov/link/plaw/109/public/364), §§ 2851(a)(1), 2852, Oct. 17, 2006, [120 Stat. 2489](https://www.govinfo.gov/link/statute/120/2489), 2496; [Pub. L. 111–84, div. B, title XXVIII, § 2842](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2680](https://www.govinfo.gov/link/statute/123/2680); [Pub. L. 111–383, div. B, title XXVIII](https://www.govinfo.gov/link/plaw/111/public/383), §§ 2831, 2832(a), Jan. 7, 2011, [124 Stat. 4467](https://www.govinfo.gov/link/statute/124/4467), 4468; [Pub. L. 112–81, div. B, title XXVIII](https://www.govinfo.gov/link/plaw/112/public/81), §§ 2821(b)(1), 2822(b), 2823(a), 2824(a), 2825(b), Dec. 31, 2011, [125 Stat. 1691](https://www.govinfo.gov/link/statute/125/1691), 1692, 1694; [Pub. L. 115–91, div. A, title III, § 312](https://www.govinfo.gov/link/plaw/115/public/91), div. B, title XXVIII, § 2831(a), Dec. 12, 2017, [131 Stat. 1348](https://www.govinfo.gov/link/statute/131/1348), 1857; [Pub. L. 115–232, div. A, title III, § 312(a)](https://www.govinfo.gov/link/plaw/115/public/232), (b), Aug. 13, 2018, [132 Stat. 1709](https://www.govinfo.gov/link/statute/132/1709), 1710; [Pub. L. 116–92, div. A, title III, § 320(b)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1307](https://www.govinfo.gov/link/statute/133/1307); [Pub. L. 116–283, div. B, title XXVIII, § 2825(a)](https://www.govinfo.gov/link/plaw/116/public/283), (b)(1), Jan. 1, 2021, [134 Stat. 4333](https://www.govinfo.gov/link/statute/134/4333), 4334; [Pub. L. 117–81, div. A, title III, § 314(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1629](https://www.govinfo.gov/link/statute/135/1629); [Pub. L. 117–263, div. A, title III](https://www.govinfo.gov/link/plaw/117/public/263), §§ 315, 316, Dec. 23, 2022, [136 Stat. 2505](https://www.govinfo.gov/link/statute/136/2505); [Pub. L. 118–159, div. A, title XVII, § 1701(a)(32)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2205](https://www.govinfo.gov/link/statute/138/2205); [Pub. L. 119–60, div. A, title III, § 312(1)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 803](https://www.govinfo.gov/link/statute/139/803).)*

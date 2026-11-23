@@ -3,9 +3,10 @@ title: "Section 2291m - Program to provide assistance to build the capacity of f
 usc_title: 22
 usc_section: "2291m"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2291m"
-generated_at: "2026-03-30T02:55:05.354Z"
+generated_at: "2026-11-23T20:26:32.217Z"
+status: "active"
 ---
 
 # § 2291m. Program to provide assistance to build the capacity of foreign law enforcement agencies with respect to covered synthetic drugs
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.354Z"
   - **(3)** major drug-transit countries for covered synthetic drugs as defined by the Secretary of State.
 - **(d)** No assistance may be provided to the People’s Republic of China or to any of its law enforcement agencies pursuant to the program authorized by this section.
 - **(e)** There is authorized to be appropriated to the Secretary of State to carry out this section $4,000,000 for each of fiscal years 2023 through 2027.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. E, title LV, § 5553](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3341](https://www.govinfo.gov/link/statute/136/3341).)*

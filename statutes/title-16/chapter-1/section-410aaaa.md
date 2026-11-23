@@ -3,9 +3,10 @@ title: "Section 410aaaa - Fort Sumter and Fort Moultrie National Historical Park
 usc_title: 16
 usc_section: "410aaaa"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 410aaaa"
-generated_at: "2026-03-30T02:54:22.785Z"
+generated_at: "2026-11-23T20:26:19.811Z"
+status: "active"
 ---
 
 # § 410aaaa. Fort Sumter and Fort Moultrie National Historical Park
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:54:22.785Z"
       - **(iii)** the prisoners held at the forts; and
       - **(iv)** captive Africans bound for slavery who, after first landing in the United States, were brought to quarantine houses in the vicinity of Fort Moultrie in the 18th century, if the Secretary determines that the quarantine houses and associated historical values are nationally significant.
 - **(f)** The Secretary may enter into cooperative agreements with public and private entities and individuals to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 116–9, title II, § 2203](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 734](https://www.govinfo.gov/link/statute/133/734).)*

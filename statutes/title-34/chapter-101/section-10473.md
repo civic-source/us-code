@@ -3,9 +3,10 @@ title: "Section 10473 - Administration"
 usc_title: 34
 usc_section: "10473"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10473"
-generated_at: "2026-03-30T02:55:33.270Z"
+generated_at: "2026-11-23T20:26:50.476Z"
+status: "active"
 ---
 
 # § 10473. Administration
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:33.270Z"
   - **(7)** specify plans for obtaining necessary support and continuing the proposed program following the conclusion of Federal support;
   - **(8)** describe the methodology and outcome measures that will be used in evaluating the program; and
   - **(9)** certify that participating first time offenders without a history of a mental illness will receive a mental health evaluation.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 2203](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 106–515, § 3(a)](https://www.govinfo.gov/link/plaw/106/public/515), Nov. 13, 2000, [114 Stat. 2400](https://www.govinfo.gov/link/statute/114/2400).)*

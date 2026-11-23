@@ -3,9 +3,10 @@ title: "Section 10145 - Ready Reserve: placement in"
 usc_title: 10
 usc_section: "10145"
 chapter: 1005
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 10145"
-generated_at: "2026-03-30T02:53:38.264Z"
+generated_at: "2026-11-23T20:25:52.376Z"
+status: "active"
 ---
 
 # § 10145. Ready Reserve: placement in
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:38.264Z"
 - **(d)** Under such regulations as the Secretary concerned may prescribe, any qualified member of a reserve component or any qualified retired enlisted member of a regular component may, upon his request, be placed in the Ready Reserve. However, a member of the Retired Reserve entitled to retired pay or a retired enlisted member of a regular component may not be placed in the Ready Reserve unless the Secretary concerned makes a special finding that the member’s services in the Ready Reserve are indispensable. The authority of the Secretary concerned under the preceding sentence may not be delegated—
   - **(1)** to a civilian officer or employee of the military department concerned below the level of Assistant Secretary; or
   - **(2)** to a member of the armed forces below the level of the lieutenant general or vice admiral in an armed force with responsibility for military personnel policy in that armed force.
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1661(a)(1)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2973](https://www.govinfo.gov/link/statute/108/2973); amended [Pub. L. 108–136, div. A, title V, § 513](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1460](https://www.govinfo.gov/link/statute/117/1460).)*

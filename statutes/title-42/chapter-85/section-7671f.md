@@ -3,9 +3,10 @@ title: "Section 7671f - Exchange authority"
 usc_title: 42
 usc_section: "7671f"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7671f"
-generated_at: "2026-03-30T02:56:11.327Z"
+generated_at: "2026-11-23T20:27:22.967Z"
+status: "active"
 ---
 
 # § 7671f. Exchange authority
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.327Z"
   - **(2)** exceeds the production allowances transferred to the transferee, and
   - **(3)** would not have occurred in the absence of such transaction.
 - **(d)** The rules under this section shall also provide for the issuance of consumption allowances in accordance with the requirements of this subchapter and for the trading of such allowances in the same manner as is applicable under this section to the trading of production allowances under this section.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title VI, § 607, as added [Pub. L. 101–549, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2660](https://www.govinfo.gov/link/statute/104/2660).)*

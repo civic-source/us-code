@@ -3,9 +3,10 @@ title: "Section 3861 - Procurement system"
 usc_title: 22
 usc_section: "3861"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3861"
-generated_at: "2026-03-30T02:55:05.398Z"
+generated_at: "2026-11-23T20:26:32.478Z"
+status: "active"
 ---
 
 # § 3861. Procurement system
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:05.398Z"
     - **(C)** civil rights, environmental, or labor laws.
 - **(d)** In establishing the Regulation and developing the Supplement, the Commission shall consult with the Administrator for Federal Procurement Policy.
 - **(e)** The Regulation and the Supplement shall take effect on the date of publication in the Federal Register, or January 1, 1999 , whichever is earlier.
+
+## Source Credit
+
+*([Pub. L. 96–70, title III, § 3101](https://www.govinfo.gov/link/plaw/96/public/70), as added [Pub. L. 105–85, div. C, title XXXV, § 3541](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 2070](https://www.govinfo.gov/link/statute/111/2070).)*

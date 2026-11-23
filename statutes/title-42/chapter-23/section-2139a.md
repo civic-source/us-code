@@ -3,9 +3,10 @@ title: "Section 2139a - Regulations implementing requirements relating to licens
 usc_title: 42
 usc_section: "2139a"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2139a"
-generated_at: "2026-03-30T02:56:11.150Z"
+generated_at: "2026-11-23T20:27:22.072Z"
+status: "active"
 ---
 
 # § 2139a. Regulations implementing requirements relating to licensing for components and other parts of facilities
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:56:11.150Z"
 - **(a)** Omitted
 - **(b)** The Commission, not later than one hundred and twenty days after March 10, 1978 , shall publish regulations to implement the provisions of subsections (b) and (c) of section 2139 of this title . Among other things, these regulations shall provide for the prior consultation by the Commission with the Department of State, the Department of Energy, the Department of Defense, and the Department of Commerce.
 - **(c)** The President, within not more than one hundred and twenty days after March 10, 1978 , shall publish procedures regarding the control by the Department of Commerce over all export items, other than those licensed by the Commission, which could be, if used for purposes other than those for which the export is intended, of significance for nuclear explosive purposes. Among other things, these procedures shall provide for prior consultations by the Department of Commerce with the Department of State, the Commission, the Department of Energy, and the Department of Defense.
+
+## Source Credit
+
+*([Pub. L. 95–242, title III, § 309(b)](https://www.govinfo.gov/link/plaw/95/public/242), (c), Mar. 10, 1978, [92 Stat. 141](https://www.govinfo.gov/link/statute/92/141); [Pub. L. 103–236, title VII, § 714(b)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 498](https://www.govinfo.gov/link/statute/108/498); [Pub. L. 105–277, div. G, title XII, § 1225(e)(4)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–775](https://www.govinfo.gov/link/statute/112/2681).)*

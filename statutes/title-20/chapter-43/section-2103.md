@@ -3,9 +3,10 @@ title: "Section 2103 - American Folklife Center"
 usc_title: 20
 usc_section: "2103"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 2103"
-generated_at: "2026-03-30T02:54:48.171Z"
+generated_at: "2026-11-23T20:26:14.680Z"
+status: "active"
 ---
 
 # § 2103. American Folklife Center
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:54:48.171Z"
   - **(3)** The Board shall meet at least once each fiscal year.
 - **(f)** After consultation with the Board, the Librarian shall appoint the Director of the Center. The rate of basic pay of the Director shall be fixed in accordance with section 5376(b) of title 5 .
 - **(g)** The Director shall be the chief executive officer of the Center. Subject to the direction of the Board and the general supervision of the Librarian, the Director shall have responsibility for carrying out functions of the Center, and shall have authority over all personnel and activities of the Center.
+
+## Source Credit
+
+*([Pub. L. 94–201, § 4](https://www.govinfo.gov/link/plaw/94/public/201), Jan. 2, 1976, [89 Stat. 1130](https://www.govinfo.gov/link/statute/89/1130); [Pub. L. 95–259, § 2](https://www.govinfo.gov/link/plaw/95/public/259), Apr. 17, 1978, [92 Stat. 196](https://www.govinfo.gov/link/statute/92/196); [Pub. L. 105–275, title III, § 312(b)(1)](https://www.govinfo.gov/link/plaw/105/public/275), Oct. 21, 1998, [112 Stat. 2458](https://www.govinfo.gov/link/statute/112/2458); [Pub. L. 116–94, div. P, title XIV, § 1402](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3206](https://www.govinfo.gov/link/statute/133/3206).)*

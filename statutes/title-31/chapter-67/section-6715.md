@@ -3,9 +3,10 @@ title: "Section 6715 - Enforcement by the Attorney General of prohibitions on di
 usc_title: 31
 usc_section: "6715"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 6715"
-generated_at: "2026-03-30T02:55:34.075Z"
+generated_at: "2026-11-23T20:26:51.920Z"
+status: "active"
 ---
 
 # § 6715. Enforcement by the Attorney General of prohibitions on discrimination
@@ -15,3 +16,7 @@ The Attorney General may bring a civil action in an appropriate district court o
   - **(1)** a temporary restraining order;
   - **(2)** an injunction; or
   - **(3)** an appropriate order to ensure enjoyment of rights under section 6711(a) or (b), including an order suspending, terminating, or requiring repayment of, payments under this chapter or placing additional payments under this chapter in escrow pending the outcome of the action.
+
+## Source Credit
+
+*(Added [Pub. L. 103–322, title III, § 31001(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1877](https://www.govinfo.gov/link/statute/108/1877).)*

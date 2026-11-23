@@ -3,9 +3,10 @@ title: "Section 12474 - Collaborative grants to increase the long-term stability
 usc_title: 34
 usc_section: "12474"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12474"
-generated_at: "2026-03-30T02:55:33.288Z"
+generated_at: "2026-11-23T20:26:50.552Z"
+status: "active"
 ---
 
 # § 12474. Collaborative grants to increase the long-term stability of victims
@@ -52,3 +53,11 @@ generated_at: "2026-03-30T02:55:33.288Z"
   - **(1)** up to 5 percent of the funds appropriated under subsection (i) for each fiscal year may be used by the Secretary of Health and Human Services for evaluation, monitoring, and administration costs under this section; and
   - **(2)** up to 8 percent of the funds appropriated under subsection (i) for each fiscal year may be used to provide technical assistance to grantees under this section.
 - **(i)** There are authorized to be appropriated $4,000,000 for each of fiscal years 2023 through 2027 to carry out the provisions of this section.
+
+In general
+
+Activities, services, programs
+
+## Source Credit
+
+*([Pub. L. 103–322, title IV, § 41404](https://www.govinfo.gov/link/plaw/103/public/322), as added [Pub. L. 109–162, title VI, § 601](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3033](https://www.govinfo.gov/link/statute/119/3033); amended [Pub. L. 109–271, § 5(a)](https://www.govinfo.gov/link/plaw/109/public/271), Aug. 12, 2006, [120 Stat. 759](https://www.govinfo.gov/link/statute/120/759); [Pub. L. 113–4, title VI, § 603(1)](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 110](https://www.govinfo.gov/link/statute/127/110); [Pub. L. 117–103, div. W, title VI, § 605(b)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 886](https://www.govinfo.gov/link/statute/136/886).)*

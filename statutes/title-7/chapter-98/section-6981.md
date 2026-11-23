@@ -3,9 +3,10 @@ title: "Section 6981 - Under Secretary of Agriculture for Food Safety"
 usc_title: 7
 usc_section: "6981"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6981"
-generated_at: "2026-03-30T02:53:42.441Z"
+generated_at: "2026-11-23T20:25:41.745Z"
+status: "active"
 ---
 
 # § 6981. Under Secretary of Agriculture for Food Safety
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:42.441Z"
 - **(d)** The Secretary, acting through the Under Secretary for Research, Education, and Economics, may, without regard to the provisions of title 5 governing appointment in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates—
   - **(1)** establish such technical and scientific review groups as are needed to carry out the functions of the Department; and
   - **(2)** appoint and pay the members of the groups, except that officers and employees of the United States shall not receive additional compensation for service as a member of a group.
+
+## Source Credit
+
+*([Pub. L. 103–354, title II, § 261](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3227](https://www.govinfo.gov/link/statute/108/3227).)*

@@ -3,9 +3,10 @@ title: "Section 32705 - Disclosure requirements on transfer of motor vehicles"
 usc_title: 49
 usc_section: "32705"
 chapter: 327
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 32705"
-generated_at: "2026-03-30T02:56:19.364Z"
+generated_at: "2026-11-23T20:27:34.995Z"
+status: "active"
 ---
 
 # § 32705. Disclosure requirements on transfer of motor vehicles
@@ -64,3 +65,128 @@ generated_at: "2026-03-30T02:56:19.364Z"
       - **(ii)** the requirements of a State law under section 7002(a) of title 15 ; 1 and
     - **(B)** the disclosures or notices otherwise meet the requirements under this section, including appropriate authentication and security measures.
   - **(3)** Paragraph (2) ceases to be effective on the date the regulations under paragraph (1) become effective.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 32705(a) | 15:1988(a). | Oct. 20, 1972 , Pub. L. 92–513, § 408(a) , 86 Stat. 962 . |
+|  | 15:1988(b) (related to false statements). | Oct. 20, 1972 , Pub. L. 92–513, § 408(b) (related to false statements), 86 Stat. 963 ; restated July 14, 1976 , Pub. L. 94–364, § 406 , 90 Stat. 983 . |
+|  | 15:1988(c). | Oct. 20, 1972 , Pub. L. 92–513, § 408(c) , 86 Stat. 963 ; restated July 14, 1976 , Pub. L. 94–364, § 406 , 90 Stat. 984 . |
+| 32705(b)(1) | 15:1988(d)(1)(A), (B). | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , § 408(d)(1)(A), (B), (2)–(g); added Oct. 28, 1986 , Pub. L. 99–579, § 2(a) , 100 Stat. 3309 . |
+| 32705(b)(2) | 15:1988(d)(1)(C). | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , § 408(d)(1)(C); added Oct. 31, 1988 , Pub. L. 100–561, § 401 , 102 Stat. 2817 ; Nov. 28, 1990 , Pub. L. 101–641, § 7(a) , 104 Stat. 4657 . |
+|  | 15:1988 (note). | Nov. 28, 1990 , Pub. L. 101–641, § 7(b) (last sentence), 104 Stat. 4657 . |
+| 32705(b)(3) | 15:1988(d)(2). |  |
+| 32705(c) | 15:1988(e). |  |
+| 32705(d) | 15:1988(f). |  |
+| 32705(e) | 15:1988(g). |  |
+| 32705(f) | 15:1988 (note). | Oct. 28, 1986 , Pub. L. 99–579, § 2(c) , 100 Stat. 3310 . |
+
+
+Disclosure Requirements
+
+Mileage Statement Requirement for Licensing
+
+Leased Motor Vehicles
+
+State Alternate Vehicle Mileage Disclosure Requirements
+
+Auction Sales
+
+Application and Revision of State Law
+
+Electronic Disclosures.—
+
+Historical and Revision Notes
+
+Pub. L
+
+32705(a)
+
+Oct. 20, 1972
+
+Pub. L. 92–513, § 408(a)
+
+86 Stat. 962
+
+Oct. 20, 1972
+
+Pub. L. 92–513, § 408(b)
+
+86 Stat. 963
+
+July 14, 1976
+
+Pub. L. 94–364, § 406
+
+90 Stat. 983
+
+Oct. 20, 1972
+
+Pub. L. 92–513, § 408(c)
+
+86 Stat. 963
+
+July 14, 1976
+
+Pub. L. 94–364, § 406
+
+90 Stat. 984
+
+32705(b)(1)
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+Oct. 28, 1986
+
+Pub. L. 99–579, § 2(a)
+
+100 Stat. 3309
+
+32705(b)(2)
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+Oct. 31, 1988
+
+Pub. L. 100–561, § 401
+
+102 Stat. 2817
+
+Nov. 28, 1990
+
+Pub. L. 101–641, § 7(a)
+
+104 Stat. 4657
+
+Nov. 28, 1990
+
+Pub. L. 101–641, § 7(b)
+
+104 Stat. 4657
+
+32705(b)(3)
+
+32705(c)
+
+32705(d)
+
+32705(e)
+
+32705(f)
+
+Oct. 28, 1986
+
+Pub. L. 99–579, § 2(c)
+
+100 Stat. 3310
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1049](https://www.govinfo.gov/link/statute/108/1049); [Pub. L. 103–429, § 6(34)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4380](https://www.govinfo.gov/link/statute/108/4380); [Pub. L. 104–287, § 5(62)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3394](https://www.govinfo.gov/link/statute/110/3394); [Pub. L. 105–178, title VII, § 7105](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 467](https://www.govinfo.gov/link/statute/112/467); [Pub. L. 112–141, div. C, title I, § 31205(b)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 761](https://www.govinfo.gov/link/statute/126/761); [Pub. L. 114–94, div. B, title XXIV, § 24111](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1709](https://www.govinfo.gov/link/statute/129/1709).)*

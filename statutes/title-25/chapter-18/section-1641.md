@@ -3,9 +3,10 @@ title: "Section 1641 - Treatment of payments under Social Security Act health be
 usc_title: 25
 usc_section: "1641"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1641"
-generated_at: "2026-03-30T02:54:52.823Z"
+generated_at: "2026-11-23T20:26:25.498Z"
+status: "active"
 ---
 
 # § 1641. Treatment of payments under Social Security Act health benefits programs
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:52.823Z"
   - **(4)** A tribal health program that bills directly under the program established under this subsection may withdraw from participation in the same manner and under the same conditions that an Indian tribe or tribal organization may retrocede a contracted program to the Secretary under the authority of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.). 2 2 See References in Text note below. All cost accounting and billing authority under the program established under this subsection shall be returned to the Secretary upon the Secretary’s acceptance of the withdrawal of participation in this program.
   - **(5)** The Secretary may terminate the participation of a tribal health program or 3 3 So in original. The word “or” probably should not appear. in the direct billing program established under this subsection if the Secretary determines that the program has failed to comply with the requirements of paragraph (2). The Secretary shall provide a tribal health program with notice of a determination that the program has failed to comply with any such requirement and a reasonable opportunity to correct such noncompliance prior to terminating the program’s participation in the direct billing program established under this subsection.
 - **(e)** For provisions related to subsections (c) and (d), see sections 1880, 1911, and 2107(e)(1)(D) 2 of the Social Security Act [ 42 U.S.C. 1395qq , 1396j, 1397gg(e)(1)(D)].
+
+## Source Credit
+
+*([Pub. L. 94–437, title IV, § 401](https://www.govinfo.gov/link/plaw/94/public/437), Sept. 30, 1976, [90 Stat. 1408](https://www.govinfo.gov/link/statute/90/1408); [Pub. L. 102–573, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/102/public/573), Oct. 29, 1992, [106 Stat. 4565](https://www.govinfo.gov/link/statute/106/4565); [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

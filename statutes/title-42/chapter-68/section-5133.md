@@ -3,9 +3,10 @@ title: "Section 5133 - Predisaster hazard mitigation"
 usc_title: 42
 usc_section: "5133"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5133"
-generated_at: "2026-03-30T02:56:11.219Z"
+generated_at: "2026-11-23T20:27:22.467Z"
+status: "active"
 ---
 
 # § 5133. Predisaster hazard mitigation
@@ -76,3 +77,17 @@ generated_at: "2026-03-30T02:56:11.219Z"
   - **(1)** In this subsection, the term “congressionally directed spending” means a statutory provision or report language included primarily at the request of a Senator or a Member, Delegate or Resident Commissioner of the House of Representatives providing, authorizing, or recommending a specific amount of discretionary budget authority, credit authority, or other spending authority for a contract, loan, loan guarantee, grant, loan authority, or other expenditure with or to an entity, or targeted to a specific State, locality, or Congressional district, other than through a statutory or administrative formula-driven or competitive award process.
   - **(2)** None of the funds appropriated or otherwise made available to carry out this section may be used for congressionally directed spending.
   - **(3)** The Administrator of the Federal Emergency Management Agency shall submit to Congress a certification regarding whether all financial assistance under this section was awarded in accordance with this section.
+
+“Congress finds the following:
+
+Findings
+
+Purpose
+
+Definitions
+
+Red Flag Warnings and Predisaster Actions
+
+## Source Credit
+
+*([Pub. L. 93–288, title II, § 203](https://www.govinfo.gov/link/plaw/93/public/288), as added [Pub. L. 106–390, title I, § 102(a)](https://www.govinfo.gov/link/plaw/106/public/390), Oct. 30, 2000, [114 Stat. 1553](https://www.govinfo.gov/link/statute/114/1553); amended [Pub. L. 108–199, div. H, § 135](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 441](https://www.govinfo.gov/link/statute/118/441); [Pub. L. 108–447, div. J, title I, § 105](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3343](https://www.govinfo.gov/link/statute/118/3343); [Pub. L. 109–139, § 2](https://www.govinfo.gov/link/plaw/109/public/139), Dec. 22, 2005, [119 Stat. 2649](https://www.govinfo.gov/link/statute/119/2649); [Pub. L. 110–329, div. D, title V, § 553](https://www.govinfo.gov/link/plaw/110/public/329), Sept. 30, 2008, [122 Stat. 3690](https://www.govinfo.gov/link/statute/122/3690); [Pub. L. 111–83, title V, § 543](https://www.govinfo.gov/link/plaw/111/public/83), Oct. 28, 2009, [123 Stat. 2176](https://www.govinfo.gov/link/statute/123/2176); [Pub. L. 111–351](https://www.govinfo.gov/link/plaw/111/public/351), §§ 3(a), (b), 4, Jan. 4, 2011, [124 Stat. 3864](https://www.govinfo.gov/link/statute/124/3864); [Pub. L. 115–254, div. D, § 1234(a)](https://www.govinfo.gov/link/plaw/115/public/254), (d), Oct. 5, 2018, [132 Stat. 3461](https://www.govinfo.gov/link/statute/132/3461), 3463.)*

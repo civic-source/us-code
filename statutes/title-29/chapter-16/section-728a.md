@@ -3,9 +3,10 @@ title: "Section 728a - Training and services for employers"
 usc_title: 29
 usc_section: "728a"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 728a"
-generated_at: "2026-03-30T02:55:18.693Z"
+generated_at: "2026-11-23T20:26:37.854Z"
+status: "active"
 ---
 
 # § 728a. Training and services for employers
@@ -20,3 +21,7 @@ A State may expend payments received under section 731 of this title to educate 
     - **(D)** promote awareness of disability-related obstacles to continued employment;
   - **(3)** providing consultation, technical assistance, and support to employers on workplace accommodations, assistive technology, and facilities and workplace access through collaboration with community partners and employers, across States and nationally, to enable the employers to recruit, job match, hire, and retain qualified individuals with disabilities who are recipients of vocational rehabilitation services under this subchapter, or who are applicants for such services; and
   - **(4)** assisting employers with utilizing available financial support for hiring or accommodating individuals with disabilities.
+
+## Source Credit
+
+*([Pub. L. 93–112, title I, § 109](https://www.govinfo.gov/link/plaw/93/public/112), as added [Pub. L. 105–220, title IV, § 404](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1160](https://www.govinfo.gov/link/statute/112/1160); amended [Pub. L. 113–128, title IV, § 418](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1655](https://www.govinfo.gov/link/statute/128/1655).)*

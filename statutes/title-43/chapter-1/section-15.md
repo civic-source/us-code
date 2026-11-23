@@ -3,12 +3,17 @@ title: "Section 15 - Issuance and signing of patents by Secretary of the Interio
 usc_title: 43
 usc_section: "15"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 15"
-generated_at: "2026-03-30T02:55:57.432Z"
+generated_at: "2026-11-23T20:27:06.148Z"
+status: "active"
 ---
 
 # § 15. Issuance and signing of patents by Secretary of the Interior; delegation of authority; notice
 
 All patents for public lands shall be issued and signed by the Secretary of the Interior in the name of the United States: Provided , That the Secretary may delegate his authority under this section to officers or employees of the Department of the Interior, but notice of any such delegation shall be given by publication in the Federal Register.
 
+
+## Source Credit
+
+*(June 17, 1948, ch. 496, § 1, [62 Stat. 476](https://www.govinfo.gov/link/statute/62/476).)*

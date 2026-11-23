@@ -3,9 +3,10 @@ title: "Section 697d - Accredited Lenders Program"
 usc_title: 15
 usc_section: "697d"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 697d"
-generated_at: "2026-03-30T02:54:08.114Z"
+generated_at: "2026-11-23T20:26:03.881Z"
+status: "active"
 ---
 
 # § 697d. Accredited Lenders Program
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:08.114Z"
     - **(B)** the development company has failed to adhere to the Administration’s rules and regulations or is violating any other applicable provision of law.
   - **(2)** A suspension or revocation under paragraph (1) shall not affect any outstanding debenture guarantee.
 - **(e)** In this section, the term “qualified State or local development company” has the meaning given the term in section 697(e) of this title .
+
+## Source Credit
+
+*([Pub. L. 85–699, title V, § 507](https://www.govinfo.gov/link/plaw/85/public/699), as added [Pub. L. 103–403, title II, § 212(a)](https://www.govinfo.gov/link/plaw/103/public/403), Oct. 22, 1994, [108 Stat. 4183](https://www.govinfo.gov/link/statute/108/4183); amended [Pub. L. 116–260, div. N, title III, § 328(b)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2040](https://www.govinfo.gov/link/statute/134/2040).)*

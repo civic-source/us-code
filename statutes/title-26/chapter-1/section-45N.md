@@ -3,9 +3,10 @@ title: "Section 45N - Mine rescue team training credit"
 usc_title: 26
 usc_section: "45N"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 45N"
-generated_at: "2026-03-30T02:55:27.603Z"
+generated_at: "2026-11-23T20:26:45.221Z"
+status: "active"
 ---
 
 # § 45N. Mine rescue team training credit
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:27.603Z"
 - **(c)** For purposes of this section, the term “eligible employer” means any taxpayer which employs individuals as miners in underground mines in the United States.
 - **(d)** For purposes of this section, the term “wages” has the meaning given to such term by subsection (b) of section 3306 (determined without regard to any dollar limitation contained in such section).
 - **(e)** This section shall not apply to taxable years beginning after December 31, 2021 .
+
+## Source Credit
+
+*(Added [Pub. L. 109–432, div. A, title IV, § 405(a)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 2957](https://www.govinfo.gov/link/statute/120/2957); amended [Pub. L. 110–343, div. C, title III, § 310](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3869](https://www.govinfo.gov/link/statute/122/3869); [Pub. L. 111–312, title VII, § 735(a)](https://www.govinfo.gov/link/plaw/111/public/312), Dec. 17, 2010, [124 Stat. 3318](https://www.govinfo.gov/link/statute/124/3318); [Pub. L. 112–240, title III, § 307(a)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2329](https://www.govinfo.gov/link/statute/126/2329); [Pub. L. 113–295, div. A, title I, § 117(a)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4015](https://www.govinfo.gov/link/statute/128/4015); [Pub. L. 114–113, div. Q, title I, § 163(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3066](https://www.govinfo.gov/link/statute/129/3066); [Pub. L. 115–123, div. D, title I, § 40303(a)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 146](https://www.govinfo.gov/link/statute/132/146); [Pub. L. 116–94, div. Q, title I, § 113(a)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3229](https://www.govinfo.gov/link/statute/133/3229); [Pub. L. 116–260, div. EE, title I, § 136(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3053](https://www.govinfo.gov/link/statute/134/3053).)*

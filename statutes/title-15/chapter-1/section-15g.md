@@ -3,9 +3,10 @@ title: "Section 15g - Definitions"
 usc_title: 15
 usc_section: "15g"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 15g"
-generated_at: "2026-03-30T02:54:08.021Z"
+generated_at: "2026-11-23T20:26:03.364Z"
+status: "active"
 ---
 
 # § 15g. Definitions
@@ -17,3 +18,7 @@ For the purposes of sections 15c, 15d, 15e, and 15f of this title:
     - **(B)** any other contingency fee basis, unless the amount of the award of a reasonable attorney’s fee to a prevailing plaintiff is determined by the court under section 15c(d)(1) of this title .
   - **(2)** The term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, and any other territory or possession of the United States.
   - **(3)** The term “natural persons” does not include proprietorships or partnerships.
+
+## Source Credit
+
+*(Oct. 15, 1914, ch. 323, § 4G, as added [Pub. L. 94–435, title III, § 301](https://www.govinfo.gov/link/plaw/94/public/435), Sept. 30, 1976, [90 Stat. 1396](https://www.govinfo.gov/link/statute/90/1396).)*

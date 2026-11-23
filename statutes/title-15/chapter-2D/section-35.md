@@ -3,9 +3,10 @@ title: "Section 35 - Breach of fiduciary duty"
 usc_title: 15
 usc_section: "35"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 35"
-generated_at: "2026-03-30T02:54:08.069Z"
+generated_at: "2026-11-23T20:26:03.611Z"
+status: "active"
 ---
 
 # § 80a–35. Breach of fiduciary duty
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:08.069Z"
   - **(5)** Any action pursuant to this subsection may be brought only in an appropriate district court of the United States.
   - **(6)** No finding by a court with respect to a breach of fiduciary duty under this subsection shall be made a basis (A) for a finding of a violation of this subchapter for the purposes of sections 80a–9 and 80a–48 of this title, section 78 o of this title, or section 80b–3 of this title , or (B) for an injunction to prohibit any person from serving in any of the capacities enumerated in subsection (a) of this section.
 - **(c)** For the purposes of subsections (a) and (b) of this section, the term “investment adviser” includes a corporate or other trustee performing the functions of an investment adviser.
+
+## Source Credit
+
+*(Aug. 22, 1940, ch. 686, title I, § 36, [54 Stat. 841](https://www.govinfo.gov/link/statute/54/841); [Pub. L. 91–547, § 20](https://www.govinfo.gov/link/plaw/91/public/547), Dec. 14, 1970, [84 Stat. 1428](https://www.govinfo.gov/link/statute/84/1428); [Pub. L. 94–29, § 28(7)](https://www.govinfo.gov/link/plaw/94/public/29), June 4, 1975, [89 Stat. 166](https://www.govinfo.gov/link/statute/89/166); [Pub. L. 100–181, title VI, § 622](https://www.govinfo.gov/link/plaw/100/public/181), Dec. 4, 1987, [101 Stat. 1262](https://www.govinfo.gov/link/statute/101/1262); [Pub. L. 111–203, title IX, § 929F(f)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1854](https://www.govinfo.gov/link/statute/124/1854).)*

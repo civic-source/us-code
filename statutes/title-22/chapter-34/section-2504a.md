@@ -3,9 +3,10 @@ title: "Section 2504a - Health care for volunteers at Peace Corps posts"
 usc_title: 22
 usc_section: "2504a"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2504a"
-generated_at: "2026-03-30T02:55:05.370Z"
+generated_at: "2026-11-23T20:26:32.314Z"
+status: "active"
 ---
 
 # § 2504a. Health care for volunteers at Peace Corps posts
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:05.370Z"
     - **(B)** ensure that medical staff complete the necessary continuing medical education to maintain their skills and satisfy licensing and credentialing standards, as designated by the Director.
   - **(2)** The Director of the Peace Corps shall include, in the annual Peace Corps congressional budget justification, a confirmation that the review and evaluation of all Peace Corps medical staff required under paragraph (1) has been completed.
 - **(e)** The Director of the Peace Corps shall consult with experts at the Centers for Disease Control and Prevention regarding recommendations for prescribing malaria prophylaxis, in order to provide the best standard of care within the context of the Peace Corps environment.
+
+## Source Credit
+
+*([Pub. L. 87–293, title I, § 5A](https://www.govinfo.gov/link/plaw/87/public/293), as added [Pub. L. 115–256, title I, § 101(a)(2)](https://www.govinfo.gov/link/plaw/115/public/256), Oct. 9, 2018, [132 Stat. 3651](https://www.govinfo.gov/link/statute/132/3651).)*

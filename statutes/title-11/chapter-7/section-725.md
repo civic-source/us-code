@@ -3,12 +3,17 @@ title: "Section 725 - Disposition of certain property"
 usc_title: 11
 usc_section: "725"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 725"
-generated_at: "2026-03-30T02:53:53.881Z"
+generated_at: "2026-11-23T20:25:55.383Z"
+status: "active"
 ---
 
 # § 725. Disposition of certain property
 
 After the commencement of a case under this chapter, but before final distribution of property of the estate under section 726 of this title , the trustee, after notice and a hearing, shall dispose of any property in which an entity other than the estate has an interest, such as a lien, and that has not been disposed of under another section of this title.
 
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2607](https://www.govinfo.gov/link/statute/92/2607); [Pub. L. 98–353, title III, § 478](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 381](https://www.govinfo.gov/link/statute/98/381).)*

@@ -3,12 +3,17 @@ title: "Section 1747d - Excess earnings used for amortization of original invest
 usc_title: 12
 usc_section: "1747d"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1747d"
-generated_at: "2026-03-30T02:53:53.431Z"
+generated_at: "2026-11-23T20:25:59.033Z"
+status: "active"
 ---
 
 # § 1747d. Excess earnings used for amortization of original investment
 
 For all of the purposes of any insurance contract made pursuant to this subchapter, 50 per centum of the excess earnings, if any, for any operating year may be applied, in addition to the minimum annual return, to return on the outstanding investment but only to the extent that such application thereof does not result in an annual return of more than 5 per centum of the outstanding investment for such operating year, and the balance of any such excess earnings shall be applied, in addition to the minimum annual amortization charge, to amortization of the outstanding investment: Provided , That if in any preceding operating years the gross income shall have been less than the operating expenses, such excess earnings shall be applied to the extent necessary in whole or in part, first, to the reimbursement of the amount of the difference between such expenses (exclusive of any premium charges previously waived hereunder) and such income, and, second, to the payment of any premium charges previously waived hereunder.
 
+
+## Source Credit
+
+*(June 27, 1934, ch. 847, title VII, § 705, as added Aug. 10, 1948, ch. 832, title IV, § 401, [62 Stat. 1277](https://www.govinfo.gov/link/statute/62/1277).)*

@@ -3,9 +3,10 @@ title: "Section 40304 - Grants or contracts"
 usc_title: 51
 usc_section: "40304"
 chapter: 403
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 40304"
-generated_at: "2026-03-30T02:56:28.706Z"
+generated_at: "2026-11-23T20:27:37.480Z"
+status: "active"
 ---
 
 # § 40304. Grants or contracts
@@ -24,3 +25,40 @@ generated_at: "2026-03-30T02:56:28.706Z"
     - **(C)** the purchase or construction of any launch facility or launch vehicle.
   - **(3)** Notwithstanding paragraph (2), the items in subparagraphs (A), (B), and (C) of such paragraph may be leased upon written approval of the Administrator.
   - **(4)** Any person that receives or utilizes any proceeds of any grant or contract under this section shall keep such records as the Administrator shall by regulation prescribe as being necessary and appropriate to facilitate effective audit and evaluation, including records which fully disclose the amount and disposition by such recipient of such proceeds, the total cost of the program or project in connection with which such proceeds were used, and the amount, if any, of such cost which was provided through other sources. Such records shall be maintained for 3 years after the completion of such a program or project. The Administrator and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access, for the purpose of audit and evaluation, to any books, documents, papers, and records of receipts which, in the opinion of the Administrator or the Comptroller General, may be related or pertinent to such grants and contracts.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 40304 | 42 U.S.C. 2486d . | Pub. L. 100–147, title II, § 206 , Oct. 30, 1987 , 101 Stat. 872 . |
+
+
+Authority of Administrator
+
+Special Grants
+
+Application
+
+Terms and Conditions.—
+
+In general
+
+Limitations
+
+Leases
+
+Records
+
+Historical and Revision Notes
+
+40304
+
+42 U.S.C. 2486d
+
+Pub. L. 100–147, title II, § 206
+
+Oct. 30, 1987
+
+101 Stat. 872
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3384](https://www.govinfo.gov/link/statute/124/3384).)*

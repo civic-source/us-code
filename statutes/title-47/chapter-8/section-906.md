@@ -3,9 +3,10 @@ title: "Section 906 - Wireless supply chain innovation and multilateral security
 usc_title: 47
 usc_section: "906"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 906"
-generated_at: "2026-03-30T02:56:24.527Z"
+generated_at: "2026-11-23T20:27:28.968Z"
+status: "active"
 ---
 
 # § 906. Wireless supply chain innovation and multilateral security
@@ -96,3 +97,27 @@ generated_at: "2026-03-30T02:56:24.527Z"
     - **(K)** the Committee on Energy and Commerce of the House of Representatives; and
     - **(L)** the Committee on Appropriations of the House of Representatives.
   - **(7)** The term “Secretary” means the Secretary of Commerce.
+
+(aa) the Commission;
+
+(bb) the Department of Defense;
+
+(cc) the Intelligence Advanced Research Projects Activity of the Office of the Director of National Intelligence;
+
+(dd) the National Institute of Standards and Technology;
+
+(ee) the Department of State;
+
+(ff) the National Science Foundation;
+
+(gg) the Department of Homeland Security; and
+
+(hh) the National Telecommunications and Information Administration; and
+
+(aa) shall remain available through the end of the tenth fiscal year beginning after the date of appropriation; and
+
+(bb) may only be allocated upon the Secretary of State reaching an arrangement or agreement with foreign government partners to participate in the common funding mechanism described in subparagraph (B).
+
+## Source Credit
+
+*([Pub. L. 116–283, div. H, title XCII, § 9202](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4788](https://www.govinfo.gov/link/statute/134/4788); [Pub. L. 117–167, div. A, § 105(b)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1392](https://www.govinfo.gov/link/statute/136/1392); [Pub. L. 118–31, div. F, title LXVII, § 6707(b)(1)(A)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1018](https://www.govinfo.gov/link/statute/137/1018).)*

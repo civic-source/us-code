@@ -3,9 +3,10 @@ title: "Section 6131 - Criteria and review"
 usc_title: 5
 usc_section: "6131"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 6131"
-generated_at: "2026-03-30T02:52:56.029Z"
+generated_at: "2026-11-23T20:25:32.020Z"
+status: "active"
 ---
 
 # § 6131. Criteria and review
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:52:56.029Z"
       - **(i)** the agreement covering such schedule is renegotiated or expires or terminates pursuant to the terms of that agreement; or
       - **(ii)** the date of the Panel’s final decision, if an impasse arose in the reopening of the agreement under subparagraph (A) of this paragraph.
 - **(d)** This section shall not apply with respect to flexible schedules that may be established without regard to the authority provided under this subchapter.
+
+## Source Credit
+
+*(Added [Pub. L. 97–221, § 2(a)(2)](https://www.govinfo.gov/link/plaw/97/public/221), July 23, 1982, [96 Stat. 231](https://www.govinfo.gov/link/statute/96/231).)*

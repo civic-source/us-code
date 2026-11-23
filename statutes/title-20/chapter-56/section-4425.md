@@ -3,9 +3,10 @@ title: "Section 4425 - Endowment programs"
 usc_title: 20
 usc_section: "4425"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 4425"
-generated_at: "2026-03-30T02:54:48.184Z"
+generated_at: "2026-11-23T20:26:14.768Z"
+status: "active"
 ---
 
 # § 4425. Endowment programs
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:48.184Z"
   - **(2)** No part of the net earnings of the trust funds established under this section shall inure to the benefit of any private person.
   - **(3)** Any amounts deposited in a trust fund authorized under subsection (a) may be used to secure loans procured for the purposes of constructing or improving Institute facilities.
   - **(4)** The President of the Institute shall provide for such other provisions governing the trust funds established under this section as may be necessary to protect the financial interest of the United States and to promote the purpose of this chapter as agreed to by the Secretary of the Treasury and the Board or its designee, including recordkeeping procedures for the investment of funds received under the trust fund established under subsection (b) and such other recordkeeping procedures for the expenditure of accumulated interest for the trust fund under subsection (a) as will allow the Secretary of the Treasury to audit and monitor activities under this section.
+
+## Source Credit
+
+*([Pub. L. 99–498, title XV, § 1518](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1609](https://www.govinfo.gov/link/statute/100/1609); [Pub. L. 100–297, title V, § 5406(b)](https://www.govinfo.gov/link/plaw/100/public/297), Apr. 28, 1988, [102 Stat. 417](https://www.govinfo.gov/link/statute/102/417); [Pub. L. 101–644, title V, § 505](https://www.govinfo.gov/link/plaw/101/public/644), Nov. 29, 1990, [104 Stat. 4669](https://www.govinfo.gov/link/statute/104/4669); [Pub. L. 102–325, title XIII, § 1331(j)](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 808](https://www.govinfo.gov/link/statute/106/808); [Pub. L. 103–382, title III, § 386(b)](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 4020](https://www.govinfo.gov/link/statute/108/4020).)*

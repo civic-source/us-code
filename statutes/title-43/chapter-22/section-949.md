@@ -3,12 +3,17 @@ title: "Section 949 - Use for canal or ditch only"
 usc_title: 43
 usc_section: "949"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 949"
-generated_at: "2026-03-30T02:55:57.466Z"
+generated_at: "2026-11-23T20:27:06.266Z"
+status: "active"
 ---
 
 # § 949. Use for canal or ditch only
 
 Nothing in sections 946 to 949 of this title shall authorize such canal or ditch company to occupy such right of way except for the purpose of said canal or ditch, and then only so far as may be necessary for the construction, maintenance, and care of said canal or ditch.
 
+
+## Source Credit
+
+*(Mar. 3, 1891, ch. 561, § 21, [26 Stat. 1102](https://www.govinfo.gov/link/statute/26/1102).)*

@@ -3,9 +3,10 @@ title: "Section 460kkk - Boston Harbor Islands National Recreation Area"
 usc_title: 16
 usc_section: "460kkk"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 460kkk"
-generated_at: "2026-03-30T02:54:22.840Z"
+generated_at: "2026-11-23T20:26:20.013Z"
+status: "active"
 ---
 
 # § 460kkk. Boston Harbor Islands National Recreation Area
@@ -107,3 +108,7 @@ generated_at: "2026-03-30T02:54:22.840Z"
 - **(h)**
   - **(1)** There are authorized to be appropriated such sums as may be necessary to carry out this section, provided that no funds may be appropriated for land acquisition.
   - **(2)** Amounts appropriated in any fiscal year to carry out this section may only be expended on a matching basis in a ratio of at least three non-Federal dollars to every Federal dollar. The non-Federal share of the match may be in the form of cash, services, or in-kind contributions, fairly valued.
+
+## Source Credit
+
+*([Pub. L. 104–333, div. I, title X, § 1029](https://www.govinfo.gov/link/plaw/104/public/333), Nov. 12, 1996, [110 Stat. 4232](https://www.govinfo.gov/link/statute/110/4232); [Pub. L. 105–355, title V, § 513](https://www.govinfo.gov/link/plaw/105/public/355), Nov. 6, 1998, [112 Stat. 3266](https://www.govinfo.gov/link/statute/112/3266); [Pub. L. 106–176, title I, § 126](https://www.govinfo.gov/link/plaw/106/public/176), Mar. 10, 2000, [114 Stat. 30](https://www.govinfo.gov/link/statute/114/30); [Pub. L. 108–352, § 12](https://www.govinfo.gov/link/plaw/108/public/352), Oct. 21, 2004, [118 Stat. 1397](https://www.govinfo.gov/link/statute/118/1397); [Pub. L. 109–241, title IX, § 902(h)(1)](https://www.govinfo.gov/link/plaw/109/public/241), July 11, 2006, [120 Stat. 567](https://www.govinfo.gov/link/statute/120/567); [Pub. L. 111–11, title VII, § 7109](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1197](https://www.govinfo.gov/link/statute/123/1197); [Pub. L. 111–281, title IX, § 903(a)(8)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 3010](https://www.govinfo.gov/link/statute/124/3010); [Pub. L. 117–286, § 4(a)(93)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4316](https://www.govinfo.gov/link/statute/136/4316).)*

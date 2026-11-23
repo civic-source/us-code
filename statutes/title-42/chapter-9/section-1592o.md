@@ -3,12 +3,17 @@ title: "Section 1592o - Powers of Surgeon General of Public Health Service"
 usc_title: 42
 usc_section: "1592o"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1592o"
-generated_at: "2026-03-30T02:56:11.106Z"
+generated_at: "2026-11-23T20:27:21.833Z"
+status: "active"
 ---
 
 # § 1592o. Powers of Surgeon General of Public Health Service
 
 Notwithstanding any other provision of this subchapter, all functions, powers, and duties under this subchapter and section 1591b of this title with respect to health, refuse disposal, sewage treatment, and water purification shall be exercised by and vested in the Surgeon General of the Public Health Service: Provided , That the Surgeon General shall have power to delegate to any other Federal agency functions, powers, and duties with respect to construction.
 
+
+## Source Credit
+
+*(Sept. 1, 1951, ch. 378, title III, § 316, [65 Stat. 310](https://www.govinfo.gov/link/statute/65/310).)*

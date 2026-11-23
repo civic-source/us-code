@@ -3,9 +3,10 @@ title: "Section 8005 - Eligibility for services"
 usc_title: 42
 usc_section: "8005"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8005"
-generated_at: "2026-03-30T02:56:11.332Z"
+generated_at: "2026-11-23T20:27:22.989Z"
+status: "active"
 ---
 
 # § 8005. Eligibility for services
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.332Z"
 - **(b)** Other residents may participate in a congregate meal service program assisted under this chapter if the local public housing agency or nonprofit corporation determines that the participation of these individuals will not adversely affect the cost-effectiveness or operation of the program.
 - **(c)** Any public housing agency or nonprofit corporation receiving assistance under this chapter shall notify the Secretary of any change in the membership of the professional assessment committee within thirty days of such change. Such notification shall list the names and professional qualifications of new members of the committee.
 - **(d)** Procedures shall be established to insure that changes in the membership of the professional assessment committee are consistent with the requirements of section 8002(7) of this title .
+
+## Source Credit
+
+*([Pub. L. 95–557, title IV, § 406](https://www.govinfo.gov/link/plaw/95/public/557), Oct. 31, 1978, [92 Stat. 2107](https://www.govinfo.gov/link/statute/92/2107).)*

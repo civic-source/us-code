@@ -3,9 +3,10 @@ title: "Section 564 - Dividend carryover"
 usc_title: 26
 usc_section: "564"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 564"
-generated_at: "2026-03-30T02:55:27.719Z"
+generated_at: "2026-11-23T20:26:45.826Z"
+status: "active"
 ---
 
 # § 564. Dividend carryover
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:27.719Z"
   - **(3)** If there is an excess of such deductions for dividends paid over such taxable income for the first preceding taxable year, such excess shall be allowed as a dividend carryover to the taxable year.
   - **(4)** If there is an excess of such deduction for dividends paid over such taxable income for the second preceding taxable year, such excess shall be reduced by the amount determined in paragraph (5), and the remainder of such excess shall be allowed as a dividend carryover to the taxable year.
   - **(5)** The amount of the reduction specified in paragraph (4) shall be the amount of the excess of the taxable income, if any, for the first preceding taxable year over such deduction for dividends paid, if any, for the first preceding taxable year.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 200; [Pub. L. 94–455, title XIX, § 1901(a)(81)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1778](https://www.govinfo.gov/link/statute/90/1778).)*

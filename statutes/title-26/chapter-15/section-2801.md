@@ -3,9 +3,10 @@ title: "Section 2801 - Imposition of tax"
 usc_title: 26
 usc_section: "2801"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 2801"
-generated_at: "2026-03-30T02:55:27.787Z"
+generated_at: "2026-11-23T20:26:46.188Z"
+status: "active"
 ---
 
 # § 2801. Imposition of tax
@@ -33,3 +34,11 @@ generated_at: "2026-03-30T02:55:27.787Z"
       - **(ii)** There shall be allowed as a deduction under section 164 the amount of tax imposed by this section which is paid or accrued by a United States citizen or resident by reason of a distribution from a foreign trust, but only to the extent such tax is imposed on the portion of such distribution which is included in the gross income of such citizen or resident.
       - **(iii)** Solely for purposes of this section, a foreign trust may elect to be treated as a domestic trust. Such an election may be revoked with the consent of the Secretary.
 - **(f)** For purposes of this section, the term “covered expatriate” has the meaning given to such term by section 877A(g)(1).
+
+In general
+
+Gifts and bequests
+
+## Source Credit
+
+*(Added [Pub. L. 110–245, title III, § 301(b)(1)](https://www.govinfo.gov/link/plaw/110/public/245), June 17, 2008, [122 Stat. 1644](https://www.govinfo.gov/link/statute/122/1644); amended [Pub. L. 113–295, div. A, title II, § 206(b)(1)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4027](https://www.govinfo.gov/link/statute/128/4027).)*

@@ -3,9 +3,10 @@ title: "Section 2707 - Commission staffing"
 usc_title: 25
 usc_section: "2707"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 2707"
-generated_at: "2026-03-30T02:54:52.842Z"
+generated_at: "2026-11-23T20:26:25.605Z"
+status: "active"
 ---
 
 # § 2707. Commission staffing
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:52.842Z"
 - **(c)** The Chairman may procure temporary and intermittent services under section 3109(b) of title 5 , but at rates for individuals not to exceed the daily equivalent of the maximum annual rate of basic pay payable for GS–18 of the General Schedule.
 - **(d)** Upon the request of the Chairman, the head of any Federal agency is authorized to detail any of the personnel of such agency to the Commission to assist the Commission in carrying out its duties under this chapter, unless otherwise prohibited by law.
 - **(e)** The Secretary or Administrator of General Services shall provide to the Commission on a reimbursable basis such administrative support services as the Commission may request.
+
+## Source Credit
+
+*([Pub. L. 100–497, § 8](https://www.govinfo.gov/link/plaw/100/public/497), Oct. 17, 1988, [102 Stat. 2471](https://www.govinfo.gov/link/statute/102/2471).)*

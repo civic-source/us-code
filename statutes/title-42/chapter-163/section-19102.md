@@ -3,9 +3,10 @@ title: "Section 19102 - Purposes"
 usc_title: 42
 usc_section: "19102"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 19102"
-generated_at: "2026-03-30T02:56:11.539Z"
+generated_at: "2026-11-23T20:27:23.852Z"
+status: "active"
 ---
 
 # § 19102. Purposes
@@ -15,3 +16,7 @@ The purposes of the Directorate established under section 19101 of this title ar
   - **(1)** support use-inspired and translational research and accelerate the development and use of federally funded research;
   - **(2)** strengthen United States competitiveness by accelerating the development of key technologies; and
   - **(3)** grow the domestic workforce in key technology focus areas, and expand the participation of United States students and researchers in areas of societal, national, and geostrategic importance, at all levels of education.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10382](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1576](https://www.govinfo.gov/link/statute/136/1576).)*

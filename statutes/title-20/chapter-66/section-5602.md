@@ -3,9 +3,10 @@ title: "Section 5602 - Definitions"
 usc_title: 20
 usc_section: "5602"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 5602"
-generated_at: "2026-03-30T02:54:48.188Z"
+generated_at: "2026-11-23T20:26:14.792Z"
+status: "active"
 ---
 
 # § 5602. Definitions
@@ -27,3 +28,7 @@ For the purposes of this chapter—
   - **(10)** the term “Native Nations Institute” means the Native Nations Institute for Leadership, Management, and Policy established at the University of Arizona in 2001;
   - **(11)** the term “State” means each of the several States, the District of Columbia, Guam, the Virgin Islands, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federal States of Micronesia, and the Republic of Palau (until the Compact of Free Association is ratified); and
   - **(12)** the term “Trust Fund” means the Morris K. Udall and Stewart L. Udall Trust Fund established in section 5606 of this title .
+
+## Source Credit
+
+*([Pub. L. 102–259, § 4](https://www.govinfo.gov/link/plaw/102/public/259), Mar. 19, 1992, [106 Stat. 78](https://www.govinfo.gov/link/statute/106/78); [Pub. L. 105–156, § 2](https://www.govinfo.gov/link/plaw/105/public/156), Feb. 11, 1998, [112 Stat. 8](https://www.govinfo.gov/link/statute/112/8); [Pub. L. 105–244, title I, § 102(a)(6)(I)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1619](https://www.govinfo.gov/link/statute/112/1619); [Pub. L. 111–90, § 4](https://www.govinfo.gov/link/plaw/111/public/90), Nov. 3, 2009, [123 Stat. 2977](https://www.govinfo.gov/link/statute/123/2977); [Pub. L. 116–94, div. P, title III, § 302(a)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3186](https://www.govinfo.gov/link/statute/133/3186).)*

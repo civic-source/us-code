@@ -3,9 +3,10 @@ title: "Section 12613 - National service program"
 usc_title: 42
 usc_section: "12613"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12613"
-generated_at: "2026-03-30T02:56:11.420Z"
+generated_at: "2026-11-23T20:27:23.385Z"
+status: "active"
 ---
 
 # § 12613. National service program
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.420Z"
   - **(2)** is a high school graduate or has not received a high school diploma or its equivalent.
 - **(c)** In selecting persons for the national service program, the Director shall endeavor to ensure that participants are from economically, geographically, and ethnically diverse backgrounds. The Director shall take appropriate steps, including through outreach and recruitment activities, to increase the percentage of participants in the program who are disadvantaged youth to 50 percent of all participants by year 2012. The Director shall report to the authorizing committees biennially on such steps, any challenges faced, and the annual participation rates of disadvantaged youth in the program.
 - **(d)** Persons desiring to participate in the national service program shall enter into an agreement with the Director to participate in the Corps for a period of not less than nine months and not more than one year, as specified by the Director, and may renew the agreement for not more than one additional such period.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 153](https://www.govinfo.gov/link/plaw/101/public/610), formerly § 195B, as added [Pub. L. 102–484, div. A, title X, § 1092(a)(1)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2523](https://www.govinfo.gov/link/statute/106/2523); renumbered § 153 and amended [Pub. L. 103–82, title I, § 104(b)](https://www.govinfo.gov/link/plaw/103/public/82), (e)(2)(A), Sept. 21, 1993, [107 Stat. 840](https://www.govinfo.gov/link/statute/107/840), 846; [Pub. L. 111–13, title I, § 1503](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1521](https://www.govinfo.gov/link/statute/123/1521).)*

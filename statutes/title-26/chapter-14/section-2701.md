@@ -3,9 +3,10 @@ title: "Section 2701 - Special valuation rules in case of transfers of certain i
 usc_title: 26
 usc_section: "2701"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 2701"
-generated_at: "2026-03-30T02:55:27.786Z"
+generated_at: "2026-11-23T20:26:46.185Z"
+status: "active"
 ---
 
 # § 2701. Special valuation rules in case of transfers of certain interests in corporations or partnerships
@@ -118,3 +119,15 @@ generated_at: "2026-03-30T02:55:27.786Z"
     - **(B)** under regulations, otherwise holds, immediately after such transaction, an applicable retained interest in such entity.
   - **(6)** Under regulations prescribed by the Secretary, if there is any subsequent transfer, or inclusion in the gross estate, of any applicable retained interest which was valued under the rules of subsection (a), appropriate adjustments shall be made for purposes of chapter 11, 12, or 13 to reflect the increase in the amount of any prior taxable gift made by the transferor or decedent by reason of such valuation or to reflect the application of subsection (d).
   - **(7)** The Secretary may by regulation provide that any applicable retained interest shall be treated as 2 or more separate interests for purposes of this section.
+
+Waiver of qualified payment treatment
+
+Control
+
+In general
+
+Exception
+
+## Source Credit
+
+*(Added [Pub. L. 101–508, title XI, § 11602(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–491](https://www.govinfo.gov/link/statute/104/1388); amended [Pub. L. 104–188, title I, § 1702(f)(1)](https://www.govinfo.gov/link/plaw/104/public/188) –(3)(B), (4)–(5)(B), (6)–(10), Aug. 20, 1996, [110 Stat. 1870–1872](https://www.govinfo.gov/link/statute/110/1870).)*

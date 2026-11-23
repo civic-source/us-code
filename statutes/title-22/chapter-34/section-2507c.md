@@ -3,9 +3,10 @@ title: "Section 2507c - Office of Victim Advocacy"
 usc_title: 22
 usc_section: "2507c"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2507c"
-generated_at: "2026-03-30T02:55:05.371Z"
+generated_at: "2026-11-23T20:26:32.317Z"
+status: "active"
 ---
 
 # § 2507c. Office of Victim Advocacy
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:05.371Z"
 - **(c)** The Office of Victim Advocacy shall provide to volunteers who are victims regular updates on the status of their cases if such volunteers have opted to pursue prosecution.
 - **(d)** The Office of Victim Advocacy shall assist volunteers who are victims of crime and whose service has terminated in receiving the services specified in section 2507b(c) of this title requested by such volunteer.
 - **(e)** The Director of the Peace Corps shall include the head of the Office of Victim Advocacy in agency-wide policymaking processes in the same manner and to the same extent as the directors or associate directors of other offices within the Peace Corps.
+
+## Source Credit
+
+*([Pub. L. 87–293, title I, § 8C](https://www.govinfo.gov/link/plaw/87/public/293), as added [Pub. L. 112–57, § 2](https://www.govinfo.gov/link/plaw/112/public/57), Nov. 21, 2011, [125 Stat. 739](https://www.govinfo.gov/link/statute/125/739); amended [Pub. L. 115–256, title III, § 304](https://www.govinfo.gov/link/plaw/115/public/256), Oct. 9, 2018, [132 Stat. 3658](https://www.govinfo.gov/link/statute/132/3658).)*

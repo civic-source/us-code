@@ -3,9 +3,10 @@ title: "Section 6244 - Authority to provide certificate of commendation to Depar
 usc_title: 10
 usc_section: "6244"
 chapter: 606
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6244"
-generated_at: "2026-03-30T02:53:38.224Z"
+generated_at: "2026-11-23T20:25:52.025Z"
+status: "active"
 ---
 
 # § 6244. Authority to provide certificate of commendation to Department of Energy and contractor employees for exemplary service in stockpile stewardship and security
@@ -13,3 +14,13 @@ generated_at: "2026-03-30T02:53:38.224Z"
 - **(a)** The Secretary of Energy may present a certificate of commendation to any current or former employee of the Department of Energy, and any current or former employee of a Department contractor, whose service to the Department in matters relating to stockpile stewardship and security assisted the Department in furthering the national security interests of the United States.
 - **(b)** The certificate of commendation presented to a current or former employee under subsection (a) shall include an appropriate citation of the service of the current or former employee described in that subsection, including a citation for dedication, intellect, and sacrifice in furthering the national security interests of the United States by maintaining a strong, safe, and viable United States nuclear deterrent during the cold war or thereafter.
 - **(c)** For purposes of this section, the term “Department of Energy” includes any predecessor agency of the Department of Energy.
+
+Authority to Present Certificate of Commendation
+
+Certificate
+
+Department of Energy Defined
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1417](https://www.govinfo.gov/link/statute/139/1417).)*

@@ -3,9 +3,10 @@ title: "Section 2703 - Required disclosure of customer communications or records
 usc_title: 18
 usc_section: "2703"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2703"
-generated_at: "2026-03-30T02:54:16.507Z"
+generated_at: "2026-11-23T20:26:08.631Z"
+status: "active"
 ---
 
 # § 2703. Required disclosure of customer communications or records
@@ -68,3 +69,37 @@ generated_at: "2026-03-30T02:54:16.507Z"
   - **(5)**
     - **(A)** It shall not constitute a violation of a protective order issued under section 2705 for a provider of electronic communication service to the public or remote computing service to disclose to the entity within a qualifying foreign government, designated in an executive agreement under section 2523, the fact of the existence of legal process issued under this section seeking the contents of a wire or electronic communication of a customer or subscriber who is a national or resident of the qualifying foreign government.
     - **(B)** Nothing in this paragraph shall be construed to modify or otherwise affect any other authority to make a motion to modify or quash a protective order issued under section 2705.
+
+Contents of Wire or Electronic Communications in Electronic Storage
+
+Contents of Wire or Electronic Communications in a Remote Computing Service
+
+Records Concerning Electronic Communication Service or Remote Computing Service
+
+Requirements for Court Order
+
+No Cause of Action Against a Provider Disclosing Information Under This Chapter
+
+Requirement To Preserve Evidence.—
+
+In general
+
+Period of retention
+
+Presence of Officer Not Required
+
+Comity Analysis and Disclosure of Information Regarding Legal Process Seeking Contents of Wire or Electronic Communication.—
+
+Definitions
+
+Motions to quash or modify
+
+Comity analysis
+
+Disclosure obligations during pendency of challenge
+
+Disclosure to qualifying foreign government
+
+## Source Credit
+
+*(Added [Pub. L. 99–508, title II, § 201[(a)]](https://www.govinfo.gov/link/plaw/99/public/508), Oct. 21, 1986, [100 Stat. 1861](https://www.govinfo.gov/link/statute/100/1861); amended [Pub. L. 100–690, title VII](https://www.govinfo.gov/link/plaw/100/public/690), §§ 7038, 7039, Nov. 18, 1988, [102 Stat. 4399](https://www.govinfo.gov/link/statute/102/4399); [Pub. L. 103–322, title XXXIII, § 330003(b)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2140](https://www.govinfo.gov/link/statute/108/2140); [Pub. L. 103–414, title II, § 207(a)](https://www.govinfo.gov/link/plaw/103/public/414), Oct. 25, 1994, [108 Stat. 4292](https://www.govinfo.gov/link/statute/108/4292); [Pub. L. 104–132, title VIII, § 804](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1305](https://www.govinfo.gov/link/statute/110/1305); [Pub. L. 104–293, title VI, § 601(b)](https://www.govinfo.gov/link/plaw/104/public/293), Oct. 11, 1996, [110 Stat. 3469](https://www.govinfo.gov/link/statute/110/3469); [Pub. L. 104–294, title VI, § 605(f)](https://www.govinfo.gov/link/plaw/104/public/294), Oct. 11, 1996, [110 Stat. 3510](https://www.govinfo.gov/link/statute/110/3510); [Pub. L. 105–184, § 8](https://www.govinfo.gov/link/plaw/105/public/184), June 23, 1998, [112 Stat. 522](https://www.govinfo.gov/link/statute/112/522); [Pub. L. 107–56, title II](https://www.govinfo.gov/link/plaw/107/public/56), §§ 209(2), 210, 212(b)(1), 220(a)(1), (b), Oct. 26, 2001, [115 Stat. 283](https://www.govinfo.gov/link/statute/115/283), 285, 291, 292; [Pub. L. 107–273, div. B, title IV, § 4005(a)(2)](https://www.govinfo.gov/link/plaw/107/public/273), div. C, title I, § 11010, Nov. 2, 2002, [116 Stat. 1812](https://www.govinfo.gov/link/statute/116/1812), 1822; [Pub. L. 107–296, title XXII, § 2207(h)(1)](https://www.govinfo.gov/link/plaw/107/public/296), formerly title II, § 225(h)(1), Nov. 25, 2002, [116 Stat. 2158](https://www.govinfo.gov/link/statute/116/2158), renumbered § 2207(h)(1), [Pub. L. 115–278, § 2(g)(2)(I)](https://www.govinfo.gov/link/plaw/115/public/278), Nov. 16, 2018, [132 Stat. 4178](https://www.govinfo.gov/link/statute/132/4178); [Pub. L. 109–162, title XI, § 1171(a)(1)](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3123](https://www.govinfo.gov/link/statute/119/3123); [Pub. L. 111–79, § 2(1)](https://www.govinfo.gov/link/plaw/111/public/79), Oct. 19, 2009, [123 Stat. 2086](https://www.govinfo.gov/link/statute/123/2086); [Pub. L. 114–328, div. E, title LVII, § 5228(b)(1)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2912](https://www.govinfo.gov/link/statute/130/2912); [Pub. L. 115–141, div. V, § 103(b)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1214](https://www.govinfo.gov/link/statute/132/1214).)*

@@ -3,9 +3,10 @@ title: "Section 1 - McGovern-Dole International Food for Education and Child Nut
 usc_title: 7
 usc_section: "1"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-30T02:53:42.340Z"
+generated_at: "2026-11-23T20:25:41.292Z"
+status: "active"
 ---
 
 # § 1736o–1. McGovern-Dole International Food for Education and Child Nutrition Program
@@ -81,3 +82,9 @@ generated_at: "2026-03-30T02:53:42.340Z"
   - **(2)** There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2008 through 2023.
   - **(3)** Funds made available to carry out this section may be used to pay the administrative expenses of the Department of Agriculture or any other Federal agency assisting in the implementation of this section.
   - **(4)** Of the funds made available to carry out this section, not more than 10 percent shall be used to purchase agricultural commodities described in subsection (a)(2).
+
+George W. Bush.
+
+## Source Credit
+
+*([Pub. L. 107–171, title III, § 3107](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 295](https://www.govinfo.gov/link/statute/116/295); [Pub. L. 110–246, title III](https://www.govinfo.gov/link/plaw/110/public/246), §§ 3001(b)(1)(A), (2)(G), 3106, June 18, 2008, [122 Stat. 1820](https://www.govinfo.gov/link/statute/122/1820), 1833; [Pub. L. 113–79, title III, § 3204](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 780](https://www.govinfo.gov/link/statute/128/780); [Pub. L. 115–334, title III, § 3309](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4622](https://www.govinfo.gov/link/statute/132/4622).)*

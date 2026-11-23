@@ -3,9 +3,10 @@ title: "Section 6992c - Inspections"
 usc_title: 42
 usc_section: "6992c"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6992c"
-generated_at: "2026-03-30T02:56:11.282Z"
+generated_at: "2026-11-23T20:27:22.771Z"
+status: "active"
 ---
 
 # § 6992c. Inspections
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.282Z"
   - **(3)** inspect and obtain samples from any person of any such wastes and samples of any containers or labeling for such wastes.
 - **(b)** Each inspection under this section shall be commenced and completed with reasonable promptness. If the officer, employee, or representative obtains any samples, prior to leaving the premises he shall give to the owner, operator, or agent in charge a receipt describing the sample obtained and, if requested, a portion of each such sample equal in volume or weight to the portion retained if giving such an equal portion is feasible. If any analysis is made of such samples, a copy of the results of such analysis shall be furnished promptly to the owner, operator, or agent in charge of the premises concerned.
 - **(c)** The provisions of section 6927(b) of this title shall apply to records, reports, and information obtained under this section in the same manner and to the same extent as such provisions apply to records, reports, and information obtained under section 6927 of this title .
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 11004](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 100–582, § 2(a)](https://www.govinfo.gov/link/plaw/100/public/582), Nov. 1, 1988, [102 Stat. 2952](https://www.govinfo.gov/link/statute/102/2952).)*

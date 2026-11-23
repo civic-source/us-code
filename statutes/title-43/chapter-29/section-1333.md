@@ -3,9 +3,10 @@ title: "Section 1333 - Laws and regulations governing lands"
 usc_title: 43
 usc_section: "1333"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1333"
-generated_at: "2026-03-30T02:55:57.469Z"
+generated_at: "2026-11-23T20:27:06.276Z"
+status: "active"
 ---
 
 # § 1333. Laws and regulations governing lands
@@ -32,3 +33,13 @@ generated_at: "2026-03-30T02:55:57.469Z"
   - **(2)** The Secretary of the Department in which the Coast Guard is operating may mark for the protection of navigation any artificial island, installation, or other device referred to in subsection (a) whenever the owner has failed suitably to mark such island, installation, or other device in accordance with regulations issued under this subchapter, and the owner shall pay the cost of such marking.
 - **(e)** The authority of the Secretary of the Army to prevent obstruction to navigation in the navigable waters of the United States is extended to the artificial islands, installations, and other devices referred to in subsection (a).
 - **(f)** The specific application by this section of certain provisions of law to the subsoil and seabed of the outer Continental Shelf and the artificial islands, installations, and other devices referred to in subsection (a) or to acts or offenses occurring or committed thereon shall not give rise to any inference that the application to such islands and structures, acts, or offenses of any other provision of law is not intended.
+
+Jurisdiction of the united states on the outer continental shelf
+
+In general
+
+Leases issued exclusively under this act
+
+## Source Credit
+
+*(Aug. 7, 1953, ch. 345, § 4, [67 Stat. 462](https://www.govinfo.gov/link/statute/67/462); [Pub. L. 93–627, § 19(f)](https://www.govinfo.gov/link/plaw/93/public/627), Jan. 3, 1975, [88 Stat. 2146](https://www.govinfo.gov/link/statute/88/2146); [Pub. L. 95–372, title II, § 203](https://www.govinfo.gov/link/plaw/95/public/372), Sept. 18, 1978, [92 Stat. 635](https://www.govinfo.gov/link/statute/92/635); [Pub. L. 98–426, § 27(d)(2)](https://www.govinfo.gov/link/plaw/98/public/426), Sept. 28, 1984, [98 Stat. 1654](https://www.govinfo.gov/link/statute/98/1654); [Pub. L. 116–283, div. H, title XCV, § 9503](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4822](https://www.govinfo.gov/link/statute/134/4822).)*

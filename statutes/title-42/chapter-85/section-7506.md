@@ -3,9 +3,10 @@ title: "Section 7506 - Limitations on certain Federal assistance"
 usc_title: 42
 usc_section: "7506"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7506"
-generated_at: "2026-03-30T02:56:11.305Z"
+generated_at: "2026-11-23T20:27:22.877Z"
+status: "active"
 ---
 
 # § 7506. Limitations on certain Federal assistance
@@ -88,3 +89,49 @@ generated_at: "2026-03-30T02:56:11.305Z"
   - **(9)** If a conformity determination required under this subsection for a transportation plan under section 134(i) of title 23 or section 5303(i) of title 49 or a transportation improvement program under section 134(j) of such title 23 or under section 5303(j) of such title 49 is not made by the applicable deadline and such failure is not corrected by additional measures to either reduce motor vehicle emissions sufficient to demonstrate compliance with the requirements of this subsection within 12 months after such deadline or other measures sufficient to correct such failures, the transportation plan shall lapse.
   - **(10)** In this subsection, the term “lapse” means that the conformity determination for a transportation plan or transportation improvement program has expired, and thus there is no currently conforming transportation plan or transportation improvement program.
 - **(d)** Each department, agency, or instrumentality of the Federal Government having authority to conduct or support any program with air-quality related transportation consequences shall give priority in the exercise of such authority, consistent with statutory requirements for allocation among States or other jurisdictions, to the implementation of those portions of plans prepared under this section to achieve and maintain the national primary ambient air-quality standard. This paragraph extends to, but is not limited to, authority exercised under chapter 53 of title 49, title 23, and the Housing and Urban Development Act.
+
+Criteria and procedures for determining conformity.—
+
+In general
+
+Transportation plans, programs, and projects
+
+Civil action to compel promulgation
+
+Inclusion of criteria and procedures in sip
+
+Applicability
+
+Conformity horizon for transportation plans.—
+
+In general
+
+Regional emissions analysis
+
+Exception
+
+Effect of election
+
+Air pollution control agency defined
+
+Substitution of transportation control measures.—
+
+In general
+
+Adoption
+
+No requirement for express permission
+
+No requirement for new conformity determination
+
+Continuation of control measure being replaced
+
+Effect of adoption
+
+Lapse of conformity
+
+Lapse
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 176, as added [Pub. L. 95–95, title I, § 129(b)](https://www.govinfo.gov/link/plaw/95/public/95), Aug. 7, 1977, [91 Stat. 749](https://www.govinfo.gov/link/statute/91/749); amended [Pub. L. 95–190, § 14(a)(59)](https://www.govinfo.gov/link/plaw/95/public/190), Nov. 16, 1977, [91 Stat. 1403](https://www.govinfo.gov/link/statute/91/1403); [Pub. L. 101–549, title I](https://www.govinfo.gov/link/plaw/101/public/549), §§ 101(f), 110(4), Nov. 15, 1990, [104 Stat. 2409](https://www.govinfo.gov/link/statute/104/2409), 2470; [Pub. L. 104–59, title III, § 305(b)](https://www.govinfo.gov/link/plaw/104/public/59), Nov. 28, 1995, [109 Stat. 580](https://www.govinfo.gov/link/statute/109/580); [Pub. L. 104–260, § 1](https://www.govinfo.gov/link/plaw/104/public/260), Oct. 9, 1996, [110 Stat. 3175](https://www.govinfo.gov/link/statute/110/3175); [Pub. L. 106–377, § 1(a)(1) [title III]](https://www.govinfo.gov/link/plaw/106/public/377), Oct. 27, 2000, [114 Stat. 1441](https://www.govinfo.gov/link/statute/114/1441), 1441A–44; [Pub. L. 109–59, title VI, § 6011(a)](https://www.govinfo.gov/link/plaw/109/public/59) –(f), Aug. 10, 2005, [119 Stat. 1878–1881](https://www.govinfo.gov/link/statute/119/1878).)*

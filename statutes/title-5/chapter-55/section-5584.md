@@ -3,9 +3,10 @@ title: "Section 5584 - Claims for overpayment of pay and allowances, and of trav
 usc_title: 5
 usc_section: "5584"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 5584"
-generated_at: "2026-03-30T02:52:56.022Z"
+generated_at: "2026-11-23T20:25:31.960Z"
+status: "active"
 ---
 
 # § 5584. Claims for overpayment of pay and allowances, and of travel, transportation and relocation expenses and allowances
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:52:56.022Z"
 - **(g)** 1 1 So in original. Probably should be “(h)”. For the purpose of this section, the term “authorized official” means—
   - **(1)** the head of an agency, with respect to an agency or employee in the legislative branch; or
   - **(2)** the Director of the Office of Management and Budget, with respect to any other agency or employee.
+
+## Source Credit
+
+*(Added [Pub. L. 90–616, § 1(a)](https://www.govinfo.gov/link/plaw/90/public/616), Oct. 21, 1968, [82 Stat. 1212](https://www.govinfo.gov/link/statute/82/1212); amended [Pub. L. 92–453, § 3(1)](https://www.govinfo.gov/link/plaw/92/public/453), Oct. 2, 1972, [86 Stat. 760](https://www.govinfo.gov/link/statute/86/760); [Pub. L. 93–359, § 1](https://www.govinfo.gov/link/plaw/93/public/359), July 25, 1974, [88 Stat. 393](https://www.govinfo.gov/link/statute/88/393); [Pub. L. 96–54, § 2(a)(35)](https://www.govinfo.gov/link/plaw/96/public/54), Aug. 14, 1979, [93 Stat. 383](https://www.govinfo.gov/link/statute/93/383); [Pub. L. 99–224, § 1(a)](https://www.govinfo.gov/link/plaw/99/public/224), Dec. 28, 1985, [99 Stat. 1741](https://www.govinfo.gov/link/statute/99/1741); [Pub. L. 100–702, title X, § 1009(a)](https://www.govinfo.gov/link/plaw/100/public/702), Nov. 19, 1988, [102 Stat. 4667](https://www.govinfo.gov/link/statute/102/4667); [Pub. L. 102–190, div. A, title VI, § 657(a)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1393](https://www.govinfo.gov/link/statute/105/1393); [Pub. L. 104–316, title I, § 103(d)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3828](https://www.govinfo.gov/link/statute/110/3828); [Pub. L. 109–55, title I, § 1100(a)](https://www.govinfo.gov/link/plaw/109/public/55), Aug. 2, 2005, [119 Stat. 577](https://www.govinfo.gov/link/statute/119/577); [Pub. L. 113–235, div. H, title I, § 1301(b)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537).)*

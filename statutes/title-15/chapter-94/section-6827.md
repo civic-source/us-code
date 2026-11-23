@@ -3,9 +3,10 @@ title: "Section 6827 - Definitions"
 usc_title: 15
 usc_section: "6827"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 6827"
-generated_at: "2026-03-30T02:54:08.217Z"
+generated_at: "2026-11-23T20:26:04.422Z"
+status: "active"
 ---
 
 # § 6827. Definitions
@@ -24,3 +25,7 @@ For purposes of this subchapter, the following definitions shall apply:
       - **(iii)** the term “investment company” has the same meaning as given in section 80a–3 of this title .
     - **(D)** The term “financial institution” does not include any person or entity with respect to any financial activity that is subject to the jurisdiction of the Commodity Futures Trading Commission under the Commodity Exchange Act [ 7 U.S.C. 1 et seq.] and does not include the Federal Agricultural Mortgage Corporation or any entity chartered and operating under the Farm Credit Act of 1971 [ 12 U.S.C. 2001 et seq.].
     - **(E)** The Federal Trade Commission, after consultation with Federal banking agencies and the Securities and Exchange Commission, may prescribe regulations clarifying or describing the types of institutions which shall be treated as financial institutions for purposes of this subchapter.
+
+## Source Credit
+
+*([Pub. L. 106–102, title V, § 527](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1449](https://www.govinfo.gov/link/statute/113/1449).)*

@@ -3,9 +3,10 @@ title: "Section 1592m - Transfer of functions and funds in certain cases"
 usc_title: 42
 usc_section: "1592m"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1592m"
-generated_at: "2026-03-30T02:56:11.106Z"
+generated_at: "2026-11-23T20:27:21.833Z"
+status: "active"
 ---
 
 # § 1592m. Transfer of functions and funds in certain cases
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.106Z"
 - **(c)** and
 - **(d)** of section 1592h of this title , where any other officer, department, or agency is performing, or, in the determination of the President, has facilities adapted to the performance of, functions, powers and duties similar, or directly related, to any of the functions, powers and duties which the Secretary of Housing and Urban Development is authorized by this subchapter to perform with respect to the construction, maintenance or operation of community facilities for recreation, and daycare centers, or the provision of community services, the President may transfer to such other officer, department, or agency any of the functions, powers, and duties authorized by this subchapter to be performed with respect thereto if he finds that such transfer will assist the furtherance of national defense activities, and upon any such transfer, funds in such amount as the Director of the Office of Management and Budget shall determine, but in no event in excess of the balance of any moneys appropriated to the Secretary of Housing and Urban Development pursuant to the authorization therefor contained in this subchapter for the performance of the transferred functions, powers, and duties, may also be transferred by the President to such other officer, department, or agency: Provided , That the President, by Executive Order or otherwise, may prescribe or direct the manner in which any functions, powers, and duties, which the Secretary of Housing and Urban Development is authorized by this subchapter to perform with respect to assistance for the construction, or the construction of, any community facilities, shall be administered in coordination with other officers, departments, or agencies having functions or activities related thereto.
 
+
+## Source Credit
+
+*(Sept. 1, 1951, ch. 378, title III, § 314, [65 Stat. 308](https://www.govinfo.gov/link/statute/65/308); [Pub. L. 89–174, § 5(a)](https://www.govinfo.gov/link/plaw/89/public/174), Sept. 9, 1965, [79 Stat. 669](https://www.govinfo.gov/link/statute/79/669); 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, [84 Stat. 2085](https://www.govinfo.gov/link/statute/84/2085).)*

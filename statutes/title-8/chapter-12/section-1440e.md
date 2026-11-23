@@ -3,12 +3,17 @@ title: "Section 1440e - Exemption from naturalization fees for aliens naturalize
 usc_title: 8
 usc_section: "1440e"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1440e"
-generated_at: "2026-03-30T02:53:10.501Z"
+generated_at: "2026-11-23T20:25:36.235Z"
+status: "active"
 ---
 
 # § 1440e. Exemption from naturalization fees for aliens naturalized through service during Vietnam hostilities or other subsequent period of military hostilities; report by clerks of courts to Attorney General
 
 Notwithstanding any other provision of law, no clerk of a United States court shall charge or collect a naturalization fee from an alien who has served in the military, air, or naval forces of the United States during a period beginning February 28, 1961 , and ending on the date designated by the President by Executive order as the date of termination of the Vietnam hostilities, or thereafter during any other period which the President by Executive order shall designate as a period in which Armed Forces of the United States are or were engaged in military operations involving armed conflict with a hostile foreign force, and who is applying for naturalization during such periods under section 329 of the Immigration and Nationality Act, as amended by this Act [ 8 U.S.C. 1440 ], for filing a petition for naturalization or issuing a certificate of naturalization upon his admission to citizenship, and no clerk of any State court shall charge or collect any fee for such services unless the laws of the State require such charge to be made, in which case nothing more than the portion of the fee required to be paid to the State shall be charged or collected. A report of all transactions under this section shall be made to the Attorney General as in the case of other reports required of clerks of courts by title III of the Immigration and Nationality Act [ 8 U.S.C. 1401 et seq.].
 
+
+## Source Credit
+
+*([Pub. L. 90–633, § 3](https://www.govinfo.gov/link/plaw/90/public/633), Oct. 24, 1968, [82 Stat. 1344](https://www.govinfo.gov/link/statute/82/1344).)*

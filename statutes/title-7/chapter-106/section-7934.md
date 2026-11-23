@@ -3,9 +3,10 @@ title: "Section 7934 - Repayment of loans"
 usc_title: 7
 usc_section: "7934"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7934"
-generated_at: "2026-03-30T02:53:42.465Z"
+generated_at: "2026-11-23T20:25:41.852Z"
+status: "active"
 ---
 
 # § 7934. Repayment of loans
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:53:42.465Z"
   - **(2)** the repayment rate established for oil sunflower seed.
 - **(g)** The loan repayment rate for dry peas, lentils, and small chickpeas shall be based on the quality grades for the applicable commodity specified in section 7932(d) of this title .
 - **(h)** For the 2001 crop year only, in the case of the producers on a farm that marketed or otherwise lost beneficial interest in a loan commodity for which a marketing assistance loan was made under section 7231 of this title before repaying the loan, the Secretary shall permit the producers to repay the loan at the appropriate repayment rate that was in effect for the loan commodity under section 7234 of this title on the date that the producers lost beneficial interest, as determined by the Secretary, if the Secretary determines the producers acted in good faith.
+
+## Source Credit
+
+*([Pub. L. 107–171, title I, § 1204](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 156](https://www.govinfo.gov/link/statute/116/156); [Pub. L. 108–7, div. A, title VII, § 763(c)](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 47](https://www.govinfo.gov/link/statute/117/47).)*

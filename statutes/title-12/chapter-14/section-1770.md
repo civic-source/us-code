@@ -3,12 +3,17 @@ title: "Section 1770 - Allotment of space in Federal buildings or Federal land"
 usc_title: 12
 usc_section: "1770"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1770"
-generated_at: "2026-03-30T02:53:53.436Z"
+generated_at: "2026-11-23T20:25:59.062Z"
+status: "active"
 ---
 
 # § 1770. Allotment of space in Federal buildings or Federal land
 
 Notwithstanding any other provision of law, upon application by any credit union organized under State law or by any Federal credit union organized in accordance with the terms of this chapter, which application shall be addressed to the officer or agency of the United States charged with the allotment of space on lands reserved for the use of, and under the exclusive or concurrent jurisdiction of, the United States or in the Federal buildings in the community or district in which such credit union does business, such officer or agency may in his or its discretion lease land or allot space to such credit union without charge for rent or services if at least 95 percent of the membership of the credit union to be served by the allotment of space or the facility built on the lease land is composed of persons who either are presently Federal employees or were Federal employees at the time of admission into the credit union, and members of their families, and if space is available. For the purpose of this section, the term “services” includes, but is not limited to, the providing of lighting, heating, cooling, electricity, office furniture, office machines and equipment, telephone service (including installation of lines and equipment and other expenses associated with telephone service), and security systems (including installation and other expenses associated with security systems). Where there is an agreement for the payment of costs associated with the provision of space or services, nothing in title 31 or any other provision of law, shall be construed to prohibit or restrict payment by reimbursement to the miscellaneous receipts or other appropriate account of the Treasury.
 
+
+## Source Credit
+
+*(June 26, 1934, ch. 750, title I, § 124, formerly § 25, as added [Pub. L. 86–354, § 1](https://www.govinfo.gov/link/plaw/86/public/354), Sept. 22, 1959, [73 Stat. 638](https://www.govinfo.gov/link/statute/73/638); renumbered title I, § 124, [Pub. L. 91–468, § 1(2)](https://www.govinfo.gov/link/plaw/91/public/468), Oct. 19, 1970, [84 Stat. 994](https://www.govinfo.gov/link/statute/84/994); amended [Pub. L. 97–320, title V, § 515](https://www.govinfo.gov/link/plaw/97/public/320), Oct. 15, 1982, [96 Stat. 1530](https://www.govinfo.gov/link/statute/96/1530); [Pub. L. 97–457, § 27](https://www.govinfo.gov/link/plaw/97/public/457), Jan. 12, 1983, [96 Stat. 2510](https://www.govinfo.gov/link/statute/96/2510); [Pub. L. 103–160, div. B, title XXVIII, § 2854](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1908](https://www.govinfo.gov/link/statute/107/1908); [Pub. L. 103–337, div. A, title X, § 1070(b)(12)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2857](https://www.govinfo.gov/link/statute/108/2857); [Pub. L. 109–351, title V, § 501](https://www.govinfo.gov/link/plaw/109/public/351), Oct. 13, 2006, [120 Stat. 1974](https://www.govinfo.gov/link/statute/120/1974).)*

@@ -3,9 +3,10 @@ title: "Section 9231 - Sense of Congress on trilateral cooperation between the U
 usc_title: 22
 usc_section: "9231"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9231"
-generated_at: "2026-03-30T02:55:05.464Z"
+generated_at: "2026-11-23T20:26:32.762Z"
+status: "active"
 ---
 
 # § 9231. Sense of Congress on trilateral cooperation between the United States, South Korea, and Japan
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.464Z"
 - **(b)** The relevant committees referred to in subsection (a)(4) shall include—
   - **(1)** the Committee on Foreign Relations, the Committee on Armed Services, and the Select Committee on Intelligence of the Senate; and
   - **(2)** the Committee on Foreign Affairs, the Committee on Armed Services, and the Permanent Select Committee on Intelligence of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 114–122, title II, § 211](https://www.govinfo.gov/link/plaw/114/public/122), Feb. 18, 2016, [130 Stat. 111](https://www.govinfo.gov/link/statute/130/111).)*

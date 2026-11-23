@@ -3,12 +3,17 @@ title: "Section 2247a - Farm or food products; sale of samples, practical forms,
 usc_title: 7
 usc_section: "2247a"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2247a"
-generated_at: "2026-03-30T02:53:42.382Z"
+generated_at: "2026-11-23T20:25:41.506Z"
+status: "active"
 ---
 
 # § 2247a. Farm or food products; sale of samples, practical forms, etc.
 
 The Secretary of Agriculture is authorized to sell samples, illustrations, practical forms, or sets of the grades recommended or promulgated by him for farm or food products, under such rules and regulations as he may prescribe, and the receipts therefrom shall be deposited in the Treasury to the credit of miscellaneous receipts.
 
+
+## Source Credit
+
+*(Sept. 21, 1944, ch. 412, title IV, § 401(a), [58 Stat. 738](https://www.govinfo.gov/link/statute/58/738).)*

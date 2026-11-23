@@ -3,9 +3,10 @@ title: "Section 1905 - List of laws inapplicable to contracts or subcontracts no
 usc_title: 41
 usc_section: "1905"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 1905"
-generated_at: "2026-03-30T02:55:55.803Z"
+generated_at: "2026-11-23T20:27:04.405Z"
+status: "active"
 ---
 
 # § 1905. List of laws inapplicable to contracts or subcontracts not greater than simplified acquisition threshold
@@ -18,3 +19,39 @@ generated_at: "2026-03-30T02:55:55.803Z"
   - **(1)** provides for criminal or civil penalties; or
   - **(2)** specifically refers to this section and provides that, notwithstanding this section, it shall be applicable to contracts or subcontracts in amounts not greater than the simplified acquisition threshold.
 - **(d)** A person may petition the Administrator to take appropriate action when a provision of law described in subsection (c) is not included on the list of inapplicable provisions of law as required by subsection (b) and the Council has not made a written determination pursuant to subsection (b)(2). The Administrator shall revise the Federal Acquisition Regulation to include the provision on the list of inapplicable provisions of law unless the Council makes a determination pursuant to subsection (b)(2) within 60 days after the petition is received.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1905(a) | no source. |  |
+| 1905(b)–(d) | 41:429. | Pub. L. 93–400, § 33 , as added Pub. L. 103–355, title IV, § 4101 , Oct. 13, 1994 , 108 Stat. 3339 . |
+
+
+Definition
+
+Inclusion in Federal Acquisition Regulation.—
+
+In general
+
+Laws enacted after october 13, 1994
+
+Covered Law
+
+Petition
+
+Historical and Revision Notes
+
+1905(a)
+
+1905(b)–(d)
+
+Pub. L. 93–400, § 33
+
+Pub. L. 103–355, title IV, § 4101
+
+Oct. 13, 1994
+
+108 Stat. 3339
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3722](https://www.govinfo.gov/link/statute/124/3722).)*

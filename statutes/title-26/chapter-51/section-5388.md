@@ -3,9 +3,10 @@ title: "Section 5388 - Designation of wines"
 usc_title: 26
 usc_section: "5388"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 5388"
-generated_at: "2026-03-30T02:55:27.823Z"
+generated_at: "2026-11-23T20:26:46.439Z"
+status: "active"
 ---
 
 # § 5388. Designation of wines
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:27.823Z"
         - **(I)** contains less than 7 percent or more than 24 percent alcohol by volume,
         - **(II)** is intended for sale outside the United States, or
         - **(III)** does not bear a brand name.
+
+## Source Credit
+
+*(Added [Pub. L. 85–859, title II, § 201](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1387](https://www.govinfo.gov/link/statute/72/1387); amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 105–34, title IX, § 910(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 877](https://www.govinfo.gov/link/statute/111/877); [Pub. L. 109–432, div. A, title IV, § 422(a)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 2972](https://www.govinfo.gov/link/statute/120/2972).)*

@@ -3,9 +3,10 @@ title: "Section 2006f - Rural development certified lenders program"
 usc_title: 7
 usc_section: "2006f"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2006f"
-generated_at: "2026-03-30T02:53:42.354Z"
+generated_at: "2026-11-23T20:25:41.386Z"
+status: "active"
 ---
 
 # § 2006f. Rural development certified lenders program
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:42.354Z"
   - **(5)** Notwithstanding any other provision of law, the Secretary may—
     - **(A)** guarantee not more than 80 percent of any approved loan made by a preferred certified lender as described in this subsection, if the borrower meets the eligibility requirements and such other criteria as may be applicable to loans guaranteed by the Secretary; and
     - **(B)** permit preferred certified lenders to make all decisions, with respect to loans to be guaranteed by the Secretary under this subsection relating to creditworthiness, the closing, monitoring, collection, and liquidation of loans, and to accept appropriate certifications, as provided in regulations issued by the Secretary, that the borrower is in compliance with all requirements of law and regulations issued by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 364](https://www.govinfo.gov/link/plaw/87/public/128), as added [Pub. L. 104–127, title VII, § 752](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1129](https://www.govinfo.gov/link/statute/110/1129).)*

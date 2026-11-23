@@ -3,9 +3,10 @@ title: "Section 47139 - Emission credits for air quality projects"
 usc_title: 49
 usc_section: "47139"
 chapter: 471
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 47139"
-generated_at: "2026-03-30T02:56:19.405Z"
+generated_at: "2026-11-23T20:27:35.316Z"
+status: "active"
 ---
 
 # § 47139. Emission credits for air quality projects
@@ -17,3 +18,11 @@ generated_at: "2026-03-30T02:56:19.405Z"
   - **(4)** Credits are provided to airport sponsors in a timely manner.
   - **(5)** The establishment of a method to assure the Secretary that, for any specific airport project for which funding is being requested, the appropriate credits will be granted.
 - **(b)** Nothing in this section shall be construed as overriding existing State law or regulation pursuant to section 116 of the Clean Air Act ( 42 U.S.C. 7416 ).
+
+In General
+
+State Authority Under CAA
+
+## Source Credit
+
+*(Added [Pub. L. 108–176, title I, § 158(a)](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2508](https://www.govinfo.gov/link/statute/117/2508); amended [Pub. L. 112–95, title I](https://www.govinfo.gov/link/plaw/112/public/95), §§ 111(c)(2)(A)(v), 152(d), Feb. 14, 2012, [126 Stat. 18](https://www.govinfo.gov/link/statute/126/18), 34; [Pub. L. 115–254, div. B, title I, § 166(b)(2)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3226](https://www.govinfo.gov/link/statute/132/3226); [Pub. L. 118–63, title VII, § 782](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1302](https://www.govinfo.gov/link/statute/138/1302).)*

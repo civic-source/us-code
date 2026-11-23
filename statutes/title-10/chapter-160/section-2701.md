@@ -3,9 +3,10 @@ title: "Section 2701 - Environmental restoration program"
 usc_title: 10
 usc_section: "2701"
 chapter: 160
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2701"
-generated_at: "2026-03-30T02:53:38.172Z"
+generated_at: "2026-11-23T20:25:51.666Z"
+status: "active"
 ---
 
 # § 2701. Environmental restoration program
@@ -55,3 +56,415 @@ generated_at: "2026-03-30T02:53:38.172Z"
     - **(B)** a member of the armed forces who is serving in the grade of colonel or, in the case of the Navy, captain, or in a higher grade.
   - **(3)** The program manager shall report to the Assistant Secretary of Defense for Energy, Installations, and Environment.
   - **(4)** The program manager may establish an independent advisory and review panel that may include representatives of the National Academy of Sciences, nongovernmental organizations with expertise regarding unexploded ordnance, discarded military munitions, or munitions constituents, the Environmental Protection Agency, States (as defined in section 2710 1 of this title), and tribal governments. If established, the panel shall report annually to Congress on progress made by the Department of Defense to address unexploded ordnance, discarded military munitions, or munitions constituents at defense sites and make such recommendations as the panel considers appropriate.
+
+Environmental Restoration Program.—
+
+In general
+
+Application of section 120 of cercla
+
+Consultation with epa
+
+Administrative office within osd
+
+Program Goals
+
+Responsibility for Response Actions.—
+
+Basic responsibility
+
+Other responsible parties
+
+State fees and charges
+
+Services of Other Entities.—
+
+In general
+
+Cross-fiscal year agreements
+
+Limitation on reimbursable agreements
+
+Definitions
+
+Savings clause
+
+Response Action Contractors
+
+Use of Appropriated Funds at Former DOD Sites
+
+Removal of Unsafe Buildings and Debris Before Release From Federal Control
+
+Surety-Contractor Relationship
+
+Surety Bonds.—
+
+Applicability of sections 3131 and 3133 of title 40
+
+Limitation of accrual of rights of action under bonds
+
+Liability of sureties under bonds
+
+Nonpreemption
+
+Applicability
+
+Program Manager
+
+Services of Other Agencies.—
+
+In general
+
+Definition
+
+“This section and the amendments made by this section [amending this section and sections 2703, 2705, and 2883 of this title and enacting and amending provisions set out as notes under section 2687 of this title ] shall take effect on the later of—
+
+In General
+
+Coordination With Other Authorities
+
+Exception
+
+Definitions
+
+Strategy
+
+Public Dashboard
+
+Definitions
+
+Authority
+
+Guidance
+
+Expeditionary Solid Waste Disposal Systems.—
+
+Authorized use
+
+Equipping and availability of systems
+
+Prohibition on Use of Open-air Burn Pits to Dispose of Covered Material
+
+Covered Material Defined
+
+Guidance Relating to Site Prioritization
+
+Target Goal for Military Munitions Response Program
+
+Annual Briefings
+
+Covered Item Defined
+
+Temporary Moratorium
+
+Required Adoption of Final Rule
+
+Treatment of Certain Materials
+
+Report
+
+Scope
+
+Definitions
+
+Review Required
+
+Guidance
+
+Briefing
+
+Notification Required
+
+Notification Requirements
+
+Additional Testing Results
+
+Report to Congress
+
+Definitions
+
+In general
+
+Format
+
+Definitions
+
+Prohibition
+
+Definitions
+
+Perfluoroalkyl substance
+
+Polyfluoroalkyl substance
+
+In General
+
+Scope of Application
+
+In General
+
+Publicly Available Website
+
+Public Communication
+
+Military Installation Defined
+
+Cooperative Agreements.—
+
+In general
+
+Minimum standards
+
+Other authority
+
+Report
+
+Definitions
+
+Appropriate committees and members of congress
+
+Fully fluorinated carbon atom
+
+PFAS
+
+State
+
+PFOA
+
+PFOS
+
+Authority.—
+
+In general
+
+Applicable standard
+
+Secretary Concerned Defined
+
+Authority.—
+
+In general
+
+Improvements and personal property
+
+Relocation expenses
+
+Environmental Activities
+
+Funding
+
+Rule of Construction
+
+In General
+
+Study
+
+Budget Amount
+
+Plan Required.—
+
+In general
+
+Roles, responsibilities, and authorities
+
+Annual Explosive Ordnance Disposal Funding Documents.—
+
+In general
+
+Elements
+
+Management Review and Assessment.—
+
+In general
+
+Elements
+
+Briefing
+
+Definitions
+
+Explosive ordnance
+
+Disposal
+
+Regulations.—
+
+In general
+
+Notification
+
+Exemption authority for certain locations.—
+
+In general
+
+Nondelegation
+
+Reporting requirement for location exemptions.—
+
+In general
+
+Form
+
+Report
+
+Health Assessment Reports
+
+Definitions
+
+Contingent Limitation on Availability of Funds for Certain Travel Expenses
+
+Effective Date
+
+Termination
+
+Notice of Negotiations
+
+Authorization Required for Use of Funds for Payment of Settlement
+
+Regulations
+
+Guidelines
+
+Requirements
+
+Definition
+
+Authority
+
+Selection of Sites
+
+Requirement To Consult With Review Committee or Advisory Board
+
+Year Planning Period
+
+Implementation
+
+Deadlines
+
+Definition of Defense Site
+
+Report
+
+Savings Provisions
+
+Establishment
+
+Identification of Military Facilities With Environmental Training Expertise
+
+Grant Program Authorized
+
+Application
+
+Use of Grant Funds
+
+Eligible Individuals
+
+Elements of Education and Training Program
+
+Selection of Grant Recipients
+
+Limitation on Amount of Grant to a Single Recipient
+
+Reporting Requirements
+
+Definitions
+
+Base closure law
+
+Environmental restoration
+
+Institution of higher education
+
+Secretary
+
+Conforming Repeal
+
+Authority
+
+Educational Training or Activities
+
+Eligible Institutions of Higher Education
+
+Eligible Individuals
+
+Award of Scholarship
+
+Application; Period for Submission
+
+Repayment
+
+Coordination of Benefits
+
+Report to Congress
+
+Funding
+
+Definitions
+
+Training Program
+
+Employment of Graduates
+
+Eligible Employees
+
+Priority in Training and Employment
+
+Effect on Other Environmental Requirements
+
+Establishment
+
+Selection of Installations and Facilities
+
+Execution of Program
+
+Program Principles
+
+Program Restrictions
+
+Establishment
+
+Eligibility
+
+Agreement
+
+Period of Service
+
+Selection for Service
+
+Repayment
+
+Preference
+
+Coordination of Benefits
+
+Award of Scholarships and Fellowships
+
+Report to Congress
+
+Funding for Fiscal Year
+
+DOD Requirements for Ozone Depleting Chemicals Other Than CFC
+
+Requirement
+
+Extension of Reporting Deadline for CFC
+
+Reporting Deadline for Methyl Chloroform, HCFC
+
+and Carbon Tetrachloride
+
+Environmental Data Base
+
+Report
+
+Chlorofluorocarbons Emission Reduction
+
+Report
+
+DOD Requirements for CFCs
+
+Report
+
+## Source Credit
+
+*(Added [Pub. L. 99–499, title II, § 211(a)(1)(B)](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1719](https://www.govinfo.gov/link/statute/100/1719); amended [Pub. L. 101–510, div. A, title XIV, § 1481(i)(1)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1708](https://www.govinfo.gov/link/statute/104/1708); [Pub. L. 102–190, div. A, title III, § 336(a)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1342](https://www.govinfo.gov/link/statute/105/1342); [Pub. L. 102–484, div. A, title III, § 331(b)](https://www.govinfo.gov/link/plaw/102/public/484), title X, § 1052(35), Oct. 23, 1992, [106 Stat. 2373](https://www.govinfo.gov/link/statute/106/2373), 2501; [Pub. L. 103–35, title II, § 201(d)(6)](https://www.govinfo.gov/link/plaw/103/public/35), May 31, 1993, [107 Stat. 99](https://www.govinfo.gov/link/statute/107/99); [Pub. L. 103–337, div. A, title III](https://www.govinfo.gov/link/plaw/103/public/337), §§ 322, 323, Oct. 5, 1994, [108 Stat. 2711](https://www.govinfo.gov/link/statute/108/2711); [Pub. L. 104–106, div. A, title III, § 321(a)(1)](https://www.govinfo.gov/link/plaw/104/public/106), title XV, § 1504(a)(1), div. D, title XLIII, § 4321(b)(22), Feb. 10, 1996, [110 Stat. 251](https://www.govinfo.gov/link/statute/110/251), 513, 673; [Pub. L. 104–201, div. A, title III, § 329](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2483](https://www.govinfo.gov/link/statute/110/2483); [Pub. L. 107–107, div. A, title III, § 314](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1053](https://www.govinfo.gov/link/statute/115/1053); [Pub. L. 107–217, § 3(b)(17)](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1296](https://www.govinfo.gov/link/statute/116/1296); [Pub. L. 107–314, div. A, title III](https://www.govinfo.gov/link/plaw/107/public/314), §§ 311, 312, 313(c)(2), div. B, title XXVIII, § 2812(c), Dec. 2, 2002, [116 Stat. 2506](https://www.govinfo.gov/link/statute/116/2506), 2508, 2709; [Pub. L. 108–375, div. A, title X, § 1084(d)(24)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2062](https://www.govinfo.gov/link/statute/118/2062); [Pub. L. 109–163, div. A, title III, § 312(a)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3190](https://www.govinfo.gov/link/statute/119/3190); [Pub. L. 109–284, § 2](https://www.govinfo.gov/link/plaw/109/public/284), Sept. 27, 2006, [120 Stat. 1211](https://www.govinfo.gov/link/statute/120/1211); [Pub. L. 109–364, div. A, title III](https://www.govinfo.gov/link/plaw/109/public/364), §§ 311, 312, Oct. 17, 2006, [120 Stat. 2137](https://www.govinfo.gov/link/statute/120/2137); [Pub. L. 111–84, div. A, title X, § 1073(a)(28)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2474](https://www.govinfo.gov/link/statute/123/2474); [Pub. L. 111–383, div. A, title X, § 1075(b)(46)(B)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4371](https://www.govinfo.gov/link/statute/124/4371); [Pub. L. 112–239, div. B, title XXVII, § 2711(c)(4)(A)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2144](https://www.govinfo.gov/link/statute/126/2144); [Pub. L. 113–291, div. A, title IX, § 901(n)(2)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3469](https://www.govinfo.gov/link/statute/128/3469); [Pub. L. 116–92, div. A, title III, § 316(c)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1304](https://www.govinfo.gov/link/statute/133/1304); [Pub. L. 117–263, div. A, title III, § 313(b)](https://www.govinfo.gov/link/plaw/117/public/263), (c), Dec. 23, 2022, [136 Stat. 2503](https://www.govinfo.gov/link/statute/136/2503); [Pub. L. 118–31, div. A, title III, § 312(b)](https://www.govinfo.gov/link/plaw/118/public/31) –(d), Dec. 22, 2023, [137 Stat. 215](https://www.govinfo.gov/link/statute/137/215).)*

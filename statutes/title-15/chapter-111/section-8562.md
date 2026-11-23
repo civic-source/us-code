@@ -3,9 +3,10 @@ title: "Section 8562 - Improving probable maximum precipitation estimates"
 usc_title: 15
 usc_section: "8562"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 8562"
-generated_at: "2026-03-30T02:54:08.232Z"
+generated_at: "2026-11-23T20:26:04.496Z"
+status: "active"
 ---
 
 # § 8562. Improving probable maximum precipitation estimates
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:08.232Z"
   - **(4)** provides confidence in regional and site-specific probable maximum precipitation estimates.
 - **(c)** Not later than 2 years after the date on which the National Academies makes public the report under section 8561 of this title , the Administrator shall make publicly available the National Guidance Document under subsection (b) on an internet website of the National Oceanic and Atmospheric Administration.
 - **(d)** The Administrator shall update the National Guidance Document not less than once every 10 years after the publication of the National Guidance Document under subsection (c) and publish such updates in accordance with such subsection.
+
+## Source Credit
+
+*([Pub. L. 115–25, title VI, § 602](https://www.govinfo.gov/link/plaw/115/public/25), as added [Pub. L. 117–229, div. D, § 2(a)](https://www.govinfo.gov/link/plaw/117/public/229), Dec. 16, 2022, [136 Stat. 2314](https://www.govinfo.gov/link/statute/136/2314).)*

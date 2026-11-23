@@ -3,9 +3,10 @@ title: "Section 5411 - Injunctive relief"
 usc_title: 42
 usc_section: "5411"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5411"
-generated_at: "2026-03-30T02:56:11.235Z"
+generated_at: "2026-11-23T20:27:22.541Z"
+status: "active"
 ---
 
 # § 5411. Injunctive relief
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.235Z"
 - **(c)** Actions under subsection (a) of this section and section 5410 of this title may be brought in the district wherein any act or transaction constituting the violation occurred, or in the district wherein the defendant is found or is an inhabitant or transacts business, and process in such cases may be served in any other district of which the defendant is an inhabitant or wherever the defendant may be found.
 - **(d)** In any action brought by the United States under subsection (a) of this section or section 5410 of this title , subpenas by the United States for witnesses who are required to attend at United States district court may run into any other district.
 - **(e)** It shall be the duty of every manufacturer offering a manufactured home for importation into the United States to designate in writing an agent upon whom service of all administrative and judicial processes, notices, orders, decisions, and requirements may be made for and on behalf of such manufacturer, and to file such designation with the Secretary, which designation may from time to time be changed by like writing, similarly filed. Service of all administrative and judicial processes, notices, orders, decisions, and requirements may be made upon such manufacturer by service upon such designated agent at his office or usual place of residence with like effect as if made personally upon such manufacturer, and in default of such designation of such agent, service of process or any notice, order, requirement, or decision in any proceeding before the Secretary or in any judicial proceeding pursuant to this chapter may be made by mailing such process, notice, order, requirement, or decision to the Secretary by registered or certified mail.
+
+## Source Credit
+
+*([Pub. L. 93–383, title VI, § 612](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 705](https://www.govinfo.gov/link/statute/88/705); [Pub. L. 96–399, title III, § 308(c)(4)](https://www.govinfo.gov/link/plaw/96/public/399), Oct. 8, 1980, [94 Stat. 1641](https://www.govinfo.gov/link/statute/94/1641).)*

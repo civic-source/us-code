@@ -3,9 +3,10 @@ title: "Section 4711 - Investment of receipts and proceeds"
 usc_title: 12
 usc_section: "4711"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4711"
-generated_at: "2026-03-30T02:53:53.517Z"
+generated_at: "2026-11-23T20:25:59.424Z"
+status: "active"
 ---
 
 # § 4711. Investment of receipts and proceeds
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:53:53.517Z"
 - **(a)** Any dividends on equity investments and proceeds from the disposition of investments, deposits, or credit union shares that are received by the Fund as a result of assistance provided pursuant to section 4707 or 4712 of this title, and any fees received pursuant to section 4708(f) of this title shall be deposited and accredited to an account of the Fund in the United States Treasury (hereafter in this section referred to as “the account”) established to carry out the purpose of this subchapter.
 - **(b)** Upon request of the Administrator, the Secretary of the Treasury shall invest amounts deposited in the account in public debt securities with maturities suitable to the needs of the Fund, as determined by the Administrator, and bearing interest at rates determined by the Secretary of the Treasury, comparable to current market yields on outstanding marketable obligations of the United States of similar maturities.
 - **(c)** Amounts deposited into the account and interest earned on such amounts pursuant to this section shall be available to the Fund until expended.
+
+## Source Credit
+
+*([Pub. L. 103–325, title I, § 112](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2177](https://www.govinfo.gov/link/statute/108/2177).)*

@@ -3,9 +3,10 @@ title: "Section 11244 - Demonstration projects to provide services to youth in r
 usc_title: 34
 usc_section: "11244"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 11244"
-generated_at: "2026-03-30T02:55:33.280Z"
+generated_at: "2026-11-23T20:26:50.521Z"
+status: "active"
 ---
 
 # § 11244. Demonstration projects to provide services to youth in rural areas
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:33.280Z"
       - **(ii)** the types of services authorized under part A that were needed by, but not provided to, such youth in the geographical area served by the project;
       - **(iii)** the reasons the services identified under clause (ii) were not provided by the project; and
       - **(iv)** such other information as the Secretary may require.
+
+## Source Credit
+
+*([Pub. L. 93–415, title III, § 344](https://www.govinfo.gov/link/plaw/93/public/415), as added [Pub. L. 102–586, § 3(g)(1)(C)](https://www.govinfo.gov/link/plaw/102/public/586), Nov. 4, 1992, [106 Stat. 5024](https://www.govinfo.gov/link/statute/106/5024); amended [Pub. L. 106–71, § 3(r)(2)](https://www.govinfo.gov/link/plaw/106/public/71), Oct. 12, 1999, [113 Stat. 1043](https://www.govinfo.gov/link/statute/113/1043); [Pub. L. 108–96, title I, § 114](https://www.govinfo.gov/link/plaw/108/public/96), Oct. 10, 2003, [117 Stat. 1170](https://www.govinfo.gov/link/statute/117/1170).)*

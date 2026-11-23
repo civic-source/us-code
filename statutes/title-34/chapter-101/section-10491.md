@@ -3,9 +3,10 @@ title: "Section 10491 - Duties"
 usc_title: 34
 usc_section: "10491"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10491"
-generated_at: "2026-03-30T02:55:33.270Z"
+generated_at: "2026-11-23T20:26:50.477Z"
+status: "active"
 ---
 
 # § 10491. Duties
@@ -18,3 +19,7 @@ The Attorney General shall—
   - **(4)** provide technical assistance and training programs to develop stress reduction, psychological services, suicide prevention, and family support to State and local law enforcement agencies;
   - **(5)** collect and disseminate information regarding family support, stress reduction, and psychological services to Federal, State, and local law enforcement agencies, law enforcement-related organizations, and other interested entities; and
   - **(6)** determine issues to be researched by the Department of Justice and by grant recipients.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 2301](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 103–322, title XXI, § 210201(a)(3)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2062](https://www.govinfo.gov/link/statute/108/2062); amended [Pub. L. 116–32, § 2(2)](https://www.govinfo.gov/link/plaw/116/public/32), July 25, 2019, [133 Stat. 1036](https://www.govinfo.gov/link/statute/133/1036).)*

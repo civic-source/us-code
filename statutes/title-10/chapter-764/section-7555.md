@@ -3,9 +3,10 @@ title: "Section 7555 - ARMS Initiative loan guarantee program"
 usc_title: 10
 usc_section: "7555"
 chapter: 764
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 7555"
-generated_at: "2026-03-30T02:53:38.235Z"
+generated_at: "2026-11-23T20:25:52.104Z"
+status: "active"
 ---
 
 # § 7555. ARMS Initiative loan guarantee program
@@ -28,3 +29,17 @@ generated_at: "2026-03-30T02:53:38.235Z"
   - **(1)** $20,000,000, with respect to any single borrower; and
   - **(2)** $320,000,000 with respect to all borrowers.
 - **(e)** The Secretary may transfer to an official providing services under subsection (c), and that official may accept, such funds as may be necessary to administer the loan guarantee program under this section.
+
+Program Authorized
+
+Advanced Budget Authority
+
+Program Administration
+
+Loan Limits
+
+Transfer of Funds
+
+## Source Credit
+
+*(Added [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title III, § 344(a)(1)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–70, § 4555; renumbered § 7555, [Pub. L. 115–232, div. A, title VIII, § 808(d)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1839](https://www.govinfo.gov/link/statute/132/1839).)*

@@ -3,9 +3,10 @@ title: "Section 1589 - Participation in management of specified non-Federal enti
 usc_title: 10
 usc_section: "1589"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1589"
-generated_at: "2026-03-30T02:53:38.131Z"
+generated_at: "2026-11-23T20:25:51.397Z"
+status: "active"
 ---
 
 # § 1589. Participation in management of specified non-Federal entities: authorized activities
@@ -17,3 +18,17 @@ generated_at: "2026-03-30T02:53:38.131Z"
 - **(c)** A designation of an entity under subsection (b), and an authorization under subsection (a) of an employee to participate in the management of such an entity, shall be published in the Federal Register.
 - **(d)** In this section, the term “Secretary concerned” includes the Secretary of Defense with respect to employees of the Department of Defense who are not employees of a military department.
 - **(e)** The Secretary of Defense, and the Secretary of Homeland Security in the case of the Coast Guard when it is not operating as a service in the Navy, shall prescribe regulations to carry out this section.
+
+Authorization
+
+Designated Entities
+
+Publication of Designated Entities and of Authorized Persons
+
+Civilians Outside the Military Departments
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 105–85, div. A, title V, § 593(b)(1)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1763](https://www.govinfo.gov/link/statute/111/1763); amended [Pub. L. 107–296, title XVII, § 1704(b)(1)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314).)*

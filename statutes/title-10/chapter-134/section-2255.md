@@ -3,9 +3,10 @@ title: "Section 2255 - Aircraft accident investigation boards: composition requi
 usc_title: 10
 usc_section: "2255"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2255"
-generated_at: "2026-03-30T02:53:38.151Z"
+generated_at: "2026-11-23T20:25:51.518Z"
+status: "active"
 ---
 
 # § 2255. Aircraft accident investigation boards: composition requirements
@@ -27,3 +28,17 @@ generated_at: "2026-03-30T02:53:38.151Z"
     - **(B)** damages to the aircraft, other property, or a combination of both, in an amount in excess of the amount specified by the Secretary of Defense for purposes of determining Class A accidents; or
     - **(C)** the destruction of the aircraft.
   - **(2)** The term “mishap unit”, with respect to an aircraft accident investigation, means the unit of the armed forces (at the squadron or battalion level or equivalent) to which was assigned the flight crew of the aircraft that sustained the accident that is the subject of the investigation.
+
+Required Membership of Boards
+
+Exception
+
+Consultation Requirement
+
+Designation of Class A Accidents
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 104–201, div. A, title IX, § 911(a)(1)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2621](https://www.govinfo.gov/link/statute/110/2621); amended [Pub. L. 108–136, div. A, title X, § 1031(a)(13)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1597](https://www.govinfo.gov/link/statute/117/1597).)*

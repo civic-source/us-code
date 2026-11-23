@@ -3,9 +3,10 @@ title: "Section 18937 - Artificial intelligence"
 usc_title: 42
 usc_section: "18937"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18937"
-generated_at: "2026-03-30T02:56:11.533Z"
+generated_at: "2026-11-23T20:27:23.840Z"
+status: "active"
 ---
 
 # § 18937. Artificial intelligence
@@ -17,3 +18,7 @@ The Director shall continue to support the development of artificial intelligenc
   - **(3)** supporting the development of technical standards and guidelines that promote safe and trustworthy artificial intelligence systems, such as enhancing the accuracy, explainability, privacy, reliability, robustness, safety, security, and mitigation of harmful bias in artificial intelligence systems;
   - **(4)** creating a framework for managing risks associated with artificial intelligence systems; and
   - **(5)** developing and publishing cybersecurity tools, encryption methods, and best practices for artificial intelligence and data science.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title II, § 10232(a)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1484](https://www.govinfo.gov/link/statute/136/1484).)*

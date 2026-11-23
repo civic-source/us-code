@@ -3,9 +3,10 @@ title: "Section 22 - Distribution, redemption, and repurchase of securities; reg
 usc_title: 15
 usc_section: "22"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 22"
-generated_at: "2026-03-30T02:54:08.067Z"
+generated_at: "2026-11-23T20:26:03.600Z"
+status: "active"
 ---
 
 # § 80a–22. Distribution, redemption, and repurchase of securities; regulations by securities associations
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:08.067Z"
   - **(3)** for such other periods as the Commission may by order permit for the protection of security holders of the company.
 - **(f)** No registered open-end company shall restrict the transferability or negotiability of any security of which it is the issuer except in conformity with the statements with respect thereto contained in its registration statement nor in contravention of such rules and regulations as the Commission may prescribe in the interests of the holders of all of the outstanding securities of such investment company.
 - **(g)** No registered open-end company shall issue any of its securities (1) for services; or (2) for property other than cash or securities (including securities of which such registered company is the issuer), except as a dividend or distribution to its security holders or in connection with a reorganization.
+
+## Source Credit
+
+*(Aug. 22, 1940, ch. 686, title I, § 22, [54 Stat. 823](https://www.govinfo.gov/link/statute/54/823); [Pub. L. 91–547, § 12](https://www.govinfo.gov/link/plaw/91/public/547), Dec. 14, 1970, [84 Stat. 1422](https://www.govinfo.gov/link/statute/84/1422); [Pub. L. 100–181, title VI, § 616](https://www.govinfo.gov/link/plaw/100/public/181), Dec. 4, 1987, [101 Stat. 1262](https://www.govinfo.gov/link/statute/101/1262).)*

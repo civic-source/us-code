@@ -3,9 +3,10 @@ title: "Section 2511 - General authority to modify discriminatory purchasing req
 usc_title: 19
 usc_section: "2511"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2511"
-generated_at: "2026-03-30T02:54:24.678Z"
+generated_at: "2026-11-23T20:26:10.988Z"
+status: "active"
 ---
 
 # § 2511. General authority to modify discriminatory purchasing requirements
@@ -22,3 +23,33 @@ generated_at: "2026-03-30T02:54:24.678Z"
 - **(d)**
 - **(e)** Notwithstanding any other provision of law, the President may direct any agency of the United States listed in Annex 13–A of the USMCA (as defined in section 4502 of this title ) to procure eligible products in compliance with the procedural provisions of chapter 13 of the USMCA.
 - **(f)** The authority of the President under subsection (a) of this section to waive any law, regulation, procedure, or practice regarding Government procurement does not authorize the waiver of any small business or minority preference.
+
+In general
+
+Transition from nafta treatment
+
+“The provisions of this title [this subchapter] shall be effective on the date of enactment of this Act [ July 26, 1979 ], except that—
+
+Responsibilities
+
+Delegations and Authorization
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+William J. Clinton.
+
+## Source Credit
+
+*([Pub. L. 96–39, title III, § 301](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 236](https://www.govinfo.gov/link/statute/93/236); [Pub. L. 100–418, title VII, § 7005(e)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1553](https://www.govinfo.gov/link/statute/102/1553); [Pub. L. 103–182, title III, § 381(a)](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2128](https://www.govinfo.gov/link/statute/107/2128); [Pub. L. 116–113, title V, § 505(a)](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 77](https://www.govinfo.gov/link/statute/134/77).)*

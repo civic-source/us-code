@@ -3,9 +3,10 @@ title: "Section 1141a - International applications based on United States applic
 usc_title: 15
 usc_section: "1141a"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1141a"
-generated_at: "2026-03-30T02:54:08.128Z"
+generated_at: "2026-11-23T20:26:03.968Z"
+status: "active"
 ---
 
 # § 1141a. International applications based on United States applications or registrations
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:08.128Z"
   - **(1)** be a national of the United States;
   - **(2)** be domiciled in the United States; or
   - **(3)** have a real and effective industrial or commercial establishment in the United States.
+
+## Source Credit
+
+*(July 5, 1946, ch. 540, title XII, § 61, as added [Pub. L. 107–273, div. C, title III, § 13402](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1915](https://www.govinfo.gov/link/statute/116/1915).)*

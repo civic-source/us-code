@@ -3,9 +3,10 @@ title: "Section 57 - Items of tax preference"
 usc_title: 26
 usc_section: "57"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 57"
-generated_at: "2026-03-30T02:55:27.614Z"
+generated_at: "2026-11-23T20:26:45.283Z"
+status: "active"
 ---
 
 # § 57. Items of tax preference
@@ -52,3 +53,17 @@ generated_at: "2026-03-30T02:55:27.614Z"
 - **(b)** For purposes of paragraph (2) of subsection (a)—
   - **(1)** The term “straight line recovery of intangibles”, when used with respect to intangible drilling and development costs for any well, means (except in the case of an election under paragraph (2)) ratable amortization of such costs over the 120-month period beginning with the month in which production from such well begins.
   - **(2)** If the taxpayer elects with respect to the intangible drilling and development costs for any well, the term “straight line recovery of intangibles” means any method which would be permitted for purposes of determining cost depletion with respect to such well and which is selected by the taxpayer for purposes of subsection (a)(2).
+
+Reserves for losses on bad debts of financial institutions
+
+In general
+
+Capital gain property
+
+In general
+
+Continued treatment as not item of tax preference
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title VII, § 701(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2333](https://www.govinfo.gov/link/statute/100/2333); amended [Pub. L. 100–647, title I, § 1007(b)(14)(B)](https://www.govinfo.gov/link/plaw/100/public/647), (c), Nov. 10, 1988, [102 Stat. 3430](https://www.govinfo.gov/link/statute/102/3430), 3432; [Pub. L. 101–508, title XI](https://www.govinfo.gov/link/plaw/101/public/508), §§ 11344, 11801(c)(12)(A), 11815(b)(3), Nov. 5, 1990, [104 Stat. 1388–472](https://www.govinfo.gov/link/statute/104/1388), 1388–527, 1388–558; [Pub. L. 102–227, title I, § 112](https://www.govinfo.gov/link/plaw/102/public/227), Dec. 11, 1991, [105 Stat. 1689](https://www.govinfo.gov/link/statute/105/1689); [Pub. L. 102–486, title XIX, § 1915(a)(1)](https://www.govinfo.gov/link/plaw/102/public/486), (b)(1), Oct. 24, 1992, [106 Stat. 3023](https://www.govinfo.gov/link/statute/106/3023), 3024; [Pub. L. 103–66, title XIII](https://www.govinfo.gov/link/plaw/103/public/66), §§ 13113(b)(1), 13171(a), Aug. 10, 1993, [107 Stat. 429](https://www.govinfo.gov/link/statute/107/429), 454; [Pub. L. 104–188, title I, § 1616(b)(3)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1856](https://www.govinfo.gov/link/statute/110/1856); [Pub. L. 105–34, title III, § 311(b)(2)(B)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 835](https://www.govinfo.gov/link/statute/111/835); [Pub. L. 105–206, title VI, § 6005(d)(3)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 805](https://www.govinfo.gov/link/statute/112/805); [Pub. L. 108–27, title III, § 301(b)(3)](https://www.govinfo.gov/link/plaw/108/public/27), May 28, 2003, [117 Stat. 759](https://www.govinfo.gov/link/statute/117/759); [Pub. L. 110–289, div. C, title I, § 3022(a)(1)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2893](https://www.govinfo.gov/link/statute/122/2893); [Pub. L. 111–5, div. B, title I, § 1503(a)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 354](https://www.govinfo.gov/link/statute/123/354); [Pub. L. 113–295, div. A, title II, § 221(a)(10)](https://www.govinfo.gov/link/plaw/113/public/295), (11), Dec. 19, 2014, [128 Stat. 4038](https://www.govinfo.gov/link/statute/128/4038); [Pub. L. 119–21, title VII, § 70431(a)(4)(A)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 240](https://www.govinfo.gov/link/statute/139/240).)*

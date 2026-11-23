@@ -3,9 +3,10 @@ title: "Section 15855 - Grants to improve the commercial value of forest biomass
 usc_title: 42
 usc_section: "15855"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 15855"
-generated_at: "2026-03-30T02:56:11.461Z"
+generated_at: "2026-11-23T20:27:23.574Z"
+status: "active"
 ---
 
 # § 15855. Grants to improve the commercial value of forest biomass for electric energy, useful heat, transportation fuels, and other commercial purposes
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:56:11.461Z"
   - **(1)** An identification of the size, type, and use of biomass by persons that receive grants under this section.
   - **(2)** The distance between the land from which the biomass was removed and the facility that used the biomass.
   - **(3)** The economic impacts, particularly new job creation, resulting from the grants to and operation of the eligible operations.
+
+## Source Credit
+
+*([Pub. L. 109–58, title II, § 210](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 658](https://www.govinfo.gov/link/statute/119/658); [Pub. L. 109–375, § 6](https://www.govinfo.gov/link/plaw/109/public/375), Dec. 1, 2006, [120 Stat. 2658](https://www.govinfo.gov/link/statute/120/2658).)*

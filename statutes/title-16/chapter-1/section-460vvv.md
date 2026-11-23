@@ -3,9 +3,10 @@ title: "Section 460vvv - Bridgeport Winter Recreation Area"
 usc_title: 16
 usc_section: "460vvv"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 460vvv"
-generated_at: "2026-03-30T02:54:22.847Z"
+generated_at: "2026-11-23T20:26:20.042Z"
+status: "active"
 ---
 
 # § 460vvv. Bridgeport Winter Recreation Area
@@ -40,3 +41,19 @@ generated_at: "2026-03-30T02:54:22.847Z"
     - **(A)** interfere with the nature and purposes of the Trail; or
     - **(B)** harm the surrounding landscape.
 - **(g)** The designation of the Bridgeport Winter Recreation Area by this section is not intended to restrict or preclude the activities conducted by the United States Armed Forces at the United States Marine Corps Mountain Warfare Training Center.
+
+“In this subtitle [subtitle K (§§ 1801–1808) of title I of Pub. L. 111–11 , see References in Text note above]:
+
+Forest
+
+Recreation area
+
+Secretary
+
+State
+
+Trail
+
+## Source Credit
+
+*([Pub. L. 111–11, title I, § 1806](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1059](https://www.govinfo.gov/link/statute/123/1059); [Pub. L. 111–84, div. B, title XXVIII, § 2874](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2697](https://www.govinfo.gov/link/statute/123/2697).)*

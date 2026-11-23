@@ -3,9 +3,10 @@ title: "Section 3649 - Applicability of certain benefits"
 usc_title: 22
 usc_section: "3649"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3649"
-generated_at: "2026-03-30T02:55:05.395Z"
+generated_at: "2026-11-23T20:26:32.467Z"
+status: "active"
 ---
 
 # § 3649. Applicability of certain benefits
@@ -15,3 +16,7 @@ Chapter 81 of title 5, relating to compensation for work injuries, chapters 83 a
   - **(1)** who is not a citizen of the United States;
   - **(2)** whose initial appointment by the Commission occurs after October 1, 1979 ; and
   - **(3)** who is covered by the Social Security System of the Republic of Panama pursuant to any provision of the Panama Canal Treaty of 1977 and related agreements.
+
+## Source Credit
+
+*([Pub. L. 96–70, title I, § 1209](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 463](https://www.govinfo.gov/link/statute/93/463); [Pub. L. 104–201, div. C, title XXXV, § 3527](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2861](https://www.govinfo.gov/link/statute/110/2861).)*

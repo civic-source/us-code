@@ -3,9 +3,10 @@ title: "Section 201 - Leases and exploration"
 usc_title: 30
 usc_section: "201"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 201"
-generated_at: "2026-03-30T02:55:29.379Z"
+generated_at: "2026-11-23T20:26:34.913Z"
+status: "active"
 ---
 
 # § 201. Leases and exploration
@@ -35,3 +36,49 @@ generated_at: "2026-03-30T02:55:29.379Z"
   - **(2)** A licensee may not cause substantial disturbance to the natural land surface. He may not remove any coal for sale but may remove a reasonable amount of coal from the lands subject to this chapter included under his license for analysis and study. A licensee must comply with all applicable rules and regulations of the Federal agency having jurisdiction over the surface of the lands subject to this chapter. Exploration licenses covering lands the surface of which is under the jurisdiction of any Federal agency other than the Department of the Interior may be issued only upon such conditions as it may prescribe with respect to the use and protection of the nonmineral interests in those lands.
   - **(3)** The licensee shall furnish to the Secretary copies of all data (including, but not limited to, geological, geophyscal, 1 1 So in original. Probably should be “geophysical,”. and core drilling analyses) obtained during such exploration. The Secretary shall maintain the confidentiality of all data so obtained until after the areas involved have been leased or until such time as he determines that making the data available to the public would not damage the competitive position of the licensee, whichever comes first.
   - **(4)** Any person who willfully conducts coal exploration for commercial purposes on lands subject to this chapter without an exploration license issued hereunder shall be subject to a fine of not more than $1,000 for each day of violation. All data collected by said person on any Federal lands as a result of such violation shall be made immediately available to the Secretary, who shall make the data available to the public as soon as it is practicable. No penalty under this subsection shall be assessed unless such person is given notice and opportunity for a hearing with respect to such violation.
+
+Authorization
+
+Requirement
+
+NEPA
+
+Definition of bidding right
+
+Use of bidding right.—
+
+In general
+
+Payment calculation.—
+
+In general
+
+Amounts received
+
+Requirement
+
+Source of payments
+
+Treatment of payments
+
+Transferability; limitation.—
+
+Transferability
+
+Notification of secretary
+
+Effective period.—
+
+In general
+
+Tolling of period
+
+Deadline.—
+
+In general
+
+Date of valuation
+
+## Source Credit
+
+*(Feb. 25, 1920, ch. 85, § 2(a), (b), [41 Stat. 438](https://www.govinfo.gov/link/statute/41/438); June 3, 1948, ch. 379, § 1, [62 Stat. 289](https://www.govinfo.gov/link/statute/62/289); [Pub. L. 86–252, § 2](https://www.govinfo.gov/link/plaw/86/public/252), Sept. 9, 1959, [73 Stat. 490](https://www.govinfo.gov/link/statute/73/490); [Pub. L. 88–526, § 2(a)](https://www.govinfo.gov/link/plaw/88/public/526), (b), Aug. 31, 1964, [78 Stat. 710](https://www.govinfo.gov/link/statute/78/710); [Pub. L. 94–377](https://www.govinfo.gov/link/plaw/94/public/377), §§ 2–4, Aug. 4, 1976, [90 Stat. 1083](https://www.govinfo.gov/link/statute/90/1083), 1085; [Pub. L. 95–554, § 2](https://www.govinfo.gov/link/plaw/95/public/554), Oct. 30, 1978, [92 Stat. 2073](https://www.govinfo.gov/link/statute/92/2073); [Pub. L. 109–58, title IV, § 436](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 762](https://www.govinfo.gov/link/statute/119/762).)*

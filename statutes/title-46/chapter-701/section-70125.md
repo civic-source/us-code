@@ -3,9 +3,10 @@ title: "Section 70125 - Port security training for facility security officers"
 usc_title: 46
 usc_section: "70125"
 chapter: 701
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 70125"
-generated_at: "2026-03-30T02:56:15.587Z"
+generated_at: "2026-11-23T20:27:27.454Z"
+status: "active"
 ---
 
 # § 70125. Port security training for facility security officers
@@ -43,3 +44,17 @@ generated_at: "2026-03-30T02:56:15.587Z"
   - **(3)** A program of continuing education as deemed necessary by the Secretary.
 - **(d)** In developing curriculum and delivering training established pursuant to subsections (a) and (c), the Secretary, in coordination with the Maritime Administrator of the Department of Transportation and consistent with section 109 of the Maritime Transportation Security Act of 2002 ( 46 U.S.C. 70101 note), shall work with institutions with maritime expertise and with industry stakeholders with security expertise to develop appropriate training capacity to ensure that training can be provided in a geographically balanced manner to personnel seeking certification under subsection (a) or education and training under subsection (c).
 - **(e)** The Secretary shall issue regulations or grant solicitations for grants for homeland security or port security to ensure that activities surrounding the development of curriculum and the provision of training and these activities are eligible grant activities under both grant programs.
+
+Facility Security Officers
+
+Requirements
+
+Continuing Security Training
+
+Training Partners
+
+Established Grant Program
+
+## Source Credit
+
+*(Added [Pub. L. 111–281, title VIII, § 821(a)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 3001](https://www.govinfo.gov/link/statute/124/3001); amended [Pub. L. 111–330, § 1(14)](https://www.govinfo.gov/link/plaw/111/public/330), Dec. 22, 2010, [124 Stat. 3570](https://www.govinfo.gov/link/statute/124/3570).)*

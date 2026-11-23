@@ -3,9 +3,10 @@ title: "Section 257 - Supplemental examinations to consider, reconsider, or corr
 usc_title: 35
 usc_section: "257"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "35 U.S.C. § 257"
-generated_at: "2026-03-30T02:55:34.239Z"
+generated_at: "2026-11-23T20:26:49.138Z"
+status: "active"
 ---
 
 # § 257. Supplemental examinations to consider, reconsider, or correct information
@@ -25,3 +26,31 @@ generated_at: "2026-03-30T02:55:34.239Z"
   - **(1)** to preclude the imposition of sanctions based upon criminal or antitrust laws (including section 1001(a) of title 18 , the first section of the Clayton Act, and section 5 of the Federal Trade Commission Act to the extent that section relates to unfair methods of competition);
   - **(2)** to limit the authority of the Director to investigate issues of possible misconduct and impose sanctions for misconduct in connection with matters or proceedings before the Office; or
   - **(3)** to limit the authority of the Director to issue regulations under chapter 3 relating to sanctions for misconduct by representatives practicing before the Office.
+
+Request for Supplemental Examination
+
+Reexamination Ordered
+
+Effect.—
+
+In general
+
+Exceptions.—
+
+Prior allegations
+
+Patent enforcement actions
+
+Fees and Regulations.—
+
+Fees
+
+Regulations
+
+Fraud
+
+Rule of Construction
+
+## Source Credit
+
+*(Added and amended [Pub. L. 112–29](https://www.govinfo.gov/link/plaw/112/public/29), §§ 12(a), 20(j), Sept. 16, 2011, [125 Stat. 325](https://www.govinfo.gov/link/statute/125/325), 335.)*

@@ -3,9 +3,10 @@ title: "Section 524 - Effect of discharge"
 usc_title: 11
 usc_section: "524"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 524"
-generated_at: "2026-03-30T02:53:53.878Z"
+generated_at: "2026-11-23T20:25:55.362Z"
+status: "active"
 ---
 
 # § 524. Effect of discharge
@@ -155,3 +156,29 @@ generated_at: "2026-03-30T02:53:53.878Z"
 - **(m)**
   - **(1)** Until 60 days after an agreement of the kind specified in subsection (c) is filed with the court (or such additional period as the court, after notice and a hearing and for cause, orders before the expiration of such period), it shall be presumed that such agreement is an undue hardship on the debtor if the debtor’s monthly income less the debtor’s monthly expenses as shown on the debtor’s completed and signed statement in support of such agreement required under subsection (k)(6)(A) is less than the scheduled payments on the reaffirmed debt. This presumption shall be reviewed by the court. The presumption may be rebutted in writing by the debtor if the statement includes an explanation that identifies additional sources of funds to make the payments as agreed upon under the terms of such agreement. If the presumption is not rebutted to the satisfaction of the court, the court may disapprove such agreement. No agreement shall be disapproved without notice and a hearing to the debtor and creditor, and such hearing shall be concluded before the entry of the debtor’s discharge.
   - **(2)** This subsection does not apply to reaffirmation agreements where the creditor is a credit union, as defined in section 19(b)(1)(A)(iv) of the Federal Reserve Act.
+
+(aa) each such debtor;
+
+(bb) the parent corporation of each such debtor; or
+
+(cc) a subsidiary of each such debtor that is also a debtor; and
+
+(aa) the terms of the injunction proposed to be issued under paragraph (1)(A), including any provisions barring actions against third parties pursuant to paragraph (4)(A), are set out in such plan and in any disclosure statement supporting the plan; and
+
+(bb) a separate class or classes of the claimants whose claims are to be addressed by a trust described in clause (i) is established and votes, by at least 75 percent of those voting, in favor of the plan; and
+
+(aa) involvement in providing financing (debt or equity), or advice to an entity involved in such a transaction; or
+
+(bb) acquiring or selling a financial interest in an entity as part of such a transaction.
+
+(aa) the debtor;
+
+(bb) a past or present affiliate of the debtor; or
+
+(cc) a predecessor in interest of the debtor.
+
+Application to Existing Injunctions
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2592](https://www.govinfo.gov/link/statute/92/2592); [Pub. L. 98–353, title III](https://www.govinfo.gov/link/plaw/98/public/353), §§ 308, 455, July 10, 1984, [98 Stat. 354](https://www.govinfo.gov/link/statute/98/354), 376; [Pub. L. 99–554, title II](https://www.govinfo.gov/link/plaw/99/public/554), §§ 257(o), 282, 283(k), Oct. 27, 1986, [100 Stat. 3115–3117](https://www.govinfo.gov/link/statute/100/3115); [Pub. L. 103–394, title I](https://www.govinfo.gov/link/plaw/103/public/394), §§ 103, 111(a), title V, § 501(d)(14), Oct. 22, 1994, [108 Stat. 4108](https://www.govinfo.gov/link/statute/108/4108), 4113, 4145; [Pub. L. 109–8, title II](https://www.govinfo.gov/link/plaw/109/public/8), §§ 202, 203(a), title XII, § 1210, Apr. 20, 2005, [119 Stat. 43](https://www.govinfo.gov/link/statute/119/43), 194; [Pub. L. 111–327, § 2(a)(19)](https://www.govinfo.gov/link/plaw/111/public/327), Dec. 22, 2010, [124 Stat. 3559](https://www.govinfo.gov/link/statute/124/3559); [Pub. L. 116–54, § 4(a)(9)](https://www.govinfo.gov/link/plaw/116/public/54), Aug. 23, 2019, [133 Stat. 1086](https://www.govinfo.gov/link/statute/133/1086).)*

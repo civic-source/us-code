@@ -3,9 +3,10 @@ title: "Section 620c - Restriction on exports of unprocessed timber from State a
 usc_title: 16
 usc_section: "620c"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 620c"
-generated_at: "2026-03-30T02:54:22.886Z"
+generated_at: "2026-11-23T20:26:20.196Z"
+status: "active"
 ---
 
 # § 620c. Restriction on exports of unprocessed timber from State and other public lands
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:54:22.886Z"
 - **(j)** The prohibitions on exports contained in orders of the Secretary of Commerce issued under subsection (a) shall not apply to specific quantities of grades and species of unprocessed timber originating from public lands which the Secretary concerned determines by rule to be surplus to the needs of timber manufacturing facilities in the United States. Any such determination may, by rule, be withdrawn by the Secretary concerned if the Secretary determines that the affected timber is no longer surplus to the needs of timber manufacturing facilities in the United States.
 - **(k)** Notwithstanding any other provision of this section, beginning on January 1, 1998 , and annually thereafter, if the President finds, upon review of the purposes and implementation of sections 620 to 620j of this title, that the prohibitions on exports required by subsection (a) no longer promote the purposes of sections 620 to 620j of this title, then the President may suspend such prohibitions, except that such suspension shall not take effect until 90 days after the President notifies the Congress of such finding.
 - **(l)** Nothing in sections 620 to 620j of this title shall be construed to limit the authority of the President or the United States Trade Representative to take action authorized by law to respond appropriately to any measures taken by a foreign government in connection with sections 620 to 620j of this title.
+
+## Source Credit
+
+*([Pub. L. 101–382, title IV, § 491](https://www.govinfo.gov/link/plaw/101/public/382), Aug. 20, 1990, [104 Stat. 719](https://www.govinfo.gov/link/statute/104/719); [Pub. L. 103–45, § 2](https://www.govinfo.gov/link/plaw/103/public/45), July 1, 1993, [107 Stat. 223](https://www.govinfo.gov/link/statute/107/223); [Pub. L. 105–83, title VI, § 602(b)](https://www.govinfo.gov/link/plaw/105/public/83), Nov. 14, 1997, [111 Stat. 1620](https://www.govinfo.gov/link/statute/111/1620); [Pub. L. 106–36, title I, § 1002(a)(2)](https://www.govinfo.gov/link/plaw/106/public/36), June 25, 1999, [113 Stat. 133](https://www.govinfo.gov/link/statute/113/133).)*

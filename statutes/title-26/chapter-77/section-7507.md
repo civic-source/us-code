@@ -3,9 +3,10 @@ title: "Section 7507 - Exemption of insolvent banks from tax"
 usc_title: 26
 usc_section: "7507"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 7507"
-generated_at: "2026-03-30T02:55:27.876Z"
+generated_at: "2026-11-23T20:26:46.790Z"
+status: "active"
 ---
 
 # § 7507. Exemption of insolvent banks from tax
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:27.876Z"
   - **(3)** Any tax, the assessment, collection, or payment of which is barred under subsection (b), or any such tax which has been refunded shall be assessed or reassessed after full payment of such claims of depositors to the extent of the remaining assets segregated or transferred as described in subsection (b).
   - **(4)** The running of the statute of limitations on the making of assessment and collection shall be suspended during, and for 90 days beyond, the period for which, pursuant to this section, assessment or collection may not be made, and a tax may be reassessed as provided in paragraphs (2) and (3) of this subsection and collected, during the time within which, had there been no abatement, collection might have been made.
 - **(d)** This section shall not apply to any tax imposed by chapter 21 or chapter 23.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 897; [Pub. L. 94–455, title XIX, § 1906(a)(50)](https://www.govinfo.gov/link/plaw/94/public/455), (b)(13)(A), Oct. 4, 1976, [90 Stat. 1831](https://www.govinfo.gov/link/statute/90/1831), 1834.)*

@@ -3,9 +3,10 @@ title: "Section 239c - Certain multiyear contracts for acquisition of property: 
 usc_title: 10
 usc_section: "239c"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 239c"
-generated_at: "2026-03-30T02:53:38.048Z"
+generated_at: "2026-11-23T20:25:50.888Z"
+status: "active"
 ---
 
 # § 239c. Certain multiyear contracts for acquisition of property: budget justification materials
@@ -26,3 +27,13 @@ generated_at: "2026-03-30T02:53:38.048Z"
     - **(B)** the Secretary of the Army;
     - **(C)** the Secretary of the Navy; or
     - **(D)** the Secretary of the Air Force.
+
+In General
+
+Elements
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 117–81, div. A, title VIII, § 811(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1822](https://www.govinfo.gov/link/statute/135/1822); amended [Pub. L. 116–283, div. A, title XVIII, § 1883(b)(2)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4294](https://www.govinfo.gov/link/statute/134/4294); [Pub. L. 117–263, div. A, title VIII, § 811](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2706](https://www.govinfo.gov/link/statute/136/2706).)*

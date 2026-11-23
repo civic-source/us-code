@@ -3,12 +3,17 @@ title: "Section 4912 - Requirement of referendum"
 usc_title: 7
 usc_section: "4912"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 4912"
-generated_at: "2026-03-30T02:53:42.413Z"
+generated_at: "2026-11-23T20:25:41.639Z"
+status: "active"
 ---
 
 # § 4912. Requirement of referendum
 
 - **(a)** The Secretary shall conduct a referendum among producers, handlers, and importers not exempt under sections 4902(5) and 4907(b) of this title who, during a representative period determined by the Secretary, have been engaged in the production, handling, or importing of watermelons, for the purpose of ascertaining whether the issuance of a plan is approved or favored by producers, handlers, and importers. The ballots and other information or reports that reveal or tend to reveal the vote of any producer, handler, or importer or the person’s volume of watermelons produced, handled, or imported shall be held strictly confidential and shall not be disclosed. Any officer or employee of the Department of Agriculture violating the provisions hereof shall be subject to the penalties provided in section 4908(c) of this title .
 - **(b)** A plan issued under this chapter shall not take effect unless the Secretary determines that the issuance of the plan is approved or favored by a majority of the producers and handlers (and importers who are subject to the plan) voting in the referendum.
+
+## Source Credit
+
+*([Pub. L. 99–198, title XVI, § 1653](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1629](https://www.govinfo.gov/link/statute/99/1629); [Pub. L. 103–189](https://www.govinfo.gov/link/plaw/103/public/189), §§ 2, 8(i), Dec. 14, 1993, [107 Stat. 2259](https://www.govinfo.gov/link/statute/107/2259), 2262.)*

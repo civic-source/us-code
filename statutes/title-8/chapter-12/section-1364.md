@@ -3,9 +3,10 @@ title: "Section 1364 - Triennial comprehensive report on immigration"
 usc_title: 8
 usc_section: "1364"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1364"
-generated_at: "2026-03-30T02:53:10.497Z"
+generated_at: "2026-11-23T20:25:36.206Z"
+status: "active"
 ---
 
 # § 1364. Triennial comprehensive report on immigration
@@ -19,3 +20,17 @@ generated_at: "2026-03-30T02:53:10.497Z"
   - **(1)** described for the preceding three-year period, and
   - **(2)** projected for the succeeding five-year period, based on reasonable estimates substantiated by the best available evidence.
 - **(d)** The President also may include in such report any appropriate recommendations on changes in numerical limitations or other policies under title II of the Immigration and Nationality Act [ 8 U.S.C. 1151 et seq.] bearing on the admission and entry of such aliens to the United States.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+George Bush.
+
+## Source Credit
+
+*([Pub. L. 99–603, title IV, § 401](https://www.govinfo.gov/link/plaw/99/public/603), Nov. 6, 1986, [100 Stat. 3440](https://www.govinfo.gov/link/statute/100/3440); [Pub. L. 104–208, div. C, title III, § 308(g)(1)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–622](https://www.govinfo.gov/link/statute/110/3009).)*

@@ -3,9 +3,10 @@ title: "Section 7309 - Readjustment Counseling Service"
 usc_title: 38
 usc_section: "7309"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7309"
-generated_at: "2026-03-30T02:55:53.527Z"
+generated_at: "2026-11-23T20:27:01.992Z"
+status: "active"
 ---
 
 # § 7309. Readjustment Counseling Service
@@ -45,3 +46,109 @@ generated_at: "2026-03-30T02:55:53.527Z"
     - **(C)** requirements relating to maintenance of infrastructure; and
     - **(D)** other capital investment requirements with respect to the Readjustment Counseling Service, including Vet Centers, mobile Vet Centers, and community access points.
 - **(f)** In this section, the term “Vet Center” has the meaning given the term in section 1712A(h)(1) of this title .
+
+In General
+
+Chief Officer
+
+Structure
+
+Source of Funds
+
+Annual Report
+
+Vet Center Defined
+
+Productivity Expectations for Readjustment Counselors of Vet Centers
+
+Evaluation of productivity expectations
+
+Systematic feedback
+
+In general
+
+Government accountability office audit
+
+Implementation of changes
+
+Report to congress
+
+Plan for reassessment and implementation
+
+Plan
+
+Reassessments
+
+Staffing Model for Vet Centers
+
+In general
+
+Elements
+
+Plan for assessments and updates
+
+Working Group of Readjustment Counselors, Outreach Specialists, and Directors of Vet Centers
+
+In general
+
+Membership
+
+Feedback and recommendations
+
+Improvements of Hiring Practices at Vet Centers
+
+Standardization of position descriptions
+
+In general
+
+Reporting requirement
+
+Expansion of reporting requirements on readjustment counseling to include actions to reduce staffing vacancies and time to hire
+
+Report by Government Accountability Office on Vet Center Infrastructure and Future Investments
+
+In general
+
+Elements
+
+Pilot Program to Combat Food Insecurity Among Veterans and Family Members of Veterans
+
+In general
+
+Duration of pilot
+
+Training and technical assistance
+
+Eligible entities
+
+Application
+
+Selection
+
+Distribution
+
+Minimum program requirements
+
+Provision of information
+
+Report on data collected
+
+Government accountability office report
+
+In general
+
+Elements
+
+Authorization of appropriations
+
+In general
+
+Administrative expenses
+
+Definitions
+
+Definition of Vet Center
+
+## Source Credit
+
+*(Added [Pub. L. 112–239, div. A, title VII, § 728(a)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1812](https://www.govinfo.gov/link/statute/126/1812); amended [Pub. L. 114–58, title VI, § 601(22)](https://www.govinfo.gov/link/plaw/114/public/58), Sept. 30, 2015, [129 Stat. 539](https://www.govinfo.gov/link/statute/129/539); [Pub. L. 114–315, title VI, § 611](https://www.govinfo.gov/link/plaw/114/public/315), Dec. 16, 2016, [130 Stat. 1575](https://www.govinfo.gov/link/statute/130/1575); [Pub. L. 116–171, title V, § 504](https://www.govinfo.gov/link/plaw/116/public/171), Oct. 17, 2020, [134 Stat. 819](https://www.govinfo.gov/link/statute/134/819); [Pub. L. 117–263, div. E, title LI, § 5126(d)(2)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3216](https://www.govinfo.gov/link/statute/136/3216).)*

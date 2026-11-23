@@ -3,9 +3,10 @@ title: "Section 16104 - Reduction of engine idling"
 usc_title: 42
 usc_section: "16104"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16104"
-generated_at: "2026-03-30T02:56:11.468Z"
+generated_at: "2026-11-23T20:27:23.609Z"
+status: "active"
 ---
 
 # § 16104. Reduction of engine idling
@@ -62,3 +63,7 @@ generated_at: "2026-03-30T02:56:11.468Z"
 - **(d)** Not later than 60 days after the date on which funds are initially awarded under this section, and on an annual basis thereafter, the Administrator shall submit to Congress a report containing—
   - **(1)** an identification of the grant recipients, a description of the projects to be funded and the amount of funding provided; and
   - **(2)** an identification of all other applicants that submitted applications under the program.
+
+## Source Credit
+
+*([Pub. L. 109–58, title VII, § 756](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 829](https://www.govinfo.gov/link/statute/119/829).)*

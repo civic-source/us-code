@@ -3,9 +3,10 @@ title: "Section 1941 - Persons eligible for loans"
 usc_title: 7
 usc_section: "1941"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1941"
-generated_at: "2026-03-30T02:53:42.349Z"
+generated_at: "2026-11-23T20:25:41.357Z"
+status: "active"
 ---
 
 # § 1941. Persons eligible for loans
@@ -56,3 +57,21 @@ generated_at: "2026-03-30T02:53:42.349Z"
     - **(D)** The Secretary shall—
       - **(i)** annually submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a copy of the report; and
       - **(ii)** make the report available to the public, including posting the report on the website of the Department of Agriculture.
+
+Youth enterprises not farming or ranching
+
+Equitable considerations for default.—
+
+Debt forgiveness.—
+
+In general
+
+Eligibility for future loans
+
+Education loans
+
+“During the period beginning on the date of the enactment of this Act [ June 20, 2000 ] and ending on December 31, 2002 —
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 311](https://www.govinfo.gov/link/plaw/87/public/128), Aug. 8, 1961, [75 Stat. 310](https://www.govinfo.gov/link/statute/75/310); [Pub. L. 92–419, title I, § 120(a)](https://www.govinfo.gov/link/plaw/92/public/419), Aug. 30, 1972, [86 Stat. 665](https://www.govinfo.gov/link/statute/86/665); [Pub. L. 95–334, title I, § 114](https://www.govinfo.gov/link/plaw/95/public/334), Aug. 4, 1978, [92 Stat. 425](https://www.govinfo.gov/link/statute/92/425); [Pub. L. 97–98, title XVI, § 1601(b)](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1346](https://www.govinfo.gov/link/statute/95/1346); [Pub. L. 99–198, title XIII](https://www.govinfo.gov/link/plaw/99/public/198), §§ 1301(a), 1302(b), 1303, Dec. 23, 1985, [99 Stat. 1518](https://www.govinfo.gov/link/statute/99/1518), 1519; [Pub. L. 104–127, title VI](https://www.govinfo.gov/link/plaw/104/public/127), §§ 611, 661(f), Apr. 4, 1996, [110 Stat. 1087](https://www.govinfo.gov/link/statute/110/1087), 1107; [Pub. L. 105–277, div. A, § 101(a) [title VIII, § 805(2)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681](https://www.govinfo.gov/link/statute/112/2681), 2681–39; [Pub. L. 107–171, title V](https://www.govinfo.gov/link/plaw/107/public/171), §§ 5101, 5302(a), May 13, 2002, [116 Stat. 343](https://www.govinfo.gov/link/statute/116/343), 344; [Pub. L. 110–234, title V, § 5101](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1146](https://www.govinfo.gov/link/statute/122/1146); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title V, § 5101, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1907; [Pub. L. 113–79, title V](https://www.govinfo.gov/link/plaw/113/public/79), §§ 5101–5104, 5106(b)(1), Feb. 7, 2014, [128 Stat. 834–836](https://www.govinfo.gov/link/statute/128/834), 838.)*

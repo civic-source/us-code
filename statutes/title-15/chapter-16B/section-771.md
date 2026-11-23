@@ -3,9 +3,10 @@ title: "Section 771 - Comptroller General, powers and duties"
 usc_title: 15
 usc_section: "771"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 771"
-generated_at: "2026-03-30T02:54:08.121Z"
+generated_at: "2026-11-23T20:26:03.927Z"
+status: "active"
 ---
 
 # § 771. Comptroller General, powers and duties
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:08.121Z"
   - **(1)** to other Federal Government departments, agencies, and officials for official use upon request;
   - **(2)** to committees of Congress upon request; and
   - **(3)** to a court in any judicial proceeding under court order.
+
+## Source Credit
+
+*([Pub. L. 93–275, § 12](https://www.govinfo.gov/link/plaw/93/public/275), May 7, 1974, [88 Stat. 106](https://www.govinfo.gov/link/statute/88/106).)*

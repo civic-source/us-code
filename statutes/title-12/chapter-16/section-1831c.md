@@ -3,9 +3,10 @@ title: "Section 1831c - Assuring consistent oversight of subsidiaries of holding
 usc_title: 12
 usc_section: "1831c"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1831c"
-generated_at: "2026-03-30T02:53:53.457Z"
+generated_at: "2026-11-23T20:25:59.162Z"
+status: "active"
 ---
 
 # § 1831c. Assuring consistent oversight of subsidiaries of holding companies
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:53:53.457Z"
     - **(B)** avoid duplication of examination activities, reporting requirements, and requests for information; and
     - **(C)** ensure that the depository institution holding company and the subsidiaries of the depository institution holding company are not subject to conflicting supervisory demands by the appropriate Federal banking agencies.
 - **(g)** No provision of this section shall be construed as limiting any authority of the Board, the Corporation, or the Comptroller of the Currency under any other provision of law.
+
+## Source Credit
+
+*(Sept. 21, 1950, ch. 967, § 2 [26], as added [Pub. L. 111–203, title VI, § 605(a)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1604](https://www.govinfo.gov/link/statute/124/1604).)*

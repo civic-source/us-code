@@ -3,12 +3,17 @@ title: "Section 20703 - Demand for records or papers by Attorney General or repr
 usc_title: 52
 usc_section: "20703"
 chapter: 207
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "52 U.S.C. § 20703"
-generated_at: "2026-03-30T02:56:30.165Z"
+generated_at: "2026-11-23T20:27:36.971Z"
+status: "active"
 ---
 
 # § 20703. Demand for records or papers by Attorney General or representative; statement of basis and purpose
 
 Any record or paper required by section 20701 of this title to be retained and preserved shall, upon demand in writing by the Attorney General or his representative directed to the person having custody, possession, or control of such record or paper, be made available for inspection, reproduction, and copying at the principal office of such custodian by the Attorney General or his representative. This demand shall contain a statement of the basis and the purpose therefor.
 
+
+## Source Credit
+
+*([Pub. L. 86–449, title III, § 303](https://www.govinfo.gov/link/plaw/86/public/449), May 6, 1960, [74 Stat. 88](https://www.govinfo.gov/link/statute/74/88).)*

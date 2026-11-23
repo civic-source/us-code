@@ -3,12 +3,17 @@ title: "Section 499k - Injunctions; application of injunction laws governing ord
 usc_title: 7
 usc_section: "499k"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 499k"
-generated_at: "2026-03-30T02:53:42.286Z"
+generated_at: "2026-11-23T20:25:41.044Z"
+status: "active"
 ---
 
 # § 499k. Injunctions; application of injunction laws governing orders of Interstate Commerce Commission
 
 For the purposes of this chapter the provisions of all laws relating to the suspending or restraining of the enforcement, operation, or execution, or the setting-aside, in whole or in part, of the orders of the Interstate Commerce Commission are made applicable to orders of the Secretary under this chapter and to any person subject to the provisions of this chapter.
 
+
+## Source Credit
+
+*(June 10, 1930, ch. 436, § 11, [46 Stat. 535](https://www.govinfo.gov/link/statute/46/535).)*

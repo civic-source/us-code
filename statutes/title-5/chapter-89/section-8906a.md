@@ -3,9 +3,10 @@ title: "Section 8906a - Temporary employees"
 usc_title: 5
 usc_section: "8906a"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8906a"
-generated_at: "2026-03-30T02:52:56.069Z"
+generated_at: "2026-11-23T20:25:32.248Z"
+status: "active"
 ---
 
 # § 8906a. Temporary employees
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:52:56.069Z"
     - **(A)** the amount withheld from the pay of an employee under the provisions of section 8906; and
     - **(B)** the amount of the Government contribution for an employee under section 8906; and
   - **(2)** the employing agency of any such temporary employee shall not pay the Government contribution under the provisions of section 8906.
+
+## Source Credit
+
+*(Added [Pub. L. 100–654, title III, § 301(a)](https://www.govinfo.gov/link/plaw/100/public/654), Nov. 14, 1988, [102 Stat. 3846](https://www.govinfo.gov/link/statute/102/3846).)*

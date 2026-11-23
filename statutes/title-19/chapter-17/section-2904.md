@@ -3,9 +3,10 @@ title: "Section 2904 - Termination and reservation authority; reciprocal nondisc
 usc_title: 19
 usc_section: "2904"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2904"
-generated_at: "2026-03-30T02:54:24.687Z"
+generated_at: "2026-11-23T20:26:11.026Z"
+status: "active"
 ---
 
 # § 2904. Termination and reservation authority; reciprocal nondiscriminatory treatment
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:24.687Z"
     - **(A)** legislation providing for the termination or denial of the benefits of concessions of trade agreements entered into under section 2902(a) and (b) of this title that have been made with respect to rates of duty or other import restrictions imposed by the United States, and
     - **(B)** legislation providing that any law necessary to carry out any trade agreement under section 2902(a) or (b) of this title not apply to such country.
   - **(3)** For purposes of this subsection, the term “major industrial country” means Canada, the European Communities, the individual member countries of the European Communities, Japan, and any other foreign country designated by the President for purposes of this subsection.
+
+## Source Credit
+
+*([Pub. L. 100–418, title I, § 1105](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1132](https://www.govinfo.gov/link/statute/102/1132).)*

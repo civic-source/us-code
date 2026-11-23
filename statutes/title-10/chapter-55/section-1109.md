@@ -3,9 +3,10 @@ title: "Section 1109 - Organ and tissue donor program"
 usc_title: 10
 usc_section: "1109"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1109"
-generated_at: "2026-03-30T02:53:38.109Z"
+generated_at: "2026-11-23T20:25:51.247Z"
+status: "active"
 ---
 
 # § 1109. Organ and tissue donor program
@@ -22,3 +23,15 @@ generated_at: "2026-03-30T02:53:38.109Z"
 - **(c)** The Surgeons General of the military departments shall ensure that—
   - **(1)** appropriate training is provided to enlisted and officer medical personnel to facilitate the effective operation of organ and tissue donation activities under garrison conditions and, to the extent possible, under operational conditions; and
   - **(2)** medical logistical activities can, to the extent possible without jeopardizing operational requirements, support an effective organ and tissue donation program.
+
+Responsibilities of the Secretary of Defense
+
+Responsibilities of the Secretaries of the Military Departments
+
+Responsibilities of the Surgeons General of the Military Departments
+
+“Congress makes the following findings:
+
+## Source Credit
+
+*(Added [Pub. L. 105–261, div. A, title VII, § 741(b)(1)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2073](https://www.govinfo.gov/link/statute/112/2073); amended [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title X, § 1087(a)(8)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–290.)*

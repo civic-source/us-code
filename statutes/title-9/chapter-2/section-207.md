@@ -3,12 +3,17 @@ title: "Section 207 - Award of arbitrators; confirmation; jurisdiction; proceedi
 usc_title: 9
 usc_section: "207"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "9 U.S.C. § 207"
-generated_at: "2026-03-30T02:53:06.639Z"
+generated_at: "2026-11-23T20:25:33.664Z"
+status: "active"
 ---
 
 # § 207. Award of arbitrators; confirmation; jurisdiction; proceeding
 
 Within three years after an arbitral award falling under the Convention is made, any party to the arbitration may apply to any court having jurisdiction under this chapter for an order confirming the award as against any other party to the arbitration. The court shall confirm the award unless it finds one of the grounds for refusal or deferral of recognition or enforcement of the award specified in the said Convention.
 
+
+## Source Credit
+
+*(Added [Pub. L. 91–368, § 1](https://www.govinfo.gov/link/plaw/91/public/368), July 31, 1970, [84 Stat. 693](https://www.govinfo.gov/link/statute/84/693).)*

@@ -3,9 +3,10 @@ title: "Section 1168 - Medical nexus examinations for toxic exposure risk activi
 usc_title: 38
 usc_section: "1168"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 1168"
-generated_at: "2026-03-30T02:55:53.478Z"
+generated_at: "2026-11-23T20:27:01.617Z"
+status: "active"
 ---
 
 # § 1168. Medical nexus examinations for toxic exposure risk activities
@@ -20,3 +21,13 @@ generated_at: "2026-03-30T02:55:53.478Z"
   - **(3)** The requirement under paragraph (2)(B) shall not be construed as requiring a health care provider to consider the synergistic, combined effect of each of the substances, chemicals, and airborne hazards identified in the list under section 1119(b)(2) of this title .
 - **(b)** Subsection (a) shall not apply if the Secretary determines there is no indication of an association between the disability claimed by the veteran and the toxic exposure risk activity for which the veteran submitted evidence.
 - **(c)** In this section, the term “toxic exposure risk activity” has the meaning given that term in section 1710(e)(4) of this title .
+
+Medical Examinations and Medical Opinions
+
+Exception
+
+Toxic Exposure Risk Activity Defined
+
+## Source Credit
+
+*(Added [Pub. L. 117–168, title III, § 303](https://www.govinfo.gov/link/plaw/117/public/168), Aug. 10, 2022, [136 Stat. 1779](https://www.govinfo.gov/link/statute/136/1779).)*

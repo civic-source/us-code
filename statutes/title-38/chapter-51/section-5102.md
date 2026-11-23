@@ -3,9 +3,10 @@ title: "Section 5102 - Application forms furnished upon request; notice to claim
 usc_title: 38
 usc_section: "5102"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 5102"
-generated_at: "2026-03-30T02:55:53.519Z"
+generated_at: "2026-11-23T20:27:01.943Z"
+status: "active"
 ---
 
 # § 5102. Application forms furnished upon request; notice to claimants of incomplete applications
@@ -15,3 +16,13 @@ generated_at: "2026-03-30T02:55:53.519Z"
 - **(c)**
   - **(1)** If information that a claimant and the claimant’s representative, if any, are notified under subsection (b) is necessary to complete an application is not received by the Secretary within one year from the date such notice is sent, no benefit may be paid or furnished by reason of the claimant’s application.
   - **(2)** This subsection shall not apply to any application or claim for Government life insurance benefits.
+
+Furnishing Forms
+
+Incomplete Applications
+
+Time Limitation
+
+## Source Credit
+
+*(Added [Pub. L. 106–475, § 3(a)](https://www.govinfo.gov/link/plaw/106/public/475), Nov. 9, 2000, [114 Stat. 2096](https://www.govinfo.gov/link/statute/114/2096); amended [Pub. L. 108–183, title VII, § 701(a)](https://www.govinfo.gov/link/plaw/108/public/183), Dec. 16, 2003, [117 Stat. 2670](https://www.govinfo.gov/link/statute/117/2670).)*

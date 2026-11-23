@@ -3,9 +3,10 @@ title: "Section 4104c - Mitigation assistance"
 usc_title: 42
 usc_section: "4104c"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4104c"
-generated_at: "2026-03-30T02:56:11.199Z"
+generated_at: "2026-11-23T20:27:22.360Z"
+status: "active"
 ---
 
 # § 4104c. Mitigation assistance
@@ -57,3 +58,7 @@ generated_at: "2026-03-30T02:56:11.199Z"
     - **(B)** has incurred flood-related damage—
       - **(i)** for which 4 or more separate claims payments have been made under flood insurance coverage under this chapter, with the amount of each such claim exceeding $5,000, and with the cumulative amount of such claims payments exceeding $20,000; or
       - **(ii)** for which at least 2 separate claims payments have been made under such coverage, with the cumulative amount of such claims exceeding the value of the insured structure.
+
+## Source Credit
+
+*([Pub. L. 90–448, title XIII, § 1366](https://www.govinfo.gov/link/plaw/90/public/448), as added [Pub. L. 103–325, title V, § 553(a)](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2270](https://www.govinfo.gov/link/statute/108/2270); amended [Pub. L. 108–264, title I, § 103(a)](https://www.govinfo.gov/link/plaw/108/public/264) –(c), (e), (f), June 30, 2004, [118 Stat. 721](https://www.govinfo.gov/link/statute/118/721), 722; [Pub. L. 112–95, title VIII, § 815(b)](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 125](https://www.govinfo.gov/link/statute/126/125); [Pub. L. 112–141, div. F, title II](https://www.govinfo.gov/link/plaw/112/public/141), §§ 100225(a), 100238(b)(1), July 6, 2012, [126 Stat. 938](https://www.govinfo.gov/link/statute/126/938), 958.)*

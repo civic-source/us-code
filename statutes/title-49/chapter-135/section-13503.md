@@ -3,9 +3,10 @@ title: "Section 13503 - Exempt motor vehicle transportation in terminal areas"
 usc_title: 49
 usc_section: "13503"
 chapter: 135
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 13503"
-generated_at: "2026-03-30T02:56:19.327Z"
+generated_at: "2026-11-23T20:27:34.739Z"
+status: "active"
 ---
 
 # § 13503. Exempt motor vehicle transportation in terminal areas
@@ -28,3 +29,19 @@ generated_at: "2026-03-30T02:56:19.327Z"
       - **(iii)** a water carrier subject to jurisdiction under subchapter II of this chapter; or
       - **(iv)** a freight forwarder subject to jurisdiction under subchapter III of this chapter.
   - **(2)** Transportation exempt from jurisdiction under paragraph (1) of this subsection is considered transportation provided by the carrier or service provided by the freight forwarder for whom the transportation was provided and is subject to jurisdiction under chapter 105 of this title when provided for such a rail carrier, under this subchapter when provided for such a motor carrier, under subchapter II of this chapter when provided for such a water carrier, and under subchapter III of this chapter when provided for such a freight forwarder.
+
+Transportation by Carriers.—
+
+In general
+
+Applicability of other provisions
+
+Transportation by Agent.—
+
+In general
+
+Treatment of transportation by principal
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 860](https://www.govinfo.gov/link/statute/109/860).)*

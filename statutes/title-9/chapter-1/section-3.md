@@ -3,12 +3,17 @@ title: "Section 3 - Stay of proceedings where issue therein referable to arbitra
 usc_title: 9
 usc_section: "3"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "9 U.S.C. § 3"
-generated_at: "2026-03-30T02:53:06.638Z"
+generated_at: "2026-11-23T20:25:33.657Z"
+status: "active"
 ---
 
 # § 3. Stay of proceedings where issue therein referable to arbitration
 
 If any suit or proceeding be brought in any of the courts of the United States upon any issue referable to arbitration under an agreement in writing for such arbitration, the court in which such suit is pending, upon being satisfied that the issue involved in such suit or proceeding is referable to arbitration under such an agreement, shall on application of one of the parties stay the trial of the action until such arbitration has been had in accordance with the terms of the agreement, providing the applicant for the stay is not in default in proceeding with such arbitration.
 
+
+## Source Credit
+
+*(July 30, 1947, ch. 392, [61 Stat. 670](https://www.govinfo.gov/link/statute/61/670).)*

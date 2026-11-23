@@ -3,9 +3,10 @@ title: "Section 360jj - Studies by Secretary"
 usc_title: 21
 usc_section: "360jj"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 360jj"
-generated_at: "2026-03-30T02:54:54.254Z"
+generated_at: "2026-11-23T20:26:27.663Z"
+status: "active"
 ---
 
 # § 360jj. Studies by Secretary
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:54.254Z"
   - **(3)** A study of the development of practicable procedures for the detection and measurement of electronic product radiation which may be emitted from electronic products manufactured or imported prior to the effective date of any applicable standard established pursuant to this part.
 - **(b)** In carrying out these studies, the Secretary shall invite the participation of other Federal departments and agencies having related responsibilities and interests, State governments—particularly those of States which regulate radioactive materials under section 274 of the Atomic Energy Act of 1954, as amended [ 42 U.S.C. 2021 ], and interested professional, labor, and industrial organizations. Upon request from congressional committees interested in these studies, the Secretary shall keep these committees currently informed as to the progress of the studies and shall permit the committees to send observers to meetings of the study groups.
 - **(c)** The Secretary or his designee shall organize the studies and the participation of the invited participants as he deems best. Any dissent from the findings and recommendations of the Secretary shall be included in the report if so requested by the dissenter.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 533, formerly act July 1, 1944, ch. 373, title III, § 533, formerly § 357, as added [Pub. L. 90–602, § 2(3)](https://www.govinfo.gov/link/plaw/90/public/602), Oct. 18, 1968, [82 Stat. 1176](https://www.govinfo.gov/link/statute/82/1176); renumbered § 533 and amended [Pub. L. 101–629, § 19(a)(1)(B)](https://www.govinfo.gov/link/plaw/101/public/629), (3), (4), Nov. 28, 1990, [104 Stat. 4529](https://www.govinfo.gov/link/statute/104/4529), 4530; [Pub. L. 103–80, § 4(a)(2)](https://www.govinfo.gov/link/plaw/103/public/80), Aug. 13, 1993, [107 Stat. 779](https://www.govinfo.gov/link/statute/107/779).)*

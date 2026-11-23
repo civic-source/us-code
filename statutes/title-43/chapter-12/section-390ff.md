@@ -3,12 +3,17 @@ title: "Section 390ff - Certification of compliance"
 usc_title: 43
 usc_section: "390ff"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 390ff"
-generated_at: "2026-03-30T02:55:57.445Z"
+generated_at: "2026-11-23T20:27:06.199Z"
+status: "active"
 ---
 
 # § 390ff. Certification of compliance
 
 As a condition to the receipt of irrigation water for lands in a district which has a contract as specified in section 390cc of this title , each landowner and lessee within such district shall furnish the district, in a form prescribed by the Secretary, a certificate that they are in compliance with the provisions of this subchapter including a statement of the number of acres leased, the term of any lease, and a certification that the rent paid reflects the reasonable value of the irrigation water to the productivity of the land. The Secretary may require any lessee to submit to him, for his examination, a complete copy of any such lease executed by each of the parties thereto.
 
+
+## Source Credit
+
+*([Pub. L. 97–293, title II, § 206](https://www.govinfo.gov/link/plaw/97/public/293), Oct. 12, 1982, [96 Stat. 1266](https://www.govinfo.gov/link/statute/96/1266).)*

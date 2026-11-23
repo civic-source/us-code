@@ -3,9 +3,10 @@ title: "Section 8733 - Lease of land acquired for park, parkway, or playground p
 usc_title: 40
 usc_section: "8733"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 8733"
-generated_at: "2026-03-30T02:55:43.384Z"
+generated_at: "2026-11-23T20:26:56.652Z"
+status: "active"
 ---
 
 # § 8733. Lease of land acquired for park, parkway, or playground purposes
@@ -15,3 +16,20 @@ The Secretary of the Interior may lease, for not more than five years, land or a
   - **(1)** subject to the approval of the National Capital Planning Commission;
   - **(2)** subject to the need for the immediate use of the land, building, or structure in other ways by the public; and
   - **(3)** on terms the Administrator decides.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 8733 | 40:72b. | Dec. 22, 1928, ch. 48, § 2 , 45 Stat. 1070 . |
+
+
+Historical and Revision Notes
+
+8733
+
+Dec. 22, 1928, ch. 48, § 2
+
+45 Stat. 1070
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1225](https://www.govinfo.gov/link/statute/116/1225).)*

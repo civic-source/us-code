@@ -3,9 +3,10 @@ title: "Section 8031 - Office of the Chief of Naval Operations: function; compos
 usc_title: 10
 usc_section: "8031"
 chapter: 805
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 8031"
-generated_at: "2026-03-30T02:53:38.238Z"
+generated_at: "2026-11-23T20:25:52.132Z"
+status: "active"
 ---
 
 # § 8031. Office of the Chief of Naval Operations: function; composition
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:38.238Z"
   - **(8)** Other members of the Navy and Marine Corps assigned or detailed to the Office of the Chief of Naval Operations.
   - **(9)** Civilian employees in the Department of the Navy assigned or detailed to the Office of the Chief of Naval Operations.
 - **(c)** Except as otherwise specifically prescribed by law, the Office of the Chief of Naval Operations shall be organized in such manner, and its members shall perform such duties and have such titles, as the Secretary may prescribe.
+
+## Source Credit
+
+*(Added [Pub. L. 99–433, title V, § 512(b)](https://www.govinfo.gov/link/plaw/99/public/433), Oct. 1, 1986, [100 Stat. 1048](https://www.govinfo.gov/link/statute/100/1048), § 5031; renumbered § 8031, [Pub. L. 115–232, div. A, title VIII, § 807(a)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1834](https://www.govinfo.gov/link/statute/132/1834).)*

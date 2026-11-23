@@ -3,12 +3,17 @@ title: "Section 1973 - Freely Associated State Air Carrier"
 usc_title: 48
 usc_section: "1973"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1973"
-generated_at: "2026-03-30T02:56:14.598Z"
+generated_at: "2026-11-23T20:27:28.184Z"
+status: "active"
 ---
 
 # § 1973. Freely Associated State Air Carrier
 
 - **(a)** In furtherance of the objectives of the Compact of Free Association Act of 1985 ( Public Law 99–239 ) [ 48 U.S.C. 1901 et seq., 2001 et seq.] and notwithstanding any other provision of law, a Freely Associated State Air Carrier shall not be precluded from providing transportation, between a place in the United States and a place in a state in free association with the United States or between two places in such a freely associated state, by air of persons (and their personal effects) and property procured, contracted for, or otherwise obtained by any executive department or other agency or instrumentality of the United States for its own account or in furtherance of the purposes or pursuant to the terms of any contract, agreement, or other special arrangement made or entered into under which payment is made by the United States or payment is made from funds appropriated, owned, controlled, granted, or conditionally granted, or utilized by or otherwise established for the account of the United States, or shall be furnished to or for the account of any foreign nation, or any international agency, or other organization of whatever nationality, without provisions for reimbursement.
 - **(b)** The term “Freely Associated State Air Carrier” shall apply exclusively to a carrier referred to in Article IX(5)(b) of the Federal Programs and Services Agreement concluded pursuant to Article II of Title Two and Section 232 of the Compact of Free Association.
+
+## Source Credit
+
+*([Pub. L. 102–247, title III, § 303](https://www.govinfo.gov/link/plaw/102/public/247), Feb. 24, 1992, [106 Stat. 39](https://www.govinfo.gov/link/statute/106/39).)*

@@ -3,9 +3,10 @@ title: "Section 1681t - Relation to State laws"
 usc_title: 15
 usc_section: "1681t"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1681t"
-generated_at: "2026-03-30T02:54:08.153Z"
+generated_at: "2026-11-23T20:26:04.099Z"
+status: "active"
 ---
 
 # § 1681t. Relation to State laws
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:54:08.153Z"
     - **(I)** section 1681w of this title .
 - **(c)** Notwithstanding any definition of the term “firm offer of credit or insurance” (or any equivalent term) under the laws of any State, the definition of that term contained in section 1681a( l ) of this title shall be construed to apply in the enforcement and interpretation of the laws of any State governing consumer reports.
 - **(d)** Subsections (b) and (c) do not affect any settlement, agreement, or consent judgment between any State Attorney General and any consumer reporting agency in effect on September 30, 1996 .
+
+## Source Credit
+
+*([Pub. L. 90–321, title VI, § 625](https://www.govinfo.gov/link/plaw/90/public/321), formerly § 622, as added [Pub. L. 91–508, title VI, § 601](https://www.govinfo.gov/link/plaw/91/public/508), Oct. 26, 1970, [84 Stat. 1136](https://www.govinfo.gov/link/statute/84/1136); renumbered § 623, [Pub. L. 102–537, § 2(a)](https://www.govinfo.gov/link/plaw/102/public/537), Oct. 27, 1992, [106 Stat. 3531](https://www.govinfo.gov/link/statute/106/3531); renumbered § 624 and amended [Pub. L. 104–208, div. A, title II](https://www.govinfo.gov/link/plaw/104/public/208), §§ 2413(a)(1), 2419, Sept. 30, 1996, [110 Stat. 3009–447](https://www.govinfo.gov/link/statute/110/3009), 3009–452; renumbered § 625 and amended [Pub. L. 108–159, title I, § 151(a)(2)](https://www.govinfo.gov/link/plaw/108/public/159), title II, §§ 212(e), 214(a)(1), (c)(2), title III, § 311(b), title VII, § 711, Dec. 4, 2003, [117 Stat. 1964](https://www.govinfo.gov/link/statute/117/1964), 1977, 1980, 1983, 1989, 2011; [Pub. L. 115–174, title III](https://www.govinfo.gov/link/plaw/115/public/174), §§ 301(b), 302(d)(2), May 24, 2018, [132 Stat. 1332](https://www.govinfo.gov/link/statute/132/1332), 1335.)*

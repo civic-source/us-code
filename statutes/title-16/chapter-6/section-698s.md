@@ -3,9 +3,10 @@ title: "Section 698s - Acquisition"
 usc_title: 16
 usc_section: "698s"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 698s"
-generated_at: "2026-03-30T02:54:22.899Z"
+generated_at: "2026-11-23T20:26:20.238Z"
+status: "active"
 ---
 
 # § 698s. Acquisition
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:22.899Z"
   - **(1)** Promptly following completion of any environmental audit performed by or on behalf of the Secretary with respect to any property proposed to be acquired for the purposes of sections 698q to 698t of this title, the Secretary shall make available to the owner of the property a copy of the audit.
   - **(2)** Any audit described in paragraph (1), and any environmental audit performed by the owner of the property and submitted to the Secretary prior to the date of the acquisition, shall be included as part of the documents transferring title to the property to the United States.
 - **(d)** No lands or interest in lands may be added to the Preserve after October 21, 1992 , without specific authorization by Congress and the consent of the owner of the lands or interest.
+
+## Source Credit
+
+*([Pub. L. 102–427, § 4](https://www.govinfo.gov/link/plaw/102/public/427), Oct. 21, 1992, [106 Stat. 2181](https://www.govinfo.gov/link/statute/106/2181); [Pub. L. 103–437, § 6(d)(36)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4585](https://www.govinfo.gov/link/statute/108/4585).)*

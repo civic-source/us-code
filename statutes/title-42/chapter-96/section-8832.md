@@ -3,9 +3,10 @@ title: "Section 8832 - Construction loans"
 usc_title: 42
 usc_section: "8832"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8832"
-generated_at: "2026-03-30T02:56:11.348Z"
+generated_at: "2026-11-23T20:27:23.063Z"
+status: "active"
 ---
 
 # § 8832. Construction loans
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.348Z"
     - **(B)** shall bear interest at a rate determined by the Secretary of Energy (taking into consideration the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loans) plus not to exceed one per centum, as determined by the Secretary of Energy, and adjusted to the nearest one-eighth of one per centum.
   - **(2)** In the event the total estimated costs of construction of the project thereafter exceed the total estimated costs initially determined by the Secretary of Energy, the Secretary may in addition, upon application therefor, make a loan for so much of the additional estimated costs as does not exceed 10 per centum of the initial total estimated costs of construction.
 - **(c)** A loan may not be made under this section unless the person applying for such loan has established to the satisfaction of the Secretary of Energy that the applicant is unable without such a loan to obtain sufficient credit elsewhere at reasonable rates and terms, taking into consideration prevailing market rates and terms for loans for similar periods of time, to finance the construction of the project for which such loan is sought.
+
+## Source Credit
+
+*([Pub. L. 96–294, title II, § 232](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 697](https://www.govinfo.gov/link/statute/94/697).)*

@@ -3,9 +3,10 @@ title: "Section 53734 - Replacement of vessels because of changes in operating s
 usc_title: 46
 usc_section: "53734"
 chapter: 537
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 53734"
-generated_at: "2026-03-30T02:56:15.578Z"
+generated_at: "2026-11-23T20:27:27.368Z"
+status: "active"
 ---
 
 # § 53734. Replacement of vessels because of changes in operating standards
@@ -26,3 +27,68 @@ generated_at: "2026-03-30T02:56:15.578Z"
 - **(e)** The Secretary or Administrator may establish a fee for the guarantee of an obligation under this section that is in addition to the fee established under section 53714 of this title . The fee may be—
   - **(1)** an annual fee of not more than an additional 1 percent added to the fee established under section 53714 of this title ; or
   - **(2)** a fee based on the amount of the obligation versus the percentage of the obligor’s fleet being replaced by vessels constructed or reconstructed under this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 53734(a) | 46 App.:1274a(a), (b)(3). | June 29, 1936, ch. 858 , title XI, § 1104B, as added Pub. L. 101–380, title IV, § 4115(f)(2) , Aug. 18, 1990 , 104 Stat. 521 ; amended Pub. L. 102–587, title VI, § 6204 , Nov. 4, 1992 , 106 Stat. 5094 ; Pub. L. 103–160, div. A, title XIII, § 1356(4) , Nov. 30, 1993 , 107 Stat. 1814 ; Pub. L. 104–239, § 11(2) , Oct. 8, 1996 , 110 Stat. 3134 . |
+| 53734(b) | 46 App.:1274a(b) (less (3)). |  |
+| 53734(c) | 46 App.:1274a(d). |  |
+| 53734(d) | 46 App.:1274a(c)(1) (1st sentence). |  |
+| 53734(e) | 46 App.:1274a(c)(1) (2d sentence), (2). |  |
+
+
+General Authority
+
+Term and Amount of Obligation
+
+Term
+
+Amount
+
+Applicability of Other Provisions
+
+Security Against Default
+
+Guarantee Fees
+
+Historical and Revision Notes
+
+53734(a)
+
+June 29, 1936, ch. 858
+
+Pub. L. 101–380, title IV, § 4115(f)(2)
+
+Aug. 18, 1990
+
+104 Stat. 521
+
+Pub. L. 102–587, title VI, § 6204
+
+Nov. 4, 1992
+
+106 Stat. 5094
+
+Pub. L. 103–160, div. A, title XIII, § 1356(4)
+
+Nov. 30, 1993
+
+107 Stat. 1814
+
+Pub. L. 104–239, § 11(2)
+
+Oct. 8, 1996
+
+110 Stat. 3134
+
+53734(b)
+
+53734(c)
+
+53734(d)
+
+53734(e)
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(c)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1624](https://www.govinfo.gov/link/statute/120/1624); [Pub. L. 109–163, div. C, title XXXV, § 3507(a)(1)(E)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3555](https://www.govinfo.gov/link/statute/119/3555); [Pub. L. 110–181, div. C, title XXXV, § 3522(a)(10)(B)](https://www.govinfo.gov/link/plaw/110/public/181), (b), Jan. 28, 2008, [122 Stat. 598](https://www.govinfo.gov/link/statute/122/598).)*

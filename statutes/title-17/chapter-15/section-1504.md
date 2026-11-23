@@ -3,9 +3,10 @@ title: "Section 1504 - Nature of proceedings"
 usc_title: 17
 usc_section: "1504"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 1504"
-generated_at: "2026-03-30T02:54:15.358Z"
+generated_at: "2026-11-23T20:26:06.555Z"
+status: "active"
 ---
 
 # § 1504. Nature of proceedings
@@ -52,3 +53,39 @@ generated_at: "2026-03-30T02:54:15.358Z"
   - **(3)** Notwithstanding any other provision of law, except in the case of bad faith conduct as provided in section 1506(y)(2), the parties to proceedings before the Copyright Claims Board shall bear their own attorneys’ fees and costs.
 - **(f)** Parties to a proceeding before the Copyright Claims Board may be found jointly and severally liable if all such parties and relevant claims or counterclaims arise from the same activity or activities.
 - **(g)** The Register of Copyrights may establish regulations relating to the permitted number of proceedings each year by the same claimant under this chapter, in the interests of justice and the administration of the Copyright Claims Board.
+
+Voluntary Participation
+
+Statute of Limitations.—
+
+In general
+
+Tolling
+
+Permissible Claims, Counterclaims, and Defenses
+
+Excluded Claims
+
+Permissible Remedies.—
+
+Monetary recovery.—
+
+Actual damages, profits, and statutory damages for infringement
+
+Election of damages
+
+Damages for other claims
+
+Limitation on total monetary recovery
+
+Agreement to cease certain activity
+
+Attorneys’ fees and costs
+
+Joint and Several Liability
+
+Permissible Number of Cases
+
+## Source Credit
+
+*(Added [Pub. L. 116–260, div. Q, title II, § 212(b)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2181](https://www.govinfo.gov/link/statute/134/2181).)*

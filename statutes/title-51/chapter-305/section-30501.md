@@ -3,9 +3,10 @@ title: "Section 30501 - Lessons learned and best practices"
 usc_title: 51
 usc_section: "30501"
 chapter: 305
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 30501"
-generated_at: "2026-03-30T02:56:28.705Z"
+generated_at: "2026-11-23T20:27:37.466Z"
+status: "active"
 ---
 
 # § 30501. Lessons learned and best practices
@@ -13,3 +14,30 @@ generated_at: "2026-03-30T02:56:28.705Z"
 - **(a)** The Administrator shall transmit to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate an implementation plan describing the Administration’s approach for obtaining, implementing, and sharing lessons learned and best practices for its major programs and projects not later than 180 days after December 30, 2005 . The implementation plan shall be updated and maintained to ensure that it is current and consistent with the burgeoning culture of learning and safety that is emerging at the Administration.
 - **(b)** The implementation plan shall contain at a minimum the lessons learned and best practices requirements for the Administration, the organizations or positions responsible for enforcement of the requirements, the reporting structure, and the objective performance measures indicating the effectiveness of the activity.
 - **(c)** The Administrator shall provide incentives to encourage sharing and implementation of lessons learned and best practices by employees, projects, and programs, as well as penalties for programs and projects that are determined not to have demonstrated use of those resources.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30501 | 42 U.S.C. 16615 . | Pub. L. 109–155, title I, § 107 , Dec. 30, 2005 , 119 Stat. 2912 . |
+
+
+In General
+
+Required Content
+
+Incentives
+
+Historical and Revision Notes
+
+30501
+
+42 U.S.C. 16615
+
+Pub. L. 109–155, title I, § 107
+
+Dec. 30, 2005
+
+119 Stat. 2912
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3367](https://www.govinfo.gov/link/statute/124/3367).)*

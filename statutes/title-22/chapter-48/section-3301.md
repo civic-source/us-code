@@ -3,9 +3,10 @@ title: "Section 3301 - Congressional findings and declaration of policy"
 usc_title: 22
 usc_section: "3301"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3301"
-generated_at: "2026-03-30T02:55:05.391Z"
+generated_at: "2026-11-23T20:26:32.448Z"
+status: "active"
 ---
 
 # § 3301. Congressional findings and declaration of policy
@@ -21,3 +22,55 @@ generated_at: "2026-03-30T02:55:05.391Z"
   - **(5)** to provide Taiwan with arms of a defensive character; and
   - **(6)** to maintain the capacity of the United States to resist any resort to force or other forms of coercion that would jeopardize the security, or the social or economic system, of the people on Taiwan.
 - **(c)** Nothing contained in this chapter shall contravene the interest of the United States in human rights, especially with respect to the human rights of all the approximately eighteen million inhabitants of Taiwan. The preservation and enhancement of the human rights of all the people on Taiwan are hereby reaffirmed as objectives of the United States.
+
+Short Titles
+
+Consultations With European Governments Regarding Sanctions Against the PRC Under Certain Circumstances
+
+Statement of Policy
+
+Definition
+
+Statement of Policy
+
+Sense of Congress
+
+Sense of Congress
+
+Statement of Policy
+
+In General
+
+Sense of Congress
+
+Reporting Requirements
+
+Periodic Reviews and Updated Reports.—
+
+In general
+
+Matters to be included
+
+United States Commitment to Taiwan
+
+Arms Sales to Taiwan
+
+Travel
+
+Statement of Policy
+
+Sense of Congress
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+William J. Clinton.
+
+## Source Credit
+
+*([Pub. L. 96–8, § 2](https://www.govinfo.gov/link/plaw/96/public/8), Apr. 10, 1979, [93 Stat. 14](https://www.govinfo.gov/link/statute/93/14).)*

@@ -3,12 +3,17 @@ title: "Section 13351 - Additional clean coal technology solicitations"
 usc_title: 42
 usc_section: "13351"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13351"
-generated_at: "2026-03-30T02:56:11.442Z"
+generated_at: "2026-11-23T20:27:23.481Z"
+status: "active"
 ---
 
 # § 13351. Additional clean coal technology solicitations
 
 - **(a)** Additional clean coal technology solicitations described in subsection (b) shall be designed to ensure the timely development of cost-effective technologies or energy production processes or systems utilizing coal that achieve greater efficiency in the conversion of coal to useful energy when compared to currently commercially available technology for the use of coal and the control of emissions from the combustion of coal. Such program shall be designed to ensure, to the greatest extent possible, the availability for commercial use of such technologies by the year 2010.
 - **(b)** In conducting the Clean Coal Program established by Public Law 98–473 , the Secretary shall consider the potential benefits of conducting additional solicitations pursuant to such program and, based on the results of that consideration, may carry out such additional solicitations, which shall be similar in scope and percentage of Federal cost sharing as that provided by Public Law 101–121 .
+
+## Source Credit
+
+*([Pub. L. 102–486, title XIII, § 1321](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2976](https://www.govinfo.gov/link/statute/106/2976).)*

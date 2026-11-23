@@ -3,9 +3,10 @@ title: "Section 59jj - Designation of nonnavigability for portions of Gloucester
 usc_title: 33
 usc_section: "59jj"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 59jj"
-generated_at: "2026-03-30T02:55:41.052Z"
+generated_at: "2026-11-23T20:26:53.795Z"
+status: "active"
 ---
 
 # § 59jj. Designation of nonnavigability for portions of Gloucester County, New Jersey
@@ -74,3 +75,7 @@ generated_at: "2026-03-30T02:55:41.052Z"
     - **(B)** section 1344 of this title ; and
     - **(C)** the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.).
 - **(c)** If, on the date that is 20 years after November 12, 2001 , any area or portion of an area described in subsection (a)(3) 4 4 So in original. Probably should be “subsection (a)(2)”. is not bulkheaded, filled, or otherwise occupied by permanent structures (including marina facilities) in accordance with subsection (b), or if work in connection with any activity authorized under subsection (b) is not commenced by the date that is 5 years after the date on which permits for the work are issued, the designation of nonnavigability under subsection (a)(1) for that area or portion of an area shall terminate.
+
+## Source Credit
+
+*([Pub. L. 107–66, title I, § 107](https://www.govinfo.gov/link/plaw/107/public/66), Nov. 12, 2001, [115 Stat. 494](https://www.govinfo.gov/link/statute/115/494).)*

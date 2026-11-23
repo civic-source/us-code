@@ -3,9 +3,10 @@ title: "Section 4608 - Collection of assessments; refunds"
 usc_title: 7
 usc_section: "4608"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 4608"
-generated_at: "2026-03-30T02:53:42.410Z"
+generated_at: "2026-11-23T20:25:41.628Z"
+status: "active"
 ---
 
 # § 4608. Collection of assessments; refunds
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:53:42.410Z"
 - **(i)**
   - **(1)** If a first handler or the Secretary fails to collect an assessment from a producer under this section, the producer shall be responsible for the payment of the assessment to the Honey Board.
   - **(2)** If the United States Customs Service fails to collect an assessment from an importer or an importer fails to pay an assessment at the time of entry of honey and honey products into the United States under this section, the importer shall be responsible for the remission of the assessment to the Honey Board.
+
+## Source Credit
+
+*([Pub. L. 98–590, § 9](https://www.govinfo.gov/link/plaw/98/public/590), Oct. 30, 1984, [98 Stat. 3120](https://www.govinfo.gov/link/statute/98/3120); [Pub. L. 101–624, title XIX, § 1984(b)](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3906](https://www.govinfo.gov/link/statute/104/3906); [Pub. L. 102–237, title VIII, § 807(1)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1883](https://www.govinfo.gov/link/statute/105/1883); [Pub. L. 104–127, title V, § 591](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1084](https://www.govinfo.gov/link/statute/110/1084); [Pub. L. 105–185, title VI, § 605(h)](https://www.govinfo.gov/link/plaw/105/public/185), June 23, 1998, [112 Stat. 597](https://www.govinfo.gov/link/statute/112/597).)*

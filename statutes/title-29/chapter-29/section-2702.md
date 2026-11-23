@@ -3,9 +3,10 @@ title: "Section 2702 - Purposes"
 usc_title: 29
 usc_section: "2702"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 2702"
-generated_at: "2026-03-30T02:55:18.746Z"
+generated_at: "2026-11-23T20:26:38.073Z"
+status: "active"
 ---
 
 # § 2702. Purposes
@@ -14,3 +15,7 @@ The purposes of this chapter are to—
 
   - **(1)** improve the ability of workers and worker organizations to recognize, develop, assess, and improve strategies for successfully integrating workers and worker organizations into the process of evaluating, selecting, and implementing advanced workplace technologies, and advanced workplace practices in a manner that creates and maintains stable well-paying jobs for workers; and
   - **(2)** assist workers and worker organizations in developing the expertise necessary for effective participation with employers in the development of strategies and programs for the successful evaluation, selection, and implementation of advanced workplace technologies and advanced workplace practices through the provision of a range of education, training, and related services.
+
+## Source Credit
+
+*([Pub. L. 103–382, title V, § 543](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 4052](https://www.govinfo.gov/link/statute/108/4052).)*

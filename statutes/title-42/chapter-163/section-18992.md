@@ -3,9 +3,10 @@ title: "Section 18992 - Undergraduate STEM education"
 usc_title: 42
 usc_section: "18992"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18992"
-generated_at: "2026-03-30T02:56:11.534Z"
+generated_at: "2026-11-23T20:27:23.843Z"
+status: "active"
 ---
 
 # § 18992. Undergraduate STEM education
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:56:11.534Z"
   - **(4)** Not later than 180 days after the date on which the pilot program is completed, the Director shall submit to Congress a report that includes—
     - **(A)** an assessment, that includes feedback from the research community, of the effectiveness of the pilot program in increasing the number, diversity, and workforce readiness of STEM graduates; and
     - **(B)** if determined to be effective, a plan for permanent implementation of the pilot program.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10312](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1516](https://www.govinfo.gov/link/statute/136/1516).)*

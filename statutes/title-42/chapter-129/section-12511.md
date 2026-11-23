@@ -3,9 +3,10 @@ title: "Section 12511 - Definitions"
 usc_title: 42
 usc_section: "12511"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12511"
-generated_at: "2026-03-30T02:56:11.413Z"
+generated_at: "2026-11-23T20:27:23.361Z"
+status: "active"
 ---
 
 # § 12511. Definitions
@@ -106,3 +107,7 @@ For purposes of this subchapter:
   - **(47)** The term “territory” means the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
   - **(48)** The term “tribally controlled college or university” has the meaning given such term in section 1801 of title 25 .
   - **(49)** The term “veteran” has the meaning given the term in section 101 of title 38 .
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 101](https://www.govinfo.gov/link/plaw/101/public/610), Nov. 16, 1990, [104 Stat. 3129](https://www.govinfo.gov/link/statute/104/3129); [Pub. L. 102–10, § 3](https://www.govinfo.gov/link/plaw/102/public/10), Mar. 12, 1991, [105 Stat. 29](https://www.govinfo.gov/link/statute/105/29); [Pub. L. 102–384, § 3](https://www.govinfo.gov/link/plaw/102/public/384), Oct. 5, 1992, [106 Stat. 1455](https://www.govinfo.gov/link/statute/106/1455); [Pub. L. 103–82, title I, § 111(a)](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 857](https://www.govinfo.gov/link/statute/107/857); [Pub. L. 103–382, title III, § 394(h)(1)](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 4028](https://www.govinfo.gov/link/statute/108/4028); [Pub. L. 105–220, title IV, § 414(g)](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1242](https://www.govinfo.gov/link/statute/112/1242); [Pub. L. 105–244, title I, § 102(a)(13)(K)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1621](https://www.govinfo.gov/link/statute/112/1621); [Pub. L. 107–110, title X, § 1076(ff)](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2093](https://www.govinfo.gov/link/statute/115/2093); [Pub. L. 108–446, title III, § 305(m)](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2806](https://www.govinfo.gov/link/statute/118/2806); [Pub. L. 111–13, title I, § 1102](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1464](https://www.govinfo.gov/link/statute/123/1464); [Pub. L. 114–95, title IX, § 9215(bbb)(1)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2184](https://www.govinfo.gov/link/statute/129/2184).)*

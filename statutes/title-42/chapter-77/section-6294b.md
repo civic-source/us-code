@@ -3,9 +3,10 @@ title: "Section 6294b - WaterSense program"
 usc_title: 42
 usc_section: "6294b"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6294b"
-generated_at: "2026-03-30T02:56:11.247Z"
+generated_at: "2026-11-23T20:27:22.611Z"
+status: "active"
 ---
 
 # § 6294b. WaterSense program
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:56:11.247Z"
 - **(e)** A WaterSense label shall not create any express or implied warranty.
 - **(f)** In establishing performance criteria for products, buildings, landscapes, facilities, processes, or services pursuant to this section, the Administrator of the Environmental Protection Agency shall use technical specifications and testing protocols established by voluntary consensus standards organizations relevant to specific products, buildings, landscapes, facilities, processes, or services, as appropriate.
 - **(g)** The term “feasible” means feasible with the use of the best technology, techniques, and other means that the Administrator of the Environmental Protection Agency finds, after examination for efficacy under field conditions and not solely under laboratory conditions, are available (taking cost into consideration).
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 324B](https://www.govinfo.gov/link/plaw/94/public/163), as added [Pub. L. 115–270, title IV, § 4306(a)](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3884](https://www.govinfo.gov/link/statute/132/3884).)*

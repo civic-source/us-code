@@ -3,12 +3,17 @@ title: "Section 301 - Ancon Hospital to be known as Gorgas Hospital"
 usc_title: 24
 usc_section: "301"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "24 U.S.C. § 301"
-generated_at: "2026-03-30T02:54:50.790Z"
+generated_at: "2026-11-23T20:26:22.696Z"
+status: "active"
 ---
 
 # § 301. Ancon Hospital to be known as Gorgas Hospital
 
 In recognition of his distinguished services to humanity and as a fitting perpetuation of the name and memory of Major General William Crawford Gorgas, the Government hospital within the Canal Zone, near the City of Panama, known prior to March 24, 1928 , as the Ancon Hospital, shall after such date be known and designated on the public records as the Gorgas Hospital.
 
+
+## Source Credit
+
+*(Mar. 24, 1928, ch. 240, § 1, [45 Stat. 365](https://www.govinfo.gov/link/statute/45/365).)*

@@ -3,9 +3,10 @@ title: "Section 3581 - Objectives in intellectual property"
 usc_title: 19
 usc_section: "3581"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3581"
-generated_at: "2026-03-30T02:54:24.694Z"
+generated_at: "2026-11-23T20:26:11.064Z"
+status: "active"
 ---
 
 # § 3581. Objectives in intellectual property
@@ -19,3 +20,11 @@ It is the objective of the United States—
   - **(3)** to secure fair, equitable, and nondiscriminatory market access opportunities for United States persons that rely upon intellectual property protection,
   - **(4)** to take an active role in the development of the intellectual property regime under the World Trade Organization to ensure that it is consistent with other United States objectives, and
   - **(5)** to take an active role in the World Intellectual Property Organization (WIPO) to develop a cooperative and mutually supportive relationship between the World Trade Organization and WIPO.
+
+In General
+
+Section
+
+## Source Credit
+
+*([Pub. L. 103–465, title III, § 315](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4942](https://www.govinfo.gov/link/statute/108/4942).)*

@@ -3,9 +3,10 @@ title: "Section 2319A - Unauthorized fixation of and trafficking in sound record
 usc_title: 18
 usc_section: "2319A"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2319A"
-generated_at: "2026-03-30T02:54:16.502Z"
+generated_at: "2026-11-23T20:26:08.594Z"
+status: "active"
 ---
 
 # § 2319A. Unauthorized fixation of and trafficking in sound recordings and music videos of live musical performances
@@ -26,3 +27,19 @@ generated_at: "2026-03-30T02:54:16.502Z"
   - **(1)** the terms “copy”, “fixed”, “musical work”, “phonorecord”, “reproduce”, “sound recordings”, and “transmit” mean those terms within the meaning of title 17; and
   - **(2)** the term “traffic” has the same meaning as in section 2320(e) 1 1 See References in Text note below. of this title.
 - **(f)** This section shall apply to any Act or Acts that occur on or after the date of the enactment of the Uruguay Round Agreements Act.
+
+Offense
+
+Forfeiture and Destruction of Property; Restitution
+
+Seizure and Forfeiture
+
+Victim Impact Statement
+
+Definitions
+
+Applicability
+
+## Source Credit
+
+*(Added [Pub. L. 103–465, title V, § 513(a)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4974](https://www.govinfo.gov/link/statute/108/4974); amended [Pub. L. 105–147, § 2(e)](https://www.govinfo.gov/link/plaw/105/public/147), Dec. 16, 1997, [111 Stat. 2679](https://www.govinfo.gov/link/statute/111/2679); [Pub. L. 109–181, § 2(c)(1)](https://www.govinfo.gov/link/plaw/109/public/181), Mar. 16, 2006, [120 Stat. 288](https://www.govinfo.gov/link/statute/120/288); [Pub. L. 110–403, title II, § 203](https://www.govinfo.gov/link/plaw/110/public/403), Oct. 13, 2008, [122 Stat. 4261](https://www.govinfo.gov/link/statute/122/4261).)*

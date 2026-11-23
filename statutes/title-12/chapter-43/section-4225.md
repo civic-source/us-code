@@ -3,9 +3,10 @@ title: "Section 4225 - Rights of declarants; participation in actions, awards"
 usc_title: 12
 usc_section: "4225"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4225"
-generated_at: "2026-03-30T02:53:53.503Z"
+generated_at: "2026-11-23T20:25:59.373Z"
+status: "active"
 ---
 
 # § 4225. Rights of declarants; participation in actions, awards
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:53.503Z"
   - **(1)** No person shall receive both an award under this section and a reward under either section 1831k of this title or section 3509A 1 1 See References in Text note below. of title 18 for providing the same or substantially similar information.
   - **(2)** When a person qualifies for both an award under this section and a reward under either section 1831k of this title or section 3509A 1 of title 18 for providing the same or substantially similar information, the person may notify the Attorney General in writing of the person’s election to seek an award under this section or a reward under such other section.
 - **(e)** For purposes of this section, funds or assets acquired by the United States shall not include any funds or assets acquired by any appropriate Federal banking agency acting in any capacity or the Resolution Trust Corporation acting in any capacity, except for any civil money penalties recovered by a Federal banking agency through a final judgement, order, or settlement.
+
+## Source Credit
+
+*([Pub. L. 101–647, title XXV, § 2580](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4901](https://www.govinfo.gov/link/statute/104/4901).)*

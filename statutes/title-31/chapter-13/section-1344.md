@@ -3,9 +3,10 @@ title: "Section 1344 - Passenger carrier use"
 usc_title: 31
 usc_section: "1344"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 1344"
-generated_at: "2026-03-30T02:55:34.052Z"
+generated_at: "2026-11-23T20:26:51.726Z"
+status: "active"
 ---
 
 # § 1344. Passenger carrier use
@@ -69,3 +70,33 @@ generated_at: "2026-03-30T02:55:34.052Z"
     - **(I)** the Smithsonian Institution; and
     - **(J)** any nonappropriated fund instrumentality of the United States,
 - **(i)** Notwithstanding section 410(a) of title 39 , this section applies to the United States Postal Service.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1344(a) | 31:638a(c)(2)(1st sentence). | July 16, 1914, ch. 141, § 5(c)(2) (1st, last sentences), 38 Stat. 508 ; restated Aug. 2, 1946, ch. 744, § 16(a) , 60 Stat. 810 . |
+| 1344(b) | 31:638a(c)(2)(last sentence). |  |
+
+
+Historical and Revision Notes
+
+1344(a)
+
+July 16, 1914, ch. 141, § 5(c)(2)
+
+38 Stat. 508
+
+Aug. 2, 1946, ch. 744, § 16(a)
+
+60 Stat. 810
+
+1344(b)
+
+Definitions
+
+Guidance
+
+Issuance of charge cards
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 924](https://www.govinfo.gov/link/statute/96/924); [Pub. L. 99–550, § 1(a)](https://www.govinfo.gov/link/plaw/99/public/550), Oct. 27, 1986, [100 Stat. 3067](https://www.govinfo.gov/link/statute/100/3067); [Pub. L. 100–180, div. A, title XIII, § 1314(d)(2)](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1176](https://www.govinfo.gov/link/statute/101/1176); [Pub. L. 100–202, § 101(a) [title IV, § 407]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329](https://www.govinfo.gov/link/statute/101/1329), 1329–26; [Pub. L. 101–510, div. A, title III, § 326(b)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1531](https://www.govinfo.gov/link/statute/104/1531); [Pub. L. 103–272, § 4(f)(2)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1363](https://www.govinfo.gov/link/statute/108/1363); [Pub. L. 104–91, title I, § 101(a)](https://www.govinfo.gov/link/plaw/104/public/91), Jan. 6, 1996, [110 Stat. 11](https://www.govinfo.gov/link/statute/110/11), amended [Pub. L. 104–99, title II, § 211](https://www.govinfo.gov/link/plaw/104/public/99), Jan. 26, 1996, [110 Stat. 37](https://www.govinfo.gov/link/statute/110/37); [Pub. L. 108–7, div. K, title IV, § 423](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 526](https://www.govinfo.gov/link/statute/117/526); [Pub. L. 108–447, div. B, title I, § 117](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 2870](https://www.govinfo.gov/link/statute/118/2870); [Pub. L. 109–59, title III, § 3049(b)(1)](https://www.govinfo.gov/link/plaw/109/public/59), (2), Aug. 10, 2005, [119 Stat. 1712](https://www.govinfo.gov/link/statute/119/1712), 1713; [Pub. L. 111–350, § 5(h)(4)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3849](https://www.govinfo.gov/link/statute/124/3849); [Pub. L. 117–103, div. X, title III, § 306](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 966](https://www.govinfo.gov/link/statute/136/966).)*

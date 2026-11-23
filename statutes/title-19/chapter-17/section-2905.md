@@ -3,9 +3,10 @@ title: "Section 2905 - Accession of state trading regimes to General Agreement o
 usc_title: 19
 usc_section: "2905"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2905"
-generated_at: "2026-03-30T02:54:24.687Z"
+generated_at: "2026-11-23T20:26:11.027Z"
+status: "active"
 ---
 
 # § 2905. Accession of state trading regimes to General Agreement on Tariffs and Trade or WTO
@@ -35,3 +36,19 @@ generated_at: "2026-03-30T02:54:24.687Z"
 - **(e)** For purposes of this section:
   - **(1)** The term “GATT 1947” has the meaning given that term in section 3501(1)(A) of this title .
   - **(2)** The term “WTO Agreement” means the Agreement Establishing the World Trade Organization entered into on April 15, 1994 and the multilateral trade agreements (as such term is defined in section 3501(4) of this title ).
+
+China
+
+Russia
+
+Saudi Arabia
+
+Taiwan, Penghu, Kinmen, and Matsu
+
+Ukraine
+
+Vietnam
+
+## Source Credit
+
+*([Pub. L. 100–418, title I, § 1106](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1133](https://www.govinfo.gov/link/statute/102/1133); [Pub. L. 103–465, title VI, § 621(a)(4)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4993](https://www.govinfo.gov/link/statute/108/4993); [Pub. L. 104–295, § 20(f)(3)](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3529](https://www.govinfo.gov/link/statute/110/3529).)*

@@ -3,9 +3,10 @@ title: "Section 2462 - Definitions"
 usc_title: 16
 usc_section: "2462"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 2462"
-generated_at: "2026-03-30T02:54:23.003Z"
+generated_at: "2026-11-23T20:26:20.609Z"
+status: "active"
 ---
 
 # § 2462. Definitions
@@ -20,3 +21,7 @@ For the purposes of this chapter:
   - **(6)** The term “person” means any individual, corporation, partnership, trust, association, or any other entity existing or organized under the laws of the United States, or any officer, employee, agent, department, or other instrumentality of the Federal Government or of any State or political subdivision thereof.
   - **(7)** The term “prospecting” means any activity, including logistic support, the purpose of which is the identification of mineral resource potential for possible exploration and development.
   - **(8)** The term “Under Secretary” means the Under Secretary of Commerce for Oceans and Atmosphere.
+
+## Source Credit
+
+*([Pub. L. 101–594, § 3](https://www.govinfo.gov/link/plaw/101/public/594), Nov. 16, 1990, [104 Stat. 2976](https://www.govinfo.gov/link/statute/104/2976).)*

@@ -3,9 +3,10 @@ title: "Section 2091 - Organizations; articles; charters; powers of the Farm Cre
 usc_title: 12
 usc_section: "2091"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 2091"
-generated_at: "2026-03-30T02:53:53.472Z"
+generated_at: "2026-11-23T20:25:59.230Z"
+status: "active"
 ---
 
 # § 2091. Organizations; articles; charters; powers of the Farm Credit Administration
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:53.472Z"
   - **(2)** to provide for the initial amount of stock of the association;
   - **(3)** to provide for the territory within which the association may carry on its operations; and
   - **(4)** to approve amendments to the charter of such association.
+
+## Source Credit
+
+*([Pub. L. 92–181, title II, § 2](https://www.govinfo.gov/link/plaw/92/public/181).10, as added [Pub. L. 100–233, title IV, § 401](https://www.govinfo.gov/link/plaw/100/public/233), Jan. 6, 1988, [101 Stat. 1634](https://www.govinfo.gov/link/statute/101/1634); amended [Pub. L. 100–399, title IV, § 401(s)](https://www.govinfo.gov/link/plaw/100/public/399), (t), Aug. 17, 1988, [102 Stat. 998](https://www.govinfo.gov/link/statute/102/998).)*

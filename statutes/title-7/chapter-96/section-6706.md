@@ -3,9 +3,10 @@ title: "Section 6706 - Institutes of Tropical Forestry"
 usc_title: 7
 usc_section: "6706"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6706"
-generated_at: "2026-03-30T02:53:42.433Z"
+generated_at: "2026-11-23T20:25:41.720Z"
+status: "active"
 ---
 
 # § 6706. Institutes of Tropical Forestry
@@ -20,3 +21,7 @@ The Secretary is authorized and directed to establish an Institute of Tropical F
   - **(6)** techniques to monitor the health and productivity of tropical forests;
   - **(7)** tropical forest regeneration and restoration; and
   - **(8)** the effects of tropical deforestation on biodiversity, global climate, wildlife, soils, and water.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XXIV, § 2407](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 4060](https://www.govinfo.gov/link/statute/104/4060).)*

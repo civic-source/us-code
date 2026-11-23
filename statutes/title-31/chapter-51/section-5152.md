@@ -3,12 +3,32 @@ title: "Section 5152 - Value of United States money holdings in international in
 usc_title: 31
 usc_section: "5152"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 5152"
-generated_at: "2026-03-30T02:55:34.066Z"
+generated_at: "2026-11-23T20:26:51.856Z"
+status: "active"
 ---
 
 # § 5152. Value of United States money holdings in international institutions
 
 The Secretary of the Treasury shall maintain the value in terms of gold of the holdings of United States money of the International Bank for Reconstruction and Development, the Inter-American Development Bank, the International Development Association, and the Asian Development Bank to the extent provided in the articles of agreement of those institutions. Amounts necessary to maintain the value may be appropriated. Amounts appropriated under this section remain available until expended.
 
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5152 | 31:449a. | Mar. 31, 1972 , Pub. L. 92–268, § 3 , 86 Stat. 117 . |
+
+
+Historical and Revision Notes
+
+5152
+
+Mar. 31, 1972
+
+Pub. L. 92–268, § 3
+
+86 Stat. 117
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 992](https://www.govinfo.gov/link/statute/96/992).)*

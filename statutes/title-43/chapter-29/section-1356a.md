@@ -3,9 +3,10 @@ title: "Section 1356a - Coastal impact assistance program"
 usc_title: 43
 usc_section: "1356a"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1356a"
-generated_at: "2026-03-30T02:55:57.472Z"
+generated_at: "2026-11-23T20:27:06.285Z"
+status: "active"
 ---
 
 # § 1356a. Coastal impact assistance program
@@ -99,3 +100,11 @@ generated_at: "2026-03-30T02:55:57.472Z"
     - **(A)** If the Secretary approves a project for funding under this subsection that is included in a plan previously approved under subsection (c), not later than 90 days after the date of the funding approval, the producing State or coastal political subdivision shall submit to the Secretary any additional information that the Secretary determines to be necessary to ensure that the project is in compliance with subsection (d).
     - **(B)** If the Secretary approves a project for funding under this subsection that is not included in a plan previously approved under subsection (c), not later than 90 days after the date of the funding approval, the producing State or coastal political subdivision shall submit to the Secretary for approval an amendment to the plan that includes any projects funded under paragraph (1), as well as any information about such projects that the Secretary determines to be necessary to ensure that the project is in compliance with subsection (d).
     - **(C)** If a producing State or coastal political subdivision does not submit the additional information or amendments to the plan required by this paragraph, or if, based on the information submitted by the Secretary determines that the project is not in compliance with subsection (d), by the deadlines specified in this paragraph, the Secretary shall not disburse any additional funds to the producing State or the coastal political subdivisions until the date on which the additional information or amendment to the plan has been approved by the Secretary.
+
+(aa) the name of a contact person; and
+
+(bb) a description of how the coastal political subdivision will use amounts provided under this section;
+
+## Source Credit
+
+*(Aug. 7, 1953, ch. 345, § 31, as added [Pub. L. 106–553, § 1(a)(2) [title IX, § 903]](https://www.govinfo.gov/link/plaw/106/public/553), Dec. 21, 2000, [114 Stat. 2762](https://www.govinfo.gov/link/statute/114/2762), 2762A–124; amended [Pub. L. 109–58, title III, § 384](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 739](https://www.govinfo.gov/link/statute/119/739); [Pub. L. 111–212, title III, § 3013](https://www.govinfo.gov/link/plaw/111/public/212), July 29, 2010, [124 Stat. 2341](https://www.govinfo.gov/link/statute/124/2341).)*

@@ -3,9 +3,10 @@ title: "Section 4033 - Rules of origin"
 usc_title: 19
 usc_section: "4033"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 4033"
-generated_at: "2026-03-30T02:54:24.699Z"
+generated_at: "2026-11-23T20:26:11.110Z"
+status: "active"
 ---
 
 # § 4033. Rules of origin
@@ -238,3 +239,98 @@ generated_at: "2026-03-30T02:54:24.699Z"
     - **(F)** The President shall establish procedures—
       - **(i)** governing the submission of a request under subparagraphs (C) and (E); and
       - **(ii)** providing an opportunity for interested entities to submit comments and supporting evidence before the President makes a determination under subparagraph (C)(ii) or (vi) or (E)(iii).
+
+|  | rvc | = | av–vnm | × | 100 |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |
+
+|  | rvc | = | vom | × | 100 |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |
+
+|  | rvc | = | nc–vnm | × | 100 |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |
+
+|  | “rvc | = | av–vnm | × | 100” |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |
+
+|  | “rvc | = | av | × | 100”. |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |
+
+|  | “rvc | = | vom | × | 100” |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |
+
+|  | “rvc | = | av | × | 100”. |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |
+
+|  | “rvc | = | nc–vnm | × | 100” |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |
+
+|  | “rvc | = | nc | × | 100”. |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |
+
+
+rvc
+
+av–vnm
+
+av
+
+rvc
+
+vom
+
+av
+
+rvc
+
+nc–vnm
+
+nc
+
+“rvc
+
+av–vnm
+
+av
+
+“rvc
+
+av
+
+av–vnm
+
+“rvc
+
+vom
+
+av
+
+“rvc
+
+av
+
+vom
+
+“rvc
+
+nc–vnm
+
+nc
+
+“rvc
+
+nc
+
+nc–vnm
+
+## Source Credit
+
+*([Pub. L. 109–53, title II, § 203](https://www.govinfo.gov/link/plaw/109/public/53), Aug. 2, 2005, [119 Stat. 469](https://www.govinfo.gov/link/statute/119/469); [Pub. L. 109–135, title IV, § 421](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2642](https://www.govinfo.gov/link/statute/119/2642).)*

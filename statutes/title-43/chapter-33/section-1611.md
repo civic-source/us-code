@@ -3,9 +3,10 @@ title: "Section 1611 - Native land selections"
 usc_title: 43
 usc_section: "1611"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1611"
-generated_at: "2026-03-30T02:55:57.479Z"
+generated_at: "2026-11-23T20:27:06.322Z"
+status: "active"
 ---
 
 # § 1611. Native land selections
@@ -43,3 +44,89 @@ generated_at: "2026-03-30T02:55:57.479Z"
   - **(2)** The combined entitlement under paragraph (1) may be fulfilled from selections under subsection (a) or (b) without regard to the entitlement specified in the selection application.
   - **(3)** All selections under a combined entitlement under paragraph (1) shall be adjudicated and conveyed in compliance with this chapter.
   - **(4)** Except in a case in which a survey has been contracted for December 10, 2004 , the combination of entitlements under paragraph (1) shall not require separate patents or surveys, to distinguish between conveyances made to a Village Corporation under subsections (a) and (b).
+
+In General
+
+Congressional Action
+
+In General
+
+Requirements
+
+Correction of Conveyance Documents
+
+Consultation
+
+Errors
+
+Effect.—
+
+In general
+
+Effect on subsurface rights
+
+Effect on entitlement
+
+Boundaries of a Native Village
+
+Availability of Agreements
+
+In General
+
+Inclusions
+
+In General
+
+Acreage Limitations
+
+Corrections.—
+
+In general
+
+Technical corrections
+
+Relinquishment.—
+
+In general
+
+Records
+
+Failure To Submit Priorities
+
+Plan of Conveyance.—
+
+In general
+
+Finalized selections
+
+Dissolved or Lapsed Corporations.—
+
+“(A) concurrently with the commencement of screening of any excess real property, wherever located, for utilization by Federal agencies, the Administrator of General Services shall notify the Region that such property may be available for conveyance to the Region upon negotiated sale. Within fifteen days of the date of receipt of such notice, the Region may advise the Administrator that there is a tentative need for the property to fulfill the obligations established under section 12(b)(5) and (6) [subsec. (b)(5) and (6) of this note]. If the Administrator determines the property should be disposed of by transfer to the Region, the Administrator or other appropriate Federal official shall promptly transfer such property;
+
+“(B) no disposition or conveyance of property under this subsection to the Region shall be made until the Administrator, after notice to affected State and local governments, has provided to them such opportunity to obtain the property as is recognized in title 40, United States Code and the regulations thereunder for the disposition or conveyance of surplus property; and
+
+“(C) as used in this subsection, ‘real property’ means any land or interests in land owned or held by the United States or any Federal agency, any improvements on such land or rights to their use or exploitation, and any personal property related to the land.
+
+“(A) the obligation of the Secretary under subparagraph I(C)(2)(a) of such document shall terminate on such date, after July 15, 1984 , that the Secretary has fulfilled his obligation under subparagraph I(C)(2)(g) of that document: Provided , That the obligation of the Secretary under subparagraph I(C)(2)(g) of such document shall be fulfilled at such date, after July 15, 1984 , that the sum of the acres or acre-equivalents identified for and placed in the pool and the acres or acre-equivalents used by the Region in purchasing property under section 12(b)(7) [subsec. (b)(7) of this note] equals or exceeds 138,240 acres or acre-equivalents;
+
+“(B) the authority of the Secretary under subparagraphs I(C)(2)(b) and I(C)(2)(g)(ii) of such document to contribute to the pool created under subparagraph I(C)(2)(a) of such document shall terminate (a) on July 15, 1984 , if, by that date, the Secretary has fulfilled his obligation under subparagraph I(C)(2)(g), or (b) if not, on such date after July 15, 1984 as such obligation is fulfilled, or (c) if such obligation remains unfulfilled, on July 15, 1987 ;
+
+“(C) the concurrence by the State as described in subparagraphs I(C)(2)(a)(vi) and I(C)(2)(c) of the document referred to in this section shall be deemed not required after the Secretary has fulfilled his obligation under subparagraph I(C)(2)(g) of that document, but in no event after July 15, 1987 . In lieu of such concurrence, after 1984 as to military property, and after the Secretary has fulfilled his obligation under subparagraph I(C)(2)(g) of that document or July 15, 1987 , whichever is earlier, as to any other property, except property of the Alaska Railroad which is governed by subsection 12(b)(6)(i)(D) of this Act [probably means subpar. (i)(D) of this paragraph], the Secretary shall not place any lands in the selection pool referred to in subparagraphs I(C)(2)(a) and (g) of the document referred to in this section without the prior written concurrence of the State. Such concurrence shall be deemed obtained unless the State advises the Secretary within ninety days of receipt of a formal notice from the Secretary that he is considering placing property in the selection pool, that the State, or a municipality of the State which includes all or part of the property in question, requires the property for a public purpose of the State or municipality; and
+
+“(D) notwithstanding section 606(a)(2) of the Alaska Railroad Transfer Act of 1982 [ section 1205(a)(2) of Title 45 , Railroads], the Secretary may include property of the Alaska Railroad in the pool of lands to be made available for selection to the extent that he is authorized to do so under a provision of section 12(b) of this Act [subsec. (b) of this note] if the State consents to its inclusion, which consent is not subject to any limitation under subsection 12(b)(8)(i)(C) herein: Provided , That, while the Alaska Railroad is the property of the United States, the Secretary shall obtain the consent of the Secretary of Transportation prior to including such property: And provided further , That, if the transfer of the Alaska Railroad to the State does not occur pursuant to the terms of the Alaska Railroad Transfer Act of 1982 [see Short Title note set out under section 1201 of Title 45 ] or any amendments thereto, the State’s consent shall be deemed obtained unless the State advises the Secretary in writing, within ninety days of receipt of a formal notice from the Secretary that he is considering placing such property in the selection pool, that the State, or a municipality of the State which includes all or part of the property in question, requires the property for a public purpose of the State or the municipality.
+
+“(A) such studies and inquiries as shall have been initiated by the Secretary and the Administrator of General Services, or have been prepared by other holding agencies, to determine what lands, except for lands held by the Alaska Railroad or the State-owned railroad, within the boundaries of the Cook Inlet Region or elsewhere can be made available to the Region, to the extent of its entitlement;
+
+“(B) the feasibility and appropriate nature of reimbursement of the Region for its unfulfilled entitlement as valued in subsection 12(b)(7)(iv) of this Act [subsec. (b)(7)(iv) of this note];
+
+“(C) the extent to which implementation of the mechanisms established in section 12(b)(7) [subsec. (b)(7) of this note] promise to meet such unfulfilled entitlement;
+
+“(D) such other remedial legislation or administrative action as may be needed; and
+
+“(E) the need to terminate any mechanism established by law through which the entitlement of the Region may be completed.
+
+“Within ninety days after the date of enactment of this Act [ Jan. 2, 1976 ], the corporation created by the enrolled residents of the Village of Tatitlek may file selections upon any of the following described lands: Copper River Meridian
+
+## Source Credit
+
+*([Pub. L. 92–203, § 12](https://www.govinfo.gov/link/plaw/92/public/203), Dec. 18, 1971, [85 Stat. 701](https://www.govinfo.gov/link/statute/85/701); [Pub. L. 96–487, title XIV](https://www.govinfo.gov/link/plaw/96/public/487), §§ 1402, 1403, Dec. 2, 1980, [94 Stat. 2492](https://www.govinfo.gov/link/statute/94/2492); [Pub. L. 105–333, § 3](https://www.govinfo.gov/link/plaw/105/public/333), Oct. 31, 1998, [112 Stat. 3130](https://www.govinfo.gov/link/statute/112/3130); [Pub. L. 108–452, title II, § 202](https://www.govinfo.gov/link/plaw/108/public/452), Dec. 10, 2004, [118 Stat. 3582](https://www.govinfo.gov/link/statute/118/3582).)*

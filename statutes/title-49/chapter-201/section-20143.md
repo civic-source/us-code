@@ -3,9 +3,10 @@ title: "Section 20143 - Locomotive visibility"
 usc_title: 49
 usc_section: "20143"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 20143"
-generated_at: "2026-03-30T02:56:19.335Z"
+generated_at: "2026-11-23T20:27:34.792Z"
+status: "active"
 ---
 
 # § 20143. Locomotive visibility
@@ -24,3 +25,56 @@ generated_at: "2026-03-30T02:56:19.335Z"
   - **(1)** Not later than June 30, 1995 , the Secretary shall prescribe final regulations requiring enhanced locomotive visibility measures. The Secretary shall require that not later than December 31, 1997 , a locomotive not excluded from the regulations be equipped with temporary visibility measures under subsection (b) of this section or the visibility measures the final regulations require.
   - **(2)** In prescribing regulations under paragraph (1) of this subsection, the Secretary may exclude a category of trains or rail operations from a specific visibility requirement if the Secretary decides the exclusion is in the public interest and is consistent with rail safety, including grade-crossing safety.
   - **(3)** A locomotive equipped with temporary visibility measures prescribed under subsection (b) of this section when final regulations are prescribed under paragraph (1) of this subsection is deemed to be complying with the final regulations for 4 years after the final regulations are prescribed.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 20143(a) | 45:431(u)(6). | Oct. 16, 1970 , Pub. L. 91–458 , 84 Stat. 971 , § 202(u); added Oct. 27, 1992 , Pub. L. 102–533, § 14 , 106 Stat. 3522 . |
+| 20143(b) | 45:431(u)(2) (1st, 2d sentences). |  |
+| 20143(c) | 45:431(u)(1). |  |
+| 20143(d) | 45:431(u)(3). |  |
+| 20143(e)(1) | 45:431(u)(5). |  |
+| 20143(e)(2) | 45:431(u)(4). |  |
+| 20143(e)(3) | 45:431(u)(2) (last sentence). |  |
+
+
+Definition
+
+Interim Regulations
+
+Review of Regulations
+
+Regulatory Proceeding
+
+Final Regulations
+
+Historical and Revision Notes
+
+20143(a)
+
+Oct. 16, 1970
+
+Pub. L. 91–458
+
+84 Stat. 971
+
+Oct. 27, 1992
+
+Pub. L. 102–533, § 14
+
+106 Stat. 3522
+
+20143(b)
+
+20143(c)
+
+20143(d)
+
+20143(e)(1)
+
+20143(e)(2)
+
+20143(e)(3)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 880](https://www.govinfo.gov/link/statute/108/880).)*

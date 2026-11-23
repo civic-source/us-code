@@ -3,9 +3,10 @@ title: "Section 3901 - Congressional findings and objectives"
 usc_title: 22
 usc_section: "3901"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3901"
-generated_at: "2026-03-30T02:55:05.398Z"
+generated_at: "2026-11-23T20:26:32.479Z"
+status: "active"
 ---
 
 # § 3901. Congressional findings and objectives
@@ -27,3 +28,51 @@ generated_at: "2026-03-30T02:55:05.398Z"
   - **(8)** improving Foreign Service managerial flexibility and effectiveness;
   - **(9)** increasing efficiency and economy by promoting maximum compatibility among the agencies authorized by law to utilize the Foreign Service personnel system, as well as compatibility between the Foreign Service personnel system and other personnel systems of the Government; and
   - **(10)** otherwise enabling the Foreign Service to serve effectively the interests of the United States and to provide the highest caliber of representation in the conduct of foreign affairs.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Ronald Reagan.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 101](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2074](https://www.govinfo.gov/link/statute/94/2074); [Pub. L. 117–263, div. I, title XCII, § 9219(1)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3878](https://www.govinfo.gov/link/statute/136/3878).)*

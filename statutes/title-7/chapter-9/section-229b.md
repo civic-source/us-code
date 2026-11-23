@@ -3,9 +3,10 @@ title: "Section 229b - Right to discuss terms of contract"
 usc_title: 7
 usc_section: "229b"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 229b"
-generated_at: "2026-03-30T02:53:42.279Z"
+generated_at: "2026-11-23T20:25:41.007Z"
+status: "active"
 ---
 
 # § 229b. Right to discuss terms of contract
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:42.279Z"
   - **(1)** preempt any State law that addresses confidentiality provisions in contracts for the sale or production of livestock or poultry, except any provision of State law that makes lawful a contract provision that prohibits a party from, or limits a party in, engaging in discussion that subsection (b) requires to be permitted; or
   - **(2)** deprive any State court of jurisdiction under any such State law.
 - **(d)** This section applies to each contract described in subsection (b) that is entered into, amended, renewed, or extended after May 13, 2002 .
+
+## Source Credit
+
+*([Pub. L. 107–171, title X, § 10503](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 510](https://www.govinfo.gov/link/statute/116/510).)*

@@ -3,12 +3,38 @@ title: "Section 55312 - Determining prevailing world market price"
 usc_title: 46
 usc_section: "55312"
 chapter: 553
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 55312"
-generated_at: "2026-03-30T02:56:15.580Z"
+generated_at: "2026-11-23T20:27:27.388Z"
+status: "active"
 ---
 
 # § 55312. Determining prevailing world market price
 
 - **(a)** The prevailing world market price for agricultural commodities or their products shall be determined under this subchapter under procedures prescribed by the Secretary of Agriculture. The Secretary shall prescribe the procedures by regulation, with notice and opportunity for public comment under section 553 of title 5 .
 - **(b)** If a determination of the prevailing world market price of any other type of materials, goods, equipment, or service is required to determine whether a barter or exchange transaction is subject to section 55314(b)(6) or (7) of this title, the determination shall be made by the Secretary of Agriculture in consultation with the heads of other appropriate agencies.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 55312 | 46 App.:1241f(e). | June 29, 1936, ch. 858 , title IX, § 901b(e), as added Pub. L. 99–198, title XI, § 1142 , Dec. 23, 1985 , 99 Stat. 1492 . |
+
+
+Agricultural Commodities and Products
+
+Services and Non-Agricultural Commodities and Products
+
+Historical and Revision Notes
+
+55312
+
+June 29, 1936, ch. 858
+
+Pub. L. 99–198, title XI, § 1142
+
+Dec. 23, 1985
+
+99 Stat. 1492
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(c)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1644](https://www.govinfo.gov/link/statute/120/1644).)*

@@ -3,9 +3,10 @@ title: "Section 996 - Individual Longitudinal Exposure Record"
 usc_title: 10
 usc_section: "996"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 996"
-generated_at: "2026-03-30T02:53:38.095Z"
+generated_at: "2026-11-23T20:25:51.172Z"
+status: "active"
 ---
 
 # § 996. Individual Longitudinal Exposure Record
@@ -28,3 +29,17 @@ generated_at: "2026-03-30T02:53:38.095Z"
     - **(B)** The Committee on Armed Services of House of Representatives.
     - **(C)** The Committee on Veterans’ Affairs of the Senate.
     - **(D)** The Committee on Veterans’ Affairs of the House of Representatives.
+
+Establishment
+
+Elements
+
+Service Records
+
+Data Sharing
+
+Annual Briefing
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. A, title V, § 521(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 863](https://www.govinfo.gov/link/statute/139/863).)*

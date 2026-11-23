@@ -3,9 +3,10 @@ title: "Section 2237 - Criminal sanctions for failure to heave to, obstruction o
 usc_title: 18
 usc_section: "2237"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2237"
-generated_at: "2026-03-30T02:54:16.496Z"
+generated_at: "2026-11-23T20:26:08.559Z"
+status: "active"
 ---
 
 # § 2237. Criminal sanctions for failure to heave to, obstruction of boarding, or providing false information
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:54:16.496Z"
       - **(ii)** at an excessive speed; or
       - **(iii)** of a number of persons in excess of the rated capacity of the vessel; or
     - **(B)** intentional grounding of a vessel in which persons are being transported.
+
+## Source Credit
+
+*(Added [Pub. L. 109–177, title III, § 303(a)](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 233](https://www.govinfo.gov/link/statute/120/233); amended [Pub. L. 111–281, title IX, § 917](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 3021](https://www.govinfo.gov/link/statute/124/3021).)*

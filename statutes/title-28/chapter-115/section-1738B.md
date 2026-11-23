@@ -3,9 +3,10 @@ title: "Section 1738B - Full faith and credit for child support orders"
 usc_title: 28
 usc_section: "1738B"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 1738B"
-generated_at: "2026-03-30T02:55:30.144Z"
+generated_at: "2026-11-23T20:26:36.472Z"
+status: "active"
 ---
 
 # § 1738B. Full faith and credit for child support orders
@@ -57,3 +58,37 @@ generated_at: "2026-03-30T02:55:30.144Z"
   - **(2)** In interpreting a child support order including the duration of current payments and other obligations of support, a court shall apply the law of the State of the court that issued the order.
   - **(3)** In an action to enforce arrears under a child support order, a court shall apply the statute of limitation of the forum State or the State of the court that issued the order, whichever statute provides the longer period of limitation.
 - **(i)** If there is no individual contestant or child residing in the issuing State, the party or support enforcement agency seeking to modify, or to modify and enforce, a child support order issued in another State shall register that order in a State with jurisdiction over the nonmovant for the purpose of modification.
+
+General Rule
+
+Definitions
+
+Requirements of Child Support Orders
+
+Continuing Jurisdiction
+
+Authority To Modify Orders
+
+Recognition of Child Support Orders
+
+Enforcement of Modified Orders
+
+Choice of Law.—
+
+In general
+
+Law of state of issuance of order
+
+Period of limitation
+
+Registration for Modification
+
+Findings
+
+Statement of Policy
+
+Purposes
+
+## Source Credit
+
+*(Added [Pub. L. 103–383, § 3(a)](https://www.govinfo.gov/link/plaw/103/public/383), Oct. 20, 1994, [108 Stat. 4064](https://www.govinfo.gov/link/statute/108/4064); amended [Pub. L. 104–193, title III, § 322](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2221](https://www.govinfo.gov/link/statute/110/2221); [Pub. L. 105–33, title V, § 5554](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 636](https://www.govinfo.gov/link/statute/111/636); [Pub. L. 113–183, title III, § 301(f)(2)](https://www.govinfo.gov/link/plaw/113/public/183), Sept. 29, 2014, [128 Stat. 1944](https://www.govinfo.gov/link/statute/128/1944).)*

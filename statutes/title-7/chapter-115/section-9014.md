@@ -3,9 +3,10 @@ title: "Section 9014 - Payment acres"
 usc_title: 7
 usc_section: "9014"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 9014"
-generated_at: "2026-03-30T02:53:42.483Z"
+generated_at: "2026-11-23T20:25:41.933Z"
+status: "active"
 ---
 
 # § 9014. Payment acres
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:53:42.483Z"
     - **(B)** in any region in which there is a history of double-cropping covered commodities with crops referred to in paragraph (1) and such crops were so double-cropped on the base acres, as determined by the Secretary.
   - **(5)** For each crop year for which fruits, vegetables (other than mung beans and pulse crops), or wild rice are planted to base acres on a farm for which a reduction in payment acres is made under this subsection, the Secretary shall consider such base acres to be planted, or prevented from being planted, to a covered commodity for purposes of any adjustment or reduction of base acres for the farm under section 9012 of this title .
 - **(f)** The Secretary shall maintain information on generic base acres on a farm allocated as unassigned crop base under subsection (b)(4).
+
+## Source Credit
+
+*([Pub. L. 113–79, title I, § 1114](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 666](https://www.govinfo.gov/link/statute/128/666); [Pub. L. 115–123, div. F, § 60101(a)(5)](https://www.govinfo.gov/link/plaw/115/public/123), (6), (11), Feb. 9, 2018, [132 Stat. 308](https://www.govinfo.gov/link/statute/132/308), 309, 311; [Pub. L. 115–334, title I, § 1104](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4502](https://www.govinfo.gov/link/statute/132/4502).)*

@@ -3,9 +3,10 @@ title: "Section 123 - Terrorist travel program"
 usc_title: 6
 usc_section: "123"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 123"
-generated_at: "2026-03-30T02:53:09.444Z"
+generated_at: "2026-11-23T20:25:34.640Z"
+status: "active"
 ---
 
 # § 123. Terrorist travel program
@@ -28,3 +29,31 @@ generated_at: "2026-03-30T02:53:09.444Z"
     - **(B)** between the Department of Homeland Security and other appropriate Federal agencies; and
   - **(5)** serving as the Secretary’s primary point of contact with the National Counterterrorism Center for implementing initiatives related to terrorist travel and ensuring that the recommendations of the Center related to terrorist travel are carried out by the Department.
 - **(d)** Not later than 180 days after August 3, 2007 , the Secretary of Homeland Security shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives a report on the implementation of this section.
+
+Sense of Congress
+
+National Strategy and Updates.—
+
+In general
+
+Updated strategies
+
+Contents
+
+Sunset
+
+Development of Implementation Plans
+
+Implementation Plans.—
+
+In general
+
+Annual updates
+
+Definition
+
+Special Rule for Certain Receipt
+
+## Source Credit
+
+*([Pub. L. 108–458, title VII, § 7215](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3832](https://www.govinfo.gov/link/statute/118/3832); [Pub. L. 110–53, title VII, § 722](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 348](https://www.govinfo.gov/link/statute/121/348).)*

@@ -3,9 +3,10 @@ title: "Section 12645c - Limitation on program grant costs"
 usc_title: 42
 usc_section: "12645c"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12645c"
-generated_at: "2026-03-30T02:56:11.423Z"
+generated_at: "2026-11-23T20:27:23.402Z"
+status: "active"
 ---
 
 # § 12645c. Limitation on program grant costs
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.423Z"
     - **(C)** the needs of tribal programs or programs located in the territories; and
     - **(D)** the need to pay for start-up costs associated with a first-time recipient of assistance under a program of the national service laws.
   - **(2)** The Chief Executive Officer shall report to the authorizing committees annually on all limitations increased under this subsection, with an explanation of the compelling needs justifying such increases.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 189](https://www.govinfo.gov/link/plaw/101/public/610), as added [Pub. L. 111–13, title I, § 1612](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1539](https://www.govinfo.gov/link/statute/123/1539).)*

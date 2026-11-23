@@ -3,9 +3,10 @@ title: "Section 21102 - Nonapplication, exemption, and alternate hours of servic
 usc_title: 49
 usc_section: "21102"
 chapter: 211
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 21102"
-generated_at: "2026-03-30T02:56:19.339Z"
+generated_at: "2026-11-23T20:27:34.812Z"
+status: "active"
 ---
 
 # § 21102. Nonapplication, exemption, and alternate hours of service regime
@@ -28,3 +29,69 @@ generated_at: "2026-03-30T02:56:19.339Z"
     - **(A)** The terms “commuter rail passenger transportation” and “intercity rail passenger transportation” have the meaning given those terms in section 24102 of this title .
     - **(C)** 1 1 So in original. No subpar. (B) has been enacted. The term “new section 21103” means section 21103 of this chapter as amended by the Rail Safety Improvement Act of 2008.
     - **(D)** The term “old section 21103” means section 21103 of this chapter as it was in effect on the day before the enactment of that Act.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 21102(a) | 45:63a(d) (related to 45:64a). | Mar. 4, 1907, ch. 2939 , 34 Stat. 1415 , § 3A(d) (related to § 5); added July 8, 1976 , Pub. L. 94–348, § 4(d) , 90 Stat. 819 ; June 22, 1988 , Pub. L. 100–342, § 16(4) , 102 Stat. 635 . |
+|  | 45:64a(d). | Mar. 4, 1907, ch. 2939, § 5(d) , 34 Stat. 1417 ; restated Dec. 26, 1969 , Pub. L. 91–169, § 1 , 83 Stat. 464 ; June 22, 1988 , Pub. L. 100–342, § 16(6)(D) , 102 Stat. 635 . |
+| 21102(b) | 45:63a(d) (related to 45:64a). |  |
+|  | 45:64a(e). | Mar. 4, 1907, ch. 2939, § 5(e) , 34 Stat. 1417 ; restated Dec. 26, 1969 , Pub. L. 91–169, § 1 , 83 Stat. 464 . |
+
+
+General
+
+Exemption
+
+Application of Hours of Service Regime to Commuter and Intercity Passenger Railroad Train Employees.—
+
+Historical and Revision Notes
+
+21102(a)
+
+Mar. 4, 1907, ch. 2939
+
+34 Stat. 1415
+
+July 8, 1976
+
+Pub. L. 94–348, § 4(d)
+
+90 Stat. 819
+
+June 22, 1988
+
+Pub. L. 100–342, § 16(4)
+
+102 Stat. 635
+
+Mar. 4, 1907, ch. 2939, § 5(d)
+
+34 Stat. 1417
+
+Dec. 26, 1969
+
+Pub. L. 91–169, § 1
+
+83 Stat. 464
+
+June 22, 1988
+
+Pub. L. 100–342, § 16(6)(D)
+
+102 Stat. 635
+
+21102(b)
+
+Mar. 4, 1907, ch. 2939, § 5(e)
+
+34 Stat. 1417
+
+Dec. 26, 1969
+
+Pub. L. 91–169, § 1
+
+83 Stat. 464
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 888](https://www.govinfo.gov/link/statute/108/888); [Pub. L. 110–432, div. A, title I, § 108(d)(1)](https://www.govinfo.gov/link/plaw/110/public/432), Oct. 16, 2008, [122 Stat. 4863](https://www.govinfo.gov/link/statute/122/4863).)*

@@ -3,9 +3,10 @@ title: "Section 1311 - Rights of States"
 usc_title: 43
 usc_section: "1311"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1311"
-generated_at: "2026-03-30T02:55:57.468Z"
+generated_at: "2026-11-23T20:27:06.273Z"
+status: "active"
 ---
 
 # § 1311. Rights of States
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:57.468Z"
 - **(c)** The rights, powers, and titles hereby recognized, confirmed, established, and vested in and assigned to the respective States and their grantees are subject to each lease executed by a State, or its grantee, which was in force and effect on June 5, 1950 , in accordance with its terms and provisions and the laws of the State issuing, or whose grantee issued, such lease, and such rights, powers, and titles are further subject to the rights herein now granted to any person holding any such lease to continue to maintain the lease, and to conduct operations thereunder, in accordance with its provisions, for the full term thereof, and any extensions, renewals, or replacements authorized therein, or heretofore authorized by the laws of the State issuing, or whose grantee issued such lease: Provided, however , That, if oil or gas was not being produced from such lease on and before December 11, 1950 , or if the primary term of such lease has expired since December 11, 1950 , then for a term from May 22, 1953 equal to the term remaining unexpired on December 11, 1950 , under the provisions of such lease or any extensions, renewals, or replacements authorized therein, or heretofore authorized by the laws of the State issuing, or whose grantee issued, such lease: Provided, however , That within ninety days from May 22, 1953 (i) the lessee shall pay to the State or its grantee issuing such lease all rents, royalties, and other sums payable between June 5, 1950 , and May 22, 1953 , under such lease and the laws of the State issuing or whose grantee issued such lease, except such rents, royalties, and other sums as have been paid to the State, its grantee, the Secretary of the Interior or the Secretary of the Navy or the Treasurer of the United States and not refunded to the lessee; and (ii) the lessee shall file with the Secretary of the Interior or the Secretary of the Navy and with the State issuing or whose grantee issued such lease, instruments consenting to the payment by the Secretary of the Interior or the Secretary of the Navy or the Treasurer of the United States to the State or its grantee issuing the lease, of all rents, royalties, and other payments under the control of the Secretary of the Interior or the Secretary of the Navy or the Treasurer of the United States or the United States which have been paid, under the lease, except such rentals, royalties, and other payments as have also been paid by the lessee to the State or its grantee;
 - **(d)** Nothing in this subchapter or subchapter I shall affect the use, development, improvement, or control by or under the constitutional authority of the United States of said lands and waters for the purposes of navigation or flood control or the production of power, or be construed as the release or relinquishment of any rights of the United States arising under the constitutional authority of Congress to regulate or improve navigation, or to provide for flood control, or the production of power;
 - **(e)** Nothing in this subchapter or subchapter I shall be construed as affecting or intended to affect or in any way interfere with or modify the laws of the States which lie wholly or in part westward of the ninety-eighth meridian, relating to the ownership and control of ground and surface waters; and the control, appropriation, use, and distribution of such waters shall continue to be in accordance with the laws of such States.
+
+## Source Credit
+
+*(May 22, 1953, ch. 65, title II, § 3, [67 Stat. 30](https://www.govinfo.gov/link/statute/67/30).)*

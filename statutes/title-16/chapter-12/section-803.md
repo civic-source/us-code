@@ -3,9 +3,10 @@ title: "Section 803 - Conditions of license generally"
 usc_title: 16
 usc_section: "803"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 803"
-generated_at: "2026-03-30T02:54:22.911Z"
+generated_at: "2026-11-23T20:26:20.281Z"
+status: "active"
 ---
 
 # § 803. Conditions of license generally
@@ -50,3 +51,9 @@ All licenses issued under this subchapter shall be on the following conditions:
   - **(2)** Whenever the Commission believes that any recommendation referred to in paragraph (1) may be inconsistent with the purposes and requirements of this subchapter or other applicable law, the Commission and the agencies referred to in paragraph (1) shall attempt to resolve any such inconsistency, giving due weight to the recommendations, expertise, and statutory responsibilities of such agencies. If, after such attempt, the Commission does not adopt in whole or in part a recommendation of any such agency, the Commission shall publish each of the following findings (together with a statement of the basis for each of the findings):
     - **(A)** A finding that adoption of such recommendation is inconsistent with the purposes and requirements of this subchapter or with other applicable provisions of law.
     - **(B)** A finding that the conditions selected by the Commission comply with the requirements of paragraph (1).
+
+“Any obligation of a licensee or exemptee for the payment of annual charges under section 10(e) of the Federal Power Act ( 16 U.S.C. 803(e) ) for a project that has not commenced construction as of the date of enactment of this Act [ Oct. 23, 2018 ] shall commence not earlier than the latest of—
+
+## Source Credit
+
+*(June 10, 1920, ch. 285, pt. I, § 10, [41 Stat. 1068](https://www.govinfo.gov/link/statute/41/1068); renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§ 206, 212, [49 Stat. 842](https://www.govinfo.gov/link/statute/49/842), 847; [Pub. L. 87–647](https://www.govinfo.gov/link/plaw/87/public/647), Sept. 7, 1962, [76 Stat. 447](https://www.govinfo.gov/link/statute/76/447); [Pub. L. 90–451, § 4](https://www.govinfo.gov/link/plaw/90/public/451), Aug. 3, 1968, [82 Stat. 617](https://www.govinfo.gov/link/statute/82/617); [Pub. L. 99–495](https://www.govinfo.gov/link/plaw/99/public/495), §§ 3(b), (c), 9(a), 13, Oct. 16, 1986, [100 Stat. 1243](https://www.govinfo.gov/link/statute/100/1243), 1244, 1252, 1257; [Pub. L. 99–546, title IV, § 401](https://www.govinfo.gov/link/plaw/99/public/546), Oct. 27, 1986, [100 Stat. 3056](https://www.govinfo.gov/link/statute/100/3056); [Pub. L. 102–486, title XVII, § 1701(a)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3008](https://www.govinfo.gov/link/statute/106/3008).)*

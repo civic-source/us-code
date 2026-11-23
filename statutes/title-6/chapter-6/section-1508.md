@@ -3,9 +3,10 @@ title: "Section 1508 - Report on cybersecurity threats"
 usc_title: 6
 usc_section: "1508"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 1508"
-generated_at: "2026-03-30T02:53:09.510Z"
+generated_at: "2026-11-23T20:25:34.968Z"
+status: "active"
 ---
 
 # § 1508. Report on cybersecurity threats
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:09.510Z"
   - **(5)** An assessment of any technologies or practices utilized by the private sector that could be rapidly fielded to assist the intelligence community in preventing and responding to cybersecurity threats.
 - **(c)** The report required by subsection (a) shall be made available in classified and unclassified forms.
 - **(d)** In this section, the term “intelligence community” has the meaning given that term in section 3003 of title 50 .
+
+## Source Credit
+
+*([Pub. L. 114–113, div. N, title I, § 109](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2955](https://www.govinfo.gov/link/statute/129/2955).)*

@@ -3,9 +3,10 @@ title: "Section 1736 - Restrictive use of information"
 usc_title: 18
 usc_section: "1736"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 1736"
-generated_at: "2026-03-30T02:54:16.490Z"
+generated_at: "2026-11-23T20:26:08.525Z"
+status: "active"
 ---
 
 # § 1736. Restrictive use of information
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:16.490Z"
 - **(a)** No information or evidence obtained by reason of compliance by a natural person with any provision of section 3010 of title 39 , or regulations issued thereunder, shall, except as provided in subsection (c) of this section, be used, directly or indirectly, as evidence against that person in a criminal proceeding.
 - **(b)** The fact of the performance of any act by an individual in compliance with any provision of section 3010 of title 39 , or regulations issued thereunder, shall not be deemed the admission of any fact, or otherwise be used, directly or indirectly, as evidence against that person in a criminal proceeding, except as provided in subsection (c) of this section.
 - **(c)** Subsections (a) and (b) of this section shall not preclude the use of any such information or evidence in a prosecution or other action under any applicable provision of law with respect to the furnishing of false information.
+
+## Source Credit
+
+*(Added [Pub. L. 91–375, § 6(j)(37)(A)](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 781](https://www.govinfo.gov/link/statute/84/781).)*

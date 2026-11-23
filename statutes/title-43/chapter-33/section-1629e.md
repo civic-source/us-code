@@ -3,9 +3,10 @@ title: "Section 1629e - Settlement Trust option"
 usc_title: 43
 usc_section: "1629e"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1629e"
-generated_at: "2026-03-30T02:55:57.483Z"
+generated_at: "2026-11-23T20:27:06.339Z"
+status: "active"
 ---
 
 # § 1629e. Settlement Trust option
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:55:57.483Z"
   - **(6)** No transferee Settlement Trust shall make a distribution or conveyance of assets (including cash, stock, or beneficial interests) that would render it unable to satisfy a claim made pursuant to paragraph (1), (2), or (3). A distribution or conveyance made in violation of this paragraph shall be void ab initio and shall not be given effect by any court.
   - **(7)** Except where otherwise expressly provided, no provision of this section shall be construed to require shareholder approval of an action where shareholder approval would not be required under the laws of the State.
   - **(8)** A beneficiary’s interest in a settlement trust and the distributions thereon shall be subject to creditor action (including without limitation, levy attachment, pledge, lien, judgment execution, assignment, and the insolvency and bankruptcy laws) only to the extent that Settlement Common Stock and the distributions thereon are subject to such creditor action under section 1606(h) of this title .
+
+## Source Credit
+
+*([Pub. L. 92–203, § 39](https://www.govinfo.gov/link/plaw/92/public/203), as added [Pub. L. 100–241, § 10](https://www.govinfo.gov/link/plaw/100/public/241), Feb. 3, 1988, [101 Stat. 1804](https://www.govinfo.gov/link/statute/101/1804); amended [Pub. L. 105–333, § 13](https://www.govinfo.gov/link/plaw/105/public/333), Oct. 31, 1998, [112 Stat. 3135](https://www.govinfo.gov/link/statute/112/3135); [Pub. L. 106–559, title III, § 302](https://www.govinfo.gov/link/plaw/106/public/559), Dec. 21, 2000, [114 Stat. 2782](https://www.govinfo.gov/link/statute/114/2782); [Pub. L. 108–7, div. F, title III, § 337(b)](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 278](https://www.govinfo.gov/link/statute/117/278); [Pub. L. 109–221, title I, § 101(b)](https://www.govinfo.gov/link/plaw/109/public/221), May 12, 2006, [120 Stat. 337](https://www.govinfo.gov/link/statute/120/337).)*

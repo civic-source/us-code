@@ -3,9 +3,10 @@ title: "Section 513 - Enlistments: Delayed Entry Program"
 usc_title: 10
 usc_section: "513"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 513"
-generated_at: "2026-03-30T02:53:38.064Z"
+generated_at: "2026-11-23T20:25:50.984Z"
+status: "active"
 ---
 
 # § 513. Enlistments: Delayed Entry Program
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:38.064Z"
   - **(4)** During the period beginning on the date on which the person enlists under subsection (a) and ending on the date on which the person is enlisted in a regular component under this subsection, the person shall be in the Ready Reserve of the armed force concerned.
 - **(c)** A person who is under orders to report for induction into an armed force under the Military Selective Service Act ( 50 U.S.C. 3801 et seq.), except as provided in clause (ii) or (iii) of section 6(c)(2)(A) of that Act ( 50 U.S.C. 3806(c)(2)(A) ), may not be enlisted under subsection (a).
 - **(d)** This section shall be carried out under regulations to be prescribed by the Secretary of Defense or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy.
+
+## Source Credit
+
+*(Added [Pub. L. 101–189, div. A, title V, § 501(a)(1)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1435](https://www.govinfo.gov/link/statute/103/1435); amended [Pub. L. 101–510, div. A, title XIV, § 1484(k)(2)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1719](https://www.govinfo.gov/link/statute/104/1719); [Pub. L. 104–201, div. A, title V, § 512](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2514](https://www.govinfo.gov/link/statute/110/2514); [Pub. L. 106–65, div. A, title V, § 572(a)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 623](https://www.govinfo.gov/link/statute/113/623); [Pub. L. 107–296, title XVII, § 1704(b)(1)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314); [Pub. L. 109–163, div. A, title V, § 515(b)(1)(A)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3233](https://www.govinfo.gov/link/statute/119/3233); [Pub. L. 114–328, div. A, title X, § 1081(b)(1)(A)(ii)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2417](https://www.govinfo.gov/link/statute/130/2417); [Pub. L. 115–91, div. A, title V, § 526](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1382](https://www.govinfo.gov/link/statute/131/1382); [Pub. L. 118–31, div. A, title XVII, § 1717(b)(7)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 655](https://www.govinfo.gov/link/statute/137/655).)*

@@ -3,9 +3,10 @@ title: "Section 3613 - Enforcement by private persons"
 usc_title: 42
 usc_section: "3613"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3613"
-generated_at: "2026-03-30T02:56:11.191Z"
+generated_at: "2026-11-23T20:27:22.305Z"
+status: "active"
 ---
 
 # § 3613. Enforcement by private persons
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.191Z"
   - **(2)** In a civil action under subsection (a), the court, in its discretion, may allow the prevailing party, other than the United States, a reasonable attorney’s fee and costs. The United States shall be liable for such fees and costs to the same extent as a private person.
 - **(d)** Relief granted under this section shall not affect any contract, sale, encumbrance, or lease consummated before the granting of such relief and involving a bona fide purchaser, encumbrancer, or tenant, without actual notice of the filing of a complaint with the Secretary or civil action under this subchapter.
 - **(e)** Upon timely application, the Attorney General may intervene in such civil action, if the Attorney General certifies that the case is of general public importance. Upon such intervention the Attorney General may obtain such relief as would be available to the Attorney General under section 3614(e) of this title in a civil action to which such section applies.
+
+## Source Credit
+
+*([Pub. L. 90–284, title VIII, § 813](https://www.govinfo.gov/link/plaw/90/public/284), as added [Pub. L. 100–430, § 8(2)](https://www.govinfo.gov/link/plaw/100/public/430), Sept. 13, 1988, [102 Stat. 1633](https://www.govinfo.gov/link/statute/102/1633).)*

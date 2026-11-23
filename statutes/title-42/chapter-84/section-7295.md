@@ -3,9 +3,10 @@ title: "Section 7295 - Savings provisions"
 usc_title: 42
 usc_section: "7295"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7295"
-generated_at: "2026-03-30T02:56:11.289Z"
+generated_at: "2026-11-23T20:27:22.803Z"
+status: "active"
 ---
 
 # § 7295. Savings provisions
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.289Z"
   - **(2)** in all such suits, proceedings shall be had, appeals taken, and judgments rendered in the same manner and effect as if this chapter had not been enacted.
 - **(d)** No suit, action, or other proceeding commenced by or against any officer in his official capacity as an officer of any department or agency, functions of which are transferred by this chapter, shall abate by reason of the enactment of this chapter. No cause of action by or against any department or agency, functions of which are transferred by this chapter, or by or against any officer thereof in his official capacity shall abate by reason of the enactment of this chapter.
 - **(e)** If, before October 1, 1977 , any department or agency, or officer thereof in his official capacity, is a party to a suit, and under this chapter any function of such department, agency, or officer is transferred to the Secretary or any other official, then such suit shall be continued with the Secretary or other official, as the case may be, substituted.
+
+## Source Credit
+
+*([Pub. L. 95–91, title VIII, § 705](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 606](https://www.govinfo.gov/link/statute/91/606).)*

@@ -3,9 +3,10 @@ title: "Section 44922 - Deputization of State and local law enforcement officers
 usc_title: 49
 usc_section: "44922"
 chapter: 449
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44922"
-generated_at: "2026-03-30T02:56:19.394Z"
+generated_at: "2026-11-23T20:27:35.222Z"
+status: "active"
 ---
 
 # § 44922. Deputization of State and local law enforcement officers
@@ -18,3 +19,23 @@ generated_at: "2026-03-30T02:56:19.394Z"
   - **(2)** There are authorized to be appropriated such sums as may be necessary to carry out this subsection.
 - **(e)** A State or local law enforcement officer who is deputized under this section shall be treated as an “employee of the Government” for purposes of sections 1346(b), 2401(b), and chapter 171 of title 28, United States Code, while carrying out Federal airport security duties within the course and scope of the officer’s employment, subject to Federal supervision and control, and in accordance with the terms of such deputization.
 - **(f)** The Administrator of the Transportation Security Administration may allow law enforcement personnel to be stationed other than at the airport security screening location if that would be preferable for law enforcement purposes and if such personnel would still be able to provide prompt responsiveness to problems occurring at the screening location.
+
+Deputization Authority
+
+Fulfillment of Requirements
+
+Agreements
+
+Reimbursement.—
+
+In general
+
+Authorization of appropriations
+
+Federal Tort Claims Act
+
+Stationing of Officers
+
+## Source Credit
+
+*(Added [Pub. L. 108–7, div. I, title III, § 351(a)](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 419](https://www.govinfo.gov/link/statute/117/419); amended [Pub. L. 115–254, div. K, title I, § 1991(d)(18)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3636](https://www.govinfo.gov/link/statute/132/3636).)*

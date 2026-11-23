@@ -3,9 +3,10 @@ title: "Section 4613 - Chemical and biological weapons proliferation sanctions"
 usc_title: 50
 usc_section: "4613"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4613"
-generated_at: "2026-03-30T02:56:26.282Z"
+generated_at: "2026-11-23T20:27:31.138Z"
+status: "active"
 ---
 
 # § 4613. Chemical and biological weapons proliferation sanctions
@@ -53,3 +54,15 @@ generated_at: "2026-03-30T02:56:26.282Z"
 - **(f)** For the purposes of this section, the term “foreign person” means—
   - **(1)** an individual who is not a citizen of the United States or an alien admitted for permanent residence to the United States; or
   - **(2)** a corporation, partnership, or other entity which is created or organized under the laws of a foreign country or which has its principal place of business outside the United States.
+
+Department of Defense Review
+
+Denial of License if Contrary to National Security Interest
+
+Identification of Countries Known or Suspected To Have a Program To Develop Offensive Biological Weapons
+
+Definition
+
+## Source Credit
+
+*([Pub. L. 96–72, § 11C](https://www.govinfo.gov/link/plaw/96/public/72), as added and amended [Pub. L. 102–182, title III](https://www.govinfo.gov/link/plaw/102/public/182), §§ 305(a), 309(b)(1), Dec. 4, 1991, [105 Stat. 1247](https://www.govinfo.gov/link/statute/105/1247), 1258.)*

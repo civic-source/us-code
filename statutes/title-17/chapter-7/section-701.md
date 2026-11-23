@@ -3,9 +3,10 @@ title: "Section 701 - The Copyright Office: General responsibilities and organiz
 usc_title: 17
 usc_section: "701"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 701"
-generated_at: "2026-03-30T02:54:15.354Z"
+generated_at: "2026-11-23T20:26:06.529Z"
+status: "active"
 ---
 
 # § 701. The Copyright Office: General responsibilities and organization
@@ -21,3 +22,11 @@ generated_at: "2026-03-30T02:54:15.354Z"
 - **(d)** The Register of Copyrights shall make an annual report to the Librarian of Congress of the work and accomplishments of the Copyright Office during the previous fiscal year. The annual report of the Register of Copyrights shall be published separately and as a part of the annual report of the Librarian of Congress.
 - **(e)** Except as provided by section 706(b) and the regulations issued thereunder, all actions taken by the Register of Copyrights under this title are subject to the provisions of the Administrative Procedure Act of June 11, 1946 , as amended (c. 324, 60 Stat. 237 , title 5, United States Code, Chapter 5, Subchapter II and Chapter 7).
 - **(f)** The Register of Copyrights shall be compensated at the greater of the rate of pay in effect for level III of the Executive Schedule under section 5314 of title 5 or the maximum annual rate of basic pay payable under section 5376 of such title for positions at agencies with a performance appraisal system certified under section 5307(d) of such title. The Librarian of Congress shall establish not more than four positions for Associate Registers of Copyrights, in accordance with the recommendations of the Register of Copyrights. The Librarian shall make appointments to such positions after consultation with the Register of Copyrights. The rate of basic pay for each Associate Register of Copyrights shall be fixed in accordance with section 5376 of title 5 .
+
+Effective Date
+
+Budget Act
+
+## Source Credit
+
+*([Pub. L. 94–553, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/553), Oct. 19, 1976, [90 Stat. 2591](https://www.govinfo.gov/link/statute/90/2591); [Pub. L. 101–319, § 2(b)](https://www.govinfo.gov/link/plaw/101/public/319), July 3, 1990, [104 Stat. 290](https://www.govinfo.gov/link/statute/104/290); [Pub. L. 105–304, title IV, § 401(a)(2)](https://www.govinfo.gov/link/plaw/105/public/304), (b), Oct. 28, 1998, [112 Stat. 2887](https://www.govinfo.gov/link/statute/112/2887); [Pub. L. 116–94, div. P, title XIV, § 1404(a)(3)](https://www.govinfo.gov/link/plaw/116/public/94), (b)(2), Dec. 20, 2019, [133 Stat. 3208](https://www.govinfo.gov/link/statute/133/3208).)*

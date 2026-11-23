@@ -3,9 +3,10 @@ title: "Section 24902 - Goals and requirements"
 usc_title: 49
 usc_section: "24902"
 chapter: 249
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 24902"
-generated_at: "2026-03-30T02:56:19.348Z"
+generated_at: "2026-11-23T20:27:34.869Z"
+status: "active"
 ---
 
 # § 24902. Goals and requirements
@@ -34,3 +35,318 @@ generated_at: "2026-03-30T02:56:19.348Z"
   - **(2)** If the Secretary finds significant noncompliance with this section, the Secretary may deny financing to a noncomplying program until the noncompliance is corrected.
 - **(i)** Amtrak shall give the highest priority to completing the program.
 - **(j)** No State or local building, zoning, subdivision, or similar or related law, nor any other State or local law from which a project would be exempt if undertaken by the Federal Government or an agency thereof within a Federal enclave wherein Federal jurisdiction is exclusive, including without limitation with respect to all such laws referenced herein above requirements for permits, actions, approvals or filings, shall apply in connection with the construction, ownership, use, operation, financing, leasing, conveying, mortgaging or enforcing a mortgage of (i) any improvement undertaken by or for the benefit of Amtrak as part of, or in furtherance of, the Northeast Corridor Improvement Project (including without limitation maintenance, service, inspection or similar facilities acquired, constructed or used for high speed trainsets) or chapter 241, 243, or 247 of this title or (ii) any land (and right, title or interest created with respect thereto) on which such improvement is located and adjoining, surrounding or any related land. These exemptions shall remain in effect and be applicable with respect to such land and improvements for the benefit of any mortgagee before, upon and after coming into possession of such improvements or land, any third party purchasers thereof in foreclosure (or through a deed in lieu of foreclosure), and their respective successors and assigns, in each case to the extent the land or improvements are used, or held for use, for railroad purposes or purposes accessory thereto. This subsection shall not apply to any improvement or related land unless Amtrak receives a Federal operating subsidy in the fiscal year in which Amtrak commits to or initiates such improvement.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 24902(a) | 45:853(1)(A). | Feb. 5, 1976 , Pub. L. 94–210, § 703(1)(A) , 90 Stat. 121 ; Oct. 5, 1978 , Pub. L. 95–421, § 8(1) , 92 Stat. 927 ; May 30, 1980 , Pub. L. 96–254, § 202(1) , (2), 94 Stat. 410 ; Jan. 14, 1983 , Pub. L. 97–468, § 301(1) , 96 Stat. 2547 . |
+|  | 45:853(1)(B) (1st sentence). | Feb. 5, 1976 , Pub. L. 94–210, § 703(1)(B) , 90 Stat. 121 ; Oct. 5, 1978 , Pub. L. 95–421, § 8(2) , 92 Stat. 927 . |
+|  | 45:853(2)(A). | Feb. 5, 1976 , Pub. L. 94–210, § 703(2)(A) , 90 Stat. 122 ; Oct. 5, 1978 , Pub. L. 95–421, § 5(1) , 92 Stat. 926 . |
+|  | 45:853(2)(B). | Feb. 5, 1976 , Pub. L. 94–210 , 90 Stat. 31 , § 703(2)(B); added Oct. 5, 1978 , Pub. L. 95–421, § 5(2) , 92 Stat. 927 . |
+|  | 45:853(3)(A). | Feb. 5, 1976 , Pub. L. 94–210, § 703(3)(A) , 90 Stat. 122 ; May 30, 1980 , Pub. L. 96–254, § 203(1) , 94 Stat. 410 . |
+|  | 45:853(4) (1st sentence). | Feb. 5, 1976 , Pub. L. 94–210, § 703(1)(C) , (4), 90 Stat. 121 , 122. |
+|  | 45:853(6). | Feb. 5, 1976 , Pub. L. 94–210 , 90 Stat. 31 , § 703(6); added May 30, 1980 , Pub. L. 96–254, § 203(2) , 94 Stat. 411 . |
+|  | 45:855(b). | Feb. 5, 1976 , Pub. L. 94–210 , 90 Stat. 31 , § 705(b); added May 30, 1980 , Pub. L. 96–254, § 206(a) , 94 Stat. 413 ; Jan. 14, 1983 , Pub. L. 97–468, § 301(5)(B) , 96 Stat. 2550 . |
+| 24902(b) | 45:851(d)(1). | Feb. 5, 1976 , Pub. L. 94–210 , 90 Stat. 31 , § 701(d)(1); added May 30, 1980 , Pub. L. 96–254, § 205 , 94 Stat. 412 . |
+| 24902(c)(1) | 45:853(1)(B) (last sentence). |  |
+|  | 45:855(b). |  |
+| 24902(c)(2), (3) | 45:854(i). | Feb. 5, 1976 , Pub. L. 94–210 , 90 Stat. 31 , § 704(i); added May 30, 1980 , Pub. L. 96–254, § 204(b) , 94 Stat. 411 . |
+|  | 45:855(b). |  |
+| 24902(d) | 45:853(4) (last sentence). |  |
+| 24902(e) | 45:853(7). | Feb. 5, 1976 , Pub. L. 94–210 , 90 Stat. 31 , § 703(7); added May 30, 1980 , Pub. L. 96–254, § 209 , 94 Stat. 414 . |
+| 24902(f) | 45:853(1)(C). |  |
+| 24902(g) | 45:431(k). | Oct. 16, 1970 , Pub. L. 91–458 , 84 Stat. 971 , § 202(k); added June 22, 1988 , Pub. L. 100–342, § 9 , 102 Stat. 628 . |
+| 24902(h) | 45:853(1)(E). | Feb. 5, 1976 , Pub. L. 94–210, § 703(1)(E) , 90 Stat. 121 ; May 30, 1980 , Pub. L. 96–254, § 202(3) , 94 Stat. 410 . |
+|  | 45:855(b). |  |
+| 24902(i) | 45:853(5). | Feb. 5, 1976 , Pub. L. 94–210 , 90 Stat. 31 , § 703(5); added Oct. 5, 1978 , Pub. L. 95–421, § 8(3) , 92 Stat. 927 . |
+|  | 45:855(b). |  |
+| 24902(j) | 45:853(3)(B). | Feb. 5, 1976 , Pub. L. 94–210 , 90 Stat. 31 , § 703(3)(B); added May 30, 1980 , Pub. L. 96–254, § 203(1) , 94 Stat. 410 . |
+|  | 45:855(b). |  |
+| 24902(k) | 45:854(c)(1). | Feb. 5, 1976 , Pub. L. 94–210, § 704(c)(1) , 90 Stat. 123 ; May 30, 1980 , Pub. L. 96–254, § 210(1) , 94 Stat. 414 . |
+|  | 45:854(c)(2). | Feb. 5, 1976 , Pub. L. 94–210 , 90 Stat. 31 , § 704(c)(2); added May 30, 1980 , Pub. L. 96–254, § 210(2) , 94 Stat. 414 . |
+| 24902( l ) | 45:545(h) (last sentence). | Oct. 30, 1970 , Pub. L. 91–518 , 84 Stat. 1327 , § 305(h) (last sentence); added Oct. 28, 1974 , Pub. L. 93–496, § 3 , 88 Stat. 1527 ; Sept. 29, 1979 , Pub. L. 96–73, § 106 , 93 Stat. 539 . |
+|  | 45:855(b). |  |
+
+
+Managing Costs and Revenues
+
+Priorities in Selecting and Scheduling Projects
+
+Compatibility With Future Improvements and Production of Maximum Labor Benefits
+
+Automatic Train Control Systems
+
+High-Speed Transportation
+
+Equipment Development
+
+Agreements for Off-Corridor Routing of Rail Freight Transportation
+
+Coordination
+
+Completion
+
+Applicable Procedures
+
+Historical and Revision Notes
+
+24902(a)
+
+Feb. 5, 1976
+
+Pub. L. 94–210, § 703(1)(A)
+
+90 Stat. 121
+
+Oct. 5, 1978
+
+Pub. L. 95–421, § 8(1)
+
+92 Stat. 927
+
+May 30, 1980
+
+Pub. L. 96–254, § 202(1)
+
+94 Stat. 410
+
+Jan. 14, 1983
+
+Pub. L. 97–468, § 301(1)
+
+96 Stat. 2547
+
+Feb. 5, 1976
+
+Pub. L. 94–210, § 703(1)(B)
+
+90 Stat. 121
+
+Oct. 5, 1978
+
+Pub. L. 95–421, § 8(2)
+
+92 Stat. 927
+
+Feb. 5, 1976
+
+Pub. L. 94–210, § 703(2)(A)
+
+90 Stat. 122
+
+Oct. 5, 1978
+
+Pub. L. 95–421, § 5(1)
+
+92 Stat. 926
+
+Feb. 5, 1976
+
+Pub. L. 94–210
+
+90 Stat. 31
+
+Oct. 5, 1978
+
+Pub. L. 95–421, § 5(2)
+
+92 Stat. 927
+
+Feb. 5, 1976
+
+Pub. L. 94–210, § 703(3)(A)
+
+90 Stat. 122
+
+May 30, 1980
+
+Pub. L. 96–254, § 203(1)
+
+94 Stat. 410
+
+Feb. 5, 1976
+
+Pub. L. 94–210, § 703(1)(C)
+
+90 Stat. 121
+
+Feb. 5, 1976
+
+Pub. L. 94–210
+
+90 Stat. 31
+
+May 30, 1980
+
+Pub. L. 96–254, § 203(2)
+
+94 Stat. 411
+
+Feb. 5, 1976
+
+Pub. L. 94–210
+
+90 Stat. 31
+
+May 30, 1980
+
+Pub. L. 96–254, § 206(a)
+
+94 Stat. 413
+
+Jan. 14, 1983
+
+Pub. L. 97–468, § 301(5)(B)
+
+96 Stat. 2550
+
+24902(b)
+
+Feb. 5, 1976
+
+Pub. L. 94–210
+
+90 Stat. 31
+
+May 30, 1980
+
+Pub. L. 96–254, § 205
+
+94 Stat. 412
+
+24902(c)(1)
+
+Feb. 5, 1976
+
+Pub. L. 94–210
+
+90 Stat. 31
+
+May 30, 1980
+
+Pub. L. 96–254, § 204(b)
+
+94 Stat. 411
+
+24902(d)
+
+24902(e)
+
+Feb. 5, 1976
+
+Pub. L. 94–210
+
+90 Stat. 31
+
+May 30, 1980
+
+Pub. L. 96–254, § 209
+
+94 Stat. 414
+
+24902(f)
+
+24902(g)
+
+Oct. 16, 1970
+
+Pub. L. 91–458
+
+84 Stat. 971
+
+June 22, 1988
+
+Pub. L. 100–342, § 9
+
+102 Stat. 628
+
+24902(h)
+
+Feb. 5, 1976
+
+Pub. L. 94–210, § 703(1)(E)
+
+90 Stat. 121
+
+May 30, 1980
+
+Pub. L. 96–254, § 202(3)
+
+94 Stat. 410
+
+24902(i)
+
+Feb. 5, 1976
+
+Pub. L. 94–210
+
+90 Stat. 31
+
+Oct. 5, 1978
+
+Pub. L. 95–421, § 8(3)
+
+92 Stat. 927
+
+24902(j)
+
+Feb. 5, 1976
+
+Pub. L. 94–210
+
+90 Stat. 31
+
+May 30, 1980
+
+Pub. L. 96–254, § 203(1)
+
+94 Stat. 410
+
+24902(k)
+
+Feb. 5, 1976
+
+Pub. L. 94–210, § 704(c)(1)
+
+90 Stat. 123
+
+May 30, 1980
+
+Pub. L. 96–254, § 210(1)
+
+94 Stat. 414
+
+Feb. 5, 1976
+
+Pub. L. 94–210
+
+90 Stat. 31
+
+May 30, 1980
+
+Pub. L. 96–254, § 210(2)
+
+94 Stat. 414
+
+24902( l )
+
+Oct. 30, 1970
+
+Pub. L. 91–518
+
+84 Stat. 1327
+
+Oct. 28, 1974
+
+Pub. L. 93–496, § 3
+
+88 Stat. 1527
+
+Sept. 29, 1979
+
+Pub. L. 96–73, § 106
+
+93 Stat. 539
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 930](https://www.govinfo.gov/link/statute/108/930); [Pub. L. 104–205, title III, § 334](https://www.govinfo.gov/link/plaw/104/public/205), Sept. 30, 1996, [110 Stat. 2974](https://www.govinfo.gov/link/statute/110/2974); [Pub. L. 105–134, title IV, § 405(b)(1)](https://www.govinfo.gov/link/plaw/105/public/134), Dec. 2, 1997, [111 Stat. 2586](https://www.govinfo.gov/link/statute/111/2586); [Pub. L. 112–141, div. C, title II, § 32932(c)(3)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 829](https://www.govinfo.gov/link/statute/126/829).)*

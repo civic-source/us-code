@@ -3,9 +3,10 @@ title: "Section 12622 - Annual report"
 usc_title: 34
 usc_section: "12622"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12622"
-generated_at: "2026-03-30T02:55:33.292Z"
+generated_at: "2026-11-23T20:26:50.570Z"
+status: "active"
 ---
 
 # § 12622. Annual report
@@ -21,3 +22,7 @@ Not later than 2 years after March 23, 2018 , and every year thereafter, the Att
   - **(5)** the nonprofit organizations, including the location (city and State) of the headquarters and local offices of each organization, that State, local, and tribal law enforcement or public safety agencies partnered with and the result of each partnership;
   - **(6)** the number of missing children with autism or another developmental disability with wandering tendencies or adults with Alzheimer’s being served by the program who went missing and the result of the search for each such individual; and
   - **(7)** any recommendations for improving the Missing Americans Alert Program.
+
+## Source Credit
+
+*([Pub. L. 115–141, div. Q, title I, § 102(b)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1119](https://www.govinfo.gov/link/statute/132/1119).)*

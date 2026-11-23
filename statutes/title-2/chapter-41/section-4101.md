@@ -3,9 +3,10 @@ title: "Section 4101 - Authority of officers of Congress over Congressional empl
 usc_title: 2
 usc_section: "4101"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 4101"
-generated_at: "2026-03-30T02:53:04.827Z"
+generated_at: "2026-11-23T20:25:29.024Z"
+status: "active"
 ---
 
 # § 4101. Authority of officers of Congress over Congressional employees
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:04.827Z"
 - **(b)** As used in this section, the term “officer of the Congress” means—
   - **(1)** an elected officer of the Senate or House of Representatives who is not a Member of the Senate or House; and
   - **(2)** The Architect of the Capitol.
+
+## Source Credit
+
+*([Pub. L. 91–510, title IV, § 431](https://www.govinfo.gov/link/plaw/91/public/510), Oct. 26, 1970, [84 Stat. 1190](https://www.govinfo.gov/link/statute/84/1190).)*

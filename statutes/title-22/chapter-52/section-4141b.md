@@ -3,12 +3,17 @@ title: "Section 4141b - Report to Congress"
 usc_title: 22
 usc_section: "4141b"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4141b"
-generated_at: "2026-03-30T02:55:05.408Z"
+generated_at: "2026-11-23T20:26:32.524Z"
+status: "active"
 ---
 
 # § 4141b. Report to Congress
 
 Together with the annual submission required under section 3905(d)(2) 1 1 See References in Text note below. of this title, the Secretary of State shall submit a report to the Congress concerning the implementation of the program established under this subchapter. Such report accompanied by such other information as the Secretary considers appropriate, shall include specific information concerning the completion rates of interns in the program, interns who took the Foreign Service examination, interns who passed the examination, former interns appointed to the Foreign Service, assignments of former interns, and the advancement of former interns through the Foreign Service System. 2 2 So in original. Probably should not be capitalized.
 
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 1203](https://www.govinfo.gov/link/plaw/96/public/465), as added [Pub. L. 101–246, title I, § 149(b)](https://www.govinfo.gov/link/plaw/101/public/246), Feb. 16, 1990, [104 Stat. 41](https://www.govinfo.gov/link/statute/104/41).)*

@@ -3,9 +3,10 @@ title: "Section 7381n - Summer institutes"
 usc_title: 42
 usc_section: "7381n"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7381n"
-generated_at: "2026-03-30T02:56:11.290Z"
+generated_at: "2026-11-23T20:27:22.814Z"
+status: "active"
 ---
 
 # § 7381n. Summer institutes
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:56:11.290Z"
   - **(2)** $20,000,000 for fiscal year 2009;
   - **(3)** $25,000,000 for fiscal year 2010; and
   - **(4)** $25,000,000 for each of fiscal years 2011 through 2013.
+
+## Source Credit
+
+*([Pub. L. 101–510, div. C, title XXXI, § 3185](https://www.govinfo.gov/link/plaw/101/public/510), as added [Pub. L. 110–69, title V, § 5003(d)(3)](https://www.govinfo.gov/link/plaw/110/public/69), Aug. 9, 2007, [121 Stat. 609](https://www.govinfo.gov/link/statute/121/609); amended [Pub. L. 111–358, title IX, § 901(b)](https://www.govinfo.gov/link/plaw/111/public/358), Jan. 4, 2011, [124 Stat. 4044](https://www.govinfo.gov/link/statute/124/4044).)*

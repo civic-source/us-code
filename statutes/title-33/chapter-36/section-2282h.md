@@ -3,9 +3,10 @@ title: "Section 2282h - Economic, hydraulic, and hydrologic modeling"
 usc_title: 33
 usc_section: "2282h"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2282h"
-generated_at: "2026-03-30T02:55:41.119Z"
+generated_at: "2026-11-23T20:26:54.159Z"
+status: "active"
 ---
 
 # § 2282h. Economic, hydraulic, and hydrologic modeling
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:41.119Z"
 - **(h)** In this section:
   - **(1)** The term “compound flooding” means a flooding event in which two or more flood drivers, such as coastal storm surge-driven flooding and inland rainfall-driven flooding, occur simultaneously or in close succession and the potential adverse effects of the combined flood drivers may be greater than that of the individual flood driver components.
   - **(2)** The term “economic”, as used in reference to models, means relating to the evaluation of benefits and cost attributable to a project for an economic justification under section 1962–2 of title 42 .
+
+## Source Credit
+
+*([Pub. L. 118–272, div. A, title I, § 1131](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3020](https://www.govinfo.gov/link/statute/138/3020).)*

@@ -3,9 +3,10 @@ title: "Section 2403 - Definitions"
 usc_title: 22
 usc_section: "2403"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2403"
-generated_at: "2026-03-30T02:55:05.365Z"
+generated_at: "2026-11-23T20:26:32.288Z"
+status: "active"
 ---
 
 # § 2403. Definitions
@@ -38,3 +39,7 @@ As used in this chapter—
 - **(o)** “Agriculture” includes aquaculture and fisheries.
 - **(p)** “Farmers” includes fishermen and other persons employed in cultivating and harvesting food resources from salt and fresh waters.
 - **(q)** “Major non-NATO ally” means a country which is designated in accordance with section 2321k of this title as a major non-NATO ally for purposes of this chapter and the Arms Export Control Act ( 22 U.S.C. 2751 et seq.).
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. III, § 644, Sept. 4, 1961, [75 Stat. 461](https://www.govinfo.gov/link/statute/75/461); [Pub. L. 87–565](https://www.govinfo.gov/link/plaw/87/public/565), pt. III, § 303(b), Aug. 1, 1962, [76 Stat. 263](https://www.govinfo.gov/link/statute/76/263); [Pub. L. 88–205](https://www.govinfo.gov/link/plaw/88/public/205), pt. III, § 303, Dec. 16, 1963, [77 Stat. 389](https://www.govinfo.gov/link/statute/77/389); [Pub. L. 89–171](https://www.govinfo.gov/link/plaw/89/public/171), pt. III, § 303(b), Sept. 6, 1965, [79 Stat. 661](https://www.govinfo.gov/link/statute/79/661); [Pub. L. 90–137](https://www.govinfo.gov/link/plaw/90/public/137), pt. III, § 303(a), Nov. 14, 1967, [81 Stat. 462](https://www.govinfo.gov/link/statute/81/462); [Pub. L. 90–629](https://www.govinfo.gov/link/plaw/90/public/629), ch. 4, § 45(b)(5), Oct. 22, 1968, [82 Stat. 1327](https://www.govinfo.gov/link/statute/82/1327); [Pub. L. 92–226](https://www.govinfo.gov/link/plaw/92/public/226), pt. III, § 304(c)(1), Feb. 7, 1972, [86 Stat. 32](https://www.govinfo.gov/link/statute/86/32); [Pub. L. 93–189, § 22](https://www.govinfo.gov/link/plaw/93/public/189), Dec. 17, 1973, [87 Stat. 726](https://www.govinfo.gov/link/statute/87/726); [Pub. L. 94–329, title I, § 106(b)(6)](https://www.govinfo.gov/link/plaw/94/public/329), June 30, 1976, [90 Stat. 733](https://www.govinfo.gov/link/statute/90/733); [Pub. L. 95–424, title I, § 103(b)](https://www.govinfo.gov/link/plaw/95/public/424), Oct. 6, 1978, [92 Stat. 944](https://www.govinfo.gov/link/statute/92/944); [Pub. L. 96–92, § 22](https://www.govinfo.gov/link/plaw/96/public/92), Oct. 29, 1979, [93 Stat. 710](https://www.govinfo.gov/link/statute/93/710); [Pub. L. 96–533, title I, § 115(b)(1)](https://www.govinfo.gov/link/plaw/96/public/533), Dec. 16, 1980, [94 Stat. 3140](https://www.govinfo.gov/link/statute/94/3140); [Pub. L. 98–151, § 101(b)(2)](https://www.govinfo.gov/link/plaw/98/public/151), Nov. 14, 1983, [97 Stat. 972](https://www.govinfo.gov/link/statute/97/972); [Pub. L. 102–583, § 9(b)](https://www.govinfo.gov/link/plaw/102/public/583), Nov. 2, 1992, [106 Stat. 4934](https://www.govinfo.gov/link/statute/106/4934); [Pub. L. 104–164, title I, § 147(a)(2)](https://www.govinfo.gov/link/plaw/104/public/164), July 21, 1996, [110 Stat. 1435](https://www.govinfo.gov/link/statute/110/1435).)*

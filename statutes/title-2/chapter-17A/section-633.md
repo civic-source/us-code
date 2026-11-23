@@ -3,9 +3,10 @@ title: "Section 633 - Committee allocations"
 usc_title: 2
 usc_section: "633"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 633"
-generated_at: "2026-03-30T02:53:04.799Z"
+generated_at: "2026-11-23T20:25:28.900Z"
+status: "active"
 ---
 
 # § 633. Committee allocations
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:53:04.799Z"
   - **(2)**
     - **(A)** As soon as practicable after Congress agrees to a bill or joint resolution that would have been subject to a point of order under subsection (f)(1) but for the exception provided in paragraph (1)(A) or would have been subject to a point of order under section 642(a) of this title but for the exception provided in paragraph (1)(B), the chairman of the Committee on the Budget of the House of Representatives shall file with the House appropriately revised allocations under subsection (a) and revised functional levels and budget aggregates to reflect that bill.
     - **(B)** Such revised allocations, functional levels, and budget aggregates shall be considered for the purposes of this Act as allocations, functional levels, and budget aggregates contained in the most recently agreed to concurrent resolution on the budget.
+
+## Source Credit
+
+*([Pub. L. 93–344, title III, § 302](https://www.govinfo.gov/link/plaw/93/public/344), July 12, 1974, [88 Stat. 308](https://www.govinfo.gov/link/statute/88/308); [Pub. L. 99–177, title II, § 201(b)](https://www.govinfo.gov/link/plaw/99/public/177), Dec. 12, 1985, [99 Stat. 1044](https://www.govinfo.gov/link/statute/99/1044); [Pub. L. 101–508, title XIII](https://www.govinfo.gov/link/plaw/101/public/508), §§ 13112(a)(6), (7), 13201(b)(2), (3), 13207(a)(1)(A), (B), (2), 13303(c), Nov. 5, 1990, [104 Stat. 1388–608](https://www.govinfo.gov/link/statute/104/1388), 1388–614, 1388–617, 1388–618, 1388–625; [Pub. L. 105–33, title X, § 10106](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 680](https://www.govinfo.gov/link/statute/111/680); [Pub. L. 113–67, div. A, title I, § 122(3)](https://www.govinfo.gov/link/plaw/113/public/67), Dec. 26, 2013, [127 Stat. 1175](https://www.govinfo.gov/link/statute/127/1175).)*

@@ -3,9 +3,10 @@ title: "Section 102303 - National Park System Advisory Board"
 usc_title: 54
 usc_section: "102303"
 chapter: 1023
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "54 U.S.C. § 102303"
-generated_at: "2026-03-30T02:56:28.416Z"
+generated_at: "2026-11-23T20:27:38.030Z"
+status: "active"
 ---
 
 # § 102303. National Park System Advisory Board
@@ -38,3 +39,180 @@ generated_at: "2026-03-30T02:56:28.416Z"
   - **(2)** On request of the Board, the head of any Federal department, agency, or instrumentality may make any of the facilities and services of the department, agency, or instrumentality available to the Board, on a nonreimbursable basis, to assist the Board in carrying out its duties under this section.
 - **(h)** Chapter 10 of title 5, with the exception of section 1013(b), applies to the Board.
 - **(i)** The Board continues to exist until January 1, 2010 .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 102303(a) | no source. |  |
+| 102303(b) | 16 U.S.C. 463(a) (1st, 2d sentences). | Aug. 21, 1935, ch. 593, § 3(a) through (f), 49 Stat. 667 ; Pub. L. 91–383, § 9 , Aug. 18, 1970 , as added Pub. L. 94–458, § 2 , Oct. 7, 1976 , 90 Stat. 1940 ; amended Pub. L. 95–625, title VI, § 604(2) , Nov. 10, 1978 , 92 Stat. 3518 ; Pub. L. 101–628, title XII, § 1211 , Nov. 28, 1990 , 104 Stat. 4507 ; Pub. L. 104–333, div. I, title VIII, § 814(f)(1) , Nov. 12, 1996 , 110 Stat. 4197 ; Pub. L. 109–156, § 5 , Dec. 30, 2005 , 119 Stat. 2948 ; Pub. L. 110–161, div. F, title I , Dec. 26, 2007 , 121 Stat. 2107 ; Pub. L. 111–8, div. E, title I , (last par. under heading “ administrative provisions ”), Mar. 11, 2009 , 123 Stat. 710 . |
+| 102303(c)(1), (2) | 16 U.S.C. 463(a) (3d through 9th sentences). |  |
+| 102303(c)(3) | 16 U.S.C. 463(a) (10th sentence). |  |
+| 102303(c)(4) | 16 U.S.C. 463(a) (11th sentence). |  |
+| 102303(c)(5) | 16 U.S.C. 463(a) (13th, 14th sentences). |  |
+| 102303(d)(1) | 16 U.S.C. 463(a) (12th sentence). |  |
+| 102303(d)(2) | 16 U.S.C. 463(a) (15th through last sentences). |  |
+| 102303(d)(3) through (5) | 16 U.S.C. 463(c) . |  |
+| 102303(d)(6) | 16 U.S.C. 463(e)(3) . |  |
+| 102303(e) | 16 U.S.C. 463(b)(1) . |  |
+| 102303(f) | 16 U.S.C. 463(b)(2) . |  |
+| 102303(g) | 16 U.S.C. 463(e)(1) , (2). |  |
+| 102303(h) | 16 U.S.C. 463(d) , (f) (last sentence). |  |
+| 102303(i) | 16 U.S.C. 463(f) (1st sentence). |  |
+
+
+Definition
+
+Establishment and Purpose
+
+Membership.—
+
+Appointment and term of office
+
+Composition
+
+First meeting
+
+Vacancy
+
+Compensation
+
+Duties and Powers of Board.—
+
+Adopt rules
+
+Advice and recommendations
+
+Actions on request of director
+
+Oaths or affirmations
+
+Committees and subcommittees
+
+Use of mails
+
+Staff
+
+Federal Law Not Applicable to Service
+
+Cooperation of Federal Agencies.—
+
+Information
+
+Facilities and services
+
+Chapter
+
+of Title
+
+Termination
+
+Historical and Revision Notes
+
+102303(a)
+
+102303(b)
+
+16 U.S.C. 463(a)
+
+Aug. 21, 1935, ch. 593, § 3(a)
+
+49 Stat. 667
+
+Pub. L. 91–383, § 9
+
+Aug. 18, 1970
+
+Pub. L. 94–458, § 2
+
+Oct. 7, 1976
+
+90 Stat. 1940
+
+Pub. L. 95–625, title VI, § 604(2)
+
+Nov. 10, 1978
+
+92 Stat. 3518
+
+Pub. L. 101–628, title XII, § 1211
+
+Nov. 28, 1990
+
+104 Stat. 4507
+
+Pub. L. 104–333, div. I, title VIII, § 814(f)(1)
+
+Nov. 12, 1996
+
+110 Stat. 4197
+
+Pub. L. 109–156, § 5
+
+Dec. 30, 2005
+
+119 Stat. 2948
+
+Pub. L. 110–161, div. F, title I
+
+Dec. 26, 2007
+
+121 Stat. 2107
+
+Pub. L. 111–8, div. E, title I
+
+administrative provisions
+
+Mar. 11, 2009
+
+123 Stat. 710
+
+16 U.S.C. 463(a)
+
+102303(c)(3)
+
+16 U.S.C. 463(a)
+
+102303(c)(4)
+
+16 U.S.C. 463(a)
+
+102303(c)(5)
+
+16 U.S.C. 463(a)
+
+102303(d)(1)
+
+16 U.S.C. 463(a)
+
+102303(d)(2)
+
+16 U.S.C. 463(a)
+
+16 U.S.C. 463(c)
+
+102303(d)(6)
+
+16 U.S.C. 463(e)(3)
+
+102303(e)
+
+16 U.S.C. 463(b)(1)
+
+102303(f)
+
+16 U.S.C. 463(b)(2)
+
+102303(g)
+
+16 U.S.C. 463(e)(1)
+
+102303(h)
+
+16 U.S.C. 463(d)
+
+102303(i)
+
+16 U.S.C. 463(f)
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3155](https://www.govinfo.gov/link/statute/128/3155); [Pub. L. 117–286, § 4(a)(330)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4342](https://www.govinfo.gov/link/statute/136/4342).)*

@@ -3,9 +3,10 @@ title: "Section 733 - Senior Executive Service"
 usc_title: 31
 usc_section: "733"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 733"
-generated_at: "2026-03-30T02:55:34.047Z"
+generated_at: "2026-11-23T20:26:51.689Z"
+status: "active"
 ---
 
 # § 733. Senior Executive Service
@@ -24,3 +25,31 @@ generated_at: "2026-03-30T02:55:34.047Z"
 - **(b)** Except as provided in subsection (a), the Comptroller General may apply any part of title 5 that applies to an applicant for or officer or employee in the Senior Executive Service under title 5 to the Office Senior Executive Service.
 - **(c)** The Office Senior Executive Service may include positions referred to in section 731(c), (e)(1), or (e)(2) of this title.
 - **(d)** Section 732(b)(6), (c), (d)(1)–(4), and (e) of this title does not apply to the Office Senior Executive Service.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 733(a) | 31:52–4(a)(1). | Feb. 15, 1980 , Pub. L. 96–191, § 5(a) , 94 Stat. 31 . |
+| 733(b) | 31:52–4(a)(2). |  |
+| 733(c) | 31:52–4(a)(4). |  |
+| 733(d) | 31:52–4(a)(3). |  |
+
+
+Historical and Revision Notes
+
+733(a)
+
+Feb. 15, 1980
+
+Pub. L. 96–191, § 5(a)
+
+94 Stat. 31
+
+733(b)
+
+733(c)
+
+733(d)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 899](https://www.govinfo.gov/link/statute/96/899); [Pub. L. 98–326, § 1(c)](https://www.govinfo.gov/link/plaw/98/public/326), June 22, 1984, [98 Stat. 269](https://www.govinfo.gov/link/statute/98/269); [Pub. L. 106–303, § 4(b)](https://www.govinfo.gov/link/plaw/106/public/303), Oct. 13, 2000, [114 Stat. 1069](https://www.govinfo.gov/link/statute/114/1069); [Pub. L. 108–271, § 3(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 812](https://www.govinfo.gov/link/statute/118/812); [Pub. L. 110–323, § 9(b)(2)](https://www.govinfo.gov/link/plaw/110/public/323), Sept. 22, 2008, [122 Stat. 3548](https://www.govinfo.gov/link/statute/122/3548).)*

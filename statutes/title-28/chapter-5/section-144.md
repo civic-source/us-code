@@ -3,12 +3,19 @@ title: "Section 144 - Bias or prejudice of judge"
 usc_title: 28
 usc_section: "144"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 144"
-generated_at: "2026-03-30T02:55:30.124Z"
+generated_at: "2026-11-23T20:26:36.320Z"
+status: "active"
 ---
 
 # § 144. Bias or prejudice of judge
 
 Whenever a party to any proceeding in a district court makes and files a timely and sufficient affidavit that the judge before whom the matter is pending has a personal bias or prejudice either against him or in favor of any adverse party, such judge shall proceed no further therein, but another judge shall be assigned to hear such proceeding. The affidavit shall state the facts and the reasons for the belief that bias or prejudice exists, and shall be filed not less than ten days before the beginning of the term at which the proceeding is to be heard, or good cause shall be shown for failure to file it within such time. A party may file only one such affidavit in any case. It shall be accompanied by a certificate of counsel of record stating that it is made in good faith.
 
+
+Act
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 898](https://www.govinfo.gov/link/statute/62/898); May 24, 1949, ch. 139, § 65, [63 Stat. 99](https://www.govinfo.gov/link/statute/63/99).)*

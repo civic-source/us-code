@@ -3,9 +3,10 @@ title: "Section 15092 - Definitions and special rule"
 usc_title: 42
 usc_section: "15092"
 chapter: 144
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 15092"
-generated_at: "2026-03-30T02:56:11.458Z"
+generated_at: "2026-11-23T20:27:23.558Z"
+status: "active"
 ---
 
 # § 15092. Definitions and special rule
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:11.458Z"
 - **(b)** References in this subchapter to a child with a disability shall be considered to include references to an individual who is not younger than age 18 who—
   - **(1)** has a significant impairment described in subsection (a)(1)(A); and
   - **(2)** is residing with and receiving assistance from a family member.
+
+## Source Credit
+
+*([Pub. L. 106–402, title II, § 203](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1729](https://www.govinfo.gov/link/statute/114/1729).)*

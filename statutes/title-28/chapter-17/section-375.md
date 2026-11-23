@@ -3,9 +3,10 @@ title: "Section 375 - Recall of certain judges and magistrate judges"
 usc_title: 28
 usc_section: "375"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 375"
-generated_at: "2026-03-30T02:55:30.128Z"
+generated_at: "2026-11-23T20:26:36.343Z"
+status: "active"
 ---
 
 # § 375. Recall of certain judges and magistrate judges
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:30.128Z"
 - **(f)** For purposes of determining the years of service requirements in order to be eligible for recall under this section, any service as a bankruptcy judge or a United States magistrate judge, and any prior service as a referee in bankruptcy or a United States commissioner, may be credited.
 - **(g)** Except as provided in subsection (c), a judge or magistrate judge recalled under this section who retired under the applicable provisions of title 5 shall be considered to be a reemployed annuitant under chapter 83 or chapter 84, as the case may be, of title 5.
 - **(h)** The Judicial Conference of the United States shall promulgate regulations to implement this section.
+
+## Source Credit
+
+*(Added [Pub. L. 99–651, title II, § 201(b)(1)](https://www.govinfo.gov/link/plaw/99/public/651), Nov. 14, 1986, [100 Stat. 3647](https://www.govinfo.gov/link/statute/100/3647); amended [Pub. L. 100–659, § 4(b)](https://www.govinfo.gov/link/plaw/100/public/659), Nov. 15, 1988, [102 Stat. 3918](https://www.govinfo.gov/link/statute/102/3918); [Pub. L. 101–650, title III](https://www.govinfo.gov/link/plaw/101/public/650), §§ 321, 325(b)(2), Dec. 1, 1990, [104 Stat. 5117](https://www.govinfo.gov/link/statute/104/5117), 5121; [Pub. L. 102–572, title IX, § 904(a)](https://www.govinfo.gov/link/plaw/102/public/572), Oct. 29, 1992, [106 Stat. 4517](https://www.govinfo.gov/link/statute/106/4517); [Pub. L. 107–273, div. C, title I, § 11043(d)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1855](https://www.govinfo.gov/link/statute/116/1855); [Pub. L. 116–325, § 5](https://www.govinfo.gov/link/plaw/116/public/325), Jan. 12, 2021, [134 Stat. 5094](https://www.govinfo.gov/link/statute/134/5094).)*

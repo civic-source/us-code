@@ -3,9 +3,10 @@ title: "Section 7703c - Plan and authority to assist local educational agencies 
 usc_title: 20
 usc_section: "7703c"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 7703c"
-generated_at: "2026-03-30T02:54:48.216Z"
+generated_at: "2026-11-23T20:26:14.930Z"
+status: "active"
 ---
 
 # § 7703c. Plan and authority to assist local educational agencies experiencing growth in enrollment due to force structure changes, relocation of military units, or base closures and realignments
@@ -39,3 +40,9 @@ generated_at: "2026-03-30T02:54:48.216Z"
     - **(A)** elementary and secondary school students who are dependents of members of the Armed Forces;
     - **(B)** elementary and secondary school students who are dependents of civilian employees of the Department of Defense; and
     - **(C)** elementary and secondary school students who are dependents of personnel who are not members of the Armed Forces or civilian employees of the Department of Defense but who are employed on Federal property.
+
+“The budget justification materials that accompany any budget of the President for a fiscal year after fiscal year 2017 (as submitted to Congress pursuant to section 1105 of title 31 , United States Code) shall include, with respect to section 574(c) of the John Warner National Defense Authorization Act for Fiscal Year 2007 ( Public Law 109–364 ; 20 U.S.C. 7703b note [now 20 U.S.C. 7703c ]), the following:
+
+## Source Credit
+
+*([Pub. L. 109–364, div. A, title V, § 574](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2226](https://www.govinfo.gov/link/statute/120/2226), as amended by [Pub. L. 110–181, div. A, title V, § 573](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 120](https://www.govinfo.gov/link/statute/122/120); [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title V, § 553, Oct. 14, 2008, [122 Stat. 4469](https://www.govinfo.gov/link/statute/122/4469); [Pub. L. 112–81, div. A, title V, § 573](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1427](https://www.govinfo.gov/link/statute/125/1427); [Pub. L. 114–92, div. A, title X, § 1072(h)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 995](https://www.govinfo.gov/link/statute/129/995); [Pub. L. 114–328, div. A, title V, § 572(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2141](https://www.govinfo.gov/link/statute/130/2141); [Pub. L. 115–91, div. A, title V, § 552(a)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1401](https://www.govinfo.gov/link/statute/131/1401).)*

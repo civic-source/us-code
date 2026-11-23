@@ -3,9 +3,10 @@ title: "Section 10009 - Coordinated support to recover assets stolen from the Su
 usc_title: 22
 usc_section: "10009"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 10009"
-generated_at: "2026-03-30T02:55:05.474Z"
+generated_at: "2026-11-23T20:26:32.807Z"
+status: "active"
 ---
 
 # § 10009. Coordinated support to recover assets stolen from the Sudanese people
@@ -20,3 +21,7 @@ The Secretary of State, in coordination with the Secretary of the Treasury and t
     - **(D)** to work with the Government of Sudan to ensure that a credible mechanism is established to ensure that any recovered assets are managed in a transparent and accountable fashion and ultimately used for the benefit of the Sudanese people, provided that—
       - **(i)** returned assets are not used for partisan political purposes; and
       - **(ii)** there are robust financial management and oversight measures to safeguard repatriated assets.
+
+## Source Credit
+
+*([Pub. L. 116–283, div. A, title XII, § 1270](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3974](https://www.govinfo.gov/link/statute/134/3974).)*

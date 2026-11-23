@@ -3,9 +3,10 @@ title: "Section 9701 - Findings; sense of Congress in support of the Interim Pre
 usc_title: 22
 usc_section: "9701"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9701"
-generated_at: "2026-03-30T02:55:05.472Z"
+generated_at: "2026-11-23T20:26:32.796Z"
+status: "active"
 ---
 
 # § 9701. Findings; sense of Congress in support of the Interim President of Venezuela
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.472Z"
   - **(1)** to support the decisions by the United States Government, more than 50 governments around the world, the Organization of American States, the Inter-American Development Bank, and the European Parliament to recognize National Assembly President Juan Guaidó as the Interim President of Venezuela;
   - **(2)** to encourage the Interim President of Venezuela to advance efforts to hold democratic presidential elections in the shortest possible period; and
   - **(3)** that the Organization of American States, with support from the United States Government and partner governments, should provide diplomatic, technical, and financial support for a new presidential election in Venezuela that complies with international standards for a free, fair, and transparent electoral process.
+
+## Source Credit
+
+*([Pub. L. 116–94, div. J, title I, § 111](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3030](https://www.govinfo.gov/link/statute/133/3030).)*

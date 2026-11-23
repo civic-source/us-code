@@ -3,9 +3,10 @@ title: "Section 286f - Obtaining and furnishing information to the Fund"
 usc_title: 22
 usc_section: "286f"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 286f"
-generated_at: "2026-03-30T02:55:05.319Z"
+generated_at: "2026-11-23T20:26:32.008Z"
+status: "active"
 ---
 
 # § 286f. Obtaining and furnishing information to the Fund
@@ -14,3 +15,21 @@ generated_at: "2026-03-30T02:55:05.319Z"
 - **(b)** In the event any person refuses to furnish such information when requested to do so, the President, through any designated governmental agency, may by subpoena require such person to appear and testify or to appear and produce records and other documents, or both. In case of contumacy by, or refusal to obey a subpoena served upon any such person, the district court for any district in which such person is found or resides or transacts business, upon application by the President or any governmental agency designated by him, shall have jurisdiction to issue an order requiring such person to appear and give testimony or appear and produce records and documents, or both; and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 - **(c)** It shall be unlawful for any officer or employee of the Government, or for any advisor or consultant to the Government, to disclose, otherwise than in the course of official duty, any information obtained under this section, or to use any such information for his personal benefit. Whoever violates any of the provisions of this subsection shall, upon conviction, be fined not more than $5,000, or imprisoned for not more than five years, or both.
 - **(d)** The term “person” as used in this section means an individual, partnership, corporation or association.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+## Source Credit
+
+*(July 31, 1945, ch. 339, § 8, [59 Stat. 515](https://www.govinfo.gov/link/statute/59/515).)*

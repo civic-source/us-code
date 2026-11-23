@@ -3,12 +3,17 @@ title: "Section 390gg - Equivalency"
 usc_title: 43
 usc_section: "390gg"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 390gg"
-generated_at: "2026-03-30T02:55:57.445Z"
+generated_at: "2026-11-23T20:27:06.199Z"
+status: "active"
 ---
 
 # § 390gg. Equivalency
 
 Upon the request of any district, the ownership and pricing limitations imposed by this subchapter shall apply to the irrigable lands classified within such district by the Secretary as having class I productive potential or the equivalent thereof in larger acreage of less productive potential, as determined by the Secretary, taking into account all factors which significantly affect productivity, including but not limited to topography, soil characteristics, length of growing season, elevation, adequacy of water supply, and crop adaptability.
 
+
+## Source Credit
+
+*([Pub. L. 97–293, title II, § 207](https://www.govinfo.gov/link/plaw/97/public/293), Oct. 12, 1982, [96 Stat. 1266](https://www.govinfo.gov/link/statute/96/1266).)*

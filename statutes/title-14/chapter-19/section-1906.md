@@ -3,9 +3,10 @@ title: "Section 1906 - Participation in Federal, State, or other educational res
 usc_title: 14
 usc_section: "1906"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 1906"
-generated_at: "2026-03-30T02:53:51.496Z"
+generated_at: "2026-11-23T20:25:54.567Z"
+status: "active"
 ---
 
 # § 1906. Participation in Federal, State, or other educational research grants
@@ -26,3 +27,21 @@ generated_at: "2026-03-30T02:53:51.496Z"
   - **(5)** In this subsection the term “qualified organization” means an organization—
     - **(A)** described under section 501(c)(3) of the Internal Revenue Code of 1986 and exempt from taxation under section 501(a) of that Code; and
     - **(B)** established by the Coast Guard Academy Alumni Association solely for the purpose of supporting academic research and applying for and administering Federal, State, or other educational research grants on behalf of the Coast Guard Academy.
+
+In General
+
+Qualified Organizations.—
+
+In general
+
+Sole-source basis
+
+Maintaining fairness, objectivity, and integrity
+
+Limitation
+
+Qualified organization defined
+
+## Source Credit
+
+*(Added [Pub. L. 103–206, title III, § 305(a)](https://www.govinfo.gov/link/plaw/103/public/206), Dec. 20, 1993, [107 Stat. 2424](https://www.govinfo.gov/link/statute/107/2424), § 196; amended [Pub. L. 114–120, title II, § 218](https://www.govinfo.gov/link/plaw/114/public/120), Feb. 8, 2016, [130 Stat. 47](https://www.govinfo.gov/link/statute/130/47); [Pub. L. 115–232, div. C, title XXXV, § 3531(c)(10)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2320](https://www.govinfo.gov/link/statute/132/2320); renumbered § 1904 and amended [Pub. L. 115–282, title I](https://www.govinfo.gov/link/plaw/115/public/282), §§ 110(b), 123(b)(2), Dec. 4, 2018, [132 Stat. 4212](https://www.govinfo.gov/link/statute/132/4212), 4240; renumbered § 1906, [Pub. L. 116–283, div. G, title LVXXXII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXII], § 8215(b)(1), Jan. 1, 2021, [134 Stat. 4650](https://www.govinfo.gov/link/statute/134/4650); [Pub. L. 117–81, div. A, title XVII, § 1702(d)(3)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2156](https://www.govinfo.gov/link/statute/135/2156).)*

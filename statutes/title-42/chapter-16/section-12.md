@@ -3,9 +3,10 @@ title: "Section 12 - Cloud computing research enhancement"
 usc_title: 42
 usc_section: "12"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12"
-generated_at: "2026-03-30T02:56:11.128Z"
+generated_at: "2026-11-23T20:27:21.951Z"
+status: "active"
 ---
 
 # § 1862p–12. Cloud computing research enhancement
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:11.128Z"
 - **(d)** The Director of the National Institute of Standards and Technology shall—
   - **(1)** collaborate with industry in the development of standards supporting trusted cloud computing infrastructures, metrics, interoperability, and assurance; and
   - **(2)** support standards development with the intent of supporting common goals.
+
+## Source Credit
+
+*([Pub. L. 111–358, title V, § 524](https://www.govinfo.gov/link/plaw/111/public/358), Jan. 4, 2011, [124 Stat. 4018](https://www.govinfo.gov/link/statute/124/4018).)*

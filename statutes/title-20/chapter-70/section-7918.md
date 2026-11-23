@@ -3,9 +3,10 @@ title: "Section 7918 - Consultation with Indian tribes and tribal organizations"
 usc_title: 20
 usc_section: "7918"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 7918"
-generated_at: "2026-03-30T02:54:48.221Z"
+generated_at: "2026-11-23T20:26:14.955Z"
+status: "active"
 ---
 
 # § 7918. Consultation with Indian tribes and tribal organizations
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:48.221Z"
   - **(1)** to require the local educational agency to determine who are the appropriate officials; or
   - **(2)** to make the local educational agency liable for consultation with appropriate officials that the tribe determines not to be the correct appropriate officials.
 - **(e)** Consultation required under this section shall not interfere with the timely submission of the plans or applications required under this chapter.
+
+## Source Credit
+
+*([Pub. L. 89–10, title VIII, § 8538](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title VIII, § 8030](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2116](https://www.govinfo.gov/link/statute/129/2116).)*

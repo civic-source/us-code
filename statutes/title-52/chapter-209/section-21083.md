@@ -3,9 +3,10 @@ title: "Section 21083 - Computerized statewide voter registration list requireme
 usc_title: 52
 usc_section: "21083"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "52 U.S.C. § 21083"
-generated_at: "2026-03-30T02:56:30.168Z"
+generated_at: "2026-11-23T20:27:36.987Z"
+status: "active"
 ---
 
 # § 21083. Computerized statewide voter registration list requirements and requirements for voters who register by mail
@@ -95,3 +96,7 @@ generated_at: "2026-03-30T02:56:30.168Z"
   - **(2)**
     - **(A)** Each State and jurisdiction shall be required to comply with the requirements of subsection (b) on and after January 1, 2004 , and shall be prepared to receive registration materials submitted by individuals described in subparagraph (B) on and after the date described in such subparagraph.
     - **(B)** The provisions of subsection (b) shall apply to any individual who registers to vote on or after January 1, 2003 .
+
+## Source Credit
+
+*([Pub. L. 107–252, title III, § 303](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1708](https://www.govinfo.gov/link/statute/116/1708).)*

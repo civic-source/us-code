@@ -3,9 +3,10 @@ title: "Section 8103 - Authority to construct and alter, and to acquire sites fo
 usc_title: 38
 usc_section: "8103"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 8103"
-generated_at: "2026-03-30T02:55:53.536Z"
+generated_at: "2026-11-23T20:27:02.057Z"
+status: "active"
 ---
 
 # § 8103. Authority to construct and alter, and to acquire sites for, medical facilities
@@ -67,3 +68,79 @@ generated_at: "2026-03-30T02:55:53.536Z"
     - **(B)** The term “covered entity” means a unit or subdivision of a State, local, or municipal government, public or nonprofit agency, institution, or organization, or other institution or organization as the Secretary considers appropriate that owns property controlled by an academic affiliate to be leased under this subsection.
     - **(C)** The term “health-care resource” has the meaning given that term in section 8152(1) of this title .
     - **(D)** The term “space” means any room, unit, floor, wing, building, parking facility, or other subdivision of a building or facility owned or controlled by an academic affiliate.
+
+“The amendment made by subsection (a) [amending this section] shall apply with respect to the following:
+
+Pilot Program Authorized.—
+
+In general
+
+Entities described
+
+Limitation
+
+Conditions for Acceptance of Property
+
+Requirement To Enter Into an Agreement.—
+
+In general
+
+Content of formal agreements
+
+No Payment of Rent or Usage Fees
+
+Funding.—
+
+From department.—
+
+In general
+
+Unobligated amounts
+
+“(aa) are unobligated balances available in the Construction, Minor Projects, or Construction, Major Projects appropriations accounts of the Department that—
+
+“(bb) were appropriated to such an account before the date described in subclause (I).
+
+Escalation clauses
+
+In general
+
+Use of existing amounts
+
+“(aa) are not associated with a specific project; or
+
+“(bb) are amounts that are associated with a specific project, but are unobligated because they are the result of bid savings; and
+
+Availability
+
+Limitation
+
+Terms and conditions
+
+From entity
+
+Application
+
+Information on Donations and Related Projects.—
+
+In general
+
+Elements
+
+Biennial Report of Comptroller General of the United States
+
+Termination
+
+Rules of Construction
+
+Entering arrangements and agreements
+
+Treatment of assistance
+
+In General
+
+Agreement
+
+## Source Credit
+
+*(Added [Pub. L. 96–22, title III, § 301(a)](https://www.govinfo.gov/link/plaw/96/public/22), June 13, 1979, [93 Stat. 56](https://www.govinfo.gov/link/statute/93/56), § 5003; amended [Pub. L. 101–237, title VI, § 603(b)](https://www.govinfo.gov/link/plaw/101/public/237), Dec. 18, 1989, [103 Stat. 2097](https://www.govinfo.gov/link/statute/103/2097); renumbered § 8103 and amended [Pub. L. 102–40, title IV, § 402(b)(1)](https://www.govinfo.gov/link/plaw/102/public/40), (d)(1), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238), 239; [Pub. L. 102–83, § 4(b)(1)](https://www.govinfo.gov/link/plaw/102/public/83), (2)(E), Aug. 6, 1991, [105 Stat. 404](https://www.govinfo.gov/link/statute/105/404), 405; [Pub. L. 103–446, title XII, § 1201(d)(16)](https://www.govinfo.gov/link/plaw/103/public/446), Nov. 2, 1994, [108 Stat. 4684](https://www.govinfo.gov/link/statute/108/4684); [Pub. L. 114–58, title V, § 502(a)](https://www.govinfo.gov/link/plaw/114/public/58), Sept. 30, 2015, [129 Stat. 537](https://www.govinfo.gov/link/statute/129/537); [Pub. L. 114–315, title VIII, § 801(a)](https://www.govinfo.gov/link/plaw/114/public/315), Dec. 16, 2016, [130 Stat. 1590](https://www.govinfo.gov/link/statute/130/1590); [Pub. L. 115–182, title II, § 211](https://www.govinfo.gov/link/plaw/115/public/182), June 6, 2018, [132 Stat. 1460](https://www.govinfo.gov/link/statute/132/1460); [Pub. L. 117–168, title VII, § 704](https://www.govinfo.gov/link/plaw/117/public/168), Aug. 10, 2022, [136 Stat. 1799](https://www.govinfo.gov/link/statute/136/1799); [Pub. L. 117–263, div. E, title LI, § 5124(c)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3211](https://www.govinfo.gov/link/statute/136/3211).)*

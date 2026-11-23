@@ -3,9 +3,10 @@ title: "Section 155a - Transferred"
 usc_title: 25
 usc_section: "155a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 155a"
-generated_at: "2026-03-30T02:54:52.799Z"
+generated_at: "2026-11-23T20:26:25.356Z"
+status: "transferred"
 ---
 
 # § 155a. Transferred

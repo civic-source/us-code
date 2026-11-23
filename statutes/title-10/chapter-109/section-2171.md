@@ -3,9 +3,10 @@ title: "Section 2171 - Education loan repayment program: enlisted members on act
 usc_title: 10
 usc_section: "2171"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2171"
-generated_at: "2026-03-30T02:53:38.146Z"
+generated_at: "2026-11-23T20:25:51.478Z"
+status: "active"
 ---
 
 # § 2171. Education loan repayment program: enlisted members on active duty in specified military specialties
@@ -28,3 +29,9 @@ generated_at: "2026-03-30T02:53:38.146Z"
 - **(f)** The Secretary of Defense shall, by regulation, prescribe a schedule for the allocation of funds made available to carry out the provisions of this section and section 16301 of this title during any year for which funds are not sufficient to pay the sum of the amounts eligible for repayment under subsection (a) and section 16301(a) of this title .
 - **(g)** Except a person described in subsection (e) who transfers to service making the person eligible for repayment of loans under section 16301 of this title , a member of the armed forces who fails to complete the period of service required to qualify for loan repayment under this section shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
 - **(h)** The Secretary of Defense may prescribe, by regulations, procedures for implementing this section, including standards for qualified loans and authorized payees and other terms and conditions for making loan repayments. Such regulations may include exceptions that would allow for the payment as a lump sum of any loan repayment due to a member under a written agreement that existed at the time of a member’s death or disability.
+
+“The authority provided under section 2171 of title 10 , United States Code, as added by subsection (a), shall apply only—
+
+## Source Credit
+
+*(Added [Pub. L. 99–145, title VI, § 671(a)(1)](https://www.govinfo.gov/link/plaw/99/public/145), Nov. 8, 1985, [99 Stat. 661](https://www.govinfo.gov/link/statute/99/661); amended [Pub. L. 103–337, div. A, title XVI, § 1663(e)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 3009](https://www.govinfo.gov/link/statute/108/3009); [Pub. L. 104–106, div. A, title X, § 1079(a)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 451](https://www.govinfo.gov/link/statute/110/451); [Pub. L. 109–163, div. A, title V, § 537](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3249](https://www.govinfo.gov/link/statute/119/3249); [Pub. L. 111–383, div. A, title V, § 552(a)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4220](https://www.govinfo.gov/link/statute/124/4220); [Pub. L. 115–91, div. A, title VI, § 618(a)(1)(H)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1426](https://www.govinfo.gov/link/statute/131/1426).)*

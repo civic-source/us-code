@@ -3,9 +3,10 @@ title: "Section 1310 - Cooperative research or demonstration projects"
 usc_title: 42
 usc_section: "1310"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1310"
-generated_at: "2026-03-30T02:56:10.904Z"
+generated_at: "2026-11-23T20:27:20.972Z"
+status: "active"
 ---
 
 # § 1310. Cooperative research or demonstration projects
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:10.904Z"
 - **(c)**
   - **(1)** In addition to the amount otherwise appropriated in any other law to carry out subsection (a) for fiscal year 2004, up to $8,500,000 is authorized and appropriated and shall be used by the Commissioner of Social Security under this subsection for purposes of conducting a statistically valid survey to determine how payments made to individuals, organizations, and State or local government agencies that are representative payees for benefits paid under subchapter II or XVI are being managed and used on behalf of the beneficiaries for whom such benefits are paid.
   - **(2)** Not later than 18 months after March 2, 2004 , the Commissioner of Social Security shall submit a report on the survey conducted in accordance with paragraph (1) to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XI, § 1110, as added Aug. 1, 1956, ch. 836, title III, § 331, [70 Stat. 850](https://www.govinfo.gov/link/statute/70/850); amended [Pub. L. 90–248, title II, § 246](https://www.govinfo.gov/link/plaw/90/public/248), Jan. 2, 1968, [81 Stat. 918](https://www.govinfo.gov/link/statute/81/918); [Pub. L. 96–265, title V, § 505(b)](https://www.govinfo.gov/link/plaw/96/public/265), June 9, 1980, [94 Stat. 474](https://www.govinfo.gov/link/statute/94/474); [Pub. L. 98–369, div. B, title III, § 2331(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1088](https://www.govinfo.gov/link/statute/98/1088); [Pub. L. 99–272, title XII, § 12101(d)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 283](https://www.govinfo.gov/link/statute/100/283); [Pub. L. 103–296, title I, § 108(b)(7)](https://www.govinfo.gov/link/plaw/103/public/296), Aug. 15, 1994, [108 Stat. 1482](https://www.govinfo.gov/link/statute/108/1482); [Pub. L. 105–33, title V, § 5524](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 623](https://www.govinfo.gov/link/statute/111/623); [Pub. L. 106–170, title IV, § 404(a)](https://www.govinfo.gov/link/plaw/106/public/170), Dec. 17, 1999, [113 Stat. 1910](https://www.govinfo.gov/link/statute/113/1910); [Pub. L. 108–203, title I, § 107(a)](https://www.govinfo.gov/link/plaw/108/public/203), Mar. 2, 2004, [118 Stat. 506](https://www.govinfo.gov/link/statute/118/506).)*

@@ -3,9 +3,10 @@ title: "Section 2008 - Audit and expenditures"
 usc_title: 39
 usc_section: "2008"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "39 U.S.C. § 2008"
-generated_at: "2026-03-30T02:55:43.690Z"
+generated_at: "2026-11-23T20:26:57.732Z"
+status: "active"
 ---
 
 # § 2008. Audit and expenditures
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:43.690Z"
 - **(c)** Subject only to the provisions of this chapter, the Postal Service is authorized to make such expenditures and to enter into such contracts, agreements, and arrangements, upon such terms and conditions and in such manner as it deems necessary, including the final settlement of all claims and litigation by or against the Postal Service.
 - **(d)** Nothing in this section shall be construed as denying to the Postal Service the power to obtain audits of the accounts of the Postal Service and reports concerning its financial condition and operations by certified public accounting firms. Such audits and reports shall be in addition to those required by this section.
 - **(e)** At least once each year beginning with the fiscal year commencing after June 30, 1971 , the Postal Service shall obtain a certification from an independent, certified public accounting firm of the accuracy of any financial statements of the Postal Service used in determining and establishing postal rates.
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 741](https://www.govinfo.gov/link/statute/84/741).)*

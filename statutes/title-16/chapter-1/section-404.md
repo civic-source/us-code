@@ -3,12 +3,17 @@ title: "Section 404 - Establishment; boundaries"
 usc_title: 16
 usc_section: "404"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 404"
-generated_at: "2026-03-30T02:54:22.756Z"
+generated_at: "2026-11-23T20:26:19.435Z"
+status: "active"
 ---
 
 # § 404. Establishment; boundaries
 
 When title to lands within the area referred to in this section shall have been vested in the United States in fee simple, there shall be, and there is, established, dedicated, and set apart as a public park for the benefit and enjoyment of the people, the tract of land in the Mammoth Cave region in the State of Kentucky, being approximately seventy thousand six hundred and eighteen acres, recommended as a National Park by the Southern Appalachian National Park Commission to the Secretary of the Interior, in its report of April 8, 1926 , and made under authority of the Act of February 21, 1925 (chapter 281, 43 Statutes 958); which area, or any part or parts thereof as may be accepted on behalf of the United States in accordance with the provisions hereof, shall be known as the Mammoth Cave National Park: Provided , That the United States shall not purchase by appropriation of public moneys any land within the aforesaid area, but such lands shall be secured by the United States only by public or private donation.
 
+
+## Source Credit
+
+*(May 25, 1926, ch. 382, § 1, [44 Stat. 635](https://www.govinfo.gov/link/statute/44/635).)*

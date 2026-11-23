@@ -3,9 +3,10 @@ title: "Section 1011 - Penalties for fraud"
 usc_title: 42
 usc_section: "1011"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1011"
-generated_at: "2026-03-30T02:56:10.900Z"
+generated_at: "2026-11-23T20:27:20.959Z"
+status: "active"
 ---
 
 # § 1011. Penalties for fraud
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:10.900Z"
   - **(4)**
     - **(A)** Except as provided in subparagraph (B), funds paid to the Commissioner of Social Security as restitution pursuant to a court order shall be deposited as miscellaneous receipts in the general fund of the Treasury.
     - **(B)** In the case of funds paid to the Commissioner of Social Security pursuant to paragraph (1)(B), the Commissioner of Social Security shall certify for payment to the individual described in such paragraph an amount equal to the lesser of the amount of the funds so paid or the individual’s outstanding financial loss as described in such paragraph, except that such amount may be reduced by any overpayment of benefits owed under this subchapter, subchapter II, or subchapter XVI by the individual.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title VIII, § 811, as added [Pub. L. 106–169, title II, § 251(a)](https://www.govinfo.gov/link/plaw/106/public/169), Dec. 14, 1999, [113 Stat. 1852](https://www.govinfo.gov/link/statute/113/1852); amended [Pub. L. 108–203, title II, § 209(b)](https://www.govinfo.gov/link/plaw/108/public/203), Mar. 2, 2004, [118 Stat. 514](https://www.govinfo.gov/link/statute/118/514); [Pub. L. 114–74, title VIII, § 813(a)(2)](https://www.govinfo.gov/link/plaw/114/public/74), (b)(2), Nov. 2, 2015, [129 Stat. 602](https://www.govinfo.gov/link/statute/129/602), 603.)*

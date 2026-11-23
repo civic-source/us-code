@@ -3,9 +3,10 @@ title: "Section 1632c - Acer access and development program"
 usc_title: 7
 usc_section: "1632c"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1632c"
-generated_at: "2026-03-30T02:53:42.331Z"
+generated_at: "2026-11-23T20:25:41.229Z"
+status: "active"
 ---
 
 # § 1632c. Acer access and development program
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:42.331Z"
 - **(d)** In this section, the term “maple-sugaring” means the collection of sap from any species of tree in the genus Acer for the purpose of boiling to produce food.
 - **(e)** The Secretary of Agriculture shall promulgate such regulations as are necessary to carry out this section.
 - **(f)** There are authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2014 through 2023.
+
+## Source Credit
+
+*([Pub. L. 113–79, title XII, § 12306](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 988](https://www.govinfo.gov/link/statute/128/988); [Pub. L. 115–334, title XII, § 12501](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4982](https://www.govinfo.gov/link/statute/132/4982).)*

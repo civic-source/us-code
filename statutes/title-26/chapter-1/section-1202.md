@@ -3,9 +3,10 @@ title: "Section 1202 - Partial exclusion for gain from certain small business st
 usc_title: 26
 usc_section: "1202"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1202"
-generated_at: "2026-03-30T02:55:27.759Z"
+generated_at: "2026-11-23T20:26:46.039Z"
+status: "active"
 ---
 
 # § 1202. Partial exclusion for gain from certain small business stock
@@ -152,3 +153,30 @@ generated_at: "2026-03-30T02:55:27.759Z"
     - **(B)** the taxpayer has acquired an option to sell substantially identical property at a fixed price, or
     - **(C)** to the extent provided in regulations, the taxpayer has entered into any other transaction which substantially reduces the risk of loss from holding such qualified small business stock.
 - **(k)** The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this section, including regulations to prevent the avoidance of the purposes of this section through split-ups, shell corporations, partnerships, or otherwise.
+
+| Years stock held: | Applicable percentage: |
+| --- | --- |
+| 3 years | 50% |
+| 4 years | 75% |
+| 5 years or more | 100% |
+
+
+3 years
+
+4 years
+
+5 years or more
+
+In general
+
+Subsection (b)(1)
+
+Subsection (b)(2)
+
+In general
+
+Pass-through entity defined
+
+## Source Credit
+
+*(Added [Pub. L. 103–66, title XIII, § 13113(a)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 422](https://www.govinfo.gov/link/statute/107/422); amended [Pub. L. 104–188, title I, § 1621(b)(7)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1867](https://www.govinfo.gov/link/statute/110/1867); [Pub. L. 106–554, § 1(a)(7) [title I, § 117(a), (b)(2)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–604; [Pub. L. 108–357, title VIII, § 835(b)(9)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1594](https://www.govinfo.gov/link/statute/118/1594); [Pub. L. 111–5, div. B, title I, § 1241(a)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 342](https://www.govinfo.gov/link/statute/123/342); [Pub. L. 111–240, title II, § 2011(a)](https://www.govinfo.gov/link/plaw/111/public/240), (b), Sept. 27, 2010, [124 Stat. 2554](https://www.govinfo.gov/link/statute/124/2554); [Pub. L. 111–312, title VII](https://www.govinfo.gov/link/plaw/111/public/312), §§ 753(b), 760(a), Dec. 17, 2010, [124 Stat. 3321](https://www.govinfo.gov/link/statute/124/3321), 3323; [Pub. L. 112–240, title III](https://www.govinfo.gov/link/plaw/112/public/240), §§ 324(a), (b), 327(b), Jan. 2, 2013, [126 Stat. 2333](https://www.govinfo.gov/link/statute/126/2333), 2334; [Pub. L. 113–295, div. A, title I, § 136(a)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4019](https://www.govinfo.gov/link/statute/128/4019); [Pub. L. 114–113, div. Q, title I, § 126(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3054](https://www.govinfo.gov/link/statute/129/3054); [Pub. L. 115–141, div. U, title IV, § 401(d)(1)(D)(xv)](https://www.govinfo.gov/link/plaw/115/public/141), (4)(B)(v), Mar. 23, 2018, [132 Stat. 1208](https://www.govinfo.gov/link/statute/132/1208), 1209; [Pub. L. 119–21, title VII](https://www.govinfo.gov/link/plaw/119/public/21), §§ 70302(b)(11), 70431(a)(1)–(3), (4)(B), (5), (b)(1)–(3), (c)(1), (2), July 4, 2025, [139 Stat. 192](https://www.govinfo.gov/link/statute/139/192), 240–242.)*

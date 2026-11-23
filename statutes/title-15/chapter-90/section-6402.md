@@ -3,9 +3,10 @@ title: "Section 6402 - Definitions"
 usc_title: 15
 usc_section: "6402"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 6402"
-generated_at: "2026-03-30T02:54:08.210Z"
+generated_at: "2026-11-23T20:26:04.394Z"
+status: "active"
 ---
 
 # § 6402. Definitions
@@ -23,3 +24,7 @@ For the purposes of this chapter—
   - **(9)** the term “retail marketer” means a person engaged primarily in the sale of odorized propane to the ultimate consumer or to retail propane dispensers;
   - **(10)** the term “retail propane dispenser” means a person who sells odorized propane to the ultimate consumer but is not engaged primarily in the business of such sales; and
   - **(11)** the term “Secretary” means the Secretary of Energy.
+
+## Source Credit
+
+*([Pub. L. 104–284, § 3](https://www.govinfo.gov/link/plaw/104/public/284), Oct. 11, 1996, [110 Stat. 3370](https://www.govinfo.gov/link/statute/110/3370).)*

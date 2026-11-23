@@ -3,9 +3,10 @@ title: "Section 5202 - Definitions"
 usc_title: 12
 usc_section: "5202"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5202"
-generated_at: "2026-03-30T02:53:53.524Z"
+generated_at: "2026-11-23T20:25:59.448Z"
+status: "active"
 ---
 
 # § 5202. Definitions
@@ -25,3 +26,7 @@ For purposes of this chapter, the following definitions shall apply:
   - **(9)** The term “troubled assets” means—
     - **(A)** residential or commercial mortgages and any securities, obligations, or other instruments that are based on or related to such mortgages, that in each case was originated or issued on or before March 14, 2008 , the purchase of which the Secretary determines promotes financial market stability; and
     - **(B)** any other financial instrument that the Secretary, after consultation with the Chairman of the Board of Governors of the Federal Reserve System, determines the purchase of which is necessary to promote financial market stability, but only upon transmittal of such determination, in writing, to the appropriate committees of Congress.
+
+## Source Credit
+
+*([Pub. L. 110–343, div. A, § 3](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3766](https://www.govinfo.gov/link/statute/122/3766).)*

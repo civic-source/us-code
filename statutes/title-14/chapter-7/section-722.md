@@ -3,9 +3,10 @@ title: "Section 722 - Cooperation with eligible entities"
 usc_title: 14
 usc_section: "722"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 722"
-generated_at: "2026-03-30T02:53:51.490Z"
+generated_at: "2026-11-23T20:25:54.542Z"
+status: "active"
 ---
 
 # § 722. Cooperation with eligible entities
@@ -49,3 +50,39 @@ generated_at: "2026-03-30T02:53:51.490Z"
     - **(E)** Biological resources.
   - **(6)** The term “State” includes each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and the territories and possessions of the United States.
   - **(7)** The term “Tribal organization” has the meaning given such term in section 4 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5304 ).
+
+In General.—
+
+Provision of assistance
+
+Use of funds
+
+Limitation
+
+Notification; Availability of Agreements to Congress.—
+
+Notification
+
+Availability of agreements
+
+Rule of Construction
+
+Definitions
+
+Cultural resource
+
+Eligible entity
+
+Indian tribe
+
+Native hawaiian organization
+
+Natural resource
+
+State
+
+Tribal organization
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. G, title LXXII, § 7204(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1688](https://www.govinfo.gov/link/statute/139/1688).)*

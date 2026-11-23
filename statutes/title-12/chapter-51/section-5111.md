@@ -3,9 +3,10 @@ title: "Section 5111 - Confidentiality of information"
 usc_title: 12
 usc_section: "5111"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5111"
-generated_at: "2026-03-30T02:53:53.523Z"
+generated_at: "2026-11-23T20:25:59.446Z"
+status: "active"
 ---
 
 # § 5111. Confidentiality of information
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:53.523Z"
   - **(2)** subpoena or discovery, or admission into evidence, in any private civil action or administrative process, unless with respect to any privilege held by the Nationwide Mortgage Licensing System and Registry or the Director with respect to such information or material, the person to whom such information or material pertains waives, in whole or in part, in the discretion of such person, that privilege.
 - **(c)** Any State law, including any State open record law, relating to the disclosure of confidential supervisory information or any information or material described in subsection (a) that is inconsistent with subsection (a) shall be superseded by the requirements of such provision to the extent State law provides less confidentiality or a weaker privilege.
 - **(d)** This section shall not apply with respect to the information or material relating to the employment history of, and publicly adjudicated disciplinary and enforcement actions against, loan originators that is included in Nationwide Mortgage Licensing System and Registry for access by the public.
+
+## Source Credit
+
+*([Pub. L. 110–289, div. A, title V, § 1512](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2820](https://www.govinfo.gov/link/statute/122/2820); [Pub. L. 111–203, title X, § 1100(3)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2106](https://www.govinfo.gov/link/statute/124/2106); [Pub. L. 114–113, div. O, title VII, § 703](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3025](https://www.govinfo.gov/link/statute/129/3025).)*

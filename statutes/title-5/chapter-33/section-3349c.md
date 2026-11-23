@@ -3,9 +3,10 @@ title: "Section 3349c - Exclusion of certain officers"
 usc_title: 5
 usc_section: "3349c"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 3349c"
-generated_at: "2026-03-30T02:52:56.004Z"
+generated_at: "2026-11-23T20:25:31.823Z"
+status: "active"
 ---
 
 # § 3349c. Exclusion of certain officers
@@ -18,3 +19,7 @@ Sections 3345 through 3349b shall not apply to—
   - **(2)** any commissioner of the Federal Energy Regulatory Commission;
   - **(3)** any member of the Surface Transportation Board; or
   - **(4)** any judge appointed by the President, by and with the advice and consent of the Senate, to a court constituted under article I of the United States Constitution.
+
+## Source Credit
+
+*(Added [Pub. L. 105–277, div. C, title I, § 151(b)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–615](https://www.govinfo.gov/link/statute/112/2681).)*

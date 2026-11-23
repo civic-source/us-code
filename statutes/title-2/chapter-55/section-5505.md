@@ -3,9 +3,10 @@ title: "Section 5505 - Payments from applicable accounts of House of Representat
 usc_title: 2
 usc_section: "5505"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 5505"
-generated_at: "2026-03-30T02:53:04.836Z"
+generated_at: "2026-11-23T20:25:29.060Z"
+status: "active"
 ---
 
 # § 5505. Payments from applicable accounts of House of Representatives
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:04.836Z"
 - **(b)** As used in this section—
   - **(1)** the term “applicable accounts of the House of Representatives” means accounts for salaries and expenses of committees (other than the Committee on Appropriations), the computer support organization of the House of Representatives, and allowances and expenses of Members of the House of Representatives, officers of the House of Representatives, and administrative and support offices of the House of Representatives; and
   - **(2)** the term “Member of the House of Representatives” means a Representative in, or a Delegate or Resident Commissioner to, the Congress.
+
+## Source Credit
+
+*([Pub. L. 104–186, title I, § 105](https://www.govinfo.gov/link/plaw/104/public/186), Aug. 20, 1996, [110 Stat. 1721](https://www.govinfo.gov/link/statute/110/1721).)*

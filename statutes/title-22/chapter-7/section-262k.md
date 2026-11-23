@@ -3,9 +3,10 @@ title: "Section 262k - Financial assistance to international financial instituti
 usc_title: 22
 usc_section: "262k"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 262k"
-generated_at: "2026-03-30T02:55:05.304Z"
+generated_at: "2026-11-23T20:26:31.917Z"
+status: "active"
 ---
 
 # § 262k. Financial assistance to international financial institutions; considerations and criteria
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.304Z"
   - **(2)** Analysis by the United States Bureau of Mines indicates that surplus capacity in the industry for the primary product of the defined project would exist over half the period of the economic life of the project because of projected world demand and capacity conditions.
   - **(3)** United States imports of the commodity constitute less than 50 percent of the domestic production of the primary product in those cases where the United States is the substantial producer of such commodities.
 - **(d)** The international financial institutions referred to in subsections (a) and (b) are the International Monetary Fund, the International Bank for Reconstruction and Development, the International Development Association, the Inter-American Development Bank, the Asian Development Bank, and the African Development Bank.
+
+## Source Credit
+
+*([Pub. L. 99–88, title I, § 502](https://www.govinfo.gov/link/plaw/99/public/88), Aug. 15, 1985, [99 Stat. 330](https://www.govinfo.gov/link/statute/99/330); [Pub. L. 102–285, § 10(b)](https://www.govinfo.gov/link/plaw/102/public/285), May 18, 1992, [106 Stat. 172](https://www.govinfo.gov/link/statute/106/172).)*

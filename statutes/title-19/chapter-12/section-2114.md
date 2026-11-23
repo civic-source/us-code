@@ -3,9 +3,10 @@ title: "Section 2114 - Sector negotiating objective"
 usc_title: 19
 usc_section: "2114"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2114"
-generated_at: "2026-03-30T02:54:24.664Z"
+generated_at: "2026-11-23T20:26:10.906Z"
+status: "active"
 ---
 
 # § 2114. Sector negotiating objective
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:24.664Z"
 - **(b)** As a means of achieving the negotiating objective set forth in subsection (a), to the extent consistent with the objective of maximizing overall economic benefit to the United States (through maintaining and enlarging foreign markets for products of United States agriculture, industry, mining, and commerce, through the development of fair and equitable market opportunities, and through open and nondiscriminatory world trade), negotiations shall, to the extent feasible be conducted on the basis of appropriate product sectors of manufacturing.
 - **(c)** For the purposes of this section and section 2155 of this title , the United States Trade Representative together with the Secretary of Commerce, Agriculture, or Labor, as appropriate, shall, after consultation with the Advisory Committee for Trade Negotiations established under section 2155 of this title and after consultation with interested private or non-Federal governmental organizations, identify appropriate product sectors of manufacturing.
 - **(d)** If the President determines that competitive opportunities in one or more product sectors will be significantly affected by a trade agreement concluded under section 2111 or 2112 of this title, he shall submit to the Congress with each such agreement an analysis of the extent to which the negotiating objective set forth in subsection (a) is achieved by such agreement in each product sector or product sectors.
+
+## Source Credit
+
+*([Pub. L. 93–618, title I, § 104](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 1984](https://www.govinfo.gov/link/statute/88/1984); 1979 Reorg. Plan No. 3, § 1(b)(1), eff. Jan. 2, 1980, 44 F.R. 69273, [93 Stat. 1381](https://www.govinfo.gov/link/statute/93/1381); [Pub. L. 98–573, title III, § 306(c)(2)(C)(i)](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 3012](https://www.govinfo.gov/link/statute/98/3012).)*

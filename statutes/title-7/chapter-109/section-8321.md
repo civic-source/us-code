@@ -3,9 +3,10 @@ title: "Section 8321 - Pest and Disease Response Fund"
 usc_title: 7
 usc_section: "8321"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 8321"
-generated_at: "2026-03-30T02:53:42.475Z"
+generated_at: "2026-11-23T20:25:41.885Z"
+status: "active"
 ---
 
 # § 8321. Pest and Disease Response Fund
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:42.475Z"
 - **(b)** Amounts in the Fund shall remain available until expended.
 - **(c)** In implementing the Animal Health Protection Act ( 7 U.S.C. 8301 et seq.) and the Plant Protection Act ( 7 U.S.C. 7701 et seq.), the Secretary of Agriculture shall have complete discretion regarding the use of amounts in the Fund to support emergency eradication and research activities in response to economic and health threats posed by pests and diseases affecting agricultural commodities.
 - **(d)** For each of the fiscal years 2005 through 2009, there is authorized to be appropriated to the Secretary of Agriculture $1,000,000 for deposit in the Fund.
+
+## Source Credit
+
+*([Pub. L. 108–465, title IV, § 401](https://www.govinfo.gov/link/plaw/108/public/465), Dec. 21, 2004, [118 Stat. 3886](https://www.govinfo.gov/link/statute/118/3886).)*

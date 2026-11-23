@@ -3,9 +3,10 @@ title: "Section 9407 - Uses of funds"
 usc_title: 20
 usc_section: "9407"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 9407"
-generated_at: "2026-03-30T02:54:48.225Z"
+generated_at: "2026-11-23T20:26:14.982Z"
+status: "active"
 ---
 
 # § 9407. Uses of funds
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:48.225Z"
   - **(2)** that the programs, services, and activities assisted under this chapter will represent developmentally appropriate steps toward the acquisition of those abilities; and
   - **(3)** that the programs, services, and activities assisted under this chapter collectively provide benefits for children cared for in their own homes as well as children placed in the care of others.
 - **(d)** States and Local Councils receiving assistance under this chapter shall ensure that programs, services, and activities assisted under this chapter which customarily require a payment for such programs, services, or activities, adjust the cost of such programs, services, and activities provided to the individual or the individual’s child based on the individual’s ability to pay.
+
+## Source Credit
+
+*([Pub. L. 106–554, § 1(a)(1) [title VIII, § 808]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–83.)*

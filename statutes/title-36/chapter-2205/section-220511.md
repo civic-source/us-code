@@ -3,9 +3,10 @@ title: "Section 220511 - Reports and audits"
 usc_title: 36
 usc_section: "220511"
 chapter: 2205
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 220511"
-generated_at: "2026-03-30T02:55:44.710Z"
+generated_at: "2026-11-23T20:26:59.085Z"
+status: "active"
 ---
 
 # § 220511. Reports and audits
@@ -50,3 +51,52 @@ generated_at: "2026-03-30T02:55:44.710Z"
     - **(C)**
       - **(i)** The corporation shall make each report under this paragraph available to the public on an easily accessible internet website of the corporation.
       - **(ii)** A report made available under clause (i) shall not include the personally identifiable information of any individual.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 220511 | 36:382a(a). | Sept. 21, 1950, ch. 975 , title I, § 113(a), as added Nov. 8, 1978 , Pub. L. 95–606, § 1(b) , 92 Stat. 3049 . |
+
+
+Report
+
+Submission to president and congress
+
+Matters to be included
+
+Public availability
+
+Audit.—
+
+In general
+
+Location
+
+Access
+
+Report.—
+
+In general
+
+Matters to be included
+
+Public availability.—
+
+In general
+
+Personally identifiable information
+
+Historical and Revision Notes
+
+220511
+
+Sept. 21, 1950, ch. 975
+
+Nov. 8, 1978
+
+Pub. L. 95–606, § 1(b)
+
+92 Stat. 3049
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1471](https://www.govinfo.gov/link/statute/112/1471); [Pub. L. 105–277, div. C, title I, § 142(j)(1)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–606](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 109–284, § 5(18)](https://www.govinfo.gov/link/plaw/109/public/284), Sept. 27, 2006, [120 Stat. 1212](https://www.govinfo.gov/link/statute/120/1212); [Pub. L. 116–189, § 6(f)(1)](https://www.govinfo.gov/link/plaw/116/public/189), Oct. 30, 2020, [134 Stat. 953](https://www.govinfo.gov/link/statute/134/953).)*

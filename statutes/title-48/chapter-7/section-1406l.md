@@ -3,12 +3,17 @@ title: "Section 1406l - Effective date"
 usc_title: 48
 usc_section: "1406l"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1406l"
-generated_at: "2026-03-30T02:56:14.584Z"
+generated_at: "2026-11-23T20:27:28.040Z"
+status: "active"
 ---
 
 # § 1406l. Effective date
 
 This subchapter shall take effect June 22, 1936 , but until its provisions shall severally become operative as herein provided, the corresponding legislative, executive, and judicial functions of the existing government shall continue to be exercised as now provided by law or ordinance, and the present incumbents of all offices under the Government of the Virgin Islands shall continue in office until their successors are appointed and have qualified unless sooner removed by competent authority.
 
+
+## Source Credit
+
+*(June 22, 1936, ch. 699, § 40, [49 Stat. 1817](https://www.govinfo.gov/link/statute/49/1817).)*

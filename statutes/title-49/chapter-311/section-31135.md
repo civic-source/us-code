@@ -3,9 +3,10 @@ title: "Section 31135 - Duties of employers and employees"
 usc_title: 49
 usc_section: "31135"
 chapter: 311
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 31135"
-generated_at: "2026-03-30T02:56:19.358Z"
+generated_at: "2026-11-23T20:27:34.948Z"
+status: "active"
 ---
 
 # § 31135. Duties of employers and employees
@@ -21,3 +22,40 @@ generated_at: "2026-03-30T02:56:19.358Z"
 - **(d)** In this section, the following definitions apply:
   - **(1)** The term “motor carrier” has the meaning such term has under section 13102.
   - **(2)** The term “officer” means an owner, director, chief executive officer, chief operating officer, chief financial officer, safety director, vehicle maintenance supervisor, and driver supervisor of a motor carrier, regardless of the title attached to those functions, and any person, however designated, exercising controlling influence over the operations of a motor carrier.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 31135 | 49 App.:2504. | Oct. 30, 1984 , Pub. L. 98–554, § 205 , 98 Stat. 2834 . |
+
+
+In General
+
+Noncompliance.—
+
+Motor carriers
+
+Pattern
+
+Officers
+
+Regulations
+
+Definitions
+
+Motor carrier
+
+Officer
+
+Historical and Revision Notes
+
+31135
+
+Oct. 30, 1984
+
+Pub. L. 98–554, § 205
+
+98 Stat. 2834
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1003](https://www.govinfo.gov/link/statute/108/1003); [Pub. L. 109–59, title IV, § 4113(a)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1724](https://www.govinfo.gov/link/statute/119/1724); [Pub. L. 112–141, div. C, title II, § 32112](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 783](https://www.govinfo.gov/link/statute/126/783).)*

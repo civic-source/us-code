@@ -3,9 +3,10 @@ title: "Section 364 - Effect of felony conviction"
 usc_title: 28
 usc_section: "364"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 364"
-generated_at: "2026-03-30T02:55:30.128Z"
+generated_at: "2026-11-23T20:26:36.340Z"
+status: "active"
 ---
 
 # § 364. Effect of felony conviction
@@ -14,3 +15,7 @@ In the case of any judge or judge of a court referred to in section 363 who is c
 
   - **(1)** The judge shall not hear or decide cases unless the judicial council of the circuit (or, in the case of a judge of a court referred to in section 363, that court) determines otherwise.
   - **(2)** Any service as such judge or judge of a court referred to in section 363, after the conviction is final and all time for filing appeals thereof has expired, shall not be included for purposes of determining years of service under section 371(c), 377, or 178 of this title or creditable service under subchapter III of chapter 83, or chapter 84, of title 5.
+
+## Source Credit
+
+*(Added [Pub. L. 107–273, div. C, title I, § 11042(a)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1855](https://www.govinfo.gov/link/statute/116/1855).)*

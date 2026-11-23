@@ -3,9 +3,10 @@ title: "Section 60704 - Rules and regulations"
 usc_title: 34
 usc_section: "60704"
 chapter: 607
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 60704"
-generated_at: "2026-03-30T02:55:33.318Z"
+generated_at: "2026-11-23T20:26:50.675Z"
+status: "active"
 ---
 
 # § 60704. Rules and regulations
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:33.318Z"
 - **(b)** Amounts made available as grants under the Program shall be, to the greatest extent practicable, locally controlled to address problems that are identified locally.
 - **(c)** Thirty percent of the amounts made available as grants under the Program each fiscal year shall be granted to Gang Task Forces in regions experiencing a significant or increased presence of criminal or transnational organizations engaging in high levels of violent crime, firearms offenses, human trafficking, and drug trafficking.
 - **(d)** Amounts made available as grants under the Program shall be used to prioritize the investigation and prosecution of individuals who have an aggravating or leadership role in a criminal or transnational organization described in subsection (c).
+
+## Source Credit
+
+*([Pub. L. 115–185, § 5](https://www.govinfo.gov/link/plaw/115/public/185), June 18, 2018, [132 Stat. 1486](https://www.govinfo.gov/link/statute/132/1486).)*

@@ -3,9 +3,10 @@ title: "Section 394 - Authorities concerning military cyber operations"
 usc_title: 10
 usc_section: "394"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 394"
-generated_at: "2026-03-30T02:53:38.057Z"
+generated_at: "2026-11-23T20:25:50.931Z"
+status: "active"
 ---
 
 # § 394. Authorities concerning military cyber operations
@@ -24,3 +25,261 @@ generated_at: "2026-03-30T02:53:38.057Z"
       - **(iii)** in support of information related capabilities.
   - **(2)** The term “foreign power” has the meaning given such term in section 101 of the Foreign Intelligence Surveillance Act of 1978 ( 50 U.S.C. 1801 ).
   - **(3)** The term “United States person” has the meaning given such term in such section.
+
+In General
+
+Affirmation of Authority
+
+Clandestine Activities or Operations
+
+Congressional Oversight
+
+Rule of Construction
+
+Definitions
+
+Prohibition
+
+Certification
+
+Cybersecurity Policy for Artificial Intelligence and Machine Learning Use
+
+Policy Elements
+
+Review and Report.—
+
+Review
+
+Report.—
+
+In general
+
+Contents
+
+Definitions
+
+Development of Cyber Threat Tabletop Exercise Program.—
+
+In general
+
+Participation.—
+
+In general
+
+Solicitation
+
+Cyber threat tabletop exercise program.—
+
+—
+
+In general
+
+Tabletop exercise development.—
+
+In general
+
+Realistic attacks
+
+Procedures for identification of vulnerabilities and lessons learned
+
+Annual Report
+
+Program Defined
+
+Authority
+
+Certain Entities
+
+In General
+
+Responsibilities of Chief Digital and Artificial Intelligence Officer
+
+Other Matters
+
+Semiannual Briefings
+
+Rule of Construction
+
+Appropriate Congressional Committees Defined
+
+In General
+
+Affirmation of Scope of Cyber Activities or Operations
+
+Definition of Critical Infrastructure
+
+Mission-relevant Terrain
+
+Combatant Command Responsibilities
+
+Department of Defense Chief Information Officer Responsibilities.—
+
+In general
+
+Implementation of policies
+
+Additional responsibilities
+
+United States Cyber Command Operational Responsibilities
+
+United States Cyber Command Functional Responsibilities
+
+Service Responsibilities
+
+Office of the Secretary of Defense Responsibilities
+
+Implementation.—
+
+In general
+
+Application
+
+Definition
+
+Mission-relevant terrain in cyberspace
+
+Operational technology
+
+Framework Required
+
+Elements
+
+Briefing.—
+
+In general
+
+Contents
+
+Study.—
+
+In general
+
+Elements
+
+Release.—
+
+To congress
+
+To service services
+
+Designation
+
+Authority to Replicate
+
+Briefing to Congress
+
+Implementation
+
+Update to Congress
+
+Air Force Actions
+
+In General
+
+Procedures.—
+
+In general
+
+Sufficiency
+
+Notification in event of unauthorized disclosure
+
+In General
+
+Classification
+
+Limitation
+
+In General
+
+Response Options
+
+Denial Options
+
+Cost-imposition Options
+
+Multi-prong Response
+
+Update on Presidential Policy.—
+
+In general
+
+Contents
+
+Rule of Construction
+
+Definitions
+
+Appropriate congressional committees
+
+Foreign power
+
+In General
+
+Elements
+
+Limitation on Availability of Funds.—
+
+In general
+
+Covered activities described
+
+Definitions
+
+Authority to Disrupt, Defeat, and Deter Cyber Attacks.—
+
+In general
+
+Notification and reporting.—
+
+Notification of operations
+
+Quarterly reports by commander of the united states cyber command.—
+
+In general
+
+Manner of reporting
+
+Private Sector Cooperation
+
+Annual Report
+
+Rule of Construction
+
+Pilot Program Required.—
+
+In general
+
+Research exercises
+
+Purpose
+
+Report.—
+
+In general
+
+Contents
+
+Identification of Countries of Concern
+
+Updates
+
+Report to Congress
+
+Requirement for Comprehensive Review
+
+Consultation
+
+Elements of Review
+
+Report.—
+
+In general
+
+Form of report
+
+Posture Review Period Defined
+
+## Source Credit
+
+*(Added [Pub. L. 114–92, div. A, title XVI, § 1642(a)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 1116](https://www.govinfo.gov/link/statute/129/1116), § 130g; renumbered § 394 and amended [Pub. L. 115–232, div. A, title XVI](https://www.govinfo.gov/link/plaw/115/public/232), §§ 1631(a), 1632, Aug. 13, 2018, [132 Stat. 2123](https://www.govinfo.gov/link/statute/132/2123).)*

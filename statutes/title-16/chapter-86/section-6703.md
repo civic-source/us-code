@@ -3,9 +3,10 @@ title: "Section 6703 - Definitions"
 usc_title: 16
 usc_section: "6703"
 chapter: 86
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6703"
-generated_at: "2026-03-30T02:54:23.066Z"
+generated_at: "2026-11-23T20:26:20.815Z"
+status: "active"
 ---
 
 # § 6703. Definitions
@@ -41,3 +42,7 @@ In this chapter:
   - **(11)** Are trees that occur underneath the canopy or extend into the canopy but are smaller and less vigorous than dominant trees.
   - **(12)** Where the number of trees per acre exceeds the natural carrying capacity of the site.
   - **(13)** The ability of a system to absorb disturbance without being pushed into a different, possibly less desirable stable state.
+
+## Source Credit
+
+*([Pub. L. 108–317, § 4](https://www.govinfo.gov/link/plaw/108/public/317), Oct. 5, 2004, [118 Stat. 1206](https://www.govinfo.gov/link/statute/118/1206).)*

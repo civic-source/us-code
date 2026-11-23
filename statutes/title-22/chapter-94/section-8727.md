@@ -3,9 +3,10 @@ title: "Section 8727 - Identification of, and immigration restrictions on, senio
 usc_title: 22
 usc_section: "8727"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8727"
-generated_at: "2026-03-30T02:55:05.456Z"
+generated_at: "2026-11-23T20:26:32.733Z"
+status: "active"
 ---
 
 # § 8727. Identification of, and immigration restrictions on, senior officials of the Government of Iran and their family members
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:05.456Z"
 - **(e)** The President may waive the application of subsection (a) or (c) with respect to an individual if the President—
   - **(1)** determines that such a waiver is essential to the national interests of the United States; and
   - **(2)** not less than 7 days before the waiver takes effect, notifies Congress of the waiver and the reason for the waiver.
+
+## Source Credit
+
+*([Pub. L. 112–158, title II, § 221](https://www.govinfo.gov/link/plaw/112/public/158), Aug. 10, 2012, [126 Stat. 1238](https://www.govinfo.gov/link/statute/126/1238).)*

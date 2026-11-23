@@ -3,9 +3,10 @@ title: "Section 12512 - Working Group"
 usc_title: 34
 usc_section: "12512"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12512"
-generated_at: "2026-03-30T02:55:33.290Z"
+generated_at: "2026-11-23T20:26:50.557Z"
+status: "active"
 ---
 
 # § 12512. Working Group
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:33.290Z"
   - **(5)** collect feedback from stakeholders, practitioners, and leadership throughout the Federal and State law enforcement, victim services, forensic science practitioner, and health care communities to inform development of future best practices or clinical guidelines regarding the care and treatment of sexual assault survivors; and
   - **(6)** perform other activities, such as activities relating to development, dissemination, outreach, engagement, or training associated with advancing victim-centered care for sexual assault survivors.
 - **(e)** Not later than 2 years after October 7, 2016 , the Working Group shall submit to the Attorney General, the Secretary, and Congress a report containing the findings and recommended actions of the Working Group.
+
+## Source Credit
+
+*([Pub. L. 114–236, § 4](https://www.govinfo.gov/link/plaw/114/public/236), Oct. 7, 2016, [130 Stat. 968](https://www.govinfo.gov/link/statute/130/968).)*

@@ -3,9 +3,10 @@ title: "Section 3404 - Definitions"
 usc_title: 20
 usc_section: "3404"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 3404"
-generated_at: "2026-03-30T02:54:48.177Z"
+generated_at: "2026-11-23T20:26:14.725Z"
+status: "active"
 ---
 
 # § 3404. Definitions
@@ -19,3 +20,7 @@ As used in this chapter, unless otherwise provided or indicated by the context�
   - **(5)** the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands;
   - **(6)** the terms “private” and “private educational” refer to independent, nonpublic, and private institutions of elementary, secondary, and postsecondary education; and
   - **(7)** the term “office” includes any office, institute, council, unit, organizational entity, or component thereof.
+
+## Source Credit
+
+*([Pub. L. 96–88, title I, § 104](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 671](https://www.govinfo.gov/link/statute/93/671); [Pub. L. 101–509, title V, § 529 [title I, § 112(a)(3)(A)]](https://www.govinfo.gov/link/plaw/101/public/509), Nov. 5, 1990, [104 Stat. 1427](https://www.govinfo.gov/link/statute/104/1427), 1454.)*

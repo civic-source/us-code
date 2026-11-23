@@ -3,9 +3,10 @@ title: "Section 1680s - Disease and injury prevention report"
 usc_title: 25
 usc_section: "1680s"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1680s"
-generated_at: "2026-03-30T02:54:52.828Z"
+generated_at: "2026-11-23T20:26:25.532Z"
+status: "active"
 ---
 
 # § 1680s. Disease and injury prevention report
@@ -14,3 +15,7 @@ Not later than 18 months after March 23, 2010 , the Secretary shall submit to th
 
   - **(1)** all disease and injury prevention activities conducted by the Service, independently or in conjunction with other Federal departments and agencies and Indian tribes; and
   - **(2)** the effectiveness of those activities, including the reductions of injury or disease conditions achieved by the activities.
+
+## Source Credit
+
+*([Pub. L. 94–437, title VIII, § 829](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

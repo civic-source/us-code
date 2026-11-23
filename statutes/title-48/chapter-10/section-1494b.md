@@ -3,9 +3,10 @@ title: "Section 1494b - Enforcement and administration in insular areas"
 usc_title: 48
 usc_section: "1494b"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1494b"
-generated_at: "2026-03-30T02:56:14.587Z"
+generated_at: "2026-11-23T20:27:28.056Z"
+status: "active"
 ---
 
 # § 1494b. Enforcement and administration in insular areas
@@ -53,3 +54,7 @@ generated_at: "2026-03-30T02:56:14.587Z"
   - **(1)** The Attorney General and the Secretaries of Education and Health and Human Services are authorized to and, upon request of the Government of Palau, shall provide appropriate training, technical assistance, and equipment to carry out the purposes of sections 1494 to 1494c of this title and any other applicable Federal or insular drug or other substance abuse laws.
   - **(2)** There are authorized to be appropriated $500,000 for fiscal year 1989 and annually thereafter for grants to the Government of Palau to be expended in accordance with a plan to be approved by the Secretary of the Interior in consultation with the Attorney General and the Secretaries of Education, State, and Health and Human Services to carry out the purposes of sections 1494 to 1494c of this title.
   - **(3)** To the extent not prohibited under the Constitution of Palau, upon written request of the President of Palau, the Drug Enforcement Administration, the Federal Bureau of Investigation, the Secret Service, the Immigration and Naturalization Service, and the Customs Service are authorized to investigate any United States criminal laws which are applicable in Palau in cooperation with law enforcement agencies of Palau.
+
+## Source Credit
+
+*([Pub. L. 99–570, title V, § 5004](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–155](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 100–690, title IX](https://www.govinfo.gov/link/plaw/100/public/690), §§ 9302–9305, 9306(b), 9307, Nov. 18, 1988, [102 Stat. 4536–4538](https://www.govinfo.gov/link/statute/102/4536).)*

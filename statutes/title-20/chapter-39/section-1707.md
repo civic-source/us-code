@@ -3,12 +3,17 @@ title: "Section 1707 - Population changes without effect, per se, on school popu
 usc_title: 20
 usc_section: "1707"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1707"
-generated_at: "2026-03-30T02:54:48.169Z"
+generated_at: "2026-11-23T20:26:14.672Z"
+status: "active"
 ---
 
 # § 1707. Population changes without effect, per se, on school population changes
 
 When a court of competent jurisdiction determines that a school system is desegregated, or that it meets the constitutional requirements, or that it is a unitary system, or that it has no vestiges of a dual system, and thereafter residential shifts in population occur which result in school population changes in any school within such a desegregated school system, such school population changes so occurring shall not, per se, constitute a cause for civil action for a new plan of desegregation or for modification of the court approved plan.
 
+
+## Source Credit
+
+*([Pub. L. 93–380, title II, § 208](https://www.govinfo.gov/link/plaw/93/public/380), Aug. 21, 1974, [88 Stat. 516](https://www.govinfo.gov/link/statute/88/516).)*

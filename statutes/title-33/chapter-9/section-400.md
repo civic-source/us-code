@@ -3,9 +3,10 @@ title: "Section 400 - Continuing authority programs"
 usc_title: 33
 usc_section: "400"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 400"
-generated_at: "2026-03-30T02:55:41.053Z"
+generated_at: "2026-11-23T20:26:53.801Z"
+status: "active"
 ---
 
 # § 400. Continuing authority programs
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:41.053Z"
     - **(B)** the cost estimate to complete each active project; and
     - **(C)** the funding available in that fiscal year for each continuing authority program.
   - **(4)** On publication in the Federal Register under paragraphs (2) and (3), the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a copy of all information published under those paragraphs.
+
+## Source Credit
+
+*([Pub. L. 113–121, title I, § 1030(a)](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1231](https://www.govinfo.gov/link/statute/128/1231).)*

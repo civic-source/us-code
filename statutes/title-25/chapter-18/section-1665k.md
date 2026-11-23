@@ -3,9 +3,10 @@ title: "Section 1665k - Fetal alcohol spectrum disorders programs"
 usc_title: 25
 usc_section: "1665k"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1665k"
-generated_at: "2026-03-30T02:54:52.825Z"
+generated_at: "2026-11-23T20:26:25.518Z"
+status: "active"
 ---
 
 # § 1665k. Fetal alcohol spectrum disorders programs
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:52.825Z"
   - **(2)** provide supportive services, including services to meet the special educational, vocational, school-to-work transition, and independent living needs of adolescent and adult Indians with fetal alcohol spectrum disorders.
 - **(c)** The Secretary, acting through the Substance Abuse and Mental Health Services Administration, shall make grants to Indian Tribes, Tribal Organizations, and urban Indian Organizations for applied research projects which propose to elevate the understanding of methods to prevent, intervene, treat, or provide rehabilitation and behavioral health aftercare for Indians and urban Indians affected by fetal alcohol spectrum disorders.
 - **(d)** Ten percent of the funds appropriated pursuant to this section shall be used to make grants to urban Indian Organizations funded under subchapter IV.
+
+## Source Credit
+
+*([Pub. L. 94–437, title VII, § 712](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

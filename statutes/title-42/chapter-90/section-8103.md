@@ -3,9 +3,10 @@ title: "Section 8103 - Board of Directors"
 usc_title: 42
 usc_section: "8103"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8103"
-generated_at: "2026-03-30T02:56:11.334Z"
+generated_at: "2026-11-23T20:27:23.003Z"
+status: "active"
 ---
 
 # § 8103. Board of Directors
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.334Z"
 - **(g)** The presence of a majority of the board members, or their representatives as provided in subsection (f), shall constitute a quorum.
 - **(h)** The corporation shall be subject to the provisions of section 552 of title 5 .
 - **(i)** All meetings of the board of directors will be conducted in accordance with the provisions of section 552b of title 5 .
+
+## Source Credit
+
+*([Pub. L. 95–557, title VI, § 604](https://www.govinfo.gov/link/plaw/95/public/557), Oct. 31, 1978, [92 Stat. 2115](https://www.govinfo.gov/link/statute/92/2115); [Pub. L. 97–320, title VII, § 710(a)](https://www.govinfo.gov/link/plaw/97/public/320), Oct. 15, 1982, [96 Stat. 1544](https://www.govinfo.gov/link/statute/96/1544); [Pub. L. 100–242, title V, § 520(a)](https://www.govinfo.gov/link/plaw/100/public/242), Feb. 5, 1988, [101 Stat. 1938](https://www.govinfo.gov/link/statute/101/1938); [Pub. L. 100–628, title X, § 1085](https://www.govinfo.gov/link/plaw/100/public/628), Nov. 7, 1988, [102 Stat. 3278](https://www.govinfo.gov/link/statute/102/3278).)*

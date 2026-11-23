@@ -3,9 +3,10 @@ title: "Section 2620 - Public health emergency leave"
 usc_title: 29
 usc_section: "2620"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 2620"
-generated_at: "2026-03-30T02:55:18.745Z"
+generated_at: "2026-11-23T20:26:38.071Z"
+status: "active"
 ---
 
 # § 2620. Public health emergency leave
@@ -54,3 +55,11 @@ generated_at: "2026-03-30T02:55:18.745Z"
   - **(3)** The period described under this paragraph is the 1-year period beginning on the earlier of—
     - **(A)** the date on which the qualifying need related to a public health emergency concludes; or
     - **(B)** the date that is 12 weeks after the date on which the employee’s leave under section 2612(a)(1)(F) of this title commences.
+
+Employers
+
+Employees
+
+## Source Credit
+
+*([Pub. L. 103–3, title I, § 110](https://www.govinfo.gov/link/plaw/103/public/3), as added [Pub. L. 116–127, div. C, § 3102(b)](https://www.govinfo.gov/link/plaw/116/public/127), Mar. 18, 2020, [134 Stat. 189](https://www.govinfo.gov/link/statute/134/189); [Pub. L. 116–136, div. A, title III](https://www.govinfo.gov/link/plaw/116/public/136), §§ 3601, 3604(a), 3605, 3611(1), (3), (7), div. B, title IX, § 19008, Mar. 27, 2020, [134 Stat. 410](https://www.govinfo.gov/link/statute/134/410), 411, 414, 415, 579.)*

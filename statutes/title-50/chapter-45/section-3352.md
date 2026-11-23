@@ -3,9 +3,10 @@ title: "Section 3352 - Definitions"
 usc_title: 50
 usc_section: "3352"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3352"
-generated_at: "2026-03-30T02:56:26.247Z"
+generated_at: "2026-11-23T20:27:30.975Z"
+status: "active"
 ---
 
 # § 3352. Definitions
@@ -27,3 +28,7 @@ In this title:
   - **(5)** The term “reciprocity” means reciprocal recognition by Federal departments and agencies of eligibility for access to classified information.
   - **(6)** The term “Security Executive Agent” means the officer serving as the Security Executive Agent pursuant to section 3162a of this title .
   - **(7)** The term “Suitability and Credentialing Executive Agent” means the Director of the Office of Personnel Management acting as the Suitability and Credentialing Executive Agent in accordance with Executive Order No. 13467 ( 50 U.S.C. 3161 note; relating to reforming processes related to suitability for Government employment, fitness for contractor employees, and eligibility for access to classified national security information), or any successor entity.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. E, title LXVI, § 6601](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2209](https://www.govinfo.gov/link/statute/133/2209).)*

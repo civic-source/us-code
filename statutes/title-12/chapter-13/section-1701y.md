@@ -3,9 +3,10 @@ title: "Section 1701y - National Homeownership Foundation"
 usc_title: 12
 usc_section: "1701y"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1701y"
-generated_at: "2026-03-30T02:53:53.405Z"
+generated_at: "2026-11-23T20:25:58.896Z"
+status: "active"
 ---
 
 # § 1701y. National Homeownership Foundation
@@ -55,3 +56,7 @@ generated_at: "2026-03-30T02:53:53.405Z"
   - **(2)** A report of each such audit shall be made by the Comptroller General to the Congress not later than six and one-half months following the close of the last year covered by such audit. The report shall set forth the scope of the audit and shall include a statement of assets and liabilities, capital, and surplus or deficit; a statement of sources and application of funds; and such comments and information as may be deemed necessary to keep the Congress informed of the operations and financial condition of the Foundation, together with such recommendations with respect thereto as the Comptroller General may deem advisable. The report shall also show specifically any program, expenditure, or other financial transaction or undertaking, observed in the course of the audit, which, in the opinion of the Comptroller General, has been carried on or made without authority of law. A copy of each report shall be furnished to the President and to the Foundation at the time submitted to the Congress.
 - **(h)** Funds of the Foundation shall be deposited, to the extent practicable, in accounts with financial institutions which are actively engaged in making loans or are otherwise carrying on activities in furtherance of homeownership and housing opportunities for lower income families.
 - **(i)** There is authorized to be appropriated to the Foundation not to exceed $10,000,000 to carry out the purposes of this section. Appropriations made hereunder shall remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 90–448, title I, § 107](https://www.govinfo.gov/link/plaw/90/public/448), Aug. 1, 1968, [82 Stat. 491](https://www.govinfo.gov/link/statute/82/491); [Pub. L. 93–604, title VI, § 604](https://www.govinfo.gov/link/plaw/93/public/604), Jan. 2, 1975, [88 Stat. 1963](https://www.govinfo.gov/link/statute/88/1963); [Pub. L. 104–66, title I, § 1072(b)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 721](https://www.govinfo.gov/link/statute/109/721); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814).)*

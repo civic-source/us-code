@@ -3,9 +3,10 @@ title: "Section 6t - Large swap trader reporting"
 usc_title: 7
 usc_section: "6t"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6t"
-generated_at: "2026-03-30T02:53:42.242Z"
+generated_at: "2026-11-23T20:25:40.869Z"
+status: "active"
 ---
 
 # § 6t. Large swap trader reporting
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:42.242Z"
   - **(2)** Nothing in paragraph (1) shall affect the exclusive jurisdiction of the Commission to prescribe recordkeeping and reporting requirements for large swap traders under this section.
 - **(c)** For purposes of this section, the swaps, futures, and cash or spot transactions and positions of any person shall include the swaps, futures, and cash or spot transactions and positions of any persons directly or indirectly controlled by the person.
 - **(d)** In making a determination as to whether a swap performs or affects a significant price discovery function with respect to registered entities, the Commission shall consider the factors described in section 6a(a)(3) of this title .
+
+## Source Credit
+
+*(Sept. 21, 1922, ch. 369, § 4t, as added [Pub. L. 111–203, title VII, § 730](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1702](https://www.govinfo.gov/link/statute/124/1702).)*

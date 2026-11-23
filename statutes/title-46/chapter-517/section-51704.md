@@ -3,9 +3,10 @@ title: "Section 51704 - Training for maritime oil pollution prevention, response
 usc_title: 46
 usc_section: "51704"
 chapter: 517
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 51704"
-generated_at: "2026-03-30T02:56:15.571Z"
+generated_at: "2026-11-23T20:27:27.300Z"
+status: "active"
 ---
 
 # § 51704. Training for maritime oil pollution prevention, response, and clean-up
@@ -19,3 +20,36 @@ generated_at: "2026-03-30T02:56:15.571Z"
   - **(4)** The institution may not sell, trade, charter, donate, scrap, or in any way alter or dispose of the vessel without prior approval of the Secretary.
   - **(5)** The institution may not use the vessel in competition with a privately-owned vessel documented under chapter 121 of this title or titled under the law of a State, unless necessary to carry out this section.
   - **(6)** When the institution can no longer use the vessel for its training program, the institution shall return the vessel to the Secretary. The Secretary shall take possession at the institution and thereafter may provide the vessel to another institution under this section or dispose of the vessel.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 51704(a) | 46 App.:1295d(c)(1). | June 29, 1936, ch. 858 , title XIII, § 1305(c), as added Pub. L. 101–595, title VII, § 712 , Nov. 16, 1990 , 104 Stat. 2998 . |
+| 51704(b) | 46 App.:1295d(c) (2)(A), (4). |  |
+| 51704(c) | 46 App.:1295d(c) (2)(B), (3). |  |
+
+
+Assistance in Establishing Program
+
+Providing Training Vessels
+
+Requirements
+
+Historical and Revision Notes
+
+51704(a)
+
+June 29, 1936, ch. 858
+
+Pub. L. 101–595, title VII, § 712
+
+Nov. 16, 1990
+
+104 Stat. 2998
+
+51704(b)
+
+51704(c)
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(b)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1583](https://www.govinfo.gov/link/statute/120/1583).)*

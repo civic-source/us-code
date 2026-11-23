@@ -3,9 +3,10 @@ title: "Section 6506 - Reports"
 usc_title: 5
 usc_section: "6506"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 6506"
-generated_at: "2026-03-30T02:52:56.034Z"
+generated_at: "2026-11-23T20:25:32.046Z"
+status: "active"
 ---
 
 # § 6506. Reports
@@ -51,3 +52,31 @@ generated_at: "2026-03-30T02:52:56.034Z"
     - **(A)** review the reports submitted under paragraph (1);
     - **(B)** include relevant information from the submitted reports in the annual report to Congress required under subsection (b); and
     - **(C)** use that relevant information for other purposes related to the strategic management of human capital.
+
+Definition
+
+Reports by the Office of Personnel Management.—
+
+Submission of reports
+
+Contents
+
+Comptroller General Reports.—
+
+Report on government accountability office telework program.—
+
+In general
+
+Contents
+
+Report to congress on office of personnel management report
+
+Chief Human Capital Officer Reports.—
+
+In general
+
+Review and inclusion of relevant information
+
+## Source Credit
+
+*(Added [Pub. L. 111–292, § 2(a)](https://www.govinfo.gov/link/plaw/111/public/292), Dec. 9, 2010, [124 Stat. 3169](https://www.govinfo.gov/link/statute/124/3169).)*

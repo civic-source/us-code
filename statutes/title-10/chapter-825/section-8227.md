@@ -3,9 +3,10 @@ title: "Section 8227 - Notifications on manning of afloat naval forces"
 usc_title: 10
 usc_section: "8227"
 chapter: 825
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 8227"
-generated_at: "2026-03-30T02:53:38.240Z"
+generated_at: "2026-11-23T20:25:52.168Z"
+status: "active"
 ---
 
 # § 8227. Notifications on manning of afloat naval forces
@@ -32,3 +33,17 @@ generated_at: "2026-03-30T02:53:38.240Z"
   - **(2)** The term “manning fill”, in the case of a ship, means the total number of military personnel assigned to the ship by rating when compared with the ship manpower document requirement and billets authorized for the ship by rating.
   - **(3)** The term “manning fit”, in the case of a ship, means the skills (rating), specialty skills (Navy Enlisted Classifications), and experience (paygrade) for the ship when compared with the ship manpower document requirement and billets authorized for such skills and experience.
   - **(4)** The term “surface combatant vessel” means any littoral combat ship (including the LCS–1 and LCS–2 classes), frigate (including the FFG–62 class), destroyer (excluding the DDG–1000 class), or cruiser (including the CG–47 class).
+
+In General
+
+Elements
+
+Special Rule
+
+Crewing of a Surface Combatant Vessel: Prohibition; Exception
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. A, title V, § 592(d)(1)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2612](https://www.govinfo.gov/link/statute/136/2612).)*

@@ -3,9 +3,10 @@ title: "Section 1601 - Congressional findings and declaration of policy"
 usc_title: 43
 usc_section: "1601"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1601"
-generated_at: "2026-03-30T02:55:57.478Z"
+generated_at: "2026-11-23T20:27:06.316Z"
+status: "active"
 ---
 
 # § 1601. Congressional findings and declaration of policy
@@ -19,3 +20,15 @@ Congress finds and declares that—
 - **(e)** no provision of this chapter shall effect a change or changes in the petroleum reserve policy reflected in sections 8721 through 8738 of title 10 except as specifically provided in this chapter;
 - **(f)** no provision of this chapter shall be construed to constitute a jurisdictional act, to confer jurisdiction to sue, nor to grant implied consent to Natives to sue the United States or any of its officers with respect to the claims extinguished by the operation of this chapter; and
 - **(g)** no provision of this chapter shall be construed to terminate or otherwise curtail the activities of the Economic Development Administration or other Federal agencies conducting loan or loan and grant programs in Alaska. For this purpose only, the terms “Indian reservation” and “trust or restricted Indian-owned land areas” in Public Law 89–136 , the Public Works and Economic Development Act of 1965, as amended [ 42 U.S.C. 3121 et seq.], shall be interpreted to include lands granted to Natives under this chapter as long as such lands remain in the ownership of the Native villages or the Regional Corporations.
+
+“The Congress finds and declares that—
+
+Statute of Limitations
+
+Jurisdiction and Procedure
+
+Statement of Purpose
+
+## Source Credit
+
+*([Pub. L. 92–203, § 2](https://www.govinfo.gov/link/plaw/92/public/203), Dec. 18, 1971, [85 Stat. 688](https://www.govinfo.gov/link/statute/85/688); [Pub. L. 115–232, div. A, title VIII, § 809(p)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1844](https://www.govinfo.gov/link/statute/132/1844).)*

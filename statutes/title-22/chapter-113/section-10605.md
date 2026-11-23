@@ -3,9 +3,10 @@ title: "Section 10605 - Safeguards and accountability"
 usc_title: 22
 usc_section: "10605"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 10605"
-generated_at: "2026-03-30T02:55:05.478Z"
+generated_at: "2026-11-23T20:26:32.829Z"
+status: "active"
 ---
 
 # § 10605. Safeguards and accountability
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:05.478Z"
     - **(C)** hold a public comment period lasting not fewer than 60 days regarding the initial design of the accountability mechanism.
 - **(c)** The Foundation shall establish an ombudsman position at a senior level of executive staff as a confidential, neutral source of information and assistance to anyone affected by the activities of the Foundation.
 - **(d)** The Secretary shall, periodically, but not less frequent than annually, review assistance provided by the Foundation for the purpose of implementing section 10602(b) of this title to ensure consistency with the provisions under section 2378d of this title .
+
+## Source Credit
+
+*([Pub. L. 118–159, div. E, title LI, § 5105](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2417](https://www.govinfo.gov/link/statute/138/2417).)*

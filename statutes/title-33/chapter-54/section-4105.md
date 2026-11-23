@@ -3,9 +3,10 @@ title: "Section 4105 - Reports on unmanned maritime systems and usage for missio
 usc_title: 33
 usc_section: "4105"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 4105"
-generated_at: "2026-03-30T02:55:41.147Z"
+generated_at: "2026-11-23T20:26:54.293Z"
+status: "active"
 ---
 
 # § 4105. Reports on unmanned maritime systems and usage for mission of the National Oceanic and Atmospheric Administration
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:41.147Z"
 - **(c)** In this section, the term “appropriate committees of Congress” means—
   - **(1)** the Committee on Appropriations, the Committee on Armed Services, and the Committee on Commerce, Science, and Transportation of the Senate; and
   - **(2)** the Committee on Appropriations, the Committee on Armed Services, the Committee on Natural Resources, and the Committee on Science, Space, and Technology of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 115–394, § 6](https://www.govinfo.gov/link/plaw/115/public/394), Dec. 21, 2018, [132 Stat. 5285](https://www.govinfo.gov/link/statute/132/5285).)*

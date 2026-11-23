@@ -3,9 +3,10 @@ title: "Section 2620 - Citizens’ petitions"
 usc_title: 15
 usc_section: "2620"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2620"
-generated_at: "2026-03-30T02:54:08.177Z"
+generated_at: "2026-11-23T20:26:04.227Z"
+status: "active"
 ---
 
 # § 2620. Citizens’ petitions
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:08.177Z"
       - **(ii)** in the case of a petition to initiate a proceeding for the issuance of a rule under section 2605(a) or 2607 of this title or an order under section 2604(f) of this title , the chemical substance or mixture to be subject to such rule or order presents an unreasonable risk of injury to health or the environment, without consideration of costs or other nonrisk factors, including an unreasonable risk to a potentially exposed or susceptible subpopulation, under the conditions of use. 1 1 So in original. The period probably should be a semicolon.
     - **(C)** The court in issuing any final order in any action brought pursuant to subparagraph (A) may award costs of suit and reasonable fees for attorneys and expert witnesses if the court determines that such an award is appropriate. Any court, in issuing its decision in an action brought to review such an order, may award costs of suit and reasonable fees for attorneys if the court determines that such an award is appropriate.
   - **(5)** The remedies under this section shall be in addition to, and not in lieu of, other remedies provided by law.
+
+## Source Credit
+
+*([Pub. L. 94–469, title I, § 21](https://www.govinfo.gov/link/plaw/94/public/469), Oct. 11, 1976, [90 Stat. 2042](https://www.govinfo.gov/link/statute/90/2042); renumbered title I, [Pub. L. 99–519, § 3(c)(1)](https://www.govinfo.gov/link/plaw/99/public/519), Oct. 22, 1986, [100 Stat. 2989](https://www.govinfo.gov/link/statute/100/2989); amended [Pub. L. 114–182, title I, § 19](https://www.govinfo.gov/link/plaw/114/public/182) (o), June 22, 2016, [130 Stat. 509](https://www.govinfo.gov/link/statute/130/509).)*

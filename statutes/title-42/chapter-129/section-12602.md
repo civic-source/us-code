@@ -3,9 +3,10 @@ title: "Section 12602 - Individuals eligible to receive an educational award fro
 usc_title: 42
 usc_section: "12602"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12602"
-generated_at: "2026-03-30T02:56:11.419Z"
+generated_at: "2026-11-23T20:27:23.380Z"
+status: "active"
 ---
 
 # § 12602. Individuals eligible to receive an educational award from the Trust
@@ -38,3 +39,39 @@ generated_at: "2026-03-30T02:56:11.419Z"
   - **(4)** As used in this subsection, the term “controlled substance” has the meaning given in section 802(6) of title 21 .
   - **(5)** This subsection shall be effective upon publication by the Corporation in the Federal Register of criteria prescribed under paragraph (2).
 - **(f)** The Corporation may establish by regulation demonstration programs for the creation and evaluation of innovative volunteer and community service programs.
+
+|  | Col 2 |
+| --- | --- |
+| If convicted of: |  |
+| The possession of a controlled substance: | Ineligibility period is: |
+| 1st conviction | 1 year |
+| 2nd conviction | 2 years |
+| 3rd conviction | indefinite |
+| The sale of a controlled substance: |  |
+| 1st conviction | 2 years |
+| 2nd conviction | indefinite |
+
+
+1st conviction
+
+2nd conviction
+
+3rd conviction
+
+1st conviction
+
+2nd conviction
+
+Study
+
+Consultation
+
+Report
+
+Pilot Program
+
+Definitions
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 146](https://www.govinfo.gov/link/plaw/101/public/610), as added [Pub. L. 103–82, title I, § 102(a)](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 818](https://www.govinfo.gov/link/statute/107/818); amended [Pub. L. 103–304, § 3(b)(4)](https://www.govinfo.gov/link/plaw/103/public/304), Aug. 23, 1994, [108 Stat. 1567](https://www.govinfo.gov/link/statute/108/1567); [Pub. L. 111–13, title I, § 1402](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1512](https://www.govinfo.gov/link/statute/123/1512).)*

@@ -3,9 +3,10 @@ title: "Section 13313 - Renewable Energy Advancement Awards"
 usc_title: 42
 usc_section: "13313"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13313"
-generated_at: "2026-03-30T02:56:11.441Z"
+generated_at: "2026-11-23T20:27:23.477Z"
+status: "active"
 ---
 
 # § 13313. Renewable Energy Advancement Awards
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.441Z"
 - **(d)** Awards may be made under this section only to individuals who are United States nationals or permanent resident aliens, or to non-Federal organizations that are organized under the laws of the United States or the laws of a State of the United States.
 - **(e)** There are authorized to be appropriated to the Secretary $50,000 for each of the fiscal years 1994, 1995, and 1996 for carrying out this section.
 - **(f)** The Secretary shall make honorary awards under this section if sufficient funds are not available for financial awards in any fiscal year.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XII, § 1204](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2961](https://www.govinfo.gov/link/statute/106/2961).)*

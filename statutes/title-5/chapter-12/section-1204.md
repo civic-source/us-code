@@ -3,9 +3,10 @@ title: "Section 1204 - Powers and functions of the Merit Systems Protection Boar
 usc_title: 5
 usc_section: "1204"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 1204"
-generated_at: "2026-03-30T02:52:55.994Z"
+generated_at: "2026-11-23T20:25:31.769Z"
+status: "active"
 ---
 
 # § 1204. Powers and functions of the Merit Systems Protection Board
@@ -55,3 +56,7 @@ generated_at: "2026-03-30T02:52:55.994Z"
   - **(1)** Except as provided in paragraph (2) of this subsection, the Board, or an administrative law judge or other employee of the Board designated to hear a case arising under section 1215, may require payment by the agency where the prevailing party was employed or had applied for employment at the time of the events giving rise to the case of reasonable attorney fees incurred by an employee or applicant for employment if the employee or applicant is the prevailing party and the Board, administrative law judge, or other employee (as the case may be) determines that payment by the agency is warranted in the interest of justice, including any case in which a prohibited personnel practice was engaged in by the agency or any case in which the agency’s action was clearly without merit.
   - **(2)** If an employee or applicant for employment is the prevailing party of a case arising under section 1215 and the decision is based on a finding of discrimination prohibited under section 2302(b)(1) of this title , the payment of attorney fees shall be in accordance with the standards prescribed under section 706(k) of the Civil Rights Act of 1964 ( 42 U.S.C. 2000e–5(k) ).
 - **(n)** The Board may accept and use gifts and donations of property and services to carry out the duties of the Board.
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title II, § 202(a)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1122](https://www.govinfo.gov/link/statute/92/1122), § 1205; amended [Pub. L. 97–258, § 3(a)(2)](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 1063](https://www.govinfo.gov/link/statute/96/1063); renumbered § 1204 and amended [Pub. L. 101–12, § 3(a)(7)](https://www.govinfo.gov/link/plaw/101/public/12), Apr. 10, 1989, [103 Stat. 17](https://www.govinfo.gov/link/statute/103/17); [Pub. L. 102–568, title V, § 506(c)(4)](https://www.govinfo.gov/link/plaw/102/public/568), Oct. 29, 1992, [106 Stat. 4341](https://www.govinfo.gov/link/statute/106/4341); [Pub. L. 103–353, § 2(b)(2)(A)](https://www.govinfo.gov/link/plaw/103/public/353), Oct. 13, 1994, [108 Stat. 3169](https://www.govinfo.gov/link/statute/108/3169); [Pub. L. 103–424, § 2](https://www.govinfo.gov/link/plaw/103/public/424), Oct. 29, 1994, [108 Stat. 4361](https://www.govinfo.gov/link/statute/108/4361); [Pub. L. 103–446, title XII, § 1203(c)(1)](https://www.govinfo.gov/link/plaw/103/public/446), Nov. 2, 1994, [108 Stat. 4690](https://www.govinfo.gov/link/statute/108/4690); [Pub. L. 112–199, title I, § 107(a)](https://www.govinfo.gov/link/plaw/112/public/199), Nov. 27, 2012, [126 Stat. 1469](https://www.govinfo.gov/link/statute/126/1469); [Pub. L. 113–76, div. E, title V](https://www.govinfo.gov/link/plaw/113/public/76), Jan. 17, 2014, [128 Stat. 217](https://www.govinfo.gov/link/statute/128/217).)*

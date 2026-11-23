@@ -3,9 +3,10 @@ title: "Section 53207 - National security requirements"
 usc_title: 46
 usc_section: "53207"
 chapter: 532
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 53207"
-generated_at: "2026-03-30T02:56:15.573Z"
+generated_at: "2026-11-23T20:27:27.313Z"
+status: "active"
 ---
 
 # § 53207. National security requirements
@@ -30,3 +31,37 @@ generated_at: "2026-03-30T02:56:15.573Z"
 - **(g)**
   - **(1)** Except as otherwise provided by law, the Government shall not be liable for disruption of a Contractor’s commercial business or other consequential damages to a Contractor arising from the activation of the Contingency Agreement.
   - **(2)** In any action in any Federal or State court for breach of third-party contract, there shall be available as an affirmative defense that the alleged breach of contract was caused predominantly by action taken to carry out a Contingent Agreement. Such defense shall not release the party asserting it from any obligation under applicable law to mitigate damages to the greatest extent possible.
+
+Contingency Agreement Required
+
+Terms of Contingency Agreement.—
+
+In general
+
+Terms.—
+
+In general
+
+Additional terms
+
+Defense Measures Against Unauthorized Seizures
+
+Participation After Expiration of Operating Agreement
+
+Resources Made Available
+
+Compensation.—
+
+In general
+
+Specific requirements
+
+Liability of the United States for Damages.—
+
+Limitation on the liability of the u.s
+
+Affirmative defense
+
+## Source Credit
+
+*(Added [Pub. L. 116–92, div. C, title XXXV, § 3521(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1995](https://www.govinfo.gov/link/statute/133/1995).)*

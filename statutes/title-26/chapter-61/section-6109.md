@@ -3,9 +3,10 @@ title: "Section 6109 - Identifying numbers"
 usc_title: 26
 usc_section: "6109"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6109"
-generated_at: "2026-03-30T02:55:27.841Z"
+generated_at: "2026-11-23T20:26:46.573Z"
+status: "active"
 ---
 
 # § 6109. Identifying numbers
@@ -57,3 +58,27 @@ generated_at: "2026-03-30T02:55:27.841Z"
       - **(iii)** January 1, 2019 , in the case of an individual taxpayer identification number issued in 2009 or 2010, and
       - **(iv)** January 1, 2020 , in the case of an individual taxpayer identification number issued in 2011 or 2012.
   - **(4)** The Secretary shall implement a system that ensures that individual taxpayer identification numbers issued solely for purposes of claiming tax treaty benefits are used only for such purposes, by distinguishing such numbers from other individual taxpayer identification numbers issued.
+
+Furnishing Number for Dependents
+
+In General
+
+Requirements.—
+
+Annual expansion
+
+Nationwide availability
+
+“The Secretary of the Treasury, or the Secretary’s delegate, shall maintain a program for training and approving community-based certifying acceptance agents for purposes of section 6109(i)(1) of the Internal Revenue Code of 1986 (as added by this section). Persons eligible to be acceptance agents under such program include—
+
+In general
+
+Specific requirements
+
+Report
+
+Administrative steps
+
+## Source Credit
+
+*(Added [Pub. L. 87–397, § 1(a)](https://www.govinfo.gov/link/plaw/87/public/397), Oct. 5, 1961, [75 Stat. 828](https://www.govinfo.gov/link/statute/75/828); amended [Pub. L. 94–455, title XII](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1203(d), 1211(c), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1691](https://www.govinfo.gov/link/statute/90/1691), 1712, 1834; [Pub. L. 99–514, title XV, § 1524(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2749](https://www.govinfo.gov/link/statute/100/2749); [Pub. L. 100–485, title VII](https://www.govinfo.gov/link/plaw/100/public/485), §§ 703(c)(3), 704(a), Oct. 13, 1988, [102 Stat. 2427](https://www.govinfo.gov/link/statute/102/2427); [Pub. L. 101–508, title XI, § 11112(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–413](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 101–624, title XVII, § 1735(c)](https://www.govinfo.gov/link/plaw/101/public/624), title XXII, § 2201(d), Nov. 28, 1990, [104 Stat. 3792](https://www.govinfo.gov/link/statute/104/3792), 3953; [Pub. L. 102–486, title XIX, § 1933(a)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3031](https://www.govinfo.gov/link/statute/106/3031); [Pub. L. 103–296, title III, § 316(b)](https://www.govinfo.gov/link/plaw/103/public/296), Aug. 15, 1994, [108 Stat. 1532](https://www.govinfo.gov/link/statute/108/1532); [Pub. L. 103–465, title VII, § 742(b)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 5010](https://www.govinfo.gov/link/statute/108/5010); [Pub. L. 104–188, title I](https://www.govinfo.gov/link/plaw/104/public/188), §§ 1615(a)(2)(A), 1704(t)(42), Aug. 20, 1996, [110 Stat. 1853](https://www.govinfo.gov/link/statute/110/1853), 1889; [Pub. L. 105–206, title III, § 3710(a)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 779](https://www.govinfo.gov/link/statute/112/779); [Pub. L. 110–28, title VIII, § 8246(a)(2)(D)](https://www.govinfo.gov/link/plaw/110/public/28), May 25, 2007, [121 Stat. 201](https://www.govinfo.gov/link/statute/121/201); [Pub. L. 110–234, title IV, § 4002(b)(1)(B)](https://www.govinfo.gov/link/plaw/110/public/234), (G), (2)(O), May 22, 2008, [122 Stat. 1096](https://www.govinfo.gov/link/statute/122/1096), 1097; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, § 4002(b)(1)(B), (G), (2)(O), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1857, 1858; [Pub. L. 114–113, div. Q, title II, § 203(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3078](https://www.govinfo.gov/link/statute/129/3078); [Pub. L. 115–141, div. U, title I, § 101(g)(1)](https://www.govinfo.gov/link/plaw/115/public/141) –(3), title IV, § 401(a)(276), Mar. 23, 2018, [132 Stat. 1161](https://www.govinfo.gov/link/statute/132/1161), 1197.)*

@@ -3,9 +3,10 @@ title: "Section 4003 - Safeguard exceptions"
 usc_title: 12
 usc_section: "4003"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4003"
-generated_at: "2026-03-30T02:53:53.499Z"
+generated_at: "2026-11-23T20:25:59.357Z"
+status: "active"
 ---
 
 # § 4003. Safeguard exceptions
@@ -61,3 +62,7 @@ generated_at: "2026-03-30T02:53:53.499Z"
     - **(D)** In the case of a deposit to which subsection (b)(1) or (b)(2) applies, the depository institution may, for nonconsumer accounts and other classes of accounts, as defined by the Board, that generally have a large number of such deposits, provide notice at or before the time it first determines that the subsection applies.
     - **(E)** In the case of a deposit to which subsection (b)(3) applies, the depository institution may, subject to regulations of the Board, provide notice at the beginning of each time period it determines that the subsection applies. In addition to the requirements contained in paragraph (1)(A), the notice shall specify the time period for which the exception will apply.
   - **(3)** If the facts upon which the determination of the applicability of an exception contained in subsection (b) or (c) to any deposit only become known to the receiving depository institution after the time notice is required under paragraph (2) with respect to such deposit, the depository institution shall mail such notice to the depositor as soon as practicable, but not later than the first business day following the day such facts become known to the depository institution.
+
+## Source Credit
+
+*([Pub. L. 100–86, title VI, § 604](https://www.govinfo.gov/link/plaw/100/public/86), Aug. 10, 1987, [101 Stat. 642](https://www.govinfo.gov/link/statute/101/642); [Pub. L. 102–242, title II](https://www.govinfo.gov/link/plaw/102/public/242), §§ 225, 227(b)(2), Dec. 19, 1991, [105 Stat. 2307](https://www.govinfo.gov/link/statute/105/2307), 2308; [Pub. L. 111–203, title X, § 1086(b)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2085](https://www.govinfo.gov/link/statute/124/2085).)*

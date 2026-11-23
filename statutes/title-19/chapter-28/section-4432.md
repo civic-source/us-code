@@ -3,9 +3,10 @@ title: "Section 4432 - Establishment of preclearance operations"
 usc_title: 19
 usc_section: "4432"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 4432"
-generated_at: "2026-03-30T02:54:24.708Z"
+generated_at: "2026-11-23T20:26:11.145Z"
+status: "active"
 ---
 
 # § 4432. Establishment of preclearance operations
@@ -17,3 +18,7 @@ Pursuant to section 1629 of this title and section 1103(a)(7) of title 8 , and p
   - **(3)** to ensure that merchandise destined for the United States complies with applicable laws;
   - **(4)** to ensure the prompt processing of persons eligible to travel to the United States; and
   - **(5)** to accomplish such other objectives as the Secretary determines are necessary to protect the United States.
+
+## Source Credit
+
+*([Pub. L. 114–125, title VIII, § 813](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 217](https://www.govinfo.gov/link/statute/130/217).)*

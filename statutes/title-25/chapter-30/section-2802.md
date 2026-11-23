@@ -3,9 +3,10 @@ title: "Section 2802 - Indian law enforcement responsibilities"
 usc_title: 25
 usc_section: "2802"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 2802"
-generated_at: "2026-03-30T02:54:52.843Z"
+generated_at: "2026-11-23T20:26:25.611Z"
+status: "active"
 ---
 
 # § 2802. Indian law enforcement responsibilities
@@ -72,3 +73,11 @@ generated_at: "2026-03-30T02:54:52.843Z"
     - **(C)** alternatives to incarceration, developed in cooperation with tribal court systems;
   - **(2)** an assessment and consideration of the construction of Federal detention facilities in Indian country; and
   - **(3)** any other alternatives as the Secretary, in coordination with the Attorney General and in consultation with Indian tribes, determines to be necessary.
+
+Coordinator Designation
+
+Report
+
+## Source Credit
+
+*([Pub. L. 101–379, § 3](https://www.govinfo.gov/link/plaw/101/public/379), Aug. 18, 1990, [104 Stat. 473](https://www.govinfo.gov/link/statute/104/473); [Pub. L. 111–211, title II](https://www.govinfo.gov/link/plaw/111/public/211), §§ 211(b), 231(a), 262, July 29, 2010, [124 Stat. 2264](https://www.govinfo.gov/link/statute/124/2264), 2272, 2299.)*

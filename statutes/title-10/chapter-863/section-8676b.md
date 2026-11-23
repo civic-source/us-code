@@ -3,9 +3,10 @@ title: "Section 8676b - Vessels stricken from Naval Vessel Register: transfer by
 usc_title: 10
 usc_section: "8676b"
 chapter: 863
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 8676b"
-generated_at: "2026-03-30T02:53:38.248Z"
+generated_at: "2026-11-23T20:25:52.225Z"
+status: "active"
 ---
 
 # § 8676b. Vessels stricken from Naval Vessel Register: transfer by gift or otherwise for use as artificial reefs
@@ -21,3 +22,21 @@ generated_at: "2026-03-30T02:53:38.248Z"
 - **(e)** A State, Commonwealth, or possession of the United States, or any municipal corporation or political subdivision thereof, may be the recipient of more than one vessel transferred under subsection (a).
 - **(f)** The Secretary may require such additional terms and conditions in connection with a transfer authorized by subsection (a) as the Secretary considers appropriate.
 - **(g)** Nothing in this section shall be construed to establish a preference for the use as artificial reefs of vessels stricken from the Naval Vessel Register in lieu of other authorized uses of such vessels, including the domestic scrapping of such vessels, or other disposals of such vessels, under this chapter or other applicable authority.
+
+Authority To Make Transfer
+
+Vessel To Be Used as Artificial Reef
+
+Preparation of Vessel for Use as Artificial Reef
+
+Cost Sharing
+
+No Limitation on Number of Vessels Transferable to Particular Recipient
+
+Additional Terms and Conditions
+
+Construction
+
+## Source Credit
+
+*(Added [Pub. L. 108–136, div. A, title X, § 1013(a)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1590](https://www.govinfo.gov/link/statute/117/1590), § 7306b; amended [Pub. L. 109–364, div. A, title X, § 1071(a)(36)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2400](https://www.govinfo.gov/link/statute/120/2400); [Pub. L. 111–84, div. A, title X, § 1073(a)(31)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2474](https://www.govinfo.gov/link/statute/123/2474); renumbered § 8676b, [Pub. L. 115–232, div. A, title VIII, § 807(d)(2)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1836](https://www.govinfo.gov/link/statute/132/1836).)*

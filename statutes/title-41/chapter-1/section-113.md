@@ -3,9 +3,10 @@ title: "Section 113 - Responsible source"
 usc_title: 41
 usc_section: "113"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 113"
-generated_at: "2026-03-30T02:55:55.798Z"
+generated_at: "2026-11-23T20:27:04.374Z"
+status: "active"
 ---
 
 # § 113. Responsible source
@@ -19,3 +20,63 @@ In this subtitle, the term “responsible source” means a prospective contract
   - **(5)** has the necessary organization, experience, accounting and operational controls, and technical skills, or the ability to obtain the organization, experience, controls, and skills;
   - **(6)** has the necessary production, construction, and technical equipment and facilities, or the ability to obtain the equipment and facilities; and
   - **(7)** is otherwise qualified and eligible to receive an award under applicable laws and regulations.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 113 | 41:259(c)(5). | June 30, 1949, ch. 288 , title III, § 309(c)(5), as added Pub. L. 98–369, title VII, § 2711(a)(3) , July 18, 1984 , 98 Stat. 1180 ; Pub. L. 98–577, title V, § 504(a)(4) , Oct. 30, 1984 , 98 Stat. 3086 ; Pub. L. 103–355, title I, § 1551 , Oct. 13, 1994 , 108 Stat. 3299 . |
+|  | 41:403(7). | Pub. L. 93–400, § 4(7) , formerly § 4(8), as added Pub. L. 98–369, title VII, § 2731(3) , July 18, 1984 , 98 Stat. 1195 ; Pub. L. 98–577, title I, § 102(2) , Oct. 30, 1984 , 98 Stat. 3067 ; redesignated as § 4(7), Pub. L. 100–679, § 3(c) , Nov. 17, 1988 , 102 Stat. 4056 ; Pub. L. 103–355, title VIII, § 8001(b)(1) –(3), Oct. 13, 1994 , 108 Stat. 3386 . |
+
+
+Historical and Revision Notes
+
+113
+
+June 30, 1949, ch. 288
+
+Pub. L. 98–369, title VII, § 2711(a)(3)
+
+July 18, 1984
+
+98 Stat. 1180
+
+Pub. L. 98–577, title V, § 504(a)(4)
+
+Oct. 30, 1984
+
+98 Stat. 3086
+
+Pub. L. 103–355, title I, § 1551
+
+Oct. 13, 1994
+
+108 Stat. 3299
+
+Pub. L. 93–400, § 4(7)
+
+Pub. L. 98–369, title VII, § 2731(3)
+
+July 18, 1984
+
+98 Stat. 1195
+
+Pub. L. 98–577, title I, § 102(2)
+
+Oct. 30, 1984
+
+98 Stat. 3067
+
+Pub. L. 100–679, § 3(c)
+
+Nov. 17, 1988
+
+102 Stat. 4056
+
+Pub. L. 103–355, title VIII, § 8001(b)(1)
+
+Oct. 13, 1994
+
+108 Stat. 3386
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3681](https://www.govinfo.gov/link/statute/124/3681).)*

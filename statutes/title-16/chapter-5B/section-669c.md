@@ -3,9 +3,10 @@ title: "Section 669c - Allocation and apportionment of available amounts"
 usc_title: 16
 usc_section: "669c"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 669c"
-generated_at: "2026-03-30T02:54:22.891Z"
+generated_at: "2026-11-23T20:26:20.214Z"
+status: "active"
 ---
 
 # § 669c. Allocation and apportionment of available amounts
@@ -63,3 +64,13 @@ generated_at: "2026-03-30T02:54:22.891Z"
     - **(A)** Except as provided in subparagraph (B), after the Secretary approves a State’s wildlife conservation and restoration program, the Secretary may make payments on a project that is a segment of the State’s wildlife conservation and restoration program as the project progresses. Such payments, including previous payments on the project, if any, shall not be more than the United States pro rata share of such project. The Secretary, under such regulations as he may prescribe, may advance funds representing the United States pro rata share of a project that is a segment of a wildlife conservation and restoration program, including funds to develop such program.
     - **(B)** Not more than 10 percent of the amounts apportioned to each State under this section for a State’s wildlife conservation and restoration program may be used for wildlife-associated recreation.
   - **(5)** For purposes of this subsection, the term “State” shall include the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+
+(aa) the available amount specified in this subparagraph for the preceding fiscal year; and
+
+(bb) the change, relative to the preceding fiscal year, in the Consumer Price Index for All Urban Consumers published by the Department of Labor.
+
+Wildlife conservation strategy
+
+## Source Credit
+
+*(Sept. 2, 1937, ch. 899, § 4, [50 Stat. 918](https://www.govinfo.gov/link/statute/50/918); 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433](https://www.govinfo.gov/link/statute/53/1433); July 24, 1946, ch. 605, § 1, [60 Stat. 656](https://www.govinfo.gov/link/statute/60/656); [Pub. L. 91–503, title I, § 102](https://www.govinfo.gov/link/plaw/91/public/503), Oct. 23, 1970, [84 Stat. 1098](https://www.govinfo.gov/link/statute/84/1098); [Pub. L. 92–558, title I, § 101(b)](https://www.govinfo.gov/link/plaw/92/public/558), Oct. 25, 1972, [86 Stat. 1172](https://www.govinfo.gov/link/statute/86/1172); [Pub. L. 94–273, § 4(1)](https://www.govinfo.gov/link/plaw/94/public/273), Apr. 21, 1976, [90 Stat. 377](https://www.govinfo.gov/link/statute/90/377); [Pub. L. 99–396, § 8(b)](https://www.govinfo.gov/link/plaw/99/public/396), Aug. 27, 1986, [100 Stat. 839](https://www.govinfo.gov/link/statute/100/839); [Pub. L. 101–233, § 7(a)(2)](https://www.govinfo.gov/link/plaw/101/public/233), Dec. 13, 1989, [103 Stat. 1975](https://www.govinfo.gov/link/statute/103/1975); [Pub. L. 106–408, title I, § 111(a)](https://www.govinfo.gov/link/plaw/106/public/408), Nov. 1, 2000, [114 Stat. 1763](https://www.govinfo.gov/link/statute/114/1763); [Pub. L. 106–553, § 1(a)(2) [title IX, § 902(e)]](https://www.govinfo.gov/link/plaw/106/public/553), Dec. 21, 2000, [114 Stat. 2762](https://www.govinfo.gov/link/statute/114/2762), 2762A–121; [Pub. L. 116–94, div. P, title V, § 501(d)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3192](https://www.govinfo.gov/link/statute/133/3192); [Pub. L. 117–58, div. B, title VIII, § 28001(b)(1)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 887](https://www.govinfo.gov/link/statute/135/887); [Pub. L. 117–263, div. K, title CXIII, § 11324(b)(1)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4095](https://www.govinfo.gov/link/statute/136/4095).)*

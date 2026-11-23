@@ -3,9 +3,10 @@ title: "Section 7135 - Energy Information Administration"
 usc_title: 42
 usc_section: "7135"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7135"
-generated_at: "2026-03-30T02:56:11.282Z"
+generated_at: "2026-11-23T20:27:22.775Z"
+status: "active"
 ---
 
 # § 7135. Energy Information Administration
@@ -78,3 +79,9 @@ generated_at: "2026-03-30T02:56:11.282Z"
     - **(F)** Such other analyses or evaluations as the Administrator finds are necessary to achieve the purposes of this section.
   - **(2)** The Administrator shall also collect or estimate information both on a national and regional basis, pursuant to subparagraphs (A) through (F) of paragraph (1), for the 5 years prior to implementation of this subsection.
   - **(3)** This subsection does not affect the authority of the Administrator to collect data under section 52 of the Federal Energy Administration Act of 1974 ( 15 U.S.C. 790a ).
+
+energy information administration
+
+## Source Credit
+
+*([Pub. L. 95–91, title II, § 205](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 572](https://www.govinfo.gov/link/statute/91/572); [Pub. L. 99–509, title III, § 3101(a)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1888](https://www.govinfo.gov/link/statute/100/1888); [Pub. L. 102–486, title I, § 171](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2864](https://www.govinfo.gov/link/statute/106/2864); [Pub. L. 109–58, title XV, § 1508](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 1083](https://www.govinfo.gov/link/statute/119/1083); [Pub. L. 113–76, div. D, title III, § 315](https://www.govinfo.gov/link/plaw/113/public/76), Jan. 17, 2014, [128 Stat. 177](https://www.govinfo.gov/link/statute/128/177).)*

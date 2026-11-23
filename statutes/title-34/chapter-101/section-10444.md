@@ -3,9 +3,10 @@ title: "Section 10444 - Duties and functions of Director of Office on Violence A
 usc_title: 34
 usc_section: "10444"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10444"
-generated_at: "2026-03-30T02:55:33.268Z"
+generated_at: "2026-11-23T20:26:50.470Z"
+status: "active"
 ---
 
 # § 10444. Duties and functions of Director of Office on Violence Against Women
@@ -26,3 +27,7 @@ The Director shall have the following duties:
     - **(C)** grantees, in efforts to combat violence against women and to provide support and assistance to victims of such violence.
   - **(7)** Exercising such other powers and functions as may be vested in the Director pursuant to this subchapter or by delegation of the Attorney General.
   - **(8)** Establishing such rules, regulations, guidelines, and procedures as are necessary to carry out any function of the Office.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 2004](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 107–273, div. A, title IV, § 402(3)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1790](https://www.govinfo.gov/link/statute/116/1790); amended [Pub. L. 117–103, div. W, title IX, § 901(c)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 910](https://www.govinfo.gov/link/statute/136/910).)*

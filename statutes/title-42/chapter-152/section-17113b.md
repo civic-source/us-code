@@ -3,9 +3,10 @@ title: "Section 17113b - Advanced industrial facilities deployment program"
 usc_title: 42
 usc_section: "17113b"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17113b"
-generated_at: "2026-03-30T02:56:11.496Z"
+generated_at: "2026-11-23T20:27:23.727Z"
+status: "active"
 ---
 
 # § 17113b. Advanced industrial facilities deployment program
@@ -27,3 +28,17 @@ generated_at: "2026-03-30T02:56:11.496Z"
   - **(2)** The term “eligible entity” means the owner or operator of an eligible facility.
   - **(3)** The term “eligible facility” means a domestic, non-Federal, nonpower industrial or manufacturing facility engaged in energy-intensive industrial processes, including production processes for iron, steel, steel mill products, aluminum, cement, concrete, glass, pulp, paper, industrial ceramics, chemicals, and other energy intensive industrial processes, as determined by the Secretary.
   - **(4)** The term “financial assistance” means a grant, rebate, direct loan, or cooperative agreement.
+
+Greenhouse gas
+
+Secretary
+
+State
+
+State energy office
+
+State energy program
+
+## Source Credit
+
+*([Pub. L. 117–169, title V, § 50161](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 2049](https://www.govinfo.gov/link/statute/136/2049).)*

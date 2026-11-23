@@ -3,9 +3,10 @@ title: "Section 704 - Waiver of pay limitation for certain employees"
 usc_title: 38
 usc_section: "704"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 704"
-generated_at: "2026-03-30T02:55:53.474Z"
+generated_at: "2026-11-23T20:27:01.577Z"
+status: "active"
 ---
 
 # § 704. Waiver of pay limitation for certain employees
@@ -25,3 +26,27 @@ generated_at: "2026-03-30T02:55:53.474Z"
     - **(C)** The average amount by which each payment exceeded the pay limitation that was waived, disaggregated by component of the Department and, if applicable, medical center of the Department.
 - **(e)** In this section, the term “employee” means any employee regardless of the authority under which the employee was hired.
 - **(f)** This section shall terminate on September 30, 2027 .
+
+Employees of Veterans Health Administration Impacted by Closure or Realignment
+
+Employees Providing Care to Veterans Exposed to Open Burn Pits.—
+
+In general
+
+Open burn pit defined
+
+Coordination With Office of Personnel Management
+
+Reports.—
+
+In general
+
+Contents
+
+Employee Defined
+
+Termination
+
+## Source Credit
+
+*(Added [Pub. L. 117–168, title IX, § 907](https://www.govinfo.gov/link/plaw/117/public/168), Aug. 10, 2022, [136 Stat. 1814](https://www.govinfo.gov/link/statute/136/1814).)*

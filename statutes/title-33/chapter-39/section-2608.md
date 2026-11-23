@@ -3,9 +3,10 @@ title: "Section 2608 - Civil penalty procedures"
 usc_title: 33
 usc_section: "2608"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2608"
-generated_at: "2026-03-30T02:55:41.129Z"
+generated_at: "2026-11-23T20:26:54.208Z"
+status: "active"
 ---
 
 # § 2608. Civil penalty procedures
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:41.129Z"
 - **(d)** The Secretary may refund or remit a civil penalty collected under this chapter if—
   - **(1)** application has been made for refund or remission of the penalty within one year from the date of payment; and
   - **(2)** the Secretary finds that the penalty was unlawfully, improperly, or excessively imposed.
+
+## Source Credit
+
+*([Pub. L. 100–688, title IV, § 4108](https://www.govinfo.gov/link/plaw/100/public/688), Nov. 18, 1988, [102 Stat. 4158](https://www.govinfo.gov/link/statute/102/4158).)*

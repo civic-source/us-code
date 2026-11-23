@@ -3,9 +3,10 @@ title: "Section 5961a - Requirement for on-site managers"
 usc_title: 22
 usc_section: "5961a"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 5961a"
-generated_at: "2026-03-30T02:55:05.421Z"
+generated_at: "2026-11-23T20:26:32.584Z"
+status: "active"
 ---
 
 # § 5961a. Requirement for on-site managers
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:05.421Z"
 - **(f)** In any case in which the Secretary of Energy directs an on-site manager to resume United States participation in a project under subsection (c)(4), the Secretary shall concurrently notify Congress of such direction.
 - **(g)** In this section, the term “permit” means any local or national permit for development, general construction, environmental, land use, or other purposes that is required in the state of the former Soviet Union in which the project is being or is proposed to be carried out.
 - **(h)** This section shall take effect six months after November 24, 2003 .
+
+## Source Credit
+
+*([Pub. L. 108–136, div. C, title XXXI, § 3125](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1748](https://www.govinfo.gov/link/statute/117/1748).)*

@@ -3,9 +3,10 @@ title: "Section 44108 - Validity of conveyances, leases, and security instrument
 usc_title: 49
 usc_section: "44108"
 chapter: 441
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44108"
-generated_at: "2026-03-30T02:56:19.380Z"
+generated_at: "2026-11-23T20:27:35.129Z"
+status: "active"
 ---
 
 # § 44108. Validity of conveyances, leases, and security instruments
@@ -23,3 +24,72 @@ generated_at: "2026-03-30T02:56:19.380Z"
 - **(d)** This section does not apply to—
   - **(1)** a conveyance described in section 44107(a)(1) of this title that was made before August 22, 1938 ; or
   - **(2)** a lease or instrument described in section 44107(a)(2) of this title that was made before June 20, 1948 .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 44108(a) | 49 App.:1403(c) (less words after semicolon). | Aug. 23, 1958 , Pub. L. 85–726, § 503(c) , 72 Stat. 773 . |
+| 44108(b) | 49 App.:1403(d). | Aug. 23, 1958 , Pub. L. 85–726, § 503(d) , 72 Stat. 773 ; July 8, 1959 , Pub. L. 86–81, § 3 , 73 Stat. 181 . |
+| 44108(c)(1) | 49 App.:1406. | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 506; added June 30, 1964 , Pub. L. 88–346, § 1(a) , 78 Stat. 236 . |
+| 44108(c)(2) | 49 App.:1406 (note). | June 30, 1964 , Pub. L. 88–346, § 1(c) , 78 Stat. 236 . |
+| 44108(d) | 49 App.:1403(c) (words after semicolon). |  |
+
+
+Validity Before Filing
+
+Period of Validity
+
+Applicable Laws
+
+Nonapplication
+
+Historical and Revision Notes
+
+44108(a)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 503(c)
+
+72 Stat. 773
+
+44108(b)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 503(d)
+
+72 Stat. 773
+
+July 8, 1959
+
+Pub. L. 86–81, § 3
+
+73 Stat. 181
+
+44108(c)(1)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+June 30, 1964
+
+Pub. L. 88–346, § 1(a)
+
+78 Stat. 236
+
+44108(c)(2)
+
+June 30, 1964
+
+Pub. L. 88–346, § 1(c)
+
+78 Stat. 236
+
+44108(d)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1165](https://www.govinfo.gov/link/statute/108/1165); [Pub. L. 108–297, § 5](https://www.govinfo.gov/link/plaw/108/public/297), Aug. 9, 2004, [118 Stat. 1097](https://www.govinfo.gov/link/statute/118/1097).)*

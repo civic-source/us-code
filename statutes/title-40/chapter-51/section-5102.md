@@ -3,9 +3,10 @@ title: "Section 5102 - Legal description and jurisdiction of United States Capit
 usc_title: 40
 usc_section: "5102"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 5102"
-generated_at: "2026-03-30T02:55:43.380Z"
+generated_at: "2026-11-23T20:26:56.603Z"
+status: "active"
 ---
 
 # § 5102. Legal description and jurisdiction of United States Capitol Grounds
@@ -26,3 +27,186 @@ generated_at: "2026-03-30T02:55:43.380Z"
 - **(d)**
   - **(1)** Except as provided under paragraph (2), the United States Capitol Grounds shall include the Library of Congress grounds described under section 11 of the Act entitled “An Act relating to the policing of the buildings 2 2 So in original. Probably should be followed by “and grounds”. of the Library of Congress”, approved August 4, 1950 ( 2 U.S.C. 167j ).
   - **(2)** Notwithstanding subsections (a) and (b), the Librarian of Congress shall retain authority over the Library of Congress buildings and grounds in accordance with section 1 of the Act of June 29, 1922 ( 2 U.S.C. 141 ; 42 Stat. 715 ).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5102 | 40:193a. | July 31, 1946, ch. 707, § 1 , 60 Stat. 718 ; Pub. L. 90–108, § 1(a) , Oct. 20, 1967 , 81 Stat. 275 ; Pub. L. 93–198, § 739(g)(7) , Dec. 24, 1973 , 87 Stat. 829 ; Pub. L. 96–432, § 2 , Oct. 10, 1980 , 94 Stat. 1852 . |
+
+| Column 1 | Column 2 |
+| --- | --- |
+|  | John W. McCormack, Chairman. |
+|  | Emanuel Celler, Member. |
+|  | Charles E. Goodell, Member. |
+
+
+Legal Description
+
+Jurisdiction.—
+
+Architect of the capitol
+
+Mayor of the district of columbia.—
+
+In general
+
+Repair and maintenance of utility services
+
+National Garden of the United States Botanic Garden.—
+
+In general
+
+Maintenance and improvements
+
+Authority not limited
+
+Library of Congress Buildings and Grounds.—
+
+In general
+
+Authority of librarian of congress
+
+Historical and Revision Notes
+
+5102
+
+July 31, 1946, ch. 707, § 1
+
+60 Stat. 718
+
+Pub. L. 90–108, § 1(a)
+
+Oct. 20, 1967
+
+81 Stat. 275
+
+Pub. L. 93–198, § 739(g)(7)
+
+Dec. 24, 1973
+
+87 Stat. 829
+
+Pub. L. 96–432, § 2
+
+Oct. 10, 1980
+
+94 Stat. 1852
+
+Treatment as Part of Capitol Grounds.—
+
+In general
+
+Union square defined
+
+Continuation of Types of Activity Previously Authorized.—
+
+In general
+
+Regulations
+
+Capitol Trust Account.—
+
+Establishment
+
+Transfer
+
+Use of funds
+
+Effective Date
+
+Transfer of Administrative Jurisdiction From District of Columbia to United States.—
+
+In general
+
+Use of certain property for memorial
+
+Additional transfer.—
+
+In general
+
+Retention of jurisdiction over subsurface area
+
+Transfer of Administrative Jurisdiction From United States to District of Columbia
+
+Effective Date
+
+In General
+
+Title Held by Secretary
+
+Review
+
+Study
+
+District of Columbia
+
+Comptroller General
+
+Sunset
+
+Transfer of Jurisdiction.—
+
+In general
+
+Parcels
+
+Miscellaneous.—
+
+Compliance with other laws
+
+United states capitol grounds.—
+
+Definition
+
+Jurisdiction of capitol police
+
+Effect of transfer
+
+Effective Date
+
+Purpose
+
+Transfers of Jurisdiction.—
+
+In general
+
+Specific transfers.—
+
+Transfers to secretary of the interior.—
+
+In general
+
+Limitation
+
+Consideration as memorial site
+
+Transfers to architect of the capitol
+
+Transfers to district of columbia
+
+Miscellaneous.—
+
+Compliance with other laws
+
+Law enforcement responsibility
+
+United states capitol grounds.—
+
+Definition
+
+Jurisdiction of capitol police
+
+Effect of transfers
+
+“That section 1 of the Act of July 31, 1946 , as amended ( 40 U.S.C. 193a ) [now 40 U.S.C. 5102 ], is amended to include within the definition of the United States Capitol Grounds the following additional areas which are situated as follows:
+
+“That section 1 of the Act of July 31, 1946 , as amended ( 40 U.S.C. 193a ) [now 40 U.S.C. 5102 ], is amended to include within the definition of the United States Capitol Grounds the following additional areas and portions of streets which are situated as follows:
+
+John W. McCormack,
+
+Emanuel Celler,
+
+Charles E. Goodell,
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1175](https://www.govinfo.gov/link/statute/116/1175); [Pub. L. 108–7, div. H, title I, § 1016(b)](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 364](https://www.govinfo.gov/link/statute/117/364); [Pub. L. 110–161, div. H, title I, § 1004(d)(2)(A)(ii)](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2233](https://www.govinfo.gov/link/statute/121/2233); [Pub. L. 110–178, § 4(b)(1)(B)](https://www.govinfo.gov/link/plaw/110/public/178), Jan. 7, 2008, [121 Stat. 2551](https://www.govinfo.gov/link/statute/121/2551); [Pub. L. 111–145, § 6(d)(1)](https://www.govinfo.gov/link/plaw/111/public/145), Mar. 4, 2010, [124 Stat. 54](https://www.govinfo.gov/link/statute/124/54).)*

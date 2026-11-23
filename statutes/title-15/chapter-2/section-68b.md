@@ -3,9 +3,10 @@ title: "Section 68b - Misbranded wool products"
 usc_title: 15
 usc_section: "68b"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 68b"
-generated_at: "2026-03-30T02:54:08.028Z"
+generated_at: "2026-11-23T20:26:03.420Z"
+status: "active"
 ---
 
 # § 68b. Misbranded wool products
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:54:08.028Z"
 - **(d)** This section shall not be construed as requiring designation on garments or articles of apparel of fiber content of any linings, paddings, stiffening, trimmings, or facings, except those concerning which express or implied representations of fiber content are customarily made, nor as requiring designation of fiber content of products which have an insignificant or inconsequential textile content: Provided , That if any such article or product purports to contain or in any manner is represented as containing wool, this section shall be applicable thereto and the information required shall be separately set forth and segregated. The Commission, after giving due notice and opportunity to be heard to interested persons, may determine and publicly announce the classes of such articles concerning which express or implied representations of fiber content are customarily made, and those products which have an insignificant or inconsequential textile content.
 - **(e)** For the purposes of this subchapter, a wool product shall be considered to be falsely or deceptively advertised in any mail order promotional material which is used in the direct sale or direct offering for sale of such wool product, unless such wool product description states in a clear and conspicuous manner that such wool product is processed or manufactured in the United States of America, or imported, or both.
 - **(f)** For purposes of this subchapter, any wool product shall be misbranded if a stamp, tag, label, or other identification conforming to the requirements of this section is not on or affixed to the inside center of the neck midway between the shoulder seams or, if such product does not contain a neck, in the most conspicuous place on the inner side of such product, unless it is on or affixed on the outer side of such product or in the case of hosiery items, on the outer side of such product or package.
+
+## Source Credit
+
+*(Oct. 14, 1940, ch. 871, § 4, [54 Stat. 1129](https://www.govinfo.gov/link/statute/54/1129); [Pub. L. 96–242, § 2](https://www.govinfo.gov/link/plaw/96/public/242), May 5, 1980, [94 Stat. 344](https://www.govinfo.gov/link/statute/94/344); [Pub. L. 98–417, title III](https://www.govinfo.gov/link/plaw/98/public/417), §§ 304, 305, Sept. 24, 1984, [98 Stat. 1604](https://www.govinfo.gov/link/statute/98/1604); [Pub. L. 109–428, § 2(a)](https://www.govinfo.gov/link/plaw/109/public/428), Dec. 20, 2006, [120 Stat. 2913](https://www.govinfo.gov/link/statute/120/2913).)*

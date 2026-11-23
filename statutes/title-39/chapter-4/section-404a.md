@@ -3,9 +3,10 @@ title: "Section 404a - Specific limitations"
 usc_title: 39
 usc_section: "404a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "39 U.S.C. § 404a"
-generated_at: "2026-03-30T02:55:43.687Z"
+generated_at: "2026-11-23T20:26:57.707Z"
+status: "active"
 ---
 
 # § 404a. Specific limitations
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:43.687Z"
   - **(3)** obtain information from a person that provides (or seeks to provide) any product, and then offer any postal service that uses or is based in whole or in part on such information, without the consent of the person providing that information, unless substantially the same information is obtained (or obtainable) from an independent source or is otherwise obtained (or obtainable).
 - **(b)** The Postal Regulatory Commission shall prescribe regulations to carry out this section.
 - **(c)** Any party (including an officer of the Commission representing the interests of the general public) who believes that the Postal Service has violated this section may bring a complaint in accordance with section 3662.
+
+## Source Credit
+
+*(Added [Pub. L. 109–435, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3226](https://www.govinfo.gov/link/statute/120/3226).)*

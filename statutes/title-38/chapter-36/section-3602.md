@@ -3,9 +3,10 @@ title: "Section 3602 - Continuation of educational assistance benefits during em
 usc_title: 38
 usc_section: "3602"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 3602"
-generated_at: "2026-03-30T02:55:53.506Z"
+generated_at: "2026-11-23T20:27:01.862Z"
+status: "active"
 ---
 
 # § 3602. Continuation of educational assistance benefits during emergency situations
@@ -21,3 +22,15 @@ generated_at: "2026-03-30T02:55:53.506Z"
   - **(2)** the educational institution or training establishment certifies to the Secretary that such program or training is truncated, delayed, relocated, canceled, partially canceled, converted from being on-site to being offered by distance learning, or otherwise modified or made unavailable by reason of the emergency situation; and
   - **(3)** the Secretary determines that the modification to such program or training specified under paragraph (2) would reduce the amount of educational assistance (including with respect to monthly housing stipends, payments, or subsistence allowances) that would be payable to the individual but for the emergency situation.
 - **(d)** If the Secretary determines that an individual who received assistance under this section did not make progress toward the completion of the program of education in which the individual is enrolled during the period for which the individual received such assistance, any assistance provided pursuant to this section shall not be counted for purposes of determining the total amount of an individual’s entitlement to educational assistance, housing stipends, or payments or subsistence allowances under chapters 30, 31, 32, and 35 of this title and chapter 1606 of title 10.
+
+Authority
+
+Housing and Allowances
+
+Determination of Negative Effects
+
+Effect on Entitlement Period
+
+## Source Credit
+
+*(Added [Pub. L. 117–333, § 2(a)(2)](https://www.govinfo.gov/link/plaw/117/public/333), Jan. 5, 2023, [136 Stat. 6122](https://www.govinfo.gov/link/statute/136/6122).)*

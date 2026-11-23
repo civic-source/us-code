@@ -3,9 +3,10 @@ title: "Section 363a - Refunds of State unemployment contributions by employees;
 usc_title: 45
 usc_section: "363a"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 363a"
-generated_at: "2026-03-30T02:55:56.552Z"
+generated_at: "2026-11-23T20:27:05.288Z"
+status: "active"
 ---
 
 # § 363a. Refunds of State unemployment contributions by employees; amount; application period; definitions
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:56.552Z"
   - **(1)** The term “employee amount” means any amount paid from a State unemployment fund to the Unemployment Trust Fund which would not have been required to be paid, under the provisions of section 363(c) of this title , if said section had not required payment of amounts based on contributions collected from employees.
   - **(2)** The term “Unemployment Trust Fund” means the fund established by section 1104 of title 42 .
   - **(3)** The term “employees” has the same meaning as in the Railroad Unemployment Insurance Act [ 45 U.S.C. 351 et seq.].
+
+## Source Credit
+
+*(Aug. 2, 1946, ch. 743, [60 Stat. 806](https://www.govinfo.gov/link/statute/60/806); Aug. 6, 1947, ch. 509, [61 Stat. 793](https://www.govinfo.gov/link/statute/61/793).)*

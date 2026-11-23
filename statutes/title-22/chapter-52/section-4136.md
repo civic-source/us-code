@@ -3,9 +3,10 @@ title: "Section 4136 - Foreign Service Grievance Board procedures"
 usc_title: 22
 usc_section: "4136"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4136"
-generated_at: "2026-03-30T02:55:05.408Z"
+generated_at: "2026-11-23T20:26:32.523Z"
+status: "active"
 ---
 
 # § 4136. Foreign Service Grievance Board procedures
@@ -23,3 +24,7 @@ The Board may adopt regulations concerning its organization and procedures. Such
   - **(7)** The Board may act by or through panels or individual members designated by the Chairperson, except that hearings within the continental United States shall be held by panels of at least three members unless the parties agree otherwise. References in this subchapter to the Board shall be considered to be references to a panel or member of the Board where appropriate. All members of the Board shall act as impartial individuals in considering grievances.
   - **(8)** If the Board determines that the Department is considering the involuntary separation of the grievant (other than an involuntary separation for cause under section 4010(a) of this title ), disciplinary action against the grievant, or recovery from the grievant of alleged overpayment of salary, expenses, or allowances, which is related to a grievance pending before the Board and that such action should be suspended, the Department shall suspend such action until the date which is one year after such determination or until the Board has ruled upon the grievance, whichever comes first. The Board shall extend the one-year limitation under the preceding sentence and the Department shall continue to suspend such action, if the Board determines that the agency or the Board is responsible for the delay in the resolution of the grievance. The Board may also extend the 1-year limit if it determines that the delay is due to the complexity of the case, the unavailability of witnesses or to circumstances beyond the control of the agency, the Board or the grievant. Notwithstanding such suspension of action, the head of the agency concerned or a chief of mission or principal officer may exclude the grievant from official premises or from the performance of specified functions when such exclusion is determined in writing to be essential to the functioning of the post or office to which the grievant is assigned.
   - **(9)** The Board may reconsider any decision upon presentation of newly discovered or previously unavailable material evidence.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 1106](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2145](https://www.govinfo.gov/link/statute/94/2145); [Pub. L. 101–167, title V, § 586(a)](https://www.govinfo.gov/link/plaw/101/public/167), Nov. 21, 1989, [103 Stat. 1252](https://www.govinfo.gov/link/statute/103/1252); [Pub. L. 102–138, title I, § 143(b)](https://www.govinfo.gov/link/plaw/102/public/138), Oct. 28, 1991, [105 Stat. 668](https://www.govinfo.gov/link/statute/105/668); [Pub. L. 103–236, title I](https://www.govinfo.gov/link/plaw/103/public/236), §§ 177(a), 181(a)(4)(B), Apr. 30, 1994, [108 Stat. 414](https://www.govinfo.gov/link/statute/108/414), 417; [Pub. L. 107–228, div. A, title III, § 314(b)](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1379](https://www.govinfo.gov/link/statute/116/1379); [Pub. L. 109–140, § 5](https://www.govinfo.gov/link/plaw/109/public/140), Dec. 22, 2005, [119 Stat. 2652](https://www.govinfo.gov/link/statute/119/2652).)*

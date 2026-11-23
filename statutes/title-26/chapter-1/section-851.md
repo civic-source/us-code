@@ -3,9 +3,10 @@ title: "Section 851 - Definition of regulated investment company"
 usc_title: 26
 usc_section: "851"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 851"
-generated_at: "2026-03-30T02:55:27.732Z"
+generated_at: "2026-11-23T20:26:45.897Z"
+status: "active"
 ---
 
 # § 851. Definition of regulated investment company
@@ -84,3 +85,11 @@ generated_at: "2026-03-30T02:55:27.732Z"
   - **(2)** If paragraph (1) applies to a regulated investment company for any taxable year, there is hereby imposed on such company a tax in an amount equal to the excess of—
     - **(A)** the gross income of such company which is not derived from sources referred to in subsection (b)(2), over
     - **(B)** ⅑ of the gross income of such company which is derived from such sources.
+
+In general
+
+Treatment of certain existing series funds
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 268; [Pub. L. 85–866, title I, § 38](https://www.govinfo.gov/link/plaw/85/public/866), Sept. 2, 1958, [72 Stat. 1638](https://www.govinfo.gov/link/statute/72/1638); [Pub. L. 91–172, title IX, § 908(a)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 717](https://www.govinfo.gov/link/statute/83/717); [Pub. L. 94–12, title VI, § 602(a)(2)](https://www.govinfo.gov/link/plaw/94/public/12), Mar. 29, 1975, [89 Stat. 58](https://www.govinfo.gov/link/statute/89/58); [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1901(a)(109), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1783](https://www.govinfo.gov/link/statute/90/1783), 1834; [Pub. L. 95–345, § 2(a)(3)](https://www.govinfo.gov/link/plaw/95/public/345), Aug. 15, 1978, [92 Stat. 481](https://www.govinfo.gov/link/statute/92/481); [Pub. L. 95–600, title VII, § 701(s)(1)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2911](https://www.govinfo.gov/link/statute/92/2911); [Pub. L. 97–424, title V, § 547(b)(1)](https://www.govinfo.gov/link/plaw/97/public/424), Jan. 6, 1983, [96 Stat. 2199](https://www.govinfo.gov/link/statute/96/2199); [Pub. L. 98–369, div. A, title X, § 1071(a)(1)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1049](https://www.govinfo.gov/link/statute/98/1049); [Pub. L. 99–514, title VI](https://www.govinfo.gov/link/plaw/99/public/514), §§ 652(a), (b), 653(a)–(c), 654(a), title XII, § 1235(f)(3), Oct. 22, 1986, [100 Stat. 2297](https://www.govinfo.gov/link/statute/100/2297), 2298, 2575; [Pub. L. 100–647, title I, § 1006(m)](https://www.govinfo.gov/link/plaw/100/public/647), (n)(1), (2)(A), (B), (4), (5), (o), Nov. 10, 1988, [102 Stat. 3415](https://www.govinfo.gov/link/statute/102/3415), 3416; [Pub. L. 105–34, title XII, § 1271(a)](https://www.govinfo.gov/link/plaw/105/public/34) –(b)(7), Aug. 5, 1997, [111 Stat. 1036](https://www.govinfo.gov/link/statute/111/1036), 1037; [Pub. L. 108–357, title III, § 331(a)](https://www.govinfo.gov/link/plaw/108/public/357) –(d), (f), Oct. 22, 2004, [118 Stat. 1476](https://www.govinfo.gov/link/statute/118/1476); [Pub. L. 111–325, title II, § 201(a)](https://www.govinfo.gov/link/plaw/111/public/325), (b), Dec. 22, 2010, [124 Stat. 3539](https://www.govinfo.gov/link/statute/124/3539), 3540; [Pub. L. 113–295, div. A, title II, § 205(e)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4027](https://www.govinfo.gov/link/statute/128/4027); [Pub. L. 115–97, title I, § 14212(b)(1)(B)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2217](https://www.govinfo.gov/link/statute/131/2217).)*

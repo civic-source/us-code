@@ -3,9 +3,10 @@ title: "Section 9410 - Exceptions for national security and humanitarian assista
 usc_title: 22
 usc_section: "9410"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9410"
-generated_at: "2026-03-30T02:55:05.466Z"
+generated_at: "2026-11-23T20:26:32.771Z"
+status: "active"
 ---
 
 # § 9410. Exceptions for national security and humanitarian assistance; rule of construction
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:05.466Z"
   - **(2)** The term “good” has the meaning given that term in section 4618 1 1 See References in Text note below. of title 50 (as continued in effect pursuant to the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.)).
   - **(3)** The term “medical device” has the meaning given the term “device” in section 321 of title 21 .
   - **(4)** The term “medicine” has the meaning given the term “drug” in section 321 of title 21 .
+
+## Source Credit
+
+*([Pub. L. 115–44, title I, § 111](https://www.govinfo.gov/link/plaw/115/public/44), Aug. 2, 2017, [131 Stat. 896](https://www.govinfo.gov/link/statute/131/896).)*

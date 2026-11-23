@@ -3,9 +3,10 @@ title: "Section 1234 - Office of Administrative Law Judges"
 usc_title: 20
 usc_section: "1234"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1234"
-generated_at: "2026-03-30T02:54:48.158Z"
+generated_at: "2026-11-23T20:26:14.622Z"
+status: "active"
 ---
 
 # § 1234. Office of Administrative Law Judges
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:48.158Z"
   - **(2)** In order to carry out the provisions of subsections (f)(1) and (g)(1), the judge is authorized to issue subpoenas and apply to the appropriate court of the United States for enforcement of a subpoena. The court may enforce the subpoena as if it pertained to a proceeding before that court.
 - **(h)** The Secretary shall establish a process for the voluntary mediation of disputes pending before the Office. The mediator shall be agreed to by all parties involved in mediation and shall be independent of the parties to the dispute. In the mediation of disputes the Secretary shall consider mitigating circumstances and proportion of harm pursuant to section 1234b of this title . In accordance with rule 408 of the Federal Rules of Evidence, evidence of conduct or statements made in compromise negotiations shall not be admissible in proceedings before the Office. Mediation shall be limited to 120 days, except that the mediator may grant extensions of such period.
 - **(i)** The Secretary shall employ, assign, or transfer sufficient professional personnel, including judges of the Office, to ensure that all matters brought before the Office may be dealt with in a timely manner.
+
+## Source Credit
+
+*([Pub. L. 90–247, title IV, § 451](https://www.govinfo.gov/link/plaw/90/public/247), as added [Pub. L. 95–561, title XII, § 1232](https://www.govinfo.gov/link/plaw/95/public/561), Nov. 1, 1978, [92 Stat. 2346](https://www.govinfo.gov/link/statute/92/2346); amended [Pub. L. 100–297, title III, § 3501(a)](https://www.govinfo.gov/link/plaw/100/public/297), Apr. 28, 1988, [102 Stat. 349](https://www.govinfo.gov/link/statute/102/349).)*

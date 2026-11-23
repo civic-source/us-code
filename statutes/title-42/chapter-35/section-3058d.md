@@ -3,9 +3,10 @@ title: "Section 3058d - Additional State plan requirements"
 usc_title: 42
 usc_section: "3058d"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3058d"
-generated_at: "2026-03-30T02:56:11.180Z"
+generated_at: "2026-11-23T20:27:22.246Z"
+status: "active"
 ---
 
 # § 3058d. Additional State plan requirements
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:11.180Z"
       - **(iii)** upon court order; and
   - **(7)** a description of the manner in which the State agency will carry out this subchapter in accordance with the assurances described in paragraphs (1) through (6).
 - **(b)** Neither a State, nor a State agency, may require any provider of legal assistance under this part to reveal any information that is protected by the attorney-client privilege.
+
+## Source Credit
+
+*([Pub. L. 89–73, title VII, § 705](https://www.govinfo.gov/link/plaw/89/public/73), as added [Pub. L. 102–375, title VII, § 701](https://www.govinfo.gov/link/plaw/102/public/375), Sept. 30, 1992, [106 Stat. 1273](https://www.govinfo.gov/link/statute/106/1273); amended [Pub. L. 103–171, § 3(a)(13)](https://www.govinfo.gov/link/plaw/103/public/171), Dec. 2, 1993, [107 Stat. 1990](https://www.govinfo.gov/link/statute/107/1990); [Pub. L. 106–501, title VII, § 703](https://www.govinfo.gov/link/plaw/106/public/501), Nov. 13, 2000, [114 Stat. 2289](https://www.govinfo.gov/link/statute/114/2289).)*

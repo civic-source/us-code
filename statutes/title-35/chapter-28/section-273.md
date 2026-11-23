@@ -3,9 +3,10 @@ title: "Section 273 - Defense to infringement based on prior commercial use"
 usc_title: 35
 usc_section: "273"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "35 U.S.C. § 273"
-generated_at: "2026-03-30T02:55:34.239Z"
+generated_at: "2026-11-23T20:26:49.141Z"
+status: "active"
 ---
 
 # § 273. Defense to infringement based on prior commercial use
@@ -33,3 +34,45 @@ generated_at: "2026-03-30T02:55:34.239Z"
     - **(B)** Subparagraph (A) shall not apply if any of the activities required to reduce to practice the subject matter of the claimed invention could not have been undertaken using funds provided by the Federal Government.
 - **(f)** If the defense under this section is pleaded by a person who is found to infringe the patent and who subsequently fails to demonstrate a reasonable basis for asserting the defense, the court shall find the case exceptional for the purpose of awarding attorney fees under section 285.
 - **(g)** A patent shall not be deemed to be invalid under section 102 or 103 solely because a defense is raised or established under this section.
+
+In General
+
+Burden of Proof
+
+Additional Commercial Uses.—
+
+Premarketing regulatory review
+
+Nonprofit laboratory use
+
+Exhaustion of Rights
+
+Limitations and Exceptions.—
+
+Personal defense.—
+
+In general
+
+Transfer of right
+
+Restriction on sites
+
+Derivation
+
+Not a general license
+
+Abandonment of use
+
+University exception.—
+
+In general
+
+Exception
+
+Unreasonable Assertion of Defense
+
+Invalidity
+
+## Source Credit
+
+*(Added [Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4302(a)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–555; amended [Pub. L. 112–29, § 5(a)](https://www.govinfo.gov/link/plaw/112/public/29), Sept. 16, 2011, [125 Stat. 297](https://www.govinfo.gov/link/statute/125/297).)*

@@ -3,9 +3,10 @@ title: "Section 410ppp - Blackstone River Valley National Historical Park"
 usc_title: 16
 usc_section: "410ppp"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 410ppp"
-generated_at: "2026-03-30T02:54:22.782Z"
+generated_at: "2026-11-23T20:26:19.804Z"
+status: "active"
 ---
 
 # § 410ppp. Blackstone River Valley National Historical Park
@@ -79,3 +80,7 @@ generated_at: "2026-03-30T02:54:22.782Z"
       - **(i)** the role of John H. Chafee in the preservation of the resources of the Blackstone River Valley and the heritage corridor that bears the name of John H. Chafee; and
       - **(ii)** the decades of the service of John H. Chafee to the people of Rhode Island and the United States.
     - **(B)** The Secretary shall display a memorial at an appropriate location in the Park that recognizes the role of John H. Chafee in preserving the resources of the Blackstone River Valley for the people of the United States.
+
+## Source Credit
+
+*([Pub. L. 113–291, div. B, title XXX, § 3031](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3767](https://www.govinfo.gov/link/statute/128/3767).)*

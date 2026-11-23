@@ -3,9 +3,10 @@ title: "Section 957 - National Council on the Humanities"
 usc_title: 20
 usc_section: "957"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 957"
-generated_at: "2026-03-30T02:54:48.089Z"
+generated_at: "2026-11-23T20:26:14.282Z"
+status: "active"
 ---
 
 # § 957. National Council on the Humanities
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:48.089Z"
 - **(d)** The Council shall meet at the call of the Chairperson but not less often than twice during each calendar year. Fourteen members of the Council shall constitute a quorum.
 - **(e)** Members shall receive compensation at a rate to be fixed by the Chairperson but not to exceed the per diem equivalent of the rate authorized for grade GS–18 by section 5332 of title 5 and be allowed travel expenses including per diem in lieu of subsistence, as authorized by law ( section 5703 of title 5 ) for persons in the Government service employed intermittently.
 - **(f)** The Council shall (1) advise the Chairperson with respect to policies, programs, and procedures for carrying out the Chairperson’s functions, and (2) shall review applications for financial support and make recommendations thereon to the Chairperson. The Chairperson shall not approve or disapprove any such application until the Chairperson has received the recommendation of the Council on such application, unless the Council fails to make a recommendation thereon within a reasonable time. In the case of any application involving $30,000, or less, the Chairperson may approve or disapprove such request if such action is taken pursuant to the terms of a delegation of authority from the Council to the Chairperson, and provided that each such action by the Chairperson shall be reviewed by the Council: Provided , That the terms of any such delegation of authority shall not permit obligations for expenditure of funds under such delegation for any fiscal year which exceed an amount equal to 10 per centum of the sums appropriated for that fiscal year pursuant to subparagraph (B) of paragraph (1) of section 960(a) of this title .
+
+## Source Credit
+
+*([Pub. L. 89–209, § 8](https://www.govinfo.gov/link/plaw/89/public/209), Sept. 29, 1965, [79 Stat. 851](https://www.govinfo.gov/link/statute/79/851); [Pub. L. 90–348, § 4](https://www.govinfo.gov/link/plaw/90/public/348), June 18, 1968, [82 Stat. 186](https://www.govinfo.gov/link/statute/82/186); [Pub. L. 91–346, § 5(c)](https://www.govinfo.gov/link/plaw/91/public/346), July 20, 1970, [84 Stat. 444](https://www.govinfo.gov/link/statute/84/444); [Pub. L. 93–133, § 2(a)(7)](https://www.govinfo.gov/link/plaw/93/public/133), Oct. 19, 1973, [87 Stat. 464](https://www.govinfo.gov/link/statute/87/464); [Pub. L. 94–462, title I, § 103(b)](https://www.govinfo.gov/link/plaw/94/public/462), Oct. 8, 1976, [90 Stat. 1971](https://www.govinfo.gov/link/statute/90/1971); [Pub. L. 96–496, title I, § 105](https://www.govinfo.gov/link/plaw/96/public/496), Dec. 4, 1980, [94 Stat. 2587](https://www.govinfo.gov/link/statute/94/2587); renumbered title I, § 8, and amended [Pub. L. 98–306](https://www.govinfo.gov/link/plaw/98/public/306), §§ 2, 5(b), May 31, 1984, [98 Stat. 223](https://www.govinfo.gov/link/statute/98/223), 224; renumbered § 8 and amended [Pub. L. 99–194, title I](https://www.govinfo.gov/link/plaw/99/public/194), §§ 101(1), 108, Dec. 20, 1985, [99 Stat. 1332](https://www.govinfo.gov/link/statute/99/1332), 1338.)*

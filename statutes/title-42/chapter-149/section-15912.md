@@ -3,9 +3,10 @@ title: "Section 15912 - Comprehensive inventory of OCS oil and natural gas resou
 usc_title: 42
 usc_section: "15912"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 15912"
-generated_at: "2026-03-30T02:56:11.463Z"
+generated_at: "2026-11-23T20:27:23.585Z"
+status: "active"
 ---
 
 # § 15912. Comprehensive inventory of OCS oil and natural gas resources
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.463Z"
   - **(4)** estimate the effect that understated oil and gas resource inventories have on domestic energy investments; and
   - **(5)** identify and explain how legislative, regulatory, and administrative programs or processes restrict or impede the development of identified resources and the extent that they affect domestic supply, such as moratoria, lease terms and conditions, operational stipulations and requirements, approval delays by the Federal Government and coastal States, and local zoning restrictions for onshore processing facilities and pipeline landings.
 - **(b)** The Secretary shall submit a report to Congress on the inventory of estimates and the analysis of restrictions or impediments, together with any recommendations, within 6 months of August 8, 2005 . The report shall be publicly available and updated at least every 5 years.
+
+## Source Credit
+
+*([Pub. L. 109–58, title III, § 357](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 720](https://www.govinfo.gov/link/statute/119/720).)*

@@ -3,9 +3,10 @@ title: "Section 179D - Energy efficient commercial buildings deduction"
 usc_title: 26
 usc_section: "179D"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 179D"
-generated_at: "2026-03-30T02:55:27.649Z"
+generated_at: "2026-11-23T20:26:45.488Z"
+status: "active"
 ---
 
 # § 179D. Energy efficient commercial buildings deduction
@@ -100,3 +101,11 @@ generated_at: "2026-03-30T02:55:27.649Z"
   - **(1)** to take into account new technologies regarding energy efficiency and renewable energy for purposes of determining energy efficiency and savings under this section, and
   - **(2)** to provide for a recapture of the deduction allowed under this section if the plan described in subsection (c)(1)(D) is not fully implemented.
 - **(i)** This section shall not apply with respect to property the construction of which begins after June 30, 2026 .
+
+In general
+
+Alternative deduction for energy efficient building retrofit property
+
+## Source Credit
+
+*(Added [Pub. L. 109–58, title XIII, § 1331(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 1020](https://www.govinfo.gov/link/statute/119/1020); amended [Pub. L. 109–432, div. A, title II, § 204](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 2945](https://www.govinfo.gov/link/statute/120/2945); [Pub. L. 110–343, div. B, title III, § 303](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3845](https://www.govinfo.gov/link/statute/122/3845); [Pub. L. 113–295, div. A, title I, § 158(a)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4022](https://www.govinfo.gov/link/statute/128/4022); [Pub. L. 114–113, div. Q, title I, § 190(a)](https://www.govinfo.gov/link/plaw/114/public/113), title III, § 341(a), (b), Dec. 18, 2015, [129 Stat. 3075](https://www.govinfo.gov/link/statute/129/3075), 3113; [Pub. L. 115–123, div. D, title I, § 40413(a)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 151](https://www.govinfo.gov/link/statute/132/151); [Pub. L. 115–141, div. U, title IV, § 401(a)(54)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1186](https://www.govinfo.gov/link/statute/132/1186); [Pub. L. 116–94, div. Q, title I, § 131(a)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3232](https://www.govinfo.gov/link/statute/133/3232); [Pub. L. 116–260, div. EE, title I, § 102(a)](https://www.govinfo.gov/link/plaw/116/public/260) –(c), Dec. 27, 2020, [134 Stat. 3039](https://www.govinfo.gov/link/statute/134/3039), 3040; [Pub. L. 117–169, title I, § 13303(a)](https://www.govinfo.gov/link/plaw/117/public/169), (c), Aug. 16, 2022, [136 Stat. 1947](https://www.govinfo.gov/link/statute/136/1947), 1952; [Pub. L. 119–21, title VII, § 70507](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 251](https://www.govinfo.gov/link/statute/139/251).)*

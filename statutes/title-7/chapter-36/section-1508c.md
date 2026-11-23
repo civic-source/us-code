@@ -3,9 +3,10 @@ title: "Section 1508c - Peanut revenue crop insurance"
 usc_title: 7
 usc_section: "1508c"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1508c"
-generated_at: "2026-03-30T02:53:42.321Z"
+generated_at: "2026-11-23T20:25:41.183Z"
+status: "active"
 ---
 
 # § 1508c. Peanut revenue crop insurance
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:42.321Z"
   - **(2)** If an adjustment is made under paragraph (1), the Risk Management Agency and the Corporation shall—
     - **(A)** make the adjustment in an open and transparent manner; and
     - **(B)** submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the reasons for the adjustment.
+
+## Source Credit
+
+*(Feb. 16, 1938, ch. 30, title V, § 508C, as added [Pub. L. 113–79, title XI, § 11018](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 966](https://www.govinfo.gov/link/statute/128/966).)*

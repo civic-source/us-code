@@ -3,9 +3,10 @@ title: "Section 8155 - Pilot programs; grants to medical schools"
 usc_title: 38
 usc_section: "8155"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 8155"
-generated_at: "2026-03-30T02:55:53.539Z"
+generated_at: "2026-11-23T20:27:02.082Z"
+status: "active"
 ---
 
 # § 8155. Pilot programs; grants to medical schools
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:53.539Z"
 - **(d)** The Secretary, after consultation with the Subcommittee shall prescribe regulations covering the terms and conditions for making grants under this section.
 - **(e)** Each recipient of a grant under this section shall keep such records as the Secretary may prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such grant, the total cost of the project or undertaking in connection with which such grant is made or used, and the amount of that portion of the cost of the project or undertaking supplied by other sources, and such records as will facilitate an effective audit.
 - **(f)** The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access, for the purpose of audit and examination, to any books, documents, papers, and records of the recipient of any grant under this section which are pertinent to any such grant.
+
+## Source Credit
+
+*(Added [Pub. L. 89–785, title II, § 203](https://www.govinfo.gov/link/plaw/89/public/785), Nov. 7, 1966, [80 Stat. 1375](https://www.govinfo.gov/link/statute/80/1375), § 5055; amended [Pub. L. 92–69](https://www.govinfo.gov/link/plaw/92/public/69), Aug. 6, 1971, [85 Stat. 178](https://www.govinfo.gov/link/statute/85/178); [Pub. L. 94–424, § 1(2)](https://www.govinfo.gov/link/plaw/94/public/424), Sept. 28, 1976, [90 Stat. 1332](https://www.govinfo.gov/link/statute/90/1332); [Pub. L. 94–581, title II](https://www.govinfo.gov/link/plaw/94/public/581), §§ 206(e), 210(e)(13), Oct. 21, 1976, [90 Stat. 2859](https://www.govinfo.gov/link/statute/90/2859), 2865; [Pub. L. 96–151, title I, § 102(b)](https://www.govinfo.gov/link/plaw/96/public/151), Dec. 20, 1979, [93 Stat. 1092](https://www.govinfo.gov/link/statute/93/1092); renumbered § 8155 and amended [Pub. L. 102–40, title IV, § 402(b)(1)](https://www.govinfo.gov/link/plaw/102/public/40), (d)(1), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238), 239; [Pub. L. 102–83, § 4(a)(3)](https://www.govinfo.gov/link/plaw/102/public/83), (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404](https://www.govinfo.gov/link/statute/105/404), 405; [Pub. L. 102–405, title III, § 302(c)(1)](https://www.govinfo.gov/link/plaw/102/public/405), Oct. 9, 1992, [106 Stat. 1984](https://www.govinfo.gov/link/statute/106/1984); [Pub. L. 103–446, title XII, § 1201(d)(19)](https://www.govinfo.gov/link/plaw/103/public/446), Nov. 2, 1994, [108 Stat. 4684](https://www.govinfo.gov/link/statute/108/4684).)*

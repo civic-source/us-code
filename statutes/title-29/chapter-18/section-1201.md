@@ -3,9 +3,10 @@ title: "Section 1201 - Procedures in connection with the issuance of certain det
 usc_title: 29
 usc_section: "1201"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1201"
-generated_at: "2026-03-30T02:55:18.727Z"
+generated_at: "2026-11-23T20:26:38.004Z"
+status: "active"
 ---
 
 # § 1201. Procedures in connection with the issuance of certain determination letters by the Secretary of the Treasury covering qualifications under Internal Revenue Code
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:18.727Z"
 - **(c)** The Pension Benefit Guaranty Corporation and, upon petition of a group of employees referred to in subsection (b)(2), the Secretary of Labor, may intervene in any action brought for declaratory judgment under section 7476 of title 26 in accordance with the provisions of such section. The Pension Benefit Guaranty Corporation is permitted to bring an action under such section 7476 under such rules as may be prescribed by the United States Tax Court.
 - **(d)** If the Secretary of the Treasury determines that a plan or trust to which this section applies meets the applicable requirements of part I of subchapter D of chapter 1 of title 26 and issues a determination letter to the applicant, the Secretary shall notify the Secretary of Labor of his determination and furnish such information and material relating to the application and determination held by the Secretary of the Treasury as the Secretary of Labor may request for the proper administration of subchapter I of this chapter. The Secretary of Labor shall accept the determination of the Secretary of the Treasury as prima facie evidence of initial compliance by the plan with the standards of parts 2, 3, and 4 of subtitle B of subchapter I of this chapter. The determination of the Secretary of the Treasury shall not be prima facie evidence on issues relating solely to part 4 of subtitle B of subchapter I. If an application for such a determination is withdrawn, or if the Secretary of the Treasury issues a determination that the plan or trust does not meet the requirements of such part I, the Secretary shall notify the Secretary of Labor of the withdrawal or determination.
 - **(e)** This section does not apply with respect to an application for any plan received by the Secretary of the Treasury before the date on which section 410 of title 26 applies to the plan, or on which such section will apply if the plan is determined by the Secretary to be a qualified plan.
+
+## Source Credit
+
+*([Pub. L. 93–406, title III, § 3001](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 995](https://www.govinfo.gov/link/statute/88/995); [Pub. L. 100–203, title IX, § 9343(b)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–372](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 101–239, title VII, § 7891(a)(1)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2445](https://www.govinfo.gov/link/statute/103/2445).)*

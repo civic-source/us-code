@@ -3,9 +3,10 @@ title: "Section 294n - Health professions workforce information and analysis"
 usc_title: 42
 usc_section: "294n"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 294n"
-generated_at: "2026-03-30T02:56:10.779Z"
+generated_at: "2026-11-23T20:27:20.388Z"
+status: "active"
 ---
 
 # § 294n. Health professions workforce information and analysis
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:56:10.779Z"
     - **(C)** To carry out subsection (d), there are authorized to be appropriated such sums as may be necessary for fiscal years 2010 through 2014.
   - **(2)** Of the amounts appropriated under paragraph (1) for a fiscal year, the Secretary shall reserve not less than $600,000 for conducting health professions research and for carrying out data collection and analysis in accordance with section 295k of this title .
   - **(3)** Amounts otherwise appropriated for programs or activities under this subchapter may be used for activities under subsection (b) with respect to the programs or activities from which such amounts were made available.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 761, as added [Pub. L. 105–392, title I, § 104(a)](https://www.govinfo.gov/link/plaw/105/public/392), Nov. 13, 1998, [112 Stat. 3552](https://www.govinfo.gov/link/statute/112/3552); amended [Pub. L. 111–148, title V, § 5103(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 603](https://www.govinfo.gov/link/statute/124/603); [Pub. L. 116–136, div. A, title III, § 3401(9)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 386](https://www.govinfo.gov/link/statute/134/386).)*

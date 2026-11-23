@@ -3,9 +3,10 @@ title: "Section 741 - Definitions"
 usc_title: 6
 usc_section: "741"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 741"
-generated_at: "2026-03-30T02:53:09.499Z"
+generated_at: "2026-11-23T20:25:34.860Z"
+status: "active"
 ---
 
 # § 741. Definitions
@@ -26,3 +27,7 @@ In this part:
   - **(12)** The term “resources” has the meaning given that term in section 311 of this title .
   - **(13)** The term “type” means a classification of resources that refers to the capability of a resource.
   - **(14)** The terms “typed” and “typing” have the meanings given those terms in section 311 of this title .
+
+## Source Credit
+
+*([Pub. L. 109–295, title VI, § 641](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1424](https://www.govinfo.gov/link/statute/120/1424); [Pub. L. 110–53, title IV, § 401(b)](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 302](https://www.govinfo.gov/link/statute/121/302).)*

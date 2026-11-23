@@ -3,12 +3,17 @@ title: "Section 672 - Notice of petition for dumping grounds, etc.; hearing"
 usc_title: 33
 usc_section: "672"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 672"
-generated_at: "2026-03-30T02:55:41.066Z"
+generated_at: "2026-11-23T20:26:53.881Z"
+status: "active"
 ---
 
 # § 672. Notice of petition for dumping grounds, etc.; hearing
 
 A notice specifying briefly the contents of said petition and fixing a time previous to which all proofs are to be submitted shall be published by said commission in some newspaper or newspapers of general circulation in the communities interested in the matter set forth therein. If published in a daily paper such publication shall continue for at least ten days; if in a weekly paper in at least three issues of the same. Pending publication thereof said commission, or a committee thereof, shall examine the mine and premises described in such petition. On or before the time so fixed all parties interested, either as petitioners or contestants, whether miners or agriculturists, may file affidavits, plans, and maps in support of their respective claims. Further hearings, upon notice to all parties of record, may be granted by the commission when necessary.
 
+
+## Source Credit
+
+*(Mar. 1, 1893, ch. 183, § 12, [27 Stat. 508](https://www.govinfo.gov/link/statute/27/508).)*

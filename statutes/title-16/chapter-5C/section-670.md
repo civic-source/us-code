@@ -3,9 +3,10 @@ title: "Section 670 - Definitions"
 usc_title: 16
 usc_section: "670"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 670"
-generated_at: "2026-03-30T02:54:22.892Z"
+generated_at: "2026-11-23T20:26:20.217Z"
+status: "active"
 ---
 
 # § 670. Definitions
@@ -21,3 +22,7 @@ In this subchapter:
   - **(4)** The term “State fish and wildlife agency” means the one or more agencies of State government that are responsible under State law for managing fish or wildlife resources.
   - **(5)** The term “United States” means the States, the District of Columbia, and the territories and possessions of the United States.
   - **(6)** The term “Indian tribe” means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act ( 43 U.S.C. 1601 et seq.), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+
+## Source Credit
+
+*([Pub. L. 86–797, title I, § 100](https://www.govinfo.gov/link/plaw/86/public/797), as added [Pub. L. 105–85, div. B, title XXIX, § 2911](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 2021](https://www.govinfo.gov/link/statute/111/2021); amended [Pub. L. 112–81, div. A, title III, § 312(a)(1)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1351](https://www.govinfo.gov/link/statute/125/1351); [Pub. L. 112–239, div. A, title III, § 312(b)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1691](https://www.govinfo.gov/link/statute/126/1691).)*

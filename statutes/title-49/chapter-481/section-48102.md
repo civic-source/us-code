@@ -3,9 +3,10 @@ title: "Section 48102 - Research and development"
 usc_title: 49
 usc_section: "48102"
 chapter: 481
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 48102"
-generated_at: "2026-03-30T02:56:19.408Z"
+generated_at: "2026-11-23T20:27:35.341Z"
+status: "active"
 ---
 
 # § 48102. Research and development
@@ -107,3 +108,148 @@ generated_at: "2026-03-30T02:56:19.408Z"
     - **(B)** the scientific and technical merit of the proposed research; and
     - **(C)** the potential for participation by undergraduate students in the proposed research.
   - **(4)** Grants shall be awarded under this subsection on the basis of evaluation of proposals through a competitive, merit-based process.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 48102(a) | 49 App.:2202(a)(24). | Sept. 3, 1982 , Pub. L. 97–248, § 503(a)(24) , 96 Stat. 674 ; Dec. 30, 1987 , Pub. L. 100–223, § 103(c)(1) , 101 Stat. 1488 . |
+|  | 49 App.:2205(b)(2) (1st sentence). | Sept. 3, 1982 , Pub. L. 97–248, § 506(b)(2) , 96 Stat. 678 ; restated Dec. 30, 1987 , Pub. L. 100–223, § 105(b)(1) , 101 Stat. 1490 ; Nov. 3, 1988 , Pub. L. 100–591, § 7 , 102 Stat. 3014 ; Nov. 5, 1990 , Pub. L. 101–508, § 9202 , 104 Stat. 1388–372 ; Oct. 31, 1992 , Pub. L. 102–581, § 302 , 106 Stat. 4895 . |
+| 48102(b) | 49 App.:2205(b)(2) (last sentence). |  |
+| 48102(c) | 49 App.:2205(b)(3). | Sept. 3, 1982 , Pub. L. 97–248, § 506(b)(3) , (5), 96 Stat. 678 ; restated Dec. 30, 1987 , Pub. L. 100–223, § 105(b)(1) , 101 Stat. 1491 . |
+| 48102(d) | 49 App.:2205(b)(4). | Sept. 30, 1982 , Pub. L. 97–248, § 506(b)(4) , 96 Stat. 678 ; restated Dec. 30, 1987 , Pub. L. 100–223, § 105(b)(1) , 101 Stat. 1491 ; Nov. 5, 1990 , Pub. L. 101–508, § 9203 , 104 Stat. 1388–373 . |
+| 48102(e) | 49 App.:1353 (note). | Nov. 3, 1988 , Pub. L. 100–591, § 8(d) , 102 Stat. 3016 ; Nov. 17, 1988 , Pub. L. 100–685, § 604 , 102 Stat. 4103 . |
+| 48102(f) | 49 App.:2205(b)(5). |  |
+
+
+Authorization of Appropriations
+
+Research Priorities
+
+Transfers Between Categories
+
+Airport Capacity Research and Development
+
+Air Traffic Controller Performance Research
+
+Availability of Amounts
+
+Annual Submission of the National Aviation Research Plan
+
+Research Grants Program Involving Undergraduate Students.—
+
+Establishment
+
+Notice of criteria
+
+Principal criteria
+
+Competitive, merit-based evaluation
+
+Historical and Revision Notes
+
+48102(a)
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 503(a)(24)
+
+96 Stat. 674
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 103(c)(1)
+
+101 Stat. 1488
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 506(b)(2)
+
+96 Stat. 678
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 105(b)(1)
+
+101 Stat. 1490
+
+Nov. 3, 1988
+
+Pub. L. 100–591, § 7
+
+102 Stat. 3014
+
+Nov. 5, 1990
+
+Pub. L. 101–508, § 9202
+
+104 Stat. 1388–372
+
+Oct. 31, 1992
+
+Pub. L. 102–581, § 302
+
+106 Stat. 4895
+
+48102(b)
+
+48102(c)
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 506(b)(3)
+
+96 Stat. 678
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 105(b)(1)
+
+101 Stat. 1491
+
+48102(d)
+
+Sept. 30, 1982
+
+Pub. L. 97–248, § 506(b)(4)
+
+96 Stat. 678
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 105(b)(1)
+
+101 Stat. 1491
+
+Nov. 5, 1990
+
+Pub. L. 101–508, § 9203
+
+104 Stat. 1388–373
+
+48102(e)
+
+Nov. 3, 1988
+
+Pub. L. 100–591, § 8(d)
+
+102 Stat. 3016
+
+Nov. 17, 1988
+
+Pub. L. 100–685, § 604
+
+102 Stat. 4103
+
+48102(f)
+
+Research Priorities
+
+Availability for Research
+
+Reprogramming
+
+Notice of Reorganization
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1294](https://www.govinfo.gov/link/statute/108/1294); [Pub. L. 103–305, title III, § 302](https://www.govinfo.gov/link/plaw/103/public/305), Aug. 23, 1994, [108 Stat. 1589](https://www.govinfo.gov/link/statute/108/1589); [Pub. L. 104–264, title XI](https://www.govinfo.gov/link/plaw/104/public/264), §§ 1102, 1103, Oct. 9, 1996, [110 Stat. 3278](https://www.govinfo.gov/link/statute/110/3278); [Pub. L. 104–287, § 5(9)](https://www.govinfo.gov/link/plaw/104/public/287), (74), Oct. 11, 1996, [110 Stat. 3389](https://www.govinfo.gov/link/statute/110/3389), 3396; [Pub. L. 105–155](https://www.govinfo.gov/link/plaw/105/public/155), §§ 2, 3, Feb. 11, 1998, [112 Stat. 5](https://www.govinfo.gov/link/statute/112/5); [Pub. L. 106–181, title IX, § 901](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 194](https://www.govinfo.gov/link/statute/114/194); [Pub. L. 108–176, title VII](https://www.govinfo.gov/link/plaw/108/public/176), §§ 701, 707, Dec. 12, 2003, [117 Stat. 2574](https://www.govinfo.gov/link/statute/117/2574), 2582; [Pub. L. 110–330, § 8](https://www.govinfo.gov/link/plaw/110/public/330), Sept. 30, 2008, [122 Stat. 3719](https://www.govinfo.gov/link/statute/122/3719); [Pub. L. 111–12, § 8](https://www.govinfo.gov/link/plaw/111/public/12), Mar. 30, 2009, [123 Stat. 1459](https://www.govinfo.gov/link/statute/123/1459); [Pub. L. 111–69, § 8](https://www.govinfo.gov/link/plaw/111/public/69), Oct. 1, 2009, [123 Stat. 2056](https://www.govinfo.gov/link/statute/123/2056); [Pub. L. 111–116, § 8](https://www.govinfo.gov/link/plaw/111/public/116), Dec. 16, 2009, [123 Stat. 3033](https://www.govinfo.gov/link/statute/123/3033); [Pub. L. 111–153, § 8](https://www.govinfo.gov/link/plaw/111/public/153), Mar. 31, 2010, [124 Stat. 1086](https://www.govinfo.gov/link/statute/124/1086); [Pub. L. 111–161, § 8](https://www.govinfo.gov/link/plaw/111/public/161), Apr. 30, 2010, [124 Stat. 1128](https://www.govinfo.gov/link/statute/124/1128); [Pub. L. 111–197, § 8](https://www.govinfo.gov/link/plaw/111/public/197), July 2, 2010, [124 Stat. 1355](https://www.govinfo.gov/link/statute/124/1355); [Pub. L. 111–216, title I, § 107](https://www.govinfo.gov/link/plaw/111/public/216), Aug. 1, 2010, [124 Stat. 2350](https://www.govinfo.gov/link/statute/124/2350); [Pub. L. 112–30, title II, § 208](https://www.govinfo.gov/link/plaw/112/public/30), Sept. 16, 2011, [125 Stat. 359](https://www.govinfo.gov/link/statute/125/359); [Pub. L. 112–91, § 8](https://www.govinfo.gov/link/plaw/112/public/91), Jan. 31, 2012, [126 Stat. 4](https://www.govinfo.gov/link/statute/126/4); [Pub. L. 112–95, title IX, § 901(a)](https://www.govinfo.gov/link/plaw/112/public/95), (b), Feb. 14, 2012, [126 Stat. 137](https://www.govinfo.gov/link/statute/126/137); [Pub. L. 114–55, title I, § 105](https://www.govinfo.gov/link/plaw/114/public/55), Sept. 30, 2015, [129 Stat. 524](https://www.govinfo.gov/link/statute/129/524); [Pub. L. 114–141, title I, § 105](https://www.govinfo.gov/link/plaw/114/public/141), Mar. 30, 2016, [130 Stat. 324](https://www.govinfo.gov/link/statute/130/324); [Pub. L. 114–190, title I, § 1105](https://www.govinfo.gov/link/plaw/114/public/190), July 15, 2016, [130 Stat. 618](https://www.govinfo.gov/link/statute/130/618); [Pub. L. 115–63, title I, § 106](https://www.govinfo.gov/link/plaw/115/public/63), Sept. 29, 2017, [131 Stat. 1170](https://www.govinfo.gov/link/statute/131/1170); [Pub. L. 115–141, div. M, title I, § 106](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1047](https://www.govinfo.gov/link/statute/132/1047); [Pub. L. 115–254, div. B, title VII, § 703](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3409](https://www.govinfo.gov/link/statute/132/3409); [Pub. L. 118–15, div. B, title II, § 2205](https://www.govinfo.gov/link/plaw/118/public/15), Sept. 30, 2023, [137 Stat. 84](https://www.govinfo.gov/link/statute/137/84); [Pub. L. 118–34, title I, § 105](https://www.govinfo.gov/link/plaw/118/public/34), Dec. 26, 2023, [137 Stat. 1115](https://www.govinfo.gov/link/statute/137/1115); [Pub. L. 118–41, title I, § 105](https://www.govinfo.gov/link/plaw/118/public/41), Mar. 8, 2024, [138 Stat. 23](https://www.govinfo.gov/link/statute/138/23); [Pub. L. 118–63, title X](https://www.govinfo.gov/link/plaw/118/public/63), §§ 1002, 1004(b), May 16, 2024, [138 Stat. 1386](https://www.govinfo.gov/link/statute/138/1386).)*

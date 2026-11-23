@@ -3,9 +3,10 @@ title: "Section 1 - Posthumous citizenship through death while on active-duty se
 usc_title: 8
 usc_section: "1"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1"
-generated_at: "2026-03-30T02:53:10.501Z"
+generated_at: "2026-11-23T20:25:36.233Z"
+status: "active"
 ---
 
 # § 1440–1. Posthumous citizenship through death while on active-duty service in armed forces during World War I, World War II, the Korean hostilities, the Vietnam hostilities, or in other periods of military hostilities
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:10.501Z"
     - **(B)** the request is accompanied by a duly authenticated certificate from the executive department under which the person served which states that the person satisfied the requirements of paragraphs (1) and (2) of subsection (b); and
     - **(C)** the Director finds that the person satisfied the requirement of subsection (b)(3).
 - **(d)** If the Director of the Bureau of Citizenship and Immigration Services approves the request referred to in subsection (c), the Director shall send to the next-of-kin of the person who is granted citizenship, a suitable document which states that the United States considers the person to have been a citizen of the United States at the time of the person’s death.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title III, ch. 2, § 329A, as added [Pub. L. 101–249, § 2(a)](https://www.govinfo.gov/link/plaw/101/public/249), Mar. 6, 1990, [104 Stat. 94](https://www.govinfo.gov/link/statute/104/94); [Pub. L. 107–273, div. C, title I, § 11030(b)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1836](https://www.govinfo.gov/link/statute/116/1836); [Pub. L. 108–136, div. A, title XVII](https://www.govinfo.gov/link/plaw/108/public/136), §§ 1703(g), 1704, Nov. 24, 2003, [117 Stat. 1695](https://www.govinfo.gov/link/statute/117/1695), 1696.)*

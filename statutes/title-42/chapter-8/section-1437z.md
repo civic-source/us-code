@@ -3,9 +3,10 @@ title: "Section 1437z - Exchange of information with law enforcement agencies"
 usc_title: 42
 usc_section: "1437z"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1437z"
-generated_at: "2026-03-30T02:56:11.088Z"
+generated_at: "2026-11-23T20:27:21.754Z"
+status: "active"
 ---
 
 # § 1437z. Exchange of information with law enforcement agencies
@@ -20,3 +21,7 @@ Notwithstanding any other provision of law, each public housing agency that ente
       - **(iii)** has information that is necessary for the officer to conduct the officer’s official duties;
     - **(B)** the location or apprehension of the recipient is within such officer’s official duties; and
     - **(C)** the request is made in the proper exercise of the officer’s official duties.
+
+## Source Credit
+
+*(Sept. 1, 1937, ch. 896, title I, § 28, formerly § 27, as added [Pub. L. 104–193, title IX, § 903(b)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2348](https://www.govinfo.gov/link/statute/110/2348); renumbered § 28, [Pub. L. 105–65, title V, § 562(a)(1)](https://www.govinfo.gov/link/plaw/105/public/65), Oct. 27, 1997, [111 Stat. 1416](https://www.govinfo.gov/link/statute/111/1416).)*

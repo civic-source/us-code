@@ -3,9 +3,10 @@ title: "Section 1339 - Land use"
 usc_title: 7
 usc_section: "1339"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1339"
-generated_at: "2026-03-30T02:53:42.305Z"
+generated_at: "2026-11-23T20:25:41.123Z"
+status: "active"
 ---
 
 # § 1339. Land use
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:42.305Z"
 - **(f)** The program formulated pursuant to subsection (b) of this section may include such terms and conditions, including provision for the control of erosion, in addition to those specifically provided for herein, as the Secretary determines are desirable to effectuate the purposes of this section.
 - **(g)** The Secretary is authorized to promulgate such regulations as may be desirable to carry out the provisions of this section.
 - **(h)** The Commodity Credit Corporation is authorized to utilize its capital funds and other assets for the purpose of making the payments authorized in this section and to pay administrative expenses necessary in carrying out this section during the period ending June 30, 1965 . There is authorized to be appropriated such amounts as may be necessary thereafter to pay such administrative expenses.
+
+## Source Credit
+
+*(Feb. 16, 1938, ch. 30, title III, § 339, as added [Pub. L. 87–703, title III, § 318](https://www.govinfo.gov/link/plaw/87/public/703), Sept. 27, 1962, [76 Stat. 622](https://www.govinfo.gov/link/statute/76/622); amended [Pub. L. 88–297, title II, § 202(7)](https://www.govinfo.gov/link/plaw/88/public/297) –(9), Apr. 11, 1964, [78 Stat. 179](https://www.govinfo.gov/link/statute/78/179); [Pub. L. 89–321, title V](https://www.govinfo.gov/link/plaw/89/public/321), §§ 501(9), (10), 507, Nov. 3, 1965, [79 Stat. 1201](https://www.govinfo.gov/link/statute/79/1201), 1204; [Pub. L. 90–559, § 1(1)](https://www.govinfo.gov/link/plaw/90/public/559), Oct. 11, 1968, [82 Stat. 996](https://www.govinfo.gov/link/statute/82/996).)*

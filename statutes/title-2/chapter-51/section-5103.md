@@ -3,9 +3,10 @@ title: "Section 5103 - Single per annum gross rates of allowances for personal s
 usc_title: 2
 usc_section: "5103"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 5103"
-generated_at: "2026-03-30T02:53:04.835Z"
+generated_at: "2026-11-23T20:25:29.053Z"
+status: "active"
 ---
 
 # § 5103. Single per annum gross rates of allowances for personal services in offices of Speaker, Leaders, and Whips
@@ -17,3 +18,7 @@ The allowance for additional office personnel in the office of each of the follo
   - **(3)** the Minority Leader, $55,000.
   - **(4)** the Majority Whip, $55,000.
   - **(5)** the Minority Whip, $55,000.
+
+## Source Credit
+
+*([Pub. L. 91–510, title IV, § 473](https://www.govinfo.gov/link/plaw/91/public/510), Oct. 26, 1970, [84 Stat. 1194](https://www.govinfo.gov/link/statute/84/1194).)*

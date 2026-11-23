@@ -3,9 +3,10 @@ title: "Section 606 - Federal loans for State welfare programs"
 usc_title: 42
 usc_section: "606"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 606"
-generated_at: "2026-03-30T02:56:10.872Z"
+generated_at: "2026-11-23T20:27:20.836Z"
+status: "active"
 ---
 
 # § 606. Federal loans for State welfare programs
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:10.872Z"
 - **(d)** The cumulative dollar amount of all loans made to a State under this section during fiscal years 1997 through 2003 shall not exceed 10 percent of the State family assistance grant.
 - **(e)** The total dollar amount of loans outstanding under this section may not exceed $1,700,000,000.
 - **(f)** Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated such sums as may be necessary for the cost of loans under this section.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 406, as added [Pub. L. 104–193, title I, § 103(a)(1)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2128](https://www.govinfo.gov/link/statute/110/2128); amended [Pub. L. 105–33, title V, § 5514(c)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 620](https://www.govinfo.gov/link/statute/111/620); [Pub. L. 108–40, § 3(f)](https://www.govinfo.gov/link/plaw/108/public/40), June 30, 2003, [117 Stat. 837](https://www.govinfo.gov/link/statute/117/837).)*

@@ -3,9 +3,10 @@ title: "Section 1701 - Compensation for injury or death resulting from war-risk 
 usc_title: 42
 usc_section: "1701"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1701"
-generated_at: "2026-03-30T02:56:11.107Z"
+generated_at: "2026-11-23T20:27:21.839Z"
+status: "active"
 ---
 
 # § 1701. Compensation for injury or death resulting from war-risk hazard
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.107Z"
   - **(4)** Such benefits for detention, transportation expenses of repatriated persons, and expenses of embalming, providing sealed or other appropriate container, and transportation of the body, and attendants (if required), as approved by the Secretary, shall be paid out of the compensation fund established under section 8147 of title 5 .
 - **(c)** Compensation for permanent total or permanent partial disability or for death payable under this section to persons who are not citizens of the United States and who are not residents of the United States or Canada, shall be in the same amount as provided for residents; except that dependents in any foreign country shall be limited to surviving wife or husband and child or children, or if there be no surviving wife or husband or child or children, to surviving father or mother whom such person has supported, either wholly or in part, for the period of one year immediately prior to the date of the injury; and except that the Secretary, at his option, may commute all future installments of compensation to be paid to such persons by paying to them one-half of the commuted amount of such future installments of compensation as determined by the Secretary.
 - **(d)** The provisions of this section shall not apply in the case of any person (1) whose residence is at or in the vicinity of the place of his employment, and (2) who is not living there solely by virtue of the exigencies of his employment, unless his injury or death resulting from injury occurs or his detention begins while in the course of his employment, or (3) who is a prisoner of war or a protected person under the Geneva Conventions of 1949 and who is detained or utilized by the United States.
+
+## Source Credit
+
+*(Dec. 2, 1942, ch. 668, title I, § 101, [56 Stat. 1028](https://www.govinfo.gov/link/statute/56/1028); Dec. 23, 1943, ch. 380, title I, [57 Stat. 626](https://www.govinfo.gov/link/statute/57/626); Aug. 7, 1946, ch. 805, § 1, [60 Stat. 899](https://www.govinfo.gov/link/statute/60/899); June 30, 1953, ch. 176, §§ 2, 3, [67 Stat. 135](https://www.govinfo.gov/link/statute/67/135); [Pub. L. 85–477](https://www.govinfo.gov/link/plaw/85/public/477), ch. V, § 502(g), June 30, 1958, [72 Stat. 273](https://www.govinfo.gov/link/statute/72/273); [Pub. L. 85–608, title I](https://www.govinfo.gov/link/plaw/85/public/608), §§ 101, 104, title IV, § 401, Aug. 8, 1958, [72 Stat. 536](https://www.govinfo.gov/link/statute/72/536), 537, 539; [Pub. L. 86–70, § 42(a)](https://www.govinfo.gov/link/plaw/86/public/70), June 25, 1959, [73 Stat. 151](https://www.govinfo.gov/link/statute/73/151); [Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. IV, § 702, Sept. 4, 1961, [75 Stat. 463](https://www.govinfo.gov/link/statute/75/463); [Pub. L. 98–426, § 27(d)(2)](https://www.govinfo.gov/link/plaw/98/public/426), Sept. 28, 1984, [98 Stat. 1654](https://www.govinfo.gov/link/statute/98/1654).)*

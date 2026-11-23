@@ -3,9 +3,10 @@ title: "Section 10608 - Annual report"
 usc_title: 22
 usc_section: "10608"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 10608"
-generated_at: "2026-03-30T02:55:05.478Z"
+generated_at: "2026-11-23T20:26:32.830Z"
+status: "active"
 ---
 
 # § 10608. Annual report
@@ -16,3 +17,7 @@ Not later than 360 days after December 23, 2024 , and annually thereafter while 
   - **(2)** the programs, projects, and activities supported by the Foundation;
   - **(3)** private and governmental contributions to the Foundation; and
   - **(4)** the standardized criteria utilized to determine the programs and activities supported by the Foundation, including baselines, targets, desired outcomes, measurable goals, and extent to which those goals are being achieved for each project.
+
+## Source Credit
+
+*([Pub. L. 118–159, div. E, title LI, § 5108](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2421](https://www.govinfo.gov/link/statute/138/2421).)*

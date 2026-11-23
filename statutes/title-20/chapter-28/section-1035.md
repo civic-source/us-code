@@ -3,9 +3,10 @@ title: "Section 1035 - Adjunct teacher corps"
 usc_title: 20
 usc_section: "1035"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1035"
-generated_at: "2026-03-30T02:54:48.099Z"
+generated_at: "2026-11-23T20:26:14.333Z"
+status: "active"
 ---
 
 # § 1035. Adjunct teacher corps
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:54:48.099Z"
   - **(1)** meets the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title ;
   - **(2)** has demonstrated expertise in mathematics, science, or a critical foreign language, as determined by the local educational agency; and
   - **(3)** is not the primary provider of instructional services to a student, unless the adjunct content specialist is under the direct supervision of a teacher who meets the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title .
+
+## Source Credit
+
+*([Pub. L. 89–329, title II, § 255](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title II, § 201(3)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3161](https://www.govinfo.gov/link/statute/122/3161); amended [Pub. L. 114–95, title IX, § 9214(c)(10)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2164](https://www.govinfo.gov/link/statute/129/2164).)*

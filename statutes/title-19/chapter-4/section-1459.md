@@ -3,9 +3,10 @@ title: "Section 1459 - Reporting requirements for individuals"
 usc_title: 19
 usc_section: "1459"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1459"
-generated_at: "2026-03-30T02:54:24.636Z"
+generated_at: "2026-11-23T20:26:10.765Z"
+status: "active"
 ---
 
 # § 1459. Reporting requirements for individuals
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:24.636Z"
   - **(4)** to fail to comply with, or violate, any regulation prescribed to carry out subsection (a), (b), (c), or (d) of this section.
 - **(f)** Any individual who violates any provision of subsection (e) of this section is liable for a civil penalty of $5,000 for the first violation, and $10,000 for each subsequent violation.
 - **(g)** In addition to being liable for a civil penalty under subsection (f) of this section, any individual who intentionally violates any provision of subsection (e) of this section is, upon conviction, liable for a fine of not more than $5,000, or imprisonment for not more than 1 year, or both.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 459, [46 Stat. 717](https://www.govinfo.gov/link/statute/46/717); June 25, 1938, ch. 679, § 10(a), [52 Stat. 1082](https://www.govinfo.gov/link/statute/52/1082); [Pub. L. 99–570, title III, § 3115(a)](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–82](https://www.govinfo.gov/link/statute/100/3207).)*

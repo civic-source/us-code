@@ -3,9 +3,10 @@ title: "Section 44912 - Research and development"
 usc_title: 49
 usc_section: "44912"
 chapter: 449
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44912"
-generated_at: "2026-03-30T02:56:19.391Z"
+generated_at: "2026-11-23T20:27:35.217Z"
+status: "active"
 ---
 
 # § 44912. Research and development
@@ -67,3 +68,82 @@ generated_at: "2026-03-30T02:56:19.391Z"
     - **(D)** Section 552a of title 5 shall not apply to disclosures that the Administrator of the Transportation Security Administration may make from the systems of records of the Transportation Security Administration to any Federal law enforcement, intelligence, protective service, immigration, or national security official in order to assist the official receiving the information in the performance of official duties.
   - **(3)** Except as otherwise provided by law, the Administrator may not transfer a duty or power under this section to another department, agency, or instrumentality of the United States Government.
 - **(e)** In this section, the term “Administrator” means the Administrator of the Transportation Security Administration.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 44912(a) | 49 App.:1357(d)(3)(A), (D), (4)–(7). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 316(d)(3)–(8); added Nov. 16, 1990 , Pub. L. 101–604, § 107 , 104 Stat. 3076 . |
+| 44912(b) | 49 App.:1357(d)(3)(B), (C). |  |
+| 44912(c) | 49 App.:1357(d)(8). |  |
+
+
+Program Requirement
+
+Review of Threats
+
+Scientific Advisory Panel
+
+Security and Research and Development Activities.—
+
+In general
+
+Disclosure.—
+
+In general
+
+Information to congress
+
+Rule of construction
+
+Privacy act
+
+Transfers of duties and powers prohibited
+
+Definition of Administrator
+
+Historical and Revision Notes
+
+44912(a)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Nov. 16, 1990
+
+Pub. L. 101–604, § 107
+
+104 Stat. 3076
+
+44912(b)
+
+44912(c)
+
+In General
+
+Activities
+
+Composition.—
+
+Appointment
+
+Chairperson
+
+Representation
+
+Rule of Construction
+
+Nonapplicability of FACA
+
+Funding
+
+Grants
+
+Budget Submission
+
+Defense Research
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1212](https://www.govinfo.gov/link/statute/108/1212); [Pub. L. 107–71, title I](https://www.govinfo.gov/link/plaw/107/public/71), §§ 101(f)(7), (9), 112, Nov. 19, 2001, [115 Stat. 603](https://www.govinfo.gov/link/statute/115/603), 620; [Pub. L. 115–254, div. K, title I, § 1991(d)(10)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3633](https://www.govinfo.gov/link/statute/132/3633).)*

@@ -3,9 +3,10 @@ title: "Section 24711 - Competitive passenger rail service pilot program"
 usc_title: 49
 usc_section: "24711"
 chapter: 247
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 24711"
-generated_at: "2026-03-30T02:56:19.347Z"
+generated_at: "2026-11-23T20:27:34.866Z"
+status: "active"
 ---
 
 # § 24711. Competitive passenger rail service pilot program
@@ -59,3 +60,55 @@ generated_at: "2026-03-30T02:56:19.347Z"
 - **(h)** Not more than 3 long-distance routes may be selected under this section for operation by a winning bidder that is not or does not include Amtrak.
 - **(i)** Nothing in this section shall be construed as prohibiting a State from introducing competition for intercity rail passenger transportation or services on its State-supported route or routes.
 - **(j)** Nothing in this section shall affect Amtrak’s access rights to railroad rights-of-way and facilities.
+
+In General
+
+Pilot Program Requirements.—
+
+In general
+
+Limitation
+
+Eligible petitioners
+
+Performance standards
+
+Agreement governing access issues
+
+Access to Facilities; Employees
+
+Cessation of Service
+
+Budget Authority.—
+
+In general
+
+Attributable costs
+
+Reporting
+
+Disputes.—
+
+Petitioning surface transportation board
+
+Surface transportation board determination
+
+Limitation
+
+Preservation of Right to Competition on State-Supported Routes
+
+Savings Clause
+
+Provision of Financial Incentives
+
+Conditions for Financial Incentives
+
+Amount of Financial Incentives
+
+Authorization of Appropriations
+
+Termination-Related Payments
+
+## Source Credit
+
+*(Added [Pub. L. 110–432, div. B, title II, § 214(a)](https://www.govinfo.gov/link/plaw/110/public/432), Oct. 16, 2008, [122 Stat. 4927](https://www.govinfo.gov/link/statute/122/4927); amended [Pub. L. 114–94, div. A, title XI, § 11307(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1660](https://www.govinfo.gov/link/statute/129/1660); [Pub. L. 115–420, § 7(b)(3)(A)(i)(III)](https://www.govinfo.gov/link/plaw/115/public/420), Jan. 3, 2019, [132 Stat. 5447](https://www.govinfo.gov/link/statute/132/5447).)*

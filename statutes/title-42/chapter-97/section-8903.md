@@ -3,9 +3,10 @@ title: "Section 8903 - Comprehensive research plan"
 usc_title: 42
 usc_section: "8903"
 chapter: 97
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8903"
-generated_at: "2026-03-30T02:56:11.349Z"
+generated_at: "2026-11-23T20:27:23.067Z"
+status: "active"
 ---
 
 # § 8903. Comprehensive research plan
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:11.349Z"
 - **(f)**
   - **(1)** Subsection (b)(12) shall not be construed as modifying, or as authorizing the Task Force or the comprehensive plan to modify, any provision of an appropriation Act (or any other provision of law relating to the use of appropriated funds) which specifies (A) the department or agency to which funds are appropriated, or (B) the obligations of such department or agency with respect to the use of such funds.
   - **(2)** Subsection (b)(13) shall not be construed as modifying, or as authorizing the Task Force or the comprehensive plan to modify, any provision of law (relating to or involving a department or agency) which specifies (A) procurement practices for the selection, award, or management of contracts or grants by such department or agency, or (B) program activities, limitations, obligations, or responsibilities of such department or agency.
+
+## Source Credit
+
+*([Pub. L. 96–294, title VII, § 704](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 771](https://www.govinfo.gov/link/statute/94/771).)*

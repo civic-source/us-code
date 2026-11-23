@@ -3,9 +3,10 @@ title: "Section 2902 - Definitions"
 usc_title: 16
 usc_section: "2902"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 2902"
-generated_at: "2026-03-30T02:54:23.007Z"
+generated_at: "2026-11-23T20:26:20.622Z"
+status: "active"
 ---
 
 # § 2902. Definitions
@@ -23,3 +24,7 @@ As used in this chapter—
     - **(C)** are not marine mammals within the meaning of section 1362(5) 1 1 See References in Text note below. of this title.
   - **(7)** The term “Secretary” means the Secretary of the Interior.
   - **(8)** The term “State” means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, Guam, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.
+
+## Source Credit
+
+*([Pub. L. 96–366, § 3](https://www.govinfo.gov/link/plaw/96/public/366), Sept. 29, 1980, [94 Stat. 1323](https://www.govinfo.gov/link/statute/94/1323).)*

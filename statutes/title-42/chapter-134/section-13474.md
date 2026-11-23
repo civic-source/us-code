@@ -3,9 +3,10 @@ title: "Section 13474 - Fusion energy"
 usc_title: 42
 usc_section: "13474"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13474"
-generated_at: "2026-03-30T02:56:11.445Z"
+generated_at: "2026-11-23T20:27:23.500Z"
+status: "active"
 ---
 
 # § 13474. Fusion energy
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.445Z"
   - **(4)** The plan shall also evaluate the extent to which university or private sector participation is appropriate or necessary in order to carry out the purposes of this section.
   - **(5)** The President shall include in the budget submitted to the Congress each year under section 1105 of title 31 a report prepared by the Secretary describing the progress made in meeting the program objectives, milestones, and schedules established in the management plan. Each such report shall also describe the organization of the program, the personnel assigned and funds committed to the program, and expenditures made in carrying out the program objectives. The report shall be submitted with the plan required under section 13523 of this title .
 - **(d)** There are authorized to be appropriated to the Secretary for carrying out this section $339,710,000 for fiscal year 1993 and $380,000,000 for fiscal year 1994.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XXI, § 2114](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3073](https://www.govinfo.gov/link/statute/106/3073); [Pub. L. 104–66, title I, § 1052(i)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 719](https://www.govinfo.gov/link/statute/109/719).)*

@@ -3,9 +3,10 @@ title: "Section 7113 - National consultation rights"
 usc_title: 5
 usc_section: "7113"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 7113"
-generated_at: "2026-03-30T02:52:56.035Z"
+generated_at: "2026-11-23T20:25:32.051Z"
+status: "active"
 ---
 
 # § 7113. National consultation rights
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:52:56.035Z"
     - **(A)** the agency shall consider the views or recommendations before taking final action on any matter with respect to which the views or recommendations are presented; and
     - **(B)** the agency shall provide the labor organization a written statement of the reasons for taking the final action.
 - **(c)** Nothing in this section shall be construed to limit the right of any agency or exclusive representative to engage in collective bargaining.
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title VII, § 701](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1201](https://www.govinfo.gov/link/statute/92/1201); amended [Pub. L. 102–378, § 2(55)](https://www.govinfo.gov/link/plaw/102/public/378), Oct. 2, 1992, [106 Stat. 1354](https://www.govinfo.gov/link/statute/106/1354).)*

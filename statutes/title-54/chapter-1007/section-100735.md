@@ -3,12 +3,38 @@ title: "Section 100735 - Civil actions for just compensation by mining claim hol
 usc_title: 54
 usc_section: "100735"
 chapter: 1007
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "54 U.S.C. § 100735"
-generated_at: "2026-03-30T02:56:28.413Z"
+generated_at: "2026-11-23T20:27:37.996Z"
+status: "active"
 ---
 
 # § 100735. Civil actions for just compensation by mining claim holders
 
 The holder of any patented or unpatented mining claim subject to this subchapter that believes the holder has suffered a loss by operation of this subchapter, or by orders or regulations issued pursuant to this subchapter, may bring a civil action in United States district court to recover just compensation, which shall be awarded if the court finds that the loss constitutes a taking of property compensable under the Constitution.
 
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 100735 | 16 U.S.C. 1910 . | Pub. L. 94–429, § 11 , Sept. 28, 1976 , 90 Stat. 1344 ; Pub. L. 98–620, title IV, § 402(21) , 98 Stat. 3358 . |
+
+
+Historical and Revision Notes
+
+100735
+
+16 U.S.C. 1910
+
+Pub. L. 94–429, § 11
+
+Sept. 28, 1976
+
+90 Stat. 1344
+
+Pub. L. 98–620, title IV, § 402(21)
+
+98 Stat. 3358
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3110](https://www.govinfo.gov/link/statute/128/3110).)*

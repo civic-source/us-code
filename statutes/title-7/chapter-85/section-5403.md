@@ -3,9 +3,10 @@ title: "Section 5403 - Environmental Quality Policy Statement"
 usc_title: 7
 usc_section: "5403"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 5403"
-generated_at: "2026-03-30T02:53:42.414Z"
+generated_at: "2026-11-23T20:25:41.646Z"
+status: "active"
 ---
 
 # § 5403. Environmental Quality Policy Statement
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:42.414Z"
   - **(2)** specific action taken to coordinate the environmental programs of the Department with programs of other Federal agencies and related State programs; and
   - **(3)** such recommendations as the Secretary considers appropriate regarding current or additional environmental protection programs, initiatives, or policies that will balance the needs of production agriculture while addressing environmental concerns.
 - **(d)** There are hereby authorized to be appropriated annually not to exceed $2,000,000 to carry out this chapter.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XIV, § 1473](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3620](https://www.govinfo.gov/link/statute/104/3620); [Pub. L. 102–237, title II, § 201(d)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1847](https://www.govinfo.gov/link/statute/105/1847).)*

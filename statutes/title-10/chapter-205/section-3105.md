@@ -3,9 +3,10 @@ title: "Section 3105 - Elements of the defense acquisition system: performance a
 usc_title: 10
 usc_section: "3105"
 chapter: 205
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 3105"
-generated_at: "2026-03-30T02:53:38.188Z"
+generated_at: "2026-11-23T20:25:51.803Z"
+status: "active"
 ---
 
 # § 3105. Elements of the defense acquisition system: performance assessments
@@ -45,3 +46,13 @@ generated_at: "2026-03-30T02:53:38.188Z"
   - **(6)** procedures for tracking the implementation of recommendations made pursuant to performance assessments;
   - **(7)** procedures for developing and disseminating lessons learned from performance assessments; and
   - **(8)** procedures for ensuring that information from performance assessments are retained electronically and are provided in a timely manner to the Under Secretary of Defense for Acquisition and Sustainment and the Director of the Office of Performance Assessment and Root Cause Analysis as needed to assist them in performing their responsibilities under this section.
+
+Performance Assessments Required
+
+Areas Considered in Performance Assessments
+
+Contents of Guidance
+
+## Source Credit
+
+*(Added [Pub. L. 111–383, div. A, title VIII, § 861(a)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4289](https://www.govinfo.gov/link/statute/124/4289), § 2548; amended [Pub. L. 112–239, div. A, title X, § 1076(d)(5)](https://www.govinfo.gov/link/plaw/112/public/239), (f)(30), Jan. 2, 2013, [126 Stat. 1951](https://www.govinfo.gov/link/statute/126/1951), 1953; [Pub. L. 115–91, div. A, title X, § 1081(a)(41)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1596](https://www.govinfo.gov/link/statute/131/1596); [Pub. L. 116–92, div. A, title IX, § 902(79)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1553](https://www.govinfo.gov/link/statute/133/1553); renumbered § 3105 and amended [Pub. L. 116–283, div. A, title XVIII, § 1808(a)(2)](https://www.govinfo.gov/link/plaw/116/public/283), (b)(3), (c)(1)(A), (2), Jan. 1, 2021, [134 Stat. 4159](https://www.govinfo.gov/link/statute/134/4159), 4160.)*

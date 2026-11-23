@@ -3,9 +3,10 @@ title: "Section 2211 - Congressional advisers for trade policy and negotiations"
 usc_title: 19
 usc_section: "2211"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2211"
-generated_at: "2026-03-30T02:54:24.666Z"
+generated_at: "2026-11-23T20:26:10.918Z"
+status: "active"
 ---
 
 # § 2211. Congressional advisers for trade policy and negotiations
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:24.666Z"
   - **(2)** The implementation, administration, and effectiveness of recently concluded multilateral and bilateral trade agreements and resolution of trade disputes.
   - **(3)** The actions taken, and proposed to be taken, under the trade laws of the United States and the effectiveness, or anticipated effectiveness, of such actions in achieving trade policy objectives.
   - **(4)** The important developments and issues in other areas of trade for which there must be developed proper policy response.
+
+## Source Credit
+
+*([Pub. L. 93–618, title I, § 161](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 2008](https://www.govinfo.gov/link/statute/88/2008); [Pub. L. 96–39, § 3(e)](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 150](https://www.govinfo.gov/link/statute/93/150); [Pub. L. 100–418, title I, § 1632](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1269](https://www.govinfo.gov/link/statute/102/1269).)*

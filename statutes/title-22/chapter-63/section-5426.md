@@ -3,9 +3,10 @@ title: "Section 5426 - United States policy of private financial support for Pol
 usc_title: 22
 usc_section: "5426"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 5426"
-generated_at: "2026-03-30T02:55:05.418Z"
+generated_at: "2026-11-23T20:26:32.563Z"
+status: "active"
 ---
 
 # § 5426. United States policy of private financial support for Polish and Hungarian credit unions
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:05.418Z"
   - **(2)** the term “federally insured depository institution” means—
     - **(A)** any insured depository institution (as defined in section 1813(c)(2) of title 12 ); and
     - **(B)** any insured credit union (as defined in section 1752(7) of title 12 ).
+
+## Source Credit
+
+*([Pub. L. 101–179, title II, § 206](https://www.govinfo.gov/link/plaw/101/public/179), Nov. 28, 1989, [103 Stat. 1310](https://www.govinfo.gov/link/statute/103/1310).)*

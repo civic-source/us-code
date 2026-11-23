@@ -3,9 +3,10 @@ title: "Section 1098a - Regional meetings and negotiated rulemaking"
 usc_title: 20
 usc_section: "1098a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1098a"
-generated_at: "2026-03-30T02:54:48.139Z"
+generated_at: "2026-11-23T20:26:14.534Z"
+status: "active"
 ---
 
 # § 1098a. Regional meetings and negotiated rulemaking
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:48.139Z"
   - **(2)** All regulations pertaining to this subchapter that are promulgated after October 7, 1998 , shall be subject to a negotiated rulemaking (including the selection of the issues to be negotiated), unless the Secretary determines that applying such a requirement with respect to given regulations is impracticable, unnecessary, or contrary to the public interest (within the meaning of section 553(b)(3)(B) of title 5 ), and publishes the basis for such determination in the Federal Register at the same time as the proposed regulations in question are first published. All published proposed regulations shall conform to agreements resulting from such negotiated rulemaking unless the Secretary reopens the negotiated rulemaking process or provides a written explanation to the participants in that process why the Secretary has decided to depart from such agreements. Such negotiated rulemaking shall be conducted in accordance with the provisions of paragraph (1), and the Secretary shall ensure that a clear and reliable record of agreements reached during the negotiations process is maintained.
 - **(c)** Chapter 10 of title 5 shall not apply to activities carried out under this section.
 - **(d)** There are authorized to be appropriated in any fiscal year or made available from funds appropriated to carry out this part in any fiscal year such sums as may be necessary to carry out the provisions of this section, except that if no funds are appropriated pursuant to this subsection, the Secretary shall make funds available to carry out this section from amounts appropriated for the operations and expenses of the Department of Education.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 492](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 102–325, title IV, § 497](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 633](https://www.govinfo.gov/link/statute/106/633); amended [Pub. L. 105–244, title IV, § 490D](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1755](https://www.govinfo.gov/link/statute/112/1755); [Pub. L. 110–315, title IV, § 494D](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3324](https://www.govinfo.gov/link/statute/122/3324); [Pub. L. 111–39, title IV, § 407(b)(12)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1953](https://www.govinfo.gov/link/statute/123/1953); [Pub. L. 117–286, § 4(a)(148)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4322](https://www.govinfo.gov/link/statute/136/4322).)*

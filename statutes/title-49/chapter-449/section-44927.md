@@ -3,9 +3,10 @@ title: "Section 44927 - Expedited screening for severely injured or disabled mem
 usc_title: 49
 usc_section: "44927"
 chapter: 449
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44927"
-generated_at: "2026-03-30T02:56:19.394Z"
+generated_at: "2026-11-23T20:27:35.224Z"
+status: "active"
 ---
 
 # § 44927. Expedited screening for severely injured or disabled members of the Armed Forces and severely injured or disabled veterans
@@ -32,3 +33,35 @@ generated_at: "2026-03-30T02:56:19.394Z"
       - **(iii)** permanent blindness; and
     - **(C)** as a result of a loss, paralysis or partial paralysis, or blindness described in subparagraph (B), requires the use of a wheelchair, prosthetic limb, or other assistive device to aid with mobility.
   - **(3)** The Administrator of the Transportation Security Administration shall carry out this subsection subject to the availability of appropriations and may not increase fees for enrollment in the PreCheck Program for such purpose.
+
+Passenger Screening
+
+Operations Center
+
+Protocols
+
+Training
+
+Rule of Construction
+
+Reports
+
+Availability of PreCheck Program to Certain Severely Injured or Disabled Veterans.—
+
+In general
+
+Veterans described
+
+Limitation
+
+“The Administrator of the Transportation Security Administration and the Secretary of Veterans Affairs shall jointly—
+
+Coordination
+
+Further enhancements to ease air travel for wounded warriors and other disabled veterans
+
+Briefing requirement
+
+## Source Credit
+
+*(Added [Pub. L. 113–27, § 2(a)](https://www.govinfo.gov/link/plaw/113/public/27), Aug. 9, 2013, [127 Stat. 503](https://www.govinfo.gov/link/statute/127/503); amended [Pub. L. 115–254, div. K, title I, § 1991(d)(23)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3637](https://www.govinfo.gov/link/statute/132/3637); [Pub. L. 118–238, § 2(a)](https://www.govinfo.gov/link/plaw/118/public/238), Jan. 4, 2025, [138 Stat. 2923](https://www.govinfo.gov/link/statute/138/2923).)*

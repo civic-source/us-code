@@ -3,9 +3,10 @@ title: "Section 6 - Jurisdiction over the Area"
 usc_title: 16
 usc_section: "6"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6"
-generated_at: "2026-03-30T02:54:22.865Z"
+generated_at: "2026-11-23T20:26:20.112Z"
+status: "active"
 ---
 
 # § 539m–6. Jurisdiction over the Area
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:54:22.865Z"
       - **(ii)** regulate hunting and trapping in the Area by members of the Pueblo, to the extent that the hunting or trapping is related to traditional or cultural uses, except that such hunting and trapping outside of that portion of the Area in sections 13, 14, 23, 24, and the northeast quarter of section 25 of T12N, R4E, and section 19 of T12N, R5E, N.M.P.M., Sandoval County, New Mexico, shall be regulated by the Pueblo in a manner consistent with the regulations of the State of New Mexico concerning types of weapons and proximity of hunting and trapping to trails and residences.
     - **(C)** The Pueblo shall have no authority to impose taxes within the Area.
   - **(3)** The State of New Mexico and local public bodies shall have no authority within the Area to tax the uses or the property of the Pueblo, members of the Pueblo, or members of other federally-recognized Indian tribes authorized to use the Area under section 539m–3(a)(4) of this title .
+
+## Source Credit
+
+*([Pub. L. 108–7, div. F, title IV, § 408](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 286](https://www.govinfo.gov/link/statute/117/286).)*

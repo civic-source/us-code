@@ -3,9 +3,10 @@ title: "Section 303b - Consideration of children’s television service in broad
 usc_title: 47
 usc_section: "303b"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 303b"
-generated_at: "2026-03-30T02:56:24.506Z"
+generated_at: "2026-11-23T20:27:28.868Z"
+status: "active"
 ---
 
 # § 303b. Consideration of children’s television service in broadcast license renewal
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:24.506Z"
 - **(b)** In addition to consideration of the licensee’s programming as required under subsection (a), the Commission may consider—
   - **(1)** any special nonbroadcast efforts by the licensee which enhance the educational and informational value of such programming to children; and
   - **(2)** any special efforts by the licensee to produce or support programming broadcast by another station in the licensee’s marketplace which is specifically designed to serve the educational and informational needs of children.
+
+## Source Credit
+
+*([Pub. L. 101–437, title I, § 103](https://www.govinfo.gov/link/plaw/101/public/437), Oct. 17, 1990, [104 Stat. 997](https://www.govinfo.gov/link/statute/104/997); [Pub. L. 102–356, § 15](https://www.govinfo.gov/link/plaw/102/public/356), Aug. 26, 1992, [106 Stat. 954](https://www.govinfo.gov/link/statute/106/954); [Pub. L. 103–414, title III, § 303(c)](https://www.govinfo.gov/link/plaw/103/public/414), Oct. 25, 1994, [108 Stat. 4296](https://www.govinfo.gov/link/statute/108/4296).)*

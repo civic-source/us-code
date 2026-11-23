@@ -3,9 +3,10 @@ title: "Section 1911 - Indian tribe jurisdiction over Indian child custody proce
 usc_title: 25
 usc_section: "1911"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1911"
-generated_at: "2026-03-30T02:54:52.830Z"
+generated_at: "2026-11-23T20:26:25.551Z"
+status: "active"
 ---
 
 # § 1911. Indian tribe jurisdiction over Indian child custody proceedings
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:52.830Z"
 - **(b)** In any State court proceeding for the foster care placement of, or termination of parental rights to, an Indian child not domiciled or residing within the reservation of the Indian child’s tribe, the court, in the absence of good cause to the contrary, shall transfer such proceeding to the jurisdiction of the tribe, absent objection by either parent, upon the petition of either parent or the Indian custodian or the Indian child’s tribe: Provided , That such transfer shall be subject to declination by the tribal court of such tribe.
 - **(c)** In any State court proceeding for the foster care placement of, or termination of parental rights to, an Indian child, the Indian custodian of the child and the Indian child’s tribe shall have a right to intervene at any point in the proceeding.
 - **(d)** The United States, every State, every territory or possession of the United States, and every Indian tribe shall give full faith and credit to the public acts, records, and judicial proceedings of any Indian tribe applicable to Indian child custody proceedings to the same extent that such entities give full faith and credit to the public acts, records, and judicial proceedings of any other entity.
+
+## Source Credit
+
+*([Pub. L. 95–608, title I, § 101](https://www.govinfo.gov/link/plaw/95/public/608), Nov. 8, 1978, [92 Stat. 3071](https://www.govinfo.gov/link/statute/92/3071).)*

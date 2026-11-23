@@ -3,9 +3,10 @@ title: "Section 7709 - Scientific Earthquake Studies Advisory Committee"
 usc_title: 42
 usc_section: "7709"
 chapter: 86
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7709"
-generated_at: "2026-03-30T02:56:11.330Z"
+generated_at: "2026-11-23T20:27:22.983Z"
+status: "active"
 ---
 
 # § 7709. Scientific Earthquake Studies Advisory Committee
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.330Z"
 - **(b)** The Director shall establish procedures for selection of individuals not employed by the Federal Government who are qualified in the seismic sciences and other appropriate fields and may, pursuant to such procedures, select up to 10 individuals, one of whom shall be designated Chairman, to serve on the Advisory Committee. Selection of individuals for the Advisory Committee shall be based solely on established records of distinguished service, and the Director shall ensure that a reasonable cross-section of views and expertise is represented. In selecting individuals to serve on the Advisory Committee, the Director shall seek and give due consideration to recommendations from the National Academy of Sciences, professional societies, and other appropriate organizations.
 - **(c)** The Advisory Committee shall meet at such times and places as may be designated by the Chairman in consultation with the Director.
 - **(d)** The Advisory Committee shall advise the Director on matters relating to the United States Geological Survey’s participation in the National Earthquake Hazards Reduction Program, including the United States Geological Survey’s roles, goals, and objectives within that Program, its capabilities and research needs, guidance on achieving major objectives, and establishing and measuring performance goals. The Advisory Committee shall issue an annual report to the Director for submission to Congress on or before September 30 of each year. The report shall describe the Advisory Committee’s activities and address policy issues or matters that affect the United States Geological Survey’s participation in the National Earthquake Hazards Reduction Program.
+
+## Source Credit
+
+*([Pub. L. 106–503, title II, § 210](https://www.govinfo.gov/link/plaw/106/public/503), Nov. 13, 2000, [114 Stat. 2308](https://www.govinfo.gov/link/statute/114/2308).)*

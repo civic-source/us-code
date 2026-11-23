@@ -3,9 +3,10 @@ title: "Section 3151 - Grants to enhance research capacity in schools of veterin
 usc_title: 7
 usc_section: "3151"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 3151"
-generated_at: "2026-03-30T02:53:42.394Z"
+generated_at: "2026-11-23T20:25:41.563Z"
+status: "active"
 ---
 
 # § 3151. Grants to enhance research capacity in schools of veterinary medicine
@@ -20,3 +21,11 @@ generated_at: "2026-03-30T02:53:42.394Z"
 - **(c)** Funds appropriated to carry out this section for any fiscal year shall be apportioned and distributed as follows:
   - **(1)** Five per centum shall be retained by the Department of Agriculture for administration, program assistance to eligible States, and program coordination.
   - **(2)** The remainder shall be apportioned and distributed by the Secretary to those States which have applied for funds under this section on such basis as the Secretary may deem appropriate.
+
+Awards made after date of enactment
+
+Awards made on or before date of enactment
+
+## Source Credit
+
+*([Pub. L. 95–113, title XIV, § 1415](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 993](https://www.govinfo.gov/link/statute/91/993); [Pub. L. 97–98, title XIV, § 1417](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1305](https://www.govinfo.gov/link/statute/95/1305); [Pub. L. 99–198, title XIV, § 1410](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1547](https://www.govinfo.gov/link/statute/99/1547); [Pub. L. 101–624, title XVI, § 1607(a)](https://www.govinfo.gov/link/plaw/101/public/624), (b), Nov. 28, 1990, [104 Stat. 3716](https://www.govinfo.gov/link/statute/104/3716); [Pub. L. 113–79, title VII, § 7128(b)(1)(A)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 878](https://www.govinfo.gov/link/statute/128/878); [Pub. L. 115–334, title VII, § 7614(b)(1)(A)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4833](https://www.govinfo.gov/link/statute/132/4833).)*

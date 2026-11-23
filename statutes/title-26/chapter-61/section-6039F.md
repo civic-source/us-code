@@ -3,9 +3,10 @@ title: "Section 6039F - Notice of large gifts received from foreign persons"
 usc_title: 26
 usc_section: "6039F"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6039F"
-generated_at: "2026-03-30T02:55:27.831Z"
+generated_at: "2026-11-23T20:26:46.509Z"
+status: "active"
 ---
 
 # § 6039F. Notice of large gifts received from foreign persons
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:27.831Z"
   - **(2)** Paragraph (1) shall not apply to any failure to report a foreign gift if the United States person shows that the failure is due to reasonable cause and not due to willful neglect.
 - **(d)** In the case of any taxable year beginning after December 31, 1996 , the $10,000 amount under subsection (a) shall be increased by an amount equal to the product of such amount and the cost-of-living adjustment for such taxable year under section 1(f)(3), except that subparagraph (A)(ii) thereof shall be applied by substituting “1995” for “2016”.
 - **(e)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
+
+## Source Credit
+
+*(Added [Pub. L. 104–188, title I, § 1905(a)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1913](https://www.govinfo.gov/link/statute/110/1913); amended [Pub. L. 115–97, title I, § 11002(d)(13)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2062](https://www.govinfo.gov/link/statute/131/2062).)*

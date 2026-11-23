@@ -3,9 +3,10 @@ title: "Section 305a - Promotion of economic welfare through development of arts
 usc_title: 25
 usc_section: "305a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 305a"
-generated_at: "2026-03-30T02:54:52.803Z"
+generated_at: "2026-11-23T20:26:25.371Z"
+status: "active"
 ---
 
 # § 305a. Promotion of economic welfare through development of arts and crafts; powers of Board
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:52.803Z"
 - **(h)** to employ executive officers, including a general manager, and such other permanent and temporary personnel as may be found necessary, and prescribe the authorities, duties, responsibilities, and tenure and fix the compensation of such officers and other employees: Provided , That chapter 51 and subchapter III of chapter 53 of title 5 shall be applicable to all permanent employees and that all employees shall be appointed in accordance with the civil-service laws from lists of eligibles to be supplied by the Director of the Office of Personnel Management;
       - **(i)** as a Government agency to negotiate and execute in its own name contracts with operating groups to supply management, personnel, and supervision at cost, and to negotiate and execute in its own name such other contracts and to carry on such other business as may be necessary for the accomplishment of the duties and purposes of the Board: Provided , That nothing in the foregoing enumeration of powers shall be construed to authorize the Board to borrow or lend money or to deal in Indian goods. For the purposes of this section, the term “Indian arts and crafts organization” means any legally established arts and crafts marketing organization composed of members of Indian tribes.
 
+
+## Source Credit
+
+*(Aug. 27, 1935, ch. 748, § 2, [49 Stat. 891](https://www.govinfo.gov/link/statute/49/891); Oct. 28, 1949, ch. 782, title XI, § 1106(a), [63 Stat. 972](https://www.govinfo.gov/link/statute/63/972); 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3784](https://www.govinfo.gov/link/statute/92/3784); [Pub. L. 101–644, title I, § 102](https://www.govinfo.gov/link/plaw/101/public/644), Nov. 29, 1990, [104 Stat. 4662](https://www.govinfo.gov/link/statute/104/4662).)*

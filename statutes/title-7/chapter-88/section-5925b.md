@@ -3,9 +3,10 @@ title: "Section 5925b - Organic agriculture research and extension initiative"
 usc_title: 7
 usc_section: "5925b"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 5925b"
-generated_at: "2026-03-30T02:53:42.421Z"
+generated_at: "2026-11-23T20:25:41.668Z"
+status: "active"
 ---
 
 # § 5925b. Organic agriculture research and extension initiative
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:53:42.421Z"
     - **(G)** $50,000,000 for fiscal year 2023 and each fiscal year thereafter.
   - **(2)** In addition to amounts made available under paragraph (1), there is authorized to be appropriated to carry out this section $25,000,000 for each of fiscal years 2014 through 2023.
   - **(3)** There is authorized to be appropriated to carry out this section $25,000,000 for fiscal year 2013.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XVI, § 1672B](https://www.govinfo.gov/link/plaw/101/public/624), as added [Pub. L. 105–185, title II, § 244](https://www.govinfo.gov/link/plaw/105/public/185), June 23, 1998, [112 Stat. 555](https://www.govinfo.gov/link/statute/112/555); amended [Pub. L. 107–171, title VII, § 7218](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 449](https://www.govinfo.gov/link/statute/116/449); [Pub. L. 110–234, title VII](https://www.govinfo.gov/link/plaw/110/public/234), §§ 7206(a), 7406(d)(3), May 22, 2008, [122 Stat. 1238](https://www.govinfo.gov/link/statute/122/1238), 1252; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, §§ 7206(a), 7406(d)(3), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1999, 2013; [Pub. L. 112–240, title VII, § 701(e)(1)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2364](https://www.govinfo.gov/link/statute/126/2364); [Pub. L. 113–79, title VII](https://www.govinfo.gov/link/plaw/113/public/79), §§ 7128(b)(2)(D), 7211, Feb. 7, 2014, [128 Stat. 879](https://www.govinfo.gov/link/statute/128/879), 885; [Pub. L. 115–334, title VII](https://www.govinfo.gov/link/plaw/115/public/334), §§ 7210, 7614(b)(2)(D), Dec. 20, 2018, [132 Stat. 4811](https://www.govinfo.gov/link/statute/132/4811), 4835.)*

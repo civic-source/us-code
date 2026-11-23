@@ -3,9 +3,10 @@ title: "Section 393 - Criteria for approval and expenditures by Secretary"
 usc_title: 47
 usc_section: "393"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 393"
-generated_at: "2026-03-30T02:56:24.512Z"
+generated_at: "2026-11-23T20:27:28.905Z"
+status: "active"
 ---
 
 # § 393. Criteria for approval and expenditures by Secretary
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:24.512Z"
   - **(3)** the development of public telecommunications facilities owned by, operated by, and available to minorities and women; and
   - **(4)** the improvement of the capabilities of existing public broadcast stations to provide public telecommunications services, including services to underserved audiences such as deaf and hearing impaired individuals and blind and visually impaired individuals.
 - **(c)** Of the sums appropriated pursuant to section 391 of this title for any fiscal year, a substantial amount shall be available for the expansion and development of noncommercial radio broadcast station facilities.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title III, § 393, as added [Pub. L. 87–447](https://www.govinfo.gov/link/plaw/87/public/447), May 1, 1962, [76 Stat. 66](https://www.govinfo.gov/link/statute/76/66); amended [Pub. L. 90–129, title II, § 201(2)](https://www.govinfo.gov/link/plaw/90/public/129), Nov. 7, 1967, [81 Stat. 367](https://www.govinfo.gov/link/statute/81/367); [Pub. L. 95–567, title I, § 104](https://www.govinfo.gov/link/plaw/95/public/567), Nov. 2, 1978, [92 Stat. 2408](https://www.govinfo.gov/link/statute/92/2408); [Pub. L. 99–272, title V, § 5001(b)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 117](https://www.govinfo.gov/link/statute/100/117); [Pub. L. 102–356, § 3](https://www.govinfo.gov/link/plaw/102/public/356), Aug. 26, 1992, [106 Stat. 949](https://www.govinfo.gov/link/statute/106/949).)*

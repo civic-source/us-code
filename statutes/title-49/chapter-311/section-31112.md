@@ -3,9 +3,10 @@ title: "Section 31112 - Property-carrying unit limitation"
 usc_title: 49
 usc_section: "31112"
 chapter: 311
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 31112"
-generated_at: "2026-03-30T02:56:19.358Z"
+generated_at: "2026-11-23T20:27:34.943Z"
+status: "active"
 ---
 
 # § 31112. Property-carrying unit limitation
@@ -47,3 +48,68 @@ generated_at: "2026-03-30T02:56:19.358Z"
 - **(g)**
   - **(1)** In carrying out this section only, the Secretary shall define by regulation loads that cannot be dismantled easily or divided easily.
   - **(2)** Not later than June 15, 1992 , the Secretary shall prescribe regulations establishing criteria for a State to follow in making minor adjustments under subsection (d) of this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 31112(a)(1) | 49 App.:2311(j)(7). | Jan 6, 1983, Pub. L. 97–424 , 96 Stat. 2159 , § 411(j); added Dec. 18, 1991 , Pub. L. 102–240, § 4006(a) , 105 Stat. 2148 . |
+| 31112(a)(2) | 49 App.:2311(j)(3). |  |
+| 31112(b) | 49 App.:2311(j)(1). |  |
+| 31112(c) | 49 App.:2311(j)(2). |  |
+| 31112(d) | 49 App.:2311(j)(4). |  |
+| 31112(e) | 49 App.:2311(j)(5). |  |
+| 31112(f) | 49 App.:2311(j)(6). |  |
+| 31112(g)(1) | 49 App.:2311(j)(9). |  |
+| 31112(g)(2) | 49 App.:2311(j)(8). |  |
+
+
+Definitions
+
+General Limitations
+
+Special Rules for Wyoming, Ohio, Alaska, Iowa, Nebraska, Kansas, and Oregon
+
+Additional Limitations
+
+List of State Length Limitations
+
+Limitations on Statutory Construction
+
+Regulations
+
+Historical and Revision Notes
+
+31112(a)(1)
+
+Pub. L. 97–424
+
+96 Stat. 2159
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 4006(a)
+
+105 Stat. 2148
+
+31112(a)(2)
+
+31112(b)
+
+31112(c)
+
+31112(d)
+
+31112(e)
+
+31112(f)
+
+31112(g)(1)
+
+31112(g)(2)
+
+Designation
+
+References
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 995](https://www.govinfo.gov/link/statute/108/995); [Pub. L. 104–59, title III, § 312(a)(3)](https://www.govinfo.gov/link/plaw/104/public/59), Nov. 28, 1995, [109 Stat. 584](https://www.govinfo.gov/link/statute/109/584); [Pub. L. 104–205, title III, § 352](https://www.govinfo.gov/link/plaw/104/public/205), Sept. 30, 1996, [110 Stat. 2980](https://www.govinfo.gov/link/statute/110/2980); [Pub. L. 105–66, title III, § 343](https://www.govinfo.gov/link/plaw/105/public/66), Oct. 27, 1997, [111 Stat. 1449](https://www.govinfo.gov/link/statute/111/1449); [Pub. L. 109–59, title IV, § 4112](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1724](https://www.govinfo.gov/link/statute/119/1724); [Pub. L. 114–94, div. A, title V, § 5523(c)(1)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1560](https://www.govinfo.gov/link/statute/129/1560); [Pub. L. 114–113, div. L, title I, § 137](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2851](https://www.govinfo.gov/link/statute/129/2851); [Pub. L. 116–6, div. G, title IV, § 423](https://www.govinfo.gov/link/plaw/116/public/6), Feb. 15, 2019, [133 Stat. 474](https://www.govinfo.gov/link/statute/133/474).)*

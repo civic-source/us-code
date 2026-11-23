@@ -3,9 +3,10 @@ title: "Section 3503 - Biennial reports"
 usc_title: 33
 usc_section: "3503"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 3503"
-generated_at: "2026-03-30T02:55:41.141Z"
+generated_at: "2026-11-23T20:26:54.265Z"
+status: "active"
 ---
 
 # § 3503. Biennial reports
@@ -28,3 +29,7 @@ Not later than 18 months after the date of the enactment of the National Ocean E
   - **(14)** a description of best practices in data processing and distribution and leveraging opportunities among agencies represented on the Working Group and with coastal States, coastal Indian Tribes, and nongovernmental entities;
   - **(15)** an identification of any training, technology, or other requirements for enabling Federal mapping programs, vessels, and aircraft to support a coordinated ocean and coastal mapping program; and
   - **(16)** a timetable for implementation and completion of the plan described in paragraph (3), including recommendations for integrating new approaches into the program.
+
+## Source Credit
+
+*([Pub. L. 111–11, title XII, § 12204](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1423](https://www.govinfo.gov/link/statute/123/1423); [Pub. L. 117–263, div. J, title CIII, § 10307(c)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3977](https://www.govinfo.gov/link/statute/136/3977).)*

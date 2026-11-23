@@ -3,9 +3,10 @@ title: "Section 3523 - Civil judgments"
 usc_title: 18
 usc_section: "3523"
 chapter: 224
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 3523"
-generated_at: "2026-03-30T02:54:16.518Z"
+generated_at: "2026-11-23T20:26:08.731Z"
+status: "active"
 ---
 
 # § 3523. Civil judgments
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:16.518Z"
   - **(6)** The costs of any action brought under this subsection with respect to a judgment, including any enforcement action described in paragraph (5), and the compensation to be allowed to a guardian appointed in any such action shall be fixed by the court and shall be apportioned among the parties as follows: the petitioner shall be assessed in the amount the petitioner would have paid to collect on the judgment in an action not arising under the provisions of this subsection; the protected person shall be assessed the costs which are normally charged to debtors in similar actions and any other costs which are incurred as a result of an action brought under this subsection. In the event that the costs and compensation to the guardian are not met by the petitioner or by the protected person, the court may, in its discretion, enter judgment against the United States for costs and fees reasonably incurred as a result of the action brought under this subsection.
   - **(7)** No officer or employee of the Department of Justice shall in any way impede the efforts of a guardian appointed under this subsection to enforce the judgment with respect to which the guardian was appointed.
 - **(c)** The provisions of this section shall not apply to a court order to which section 3524 of this title applies.
+
+## Source Credit
+
+*(Added [Pub. L. 98–473, title II, § 1208](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2157](https://www.govinfo.gov/link/statute/98/2157).)*

@@ -3,9 +3,10 @@ title: "Section 77nnn - Reports by obligor; evidence of compliance with indentur
 usc_title: 15
 usc_section: "77nnn"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 77nnn"
-generated_at: "2026-03-30T02:54:08.037Z"
+generated_at: "2026-11-23T20:26:03.459Z"
+status: "active"
 ---
 
 # § 77nnn. Reports by obligor; evidence of compliance with indenture provisions
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:08.037Z"
     - **(B)** the fair value to such obligor of such property as set forth in such certificate or opinion is not less than $25,000 and not less than 1 per centum of the aggregate principal amount of the indenture securities at the time outstanding,
 - **(e)** Each certificate or opinion with respect to compliance with a condition or covenant provided for in the indenture (other than certificates provided pursuant to subsection (a)(4) of this section) shall include (1) a statement that the person making such certificate or opinion has read such covenant or condition; (2) a brief statement as to the nature and scope of the examination or investigation upon which the statements or opinions contained in such certificate or opinion are based; (3) a statement that, in the opinion of such person, he has made such examination or investigation as is necessary to enable him to express an informed opinion as to whether or not such covenant or condition has been complied with; and (4) a statement as to whether or not, in the opinion of such person, such condition or covenant has been complied with.
 - **(f)** Nothing in this section shall be construed either as requiring the inclusion in the indenture to be qualified of provisions that the obligor upon the indenture securities shall furnish to the indenture trustee any other evidence of compliance with the conditions and covenants provided for in the indenture than the evidence specified in this section, or as preventing the inclusion of such provisions in such indenture, if the parties so agree.
+
+## Source Credit
+
+*(May 27, 1933, ch. 38, title III, § 314, as added Aug. 3, 1939, ch. 411, [53 Stat. 1167](https://www.govinfo.gov/link/statute/53/1167); amended [Pub. L. 101–550, title IV, § 413](https://www.govinfo.gov/link/plaw/101/public/550), Nov. 15, 1990, [104 Stat. 2729](https://www.govinfo.gov/link/statute/104/2729).)*

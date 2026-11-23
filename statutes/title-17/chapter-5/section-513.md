@@ -3,9 +3,10 @@ title: "Section 513 - Determination of reasonable license fees for individual pr
 usc_title: 17
 usc_section: "513"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 513"
-generated_at: "2026-03-30T02:54:15.353Z"
+generated_at: "2026-11-23T20:26:06.528Z"
+status: "active"
 ---
 
 # § 513. Determination of reasonable license fees for individual proprietors
@@ -21,3 +22,7 @@ In the case of any performing rights society subject to a consent decree which p
   - **(7)** Any such final determination shall be binding only as to the individual proprietor commencing the proceeding, and shall not be applicable to any other proprietor or any other performing rights society, and the performing rights society shall be relieved of any obligation of nondiscrimination among similarly situated music users that may be imposed by the consent decree governing its operations.
   - **(8)** An individual proprietor may not bring more than one proceeding provided for in this section for the determination of a reasonable license rate or fee under any license agreement with respect to any one performing rights society.
   - **(9)** For purposes of this section, the term “industry rate” means the license fee a performing rights society has agreed to with, or which has been determined by the court for, a significant segment of the music user industry to which the individual proprietor belongs.
+
+## Source Credit
+
+*(Added [Pub. L. 105–298, title II, § 203(a)](https://www.govinfo.gov/link/plaw/105/public/298), Oct. 27, 1998, [112 Stat. 2831](https://www.govinfo.gov/link/statute/112/2831), § 512; renumbered § 513, [Pub. L. 106–44, § 1(c)(1)](https://www.govinfo.gov/link/plaw/106/public/44), Aug. 5, 1999, [113 Stat. 221](https://www.govinfo.gov/link/statute/113/221).)*

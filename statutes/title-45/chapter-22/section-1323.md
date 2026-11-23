@@ -3,9 +3,10 @@ title: "Section 1323 - Board of Directors"
 usc_title: 45
 usc_section: "1323"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 1323"
-generated_at: "2026-03-30T02:55:56.561Z"
+generated_at: "2026-11-23T20:27:05.344Z"
+status: "active"
 ---
 
 # § 1323. Board of Directors
@@ -43,3 +44,7 @@ The Board of Directors of the Corporation shall be comprised as follows:
   - **(4)**
     - **(A)** No director appointed or elected under this section shall be a special court trustee or an employee of the United States, except as elected by the public shareholders of the Corporation.
     - **(B)** No director appointed or elected under this section shall be an employee of the Corporation, except as provided in paragraph (2)(A)(ii) or as elected by the public shareholders of the Corporation.
+
+## Source Credit
+
+*([Pub. L. 99–509, title IV, § 4023](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1901](https://www.govinfo.gov/link/statute/100/1901).)*

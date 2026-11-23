@@ -3,9 +3,10 @@ title: "Section 3593 - Reinstatement in the Senior Executive Service"
 usc_title: 5
 usc_section: "3593"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 3593"
-generated_at: "2026-03-30T02:52:56.007Z"
+generated_at: "2026-11-23T20:25:31.846Z"
+status: "active"
 ---
 
 # § 3593. Reinstatement in the Senior Executive Service
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:52:56.007Z"
     - **(C)** before the removal occurred, the appointee successfully completed the probationary period established under section 3393(d) of this title ; and
     - **(D)** the appointee applies for that vacant position within one year after the Office receives certification regarding that appointee pursuant to section 3595(b)(3)(B) of this title .
   - **(2)** A career appointee is entitled to appeal to the Merit Systems Protection Board under section 7701 of this title any determination by the agency that the appointee is not qualified for a position for which the appointee applies under paragraph (1) of this subsection.
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title IV, § 404(b)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1166](https://www.govinfo.gov/link/statute/92/1166); amended [Pub. L. 97–35, title XVII, § 1704(b)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 757](https://www.govinfo.gov/link/statute/95/757); [Pub. L. 98–615, title III, § 303(a)](https://www.govinfo.gov/link/plaw/98/public/615), Nov. 8, 1984, [98 Stat. 3217](https://www.govinfo.gov/link/statute/98/3217); [Pub. L. 101–194, title V, § 506(b)(4)](https://www.govinfo.gov/link/plaw/101/public/194), Nov. 30, 1989, [103 Stat. 1758](https://www.govinfo.gov/link/statute/103/1758); [Pub. L. 107–296, title XIII, § 1321(a)(2)(B)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2297](https://www.govinfo.gov/link/statute/116/2297).)*

@@ -3,9 +3,10 @@ title: "Section 1795a - Definitions"
 usc_title: 12
 usc_section: "1795a"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1795a"
-generated_at: "2026-03-30T02:53:53.443Z"
+generated_at: "2026-11-23T20:25:59.091Z"
+status: "active"
 ---
 
 # § 1795a. Definitions
@@ -19,3 +20,7 @@ As used in this subchapter, the term—
   - **(2)** “Central Liquidity Facility” or “Facility” means the National Credit Union Central Liquidity Facility;
   - **(3)** “paid-in and unimpaired capital and surplus” means the balance of the paid-in share accounts and deposits as of a given date, less any loss that may have been incurred for which there is no reserve or which has not been charged against undivided earnings, plus the credit balance (or less the debit balance) of the undivided earnings account as of a given date, after all losses have been provided for and net earnings or net losses have been added thereto or deducted therefrom. Reserves shall not be considered as part of surplus, 2 2 So in original. The comma probably should be a semicolon. and
   - **(4)** “member” means a Regular or an Agent member of the Facility.
+
+## Source Credit
+
+*(June 26, 1934, ch. 750, title III, formerly subch. III, § 302, as added [Pub. L. 95–630, title XVIII, § 1802](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3719](https://www.govinfo.gov/link/statute/92/3719); amended [Pub. L. 96–221, title III, § 309(b)(1)](https://www.govinfo.gov/link/plaw/96/public/221), (2), Mar. 31, 1980, [94 Stat. 149](https://www.govinfo.gov/link/statute/94/149); [Pub. L. 116–136, div. A, title IV, § 4016(a)(1)](https://www.govinfo.gov/link/plaw/116/public/136), (b)(1)(A), Mar. 27, 2020, [134 Stat. 481](https://www.govinfo.gov/link/statute/134/481), 482.)*

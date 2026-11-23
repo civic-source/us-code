@@ -3,9 +3,10 @@ title: "Section 12783 - Conditions of contracts"
 usc_title: 42
 usc_section: "12783"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12783"
-generated_at: "2026-03-30T02:56:11.432Z"
+generated_at: "2026-11-23T20:27:23.441Z"
+status: "active"
 ---
 
 # § 12783. Conditions of contracts
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.432Z"
   - **(4)** a national or regional nonprofit organization that has a membership comprised predominantly of entities or officials of entities that qualify under paragraph (1), (2), or (3); or
   - **(5)** a professional and technical services company or firm that has demonstrated capacity to provide services under this part.
 - **(b)** Contracts under this part shall be for not more than 3 years and shall provide not more than 20 percent of the operating budget of the contracting organization in any one year. Within any fiscal year, contracts with any one organization may not be entered into for a total of more than 40 percent of the funds appropriated under this part in that fiscal year.
+
+## Source Credit
+
+*([Pub. L. 101–625, title II, § 243](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4118](https://www.govinfo.gov/link/statute/104/4118); [Pub. L. 111–8, div. I, title II, § 229(3)](https://www.govinfo.gov/link/plaw/111/public/8), Mar. 11, 2009, [123 Stat. 978](https://www.govinfo.gov/link/statute/123/978).)*

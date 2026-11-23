@@ -3,9 +3,10 @@ title: "Section 7261 - Scope of review"
 usc_title: 38
 usc_section: "7261"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7261"
-generated_at: "2026-03-30T02:55:53.525Z"
+generated_at: "2026-11-23T20:27:01.984Z"
+status: "active"
 ---
 
 # § 7261. Scope of review
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:53.525Z"
   - **(2)** take due account of the rule of prejudicial error.
 - **(c)** In no event shall findings of fact made by the Secretary or the Board of Veterans’ Appeals be subject to trial de novo by the Court.
 - **(d)** When a final decision of the Board of Veterans’ Appeals is adverse to a party and the sole stated basis for such decision is the failure of the party to comply with any applicable regulation prescribed by the Secretary, the Court shall review only questions raised as to compliance with and the validity of the regulation.
+
+## Source Credit
+
+*(Added [Pub. L. 100–687, div. A, title III, § 301(a)](https://www.govinfo.gov/link/plaw/100/public/687), Nov. 18, 1988, [102 Stat. 4115](https://www.govinfo.gov/link/statute/102/4115), § 4061; amended [Pub. L. 101–237, title VI, § 602(c)](https://www.govinfo.gov/link/plaw/101/public/237), Dec. 18, 1989, [103 Stat. 2095](https://www.govinfo.gov/link/statute/103/2095); renumbered § 7261, [Pub. L. 102–40, title IV, § 402(b)(1)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238); [Pub. L. 102–54, § 14(e)(3)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 287](https://www.govinfo.gov/link/statute/105/287); [Pub. L. 102–83, § 4(a)(1)](https://www.govinfo.gov/link/plaw/102/public/83), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 403–405](https://www.govinfo.gov/link/statute/105/403); [Pub. L. 105–368, title V, § 512(a)(1)](https://www.govinfo.gov/link/plaw/105/public/368), Nov. 11, 1998, [112 Stat. 3341](https://www.govinfo.gov/link/statute/112/3341); [Pub. L. 107–330, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/107/public/330), (b), Dec. 6, 2002, [116 Stat. 2832](https://www.govinfo.gov/link/statute/116/2832).)*

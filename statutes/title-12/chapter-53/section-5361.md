@@ -3,9 +3,10 @@ title: "Section 5361 - Reports by and examinations of nonbank financial companie
 usc_title: 12
 usc_section: "5361"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5361"
-generated_at: "2026-03-30T02:53:53.530Z"
+generated_at: "2026-11-23T20:25:59.473Z"
+status: "active"
 ---
 
 # § 5361. Reports by and examinations of nonbank financial companies by the Board of Governors
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:53:53.530Z"
 - **(c)** The Board of Governors shall—
   - **(1)** provide reasonable notice to, and consult with, the primary financial regulatory agency for any subsidiary before requiring a report or commencing an examination of such subsidiary under this section; and
   - **(2)** avoid duplication of examination activities, reporting requirements, and requests for information, to the fullest extent possible.
+
+## Source Credit
+
+*([Pub. L. 111–203, title I, § 161](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1420](https://www.govinfo.gov/link/statute/124/1420); [Pub. L. 117–263, div. E, title LVIII, § 5861(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3434](https://www.govinfo.gov/link/statute/136/3434).)*

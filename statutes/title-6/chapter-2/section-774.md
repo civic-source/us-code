@@ -3,9 +3,10 @@ title: "Section 774 - Reunification"
 usc_title: 6
 usc_section: "774"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 774"
-generated_at: "2026-03-30T02:53:09.500Z"
+generated_at: "2026-11-23T20:25:34.874Z"
+status: "active"
 ---
 
 # § 774. Reunification
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:53:09.500Z"
     - **(L)** develop an emergency response plan to prepare for the activation of the Child Locator Center.
 - **(c)**
 - **(d)** Not later than 270 days after October 4, 2006 , the Administrator shall submit to the Committee on Homeland Security and Governmental Affairs and the Committee on the Judiciary of the Senate and the Committee on Transportation and Infrastructure and the Committee on the Judiciary of the House of Representatives a report describing in detail the status of the Child Locator Center, including funding issues and any difficulties or issues in establishing the Center or completing the cooperative agreements described in subsection (b)(3)(K).
+
+## Source Credit
+
+*([Pub. L. 109–295, title VI, § 689b](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1449](https://www.govinfo.gov/link/statute/120/1449).)*

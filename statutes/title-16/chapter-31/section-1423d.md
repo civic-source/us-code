@@ -3,9 +3,10 @@ title: "Section 1423d - Commission appointments; compensation, travel expenses, 
 usc_title: 16
 usc_section: "1423d"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1423d"
-generated_at: "2026-03-30T02:54:22.967Z"
+generated_at: "2026-11-23T20:26:20.483Z"
+status: "active"
 ---
 
 # § 1423d. Commission appointments; compensation, travel expenses, and claims
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:54:22.967Z"
   - **(1)** A member of the United States section shall serve without compensation.
   - **(2)** A member of the United States section shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5 while away from the home or regular place of business of the member in the performance of the duties of the United States-Russia Polar Bear Commission.
 - **(e)** The United States section shall, for the purpose of title 28 relating to claims against the United States and tort claims procedure, be considered to be a Federal agency.
+
+## Source Credit
+
+*([Pub. L. 92–522, title V, § 505](https://www.govinfo.gov/link/plaw/92/public/522), as added [Pub. L. 109–479, title IX, § 902(a)](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3663](https://www.govinfo.gov/link/statute/120/3663).)*

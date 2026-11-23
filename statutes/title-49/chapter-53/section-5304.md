@@ -3,9 +3,10 @@ title: "Section 5304 - Statewide and nonmetropolitan transportation planning"
 usc_title: 49
 usc_section: "5304"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 5304"
-generated_at: "2026-03-30T02:56:19.309Z"
+generated_at: "2026-11-23T20:27:34.614Z"
+status: "active"
 ---
 
 # § 5304. Statewide and nonmetropolitan transportation planning
@@ -152,3 +153,244 @@ generated_at: "2026-03-30T02:56:19.309Z"
     - **(G)** considering and sharing plans and programs with neighboring regional transportation planning organizations, metropolitan planning organizations, and, where appropriate, tribal organizations; and
     - **(H)** conducting other duties, as necessary, to support and enhance the statewide planning process under subsection (d).
   - **(5)** If a State chooses not to establish or designate a regional transportation planning organization, the State shall consult with affected nonmetropolitan local officials to determine projects that may be of regional significance.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5304(a) | 49 App.:1607(h)(1). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 8(h); added Nov. 6, 1978 , Pub. L. 95–599, § 305(b) , 92 Stat. 2743 ; Apr. 2, 1987 , Pub. L. 100–17, § 310 , 101 Stat. 227 ; restated Dec. 18, 1991 , Pub. L. 102–240, § 3012 , 105 Stat. 2102 ; Oct. 6, 1992 , Pub. L. 102–388 , §§ 501, 502(e), 106 Stat. 1566 . |
+| 5304(b) | 49 App.:1607(h)(2). |  |
+| 5304(c) | 49 App.:1607(h)(3), (5). |  |
+| 5304(d) | 49 App.:1607(h)(6). |  |
+| 5304(e) | 49 App.:1607(h)(4). |  |
+
+
+General Requirements.—
+
+Development of plans and programs
+
+Contents
+
+Process of development
+
+Coordination With Metropolitan Planning; State Implementation Plan
+
+Interstate Agreements.—
+
+In general
+
+Reservation of rights
+
+Scope of Planning Process.—
+
+In general
+
+Performance-based approach.—
+
+In general
+
+Performance targets.—
+
+Surface transportation performance targets.—
+
+In general
+
+Coordination
+
+Public transportation performance targets
+
+Integration of other performance-based plans
+
+Use of performance measures and targets
+
+Failure to consider factors
+
+Additional Requirements
+
+Long-Range Statewide Transportation Plan.—
+
+Development
+
+Consultation with governments.—
+
+Metropolitan areas
+
+Nonmetropolitan areas.—
+
+In general
+
+Role of secretary
+
+Indian tribal areas
+
+Consultation, comparison, and consideration.—
+
+In general
+
+Comparison and consideration
+
+Participation by interested parties.—
+
+In general
+
+Methods
+
+Use of technology
+
+Mitigation activities.—
+
+In general
+
+Consultation
+
+Financial plan
+
+Selection of projects from illustrative list
+
+Performance-based approach
+
+Existing system
+
+Publication of long-range transportation plans
+
+Statewide Transportation Improvement Program.—
+
+Development.—
+
+In general
+
+Duration and updating of program
+
+Consultation with governments.—
+
+Metropolitan areas
+
+Nonmetropolitan areas.—
+
+In general
+
+Role of secretary
+
+Indian tribal areas
+
+Participation by interested parties
+
+Performance target achievement
+
+Included projects.—
+
+In general
+
+Listing of projects.—
+
+In general
+
+Funding categories
+
+Projects under chapter 2.—
+
+Regionally significant projects
+
+Other projects
+
+Consistency with statewide transportation plan
+
+Requirement of anticipated full funding
+
+Financial plan.—
+
+In general
+
+Additional projects
+
+Selection of projects from illustrative list.—
+
+No required selection
+
+Required action by the secretary
+
+Priorities
+
+Project selection for areas of less than 50,000 population.—
+
+In general
+
+Other projects
+
+Transportation improvement program approval
+
+Planning finding
+
+Modifications to project priority
+
+Performance-based Planning Processes Evaluation.—
+
+In general
+
+Report.—
+
+In general
+
+Publication
+
+Treatment of Certain State Laws as Congestion Management Processes
+
+Continuation of Current Review Practice
+
+Schedule for Implementation
+
+Designation of Regional Transportation Planning Organizations.—
+
+In general
+
+Structure
+
+Requirements
+
+Duties
+
+States without regional transportation planning organizations
+
+Historical and Revision Notes
+
+5304(a)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Nov. 6, 1978
+
+Pub. L. 95–599, § 305(b)
+
+92 Stat. 2743
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 310
+
+101 Stat. 227
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3012
+
+105 Stat. 2102
+
+Oct. 6, 1992
+
+Pub. L. 102–388
+
+106 Stat. 1566
+
+5304(b)
+
+5304(c)
+
+5304(d)
+
+5304(e)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 793](https://www.govinfo.gov/link/statute/108/793); [Pub. L. 105–178, title III, § 3005](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 345](https://www.govinfo.gov/link/statute/112/345); [Pub. L. 105–206, title IX, § 9009(c)(2)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 854](https://www.govinfo.gov/link/statute/112/854); [Pub. L. 109–59, title III, § 3006(a)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1559](https://www.govinfo.gov/link/statute/119/1559); [Pub. L. 112–141, div. B, § 20006](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 643](https://www.govinfo.gov/link/statute/126/643); [Pub. L. 114–94, div. A, title III, § 3003(b)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1449](https://www.govinfo.gov/link/statute/129/1449); [Pub. L. 117–58, div. C, § 30003](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 893](https://www.govinfo.gov/link/statute/135/893).)*

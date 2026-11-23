@@ -3,9 +3,10 @@ title: "Section 44725 - Life-limited aircraft parts"
 usc_title: 49
 usc_section: "44725"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44725"
-generated_at: "2026-03-30T02:56:19.386Z"
+generated_at: "2026-11-23T20:27:35.186Z"
+status: "active"
 ---
 
 # § 44725. Life-limited aircraft parts
@@ -21,3 +22,15 @@ generated_at: "2026-03-30T02:56:19.386Z"
   - **(1)** not later than 180 days after the date of the enactment of this section, issue a notice of proposed rulemaking; and
   - **(2)** not later than 180 days after the close of the comment period on the proposed rule, issue a final rule.
 - **(d)** No rule issued under subsection (a) shall require the marking of parts removed from aircraft before the effective date of the rules issued under subsection (a), nor shall any such rule forbid the installation of an otherwise airworthy life-limited part.
+
+In General
+
+Safe Disposition
+
+Deadlines
+
+Prior-Removed Life-Limited Parts
+
+## Source Credit
+
+*(Added [Pub. L. 106–181, title V, § 504(a)](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 134](https://www.govinfo.gov/link/statute/114/134).)*

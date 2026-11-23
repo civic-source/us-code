@@ -3,9 +3,10 @@ title: "Section 3703 - Postal Service program for State governments"
 usc_title: 39
 usc_section: "3703"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "39 U.S.C. § 3703"
-generated_at: "2026-03-30T02:55:43.695Z"
+generated_at: "2026-11-23T20:26:57.762Z"
+status: "active"
 ---
 
 # § 3703. Postal Service program for State governments
@@ -24,3 +25,15 @@ generated_at: "2026-03-30T02:55:43.695Z"
 - **(d)** Subsection (b) shall not be construed as requiring the Postal Service to disclose to the public any information—
   - **(1)** described in section 410(c); or
   - **(2)** exempt from public disclosure under section 552(b) of title 5 .
+
+In General
+
+Public Notice
+
+Approval Required
+
+Confidential Information
+
+## Source Credit
+
+*(Added [Pub. L. 117–108, title I, § 103(a)(1)](https://www.govinfo.gov/link/plaw/117/public/108), Apr. 6, 2022, [136 Stat. 1141](https://www.govinfo.gov/link/statute/136/1141).)*

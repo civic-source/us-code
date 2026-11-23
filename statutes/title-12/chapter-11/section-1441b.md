@@ -3,9 +3,10 @@ title: "Section 1441b - Resolution Funding Corporation established"
 usc_title: 12
 usc_section: "1441b"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1441b"
-generated_at: "2026-03-30T02:53:53.393Z"
+generated_at: "2026-11-23T20:25:58.835Z"
+status: "active"
 ---
 
 # § 1441b. Resolution Funding Corporation established
@@ -161,3 +162,47 @@ generated_at: "2026-03-30T02:53:53.393Z"
     - **(A)** that portion required to be added to reserves maintained pursuant to the first 2 sentences of section 1436 of this title ; and
     - **(B)** the dollar amounts held by the respective Federal Home Loan Banks in special dividend stabilization reserves on December 31, 1985 , as determined by the table set forth in section 1441(d)(7) of this title .
 - **(l)** The Thrift Depositor Protection Oversight Board may prescribe any regulations necessary to carry out this section.
+
+| Bank | Percentage |
+| --- | --- |
+| Federal Home Loan Bank of Boston | 1.8629 |
+| Federal Home Loan Bank of New York | 9.1006 |
+| Federal Home Loan Bank of Pittsburgh | 4.2702 |
+| Federal Home Loan Bank of Atlanta | 14.4007 |
+| Federal Home Loan Bank of Cincinnati | 8.2653 |
+| Federal Home Loan Bank of Indianapolis | 5.2863 |
+| Federal Home Loan Bank of Chicago | 9.6886 |
+| Federal Home Loan Bank of Des Moines | 6.9301 |
+| Federal Home Loan Bank of Dallas | 8.8181 |
+| Federal Home Loan Bank of Topeka | 5.2706 |
+| Federal Home Loan Bank of San Francisco | 19.9644 |
+| Federal Home Loan Bank of Seattle | 6.1422 |
+
+
+Federal Home Loan Bank of Boston
+
+Federal Home Loan Bank of New York
+
+Federal Home Loan Bank of Pittsburgh
+
+Federal Home Loan Bank of Atlanta
+
+Federal Home Loan Bank of Cincinnati
+
+Federal Home Loan Bank of Indianapolis
+
+Federal Home Loan Bank of Chicago
+
+Federal Home Loan Bank of Des Moines
+
+Federal Home Loan Bank of Dallas
+
+Federal Home Loan Bank of Topeka
+
+Federal Home Loan Bank of San Francisco
+
+Federal Home Loan Bank of Seattle
+
+## Source Credit
+
+*(July 22, 1932, ch. 522, § 21B, as added [Pub. L. 101–73, title V, § 511(a)](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 394](https://www.govinfo.gov/link/statute/103/394); amended [Pub. L. 102–233, title III, § 302(b)](https://www.govinfo.gov/link/plaw/102/public/233), Dec. 12, 1991, [105 Stat. 1767](https://www.govinfo.gov/link/statute/105/1767); [Pub. L. 102–550, title XVI, § 1613(a)(7)](https://www.govinfo.gov/link/plaw/102/public/550), (9), Oct. 28, 1992, [106 Stat. 4092](https://www.govinfo.gov/link/statute/106/4092); [Pub. L. 104–208, div. A, title II, § 2704(d)(5)](https://www.govinfo.gov/link/plaw/104/public/208), (11)(E), (F), Sept. 30, 1996, [110 Stat. 3009–488](https://www.govinfo.gov/link/statute/110/3009), 3009–489; [Pub. L. 106–102, title VI, § 607(a)](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1455](https://www.govinfo.gov/link/statute/113/1455); [Pub. L. 109–171, title II, § 2102(b)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 9](https://www.govinfo.gov/link/statute/120/9); [Pub. L. 109–173, § 9(d)(7)](https://www.govinfo.gov/link/plaw/109/public/173), (8), Feb. 15, 2006, [119 Stat. 3617](https://www.govinfo.gov/link/statute/119/3617); [Pub. L. 110–289, div. A, title II](https://www.govinfo.gov/link/plaw/110/public/289), §§ 1204(8)–(10), (12), 1213, July 30, 2008, [122 Stat. 2786](https://www.govinfo.gov/link/statute/122/2786), 2791.)*

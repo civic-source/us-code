@@ -3,9 +3,10 @@ title: "Section 5877 - Reports to President for submission to Congress"
 usc_title: 42
 usc_section: "5877"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5877"
-generated_at: "2026-03-30T02:56:11.239Z"
+generated_at: "2026-11-23T20:27:22.566Z"
+status: "active"
 ---
 
 # § 5877. Reports to President for submission to Congress
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.239Z"
   - **(4)** investigating suspected, attempted, or actual thefts of special nuclear materials in the licensed sector and developing contingency plans for dealing with such incidents;
   - **(5)** insuring the safe, permanent disposal of high-level radioactive wastes through the licensing of nuclear activities and facilities;
   - **(6)** protecting the public against the hazards of low-level radioactive emissions from licensed nuclear activities and facilities.
+
+## Source Credit
+
+*([Pub. L. 93–438, title III, § 307](https://www.govinfo.gov/link/plaw/93/public/438), Oct. 11, 1974, [88 Stat. 1251](https://www.govinfo.gov/link/statute/88/1251).)*

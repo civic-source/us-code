@@ -3,9 +3,10 @@ title: "Section 398a - Conditions and limitations"
 usc_title: 16
 usc_section: "398a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 398a"
-generated_at: "2026-03-30T02:54:22.754Z"
+generated_at: "2026-11-23T20:26:19.427Z"
+status: "active"
 ---
 
 # § 398a. Conditions and limitations
@@ -18,3 +19,7 @@ The Secretary of the Interior is authorized subject to the following conditions 
 - **(d)** Any Federal properties situated within the areas selected for the park, upon agreement by the particular agency administering such properties that such properties should be made available for the park, may be transferred without further authorization to the Secretary by such agency for purposes of this section and section 398 of this title ;
 - **(e)** Establishment of the Virgin Islands National Park, in its initial phase, shall be and is declared to be accomplished and effective for purposes of administration when a minimum acreage of not less than five thousand acres in Federal ownership for purposes of this section and section 398 of this title shall have been acquired by the United States in specific areas containing such acquired lands to be designated by the Secretary; and
 - **(f)** Notice of the establishment of the park as authorized and prescribed by this section and section 398 of this title shall be published in the Federal Register.
+
+## Source Credit
+
+*(Aug. 2, 1956, ch. 885, § 2, [70 Stat. 940](https://www.govinfo.gov/link/statute/70/940); [Pub. L. 95–348, § 7(b)(6)](https://www.govinfo.gov/link/plaw/95/public/348), Aug. 18, 1978, [92 Stat. 495](https://www.govinfo.gov/link/statute/92/495).)*

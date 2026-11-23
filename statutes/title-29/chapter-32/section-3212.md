@@ -3,9 +3,10 @@ title: "Section 3212 - Authorization of appropriations"
 usc_title: 29
 usc_section: "3212"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3212"
-generated_at: "2026-03-30T02:55:18.757Z"
+generated_at: "2026-11-23T20:26:38.114Z"
+status: "active"
 ---
 
 # § 3212. Authorization of appropriations
@@ -18,3 +19,7 @@ There are authorized to be appropriated to carry out this part—
   - **(4)** $1,897,455,000 for fiscal year 2018;
   - **(5)** $1,942,064,000 for fiscal year 2019; and
   - **(6)** $1,983,236,000 for fiscal year 2020.
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 162](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1559](https://www.govinfo.gov/link/statute/128/1559).)*

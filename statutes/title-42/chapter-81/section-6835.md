@@ -3,9 +3,10 @@ title: "Section 6835 - Federal compliance"
 usc_title: 42
 usc_section: "6835"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6835"
-generated_at: "2026-03-30T02:56:11.266Z"
+generated_at: "2026-11-23T20:27:22.711Z"
+status: "active"
 ---
 
 # § 6835. Federal compliance
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.266Z"
   - **(1)** The head of each Federal agency shall adopt procedures necessary to assure that new Federal buildings meet or exceed the Federal building energy standards established under section 6834 of this title .
   - **(2)** The Federal building energy standards established under section 6834 of this title shall apply to new buildings under the jurisdiction of the Architect of the Capitol. The Architect shall adopt procedures necessary to assure that such buildings meet or exceed such standards.
 - **(b)** The head of a Federal agency may expend Federal funds for the construction of a new Federal building only if the building meets or exceeds the appropriate Federal building energy standards established under section 6834 of this title .
+
+## Source Credit
+
+*([Pub. L. 94–385, title III, § 306](https://www.govinfo.gov/link/plaw/94/public/385), as added [Pub. L. 102–486, title I, § 101(a)(2)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2785](https://www.govinfo.gov/link/statute/106/2785).)*

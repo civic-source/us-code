@@ -3,9 +3,10 @@ title: "Section 3 - Director and staff of the Museum"
 usc_title: 20
 usc_section: "3"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 3"
-generated_at: "2026-03-30T02:54:48.081Z"
+generated_at: "2026-11-23T20:26:14.238Z"
+status: "active"
 ---
 
 # § 80t–3. Director and staff of the Museum
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:48.081Z"
   - **(2)** The Director shall manage the Museum subject to the policies of the Board of Regents.
 - **(b)** The Secretary may appoint 2 additional employees to serve under the Director, except that such additional employees may be appointed without regard to the provisions of title 5 governing appointments in the competitive service.
 - **(c)** The employees appointed by the Secretary under subsection (b) may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification of positions and General Schedule pay rates.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. T, title I, § 105](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2275](https://www.govinfo.gov/link/statute/134/2275).)*

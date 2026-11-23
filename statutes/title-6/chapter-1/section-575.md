@@ -3,9 +3,10 @@ title: "Section 575 - Regional emergency communications coordination"
 usc_title: 6
 usc_section: "575"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 575"
-generated_at: "2026-03-30T02:53:09.470Z"
+generated_at: "2026-11-23T20:25:34.798Z"
+status: "active"
 ---
 
 # § 575. Regional emergency communications coordination
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:53:09.470Z"
   - **(2)** reporting annually to the relevant Regional Administrator, the Assistant Director for Emergency Communications, the Chairman of the Federal Communications Commission, and the Assistant Secretary for Communications and Information of the Department of Commerce on the status of its region in building robust and sustainable interoperable voice and data emergency communications networks and, not later than 60 days after the completion of the initial National Emergency Communications Plan under section 572 of this title , on the progress of the region in meeting the goals of such plan;
   - **(3)** ensuring a process for the coordination of effective multijurisdictional, multi-agency emergency communications networks for use during natural disasters, acts of terrorism, and other man-made disasters through the expanded use of emergency management and public safety communications mutual aid agreements; and
   - **(4)** coordinating the establishment of Federal, State, local, and tribal support services and networks designed to address the immediate and critical human needs in responding to natural disasters, acts of terrorism, and other man-made disasters.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XVIII, § 1805](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 109–295, title VI, § 671(b)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1439](https://www.govinfo.gov/link/statute/120/1439); amended [Pub. L. 115–278, § 2(g)(6)(B)](https://www.govinfo.gov/link/plaw/115/public/278), Nov. 16, 2018, [132 Stat. 4179](https://www.govinfo.gov/link/statute/132/4179).)*

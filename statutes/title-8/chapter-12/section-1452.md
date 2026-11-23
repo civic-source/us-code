@@ -3,9 +3,10 @@ title: "Section 1452 - Certificates of citizenship or U.S. non-citizen national 
 usc_title: 8
 usc_section: "1452"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1452"
-generated_at: "2026-03-30T02:53:10.502Z"
+generated_at: "2026-11-23T20:25:36.242Z"
+status: "active"
 ---
 
 # § 1452. Certificates of citizenship or U.S. non-citizen national status; procedure
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:10.502Z"
 - **(b)** A person who claims to be a national, but not a citizen, of the United States may apply to the Secretary of State for a certificate of non-citizen national status. Upon—
   - **(1)** proof to the satisfaction of the Secretary of State that the applicant is a national, but not a citizen, of the United States, and
   - **(2)** in the case of such a person born outside of the United States or its outlying possessions, taking and subscribing, before an immigration officer within the United States or its outlying possessions, to the oath of allegiance required by this chapter of a petitioner for naturalization,
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title III, ch. 2, § 341, [66 Stat. 263](https://www.govinfo.gov/link/statute/66/263); [Pub. L. 97–116, § 18(p)](https://www.govinfo.gov/link/plaw/97/public/116), Dec. 29, 1981, [95 Stat. 1621](https://www.govinfo.gov/link/statute/95/1621); [Pub. L. 99–396, § 16(a)](https://www.govinfo.gov/link/plaw/99/public/396), Aug. 27, 1986, [100 Stat. 843](https://www.govinfo.gov/link/statute/100/843); [Pub. L. 99–653, § 22](https://www.govinfo.gov/link/plaw/99/public/653), Nov. 14, 1986, [100 Stat. 3658](https://www.govinfo.gov/link/statute/100/3658); [Pub. L. 100–525, § 8(q)](https://www.govinfo.gov/link/plaw/100/public/525), Oct. 24, 1988, [102 Stat. 2618](https://www.govinfo.gov/link/statute/102/2618); [Pub. L. 102–232, title III, § 305(m)(8)](https://www.govinfo.gov/link/plaw/102/public/232), Dec. 12, 1991, [105 Stat. 1750](https://www.govinfo.gov/link/statute/105/1750); [Pub. L. 103–416, title I, § 102(b)](https://www.govinfo.gov/link/plaw/103/public/416), Oct. 25, 1994, [108 Stat. 4307](https://www.govinfo.gov/link/statute/108/4307).)*

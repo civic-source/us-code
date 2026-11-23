@@ -3,9 +3,10 @@ title: "Section 5383 - Selection of participating Indian tribes"
 usc_title: 25
 usc_section: "5383"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 5383"
-generated_at: "2026-03-30T02:54:52.869Z"
+generated_at: "2026-11-23T20:26:25.746Z"
+status: "active"
 ---
 
 # § 5383. Selection of participating Indian tribes
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:52.869Z"
   - **(1)** to plan for participation in self-governance; and
   - **(2)** to negotiate the terms of participation by the Indian tribe or tribal organization in self-governance, as set forth in a compact and a funding agreement.
 - **(f)** Receipt of a grant under subsection (e) of this section shall not be a requirement of participation in self-governance.
+
+## Source Credit
+
+*([Pub. L. 93–638, title V, § 503](https://www.govinfo.gov/link/plaw/93/public/638), as added [Pub. L. 106–260, § 4](https://www.govinfo.gov/link/plaw/106/public/260), Aug. 18, 2000, [114 Stat. 714](https://www.govinfo.gov/link/statute/114/714).)*

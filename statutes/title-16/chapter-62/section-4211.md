@@ -3,9 +3,10 @@ title: "Section 4211 - Provision of assistance"
 usc_title: 16
 usc_section: "4211"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 4211"
-generated_at: "2026-03-30T02:54:23.041Z"
+generated_at: "2026-11-23T20:26:20.735Z"
+status: "active"
 ---
 
 # § 4211. Provision of assistance
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:23.041Z"
 - **(g)**
   - **(1)** The Secretary may award to a person who is otherwise eligible for a grant under this section a multiyear grant of up to 5 years to carry out a project that the person demonstrates is an effective, long-term conservation strategy for African elephants and the habitat of African elephants.
   - **(2)** Nothing in this subsection precludes the Secretary from awarding a grant on an annual basis.
+
+## Source Credit
+
+*([Pub. L. 100–478, title II, § 2101](https://www.govinfo.gov/link/plaw/100/public/478), Oct. 7, 1988, [102 Stat. 2316](https://www.govinfo.gov/link/statute/102/2316); [Pub. L. 107–111](https://www.govinfo.gov/link/plaw/107/public/111), §§ 5, 6(a)(1), Jan. 8, 2002, [115 Stat. 2096](https://www.govinfo.gov/link/statute/115/2096); [Pub. L. 110–132, § 2(a)](https://www.govinfo.gov/link/plaw/110/public/132), Dec. 6, 2007, [121 Stat. 1360](https://www.govinfo.gov/link/statute/121/1360); [Pub. L. 118–159, div. E, title LIII, § 5303(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2445](https://www.govinfo.gov/link/statute/138/2445).)*

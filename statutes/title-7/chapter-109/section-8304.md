@@ -3,9 +3,10 @@ title: "Section 8304 - Exportation"
 usc_title: 7
 usc_section: "8304"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 8304"
-generated_at: "2026-03-30T02:53:42.473Z"
+generated_at: "2026-11-23T20:25:41.879Z"
+status: "active"
 ---
 
 # § 8304. Exportation
@@ -29,3 +30,21 @@ generated_at: "2026-03-30T02:53:42.473Z"
     - **(A)** $1,500,000 for each of fiscal years 2008 through 2018 to carry out section 11010 of the Food, Conservation, and Energy Act of 2008; and
     - **(B)** such sums as may be necessary for each of fiscal years 2008 through 2018 to carry out this section.
   - **(2)** Funds appropriated under paragraph (1) shall remain available until expended.
+
+Alternative Certification Process
+
+Final Regulations
+
+Voluntary Trichinae Certification.—
+
+Establishment
+
+Regulations
+
+Report
+
+Funding
+
+## Source Credit
+
+*([Pub. L. 107–171, title X, § 10405](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 497](https://www.govinfo.gov/link/statute/116/497); [Pub. L. 110–234, title XI, § 11010(c)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1360](https://www.govinfo.gov/link/statute/122/1360); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XI, § 11010(c), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2121; [Pub. L. 113–79, title XII, § 12101(c)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 978](https://www.govinfo.gov/link/statute/128/978).)*

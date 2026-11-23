@@ -3,9 +3,10 @@ title: "Section 70021 - Conditions for entry to ports in the United States"
 usc_title: 46
 usc_section: "70021"
 chapter: 700
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 70021"
-generated_at: "2026-03-30T02:56:15.585Z"
+generated_at: "2026-11-23T20:27:27.431Z"
+status: "active"
 ---
 
 # § 70021. Conditions for entry to ports in the United States
@@ -21,3 +22,15 @@ generated_at: "2026-03-30T02:56:15.585Z"
 - **(b)**
   - **(1)** The Secretary may allow provisional entry of a vessel that is not in compliance with subsection (a), if the owner or operator of such vessel proves, to the satisfaction of the Secretary, that such vessel is not unsafe or a threat to the marine environment, and if such entry is necessary for the safety of the vessel or persons aboard.
   - **(2)** Paragraphs (1), (2), (3), and (4) of subsection (a) of this section shall not apply to a vessel allowed provisional entry under paragraph (1) if the owner or operator of such vessel proves, to the satisfaction of the Secretary, that such vessel is no longer unsafe or a threat to the marine environment, and is no longer in violation of any applicable law, treaty, regulation, or condition, as appropriate.
+
+In General
+
+Exceptions.—
+
+In general
+
+Provisions not applicable
+
+## Source Credit
+
+*(Added [Pub. L. 115–282, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4260](https://www.govinfo.gov/link/statute/132/4260).)*

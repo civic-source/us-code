@@ -3,9 +3,10 @@ title: "Section 30108 - National Resource Center grant"
 usc_title: 34
 usc_section: "30108"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 30108"
-generated_at: "2026-03-30T02:55:33.306Z"
+generated_at: "2026-11-23T20:26:50.627Z"
+status: "active"
 ---
 
 # § 30108. National Resource Center grant
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:55:33.306Z"
   - **(3)** such other information as the Attorney General may reasonably require.
 - **(h)** Not later than November 1 of each even-numbered fiscal year, the Attorney General shall submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report that contains a compilation of the information contained in the reports submitted under subsection (g).
 - **(i)** There are authorized to be appropriated to carry out this section $4,000,000 for each of fiscal years 2023 through 2027.
+
+## Source Credit
+
+*([Pub. L. 117–103, div. W, title XIV, § 1402](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 948](https://www.govinfo.gov/link/statute/136/948).)*

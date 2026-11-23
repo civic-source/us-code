@@ -3,9 +3,10 @@ title: "Section 225b - Appearances before and reports to the Congress"
 usc_title: 12
 usc_section: "225b"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 225b"
-generated_at: "2026-03-30T02:53:53.376Z"
+generated_at: "2026-11-23T20:25:58.723Z"
+status: "active"
 ---
 
 # § 225b. Appearances before and reports to the Congress
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:53.376Z"
   - **(2)** the annual financial statements prepared by an independent auditor for the Board in accordance with section 248b of this title ;
   - **(3)** the reports to the Committee on Banking, Housing, and Urban Affairs of the Senate required under section 343(3) of this title (relating to emergency lending authority); and
   - **(4)** such other information as the Board reasonably believes is necessary or helpful to the public in understanding the accounting, financial reporting, and internal controls of the Board and the Federal reserve banks.
+
+## Source Credit
+
+*(Dec. 23, 1913, ch. 6, § 2B, as added [Pub. L. 106–569, title X, § 1003(b)(1)](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 3028](https://www.govinfo.gov/link/statute/114/3028); amended [Pub. L. 111–203, title XI, § 1103(a)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2118](https://www.govinfo.gov/link/statute/124/2118).)*

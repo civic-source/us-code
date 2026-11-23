@@ -3,9 +3,10 @@ title: "Section 1722 - Sense of Congress"
 usc_title: 47
 usc_section: "1722"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 1722"
-generated_at: "2026-03-30T02:56:24.539Z"
+generated_at: "2026-11-23T20:27:29.021Z"
+status: "active"
 ---
 
 # § 1722. Sense of Congress
@@ -22,3 +23,7 @@ It is the sense of Congress that—
   - **(3)** achieving digital equity for all people of the United States requires additional and sustained investment and research efforts;
   - **(4)** the Federal Government, as well as State, tribal, territorial, and local governments, have made social, legal, and economic obligations that necessarily extend to how the citizens and residents of those governments access and use the internet; and
   - **(5)** achieving digital equity is a matter of social and economic justice and is worth pursuing.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. F, title III, § 60303](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1212](https://www.govinfo.gov/link/statute/135/1212).)*

@@ -3,9 +3,10 @@ title: "Section 4612 - Minimum capital levels"
 usc_title: 12
 usc_section: "4612"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4612"
-generated_at: "2026-03-30T02:53:53.510Z"
+generated_at: "2026-11-23T20:25:59.404Z"
+status: "active"
 ---
 
 # § 4612. Minimum capital levels
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:53.510Z"
     - **(C)** a reasonable time frame for periodic review of any temporary increase in minimum capital for the purpose of making the determination referred to in paragraph (2).
 - **(e)** The Director may, at any time by order or regulation, establish such capital or reserve requirements with respect to any product or activity of a regulated entity, as the Director considers appropriate to ensure that the regulated entity operates in a safe and sound manner, with sufficient capital and reserves to support the risks that arise in the operations and management of the regulated entity.
 - **(f)** The Director shall periodically review the amount of core capital maintained by the enterprises, the amount of capital retained by the Federal Home Loan Banks, and the minimum capital levels established for such regulated entities pursuant to this section.
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1362](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3975](https://www.govinfo.gov/link/statute/106/3975); [Pub. L. 110–289, div. A, title I, § 1111](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2676](https://www.govinfo.gov/link/statute/122/2676).)*

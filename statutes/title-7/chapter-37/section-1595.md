@@ -3,9 +3,10 @@ title: "Section 1595 - Seizure"
 usc_title: 7
 usc_section: "1595"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1595"
-generated_at: "2026-03-30T02:53:42.328Z"
+generated_at: "2026-11-23T20:25:41.215Z"
+status: "active"
 ---
 
 # § 1595. Seizure
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:42.328Z"
   - **(3)** destruction.
 - **(c)** If such seed is disposed of by sale, the proceeds of the sale, less the court costs and fees and storage and other proper expenses, shall be paid into the Treasury as miscellaneous receipts, but such seed shall not be sold or disposed of in any jurisdiction contrary to the provisions of this chapter and the rules and regulations made and promulgated thereunder, or the laws of such jurisdiction.
 - **(d)** The proceedings in such libel cases shall conform, as nearly as may be, to the proceedings in admiralty, except that either party may demand trial by jury of any issue of fact joined in any such case; and such proceedings shall be at the suit of and in the name of the United States.
+
+## Source Credit
+
+*(Aug. 9, 1939, ch. 615, title IV, § 405, [53 Stat. 1286](https://www.govinfo.gov/link/statute/53/1286).)*

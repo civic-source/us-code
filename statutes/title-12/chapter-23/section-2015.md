@@ -3,9 +3,10 @@ title: "Section 2015 - Lending authority"
 usc_title: 12
 usc_section: "2015"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 2015"
-generated_at: "2026-03-30T02:53:53.471Z"
+generated_at: "2026-11-23T20:25:59.223Z"
+status: "active"
 ---
 
 # § 2015. Lending authority
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:53:53.471Z"
     - **(C)** The regulations may authorize a Farm Credit Bank to charge reasonable fees for any commitment to extend service under this section to such a financing institution.
     - **(D)** For purposes of this subsection, a financing institution together with the subsidiaries and affiliates of such may be considered as one, but such determination to consider such institution together with the subsidiaries and affiliates of such as one shall be made in the first instance by the bank and in the event of a denial by the bank of its services to a financial institution, then by the Farm Credit Administration on a case-by-case basis with due regard to the total relationship of the financing institution, its subsidiaries, and affiliates.
   - **(5)** Nothing in this section shall require termination of discount relationships in existence on December 24, 1980 .
+
+## Source Credit
+
+*([Pub. L. 92–181, title I, § 1](https://www.govinfo.gov/link/plaw/92/public/181).7, as added [Pub. L. 100–233, title IV, § 401](https://www.govinfo.gov/link/plaw/100/public/233), Jan. 6, 1988, [101 Stat. 1625](https://www.govinfo.gov/link/statute/101/1625); amended [Pub. L. 100–399, title IV, § 401(e)](https://www.govinfo.gov/link/plaw/100/public/399), (f), Aug. 17, 1988, [102 Stat. 995](https://www.govinfo.gov/link/statute/102/995), 996.)*

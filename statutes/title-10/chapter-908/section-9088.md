@@ -3,9 +3,10 @@ title: "Section 9088 - Duty assignments after officer training course"
 usc_title: 10
 usc_section: "9088"
 chapter: 908
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 9088"
-generated_at: "2026-03-30T02:53:38.256Z"
+generated_at: "2026-11-23T20:25:52.287Z"
+status: "active"
 ---
 
 # § 9088. Duty assignments after officer training course
@@ -20,3 +21,11 @@ generated_at: "2026-03-30T02:53:38.256Z"
   - **(2)** the manning rate for junior officer billets of the Space Force, disaggregated by career field and organization, including the National Reconnaissance Office;
   - **(3)** any identified shortfalls or imbalances in acquisition manning relative to operational manning in the Space Force; and
   - **(4)** actions taken or planned to achieve and sustain comparable manning levels for billets in acquisition and operations for Space Force officers.
+
+Requirement
+
+Report
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. A, title XVI, § 1601(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1172](https://www.govinfo.gov/link/statute/139/1172).)*

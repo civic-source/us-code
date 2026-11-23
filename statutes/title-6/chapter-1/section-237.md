@@ -3,9 +3,10 @@ title: "Section 237 - Information on visa denials required to be entered into el
 usc_title: 6
 usc_section: "237"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 237"
-generated_at: "2026-03-30T02:53:09.453Z"
+generated_at: "2026-11-23T20:25:34.676Z"
+status: "active"
 ---
 
 # § 237. Information on visa denials required to be entered into electronic data system
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:09.453Z"
 - **(b)** In the case of any alien with respect to whom a visa has been denied under subsection (a)—
   - **(1)** no subsequent visa may be issued to the alien unless the consular officer considering the alien’s visa application has reviewed the information concerning the alien placed in the interoperable electronic data system, has indicated on the alien’s application that the information has been reviewed, and has stated for the record why the visa is being issued or a waiver of visa ineligibility recommended in spite of that information; and
   - **(2)** the alien may not be admitted to the United States without a visa issued in accordance with the procedures described in paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 107–296, title IV, § 429](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2191](https://www.govinfo.gov/link/statute/116/2191).)*

@@ -3,9 +3,10 @@ title: "Section 3685 - Filing of information relating to periodical publications
 usc_title: 39
 usc_section: "3685"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "39 U.S.C. § 3685"
-generated_at: "2026-03-30T02:55:43.695Z"
+generated_at: "2026-11-23T20:26:57.760Z"
+status: "active"
 ---
 
 # § 3685. Filing of information relating to periodical publications
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:43.695Z"
   - **(5)** such other information as the Postal Service may deem necessary to determine whether the publication meets the standards for periodical publication mail privileges.
 - **(b)** Each publication having such mail privileges shall furnish to the Postal Service information in such form and detail, and at such times, as the Postal Service requires to determine whether the publication continues to qualify for such privileges.
 - **(c)** The Postal Service shall make appropriate rules and regulations to carry out the purposes of this section, including provision for suspension or revocation of periodical publication mail privileges for failure to furnish the required information.
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 765](https://www.govinfo.gov/link/statute/84/765).)*

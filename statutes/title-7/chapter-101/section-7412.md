@@ -3,9 +3,10 @@ title: "Section 7412 - Definitions"
 usc_title: 7
 usc_section: "7412"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7412"
-generated_at: "2026-03-30T02:53:42.450Z"
+generated_at: "2026-11-23T20:25:41.777Z"
+status: "active"
 ---
 
 # § 7412. Definitions
@@ -45,3 +46,7 @@ In this subchapter (unless the context otherwise requires):
   - **(16)** The term “suspend” means to issue a rule under section 553 of title 5 to temporarily prevent the operation of an order during a particular period of time specified in the rule.
   - **(17)** The term “terminate” means to issue a rule under section 553 of title 5 to cancel permanently the operation of an order beginning on a date certain specified in the rule.
   - **(18)** The term “United States” means collectively the 50 States, the District of Columbia, the Commonwealth of Puerto Rico and the territories and possessions of the United States.
+
+## Source Credit
+
+*([Pub. L. 104–127, title V, § 513](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1033](https://www.govinfo.gov/link/statute/110/1033); [Pub. L. 113–79, title X, § 10004(f)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 944](https://www.govinfo.gov/link/statute/128/944).)*

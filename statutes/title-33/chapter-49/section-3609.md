@@ -3,12 +3,17 @@ title: "Section 3609 - Intent of Congress"
 usc_title: 33
 usc_section: "3609"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 3609"
-generated_at: "2026-03-30T02:55:41.142Z"
+generated_at: "2026-11-23T20:26:54.270Z"
+status: "active"
 ---
 
 # § 3609. Intent of Congress
 
 It is the intent of Congress that funding provided to agencies of the Council to implement this chapter shall supplement, and not replace, existing sources of funding for other programs. It is the further intent of Congress that agencies of the Council shall not enter into contracts or agreements for the development or procurement of new Federal assets for the System that are estimated to be in excess of $250,000,000 in life-cycle costs without first providing adequate notice to Congress and opportunity for review and comment.
 
+
+## Source Credit
+
+*([Pub. L. 111–11, title XII, § 12310](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1436](https://www.govinfo.gov/link/statute/123/1436).)*

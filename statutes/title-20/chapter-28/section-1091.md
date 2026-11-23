@@ -3,9 +3,10 @@ title: "Section 1091 - Student eligibility"
 usc_title: 20
 usc_section: "1091"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1091"
-generated_at: "2026-03-30T02:54:48.132Z"
+generated_at: "2026-11-23T20:26:14.506Z"
+status: "active"
 ---
 
 # § 1091. Student eligibility
@@ -174,3 +175,11 @@ generated_at: "2026-03-30T02:54:48.132Z"
       - **(xiii)** rates of instructor turnover or departure for courses offered in prison education programs;
     - **(B)** results of each prison education program at each institution of higher education, including the information described in clauses (ii) through (xiii) of subparagraph (A); and
     - **(C)** findings regarding best practices with respect to prison education programs.
+
+General Rule
+
+Special Rules
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 484](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title IV, § 407(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1479](https://www.govinfo.gov/link/statute/100/1479); amended [Pub. L. 99–603, title I, § 121(a)(3)](https://www.govinfo.gov/link/plaw/99/public/603), Nov. 6, 1986, [100 Stat. 3388](https://www.govinfo.gov/link/statute/100/3388); [Pub. L. 100–50, § 15(7)](https://www.govinfo.gov/link/plaw/100/public/50) –(9), June 3, 1987, [101 Stat. 356](https://www.govinfo.gov/link/statute/101/356), 357; [Pub. L. 100–369](https://www.govinfo.gov/link/plaw/100/public/369), §§ 1, 2, 6, July 18, 1988, [102 Stat. 835](https://www.govinfo.gov/link/statute/102/835), 836; [Pub. L. 100–525, § 2(g)](https://www.govinfo.gov/link/plaw/100/public/525), Oct. 24, 1988, [102 Stat. 2611](https://www.govinfo.gov/link/statute/102/2611); [Pub. L. 101–508, title III, § 3005(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–27](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 102–26, § 2(b)](https://www.govinfo.gov/link/plaw/102/public/26), (c)(2), (d)(2)(A), Apr. 9, 1991, [105 Stat. 123](https://www.govinfo.gov/link/statute/105/123), 124; [Pub. L. 102–73, title VIII, § 801(a)](https://www.govinfo.gov/link/plaw/102/public/73), July 25, 1991, [105 Stat. 359](https://www.govinfo.gov/link/statute/105/359); [Pub. L. 102–325, title IV, § 484(a)](https://www.govinfo.gov/link/plaw/102/public/325), (b)(1), (c)–(h), July 23, 1992, [106 Stat. 615–619](https://www.govinfo.gov/link/statute/106/615); [Pub. L. 103–208, § 2(h)(13)](https://www.govinfo.gov/link/plaw/103/public/208) –(25), Dec. 20, 1993, [107 Stat. 2476](https://www.govinfo.gov/link/statute/107/2476), 2477; [Pub. L. 103–382, title III, § 360A](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 3969](https://www.govinfo.gov/link/statute/108/3969); [Pub. L. 104–208, div. C, title V, § 507(b)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–673](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 105–244, title IV, § 483(a)](https://www.govinfo.gov/link/plaw/105/public/244) –(f)(1), Oct. 7, 1998, [112 Stat. 1735](https://www.govinfo.gov/link/statute/112/1735), 1736; [Pub. L. 109–171, title VIII](https://www.govinfo.gov/link/plaw/109/public/171), §§ 8020(c), 8021, Feb. 8, 2006, [120 Stat. 178](https://www.govinfo.gov/link/statute/120/178); [Pub. L. 109–270, § 2(c)(2)](https://www.govinfo.gov/link/plaw/109/public/270), Aug. 12, 2006, [120 Stat. 746](https://www.govinfo.gov/link/statute/120/746); [Pub. L. 110–315, title IV, § 485(a)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3287](https://www.govinfo.gov/link/statute/122/3287); [Pub. L. 111–39, title IV, § 407(b)(4)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1950](https://www.govinfo.gov/link/statute/123/1950); [Pub. L. 112–74, div. F, title III, § 309(c)(1)](https://www.govinfo.gov/link/plaw/112/public/74), Dec. 23, 2011, [125 Stat. 1100](https://www.govinfo.gov/link/statute/125/1100); [Pub. L. 113–235, div. G, title III, § 309(a)(1)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2504](https://www.govinfo.gov/link/statute/128/2504); [Pub. L. 114–113, div. H, title III, § 313(1)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2638](https://www.govinfo.gov/link/statute/129/2638); [Pub. L. 116–91, § 6(b)](https://www.govinfo.gov/link/plaw/116/public/91), Dec. 19, 2019, [133 Stat. 1196](https://www.govinfo.gov/link/statute/133/1196); [Pub. L. 116–260, div. FF, title VII, § 702(n)(1)(A)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3182](https://www.govinfo.gov/link/statute/134/3182).)*

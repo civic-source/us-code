@@ -3,9 +3,10 @@ title: "Section 280l - Technical assistance for employer-based wellness programs
 usc_title: 42
 usc_section: "280l"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 280l"
-generated_at: "2026-03-30T02:56:10.735Z"
+generated_at: "2026-11-23T20:27:20.187Z"
+status: "active"
 ---
 
 # § 280l. Technical assistance for employer-based wellness programs
@@ -17,3 +18,25 @@ In order to expand the utilization of evidence-based prevention and health promo
     - **(B)** developing standardized measures that assess policy, environmental and systems changes necessary to have a positive health impact on employees’ health behaviors, health outcomes, and health care expenditures; and
     - **(C)** evaluating such programs as they relate to changes in the health status of employees, the absenteeism of employees, the productivity of employees, the rate of workplace injury, and the medical costs incurred by employees; and
   - **(2)** build evaluation capacity among workplace staff by training employers on how to evaluate employer-based wellness programs and ensuring evaluation resources, technical assistance, and consultation are available to workplace staff as needed through such mechanisms as web portals, call centers, or other means.
+
+Establishment
+
+Scope.—
+
+Duration
+
+Eligible employer
+
+Comprehensive Workplace Wellness Programs.—
+
+Criteria
+
+Requirements
+
+Application
+
+Authorization of Appropriation
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 399MM, as added and amended [Pub. L. 111–148, title IV, § 4303](https://www.govinfo.gov/link/plaw/111/public/148), title X, § 10404, Mar. 23, 2010, [124 Stat. 583](https://www.govinfo.gov/link/statute/124/583), 975.)*

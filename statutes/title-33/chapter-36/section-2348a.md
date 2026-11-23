@@ -3,9 +3,10 @@ title: "Section 2348a - NEPA reporting"
 usc_title: 33
 usc_section: "2348a"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2348a"
-generated_at: "2026-03-30T02:55:41.128Z"
+generated_at: "2026-11-23T20:26:54.202Z"
+status: "active"
 ---
 
 # § 2348a. NEPA reporting
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:41.128Z"
       - **(vii)** the length of time the Corps of Engineers took to complete each environmental impact statement described in clause (vi); and
       - **(viii)** the number of project studies pending on the date on which the report is submitted for which an environmental impact statement is being drafted.
   - **(2)** The Secretary shall make each annual report required under paragraph (1) publicly available (including on a publicly available website).
+
+## Source Credit
+
+*([Pub. L. 117–263, div. H, title LXXXI, § 8134](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3721](https://www.govinfo.gov/link/statute/136/3721).)*

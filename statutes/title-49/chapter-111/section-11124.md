@@ -3,9 +3,10 @@ title: "Section 11124 - War emergencies; embargoes imposed by carriers"
 usc_title: 49
 usc_section: "11124"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 11124"
-generated_at: "2026-03-30T02:56:19.325Z"
+generated_at: "2026-11-23T20:27:34.723Z"
+status: "active"
 ---
 
 # § 11124. War emergencies; embargoes imposed by carriers
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:19.325Z"
   - **(1)** When the President, during time of war or threatened war, notifies the Board that it is essential to the defense and security of the United States to give preference or priority to the movement of certain traffic, the Board shall direct that preference or priority be given to that traffic.
   - **(2)** When the President, during time of war or threatened war, demands that preference and precedence be given to the transportation of troops and material of war over all other traffic, all rail carriers providing transportation subject to the jurisdiction of the Board under this part shall adopt every means within their control to facilitate and expedite the military traffic.
 - **(b)** An embargo imposed by any such rail carrier does not apply to shipments consigned to agents of the United States Government for its use. The rail carrier shall deliver those shipments as promptly as possible.
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 102(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 834](https://www.govinfo.gov/link/statute/109/834).)*

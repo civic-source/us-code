@@ -3,9 +3,10 @@ title: "Section 2029 - Workfare"
 usc_title: 7
 usc_section: "2029"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2029"
-generated_at: "2026-03-30T02:53:42.373Z"
+generated_at: "2026-11-23T20:25:41.469Z"
+status: "active"
 ---
 
 # § 2029. Workfare
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:53:42.373Z"
       - **(i)** while such members are participating for the first time in a workfare program operated under this section; or
       - **(ii)** in the thirty-day period beginning on the date such first participation is terminated.
   - **(3)** The Secretary may suspend or cancel some or all of these payments, or may withdraw approval from a political subdivision to operate a workfare program, upon a finding that the subdivision has failed to comply with the workfare requirements.
+
+## Source Credit
+
+*([Pub. L. 88–525, § 20](https://www.govinfo.gov/link/plaw/88/public/525), as added [Pub. L. 97–98, title XIII, § 1333](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1291](https://www.govinfo.gov/link/statute/95/1291); amended [Pub. L. 97–253, title I](https://www.govinfo.gov/link/plaw/97/public/253), §§ 185–188, Sept. 8, 1982, [96 Stat. 786](https://www.govinfo.gov/link/statute/96/786); [Pub. L. 99–198, title XV, § 1517(d)](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1577](https://www.govinfo.gov/link/statute/99/1577); [Pub. L. 102–237, title IX, § 941(10)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1893](https://www.govinfo.gov/link/statute/105/1893); [Pub. L. 104–193, title I, § 109(e)](https://www.govinfo.gov/link/plaw/104/public/193), title VIII, § 815(b)(2), Aug. 22, 1996, [110 Stat. 2170](https://www.govinfo.gov/link/statute/110/2170), 2317; [Pub. L. 110–234, title IV, § 4001(b)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1092](https://www.govinfo.gov/link/statute/122/1092); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, § 4001(b), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1853.)*

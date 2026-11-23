@@ -3,9 +3,10 @@ title: "Section 284a - Advisory councils"
 usc_title: 42
 usc_section: "284a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 284a"
-generated_at: "2026-03-30T02:56:10.740Z"
+generated_at: "2026-11-23T20:27:20.210Z"
+status: "active"
 ---
 
 # § 284a. Advisory councils
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:56:10.740Z"
       - **(v)** the ex officio members of the Board shall be nonvoting members and shall be the Secretary, the Director of the Office of Science and Technology Policy, the Director of NIH, the Under Secretary for Health of the Department of Veterans Affairs, the Director of the National Institute for Occupational Safety and Health, the Director of the National Institute of Environmental Health Sciences, the Secretary of Labor, the Commissioner of the Food and Drug Administration, the Administrator of the Environmental Protection Agency, the Chairman of the Consumer Product Safety Commission, the Assistant Secretary of Defense for Health Affairs, and the Director of the Office of Science of the Department of Energy (or the designees of such officers); and
       - **(vi)** the Board shall meet at least four times each fiscal year.
     - **(B)** This section applies to the advisory council to the National Heart, Lung, and Blood Institute, except that the advisory council shall meet at least four times each fiscal year.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title IV, § 406, as added [Pub. L. 99–158, § 2](https://www.govinfo.gov/link/plaw/99/public/158), Nov. 20, 1985, [99 Stat. 828](https://www.govinfo.gov/link/statute/99/828); amended [Pub. L. 100–607, title I, § 117](https://www.govinfo.gov/link/plaw/100/public/607), Nov. 4, 1988, [102 Stat. 3053](https://www.govinfo.gov/link/statute/102/3053); [Pub. L. 101–381, title I, § 102(1)](https://www.govinfo.gov/link/plaw/101/public/381), Aug. 18, 1990, [104 Stat. 585](https://www.govinfo.gov/link/statute/104/585); [Pub. L. 102–405, title III, § 302(e)(1)](https://www.govinfo.gov/link/plaw/102/public/405), Oct. 9, 1992, [106 Stat. 1985](https://www.govinfo.gov/link/statute/106/1985); [Pub. L. 103–43, title II, § 210(a)](https://www.govinfo.gov/link/plaw/103/public/43), title XX, §§ 2008(b)(1), 2010(b)(2), June 10, 1993, [107 Stat. 149](https://www.govinfo.gov/link/statute/107/149), 210, 214; [Pub. L. 105–245, title III, § 309(b)(2)(C)](https://www.govinfo.gov/link/plaw/105/public/245), Oct. 7, 1998, [112 Stat. 1853](https://www.govinfo.gov/link/statute/112/1853); [Pub. L. 115–180, title I, § 111](https://www.govinfo.gov/link/plaw/115/public/180), June 5, 2018, [132 Stat. 1386](https://www.govinfo.gov/link/statute/132/1386).)*

@@ -3,9 +3,10 @@ title: "Section 6236 - Ministerial issuance, or amendment authorization"
 usc_title: 16
 usc_section: "6236"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6236"
-generated_at: "2026-03-30T02:54:23.056Z"
+generated_at: "2026-11-23T20:26:20.789Z"
+status: "active"
 ---
 
 # § 6236. Ministerial issuance, or amendment authorization
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:23.056Z"
   - **(3)** The authorization is amended—
     - **(A)** to effectuate administrative changes, such as modification of the land use fee or conversion to a new special use authorization form; or
     - **(B)** to include nondiscretionary environmental standards or to conform with current law.
+
+## Source Credit
+
+*([Pub. L. 108–7, div. F, title V, § 507](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 297](https://www.govinfo.gov/link/statute/117/297).)*

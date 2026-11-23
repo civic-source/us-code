@@ -3,9 +3,10 @@ title: "Section 804 - Definitions"
 usc_title: 5
 usc_section: "804"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 804"
-generated_at: "2026-03-30T02:52:55.992Z"
+generated_at: "2026-11-23T20:25:31.751Z"
+status: "active"
 ---
 
 # § 804. Definitions
@@ -21,3 +22,7 @@ For purposes of this chapter—
     - **(A)** any rule of particular applicability, including a rule that approves or prescribes for the future rates, wages, prices, services, or allowances therefor, corporate or financial structures, reorganizations, mergers, or acquisitions thereof, or accounting practices or disclosures bearing on any of the foregoing;
     - **(B)** any rule relating to agency management or personnel; or
     - **(C)** any rule of agency organization, procedure, or practice that does not substantially affect the rights or obligations of non-agency parties.
+
+## Source Credit
+
+*(Added [Pub. L. 104–121, title II, § 251](https://www.govinfo.gov/link/plaw/104/public/121), Mar. 29, 1996, [110 Stat. 873](https://www.govinfo.gov/link/statute/110/873).)*

@@ -3,9 +3,10 @@ title: "Section 3321 - Grants and contracts for eligible providers"
 usc_title: 29
 usc_section: "3321"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3321"
-generated_at: "2026-03-30T02:55:18.762Z"
+generated_at: "2026-11-23T20:26:38.150Z"
+status: "active"
 ---
 
 # § 3321. Grants and contracts for eligible providers
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:55:18.762Z"
   - **(11)** whether the eligible provider’s activities offer flexible schedules and coordination with Federal, State, and local support services (such as child care, transportation, mental health services, and career planning) that are necessary to enable individuals, including individuals with disabilities or other special needs, to attend and complete programs;
   - **(12)** whether the eligible provider maintains a high-quality information management system that has the capacity to report measurable participant outcomes (consistent with section 3141 of this title ) and to monitor program performance; and
   - **(13)** whether the local areas in which the eligible provider is located have a demonstrated need for additional English language acquisition programs and civics education programs.
+
+## Source Credit
+
+*([Pub. L. 113–128, title II, § 231](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1618](https://www.govinfo.gov/link/statute/128/1618).)*

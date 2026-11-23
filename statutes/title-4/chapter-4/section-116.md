@@ -3,9 +3,10 @@ title: "Section 116 - Rules for determining State and local government treatment
 usc_title: 4
 usc_section: "116"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "4 U.S.C. § 116"
-generated_at: "2026-03-30T02:52:51.498Z"
+generated_at: "2026-11-23T20:25:27.030Z"
+status: "active"
 ---
 
 # § 116. Rules for determining State and local government treatment of charges related to mobile telecommunications services
@@ -22,3 +23,17 @@ generated_at: "2026-03-30T02:52:51.498Z"
   - **(1)** do not apply to the determination of the taxing situs of prepaid telephone calling services;
   - **(2)** do not affect the taxability of either the initial sale of mobile telecommunications services or subsequent resale of such services, whether as sales of such services alone or as a part of a bundled product, if the Internet Tax Freedom Act would preclude a taxing jurisdiction from subjecting the charges of the sale of such services to a tax, charge, or fee, but this section provides no evidence of the intent of Congress with respect to the applicability of the Internet Tax Freedom Act to such charges; and
   - **(3)** do not apply to the determination of the taxing situs of air-ground radiotelephone service as defined in section 22.99 of title 47 of the Code of Federal Regulations as in effect on June 1, 1999 .
+
+Application of This Section Through Section
+
+General Exceptions
+
+Specific Exceptions
+
+Effective Date
+
+Application of Act
+
+## Source Credit
+
+*(Added [Pub. L. 106–252, § 2(a)](https://www.govinfo.gov/link/plaw/106/public/252), July 28, 2000, [114 Stat. 626](https://www.govinfo.gov/link/statute/114/626).)*

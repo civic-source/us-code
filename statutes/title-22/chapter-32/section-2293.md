@@ -3,9 +3,10 @@ title: "Section 2293 - Long-term development assistance for sub-Saharan Africa"
 usc_title: 22
 usc_section: "2293"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2293"
-generated_at: "2026-03-30T02:55:05.355Z"
+generated_at: "2026-11-23T20:26:32.219Z"
+status: "active"
 ---
 
 # § 2293. Long-term development assistance for sub-Saharan Africa
@@ -65,3 +66,87 @@ generated_at: "2026-03-30T02:55:05.355Z"
   - **(1)** To the extent funds are provided for such purpose in the annual Foreign Operations, Export Financing, and Related Programs Appropriations Act, funds made available to carry out this part may be used to assist sector projects, in the sectors specified in paragraph (2), that are supported by the Southern Africa Development Coordination Conference (SADCC) to enhance the economic development of the member states forming that regional institution.
   - **(2)** The sectors with respect to which assistance may be provided under this subsection are the following: transportation; manpower development; agriculture and natural resources; energy (including the improved utilization of electrical power sources which already exist in the member states and offer the potential to swiftly reduce the dependence of those states on South Africa for electricity); and industrial development and trade (including private sector initiatives).
   - **(3)** To the maximum extent feasible, the assistance authorized by this subsection shall be provided consistent with the policies and authorities contained in the preceding subsection of this section.
+
+Strategy Required.—
+
+In general
+
+Flexibility and responsiveness
+
+Report Required
+
+Interagency Working Group.—
+
+In general
+
+Functions
+
+In General
+
+Effectiveness Measurement
+
+Promotion of Use of Private Financing and Assistance
+
+Rule of Construction
+
+In General
+
+Findings
+
+Declaration of Policy
+
+Additional Requirements in Carrying Out the Initiative
+
+Sense of the Congress
+
+Bilateral Assistance
+
+Multilateral Assistance.—
+
+In general
+
+Additional requirement
+
+Purposes
+
+Support for Producer-Owned Cooperative Marketing Associations.—
+
+Activities.—
+
+In general
+
+Additional requirements
+
+Other activities
+
+Purpose
+
+Sense of the Congress
+
+Development of Plan
+
+Additional Requirements
+
+“As part of the annual Congressional Presentation materials for economic assistance, the Administrator of the Agency for International Development shall include a description of the progress made during the previous fiscal year in carrying out chapter 10 of part I of the Foreign Assistance Act of 1961 [this part] in three countries in sub-Saharan Africa which represent differing economic situations and levels of progress. The description shall include—
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 496, as added [Pub. L. 101–513, title V, § 562(a)](https://www.govinfo.gov/link/plaw/101/public/513), Nov. 5, 1990, [104 Stat. 2026](https://www.govinfo.gov/link/statute/104/2026); amended [Pub. L. 106–200, title I, § 127(c)](https://www.govinfo.gov/link/plaw/106/public/200), May 18, 2000, [114 Stat. 273](https://www.govinfo.gov/link/statute/114/273); [Pub. L. 106–264, title I, § 111(b)](https://www.govinfo.gov/link/plaw/106/public/264), Aug. 19, 2000, [114 Stat. 752](https://www.govinfo.gov/link/statute/114/752).)*

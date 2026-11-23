@@ -3,9 +3,10 @@ title: "Section 1260 - Permit approval or denial"
 usc_title: 30
 usc_section: "1260"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1260"
-generated_at: "2026-03-30T02:55:29.400Z"
+generated_at: "2026-11-23T20:26:35.021Z"
+status: "active"
 ---
 
 # § 1260. Permit approval or denial
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:29.400Z"
   - **(1)** In addition to finding the application in compliance with subsection (b) of this section, if the area proposed to be mined contains prime farmland pursuant to section 1257(b)(16) of this title , the regulatory authority shall, after consultation with the Secretary of Agriculture, and pursuant to regulations issued hereunder by the Secretary of 2 2 So in original. Probably should be “of the”. Interior with the concurrence of the Secretary of Agriculture, grant a permit to mine on prime farmland if the regulatory authority finds in writing that the operator has the technological capability to restore such mined area, within a reasonable time, to equivalent or higher levels of yield as non-mined prime farmland in the surrounding area under equivalent levels of management and can meet the soil reconstruction standards in section 1265(b)(7) of this title . Except for compliance with subsection (b), the requirements of this paragraph (1) shall apply to all permits issued after August 3, 1977 .
   - **(2)** Nothing in this subsection shall apply to any permit issued prior to August 3, 1977 , or to any revisions or renewals thereof, or to any existing surface mining operations for which a permit was issued prior to August 3, 1977 .
 - **(e)** After October 24, 1992 , the prohibition of subsection (c) shall not apply to a permit application due to any violation resulting from an unanticipated event or condition at a surface coal mining operation on lands eligible for remining under a permit held by the person making such application. As used in this subsection, the term “violation” has the same meaning as such term has under subsection (c).
+
+## Source Credit
+
+*([Pub. L. 95–87, title V, § 510](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 480](https://www.govinfo.gov/link/statute/91/480); [Pub. L. 102–486, title XXV, § 2503(a)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3102](https://www.govinfo.gov/link/statute/106/3102); [Pub. L. 109–432, div. C, title II, § 208](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 3019](https://www.govinfo.gov/link/statute/120/3019).)*

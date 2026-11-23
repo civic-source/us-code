@@ -3,9 +3,10 @@ title: "Section 2077 - Chronic Hazard Advisory Panels"
 usc_title: 15
 usc_section: "2077"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2077"
-generated_at: "2026-03-30T02:54:08.165Z"
+generated_at: "2026-11-23T20:26:04.165Z"
+status: "active"
 ---
 
 # § 2077. Chronic Hazard Advisory Panels
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:08.165Z"
 - **(h)**
   - **(1)** Notwithstanding any statutory restriction on the authority of agencies and departments of the Federal Government to share information, such agencies and departments shall provide the Panel with such information and data as each Panel, through the Commission, may request to carry out its duties under section 2080 of this title . Each Panel may request information, through the Commission, from States, industry and other private sources as it may require to carry out its responsibilities.
   - **(2)** Section 2055 of this title shall apply to the disclosure of information by the Panel but shall not apply to the disclosure of information to the Panel.
+
+## Source Credit
+
+*([Pub. L. 92–573, § 28](https://www.govinfo.gov/link/plaw/92/public/573), as added [Pub. L. 97–35, title XII, § 1206(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 716](https://www.govinfo.gov/link/statute/95/716); amended [Pub. L. 101–608, title I, § 116](https://www.govinfo.gov/link/plaw/101/public/608), Nov. 16, 1990, [104 Stat. 3121](https://www.govinfo.gov/link/statute/104/3121); [Pub. L. 110–314, title II, § 235(c)(6)](https://www.govinfo.gov/link/plaw/110/public/314), Aug. 14, 2008, [122 Stat. 3075](https://www.govinfo.gov/link/statute/122/3075).)*

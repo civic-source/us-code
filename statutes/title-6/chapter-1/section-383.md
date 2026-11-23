@@ -3,9 +3,10 @@ title: "Section 383 - National Computer Forensics Institute"
 usc_title: 6
 usc_section: "383"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 383"
-generated_at: "2026-03-30T02:53:09.462Z"
+generated_at: "2026-11-23T20:25:34.723Z"
+status: "active"
 ---
 
 # § 383. National Computer Forensics Institute
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:53:09.462Z"
   - **(1)** The term “cybersecurity threat” has the meaning given such term in section 1501 of this title .
   - **(2)** The term “incident” has the meaning given such term in section 659(a) 1 1 See References in Text note below. of this title.
   - **(3)** The term “information system” has the meaning given such term in section 1501(9) of this title .
+
+## Source Credit
+
+*([Pub. L. 107–296, title VIII, § 822](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 115–76, § 2(a)](https://www.govinfo.gov/link/plaw/115/public/76), Nov. 2, 2017, [131 Stat. 1246](https://www.govinfo.gov/link/statute/131/1246); amended [Pub. L. 117–263, div. G, title LXXI, § 7123](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3641](https://www.govinfo.gov/link/statute/136/3641).)*

@@ -3,9 +3,10 @@ title: "Section 8104 - Congressional approval of certain medical facility acquis
 usc_title: 38
 usc_section: "8104"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 8104"
-generated_at: "2026-03-30T02:55:53.536Z"
+generated_at: "2026-11-23T20:27:02.059Z"
+status: "active"
 ---
 
 # § 8104. Congressional approval of certain medical facility acquisitions
@@ -96,3 +97,21 @@ generated_at: "2026-03-30T02:55:53.536Z"
     - **(B)** Replacement leases that do not require approval under this section and for which a prospectus has been submitted to Congress pursuant to subsection (b)(2).
   - **(2)** In this subsection, the term “interim leasing actions” has the meaning given that term by the Administrator of the General Services Administration.
 - **(j)** The Secretary may obligate and expend funds to exercise a purchase option included in any major medical facility lease (as defined in subsection (a)(3)(B)).
+
+Findings
+
+Requirement for Obligation of Full Cost.—
+
+In general
+
+Self-insuring authority
+
+Transparency.—
+
+[Amended subsecs. (b)(7) and (h) of this section.]
+
+Rule of Construction
+
+## Source Credit
+
+*(Added [Pub. L. 96–22, title III, § 301(a)](https://www.govinfo.gov/link/plaw/96/public/22), June 13, 1979, [93 Stat. 56](https://www.govinfo.gov/link/statute/93/56), § 5004; amended [Pub. L. 99–166, title III](https://www.govinfo.gov/link/plaw/99/public/166), §§ 301, 303, Dec. 3, 1985, [99 Stat. 954](https://www.govinfo.gov/link/statute/99/954), 955; [Pub. L. 99–576, title II, § 221(b)](https://www.govinfo.gov/link/plaw/99/public/576), Oct. 28, 1986, [100 Stat. 3259](https://www.govinfo.gov/link/statute/100/3259); [Pub. L. 100–322, title IV, § 422](https://www.govinfo.gov/link/plaw/100/public/322), May 20, 1988, [102 Stat. 553](https://www.govinfo.gov/link/statute/102/553); renumbered § 8104 and amended [Pub. L. 102–40, title IV, § 402(b)(1)](https://www.govinfo.gov/link/plaw/102/public/40), (d)(1), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238), 239; [Pub. L. 102–83, § 4(b)(1)](https://www.govinfo.gov/link/plaw/102/public/83), (2)(E), Aug. 6, 1991, [105 Stat. 404](https://www.govinfo.gov/link/statute/105/404), 405; [Pub. L. 102–405, title III, § 301(a)](https://www.govinfo.gov/link/plaw/102/public/405), Oct. 9, 1992, [106 Stat. 1984](https://www.govinfo.gov/link/statute/106/1984); [Pub. L. 103–79, § 3(a)](https://www.govinfo.gov/link/plaw/103/public/79), Aug. 13, 1993, [107 Stat. 771](https://www.govinfo.gov/link/statute/107/771); [Pub. L. 104–262, title II](https://www.govinfo.gov/link/plaw/104/public/262), §§ 205(a), 206(a), (c), Oct. 9, 1996, [110 Stat. 3189](https://www.govinfo.gov/link/statute/110/3189), 3190; [Pub. L. 105–368, title VII, § 704](https://www.govinfo.gov/link/plaw/105/public/368), Nov. 11, 1998, [112 Stat. 3350](https://www.govinfo.gov/link/statute/112/3350); [Pub. L. 108–170, title II, § 201](https://www.govinfo.gov/link/plaw/108/public/170), Dec. 6, 2003, [117 Stat. 2047](https://www.govinfo.gov/link/statute/117/2047); [Pub. L. 108–422, title IV, § 416](https://www.govinfo.gov/link/plaw/108/public/422), Nov. 30, 2004, [118 Stat. 2393](https://www.govinfo.gov/link/statute/118/2393); [Pub. L. 109–461, title VIII, § 812](https://www.govinfo.gov/link/plaw/109/public/461), Dec. 22, 2006, [120 Stat. 3447](https://www.govinfo.gov/link/statute/120/3447); [Pub. L. 110–387, title VII, § 705](https://www.govinfo.gov/link/plaw/110/public/387), Oct. 10, 2008, [122 Stat. 4138](https://www.govinfo.gov/link/statute/122/4138); [Pub. L. 111–275, title IX, § 905](https://www.govinfo.gov/link/plaw/111/public/275), Oct. 13, 2010, [124 Stat. 2895](https://www.govinfo.gov/link/statute/124/2895); [Pub. L. 112–37](https://www.govinfo.gov/link/plaw/112/public/37), §§ 6, 7, Oct. 5, 2011, [125 Stat. 394](https://www.govinfo.gov/link/statute/125/394), 396; [Pub. L. 113–146, title VI, § 602(c)](https://www.govinfo.gov/link/plaw/113/public/146), Aug. 7, 2014, [128 Stat. 1794](https://www.govinfo.gov/link/statute/128/1794); [Pub. L. 114–315, title VIII, § 801(b)](https://www.govinfo.gov/link/plaw/114/public/315), (c), Dec. 16, 2016, [130 Stat. 1590](https://www.govinfo.gov/link/statute/130/1590); [Pub. L. 115–182, title V, § 503(b)](https://www.govinfo.gov/link/plaw/115/public/182), June 6, 2018, [132 Stat. 1476](https://www.govinfo.gov/link/statute/132/1476); [Pub. L. 116–61, § 6(9)](https://www.govinfo.gov/link/plaw/116/public/61), Sept. 30, 2019, [133 Stat. 1117](https://www.govinfo.gov/link/statute/133/1117); [Pub. L. 117–168, title VII, § 703(a)](https://www.govinfo.gov/link/plaw/117/public/168) –(e), Aug. 10, 2022, [136 Stat. 1797](https://www.govinfo.gov/link/statute/136/1797), 1798; [Pub. L. 117–263, div. E, title LI, § 5124(b)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3211](https://www.govinfo.gov/link/statute/136/3211); [Pub. L. 118–31, div. E, title L, § 5001](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 930](https://www.govinfo.gov/link/statute/137/930).)*

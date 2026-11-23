@@ -3,9 +3,10 @@ title: "Section 1202 - Procedures with respect to continued compliance with Inte
 usc_title: 29
 usc_section: "1202"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1202"
-generated_at: "2026-03-30T02:55:18.727Z"
+generated_at: "2026-11-23T20:26:38.005Z"
+status: "active"
 ---
 
 # § 1202. Procedures with respect to continued compliance with Internal Revenue requirements relating to participation, vesting, and funding standards
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:18.727Z"
 - **(c)** Regulations prescribed by the Secretary of the Treasury under sections 410(a), 411, and 412 of title 26 (relating to minimum participation standards, minimum vesting standards, and minimum funding standards, respectively) shall also apply to the minimum participation, vesting, and funding standards set forth in parts 2 and 3 of subtitle B of subchapter I of this chapter. Except as otherwise expressly provided in this chapter, the Secretary of Labor shall not prescribe other regulations under such parts, or apply the regulations prescribed by the Secretary of the Treasury under sections 410(a), 411, 412 of title 26 and applicable to the minimum participation, vesting, and funding standards under such parts in a manner inconsistent with the way such regulations apply under sections 410(a), 411, and 412 of title 26.
 - **(d)** The Secretary of Labor and the Pension Benefit Guaranty Corporation, before filing briefs in any case involving the construction or application of minimum participation standards, minimum vesting standards, or minimum funding standards under subchapter I of this chapter shall afford the Secretary of the Treasury a reasonable opportunity to review any such brief. The Secretary of the Treasury shall have the right to intervene in any such case.
 - **(e)** The Secretary of the Treasury shall consult with the Pension Benefit Guaranty Corporation with respect to any proposed or final regulation authorized by subpart C of part I of subchapter D of chapter 1 of title 26, or by sections 1421 through 1426 1 1 See References in Text note below. of this title, before publishing any such proposed or final regulation.
+
+## Source Credit
+
+*([Pub. L. 93–406, title III, § 3002](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 996](https://www.govinfo.gov/link/statute/88/996); [Pub. L. 96–364, title IV, § 402(b)(3)](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1299](https://www.govinfo.gov/link/statute/94/1299); [Pub. L. 101–239, title VII, § 7891(a)(1)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2445](https://www.govinfo.gov/link/statute/103/2445).)*

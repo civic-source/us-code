@@ -3,9 +3,10 @@ title: "Section 1304 - Marking of imported articles and containers"
 usc_title: 19
 usc_section: "1304"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1304"
-generated_at: "2026-03-30T02:54:24.626Z"
+generated_at: "2026-11-23T20:26:10.724Z"
+status: "active"
 ---
 
 # § 1304. Marking of imported articles and containers
@@ -47,3 +48,11 @@ generated_at: "2026-03-30T02:54:24.626Z"
 - **(l)** Any person who, with intent to conceal the information given thereby or contained therein, defaces, destroys, removes, alters, covers, obscures, or obliterates any mark required under the provisions of this chapter shall—
   - **(1)** upon conviction for the first violation of this subsection, be fined not more than $100,000, or imprisoned for not more than 1 year, or both; and
   - **(2)** upon conviction for the second or any subsequent violation of this subsection, be fined not more than $250,000, or imprisoned for not more than 1 year, or both.
+
+In general
+
+Transition from nafta treatment
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title III, § 304, [46 Stat. 687](https://www.govinfo.gov/link/statute/46/687); June 25, 1938, ch. 679, § 3, [52 Stat. 1077](https://www.govinfo.gov/link/statute/52/1077); Aug. 8, 1953, ch. 397, § 4(c), [67 Stat. 509](https://www.govinfo.gov/link/statute/67/509); [Pub. L. 98–573, title II, § 207](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 2976](https://www.govinfo.gov/link/statute/98/2976); [Pub. L. 99–514, title XVIII, § 1888(1)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2924](https://www.govinfo.gov/link/statute/100/2924); [Pub. L. 100–418, title I, § 1907(a)(1)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1314](https://www.govinfo.gov/link/statute/102/1314); [Pub. L. 103–182, title II, § 207(a)](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2096](https://www.govinfo.gov/link/statute/107/2096); [Pub. L. 104–295, § 14(a)](https://www.govinfo.gov/link/plaw/104/public/295), (b), Oct. 11, 1996, [110 Stat. 3521](https://www.govinfo.gov/link/statute/110/3521), 3522; [Pub. L. 106–36, title II, § 2423(a)](https://www.govinfo.gov/link/plaw/106/public/36), (b), June 25, 1999, [113 Stat. 180](https://www.govinfo.gov/link/statute/113/180); [Pub. L. 114–125, title IX, § 917(a)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 279](https://www.govinfo.gov/link/statute/130/279); [Pub. L. 116–113, title II, § 209(a)](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 52](https://www.govinfo.gov/link/statute/134/52).)*

@@ -3,9 +3,10 @@ title: "Section 1673e - Assessment of duty"
 usc_title: 19
 usc_section: "1673e"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1673e"
-generated_at: "2026-03-30T02:54:24.652Z"
+generated_at: "2026-11-23T20:26:10.849Z"
+status: "active"
 ---
 
 # § 1673e. Assessment of duty
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:54:24.652Z"
 - **(d)**
   - **(1)** In an investigation in which the Commission makes a regional industry determination under section 1677(4)(C) of this title , the administering authority shall, to the maximum extent possible, direct that duties be assessed only on the subject merchandise of the specific exporters or producers that exported the subject merchandise for sale in the region concerned during the period of investigation.
   - **(2)** After publication of the antidumping duty order, if the administering authority finds that a new exporter or producer is exporting the subject merchandise for sale in the region concerned, the administering authority shall direct that duties be assessed on the subject merchandise of the new exporter or producer consistent with the provisions of section 1675(a)(2)(B) of this title .
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title VII, § 736, as added [Pub. L. 96–39, title I, § 101](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 172](https://www.govinfo.gov/link/statute/93/172); amended [Pub. L. 99–514, title XVIII, § 1886(a)(7)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2922](https://www.govinfo.gov/link/statute/100/2922); [Pub. L. 100–418, title I, § 1325](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1201](https://www.govinfo.gov/link/statute/102/1201); [Pub. L. 103–465, title II](https://www.govinfo.gov/link/plaw/103/public/465), §§ 218(b)(2), 219(c)(9), 233(a)(1)(C), (2)(A)(iii), (5)(W)–(Y), Dec. 8, 1994, [108 Stat. 4855](https://www.govinfo.gov/link/statute/108/4855), 4857, 4898, 4900.)*

@@ -3,9 +3,10 @@ title: "Section 9658 - Actions under State law for damages from exposure to haza
 usc_title: 42
 usc_section: "9658"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9658"
-generated_at: "2026-03-30T02:56:11.364Z"
+generated_at: "2026-11-23T20:27:23.126Z"
+status: "active"
 ---
 
 # § 9658. Actions under State law for damages from exposure to hazardous substances
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.364Z"
     - **(B)** In the case of a minor or incompetent plaintiff, the term “federally required commencement date” means the later of the date referred to in subparagraph (A) or the following:
       - **(i)** In the case of a minor, the date on which the minor reaches the age of majority, as determined by State law, or has a legal representative appointed.
       - **(ii)** In the case of an incompetent individual, the date on which such individual becomes competent or has had a legal representative appointed.
+
+## Source Credit
+
+*([Pub. L. 96–510, title III, § 309](https://www.govinfo.gov/link/plaw/96/public/510), as added [Pub. L. 99–499, title II, § 203(a)](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1695](https://www.govinfo.gov/link/statute/100/1695).)*

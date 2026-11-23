@@ -3,9 +3,10 @@ title: "Section 1681k - Public record information for employment purposes"
 usc_title: 15
 usc_section: "1681k"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1681k"
-generated_at: "2026-03-30T02:54:08.152Z"
+generated_at: "2026-11-23T20:26:04.090Z"
+status: "active"
 ---
 
 # § 1681k. Public record information for employment purposes
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:08.152Z"
   - **(1)** at the time such public record information is reported to the user of such consumer report, notify the consumer of the fact that public record information is being reported by the consumer reporting agency, together with the name and address of the person to whom such information is being reported; or
   - **(2)** maintain strict procedures designed to insure that whenever public record information which is likely to have an adverse effect on a consumer’s ability to obtain employment is reported it is complete and up to date. For purposes of this paragraph, items of public record relating to arrests, indictments, convictions, suits, tax liens, and outstanding judgments shall be considered up to date if the current public record status of the item at the time of the report is reported.
 - **(b)** Subsection (a) does not apply in the case of an agency or department of the United States Government that seeks to obtain and use a consumer report for employment purposes, if the head of the agency or department makes a written finding as prescribed under section 1681b(b)(4)(A) of this title .
+
+## Source Credit
+
+*([Pub. L. 90–321, title VI, § 613](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 91–508, title VI, § 601](https://www.govinfo.gov/link/plaw/91/public/508), Oct. 26, 1970, [84 Stat. 1133](https://www.govinfo.gov/link/statute/84/1133); amended [Pub. L. 105–347, § 4(b)](https://www.govinfo.gov/link/plaw/105/public/347), Nov. 2, 1998, [112 Stat. 3210](https://www.govinfo.gov/link/statute/112/3210).)*

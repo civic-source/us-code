@@ -3,9 +3,10 @@ title: "Section 2803 - Maintenance of records and public disclosure"
 usc_title: 12
 usc_section: "2803"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 2803"
-generated_at: "2026-03-30T02:53:53.487Z"
+generated_at: "2026-11-23T20:25:59.307Z"
+status: "active"
 ---
 
 # § 2803. Maintenance of records and public disclosure
@@ -105,3 +106,7 @@ generated_at: "2026-03-30T02:53:53.487Z"
 - **(o)** In this section—
   - **(1)** the term “insured credit union” has the meaning given the term in section 1752 of this title ; and
   - **(2)** the term “insured depository institution” has the meaning given the term in section 1813 of this title .
+
+## Source Credit
+
+*([Pub. L. 94–200, title III, § 304](https://www.govinfo.gov/link/plaw/94/public/200), Dec. 31, 1975, [89 Stat. 1125](https://www.govinfo.gov/link/statute/89/1125); [Pub. L. 96–399, title III, § 340(a)](https://www.govinfo.gov/link/plaw/96/public/399), Oct. 8, 1980, [94 Stat. 1657](https://www.govinfo.gov/link/statute/94/1657); [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title VII, § 701(a)], Nov. 30, 1983, [97 Stat. 1266](https://www.govinfo.gov/link/statute/97/1266); [Pub. L. 100–242, title V](https://www.govinfo.gov/link/plaw/100/public/242), §§ 565(a)(2), 570(h), Feb. 5, 1988, [101 Stat. 1945](https://www.govinfo.gov/link/statute/101/1945), 1950; [Pub. L. 101–73, title XII, § 1211(a)](https://www.govinfo.gov/link/plaw/101/public/73) –(c)(2)(C), (f), (i), (j), Aug. 9, 1989, [103 Stat. 524–526](https://www.govinfo.gov/link/statute/103/524); [Pub. L. 102–242, title II, § 212(a)(1)](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2299](https://www.govinfo.gov/link/statute/105/2299); [Pub. L. 102–550, title IX, § 932(a)](https://www.govinfo.gov/link/plaw/102/public/550), (b), Oct. 28, 1992, [106 Stat. 3889](https://www.govinfo.gov/link/statute/106/3889), 3891; [Pub. L. 104–208, div. A, title II, § 2225(b)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–416](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 111–203, title X, § 1094(1)](https://www.govinfo.gov/link/plaw/111/public/203), (3), July 21, 2010, [124 Stat. 2097](https://www.govinfo.gov/link/statute/124/2097); [Pub. L. 115–174, title I, § 104(a)](https://www.govinfo.gov/link/plaw/115/public/174), (c), May 24, 2018, [132 Stat. 1300](https://www.govinfo.gov/link/statute/132/1300), 1301.)*

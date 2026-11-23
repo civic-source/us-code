@@ -3,9 +3,10 @@ title: "Section 472a - Timber sales on National Forest System lands"
 usc_title: 16
 usc_section: "472a"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 472a"
-generated_at: "2026-03-30T02:54:22.856Z"
+generated_at: "2026-11-23T20:26:20.072Z"
+status: "active"
 ---
 
 # § 472a. Timber sales on National Forest System lands
@@ -37,3 +38,65 @@ generated_at: "2026-03-30T02:54:22.856Z"
   - **(1)** For sales of timber which include a provision for purchaser credit for construction of permanent roads with an estimated cost in excess of $20,000, the Secretary of Agriculture shall promulgate regulations requiring that the notice of sale afford timber purchasers qualifying as “small business concerns” under the Small Business Act, as amended [ 15 U.S.C. 631 et seq.], and the regulations issued thereunder, an estimate of the cost and the right, when submitting a bid, to elect that the Secretary build the proposed road.
   - **(2)** If the purchaser makes such an election, the price subsequently paid for the timber shall include all of the estimated cost of the road. In the notice of sale, the Secretary of Agriculture shall set a date when such road shall be completed which shall be applicable to either construction by the purchaser or the Secretary, depending on the election. To accomplish requested work, the Secretary is authorized to use from any receipts from the sale of timber a sum equal to the estimate for timber purchaser credits, and such additional sums as may be appropriated for the construction of roads, such funds to be available until expended, to construct a road that meets the standards specified in the notice of sale.
   - **(3)** The provisions of this subsection shall become effective on October 1, 1976 .
+
+Definitions
+
+Forest plan
+
+National forest system.—
+
+In general
+
+Exclusions
+
+Secretary
+
+Timber sales on public domain forest reserves.—
+
+In general
+
+Limitation
+
+Long-term contracting for the forest service.—
+
+Long-term contracting
+
+Contract length
+
+Receipts
+
+Definitions
+
+Authorized producer price index
+
+Qualifying contract
+
+Secretary
+
+Options for Qualifying Contracts.—
+
+Cancellation or rate redetermination
+
+Substitution of index.—
+
+Substitution
+
+Rate redetermination following substitution of index
+
+Limitation on market-related contract term addition; periodic payments
+
+Contracts using hardwood lumber index
+
+Extension of Market-Related Contract Term Addition Time Limit for Certain Contracts
+
+Effect of Options.—
+
+No surrender of claims
+
+Release of liability
+
+Limitation
+
+## Source Credit
+
+*([Pub. L. 94–588, § 14](https://www.govinfo.gov/link/plaw/94/public/588), Oct. 22, 1976, [90 Stat. 2958](https://www.govinfo.gov/link/statute/90/2958); [Pub. L. 95–233](https://www.govinfo.gov/link/plaw/95/public/233), Feb. 20, 1978, [92 Stat. 32](https://www.govinfo.gov/link/statute/92/32); [Pub. L. 101–626, title I, § 105(a)](https://www.govinfo.gov/link/plaw/101/public/626), Nov. 28, 1990, [104 Stat. 4427](https://www.govinfo.gov/link/statute/104/4427); [Pub. L. 113–79, title VIII, § 8303](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 924](https://www.govinfo.gov/link/statute/128/924).)*

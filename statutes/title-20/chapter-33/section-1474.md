@@ -3,9 +3,10 @@ title: "Section 1474 - Technology development, demonstration, and utilization; m
 usc_title: 20
 usc_section: "1474"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1474"
-generated_at: "2026-03-30T02:54:48.168Z"
+generated_at: "2026-11-23T20:26:14.666Z"
+status: "active"
 ---
 
 # § 1474. Technology development, demonstration, and utilization; media services; and instructional materials
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:54:48.168Z"
   - **(4)** This subsection shall apply to print instructional materials published after the date on which the final rule establishing the National Instructional Materials Accessibility Standard was published in the Federal Register.
   - **(5)** Nothing in this subsection shall be construed to establish a private right of action against the Secretary for failure to provide instructional materials directly, or for failure by the National Instructional Materials Access Center to perform the duties of such center, or to otherwise authorize a private right of action related to the performance by such center, including through the application of the rights of children and parents established under this chapter.
   - **(6)** Subsections (a) through (d) shall not apply to this subsection.
+
+## Source Credit
+
+*([Pub. L. 91–230, title VI, § 674](https://www.govinfo.gov/link/plaw/91/public/230), as added [Pub. L. 108–446, title I, § 101](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2792](https://www.govinfo.gov/link/statute/118/2792).)*

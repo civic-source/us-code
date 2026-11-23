@@ -3,9 +3,10 @@ title: "Section 4371 - Trade Remedy Law Enforcement Division"
 usc_title: 19
 usc_section: "4371"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 4371"
-generated_at: "2026-03-30T02:54:24.707Z"
+generated_at: "2026-11-23T20:26:11.140Z"
+status: "active"
 ---
 
 # § 4371. Trade Remedy Law Enforcement Division
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:54:24.707Z"
     - **(B)** for issuing, as appropriate, Trade Alerts described in subsection (d); and
   - **(2)** to the extent practicable and otherwise authorized by law, use information available from the Automated Commercial System, the Automated Commercial Environment, the Automated Targeting System, the Automated Export System, the International Trade Data System established under section 1411(d) of this title , and the TECS (formerly known as the “Treasury Enforcement Communications System”), and any similar and successor systems, to administer the methodologies and standards established under paragraph (1).
 - **(d)** Based upon the application of the targeted risk assessment methodologies and standards established under subsection (c), the Director of the Trade Remedy Law Enforcement Division shall issue Trade Alerts or other such means of notification to directors of United States ports of entry directing further inspection, physical examination, or testing of merchandise to ensure compliance with the trade remedy laws and to require additional bonds, cash deposits, or other security to ensure collection of any duties, taxes, and fees owed.
+
+## Source Credit
+
+*([Pub. L. 114–125, title IV, § 411](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 156](https://www.govinfo.gov/link/statute/130/156).)*

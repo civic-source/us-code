@@ -3,9 +3,10 @@ title: "Section 1833 - Exceptions to prohibitions"
 usc_title: 18
 usc_section: "1833"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 1833"
-generated_at: "2026-03-30T02:54:16.491Z"
+generated_at: "2026-11-23T20:26:08.529Z"
+status: "active"
 ---
 
 # § 1833. Exceptions to prohibitions
@@ -29,3 +30,29 @@ generated_at: "2026-03-30T02:54:16.491Z"
     - **(D)** This paragraph shall apply to contracts and agreements that are entered into or updated after the date of enactment of this subsection.
   - **(4)** For purposes of this subsection, the term “employee” includes any individual performing work as a contractor or consultant for an employer.
   - **(5)** Except as expressly provided for under this subsection, nothing in this subsection shall be construed to authorize, or limit liability for, an act that is otherwise prohibited by law, such as the unlawful access of material by unauthorized means.
+
+In General
+
+Immunity From Liability for Confidential Disclosure of a Trade Secret to the Government or in a Court Filing.—
+
+Immunity
+
+Use of trade secret information in anti-retaliation lawsuit
+
+Notice.—
+
+In general
+
+Policy document
+
+Non-compliance
+
+Applicability
+
+Employee defined
+
+Rule of construction
+
+## Source Credit
+
+*(Added [Pub. L. 104–294, title I, § 101(a)](https://www.govinfo.gov/link/plaw/104/public/294), Oct. 11, 1996, [110 Stat. 3489](https://www.govinfo.gov/link/statute/110/3489); amended [Pub. L. 114–153](https://www.govinfo.gov/link/plaw/114/public/153), §§ 2(c), 7(a), May 11, 2016, [130 Stat. 381](https://www.govinfo.gov/link/statute/130/381), 384.)*

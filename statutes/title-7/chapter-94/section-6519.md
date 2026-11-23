@@ -3,9 +3,10 @@ title: "Section 6519 - Recordkeeping, investigations, and enforcement"
 usc_title: 7
 usc_section: "6519"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6519"
-generated_at: "2026-03-30T02:53:42.432Z"
+generated_at: "2026-11-23T20:25:41.713Z"
+status: "active"
 ---
 
 # § 6519. Recordkeeping, investigations, and enforcement
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:53:42.432Z"
       - **(iii)** the Egg Products Inspection Act ( 21 U.S.C. 1031 et seq.);
     - **(B)** the authority of the Secretary of Health and Human Services under the Federal Food, Drug, and Cosmetic Act ( 21 U.S.C. 301 et seq.); or
     - **(C)** the authority of the Administrator of the Environmental Protection Agency under the Federal Insecticide, Fungicide, and Rodenticide Act ( 7 U.S.C. 136 et seq.).
+
+## Source Credit
+
+*([Pub. L. 101–624, title XXI, § 2120](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3949](https://www.govinfo.gov/link/statute/104/3949); [Pub. L. 102–237, title X, § 1001(8)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1893](https://www.govinfo.gov/link/statute/105/1893); [Pub. L. 113–79, title X, § 10005(c)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 944](https://www.govinfo.gov/link/statute/128/944); [Pub. L. 115–334, title X, § 10104(g)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4901](https://www.govinfo.gov/link/statute/132/4901).)*

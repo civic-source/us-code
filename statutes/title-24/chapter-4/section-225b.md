@@ -3,9 +3,10 @@ title: "Section 225b - Development of plan for mental health system for the Dist
 usc_title: 24
 usc_section: "225b"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "24 U.S.C. § 225b"
-generated_at: "2026-03-30T02:54:50.790Z"
+generated_at: "2026-11-23T20:26:22.691Z"
+status: "active"
 ---
 
 # § 225b. Development of plan for mental health system for the District
@@ -42,3 +43,11 @@ generated_at: "2026-03-30T02:54:50.790Z"
     - **(B)** At a minimum until October 1, 1987 , the Secretary shall maintain all other facilities and infrastructure of the Hospital not assumed by the District in the condition described in such audit.
     - **(C)** The Secretary may enter into an agreement with the Mayor under which the Secretary shall provide funds to the Mayor to complete the repairs and renovations described in subparagraph (A) and to make other capital improvements that are necessary for the safe and cost effective delivery of mental health services in the District, except that $7,500,000 of the funds provided to the Mayor under such an agreement shall be used to make capital improvements to facilities not located at Saint Elizabeths Hospital. Of the $7,500,000 provided for improvements to facilities not located at the Hospital, not less than $5,000,000 shall be used to make capital improvements to housing facilities for seriously and chronically mentally ill individuals.
 - **(g)** During the service coordination period, the District of Columbia and the Secretary, to the extent provided in the Federal court consent decree, shall be jointly responsible for providing citizens with the full range and scope of mental health services set forth in such decree and the system implementation plan. No provision of this subchapter or any action or agreement during the service coordination period may be so construed as to absolve or relieve the District or the Federal Government of their joint or respective responsibilities to implement fully the mandates of the Federal court consent decree.
+
+In General
+
+Effect on Pending Claims
+
+## Source Credit
+
+*([Pub. L. 98–621, § 4](https://www.govinfo.gov/link/plaw/98/public/621), Nov. 8, 1984, [98 Stat. 3371](https://www.govinfo.gov/link/statute/98/3371); [Pub. L. 102–150](https://www.govinfo.gov/link/plaw/102/public/150), §§ 2, 3(a), Oct. 31, 1991, [105 Stat. 980](https://www.govinfo.gov/link/statute/105/980); [Pub. L. 105–33, title XI, § 11717(b)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 786](https://www.govinfo.gov/link/statute/111/786); [Pub. L. 117–286, § 4(a)(179)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4325](https://www.govinfo.gov/link/statute/136/4325).)*

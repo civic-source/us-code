@@ -3,9 +3,10 @@ title: "Section 481 - Adjustments required by changes in method of accounting"
 usc_title: 26
 usc_section: "481"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 481"
-generated_at: "2026-03-30T02:55:27.708Z"
+generated_at: "2026-11-23T20:26:45.777Z"
+status: "active"
 ---
 
 # § 481. Adjustments required by changes in method of accounting
@@ -31,3 +32,11 @@ generated_at: "2026-03-30T02:55:27.708Z"
       - **(i)** was an S corporation on the day before the date of the enactment of the Tax Cuts and Jobs Act, and
       - **(ii)** during the 2-year period beginning on the date of such enactment makes a revocation of its election under section 1362(a), and
     - **(B)** the owners of the stock of which, determined on the date such revocation is made, are the same owners (and in identical proportions) as on the date of such enactment.
+
+In general
+
+Exception for certain agreements
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 160; [Pub. L. 85–866, title I, § 29(a)](https://www.govinfo.gov/link/plaw/85/public/866), (b), Sept. 2, 1958, [72 Stat. 1626–1628](https://www.govinfo.gov/link/statute/72/1626); [Pub. L. 91–172, title V, § 512(f)(4)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 641](https://www.govinfo.gov/link/statute/83/641); [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1901(a)(70), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1776](https://www.govinfo.gov/link/statute/90/1776), 1834; [Pub. L. 96–471, § 2(b)(3)](https://www.govinfo.gov/link/plaw/96/public/471), Oct. 19, 1980, [94 Stat. 2254](https://www.govinfo.gov/link/statute/94/2254); [Pub. L. 113–295, div. A, title II, § 221(a)(61)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4048](https://www.govinfo.gov/link/statute/128/4048); [Pub. L. 115–97, title I, § 13543(a)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2155](https://www.govinfo.gov/link/statute/131/2155).)*

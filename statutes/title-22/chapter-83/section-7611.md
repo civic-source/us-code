@@ -3,9 +3,10 @@ title: "Section 7611 - Development of a comprehensive, five-year, global strateg
 usc_title: 22
 usc_section: "7611"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7611"
-generated_at: "2026-03-30T02:55:05.442Z"
+generated_at: "2026-11-23T20:26:32.671Z"
+status: "active"
 ---
 
 # § 7611. Development of a comprehensive, five-year, global strategy
@@ -213,3 +214,9 @@ generated_at: "2026-03-30T02:55:05.442Z"
 - **(h)** The Global AIDS Coordinator shall develop a message, to be prominently displayed by each program receiving funds under this chapter, that—
   - **(1)** demonstrates that the program is a commitment by citizens of the United States to the global fight against HIV/AIDS, tuberculosis, and malaria; and
   - **(2)** enhances awareness by program recipients that the program is an effort on behalf of the citizens of the United States.
+
+George W. Bush.
+
+## Source Credit
+
+*([Pub. L. 108–25, title I, § 101](https://www.govinfo.gov/link/plaw/108/public/25), May 27, 2003, [117 Stat. 718](https://www.govinfo.gov/link/statute/117/718); [Pub. L. 110–293, title I, § 101](https://www.govinfo.gov/link/plaw/110/public/293), July 30, 2008, [122 Stat. 2923](https://www.govinfo.gov/link/statute/122/2923); [Pub. L. 113–56](https://www.govinfo.gov/link/plaw/113/public/56), §§ 2, 3(a), Dec. 2, 2013, [127 Stat. 648](https://www.govinfo.gov/link/statute/127/648); [Pub. L. 115–305, § 2](https://www.govinfo.gov/link/plaw/115/public/305), Dec. 11, 2018, [132 Stat. 4402](https://www.govinfo.gov/link/statute/132/4402); [Pub. L. 118–47, div. F, title VII, § 7072(a)](https://www.govinfo.gov/link/plaw/118/public/47), Mar. 23, 2024, [138 Stat. 852](https://www.govinfo.gov/link/statute/138/852).)*

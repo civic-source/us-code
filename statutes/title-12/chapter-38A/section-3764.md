@@ -3,9 +3,10 @@ title: "Section 3764 - Record of foreclosure and sale"
 usc_title: 12
 usc_section: "3764"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 3764"
-generated_at: "2026-03-30T02:53:53.498Z"
+generated_at: "2026-11-23T20:25:59.351Z"
+status: "active"
 ---
 
 # § 3764. Record of foreclosure and sale
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:53.498Z"
   - **(1)** be prima facie evidence of the truth of such facts in any Federal or State court; and
   - **(2)** evidence a conclusive presumption in favor of bona fide purchasers and encumbrancers for value without notice.
 - **(c)** The deed executed by the foreclosure commissioner, the foreclosure commissioner’s affidavit (if prepared) and any other instruments submitted for recordation in relation to the foreclosure of the security property under this chapter shall be accepted for recordation by the registrar of deeds or other appropriate official of the county or counties in which the security property is located upon tendering of payment of the usual recording fees for such instruments, and without regard to the compliance of those instruments with any other local filing requirements.
+
+## Source Credit
+
+*([Pub. L. 103–327, title II](https://www.govinfo.gov/link/plaw/103/public/327), Sept. 28, 1994, [108 Stat. 2316](https://www.govinfo.gov/link/statute/108/2316).)*

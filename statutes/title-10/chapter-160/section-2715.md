@@ -3,9 +3,10 @@ title: "Section 2715 - Testing for perfluoroalkyl substances and polyfluoroalkyl
 usc_title: 10
 usc_section: "2715"
 chapter: 160
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2715"
-generated_at: "2026-03-30T02:53:38.173Z"
+generated_at: "2026-11-23T20:25:51.689Z"
+status: "active"
 ---
 
 # § 2715. Testing for perfluoroalkyl substances and polyfluoroalkyl substances at military installations and facilities of the National Guard
@@ -19,3 +20,33 @@ generated_at: "2026-03-30T02:53:38.173Z"
 - **(e)** In this section:
   - **(1)** The term “military installation” has the meaning given such term in section 2801(c)(4) of this title .
   - **(2)** The terms “perfluoroalkyl substance” and “polyfluoroalkyl substance” have the meanings given such terms in section 2714 of this title .
+
+In General
+
+Determination of Contamination
+
+Additional Response Actions
+
+Type of Testing
+
+Definitions
+
+Public Disclosure of Results.—
+
+In general
+
+Consent by private property owners
+
+Public Disclosure of Planned Testing of Water
+
+Nature of Disclosure
+
+Local Notification
+
+Methods for Testing
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 117–81, div. A, title III, § 341(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1642](https://www.govinfo.gov/link/statute/135/1642).)*

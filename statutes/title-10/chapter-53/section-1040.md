@@ -3,9 +3,10 @@ title: "Section 1040 - Transportation of dependent patients"
 usc_title: 10
 usc_section: "1040"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1040"
-generated_at: "2026-03-30T02:53:38.096Z"
+generated_at: "2026-11-23T20:25:51.177Z"
+status: "active"
 ---
 
 # § 1040. Transportation of dependent patients
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:38.096Z"
       - **(ii)** such facility, in carrying out the required number of necessary obstetric cases, would not maintain competency of its obstetrical staff unless the facility provides such services to such dependent.
 - **(b)** This section does not authorize transportation and travel expenses for a dependent for elective surgery which is determined to be not medically indicated by a medical authority designated under joint regulations to be prescribed under this section.
 - **(c)** In this section, the term “dependent” has the meaning given that term in section 1072 of this title .
+
+## Source Credit
+
+*(Added [Pub. L. 89–140, § 1(1)](https://www.govinfo.gov/link/plaw/89/public/140), Aug. 28, 1965, [79 Stat. 579](https://www.govinfo.gov/link/statute/79/579); amended [Pub. L. 96–513, title V, § 511(32)](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2922](https://www.govinfo.gov/link/statute/94/2922); [Pub. L. 98–94, title IX, § 913(b)](https://www.govinfo.gov/link/plaw/98/public/94), Sept. 24, 1983, [97 Stat. 640](https://www.govinfo.gov/link/statute/97/640); [Pub. L. 98–525, title VI, § 611](https://www.govinfo.gov/link/plaw/98/public/525), title XIV, § 1405(21), Oct. 19, 1984, [98 Stat. 2538](https://www.govinfo.gov/link/statute/98/2538), 2623; [Pub. L. 99–348, title III, § 304(a)(2)](https://www.govinfo.gov/link/plaw/99/public/348), July 1, 1986, [100 Stat. 703](https://www.govinfo.gov/link/statute/100/703); [Pub. L. 99–661, div. A, title VI, § 616(a)](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 3880](https://www.govinfo.gov/link/statute/100/3880); [Pub. L. 112–81, div. A, title VII, § 705](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1473](https://www.govinfo.gov/link/statute/125/1473); [Pub. L. 113–66, div. A, title VI, § 621(b)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 783](https://www.govinfo.gov/link/statute/127/783); [Pub. L. 113–291, div. A, title X, § 1071(f)(11)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3510](https://www.govinfo.gov/link/statute/128/3510); [Pub. L. 114–92, div. A, title VII, § 721](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 869](https://www.govinfo.gov/link/statute/129/869).)*

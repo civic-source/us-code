@@ -3,9 +3,10 @@ title: "Section 731 - Adverse actions against supervisory employees who commit p
 usc_title: 38
 usc_section: "731"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 731"
-generated_at: "2026-03-30T02:55:53.475Z"
+generated_at: "2026-11-23T20:27:01.583Z"
+status: "active"
 ---
 
 # § 731. Adverse actions against supervisory employees who commit prohibited personnel actions relating to whistleblower complaints
@@ -32,3 +33,23 @@ generated_at: "2026-03-30T02:55:53.475Z"
   - **(3)** Conducting a negative peer review or opening a retaliatory investigation because of an activity of an employee that is protected by section 2302 of title 5 .
   - **(4)** Requesting a contractor to carry out an action that is prohibited by section 4705(b) or section 4712(a)(1) of title 41 , as the case may be.
 - **(d)** In this section, the term “whistleblower disclosure” has the meaning given such term in section 323(g) of this title .
+
+In General
+
+Limitation on Other Adverse Actions
+
+Prohibited Personnel Action Described
+
+Whistleblower Disclosure Defined
+
+In General
+
+Definitions
+
+Supervisor
+
+Whistleblower
+
+## Source Credit
+
+*(Added [Pub. L. 114–223, div. A, title II, § 247(a)(1)](https://www.govinfo.gov/link/plaw/114/public/223), Sept. 29, 2016, [130 Stat. 887](https://www.govinfo.gov/link/statute/130/887), § 733; renumbered § 731 and amended [Pub. L. 115–41, title I, § 102(a)(2)](https://www.govinfo.gov/link/plaw/115/public/41), (c), title II, § 206, June 23, 2017, [131 Stat. 865](https://www.govinfo.gov/link/statute/131/865), 867, 877.)*

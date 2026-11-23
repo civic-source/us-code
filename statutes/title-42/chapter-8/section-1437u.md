@@ -3,9 +3,10 @@ title: "Section 1437u - Family Self-Sufficiency program"
 usc_title: 42
 usc_section: "1437u"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1437u"
-generated_at: "2026-03-30T02:56:11.087Z"
+generated_at: "2026-11-23T20:27:21.749Z"
+status: "active"
 ---
 
 # § 1437u. Family Self-Sufficiency program
@@ -105,3 +106,13 @@ generated_at: "2026-03-30T02:56:11.087Z"
   - **(1)** The term “eligible entity” means an entity that meets the requirements under subsection (c)(2) to administer a Family Self-Sufficiency program under this section.
   - **(2)** The term “eligible family” means a family that meets the requirements under subsection (c)(1) to participate in the Family Self-Sufficiency program under this section.
   - **(3)** The term “participating family” means an eligible family that is participating in the Family Self-Sufficiency program under this section.
+
+In general
+
+Timing
+
+Applicability to indian public housing
+
+## Source Credit
+
+*(Sept. 1, 1937, ch. 896, title I, § 23, as added [Pub. L. 101–625, title V, § 554(a)](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4225](https://www.govinfo.gov/link/statute/104/4225); amended [Pub. L. 102–550, title I](https://www.govinfo.gov/link/plaw/102/public/550), §§ 106, 185(b), Oct. 28, 1992, [106 Stat. 3684](https://www.govinfo.gov/link/statute/106/3684), 3747; [Pub. L. 104–316, title I, § 122](https://www.govinfo.gov/link/plaw/104/public/316) (l), Oct. 19, 1996, [110 Stat. 3837](https://www.govinfo.gov/link/statute/110/3837); [Pub. L. 104–330, title V, § 501(b)(8)](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4042](https://www.govinfo.gov/link/statute/110/4042); [Pub. L. 105–276, title V, § 509(a)](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2530](https://www.govinfo.gov/link/statute/112/2530); [Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(31), (f)(23)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–425, 2681–433; [Pub. L. 113–128, title V, § 512(ii)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1721](https://www.govinfo.gov/link/statute/128/1721); [Pub. L. 115–174, title III, § 306(a)](https://www.govinfo.gov/link/plaw/115/public/174), May 24, 2018, [132 Stat. 1339](https://www.govinfo.gov/link/statute/132/1339).)*

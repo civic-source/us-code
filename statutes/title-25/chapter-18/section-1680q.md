@@ -3,9 +3,10 @@ title: "Section 1680q - Prescription drug monitoring"
 usc_title: 25
 usc_section: "1680q"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1680q"
-generated_at: "2026-03-30T02:54:52.828Z"
+generated_at: "2026-11-23T20:26:25.531Z"
+status: "active"
 ---
 
 # § 1680q. Prescription drug monitoring
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:52.828Z"
     - **(B)** the training conducted pursuant to paragraph (1)(B);
     - **(C)** infrastructure enhancements required to carry out the activities described in paragraph (1), if any; and
     - **(D)** any statutory or administrative barriers to carrying out those activities.
+
+## Source Credit
+
+*([Pub. L. 94–437, title VIII, § 827](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

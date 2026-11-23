@@ -3,9 +3,10 @@ title: "Section 2430b - Eligibility for benefits"
 usc_title: 22
 usc_section: "2430b"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2430b"
-generated_at: "2026-03-30T02:55:05.366Z"
+generated_at: "2026-11-23T20:26:32.297Z"
+status: "active"
 ---
 
 # § 2430b. Eligibility for benefits
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:05.366Z"
   - **(6)** has put in place major investment reforms in conjunction with an Inter-American Development Bank loan or otherwise is implementing, or is making significant progress toward, an open investment regime; and
   - **(7)** if appropriate, has agreed with its commercial bank lenders on a satisfactory financing program, including, as appropriate, debt or debt service reduction.
 - **(b)** Consistent with subsection (a), the President shall determine whether a country is eligible to receive benefits under this subchapter. The President shall notify the appropriate congressional committees of his intention to designate a country as an eligible country at least 15 days in advance of any formal determination.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. IV, § 703, as added [Pub. L. 102–549, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/102/public/549), Oct. 28, 1992, [106 Stat. 3664](https://www.govinfo.gov/link/statute/106/3664).)*

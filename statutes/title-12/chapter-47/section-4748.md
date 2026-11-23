@@ -3,9 +3,10 @@ title: "Section 4748 - Reimbursement to Fund"
 usc_title: 12
 usc_section: "4748"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4748"
-generated_at: "2026-03-30T02:53:53.518Z"
+generated_at: "2026-11-23T20:25:59.432Z"
+status: "active"
 ---
 
 # § 4748. Reimbursement to Fund
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:53.518Z"
   - **(1)** by 2; and
   - **(2)** by the total amount of contributions made by the participating State to all reserve funds, including if applicable, contributions that have been made by the State prior to becoming a participating State if the State continued its own capital access program in accordance with section 4743(b) of this title .
 - **(c)** The Fund may use funds reimbursed pursuant to this section to make reimbursements under section 4747 of this title .
+
+## Source Credit
+
+*([Pub. L. 103–325, title II, § 258](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2213](https://www.govinfo.gov/link/statute/108/2213).)*

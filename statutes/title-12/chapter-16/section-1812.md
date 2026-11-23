@@ -3,9 +3,10 @@ title: "Section 1812 - Management"
 usc_title: 12
 usc_section: "1812"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1812"
-generated_at: "2026-03-30T02:53:53.444Z"
+generated_at: "2026-11-23T20:25:59.096Z"
+status: "active"
 ---
 
 # § 1812. Management
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:53:53.444Z"
   - **(3)** This subsection does not affect—
     - **(A)** any other immunities and protections that may be available to such person under applicable law with respect to such transactions, or
     - **(B)** any other right or remedy against the Corporation, against the United States under applicable law, or against any person other than a person described in paragraph (1) participating in such transactions.
+
+## Source Credit
+
+*(Sept. 21, 1950, ch. 967, § 2 [2], [64 Stat. 873](https://www.govinfo.gov/link/statute/64/873); [Pub. L. 86–230, § 19](https://www.govinfo.gov/link/plaw/86/public/230), Sept. 8, 1959, [73 Stat. 460](https://www.govinfo.gov/link/statute/73/460); [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title VII, § 702(a)], Nov. 30, 1983, [97 Stat. 1267](https://www.govinfo.gov/link/statute/97/1267); [Pub. L. 101–73, title II, § 203(a)](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 188](https://www.govinfo.gov/link/statute/103/188); [Pub. L. 102–18, title I, § 103(b)](https://www.govinfo.gov/link/plaw/102/public/18), Mar. 23, 1991, [105 Stat. 60](https://www.govinfo.gov/link/statute/105/60); [Pub. L. 104–208, div. A, title II, § 2243](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–419](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 111–203, title III, § 336(a)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1540](https://www.govinfo.gov/link/statute/124/1540).)*

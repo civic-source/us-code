@@ -3,9 +3,10 @@ title: "Section 3303 - Application to Taiwan of laws and international agreement
 usc_title: 22
 usc_section: "3303"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3303"
-generated_at: "2026-03-30T02:55:05.391Z"
+generated_at: "2026-11-23T20:26:32.449Z"
+status: "active"
 ---
 
 # § 3303. Application to Taiwan of laws and international agreements
@@ -24,3 +25,11 @@ generated_at: "2026-03-30T02:55:05.391Z"
   - **(8)** No requirement, whether expressed or implied, under the laws of the United States with respect to maintenance of diplomatic relations or recognition shall be applicable with respect to Taiwan.
 - **(c)** For all purposes, including actions in any court in the United States, the Congress approves the continuation in force of all treaties and other international agreements, including multilateral conventions, entered into by the United States and the governing authorities on Taiwan recognized by the United States as the Republic of China prior to January 1, 1979 , and in force between them on December 31, 1978 , unless and until terminated in accordance with law.
 - **(d)** Nothing in this chapter may be construed as a basis for supporting the exclusion or expulsion of Taiwan from continued membership in any international financial institution or any other international organization.
+
+Reports Required
+
+Report Elements
+
+## Source Credit
+
+*([Pub. L. 96–8, § 4](https://www.govinfo.gov/link/plaw/96/public/8), Apr. 10, 1979, [93 Stat. 15](https://www.govinfo.gov/link/statute/93/15).)*

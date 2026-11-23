@@ -3,9 +3,10 @@ title: "Section 10c - National Advisory Committee on Seniors and Disasters"
 usc_title: 42
 usc_section: "10c"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10c"
-generated_at: "2026-03-30T02:56:10.842Z"
+generated_at: "2026-11-23T20:27:20.687Z"
+status: "active"
 ---
 
 # § 300hh–10c. National Advisory Committee on Seniors and Disasters
@@ -34,5 +35,9 @@ generated_at: "2026-03-30T02:56:10.842Z"
 - **(e)** The Advisory Committee shall meet not less frequently than biannually. At least one meeting per year shall be an in-person meeting.
 - **(f)** The Secretary shall coordinate duties and activities authorized under this section in accordance with section 300hh–10e of this title .
 - **(g)**
-  - **(1)** The Advisory Committee shall terminate on January 30, 2026 .
+  - **(1)** The Advisory Committee shall terminate on December 31, 2026 .
   - **(2)** Not later than October 1, 2022 , the Secretary shall submit to Congress a recommendation on whether the Advisory Committee should be extended.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXVIII, § 2811B, as added [Pub. L. 116–22, title III, § 305(b)](https://www.govinfo.gov/link/plaw/116/public/22), June 24, 2019, [133 Stat. 938](https://www.govinfo.gov/link/statute/133/938); amended [Pub. L. 118–15, div. B, title III, § 2333(b)](https://www.govinfo.gov/link/plaw/118/public/15), Sept. 30, 2023, [137 Stat. 96](https://www.govinfo.gov/link/statute/137/96); [Pub. L. 118–22, div. B, title II, § 203(d)(2)](https://www.govinfo.gov/link/plaw/118/public/22), Nov. 17, 2023, [137 Stat. 121](https://www.govinfo.gov/link/statute/137/121); [Pub. L. 118–35, div. B, title I, § 103(d)(2)](https://www.govinfo.gov/link/plaw/118/public/35), Jan. 19, 2024, [138 Stat. 5](https://www.govinfo.gov/link/statute/138/5); [Pub. L. 118–42, div. G, title I, § 103(d)(2)](https://www.govinfo.gov/link/plaw/118/public/42), Mar. 9, 2024, [138 Stat. 398](https://www.govinfo.gov/link/statute/138/398); [Pub. L. 118–158, div. C, title I, § 3103(d)(2)](https://www.govinfo.gov/link/plaw/118/public/158), Dec. 21, 2024, [138 Stat. 1764](https://www.govinfo.gov/link/statute/138/1764); [Pub. L. 119–4, div. B, title I, § 2103(d)(2)](https://www.govinfo.gov/link/plaw/119/public/4), Mar. 15, 2025, [139 Stat. 41](https://www.govinfo.gov/link/statute/139/41); [Pub. L. 119–37, div. F, title I, § 6103(d)(2)](https://www.govinfo.gov/link/plaw/119/public/37), Nov. 12, 2025, [139 Stat. 630](https://www.govinfo.gov/link/statute/139/630); [Pub. L. 119–75, div. J, title IV, § 6403(e)](https://www.govinfo.gov/link/plaw/119/public/75), Feb. 3, 2026, [140 Stat. 688](https://www.govinfo.gov/link/statute/140/688).)*

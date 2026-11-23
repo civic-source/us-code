@@ -3,9 +3,10 @@ title: "Section 1301 - Definitions"
 usc_title: 2
 usc_section: "1301"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1301"
-generated_at: "2026-03-30T02:53:04.809Z"
+generated_at: "2026-11-23T20:25:28.951Z"
+status: "active"
 ---
 
 # § 1301. Definitions
@@ -53,3 +54,13 @@ generated_at: "2026-03-30T02:53:04.809Z"
     - **(B)** the term “Congressional-Executive China Commission” means the Congressional–Executive Commission on the People’s Republic of China established under title III of the U.S.–China Relations Act of 2000 ( Public Law 106–286 ; 22 U.S.C. 6911 et seq.);
     - **(C)** the term “Helsinki Commission” means the Commission on Security and Cooperation in Europe established under the Act entitled “An Act to establish a Commission on Security and Cooperation in Europe”, approved June 3, 1976 ( Public Law 94–304 ; 22 U.S.C. 3001 et seq.); and
     - **(D)** the term “United States Commission on International Religious Freedom” means the Commission established under section 6431 of title 22 .
+
+In General
+
+No Effect on Pending Proceedings
+
+“This section [amending this section and sections 1314 to 1316, 1331, 1341, 1351, 1401, 1404, and 1415 of this title] and the amendments made by this section—
+
+## Source Credit
+
+*([Pub. L. 104–1, title I, § 101](https://www.govinfo.gov/link/plaw/104/public/1), Jan. 23, 1995, [109 Stat. 4](https://www.govinfo.gov/link/statute/109/4); [Pub. L. 110–279, § 1(g)(1)](https://www.govinfo.gov/link/plaw/110/public/279), July 17, 2008, [122 Stat. 2609](https://www.govinfo.gov/link/statute/122/2609); [Pub. L. 110–437, title IV, § 422(b)(1)](https://www.govinfo.gov/link/plaw/110/public/437), (2), Oct. 20, 2008, [122 Stat. 4996](https://www.govinfo.gov/link/statute/122/4996); [Pub. L. 111–145, § 2(a)(5)(A)](https://www.govinfo.gov/link/plaw/111/public/145), Mar. 4, 2010, [124 Stat. 50](https://www.govinfo.gov/link/statute/124/50); [Pub. L. 115–141, div. I, title I, § 153(a)(1)(A)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 785](https://www.govinfo.gov/link/statute/132/785); [Pub. L. 115–397, title III](https://www.govinfo.gov/link/plaw/115/public/397), §§ 302(b), 305(a)–(c), 308(b)(1)–(7), Dec. 21, 2018, [132 Stat. 5321](https://www.govinfo.gov/link/statute/132/5321), 5323, 5324, 5326; [Pub. L. 116–94, div. J, title VIII, § 805(b)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3077](https://www.govinfo.gov/link/statute/133/3077).)*

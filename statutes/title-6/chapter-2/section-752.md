@@ -3,9 +3,10 @@ title: "Section 752 - Reporting requirements"
 usc_title: 6
 usc_section: "752"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 752"
-generated_at: "2026-03-30T02:53:09.499Z"
+generated_at: "2026-11-23T20:25:34.869Z"
+status: "active"
 ---
 
 # § 752. Reporting requirements
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:53:09.499Z"
     - **(C)** a discussion of the extent to which target capabilities identified in the applicable State homeland security plan and other applicable plans remain unmet and an assessment of resources needed to meet the preparedness priorities established under section 746(e) of this title , including—
       - **(i)** an estimate of the amount of expenditures required to attain the preparedness priorities; and
       - **(ii)** the extent to which the use of Federal assistance during the preceding fiscal year achieved the preparedness priorities.
+
+## Source Credit
+
+*([Pub. L. 109–295, title VI, § 652](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1429](https://www.govinfo.gov/link/statute/120/1429); [Pub. L. 110–53, title I, § 103](https://www.govinfo.gov/link/plaw/110/public/53), title IV, § 406, Aug. 3, 2007, [121 Stat. 293](https://www.govinfo.gov/link/statute/121/293), 304.)*

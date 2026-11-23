@@ -3,9 +3,10 @@ title: "Section 7902 - Reduction of greenhouse gas intensity"
 usc_title: 22
 usc_section: "7902"
 chapter: 86
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7902"
-generated_at: "2026-03-30T02:55:05.446Z"
+generated_at: "2026-11-23T20:26:32.691Z"
+status: "active"
 ---
 
 # § 7902. Reduction of greenhouse gas intensity
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:05.446Z"
   - **(1)** promoting the rule of law, property rights, contract protection, and economic freedom; and
   - **(2)** increasing capacity, infrastructure, and training.
 - **(d)** In providing assistance under subsection (b), the Secretary of State shall give priority to projects in the 25 developing countries identified in the report submitted under subsection (a)(2)(A).
+
+## Source Credit
+
+*([Pub. L. 101–240, title VII, § 732](https://www.govinfo.gov/link/plaw/101/public/240), as added [Pub. L. 109–58, title XVI, § 1611](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 1113](https://www.govinfo.gov/link/statute/119/1113); amended [Pub. L. 115–254, div. F, title VI, § 1470(q)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3518](https://www.govinfo.gov/link/statute/132/3518).)*

@@ -3,9 +3,10 @@ title: "Section 220541 - Designation of United States Center for SafeSport"
 usc_title: 36
 usc_section: "220541"
 chapter: 2205
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 220541"
-generated_at: "2026-03-30T02:55:44.710Z"
+generated_at: "2026-11-23T20:26:59.093Z"
+status: "active"
 ---
 
 # § 220541. Designation of United States Center for SafeSport
@@ -124,3 +125,137 @@ generated_at: "2026-03-30T02:55:44.710Z"
       - **(i)** access to, and the right to make copies of, any and all nonprivileged books, records, accounts, correspondence, files, or other documents or electronic records, including emails, of officers, agents, and employees of the Center or the corporation; and
       - **(ii)** the right to interview any officer, employee, agent, or consultant of the Center or the corporation.
     - **(C)** If, under this subsection, the Comptroller General seeks access to information contained within privileged documents or materials in the possession of the Center or the corporation, the Center or the corporation, as the case may be, shall, to the maximum extent practicable, provide the Comptroller General with the information without compromising the applicable privilege.
+
+Duties of Center.—
+
+In general
+
+Rules of construction
+
+Policies and Procedures
+
+Binding Arbitration.—
+
+In general
+
+Preservation of rights
+
+Limitation on Liability.—
+
+In general
+
+Exception
+
+Removal to federal court.—
+
+In general
+
+Rule of construction
+
+Definition of applicable entity
+
+Training Materials
+
+Independence.—
+
+Prohibition with respect to former employees and board members
+
+Athletes serving on board of directors of national governing body.—
+
+In general
+
+Ineligibility for employment
+
+Conflicts of interest
+
+Investigations.—
+
+In general
+
+Report
+
+Work product.—
+
+In general
+
+Rule of construction
+
+Funding.—
+
+Mandatory payments.—
+
+Fiscal year 2021
+
+Subsequent fiscal years
+
+Funds from national governing bodies
+
+Failure to comply.—
+
+In general
+
+Penalty
+
+Accountability.—
+
+In general
+
+Use of funds.—
+
+In general
+
+Reserve funds.—
+
+In general
+
+Return of funds
+
+Lobbying and fundraising
+
+Compliance Audits.—
+
+In general
+
+Corrective measures.—
+
+In general
+
+Inclusions
+
+Enforcement.—
+
+In general
+
+Methods
+
+Effect of noncompliance
+
+Annual report.—
+
+In general
+
+Public availability.—
+
+In general
+
+Personally identifiable information
+
+Reports to Corporation
+
+Certifications of Independence.—
+
+In general
+
+Elements
+
+Authority of comptroller general.—
+
+In general
+
+Specific authorities
+
+Treatment of privileged information
+
+## Source Credit
+
+*(Added [Pub. L. 115–126, title II, § 202(a)](https://www.govinfo.gov/link/plaw/115/public/126), Feb. 14, 2018, [132 Stat. 320](https://www.govinfo.gov/link/statute/132/320); amended [Pub. L. 116–189](https://www.govinfo.gov/link/plaw/116/public/189), §§ 7(a)(2)(A)(vii), 8(a)(1), Oct. 30, 2020, [134 Stat. 957](https://www.govinfo.gov/link/statute/134/957), 960.)*

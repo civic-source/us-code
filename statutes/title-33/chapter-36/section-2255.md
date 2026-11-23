@@ -3,9 +3,10 @@ title: "Section 2255 - Inland waterways riverbank stabilization"
 usc_title: 33
 usc_section: "2255"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2255"
-generated_at: "2026-03-30T02:55:41.117Z"
+generated_at: "2026-11-23T20:26:54.138Z"
+status: "active"
 ---
 
 # § 2255. Inland waterways riverbank stabilization
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:41.117Z"
   - **(3)** Section 426i of this title .
   - **(4)** Section 2309a of this title .
 - **(d)** For a project recommended pursuant to the study that cannot be carried out under any of the authorities specified in subsection (c), upon a determination by the Secretary of the feasibility of the project, the Secretary may include a recommendation concerning the project in the annual report submitted to Congress under section 2282d of this title .
+
+## Source Credit
+
+*([Pub. L. 113–121, title II, § 2009](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1269](https://www.govinfo.gov/link/statute/128/1269).)*

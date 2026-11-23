@@ -3,9 +3,10 @@ title: "Section 47 - Employment of Indian labor and purchase of products of Indi
 usc_title: 25
 usc_section: "47"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 47"
-generated_at: "2026-03-30T02:54:52.797Z"
+generated_at: "2026-11-23T20:26:25.344Z"
+status: "active"
 ---
 
 # § 47. Employment of Indian labor and purchase of products of Indian industry; participation in Mentor-Protege Program
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:54:52.797Z"
       - **(i)** the total amount spent on purchases made from, and contracts awarded to, Indian economic enterprises; and
       - **(ii)** a comparison of the amount described in clause (i) to the total amount that the agency region would likely have spent on the same purchases made from a non-Indian economic enterprise or contracts awarded to a non-Indian economic enterprise.
 - **(e)** Each agency shall establish an annual minimum percentage goal for procurement in compliance with this section.
+
+## Source Credit
+
+*(June 25, 1910, ch. 431, § 23, [36 Stat. 861](https://www.govinfo.gov/link/statute/36/861); [Pub. L. 100–581, title II, § 206](https://www.govinfo.gov/link/plaw/100/public/581), Nov. 1, 1988, [102 Stat. 2940](https://www.govinfo.gov/link/statute/102/2940); [Pub. L. 103–435, § 14](https://www.govinfo.gov/link/plaw/103/public/435), Nov. 2, 1994, [108 Stat. 4572](https://www.govinfo.gov/link/statute/108/4572); [Pub. L. 116–261, § 4](https://www.govinfo.gov/link/plaw/116/public/261), Dec. 30, 2020, [134 Stat. 3311](https://www.govinfo.gov/link/statute/134/3311); [Pub. L. 117–263, div. A, title VIII, § 856(e)(1)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2726](https://www.govinfo.gov/link/statute/136/2726).)*

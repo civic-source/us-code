@@ -3,9 +3,10 @@ title: "Section 7103 - Definitions; application"
 usc_title: 5
 usc_section: "7103"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 7103"
-generated_at: "2026-03-30T02:52:56.034Z"
+generated_at: "2026-11-23T20:25:32.047Z"
+status: "active"
 ---
 
 # § 7103. Definitions; application
@@ -71,3 +72,75 @@ generated_at: "2026-03-30T02:52:56.034Z"
     - **(A)** the agency or subdivision has as a primary function intelligence, counterintelligence, investigative, or national security work, and
     - **(B)** the provisions of this chapter cannot be applied to that agency or subdivision in a manner consistent with national security requirements and considerations.
   - **(2)** The President may issue an order suspending any provision of this chapter with respect to any agency, installation, or activity located outside the 50 States and the District of Columbia, if the President determines that the suspension is necessary in the interest of national security.
+
+Determinations
+
+Exclusions
+
+Units Outside the
+
+States and the District of Columbia
+
+Section
+
+Sec
+
+Ronald Reagan.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Ronald Reagan.
+
+Section
+
+Sec
+
+George W. Bush.
+
+Section
+
+Sec
+
+Sec
+
+Barack Obama.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title VII, § 701](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1192](https://www.govinfo.gov/link/statute/92/1192); amended [Pub. L. 96–465, title II, § 2314(g)](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2168](https://www.govinfo.gov/link/statute/94/2168); [Pub. L. 102–54, § 13(b)(1)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 274](https://www.govinfo.gov/link/statute/105/274); [Pub. L. 103–359, title V, § 501(j)](https://www.govinfo.gov/link/plaw/103/public/359), Oct. 14, 1994, [108 Stat. 3430](https://www.govinfo.gov/link/statute/108/3430); [Pub. L. 104–201, div. A, title XVI, § 1634(a)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2752](https://www.govinfo.gov/link/statute/110/2752); [Pub. L. 105–220, title III, § 341(e)](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1092](https://www.govinfo.gov/link/statute/112/1092); [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XIV, § 1422(b)(1), Oct. 21, 1998, [112 Stat. 2681–792](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 139]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–235; [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 113–235, div. H, title I, § 1301(b)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537).)*

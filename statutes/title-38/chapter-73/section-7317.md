@@ -3,9 +3,10 @@ title: "Section 7317 - Hazardous research projects: indemnification of contracto
 usc_title: 38
 usc_section: "7317"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7317"
-generated_at: "2026-03-30T02:55:53.527Z"
+generated_at: "2026-11-23T20:27:01.997Z"
+status: "active"
 ---
 
 # § 7317. Hazardous research projects: indemnification of contractors
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:53.527Z"
 - **(g)** The authority to indemnify contractors under this section does not create any rights in third persons which would not otherwise exist by law.
 - **(h)** Funds appropriated to carry out this section shall remain available until expended.
 - **(i)** In this section, the term “contractor” includes subcontractors of any tier under a contract containing an indemnification provision pursuant to subsection (a).
+
+## Source Credit
+
+*(Added [Pub. L. 102–40, title IV, § 401(a)(3)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 220](https://www.govinfo.gov/link/statute/105/220); amended [Pub. L. 111–350, § 5(j)(4)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3850](https://www.govinfo.gov/link/statute/124/3850).)*

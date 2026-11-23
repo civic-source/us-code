@@ -3,9 +3,10 @@ title: "Section 4595 - Payment for unaccrued leave"
 usc_title: 2
 usc_section: "4595"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 4595"
-generated_at: "2026-03-30T02:53:04.834Z"
+generated_at: "2026-11-23T20:25:29.048Z"
+status: "active"
 ---
 
 # § 4595. Payment for unaccrued leave
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:04.834Z"
 - **(c)** Any payment accepted under this section shall be deposited in the general fund of the Treasury as miscellaneous receipts.
 - **(d)** As used in this section, the term “head of the employing office” means any person with the final authority to appoint, hire, discharge, and set the terms, conditions, or privileges of the employment of an individual whose pay is disbursed by the Secretary of the Senate.
 - **(e)** This section shall apply to fiscal year 1996 and each fiscal year thereafter.
+
+## Source Credit
+
+*([Pub. L. 104–197, title I, § 9](https://www.govinfo.gov/link/plaw/104/public/197), Sept. 16, 1996, [110 Stat. 2398](https://www.govinfo.gov/link/statute/110/2398).)*

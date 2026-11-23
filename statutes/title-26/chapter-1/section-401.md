@@ -3,9 +3,10 @@ title: "Section 401 - Qualified pension, profit-sharing, and stock bonus plans"
 usc_title: 26
 usc_section: "401"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 401"
-generated_at: "2026-03-30T02:55:27.670Z"
+generated_at: "2026-11-23T20:26:45.599Z"
+status: "active"
 ---
 
 # § 401. Qualified pension, profit-sharing, and stock bonus plans
@@ -301,7 +302,14 @@ generated_at: "2026-03-30T02:55:27.670Z"
       - **(i)**
         - **(I)** In the case of the portion of an account to which subparagraph (C) applies and which consists of employer securities acquired in a plan year beginning before January 1, 2007 , subparagraph (C) shall only apply to the applicable percentage of such securities. This subparagraph shall be applied separately with respect to each class of securities.
         - **(II)** Subclause (I) shall not apply to an applicable individual who is a participant who has attained age 55 and completed at least 3 years of service before the first plan year beginning after December 31, 2005 .
-      - **(ii)** For purposes of clause (i), the applicable percentage shall be determined as follows: Plan year to which subparagraph (C) applies: The applicable percentage is: 1st 33 2d 66 3d and following 100.
+      - **(ii)** For purposes of clause (i), the applicable percentage shall be determined as follows:
+
+| Plan year to which subparagraph (C) applies: | The applicable percentage is: |
+| --- | --- |
+| 1st | 33 |
+| 2d | 66 |
+| 3d and following | 100. |
+
   - **(36)**
     - **(A)** A trust forming part of a pension plan shall not be treated as failing to constitute a qualified trust under this section solely because the plan provides that a distribution may be made from such trust to an employee who has attained age 59½ and who is not separated from employment at the time of such distribution.
     - **(B)** Subparagraph (A) shall be applied by substituting “age 55” for “age 59½” in the case of a multiemployer plan described in section 4203(b)(1)(B)(i) of the Employee Retirement Income Security Act of 1974, with respect to individuals who were participants in such plan on or before April 30, 2013 , if—
@@ -811,3 +819,803 @@ generated_at: "2026-03-30T02:55:27.670Z"
     - **(B)** References to a closed class of participants and similar references to a closed class shall include arrangements under which 1 or more classes of participants are closed, except that 1 or more classes of participants closed on different dates shall not be aggregated for purposes of determining the date any such class was closed.
     - **(C)** The term “highly compensated employee” has the meaning given such term in section 414(q).
 - **(p)** For exemption from tax of a trust qualified under this section, see section 501(a).
+
+Special rules relating to nondiscrimination requirements.—
+
+Salaried or clerical employees
+
+Contributions and benefits may bear uniform relationship to compensation
+
+Certain disparity permitted
+
+Integrated defined benefit plan.—
+
+In general
+
+Final pay
+
+or more plans treated as single plan
+
+Contributions
+
+Benefits
+
+Social security retirement age
+
+Governmental plans
+
+Required distributions.—
+
+In general
+
+Required distribution where employee dies before entire interest is distributed.—
+
+Where distributions have begun under subparagraph
+
+year rule for other cases
+
+Exception to 5-year rule for certain amounts payable over life of beneficiary
+
+Special rule for surviving spouse of employee
+
+Required beginning date
+
+In general
+
+Exception
+
+Actuarial adjustment
+
+Exception for governmental and church plans
+
+Applicable age
+
+Life expectancy
+
+Definitions and rules relating to designated beneficiaries
+
+Designated beneficiary
+
+Eligible designated beneficiary
+
+Special rule for children
+
+Treatment of payments to children
+
+Treatment of incidental death benefit distributions
+
+Special rules for certain defined contribution plans
+
+In general
+
+Exception for eligible designated beneficiaries
+
+Rules upon death of eligible designated beneficiary
+
+Special rule in case of certain trusts for disabled or chronically ill beneficiaries
+
+Applicable multi-beneficiary trust
+
+Application to certain eligible retirement plans
+
+Temporary waiver of minimum required distribution.—
+
+In general
+
+Special rule for required beginning dates in 2020
+
+Special rules regarding waiver period
+
+Certain increases in payments under a commercial annuity
+
+Other requirements.—
+
+Plans benefiting owner-employees
+
+Top-heavy plans.—
+
+In general
+
+Plans which may become top-heavy
+
+Exemption for governmental plans
+
+Requirement of joint and survivor annuity and preretirement survivor annuity.—
+
+In general
+
+Plans to which paragraph applies
+
+Exception for certain ESOP benefits.—
+
+In general
+
+Nonforfeitable benefit must be paid in full, etc
+
+Special rule where participant and spouse married less than 1 year
+
+Exception for plans described in section 404
+
+Cross reference
+
+Assignment and alienation.—
+
+In general
+
+Special rules for domestic relations orders
+
+Special rule for certain judgments and settlements
+
+Survivor annuity.—
+
+In general
+
+Definition
+
+Compensation limit.—
+
+In general
+
+Cost-of-living adjustment
+
+Requirement that actuarial assumptions be specified
+
+Additional participation requirements.—
+
+In general
+
+Treatment of excludable employees.—
+
+In general
+
+Separate application for certain excludable employees
+
+Special rule for collective bargaining units
+
+Paragraph not to apply to multiemployer plans
+
+Special rule for certain dispositions or acquisitions
+
+Separate lines of business
+
+Exception for governmental plans
+
+Regulations
+
+Protected participants.—
+
+In general
+
+(aa) to cease all benefit accruals, or
+
+(bb) to provide future benefit accruals only to a closed class of participants,
+
+Plans described
+
+Special rules
+
+Spun-off plans
+
+Determinations as to profit-sharing plans.—
+
+Contributions need not be based on profits
+
+Plan must designate type
+
+Additional requirements relating to employee stock ownership plans.—
+
+In general
+
+Diversification of investments.—
+
+In general
+
+Method of meeting requirements
+
+Qualified participant
+
+Qualified election period
+
+Exception
+
+Use of independent appraiser
+
+Benefit limitations
+
+Limitations on elective deferrals
+
+Direct transfer of eligible rollover distributions.—
+
+In general
+
+Certain mandatory distributions.—
+
+In general
+
+Eligible plan
+
+Limitation
+
+Eligible rollover distribution
+
+Eligible retirement plan
+
+Treatment of failure to make certain payments if plan has liquidity shortfall.—
+
+In general
+
+Payments described
+
+Period of shortfall
+
+Prohibition on benefit increases while sponsor is in bankruptcy.—
+
+In general
+
+Exceptions
+
+Plans to which this paragraph applies
+
+Employer
+
+Benefits of missing participants on plan termination
+
+Diversification requirements for certain defined contribution plans.—
+
+In general
+
+Employee contributions and elective deferrals invested in employer securities
+
+Employer contributions invested in employer securities
+
+Investment options.—
+
+In general
+
+Treatment of certain restrictions and conditions.—
+
+Time for making investment choices
+
+Certain restrictions and conditions not allowed
+
+Applicable defined contribution plan
+
+In general
+
+Exception for certain esops
+
+Exception for one participant plans
+
+One-participant retirement plan
+
+Certain plans treated as holding publicly traded employer securities.—
+
+In general
+
+Exception for certain controlled groups with publicly traded securities
+
+Definitions
+
+Other definitions
+
+Applicable individual
+
+Elective deferral
+
+Employer security
+
+Employee stock ownership plan
+
+Publicly traded employer securities
+
+Year of service
+
+Transition rule for securities attributable to employer contributions.—
+
+Rules phased in over 3 years.—
+
+In general
+
+Exception for certain participants aged 55 or over
+
+Applicable percentage
+
+1st
+
+2d
+
+3d and following
+
+Distributions during working retirement.—
+
+In general
+
+Certain employees in the building and construction industry
+
+Death benefits under userra-qualified active military service
+
+Portability of lifetime income.—
+
+In general
+
+Definitions
+
+Qualified long-term care distributions
+
+In general
+
+Qualified long-term care distribution
+
+In general
+
+Adjustment for inflation
+
+Certified long-term care insurance
+
+Distributions must otherwise be includible
+
+Long-term care premium statement.—
+
+In general
+
+Long-term care premium statement
+
+Filing with secretary
+
+Special rule for early participation
+
+Governmental plan
+
+In general
+
+Qualified public safety employee
+
+Coordination with distribution rules
+
+State and local governments and tax-exempt organizations not eligible
+
+Lump sum distribution
+
+In general
+
+Cost-of-living adjustment
+
+In general
+
+Rural cooperative defined
+
+In general
+
+Subsection (
+
+) and (
+
+In general
+
+Provisions relating to plan or contract amendments.—
+
+In general
+
+Amendments to which paragraph applies.—
+
+In general
+
+Conditions
+
+In general
+
+Special rules.—
+
+Election of earlier application
+
+Closed classes of participants
+
+Certain post-enactment plan amendments
+
+In general
+
+Collective bargaining exception
+
+Governmental plans
+
+Exception for certain existing annuity contracts
+
+In general
+
+Qualified annuity
+
+Exception for certain beneficiaries.—
+
+In general
+
+Effective date
+
+In general
+
+Provisions relating to plan or contract amendments.—
+
+In general
+
+Amendments to which paragraph applies.—
+
+In general
+
+Conditions
+
+In general
+
+Provisions relating to plan amendments.—
+
+In general
+
+Amendments to which subparagraph (A) applies.—
+
+In general
+
+Conditions
+
+Period described
+
+In general
+
+Excise tax
+
+In general
+
+Special rule for collectively bargained agreements
+
+Special rule for certain employer securities held in an esop.—
+
+In general
+
+Applicable securities
+
+Coordination with transition rule
+
+In general
+
+Treatment for years beginning before date of enactment
+
+In general
+
+Exceptions
+
+Distributions
+
+Public utility districts
+
+In general
+
+Rounding not to result in decreases
+
+In general
+
+Reference
+
+In general
+
+Collectively bargained plans
+
+Transition rule for state and local plans.—
+
+In general
+
+Eligible participant
+
+Plan must be amended to incorporate limits
+
+In general
+
+Transition rule for certain annuity contracts
+
+In general
+
+Transition
+
+In general
+
+Collective bargaining agreements
+
+Subsection
+
+Subsection
+
+Special rule for collective bargaining agreements
+
+In general
+
+Special rule for collective bargaining agreements
+
+Waiver of excise tax on reversions.—
+
+In general
+
+Interest rate for determining accrued benefit of highly compensated employees for certain purposes
+
+Amount eligible for rollover, income averaging, or tax-free transfer
+
+Eligible amount
+
+Amounts subject to early withdrawal or excess distribution tax
+
+Distributions of annuity contracts
+
+Highly compensated employee
+
+Special rule for plans which may not terminate
+
+In general
+
+Nondiscrimination rules.—
+
+In general
+
+Transition rules for certain governmental and tax-exempt plans
+
+Aggregation and excess contributions
+
+Collective bargaining agreements.—
+
+In general
+
+Special rule for nondiscrimination rules
+
+Special rule for qualified offset arrangements.—
+
+In general
+
+Qualified offset arrangement
+
+Definition of employer
+
+Withdrawals on sale of assets
+
+Distributions before plan amendment.—
+
+In general
+
+Distributions pursuant to model amendment.—
+
+Secretary to prescribe amendment
+
+Adoption by plan
+
+In general
+
+Collective bargaining agreements
+
+Annuity contracts
+
+Distributions before plan amendment.—
+
+In general
+
+Distributions pursuant to model amendment.—
+
+Secretary to prescribe amendment
+
+Adoption by plan
+
+In general
+
+Subsection
+
+Collective bargaining agreements
+
+Transition rules.—
+
+Plans may incorporate section 401
+
+(9) requirements by reference
+
+In general
+
+Repeal of section 242 of tefra
+
+Transition rule
+
+Special rule for governmental plans
+
+Special rule for collective bargaining agreements
+
+Subsection
+
+In general
+
+Exception for certain existing plans
+
+Subsection
+
+In general
+
+Transitional rule
+
+“The Secretary of the Treasury (or such Secretary’s delegate) shall prescribe regulations for purposes of implementing the amendments made by this section, including regulations—
+
+In General
+
+Repeal 25-percent premium limit
+
+Increase dollar limitation.—
+
+In general
+
+Adjustments for inflation
+
+Facilitate joint and survivor benefits
+
+Permit short free look period
+
+Divorce or Separation Instrument
+
+Effective Dates, Enforcement, and Interpretations.—
+
+Effective dates.—
+
+Enforcement and interpretations
+
+Regulatory Successor Provision
+
+Eliminating a Penalty on Partial Annuitization
+
+Definitions
+
+Total required amount
+
+Annuity amount
+
+Conforming Regulatory Amendments
+
+Effective Date
+
+In General
+
+Effective Date
+
+“Within 180 days after the date of the enactment of this Act [ Aug. 17, 2006 ], the Secretary of the Treasury shall modify the rules for determining whether a participant has had a hardship for purposes of section 401(k)(2)(B)(i)(IV) of the Internal Revenue Code of 1986 to provide that if an event (including the occurrence of a medical expense) would constitute a hardship under the plan if it occurred with respect to the participant’s spouse or dependent (as defined in section 152 of such Code), such event shall, to the extent permitted under a plan, constitute a hardship if it occurs with respect to a person who is a beneficiary under the plan with respect to the participant. The Secretary of the Treasury shall issue similar rules for purposes of determining whether a participant has had—
+
+Automatic rollover safe harbor
+
+Use of low-cost individual retirement plans
+
+“The Secretary of the Treasury or his delegate shall issue before February 1, 1988 , such final regulations as may be necessary to carry out the amendments made by—
+
+In general
+
+Data described
+
+In General
+
+Loan Errors
+
+EPCRS for IRAs
+
+Correction Methods for Eligible Inadvertent Failures
+
+Eligible Inadvertent Failure
+
+In general
+
+Exception
+
+Application of Certain Requirements for Correcting Errors
+
+Issuance of Guidance
+
+General Rule
+
+Interest Rate
+
+Eligible Cooperative Plan Defined
+
+Eligible Charity Plan Defined.—
+
+In general
+
+Election not to be an eligible charity plan
+
+Election to use funding options available to other plan sponsors.—
+
+Retroactive election
+
+General Rule
+
+Interest Rate
+
+Settlement Plan
+
+General Rule
+
+Interest Rate
+
+Eligible Government Contractor Plan Defined
+
+Cost Accounting Standards Pension Harmonization Rule
+
+In General
+
+Application of
+
+and
+
+Rule
+
+year lookback for determining deficit reduction contributions for certain plans
+
+Calculation of deficit reduction contribution
+
+Application of
+
+year Amortization
+
+Election.—
+
+In general
+
+Amortization schedule
+
+Other rules
+
+Definitions
+
+Eligible plan year
+
+Pre-effective date plan year
+
+Increased unfunded new liability
+
+Other definitions
+
+In General
+
+Qualified Church Plan
+
+In General
+
+Applicability of Final Regulations
+
+In general
+
+Qualified football coaches plan
+
+Effective date
+
+“If any amendment made by this subtitle [subtitle B (§§ 521–523) of title V of Pub. L. 102–318 , amending this section and sections 55, 62, 72, 219, 402 to 404, 406 to 408, 411, 414, 415, 457, 691, 871, 877, 1441, 3121, 3306, 3402, 3405, 4973, 4980A, 6047, 6652, and 7701 of this title] requires an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after January 1, 1994 , if—
+
+In General
+
+Model Amendment.—
+
+Secretary to prescribe amendment
+
+Adoption by plan
+
+Special Rule for Collectively Bargained Plans
+
+In General
+
+Limitation
+
+In general
+
+Effect of incorporation
+
+Failure by secretary to publish
+
+Inclusion of Certain Contributions in Income.—
+
+Administration in the Case of Certain Qualified Pension or Profit-Sharing Plans, Etc., in Existence on June
+
+Administration of Law With Respect to Certain Plans.—
+
+Administration in the case of plans described in subsection
+
+Administration in the case of qualified profit-sharing plans.—
+
+Limitation on Retroactivity of Final Regulations.—
+
+Salary Reduction Regulations Defined.—
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 134; [Pub. L. 87–792, § 2](https://www.govinfo.gov/link/plaw/87/public/792), Oct. 10, 1962, [76 Stat. 809](https://www.govinfo.gov/link/statute/76/809); [Pub. L. 87–863, § 2(a)](https://www.govinfo.gov/link/plaw/87/public/863), Oct. 23, 1962, [76 Stat. 1141](https://www.govinfo.gov/link/statute/76/1141); [Pub. L. 88–272, title II, § 219(a)](https://www.govinfo.gov/link/plaw/88/public/272), Feb. 26, 1964, [78 Stat. 57](https://www.govinfo.gov/link/statute/78/57); [Pub. L. 89–97, title I, § 106(d)(4)](https://www.govinfo.gov/link/plaw/89/public/97), July 30, 1965, [79 Stat. 337](https://www.govinfo.gov/link/statute/79/337); [Pub. L. 89–809, title II](https://www.govinfo.gov/link/plaw/89/public/809), §§ 204(b)(1), (c), 205(a), Nov. 13, 1966, [80 Stat. 1577](https://www.govinfo.gov/link/statute/80/1577), 1578; [Pub. L. 91–691, § 1(a)](https://www.govinfo.gov/link/plaw/91/public/691), Jan. 12, 1971, [84 Stat. 2074](https://www.govinfo.gov/link/statute/84/2074); [Pub. L. 93–406, title II](https://www.govinfo.gov/link/plaw/93/public/406), §§ 1012(b), 1016(a)(2), 1021, 1022(a)–(d), (f), 1023, 2001(c)–(e)(4), (h)(1), 2004(a)(1), Sept. 2, 1974, [88 Stat. 913](https://www.govinfo.gov/link/statute/88/913), 929, 935, 938–940, 943, 952–955, 957, 979; [Pub. L. 94–267, § 1(c)(1)](https://www.govinfo.gov/link/plaw/94/public/267), (2), Apr. 15, 1976, [90 Stat. 367](https://www.govinfo.gov/link/statute/90/367); [Pub. L. 94–455, title VIII, § 803(b)(2)](https://www.govinfo.gov/link/plaw/94/public/455), title XV, § 1505(b), title XIX, §§ 1901(a)(56), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1584](https://www.govinfo.gov/link/statute/90/1584), 1738, 1773, 1834; [Pub. L. 95–600, title I](https://www.govinfo.gov/link/plaw/95/public/600), §§ 135(a), 141(f)(3), 143(a), 152(e), Nov. 6, 1978, [92 Stat. 2785](https://www.govinfo.gov/link/statute/92/2785), 2795, 2796, 2799; [Pub. L. 96–222, title I, § 101(a)(7)(L)(i)(V)](https://www.govinfo.gov/link/plaw/96/public/222), (9), (14)(E)(iii), Apr. 1, 1980, [94 Stat. 199](https://www.govinfo.gov/link/statute/94/199), 201, 205; [Pub. L. 96–364, title II, § 208(a)](https://www.govinfo.gov/link/plaw/96/public/364), (e), title IV, § 410(b), Sept. 26, 1980, [94 Stat. 1289](https://www.govinfo.gov/link/statute/94/1289), 1290, 1308; [Pub. L. 96–605, title II](https://www.govinfo.gov/link/plaw/96/public/605), §§ 221(a), 225(b)(1), (2), Dec. 28, 1980, [94 Stat. 3528](https://www.govinfo.gov/link/statute/94/3528), 3529; [Pub. L. 97–34, title III](https://www.govinfo.gov/link/plaw/97/public/34), §§ 312(b)(1), (c)(2)–(4), (e)(2), 314(a)(1), 335, 338(a), Aug. 13, 1981, [95 Stat. 283–286](https://www.govinfo.gov/link/statute/95/283), 297, 298; [Pub. L. 97–248, title II](https://www.govinfo.gov/link/plaw/97/public/248), §§ 237(a), (b), (e)(1), 238(b), (d)(1), (2), 240(b), 242(a), 249(a), 254(a), Sept. 3, 1982, [96 Stat. 511–513](https://www.govinfo.gov/link/statute/96/511), 520, 521, 527, 533; [Pub. L. 97–448, title I, § 103(c)(10)(A)](https://www.govinfo.gov/link/plaw/97/public/448), (d)(2), (g)(2)(A), title III, § 306(a)(12), Jan. 12, 1983, [96 Stat. 2377–2379](https://www.govinfo.gov/link/statute/96/2377), 2405; [Pub. L. 98–21, title I, § 124(c)(4)(A)](https://www.govinfo.gov/link/plaw/98/public/21), Apr. 20, 1983, [97 Stat. 91](https://www.govinfo.gov/link/statute/97/91); [Pub. L. 98–369, div. A, title II, § 211(b)(5)](https://www.govinfo.gov/link/plaw/98/public/369), title IV, §§ 474(r)(13), 491(e)(4), (5), title V, §§ 521(a), 524(d)(1), 527(a), (b), 528(b), title VII, § 713(c)(2)(A), (d)(3), July 18, 1984, [98 Stat. 754](https://www.govinfo.gov/link/statute/98/754), 842, 853, 865, 872, 875–877, 957, 958; [Pub. L. 98–397, title II](https://www.govinfo.gov/link/plaw/98/public/397), §§ 203(a), 204(a), title III, § 301(b), Aug. 23, 1984, [98 Stat. 1440](https://www.govinfo.gov/link/statute/98/1440), 1445, 1451; [Pub. L. 99–514, title XI](https://www.govinfo.gov/link/plaw/99/public/514), §§ 1106(d)(1), 1111(a), (b), 1112(b), (d)(1), 1114(b)(7), 1116(a)–(e), 1117(a), 1119(a), 1121(b), 1136(a), 1143(a), 1145(a), 1171(b)(5), 1174(c)(2)(A), 1175(a)(1), 1176(a), title XVIII, §§ 1848(b), 1852(a)(4)(A), (6), (b)(8), (g), (h)(1), 1879(g)(1), (2), 1898(b)(2)(A), (3)(A), (7)(A), (13)(A), (14)(A), (c)(3), 1899A(10), Oct. 22, 1986, [100 Stat. 2423](https://www.govinfo.gov/link/statute/100/2423), 2435, 2439, 2444, 2445, 2451, 2454–2456, 2459, 2463, 2465, 2485, 2490, 2513, 2518, 2519, 2857, 2865–2869, 2906, 2907, 2945, 2948, 2950, 2953, 2958; [Pub. L. 100–203, title IX, § 9341(a)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–369](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–647, title I](https://www.govinfo.gov/link/plaw/100/public/647), §§ 1011(c)(7)(A), (d)(4), (e)(3), (g)(1)–(3), (h)(3), (k)(1)(A), (B), s2)–(7), (9), (l)(1)–(5)(A), (6), (7), 1011A(j), (l), 1011B(j)(1), (2), (6), (k)(1), (2), title VI, §§ 6053(a), 6055(a), 6071(a), (b), Nov. 10, 1988, [102 Stat. 3458–3460](https://www.govinfo.gov/link/statute/102/3458), 3463, 3464, 3468–3470, 3483, 3492, 3493, 3696, 3697, 3705; [Pub. L. 101–140, title II, § 203(a)(5)](https://www.govinfo.gov/link/plaw/101/public/140), Nov. 8, 1989, [103 Stat. 830](https://www.govinfo.gov/link/statute/103/830); [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7311(a), 7811(g)(1), (h)(3), 7816(l), 7881(i)(1)(A), (4)(A), Dec. 19, 1989, [103 Stat. 2354](https://www.govinfo.gov/link/statute/103/2354), 2409, 2421, 2442; [Pub. L. 101–508, title XII, § 12011(b)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–571](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 102–318, title V](https://www.govinfo.gov/link/plaw/102/public/318), §§ 521(b)(5)–(8), 522(a)(1), July 3, 1992, [106 Stat. 310](https://www.govinfo.gov/link/statute/106/310), 313; [Pub. L. 103–66, title XIII, § 13212(a)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 471](https://www.govinfo.gov/link/statute/107/471); [Pub. L. 103–465, title VII](https://www.govinfo.gov/link/plaw/103/public/465), §§ 732(a), 751(a)(9)(C), 766(b), 776(d), Dec. 8, 1994, [108 Stat. 5004](https://www.govinfo.gov/link/statute/108/5004), 5021, 5037, 5048; [Pub. L. 104–188, title I](https://www.govinfo.gov/link/plaw/104/public/188), §§ 1401(b)(5), (6), 1404(a), 1422(a), (b), 1426(a), 1431(b)(2), (c)(1)(B), 1432(a), (b), 1433(a)–(e), 1441(a), 1443(a), (b), 1445(a), 1459(a), (b), 1704(a), (t)(67), Aug. 20, 1996, [110 Stat. 1789](https://www.govinfo.gov/link/statute/110/1789), 1791, 1800, 1801, 1803–1809, 1811, 1820, 1878, 1890; [Pub. L. 105–34, title XV](https://www.govinfo.gov/link/plaw/105/public/34), §§ 1502(b), 1505(a)(1), (2), (b), 1525(a), 1530(c)(1), title XVI, § 1601(d)(2)(A), (B), (D), (3), Aug. 5, 1997, [111 Stat. 1059](https://www.govinfo.gov/link/statute/111/1059), 1063, 1072, 1078, 1088, 1089; [Pub. L. 106–554, § 1(a)(7) [title III, § 316(c)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–644; [Pub. L. 107–16, title VI](https://www.govinfo.gov/link/plaw/107/public/16), §§ 611(c), (f)(3), (g)(1), 641(e)(3), 643(b), 646(a)(1), 657(a), 666(a), June 7, 2001, [115 Stat. 97](https://www.govinfo.gov/link/statute/115/97), 99, 120, 122, 126, 135, 143; [Pub. L. 107–147, title IV, § 411](https://www.govinfo.gov/link/plaw/107/public/147) (o)(2), (q)(1), Mar. 9, 2002, [116 Stat. 48](https://www.govinfo.gov/link/statute/116/48), 51; [Pub. L. 108–311, title IV, § 407(b)](https://www.govinfo.gov/link/plaw/108/public/311), Oct. 4, 2004, [118 Stat. 1190](https://www.govinfo.gov/link/statute/118/1190); [Pub. L. 109–280, title I, § 114(a)](https://www.govinfo.gov/link/plaw/109/public/280), title VIII, §§ 827(b)(1), 861(a), (b), title IX, §§ 901(a)(1), (2)(A), 902(a), (b), (d)(2)(C), (D), (e)(3)(B), 905(b), Aug. 17, 2006, [120 Stat. 853](https://www.govinfo.gov/link/statute/120/853), 1000, 1020, 1021, 1026, 1029, 1033, 1035, 1038, 1050; [Pub. L. 110–245, title I, § 104(a)](https://www.govinfo.gov/link/plaw/110/public/245), June 17, 2008, [122 Stat. 1626](https://www.govinfo.gov/link/statute/122/1626); [Pub. L. 110–458, title I](https://www.govinfo.gov/link/plaw/110/public/458), §§ 101(d)(2)(A)–(C), 109(a)–(b)(2), title II, § 201(a), Dec. 23, 2008, [122 Stat. 5099](https://www.govinfo.gov/link/statute/122/5099), 5111, 5116; [Pub. L. 111–152, title I, § 1004(d)(5)](https://www.govinfo.gov/link/plaw/111/public/152), Mar. 30, 2010, [124 Stat. 1036](https://www.govinfo.gov/link/statute/124/1036); [Pub. L. 113–97, title II, § 202(c)(3)(A)](https://www.govinfo.gov/link/plaw/113/public/97), (4), (5), Apr. 7, 2014, [128 Stat. 1136](https://www.govinfo.gov/link/statute/128/1136); [Pub. L. 113–295, div. A, title II, § 221(a)(52)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4045](https://www.govinfo.gov/link/statute/128/4045); [Pub. L. 115–123, div. D, title II, § 41114(a)](https://www.govinfo.gov/link/plaw/115/public/123), (b), Feb. 9, 2018, [132 Stat. 161](https://www.govinfo.gov/link/statute/132/161); [Pub. L. 115–141, div. U, title IV, § 401(a)(69)](https://www.govinfo.gov/link/plaw/115/public/141) –(72), Mar. 23, 2018, [132 Stat. 1187](https://www.govinfo.gov/link/statute/132/1187); [Pub. L. 116–94, div. M, § 104(a)](https://www.govinfo.gov/link/plaw/116/public/94), div. O, title I, §§ 102(a), 103(a)–(c), 109(a), (b), 112(a), 114(a), (b), title II, §§ 201(a), 205(a), (b), title IV, § 401(a), Dec. 20, 2019, [133 Stat. 3095](https://www.govinfo.gov/link/statute/133/3095), 3145–3147, 3149, 3150, 3153, 3156, 3162, 3167, 3172, 3176; [Pub. L. 116–136, div. A, title II, § 2203(a)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 343](https://www.govinfo.gov/link/statute/134/343); [Pub. L. 116–260, div. EE, title II, § 208(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3065](https://www.govinfo.gov/link/statute/134/3065); [Pub. L. 117–328, div. T, title I](https://www.govinfo.gov/link/plaw/117/public/328), §§ 107(a)–(c), 110(a)–(c), 113(a), 116(b)(2), (3), 117(g), 121(a), 123(a), 125(a)(2)(B)(ii), (c), title II, § 201(a), title III, §§ 304(a), 312(a), 316(a), 317(a), 327(a), 334(a), (b)(1), 337(a), (b), title IV, § 401(a)(1), (2), (b)(2), (3), Dec. 29, 2022, [136 Stat. 5289–5291](https://www.govinfo.gov/link/statute/136/5289), 5295, 5299, 5301, 5308, 5313, 5315, 5330, 5341, 5347, 5352, 5359, 5368, 5370, 5373, 5387, 5388.)*

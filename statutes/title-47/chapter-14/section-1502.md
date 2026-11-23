@@ -3,9 +3,10 @@ title: "Section 1502 - Identifying 255 megahertz"
 usc_title: 47
 usc_section: "1502"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 1502"
-generated_at: "2026-03-30T02:56:24.536Z"
+generated_at: "2026-11-23T20:27:29.003Z"
+status: "active"
 ---
 
 # § 1502. Identifying 255 megahertz
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:56:24.536Z"
   - **(1)** to impair or otherwise affect the functions of the Director of OMB relating to budgetary, administrative, or legislative proposals;
   - **(2)** to require the disclosure of classified information, law enforcement sensitive information, or other information that must be protected in the interest of national security; or
   - **(3)** to affect any requirement under section 156 of the National Telecommunications and Information Administration Organization Act ( 47 U.S.C. 921 note), as added by section 1062(a) of the National Defense Authorization Act for Fiscal Year 2000, or any other relevant statutory requirement applicable to the reallocation of Federal spectrum.
+
+## Source Credit
+
+*([Pub. L. 115–141, div. P, title VI, § 603](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1098](https://www.govinfo.gov/link/statute/132/1098).)*

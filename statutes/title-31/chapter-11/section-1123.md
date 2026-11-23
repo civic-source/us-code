@@ -3,9 +3,10 @@ title: "Section 1123 - Chief Operating Officers"
 usc_title: 31
 usc_section: "1123"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 1123"
-generated_at: "2026-03-30T02:55:34.050Z"
+generated_at: "2026-11-23T20:26:51.718Z"
+status: "active"
 ---
 
 # § 1123. Chief Operating Officers
@@ -16,3 +17,11 @@ generated_at: "2026-03-30T02:55:34.050Z"
   - **(2)** advise and assist the head of agency in carrying out the requirements of sections 1115 through 1122 of this title and section 306 of title 5 ;
   - **(3)** oversee agency-specific efforts to improve management functions within the agency and across Government; and
   - **(4)** coordinate and collaborate with relevant personnel within and external to the agency who have a significant role in contributing to and achieving the mission and goals of the agency, such as the Chief Financial Officer, Chief Human Capital Officer, Chief Acquisition Officer/Senior Procurement Executive, Chief Information Officer, and other line of business chiefs at the agency.
+
+Establishment
+
+Function
+
+## Source Credit
+
+*(Added [Pub. L. 111–352, § 8](https://www.govinfo.gov/link/plaw/111/public/352), Jan. 4, 2011, [124 Stat. 3878](https://www.govinfo.gov/link/statute/124/3878).)*

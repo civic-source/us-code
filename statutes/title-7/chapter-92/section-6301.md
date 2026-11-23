@@ -3,9 +3,10 @@ title: "Section 6301 - Findings and declaration of policy"
 usc_title: 7
 usc_section: "6301"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6301"
-generated_at: "2026-03-30T02:53:42.427Z"
+generated_at: "2026-11-23T20:25:41.689Z"
+status: "active"
 ---
 
 # § 6301. Findings and declaration of policy
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:42.427Z"
   - **(7)** soybeans and soybean products move in interstate and foreign commerce, and soybeans and soybean products that do not move in such channels of commerce directly burden or affect interstate commerce in soybeans and soybean products.
 - **(b)** Congress declares that it is in the public interest to authorize the establishment, through the exercise of the powers provided in this chapter, of an orderly procedure for developing, financing through assessments on domestically-produced soybeans, and implementing a program of promotion, research, consumer information, and industry information designed to strengthen the soybean industry’s position in the marketplace, to maintain and expand existing domestic and foreign markets and uses for soybeans and soybean products, and to develop new markets and uses for soybeans and soybean products.
 - **(c)** Nothing in this chapter may be construed to provide for the control of production or otherwise limit the right of individual producers to produce soybeans.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XIX, § 1966](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3881](https://www.govinfo.gov/link/statute/104/3881).)*

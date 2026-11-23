@@ -3,9 +3,10 @@ title: "Section 461 - Offenses and punishment"
 usc_title: 21
 usc_section: "461"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 461"
-generated_at: "2026-03-30T02:54:54.286Z"
+generated_at: "2026-11-23T20:26:27.792Z"
+status: "active"
 ---
 
 # § 461. Offenses and punishment
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:54.286Z"
 - **(a)** Any person who violates the provisions of section 458, 459, 460, 463, or 466 of this title shall be fined not more than $1,000 or imprisoned not more than one year, or both; but if such violation involves intent to defraud, or any distribution or attempted distribution of an article that is adulterated (except as defined in section 453(g)(8) of this title ), such person shall be fined not more than $10,000 or imprisoned not more than three years, or both. When construing or enforcing the provisions of said sections the act, omission, or failure of any person acting for or employed by any individual, partnership, corporation, or association within the scope of his employment or office shall in every case be deemed the act, omission, or failure of such individual, partnership, corporation, or association, as well as of such person.
 - **(b)** No carrier shall be subject to the penalties of this chapter, other than the penalties for violation of section 460 of this title , by reason of his receipt, carriage, holding, or delivery, in the usual course of business, as a carrier, of poultry or poultry products, owned by another person unless the carrier has knowledge, or is in possession of facts which would cause a reasonable person to believe that such poultry or poultry products were not inspected or marked in accordance with the provisions of this chapter or were otherwise not eligible for transportation under this chapter or unless the carrier refuses to furnish on request of a representative of the Secretary the name and address of the person from whom he received such poultry or poultry products, and copies of all documents, if any there be, pertaining to the delivery of the poultry or poultry products to such carrier.
 - **(c)** Any person who forcibly assaults, resists, opposes, impedes, intimidates, or interferes with any person while engaged in or on account of the performance of his official duties under this chapter shall be fined not more than $5,000 or imprisoned not more than three years, or both. Whoever, in the commission of any such acts, uses a deadly or dangerous weapon, shall be fined not more than $10,000 or imprisoned not more than ten years, or both. Whoever kills any person while engaged in or on account of the performance of his official duties under this chapter shall be punished as provided under sections 1111 and 1114 of title 18.
+
+## Source Credit
+
+*([Pub. L. 85–172, § 12](https://www.govinfo.gov/link/plaw/85/public/172), Aug. 28, 1957, [71 Stat. 446](https://www.govinfo.gov/link/statute/71/446); [Pub. L. 90–492, § 12](https://www.govinfo.gov/link/plaw/90/public/492), Aug. 18, 1968, [82 Stat. 802](https://www.govinfo.gov/link/statute/82/802).)*

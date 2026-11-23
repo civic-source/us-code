@@ -3,9 +3,10 @@ title: "Section 13301 - Powers"
 usc_title: 49
 usc_section: "13301"
 chapter: 133
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 13301"
-generated_at: "2026-03-30T02:56:19.327Z"
+generated_at: "2026-11-23T20:27:34.738Z"
+status: "active"
 ---
 
 # § 13301. Powers
@@ -24,3 +25,41 @@ generated_at: "2026-03-30T02:56:19.327Z"
   - **(6)** The testimony of a witness who is in a foreign country may be taken by deposition before an officer or person designated by the Secretary or agreed on by the parties by written stipulation filed with the Secretary. A deposition shall be filed with the Secretary promptly.
 - **(e)** Each witness summoned before the Secretary or whose deposition is taken under this section and the individual taking the deposition are entitled to the same fees and mileage paid for those services in the courts of the United States.
 - **(f)** For those provisions of this part that are specified to be carried out by the Board, the Board shall have the same powers as the Secretary has under this section.
+
+General Powers of Secretary
+
+Obtaining Information
+
+Subpoena Power.—
+
+By secretary
+
+Enforcement
+
+Testimony of Witnesses.—
+
+Procedure for taking testimony
+
+Subpoena
+
+Depositions
+
+Notice of deposition
+
+Transcript
+
+Foreign country
+
+Witness Fees
+
+Powers of Board
+
+In General
+
+Considerations
+
+Dispatch Services
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 856](https://www.govinfo.gov/link/statute/109/856).)*

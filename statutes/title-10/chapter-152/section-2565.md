@@ -3,9 +3,10 @@ title: "Section 2565 - Nuclear test monitoring equipment: furnishing to foreign 
 usc_title: 10
 usc_section: "2565"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2565"
-generated_at: "2026-03-30T02:53:38.163Z"
+generated_at: "2026-11-23T20:25:51.611Z"
+status: "active"
 ---
 
 # § 2565. Nuclear test monitoring equipment: furnishing to foreign governments
@@ -19,3 +20,15 @@ generated_at: "2026-03-30T02:53:38.163Z"
   - **(2)** to permit the Secretary of Defense to take such measures as the Secretary considers necessary to inspect, test, maintain, repair, or replace that equipment, including access for purposes of such measures.
 - **(c)** Promptly after entering into any agreement under subsection (b), the Secretary of Defense shall submit to Congress a report on the agreement. The report shall identify the country with which the agreement was made, the anticipated costs to the United States to be incurred under the agreement, and the national interest of the United States that is furthered by the agreement.
 - **(d)** The Secretary of Defense may delegate the authority of the Secretary to carry out this section only to the Secretary of the Air Force. Such a delegation may be redelegated.
+
+Authority To Transfer Title to or Otherwise Provide Nuclear Test Monitoring Equipment
+
+Agreement Required
+
+Report
+
+Limitation on Delegation
+
+## Source Credit
+
+*(Added [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title XII, § 1203(a)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–324, § 2555; renumbered § 2565 and amended [Pub. L. 107–107, div. A, title XII, § 1201(a)(1)](https://www.govinfo.gov/link/plaw/107/public/107), (b), Dec. 28, 2001, [115 Stat. 1245](https://www.govinfo.gov/link/statute/115/1245).)*

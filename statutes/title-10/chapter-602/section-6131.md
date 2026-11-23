@@ -3,9 +3,10 @@ title: "Section 6131 - Stockpile responsiveness program"
 usc_title: 10
 usc_section: "6131"
 chapter: 602
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6131"
-generated_at: "2026-03-30T02:53:38.219Z"
+generated_at: "2026-11-23T20:25:52.013Z"
+status: "active"
 ---
 
 # § 6131. Stockpile responsiveness program
@@ -20,3 +21,15 @@ generated_at: "2026-03-30T02:53:38.219Z"
   - **(5)** Continually exercise processes for the integration and coordination of all relevant elements and processes of the Administration and the Department of Defense required to ensure stockpile responsiveness.
   - **(6)** The retention of the ability, in coordination with the Director of National Intelligence, to assess and develop prototype nuclear weapons of foreign countries if needed to meet intelligence requirements and, if necessary, to conduct no-yield testing of those prototypes.
 - **(d)** In this section, the term “joint nuclear weapons life cycle process” means the process developed and maintained by the Secretary of Defense and the Secretary of Energy for the development, production, maintenance, and retirement of nuclear weapons.
+
+Statement of Policy
+
+Program Required
+
+Objectives
+
+Joint Nuclear Weapons Life Cycle Process Defined
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI](https://www.govinfo.gov/link/plaw/119/public/60), §§ 3111(a), (d)(1)(C), 3113(a), Dec. 18, 2025, [139 Stat. 1366](https://www.govinfo.gov/link/statute/139/1366), 1461, 1463.)*

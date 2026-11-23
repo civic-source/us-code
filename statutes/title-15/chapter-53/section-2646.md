@@ -3,9 +3,10 @@ title: "Section 2646 - Contractor and laboratory accreditation"
 usc_title: 15
 usc_section: "2646"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2646"
-generated_at: "2026-03-30T02:54:08.179Z"
+generated_at: "2026-11-23T20:26:04.236Z"
+status: "active"
 ---
 
 # § 2646. Contractor and laboratory accreditation
@@ -57,3 +58,7 @@ generated_at: "2026-03-30T02:54:08.179Z"
     - **(A)** In the case of activities performed by persons, after the date which is one year after October 22, 1986 .
     - **(B)** In the case of activities performed by laboratories, after the date which is 180 days after the date on which a laboratory accreditation program is completed under subsection (d).
 - **(f)** Not later than August 31, 1988 , and every three months thereafter until August 31, 1991 , the Administrator shall publish in the Federal Register a list of all Environmental Protection Agency-approved asbestos training courses for persons to achieve accreditation in each category described in subsection (b)(1)(A) and for laboratories to achieve accreditation. The Administrator may continue publishing such a list after August 31, 1991 , at such times as the Administrator considers it useful. The list shall include the name and address of each approved trainer and, to the extent available, a list of all the geographic sites where training courses will take place. The Administrator shall provide a copy of the list to each State official on the list published by the Administrator under section 2645(d)(6) of this title and to each regional office of the Environmental Protection Agency.
+
+## Source Credit
+
+*([Pub. L. 94–469, title II, § 206](https://www.govinfo.gov/link/plaw/94/public/469), as added [Pub. L. 99–519, § 2](https://www.govinfo.gov/link/plaw/99/public/519), Oct. 22, 1986, [100 Stat. 2980](https://www.govinfo.gov/link/statute/100/2980); amended [Pub. L. 100–368, § 3](https://www.govinfo.gov/link/plaw/100/public/368), July 18, 1988, [102 Stat. 832](https://www.govinfo.gov/link/statute/102/832); [Pub. L. 100–418, title V, § 5115(c)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1433](https://www.govinfo.gov/link/statute/102/1433); [Pub. L. 101–637, § 15(a)(1)](https://www.govinfo.gov/link/plaw/101/public/637), (2), Nov. 28, 1990, [104 Stat. 4596](https://www.govinfo.gov/link/statute/104/4596).)*

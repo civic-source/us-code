@@ -3,9 +3,10 @@ title: "Section 8814 - Loan guarantees"
 usc_title: 42
 usc_section: "8814"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8814"
-generated_at: "2026-03-30T02:56:11.347Z"
+generated_at: "2026-11-23T20:27:23.061Z"
+status: "active"
 ---
 
 # § 8814. Loan guarantees
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.347Z"
 - **(g)**
   - **(1)** A loan may not be guaranteed under this section unless the applicant for such loan has established to the satisfaction of the Secretary concerned that the lender is not willing without such a guarantee to extend credit to the applicant at reasonable rates and terms, taking into consideration prevailing rates and terms for loans for similar purposes and periods of time, to finance the construction of the biomass energy project for which such loan is sought.
   - **(2)** The Secretary concerned shall ensure that the lender bears a reasonable degree of risk in the financing of such project.
+
+## Source Credit
+
+*([Pub. L. 96–294, title II](https://www.govinfo.gov/link/plaw/96/public/294) § 214, June 30, 1980, [94 Stat. 690](https://www.govinfo.gov/link/statute/94/690).)*

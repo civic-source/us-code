@@ -3,9 +3,10 @@ title: "Section 20945 - Powers of Boards; no compensation for service"
 usc_title: 52
 usc_section: "20945"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "52 U.S.C. § 20945"
-generated_at: "2026-03-30T02:56:30.166Z"
+generated_at: "2026-11-23T20:27:36.977Z"
+status: "active"
 ---
 
 # § 20945. Powers of Boards; no compensation for service
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:30.166Z"
 - **(c)** The Standards Board and the Board of Advisors may use the United States mails in the same manner and under the same conditions as a department or agency of the Federal Government.
 - **(d)** Upon the request of the Executive Board (in the case of the Standards Board) or the Chair (in the case of the Board of Advisors), the Administrator of the General Services Administration shall provide to the Board, on a reimbursable basis, the administrative support services that are necessary to enable the Board to carry out its duties under this subchapter.
 - **(e)** Members of the Standards Board and members of the Board of Advisors shall not receive any compensation for their service, but shall be paid travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services for the Board.
+
+## Source Credit
+
+*([Pub. L. 107–252, title II, § 215](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1681](https://www.govinfo.gov/link/statute/116/1681).)*

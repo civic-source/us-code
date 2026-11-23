@@ -3,9 +3,10 @@ title: "Section 16153 - Plan"
 usc_title: 42
 usc_section: "16153"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16153"
-generated_at: "2026-03-30T02:56:11.470Z"
+generated_at: "2026-11-23T20:27:23.616Z"
+status: "active"
 ---
 
 # § 16153. Plan
@@ -17,3 +18,7 @@ Not later than 6 months after August 8, 2005 , the Secretary shall transmit to C
   - **(3)** the milestones that will be used to evaluate the programs for the next 5 years;
   - **(4)** the most significant technical and nontechnical hurdles that stand in the way of achieving the goals described in section 16154 of this title , and how the programs will address those hurdles; and
   - **(5)** the policy assumptions that are implicit in the plan, including any assumptions that would affect the sources of hydrogen or the marketability of hydrogen-related products.
+
+## Source Credit
+
+*([Pub. L. 109–58, title VIII, § 804](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 845](https://www.govinfo.gov/link/statute/119/845).)*

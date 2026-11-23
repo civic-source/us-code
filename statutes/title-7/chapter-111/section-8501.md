@@ -3,9 +3,10 @@ title: "Section 8501 - Definitions"
 usc_title: 7
 usc_section: "8501"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 8501"
-generated_at: "2026-03-30T02:53:42.477Z"
+generated_at: "2026-11-23T20:25:41.892Z"
+status: "active"
 ---
 
 # § 8501. Definitions
@@ -23,3 +24,7 @@ In this chapter:
   - **(7)** The term “Technical Working Group” means Brown Tree Snake Technical Working Group established under the authority of section 4728 of title 16 .
   - **(8)** The term “territorial”, when used to refer to a government, means the Government of Guam, the Government of American Samoa, and the Government of the Commonwealth of the Northern Mariana Islands, as well as autonomous agencies and instrumentalities of such a government.
   - **(9)** The term “United States”, when used in the geographic sense, means the several States, the District of Colombia, 1 1 So in original. Probably should be “Columbia,”. American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, the United States Virgin Islands, any other possession of the United States, and any waters within the jurisdiction of the United States.
+
+## Source Credit
+
+*([Pub. L. 108–384, § 2](https://www.govinfo.gov/link/plaw/108/public/384), Oct. 30, 2004, [118 Stat. 2221](https://www.govinfo.gov/link/statute/118/2221).)*

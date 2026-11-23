@@ -3,9 +3,10 @@ title: "Section 1252 - Gain from disposition of farm land"
 usc_title: 26
 usc_section: "1252"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1252"
-generated_at: "2026-03-30T02:55:27.762Z"
+generated_at: "2026-11-23T20:26:46.059Z"
+status: "active"
 ---
 
 # § 1252. Gain from disposition of farm land
@@ -19,3 +20,29 @@ generated_at: "2026-03-30T02:55:27.762Z"
   - **(2)** For purposes of this section, the term “farm land” means any land with respect to which deductions have been allowed under section 175 (relating to soil and water conservation expenditures).
   - **(3)** For purposes of this section— If the farm land is disposed of— The applicable percentage is— Within 5 years after the date it was acquired 100 percent. Within the sixth year after it was acquired 80 percent. Within the seventh year after it was acquired 60 percent. Within the eighth year after it was acquired 40 percent. Within the ninth year after it was acquired 20 percent. 10 years or more years after it was acquired 0 percent.
 - **(b)** Under regulations prescribed by the Secretary, rules similar to the rules of section 1245 shall be applied for purposes of this section.
+
+| If the farm land is disposed of— | The applicable percentage is— |
+| --- | --- |
+| Within 5 years after the date it was acquired | 100 percent. |
+| Within the sixth year after it was acquired | 80 percent. |
+| Within the seventh year after it was acquired | 60 percent. |
+| Within the eighth year after it was acquired | 40 percent. |
+| Within the ninth year after it was acquired | 20 percent. |
+| 10 years or more years after it was acquired | 0 percent. |
+
+
+Within 5 years after the date it was acquired
+
+Within the sixth year after it was acquired
+
+Within the seventh year after it was acquired
+
+Within the eighth year after it was acquired
+
+Within the ninth year after it was acquired
+
+10 years or more years after it was acquired
+
+## Source Credit
+
+*(Added [Pub. L. 91–172, title II, § 214(a)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 572](https://www.govinfo.gov/link/statute/83/572); amended [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1901(b)(3)(K), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1793](https://www.govinfo.gov/link/statute/90/1793), 1834; [Pub. L. 98–369, div. A, title IV, § 492(b)(5)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 854](https://www.govinfo.gov/link/statute/98/854); [Pub. L. 99–514, title IV, § 402(b)(2)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2221](https://www.govinfo.gov/link/statute/100/2221); [Pub. L. 113–295, div. A, title II, § 221(a)(85)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4049](https://www.govinfo.gov/link/statute/128/4049); [Pub. L. 115–141, div. U, title IV, § 401(b)(32)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1204](https://www.govinfo.gov/link/statute/132/1204).)*

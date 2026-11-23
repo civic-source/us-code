@@ -3,9 +3,10 @@ title: "Section 1 - Interstate consolidations and mergers"
 usc_title: 12
 usc_section: "1"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1"
-generated_at: "2026-03-30T02:53:53.375Z"
+generated_at: "2026-11-23T20:25:58.718Z"
+status: "active"
 ---
 
 # § 215a–1. Interstate consolidations and mergers
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:53:53.375Z"
 - **(a)** A national bank may engage in a consolidation or merger under this subchapter with an out-of-State bank if the consolidation or merger is approved pursuant to section 1831u of this title .
 - **(b)** Subsection (a) shall not apply with respect to any consolidation or merger before June 1, 1997 , unless the home State of each bank involved in the transaction has in effect a law described in section 1831u(a)(3) of this title .
 - **(c)** The terms “home State” and “out-of-State bank” have the same meaning as in section 1831u(f) 1 1 See References in Text note below. of this title.
+
+## Source Credit
+
+*(Nov. 7, 1918, ch. 209, § 4, as added [Pub. L. 103–328, title I, § 102(b)(4)(D)](https://www.govinfo.gov/link/plaw/103/public/328), Sept. 29, 1994, [108 Stat. 2351](https://www.govinfo.gov/link/statute/108/2351).)*

@@ -3,9 +3,10 @@ title: "Section 1059d - Alaska Native and Native Hawaiian-serving institutions"
 usc_title: 20
 usc_section: "1059d"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1059d"
-generated_at: "2026-03-30T02:54:48.099Z"
+generated_at: "2026-11-23T20:26:14.338Z"
+status: "active"
 ---
 
 # § 1059d. Alaska Native and Native Hawaiian-serving institutions
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:54:48.099Z"
     - **(A)** No Alaskan Native-serving institution or Native Hawaiian-serving institution that receives funds under this section shall concurrently receive funds under other provisions of this part or part B.
     - **(B)** Section 1059(d) of this title shall not apply to institutions that are eligible to receive funds under this section.
     - **(C)** In awarding grants under this section, the Secretary shall, to the extent possible and consistent with the competitive process under which such grants are awarded, ensure maximum and equitable distribution among all eligible institutions.
+
+## Source Credit
+
+*([Pub. L. 89–329, title III, § 317](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title III, § 303(f)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1641](https://www.govinfo.gov/link/statute/112/1641); amended [Pub. L. 106–211, § 1(a)](https://www.govinfo.gov/link/plaw/106/public/211), (b)(2), May 26, 2000, [114 Stat. 330](https://www.govinfo.gov/link/statute/114/330); [Pub. L. 107–110, title VII, § 702(a)](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1946](https://www.govinfo.gov/link/statute/115/1946); [Pub. L. 110–315, title III, § 304](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3169](https://www.govinfo.gov/link/statute/122/3169); [Pub. L. 114–95, title IX, § 9215](https://www.govinfo.gov/link/plaw/114/public/95) (oo)(6), Dec. 10, 2015, [129 Stat. 2179](https://www.govinfo.gov/link/statute/129/2179).)*

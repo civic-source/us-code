@@ -3,9 +3,10 @@ title: "Section 9531 - Commercial Augmentation Space Reserve"
 usc_title: 10
 usc_section: "9531"
 chapter: 963
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 9531"
-generated_at: "2026-03-30T02:53:38.261Z"
+generated_at: "2026-11-23T20:25:52.353Z"
+status: "active"
 ---
 
 # § 9531. Commercial Augmentation Space Reserve
@@ -23,3 +24,15 @@ generated_at: "2026-03-30T02:53:38.261Z"
   - **(2)** The term “qualified contractor” means a contractor that is a citizen of the United States.
   - **(3)** The term “Secretary” means the Secretary of Defense.
   - **(4)** The term “space products or services” means commercial products and commercial services (as those terms are defined in section 2.101 of the Federal Acquisition Regulation) and noncommercial products and noncommercial services offered by commercial companies that operate to, through, or from space, including any required terrestrial ground, support, and network systems and associated services that can be used to support military functions and missions.
+
+Program
+
+Security Measures
+
+Commitment of Space Products or Services as a Business Factor
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 118–159, div. A, title XVI, § 1602(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2158](https://www.govinfo.gov/link/statute/138/2158); amended [Pub. L. 119–60, div. A, title XVII, § 1701(a)(39)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1210](https://www.govinfo.gov/link/statute/139/1210).)*

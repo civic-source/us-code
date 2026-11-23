@@ -3,9 +3,10 @@ title: "Section 1502 - Copyright Claims Board"
 usc_title: 17
 usc_section: "1502"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 1502"
-generated_at: "2026-03-30T02:54:15.358Z"
+generated_at: "2026-11-23T20:26:06.554Z"
+status: "active"
 ---
 
 # § 1502. Copyright Claims Board
@@ -41,3 +42,63 @@ generated_at: "2026-03-30T02:54:15.358Z"
   - **(7)** Subject to section 1503(b), the Librarian of Congress may sanction or remove a Copyright Claims Officer.
   - **(8)** The Register of Copyrights shall provide the Copyright Claims Officers and Copyright Claims Attorneys with necessary administrative support, including technological facilities, to carry out the duties of the Officers and Attorneys under this chapter.
   - **(9)** The offices and facilities of the Copyright Claims Officers and Copyright Claims Attorneys shall be located at the Copyright Office.
+
+In General
+
+Officers and Staff.—
+
+Copyright claims officers
+
+Copyright claims attorneys
+
+Qualifications.—
+
+Copyright claims officers.—
+
+In general
+
+Experience
+
+Alternative dispute resolution
+
+Copyright claims attorneys
+
+Compensation.—
+
+Copyright claims officers.—
+
+Definition
+
+Pay range
+
+Copyright claims attorneys
+
+Terms.—
+
+In general
+
+Initial terms
+
+Vacancies and incapacity.—
+
+Vacancy.—
+
+In general
+
+Vacancy before expiration
+
+Incapacity
+
+Sanction or removal
+
+Administrative support
+
+Location of copyright claims board
+
+In general
+
+Extension
+
+## Source Credit
+
+*(Added [Pub. L. 116–260, div. Q, title II, § 212(b)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2177](https://www.govinfo.gov/link/statute/134/2177).)*

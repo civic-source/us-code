@@ -3,9 +3,10 @@ title: "Section 1066f - HBCU Capital Financing Advisory Board"
 usc_title: 20
 usc_section: "1066f"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1066f"
-generated_at: "2026-03-30T02:54:48.102Z"
+generated_at: "2026-11-23T20:26:14.351Z"
+status: "active"
 ---
 
 # § 1066f. HBCU Capital Financing Advisory Board
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:48.102Z"
       - **(ii)** applied for construction financing through the program under this part but have not received financing under such program; and
     - **(B)** the feasibility of reducing borrowing costs associated with the program under this part, including reducing interest rates.
   - **(2)** Not later than six months after August 14, 2008 , the Advisory Board shall prepare and submit a report to the authorizing committees regarding the historically Black colleges and universities described in paragraph (1)(A) that includes administrative and legislative recommendations for addressing the issues related to construction financing facing such historically Black colleges and universities.
+
+## Source Credit
+
+*([Pub. L. 89–329, title III, § 347](https://www.govinfo.gov/link/plaw/89/public/329), formerly title VII, § 727, as added [Pub. L. 102–325, title VII, § 704](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 746](https://www.govinfo.gov/link/statute/106/746); renumbered title III, § 347, and amended [Pub. L. 105–244, title III](https://www.govinfo.gov/link/plaw/105/public/244), §§ 301(a)(3), (4), 306(e), Oct. 7, 1998, [112 Stat. 1636](https://www.govinfo.gov/link/statute/112/1636), 1647; [Pub. L. 110–315, title III, § 314(e)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3182](https://www.govinfo.gov/link/statute/122/3182).)*

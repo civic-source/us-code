@@ -3,9 +3,10 @@ title: "Section 12756 - Monitoring of compliance"
 usc_title: 42
 usc_section: "12756"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12756"
-generated_at: "2026-03-30T02:56:11.431Z"
+generated_at: "2026-11-23T20:27:23.439Z"
+status: "active"
 ---
 
 # § 12756. Monitoring of compliance
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:56:11.431Z"
 - **(a)** Each participating jurisdiction, through binding contractual agreements with owners and otherwise, shall ensure long-term compliance with the provisions of this subchapter. Such measures shall provide for (1) enforcement of the provisions of this subchapter by the jurisdiction or by the intended beneficiaries, and (2) remedies for the breach of such provisions.
 - **(b)** Each participating jurisdiction, not less frequently than annually, shall review the activities of owners of affordable housing assisted under this subchapter for rental to assess compliance with the requirements of this subchapter. Such review shall include on-site inspection to determine compliance with housing codes and other applicable regulations. The results of each review shall be included in the jurisdiction’s performance report submitted to the Secretary under section 12708(a) of this title and made available to the public.
 - **(c)** In the case of small-scale or scattered site housing, the Secretary may provide for such streamlined procedures for achieving the purposes of this section as the Secretary determines to be appropriate.
+
+## Source Credit
+
+*([Pub. L. 101–625, title II, § 226](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4114](https://www.govinfo.gov/link/statute/104/4114).)*

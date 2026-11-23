@@ -3,9 +3,10 @@ title: "Section 6303 - Prohibition on assisting nuclear proliferation through pr
 usc_title: 22
 usc_section: "6303"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6303"
-generated_at: "2026-03-30T02:55:05.427Z"
+generated_at: "2026-11-23T20:26:32.605Z"
+status: "active"
 ---
 
 # § 6303. Prohibition on assisting nuclear proliferation through provision of financing
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:55:05.427Z"
     - **(B)** such person has a firm belief that such circumstance exists or that such result is substantially certain to occur.
   - **(2)** If knowledge of the existence of a particular circumstance is required for an offense, such knowledge is established if a person is aware of a high probability of the existence of such circumstance, unless the person actually believes that such circumstance does not exist.
 - **(j)** This section shall apply with respect to prohibited activities which occur on or after the date this subchapter takes effect.
+
+## Source Credit
+
+*([Pub. L. 103–236, title VIII, § 824](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 512](https://www.govinfo.gov/link/statute/108/512); [Pub. L. 104–164, title I, § 157(b)](https://www.govinfo.gov/link/plaw/104/public/164), July 21, 1996, [110 Stat. 1440](https://www.govinfo.gov/link/statute/110/1440).)*

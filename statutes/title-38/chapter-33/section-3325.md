@@ -3,9 +3,10 @@ title: "Section 3325 - Reporting requirement"
 usc_title: 38
 usc_section: "3325"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 3325"
-generated_at: "2026-03-30T02:55:53.504Z"
+generated_at: "2026-11-23T20:27:01.847Z"
+status: "active"
 ---
 
 # § 3325. Reporting requirement
@@ -25,3 +26,15 @@ generated_at: "2026-03-30T02:55:53.504Z"
   - **(3)** the information received by the Secretary under section 3326 of this title ; and
   - **(4)** such recommendations for administrative and legislative changes regarding the provision of educational assistance to members of the Armed Forces and veterans, and their dependents, as the Secretary considers appropriate.
 - **(d)** No report shall be required under this section after January 1, 2021 .
+
+In General
+
+Contents of Secretary of Defense Reports
+
+Contents of Secretary of Veterans Affairs Reports
+
+Termination
+
+## Source Credit
+
+*(Added [Pub. L. 112–154, title IV, § 402(a)(1)](https://www.govinfo.gov/link/plaw/112/public/154), Aug. 6, 2012, [126 Stat. 1188](https://www.govinfo.gov/link/statute/126/1188); amended [Pub. L. 114–315, title IV, § 404(a)(1)](https://www.govinfo.gov/link/plaw/114/public/315), Dec. 16, 2016, [130 Stat. 1554](https://www.govinfo.gov/link/statute/130/1554).)*

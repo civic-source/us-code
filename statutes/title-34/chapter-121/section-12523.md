@@ -3,9 +3,10 @@ title: "Section 12523 - Violent crime and drug emergency areas"
 usc_title: 34
 usc_section: "12523"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12523"
-generated_at: "2026-03-30T02:55:33.290Z"
+generated_at: "2026-11-23T20:26:50.559Z"
+status: "active"
 ---
 
 # § 12523. Violent crime and drug emergency areas
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:33.290Z"
   - **(2)** The chief executive officer of a jurisdiction may apply to the President for an extension of assistance beyond 1 year. The President may extend the provision of Federal assistance for not more than an additional 180 days.
 - **(i)** Not later than 120 days after September 13, 1994 , the Attorney General shall issue regulations to implement this section.
 - **(j)** Nothing in this section shall diminish or detract from existing authority possessed by the President or Attorney General.
+
+## Source Credit
+
+*([Pub. L. 103–322, title IX, § 90107](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1988](https://www.govinfo.gov/link/statute/108/1988).)*

@@ -3,9 +3,10 @@ title: "Section 6742 - Prohibition relating to low concentrations of Schedules 2
 usc_title: 22
 usc_section: "6742"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6742"
-generated_at: "2026-03-30T02:55:05.433Z"
+generated_at: "2026-11-23T20:26:32.631Z"
+status: "active"
 ---
 
 # § 6742. Prohibition relating to low concentrations of Schedules 2 and 3 chemicals
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:05.433Z"
   - **(1)** 10 percent concentration of a Schedule 2 chemical; or
   - **(2)** 80 percent concentration of a Schedule 3 chemical.
 - **(b)** The percent concentration of a chemical in a substance shall be measured on the basis of volume or total weight, which measurement yields the lesser percent.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. I, title IV, § 402](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–881](https://www.govinfo.gov/link/statute/112/2681).)*

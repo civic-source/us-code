@@ -3,9 +3,10 @@ title: "Section 3672 - Requirement of specific authorization by law for appropri
 usc_title: 10
 usc_section: "3672"
 chapter: 257
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 3672"
-generated_at: "2026-03-30T02:53:38.195Z"
+generated_at: "2026-11-23T20:25:51.844Z"
+status: "active"
 ---
 
 # § 3672. Requirement of specific authorization by law for appropriation, and for obligation and expenditure, of funds for certain contracts relating to aircraft, naval vessels, and combat vehicles
@@ -19,3 +20,11 @@ generated_at: "2026-03-30T02:53:38.195Z"
   - **(3)** Whenever a request is submitted to Congress for the authorization of funds for the Department of Defense for the long-term lease or charter of aircraft, naval vessels, or combat vehicles authorized under this chapter, the Secretary of Defense—
     - **(A)** shall indicate in the request what portion of the requested funds is attributable to capital-hire; and
     - **(B)** shall reflect such portion in the appropriate procurement account in the request.
+
+Limitation
+
+Matter to Be Submitted to Congress
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1825(a)](https://www.govinfo.gov/link/plaw/116/public/283), (d), (e), Jan. 1, 2021, [134 Stat. 4206](https://www.govinfo.gov/link/statute/134/4206), 4207.)*

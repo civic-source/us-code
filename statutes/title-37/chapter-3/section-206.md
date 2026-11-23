@@ -3,9 +3,10 @@ title: "Section 206 - Reserves; members of National Guard; members of the Space 
 usc_title: 37
 usc_section: "206"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "37 U.S.C. § 206"
-generated_at: "2026-03-30T02:55:44.049Z"
+generated_at: "2026-11-23T20:26:57.311Z"
+status: "active"
 ---
 
 # § 206. Reserves; members of National Guard; members of the Space Force: inactive-duty training
@@ -33,3 +34,39 @@ generated_at: "2026-03-30T02:55:44.049Z"
     - **(B)** any claim based on that work or study arising after that date.
 - **(e)** A member of the National Guard, a reserve component of the uniformed services, or the Space Force may not be paid under this section for more than four periods of equivalent training, instruction, duty, or appropriate duties performed during a fiscal year instead of the member’s regular period of instruction or regular period of appropriate duty during that fiscal year.
 - **(f)** A member of the Individual Ready Reserve is not entitled to compensation under this section for participation in screening for which the member is paid a stipend under section 433a of this title .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 206(a) | 37:301(a) (less 45 words before proviso and proviso). 37:301(e) (as applicable to basic pay). | Oct. 12, 1949, ch. 681, § 501(a) (less 45 words before proviso), (b) (less 1st sentence), (e) (as applicable to basic pay), 63 Stat. 825 , 827; Aug. 10, 1956, ch. 1041, § 20(e) , (f), 70A Stat. 629 ; June 30, 1960 , Pub. L. 86–559, § 8 , 74 Stat. 282 . |
+| 206(b) | 37:301(a) (proviso). |  |
+| 206(c) | 32:303(c). | [None.] |
+| 206(d) | 37:301(b) (less 1st sentence). |  |
+
+
+Historical and Revision Notes
+
+206(a)
+
+Oct. 12, 1949, ch. 681, § 501(a)
+
+63 Stat. 825
+
+Aug. 10, 1956, ch. 1041, § 20(e)
+
+70A Stat. 629
+
+June 30, 1960
+
+Pub. L. 86–559, § 8
+
+74 Stat. 282
+
+206(b)
+
+206(c)
+
+206(d)
+
+## Source Credit
+
+*([Pub. L. 87–649](https://www.govinfo.gov/link/plaw/87/public/649), Sept. 7, 1962, [76 Stat. 460](https://www.govinfo.gov/link/statute/76/460); [Pub. L. 98–525, title XIV, § 1402(a)](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2620](https://www.govinfo.gov/link/statute/98/2620); [Pub. L. 99–661, div. A, title VI, § 604(c)](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 3876](https://www.govinfo.gov/link/statute/100/3876); [Pub. L. 100–456, div. A, title VI, § 631(c)](https://www.govinfo.gov/link/plaw/100/public/456), Sept. 29, 1988, [102 Stat. 1985](https://www.govinfo.gov/link/statute/102/1985); [Pub. L. 102–25, title VII, § 702(b)(1)](https://www.govinfo.gov/link/plaw/102/public/25), (c), Apr. 6, 1991, [105 Stat. 117](https://www.govinfo.gov/link/statute/105/117); [Pub. L. 104–106, div. A, title VII, § 702(d)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 371](https://www.govinfo.gov/link/statute/110/371); [Pub. L. 105–85, div. A, title V, § 513(g)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1732](https://www.govinfo.gov/link/statute/111/1732); [Pub. L. 107–107, div. A, title V, § 513(e)](https://www.govinfo.gov/link/plaw/107/public/107), title VI, § 603(a), Dec. 28, 2001, [115 Stat. 1093](https://www.govinfo.gov/link/statute/115/1093), 1133; [Pub. L. 109–163, div. A, title VI, § 604](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3287](https://www.govinfo.gov/link/statute/119/3287); [Pub. L. 109–364, div. A, title VI, § 607](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2247](https://www.govinfo.gov/link/statute/120/2247); [Pub. L. 110–181, div. A, title VI, § 633(b)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 155](https://www.govinfo.gov/link/statute/122/155); [Pub. L. 116–283, div. A, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3670](https://www.govinfo.gov/link/statute/134/3670); [Pub. L. 118–31, div. A, title VI, § 601(b)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 288](https://www.govinfo.gov/link/statute/137/288); [Pub. L. 119–60, div. A, title VI, § 601(b)(4)](https://www.govinfo.gov/link/plaw/119/public/60), div. G, title LXXII, § 7225(c), Dec. 18, 2025, [139 Stat. 902](https://www.govinfo.gov/link/statute/139/902), 1705.)*

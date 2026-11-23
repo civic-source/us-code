@@ -3,9 +3,10 @@ title: "Section 1720H - Mental health treatment for veterans and members of the 
 usc_title: 38
 usc_section: "1720H"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 1720H"
-generated_at: "2026-03-30T02:55:53.485Z"
+generated_at: "2026-11-23T20:27:01.698Z"
+status: "active"
 ---
 
 # § 1720H. Mental health treatment for veterans and members of the reserve components of the Armed Forces who served in classified missions
@@ -23,3 +24,13 @@ generated_at: "2026-03-30T02:55:53.485Z"
     - **(C)** in the course of serving in the Armed Forces, participated in a sensitive mission or served in a sensitive unit.
   - **(3)** The term “sensitive mission” means a mission of the Armed Forces that, at the time at which an eligible individual seeks treatment, is classified.
   - **(4)** The term “sensitive unit” has the meaning given that term in section 130b(c)(4) of title 10 .
+
+Establishment of Standards
+
+Identification
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 114–315, title VI, § 605(b)](https://www.govinfo.gov/link/plaw/114/public/315), Dec. 16, 2016, [130 Stat. 1571](https://www.govinfo.gov/link/statute/130/1571); amended [Pub. L. 116–283, div. A, title VII, § 764(b)(1)](https://www.govinfo.gov/link/plaw/116/public/283), (2)(A), Jan. 1, 2021, [134 Stat. 3727](https://www.govinfo.gov/link/statute/134/3727).)*

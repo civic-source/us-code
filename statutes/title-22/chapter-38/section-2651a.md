@@ -3,9 +3,10 @@ title: "Section 2651a - Organization of Department of State"
 usc_title: 22
 usc_section: "2651a"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2651a"
-generated_at: "2026-03-30T02:55:05.373Z"
+generated_at: "2026-11-23T20:26:32.345Z"
+status: "active"
 ---
 
 # § 2651a. Organization of Department of State
@@ -390,3 +391,257 @@ generated_at: "2026-03-30T02:55:05.373Z"
       - **(iv)** United States participation in technical and specialized United Nations agencies; and
       - **(v)** United States citizen employment in international organizations.
     - **(D)** All other bureaus of the Department of State shall coordinate, as appropriate, with the Bureau of International Organization Affairs on all matters arising within those bureaus that relate to international organizations.
+
+(aa) no United States citizen candidate has been nominated for election to such a leadership role; and
+
+(bb) providing such support is in the interest of the United States;
+
+(aa) meeting regularly to review progress in partner countries toward HIV/AIDS prevention, treatment, and care objectives;
+
+(bb) participating in the process of identifying countries to consider for increased assistance based on the epidemiology of HIV/AIDS in those countries, including clear evidence of a public health threat, as well as government commitment to address the HIV/AIDS problem, relative need, and coordination and joint planning with other significant actors;
+
+(cc) assisting the Coordinator in the evaluation, execution, and oversight of country operational plans;
+
+(dd) reviewing policies that may be obstacles to reaching targets set forth for HIV/AIDS prevention, treatment, and care; and
+
+(ee) consulting with representatives from additional relevant agencies, including the National Institutes of Health, the Health Resources and Services Administration, the Department of Labor, the Department of Agriculture, the Millennium Challenge Corporation, the Peace Corps, and the Department of Defense.
+
+(aa) other relevant Federal entities with a role in international aspects of cyber policy; and
+
+(bb) the elements of the Department of State with responsibility for aspects of cyber policy, including the elements reporting to— (AA) the Under Secretary of State for Political Affairs; (BB) the Under Secretary of State for Civilian Security, Democracy, and Human Rights; (CC) the Under Secretary of State for Economic Growth, Energy, and the Environment; (DD) the Under Secretary of State for Arms Control and International Security Affairs; (EE) the Under Secretary of State for Management; and (FF) the Under Secretary of State for Public Diplomacy and Public Affairs;
+
+“Any reference in any statute, reorganization plan, Executive order, regulation, agreement, determination, or other official document or proceeding to—
+
+Establishment
+
+Responsibilities
+
+In General
+
+Appropriate Congressional Committees Defined
+
+Establishment
+
+Appointment
+
+Duties and Responsibilities.—
+
+In general
+
+Areas of responsibility
+
+Additional duties
+
+Arctic Watcher Program
+
+Expansion of Regional China Officer and Russia Watcher Positions to the Arctic Region.—
+
+In general
+
+Position composition
+
+Notification
+
+Arctic Region Security Policy.—
+
+Lead bureau
+
+Duties and responsibilities
+
+Restrictions and Requirements.—
+
+Scope of authority
+
+Briefings requirement
+
+Guidance related to attendance and participation at arctic conferences and multilateral fora
+
+Report.—
+
+In general
+
+Contents
+
+Form
+
+Sunset
+
+Definitions
+
+Establishment
+
+Appointment
+
+Responsibilities.—
+
+In general
+
+Indian ocean region countries defined
+
+Authorization
+
+Duties
+
+Sunset
+
+Establishment
+
+Duties
+
+In General
+
+Authorization
+
+Director
+
+Limitation on Position
+
+Responsibilities
+
+Regional China Officers.—
+
+Qualifications
+
+Geographic placement
+
+Sunset Provision
+
+Ally Defined
+
+In General
+
+Workplace Flexibility Training
+
+Annual Report
+
+Exception for the Bureau of Intelligence and Research
+
+“Not later than 90 days after the date of the enactment of this Act [ Dec. 23, 2024 ], the Department [of State] and USAID [United States Agency for International Development] shall—
+
+In General
+
+Bureau Chief Data Officer Program.—
+
+Establishment
+
+Goals
+
+Implementation Plan.—
+
+In general
+
+Appropriate committees of congress defined
+
+Assignment
+
+Annual Reporting Requirement
+
+In General
+
+Report
+
+High Risk List Defined
+
+Sense of Congress
+
+Notification.—
+
+In general
+
+“(A) [sic] the present employment status of the covered official and whether the job duties of the covered official have changed since such suspension or revocation;
+
+“(B) the basis for such suspension or revocation, including a complete description;
+
+“(C) the investigation of the covered official and the results of such investigation; and
+
+“(D) any negative fallout or impacts for the Department of State, the United States Government, or national security of the United States as a result of the actions for which the security clearance was suspended or revoked..[sic]
+
+Submission to intelligence committees
+
+Form
+
+Covered Official Defined
+
+Sunset
+
+“The Secretary of State may—
+
+Coordination With Allies and Partners of the United States.—
+
+In general
+
+Information sharing
+
+Capacity building
+
+Exchange programs
+
+Briefing required
+
+Sense of Congress
+
+Appropriate Congressional Committees Defined
+
+Coordinator
+
+Responsibilities
+
+Advisor
+
+Responsibilities
+
+Funds
+
+Report
+
+“There is established within the Department of State the Office of the Coordinator for Reconstruction and Stabilization: Provided , That the head of the Office shall be the Coordinator for Reconstruction and Stabilization, who shall report directly to the Secretary of State: Provided further , That the functions of the Office of the Coordinator for Reconstruction and Stabilization shall include—
+
+‘Rightsizing’ at the Department of State.—
+
+In general
+
+Preliminary report
+
+Report
+
+Interagency Working Group.—
+
+Establishment
+
+Preliminary report
+
+Report
+
+Conduct of Recruitment Activities.—
+
+In general
+
+Limitation
+
+Recruitment Activities at Academic Institutions
+
+Evaluation of Recruitment Efforts
+
+Designation
+
+Duties
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+William J. Clinton.
+
+J.R. Biden, Jr.
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title I, § 1, [70 Stat. 890](https://www.govinfo.gov/link/statute/70/890); renumbered title I and amended [Pub. L. 97–241, title II, § 202(a)](https://www.govinfo.gov/link/plaw/97/public/241), Aug. 24, 1982, [96 Stat. 282](https://www.govinfo.gov/link/statute/96/282); [Pub. L. 103–236, title I, § 161(a)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 402](https://www.govinfo.gov/link/statute/108/402); [Pub. L. 103–415, § 1(f)(1)](https://www.govinfo.gov/link/plaw/103/public/415), Oct. 25, 1994, [108 Stat. 4299](https://www.govinfo.gov/link/statute/108/4299); [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XII, § 1213, title XIII, § 1313, subdiv. B, title XXIII, §§ 2301(a), 2303–2305(a)(1), (b)(1), (c), 2306, Oct. 21, 1998, [112 Stat. 2681–767](https://www.govinfo.gov/link/statute/112/2681), 2681–776, 2681–824, 2681–825, 2681–826; [Pub. L. 106–553, § 1(a)(2) [title IV, § 404(a)]](https://www.govinfo.gov/link/plaw/106/public/553), Dec. 21, 2000, [114 Stat. 2762](https://www.govinfo.gov/link/statute/114/2762), 2762A–96; [Pub. L. 107–228, div. A, title III, § 303](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1377](https://www.govinfo.gov/link/statute/116/1377); [Pub. L. 108–25, title I, § 102(a)](https://www.govinfo.gov/link/plaw/108/public/25), May 27, 2003, [117 Stat. 721](https://www.govinfo.gov/link/statute/117/721); [Pub. L. 108–458, title VII, § 7109(b)(1)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3793](https://www.govinfo.gov/link/statute/118/3793); [Pub. L. 110–293, title I, § 102](https://www.govinfo.gov/link/plaw/110/public/293), July 30, 2008, [122 Stat. 2933](https://www.govinfo.gov/link/statute/122/2933); [Pub. L. 112–166, § 2(j)](https://www.govinfo.gov/link/plaw/112/public/166), Aug. 10, 2012, [126 Stat. 1286](https://www.govinfo.gov/link/statute/126/1286); [Pub. L. 116–94, div. J, title VII, § 703](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3070](https://www.govinfo.gov/link/statute/133/3070); [Pub. L. 116–260, div. FF, title III, § 361(a)(1)](https://www.govinfo.gov/link/plaw/116/public/260), (2), Dec. 27, 2020, [134 Stat. 3131](https://www.govinfo.gov/link/statute/134/3131), 3132; [Pub. L. 117–81, div. E, title LI](https://www.govinfo.gov/link/plaw/117/public/81), §§ 5102(a), 5103, 5105, Dec. 27, 2021, [135 Stat. 2343](https://www.govinfo.gov/link/statute/135/2343), 2345, 2346; [Pub. L. 117–263, div. I, title XCI, § 9107(a)](https://www.govinfo.gov/link/plaw/117/public/263), title XCII, § 9215(b), title XCV, § 9502(a), title XCVI, § 9602(a), Dec. 23, 2022, [136 Stat. 3859](https://www.govinfo.gov/link/statute/136/3859), 3876, 3898, 3910; [Pub. L. 118–31, div. F, title LXIII, § 6303](https://www.govinfo.gov/link/plaw/118/public/31), title LXIV, § 6405(b), Dec. 22, 2023, [137 Stat. 986](https://www.govinfo.gov/link/statute/137/986), 998; [Pub. L. 119–60, div. E, title I](https://www.govinfo.gov/link/plaw/119/public/60), §§ 5111(a), 5112–5114, 5117–5119, 5131, 5132(a), 5141, 5145, 5146, 5149–5153(a), 5154–5156, 5158, 5159, 5161, 5162, title IV, §§ 5401, 5402, title V, § 5501, Dec. 18, 2025, [139 Stat. 1562–1567](https://www.govinfo.gov/link/statute/139/1562), 1569, 1575, 1576, 1578–1581, 1584, 1585, 1596, 1597, 1599.)*

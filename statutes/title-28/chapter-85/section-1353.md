@@ -3,12 +3,17 @@ title: "Section 1353 - Indian allotments"
 usc_title: 28
 usc_section: "1353"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 1353"
-generated_at: "2026-03-30T02:55:30.139Z"
+generated_at: "2026-11-23T20:26:36.440Z"
+status: "active"
 ---
 
 # § 1353. Indian allotments
 
 The district courts shall have original jurisdiction of any civil action involving the right of any person, in whole or in part of Indian blood or descent, to any allotment of land under any Act of Congress or treaty. The judgment in favor of any claimant to an allotment of land shall have the same effect, when properly certified to the Secretary of the Interior, as if such allotment had been allowed and approved by him; but this provision shall not apply to any lands held on or before December 21, 1911 , by either of the Five Civilized Tribes, the Osage Nation of Indians, nor to any of the lands within the Quapaw Indian Agency.
 
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 934](https://www.govinfo.gov/link/statute/62/934).)*

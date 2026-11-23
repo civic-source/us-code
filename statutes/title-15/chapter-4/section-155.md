@@ -3,9 +3,10 @@ title: "Section 155 - Authority of registrar in obtaining evidence"
 usc_title: 15
 usc_section: "155"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 155"
-generated_at: "2026-03-30T02:54:08.074Z"
+generated_at: "2026-11-23T20:26:03.653Z"
+status: "active"
 ---
 
 # § 155. Authority of registrar in obtaining evidence
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:08.074Z"
 - **(b)** In the case of failure to comply with any subpoena or in the case of the contumacy of any witness before the registrar or any individual so authorized by him, the registrar or such individual may invoke the aid of any Federal district court. Such court may thereupon order the witness to comply with the requirements of such subpoena and to give evidence touching the matter in question. Any failure to obey such order may be punished by such court as a contempt thereof.
 - **(c)**
 - **(d)** For the efficient administration of the functions vested in the registrar by this chapter, he, or any officer, employee, or agent of the United States authorized in writing by him, shall at all reasonable times, for the purpose of examination, have access to and the right to copy any book, account, record, paper, or correspondence relating to the business or affairs of a China Trade Act corporation. Any person who upon demand refuses the registrar, or any duly authorized officer, employee, or agent, such access or opportunity to copy, or hinders, obstructs, or resists him in the exercise of such right, shall be liable to a penalty of not more than $5,000 for each such offense. Such penalty shall be recoverable in a civil suit brought in the name of the United States.
+
+## Source Credit
+
+*(Sept. 19, 1922, ch. 346, § 15, [42 Stat. 853](https://www.govinfo.gov/link/statute/42/853); [Pub. L. 91–452, title II, § 217](https://www.govinfo.gov/link/plaw/91/public/452), Oct. 15, 1970, [84 Stat. 929](https://www.govinfo.gov/link/statute/84/929).)*

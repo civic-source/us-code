@@ -3,9 +3,10 @@ title: "Section 9832 - Definitions"
 usc_title: 26
 usc_section: "9832"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 9832"
-generated_at: "2026-03-30T02:55:27.898Z"
+generated_at: "2026-11-23T20:26:46.920Z"
+status: "active"
 ---
 
 # § 9832. Definitions
@@ -73,3 +74,7 @@ generated_at: "2026-03-30T02:55:27.898Z"
     - **(B)** the computation of premium or contribution amounts under the plan or coverage;
     - **(C)** the application of any pre-existing condition exclusion under the plan or coverage; and
     - **(D)** other activities related to the creation, renewal, or replacement of a contract of health insurance or health benefits.
+
+## Source Credit
+
+*(Added [Pub. L. 104–191, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/104/public/191), Aug. 21, 1996, [110 Stat. 2080](https://www.govinfo.gov/link/statute/110/2080), § 9805; renumbered § 9832, [Pub. L. 105–34, title XV, § 1531(a)(2)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1081](https://www.govinfo.gov/link/statute/111/1081); amended [Pub. L. 110–233, title I, § 103(d)](https://www.govinfo.gov/link/plaw/110/public/233), May 21, 2008, [122 Stat. 898](https://www.govinfo.gov/link/statute/122/898).)*

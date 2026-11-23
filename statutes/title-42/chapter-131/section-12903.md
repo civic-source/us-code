@@ -3,9 +3,10 @@ title: "Section 12903 - General authority"
 usc_title: 42
 usc_section: "12903"
 chapter: 131
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12903"
-generated_at: "2026-03-30T02:56:11.435Z"
+generated_at: "2026-11-23T20:27:23.456Z"
+status: "active"
 ---
 
 # § 12903. General authority
@@ -27,13 +28,13 @@ generated_at: "2026-03-30T02:56:11.435Z"
 - **(iii)** the requirements of subparagraph (C).
   - **(3)**
     - **(A)** The Secretary may award funds reserved for a grantee eligible under paragraph (1) to an alternative grantee if—
-      - **(ii)** the Secretary approves the written agreement described in clause (I) and agrees to award funds to the alternative grantee; and
         - **(I)** 1 the grantee submits to the Secretary a written agreement between the grantee and the alternative grantee that describes how the alternative grantee will take actions consistent with the applicable comprehensive housing affordability strategy approved under section 12705 of this title ; 2
+      - **(ii)** the Secretary approves the written agreement described in clause (I) and agrees to award funds to the alternative grantee; and
 - **(iii)** the written agreement does not exceed a term of 10 years.
   - **(4)** If a State or metropolitan statistical area declines an allocation under paragraph (1)(A), or the Secretary determines, in accordance with criteria specified in regulation, that a State or metropolitan statistical area that is eligible for an allocation under paragraph (1)(A) is unable to properly administer such allocation, the Secretary shall reallocate any funds reserved for such State or metropolitan statistical area as follows:
     - **(A)** For funds reserved for a State—
-      - **(ii)** if there is no eligible metropolitan statistical areas within a State, to metropolitan cities and urban counties within the State that are eligible for grant under section 5306 of this title , on a pro rata basis.
         - **(I)** 1 to eligible metropolitan statistical areas within the State on a pro rata basis; or
+      - **(ii)** if there is no eligible metropolitan statistical areas within a State, to metropolitan cities and urban counties within the State that are eligible for grant under section 5306 of this title , on a pro rata basis.
     - **(B)** For funds reserved for a metropolitan statistical area, to the State in which the metropolitan statistical area is located.
     - **(C)** If the Secretary is unable to make a reallocation under subparagraph (A) or (B), the Secretary shall make such funds available on a pro rata basis under the formula in paragraph (1)(A).
   - **(5)**
@@ -51,3 +52,25 @@ generated_at: "2026-03-30T02:56:11.435Z"
   - **(6)** such other information or certifications that the Secretary determines to be necessary to achieve the purposes of this section.
 - **(e)** In addition to the other requirements of this section, to be eligible for a grant to a metropolitan area under this section, the major city, urban county, and any city with a population of 50,000 or more in that metropolitan area shall establish or designate a governmental agency or organization for receipt and use of amounts received from a grant under this section and shall submit to the Secretary, together with the application under subsection (d) a proposal for the operation of such agency or organization.
 - **(f)** In addition to the other requirements of this section, to be eligible for a grant pursuant to subsection (c)(1), a city shall provide such assurances as the Secretary may require that any grant amounts received will be allocated among eligible activities in a manner that addresses the needs within the metropolitan statistical area in which the city is located, including areas not within the jurisdiction of the city. Any such city shall coordinate with other units of general local government located within the metropolitan statistical area to provide such assurances and comply with the assurances.
+
+(2) Maintaining grants (A) Continued eligibility of fiscal year 2016 grantees A grantee that received an allocation in fiscal year 2016 shall continue to be eligible for allocations under paragraph (1) in subsequent fiscal years, subject to— (i) the amounts available from appropriations Acts under section 12912 of this title ;
+
+(B) Adjustments Allocations to grantees described in subparagraph (A) shall be adjusted annually based on the administrative provisions included in fiscal year 2016 appropriations Acts.
+
+(C) Redetermination of continued eligibility The Secretary shall redetermine the continued eligibility of a grantee that received an allocation in fiscal year 2016 at least once during the 10-year period following fiscal year 2016.
+
+(D) Adjustment to grants For each of fiscal years 2017, 2018, 2019, 2020, and 2021, with respect to a grantee that received an allocation in the prior fiscal year, the Secretary shall ensure that the grantee’s share of total formula funds available for allocation does not decrease more than 5 percent nor gain more than 10 percent of the share of the total available formula funds that the grantee received in the preceding fiscal year.
+
+(B) Renewal An agreement approved pursuant to subparagraph (A) may be renewed by the parties with the approval of the Secretary.
+
+(C) Definition In this paragraph, the term “alternative grantee” means a public housing agency (as defined in section 1437a(b) of this title ), a unified funding agency (as defined in section 11360 of this title ), a State, a unit of general local government, or an instrumentality of State or local government.
+
+Eligibility
+
+In general
+
+In general
+
+## Source Credit
+
+*([Pub. L. 101–625, title VIII, § 854](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4376](https://www.govinfo.gov/link/statute/104/4376); [Pub. L. 102–550, title VI, § 606(d)](https://www.govinfo.gov/link/plaw/102/public/550), (j)(2), Oct. 28, 1992, [106 Stat. 3807](https://www.govinfo.gov/link/statute/106/3807), 3810; [Pub. L. 114–201, title VII, § 701(a)](https://www.govinfo.gov/link/plaw/114/public/201), July 29, 2016, [130 Stat. 812](https://www.govinfo.gov/link/statute/130/812); [Pub. L. 115–31, div. K, title II, § 203](https://www.govinfo.gov/link/plaw/115/public/31), May 5, 2017, [131 Stat. 779](https://www.govinfo.gov/link/statute/131/779).)*

@@ -3,9 +3,10 @@ title: "Section 6634 - Senate Hair Care Services"
 usc_title: 2
 usc_section: "6634"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 6634"
-generated_at: "2026-03-30T02:53:04.844Z"
+generated_at: "2026-11-23T20:25:29.084Z"
+status: "active"
 ---
 
 # § 6634. Senate Hair Care Services
@@ -25,3 +26,9 @@ generated_at: "2026-03-30T02:53:04.844Z"
 - **(g)** There is transferred to the revolving fund established by this section any unobligated balance in the fund established by section 121a of this title on the effective date of this section.
 - **(h)**
 - **(i)** This section shall be effective on and after October 1, 1998 , or 30 days after the date of enactment of this Act [ October 21, 1998 ], whichever is later.
+
+Salaries, Officers and Employees
+
+## Source Credit
+
+*([Pub. L. 105–275, title I, § 6](https://www.govinfo.gov/link/plaw/105/public/275), Oct. 21, 1998, [112 Stat. 2434](https://www.govinfo.gov/link/statute/112/2434); [Pub. L. 106–57, title I, § 4](https://www.govinfo.gov/link/plaw/106/public/57), Sept. 29, 1999, [113 Stat. 412](https://www.govinfo.gov/link/statute/113/412); [Pub. L. 106–554, § 1(a)(2) [title I, § 3(a)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–96.)*

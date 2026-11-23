@@ -3,9 +3,10 @@ title: "Section 2922 - Authorization of appropriations for the Department of Def
 usc_title: 50
 usc_section: "2922"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 2922"
-generated_at: "2026-03-30T02:56:26.226Z"
+generated_at: "2026-11-23T20:27:30.865Z"
+status: "active"
 ---
 
 # § 2922. Authorization of appropriations for the Department of Defense Cooperative Threat Reduction Program
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:26.226Z"
     - **(C)** Acceleration, expansion, and strengthening of Cooperative Threat Reduction Program activities.
   - **(2)** The sums appropriated pursuant to paragraph (1) may not exceed the amounts authorized to be appropriated by any national defense authorization Act for fiscal year 2008 (whether enacted before or after August 3, 2007 ) to the Department of Defense Cooperative Threat Reduction Program for such purposes.
 - **(b)** It is the sense of Congress that in fiscal year 2008 and future fiscal years, the President should accelerate and expand funding for Cooperative Threat Reduction programs administered by the Department of Defense and such efforts should include, beginning upon August 3, 2007 , encouraging additional commitments by the Russian Federation and other partner nations, as recommended by the 9/11 Commission.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XVIII, § 1832](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 497](https://www.govinfo.gov/link/statute/121/497).)*

@@ -3,9 +3,10 @@ title: "Section 8514b - Imposition of sanctions with respect to persons who enga
 usc_title: 22
 usc_section: "8514b"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8514b"
-generated_at: "2026-03-30T02:55:05.452Z"
+generated_at: "2026-11-23T20:26:32.716Z"
+status: "active"
 ---
 
 # § 8514b. Imposition of sanctions with respect to persons who engage in censorship or other related activities against citizens of Iran
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:05.452Z"
   - **(3)**
     - **(A)** The list required by paragraph (1) shall be submitted in unclassified form but may contain a classified annex.
     - **(B)** The unclassified portion of the list required by paragraph (1) shall be made available to the public and posted on the websites of the Department of the Treasury and the Department of State.
+
+## Source Credit
+
+*([Pub. L. 111–195, title I, § 105B](https://www.govinfo.gov/link/plaw/111/public/195), as added [Pub. L. 112–158, title IV, § 403(b)](https://www.govinfo.gov/link/plaw/112/public/158), Aug. 10, 2012, [126 Stat. 1254](https://www.govinfo.gov/link/statute/126/1254).)*

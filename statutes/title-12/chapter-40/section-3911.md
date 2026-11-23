@@ -3,12 +3,17 @@ title: "Section 3911 - Equal representation for Federal Deposit Insurance Corpor
 usc_title: 12
 usc_section: "3911"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 3911"
-generated_at: "2026-03-30T02:53:53.498Z"
+generated_at: "2026-11-23T20:25:59.355Z"
+status: "active"
 ---
 
 # § 3911. Equal representation for Federal Deposit Insurance Corporation and the Office of Thrift Supervision
 
 - **(a)** As one of the 4 Federal bank regulatory and supervisory agencies, and as the insurer of the United States banks involved in international lending, the Federal Deposit Insurance Corporation shall be given equal representation with the Board of Governors of the Federal Reserve System and the Office of the Comptroller of the Currency on the Committee on Banking Regulations and Supervisory Practices of the Group of Ten Countries and Switzerland.
 - **(b)** As one of the 4 Federal bank regulatory and supervisory agencies, the Office of Thrift Supervision shall be given equal representation with the Board of Governors of the Federal Reserve System, the Office of the Comptroller of the Currency, and the Federal Deposit Insurance Corporation on the Committee on Banking Regulations and Supervisory Practices of the Group of Ten Countries and Switzerland.
+
+## Source Credit
+
+*([Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title IX, § 912], Nov. 30, 1983, [97 Stat. 1284](https://www.govinfo.gov/link/statute/97/1284); [Pub. L. 109–351, title VII, § 713(a)](https://www.govinfo.gov/link/plaw/109/public/351), Oct. 13, 2006, [120 Stat. 1995](https://www.govinfo.gov/link/statute/120/1995).)*

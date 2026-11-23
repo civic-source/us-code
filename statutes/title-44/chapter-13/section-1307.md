@@ -3,9 +3,10 @@ title: "Section 1307 - National Oceanic and Atmospheric Administration: nautical
 usc_title: 44
 usc_section: "1307"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "44 U.S.C. § 1307"
-generated_at: "2026-03-30T02:55:56.290Z"
+generated_at: "2026-11-23T20:27:03.771Z"
+status: "active"
 ---
 
 # § 1307. National Oceanic and Atmospheric Administration: nautical products, sale and distribution
@@ -23,3 +24,11 @@ generated_at: "2026-03-30T02:55:56.290Z"
   - **(2)** at prices which the Secretary establishes, to the departments and officers of the United States requiring them for official use.
 - **(d)** The fees provided for in this section are for the purpose of reimbursing the United States Government for the costs of creating, publishing or distributing nautical products of the National Oceanic and Atmospheric Administration. The collection of fees authorized by this section shall not alter or expand any duty or liability of the United States under existing law for the performance of functions for which fees are collected, nor shall the collection of fees constitute an express or implied undertaking by the United States to perform any activity in a certain manner.
 - **(e)** For purposes of this section, the term “nautical products” includes all nautical charts, tide and tidal current tables, tidal current charts, coast pilots, water level products, and associated data bases which are created or published by the National Oceanic and Atmospheric Administration.
+
+National Oceanic and Atmospheric Administration
+
+operations, research, and facilities
+
+## Source Credit
+
+*([Pub. L. 90–620](https://www.govinfo.gov/link/plaw/90/public/620), Oct. 22, 1968, [82 Stat. 1266](https://www.govinfo.gov/link/statute/82/1266); [Pub. L. 99–272, title VI, § 6011(a)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 121](https://www.govinfo.gov/link/statute/100/121); [Pub. L. 105–362, title II, § 201(a)](https://www.govinfo.gov/link/plaw/105/public/362), Nov. 10, 1998, [112 Stat. 3282](https://www.govinfo.gov/link/statute/112/3282); [Pub. L. 106–181, title VI, § 606(a)](https://www.govinfo.gov/link/plaw/106/public/181) –(c), Apr. 5, 2000, [114 Stat. 154](https://www.govinfo.gov/link/statute/114/154).)*

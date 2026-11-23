@@ -3,9 +3,10 @@ title: "Section 283ff - Subscription of stock"
 usc_title: 22
 usc_section: "283ff"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 283ff"
-generated_at: "2026-03-30T02:55:05.316Z"
+generated_at: "2026-11-23T20:26:31.990Z"
+status: "active"
 ---
 
 # § 283ff. Subscription of stock
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:05.316Z"
 - **(a)** The Secretary of the Treasury is authorized to subscribe on behalf of the United States to five thousand one hundred shares of the capital stock of the Corporation: Provided, however , That the subscription shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
 - **(b)** There is authorized to be appropriated, without fiscal year limitation, for payment by the Secretary of the Treasury of the subscription of the United States for those shares, $51,000,000.
 - **(c)** Any payment of dividends made to the United States by the Corporation shall be deposited into the Treasury as a miscellaneous receipt.
+
+## Source Credit
+
+*([Pub. L. 98–473, title I, § 101(1) [title I]](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 1884](https://www.govinfo.gov/link/statute/98/1884), 1885.)*

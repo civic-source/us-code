@@ -3,9 +3,10 @@ title: "Section 41303 - Uniform Federal Crime Reporting Act of 1988"
 usc_title: 34
 usc_section: "41303"
 chapter: 413
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 41303"
-generated_at: "2026-03-30T02:55:33.313Z"
+generated_at: "2026-11-23T20:26:50.658Z"
+status: "active"
 ---
 
 # § 41303. Uniform Federal Crime Reporting Act of 1988
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:33.313Z"
 - **(e)** The Director of the Federal Bureau of Investigation is authorized to classify offenses involving illegal drugs and drug trafficking as a part I crime in the Uniform Crime Reports.
 - **(f)** There are authorized to be appropriated $350,000 for fiscal year 1989 and such sums as may be necessary to carry out the provisions of this section after fiscal year 1989.
 - **(g)** The provisions of this section shall be effective on January 1, 1989 .
+
+## Source Credit
+
+*([Pub. L. 100–690, title VII, § 7332](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4468](https://www.govinfo.gov/link/statute/102/4468); [Pub. L. 115–393, title IV, § 402](https://www.govinfo.gov/link/plaw/115/public/393), Dec. 21, 2018, [132 Stat. 5274](https://www.govinfo.gov/link/statute/132/5274).)*

@@ -3,9 +3,10 @@ title: "Section 18091 - Requirement to maintain minimum essential coverage; find
 usc_title: 42
 usc_section: "18091"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18091"
-generated_at: "2026-03-30T02:56:11.516Z"
+generated_at: "2026-11-23T20:27:23.790Z"
+status: "active"
 ---
 
 # § 18091. Requirement to maintain minimum essential coverage; findings
@@ -25,3 +26,7 @@ Congress makes the following findings:
     - **(I)** Under sections 2704 and 2705 of the Public Health Service Act [ 42 U.S.C. 300gg–3 , 300gg–4] (as added by section 1201 of this Act), if there were no requirement, many individuals would wait to purchase health insurance until they needed care. By significantly increasing health insurance coverage, the requirement, together with the other provisions of this Act, will minimize this adverse selection and broaden the health insurance risk pool to include healthy individuals, which will lower health insurance premiums. The requirement is essential to creating effective health insurance markets in which improved health insurance products that are guaranteed issue and do not exclude coverage of pre-existing conditions can be sold.
     - **(J)** Administrative costs for private health insurance, which were $90,000,000,000 in 2006, are 26 to 30 percent of premiums in the current individual and small group markets. By significantly increasing health insurance coverage and the size of purchasing pools, which will increase economies of scale, the requirement, together with the other provisions of this Act, will significantly reduce administrative costs and lower health insurance premiums. The requirement is essential to creating effective health insurance markets that do not require underwriting and eliminate its associated administrative costs.
   - **(3)** In United States v. South-Eastern Underwriters Association (322 U.S. 533 (1944)), the Supreme Court of the United States ruled that insurance is interstate commerce subject to Federal regulation.
+
+## Source Credit
+
+*([Pub. L. 111–148, title I, § 1501(a)](https://www.govinfo.gov/link/plaw/111/public/148), title X, § 10106(a), Mar. 23, 2010, [124 Stat. 242](https://www.govinfo.gov/link/statute/124/242), 907.)*

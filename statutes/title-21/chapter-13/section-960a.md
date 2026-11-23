@@ -3,9 +3,10 @@ title: "Section 960a - Foreign terrorist organizations, terrorist persons and gr
 usc_title: 21
 usc_section: "960a"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 960a"
-generated_at: "2026-03-30T02:54:54.299Z"
+generated_at: "2026-11-23T20:26:27.864Z"
+status: "active"
 ---
 
 # § 960a. Foreign terrorist organizations, terrorist persons and groups
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:54.299Z"
   - **(5)** after the conduct required for the offense occurs an offender is brought into or found in the United States, even if the conduct required for the offense occurs outside the United States.
 - **(c)** To violate subsection (a), a person must have knowledge that the person or organization has engaged or engages in terrorist activity (as defined in section 1182(a)(3)(B) of title 8 ) or terrorism (as defined in section 2656f(d)(2) of title 22 ).
 - **(d)** As used in this section, the term “anything of pecuniary value” has the meaning given the term in section 1958(b)(1) of title 18 .
+
+## Source Credit
+
+*([Pub. L. 91–513, title III, § 1010A](https://www.govinfo.gov/link/plaw/91/public/513), as added [Pub. L. 109–177, title I, § 122](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 225](https://www.govinfo.gov/link/statute/120/225).)*

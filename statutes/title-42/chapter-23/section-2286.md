@@ -3,9 +3,10 @@ title: "Section 2286 - Establishment"
 usc_title: 42
 usc_section: "2286"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2286"
-generated_at: "2026-03-30T02:56:11.158Z"
+generated_at: "2026-11-23T20:27:22.123Z"
+status: "active"
 ---
 
 # § 2286. Establishment
@@ -75,3 +76,15 @@ generated_at: "2026-03-30T02:56:11.158Z"
       - **(i)** the date that is one year after such beginning date; or
       - **(ii)** the date on which a quorum exists.
     - **(C)** The term “eligible member” means a member of the Board, other than the Chairperson, serving during a covered period and who is not incapacitated.
+
+Reporting Requirement
+
+Comments on Report
+
+Submission to Congress
+
+Definition
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 311, as added [Pub. L. 100–456, div. A, title XIV, § 1441(a)(1)](https://www.govinfo.gov/link/plaw/100/public/456), Sept. 29, 1988, [102 Stat. 2076](https://www.govinfo.gov/link/statute/102/2076); renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944); amended [Pub. L. 112–239, div. C, title XXXII, § 3202(a)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2217](https://www.govinfo.gov/link/statute/126/2217); [Pub. L. 114–92, div. C, title XXXII, § 3202(a)](https://www.govinfo.gov/link/plaw/114/public/92), (b)(1), Nov. 25, 2015, [129 Stat. 1217](https://www.govinfo.gov/link/statute/129/1217); [Pub. L. 116–92, div. C, title XXXII, § 3202(a)(1)(B)](https://www.govinfo.gov/link/plaw/116/public/92) –(3), § 3203(a), (b)(1), (c), Dec. 20, 2019, [133 Stat. 1964](https://www.govinfo.gov/link/statute/133/1964), 1966; [Pub. L. 117–81, div. C, title XXXII, § 3202](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2235](https://www.govinfo.gov/link/statute/135/2235); [Pub. L. 117–263, div. C, title XXXII, § 3202](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3060](https://www.govinfo.gov/link/statute/136/3060).)*

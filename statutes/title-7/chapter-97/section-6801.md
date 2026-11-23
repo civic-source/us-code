@@ -3,9 +3,10 @@ title: "Section 6801 - Findings and declaration of policy"
 usc_title: 7
 usc_section: "6801"
 chapter: 97
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6801"
-generated_at: "2026-03-30T02:53:42.435Z"
+generated_at: "2026-11-23T20:25:41.723Z"
+status: "active"
 ---
 
 # § 6801. Findings and declaration of policy
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:53:42.435Z"
   - **(10)** an effective and coordinated method for ensuring cooperative and collective action in providing for and financing a nationwide program of generic promotion and consumer information is needed to ensure that the cut flowers and cut greens industry will be able to provide, obtain, and implement programs of promotion and consumer information necessary to maintain, expand, and develop markets for cut flowers and cut greens; and
   - **(11)** the most efficient method of financing such a nationwide program is to assess cut flowers and cut greens at the point at which the flowers and greens are sold by handlers into the retail market.
 - **(b)** It is the policy of Congress that it is in the public interest, and it is the purpose of this chapter, to authorize the establishment, through the exercise of the powers provided in this chapter, of an orderly procedure for the development and financing (through an adequate assessment on cut flowers and cut greens sold by handlers to retailers and related entities in the United States) of an effective and coordinated program of generic promotion, consumer information, and related research designed to strengthen the position of the cut flowers and cut greens industry in the marketplace and to maintain, develop, and expand markets for cut flowers and cut greens.
+
+## Source Credit
+
+*([Pub. L. 103–190, § 2](https://www.govinfo.gov/link/plaw/103/public/190), Dec. 14, 1993, [107 Stat. 2266](https://www.govinfo.gov/link/statute/107/2266).)*

@@ -3,9 +3,10 @@ title: "Section 13284 - Cost-sharing"
 usc_title: 42
 usc_section: "13284"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13284"
-generated_at: "2026-03-30T02:56:11.441Z"
+generated_at: "2026-11-23T20:27:23.475Z"
+status: "active"
 ---
 
 # § 13284. Cost-sharing
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.441Z"
 - **(b)** The Secretary may reduce the amount of costs required to be provided by non-Federal sources under subsection (a) if the Secretary determines that the reduction is necessary and appropriate—
   - **(1)** considering the technological risks involved in the project; and
   - **(2)** in order to meet the objectives of this part.
+
+## Source Credit
+
+*([Pub. L. 102–486, title VI, § 614](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2903](https://www.govinfo.gov/link/statute/106/2903).)*

@@ -3,9 +3,10 @@ title: "Section 1331 - Definitions"
 usc_title: 43
 usc_section: "1331"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1331"
-generated_at: "2026-03-30T02:55:57.468Z"
+generated_at: "2026-11-23T20:27:06.274Z"
+status: "active"
 ---
 
 # § 1331. Definitions
@@ -56,3 +57,185 @@ In this subchapter:
   - **(4)** American Samoa;
   - **(5)** the United States Virgin Islands; and
   - **(6)** the Commonwealth of the Northern Mariana Islands.
+
+Outer Continental Shelf
+
+Secretary
+
+Lease
+
+Person
+
+Coastal zone
+
+Affected State
+
+Marine environment
+
+Coastal environment
+
+Human environment
+
+Governor
+
+Exploration
+
+Development
+
+Production
+
+Antitrust law
+
+Fair market value
+
+Major Federal action
+
+Minerals
+
+Carbon dioxide stream.—
+
+In general
+
+Exclusions
+
+Carbon sequestration
+
+Lease Sales.—
+
+Gulf of america region.—
+
+In general
+
+Timing requirement
+
+Alaska region.—
+
+In general
+
+Timing requirement
+
+Requirements.—
+
+Terms and stipulations for gulf of america sales
+
+Terms and stipulations for alaska region sales.—
+
+In general
+
+Revenue sharing
+
+Area offered for lease.—
+
+Gulf of america region
+
+Alaska region
+
+Offshore Commingling
+
+area
+
+south area
+
+Bonus or royalty credit
+
+Central planning area
+
+Eastern planning area
+
+planning area
+
+Gulf producing state
+
+Military mission line
+
+Qualified outer continental shelf revenues.—
+
+In general
+
+Exclusions
+
+Coastal political subdivision
+
+Secretary
+
+Area Lease Sale
+
+South Area Lease Sale
+
+Leasing Program
+
+Conforming Amendment
+
+In General
+
+Military Mission Line
+
+Exchange of Certain Leases.—
+
+In general
+
+Valuation of existing lease
+
+Revenue distribution
+
+Regulations
+
+In General
+
+Allocation Among Gulf Producing States and Coastal Political Subdivisions.—
+
+Allocation among gulf producing states for fiscal years 2007 through 2016.—
+
+In general
+
+Minimum allocation
+
+Allocation among gulf producing states for fiscal year 2017 and thereafter.—
+
+In general
+
+Minimum allocation
+
+Historical lease sites.—
+
+In general
+
+Adjustment
+
+Payments to coastal political subdivisions.—
+
+In general
+
+Allocation
+
+Timing
+
+Authorized Uses.—
+
+In general
+
+Limitation
+
+Administration
+
+Limitations on Amount of Distributed Qualified Outer Continental Shelf Revenues.—
+
+In general
+
+Expenditures
+
+Pro rata reductions
+
+Ronald Reagan.
+
+William J. Clinton.
+
+Section
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*(Aug. 7, 1953, ch. 345, § 2, [67 Stat. 462](https://www.govinfo.gov/link/statute/67/462); [Pub. L. 95–372, title II, § 201](https://www.govinfo.gov/link/plaw/95/public/372), Sept. 18, 1978, [92 Stat. 632](https://www.govinfo.gov/link/statute/92/632); [Pub. L. 117–58, div. D, title III, § 40307(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1002](https://www.govinfo.gov/link/statute/135/1002); [Pub. L. 117–169, title V, § 50251(b)(1)(A)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 2054](https://www.govinfo.gov/link/statute/136/2054).)*

@@ -3,9 +3,10 @@ title: "Section 55332 - Designating American Great Lakes vessels"
 usc_title: 46
 usc_section: "55332"
 chapter: 553
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 55332"
-generated_at: "2026-03-30T02:56:15.580Z"
+generated_at: "2026-11-23T20:27:27.391Z"
+status: "active"
 ---
 
 # § 55332. Designating American Great Lakes vessels
@@ -25,3 +26,30 @@ generated_at: "2026-03-30T02:56:15.580Z"
   - **(1)** documenting the vessel under the laws of a foreign country; or
   - **(2)** selling the vessel to a person not a citizen of the United States.
 - **(d)** The Secretary shall prescribe regulations establishing requirements for submitting applications under this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 55332 | 46 App.:1241r. | Pub. L. 101–624, title XV, § 1522 , Nov. 28, 1990 , 104 Stat. 3665 . |
+
+
+Designations
+
+Agreements
+
+Certain Foreign Documentation and Sale Not Prohibited
+
+Regulations
+
+Historical and Revision Notes
+
+55332
+
+Pub. L. 101–624, title XV, § 1522
+
+Nov. 28, 1990
+
+104 Stat. 3665
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(c)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1649](https://www.govinfo.gov/link/statute/120/1649).)*

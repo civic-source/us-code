@@ -3,9 +3,10 @@ title: "Section 502 - Feeder organizations"
 usc_title: 26
 usc_section: "502"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 502"
-generated_at: "2026-03-30T02:55:27.711Z"
+generated_at: "2026-11-23T20:26:45.788Z"
+status: "active"
 ---
 
 # § 502. Feeder organizations
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:27.711Z"
   - **(1)** the deriving of rents which would be excluded under section 512(b)(3), if section 512 applied to the organization,
   - **(2)** any trade or business in which substantially all the work in carrying on such trade or business is performed for the organization without compensation, or
   - **(3)** any trade or business which is the selling of merchandise, substantially all of which has been received by the organization as gifts or contributions.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 166; [Pub. L. 91–172, title I, § 121(b)(7)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 542](https://www.govinfo.gov/link/statute/83/542).)*

@@ -3,9 +3,10 @@ title: "Section 4582 - Notification on investments"
 usc_title: 50
 usc_section: "4582"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4582"
-generated_at: "2026-03-30T02:56:26.281Z"
+generated_at: "2026-11-23T20:27:31.131Z"
+status: "active"
 ---
 
 # § 4582. Notification on investments
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:26.281Z"
     - **(A)** a notification is not submitted to the Secretary under subsection (a); and
     - **(B)** information is reasonably available.
 - **(c)** If the Secretary prohibits a covered national security transaction in a prohibited technology under section 4581 of this title , the requirements of this section shall not apply with respect to the covered national security transaction.
+
+## Source Credit
+
+*(Sept. 8, 1950, ch. 932, title VIII, § 802, as added [Pub. L. 119–60, div. H, title LXXXV, § 8521](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1925](https://www.govinfo.gov/link/statute/139/1925).)*

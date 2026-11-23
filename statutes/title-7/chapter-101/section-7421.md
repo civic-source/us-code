@@ -3,9 +3,10 @@ title: "Section 7421 - Suspension or termination"
 usc_title: 7
 usc_section: "7421"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7421"
-generated_at: "2026-03-30T02:53:42.451Z"
+generated_at: "2026-11-23T20:25:41.781Z"
+status: "active"
 ---
 
 # § 7421. Suspension or termination
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:42.451Z"
 - **(b)** If, as a result of a referendum conducted under section 7417 of this title , the Secretary determines that an order is not approved, the Secretary shall—
   - **(1)** not later than 180 days after making the determination, suspend or terminate, as the case may be, collection of assessments under the order; and
   - **(2)** as soon as practicable, suspend or terminate, as the case may be, activities under the order in an orderly manner.
+
+## Source Credit
+
+*([Pub. L. 104–127, title V, § 522](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1047](https://www.govinfo.gov/link/statute/110/1047).)*

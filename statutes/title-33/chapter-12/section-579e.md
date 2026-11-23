@@ -3,9 +3,10 @@ title: "Section 579e - Access to real estate data"
 usc_title: 33
 usc_section: "579e"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 579e"
-generated_at: "2026-03-30T02:55:41.063Z"
+generated_at: "2026-11-23T20:26:53.865Z"
+status: "active"
 ---
 
 # § 579e. Access to real estate data
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:41.063Z"
 - **(c)** Nothing in this section shall compel or authorize the disclosure of data or other information determined by the Secretary to be confidential, privileged, national security information, personal information, or information the disclosure of which is otherwise prohibited by law.
 - **(d)** The Secretary shall ensure that the implementation of subsection (a) occurs as soon as practicable.
 - **(e)** Nothing in this section shall be construed as modifying, or exempting the Corps of Engineers from, the requirements of the Federal real property database published under section 21 of the Federal Assets Sale and Transfer Act of 2016 ( Public Law 114–287 ).
+
+## Source Credit
+
+*([Pub. L. 115–270, title I, § 1107](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3773](https://www.govinfo.gov/link/statute/132/3773).)*

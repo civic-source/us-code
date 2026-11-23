@@ -3,9 +3,10 @@ title: "Section 1706 - Management of health care: other requirements"
 usc_title: 38
 usc_section: "1706"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 1706"
-generated_at: "2026-03-30T02:55:53.482Z"
+generated_at: "2026-11-23T20:27:01.664Z"
+status: "active"
 ---
 
 # § 1706. Management of health care: other requirements
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:55:53.482Z"
     - **(B)** Positions described in this subparagraph are positions in the Veterans Health Administration that have responsibility for allocating and managing resources applicable to the requirements of paragraph (1).
     - **(C)** The Under Secretary shall develop the job performance standards under subparagraph (A) in consultation with the Advisory Committee on Prosthetics and Special Disabilities Programs and the Committee on Care of Severely Chronically Mentally Ill Veterans.
 - **(c)** The Secretary shall ensure that each primary care health care facility of the Department develops and carries out a plan to provide mental health services, either through referral or direct provision of services, to veterans who require such services.
+
+## Source Credit
+
+*(Added [Pub. L. 104–262, title I, § 104(a)(1)](https://www.govinfo.gov/link/plaw/104/public/262), Oct. 9, 1996, [110 Stat. 3183](https://www.govinfo.gov/link/statute/110/3183); amended [Pub. L. 105–368, title IX, § 903(a)](https://www.govinfo.gov/link/plaw/105/public/368), title X, § 1005(b)(2), Nov. 11, 1998, [112 Stat. 3360](https://www.govinfo.gov/link/statute/112/3360), 3365; [Pub. L. 107–95, § 8(a)](https://www.govinfo.gov/link/plaw/107/public/95), Dec. 21, 2001, [115 Stat. 919](https://www.govinfo.gov/link/statute/115/919); [Pub. L. 107–135, title II, § 203](https://www.govinfo.gov/link/plaw/107/public/135), Jan. 23, 2002, [115 Stat. 2458](https://www.govinfo.gov/link/statute/115/2458); [Pub. L. 109–461, title II, § 208(a)](https://www.govinfo.gov/link/plaw/109/public/461), Dec. 22, 2006, [120 Stat. 3413](https://www.govinfo.gov/link/statute/120/3413); [Pub. L. 114–223, div. A, title II, § 253](https://www.govinfo.gov/link/plaw/114/public/223), Sept. 29, 2016, [130 Stat. 894](https://www.govinfo.gov/link/statute/130/894).)*

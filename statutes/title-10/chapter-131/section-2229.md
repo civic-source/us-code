@@ -3,9 +3,10 @@ title: "Section 2229 - Strategic policy on prepositioning of materiel and equipm
 usc_title: 10
 usc_section: "2229"
 chapter: 131
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2229"
-generated_at: "2026-03-30T02:53:38.150Z"
+generated_at: "2026-11-23T20:25:51.513Z"
+status: "active"
 ---
 
 # § 2229. Strategic policy on prepositioning of materiel and equipment
@@ -28,3 +29,77 @@ generated_at: "2026-03-30T02:53:38.150Z"
   - **(1)** Not later than the date of the submission of the President’s budget request for a fiscal year under section 1105 of title 31 , the Secretary of Defense shall submit to the congressional defense committees a certification in writing that the prepositioned stocks of each of the military departments meet all operations plans, in both fill and readiness, that are in effect as of the date of the submission of the certification.
   - **(2)** If, for any year, the Secretary cannot certify that any of the prepositioned stocks meet such operations plans, the Secretary shall include with the certification for that year a list of the operations plans affected, a description of any measures that have been taken to mitigate any risk associated with prepositioned stock shortfalls, and an anticipated timeframe for the replenishment of the stocks.
   - **(3)** A certification under this subsection shall be in an unclassified form but may have a classified annex.
+
+Policy Required.—
+
+In general
+
+Elements
+
+Joint oversight
+
+Limitation of Diversion of Prepositioned Materiel
+
+Congressional Notification
+
+Annual Certification
+
+Plan Required.—
+
+In general
+
+Additional requirements for navy and marine corps plan
+
+Implementation
+
+Briefings.—
+
+Briefing on plan
+
+Briefings on status of prepositioned stockpiles
+
+Definitions
+
+In General
+
+Plan to Reduce Delays
+
+Plan Required
+
+Implementation
+
+Briefings.—
+
+Briefing on plan
+
+Briefings on status of prepositioned stockpiles
+
+Implementation Plan.—
+
+In general
+
+Elements
+
+Comptroller General Report
+
+Initial report
+
+Progress reports
+
+Deadline
+
+Limitation on diversion of prepositioned materiel
+
+Consultation
+
+Prepositioning of Department of Defense Assets
+
+Reimbursement
+
+Military Readiness
+
+Procedures and Guidelines
+
+## Source Credit
+
+*(Added [Pub. L. 109–364, div. A, title III, § 351(a)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2160](https://www.govinfo.gov/link/statute/120/2160); amended [Pub. L. 112–81, div. A, title III, § 341(a)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1369](https://www.govinfo.gov/link/statute/125/1369); [Pub. L. 113–66, div. A, title III, § 321(a)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 730](https://www.govinfo.gov/link/statute/127/730); [Pub. L. 113–291, div. A, title III, § 322](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3343](https://www.govinfo.gov/link/statute/128/3343); [Pub. L. 114–92, div. A, title X, § 1081(a)(8)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 1001](https://www.govinfo.gov/link/statute/129/1001).)*

@@ -3,9 +3,10 @@ title: "Section 1008 - Establishment and purpose of advisory committees"
 usc_title: 5
 usc_section: "1008"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 1008"
-generated_at: "2026-03-30T02:52:55.993Z"
+generated_at: "2026-11-23T20:25:31.760Z"
+status: "active"
 ---
 
 # § 1008. Establishment and purpose of advisory committees
@@ -32,3 +33,34 @@ generated_at: "2026-03-30T02:52:55.993Z"
     - **(I)** the committee’s termination date, if less than 2 years from the date of the committee’s establishment; and
     - **(J)** the date the charter is filed.
   - **(3)** A copy of the advisory committee charter shall be furnished to the Library of Congress.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1008 | 5 U.S.C. App. (FACA § 9) | Pub. L. 92–463, § 9 , Oct. 6, 1972 , 86 Stat. 773 . |
+
+
+Establishment
+
+Purpose of Advisory Committees
+
+Advisory Committee Charters.—
+
+General requirement
+
+Contents of charter
+
+Copy of charter to library of congress
+
+Historical and Revision Notes
+
+1008
+
+Pub. L. 92–463, § 9
+
+Oct. 6, 1972
+
+86 Stat. 773
+
+## Source Credit
+
+*([Pub. L. 117–286, § 3(a)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4201](https://www.govinfo.gov/link/statute/136/4201).)*

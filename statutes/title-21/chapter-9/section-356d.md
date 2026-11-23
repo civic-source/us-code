@@ -3,9 +3,10 @@ title: "Section 356d - Coordination; task force and strategic plan"
 usc_title: 21
 usc_section: "356d"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 356d"
-generated_at: "2026-03-30T02:54:54.243Z"
+generated_at: "2026-11-23T20:26:27.614Z"
+status: "active"
 ---
 
 # § 356d. Coordination; task force and strategic plan
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:54:54.243Z"
 - **(g)** The Secretary shall ensure timely and effective internal coordination and alignment among the field investigators of the Food and Drug Administration and the staff of the Center for Drug Evaluation and Research’s Office of Compliance and Drug Shortage Program regarding—
   - **(1)** the reviews of reports shared pursuant to section 374(b)(2) of this title ; and
   - **(2)** any feedback or corrective or preventive actions in response to such reports.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 506D, as added [Pub. L. 112–144, title X, § 1003](https://www.govinfo.gov/link/plaw/112/public/144), July 9, 2012, [126 Stat. 1103](https://www.govinfo.gov/link/statute/126/1103); amended [Pub. L. 117–328, div. FF, title III, § 3616(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5874](https://www.govinfo.gov/link/statute/136/5874).)*

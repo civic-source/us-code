@@ -3,9 +3,10 @@ title: "Section 2219a - Right of first refusal"
 usc_title: 12
 usc_section: "2219a"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 2219a"
-generated_at: "2026-03-30T02:53:53.475Z"
+generated_at: "2026-11-23T20:25:59.251Z"
+status: "active"
 ---
 
 # § 2219a. Right of first refusal
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:53:53.475Z"
 - **(g)** Notwithstanding any other provision of this section, each certified mail notice requirement in this section shall be fully satisfied by mailing one certified mail notice to the last known address of the previous owner.
 - **(h)** The rights provided in this section shall not diminish any such right of first refusal under the law of the State in which the property is located.
 - **(i)** This section shall not apply to a bank for cooperatives.
+
+## Source Credit
+
+*([Pub. L. 92–181, title IV, § 4](https://www.govinfo.gov/link/plaw/92/public/181).36, as added [Pub. L. 99–205, title III, § 306](https://www.govinfo.gov/link/plaw/99/public/205), Dec. 23, 1985, [99 Stat. 1709](https://www.govinfo.gov/link/statute/99/1709); amended [Pub. L. 100–233, title I, § 108](https://www.govinfo.gov/link/plaw/100/public/233), Jan. 6, 1988, [101 Stat. 1582](https://www.govinfo.gov/link/statute/101/1582); [Pub. L. 100–399, title I, § 104](https://www.govinfo.gov/link/plaw/100/public/399), Aug. 17, 1988, [102 Stat. 990](https://www.govinfo.gov/link/statute/102/990).)*

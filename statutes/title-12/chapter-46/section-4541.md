@@ -3,9 +3,10 @@ title: "Section 4541 - Prior approval authority for products"
 usc_title: 12
 usc_section: "4541"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4541"
-generated_at: "2026-03-30T02:53:53.507Z"
+generated_at: "2026-11-23T20:25:59.392Z"
+status: "active"
 ---
 
 # § 4541. Prior approval authority for products
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:53:53.507Z"
 - **(f)** Nothing in this section may be construed to restrict—
   - **(1)** the safety and soundness authority of the Director over all new and existing products or activities; or
   - **(2)** the authority of the Director to review all new and existing products or activities to determine that such products or activities are consistent with the statutory mission of an enterprise.
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1321](https://www.govinfo.gov/link/plaw/102/public/550), as added [Pub. L. 110–289, div. A, title I, § 1123](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2689](https://www.govinfo.gov/link/statute/122/2689).)*

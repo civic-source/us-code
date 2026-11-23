@@ -3,12 +3,17 @@ title: "Section 695e - Construction, operation, and maintenance of water supply 
 usc_title: 16
 usc_section: "695e"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 695e"
-generated_at: "2026-03-30T02:54:22.896Z"
+generated_at: "2026-11-23T20:26:20.230Z"
+status: "active"
 ---
 
 # § 695e. Construction, operation, and maintenance of water supply development works
 
 The Secretary of the Interior is authorized to construct, operate, and maintain such works on waterfowl management areas and refuges owned and operated by the State of California or the United States as may be necessary or desirable for the development of a water supply by means of wells and the recovery of drainage, and to furnish water available from such works, and water available from Central Valley project sources, for wildlife management purposes substantially in accordance with the recommendations set forth in the report of the United States Department of the Interior entitled “Waterfowl Conservation in the Lower San Joaquin Valley, Its Relation to the Grasslands and the Central Valley Project,” dated October 1950, and such works should be developed in cooperation with the State of California.
 
+
+## Source Credit
+
+*(Aug. 27, 1954, ch. 1012, § 2, [68 Stat. 879](https://www.govinfo.gov/link/statute/68/879).)*

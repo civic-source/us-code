@@ -3,9 +3,10 @@ title: "Section 460oo - Establishment"
 usc_title: 16
 usc_section: "460oo"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 460oo"
-generated_at: "2026-03-30T02:54:22.829Z"
+generated_at: "2026-11-23T20:26:19.969Z"
+status: "active"
 ---
 
 # § 460oo. Establishment
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:22.829Z"
   - **(6)** public service land occupancies, including power transmission lines, provided there is no feasible alternative location, and, the Secretary finds that it is in the public interest to locate such facilities within the recreation area.
 - **(f)** The following lands within the recreation area are hereby designated as wilderness and therefore as components of the National Wilderness Preservation System, and shall, notwithstanding any other provisions of this section, be administered by the Secretary in accordance with the applicable provisions of the Wilderness Act [ 16 U.S.C. 1131 et seq.]: Certain lands in the Umpqua, Willamette, and Winema National Forests which comprise approximately fifty-five thousand one hundred acres, are generally depicted on a map dated March 1984, entitled “Mount Thielsen Wilderness—Proposed”, and which shall be known as the Mount Thielsen Wilderness; and certain lands in the Willamette and Deschutes National Forests, which comprise approximately fifteen thousand seven hundred acres, are generally depicted on a map dated March 1984, entitled “Diamond Peak Wilderness Additions—Proposed”, and which are hereby incorporated in, and which shall be deemed to be a part of, the Diamond Peak Wilderness as designated in Public Law 88–577 .
 - **(g)** Management direction for the recreation area shall be developed in either the forest plans developed for the Umpqua, Winema, Deschutes and Willamette Forests in accordance with section 6 of the Forest and Rangeland Renewable Resources Planning Act of 1974, as amended [ 16 U.S.C. 1604 ], or in an integrated management plan that shall be prepared within three years from June 26, 1984 , and revised in accordance with the Forest and Rangeland Renewable Resources Planning Act of 1974, as amended [ 16 U.S.C. 1600 et seq.]. Any plan developed by the Secretary for the recreation area shall identify and designate specific and appropriate areas and routes for the use of motorized recreation vehicles within the recreation area.
+
+## Source Credit
+
+*([Pub. L. 98–328, § 4](https://www.govinfo.gov/link/plaw/98/public/328), June 26, 1984, [98 Stat. 275](https://www.govinfo.gov/link/statute/98/275).)*

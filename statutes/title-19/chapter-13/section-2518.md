@@ -3,9 +3,10 @@ title: "Section 2518 - Definitions"
 usc_title: 19
 usc_section: "2518"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2518"
-generated_at: "2026-03-30T02:54:24.679Z"
+generated_at: "2026-11-23T20:26:10.991Z"
+status: "active"
 ---
 
 # § 2518. Definitions
@@ -39,3 +40,7 @@ As used in this subchapter—
   - **(5)** The term “instrumentality” shall not be construed to include an agency or division of the government of a country, but may be construed to include such arrangements as the European Economic Community.
   - **(6)** The term “least developed country” means any country on the United Nations General Assembly list of least developed countries.
   - **(7)** The term “major industrial country” means any such country as defined in section 2136 of this title and any instrumentality of such a country.
+
+## Source Credit
+
+*([Pub. L. 96–39, title III, § 308](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 241](https://www.govinfo.gov/link/statute/93/241); [Pub. L. 99–47, § 7](https://www.govinfo.gov/link/plaw/99/public/47), June 11, 1985, [99 Stat. 84](https://www.govinfo.gov/link/statute/99/84); [Pub. L. 100–449, title III, § 306](https://www.govinfo.gov/link/plaw/100/public/449), Sept. 28, 1988, [102 Stat. 1876](https://www.govinfo.gov/link/statute/102/1876); [Pub. L. 103–182, title III, § 381(c)](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2129](https://www.govinfo.gov/link/statute/107/2129); [Pub. L. 103–465, title III, § 342(f)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4953](https://www.govinfo.gov/link/statute/108/4953); [Pub. L. 104–295, § 20(c)(12)](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3528](https://www.govinfo.gov/link/statute/110/3528); [Pub. L. 108–286, title IV, § 401](https://www.govinfo.gov/link/plaw/108/public/286), Aug. 3, 2004, [118 Stat. 950](https://www.govinfo.gov/link/statute/118/950); [Pub. L. 109–53, title IV, § 401](https://www.govinfo.gov/link/plaw/109/public/53), Aug. 2, 2005, [119 Stat. 495](https://www.govinfo.gov/link/statute/119/495); [Pub. L. 109–169, title IV, § 401](https://www.govinfo.gov/link/plaw/109/public/169), Jan. 11, 2006, [119 Stat. 3599](https://www.govinfo.gov/link/statute/119/3599); [Pub. L. 109–283, title IV, § 401](https://www.govinfo.gov/link/plaw/109/public/283), Sept. 26, 2006, [120 Stat. 1209](https://www.govinfo.gov/link/statute/120/1209); [Pub. L. 110–138, title IV, § 401](https://www.govinfo.gov/link/plaw/110/public/138), Dec. 14, 2007, [121 Stat. 1486](https://www.govinfo.gov/link/statute/121/1486); [Pub. L. 112–41, title IV, § 401](https://www.govinfo.gov/link/plaw/112/public/41), Oct. 21, 2011, [125 Stat. 459](https://www.govinfo.gov/link/statute/125/459); [Pub. L. 112–42, title IV, § 401](https://www.govinfo.gov/link/plaw/112/public/42), Oct. 21, 2011, [125 Stat. 494](https://www.govinfo.gov/link/statute/125/494); [Pub. L. 112–43, title IV, § 401](https://www.govinfo.gov/link/plaw/112/public/43), Oct. 21, 2011, [125 Stat. 529](https://www.govinfo.gov/link/statute/125/529); [Pub. L. 116–113, title V, § 505(b)](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 77](https://www.govinfo.gov/link/statute/134/77).)*

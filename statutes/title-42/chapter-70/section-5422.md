@@ -3,9 +3,10 @@ title: "Section 5422 - State enforcement"
 usc_title: 42
 usc_section: "5422"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5422"
-generated_at: "2026-03-30T02:56:11.236Z"
+generated_at: "2026-11-23T20:27:22.544Z"
+status: "active"
 ---
 
 # § 5422. State enforcement
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:11.236Z"
   - **(1)** Not later than the expiration of the 5-year period beginning on December 27, 2000 , the Secretary shall establish a dispute resolution program that meets the requirements of subsection (c)(12) for dispute resolution in each State described in paragraph (2) of this subsection. The order establishing the dispute resolution program shall be issued after notice and opportunity for public comment in accordance with section 553 of title 5 .
   - **(2)** Beginning on the expiration of the 5-year period described in paragraph (1), the Secretary shall implement the dispute resolution program established under paragraph (1) in each State that has not established a dispute resolution program that meets the requirements of subsection (c)(12).
   - **(3)** In carrying out paragraph (2), the Secretary may contract with an appropriate agent to implement the dispute resolution program established under paragraph (2), except that such agent shall not be a person or entity other than a government, nor an affiliate or subsidiary of such a person or entity, that has entered into a contract with the Secretary to implement any other regulatory program under this chapter.
+
+## Source Credit
+
+*([Pub. L. 93–383, title VI, § 623](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 712](https://www.govinfo.gov/link/statute/88/712); [Pub. L. 96–399, title III, § 308(c)(4)](https://www.govinfo.gov/link/plaw/96/public/399), Oct. 8, 1980, [94 Stat. 1641](https://www.govinfo.gov/link/statute/94/1641); [Pub. L. 97–35, title III, § 339B(c)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 417](https://www.govinfo.gov/link/statute/95/417); [Pub. L. 106–569, title VI](https://www.govinfo.gov/link/plaw/106/public/569), §§ 603(b)(5), 605(b), 610, Dec. 27, 2000, [114 Stat. 2999](https://www.govinfo.gov/link/statute/114/2999), 3008, 3011.)*

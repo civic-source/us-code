@@ -3,9 +3,10 @@ title: "Section 1534 - Cybercrime"
 usc_title: 6
 usc_section: "1534"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 1534"
-generated_at: "2026-03-30T02:53:09.511Z"
+generated_at: "2026-11-23T20:25:34.977Z"
+status: "active"
 ---
 
 # § 1534. Cybercrime
@@ -15,3 +16,7 @@ Subject to the availability of appropriations, and in accordance with the compar
   - **(1)** the protection of trafficking victims;
   - **(2)** the prevention of trafficking in persons; or
   - **(3)** the prosecution of technology-facilitated crimes against children by buyers or traffickers in persons.
+
+## Source Credit
+
+*([Pub. L. 117–347, title IV, § 401](https://www.govinfo.gov/link/plaw/117/public/347), Jan. 5, 2023, [136 Stat. 6207](https://www.govinfo.gov/link/statute/136/6207).)*

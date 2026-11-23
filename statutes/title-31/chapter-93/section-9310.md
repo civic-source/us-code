@@ -3,9 +3,10 @@ title: "Section 9310 - Individual sureties"
 usc_title: 31
 usc_section: "9310"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 9310"
-generated_at: "2026-03-30T02:55:34.077Z"
+generated_at: "2026-11-23T20:26:51.943Z"
+status: "active"
 ---
 
 # § 9310. Individual sureties
@@ -14,3 +15,7 @@ If another applicable Federal law or regulation permits the acceptance of a bond
 
   - **(1)** consist of eligible obligations described under section 9303(a); and
   - **(2)** be submitted to the official of the Government required to approve or accept the bond, who shall deposit the obligations as described under section 9303(b).
+
+## Source Credit
+
+*(Added [Pub. L. 114–92, div. A, title VIII, § 874(a)(1)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 940](https://www.govinfo.gov/link/statute/129/940).)*

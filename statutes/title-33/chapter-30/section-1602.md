@@ -3,9 +3,10 @@ title: "Section 1602 - International Regulations"
 usc_title: 33
 usc_section: "1602"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1602"
-generated_at: "2026-03-30T02:55:41.109Z"
+generated_at: "2026-11-23T20:26:54.094Z"
+status: "active"
 ---
 
 # § 1602. International Regulations
@@ -17,3 +18,29 @@ generated_at: "2026-03-30T02:55:41.109Z"
   - **(1)** Upon receiving a proposed amendment to the International Regulations, communicated to the United States pursuant to clause 3 of article VI of the Convention, the President shall promptly notify the Congress of the proposed amendment. If, within sixty days after receipt of such notification by the Congress, or ten days prior to the date under clause 4 of article VI for registering an objection, whichever comes first, the Congress adopts a resolution of disapproval, such resolution shall be transmitted to the President and shall constitute an objection by the United States to the proposed amendment. If, upon receiving notification of the resolution of disapproval, the President has not already notified the Inter-Governmental Maritime Consultative Organization of an objection to the United States to the proposed amendment, he shall promptly do so.
   - **(2)** For the purposes of this subsection, “resolution of disapproval” means a concurrent resolution initiated by either House of the Congress, the matter after the resolving clause of which is to read as follows: “That the (the concurring) does not favor the proposed amendment to the International Regulations for Preventing Collisions at Sea, 1972, relating to , and forwarded to the Congress by the President on .”, the first blank space therein to be filled with the name of the resolving House, the second blank space therein to be filled with the name of the concurring House, the third blank space therein to be filled with the subject matter of the proposed amendment, and the fourth blank space therein to be filled with the day, month, and year.
   - **(3)** Any proposed amendment transmitted to the Congress by the President and any resolution of disapproval pertaining thereto shall be referred, in the House of Representatives, to the Committee on Transportation and Infrastructure, and shall be referred, in the Senate, to the Committee on Commerce, Science, and Transportation.
+
+Section
+
+Federal Register.
+
+Sec
+
+Federal Register.
+
+Sec
+
+Federal Register.
+
+Sec
+
+Federal Register
+
+Federal Register
+
+Gerald R. Ford.
+
+Jimmy Carter.
+
+## Source Credit
+
+*([Pub. L. 95–75, § 3](https://www.govinfo.gov/link/plaw/95/public/75), July 27, 1977, [91 Stat. 308](https://www.govinfo.gov/link/statute/91/308); [Pub. L. 107–295, title IV, § 408(b)(1)](https://www.govinfo.gov/link/plaw/107/public/295), Nov. 25, 2002, [116 Stat. 2117](https://www.govinfo.gov/link/statute/116/2117).)*

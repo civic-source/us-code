@@ -3,9 +3,10 @@ title: "Section 30506 - Rule of construction"
 usc_title: 34
 usc_section: "30506"
 chapter: 305
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 30506"
-generated_at: "2026-03-30T02:55:33.307Z"
+generated_at: "2026-11-23T20:26:50.635Z"
+status: "active"
 ---
 
 # § 30506. Rule of construction
@@ -20,3 +21,7 @@ For purposes of construing this division and the amendments made by this divisio
   - **(4)** Nothing in this division shall be construed to allow prosecution based solely upon an individual’s expression of racial, religious, political, or other beliefs or solely upon an individual’s membership in a group advocating or espousing such beliefs.
   - **(5)** Nothing in this division, or an amendment made by this division, shall be construed to diminish any rights under the first amendment to the Constitution of the United States.
   - **(6)** Nothing in this division shall be construed to prohibit any constitutionally protected speech, expressive conduct or activities (regardless of whether compelled by, or central to, a system of religious belief), including the exercise of religion protected by the first amendment to the Constitution of the United States and peaceful picketing or demonstration. The Constitution of the United States does not protect speech, conduct or activities consisting of planning for, conspiring to commit, or committing an act of violence.
+
+## Source Credit
+
+*([Pub. L. 111–84, div. E, § 4710](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2841](https://www.govinfo.gov/link/statute/123/2841).)*

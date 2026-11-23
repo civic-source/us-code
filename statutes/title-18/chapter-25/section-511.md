@@ -3,9 +3,10 @@ title: "Section 511 - Altering or removing motor vehicle identification numbers"
 usc_title: 18
 usc_section: "511"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 511"
-generated_at: "2026-03-30T02:54:16.465Z"
+generated_at: "2026-11-23T20:26:08.380Z"
+status: "active"
 ---
 
 # § 511. Altering or removing motor vehicle identification numbers
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:16.465Z"
     - **(B)** who, from a fixed location, uses machinery to process metallic scrap into prepared grades; and
     - **(C)** whose principal product is metallic scrap for recycling;
 - **(d)** For purposes of subsection (a) of this section, the term “tampers with” includes covering a program decal or device affixed to a motor vehicle pursuant to the Motor Vehicle Theft Prevention Act for the purpose of obstructing its visibility.
+
+## Source Credit
+
+*(Added [Pub. L. 98–547, title II, § 201(a)](https://www.govinfo.gov/link/plaw/98/public/547), Oct. 25, 1984, [98 Stat. 2768](https://www.govinfo.gov/link/statute/98/2768); amended [Pub. L. 103–272, § 5(e)(3)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1373](https://www.govinfo.gov/link/statute/108/1373); [Pub. L. 103–322, title XXII, § 220003(a)](https://www.govinfo.gov/link/plaw/103/public/322) –(c), Sept. 13, 1994, [108 Stat. 2076](https://www.govinfo.gov/link/statute/108/2076), 2077; [Pub. L. 104–294, title VI, § 604(b)(8)](https://www.govinfo.gov/link/plaw/104/public/294), Oct. 11, 1996, [110 Stat. 3507](https://www.govinfo.gov/link/statute/110/3507).)*

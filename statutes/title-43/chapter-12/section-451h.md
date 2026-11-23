@@ -3,12 +3,17 @@ title: "Section 451h - Establishment of farm units; size; contiguous or nonconti
 usc_title: 43
 usc_section: "451h"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 451h"
-generated_at: "2026-03-30T02:55:57.450Z"
+generated_at: "2026-11-23T20:27:06.215Z"
+status: "active"
 ---
 
 # § 451h. Establishment of farm units; size; contiguous or noncontiguous
 
 In administering sections 434, 448, and 544 of this title, the Secretary may, to the extent found necessary as shown by a land classification to provide farm units sufficient in size to support a family, establish such units of not more than three hundred and twenty acres containing not more than one hundred and sixty irrigable acres designated by him and may permit entry and assignment under the homestead laws, and retention and assignment under the desert land laws, of such units. The lands included in farm units established pursuant to the authority of this section and entered under the homestead laws may be contiguous or noncontiguous.
 
+
+## Source Credit
+
+*(Aug. 13, 1953, ch. 428, § 9, [67 Stat. 568](https://www.govinfo.gov/link/statute/67/568).)*

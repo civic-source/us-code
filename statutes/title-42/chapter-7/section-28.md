@@ -3,9 +3,10 @@ title: "Section 28 - Definitions; miscellaneous provisions"
 usc_title: 42
 usc_section: "28"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 28"
-generated_at: "2026-03-30T02:56:10.980Z"
+generated_at: "2026-11-23T20:27:21.277Z"
+status: "active"
 ---
 
 # § 1395w–28. Definitions; miscellaneous provisions
@@ -172,3 +173,13 @@ generated_at: "2026-03-30T02:56:10.980Z"
     - **(A)** include administrative actions, pertinent information related to opioid overprescribing, and other data determined appropriate by the Secretary in consultation with stakeholders; and
     - **(B)** be anonymized information submitted by plans without identifying the source of such information.
   - **(3)** Nothing in this subsection shall preclude or otherwise affect referrals to the Inspector General of the Department of Health and Human Services or other law enforcement entities.
+
+Authority to operate but no service area expansion for dual snps that do not meet certain requirements
+
+Resources for state medicaid agencies
+
+No requirement for contract
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1859, as added [Pub. L. 105–33, title IV, § 4001](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 325](https://www.govinfo.gov/link/statute/111/325); amended [Pub. L. 106–113, div. B, § 1000(a)(6) [title V, § 523]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–387; [Pub. L. 108–173, title II](https://www.govinfo.gov/link/plaw/108/public/173), §§ 221(b)(1), (d)(2), 231(b), (c), Dec. 8, 2003, [117 Stat. 2180](https://www.govinfo.gov/link/statute/117/2180), 2193, 2207, 2208; [Pub. L. 110–173, title I, § 108(a)](https://www.govinfo.gov/link/plaw/110/public/173), Dec. 29, 2007, [121 Stat. 2496](https://www.govinfo.gov/link/statute/121/2496); [Pub. L. 110–275, title I](https://www.govinfo.gov/link/plaw/110/public/275), §§ 162(b), 164(a), (c)(1), (d)(1), (e)(1), July 15, 2008, [122 Stat. 2571–2574](https://www.govinfo.gov/link/statute/122/2571); [Pub. L. 111–148, title III](https://www.govinfo.gov/link/plaw/111/public/148), §§ 3205(a), (c), (e), (g), 3208(a), Mar. 23, 2010, [124 Stat. 457–459](https://www.govinfo.gov/link/statute/124/457); [Pub. L. 112–240, title VI, § 607](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2349](https://www.govinfo.gov/link/statute/126/2349); [Pub. L. 113–67, div. B, title I, § 1107](https://www.govinfo.gov/link/plaw/113/public/67), Dec. 26, 2013, [127 Stat. 1197](https://www.govinfo.gov/link/statute/127/1197); [Pub. L. 113–93, title I, § 107](https://www.govinfo.gov/link/plaw/113/public/93), Apr. 1, 2014, [128 Stat. 1043](https://www.govinfo.gov/link/statute/128/1043); [Pub. L. 114–10, title II, § 206](https://www.govinfo.gov/link/plaw/114/public/10), Apr. 16, 2015, [129 Stat. 145](https://www.govinfo.gov/link/statute/129/145); [Pub. L. 114–255, div. C, title XVII, § 17006(a)(2)(B)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1334](https://www.govinfo.gov/link/statute/130/1334); [Pub. L. 115–123, div. E, title III](https://www.govinfo.gov/link/plaw/115/public/123), §§ 50311(a), (b)(1), (c), 50321, Feb. 9, 2018, [132 Stat. 192](https://www.govinfo.gov/link/statute/132/192), 196, 200; [Pub. L. 115–271, title VI, § 6063(a)](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 3987](https://www.govinfo.gov/link/statute/132/3987).)*

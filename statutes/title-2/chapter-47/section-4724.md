@@ -3,12 +3,17 @@ title: "Section 4724 - Amendment to Senate conflict of interest rule"
 usc_title: 2
 usc_section: "4724"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 4724"
-generated_at: "2026-03-30T02:53:04.834Z"
+generated_at: "2026-11-23T20:25:29.050Z"
+status: "active"
 ---
 
 # § 4724. Amendment to Senate conflict of interest rule
 
 - **(a)** Except as provided by subsection (b), any employee of the Senate who is required to file a report pursuant to Senate rules shall refrain from participating personally and substantially as an employee of the Senate in any contact with any agency of the executive or judicial branch of Government with respect to non-legislative matters affecting any non-governmental person in which the employee has a significant financial interest.
 - **(b)** Subsection (a) shall not apply if an employee first advises his supervisor of his significant financial interest and obtains from such supervisor a written waiver stating that the participation of the employee is necessary. A copy of each such waiver shall be filed with the Select Committee.
+
+## Source Credit
+
+*([Pub. L. 101–194, title IX, § 903](https://www.govinfo.gov/link/plaw/101/public/194), Nov. 30, 1989, [103 Stat. 1781](https://www.govinfo.gov/link/statute/103/1781).)*

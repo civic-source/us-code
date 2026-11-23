@@ -3,12 +3,17 @@ title: "Section 1519 - Destruction, alteration, or falsification of records in F
 usc_title: 18
 usc_section: "1519"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 1519"
-generated_at: "2026-03-30T02:54:16.488Z"
+generated_at: "2026-11-23T20:26:08.504Z"
+status: "active"
 ---
 
 # § 1519. Destruction, alteration, or falsification of records in Federal investigations and bankruptcy
 
 Whoever knowingly alters, destroys, mutilates, conceals, covers up, falsifies, or makes a false entry in any record, document, or tangible object with the intent to impede, obstruct, or influence the investigation or proper administration of any matter within the jurisdiction of any department or agency of the United States or any case filed under title 11, or in relation to or contemplation of any such matter or case, shall be fined under this title, imprisoned not more than 20 years, or both.
 
+
+## Source Credit
+
+*(Added [Pub. L. 107–204, title VIII, § 802(a)](https://www.govinfo.gov/link/plaw/107/public/204), July 30, 2002, [116 Stat. 800](https://www.govinfo.gov/link/statute/116/800).)*

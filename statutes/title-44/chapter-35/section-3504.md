@@ -3,9 +3,10 @@ title: "Section 3504 - Authority and functions of Director"
 usc_title: 44
 usc_section: "3504"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "44 U.S.C. § 3504"
-generated_at: "2026-03-30T02:55:56.296Z"
+generated_at: "2026-11-23T20:27:03.825Z"
+status: "active"
 ---
 
 # § 3504. Authority and functions of Director
@@ -98,3 +99,19 @@ generated_at: "2026-03-30T02:55:56.296Z"
     - **(A)** agency integration of information resources management plans, program plans and budgets for acquisition and use of information technology; and
     - **(B)** the efficiency and effectiveness of inter-agency information technology initiatives to improve agency performance and the accomplishment of agency missions; and
   - **(5)** promote the use of information technology by the Federal Government to improve the productivity, efficiency, and effectiveness of Federal programs, including through dissemination of public information and the reduction of information collection burdens on the public.
+
+In General
+
+Requirements for Procedures
+
+Ongoing Study Required
+
+Reports
+
+Electronic signature
+
+Executive agency
+
+## Source Credit
+
+*(Added [Pub. L. 104–13, § 2](https://www.govinfo.gov/link/plaw/104/public/13), May 22, 1995, [109 Stat. 167](https://www.govinfo.gov/link/statute/109/167); amended [Pub. L. 104–106, div. E, title LI, § 5131(e)(1)](https://www.govinfo.gov/link/plaw/104/public/106), title LVI, § 5605(b), (c), Feb. 10, 1996, [110 Stat. 688](https://www.govinfo.gov/link/statute/110/688), 700; [Pub. L. 105–85, div. A, title X, § 1073(h)(5)(B)](https://www.govinfo.gov/link/plaw/105/public/85), (C), Nov. 18, 1997, [111 Stat. 1907](https://www.govinfo.gov/link/statute/111/1907); [Pub. L. 105–277, div. C, title XVII, § 1702](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–749](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title X, § 1064(b)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–275; [Pub. L. 107–198, § 2(a)](https://www.govinfo.gov/link/plaw/107/public/198), June 28, 2002, [116 Stat. 729](https://www.govinfo.gov/link/statute/116/729); [Pub. L. 107–217, § 3](https://www.govinfo.gov/link/plaw/107/public/217) (l)(5), Aug. 21, 2002, [116 Stat. 1301](https://www.govinfo.gov/link/statute/116/1301); [Pub. L. 107–296, title X, § 1005(c)(1)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2272](https://www.govinfo.gov/link/statute/116/2272); [Pub. L. 107–347, title III, § 305(c)(1)](https://www.govinfo.gov/link/plaw/107/public/347), Dec. 17, 2002, [116 Stat. 2960](https://www.govinfo.gov/link/statute/116/2960); [Pub. L. 115–435, title II, § 202(b)](https://www.govinfo.gov/link/plaw/115/public/435), (d)(2)(B), Jan. 14, 2019, [132 Stat. 5535](https://www.govinfo.gov/link/statute/132/5535), 5541; [Pub. L. 117–219, § 7](https://www.govinfo.gov/link/plaw/117/public/219), Dec. 5, 2022, [136 Stat. 2274](https://www.govinfo.gov/link/statute/136/2274).)*

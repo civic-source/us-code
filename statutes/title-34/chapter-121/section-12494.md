@@ -3,9 +3,10 @@ title: "Section 12494 - Prohibition on retaliation"
 usc_title: 34
 usc_section: "12494"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12494"
-generated_at: "2026-03-30T02:55:33.289Z"
+generated_at: "2026-11-23T20:26:50.555Z"
+status: "active"
 ---
 
 # § 12494. Prohibition on retaliation
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:33.289Z"
   - **(1)** intimidating or threatening any person because that person is assisting or encouraging a person entitled to claim the rights or protections under this subpart; and
   - **(2)** retaliating against any person because that person has participated in any investigation or action to enforce this subpart.
 - **(c)** The Secretary of Housing and Urban Development and the Attorney General shall implement and enforce this subpart consistent with, and in a manner that provides, the rights and remedies provided for in title VIII of the Civil Rights Act of 1968 ( 42 U.S.C. 3601 et seq.).
+
+## Source Credit
+
+*([Pub. L. 103–322, title IV, § 41414](https://www.govinfo.gov/link/plaw/103/public/322), as added [Pub. L. 117–103, div. W, title VI, § 602](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 884](https://www.govinfo.gov/link/statute/136/884).)*

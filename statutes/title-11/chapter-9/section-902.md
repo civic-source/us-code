@@ -3,9 +3,10 @@ title: "Section 902 - Definitions for this chapter"
 usc_title: 11
 usc_section: "902"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 902"
-generated_at: "2026-03-30T02:53:53.883Z"
+generated_at: "2026-11-23T20:25:55.394Z"
+status: "active"
 ---
 
 # § 902. Definitions for this chapter
@@ -22,3 +23,7 @@ In this chapter—
   - **(3)** “special tax payer” means record owner or holder of legal or equitable title to real property against which a special assessment or special tax has been levied the proceeds of which are the sole source of payment of an obligation issued by the debtor to defray the cost of an improvement relating to such real property;
   - **(4)** “special tax payer affected by the plan” means special tax payer with respect to whose real property the plan proposes to increase the proportion of special assessments or special taxes referred to in paragraph (2) of this section assessed against such real property; and
   - **(5)** “trustee”, when used in a section that is made applicable in a case under this chapter by section 103(e) 1 or 901 of this title, means debtor, except as provided in section 926 of this title .
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2622](https://www.govinfo.gov/link/statute/92/2622); [Pub. L. 98–353, title III, § 491](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 383](https://www.govinfo.gov/link/statute/98/383); [Pub. L. 100–597, § 4](https://www.govinfo.gov/link/plaw/100/public/597), Nov. 3, 1988, [102 Stat. 3028](https://www.govinfo.gov/link/statute/102/3028).)*

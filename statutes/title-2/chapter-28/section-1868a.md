@@ -3,9 +3,10 @@ title: "Section 1868a - Semiannual report of disbursements"
 usc_title: 2
 usc_section: "1868a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1868a"
-generated_at: "2026-03-30T02:53:04.819Z"
+generated_at: "2026-11-23T20:25:28.989Z"
+status: "active"
 ---
 
 # § 1868a. Semiannual report of disbursements
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:04.819Z"
   - **(6)** such additional information as may be required by regulation of the Committee on House Administration of the House of Representatives or the Committee on Rules and Administration of the Senate.
 - **(c)** Each report under this section shall be printed as a House document.
 - **(d)** This section shall apply with respect to the semiannual periods of January 1 through June 30 and July 1 through December 31 of each year, beginning with the semiannual period in which this section is enacted.
+
+## Source Credit
+
+*([Pub. L. 113–76, div. I, title I, § 1301](https://www.govinfo.gov/link/plaw/113/public/76), Jan. 17, 2014, [128 Stat. 428](https://www.govinfo.gov/link/statute/128/428).)*

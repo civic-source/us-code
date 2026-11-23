@@ -3,9 +3,10 @@ title: "Section 9009a - Grants for shuttered venue operators"
 usc_title: 15
 usc_section: "9009a"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 9009a"
-generated_at: "2026-03-30T02:54:08.237Z"
+generated_at: "2026-11-23T20:26:04.519Z"
+status: "active"
 ---
 
 # § 9009a. Grants for shuttered venue operators
@@ -180,3 +181,41 @@ generated_at: "2026-03-30T02:54:08.237Z"
     - **(C)** the number of active investigations and audits of grants under this section;
     - **(D)** the number of completed reviews and audits of grants under this section, including a description of any findings of fraud or other material noncompliance. 1 1 So in original. The period probably should be “; and”.
     - **(E)** any substantial changes made to the oversight and audit plan submitted under paragraph (1).
+
+(aa) A sound engineer.
+
+(bb) A booker.
+
+(cc) A promoter.
+
+(dd) A stage manager.
+
+(ee) Security personnel.
+
+(ff) A box office manager.
+
+(aa) Being an issuer, the securities of which are listed on a national securities exchange.
+
+(bb) Receiving more than 10 percent of gross revenue from Federal funding during 2019, excluding amounts received by the live venue operator or promoter, theatrical producer, or live performing arts organization operator, the relevant museum operator, the motion picture theatre operator, or the talent representative under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5121 et seq.).
+
+(aa) Owning or operating venues, relevant museums, motion picture theatres, or talent agencies or talent management companies in more than 1 country.
+
+(bb) Owning or operating venues, relevant museums, motion picture theatres, or talent agencies or talent management companies in more than 10 States.
+
+(cc) Employing more than 500 employees as of February 29, 2020 , determined on a full-time equivalent basis in accordance with subparagraph (C).
+
+(aa) shall be the live venue operator or promoter, theatrical producer, or live performing arts organization operator, the relevant museum operator, the motion picture theatre operator, or the talent representative; and
+
+(bb) shall not include entities of the State or political subdivision other than the live venue operator or promoter, theatrical producer, or live performing arts organization operator, the relevant museum operator, the motion picture theatre operator, or the talent representative.
+
+(aa) a cover charge through ticketing or front door entrance fee is applied; and
+
+(bb) performers are paid in an amount that is based on a percentage of sales, a guarantee (in writing or standard contract), or another mutually beneficial formal agreement; and
+
+(aa) the average monthly gross earned revenue for each full month during which the eligible person or entity was in operation during 2019; by
+
+(bb) 6; or
+
+## Source Credit
+
+*([Pub. L. 116–260, div. N, title III, § 324](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2022](https://www.govinfo.gov/link/statute/134/2022); [Pub. L. 117–2, title V, § 5005(b)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 92](https://www.govinfo.gov/link/statute/135/92).)*

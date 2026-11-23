@@ -3,9 +3,10 @@ title: "Section 2077a - Interagency review of applications for the transfer of U
 usc_title: 42
 usc_section: "2077a"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2077a"
-generated_at: "2026-03-30T02:56:11.148Z"
+generated_at: "2026-11-23T20:27:22.063Z"
+status: "active"
 ---
 
 # § 2077a. Interagency review of applications for the transfer of United States civil nuclear technology
@@ -64,3 +65,9 @@ generated_at: "2026-03-30T02:56:11.148Z"
     - **(B)** the Committee on Energy and Natural Resources, the Committee on Foreign Relations, and the Select Committee on Intelligence of the Senate; and
     - **(C)** the Committee on Energy and Commerce, the Committee on Foreign Affairs, and the Permanent Select Committee on Intelligence of the House of Representatives.
   - **(2)** The term “covered foreign country” means a foreign country that is a nuclear-weapon state, as defined by Article IX(3) of the Treaty on the Non-Proliferation of Nuclear Weapons, signed at Washington, London, and Moscow July 1, 1968 , but does not include the United States, the United Kingdom, or France.
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 114–92, div. C, title XXXI, § 3136](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 1209](https://www.govinfo.gov/link/statute/129/1209); [Pub. L. 115–232, div. C, title XXXI, § 3116(c)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2291](https://www.govinfo.gov/link/statute/132/2291); [Pub. L. 117–81, div. C, title XXXI, § 3131(b)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2230](https://www.govinfo.gov/link/statute/135/2230); [Pub. L. 117–263, div. C, title XXXI, § 3131(b)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3059](https://www.govinfo.gov/link/statute/136/3059).)*

@@ -3,9 +3,10 @@ title: "Section 426k - Five year demonstration program to temporarily increase d
 usc_title: 33
 usc_section: "426k"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 426k"
-generated_at: "2026-03-30T02:55:41.056Z"
+generated_at: "2026-11-23T20:26:53.815Z"
+status: "active"
 ---
 
 # § 426k. Five year demonstration program to temporarily increase diversion of water from Lake Michigan at Chicago, Illinois
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:41.056Z"
 - **(c)** When river stages approach or are predicted to approach bankfull conditions at the established flood warning stations on the Illinois Waterway or the Mississippi River, or when further increased diversion of water from Lake Michigan would adversely affect water levels necessary for navigational requirements of the Saint Lawrence Seaway in its entirety throughout the Saint Lawrence River and Great Lakes-Saint Lawrence Seaway, water shall not be diverted directly from Lake Michigan at the Wilmette, O’Brien, or Chicago River control structures other than as necessary for navigational requirements.
 - **(d)** The Chief of Engineers shall conduct a study and a demonstration program to determine the effects of the increased diversion on the levels of the Great Lakes, on the water quality of the Illinois Waterway, and on the susceptibility of the Illinois Waterway to additional flooding. The study and demonstration program will also investigate any adverse or beneficial impacts which result from this section. The Chief of Engineers, at the end of five years after October 22, 1976 , will submit to the Congress the results of this study and demonstration program including recommendations whether to continue this authority or to change the criteria stated in subsection (b) of this section.
 - **(e)** For purposes of this section, controllable diversion is defined as that diversion at Wilmette, O’Brien, and Chicago River control structures which is not attributable to leakage or which is not necessary for navigational requirements.
+
+## Source Credit
+
+*([Pub. L. 94–587, § 166](https://www.govinfo.gov/link/plaw/94/public/587), Oct. 22, 1976, [90 Stat. 2934](https://www.govinfo.gov/link/statute/90/2934).)*

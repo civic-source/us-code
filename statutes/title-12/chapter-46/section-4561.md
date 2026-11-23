@@ -3,9 +3,10 @@ title: "Section 4561 - Establishment of housing goals"
 usc_title: 12
 usc_section: "4561"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4561"
-generated_at: "2026-03-30T02:53:53.508Z"
+generated_at: "2026-11-23T20:25:59.395Z"
+status: "active"
 ---
 
 # § 4561. Establishment of housing goals
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:53.508Z"
     - **(B)** require the enterprise to submit additional data with respect to any lender or lenders, as appropriate and to the extent practicable, to the Director who shall submit any such additional data to the regulatory or enforcement agency for appropriate action.
   - **(3)** The Director shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report describing the actions taken, and being taken, by the Director to carry out this subsection. No such report shall identify any lender or lenders who have not been found to have engaged in discriminatory lending practices pursuant to a final adjudication on the record, and after opportunity for an administrative hearing, in accordance with subchapter II of chapter 5 of title 5.
   - **(4)** In carrying out this subsection, the Director shall ensure that no property-related or financial information that would enable a borrower to be identified shall be made public.
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1331](https://www.govinfo.gov/link/plaw/102/public/550), as added [Pub. L. 110–289, div. A, title I, § 1128(b)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2696](https://www.govinfo.gov/link/statute/122/2696).)*

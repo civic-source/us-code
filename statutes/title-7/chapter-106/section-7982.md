@@ -3,9 +3,10 @@ title: "Section 7982 - National dairy market loss payments"
 usc_title: 7
 usc_section: "7982"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7982"
-generated_at: "2026-03-30T02:53:42.469Z"
+generated_at: "2026-11-23T20:25:41.860Z"
+status: "active"
 ---
 
 # § 7982. National dairy market loss payments
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:53:42.469Z"
   - **(2)** If a producer violates the contract, the Secretary may—
     - **(A)** terminate the contract and allow the producer to retain any payments received under the contract; or
     - **(B)** allow the contract to remain in effect and require the producer to repay a portion of the payments received under the contract based on the severity of the violation.
+
+## Source Credit
+
+*([Pub. L. 107–171, title I, § 1502](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 205](https://www.govinfo.gov/link/statute/116/205); [Pub. L. 109–171, title I, § 1101](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 4](https://www.govinfo.gov/link/statute/120/4); [Pub. L. 110–28, title IX, § 9006(a)](https://www.govinfo.gov/link/plaw/110/public/28), May 25, 2007, [121 Stat. 217](https://www.govinfo.gov/link/statute/121/217).)*

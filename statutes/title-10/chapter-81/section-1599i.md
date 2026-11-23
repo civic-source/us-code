@@ -3,9 +3,10 @@ title: "Section 1599i - Recruitment incentives for placement at remote locations
 usc_title: 10
 usc_section: "1599i"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1599i"
-generated_at: "2026-03-30T02:53:38.132Z"
+generated_at: "2026-11-23T20:25:51.401Z"
+status: "active"
 ---
 
 # § 1599i. Recruitment incentives for placement at remote locations
@@ -18,3 +19,19 @@ generated_at: "2026-03-30T02:53:38.132Z"
   - **(3)** To receive a recruitment incentive under this subsection, an individual appointed to a position under paragraph (1) shall enter into an agreement with the Secretary of Defense to complete a period of service at the covered location. The period of obligated service of the individual at such location under the agreement may not exceed four years. The agreement shall include such repayment or alternative employment obligations as the Secretary considers appropriate for failure of the individual to complete the period of obligated service specified in the agreement.
   - **(4)** In this section, a covered location is a location for which the Secretary of Defense has determined that critical hiring needs are not being met due to the geographic remoteness or isolation or extreme climate conditions of the location.
 - **(b)** Effective on September 30, 2022 , the authority provided under subsection (a) shall expire.
+
+Recruitment Incentive.—
+
+In general
+
+Amount
+
+Service agreement
+
+Covered locations defined
+
+Sunset
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. A, title XI, § 1120(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3898](https://www.govinfo.gov/link/statute/134/3898).)*

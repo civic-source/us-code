@@ -3,9 +3,10 @@ title: "Section 4304b - Crimes committed by diplomats"
 usc_title: 22
 usc_section: "4304b"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4304b"
-generated_at: "2026-03-30T02:55:05.410Z"
+generated_at: "2026-11-23T20:26:32.531Z"
+status: "active"
 ---
 
 # § 4304b. Crimes committed by diplomats
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:05.410Z"
   - **(1)** to provide jurisdiction in the sending state to prosecute crimes committed in the receiving state by persons entitled to immunity from criminal jurisdiction under laws extending diplomatic privileges and immunities; and
   - **(2)** to provide that where there is probable cause to believe that an individual who is entitled to immunity from the criminal jurisdiction of the receiving state under laws extending diplomatic privileges and immunities committed a serious crime, the sending state will waive such immunity or the sending state will prosecute such individual.
 - **(c)** The Secretary should periodically notify each foreign mission of United States policies relating to criminal offenses committed by individuals with immunity from the criminal jurisdiction of the United States under laws extending diplomatic privileges and immunities.
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title II, § 204B, as added [Pub. L. 105–375, § 1](https://www.govinfo.gov/link/plaw/105/public/375), Nov. 12, 1998, [112 Stat. 3385](https://www.govinfo.gov/link/statute/112/3385).)*

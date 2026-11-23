@@ -3,9 +3,10 @@ title: "Section 2401 - Definitions"
 usc_title: 21
 usc_section: "2401"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 2401"
-generated_at: "2026-03-30T02:54:54.312Z"
+generated_at: "2026-11-23T20:26:27.915Z"
+status: "active"
 ---
 
 # § 2401. Definitions
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:54.312Z"
   - **(9)** The term “scheme in commerce” means any scheme effectuated in whole or in part through the use in interstate or foreign commerce of any facility for transportation or communication.
   - **(10)** The term “USADA” means the United States Anti-Doping Agency.
   - **(11)** The term “WADA” means the World Anti-Doping Agency.
+
+## Source Credit
+
+*([Pub. L. 116–206, § 2](https://www.govinfo.gov/link/plaw/116/public/206), Dec. 4, 2020, [134 Stat. 998](https://www.govinfo.gov/link/statute/134/998).)*

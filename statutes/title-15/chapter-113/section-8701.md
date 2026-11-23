@@ -3,9 +3,10 @@ title: "Section 8701 - Declaration of policy"
 usc_title: 15
 usc_section: "8701"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 8701"
-generated_at: "2026-03-30T02:54:08.232Z"
+generated_at: "2026-11-23T20:26:04.497Z"
+status: "active"
 ---
 
 # § 8701. Declaration of policy
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:08.232Z"
   - **(2)** maintain, develop, and expand markets and uses for concrete masonry products in the domestic marketplace; and
   - **(3)** promote the use of concrete masonry products in construction and building.
 - **(b)** Nothing in this chapter may be construed to provide for the control of production or otherwise limit the right of any person to manufacture concrete masonry products.
+
+## Source Credit
+
+*([Pub. L. 115–254, div. E, § 1302](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3469](https://www.govinfo.gov/link/statute/132/3469).)*

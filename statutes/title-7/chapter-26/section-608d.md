@@ -3,9 +3,10 @@ title: "Section 608d - Books and records"
 usc_title: 7
 usc_section: "608d"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 608d"
-generated_at: "2026-03-30T02:53:42.291Z"
+generated_at: "2026-11-23T20:25:41.063Z"
+status: "active"
 ---
 
 # § 608d. Books and records
@@ -17,3 +18,17 @@ generated_at: "2026-03-30T02:53:42.291Z"
     - **(B)** The Secretary may delegate the authority to carry out subparagraph (A) to any committee that is responsible for administering an order covering cranberries.
     - **(C)** Paragraph (2) shall apply to information provided under this paragraph.
     - **(D)** Any person who violates this paragraph shall be subject to the penalties provided under section 608c(14) of this title .
+
+Collection of cranberry inventory data.—
+
+In general
+
+Delegation to committee
+
+Confidentiality
+
+Violations
+
+## Source Credit
+
+*(May 12, 1933, ch. 25, title I, § 8d, as added Aug. 24, 1935, ch. 641, § 6, [49 Stat. 761](https://www.govinfo.gov/link/statute/49/761); amended June 3, 1937, ch. 296, § 1, [50 Stat. 246](https://www.govinfo.gov/link/statute/50/246); [Pub. L. 99–198, title XVI, § 1663](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1631](https://www.govinfo.gov/link/statute/99/1631); [Pub. L. 106–78, title VII, § 757(b)](https://www.govinfo.gov/link/plaw/106/public/78), Oct. 22, 1999, [113 Stat. 1171](https://www.govinfo.gov/link/statute/113/1171).)*

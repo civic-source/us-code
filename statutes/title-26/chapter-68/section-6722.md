@@ -3,9 +3,10 @@ title: "Section 6722 - Failure to furnish correct payee statements"
 usc_title: 26
 usc_section: "6722"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6722"
-generated_at: "2026-03-30T02:55:27.866Z"
+generated_at: "2026-11-23T20:26:46.731Z"
+status: "active"
 ---
 
 # § 6722. Failure to furnish correct payee statements
@@ -56,3 +57,7 @@ generated_at: "2026-03-30T02:55:27.866Z"
   - **(2)** If any amount adjusted under paragraph (1)—
     - **(A)** is not less than $75,000 and is not a multiple of $500, such amount shall be rounded to the next lowest multiple of $500, and
     - **(B)** is not described in subparagraph (A) and is not a multiple of $10, such amount shall be rounded to the next lowest multiple of $10.
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title XV, § 1501(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2733](https://www.govinfo.gov/link/statute/100/2733); amended [Pub. L. 101–239, title VII, § 7711(a)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2390](https://www.govinfo.gov/link/statute/103/2390); [Pub. L. 111–240, title II, § 2102(g)](https://www.govinfo.gov/link/plaw/111/public/240), Sept. 27, 2010, [124 Stat. 2562](https://www.govinfo.gov/link/statute/124/2562); [Pub. L. 113–295, div. A, title II, § 207(a)(2)](https://www.govinfo.gov/link/plaw/113/public/295), (3), div. B, title II, § 208(g), Dec. 19, 2014, [128 Stat. 4027](https://www.govinfo.gov/link/statute/128/4027), 4028, 4074; [Pub. L. 114–27, title VIII, § 806(e)](https://www.govinfo.gov/link/plaw/114/public/27), June 29, 2015, [129 Stat. 417](https://www.govinfo.gov/link/statute/129/417); [Pub. L. 114–113, div. Q, title II, § 202(b)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3077](https://www.govinfo.gov/link/statute/129/3077); [Pub. L. 115–97, title I, § 11002(d)(1)(QQ)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2061](https://www.govinfo.gov/link/statute/131/2061); [Pub. L. 115–141, div. U, title I, § 101(f)(1)](https://www.govinfo.gov/link/plaw/115/public/141), title IV, § 401(a)(299)(G), Mar. 23, 2018, [132 Stat. 1161](https://www.govinfo.gov/link/statute/132/1161), 1198.)*

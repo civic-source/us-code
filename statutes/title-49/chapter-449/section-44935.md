@@ -3,9 +3,10 @@ title: "Section 44935 - Employment standards and training"
 usc_title: 49
 usc_section: "44935"
 chapter: 449
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44935"
-generated_at: "2026-03-30T02:56:19.394Z"
+generated_at: "2026-11-23T20:27:35.225Z"
+status: "active"
 ---
 
 # § 44935. Employment standards and training
@@ -90,3 +91,145 @@ generated_at: "2026-03-30T02:56:19.394Z"
       - **(i)** internal controls for monitoring and documenting compliance of transportation security officers with such training requirements; and
       - **(ii)** such other matters as identified by the Administrator with regard to such training.
 - **(l)** In this section, the term “Administrator” means the Administrator of the Transportation Security Administration.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 44935(a) | 49 App.:1357(h). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 316(h)–(j); added Nov. 16, 1990 , Pub. L. 101–604, § 105(a) , 104 Stat. 3073 . |
+| 44935(b) | 49 App.:1357(i). |  |
+| 44935(c) | 49 App.:1357(c). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 316(c); added Aug. 5, 1974 , Pub. L. 93–366, § 202 , 88 Stat. 416 ; Oct. 31, 1992 , Pub. L. 102–581, § 202 , 106 Stat. 4890 . |
+| 44935(d) | 49 App.:1357(j). |  |
+
+
+Employment Standards
+
+Review and Recommendations
+
+Security Program Training, Standards, and Qualifications
+
+Education and Training Standards for Security Coordinators, Supervisory Personnel, and Pilots
+
+Security Screeners.—
+
+Training program
+
+Hiring.—
+
+Qualifications
+
+Background checks
+
+Disqualification of individuals who present national security risks
+
+Examination; review of existing rules
+
+Employment Standards for Screening Personnel.—
+
+Screener requirements
+
+Veterans preference
+
+Exceptions
+
+Remedial training
+
+Annual proficiency review
+
+Operational testing
+
+Training.—
+
+Use of other agencies
+
+Training plan
+
+Equipment-specific training
+
+Technological Training.—
+
+In general
+
+Periodic assessments
+
+Current lists of dual use items
+
+Dual use defined
+
+Limitation on Right To Strike
+
+Uniforms
+
+Accessibility of Computer-based Training Facilities
+
+Initial and Recurring Training.—
+
+In general
+
+Recurring training.—
+
+In general
+
+Contents
+
+Definition of Administrator
+
+Historical and Revision Notes
+
+44935(a)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Nov. 16, 1990
+
+Pub. L. 101–604, § 105(a)
+
+104 Stat. 3073
+
+44935(b)
+
+44935(c)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Aug. 5, 1974
+
+Pub. L. 93–366, § 202
+
+88 Stat. 416
+
+Oct. 31, 1992
+
+Pub. L. 102–581, § 202
+
+106 Stat. 4890
+
+44935(d)
+
+Accessibility of Computer-based Training Facilities
+
+Accessibility of Computer-based Training Facilities
+
+Accessibility of Computer-Based Training Facilities
+
+Required Action
+
+Human Factors Study
+
+General authority
+
+Exceptions.—
+
+Reemployment
+
+Leave
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1217](https://www.govinfo.gov/link/statute/108/1217); [Pub. L. 106–528, § 3](https://www.govinfo.gov/link/plaw/106/public/528), Nov. 22, 2000, [114 Stat. 2519](https://www.govinfo.gov/link/statute/114/2519); [Pub. L. 107–71, title I](https://www.govinfo.gov/link/plaw/107/public/71), §§ 101(f)(7), (9), 111(a), Nov. 19, 2001, [115 Stat. 603](https://www.govinfo.gov/link/statute/115/603), 616; [Pub. L. 107–296, title XVI, § 1603](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2313](https://www.govinfo.gov/link/statute/116/2313); [Pub. L. 115–254, div. K, title I](https://www.govinfo.gov/link/plaw/115/public/254), §§ 1948(a), 1991(d)(26), Oct. 5, 2018, [132 Stat. 3587](https://www.govinfo.gov/link/statute/132/3587), 3638.)*

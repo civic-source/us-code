@@ -3,9 +3,10 @@ title: "Section 12374 - Conference committees"
 usc_title: 42
 usc_section: "12374"
 chapter: 127
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12374"
-generated_at: "2026-03-30T02:56:11.413Z"
+generated_at: "2026-11-23T20:27:23.357Z"
+status: "active"
 ---
 
 # § 12374. Conference committees
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.413Z"
 - **(b)** The Secretary may establish such other committees, including technical committees, as may be necessary to assist in the planning, conducting, and reviewing of the Conference.
 - **(c)** Each committee established under this section shall be composed of professionals and public members, and shall include individuals from low-income families and from minority groups.
 - **(d)** Members of any committee established under this section (other than any officers or employees of the Federal Government), while attending conferences or meetings of the committee or otherwise serving at the request of the Secretary, shall be entitled to receive compensation at a rate to be fixed by the Secretary, but not to exceed the daily rate payable for GS–18 of the General Schedule under section 5332 of title 5 (including travel time). While away from their homes or regular places of business, such members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized under section 5703 of such title for persons employed intermittently in Federal Government service.
+
+## Source Credit
+
+*([Pub. L. 101–501, title IX, § 985](https://www.govinfo.gov/link/plaw/101/public/501), Nov. 3, 1990, [104 Stat. 1282](https://www.govinfo.gov/link/statute/104/1282).)*

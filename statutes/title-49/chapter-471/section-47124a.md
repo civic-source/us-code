@@ -3,9 +3,10 @@ title: "Section 47124a - Accessibility of certain flight data"
 usc_title: 49
 usc_section: "47124a"
 chapter: 471
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 47124a"
-generated_at: "2026-03-30T02:56:19.404Z"
+generated_at: "2026-11-23T20:27:35.309Z"
+status: "active"
 ---
 
 # § 47124a. Accessibility of certain flight data
@@ -28,3 +29,39 @@ generated_at: "2026-03-30T02:56:19.404Z"
 - **(d)** The Administrator of the Federal Aviation Administration may withhold information that would otherwise be required to be made available under section 1 1 So in original. Probably should be “this section”. only if—
   - **(1)** the Administrator determines, based on information in the possession of the Administrator, that the Administrator may withhold the information in accordance with section 552a of title 5 , United States Code; or
   - **(2)** the information is submitted pursuant to a voluntary safety reporting program covered by section 40123 of title 49 , United States Code.
+
+Definitions
+
+Administration
+
+Administrator
+
+Applicable individual
+
+Contract tower
+
+Covered flight record
+
+Provision of Covered Flight Record to Administration.—
+
+Requests
+
+Provision of records
+
+Notice of proposed certificate action
+
+Implementation.—
+
+In general
+
+Compliance by contractors.—
+
+In general
+
+Nonapplicability
+
+Protection of Certain Data
+
+## Source Credit
+
+*(Added [Pub. L. 115–254, div. B, title III, § 395(a)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3326](https://www.govinfo.gov/link/statute/132/3326).)*

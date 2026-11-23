@@ -3,9 +3,10 @@ title: "Section 5197 - Administrative authority"
 usc_title: 42
 usc_section: "5197"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5197"
-generated_at: "2026-03-30T02:56:11.227Z"
+generated_at: "2026-11-23T20:27:22.509Z"
+status: "active"
 ---
 
 # § 5197. Administrative authority
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.227Z"
   - **(1)** When, after reasonable notice and opportunity for hearing to the State or other person involved, the Administrator finds that there is a failure to expend funds in accordance with the regulations, terms, and conditions established under this subchapter for approved emergency preparedness plans, programs, or projects, the Administrator may notify such State or person that further payments will not be made to the State or person from appropriations under this subchapter (or from funds otherwise available for the purposes of this subchapter for any approved plan, program, or project with respect to which there is such failure to comply) until the Administrator is satisfied that there will no longer be any such failure.
   - **(2)** Until so satisfied, the Administrator shall either withhold the payment of any financial contribution to such State or person or limit payments to those programs or projects with respect to which there is substantial compliance with the regulations, terms, and conditions governing plans, programs, or projects hereunder.
   - **(3)** As used in this subsection, the term “person” means the political subdivision of any State or combination or group thereof or any person, corporation, association, or other entity of any nature whatsoever, including instrumentalities of States and political subdivisions.
+
+## Source Credit
+
+*([Pub. L. 93–288, title VI, § 621](https://www.govinfo.gov/link/plaw/93/public/288), as added [Pub. L. 103–337, div. C, title XXXIV, § 3411(a)(3)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 3107](https://www.govinfo.gov/link/statute/108/3107); amended [Pub. L. 111–351, § 3(c)(2)](https://www.govinfo.gov/link/plaw/111/public/351), Jan. 4, 2011, [124 Stat. 3864](https://www.govinfo.gov/link/statute/124/3864); [Pub. L. 113–235, div. H, title I, § 1301(d)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537).)*

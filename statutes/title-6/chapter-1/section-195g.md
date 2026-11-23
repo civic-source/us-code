@@ -3,9 +3,10 @@ title: "Section 195g - Countering Unmanned Aircraft Systems Coordinator"
 usc_title: 6
 usc_section: "195g"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 195g"
-generated_at: "2026-03-30T02:53:09.450Z"
+generated_at: "2026-11-23T20:25:34.662Z"
+status: "active"
 ---
 
 # § 195g. Countering Unmanned Aircraft Systems Coordinator
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:09.450Z"
     - **(F)** carry out other related counter UAS authorities and activities under section 124n of this title , as directed by the Secretary.
 - **(b)** The Coordinator shall, in addition to other assigned duties, coordinate with relevant Department components and offices to ensure testing, evaluation, or deployment of a system used to identify, assess, or defeat a UAS is carried out in accordance with applicable Federal laws.
 - **(c)** The Coordinator shall, among other assigned duties, working with the Office of Partnership and Engagement and other relevant Department offices and components, or other Federal agencies, as appropriate, serve as the principal Department official responsible for sharing to the private sector information regarding counter UAS technology, particularly information regarding instances in which counter UAS technology may impact lawful private sector services or systems.
+
+## Source Credit
+
+*([Pub. L. 107–296, title III, § 321](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 116–260, div. U, title VII, § 701(b)(1)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2295](https://www.govinfo.gov/link/statute/134/2295).)*

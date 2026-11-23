@@ -3,9 +3,10 @@ title: "Section 12838 - Environmental review"
 usc_title: 42
 usc_section: "12838"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12838"
-generated_at: "2026-03-30T02:56:11.433Z"
+generated_at: "2026-11-23T20:27:23.445Z"
+status: "active"
 ---
 
 # § 12838. Environmental review
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.433Z"
   - **(3)** specify that the recipient of assistance under this subchapter has fully carried out its responsibilities as described under subsection (a), and
   - **(4)** specify that the certifying officer (A) consents to assume the status of a responsible Federal official under the National Environmental Policy Act of 1969 [ 42 U.S.C. 4321 et seq.] and each provision of law specified in regulations issued by the Secretary insofar as the provisions of such Act or other such provision of law apply pursuant to subsection (a), and (B) is authorized and consents on behalf of the jurisdiction or insular area and himself to accept the jurisdiction of the Federal courts for the purpose of enforcement of his responsibilities as such an official.
 - **(d)** In the case of assistance to units of general local government from a State, the State shall perform those actions of the Secretary described in subsection (b) and the performance of such actions shall be deemed to satisfy the Secretary’s responsibilities referred to in the second sentence of such subsection.
+
+## Source Credit
+
+*([Pub. L. 101–625, title II, § 288](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4127](https://www.govinfo.gov/link/statute/104/4127); [Pub. L. 103–233, title II, § 206](https://www.govinfo.gov/link/plaw/103/public/233), Apr. 11, 1994, [108 Stat. 365](https://www.govinfo.gov/link/statute/108/365); [Pub. L. 104–330, title V, § 505(a)(2)](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4044](https://www.govinfo.gov/link/statute/110/4044).)*

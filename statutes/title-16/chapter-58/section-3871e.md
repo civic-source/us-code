@@ -3,9 +3,10 @@ title: "Section 3871e - Administration"
 usc_title: 16
 usc_section: "3871e"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3871e"
-generated_at: "2026-03-30T02:54:23.037Z"
+generated_at: "2026-11-23T20:26:20.723Z"
+status: "active"
 ---
 
 # § 3871e. Administration
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:23.037Z"
   - **(2)** to comply with applicable wetland protection requirements under subchapter III.
 - **(d)** To the maximum extent practicable, in carrying out the program, the Secretary and eligible partners shall conduct outreach to beginning farmers and ranchers, veteran farmers and ranchers, socially disadvantaged farmers and ranchers, and limited resource farmers and ranchers to encourage participation by those producers in a project subject to a partnership agreement or funding agreement under 3871c(d) 1 1 So in original. Probably should be preceded by “section”. of this title.
 - **(e)** The Secretary shall issue regulations to carry out the program.
+
+## Source Credit
+
+*([Pub. L. 99–198, title XII, § 1271E](https://www.govinfo.gov/link/plaw/99/public/198), as added [Pub. L. 113–79, title II, § 2401](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 749](https://www.govinfo.gov/link/statute/128/749); amended [Pub. L. 115–334, title II, § 2706](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4599](https://www.govinfo.gov/link/statute/132/4599).)*

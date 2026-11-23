@@ -3,9 +3,10 @@ title: "Section 2512 - Authority to encourage reciprocal competitive procurement
 usc_title: 19
 usc_section: "2512"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2512"
-generated_at: "2026-03-30T02:54:24.678Z"
+generated_at: "2026-11-23T20:26:10.989Z"
+status: "active"
 ---
 
 # § 2512. Authority to encourage reciprocal competitive procurement practices
@@ -34,3 +35,11 @@ generated_at: "2026-03-30T02:54:24.678Z"
   - **(2)**
     - **(A)** If the President determines that any changes in existing law or new statutory authority are required to authorize or to implement any action proposed in the report submitted under paragraph (1), he shall, on or after January 1, 1982 , submit to the Congress a bill to accomplish such changes or provide such new statutory authority. Prior to submitting such a bill, the President shall consult with the appropriate committees of the Congress having jurisdiction over legislation involving subject matters which would be affected by such action, and shall submit to such committees a proposed draft of such bill.
     - **(B)** The appropriate committee of each House of the Congress shall give a bill submitted pursuant to subparagraph (A) prompt consideration and shall make its best efforts to take final committee action on such bill in an expeditious manner.
+
+In General
+
+Section
+
+## Source Credit
+
+*([Pub. L. 96–39, title III, § 302](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 236](https://www.govinfo.gov/link/statute/93/236); [Pub. L. 103–182, title III, § 381(b)](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2129](https://www.govinfo.gov/link/statute/107/2129); [Pub. L. 103–465, title III, § 343(a)](https://www.govinfo.gov/link/plaw/103/public/465), (b), Dec. 8, 1994, [108 Stat. 4954](https://www.govinfo.gov/link/statute/108/4954), 4955.)*

@@ -3,9 +3,10 @@ title: "Section 634c - Additional duties of Office of Advocacy"
 usc_title: 15
 usc_section: "634c"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 634c"
-generated_at: "2026-03-30T02:54:08.087Z"
+generated_at: "2026-11-23T20:26:03.734Z"
+status: "active"
 ---
 
 # § 634c. Additional duties of Office of Advocacy
@@ -42,3 +43,9 @@ generated_at: "2026-03-30T02:54:08.087Z"
       - **(vi)** include an overview of the methodology used to develop the report, including the number of small business participants by industry, how those small businesses were selected, and any other factors that the Chief Counsel for Advocacy may determine appropriate.
     - **(B)** To ensure that negotiations for the covered trade agreement are not disrupted, the President may require that the Chief Counsel for Advocacy delay submission of the report under subparagraph (A) until after the negotiations for the covered trade agreement are concluded, provided that the delay allows the Chief Counsel for Advocacy to submit the report to Congress not later than 45 days before the Senate or the House of Representatives acts to approve or disapprove the covered trade agreement.
     - **(C)** The Chief Counsel for Advocacy shall, to the extent practicable, coordinate the submission of the report under this paragraph with the United States International Trade Commission, the United States Trade Representative, other agencies, and trade advisory committees to avoid unnecessary duplication of reporting requirements.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 94–305, title II, § 203](https://www.govinfo.gov/link/plaw/94/public/305), June 4, 1976, [90 Stat. 669](https://www.govinfo.gov/link/statute/90/669); [Pub. L. 111–240, title I, § 1602(a)](https://www.govinfo.gov/link/plaw/111/public/240), Sept. 27, 2010, [124 Stat. 2551](https://www.govinfo.gov/link/statute/124/2551); [Pub. L. 114–125, title V, § 502](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 172](https://www.govinfo.gov/link/statute/130/172).)*

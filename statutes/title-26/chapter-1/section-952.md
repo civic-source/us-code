@@ -3,9 +3,10 @@ title: "Section 952 - Subpart F income defined"
 usc_title: 26
 usc_section: "952"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 952"
-generated_at: "2026-03-30T02:55:27.748Z"
+generated_at: "2026-11-23T20:26:45.980Z"
+status: "active"
 ---
 
 # § 952. Subpart F income defined
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:55:27.748Z"
   - **(2)** If the subpart F income of any controlled foreign corporation for any taxable year was reduced by reason of paragraph (1)(A), any excess of the earnings and profits of such corporation for any subsequent taxable year over the subpart F income of such foreign corporation for such taxable year shall be recharacterized as subpart F income under rules similar to the rules applicable under section 904(f)(5).
   - **(3)** For purposes of this subsection, earnings and profits of any controlled foreign corporation shall be determined without regard to paragraphs (4), (5), and (6) of section 312(n). Under regulations, the preceding sentence shall not apply to the extent it would increase earnings and profits by an amount which was previously distributed by the controlled foreign corporation.
 - **(d)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of subsection (a)(5), including regulations which treat income paid through 1 or more entities as derived from a foreign country to which section 901(j) applies if such income was, without regard to such entities, derived from such country.
+
+## Source Credit
+
+*(Added [Pub. L. 87–834, § 12(a)](https://www.govinfo.gov/link/plaw/87/public/834), Oct. 16, 1962, [76 Stat. 1008](https://www.govinfo.gov/link/statute/76/1008); amended [Pub. L. 89–809, title I, § 104(j)](https://www.govinfo.gov/link/plaw/89/public/809), Nov. 13, 1966, [80 Stat. 1562](https://www.govinfo.gov/link/statute/80/1562); [Pub. L. 94–455, title X](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1062, 1065(a)(1), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1650](https://www.govinfo.gov/link/statute/90/1650), 1653, 1834; [Pub. L. 97–248, title II, § 288(b)(1)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 571](https://www.govinfo.gov/link/statute/96/571); [Pub. L. 99–509, title VIII, § 8041(b)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1963](https://www.govinfo.gov/link/statute/100/1963); [Pub. L. 99–514, title XII, § 1221(b)(3)(A)](https://www.govinfo.gov/link/plaw/99/public/514), (f), title XVIII, § 1876(c)(1), Oct. 22, 1986, [100 Stat. 2552](https://www.govinfo.gov/link/statute/100/2552), 2554, 2898; [Pub. L. 100–647, title I, § 1012(i)(16)](https://www.govinfo.gov/link/plaw/100/public/647), (22)–(25)(A), title VI, § 6131(a), Nov. 10, 1988, [102 Stat. 3510–3512](https://www.govinfo.gov/link/statute/102/3510), 3720; [Pub. L. 105–34, title XI, § 1112(c)(1)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 969](https://www.govinfo.gov/link/statute/111/969); [Pub. L. 108–357, title IV, § 415(c)(1)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1511](https://www.govinfo.gov/link/statute/118/1511); [Pub. L. 109–135, title IV, § 412(kk)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2639](https://www.govinfo.gov/link/statute/119/2639); [Pub. L. 110–172, § 11(g)(14)](https://www.govinfo.gov/link/plaw/110/public/172), Dec. 29, 2007, [121 Stat. 2490](https://www.govinfo.gov/link/statute/121/2490); [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 14211(b)(1), 14212(b)(1)(C), Dec. 22, 2017, [131 Stat. 2217](https://www.govinfo.gov/link/statute/131/2217).)*

@@ -3,9 +3,10 @@ title: "Section 2841 - Study by Secretary of Energy"
 usc_title: 15
 usc_section: "2841"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2841"
-generated_at: "2026-03-30T02:54:08.184Z"
+generated_at: "2026-11-23T20:26:04.258Z"
+status: "active"
 ---
 
 # § 2841. Study by Secretary of Energy
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:08.184Z"
   - **(3)** No interim measure proposed by the President under this section may be submitted after January 1, 1980 , and the effect of such measure if approved by the Congress under paragraph (4) may not extend beyond 18 months after such Congressional approval.
   - **(4)** Such interim measure shall not take effect unless approved by both Houses of Congress as if it were a contingency plan under section 6422 of title 42 : Provided , That the 60-day period referred to in such section shall be extended to 90 days for purposes of this section.
 - **(e)** There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.
+
+## Source Credit
+
+*([Pub. L. 95–297, title III, § 301](https://www.govinfo.gov/link/plaw/95/public/297), June 19, 1978, [92 Stat. 337](https://www.govinfo.gov/link/statute/92/337).)*

@@ -3,9 +3,10 @@ title: "Section 2214 - General credit for flood control"
 usc_title: 33
 usc_section: "2214"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2214"
-generated_at: "2026-03-30T02:55:41.113Z"
+generated_at: "2026-11-23T20:26:54.123Z"
+status: "active"
 ---
 
 # § 2214. General credit for flood control
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:41.113Z"
 - **(e)** The Secretary shall consider work carried out after November 17, 1986 , by non-Federal interests on a project for flood control under subsections (b) and (c) in accordance with the guidelines issued under subsection (a). The guidelines shall require prior approval by the Secretary of any flood control work carried out after November 17, 1986 , in order to be considered under this section, taking into account the economic and environmental feasibility of the project.
 - **(f)** Any flood control work included as part of the non-Federal share of the cost of a project under this section shall not be subject to the limitation contained in the last sentence of section 1962d–5a(a) of title 42 .
 - **(g)** Nothing in this section affects the requirement of section 2213(a)(1)(A) of this title .
+
+## Source Credit
+
+*([Pub. L. 99–662, title I, § 104](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4087](https://www.govinfo.gov/link/statute/100/4087).)*

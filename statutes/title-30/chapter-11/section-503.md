@@ -3,12 +3,17 @@ title: "Section 503 - Reservations required by law; atomic energy materials"
 usc_title: 30
 usc_section: "503"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 503"
-generated_at: "2026-03-30T02:55:29.383Z"
+generated_at: "2026-11-23T20:26:34.936Z"
+status: "active"
 ---
 
 # § 503. Reservations required by law; atomic energy materials
 
 The rights under any mining claim given force and effect by this chapter shall also be subject to the reservation to the United States specified in section 5(b)(7) of the Atomic Energy Act of 1946, as amended, and, in addition, any reservation or reservations required by any other provision or provisions of law; and any patent issued for such mining claim shall contain such reservations.
 
+
+## Source Credit
+
+*(Aug. 12, 1953, ch. 405, § 3, [67 Stat. 540](https://www.govinfo.gov/link/statute/67/540).)*

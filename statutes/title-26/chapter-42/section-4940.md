@@ -3,9 +3,10 @@ title: "Section 4940 - Excise tax based on investment income"
 usc_title: 26
 usc_section: "4940"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 4940"
-generated_at: "2026-03-30T02:55:27.806Z"
+generated_at: "2026-11-23T20:26:46.342Z"
+status: "active"
 ---
 
 # § 4940. Excise tax based on investment income
@@ -49,3 +50,31 @@ generated_at: "2026-03-30T02:55:27.806Z"
     - **(C)** The term “substantial contributor” means a person who is described in section 507(d)(2).
     - **(D)** The term “family” has the meaning given to such term by section 4946(d).
     - **(E)** The rules of paragraphs (3) and (4) of section 4946(a) shall apply for purposes of subparagraph (B)(ii).
+
+In general
+
+Provisions effective for taxable years beginning after december 31, 1969
+
+Sections 508
+
+and
+
+References to internal revenue code provisions
+
+Section 4941
+
+Section 4942
+
+Section 4943.—
+
+Section 4945
+
+Section 508
+
+Section 509
+
+Certain redemptions
+
+## Source Credit
+
+*(Added [Pub. L. 91–172, title I, § 101(b)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 498](https://www.govinfo.gov/link/statute/83/498); amended [Pub. L. 94–455, title XIX, § 1901(b)(33)(N)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1802](https://www.govinfo.gov/link/statute/90/1802); [Pub. L. 95–345, § 2(a)(4)](https://www.govinfo.gov/link/plaw/95/public/345), Aug. 15, 1978, [92 Stat. 481](https://www.govinfo.gov/link/statute/92/481); [Pub. L. 95–600, title V, § 520(a)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2884](https://www.govinfo.gov/link/statute/92/2884); [Pub. L. 98–369, div. A, title III](https://www.govinfo.gov/link/plaw/98/public/369), §§ 302(a), 303(a), July 18, 1984, [98 Stat. 779](https://www.govinfo.gov/link/statute/98/779), 781; [Pub. L. 99–514, title XIII, § 1301(j)(6)](https://www.govinfo.gov/link/plaw/99/public/514), title XVIII, § 1832, Oct. 22, 1986, [100 Stat. 2658](https://www.govinfo.gov/link/statute/100/2658), 2851; [Pub. L. 109–280, title XII, § 1221(a)(1)](https://www.govinfo.gov/link/plaw/109/public/280), (b), Aug. 17, 2006, [120 Stat. 1089](https://www.govinfo.gov/link/statute/120/1089); [Pub. L. 110–172, § 3(f)](https://www.govinfo.gov/link/plaw/110/public/172), Dec. 29, 2007, [121 Stat. 2475](https://www.govinfo.gov/link/statute/121/2475); [Pub. L. 116–94, div. Q, title II, § 206(a)](https://www.govinfo.gov/link/plaw/116/public/94), (b), Dec. 20, 2019, [133 Stat. 3246](https://www.govinfo.gov/link/statute/133/3246).)*

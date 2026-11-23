@@ -3,9 +3,10 @@ title: "Section 2619 - Assessments"
 usc_title: 7
 usc_section: "2619"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2619"
-generated_at: "2026-03-30T02:53:42.389Z"
+generated_at: "2026-11-23T20:25:41.539Z"
+status: "active"
 ---
 
 # § 2619. Assessments
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:42.389Z"
 - **(c)** All information obtained pursuant to subsections (a) and (b) of this section shall be kept confidential by all officers and employees of the Department of Agriculture and of the board, and only such information so furnished or acquired as the Secretary deems relevant shall be disclosed by them, and then only in a suit or administrative hearing brought at the direction, or upon the request, of the Secretary, or to which he or any officer of the United States is a party, and involving the plan with reference to which the information to be disclosed was furnished or acquired. Nothing in this section shall be deemed to prohibit—
   - **(1)** the issuance of general statements based upon the reports of a number of handlers or importers subject to a plan if such statements do not identify the information furnished by any person, or
   - **(2)** the publication by direction of the Secretary of the name of any person violating any plan together with a statement of the particular provisions of the plan violated by such person.
+
+## Source Credit
+
+*([Pub. L. 91–670, title III, § 310](https://www.govinfo.gov/link/plaw/91/public/670), Jan. 11, 1971, [84 Stat. 2044](https://www.govinfo.gov/link/statute/84/2044); [Pub. L. 101–624, title XIX, § 1942](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3867](https://www.govinfo.gov/link/statute/104/3867); [Pub. L. 102–237, title VIII, § 804](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1882](https://www.govinfo.gov/link/statute/105/1882).)*

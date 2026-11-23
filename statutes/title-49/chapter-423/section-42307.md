@@ -3,9 +3,10 @@ title: "Section 42307 - Requirement to maintain a live customer chat or monitore
 usc_title: 49
 usc_section: "42307"
 chapter: 423
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 42307"
-generated_at: "2026-03-30T02:56:19.379Z"
+generated_at: "2026-11-23T20:27:35.126Z"
+status: "active"
 ---
 
 # § 42307. Requirement to maintain a live customer chat or monitored text messaging number
@@ -19,3 +20,19 @@ generated_at: "2026-03-30T02:56:19.379Z"
 - **(b)** The Secretary shall promulgate such rules as may be necessary to carry out this section.
 - **(c)** In this section, the term “covered air carrier” means an air carrier that sells tickets for scheduled passenger air transportation on an aircraft that, as originally designed, has a passenger capacity of 30 or more seats.
 - **(d)** Beginning on the date that is 120 days after the date of enactment of this section, a covered air carrier shall comply with the requirement specified in subsection (a) without regard to whether the Secretary has promulgated any rules to carry out this section as of the date that is 120 days after such date of enactment.
+
+Requirement.—
+
+In general
+
+Provision of services
+
+Rulemaking Authority
+
+Covered Air Carrier Defined
+
+Effective Date
+
+## Source Credit
+
+*(Added [Pub. L. 118–63, title V, § 505(b)(1)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1191](https://www.govinfo.gov/link/statute/138/1191).)*

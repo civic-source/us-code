@@ -3,9 +3,10 @@ title: "Section 42121 - Protection of employees providing air safety information
 usc_title: 49
 usc_section: "42121"
 chapter: 421
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 42121"
-generated_at: "2026-03-30T02:56:19.379Z"
+generated_at: "2026-11-23T20:27:35.124Z"
+status: "active"
 ---
 
 # § 42121. Protection of employees providing air safety information
@@ -45,3 +46,55 @@ generated_at: "2026-03-30T02:56:19.379Z"
 - **(e)** In this section, the term “contractor” means—
   - **(1)** a person that performs safety-sensitive functions by contract for an air carrier or commercial operator; or
   - **(2)** a person that performs safety-sensitive functions related to the design or production of an aircraft, aircraft engine, propeller, appliance, or component thereof by contract for a holder of a certificate issued under section 44704.
+
+Prohibited Discrimination
+
+Department of Labor and Federal Aviation Administration Complaint Procedure.—
+
+Filing and notification
+
+Investigation; preliminary order.—
+
+In general
+
+Requirements.—
+
+Required showing by complainant
+
+Showing by employer
+
+Criteria for determination by secretary
+
+Prohibition
+
+Final order.—
+
+Deadline for issuance; settlement agreements
+
+Remedy
+
+Frivolous complaints
+
+Review.—
+
+Appeal to court of appeals
+
+Limitation on collateral attack
+
+Enforcement of order
+
+Enforcement of order by parties.—
+
+Commencement of action
+
+Attorney fees
+
+Mandamus
+
+Nonapplicability to Deliberate Violations
+
+Contractor Defined
+
+## Source Credit
+
+*(Added [Pub. L. 106–181, title V, § 519(a)](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 145](https://www.govinfo.gov/link/statute/114/145); amended [Pub. L. 116–260, div. V, title I, § 118](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2337](https://www.govinfo.gov/link/statute/134/2337); [Pub. L. 118–63, title III, § 370](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1139](https://www.govinfo.gov/link/statute/138/1139).)*

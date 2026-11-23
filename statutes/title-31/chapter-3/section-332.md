@@ -3,9 +3,10 @@ title: "Section 332 - Miscellaneous administrative authority"
 usc_title: 31
 usc_section: "332"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 332"
-generated_at: "2026-03-30T02:55:34.046Z"
+generated_at: "2026-11-23T20:26:51.665Z"
+status: "active"
 ---
 
 # § 332. Miscellaneous administrative authority
@@ -26,3 +27,7 @@ The Secretary of the Treasury may to the extent provided in advance by appropria
       - **(i)** acquire in foreign countries real property by lease for periods not greater than 10 years and personal property for use in foreign countries by purchase, lease, or otherwise, and
       - **(ii)** manage, maintain, repair, improve, and insure by purchase of commercial insurance policies properties referred to in clause (i), and
     - **(B)** when appropriate, dispose of (by sale, rent, transfer, or otherwise) properties referred to in subparagraph (A)(i).
+
+## Source Credit
+
+*(Added [Pub. L. 98–302, § 3(a)](https://www.govinfo.gov/link/plaw/98/public/302), May 25, 1984, [98 Stat. 217](https://www.govinfo.gov/link/statute/98/217).)*

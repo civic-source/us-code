@@ -3,9 +3,10 @@ title: "Section 6802 - Obligations with respect to disclosures of personal infor
 usc_title: 15
 usc_section: "6802"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 6802"
-generated_at: "2026-03-30T02:54:08.216Z"
+generated_at: "2026-11-23T20:26:04.417Z"
+status: "active"
 ---
 
 # § 6802. Obligations with respect to disclosures of personal information
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:54:08.216Z"
     - **(A)** to a consumer reporting agency in accordance with the Fair Credit Reporting Act [ 15 U.S.C. 1681 et seq.], or (B) from a consumer report reported by a consumer reporting agency;
   - **(7)** in connection with a proposed or actual sale, merger, transfer, or exchange of all or a portion of a business or operating unit if the disclosure of nonpublic personal information concerns solely consumers of such business or unit; or
   - **(8)** to comply with Federal, State, or local laws, rules, and other applicable legal requirements; to comply with a properly authorized civil, criminal, or regulatory investigation or subpoena or summons by Federal, State, or local authorities; or to respond to judicial process or government regulatory authorities having jurisdiction over the financial institution for examination, compliance, or other purposes as authorized by law.
+
+## Source Credit
+
+*([Pub. L. 106–102, title V, § 502](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1437](https://www.govinfo.gov/link/statute/113/1437); [Pub. L. 111–203, title X, § 1093(2)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2095](https://www.govinfo.gov/link/statute/124/2095).)*

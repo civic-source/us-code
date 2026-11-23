@@ -3,9 +3,10 @@ title: "Section 958 - Rules for determining stock ownership"
 usc_title: 26
 usc_section: "958"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 958"
-generated_at: "2026-03-30T02:55:27.750Z"
+generated_at: "2026-11-23T20:26:45.990Z"
+status: "active"
 ---
 
 # § 958. Rules for determining stock ownership
@@ -21,3 +22,9 @@ generated_at: "2026-03-30T02:55:27.750Z"
   - **(2)** In applying subparagraphs (A), (B), and (C) of section 318(a)(2), if a partnership, estate, trust, or corporation owns, directly or indirectly, more than 50 percent of the total combined voting power of all classes of stock entitled to vote of a corporation, it shall be considered as owning all the stock entitled to vote.
   - **(3)** In applying subparagraph (C) of section 318(a)(2), the phrase “10 percent” shall be substituted for the phrase “50 percent” used in subparagraph (C).
   - **(4)** Subparagraphs (A), (B), and (C) of section 318(a)(3) shall not be applied so as to consider a United States person as owning stock which is owned by a person who is not a United States person.
+
+“The amendments made by this section [amending this section] shall apply to—
+
+## Source Credit
+
+*(Added [Pub. L. 87–834, § 12(a)](https://www.govinfo.gov/link/plaw/87/public/834), Oct. 16, 1962, [76 Stat. 1018](https://www.govinfo.gov/link/statute/76/1018); amended [Pub. L. 88–554, § 4(b)(5)](https://www.govinfo.gov/link/plaw/88/public/554), Aug. 31, 1964, [78 Stat. 763](https://www.govinfo.gov/link/statute/78/763); [Pub. L. 94–455, title X, § 1021(b)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1619](https://www.govinfo.gov/link/statute/90/1619); [Pub. L. 104–188, title I](https://www.govinfo.gov/link/plaw/104/public/188), §§ 1703(i)(4), 1704(t)(7), Aug. 20, 1996, [110 Stat. 1876](https://www.govinfo.gov/link/statute/110/1876), 1887; [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 14213(a), 14301(c)(31), Dec. 22, 2017, [131 Stat. 2217](https://www.govinfo.gov/link/statute/131/2217), 2224; [Pub. L. 119–21, title VII, § 70353(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 209](https://www.govinfo.gov/link/statute/139/209).)*

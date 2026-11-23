@@ -3,9 +3,10 @@ title: "Section 535d - Permitting for international bridges"
 usc_title: 33
 usc_section: "535d"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 535d"
-generated_at: "2026-03-30T02:55:41.061Z"
+generated_at: "2026-11-23T20:26:53.850Z"
+status: "active"
 ---
 
 # § 535d. Permitting for international bridges
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:55:41.061Z"
   - **(2)** prohibits the Secretary from requesting a list of all permits and approvals from Federal, State, and local agencies that the eligible applicant believes are required in connection with the international bridge, or a brief description of how those permits and approvals will be acquired prior to making a recommendation to the President;
   - **(3)** exempts an eligible applicant from the requirement to complete all environmental documents pursuant to Public Law 91–190 ( 42 U.S.C. 4321 et seq.) prior to construction of an international bridge; or
   - **(4)** exempts an eligible applicant from complying with Public Law 91–190 ( 42 U.S.C. 4321 et seq.) or any other law.
+
+## Source Credit
+
+*([Pub. L. 92–434, § 6](https://www.govinfo.gov/link/plaw/92/public/434), as added [Pub. L. 118–31, div. E, title LIV, § 5414](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 954](https://www.govinfo.gov/link/statute/137/954).)*

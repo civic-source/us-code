@@ -3,9 +3,10 @@ title: "Section 826 - Art. 26. Military judge of a general or special court-mart
 usc_title: 10
 usc_section: "826"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 826"
-generated_at: "2026-03-30T02:53:38.079Z"
+generated_at: "2026-11-23T20:25:51.064Z"
+status: "active"
 ---
 
 # § 826. Art. 26. Military judge of a general or special court-martial
@@ -23,3 +24,22 @@ generated_at: "2026-03-30T02:53:38.079Z"
 - **(e)** The military judge of a court-martial may not consult with the members of the court except in the presence of the accused, trial counsel, and defense counsel, nor may he vote with the members of the court.
 - **(f)** A military judge may be detailed under subsection (a) to a court-martial or a proceeding under section 830a of this title (article 30a) that is convened in a different armed force, when so permitted by the Judge Advocate General of the armed force of which the military judge is a member.
 - **(g)** In accordance with regulations prescribed by the President, each Judge Advocate General shall designate a chief trial judge from among the members of the applicable trial judiciary.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 826(a) 826(b) | 50:590(a). 50:590(b). | May 5, 1950, ch. 169, § 1 (Art. 26), 64 Stat. 117 . |
+
+
+Historical and Revision Notes
+
+826(a)
+
+826(b)
+
+May 5, 1950, ch. 169, § 1
+
+64 Stat. 117
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 46; [Pub. L. 90–632, § 2(9)](https://www.govinfo.gov/link/plaw/90/public/632), Oct. 24, 1968, [82 Stat. 1336](https://www.govinfo.gov/link/statute/82/1336); [Pub. L. 98–209, § 3(c)(1)](https://www.govinfo.gov/link/plaw/98/public/209), Dec. 6, 1983, [97 Stat. 1394](https://www.govinfo.gov/link/statute/97/1394); [Pub. L. 114–328, div. E, title LV, § 5184](https://www.govinfo.gov/link/plaw/114/public/328), title LVI, § 5203(e)(3), Dec. 23, 2016, [130 Stat. 2901](https://www.govinfo.gov/link/statute/130/2901), 2906.)*

@@ -3,9 +3,10 @@ title: "Section 425 - Additional rules relating to benefits based on disability"
 usc_title: 42
 usc_section: "425"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 425"
-generated_at: "2026-03-30T02:56:10.866Z"
+generated_at: "2026-11-23T20:27:20.803Z"
+status: "active"
 ---
 
 # § 425. Additional rules relating to benefits based on disability
@@ -24,3 +25,29 @@ generated_at: "2026-03-30T02:56:10.866Z"
   - **(4)** The Commissioner shall inform any person who provides authorization pursuant to this clause of the duration and scope of the authorization.
   - **(5)** If an individual who applies for or is entitled to benefits under this subchapter refuses to provide, or revokes, any authorization under this subsection, subsection (d) shall not apply to such individual beginning with the first day of the first month in which he or she refuses or revokes such authorization.
 - **(d)** An individual who has authorized the Commissioner of Social Security to obtain records from a payroll data provider under subsection (c) shall not be subject to a penalty under section 1320a–8a of this title for any omission or error with respect to such individual’s wages as reported by the payroll data provider.
+
+Sunset of 36-month rule
+
+Effective date.—
+
+In general
+
+Referral and monitoring agencies
+
+Termination after 36 months
+
+“In any case in which an individual is entitled to benefits based on disability, the determination of disability was made by the Secretary of Health and Human Services during or before the 180-day period following the date of the enactment of this Act [ Aug. 15, 1994 ], and alcoholism or drug addiction is a contributing factor material to the Secretary’s determination that the individual is under a disability—
+
+Treatment requirement
+
+Termination after 36 months.—
+
+In general
+
+Concurrent beneficiaries currently under treatment
+
+Concurrent beneficiaries not currently under treatment
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title II, § 225, as added Aug. 1, 1956, ch. 836, title I, § 103(a), [70 Stat. 817](https://www.govinfo.gov/link/statute/70/817); amended [Pub. L. 85–840, title II, § 205](https://www.govinfo.gov/link/plaw/85/public/840) (o), Aug. 28, 1958, [72 Stat. 1025](https://www.govinfo.gov/link/statute/72/1025); [Pub. L. 89–97, title III, § 306(c)(15)](https://www.govinfo.gov/link/plaw/89/public/97), July 30, 1965, [79 Stat. 373](https://www.govinfo.gov/link/statute/79/373); [Pub. L. 90–248, title I](https://www.govinfo.gov/link/plaw/90/public/248), §§ 104(d)(5), 158(c)(9), Jan. 2, 1968, [81 Stat. 833](https://www.govinfo.gov/link/statute/81/833), 869; [Pub. L. 92–603, title I, § 107(b)(5)](https://www.govinfo.gov/link/plaw/92/public/603), Oct. 30, 1972, [86 Stat. 1343](https://www.govinfo.gov/link/statute/86/1343); [Pub. L. 96–265, title III, § 301(a)](https://www.govinfo.gov/link/plaw/96/public/265), June 9, 1980, [94 Stat. 449](https://www.govinfo.gov/link/statute/94/449); [Pub. L. 98–21, title III, § 309(p)](https://www.govinfo.gov/link/plaw/98/public/21), Apr. 20, 1983, [97 Stat. 117](https://www.govinfo.gov/link/statute/97/117); [Pub. L. 101–508, title V, § 5113(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–273](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–296, title I, § 107(a)(4)](https://www.govinfo.gov/link/plaw/103/public/296), title II, § 201(a)(3)(A), Aug. 15, 1994, [108 Stat. 1478](https://www.govinfo.gov/link/statute/108/1478), 1494; [Pub. L. 104–121, title I, § 105(a)(4)](https://www.govinfo.gov/link/plaw/104/public/121), Mar. 29, 1996, [110 Stat. 853](https://www.govinfo.gov/link/statute/110/853); [Pub. L. 106–170, title I, § 101(b)(1)(D)](https://www.govinfo.gov/link/plaw/106/public/170), Dec. 17, 1999, [113 Stat. 1873](https://www.govinfo.gov/link/statute/113/1873); [Pub. L. 114–74, title VIII, § 824(b)(1)](https://www.govinfo.gov/link/plaw/114/public/74), (c)(1), Nov. 2, 2015, [129 Stat. 608](https://www.govinfo.gov/link/statute/129/608), 609.)*

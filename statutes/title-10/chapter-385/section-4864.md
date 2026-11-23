@@ -3,9 +3,10 @@ title: "Section 4864 - Miscellaneous limitations on the procurement of goods oth
 usc_title: 10
 usc_section: "4864"
 chapter: 385
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 4864"
-generated_at: "2026-03-30T02:53:38.213Z"
+generated_at: "2026-11-23T20:25:51.982Z"
+status: "active"
 ---
 
 # § 4864. Miscellaneous limitations on the procurement of goods other than United States goods
@@ -97,3 +98,102 @@ generated_at: "2026-03-30T02:53:38.213Z"
     - **(C)** The number of such items to be procured by current programs of record.
     - **(D)** The extent to which cost and pricing data for such item has been deemed fair and reasonable.
   - **(3)** The written determination required under paragraph (1) shall also include the findings of the applicable review conducted under such paragraph and any key justifications for the recommendation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 2400 | 10:2303 (note). | Sept. 20, 1968 , Pub. L. 90–500, § 404 , 82 Stat. 851 . |
+
+
+Limitation on Certain Procurements
+
+Buses
+
+Components for naval vessels
+
+Components for auxiliary ships
+
+Components for t–ao 205 and t–arc class vessels
+
+Star tracker
+
+Manufacturer in the National Technology and Industrial Base
+
+Applicability to Certain Items
+
+Waiver Authority
+
+Sonobuoys.—
+
+Limitation
+
+Waiver authority
+
+Definition
+
+Principle of Construction With Future Laws
+
+Inapplicability to Contracts under Simplified Acquisition Threshold
+
+Implementation of Naval Vessel Component Limitation
+
+Implementation of Certain Waiver Authority
+
+Limitation on Certain Procurements Application Process.—
+
+In general
+
+Elements
+
+Consideration of applications.—
+
+Responsibility of designated official
+
+Review
+
+Elements of determination
+
+Justification
+
+Recommendations for legislation
+
+Implementation of Auxiliary Ship Component Limitation
+
+Periodic Review.—
+
+Recommendation
+
+Elements
+
+Justification
+
+Historical and Revision Notes
+
+2400
+
+Sept. 20, 1968
+
+Pub. L. 90–500, § 404
+
+82 Stat. 851
+
+Air circuit breakers
+
+Certain Items
+
+certain items
+
+Air circuit breakers
+
+Manual Typewriters From Warsaw Pact Countries
+
+“Subsection (i) of section 2534 of such title [now 10 U.S.C. 4864(i) ], as added by subsection (a), shall apply with respect to—
+
+Contract Requirement
+
+Contracts Described
+
+Definition of Photovoltaic Devices
+
+## Source Credit
+
+*(Added [Pub. L. 97–295, § 1(29)(A)](https://www.govinfo.gov/link/plaw/97/public/295), Oct. 12, 1982, [96 Stat. 1294](https://www.govinfo.gov/link/statute/96/1294), § 2400; amended [Pub. L. 100–180, div. A, title I, § 124(a)](https://www.govinfo.gov/link/plaw/100/public/180), (b)(1), title VIII, § 824(a), Dec. 4, 1987, [101 Stat. 1042](https://www.govinfo.gov/link/statute/101/1042), 1043, 1134; renumbered § 2502 and amended [Pub. L. 100–370, § 3(b)(1)](https://www.govinfo.gov/link/plaw/100/public/370), July 19, 1988, [102 Stat. 855](https://www.govinfo.gov/link/statute/102/855); renumbered § 2507 and amended [Pub. L. 100–456, div. A, title VIII](https://www.govinfo.gov/link/plaw/100/public/456), §§ 821(b)(1)(A), 822, Sept. 29, 1988, [102 Stat. 2014](https://www.govinfo.gov/link/statute/102/2014), 2017; [Pub. L. 101–510, div. A, title VIII, § 835(a)](https://www.govinfo.gov/link/plaw/101/public/510), title XIV, § 1421, Nov. 5, 1990, [104 Stat. 1614](https://www.govinfo.gov/link/statute/104/1614), 1682; [Pub. L. 102–190, div. A, title VIII](https://www.govinfo.gov/link/plaw/102/public/190), §§ 834, 835, Dec. 5, 1991, [105 Stat. 1447](https://www.govinfo.gov/link/statute/105/1447), 1448; renumbered § 2534 and amended [Pub. L. 102–484, div. A, title VIII](https://www.govinfo.gov/link/plaw/102/public/484), §§ 831, 833(a), title X, § 1052(33), div. D, title XLII, §§ 4202(a), 4271(b)(4), Oct. 23, 1992, [106 Stat. 2460](https://www.govinfo.gov/link/statute/106/2460), 2461, 2501, 2659, 2696; [Pub. L. 103–160, div. A, title IX, § 904(d)(1)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1728](https://www.govinfo.gov/link/statute/107/1728); [Pub. L. 103–337, div. A, title VIII, § 814](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2817](https://www.govinfo.gov/link/statute/108/2817); [Pub. L. 103–355, title IV, § 4102(i)](https://www.govinfo.gov/link/plaw/103/public/355), Oct. 13, 1994, [108 Stat. 3341](https://www.govinfo.gov/link/statute/108/3341); [Pub. L. 104–106, div. A, title VIII, § 806(a)(1)](https://www.govinfo.gov/link/plaw/104/public/106) –(4), (b)–(d), title XV, § 1503(a)(30), Feb. 10, 1996, [110 Stat. 390](https://www.govinfo.gov/link/statute/110/390), 391, 512; [Pub. L. 104–201, div. A, title VIII, § 810](https://www.govinfo.gov/link/plaw/104/public/201), title X, § 1074(a)(14), Sept. 23, 1996, [110 Stat. 2608](https://www.govinfo.gov/link/statute/110/2608), 2659; [Pub. L. 105–85, div. A, title III, § 371(d)(1)](https://www.govinfo.gov/link/plaw/105/public/85), title VIII, § 811(a), title X, § 1073(a)(55), Nov. 18, 1997, [111 Stat. 1706](https://www.govinfo.gov/link/statute/111/1706), 1839, 1903; [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title VIII, § 805], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–207; [Pub. L. 107–107, div. A, title VIII, § 835(a)](https://www.govinfo.gov/link/plaw/107/public/107), title X, § 1048(b)(2), Dec. 28, 2001, [115 Stat. 1191](https://www.govinfo.gov/link/statute/115/1191), 1225; [Pub. L. 108–136, div. A, title VIII, § 828](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1548](https://www.govinfo.gov/link/statute/117/1548); [Pub. L. 111–350, § 5(b)(40)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3846](https://www.govinfo.gov/link/statute/124/3846); [Pub. L. 115–91, div. A, title VIII, § 813(a)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1461](https://www.govinfo.gov/link/statute/131/1461); [Pub. L. 115–232, div. A, title VIII, § 844(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1879](https://www.govinfo.gov/link/statute/132/1879); [Pub. L. 116–92, div. A, title VIII, § 853](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1511](https://www.govinfo.gov/link/statute/133/1511); renumbered § 4864 and amended [Pub. L. 116–283, div. A, title VIII, § 845(a)](https://www.govinfo.gov/link/plaw/116/public/283), title XVI, § 1603(a), title XVIII, § 1870(c)(2)–(4), Jan. 1, 2021, [134 Stat. 3766](https://www.govinfo.gov/link/statute/134/3766), 4043, 4285; [Pub. L. 117–81, div. A, title VIII, § 816](https://www.govinfo.gov/link/plaw/117/public/81), title X, § 1081(a)(30), title XVII, § 1701(b)(23), Dec. 27, 2021, [135 Stat. 1825](https://www.govinfo.gov/link/statute/135/1825), 1921, 2135; [Pub. L. 117–263, div. A, title VIII](https://www.govinfo.gov/link/plaw/117/public/263), §§ 852, 853(a), Dec. 23, 2022, [136 Stat. 2721](https://www.govinfo.gov/link/statute/136/2721), 2722; [Pub. L. 118–159, div. A, title VIII, § 846](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1992](https://www.govinfo.gov/link/statute/138/1992).)*

@@ -3,9 +3,10 @@ title: "Section 15702 - Distressed counties and areas"
 usc_title: 40
 usc_section: "15702"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 15702"
-generated_at: "2026-03-30T02:55:43.388Z"
+generated_at: "2026-11-23T20:26:56.704Z"
+status: "active"
 ---
 
 # § 15702. Distressed counties and areas
@@ -29,3 +30,33 @@ generated_at: "2026-03-30T02:55:43.388Z"
   - **(4)** For a designation of an isolated area of distress to be effective, the designation shall be supported—
     - **(A)** by the most recent Federal data available; or
     - **(B)** if no recent Federal data are available, by the most recent data available through the government of the State in which the isolated area of distress is located.
+
+Designations
+
+Distressed counties
+
+Transitional counties
+
+Attainment counties
+
+Isolated areas of distress
+
+Allocation
+
+Attainment Counties.—
+
+In general
+
+Exceptions.—
+
+Administrative expenses of local development districts
+
+Multicounty and other projects
+
+Application
+
+Isolated areas of distress
+
+## Source Credit
+
+*(Added [Pub. L. 110–234, title XIV, § 14217(a)(2)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1479](https://www.govinfo.gov/link/statute/122/1479), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIV, § 14217(a)(2), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2241; amended [Pub. L. 118–272, div. B, title II](https://www.govinfo.gov/link/plaw/118/public/272), §§ 2249(c), 2250(c), Jan. 4, 2025, [138 Stat. 3209](https://www.govinfo.gov/link/statute/138/3209), 3210.)*

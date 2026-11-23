@@ -3,9 +3,10 @@ title: "Section 7470 - Referenda"
 usc_title: 7
 usc_section: "7470"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7470"
-generated_at: "2026-03-30T02:53:42.454Z"
+generated_at: "2026-11-23T20:25:41.790Z"
+status: "active"
 ---
 
 # § 7470. Referenda
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:42.454Z"
   - **(1)** the suspension or termination of the order is favored by not less than a majority of the producers and importers voting in the referendum; and
   - **(2)** the producers and importers produce and import more than 50 percent of the total volume of kiwifruit produced and imported by persons voting in the referendum.
 - **(e)** The ballots and other information or reports that reveal, or tend to reveal, the vote of any person under this subchapter and the voting list shall be held strictly confidential and shall not be disclosed.
+
+## Source Credit
+
+*([Pub. L. 104–127, title V, § 561](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1073](https://www.govinfo.gov/link/statute/110/1073).)*

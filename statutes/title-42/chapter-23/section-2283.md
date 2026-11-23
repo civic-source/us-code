@@ -3,9 +3,10 @@ title: "Section 2283 - Protection of nuclear inspectors"
 usc_title: 42
 usc_section: "2283"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2283"
-generated_at: "2026-03-30T02:56:11.158Z"
+generated_at: "2026-11-23T20:27:22.122Z"
+status: "active"
 ---
 
 # § 2283. Protection of nuclear inspectors
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.158Z"
   - **(1)** are related to any activity or facility licensed by the Commission, and
   - **(2)** are carried out to satisfy requirements under this chapter or under any other Federal law governing the safety of utilization facilities required to be licensed under section 2133 or 2134(b) of this title, or the safety of radioactive materials,
 - **(b)** Whoever forcibly assaults, resists, opposes, impedes, intimidates, or interferes with any person who performs inspections as described under subsection (a) of this section, while such person is engaged in such inspection duties or on account of the performance of such duties, shall be punished as provided under section 111 of title 18 .
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 235, as added [Pub. L. 96–295, title II, § 202(a)](https://www.govinfo.gov/link/plaw/96/public/295), June 30, 1980, [94 Stat. 786](https://www.govinfo.gov/link/statute/94/786); renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944).)*

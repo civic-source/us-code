@@ -3,9 +3,10 @@ title: "Section 606 - War powers of President"
 usc_title: 47
 usc_section: "606"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 606"
-generated_at: "2026-03-30T02:56:24.521Z"
+generated_at: "2026-11-23T20:27:28.939Z"
+status: "active"
 ---
 
 # § 606. War powers of President
@@ -18,3 +19,9 @@ generated_at: "2026-03-30T02:56:24.521Z"
 - **(f)** Nothing in subsection (c) or (d) shall be construed to amend, repeal, impair, or affect existing laws or powers of the States in relation to taxation or the lawful police regulations of the several States, except wherein such laws, powers, or regulations may affect the transmission of Government communications, or the issue of stocks and bonds by any communication system or systems.
 - **(g)** Nothing in subsection (c) or (d) shall be construed to authorize the President to make any amendment to the rules and regulations of the Commission which the Commission would not be authorized by law to make; and nothing in subsection (d) shall be construed to authorize the President to take any action the force and effect of which shall continue beyond the date after which taking of such action would not have been authorized.
 - **(h)** Any person who willfully does or causes or suffers to be done any act prohibited pursuant to the exercise of the President’s authority under this section, or who willfully fails to do any act which he is required to do pursuant to the exercise of the President’s authority under this section, or who willfully causes or suffers such failure, shall, upon conviction thereof, be punished for such offense by a fine of not more than $1,000 or by imprisonment for not more than one year, or both, and, if a firm, partnership, association, or corporation, by fine of not more than $5,000, except that any person who commits such an offense with intent to injure the United States, or with intent to secure an advantage to any foreign nation, shall, upon conviction thereof, be punished by a fine of not more than $20,000 or by imprisonment for not more than 20 years, or both.
+
+Harry S. Truman.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title VII, § 706, formerly title VI, § 606, [48 Stat. 1104](https://www.govinfo.gov/link/statute/48/1104); Jan. 26, 1942, ch. 18, §§ 1, 2, [56 Stat. 18](https://www.govinfo.gov/link/statute/56/18); Dec. 29, 1942, ch. 836, [56 Stat. 1096](https://www.govinfo.gov/link/statute/56/1096); July 25, 1947, ch. 327, § 1, [61 Stat. 449](https://www.govinfo.gov/link/statute/61/449); Oct. 24, 1951, ch. 553, §§ 1, 2, [65 Stat. 611](https://www.govinfo.gov/link/statute/65/611); renumbered title VII, § 706, [Pub. L. 98–549, § 6(a)](https://www.govinfo.gov/link/plaw/98/public/549), Oct. 30, 1984, [98 Stat. 2804](https://www.govinfo.gov/link/statute/98/2804).)*

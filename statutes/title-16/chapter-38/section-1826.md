@@ -3,9 +3,10 @@ title: "Section 1826 - Large-scale driftnet fishing"
 usc_title: 16
 usc_section: "1826"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1826"
-generated_at: "2026-03-30T02:54:22.985Z"
+generated_at: "2026-11-23T20:26:20.554Z"
+status: "active"
 ---
 
 # § 1826. Large-scale driftnet fishing
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:54:22.985Z"
     - **(B)** a forfeiture of fishing gear associated with a permit described in subparagraph (A); or
     - **(C)** the purchase of alternative gear with minimal incidental catch of living marine resources, if the fishery participant is authorized to continue fishing using such alternative gears.
   - **(3)** The Secretary shall certify that, with respect to each participant in the program under this subsection, any permit authorizing participation in a large-scale driftnet fishery has been permanently revoked and that no new permits will be issued to authorize such fishing.
+
+## Source Credit
+
+*([Pub. L. 94–265, title II, § 206](https://www.govinfo.gov/link/plaw/94/public/265), as added [Pub. L. 95–6, § 3(1)](https://www.govinfo.gov/link/plaw/95/public/6), Feb. 21, 1977, [91 Stat. 15](https://www.govinfo.gov/link/statute/91/15); amended [Pub. L. 99–659, title I, § 101(c)(2)](https://www.govinfo.gov/link/plaw/99/public/659), Nov. 14, 1986, [100 Stat. 3707](https://www.govinfo.gov/link/statute/100/3707); [Pub. L. 101–627, title I, § 107(a)](https://www.govinfo.gov/link/plaw/101/public/627), Nov. 28, 1990, [104 Stat. 4441](https://www.govinfo.gov/link/statute/104/4441); [Pub. L. 104–297, title I, § 105(f)](https://www.govinfo.gov/link/plaw/104/public/297), Oct. 11, 1996, [110 Stat. 3569](https://www.govinfo.gov/link/statute/110/3569); [Pub. L. 117–328, div. S, title I](https://www.govinfo.gov/link/plaw/117/public/328), §§ 103, 104, title II, § 205(b)(1)(B), Dec. 29, 2022, [136 Stat. 5259](https://www.govinfo.gov/link/statute/136/5259), 5270.)*

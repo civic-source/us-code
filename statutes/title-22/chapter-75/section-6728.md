@@ -3,9 +3,10 @@ title: "Section 6728 - Annual report on inspections"
 usc_title: 22
 usc_section: "6728"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6728"
-generated_at: "2026-03-30T02:55:05.433Z"
+generated_at: "2026-11-23T20:26:32.631Z"
+status: "active"
 ---
 
 # § 6728. Annual report on inspections
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:05.433Z"
   - **(7)** The identity of parties claiming loss of trade secrets, the circumstances surrounding those losses, and the efforts taken by the United States Government to redress those losses.
   - **(8)** A description of instances where inspections under the Convention outside the United States have been disrupted or delayed.
 - **(c)** The term “appropriate congressional committees” means the Committee on the Judiciary, the Committee on Foreign Relations, and the Select Committee on Intelligence of the Senate and the Committee on the Judiciary, the Committee on International Relations, and the Permanent Select Committee on Intelligence of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. I, title III, § 309](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–879](https://www.govinfo.gov/link/statute/112/2681).)*

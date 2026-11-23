@@ -3,9 +3,10 @@ title: "Section 41309 - Reporting on human trafficking"
 usc_title: 34
 usc_section: "41309"
 chapter: 413
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 41309"
-generated_at: "2026-03-30T02:55:33.314Z"
+generated_at: "2026-11-23T20:26:50.659Z"
+status: "active"
 ---
 
 # § 41309. Reporting on human trafficking
@@ -25,3 +26,9 @@ generated_at: "2026-03-30T02:55:33.314Z"
   - **(3)** incidents of prostitution, which shall include crimes committed by persons providing or attempting to provide commercial sex acts;
   - **(4)** incidents of assisting or promoting prostitution, child labor that is a violation of law, or forced labor of an individual under the age of 18 as described in paragraph (1); and
   - **(5)** incidents of purchasing or soliciting commercial sex acts, child labor that is a violation of law, or forced labor with an individual under the age of 18 as described in paragraph (2).
+
+“Not later than 280 days after the date of enactment of this Act [ Jan. 5, 2023 ], and every 2 years thereafter, the Attorney General and the Secretary of Health and Human Services shall each submit to the Committee on the Judiciary and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on the Judiciary and the Committee on Energy and Commerce of the House of Representatives the status of the required data collection and reporting requirements of the Attorney General and the Secretary, respectively, related to trafficking, which shall include the status of—
+
+## Source Credit
+
+*([Pub. L. 110–457, title II, § 237(a)](https://www.govinfo.gov/link/plaw/110/public/457), (b), Dec. 23, 2008, [122 Stat. 5083](https://www.govinfo.gov/link/statute/122/5083); [Pub. L. 115–392, § 17](https://www.govinfo.gov/link/plaw/115/public/392), Dec. 21, 2018, [132 Stat. 5257](https://www.govinfo.gov/link/statute/132/5257).)*

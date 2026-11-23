@@ -3,9 +3,10 @@ title: "Section 1455 - Administrative grants"
 usc_title: 16
 usc_section: "1455"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1455"
-generated_at: "2026-03-30T02:54:22.970Z"
+generated_at: "2026-11-23T20:26:20.494Z"
+status: "active"
 ---
 
 # § 1455. Administrative grants
@@ -64,3 +65,9 @@ generated_at: "2026-03-30T02:54:22.970Z"
   - **(3)**
     - **(A)** Except as provided in subparagraph (B), a coastal state may not implement any amendment, modification, or other change as part of its approved management program unless the amendment, modification, or other change is approved by the Secretary under this subsection.
     - **(B)** The Secretary, after determining on a preliminary basis, that an amendment, modification, or other change which has been submitted for approval under this subsection is likely to meet the program approval standards in this section, may permit the State to expend funds awarded under this section to begin implementing the proposed amendment, modification, or change. This preliminary approval shall not extend for more than 6 months and may not be renewed. A proposed amendment, modification, or change which has been given preliminary approval and is not finally approved under this paragraph shall not be considered an enforceable policy for purposes of section 1456 of this title .
+
+“Each State which submits a management program for approval under section 306 of the Coastal Zone Management Act of 1972 [ 16 U.S.C. 1455 ], as amended by this subtitle (including a State which submitted a program before the date of enactment of this Act [ Nov. 5, 1990 ]), shall demonstrate to the Secretary—
+
+## Source Credit
+
+*([Pub. L. 89–454, title III, § 306](https://www.govinfo.gov/link/plaw/89/public/454), as added [Pub. L. 92–583](https://www.govinfo.gov/link/plaw/92/public/583), Oct. 27, 1972, [86 Stat. 1283](https://www.govinfo.gov/link/statute/86/1283); amended [Pub. L. 93–612, § 1(2)](https://www.govinfo.gov/link/plaw/93/public/612), Jan. 2, 1975, [88 Stat. 1974](https://www.govinfo.gov/link/statute/88/1974); [Pub. L. 94–370, § 5](https://www.govinfo.gov/link/plaw/94/public/370), July 26, 1976, [90 Stat. 1017](https://www.govinfo.gov/link/statute/90/1017); [Pub. L. 96–464, § 5(a)](https://www.govinfo.gov/link/plaw/96/public/464), Oct. 17, 1980, [94 Stat. 2062](https://www.govinfo.gov/link/statute/94/2062); [Pub. L. 99–272, title VI, § 6043(b)(1)](https://www.govinfo.gov/link/plaw/99/public/272), (c), Apr. 7, 1986, [100 Stat. 124](https://www.govinfo.gov/link/statute/100/124), 125; [Pub. L. 101–508, title VI, § 6206(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–303](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 102–587, title II, § 2205(b)(1)(A)](https://www.govinfo.gov/link/plaw/102/public/587), (B), (8), Nov. 4, 1992, [106 Stat. 5050](https://www.govinfo.gov/link/statute/106/5050), 5051.)*

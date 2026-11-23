@@ -3,12 +3,17 @@ title: "Section 211 - Investigations to detect and prevent frauds and abuses"
 usc_title: 50
 usc_section: "211"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 211"
-generated_at: "2026-03-30T02:56:26.199Z"
+generated_at: "2026-11-23T20:27:30.709Z"
+status: "active"
 ---
 
 # § 211. Investigations to detect and prevent frauds and abuses
 
 It shall be the duty of the Secretary of the Treasury, from time to time, to institute such investigations as may be necessary to detect and prevent frauds and abuses in any trade or transactions which may be licensed between inhabitants of loyal States and of States in insurrection. And the agents making such investigations shall have power to compel the attendance of witnesses, and to make examinations on oath.
 
+
+## Source Credit
+
+*(R.S. § 5307.)*

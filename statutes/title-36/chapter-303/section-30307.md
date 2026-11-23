@@ -3,9 +3,10 @@ title: "Section 30307 - Restrictions"
 usc_title: 36
 usc_section: "30307"
 chapter: 303
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 30307"
-generated_at: "2026-03-30T02:55:44.694Z"
+generated_at: "2026-11-23T20:26:58.852Z"
+status: "active"
 ---
 
 # § 30307. Restrictions
@@ -17,3 +18,45 @@ generated_at: "2026-03-30T02:55:44.694Z"
   - **(2)** appropriate aid to blinded veterans or their widows or children in carrying out the purposes of the corporation.
 - **(d)** The corporation may not make a loan to a director, officer, or employee. Directors and officers who vote for or assent to making a loan to a director, officer, or employee, and officers who participate in making the loan, are jointly and severally liable to the corporation for the amount of the loan until it is repaid.
 - **(e)** Members and private individuals are not liable for the obligations of the corporation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30307(a) | 36:862. | Aug. 27, 1958 , Pub. L. 85–769 , §§ 3(4) (words between 1st comma and semicolon), 9, 10, 12, 72 Stat. 924 , 926. |
+| 30307(b) | 36:860. |  |
+| 30307(c) | 36:853(4) (words between 1st comma and semicolon). |  |
+|  | 36:859(a) (1st sentence words before last comma, last sentence). |  |
+| 30307(d) | 36:859(b). |  |
+| 30307(e) | 36:859(a) (1st sentence words after last comma). |  |
+
+
+Stock and Dividends
+
+Political Activities
+
+Distribution of Income or Assets
+
+Loans
+
+Immunity From Liability
+
+Historical and Revision Notes
+
+30307(a)
+
+Aug. 27, 1958
+
+Pub. L. 85–769
+
+72 Stat. 924
+
+30307(b)
+
+30307(c)
+
+30307(d)
+
+30307(e)
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1318](https://www.govinfo.gov/link/statute/112/1318).)*

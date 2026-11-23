@@ -3,9 +3,10 @@ title: "Section 594 - Authority and duties of an independent counsel"
 usc_title: 28
 usc_section: "594"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 594"
-generated_at: "2026-03-30T02:55:30.133Z"
+generated_at: "2026-11-23T20:26:36.390Z"
+status: "active"
 ---
 
 # § 594. Authority and duties of an independent counsel
@@ -81,3 +82,89 @@ generated_at: "2026-03-30T02:55:30.133Z"
     - **(C)** An independent counsel shall comply with the established policies of the Department of Justice respecting expenditures of funds, except to the extent that compliance would be inconsistent with the purposes of this chapter.
   - **(2)** The Director of the Administrative Office of the United States Courts shall provide administrative support and guidance to each independent counsel. No officer or employee of the Administrative Office of the United States Courts shall disclose information related to an independent counsel’s expenditures, personnel, or administrative acts or arrangements without the authorization of the independent counsel.
   - **(3)** The Administrator of General Services, in consultation with the Director of the Administrative Office of the United States Courts, shall promptly provide appropriate office space for each independent counsel. Such office space shall be within a Federal building unless the Administrator of General Services determines that other arrangements would cost less. Until such office space is provided, the Administrative Office of the United States Courts shall provide newly appointed independent counsels immediately upon appointment with appropriate, temporary office space, equipment, and supplies.
+
+Authorities
+
+Compensation.—
+
+In general
+
+Travel expenses
+
+Travel to primary office.—
+
+In general
+
+Relevant factors
+
+Additional Personnel
+
+Assistance of Department of Justice.—
+
+In carrying out functions
+
+Payment of and reports on expenditures of independent counsel
+
+Referral of Other Matters to an Independent Counsel
+
+Compliance With Policies of the Department of Justice.—
+
+In general
+
+National security
+
+Dismissal of Matters
+
+Reports by Independent Counsel.—
+
+Required reports
+
+Disclosure of information in reports
+
+Publication of reports
+
+Independence From Department of Justice
+
+Standards of Conduct Applicable to Independent Counsel, Persons Serving in the Office of an Independent Counsel, and Their Law Firms.—
+
+Restrictions on employment while independent counsel and appointees are serving
+
+Post employment restrictions on independent counsel and appointees
+
+One-year ban on representation by members of firms of independent counsel
+
+Definitions
+
+Enforcement
+
+Custody of Records of an Independent Counsel.—
+
+Transfer of records
+
+Maintenance, use, and disposal of records
+
+Access to records.—
+
+In general
+
+Access by department of justice
+
+Exception
+
+Records provided by congress
+
+Cost controls.—
+
+In general
+
+Liability for invalid certification
+
+Department of justice policies
+
+Administrative support
+
+Office space
+
+## Source Credit
+
+*(Added [Pub. L. 95–521, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/95/public/521), Oct. 26, 1978, [92 Stat. 1869](https://www.govinfo.gov/link/statute/92/1869); amended [Pub. L. 97–409](https://www.govinfo.gov/link/plaw/97/public/409), §§ 2(a)(1), 6(a)–(c), Jan. 3, 1983, [96 Stat. 2039](https://www.govinfo.gov/link/statute/96/2039), 2041; [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 100–191, § 2](https://www.govinfo.gov/link/plaw/100/public/191), Dec. 15, 1987, [101 Stat. 1300](https://www.govinfo.gov/link/statute/101/1300); [Pub. L. 103–270, § 3(a)](https://www.govinfo.gov/link/plaw/103/public/270) –(f), (m), (o), June 30, 1994, [108 Stat. 732–734](https://www.govinfo.gov/link/statute/108/732), 736; [Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 118]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009](https://www.govinfo.gov/link/statute/110/3009), 3009–23; [Pub. L. 113–235, div. H, title I, § 1301(d)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537).)*

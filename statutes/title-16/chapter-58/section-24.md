@@ -3,9 +3,10 @@ title: "Section 24 - Duties of the Secretary"
 usc_title: 16
 usc_section: "24"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 24"
-generated_at: "2026-03-30T02:54:23.031Z"
+generated_at: "2026-11-23T20:26:20.703Z"
+status: "active"
 ---
 
 # § 3839aa–24. Duties of the Secretary
@@ -88,3 +89,7 @@ generated_at: "2026-03-30T02:54:23.031Z"
 - **(j)** To the maximum extent feasible, the Secretary shall provide for streamlined and coordinated procedures for the program and the environmental quality incentives program under subpart A, including applications, contracting, conservation planning, conservation practices, and related administrative procedures.
 - **(k)** To the maximum extent feasible, the Secretary shall manage the program to enhance soil health.
 - **(l)** Each fiscal year, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the payment rates for conservation activities offered to producers under the program and an analysis of whether payment rates can be reduced for the most expensive conservation activities.
+
+## Source Credit
+
+*([Pub. L. 99–198, title XII, § 1240L](https://www.govinfo.gov/link/plaw/99/public/198), formerly § 1238G, as added [Pub. L. 110–234, title II, § 2301(a)(2)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1045](https://www.govinfo.gov/link/statute/122/1045), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title II, § 2301(a)(2), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1773; amended [Pub. L. 113–79, title II, § 2101(a)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 726](https://www.govinfo.gov/link/statute/128/726); renumbered § 1240L and amended [Pub. L. 115–334, title II](https://www.govinfo.gov/link/plaw/115/public/334), §§ 2301(b), 2308(d), Dec. 20, 2018, [132 Stat. 4551](https://www.govinfo.gov/link/statute/132/4551), 4566; [Pub. L. 117–169, title II, § 21001(c)(4)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 2017](https://www.govinfo.gov/link/statute/136/2017).)*

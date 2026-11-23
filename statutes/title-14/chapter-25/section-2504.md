@@ -3,9 +3,10 @@ title: "Section 2504 - Computation of retired pay"
 usc_title: 14
 usc_section: "2504"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 2504"
-generated_at: "2026-03-30T02:53:51.499Z"
+generated_at: "2026-11-23T20:25:54.606Z"
+status: "active"
 ---
 
 # § 2504. Computation of retired pay
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:51.499Z"
     - **(B)** any remaining fractional part of a month shall be disregarded.
   - **(2)** Retired pay computed under this section, if not a multiple of $1, shall be rounded to the next lower multiple of $1.
 - **(d)** In addition to amounts computed pursuant to subsections (a) through (c) of this section, a full TSP member (as defined in section 8440e(a) of title 5 ) of the Coast Guard is entitled to continuation pay pursuant to section 356 of title 37 .
+
+## Source Credit
+
+*(Aug. 4, 1949, ch. 393, [63 Stat. 525](https://www.govinfo.gov/link/statute/63/525), § 423; Aug. 3, 1950, ch. 536, § 23, [64 Stat. 407](https://www.govinfo.gov/link/statute/64/407); [Pub. L. 85–422, § 11(b)](https://www.govinfo.gov/link/plaw/85/public/422), May 20, 1958, [72 Stat. 132](https://www.govinfo.gov/link/statute/72/132); [Pub. L. 88–132, § 5(i)](https://www.govinfo.gov/link/plaw/88/public/132), Oct. 2, 1963, [77 Stat. 214](https://www.govinfo.gov/link/statute/77/214); [Pub. L. 92–455, § 2](https://www.govinfo.gov/link/plaw/92/public/455), Oct. 2, 1972, [86 Stat. 761](https://www.govinfo.gov/link/statute/86/761); [Pub. L. 96–342, title VIII, § 813(f)(2)](https://www.govinfo.gov/link/plaw/96/public/342), Sept. 8, 1980, [94 Stat. 1109](https://www.govinfo.gov/link/statute/94/1109); [Pub. L. 97–295, § 2(12)](https://www.govinfo.gov/link/plaw/97/public/295), Oct. 12, 1982, [96 Stat. 1302](https://www.govinfo.gov/link/statute/96/1302); [Pub. L. 98–94, title IX](https://www.govinfo.gov/link/plaw/98/public/94), §§ 922(b), 923(d), Sept. 24, 1983, [97 Stat. 642](https://www.govinfo.gov/link/statute/97/642), 643; [Pub. L. 98–557, § 15(a)(3)(A)](https://www.govinfo.gov/link/plaw/98/public/557), Oct. 30, 1984, [98 Stat. 2865](https://www.govinfo.gov/link/statute/98/2865); [Pub. L. 99–348, title II, § 205(a)](https://www.govinfo.gov/link/plaw/99/public/348), July 1, 1986, [100 Stat. 699](https://www.govinfo.gov/link/statute/100/699); [Pub. L. 115–141, div. F, title II, § 225](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 616](https://www.govinfo.gov/link/statute/132/616); [Pub. L. 115–232, div. C, title XXXV, § 3531(c)(13)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2320](https://www.govinfo.gov/link/statute/132/2320); renumbered § 2504, [Pub. L. 115–282, title I, § 114(b)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4223](https://www.govinfo.gov/link/statute/132/4223).)*

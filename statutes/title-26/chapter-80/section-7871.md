@@ -3,9 +3,10 @@ title: "Section 7871 - Indian tribal governments treated as States for certain p
 usc_title: 26
 usc_section: "7871"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 7871"
-generated_at: "2026-03-30T02:55:27.888Z"
+generated_at: "2026-11-23T20:26:46.856Z"
+status: "active"
 ---
 
 # § 7871. Indian tribal governments treated as States for certain purposes
@@ -77,3 +78,9 @@ generated_at: "2026-03-30T02:55:27.888Z"
       - **(i)** any portion of a building in which class II or class III gaming (as defined in section 4 of the Indian Gaming Regulatory Act) is conducted or housed or any other property actually used in the conduct of such gaming, or
       - **(ii)** any facility located outside the Indian reservation (as defined in section 168(j)(6)).
     - **(C)** The maximum aggregate face amount of bonds which may be designated by any Indian tribal government under subparagraph (A) shall not exceed the amount of national tribal economic development bond limitation allocated to such government under paragraph (1).
+
+“The amendments made by this title [enacting this section, amending sections 41, 103, 164, 170, 2055, 2106, 2522, 4227, 4484, 6420, 6421, 6424, 6427, and 7701 of this title, and enacting provisions set out as a note under section 1 of this title ]—
+
+## Source Credit
+
+*(Added [Pub. L. 97–473, title II, § 202(a)](https://www.govinfo.gov/link/plaw/97/public/473), Jan. 14, 1983, [96 Stat. 2608](https://www.govinfo.gov/link/statute/96/2608); amended [Pub. L. 98–21, title I, § 122(c)(6)](https://www.govinfo.gov/link/plaw/98/public/21), Apr. 20, 1983, [97 Stat. 87](https://www.govinfo.gov/link/statute/97/87); [Pub. L. 98–369, div. A, title IV, § 474(r)(41)](https://www.govinfo.gov/link/plaw/98/public/369), title X, § 1065(b), July 18, 1984, [98 Stat. 847](https://www.govinfo.gov/link/statute/98/847), 1048; [Pub. L. 99–514, title I](https://www.govinfo.gov/link/plaw/99/public/514), §§ 112(b)(4), 123(b)(3), title XIII, § 1301(j)(6), (7), title XVIII, §§ 1878(i), 1899A(65), Oct. 22, 1986, [100 Stat. 2109](https://www.govinfo.gov/link/statute/100/2109), 2113, 2658, 2905, 2962; [Pub. L. 100–203, title X, § 10632(a)](https://www.govinfo.gov/link/plaw/100/public/203), (b), Dec. 22, 1987, [101 Stat. 1330–455](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 103–66, title XIII, § 13222(d)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 481](https://www.govinfo.gov/link/statute/107/481); [Pub. L. 111–5, div. B, title I, § 1402(a)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 351](https://www.govinfo.gov/link/statute/123/351); [Pub. L. 115–141, div. U, title IV, § 401(a)(337)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1200](https://www.govinfo.gov/link/statute/132/1200).)*

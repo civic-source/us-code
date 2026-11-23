@@ -3,9 +3,10 @@ title: "Section 1087ss - Eligible applicants exempt from asset reporting"
 usc_title: 20
 usc_section: "1087ss"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1087ss"
-generated_at: "2026-03-30T02:54:48.130Z"
+generated_at: "2026-11-23T20:26:14.491Z"
+status: "active"
 ---
 
 # § 1087ss. Eligible applicants exempt from asset reporting
@@ -41,3 +42,11 @@ generated_at: "2026-03-30T02:54:48.130Z"
       - **(v)** The Medicaid program under title XIX of the Social Security Act ( 42 U.S.C. 1396 et seq.).
       - **(vi)** Federal housing assistance programs, including tenant-based assistance under section 1437f( o ) of title 42, and public housing, as defined in section 1437a(b)(1) of title 42 .
       - **(vii)** Other means-tested programs determined by the Secretary to be approximately consistent with the income eligibility requirements of the means-tested programs under clauses (i) through (vi).
+
+Eligibility guidelines
+
+Means-tested federal benefit program
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 479](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title IV, § 406(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1472](https://www.govinfo.gov/link/statute/100/1472); amended [Pub. L. 100–50, § 14(23)](https://www.govinfo.gov/link/plaw/100/public/50) –(25), June 3, 1987, [101 Stat. 352](https://www.govinfo.gov/link/statute/101/352); [Pub. L. 100–369, § 7(c)](https://www.govinfo.gov/link/plaw/100/public/369), July 18, 1988, [102 Stat. 837](https://www.govinfo.gov/link/statute/102/837); [Pub. L. 102–26, § 11](https://www.govinfo.gov/link/plaw/102/public/26), Apr. 9, 1991, [105 Stat. 129](https://www.govinfo.gov/link/statute/105/129); [Pub. L. 102–325, title IV, § 471(a)](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 604](https://www.govinfo.gov/link/statute/106/604); [Pub. L. 103–208, § 2(g)(10)](https://www.govinfo.gov/link/plaw/103/public/208) –(15), Dec. 20, 1993, [107 Stat. 2472](https://www.govinfo.gov/link/statute/107/2472); [Pub. L. 105–244, title IV, § 477](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1731](https://www.govinfo.gov/link/statute/112/1731); [Pub. L. 109–171, title VIII, § 8018(a)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 174](https://www.govinfo.gov/link/statute/120/174); [Pub. L. 110–84, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/110/public/84), Sept. 27, 2007, [121 Stat. 804](https://www.govinfo.gov/link/statute/121/804); [Pub. L. 110–234, title IV, § 4002(b)(1)(A)](https://www.govinfo.gov/link/plaw/110/public/234), (B), (2)(N), May 22, 2008, [122 Stat. 1095–1097](https://www.govinfo.gov/link/statute/122/1095); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, § 4002(b)(1)(A), (B), (2)(N), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1857, 1858; [Pub. L. 111–39, title IV, § 406(a)(4)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1948](https://www.govinfo.gov/link/statute/123/1948); [Pub. L. 112–74, div. F, title III, § 309(b)](https://www.govinfo.gov/link/plaw/112/public/74), Dec. 23, 2011, [125 Stat. 1100](https://www.govinfo.gov/link/statute/125/1100); [Pub. L. 113–128, title V, § 512(n)(2)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1710](https://www.govinfo.gov/link/statute/128/1710); [Pub. L. 116–260, div. FF, title VII, § 702(h)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3152](https://www.govinfo.gov/link/statute/134/3152); [Pub. L. 117–103, div. R, § 102(b)(3)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 819](https://www.govinfo.gov/link/statute/136/819).)*

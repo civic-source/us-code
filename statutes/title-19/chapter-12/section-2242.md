@@ -3,9 +3,10 @@ title: "Section 2242 - Identification of countries that deny adequate protection
 usc_title: 19
 usc_section: "2242"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2242"
-generated_at: "2026-03-30T02:54:24.667Z"
+generated_at: "2026-11-23T20:26:10.921Z"
+status: "active"
 ---
 
 # § 2242. Identification of countries that deny adequate protection, or market access, for intellectual property rights
@@ -78,3 +79,11 @@ generated_at: "2026-03-30T02:54:24.667Z"
   - **(1)** a list of any foreign countries identified under subsection (a);
   - **(2)** a description of progress made in achieving improved intellectual property protection and market access for persons relying on intellectual property rights; and
   - **(3)** a description of the action plans developed under subsection (g) and any actions taken by foreign countries under such plans.
+
+In general
+
+Developing country defined
+
+## Source Credit
+
+*([Pub. L. 93–618, title I, § 182](https://www.govinfo.gov/link/plaw/93/public/618), as added [Pub. L. 100–418, title I, § 1303(b)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1179](https://www.govinfo.gov/link/statute/102/1179); amended [Pub. L. 103–182, title V, § 513](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2156](https://www.govinfo.gov/link/statute/107/2156); [Pub. L. 103–465, title III, § 313](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4938](https://www.govinfo.gov/link/statute/108/4938); [Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(8)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–584; [Pub. L. 114–125, title VI, § 610(a)](https://www.govinfo.gov/link/plaw/114/public/125), (b)(1), Feb. 24, 2016, [130 Stat. 191](https://www.govinfo.gov/link/statute/130/191); [Pub. L. 116–113, title V, § 506(a)](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 78](https://www.govinfo.gov/link/statute/134/78).)*

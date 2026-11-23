@@ -3,9 +3,10 @@ title: "Section 328 - Decision of the Board"
 usc_title: 35
 usc_section: "328"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "35 U.S.C. § 328"
-generated_at: "2026-03-30T02:55:34.241Z"
+generated_at: "2026-11-23T20:26:49.153Z"
+status: "active"
 ---
 
 # § 328. Decision of the Board
@@ -14,3 +15,15 @@ generated_at: "2026-03-30T02:55:34.241Z"
 - **(b)** If the Patent Trial and Appeal Board issues a final written decision under subsection (a) and the time for appeal has expired or any appeal has terminated, the Director shall issue and publish a certificate canceling any claim of the patent finally determined to be unpatentable, confirming any claim of the patent determined to be patentable, and incorporating in the patent by operation of the certificate any new or amended claim determined to be patentable.
 - **(c)** Any proposed amended or new claim determined to be patentable and incorporated into a patent following a post-grant review under this chapter shall have the same effect as that specified in section 252 for reissued patents on the right of any person who made, purchased, or used within the United States, or imported into the United States, anything patented by such proposed amended or new claim, or who made substantial preparation therefor, before the issuance of a certificate under subsection (b).
 - **(d)** The Office shall make available to the public data describing the length of time between the institution of, and the issuance of a final written decision under subsection (a) for, each post-grant review.
+
+Final Written Decision
+
+Certificate
+
+Intervening Rights
+
+Data on Length of Review
+
+## Source Credit
+
+*(Added and amended [Pub. L. 112–29](https://www.govinfo.gov/link/plaw/112/public/29), §§ 6(d), 20(j), Sept. 16, 2011, [125 Stat. 310](https://www.govinfo.gov/link/statute/125/310), 335.)*

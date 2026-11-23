@@ -3,9 +3,10 @@ title: "Section 3741 - Findings"
 usc_title: 16
 usc_section: "3741"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3741"
-generated_at: "2026-03-30T02:54:23.020Z"
+generated_at: "2026-11-23T20:26:20.670Z"
+status: "active"
 ---
 
 # § 3741. Findings
@@ -27,3 +28,7 @@ The Congress finds the following:
   - **(13)** Partnerships in fish and wildlife conservation, such as the Federal Aid in Wildlife Restoration Program, the Federal Aid in Sport Fish Restoration Program, and the North American Wetlands Conservation Act [ 16 U.S.C. 4401 et seq.] have benefitted greatly the conservation of fish and wildlife and their habitats.
   - **(14)** A program that encourages partnerships among Federal and State governments and private entities to carry out wildlife conservation and appreciation projects would benefit all species of fish and wildlife through such activities as management, research, and interagency coordination.
   - **(15)** Many States, which are experiencing declining revenues, are finding it increasingly difficult to carry out projects to conserve the entire array of diverse fish and wildlife species and to provide opportunities for the public to associate with, enjoy, and appreciate fish and wildlife through nonconsumptive activities.
+
+## Source Credit
+
+*([Pub. L. 102–587, title VII, § 7102](https://www.govinfo.gov/link/plaw/102/public/587), Nov. 4, 1992, [106 Stat. 5094](https://www.govinfo.gov/link/statute/106/5094).)*

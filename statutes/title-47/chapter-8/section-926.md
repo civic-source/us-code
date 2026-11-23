@@ -3,9 +3,10 @@ title: "Section 926 - Authority to recover reassigned frequencies"
 usc_title: 47
 usc_section: "926"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 926"
-generated_at: "2026-03-30T02:56:24.528Z"
+generated_at: "2026-11-23T20:27:28.973Z"
+status: "active"
 ---
 
 # § 926. Authority to recover reassigned frequencies
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:24.528Z"
 - **(c)** The Federal Government shall bear all costs of reclaiming frequencies pursuant to this section, including the cost of equipment which is rendered unusable, the cost of relocating operations to a different frequency, and any other costs that are directly attributable to the reclaiming of the frequency pursuant to this section, and there are authorized to be appropriated such sums as may be necessary to carry out the purposes of this section.
 - **(d)** The Commission shall not withdraw licenses for any reclaimed frequencies until the end of the fiscal year following the fiscal year in which a statement under section 924(b)(1)(B) of this title pertaining to such frequencies is received by the Commission.
 - **(e)** Nothing in this section shall be construed to limit or otherwise affect the authority of the President under section 706 of the 1934 Act ( 47 U.S.C. 606 ).
+
+## Source Credit
+
+*([Pub. L. 102–538, title I, § 116](https://www.govinfo.gov/link/plaw/102/public/538), as added [Pub. L. 103–66, title VI, § 6001(a)(3)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 386](https://www.govinfo.gov/link/statute/107/386).)*

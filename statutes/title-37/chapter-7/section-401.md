@@ -3,9 +3,10 @@ title: "Section 401 - Definitions"
 usc_title: 37
 usc_section: "401"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "37 U.S.C. § 401"
-generated_at: "2026-03-30T02:55:44.056Z"
+generated_at: "2026-11-23T20:26:57.380Z"
+status: "active"
 ---
 
 # § 401. Definitions
@@ -40,3 +41,42 @@ generated_at: "2026-03-30T02:55:44.056Z"
     - **(C)** a parent of the member by adoption;
     - **(D)** a parent, stepparent, or adopted parent of the spouse of the member; and
     - **(E)** any other person, including a former stepparent, who has stood in loco parentis to the member at any time for a continuous period of at least five years before the member became 21 years of age.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 401 | 37:231(g) (less last proviso of last sentence). | Oct. 12, 1949, ch. 681, § 102(g) (less last proviso of last sentence), 63 Stat. 804 ; Sept. 8, 1950, ch. 922, § 1 , 64 Stat. 794 ; Mar. 23, 1953, ch. 8 (as applicable to § 102(g)), 67 Stat. 6 ; June 30, 1955, ch. 250, § 103 (as applicable to § 102(g)), 69 Stat. 224 ; Mar. 23, 1959 , Pub. L. 86–4, § 3 (as applicable to § 102(g)), 73 Stat. 13 . |
+
+
+Dependent Defined
+
+Other Definitions
+
+Historical and Revision Notes
+
+401
+
+Oct. 12, 1949, ch. 681, § 102(g)
+
+63 Stat. 804
+
+Sept. 8, 1950, ch. 922, § 1
+
+64 Stat. 794
+
+Mar. 23, 1953, ch. 8
+
+67 Stat. 6
+
+June 30, 1955, ch. 250, § 103
+
+69 Stat. 224
+
+Mar. 23, 1959
+
+Pub. L. 86–4, § 3
+
+73 Stat. 13
+
+## Source Credit
+
+*([Pub. L. 87–649](https://www.govinfo.gov/link/plaw/87/public/649), Sept. 7, 1962, [76 Stat. 469](https://www.govinfo.gov/link/statute/76/469); [Pub. L. 93–64, title I](https://www.govinfo.gov/link/plaw/93/public/64), §§ 103, 104, July 9, 1973, [87 Stat. 148](https://www.govinfo.gov/link/statute/87/148); [Pub. L. 100–26, § 8(e)(7)](https://www.govinfo.gov/link/plaw/100/public/26), Apr. 21, 1987, [101 Stat. 286](https://www.govinfo.gov/link/statute/101/286); [Pub. L. 102–190, div. A, title VI, § 621](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1377](https://www.govinfo.gov/link/statute/105/1377); [Pub. L. 103–160, div. A, title VI, § 631(a)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1683](https://www.govinfo.gov/link/statute/107/1683); [Pub. L. 103–337, div. A, title VII, § 701(b)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2797](https://www.govinfo.gov/link/statute/108/2797).)*

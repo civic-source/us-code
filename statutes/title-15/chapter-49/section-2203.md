@@ -3,9 +3,10 @@ title: "Section 2203 - Definitions"
 usc_title: 15
 usc_section: "2203"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2203"
-generated_at: "2026-03-30T02:54:08.167Z"
+generated_at: "2026-11-23T20:26:04.174Z"
+status: "active"
 ---
 
 # § 2203. Definitions
@@ -23,3 +24,7 @@ As used in this chapter, the term—
   - **(9)** “Secretary” means, except as otherwise provided, the Secretary of Homeland Security;
   - **(10)** “State” has the meaning given the term in section 101 of title 6 . 1 1 So in original. The period probably should be “; and”.
   - **(11)** “wildland-urban interface” has the meaning given such term in section 6511 of title 16 .
+
+## Source Credit
+
+*([Pub. L. 93–498, § 4](https://www.govinfo.gov/link/plaw/93/public/498), Oct. 29, 1974, [88 Stat. 1536](https://www.govinfo.gov/link/statute/88/1536); [Pub. L. 95–422, § 2(a)(1)](https://www.govinfo.gov/link/plaw/95/public/422), Oct. 5, 1978, [92 Stat. 932](https://www.govinfo.gov/link/statute/92/932); [Pub. L. 101–391, § 3(b)](https://www.govinfo.gov/link/plaw/101/public/391), Sept. 25, 1990, [104 Stat. 749](https://www.govinfo.gov/link/statute/104/749); [Pub. L. 106–503, title I, § 110(a)(2)(A)](https://www.govinfo.gov/link/plaw/106/public/503), Nov. 13, 2000, [114 Stat. 2302](https://www.govinfo.gov/link/statute/114/2302); [Pub. L. 110–376, § 10](https://www.govinfo.gov/link/plaw/110/public/376), Oct. 8, 2008, [122 Stat. 4061](https://www.govinfo.gov/link/statute/122/4061); [Pub. L. 112–239, div. A, title XVIII, § 1802(a)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2099](https://www.govinfo.gov/link/statute/126/2099).)*

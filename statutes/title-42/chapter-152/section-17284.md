@@ -3,9 +3,10 @@ title: "Section 17284 - Assessment of resources"
 usc_title: 42
 usc_section: "17284"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17284"
-generated_at: "2026-03-30T02:56:11.504Z"
+generated_at: "2026-11-23T20:27:23.749Z"
+status: "active"
 ---
 
 # § 17284. Assessment of resources
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:56:11.504Z"
   - **(4)** $15,000,000 for fiscal year 2011;
   - **(5)** $20,000,000 for fiscal year 2012; and
   - **(6)** such sums as are necessary for subsequent fiscal years.
+
+## Source Credit
+
+*([Pub. L. 110–140, title VIII, § 805](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1721](https://www.govinfo.gov/link/statute/121/1721).)*

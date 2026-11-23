@@ -3,9 +3,10 @@ title: "Section 2365 - Sense of Congress concerning purchase, packaging, and tra
 usc_title: 50
 usc_section: "2365"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 2365"
-generated_at: "2026-03-30T02:56:26.223Z"
+generated_at: "2026-11-23T20:27:30.842Z"
+status: "active"
 ---
 
 # § 2365. Sense of Congress concerning purchase, packaging, and transportation of fissile materials at risk of theft
@@ -16,3 +17,7 @@ It is the sense of Congress that—
     - **(A)** there is a significant risk of theft of such materials; and
     - **(B)** there is no reasonable and economically feasible alternative for securing such materials; and
   - **(2)** if it is necessary to do so in order to secure the materials, the materials should be imported into the United States, subject to the laws and regulations that are applicable to the importation of such materials into the United States.
+
+## Source Credit
+
+*([Pub. L. 104–201, div. A, title XIV, § 1455](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2731](https://www.govinfo.gov/link/statute/110/2731).)*

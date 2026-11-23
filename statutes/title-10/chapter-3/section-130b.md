@@ -3,9 +3,10 @@ title: "Section 130b - Personnel in overseas, sensitive, or routinely deployable
 usc_title: 10
 usc_section: "130b"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 130b"
-generated_at: "2026-03-30T02:53:38.034Z"
+generated_at: "2026-11-23T20:25:50.819Z"
+status: "active"
 ---
 
 # § 130b. Personnel in overseas, sensitive, or routinely deployable units: nondisclosure of personally identifying information
@@ -28,3 +29,13 @@ generated_at: "2026-03-30T02:53:38.034Z"
       - **(iii)** communications stations; and
     - **(C)** any other unit that is designated as a sensitive unit by the Secretary of Defense or, in the case of the Coast Guard when it is not operating as a service in the Navy, by the Secretary of Homeland Security.
   - **(5)** The term “routinely deployable unit” means a unit that normally deploys from its permanent home station on a periodic or rotating basis to meet peacetime operational requirements that, or to participate in scheduled training exercises that, routinely require deployments outside the United States and its territories. Such term includes a unit that is alerted for deployment outside the United States and its territories during an actual execution of a contingency plan or in support of a crisis operation.
+
+Exemption From Disclosure
+
+Exceptions
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 106–65, div. A, title X, § 1044(a)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 761](https://www.govinfo.gov/link/statute/113/761); amended [Pub. L. 107–296, title XVII, § 1704(b)(1)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314).)*

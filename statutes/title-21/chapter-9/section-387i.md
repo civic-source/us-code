@@ -3,9 +3,10 @@ title: "Section 387i - Records and reports on tobacco products"
 usc_title: 21
 usc_section: "387i"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 387i"
-generated_at: "2026-03-30T02:54:54.281Z"
+generated_at: "2026-11-23T20:26:27.774Z"
+status: "active"
 ---
 
 # § 387i. Records and reports on tobacco products
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:54.281Z"
     - **(A)** to reduce a risk to health posed by the tobacco product; or
     - **(B)** to remedy a violation of this subchapter caused by the tobacco product which may present a risk to health.
   - **(2)** No report of the corrective action or removal of a tobacco product may be required under paragraph (1) if a report of the corrective action or removal is required and has been submitted under subsection (a).
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 909, as added [Pub. L. 111–31, div. A, title I, § 101(b)(3)](https://www.govinfo.gov/link/plaw/111/public/31), June 22, 2009, [123 Stat. 1805](https://www.govinfo.gov/link/statute/123/1805).)*

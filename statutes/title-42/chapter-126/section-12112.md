@@ -3,9 +3,10 @@ title: "Section 12112 - Discrimination"
 usc_title: 42
 usc_section: "12112"
 chapter: 126
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12112"
-generated_at: "2026-03-30T02:56:11.407Z"
+generated_at: "2026-11-23T20:27:23.336Z"
+status: "active"
 ---
 
 # § 12112. Discrimination
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:56:11.407Z"
     - **(A)** A covered entity shall not require a medical examination and shall not make inquiries of an employee as to whether such employee is an individual with a disability or as to the nature or severity of the disability, unless such examination or inquiry is shown to be job-related and consistent with business necessity.
     - **(B)** A covered entity may conduct voluntary medical examinations, including voluntary medical histories, which are part of an employee health program available to employees at that work site. A covered entity may make inquiries into the ability of an employee to perform job-related functions.
     - **(C)** Information obtained under subparagraph (B) regarding the medical condition or history of any employee are subject to the requirements of subparagraphs (B) and (C) of paragraph (3).
+
+## Source Credit
+
+*([Pub. L. 101–336, title I, § 102](https://www.govinfo.gov/link/plaw/101/public/336), July 26, 1990, [104 Stat. 331](https://www.govinfo.gov/link/statute/104/331); [Pub. L. 102–166, title I, § 109(b)(2)](https://www.govinfo.gov/link/plaw/102/public/166), Nov. 21, 1991, [105 Stat. 1077](https://www.govinfo.gov/link/statute/105/1077); [Pub. L. 110–325, § 5(a)](https://www.govinfo.gov/link/plaw/110/public/325), Sept. 25, 2008, [122 Stat. 3557](https://www.govinfo.gov/link/statute/122/3557).)*

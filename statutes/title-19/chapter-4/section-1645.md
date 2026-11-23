@@ -3,12 +3,17 @@ title: "Section 1645 - Transportation and interment of remains of deceased emplo
 usc_title: 19
 usc_section: "1645"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1645"
-generated_at: "2026-03-30T02:54:24.649Z"
+generated_at: "2026-11-23T20:26:10.834Z"
+status: "active"
 ---
 
 # § 1645. Transportation and interment of remains of deceased employees in foreign countries; travel or shipping expenses incurred on foreign ships
 
 - **(a)** The expense of transporting the remains of customs officers and employees who die while in or in transit to foreign countries in the discharge of their official duties, to their former homes in this country for interment, and the ordinary and necessary expenses for such interment, at their posts of duty or at home, are authorized to be paid upon the written order of the Secretary of the Treasury. The expenses authorized by this subdivision shall be paid from the appropriation for the collection of the revenue from customs.
 - **(b)** Notwithstanding the provisions of section 601 of the Merchant Marine Act, 1928, or of any other law, any allowance, within the limitations prescribed by law, for travel or shipping expenses incurred on a foreign ship by any officer or employee of the Bureau of Customs or the Customs Service, shall be credited if the Secretary of the Treasury certifies to the Comptroller General that transportation on such foreign ship was necessary to protect the revenue.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 645(a), (c), [46 Stat. 761](https://www.govinfo.gov/link/statute/46/761); Aug. 2, 1946, ch. 744, § 2, [60 Stat. 807](https://www.govinfo.gov/link/statute/60/807).)*

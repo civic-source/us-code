@@ -3,9 +3,10 @@ title: "Section 4 - Subscription of stock"
 usc_title: 22
 usc_section: "4"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4"
-generated_at: "2026-03-30T02:55:05.326Z"
+generated_at: "2026-11-23T20:26:32.051Z"
+status: "active"
 ---
 
 # § 290o–4. Subscription of stock
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:05.326Z"
     - **(B)** Not more than $52,500,000 of the amounts appropriated pursuant to subsection (b) for fiscal year 1997 may be obligated for subscription to shares of paid-in capital stock.
   - **(2)** Not more than $787,505,852 of the amounts appropriated pursuant to subsection (b) may be obligated for subscription to shares of callable capital stock.
 - **(d)** Any payment made to the United States by the Bank as a distribution of net income shall be covered into the Treasury as a miscellaneous receipt.
+
+## Source Credit
+
+*([Pub. L. 104–208, div. A, title I, § 101(c) [title VII, § 706]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–121](https://www.govinfo.gov/link/statute/110/3009), 3009–179.)*

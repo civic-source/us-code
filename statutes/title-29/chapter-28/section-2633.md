@@ -3,9 +3,10 @@ title: "Section 2633 - Membership"
 usc_title: 29
 usc_section: "2633"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 2633"
-generated_at: "2026-03-30T02:55:18.745Z"
+generated_at: "2026-11-23T20:26:38.072Z"
+status: "active"
 ---
 
 # § 2633. Membership
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:18.745Z"
 - **(b)** Any vacancy on the Commission shall be filled in the manner in which the original appointment was made. The vacancy shall not affect the power of the remaining members to execute the duties of the Commission.
 - **(c)** The Commission shall elect a chairperson and a vice chairperson from among the members of the Commission.
 - **(d)** Eight members of the Commission shall constitute a quorum for all purposes, except that a lesser number may constitute a quorum for the purpose of holding hearings.
+
+## Source Credit
+
+*([Pub. L. 103–3, title III, § 303](https://www.govinfo.gov/link/plaw/103/public/3), Feb. 5, 1993, [107 Stat. 24](https://www.govinfo.gov/link/statute/107/24).)*

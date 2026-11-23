@@ -3,9 +3,10 @@ title: "Section 8803 - Funding"
 usc_title: 42
 usc_section: "8803"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8803"
-generated_at: "2026-03-30T02:56:11.347Z"
+generated_at: "2026-11-23T20:27:23.059Z"
+status: "active"
 ---
 
 # § 8803. Funding
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.347Z"
   - **(3)** If more than one form of financial assistance is to be provided to any one project, the obligations and commitments thereunder shall be counted at the maximum potential exposure of the United States on such project at any time during the life of such project.
   - **(4)** Any commitment to provide financial assistance shall be treated the same as such assistance for purposes of this subsection; except that any such commitment which is nullified or voided for any reason shall not be considered for purposes of this subsection.
 - **(d)** Financial assistance may be provided under this chapter only to the extent provided in advance in appropriation Acts.
+
+## Source Credit
+
+*([Pub. L. 96–294, title II, § 204](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 685](https://www.govinfo.gov/link/statute/94/685); [Pub. L. 97–35, title X](https://www.govinfo.gov/link/plaw/97/public/35), §§ 1061–1063, Aug. 13, 1981, [95 Stat. 622](https://www.govinfo.gov/link/statute/95/622).)*

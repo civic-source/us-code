@@ -3,9 +3,10 @@ title: "Section 5170b - Essential assistance"
 usc_title: 42
 usc_section: "5170b"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5170b"
-generated_at: "2026-03-30T02:56:11.224Z"
+generated_at: "2026-11-23T20:27:22.482Z"
+status: "active"
 ---
 
 # § 5170b. Essential assistance
@@ -45,3 +46,15 @@ generated_at: "2026-03-30T02:56:11.224Z"
     - **(B)** overtime and hazardous duty compensation for permanent employees of the State, tribal, or local government conducting emergency protective measures under this section.
   - **(2)** The guidelines for reimbursement for costs under paragraph (1) shall ensure that no State, tribal, or local government is denied reimbursement for overtime payments that are required pursuant to the Fair Labor Standards Act of 1938 ( 29 U.S.C. 201 et seq.).
   - **(3)** Nothing in this subsection shall affect the ability of the President to reimburse labor force expenses provided pursuant to an authorized mutual aid pact.
+
+Section
+
+Sec.
+
+Sec.
+
+J.R. Biden, Jr.
+
+## Source Credit
+
+*([Pub. L. 93–288, title IV, § 403](https://www.govinfo.gov/link/plaw/93/public/288), as added [Pub. L. 100–707, title I, § 106(a)(3)](https://www.govinfo.gov/link/plaw/100/public/707), Nov. 23, 1988, [102 Stat. 4697](https://www.govinfo.gov/link/statute/102/4697); amended [Pub. L. 109–295, title VI, § 689(b)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1449](https://www.govinfo.gov/link/statute/120/1449); [Pub. L. 109–308, § 4](https://www.govinfo.gov/link/plaw/109/public/308), Oct. 6, 2006, [120 Stat. 1726](https://www.govinfo.gov/link/statute/120/1726); [Pub. L. 113–2, div. B, § 1108(b)](https://www.govinfo.gov/link/plaw/113/public/2), Jan. 29, 2013, [127 Stat. 47](https://www.govinfo.gov/link/statute/127/47); [Pub. L. 115–254, div. D, § 1217(d)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3452](https://www.govinfo.gov/link/statute/132/3452).)*

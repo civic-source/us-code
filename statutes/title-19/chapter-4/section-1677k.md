@@ -3,9 +3,10 @@ title: "Section 1677k - Third-country dumping"
 usc_title: 19
 usc_section: "1677k"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1677k"
-generated_at: "2026-03-30T02:54:24.658Z"
+generated_at: "2026-11-23T20:26:10.876Z"
+status: "active"
 ---
 
 # § 1677k. Third-country dumping
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:24.658Z"
   - **(2)** At the request of the Trade Representative, the appropriate officers of the Department of Commerce and the United States International Trade Commission shall assist the Trade Representative in preparing the application under paragraph (1).
 - **(d)** After submitting an application under subsection (c)(1), the Trade Representative shall seek consultations with the appropriate authority of the Agreement country regarding the request for antidumping action.
 - **(e)** If the appropriate authority of an Agreement country refuses to undertake antidumping measures in response to a request made therefor by the Trade Representative under subsection (c), the Trade Representative shall promptly consult with the domestic industry on whether action under any other law of the United States is appropriate.
+
+## Source Credit
+
+*([Pub. L. 100–418, title I, § 1317](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1188](https://www.govinfo.gov/link/statute/102/1188); [Pub. L. 103–465, title VI, § 621(a)(1)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4992](https://www.govinfo.gov/link/statute/108/4992).)*

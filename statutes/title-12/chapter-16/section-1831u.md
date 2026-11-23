@@ -3,9 +3,10 @@ title: "Section 1831u - Interstate bank mergers"
 usc_title: 12
 usc_section: "1831u"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1831u"
-generated_at: "2026-03-30T02:53:53.462Z"
+generated_at: "2026-11-23T20:25:59.180Z"
+status: "active"
 ---
 
 # § 1831u. Interstate bank mergers
@@ -114,3 +115,11 @@ generated_at: "2026-03-30T02:53:53.462Z"
   - **(9)** The term “out-of-State bank holding company” means, with respect to any State, a bank holding company whose home State is another State.
   - **(10)** The term “responsible agency” means the agency determined in accordance with section 1828(c)(2) of this title with respect to a merger transaction.
   - **(11)** The term “resulting bank” means a bank that has resulted from an interstate merger transaction under this section.
+
+(aa) the issuance of exempt facility bonds for qualified residential rental property as set forth in section 142(d) of such title; and
+
+(bb) the issuance of low income housing tax credits as set forth in section 42 of such title; and
+
+## Source Credit
+
+*(Sept. 21, 1950, ch. 967, § 2 [44], as added [Pub. L. 103–328, title I, § 102(a)](https://www.govinfo.gov/link/plaw/103/public/328), Sept. 29, 1994, [108 Stat. 2343](https://www.govinfo.gov/link/statute/108/2343); amended [Pub. L. 106–102, title VII, § 731](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1477](https://www.govinfo.gov/link/statute/113/1477); [Pub. L. 111–32, title V, § 504(a)](https://www.govinfo.gov/link/plaw/111/public/32), June 24, 2009, [123 Stat. 1880](https://www.govinfo.gov/link/statute/123/1880); [Pub. L. 111–83, title V, § 563(a)](https://www.govinfo.gov/link/plaw/111/public/83), (b), Oct. 28, 2009, [123 Stat. 2183](https://www.govinfo.gov/link/statute/123/2183); [Pub. L. 111–203, title VI, § 607(b)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1608](https://www.govinfo.gov/link/statute/124/1608).)*

@@ -3,9 +3,10 @@ title: "Section 1359dd - Allocation of marketing allotments"
 usc_title: 7
 usc_section: "1359dd"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1359dd"
-generated_at: "2026-03-30T02:53:42.307Z"
+generated_at: "2026-11-23T20:25:41.136Z"
+status: "active"
 ---
 
 # § 1359dd. Allocation of marketing allotments
@@ -75,3 +76,23 @@ generated_at: "2026-03-30T02:53:42.307Z"
         - **(I)** If a new entrant acquires an existing factory that has processed sugar beets from the 1998 or subsequent crop year and has a production history, on the mutual agreement of the new entrant and the company currently holding the allocation associated with the factory, the Secretary shall transfer to the new entrant a portion of the allocation of the current allocation holder to reflect the historical contribution of the production of the 1 or more sold factories to the total allocation of the current allocation holder, unless the new entrant and current allocation holder have agreed upon the transfer of a different portion of the allocation of the current allocation holder, in which case, the Secretary shall transfer that portion agreed upon by the new entrant and the current allocation holder.
         - **(II)** In the absence of a mutual agreement described in subclause (I), the new entrant shall be ineligible for a beet sugar allocation.
       - **(iv)** Any decision made under this subsection may be appealed to the Secretary in accordance with section 1359ii of this title .
+
+(aa) does not have an allocation of the beet sugar allotment under this subpart;
+
+(bb) is not affiliated with any other individual, corporation, or entity that has an allocation of beet sugar under this subpart (referred to in this clause as a “third party”); and
+
+(cc) will process sugar beets produced by sugar beet growers under contract with the new entrant for the production of sugar at the new or re-opened factory that is the basis for the new entrant allocation.
+
+(aa) the third party has an ownership interest in the new entrant;
+
+(bb) the new entrant and the third party have owners in common;
+
+(cc) the third party has the ability to exercise control over the new entrant by organizational rights, contractual rights, or any other means;
+
+(dd) the third party has a contractual relationship with the new entrant by which the new entrant will make use of the facilities or assets of the third party; or
+
+(ee) there are any other similar circumstances by which the Secretary determines that the new entrant and the third party are affiliated.
+
+## Source Credit
+
+*(Feb. 16, 1938, ch. 30, title III, § 359d, as added [Pub. L. 107–171, title I, § 1403](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 191](https://www.govinfo.gov/link/statute/116/191); amended [Pub. L. 110–234, title I, § 1403(d)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 984](https://www.govinfo.gov/link/statute/122/984); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1403(d), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1712.)*

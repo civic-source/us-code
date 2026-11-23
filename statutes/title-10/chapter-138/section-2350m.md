@@ -3,9 +3,10 @@ title: "Section 2350m - Participation in European program on multilateral exchan
 usc_title: 10
 usc_section: "2350m"
 chapter: 138
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2350m"
-generated_at: "2026-03-30T02:53:38.156Z"
+generated_at: "2026-11-23T20:25:51.554Z"
+status: "active"
 ---
 
 # § 2350m. Participation in European program on multilateral exchange of surface transportation services
@@ -32,3 +33,35 @@ generated_at: "2026-03-30T02:53:38.156Z"
     - **(A)** A description of the equitable share of the costs and activities of the SEOS program paid by the Department of Defense.
     - **(B)** A description of any amount received by the Department of Defense as part of such program, including the country from which the amount was received.
 - **(f)** Nothing in this section may be construed to authorize the use of foreign sealift in violation of section 2631.
+
+Participation Authorized.—
+
+In general
+
+Scope of participation
+
+Written Arrangement or Agreement.—
+
+In general
+
+Notification
+
+Funding arrangements
+
+Other elements
+
+Implementation
+
+Crediting of Receipts
+
+Annual Report.—
+
+In general
+
+Elements
+
+Limitation on Statutory Construction
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. A, title XII, § 1202(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3908](https://www.govinfo.gov/link/statute/134/3908).)*

@@ -3,9 +3,10 @@ title: "Section 24309 - Retaining and maintaining facilities"
 usc_title: 49
 usc_section: "24309"
 chapter: 243
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 24309"
-generated_at: "2026-03-30T02:56:19.344Z"
+generated_at: "2026-11-23T20:27:34.853Z"
+status: "active"
 ---
 
 # § 24309. Retaining and maintaining facilities
@@ -33,3 +34,56 @@ generated_at: "2026-03-30T02:56:19.344Z"
     - **(E)** the extent to which providing transportation over the route would encourage the expansion of an intercity rail passenger system in the United States; and
     - **(F)** the possibility of increased ridership on a rail line that connects with the route.
 - **(e)** Downgrading or disposing of a facility under this section does not relieve a rail carrier from complying with its other common carrier or legal obligations related to the facility.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 24309(a) | 45:566(e)(1), (2). | Oct. 30, 1970 , Pub. L. 91–518 , 84 Stat. 1327 , § 406; added Sept. 29, 1979 , Pub. L. 96–73, § 121 , 93 Stat. 548 . |
+| 24309(b) | 45:566(a). |  |
+| 24309(c)(1) | 45:566(b). |  |
+| 24309(c)(2) | 45:566(d)(2). |  |
+| 24309(d)(1) | 45:566(c)(1). |  |
+| 24309(d)(2) | 45:566(c)(2), (d)(1). |  |
+| 24309(e) | 45:566(e)(3). |  |
+
+
+Definitions
+
+Approval Required for Downgrading or Disposal
+
+Notification and Analysis
+
+Approval of Application and Payment of Avoidable Costs
+
+Compliance With Other Obligations
+
+Historical and Revision Notes
+
+24309(a)
+
+Oct. 30, 1970
+
+Pub. L. 91–518
+
+84 Stat. 1327
+
+Sept. 29, 1979
+
+Pub. L. 96–73, § 121
+
+93 Stat. 548
+
+24309(b)
+
+24309(c)(1)
+
+24309(c)(2)
+
+24309(d)(1)
+
+24309(d)(2)
+
+24309(e)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 913](https://www.govinfo.gov/link/statute/108/913); [Pub. L. 105–134, title I, § 162](https://www.govinfo.gov/link/plaw/105/public/134), Dec. 2, 1997, [111 Stat. 2578](https://www.govinfo.gov/link/statute/111/2578).)*

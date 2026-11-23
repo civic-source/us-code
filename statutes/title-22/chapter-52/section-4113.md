@@ -3,9 +3,10 @@ title: "Section 4113 - Representation rights and duties"
 usc_title: 22
 usc_section: "4113"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4113"
-generated_at: "2026-03-30T02:55:05.407Z"
+generated_at: "2026-11-23T20:26:32.520Z"
+status: "active"
 ---
 
 # § 4113. Representation rights and duties
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:05.407Z"
   - **(2)** The Secretary shall approve the agreement within 30 days after the date of the agreement unless the Secretary finds in writing that the agreement is contrary to applicable law, rule, or regulation.
   - **(3)** Unless the Secretary disapproves the agreement by making a finding under paragraph (2), the agreement shall take effect after 30 days from its execution and shall be binding on the Department and the exclusive representative subject to all applicable laws, orders, and regulations.
 - **(g)** The Department shall consult with the exclusive representative with respect to Government-wide or multiagency matters affecting the rights, benefits, or obligations of individuals employed in agencies not authorized to utilize the Foreign Service personnel system. The exclusive representative shall be informed of any change proposed by the Department with respect to such matters, and shall be permitted reasonable time to present its views and recommendations regarding such change. The Department shall consider the views and recommendations of the exclusive representative before taking final action on any such change, and shall provide the exclusive representative a written statement of the reasons for taking the final action.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 1013](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2135](https://www.govinfo.gov/link/statute/94/2135).)*

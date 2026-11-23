@@ -3,9 +3,10 @@ title: "Section 324 - Institution of post-grant review"
 usc_title: 35
 usc_section: "324"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "35 U.S.C. § 324"
-generated_at: "2026-03-30T02:55:34.241Z"
+generated_at: "2026-11-23T20:26:49.152Z"
+status: "active"
 ---
 
 # § 324. Institution of post-grant review
@@ -17,3 +18,17 @@ generated_at: "2026-03-30T02:55:34.241Z"
   - **(2)** if no such preliminary response is filed, the last date on which such response may be filed.
 - **(d)** The Director shall notify the petitioner and patent owner, in writing, of the Director’s determination under subsection (a) or (b), and shall make such notice available to the public as soon as is practicable. Such notice shall include the date on which the review shall commence.
 - **(e)** The determination by the Director whether to institute a post-grant review under this section shall be final and nonappealable.
+
+Threshold
+
+Additional Grounds
+
+Timing
+
+Notice
+
+No Appeal
+
+## Source Credit
+
+*(Added [Pub. L. 112–29, § 6(d)](https://www.govinfo.gov/link/plaw/112/public/29), Sept. 16, 2011, [125 Stat. 306](https://www.govinfo.gov/link/statute/125/306).)*

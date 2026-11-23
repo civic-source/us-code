@@ -3,9 +3,10 @@ title: "Section 5201 - Findings"
 usc_title: 7
 usc_section: "5201"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 5201"
-generated_at: "2026-03-30T02:53:42.413Z"
+generated_at: "2026-11-23T20:25:41.642Z"
+status: "active"
 ---
 
 # § 5201. Findings
@@ -34,3 +35,7 @@ Congress finds that—
   - **(12)** in addition to meeting humanitarian needs, food aid used in sales and barter programs by private voluntary organizations and cooperatives—
     - **(A)** provides communities with health care, credit systems, and tools for development; and
     - **(B)** establishes the infrastructure that is essential to the expansion of markets for United States agricultural commodities and products.
+
+## Source Credit
+
+*([Pub. L. 100–418, title IV, § 4101](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1388](https://www.govinfo.gov/link/statute/102/1388); [Pub. L. 110–246, title III, § 3001(b)(1)(A)](https://www.govinfo.gov/link/plaw/110/public/246), (2)(J), June 18, 2008, [122 Stat. 1820](https://www.govinfo.gov/link/statute/122/1820).)*

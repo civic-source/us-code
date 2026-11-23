@@ -3,9 +3,10 @@ title: "Section 44921 - Federal flight deck officer program"
 usc_title: 49
 usc_section: "44921"
 chapter: 449
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44921"
-generated_at: "2026-03-30T02:56:19.393Z"
+generated_at: "2026-11-23T20:27:35.221Z"
+status: "active"
 ---
 
 # § 44921. Federal flight deck officer program
@@ -87,3 +88,115 @@ generated_at: "2026-03-30T02:56:19.393Z"
   - **(2)** The term “air transportation” includes all-cargo air transportation.
   - **(3)** The term “firearms training facility” means a private or government-owned gun range approved by the Administrator to provide recurrent or requalification training, as applicable, for the program, utilizing a Transportation Security Administration-approved contractor and a curriculum developed and approved by the Transportation Security Administration.
   - **(4)** The term “pilot” means an individual who has final authority and responsibility for the operation and safety of the flight or any other flight deck crew member.
+
+Establishment
+
+Procedural Requirements.—
+
+In general
+
+Commencement of program
+
+Issues to be addressed
+
+Preference
+
+Classified information
+
+Notice to congress
+
+Minimization of risk
+
+Training, Supervision, and Equipment.—
+
+In general
+
+Training.—
+
+In general
+
+Elements
+
+Training in use of firearms.—
+
+Standard
+
+Conduct of training.—
+
+In general
+
+Access to training facilities
+
+Requalification.—
+
+In general
+
+Use of facilities for requalification
+
+Periodic review
+
+Training review
+
+Deputization.—
+
+In general
+
+Qualification.—
+
+In general
+
+Consistency with requirements for certain medical certificates
+
+Deputization by other federal agencies
+
+Revocation
+
+Transfer from inactive to active status
+
+Compensation.—
+
+In general
+
+Facilitation of training
+
+Authority To Carry Firearms.—
+
+In general
+
+Preemption
+
+Carrying firearms outside united states
+
+Consistency with federal air marshal program
+
+Authority To Use Force
+
+Limitation on Liability.—
+
+Liability of air carriers
+
+Liability of federal flight deck officers
+
+Liability of federal government
+
+Procedures Following Accidental Discharges
+
+Limitation on Authority of Air Carriers
+
+Applicability
+
+Definitions
+
+Administrator
+
+Air transportation
+
+Firearms training facility
+
+Pilot
+
+“Not later than 180 days after the date of enactment of this Act [ Oct. 5, 2018 ]—
+
+## Source Credit
+
+*(Added [Pub. L. 107–296, title XIV, § 1402(a)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2300](https://www.govinfo.gov/link/statute/116/2300); amended [Pub. L. 108–176, title VI, § 609(b)](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2570](https://www.govinfo.gov/link/statute/117/2570); [Pub. L. 115–254, div. K, title I, § 1963(a)](https://www.govinfo.gov/link/plaw/115/public/254) –(h), Oct. 5, 2018, [132 Stat. 3601–3603](https://www.govinfo.gov/link/statute/132/3601).)*

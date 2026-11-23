@@ -3,9 +3,10 @@ title: "Section 2902 - Definitions"
 usc_title: 7
 usc_section: "2902"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2902"
-generated_at: "2026-03-30T02:53:42.392Z"
+generated_at: "2026-11-23T20:25:41.549Z"
+status: "active"
 ---
 
 # § 2902. Definitions
@@ -30,3 +31,7 @@ For purposes of this chapter—
   - **(16)** the term “Secretary” means the Secretary of Agriculture;
   - **(17)** The 2 term “State” means each of the 50 States; and
   - **(18)** the term “United States” means the several States and the District of Columbia.
+
+## Source Credit
+
+*([Pub. L. 94–294, § 3](https://www.govinfo.gov/link/plaw/94/public/294), May 28, 1976, [90 Stat. 530](https://www.govinfo.gov/link/statute/90/530); [Pub. L. 99–198, title XVI, § 1601(b)](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1598](https://www.govinfo.gov/link/statute/99/1598).)*

@@ -3,9 +3,10 @@ title: "Section 271 - Infringement of patent"
 usc_title: 35
 usc_section: "271"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "35 U.S.C. § 271"
-generated_at: "2026-03-30T02:55:34.239Z"
+generated_at: "2026-11-23T20:26:49.139Z"
+status: "active"
 ---
 
 # § 271. Infringement of patent
@@ -45,3 +46,13 @@ generated_at: "2026-03-30T02:55:34.239Z"
   - **(2)** it becomes a trivial and nonessential component of another product.
 - **(h)** As used in this section, the term “whoever” includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this title in the same manner and to the same extent as any nongovernmental entity.
 - **(i)** As used in this section, an “offer for sale” or an “offer to sell” by a person other than the patentee, or any designee of the patentee, is that in which the sale will occur before the expiration of the term of the patent.
+
+In General
+
+Exceptions
+
+Retention of Other Remedies
+
+## Source Credit
+
+*(July 19, 1952, ch. 950, [66 Stat. 811](https://www.govinfo.gov/link/statute/66/811); [Pub. L. 98–417, title II, § 202](https://www.govinfo.gov/link/plaw/98/public/417), Sept. 24, 1984, [98 Stat. 1603](https://www.govinfo.gov/link/statute/98/1603); [Pub. L. 98–622, title I, § 101(a)](https://www.govinfo.gov/link/plaw/98/public/622), Nov. 8, 1984, [98 Stat. 3383](https://www.govinfo.gov/link/statute/98/3383); [Pub. L. 100–418, title IX, § 9003](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1563](https://www.govinfo.gov/link/statute/102/1563); [Pub. L. 100–670, title II, § 201(i)](https://www.govinfo.gov/link/plaw/100/public/670), Nov. 16, 1988, [102 Stat. 3988](https://www.govinfo.gov/link/statute/102/3988); [Pub. L. 100–703, title II, § 201](https://www.govinfo.gov/link/plaw/100/public/703), Nov. 19, 1988, [102 Stat. 4676](https://www.govinfo.gov/link/statute/102/4676); [Pub. L. 102–560, § 2(a)(1)](https://www.govinfo.gov/link/plaw/102/public/560), Oct. 28, 1992, [106 Stat. 4230](https://www.govinfo.gov/link/statute/106/4230); [Pub. L. 103–465, title V, § 533(a)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4988](https://www.govinfo.gov/link/statute/108/4988); [Pub. L. 108–173, title XI, § 1101(d)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2457](https://www.govinfo.gov/link/statute/117/2457); [Pub. L. 111–148, title VII, § 7002(c)(1)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 815](https://www.govinfo.gov/link/statute/124/815).)*

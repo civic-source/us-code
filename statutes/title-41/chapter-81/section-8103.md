@@ -3,9 +3,10 @@ title: "Section 8103 - Drug-free workplace requirements for Federal grant recipi
 usc_title: 41
 usc_section: "8103"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 8103"
-generated_at: "2026-03-30T02:55:55.811Z"
+generated_at: "2026-11-23T20:27:04.482Z"
+status: "active"
 ---
 
 # § 8103. Drug-free workplace requirements for Federal grant recipients
@@ -32,3 +33,42 @@ generated_at: "2026-03-30T02:55:55.811Z"
     - **(B)** the number of employees of the grantee who have been convicted of violations of criminal drug statutes for violations occurring in the workplace indicates that the grantee has failed to make a good faith effort to provide a drug-free workplace as required by subsection (a)(1).
   - **(2)** A suspension of payments, termination, or suspension or debarment proceeding subject to this subsection shall be conducted in accordance with applicable law, including Executive Order 12549 or any superseding executive order and any regulations prescribed to implement the law or executive order.
   - **(3)** A grantee debarred by a final decision under this subsection is ineligible for award of a grant by a Federal agency, and for participation in a future grant by a Federal agency, for a period specified in the decision, not to exceed 5 years.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 8103 | 41:702. | Pub. L. 100–690, title V, § 5153 , Nov. 18, 1988 , 102 Stat. 4306 ; Pub. L. 105–85, div. A, title VIII, § 809 , Nov. 18, 1997 , 111 Stat. 1838 . |
+
+
+In General.—
+
+Persons other than individuals
+
+Individuals
+
+Suspension, Termination, or Debarment of Grantee.—
+
+Grounds for suspension, termination, or debarment
+
+Conduct of suspension, termination, and debarment proceedings
+
+Effect of debarment
+
+Historical and Revision Notes
+
+8103
+
+Pub. L. 100–690, title V, § 5153
+
+Nov. 18, 1988
+
+102 Stat. 4306
+
+Pub. L. 105–85, div. A, title VIII, § 809
+
+Nov. 18, 1997
+
+111 Stat. 1838
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3828](https://www.govinfo.gov/link/statute/124/3828).)*

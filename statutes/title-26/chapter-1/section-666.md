@@ -3,9 +3,10 @@ title: "Section 666 - Accumulation distribution allocated to preceding years"
 usc_title: 26
 usc_section: "666"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 666"
-generated_at: "2026-03-30T02:55:27.723Z"
+generated_at: "2026-11-23T20:26:45.855Z"
+status: "active"
 ---
 
 # § 666. Accumulation distribution allocated to preceding years
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:27.723Z"
 - **(c)** If any portion of an accumulation distribution for any taxable year is deemed under subsection (a) to be an amount within the meaning of paragraph (2) of section 661(a) distributed on the last day of any preceding taxable year and such portion of the accumulation distribution is less than the undistributed net income for such preceding taxable year, the trust shall be deemed to have distributed on the last day of such preceding taxable year an additional amount within the meaning of paragraph (2) of section 661(a). Such additional amount shall be equal to the taxes (other than the tax imposed by section 55) imposed on the trust for such taxable year attributable to the undistributed net income multiplied by the ratio of the portion of the accumulation distribution to the undistributed net income of the trust for such year. For purposes of this subsection, the undistributed net income and the taxes imposed on the trust for such preceding taxable year attributable to such undistributed net income shall be computed without regard to the accumulation distribution and without regard to any accumulation distribution determined for any succeeding taxable year.
 - **(d)** If adequate records are not available to determine the proper application of this subpart to an amount distributed by a trust, such amount shall be deemed to be an accumulation distribution consisting of undistributed net income earned during the earliest preceding taxable year of the trust in which it can be established that the trust was in existence.
 - **(e)** No refund or credit shall be allowed to a trust or a beneficiary of such trust for any preceding taxable year by reason of a distribution deemed to have been made by such trust in such year under this section.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 224; [Pub. L. 87–834, § 7(c)](https://www.govinfo.gov/link/plaw/87/public/834), Oct. 16, 1962, [76 Stat. 986](https://www.govinfo.gov/link/statute/76/986); [Pub. L. 91–172, title III, § 331(a)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 593](https://www.govinfo.gov/link/statute/83/593); [Pub. L. 94–455, title VII, § 701(a)(2)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1577](https://www.govinfo.gov/link/statute/90/1577); [Pub. L. 95–600, title IV, § 421(d)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2875](https://www.govinfo.gov/link/statute/92/2875); [Pub. L. 96–222, title I, § 104(a)(4)(H)(vi)](https://www.govinfo.gov/link/plaw/96/public/222), Apr. 1, 1980, [94 Stat. 218](https://www.govinfo.gov/link/statute/94/218).)*

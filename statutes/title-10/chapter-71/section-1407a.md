@@ -3,9 +3,10 @@ title: "Section 1407a - Retired pay base: officers retired in general or flag of
 usc_title: 10
 usc_section: "1407a"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1407a"
-generated_at: "2026-03-30T02:53:38.119Z"
+generated_at: "2026-11-23T20:25:51.318Z"
+status: "active"
 ---
 
 # § 1407a. Retired pay base: officers retired in general or flag officer grades
@@ -19,3 +20,23 @@ generated_at: "2026-03-30T02:53:38.119Z"
 - **(d)** In this section, the term “covered general or flag officer” means a member or former member of a uniformed service who after September 30, 2006 —
   - **(1)** is retired in a general officer grade or flag officer grade (or an equivalent grade, in the case of an officer of the commissioned corps of the Public Health Service or the National Oceanic and Atmospheric Administration); or
   - **(2)** is transferred to the Retired Reserve in a general officer grade or flag officer grade.
+
+Rates of Basic Pay to Be Used in Determination
+
+Partial Preservation of Computation of Retired Pay Base Using Uncapped Rates of Basic Pay for Covered Officers Who First Became Members Before September
+
+, and Whose Retired Pay Commences After December
+
+Officers retiring after december 31, 2014
+
+Alternative determination of retired pay base using uncapped rates of basic pay as of december 31, 2014
+
+Exception for officer retired in a lower grade
+
+Preservation of Computation of Retired Pay Base Using Uncapped Rates of Basic Pay for Officers Transferring to Retired Reserve During Specified Period
+
+Covered General or Flag Officer Defined
+
+## Source Credit
+
+*(Added [Pub. L. 109–364, div. A, title VI, § 641(a)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2258](https://www.govinfo.gov/link/statute/120/2258); amended [Pub. L. 113–291, div. A, title VI, § 622(a)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3401](https://www.govinfo.gov/link/statute/128/3401).)*

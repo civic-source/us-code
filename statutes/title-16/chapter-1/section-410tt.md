@@ -3,9 +3,10 @@ title: "Section 410tt - Findings"
 usc_title: 16
 usc_section: "410tt"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 410tt"
-generated_at: "2026-03-30T02:54:22.770Z"
+generated_at: "2026-11-23T20:26:19.490Z"
+status: "active"
 ---
 
 # § 410tt. Findings
@@ -20,3 +21,7 @@ The Congress finds that the Salt River Bay area of the north central coast of St
   - **(6)** has been a national natural landmark since February 1980 and has been nominated for acquisition as a nationally significant wildlife habitat;
   - **(7)** contains the largest remaining mangrove forest in the United States Virgin Islands and a variety of tropical marine and terrestrial ecosystems which should be preserved and kept unimpaired for the benefit of present and future generations; and
   - **(8)** is worthy of a comprehensive preservation effort that should be carried out in partnership between the Federal Government and the Government of the United States Virgin Islands.
+
+## Source Credit
+
+*([Pub. L. 102–247, title I, § 102](https://www.govinfo.gov/link/plaw/102/public/247), Feb. 24, 1992, [106 Stat. 33](https://www.govinfo.gov/link/statute/106/33).)*

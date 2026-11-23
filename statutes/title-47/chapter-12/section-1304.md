@@ -3,9 +3,10 @@ title: "Section 1304 - Encouraging State initiatives to improve broadband"
 usc_title: 47
 usc_section: "1304"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 1304"
-generated_at: "2026-03-30T02:56:24.530Z"
+generated_at: "2026-11-23T20:27:28.986Z"
+status: "active"
 ---
 
 # § 1304. Encouraging State initiatives to improve broadband
@@ -67,3 +68,7 @@ generated_at: "2026-03-30T02:56:24.530Z"
       - **(iii)** an independent agency or commission in which an office of a State is a member on behalf of the State; and
     - **(B)** is the single eligible entity in the State that has been designated by the State to receive a grant under this section.
 - **(j)** Nothing in this section shall be construed as giving any public or private entity established or affected by this chapter any regulatory jurisdiction or oversight authority over providers of broadband services or information technology.
+
+## Source Credit
+
+*([Pub. L. 110–385, title I, § 106](https://www.govinfo.gov/link/plaw/110/public/385), Oct. 10, 2008, [122 Stat. 4099](https://www.govinfo.gov/link/statute/122/4099).)*

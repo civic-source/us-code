@@ -3,9 +3,10 @@ title: "Section 3207 - Application of provisions of Federal law"
 usc_title: 29
 usc_section: "3207"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3207"
-generated_at: "2026-03-30T02:55:18.756Z"
+generated_at: "2026-11-23T20:26:38.112Z"
+status: "active"
 ---
 
 # § 3207. Application of provisions of Federal law
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:18.756Z"
   - **(4)** For purposes of the Federal tort claims provisions in title 28, enrollees shall be considered to be employees of the Government.
 - **(b)** Whenever the Secretary finds a claim for damages to a person or property resulting from the operation of the Job Corps to be a proper charge against the United States, and the claim is not cognizable under section 2672 of title 28 , the Secretary may adjust and settle the claim in an amount not exceeding $1,500.
 - **(c)** Personnel of the uniformed services who are detailed or assigned to duty in the performance of agreements made by the Secretary for the support of the Job Corps shall not be counted in computing strength under any law limiting the strength of such services or in computing the percentage authorized by law for any grade in such services.
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 157](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1552](https://www.govinfo.gov/link/statute/128/1552).)*

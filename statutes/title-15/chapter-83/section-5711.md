@@ -3,9 +3,10 @@ title: "Section 5711 - Federal Trade Commission regulations"
 usc_title: 15
 usc_section: "5711"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 5711"
-generated_at: "2026-03-30T02:54:08.208Z"
+generated_at: "2026-11-23T20:26:04.377Z"
+status: "active"
 ---
 
 # § 5711. Federal Trade Commission regulations
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:54:08.208Z"
   - **(8)** A rule issued under this subsection shall be treated as a rule issued under section 57a(a)(1)(B) of this title .
 - **(b)** The Commission shall prescribe the rules under subsection (a) within 270 days after October 28, 1992 . Such rules shall be prescribed in accordance with section 553 of title 5 .
 - **(c)** Any violation of any rule prescribed under subsection (a) shall be treated as a violation of a rule respecting unfair or deceptive acts or practices under section 45 of this title . Notwithstanding section 45(a)(2) of this title , communications common carriers shall be subject to the jurisdiction of the Commission for purposes of this subchapter.
+
+## Source Credit
+
+*([Pub. L. 102–556, title II, § 201](https://www.govinfo.gov/link/plaw/102/public/556), Oct. 28, 1992, [106 Stat. 4187](https://www.govinfo.gov/link/statute/106/4187).)*

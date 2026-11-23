@@ -3,12 +3,17 @@ title: "Section 107 - Penalty for false information"
 usc_title: 43
 usc_section: "107"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 107"
-generated_at: "2026-03-30T02:55:57.435Z"
+generated_at: "2026-11-23T20:27:06.169Z"
+status: "active"
 ---
 
 # § 107. Penalty for false information
 
 If any person applies to any officer designated by the Secretary of the Interior to enter any land whatever, and the officer knowingly and falsely informs the person so applying that the same has already been entered, and refuses to permit the person so applying to enter the same, such officer shall be liable therefor, to the person so applying, for $5 for each acre of land which the person so applying offered to enter, to be recovered by action of debt in any court of record having jurisdiction of the amount.
 
+
+## Source Credit
+
+*(R.S. § 2247; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, [60 Stat. 1100](https://www.govinfo.gov/link/statute/60/1100).)*

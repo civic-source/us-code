@@ -3,9 +3,10 @@ title: "Section 2323 - Technical assistance to private entities"
 usc_title: 33
 usc_section: "2323"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2323"
-generated_at: "2026-03-30T02:55:41.123Z"
+generated_at: "2026-11-23T20:26:54.177Z"
+status: "active"
 ---
 
 # § 2323. Technical assistance to private entities
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:41.123Z"
   - **(4)** if the entity has agreed to hold and save the United States free from any damages due to any such research and development assistance.
 - **(b)** The Secretary may provide research and development assistance under subsection (a), or any part thereof, by contract.
 - **(c)**
+
+## Source Credit
+
+*([Pub. L. 101–640, title III, § 318](https://www.govinfo.gov/link/plaw/101/public/640), Nov. 28, 1990, [104 Stat. 4641](https://www.govinfo.gov/link/statute/104/4641).)*

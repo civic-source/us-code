@@ -3,9 +3,10 @@ title: "Section 4a - Loan programs to reduce economic dependence on illicit narc
 usc_title: 22
 usc_section: "4a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4a"
-generated_at: "2026-03-30T02:55:05.307Z"
+generated_at: "2026-11-23T20:26:31.927Z"
+status: "active"
 ---
 
 # § 262p–4a. Loan programs to reduce economic dependence on illicit narcotics
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.307Z"
   - **(6)** the appropriate role for the multilateral development banks in the “War Against Drugs” is through coordinating and financing alternative economic opportunities in producer and trafficking countries.
 - **(b)** The Secretary of the Treasury shall instruct the United States Executive Director of the International Bank for Reconstruction and Development and the United States Executive Director of the Inter-American Development Bank to initiate discussions with other executive directors of such institutions and to advocate and support the creation, within such institutions, of specific country lending programs and policies (including crop substitution, creation of roads conducive to the expansion of markets for licit goods, other infrastructure development measures such as development projects generating employment, agricultural extension assistance, and region-specific development plans) which are particularly oriented to reducing or eliminating the economic dependence of regions of borrowing countries known to be areas in which illicit narcotics are produced or trafficked, on such production and trafficking.
 - **(c)** In addition, the Secretary of the Treasury should instruct the United States Executive Director of the International Bank for Reconstruction and Development and the United States Executive Director of the Inter-American Development Bank to encourage such institutions to provide coordination among other multilateral and bilateral assistance programs designed to reduce the economic dependence of regions of borrowing countries known to be areas in which illicit narcotics are produced or trafficked, on such production and trafficking.
+
+## Source Credit
+
+*([Pub. L. 95–118, title XVI, § 1606](https://www.govinfo.gov/link/plaw/95/public/118), as added [Pub. L. 100–461, title V, § 555](https://www.govinfo.gov/link/plaw/100/public/461), Oct. 1, 1988, [102 Stat. 2268–36](https://www.govinfo.gov/link/statute/102/2268).)*

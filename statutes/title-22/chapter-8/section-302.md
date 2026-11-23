@@ -3,9 +3,10 @@ title: "Section 302 - Award of contracts"
 usc_title: 22
 usc_section: "302"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 302"
-generated_at: "2026-03-30T02:55:05.327Z"
+generated_at: "2026-11-23T20:26:32.056Z"
+status: "active"
 ---
 
 # § 302. Award of contracts
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:05.327Z"
 - **(c)** Contracts for construction, alteration, or repair in the United States for or on behalf of any foreign mission (as defined in section 202(a)(4) 1 1 See References in Text note below. of title II of the State Department Basic Authorities Act of 1956 ( 22 U.S.C. 4302(a)(4) ) may, pursuant to the authority of that title [ 22 U.S.C. 4301 et seq.], only be awarded to or performed by bidders qualifying under subsection (a) (1) or (2) or by nationals of the country for which the contract is being performed who are granted the right of entry into the United States for that purpose.
 - **(d)** Determinations under this section shall be committed to the discretion of the Secretary of State.
 - **(e)** This section shall cease to be effective when the Secretary of State determines that there are internationally-agree-upon 2 2 So in original. Probably should be “internationally-agreed-upon”. rules in effect on bidding for construction contracts.
+
+## Source Credit
+
+*(May 7, 1926, ch. 250, § 11, as added [Pub. L. 98–164, title I, § 136](https://www.govinfo.gov/link/plaw/98/public/164), Nov. 22, 1983, [97 Stat. 1029](https://www.govinfo.gov/link/statute/97/1029); amended [Pub. L. 107–228, div. A, title II, § 206(a)](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1364](https://www.govinfo.gov/link/statute/116/1364).)*

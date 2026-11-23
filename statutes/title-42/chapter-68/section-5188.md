@@ -3,9 +3,10 @@ title: "Section 5188 - Timber sale contracts"
 usc_title: 42
 usc_section: "5188"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5188"
-generated_at: "2026-03-30T02:56:11.226Z"
+generated_at: "2026-11-23T20:27:22.493Z"
+status: "active"
 ---
 
 # § 5188. Timber sale contracts
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.226Z"
 - **(b)** If the appropriate Secretary determines that damages are so great that restoration, reconstruction, or construction is not practical under the cost-sharing arrangement authorized by subsection (a) of this section, he may allow cancellation of a contract entered into by his Department notwithstanding contrary provisions therein.
 - **(c)** The Secretary of Agriculture is authorized to reduce to seven days the minimum period of advance public notice required by section 476 1 1 See References in Text note below. of title 16, in connection with the sale of timber from national forests, whenever the Secretary determines that (1) the sale of such timber will assist in the construction of any area of a State damaged by a major disaster, (2) the sale of such timber will assist in sustaining the economy of such area, or (3) the sale of such timber is necessary to salvage the value of timber damaged in such major disaster or to protect undamaged timber.
 - **(d)** The President, when he determines it to be in the public interest, is authorized to make grants to any State or local government for the purpose of removing from privately owned lands timber damaged as a result of a major disaster, and such State or local government is authorized upon application, to make payments out of such grants to any person for reimbursement of expenses actually incurred by such person in the removal of damaged timber, not to exceed the amount that such expenses exceed the salvage value of such timber.
+
+## Source Credit
+
+*([Pub. L. 93–288, title IV, § 421](https://www.govinfo.gov/link/plaw/93/public/288), formerly § 418, May 22, 1974, [88 Stat. 158](https://www.govinfo.gov/link/statute/88/158); renumbered § 421, [Pub. L. 100–707, title I, § 106(j)](https://www.govinfo.gov/link/plaw/100/public/707), Nov. 23, 1988, [102 Stat. 4705](https://www.govinfo.gov/link/statute/102/4705).)*

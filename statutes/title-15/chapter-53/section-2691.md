@@ -3,9 +3,10 @@ title: "Section 2691 - General provisions relating to administrative proceedings
 usc_title: 15
 usc_section: "2691"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2691"
-generated_at: "2026-03-30T02:54:08.181Z"
+generated_at: "2026-11-23T20:26:04.246Z"
+status: "active"
 ---
 
 # § 2691. General provisions relating to administrative proceedings
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:08.181Z"
   - **(3)** The promulgated rule may not be based (in part or whole) on any information or data which has not been placed in the docket as of the date of such promulgation.
 - **(e)** The material referred to in subsection (c)(2)(B) shall not be included in the record for judicial review.
 - **(f)** The requirements of this section shall take effect with respect to any rule the proposal of which occurs after 90 days after October 28, 1992 .
+
+## Source Credit
+
+*([Pub. L. 94–469, title IV, § 411](https://www.govinfo.gov/link/plaw/94/public/469), as added [Pub. L. 102–550, title X, § 1021(a)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3922](https://www.govinfo.gov/link/statute/106/3922).)*

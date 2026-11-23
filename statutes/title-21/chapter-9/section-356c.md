@@ -3,9 +3,10 @@ title: "Section 356c - Discontinuance or interruption in the production of life-
 usc_title: 21
 usc_section: "356c"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 356c"
-generated_at: "2026-03-30T02:54:54.243Z"
+generated_at: "2026-11-23T20:26:27.612Z"
+status: "active"
 ---
 
 # § 356c. Discontinuance or interruption in the production of life-saving drugs
@@ -56,3 +57,21 @@ generated_at: "2026-03-30T02:54:54.243Z"
     - **(C)** publish the final regulation not less than 30 days before the regulation’s effective date.
   - **(5)** Notwithstanding any other provision of Federal law, in implementing this section, the Secretary shall only promulgate regulations as described in paragraph (4).
 - **(j)** Each manufacturer of a drug described in subsection (a) or of any active pharmaceutical ingredient or any associated medical device used for preparation or administration included in the drug, shall develop, maintain, and implement, as appropriate, a redundancy risk management plan that identifies and evaluates risks to the supply of the drug, as applicable, for each establishment in which such drug or active pharmaceutical ingredient of such drug is manufactured. A risk management plan under this section shall be subject to inspection and copying by the Secretary pursuant to an inspection or a request under section 374(a)(4) of this title .
+
+“The submission of a notification to the Secretary of Health and Human Services (referred to in this title [see Tables for classification] as the ‘Secretary’) for purposes of complying with the requirement in section 506C(a) of the Federal Food, Drug, and Cosmetic Act [ 21 U.S.C. 356c(a) ] (as amended by subsection (a)) shall not be construed—
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 506C, as added [Pub. L. 105–115, title I, § 131(a)](https://www.govinfo.gov/link/plaw/105/public/115), Nov. 21, 1997, [111 Stat. 2332](https://www.govinfo.gov/link/statute/111/2332); amended [Pub. L. 112–144, title X, § 1001(a)](https://www.govinfo.gov/link/plaw/112/public/144), July 9, 2012, [126 Stat. 1099](https://www.govinfo.gov/link/statute/126/1099); [Pub. L. 114–255, div. A, title III, § 3101(a)(2)(E)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1153](https://www.govinfo.gov/link/statute/130/1153); [Pub. L. 116–136, div. A, title III](https://www.govinfo.gov/link/plaw/116/public/136), §§ 3111–3112(b), Mar. 27, 2020, [134 Stat. 361](https://www.govinfo.gov/link/statute/134/361), 362; [Pub. L. 117–328, div. FF, title II, § 2515(a)(1)](https://www.govinfo.gov/link/plaw/117/public/328), (b)(1), Dec. 29, 2022, [136 Stat. 5806](https://www.govinfo.gov/link/statute/136/5806).)*

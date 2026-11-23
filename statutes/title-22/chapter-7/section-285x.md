@@ -3,9 +3,10 @@ title: "Section 285x - Additional subscription to shares"
 usc_title: 22
 usc_section: "285x"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 285x"
-generated_at: "2026-03-30T02:55:05.317Z"
+generated_at: "2026-11-23T20:26:31.999Z"
+status: "active"
 ---
 
 # § 285x. Additional subscription to shares
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:05.317Z"
     - **(A)** Taiwan, Republic of China, should remain a full member of the Asian Development Bank, and that its status within that body should remain unaltered no matter how the issue of the People’s Republic of China’s application for membership is disposed of;
     - **(B)** the President and the Secretary of State should express support of Taiwan, Republic of China, making it clear that the United States will not countenance attempts to expel Taiwan, Republic of China, from the Asian Development Bank; and
     - **(C)** the Secretary of the Senate and Clerk of the House shall transmit a copy of this resolution to the President with the request that he transmit such copy to the Board of Governors of the Asian Development Bank.
+
+## Source Credit
+
+*([Pub. L. 89–369, § 27](https://www.govinfo.gov/link/plaw/89/public/369), as added [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title X, § 1002], Nov. 30, 1983, [97 Stat. 1285](https://www.govinfo.gov/link/statute/97/1285).)*

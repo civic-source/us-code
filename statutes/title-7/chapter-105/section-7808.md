@@ -3,9 +3,10 @@ title: "Section 7808 - Investigations and power to subpoena"
 usc_title: 7
 usc_section: "7808"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7808"
-generated_at: "2026-03-30T02:53:42.464Z"
+generated_at: "2026-11-23T20:25:41.847Z"
+status: "active"
 ---
 
 # § 7808. Investigations and power to subpoena
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:42.464Z"
   - **(2)** The court may issue an order requiring the person referred to in paragraph (1) to comply with a subpoena referred to in paragraph (1).
   - **(3)** Any failure to obey the order of the court may be punished by the court as a contempt of court.
   - **(4)** Process in any proceeding under this subsection may be served in the United States judicial district in which the person being proceeded against resides or conducts business, or wherever the person may be found.
+
+## Source Credit
+
+*([Pub. L. 106–387, § 1(a) [title XII, § 1209]](https://www.govinfo.gov/link/plaw/106/public/387), Oct. 28, 2000, [114 Stat. 1549](https://www.govinfo.gov/link/statute/114/1549), 1549A–95.)*

@@ -3,9 +3,10 @@ title: "Section 1426 - Capital structure of Federal home loan banks"
 usc_title: 12
 usc_section: "1426"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1426"
-generated_at: "2026-03-30T02:53:53.390Z"
+generated_at: "2026-11-23T20:25:58.807Z"
+status: "active"
 ---
 
 # § 1426. Capital structure of Federal home loan banks
@@ -94,3 +95,7 @@ generated_at: "2026-03-30T02:53:53.390Z"
   - **(1)** The holders of the Class B stock of a Federal home loan bank shall own the retained earnings, surplus, undivided profits, and equity reserves, if any, of the bank.
   - **(2)** Except as specifically provided in this section or through the declaration of a dividend or a capital distribution by a Federal home loan bank, or in the event of liquidation of the bank, a member shall have no right to withdraw or otherwise receive distribution of any portion of the retained earnings of the bank.
   - **(3)** A Federal home loan bank may not make any distribution of its retained earnings unless, following such distribution, the bank would continue to meet all applicable capital requirements.
+
+## Source Credit
+
+*(July 22, 1932, ch. 522, § 6, [47 Stat. 727](https://www.govinfo.gov/link/statute/47/727); June 27, 1934, ch. 847, § 509, [48 Stat. 1264](https://www.govinfo.gov/link/statute/48/1264); May 28, 1935, ch. 150, § 2, [49 Stat. 293](https://www.govinfo.gov/link/statute/49/293); June 27, 1950, ch. 369, § 2, [64 Stat. 257](https://www.govinfo.gov/link/statute/64/257); Aug. 11, 1955, ch. 783, title I, § 109(a)(1), [69 Stat. 640](https://www.govinfo.gov/link/statute/69/640); [Pub. L. 87–210](https://www.govinfo.gov/link/plaw/87/public/210), §§ 1, 2, Sept. 8, 1961, [75 Stat. 482](https://www.govinfo.gov/link/statute/75/482), 483; [Pub. L. 96–153, title III, § 327](https://www.govinfo.gov/link/plaw/96/public/153), Dec. 21, 1979, [93 Stat. 1121](https://www.govinfo.gov/link/statute/93/1121); [Pub. L. 97–320, title III](https://www.govinfo.gov/link/plaw/97/public/320), §§ 353, 355, Oct. 15, 1982, [96 Stat. 1507](https://www.govinfo.gov/link/statute/96/1507), 1508; [Pub. L. 97–457, § 16](https://www.govinfo.gov/link/plaw/97/public/457), Jan. 12, 1983, [96 Stat. 2509](https://www.govinfo.gov/link/statute/96/2509); [Pub. L. 101–73, title VII](https://www.govinfo.gov/link/plaw/101/public/73), §§ 701(b)(1), (3)(A), 706, 710(b)(2), (3), 715, Aug. 9, 1989, [103 Stat. 412](https://www.govinfo.gov/link/statute/103/412), 416, 418, 421; [Pub. L. 106–102, title VI, § 608](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1456](https://www.govinfo.gov/link/statute/113/1456); [Pub. L. 106–569, title XII, § 1224](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 3036](https://www.govinfo.gov/link/statute/114/3036); [Pub. L. 110–289, div. A, title I, § 1110(b)](https://www.govinfo.gov/link/plaw/110/public/289), title II, § 1204(4), (10), July 30, 2008, [122 Stat. 2676](https://www.govinfo.gov/link/statute/122/2676), 2786.)*

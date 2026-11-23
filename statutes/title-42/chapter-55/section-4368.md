@@ -3,9 +3,10 @@ title: "Section 4368 - Grants to qualified citizens groups"
 usc_title: 42
 usc_section: "4368"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4368"
-generated_at: "2026-03-30T02:56:11.202Z"
+generated_at: "2026-11-23T20:27:22.379Z"
+status: "active"
 ---
 
 # § 4368. Grants to qualified citizens groups
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.202Z"
     - **(C)** a description of the proposed activities for the succeeding one year period.
   - **(6)** A grant made under this program shall not exceed 75 per centum of the estimated cost of the project or program for which the grant is made, and no group shall receive more than $50,000 in any one year.
   - **(7)** No financial assistance provided under this section shall be used to support lobbying or litigation by any recipient group.
+
+## Source Credit
+
+*([Pub. L. 95–477, § 3(d)](https://www.govinfo.gov/link/plaw/95/public/477), Oct. 18, 1978, [92 Stat. 1509](https://www.govinfo.gov/link/statute/92/1509).)*

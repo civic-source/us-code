@@ -3,9 +3,10 @@ title: "Section 669a - Definitions"
 usc_title: 16
 usc_section: "669a"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 669a"
-generated_at: "2026-03-30T02:54:22.891Z"
+generated_at: "2026-11-23T20:26:20.213Z"
+status: "active"
 ---
 
 # § 669a. Definitions
@@ -36,3 +37,11 @@ As used in this chapter—
   - **(9)** the term “wildlife conservation and restoration program” means a program developed by a State fish and wildlife department and approved by the Secretary under section 669c(d) 2 2 See References in Text note below. of this title, the projects that constitute such a program, which may be implemented in whole or part through grants and contracts by a State to other State, Federal, or local agencies (including those that gather, evaluate, and disseminate information on wildlife and their habitats), wildlife conservation organizations, and outdoor recreation and conservation education entities from funds apportioned under this chapter, 2 and maintenance of such projects;
   - **(10)** the term “wildlife conservation education” means projects, including public outreach, intended to foster responsible natural resource stewardship; and
   - **(11)** the term “wildlife-restoration project” includes the wildlife conservation and restoration program and means the selection, restoration, rehabilitation, and improvement of areas of land or water adaptable as feeding, resting, or breeding places for wildlife, including acquisition of such areas or estates or interests therein as are suitable or capable of being made suitable therefor, and the construction thereon or therein of such works as may be necessary to make them available for such purposes and also including such research into problems of wildlife management as may be necessary to efficient administration affecting wildlife resources, and such preliminary or incidental costs and expenses as may be incurred in and about such projects.
+
+Findings
+
+Purpose
+
+## Source Credit
+
+*(Sept. 2, 1937, ch. 899, § 2, [50 Stat. 917](https://www.govinfo.gov/link/statute/50/917); July 2, 1956, ch. 489, § 1, [70 Stat. 473](https://www.govinfo.gov/link/statute/70/473); [Pub. L. 86–624, § 10](https://www.govinfo.gov/link/plaw/86/public/624), July 12, 1960, [74 Stat. 412](https://www.govinfo.gov/link/statute/74/412); [Pub. L. 106–553, § 1(a)(2) [title IX, § 902(c)]](https://www.govinfo.gov/link/plaw/106/public/553), Dec. 21, 2000, [114 Stat. 2762](https://www.govinfo.gov/link/statute/114/2762), 2762A–119; [Pub. L. 116–17, § 4(a)](https://www.govinfo.gov/link/plaw/116/public/17), May 10, 2019, [133 Stat. 867](https://www.govinfo.gov/link/statute/133/867); [Pub. L. 116–94, div. P, title V, § 501(c)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3191](https://www.govinfo.gov/link/statute/133/3191).)*

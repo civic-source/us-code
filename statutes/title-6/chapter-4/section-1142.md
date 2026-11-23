@@ -3,9 +3,10 @@ title: "Section 1142 - Public transportation employee protections"
 usc_title: 6
 usc_section: "1142"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 1142"
-generated_at: "2026-03-30T02:53:09.505Z"
+generated_at: "2026-11-23T20:25:34.918Z"
+status: "active"
 ---
 
 # § 1142. Public transportation employee protections
@@ -72,3 +73,7 @@ generated_at: "2026-03-30T02:53:09.505Z"
   - **(1)** The Secretary shall establish through regulations after an opportunity for notice and comment, and provide information to the public regarding, a process by which any person may submit a report to the Secretary regarding public transportation security problems, deficiencies, or vulnerabilities.
   - **(2)** If a report submitted under paragraph (1) identifies the person making the report, the Secretary shall respond promptly to such person and acknowledge receipt of the report.
   - **(3)** The Secretary shall review and consider the information provided in any report submitted under paragraph (1) and shall take appropriate steps to address any problems or deficiencies identified.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XIV, § 1413](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 414](https://www.govinfo.gov/link/statute/121/414); [Pub. L. 117–286, § 4(b)(22)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4345](https://www.govinfo.gov/link/statute/136/4345).)*

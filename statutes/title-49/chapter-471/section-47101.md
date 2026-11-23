@@ -3,9 +3,10 @@ title: "Section 47101 - Policies"
 usc_title: 49
 usc_section: "47101"
 chapter: 471
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 47101"
-generated_at: "2026-03-30T02:56:19.398Z"
+generated_at: "2026-11-23T20:27:35.267Z"
+status: "active"
 ---
 
 # § 47101. Policies
@@ -70,3 +71,399 @@ generated_at: "2026-03-30T02:56:19.398Z"
   - **(2)** natural, scenic, and recreation assets;
   - **(3)** water and air quality; or
   - **(4)** another factor affecting the environment.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 47101(a)(1) | 49 App.:2201(a)(1), (2). | Sept. 3, 1982 , Pub. L. 97–248 , §§ 502(a)(1)–(3), (6), (b), 509(b)(5) (1st sentence, last sentence words before 11th comma), 96 Stat. 671 , 672, 684. |
+|  | 49 App.:2201(a)(9). | Sept. 3, 1982 , Pub. L. 97–248, § 502(a)(9) , 96 Stat. 672 ; Dec. 30, 1987 , Pub. L. 100–223, § 102(b)(1) , (c)(1), 101 Stat. 1487 . |
+|  | 49 App.:2201(a)(10). | Sept. 3, 1982 , Pub. L. 97–248, § 502(a)(10) , 96 Stat. 672 ; Dec. 30, 1987 , Pub. L. 100–223, § 102(b)(1) , (c)(2), 101 Stat. 1487 . |
+| 47101(a)(2) | 49 App.:2201(a)(8). | Sept. 3, 1982 , Pub. L. 97–248, § 502(a)(8) , 96 Stat. 672 ; Dec. 30, 1987 , Pub. L. 100–223, § 102(b)(1) , 101 Stat. 1487 . |
+| 47101(a)(3) | 49 App.:2201(a)(6). |  |
+| 47101(a)(4) | 49 App.:2201(a)(7). | Sept. 3, 1982 , Pub. L. 97–248 , 96 Stat. 324 , § 502(a)(7); added Dec. 30, 1987 , Pub. L. 100–223, § 102(b)(2) , 101 Stat. 1487 . |
+| 47101(a)(5) | 49 App.:2201(b) (1st sentence). |  |
+| 47101(a)(6) | 49 App.:2208(b)(5) (1st sentence). |  |
+| 47101(a)(7) | 49 App.:2201(a)(11). | Sept. 3, 1982 , Pub. L. 97–248 , 96 Stat. 324 , § 502(a)(11); added Dec. 30, 1987 , Pub. L. 100–223, § 102(c)(3) , 101 Stat. 1488 . |
+| 47101(a)(8) | 49 App.:2201(a)(12). | Sept. 3, 1982 , Pub. L. 97–248 , 96 Stat. 324 , § 502(a)(12); added Dec. 30, 1987 , Pub. L. 100–223, § 102(c)(3) , 101 Stat. 1488 ; Nov. 5, 1990 , Pub. L. 101–508, § 9109(a)(1) , 104 Stat. 1388–356 . |
+| 47101(a)(9) | 49 App.:2201(a)(13). | Sept. 3, 1982 , Pub. L. 97–248 , 96 Stat. 324 , § 502(a)(13); added Dec. 30, 1987 , Pub. L. 100–223, § 102(c)(3) , 101 Stat. 1488 ; Nov. 5, 1990 , Pub. L. 101–508 , §§ 9103(2), 9109(a)(2), 104 Stat. 1388–354 , 1388–356. |
+| 47101(a)(10) | 49 App.:2201(a)(14). | Sept. 3, 1982 , Pub. L. 97–248 , 96 Stat. 324 , § 502(a)(14); added Nov. 5, 1990 , Pub. L. 101–508, § 9109(a)(3) , 104 Stat. 1388–356 . |
+| 47101(b) | 49 App.:2201(c). | Sept. 3, 1982 , Pub. L. 97–248 , 96 Stat. 324 , § 502(c), (d); added Oct. 31, 1992 , Pub. L. 102–581, § 101 , 106 Stat. 4875 . |
+| 47101(c) | 49 App.:2201(d). |  |
+| 47101(d) | 49 App.:2201(a)(5). | Sept. 3, 1982 , Pub. L. 97–248, § 502(a)(5) , 96 Stat. 671 ; Nov. 5, 1990 , Pub. L. 101–508, § 9103(1) , 104 Stat. 1388–354 . |
+| 47101(e) | 49 App.:2201(a)(3). |  |
+|  | 49 App.:2202(a)(20). | Sept. 3, 1982 , Pub. L. 97–248, § 503(a)(20) , 96 Stat. 674 ; Dec. 30, 1987 , Pub. L. 100–223, § 103(c)(1) , 101 Stat. 1488 . |
+| 47101(f) | 49 App.:2201(a)(4). | Sept. 3, 1982 , Pub. L. 97–248, § 502(a)(4) , 96 Stat. 671 ; Dec. 30, 1987 , Pub. L. 100–223, § 102(a) , 101 Stat. 1487 . |
+| 47101(g) | 49 App.:2201(b) (2d, last sentences). |  |
+| 47101(h) | 49 App.:2208(b)(5) (last sentence words before 11th comma). |  |
+
+
+General
+
+National Transportation Policy
+
+Capacity Expansion and Noise Abatement
+
+Consistency With Air Commerce and Safety Policies
+
+Adequacy of Navigation Aids and Airport Facilities
+
+Maximum Use of Safety Facilities
+
+Intermodal Planning
+
+Coordination in development of airport plans and programs
+
+Goals for airport master and system plans
+
+Representation of airport operators on mpo’s
+
+Consultation
+
+Historical and Revision Notes
+
+Pub. L
+
+47101(a)(1)
+
+Sept. 3, 1982
+
+Pub. L. 97–248
+
+96 Stat. 671
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 502(a)(9)
+
+96 Stat. 672
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 102(b)(1)
+
+101 Stat. 1487
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 502(a)(10)
+
+96 Stat. 672
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 102(b)(1)
+
+101 Stat. 1487
+
+47101(a)(2)
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 502(a)(8)
+
+96 Stat. 672
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 102(b)(1)
+
+101 Stat. 1487
+
+47101(a)(3)
+
+47101(a)(4)
+
+Sept. 3, 1982
+
+Pub. L. 97–248
+
+96 Stat. 324
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 102(b)(2)
+
+101 Stat. 1487
+
+47101(a)(5)
+
+47101(a)(6)
+
+47101(a)(7)
+
+Sept. 3, 1982
+
+Pub. L. 97–248
+
+96 Stat. 324
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 102(c)(3)
+
+101 Stat. 1488
+
+47101(a)(8)
+
+Sept. 3, 1982
+
+Pub. L. 97–248
+
+96 Stat. 324
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 102(c)(3)
+
+101 Stat. 1488
+
+Nov. 5, 1990
+
+Pub. L. 101–508, § 9109(a)(1)
+
+104 Stat. 1388–356
+
+47101(a)(9)
+
+Sept. 3, 1982
+
+Pub. L. 97–248
+
+96 Stat. 324
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 102(c)(3)
+
+101 Stat. 1488
+
+Nov. 5, 1990
+
+Pub. L. 101–508
+
+104 Stat. 1388–354
+
+47101(a)(10)
+
+Sept. 3, 1982
+
+Pub. L. 97–248
+
+96 Stat. 324
+
+Nov. 5, 1990
+
+Pub. L. 101–508, § 9109(a)(3)
+
+104 Stat. 1388–356
+
+47101(b)
+
+Sept. 3, 1982
+
+Pub. L. 97–248
+
+96 Stat. 324
+
+Oct. 31, 1992
+
+Pub. L. 102–581, § 101
+
+106 Stat. 4875
+
+47101(c)
+
+47101(d)
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 502(a)(5)
+
+96 Stat. 671
+
+Nov. 5, 1990
+
+Pub. L. 101–508, § 9103(1)
+
+104 Stat. 1388–354
+
+47101(e)
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 503(a)(20)
+
+96 Stat. 674
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 103(c)(1)
+
+101 Stat. 1488
+
+47101(f)
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 502(a)(4)
+
+96 Stat. 671
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 102(a)
+
+101 Stat. 1487
+
+47101(g)
+
+47101(h)
+
+Intermodal Planning
+
+Cooperation
+
+“The Administrator [of the Federal Aviation Administration]—
+
+Runway Safety Council.—
+
+In general
+
+Duties
+
+Membership.—
+
+In general
+
+Additional members
+
+Airport Surface Safety Technologies.—
+
+Identification
+
+Criteria
+
+Deployment
+
+Briefing
+
+Foreign Object Debris Detection.—
+
+In general
+
+Considerations
+
+Consultation
+
+Runway Safety Study.—
+
+In general
+
+Considerations
+
+Recommendations
+
+Report to congress
+
+Definitions
+
+Air carrier; foreign air carrier
+
+Airport surface detection and surveillance system
+
+Transport airplane
+
+In General
+
+List Required.—
+
+In general
+
+Updates to list
+
+Definitions
+
+In general
+
+Covered contract
+
+In General
+
+Required Consultation
+
+Priority Projects
+
+In General
+
+Requirements Relating to Alaska
+
+Additional Requirement
+
+Public Comment.—
+
+In general
+
+Review
+
+Interim Implementation of Changes.—
+
+In general
+
+Alaska exceptions
+
+“Nothing in this Act [see Tables for classification] shall be construed to prevent airports from—
+
+Approval Authority.—
+
+In general
+
+Exclusion
+
+Conditions for Approval.—
+
+In general
+
+Pending judicial review
+
+Technical assistance.—
+
+In general
+
+Failure to seek technical assistance
+
+Final Decision Authority
+
+Definition of Disputed Change of Airport Sponsorship
+
+In General
+
+Multiple Component Projects
+
+In General
+
+Report
+
+Guidance
+
+Research
+
+Requirements
+
+Report
+
+Rule of Construction
+
+“The Administrator of the Federal Aviation Administration may enter into a reimbursable agreement with a State or local government agency to carry out a project at an airport as to which notice is required under section 77.9 of title 14, Code of Federal Regulations, if the agreement—
+
+Strategic Runway Safety Plan.—
+
+In general
+
+Contents of plan
+
+Process
+
+Plan for Installation and Deployment of Systems To Provide Alerts of Potential Runway Incursions
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1246](https://www.govinfo.gov/link/statute/108/1246); [Pub. L. 103–305, title I](https://www.govinfo.gov/link/plaw/103/public/305), §§ 104, 110, Aug. 23, 1994, [108 Stat. 1571](https://www.govinfo.gov/link/statute/108/1571), 1573; [Pub. L. 103–429, § 6(62)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4385](https://www.govinfo.gov/link/statute/108/4385); [Pub. L. 104–264, title I, § 141](https://www.govinfo.gov/link/plaw/104/public/264), Oct. 9, 1996, [110 Stat. 3220](https://www.govinfo.gov/link/statute/110/3220); [Pub. L. 106–181, title I](https://www.govinfo.gov/link/plaw/106/public/181), §§ 121(a), (b), 137(a), Apr. 5, 2000, [114 Stat. 74](https://www.govinfo.gov/link/statute/114/74), 85; [Pub. L. 112–95, title I, § 131](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 21](https://www.govinfo.gov/link/statute/126/21); [Pub. L. 118–63, title III, § 347(a)(1)](https://www.govinfo.gov/link/plaw/118/public/63), (2), title VII, §§ 701, 781, May 16, 2024, [138 Stat. 1104](https://www.govinfo.gov/link/statute/138/1104), 1245, 1302.)*

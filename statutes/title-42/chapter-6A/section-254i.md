@@ -3,9 +3,10 @@ title: "Section 254i - Annual report to Congress; contents"
 usc_title: 42
 usc_section: "254i"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 254i"
-generated_at: "2026-03-30T02:56:10.713Z"
+generated_at: "2026-11-23T20:27:20.089Z"
+status: "active"
 ---
 
 # § 254i. Annual report to Congress; contents
@@ -20,3 +21,7 @@ The Secretary shall submit an annual report to Congress, and shall include in su
   - **(6)** the number of Corps members who elected, and the number of Corps members who did not elect, to continue to provide health services in health professional shortage areas after termination of their service in the Corps and the reasons (as reported to the Secretary) of members who did not elect for not making such election;
   - **(7)** the results of evaluations and determinations made under section 254f(a)(1)(D) of this title during such year; and
   - **(8)** the amount charged during such year for health services provided by Corps members, the amount which was collected in such year by entities in accordance with section 254g of this title , and the amount which was paid to the Secretary in such year under such agreements.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 336A, formerly § 336, as added [Pub. L. 94–484, title IV, § 407(b)(3)](https://www.govinfo.gov/link/plaw/94/public/484), Oct. 12, 1976, [90 Stat. 2277](https://www.govinfo.gov/link/statute/90/2277), renumbered § 336A, [Pub. L. 97–35, title XXVII, § 2706(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 907](https://www.govinfo.gov/link/statute/95/907); amended [Pub. L. 97–375, title II, § 206(a)](https://www.govinfo.gov/link/plaw/97/public/375), Dec. 21, 1982, [96 Stat. 1823](https://www.govinfo.gov/link/statute/96/1823); [Pub. L. 101–597, title IV, § 401(b)[(a)]](https://www.govinfo.gov/link/plaw/101/public/597), Nov. 16, 1990, [104 Stat. 3035](https://www.govinfo.gov/link/statute/104/3035); [Pub. L. 107–251, title III, § 307(b)](https://www.govinfo.gov/link/plaw/107/public/251), Oct. 26, 2002, [116 Stat. 1649](https://www.govinfo.gov/link/statute/116/1649).)*

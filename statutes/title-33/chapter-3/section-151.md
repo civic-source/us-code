@@ -3,9 +3,10 @@ title: "Section 151 - High seas and inland waters demarcation lines"
 usc_title: 33
 usc_section: "151"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 151"
-generated_at: "2026-03-30T02:55:41.053Z"
+generated_at: "2026-11-23T20:26:53.797Z"
+status: "active"
 ---
 
 # § 151. High seas and inland waters demarcation lines
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:41.053Z"
 - **(a)** The Secretary of the department in which the Coast Guard is operating shall establish appropriate identifiable demarcation lines dividing the high seas from harbors, rivers, and other inland waters of the United States, for the purpose of determining the applicability of special navigational rules in lieu of the International Regulations for Preventing Collisions at Sea.
 - **(b)** The Secretary shall also establish appropriate identifiable lines dividing inland waters of the United States from the high seas for the purpose of determining the applicability of each statute that refers to this section or this section, as amended. These lines may not be located more than twelve nautical miles seaward of the base line from which the territorial sea is measured. These lines may differ in position for the purposes of different statutes.
 - **(c)** For the purposes of this section, the term “United States” includes the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other Commonwealth, territory, or possession of the United States.
+
+## Source Credit
+
+*(Feb. 19, 1895, ch. 102, § 2, [28 Stat. 672](https://www.govinfo.gov/link/statute/28/672); [Pub. L. 96–324, § 1](https://www.govinfo.gov/link/plaw/96/public/324), Aug. 8, 1980, [94 Stat. 1020](https://www.govinfo.gov/link/statute/94/1020); [Pub. L. 96–376, § 13](https://www.govinfo.gov/link/plaw/96/public/376), Oct. 3, 1980, [94 Stat. 1511](https://www.govinfo.gov/link/statute/94/1511); [Pub. L. 96–591, § 9](https://www.govinfo.gov/link/plaw/96/public/591), Dec. 24, 1980, [94 Stat. 3436](https://www.govinfo.gov/link/statute/94/3436).)*

@@ -3,9 +3,10 @@ title: "Section 6312 - Local educational agency plans"
 usc_title: 20
 usc_section: "6312"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 6312"
-generated_at: "2026-03-30T02:54:48.193Z"
+generated_at: "2026-11-23T20:26:14.819Z"
+status: "active"
 ---
 
 # § 6312. Local educational agency plans
@@ -107,3 +108,13 @@ generated_at: "2026-03-30T02:54:48.193Z"
       - **(ii)** Implementing an effective means of outreach to parents under clause (i) shall include holding, and sending notice of opportunities for, regular meetings for the purpose of formulating and responding to recommendations from parents of students assisted under this part or subchapter III.
     - **(D)** A student shall not be admitted to, or excluded from, any federally assisted education program on the basis of a surname or language-minority status.
   - **(4)** The notice and information provided to parents under this subsection shall be in an understandable and uniform format and, to the extent practicable, provided in a language that the parents can understand.
+
+(aa) attain English proficiency;
+
+(bb) achieve at high levels within a well-rounded education; and
+
+(cc) meet the challenging State academic standards expected of all students.
+
+## Source Credit
+
+*([Pub. L. 89–10, title I, § 1112](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 107–110, title I, § 101](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1462](https://www.govinfo.gov/link/statute/115/1462); amended [Pub. L. 107–279, title IV, § 404(d)(2)](https://www.govinfo.gov/link/plaw/107/public/279), Nov. 5, 2002, [116 Stat. 1985](https://www.govinfo.gov/link/statute/116/1985); [Pub. L. 109–270, § 2(f)(2)](https://www.govinfo.gov/link/plaw/109/public/270), Aug. 12, 2006, [120 Stat. 747](https://www.govinfo.gov/link/statute/120/747); [Pub. L. 110–134, § 29(a)](https://www.govinfo.gov/link/plaw/110/public/134), Dec. 12, 2007, [121 Stat. 1448](https://www.govinfo.gov/link/statute/121/1448); [Pub. L. 114–95, title I, § 1006](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1852](https://www.govinfo.gov/link/statute/129/1852).)*

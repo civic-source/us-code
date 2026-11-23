@@ -3,9 +3,10 @@ title: "Section 4173 - Department of Defense Test Resource Management Center"
 usc_title: 10
 usc_section: "4173"
 chapter: 307
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 4173"
-generated_at: "2026-03-30T02:53:38.203Z"
+generated_at: "2026-11-23T20:25:51.924Z"
+status: "active"
 ---
 
 # § 4173. Department of Defense Test Resource Management Center
@@ -61,3 +62,27 @@ generated_at: "2026-03-30T02:53:38.203Z"
 - **(h)** The Secretary of Defense shall provide the Director with administrative support adequate for carrying out the Director’s responsibilities under this section. The Secretary shall provide the support out of the headquarters activities of the Department or any other activities that the Secretary considers appropriate.
 - **(i)** Beginning on the date of the enactment of this subsection and ending on October 1, 2030 , for purposes of this section, any infrastructure located on Kwajalein Atoll that supports the operations of test and evaluation facilities of the Department of Defense shall be considered to be part of the Army Kwajalein Major Range and Test Facility Base and subject to the requirements of subsections (e) and (f).
 - **(j)** In this section, the term “Major Range and Test Facility Base” means the test and evaluation facilities and resources that are designated by the Secretary of Defense as facilities and resources comprising the Major Range and Test Facility Base.
+
+Establishment as Department of Defense Field Activity
+
+Director and Deputy Director
+
+Duties of Director
+
+Quadrennial Strategic Plan for Department of Defense Test and Evaluation Resources
+
+Certification of Budgets
+
+Approval of Certain Modifications
+
+Supervision of Director by Under Secretary
+
+Administrative Support of Center
+
+Infrastructure on Kwajalein Atoll
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 107–314, div. A, title II, § 231(a)(1)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2487](https://www.govinfo.gov/link/statute/116/2487), § 196; amended [Pub. L. 108–136, div. A, title II, § 212](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1416](https://www.govinfo.gov/link/statute/117/1416); [Pub. L. 109–163, div. A, title II, § 258(a)](https://www.govinfo.gov/link/plaw/109/public/163), title IX, § 902, Jan. 6, 2006, [119 Stat. 3185](https://www.govinfo.gov/link/statute/119/3185), 3397; [Pub. L. 111–84, div. A, title II, § 251](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2241](https://www.govinfo.gov/link/statute/123/2241); [Pub. L. 113–291, div. A, title II, § 214](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3326](https://www.govinfo.gov/link/statute/128/3326); [Pub. L. 114–328, div. A, title V, § 502(c)](https://www.govinfo.gov/link/plaw/114/public/328), title X, § 1081(a)(3), Dec. 23, 2016, [130 Stat. 2102](https://www.govinfo.gov/link/statute/130/2102), 2417; [Pub. L. 115–91, div. A, title II, § 222](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1333](https://www.govinfo.gov/link/statute/131/1333); [Pub. L. 115–232, div. A, title II, § 221](https://www.govinfo.gov/link/plaw/115/public/232), title IX, § 904, Aug. 13, 2018, [132 Stat. 1681](https://www.govinfo.gov/link/statute/132/1681), 1922; renumbered § 4173 and amended [Pub. L. 116–283, div. A, title II, § 272](https://www.govinfo.gov/link/plaw/116/public/283), title XVIII, § 1845(b), Jan. 1, 2021, [134 Stat. 3502](https://www.govinfo.gov/link/statute/134/3502), 4247; [Pub. L. 117–81, div. A, title X, § 1081(a)(5)](https://www.govinfo.gov/link/plaw/117/public/81), title XVII, § 1701(u)(6)(B), Dec. 27, 2021, [135 Stat. 1919](https://www.govinfo.gov/link/statute/135/1919), 2154; [Pub. L. 118–159, div. B, title XXVIII, § 2871(a)](https://www.govinfo.gov/link/plaw/118/public/159), (b), Dec. 23, 2024, [138 Stat. 2281](https://www.govinfo.gov/link/statute/138/2281).)*

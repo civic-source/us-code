@@ -3,9 +3,10 @@ title: "Section 5124 - Acceptance of claimant’s statement as proof of relation
 usc_title: 38
 usc_section: "5124"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 5124"
-generated_at: "2026-03-30T02:55:53.520Z"
+generated_at: "2026-11-23T20:27:01.952Z"
+status: "active"
 ---
 
 # § 5124. Acceptance of claimant’s statement as proof of relationship
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:53.520Z"
   - **(2)** the statement on its face raises a question as to its validity;
   - **(3)** there is conflicting information of record; or
   - **(4)** there is reasonable indication, in the statement or otherwise, of fraud or misrepresentation.
+
+## Source Credit
+
+*(Added [Pub. L. 103–446, title III, § 301(a)](https://www.govinfo.gov/link/plaw/103/public/446), Nov. 2, 1994, [108 Stat. 4657](https://www.govinfo.gov/link/statute/108/4657).)*

@@ -3,9 +3,10 @@ title: "Section 1321 - Rail service obligations"
 usc_title: 45
 usc_section: "1321"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 1321"
-generated_at: "2026-03-30T02:55:56.561Z"
+generated_at: "2026-11-23T20:27:05.343Z"
+status: "active"
 ---
 
 # § 1321. Rail service obligations
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:56.561Z"
   - **(2)** Within 5 days after the declaration of any common stock dividend or preferred stock dividend, the Corporation shall deliver to the Secretary of Transportation a certificate executed by an executive officer of the Corporation. Such certificate shall certify that, after giving effect to any such dividend, the Corporation shall be in compliance with any requirement regarding a common stock dividend or a preferred stock dividend set forth in this section. Such certificate shall include—
     - **(A)** quarterly financial statements; and
     - **(B)** a report of the Corporation’s total capital expenditures,
+
+## Source Credit
+
+*([Pub. L. 99–509, title IV, § 4021](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1898](https://www.govinfo.gov/link/statute/100/1898); [Pub. L. 101–213, § 2(b)(3)](https://www.govinfo.gov/link/plaw/101/public/213), Dec. 11, 1989, [103 Stat. 1843](https://www.govinfo.gov/link/statute/103/1843).)*

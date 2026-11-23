@@ -3,9 +3,10 @@ title: "Section 7998 - Estimates of net farm income"
 usc_title: 7
 usc_section: "7998"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7998"
-generated_at: "2026-03-30T02:53:42.469Z"
+generated_at: "2026-11-23T20:25:41.863Z"
+status: "active"
 ---
 
 # § 7998. Estimates of net farm income
@@ -17,3 +18,7 @@ In each issuance of projections of net farm income, the Secretary shall include 
     - **(A)** Livestock.
     - **(B)** Loan commodities.
     - **(C)** Agricultural commodities other than loan commodities.
+
+## Source Credit
+
+*([Pub. L. 107–171, title I, § 1615](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 222](https://www.govinfo.gov/link/statute/116/222).)*

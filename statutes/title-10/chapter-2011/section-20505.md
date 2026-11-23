@@ -3,9 +3,10 @@ title: "Section 20505 - Officer considered for removal: voluntary retirement or 
 usc_title: 10
 usc_section: "20505"
 chapter: 2011
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 20505"
-generated_at: "2026-03-30T02:53:38.282Z"
+generated_at: "2026-11-23T20:25:52.518Z"
+status: "active"
 ---
 
 # § 20505. Officer considered for removal: voluntary retirement or discharge
@@ -19,3 +20,13 @@ generated_at: "2026-03-30T02:53:38.282Z"
     - **(A)** be honorably discharged in the grade then held, in the case of an officer whose case was brought under subsection (a) of section 20501 of this title ; or
     - **(B)** be discharged in the grade then held, in the case of an officer whose case was brought under subsection (b) of section 20501 of this title .
 - **(c)** An officer who is discharged under subsection (b)(2) is entitled, if eligible therefor, to separation pay under section 1174(a)(2) of this title .
+
+In General
+
+Retirement or Discharge
+
+Separation Pay for Discharged Officer
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title XVII, § 1719](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 661](https://www.govinfo.gov/link/statute/137/661).)*

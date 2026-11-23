@@ -3,9 +3,10 @@ title: "Section 3685 - Overpayments to eligible persons or veterans"
 usc_title: 38
 usc_section: "3685"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 3685"
-generated_at: "2026-03-30T02:55:53.509Z"
+generated_at: "2026-11-23T20:27:01.875Z"
+status: "active"
 ---
 
 # § 3685. Overpayments to eligible persons or veterans
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:53.509Z"
 - **(e)**
   - **(1)** Any amount collected from a veteran or eligible person pursuant to this section shall be reimbursed to the educational institution which is liable pursuant to subsection (b) of this section to the extent that collection was made from the educational institution.
   - **(2)** Nothing in this section or any other provision of this title shall be construed as (A) precluding the imposition of any civil or criminal liability under this title or any other law, or (B) requiring any institution of higher learning to maintain daily attendance records for any course leading to a standard college degree.
+
+## Source Credit
+
+*(Added [Pub. L. 89–358, § 3(b)](https://www.govinfo.gov/link/plaw/89/public/358), Mar. 3, 1966, [80 Stat. 22](https://www.govinfo.gov/link/statute/80/22), § 1785; amended [Pub. L. 92–540, title IV, § 403(11)](https://www.govinfo.gov/link/plaw/92/public/540), Oct. 24, 1972, [86 Stat. 1090](https://www.govinfo.gov/link/statute/86/1090); [Pub. L. 95–202, title III, § 304(a)(2)](https://www.govinfo.gov/link/plaw/95/public/202), Nov. 23, 1977, [91 Stat. 1442](https://www.govinfo.gov/link/statute/91/1442); [Pub. L. 96–466, title III, § 344](https://www.govinfo.gov/link/plaw/96/public/466), Oct. 17, 1980, [94 Stat. 2199](https://www.govinfo.gov/link/statute/94/2199); [Pub. L. 101–237, title IV, § 423(b)(1)](https://www.govinfo.gov/link/plaw/101/public/237), Dec. 18, 1989, [103 Stat. 2092](https://www.govinfo.gov/link/statute/103/2092); [Pub. L. 102–40, title IV, § 402(d)(1)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 239](https://www.govinfo.gov/link/statute/105/239); renumbered § 3685 and amended [Pub. L. 102–83, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/83), (c)(1), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 116–315, title I, § 1019](https://www.govinfo.gov/link/plaw/116/public/315), Jan. 5, 2021, [134 Stat. 4950](https://www.govinfo.gov/link/statute/134/4950).)*

@@ -3,9 +3,10 @@ title: "Section 2018 - Approval of retail food stores and wholesale food concern
 usc_title: 7
 usc_section: "2018"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2018"
-generated_at: "2026-03-30T02:53:42.368Z"
+generated_at: "2026-11-23T20:25:41.441Z"
+status: "active"
 ---
 
 # § 2018. Approval of retail food stores and wholesale food concerns
@@ -64,3 +65,21 @@ generated_at: "2026-03-30T02:53:42.368Z"
   - **(3)** A waiver granted under this subsection shall not be used to carry out any activity that limits the use of benefits under this chapter or any other Federal nutrition law.
   - **(4)** Guidance provided under this subsection shall not affect any requirements under section 7517 of this title , including the eligibility of a retail food store to participate in a project funded under such section.
   - **(5)** The Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate an annual report describing the types of incentives approved under this subsection.
+
+Applications.—
+
+In general
+
+Factors for consideration
+
+Certificate
+
+Visit required
+
+Authorization periods
+
+Electronic benefit transfer equipment and service providers
+
+## Source Credit
+
+*([Pub. L. 88–525, § 9](https://www.govinfo.gov/link/plaw/88/public/525), Aug. 31, 1964, [78 Stat. 705](https://www.govinfo.gov/link/statute/78/705); [Pub. L. 95–113, title XIII, § 1301](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 968](https://www.govinfo.gov/link/statute/91/968); [Pub. L. 97–98, title XIII](https://www.govinfo.gov/link/plaw/97/public/98), §§ 1313, 1314, Dec. 22, 1981, [95 Stat. 1285](https://www.govinfo.gov/link/statute/95/1285); [Pub. L. 97–253, title I, § 165](https://www.govinfo.gov/link/plaw/97/public/253), Sept. 8, 1982, [96 Stat. 779](https://www.govinfo.gov/link/statute/96/779); [Pub. L. 99–198, title XV](https://www.govinfo.gov/link/plaw/99/public/198), §§ 1521, 1532(b), Dec. 23, 1985, [99 Stat. 1579](https://www.govinfo.gov/link/statute/99/1579), 1583; [Pub. L. 99–570, title XI, § 11002(d)](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–168](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 101–624, title XVII](https://www.govinfo.gov/link/plaw/101/public/624), §§ 1733, 1734, Nov. 28, 1990, [104 Stat. 3791](https://www.govinfo.gov/link/statute/104/3791); [Pub. L. 102–237, title IX, § 941(4)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1892](https://www.govinfo.gov/link/statute/105/1892); [Pub. L. 103–225, title II](https://www.govinfo.gov/link/plaw/103/public/225), §§ 202, 203, Mar. 25, 1994, [108 Stat. 108](https://www.govinfo.gov/link/statute/108/108); [Pub. L. 103–448, title II, § 204(w)(2)(A)](https://www.govinfo.gov/link/plaw/103/public/448), Nov. 2, 1994, [108 Stat. 4746](https://www.govinfo.gov/link/statute/108/4746); [Pub. L. 104–193, title VIII](https://www.govinfo.gov/link/plaw/104/public/193), §§ 831–834, Aug. 22, 1996, [110 Stat. 2328](https://www.govinfo.gov/link/statute/110/2328); [Pub. L. 110–234, title IV](https://www.govinfo.gov/link/plaw/110/public/234), §§ 4001(b), 4002(a)(5), 4115(b)(6), May 22, 2008, [122 Stat. 1092](https://www.govinfo.gov/link/statute/122/1092), 1093, 1106; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, §§ 4001(b), 4002(a)(5), 4115(b)(6), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1853, 1854, 1868; [Pub. L. 113–79, title IV](https://www.govinfo.gov/link/plaw/113/public/79), §§ 4002(e), 4014(b), 4030(f), Feb. 7, 2014, [128 Stat. 784](https://www.govinfo.gov/link/statute/128/784), 794, 814; [Pub. L. 115–334, title IV](https://www.govinfo.gov/link/plaw/115/public/334), §§ 4006(f)–4008, Dec. 20, 2018, [132 Stat. 4637–4639](https://www.govinfo.gov/link/statute/132/4637); [Pub. L. 116–94, div. B, title VII, § 784](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 2656](https://www.govinfo.gov/link/statute/133/2656); [Pub. L. 116–260, div. A, title VII, § 783](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 1230](https://www.govinfo.gov/link/statute/134/1230); [Pub. L. 117–103, div. A, title VII, § 773](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 99](https://www.govinfo.gov/link/statute/136/99).)*

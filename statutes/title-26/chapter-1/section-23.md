@@ -3,9 +3,10 @@ title: "Section 23 - Adoption expenses"
 usc_title: 26
 usc_section: "23"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 23"
-generated_at: "2026-03-30T02:55:27.585Z"
+generated_at: "2026-11-23T20:26:45.123Z"
+status: "active"
 ---
 
 # § 23. Adoption expenses
@@ -61,3 +62,27 @@ generated_at: "2026-03-30T02:55:27.585Z"
     - **(A)** by substituting “2025” for “2002” in the matter preceding subparagraph (A), and
     - **(B)** by substituting “calendar year 2024” for “calendar year 2001” in subparagraph (B) thereof.
 - **(i)** The Secretary shall prescribe such regulations as may be appropriate to carry out this section and section 137, including regulations which treat unmarried individuals who pay or incur qualified adoption expenses with respect to the same child as 1 taxpayer for purposes of applying the dollar amounts in subsections (a)(3) and (b)(1) of this section and in section 137(b)(1).
+
+In general
+
+Solar electric property limitation
+
+Application of egtrra sunset
+
+In general
+
+Repeal of public utility holding company act of 1935
+
+Coordination of personal credits
+
+In general
+
+Subsection
+
+In general
+
+Certain administrative requirements with respect to certain pension plans
+
+## Source Credit
+
+*(Added [Pub. L. 104–188, title I, § 1807(a)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1899](https://www.govinfo.gov/link/statute/110/1899), § 23; amended [Pub. L. 105–34, title XVI, § 1601(h)(2)(A)](https://www.govinfo.gov/link/plaw/105/public/34), (B), Aug. 5, 1997, [111 Stat. 1092](https://www.govinfo.gov/link/statute/111/1092); [Pub. L. 105–206, title VI](https://www.govinfo.gov/link/plaw/105/public/206), §§ 6008(d)(6), 6018(f)(1), July 22, 1998, [112 Stat. 812](https://www.govinfo.gov/link/statute/112/812), 823; [Pub. L. 107–16, title II](https://www.govinfo.gov/link/plaw/107/public/16), §§ 201(b)(2)(E), 202(a)(1), (b)(1)(A), (2)(A), (c), (d)(1), (e)(1), (f)(1), (2)(A), June 7, 2001, [115 Stat. 46–49](https://www.govinfo.gov/link/statute/115/46); [Pub. L. 107–147, title IV](https://www.govinfo.gov/link/plaw/107/public/147), §§ 411(c)(1)(A)–(E), 418(a)(1), Mar. 9, 2002, [116 Stat. 45](https://www.govinfo.gov/link/statute/116/45), 57; [Pub. L. 109–58, title XIII, § 1335(b)(1)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 1036](https://www.govinfo.gov/link/statute/119/1036); [Pub. L. 109–135, title IV, § 402(i)(3)(A)](https://www.govinfo.gov/link/plaw/109/public/135), (4), Dec. 21, 2005, [119 Stat. 2612](https://www.govinfo.gov/link/statute/119/2612), 2615; [Pub. L. 110–343, div. B, title I, § 106(e)(2)(A)](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3817](https://www.govinfo.gov/link/statute/122/3817); renumbered § 36C, amended, and renumbered § 23, [Pub. L. 111–148, title X, § 10909(a)(1)](https://www.govinfo.gov/link/plaw/111/public/148), (b)(1), (2)(I), (c), Mar. 23, 2010, [124 Stat. 1021](https://www.govinfo.gov/link/statute/124/1021), 1022, 1023; [Pub. L. 111–312, title I, § 101(b)(1)](https://www.govinfo.gov/link/plaw/111/public/312), Dec. 17, 2010, [124 Stat. 3298](https://www.govinfo.gov/link/statute/124/3298); [Pub. L. 112–240, title I, § 104(c)(2)(A)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2321](https://www.govinfo.gov/link/statute/126/2321); [Pub. L. 115–97, title I, § 11002(d)(1)(A)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2060](https://www.govinfo.gov/link/statute/131/2060); [Pub. L. 115–141, div. U, title IV, § 401(d)(4)(B)(i)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1209](https://www.govinfo.gov/link/statute/132/1209); [Pub. L. 119–21, title VII](https://www.govinfo.gov/link/plaw/119/public/21), §§ 70402(a)–(c), 70403(a), July 4, 2025, [139 Stat. 213](https://www.govinfo.gov/link/statute/139/213), 214.)*

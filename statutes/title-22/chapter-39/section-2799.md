@@ -3,9 +3,10 @@ title: "Section 2799 - Purpose"
 usc_title: 22
 usc_section: "2799"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2799"
-generated_at: "2026-03-30T02:55:05.388Z"
+generated_at: "2026-11-23T20:26:32.435Z"
+status: "active"
 ---
 
 # § 2799. Purpose
@@ -15,3 +16,7 @@ The purpose of this subchapter is to authorize the President to support, consist
   - **(1)** enhance NATO’s forces,
   - **(2)** increase NATO standardization and interoperability, and
   - **(3)** better distribute defense burdens within the NATO alliance.
+
+## Source Credit
+
+*([Pub. L. 90–629](https://www.govinfo.gov/link/plaw/90/public/629), ch. 9, § 91, as added [Pub. L. 102–228, § 2](https://www.govinfo.gov/link/plaw/102/public/228), Dec. 12, 1991, [105 Stat. 1691](https://www.govinfo.gov/link/statute/105/1691).)*

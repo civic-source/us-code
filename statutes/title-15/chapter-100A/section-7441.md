@@ -3,9 +3,10 @@ title: "Section 7441 - Cybersecurity competitions and challenges"
 usc_title: 15
 usc_section: "7441"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 7441"
-generated_at: "2026-03-30T02:54:08.223Z"
+generated_at: "2026-11-23T20:26:04.455Z"
+status: "active"
 ---
 
 # § 7441. Cybersecurity competitions and challenges
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:54:08.223Z"
   - **(1)** shall consult widely both within and outside the Federal Government; and
   - **(2)** may empanel advisory committees.
 - **(f)** The Director of the Office of Personnel Management may support, as appropriate, internships or other work experience in the Federal Government to the winners of the competitions and challenges under this section.
+
+## Source Credit
+
+*([Pub. L. 113–274, title III, § 301](https://www.govinfo.gov/link/plaw/113/public/274), Dec. 18, 2014, [128 Stat. 2981](https://www.govinfo.gov/link/statute/128/2981).)*

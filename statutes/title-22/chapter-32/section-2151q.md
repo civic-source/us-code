@@ -3,9 +3,10 @@ title: "Section 2151q - Endangered species"
 usc_title: 22
 usc_section: "2151q"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2151q"
-generated_at: "2026-03-30T02:55:05.346Z"
+generated_at: "2026-11-23T20:26:32.175Z"
+status: "active"
 ---
 
 # § 2151q. Endangered species
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:05.346Z"
   - **(9)** ensure that environmental profiles sponsored by the Agency include information needed for conservation of biological diversity; and
   - **(10)** deny any direct or indirect assistance under this part for actions which significantly degrade national parks or similar protected areas or introduce exotic plants or animals into such areas.
 - **(h)** Each annual report required by section 2394(a) of this title shall include, in a separate volume, a report on the implementation of this section.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 119, as added [Pub. L. 98–164, title VII, § 702](https://www.govinfo.gov/link/plaw/98/public/164), Nov. 22, 1983, [97 Stat. 1045](https://www.govinfo.gov/link/statute/97/1045); amended [Pub. L. 99–529, title III, § 302](https://www.govinfo.gov/link/plaw/99/public/529), Oct. 24, 1986, [100 Stat. 3017](https://www.govinfo.gov/link/statute/100/3017); [Pub. L. 101–167, title V, § 533(d)(4)(A)](https://www.govinfo.gov/link/plaw/101/public/167), Nov. 21, 1989, [103 Stat. 1227](https://www.govinfo.gov/link/statute/103/1227).)*

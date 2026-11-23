@@ -3,9 +3,10 @@ title: "Section 1102 - Creditors’ and equity security holders’ committees"
 usc_title: 11
 usc_section: "1102"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 1102"
-generated_at: "2026-03-30T02:53:53.883Z"
+generated_at: "2026-11-23T20:25:55.398Z"
+status: "active"
 ---
 
 # § 1102. Creditors’ and equity security holders’ committees
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:53.883Z"
       - **(ii)** are not appointed to the committee;
     - **(B)** solicit and receive comments from the creditors described in subparagraph (A); and
     - **(C)** be subject to a court order that compels any additional report or disclosure to be made to the creditors described in subparagraph (A).
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2626](https://www.govinfo.gov/link/statute/92/2626); [Pub. L. 98–353, title III, § 499](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 384](https://www.govinfo.gov/link/statute/98/384); [Pub. L. 99–554, title II, § 221](https://www.govinfo.gov/link/plaw/99/public/554), Oct. 27, 1986, [100 Stat. 3101](https://www.govinfo.gov/link/statute/100/3101); [Pub. L. 103–394, title II, § 217(b)](https://www.govinfo.gov/link/plaw/103/public/394), Oct. 22, 1994, [108 Stat. 4127](https://www.govinfo.gov/link/statute/108/4127); [Pub. L. 109–8, title IV](https://www.govinfo.gov/link/plaw/109/public/8), §§ 405, 432(b), Apr. 20, 2005, [119 Stat. 105](https://www.govinfo.gov/link/statute/119/105), 110; [Pub. L. 116–54, § 4(a)(11)](https://www.govinfo.gov/link/plaw/116/public/54), Aug. 23, 2019, [133 Stat. 1086](https://www.govinfo.gov/link/statute/133/1086).)*

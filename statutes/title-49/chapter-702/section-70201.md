@@ -3,9 +3,10 @@ title: "Section 70201 - State freight advisory committees"
 usc_title: 49
 usc_section: "70201"
 chapter: 702
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 70201"
-generated_at: "2026-03-30T02:56:19.417Z"
+generated_at: "2026-11-23T20:27:35.436Z"
+status: "active"
 ---
 
 # § 70201. State freight advisory committees
@@ -38,3 +39,13 @@ generated_at: "2026-03-30T02:56:19.417Z"
   - **(3)** communicate and coordinate regional priorities with other organizations;
   - **(4)** promote the sharing of information between the private and public sectors on freight issues; and
   - **(5)** participate in the development of the freight plan of the State described in section 70202, including by providing advice regarding the development of the freight investment plan.
+
+In General
+
+Qualifications
+
+Role of Committee
+
+## Source Credit
+
+*(Added [Pub. L. 114–94, div. A, title VIII, § 8001(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1610](https://www.govinfo.gov/link/statute/129/1610); amended [Pub. L. 117–58, div. B, title I, § 21107](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 662](https://www.govinfo.gov/link/statute/135/662).)*

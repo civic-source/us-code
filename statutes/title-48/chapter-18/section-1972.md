@@ -3,9 +3,10 @@ title: "Section 1972 - Controlled substances in freely associated states"
 usc_title: 48
 usc_section: "1972"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1972"
-generated_at: "2026-03-30T02:56:14.598Z"
+generated_at: "2026-11-23T20:27:28.184Z"
+status: "active"
 ---
 
 # § 1972. Controlled substances in freely associated states
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:14.598Z"
   - **(1)** that the United States shall carry out the provisions of part C of the Controlled Substances Act ( 21 U.S.C. 821 et seq.) as necessary to provide for the lawful distribution of controlled substances in the freely associated states; and
   - **(2)** that a freely associated state which institutes and maintains a voluntary system to report annual estimates of narcotics needs to the International Narcotics Control Board, and which imposes controls on imports of narcotic drugs consistent with the Single Convention on Narcotic Drugs, 1961, shall be eligible for exports of narcotic drugs from the United States in the same manner as a country meeting the requirements of subsection (a) of section 953 1 1 See References in Text note below. of title 21.
 - **(b)** Agreements concluded pursuant to this section shall become effective pursuant to section 1901(f)(5) of this title or section 1931(d)(5) of this title , as may be applicable.
+
+## Source Credit
+
+*([Pub. L. 101–219, title II, § 201](https://www.govinfo.gov/link/plaw/101/public/219), Dec. 12, 1989, [103 Stat. 1874](https://www.govinfo.gov/link/statute/103/1874).)*

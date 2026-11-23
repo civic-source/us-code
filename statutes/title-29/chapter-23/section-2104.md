@@ -3,9 +3,10 @@ title: "Section 2104 - Administration and enforcement of requirements"
 usc_title: 29
 usc_section: "2104"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 2104"
-generated_at: "2026-03-30T02:55:18.742Z"
+generated_at: "2026-11-23T20:26:38.062Z"
+status: "active"
 ---
 
 # § 2104. Administration and enforcement of requirements
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:18.742Z"
   - **(6)** In any such suit, the court, in its discretion, may allow the prevailing party a reasonable attorney’s fee as part of the costs.
   - **(7)** For purposes of this subsection, the term, 1 1 So in original. The comma probably should not appear. “aggrieved employee” means an employee who has worked for the employer ordering the plant closing or mass layoff and who, as a result of the failure by the employer to comply with section 2102 of this title , did not receive timely notice either directly or through his or her representative as required by section 2102 of this title .
 - **(b)** The remedies provided for in this section shall be the exclusive remedies for any violation of this chapter. Under this chapter, a Federal court shall not have authority to enjoin a plant closing or mass layoff.
+
+## Source Credit
+
+*([Pub. L. 100–379, § 5](https://www.govinfo.gov/link/plaw/100/public/379), Aug. 4, 1988, [102 Stat. 893](https://www.govinfo.gov/link/statute/102/893).)*

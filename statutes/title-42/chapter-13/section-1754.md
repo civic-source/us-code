@@ -3,9 +3,10 @@ title: "Section 1754 - Nutrition promotion"
 usc_title: 42
 usc_section: "1754"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1754"
-generated_at: "2026-03-30T02:56:11.108Z"
+generated_at: "2026-11-23T20:27:21.845Z"
+status: "active"
 ---
 
 # § 1754. Nutrition promotion
@@ -32,3 +33,21 @@ generated_at: "2026-03-30T02:56:11.108Z"
 - **(e)** A State agency, school food authority, and institution receiving funds under this section shall maintain documentation of nutrition promotion activities conducted under this section.
 - **(f)** The Secretary may reallocate, to carry out this section, any amounts made available to carry out this section that are not obligated or expended, as determined by the Secretary.
 - **(g)** There are authorized to be appropriated such sums as are necessary to carry out this section, to remain available until expended.
+
+In General
+
+Special Effective Dates.—
+
+July 1, 2004
+
+October 1, 2004
+
+January 1, 2005
+
+July 1, 2005
+
+October 1, 2005
+
+## Source Credit
+
+*(June 4, 1946, ch. 281, § 5, as added [Pub. L. 108–265, title I, § 101](https://www.govinfo.gov/link/plaw/108/public/265), June 30, 2004, [118 Stat. 730](https://www.govinfo.gov/link/statute/118/730).)*

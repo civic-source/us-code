@@ -3,9 +3,10 @@ title: "Section 5149 - Performance of services"
 usc_title: 42
 usc_section: "5149"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5149"
-generated_at: "2026-03-30T02:56:11.221Z"
+generated_at: "2026-11-23T20:27:22.474Z"
+status: "active"
 ---
 
 # § 5149. Performance of services
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.221Z"
 - **(d)**
   - **(1)** The protections, rights, benefits, and obligations provided under chapter 43 of title 38 shall apply to intermittent personnel appointed pursuant to subsection (b)(1) to perform service to the Federal Emergency Management Agency under sections 5170 and 5191 of this title or to train for such service.
   - **(2)** Preclusion of giving notice of service by necessity of service under subsection (b)(1) to perform service to the Federal Emergency Management Agency under sections 5170 and 5191 of this title or to train for such service shall be considered preclusion by “military necessity” for purposes of section 4312(b) of title 38 pertaining to giving notice of absence from a position of employment. A determination of such necessity shall be made by the Administrator and shall not be subject to review in any judicial or administrative proceeding.
+
+## Source Credit
+
+*([Pub. L. 93–288, title III, § 306](https://www.govinfo.gov/link/plaw/93/public/288), formerly § 309, May 22, 1974, [88 Stat. 149](https://www.govinfo.gov/link/statute/88/149); renumbered § 306, [Pub. L. 100–707, title I, § 105(d)](https://www.govinfo.gov/link/plaw/100/public/707), Nov. 23, 1988, [102 Stat. 4691](https://www.govinfo.gov/link/statute/102/4691); amended [Pub. L. 115–254, div. D, § 1222](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3454](https://www.govinfo.gov/link/statute/132/3454); [Pub. L. 117–178, § 2](https://www.govinfo.gov/link/plaw/117/public/178), Sept. 29, 2022, [136 Stat. 2110](https://www.govinfo.gov/link/statute/136/2110).)*

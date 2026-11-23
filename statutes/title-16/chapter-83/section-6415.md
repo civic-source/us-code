@@ -3,9 +3,10 @@ title: "Section 6415 - Definitions"
 usc_title: 16
 usc_section: "6415"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6415"
-generated_at: "2026-03-30T02:54:23.059Z"
+generated_at: "2026-11-23T20:26:20.795Z"
+status: "active"
 ---
 
 # § 6415. Definitions
@@ -79,3 +80,7 @@ In this chapter:
     - **(C)** any other territory or possession of the United States or separate sovereign in free association with the United States that contains a coral reef ecosystem within its seaward boundaries.
   - **(23)** The term “stewardship”, with respect to a coral reef, includes conservation, restoration, and public outreach and education.
   - **(24)** The term “Task Force” means the United States Coral Reef Task Force established under section 6451 of this title .
+
+## Source Credit
+
+*([Pub. L. 106–562, title II, § 216](https://www.govinfo.gov/link/plaw/106/public/562), as added [Pub. L. 117–263, div. J, title C, § 10001(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3948](https://www.govinfo.gov/link/statute/136/3948).)*

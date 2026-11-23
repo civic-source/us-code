@@ -3,9 +3,10 @@ title: "Section 1493 - Prosecution; authorization to seek review; local or Feder
 usc_title: 48
 usc_section: "1493"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1493"
-generated_at: "2026-03-30T02:56:14.587Z"
+generated_at: "2026-11-23T20:27:28.056Z"
+status: "active"
 ---
 
 # § 1493. Prosecution; authorization to seek review; local or Federal appellate courts; decisions, judgments or orders
@@ -15,3 +16,7 @@ The prosecution in a territory or Commonwealth is authorized—unless precluded 
 - **(a)** a decision, judgment, or order of a trial court dismissing an indictment or information as to any one or more counts, except that no review shall lie where the constitutional prohibition against double jeopardy would further prosecution;
 - **(b)** a decision or order of a trial court suppressing or excluding evidence or requiring the return of seized property in a criminal proceeding, not made after the defendant has been put in jeopardy and before the verdict or finding on an indictment or information, if the prosecution certifies to the trial court that the appeal is not taken for purpose of delay and that the evidence is a substantial proof of a fact material in the proceeding; and
 - **(c)** an adverse decision, judgment, or order of an appellate court.
+
+## Source Credit
+
+*([Pub. L. 98–454, title X, § 1003](https://www.govinfo.gov/link/plaw/98/public/454), Oct. 5, 1984, [98 Stat. 1746](https://www.govinfo.gov/link/statute/98/1746).)*

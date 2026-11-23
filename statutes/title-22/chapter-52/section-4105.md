@@ -3,9 +3,10 @@ title: "Section 4105 - Management rights"
 usc_title: 22
 usc_section: "4105"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4105"
-generated_at: "2026-03-30T02:55:05.406Z"
+generated_at: "2026-11-23T20:26:32.518Z"
+status: "active"
 ---
 
 # § 4105. Management rights
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:05.406Z"
   - **(1)** at the election of the Department, on the numbers, types, and classes of employees or positions assigned to any organizational subdivision, work project, or tour of duty, or on the technology, methods, and means of performing work;
   - **(2)** procedures which management officials of the Department will observe in exercising any function under this section; or
   - **(3)** appropriate arrangements for employees adversely affected by the exercise of any function under this section by such management officials.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 1005](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2131](https://www.govinfo.gov/link/statute/94/2131); [Pub. L. 103–236, title I, § 181(b)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 417](https://www.govinfo.gov/link/statute/108/417); [Pub. L. 103–415, § 1(jj)(2)](https://www.govinfo.gov/link/plaw/103/public/415), Oct. 25, 1994, [108 Stat. 4303](https://www.govinfo.gov/link/statute/108/4303).)*

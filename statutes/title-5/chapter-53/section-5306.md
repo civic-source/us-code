@@ -3,9 +3,10 @@ title: "Section 5306 - Pay fixed by administrative action"
 usc_title: 5
 usc_section: "5306"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 5306"
-generated_at: "2026-03-30T02:52:56.012Z"
+generated_at: "2026-11-23T20:25:31.877Z"
+status: "active"
 ---
 
 # § 5306. Pay fixed by administrative action
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:52:56.012Z"
 - **(c)** This section does not authorize any adjustment in the rates of pay of employees whose rates of pay are fixed and adjusted from time to time as nearly as is consistent with the public interest in accordance with prevailing rates or practices.
 - **(d)** This section does not impair any authority under which rates of pay may be fixed by administrative action.
 - **(e)** Pay may not be paid, by reason of any exercise of authority under this section, at a rate in excess of the rate of basic pay payable for level V of the Executive Schedule.
+
+## Source Credit
+
+*(Added [Pub. L. 91–656, § 3(a)](https://www.govinfo.gov/link/plaw/91/public/656), Jan. 8, 1971, [84 Stat. 1949](https://www.govinfo.gov/link/statute/84/1949); amended [Pub. L. 101–509, title V, § 529 [title I, § 101(a)(1)]](https://www.govinfo.gov/link/plaw/101/public/509), Nov. 5, 1990, [104 Stat. 1427](https://www.govinfo.gov/link/statute/104/1427), 1437; [Pub. L. 102–378, § 2(27)](https://www.govinfo.gov/link/plaw/102/public/378), Oct. 2, 1992, [106 Stat. 1350](https://www.govinfo.gov/link/statute/106/1350); [Pub. L. 104–186, title II, § 215(3)](https://www.govinfo.gov/link/plaw/104/public/186), Aug. 20, 1996, [110 Stat. 1745](https://www.govinfo.gov/link/statute/110/1745).)*

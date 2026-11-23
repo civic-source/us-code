@@ -3,9 +3,10 @@ title: "Section 10334 - Review of applications"
 usc_title: 34
 usc_section: "10334"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10334"
-generated_at: "2026-03-30T02:55:33.266Z"
+generated_at: "2026-11-23T20:26:50.458Z"
+status: "active"
 ---
 
 # § 10334. Review of applications
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:33.266Z"
   - **(3)** the Director determines that the application submitted under section 10332 of this title or amendment to such application is consistent with the requirements of this chapter.
 - **(b)** Each application or amendment made and submitted for approval to the Director pursuant to section 10333 of this title shall be deemed approved, in whole or in part, by the Director not later than 60 days after first received unless the Director informs the applicant of specific reasons for disapproval.
 - **(c)** The Director shall not finally disapprove any application, or any amendment thereto, submitted to the Director under this section without first affording the applicant reasonable notice and opportunity for reconsideration.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 1404](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 101–647, title II, § 241(a)(2)](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4811](https://www.govinfo.gov/link/statute/104/4811); amended [Pub. L. 103–322, title IV, § 40156(c)(4)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1923](https://www.govinfo.gov/link/statute/108/1923).)*

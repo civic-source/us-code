@@ -3,12 +3,17 @@ title: "Section 1816a - Design-build contracts"
 usc_title: 2
 usc_section: "1816a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1816a"
-generated_at: "2026-03-30T02:53:04.817Z"
+generated_at: "2026-11-23T20:25:28.984Z"
+status: "active"
 ---
 
 # § 1816a. Design-build contracts
 
 - **(a)** Notwithstanding any other provision of law, the Architect of the Capitol may use the two-phase selection procedures authorized in section 3309 of title 41 for entering into a contract for the design and construction of a public building, facility, or work in the same manner and under the same terms and conditions as the head of an executive agency under such section.
 - **(b)** This section shall apply with respect to fiscal year 2008 and each succeeding fiscal year.
+
+## Source Credit
+
+*([Pub. L. 110–161, div. H, title I, § 1308](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2244](https://www.govinfo.gov/link/statute/121/2244).)*

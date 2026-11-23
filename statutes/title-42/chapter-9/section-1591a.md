@@ -3,9 +3,10 @@ title: "Section 1591a - Construction by private enterprise"
 usc_title: 42
 usc_section: "1591a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1591a"
-generated_at: "2026-03-30T02:56:11.104Z"
+generated_at: "2026-11-23T20:27:21.829Z"
+status: "active"
 ---
 
 # § 1591a. Construction by private enterprise
@@ -16,3 +17,7 @@ In order to assure that private enterprise shall be afforded full opportunity to
 - **(b)** second, residential credit restrictions under the Defense Production Act of 1950, as amended [ 50 U.S.C. 4501 et seq.], (1) as to housing to be sold at $12,000 or less per unit or to be rented at $85 or less per unit per month, shall be suspended with respect to the number and types of housing units at the sales prices or rentals which the President determines to be needed in such area for defense workers or military personnel, and (2) as to all other housing, shall be relaxed in such manner and to such extent as the President determines to be necessary and appropriate to obtain the production of such housing needed in such area for defense workers or military personnel;
 - **(c)** third, the mortgage insurance aids provided under title II of this Act shall be made available to obtain the production of housing needed in such area for defense workers or military personnel; and
 - **(d)** fourth, no permanent housing shall be constructed by the Federal Government under the provisions of subchapter IX of this chapter except to the extent that private builders or eligible mortgagees have not, within a period of not less than ninety days (as the Secretary of Housing and Urban Development shall specify) following public announcement of the availability of such mortgage insurance aids under title II of this Act, indicated through bona fide applications (which meet the requirements as to types, rentals, or sales prices, and general locations) for exceptions from such residential credit restrictions or for mortgage insurance or guaranty that they will provide the housing determined to be needed in such area for defense workers and military personnel and publicly announced as provided by subsection (a) of this section.
+
+## Source Credit
+
+*(Sept. 1, 1951, ch. 378, title I, § 102, [65 Stat. 294](https://www.govinfo.gov/link/statute/65/294); [Pub. L. 89–174, § 5(a)](https://www.govinfo.gov/link/plaw/89/public/174), Sept. 9, 1965, [79 Stat. 669](https://www.govinfo.gov/link/statute/79/669).)*

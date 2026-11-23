@@ -3,9 +3,10 @@ title: "Section 5106g - Definitions"
 usc_title: 42
 usc_section: "5106g"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5106g"
-generated_at: "2026-03-30T02:56:11.218Z"
+generated_at: "2026-11-23T20:27:22.458Z"
+status: "active"
 ---
 
 # § 5106g. Definitions
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.218Z"
 - **(b)**
   - **(1)** For purposes of section 3(2) 1 1 See References in Text note below. and subsection (a)(4), a child shall be considered a victim of “child abuse and neglect” and of “sexual abuse” if the child is identified, by a State or local agency employee of the State or locality involved, as being a victim of human trafficking.
   - **(2)** Notwithstanding the definition of “child” in section 3(1), 1 a State may elect to define that term for purposes of the application of paragraph (1) to section 3(2) 1 and subsection (a)(4) as a person who has not attained the age of 24.
+
+## Source Credit
+
+*([Pub. L. 93–247, title I, § 111](https://www.govinfo.gov/link/plaw/93/public/247), formerly § 14, as added [Pub. L. 100–294, title I, § 101](https://www.govinfo.gov/link/plaw/100/public/294), Apr. 25, 1988, [102 Stat. 116](https://www.govinfo.gov/link/statute/102/116); renumbered title I, § 113, and amended [Pub. L. 101–126, § 3(a)(1)](https://www.govinfo.gov/link/plaw/101/public/126), (2), (b)(7), Oct. 25, 1989, [103 Stat. 764](https://www.govinfo.gov/link/statute/103/764), 765; renumbered § 111 and amended [Pub. L. 104–235, title I](https://www.govinfo.gov/link/plaw/104/public/235), §§ 110, 113(a)(1)(B), Oct. 3, 1996, [110 Stat. 3078](https://www.govinfo.gov/link/statute/110/3078), 3079; [Pub. L. 111–320, title I](https://www.govinfo.gov/link/plaw/111/public/320), §§ 119, 142(b), Dec. 20, 2010, [124 Stat. 3477](https://www.govinfo.gov/link/statute/124/3477), 3483; [Pub. L. 114–22, title VIII, § 802(c)(1)](https://www.govinfo.gov/link/plaw/114/public/22), (3), May 29, 2015, [129 Stat. 264](https://www.govinfo.gov/link/statute/129/264); [Pub. L. 114–95, title IX, § 9215](https://www.govinfo.gov/link/plaw/114/public/95) (o), Dec. 10, 2015, [129 Stat. 2170](https://www.govinfo.gov/link/statute/129/2170); [Pub. L. 117–348, title I, § 133](https://www.govinfo.gov/link/plaw/117/public/348), Jan. 5, 2023, [136 Stat. 6221](https://www.govinfo.gov/link/statute/136/6221).)*

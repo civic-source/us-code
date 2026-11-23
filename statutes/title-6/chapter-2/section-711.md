@@ -3,9 +3,10 @@ title: "Section 711 - Surge Capacity Force"
 usc_title: 6
 usc_section: "711"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 711"
-generated_at: "2026-03-30T02:53:09.498Z"
+generated_at: "2026-11-23T20:25:34.859Z"
+status: "active"
 ---
 
 # § 711. Surge Capacity Force
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:09.498Z"
 - **(g)** As soon as practicable after October 4, 2006 , the Administrator shall develop and implement—
   - **(1)** the procedures under subsection (b); and
   - **(2)** other elements of the plan needed to establish the portion of the Surge Capacity Force consisting of individuals designated under those procedures.
+
+## Source Credit
+
+*([Pub. L. 109–295, title VI, § 624](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1419](https://www.govinfo.gov/link/statute/120/1419).)*

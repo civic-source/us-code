@@ -3,9 +3,10 @@ title: "Section 2314 - Waivers"
 usc_title: 21
 usc_section: "2314"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 2314"
-generated_at: "2026-03-30T02:54:54.311Z"
+generated_at: "2026-11-23T20:26:27.912Z"
+status: "active"
 ---
 
 # § 2314. Waivers
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:54.311Z"
   - **(2)** The President shall establish a monitoring program to verify that a person that receives a waiver under paragraph (1)(B) is not trafficking illicit opioids.
   - **(3)** Not later than 15 days after making a determination under paragraph (1), the President shall notify the appropriate congressional committees and leadership of the determination and the reasons for the determination.
 - **(c)** The President may waive, for renewable periods of 180 days, the application of the sanctions under this subchapter if the President certifies to the appropriate congressional committees and leadership that the waiver is necessary for the provision of humanitarian assistance.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. F, title LXXII, § 7214](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2267](https://www.govinfo.gov/link/statute/133/2267).)*

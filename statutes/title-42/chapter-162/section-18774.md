@@ -3,9 +3,10 @@ title: "Section 18774 - Data collection on electric vehicle integration with the
 usc_title: 42
 usc_section: "18774"
 chapter: 162
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18774"
-generated_at: "2026-03-30T02:56:11.530Z"
+generated_at: "2026-11-23T20:27:23.829Z"
+status: "active"
 ---
 
 # § 18774. Data collection on electric vehicle integration with the electricity grids
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.530Z"
   - **(3)** the Administrator of the Environmental Protection Agency;
   - **(4)** States or State agencies; and
   - **(5)** private entities.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title IV, § 40414](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1043](https://www.govinfo.gov/link/statute/135/1043).)*

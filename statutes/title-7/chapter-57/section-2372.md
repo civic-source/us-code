@@ -3,12 +3,17 @@ title: "Section 2372 - Payment of plant variety protection fees; return of exces
 usc_title: 7
 usc_section: "2372"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2372"
-generated_at: "2026-03-30T02:53:42.387Z"
+generated_at: "2026-11-23T20:25:41.529Z"
+status: "active"
 ---
 
 # § 2372. Payment of plant variety protection fees; return of excess amounts
 
 All fees shall be paid to the Secretary, and the Secretary may refund any sum paid by mistake or in excess of the fee required.
 
+
+## Source Credit
+
+*([Pub. L. 91–577, title I, § 32](https://www.govinfo.gov/link/plaw/91/public/577), Dec. 24, 1970, [84 Stat. 1545](https://www.govinfo.gov/link/statute/84/1545).)*

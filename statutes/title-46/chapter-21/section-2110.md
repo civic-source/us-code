@@ -3,9 +3,10 @@ title: "Section 2110 - Fees"
 usc_title: 46
 usc_section: "2110"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 2110"
-generated_at: "2026-03-30T02:56:15.541Z"
+generated_at: "2026-11-23T20:27:27.046Z"
+status: "active"
 ---
 
 # § 2110. Fees
@@ -32,3 +33,16 @@ generated_at: "2026-03-30T02:56:15.541Z"
 - **(h)** Fees and charges collected by the Secretary under this section shall be deposited in the general fund of the Treasury as offsetting receipts of the department in which the Coast Guard is operating and ascribed to Coast Guard activities.
 - **(i)** The collection of a fee or charge under this section does not alter or expand the functions, powers, responsibilities, or liability of the United States under any law for the performance of services or the provision of a thing of value for which a fee or charge is collected under this section.
 - **(j)** The Secretary may not establish or collect a fee or charge for the inspection under part B of this subtitle of training vessels operated by State maritime academies.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 2110 | 46:331 |
+
+
+Historical and Revision Notes
+
+2110
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 507](https://www.govinfo.gov/link/statute/97/507); [Pub. L. 99–509, title V, § 5102(b)(4)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1927](https://www.govinfo.gov/link/statute/100/1927); [Pub. L. 100–710, title I, § 104(a)(3)](https://www.govinfo.gov/link/plaw/100/public/710), Nov. 23, 1988, [102 Stat. 4749](https://www.govinfo.gov/link/statute/102/4749); [Pub. L. 101–508, title X, § 10401(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–397](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 102–241, § 53](https://www.govinfo.gov/link/plaw/102/public/241), Dec. 19, 1991, [105 Stat. 2232](https://www.govinfo.gov/link/statute/105/2232); [Pub. L. 102–582, title V, § 501(a)](https://www.govinfo.gov/link/plaw/102/public/582), Nov. 2, 1992, [106 Stat. 4909](https://www.govinfo.gov/link/statute/106/4909); [Pub. L. 102–587, title V, § 5207](https://www.govinfo.gov/link/plaw/102/public/587), Nov. 4, 1992, [106 Stat. 5075](https://www.govinfo.gov/link/statute/106/5075); [Pub. L. 104–324, title XI, § 1112](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3970](https://www.govinfo.gov/link/statute/110/3970); [Pub. L. 105–383, title II, § 207](https://www.govinfo.gov/link/plaw/105/public/383), Nov. 13, 1998, [112 Stat. 3416](https://www.govinfo.gov/link/statute/112/3416); [Pub. L. 107–295, title III, § 344](https://www.govinfo.gov/link/plaw/107/public/295), Nov. 25, 2002, [116 Stat. 2106](https://www.govinfo.gov/link/statute/116/2106); [Pub. L. 109–304, § 15(6)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1702](https://www.govinfo.gov/link/statute/120/1702); [Pub. L. 113–281, title III, § 311(a)](https://www.govinfo.gov/link/plaw/113/public/281), Dec. 18, 2014, [128 Stat. 3047](https://www.govinfo.gov/link/statute/128/3047); [Pub. L. 115–232, div. C, title XXXV, § 3546(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2326](https://www.govinfo.gov/link/statute/132/2326).)*

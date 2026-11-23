@@ -3,9 +3,10 @@ title: "Section 133b - Under Secretary of Defense for Acquisition and Sustainmen
 usc_title: 10
 usc_section: "133b"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 133b"
-generated_at: "2026-03-30T02:53:38.036Z"
+generated_at: "2026-11-23T20:25:50.824Z"
+status: "active"
 ---
 
 # § 133b. Under Secretary of Defense for Acquisition and Sustainment
@@ -35,3 +36,21 @@ generated_at: "2026-03-30T02:53:38.036Z"
 - **(c)**
   - **(1)** With regard to all matters for which the Under Secretary has responsibility by the direction of the Secretary of Defense or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary, the Deputy Secretary of Defense, and the Under Secretary of Defense for Research and Engineering.
   - **(2)** With regard to all matters other than the matters for which the Under Secretary has responsibility by the direction of the Secretary or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary, the Deputy Secretary, the Under Secretary of Defense for Research and Engineering, and the Secretaries of the military departments.
+
+Under Secretary of Defense
+
+Duties and Powers
+
+Precedence in Department of Defense.—
+
+Precedence in matters of responsibility
+
+Precedence in other matters
+
+Portfolio Manager
+
+Accessibility of Information
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. A, title IX, § 901(b)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2340](https://www.govinfo.gov/link/statute/130/2340); amended [Pub. L. 115–91, div. A, title IX](https://www.govinfo.gov/link/plaw/115/public/91), §§ 902, 910(c)(3), Dec. 12, 2017, [131 Stat. 1511](https://www.govinfo.gov/link/statute/131/1511), 1518; [Pub. L. 116–92, div. A, title IX, § 902(92)](https://www.govinfo.gov/link/plaw/116/public/92), title XVI, § 1662(a), Dec. 20, 2019, [133 Stat. 1554](https://www.govinfo.gov/link/statute/133/1554), 1772; [Pub. L. 116–283, div. A, title VIII, § 811(a)(2)](https://www.govinfo.gov/link/plaw/116/public/283), title XVIII, § 1883(b)(2), Jan. 1, 2021, [134 Stat. 3749](https://www.govinfo.gov/link/statute/134/3749), 4294; [Pub. L. 118–31, div. A, title IX, § 901(a)(2)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 354](https://www.govinfo.gov/link/statute/137/354); [Pub. L. 118–159, div. A, title IX, § 903(a)(1)](https://www.govinfo.gov/link/plaw/118/public/159), title XVI, § 1621(b), Dec. 23, 2024, [138 Stat. 2026](https://www.govinfo.gov/link/statute/138/2026), 2171; [Pub. L. 119–60, div. A, title XVIII, § 1801(a)(2)(A)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1221](https://www.govinfo.gov/link/statute/139/1221).)*

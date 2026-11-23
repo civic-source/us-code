@@ -3,9 +3,10 @@ title: "Section 18122 - Rule of construction regarding health care providers"
 usc_title: 42
 usc_section: "18122"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18122"
-generated_at: "2026-03-30T02:56:11.517Z"
+generated_at: "2026-11-23T20:27:23.792Z"
+status: "active"
 ---
 
 # § 18122. Rule of construction regarding health care providers
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.517Z"
     - **(C)** The term “medical malpractice or medical product liability action or claim” means a medical malpractice action or claim (as defined in section 11151(7) of this title ) and includes a liability action or claim relating to a health care provider’s prescription or provision of a drug, device, or biological product (as such terms are defined in section 321 of title 21 or section 262 of this title ).
     - **(D)** The term “State” includes the District of Columbia, Puerto Rico, and any other commonwealth, possession, or territory of the United States.
   - **(3)** Nothing in paragraph (1) or any provision of the Patient Protection and Affordable Care Act ( Public Law 111–148 ), title I or subtitle B of title II of the Health Care and Education Reconciliation Act of 2010 ( Public Law 111–152 ), or title XVIII or XIX of the Social Security Act ( 42 U.S.C. 1395 et seq., 42 U.S.C. 1396 et seq.) shall be construed to preempt any State or common law governing medical professional or medical product liability actions or claims.
+
+## Source Credit
+
+*([Pub. L. 114–10, title I, § 106(d)](https://www.govinfo.gov/link/plaw/114/public/10), Apr. 16, 2015, [129 Stat. 142](https://www.govinfo.gov/link/statute/129/142).)*

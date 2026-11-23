@@ -3,9 +3,10 @@ title: "Section 8235a - Approval of plans for prototype residential energy effic
 usc_title: 42
 usc_section: "8235a"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8235a"
-generated_at: "2026-03-30T02:56:11.337Z"
+generated_at: "2026-11-23T20:27:23.008Z"
+status: "active"
 ---
 
 # § 8235a. Approval of plans for prototype residential energy efficiency programs and provision of financial assistance for such programs
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.337Z"
   - **(3)** a written warranty that at a minimum any defect in materials, manufacture, design, or installation of any energy conservation measures supplied and installed pursuant to paragraph (2), found not later than one year after the date of installation, will be remedied without charge and within a reasonable period of time.
 - **(c)** The Secretary may provide financial assistance to any State or local government to carry out any plan for the establishment of a prototype residential energy efficiency program if the plan is approved under subsection (a).
 - **(d)** The Secretary may approve under subsection (a) not more than 4 plans for the establishment of prototype residential energy efficiency programs.
+
+## Source Credit
+
+*([Pub. L. 95–619, title II, § 262](https://www.govinfo.gov/link/plaw/95/public/619), as added [Pub. L. 96–294, title V, § 562](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 746](https://www.govinfo.gov/link/statute/94/746).)*

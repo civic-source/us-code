@@ -3,9 +3,10 @@ title: "Section 8125 - Procurement of health-care items"
 usc_title: 38
 usc_section: "8125"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 8125"
-generated_at: "2026-03-30T02:55:53.538Z"
+generated_at: "2026-11-23T20:27:02.073Z"
+status: "active"
 ---
 
 # § 8125. Procurement of health-care items
@@ -29,3 +30,15 @@ generated_at: "2026-03-30T02:55:53.538Z"
   - **(1)** The term “health-care item” includes any item listed in, or (as determined by the Secretary) of the same nature as an item listed in, Federal Supply Classification (FSC) Group 65 or 66. Effective December 1, 1992 , such term also includes any item listed in, or (as determined by the Secretary) of the same nature as an item listed in, Federal Supply Classification (FSC) Group 73. Such term does not include perishable items.
   - **(2)** The term “local contract” means a contract entered into by a Department medical center for procurement of an item for use by that medical center.
   - **(3)** The term “emergency procurement” means a procurement necessary to meet an emergency need, affecting the health or safety of a person being furnished health-care services by the Department, for an item.
+
+Vendors
+
+Clinically Driven Sourcing.—
+
+Expertise
+
+Lists
+
+## Source Credit
+
+*(Added [Pub. L. 100–322, title IV, § 403(a)(1)](https://www.govinfo.gov/link/plaw/100/public/322), May 20, 1988, [102 Stat. 543](https://www.govinfo.gov/link/statute/102/543), § 5025; amended [Pub. L. 100–687, div. B, title XV, § 1507(b)](https://www.govinfo.gov/link/plaw/100/public/687), (c), Nov. 18, 1988, [102 Stat. 4136](https://www.govinfo.gov/link/statute/102/4136), 4137; renumbered § 8125, [Pub. L. 102–40, title IV, § 402(b)(1)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238); [Pub. L. 102–83, § 4(a)(3)](https://www.govinfo.gov/link/plaw/102/public/83), (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404](https://www.govinfo.gov/link/statute/105/404), 405; [Pub. L. 102–405, title III, § 302(c)(1)](https://www.govinfo.gov/link/plaw/102/public/405), Oct. 9, 1992, [106 Stat. 1984](https://www.govinfo.gov/link/statute/106/1984); [Pub. L. 107–14, § 8(a)(15)](https://www.govinfo.gov/link/plaw/107/public/14), June 5, 2001, [115 Stat. 35](https://www.govinfo.gov/link/statute/115/35); [Pub. L. 113–188, title XVII, § 1701](https://www.govinfo.gov/link/plaw/113/public/188), Nov. 26, 2014, [128 Stat. 2026](https://www.govinfo.gov/link/statute/128/2026).)*

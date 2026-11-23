@@ -3,9 +3,10 @@ title: "Section 5220 - Assistance to homeowners"
 usc_title: 12
 usc_section: "5220"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5220"
-generated_at: "2026-03-30T02:53:53.525Z"
+generated_at: "2026-11-23T20:25:59.451Z"
+status: "active"
 ---
 
 # § 5220. Assistance to homeowners
@@ -34,3 +35,13 @@ generated_at: "2026-03-30T02:53:53.525Z"
   - **(1)** encourage implementation by the loan servicers of loan modifications developed under subsection (b); and
   - **(2)** assist in facilitating any such modifications, to the extent possible.
 - **(d)** The requirements of this section shall not supersede any other duty or requirement imposed on the Federal property managers under otherwise applicable law.
+
+In General
+
+Bona Fide Lease or Tenancy
+
+Definition
+
+## Source Credit
+
+*([Pub. L. 110–343, div. A, title I, § 110](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3775](https://www.govinfo.gov/link/statute/122/3775).)*

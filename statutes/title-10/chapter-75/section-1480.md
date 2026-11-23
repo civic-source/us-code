@@ -3,9 +3,10 @@ title: "Section 1480 - Death gratuity: miscellaneous provisions"
 usc_title: 10
 usc_section: "1480"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1480"
-generated_at: "2026-03-30T02:53:38.125Z"
+generated_at: "2026-11-23T20:25:51.352Z"
+status: "active"
 ---
 
 # § 1480. Death gratuity: miscellaneous provisions
@@ -23,3 +24,26 @@ generated_at: "2026-03-30T02:53:38.125Z"
 - **(e)** In the case of a claim for a death gratuity under this chapter by an individual who is younger than 21 years of age on the date of the death with respect to which the claim is made, the individual shall file the claim with the Secretary of Defense not later than the later of—
   - **(1)** the date that is three years after the individual reaches 21 years of age; or
   - **(2)** the date that is six years after the date of the death with respect to which the claim is made.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1480(a) 1480(b) 1480(c) 1480(d) | 38:1134(a). 38:1133(e). 38:1101(6)(B) (less 1st sentence, as applicable to death gratuity). 38:1134(b). | Aug. 1, 1956, ch. 837 , §§ 102(6)(B) (less 1st sentence, as applicable to death gratuity) 303(e), 304(a), (b), 70 Stat. 859 , 869. |
+
+
+Historical and Revision Notes
+
+1480(a)
+
+1480(b)
+
+1480(c)
+
+1480(d)
+
+Aug. 1, 1956, ch. 837
+
+70 Stat. 859
+
+## Source Credit
+
+*(Added [Pub. L. 85–861, § 1(32)(A)](https://www.govinfo.gov/link/plaw/85/public/861), Sept. 2, 1958, [72 Stat. 1455](https://www.govinfo.gov/link/statute/72/1455); amended [Pub. L. 101–189, div. A, title XVI, § 1621(a)(2)](https://www.govinfo.gov/link/plaw/101/public/189), (5), Nov. 29, 1989, [103 Stat. 1603](https://www.govinfo.gov/link/statute/103/1603); [Pub. L. 118–159, div. A, title VI, § 632(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1937](https://www.govinfo.gov/link/statute/138/1937).)*

@@ -3,9 +3,10 @@ title: "Section 8451 - Disability retirement"
 usc_title: 5
 usc_section: "8451"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8451"
-generated_at: "2026-03-30T02:52:56.061Z"
+generated_at: "2026-11-23T20:25:32.221Z"
+status: "active"
 ---
 
 # § 8451. Disability retirement
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:52:56.061Z"
     - **(D)** For purposes of subparagraph (A), an employee of the United States Postal Service shall not be considered qualified for a position if such position is in a different craft or if reassignment to such position would be inconsistent with the terms of a collective-bargaining agreement covering the employee.
 - **(b)** A Member who completes at least 18 months of service as a Member and is found by the Office to be disabled for useful and efficient service as a Member because of disease or injury shall be retired on the Member’s own application.
 - **(c)** An employee or Member retiring under this section is entitled to an annuity computed under section 8452.
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 565](https://www.govinfo.gov/link/statute/100/565).)*

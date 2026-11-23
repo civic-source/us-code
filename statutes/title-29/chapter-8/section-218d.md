@@ -3,9 +3,10 @@ title: "Section 218d - Breastfeeding accommodations in the workplace"
 usc_title: 29
 usc_section: "218d"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 218d"
-generated_at: "2026-03-30T02:55:18.682Z"
+generated_at: "2026-11-23T20:26:37.810Z"
+status: "active"
 ---
 
 # § 218d. Breastfeeding accommodations in the workplace
@@ -55,3 +56,25 @@ generated_at: "2026-03-30T02:55:18.682Z"
 - **(h)**
   - **(1)** Nothing in this section shall preempt a State law or municipal ordinance that provides greater protections to employees than the protections provided for under this section.
   - **(2)** This section shall have no effect on the preemption of a State law or municipal ordinance that is preempted under subtitle IV, V, or VII of title 49.
+
+In general
+
+Definitions
+
+Employee; employer
+
+Employees
+
+who maintains the right of way; rail carrier; train crew
+
+In general
+
+Definitions
+
+Employee; employer
+
+Motorcoach; motorcoach services operator
+
+## Source Credit
+
+*(June 25, 1938, ch. 676, § 18D, as added [Pub. L. 117–328, div. KK, § 102(a)(2)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 6093](https://www.govinfo.gov/link/statute/136/6093).)*

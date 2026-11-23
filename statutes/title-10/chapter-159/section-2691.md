@@ -3,9 +3,10 @@ title: "Section 2691 - Restoration of land used by permit or damaged by mishap; 
 usc_title: 10
 usc_section: "2691"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2691"
-generated_at: "2026-03-30T02:53:38.171Z"
+generated_at: "2026-11-23T20:25:51.661Z"
+status: "active"
 ---
 
 # § 2691. Restoration of land used by permit or damaged by mishap; reimbursement of State costs of fighting wildland fires
@@ -20,3 +21,17 @@ generated_at: "2026-03-30T02:53:38.171Z"
   - **(1)** When land under the administrative jurisdiction of a Federal agency that is not a part of the Department of Defense is damaged as the result of a mishap involving a vessel, aircraft, or vehicle of the Department of Defense, the Secretary of Defense may, with the consent of the Federal agency, restore the land.
   - **(2)** When land under the administrative jurisdiction of the Department of Defense or a military department is damaged as the result of a mishap involving a vessel, aircraft, or vehicle of a Federal agency that is not a part of the Department of Defense, the head of the Federal agency under whose control the vessel, aircraft, or vehicle was operating may, with the consent of the Department of Defense, restore the land.
   - **(3)** The authority under paragraphs (1) and (2) includes activities and expenditures necessary to complete restoration to meet the regulations of the Federal department or agency with administrative jurisdiction over the affected land, which may be different than the regulations of the Department of Defense.
+
+Restoration of Other Agency Land Used by Permit
+
+Screening for Use of Improved Land
+
+Restoration of Department of Defense Land Used by Other Agency
+
+Wildland Fires on State Land
+
+Restoration of Land Damaged by Mishap
+
+## Source Credit
+
+*(Added [Pub. L. 98–407, title VIII, § 804(a)](https://www.govinfo.gov/link/plaw/98/public/407), Aug. 28, 1984, [98 Stat. 1519](https://www.govinfo.gov/link/statute/98/1519); amended [Pub. L. 99–145, title XIII, § 1303(a)(17)](https://www.govinfo.gov/link/plaw/99/public/145), Nov. 8, 1985, [99 Stat. 739](https://www.govinfo.gov/link/statute/99/739); [Pub. L. 105–261, div. B, title XXVIII, § 2812(a)](https://www.govinfo.gov/link/plaw/105/public/261), (b)(1), Oct. 17, 1998, [112 Stat. 2205](https://www.govinfo.gov/link/statute/112/2205); [Pub. L. 107–217, § 3(b)(15)](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1296](https://www.govinfo.gov/link/statute/116/1296); [Pub. L. 111–350, § 5(b)(46)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3846](https://www.govinfo.gov/link/statute/124/3846); [Pub. L. 115–91, div. B, title XXVIII, § 2814(a)](https://www.govinfo.gov/link/plaw/115/public/91), (b), Dec. 12, 2017, [131 Stat. 1849](https://www.govinfo.gov/link/statute/131/1849), 1850; [Pub. L. 115–232, div. A, title III, § 353](https://www.govinfo.gov/link/plaw/115/public/232), title X, § 1081(a)(27), Aug. 13, 2018, [132 Stat. 1731](https://www.govinfo.gov/link/statute/132/1731), 1985; [Pub. L. 117–263, div. A, title X, § 1081(a)(3)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2797](https://www.govinfo.gov/link/statute/136/2797).)*

@@ -3,9 +3,10 @@ title: "Section 242 - Powers of Secretary"
 usc_title: 7
 usc_section: "242"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 242"
-generated_at: "2026-03-30T02:53:42.279Z"
+generated_at: "2026-11-23T20:25:41.008Z"
+status: "active"
 ---
 
 # § 242. Powers of Secretary
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:53:42.279Z"
 - **(m)** The Secretary may—
   - **(1)** cooperate with officers and employees of a State who administer or enforce State laws relating to warehouses, warehouse operators, weighers, graders, inspectors, samplers, or classifiers; and
   - **(2)** enter into cooperative agreements with States to perform activities authorized under this chapter.
+
+## Source Credit
+
+*(Aug. 11, 1916, ch. 313, pt. C, § 3, as added [Pub. L. 106–472, title II, § 201](https://www.govinfo.gov/link/plaw/106/public/472), Nov. 9, 2000, [114 Stat. 2062](https://www.govinfo.gov/link/statute/114/2062).)*

@@ -3,9 +3,10 @@ title: "Section 5512 - Use of available balances of expired appropriations"
 usc_title: 2
 usc_section: "5512"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 5512"
-generated_at: "2026-03-30T02:53:04.837Z"
+generated_at: "2026-11-23T20:25:29.062Z"
+status: "active"
 ---
 
 # § 5512. Use of available balances of expired appropriations
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:04.837Z"
   - **(1)** for the payment of a death gratuity which is specifically appropriated by law and which is made in connection with the death of an employee of the House of Representatives, without regard to the fiscal year in which the payment is made; and
   - **(2)** for deposit into the account established under section 5508 of this title for making payments of the House of Representatives to the Employees’ Compensation Fund under section 8147 of title 5 and for reimbursing the Secretary of Labor for any amounts paid with respect to unemployment compensation payments for former employees of the House.
 - **(b)** This section shall apply with respect to funds appropriated or otherwise made available in fiscal year 2020 and each succeeding fiscal year.
+
+## Source Credit
+
+*([Pub. L. 116–94, div. E, title I, § 116](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 2760](https://www.govinfo.gov/link/statute/133/2760).)*

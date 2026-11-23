@@ -3,9 +3,10 @@ title: "Section 407 - Reclamation Water Settlements Fund"
 usc_title: 43
 usc_section: "407"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 407"
-generated_at: "2026-03-30T02:55:57.447Z"
+generated_at: "2026-11-23T20:27:06.203Z"
+status: "active"
 ---
 
 # § 407. Reclamation Water Settlements Fund
@@ -56,3 +57,89 @@ generated_at: "2026-03-30T02:55:57.447Z"
 - **(f)** On September 30, 2034 —
   - **(1)** the Fund shall terminate; and
   - **(2)** the unexpended and unobligated balance of the Fund shall be transferred to the appropriate fund of the Treasury.
+
+(aa) In general Except as provided under item (bb), the amount expended under subclause (I) shall not exceed $500,000,000 for the period of fiscal years 2020 through 2029.
+
+(bb) Exception The limitation on the expenditure amount under item (aa) may be exceeded during the entire period in which the Fund is in existence if such additional funds can be expended without limiting the amounts identified in clauses (ii) through (iv).
+
+(aa) In general Except as provided under item (bb), the amount expended under subclause (I) shall not exceed $350,000,000 for the period of fiscal years 2020 through 2029.
+
+(bb) Exception The limitation on the expenditure amount under item (aa) may be exceeded during the entire period in which the Fund is in existence if such additional funds can be expended without limiting the amounts identified in clause (i), (ii), and (iv).
+
+(cc) Other funding The Secretary shall ensure that any funding under this clause shall be provided in a manner that does not limit the funding available pursuant to clauses (i) and (ii).
+
+(aa) In general Except as provided under item (bb), the amount expended under subclause (I) shall not exceed $100,000,000 for the period of fiscal years 2020 through 2029.
+
+(bb) Exception The limitation on the expenditure amount under item (aa) may be exceeded during the entire period in which the Fund is in existence if such additional funds can be expended without limiting the amounts identified in clauses (i) through (iii).
+
+(cc) Other funding The Secretary shall ensure that any funding under this clause shall be provided in a manner that does not limit the funding available pursuant to clauses (i) and (ii).
+
+Effect of Execution of Agreement
+
+Compliance With Environmental Laws
+
+“In this subtitle [subtitle B (§§ 10301–10704) of title X of Pub. L. 111–11 , enacting this section, former section 615jj, and section 620n–1 of this title , amending former section 615ss and sections 620 and 620 o of this title, repealing former section 615jj of this title , and enacting provisions set out as notes under this section and sections 371 and 620 of this title]:
+
+Aamodt adjudication
+
+Abeyta adjudication
+
+Acre-feet
+
+Agreement
+
+Allottee
+
+Animas-la plata project
+
+City
+
+Colorado river compact
+
+Colorado river system
+
+Compact
+
+Contract
+
+Depletion
+
+Draft impact statement
+
+Fund
+
+Hydrologic determination
+
+Lower basin
+
+Nation
+
+Navajo-gallup water supply project; project
+
+Navajo indian irrigation project
+
+Navajo reservoir
+
+Navajo nation municipal pipeline; pipeline
+
+Non-navajo irrigation districts
+
+Partial final decree
+
+Project participants
+
+San juan river basin recovery implementation program
+
+Secretary
+
+Stream adjudication
+
+Supplemental partial final decree
+
+Trust fund
+
+Upper basin
+
+## Source Credit
+
+*([Pub. L. 111–11, title X, § 10501](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1375](https://www.govinfo.gov/link/statute/123/1375).)*

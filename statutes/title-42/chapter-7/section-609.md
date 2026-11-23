@@ -3,9 +3,10 @@ title: "Section 609 - Penalties"
 usc_title: 42
 usc_section: "609"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 609"
-generated_at: "2026-03-30T02:56:10.873Z"
+generated_at: "2026-11-23T20:27:20.842Z"
+status: "active"
 ---
 
 # § 609. Penalties
@@ -107,3 +108,25 @@ generated_at: "2026-03-30T02:56:10.873Z"
 - **(d)**
   - **(1)** In imposing the penalties described in subsection (a), the Secretary shall not reduce any quarterly payment to a State by more than 25 percent.
   - **(2)** To the extent that paragraph (1) of this subsection prevents the Secretary from recovering during a fiscal year the full amount of penalties imposed on a State under subsection (a) of this section for a prior fiscal year, the Secretary shall apply any remaining amount of such penalties to the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year.
+
+(aa) Cash assistance, including any amount collected by the State as support pursuant to a plan approved under part D, on behalf of a family receiving assistance under the State program funded under this part, that is distributed to the family under section 657(a)(1)(B) of this title and disregarded in determining the eligibility of the family for, and the amount of, such assistance.
+
+(bb) Child care assistance.
+
+(cc) Educational activities designed to increase self-sufficiency, job training, and work, excluding any expenditure for public education in the State except expenditures which involve the provision of services or assistance to a member of an eligible family which is not generally available to persons who are not members of an eligible family.
+
+(dd) Administrative costs in connection with the matters described in items (aa), (bb), (cc), and (ee), but only to the extent that such costs do not exceed 15 percent of the total amount of qualified State expenditures for the fiscal year.
+
+(ee) Any other use of funds allowable under section 604(a)(1) of this title .
+
+(aa) the expenditures exceed the amount expended under the State or local program in the fiscal year most recently ending before August 22, 1996 ; or
+
+(bb) the State is entitled to a payment under former section 603 of this title (as in effect immediately before August 22, 1996 ) with respect to the expenditures.
+
+(aa) the State family assistance grant, plus the total amount required to be paid to the State under former section 603 of this title for fiscal year 1994 with respect to amounts expended by the State for child care under subsection (g) or (i) of section 602 of this title (as in effect during fiscal year 1994); bears to
+
+(bb) the total amount required to be paid to the State under former section 603 of this title (as in effect during fiscal year 1994) for fiscal year 1994.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 409, as added [Pub. L. 104–193, title I, § 103(a)(1)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2142](https://www.govinfo.gov/link/statute/110/2142); amended [Pub. L. 105–33, title V](https://www.govinfo.gov/link/plaw/105/public/33), §§ 5001(a)(2), (g), 5004(a), 5506, 5514(c), Aug. 5, 1997, [111 Stat. 589](https://www.govinfo.gov/link/statute/111/589), 592, 594, 613, 620; [Pub. L. 105–200, title I, § 101(b)](https://www.govinfo.gov/link/plaw/105/public/200), July 16, 1998, [112 Stat. 647](https://www.govinfo.gov/link/statute/112/647); [Pub. L. 106–113, div. B, § 1000(a)(4) [title VIII, § 807(b)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1535](https://www.govinfo.gov/link/statute/113/1535), 1501A–287; [Pub. L. 106–169, title IV, § 401(b)](https://www.govinfo.gov/link/plaw/106/public/169), Dec. 14, 1999, [113 Stat. 1858](https://www.govinfo.gov/link/statute/113/1858); [Pub. L. 108–40, § 3(g)](https://www.govinfo.gov/link/plaw/108/public/40), June 30, 2003, [117 Stat. 837](https://www.govinfo.gov/link/statute/117/837); [Pub. L. 108–89, title I, § 101(b)(3)](https://www.govinfo.gov/link/plaw/108/public/89), Oct. 1, 2003, [117 Stat. 1131](https://www.govinfo.gov/link/statute/117/1131); [Pub. L. 108–308, § 2(b)(3)](https://www.govinfo.gov/link/plaw/108/public/308), Sept. 30, 2004, [118 Stat. 1135](https://www.govinfo.gov/link/statute/118/1135); [Pub. L. 109–68, § 2(b)(2)(C)](https://www.govinfo.gov/link/plaw/109/public/68), Sept. 21, 2005, [119 Stat. 2003](https://www.govinfo.gov/link/statute/119/2003); [Pub. L. 109–171, title VII](https://www.govinfo.gov/link/plaw/109/public/171), §§ 7101(b)(3), 7102(c)(2), 7103(b), Feb. 8, 2006, [120 Stat. 135](https://www.govinfo.gov/link/statute/120/135), 137, 140; [Pub. L. 111–242, § 131(b)(3)](https://www.govinfo.gov/link/plaw/111/public/242), Sept. 30, 2010, [124 Stat. 2612](https://www.govinfo.gov/link/statute/124/2612); [Pub. L. 111–291, title VIII, § 812(b)](https://www.govinfo.gov/link/plaw/111/public/291), Dec. 8, 2010, [124 Stat. 3162](https://www.govinfo.gov/link/statute/124/3162); [Pub. L. 112–35, § 2(b)](https://www.govinfo.gov/link/plaw/112/public/35), Sept. 30, 2011, [125 Stat. 384](https://www.govinfo.gov/link/statute/125/384); [Pub. L. 112–96, title IV](https://www.govinfo.gov/link/plaw/112/public/96), §§ 4002(c), 4004(b), (d), 4005(b)–(d), Feb. 22, 2012, [126 Stat. 195](https://www.govinfo.gov/link/statute/126/195), 197, 198.)*

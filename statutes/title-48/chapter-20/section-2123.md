@@ -3,9 +3,10 @@ title: "Section 2123 - Executive Director and staff of Oversight Board"
 usc_title: 48
 usc_section: "2123"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 2123"
-generated_at: "2026-03-30T02:56:14.603Z"
+generated_at: "2026-11-23T20:27:28.196Z"
+status: "active"
 ---
 
 # § 2123. Executive Director and staff of Oversight Board
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:14.603Z"
 - **(c)** The Executive Director and staff of the Oversight Board may be appointed and paid without regard to any provision of the laws of the covered territory or the Federal Government governing appointments and salaries. Any provision of the laws of the covered territory governing procurement shall not apply to the Oversight Board.
 - **(d)** Upon request of the Chair, the head of any Federal department or agency may detail, on a reimbursable or nonreimbursable basis, and in accordance with the Intergovernmental Personnel Act of 1970 ( 5 U.S.C. 3371–337 5), any of the personnel of that department or agency to the Oversight Board to assist it in carrying out its duties under this chapter.
 - **(e)** Upon request of the Chair, the head of any department or agency of the covered territory may detail, on a reimbursable or nonreimbursable basis, any of the personnel of that department or agency to the Oversight Board to assist it in carrying out its duties under this chapter.
+
+## Source Credit
+
+*([Pub. L. 114–187, title I, § 103](https://www.govinfo.gov/link/plaw/114/public/187), June 30, 2016, [130 Stat. 557](https://www.govinfo.gov/link/statute/130/557).)*

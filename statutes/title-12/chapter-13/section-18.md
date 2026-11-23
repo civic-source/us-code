@@ -3,9 +3,10 @@ title: "Section 18 - Information regarding early defaults and foreclosures on in
 usc_title: 12
 usc_section: "18"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 18"
-generated_at: "2026-03-30T02:53:53.430Z"
+generated_at: "2026-11-23T20:25:59.025Z"
+status: "active"
 ---
 
 # § 1735f–18. Information regarding early defaults and foreclosures on insured mortgages
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:53.430Z"
 - **(d)** For purposes of this section:
   - **(1)** The term “applicable collection period” means the 5-year period ending on the last day of the calendar quarter for which information under this section is collected.
   - **(2)** The term “designated census tract” means a census tract located within a metropolitan statistical area, as defined pursuant to regulations issued by the Secretary of Commerce.
+
+## Source Credit
+
+*(June 27, 1934, ch. 847, title V, § 540, as added [Pub. L. 101–625, title III, § 335(a)](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4142](https://www.govinfo.gov/link/statute/104/4142).)*

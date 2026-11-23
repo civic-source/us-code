@@ -3,9 +3,10 @@ title: "Section 5906 - Availability of legal assistance at Department facilities
 usc_title: 38
 usc_section: "5906"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 5906"
-generated_at: "2026-03-30T02:55:53.523Z"
+generated_at: "2026-11-23T20:27:01.972Z"
+status: "active"
 ---
 
 # § 5906. Availability of legal assistance at Department facilities
@@ -31,3 +32,53 @@ generated_at: "2026-03-30T02:55:53.523Z"
   - **(5)** Such other attorneys and entities as the Secretary considers appropriate.
 - **(e)** In carrying out this section, the Secretary shall ensure that pro bono legal assistance is provided under subsection (a) in rural areas.
 - **(f)** In this section, the term “veterans service organization” means any organization recognized by the Secretary for the representation of veterans under section 5902 of this title .
+
+In General
+
+Eligible Individuals
+
+Pro Bono Legal Assistance Described
+
+Limitation on Use of Facilities
+
+Legal Assistance in Rural Areas
+
+Definition of Veterans Service Organization
+
+Pilot program required.—
+
+In general
+
+Rule of construction
+
+Eligible entities
+
+Locations
+
+Duration
+
+Application
+
+Selection
+
+Grantee reports
+
+Review of Pro Bono Eligibility of Federal Workers.—
+
+In general
+
+Recommendations
+
+Submittal to congress
+
+Report
+
+Definitions
+
+Appropriate committees of congress
+
+Veterans service organization
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. A, title V, § 548(a)(1)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3617](https://www.govinfo.gov/link/statute/134/3617).)*

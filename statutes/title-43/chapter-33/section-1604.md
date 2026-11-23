@@ -3,9 +3,10 @@ title: "Section 1604 - Enrollment"
 usc_title: 43
 usc_section: "1604"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1604"
-generated_at: "2026-03-30T02:55:57.478Z"
+generated_at: "2026-11-23T20:27:06.317Z"
+status: "active"
 ---
 
 # § 1604. Enrollment
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:57.478Z"
   - **(3)** the region where the Native was born; and
   - **(4)** the region from which an ancestor of the Native came: 1 1 So in original. The colon probably should be a period.
 - **(c)** A Native eligible for enrollment who is eighteen years of age or older and is not a permanent resident of one of the twelve regions may, on the date he files an application for enrollment, elect to be enrolled in a thirteenth region for Natives who are non-residents of Alaska, if such region is established pursuant to section 1606(c) of this title . If such region is not established, he shall be enrolled as provided in subsection (b). His election shall apply to all dependent members of his household who are less than eighteen years of age, but shall not affect the enrollment of anyone else.
+
+## Source Credit
+
+*([Pub. L. 92–203, § 5](https://www.govinfo.gov/link/plaw/92/public/203), Dec. 18, 1971, [85 Stat. 690](https://www.govinfo.gov/link/statute/85/690).)*

@@ -3,9 +3,10 @@ title: "Section 12584a - Prohibited activities and ineligible organizations"
 usc_title: 42
 usc_section: "12584a"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12584a"
-generated_at: "2026-03-30T02:56:11.418Z"
+generated_at: "2026-11-23T20:27:23.376Z"
+status: "active"
 ---
 
 # § 12584a. Prohibited activities and ineligible organizations
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:11.418Z"
   - **(11)** Carrying out such other activities as the Corporation may prohibit.
 - **(b)** No assistance provided under this division may be provided to any organization that has violated a Federal criminal statute.
 - **(c)** A participant in an approved national service position under this division may not be directed to perform any services or duties, or to engage in any activities, prohibited under the nonduplication, nondisplacement, or nonsupplantation requirements relating to employees and volunteers in section 12637 of this title .
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 132A](https://www.govinfo.gov/link/plaw/101/public/610), as added [Pub. L. 111–13, title I, § 1310](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1507](https://www.govinfo.gov/link/statute/123/1507).)*

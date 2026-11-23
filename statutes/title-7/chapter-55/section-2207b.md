@@ -3,9 +3,10 @@ title: "Section 2207b - Program metrics"
 usc_title: 7
 usc_section: "2207b"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2207b"
-generated_at: "2026-03-30T02:53:42.380Z"
+generated_at: "2026-11-23T20:25:41.497Z"
+status: "active"
 ---
 
 # § 2207b. Program metrics
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:42.380Z"
     - **(C)** the number of business starts and clients served;
     - **(D)** any benefit, such as an increase in revenue or customer base; and
     - **(E)** such other information as the Secretary considers appropriate.
+
+## Source Credit
+
+*([Pub. L. 113–79, title VI, § 6209](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 861](https://www.govinfo.gov/link/statute/128/861); [Pub. L. 115–334, title X, § 10102(c)(4)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4898](https://www.govinfo.gov/link/statute/132/4898).)*

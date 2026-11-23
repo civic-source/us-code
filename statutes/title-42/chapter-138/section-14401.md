@@ -3,9 +3,10 @@ title: "Section 14401 - Findings and purpose"
 usc_title: 42
 usc_section: "14401"
 chapter: 138
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 14401"
-generated_at: "2026-03-30T02:56:11.451Z"
+generated_at: "2026-11-23T20:27:23.530Z"
+status: "active"
 ---
 
 # § 14401. Findings and purpose
@@ -16,3 +17,11 @@ generated_at: "2026-03-30T02:56:11.451Z"
   - **(3)** Because of recent legal developments, it may become lawful in areas of the United States to furnish services in support of such activities.
   - **(4)** Congress is not providing Federal financial assistance in support of assisted suicide, euthanasia, and mercy killing and intends that Federal funds not be used to promote such activities.
 - **(b)** It is the principal purpose of this chapter to continue current Federal policy by providing explicitly that Federal funds may not be used to pay for items and services (including assistance) the purpose of which is to cause (or assist in causing) the suicide, euthanasia, or mercy killing of any individual.
+
+In General
+
+Application to Contracts
+
+## Source Credit
+
+*([Pub. L. 105–12, § 2](https://www.govinfo.gov/link/plaw/105/public/12), Apr. 30, 1997, [111 Stat. 23](https://www.govinfo.gov/link/statute/111/23).)*

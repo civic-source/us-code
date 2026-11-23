@@ -3,9 +3,10 @@ title: "Section 543 - Regulation of rates"
 usc_title: 47
 usc_section: "543"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 543"
-generated_at: "2026-03-30T02:56:24.519Z"
+generated_at: "2026-11-23T20:27:28.926Z"
+status: "active"
 ---
 
 # § 543. Regulation of rates
@@ -110,3 +111,7 @@ generated_at: "2026-03-30T02:56:24.519Z"
   - **(1)** Not later than 180 days after December 4, 2014 , the Commission shall complete a rulemaking to establish a streamlined process for filing of an effective competition petition pursuant to this section for small cable operators, particularly those who serve primarily rural areas.
   - **(2)** Nothing in this subsection shall be construed to have any effect on the duty of a small cable operator to prove the existence of effective competition under this section.
   - **(3)** In this subsection, the term “small cable operator” has the meaning given the term in subsection (m)(2).
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title VI, § 623, as added [Pub. L. 98–549, § 2](https://www.govinfo.gov/link/plaw/98/public/549), Oct. 30, 1984, [98 Stat. 2788](https://www.govinfo.gov/link/statute/98/2788); amended [Pub. L. 102–385, § 3(a)](https://www.govinfo.gov/link/plaw/102/public/385), Oct. 5, 1992, [106 Stat. 1464](https://www.govinfo.gov/link/statute/106/1464); [Pub. L. 104–104, title III, § 301(b)](https://www.govinfo.gov/link/plaw/104/public/104), (c), (j), (k)(1), Feb. 8, 1996, [110 Stat. 114](https://www.govinfo.gov/link/statute/110/114), 116, 118; [Pub. L. 113–200, title I](https://www.govinfo.gov/link/plaw/113/public/200), §§ 110, 111, Dec. 4, 2014, [128 Stat. 2065](https://www.govinfo.gov/link/statute/128/2065), 2066; [Pub. L. 115–141, div. P, title IV, § 402(e)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1089](https://www.govinfo.gov/link/statute/132/1089).)*

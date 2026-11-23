@@ -3,9 +3,10 @@ title: "Section 1408 - Civil action"
 usc_title: 2
 usc_section: "1408"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1408"
-generated_at: "2026-03-30T02:53:04.813Z"
+generated_at: "2026-11-23T20:25:28.972Z"
+status: "active"
 ---
 
 # § 1408. Civil action
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:04.813Z"
     - **(A)** the Office of House Employment Counsel established and operating under the authority of the Clerk of the House of Representatives as of November 12, 2001 ;
     - **(B)** any successor office to the Office of House Employment Counsel which is established after November 12, 2001 ; and
     - **(C)** any other person authorized and directed in accordance with the Rules of the House of Representatives to provide legal assistance and representation to employing offices of the House of Representatives in connection with actions brought under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 104–1, title IV, § 408](https://www.govinfo.gov/link/plaw/104/public/1), Jan. 23, 1995, [109 Stat. 37](https://www.govinfo.gov/link/statute/109/37); [Pub. L. 107–68, title I, § 119(a)](https://www.govinfo.gov/link/plaw/107/public/68), Nov. 12, 2001, [115 Stat. 573](https://www.govinfo.gov/link/statute/115/573); [Pub. L. 115–397, title I, § 101(b)](https://www.govinfo.gov/link/plaw/115/public/397), Dec. 21, 2018, [132 Stat. 5300](https://www.govinfo.gov/link/statute/132/5300).)*

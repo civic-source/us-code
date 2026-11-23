@@ -3,9 +3,10 @@ title: "Section 1641 - Liability of assignees"
 usc_title: 15
 usc_section: "1641"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1641"
-generated_at: "2026-03-30T02:54:08.144Z"
+generated_at: "2026-11-23T20:26:04.056Z"
+status: "active"
 ---
 
 # § 1641. Liability of assignees
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:54:08.144Z"
     - **(D)** the location of the place where transfer of ownership of the debt is recorded; and
     - **(E)** any other relevant information regarding the new creditor.
   - **(2)** As used in this subsection, the term “mortgage loan” means any consumer credit transaction that is secured by the principal dwelling of a consumer.
+
+## Source Credit
+
+*([Pub. L. 90–321, title I, § 131](https://www.govinfo.gov/link/plaw/90/public/321), May 29, 1968, [82 Stat. 157](https://www.govinfo.gov/link/statute/82/157); [Pub. L. 96–221, title VI, § 616(a)](https://www.govinfo.gov/link/plaw/96/public/221), Mar. 31, 1980, [94 Stat. 182](https://www.govinfo.gov/link/statute/94/182); [Pub. L. 103–325, title I, § 153(c)](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2195](https://www.govinfo.gov/link/statute/108/2195); [Pub. L. 104–29, § 7](https://www.govinfo.gov/link/plaw/104/public/29), Sept. 30, 1995, [109 Stat. 274](https://www.govinfo.gov/link/statute/109/274); [Pub. L. 111–22, div. A, title IV, § 404(a)](https://www.govinfo.gov/link/plaw/111/public/22), May 20, 2009, [123 Stat. 1658](https://www.govinfo.gov/link/statute/123/1658); [Pub. L. 111–203, title X, § 1100A(2)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2107](https://www.govinfo.gov/link/statute/124/2107).)*

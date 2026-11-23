@@ -3,9 +3,10 @@ title: "Section 1234B - Gains or losses from securities futures contracts"
 usc_title: 26
 usc_section: "1234B"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1234B"
-generated_at: "2026-03-30T02:55:27.760Z"
+generated_at: "2026-11-23T20:26:46.049Z"
+status: "active"
 ---
 
 # § 1234B. Gains or losses from securities futures contracts
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:27.760Z"
 - **(d)** For purposes of this title, a securities futures contract shall not be treated as a commodity futures contract.
 - **(e)** The Secretary shall prescribe such regulations as may be appropriate to provide for the proper treatment of securities futures contracts under this title.
 - **(f)** For special rules relating to dealer securities futures contracts, see section 1256.
+
+## Source Credit
+
+*(Added [Pub. L. 106–554, § 1(a)(7) [title IV, § 401(a)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–648; amended [Pub. L. 107–147, title IV, § 412(d)(1)(B)](https://www.govinfo.gov/link/plaw/107/public/147), (3)(B), Mar. 9, 2002, [116 Stat. 53](https://www.govinfo.gov/link/statute/116/53), 54; [Pub. L. 108–311, title IV, § 405(a)(1)](https://www.govinfo.gov/link/plaw/108/public/311), Oct. 4, 2004, [118 Stat. 1188](https://www.govinfo.gov/link/statute/118/1188).)*

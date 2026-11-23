@@ -3,9 +3,10 @@ title: "Section 1656 - Civil penalties"
 usc_title: 43
 usc_section: "1656"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1656"
-generated_at: "2026-03-30T02:55:57.486Z"
+generated_at: "2026-11-23T20:27:06.352Z"
+status: "active"
 ---
 
 # § 1656. Civil penalties
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:57.486Z"
 - **(e)**
   - **(1)** Nothing in this section shall be construed or interpreted as preempting any State or political subdivision thereof from imposing any additional liability or requirements with respect to the discharge, or threat of discharge, of oil or other pollution by oil.
   - **(2)** Nothing in this section shall affect or modify in any way the obligations or liabilities of any person under other Federal or State law, including common law, with respect to discharges of oil.
+
+## Source Credit
+
+*([Pub. L. 93–153, title II, § 207](https://www.govinfo.gov/link/plaw/93/public/153), as added [Pub. L. 101–380, title VIII, § 8202](https://www.govinfo.gov/link/plaw/101/public/380), Aug. 18, 1990, [104 Stat. 571](https://www.govinfo.gov/link/statute/104/571).)*

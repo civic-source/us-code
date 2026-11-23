@@ -3,9 +3,10 @@ title: "Section 9506 - Inland Waterways Trust Fund"
 usc_title: 26
 usc_section: "9506"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 9506"
-generated_at: "2026-03-30T02:55:27.892Z"
+generated_at: "2026-11-23T20:26:46.882Z"
+status: "active"
 ---
 
 # § 9506. Inland Waterways Trust Fund
@@ -15,3 +16,11 @@ generated_at: "2026-03-30T02:55:27.892Z"
 - **(c)**
   - **(1)** Except as provided in paragraph (2), amounts in the Inland Waterways Trust Fund shall be available, as provided by appropriation Acts, for making construction and rehabilitation expenditures for navigation on the inland and coastal waterways of the United States described in section 206 of the Inland Waterways Revenue Act of 1978, as in effect on the date of the enactment of this section.
   - **(2)** Not more than ½ of the cost of any construction to which section 102(a) of the Water Resources Development Act of 1986 applies (as in effect on the date of the enactment of this section) may be paid from the Inland Waterways Trust Fund.
+
+In general
+
+Inland waterways trust fund treated as continuation of old trust fund
+
+## Source Credit
+
+*(Added [Pub. L. 99–662, title XIV, § 1405(a)](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4271](https://www.govinfo.gov/link/statute/100/4271); amended [Pub. L. 99–499, title V, § 521(b)(3)](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1778](https://www.govinfo.gov/link/statute/100/1778); [Pub. L. 100–647, title I, § 1018(u)(18)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3591](https://www.govinfo.gov/link/statute/102/3591).)*

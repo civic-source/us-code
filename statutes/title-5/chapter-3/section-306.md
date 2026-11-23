@@ -3,9 +3,10 @@ title: "Section 306 - Agency strategic plans"
 usc_title: 5
 usc_section: "306"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 306"
-generated_at: "2026-03-30T02:52:55.978Z"
+generated_at: "2026-11-23T20:25:31.660Z"
+status: "active"
 ---
 
 # § 306. Agency strategic plans
@@ -33,3 +34,11 @@ generated_at: "2026-03-30T02:52:55.978Z"
 - **(d)** When developing or making adjustments to a strategic plan, the agency shall consult periodically with the Congress, including majority and minority views from the appropriate authorizing, appropriations, and oversight committees, and shall solicit and consider the views and suggestions of those entities potentially affected by or interested in such a plan. The agency shall consult with the appropriate committees of Congress at least once every 2 years.
 - **(e)** The functions and activities of this section shall be considered to be inherently governmental functions. The drafting of strategic plans under this section shall be performed only by Federal employees.
 - **(f)** For purposes of this section the term “agency” means an Executive agency defined under section 105, but does not include the Central Intelligence Agency, the Government Accountability Office, the United States Postal Service, and the Postal Regulatory Commission.
+
+“Nothing in this Act [see Short Title of 2019 Amendment note set out under section 101 of this title ], or the amendments made by this Act, may be construed—
+
+“Not later than 2 years after the date on which each strategic plan required under section 306(a) of title 5 , United States Code, is published, the Comptroller General of the United States shall submit to Congress a report that—
+
+## Source Credit
+
+*(Added [Pub. L. 111–352, § 2](https://www.govinfo.gov/link/plaw/111/public/352), Jan. 4, 2011, [124 Stat. 3866](https://www.govinfo.gov/link/statute/124/3866); amended [Pub. L. 115–435, title I, § 101(c)](https://www.govinfo.gov/link/plaw/115/public/435), Jan. 14, 2019, [132 Stat. 5533](https://www.govinfo.gov/link/statute/132/5533); [Pub. L. 118–190, § 7(a)](https://www.govinfo.gov/link/plaw/118/public/190), Dec. 23, 2024, [138 Stat. 2656](https://www.govinfo.gov/link/statute/138/2656).)*

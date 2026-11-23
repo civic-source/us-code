@@ -3,9 +3,10 @@ title: "Section 4229 - Eligible affordable housing activities"
 usc_title: 25
 usc_section: "4229"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 4229"
-generated_at: "2026-03-30T02:54:52.861Z"
+generated_at: "2026-11-23T20:26:25.696Z"
+status: "active"
 ---
 
 # § 4229. Eligible affordable housing activities
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:54:52.861Z"
   - **(5)** Housing activities under model programs that are—
     - **(A)** designed to carry out the purposes of this subchapter; and
     - **(B)** specifically approved by the Secretary as appropriate for the purpose referred to in subparagraph (A).
+
+## Source Credit
+
+*([Pub. L. 104–330, title VIII, § 810](https://www.govinfo.gov/link/plaw/104/public/330), as added [Pub. L. 106–568, title II, § 203](https://www.govinfo.gov/link/plaw/106/public/568), Dec. 27, 2000, [114 Stat. 2886](https://www.govinfo.gov/link/statute/114/2886), and [Pub. L. 106–569, title V, § 513](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 2980](https://www.govinfo.gov/link/statute/114/2980).)*

@@ -3,9 +3,10 @@ title: "Section 353 - Exemptions and consideration for certain drugs, devices, a
 usc_title: 21
 usc_section: "353"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 353"
-generated_at: "2026-03-30T02:54:54.230Z"
+generated_at: "2026-11-23T20:26:27.557Z"
+status: "active"
 ---
 
 # § 353. Exemptions and consideration for certain drugs, devices, and biological products
@@ -161,6 +162,9 @@ generated_at: "2026-03-30T02:54:54.230Z"
         - **(II)** address other issues relevant to such combination product, such as requirements related to postmarket modification of such combination product and good manufacturing practices applicable to such combination product; and
         - **(III)** identify elements under subclauses (I) and (II) that may be more appropriate for discussion and agreement with the Secretary at a later date given that scientific or other information is not available, or agreement is otherwise not feasible regarding such elements, at the time a request for such meeting is made.
 - **(iii)** Any agreement under this subparagraph shall be in writing and made part of the administrative record by the Secretary.
+      - **(iv)** Any such agreement shall remain in effect, except—
+        - **(I)** upon the written agreement of the Secretary and the sponsor or applicant; or
+        - **(II)** pursuant to a decision by the director of the reviewing division of the primary agency center, or a person more senior than such director, in consultation with consulting centers and the Office, as appropriate, that an issue essential to determining whether the standard for market clearance or other applicable standard under this chapter or the Public Health Service Act [ 42 U.S.C. 201 et seq.] applicable to the combination product has been identified since the agreement was reached, or that deviating from the agreement is otherwise justifiable based on scientific evidence, for public health reasons.
   - **(3)** For purposes of conducting the premarket review of a combination product that contains an approved constituent part described in paragraph (4), the Secretary may require that the sponsor of such combination product submit to the Secretary only data or information that the Secretary determines is necessary to meet the standard for clearance or approval, as applicable, under this chapter or the Public Health Service Act, including any incremental risks and benefits posed by such combination product, using a risk-based approach and taking into account any prior finding of safety and effectiveness or substantial equivalence for the approved constituent part relied upon by the applicant in accordance with paragraph (5).
   - **(4)** For purposes of paragraph (3), an approved constituent part is—
     - **(A)** a drug constituent part of a combination product being reviewed in a single application or request under section 360e, 360(k), or 360c(f)(2) of this title (submitted in accordance with paragraph (5)), that is an approved drug, provided such application or request complies with paragraph (5);
@@ -190,30 +194,7 @@ generated_at: "2026-03-30T02:54:54.230Z"
     - **(C)**
       - **(i)** In carrying out this subsection, the Office shall help to ensure timely and effective premarket review that involves more than one agency center by coordinating such reviews, overseeing the timeliness of such reviews, and overseeing the alignment of feedback regarding such reviews.
       - **(ii)** In order to ensure the timeliness and alignment of the premarket review of a combination product, the agency center with primary jurisdiction for the product, and the consulting agency center, shall be responsible to the Office with respect to the timeliness and alignment of the premarket review.
-      - **(iv)** Any such agreement shall remain in effect, except—
-        - **(I)** upon the written agreement of the Secretary and the sponsor or applicant; or
-        - **(II)** pursuant to a decision by the director of the reviewing division of the primary agency center, or a person more senior than such director, in consultation with consulting centers and the Office, as appropriate, that an issue essential to determining whether the standard for market clearance or other applicable standard under this chapter or the Public Health Service Act [ 42 U.S.C. 201 et seq.] applicable to the combination product has been identified since the agreement was reached, or that deviating from the agreement is otherwise justifiable based on scientific evidence, for public health reasons.
 - **(iii)** The Office shall ensure that, with respect to a combination product, a designated person or persons in the primary agency center is the primary point or points of contact for the sponsor of such combination product. The Office shall also coordinate communications to and from any consulting center involved in such premarket review, if requested by such primary agency center or any such consulting center. Agency communications and commitments, to the extent consistent with other provisions of law and the requirements of all affected agency centers, from the primary agency center shall be considered as communication from the Secretary on behalf of all agency centers involved in the review.
-  - **(9)** As used in this subsection:
-    - **(A)** The term “agency center” means a center or alternative organizational component of the Food and Drug Administration.
-    - **(B)** The term “biological product” has the meaning given the term in section 351(i) of the Public Health Service Act ( 42 U.S.C. 262(i) ).
-    - **(C)** The term “market clearance” includes—
-      - **(i)** approval of an application under section 355, 357, 4 4 See References in Text note below. 360e, or 360j(g) of this title;
-      - **(ii)** a finding of substantial equivalence under this part;
-      - **(iii)** approval of a biologics license application under subsection (a) of section 351 of the Public Health Service Act ( 42 U.S.C. 262 ); and
-      - **(iv)** de novo classification under section 360c(a)(1) of this title .
-    - **(D)** The terms “premarket review” and “reviews” include all activities of the Food and Drug Administration conducted prior to approval or clearance of an application, notification, or request for classification submitted under section 355, 360(k), 360c(f)(2), 360e, or 360j of this title or under section 351 of the Public Health Service Act [ 42 U.S.C. 262 ], including with respect to investigational use of the product.
-    - **(D)** In carrying out this subsection, the Office shall ensure the consistency and appropriateness of postmarket regulation of like products subject to the same statutory requirements to the extent permitted by law.
-    - **(E)**
-      - **(i)** Any dispute regarding the timeliness of the premarket review of a combination product may be presented to the Office for resolution, unless the dispute is clearly premature.
-      - **(ii)** During the review process, any dispute regarding the substance of the premarket review may be presented to the Commissioner of Food and Drugs after first being considered by the agency center with primary jurisdiction of the premarket review, under the scientific dispute resolution procedures for such center. The Commissioner of Food and Drugs shall consult with the Director of the Office in resolving the substantive dispute.
-    - **(F)** The Secretary, acting through the Office, shall review each agreement, guidance, or practice of the Secretary that is specific to the assignment of combination products to agency centers and shall determine whether the agreement, guidance, or practice is consistent with the requirements of this subsection. In carrying out such review, the Secretary shall consult with stakeholders and the directors of the agency centers. After such consultation, the Secretary shall determine whether to continue in effect, modify, revise, or eliminate such agreement, guidance, or practice, and shall publish in the Federal Register a notice of the availability of such modified or revised agreement, guidance or practice. Nothing in this paragraph shall be construed as preventing the Secretary from following each agreement, guidance, or practice until continued, modified, revised, or eliminated.
-    - **(G)** Not later than one year after October 26, 2002 (except with respect to clause (iv), beginning not later than one year after December 13, 2016 ), and annually thereafter, the Secretary shall report to the appropriate committees of Congress on the activities and impact of the Office. The report shall include provisions—
-      - **(i)** describing the numbers and types of combination products under review and the timeliness in days of such assignments, reviews, and dispute resolutions;
-      - **(ii)** identifying the number of premarket reviews of such products that involved a consulting agency center;
-      - **(iii)** describing improvements in the consistency of postmarket regulation of combination products; and
-      - **(iv)** identifying the percentage of combination products for which a dispute resolution, with respect to premarket review, was requested by the combination product’s sponsor.
-    - **(H)** Nothing in this paragraph shall be construed to limit the regulatory authority of any agency center.
       - **(iv)** The Office shall, with respect to the premarket review of a combination product—
         - **(I)** ensure that any meeting between the Secretary and the sponsor of such product is attended by each agency center involved in the review, as appropriate;
         - **(II)** ensure that each consulting agency center has completed its premarket review and provided the results of such review to the primary agency center in a timely manner; and
@@ -225,6 +206,26 @@ generated_at: "2026-03-30T02:54:54.230Z"
         - **(I)** the structured process for managing pre-submission interactions with sponsors developing combination products;
         - **(II)** the best practices for ensuring that the feedback in such pre-submission interactions represents the Agency’s best advice based on the information provided during such pre-submission interactions; 2 2 So in original. The word “and” probably should appear.
         - **(III)** the information that is required to be submitted with a meeting request under paragraph (2), how such meetings relate to other types of meetings in the Food and Drug Administration, and the form and content of any agreement reached through a meeting under such paragraph (2); 3 3 So in original. The semicolon probably should be a period.
+    - **(D)** In carrying out this subsection, the Office shall ensure the consistency and appropriateness of postmarket regulation of like products subject to the same statutory requirements to the extent permitted by law.
+    - **(E)**
+      - **(i)** Any dispute regarding the timeliness of the premarket review of a combination product may be presented to the Office for resolution, unless the dispute is clearly premature.
+      - **(ii)** During the review process, any dispute regarding the substance of the premarket review may be presented to the Commissioner of Food and Drugs after first being considered by the agency center with primary jurisdiction of the premarket review, under the scientific dispute resolution procedures for such center. The Commissioner of Food and Drugs shall consult with the Director of the Office in resolving the substantive dispute.
+    - **(F)** The Secretary, acting through the Office, shall review each agreement, guidance, or practice of the Secretary that is specific to the assignment of combination products to agency centers and shall determine whether the agreement, guidance, or practice is consistent with the requirements of this subsection. In carrying out such review, the Secretary shall consult with stakeholders and the directors of the agency centers. After such consultation, the Secretary shall determine whether to continue in effect, modify, revise, or eliminate such agreement, guidance, or practice, and shall publish in the Federal Register a notice of the availability of such modified or revised agreement, guidance or practice. Nothing in this paragraph shall be construed as preventing the Secretary from following each agreement, guidance, or practice until continued, modified, revised, or eliminated.
+    - **(G)** Not later than one year after October 26, 2002 (except with respect to clause (iv), beginning not later than one year after December 13, 2016 ), and annually thereafter, the Secretary shall report to the appropriate committees of Congress on the activities and impact of the Office. The report shall include provisions—
+      - **(i)** describing the numbers and types of combination products under review and the timeliness in days of such assignments, reviews, and dispute resolutions;
+      - **(ii)** identifying the number of premarket reviews of such products that involved a consulting agency center;
+      - **(iii)** describing improvements in the consistency of postmarket regulation of combination products; and
+      - **(iv)** identifying the percentage of combination products for which a dispute resolution, with respect to premarket review, was requested by the combination product’s sponsor.
+    - **(H)** Nothing in this paragraph shall be construed to limit the regulatory authority of any agency center.
+  - **(9)** As used in this subsection:
+    - **(A)** The term “agency center” means a center or alternative organizational component of the Food and Drug Administration.
+    - **(B)** The term “biological product” has the meaning given the term in section 351(i) of the Public Health Service Act ( 42 U.S.C. 262(i) ).
+    - **(C)** The term “market clearance” includes—
+      - **(i)** approval of an application under section 355, 357, 4 4 See References in Text note below. 360e, or 360j(g) of this title;
+      - **(ii)** a finding of substantial equivalence under this part;
+      - **(iii)** approval of a biologics license application under subsection (a) of section 351 of the Public Health Service Act ( 42 U.S.C. 262 ); and
+      - **(iv)** de novo classification under section 360c(a)(1) of this title .
+    - **(D)** The terms “premarket review” and “reviews” include all activities of the Food and Drug Administration conducted prior to approval or clearance of an application, notification, or request for classification submitted under section 355, 360(k), 360c(f)(2), 360e, or 360j of this title or under section 351 of the Public Health Service Act [ 42 U.S.C. 262 ], including with respect to investigational use of the product.
 - **(h)**
   - **(1)** Any contrast agent, radioactive drug, or OTC monograph drug shall be deemed to be a drug under section 321(g) of this title and not a device under section 321(h) of this title .
   - **(2)** For purposes of this subsection:
@@ -242,3 +243,49 @@ generated_at: "2026-03-30T02:54:54.230Z"
   - **(4)** The Secretary shall waive the application fee under sections 379h and 379j–42 of this title for applications for drugs that are—
     - **(A)** on September 30, 2022 , legally marketed as devices; and
     - **(B)** deemed drugs pursuant to paragraph (1) 5 5 So in original. Probably should be followed by a period.
+
+Requirement
+
+In general
+
+Standards
+
+Reporting and database.—
+
+Reporting
+
+Database
+
+Coordination
+
+Confidentiality
+
+Costs.—
+
+Authorized fees of secretary
+
+State licensing fees
+
+Third-party logistics providers
+
+Affiliate
+
+General Rule
+
+Exception.—
+
+In General
+
+Goals
+
+Plan
+
+Limitation on the Authority of the Secretary
+
+Secretary Review
+
+“The Congress finds the following:
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 503, [52 Stat. 1051](https://www.govinfo.gov/link/statute/52/1051); Oct. 26, 1951, ch. 578, § 1, [65 Stat. 648](https://www.govinfo.gov/link/statute/65/648); [Pub. L. 87–781, title I, § 104(e)(2)](https://www.govinfo.gov/link/plaw/87/public/781), Oct. 10, 1962, [76 Stat. 785](https://www.govinfo.gov/link/statute/76/785); [Pub. L. 91–601, § 6(e)](https://www.govinfo.gov/link/plaw/91/public/601), formerly § 7(e), Dec. 30, 1970, [84 Stat. 1673](https://www.govinfo.gov/link/statute/84/1673), renumbered [Pub. L. 97–35, title XII, § 1205(c)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 716](https://www.govinfo.gov/link/statute/95/716); [Pub. L. 100–293](https://www.govinfo.gov/link/plaw/100/public/293), §§ 4–6, Apr. 22, 1988, [102 Stat. 96–98](https://www.govinfo.gov/link/statute/102/96); [Pub. L. 100–670, title I, § 105](https://www.govinfo.gov/link/plaw/100/public/670), Nov. 16, 1988, [102 Stat. 3983](https://www.govinfo.gov/link/statute/102/3983); [Pub. L. 101–629, § 16(a)](https://www.govinfo.gov/link/plaw/101/public/629), Nov. 28, 1990, [104 Stat. 4526](https://www.govinfo.gov/link/statute/104/4526); [Pub. L. 102–108, § 2(d)](https://www.govinfo.gov/link/plaw/102/public/108), Aug. 17, 1991, [105 Stat. 550](https://www.govinfo.gov/link/statute/105/550); [Pub. L. 102–300, § 6(d)](https://www.govinfo.gov/link/plaw/102/public/300), June 16, 1992, [106 Stat. 240](https://www.govinfo.gov/link/statute/106/240); [Pub. L. 102–353](https://www.govinfo.gov/link/plaw/102/public/353), §§ 2(a)–(c), 4, Aug. 26, 1992, [106 Stat. 941](https://www.govinfo.gov/link/statute/106/941), 942; [Pub. L. 104–250, § 5(a)](https://www.govinfo.gov/link/plaw/104/public/250), Oct. 9, 1996, [110 Stat. 3155](https://www.govinfo.gov/link/statute/110/3155); [Pub. L. 105–115, title I](https://www.govinfo.gov/link/plaw/105/public/115), §§ 123(e), 126(a), (c)(1), (2), Nov. 21, 1997, [111 Stat. 2324](https://www.govinfo.gov/link/statute/111/2324), 2327, 2328; [Pub. L. 107–250, title II, § 204](https://www.govinfo.gov/link/plaw/107/public/250), Oct. 26, 2002, [116 Stat. 1611](https://www.govinfo.gov/link/statute/116/1611); [Pub. L. 108–282, title I, § 102(b)(5)(F)](https://www.govinfo.gov/link/plaw/108/public/282), Aug. 2, 2004, [118 Stat. 903](https://www.govinfo.gov/link/statute/118/903); [Pub. L. 113–54, title II, § 204(a)(1)](https://www.govinfo.gov/link/plaw/113/public/54) –(4), (b), Nov. 27, 2013, [127 Stat. 630–635](https://www.govinfo.gov/link/statute/127/630); [Pub. L. 114–255, div. A, title III, § 3038(a)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1105](https://www.govinfo.gov/link/statute/130/1105); [Pub. L. 117–328, div. FF, title III, § 3621](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5877](https://www.govinfo.gov/link/statute/136/5877).)*

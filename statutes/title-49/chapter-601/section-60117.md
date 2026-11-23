@@ -3,9 +3,10 @@ title: "Section 60117 - Administrative"
 usc_title: 49
 usc_section: "60117"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 60117"
-generated_at: "2026-03-30T02:56:19.414Z"
+generated_at: "2026-11-23T20:27:35.409Z"
+status: "active"
 ---
 
 # § 60117. Administrative
@@ -121,3 +122,388 @@ generated_at: "2026-03-30T02:56:19.414Z"
   - **(9)** An emergency order issued under this subsection may not be construed to—
     - **(A)** alter, amend, or limit the Secretary’s obligations under, or the applicability of, section 553 of title 5 ; or
     - **(B)** provide the authority to amend the Code of Federal Regulations.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 60117(a) | 49 App.:1681(a) (1st sentence words before semicolon). | Aug. 12, 1968 , Pub. L. 90–481, § 14(a) (1st sentence), 82 Stat. 727 ; restated Nov. 30, 1979 , Pub. L. 96–129 , §§ 104(b), 106, 93 Stat. 992 , 994. |
+|  | 49 App.:1681(a) (last sentence). | Aug. 12, 1968 , Pub. L. 90–481 , 82 Stat. 720 , § 14(a) (last sentence); added Oct. 11, 1984 , Pub. L. 98–464, § 7(a) , 98 Stat. 1823 . |
+|  | 49 App.:2010(a) (1st sentence words before semicolon). | Nov. 30, 1979 , Pub. L. 96–129, § 211(a) (1st sentence), 93 Stat. 1012 . |
+|  | 49 App.:2010(a) (last sentence). | Nov. 30, 1979 , Pub. L. 96–129 , 93 Stat. 989 , § 211(a) (last sentence); added Oct. 11, 1984 , Pub. L. 98–464, § 7(b) , 98 Stat. 1823 . |
+| 60117(b) | 49 App.:1681(b). | Aug. 12, 1968 , Pub. L. 90–481, § 14(b) –(e), 82 Stat. 727 ; restated Nov. 30, 1979 , Pub. L. 96–129 , §§ 104(b), 106, 93 Stat. 992 , 995. |
+|  | 49 App.:2010(b). | Nov. 30, 1979 , Pub. L. 96–129, § 211(b) –(e), 93 Stat. 1012 . |
+| 60117(c) | 49 App.:1681(c). |  |
+|  | 49 App.:2010(c). |  |
+| 60117(d) | 49 App.:1681(e) (1st sentence). |  |
+|  | 49 App.:2010(e) (1st sentence). |  |
+| 60117(e) | 49 App.:1681(d). |  |
+|  | 49 App.:2010(d). |  |
+| 60117(f) | 49 App.:1681(a) (1st sentence words after semicolon). |  |
+|  | 49 App.:1681(a) (2d sentence). | Aug. 12, 1968 , Pub. L. 90–481 , 82 Stat. 720 , § 14(a) (2d sentence); added Oct. 31, 1988 , Pub. L. 100–561, § 109 , 102 Stat. 2809 . |
+|  | 49 App.:2010(a) (1st sentence words after semicolon). |  |
+|  | 49 App.:2010(a) (2d sentence). | Nov. 30, 1979 , Pub. L. 96–129 , 93 Stat. 989 , § 211(a) (2d sentence); added Oct. 31, 1988 , Pub. L. 100–561, § 208 , 102 Stat. 2812 . |
+| 60117(g) | 49 App.:1682(a). | Aug. 12, 1968 , Pub. L. 90–481, § 15(a) , 82 Stat. 727 ; Nov. 30, 1979 , Pub. L. 96–129 , §§ 104(b), 109(j)(2), (k), 155(b), 93 Stat. 992 , 997, 1003. |
+|  | 49 App.:2011(a). | Nov. 30, 1979 , Pub. L. 96–129, § 212(a) –(c), 93 Stat. 1013 . |
+| 60117(h)(1) | 49 App.:1682(b). | Aug. 12, 1968 , Pub. L. 90–481, § 15(b) , 82 Stat. 727 ; Nov. 30, 1979 , Pub. L. 96–129 , §§ 104(b), 109(j)(2), 93 Stat. 992 , 997. |
+|  | 49 App.:2011(b). |  |
+| 60117(h)(2) | 49 App.:1682(c). | Aug. 12, 1968 , Pub. L. 90–481 , 82 Stat. 720 , § 15(c); added Aug. 22, 1972 , Pub. L. 92–401, § 3 , 86 Stat. 616 ; Nov. 30, 1979 , Pub. L. 96–129 , §§ 104(b), 109(j)(2), 93 Stat. 992 , 997. |
+|  | 49 App.:2011(c). |  |
+| 60117(h)(3) | 49 App.:1682(d). | Aug. 12, 1968 , Pub. L. 90–481 , 82 Stat. 720 , § 15(d); added Nov. 30, 1979 , Pub. L. 96–129, § 155(a) , 93 Stat. 1003 . |
+| 60117(i) | 49 App.:1676(b). | Aug. 12, 1968 , Pub. L. 90–481 , 82 Stat. 720 , § 9(b); added Oct. 31, 1988 , Pub. L. 100–561, § 105(2) , 102 Stat. 2807 . |
+|  | 49 App.:2011(d). | Nov. 30, 1979 , Pub. L. 96–129 , 93 Stat. 989 , § 212(d); added Oct. 31, 1988 , Pub. L. 100–561, § 209 , 102 Stat. 2812 . |
+| 60117(j) | 49 App.:1681(e) (last sentence). |  |
+|  | 49 App.:2010(e) (last sentence). |  |
+
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| --- | --- | --- |
+| 60117(i)(2) | 49 App.:1682 (note). | Oct. 24, 1992 , Pub. L. 102–508, § 304(c) , 106 Stat. 3308 . |
+
+
+General Authority
+
+Enforcement Procedures.—
+
+Process
+
+Open to the public
+
+Transparency.—
+
+Agreements, orders, and judgments open to the public
+
+Gao report on pipeline safety program collection and transparency of enforcement proceedings.—
+
+In general
+
+Contents
+
+Recommendations
+
+Savings clause
+
+Records, Reports, and Information
+
+Entry and Inspection
+
+Confidentiality of Information
+
+Use of Accident Reports
+
+Testing Facilities Involved in Accidents
+
+Providing Safety Information
+
+Cooperation
+
+Promoting Coordination
+
+Withholding Information From Congress
+
+Authority for Cooperative Agreements
+
+Safety Orders.—
+
+In general
+
+Considerations
+
+Restoration of Operations.—
+
+In general
+
+Savings clause
+
+Cost Recovery for Design Reviews.—
+
+In general.—
+
+Review costs
+
+Projects to which applicable
+
+Notification
+
+Pipeline safety design review fund.—
+
+Establishment
+
+Deposits
+
+Use
+
+No additional permitting authority
+
+Emergency Order Authority.—
+
+In general
+
+Considerations.—
+
+In general
+
+Consultation
+
+Written order
+
+Opportunity for review
+
+Expiration of effectiveness order
+
+Judicial review of orders.—
+
+In general
+
+Limitation
+
+Regulations.—
+
+Temporary regulations
+
+Final regulations
+
+Imminent hazard defined
+
+Limitation and savings clause
+
+Historical and Revision Notes
+
+Pub. L
+
+60117(a)
+
+Aug. 12, 1968
+
+Pub. L. 90–481, § 14(a)
+
+82 Stat. 727
+
+Nov. 30, 1979
+
+Pub. L. 96–129
+
+93 Stat. 992
+
+Aug. 12, 1968
+
+Pub. L. 90–481
+
+82 Stat. 720
+
+Oct. 11, 1984
+
+Pub. L. 98–464, § 7(a)
+
+98 Stat. 1823
+
+Nov. 30, 1979
+
+Pub. L. 96–129, § 211(a)
+
+93 Stat. 1012
+
+Nov. 30, 1979
+
+Pub. L. 96–129
+
+93 Stat. 989
+
+Oct. 11, 1984
+
+Pub. L. 98–464, § 7(b)
+
+98 Stat. 1823
+
+60117(b)
+
+Aug. 12, 1968
+
+Pub. L. 90–481, § 14(b)
+
+82 Stat. 727
+
+Nov. 30, 1979
+
+Pub. L. 96–129
+
+93 Stat. 992
+
+Nov. 30, 1979
+
+Pub. L. 96–129, § 211(b)
+
+93 Stat. 1012
+
+60117(c)
+
+60117(d)
+
+60117(e)
+
+60117(f)
+
+Aug. 12, 1968
+
+Pub. L. 90–481
+
+82 Stat. 720
+
+Oct. 31, 1988
+
+Pub. L. 100–561, § 109
+
+102 Stat. 2809
+
+Nov. 30, 1979
+
+Pub. L. 96–129
+
+93 Stat. 989
+
+Oct. 31, 1988
+
+Pub. L. 100–561, § 208
+
+102 Stat. 2812
+
+60117(g)
+
+Aug. 12, 1968
+
+Pub. L. 90–481, § 15(a)
+
+82 Stat. 727
+
+Nov. 30, 1979
+
+Pub. L. 96–129
+
+93 Stat. 992
+
+Nov. 30, 1979
+
+Pub. L. 96–129, § 212(a)
+
+93 Stat. 1013
+
+60117(h)(1)
+
+Aug. 12, 1968
+
+Pub. L. 90–481, § 15(b)
+
+82 Stat. 727
+
+Nov. 30, 1979
+
+Pub. L. 96–129
+
+93 Stat. 992
+
+60117(h)(2)
+
+Aug. 12, 1968
+
+Pub. L. 90–481
+
+82 Stat. 720
+
+Aug. 22, 1972
+
+Pub. L. 92–401, § 3
+
+86 Stat. 616
+
+Nov. 30, 1979
+
+Pub. L. 96–129
+
+93 Stat. 992
+
+60117(h)(3)
+
+Aug. 12, 1968
+
+Pub. L. 90–481
+
+82 Stat. 720
+
+Nov. 30, 1979
+
+Pub. L. 96–129, § 155(a)
+
+93 Stat. 1003
+
+60117(i)
+
+Aug. 12, 1968
+
+Pub. L. 90–481
+
+82 Stat. 720
+
+Oct. 31, 1988
+
+Pub. L. 100–561, § 105(2)
+
+102 Stat. 2807
+
+Nov. 30, 1979
+
+Pub. L. 96–129
+
+93 Stat. 989
+
+Oct. 31, 1988
+
+Pub. L. 100–561, § 209
+
+102 Stat. 2812
+
+60117(j)
+
+60117(i)(2)
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 304(c)
+
+106 Stat. 3308
+
+In general
+
+Deposit
+
+Authorization of appropriations
+
+In general
+
+Presiding official
+
+Expedited review
+
+In General
+
+Definitions
+
+Federal on-scene coordinator
+
+National response center
+
+Safety data sheet
+
+Revision of Regulations
+
+Minimum Requirements
+
+Updating of Reports
+
+In General
+
+Reimbursements for Training Expenditures.—
+
+In general
+
+Authorization of appropriations
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1321](https://www.govinfo.gov/link/statute/108/1321); [Pub. L. 103–429, § 6(77)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4388](https://www.govinfo.gov/link/statute/108/4388); [Pub. L. 104–304](https://www.govinfo.gov/link/plaw/104/public/304), §§ 12, 19, Oct. 12, 1996, [110 Stat. 3802](https://www.govinfo.gov/link/statute/110/3802), 3804; [Pub. L. 107–355, § 7](https://www.govinfo.gov/link/plaw/107/public/355), Dec. 17, 2002, [116 Stat. 2993](https://www.govinfo.gov/link/statute/116/2993); [Pub. L. 109–468](https://www.govinfo.gov/link/plaw/109/public/468), §§ 11, 13, 17, Dec. 29, 2006, [120 Stat. 3494–3496](https://www.govinfo.gov/link/statute/120/3494); [Pub. L. 112–90, § 13(a)](https://www.govinfo.gov/link/plaw/112/public/90), Jan. 3, 2012, [125 Stat. 1913](https://www.govinfo.gov/link/statute/125/1913); [Pub. L. 114–183, § 16](https://www.govinfo.gov/link/plaw/114/public/183), June 22, 2016, [130 Stat. 525](https://www.govinfo.gov/link/statute/130/525); [Pub. L. 116–260, div. R, title I, § 108(a)](https://www.govinfo.gov/link/plaw/116/public/260), (b)(2), Dec. 27, 2020, [134 Stat. 2221](https://www.govinfo.gov/link/statute/134/2221), 2223.)*

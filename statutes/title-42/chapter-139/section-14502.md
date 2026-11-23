@@ -3,9 +3,10 @@ title: "Section 14502 - Preemption and election of State nonapplicability"
 usc_title: 42
 usc_section: "14502"
 chapter: 139
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 14502"
-generated_at: "2026-03-30T02:56:11.452Z"
+generated_at: "2026-11-23T20:27:23.532Z"
+status: "active"
 ---
 
 # § 14502. Preemption and election of State nonapplicability
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.452Z"
   - **(1)** citing the authority of this subsection;
   - **(2)** declaring the election of such State that this chapter shall not apply, as of a date certain, to such civil action in the State; and
   - **(3)** containing no other provisions.
+
+## Source Credit
+
+*([Pub. L. 105–19, § 3](https://www.govinfo.gov/link/plaw/105/public/19), June 18, 1997, [111 Stat. 219](https://www.govinfo.gov/link/statute/111/219).)*

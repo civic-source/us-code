@@ -3,9 +3,10 @@ title: "Section 1152 - Numerical limitations on individual foreign states"
 usc_title: 8
 usc_section: "1152"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1152"
-generated_at: "2026-03-30T02:53:10.472Z"
+generated_at: "2026-11-23T20:25:35.991Z"
+status: "active"
 ---
 
 # § 1152. Numerical limitations on individual foreign states
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:53:10.472Z"
   - **(1)** the ratio of the visa numbers made available under section 1153(a) of this title to the visa numbers made available under section 1153(b) of this title is equal to the ratio of the worldwide level of immigration under section 1151(c) of this title to such level under section 1151(d) of this title ;
   - **(2)** except as provided in subsection (a)(4), the proportion of the visa numbers made available under each of paragraphs (1) through (4) of section 1153(a) of this title is equal to the ratio of the total number of visas made available under the respective paragraph to the total number of visas made available under section 1153(a) of this title , and
   - **(3)** except as provided in subsection (a)(5), the proportion of the visa numbers made available under each of paragraphs (1) through (5) of section 1153(b) of this title is equal to the ratio of the total number of visas made available under the respective paragraph to the total number of visas made available under section 1153(b) of this title .
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 1, § 202, [66 Stat. 176](https://www.govinfo.gov/link/statute/66/176); [Pub. L. 87–301, § 9](https://www.govinfo.gov/link/plaw/87/public/301), Sept. 26, 1961, [75 Stat. 654](https://www.govinfo.gov/link/statute/75/654); [Pub. L. 89–236, § 2](https://www.govinfo.gov/link/plaw/89/public/236), Oct. 3, 1965, [79 Stat. 911](https://www.govinfo.gov/link/statute/79/911); [Pub. L. 94–571, § 3](https://www.govinfo.gov/link/plaw/94/public/571), Oct. 20, 1976, [90 Stat. 2703](https://www.govinfo.gov/link/statute/90/2703); [Pub. L. 95–412, § 2](https://www.govinfo.gov/link/plaw/95/public/412), Oct. 5, 1978, [92 Stat. 907](https://www.govinfo.gov/link/statute/92/907); [Pub. L. 96–212, title II, § 203(b)](https://www.govinfo.gov/link/plaw/96/public/212), Mar. 17, 1980, [94 Stat. 107](https://www.govinfo.gov/link/statute/94/107); [Pub. L. 97–116](https://www.govinfo.gov/link/plaw/97/public/116), §§ 18(c), 20(b), Dec. 29, 1981, [95 Stat. 1620](https://www.govinfo.gov/link/statute/95/1620), 1622; [Pub. L. 99–603, title III, § 311(a)](https://www.govinfo.gov/link/plaw/99/public/603), Nov. 6, 1986, [100 Stat. 3434](https://www.govinfo.gov/link/statute/100/3434); [Pub. L. 99–653, § 4](https://www.govinfo.gov/link/plaw/99/public/653), Nov. 14, 1986, [100 Stat. 3655](https://www.govinfo.gov/link/statute/100/3655); [Pub. L. 100–525](https://www.govinfo.gov/link/plaw/100/public/525), §§ 8(c), 9(f), Oct. 24, 1988, [102 Stat. 2617](https://www.govinfo.gov/link/statute/102/2617), 2620; [Pub. L. 101–649, title I, § 102](https://www.govinfo.gov/link/plaw/101/public/649), Nov. 29, 1990, [104 Stat. 4982](https://www.govinfo.gov/link/statute/104/4982); [Pub. L. 102–232, title III, § 302(a)(3)](https://www.govinfo.gov/link/plaw/102/public/232), Dec. 12, 1991, [105 Stat. 1742](https://www.govinfo.gov/link/statute/105/1742); [Pub. L. 104–208, div. C, title VI, § 633](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–701](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 106–313, title I, § 104(a)](https://www.govinfo.gov/link/plaw/106/public/313), (b), Oct. 17, 2000, [114 Stat. 1252](https://www.govinfo.gov/link/statute/114/1252), 1253.)*

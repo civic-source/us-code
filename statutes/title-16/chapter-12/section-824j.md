@@ -3,9 +3,10 @@ title: "Section 824j - Wheeling authority"
 usc_title: 16
 usc_section: "824j"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 824j"
-generated_at: "2026-03-30T02:54:22.916Z"
+generated_at: "2026-11-23T20:26:20.291Z"
+status: "active"
 ---
 
 # § 824j. Wheeling authority
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:22.916Z"
     - **(A)** fix a period during which transmission services are to be provided under the order under subsection (a) or (b), or
     - **(B)** otherwise provide procedures or methods for terminating or modifying such order (including, if appropriate, the return of the transmission capacity when necessary to take into account an increase, after the issuance of such order, in the needs of the transmitting utility subject to such order for transmission capacity).
 - **(e)** As used in this section, the term “facilities” means only facilities used for the generation or transmission of electric energy.
+
+## Source Credit
+
+*(June 10, 1920, ch. 285, pt. II, § 211, as added [Pub. L. 95–617, title II, § 203](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3136](https://www.govinfo.gov/link/statute/92/3136); amended [Pub. L. 96–294, title VI, § 643(a)(3)](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 770](https://www.govinfo.gov/link/statute/94/770); [Pub. L. 99–495, § 15](https://www.govinfo.gov/link/plaw/99/public/495), Oct. 16, 1986, [100 Stat. 1257](https://www.govinfo.gov/link/statute/100/1257); [Pub. L. 102–486, title VII, § 721](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2915](https://www.govinfo.gov/link/statute/106/2915); [Pub. L. 109–58, title XII, § 1295(c)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 985](https://www.govinfo.gov/link/statute/119/985).)*

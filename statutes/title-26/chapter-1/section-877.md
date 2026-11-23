@@ -3,9 +3,10 @@ title: "Section 877 - Expatriation to avoid tax"
 usc_title: 26
 usc_section: "877"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 877"
-generated_at: "2026-03-30T02:55:27.740Z"
+generated_at: "2026-11-23T20:26:45.944Z"
+status: "active"
 ---
 
 # § 877. Expatriation to avoid tax
@@ -93,3 +94,27 @@ generated_at: "2026-03-30T02:55:27.740Z"
       - **(ii)** the individual becomes fully liable for income tax in such country.
     - **(C)** An individual is described in this subparagraph if, for each year in the 10-year period ending on the date of loss of United States citizenship or termination of residency, the individual was physically present in the United States for 30 days or less. The rule of section 7701(b)(3)(D) shall apply for purposes of this subparagraph.
 - **(h)** This section shall not apply to any individual whose expatriation date (as defined in section 877A(g)(3)) is on or after the date of the enactment of this subsection.
+
+In General
+
+Special Rules of Source
+
+Sale of property
+
+Stock or debt obligations
+
+Exception for Loss of Citizenship for Certain Causes
+
+In general
+
+Ruling requests
+
+Special rule.—
+
+In general
+
+Exception
+
+## Source Credit
+
+*(Added [Pub. L. 89–809, title I, § 103(f)(1)](https://www.govinfo.gov/link/plaw/89/public/809), Nov. 13, 1966, [80 Stat. 1551](https://www.govinfo.gov/link/statute/80/1551); amended [Pub. L. 93–406, title II, § 2005(c)(8)](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 992](https://www.govinfo.gov/link/statute/88/992); [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 95–600, title IV, § 421(e)(5)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2876](https://www.govinfo.gov/link/statute/92/2876); [Pub. L. 96–222, title I, § 104(a)(1)](https://www.govinfo.gov/link/plaw/96/public/222), (4)(H)(v), Apr. 1, 1980, [94 Stat. 214](https://www.govinfo.gov/link/statute/94/214), 217; [Pub. L. 99–514, title XII, § 1243(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2580](https://www.govinfo.gov/link/statute/100/2580); [Pub. L. 102–318, title V, § 521(b)(31)](https://www.govinfo.gov/link/plaw/102/public/318), July 3, 1992, [106 Stat. 312](https://www.govinfo.gov/link/statute/106/312); [Pub. L. 104–188, title I, § 1401(b)(11)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1789](https://www.govinfo.gov/link/statute/110/1789); [Pub. L. 104–191, title V, § 511(a)](https://www.govinfo.gov/link/plaw/104/public/191) –(d), (f)(1), Aug. 21, 1996, [110 Stat. 2093–2098](https://www.govinfo.gov/link/statute/110/2093); [Pub. L. 105–34, title XVI, § 1602(g)(1)](https://www.govinfo.gov/link/plaw/105/public/34) –(4), (h)(3), Aug. 5, 1997, [111 Stat. 1095](https://www.govinfo.gov/link/statute/111/1095), 1096; [Pub. L. 108–357, title VIII, § 804(a)(1)](https://www.govinfo.gov/link/plaw/108/public/357), (2), (c), Oct. 22, 2004, [118 Stat. 1569](https://www.govinfo.gov/link/statute/118/1569), 1570; [Pub. L. 109–135, title IV, § 403(v)(1)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2628](https://www.govinfo.gov/link/statute/119/2628); [Pub. L. 110–245, title III, § 301(c)(2)(A)](https://www.govinfo.gov/link/plaw/110/public/245), (d), June 17, 2008, [122 Stat. 1646](https://www.govinfo.gov/link/statute/122/1646); [Pub. L. 113–295, div. A, title II, § 213(c)(2)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4034](https://www.govinfo.gov/link/statute/128/4034); [Pub. L. 115–141, div. U, title IV, § 401(a)(153)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1191](https://www.govinfo.gov/link/statute/132/1191).)*

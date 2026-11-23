@@ -3,9 +3,10 @@ title: "Section 4359b - Research priorities"
 usc_title: 20
 usc_section: "4359b"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 4359b"
-generated_at: "2026-03-30T02:54:48.183Z"
+generated_at: "2026-11-23T20:26:14.762Z"
+status: "active"
 ---
 
 # § 4359b. Research priorities
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:48.183Z"
 - **(b)** The University and NTID shall each prepare and submit an annual research report, to the Secretary, the Committee on Education and Labor of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate, not later than January 10 of each year, that shall include—
   - **(1)** a summary of the public input received as part of the establishment and dissemination of priorities required by subsection (a), and the University’s and NTID’s response to the input; and
   - **(2)** a summary description of the research undertaken by the University and NTID, the start and projected end dates for each research project, the projected cost and source or sources of funding for each project, and any products resulting from research completed in the prior fiscal year.
+
+## Source Credit
+
+*([Pub. L. 99–371, title II, § 210](https://www.govinfo.gov/link/plaw/99/public/371), as added [Pub. L. 105–244, title IX, § 923](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1832](https://www.govinfo.gov/link/statute/112/1832); amended [Pub. L. 110–315, title IX, § 912](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3455](https://www.govinfo.gov/link/statute/122/3455).)*

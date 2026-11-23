@@ -3,9 +3,10 @@ title: "Section 1691a - Food aid to developing countries"
 usc_title: 7
 usc_section: "1691a"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1691a"
-generated_at: "2026-03-30T02:53:42.336Z"
+generated_at: "2026-11-23T20:25:41.265Z"
+status: "active"
 ---
 
 # § 1691a. Food aid to developing countries
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:42.336Z"
       - **(i)** is based on assessments of need and intended to benefit the food security of, or otherwise assist, recipients, and
       - **(ii)** is provided in a manner that avoids disincentives to local agricultural production and marketing and with minimal potential for disruption of commercial markets; and
   - **(2)** the United States should increase its contribution of bona fide food assistance to developing countries consistent with the Agreement on Agriculture.
+
+## Source Credit
+
+*(July 10, 1954, ch. 469, § 3, as added [Pub. L. 94–161, title II, § 202](https://www.govinfo.gov/link/plaw/94/public/161), Dec. 20, 1975, [89 Stat. 851](https://www.govinfo.gov/link/statute/89/851); amended [Pub. L. 101–624, title XV, § 1512](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3633](https://www.govinfo.gov/link/statute/104/3633); [Pub. L. 104–127, title II, § 201(a)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 951](https://www.govinfo.gov/link/statute/110/951); [Pub. L. 110–246, title III, § 3003](https://www.govinfo.gov/link/plaw/110/public/246), June 18, 2008, [122 Stat. 1821](https://www.govinfo.gov/link/statute/122/1821).)*

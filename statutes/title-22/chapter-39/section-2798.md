@@ -3,9 +3,10 @@ title: "Section 2798 - Sanctions against certain foreign persons"
 usc_title: 22
 usc_section: "2798"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2798"
-generated_at: "2026-03-30T02:55:05.388Z"
+generated_at: "2026-11-23T20:26:32.435Z"
+status: "active"
 ---
 
 # § 2798. Sanctions against certain foreign persons
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:55:05.388Z"
 - **(f)** For the purposes of this section, the term “foreign person” means—
   - **(1)** an individual who is not a citizen of the United States or an alien admitted for permanent residence to the United States; or
   - **(2)** a corporation, partnership, or other entity which is created or organized under the laws of a foreign country or which has its principal place of business outside the United States.
+
+## Source Credit
+
+*([Pub. L. 90–629](https://www.govinfo.gov/link/plaw/90/public/629), ch. 8, § 81, as added and amended [Pub. L. 102–182, title III](https://www.govinfo.gov/link/plaw/102/public/182), §§ 305(b), 309(b)(2), Dec. 4, 1991, [105 Stat. 1250](https://www.govinfo.gov/link/statute/105/1250), 1258.)*

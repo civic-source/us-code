@@ -3,9 +3,10 @@ title: "Section 1398 - Rules relating to individuals’ title 11 cases"
 usc_title: 26
 usc_section: "1398"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1398"
-generated_at: "2026-03-30T02:55:27.774Z"
+generated_at: "2026-11-23T20:26:46.112Z"
+status: "active"
 ---
 
 # § 1398. Rules relating to individuals’ title 11 cases
@@ -64,3 +65,7 @@ generated_at: "2026-03-30T02:55:27.774Z"
     - **(C)** For purposes of this paragraph—
       - **(i)** The term “carryback” means a net operating loss carryback under section 172 or a carryback of any credit provided by part IV of subchapter A.
       - **(ii)** The term “carryback year” means the taxable year to which a carryback is carried.
+
+## Source Credit
+
+*(Added [Pub. L. 96–589, § 3(a)(1)](https://www.govinfo.gov/link/plaw/96/public/589), Dec. 24, 1980, [94 Stat. 3397](https://www.govinfo.gov/link/statute/94/3397); amended [Pub. L. 99–514, title I, § 104(b)(14)](https://www.govinfo.gov/link/plaw/99/public/514), title XIII, § 1301(j)(8), title XVIII, § 1812(a)(5), Oct. 22, 1986, [100 Stat. 2105](https://www.govinfo.gov/link/statute/100/2105), 2658, 2833.)*

@@ -3,9 +3,10 @@ title: "Section 7310A - Annual reports on Women’s Health"
 usc_title: 38
 usc_section: "7310A"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7310A"
-generated_at: "2026-03-30T02:55:53.527Z"
+generated_at: "2026-11-23T20:27:01.994Z"
+status: "active"
 ---
 
 # § 7310A. Annual reports on Women’s Health
@@ -48,3 +49,21 @@ generated_at: "2026-03-30T02:55:53.527Z"
     - **(A)** the Committee on Appropriations and the Committee on Veterans’ Affairs of the Senate; and
     - **(B)** the Committee on Appropriations and the Committee on Veterans’ Affairs of the House of Representatives.
   - **(2)** The term “gender-specific services” means mammography, obstetric care, gynecological care, and such other services as the Secretary determines appropriate.
+
+Annual Reports
+
+Office of Women’s Health
+
+Access to Gender-specific Services
+
+Models of Care
+
+Staffing
+
+Accessibility and Treatment Options
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 116–315, title V, § 5101(b)(1)](https://www.govinfo.gov/link/plaw/116/public/315), Jan. 5, 2021, [134 Stat. 5024](https://www.govinfo.gov/link/statute/134/5024).)*

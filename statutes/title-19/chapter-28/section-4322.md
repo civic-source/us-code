@@ -3,9 +3,10 @@ title: "Section 4322 - Priority trade issues"
 usc_title: 19
 usc_section: "4322"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 4322"
-generated_at: "2026-03-30T02:54:24.706Z"
+generated_at: "2026-11-23T20:26:11.136Z"
+status: "active"
 ---
 
 # § 4322. Priority trade issues
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:24.706Z"
   - **(2)**
     - **(A)** in the case of new priority trade issues, submits to the appropriate congressional committees a summary of proposals to establish such new priority trade issues not later than 30 days after such new priority trade issues are to take effect; and
     - **(B)** in the case of existing priority trade issues, submits to the appropriate congressional committees a summary of proposals to eliminate, consolidate, or otherwise modify such existing priority trade issues not later than 60 days before such changes are to take effect.
+
+## Source Credit
+
+*([Pub. L. 114–125, title I, § 117](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 145](https://www.govinfo.gov/link/statute/130/145).)*

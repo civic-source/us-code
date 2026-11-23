@@ -3,9 +3,10 @@ title: "Section 1761 - Foreign student monitoring program"
 usc_title: 8
 usc_section: "1761"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1761"
-generated_at: "2026-03-30T02:53:10.508Z"
+generated_at: "2026-11-23T20:25:36.286Z"
+status: "active"
 ---
 
 # § 1761. Foreign student monitoring program
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:10.508Z"
     - **(D)** Not later than 30 days after the deadline for registering for classes for an academic term, the approved institution of higher education or other approved educational institution shall inform the Immigration and Naturalization Service through data-sharing arrangements of any failure of any alien described in subparagraph (C) to enroll or to commence participation.
   - **(2)** Not later than 30 days after May 14, 2002 , the Attorney General shall provide the Secretary of State with a list of all approved institutions of higher education and other approved educational institutions that are authorized to receive nonimmigrants under section 1101(a)(15)(F) or (M) of this title.
   - **(3)** There are authorized to be appropriated such sums as may be necessary to carry out this subsection.
+
+## Source Credit
+
+*([Pub. L. 107–173, title V, § 501](https://www.govinfo.gov/link/plaw/107/public/173), May 14, 2002, [116 Stat. 560](https://www.govinfo.gov/link/statute/116/560).)*

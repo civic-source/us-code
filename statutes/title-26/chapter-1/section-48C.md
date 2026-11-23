@@ -3,9 +3,10 @@ title: "Section 48C - Qualifying advanced energy project credit"
 usc_title: 26
 usc_section: "48C"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 48C"
-generated_at: "2026-03-30T02:55:27.609Z"
+generated_at: "2026-11-23T20:26:45.252Z"
+status: "active"
 ---
 
 # § 48C. Qualifying advanced energy project credit
@@ -86,3 +87,15 @@ generated_at: "2026-03-30T02:55:27.609Z"
   - **(6)** Rules similar to the rules of section 45(b)(8) shall apply.
   - **(7)** The Secretary shall, upon making a certification under this subsection, publicly disclose the identity of the applicant and the amount of the credit with respect to such applicant.
 - **(f)** A credit shall not be allowed under this section for any qualified investment for which a credit is allowed under section 48, 48A, 48B, 48E, 45Q, or 45V.
+
+(aa) renewable, or
+
+(bb) low-carbon and low-emission,
+
+(aa) technologies, components, or materials for such vehicles, and
+
+(bb) associated charging or refueling infrastructure,
+
+## Source Credit
+
+*(Added [Pub. L. 111–5, div. B, title I, § 1302(b)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 345](https://www.govinfo.gov/link/statute/123/345); amended [Pub. L. 113–295, div. A, title II](https://www.govinfo.gov/link/plaw/113/public/295), §§ 209(g), 221(a)(2)(C), Dec. 19, 2014, [128 Stat. 4029](https://www.govinfo.gov/link/statute/128/4029), 4037; [Pub. L. 117–169, title I, § 13501(a)](https://www.govinfo.gov/link/plaw/117/public/169) –(d), Aug. 16, 2022, [136 Stat. 1969–1971](https://www.govinfo.gov/link/statute/136/1969); [Pub. L. 119–21, title VII, § 70515(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 276](https://www.govinfo.gov/link/statute/139/276).)*

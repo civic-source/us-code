@@ -3,9 +3,10 @@ title: "Section 806 - Art. 6. Judge advocates and legal officers"
 usc_title: 10
 usc_section: "806"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 806"
-generated_at: "2026-03-30T02:53:38.077Z"
+generated_at: "2026-11-23T20:25:51.059Z"
+status: "active"
 ---
 
 # § 806. Art. 6. Judge advocates and legal officers
@@ -31,3 +32,27 @@ generated_at: "2026-03-30T02:53:38.077Z"
 - **(e)**
   - **(1)** A judge advocate who is assigned or detailed to perform the functions of a civil office in the Government of the United States under section 973(b)(2)(B) of this title may perform such duties as may be requested by the agency concerned, including representation of the United States in civil and criminal cases.
   - **(2)** The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, shall prescribe regulations providing that reimbursement may be a condition of assistance by judge advocates assigned or detailed under section 973(b)(2)(B) of this title .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 806(a) 806(b) | 50:556(a). 50:556(b). | May 5, 1950, ch. 169, § 1 (Art. 6), 64 Stat. 110 . |
+| 806(c) | 50:556(c). |  |
+
+
+Historical and Revision Notes
+
+806(a)
+
+806(b)
+
+May 5, 1950, ch. 169, § 1
+
+64 Stat. 110
+
+806(c)
+
+“The amendment made by subsection (a) [amending this section]—
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 39; [Pub. L. 90–179, § 1(3)](https://www.govinfo.gov/link/plaw/90/public/179), Dec. 8, 1967, [81 Stat. 545](https://www.govinfo.gov/link/statute/81/545); [Pub. L. 90–632, § 2(2)](https://www.govinfo.gov/link/plaw/90/public/632), Oct. 24, 1968, [82 Stat. 1335](https://www.govinfo.gov/link/statute/82/1335); [Pub. L. 98–209, § 2(b)](https://www.govinfo.gov/link/plaw/98/public/209), Dec. 6, 1983, [97 Stat. 1393](https://www.govinfo.gov/link/statute/97/1393); [Pub. L. 99–661, div. A, title VIII, § 807(a)](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 3909](https://www.govinfo.gov/link/statute/100/3909); [Pub. L. 107–296, title XVII, § 1704(b)(1)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314); [Pub. L. 112–239, div. A, title V, § 531(d)(1)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1726](https://www.govinfo.gov/link/statute/126/1726); [Pub. L. 114–328, div. E, title LI, § 5103](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2895](https://www.govinfo.gov/link/statute/130/2895); [Pub. L. 119–60, div. A, title V](https://www.govinfo.gov/link/plaw/119/public/60), §§ 561(a), 562, Dec. 18, 2025, [139 Stat. 881](https://www.govinfo.gov/link/statute/139/881), 882.)*

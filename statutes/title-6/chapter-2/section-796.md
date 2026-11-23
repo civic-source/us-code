@@ -3,9 +3,10 @@ title: "Section 796 - Registry of disaster response contractors"
 usc_title: 6
 usc_section: "796"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 796"
-generated_at: "2026-03-30T02:53:09.500Z"
+generated_at: "2026-11-23T20:25:34.881Z"
+status: "active"
 ---
 
 # § 796. Registry of disaster response contractors
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:53:09.500Z"
     - **(C)** The Administrator shall verify that the documentation submitted by each business concern supports the information submitted by that business concern.
   - **(4)** The registry shall be made generally available on the Internet site of the Agency.
   - **(5)** As part of the acquisition planning for contracting for debris removal, distribution of supplies in a disaster, reconstruction, and other disaster or emergency relief activities, a Federal agency shall consult the registry.
+
+## Source Credit
+
+*([Pub. L. 109–295, title VI, § 697](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1461](https://www.govinfo.gov/link/statute/120/1461).)*

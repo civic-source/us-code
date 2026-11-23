@@ -3,9 +3,10 @@ title: "Section 2007 - Decision of President"
 usc_title: 43
 usc_section: "2007"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 2007"
-generated_at: "2026-03-30T02:55:57.495Z"
+generated_at: "2026-11-23T20:27:06.393Z"
+status: "active"
 ---
 
 # § 2007. Decision of President
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:55:57.495Z"
     - **(P)** such other factors as the President deems appropriate.
   - **(2)** The period of time for which such findings shall be made shall be the useful life of the crude oil transportation system involved.
 - **(c)** The President shall make available to the public at the time of issuance of a decision under this section a written statement setting forth findings with respect to each of the criteria specified in subsection (b) and describing the nature and route of crude oil transportation systems, if any, which are approved in the decision. If the President’s decision is to approve a system, each statement shall set forth his reasons for approving such system over other proposed systems (if any) eligible for consideration under this chapter. Such statement along with notification of such decision shall be published in the Federal Register.
+
+## Source Credit
+
+*([Pub. L. 95–617, title V, § 507](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3160](https://www.govinfo.gov/link/statute/92/3160).)*

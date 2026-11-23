@@ -3,12 +3,17 @@ title: "Section 3911 - Regulations"
 usc_title: 33
 usc_section: "3911"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 3911"
-generated_at: "2026-03-30T02:55:41.145Z"
+generated_at: "2026-11-23T20:26:54.285Z"
+status: "active"
 ---
 
 # § 3911. Regulations
 
 The Secretary or the Administrator, as applicable, may promulgate such regulations as the Secretary or Administrator determines to be appropriate to carry out this chapter.
 
+
+## Source Credit
+
+*([Pub. L. 113–121, title V, § 5032](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1342](https://www.govinfo.gov/link/statute/128/1342).)*

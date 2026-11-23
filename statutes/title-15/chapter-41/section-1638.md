@@ -3,9 +3,10 @@ title: "Section 1638 - Transactions other than under an open end credit plan"
 usc_title: 15
 usc_section: "1638"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1638"
-generated_at: "2026-03-30T02:54:08.140Z"
+generated_at: "2026-11-23T20:26:04.043Z"
+status: "active"
 ---
 
 # § 1638. Transactions other than under an open end credit plan
@@ -154,3 +155,23 @@ generated_at: "2026-03-30T02:54:08.140Z"
     - **(H)** Such other information as the Board 2 2 So in original. Probably should be “Bureau”. may prescribe in regulations.
   - **(2)** The Board 2 shall develop and prescribe a standard form for the disclosure required under this subsection, taking into account that the statements required may be transmitted in writing or electronically.
   - **(3)** Paragraph (1) shall not apply to any fixed rate residential mortgage loan where the creditor, assignee, or servicer provides the obligor with a coupon book that provides the obligor with substantially the same information as required in paragraph (1).
+
+Waiver of timeliness of disclosures
+
+Repayment analysis required to include escrow payments.—
+
+In general
+
+Assessment value
+
+In General
+
+Effect Notwithstanding Regulations
+
+General disclosures
+
+Variable interest rates
+
+## Source Credit
+
+*([Pub. L. 90–321, title I, § 128](https://www.govinfo.gov/link/plaw/90/public/321), May 29, 1968, [82 Stat. 155](https://www.govinfo.gov/link/statute/82/155); [Pub. L. 96–221, title VI, § 614(a)](https://www.govinfo.gov/link/plaw/96/public/221) –(c), Mar. 31, 1980, [94 Stat. 178](https://www.govinfo.gov/link/statute/94/178), 179; [Pub. L. 104–208, div. A, title II, § 2105](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–402](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 109–8, title XIII, § 1302(b)(1)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 208](https://www.govinfo.gov/link/statute/119/208); [Pub. L. 110–289, div. B, title V, § 2502(a)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2855](https://www.govinfo.gov/link/statute/122/2855); [Pub. L. 110–315, title X, § 1021(a)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3483](https://www.govinfo.gov/link/statute/122/3483); [Pub. L. 110–343, div. A, title I, § 130(a)](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3797](https://www.govinfo.gov/link/statute/122/3797); [Pub. L. 111–203, title X, § 1100A(2)](https://www.govinfo.gov/link/plaw/111/public/203), title XIV, §§ 1419, 1420, 1465, July 21, 2010, [124 Stat. 2107](https://www.govinfo.gov/link/statute/124/2107), 2154, 2155, 2185.)*

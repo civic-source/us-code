@@ -3,9 +3,10 @@ title: "Section 726 - Debentures and series A preferred stock"
 usc_title: 45
 usc_section: "726"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 726"
-generated_at: "2026-03-30T02:55:56.555Z"
+generated_at: "2026-11-23T20:27:05.302Z"
+status: "active"
 ---
 
 # § 726. Debentures and series A preferred stock
@@ -78,3 +79,7 @@ generated_at: "2026-03-30T02:55:56.555Z"
 - **(g)**
   - **(1)** There is authorized to be appropriated to the Association $3,629,000,000 to be used for the purchase of securities of the Corporation in accordance with this section. All sums received by the Association on account of the holding or disposition of any such securities shall be deposited in the general fund of the Treasury.
   - **(2)** To the extent provided in appropriation Acts, any funds appropriated under the authority of paragraph (1) of this subsection prior to January 14, 1983 , may be reappropriated to the Secretary, to facilitate the transfer of rail commuter services from the Corporation to other operators, for distribution under the statutory provisions of section 1139(b) of the Northeast Rail Service Act of 1981.
+
+## Source Credit
+
+*([Pub. L. 93–236, title II, § 216](https://www.govinfo.gov/link/plaw/93/public/236), as added [Pub. L. 94–210, title VI, § 605](https://www.govinfo.gov/link/plaw/94/public/210), Feb. 5, 1976, [90 Stat. 89](https://www.govinfo.gov/link/statute/90/89); amended [Pub. L. 95–565](https://www.govinfo.gov/link/plaw/95/public/565), §§ 2, 3, Nov. 1, 1978, [92 Stat. 2397](https://www.govinfo.gov/link/statute/92/2397); [Pub. L. 96–254, title I, § 118](https://www.govinfo.gov/link/plaw/96/public/254), May 30, 1980, [94 Stat. 406](https://www.govinfo.gov/link/statute/94/406); [Pub. L. 96–448, title IV, § 405(b)(2)](https://www.govinfo.gov/link/plaw/96/public/448), title VII, § 703(e), (f)(1), (2), Oct. 14, 1980, [94 Stat. 1946](https://www.govinfo.gov/link/statute/94/1946), 1964, 1965; [Pub. L. 97–468, title V, § 504(b)](https://www.govinfo.gov/link/plaw/97/public/468), Jan. 14, 1983, [96 Stat. 2552](https://www.govinfo.gov/link/statute/96/2552); [Pub. L. 99–509, title IV, § 4011(d)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1896](https://www.govinfo.gov/link/statute/100/1896); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095).)*

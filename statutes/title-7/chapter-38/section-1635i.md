@@ -3,9 +3,10 @@ title: "Section 1635i - Definitions"
 usc_title: 7
 usc_section: "1635i"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1635i"
-generated_at: "2026-03-30T02:53:42.332Z"
+generated_at: "2026-11-23T20:25:41.235Z"
+status: "active"
 ---
 
 # § 1635i. Definitions
@@ -65,3 +66,7 @@ In this part:
     - **(C)** a swine or pork market formula purchase;
     - **(D)** a negotiated formula purchase; and
     - **(E)** other purchase arrangement.
+
+## Source Credit
+
+*(Aug. 14, 1946, ch. 966, title II, § 231, as added [Pub. L. 106–78, title IX, § 911(2)](https://www.govinfo.gov/link/plaw/106/public/78), Oct. 22, 1999, [113 Stat. 1193](https://www.govinfo.gov/link/statute/113/1193); amended [Pub. L. 109–296, § 2](https://www.govinfo.gov/link/plaw/109/public/296), Oct. 5, 2006, [120 Stat. 1464](https://www.govinfo.gov/link/statute/120/1464); [Pub. L. 114–54, title I, § 102(a)](https://www.govinfo.gov/link/plaw/114/public/54), Sept. 30, 2015, [129 Stat. 513](https://www.govinfo.gov/link/statute/129/513).)*

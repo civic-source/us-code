@@ -3,9 +3,10 @@ title: "Section 716 - Availability of information and inspection of records"
 usc_title: 31
 usc_section: "716"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 716"
-generated_at: "2026-03-30T02:55:34.046Z"
+generated_at: "2026-11-23T20:26:51.681Z"
+status: "active"
 ---
 
 # § 716. Availability of information and inspection of records
@@ -35,3 +36,48 @@ generated_at: "2026-03-30T02:55:34.046Z"
   - **(1)** The Comptroller General shall maintain the same level of confidentiality for a record made available under this section as is required of the head of the agency from which it is obtained. Officers and employees of the Government Accountability Office are subject to the same statutory penalties for unauthorized disclosure or use as officers or employees of the agency.
   - **(2)** The Comptroller General shall keep information described in section 552(b)(6) of title 5 that the Comptroller General obtains in a way that prevents unwarranted invasions of personal privacy.
   - **(3)** This section does not authorize information to be withheld from Congress.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 716(a) | 31:54(a). | June 10, 1921, ch. 18, § 313(a) , 42 Stat. 26 ; Apr. 3, 1980 , Pub. L. 96–226, § 102 , 94 Stat. 312 . |
+| 716(b) | 31:54(b). | June 10, 1921, ch. 18 , 42 Stat. 20 , § 313(b)–(f); added Apr. 3, 1980 , Pub. L. 96–226, § 102 , 94 Stat. 312 . |
+| 716(c) | 31:54(c). |  |
+| 716(d) | 31:54(d). |  |
+| 716(e) | 31:54(e), (f). |  |
+
+
+Historical and Revision Notes
+
+716(a)
+
+June 10, 1921, ch. 18, § 313(a)
+
+42 Stat. 26
+
+Apr. 3, 1980
+
+Pub. L. 96–226, § 102
+
+94 Stat. 312
+
+716(b)
+
+June 10, 1921, ch. 18
+
+42 Stat. 20
+
+Apr. 3, 1980
+
+Pub. L. 96–226, § 102
+
+94 Stat. 312
+
+716(c)
+
+716(d)
+
+716(e)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 892](https://www.govinfo.gov/link/statute/96/892); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 115–3, § 2(c)](https://www.govinfo.gov/link/plaw/115/public/3), Jan. 31, 2017, [131 Stat. 7](https://www.govinfo.gov/link/statute/131/7).)*

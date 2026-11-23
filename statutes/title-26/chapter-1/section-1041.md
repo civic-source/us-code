@@ -3,9 +3,10 @@ title: "Section 1041 - Transfers of property between spouses or incident to divo
 usc_title: 26
 usc_section: "1041"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1041"
-generated_at: "2026-03-30T02:55:27.756Z"
+generated_at: "2026-11-23T20:26:46.022Z"
+status: "active"
 ---
 
 # § 1041. Transfers of property between spouses or incident to divorce
@@ -23,3 +24,15 @@ generated_at: "2026-03-30T02:55:27.756Z"
 - **(e)** Subsection (a) shall not apply to the transfer of property in trust to the extent that—
   - **(1)** the sum of the amount of the liabilities assumed, plus the amount of the liabilities to which the property is subject, exceeds
   - **(2)** the total of the adjusted basis of the property transferred.
+
+In general
+
+Election to have amendments apply to transfers after 1983
+
+Exception for transfers pursuant to existing decrees
+
+Election
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title IV, § 421(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 793](https://www.govinfo.gov/link/statute/98/793); amended [Pub. L. 99–514, title XVIII, § 1842(b)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2853](https://www.govinfo.gov/link/statute/100/2853); [Pub. L. 100–647, title I, § 1018](https://www.govinfo.gov/link/plaw/100/public/647) (l)(3), Nov. 10, 1988, [102 Stat. 3584](https://www.govinfo.gov/link/statute/102/3584).)*

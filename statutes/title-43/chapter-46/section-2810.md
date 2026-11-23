@@ -3,12 +3,17 @@ title: "Section 2810 - Savings provision"
 usc_title: 43
 usc_section: "2810"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 2810"
-generated_at: "2026-03-30T02:55:57.500Z"
+generated_at: "2026-11-23T20:27:06.422Z"
+status: "active"
 ---
 
 # § 2810. Savings provision
 
 Nothing in this chapter shall repeal, amend, or supersede any existing law unless specifically provided in this chapter.
 
+
+## Source Credit
+
+*([Pub. L. 115–254, div. B, title VII, § 759B](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3427](https://www.govinfo.gov/link/statute/132/3427).)*

@@ -3,9 +3,10 @@ title: "Section 1116 - Injunctive relief"
 usc_title: 15
 usc_section: "1116"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1116"
-generated_at: "2026-03-30T02:54:08.126Z"
+generated_at: "2026-11-23T20:26:03.960Z"
+status: "active"
 ---
 
 # § 1116. Injunctive relief
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:54:08.126Z"
     - **(A)** The court shall hold a hearing, unless waived by all the parties, on the date set by the court in the order of seizure. That date shall be not sooner than ten days after the order is issued and not later than fifteen days after the order is issued, unless the applicant for the order shows good cause for another date or unless the party against whom such order is directed consents to another date for such hearing. At such hearing the party obtaining the order shall have the burden to prove that the facts supporting findings of fact and conclusions of law necessary to support such order are still in effect. If that party fails to meet that burden, the seizure order shall be dissolved or modified appropriately.
     - **(B)** In connection with a hearing under this paragraph, the court may make such orders modifying the time limits for discovery under the Rules of Civil Procedure as may be necessary to prevent the frustration of the purposes of such hearing.
   - **(11)** A person who suffers damage by reason of a wrongful seizure under this subsection has a cause of action against the applicant for the order under which such seizure was made, and shall be entitled to recover such relief as may be appropriate, including damages for lost profits, cost of materials, loss of good will, and punitive damages in instances where the seizure was sought in bad faith, and, unless the court finds extenuating circumstances, to recover a reasonable attorney’s fee. The court in its discretion may award prejudgment interest on relief recovered under this paragraph, at an annual interest rate established under section 6621(a)(2) of title 26 , commencing on the date of service of the claimant’s pleading setting forth the claim under this paragraph and ending on the date such recovery is granted, or for such shorter time as the court deems appropriate.
+
+## Source Credit
+
+*(July 5, 1946, ch. 540, title VI, § 34, [60 Stat. 439](https://www.govinfo.gov/link/statute/60/439); [Pub. L. 93–596, § 1](https://www.govinfo.gov/link/plaw/93/public/596), Jan. 2, 1975, [88 Stat. 1949](https://www.govinfo.gov/link/statute/88/1949); [Pub. L. 98–473, title II, § 1503(1)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2179](https://www.govinfo.gov/link/statute/98/2179); [Pub. L. 100–667, title I, § 128(c)](https://www.govinfo.gov/link/plaw/100/public/667) –(e), Nov. 16, 1988, [102 Stat. 3945](https://www.govinfo.gov/link/statute/102/3945); [Pub. L. 104–153, § 6](https://www.govinfo.gov/link/plaw/104/public/153), July 2, 1996, [110 Stat. 1388](https://www.govinfo.gov/link/statute/110/1388); [Pub. L. 106–43, § 3(a)(1)](https://www.govinfo.gov/link/plaw/106/public/43), Aug. 5, 1999, [113 Stat. 218](https://www.govinfo.gov/link/statute/113/218); [Pub. L. 106–113, div. B, § 1000(a)(9) [title III, § 3003(a)(1), title IV, § 4732(b)(1)(B)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–548, 1501A–583; [Pub. L. 107–273, div. C, title III, § 13207(b)(8)](https://www.govinfo.gov/link/plaw/107/public/273) –(10), Nov. 2, 2002, [116 Stat. 1908](https://www.govinfo.gov/link/statute/116/1908); [Pub. L. 110–403, title I, § 102(b)](https://www.govinfo.gov/link/plaw/110/public/403), Oct. 13, 2008, [122 Stat. 4258](https://www.govinfo.gov/link/statute/122/4258); [Pub. L. 116–260, div. Q, title II, § 226(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2208](https://www.govinfo.gov/link/statute/134/2208).)*

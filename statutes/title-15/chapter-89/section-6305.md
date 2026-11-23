@@ -3,9 +3,10 @@ title: "Section 6305 - Registration"
 usc_title: 15
 usc_section: "6305"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 6305"
-generated_at: "2026-03-30T02:54:08.210Z"
+generated_at: "2026-11-23T20:26:04.389Z"
+status: "active"
 ---
 
 # § 6305. Registration
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:08.210Z"
   - **(2)** Each professional boxer shall renew his or her identification card at least once every 4 years.
   - **(3)** Each professional boxer shall present his or her identification card to the appropriate boxing commission not later than the time of the weigh-in for a professional boxing match.
 - **(c)** It is the sense of the Congress that a boxing commission should, upon issuing an identification card to a boxer under subsection (b)(1), make a health and safety disclosure to that boxer as that commission considers appropriate. The health and safety disclosure should include the health and safety risks associated with boxing, and, in particular, the risk and frequency of brain injury and the advisability that a boxer periodically undergo medical procedures designed to detect brain injury.
+
+## Source Credit
+
+*([Pub. L. 104–272, § 6](https://www.govinfo.gov/link/plaw/104/public/272), Oct. 9, 1996, [110 Stat. 3310](https://www.govinfo.gov/link/statute/110/3310); [Pub. L. 106–210, § 7(c)](https://www.govinfo.gov/link/plaw/106/public/210), (f), May 26, 2000, [114 Stat. 328](https://www.govinfo.gov/link/statute/114/328).)*

@@ -3,9 +3,10 @@ title: "Section 1383a - Interim exemption for commercial fisheries"
 usc_title: 16
 usc_section: "1383a"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1383a"
-generated_at: "2026-03-30T02:54:22.960Z"
+generated_at: "2026-11-23T20:26:20.464Z"
+status: "active"
 ---
 
 # § 1383a. Interim exemption for commercial fisheries
@@ -125,3 +126,7 @@ generated_at: "2026-03-30T02:54:22.960Z"
   - **(2)** the term “Secretary” means the Secretary of Commerce.
   - **(3)** the term “vessel engaged in a fishery” means a fishing vessel as defined in section 2101(12) of title 46 or a fish processing vessel as defined in section 2101(13) of that title, which is engaged in fishery.
   - **(4)** the term “vessel of the United States” has the same meaning as it does in section 1802(27) 2 of this title.
+
+## Source Credit
+
+*([Pub. L. 92–522, title I, § 114](https://www.govinfo.gov/link/plaw/92/public/522), as added [Pub. L. 100–711, § 2(a)(2)](https://www.govinfo.gov/link/plaw/100/public/711), Nov. 23, 1988, [102 Stat. 4755](https://www.govinfo.gov/link/statute/102/4755); amended [Pub. L. 103–86](https://www.govinfo.gov/link/plaw/103/public/86), Sept. 30, 1993, [107 Stat. 930](https://www.govinfo.gov/link/statute/107/930); [Pub. L. 103–228](https://www.govinfo.gov/link/plaw/103/public/228), Mar. 31, 1994, [108 Stat. 281](https://www.govinfo.gov/link/statute/108/281); [Pub. L. 103–238, § 15(a)](https://www.govinfo.gov/link/plaw/103/public/238), Apr. 30, 1994, [108 Stat. 559](https://www.govinfo.gov/link/statute/108/559); [Pub. L. 104–43, title IV, § 404(a)(1)](https://www.govinfo.gov/link/plaw/104/public/43), Nov. 3, 1995, [109 Stat. 390](https://www.govinfo.gov/link/statute/109/390); [Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009](https://www.govinfo.gov/link/statute/110/3009), 3009–41; [Pub. L. 115–232, div. C, title XXXV, § 3541(b)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2323](https://www.govinfo.gov/link/statute/132/2323).)*

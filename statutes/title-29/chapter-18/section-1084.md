@@ -3,9 +3,10 @@ title: "Section 1084 - Minimum funding standards for multiemployer plans"
 usc_title: 29
 usc_section: "1084"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1084"
-generated_at: "2026-03-30T02:55:18.712Z"
+generated_at: "2026-11-23T20:26:37.942Z"
+status: "active"
 ---
 
 # § 1084. Minimum funding standards for multiemployer plans
@@ -155,3 +156,17 @@ generated_at: "2026-03-30T02:55:18.712Z"
   - **(3)**
     - **(A)** The Secretary of the Treasury shall, before granting an extension under this subsection, require each applicant to provide evidence satisfactory to such Secretary that the applicant has provided notice of the filing of the application for such extension to each affected party (as defined in section 1301(a)(21) of this title ) with respect to the affected plan. Such notice shall include a description of the extent to which the plan is funded for benefits which are guaranteed under subchapter III and for benefit liabilities.
     - **(B)** The Secretary of the Treasury shall consider any relevant information provided by a person to whom notice was given under paragraph (1).
+
+In general
+
+Criteria
+
+Shortfall funding method defined
+
+Benefit restrictions to apply
+
+Use of shortfall method not to preclude other options
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 304](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 109–280, title II, § 201(a)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 858](https://www.govinfo.gov/link/statute/120/858); amended [Pub. L. 111–192, title II, § 211(a)(1)](https://www.govinfo.gov/link/plaw/111/public/192), June 25, 2010, [124 Stat. 1302](https://www.govinfo.gov/link/statute/124/1302); [Pub. L. 113–235, div. O, title I](https://www.govinfo.gov/link/plaw/113/public/235), §§ 101(b)(1), 108(a)(3)(B), Dec. 16, 2014, [128 Stat. 2774](https://www.govinfo.gov/link/statute/128/2774), 2787; [Pub. L. 113–295, div. A, title I, § 171(b)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4023](https://www.govinfo.gov/link/statute/128/4023); [Pub. L. 117–2, title IX, § 9703(a)(1)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 188](https://www.govinfo.gov/link/statute/135/188).)*

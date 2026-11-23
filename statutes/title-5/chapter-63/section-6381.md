@@ -3,9 +3,10 @@ title: "Section 6381 - Definitions"
 usc_title: 5
 usc_section: "6381"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 6381"
-generated_at: "2026-03-30T02:52:56.033Z"
+generated_at: "2026-11-23T20:25:32.042Z"
+status: "active"
 ---
 
 # § 6381. Definitions
@@ -42,3 +43,7 @@ For the purpose of this subchapter—
     - **(A)** in the case of a member of the Armed Forces (including a member of the National Guard or Reserves), means an injury or illness that was incurred by the member in line of duty on active duty in the Armed Forces (or existed before the beginning of the member’s active duty and was aggravated by service in line of duty on active duty in the Armed Forces) and that may render the member medically unfit to perform the duties of the member’s office, grade, rank, or rating; and
     - **(B)** in the case of a veteran who was a member of the Armed Forces (including a member of the National Guard or Reserves) at any time during a period described in paragraph (8)(B), means an injury or illness that was incurred by the member in line of duty on active duty in the Armed Forces (or existed before the beginning of the member’s active duty and was aggravated by service in line of duty on active duty in the Armed Forces) and that manifested itself before or after the member became a veteran; and
   - **(12)** the term “veteran” has the meaning given the term in section 101 of title 38 , United States Code.
+
+## Source Credit
+
+*(Added [Pub. L. 103–3, title II, § 201(a)(1)](https://www.govinfo.gov/link/plaw/103/public/3), Feb. 5, 1993, [107 Stat. 19](https://www.govinfo.gov/link/statute/107/19); amended [Pub. L. 104–1, title II, § 202(c)(2)](https://www.govinfo.gov/link/plaw/104/public/1), Jan. 23, 1995, [109 Stat. 9](https://www.govinfo.gov/link/statute/109/9); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 110–181, div. A, title V, § 585(b)(1)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 131](https://www.govinfo.gov/link/statute/122/131); [Pub. L. 111–84, div. A, title V, § 565(b)(1)(A)](https://www.govinfo.gov/link/plaw/111/public/84), (2), (3), Oct. 28, 2009, [123 Stat. 2311](https://www.govinfo.gov/link/statute/123/2311), 2312; [Pub. L. 116–283, div. A, title XI, § 1103(f)(2)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3889](https://www.govinfo.gov/link/statute/134/3889); [Pub. L. 118–31, div. A, title XI, § 1114(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 432](https://www.govinfo.gov/link/statute/137/432).)*

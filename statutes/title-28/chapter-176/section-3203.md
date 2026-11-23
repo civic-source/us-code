@@ -3,9 +3,10 @@ title: "Section 3203 - Execution"
 usc_title: 28
 usc_section: "3203"
 chapter: 176
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 3203"
-generated_at: "2026-03-30T02:55:30.153Z"
+generated_at: "2026-11-23T20:26:36.545Z"
+status: "active"
 ---
 
 # § 3203. Execution
@@ -82,3 +83,73 @@ generated_at: "2026-03-30T02:55:30.153Z"
     - **(C)** Except as provided in subparagraph (D), the United States marshal shall deliver the balance of the proceeds to the counsel for the United States as soon as practicable.
     - **(D)** If more proceeds are received from the execution sale than is necessary to satisfy the executions held by the United States marshal, the marshal shall pay the surplus to the judgment debtor.
   - **(2)** If the proceeds of the execution sale of the property levied on are insufficient to satisfy the execution, the United States marshal shall proceed on the same writ of execution to levy other property of the judgment debtor.
+
+Property Subject to Execution
+
+Creation of Execution Lien
+
+Writ of Execution.—
+
+Issuance
+
+Form of writ.—
+
+General contents
+
+Additional contents
+
+Levy of Execution.—
+
+In general
+
+Death of judgment debtor
+
+Records of united states marshal
+
+Appointment of Receiver
+
+Replevy; Redemption.—
+
+Before execution sale
+
+After execution sale
+
+Execution Sale.—
+
+General procedures
+
+Sale of real property.—
+
+In general
+
+Sale of city lots
+
+Sale of rural property
+
+Sale of personal property
+
+Postponement of sale
+
+Sale procedures.—
+
+Bidding requirements
+
+Resale of property
+
+Rights and liabilities of purchasers.—
+
+Transfer of title after sale.—
+
+Purchaser considered innocent purchaser without notice
+
+Liability of successful bidder who fails to comply
+
+Disposition of Proceeds; Further Levy.—
+
+Distribution of sale proceeds
+
+Further levy if execution not satisfied
+
+## Source Credit
+
+*(Added [Pub. L. 101–647, title XXXVI, § 3611](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4950](https://www.govinfo.gov/link/statute/104/4950).)*

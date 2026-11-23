@@ -3,9 +3,10 @@ title: "Section 10241 - General authorization of appropriations"
 usc_title: 22
 usc_section: "10241"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 10241"
-generated_at: "2026-03-30T02:55:05.475Z"
+generated_at: "2026-11-23T20:26:32.816Z"
+status: "active"
 ---
 
 # § 10241. General authorization of appropriations
@@ -19,3 +20,7 @@ During each of the fiscal years 2023 through 2027, following consultation with t
   - **(5)** programs to assist civil society organizations to investigate and document atrocities in Burma for the purposes of truth, justice, and accountability;
   - **(6)** programs to assist civil society organizations in Burma that support individuals that who are unlawfully detained in Burma for exercising their fundamental freedoms; and
   - **(7)** programs to assist civil society organizations and ethnic groups with reconciliation activities related to Burma.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. E, title LV, § 5575](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3369](https://www.govinfo.gov/link/statute/136/3369).)*

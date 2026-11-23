@@ -3,9 +3,10 @@ title: "Section 53407 - National security requirements"
 usc_title: 46
 usc_section: "53407"
 chapter: 534
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 53407"
-generated_at: "2026-03-30T02:56:15.575Z"
+generated_at: "2026-11-23T20:27:27.320Z"
+status: "active"
 ---
 
 # § 53407. National security requirements
@@ -30,3 +31,29 @@ generated_at: "2026-03-30T02:56:15.575Z"
 - **(g)**
   - **(1)** All commercial transportation resources activated under an emergency preparedness agreement shall, upon termination of the period of activation, be redelivered to the program participant in the same good order and condition as when received, less ordinary wear and tear, or the Secretary of Defense shall fully compensate the program participant for any necessary repair or replacement.
   - **(2)** Except as may be expressly agreed in an emergency preparedness agreement, or as otherwise provided by law, the Government shall not be liable for disruption of a program participant’s commercial business or other consequential damages to the program participant arising from the activation of commercial transportation resources under an emergency preparedness agreement.
+
+Emergency Preparedness Agreement Required
+
+Terms of Agreement
+
+Participation After Expiration of Operating Agreement
+
+Resources Made Available
+
+Compensation.—
+
+In general
+
+Specific requirements
+
+Temporary Replacement Vessels
+
+Redelivery and Liability of the United States for Damages.—
+
+In general
+
+Limitation on united states liability
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. C, title XXXV, § 3511(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4416](https://www.govinfo.gov/link/statute/134/4416).)*

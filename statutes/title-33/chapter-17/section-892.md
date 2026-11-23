@@ -3,9 +3,10 @@ title: "Section 892 - Definitions"
 usc_title: 33
 usc_section: "892"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 892"
-generated_at: "2026-03-30T02:55:41.074Z"
+generated_at: "2026-11-23T20:26:53.925Z"
+status: "active"
 ---
 
 # § 892. Definitions
@@ -26,3 +27,7 @@ In this subchapter:
     - **(B)** the development of nautical information systems; and
     - **(C)** related activities.
   - **(5)** The term “Coast and Geodetic Survey Act” means the Act entitled “An Act to define the functions and duties of the Coast and Geodetic Survey, and for other purposes”, approved August 6, 1947 ( 33 U.S.C. 883a et seq.).
+
+## Source Credit
+
+*([Pub. L. 105–384, title III, § 302](https://www.govinfo.gov/link/plaw/105/public/384), Nov. 13, 1998, [112 Stat. 3454](https://www.govinfo.gov/link/statute/112/3454); [Pub. L. 107–372, title I, § 102](https://www.govinfo.gov/link/plaw/107/public/372), Dec. 19, 2002, [116 Stat. 3079](https://www.govinfo.gov/link/statute/116/3079); [Pub. L. 110–386, § 2](https://www.govinfo.gov/link/plaw/110/public/386), Oct. 10, 2008, [122 Stat. 4106](https://www.govinfo.gov/link/statute/122/4106); [Pub. L. 117–263, div. J, title CIII, § 10308(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3980](https://www.govinfo.gov/link/statute/136/3980).)*

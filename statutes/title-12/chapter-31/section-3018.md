@@ -3,9 +3,10 @@ title: "Section 3018 - Loans"
 usc_title: 12
 usc_section: "3018"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 3018"
-generated_at: "2026-03-30T02:53:53.489Z"
+generated_at: "2026-11-23T20:25:59.317Z"
+status: "active"
 ---
 
 # § 3018. Loans
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:53.489Z"
 - **(c)** Subject to section 3012(13) of this title , the Bank may guarantee all or any part of the principal and interest of any loan made by any State or federally chartered lending institution to any borrower if such loan is to an organization that would be an eligible borrower from the Bank for a direct loan and is on terms and conditions (including the rate of interest) which would be permissible terms and conditions for such a direct loan. The Bank may impose a charge for any such guarantee. No loan may be guaranteed by the Bank if the income therefrom to the lender is excluded from such lender’s gross income for purposes of chapter 1 of title 26.
 - **(d)** Any loan guaranteed under subsection (c) shall be assignable to the extent provided in the contract of guarantee as may be determined by the Bank. The guarantee shall be uncontestable, except for fraud or misrepresentation of which the holder had actual knowledge at the time he acquired the loan. The Bank in lieu of requiring such lender to service such guaranteed loan until final maturity or liquidation, may purchase the loan for the balance of the principal and accrued interest thereon without penalty, if it determines that (1) the liquidation of the loan would result in the insolvency of the borrower or deprive the borrower of assets essential to its continued operation, and (2) the loan will be repayable with revision of the loan rates, terms, or payment periods or other conditions not inconsistent with loans made by the Bank under subsection (a) of this section, which revisions the lender or other holder of such guaranteed loan is unwilling to make.
 - **(e)** As long as any of the class A stock of the Bank is held by the Secretary of the Treasury, the aggregate amount of commitments by the Bank to make or guarantee loans shall not exceed such amounts as may be specified in annual appropriation Acts.
+
+## Source Credit
+
+*([Pub. L. 95–351, title I, § 108](https://www.govinfo.gov/link/plaw/95/public/351), Aug. 20, 1978, [92 Stat. 508](https://www.govinfo.gov/link/statute/92/508); [Pub. L. 97–35, title III](https://www.govinfo.gov/link/plaw/97/public/35), §§ 394(b), 396(e), Aug. 13, 1981, [95 Stat. 436](https://www.govinfo.gov/link/statute/95/436), 440; [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095).)*

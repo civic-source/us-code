@@ -3,9 +3,10 @@ title: "Section 7511b - Federal ozone measures"
 usc_title: 42
 usc_section: "7511b"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7511b"
-generated_at: "2026-03-30T02:56:11.308Z"
+generated_at: "2026-11-23T20:27:22.884Z"
+status: "active"
 ---
 
 # § 7511b. Federal ozone measures
@@ -69,3 +70,11 @@ generated_at: "2026-03-30T02:56:11.308Z"
       - **(iii)** applicable to motor vehicles of the same types and model years as the foreign-registered motor vehicles; and
     - **(B)** the President approves the alternative approach as facilitating compliance with the motor vehicle inspection and maintenance requirements referred to in subparagraph (A).
   - **(5)** In this section, the term “covered ozone nonattainment area” means a Serious Area, as classified under section 7511 of this title as of October 27, 1998 .
+
+In General
+
+Information
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 183, as added [Pub. L. 101–549, title I, § 103](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2443](https://www.govinfo.gov/link/statute/104/2443); amended [Pub. L. 105–286, § 2](https://www.govinfo.gov/link/plaw/105/public/286), Oct. 27, 1998, [112 Stat. 2773](https://www.govinfo.gov/link/statute/112/2773).)*

@@ -3,9 +3,10 @@ title: "Section 1003 - Obligation to make royalty payments"
 usc_title: 17
 usc_section: "1003"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 1003"
-generated_at: "2026-03-30T02:54:15.356Z"
+generated_at: "2026-11-23T20:26:06.540Z"
+status: "active"
 ---
 
 # § 1003. Obligation to make royalty payments
@@ -16,3 +17,19 @@ generated_at: "2026-03-30T02:54:15.356Z"
   - **(1)** Any importer or manufacturer that distributes any digital audio recording device or digital audio recording medium that it manufactured or imported shall file with the Register of Copyrights, in such form and content as the Register shall prescribe by regulation, such quarterly and annual statements of account with respect to such distribution as the Register shall prescribe by regulation.
   - **(2)** Each such statement shall be certified as accurate by an authorized officer or principal of the importer or manufacturer. The Register shall issue regulations to provide for the verification and audit of such statements and to protect the confidentiality of the information contained in such statements. Such regulations shall provide for the disclosure, in confidence, of such statements to interested copyright parties.
   - **(3)** Each such statement shall be accompanied by the royalty payments specified in section 1004.
+
+Prohibition on Importation and Manufacture
+
+Filing of Notice
+
+Filing of Quarterly and Annual Statements of Account.—
+
+Generally
+
+Certification, verification, and confidentiality
+
+Royalty payments
+
+## Source Credit
+
+*(Added [Pub. L. 102–563, § 2](https://www.govinfo.gov/link/plaw/102/public/563), Oct. 28, 1992, [106 Stat. 4240](https://www.govinfo.gov/link/statute/106/4240).)*

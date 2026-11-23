@@ -3,12 +3,17 @@ title: "Section 1068b - Mineral reservation"
 usc_title: 43
 usc_section: "1068b"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1068b"
-generated_at: "2026-03-30T02:55:57.467Z"
+generated_at: "2026-11-23T20:27:06.270Z"
+status: "active"
 ---
 
 # § 1068b. Mineral reservation
 
 If the claimant requests that the patent to be issued under this chapter not contain a mineral reservation and if he can establish to the satisfaction of the Secretary that the requirements of this chapter have been complied with by such claimant and his predecessors for the period commencing not later than January 1, 1901 , to the date of application, no mineral reservation shall be made unless the lands are, at the time of issuance of the patent, within a mineral withdrawal or subject to an outstanding mineral lease.
 
+
+## Source Credit
+
+*(Dec. 22, 1928, ch. 47, § 3, as added July 28, 1953, ch. 254, § 2, [67 Stat. 228](https://www.govinfo.gov/link/statute/67/228).)*

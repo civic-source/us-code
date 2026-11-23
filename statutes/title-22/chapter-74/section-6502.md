@@ -3,9 +3,10 @@ title: "Section 6502 - Definitions"
 usc_title: 22
 usc_section: "6502"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6502"
-generated_at: "2026-03-30T02:55:05.430Z"
+generated_at: "2026-11-23T20:26:32.620Z"
+status: "active"
 ---
 
 # § 6502. Definitions
@@ -23,3 +24,7 @@ In this chapter:
   - **(9)** The term “office” includes any office, administration, agency, institute, unit, organizational entity, or component thereof.
   - **(10)** The term “Secretary” means the Secretary of State.
   - **(11)** The term “USIA” means the United States Information Agency.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XI, § 1103, Oct. 21, 1998, [112 Stat. 2681–766](https://www.govinfo.gov/link/statute/112/2681).)*

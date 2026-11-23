@@ -3,9 +3,10 @@ title: "Section 387t - Labeling, recordkeeping, records inspection"
 usc_title: 21
 usc_section: "387t"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 387t"
-generated_at: "2026-03-30T02:54:54.282Z"
+generated_at: "2026-11-23T20:26:27.780Z"
+status: "active"
 ---
 
 # § 387t. Labeling, recordkeeping, records inspection
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:54.282Z"
     - **(A)** the actual knowledge that the manufacturer or distributor had; or
     - **(B)** the knowledge which a reasonable person would have had under like circumstances or which would have been obtained upon the exercise of due care.
 - **(e)** In carrying out this section, the Secretary shall consult with the Attorney General of the United States and the Secretary of the Treasury, as appropriate.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 920, as added [Pub. L. 111–31, div. A, title III, § 301](https://www.govinfo.gov/link/plaw/111/public/31), June 22, 2009, [123 Stat. 1850](https://www.govinfo.gov/link/statute/123/1850).)*

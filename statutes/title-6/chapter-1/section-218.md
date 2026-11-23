@@ -3,9 +3,10 @@ title: "Section 218 - Asia-Pacific Economic Cooperation Business Travel Cards"
 usc_title: 6
 usc_section: "218"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 218"
-generated_at: "2026-03-30T02:53:09.452Z"
+generated_at: "2026-11-23T20:25:34.669Z"
+status: "active"
 ---
 
 # § 218. Asia-Pacific Economic Cooperation Business Travel Cards
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:09.452Z"
     - **(B)** remain available until expended.
 - **(f)** The Commissioner of U.S. Customs and Border Protection shall notify the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate not later than 60 days after the expenditures of funds to operate and provide ABT Card services beyond the amounts collected under subsection (e)(1).
 - **(g)** In this section, the term “trusted traveler program” means a voluntary program of the Department that allows U.S. Customs and Border Protection to expedite clearance of pre-approved, low-risk travelers arriving in the United States.
+
+## Source Credit
+
+*([Pub. L. 107–296, title IV, § 418](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 115–79, § 2(a)](https://www.govinfo.gov/link/plaw/115/public/79), Nov. 2, 2017, [131 Stat. 1258](https://www.govinfo.gov/link/statute/131/1258).)*

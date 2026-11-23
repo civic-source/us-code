@@ -3,9 +3,10 @@ title: "Section 300n - Additional required agreements"
 usc_title: 42
 usc_section: "300n"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 300n"
-generated_at: "2026-03-30T02:56:10.807Z"
+generated_at: "2026-11-23T20:27:20.518Z"
+status: "active"
 ---
 
 # § 300n. Additional required agreements
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:10.807Z"
   - **(1)** the State will establish such fiscal control and fund accounting procedures as may be necessary to ensure the proper disbursal of, and accounting for, amounts received by the State under such section; and
   - **(2)** upon request, the State will provide records maintained pursuant to paragraph (1) to the Secretary or the Comptroller of the United States for purposes of auditing the expenditures by the State of the grant.
 - **(i)** The Secretary may not make a grant under section 300k of this title unless the State involved agrees to submit to the Secretary such reports as the Secretary may require with respect to the grant.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XV, § 1504, as added [Pub. L. 101–354, § 2](https://www.govinfo.gov/link/plaw/101/public/354), Aug. 10, 1990, [104 Stat. 412](https://www.govinfo.gov/link/statute/104/412); amended [Pub. L. 103–183, title I, § 101(d)](https://www.govinfo.gov/link/plaw/103/public/183), Dec. 14, 1993, [107 Stat. 2228](https://www.govinfo.gov/link/statute/107/2228).)*

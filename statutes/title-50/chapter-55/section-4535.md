@@ -3,9 +3,10 @@ title: "Section 4535 - Reports on exercise of authorities"
 usc_title: 50
 usc_section: "4535"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4535"
-generated_at: "2026-03-30T02:56:26.275Z"
+generated_at: "2026-11-23T20:27:31.110Z"
+status: "active"
 ---
 
 # § 4535. Reports on exercise of authorities
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:26.275Z"
 - **(c)** In this section, the term “appropriate congressional committees” means—
   - **(1)** the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives; and
   - **(2)** in the case of an action described in subsection (a) involving materials critical to national security (as defined in section 4552(7)(B)(ii)(II)(bb) of this title ), the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives.
+
+## Source Credit
+
+*(Sept. 8, 1950, ch. 932, title III, § 305, as added [Pub. L. 118–31, div. A, title X, § 1080(b)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 416](https://www.govinfo.gov/link/statute/137/416).)*

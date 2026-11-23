@@ -3,9 +3,10 @@ title: "Section 70101 - National multimodal freight policy"
 usc_title: 49
 usc_section: "70101"
 chapter: 701
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 70101"
-generated_at: "2026-03-30T02:56:19.417Z"
+generated_at: "2026-11-23T20:27:35.435Z"
+status: "active"
 ---
 
 # § 70101. National multimodal freight policy
@@ -32,3 +33,13 @@ generated_at: "2026-03-30T02:56:19.417Z"
   - **(1)** carry out sections 70102 and 70103;
   - **(2)** assist with the coordination of modal freight planning; and
   - **(3)** identify interagency data sharing opportunities to promote freight planning and coordination.
+
+In General
+
+Goals
+
+Implementation
+
+## Source Credit
+
+*(Added [Pub. L. 114–94, div. A, title VIII, § 8001(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1605](https://www.govinfo.gov/link/statute/129/1605); amended [Pub. L. 117–58, div. B, title I, § 21101(d)(1)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 656](https://www.govinfo.gov/link/statute/135/656).)*

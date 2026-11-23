@@ -3,9 +3,10 @@ title: "Section 4065 - Voluntary contribution account"
 usc_title: 22
 usc_section: "4065"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4065"
-generated_at: "2026-03-30T02:55:05.404Z"
+generated_at: "2026-11-23T20:26:32.508Z"
+status: "active"
 ---
 
 # § 4065. Voluntary contribution account
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.404Z"
   - **(4)** used to purchase an additional life annuity for the participant and a life annuity commencing on his or her death payable to a beneficiary whose name shall be notified in writing to the Secretary of State by the participant, with a guaranteed return to the beneficiary or his or her legal representative of an amount equal to the cash payment referred to in paragraph (3).
 - **(b)** The benefits provided by subsection (a)(2), (3), or (4) shall be actuarially equivalent in value to the payment provided for by subsection (a)(1) and shall be calculated upon such tables of mortality as may be from time to time prescribed for this purpose by the Secretary of the Treasury.
 - **(c)** A voluntary contribution account shall be paid in a lump sum following receipt of an application therefor from a present or former participant if application is filed prior to payment of any additional annuity. If not sooner paid, the account shall be paid at such time as the participant separates from the Service for any reason without entitlement to an annuity or a deferred annuity or at such time as a former participant dies or withdraws compulsory contributions to the Fund. In case of death, the account shall be paid in the order of precedence specified in section 4055(f) of this title .
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 825](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2122](https://www.govinfo.gov/link/statute/94/2122).)*

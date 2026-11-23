@@ -3,12 +3,17 @@ title: "Section 17933 - Education on health information privacy"
 usc_title: 42
 usc_section: "17933"
 chapter: 156
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17933"
-generated_at: "2026-03-30T02:56:11.510Z"
+generated_at: "2026-11-23T20:27:23.766Z"
+status: "active"
 ---
 
 # § 17933. Education on health information privacy
 
 - **(a)** Not later than 6 months after February 17, 2009 , the Secretary shall designate an individual in each regional office of the Department of Health and Human Services to offer guidance and education to covered entities, business associates, and individuals on their rights and responsibilities related to Federal privacy and security requirements for protected health information.
 - **(b)** Not later than 12 months after February 17, 2009 , the Office for Civil Rights within the Department of Health and Human Services shall develop and maintain a multi-faceted national education initiative to enhance public transparency regarding the uses of protected health information, including programs to educate individuals about the potential uses of their protected health information, the effects of such uses, and the rights of individuals with respect to such uses. Such programs shall be conducted in a variety of languages and present information in a clear and understandable manner.
+
+## Source Credit
+
+*([Pub. L. 111–5, div. A, title XIII, § 13403](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 263](https://www.govinfo.gov/link/statute/123/263).)*

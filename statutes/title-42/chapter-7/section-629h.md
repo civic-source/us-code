@@ -3,9 +3,10 @@ title: "Section 629h - Entitlement funding for State courts to assess and improv
 usc_title: 42
 usc_section: "629h"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 629h"
-generated_at: "2026-03-30T02:56:10.880Z"
+generated_at: "2026-11-23T20:27:20.865Z"
+status: "active"
 ---
 
 # § 629h. Entitlement funding for State courts to assess and improve handling of proceedings relating to foster care and adoption
@@ -49,3 +50,37 @@ generated_at: "2026-03-30T02:56:10.880Z"
     - **(B)** the manner in which the proceedings should be conducted.
   - **(2)** The Secretary shall issue initial guidance required by paragraph (1) with preliminary information on best practices not later than October 1, 2025 .
   - **(3)** The Secretary shall consult with Indian tribes on the development of appropriate guidelines for State court proceedings involving Indian children to maximize engagement of Indian tribes and provide appropriate guidelines on conducting State court proceedings subject to the Indian Child Welfare Act of 1978 ( 25 U.S.C. 1901 et seq.).
+
+Reservation of Funds
+
+Distribution of Funds.—
+
+In general
+
+Amount
+
+Other rules.—
+
+In general
+
+No additional application
+
+Reports
+
+Redistribution of funds
+
+No matching requirement
+
+Use of Funds
+
+“In this Act [div. X of Pub. L. 116–260 , see Short Title of 2020 Amendment note set out under section 1305 of this title ]:
+
+COVID–19 public health emergency
+
+COVID–19 public health emergency period
+
+Secretary
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 438, formerly [Pub. L. 103–66, title XIII, § 13712](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 655](https://www.govinfo.gov/link/statute/107/655), as amended [Pub. L. 105–89, title III, § 305(a)(3)](https://www.govinfo.gov/link/plaw/105/public/89), Nov. 19, 1997, [111 Stat. 2130](https://www.govinfo.gov/link/statute/111/2130); renumbered § 438 of act Aug. 14, 1935, and amended [Pub. L. 107–133, title I, § 107](https://www.govinfo.gov/link/plaw/107/public/133), Jan. 17, 2002, [115 Stat. 2418](https://www.govinfo.gov/link/statute/115/2418); [Pub. L. 109–171, title VII, § 7401(a)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 148](https://www.govinfo.gov/link/statute/120/148); [Pub. L. 109–239](https://www.govinfo.gov/link/plaw/109/public/239), §§ 8(b), 9, July 3, 2006, [120 Stat. 513](https://www.govinfo.gov/link/statute/120/513); [Pub. L. 109–288, § 9](https://www.govinfo.gov/link/plaw/109/public/288), Sept. 28, 2006, [120 Stat. 1255](https://www.govinfo.gov/link/statute/120/1255); [Pub. L. 111–242, § 133(2)](https://www.govinfo.gov/link/plaw/111/public/242), Sept. 30, 2010, [124 Stat. 2613](https://www.govinfo.gov/link/statute/124/2613); [Pub. L. 112–34, title I, § 104](https://www.govinfo.gov/link/plaw/112/public/34), Sept. 30, 2011, [125 Stat. 374](https://www.govinfo.gov/link/statute/125/374); [Pub. L. 115–123, div. E, title VII](https://www.govinfo.gov/link/plaw/115/public/123), §§ 50741(c), 50752(d), (e), Feb. 9, 2018, [132 Stat. 256](https://www.govinfo.gov/link/statute/132/256), 263; [Pub. L. 116–260, div. X, § 7(d)](https://www.govinfo.gov/link/plaw/116/public/260), div. CC, title III, § 305(b), Dec. 27, 2020, [134 Stat. 2414](https://www.govinfo.gov/link/statute/134/2414), 2994; [Pub. L. 117–328, div. FF, title VI, § 6103(a)(4)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5965](https://www.govinfo.gov/link/statute/136/5965); [Pub. L. 118–258, title I](https://www.govinfo.gov/link/plaw/118/public/258), §§ 104(b)–(d), 107(b)(3), 115(b)(2)(F), Jan. 4, 2025, [138 Stat. 2948](https://www.govinfo.gov/link/statute/138/2948), 2955, 2969.)*

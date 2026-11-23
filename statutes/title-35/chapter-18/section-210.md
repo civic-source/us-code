@@ -3,9 +3,10 @@ title: "Section 210 - Precedence of chapter"
 usc_title: 35
 usc_section: "210"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "35 U.S.C. § 210"
-generated_at: "2026-03-30T02:55:34.239Z"
+generated_at: "2026-11-23T20:26:49.136Z"
+status: "active"
 ---
 
 # § 210. Precedence of chapter
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:55:34.239Z"
 - **(c)** Nothing in this chapter is intended to limit the authority of agencies to agree to the disposition of rights in inventions made in the performance of work under funding agreements with persons other than nonprofit organizations or small business firms in accordance with the Statement of Government Patent Policy issued on February 18, 1983 , agency regulations, or other applicable regulations or to otherwise limit the authority of agencies to allow such persons to retain ownership of inventions except that all funding agreements, including those with other than small business firms and nonprofit organizations, shall include the requirements established in section 202(c)(4) and section 203. Any disposition of rights in inventions made in accordance with the Statement or implementing regulations, including any disposition occurring before enactment of this section, are hereby authorized.
 - **(d)** Nothing in this chapter shall be construed to require the disclosure of intelligence sources or methods or to otherwise affect the authority granted to the Director of Central Intelligence by statute or Executive order for the protection of intelligence sources or methods.
 - **(e)** The provisions of the Stevenson-Wydler Technology Innovation Act of 1980 shall take precedence over the provisions of this chapter to the extent that they permit or require a disposition of rights in subject inventions which is inconsistent with this chapter.
+
+## Source Credit
+
+*(Added [Pub. L. 96–517, § 6(a)](https://www.govinfo.gov/link/plaw/96/public/517), Dec. 12, 1980, [94 Stat. 3026](https://www.govinfo.gov/link/statute/94/3026); amended [Pub. L. 98–620, title V, § 501(13)](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3367](https://www.govinfo.gov/link/statute/98/3367); [Pub. L. 99–502, § 9(c)](https://www.govinfo.gov/link/plaw/99/public/502), Oct. 20, 1986, [100 Stat. 1796](https://www.govinfo.gov/link/statute/100/1796); [Pub. L. 103–272, § 5(j)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1375](https://www.govinfo.gov/link/statute/108/1375); [Pub. L. 104–113, § 7](https://www.govinfo.gov/link/plaw/104/public/113), Mar. 7, 1996, [110 Stat. 779](https://www.govinfo.gov/link/statute/110/779); [Pub. L. 105–393, title II, § 220(c)(2)](https://www.govinfo.gov/link/plaw/105/public/393), Nov. 13, 1998, [112 Stat. 3625](https://www.govinfo.gov/link/statute/112/3625); [Pub. L. 107–273, div. C, title III, § 13206(a)(16)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1905](https://www.govinfo.gov/link/statute/116/1905); [Pub. L. 109–58, title X, § 1009(a)(2)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 934](https://www.govinfo.gov/link/statute/119/934); [Pub. L. 111–314, § 4(c)](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3440](https://www.govinfo.gov/link/statute/124/3440); [Pub. L. 112–29, § 20(j)](https://www.govinfo.gov/link/plaw/112/public/29), Sept. 16, 2011, [125 Stat. 335](https://www.govinfo.gov/link/statute/125/335).)*

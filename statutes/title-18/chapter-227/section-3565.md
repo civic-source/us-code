@@ -3,9 +3,10 @@ title: "Section 3565 - Revocation of probation"
 usc_title: 18
 usc_section: "3565"
 chapter: 227
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 3565"
-generated_at: "2026-03-30T02:54:16.520Z"
+generated_at: "2026-11-23T20:26:08.739Z"
+status: "active"
 ---
 
 # § 3565. Revocation of probation
@@ -19,3 +20,15 @@ generated_at: "2026-03-30T02:54:16.520Z"
   - **(3)** refuses to comply with drug testing, thereby violating the condition imposed by section 3563(a)(4); 1 1 See References in Text note below. or
   - **(4)** as a part of drug testing, tests positive for illegal controlled substances more than 3 times over the course of 1 year;
 - **(c)** The power of the court to revoke a sentence of probation for violation of a condition of probation, and to impose another sentence, extends beyond the expiration of the term of probation for any period reasonably necessary for the adjudication of matters arising before its expiration if, prior to its expiration, a warrant or summons has been issued on the basis of an allegation of such a violation.
+
+Continuation or Revocation
+
+Mandatory Revocation for Possession of Controlled Substance or Firearm or Refusal To Comply With Drug Testing
+
+Delayed Revocation
+
+Mandatory Revocation for Possession of a Firearm
+
+## Source Credit
+
+*(Added [Pub. L. 98–473, title II, § 212(a)(2)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 1995](https://www.govinfo.gov/link/statute/98/1995); amended [Pub. L. 100–690, title VI, § 6214](https://www.govinfo.gov/link/plaw/100/public/690), title VII, § 7303(a)(2), Nov. 18, 1988, [102 Stat. 4361](https://www.govinfo.gov/link/statute/102/4361), 4464; [Pub. L. 101–647, title XXXV, § 3585](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4930](https://www.govinfo.gov/link/statute/104/4930); [Pub. L. 103–322, title XI, § 110506](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2017](https://www.govinfo.gov/link/statute/108/2017); [Pub. L. 107–273, div. B, title II, § 2103(a)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1793](https://www.govinfo.gov/link/statute/116/1793).)*

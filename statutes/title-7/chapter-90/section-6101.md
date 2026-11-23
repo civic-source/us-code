@@ -3,9 +3,10 @@ title: "Section 6101 - Findings and declaration of policy"
 usc_title: 7
 usc_section: "6101"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6101"
-generated_at: "2026-03-30T02:53:42.424Z"
+generated_at: "2026-11-23T20:25:41.682Z"
+status: "active"
 ---
 
 # § 6101. Findings and declaration of policy
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:42.424Z"
   - **(2)** maintain and expand existing markets and uses for mushrooms; and
   - **(3)** develop new markets and uses for mushrooms.
 - **(c)** Nothing in this chapter may be construed to provide for the control of production or otherwise limit the right of individual producers to produce mushrooms.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XIX, § 1922](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3855](https://www.govinfo.gov/link/statute/104/3855).)*

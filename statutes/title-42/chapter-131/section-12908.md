@@ -3,9 +3,10 @@ title: "Section 12908 - Rental assistance"
 usc_title: 42
 usc_section: "12908"
 chapter: 131
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12908"
-generated_at: "2026-03-30T02:56:11.436Z"
+generated_at: "2026-11-23T20:27:23.459Z"
+status: "active"
 ---
 
 # § 12908. Rental assistance
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.436Z"
   - **(1)** The recipient shall provide for qualified service providers in the area to provide appropriate services to the eligible persons assisted under this section.
   - **(2)** For any individual with acquired immunodeficiency syndrome or related diseases who requires more care than can be provided in housing assisted under this section, the recipient shall provide for the locating of a care provider who can appropriately care for the individual and referral of the individual to the care provider.
 - **(c)** A project sponsor providing rental assistance under this section may use amounts from any grant received under this section for administrative expenses involved in providing such assistance, subject to the provisions of 12905(g)(2) 1 1 So in original. Probably should be preceded by “section”. of this title.
+
+## Source Credit
+
+*([Pub. L. 101–625, title VIII, § 859](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4381](https://www.govinfo.gov/link/statute/104/4381); [Pub. L. 102–550, title VI, § 606(h)(1)](https://www.govinfo.gov/link/plaw/102/public/550), (j)(6), (7), (11)(D), Oct. 28, 1992, [106 Stat. 3810](https://www.govinfo.gov/link/statute/106/3810), 3811.)*

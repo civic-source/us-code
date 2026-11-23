@@ -3,9 +3,10 @@ title: "Section 12141 - Grant authorization"
 usc_title: 34
 usc_section: "12141"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12141"
-generated_at: "2026-03-30T02:55:33.283Z"
+generated_at: "2026-11-23T20:26:50.537Z"
+status: "active"
 ---
 
 # § 12141. Grant authorization
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:33.283Z"
   - **(1)** are innovative in approach to the prevention of crime in a specific area;
   - **(2)** vary in approach to ensure that comparisons of different models may be made; and
   - **(3)** coordinate crime prevention programs funded under this program with other existing Federal programs to address the overall needs of communities that benefit from grants received under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 103–322, title III, § 30301](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1844](https://www.govinfo.gov/link/statute/108/1844).)*

@@ -3,9 +3,10 @@ title: "Section 29 - Reports and financial statements of investment companies an
 usc_title: 15
 usc_section: "29"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 29"
-generated_at: "2026-03-30T02:54:08.069Z"
+generated_at: "2026-11-23T20:26:03.608Z"
+status: "active"
 ---
 
 # § 80a–29. Reports and financial statements of investment companies and affiliated persons
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:54:08.069Z"
 - **(k)**
   - **(1)** The Commission shall, by rule, adopt data standards for all reports required to be filed with the Commission under this section, except that the Commission may exempt exhibits, signatures, and certifications from those data standards.
   - **(2)** The data standards required under paragraph (1) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under section 5334 of title 12 , including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
+
+## Source Credit
+
+*(Aug. 22, 1940, ch. 686, title I, § 30, [54 Stat. 836](https://www.govinfo.gov/link/statute/54/836); [Pub. L. 104–290, title II, § 206](https://www.govinfo.gov/link/plaw/104/public/290), title V, § 508(g), Oct. 11, 1996, [110 Stat. 3430](https://www.govinfo.gov/link/statute/110/3430), 3449; [Pub. L. 105–353, title III, § 301(c)(5)](https://www.govinfo.gov/link/plaw/105/public/353), Nov. 3, 1998, [112 Stat. 3237](https://www.govinfo.gov/link/statute/112/3237); [Pub. L. 117–263, div. E, title LVIII, § 5821(b)(2)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3425](https://www.govinfo.gov/link/statute/136/3425).)*

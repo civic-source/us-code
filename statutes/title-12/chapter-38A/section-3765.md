@@ -3,9 +3,10 @@ title: "Section 3765 - Effect of sale"
 usc_title: 12
 usc_section: "3765"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 3765"
-generated_at: "2026-03-30T02:53:53.498Z"
+generated_at: "2026-11-23T20:25:59.351Z"
+status: "active"
 ---
 
 # § 3765. Effect of sale
@@ -16,3 +17,7 @@ A sale, made and conducted as prescribed in this chapter to a bona fide purchase
   - **(2)** Any person claiming any interest in the property subordinate to that of the mortgage, if such person had actual knowledge of the foreclosure sale.
   - **(3)** Any person claiming any interest in the property, whose assignment, mortgage, or other conveyance was not duly recorded or filed in the proper place for recording or filing, or whose judgment or decree was not duly docketed or filed in the proper place for docketing or filing, before the date on which the notice of the foreclosure sale was first served by publication, as required by section 3758(3) of this title , and the executor, administrator, or assignee of such a person.
   - **(4)** Any person claiming an interest in the property under a statutory lien or encumbrance created subsequent to the recording or filing of the mortgage being foreclosed, and attaching to the title or interest of any person designated in any of the foregoing paragraphs.
+
+## Source Credit
+
+*([Pub. L. 103–327, title II](https://www.govinfo.gov/link/plaw/103/public/327), Sept. 28, 1994, [108 Stat. 2316](https://www.govinfo.gov/link/statute/108/2316).)*

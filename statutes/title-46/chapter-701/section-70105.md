@@ -3,9 +3,10 @@ title: "Section 70105 - Transportation worker identification credentials"
 usc_title: 46
 usc_section: "70105"
 chapter: 701
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 70105"
-generated_at: "2026-03-30T02:56:15.586Z"
+generated_at: "2026-11-23T20:27:27.438Z"
+status: "active"
 ---
 
 # § 70105. Transportation worker identification credentials
@@ -129,3 +130,135 @@ generated_at: "2026-03-30T02:56:15.586Z"
 - **(o)**
   - **(1)** Not later than one year after the date of publication of final regulations required by subsection (j)(3) of this section the Secretary shall develop a plan to permit the receipt and activation of transportation worker identification credentials at any vessel or facility described in subsection (a) of this section that desires to implement this capability. Such receipt and activation shall comply, to the extent possible, with all appropriate requirements of Federal standards for personal identity verification and credential.
   - **(2)** The Secretary may not require any such vessel or facility to provide on-site receipt and activation of transportation worker identification credentials.
+
+Prohibition
+
+Issuance of Credentials
+
+Determination of Terrorism Security Risk
+
+Disqualifications.—
+
+Permanent disqualifying criminal offenses
+
+Interim disqualifying criminal offenses
+
+Under want, warrant, or indictment
+
+Other potential disqualifications
+
+Modification of listed offenses
+
+Denial of waiver review.—
+
+In general
+
+Scope of review
+
+Classified evidence
+
+Review of classified evidence by administrative law judge.—
+
+Review
+
+Security clearances
+
+Unclassified summaries of classified evidence
+
+New evidence
+
+Background Records Check
+
+Restrictions on Use and Maintenance of Information
+
+Definition
+
+Applications for Merchant Mariners’ Documents
+
+Fees
+
+Priority Processing for Separating Service Members
+
+Deployment of Transportation Worker Identification Credential Readers.—
+
+Pilot program.—
+
+In general
+
+Geographic locations
+
+Commencement
+
+Correlation with worker identification credential.—
+
+In general
+
+Fee
+
+Regulations
+
+Limitation
+
+Escorting
+
+Processing Time
+
+Receipt and Activation of Transportation Worker Identification Credential.—
+
+In general
+
+Limitation
+
+Limitation on Implementation
+
+Covered Facilities Defined
+
+Definition of Direct Assistance to a United States Port
+
+In general
+
+Exclusions
+
+Transportation Worker Identification Credentials
+
+Credential Improvements.—
+
+In general
+
+Required actions
+
+Report
+
+Comprehensive Security Assessment of the Transportation Security Card Program.—
+
+In general
+
+Location
+
+Contents
+
+Deadlines
+
+Submission to congress
+
+Corrective Action Plan; Program Reforms
+
+Inspector General Review
+
+In General
+
+Expiration
+
+In General
+
+Timelines and Benchmarks
+
+Report by comptroller general
+
+Process for alternative means of receipt
+
+“The Secretary [of Homeland Security], in issuing a final rule pursuant to section 70105 of title 46 , United States Code, shall provide for the disqualification of individuals who have been found guilty or have been found not guilty by reason of insanity of a felony, involving—
+
+## Source Credit
+
+*(Added [Pub. L. 107–295, title I, § 102(a)](https://www.govinfo.gov/link/plaw/107/public/295), Nov. 25, 2002, [116 Stat. 2073](https://www.govinfo.gov/link/statute/116/2073); amended [Pub. L. 109–241, title III, § 309](https://www.govinfo.gov/link/plaw/109/public/241), July 11, 2006, [120 Stat. 528](https://www.govinfo.gov/link/statute/120/528); [Pub. L. 109–347, title I, § 104(a)](https://www.govinfo.gov/link/plaw/109/public/347), (b), Oct. 13, 2006, [120 Stat. 1888](https://www.govinfo.gov/link/statute/120/1888), 1890; [Pub. L. 110–53, title XIII, § 1309(a)](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 397](https://www.govinfo.gov/link/statute/121/397); [Pub. L. 111–281, title VIII](https://www.govinfo.gov/link/plaw/111/public/281), §§ 809, 814, 818(a), 819, 823, title IX, § 903(c)(2), Oct. 15, 2010, [124 Stat. 2995](https://www.govinfo.gov/link/statute/124/2995), 2999–3001, 3003, 3011; [Pub. L. 111–330, § 1(13)](https://www.govinfo.gov/link/plaw/111/public/330), Dec. 22, 2010, [124 Stat. 3570](https://www.govinfo.gov/link/statute/124/3570); [Pub. L. 114–120, title III, § 306(a)(9)](https://www.govinfo.gov/link/plaw/114/public/120), Feb. 8, 2016, [130 Stat. 54](https://www.govinfo.gov/link/statute/130/54); [Pub. L. 114–328, div. C, title XXXV, § 3509(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2780](https://www.govinfo.gov/link/statute/130/2780); [Pub. L. 116–283, div. G, title LVXXXIII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXIII], § 8346, Jan. 1, 2021, [134 Stat. 4718](https://www.govinfo.gov/link/statute/134/4718); [Pub. L. 117–263, div. K, title CXVIII, § 11804(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4163](https://www.govinfo.gov/link/statute/136/4163).)*

@@ -3,9 +3,10 @@ title: "Section 1599d - Financial management positions: authority to prescribe p
 usc_title: 10
 usc_section: "1599d"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1599d"
-generated_at: "2026-03-30T02:53:38.132Z"
+generated_at: "2026-11-23T20:25:51.399Z"
+status: "active"
 ---
 
 # § 1599d. Financial management positions: authority to prescribe professional certification and credential standards
@@ -20,3 +21,19 @@ generated_at: "2026-03-30T02:53:38.132Z"
 - **(d)** The Secretary shall prescribe any professional certification or credential standards under subsection (a) through the Under Secretary of Defense (Comptroller), in consultation with the Under Secretary of Defense for Personnel and Readiness.
 - **(e)** Not later than one year after the effective date of any regulations prescribed under subsection (a), or any significant modification of such regulations, the Secretary shall, in conjunction with the Director of the Office of Personnel Management, submit to Congress a report setting forth the plans of the Secretary to provide training to appropriate Department personnel to meet any new professional certification or credential standard under such regulations or modification.
 - **(f)** In this section, the term “financial management position” means a position or group of positions (including civilian and military positions), as designated by the Secretary for purposes of this section, that perform, supervise, or manage work of a fiscal, financial management, accounting, auditing, cost, or budgetary nature, or that require the performance of financial management-related work.
+
+Authority To Prescribe Professional Certification and Credential Standards
+
+Waiver
+
+Applicability
+
+Discharge of Authority
+
+Reports
+
+Financial Management Position Defined
+
+## Source Credit
+
+*(Added [Pub. L. 107–314, div. A, title XI, § 1104(a)(1)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2661](https://www.govinfo.gov/link/statute/116/2661); amended [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title XI, § 1110, Oct. 14, 2008, [122 Stat. 4619](https://www.govinfo.gov/link/statute/122/4619); [Pub. L. 112–81, div. A, title X, § 1051(a)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1581](https://www.govinfo.gov/link/statute/125/1581).)*

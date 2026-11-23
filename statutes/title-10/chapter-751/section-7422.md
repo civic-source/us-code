@@ -3,9 +3,10 @@ title: "Section 7422 - Degree granting authority for United States Army Armament
 usc_title: 10
 usc_section: "7422"
 chapter: 751
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 7422"
-generated_at: "2026-03-30T02:53:38.231Z"
+generated_at: "2026-11-23T20:25:52.082Z"
+status: "active"
 ---
 
 # § 7422. Degree granting authority for United States Army Armament Graduate School
@@ -20,3 +21,13 @@ generated_at: "2026-03-30T02:53:38.231Z"
     - **(B)** the subsequent recommendations and rationale of the Secretary of Education regarding the establishment of the degree granting authority.
   - **(2)** Upon any modification or redesignation of existing degree granting authority, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing the rationale for the proposed modification or redesignation and any subsequent recommendation of the Secretary of Education on the proposed modification or redesignation.
   - **(3)** The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing an explanation of any action by the appropriate academic accrediting agency or organization not to accredit the United States Army Armament Graduate School to award any new or existing degree.
+
+Authority
+
+Limitation
+
+Congressional Notification Requirements
+
+## Source Credit
+
+*(Added [Pub. L. 116–92, div. A, title V, § 553(a)(1)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1386](https://www.govinfo.gov/link/statute/133/1386).)*

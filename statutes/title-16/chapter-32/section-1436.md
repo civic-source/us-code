@@ -3,9 +3,10 @@ title: "Section 1436 - Prohibited activities"
 usc_title: 16
 usc_section: "1436"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1436"
-generated_at: "2026-03-30T02:54:22.968Z"
+generated_at: "2026-11-23T20:26:20.486Z"
+status: "active"
 ---
 
 # § 1436. Prohibited activities
@@ -19,3 +20,7 @@ It is unlawful for any person to—
     - **(B)** resisting, opposing, impeding, intimidating, harassing, bribing, interfering with, or forcibly assaulting any person authorized by the Secretary to implement this chapter or any such authorized officer in the conduct of any search or inspection performed under this chapter; or
     - **(C)** knowingly and willfully submitting false information to the Secretary or any officer authorized to enforce this chapter in connection with any search or inspection conducted under this chapter; or
   - **(4)** violate any provision of this chapter or any regulation or permit issued pursuant to this chapter.
+
+## Source Credit
+
+*([Pub. L. 92–532, title III, § 306](https://www.govinfo.gov/link/plaw/92/public/532), as added [Pub. L. 98–498, title I, § 102](https://www.govinfo.gov/link/plaw/98/public/498), Oct. 19, 1984, [98 Stat. 2302](https://www.govinfo.gov/link/statute/98/2302); amended [Pub. L. 102–587, title II, § 2106](https://www.govinfo.gov/link/plaw/102/public/587), Nov. 4, 1992, [106 Stat. 5043](https://www.govinfo.gov/link/statute/106/5043); [Pub. L. 106–513, § 7](https://www.govinfo.gov/link/plaw/106/public/513), Nov. 13, 2000, [114 Stat. 2386](https://www.govinfo.gov/link/statute/114/2386).)*

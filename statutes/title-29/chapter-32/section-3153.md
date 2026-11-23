@@ -3,12 +3,17 @@ title: "Section 3153 - Eligible providers of youth workforce investment activiti
 usc_title: 29
 usc_section: "3153"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3153"
-generated_at: "2026-03-30T02:55:18.752Z"
+generated_at: "2026-11-23T20:26:38.094Z"
+status: "active"
 ---
 
 # § 3153. Eligible providers of youth workforce investment activities
 
 - **(a)** From the funds allocated under section 3163(b) of this title to a local area, the local board for such area shall award grants or contracts on a competitive basis to providers of youth workforce investment activities identified based on the criteria in the State plan (including such quality criteria as the Governor shall establish for a training program that leads to a recognized postsecondary credential), and taking into consideration the ability of the providers to meet performance accountability measures based on primary indicators of performance for the youth program as described in section 3141(b)(2)(A)(ii) of this title , as described in section 3112(b)(2)(D)(i)(V) of this title , and shall conduct oversight with respect to such providers.
 - **(b)** A local board may award grants or contracts on a sole-source basis if such board determines there is an insufficient number of eligible providers of youth workforce investment activities in the local area involved (such as a rural area) for grants and contracts to be awarded on a competitive basis under subsection (a).
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 123](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1498](https://www.govinfo.gov/link/statute/128/1498).)*

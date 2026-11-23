@@ -3,12 +3,17 @@ title: "Section 2622 - Appraisal of land and timber; manner and frequency; compu
 usc_title: 43
 usc_section: "2622"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 2622"
-generated_at: "2026-03-30T02:55:57.498Z"
+generated_at: "2026-11-23T20:27:06.416Z"
+status: "active"
 ---
 
 # § 2622. Appraisal of land and timber; manner and frequency; computation of amounts upon basis of last appraisement; deduction of appraisement expenses
 
 Appraisals of the land and timber thereon shall be made, in the manner prescribed in section 2621 of this title , not less frequently than once in each ten-year period, and the amounts due hereunder in any year shall be computed as specified in section 2621 of this title upon the basis of the last appraisement. The expenses of making the appraisements provided for in this subchapter shall be paid by the Secretary of the Treasury upon certification by the Secretary of the Interior, from that portion of the receipts derived from such lands and timber payable to the counties and shall be deducted from any amount due said counties.
 
+
+## Source Credit
+
+*(May 24, 1939, ch. 144, § 2, [53 Stat. 754](https://www.govinfo.gov/link/statute/53/754).)*

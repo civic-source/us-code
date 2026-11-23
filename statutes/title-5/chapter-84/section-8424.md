@@ -3,9 +3,10 @@ title: "Section 8424 - Lump-sum benefits; designation of beneficiary; order of p
 usc_title: 5
 usc_section: "8424"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8424"
-generated_at: "2026-03-30T02:52:56.057Z"
+generated_at: "2026-11-23T20:25:32.199Z"
+status: "active"
 ---
 
 # § 8424. Lump-sum benefits; designation of beneficiary; order of precedence
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:52:56.057Z"
 - **(f)** If all annuity rights under this chapter (other than under subchapter III of this chapter) based on the service of a deceased employee or Member terminate before the total annuity paid equals the lump-sum credit, the difference shall be paid.
 - **(g)** If an annuitant dies, annuity accrued and unpaid shall be paid.
 - **(h)** Annuity accrued and unpaid on the termination, except by death, of the annuity of an annuitant or survivor shall be paid to that individual. Annuity accrued and unpaid on the death of a survivor shall be paid in the following order of precedence, and the payment bars recovery by any other person: First, to the duly appointed executor or administrator of the estate of the survivor. Second, if there is no executor or administrator, payment may be made, after 30 days from the date of death of the survivor, to such next of kin of the survivor as the Office determines to be entitled under the laws of the domicile of the survivor at the date of death.
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 539](https://www.govinfo.gov/link/statute/100/539); amended [Pub. L. 106–361, § 3(b)](https://www.govinfo.gov/link/plaw/106/public/361), Oct. 27, 2000, [114 Stat. 1402](https://www.govinfo.gov/link/statute/114/1402); [Pub. L. 111–84, div. A, title XIX, § 1904(b)(4)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2617](https://www.govinfo.gov/link/statute/123/2617).)*

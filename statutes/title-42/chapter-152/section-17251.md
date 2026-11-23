@@ -3,9 +3,10 @@ title: "Section 17251 - Carbon capture"
 usc_title: 42
 usc_section: "17251"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17251"
-generated_at: "2026-03-30T02:56:11.503Z"
+generated_at: "2026-11-23T20:27:23.746Z"
+status: "active"
 ---
 
 # § 17251. Carbon capture
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.503Z"
   - **(4)** For projects that generate carbon dioxide that is to be sequestered, the carbon dioxide stream shall be of a sufficient purity level to allow for safe transport and sequestration.
   - **(5)** The cost-sharing requirements of section 16352 of this title for research and development projects shall apply to this section.
 - **(b)** There is authorized to be appropriated to the Secretary to carry out this section $200,000,000 per year for fiscal years 2009 through 2013.
+
+## Source Credit
+
+*([Pub. L. 110–140, title VII, § 703](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1708](https://www.govinfo.gov/link/statute/121/1708); [Pub. L. 116–260, div. Z, title IV, § 4003(c)(1)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2539](https://www.govinfo.gov/link/statute/134/2539).)*

@@ -3,9 +3,10 @@ title: "Section 4402 - Definitions"
 usc_title: 20
 usc_section: "4402"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 4402"
-generated_at: "2026-03-30T02:54:48.184Z"
+generated_at: "2026-11-23T20:26:14.764Z"
+status: "active"
 ---
 
 # § 4402. Definitions
@@ -20,3 +21,7 @@ For the purpose of this chapter—
   - **(6)** The term “Native Hawaiian” means any descendent of a person who, prior to 1778, was a native of the Hawaiian Islands.
   - **(7)** The term “Secretary” means the Secretary of the Interior.
   - **(8)** The term “Board” means the Board of Trustees of the Institute established under this chapter.
+
+## Source Credit
+
+*([Pub. L. 99–498, title XV, § 1503](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1600](https://www.govinfo.gov/link/statute/100/1600).)*

@@ -3,9 +3,10 @@ title: "Section 360b - New animal drugs"
 usc_title: 21
 usc_section: "360b"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 360b"
-generated_at: "2026-03-30T02:54:54.245Z"
+generated_at: "2026-11-23T20:26:27.628Z"
+status: "active"
 ---
 
 # § 360b. New animal drugs
@@ -249,3 +250,27 @@ generated_at: "2026-03-30T02:54:54.245Z"
   - **(2)** For purposes of this section, with respect to an application described in paragraph (1), the term “date of approval” shall mean the later of—
     - **(A)** the date an application under subsection (b) is approved under subsection (c); or
     - **(B)** the date of issuance of the interim final rule controlling the drug.
+
+In general
+
+Contents
+
+General Rule
+
+Transition
+
+In General
+
+Contents
+
+Meeting
+
+Timing
+
+First Report
+
+Separate Report
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 512, as added [Pub. L. 90–399, § 101(b)](https://www.govinfo.gov/link/plaw/90/public/399), July 13, 1968, [82 Stat. 343](https://www.govinfo.gov/link/statute/82/343); amended [Pub. L. 100–670, title I](https://www.govinfo.gov/link/plaw/100/public/670), §§ 101, 102, 104, 107(a)(2), Nov. 16, 1988, [102 Stat. 3971](https://www.govinfo.gov/link/statute/102/3971), 3981, 3982, 3984; [Pub. L. 102–108, § 2(e)](https://www.govinfo.gov/link/plaw/102/public/108), Aug. 17, 1991, [105 Stat. 550](https://www.govinfo.gov/link/statute/105/550); [Pub. L. 103–80, § 3(r)](https://www.govinfo.gov/link/plaw/103/public/80), Aug. 13, 1993, [107 Stat. 777](https://www.govinfo.gov/link/statute/107/777); [Pub. L. 103–396, § 2(a)](https://www.govinfo.gov/link/plaw/103/public/396), (b)(2), (3), Oct. 22, 1994, [108 Stat. 4153](https://www.govinfo.gov/link/statute/108/4153), 4154; [Pub. L. 104–250](https://www.govinfo.gov/link/plaw/104/public/250), §§ 2(a)–(d), 3, 4, 5(c), 6(a), (b), Oct. 9, 1996, [110 Stat. 3151–3153](https://www.govinfo.gov/link/statute/110/3151), 3155–3157; [Pub. L. 105–115, title I, § 124(b)](https://www.govinfo.gov/link/plaw/105/public/115), Nov. 21, 1997, [111 Stat. 2325](https://www.govinfo.gov/link/statute/111/2325); [Pub. L. 105–277, div. A, § 101(a) [title VII, § 737]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681](https://www.govinfo.gov/link/statute/112/2681), 2681–30; [Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(11)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–584; [Pub. L. 108–282, title I, § 102(b)(2)](https://www.govinfo.gov/link/plaw/108/public/282), (3), (5)(I)–(S), Aug. 2, 2004, [118 Stat. 892](https://www.govinfo.gov/link/statute/118/892), 903, 904; [Pub. L. 110–316, title I, § 105(a)](https://www.govinfo.gov/link/plaw/110/public/316), Aug. 14, 2008, [122 Stat. 3513](https://www.govinfo.gov/link/statute/122/3513); [Pub. L. 114–89, § 2(a)(3)(A)](https://www.govinfo.gov/link/plaw/114/public/89), Nov. 25, 2015, [129 Stat. 699](https://www.govinfo.gov/link/statute/129/699); [Pub. L. 114–255, div. A, title III, § 3088(b)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1149](https://www.govinfo.gov/link/statute/130/1149); [Pub. L. 115–234, title III, § 301(a)](https://www.govinfo.gov/link/plaw/115/public/234), Aug. 14, 2018, [132 Stat. 2436](https://www.govinfo.gov/link/statute/132/2436); [Pub. L. 117–9, § 1(a)(2)](https://www.govinfo.gov/link/plaw/117/public/9), Apr. 23, 2021, [135 Stat. 257](https://www.govinfo.gov/link/statute/135/257).)*

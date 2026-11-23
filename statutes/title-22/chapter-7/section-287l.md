@@ -3,12 +3,17 @@ title: "Section 287l - Congressional declaration that United Nations take steps 
 usc_title: 22
 usc_section: "287l"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 287l"
-generated_at: "2026-03-30T02:55:05.321Z"
+generated_at: "2026-11-23T20:26:32.026Z"
+status: "active"
 ---
 
 # § 287l. Congressional declaration that United Nations take steps to give effect to advisory opinion of International Court of Justice on financial obligations of members
 
 It is the sense of the Congress that the United Nations should take immediate steps to give effect to the advisory opinion of the International Court of Justice on the financial obligations of members of the United Nations in order to assure prompt payment of all assessments, including assessments to cover the cost of operations to maintain or restore international peace and security.
 
+
+## Source Credit
+
+*([Pub. L. 87–731, § 6](https://www.govinfo.gov/link/plaw/87/public/731), Oct. 2, 1962, [76 Stat. 696](https://www.govinfo.gov/link/statute/76/696).)*

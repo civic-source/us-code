@@ -3,12 +3,17 @@ title: "Section 9114 - Antitrust review"
 usc_title: 42
 usc_section: "9114"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9114"
-generated_at: "2026-03-30T02:56:11.350Z"
+generated_at: "2026-11-23T20:27:23.073Z"
+status: "active"
 ---
 
 # § 9114. Antitrust review
 
 - **(a)** Whenever any application for issuance, transfer, or renewal of any license is received, the Administrator shall transmit promptly to the Attorney General a complete copy of such application. Within 90 days of the receipt of the application, the Attorney General shall conduct such antitrust review of the application as he deems appropriate, and submit to the Administrator any advice or recommendations he deems advisable to avoid any action upon such application by the Administrator which would create a situation inconsistent with the antitrust laws. If the Attorney General fails to file such views within the 90-day period, the Administrator shall proceed as if such views had been received. The Administrator shall not issue, transfer, or renew the license during the 90-day period, except upon written confirmation by the Attorney General that he does not intend to submit any further advice or recommendation on the application during such period.
 - **(b)** The issuance of a license under this chapter shall not be admissible in any way as a defense to any civil or criminal action for violation of the antitrust laws of the United States, nor shall it in any way modify or abridge any private right of action under such laws. Nothing in this section shall be construed to bar the Attorney General or the Federal Trade Commission from challenging any anticompetitive situation involved in the ownership, construction, or operation of an ocean thermal energy conversion facility or plantship.
+
+## Source Credit
+
+*([Pub. L. 96–320, title I, § 104](https://www.govinfo.gov/link/plaw/96/public/320), Aug. 3, 1980, [94 Stat. 983](https://www.govinfo.gov/link/statute/94/983).)*

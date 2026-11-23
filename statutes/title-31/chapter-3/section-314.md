@@ -3,9 +3,10 @@ title: "Section 314 - Covered agreements"
 usc_title: 31
 usc_section: "314"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 314"
-generated_at: "2026-03-30T02:55:34.045Z"
+generated_at: "2026-11-23T20:26:51.653Z"
+status: "active"
 ---
 
 # § 314. Covered agreements
@@ -20,3 +21,17 @@ generated_at: "2026-03-30T02:55:34.045Z"
 - **(c)** A covered agreement under subsection (a) may enter into force with respect to the United States only if—
   - **(1)** the Secretary and the United States Trade Representative jointly submit to the congressional committees specified in subsection (b)(1), on a day on which both Houses of Congress are in session, a copy of the final legal text of the agreement; and
   - **(2)** a period of 90 calendar days beginning on the date on which the copy of the final legal text of the agreement is submitted to the congressional committees under paragraph (1) has expired.
+
+Authority
+
+Requirements for Consultation With Congress.—
+
+In general
+
+Scope
+
+Submission and Layover Provisions
+
+## Source Credit
+
+*(Added [Pub. L. 111–203, title V, § 502(a)(3)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1588](https://www.govinfo.gov/link/statute/124/1588).)*

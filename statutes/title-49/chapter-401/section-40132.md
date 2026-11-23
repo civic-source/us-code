@@ -3,9 +3,10 @@ title: "Section 40132 - National strategic plan for aviation workforce developme
 usc_title: 49
 usc_section: "40132"
 chapter: 401
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 40132"
-generated_at: "2026-03-30T02:56:19.372Z"
+generated_at: "2026-11-23T20:27:35.073Z"
+status: "active"
 ---
 
 # § 40132. National strategic plan for aviation workforce development
@@ -31,3 +32,95 @@ generated_at: "2026-03-30T02:56:19.372Z"
     - **(F)** unmanned aviation.
   - **(3)** Each council member appointed by the Secretary under paragraph (2) shall serve a term of 2 years.
 - **(d)** The Secretary may not delegate any of the authorities or responsibilities under this section to the Administrator of the Federal Aviation Administration.
+
+In General
+
+Requirements
+
+Career Council.—
+
+Establishment
+
+Appointment
+
+Term
+
+Nondelegation
+
+In General
+
+Eligible Entity
+
+Priority Application
+
+Use of Funds
+
+Award Amount Limit
+
+Appropriations
+
+In General
+
+Project Grants.—
+
+In general
+
+Dollar amount limit
+
+Education projects
+
+Set aside for technical assistance
+
+Consideration for certain applicants
+
+Eligible Applications.—
+
+Application for aircraft pilot program
+
+Application for aviation maintenance program
+
+Application for aviation manufacturing program
+
+Eligible Projects.—
+
+Aircraft pilot program
+
+Aviation maintenance program
+
+Aviation manufacturing program
+
+Reporting and Monitoring Requirements
+
+Notice of Grants.—
+
+Timely public notice
+
+Notice to congress
+
+Limit on faa authority
+
+Nondelegation
+
+Program Name Redesignation
+
+Consultation With Secretary of Education
+
+Report
+
+Program Authority Sunset
+
+Definitions
+
+Armed forces
+
+High school
+
+Institution of higher education
+
+Postsecondary vocational institution
+
+Secondary school
+
+## Source Credit
+
+*(Added [Pub. L. 118–63, title IV, § 441(a)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1184](https://www.govinfo.gov/link/statute/138/1184).)*

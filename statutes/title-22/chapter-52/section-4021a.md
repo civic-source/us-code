@@ -3,9 +3,10 @@ title: "Section 4021a - Matters relating to the Foreign Service Institute"
 usc_title: 22
 usc_section: "4021a"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4021a"
-generated_at: "2026-03-30T02:55:05.401Z"
+generated_at: "2026-11-23T20:26:32.498Z"
+status: "active"
 ---
 
 # § 4021a. Matters relating to the Foreign Service Institute
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:05.401Z"
   - **(2)** The School of Leadership and Management Studies, which shall provide leadership and crisis management training.
   - **(3)** The School of Applied Information Technology Studies, which shall provide instruction to ensure information technology professionals have the up-to-date knowledge and skills required to operate and maintain the complex computer and technology systems employed by the Department.
   - **(4)** The School of Foreign Languages, which shall be responsible for providing language instruction as prescribed by law and at the direction of the Secretary.
+
+## Source Credit
+
+*([Pub. L. 119–60, div. E, title I, § 5137](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1568](https://www.govinfo.gov/link/statute/139/1568).)*

@@ -3,9 +3,10 @@ title: "Section 7596 - Provision of goods and services at Kwajalein Atoll"
 usc_title: 10
 usc_section: "7596"
 chapter: 767
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 7596"
-generated_at: "2026-03-30T02:53:38.235Z"
+generated_at: "2026-11-23T20:25:52.107Z"
+status: "active"
 ---
 
 # § 7596. Provision of goods and services at Kwajalein Atoll
@@ -18,3 +19,23 @@ generated_at: "2026-03-30T02:53:38.235Z"
   - **(2)** The amount collected for goods or services under this subsection may not be greater than the total amount of actual costs to the United States for providing the goods or services.
 - **(c)** Amounts appropriated to the Department of the Army may be used for necessary expenses associated with providing goods and services under this section.
 - **(d)** The Secretary of the Army shall issue regulations to carry out this section.
+
+Authority
+
+Reimbursement
+
+Necessary Expenses
+
+Regulations
+
+Designation
+
+Notification
+
+Briefing Required
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. A, title XII, § 1299A(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3997](https://www.govinfo.gov/link/statute/134/3997).)*

@@ -3,9 +3,10 @@ title: "Section 14301 - Findings"
 usc_title: 42
 usc_section: "14301"
 chapter: 137
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 14301"
-generated_at: "2026-03-30T02:56:11.451Z"
+generated_at: "2026-11-23T20:27:23.527Z"
+status: "active"
 ---
 
 # § 14301. Findings
@@ -17,3 +18,7 @@ The Congress finds that—
     - **(B)** educate the public concerning the collection, recycling, and proper disposal of such batteries;
   - **(2)** uniform national labeling requirements for regulated batteries, rechargeable consumer products, and product packaging will significantly benefit programs for regulated battery collection and recycling or proper disposal; and
   - **(3)** it is in the public interest to encourage persons who use rechargeable batteries to participate in collection for recycling of used nickel-cadmium, small sealed lead-acid, and other regulated batteries.
+
+## Source Credit
+
+*([Pub. L. 104–142, § 2](https://www.govinfo.gov/link/plaw/104/public/142), May 13, 1996, [110 Stat. 1329](https://www.govinfo.gov/link/statute/110/1329).)*

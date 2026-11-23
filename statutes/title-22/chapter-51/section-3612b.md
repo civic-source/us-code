@@ -3,9 +3,10 @@ title: "Section 3612b - Specific powers of Commission"
 usc_title: 22
 usc_section: "3612b"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3612b"
-generated_at: "2026-03-30T02:55:05.395Z"
+generated_at: "2026-11-23T20:26:32.464Z"
+status: "active"
 ---
 
 # § 3612b. Specific powers of Commission
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:05.395Z"
 - **(f)**
   - **(1)** The Commission may seek and accept donations of funds, property, and services from individuals, foundations, corporations, and other private and public entities for the purpose of carrying out its promotional activities.
   - **(2)** The Commission shall establish written guidelines setting forth the criteria to be used in determining whether the acceptance of funds, property, or services authorized by paragraph (1) would reflect unfavorably upon the ability of the Commission (or any employee of the Commission) to carry out its responsibilities or official duties in a fair and objective manner or would compromise the integrity or the appearance of the integrity of its programs or of any official in those programs.
+
+## Source Credit
+
+*([Pub. L. 96–70, title I, § 1102b](https://www.govinfo.gov/link/plaw/96/public/70), as added [Pub. L. 104–106, div. C, title XXXV, § 3524(a)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 639](https://www.govinfo.gov/link/statute/110/639); amended [Pub. L. 105–85, div. C, title XXXV, § 3547](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 2073](https://www.govinfo.gov/link/statute/111/2073); [Pub. L. 105–261, div. C, title XXXV, § 3505](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2268](https://www.govinfo.gov/link/statute/112/2268).)*

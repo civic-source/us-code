@@ -3,9 +3,10 @@ title: "Section 4314 - Ratings for performance appraisals"
 usc_title: 5
 usc_section: "4314"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 4314"
-generated_at: "2026-03-30T02:52:56.009Z"
+generated_at: "2026-11-23T20:25:31.861Z"
+status: "active"
 ---
 
 # § 4314. Ratings for performance appraisals
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:52:56.009Z"
   - **(3)** Performance appraisals under this subchapter with respect to any senior executive shall be made by the appointing authority only after considering the recommendations by the performance review board with respect to such senior executive under paragraph (1) of this subsection.
   - **(4)** Members of performance review boards shall be appointed in such a manner as to assure consistency, stability, and objectivity in performance appraisal. Notice of the appointment of an individual to serve as a member shall be published in the Federal Register.
   - **(5)** In the case of an appraisal of a career appointee, more than one-half of the members of the performance review board shall consist of career appointees. The requirement of the preceding sentence shall not apply in any case in which the Office determines that there exists an insufficient number of career appointees available to comply with the requirement.
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title IV, § 405(a)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1169](https://www.govinfo.gov/link/statute/92/1169); amended [Pub. L. 104–66, title II, § 2181(b)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 732](https://www.govinfo.gov/link/statute/109/732).)*

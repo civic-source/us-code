@@ -3,9 +3,10 @@ title: "Section 1822 - Authorization of physical searches for foreign intelligen
 usc_title: 50
 usc_section: "1822"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 1822"
-generated_at: "2026-03-30T02:56:26.209Z"
+generated_at: "2026-11-23T20:27:30.776Z"
+status: "active"
 ---
 
 # § 1822. Authorization of physical searches for foreign intelligence purposes
@@ -30,3 +31,13 @@ generated_at: "2026-03-30T02:56:26.209Z"
 - **(c)** The Foreign Intelligence Surveillance Court shall have jurisdiction to hear applications for and grant orders approving a physical search for the purpose of obtaining foreign intelligence information anywhere within the United States under the procedures set forth in this subchapter, except that no judge (except when sitting en banc) shall hear the same application which has been denied previously by another judge designated under section 1803(a) of this title . If any judge so designated denies an application for an order authorizing a physical search under this subchapter, such judge shall provide immediately for the record a written statement of each reason for such decision and, on motion of the United States, the record shall be transmitted, under seal, to the court of review established under section 1803(b) of this title .
 - **(d)** The court of review established under section 1803(b) of this title shall have jurisdiction to review the denial of any application made under this subchapter. If such court determines that the application was properly denied, the court shall provide for the record a written statement of each reason for its decision and, on petition of the United States for a writ of certiorari, the record shall be transmitted under seal to the Supreme Court, which shall have jurisdiction to review such decision.
 - **(e)** Judicial proceedings under this subchapter shall be concluded as expeditiously as possible. The record of proceedings under this subchapter, including applications made and orders granted, shall be maintained under security measures established by the Chief Justice of the United States in consultation with the Attorney General and the Director of National Intelligence.
+
+Section
+
+Sec
+
+Sec
+
+## Source Credit
+
+*([Pub. L. 95–511, title III, § 302](https://www.govinfo.gov/link/plaw/95/public/511), as added [Pub. L. 103–359, title VIII, § 807(a)(3)](https://www.govinfo.gov/link/plaw/103/public/359), Oct. 14, 1994, [108 Stat. 3444](https://www.govinfo.gov/link/statute/108/3444); amended [Pub. L. 108–458, title I, § 1071(e)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3691](https://www.govinfo.gov/link/statute/118/3691); [Pub. L. 110–261, title I, § 109(b)(2)(B)](https://www.govinfo.gov/link/plaw/110/public/261), July 10, 2008, [122 Stat. 2465](https://www.govinfo.gov/link/statute/122/2465); [Pub. L. 111–259, title VIII, § 806(a)(2)](https://www.govinfo.gov/link/plaw/111/public/259), Oct. 7, 2010, [124 Stat. 2748](https://www.govinfo.gov/link/statute/124/2748); [Pub. L. 115–118, title II, § 205(a)(2)](https://www.govinfo.gov/link/plaw/115/public/118), (b)(3), Jan. 19, 2018, [132 Stat. 21](https://www.govinfo.gov/link/statute/132/21), 22.)*

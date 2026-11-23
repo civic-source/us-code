@@ -3,9 +3,10 @@ title: "Section 2112 - Barriers to and other distortions of trade"
 usc_title: 19
 usc_section: "2112"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2112"
-generated_at: "2026-03-30T02:54:24.663Z"
+generated_at: "2026-11-23T20:26:10.901Z"
+status: "active"
 ---
 
 # § 2112. Barriers to and other distortions of trade
@@ -51,3 +52,415 @@ generated_at: "2026-03-30T02:54:24.663Z"
   - **(3)** the term “international trade” includes—
     - **(A)** trade in both goods and services, and
     - **(B)** foreign direct investment by United States persons, especially if such investment has implications for trade in goods and services.
+
+Agreement
+
+Appropriate congressional committees
+
+Further agreement
+
+Negotiating text
+
+State law
+
+Trade representative
+
+Conditions for Entry Into Force of Agreement
+
+Consultation and Report
+
+Certification
+
+Report on Implementation.—
+
+In general
+
+Form
+
+Publication
+
+Sense of Congress on Deepening Relationship With Taiwan
+
+Access to Texts of Further Agreements
+
+Review of Texts.—
+
+Briefing
+
+Review
+
+Additional time to review united states negotiating text
+
+Notification and Briefing During Negotiations
+
+Approval
+
+Relationship of the Agreement to United States Law.—
+
+United states law to prevail in conflict
+
+Internal revenue code
+
+Construction
+
+Relationship of the Agreement to State Law
+
+Effect of the Agreement With Respect to Private Remedies
+
+Agreement
+
+Tariff Modifications Provided for in the Agreement
+
+Other Tariff Modifications
+
+In General.—
+
+Eligible articles.—
+
+In general
+
+Requirements.—
+
+General rule
+
+Materials produced in united states
+
+Exclusions
+
+Direct Costs of Processing Operations.—
+
+In general
+
+Excluded costs
+
+Textile and Apparel Articles.—
+
+In general
+
+Definition
+
+Special rules.—
+
+Certain made-up articles, textile articles in the piece, and certain other textiles and textile articles
+
+Certain knit-to-shape textiles and textile articles
+
+Certain dyed and printed textiles and textile articles
+
+Fabrics of silk, cotton, manmade fiber or vegetable fiber
+
+Multicountry rule
+
+Exclusion
+
+Regulations
+
+Commission
+
+Jordanian article
+
+Filing of Petition.—
+
+In general
+
+Provisional relief
+
+Critical circumstances
+
+Investigation and Determination.—
+
+In general
+
+Causation
+
+Applicable Provisions
+
+Articles Exempt From Investigation
+
+Determination
+
+Additional Finding and Recommendation if Determination Affirmative
+
+Report to President
+
+Public Notice
+
+Applicable Provisions
+
+In General
+
+National Economic Interest
+
+Nature of Relief
+
+Period of Relief
+
+Rate After Termination of Import Relief
+
+General Rule
+
+Exception
+
+Effect of Imports
+
+Presidential Action Regarding Jordanian Imports
+
+Relationship of Agreement to United States Law.—
+
+United states law to prevail in conflict
+
+Construction
+
+Relationship of Agreement to State Law.—
+
+Legal challenge
+
+Definition of state law
+
+Effect of Agreement With Respect to Private Remedies
+
+Effective Dates
+
+Exceptions
+
+Termination of the Agreement
+
+Short Title
+
+Table of Contents
+
+Approval of Agreement and Statement of Administrative Action
+
+Conditions for Entry Into Force of the Agreement
+
+Report on Canadian Practices
+
+United States Laws To Prevail in Conflict
+
+Relationship of Agreement to State and Local Law.—
+
+Effect of Agreement With Respect to Private Remedies
+
+Initial Implementing Regulations
+
+Changes in Statutes To Implement a Requirement, Amendment, or Recommendation
+
+Consultation and Lay-Over Requirements
+
+Effective Date of Certain Proclaimed Actions
+
+Definition
+
+Interim Application of TSUS
+
+Restrictions.—
+
+Tariff Modifications Specified in the Agreement
+
+Other Tariff Modifications
+
+Modifications Affecting Plywood.—
+
+In General.—
+
+Transshipment
+
+Interpretation
+
+Annex Rules.—
+
+Automotive Products.—
+
+Definitions
+
+Special Provision Regarding Application of Rules of Origin to Certain Apparel
+
+Definition
+
+Implementation of Article
+
+Consequential Amendments.—
+
+Bonded manufacturing warehouses
+
+Bonded smelting and refining warehouses
+
+Drawback
+
+Manipulation in warehouse
+
+Foreign trade zones
+
+Certifications of Origin.—
+
+Housekeeping Requirements
+
+USTR Study
+
+Report and Monitoring.—
+
+Special Tariff Provisions for Fresh Fruits and Vegetables.—
+
+Meat Import Act of
+
+Agricultural Adjustment Act
+
+Importation of Animal Vaccines
+
+Importation of Seeds
+
+Plant and Animal Health Regulations.—
+
+Relief From Imports of Canadian Articles.—
+
+Relief From Imports From All Countries.—
+
+In General.—
+
+Negotiating Objectives Regarding Services, Investment, and Intellectual Property Rights.—
+
+Negotiating Objectives Regarding Automotive Products.—
+
+Negotiation of Limitation on Potato Trade.—
+
+Canadian Controls on Fish.—
+
+Biennial Report
+
+Alaskan Oil
+
+Uranium
+
+Nonimmigrant Traders and Investors
+
+Nonimmigrant Professionals
+
+Jurisdiction of Court of International Trade
+
+Relief in Court of International Trade
+
+Declaratory Judgments
+
+Actions Under the Agreement
+
+Appointment of Individuals to Panels and Committees.—
+
+Status of Panelists
+
+Immunity of Panelists
+
+Regulations
+
+Establishment of United States Secretariat.—
+
+The Secretariat
+
+Panels and Committees.—
+
+Authority of Extraordinary Challenge Committee To Obtain Information
+
+Witnesses and Evidence
+
+Mandamus
+
+Depositions
+
+Requests for Review by the United States
+
+Requests for Review by a Person
+
+Service of Request for Review
+
+Negotiating Authority.—
+
+Identification of Industries Facing Subsidized Imports.—
+
+In General
+
+Transition Provisions.—
+
+In General
+
+Exceptions
+
+Termination or Suspension of Agreement.—
+
+Termination of agreement
+
+Effect of agreement suspension
+
+Suspension resulting from usmca
+
+Tariff Modifications
+
+Additional Tariff Modification Authority
+
+Exception to Authority
+
+United States Statutes To Prevail in Conflict
+
+Implementing Regulations
+
+Changes in Statutes To Implement a Requirement, Amendment, or Recommendation.—
+
+Private Remedies Not Created
+
+Elimination or Modifications of Duties
+
+Applicability of Certain Provisions of the Agreement.—
+
+Nonqualifying operations
+
+Requirements for new or different article of commerce
+
+Cost or value of materials
+
+Direct costs of processing operations
+
+Imported directly
+
+Documentation required
+
+Shipment of Articles of Israel Through West Bank or Gaza Strip
+
+Treatment of Cost or Value of Materials
+
+Qualifying Industrial Zone Defined
+
+Regulations.—
+
+Suspension of Duty-Free Treatment
+
+ITC Reports.—
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+William J. Clinton.
+
+George Bush.
+
+## Source Credit
+
+*([Pub. L. 93–618, title I, § 102](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 1982](https://www.govinfo.gov/link/statute/88/1982); [Pub. L. 96–39, title XI](https://www.govinfo.gov/link/plaw/96/public/39), §§ 1101, 1106(c)(1), July 26, 1979, [93 Stat. 307](https://www.govinfo.gov/link/statute/93/307), 311; [Pub. L. 98–573, title III, § 307(a)](https://www.govinfo.gov/link/plaw/98/public/573), title IV, § 401(a)–(c)(1), Oct. 30, 1984, [98 Stat. 3012](https://www.govinfo.gov/link/statute/98/3012), 3013–3015; [Pub. L. 99–47, § 8(b)(1)](https://www.govinfo.gov/link/plaw/99/public/47), June 11, 1985, [99 Stat. 84](https://www.govinfo.gov/link/statute/99/84); [Pub. L. 99–514, title XVIII, § 1887(a)(1)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2923](https://www.govinfo.gov/link/statute/100/2923).)*

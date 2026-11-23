@@ -3,9 +3,10 @@ title: "Section 12645d - Matching funds for severely economically distressed com
 usc_title: 42
 usc_section: "12645d"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12645d"
-generated_at: "2026-03-30T02:56:11.423Z"
+generated_at: "2026-11-23T20:27:23.403Z"
+status: "active"
 ---
 
 # § 12645d. Matching funds for severely economically distressed communities
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.423Z"
 - **(b)** For the purposes of this section, the term “severely economically distressed community” means—
   - **(1)** an area that has a mortgage foreclosure rate, home price decline, and unemployment rate all of which are above the national average for such rates or level, for the most recent 12 months for which satisfactory data are available; or
   - **(2)** a residential area that lacks basic living necessities, such as water and sewer systems, electricity, paved roads, and safe, sanitary housing.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 189A](https://www.govinfo.gov/link/plaw/101/public/610), as added [Pub. L. 111–13, title I, § 1612](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1539](https://www.govinfo.gov/link/statute/123/1539).)*

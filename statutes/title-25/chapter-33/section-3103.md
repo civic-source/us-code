@@ -3,9 +3,10 @@ title: "Section 3103 - Definitions"
 usc_title: 25
 usc_section: "3103"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3103"
-generated_at: "2026-03-30T02:54:52.847Z"
+generated_at: "2026-11-23T20:26:25.633Z"
+status: "active"
 ---
 
 # § 3103. Definitions
@@ -65,3 +66,7 @@ For the purposes of this chapter, the term—
   - **(13)** “Secretary” means the Secretary of the Interior;
   - **(14)** “sustained yield” means the yield of forest products that a forest can produce continuously at a given intensity of management; and
   - **(15)** “tribal integrated resource management plan” means a document, approved by an Indian tribe and the Secretary, which provides coordination for the comprehensive management of such tribe’s natural resources.
+
+## Source Credit
+
+*([Pub. L. 101–630, title III, § 304](https://www.govinfo.gov/link/plaw/101/public/630), Nov. 28, 1990, [104 Stat. 4533](https://www.govinfo.gov/link/statute/104/4533).)*

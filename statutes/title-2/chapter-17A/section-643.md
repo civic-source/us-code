@@ -3,9 +3,10 @@ title: "Section 643 - Determinations and points of order"
 usc_title: 2
 usc_section: "643"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 643"
-generated_at: "2026-03-30T02:53:04.800Z"
+generated_at: "2026-11-23T20:25:28.905Z"
+status: "active"
 ---
 
 # § 643. Determinations and points of order
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:04.800Z"
 - **(d)** A point of order under this Act may not be raised against a bill, resolution, amendment, motion, or conference report while an amendment or motion, the adoption of which would remedy the violation of this Act, is pending before the Senate.
 - **(e)** Each provision of this Act that establishes a point of order against an amendment also establishes a point of order in the Senate against an amendment between the Houses. If a point of order under this Act is raised in the Senate against an amendment between the Houses and the point of order is sustained, the effect shall be the same as if the Senate had disagreed to the amendment.
 - **(f)** In the Senate, if a point of order under this Act against a bill or resolution is sustained, the Presiding Officer shall then recommit the bill or resolution to the committee of appropriate jurisdiction for further consideration.
+
+## Source Credit
+
+*([Pub. L. 93–344, title III, § 312](https://www.govinfo.gov/link/plaw/93/public/344), as added [Pub. L. 101–508, title XIII, § 13207(b)(1)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–618](https://www.govinfo.gov/link/statute/104/1388); amended [Pub. L. 105–33, title X, § 10113(a)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 687](https://www.govinfo.gov/link/statute/111/687).)*

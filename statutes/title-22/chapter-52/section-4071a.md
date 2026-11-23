@@ -3,9 +3,10 @@ title: "Section 4071a - Definitions"
 usc_title: 22
 usc_section: "4071a"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4071a"
-generated_at: "2026-03-30T02:55:05.405Z"
+generated_at: "2026-11-23T20:26:32.512Z"
+status: "active"
 ---
 
 # § 4071a. Definitions
@@ -46,3 +47,7 @@ As used in this part, unless otherwise specified—
       - **(iv)** any other appropriate amount, as determined by the Secretary of State in accordance with generally accepted actuarial practices and principles;
   - **(10)** the term “System” means the Foreign Service Pension System; and
   - **(11)** the term “special agent” has the same meaning given in section 4044(15) of this title .
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 852](https://www.govinfo.gov/link/plaw/96/public/465), as added [Pub. L. 99–335, title IV, § 415](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 615](https://www.govinfo.gov/link/statute/100/615); amended [Pub. L. 100–238, title II, § 241](https://www.govinfo.gov/link/plaw/100/public/238), Jan. 8, 1988, [101 Stat. 1776](https://www.govinfo.gov/link/statute/101/1776); [Pub. L. 105–382, § 2(a)(2)](https://www.govinfo.gov/link/plaw/105/public/382), Nov. 13, 1998, [112 Stat. 3406](https://www.govinfo.gov/link/statute/112/3406); [Pub. L. 112–96, title V, § 5002(a)](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 200](https://www.govinfo.gov/link/statute/126/200); [Pub. L. 113–67, div. A, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/113/public/67), Dec. 26, 2013, [127 Stat. 1185](https://www.govinfo.gov/link/statute/127/1185).)*

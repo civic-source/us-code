@@ -3,9 +3,10 @@ title: "Section 4513 - Administrative provisions"
 usc_title: 20
 usc_section: "4513"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 4513"
-generated_at: "2026-03-30T02:54:48.185Z"
+generated_at: "2026-11-23T20:26:14.772Z"
+status: "active"
 ---
 
 # § 4513. Administrative provisions
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:48.185Z"
   - **(11)** to make other necessary expenditures.
 - **(b)** The foundation 2 2 So in original. Probably should be capitalized. shall submit to the President and to the Congress an annual report of its operations under this chapter.
 - **(c)** On request of the Chairman of the Foundation, the head of a Federal agency may detail personnel of the agency to the Foundation to assist the Foundation in carrying out this chapter. 1 Details under this subsection shall be without reimbursement by the Foundation to the agency from which personnel are detailed.
+
+## Source Credit
+
+*([Pub. L. 99–500, § 101(b) [title VIII, § 814]](https://www.govinfo.gov/link/plaw/99/public/500), Oct. 18, 1986, [100 Stat. 1783–39](https://www.govinfo.gov/link/statute/100/1783), 1783–80, and [Pub. L. 99–591, § 101(b) [title VIII, § 814]](https://www.govinfo.gov/link/plaw/99/public/591), Oct. 30, 1986, [100 Stat. 3341–39](https://www.govinfo.gov/link/statute/100/3341), 3341–80; [Pub. L. 101–208, § 3](https://www.govinfo.gov/link/plaw/101/public/208), Dec. 7, 1989, [103 Stat. 1837](https://www.govinfo.gov/link/statute/103/1837).)*

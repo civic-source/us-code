@@ -3,9 +3,10 @@ title: "Section 1014 - New career training assistance"
 usc_title: 45
 usc_section: "1014"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 1014"
-generated_at: "2026-03-30T02:55:56.559Z"
+generated_at: "2026-11-23T20:27:05.333Z"
+status: "active"
 ---
 
 # § 1014. New career training assistance
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:56.559Z"
 - **(e)** As used in this section—
   - **(1)** the term “expenses” means actual, reasonable expenses paid for room, board, tuition, fees, or educational material in an amount not to exceed $3,000; and
   - **(2)** the term “qualified institution” means an educational institution accredited for payment by the Veterans’ Administration under chapter 36 of title 38, or a State-accredited institution which has been in existence for not less than 2 years.
+
+## Source Credit
+
+*([Pub. L. 96–254, title I, § 119(a)](https://www.govinfo.gov/link/plaw/96/public/254) –(e), May 30, 1980, [94 Stat. 408](https://www.govinfo.gov/link/statute/94/408); [Pub. L. 97–468, title II, § 233](https://www.govinfo.gov/link/plaw/97/public/468), Jan. 14, 1983, [96 Stat. 2547](https://www.govinfo.gov/link/statute/96/2547).)*

@@ -3,9 +3,10 @@ title: "Section 40725 - National Forensic Science Commission"
 usc_title: 34
 usc_section: "40725"
 chapter: 407
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 40725"
-generated_at: "2026-03-30T02:55:33.310Z"
+generated_at: "2026-11-23T20:26:50.652Z"
+status: "active"
 ---
 
 # § 40725. National Forensic Science Commission
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:33.310Z"
   - **(2)** designate any necessary staff to assist in carrying out the functions of the Commission; and
   - **(3)** establish procedures and guidelines for the operations of the Commission.
 - **(d)** There are authorized to be appropriated $500,000 for each of fiscal years 2005 through 2009 to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 108–405, title III, § 306](https://www.govinfo.gov/link/plaw/108/public/405), Oct. 30, 2004, [118 Stat. 2274](https://www.govinfo.gov/link/statute/118/2274).)*

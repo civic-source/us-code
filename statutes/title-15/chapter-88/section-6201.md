@@ -3,9 +3,10 @@ title: "Section 6201 - Disclosure to foreign antitrust authority of antitrust ev
 usc_title: 15
 usc_section: "6201"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 6201"
-generated_at: "2026-03-30T02:54:08.209Z"
+generated_at: "2026-11-23T20:26:04.386Z"
+status: "active"
 ---
 
 # § 6201. Disclosure to foreign antitrust authority of antitrust evidence
@@ -14,3 +15,7 @@ In accordance with an antitrust mutual assistance agreement in effect under this
 
   - **(1)** in determining whether a person has violated or is about to violate any of the foreign antitrust laws administered or enforced by the foreign antitrust authority, or
   - **(2)** in enforcing any of such foreign antitrust laws.
+
+## Source Credit
+
+*([Pub. L. 103–438, § 2](https://www.govinfo.gov/link/plaw/103/public/438), Nov. 2, 1994, [108 Stat. 4597](https://www.govinfo.gov/link/statute/108/4597).)*

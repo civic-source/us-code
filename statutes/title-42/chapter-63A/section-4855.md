@@ -3,9 +3,10 @@ title: "Section 4855 - Federal implementation and insurance study"
 usc_title: 42
 usc_section: "4855"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4855"
-generated_at: "2026-03-30T02:56:11.210Z"
+generated_at: "2026-11-23T20:27:22.423Z"
+status: "active"
 ---
 
 # § 4855. Federal implementation and insurance study
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.210Z"
   - **(1)** analyze any precedents in the insurance industry for the containment and abatement of environmental hazards, such as asbestos, in federally assisted housing;
   - **(2)** provide an assessment of the recent insurance experience in the public housing lead hazard identification and reduction program; and
   - **(3)** recommend measures for increasing the availability of liability insurance to owners and contractors engaged in federally supported work.
+
+## Source Credit
+
+*([Pub. L. 102–550, title X, § 1056](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3926](https://www.govinfo.gov/link/statute/106/3926).)*

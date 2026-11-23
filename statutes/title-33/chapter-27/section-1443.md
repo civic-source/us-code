@@ -3,9 +3,10 @@ title: "Section 1443 - Research program respecting ocean dumping and other metho
 usc_title: 33
 usc_section: "1443"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1443"
-generated_at: "2026-03-30T02:55:41.107Z"
+generated_at: "2026-11-23T20:26:54.081Z"
+status: "active"
 ---
 
 # § 1443. Research program respecting ocean dumping and other methods of waste disposal
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:41.107Z"
   - **(1)** consider the factors listed in subsection (c) as they relate to landfilling, incineration, ocean dumping, or any other feasible disposal or reuse/recycling option;
   - **(2)** include an assessment of the cost of these alternatives; and
   - **(3)** recommend such regulatory or legislative changes as may be necessary to reduce the adverse impacts associated with sewage sludge disposal.
+
+## Source Credit
+
+*([Pub. L. 92–532, title II, § 203](https://www.govinfo.gov/link/plaw/92/public/532), Oct. 23, 1972, [86 Stat. 1061](https://www.govinfo.gov/link/statute/86/1061); [Pub. L. 96–381, § 1](https://www.govinfo.gov/link/plaw/96/public/381), Oct. 6, 1980, [94 Stat. 1523](https://www.govinfo.gov/link/statute/94/1523); [Pub. L. 99–272, title VI, § 6063](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 131](https://www.govinfo.gov/link/statute/100/131).)*

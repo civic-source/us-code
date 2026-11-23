@@ -3,9 +3,10 @@ title: "Section 817 - Treatment of variable contracts"
 usc_title: 26
 usc_section: "817"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 817"
-generated_at: "2026-03-30T02:55:27.730Z"
+generated_at: "2026-11-23T20:26:45.885Z"
+status: "active"
 ---
 
 # § 817. Treatment of variable contracts
@@ -49,3 +50,25 @@ generated_at: "2026-03-30T02:55:27.730Z"
     - **(B)** fund managers (or affiliated companies) in connection with the creation or management of the regulated investment company or trust,
   - **(5)** Nothing in this subsection shall be construed as prohibiting the use of independent investment advisors.
   - **(6)** In determining whether a segregated asset account is adequately diversified for purposes of paragraph (1), each United States Government agency or instrumentality shall be treated as a separate issuer.
+
+“The amendment made by paragraph (1) [amending this section] shall apply—
+
+“Section 817(h) of the 1986 Code shall not apply until January 1, 1989 , with respect to a variable contract (as defined in section 817(d) of the 1986 Code) if—
+
+In General
+
+Designate Certain Authorized Participants and Market Makers as Eligible Investors
+
+Define Relevant Terms
+
+Exchange-traded fund
+
+Authorized participant
+
+Market maker
+
+Effective Date
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title II, § 211(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 750](https://www.govinfo.gov/link/statute/98/750); amended [Pub. L. 99–514, title XVIII, § 1821(m)](https://www.govinfo.gov/link/plaw/99/public/514), (t)(1), Oct. 22, 1986, [100 Stat. 2841](https://www.govinfo.gov/link/statute/100/2841), 2844; [Pub. L. 100–647, title VI, § 6080(a)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3710](https://www.govinfo.gov/link/statute/102/3710); [Pub. L. 104–188, title I, § 1611(a)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1845](https://www.govinfo.gov/link/statute/110/1845); [Pub. L. 105–34, title XII, § 1271(b)(8)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1037](https://www.govinfo.gov/link/statute/111/1037); [Pub. L. 108–218, title II, § 205(b)(5)](https://www.govinfo.gov/link/plaw/108/public/218), Apr. 10, 2004, [118 Stat. 610](https://www.govinfo.gov/link/statute/118/610).)*

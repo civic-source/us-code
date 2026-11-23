@@ -3,9 +3,10 @@ title: "Section 6045B - Returns relating to actions affecting basis of specified
 usc_title: 26
 usc_section: "6045B"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6045B"
-generated_at: "2026-03-30T02:55:27.833Z"
+generated_at: "2026-11-23T20:26:46.524Z"
+status: "active"
 ---
 
 # § 6045B. Returns relating to actions affecting basis of specified securities
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:27.833Z"
 - **(e)** The Secretary may waive the requirements under subsections (a) and (c) with respect to a specified security, if the person required to make the return under subsection (a) makes publicly available, in such form and manner as the Secretary determines necessary to carry out the purposes of this section—
   - **(1)** the name, address, phone number, and email address of the information contact of such person, and
   - **(2)** the information described in paragraphs (1), (2), and (3) of subsection (a).
+
+## Source Credit
+
+*(Added [Pub. L. 110–343, div. B, title IV, § 403(d)(1)](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3859](https://www.govinfo.gov/link/statute/122/3859).)*

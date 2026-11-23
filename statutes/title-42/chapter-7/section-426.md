@@ -3,9 +3,10 @@ title: "Section 426 - Entitlement to hospital insurance benefits"
 usc_title: 42
 usc_section: "426"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 426"
-generated_at: "2026-03-30T02:56:10.866Z"
+generated_at: "2026-11-23T20:27:20.804Z"
+status: "active"
 ---
 
 # § 426. Entitlement to hospital insurance benefits
@@ -49,3 +50,23 @@ generated_at: "2026-03-30T02:56:10.866Z"
   - **(2)** The entitlement under such subsection shall begin with the first month (rather than twenty-fifth month) of entitlement or status.
   - **(3)** Subsection (f) shall not be applied.
 - **(i)** For entitlement to hospital insurance benefits in the case of certain uninsured individuals, see section 426a of this title .
+
+Effective Dates.—
+
+Medicare coverage.—
+
+In general.—
+
+Treatment of current disabilities.—
+
+Transitional Provisions.—
+
+In general.—
+
+Appropriations.—
+
+“Not later than 5 years after the date of the enactment of this Act [ Dec. 17, 1999 ], the Comptroller General of the United States shall submit a report to the Congress that—
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title II, § 226, as added [Pub. L. 89–97, title I, § 101](https://www.govinfo.gov/link/plaw/89/public/97), July 30, 1965, [79 Stat. 290](https://www.govinfo.gov/link/statute/79/290); amended [Pub. L. 90–248, title I, § 129(c)(1)](https://www.govinfo.gov/link/plaw/90/public/248), Jan. 2, 1968, [81 Stat. 847](https://www.govinfo.gov/link/statute/81/847); [Pub. L. 92–603, title II](https://www.govinfo.gov/link/plaw/92/public/603), §§ 201(b), 299I, Oct. 30, 1972, [86 Stat. 1371](https://www.govinfo.gov/link/statute/86/1371), 1463; [Pub. L. 93–58, § 3](https://www.govinfo.gov/link/plaw/93/public/58), July 6, 1973, [87 Stat. 142](https://www.govinfo.gov/link/statute/87/142); [Pub. L. 93–233, § 18(f)](https://www.govinfo.gov/link/plaw/93/public/233), Dec. 31, 1973, [87 Stat. 969](https://www.govinfo.gov/link/statute/87/969); [Pub. L. 93–445, title III, § 305](https://www.govinfo.gov/link/plaw/93/public/445), Oct. 16, 1974, [88 Stat. 1358](https://www.govinfo.gov/link/statute/88/1358); [Pub. L. 95–216, title III](https://www.govinfo.gov/link/plaw/95/public/216), §§ 332(a)(3), 334(d)(4)(B), Dec. 20, 1977, [91 Stat. 1543](https://www.govinfo.gov/link/statute/91/1543), 1546; [Pub. L. 95–292](https://www.govinfo.gov/link/plaw/95/public/292), §§ 1(b), 3, June 13, 1978, [92 Stat. 308](https://www.govinfo.gov/link/statute/92/308), 315; [Pub. L. 96–265, title I](https://www.govinfo.gov/link/plaw/96/public/265), §§ 103(a)(1), (b), 104(a), June 9, 1980, [94 Stat. 444](https://www.govinfo.gov/link/statute/94/444); [Pub. L. 96–473, § 2(a)](https://www.govinfo.gov/link/plaw/96/public/473), Oct. 19, 1980, [94 Stat. 2263](https://www.govinfo.gov/link/statute/94/2263); [Pub. L. 96–499, title IX, § 930(q)](https://www.govinfo.gov/link/plaw/96/public/499), Dec. 5, 1980, [94 Stat. 2633](https://www.govinfo.gov/link/statute/94/2633); [Pub. L. 97–35, title XXII, § 2203(e)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 837](https://www.govinfo.gov/link/statute/95/837); [Pub. L. 97–248, title II, § 278(b)(2)(A)](https://www.govinfo.gov/link/plaw/97/public/248), (B), (4), Sept. 3, 1982, [96 Stat. 560](https://www.govinfo.gov/link/statute/96/560), 561; [Pub. L. 98–21, title I, § 131(a)(3)(H)](https://www.govinfo.gov/link/plaw/98/public/21), (b)(3)(G), title III, § 309(q)(1), Apr. 20, 1983, [97 Stat. 93](https://www.govinfo.gov/link/statute/97/93), 117; [Pub. L. 98–369, div. B, title VI, § 2663(a)(17)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1165](https://www.govinfo.gov/link/statute/98/1165); [Pub. L. 99–272, title XIII, § 13205(b)(2)(A)](https://www.govinfo.gov/link/plaw/99/public/272), (C)(ii), Apr. 7, 1986, [100 Stat. 317](https://www.govinfo.gov/link/statute/100/317); [Pub. L. 100–203, title IV, § 4033(a)](https://www.govinfo.gov/link/plaw/100/public/203), formerly § 4033(a)(1), title IX, § 9010(e)(3), Dec. 22, 1987, [101 Stat. 1330–77](https://www.govinfo.gov/link/statute/101/1330), 1330–294, renumbered [Pub. L. 100–360, title IV, § 411(e)(2)](https://www.govinfo.gov/link/plaw/100/public/360), July 1, 1988, [102 Stat. 775](https://www.govinfo.gov/link/statute/102/775); [Pub. L. 100–360, title IV, § 411(n)(1)](https://www.govinfo.gov/link/plaw/100/public/360), July 1, 1988, [102 Stat. 807](https://www.govinfo.gov/link/statute/102/807); [Pub. L. 100–485, title VI, § 608(f)(5)](https://www.govinfo.gov/link/plaw/100/public/485), Oct. 13, 1988, [102 Stat. 2424](https://www.govinfo.gov/link/statute/102/2424); [Pub. L. 101–508, title V, § 5103(c)(2)(C)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–252](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–296, title II, § 201(a)(3)(D)(i)](https://www.govinfo.gov/link/plaw/103/public/296), Aug. 15, 1994, [108 Stat. 1497](https://www.govinfo.gov/link/statute/108/1497); [Pub. L. 105–33, title IV, § 4002(f)(1)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 329](https://www.govinfo.gov/link/statute/111/329); [Pub. L. 106–170, title II, § 202(a)](https://www.govinfo.gov/link/plaw/106/public/170), Dec. 17, 1999, [113 Stat. 1894](https://www.govinfo.gov/link/statute/113/1894); [Pub. L. 106–554, § 1(a)(6) [title I, § 115(a)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–474; [Pub. L. 108–173, title I, § 101(e)(1)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2150](https://www.govinfo.gov/link/statute/117/2150); [Pub. L. 108–203, title IV, § 418(b)(4)(B)(vii)](https://www.govinfo.gov/link/plaw/108/public/203), Mar. 2, 2004, [118 Stat. 533](https://www.govinfo.gov/link/statute/118/533); [Pub. L. 114–74, title VIII, § 844(a)](https://www.govinfo.gov/link/plaw/114/public/74), Nov. 2, 2015, [129 Stat. 617](https://www.govinfo.gov/link/statute/129/617).)*

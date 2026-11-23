@@ -3,9 +3,10 @@ title: "Section 9011 - Subsidy for certain loan payments"
 usc_title: 15
 usc_section: "9011"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 9011"
-generated_at: "2026-03-30T02:54:08.238Z"
+generated_at: "2026-11-23T20:26:04.524Z"
+status: "active"
 ---
 
 # § 9011. Subsidy for certain loan payments
@@ -81,3 +82,19 @@ generated_at: "2026-03-30T02:54:08.238Z"
     - **(B)** the names of any lenders of covered loans that have not submitted information on the covered loans to the Administrator during the preceding month; and
     - **(C)** an update on the education and outreach activities of the Administration carried out under paragraph (3).
 - **(i)** There is authorized to be appropriated to the Administrator $17,000,000,000 to carry out this section.
+
+(aa) the 3-month period beginning with the first payment due on the covered loan on or after February 1, 2021 ; and
+
+(bb) an additional 5-month period immediately following the end of the 3-month period provided under item (aa) if the covered loan is made to a borrower that, according to records of the Administration, is assigned a North American Industry Classification System code beginning with 61, 71, 72, 213, 315, 448, 451, 481, 485, 487, 511, 512, 515, 532, or 812; and
+
+(aa) the 3-month period (beginning on or after February 1, 2021 ) beginning with the later of— (AA) the next payment due on the covered loan after the deferment period; or (BB) the first month after the Administrator has completed the payments under clause (i); and
+
+(bb) an additional 5-month period immediately following the end of the 3-month period provided under item (aa) if the covered loan is made to a borrower that, according to records of the Administration, is assigned a North American Industry Classification System code beginning with 61, 71, 72, 213, 315, 448, 451, 481, 485, 487, 511, 512, 515, 532, or 812; and
+
+(aa) the next payment due on the covered loan after the deferment period; or
+
+(bb) the first month after the payments under clause (i) are complete.
+
+## Source Credit
+
+*([Pub. L. 116–136, div. A, title I, § 1112](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 309](https://www.govinfo.gov/link/statute/134/309); [Pub. L. 116–260, div. N, title III, § 325(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2032](https://www.govinfo.gov/link/statute/134/2032).)*

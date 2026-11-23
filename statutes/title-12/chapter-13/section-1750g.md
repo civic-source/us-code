@@ -3,9 +3,10 @@ title: "Section 1750g - Insurance of additional mortgages"
 usc_title: 12
 usc_section: "1750g"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1750g"
-generated_at: "2026-03-30T02:53:53.434Z"
+generated_at: "2026-11-23T20:25:59.049Z"
+status: "active"
 ---
 
 # § 1750g. Insurance of additional mortgages
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:53.434Z"
 - **(f)** The provisions of section 1713(k) and ( l ) of this title shall be applicable to mortgages insured under this section and to property acquired by the Secretary hereunder, except that, as applied to such mortgages and property, the reference therein to subsection (g) shall be construed to refer to subsection (c) of this section.
 - **(g)** In any case where an application for insurance under section 1743 of this title was received by the Secretary of Housing and Urban Development on or before March 1, 1950 , and has not been rejected or committed upon, the mortgagee upon reapplication for insurance of a mortgage under this section with respect to the same property shall receive credit for any application fees paid in connection with the prior application: Provided , That this subsection shall not constitute a waiver of any requirements otherwise applicable to the insurance of mortgages under this section.
 - **(h)** The Secretary shall grant preference to applications for insurance under this subchapter to mortgages covering housing of lower rents.
+
+## Source Credit
+
+*(June 27, 1934, ch. 847, title IX, § 908, as added Sept. 1, 1951, ch. 378, title II, § 201, [65 Stat. 301](https://www.govinfo.gov/link/statute/65/301); amended June 30, 1953, ch. 170, § 10(c), [67 Stat. 124](https://www.govinfo.gov/link/statute/67/124); Aug. 2, 1954, ch. 649, title I, § 130, [68 Stat. 609](https://www.govinfo.gov/link/statute/68/609); [Pub. L. 89–117, title XI, § 1108(z)](https://www.govinfo.gov/link/plaw/89/public/117), Aug. 10, 1965, [79 Stat. 507](https://www.govinfo.gov/link/statute/79/507); [Pub. L. 90–19, § 1(a)(2)](https://www.govinfo.gov/link/plaw/90/public/19), (3), May 25, 1967, [81 Stat. 17](https://www.govinfo.gov/link/statute/81/17).)*

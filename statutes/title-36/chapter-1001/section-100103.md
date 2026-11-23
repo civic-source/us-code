@@ -3,9 +3,10 @@ title: "Section 100103 - Purposes"
 usc_title: 36
 usc_section: "100103"
 chapter: 1001
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 100103"
-generated_at: "2026-03-30T02:55:44.700Z"
+generated_at: "2026-11-23T20:26:58.920Z"
+status: "active"
 ---
 
 # § 100103. Purposes
@@ -18,3 +19,22 @@ The purposes of the corporation are as provided in the articles of incorporation
   - **(4)** preserving the memories and records of patriotic service performed by men and women who served in the Armed Forces, by gathering, collating, editing, publishing, and exhibiting the memorabilia, information, records, military awards, decorations, and citations of those who served in the Armed Forces;
   - **(5)** promoting peace, prosperity, and good will between the peoples of the United States and Italy; and
   - **(6)** functioning as a veterans’ and patriotic organization as authorized by the laws of each State in which it is incorporated.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 100103 | 36:1703. | Nov. 20, 1981 , Pub. L. 97–82, § 3 , 95 Stat. 1091 . |
+
+
+Historical and Revision Notes
+
+100103
+
+Nov. 20, 1981
+
+Pub. L. 97–82, § 3
+
+95 Stat. 1091
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1365](https://www.govinfo.gov/link/statute/112/1365).)*

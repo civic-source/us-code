@@ -3,9 +3,10 @@ title: "Section 9007 - Jurisdiction of courts"
 usc_title: 5
 usc_section: "9007"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 9007"
-generated_at: "2026-03-30T02:52:56.072Z"
+generated_at: "2026-11-23T20:25:32.258Z"
+status: "active"
 ---
 
 # § 9007. Jurisdiction of courts
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:52:56.072Z"
   - **(1)** or
   - **(2)** (as applicable) have been exhausted, but only to the extent judicial review is not precluded by any dispute resolution or other remedy under this chapter.
 
+
+## Source Credit
+
+*(Added [Pub. L. 106–265, title I, § 1002(a)](https://www.govinfo.gov/link/plaw/106/public/265), Sept. 19, 2000, [114 Stat. 768](https://www.govinfo.gov/link/statute/114/768).)*

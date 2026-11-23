@@ -3,9 +3,10 @@ title: "Section 7525 - Motor vehicle and motor vehicle engine compliance testing
 usc_title: 42
 usc_section: "7525"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7525"
-generated_at: "2026-03-30T02:56:11.311Z"
+generated_at: "2026-11-23T20:27:22.898Z"
+status: "active"
 ---
 
 # § 7525. Motor vehicle and motor vehicle engine compliance testing and certification
@@ -72,3 +73,7 @@ generated_at: "2026-03-30T02:56:11.311Z"
   - **(4)** In any case in which a certificate of conformity has been issued under this subsection, any warranty required under section 7541(b)(2) of this title and any action under section 7541(c) of this title shall be required to be effective only for the emission levels which the Administrator determines that such certificate was issued and not for the emission levels required under the applicable standard.
   - **(5)** The authorities of section 7542(a) of this title shall apply, subject to the conditions of section 7542(b) 2 2 See References in Text note below. of this title, for purposes of this subsection.
 - **(h)** Within 18 months after November 15, 1990 , the Administrator shall review and revise as necessary the regulations under subsection 3 3 So in original. Probably should be “subsections”. (a) and (b) of this section regarding the testing of motor vehicles and motor vehicle engines to insure that vehicles are tested under circumstances which reflect the actual current driving conditions under which motor vehicles are used, including conditions relating to fuel, temperature, acceleration, and altitude.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title II, § 206, as added [Pub. L. 91–604, § 8(a)](https://www.govinfo.gov/link/plaw/91/public/604), Dec. 31, 1970, [84 Stat. 1694](https://www.govinfo.gov/link/statute/84/1694); amended [Pub. L. 95–95, title II](https://www.govinfo.gov/link/plaw/95/public/95), §§ 213(a), 214(b), (c), 220, 224(e), Aug. 7, 1977, [91 Stat. 758–760](https://www.govinfo.gov/link/statute/91/758), 762, 768; [Pub. L. 95–190, § 14(a)(69)](https://www.govinfo.gov/link/plaw/95/public/190), Nov. 16, 1977, [91 Stat. 1403](https://www.govinfo.gov/link/statute/91/1403); [Pub. L. 101–549, title II](https://www.govinfo.gov/link/plaw/101/public/549), §§ 208, 230(7), (8), Nov. 15, 1990, [104 Stat. 2483](https://www.govinfo.gov/link/statute/104/2483), 2529; [Pub. L. 114–94, div. B, title XXIV, § 24405(b)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1723](https://www.govinfo.gov/link/statute/129/1723).)*

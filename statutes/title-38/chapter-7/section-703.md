@@ -3,9 +3,10 @@ title: "Section 703 - Miscellaneous authorities respecting employees"
 usc_title: 38
 usc_section: "703"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 703"
-generated_at: "2026-03-30T02:55:53.474Z"
+generated_at: "2026-11-23T20:27:01.576Z"
+status: "active"
 ---
 
 # § 703. Miscellaneous authorities respecting employees
@@ -18,3 +19,29 @@ generated_at: "2026-03-30T02:55:53.474Z"
 - **(f)**
   - **(1)** The Secretary, upon determining that an emergency situation exists and that such action is necessary for the effective conduct of the affairs of the Department, may use Government-owned, or leased, vehicles to transport employees to and from their place of employment and the nearest adequate public transportation or, if such public transportation is either unavailable or not feasible to use, to and from their place of employment and their home.
   - **(2)** The Secretary shall establish reasonable rates to cover the cost of the service rendered under this subsection, and all proceeds collected therefrom shall be applied to the applicable appropriation.
+
+Clinic Management Training Program.—
+
+In general
+
+Elements.—
+
+In general
+
+Role-specific
+
+Sunset
+
+Training Materials.—
+
+In general
+
+Update
+
+Limitation
+
+Sense of Congress
+
+## Source Credit
+
+*(Added [Pub. L. 102–83, § 2(a)](https://www.govinfo.gov/link/plaw/102/public/83), Aug. 6, 1991, [105 Stat. 394](https://www.govinfo.gov/link/statute/105/394).)*

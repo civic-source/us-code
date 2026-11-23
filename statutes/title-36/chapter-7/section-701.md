@@ -3,9 +3,10 @@ title: "Section 701 - Findings"
 usc_title: 36
 usc_section: "701"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 701"
-generated_at: "2026-03-30T02:55:44.690Z"
+generated_at: "2026-11-23T20:26:58.766Z"
+status: "active"
 ---
 
 # § 701. Findings
@@ -21,3 +22,22 @@ Congress finds that—
   - **(7)** the use of citizen volunteers in a national cleanup effort promotes these goals and encourages the thoughtful use of these Federal lands and facilities;
   - **(8)** the positive impact of annual cleanup events held at various recreation sites has already been proven by steadily declining levels of litter at these sites; and
   - **(9)** a national program for cleaning and maintaining Federal lands using volunteers will save millions of tax dollars.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 701 | 36:169i note. | Aug. 27, 1986 , Pub. L. 99–402, § 2 , 100 Stat. 910 . |
+
+
+Historical and Revision Notes
+
+701
+
+Aug. 27, 1986
+
+Pub. L. 99–402, § 2
+
+100 Stat. 910
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1266](https://www.govinfo.gov/link/statute/112/1266).)*

@@ -3,9 +3,10 @@ title: "Section 254l - National Health Service Corps Scholarship Program"
 usc_title: 42
 usc_section: "254l"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 254l"
-generated_at: "2026-03-30T02:56:10.713Z"
+generated_at: "2026-11-23T20:27:20.090Z"
+status: "active"
 ---
 
 # § 254l. National Health Service Corps Scholarship Program
@@ -64,3 +65,7 @@ generated_at: "2026-03-30T02:56:10.713Z"
   - **(2)** The Secretary may contract with an educational institution, in which a participant in the Scholarship Program is enrolled, for the payment to the educational institution of the amounts of tuition and other reasonable educational expenses described in paragraph (1)(A). Payment to such an educational institution may be made without regard to section 3324(a) and (b) of title 31.
   - **(3)** The amount of the monthly stipend, specified in paragraph (1)(B) and as previously adjusted (if at all) in accordance with this paragraph, shall be increased by the Secretary for each school year ending in a fiscal year beginning after September 30, 1978 , by an amount (rounded to the next highest multiple of $1) equal to the amount of such stipend multiplied by the overall percentage (under section 5303 of title 5 ) of the adjustment (if such adjustment is an increase) in the rates of pay under the General Schedule made effective in the fiscal year in which such school year ends.
 - **(h)** Notwithstanding any other provision of law, individuals who have entered into written contracts with the Secretary under this section, while undergoing academic training, shall not be counted against any employment ceiling affecting the Department.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 338A, formerly title VII, § 751, as added [Pub. L. 94–484, title IV, § 408(b)(1)](https://www.govinfo.gov/link/plaw/94/public/484), Oct. 12, 1976, [90 Stat. 2281](https://www.govinfo.gov/link/statute/90/2281); amended [Pub. L. 95–215, § 5](https://www.govinfo.gov/link/plaw/95/public/215), Dec. 19, 1977, [91 Stat. 1506](https://www.govinfo.gov/link/statute/91/1506); [Pub. L. 95–623, § 12(c)](https://www.govinfo.gov/link/plaw/95/public/623), Nov. 9, 1978, [92 Stat. 3457](https://www.govinfo.gov/link/statute/92/3457); [Pub. L. 95–626, title I, § 113(b)](https://www.govinfo.gov/link/plaw/95/public/626), Nov. 10, 1978, [92 Stat. 3563](https://www.govinfo.gov/link/statute/92/3563); [Pub. L. 96–32, § 7(i)](https://www.govinfo.gov/link/plaw/96/public/32), July 10, 1979, [93 Stat. 84](https://www.govinfo.gov/link/statute/93/84); renumbered § 338A and amended [Pub. L. 97–35, title XXVII, § 2709(a)](https://www.govinfo.gov/link/plaw/97/public/35), (b), Aug. 13, 1981, [95 Stat. 908](https://www.govinfo.gov/link/statute/95/908); [Pub. L. 99–129, title II, § 210(b)](https://www.govinfo.gov/link/plaw/99/public/129), Oct. 22, 1985, [99 Stat. 537](https://www.govinfo.gov/link/statute/99/537); [Pub. L. 100–607, title VI, § 629(a)(2)](https://www.govinfo.gov/link/plaw/100/public/607), Nov. 4, 1988, [102 Stat. 3146](https://www.govinfo.gov/link/statute/102/3146); [Pub. L. 101–509, title V, § 529 [title I, § 101(b)(4)(K)]](https://www.govinfo.gov/link/plaw/101/public/509), Nov. 5, 1990, [104 Stat. 1427](https://www.govinfo.gov/link/statute/104/1427), 1440; [Pub. L. 101–597, title II, § 201](https://www.govinfo.gov/link/plaw/101/public/597), title IV, § 401(b)[(a)], Nov. 16, 1990, [104 Stat. 3021](https://www.govinfo.gov/link/statute/104/3021), 3035; [Pub. L. 107–251, title III, § 309](https://www.govinfo.gov/link/plaw/107/public/251), Oct. 26, 2002, [116 Stat. 1649](https://www.govinfo.gov/link/statute/116/1649); [Pub. L. 108–163, § 2(j)](https://www.govinfo.gov/link/plaw/108/public/163), Dec. 6, 2003, [117 Stat. 2022](https://www.govinfo.gov/link/statute/117/2022).)*

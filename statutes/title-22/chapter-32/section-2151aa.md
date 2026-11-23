@@ -3,9 +3,10 @@ title: "Section 2151aa - Program to provide technical assistance to foreign gove
 usc_title: 22
 usc_section: "2151aa"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2151aa"
-generated_at: "2026-03-30T02:55:05.347Z"
+generated_at: "2026-11-23T20:26:32.178Z"
+status: "active"
 ---
 
 # § 2151aa. Program to provide technical assistance to foreign governments and foreign central banks of developing or transitional countries
@@ -70,3 +71,7 @@ generated_at: "2026-03-30T02:55:05.347Z"
 - **(j)**
   - **(1)** There are authorized to be appropriated to carry out this section $5,000,000 for fiscal year 1999.
   - **(2)** Amounts authorized to be appropriated under paragraph (1) are authorized to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 129, as added [Pub. L. 105–277, div. A, § 101(d) [title V, § 589(a)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–150](https://www.govinfo.gov/link/statute/112/2681), 2681–205; amended [Pub. L. 106–309, title II, § 204](https://www.govinfo.gov/link/plaw/106/public/309), Oct. 17, 2000, [114 Stat. 1092](https://www.govinfo.gov/link/statute/114/1092).)*

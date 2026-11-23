@@ -3,9 +3,10 @@ title: "Section 703 - Taking, killing, or possessing migratory birds unlawful"
 usc_title: 16
 usc_section: "703"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 703"
-generated_at: "2026-03-30T02:54:22.900Z"
+generated_at: "2026-11-23T20:26:20.243Z"
+status: "active"
 ---
 
 # § 703. Taking, killing, or possessing migratory birds unlawful
@@ -19,3 +20,69 @@ generated_at: "2026-03-30T02:54:22.900Z"
       - **(i)** it was native to the United States or its territories and extant in 1918;
       - **(ii)** it was extirpated after 1918 throughout its range in the United States and its territories; and
       - **(iii)** after such extirpation, it was reintroduced in the United States or its territories as a part of a program carried out by a Federal agency.
+
+Temporary Authorization.—
+
+In general
+
+Measures to minimize impacts.—
+
+Notification before taking
+
+Notification after taking
+
+Authorization of Take.—
+
+In general
+
+Termination
+
+Suspension or Withdrawal of Take Authorization
+
+In general
+
+Public comment
+
+Effect of section
+
+Interim Authority for Incidental Takings
+
+Identification of Measures to Minimize Impact of Activities
+
+Period of Application for Interim Authority
+
+Incidental Takings After Interim Period
+
+Limitation on Judicial Review
+
+Military Readiness Activity
+
+Findings
+
+Purposes
+
+Force and Effect.—
+
+In general
+
+Public notice
+
+Application
+
+Rule of Construction
+
+In General
+
+Required Elements
+
+Authorization of Appropriations
+
+Mid-continent light geese
+
+Secretary
+
+Service
+
+## Source Credit
+
+*(July 3, 1918, ch. 128, § 2, [40 Stat. 755](https://www.govinfo.gov/link/statute/40/755); June 20, 1936, ch. 634, § 3, [49 Stat. 1556](https://www.govinfo.gov/link/statute/49/1556); [Pub. L. 93–300, § 1](https://www.govinfo.gov/link/plaw/93/public/300), June 1, 1974, [88 Stat. 190](https://www.govinfo.gov/link/statute/88/190); [Pub. L. 101–233, § 15](https://www.govinfo.gov/link/plaw/101/public/233), Dec. 13, 1989, [103 Stat. 1977](https://www.govinfo.gov/link/statute/103/1977); [Pub. L. 108–447, div. E, title I, § 143(b)](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3071](https://www.govinfo.gov/link/statute/118/3071).)*

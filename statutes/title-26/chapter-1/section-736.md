@@ -3,9 +3,10 @@ title: "Section 736 - Payments to a retiring partner or a deceased partner’s s
 usc_title: 26
 usc_section: "736"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 736"
-generated_at: "2026-03-30T02:55:27.727Z"
+generated_at: "2026-11-23T20:26:45.872Z"
+status: "active"
 ---
 
 # § 736. Payments to a retiring partner or a deceased partner’s successor in interest
@@ -21,3 +22,11 @@ generated_at: "2026-03-30T02:55:27.727Z"
   - **(3)** Paragraph (2) shall apply only if—
     - **(A)** capital is not a material income-producing factor for the partnership, and
     - **(B)** the retiring or deceased partner was a general partner in the partnership.
+
+In general
+
+Binding contract exception
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 248; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 95–600, title VII, § 701(u)(13)(B)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2918](https://www.govinfo.gov/link/statute/92/2918); [Pub. L. 103–66, title XIII, § 13262(a)](https://www.govinfo.gov/link/plaw/103/public/66), (b)(2)(B), Aug. 10, 1993, [107 Stat. 541](https://www.govinfo.gov/link/statute/107/541).)*

@@ -3,9 +3,10 @@ title: "Section 725 - State Rehabilitation Council"
 usc_title: 29
 usc_section: "725"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 725"
-generated_at: "2026-03-30T02:55:18.692Z"
+generated_at: "2026-11-23T20:26:37.851Z"
+status: "active"
 ---
 
 # § 725. State Rehabilitation Council
@@ -95,3 +96,7 @@ generated_at: "2026-03-30T02:55:18.692Z"
 - **(f)** The Council shall convene at least four meetings a year in such places as it determines to be necessary to conduct Council business and conduct such forums or hearings as the Council considers appropriate. The meetings, hearings, and forums shall be publicly announced. The meetings shall be open and accessible to the general public unless there is a valid reason for an executive session.
 - **(g)** The Council may use funds allocated to the Council by the designated State unit under this subchapter (except for funds appropriated to carry out the client assistance program under section 732 of this title and funds reserved pursuant to section 730(c) of this title to carry out part C) to reimburse members of the Council for reasonable and necessary expenses of attending Council meetings and performing Council duties (including child care and personal assistance services), and to pay compensation to a member of the Council, if such member is not employed or must forfeit wages from other employment, for each day the member is engaged in performing the duties of the Council.
 - **(h)** The Council is authorized to hold such hearings and forums as the Council may determine to be necessary to carry out the duties of the Council.
+
+## Source Credit
+
+*([Pub. L. 93–112, title I, § 105](https://www.govinfo.gov/link/plaw/93/public/112), as added [Pub. L. 105–220, title IV, § 404](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1151](https://www.govinfo.gov/link/statute/112/1151); amended [Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(c)(6)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–415; [Pub. L. 106–402, title IV, § 401(b)(3)(A)](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1737](https://www.govinfo.gov/link/statute/114/1737); [Pub. L. 108–446, title III, § 305(h)(2)](https://www.govinfo.gov/link/plaw/108/public/446), (3), Dec. 3, 2004, [118 Stat. 2805](https://www.govinfo.gov/link/statute/118/2805); [Pub. L. 113–128, title IV, § 415](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1654](https://www.govinfo.gov/link/statute/128/1654).)*

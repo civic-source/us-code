@@ -3,9 +3,10 @@ title: "Section 9511 - Establishment"
 usc_title: 20
 usc_section: "9511"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 9511"
-generated_at: "2026-03-30T02:54:48.226Z"
+generated_at: "2026-11-23T20:26:14.985Z"
+status: "active"
 ---
 
 # § 9511. Establishment
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:48.226Z"
     - **(B)** the National Center for Education Statistics (as described in part C);
     - **(C)** the National Center for Education Evaluation and Regional Assistance (as described in part D); and
     - **(D)** the National Center for Special Education Research (as described in part E).
+
+## Source Credit
+
+*([Pub. L. 107–279, title I, § 111](https://www.govinfo.gov/link/plaw/107/public/279), Nov. 5, 2002, [116 Stat. 1944](https://www.govinfo.gov/link/statute/116/1944); [Pub. L. 108–446, title II, § 201(b)(2)(A)](https://www.govinfo.gov/link/plaw/108/public/446), (B), Dec. 3, 2004, [118 Stat. 2802](https://www.govinfo.gov/link/statute/118/2802).)*

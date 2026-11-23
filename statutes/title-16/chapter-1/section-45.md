@@ -3,9 +3,10 @@ title: "Section 45 - Transfer of personal property"
 usc_title: 16
 usc_section: "45"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 45"
-generated_at: "2026-03-30T02:54:22.842Z"
+generated_at: "2026-11-23T20:26:20.020Z"
+status: "active"
 ---
 
 # § 460lll–45. Transfer of personal property
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:22.842Z"
     - **(A)** sold by the Secretary on such terms and conditions as the Secretary may prescribe to achieve the maximum benefit to the Federal Government; or
     - **(B)** disposed of under chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
   - **(2)** All net proceeds from the disposal of any property shall be deposited into the Fund established by section 460 lll –31 of this title.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. A, § 101(e) [title V, § 545]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–231](https://www.govinfo.gov/link/statute/112/2681), 2681–319.)*

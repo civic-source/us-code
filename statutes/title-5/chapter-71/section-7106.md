@@ -3,9 +3,10 @@ title: "Section 7106 - Management rights"
 usc_title: 5
 usc_section: "7106"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 7106"
-generated_at: "2026-03-30T02:52:56.035Z"
+generated_at: "2026-11-23T20:25:32.050Z"
+status: "active"
 ---
 
 # § 7106. Management rights
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:52:56.035Z"
   - **(1)** at the election of the agency, on the numbers, types, and grades of employees or positions assigned to any organizational subdivision, work project, or tour of duty, or on the technology, methods, and means of performing work;
   - **(2)** procedures which management officials of the agency will observe in exercising any authority under this section; or
   - **(3)** appropriate arrangements for employees adversely affected by the exercise of any authority under this section by such management officials.
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title VII, § 701](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1198](https://www.govinfo.gov/link/statute/92/1198).)*

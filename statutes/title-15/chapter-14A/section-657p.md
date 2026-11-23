@@ -3,9 +3,10 @@ title: "Section 657p - Outreach regarding health insurance options available to 
 usc_title: 15
 usc_section: "657p"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 657p"
-generated_at: "2026-03-30T02:54:08.107Z"
+generated_at: "2026-11-23T20:26:03.846Z"
+status: "active"
 ---
 
 # § 657p. Outreach regarding health insurance options available to children
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:54:08.107Z"
   - **(6)**
     - **(A)** Not later than 2 years after February 4, 2009 , and every 2 years thereafter, the Administrator shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report on the status of the nationwide campaign conducted under paragraph (1).
     - **(B)** Each report submitted under subparagraph (A) shall include a status update on all efforts made to educate owners and employees of small business concerns on options for providing health insurance for children through public and private alternatives.
+
+## Source Credit
+
+*([Pub. L. 111–3, title VI, § 621](https://www.govinfo.gov/link/plaw/111/public/3), Feb. 4, 2009, [123 Stat. 104](https://www.govinfo.gov/link/statute/123/104).)*

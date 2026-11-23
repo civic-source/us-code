@@ -3,9 +3,10 @@ title: "Section 774 - Religious apparel: wearing while in uniform"
 usc_title: 10
 usc_section: "774"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 774"
-generated_at: "2026-03-30T02:53:38.076Z"
+generated_at: "2026-11-23T20:25:51.053Z"
+status: "active"
 ---
 
 # § 774. Religious apparel: wearing while in uniform
@@ -16,3 +17,15 @@ generated_at: "2026-03-30T02:53:38.076Z"
   - **(2)** if the Secretary determines, under regulations under subsection (c), that the item of apparel is not neat and conservative.
 - **(c)** The Secretary concerned shall prescribe regulations concerning the wearing of religious apparel by members of the armed forces under the Secretary’s jurisdiction while the members are wearing the uniform. Such regulations shall be consistent with subsections (a) and (b).
 - **(d)** In this section, the term “religious apparel” means apparel the wearing of which is part of the observance of the religious faith practiced by the member.
+
+General Rule
+
+Exceptions
+
+Regulations
+
+Religious Apparel Defined
+
+## Source Credit
+
+*(Added [Pub. L. 100–180, div. A, title V, § 508(a)(2)](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1086](https://www.govinfo.gov/link/statute/101/1086).)*

@@ -3,9 +3,10 @@ title: "Section 3324 - Critical area service agreements"
 usc_title: 25
 usc_section: "3324"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3324"
-generated_at: "2026-03-30T02:54:52.851Z"
+generated_at: "2026-11-23T20:26:25.646Z"
+status: "active"
 ---
 
 # § 3324. Critical area service agreements
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:52.851Z"
   - **(1)** shall establish procedures for monitoring and evaluating the provisions of this subchapter, and provide a copy of such procedures to the Secretary and to each individual providing services under a critical area service agreement;
   - **(2)** shall annually certify to the Secretary the identities of the individuals performing service under such agreements; and
   - **(3)** shall annually certify to the Secretary the amount of service performed, and the amount remaining to be performed, by each such individual under such agreements.
+
+## Source Credit
+
+*([Pub. L. 102–325, title XIII, § 1324](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 803](https://www.govinfo.gov/link/statute/106/803).)*

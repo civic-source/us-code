@@ -3,9 +3,10 @@ title: "Section 1159 - Floating drydock for United States Coast Guard Yard"
 usc_title: 14
 usc_section: "1159"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 1159"
-generated_at: "2026-03-30T02:53:51.493Z"
+generated_at: "2026-11-23T20:25:54.562Z"
+status: "active"
 ---
 
 # § 1159. Floating drydock for United States Coast Guard Yard
@@ -20,3 +21,17 @@ generated_at: "2026-03-30T02:53:51.493Z"
 - **(e)** In this section, the term “floating drydock” means equipment that is—
   - **(1)** constructed in the United States; and
   - **(2)** capable of meeting the lifting and maintenance requirements of an Offshore Patrol Cutter or a National Security Cutter.
+
+In General
+
+Permissible Acquisition, Procurement, or Construction Methods
+
+Design Standards and Construction Practices
+
+Berthing Requirement
+
+Floating Drydock Defined
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. G, title LXXII, § 7214(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1695](https://www.govinfo.gov/link/statute/139/1695).)*

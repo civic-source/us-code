@@ -3,9 +3,10 @@ title: "Section 2286g - “Department of Energy defense nuclear facility” defi
 usc_title: 42
 usc_section: "2286g"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2286g"
-generated_at: "2026-03-30T02:56:11.160Z"
+generated_at: "2026-11-23T20:27:22.127Z"
+status: "active"
 ---
 
 # § 2286g. “Department of Energy defense nuclear facility” defined
@@ -18,3 +19,7 @@ As used in this subchapter, the term “Department of Energy defense nuclear fac
     - **(C)** any facility that does not conduct atomic energy defense activities; or
     - **(D)** any facility owned by the United States Enrichment Corporation.
   - **(2)** A nuclear waste storage facility under the control or jurisdiction of the Secretary of Energy, but the term does not include a facility developed pursuant to the Nuclear Waste Policy Act of 1982 ( 42 U.S.C. 10101 et seq.) and licensed by the Nuclear Regulatory Commission.
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 318, as added [Pub. L. 100–456, div. A, title XIV, § 1441(a)(1)](https://www.govinfo.gov/link/plaw/100/public/456), Sept. 29, 1988, [102 Stat. 2083](https://www.govinfo.gov/link/statute/102/2083); amended [Pub. L. 102–190, div. C, title XXXII, § 3202(b)(1)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1582](https://www.govinfo.gov/link/statute/105/1582); renumbered title I and amended [Pub. L. 102–486, title IX, § 902(a)(7)](https://www.govinfo.gov/link/plaw/102/public/486), (8), Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944).)*

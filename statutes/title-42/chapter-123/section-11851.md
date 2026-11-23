@@ -3,9 +3,10 @@ title: "Section 11851 - Definitions"
 usc_title: 42
 usc_section: "11851"
 chapter: 123
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11851"
-generated_at: "2026-03-30T02:56:11.406Z"
+generated_at: "2026-11-23T20:27:23.328Z"
+status: "active"
 ---
 
 # § 11851. Definitions
@@ -30,3 +31,7 @@ Unless otherwise defined by an Act amended by this title, 1 1 See References in 
   - **(10)** the term “State” has the meaning given it in section 11103(7) of title 34 ,
   - **(11)** the term “treatment” has the meaning given it in section 11103(15) of title 34 , and
   - **(12)** the term “unit of general local government” has the meaning given it in section 11103(8) 1 of title 34.
+
+## Source Credit
+
+*([Pub. L. 100–690, title III, § 3601](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4260](https://www.govinfo.gov/link/statute/102/4260); [Pub. L. 101–204, title X, § 1001(c)(2)](https://www.govinfo.gov/link/plaw/101/public/204), Dec. 7, 1989, [103 Stat. 1827](https://www.govinfo.gov/link/statute/103/1827); [Pub. L. 103–82, title IV, § 405(n)](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 922](https://www.govinfo.gov/link/statute/107/922); [Pub. L. 105–244, title I, § 102(a)(13)(J)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1621](https://www.govinfo.gov/link/statute/112/1621).)*

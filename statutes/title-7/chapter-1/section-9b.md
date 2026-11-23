@@ -3,9 +3,10 @@ title: "Section 9b - Rules prohibiting deceptive and other abusive telemarketing
 usc_title: 7
 usc_section: "9b"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 9b"
-generated_at: "2026-03-30T02:53:42.244Z"
+generated_at: "2026-11-23T20:25:40.875Z"
+status: "active"
 ---
 
 # § 9b. Rules prohibiting deceptive and other abusive telemarketing acts or practices
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:42.244Z"
   - **(2)** The Commission is not required to promulgate rules under paragraph (1) if it determines that—
     - **(A)** rules adopted by the Commission under this chapter provide protection from deceptive and abusive telemarketing by persons described under paragraph (1) substantially similar to that provided by rules promulgated by the Federal Trade Commission under section 6102(a) of title 15 ; or
     - **(B)** such a rule promulgated by the Commission is not necessary or appropriate in the public interest, or for the protection of customers in the futures and options markets, or would be inconsistent with the maintenance of fair and orderly markets.
+
+## Source Credit
+
+*(Sept. 21, 1922, ch. 369, § 6(f), as added [Pub. L. 103–297, § 3(e)(2)](https://www.govinfo.gov/link/plaw/103/public/297), Aug. 16, 1994, [108 Stat. 1547](https://www.govinfo.gov/link/statute/108/1547).)*

@@ -3,9 +3,10 @@ title: "Section 3281 - Annual Presidential report to Congress on governmental ef
 usc_title: 22
 usc_section: "3281"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3281"
-generated_at: "2026-03-30T02:55:05.391Z"
+generated_at: "2026-11-23T20:26:32.447Z"
+status: "active"
 ---
 
 # § 3281. Annual Presidential report to Congress on governmental efforts to prevent proliferation
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:55:05.391Z"
         - **(IV)** section 2364 of this title with respect to section 2375 of this title or section 2753(f) of this title , the last sentence of section 2780(d) of this title , or 2799aa–1(b)(1) 2 2 So in original. Probably should be preceded by “section”. of this title; and
     - **(C)** the progress of those independent states of the former Soviet Union that are non-nuclear-weapon states and of the Baltic states towards achieving the objective of applying full scope safeguards to all their peaceful nuclear activities.
 - **(b)** In the first report required by this section, the President shall analyze each civil agreement for cooperation negotiated pursuant to section 2153 of title 42 , and shall discuss the scope and adequacy of the requirements and obligations relating to safeguards and other controls therein.
+
+## Source Credit
+
+*([Pub. L. 95–242, title VI, § 601](https://www.govinfo.gov/link/plaw/95/public/242), Mar. 10, 1978, [92 Stat. 150](https://www.govinfo.gov/link/statute/92/150); [Pub. L. 103–236, title VIII, § 811](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 507](https://www.govinfo.gov/link/statute/108/507).)*

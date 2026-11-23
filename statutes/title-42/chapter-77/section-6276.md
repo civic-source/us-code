@@ -3,9 +3,10 @@ title: "Section 6276 - Domestic renewable energy industry and related service in
 usc_title: 42
 usc_section: "6276"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6276"
-generated_at: "2026-03-30T02:56:11.245Z"
+generated_at: "2026-11-23T20:27:22.595Z"
+status: "active"
 ---
 
 # § 6276. Domestic renewable energy industry and related service industries
@@ -56,3 +57,7 @@ generated_at: "2026-03-30T02:56:11.245Z"
   - **(2)** The interagency working group shall include a description of the plan established under paragraph (1)(A) in no later than the second report submitted under subsection (e), 1 1 See References in Text note below. and shall include in subsequent reports a description of any modifications to such plan and of the progress in implementing the plan.
 - **(g)**
 - **(h)** There are authorized to be appropriated such sums as may be necessary to implement this part, to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 94–163, title II, § 256](https://www.govinfo.gov/link/plaw/94/public/163), as added [Pub. L. 98–370, § 2](https://www.govinfo.gov/link/plaw/98/public/370), July 18, 1984, [98 Stat. 1211](https://www.govinfo.gov/link/statute/98/1211); amended [Pub. L. 101–218, § 7](https://www.govinfo.gov/link/plaw/101/public/218), Dec. 11, 1989, [103 Stat. 1867](https://www.govinfo.gov/link/statute/103/1867); [Pub. L. 102–486, title XII](https://www.govinfo.gov/link/plaw/102/public/486), §§ 1207, 1208, Oct. 24, 1992, [106 Stat. 2962](https://www.govinfo.gov/link/statute/106/2962), 2964; [Pub. L. 104–306, § 1(3)](https://www.govinfo.gov/link/plaw/104/public/306), Oct. 14, 1996, [110 Stat. 3810](https://www.govinfo.gov/link/statute/110/3810); [Pub. L. 106–469, title I, § 104(2)](https://www.govinfo.gov/link/plaw/106/public/469), Nov. 9, 2000, [114 Stat. 2033](https://www.govinfo.gov/link/statute/114/2033); [Pub. L. 108–7, div. F, title III, § 339(b)(1)](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 278](https://www.govinfo.gov/link/statute/117/278).)*

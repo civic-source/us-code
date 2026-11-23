@@ -3,9 +3,10 @@ title: "Section 6607 - Pleading requirements"
 usc_title: 15
 usc_section: "6607"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 6607"
-generated_at: "2026-03-30T02:54:08.212Z"
+generated_at: "2026-11-23T20:26:04.403Z"
+status: "active"
 ---
 
 # § 6607. Pleading requirements
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:08.212Z"
 - **(b)** In all Y2K actions in which damages are requested, there shall be filed with the complaint a statement of specific information as to the nature and amount of each element of damages and the factual basis for the damages calculation.
 - **(c)** In any Y2K action in which the plaintiff alleges that there is a material defect in a product or service, there shall be filed with the complaint a statement of specific information regarding the manifestations of the material defects and the facts supporting a conclusion that the defects are material.
 - **(d)** In any Y2K action in which a claim is asserted on which the plaintiff may prevail only on proof that the defendant acted with a particular state of mind, there shall be filed with the complaint, with respect to each element of that claim, a statement of the facts giving rise to a strong inference that the defendant acted with the required state of mind.
+
+## Source Credit
+
+*([Pub. L. 106–37, § 8](https://www.govinfo.gov/link/plaw/106/public/37), July 20, 1999, [113 Stat. 198](https://www.govinfo.gov/link/statute/113/198).)*

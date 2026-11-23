@@ -3,9 +3,10 @@ title: "Section 1801 - Definitions"
 usc_title: 50
 usc_section: "1801"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 1801"
-generated_at: "2026-03-30T02:56:26.208Z"
+generated_at: "2026-11-23T20:27:30.766Z"
+status: "active"
 ---
 
 # § 1801. Definitions
@@ -73,3 +74,75 @@ As used in this subchapter:
   - **(2)** any weapon that is designed, intended, or has the capability to cause death or serious bodily injury to a significant number of persons through the release, dissemination, or impact of toxic or poisonous chemicals or their precursors;
   - **(3)** any weapon involving a biological agent, toxin, or vector (as such terms are defined in section 178 of title 18 ) that is designed, intended, or has the capability to cause death, illness, or serious bodily injury to a significant number of persons; or
   - **(4)** any weapon that is designed, intended, or has the capability to release radiation or radioactivity causing death, illness, or serious bodily injury to a significant number of persons.
+
+In general
+
+Exception
+
+Measures required
+
+Briefings required.—
+
+Briefings
+
+Matters
+
+Definitions
+
+Appropriate congressional committees
+
+Covered component
+
+Covered procedure
+
+Executive leadership
+
+Transition Procedures for Protect America Act of
+
+Provisions.—
+
+Continued effect of orders, authorizations, directives
+
+Applicability of protect america act of 2007 to continued orders, authorizations, directives
+
+Use of information
+
+Protection from liability
+
+Jurisdiction of foreign intelligence surveillance court
+
+Reporting requirements.—
+
+Continued applicability
+
+Certification
+
+Replacement of orders, authorizations, and directives.—
+
+In general
+
+Continuation of existing orders
+
+Effective date
+
+Transition Procedures for FISA Amendments Act of
+
+Provisions.—
+
+Orders in effect on Two Years After the Date of Enactment of the Reforming Intelligence and Securing America Act
+
+Applicability of title vii of fisa to continued orders, authorizations, directives
+
+Challenge of directives; protection from liability; use of information
+
+Reporting requirements.—
+
+Continued applicability
+
+Certification
+
+Transition procedures concerning the targeting of united states persons overseas
+
+## Source Credit
+
+*([Pub. L. 95–511, title I, § 101](https://www.govinfo.gov/link/plaw/95/public/511), Oct. 25, 1978, [92 Stat. 1783](https://www.govinfo.gov/link/statute/92/1783); [Pub. L. 106–120, title VI, § 601](https://www.govinfo.gov/link/plaw/106/public/120), Dec. 3, 1999, [113 Stat. 1619](https://www.govinfo.gov/link/statute/113/1619); [Pub. L. 107–56, title X, § 1003](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 392](https://www.govinfo.gov/link/statute/115/392); [Pub. L. 107–108, title III, § 314(a)(1)](https://www.govinfo.gov/link/plaw/107/public/108), (c)(2), Dec. 28, 2001, [115 Stat. 1402](https://www.govinfo.gov/link/statute/115/1402), 1403; [Pub. L. 108–458, title VI, § 6001(a)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3742](https://www.govinfo.gov/link/statute/118/3742); [Pub. L. 109–177, title V, § 506(a)(5)](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 248](https://www.govinfo.gov/link/statute/120/248); [Pub. L. 110–261, title I, § 110(a)](https://www.govinfo.gov/link/plaw/110/public/261), July 10, 2008, [122 Stat. 2465](https://www.govinfo.gov/link/statute/122/2465); [Pub. L. 111–259, title VIII, § 801(1)](https://www.govinfo.gov/link/plaw/111/public/259), Oct. 7, 2010, [124 Stat. 2746](https://www.govinfo.gov/link/statute/124/2746); [Pub. L. 114–23, title VII](https://www.govinfo.gov/link/plaw/114/public/23), §§ 702, 703, June 2, 2015, [129 Stat. 300](https://www.govinfo.gov/link/statute/129/300); [Pub. L. 118–49, § 23](https://www.govinfo.gov/link/plaw/118/public/49), Apr. 20, 2024, [138 Stat. 893](https://www.govinfo.gov/link/statute/138/893).)*

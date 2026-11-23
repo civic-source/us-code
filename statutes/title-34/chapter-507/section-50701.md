@@ -3,9 +3,10 @@ title: "Section 50701 - Information on suicide in law enforcement"
 usc_title: 34
 usc_section: "50701"
 chapter: 507
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 50701"
-generated_at: "2026-03-30T02:55:33.315Z"
+generated_at: "2026-11-23T20:26:50.666Z"
+status: "active"
 ---
 
 # § 50701. Information on suicide in law enforcement
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:33.315Z"
   - **(1)** the term “law enforcement agency” means a Federal, State, Tribal, or local agency engaged in the prevention, detection, or investigation, prosecution, or adjudication of any violation of the criminal laws of the United States, a State, Tribal, or a political subdivision of a State;
   - **(2)** the term “law enforcement officer” means any current or former officer (including a correctional officer), agent, or employee of the United States, a State, Indian Tribe, or a political subdivision of a State authorized by law to engage in or supervise the prevention, detection, investigation, or prosecution of any violation of the criminal laws of the United States, a State, Indian Tribe, or a political subdivision of a State; and
   - **(3)** the term “State” means each of the several States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+
+## Source Credit
+
+*([Pub. L. 116–143, § 2](https://www.govinfo.gov/link/plaw/116/public/143), June 16, 2020, [134 Stat. 644](https://www.govinfo.gov/link/statute/134/644).)*

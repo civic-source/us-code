@@ -3,9 +3,10 @@ title: "Section 9858r - Studies on waiting lists"
 usc_title: 42
 usc_section: "9858r"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9858r"
-generated_at: "2026-03-30T02:56:11.375Z"
+generated_at: "2026-11-23T20:27:23.182Z"
+status: "active"
 ---
 
 # § 9858r. Studies on waiting lists
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.375Z"
   - **(1)** not later than 2 years after November 19, 2014 ; and
   - **(2)** every 2 years thereafter.
 - **(c)** In this section, the term “State” has the meaning given the term in section 658P of the Child Care and Development Block Grant Act of 1990 ( 42 U.S.C. 9858n ).
+
+## Source Credit
+
+*([Pub. L. 113–186, § 12](https://www.govinfo.gov/link/plaw/113/public/186), Nov. 19, 2014, [128 Stat. 2001](https://www.govinfo.gov/link/statute/128/2001).)*

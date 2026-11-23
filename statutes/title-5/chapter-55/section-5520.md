@@ -3,9 +3,10 @@ title: "Section 5520 - Withholding of city or county income or employment taxes"
 usc_title: 5
 usc_section: "5520"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 5520"
-generated_at: "2026-03-30T02:52:56.018Z"
+generated_at: "2026-11-23T20:25:31.926Z"
+status: "active"
 ---
 
 # § 5520. Withholding of city or county income or employment taxes
@@ -27,3 +28,19 @@ generated_at: "2026-03-30T02:52:56.018Z"
     - **(A)** an Executive agency;
     - **(B)** the judicial branch; and
     - **(C)** the United States Postal Service.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Jimmy Carter.
+
+## Source Credit
+
+*(Added [Pub. L. 93–340, § 1(a)](https://www.govinfo.gov/link/plaw/93/public/340), July 10, 1974, [88 Stat. 294](https://www.govinfo.gov/link/statute/88/294); amended [Pub. L. 94–358, § 1](https://www.govinfo.gov/link/plaw/94/public/358), July 12, 1976, [90 Stat. 910](https://www.govinfo.gov/link/statute/90/910); [Pub. L. 95–30, title IV, § 408(a)](https://www.govinfo.gov/link/plaw/95/public/30), May 23, 1977, [91 Stat. 157](https://www.govinfo.gov/link/statute/91/157); [Pub. L. 95–365, § 1](https://www.govinfo.gov/link/plaw/95/public/365), Sept. 15, 1978, [92 Stat. 599](https://www.govinfo.gov/link/statute/92/599); [Pub. L. 100–180, div. A, title V, § 505(2)](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1086](https://www.govinfo.gov/link/statute/101/1086).)*

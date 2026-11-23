@@ -3,9 +3,10 @@ title: "Section 262c - Commitments for United States contributions to internatio
 usc_title: 22
 usc_section: "262c"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 262c"
-generated_at: "2026-03-30T02:55:05.303Z"
+generated_at: "2026-11-23T20:26:31.913Z"
+status: "active"
 ---
 
 # § 262c. Commitments for United States contributions to international financial institutions fostering economic development in less developed countries; continuation of participation
@@ -17,3 +18,9 @@ generated_at: "2026-03-30T02:55:05.303Z"
   - **(4)** such institutions have proved to be an effective mechanism for sharing the burden among developed countries of stimulating economic development in the less developed world; and
   - **(5)** although continued United States participation in the international financial institutions is an important part of efforts by the United States to assist less developed countries, more of this burden should be shared by other developed countries. As a step in that direction, in future negotiations, the United States should work toward aggregate contributions to future replenishments to international financial institutions covered by this Act not to exceed 25 per centum.
 - **(b)** The Congress recognizes that economic development is a long-term process needing funding commitments to international financial institutions. It also notes that the availability of funds for the United States contribution to international financial institutions is subject to the appropriations process.
+
+“It is the sense of the Congress that the United States share of contributions to future replenishments of the International Financial Institutions should not exceed the percentages enumerated below for each of the respective accounts within these institutions:
+
+## Source Credit
+
+*([Pub. L. 95–118, title I, § 101](https://www.govinfo.gov/link/plaw/95/public/118), Oct. 3, 1977, [91 Stat. 1067](https://www.govinfo.gov/link/statute/91/1067).)*

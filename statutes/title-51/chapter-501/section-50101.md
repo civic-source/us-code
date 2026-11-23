@@ -3,9 +3,10 @@ title: "Section 50101 - Definitions"
 usc_title: 51
 usc_section: "50101"
 chapter: 501
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 50101"
-generated_at: "2026-03-30T02:56:28.707Z"
+generated_at: "2026-11-23T20:27:37.489Z"
+status: "active"
 ---
 
 # § 50101. Definitions
@@ -28,3 +29,54 @@ In this chapter:
         - **(I)** providing comparable opportunities for companies described in subparagraph (A) to participate in Government-sponsored research and development similar to that authorized under this chapter;
         - **(II)** providing no barriers, to companies described in subparagraph (A) with respect to local investment opportunities, that are not provided to foreign companies in the United States; and
         - **(III)** providing adequate and effective protection for the intellectual property rights of companies described in subparagraph (A).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 50101 | 42 U.S.C. 14701 . | Pub. L. 105–303, § 2 , Oct. 28, 1998 , 112 Stat. 2843 . |
+
+
+Commercial provider
+
+Payload
+
+Space-related activities
+
+Space transportation services
+
+Space transportation vehicle
+
+State
+
+United states commercial provider
+
+Historical and Revision Notes
+
+50101
+
+42 U.S.C. 14701
+
+Pub. L. 105–303, § 2
+
+Oct. 28, 1998
+
+112 Stat. 2843
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3394](https://www.govinfo.gov/link/statute/124/3394).)*

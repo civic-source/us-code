@@ -3,9 +3,10 @@ title: "Section 6992a - Listing of medical wastes"
 usc_title: 42
 usc_section: "6992a"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6992a"
-generated_at: "2026-03-30T02:56:11.281Z"
+generated_at: "2026-11-23T20:27:22.771Z"
+status: "active"
 ---
 
 # § 6992a. Listing of medical wastes
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.281Z"
   - **(10)** Biological waste and discarded materials contaminated with blood, excretion, excudates 1 1 So in original. Probably should be “exudates”. or secretion from human beings or animals who are isolated to protect others from communicable diseases.
   - **(11)** Such other waste material that results from the administration of medical care to a patient by a health care provider and is found by the Administrator to pose a threat to human health or the environment.
 - **(b)** The Administrator may exclude from the list under this section any categories or items described in paragraphs (6) through (10) of subsection (a) which he determines do not pose a substantial present or potential hazard to human health or the environment when improperly treated, stored, transported, disposed of, or otherwise managed.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 11002](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 100–582, § 2(a)](https://www.govinfo.gov/link/plaw/100/public/582), Nov. 1, 1988, [102 Stat. 2951](https://www.govinfo.gov/link/statute/102/2951).)*

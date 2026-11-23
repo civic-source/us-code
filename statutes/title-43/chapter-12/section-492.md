@@ -3,12 +3,17 @@ title: "Section 492 - Operation and maintenance charges generally"
 usc_title: 43
 usc_section: "492"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 492"
-generated_at: "2026-03-30T02:55:57.453Z"
+generated_at: "2026-11-23T20:27:06.221Z"
+status: "active"
 ---
 
 # § 492. Operation and maintenance charges generally
 
 In addition to the construction charge, every water-right applicant, entryman, or landowner under or upon a reclamation project shall also pay, whenever water service is available for the irrigation of his land, an operation and maintenance charge based upon the total cost of operation and maintenance of the project, or each separate unit thereof, and such charge shall be made for each acre-foot of water delivered; but each acre of irrigable land, whether irrigated or not, shall be charged with a minimum operation and maintenance charge based upon the charge for delivery of not less than one acre-foot of water. If the total amount of operation and maintenance charges and penalties collected for any one irrigation season on any project shall exceed the cost of operation and maintenance of the project during that irrigation season, the balance shall be applied to a reduction of the charge on the project for the next irrigation season, and any deficit incurred may likewise be added to the charge for the next irrigation season.
 
+
+## Source Credit
+
+*(Aug. 13, 1914, ch. 247, § 5, [38 Stat. 687](https://www.govinfo.gov/link/statute/38/687).)*

@@ -3,9 +3,10 @@ title: "Section 8907 - Sanctions on persons responsible for violence or undermin
 usc_title: 22
 usc_section: "8907"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8907"
-generated_at: "2026-03-30T02:55:05.458Z"
+generated_at: "2026-11-23T20:26:32.742Z"
+status: "active"
 ---
 
 # § 8907. Sanctions on persons responsible for violence or undermining the peace, security, stability, sovereignty, or territorial integrity of Ukraine
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:05.458Z"
   - **(1)** the person is not engaging in the activity that was the basis for the sanctions or has taken significant verifiable steps toward stopping the activity; and
   - **(2)** the President has received reliable assurances that the person will not knowingly engage in activity subject to sanctions under subsection (a) in the future.
 - **(e)** The President shall issue such regulations, licenses, and orders as are necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 113–95, § 8](https://www.govinfo.gov/link/plaw/113/public/95), Apr. 3, 2014, [128 Stat. 1093](https://www.govinfo.gov/link/statute/128/1093); [Pub. L. 115–44, title II, § 230(a)](https://www.govinfo.gov/link/plaw/115/public/44), Aug. 2, 2017, [131 Stat. 915](https://www.govinfo.gov/link/statute/131/915).)*

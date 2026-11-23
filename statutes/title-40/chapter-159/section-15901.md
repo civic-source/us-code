@@ -3,9 +3,10 @@ title: "Section 15901 - State capacity building grant program"
 usc_title: 40
 usc_section: "15901"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 15901"
-generated_at: "2026-03-30T02:55:43.389Z"
+generated_at: "2026-11-23T20:26:56.706Z"
+status: "active"
 ---
 
 # § 15901. State capacity building grant program
@@ -48,3 +49,45 @@ generated_at: "2026-03-30T02:55:43.389Z"
 - **(g)** Funds from a grant under a program shall be available only during the fiscal year for which the grant is provided.
 - **(h)** Each fiscal year, each Commission State shall submit to the relevant Commission and make publicly available a report that describes the use of the grant funds and the impact of the program in the Commission State.
 - **(i)** With respect to the Northern Border Regional Commission, the program shall be a continuation of the program under section 6304(c) of the Agriculture Improvement Act of 2018 ( 40 U.S.C. 15501 note; Public Law 115–334 ) (as in effect on the day before the date of enactment of this section).
+
+Definitions
+
+Commission state
+
+Eligible county
+
+Program
+
+Establishment
+
+Purposes
+
+Use of Funds.—
+
+In general
+
+Limitation
+
+Annual Work Plan.—
+
+In general
+
+Approval
+
+Amount of Grant.—
+
+In general
+
+Requirement
+
+Approval
+
+Grant Availability
+
+Report
+
+Continuation of Program Authority for Northern Border Regional Commission
+
+## Source Credit
+
+*(Added [Pub. L. 118–272, div. B, title II, § 2248(a)](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3205](https://www.govinfo.gov/link/statute/138/3205).)*

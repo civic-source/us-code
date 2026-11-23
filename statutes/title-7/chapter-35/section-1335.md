@@ -3,9 +3,10 @@ title: "Section 1335 - Small-farm exemption; small-farm base acreage; election; 
 usc_title: 7
 usc_section: "1335"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1335"
-generated_at: "2026-03-30T02:53:42.303Z"
+generated_at: "2026-11-23T20:25:41.122Z"
+status: "active"
 ---
 
 # § 1335. Small-farm exemption; small-farm base acreage; election; acreage allotment; land-use provisions; price support; wheat marketing certificates
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:42.303Z"
       - **(iii)** such crop of wheat shall not be eligible for price support, and
       - **(iv)** wheat marketing certificates applicable to such crop shall not be issued with respect to the farm. The additional acreage required to provide acreage allotments for farms based upon small-farm base acreages under this section shall be in addition to National, State, and county acreage allotments. This section shall not be applicable to the crops planted for harvest in 1967 and subsequent years.
 
+
+## Source Credit
+
+*(Feb. 16, 1938, ch. 30, title III, § 335, [52 Stat. 54](https://www.govinfo.gov/link/statute/52/54); July 26, 1939, ch. 379, [53 Stat. 1126](https://www.govinfo.gov/link/statute/53/1126); June 6, 1940, ch. 237, [54 Stat. 232](https://www.govinfo.gov/link/statute/54/232); July 3, 1948, ch. 827, title II, §§ 204(a), [62 Stat. 1256](https://www.govinfo.gov/link/statute/62/1256); Aug. 28, 1954, ch. 1041, title III, § 309, [68 Stat. 903](https://www.govinfo.gov/link/statute/68/903); [Pub. L. 85–203, § 1](https://www.govinfo.gov/link/plaw/85/public/203), Aug. 28, 1957, [71 Stat. 477](https://www.govinfo.gov/link/statute/71/477); [Pub. L. 87–128, title I, § 122(e)](https://www.govinfo.gov/link/plaw/87/public/128), Aug. 8, 1961, [75 Stat. 297](https://www.govinfo.gov/link/statute/75/297); [Pub. L. 87–703, title III, § 315](https://www.govinfo.gov/link/plaw/87/public/703), Sept. 27, 1962, [76 Stat. 621](https://www.govinfo.gov/link/statute/76/621); [Pub. L. 89–321, title V, § 501(8)](https://www.govinfo.gov/link/plaw/89/public/321), Nov. 3, 1965, [79 Stat. 1201](https://www.govinfo.gov/link/statute/79/1201); [Pub. L. 99–198, title III, § 305](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1380](https://www.govinfo.gov/link/statute/99/1380).)*

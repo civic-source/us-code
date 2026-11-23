@@ -3,12 +3,17 @@ title: "Section 144 - Entries on land withdrawn as valuable for oil or gas valid
 usc_title: 43
 usc_section: "144"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 144"
-generated_at: "2026-03-30T02:55:57.435Z"
+generated_at: "2026-11-23T20:27:06.171Z"
+status: "active"
 ---
 
 # § 144. Entries on land withdrawn as valuable for oil or gas validated
 
 Entries existing on February 7, 1925 , and allowed prior to April 1, 1924 , under the Stock Raising Homestead Act of December 29, 1916 (Thirty-ninth Statutes at Large, page 862) [ 43 U.S.C. 291 et seq.], for land withdrawn as valuable for oil or gas, but not otherwise reserved or withdrawn, are validated, if otherwise regular: Provided , That at date of entry the land was not within the limits of the geologic structure of a producing oil or gas field.
 
+
+## Source Credit
+
+*(Feb. 7, 1925, ch. 147, § 12, [43 Stat. 812](https://www.govinfo.gov/link/statute/43/812).)*

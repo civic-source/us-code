@@ -3,9 +3,10 @@ title: "Section 13701 - Requirements for reasonable rates, classifications, thro
 usc_title: 49
 usc_section: "13701"
 chapter: 137
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 13701"
-generated_at: "2026-03-30T02:56:19.329Z"
+generated_at: "2026-11-23T20:27:34.741Z"
+status: "active"
 ---
 
 # § 13701. Requirements for reasonable rates, classifications, through routes, rules, and practices for certain transportation
@@ -23,3 +24,27 @@ generated_at: "2026-03-30T02:56:19.329Z"
   - **(2)** The percentage specified in paragraph (1) shall be increased or decreased, as the case may be, by the percentage change in the Producers Price Index, as published by the Department of Labor, that has occurred during the most recent 1-year period before the date the rate or division in question first took effect.
   - **(3)** The Board shall determine whether any rate or division of a carrier or service in noncontiguous domestic trade which is not within the range described in paragraph (1) is reasonable if a complaint is filed under subsection (c) or section 13702(b)(6).
   - **(4)** Upon a finding of violation of subsection (a), the Board shall award reparations to the complaining shipper or shippers in an amount equal to all sums assessed and collected that exceed the determined reasonable rate, division, rate structure, or tariff. Upon complaint from any governmental agency or authority and upon a finding or violation of subsection (a), the Board shall make such orders as are just and shall require the carrier to return, to the extent practicable, to shippers all amounts plus interest, which the Board finds to have been assessed and collected in violation of subsection (a).
+
+Reasonableness.—
+
+Certain household goods transportation; joint rates involving water transportation
+
+Through routes and divisions of joint rates
+
+Prescription by Board for Violations
+
+Filing of Complaint
+
+Zone of Reasonableness.—
+
+In general
+
+Adjustments to the zone
+
+Determinations after complaint
+
+Reparations
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 867](https://www.govinfo.gov/link/statute/109/867).)*

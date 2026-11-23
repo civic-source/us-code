@@ -3,9 +3,10 @@ title: "Section 58 - Work colleges"
 usc_title: 20
 usc_section: "58"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 58"
-generated_at: "2026-03-30T02:54:48.123Z"
+generated_at: "2026-11-23T20:26:14.455Z"
+status: "active"
 ---
 
 # § 1087–58. Work colleges
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:54:48.123Z"
     - **(E)** recognizes the educational role of work-learning-service supervisors; and
     - **(F)** includes consequences for nonperformance or failure in the work-learning-service program similar to the consequences for failure in the regular academic program.
 - **(f)** There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 448](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 102–325, title IV, § 447](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 567](https://www.govinfo.gov/link/statute/106/567); amended [Pub. L. 105–244, title IV, § 445](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1714](https://www.govinfo.gov/link/statute/112/1714); [Pub. L. 110–315, title IV, § 447](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3260](https://www.govinfo.gov/link/statute/122/3260).)*

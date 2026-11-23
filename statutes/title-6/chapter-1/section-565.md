@@ -3,9 +3,10 @@ title: "Section 565 - Maintenance validation and oversight"
 usc_title: 6
 usc_section: "565"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 565"
-generated_at: "2026-03-30T02:53:09.469Z"
+generated_at: "2026-11-23T20:25:34.795Z"
+status: "active"
 ---
 
 # § 565. Maintenance validation and oversight
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:09.469Z"
   - **(2)** Notification to appropriate Administration personnel at each airport when maintenance action is completed by a contractor.
   - **(3)** A process for independent validation by a third party of contractor maintenance.
 - **(d)** The Administrator shall require maintenance for any contracts entered into 60 days after October 5, 2018 , or later for security-related technology deployed to airports to include penalties for noncompliance when it is determined that either preventive or corrective maintenance has not been completed according to contractual requirements and manufacturers’ specifications.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XVI, § 1621](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 115–254, div. K, title I, § 1918(a)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3558](https://www.govinfo.gov/link/statute/132/3558).)*

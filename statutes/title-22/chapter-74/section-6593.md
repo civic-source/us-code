@@ -3,9 +3,10 @@ title: "Section 6593 - Assistance programs coordination and oversight"
 usc_title: 22
 usc_section: "6593"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6593"
-generated_at: "2026-03-30T02:55:05.430Z"
+generated_at: "2026-11-23T20:26:32.623Z"
+status: "active"
 ---
 
 # § 6593. Assistance programs coordination and oversight
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:05.430Z"
   - **(4)** resolving policy, program, and funding disputes among United States Government agencies.
 - **(c)** Nothing in this section may be construed to lessen the accountability of any Federal agency administering any program, project, or activity of United States assistance for any funds made available to the Federal agency for that purpose.
 - **(d)** The Administrator of the Agency for International Development is authorized to detail to the Department of State on a nonreimbursable basis such personnel employed by the Agency as the Secretary of State may require to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XV, § 1523, Oct. 21, 1998, [112 Stat. 2681–794](https://www.govinfo.gov/link/statute/112/2681).)*

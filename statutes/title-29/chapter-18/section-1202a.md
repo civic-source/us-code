@@ -3,9 +3,10 @@ title: "Section 1202a - Employee plans compliance resolution system"
 usc_title: 29
 usc_section: "1202a"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1202a"
-generated_at: "2026-03-30T02:55:18.727Z"
+generated_at: "2026-11-23T20:26:38.005Z"
+status: "active"
 ---
 
 # § 1202a. Employee plans compliance resolution system
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:18.727Z"
   - **(3)** extending the duration of the self-correction period under the Self-Correction Program for significant compliance failures;
   - **(4)** expanding the availability to correct insignificant compliance failures under the Self-Correction Program during audit; and
   - **(5)** assuring that any tax, penalty, or sanction that is imposed by reason of a compliance failure is not excessive and bears a reasonable relationship to the nature, extent, and severity of the failure.
+
+## Source Credit
+
+*([Pub. L. 109–280, title XI, § 1101](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1055](https://www.govinfo.gov/link/statute/120/1055).)*

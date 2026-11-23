@@ -3,9 +3,10 @@ title: "Section 30104 - Reporting requirements"
 usc_title: 52
 usc_section: "30104"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "52 U.S.C. § 30104"
-generated_at: "2026-03-30T02:56:30.169Z"
+generated_at: "2026-11-23T20:27:36.995Z"
+status: "active"
 ---
 
 # § 30104. Reporting requirements
@@ -217,3 +218,37 @@ generated_at: "2026-03-30T02:56:30.169Z"
       - **(i)** forwarded from the contributor or contributors to the committee by the person; or
       - **(ii)** received by the committee from a contributor or contributors, but credited by the committee or candidate involved (or, in the case of a leadership PAC, by the individual referred to in subparagraph (B) involved) to the person through records, designations, or other means of recognizing that a certain amount of money has been raised by the person.
     - **(B)** The term “leadership PAC” means, with respect to a candidate for election to Federal office or an individual holding Federal office, a political committee that is directly or indirectly established, financed, maintained or controlled by the candidate or the individual but which is not an authorized committee of the candidate or individual and which is not affiliated with an authorized committee of the candidate or individual, except that such term does not include a political committee of a political party.
+
+Notification of expenditure from personal funds.—
+
+Definition of expenditure from personal funds
+
+Declaration of intent
+
+Initial notification
+
+Additional notification
+
+Contents
+
+Notification of disposal of excess contributions
+
+Enforcement
+
+Software for filing of reports.—
+
+In general
+
+Additional information
+
+Required use
+
+Required posting
+
+(aa) 60 days before a general, special, or runoff election for the office sought by the candidate; or
+
+(bb) 30 days before a primary or preference election, or a convention or caucus of a political party that has authority to nominate a candidate, for the office sought by the candidate; and
+
+## Source Credit
+
+*([Pub. L. 92–225, title III, § 304](https://www.govinfo.gov/link/plaw/92/public/225), Feb. 7, 1972, [86 Stat. 14](https://www.govinfo.gov/link/statute/86/14); [Pub. L. 93–443, title II](https://www.govinfo.gov/link/plaw/93/public/443), §§ 204(a)–(d), 208(c)(4), Oct. 15, 1974, [88 Stat. 1276–1278](https://www.govinfo.gov/link/statute/88/1276), 1286; [Pub. L. 94–283, title I, § 104](https://www.govinfo.gov/link/plaw/94/public/283), May 11, 1976, [90 Stat. 480](https://www.govinfo.gov/link/statute/90/480); [Pub. L. 96–187, title I, § 104](https://www.govinfo.gov/link/plaw/96/public/187), Jan. 8, 1980, [93 Stat. 1348](https://www.govinfo.gov/link/statute/93/1348); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 104–79](https://www.govinfo.gov/link/plaw/104/public/79), §§ 1(a), 3(b), Dec. 28, 1995, [109 Stat. 791](https://www.govinfo.gov/link/statute/109/791), 792; [Pub. L. 106–58, title VI](https://www.govinfo.gov/link/plaw/106/public/58), §§ 639(a), 641(a), Sept. 29, 1999, [113 Stat. 476](https://www.govinfo.gov/link/statute/113/476), 477; [Pub. L. 106–346, § 101(a) [title V, § 502(a), (c)]](https://www.govinfo.gov/link/plaw/106/public/346), Oct. 23, 2000, [114 Stat. 1356](https://www.govinfo.gov/link/statute/114/1356), 1356A–49; [Pub. L. 107–155, title I, § 103(a)](https://www.govinfo.gov/link/plaw/107/public/155), title II, §§ 201(a), 212, title III, §§ 304(b), 306, 308(b), title V, §§ 501, 503, Mar. 27, 2002, [116 Stat. 87](https://www.govinfo.gov/link/statute/116/87), 88, 93, 99, 102, 104, 114, 115; [Pub. L. 108–199, div. F, title VI, § 641](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 359](https://www.govinfo.gov/link/statute/118/359); [Pub. L. 110–81, title II, § 204(a)](https://www.govinfo.gov/link/plaw/110/public/81), Sept. 14, 2007, [121 Stat. 744](https://www.govinfo.gov/link/statute/121/744).)*

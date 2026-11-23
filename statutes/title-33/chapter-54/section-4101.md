@@ -3,9 +3,10 @@ title: "Section 4101 - Definitions"
 usc_title: 33
 usc_section: "4101"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 4101"
-generated_at: "2026-03-30T02:55:41.147Z"
+generated_at: "2026-11-23T20:26:54.292Z"
+status: "active"
 ---
 
 # § 4101. Definitions
@@ -31,3 +32,19 @@ In this chapter:
       - **(iii)** Autonomous underwater vehicles.
       - **(iv)** Autonomous surface vehicles.
     - **(C)** The term “unmanned maritime systems” includes unmanned aerial vehicles and autonomous aerial vehicles that are used to address maritime issues to the extent the Administrator determines it is necessary and appropriate to achieve the purposes of this chapter.
+
+Limitation
+
+Other Authority
+
+Definitions
+
+Small uncrewed maritime systems
+
+Uncrewed system
+
+Savings Clause
+
+## Source Credit
+
+*([Pub. L. 115–394, § 2](https://www.govinfo.gov/link/plaw/115/public/394), Dec. 21, 2018, [132 Stat. 5281](https://www.govinfo.gov/link/statute/132/5281).)*

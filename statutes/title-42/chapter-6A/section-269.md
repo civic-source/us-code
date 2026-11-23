@@ -3,9 +3,10 @@ title: "Section 269 - Bills of health"
 usc_title: 42
 usc_section: "269"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 269"
-generated_at: "2026-03-30T02:56:10.724Z"
+generated_at: "2026-11-23T20:27:20.131Z"
+status: "active"
 ---
 
 # § 269. Bills of health
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:10.724Z"
 - **(c)** The Surgeon General shall from time to time prescribe regulations, applicable to vessels referred to in subsection (a) of this section for the purpose of preventing the introduction into the States or possessions of the United States of any communicable disease by securing the best sanitary condition of such vessels, their cargoes, passengers, and crews. Such regulations shall be observed by such vessels prior to departure, during the course of the voyage, and also during inspection, disinfection, or other quarantine procedure upon arrival at any United States quarantine station.
 - **(d)** The provisions of subsections (a) and (b) of this section shall not apply to vessels plying between such foreign ports on or near the frontiers of the United States and ports of the United States as are designated by treaty.
 - **(e)** It shall be unlawful for any vessel to enter any port in any State or possession of the United States to discharge its cargo, or land its passengers, except upon a certificate of the quarantine officer that regulations prescribed under subsection (c) have in all respects been complied with by such officer, the vessel, and its master. The master of every such vessel shall deliver such certificate to the collector of customs at the port of entry, together with the original bill of health and other papers of the vessel. The certificate required by this subsection shall be procurable from the quarantine officer, upon arrival of the vessel at the quarantine station and satisfactory inspection thereof, at any time within which quarantine services are performed at such station.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 366, [58 Stat. 705](https://www.govinfo.gov/link/statute/58/705).)*

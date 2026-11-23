@@ -3,9 +3,10 @@ title: "Section 32 - Followup monitoring and treatment of certified-eligible WTC
 usc_title: 42
 usc_section: "32"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 32"
-generated_at: "2026-03-30T02:56:10.851Z"
+generated_at: "2026-11-23T20:27:20.719Z"
+status: "active"
 ---
 
 # § 300mm–32. Followup monitoring and treatment of certified-eligible WTC survivors for WTC-related health conditions
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:56:10.851Z"
     - **(I)** Adjustment disorder.
     - **(J)** Substance abuse.
   - **(3)** Any cancer (or type of cancer) or other condition added to the list in section 300mm–22(a)(3) of this title pursuant to paragraph (5) or (6) of section 300mm–22(a) of this title , as such provisions are applied under subsection (a) with respect to certified-eligible WTC survivors.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXXIII, § 3322, as added [Pub. L. 111–347, title I, § 101](https://www.govinfo.gov/link/plaw/111/public/347), Jan. 2, 2011, [124 Stat. 3652](https://www.govinfo.gov/link/statute/124/3652).)*

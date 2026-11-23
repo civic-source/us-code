@@ -3,9 +3,10 @@ title: "Section 384e - Recognition of foreign government inspections"
 usc_title: 21
 usc_section: "384e"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 384e"
-generated_at: "2026-03-30T02:54:54.279Z"
+generated_at: "2026-11-23T20:26:27.764Z"
+status: "active"
 ---
 
 # § 384e. Recognition of foreign government inspections
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:54.279Z"
 - **(c)**
   - **(1)** Beginning not later than 1 year after December 29, 2022 , the Secretary shall periodically assess whether additional arrangements and agreements with a foreign government or an agency of a foreign government, as allowed under this section, are appropriate.
   - **(2)** Beginning not later than 4 years after December 29, 2022 , and every 4 years thereafter, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report describing the findings and conclusions of each review conducted under paragraph (1).
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 809, as added [Pub. L. 112–144, title VII, § 712](https://www.govinfo.gov/link/plaw/112/public/144), July 9, 2012, [126 Stat. 1072](https://www.govinfo.gov/link/statute/126/1072); amended [Pub. L. 114–255, div. A, title III, § 3101(a)(2)(X)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1156](https://www.govinfo.gov/link/statute/130/1156); [Pub. L. 115–52, title VII, § 701(b)](https://www.govinfo.gov/link/plaw/115/public/52), Aug. 18, 2017, [131 Stat. 1055](https://www.govinfo.gov/link/statute/131/1055); [Pub. L. 117–328, div. FF, title III, § 3613(c)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5872](https://www.govinfo.gov/link/statute/136/5872).)*

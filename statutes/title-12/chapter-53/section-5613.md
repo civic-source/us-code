@@ -3,9 +3,10 @@ title: "Section 5613 - Additional related matters"
 usc_title: 12
 usc_section: "5613"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5613"
-generated_at: "2026-03-30T02:53:53.549Z"
+generated_at: "2026-11-23T20:25:59.535Z"
+status: "active"
 ---
 
 # § 5613. Additional related matters
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:53.549Z"
       - **(i)** consideration of whether a determination shall be made, as provided in section 5383 of this title to resolve the company under section 5382 of this title ; and
       - **(ii)** the company to file a petition for bankruptcy under section 301 of title 11 if the Corporation is not appointed receiver pursuant to section 5382 of this title within 30 days of the date of default; or
     - **(B)** file a petition for involuntary bankruptcy on behalf of the company under section 303 of title 11 .
+
+## Source Credit
+
+*([Pub. L. 111–203, title XI, § 1106](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2125](https://www.govinfo.gov/link/statute/124/2125).)*

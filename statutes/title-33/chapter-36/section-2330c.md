@@ -3,9 +3,10 @@ title: "Section 2330c - Aquatic ecosystem restoration"
 usc_title: 33
 usc_section: "2330c"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2330c"
-generated_at: "2026-03-30T02:55:41.125Z"
+generated_at: "2026-11-23T20:26:54.188Z"
+status: "active"
 ---
 
 # § 2330c. Aquatic ecosystem restoration
@@ -53,3 +54,15 @@ generated_at: "2026-03-30T02:55:41.125Z"
   - **(2)** affect water resources management in 2 or more river basins while providing regional benefits not limited to fisheries restoration;
   - **(3)** are a component of a broader strategy or plan to replace aging facilities with 1 or more alternate facilities providing similar benefits; and
   - **(4)** contribute to the restoration of anadromous fish species listed under the Endangered Species Act of 1973 ( 16 U.S.C. 1531 et seq.).
+
+“In this title [enacting this section and sections 390g–9 and 1477 of Title 43, Public Lands, and amending sections 1015 and 1015a of Title 16, Conservation, sections 1645 and 1647b of Title 25, Indians, sections 10362 and 10364 of Title 42, The Public Health and Welfare, section 510b of Title 43 , and provisions set out as notes under sections 10301 and 10364 of Title 42]:
+
+Indian tribe
+
+Reclamation state
+
+Secretary
+
+## Source Credit
+
+*([Pub. L. 116–260, div. FF, title XI, § 1109](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3244](https://www.govinfo.gov/link/statute/134/3244).)*

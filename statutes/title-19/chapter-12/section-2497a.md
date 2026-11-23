@@ -3,9 +3,10 @@ title: "Section 2497a - Agricultural Disaster Relief Trust Fund"
 usc_title: 19
 usc_section: "2497a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2497a"
-generated_at: "2026-03-30T02:54:24.678Z"
+generated_at: "2026-11-23T20:26:10.986Z"
+status: "active"
 ---
 
 # § 2497a. Agricultural Disaster Relief Trust Fund
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:54:24.678Z"
     - **(B)** Interest on advances made pursuant to this subsection shall be—
       - **(i)** at a rate determined by the Secretary of the Treasury (as of the close of the calendar month preceding the month in which the advance is made) to be equal to the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the anticipated period during which the advance will be outstanding, and
       - **(ii)** compounded annually.
+
+## Source Credit
+
+*([Pub. L. 93–618, title IX, § 902](https://www.govinfo.gov/link/plaw/93/public/618), as added [Pub. L. 110–234, title XV, § 15101(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1498](https://www.govinfo.gov/link/statute/122/1498), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XV, § 15101(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2260.)*

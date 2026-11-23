@@ -3,9 +3,10 @@ title: "Section 5112 - Sexual assault and sexual harassment in the Coast Guard"
 usc_title: 14
 usc_section: "5112"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 5112"
-generated_at: "2026-03-30T02:53:51.506Z"
+generated_at: "2026-11-23T20:25:54.656Z"
+status: "active"
 ---
 
 # § 5112. Sexual assault and sexual harassment in the Coast Guard
@@ -21,3 +22,17 @@ generated_at: "2026-03-30T02:53:51.506Z"
     - **(B)** The number of instances in which adverse action was taken against a covered individual who was accused of collateral misconduct or crimes as described in subparagraph (A).
     - **(C)** The percentage of investigations of sexual assaults that involved an accusation or adverse action against a covered individual as described in subparagraphs (A) and (B).
     - **(D)** In this paragraph, the term “covered individual” means an individual who is identified as a victim of a sexual assault in the case files of a military criminal investigative organization.
+
+In General
+
+Contents
+
+In General
+
+Strategy and Action Plan
+
+Briefing
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. G, title LVXXXV](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXV], § 8501(a)(7), Jan. 1, 2021, [134 Stat. 4745](https://www.govinfo.gov/link/statute/134/4745).)*

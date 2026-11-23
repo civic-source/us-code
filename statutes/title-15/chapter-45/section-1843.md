@@ -3,9 +3,10 @@ title: "Section 1843 - Limitations and conditions of loan guarantees"
 usc_title: 15
 usc_section: "1843"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1843"
-generated_at: "2026-03-30T02:54:08.160Z"
+generated_at: "2026-11-23T20:26:04.138Z"
+status: "active"
 ---
 
 # § 1843. Limitations and conditions of loan guarantees
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.160Z"
 - **(c)**
   - **(1)** Loans guaranteed under this chapter shall bear interest payable to the lending institutions at rates determined by the Board taking into account the reduction in risk afforded by the loan guarantee and rates charged by lending institutions on otherwise comparable loans.
   - **(2)** The Board shall prescribe and collect a guarantee fee in connection with each loan guaranteed under this chapter. Such fee shall reflect the Government’s administrative expense in making the guarantee and the risk assumed by the Government and shall not be less than an amount which, when added to the amount of interest payable to the lender of such loan, produces a total charge appropriate for loan agreements of comparable risk and maturity if supplied by the normal capital markets.
+
+## Source Credit
+
+*([Pub. L. 92–70, § 4](https://www.govinfo.gov/link/plaw/92/public/70), Aug. 9, 1971, [85 Stat. 178](https://www.govinfo.gov/link/statute/85/178).)*

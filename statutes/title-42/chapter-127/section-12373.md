@@ -3,9 +3,10 @@ title: "Section 12373 - Conference administration"
 usc_title: 42
 usc_section: "12373"
 chapter: 127
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12373"
-generated_at: "2026-03-30T02:56:11.413Z"
+generated_at: "2026-11-23T20:27:23.357Z"
+status: "active"
 ---
 
 # § 12373. Conference administration
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.413Z"
   - **(4)** the personnel engaged under subsection (a)(5) shall be fairly balanced in terms of points of views represented and shall be appointed without regard to political affiliation or previous partisan activities;
   - **(5)** the recommendations of the Conference are not inappropriately influenced by any appointing authority or by any special interest, but will instead be the result of the independent judgment of the Conference; and
   - **(6)** to the extent practicable, current and adequate statistical data (including decennial census data) and other information on the well-being of young individuals in the United States are readily available, in advance of the Conference, to the delegates of the Conference, together with such information as may be necessary to evaluate Federal programs and policies relating to children and youth. In carrying out this subparagraph, the Secretary may make grants to, and enter into contracts with, public agencies and nonprofit private organizations.
+
+## Source Credit
+
+*([Pub. L. 101–501, title IX, § 984](https://www.govinfo.gov/link/plaw/101/public/501), Nov. 3, 1990, [104 Stat. 1281](https://www.govinfo.gov/link/statute/104/1281).)*

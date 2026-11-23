@@ -3,12 +3,17 @@ title: "Section 1491 - Defaults; written notification; pro rata payments; subrog
 usc_title: 25
 usc_section: "1491"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1491"
-generated_at: "2026-03-30T02:54:52.817Z"
+generated_at: "2026-11-23T20:26:25.468Z"
+status: "active"
 ---
 
 # § 1491. Defaults; written notification; pro rata payments; subrogation and assignment rights of Secretary; cancellation of uncollectable portion of obligations; forbearance for benefit of borrower; interest or charges cessation date
 
 In the event of a default of a loan guaranteed hereunder, the holder of the guaranty certificate may immediately notify the Secretary in writing of such default and the Secretary shall thereupon pay to such holder the pro rata portion of the amount guaranteed and shall be subrogated to the rights of the holder of the guaranty and receive an assignment of the obligation and security. The Secretary may cancel the uncollectable portion of any obligation, to which he has an assignment or a subrogated right under this section. Nothing in this section shall be construed to preclude any forbearance for the benefit of the borrower as may be agreed upon by the parties to the loan and approved by the Secretary. The Secretary may establish the date, not later than the date of judgment and decree of foreclosure or sale, upon which accrual of interest or charges shall cease.
 
+
+## Source Credit
+
+*([Pub. L. 93–262, title II, § 211](https://www.govinfo.gov/link/plaw/93/public/262), Apr. 12, 1974, [88 Stat. 80](https://www.govinfo.gov/link/statute/88/80); [Pub. L. 98–449, § 6](https://www.govinfo.gov/link/plaw/98/public/449), Oct. 4, 1984, [98 Stat. 1725](https://www.govinfo.gov/link/statute/98/1725).)*

@@ -3,9 +3,10 @@ title: "Section 38 - Association of marine insurance companies; application of a
 usc_title: 15
 usc_section: "38"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 38"
-generated_at: "2026-03-30T02:54:08.024Z"
+generated_at: "2026-11-23T20:26:03.378Z"
+status: "active"
 ---
 
 # § 38. Association of marine insurance companies; application of antitrust laws
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:08.024Z"
   - **(1)** The term “association” means any association, exchange, pool, combination, or other arrangement for concerted action; and
   - **(2)** The term “marine insurance companies” means any persons, companies, or associations, authorized to write marine insurance or reinsurance under the laws of the United States or of a State, Territory, District, or possession thereof.
 - **(b)** Nothing contained in the “antitrust laws” as designated in section 12 of this title , shall be construed as declaring illegal an association entered into by marine insurance companies for the following purposes: To transact a marine insurance and reinsurance business in the United States and in foreign countries and to reinsure or otherwise apportion among its membership the risks undertaken by such association or any of the component members.
+
+## Source Credit
+
+*(June 5, 1920, ch. 250, § 29, [41 Stat. 1000](https://www.govinfo.gov/link/statute/41/1000).)*

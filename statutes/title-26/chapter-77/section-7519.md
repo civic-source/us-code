@@ -3,9 +3,10 @@ title: "Section 7519 - Required payments for entities electing not to have requi
 usc_title: 26
 usc_section: "7519"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 7519"
-generated_at: "2026-03-30T02:55:27.877Z"
+generated_at: "2026-11-23T20:26:46.796Z"
+status: "active"
 ---
 
 # § 7519. Required payments for entities electing not to have required taxable year
@@ -67,3 +68,23 @@ generated_at: "2026-03-30T02:55:27.877Z"
 - **(g)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the provisions of this section and section 280H, including regulations providing for appropriate adjustments in the application of this section and sections 280H and 444 in cases where—
   - **(1)** 2 or more applicable election years begin in the same calendar year, or
   - **(2)** the base year is a taxable year of less than 12 months.
+
+| If the applicable election year of the partnership or S corporation begins during: | The applicable percentage is: |
+| --- | --- |
+| 1987 | 25 |
+| 1988 | 50 |
+| 1989 | 75 |
+| 1990 or thereafter | 100. |
+
+
+1987
+
+1988
+
+1989
+
+1990 or thereafter
+
+## Source Credit
+
+*(Added [Pub. L. 100–203, title X, § 10206(b)(1)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–398](https://www.govinfo.gov/link/statute/101/1330); amended [Pub. L. 100–647, title II, § 2004(e)(4)](https://www.govinfo.gov/link/plaw/100/public/647) –(10), (14)(B), Nov. 10, 1988, [102 Stat. 3601](https://www.govinfo.gov/link/statute/102/3601), 3602; [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7721(c)(12), 7821(b), Dec. 19, 1989, [103 Stat. 2400](https://www.govinfo.gov/link/statute/103/2400), 2424; [Pub. L. 101–508, title XI, § 11704(a)(29)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–519](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 105–34, title XII, § 1281(d)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1037](https://www.govinfo.gov/link/statute/111/1037).)*

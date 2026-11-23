@@ -3,9 +3,10 @@ title: "Section 8802 - Sense of Congress relating to violations of human rights 
 usc_title: 22
 usc_section: "8802"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8802"
-generated_at: "2026-03-30T02:55:05.457Z"
+generated_at: "2026-11-23T20:26:32.737Z"
+status: "active"
 ---
 
 # § 8802. Sense of Congress relating to violations of human rights by Iran
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:05.457Z"
   - **(2)** fully and publicly support efforts made by the people of Iran to promote the establishment of basic freedoms that build the foundation for the emergence of a freely elected, open, and democratic political system;
   - **(3)** help the people of Iran produce, access, and share information freely and safely via the Internet and through other media; and
   - **(4)** defeat all attempts by the Government of Iran to jam or otherwise obstruct international satellite broadcast signals.
+
+## Source Credit
+
+*([Pub. L. 112–239, div. A, title XII, § 1243](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2005](https://www.govinfo.gov/link/statute/126/2005).)*

@@ -3,9 +3,10 @@ title: "Section 292d - Eligibility of borrowers and terms of insured loans"
 usc_title: 42
 usc_section: "292d"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 292d"
-generated_at: "2026-03-30T02:56:10.772Z"
+generated_at: "2026-11-23T20:27:20.360Z"
+status: "active"
 ---
 
 # § 292d. Eligibility of borrowers and terms of insured loans
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:56:10.772Z"
 - **(h)** For purposes of this section:
   - **(1)** The term “active duty” has the meaning given such term in section 101(18) of title 37 , except that such term does not include active duty for training.
   - **(2)** The term “Persian Gulf conflict” means the period beginning on August 2, 1990 , and ending on the date thereafter prescribed by Presidential proclamation or by law.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 705, as added [Pub. L. 102–408, title I, § 102](https://www.govinfo.gov/link/plaw/102/public/408), Oct. 13, 1992, [106 Stat. 1996](https://www.govinfo.gov/link/statute/106/1996); amended [Pub. L. 103–43, title XX, § 2014(a)(1)](https://www.govinfo.gov/link/plaw/103/public/43), June 10, 1993, [107 Stat. 215](https://www.govinfo.gov/link/statute/107/215); [Pub. L. 105–244, title I, § 102(a)(13)(A)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1620](https://www.govinfo.gov/link/statute/112/1620); [Pub. L. 105–392, title I, § 141(a)(1)](https://www.govinfo.gov/link/plaw/105/public/392), (2), Nov. 13, 1998, [112 Stat. 3578](https://www.govinfo.gov/link/statute/112/3578); [Pub. L. 117–103, div. R, § 104(1)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 821](https://www.govinfo.gov/link/statute/136/821).)*

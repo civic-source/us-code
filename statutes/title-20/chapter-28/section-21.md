@@ -3,9 +3,10 @@ title: "Section 21 - Early intervention and college awareness program authorized
 usc_title: 20
 usc_section: "21"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 21"
-generated_at: "2026-03-30T02:54:48.106Z"
+generated_at: "2026-11-23T20:26:14.370Z"
+status: "active"
 ---
 
 # § 1070a–21. Early intervention and college awareness program authorized
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:48.106Z"
       - **(i)** one or more local educational agencies; and
       - **(ii)** one or more degree granting institutions of higher education; and
     - **(B)** which may include not less than two other community organizations or entities, such as businesses, professional organizations, State agencies, institutions or agencies sponsoring programs authorized under subpart 4, or other public or private agencies or organizations.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 404A](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title IV, § 403](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1656](https://www.govinfo.gov/link/statute/112/1656); amended [Pub. L. 110–315, title IV, § 404(a)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3206](https://www.govinfo.gov/link/statute/122/3206).)*

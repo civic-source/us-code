@@ -3,9 +3,10 @@ title: "Section 4354 - Declassification of State Department records"
 usc_title: 22
 usc_section: "4354"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4354"
-generated_at: "2026-03-30T02:55:05.411Z"
+generated_at: "2026-11-23T20:26:32.535Z"
+status: "active"
 ---
 
 # § 4354. Declassification of State Department records
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:05.411Z"
     - **(B)** the degree to which the Department is not in compliance with the deadline set forth in section 4351(c) of this title ; and
     - **(C)** the factors relevant to the inability of the Department to comply with the provisions of this chapter, including section 4351(c) of this title .
   - **(2)** Each report required to be submitted by paragraph (1) shall be submitted in unclassified form, together with a classified annex if necessary.
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title IV, § 404, as added [Pub. L. 102–138, title I, § 198(a)](https://www.govinfo.gov/link/plaw/102/public/138), Oct. 28, 1991, [105 Stat. 687](https://www.govinfo.gov/link/statute/105/687); amended [Pub. L. 107–228, div. A, title II, § 205](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1363](https://www.govinfo.gov/link/statute/116/1363); [Pub. L. 117–81, div. E, title LV, § 5504(2)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2376](https://www.govinfo.gov/link/statute/135/2376).)*

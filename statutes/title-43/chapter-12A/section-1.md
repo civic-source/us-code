@@ -3,12 +3,17 @@ title: "Section 1 - Availability of Colorado River Development Fund for investig
 usc_title: 43
 usc_section: "1"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1"
-generated_at: "2026-03-30T02:55:57.457Z"
+generated_at: "2026-11-23T20:27:06.242Z"
+status: "active"
 ---
 
 # § 618a–1. Availability of Colorado River Development Fund for investigation and construction purposes
 
 The availability of appropriations from the Colorado River Development Fund for the investigation and construction of projects in any of the States of the Colorado River Basin shall not be held to forbid the expenditure of other funds for those purposes in any of those States where such funds are otherwise available therefor.
 
+
+## Source Credit
+
+*(June 1, 1948, ch. 364, § 2, [62 Stat. 285](https://www.govinfo.gov/link/statute/62/285).)*

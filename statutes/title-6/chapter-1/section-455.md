@@ -3,9 +3,10 @@ title: "Section 455 - Miscellaneous authorities"
 usc_title: 6
 usc_section: "455"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 455"
-generated_at: "2026-03-30T02:53:09.464Z"
+generated_at: "2026-11-23T20:25:34.745Z"
+status: "active"
 ---
 
 # § 455. Miscellaneous authorities
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:09.464Z"
   - **(2)** For purposes of this subsection—
     - **(A)** the term “mass killings” means 3 or more killings in a single incident; and
     - **(B)** the term “place of public use” has the meaning given that term under section 2332f(e)(6) of title 18 .
+
+## Source Credit
+
+*([Pub. L. 107–296, title VIII, § 875](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2244](https://www.govinfo.gov/link/statute/116/2244); [Pub. L. 112–265, § 2(b)](https://www.govinfo.gov/link/plaw/112/public/265), Jan. 14, 2013, [126 Stat. 2435](https://www.govinfo.gov/link/statute/126/2435).)*

@@ -3,9 +3,10 @@ title: "Section 510 - Forfeiture of communications devices"
 usc_title: 47
 usc_section: "510"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 510"
-generated_at: "2026-03-30T02:56:24.517Z"
+generated_at: "2026-11-23T20:27:28.918Z"
+status: "active"
 ---
 
 # § 510. Forfeiture of communications devices
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:24.517Z"
   - **(3)** the remission or mitigation of such forfeitures; and
   - **(4)** the compromise of claims with respect to such forfeitures;
 - **(d)** Whenever property is forfeited under this section, the Attorney General of the United States may forward it to the Commission or sell any forfeited property which is not harmful to the public. The proceeds from any such sale shall be deposited in the general fund of the Treasury of the United States.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title V, § 510, as added [Pub. L. 97–259, title I, § 125](https://www.govinfo.gov/link/plaw/97/public/259), Sept. 13, 1982, [96 Stat. 1098](https://www.govinfo.gov/link/statute/96/1098).)*

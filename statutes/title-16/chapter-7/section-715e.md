@@ -3,12 +3,17 @@ title: "Section 715e - Examination of title; easements and reservations"
 usc_title: 16
 usc_section: "715e"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 715e"
-generated_at: "2026-03-30T02:54:22.901Z"
+generated_at: "2026-11-23T20:26:20.246Z"
+status: "active"
 ---
 
 # § 715e. Examination of title; easements and reservations
 
 The Secretary of the Interior may do all things and make all expenditures necessary to secure the safe title in the United States to the areas which may be acquired under this subchapter, but no payment shall be made for any such areas until the title thereto shall be satisfactory to the Attorney General or his designee, but the acquisition of such areas by the United States shall in no case be defeated because of rights-of-way, easements, and reservations which from their nature will in the opinion of the Secretary of the Interior in no manner interfere with the use of the areas so encumbered for the purposes of this subchapter, but such rights-of-way, easements, and reservations retained by the grantor or lessor from whom the United States receives title under this subchapter or any other Act for the acquisition by the Secretary of the Interior of areas for wildlife refuges shall be subject to rules and regulations prescribed by the Secretary of the Interior for the occupation, use, operation, protection, and administration of such areas as inviolate sanctuaries for migratory birds or as refuges for wildlife; and it shall be expressed in the deed or lease that the use, occupation, and operation of such rights-of-way, easements, and reservations shall be subordinate to and subject to such rules and regulations as are set out in such deed or lease or, if deemed necessary by the Secretary of the Interior, to such rules and regulations as may be prescribed by him from time to time.
 
+
+## Source Credit
+
+*(Feb. 18, 1929, ch. 257, § 6, [45 Stat. 1223](https://www.govinfo.gov/link/statute/45/1223); June 15, 1935, ch. 261, title III, § 301, [49 Stat. 381](https://www.govinfo.gov/link/statute/49/381); 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433](https://www.govinfo.gov/link/statute/53/1433); [Pub. L. 91–393, § 6](https://www.govinfo.gov/link/plaw/91/public/393), Sept. 1, 1970, [84 Stat. 835](https://www.govinfo.gov/link/statute/84/835).)*

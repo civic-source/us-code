@@ -3,9 +3,10 @@ title: "Section 727 - Reassignment of senior executives"
 usc_title: 38
 usc_section: "727"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 727"
-generated_at: "2026-03-30T02:55:53.475Z"
+generated_at: "2026-11-23T20:27:01.583Z"
+status: "active"
 ---
 
 # § 727. Reassignment of senior executives
@@ -20,3 +21,13 @@ generated_at: "2026-03-30T02:55:53.475Z"
     - **(C)** Moving expenses.
     - **(D)** A paid incentive.
 - **(c)** In this section, the term “senior executive position” has the meaning given such term in section 713(d) of this title .
+
+Approval of Reassignments
+
+Semiannual Reports Required
+
+Senior Executive Position Defined
+
+## Source Credit
+
+*(Added [Pub. L. 115–188, § 2(a)](https://www.govinfo.gov/link/plaw/115/public/188), June 21, 2018, [132 Stat. 1490](https://www.govinfo.gov/link/statute/132/1490).)*

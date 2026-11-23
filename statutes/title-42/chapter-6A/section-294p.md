@@ -3,9 +3,10 @@ title: "Section 294p - Training for health care providers"
 usc_title: 42
 usc_section: "294p"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 294p"
-generated_at: "2026-03-30T02:56:10.779Z"
+generated_at: "2026-11-23T20:27:20.390Z"
+status: "active"
 ---
 
 # § 294p. Training for health care providers
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:10.779Z"
   - **(2)** Not later than September 30, 2026 , the Secretary shall submit a report to Congress on the activities conducted using grants under subsection (a) and any best practices identified and disseminated under subsection (d).
 - **(d)** The Secretary may identify and disseminate best practices for the training described in subsection (a).
 - **(e)** To carry out this section, there are authorized to be appropriated $5,000,000 for each of fiscal years 2023 through 2027.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 763, as added [Pub. L. 117–103, div. P, title I, § 132](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 795](https://www.govinfo.gov/link/statute/136/795).)*

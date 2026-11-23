@@ -3,9 +3,10 @@ title: "Section 7433 - Assistance to international efforts"
 usc_title: 22
 usc_section: "7433"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7433"
-generated_at: "2026-03-30T02:55:05.440Z"
+generated_at: "2026-11-23T20:26:32.665Z"
+status: "active"
 ---
 
 # § 7433. Assistance to international efforts
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:05.440Z"
 - **(a)** Nothing in this subchapter shall prohibit the United States from rendering assistance to international efforts to bring to justice Saddam Hussein, Slobodan Milosovic, Osama bin Laden, other members of Al Queda, 1 1 So in original. leaders of Islamic Jihad, and other foreign nationals accused of genocide, war crimes or crimes against humanity, or from rendering assistance to the International Criminal Court to assist with investigations and prosecutions of foreign nationals related to the Situation in Ukraine, including to support victims and witnesses.
 - **(b)** Assistance made available pursuant to subsection (a) of this section may be made available notwithstanding section 7401 of this title , except that none of the funds made available pursuant to this subsection may be made available for the purpose of supporting investigations or prosecutions of U.S. servicemembers or other covered United States persons or covered allied persons as such terms are defined in section 7432 of this title .
 - **(c)** The Secretary of State shall notify the Committees on Appropriations, the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives, of any amounts obligated pursuant to subsection (b) not later than 15 days before such obligation is made.
+
+## Source Credit
+
+*([Pub. L. 107–206, title II, § 2015](https://www.govinfo.gov/link/plaw/107/public/206), Aug. 2, 2002, [116 Stat. 909](https://www.govinfo.gov/link/statute/116/909); [Pub. L. 117–328, div. K, title VII, § 7073(b)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5092](https://www.govinfo.gov/link/statute/136/5092).)*

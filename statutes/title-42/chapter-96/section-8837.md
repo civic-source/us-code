@@ -3,9 +3,10 @@ title: "Section 8837 - Commercialization demonstration program pursuant to Feder
 usc_title: 42
 usc_section: "8837"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8837"
-generated_at: "2026-03-30T02:56:11.348Z"
+generated_at: "2026-11-23T20:27:23.065Z"
+status: "active"
 ---
 
 # § 8837. Commercialization demonstration program pursuant to Federal nonnuclear energy research and development
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.348Z"
 - **(c)** Priority for funding of activities under subsection (a) and financial assistance under subsection (b) shall be provided for any activity or project for the demonstration of technologies for the production of liquid fuels or biomass energy which substitute for petroleum or natural gas.
 - **(d)** The Secretary of Energy may not obligate or expend any funds authorized under this chapter in carrying out subsection (b) of this section until the plan required under section 8831(a) of this title has been prepared and submitted to the Congress.
 - **(e)** All amounts received by the Secretary of Energy as fees, interest, repayment of principal, and any other moneys received by the Secretary from operations under this section shall be deposited in the general fund of the Treasury of the United States as miscellaneous receipts.
+
+## Source Credit
+
+*([Pub. L. 96–294, title II, § 237](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 703](https://www.govinfo.gov/link/statute/94/703).)*

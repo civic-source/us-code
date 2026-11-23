@@ -3,9 +3,10 @@ title: "Section 4222 - Block grants for affordable housing activities"
 usc_title: 25
 usc_section: "4222"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 4222"
-generated_at: "2026-03-30T02:54:52.860Z"
+generated_at: "2026-11-23T20:26:25.693Z"
+status: "active"
 ---
 
 # § 4222. Block grants for affordable housing activities
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:52.860Z"
     - **(A)** costs for salaries of individuals engaged in administering and managing affordable housing activities assisted with grant amounts provided under this subchapter; and
     - **(B)** expenses incurred in preparing a housing plan under section 4223 of this title .
 - **(e)** The Director shall make all reasonable efforts, consistent with the purposes of this subchapter, to maximize participation by the private sector, including nonprofit organizations and for-profit entities, in implementing a housing plan that has been approved by the Secretary under section 4223 of this title .
+
+## Source Credit
+
+*([Pub. L. 104–330, title VIII, § 802](https://www.govinfo.gov/link/plaw/104/public/330), as added [Pub. L. 106–568, title II, § 203](https://www.govinfo.gov/link/plaw/106/public/568), Dec. 27, 2000, [114 Stat. 2877](https://www.govinfo.gov/link/statute/114/2877), and [Pub. L. 106–569, title V, § 513](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 2971](https://www.govinfo.gov/link/statute/114/2971).)*

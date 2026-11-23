@@ -3,9 +3,10 @@ title: "Section 617d - Contracts for storage and use of waters for irrigation an
 usc_title: 43
 usc_section: "617d"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 617d"
-generated_at: "2026-03-30T02:55:57.456Z"
+generated_at: "2026-11-23T20:27:06.239Z"
+status: "active"
 ---
 
 # § 617d. Contracts for storage and use of waters for irrigation and domestic purposes; generation and sale of electrical energy
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:57.456Z"
 - **(c)** Applicants for purchase of water and electrical energy; preferences Contracts for the use of water and necessary privileges for the generation and distribution of hydroelectric energy or for the sale and delivery of electrical energy shall be made with responsible applicants therefor who will pay the price fixed by the said Secretary with a view to meeting the revenue requirements herein provided for. In case of conflicting applications, if any, such conflicts shall be resolved by the said Secretary, after hearing, with due regard to the public interest, and in conformity with the policy expressed in the Federal Power Act [ 16 U.S.C. 791a et seq.] as to conflicting applications for permits and licenses, except that preference to applicants for the use of water and appurtenant works and privileges necessary for the generation and distribution of hydroelectric energy, or for delivery at the switchboard of a hydroelectric plant, shall be given, first, to a State for the generation or purchase of electric energy for use in the State, and the States of Arizona, California, and Nevada shall be given equal opportunity as such applicants. The rights covered by such preference shall be contracted for by such State within six months after notice by the Secretary of the Interior and to be paid for on the same terms and conditions as may be provided in other similar contracts made by said Secretary: Provided, however , That no application of a State or a political subdivision for an allocation of water for power purposes or of electrical energy shall be denied or another application in conflict therewith be granted on the ground that the bond issue of such State or political subdivision necessary to enable the applicant to utilize such water and appurtenant works and privileges necessary for the generation and distribution of hydroelectric energy or the electrical energy applied for, has not been authorized or marketed, until after a reasonable time, to be determined by the said Secretary, has been given to such applicant to have such bond issue authorized and marketed.
 - **(d)** Transmission lines for electrical energy; use; rights of way over public and reserved lands Any agency receiving a contract for electrical energy equivalent to one hundred thousand firm horsepower, or more, may, when deemed feasible by the said Secretary, from engineering and economic considerations and under general regulations prescribed by him, be required to permit any other agency having contracts hereunder for less than the equivalent of twenty-five thousand firm horsepower, upon application to the Secretary of the Interior made within sixty days from the execution of the contract of the agency the use of whose transmission line is applied for, to participate in the benefits and use of any main transmission line constructed or to be constructed by the former for carrying such energy (not exceeding, however, one-fourth the capacity of such line), upon payment by such other agencies of a reasonable share of the cost of construction, operation, and maintenance thereof. The use is authorized of such public and reserved lands of the United States as may be necessary or convenient for the construction, operation, and maintenance of main transmission lines to transmit said electrical energy.
 
+
+## Source Credit
+
+*(Dec. 21, 1928, ch. 42, § 5, [45 Stat. 1060](https://www.govinfo.gov/link/statute/45/1060).)*

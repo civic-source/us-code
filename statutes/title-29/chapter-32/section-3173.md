@@ -3,9 +3,10 @@ title: "Section 3173 - Within State allocations"
 usc_title: 29
 usc_section: "3173"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3173"
-generated_at: "2026-03-30T02:55:18.753Z"
+generated_at: "2026-11-23T20:26:38.104Z"
+status: "active"
 ---
 
 # § 3173. Within State allocations
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:55:18.753Z"
   - **(4)** For purposes of this subsection, an eligible local area means—
     - **(A)** with respect to funds allocated through a local allocation for adult employment and training activities, a local area that does not have an amount of such funds available for reallocation under paragraph (2) for the program year for which the determination under paragraph (2) is made; and
     - **(B)** with respect to funds allocated through a local allocation for dislocated worker employment and training activities, a local area that does not have an amount of such funds available for reallocation under paragraph (2) for the program year for which the determination under paragraph (2) is made.
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 133](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1516](https://www.govinfo.gov/link/statute/128/1516).)*

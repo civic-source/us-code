@@ -3,9 +3,10 @@ title: "Section 14511 - Separation at age 64: officers in grade of major general
 usc_title: 10
 usc_section: "14511"
 chapter: 1407
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 14511"
-generated_at: "2026-03-30T02:53:38.276Z"
+generated_at: "2026-11-23T20:25:52.476Z"
+status: "active"
 ---
 
 # § 14511. Separation at age 64: officers in grade of major general or rear admiral and above
@@ -15,3 +16,17 @@ generated_at: "2026-03-30T02:53:38.276Z"
   - **(1)** by the President, but such a deferment may not extend beyond the first day of the month following the month in which the officer becomes 68 years of age; or
   - **(2)** by the Secretary of Defense, but such a deferment may not extend beyond the first day of the month following the month in which the officer becomes 66 years of age.
 - **(c)** This section does not apply to an officer covered by section 14512 of this title .
+
+Separation Required
+
+Exception for Officers Serving in
+
+and
+
+Positions
+
+Exception for Officers Holding Certain Offices
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1611](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2953](https://www.govinfo.gov/link/statute/108/2953); amended [Pub. L. 109–364, div. A, title V, § 503(a)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2178](https://www.govinfo.gov/link/statute/120/2178); [Pub. L. 110–181, div. A, title XVIII, § 1825(a)(1)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 501](https://www.govinfo.gov/link/statute/122/501).)*

@@ -3,9 +3,10 @@ title: "Section 8512 - State emergency conservation plan"
 usc_title: 42
 usc_section: "8512"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8512"
-generated_at: "2026-03-30T02:56:11.343Z"
+generated_at: "2026-11-23T20:27:23.047Z"
+status: "active"
 ---
 
 # § 8512. State emergency conservation plan
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:56:11.343Z"
   - **(1)** Whoever violates the requirements of any measure described in subsection (b)(1)(B) of this section which is in a State plan in effect under this section shall be subject to a civil penalty of not to exceed $1,000 for each violation.
   - **(2)** Any penalty under paragraph (1) may be assessed by the court in any action brought in any appropriate United States district court or any other court of competent jurisdiction. Except to the extent provided in paragraph (3), any such penalty collected shall be deposited into the general fund of the United States Treasury as miscellaneous receipts.
   - **(3)** The Secretary may enter into an agreement with the Governor of any State under which amounts collected pursuant to this subsection may be collected and retained by the State to the extent necessary to cover costs incurred by that State in connection with the administration and enforcement of measures the authority for which is delegated under subsection (d).
+
+## Source Credit
+
+*([Pub. L. 96–102, title II, § 212](https://www.govinfo.gov/link/plaw/96/public/102), Nov. 5, 1979, [93 Stat. 759](https://www.govinfo.gov/link/statute/93/759).)*

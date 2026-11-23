@@ -3,9 +3,10 @@ title: "Section 7903 - Education debt reduction program"
 usc_title: 38
 usc_section: "7903"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7903"
-generated_at: "2026-03-30T02:55:53.536Z"
+generated_at: "2026-11-23T20:27:02.056Z"
+status: "active"
 ---
 
 # § 7903. Education debt reduction program
@@ -29,3 +30,21 @@ generated_at: "2026-03-30T02:55:53.536Z"
 - **(g)** For purposes of subsection (b)(3), costs relating to a course of education or training include—
   - **(1)** tuition expenses; and
   - **(2)** all other reasonable educational expenses, including fees, books, and laboratory expenses.
+
+Authority
+
+Eligibility
+
+Amount of Assistance
+
+Payments
+
+Performance Requirement
+
+Notification of Terms of Provision of Payments
+
+Covered Costs
+
+## Source Credit
+
+*(Added [Pub. L. 109–461, title IX, § 903(a)(1)](https://www.govinfo.gov/link/plaw/109/public/461), Dec. 22, 2006, [120 Stat. 3462](https://www.govinfo.gov/link/statute/120/3462); amended [Pub. L. 111–275, title X, § 1001](https://www.govinfo.gov/link/plaw/111/public/275) (o), Oct. 13, 2010, [124 Stat. 2897](https://www.govinfo.gov/link/statute/124/2897).)*

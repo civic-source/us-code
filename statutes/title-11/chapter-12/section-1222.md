@@ -3,9 +3,10 @@ title: "Section 1222 - Contents of plan"
 usc_title: 11
 usc_section: "1222"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 1222"
-generated_at: "2026-03-30T02:53:53.886Z"
+generated_at: "2026-11-23T20:25:55.421Z"
+status: "active"
 ---
 
 # § 1222. Contents of plan
@@ -31,3 +32,9 @@ generated_at: "2026-03-30T02:53:53.886Z"
   - **(12)** include any other appropriate provision not inconsistent with this title.
 - **(c)** Except as provided in subsections (b)(5) and (b)(9), the plan may not provide for payments over a period that is longer than three years unless the court for cause approves a longer period, but the court may not approve a period that is longer than five years.
 - **(d)** Notwithstanding subsection (b)(2) of this section and sections 506(b) and 1225(a)(5) of this title, if it is proposed in a plan to cure a default, the amount necessary to cure the default, shall be determined in accordance with the underlying agreement and applicable nonbankruptcy law.
+
+“The amendments made by this section [enacting section 1232 of this title and amending this section and sections 1228 and 1229 of this title] shall apply to—
+
+## Source Credit
+
+*(Added and amended [Pub. L. 99–554, title II, § 255](https://www.govinfo.gov/link/plaw/99/public/554), title III, § 302(f), Oct. 27, 1986, [100 Stat. 3109](https://www.govinfo.gov/link/statute/100/3109), 3124; [Pub. L. 103–65, § 1](https://www.govinfo.gov/link/plaw/103/public/65), Aug. 6, 1993, [107 Stat. 311](https://www.govinfo.gov/link/statute/107/311); [Pub. L. 103–394, title III, § 305(b)](https://www.govinfo.gov/link/plaw/103/public/394), Oct. 22, 1994, [108 Stat. 4134](https://www.govinfo.gov/link/statute/108/4134); [Pub. L. 105–277, div. C, title I, § 149(a)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–610](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 106–5, § 1(1)](https://www.govinfo.gov/link/plaw/106/public/5), (2), Mar. 30, 1999, [113 Stat. 9](https://www.govinfo.gov/link/statute/113/9); [Pub. L. 106–70, § 1](https://www.govinfo.gov/link/plaw/106/public/70), Oct. 9, 1999, [113 Stat. 1031](https://www.govinfo.gov/link/statute/113/1031); [Pub. L. 107–8, § 1](https://www.govinfo.gov/link/plaw/107/public/8), May 11, 2001, [115 Stat. 10](https://www.govinfo.gov/link/statute/115/10); [Pub. L. 107–17, § 1](https://www.govinfo.gov/link/plaw/107/public/17), June 26, 2001, [115 Stat. 151](https://www.govinfo.gov/link/statute/115/151); [Pub. L. 107–170, § 1](https://www.govinfo.gov/link/plaw/107/public/170), May 7, 2002, [116 Stat. 133](https://www.govinfo.gov/link/statute/116/133); [Pub. L. 107–171, title X, § 10814(a)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 532](https://www.govinfo.gov/link/statute/116/532); [Pub. L. 107–377, § 2(a)](https://www.govinfo.gov/link/plaw/107/public/377), Dec. 19, 2002, [116 Stat. 3115](https://www.govinfo.gov/link/statute/116/3115); [Pub. L. 108–73, § 2(a)](https://www.govinfo.gov/link/plaw/108/public/73), Aug. 15, 2003, [117 Stat. 891](https://www.govinfo.gov/link/statute/117/891); [Pub. L. 108–369, § 2(a)](https://www.govinfo.gov/link/plaw/108/public/369), Oct. 25, 2004, [118 Stat. 1749](https://www.govinfo.gov/link/statute/118/1749); [Pub. L. 109–8, title II, § 213(3)](https://www.govinfo.gov/link/plaw/109/public/8), (4), title X, §§ 1001(a)(1), (c), 1003(a), Apr. 20, 2005, [119 Stat. 52](https://www.govinfo.gov/link/statute/119/52), 185, 186; [Pub. L. 115–72, div. B, § 1005(b)(1)(A)](https://www.govinfo.gov/link/plaw/115/public/72), Oct. 26, 2017, [131 Stat. 1233](https://www.govinfo.gov/link/statute/131/1233).)*

@@ -3,9 +3,10 @@ title: "Section 2779 - Use of funds because of fluctuations in currency exchange
 usc_title: 10
 usc_section: "2779"
 chapter: 165
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2779"
-generated_at: "2026-03-30T02:53:38.175Z"
+generated_at: "2026-11-23T20:25:51.703Z"
+status: "active"
 ---
 
 # § 2779. Use of funds because of fluctuations in currency exchange rates of foreign countries
@@ -25,3 +26,41 @@ generated_at: "2026-03-30T02:53:38.175Z"
   - **(2)** Any transfer from an appropriation under paragraph (1) shall be made not later than the end of the second fiscal year following the fiscal year for which the appropriation is provided.
   - **(3)** Any transfer made pursuant to the authority provided in this subsection shall be limited so that the amount in the appropriation “Foreign Currency Fluctuations, Defense” does not exceed $970,000,000 at the time the transfer is made.
 - **(e)** Amounts transferred under subsection (c) or (d) shall be merged with and be available for the same purposes and for the same period as the appropriations to which transferred.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 2779(a) | 31:628–2. | July 25, 1979 , Pub. L. 96–38, § 100 (last par. under heading “General Provisions”), 93 Stat. 100 . |
+| 2779(b) | 31:628–3. | Nov. 30, 1979 , Pub. L. 96–130, § 100 (par. under heading “Foreign Currency Fluctuation, Construction, Defense”), 93 Stat. 1019 . |
+
+
+Transfers Back to Foreign Currency Fluctuations Appropriation
+
+Funding for Losses in Military Construction and Family Housing
+
+Transfers to Military Personnel Accounts
+
+Transfers to Foreign Currency Fluctuations Account
+
+Conditions of Availability for Transferred Funds
+
+Historical and Revision Notes
+
+2779(a)
+
+July 25, 1979
+
+Pub. L. 96–38, § 100
+
+93 Stat. 100
+
+2779(b)
+
+Nov. 30, 1979
+
+Pub. L. 96–130, § 100
+
+93 Stat. 1019
+
+## Source Credit
+
+*(Added [Pub. L. 97–258, § 2(b)(8)(B)](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 1056](https://www.govinfo.gov/link/statute/96/1056); amended [Pub. L. 101–510, div. A, title XIII, § 1301(15)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1668](https://www.govinfo.gov/link/statute/104/1668); [Pub. L. 104–106, div. A, title IX, § 911(a)](https://www.govinfo.gov/link/plaw/104/public/106) –(c), (e), Feb. 10, 1996, [110 Stat. 406](https://www.govinfo.gov/link/statute/110/406), 407.)*

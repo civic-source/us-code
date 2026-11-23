@@ -3,9 +3,10 @@ title: "Section 9205 - Technology application programs"
 usc_title: 42
 usc_section: "9205"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9205"
-generated_at: "2026-03-30T02:56:11.351Z"
+generated_at: "2026-11-23T20:27:23.080Z"
+status: "active"
 ---
 
 # § 9205. Technology application programs
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:11.351Z"
   - **(2)** The Secretary is authorized to enter into arrangements with appropriate Federal agencies, including the Water and Power Resources Services and the Federal power marketing agencies for large wind energy systems, to carry out such projects and activities as may be appropriate for the broad technology applications of small and large wind energy systems which are suitable and effective for use by such Federal agencies.
 - **(h)** The terms and conditions prescribed by the Secretary under this subsection shall require such observation, monitoring, and reporting requirements as the Secretary deems necessary for a period of five years and shall provide for members of the public to view and inspect the system under reasonable conditions.
 - **(i)** New Federal assistance for technology applications systems shall terminate upon the appropriate determination by the Secretary, in the annual update of the comprehensive program management plan pursuant to section 9203 of this title . Termination of the small wind energy systems program shall occur when the Secretary finds that such systems have become economically competitive with conventional energy sources, or on September 30, 1985 , whichever occurs first. Termination of the large wind energy systems program shall occur when the Secretary finds that such systems have become economically competitive with conventional energy sources, or on September 30, 1988 , whichever occurs first.
+
+## Source Credit
+
+*([Pub. L. 96–345, § 6](https://www.govinfo.gov/link/plaw/96/public/345), Sept. 8, 1980, [94 Stat. 1142](https://www.govinfo.gov/link/statute/94/1142).)*

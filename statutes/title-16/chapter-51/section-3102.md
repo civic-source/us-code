@@ -3,9 +3,10 @@ title: "Section 3102 - Definitions"
 usc_title: 16
 usc_section: "3102"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3102"
-generated_at: "2026-03-30T02:54:23.008Z"
+generated_at: "2026-11-23T20:26:20.625Z"
+status: "active"
 ---
 
 # § 3102. Definitions
@@ -33,3 +34,17 @@ As used in this Act (except that in titles IX and XIV the following terms shall 
   - **(16)** The term “Alaska Native” or “Native” has the same meaning as the term “Native” has in section 3(b) of the Alaska Native Claims Settlement Act [ 43 U.S.C. 1602(b) ].
   - **(17)** The term “fish and wildlife” means any member of the animal kingdom, including without limitation any mammal, fish, bird (including any migratory, nonmigratory or endangered bird for which protection is also afforded by treaty or other international agreement), amphibian, reptile, mollusk, crustacean, arthropod or other invertebrate, and includes any part, product, egg, or offspring thereof, or the dead body or part thereof.
   - **(18)** The term “take” or “taking” as used with respect to fish or wildlife, means to pursue, hunt, shoot, trap, net capture, collect, kill, harm, or attempt to engage in any such conduct.
+
+“No provision of this section [amending this section and sections 3111, 3113 to 3115, 3117, 3124, and 3125 of this title and enacting provisions set out as notes under this section], amendment made by this section, or exercise of authority pursuant to this section may be construed to validate, invalidate, or in any way affect—
+
+Subsection
+
+Repealed.—
+
+Technical Amendments to the Alaska National Interest Lands Conservation Act
+
+Effect on Tidal and Submerged Land
+
+## Source Credit
+
+*([Pub. L. 96–487, title I, § 102](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2375](https://www.govinfo.gov/link/statute/94/2375); [Pub. L. 105–83, title III, § 316(b)(2)](https://www.govinfo.gov/link/plaw/105/public/83), (d), Nov. 14, 1997, [111 Stat. 1592](https://www.govinfo.gov/link/statute/111/1592), 1595.)*

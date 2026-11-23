@@ -3,9 +3,10 @@ title: "Section 12184 - Availability of lines of credit and use"
 usc_title: 34
 usc_section: "12184"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12184"
-generated_at: "2026-03-30T02:55:33.284Z"
+generated_at: "2026-11-23T20:26:50.539Z"
+status: "active"
 ---
 
 # § 12184. Availability of lines of credit and use
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:33.284Z"
   - **(3)** Notwithstanding paragraphs (1) and (2), if a recipient of a line of credit under this subpart has made full and productive use of such line of credit, can demonstrate the need and demand for additional assistance, and can meet the requirements of section 12182(b)(2) of this title , the amount of such line of credit may be increased by not more than $1,500,000.
 - **(c)** Amounts drawn from each line of credit under this subpart shall be used solely for the purposes described in section 12181 of this title and shall only be drawn down as needed to provide loans, investments, or to defray administrative costs related to the establishment of a revolving loan fund.
 - **(d)** Revolving loan funds established with lines of credit provided under this subpart may be used to provide technical assistance to private business enterprises and to provide financial assistance in the form of loans, loan guarantees, interest reduction assistance, equity shares, and other such forms of assistance to business enterprises in target areas and who are in compliance with section 12183(a)(4) of this title .
+
+## Source Credit
+
+*([Pub. L. 103–322, title III, § 31114](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1884](https://www.govinfo.gov/link/statute/108/1884).)*

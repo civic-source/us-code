@@ -3,9 +3,10 @@ title: "Section 1645d - Claims based on ownership interest in or debt or other o
 usc_title: 22
 usc_section: "1645d"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 1645d"
-generated_at: "2026-03-30T02:55:05.337Z"
+generated_at: "2026-11-23T20:26:32.140Z"
+status: "active"
 ---
 
 # § 1645d. Claims based on ownership interest in or debt or other obligation owing by corporations or other legal entities
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:05.337Z"
 - **(b)** A claim under section 1645b of this title based upon a direct ownership interest in a corporation, association, or other entity may be considered, subject to the other provisions of this subchapter, if such corporation, association, or other entity on the date of the loss was not a national of the United States, without regard to the per centum of ownership vested in the claimant.
 - **(c)** A claim under section 1645b of this title based upon an indirect ownership interest in a corporation, association, or other entity may be considered, subject to the other provisions of this subchapter, only if at least 25 per centum of the entire ownership interest thereof, at the time of such loss, was vested in nationals of the United States or if, at the time of the loss, nationals of the United States in fact controlled the corporation, association, or entity, as determined by the Commission.
 - **(d)** The amount of any claim covered by subsection (b) or (c) of this section shall be calculated on the basis of the total loss suffered by the corporation, association, or other entity, with respect to which the claim is made, and shall bear the same proportion to such loss as the ownership interest of the claimant at the time of loss bears to the entire ownership interest thereof.
+
+## Source Credit
+
+*(Mar. 10, 1950, ch. 54, title VII, § 705, as added [Pub. L. 96–606](https://www.govinfo.gov/link/plaw/96/public/606), Dec. 28, 1980, [94 Stat. 3535](https://www.govinfo.gov/link/statute/94/3535).)*

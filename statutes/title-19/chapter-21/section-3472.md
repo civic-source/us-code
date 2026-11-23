@@ -3,9 +3,10 @@ title: "Section 3472 - Agreement on Environmental Cooperation"
 usc_title: 19
 usc_section: "3472"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3472"
-generated_at: "2026-03-30T02:54:24.690Z"
+generated_at: "2026-11-23T20:26:11.041Z"
+status: "active"
 ---
 
 # § 3472. Agreement on Environmental Cooperation
@@ -16,3 +17,23 @@ generated_at: "2026-03-30T02:54:24.690Z"
 - **(b)** As used in this section—
   - **(1)** the term “Commission for Environmental Cooperation” means the commission established by Part Three of the North American Agreement on Environmental Cooperation; and
   - **(2)** the term “North American Agreement on Environmental Cooperation” means the North American Agreement on Environmental Cooperation Between the Government of the United States of America, the Government of Canada, and the Government of the United Mexican States (signed at Mexico City, Washington, and Ottawa on September 8, 9, 12, and 14, 1993).
+
+In general
+
+Provisions specified
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+William J. Clinton.
+
+## Source Credit
+
+*([Pub. L. 103–182, title V, § 532](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2164](https://www.govinfo.gov/link/statute/107/2164); [Pub. L. 116–113, title VI, § 601](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 78](https://www.govinfo.gov/link/statute/134/78); [Pub. L. 116–260, div. O, title VI, § 601(a)(1)](https://www.govinfo.gov/link/plaw/116/public/260), (2), Dec. 27, 2020, [134 Stat. 2149](https://www.govinfo.gov/link/statute/134/2149).)*

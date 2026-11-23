@@ -3,9 +3,10 @@ title: "Section 3232a - Measures to mitigate counterintelligence threats from pr
 usc_title: 50
 usc_section: "3232a"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3232a"
-generated_at: "2026-03-30T02:56:26.239Z"
+generated_at: "2026-11-23T20:27:30.942Z"
+status: "active"
 ---
 
 # § 3232a. Measures to mitigate counterintelligence threats from proliferation and use of foreign commercial spyware
@@ -75,3 +76,33 @@ generated_at: "2026-03-30T02:56:26.239Z"
       - **(v)** and any other considerations contributing to the determination, made by the Director of National Intelligence.
     - **(D)** The Director of National Intelligence may revoke a previously granted waiver at any time. Upon revocation of a waiver, the Director of National Intelligence shall submit a written notification to the congressional intelligence committees, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives not later than 30 days after making a revocation determination.
   - **(5)** The Director of National Intelligence may terminate a prohibition made under paragraph (1) or (2) at any time. Upon termination of a prohibition, the Director of National Intelligence shall submit a notification of the termination to the congressional intelligence committees, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives not later than 30 days after terminating a prohibition, detailing the basis for the termination, including any United States national security interests that may be affected by such termination.
+
+Requirement
+
+Form
+
+Counterintelligence notifications
+
+“In this section:
+
+Covered device
+
+Foreign commercial spyware; foreign company; spyware
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+J.R. Biden, Jr.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title XI, § 1102A, as added [Pub. L. 117–263, div. F, title LXIII, § 6318(c)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3515](https://www.govinfo.gov/link/statute/136/3515); amended [Pub. L. 118–31, div. G, title IX, § 7901(a)(4)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1106](https://www.govinfo.gov/link/statute/137/1106); [Pub. L. 118–159, div. F, title LXIX, § 6902(a)(3)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2517](https://www.govinfo.gov/link/statute/138/2517); [Pub. L. 119–60, div. F, title LXVIII, § 6801(a)(5)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1653](https://www.govinfo.gov/link/statute/139/1653).)*

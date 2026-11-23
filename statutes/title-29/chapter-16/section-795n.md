@@ -3,9 +3,10 @@ title: "Section 795n - Advisory Committee on Increasing Competitive Integrated E
 usc_title: 29
 usc_section: "795n"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 795n"
-generated_at: "2026-03-30T02:55:18.699Z"
+generated_at: "2026-11-23T20:26:37.879Z"
+status: "active"
 ---
 
 # § 795n. Advisory Committee on Increasing Competitive Integrated Employment for Individuals with Disabilities
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:55:18.699Z"
     - **(A)** in the case of the interim report, not later than 1 year after the date on which the Committee is established under subsection (a); and
     - **(B)** in the case of the final report, not later than 2 years after the date on which the Committee is established under subsection (a).
 - **(i)** The Committee shall terminate on the day after the date on which the Committee submits the final report.
+
+## Source Credit
+
+*([Pub. L. 93–112, title VI, § 609](https://www.govinfo.gov/link/plaw/93/public/112), as added [Pub. L. 113–128, title IV, § 461(11)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1682](https://www.govinfo.gov/link/statute/128/1682).)*

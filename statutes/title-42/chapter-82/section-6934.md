@@ -3,9 +3,10 @@ title: "Section 6934 - Monitoring, analysis, and testing"
 usc_title: 42
 usc_section: "6934"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6934"
-generated_at: "2026-03-30T02:56:11.273Z"
+generated_at: "2026-11-23T20:27:22.738Z"
+status: "active"
 ---
 
 # § 6934. Monitoring, analysis, and testing
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.273Z"
   - **(2)** No order may be issued under this subsection requiring reimbursement of the costs of any action carried out by the Administrator which confirms the results of an order issued under subsection (a) or (b).
   - **(3)** For purposes of carrying out this subsection, the Administrator or any authority or other person authorized under paragraph (1), may exercise the authorities set forth in section 6927 of this title .
 - **(e)** The Administrator may commence a civil action against any person who fails or refuses to comply with any order issued under this section. Such action shall be brought in the United States district court in which the defendant is located, resides, or is doing business. Such court shall have jurisdiction to require compliance with such order and to assess a civil penalty of not to exceed $5,000 for each day during which such failure or refusal occurs.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 3013](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 96–482, § 17(a)](https://www.govinfo.gov/link/plaw/96/public/482), Oct. 21, 1980, [94 Stat. 2344](https://www.govinfo.gov/link/statute/94/2344).)*

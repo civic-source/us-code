@@ -3,9 +3,10 @@ title: "Section 1303 - Operation of corporation"
 usc_title: 29
 usc_section: "1303"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1303"
-generated_at: "2026-03-30T02:55:18.728Z"
+generated_at: "2026-11-23T20:26:38.009Z"
+status: "active"
 ---
 
 # § 1303. Operation of corporation
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:55:18.728Z"
     - **(C)** In the case of fraud or concealment, the period described in subparagraph (A)(ii) shall be extended to 6 years after the applicable date specified in subparagraph (B).
   - **(6)** The district courts of the United States have jurisdiction of actions brought under this subsection without regard to the amount in controversy.
   - **(7)** In any suit, action, or proceeding in which the corporation is a party, or intervenes under section 1451 of this title , in any State court, the corporation may, without bond or security, remove such suit, action, or proceeding from the State court to the United States district court for the district or division in which such suit, action, or proceeding is pending by following any procedure for removal now or hereafter in effect.
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4003](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 1006](https://www.govinfo.gov/link/statute/88/1006); [Pub. L. 96–364, title IV](https://www.govinfo.gov/link/plaw/96/public/364), §§ 402(a)(2), 403(k), Sept. 26, 1980, [94 Stat. 1297](https://www.govinfo.gov/link/statute/94/1297), 1302; [Pub. L. 98–620, title IV, § 402(33)](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3360](https://www.govinfo.gov/link/statute/98/3360); [Pub. L. 99–272, title XI](https://www.govinfo.gov/link/plaw/99/public/272), §§ 11014(b)(1), (2), 11016(c)(5), Apr. 7, 1986, [100 Stat. 262](https://www.govinfo.gov/link/statute/100/262), 264, 274; [Pub. L. 103–465, title VII](https://www.govinfo.gov/link/plaw/103/public/465), §§ 773(a), 776(b)(1), Dec. 8, 1994, [108 Stat. 5044](https://www.govinfo.gov/link/statute/108/5044), 5048; [Pub. L. 109–280, title I, § 108(b)(2)](https://www.govinfo.gov/link/plaw/109/public/280), formerly § 107(b)(2), title IV, § 411(a)(2), Aug. 17, 2006, [120 Stat. 819](https://www.govinfo.gov/link/statute/120/819), 935, renumbered [Pub. L. 111–192, title II, § 202(a)](https://www.govinfo.gov/link/plaw/111/public/192), June 25, 2010, [124 Stat. 1297](https://www.govinfo.gov/link/statute/124/1297); [Pub. L. 113–97, title I, § 102(b)(7)](https://www.govinfo.gov/link/plaw/113/public/97), Apr. 7, 2014, [128 Stat. 1117](https://www.govinfo.gov/link/statute/128/1117); [Pub. L. 113–235, div. O, title II, § 201(a)(7)(C)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2810](https://www.govinfo.gov/link/statute/128/2810).)*

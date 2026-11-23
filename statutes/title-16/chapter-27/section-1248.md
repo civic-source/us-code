@@ -3,9 +3,10 @@ title: "Section 1248 - Easements and rights-of-way"
 usc_title: 16
 usc_section: "1248"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1248"
-generated_at: "2026-03-30T02:54:22.947Z"
+generated_at: "2026-11-23T20:26:20.422Z"
+status: "active"
 ---
 
 # § 1248. Easements and rights-of-way
@@ -30,3 +31,9 @@ generated_at: "2026-03-30T02:54:22.947Z"
 - **(f)** As used in this section—
   - **(1)** The term “conservation system unit” has the same meaning given such term in the Alaska National Interest Lands Conservation Act ( Public Law 96–487 ; 94 Stat. 2371 et seq.), except that such term shall also include units outside Alaska.
   - **(2)** The term “public lands” has the same meaning given such term in the Federal Land Policy and Management Act of 1976 [ 43 U.S.C. 1701 et seq.].
+
+“Congress hereby finds that—
+
+## Source Credit
+
+*([Pub. L. 90–543, § 9](https://www.govinfo.gov/link/plaw/90/public/543), Oct. 2, 1968, [82 Stat. 925](https://www.govinfo.gov/link/statute/82/925); [Pub. L. 95–91, title III, § 301(b)](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 578](https://www.govinfo.gov/link/statute/91/578); [Pub. L. 100–470, § 3](https://www.govinfo.gov/link/plaw/100/public/470), Oct. 4, 1988, [102 Stat. 2281](https://www.govinfo.gov/link/statute/102/2281); [Pub. L. 104–88, title III, § 317(2)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 949](https://www.govinfo.gov/link/statute/109/949); [Pub. L. 113–287, § 5(d)(25)](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3266](https://www.govinfo.gov/link/statute/128/3266).)*

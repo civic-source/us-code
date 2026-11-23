@@ -3,12 +3,17 @@ title: "Section 889 - Rights of entrymen whose entries had not been admitted to 
 usc_title: 43
 usc_section: "889"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 889"
-generated_at: "2026-03-30T02:55:57.464Z"
+generated_at: "2026-11-23T20:27:06.259Z"
+status: "active"
 ---
 
 # § 889. Rights of entrymen whose entries had not been admitted to record
 
 The privileges granted by section 888 of this title are extended (subject to the provisos, limitations, and restrictions thereof) to all persons entitled to the right of homestead or preemption under the laws of the United States, who have resided upon and improved for five years lands granted to any railroad company, but whose entries or filings have not for any cause been admitted to record.
 
+
+## Source Credit
+
+*(Aug. 29, 1890, ch. 819, [26 Stat. 369](https://www.govinfo.gov/link/statute/26/369).)*

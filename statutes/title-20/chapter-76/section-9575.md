@@ -3,9 +3,10 @@ title: "Section 9575 - Performance management"
 usc_title: 20
 usc_section: "9575"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 9575"
-generated_at: "2026-03-30T02:54:48.230Z"
+generated_at: "2026-11-23T20:26:14.996Z"
+status: "active"
 ---
 
 # § 9575. Performance management
@@ -18,3 +19,7 @@ The Director shall ensure that all activities conducted or supported by the Inst
   - **(4)** Establishing and measuring performance against a set of indicators for the quality of data collected, analyzed, and reported.
   - **(5)** Continuously improving management strategies and practices.
   - **(6)** Making information available to the public in an expeditious fashion.
+
+## Source Credit
+
+*([Pub. L. 107–279, title I, § 185](https://www.govinfo.gov/link/plaw/107/public/279), Nov. 5, 2002, [116 Stat. 1972](https://www.govinfo.gov/link/statute/116/1972).)*

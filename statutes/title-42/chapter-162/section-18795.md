@@ -3,9 +3,10 @@ title: "Section 18795 - Home energy performance-based, whole-house rebates"
 usc_title: 42
 usc_section: "18795"
 chapter: 162
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18795"
-generated_at: "2026-03-30T02:56:11.530Z"
+generated_at: "2026-11-23T20:27:23.831Z"
+status: "active"
 ---
 
 # § 18795. Home energy performance-based, whole-house rebates
@@ -67,3 +68,7 @@ generated_at: "2026-03-30T02:56:11.530Z"
   - **(1)** The term “disadvantaged community” means a community that the Secretary determines, based on appropriate data, indices, and screening tools, is economically, socially, or environmentally disadvantaged.
   - **(2)** The term “HOMES rebate program” means a Home Owner Managing Energy Savings rebate program established by a State energy office as part of an approved State energy conservation plan under the State Energy Program.
   - **(3)** The term “low- or moderate-income household” means an individual or family the total annual income of which is less than 80 percent of the median income of the area in which the individual or family resides, as reported by the Department of Housing and Urban Development, including an individual or family that has demonstrated eligibility for another Federal program with income restrictions equal to or below 80 percent of area median income.
+
+## Source Credit
+
+*([Pub. L. 117–169, title V, § 50121](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 2033](https://www.govinfo.gov/link/statute/136/2033).)*

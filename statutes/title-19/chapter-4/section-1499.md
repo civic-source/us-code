@@ -3,9 +3,10 @@ title: "Section 1499 - Examination of merchandise"
 usc_title: 19
 usc_section: "1499"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1499"
-generated_at: "2026-03-30T02:54:24.638Z"
+generated_at: "2026-11-23T20:26:10.783Z"
+status: "active"
 ---
 
 # § 1499. Examination of merchandise
@@ -55,3 +56,7 @@ generated_at: "2026-03-30T02:54:24.638Z"
     - **(A)** The failure by the Customs Service to make a final determination with respect to the admissibility of detained merchandise within 30 days after the merchandise has been presented for customs examination, or such longer period if specifically authorized by law, shall be treated as a decision of the Customs Service to exclude the merchandise for purposes of section 1514(a)(4) of this title .
     - **(B)** For purposes of section 1581 of title 28 , a protest against the decision to exclude the merchandise which has not been allowed or denied in whole or in part before the 30th day after the day on which the protest was filed shall be treated as having been denied on such 30th day.
     - **(C)** Notwithstanding section 2639 of title 28 , once an action respecting a detention is commenced, unless the Customs Service establishes by a preponderance of the evidence that an admissibility decision has not been reached for good cause, the court shall grant the appropriate relief which may include, but is not limited to, an order to cancel the detention and release the merchandise.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 499, [46 Stat. 728](https://www.govinfo.gov/link/statute/46/728); June 25, 1938, ch. 679, §§ 15, 16(a), [52 Stat. 1084](https://www.govinfo.gov/link/statute/52/1084); [Pub. L. 91–271, title III, § 301(k)](https://www.govinfo.gov/link/plaw/91/public/271), June 2, 1970, [84 Stat. 289](https://www.govinfo.gov/link/statute/84/289); [Pub. L. 103–182, title VI, § 613(a)](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2171](https://www.govinfo.gov/link/statute/107/2171).)*

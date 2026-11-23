@@ -3,9 +3,10 @@ title: "Section 1059f - Native American-serving, nontribal institutions"
 usc_title: 20
 usc_section: "1059f"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1059f"
-generated_at: "2026-03-30T02:54:48.100Z"
+generated_at: "2026-11-23T20:26:14.341Z"
+status: "active"
 ---
 
 # § 1059f. Native American-serving, nontribal institutions
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:54:48.100Z"
     - **(B)** Section 1059(d) of this title shall not apply to institutions that are eligible to receive funds under this section.
     - **(C)** In awarding grants under this section, the Secretary shall, to the extent possible and consistent with the competitive process under which such grants are awarded, ensure maximum and equitable distribution among all eligible institutions.
     - **(D)** The minimum amount of a grant under this section shall be $200,000.
+
+## Source Credit
+
+*([Pub. L. 89–329, title III, § 319](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title III, § 306](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3173](https://www.govinfo.gov/link/statute/122/3173).)*

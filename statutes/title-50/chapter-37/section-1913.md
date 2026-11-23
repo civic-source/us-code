@@ -3,9 +3,10 @@ title: "Section 1913 - National Language Service Corps"
 usc_title: 50
 usc_section: "1913"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 1913"
-generated_at: "2026-03-30T02:56:26.216Z"
+generated_at: "2026-11-23T20:27:30.811Z"
+status: "active"
 ---
 
 # § 1913. National Language Service Corps
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:26.216Z"
 - **(d)** The Secretary may provide members of the Corps such training as the Secretary prescribes for purposes of this section.
 - **(e)** Upon a determination that it is in the national interests of the United States, the Secretary shall call upon members of the Corps to provide foreign language services to the Department of Defense or another department or agency of the United States. If a member of the Corps is, as of the time of such determination, employed by or performing under a contract for an element of another Federal agency, the Secretary shall first obtain the concurrence of the head of that agency.
 - **(f)** The Secretary may impose fees, in amounts up to full-cost recovery, for language services and technical assistance rendered by members of the Corps. Amounts of fees received under this section shall be credited to the account of the Department providing funds for any costs incurred by the Department in connection with the Corps. Amounts so credited to such account shall be merged with amounts in such account, and shall be available to the same extent, and subject to the same conditions and limitations, as amounts in such account. Any amounts so credited shall remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 102–183, title VIII, § 813](https://www.govinfo.gov/link/plaw/102/public/183), as added [Pub. L. 112–239, div. A, title IX, § 954(a)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1895](https://www.govinfo.gov/link/statute/126/1895).)*

@@ -3,9 +3,10 @@ title: "Section 1601 - Congressional statement of findings; “materials” defi
 usc_title: 30
 usc_section: "1601"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1601"
-generated_at: "2026-03-30T02:55:29.406Z"
+generated_at: "2026-11-23T20:26:35.051Z"
+status: "active"
 ---
 
 # § 1601. Congressional statement of findings; “materials” defined
@@ -21,3 +22,61 @@ generated_at: "2026-03-30T02:55:29.406Z"
 - **(b)** In this chapter:
   - **(1)** The term “critical mineral” means any mineral, element, substance, or material designated as critical by the Secretary under section 1606(c) of this title .
   - **(2)** The term “materials” means substances, including minerals, of current or potential use that will be needed to supply the industrial, military, and essential civilian needs of the United States in the production of goods or services, including those which are primarily imported or for which there is a prospect of shortages or uncertain supply, or which present opportunities in terms of new physical properties, use, recycling, disposal or substitution, with the exclusion of food and of energy fuels used as such.
+
+Definitions
+
+Critical mineral
+
+Materials
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Donald J. Trump.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 96–479, § 2](https://www.govinfo.gov/link/plaw/96/public/479), Oct. 21, 1980, [94 Stat. 2305](https://www.govinfo.gov/link/statute/94/2305); [Pub. L. 116–260, div. Z, title VII, § 7002(b)(2)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2563](https://www.govinfo.gov/link/statute/134/2563).)*

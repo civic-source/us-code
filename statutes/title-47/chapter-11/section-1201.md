@@ -3,9 +3,10 @@ title: "Section 1201 - Federal Communications Commission duties"
 usc_title: 47
 usc_section: "1201"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 1201"
-generated_at: "2026-03-30T02:56:24.530Z"
+generated_at: "2026-11-23T20:27:28.982Z"
+status: "active"
 ---
 
 # § 1201. Federal Communications Commission duties
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:56:24.530Z"
     - **(B)** the release to a government agency or entity, public safety, fire service, law enforcement official, emergency medical service, or emergency facility of subscriber information used in connection with delivering such an alert.
   - **(2)** The election by a commercial mobile service provider under subsection (b)(2)(A) not to transmit emergency alerts, or to withdraw its election to transmit such alerts under subsection (b)(2)(D) shall not, by itself, provide a basis for liability against the provider (including its officers, directors, employees, vendors, and agents).
 - **(f)** The Commission shall require by regulation technical testing for commercial mobile service providers that elect to transmit emergency alerts and for the devices and equipment used by such providers for transmitting such alerts.
+
+## Source Credit
+
+*([Pub. L. 109–347, title VI, § 602](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1936](https://www.govinfo.gov/link/statute/120/1936); [Pub. L. 116–283, div. H, title XCII, § 9201(a)(1)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4785](https://www.govinfo.gov/link/statute/134/4785).)*

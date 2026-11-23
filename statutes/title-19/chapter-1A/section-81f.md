@@ -3,9 +3,10 @@ title: "Section 81f - Application for establishment and expansion of zone"
 usc_title: 19
 usc_section: "81f"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 81f"
-generated_at: "2026-03-30T02:54:24.625Z"
+generated_at: "2026-11-23T20:26:10.720Z"
+status: "active"
 ---
 
 # § 81f. Application for establishment and expansion of zone
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:24.625Z"
   - **(4)** The methods proposed to finance the undertaking;
   - **(5)** Such other information as the Board may require.
 - **(b)** The Board may upon its own initiative or upon request permit the amendment of the application. Any expansion of the area of an established zone shall be made and approved in the same manner as an original application.
+
+## Source Credit
+
+*(June 18, 1934, ch. 590, § 6, [48 Stat. 1000](https://www.govinfo.gov/link/statute/48/1000).)*

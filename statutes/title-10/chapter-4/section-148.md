@@ -3,9 +3,10 @@ title: "Section 148 - Joint Energetics Transition Office"
 usc_title: 10
 usc_section: "148"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 148"
-generated_at: "2026-03-30T02:53:38.038Z"
+generated_at: "2026-11-23T20:25:50.832Z"
+status: "active"
 ---
 
 # § 148. Joint Energetics Transition Office
@@ -46,3 +47,17 @@ generated_at: "2026-03-30T02:53:38.038Z"
   - **(2)** are capable of being used as explosives, propellants, pyrotechnics, and reactive materials that—
     - **(A)** create lethal effects in warheads in kinetic weapons components and systems; or
     - **(B)** increase propellant performance in a weapon propulsion system as related to lethal effects, range, or speed.
+
+In General
+
+Leadership and Administration.—
+
+Responsibilities
+
+Budgeting and Funding Requirements.—
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title II, § 241(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 205](https://www.govinfo.gov/link/statute/137/205); amended [Pub. L. 118–159, div. A, title II, § 211](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1823](https://www.govinfo.gov/link/statute/138/1823); [Pub. L. 119–60, div. A, title II, § 251](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 800](https://www.govinfo.gov/link/statute/139/800).)*

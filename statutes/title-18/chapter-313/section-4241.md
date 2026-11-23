@@ -3,9 +3,10 @@ title: "Section 4241 - Determination of mental competency to stand trial to unde
 usc_title: 18
 usc_section: "4241"
 chapter: 313
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 4241"
-generated_at: "2026-03-30T02:54:16.528Z"
+generated_at: "2026-11-23T20:26:08.789Z"
+status: "active"
 ---
 
 # § 4241. Determination of mental competency to stand trial to undergo postrelease proceedings 1 1 So in original. Probably should be “stand trial or to undergo postrelease proceedings”.
@@ -20,3 +21,19 @@ generated_at: "2026-03-30T02:54:16.528Z"
     - **(B)** the pending charges against him are disposed of according to law;
 - **(e)** When the director of the facility in which a defendant is hospitalized pursuant to subsection (d) determines that the defendant has recovered to such an extent that he is able to understand the nature and consequences of the proceedings against him and to assist properly in his defense, he shall promptly file a certificate to that effect with the clerk of the court that ordered the commitment. The clerk shall send a copy of the certificate to the defendant’s counsel and to the attorney for the Government. The court shall hold a hearing, conducted pursuant to the provisions of section 4247(d), to determine the competency of the defendant. If, after the hearing, the court finds by a preponderance of the evidence that the defendant has recovered to such an extent that he is able to understand the nature and consequences of the proceedings against him and to assist properly in his defense, the court shall order his immediate discharge from the facility in which he is hospitalized and shall set the date for trial or other proceedings. Upon discharge, the defendant is subject to the provisions of chapters 207 and 227.
 - **(f)** A finding by the court that the defendant is mentally competent to stand trial shall not prejudice the defendant in raising the issue of his insanity as a defense to the offense charged, and shall not be admissible as evidence in a trial for the offense charged.
+
+Motion To Determine Competency of Defendant
+
+Psychiatric or Psychological Examination and Report
+
+Hearing
+
+Determination and Disposition
+
+Discharge
+
+Admissibility of Finding of Competency
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 855](https://www.govinfo.gov/link/statute/62/855); [Pub. L. 98–473, title II, § 403(a)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2057](https://www.govinfo.gov/link/statute/98/2057); [Pub. L. 109–248, title III, § 302(2)](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 619](https://www.govinfo.gov/link/statute/120/619).)*

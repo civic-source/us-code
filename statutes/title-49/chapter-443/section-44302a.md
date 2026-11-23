@@ -3,9 +3,10 @@ title: "Section 44302a - Temporary insurance"
 usc_title: 49
 usc_section: "44302a"
 chapter: 443
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44302a"
-generated_at: "2026-03-30T02:56:19.380Z"
+generated_at: "2026-11-23T20:27:35.132Z"
+status: "active"
 ---
 
 # § 44302a. Temporary insurance
@@ -21,3 +22,15 @@ generated_at: "2026-03-30T02:56:19.380Z"
 - **(d)** A policy for insurance or reinsurance provided under this section—
   - **(1)** shall be exempt from the requirements of section 44302(c); and
   - **(2)** may provide coverage to the extent allowed under section 44303, as determined by the Secretary, notwithstanding any determination by the President in subsection (a)(1) of such section.
+
+In General
+
+Restrictions
+
+Premium
+
+Approval
+
+## Source Credit
+
+*(Added [Pub. L. 117–328, div. Q, § 103(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5252](https://www.govinfo.gov/link/statute/136/5252).)*

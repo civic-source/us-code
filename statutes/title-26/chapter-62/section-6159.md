@@ -3,9 +3,10 @@ title: "Section 6159 - Agreements for payment of tax liability in installments"
 usc_title: 26
 usc_section: "6159"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6159"
-generated_at: "2026-03-30T02:55:27.843Z"
+generated_at: "2026-11-23T20:26:46.581Z"
+status: "active"
 ---
 
 # § 6159. Agreements for payment of tax liability in installments
@@ -41,3 +42,11 @@ generated_at: "2026-03-30T02:55:27.843Z"
     - **(A)** if the taxpayer has agreed to make payments under the installment agreement by electronic payment through a debit instrument, no fee shall be imposed on an installment agreement under this section, and
     - **(B)** if the taxpayer is unable to make payments under the installment agreement by electronic payment through a debit instrument, the Secretary shall, upon completion of the installment agreement, pay the taxpayer an amount equal to any such fees imposed.
 - **(g)** For rights to administrative review and appeal, see section 7122(e).
+
+In general
+
+Notice
+
+## Source Credit
+
+*(Added [Pub. L. 100–647, title VI, § 6234(a)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3735](https://www.govinfo.gov/link/statute/102/3735); amended [Pub. L. 104–168, title II](https://www.govinfo.gov/link/plaw/104/public/168), §§ 201(a), (b), 202(a), July 30, 1996, [110 Stat. 1456](https://www.govinfo.gov/link/statute/110/1456), 1457; [Pub. L. 105–206, title III](https://www.govinfo.gov/link/plaw/105/public/206), §§ 3462(c)(2), 3467(a), July 22, 1998, [112 Stat. 766](https://www.govinfo.gov/link/statute/112/766), 769; [Pub. L. 105–277, div. J, title IV, § 4002(g)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–907](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 108–357, title VIII, § 843(a)](https://www.govinfo.gov/link/plaw/108/public/357), (b), Oct. 22, 2004, [118 Stat. 1600](https://www.govinfo.gov/link/statute/118/1600); [Pub. L. 109–222, title V, § 509(c)](https://www.govinfo.gov/link/plaw/109/public/222), May 17, 2006, [120 Stat. 363](https://www.govinfo.gov/link/statute/120/363); [Pub. L. 115–123, div. D, title II, § 41105(a)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 157](https://www.govinfo.gov/link/statute/132/157).)*

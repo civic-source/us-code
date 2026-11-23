@@ -3,9 +3,10 @@ title: "Section 2152c - Programs to encourage good governance"
 usc_title: 22
 usc_section: "2152c"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2152c"
-generated_at: "2026-03-30T02:55:05.347Z"
+generated_at: "2026-11-23T20:26:32.180Z"
+status: "active"
 ---
 
 # § 2152c. Programs to encourage good governance
@@ -32,3 +33,11 @@ generated_at: "2026-03-30T02:55:05.347Z"
 - **(c)** Projects and activities under the programs established pursuant to subsection (a) may include, among other things, training and technical assistance (including drafting of anti-corruption, privatization, and competitive statutory and administrative codes), drafting of anti-corruption, privatization, and competitive statutory and administrative codes, support for independent media and publications, financing of the program and operating costs of nongovernmental organizations that carry out such projects or activities, and assistance for travel of individuals to the United States and other countries for such projects and activities.
 - **(d)**
 - **(e)** Amounts made available to carry out the other provisions of subchapter I of this chapter (including part IV of subchapter II of this chapter) and the Support for East European Democracy (SEED) Act of 1989 [ 22 U.S.C. 5401 et seq.] shall be made available to carry out this section.
+
+Findings
+
+Purpose
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 133, as added [Pub. L. 106–309, title II, § 205(a)](https://www.govinfo.gov/link/plaw/106/public/309), Oct. 17, 2000, [114 Stat. 1092](https://www.govinfo.gov/link/statute/114/1092); amended [Pub. L. 107–228, div. A, title VI, § 672(a)](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1407](https://www.govinfo.gov/link/statute/116/1407); [Pub. L. 112–74, div. I, title VII, § 7034(n)](https://www.govinfo.gov/link/plaw/112/public/74), Dec. 23, 2011, [125 Stat. 1217](https://www.govinfo.gov/link/statute/125/1217).)*

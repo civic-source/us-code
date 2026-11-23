@@ -3,9 +3,10 @@ title: "Section 720 - Obligations of Association"
 usc_title: 45
 usc_section: "720"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 720"
-generated_at: "2026-03-30T02:55:56.554Z"
+generated_at: "2026-11-23T20:27:05.298Z"
+status: "active"
 ---
 
 # § 720. Obligations of Association
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:56.554Z"
 - **(e)** If at any time the moneys available to the Secretary are insufficient to enable him to discharge his responsibilities under subsection (c) of this section or under subsection (a) of section 746 of this title , he shall issue notes or other obligations to the Secretary of the Treasury in such forms and denominations, bearing such maturities, and subject to such terms and conditions as may be prescribed by the Secretary of the Treasury. Such obligations shall bear interest at a rate to be determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the issuance of such obligations. The Secretary of the Treasury is authorized and directed to purchase any such obligations and for such purposes is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31. The purposes for which securities may be issued under such chapter are extended to include any purchase of notes or other obligations issued under this subsection. At any time, the Secretary of the Treasury may sell any such obligations, and all sales, purchases, and redemptions of such obligations by the Secretary of the Treasury shall be treated as public debt transactions of the United States.
 - **(f)** There are hereby authorized to be appropriated to the Secretary such amounts as are necessary to discharge the obligations of the United States arising under this section.
 - **(g)** All obligations issued by the Association shall be lawful investments and may be accepted as security for all fiduciary, trust, and public funds, the investment or deposit of which shall be under the authority and control of the United States or any officer or officers thereof. All such obligations issued pursuant to this section shall be exempt securities within the meaning of laws administered by the Securities and Exchange Commission.
+
+## Source Credit
+
+*([Pub. L. 93–236, title II, § 210](https://www.govinfo.gov/link/plaw/93/public/236), Jan. 2, 1974, [87 Stat. 1000](https://www.govinfo.gov/link/statute/87/1000); [Pub. L. 94–210, title VI](https://www.govinfo.gov/link/plaw/94/public/210), §§ 604, 607(k), Feb. 5, 1976, [90 Stat. 88](https://www.govinfo.gov/link/statute/90/88), 97; [Pub. L. 94–555, title II, § 203(e)](https://www.govinfo.gov/link/plaw/94/public/555), Oct. 19, 1976, [90 Stat. 2620](https://www.govinfo.gov/link/statute/90/2620); [Pub. L. 96–448, title VII, § 703(f)(3)](https://www.govinfo.gov/link/plaw/96/public/448), Oct. 14, 1980, [94 Stat. 1965](https://www.govinfo.gov/link/statute/94/1965).)*

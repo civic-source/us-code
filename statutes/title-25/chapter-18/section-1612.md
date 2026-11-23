@@ -3,9 +3,10 @@ title: "Section 1612 - Health professions recruitment program for Indians"
 usc_title: 25
 usc_section: "1612"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1612"
-generated_at: "2026-03-30T02:54:52.818Z"
+generated_at: "2026-11-23T20:26:25.471Z"
+status: "active"
 ---
 
 # § 1612. Health professions recruitment program for Indians
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:52.818Z"
 - **(b)**
   - **(1)** No grant may be made under this section unless an application therefor has been submitted to, and approved by, the Secretary. Such application shall be in such form, submitted in such manner, and contain such information, as the Secretary shall by regulation prescribe. The Secretary shall give a preference to applications submitted by Indian tribes or tribal organizations.
   - **(2)** The amount of any grant under this section shall be determined by the Secretary. Payments pursuant to grants under this section may be made in advance or by way of reimbursement, and at such intervals and on such conditions as the Secretary finds necessary.
+
+## Source Credit
+
+*([Pub. L. 94–437, title I, § 102](https://www.govinfo.gov/link/plaw/94/public/437), Sept. 30, 1976, [90 Stat. 1402](https://www.govinfo.gov/link/statute/90/1402); [Pub. L. 96–537, § 3(a)](https://www.govinfo.gov/link/plaw/96/public/537), Dec. 17, 1980, [94 Stat. 3173](https://www.govinfo.gov/link/statute/94/3173); [Pub. L. 100–713, title I, § 101](https://www.govinfo.gov/link/plaw/100/public/713), Nov. 23, 1988, [102 Stat. 4785](https://www.govinfo.gov/link/statute/102/4785); [Pub. L. 102–573, title I](https://www.govinfo.gov/link/plaw/102/public/573), §§ 102(a), 117(b)(1), title IX, § 902(2)(A), Oct. 29, 1992, [106 Stat. 4530](https://www.govinfo.gov/link/statute/106/4530), 4544, 4591.)*

@@ -3,9 +3,10 @@ title: "Section 6686 - Science and Technology Policy Institute"
 usc_title: 42
 usc_section: "6686"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6686"
-generated_at: "2026-03-30T02:56:11.264Z"
+generated_at: "2026-11-23T20:27:22.696Z"
+status: "active"
 ---
 
 # § 6686. Science and Technology Policy Institute
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:11.264Z"
 - **(f)**
   - **(1)** The Director of the National Science Foundation shall be the sponsor of the Institute.
   - **(2)** The Director of the National Science Foundation, in consultation with the Director of Office of Science and Technology Policy, shall enter into a sponsoring agreement with respect to the Institute. The sponsoring agreement shall require that the Institute carry out such functions as the Director of Office of Science and Technology Policy may specify consistent with the duties referred to in subsection (c). The sponsoring agreement shall be consistent with the general requirements prescribed for such a sponsoring agreement by the Administrator for Federal Procurement Policy.
+
+## Source Credit
+
+*([Pub. L. 101–510, div. A, title VIII, § 822](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1598](https://www.govinfo.gov/link/statute/104/1598); [Pub. L. 102–25, title VII, § 704(a)(5)](https://www.govinfo.gov/link/plaw/102/public/25), Apr. 6, 1991, [105 Stat. 118](https://www.govinfo.gov/link/statute/105/118); [Pub. L. 102–190, div. A, title VIII, § 822(c)(1)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1433](https://www.govinfo.gov/link/statute/105/1433); [Pub. L. 103–160, div. A, title VIII, § 803](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1701](https://www.govinfo.gov/link/statute/107/1701); [Pub. L. 104–201, div. A, title X, § 1073(e)(1)(C)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2658](https://www.govinfo.gov/link/statute/110/2658); [Pub. L. 105–207, title II, § 208(a)](https://www.govinfo.gov/link/plaw/105/public/207), July 29, 1998, [112 Stat. 877](https://www.govinfo.gov/link/statute/112/877).)*

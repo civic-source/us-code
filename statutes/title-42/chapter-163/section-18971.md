@@ -3,9 +3,10 @@ title: "Section 18971 - Expanding opportunities through the Manufacturing USA Pr
 usc_title: 42
 usc_section: "18971"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18971"
-generated_at: "2026-03-30T02:56:11.534Z"
+generated_at: "2026-11-23T20:27:23.842Z"
+status: "active"
 ---
 
 # § 18971. Expanding opportunities through the Manufacturing USA Program
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.534Z"
   - **(3)** a minority-serving institution;
   - **(4)** a minority business enterprise (as such term is defined in section 1400.2 of title 15, Code of Federal Regulations, or successor regulation); or
   - **(5)** a rural-serving institution of higher education (as such term is defined in section 1161q of title 20 ).
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title II, § 10262](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1504](https://www.govinfo.gov/link/statute/136/1504).)*

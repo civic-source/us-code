@@ -3,9 +3,10 @@ title: "Section 5832 - National Training Program"
 usc_title: 7
 usc_section: "5832"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 5832"
-generated_at: "2026-03-30T02:53:42.419Z"
+generated_at: "2026-11-23T20:25:41.660Z"
+status: "active"
 ---
 
 # § 5832. National Training Program
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:53:42.419Z"
   - **(11)** provide information concerning whole-farm management systems integrating research results under this subchapter, chapter 86 of this title, 1 and other appropriate research programs of the Department.
 - **(h)** For purposes of this section, the term “appropriate field office personnel” includes employees of the National Institute of Food and Agriculture, Soil Conservation Service, and other appropriate Department of Agriculture personnel, as determined by the Secretary, whose activities involve the provision of agricultural production and conservation information to agricultural producers.
 - **(i)** There are authorized to be appropriated to carry out the National Training Program $20,000,000 for each of fiscal years 2013 through 2023.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XVI, § 1629](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3741](https://www.govinfo.gov/link/statute/104/3741); [Pub. L. 102–237, title IV, § 407(4)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1864](https://www.govinfo.gov/link/statute/105/1864); [Pub. L. 104–127, title VIII, § 862(b)(4)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1174](https://www.govinfo.gov/link/statute/110/1174); [Pub. L. 105–185, title VI, § 606(f)](https://www.govinfo.gov/link/plaw/105/public/185), June 23, 1998, [112 Stat. 604](https://www.govinfo.gov/link/statute/112/604); [Pub. L. 110–234, title VII, § 7511(c)(17)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1269](https://www.govinfo.gov/link/statute/122/1269); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, § 7511(c)(17), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2030; [Pub. L. 113–79, title VII, § 7204](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 880](https://www.govinfo.gov/link/statute/128/880); [Pub. L. 115–334, title VII, § 7204](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4803](https://www.govinfo.gov/link/statute/132/4803).)*

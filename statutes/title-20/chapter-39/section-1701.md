@@ -3,9 +3,10 @@ title: "Section 1701 - Congressional declaration of policy"
 usc_title: 20
 usc_section: "1701"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1701"
-generated_at: "2026-03-30T02:54:48.169Z"
+generated_at: "2026-11-23T20:26:14.671Z"
+status: "active"
 ---
 
 # § 1701. Congressional declaration of policy
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:48.169Z"
   - **(1)** all children enrolled in public schools are entitled to equal educational opportunity without regard to race, color, sex, or national origin; and
   - **(2)** the neighborhood is the appropriate basis for determining public school assignments.
 - **(b)** In order to carry out this policy, it is the purpose of this subchapter to specify appropriate remedies for the orderly removal of the vestiges of the dual school system.
+
+## Source Credit
+
+*([Pub. L. 93–380, title II, § 202](https://www.govinfo.gov/link/plaw/93/public/380), Aug. 21, 1974, [88 Stat. 514](https://www.govinfo.gov/link/statute/88/514).)*

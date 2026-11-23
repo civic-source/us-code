@@ -3,9 +3,10 @@ title: "Section 361 - Office for State and Local Government Coordination"
 usc_title: 6
 usc_section: "361"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 361"
-generated_at: "2026-03-30T02:53:09.462Z"
+generated_at: "2026-11-23T20:25:34.719Z"
+status: "active"
 ---
 
 # § 361. Office for State and Local Government Coordination
@@ -16,3 +17,17 @@ generated_at: "2026-03-30T02:53:09.462Z"
   - **(2)** assess, and advocate for, the resources needed by State and local government to implement the national strategy for combating terrorism;
   - **(3)** provide State and local government with regular information, research, and technical support to assist local efforts at securing the homeland; and
   - **(4)** develop a process for receiving meaningful input from State and local government to assist the development of the national strategy for combating terrorism and other homeland security activities.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 107–296, title VIII, § 801](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2220](https://www.govinfo.gov/link/statute/116/2220).)*

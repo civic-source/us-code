@@ -3,12 +3,17 @@ title: "Section 155 - Compensation and expenses of Library of Congress Trust Fun
 usc_title: 2
 usc_section: "155"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 155"
-generated_at: "2026-03-30T02:53:04.789Z"
+generated_at: "2026-11-23T20:25:28.847Z"
+status: "active"
 ---
 
 # § 155. Compensation and expenses of Library of Congress Trust Fund Board
 
 No compensation shall be paid to the members of the board for their services as such members, but they shall be reimbursed for the expenses necessarily incurred by them, out of the income from the fund or funds in connection with which such expenses are incurred. The voucher of the chairman of the board shall be sufficient evidence that the expenses are properly allowable. Any expenses of the board, including the cost of its seal, not properly chargeable to the income of any trust fund held by it, shall be estimated for in the annual estimates of the librarian for the maintenance of the Library of Congress.
 
+
+## Source Credit
+
+*(Mar. 3, 1925, ch. 423, § 1, [43 Stat. 1107](https://www.govinfo.gov/link/statute/43/1107).)*

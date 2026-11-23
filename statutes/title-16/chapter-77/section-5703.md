@@ -3,9 +3,10 @@ title: "Section 5703 - Panel"
 usc_title: 16
 usc_section: "5703"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 5703"
-generated_at: "2026-03-30T02:54:23.053Z"
+generated_at: "2026-11-23T20:26:20.781Z"
+status: "active"
 ---
 
 # § 5703. Panel
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:23.053Z"
 - **(e)** Panel members and alternate Panel members shall be eligible for reappointment.
 - **(f)** Decisions by the United States section of the Panel shall be made by the consensus of the Panel members appointed under paragraphs (2) and (3) of subsection (a).
 - **(g)** In carrying out their functions under the Agreement, Panel members may consult with such other interested parties as they consider appropriate.
+
+## Source Credit
+
+*([Pub. L. 104–43, title VII, § 704](https://www.govinfo.gov/link/plaw/104/public/43), Nov. 3, 1995, [109 Stat. 393](https://www.govinfo.gov/link/statute/109/393).)*

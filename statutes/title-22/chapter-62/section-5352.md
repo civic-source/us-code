@@ -3,9 +3,10 @@ title: "Section 5352 - Quadrennial reports on foreign treatment of United States
 usc_title: 22
 usc_section: "5352"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 5352"
-generated_at: "2026-03-30T02:55:05.417Z"
+generated_at: "2026-11-23T20:26:32.559Z"
+status: "active"
 ---
 
 # § 5352. Quadrennial reports on foreign treatment of United States financial institutions
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.417Z"
   - **(3)** the extent to which foreign countries deny national treatment to United States banking organizations and securities companies, and
   - **(4)** the efforts undertaken by the United States to eliminate such discrimination. The report shall focus on those countries in which there are significant denials of national treatment which impact United States financial firms. The report shall also describe the progress of discussions pursuant to section 5353 of this title .
 
+
+## Source Credit
+
+*([Pub. L. 100–418, title III, § 3602](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1387](https://www.govinfo.gov/link/statute/102/1387).)*

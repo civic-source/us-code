@@ -3,9 +3,10 @@ title: "Section 7435 - Low emissions electricity program"
 usc_title: 42
 usc_section: "7435"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7435"
-generated_at: "2026-03-30T02:56:11.303Z"
+generated_at: "2026-11-23T20:27:22.867Z"
+status: "active"
 ---
 
 # § 7435. Low emissions electricity program
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.303Z"
   - **(6)** $18,000,000 to ensure that reductions in greenhouse gas emissions are achieved through use of the existing authorities of this chapter, incorporating the assessment under paragraph (5).
 - **(b)** Of the amounts made available under subsection (a), the Administrator shall reserve 2 percent for the administrative costs necessary to carry out activities pursuant to that subsection.
 - **(c)** In this section, the term “greenhouse gas” means the air pollutants carbon dioxide, hydrofluorocarbons, methane, nitrous oxide, perfluorocarbons, and sulfur hexafluoride.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 135, as added [Pub. L. 117–169, title VI, § 60107](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 2069](https://www.govinfo.gov/link/statute/136/2069).)*

@@ -3,9 +3,10 @@ title: "Section 987 - Anti-terrorist forfeiture protection"
 usc_title: 18
 usc_section: "987"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 987"
-generated_at: "2026-03-30T02:54:16.478Z"
+generated_at: "2026-11-23T20:26:08.447Z"
+status: "active"
 ---
 
 # § 987. Anti-terrorist forfeiture protection
@@ -20,3 +21,17 @@ generated_at: "2026-03-30T02:54:16.478Z"
     - **(B)** the Constitution; or
     - **(C)** subchapter II of chapter 5 of title 5, United States Code (commonly known as the “Administrative Procedure Act”).
   - **(2)** Nothing in this section shall limit or otherwise affect any other remedies that may be available to an owner of property under section 983 of title 18 , United States Code, or any other provision of law.
+
+Right to Contest
+
+Evidence
+
+Clarifications.—
+
+Protection of rights
+
+Savings clause
+
+## Source Credit
+
+*(Added [Pub. L. 109–177, title IV, § 406(b)(1)(B)](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 244](https://www.govinfo.gov/link/statute/120/244).)*

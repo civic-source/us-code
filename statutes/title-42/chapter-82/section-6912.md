@@ -3,9 +3,10 @@ title: "Section 6912 - Authorities of Administrator"
 usc_title: 42
 usc_section: "6912"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6912"
-generated_at: "2026-03-30T02:56:11.270Z"
+generated_at: "2026-11-23T20:27:22.726Z"
+status: "active"
 ---
 
 # § 6912. Authorities of Administrator
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.270Z"
   - **(6)** to delegate to the Secretary of Transportation the performance of any inspection or enforcement function under this chapter relating to the transportation of hazardous waste where such delegation would avoid unnecessary duplication of activity and would carry out the objectives of this chapter and of chapter 51 of title 49.
 - **(b)** Each regulation promulgated under this chapter shall be reviewed and, where necessary, revised not less frequently than every three years.
 - **(c)** In carrying out the provisions of this chapter, the Administrator, and duly-designated agents and employees of the Environmental Protection Agency, are authorized to initiate and conduct investigations under the criminal provisions of this chapter, and to refer the results of these investigations to the Attorney General for prosecution in appropriate cases.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 2002](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 94–580, § 2](https://www.govinfo.gov/link/plaw/94/public/580), Oct. 21, 1976, [90 Stat. 2804](https://www.govinfo.gov/link/statute/90/2804); amended [Pub. L. 96–482, § 5](https://www.govinfo.gov/link/plaw/96/public/482), Oct. 21, 1980, [94 Stat. 2335](https://www.govinfo.gov/link/statute/94/2335); [Pub. L. 98–616, title IV, § 403(d)(4)](https://www.govinfo.gov/link/plaw/98/public/616), Nov. 8, 1984, [98 Stat. 3272](https://www.govinfo.gov/link/statute/98/3272); [Pub. L. 100–418, title V, § 5115(c)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1433](https://www.govinfo.gov/link/statute/102/1433).)*

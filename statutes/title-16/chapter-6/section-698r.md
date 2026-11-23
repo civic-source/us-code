@@ -3,9 +3,10 @@ title: "Section 698r - Administration"
 usc_title: 16
 usc_section: "698r"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 698r"
-generated_at: "2026-03-30T02:54:22.898Z"
+generated_at: "2026-11-23T20:26:20.237Z"
+status: "active"
 ---
 
 # § 698r. Administration
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:22.898Z"
   - **(1)** The Secretary shall develop and conduct a program to promote and encourage awareness of and participation in the development of the general management plan for the Preserve by persons owning property in the vicinity of the Preserve, other interested groups and individuals, State, county, and municipal agencies, and the general public. Prior to final approval of the plan, the Secretary shall hold public meetings in DeKalb and Cherokee Counties.
   - **(2)** In preparing and implementing the plan described in paragraph (1), the Secretary shall give full consideration to the views and comments of the individuals, groups, and agencies described in paragraph (1).
 - **(g)** Upon the transfer by Alabama Power Company to the United States of any lands within the boundaries of the Preserve that contain the Green Pitcher Plant (Sarracenia oreophila), all rights and obligations of Alabama Power Company under the agreement entered into between the company and the Department of the Interior (including the United States Fish and Wildlife Service) on May 12, 1983 , in settlement of the action brought on September 24, 1980 , against the Secretary and the Director of the Fish and Wildlife Service in the United States District Court for the Northern District of Alabama (Civil Action No. CV 80–C–1242–M), shall be extinguished.
+
+## Source Credit
+
+*([Pub. L. 102–427, § 3](https://www.govinfo.gov/link/plaw/102/public/427), Oct. 21, 1992, [106 Stat. 2179](https://www.govinfo.gov/link/statute/106/2179).)*

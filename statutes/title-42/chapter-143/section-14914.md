@@ -3,9 +3,10 @@ title: "Section 14914 - Annual report on intercountry adoptions"
 usc_title: 42
 usc_section: "14914"
 chapter: 143
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 14914"
-generated_at: "2026-03-30T02:56:11.453Z"
+generated_at: "2026-11-23T20:27:23.537Z"
+status: "active"
 ---
 
 # § 14914. Annual report on intercountry adoptions
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:11.453Z"
     - **(C)** what steps the Department of State has taken in order to assist the country to reopen intercountry adoptions.
   - **(14)** An assessment of the impact of the fee schedule of the Intercountry Adoption Accreditation and Maintenance Entity on families seeking to adopt internationally, especially low-income families, families seeking to adopt sibling groups, or families seeking to adopt children with disabilities.
 - **(c)** The Secretary shall make the information contained in the report required under subsection (a) available to the public on the website of the Department of State.
+
+## Source Credit
+
+*([Pub. L. 106–279, title I, § 104](https://www.govinfo.gov/link/plaw/106/public/279), Oct. 6, 2000, [114 Stat. 829](https://www.govinfo.gov/link/statute/114/829); [Pub. L. 109–288, § 6(f)(9)](https://www.govinfo.gov/link/plaw/109/public/288), Sept. 28, 2006, [120 Stat. 1248](https://www.govinfo.gov/link/statute/120/1248); [Pub. L. 116–184, § 2(a)](https://www.govinfo.gov/link/plaw/116/public/184), (b), (d), Oct. 30, 2020, [134 Stat. 897](https://www.govinfo.gov/link/statute/134/897), 898.)*

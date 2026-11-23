@@ -3,9 +3,10 @@ title: "Section 753 - Federal preparedness"
 usc_title: 6
 usc_section: "753"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 753"
-generated_at: "2026-03-30T02:53:09.499Z"
+generated_at: "2026-11-23T20:25:34.870Z"
+status: "active"
 ---
 
 # § 753. Federal preparedness
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:53:09.499Z"
 - **(e)** Nothing in this section shall be construed to limit the authority of the Secretary of Defense with regard to—
   - **(1)** the command, control, training, planning, equipment, exercises, or employment of Department of Defense forces; or
   - **(2)** the allocation of Department of Defense resources.
+
+## Source Credit
+
+*([Pub. L. 109–295, title VI, § 653](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1430](https://www.govinfo.gov/link/statute/120/1430); [Pub. L. 110–53, title IV, § 407](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 304](https://www.govinfo.gov/link/statute/121/304).)*

@@ -3,12 +3,17 @@ title: "Section 9022 - Flexibility in paying reimbursement"
 usc_title: 15
 usc_section: "9022"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 9022"
-generated_at: "2026-03-30T02:54:08.239Z"
+generated_at: "2026-11-23T20:26:04.528Z"
+status: "active"
 ---
 
 # § 9022. Flexibility in paying reimbursement
 
 The Secretary of Labor may issue clarifying guidance to allow States to interpret their State unemployment compensation laws in a manner that would provide maximum flexibility to reimbursing employers as it relates to timely payment and assessment of penalties and interest pursuant to such State laws.
 
+
+## Source Credit
+
+*([Pub. L. 116–136, div. A, title II, § 2103(a)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 317](https://www.govinfo.gov/link/statute/134/317).)*

@@ -3,9 +3,10 @@ title: "Section 386 - Annual report"
 usc_title: 10
 usc_section: "386"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 386"
-generated_at: "2026-03-30T02:53:38.055Z"
+generated_at: "2026-11-23T20:25:50.926Z"
+status: "active"
 ---
 
 # § 386. Annual report
@@ -76,3 +77,13 @@ generated_at: "2026-03-30T02:53:38.055Z"
       - **(i)** the title of the project;
       - **(ii)** a description of the assistance to be provided; and
       - **(iii)** the anticipated costs to provide such assistance.
+
+Annual Report Required
+
+Elements of Report
+
+“With respect to a report that was required to be submitted under section 386 of title 10 , United States Code, prior to the date of the enactment of this Act [ Dec. 23, 2022 ], that has not been submitted as of such date and relates to a year preceding fiscal year 2023, such a report may be submitted in accordance with—
+
+## Source Credit
+
+*(Added and amended [Pub. L. 114–328, div. A, title XII](https://www.govinfo.gov/link/plaw/114/public/328), §§ 1246(d)(2)(A), 1251(a)–(f), Dec. 23, 2016, [130 Stat. 2521](https://www.govinfo.gov/link/statute/130/2521), 2529–2531; [Pub. L. 115–232, div. A, title XII, § 1204(b)(1)(A)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2017](https://www.govinfo.gov/link/statute/132/2017); [Pub. L. 117–263, div. A, title XII, § 1202(d)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2823](https://www.govinfo.gov/link/statute/136/2823); [Pub. L. 118–31, div. A, title XVIII, § 1801(a)(4)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 683](https://www.govinfo.gov/link/statute/137/683); [Pub. L. 118–159, div. A, title XII, § 1205(b)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2094](https://www.govinfo.gov/link/statute/138/2094).)*

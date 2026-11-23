@@ -3,9 +3,10 @@ title: "Section 6362 - State option to conduct assessment system audit"
 usc_title: 20
 usc_section: "6362"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 6362"
-generated_at: "2026-03-30T02:54:48.197Z"
+generated_at: "2026-11-23T20:26:14.834Z"
+status: "active"
 ---
 
 # § 6362. State option to conduct assessment system audit
@@ -66,3 +67,7 @@ generated_at: "2026-03-30T02:54:48.197Z"
 - **(g)** In this section:
   - **(1)** The term “local assessment” means an academic assessment selected and carried out by a local educational agency that is separate from an assessment required under section 6311(b)(2) of this title .
   - **(2)** The term “State” means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
+
+## Source Credit
+
+*([Pub. L. 89–10, title I, § 1202](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title I, § 1201](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1881](https://www.govinfo.gov/link/statute/129/1881).)*

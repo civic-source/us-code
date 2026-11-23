@@ -3,9 +3,10 @@ title: "Section 30118 - Contributions or expenditures by national banks, corpora
 usc_title: 52
 usc_section: "30118"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "52 U.S.C. § 30118"
-generated_at: "2026-03-30T02:56:30.173Z"
+generated_at: "2026-11-23T20:27:37.008Z"
+status: "active"
 ---
 
 # § 30118. Contributions or expenditures by national banks, corporations, or labor organizations
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:56:30.173Z"
     - **(A)** Paragraph (2) shall not apply in the case of a targeted communication that is made by an organization described in such paragraph.
     - **(B)** For purposes of subparagraph (A), the term “targeted communication” means an electioneering communication (as defined in section 30104(f)(3) of this title ) that is distributed from a television or radio broadcast station or provider of cable or satellite television service and, in the case of a communication which refers to a candidate for an office other than President or Vice President, is targeted to the relevant electorate.
     - **(C)** For purposes of this paragraph, a communication is “targeted to the relevant electorate” if it meets the requirements described in section 30104(f)(3)(C) of this title .
+
+## Source Credit
+
+*([Pub. L. 92–225, title III, § 316](https://www.govinfo.gov/link/plaw/92/public/225), formerly § 321, as added [Pub. L. 94–283, title I, § 112(2)](https://www.govinfo.gov/link/plaw/94/public/283), May 11, 1976, [90 Stat. 490](https://www.govinfo.gov/link/statute/90/490); renumbered § 316 and amended [Pub. L. 96–187, title I](https://www.govinfo.gov/link/plaw/96/public/187), §§ 105(5), 112(d), Jan. 8, 1980, [93 Stat. 1354](https://www.govinfo.gov/link/statute/93/1354), 1366; [Pub. L. 107–155, title II](https://www.govinfo.gov/link/plaw/107/public/155), §§ 203, 204, 214(d), Mar. 27, 2002, [116 Stat. 91](https://www.govinfo.gov/link/statute/116/91), 92, 95.)*

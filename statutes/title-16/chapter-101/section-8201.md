@@ -3,9 +3,10 @@ title: "Section 8201 - Purpose"
 usc_title: 16
 usc_section: "8201"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 8201"
-generated_at: "2026-03-30T02:54:23.082Z"
+generated_at: "2026-11-23T20:26:20.869Z"
+status: "active"
 ---
 
 # § 8201. Purpose
@@ -27,3 +28,7 @@ The purpose of this chapter is to encourage partnerships among public agencies a
   - **(5)** to communicate to the public and conservation partners—
     - **(A)** the conservation outcomes produced collectively by Fish Habitat Partnerships; and
     - **(B)** new opportunities and voluntary approaches for conserving fish habitat.
+
+## Source Credit
+
+*([Pub. L. 116–188, title II, § 201](https://www.govinfo.gov/link/plaw/116/public/188), Oct. 30, 2020, [134 Stat. 924](https://www.govinfo.gov/link/statute/134/924).)*

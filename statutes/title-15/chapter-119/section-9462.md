@@ -3,9 +3,10 @@ title: "Section 9462 - Veterans’ health initiative"
 usc_title: 15
 usc_section: "9462"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 9462"
-generated_at: "2026-03-30T02:54:08.248Z"
+generated_at: "2026-11-23T20:26:04.572Z"
+status: "active"
 ---
 
 # § 9462. Veterans’ health initiative
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:54:08.248Z"
   - **(3)** Not later than 2 years after December 27, 2020 , the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report evaluating the effectiveness of the activities authorized under paragraph (1).
   - **(4)** There are authorized to be appropriated to the Secretary to carry out this subsection $15,000,000 for each of fiscal years 2021 through 2025.
 - **(d)** In this section, the term “National Laboratory” has the meaning given such term in section 15801(3) of title 42 .
+
+## Source Credit
+
+*([Pub. L. 116–260, div. Z, title IX, § 9008](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2600](https://www.govinfo.gov/link/statute/134/2600).)*

@@ -3,9 +3,10 @@ title: "Section 19105 - Assistant Director"
 usc_title: 42
 usc_section: "19105"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 19105"
-generated_at: "2026-03-30T02:56:11.539Z"
+generated_at: "2026-11-23T20:27:23.853Z"
+status: "active"
 ---
 
 # § 19105. Assistant Director
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.539Z"
   - **(8)** performing other such duties pertaining to the purposes in section 19102 of this title as are required by the Director.
 - **(d)** The Assistant Director shall report to the Director.
 - **(e)** No other directorate within the Foundation shall report to the Assistant Director.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10385](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1577](https://www.govinfo.gov/link/statute/136/1577).)*

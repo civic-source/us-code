@@ -3,9 +3,10 @@ title: "Section 1571 - Prohibitions relating to interstate commerce in certain s
 usc_title: 7
 usc_section: "1571"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1571"
-generated_at: "2026-03-30T02:53:42.327Z"
+generated_at: "2026-11-23T20:25:41.209Z"
+status: "active"
 ---
 
 # § 1571. Prohibitions relating to interstate commerce in certain seeds
@@ -60,3 +61,7 @@ It shall be unlawful for any person to transport or deliver for transportation i
   - **(2)** The commonly accepted coined, chemical (generic), or abbreviated chemical name of any substance used in such treatment;
   - **(3)** If the substance used in such treatment in the amount remaining with the seeds is harmful to humans or other vertebrate animals, an appropriate caution statement approved by the Secretary of Agriculture as adequate for the protection of the public, such as “Do not use for food or feed or oil purposes”: Provided , That the caution statement for mercurials and similarly toxic substances, as defined in said rules and regulations, shall be a representation of a skull and crossbones and a statement such as “This seed has been treated with POISON”, in red letters on a background of distinctly contrasting color; and
   - **(4)** A description, approved by the Secretary of Agriculture as adequate for the protection of the public, of any process used in such treatment.
+
+## Source Credit
+
+*(Aug. 9, 1939, ch. 615, title II, § 201, [53 Stat. 1279](https://www.govinfo.gov/link/statute/53/1279); [Pub. L. 85–581](https://www.govinfo.gov/link/plaw/85/public/581), §§ 5–8, Aug. 1, 1958, [72 Stat. 476](https://www.govinfo.gov/link/statute/72/476); [Pub. L. 89–686](https://www.govinfo.gov/link/plaw/89/public/686), §§ 4–10, Oct. 15, 1966, [80 Stat. 975–977](https://www.govinfo.gov/link/statute/80/975); [Pub. L. 97–439](https://www.govinfo.gov/link/plaw/97/public/439), §§ 2–4, Jan. 8, 1983, [96 Stat. 2287](https://www.govinfo.gov/link/statute/96/2287).)*

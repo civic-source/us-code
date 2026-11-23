@@ -3,12 +3,17 @@ title: "Section 285i - Authorization for payment of United States contribution; 
 usc_title: 22
 usc_section: "285i"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 285i"
-generated_at: "2026-03-30T02:55:05.317Z"
+generated_at: "2026-11-23T20:26:31.997Z"
+status: "active"
 ---
 
 # § 285i. Authorization for payment of United States contribution; United States Special Resources
 
 - **(a)** Subject to the provisions of this subchapter, the United States Governor of the Bank is authorized to enter into an agreement with the Bank providing for a United States contribution of $100,000,000 to the Bank in two annual installments of $60,000,000 and $40,000,000, beginning in fiscal year 1972. This contribution is referred to hereinafter in this subchapter as the “United States Special Resources”.
 - **(b)** The United States Special Resources shall be made available to the Bank pursuant to the provisions of this subchapter and article 19 of the Articles of Agreement of the Bank, and in a manner consistent with the Bank’s Special Funds Rules and Regulations.
+
+## Source Credit
+
+*([Pub. L. 89–369, § 12](https://www.govinfo.gov/link/plaw/89/public/369), as added [Pub. L. 92–245, § 1](https://www.govinfo.gov/link/plaw/92/public/245), Mar. 10, 1972, [86 Stat. 57](https://www.govinfo.gov/link/statute/86/57).)*

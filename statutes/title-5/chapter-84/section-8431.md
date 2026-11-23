@@ -3,9 +3,10 @@ title: "Section 8431 - Certain transfers to be treated as a separation"
 usc_title: 5
 usc_section: "8431"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8431"
-generated_at: "2026-03-30T02:52:56.057Z"
+generated_at: "2026-11-23T20:25:32.200Z"
+status: "active"
 ---
 
 # § 8431. Certain transfers to be treated as a separation
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:52:56.057Z"
   - **(1)** the retirement system under this chapter;
   - **(2)** the retirement system under subchapter III of chapter 83; and
   - **(3)** any other retirement system under which individuals may contribute to the Thrift Savings Fund through withholdings from pay.
+
+## Source Credit
+
+*(Added [Pub. L. 106–168, title II, § 203(a)(1)](https://www.govinfo.gov/link/plaw/106/public/168), Dec. 12, 1999, [113 Stat. 1820](https://www.govinfo.gov/link/statute/113/1820).)*

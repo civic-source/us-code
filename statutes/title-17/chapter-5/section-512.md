@@ -3,9 +3,10 @@ title: "Section 512 - Limitations on liability relating to material online"
 usc_title: 17
 usc_section: "512"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 512"
-generated_at: "2026-03-30T02:54:15.353Z"
+generated_at: "2026-11-23T20:26:06.526Z"
+status: "active"
 ---
 
 # § 512. Limitations on liability relating to material online
@@ -125,3 +126,79 @@ generated_at: "2026-03-30T02:54:15.353Z"
   - **(1)** a service provider monitoring its service or affirmatively seeking facts indicating infringing activity, except to the extent consistent with a standard technical measure complying with the provisions of subsection (i); or
   - **(2)** a service provider gaining access to, removing, or disabling access to material in cases in which such conduct is prohibited by law.
 - **(n)** Subsections (a), (b), (c), and (d) describe separate and distinct functions for purposes of applying this section. Whether a service provider qualifies for the limitation on liability in any one of those subsections shall be based solely on the criteria in that subsection, and shall not affect a determination of whether that service provider qualifies for the limitations on liability under any other such subsection.
+
+Transitory Digital Network Communications
+
+System Caching.—
+
+Limitation on liability
+
+Conditions
+
+Information Residing on Systems or Networks At Direction of Users.—
+
+In general
+
+Designated agent
+
+Elements of notification.—
+
+Information Location Tools
+
+Limitation on Liability of Nonprofit Educational Institutions
+
+Misrepresentations
+
+Replacement of Removed or Disabled Material and Limitation on Other Liability.—
+
+No liability for taking down generally
+
+Exception
+
+Contents of counter notification
+
+Limitation on other liability
+
+Subpoena To Identify Infringer.—
+
+Request
+
+Contents of request
+
+Contents of subpoena
+
+Basis for granting subpoena
+
+Actions of service provider receiving subpoena
+
+Rules applicable to subpoena
+
+Conditions for Eligibility.—
+
+Accommodation of technology
+
+Definition
+
+Injunctions
+
+Scope of relief
+
+Considerations
+
+Notice and ex parte orders
+
+Definitions.—
+
+Service provider
+
+Monetary relief
+
+Other Defenses Not Affected
+
+Protection of Privacy
+
+Construction
+
+## Source Credit
+
+*(Added [Pub. L. 105–304, title II, § 202(a)](https://www.govinfo.gov/link/plaw/105/public/304), Oct. 28, 1998, [112 Stat. 2877](https://www.govinfo.gov/link/statute/112/2877); amended [Pub. L. 106–44, § 1(d)](https://www.govinfo.gov/link/plaw/106/public/44), Aug. 5, 1999, [113 Stat. 222](https://www.govinfo.gov/link/statute/113/222); [Pub. L. 111–295, § 3(a)](https://www.govinfo.gov/link/plaw/111/public/295), Dec. 9, 2010, [124 Stat. 3180](https://www.govinfo.gov/link/statute/124/3180).)*

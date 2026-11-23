@@ -3,9 +3,10 @@ title: "Section 12623 - Advisory Board"
 usc_title: 42
 usc_section: "12623"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12623"
-generated_at: "2026-03-30T02:56:11.421Z"
+generated_at: "2026-11-23T20:27:23.389Z"
+status: "active"
 ---
 
 # § 12623. Advisory Board
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.421Z"
   - **(13)** Individuals appointed by the Director from among persons who are broadly representative of educational institutions, voluntary organizations, public and private organizations, youth, and labor unions.
   - **(14)** The Chief Executive Officer.
 - **(c)** Section 1013 of title 5 shall not apply to the Advisory Board.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 163](https://www.govinfo.gov/link/plaw/101/public/610), formerly § 195L, as added [Pub. L. 102–484, div. A, title X, § 1092(a)(1)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2532](https://www.govinfo.gov/link/statute/106/2532); renumbered § 163 and amended [Pub. L. 103–82, title I, § 104(b)](https://www.govinfo.gov/link/plaw/103/public/82), title IV, §§ 402(b)(3), 403(b), Sept. 21, 1993, [107 Stat. 840](https://www.govinfo.gov/link/statute/107/840), 919, 920; [Pub. L. 111–13, title I, § 1513](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1527](https://www.govinfo.gov/link/statute/123/1527); [Pub. L. 117–286, § 4(a)(274)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4336](https://www.govinfo.gov/link/statute/136/4336).)*

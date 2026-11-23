@@ -3,9 +3,10 @@ title: "Section 16421 - Third-party finance"
 usc_title: 42
 usc_section: "16421"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16421"
-generated_at: "2026-03-30T02:56:11.486Z"
+generated_at: "2026-11-23T20:27:23.683Z"
+status: "active"
 ---
 
 # § 16421. Third-party finance
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:56:11.486Z"
 - **(e)** Nothing in this section shall constrain or restrict an Administrator in the utilization of other authority delegated to the Administrator of WAPA or SWPA.
 - **(f)** Any determination made pursuant to subsections 1 1 So in original. Probably should be “subsection”. (a) or (b) shall be based on findings by the Secretary using the best available data.
 - **(g)** The Secretary shall not accept and use more than $100,000,000 under subsection (c)(1) for the period encompassing fiscal years 2006 through 2015.
+
+## Source Credit
+
+*([Pub. L. 109–58, title XII, § 1222](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 952](https://www.govinfo.gov/link/statute/119/952).)*

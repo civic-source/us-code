@@ -3,9 +3,10 @@ title: "Section 422b - Definitions"
 usc_title: 43
 usc_section: "422b"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 422b"
-generated_at: "2026-03-30T02:55:57.448Z"
+generated_at: "2026-11-23T20:27:06.207Z"
+status: "active"
 ---
 
 # § 422b. Definitions
@@ -18,3 +19,7 @@ As used in this subchapter—
 - **(d)** The term “project” shall mean (i) any complete irrigation project, or (ii) any multiple-purpose water resource project that is authorized or is eligible for authorization under the Federal reclamation laws, or (iii) any distinct unit of a project described in clause (i) and (ii) or (iv) any project for the drainage of irrigated lands, without regard to whether such lands are irrigated with water supplies developed pursuant to the Federal reclamation laws, or (v) any project for the rehabilitation and betterment of a project or distinct unit described in clauses (i), (ii), (iii), and (iv): Provided , That the estimated total cost of the project described in clause (i), (ii), (iii), (iv), or (v) does not exceed the maximum allowable estimated total project cost as determined by subsection (f) hereof: Provided further , That a project described in clause (i), (ii), or (iii) may consist of existing facilities as distinct from newly constructed facilities, and funds made available pursuant to this subchapter may be utilized to acquire such facilities subject to a determination by the Secretary that such facilities meet standards of design and construction which he shall promulgate and that the cost of such existing facilities represent less than fifty per centum of the cost of the project. Nothing contained in this subchapter shall preclude the making of more than one loan or grant, or combined loan and grant, to an organization so long as no two such loans or grants, or combinations thereof, are for the same project, as herein defined.
 - **(e)** The term “Secretary” shall mean the Secretary of the Interior.
 - **(f)** The maximum allowable estimated total project cost of a proposal submitted during any given calendar year shall be determined by the Secretary using the Bureau of Reclamation composite construction cost index for January of that year with $15,000,000 as the January 1971 base.
+
+## Source Credit
+
+*(Aug. 6, 1956, ch. 972, § 2, [70 Stat. 1044](https://www.govinfo.gov/link/statute/70/1044); [Pub. L. 89–553, § 1(1)](https://www.govinfo.gov/link/plaw/89/public/553), Sept. 2, 1966, [80 Stat. 376](https://www.govinfo.gov/link/statute/80/376); [Pub. L. 92–167, § 1(1)](https://www.govinfo.gov/link/plaw/92/public/167), Nov. 24, 1971, [85 Stat. 488](https://www.govinfo.gov/link/statute/85/488); [Pub. L. 94–181, § 1(a)](https://www.govinfo.gov/link/plaw/94/public/181), (b), Dec. 27, 1975, [89 Stat. 1049](https://www.govinfo.gov/link/statute/89/1049).)*

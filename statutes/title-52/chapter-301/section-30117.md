@@ -3,9 +3,10 @@ title: "Section 30117 - Modification of certain limits for House candidates in r
 usc_title: 52
 usc_section: "30117"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "52 U.S.C. § 30117"
-generated_at: "2026-03-30T02:56:30.173Z"
+generated_at: "2026-11-23T20:27:37.008Z"
+status: "active"
 ---
 
 # § 30117. Modification of certain limits for House candidates in response to personal fund expenditures of opponents
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:56:30.173Z"
       - **(ii)** each candidate in the same election and the national party of each such candidate.
   - **(2)** In the next regularly scheduled report after the date of the election for which a candidate seeks nomination for election to, or election to, Federal office, the candidate or the candidate’s authorized committee shall submit to the Commission a report indicating the source and amount of any excess contributions (as determined under subsection (a)) and the manner in which the candidate or the candidate’s authorized committee used such funds.
   - **(3)** For provisions providing for the enforcement of the reporting requirements under this subsection, see section 30109 of this title .
+
+## Source Credit
+
+*([Pub. L. 92–225, title III, § 315A](https://www.govinfo.gov/link/plaw/92/public/225), as added [Pub. L. 107–155, title III, § 319(a)](https://www.govinfo.gov/link/plaw/107/public/155), Mar. 27, 2002, [116 Stat. 109](https://www.govinfo.gov/link/statute/116/109).)*

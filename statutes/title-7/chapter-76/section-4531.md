@@ -3,9 +3,10 @@ title: "Section 4531 - Definitions"
 usc_title: 7
 usc_section: "4531"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 4531"
-generated_at: "2026-03-30T02:53:42.408Z"
+generated_at: "2026-11-23T20:25:41.621Z"
+status: "active"
 ---
 
 # § 4531. Definitions
@@ -24,3 +25,7 @@ For purposes of this subchapter—
   - **(10)** the term “research” means studies testing the effectiveness of market development and promotion efforts, studies relating to the nutritional value of milk and dairy products, and other related efforts to expand demand for milk and dairy products;
   - **(11)** the term “Secretary” means the Secretary of Agriculture unless the context specifies otherwise; and
   - **(12)** the term “United States”, when used in a geographical sense, means all of the States, the District of Columbia, and the Commonwealth of Puerto Rico.
+
+## Source Credit
+
+*([Pub. L. 98–180, title I, § 130](https://www.govinfo.gov/link/plaw/98/public/180), as added [Pub. L. 99–198, title I, § 121](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1367](https://www.govinfo.gov/link/statute/99/1367); amended [Pub. L. 110–234, title I, § 1507(c)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 997](https://www.govinfo.gov/link/statute/122/997); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1507(c), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1725.)*

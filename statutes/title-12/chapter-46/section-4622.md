@@ -3,9 +3,10 @@ title: "Section 4622 - Capital restoration plans"
 usc_title: 12
 usc_section: "4622"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4622"
-generated_at: "2026-03-30T02:53:53.514Z"
+generated_at: "2026-11-23T20:25:59.413Z"
+status: "active"
 ---
 
 # § 4622. Capital restoration plans
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:53.514Z"
 - **(b)** The Director shall, by regulation, establish a deadline for submission of a capital restoration plan, which may not be more than 45 days after the regulated entity is notified in writing that a plan is required. The regulations shall provide that the Director may extend the deadline to the extent that the Director determines it necessary. Any extension of the deadline shall be in writing and for a time certain.
 - **(c)** The Director shall review each capital restoration plan submitted under this section and, not later than 30 days after submission of the plan, approve or disapprove the plan. The Director may extend the period for approval or disapproval for any plan for a single additional 30-day period if the Director determines it necessary. The Director shall provide written notice to any regulated entity submitting a plan of the approval or disapproval of the plan (which shall include the reasons for any disapproval of the plan) and of any extension of the period for approval or disapproval.
 - **(d)** If the Director disapproves the initial capital restoration plan submitted by the regulated entity, the regulated entity shall submit an amended plan acceptable to the Director within 30 days or such longer period that the Director determines is in the public interest.
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1369C](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3985](https://www.govinfo.gov/link/statute/106/3985); [Pub. L. 110–289, div. A, title I, § 1145(b)(2)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2767](https://www.govinfo.gov/link/statute/122/2767).)*

@@ -3,9 +3,10 @@ title: "Section 1597 - Unlawful conduct with respect to immigration documents"
 usc_title: 18
 usc_section: "1597"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 1597"
-generated_at: "2026-03-30T02:54:16.489Z"
+generated_at: "2026-11-23T20:26:08.511Z"
+status: "active"
 ---
 
 # § 1597. Unlawful conduct with respect to immigration documents
@@ -16,3 +17,13 @@ generated_at: "2026-03-30T02:54:16.489Z"
   - **(3)** in order to, without lawful authority, maintain, prevent, or restrict the labor of services of the individual.
 - **(b)** Any person who violates subsection (a) shall be fined under this title, imprisoned for not more than 1 year, or both.
 - **(c)** Any person who knowingly obstructs, attempts to obstruct, or in any way interferes with or prevents the enforcement of this section, shall be subject to the penalties described in subsection (b).
+
+Destruction, Concealment, Removal, Confiscation, or Possession of Immigration Documents
+
+Penalty
+
+Obstruction
+
+## Source Credit
+
+*(Added [Pub. L. 113–4, title XII, § 1211(c)(1)](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 142](https://www.govinfo.gov/link/statute/127/142).)*

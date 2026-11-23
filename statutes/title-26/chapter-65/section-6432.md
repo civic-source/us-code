@@ -3,9 +3,10 @@ title: "Section 6432 - Continuation coverage premium assistance"
 usc_title: 26
 usc_section: "6432"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6432"
-generated_at: "2026-03-30T02:55:27.856Z"
+generated_at: "2026-11-23T20:26:46.668Z"
+status: "active"
 ---
 
 # § 6432. Continuation coverage premium assistance
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:55:27.856Z"
   - **(3)** to allow the advance payment of the credit determined under subsection (a), subject to the limitations provided in this section, based on such information as the Secretary shall require,
   - **(4)** to provide for the reconciliation of such advance payment with the amount of the credit at the time of filing the return of tax for the applicable quarter or taxable year, and
   - **(5)** allowing the credit to third party payors (including professional employer organizations, certified professional employer organizations, or agents under section 3504).
+
+## Source Credit
+
+*(Added [Pub. L. 117–2, title IX, § 9501(b)(1)(A)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 134](https://www.govinfo.gov/link/statute/135/134).)*

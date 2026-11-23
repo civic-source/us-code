@@ -3,12 +3,17 @@ title: "Section 2656 - Training grants"
 usc_title: 15
 usc_section: "2656"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2656"
-generated_at: "2026-03-30T02:54:08.180Z"
+generated_at: "2026-11-23T20:26:04.239Z"
+status: "active"
 ---
 
 # § 2656. Training grants
 
 - **(a)** The Administrator is authorized to award grants under this section to nonprofit organizations that demonstrate experience in implementing and operating health and safety asbestos training and education programs for workers who are or will be engaged in asbestos-related activities (including State and local governments, colleges and universities, joint labor-management trust funds, and nonprofit government employee organizations) to establish and, or, operate asbestos training programs on a not-for-profit basis. Applications for grants under this subsection shall be submitted in such form and manner, and contain such information, as the Administrator prescribes.
 - **(b)** Of such sums as are authorized to be appropriated pursuant to section 4021(a) of title 20 for the fiscal years 1991, 1992, 1993, 1994, and 1995, not more than $5,000,000 are authorized to be appropriated to carry out this section in each such fiscal year.
+
+## Source Credit
+
+*([Pub. L. 94–469, title II, § 216](https://www.govinfo.gov/link/plaw/94/public/469), as added [Pub. L. 101–637, § 16(a)(1)](https://www.govinfo.gov/link/plaw/101/public/637), Nov. 28, 1990, [104 Stat. 4597](https://www.govinfo.gov/link/statute/104/4597).)*

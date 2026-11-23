@@ -3,9 +3,10 @@ title: "Section 2735b - National Museum of American Diplomacy"
 usc_title: 22
 usc_section: "2735b"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2735b"
-generated_at: "2026-03-30T02:55:05.382Z"
+generated_at: "2026-11-23T20:26:32.396Z"
+status: "active"
 ---
 
 # § 2735b. National Museum of American Diplomacy
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:05.382Z"
   - **(4)** In addition to the authorization under paragraph (2) relating to the sale, trade, or transfer of documents, artifacts, or other articles described in paragraph (1), the Secretary of State may—
     - **(A)** loan the documents, artifacts, or other articles to other institutions, both foreign and domestic, for repair, study, or exhibition when not needed for use or display by the National Museum of American Diplomacy; and
     - **(B)** borrow documents, artifacts, or other articles from other institutions or individuals, both foreign and domestic, for activities consistent with subsection (a)(1).
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title I, § 65, as added [Pub. L. 118–159, div. G, title LXXII, § 7206](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2530](https://www.govinfo.gov/link/statute/138/2530).)*

@@ -3,9 +3,10 @@ title: "Section 15972 - Loan to place Alaska clean coal technology facility in s
 usc_title: 42
 usc_section: "15972"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 15972"
-generated_at: "2026-03-30T02:56:11.466Z"
+generated_at: "2026-11-23T20:27:23.593Z"
+status: "active"
 ---
 
 # § 15972. Loan to place Alaska clean coal technology facility in service
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.466Z"
   - **(4)** The Secretary may require any other terms and conditions that the Secretary determines to be appropriate.
 - **(d)** The Secretary shall retain any payments of principal and interest on the direct loan provided under subsection (b) to support energy research and development activities, to remain available until expended, subject to any other conditions in an applicable appropriations Act.
 - **(e)** There are authorized to be appropriated such sums as are necessary to provide the cost of a direct loan under subsection (b).
+
+## Source Credit
+
+*([Pub. L. 109–58, title IV, § 412](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 754](https://www.govinfo.gov/link/statute/119/754).)*

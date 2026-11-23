@@ -3,9 +3,10 @@ title: "Section 50302 - Loan guarantees for production of commercial reusable in
 usc_title: 51
 usc_section: "50302"
 chapter: 503
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 50302"
-generated_at: "2026-03-30T02:56:28.707Z"
+generated_at: "2026-11-23T20:27:37.494Z"
+status: "active"
 ---
 
 # § 50302. Loan guarantees for production of commercial reusable in-space transportation
@@ -36,3 +37,62 @@ generated_at: "2026-03-30T02:56:28.707Z"
   - **(1)** Notwithstanding any other provision of law, the Secretary may, subject to such terms and conditions as the Secretary considers appropriate, issue credit instruments to United States commercial providers of in-space transportation services or systems, with the aggregate cost (as determined under the provisions of the Federal Credit Reform Act of 1990 ( 2 U.S.C. 661 et seq.)) of such instruments not to exceed $1,500,000,000, but only to the extent that new budget authority to cover such costs is provided in subsequent appropriations Acts or authority is otherwise provided in subsequent appropriations Acts.
   - **(2)** The Secretary shall provide a credit subsidy for any credit instrument issued under this subsection in accordance with the provisions of the Federal Credit Reform Act of 1990 ( 2 U.S.C. 661 et seq.).
   - **(3)** The eligibility of a United States commercial provider of in-space transportation services or systems for a credit instrument under this subsection is in addition to any eligibility of such provider for a loan guarantee under other provisions of this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 50302 | 42 U.S.C. 14752 . | Pub. L. 107–248, title IX, § 903 , Oct. 23, 2002 , 116 Stat. 1574 . |
+
+
+Authority To Make Loan Guarantees
+
+Eligible United States Commercial Providers
+
+Limitation on Loans Guaranteed
+
+Credit Subsidy.—
+
+Collection required
+
+Periodic disbursements
+
+Other Terms and Conditions.—
+
+Prohibition on subordination
+
+Restriction on income
+
+Treatment of guarantee
+
+Other terms and conditions
+
+Enforcement of Rights.—
+
+In general
+
+Forbearance
+
+Utilization of property
+
+Credit Instruments.—
+
+Authority to issue instruments
+
+Credit subsidy
+
+Construction
+
+Historical and Revision Notes
+
+50302
+
+42 U.S.C. 14752
+
+Pub. L. 107–248, title IX, § 903
+
+Oct. 23, 2002
+
+116 Stat. 1574
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3402](https://www.govinfo.gov/link/statute/124/3402).)*

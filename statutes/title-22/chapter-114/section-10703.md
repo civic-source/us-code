@@ -3,9 +3,10 @@ title: "Section 10703 - Definitions"
 usc_title: 22
 usc_section: "10703"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 10703"
-generated_at: "2026-03-30T02:55:05.479Z"
+generated_at: "2026-11-23T20:26:32.832Z"
+status: "active"
 ---
 
 # § 10703. Definitions
@@ -28,3 +29,7 @@ In this subtitle:
     - **(E)** The Republic of North Macedonia.
     - **(F)** The Republic of Serbia.
   - **(4)** The term “Western Balkans country” means any country listed in subparagraphs (A) through (F) of paragraph (3).
+
+## Source Credit
+
+*([Pub. L. 119–60, div. H, title LXXXIII, § 8334](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1867](https://www.govinfo.gov/link/statute/139/1867).)*

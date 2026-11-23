@@ -3,9 +3,10 @@ title: "Section 1011a - Watershed agreements"
 usc_title: 16
 usc_section: "1011a"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1011a"
-generated_at: "2026-03-30T02:54:22.939Z"
+generated_at: "2026-11-23T20:26:20.364Z"
+status: "active"
 ---
 
 # § 1011a. Watershed agreements
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:22.939Z"
 - **(e)** Not later than December 31, 1999 , the Secretary shall submit a report to the Committees on Appropriations of the House and Senate, which contains—
   - **(1)** A 2 2 So in original. Probably should not be capitalized. concise description of each project, including the project purpose, location on federal 1 and non-federal 3 3 So in original. Probably should be “non-Federal”. land, key activities, and all parties to the agreement.
   - **(2)** the funding and/or other contributions provided by each party for each project agreement.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. A, § 101(e) [title III, § 323]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–231](https://www.govinfo.gov/link/statute/112/2681), 2681–290; [Pub. L. 107–63, title III, § 330](https://www.govinfo.gov/link/plaw/107/public/63), Nov. 5, 2001, [115 Stat. 471](https://www.govinfo.gov/link/statute/115/471); [Pub. L. 109–54, title IV, § 434](https://www.govinfo.gov/link/plaw/109/public/54), Aug. 2, 2005, [119 Stat. 557](https://www.govinfo.gov/link/statute/119/557); [Pub. L. 111–11, title III, § 3001](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1126](https://www.govinfo.gov/link/statute/123/1126).)*

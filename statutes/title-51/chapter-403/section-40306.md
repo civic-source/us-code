@@ -3,9 +3,10 @@ title: "Section 40306 - Space grant college and space grant regional consortium"
 usc_title: 51
 usc_section: "40306"
 chapter: 403
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 40306"
-generated_at: "2026-03-30T02:56:28.706Z"
+generated_at: "2026-11-23T20:27:37.481Z"
+status: "active"
 ---
 
 # § 40306. Space grant college and space grant regional consortium
@@ -27,3 +28,36 @@ generated_at: "2026-03-30T02:56:28.706Z"
   - **(1)** the qualifications required to be met under paragraphs (2)(C) and (3)(D) of subsection (a); and
   - **(2)** guidelines relating to the activities and responsibilities of space grant colleges and space grant regional consortia.
 - **(c)** The Administrator may, for cause and after an opportunity for hearing, suspend or terminate any designation under subsection (a).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 40306 | 42 U.S.C. 2486f . | Pub. L. 100–147, title II, § 208 , Oct. 30, 1987 , 101 Stat. 873 . |
+
+
+Designation and Qualifications.—
+
+Authority to designate
+
+Space grant college requirements
+
+Space grant regional consortium requirements
+
+Qualifications and Guidelines
+
+Suspension or Termination of Designation
+
+Historical and Revision Notes
+
+40306
+
+42 U.S.C. 2486f
+
+Pub. L. 100–147, title II, § 208
+
+Oct. 30, 1987
+
+101 Stat. 873
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3386](https://www.govinfo.gov/link/statute/124/3386).)*

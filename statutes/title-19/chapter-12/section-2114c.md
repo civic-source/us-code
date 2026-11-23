@@ -3,9 +3,10 @@ title: "Section 2114c - Trade in services: development, coordination, and implem
 usc_title: 19
 usc_section: "2114c"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2114c"
-generated_at: "2026-03-30T02:54:24.664Z"
+generated_at: "2026-11-23T20:26:10.907Z"
+status: "active"
 ---
 
 # § 2114c. Trade in services: development, coordination, and implementation of Federal policies; staff support and other assistance; specific service sector authorities unaffected; executive functions
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:24.664Z"
       - **(i)** consult with State governments on issues of trade policy, including negotiating objectives and implementation of trade agreements, affecting the regulatory authority of non-Federal governments, or their procurement of goods and services;
       - **(ii)** establish one or more intergovernmental policy advisory committees on trade which shall serve as a principal forum in which State and local governments may consult with the Federal Government with respect to the matters described in clause (i); and
       - **(iii)** provide to State and local governments and to United States service industries, upon their request, advice, assistance, and (except as may be otherwise prohibited by law) data, analyses, and information concerning United States policies on international trade in services.
+
+## Source Credit
+
+*([Pub. L. 98–573, title III, § 306(c)(1)](https://www.govinfo.gov/link/plaw/98/public/573), (2)(A), Oct. 30, 1984, [98 Stat. 3010](https://www.govinfo.gov/link/statute/98/3010), 3011.)*

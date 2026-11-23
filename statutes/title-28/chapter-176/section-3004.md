@@ -3,9 +3,10 @@ title: "Section 3004 - Service of process; enforcement; notice"
 usc_title: 28
 usc_section: "3004"
 chapter: 176
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 3004"
-generated_at: "2026-03-30T02:55:30.152Z"
+generated_at: "2026-11-23T20:26:36.540Z"
+status: "active"
 ---
 
 # § 3004. Service of process; enforcement; notice
@@ -17,3 +18,13 @@ generated_at: "2026-03-30T02:55:30.152Z"
     - **(B)** such writ, order, or judgment may be enforced by the court issuing the writ, order, or process, regardless of where the person is served with the writ, order, or process.
   - **(2)** If the debtor so requests, within 20 days after receiving the notice described in section 3101(d) or 3202(b), the action or proceeding in which the writ, order, or judgment was issued shall be transferred to the district court for the district in which the debtor resides.
 - **(c)** At such time as counsel for the United States considers appropriate, but not later than the time a prejudgment or postjudgment remedy is put into effect under this chapter, counsel for the United States shall exercise reasonable diligence to serve on the debtor and any person who the United States believes, after exercising due diligence, has possession, custody, or control of the property, a copy of the application for such remedy, the order granting such remedy, and the notice required by section 3101(d) or 3202(b).
+
+Manner of Service
+
+Nationwide Enforcement
+
+Notice and Other Process
+
+## Source Credit
+
+*(Added [Pub. L. 101–647, title XXXVI, § 3611](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4936](https://www.govinfo.gov/link/statute/104/4936).)*

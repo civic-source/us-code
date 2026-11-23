@@ -3,9 +3,10 @@ title: "Section 628d - Effective implementation of the Indian Child Welfare Act 
 usc_title: 42
 usc_section: "628d"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 628d"
-generated_at: "2026-03-30T02:56:10.876Z"
+generated_at: "2026-11-23T20:27:20.857Z"
+status: "active"
 ---
 
 # § 628d. Effective implementation of the Indian Child Welfare Act of 1978
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:10.876Z"
 - **(c)** The Secretary shall biennially submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a written report on how—
   - **(1)** the States are complying with the Indian Child Welfare Act of 1978 and section 622(b)(9) of this title , as informed by data collected under this section; and
   - **(2)** the Secretary is assisting States and Indian tribes to improve implementation of Federal standards established under the Indian Child Welfare Act of 1978.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 429B, as added [Pub. L. 118–258, title I, § 107(a)(2)(B)](https://www.govinfo.gov/link/plaw/118/public/258), Jan. 4, 2025, [138 Stat. 2954](https://www.govinfo.gov/link/statute/138/2954).)*

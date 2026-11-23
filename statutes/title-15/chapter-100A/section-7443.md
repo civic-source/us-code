@@ -3,9 +3,10 @@ title: "Section 7443 - National cybersecurity awareness and education program"
 usc_title: 15
 usc_section: "7443"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 7443"
-generated_at: "2026-03-30T02:54:08.224Z"
+generated_at: "2026-11-23T20:26:04.457Z"
+status: "active"
 ---
 
 # § 7443. National cybersecurity awareness and education program
@@ -56,3 +57,19 @@ generated_at: "2026-03-30T02:54:08.224Z"
     - **(B)** Each report submitted under subparagraph (A) by a regional alliance or partnership shall include the following:
       - **(i)** An assessment of efforts made by the regional alliance or partnership to carry out paragraph (2).
       - **(ii)** The metrics used by the regional alliance or partnership to measure the success of the efforts of the regional alliance or partnership under the cooperative agreement.
+
+(aa) at least one institution of higher education or nonprofit training organization; and
+
+(bb) at least one local employer or owner or operator of critical infrastructure.
+
+Identification of multiple cybersecurity career pathways
+
+Requirements
+
+Exchange program
+
+“Not later than 540 days after the date of the enactment of this Act [ Jan. 1, 2021 ], the Director of the National Institute of Standards and Technology shall, in coordination with the Secretary of Defense, the Secretary of Homeland Security, and the heads of other appropriate agencies—
+
+## Source Credit
+
+*([Pub. L. 113–274, title III, § 303](https://www.govinfo.gov/link/plaw/113/public/274), formerly title IV, § 401, Dec. 18, 2014, [128 Stat. 2985](https://www.govinfo.gov/link/statute/128/2985); renumbered title III, § 303, and amended [Pub. L. 116–283, div. H, title XCIV, § 9401(a)](https://www.govinfo.gov/link/plaw/116/public/283), (b), (e)–(g)(1), Jan. 1, 2021, [134 Stat. 4805–4807](https://www.govinfo.gov/link/statute/134/4805), 4809.)*

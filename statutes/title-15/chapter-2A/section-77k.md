@@ -3,9 +3,10 @@ title: "Section 77k - Civil liabilities on account of false registration stateme
 usc_title: 15
 usc_section: "77k"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 77k"
-generated_at: "2026-03-30T02:54:08.033Z"
+generated_at: "2026-11-23T20:26:03.440Z"
+status: "active"
 ---
 
 # § 77k. Civil liabilities on account of false registration statement
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:08.033Z"
     - **(A)** The liability of an outside director under subsection (e) shall be determined in accordance with section 78u–4(f) of this title .
     - **(B)** For purposes of this paragraph, the term “outside director” shall have the meaning given such term by rule or regulation of the Commission.
 - **(g)** In no case shall the amount recoverable under this section exceed the price at which the security was offered to the public.
+
+## Source Credit
+
+*(May 27, 1933, ch. 38, title I, § 11, [48 Stat. 82](https://www.govinfo.gov/link/statute/48/82); June 6, 1934, ch. 404, title II, § 206, [48 Stat. 907](https://www.govinfo.gov/link/statute/48/907); [Pub. L. 104–67, title II, § 201(b)](https://www.govinfo.gov/link/plaw/104/public/67), Dec. 22, 1995, [109 Stat. 762](https://www.govinfo.gov/link/statute/109/762); [Pub. L. 105–353, title III, § 301(a)(2)](https://www.govinfo.gov/link/plaw/105/public/353), Nov. 3, 1998, [112 Stat. 3235](https://www.govinfo.gov/link/statute/112/3235).)*

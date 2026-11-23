@@ -3,9 +3,10 @@ title: "Section 2357 - Furnishing of services and commodities"
 usc_title: 22
 usc_section: "2357"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2357"
-generated_at: "2026-03-30T02:55:05.360Z"
+generated_at: "2026-11-23T20:26:32.259Z"
+status: "active"
 ---
 
 # § 2357. Furnishing of services and commodities
@@ -24,3 +25,9 @@ generated_at: "2026-03-30T02:55:05.360Z"
   - **(1)** that there is a need for such property in the quantity requested and that such property is suitable for the purpose requested;
   - **(2)** as to the status and responsibility of the designated end-user and his ability effectively to use and maintain such property; and
   - **(3)** that the residual value, serviceability, and appearance of such property would not reflect unfavorably on the image of the United States and would justify the costs of packing, crating, handling, transportation, and other accessorial costs, and that the residual value at least equals the total of these costs.
+
+William J. Clinton.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. III, § 607, Sept. 4, 1961, [75 Stat. 441](https://www.govinfo.gov/link/statute/75/441); [Pub. L. 90–554](https://www.govinfo.gov/link/plaw/90/public/554), pt. III, § 301(b), Oct. 8, 1968, [82 Stat. 963](https://www.govinfo.gov/link/statute/82/963); [Pub. L. 94–161, title III, § 315](https://www.govinfo.gov/link/plaw/94/public/161), Dec. 20, 1975, [89 Stat. 867](https://www.govinfo.gov/link/statute/89/867); [Pub. L. 95–88, title I, § 122(a)](https://www.govinfo.gov/link/plaw/95/public/88), Aug. 3, 1977, [91 Stat. 541](https://www.govinfo.gov/link/statute/91/541); [Pub. L. 95–424, title V, § 503](https://www.govinfo.gov/link/plaw/95/public/424), Oct. 6, 1978, [92 Stat. 959](https://www.govinfo.gov/link/statute/92/959); 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783](https://www.govinfo.gov/link/statute/92/3783); [Pub. L. 96–53, title I, § 121](https://www.govinfo.gov/link/plaw/96/public/53), Aug. 14, 1979, [93 Stat. 366](https://www.govinfo.gov/link/statute/93/366); [Pub. L. 99–93, title I, § 129](https://www.govinfo.gov/link/plaw/99/public/93), Aug. 16, 1985, [99 Stat. 419](https://www.govinfo.gov/link/statute/99/419).)*

@@ -3,9 +3,10 @@ title: "Section 1804 - Inland and intracoastal waterways of the United States"
 usc_title: 33
 usc_section: "1804"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1804"
-generated_at: "2026-03-30T02:55:41.109Z"
+generated_at: "2026-11-23T20:26:54.097Z"
+status: "active"
 ---
 
 # § 1804. Inland and intracoastal waterways of the United States
@@ -39,3 +40,7 @@ For purposes of section 4042 of title 26 (relating to tax on fuel used in commer
   - **(25)** White River: From RM 9.8 to RM 255 at Newport, Arkansas.
   - **(26)** Willamette River: From RM 21 upstream of Portland, Oregon, to Harrisburg, Oregon, at RM 194.
   - **(27)** Tennessee-Tombigbee Waterway: From its confluence with the Tennessee River to the Warrior River at Demopolis, Alabama.
+
+## Source Credit
+
+*([Pub. L. 95–502, title II, § 206](https://www.govinfo.gov/link/plaw/95/public/502), Oct. 21, 1978, [92 Stat. 1700](https://www.govinfo.gov/link/statute/92/1700); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 99–662, title XIV, § 1404(b)](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4270](https://www.govinfo.gov/link/statute/100/4270).)*

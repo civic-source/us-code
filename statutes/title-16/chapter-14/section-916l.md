@@ -3,9 +3,10 @@ title: "Section 916l - Authorization of appropriations"
 usc_title: 16
 usc_section: "916l"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 916l"
-generated_at: "2026-03-30T02:54:22.934Z"
+generated_at: "2026-11-23T20:26:20.334Z"
+status: "active"
 ---
 
 # § 916l. Authorization of appropriations
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:22.934Z"
 - **(h)** equipment;
       - **(i)** purchase, hire, operation, maintenance, and repair of aircraft, motor vehicles (including passenger-carrying vehicles), boats, and research vessels.
 
+
+## Source Credit
+
+*(Aug. 9, 1950, ch. 653, § 14, [64 Stat. 425](https://www.govinfo.gov/link/statute/64/425).)*

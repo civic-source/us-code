@@ -3,9 +3,10 @@ title: "Section 114b - Manufacturer rebate for certain drugs with prices increas
 usc_title: 42
 usc_section: "114b"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 114b"
-generated_at: "2026-03-30T02:56:10.988Z"
+generated_at: "2026-11-23T20:27:21.307Z"
+status: "active"
 ---
 
 # § 1395w–114b. Manufacturer rebate for certain drugs with prices increasing faster than inflation
@@ -81,3 +82,7 @@ generated_at: "2026-03-30T02:56:10.988Z"
   - **(6)** The term “average manufacturer price” has the meaning, with respect to a part D rebatable drug of a manufacturer, given such term in section 1396r–8(k)(1) of this title , with respect to a covered outpatient drug of a manufacturer for a rebate period under section 1396r–8 of this title .
   - **(7)** The term “applicable period” means a 12-month period beginning with October 1 of a year (beginning with October 1, 2022 ).
 - **(h)** The Secretary shall implement this section for 2022, 2023, and 2024 by program instruction or other forms of program guidance.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1860D–14B, as added [Pub. L. 117–169, title I, § 11102(a)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 1871](https://www.govinfo.gov/link/statute/136/1871).)*

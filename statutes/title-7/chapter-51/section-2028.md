@@ -3,9 +3,10 @@ title: "Section 2028 - Consolidated block grants for Puerto Rico and American Sa
 usc_title: 7
 usc_section: "2028"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2028"
-generated_at: "2026-03-30T02:53:42.373Z"
+generated_at: "2026-11-23T20:25:41.467Z"
+status: "active"
 ---
 
 # § 2028. Consolidated block grants for Puerto Rico and American Samoa
@@ -68,3 +69,19 @@ generated_at: "2026-03-30T02:53:42.373Z"
       - **(v)** for fiscal year 2021 that provides for the distribution of any portion of the nutrition assistance benefit of a participant in the form of cash.
     - **(B)** Notwithstanding subparagraph (A), the Secretary, informed by the report required under paragraph (2), may approve a plan that exempts participants or categories of participants if the Secretary determines that discontinuation of benefits in the form of cash is likely to have significant adverse effects.
   - **(4)** Out of any funds made available under section 2027 of this title for fiscal year 2014, the Secretary shall make available to carry out the review and report described in paragraphs (1) and (2) $1,000,000, to remain available until expended.
+
+Applicability.—
+
+In general
+
+Exceptions
+
+Effective Date
+
+Study of Nutritional Needs of Puerto Ricans
+
+Report of Findings
+
+## Source Credit
+
+*([Pub. L. 88–525, § 19](https://www.govinfo.gov/link/plaw/88/public/525), as added [Pub. L. 97–35, title I, § 116(a)(2)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 364](https://www.govinfo.gov/link/statute/95/364); amended [Pub. L. 97–253, title I, § 184(a)](https://www.govinfo.gov/link/plaw/97/public/253), Sept. 8, 1982, [96 Stat. 785](https://www.govinfo.gov/link/statute/96/785); [Pub. L. 98–204, § 1](https://www.govinfo.gov/link/plaw/98/public/204), Dec. 2, 1983, [97 Stat. 1385](https://www.govinfo.gov/link/statute/97/1385); [Pub. L. 99–114, § 2](https://www.govinfo.gov/link/plaw/99/public/114), Oct. 1, 1985, [99 Stat. 488](https://www.govinfo.gov/link/statute/99/488); [Pub. L. 99–157, § 3](https://www.govinfo.gov/link/plaw/99/public/157), Nov. 15, 1985, [99 Stat. 818](https://www.govinfo.gov/link/statute/99/818); [Pub. L. 99–182, § 3](https://www.govinfo.gov/link/plaw/99/public/182), Dec. 13, 1985, [99 Stat. 1173](https://www.govinfo.gov/link/statute/99/1173); [Pub. L. 99–198, title XV, § 1543](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1589](https://www.govinfo.gov/link/statute/99/1589); [Pub. L. 101–624, title XVII, § 1762(b)](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3804](https://www.govinfo.gov/link/statute/104/3804); [Pub. L. 102–237, title IX, § 941(9)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1893](https://www.govinfo.gov/link/statute/105/1893); [Pub. L. 103–66, title XIII, § 13917](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 674](https://www.govinfo.gov/link/statute/107/674); [Pub. L. 104–127, title IV, § 401(f)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1026](https://www.govinfo.gov/link/statute/110/1026); [Pub. L. 106–387, § 1(a) [title VIII, § 821]](https://www.govinfo.gov/link/plaw/106/public/387), Oct. 28, 2000, [114 Stat. 1549](https://www.govinfo.gov/link/statute/114/1549), 1549A–59; [Pub. L. 107–171, title IV, § 4124(a)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 324](https://www.govinfo.gov/link/statute/116/324); [Pub. L. 110–234, title IV](https://www.govinfo.gov/link/plaw/110/public/234), §§ 4115(b)(13), 4406(a)(6), May 22, 2008, [122 Stat. 1108](https://www.govinfo.gov/link/statute/122/1108), 1141; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, §§ 4115(b)(13), 4406(a)(6), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1870, 1902; [Pub. L. 113–79, title IV, § 4025](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 809](https://www.govinfo.gov/link/statute/128/809); [Pub. L. 119–21, title I, § 10101(b)(2)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 81](https://www.govinfo.gov/link/statute/139/81).)*

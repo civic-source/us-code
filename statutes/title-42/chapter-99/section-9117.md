@@ -3,9 +3,10 @@ title: "Section 9117 - Protection of the environment"
 usc_title: 42
 usc_section: "9117"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9117"
-generated_at: "2026-03-30T02:56:11.350Z"
+generated_at: "2026-11-23T20:27:23.073Z"
+status: "active"
 ---
 
 # § 9117. Protection of the environment
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.350Z"
 - **(d)** The program established by subsections (a) and (b) of this section shall be reduced to the minimum necessary to perform baseline studies and to analyze monitoring data, when the Administrator determines that the program has resulted in sufficient knowledge to make the determinations enumerated in subsection (b) of this section with an acceptable level of confidence.
 - **(e)** The issuance of any license for ownership, construction, and operation of an ocean thermal energy conversion facility or plantship shall be deemed to be a major Federal action significantly affecting the quality of the human environment for purposes of section 4332(2)(C) of this title . For all timely applications covering proposed facilities in a single application area, and for each application relating to a proposed plantship, the Administrator shall, pursuant to such section 4332(2)(C) of this title and in cooperation with other involved Federal agencies and departments, prepare a single environmental impact statement, which shall fulfill the requirement of all Federal agencies in carrying out their responsibilities pursuant to this chapter to prepare an environmental impact statement. Each such draft environmental impact statement relating to proposed facilities shall be prepared and published within 180 days after notice of the initial application has been published pursuant to section 9112(d) of this title . Each such draft environmental impact statement relating to a proposed plantship shall be prepared and published within 180 days after notice of the application has been published pursuant to section 9112(d) of this title . Each final environmental impact statement shall be published not later than 90 days following the date on which public hearings are concluded pursuant to section 9112(g) of this title . The Administrator may extend the deadline for publication of a specific draft or final environmental impact statement to a later specified time for good cause shown in writing.
 - **(f)** An ocean thermal energy conversion facility or plantship licensed under this subchapter shall be deemed not to be a “vessel or other floating craft” for the purposes of section 1362(12)(B) of title 33 .
+
+## Source Credit
+
+*([Pub. L. 96–320, title I, § 107](https://www.govinfo.gov/link/plaw/96/public/320), Aug. 3, 1980, [94 Stat. 984](https://www.govinfo.gov/link/statute/94/984).)*

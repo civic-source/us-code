@@ -3,9 +3,10 @@ title: "Section 683 - Borrowing operations"
 usc_title: 15
 usc_section: "683"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 683"
-generated_at: "2026-03-30T02:54:08.109Z"
+generated_at: "2026-11-23T20:26:03.854Z"
+status: "active"
 ---
 
 # § 683. Borrowing operations
@@ -80,3 +81,35 @@ generated_at: "2026-03-30T02:54:08.109Z"
 - **(i)** With respect to leverage granted by the Administration to a licensee, the Administration shall collect from the licensee a nonrefundable fee in an amount equal to 3 percent of the face amount of leverage granted to the licensee in the following manner: 1 percent upon the date on which the Administration enters into any commitment for such leverage with the licensee, and the balance of 2 percent (or 3 percent if no commitment has been entered into by the Administration) on the date on which the leverage is drawn by the licensee.
 - **(j)** All fees, interest, and profits received and retained by the Administration under this section shall be included in the calculations made by the Director of the Office of Management and Budget to offset the cost (as that term is defined in section 661a of title 2 ) to the Administration of purchasing and guaranteeing debentures and participating securities under this chapter.
 - **(k)** In addition to any other authority under this chapter, a small business investment company licensed in the first fiscal year after December 19, 2007 , or any fiscal year thereafter may issue Energy Saving debentures.
+
+Maximum leverage.—
+
+In general
+
+Multiple licenses under common control
+
+Investments in low-income geographic areas
+
+Investments in energy saving small businesses.—
+
+In general
+
+Limitations.—
+
+Amount of exclusion
+
+Maximum investment
+
+Other terms
+
+In general
+
+Exception
+
+Uniform applicability
+
+Definitions
+
+## Source Credit
+
+*([Pub. L. 85–699, title III, § 303](https://www.govinfo.gov/link/plaw/85/public/699), Aug. 21, 1958, [72 Stat. 692](https://www.govinfo.gov/link/statute/72/692); [Pub. L. 87–341, § 4](https://www.govinfo.gov/link/plaw/87/public/341), Oct. 3, 1961, [75 Stat. 752](https://www.govinfo.gov/link/statute/75/752); [Pub. L. 88–273, § 3](https://www.govinfo.gov/link/plaw/88/public/273), Feb. 28, 1964, [78 Stat. 146](https://www.govinfo.gov/link/statute/78/146); [Pub. L. 90–104, title II, § 205](https://www.govinfo.gov/link/plaw/90/public/104), Oct. 11, 1967, [81 Stat. 270](https://www.govinfo.gov/link/statute/81/270); [Pub. L. 92–213, § 10](https://www.govinfo.gov/link/plaw/92/public/213), Dec. 22, 1971, [85 Stat. 776](https://www.govinfo.gov/link/statute/85/776); [Pub. L. 92–595, § 2(c)](https://www.govinfo.gov/link/plaw/92/public/595), (d), Oct. 27, 1972, [86 Stat. 1314](https://www.govinfo.gov/link/statute/86/1314); [Pub. L. 94–305, title I, § 104](https://www.govinfo.gov/link/plaw/94/public/305), June 4, 1976, [90 Stat. 665](https://www.govinfo.gov/link/statute/90/665); [Pub. L. 95–507, title I, § 101](https://www.govinfo.gov/link/plaw/95/public/507), Oct. 24, 1978, [92 Stat. 1757](https://www.govinfo.gov/link/statute/92/1757); [Pub. L. 101–162, title V](https://www.govinfo.gov/link/plaw/101/public/162), (4), Nov. 21, 1989, [103 Stat. 1025](https://www.govinfo.gov/link/statute/103/1025); [Pub. L. 101–574, title II, § 215(a)(1)](https://www.govinfo.gov/link/plaw/101/public/574), (b), Nov. 15, 1990, [104 Stat. 2822](https://www.govinfo.gov/link/statute/104/2822); [Pub. L. 102–366, title IV](https://www.govinfo.gov/link/plaw/102/public/366), §§ 402, 403, 412, 413, Sept. 4, 1992, [106 Stat. 1008](https://www.govinfo.gov/link/statute/106/1008), 1009, 1018; [Pub. L. 103–403, title II, § 215](https://www.govinfo.gov/link/plaw/103/public/403), Oct. 22, 1994, [108 Stat. 4184](https://www.govinfo.gov/link/statute/108/4184); [Pub. L. 104–208, div. D, title II, § 208(d)(1)](https://www.govinfo.gov/link/plaw/104/public/208) –(4)(A), (5), (6), (h)(1)(A), Sept. 30, 1996, [110 Stat. 3009–743](https://www.govinfo.gov/link/statute/110/3009), 3009–744, 3009–746; [Pub. L. 105–135, title II, § 215(b)](https://www.govinfo.gov/link/plaw/105/public/135) –(d), Dec. 2, 1997, [111 Stat. 2602](https://www.govinfo.gov/link/statute/111/2602), 2603; [Pub. L. 106–9, § 2(d)(1)](https://www.govinfo.gov/link/plaw/106/public/9), Apr. 5, 1999, [113 Stat. 18](https://www.govinfo.gov/link/statute/113/18); [Pub. L. 106–554, § 1(a)(8) [§ 1(d)]](https://www.govinfo.gov/link/plaw/106/public/554), § 1(a)(9) [title IV, §§ 404, 405], Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–664, 2763A–690, 2763A–691; [Pub. L. 107–100, § 2(a)](https://www.govinfo.gov/link/plaw/107/public/100), Dec. 21, 2001, [115 Stat. 966](https://www.govinfo.gov/link/statute/115/966); [Pub. L. 108–84, § 117](https://www.govinfo.gov/link/plaw/108/public/84), Sept. 30, 2003, [117 Stat. 1044](https://www.govinfo.gov/link/statute/117/1044); [Pub. L. 108–172, § 1(b)](https://www.govinfo.gov/link/plaw/108/public/172), Dec. 6, 2003, [117 Stat. 2065](https://www.govinfo.gov/link/statute/117/2065); [Pub. L. 108–447, div. K, title II, § 201](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3465](https://www.govinfo.gov/link/statute/118/3465); [Pub. L. 110–140, title XII](https://www.govinfo.gov/link/plaw/110/public/140), §§ 1205(a), 1206, Dec. 19, 2007, [121 Stat. 1773](https://www.govinfo.gov/link/statute/121/1773); [Pub. L. 111–5, div. A, title V, § 505(a)](https://www.govinfo.gov/link/plaw/111/public/5), (c), Feb. 17, 2009, [123 Stat. 156](https://www.govinfo.gov/link/statute/123/156), 157; [Pub. L. 114–113, div. E, title V, § 521(b)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2464](https://www.govinfo.gov/link/statute/129/2464); [Pub. L. 115–187, § 2](https://www.govinfo.gov/link/plaw/115/public/187), June 21, 2018, [132 Stat. 1489](https://www.govinfo.gov/link/statute/132/1489).)*

@@ -3,9 +3,10 @@ title: "Section 1015f - State commitment to affordable college education"
 usc_title: 20
 usc_section: "1015f"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1015f"
-generated_at: "2026-03-30T02:54:48.095Z"
+generated_at: "2026-11-23T20:26:14.311Z"
+status: "active"
 ---
 
 # § 1015f. State commitment to affordable college education
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:48.095Z"
 - **(b)** The Secretary shall take into consideration any adjustments to the calculations under subsection (a) that may be required to accurately reflect funding levels for postsecondary education in States with biennial appropriation cycles.
 - **(c)** The Secretary shall waive the requirements of subsection (a), if the Secretary determines that such a waiver would be equitable due to exceptional or uncontrollable circumstances, such as a natural disaster or a precipitous and unforseen 1 1 So in original. Probably should be “unforeseen”. decline in the financial resources of a State or State educational agency, as appropriate.
 - **(d)** Notwithstanding any other provision of law, the Secretary shall withhold from any State that violates subsection (a) and does not receive a waiver pursuant to subsection (c) any amount that would otherwise be available to the State under section 1141 of this title until such State has made significant efforts to correct such violation.
+
+## Source Credit
+
+*([Pub. L. 89–329, title I, § 137](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title I, § 116](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3113](https://www.govinfo.gov/link/statute/122/3113).)*

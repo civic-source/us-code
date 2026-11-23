@@ -3,9 +3,10 @@ title: "Section 142 - Privacy officer"
 usc_title: 6
 usc_section: "142"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 142"
-generated_at: "2026-03-30T02:53:09.446Z"
+generated_at: "2026-11-23T20:25:34.651Z"
+status: "active"
 ---
 
 # § 142. Privacy officer
@@ -50,3 +51,11 @@ generated_at: "2026-03-30T02:53:09.446Z"
   - **(2)** inform the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives not later than—
     - **(A)** 30 days after the Secretary disapproves the senior official’s request for a subpoena under subsection (b)(1)(C) or the Secretary substantively modifies the requested subpoena; or
     - **(B)** 45 days after the senior official’s request for a subpoena under subsection (b)(1)(C), if that subpoena has not either been approved or disapproved by the Secretary.
+
+(aa) make a determination regarding whether the Inspector General intends to initiate an audit or investigation of the matter referred under clause (i); and
+
+(bb) notify the senior official of that determination.
+
+## Source Credit
+
+*([Pub. L. 107–296, title II, § 222](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2155](https://www.govinfo.gov/link/statute/116/2155); [Pub. L. 108–458, title VIII, § 8305](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3868](https://www.govinfo.gov/link/statute/118/3868); [Pub. L. 110–53, title VIII, § 802](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 358](https://www.govinfo.gov/link/statute/121/358).)*

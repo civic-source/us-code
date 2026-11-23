@@ -3,9 +3,10 @@ title: "Section 47102 - Definitions"
 usc_title: 49
 usc_section: "47102"
 chapter: 471
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 47102"
-generated_at: "2026-03-30T02:56:19.398Z"
+generated_at: "2026-11-23T20:27:35.269Z"
+status: "active"
 ---
 
 # § 47102. Definitions
@@ -121,3 +122,176 @@ In this subchapter—
       - **(ii)** access roads servicing exclusively airport traffic that leads directly to or from an airport passenger terminal building; and
       - **(iii)** walkways that lead directly to or from an airport passenger terminal building; and
     - **(B)** the cost of a vehicle for moving passengers and baggage between terminal facilities and between terminal facilities and aircraft.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 47102(1) | (no source). |  |
+| 47102(2) | 49 App.:2202(a)(1). | Sept. 3, 1982 , Pub. L. 97–248, § 503(a)(1) , 96 Stat. 672 ; Dec. 30, 1987 , Pub. L. 100–223, § 103(a) , 101 Stat. 1488 . |
+|  | 49 App.:2202(a)(21). | Sept. 3, 1982 , Pub. L. 97–248, § 503(a)(13) –(19), (21)–(23), 96 Stat. 673 , 674; Dec. 30, 1987 , Pub. L. 100–223, § 103(c)(1) , 101 Stat. 1488 . |
+| 47102(3) | 49 App.:2202(a)(2). | Sept. 3, 1982 , Pub. L. 97–248, § 503(a)(2) , 96 Stat. 672 ; Dec. 30, 1987 , Pub. L. 100–223, § 103(b) , 101 Stat. 1488 ; Nov. 5, 1990 , Pub. L. 101–508, § 9102 , 104 Stat. 1388–354 ; Oct. 31, 1992 , Pub. L. 102–581, § 112(a) , (b), 106 Stat. 4880 . |
+| 47102(4) | 49 App.:2202(a)(3). | Sept. 3, 1982 , Pub. L. 97–248, § 503(a)(3) –(5), (7), (8), (b), 96 Stat. 673 , 674. |
+| 47102(5) | 49 App.:2202(a)(4). |  |
+| 47102(6) | 49 App.:2202(b). |  |
+| 47102(7) | 49 App.:2202(a)(5). |  |
+| 47102(8) | 49 App.:2202(a)(7). |  |
+| 47102(9) | 49 App.:2202(a)(9). | Sept. 3, 1982 , Pub. L. 97–248 , 96 Stat. 324 , § 503(a)(9); added Dec. 30, 1987 , Pub. L. 100–223, § 103(c)(2) , 101 Stat. 1488 . |
+| 47102(10) | 49 App.:2202(a)(10). | Sept. 3, 1982 , Pub. L. 97–248, § 503(a)(10) , 96 Stat. 673 ; Dec. 30, 1987 , Pub. L. 100–223, § 103(c)(1) , (d), 101 Stat. 1488 ; Oct. 31, 1992 , Pub. L. 102–581, § 115 , 106 Stat. 4881 . |
+| 47102(11) | 49 App.:2202(a)(12). | Sept. 3, 1982 , Pub. L. 97–248, § 503(a)(12) , 96 Stat. 673 ; Dec. 30, 1987 , Pub. L. 100–223, § 103(c)(1) , (e), 101 Stat. 1488 . |
+| 47102(12) | 49 App.:2202(a)(13). |  |
+| 47102(13) | 49 App.:2202(a)(14). |  |
+| 47102(14) | 49 App.:2202(a)(15). |  |
+| 47102(15) | 49 App.:2202(a)(16). |  |
+| 47102(16) | 49 App.:2202(a)(8), (17). |  |
+| 47102(17) | 49 App.:2202(a)(18). |  |
+| 47102(18) | 49 App.:2202(a)(19). |  |
+| 47102(19) | 49 App.:2202(a)(22). |  |
+| 47102(20) | 49 App.:2202(a)(23). |  |
+
+
+Historical and Revision Notes
+
+47102(1)
+
+47102(2)
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 503(a)(1)
+
+96 Stat. 672
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 103(a)
+
+101 Stat. 1488
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 503(a)(13)
+
+96 Stat. 673
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 103(c)(1)
+
+101 Stat. 1488
+
+47102(3)
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 503(a)(2)
+
+96 Stat. 672
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 103(b)
+
+101 Stat. 1488
+
+Nov. 5, 1990
+
+Pub. L. 101–508, § 9102
+
+104 Stat. 1388–354
+
+Oct. 31, 1992
+
+Pub. L. 102–581, § 112(a)
+
+106 Stat. 4880
+
+47102(4)
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 503(a)(3)
+
+96 Stat. 673
+
+47102(5)
+
+47102(6)
+
+47102(7)
+
+47102(8)
+
+47102(9)
+
+Sept. 3, 1982
+
+Pub. L. 97–248
+
+96 Stat. 324
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 103(c)(2)
+
+101 Stat. 1488
+
+47102(10)
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 503(a)(10)
+
+96 Stat. 673
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 103(c)(1)
+
+101 Stat. 1488
+
+Oct. 31, 1992
+
+Pub. L. 102–581, § 115
+
+106 Stat. 4881
+
+47102(11)
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 503(a)(12)
+
+96 Stat. 673
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 103(c)(1)
+
+101 Stat. 1488
+
+47102(12)
+
+47102(13)
+
+47102(14)
+
+47102(15)
+
+47102(16)
+
+47102(17)
+
+47102(18)
+
+47102(19)
+
+47102(20)
+
+“Notwithstanding section 47102 of title 49 , United States Code, for fiscal years 2024 through 2028—
+
+Eligible low-emission modifications and improvements
+
+Eligible low-emission vehicle technology
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1248](https://www.govinfo.gov/link/statute/108/1248); [Pub. L. 103–305, title I, § 105](https://www.govinfo.gov/link/plaw/103/public/305), Aug. 23, 1994, [108 Stat. 1572](https://www.govinfo.gov/link/statute/108/1572); [Pub. L. 104–264, title I, § 142(b)(1)](https://www.govinfo.gov/link/plaw/104/public/264), Oct. 9, 1996, [110 Stat. 3221](https://www.govinfo.gov/link/statute/110/3221); [Pub. L. 106–181, title I](https://www.govinfo.gov/link/plaw/106/public/181), §§ 121(c), 122, 123(b), 137(b), title V, § 514(a), Apr. 5, 2000, [114 Stat. 74](https://www.govinfo.gov/link/statute/114/74), 75, 85, 144; [Pub. L. 107–71, title I, § 119(a)(1)](https://www.govinfo.gov/link/plaw/107/public/71), (5), Nov. 19, 2001, [115 Stat. 628](https://www.govinfo.gov/link/statute/115/628), 629; [Pub. L. 108–7, div. I, title III, § 370(a)](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 424](https://www.govinfo.gov/link/statute/117/424); [Pub. L. 108–176, title I](https://www.govinfo.gov/link/plaw/108/public/176), §§ 141, 142, 159(b)(1), (d), title VIII, § 801(a), Dec. 12, 2003, [117 Stat. 2503](https://www.govinfo.gov/link/statute/117/2503), 2510, 2511, 2586; [Pub. L. 112–95, title I, § 132](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 21](https://www.govinfo.gov/link/statute/126/21); [Pub. L. 115–254, div. B, title I, § 165](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3225](https://www.govinfo.gov/link/statute/132/3225); [Pub. L. 118–63, title VII, § 702](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1246](https://www.govinfo.gov/link/statute/138/1246).)*

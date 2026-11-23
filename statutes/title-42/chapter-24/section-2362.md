@@ -3,9 +3,10 @@ title: "Section 2362 - Financing by Commission"
 usc_title: 42
 usc_section: "2362"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2362"
-generated_at: "2026-03-30T02:56:11.164Z"
+generated_at: "2026-11-23T20:27:22.148Z"
+status: "active"
 ---
 
 # § 2362. Financing by Commission
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.164Z"
 - **(b)** In connection with the sale of residential property financed under subsection (a) of this section, the Commission is authorized to make advances for necessary repairs, or for the rehabilitation, modernization, rebuilding or enlargement of single and duplex residential properties to priority purchasers, and to include such advances in the amount of the note secured by the mortgage on such property.
 - **(c)** In the event that the Commission finds that financing on reasonable terms is not available from other sources, the Commission may, in order to facilitate the sale of commercial property under subchapter IV of this chapter, accept, in partial payment of the purchase price of any commercial property notes secured by first mortgages on such terms and conditions as the Commission shall deem appropriate.
 - **(d)** The Commission may sell any notes and mortgages acquired under subsections (a) and (c) of this section on terms set by the Commission. Notwithstanding any other provisions of law and without regard to the provisions of section 6101 of title 41 , the Commission may, in accordance with such terms and conditions as it may prescribe, (1) enter into contracts for servicing any of the notes and mortgages it has acquired, and (2) sell or enter into contracts to sell to a servicer any notes and mortgages with respect to which a servicing contract has been entered into by the servicer with the Commission: Provided , That with respect to sales of notes and mortgages under (2) the Commission shall comply with section 6101 of title 41 unless it determines that such compliance would not be feasible.
+
+## Source Credit
+
+*(Aug. 4, 1955, ch. 543, ch. 6, § 62, [69 Stat. 478](https://www.govinfo.gov/link/statute/69/478); July 25, 1956, ch. 731, § 2, [70 Stat. 653](https://www.govinfo.gov/link/statute/70/653); [Pub. L. 87–719](https://www.govinfo.gov/link/plaw/87/public/719), §§ 15, 16, Sept. 28, 1962, [76 Stat. 665](https://www.govinfo.gov/link/statute/76/665); [Pub. L. 90–19, § 11](https://www.govinfo.gov/link/plaw/90/public/19), May 25, 1967, [81 Stat. 23](https://www.govinfo.gov/link/statute/81/23).)*

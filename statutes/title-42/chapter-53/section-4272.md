@@ -3,9 +3,10 @@ title: "Section 4272 - Declaration of purpose"
 usc_title: 42
 usc_section: "4272"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4272"
-generated_at: "2026-03-30T02:56:11.200Z"
+generated_at: "2026-11-23T20:27:22.368Z"
+status: "active"
 ---
 
 # § 4272. Declaration of purpose
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.200Z"
   - **(6)** recommend, within the framework of the Constitution, the most desirable allocation of governmental functions, responsibilities, and revenues among the several levels of government; and
   - **(7)** recommend methods of coordinating and simplifying tax laws and administrative practices to achieve a more orderly and less competitive fiscal relationship between the levels of government and to reduce the burden of compliance for taxpayers.
 
+
+## Source Credit
+
+*([Pub. L. 86–380, § 2](https://www.govinfo.gov/link/plaw/86/public/380), Sept. 24, 1959, [73 Stat. 703](https://www.govinfo.gov/link/statute/73/703).)*

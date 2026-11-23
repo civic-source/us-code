@@ -3,9 +3,10 @@ title: "Section 3015 - Eligibility of cooperatives"
 usc_title: 12
 usc_section: "3015"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 3015"
-generated_at: "2026-03-30T02:53:53.489Z"
+generated_at: "2026-11-23T20:25:59.315Z"
+status: "active"
 ---
 
 # § 3015. Eligibility of cooperatives
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:53.489Z"
 - **(c)** As used in this section, the term “net savings” means, for any period, the borrower’s gross receipts, less the operating and other expenses deductible therefrom in accordance with generally accepted accounting principles, including, without limitation, contributions to allowable reserves, and after deducting the amounts of any dividends on its capital stock or other membership capital payable during, or within forty-five days after, the close of such period.
 - **(d)** An eligible cooperative which also has been determined to be eligible for credit assistance from the Rural Electrification Administration, the National Rural Utilities Cooperative Finance Corporation, the Banks for Cooperatives or other institutions of the Farm Credit System, or the Farmers Home Administration may receive the assistance authorized by this chapter only (1) if the Bank determines that a request for assistance from any such source or sources has been rejected or denied solely because of the un­availability of funds from such source or sources, or (2) by agreement between the Bank and the agency or agencies involved.
 - **(e)** Notwithstanding any other provision of this section, a credit union serving predominantly low-income members (as defined by the Administrator of the National Credit Union Administration) may receive technical assistance under subchapter II.
+
+## Source Credit
+
+*([Pub. L. 95–351, title I, § 105](https://www.govinfo.gov/link/plaw/95/public/351), Aug. 20, 1978, [92 Stat. 506](https://www.govinfo.gov/link/statute/92/506); [Pub. L. 97–35, title III, § 394(e)(1)](https://www.govinfo.gov/link/plaw/97/public/35), (f), Aug. 13, 1981, [95 Stat. 436](https://www.govinfo.gov/link/statute/95/436), 437; [Pub. L. 115–334, title VI, § 6602(b)(18)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4777](https://www.govinfo.gov/link/statute/132/4777).)*

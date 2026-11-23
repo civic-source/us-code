@@ -3,9 +3,10 @@ title: "Section 320 - Incentive pay: career enlisted flyers"
 usc_title: 37
 usc_section: "320"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "37 U.S.C. § 320"
-generated_at: "2026-03-30T02:55:44.053Z"
+generated_at: "2026-11-23T20:26:57.362Z"
+status: "active"
 ---
 
 # § 320. Incentive pay: career enlisted flyers
@@ -23,7 +24,15 @@ generated_at: "2026-03-30T02:55:44.053Z"
   - **(2)** Upon completion of 10, 15, or 20 years of aviation service, an enlisted member who has not performed the minimum required operational flying duties specified in paragraph (1) during the prescribed period, although otherwise meeting the definition in subsection (a), may no longer be paid continuous monthly incentive pay except as provided in paragraph (3). Payment of continuous monthly incentive pay may be resumed if the member meets the minimum operational flying duty requirement upon completion of the next established period of aviation service.
   - **(3)** For the needs of the service, the Secretary concerned may permit, on a case-by-case basis, a member to continue to receive continuous monthly incentive pay despite the member’s failure to perform the operational flying duty required during the first 10, 15, or 20 years of aviation service, but only if the member otherwise meets the definition in subsection (a) and has performed at least 5 years of operational flying duties during the first 10 years of aviation service, 8 years of operational flying duties during the first 15 years of aviation service, or 12 years of operational flying duty during the first 20 years of aviation service. The authority of the Secretary concerned under this paragraph may not be delegated below the level of the Service Personnel Chief.
   - **(4)** If the eligibility of an eligible career enlisted flyer to continuous monthly incentive pay ceases under subsection (b)(2) or paragraph (2), the member may still receive month-to-month incentive pay for subsequent frequent and regular performance of operational flying duty. The rate payable is the same rate authorized by the Secretary concerned under subsection (d) for a member of corresponding years of aviation service.
-- **(d)** The monthly rate of any career enlisted flyer incentive pay paid under this section to a member on active duty shall be prescribed by the Secretary concerned, but may not exceed the following: Years of aviation service Monthly rate 4 or less $150 Over 4 $225 Over 8 $350 Over 14 $400.
+- **(d)** The monthly rate of any career enlisted flyer incentive pay paid under this section to a member on active duty shall be prescribed by the Secretary concerned, but may not exceed the following:
+
+| Years of aviation service | Monthly rate |
+| --- | --- |
+| 4 or less | $150 |
+| Over 4 | $225 |
+| Over 8 | $350 |
+| Over 14 | $400. |
+
 - **(e)** Under regulations prescribed by the Secretary concerned, when a member of a reserve component or the National Guard, who is entitled to compensation under section 206 of this title , meets the definition of eligible career enlisted flyer, the Secretary concerned may increase the member’s compensation by an amount equal to 1 ⁄ 30 of the monthly incentive pay authorized by the Secretary concerned under subsection (d) for a member of corresponding years of aviation service who is entitled to basic pay under section 204 of this title . The reserve component member may receive the increase for as long as the member is qualified for it, for each regular period of instruction or period of appropriate duty, at which the member is engaged for at least two hours, or for the performance of such other equivalent training, instruction, duty or appropriate duties, as the Secretary may prescribe under section 206(a) of this title .
 - **(f)** A member receiving incentive pay under section 301(a) of this title or special pay under section 304 of this title may not be paid special pay under this section for the same period of service.
 - **(g)** If, immediately before a member receives incentive pay under this section, the member was entitled to incentive pay under section 301(a) of this title , the rate at which the member is paid incentive pay under this section shall be equal to the higher of the monthly amount applicable under subsection (d) or the rate of incentive pay the member was receiving under subsection (b) or (c)(2)(A) of section 301 of this title .
@@ -31,3 +40,33 @@ generated_at: "2026-03-30T02:55:44.053Z"
 - **(i)** In this section:
   - **(1)** The term “aviation service” means participation in aerial flight performed, under regulations prescribed by the Secretary concerned, by an eligible career enlisted flyer.
   - **(2)** The term “operational flying duty” means flying performed under competent orders while serving in assignments, including an assignment as a dropsonde system operator, in which basic flying skills normally are maintained in the performance of assigned duties as determined by the Secretary concerned, and flying duty performed by members in training that leads to the award of an enlisted aviation rating or military occupational specialty designated as a career enlisted flyer rating or specialty by the Secretary concerned.
+
+Eligible Career Enlisted Flyer Defined
+
+Incentive Pay Authorized
+
+Operational Flying Duty Requirements
+
+Monthly Maximum Rates
+
+4 or less
+
+Over 4
+
+Over 8
+
+Over 14
+
+Eligibility of Reserve Component Members When Performing Inactive Duty Training
+
+Relation to Hazardous Duty Incentive Pay or Diving Duty Special Pay
+
+Save Pay Provision
+
+Specialty Code of Dropsonde System Operators
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 106–65, div. A, title VI, § 628(a)(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 657](https://www.govinfo.gov/link/statute/113/657).)*

@@ -3,9 +3,10 @@ title: "Section 6167 - Extension of time for payment of tax attributable to reco
 usc_title: 26
 usc_section: "6167"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6167"
-generated_at: "2026-03-30T02:55:27.844Z"
+generated_at: "2026-11-23T20:26:46.587Z"
+status: "active"
 ---
 
 # § 6167. Extension of time for payment of tax attributable to recovery of foreign expropriation losses
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:27.844Z"
 - **(h)**
   - **(1)** For authority of the Secretary to require security in the case of an extension under this section, see section 6165.
   - **(2)** For extension of the period of limitation in the case of an extension under this section, see section 6503(e).
+
+## Source Credit
+
+*(Added [Pub. L. 89–384, § 1(d)](https://www.govinfo.gov/link/plaw/89/public/384), Apr. 8, 1966, [80 Stat. 102](https://www.govinfo.gov/link/statute/80/102); amended [Pub. L. 93–625, § 7(d)(2)](https://www.govinfo.gov/link/plaw/93/public/625), (3), Jan. 3, 1975, [88 Stat. 2115](https://www.govinfo.gov/link/statute/88/2115); [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1902(b)(2)(B), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1806](https://www.govinfo.gov/link/statute/90/1806), 1834; [Pub. L. 114–41, title II, § 2006(a)(2)(D)](https://www.govinfo.gov/link/plaw/114/public/41), July 31, 2015, [129 Stat. 457](https://www.govinfo.gov/link/statute/129/457).)*

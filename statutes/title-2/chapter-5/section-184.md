@@ -3,9 +3,10 @@ title: "Section 184 - Incorporation of digital collections into educational curr
 usc_title: 2
 usc_section: "184"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 184"
-generated_at: "2026-03-30T02:53:04.792Z"
+generated_at: "2026-11-23T20:25:28.860Z"
+status: "active"
 ---
 
 # § 184. Incorporation of digital collections into educational curricula
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:04.792Z"
   - **(1)** establish an educational consortium to support the program; and
   - **(2)** make funds appropriated for the program available to consortium members, educational institutions, and libraries.
 - **(d)** There are authorized to be appropriated such sums as may be necessary to carry out this section for fiscal year 2006 and each fiscal year thereafter.
+
+## Source Credit
+
+*([Pub. L. 109–55, title I, § 1306](https://www.govinfo.gov/link/plaw/109/public/55), Aug. 2, 2005, [119 Stat. 583](https://www.govinfo.gov/link/statute/119/583).)*

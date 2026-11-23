@@ -3,9 +3,10 @@ title: "Section 12635 - Nondiscrimination"
 usc_title: 42
 usc_section: "12635"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12635"
-generated_at: "2026-03-30T02:56:11.421Z"
+generated_at: "2026-11-23T20:27:23.395Z"
+status: "active"
 ---
 
 # § 12635. Nondiscrimination
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.421Z"
   - **(1)** Except as provided in paragraph (2), an individual with responsibility for the operation of a project that receives assistance under this subchapter shall not discriminate on the basis of religion against a participant in such project or a member of the staff of such project who is paid with funds received under this subchapter.
   - **(2)** Paragraph (1) shall not apply to the employment, with assistance provided under this subchapter, of any member of the staff, of a project that receives assistance under this subchapter, who was employed with the organization operating the project on the date the grant under this subchapter was awarded.
 - **(d)** The Chief Executive Officer shall promulgate rules and regulations to provide for the enforcement of this section that shall include provisions for summary suspension of assistance for not more than 30 days, on an emergency basis, until notice and an opportunity to be heard can be provided.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 175](https://www.govinfo.gov/link/plaw/101/public/610), Nov. 16, 1990, [104 Stat. 3161](https://www.govinfo.gov/link/statute/104/3161); [Pub. L. 103–82, title I, § 115](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 862](https://www.govinfo.gov/link/statute/107/862).)*

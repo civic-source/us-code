@@ -3,9 +3,10 @@ title: "Section 206 - Minimum wage"
 usc_title: 29
 usc_section: "206"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 206"
-generated_at: "2026-03-30T02:55:18.680Z"
+generated_at: "2026-11-23T20:26:37.792Z"
+status: "active"
 ---
 
 # § 206. Minimum wage
@@ -39,3 +40,61 @@ generated_at: "2026-03-30T02:55:18.680Z"
   - **(3)** No employer may take any action to displace employees (including partial displacements such as reduction in hours, wages, or employment benefits) for purposes of hiring individuals at the wage authorized in paragraph (1) or (2).
   - **(4)** Any employer who violates this subsection shall be considered to have violated section 215(a)(3) of this title .
   - **(5)** This subsection shall only apply to an employee who has not attained the age of 20 years, except in the case of the wage applicable in Puerto Rico, 25 years, until such time as the Board described in paragraph (2) terminates in accordance with section 2149 of title 48 .
+
+In General
+
+Transition
+
+Report
+
+Economic Information
+
+Report on Alternative Methods of Increasing the Minimum Wage in American Samoa
+
+In General.—
+
+Authority
+
+Wage rate
+
+Wage Period
+
+Wage Conditions
+
+Limitations.—
+
+Employee hours
+
+Displacement.—
+
+Prohibition
+
+Disqualification
+
+Notice
+
+Enforcement
+
+Definitions
+
+Eligible employee.—
+
+In general
+
+Duration.—
+
+Proof.—
+
+In general
+
+Regulations
+
+On-the-job training
+
+Employer Requirements
+
+Report
+
+## Source Credit
+
+*(June 25, 1938, ch. 676, § 6, [52 Stat. 1062](https://www.govinfo.gov/link/statute/52/1062); June 26, 1940, ch. 432, § 3(e), (f), [54 Stat. 616](https://www.govinfo.gov/link/statute/54/616); Oct. 26, 1949, ch. 736, § 6, [63 Stat. 912](https://www.govinfo.gov/link/statute/63/912); Aug. 12, 1955, ch. 867, § 3, [69 Stat. 711](https://www.govinfo.gov/link/statute/69/711); Aug. 8, 1956, ch. 1035, § 2, [70 Stat. 1118](https://www.govinfo.gov/link/statute/70/1118); [Pub. L. 87–30, § 5](https://www.govinfo.gov/link/plaw/87/public/30), May 5, 1961, [75 Stat. 67](https://www.govinfo.gov/link/statute/75/67); [Pub. L. 88–38, § 3](https://www.govinfo.gov/link/plaw/88/public/38), June 10, 1963, [77 Stat. 56](https://www.govinfo.gov/link/statute/77/56); [Pub. L. 89–601, title III](https://www.govinfo.gov/link/plaw/89/public/601), §§ 301–305, Sept. 23, 1966, [80 Stat. 838](https://www.govinfo.gov/link/statute/80/838), 839, 841; [Pub. L. 93–259](https://www.govinfo.gov/link/plaw/93/public/259), §§ 2–4, 5(b), 7(b)(1), Apr. 8, 1974, [88 Stat. 55](https://www.govinfo.gov/link/statute/88/55), 56, 62; [Pub. L. 95–151, § 2(a)](https://www.govinfo.gov/link/plaw/95/public/151) –(d)(2), Nov. 1, 1977, [91 Stat. 1245](https://www.govinfo.gov/link/statute/91/1245), 1246; [Pub. L. 101–157](https://www.govinfo.gov/link/plaw/101/public/157), §§ 2, 4(b), Nov. 17, 1989, [103 Stat. 938](https://www.govinfo.gov/link/statute/103/938), 940; [Pub. L. 101–239, title X, § 10208(d)(2)(B)(i)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2481](https://www.govinfo.gov/link/statute/103/2481); [Pub. L. 104–188](https://www.govinfo.gov/link/plaw/104/public/188), [title II], §§ 2104(b), (c), 2105(c), Aug. 20, 1996, [110 Stat. 1928](https://www.govinfo.gov/link/statute/110/1928), 1929; [Pub. L. 110–28, title VIII](https://www.govinfo.gov/link/plaw/110/public/28), §§ 8102(a), 8103(c)(1)(B), May 25, 2007, [121 Stat. 188](https://www.govinfo.gov/link/statute/121/188), 189; [Pub. L. 114–187, title IV, § 403](https://www.govinfo.gov/link/plaw/114/public/187), June 30, 2016, [130 Stat. 586](https://www.govinfo.gov/link/statute/130/586).)*

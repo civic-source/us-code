@@ -3,9 +3,10 @@ title: "Section 4524 - Withholding of charitable contributions from salaries pai
 usc_title: 2
 usc_section: "4524"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 4524"
-generated_at: "2026-03-30T02:53:04.831Z"
+generated_at: "2026-11-23T20:25:29.034Z"
+status: "active"
 ---
 
 # § 4524. Withholding of charitable contributions from salaries paid by Secretary of Senate and from employees of Architect of Capitol
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:04.831Z"
     - **(B)** $1, if the pay period of such individual is monthly.
 - **(e)** This section imposes no duty, burden, or requirement upon the United States, the Senate, or any officer or employee of the United States, except as specifically provided in this section. Nothing in this section shall be deemed to consent to the application of any provision of law which has the effect of subjecting the United States, the Senate, or any officer or employee of the United States to any penalty or liability by reason of the provisions of this section. Any paper, form, document, or any other item filed with the Secretary under this section is a paper of the Senate within the provisions of rule XXX of the Standing Rules of the Senate.
 - **(f)** The Secretary and the Architect are authorized to issue rules and regulations they consider appropriate in carrying out their duties under this section.
+
+## Source Credit
+
+*([Pub. L. 95–470](https://www.govinfo.gov/link/plaw/95/public/470), Oct. 17, 1978, [92 Stat. 1323](https://www.govinfo.gov/link/statute/92/1323); 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783](https://www.govinfo.gov/link/statute/92/3783).)*

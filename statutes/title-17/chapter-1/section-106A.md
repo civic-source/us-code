@@ -3,9 +3,10 @@ title: "Section 106A - Rights of certain authors to attribution and integrity"
 usc_title: 17
 usc_section: "106A"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 106A"
-generated_at: "2026-03-30T02:54:15.344Z"
+generated_at: "2026-11-23T20:26:06.478Z"
+status: "active"
 ---
 
 # § 106A. Rights of certain authors to attribution and integrity
@@ -31,3 +32,23 @@ generated_at: "2026-03-30T02:54:15.344Z"
 - **(e)**
   - **(1)** The rights conferred by subsection (a) may not be transferred, but those rights may be waived if the author expressly agrees to such waiver in a written instrument signed by the author. Such instrument shall specifically identify the work, and uses of that work, to which the waiver applies, and the waiver shall apply only to the work and uses so identified. In the case of a joint work prepared by two or more authors, a waiver of rights under this paragraph made by one such author waives such rights for all such authors.
   - **(2)** Ownership of the rights conferred by subsection (a) with respect to a work of visual art is distinct from ownership of any copy of that work, or of a copyright or any exclusive right under a copyright in that work. Transfer of ownership of any copy of a work of visual art, or of a copyright or any exclusive right under a copyright, shall not constitute a waiver of the rights conferred by subsection (a). Except as may otherwise be agreed by the author in a written instrument signed by the author, a waiver of the rights conferred by subsection (a) with respect to a work of visual art shall not constitute a transfer of ownership of any copy of that work, or of ownership of a copyright or of any exclusive right under a copyright in that work.
+
+Rights of Attribution and Integrity
+
+Scope and Exercise of Rights
+
+Exceptions
+
+Duration of Rights
+
+Transfer and Waiver
+
+In General
+
+Applicability
+
+Section
+
+## Source Credit
+
+*(Added [Pub. L. 101–650, title VI, § 603(a)](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5128](https://www.govinfo.gov/link/statute/104/5128).)*

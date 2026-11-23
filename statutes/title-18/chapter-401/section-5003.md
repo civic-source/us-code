@@ -3,9 +3,10 @@ title: "Section 5003 - Custody of State offenders"
 usc_title: 18
 usc_section: "5003"
 chapter: 401
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 5003"
-generated_at: "2026-03-30T02:54:16.530Z"
+generated_at: "2026-11-23T20:26:08.796Z"
+status: "active"
 ---
 
 # § 5003. Custody of State offenders
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:16.530Z"
 - **(b)** Funds received under such contract may be deposited in the Treasury to the credit of the appropriation or appropriations from which the payments for such service were originally made.
 - **(c)** Unless otherwise specifically provided in the contract, a person committed to the Attorney General hereunder shall be subject to all the provisions of law and regulations applicable to persons committed for violations of laws of the United States not inconsistent with the sentence imposed.
 - **(d)** The term “State” as used in this section includes any State, territory, or possession of the United States, and the Canal Zone.
+
+## Source Credit
+
+*(Added May 9, 1952, ch. 253, § 1, [66 Stat. 68](https://www.govinfo.gov/link/statute/66/68); amended [Pub. L. 89–267, § 1](https://www.govinfo.gov/link/plaw/89/public/267), Oct. 19, 1965, [79 Stat. 990](https://www.govinfo.gov/link/statute/79/990); [Pub. L. 99–646, § 66](https://www.govinfo.gov/link/plaw/99/public/646), Nov. 10, 1986, [100 Stat. 3615](https://www.govinfo.gov/link/statute/100/3615).)*

@@ -3,9 +3,10 @@ title: "Section 1545 - Lease and sale of public property; conveyance of title in
 usc_title: 48
 usc_section: "1545"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1545"
-generated_at: "2026-03-30T02:56:14.587Z"
+generated_at: "2026-11-23T20:27:28.057Z"
+status: "active"
 ---
 
 # § 1545. Lease and sale of public property; conveyance of title in certain lands to the government of Virgin Islands
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:14.587Z"
 - **(b)**
   - **(1)** All right, title, and interest of the United States in the property placed under the control of the government of the Virgin Islands by section 1405c(a) of this title , not reserved to the United States by the Secretary of the Interior within one hundred and twenty days after October 5, 1974 , is hereby conveyed to such government. The conveyance effected by the preceding sentence shall not apply to that land and other property which on October 5, 1974 , is administered by the Secretary of the Interior as part of the National Park System and such lands and other property shall be retained by the United States.
   - **(2)** Subject to valid existing rights, title to all property in the Virgin Islands which may have been acquired by the United States from Denmark under the Convention entered into August 16, 1916 , not reserved or retained by the United States in accordance with the provisions of Public Law 93–435 ( 88 Stat. 1210 ) is hereby transferred to the Virgin Islands government.
+
+## Source Credit
+
+*(July 22, 1954, ch. 558, § 31, [68 Stat. 510](https://www.govinfo.gov/link/statute/68/510); [Pub. L. 93–435, § 3](https://www.govinfo.gov/link/plaw/93/public/435), Oct. 5, 1974, [88 Stat. 1211](https://www.govinfo.gov/link/statute/88/1211); [Pub. L. 96–205, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/96/public/205), Mar. 12, 1980, [94 Stat. 88](https://www.govinfo.gov/link/statute/94/88).)*

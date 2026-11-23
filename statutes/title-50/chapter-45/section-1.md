@@ -3,9 +3,10 @@ title: "Section 1 - Ensuring intelligence community procurement of domestic Unit
 usc_title: 50
 usc_section: "1"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 1"
-generated_at: "2026-03-30T02:56:26.244Z"
+generated_at: "2026-11-23T20:27:30.961Z"
+status: "active"
 ---
 
 # § 3334e–1. Ensuring intelligence community procurement of domestic United States production of synthetic DNA and RNA
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:26.244Z"
   - **(2)** The term “Chinese biotechnology supplier” means a supplier of biotechnology that is organized under the laws of, or otherwise subject to the jurisdiction of, the People’s Republic of China.
   - **(3)** The term “Chinese biotechnology supply chain intermediary” means a United States domestic supplier of biotechnology where a controlling interest in the United States domestic supplier is owned by the People’s Republic of China.
   - **(4)** The term “synthetic DNA or RNA” means any nucleic acid sequence that is produced de novo through chemical or enzymatic synthesis.
+
+## Source Credit
+
+*([Pub. L. 119–60, div. F, title LXVI, § 6615](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1639](https://www.govinfo.gov/link/statute/139/1639).)*

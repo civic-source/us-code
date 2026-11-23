@@ -3,9 +3,10 @@ title: "Section 4215 - Restitution"
 usc_title: 50
 usc_section: "4215"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4215"
-generated_at: "2026-03-30T02:56:26.268Z"
+generated_at: "2026-11-23T20:27:31.078Z"
+status: "active"
 ---
 
 # § 4215. Restitution
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:56:26.268Z"
 - **(h)**
   - **(1)** A claimant may seek judicial review of a denial of compensation under this section solely in the United States Court of Federal Claims, which shall review the denial upon the administrative record and shall hold unlawful and set aside the denial if it is found to be arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law.
   - **(2)** This subsection shall apply only to any claim filed in court on or after September 27, 1992 .
+
+## Source Credit
+
+*([Pub. L. 100–383, title I, § 105](https://www.govinfo.gov/link/plaw/100/public/383), Aug. 10, 1988, [102 Stat. 905](https://www.govinfo.gov/link/statute/102/905); [Pub. L. 101–162, title II, § 209(b)](https://www.govinfo.gov/link/plaw/101/public/162), Nov. 21, 1989, [103 Stat. 1005](https://www.govinfo.gov/link/statute/103/1005); [Pub. L. 102–371](https://www.govinfo.gov/link/plaw/102/public/371), §§ 4–6(a), Sept. 27, 1992, [106 Stat. 1167](https://www.govinfo.gov/link/statute/106/1167), 1168; [Pub. L. 102–572, title IX, § 902(b)(1)](https://www.govinfo.gov/link/plaw/102/public/572), Oct. 29, 1992, [106 Stat. 4516](https://www.govinfo.gov/link/statute/106/4516).)*

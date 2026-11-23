@@ -3,9 +3,10 @@ title: "Section 948a - Definitions"
 usc_title: 10
 usc_section: "948a"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 948a"
-generated_at: "2026-03-30T02:53:38.088Z"
+generated_at: "2026-11-23T20:25:51.144Z"
+status: "active"
 ---
 
 # § 948a. Definitions
@@ -26,3 +27,51 @@ In this chapter:
     - **(C)** was a part of al Qaeda at the time of the alleged offense under this chapter.
   - **(8)** The term “national security” means the national defense and foreign relations of the United States.
   - **(9)** The term “hostilities” means any conflict subject to the laws of war.
+
+Alien
+
+Classified information
+
+Coalition partner
+
+Geneva convention relative to the treatment of prisoners of war
+
+Geneva conventions
+
+Privileged belligerent
+
+Unprivileged enemy belligerent
+
+National security
+
+Hostilities
+
+Prohibition
+
+Applicability to Prior Orders, etc.
+
+Military Commission Defined
+
+Prior Convictions
+
+Composition of Military Commissions
+
+Charges and Specifications
+
+Procedures and Requirements.—
+
+In general
+
+Temporary continuation of prior procedures and requirements
+
+Deadline for Submittal
+
+Treatment of Revised Rules Under Requirement for Notice and Wait Regarding Modification of Rules
+
+Annual Reports Required
+
+Form
+
+## Source Credit
+
+*(Added [Pub. L. 111–84, div. A, title XVIII, § 1802](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2574](https://www.govinfo.gov/link/statute/123/2574).)*

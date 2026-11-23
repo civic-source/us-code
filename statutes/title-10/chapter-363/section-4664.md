@@ -3,9 +3,10 @@ title: "Section 4664 - Requirements relating to long-term concessions agreements
 usc_title: 10
 usc_section: "4664"
 chapter: 363
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 4664"
-generated_at: "2026-03-30T02:53:38.209Z"
+generated_at: "2026-11-23T20:25:51.964Z"
+status: "active"
 ---
 
 # § 4664. Requirements relating to long-term concessions agreements with certain retailers
@@ -35,3 +36,29 @@ generated_at: "2026-03-30T02:53:38.209Z"
     - **(A)** a nonappropriated fund instrumentality;
     - **(B)** the Secretary of Defense; or
     - **(C)** a Secretary of a military department.
+
+Prohibition on Contracting With Certain Retailers
+
+Waiver
+
+Exceptions
+
+Definitions
+
+Assessment of Established Agreements.—
+
+In general
+
+Termination of certain concessions agreements.—
+
+In general
+
+Determinations described
+
+Briefing
+
+Controlled by a covered nation; covered military installation; long-term concessions agreement; retailer defined
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. A, title VIII, § 841(b)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 972](https://www.govinfo.gov/link/statute/139/972).)*

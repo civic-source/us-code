@@ -3,9 +3,10 @@ title: "Section 5302 - Definitions"
 usc_title: 49
 usc_section: "5302"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 5302"
-generated_at: "2026-03-30T02:56:19.307Z"
+generated_at: "2026-11-23T20:27:34.605Z"
+status: "active"
 ---
 
 # § 5302. Definitions
@@ -129,3 +130,325 @@ Except as otherwise specifically provided, in this chapter the following definit
   - **(23)** The term “urban area” means an area that includes a municipality or other built-up place that the Secretary, after considering local patterns and trends of urban growth, decides is appropriate for a local public transportation system to serve individuals in the locality.
   - **(24)** The term “urbanized area” means an area encompassing a population of not less than 50,000 people that has been defined and designated in the most recent decennial census as an “urbanized area” by the Secretary of Commerce.
   - **(25)** The term “value capture” means recovering the increased property value to property located near public transportation resulting from investments in public transportation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5302(a)(1) | 49 App.:1608(c)(1). | July 9, 1964 , Pub. L. 88–365, § 12(c)(1) , 78 Stat. 306 ; Aug. 10, 1965 , Pub. L. 89–117, § 1109 , 79 Stat. 507 ; Sept. 8, 1966 , Pub. L. 89–562, § 2(a)(1) , 80 Stat. 715 ; May 25, 1967 , Pub. L. 90–19, § 20 , 81 Stat. 25 ; Aug. 1, 1968 , Pub. L. 90–448, § 702 , 82 Stat. 535 ; restated Nov. 6, 1978 , Pub. L. 95–599, § 308(b) , 92 Stat. 2746 ; Jan. 6, 1983 , Pub. L. 97–424, § 309(a) , 96 Stat. 2151 ; Apr. 2, 1987 , Pub. L. 100–17, § 309(a) , 101 Stat. 227 . |
+|  | 49 App.:1608(c)(7), (8). | July 9, 1964 , Pub. L. 88–365, § 12(c)(3) –(9), 78 Stat. 306 ; Aug. 10, 1965 , Pub. L. 89–117, § 1109 , 79 Stat. 507 ; Sept. 8, 1966 , Pub. L. 89–562, § 2(a)(1) , 80 Stat. 715 ; May 25, 1967 , Pub. L. 90–19, § 20 , 81 Stat. 25 ; Aug. 1, 1968 , Pub. L. 90–448, § 702 , 82 Stat. 535 ; restated Nov. 6, 1978 , Pub. L. 95–599, § 308(b) , 92 Stat. 2746 ; Dec. 18, 1991 , Pub. L. 102–240, § 3016 , 105 Stat. 2108 . |
+| 5302(a)(2) | 49 App.:1608(c)(3). |  |
+| 5302(a)(3) | 49 App.:1608(c)(13). | July 9, 1965 , Pub. L. 88–365 , 78 Stat. 302 , § 12(c)(12), (13); added Apr. 2, 1987 , Pub. L. 100–17, § 318(b)(3) , 101 Stat. 234 . |
+| 5302(a)(4) | 49 App.:1608(c)(2). | July 9, 1964 , Pub. L. 88–365, § 12(c)(2) , 78 Stat. 306 ; Aug. 10, 1965 , Pub. L. 89–117, § 1109 , 79 Stat. 507 ; Sept. 8, 1966 , Pub. L. 89–562, § 2(a)(1) , 80 Stat. 715 ; May 25, 1967 , Pub. L. 90–19, § 20 , 81 Stat. 25 ; Aug. 1, 1968 , Pub. L. 90–448, § 702 , 82 Stat. 535 ; restated Nov. 6, 1978 , Pub. L. 95–599, § 308(b) , 92 Stat. 2746 ; Jan. 6, 1983 , Pub. L. 97–424, § 309(b) , 96 Stat. 2151 . |
+| 5302(a)(5) | 49 App.:1608(c)(4) (1st sentence). |  |
+| 5302(a)(6) | 49 App.:1608(c)(5). |  |
+| 5302(a)(7) | 49 App.:1608(c)(6). |  |
+| 5302(a)(8) | (no source). |  |
+| 5302(a)(9) | 49 App.:1608(h)(2). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 12(h)(2); added Apr. 2, 1987 , Pub. L. 100–17, § 317(a) , 101 Stat. 233 ; Dec. 18, 1991 , Pub. L. 102–240, § 6021(a) , 105 Stat. 2184 . |
+|  | 49 App.:1608 (note). | Apr. 2, 1988 , Pub. L. 100–17, § 317(b)(4) , 101 Stat. 233 . |
+| 5302(a)(10) | 49 App.:1608(c)(12). |  |
+| 5302(a)(11) | 49 App.:1608(c)(9). |  |
+| 5302(a)(12) | 49 App.:1608(c)(10). | July 9, 1964 , Pub. L. 88–365, § 12(c)(10) , (11), 78 Stat. 306 ; Aug. 10, 1965 , Pub. L. 89–117, § 1109 , 79 Stat. 507 ; Sept. 8, 1966 , Pub. L. 89–562, § 2(a)(1) , 80 Stat. 715 ; May 25, 1967 , Pub. L. 90–19, § 20 , 81 Stat. 25 ; Aug. 1, 1968 , Pub. L. 90–448, § 702 , 82 Stat. 535 ; restated Nov. 6, 1978 , Pub. L. 95–599, § 308(b) , 92 Stat. 2746 ; Apr. 2, 1987 , Pub. L. 100–17, § 318(b)(1) , (2), 101 Stat. 234 . |
+| 5302(a)(13) | 49 App.:1608(c)(11). |  |
+| 5302(b) | 49 App.:1608(c)(4) (last sentence). |  |
+
+
+Assault on a transit worker
+
+Associated transit improvement
+
+Bus rapid transit system
+
+Capital project
+
+Designated recipient
+
+Disability
+
+Emergency regulation
+
+Fixed guideway
+
+Governor
+
+Job access and reverse commute project.—
+
+In general
+
+Definitions
+
+Eligible low-income individual
+
+Welfare recipient
+
+Local governmental authority
+
+Low-income individual
+
+Net project cost
+
+New bus model
+
+Public transportation
+
+Regulation
+
+Rural area
+
+Secretary
+
+Senior
+
+State
+
+State of good repair
+
+Transit
+
+Urban area
+
+Urbanized area
+
+Value capture
+
+Historical and Revision Notes
+
+5302(a)(1)
+
+July 9, 1964
+
+Pub. L. 88–365, § 12(c)(1)
+
+78 Stat. 306
+
+Aug. 10, 1965
+
+Pub. L. 89–117, § 1109
+
+79 Stat. 507
+
+Sept. 8, 1966
+
+Pub. L. 89–562, § 2(a)(1)
+
+80 Stat. 715
+
+May 25, 1967
+
+Pub. L. 90–19, § 20
+
+81 Stat. 25
+
+Aug. 1, 1968
+
+Pub. L. 90–448, § 702
+
+82 Stat. 535
+
+Nov. 6, 1978
+
+Pub. L. 95–599, § 308(b)
+
+92 Stat. 2746
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 309(a)
+
+96 Stat. 2151
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 309(a)
+
+101 Stat. 227
+
+July 9, 1964
+
+Pub. L. 88–365, § 12(c)(3)
+
+78 Stat. 306
+
+Aug. 10, 1965
+
+Pub. L. 89–117, § 1109
+
+79 Stat. 507
+
+Sept. 8, 1966
+
+Pub. L. 89–562, § 2(a)(1)
+
+80 Stat. 715
+
+May 25, 1967
+
+Pub. L. 90–19, § 20
+
+81 Stat. 25
+
+Aug. 1, 1968
+
+Pub. L. 90–448, § 702
+
+82 Stat. 535
+
+Nov. 6, 1978
+
+Pub. L. 95–599, § 308(b)
+
+92 Stat. 2746
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3016
+
+105 Stat. 2108
+
+5302(a)(2)
+
+5302(a)(3)
+
+July 9, 1965
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 318(b)(3)
+
+101 Stat. 234
+
+5302(a)(4)
+
+July 9, 1964
+
+Pub. L. 88–365, § 12(c)(2)
+
+78 Stat. 306
+
+Aug. 10, 1965
+
+Pub. L. 89–117, § 1109
+
+79 Stat. 507
+
+Sept. 8, 1966
+
+Pub. L. 89–562, § 2(a)(1)
+
+80 Stat. 715
+
+May 25, 1967
+
+Pub. L. 90–19, § 20
+
+81 Stat. 25
+
+Aug. 1, 1968
+
+Pub. L. 90–448, § 702
+
+82 Stat. 535
+
+Nov. 6, 1978
+
+Pub. L. 95–599, § 308(b)
+
+92 Stat. 2746
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 309(b)
+
+96 Stat. 2151
+
+5302(a)(5)
+
+5302(a)(6)
+
+5302(a)(7)
+
+5302(a)(8)
+
+5302(a)(9)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 317(a)
+
+101 Stat. 233
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 6021(a)
+
+105 Stat. 2184
+
+Apr. 2, 1988
+
+Pub. L. 100–17, § 317(b)(4)
+
+101 Stat. 233
+
+5302(a)(10)
+
+5302(a)(11)
+
+5302(a)(12)
+
+July 9, 1964
+
+Pub. L. 88–365, § 12(c)(10)
+
+78 Stat. 306
+
+Aug. 10, 1965
+
+Pub. L. 89–117, § 1109
+
+79 Stat. 507
+
+Sept. 8, 1966
+
+Pub. L. 89–562, § 2(a)(1)
+
+80 Stat. 715
+
+May 25, 1967
+
+Pub. L. 90–19, § 20
+
+81 Stat. 25
+
+Aug. 1, 1968
+
+Pub. L. 90–448, § 702
+
+82 Stat. 535
+
+Nov. 6, 1978
+
+Pub. L. 95–599, § 308(b)
+
+92 Stat. 2746
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 318(b)(1)
+
+101 Stat. 234
+
+5302(a)(13)
+
+5302(b)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 786](https://www.govinfo.gov/link/statute/108/786); [Pub. L. 103–331, title III, § 335A](https://www.govinfo.gov/link/plaw/103/public/331), Sept. 30, 1994, [108 Stat. 2495](https://www.govinfo.gov/link/statute/108/2495); [Pub. L. 104–50, title III, § 333(a)](https://www.govinfo.gov/link/plaw/104/public/50), Nov. 15, 1995, [109 Stat. 457](https://www.govinfo.gov/link/statute/109/457); [Pub. L. 104–287, § 6(c)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3398](https://www.govinfo.gov/link/statute/110/3398); [Pub. L. 105–102, § 3(a)](https://www.govinfo.gov/link/plaw/105/public/102), Nov. 20, 1997, [111 Stat. 2214](https://www.govinfo.gov/link/statute/111/2214); [Pub. L. 105–178, title III, § 3003](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 338](https://www.govinfo.gov/link/statute/112/338); [Pub. L. 105–206, title IX, § 9009(a)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 852](https://www.govinfo.gov/link/statute/112/852); [Pub. L. 109–59, title III](https://www.govinfo.gov/link/plaw/109/public/59), §§ 3002(b)(4), 3004, Aug. 10, 2005, [119 Stat. 1545](https://www.govinfo.gov/link/statute/119/1545); [Pub. L. 110–244, title II, § 201(a)](https://www.govinfo.gov/link/plaw/110/public/244), June 6, 2008, [122 Stat. 1609](https://www.govinfo.gov/link/statute/122/1609); [Pub. L. 112–141, div. B, § 20004](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 623](https://www.govinfo.gov/link/statute/126/623); [Pub. L. 114–94, div. A, title III, § 3002](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1446](https://www.govinfo.gov/link/statute/129/1446); [Pub. L. 117–58, div. C, § 30001(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 889](https://www.govinfo.gov/link/statute/135/889).)*

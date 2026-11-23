@@ -3,9 +3,10 @@ title: "Section 9707 - Estimates of precipitation frequency in the United States
 usc_title: 15
 usc_section: "9707"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 9707"
-generated_at: "2026-03-30T02:54:08.250Z"
+generated_at: "2026-11-23T20:26:04.584Z"
+status: "active"
 ---
 
 # § 9707. Estimates of precipitation frequency in the United States
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:08.250Z"
 - **(f)** In carrying out this section, the Administrator may consult with relevant Federal, State, local, Tribal, and Territorial government agencies, research institutions, and the private sector, as the Administrator determines necessary.
 - **(g)** In carrying out this section, the Administrator may coordinate with other Federal agencies.
 - **(h)** There are authorized to be appropriated to carry out this section, from amounts otherwise authorized to be appropriated to the Administrator to carry out this chapter, $3,500,000 for each of fiscal years 2022 through 2030.
+
+## Source Credit
+
+*([Pub. L. 117–316, § 12](https://www.govinfo.gov/link/plaw/117/public/316), Dec. 27, 2022, [136 Stat. 4413](https://www.govinfo.gov/link/statute/136/4413).)*

@@ -3,9 +3,10 @@ title: "Section 4522 - Public disclosure of final orders and agreements"
 usc_title: 12
 usc_section: "4522"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4522"
-generated_at: "2026-03-30T02:53:53.507Z"
+generated_at: "2026-11-23T20:25:59.391Z"
+status: "active"
 ---
 
 # § 4522. Public disclosure of final orders and agreements
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:53.507Z"
 - **(d)** The Director may file any document or part thereof under seal in any hearing under subchapter III if the Director determines in writing that disclosure thereof would be contrary to the public interest.
 - **(e)** The Director shall keep and maintain a record, for not less than 6 years, of all documents described in subsection (a) and all enforcement agreements and other supervisory actions and supporting documents issued with respect to or in connection with any enforcement proceeding initiated by the Director under subchapter III.
 - **(f)** This section may not be construed to authorize the withholding of any information from, or to prohibit the disclosure of any information to, the Congress or any committee or subcommittee thereof.
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1319C](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3951](https://www.govinfo.gov/link/statute/106/3951).)*

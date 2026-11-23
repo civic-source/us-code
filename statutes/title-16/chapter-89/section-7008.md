@@ -3,9 +3,10 @@ title: "Section 7008 - Administrative matters"
 usc_title: 16
 usc_section: "7008"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 7008"
-generated_at: "2026-03-30T02:54:23.072Z"
+generated_at: "2026-11-23T20:26:20.828Z"
+status: "active"
 ---
 
 # § 7008. Administrative matters
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:23.072Z"
 - **(d)** With respect to the 2 independent members of the scientific review group and the 2 public advisors to the scientific review group jointly appointed under section 7003(c) of this title , and the 1 independent member to the joint technical committee jointly appointed under section 7004(b) of this title , the Secretary may pay up to 50 percent of—
   - **(1)** any compensation paid to such individuals; and
   - **(2)** the necessary travel expenses of such individuals.
+
+## Source Credit
+
+*([Pub. L. 109–479, title VI, § 609](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3647](https://www.govinfo.gov/link/statute/120/3647); [Pub. L. 111–348, title III, § 302(b)](https://www.govinfo.gov/link/plaw/111/public/348), Jan. 4, 2011, [124 Stat. 3672](https://www.govinfo.gov/link/statute/124/3672).)*

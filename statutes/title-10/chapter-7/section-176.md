@@ -3,9 +3,10 @@ title: "Section 176 - Armed Forces Institute of Pathology"
 usc_title: 10
 usc_section: "176"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 176"
-generated_at: "2026-03-30T02:53:38.043Z"
+generated_at: "2026-11-23T20:25:50.855Z"
+status: "active"
 ---
 
 # § 176. Armed Forces Institute of Pathology
@@ -23,3 +24,25 @@ generated_at: "2026-03-30T02:53:38.043Z"
   - **(2)** No contract may be entered into under paragraph (1) which obligates the Institute to make outlays in advance of the enactment of budget authority for such outlays.
 - **(c)** The Director is authorized, with the approval of the Board of Governors, to enter into agreements with the American Registry of Pathology for the services at any time of not more than six distinguished pathologists or scientists of demonstrated ability and experience for the purpose of enhancing the activities of the Institute in education, consultation, and research. Such pathologists or scientists may be appointed by the Director to administrative positions within the components or subcomponents of the Institute and may be authorized by the Director to exercise any or all professional duties within the Institute, notwithstanding any other provision of law. The Secretary of Defense, on a case-by-case basis, may waive the limitation on the number of distinguished pathologists or scientists with whom agreements may be entered into under this subsection if the Secretary determines that such waiver is in the best interest of the Department of Defense.
 - **(d)** The Secretary of Defense shall promulgate such regulations as may be necessary to prescribe the organization, functions, and responsibilities of the Institute.
+
+Findings
+
+Sense of Congress
+
+Establishment.—
+
+Establishment required
+
+Establishment within dod
+
+Establishment in another department
+
+Services
+
+Purpose
+
+Designation
+
+## Source Credit
+
+*(Added [Pub. L. 94–361, title VIII, § 811(b)](https://www.govinfo.gov/link/plaw/94/public/361), July 14, 1976, [90 Stat. 933](https://www.govinfo.gov/link/statute/90/933); amended [Pub. L. 96–513, title V, § 511(6)](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2920](https://www.govinfo.gov/link/statute/94/2920); [Pub. L. 101–189, div. A, title XVI, § 1621(a)(1)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1602](https://www.govinfo.gov/link/statute/103/1602); [Pub. L. 103–160, div. A, title VII, § 733](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1697](https://www.govinfo.gov/link/statute/107/1697); [Pub. L. 104–106, div. A, title IX, § 903(f)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 402](https://www.govinfo.gov/link/statute/110/402); [Pub. L. 104–201, div. A, title IX, § 901](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2617](https://www.govinfo.gov/link/statute/110/2617); [Pub. L. 107–107, div. A, title X, § 1048(a)(4)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1222](https://www.govinfo.gov/link/statute/115/1222).)*

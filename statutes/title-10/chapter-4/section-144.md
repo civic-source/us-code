@@ -3,9 +3,10 @@ title: "Section 144 - Director of Small Business Programs"
 usc_title: 10
 usc_section: "144"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 144"
-generated_at: "2026-03-30T02:53:38.038Z"
+generated_at: "2026-11-23T20:25:50.832Z"
+status: "active"
 ---
 
 # § 144. Director of Small Business Programs
@@ -15,3 +16,35 @@ generated_at: "2026-03-30T02:53:38.038Z"
 - **(c)**
   - **(1)** The Director of Small Business Programs shall, subject to paragraph (2), perform such duties regarding small business programs of the Department of Defense, and shall exercise such powers regarding those programs, as the Secretary of Defense may prescribe.
   - **(2)** Section 15(k) of the Small Business Act ( 15 U.S.C. 644(k) ), except for the designations of the Director and the Office, applies to the Director of Small Business Programs.
+
+Director
+
+Office of Small Business Programs
+
+Duties and Powers
+
+Positions redesignated
+
+Offices redesignated
+
+References
+
+In General
+
+Requirement for Coordination
+
+Performance Metrics
+
+Briefing Required
+
+Sunset
+
+Covered Entity Defined
+
+Guidance Required
+
+Matters To Be Included
+
+## Source Credit
+
+*(Added [Pub. L. 109–163, div. A, title IX, § 904(b)(1)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3400](https://www.govinfo.gov/link/statute/119/3400).)*

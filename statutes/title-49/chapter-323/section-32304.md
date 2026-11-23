@@ -3,9 +3,10 @@ title: "Section 32304 - Passenger motor vehicle country of origin labeling"
 usc_title: 49
 usc_section: "32304"
 chapter: 323
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 32304"
-generated_at: "2026-03-30T02:56:19.363Z"
+generated_at: "2026-11-23T20:27:34.985Z"
+status: "active"
 ---
 
 # § 32304. Passenger motor vehicle country of origin labeling
@@ -69,3 +70,64 @@ generated_at: "2026-03-30T02:56:19.363Z"
 - **(i)**
   - **(1)** When a label content requirement prescribed under this section is in effect, a State or a political subdivision of a State may not adopt or enforce a law or regulation related to the content of vehicles covered by a requirement under this section.
   - **(2)** A State or a political subdivision of a State may prescribe requirements related to the content of passenger motor vehicles obtained for its own use.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 32304(a) | 15:1950(f). | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , § 210(b)–(d), (f), (g), added Oct. 6, 1992 , Pub. L. 102–388, § 355 , 106 Stat. 1556 , 1557. |
+| 32304(b)(1), (2) | 15:1950(b)(1) (less words between 1st and 2d commas), (2). |  |
+| 32304(b)(3) | 15:1950(b)(3). |  |
+| 32304(c) | 15:1950(b)(1) (words between 1st and 2d commas). |  |
+| 32304(d) | 15:1950(c). |  |
+| 32304(e) | 15:1950(d). |  |
+| 32304(f) | 15:1950(g). |  |
+
+
+Definitions
+
+Manufacturer Requirement
+
+Vehicle Content Percentage by Assembly Plant
+
+Value Added Determination
+
+Small Parts
+
+Dealer Requirement
+
+Form and Content of Label
+
+Regulations
+
+Preemption
+
+Historical and Revision Notes
+
+Pub. L
+
+32304(a)
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+Oct. 6, 1992
+
+Pub. L. 102–388, § 355
+
+106 Stat. 1556
+
+32304(b)(3)
+
+32304(c)
+
+32304(d)
+
+32304(e)
+
+32304(f)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1036](https://www.govinfo.gov/link/statute/108/1036); [Pub. L. 103–429, § 6(29)](https://www.govinfo.gov/link/plaw/103/public/429), (30), Oct. 31, 1994, [108 Stat. 4380](https://www.govinfo.gov/link/statute/108/4380); [Pub. L. 105–178, title VII, § 7106(d)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 467](https://www.govinfo.gov/link/statute/112/467).)*

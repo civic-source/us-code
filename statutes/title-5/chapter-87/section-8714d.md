@@ -3,9 +3,10 @@ title: "Section 8714d - Option to receive “living benefits”"
 usc_title: 5
 usc_section: "8714d"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8714d"
-generated_at: "2026-03-30T02:52:56.066Z"
+generated_at: "2026-11-23T20:25:32.238Z"
+status: "active"
 ---
 
 # § 8714d. Option to receive “living benefits”
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:52:56.066Z"
     - **(B)** A designation under this paragraph may not be made by an individual described in paragraph (1) or (2) of section 8706(b).
   - **(5)** An election to receive benefits under this section shall be irrevocable, and not more than one such election may be made by any individual.
   - **(6)** The regulations shall include provisions to address the question of how to apply section 8706(b)(3)(B) in the case of an electing individual who has attained 65 years of age.
+
+## Source Credit
+
+*(Added [Pub. L. 103–409, § 2(a)](https://www.govinfo.gov/link/plaw/103/public/409), Oct. 25, 1994, [108 Stat. 4230](https://www.govinfo.gov/link/statute/108/4230).)*

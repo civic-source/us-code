@@ -3,9 +3,10 @@ title: "Section 2412 - Tribal Action Plans"
 usc_title: 25
 usc_section: "2412"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 2412"
-generated_at: "2026-03-30T02:54:52.840Z"
+generated_at: "2026-11-23T20:26:25.591Z"
+status: "active"
 ---
 
 # § 2412. Tribal Action Plans
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:54:52.840Z"
     - **(D)** community awareness programs; and
     - **(E)** community training and education programs.
   - **(3)** There are authorized to be appropriated to carry out the provisions of this subsection $5,000,000 for fiscal years 2011 through 2015.
+
+## Source Credit
+
+*([Pub. L. 99–570, title IV, § 4206](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–140](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 100–690, title II](https://www.govinfo.gov/link/plaw/100/public/690), §§ 2203, 2204, Nov. 18, 1988, [102 Stat. 4217](https://www.govinfo.gov/link/statute/102/4217); [Pub. L. 102–573, title VII, § 703(1)](https://www.govinfo.gov/link/plaw/102/public/573), Oct. 29, 1992, [106 Stat. 4582](https://www.govinfo.gov/link/statute/106/4582); [Pub. L. 111–211, title II, § 241(a)(2)](https://www.govinfo.gov/link/plaw/111/public/211), July 29, 2010, [124 Stat. 2287](https://www.govinfo.gov/link/statute/124/2287).)*

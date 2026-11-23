@@ -3,9 +3,10 @@ title: "Section 709 - Administration of Federal and State programs"
 usc_title: 42
 usc_section: "709"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 709"
-generated_at: "2026-03-30T02:56:10.893Z"
+generated_at: "2026-11-23T20:27:20.938Z"
+status: "active"
 ---
 
 # § 709. Administration of Federal and State programs
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:10.893Z"
   - **(7)** assisting States in the development of care coordination services (as defined in section 701(b)(3) of this title ); and
   - **(8)** developing and making available to the State agency (or agencies) administering the State’s program under this subchapter a national directory listing by State the toll-free numbers described in section 705(a)(5)(E) of this title .
 - **(b)** The State health agency of each State shall be responsible for the administration (or supervision of the administration) of programs carried out with allotments made to the State under this subchapter, except that, in the case of a State which on July 1, 1967 , provided for administration (or supervision thereof) of the State plan under this subchapter (as in effect on such date) by a State agency other than the State health agency, that State shall be considered to comply 2 2 So in original. Probably should be “comply with”. the requirement of this subsection if it would otherwise comply but for the fact that such other State agency administers (or supervises the administration of) any such program providing services for children with special health care needs.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title V, § 509, as added [Pub. L. 97–35, title XXI, § 2192(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 825](https://www.govinfo.gov/link/statute/95/825); amended [Pub. L. 99–272, title IX, § 9527(e)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 219](https://www.govinfo.gov/link/statute/100/219); [Pub. L. 101–239, title VI](https://www.govinfo.gov/link/plaw/101/public/239), §§ 6503(c)(4), 6505, Dec. 19, 1989, [103 Stat. 2278](https://www.govinfo.gov/link/statute/103/2278), 2281.)*

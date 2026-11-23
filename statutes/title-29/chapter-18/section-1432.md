@@ -3,9 +3,10 @@ title: "Section 1432 - Special financial assistance by the corporation"
 usc_title: 29
 usc_section: "1432"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1432"
-generated_at: "2026-03-30T02:55:18.737Z"
+generated_at: "2026-11-23T20:26:38.043Z"
+status: "active"
 ---
 
 # § 1432. Special financial assistance by the corporation
@@ -68,3 +69,7 @@ generated_at: "2026-03-30T02:55:18.737Z"
     - **(B)** the corporation shall consult with the Secretary of the Treasury regarding the amount of special financial assistance needed based on the projected funded status of the plan as of the last day of the plan year ending in 2051, whether the plan proposes to repay benefits over 5 years or as a lump sum, as required by subsection (k)(2), and any other relevant factors, as determined by the corporation in consultation with the Secretary of the Treasury, to ensure the amount of assistance is sufficient to meet such requirement and is sufficient to pay benefits as required in subsection (j)(1).
   - **(2)** In the case of any plan which proposes in its application to change the assumptions used, as provided in subsection (e)(4), the corporation shall consult with the Secretary of the Treasury regarding such proposed change in assumptions.
   - **(3)** If the corporation specifies in regulations or guidance that temporary priority consideration is available for plans which are insolvent within the meaning of section 418E of title 26 or likely to become so insolvent or for plans which have suspended benefits under section 1085(e)(9) of this title , or that availability is otherwise based on the funded status of the plan under section 1085 of this title , as permitted by subsection (d), the corporation shall consult with the Secretary of the Treasury regarding any granting of priority consideration to such plans.
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4262](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 117–2, title IX, § 9704(b)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 190](https://www.govinfo.gov/link/statute/135/190).)*

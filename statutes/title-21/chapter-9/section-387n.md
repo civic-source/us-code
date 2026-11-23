@@ -3,9 +3,10 @@ title: "Section 387n - Jurisdiction of and coordination with the Federal Trade C
 usc_title: 21
 usc_section: "387n"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 387n"
-generated_at: "2026-03-30T02:54:54.281Z"
+generated_at: "2026-11-23T20:26:27.777Z"
+status: "active"
 ---
 
 # § 387n. Jurisdiction of and coordination with the Federal Trade Commission
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:54.281Z"
 - **(b)** With respect to the requirements of section 4 of the Federal Cigarette Labeling and Advertising Act [ 15 U.S.C. 1333 ] and section 3 of the Comprehensive Smokeless Tobacco Health Education Act of 1986 [ 15 U.S.C. 4402 ]—
   - **(1)** the Chairman of the Federal Trade Commission shall coordinate with the Secretary concerning the enforcement of such Act as such enforcement relates to unfair or deceptive acts or practices in the advertising of cigarettes or smokeless tobacco; and
   - **(2)** the Secretary shall consult with the Chairman of such Commission in revising the label statements and requirements under such sections.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 914, as added [Pub. L. 111–31, div. A, title I, § 101(b)(3)](https://www.govinfo.gov/link/plaw/111/public/31), June 22, 2009, [123 Stat. 1820](https://www.govinfo.gov/link/statute/123/1820).)*

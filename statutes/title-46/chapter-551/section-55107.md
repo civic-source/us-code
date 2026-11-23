@@ -3,9 +3,10 @@ title: "Section 55107 - Empty cargo containers and barges"
 usc_title: 46
 usc_section: "55107"
 chapter: 551
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 55107"
-generated_at: "2026-03-30T02:56:15.579Z"
+generated_at: "2026-11-23T20:27:27.380Z"
+status: "active"
 ---
 
 # § 55107. Empty cargo containers and barges
@@ -22,3 +23,52 @@ generated_at: "2026-03-30T02:56:15.579Z"
     - **(A)** owned or leased by the owner or operator of the vessel or by the stevedoring company having the contract for the loading or unloading of the vessel; and
     - **(B)** transported without charge for use in the handling of cargo in foreign trade.
 - **(c)** This section applies to a vessel of foreign registry only if the Secretary of Homeland Security finds, based on information from the Secretary of State, that the government of the nation of registry extends reciprocal privileges to vessels of the United States.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 55107 | 46 App.:883 (6th proviso). | June 5, 1920, ch. 250, § 27 (6th proviso), 41 Stat. 999 ; July 2, 1935, ch. 355 , 49 Stat. 442 ; Pub. L. 89–194 , Sept. 21, 1965 , 79 Stat. 823 ; Pub. L. 90–474 , Aug. 11, 1968 , 80 Stat. 700 ; Pub. L. 92–163, § 1 , Nov. 23, 1971 , 85 Stat. 486 . |
+
+
+In General
+
+Conditions
+
+Paragraphs (1)–(4)
+
+Paragraph (5)
+
+Reciprocity Requirement for Foreign Vessels
+
+Historical and Revision Notes
+
+55107
+
+June 5, 1920, ch. 250, § 27
+
+41 Stat. 999
+
+July 2, 1935, ch. 355
+
+49 Stat. 442
+
+Pub. L. 89–194
+
+Sept. 21, 1965
+
+79 Stat. 823
+
+Pub. L. 90–474
+
+Aug. 11, 1968
+
+80 Stat. 700
+
+Pub. L. 92–163, § 1
+
+Nov. 23, 1971
+
+85 Stat. 486
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(c)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1635](https://www.govinfo.gov/link/statute/120/1635).)*

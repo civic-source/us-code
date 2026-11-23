@@ -3,9 +3,10 @@ title: "Section 1 - Social impact partnership application"
 usc_title: 42
 usc_section: "1"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T02:56:11.067Z"
+generated_at: "2026-11-23T20:27:21.664Z"
+status: "active"
 ---
 
 # § 1397n–1. Social impact partnership application
@@ -71,3 +72,7 @@ generated_at: "2026-03-30T02:56:11.067Z"
   - **(8)** Role in delivering the intervention.
   - **(9)** How the intermediary would monitor program success, including a description of the interim benchmarks and outcome measures.
 - **(e)** The notice described in subsection (a) shall permit a State or local government to submit an application for social impact partnership funding that contains information from a feasibility study developed for purposes other than applying for funding under this division.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XX, § 2052, as added [Pub. L. 115–123, div. E, title VIII, § 50802(2)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 270](https://www.govinfo.gov/link/statute/132/270).)*

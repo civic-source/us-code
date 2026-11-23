@@ -3,9 +3,10 @@ title: "Section 5127 - Judicial review"
 usc_title: 49
 usc_section: "5127"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 5127"
-generated_at: "2026-03-30T02:56:19.307Z"
+generated_at: "2026-11-23T20:27:34.603Z"
+status: "active"
 ---
 
 # § 5127. Judicial review
@@ -14,3 +15,15 @@ generated_at: "2026-03-30T02:56:19.307Z"
 - **(b)** When a petition is filed under subsection (a), the clerk of the court immediately shall send a copy of the petition to the Secretary. The Secretary shall file with the court a record of any proceeding in which the final action was issued, as provided in section 2112 of title 28 .
 - **(c)** The court has exclusive jurisdiction, as provided in subchapter II of chapter 5 of title 5, to affirm or set aside any part of the Secretary’s final action and may order the Secretary to conduct further proceedings.
 - **(d)** In reviewing a final action under this section, the court may consider an objection to a final action of the Secretary only if the objection was made in the course of a proceeding or review conducted by the Secretary or if there was a reasonable ground for not making the objection in the proceeding.
+
+Filing and Venue
+
+Judicial Procedures
+
+Authority of Court
+
+Requirement for Prior Objection
+
+## Source Credit
+
+*(Added [Pub. L. 109–59, title VII, § 7123(b)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1907](https://www.govinfo.gov/link/statute/119/1907).)*

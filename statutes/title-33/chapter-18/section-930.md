@@ -3,9 +3,10 @@ title: "Section 930 - Reports to Secretary"
 usc_title: 33
 usc_section: "930"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 930"
-generated_at: "2026-03-30T02:55:41.077Z"
+generated_at: "2026-11-23T20:26:53.942Z"
+status: "active"
 ---
 
 # § 930. Reports to Secretary
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:41.077Z"
 - **(d)** The mailing of any such report and copy in a stamped envelope, within the time prescribed in subsections (a) or (b), to the Secretary and deputy commissioner, respectively, shall be a compliance with this section.
 - **(e)** Any employer, insurance carrier, or self-insured employer who knowingly and willfully fails or refuses to send any report required by this section or knowingly or willfully makes a false statement or misrepresentation in any such report shall be subject to a civil penalty not to exceed $10,000 for each such failure, refusal, false statement, or misrepresentation.
 - **(f)** Where the employer or the carrier has been given notice, or the employer (or his agent in charge of the business in the place where the injury occurred) or the carrier has knowledge, of any injury or death of an employee and fails, neglects, or refuses to file report thereof as required by the provisions of subsection (a) of this section, the limitations in subsection (a) of section 913 of this title shall not begin to run against the claim of the injured employee or his dependents entitled to compensation, or in favor of either the employer or the carrier, until such report shall have been furnished as required by the provisions of subsection (a) of this section.
+
+## Source Credit
+
+*(Mar. 4, 1927, ch. 509, § 30, [44 Stat. 1439](https://www.govinfo.gov/link/statute/44/1439); June 25, 1938, ch. 685, § 11, [52 Stat. 1167](https://www.govinfo.gov/link/statute/52/1167); [Pub. L. 98–426](https://www.govinfo.gov/link/plaw/98/public/426), §§ 18, 27(a)(2), Sept. 28, 1984, [98 Stat. 1650](https://www.govinfo.gov/link/statute/98/1650), 1654.)*

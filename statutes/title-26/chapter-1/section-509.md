@@ -3,9 +3,10 @@ title: "Section 509 - Private foundation defined"
 usc_title: 26
 usc_section: "509"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 509"
-generated_at: "2026-03-30T02:55:27.712Z"
+generated_at: "2026-11-23T20:26:45.792Z"
+status: "active"
 ---
 
 # § 509. Private foundation defined
@@ -54,3 +55,19 @@ generated_at: "2026-03-30T02:55:27.712Z"
   - **(3)** For purposes of this subsection, the term “supported organization” means, with respect to an organization described in subsection (a)(3), an organization described in paragraph (1) or (2) of subsection (a)—
     - **(A)** for whose benefit the organization described in subsection (a)(3) is organized and operated, or
     - **(B)** with respect to which the organization performs the functions of, or carries out the purposes of.
+
+In general
+
+Charitable trusts which are type iii supporting organizations
+
+“The amendments made by this section [enacting section 1058 of this title and amending sections 509, 512, 514, 851, and 4940 of this title] apply with respect to—
+
+“For purposes of section 509(a)(3)(B)(iii) of the Internal Revenue Code of 1986, an organization which is a trust shall not be considered to be operated in connection with any organization described in paragraph (1) or (2) of section 509(a) of such Code solely because—
+
+In general
+
+Type iii supporting organization; functionally integrated type iii supporting organization
+
+## Source Credit
+
+*(Added [Pub. L. 91–172, title I, § 101(a)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 496](https://www.govinfo.gov/link/statute/83/496); amended [Pub. L. 94–81, § 3(a)](https://www.govinfo.gov/link/plaw/94/public/81), Aug. 9, 1975, [89 Stat. 418](https://www.govinfo.gov/link/statute/89/418); [Pub. L. 95–345, § 2(a)(1)](https://www.govinfo.gov/link/plaw/95/public/345), Aug. 15, 1978, [92 Stat. 481](https://www.govinfo.gov/link/statute/92/481); [Pub. L. 109–280, title XII](https://www.govinfo.gov/link/plaw/109/public/280), §§ 1221(a)(2), 1241(a), (b), Aug. 17, 2006, [120 Stat. 1089](https://www.govinfo.gov/link/statute/120/1089), 1102.)*

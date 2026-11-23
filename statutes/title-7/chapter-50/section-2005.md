@@ -3,9 +3,10 @@ title: "Section 2005 - Payment of losses on guaranteed loans"
 usc_title: 7
 usc_section: "2005"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2005"
-generated_at: "2026-03-30T02:53:42.354Z"
+generated_at: "2026-11-23T20:25:41.384Z"
+status: "active"
 ---
 
 # § 2005. Payment of losses on guaranteed loans
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:42.354Z"
     - **(A)** the greatest net present value of a loan the borrower could reasonably be expected to repay; and
     - **(B)** the greatest amount that the lender of the loan could reasonably expect to recover from the borrower through bankruptcy, or liquidation of the property securing the loan, less all reasonable and necessary costs and expenses that the lender of the loan could reasonably expect to incur to preserve or dispose of such property (including all associated legal and property management costs) in the course of such a bankruptcy or liquidation.
   - **(3)** This subsection shall not be construed to limit the authority of the Secretary to enter into a shared appreciation arrangement with a borrower, or the terms and conditions which shall be required of a borrower, under section 2001(e) of this title .
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 357](https://www.govinfo.gov/link/plaw/87/public/128), as added [Pub. L. 100–233, title VI, § 619](https://www.govinfo.gov/link/plaw/100/public/233), Jan. 6, 1988, [101 Stat. 1683](https://www.govinfo.gov/link/statute/101/1683); amended [Pub. L. 101–624, title XXIII, § 2388(d)(2)](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 4053](https://www.govinfo.gov/link/statute/104/4053).)*

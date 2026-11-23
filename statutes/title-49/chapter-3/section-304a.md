@@ -3,9 +3,10 @@ title: "Section 304a - Accelerated decisionmaking in environmental reviews"
 usc_title: 49
 usc_section: "304a"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 304a"
-generated_at: "2026-03-30T02:56:19.298Z"
+generated_at: "2026-11-23T20:27:34.519Z"
+status: "active"
 ---
 
 # § 304a. Accelerated decisionmaking in environmental reviews
@@ -26,3 +27,19 @@ generated_at: "2026-03-30T02:56:19.298Z"
     - **(A)** the incorporated material is cited in the environmental assessment or final environmental impact statement and the contents of the incorporated material are briefly described;
     - **(B)** the incorporated material is reasonably available for inspection by potentially interested persons within the time allowed for review and comment; and
     - **(C)** the incorporated material does not include proprietary data that is not available for review and comment.
+
+In General
+
+Single Document
+
+Adoption and Incorporation by Reference of Documents.—
+
+Avoiding duplication
+
+Adoption of documents of other operating administrations
+
+Incorporation by reference
+
+## Source Credit
+
+*(Added [Pub. L. 114–94, div. A, title I, § 1311(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1398](https://www.govinfo.gov/link/statute/129/1398).)*

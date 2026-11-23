@@ -3,9 +3,10 @@ title: "Section 40112 - Research and technology programs"
 usc_title: 51
 usc_section: "40112"
 chapter: 401
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 40112"
-generated_at: "2026-03-30T02:56:28.706Z"
+generated_at: "2026-11-23T20:27:37.476Z"
+status: "active"
 ---
 
 # § 40112. Research and technology programs
@@ -37,3 +38,87 @@ generated_at: "2026-03-30T02:56:28.706Z"
 - **(g)**
   - **(1)** The Administrator may establish a Mars Aircraft project whose objective shall be to develop and test concepts for an uncrewed aircraft that could operate for sustained periods in the atmosphere of Mars.
   - **(2)** The Administrator may establish a program of competitively awarded grants available to teams of researchers that may include the participation of individuals from universities, industry, and government for the conduct of this research.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 40112(a) | 42 U.S.C. 16722(b) . | Pub. L. 109–155, title IV, § 422(b) –(g), Dec. 30, 2005 , 119 Stat. 2925 . |
+| 40112(b) | 42 U.S.C. 16722(c) . |  |
+| 40112(c) | 42 U.S.C. 16722(d) . |  |
+| 40112(d) | 42 U.S.C. 16722(e) . |  |
+| 40112(e) | 42 U.S.C. 16722(f) . |  |
+| 40112(f) | 42 U.S.C. 16722(g) . |  |
+
+
+Supersonic Transport Research and Development
+
+Research and Development Initiative on Reduction of Greenhouse Gas and Noise Emissions From Aircraft.—
+
+In general
+
+Goals
+
+Objectives
+
+Rotorcraft and Other Runway-Independent Air Vehicles
+
+Hypersonics Research
+
+Revolutionary Aeronautical Concepts
+
+Fuel Cell-Powered Aircraft Research.—
+
+Objective
+
+Approach
+
+Mars Aircraft Research.—
+
+Objective
+
+Approach
+
+Historical and Revision Notes
+
+40112(a)
+
+42 U.S.C. 16722(b)
+
+Pub. L. 109–155, title IV, § 422(b)
+
+Dec. 30, 2005
+
+119 Stat. 2925
+
+40112(b)
+
+42 U.S.C. 16722(c)
+
+40112(c)
+
+42 U.S.C. 16722(d)
+
+40112(d)
+
+42 U.S.C. 16722(e)
+
+40112(e)
+
+42 U.S.C. 16722(f)
+
+40112(f)
+
+42 U.S.C. 16722(g)
+
+Technology Focus Areas
+
+Implementation
+
+Annual Report
+
+National Aero-Space Plane Program
+
+Management Plan.—
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3379](https://www.govinfo.gov/link/statute/124/3379); [Pub. L. 117–167, div. B, title VII, § 10833(a)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1749](https://www.govinfo.gov/link/statute/136/1749).)*

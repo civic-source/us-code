@@ -3,12 +3,17 @@ title: "Section 316 - Detail of employees of Government Publishing Office to oth
 usc_title: 44
 usc_section: "316"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "44 U.S.C. § 316"
-generated_at: "2026-03-30T02:55:56.288Z"
+generated_at: "2026-11-23T20:27:03.754Z"
+status: "active"
 ---
 
 # § 316. Detail of employees of Government Publishing Office to other Government establishments
 
 An employee of the Government Publishing Office may not be detailed to duties not pertaining to the work of public printing and binding in an executive department or other Government establishment unless expressly authorized by law.
 
+
+## Source Credit
+
+*([Pub. L. 90–620](https://www.govinfo.gov/link/plaw/90/public/620), Oct. 22, 1968, [82 Stat. 1242](https://www.govinfo.gov/link/statute/82/1242); [Pub. L. 113–235, div. H, title I, § 1301(b)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537).)*

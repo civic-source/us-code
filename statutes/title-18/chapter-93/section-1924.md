@@ -3,9 +3,10 @@ title: "Section 1924 - Unauthorized removal and retention of classified document
 usc_title: 18
 usc_section: "1924"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 1924"
-generated_at: "2026-03-30T02:54:16.492Z"
+generated_at: "2026-11-23T20:26:08.540Z"
+status: "active"
 ---
 
 # § 1924. Unauthorized removal and retention of classified documents or material
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:16.492Z"
 - **(a)** Whoever, being an officer, employee, contractor, or consultant of the United States, and, by virtue of his office, employment, position, or contract, becomes possessed of documents or materials containing classified information of the United States, knowingly removes such documents or materials without authority and with the intent to retain such documents or materials at an unauthorized location shall be fined under this title or imprisoned for not more than five years, or both.
 - **(b)** For purposes of this section, the provision of documents and materials to the Congress shall not constitute an offense under subsection (a).
 - **(c)** In this section, the term “classified information of the United States” means information originated, owned, or possessed by the United States Government concerning the national defense or foreign relations of the United States that has been determined pursuant to law or Executive order to require protection against unauthorized disclosure in the interests of national security.
+
+## Source Credit
+
+*(Added [Pub. L. 103–359, title VIII, § 808(a)](https://www.govinfo.gov/link/plaw/103/public/359), Oct. 14, 1994, [108 Stat. 3453](https://www.govinfo.gov/link/statute/108/3453); amended [Pub. L. 107–273, div. B, title IV, § 4002(d)(1)(C)(i)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1809](https://www.govinfo.gov/link/statute/116/1809); [Pub. L. 115–118, title II, § 202](https://www.govinfo.gov/link/plaw/115/public/118), Jan. 19, 2018, [132 Stat. 19](https://www.govinfo.gov/link/statute/132/19).)*

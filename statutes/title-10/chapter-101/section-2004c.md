@@ -3,9 +3,10 @@ title: "Section 2004c - Detail as students at schools for education required for
 usc_title: 10
 usc_section: "2004c"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2004c"
-generated_at: "2026-03-30T02:53:38.139Z"
+generated_at: "2026-11-23T20:25:51.434Z"
+status: "active"
 ---
 
 # § 2004c. Detail as students at schools for education required for appointment as a chaplain: commissioned officers; certain enlisted members
@@ -45,3 +46,27 @@ generated_at: "2026-03-30T02:53:38.139Z"
   - **(4)** the length of detail and total cost of participation, including pay, benefits, and educational expenses, for each member of the armed forces detailed under this section;
   - **(5)** a description of any barriers to participation in details under this section by religious faiths with lengthier or nontraditional formation requirements and any efforts by the Secretary to address any shortages of chaplains in the armed forces for particular religious faiths; and
   - **(6)** any recommendations of the Secretary for legislative or administrative changes to improve the equity, effectiveness, or fiscal management of the detail of members of the armed forces under this section.
+
+Detail Authorized
+
+Eligibility for Detail
+
+Limitation on Service Credit
+
+Service Obligation
+
+Selection of Officers and Enlisted Members for Detail
+
+Relation of Service Obligations to Other Service Obligations
+
+Expenses
+
+Failure to Complete Program
+
+Limitation on Details
+
+Reports
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. A, title V, § 504(b)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 855](https://www.govinfo.gov/link/statute/139/855).)*

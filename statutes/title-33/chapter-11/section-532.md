@@ -3,12 +3,17 @@ title: "Section 532 - Eminent domain"
 usc_title: 33
 usc_section: "532"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 532"
-generated_at: "2026-03-30T02:55:41.060Z"
+generated_at: "2026-11-23T20:26:53.849Z"
+status: "active"
 ---
 
 # § 532. Eminent domain
 
 There are conferred upon any individual, his heirs, legal representatives, or assigns, any firm or corporation, its successors or assigns, or any State, political subdivision, or municipality authorized in accordance with the provisions of this subchapter to build a bridge between two or more States, all such rights and powers to enter upon lands and acquire, condemn, occupy, possess, and use real estate and other property in the respective States needed for the location, construction, operation, and maintenance of such bridge and its approaches, as are possessed by railroad corporations for railroad purposes or by bridge corporations for bridge purposes in the State in which such real estate or other property is situated, upon making just compensation therefor to be ascertained and paid according to the laws of such State, and the proceedings therefor shall be the same as in the condemnation or expropriation of property for public purposes in such State.
 
+
+## Source Credit
+
+*(Aug. 2, 1946, ch. 753, title V, § 509, [60 Stat. 849](https://www.govinfo.gov/link/statute/60/849).)*

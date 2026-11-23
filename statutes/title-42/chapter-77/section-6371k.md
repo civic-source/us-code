@@ -3,9 +3,10 @@ title: "Section 6371k - Coordination of energy retrofitting assistance for schoo
 usc_title: 42
 usc_section: "6371k"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6371k"
-generated_at: "2026-03-30T02:56:11.259Z"
+generated_at: "2026-11-23T20:27:22.671Z"
+status: "active"
 ---
 
 # § 6371k. Coordination of energy retrofitting assistance for schools
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:11.259Z"
     - **(A)** have successfully implemented energy efficiency, renewable energy, and energy retrofitting projects; and
     - **(B)** are willing to serve as resources for other local educational agencies and schools to assist initiation of similar efforts.
 - **(d)** Not later than 180 days after December 27, 2020 , the Secretary shall submit to Congress a report describing the implementation of this section.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. Z, title I, § 1001](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2420](https://www.govinfo.gov/link/statute/134/2420).)*

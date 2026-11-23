@@ -3,9 +3,10 @@ title: "Section 10431 - Authorization of sales of Virginia Class submarines to A
 usc_title: 22
 usc_section: "10431"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 10431"
-generated_at: "2026-03-30T02:55:05.477Z"
+generated_at: "2026-11-23T20:26:32.824Z"
+status: "active"
 ---
 
 # § 10431. Authorization of sales of Virginia Class submarines to Australia
@@ -70,3 +71,15 @@ generated_at: "2026-03-30T02:55:05.477Z"
     - **(D)** an annual procurement schedule for the total quantity of submarines the Department of Defense plans to procure over the 15 years following December 22, 2023 ; and
     - **(E)** a list of transfers or exports of defense services authorized under subsection (h) and the private-sector personnel of Australia or the private-sector personnel of the United Kingdom to whom the defense services were exported.
   - **(2)** The report required by this subsection shall be submitted in classified form.
+
+Section
+
+Sec.
+
+Sec.
+
+J.R. Biden, Jr.
+
+## Source Credit
+
+*([Pub. L. 118–31, div. A, title XIII, § 1352](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 514](https://www.govinfo.gov/link/statute/137/514).)*

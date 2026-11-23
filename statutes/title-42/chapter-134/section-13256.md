@@ -3,9 +3,10 @@ title: "Section 13256 - Technical and policy analysis"
 usc_title: 42
 usc_section: "13256"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13256"
-generated_at: "2026-03-30T02:56:11.439Z"
+generated_at: "2026-11-23T20:27:23.471Z"
+status: "active"
 ---
 
 # § 13256. Technical and policy analysis
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.439Z"
   - **(2)** the actual and potential role of replacement fuels and alternative fueled vehicles in significantly reducing United States reliance on imported oil to the extent of the goals referred to in paragraph (1); and
   - **(3)** the actual and potential availability of various domestic replacement fuels and dedicated vehicles and dual fueled vehicles.
 - **(c)** The Secretary shall publish a proposed version of each analysis under this section in the Federal Register for public comment before transmittal to the President and the Congress. Public comment received in response to such publication shall be preserved for use in rulemaking proceedings under section 13257 of this title .
+
+## Source Credit
+
+*([Pub. L. 102–486, title V, § 506](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2891](https://www.govinfo.gov/link/statute/106/2891).)*

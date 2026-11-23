@@ -3,9 +3,10 @@ title: "Section 7510 - Examinations for merchant mariner credentials"
 usc_title: 46
 usc_section: "7510"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 7510"
-generated_at: "2026-03-30T02:56:15.550Z"
+generated_at: "2026-11-23T20:27:27.119Z"
+status: "active"
 ---
 
 # § 7510. Examinations for merchant mariner credentials
@@ -50,3 +51,41 @@ generated_at: "2026-03-30T02:56:15.550Z"
   - **(7)** A member of the working group who is not a Federal Government employee shall not be considered a Federal employee in the service or the employment of the Federal Government, except that such a member shall be considered a special government employee, as defined in section 202(a) of title 18 for purposes of sections 203, 205, 207, 208, and 209 of such title and shall be subject to any administrative standards of conduct applicable to an employee of the department in which the Coast Guard is operating.
   - **(8)** Chapter 10 of title 5 shall not apply to any working group created under this section to review the Coast Guard’s merchant mariner credentialing examinations.
 - **(d)** In this section, the term “merchant mariner credential” means a merchant mariner license, certificate, or document that the Secretary is authorized to issue pursuant to this title.
+
+Disclosure Not Required
+
+Exception for Certain Questions
+
+Working group.—
+
+In general
+
+Inclusion of persons knowledgeable about examination type
+
+Meeting of working group.—
+
+In general
+
+Remote participation
+
+Use of questions
+
+Review.—
+
+In general
+
+Report to commandant
+
+Nondisclosure agreement
+
+Treatment of members as federal employees
+
+Chapter
+
+of title
+
+Merchant Mariner Credential Defined
+
+## Source Credit
+
+*(Added [Pub. L. 114–120, title III, § 315(a)(1)](https://www.govinfo.gov/link/plaw/114/public/120), Feb. 8, 2016, [130 Stat. 60](https://www.govinfo.gov/link/statute/130/60); amended [Pub. L. 114–328, div. C, title XXXV, § 3503(a)](https://www.govinfo.gov/link/plaw/114/public/328), (b)(1), Dec. 23, 2016, [130 Stat. 2775](https://www.govinfo.gov/link/statute/130/2775); [Pub. L. 115–232, div. C, title XXXV, § 3541(b)(12)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2323](https://www.govinfo.gov/link/statute/132/2323); [Pub. L. 115–282, title VI, § 601(c)(3)(B)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4289](https://www.govinfo.gov/link/statute/132/4289); [Pub. L. 116–283, div. G, title LVXXXV](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXV], § 8505(b)(7), Jan. 1, 2021, [134 Stat. 4751](https://www.govinfo.gov/link/statute/134/4751); [Pub. L. 117–286, § 4(a)(290)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4337](https://www.govinfo.gov/link/statute/136/4337); [Pub. L. 119–60, div. G, title LXXIII, § 7301(g)(2)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1755](https://www.govinfo.gov/link/statute/139/1755).)*

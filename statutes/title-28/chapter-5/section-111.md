@@ -3,12 +3,17 @@ title: "Section 111 - New Mexico"
 usc_title: 28
 usc_section: "111"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 111"
-generated_at: "2026-03-30T02:55:30.123Z"
+generated_at: "2026-11-23T20:26:36.286Z"
+status: "active"
 ---
 
 # § 111. New Mexico
 
 New Mexico constitutes one judicial district. Court shall be held at Albuquerque, Las Cruces, Las Vegas, Roswell, Santa Fe, and Silver City.
 
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 885](https://www.govinfo.gov/link/statute/62/885).)*

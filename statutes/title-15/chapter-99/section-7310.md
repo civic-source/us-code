@@ -3,9 +3,10 @@ title: "Section 7310 - Advisory committee"
 usc_title: 15
 usc_section: "7310"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 7310"
-generated_at: "2026-03-30T02:54:08.221Z"
+generated_at: "2026-11-23T20:26:04.449Z"
+status: "active"
 ---
 
 # § 7310. Advisory committee
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:08.221Z"
   - **(1)** an evaluation of Team activities, along with recommendations to improve the operation and effectiveness of Teams; and
   - **(2)** an assessment of the implementation of the recommendations of Teams and of the advisory committee.
 - **(c)** Section 1013 of title 5 shall not apply to the advisory committee established under this section.
+
+## Source Credit
+
+*([Pub. L. 107–231, § 11](https://www.govinfo.gov/link/plaw/107/public/231), Oct. 1, 2002, [116 Stat. 1476](https://www.govinfo.gov/link/statute/116/1476); [Pub. L. 117–286, § 4(a)(77)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4314](https://www.govinfo.gov/link/statute/136/4314).)*

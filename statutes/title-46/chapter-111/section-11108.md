@@ -3,9 +3,10 @@ title: "Section 11108 - Taxes"
 usc_title: 46
 usc_section: "11108"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 11108"
-generated_at: "2026-03-30T02:56:15.555Z"
+generated_at: "2026-11-23T20:27:27.163Z"
+status: "active"
 ---
 
 # § 11108. Taxes
@@ -16,3 +17,24 @@ generated_at: "2026-03-30T02:56:15.555Z"
   - **(2)** This subsection applies to an individual—
     - **(A)** engaged on a vessel to perform assigned duties in more than one State as a pilot licensed under section 7101 of this title or licensed or authorized under the laws of a State; or
     - **(B)** who performs regularly assigned duties while engaged as a master, officer, or crewman on a vessel operating on navigable waters in 2 or more States.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 11108 | 46:601 |
+
+
+Withholding
+
+Liability.—
+
+Limitation on jurisdiction to tax
+
+Application
+
+Historical and Revision Notes
+
+11108
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 580](https://www.govinfo.gov/link/statute/97/580); [Pub. L. 98–364, title IV, § 402(14)](https://www.govinfo.gov/link/plaw/98/public/364), July 17, 1984, [98 Stat. 450](https://www.govinfo.gov/link/statute/98/450); [Pub. L. 106–489, § 1](https://www.govinfo.gov/link/plaw/106/public/489), Nov. 9, 2000, [114 Stat. 2207](https://www.govinfo.gov/link/statute/114/2207); [Pub. L. 111–281, title IX, § 906](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 3012](https://www.govinfo.gov/link/statute/124/3012).)*

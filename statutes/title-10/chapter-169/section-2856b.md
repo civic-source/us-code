@@ -3,9 +3,10 @@ title: "Section 2856b - Covered military unaccompanied housing: standards for ha
 usc_title: 10
 usc_section: "2856b"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2856b"
-generated_at: "2026-03-30T02:53:38.180Z"
+generated_at: "2026-11-23T20:25:51.740Z"
+status: "active"
 ---
 
 # § 2856b. Covered military unaccompanied housing: standards for habitability
@@ -17,3 +18,13 @@ generated_at: "2026-03-30T02:53:38.180Z"
   - **(4)** any other element the Secretary of Defense determines appropriate.
 - **(b)** Any waiver of a uniform standard described in subsection (a) may only be issued by a Secretary of a military department.
 - **(c)** The Secretary of Defense shall include, in conjunction with the submission of the budget of the President to Congress pursuant to section 1105 of title 31 , a certification from each Secretary of a military department to the congressional defense committees that the cost for all needed repairs and improvements for each occupied covered military unaccompanied housing facility under the jurisdiction of such Secretary does not exceed 20 percent of the replacement cost of such facility, as mandated by Department of Defense Manual 4165.63 titled “DoD Housing Management” and dated October 28, 2010 (or a successor document).
+
+Standards Required
+
+Limitation on Issuance of Waivers
+
+Certification
+
+## Source Credit
+
+*(Added and amended [Pub. L. 118–31, div. B, title XXVIII](https://www.govinfo.gov/link/plaw/118/public/31), §§ 2832(a), 2834, Dec. 22, 2023, [137 Stat. 754](https://www.govinfo.gov/link/statute/137/754), 757.)*

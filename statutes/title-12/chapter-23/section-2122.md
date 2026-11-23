@@ -3,9 +3,10 @@ title: "Section 2122 - Corporate existence; general corporate powers"
 usc_title: 12
 usc_section: "2122"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 2122"
-generated_at: "2026-03-30T02:53:53.472Z"
+generated_at: "2026-11-23T20:25:59.232Z"
+status: "active"
 ---
 
 # § 2122. Corporate existence; general corporate powers
@@ -41,3 +42,11 @@ Each bank for cooperatives shall be a body corporate and, subject to regulation 
   - **(16)** Exercise by its board of directors or authorized officers, employees, or agents all such incidental powers as may be necessary or expedient to carry on the business of the bank.
   - **(17)** As may be authorized by the board of directors, maintain credit balances and pay or receive fees or interest thereon, for the purpose of assisting in the transfer of funds to or from parties to transactions that may be financed under section 2128(b) of this title : Provided, however , That nothing herein shall authorize the banks for cooperatives to engage in the business of accepting domestic deposits.
   - **(18)** As may be authorized by its board of directors, agree with other Farm Credit System institutions to share loan or other losses, whether to protect against capital impairment or for any other purpose.
+
+(aa) if the participation would cause the total amount of all loan participations by the bank under this subparagraph involving a single credit risk to exceed 10 percent of the bank’s total capital; or
+
+(bb) if the participation by the bank will itself equal or exceed 50 percent of the principal of the loan or, when taken together with participations in the loan by other Farm Credit System institutions, will cause the cumulative amount of the participations by all Farm Credit System institutions in the loan to equal or exceed 50 percent of the principal of the loan;
+
+## Source Credit
+
+*([Pub. L. 92–181, title III, § 3](https://www.govinfo.gov/link/plaw/92/public/181).1, Dec. 10, 1971, [85 Stat. 602](https://www.govinfo.gov/link/statute/85/602); [Pub. L. 96–592, title III, § 301](https://www.govinfo.gov/link/plaw/96/public/592), Dec. 24, 1980, [94 Stat. 3443](https://www.govinfo.gov/link/statute/94/3443); [Pub. L. 99–205, title II, § 205(e)(1)](https://www.govinfo.gov/link/plaw/99/public/205), Dec. 23, 1985, [99 Stat. 1705](https://www.govinfo.gov/link/statute/99/1705); [Pub. L. 100–233, title VIII, § 802(n)](https://www.govinfo.gov/link/plaw/100/public/233), Jan. 6, 1988, [101 Stat. 1712](https://www.govinfo.gov/link/statute/101/1712); [Pub. L. 100–399, title IX, § 901(b)](https://www.govinfo.gov/link/plaw/100/public/399), Aug. 17, 1988, [102 Stat. 1007](https://www.govinfo.gov/link/statute/102/1007); [Pub. L. 102–552, title V, § 502](https://www.govinfo.gov/link/plaw/102/public/552), Oct. 28, 1992, [106 Stat. 4130](https://www.govinfo.gov/link/statute/106/4130); [Pub. L. 103–376](https://www.govinfo.gov/link/plaw/103/public/376), §§ 2, 6, Oct. 19, 1994, [108 Stat. 3497](https://www.govinfo.gov/link/statute/108/3497), 3500; [Pub. L. 107–171, title V, § 5401(a)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 349](https://www.govinfo.gov/link/statute/116/349).)*

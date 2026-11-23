@@ -3,9 +3,10 @@ title: "Section 951 - Agents of foreign governments"
 usc_title: 18
 usc_section: "951"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 951"
-generated_at: "2026-03-30T02:54:16.476Z"
+generated_at: "2026-11-23T20:26:08.437Z"
+status: "active"
 ---
 
 # § 951. Agents of foreign governments
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:16.476Z"
   - **(2)** such person—
     - **(A)** is an agent of Cuba or any other country that the President determines (and so reports to the Congress) poses a threat to the national security interest of the United States for purposes of this section, unless the Attorney General, after consultation with the Secretary of State, determines and so reports to the Congress that the national security or foreign policy interests of the United States require that the provisions of this section do not apply in specific circumstances to agents of such country; or
     - **(B)** has been convicted of, or has entered a plea of nolo contendere with respect to, any offense under section 792 through 799, 831, or 2381 of this title or under section 11 1 1 See References in Text note below. of the Export Administration Act of 1979, except that the provisions of this subsection shall not apply to a person described in this clause for a period of more than five years beginning on the date of the conviction or the date of entry of the plea of nolo contendere, as the case may be.
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 743](https://www.govinfo.gov/link/statute/62/743); [Pub. L. 97–462, § 6](https://www.govinfo.gov/link/plaw/97/public/462), Jan. 12, 1983, [96 Stat. 2530](https://www.govinfo.gov/link/statute/96/2530); [Pub. L. 98–473, title II, § 1209](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2164](https://www.govinfo.gov/link/statute/98/2164); [Pub. L. 99–569, title VII, § 703](https://www.govinfo.gov/link/plaw/99/public/569), Oct. 27, 1986, [100 Stat. 3205](https://www.govinfo.gov/link/statute/100/3205); [Pub. L. 103–199, title II, § 202](https://www.govinfo.gov/link/plaw/103/public/199), Dec. 17, 1993, [107 Stat. 2321](https://www.govinfo.gov/link/statute/107/2321); [Pub. L. 103–322, title XXXIII, § 330016(1)(R)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2148](https://www.govinfo.gov/link/statute/108/2148).)*

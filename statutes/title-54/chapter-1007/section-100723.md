@@ -3,9 +3,10 @@ title: "Section 100723 - Actions"
 usc_title: 54
 usc_section: "100723"
 chapter: 1007
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "54 U.S.C. § 100723"
-generated_at: "2026-03-30T02:56:28.413Z"
+generated_at: "2026-11-23T20:27:37.994Z"
+status: "active"
 ---
 
 # § 100723. Actions
@@ -16,3 +17,32 @@ generated_at: "2026-03-30T02:56:28.413Z"
     - **(A)** prevent or minimize the destruction, loss of, or injury to System unit resources; or
     - **(B)** minimize the imminent risk of destruction, loss, or injury to System unit resources.
   - **(2)** The Secretary shall assess and monitor destruction, loss, or injury to System unit resources.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 100723 | 16 U.S.C. 19jj–2 . | Pub. L. 101–337, § 3 , July 27, 1990 , 104 Stat. 380 . |
+
+
+Civil Action for Response Costs and Damages
+
+Response Actions and Assessment of Destruction, Loss, or Injury.—
+
+Actions to prevent or minimize destruction, loss, or injury
+
+Assessment and monitoring
+
+Historical and Revision Notes
+
+100723
+
+16 U.S.C. 19jj–2
+
+Pub. L. 101–337, § 3
+
+July 27, 1990
+
+104 Stat. 380
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3107](https://www.govinfo.gov/link/statute/128/3107).)*

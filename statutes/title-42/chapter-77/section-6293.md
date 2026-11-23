@@ -3,9 +3,10 @@ title: "Section 6293 - Test procedures"
 usc_title: 42
 usc_section: "6293"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6293"
-generated_at: "2026-03-30T02:56:11.246Z"
+generated_at: "2026-11-23T20:27:22.608Z"
+status: "active"
 ---
 
 # § 6293. Test procedures
@@ -70,3 +71,15 @@ generated_at: "2026-03-30T02:56:11.246Z"
 - **(f)**
   - **(1)** Not later than 2 years after August 8, 2005 , the Secretary shall prescribe testing requirements for refrigerated bottled or canned beverage vending machines.
   - **(2)** To the maximum extent practicable, the testing requirements prescribed under paragraph (1) shall be based on existing test procedures used in industry.
+
+Test procedures.—
+
+Amendment
+
+Class a external power supplies
+
+Metal halide lamp ballasts
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 323](https://www.govinfo.gov/link/plaw/94/public/163), Dec. 22, 1975, [89 Stat. 919](https://www.govinfo.gov/link/statute/89/919); [Pub. L. 95–619, title IV](https://www.govinfo.gov/link/plaw/95/public/619), §§ 421, 425(a), title VI, § 691(b)(2), Nov. 9, 1978, [92 Stat. 3257](https://www.govinfo.gov/link/statute/92/3257), 3265, 3288; [Pub. L. 100–12, § 4](https://www.govinfo.gov/link/plaw/100/public/12), Mar. 17, 1987, [101 Stat. 105](https://www.govinfo.gov/link/statute/101/105); [Pub. L. 100–357, § 2(c)](https://www.govinfo.gov/link/plaw/100/public/357), June 28, 1988, [102 Stat. 672](https://www.govinfo.gov/link/statute/102/672); [Pub. L. 100–418, title V, § 5115(c)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1433](https://www.govinfo.gov/link/statute/102/1433); [Pub. L. 102–486, title I, § 123(d)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2821](https://www.govinfo.gov/link/statute/106/2821); [Pub. L. 109–58, title I, § 135(b)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 627](https://www.govinfo.gov/link/statute/119/627); [Pub. L. 110–140, title III](https://www.govinfo.gov/link/plaw/110/public/140), §§ 301(b), 302(a), 324(c), Dec. 19, 2007, [121 Stat. 1550](https://www.govinfo.gov/link/statute/121/1550), 1551, 1593.)*

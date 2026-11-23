@@ -3,9 +3,10 @@ title: "Section 1095 - Health care services incurred on behalf of covered benefi
 usc_title: 10
 usc_section: "1095"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1095"
-generated_at: "2026-03-30T02:53:38.107Z"
+generated_at: "2026-11-23T20:25:51.237Z"
+status: "active"
 ---
 
 # § 1095. Health care services incurred on behalf of covered beneficiaries: collection from third-party payers
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:53:38.107Z"
   - **(3)** The Secretary may disclose relevant employment information collected under this subsection to fiscal intermediaries or other designated contractors.
   - **(4)** The Secretary may provide for contacting employers of covered beneficiaries to obtain group health plan information comparable to the information authorized to be obtained under section 1862(b)(5)(C) of the Social Security Act ( 42 U.S.C. 1395y(b)(5)(C) ). Notwithstanding clause (iii) of such section, clause (ii) of such section regarding the imposition of civil money penalties shall apply to the collection of information under this paragraph.
   - **(5)** Information obtained under this subsection may not be disclosed for any purpose other than to carry out the purpose of this section and sections 1079(j)(1) 1 and 1086(d) of this title.
+
+## Source Credit
+
+*(Added [Pub. L. 99–272, title II, § 2001(a)(1)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 100](https://www.govinfo.gov/link/statute/100/100); amended [Pub. L. 101–189, div. A, title VII, § 727(a)](https://www.govinfo.gov/link/plaw/101/public/189), title XVI, § 1622(e)(5), Nov. 29, 1989, [103 Stat. 1480](https://www.govinfo.gov/link/statute/103/1480), 1605; [Pub. L. 101–510, div. A, title VII, § 713(a)](https://www.govinfo.gov/link/plaw/101/public/510) –(d)(2), Nov. 5, 1990, [104 Stat. 1583](https://www.govinfo.gov/link/statute/104/1583), 1584; [Pub. L. 102–25, title VII, § 701(j)(8)](https://www.govinfo.gov/link/plaw/102/public/25), Apr. 6, 1991, [105 Stat. 116](https://www.govinfo.gov/link/statute/105/116); [Pub. L. 102–190, div. A, title VII, § 714](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1403](https://www.govinfo.gov/link/statute/105/1403); [Pub. L. 103–160, div. A, title VII, § 713](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1689](https://www.govinfo.gov/link/statute/107/1689); [Pub. L. 103–337, div. A, title VII, § 714(b)](https://www.govinfo.gov/link/plaw/103/public/337), title X, § 1070(b)(6), Oct. 5, 1994, [108 Stat. 2802](https://www.govinfo.gov/link/statute/108/2802), 2857; [Pub. L. 104–106, div. A, title VII, § 734](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 381](https://www.govinfo.gov/link/statute/110/381); [Pub. L. 104–201, div. A, title VII, § 735(a)](https://www.govinfo.gov/link/plaw/104/public/201), (b), Sept. 23, 1996, [110 Stat. 2598](https://www.govinfo.gov/link/statute/110/2598); [Pub. L. 106–65, div. A, title VII, § 716(c)(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 691](https://www.govinfo.gov/link/statute/113/691); [Pub. L. 107–314, div. A, title X, § 1041(a)(5)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2645](https://www.govinfo.gov/link/statute/116/2645); [Pub. L. 108–173, title IX, § 900(e)(4)(B)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2373](https://www.govinfo.gov/link/statute/117/2373).)*

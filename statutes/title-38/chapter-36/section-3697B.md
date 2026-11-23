@@ -3,9 +3,10 @@ title: "Section 3697B - On-campus educational and vocational counseling"
 usc_title: 38
 usc_section: "3697B"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 3697B"
-generated_at: "2026-03-30T02:55:53.510Z"
+generated_at: "2026-11-23T20:27:01.884Z"
+status: "active"
 ---
 
 # § 3697B. On-campus educational and vocational counseling
@@ -19,3 +20,51 @@ generated_at: "2026-03-30T02:55:53.510Z"
   - **(2)** a description of such services provided;
   - **(3)** the recommendations of the Secretary for improving the provision of such services; and
   - **(4)** any other matters the Secretary determines appropriate.
+
+In General
+
+Selection of Locations
+
+Annual Report
+
+Short Title
+
+Pilot Program.—
+
+In general
+
+Designation
+
+Duration
+
+Parameters
+
+Eligible Students
+
+Consultation Requirement
+
+Outreach to Colleges and Universities
+
+Briefings and Reports.—
+
+Implementation briefing
+
+Report
+
+In general
+
+Contents
+
+Definitions
+
+Appropriate committee of congress
+
+Culturally competent
+
+Tribal college or university
+
+Tribal organization
+
+## Source Credit
+
+*(Added [Pub. L. 115–48, title III, § 307(a)](https://www.govinfo.gov/link/plaw/115/public/48), Aug. 16, 2017, [131 Stat. 993](https://www.govinfo.gov/link/statute/131/993).)*

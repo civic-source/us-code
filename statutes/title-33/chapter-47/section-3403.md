@@ -3,9 +3,10 @@ title: "Section 3403 - Powers and duties of the Administrator"
 usc_title: 33
 usc_section: "3403"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 3403"
-generated_at: "2026-03-30T02:55:41.141Z"
+generated_at: "2026-11-23T20:26:54.262Z"
+status: "active"
 ---
 
 # § 3403. Powers and duties of the Administrator
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:41.141Z"
   - **(2)** accept donations of property, data, and equipment; and
   - **(3)** pay all necessary expenses in connection with the conveyance or transfer of a gift, devise, or bequest.
 - **(c)** In this section, the term “exclusive economic zone” means the zone established by Presidential Proclamation Number 5030, dated March 10, 1983 ( 16 U.S.C. 1453 note).
+
+## Source Credit
+
+*([Pub. L. 111–11, title XII, § 12003](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1417](https://www.govinfo.gov/link/statute/123/1417); [Pub. L. 117–263, div. J, title CIII, § 10305(c)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3971](https://www.govinfo.gov/link/statute/136/3971).)*

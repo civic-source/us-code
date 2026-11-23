@@ -3,9 +3,10 @@ title: "Section 439 - Special compensation: members of the uniformed services wi
 usc_title: 37
 usc_section: "439"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "37 U.S.C. § 439"
-generated_at: "2026-03-30T02:55:44.058Z"
+generated_at: "2026-11-23T20:26:57.414Z"
+status: "active"
 ---
 
 # § 439. Special compensation: members of the uniformed services with catastrophic injuries or illnesses requiring assistance in everyday living
@@ -32,3 +33,23 @@ generated_at: "2026-03-30T02:55:44.058Z"
   - **(1)** personal or mechanical assistance to leave home or bed; or
   - **(2)** constant supervision to avoid physical harm to self or others.
 - **(h)** The Secretary of Defense (or the Secretary of Homeland Security, with respect to the Coast Guard) shall prescribe regulations to carry out this section.
+
+Monthly Compensation Authorized
+
+Covered Members
+
+Amount
+
+Duration
+
+Construction With Other Pay and Allowances
+
+Benefit Information
+
+Catastrophic Injury or Illness Defined
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 111–84, div. A, title VI, § 603(a)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2348](https://www.govinfo.gov/link/statute/123/2348); amended [Pub. L. 111–383, div. A, title VI, § 634](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4241](https://www.govinfo.gov/link/statute/124/4241).)*

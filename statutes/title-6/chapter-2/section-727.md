@@ -3,9 +3,10 @@ title: "Section 727 - Improvements to information technology systems"
 usc_title: 6
 usc_section: "727"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 727"
-generated_at: "2026-03-30T02:53:09.499Z"
+generated_at: "2026-11-23T20:25:34.860Z"
+status: "active"
 ---
 
 # § 727. Improvements to information technology systems
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:09.499Z"
   - **(5)** make appropriate improvements to the National Emergency Management Information System to address shortcomings in such system on October 4, 2006 ; and
   - **(6)** provide training, manuals, and guidance on information technology systems to personnel, including disaster response personnel, to help ensure employees can properly use information technology systems.
 - **(b)** Not later than 270 days after October 4, 2006 , the Administrator shall submit to the appropriate committees of Congress a report describing the implementation of this section, including a description of any actions taken, improvements made, and remaining problems and a description of any additional funding needed to make necessary and appropriate improvements to the information technology systems of the Agency.
+
+## Source Credit
+
+*([Pub. L. 109–295, title VI, § 640](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1423](https://www.govinfo.gov/link/statute/120/1423).)*

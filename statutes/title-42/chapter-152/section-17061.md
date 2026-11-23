@@ -3,9 +3,10 @@ title: "Section 17061 - Definitions"
 usc_title: 42
 usc_section: "17061"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17061"
-generated_at: "2026-03-30T02:56:11.494Z"
+generated_at: "2026-11-23T20:27:23.719Z"
+status: "active"
 ---
 
 # § 17061. Definitions
@@ -83,3 +84,7 @@ In this title: 1 1 See References in Text note below.
     - **(B)** meet the balance of energy needs from sources of energy that do not produce greenhouse gases;
     - **(C)** therefore result in no net emissions of greenhouse gases; and
     - **(D)** be economically viable.
+
+## Source Credit
+
+*([Pub. L. 110–140, title IV, § 401](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1596](https://www.govinfo.gov/link/statute/121/1596).)*

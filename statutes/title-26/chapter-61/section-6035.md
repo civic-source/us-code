@@ -3,9 +3,10 @@ title: "Section 6035 - Basis information to persons acquiring property from dece
 usc_title: 26
 usc_section: "6035"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6035"
-generated_at: "2026-03-30T02:55:27.830Z"
+generated_at: "2026-11-23T20:26:46.502Z"
+status: "active"
 ---
 
 # § 6035. Basis information to persons acquiring property from decedent
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:27.830Z"
 - **(b)** The Secretary shall prescribe such regulations as necessary to carry out this section, including regulations relating to—
   - **(1)** the application of this section to property with regard to which no estate tax return is required to be filed, and
   - **(2)** situations in which the surviving joint tenant or other recipient may have better information than the executor regarding the basis or fair market value of the property.
+
+## Source Credit
+
+*(Added [Pub. L. 114–41, title II, § 2004(b)(1)](https://www.govinfo.gov/link/plaw/114/public/41), July 31, 2015, [129 Stat. 455](https://www.govinfo.gov/link/statute/129/455).)*

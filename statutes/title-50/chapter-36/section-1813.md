@@ -3,9 +3,10 @@ title: "Section 1813 - Procedures for the retention of incidentally acquired com
 usc_title: 50
 usc_section: "1813"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 1813"
-generated_at: "2026-03-30T02:56:26.209Z"
+generated_at: "2026-11-23T20:27:30.776Z"
+status: "active"
 ---
 
 # § 1813. Procedures for the retention of incidentally acquired communications
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:56:26.209Z"
         - **(II)** the duration for which the head of the element is authorizing retention;
         - **(III)** the particular information to be retained; and
         - **(IV)** the measures the element of the intelligence community is taking to protect the privacy interests of United States persons or persons located inside the United States.
+
+## Source Credit
+
+*([Pub. L. 113–293, title III, § 309](https://www.govinfo.gov/link/plaw/113/public/293), Dec. 19, 2014, [128 Stat. 3998](https://www.govinfo.gov/link/statute/128/3998).)*

@@ -3,9 +3,10 @@ title: "Section 1116 - Agency performance reporting"
 usc_title: 31
 usc_section: "1116"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 1116"
-generated_at: "2026-03-30T02:55:34.049Z"
+generated_at: "2026-11-23T20:26:51.715Z"
+status: "active"
 ---
 
 # § 1116. Agency performance reporting
@@ -33,3 +34,11 @@ generated_at: "2026-03-30T02:55:34.049Z"
   - **(8)** include a summary of the findings of the review of the agency under section 1121(c).
 - **(d)** If an agency performance update includes any program activity or information that is specifically authorized under criteria established by an Executive Order to be kept secret in the interest of national defense or foreign policy and is properly classified pursuant to such Executive Order, the head of the agency shall make such information available in the classified appendix provided under section 1115(e).
 - **(e)** The functions and activities of this section shall be considered to be inherently governmental functions. The drafting of agency performance updates under this section shall be performed only by Federal employees.
+
+In general
+
+First report
+
+## Source Credit
+
+*(Added [Pub. L. 111–352, § 4](https://www.govinfo.gov/link/plaw/111/public/352), Jan. 4, 2011, [124 Stat. 3871](https://www.govinfo.gov/link/statute/124/3871); amended [Pub. L. 118–190](https://www.govinfo.gov/link/plaw/118/public/190), §§ 2(b), 7(b), Dec. 23, 2024, [138 Stat. 2654](https://www.govinfo.gov/link/statute/138/2654), 2656.)*

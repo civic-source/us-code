@@ -3,9 +3,10 @@ title: "Section 295m - Prohibition against discrimination on basis of sex"
 usc_title: 42
 usc_section: "295m"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 295m"
-generated_at: "2026-03-30T02:56:10.781Z"
+generated_at: "2026-11-23T20:27:20.401Z"
+status: "active"
 ---
 
 # § 295m. Prohibition against discrimination on basis of sex
@@ -14,3 +15,7 @@ The Secretary may not make a grant, loan guarantee, or interest subsidy payment 
 
   - **(1)** on October 13, 1992 , is in the process of changing its status as an institution which admits only female students to that of an institution which admits students without regard to their sex, and
   - **(2)** is carrying out such change in accordance with a plan approved by the Secretary,
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 794, as added [Pub. L. 102–408, title I, § 102](https://www.govinfo.gov/link/plaw/102/public/408), Oct. 13, 1992, [106 Stat. 2063](https://www.govinfo.gov/link/statute/106/2063).)*

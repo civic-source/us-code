@@ -3,9 +3,10 @@ title: "Section 3808 - Additional implementation and enforcement requirements"
 usc_title: 19
 usc_section: "3808"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3808"
-generated_at: "2026-03-30T02:54:24.698Z"
+generated_at: "2026-11-23T20:26:11.103Z"
+status: "active"
 ---
 
 # § 3808. Additional implementation and enforcement requirements
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:24.698Z"
   - **(4)** A description of the impact the trade agreement will have on State and local governments as a result of increases in trade.
   - **(5)** An analysis of the costs associated with each of the items listed in paragraphs (1) through (4).
 - **(b)** The President shall include a request for the resources necessary to support the plan described in subsection (a) in the first budget that the President submits to the Congress after the submission of the plan.
+
+## Source Credit
+
+*([Pub. L. 107–210, div. B, title XXI, § 2108](https://www.govinfo.gov/link/plaw/107/public/210), Aug. 6, 2002, [116 Stat. 1018](https://www.govinfo.gov/link/statute/116/1018).)*

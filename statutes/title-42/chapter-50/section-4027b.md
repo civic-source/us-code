@@ -3,9 +3,10 @@ title: "Section 4027b - Assessment of claims-paying ability"
 usc_title: 42
 usc_section: "4027b"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4027b"
-generated_at: "2026-03-30T02:56:11.197Z"
+generated_at: "2026-11-23T20:27:22.346Z"
+status: "active"
 ---
 
 # § 4027b. Assessment of claims-paying ability
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.197Z"
   - **(2)** The Administrator shall—
     - **(A)** include the results of each assessment in the report required under section 4027a of this title ; and
     - **(B)** not later than 30 days after the date on which the Administrator completes an assessment required under paragraph (1), make the results of the assessment available to the public.
+
+## Source Credit
+
+*([Pub. L. 112–141, div. F, title II, § 100232(e)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 955](https://www.govinfo.gov/link/statute/126/955).)*

@@ -3,9 +3,10 @@ title: "Section 11116 - Coordinating Council on Juvenile Justice and Delinquency
 usc_title: 34
 usc_section: "11116"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 11116"
-generated_at: "2026-03-30T02:55:33.276Z"
+generated_at: "2026-11-23T20:26:50.507Z"
+status: "active"
 ---
 
 # § 11116. Coordinating Council on Juvenile Justice and Delinquency Prevention
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:55:33.276Z"
 - **(e)** The Administrator shall, with the approval of the Council, appoint such personnel or staff support as the Administrator considers necessary to carry out the purposes of this subchapter.
 - **(f)** Members appointed under subsection (a)(2) shall serve without compensation. Members of the Council shall be reimbursed for travel, subsistence, and other necessary expenses incurred by them in carrying out the duties of the Council.
 - **(g)** Of sums available to carry out this part, not more than $200,000 shall be available to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 93–415, title II, § 206](https://www.govinfo.gov/link/plaw/93/public/415), Sept. 7, 1974, [88 Stat. 1116](https://www.govinfo.gov/link/statute/88/1116); [Pub. L. 94–237, § 4(c)(5)(D)](https://www.govinfo.gov/link/plaw/94/public/237), Mar. 19, 1976, [90 Stat. 244](https://www.govinfo.gov/link/statute/90/244); [Pub. L. 95–115, § 3(a)(3)(A)](https://www.govinfo.gov/link/plaw/95/public/115), (5), (d), Oct. 3, 1977, [91 Stat. 1048–1050](https://www.govinfo.gov/link/statute/91/1048); [Pub. L. 96–509](https://www.govinfo.gov/link/plaw/96/public/509), §§ 8, 19(f), Dec. 8, 1980, [94 Stat. 2753](https://www.govinfo.gov/link/statute/94/2753), 2763; [Pub. L. 98–473, title II, § 623](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2110](https://www.govinfo.gov/link/statute/98/2110); [Pub. L. 100–690, title VII](https://www.govinfo.gov/link/plaw/100/public/690), §§ 7251(b), 7252(b)(2), 7254, Nov. 18, 1988, [102 Stat. 4435–4437](https://www.govinfo.gov/link/statute/102/4435); [Pub. L. 102–586, § 2(d)](https://www.govinfo.gov/link/plaw/102/public/586), Nov. 4, 1992, [106 Stat. 4985](https://www.govinfo.gov/link/statute/106/4985); [Pub. L. 103–82, title IV, § 405(k)](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 922](https://www.govinfo.gov/link/statute/107/922); [Pub. L. 107–273, div. C, title II, § 12206](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1872](https://www.govinfo.gov/link/statute/116/1872); [Pub. L. 111–211, title II, § 246(b)](https://www.govinfo.gov/link/plaw/111/public/211), July 29, 2010, [124 Stat. 2296](https://www.govinfo.gov/link/statute/124/2296); [Pub. L. 115–385, title II, § 202](https://www.govinfo.gov/link/plaw/115/public/385), Dec. 21, 2018, [132 Stat. 5128](https://www.govinfo.gov/link/statute/132/5128).)*

@@ -3,9 +3,10 @@ title: "Section 1092b - National Student Loan Data System"
 usc_title: 20
 usc_section: "1092b"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1092b"
-generated_at: "2026-03-30T02:54:48.136Z"
+generated_at: "2026-11-23T20:26:14.520Z"
+status: "active"
 ---
 
 # § 1092b. National Student Loan Data System
@@ -84,3 +85,7 @@ generated_at: "2026-03-30T02:54:48.136Z"
   - **(1)** revise the codes used to identify institutions and students in the student loan data system authorized by this section to make such codes consistent with the codes used in each database used by the Department of Education that contains information of participation in programs under this subchapter; and
   - **(2)** modify the design or operation of the system authorized by this section to ensure that data relating to any institution is readily accessible and can be used in a form compatible with the integrated postsecondary education data system (IPEDS).
 - **(i)** The Secretary shall integrate the National Student Loan Data System with the Pell Grant applicant and recipient databases as of January 1, 1994 , and any other databases containing information on participation in programs under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 485B](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title IV, § 407(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1486](https://www.govinfo.gov/link/statute/100/1486); amended [Pub. L. 100–50, § 15(13)](https://www.govinfo.gov/link/plaw/100/public/50), June 3, 1987, [101 Stat. 357](https://www.govinfo.gov/link/statute/101/357); [Pub. L. 101–239, title II, § 2008](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2121](https://www.govinfo.gov/link/statute/103/2121); [Pub. L. 101–610, title II, § 204](https://www.govinfo.gov/link/plaw/101/public/610), Nov. 16, 1990, [104 Stat. 3172](https://www.govinfo.gov/link/statute/104/3172); [Pub. L. 102–325, title IV, § 487](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 623](https://www.govinfo.gov/link/statute/106/623); [Pub. L. 103–208, § 2(h)(38)](https://www.govinfo.gov/link/plaw/103/public/208) –(41), Dec. 20, 1993, [107 Stat. 2478](https://www.govinfo.gov/link/statute/107/2478); [Pub. L. 105–244, title IV, § 487](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1746](https://www.govinfo.gov/link/statute/112/1746); [Pub. L. 110–315, title IV, § 489](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3303](https://www.govinfo.gov/link/statute/122/3303); [Pub. L. 111–39, title IV, § 407(b)(7)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1952](https://www.govinfo.gov/link/statute/123/1952); [Pub. L. 116–251, § 4](https://www.govinfo.gov/link/plaw/116/public/251), Dec. 22, 2020, [134 Stat. 1130](https://www.govinfo.gov/link/statute/134/1130).)*

@@ -3,9 +3,10 @@ title: "Section 4911 - Citizen suits"
 usc_title: 42
 usc_section: "4911"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4911"
-generated_at: "2026-03-30T02:56:11.210Z"
+generated_at: "2026-11-23T20:27:22.426Z"
+status: "active"
 ---
 
 # § 4911. Citizen suits
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.210Z"
 - **(d)** The court, in issuing any final order in any action brought pursuant to subsection (a) of this section, may award costs of litigation (including reasonable attorney and expert witness fees) to any party, whenever the court determines such an award is appropriate.
 - **(e)** Nothing in this section shall restrict any right which any person (or class of persons) may have under any statute or common law to seek enforcement of any noise control requirement or to seek any other relief (including relief against an Administrator).
 - **(f)** For purposes of this section, the term “noise control requirement” means paragraph (1), (2), (3), (4), or (5) of section 4909(a) of this title , or a standard, rule, or regulation issued under section 4916 or 4917 of this title or under section 44715 of title 49 .
+
+## Source Credit
+
+*([Pub. L. 92–574, § 12](https://www.govinfo.gov/link/plaw/92/public/574), Oct. 27, 1972, [86 Stat. 1243](https://www.govinfo.gov/link/statute/86/1243).)*

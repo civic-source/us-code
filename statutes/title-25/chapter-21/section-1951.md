@@ -3,9 +3,10 @@ title: "Section 1951 - Information availability to and disclosure by Secretary"
 usc_title: 25
 usc_section: "1951"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1951"
-generated_at: "2026-03-30T02:54:52.831Z"
+generated_at: "2026-11-23T20:26:25.554Z"
+status: "active"
 ---
 
 # § 1951. Information availability to and disclosure by Secretary
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:52.831Z"
   - **(3)** the names and addresses of the adoptive parents; and
   - **(4)** the identity of any agency having files or information relating to such adoptive placement.
 - **(b)** Upon the request of the adopted Indian child over the age of eighteen, the adoptive or foster parents of an Indian child, or an Indian tribe, the Secretary shall disclose such information as may be necessary for the enrollment of an Indian child in the tribe in which the child may be eligible for enrollment or for determining any rights or benefits associated with that membership. Where the documents relating to such child contain an affidavit from the biological parent or parents requesting anonymity, the Secretary shall certify to the Indian child’s tribe, where the information warrants, that the child’s parentage and other circumstances of birth entitle the child to enrollment under the criteria established by such tribe.
+
+## Source Credit
+
+*([Pub. L. 95–608, title III, § 301](https://www.govinfo.gov/link/plaw/95/public/608), Nov. 8, 1978, [92 Stat. 3077](https://www.govinfo.gov/link/statute/92/3077).)*

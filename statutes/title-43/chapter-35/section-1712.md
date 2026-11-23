@@ -3,9 +3,10 @@ title: "Section 1712 - Land use plans"
 usc_title: 43
 usc_section: "1712"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1712"
-generated_at: "2026-03-30T02:55:57.487Z"
+generated_at: "2026-11-23T20:27:06.353Z"
+status: "active"
 ---
 
 # § 1712. Land use plans
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:57.487Z"
   - **(2)** Any management decision or action pursuant to a management decision that excludes (that is, totally eliminates) one or more of the principal or major uses for two or more years with respect to a tract of land of one hundred thousand acres or more shall be reported by the Secretary to the House of Representatives and the Senate. If within ninety days from the giving of such notice (exclusive of days on which either House has adjourned for more than three consecutive days), the Congress adopts a concurrent resolution of nonapproval of the management decision or action, then the management decision or action shall be promptly terminated by the Secretary. If the committee to which a resolution has been referred during the said ninety day period, has not reported it at the end of thirty calendar days after its referral, it shall be in order to either discharge the committee from further consideration of such resolution or to discharge the committee from consideration of any other resolution with respect to the management decision or action. A motion to discharge may be made only by an individual favoring the resolution, shall be highly privileged (except that it may not be made after the committee has reported such a resolution), and debate thereon shall be limited to not more than one hour, to be divided equally between those favoring and those opposing the resolution. An amendment to the motion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to. If the motion to discharge is agreed to or disagreed to, the motion may not be made with respect to any other resolution with respect to the same management decision or action. When the committee has reprinted, or has been discharged from further consideration of a resolution, it shall at any time thereafter be in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion shall be highly privileged and shall not be debatable. An amendment to the motion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to.
   - **(3)** Withdrawals made pursuant to section 1714 of this title may be used in carrying out management decisions, but public lands shall be removed from or restored to the operation of the Mining Law of 1872, as amended (R.S. 2318–2352; 30 U.S.C. 21 et seq.) or transferred to another department, bureau, or agency only by withdrawal action pursuant to section 1714 of this title or other action pursuant to applicable law: Provided , That nothing in this section shall prevent a wholly owned Government corporation from acquiring and holding rights as a citizen under the Mining Law of 1872.
 - **(f)** The Secretary shall allow an opportunity for public involvement and by regulation shall establish procedures, including public hearings where appropriate, to give Federal, State, and local governments and the public, adequate notice and opportunity to comment upon and participate in the formulation of plans and programs relating to the management of the public lands.
+
+## Source Credit
+
+*([Pub. L. 94–579, title II, § 202](https://www.govinfo.gov/link/plaw/94/public/579), Oct. 21, 1976, [90 Stat. 2747](https://www.govinfo.gov/link/statute/90/2747); [Pub. L. 113–287, § 5](https://www.govinfo.gov/link/plaw/113/public/287) (l)(6), Dec. 19, 2014, [128 Stat. 3271](https://www.govinfo.gov/link/statute/128/3271).)*

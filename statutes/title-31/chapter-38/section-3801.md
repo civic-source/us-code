@@ -3,9 +3,10 @@ title: "Section 3801 - Definitions"
 usc_title: 31
 usc_section: "3801"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 3801"
-generated_at: "2026-03-30T02:55:34.061Z"
+generated_at: "2026-11-23T20:26:51.820Z"
+status: "active"
 ---
 
 # § 3801. Definitions
@@ -75,3 +76,13 @@ generated_at: "2026-03-30T02:55:34.061Z"
   - **(1)** each written representation, certification, or affirmation constitutes a separate statement; and
   - **(2)** a statement shall be considered made, presented, or submitted to an authority when such statement is actually made to an agent, fiscal intermediary, or other entity, including any State or political subdivision thereof, acting for or on behalf of such authority.
 - **(d)** For purposes of subsection (a)(10), materiality shall be determined in the same manner as under section 3729 of this title .
+
+“Not later than 180 days after the date of enactment of this Act [ Dec. 23, 2024 ], each authority head, as defined in section 3801 of title 31 , United States Code, shall—
+
+Findings
+
+Purposes
+
+## Source Credit
+
+*(Added [Pub. L. 99–509, title VI, § 6103(a)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1934](https://www.govinfo.gov/link/statute/100/1934); amended [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 103–272, § 4(f)(1)(Q)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1362](https://www.govinfo.gov/link/statute/108/1362); [Pub. L. 110–69, title VII, § 7017](https://www.govinfo.gov/link/plaw/110/public/69), Aug. 9, 2007, [121 Stat. 684](https://www.govinfo.gov/link/statute/121/684); [Pub. L. 110–409, § 10](https://www.govinfo.gov/link/plaw/110/public/409), Oct. 14, 2008, [122 Stat. 4314](https://www.govinfo.gov/link/statute/122/4314); [Pub. L. 117–286, § 4(b)(56)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4349](https://www.govinfo.gov/link/statute/136/4349); [Pub. L. 118–159, div. E, title LII, § 5203(b)(1)](https://www.govinfo.gov/link/plaw/118/public/159), (g)(1)(A), (i), Dec. 23, 2024, [138 Stat. 2440](https://www.govinfo.gov/link/statute/138/2440), 2442, 2443.)*

@@ -3,9 +3,10 @@ title: "Section 2076b - Inspector General audits and reports"
 usc_title: 15
 usc_section: "2076b"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2076b"
-generated_at: "2026-03-30T02:54:08.165Z"
+generated_at: "2026-11-23T20:26:04.165Z"
+status: "active"
 ---
 
 # § 2076b. Inspector General audits and reports
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:08.165Z"
 - **(d)**
   - **(1)** Not later than 60 days after August 14, 2008 , the Inspector General of the Commission shall transmit a report to the appropriate Congressional committees on the activities of the Inspector General, any structural barriers which prevent the Inspector General from providing robust oversight of the activities of the Commission, and any additional authority or resources that would facilitate more effective oversight.
   - **(2)** Beginning for fiscal year 2010, the Inspector General of the Commission shall include in an annual report to the appropriate Congressional committees the Inspector General’s findings, conclusions, and recommendations from the reviews and audits under subsections (a) and (b).
+
+## Source Credit
+
+*([Pub. L. 110–314, title II, § 205](https://www.govinfo.gov/link/plaw/110/public/314), Aug. 14, 2008, [122 Stat. 3043](https://www.govinfo.gov/link/statute/122/3043).)*

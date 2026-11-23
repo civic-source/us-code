@@ -3,9 +3,10 @@ title: "Section 732 - Personnel management system"
 usc_title: 31
 usc_section: "732"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 732"
-generated_at: "2026-03-30T02:55:34.047Z"
+generated_at: "2026-11-23T20:26:51.686Z"
+status: "active"
 ---
 
 # § 732. Personnel management system
@@ -94,3 +95,80 @@ generated_at: "2026-03-30T02:55:34.047Z"
     - **(C)** Nothing in this paragraph shall be considered to permit or require that a rate of basic pay be increased to an amount inconsistent with the limitation set forth in subsection (c)(2).
     - **(D)** If (disregarding this subsection) the covered officer or employee would also have received any nonpermanent merit pay in such year, such nonpermanent merit pay shall be decreased by an amount equal to the portion of such officer’s or employee’s basic pay for such year which is attributable to the further increase described in subparagraph (A) (as determined by the Comptroller General), but to not less than zero.
   - **(3)** Notwithstanding any other provision of this chapter, the effective date of any pay increase (within the meaning of paragraph (1)(A)) taking effect with respect to a covered officer or employee in any year shall be the same as the effective date of any adjustment taking effect under section 5303 of title 5 with respect to statutory pay systems (as defined by section 5302(1) of title 5 ) in such year.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 732(a) | 31:52–2(a). | Feb. 15, 1980 , Pub. L. 96–191 , §§ 3, 6, 94 Stat. 27 , 32. |
+|  | 31:52–5(b). |  |
+| 732(b) | 31:52–2(b)(1), (c)(1st sentence). |  |
+| 732(c) | 31:52–2(c)(last sentence). |  |
+| 732(d) | 31:52–2(d), (f), (h). |  |
+| 732(e) | 31:52–2(e). |  |
+| 732(f)(1), (2) | 31:52–2(g). |  |
+| 732(f)(3) | 31:52–2(b)(2). |  |
+| 732(g) | 31:52–5(a). |  |
+
+
+Historical and Revision Notes
+
+732(a)
+
+Feb. 15, 1980
+
+Pub. L. 96–191
+
+94 Stat. 27
+
+732(b)
+
+732(c)
+
+732(d)
+
+732(e)
+
+732(f)(1), (2)
+
+732(f)(3)
+
+732(g)
+
+Effective date
+
+Savings provisions
+
+Applicability
+
+Pay Increase Defined
+
+Prospective Effect
+
+Lump-Sum Payment
+
+Conditions
+
+Retirement.—
+
+In general
+
+Contributions to civil service retirement and disability retirement fund.—
+
+Employee contributions
+
+Agency contributions and payment to the fund
+
+Exclusive Remedy
+
+In General
+
+Amount
+
+Qualified Individual
+
+Exclusive Remedy
+
+Definitions
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 897](https://www.govinfo.gov/link/statute/96/897); [Pub. L. 98–326, § 1(b)](https://www.govinfo.gov/link/plaw/98/public/326), June 22, 1984, [98 Stat. 269](https://www.govinfo.gov/link/statute/98/269); [Pub. L. 100–426, title III](https://www.govinfo.gov/link/plaw/100/public/426), §§ 302, 303, Sept. 9, 1988, [102 Stat. 1602](https://www.govinfo.gov/link/statute/102/1602); [Pub. L. 101–509, title V, § 529 [title I, § 101(b)(2)(B)]](https://www.govinfo.gov/link/plaw/101/public/509), Nov. 5, 1990, [104 Stat. 1427](https://www.govinfo.gov/link/statute/104/1427), 1439; [Pub. L. 104–53, title II, § 212(a)](https://www.govinfo.gov/link/plaw/104/public/53), Nov. 19, 1995, [109 Stat. 535](https://www.govinfo.gov/link/statute/109/535); [Pub. L. 106–303](https://www.govinfo.gov/link/plaw/106/public/303), §§ 3(a)(1), (b)(1), 4(a)(2), Oct. 13, 2000, [114 Stat. 1066](https://www.govinfo.gov/link/statute/114/1066), 1068, 1069; [Pub. L. 108–271](https://www.govinfo.gov/link/plaw/108/public/271), §§ 3(a), (c), 4, 8(b), 9, 12, July 7, 2004, [118 Stat. 812](https://www.govinfo.gov/link/statute/118/812), 814, 816; [Pub. L. 110–323](https://www.govinfo.gov/link/plaw/110/public/323), §§ 2(a), 8, Sept. 22, 2008, [122 Stat. 3539](https://www.govinfo.gov/link/statute/122/3539), 3548.)*

@@ -3,9 +3,10 @@ title: "Section 17903 - Purchase of electric power"
 usc_title: 40
 usc_section: "17903"
 chapter: 179
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 17903"
-generated_at: "2026-03-30T02:55:43.390Z"
+generated_at: "2026-11-23T20:26:56.726Z"
+status: "active"
 ---
 
 # § 17903. Purchase of electric power
@@ -14,3 +15,22 @@ For purposes of economy, efficiency, and conserving oil and natural gas, the hea
 
   - **(1)** a savings to other consumers of electric energy sold by that non-federal person without increasing the cost incurred by any federal agency for electric energy; or
   - **(2)** a cost savings to the federal agency purchasing the electric energy without increasing costs to other consumers of electric energy.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 17903 | 40:795b. | Pub. L. 96–571, § 4 , Dec. 22, 1980 , 94 Stat. 3342 . |
+
+
+Historical and Revision Notes
+
+17903
+
+Pub. L. 96–571, § 4
+
+Dec. 22, 1980
+
+94 Stat. 3342
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1289](https://www.govinfo.gov/link/statute/116/1289).)*

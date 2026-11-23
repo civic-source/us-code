@@ -3,9 +3,10 @@ title: "Section 675a - Additional case plan and case review system requirements"
 usc_title: 42
 usc_section: "675a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 675a"
-generated_at: "2026-03-30T02:56:10.891Z"
+generated_at: "2026-11-23T20:27:20.925Z"
+status: "active"
 ---
 
 # § 675a. Additional case plan and case review system requirements
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:56:10.891Z"
   - **(5)** In the case of any child who is placed in a qualified residential treatment program for more than 12 consecutive months or 18 nonconsecutive months (or, in the case of a child who has not attained age 13, for more than 6 consecutive or nonconsecutive months), the State agency shall submit to the Secretary—
     - **(A)** the most recent versions of the evidence and documentation specified in paragraph (4); and
     - **(B)** the signed approval of the head of the State agency for the continued placement of the child in that setting.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 475A, as added and amended [Pub. L. 113–183, title I](https://www.govinfo.gov/link/plaw/113/public/183), §§ 112(b)(1), 113(d), Sept. 29, 2014, [128 Stat. 1926](https://www.govinfo.gov/link/statute/128/1926), 1929; [Pub. L. 115–123, div. E, title VII, § 50742](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 257](https://www.govinfo.gov/link/statute/132/257).)*

@@ -3,9 +3,10 @@ title: "Section 2032A - Valuation of certain farm, etc., real property"
 usc_title: 26
 usc_section: "2032A"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 2032A"
-generated_at: "2026-03-30T02:55:27.779Z"
+generated_at: "2026-11-23T20:26:46.147Z"
+status: "active"
 ---
 
 # § 2032A. Valuation of certain farm, etc., real property
@@ -188,3 +189,41 @@ generated_at: "2026-03-30T02:55:27.779Z"
     - **(B)** any tax imposed by subsection (c) by reason of the exchange shall be treated as a tax imposed on a partial disposition, and
     - **(C)** paragraph (6) of subsection (c) shall be applied by treating material participation with respect to the exchanged property as material participation with respect to the qualified exchange property.
   - **(3)** For purposes of this subsection, the term “qualified exchange property” means real property which is to be used for the qualified use set forth in subparagraph (A) or (B) of subsection (b)(2) under which the real property exchanged therefor originally qualified under subsection (a).
+
+In general
+
+Waiver of statute of limitations
+
+In general
+
+Refund or credit of overpayment barred by statute of limitations
+
+In general
+
+Increase in limitation
+
+Subsection
+
+Subsection
+
+Certain amendments made retroactive to 1976.—
+
+In general
+
+Timely election required
+
+Reinstatement of elections
+
+Statute of limitations
+
+In General
+
+Executor Must Provide Information
+
+Effective Date
+
+Special Rule for Certain Estate
+
+## Source Credit
+
+*(Added [Pub. L. 94–455, title XX, § 2003(a)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1856](https://www.govinfo.gov/link/statute/90/1856); amended [Pub. L. 95–472, § 4(a)](https://www.govinfo.gov/link/plaw/95/public/472), (c), Oct. 17, 1978, [92 Stat. 1334](https://www.govinfo.gov/link/statute/92/1334), 1336; [Pub. L. 95–600, title VII, § 702(d)(1)](https://www.govinfo.gov/link/plaw/95/public/600), (2), (4), (5), Nov. 6, 1978, [92 Stat. 2928](https://www.govinfo.gov/link/statute/92/2928), 2929; [Pub. L. 97–34, title IV, § 421(a)](https://www.govinfo.gov/link/plaw/97/public/34) –(d)(2)(A), (e), (f), (h)–(j)(2)(A), (3), (4), Aug. 13, 1981, [95 Stat. 306–313](https://www.govinfo.gov/link/statute/95/306); [Pub. L. 97–448, title I, § 104(b)(1)](https://www.govinfo.gov/link/plaw/97/public/448), (2), Jan. 12, 1983, [96 Stat. 2381](https://www.govinfo.gov/link/statute/96/2381); [Pub. L. 98–369, div. A, title X, § 1025(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1030](https://www.govinfo.gov/link/statute/98/1030); [Pub. L. 99–514, title I, § 104(b)(3)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2105](https://www.govinfo.gov/link/statute/100/2105); [Pub. L. 100–647, title VI, § 6151(a)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3724](https://www.govinfo.gov/link/statute/102/3724); [Pub. L. 101–508, title XI, § 11802(f)(5)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–530](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 105–34, title V](https://www.govinfo.gov/link/plaw/105/public/34), §§ 501(b), 504(a), (b), 508(c), title XIII, § 1313(a), Aug. 5, 1997, [111 Stat. 845](https://www.govinfo.gov/link/statute/111/845), 853, 854, 860, 1045; [Pub. L. 108–311, title II, § 207(22)](https://www.govinfo.gov/link/plaw/108/public/311), Oct. 4, 2004, [118 Stat. 1178](https://www.govinfo.gov/link/statute/118/1178); [Pub. L. 115–97, title I, § 11002(d)(1)(DD)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2060](https://www.govinfo.gov/link/statute/131/2060).)*

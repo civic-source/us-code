@@ -3,9 +3,10 @@ title: "Section 8697 - Battle force ship employment, maintenance, and manning ba
 usc_title: 10
 usc_section: "8697"
 chapter: 863
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 8697"
-generated_at: "2026-03-30T02:53:38.249Z"
+generated_at: "2026-11-23T20:25:52.230Z"
+status: "active"
 ---
 
 # § 8697. Battle force ship employment, maintenance, and manning baseline plans
@@ -77,3 +78,15 @@ generated_at: "2026-03-30T02:53:38.249Z"
     - **(B)** A United States Naval Ship that contributes directly to Navy warfighting or support missions.
   - **(2)** The term “delivery” has the meaning provided for in section 8671 of this title .
   - **(3)** The term “Senior Technical Authority” has the meaning provided for in section 8669b of this title .
+
+In General
+
+Notification Required
+
+Treatment of Certain Ships
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. A, title X, § 1026(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2765](https://www.govinfo.gov/link/statute/136/2765), § 8696; renumbered § 8697, [Pub. L. 118–31, div. A, title XVIII, § 1801(a)(39)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 685](https://www.govinfo.gov/link/statute/137/685).)*

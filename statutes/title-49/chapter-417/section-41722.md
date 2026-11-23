@@ -3,9 +3,10 @@ title: "Section 41722 - Delay reduction actions"
 usc_title: 49
 usc_section: "41722"
 chapter: 417
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 41722"
-generated_at: "2026-03-30T02:56:19.377Z"
+generated_at: "2026-11-23T20:27:35.106Z"
+status: "active"
 ---
 
 # § 41722. Delay reduction actions
@@ -20,3 +21,23 @@ generated_at: "2026-03-30T02:56:19.377Z"
 - **(c)** Before any such meeting is held, the Administrator shall establish flight reduction targets for the meeting and notify the attending air carriers of those targets not less than 48 hours before the meeting.
 - **(d)** An air carrier attending the meeting shall make any offer to meet a flight reduction target to the Administrator rather than to another carrier.
 - **(e)** The Administrator shall ensure that a transcript of the meeting is kept and made available to the public not later than 3 business days after the conclusion of the meeting.
+
+Scheduling Reduction Meetings
+
+Meeting Conditions
+
+Flight Reduction Targets
+
+Delay Reduction Offers
+
+Transcript
+
+In General
+
+No Agreement
+
+Subsequent Schedule Increases
+
+## Source Credit
+
+*(Added [Pub. L. 108–176, title IV, § 422(a)](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2552](https://www.govinfo.gov/link/statute/117/2552).)*

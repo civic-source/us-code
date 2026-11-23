@@ -3,9 +3,10 @@ title: "Section 907 - The baseline"
 usc_title: 2
 usc_section: "907"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 907"
-generated_at: "2026-03-30T02:53:04.806Z"
+generated_at: "2026-11-23T20:25:28.938Z"
+status: "active"
 ---
 
 # § 907. The baseline
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:04.806Z"
   - **(6)** If, for any account, a continuing appropriation is in effect for less than the entire current year, then the current-year amount shall be assumed to equal the amount that would be available if that continuing appropriation covered the entire fiscal year. If law permits the transfer of budget authority among budget accounts in the current year, the current-year level for an account shall reflect transfers accomplished by the submission of, or assumed for the current year in, the President’s original budget for the budget year.
 - **(d)** In deriving the baseline for any budget year or outyear, current-year amounts shall be calculated using the concepts and definitions that are required for that budget year.
 - **(e)** Amounts realized from the sale of an asset shall not be included in estimates under section 901, 902, or 903 of this title if that sale would result in a financial cost to the Federal Government as determined pursuant to scorekeeping guidelines.
+
+## Source Credit
+
+*([Pub. L. 99–177, title II, § 257](https://www.govinfo.gov/link/plaw/99/public/177), formerly §§ 251(a)(6)(I), 257, Dec. 12, 1985, [99 Stat. 1092](https://www.govinfo.gov/link/statute/99/1092); [Pub. L. 100–119, title I](https://www.govinfo.gov/link/plaw/100/public/119), §§ 102(a), (b)(4)–(8), 104(c)(2), 106(b), Sept. 29, 1987, [101 Stat. 754](https://www.govinfo.gov/link/statute/101/754), 773, 774, 777, 780; renumbered § 257 and amended [Pub. L. 101–508, title XIII, § 13101(b)](https://www.govinfo.gov/link/plaw/101/public/508), (e)(1), (2), Nov. 5, 1990, [104 Stat. 1388–589](https://www.govinfo.gov/link/statute/104/1388), 1388–591, 1388–593; [Pub. L. 105–33, title X, § 10209(a)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 710](https://www.govinfo.gov/link/statute/111/710); [Pub. L. 113–67, div. A, title I, § 121(9)](https://www.govinfo.gov/link/plaw/113/public/67), Dec. 26, 2013, [127 Stat. 1175](https://www.govinfo.gov/link/statute/127/1175).)*

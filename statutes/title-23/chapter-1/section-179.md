@@ -3,9 +3,10 @@ title: "Section 179 - Low-carbon transportation materials grants"
 usc_title: 23
 usc_section: "179"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 179"
-generated_at: "2026-03-30T02:55:12.564Z"
+generated_at: "2026-11-23T20:26:23.845Z"
+status: "active"
 ---
 
 # § 179. Low-carbon transportation materials grants
@@ -40,3 +41,39 @@ generated_at: "2026-03-30T02:55:12.564Z"
     - **(G)** a metropolitan planning organization (as defined in section 134(b)(2)); or
     - **(H)** a special purpose district or public authority with a transportation function.
   - **(3)** The term “greenhouse gas” means the air pollutants carbon dioxide, hydrofluorocarbons, methane, nitrous oxide, perfluorocarbons, and sulfur hexafluoride.
+
+Federal Highway Administration Appropriation
+
+Reimbursement of Incremental Costs; Incentives
+
+In general
+
+Reimbursement and incentive amounts
+
+Incremental amount
+
+Incentive amount
+
+Federal share
+
+Limitations
+
+In general
+
+Other restrictions
+
+Single occupant passenger vehicles
+
+Materials identification
+
+Definitions
+
+Administrator
+
+Eligible recipient
+
+Greenhouse gas
+
+## Source Credit
+
+*(Added [Pub. L. 117–169, title VI, § 60506(a)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 2085](https://www.govinfo.gov/link/statute/136/2085).)*

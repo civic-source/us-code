@@ -3,9 +3,10 @@ title: "Section 2354 - Local application for career and technical education prog
 usc_title: 20
 usc_section: "2354"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 2354"
-generated_at: "2026-03-30T02:54:48.175Z"
+generated_at: "2026-11-23T20:26:14.706Z"
+status: "active"
 ---
 
 # § 2354. Local application for career and technical education programs
@@ -67,3 +68,7 @@ generated_at: "2026-03-30T02:54:48.175Z"
     - **(E)** allow employer input, including input from industry or sector partnerships in the local area, where applicable, into the development and implementation of programs of study to ensure such programs of study align with skills required by local employment opportunities, including activities such as the identification of relevant standards, curriculum, industry-recognized credentials, and current technology and equipment;
   - **(3)** identify and encourage opportunities for work-based learning; and
   - **(4)** ensure funding under this part is used in a coordinated manner with other local resources.
+
+## Source Credit
+
+*([Pub. L. 88–210, title I, § 134](https://www.govinfo.gov/link/plaw/88/public/210), as added [Pub. L. 109–270, § 1(b)](https://www.govinfo.gov/link/plaw/109/public/270), Aug. 12, 2006, [120 Stat. 732](https://www.govinfo.gov/link/statute/120/732); amended [Pub. L. 113–128, title V, § 512(e)(5)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1707](https://www.govinfo.gov/link/statute/128/1707); [Pub. L. 114–95, title IX, § 9215(n)(8)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2170](https://www.govinfo.gov/link/statute/129/2170); [Pub. L. 115–224, title I, § 133](https://www.govinfo.gov/link/plaw/115/public/224), July 31, 2018, [132 Stat. 1612](https://www.govinfo.gov/link/statute/132/1612).)*

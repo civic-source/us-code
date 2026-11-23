@@ -3,9 +3,10 @@ title: "Section 3200 - Denali Scenic Highway study"
 usc_title: 16
 usc_section: "3200"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3200"
-generated_at: "2026-03-30T02:54:23.013Z"
+generated_at: "2026-11-23T20:26:20.644Z"
+status: "active"
 ---
 
 # § 3200. Denali Scenic Highway study
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:23.013Z"
 - **(c)** In conducting the studies required by this section, the Secretary shall cooperate with the State and shall consult with each Village Corporation within whose area of operation lands described in this section are located and to the maximum extent practicable with the owner of any lands adjoining the lands described in subsection (a) concerning the desirability of establishing a Denali Scenic Highway. The Secretary, through the National Park Service, shall also give such public notice of the study as he deems appropriate, including at least publication in a newspaper or newspapers having general circulation in the area or areas of the lands described in subsection (a), and shall hold a public hearing or hearings at one or more locations convenient to the areas affected.
 - **(d)** Within three years after December 2, 1980 , the Secretary shall report to the President the results of the studies carried out pursuant to this section together with his recommendation as to whether the scenic highway studied should be established and, if his recommendation is to establish the scenic highway, the lands described in subsection (a) which should be included therein. Such report shall include the views and recommendations of all members of the study team. The President shall advise the President of the Senate and the Speaker of the House of Representatives of his recommendations and those of the Governor of Alaska with respect to creation of the scenic highways, 1 1 So in original. Probably should be “highway,”. together with maps thereof, a definition of boundaries thereof, an estimate of costs, recommendations on administration, and proposed legislation to create such a scenic highway, if creation of one is recommended.
 - **(e)** The lands withdrawn under subsection (a) of this section shall remain withdrawn until such time as the Congress acts on the President’s recommendation, but not to exceed two years after the recommendation is transmitted to the Congress.
+
+## Source Credit
+
+*([Pub. L. 96–487, title XIII, § 1311](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2481](https://www.govinfo.gov/link/statute/94/2481).)*

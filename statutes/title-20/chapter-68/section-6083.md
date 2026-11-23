@@ -3,9 +3,10 @@ title: "Section 6083 - Nonsmoking policy for children’s services"
 usc_title: 20
 usc_section: "6083"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 6083"
-generated_at: "2026-03-30T02:54:48.191Z"
+generated_at: "2026-11-23T20:26:14.807Z"
+status: "active"
 ---
 
 # § 6083. Nonsmoking policy for children’s services
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:54:48.191Z"
   - **(4)** The Secretary may, as appropriate, compromise, modify, or remit, with or without conditions, any civil penalty or administrative compliance order. In the case of a civil penalty, the amount, as finally determined by the Secretary or agreed upon in compromise, may be deducted from any sums that the United States or its agencies or instrumentalities owes to the person against whom the penalty is assessed.
   - **(5)** Any person aggrieved by a penalty assessed or an order issued, or both, by the Secretary under this section may file a petition for judicial review thereof with the United States Court of Appeals for the District of Columbia Circuit or for any other circuit in which the person resides or transacts business. Such person shall provide a copy thereof to the Secretary or the Secretary’s designee. The petition shall be filed within 30 days after the Secretary’s assessment or order, or both, are final and have been provided to such person by certified mail. The Secretary shall promptly provide to the court a certified copy of the transcript of any hearing held under this section and a copy of the notice or order.
   - **(6)** If a person fails to pay an assessment of a civil penalty or comply with an order, after either or both are final under this section, or after a court under paragraph (5) has entered a final judgment in favor of the Secretary, the Attorney General, at the request of the Secretary, shall recover the amount of the civil penalty (plus interest at then currently prevailing rates from the day either or both are final) or enforce the order in an action brought in the appropriate district court of the United States. In such action, the validity and appropriateness of the penalty or order or the amount of the penalty shall not be subject to review.
+
+## Source Credit
+
+*([Pub. L. 103–227, title X, § 1043](https://www.govinfo.gov/link/plaw/103/public/227), Mar. 31, 1994, [108 Stat. 272](https://www.govinfo.gov/link/statute/108/272).)*

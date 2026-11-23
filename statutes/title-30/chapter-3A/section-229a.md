@@ -3,9 +3,10 @@ title: "Section 229a - Water struck while drilling for oil and gas"
 usc_title: 30
 usc_section: "229a"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 229a"
-generated_at: "2026-03-30T02:55:29.381Z"
+generated_at: "2026-11-23T20:26:34.929Z"
+status: "active"
 ---
 
 # § 229a. Water struck while drilling for oil and gas
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:29.381Z"
 - **(c)** The Secretary may make such purchase and may lease or operate such wells for the purpose of producing water and of using the same on the public lands or of disposing of such water for beneficial use on other lands, and where such wells have heretofore been plugged or abandoned or where such wells have been drilled prior to the issuance of any permit or lease by persons not in privity with the permittee or lessee, the Secretary may develop the same for the purposes of this section: Provided , That owners or occupants of lands adjacent to those upon which such water wells may be developed shall have a preference right to make beneficial use of such water.
 - **(d)** The Secretary may use so much of any funds available for the plugging of wells, as he may find necessary to start the program provided for by this section, and thereafter he may use the proceeds from the sale or other disposition of such water as a revolving fund for the continuation of such program, and such proceeds are hereby appropriated for such purpose.
 - **(e)** Nothing in this section shall be construed to restrict operations under any oil or gas lease or permit under any other provision of this chapter.
+
+## Source Credit
+
+*(Feb. 25, 1920, ch. 85, § 40, as added June 16, 1934, ch. 557, [48 Stat. 977](https://www.govinfo.gov/link/statute/48/977); amended [Pub. L. 94–579, title VII, § 704(a)](https://www.govinfo.gov/link/plaw/94/public/579), Oct. 21, 1976, [90 Stat. 2792](https://www.govinfo.gov/link/statute/90/2792).)*

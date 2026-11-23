@@ -3,9 +3,10 @@ title: "Section 687l - Issuance and guarantee of trust certificates"
 usc_title: 15
 usc_section: "687l"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 687l"
-generated_at: "2026-03-30T02:54:08.111Z"
+generated_at: "2026-11-23T20:26:03.862Z"
+status: "active"
 ---
 
 # § 687l. Issuance and guarantee of trust certificates
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:08.111Z"
   - **(3)** Prior to any sale, the Administrator shall require the seller to disclose to a purchaser of a trust certificate issued pursuant to this section, information on the terms, conditions, and yield of such instrument.
   - **(4)** The Administrator is authorized to regulate brokers and dealers in trust certificates sold pursuant to this section.
   - **(5)** Nothing in this subsection shall prohibit the use of a book-entry or other electronic form of registration for trust certificates.
+
+## Source Credit
+
+*([Pub. L. 85–699, title III, § 319](https://www.govinfo.gov/link/plaw/85/public/699), formerly § 321, as added [Pub. L. 99–272, title XVIII, § 18005(a)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 364](https://www.govinfo.gov/link/statute/100/364); amended [Pub. L. 101–162, title V](https://www.govinfo.gov/link/plaw/101/public/162), (5), Nov. 21, 1989, [103 Stat. 1028](https://www.govinfo.gov/link/statute/103/1028); [Pub. L. 102–366, title IV, § 404](https://www.govinfo.gov/link/plaw/102/public/366), Sept. 4, 1992, [106 Stat. 1013](https://www.govinfo.gov/link/statute/106/1013); renumbered § 319 and amended [Pub. L. 104–208, div. D, title II](https://www.govinfo.gov/link/plaw/104/public/208), §§ 205(b), 208(h)(1)(E), (F), Sept. 30, 1996, [110 Stat. 3009–738](https://www.govinfo.gov/link/statute/110/3009), 3009–747.)*

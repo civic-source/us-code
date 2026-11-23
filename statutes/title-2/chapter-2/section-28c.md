@@ -3,9 +3,10 @@ title: "Section 28c - Distribution of Precedents by Director of the Government P
 usc_title: 2
 usc_section: "28c"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 28c"
-generated_at: "2026-03-30T02:53:04.785Z"
+generated_at: "2026-11-23T20:25:28.810Z"
+status: "active"
 ---
 
 # § 28c. Distribution of Precedents by Director of the Government Publishing Office
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:04.785Z"
   - **(12)** to the Smithsonian Institute, two sets;
   - **(13)** to the library of each legislative branch of each State, territory, and possession of the United States, one set; and
   - **(14)** to the Superintendent of Documents, eight hundred and sixteen sets for distribution to the depository library system.
+
+## Source Credit
+
+*([Pub. L. 94–551, § 2](https://www.govinfo.gov/link/plaw/94/public/551), Oct. 18, 1976, [90 Stat. 2537](https://www.govinfo.gov/link/statute/90/2537); [Pub. L. 104–186, title II, § 202(3)](https://www.govinfo.gov/link/plaw/104/public/186), Aug. 20, 1996, [110 Stat. 1724](https://www.govinfo.gov/link/statute/110/1724); [Pub. L. 113–235, div. H, title I, § 1301(d)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537).)*

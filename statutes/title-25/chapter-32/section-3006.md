@@ -3,9 +3,10 @@ title: "Section 3006 - Review committee"
 usc_title: 25
 usc_section: "3006"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3006"
-generated_at: "2026-03-30T02:54:52.846Z"
+generated_at: "2026-11-23T20:26:25.625Z"
+status: "active"
 ---
 
 # § 3006. Review committee
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:54:52.846Z"
   - **(2)** provide reasonable administrative and staff support necessary for the deliberations of the committee.
 - **(h)** The committee established under subsection (a) shall submit an annual report to the Congress on the progress made, and any barriers encountered, in implementing this section during the previous year.
 - **(i)** The committee established under subsection (a) shall terminate at the end of the 120-day period beginning on the day the Secretary certifies, in a report submitted to Congress, that the work of the committee has been completed.
+
+## Source Credit
+
+*([Pub. L. 101–601, § 8](https://www.govinfo.gov/link/plaw/101/public/601), Nov. 16, 1990, [104 Stat. 3055](https://www.govinfo.gov/link/statute/104/3055).)*

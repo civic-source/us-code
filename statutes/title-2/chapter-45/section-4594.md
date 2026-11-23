@@ -3,9 +3,10 @@ title: "Section 4594 - Withholding and remittance of State income tax by Secreta
 usc_title: 2
 usc_section: "4594"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 4594"
-generated_at: "2026-03-30T02:53:04.834Z"
+generated_at: "2026-11-23T20:25:29.048Z"
+status: "active"
 ---
 
 # § 4594. Withholding and remittance of State income tax by Secretary of Senate
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:04.834Z"
 - **(d)** The Secretary may enter into agreements under subsection (a) of this section at such time or times as he considers appropriate.
 - **(e)** This section imposes no duty, burden, or requirement upon the United States, the Senate, or any officer or employee of the United States, except as specifically provided in this section. Nothing in this section shall be deemed to consent to the application of any provision of law which has the effect of subjecting the United States, the Senate, or any officer or employee of the United States to any penalty or liability by reason of the provisions of this section. Any paper, form, or document filed with the Secretary under this section is a paper of the Senate within the provisions of rule XXX of the Standing Rules of the Senate.
 - **(f)** For the purposes of this section, “State” means any of the States of the United States and the District of Columbia.
+
+## Source Credit
+
+*([Pub. L. 93–371, § 2](https://www.govinfo.gov/link/plaw/93/public/371), Aug. 13, 1974, [88 Stat. 427](https://www.govinfo.gov/link/statute/88/427).)*

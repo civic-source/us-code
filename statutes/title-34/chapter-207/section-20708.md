@@ -3,9 +3,10 @@ title: "Section 20708 - Grants for specialized human trafficking training and te
 usc_title: 34
 usc_section: "20708"
 chapter: 207
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 20708"
-generated_at: "2026-03-30T02:55:33.299Z"
+generated_at: "2026-11-23T20:26:50.602Z"
+status: "active"
 ---
 
 # § 20708. Grants for specialized human trafficking training and technical assistance for service providers
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:33.299Z"
   - **(1)** An eligible entity that receives a grant under this section may use not more than 5 percent of the total amount of such grant for administrative expenses.
   - **(2)** Nothing in this section may be construed to restrict the ability of an eligible entity to apply for or obtain funding from any other source to carry out the training described in subsection (c).
 - **(e)** There are authorized to be appropriated $10,000,000 for each of the fiscal years 2007 through 2011 to carry out the provisions of this section.
+
+## Source Credit
+
+*([Pub. L. 109–164, title II, § 208](https://www.govinfo.gov/link/plaw/109/public/164), formerly [Pub. L. 109–162, title I, § 111](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 2984](https://www.govinfo.gov/link/statute/119/2984); [Pub. L. 113–4, title XII, § 1212(b)(2)(D)](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 144](https://www.govinfo.gov/link/statute/127/144); [Pub. L. 115–392, § 10(a)](https://www.govinfo.gov/link/plaw/115/public/392), Dec. 21, 2018, [132 Stat. 5254](https://www.govinfo.gov/link/statute/132/5254); renumbered [§ 208 of Pub. L. 109–164](https://www.govinfo.gov/link/plaw/109/public/164) and amended [Pub. L. 117–347, title I](https://www.govinfo.gov/link/plaw/117/public/347), §§ 101(a), 106(a), Jan. 5, 2023, [136 Stat. 6200](https://www.govinfo.gov/link/statute/136/6200), 6204.)*

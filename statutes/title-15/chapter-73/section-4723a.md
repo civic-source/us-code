@@ -3,9 +3,10 @@ title: "Section 4723a - United States Commercial Centers"
 usc_title: 15
 usc_section: "4723a"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 4723a"
-generated_at: "2026-03-30T02:54:08.203Z"
+generated_at: "2026-11-23T20:26:04.354Z"
+status: "active"
 ---
 
 # § 4723a. United States Commercial Centers
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:54:08.203Z"
     - **(C)** a foreign corporation, partnership, or other association, more than 95 percent of which is owned by persons described in subparagraphs (A) and (B),
   - **(2)** the term “State” means any of the several States, the District of Columbia, or any commonwealth, territory, or possession of the United States; and
   - **(3)** the term “United States” means the several States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+
+## Source Credit
+
+*([Pub. L. 102–549, title IV, § 401](https://www.govinfo.gov/link/plaw/102/public/549), Oct. 28, 1992, [106 Stat. 3661](https://www.govinfo.gov/link/statute/106/3661); [Pub. L. 104–66, title I, § 1021(b)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 712](https://www.govinfo.gov/link/statute/109/712).)*

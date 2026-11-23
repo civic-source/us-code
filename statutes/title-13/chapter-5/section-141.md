@@ -3,9 +3,10 @@ title: "Section 141 - Population and other census information"
 usc_title: 13
 usc_section: "141"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "13 U.S.C. § 141"
-generated_at: "2026-03-30T02:54:03.338Z"
+generated_at: "2026-11-23T20:25:53.904Z"
+status: "active"
 ---
 
 # § 141. Population and other census information
@@ -24,3 +25,25 @@ generated_at: "2026-03-30T02:54:03.338Z"
   - **(2)** not later than 2 years before the appropriate census date, a report containing the Secretary’s determination of the questions proposed to be included in such census; and
   - **(3)** after submission of a report under paragraph (1) or (2) of this subsection and before the appropriate census date, if the Secretary finds new circumstances exist which necessitate that the subjects, types of information, or questions contained in reports so submitted be modified, a report containing the Secretary’s determination of the subjects, types of information, or questions as proposed to be modified.
 - **(g)** As used in this section, “census of population” means a census of population, housing, and matters relating to population and housing.
+
+In General
+
+Expanded Census Question
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+J.R. Biden, Jr.
+
+## Source Credit
+
+*(Aug. 31, 1954, ch. 1158, [68 Stat. 1019](https://www.govinfo.gov/link/statute/68/1019); [Pub. L. 85–207, § 9](https://www.govinfo.gov/link/plaw/85/public/207), Aug. 28, 1957, [71 Stat. 483](https://www.govinfo.gov/link/statute/71/483); [Pub. L. 94–171](https://www.govinfo.gov/link/plaw/94/public/171), §§ 1, 2(a), Dec. 23, 1975, [89 Stat. 1023](https://www.govinfo.gov/link/statute/89/1023), 1024; [Pub. L. 94–521, § 7(a)](https://www.govinfo.gov/link/plaw/94/public/521), Oct. 17, 1976, [90 Stat. 2461](https://www.govinfo.gov/link/statute/90/2461).)*

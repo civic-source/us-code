@@ -3,9 +3,10 @@ title: "Section 504 - Power to make arrangements respecting atomic energy materi
 usc_title: 30
 usc_section: "504"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 504"
-generated_at: "2026-03-30T02:55:29.383Z"
+generated_at: "2026-11-23T20:26:34.936Z"
+status: "active"
 ---
 
 # § 504. Power to make arrangements respecting atomic energy materials as unaffected
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:29.383Z"
 - **(a)** validation of certain mining claims located on lands described in section 501 of this title , and
 - **(b)** the modification and amendment of certain withdrawals or reservations of land, nothing in this chapter shall affect any power or authority duly vested in the Atomic Energy Commission or any other agency, department or officer of the United States to make leases, withdrawals, reservations or other arrangements with respect to source materials as defined in section 5(b)(1) of the Atomic Energy Act of 1946, as amended.
 
+
+## Source Credit
+
+*(Aug. 12, 1953, ch. 405, § 4, [67 Stat. 540](https://www.govinfo.gov/link/statute/67/540).)*

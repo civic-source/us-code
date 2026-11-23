@@ -3,9 +3,10 @@ title: "Section 15909 - Gas hydrate production incentive"
 usc_title: 42
 usc_section: "15909"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 15909"
-generated_at: "2026-03-30T02:56:11.463Z"
+generated_at: "2026-11-23T20:27:23.584Z"
+status: "active"
 ---
 
 # § 15909. Gas hydrate production incentive
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.463Z"
   - **(1)** The Secretary shall publish the advanced notice of proposed rulemaking within 180 days after August 8, 2005 , and complete the rulemaking implementing this section within 365 days after August 8, 2005 .
   - **(2)** Such regulations shall define the term “gas hydrate resources” to include both the natural gas content of gas hydrates within the hydrate stability zone and free natural gas trapped by and beneath the hydrate stability zone.
 - **(e)** Not later than 365 days after August 8, 2005 , the Secretary, in consultation with the Secretary of Energy, shall carry out a review of, and submit to Congress a report on, further opportunities to enhance production of natural gas from gas hydrate resources on the outer Continental Shelf and on Federal lands in Alaska through the provision of other production incentives or through technical or financial assistance.
+
+## Source Credit
+
+*([Pub. L. 109–58, title III, § 353](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 714](https://www.govinfo.gov/link/statute/119/714).)*

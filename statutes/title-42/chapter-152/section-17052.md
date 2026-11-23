@@ -3,9 +3,10 @@ title: "Section 17052 - Renewable fuel infrastructure grants"
 usc_title: 42
 usc_section: "17052"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17052"
-generated_at: "2026-03-30T02:56:11.493Z"
+generated_at: "2026-11-23T20:27:23.717Z"
+status: "active"
 ---
 
 # § 17052. Renewable fuel infrastructure grants
@@ -77,3 +78,23 @@ generated_at: "2026-03-30T02:56:11.493Z"
     - **(B)** Not later than 2 years after December 19, 2007 , and annually thereafter until the termination of the pilot program, the Secretary shall submit to Congress a report containing an evaluation of the effectiveness of the pilot program, including an assessment of the petroleum displacement and benefits to the environment derived from the projects included in the pilot program.
 - **(e)** No grant shall be provided under subsection (b) or (c) to a large, vertically integrated oil company.
 - **(f)** There are authorized to be appropriated to the Secretary for carrying out this section $200,000,000 for each of the fiscal years 2008 through 2014.
+
+(aa) the head of a State, tribal, or local government or a metropolitan transportation authority, or any combination of those entities; and
+
+(bb) a registered participant in the Vehicle Technology Deployment Program of the Department; and
+
+(aa) a description of the project proposed in the application, including the ways in which the project meets the requirements of this subsection;
+
+(bb) an estimate of the degree of use of the project, including the estimated size of fleet of vehicles operated with renewable fuels blend available within the geographic region of the corridor, measured as a total quantity and a percentage;
+
+(cc) an estimate of the potential petroleum displaced as a result of the project (measured as a total quantity and a percentage), and a plan to collect and disseminate petroleum displacement and other relevant data relating to the project to be funded under the grant, over the expected life of the project;
+
+(dd) a description of the means by which the project will be sustainable without Federal assistance after the completion of the term of the grant;
+
+(ee) a complete description of the costs of the project, including acquisition, construction, operation, and maintenance costs over the expected life of the project; and
+
+(ff) a description of which costs of the project will be supported by Federal assistance under this subsection.
+
+## Source Credit
+
+*([Pub. L. 110–140, title II, § 244](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1541](https://www.govinfo.gov/link/statute/121/1541).)*

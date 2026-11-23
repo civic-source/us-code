@@ -3,9 +3,10 @@ title: "Section 10532 - Applications"
 usc_title: 34
 usc_section: "10532"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10532"
-generated_at: "2026-03-30T02:55:33.270Z"
+generated_at: "2026-11-23T20:26:50.479Z"
+status: "active"
 ---
 
 # § 10532. Applications
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:33.270Z"
 - **(d)** If an application under this section is submitted in conjunction with a transaction for the purchase of armor vests, grant amounts under this section may not be used to fund any portion of that purchase unless, before the application is submitted, the applicant—
   - **(1)** receives clear and conspicuous notice that receipt of the grant amounts requested in the application is uncertain; and
   - **(2)** expressly assumes the obligation to carry out the transaction, regardless of whether such amounts are received.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 2502](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 105–181, § 3(a)(3)](https://www.govinfo.gov/link/plaw/105/public/181), June 16, 1998, [112 Stat. 514](https://www.govinfo.gov/link/statute/112/514); amended [Pub. L. 106–517, § 3(c)](https://www.govinfo.gov/link/plaw/106/public/517), Nov. 13, 2000, [114 Stat. 2408](https://www.govinfo.gov/link/statute/114/2408).)*

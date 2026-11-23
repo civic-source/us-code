@@ -3,9 +3,10 @@ title: "Section 7501 - Definitions"
 usc_title: 7
 usc_section: "7501"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7501"
-generated_at: "2026-03-30T02:53:42.455Z"
+generated_at: "2026-11-23T20:25:41.794Z"
+status: "active"
 ---
 
 # § 7501. Definitions
@@ -30,3 +31,27 @@ In this chapter:
   - **(8)** The term “soup kitchen” means a public or charitable institution that, as an integral part of the normal activities of the institution, maintains an established feeding operation to provide food to needy homeless persons on a regular basis.
   - **(9)** The term “total value of additional commodities” means the actual cost of all additional commodities that are paid by the Secretary (including the distribution and processing costs incurred by the Secretary).
   - **(10)** The term “value of additional commodities allocated to each State” means the actual cost of additional commodities allocated to each State that are paid by the Secretary (including the distribution and processing costs incurred by the Secretary).
+
+Appropriation
+
+Use of Funds
+
+Animal Health.—
+
+COVID–
+
+animal surveillance
+
+Funding
+
+Overtime Fees.—
+
+Small establishment; very small establishment definitions
+
+Overtime inspection cost reduction
+
+Funding
+
+## Source Credit
+
+*([Pub. L. 98–8, title II, § 201A](https://www.govinfo.gov/link/plaw/98/public/8), as added [Pub. L. 98–92, § 2(2)](https://www.govinfo.gov/link/plaw/98/public/92), Sept. 2, 1983, [97 Stat. 608](https://www.govinfo.gov/link/statute/97/608); amended [Pub. L. 99–198, title XV, § 1563](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1590](https://www.govinfo.gov/link/statute/99/1590); [Pub. L. 104–193, title VIII, § 871(a)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2343](https://www.govinfo.gov/link/statute/110/2343).)*

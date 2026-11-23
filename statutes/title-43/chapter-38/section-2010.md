@@ -3,12 +3,17 @@ title: "Section 2010 - Negotiations with Government of Canada"
 usc_title: 43
 usc_section: "2010"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 2010"
-generated_at: "2026-03-30T02:55:57.495Z"
+generated_at: "2026-11-23T20:27:06.394Z"
+status: "active"
 ---
 
 # § 2010. Negotiations with Government of Canada
 
 With respect to any crude oil transportation system approved under section 2007(a) of this title all or any part of which is to be located in Canada, the President of the United States is authorized and requested to enter into negotiations with the Government of Canada to determine what measures can be taken to expedite the granting of approvals by the Government of Canada for construction or operation of such system, and he is authorized and requested to explore the possibility of further exchanges of crude oil supplies between the United States and Canada.
 
+
+## Source Credit
+
+*([Pub. L. 95–617, title V, § 510](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3163](https://www.govinfo.gov/link/statute/92/3163).)*

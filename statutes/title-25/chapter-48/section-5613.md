@@ -3,9 +3,10 @@ title: "Section 5613 - Indian trust asset management plan"
 usc_title: 25
 usc_section: "5613"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 5613"
-generated_at: "2026-03-30T02:54:52.872Z"
+generated_at: "2026-11-23T20:26:25.759Z"
+status: "active"
 ---
 
 # § 5613. Indian trust asset management plan
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:54:52.872Z"
     - **(A)** a notice of the intent of the Indian tribe to terminate the plan; and
     - **(B)** a resolution of the governing body of the Indian tribe authorizing the termination of the plan.
   - **(2)** A termination of an Indian trust asset management plan under paragraph (1) takes effect on October 1 of the first fiscal year following the date on which a notice is provided to the Secretary under paragraph (1)(A).
+
+## Source Credit
+
+*([Pub. L. 114–178, title II, § 204](https://www.govinfo.gov/link/plaw/114/public/178), June 22, 2016, [130 Stat. 434](https://www.govinfo.gov/link/statute/130/434).)*

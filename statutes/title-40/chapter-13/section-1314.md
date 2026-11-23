@@ -3,9 +3,10 @@ title: "Section 1314 - Easements"
 usc_title: 40
 usc_section: "1314"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 1314"
-generated_at: "2026-03-30T02:55:43.377Z"
+generated_at: "2026-11-23T20:26:56.573Z"
+status: "active"
 ---
 
 # § 1314. Easements
@@ -32,3 +33,71 @@ generated_at: "2026-03-30T02:55:43.377Z"
   - **(3)** The termination is effective as of the date of the notice.
 - **(e)** The authority conferred by this section is in addition to, and shall not affect or be subject to, any other law under which an executive agency may grant easements.
 - **(f)** Rights of way over, under, and through public lands and lands in the National Forest System may not be granted under this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1314(a) | 40:319c. | Pub. L. 87–852 , Oct. 23, 1962 , 76 Stat. 1129 . |
+| 1314(b) | 40:319 (1st, 2d sentences). |  |
+| 1314(c) | 40:319 (3d, last sentences). |  |
+| 1314(d) | 40:319a. |  |
+| 1314(e) | 40:319b. |  |
+| 1314(f) | 40:319 note, 319a note, 319b note, 319c note. | Pub. L. 94–579, title VII, § 706(a) (related to the Act of Oct. 23, 1962 (Pub. L. 87—852, 76 Stat. 1129 )), Oct. 21, 1976 , 90 Stat. 2793 . |
+
+
+Definitions
+
+Executive agency
+
+Real property of the government
+
+State
+
+Grant of Easement
+
+Relinquishment of Legislative Jurisdiction
+
+Termination of Easement.—
+
+When termination occurs
+
+Notice required
+
+Effective date
+
+Additional Easement Authority
+
+Limitation on Issuance of Rights of Way
+
+Historical and Revision Notes
+
+1314(a)
+
+Pub. L. 87–852
+
+Oct. 23, 1962
+
+76 Stat. 1129
+
+1314(b)
+
+1314(c)
+
+1314(d)
+
+1314(e)
+
+1314(f)
+
+Pub. L. 94–579, title VII, § 706(a)
+
+Oct. 23, 1962
+
+76 Stat. 1129
+
+Oct. 21, 1976
+
+90 Stat. 2793
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1139](https://www.govinfo.gov/link/statute/116/1139); [Pub. L. 113–287, § 5(j)(4)](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3269](https://www.govinfo.gov/link/statute/128/3269).)*

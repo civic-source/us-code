@@ -3,9 +3,10 @@ title: "Section 7581 - Definitions"
 usc_title: 42
 usc_section: "7581"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7581"
-generated_at: "2026-03-30T02:56:11.315Z"
+generated_at: "2026-11-23T20:27:22.920Z"
+status: "active"
 ---
 
 # § 7581. Definitions
@@ -21,3 +22,59 @@ For purposes of this part—
       - **(i)** in a vehicle class for which standards are applicable under this part; and
       - **(ii)** in a covered fleet which is centrally fueled (or capable of being centrally fueled).
   - **(7)** The term “clean-fuel vehicle” means a vehicle in a class or category of vehicles which has been certified to meet for any model year the clean-fuel vehicle standards applicable under this part for that model year to clean-fuel vehicles in that class or category.
+
+|  | Col 2 |
+| --- | --- |
+| Specifications of Base Gasoline Used as Basis for Reactivity Readjustment: |  |
+| API gravity | 57.8 |
+| Sulfur, ppm | 317 |
+| Color | Purple |
+| Benzene, vol. % | 1.35 |
+| Reid vapor pressure | 8.7 |
+| Drivability | 1195 |
+| Antiknock index | 87.3 |
+| Distillation, D–86 °F |  |
+| IBP | 92 |
+| 10% | 126 |
+| 50% | 219 |
+| 90% | 327 |
+| EP | 414 |
+| Hydrocarbon Type, Vol. % FIA: |  |
+| Aromatics | 30.9 |
+| Olefins | 8.2 |
+| Saturates | 60.9 |
+
+
+API gravity
+
+Sulfur, ppm
+
+Color
+
+Benzene, vol. %
+
+Reid vapor pressure
+
+Drivability
+
+Antiknock index
+
+IBP
+
+10%
+
+50%
+
+90%
+
+EP
+
+Aromatics
+
+Olefins
+
+Saturates
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title II, § 241, as added [Pub. L. 101–549, title II, § 229(a)](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2511](https://www.govinfo.gov/link/statute/104/2511).)*

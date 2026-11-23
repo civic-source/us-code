@@ -3,9 +3,10 @@ title: "Section 53402 - Establishment of the Tanker Security Fleet"
 usc_title: 46
 usc_section: "53402"
 chapter: 534
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 53402"
-generated_at: "2026-03-30T02:56:15.574Z"
+generated_at: "2026-11-23T20:27:27.318Z"
+status: "active"
 ---
 
 # § 53402. Establishment of the Tanker Security Fleet
@@ -57,3 +58,41 @@ generated_at: "2026-03-30T02:56:15.574Z"
     - **(B)** The Commandant of the Coast Guard may accept certification from a foreign classification society under subparagraph (A) only—
       - **(i)** to the extent that the government of the foreign country in which the society is headquartered provides access on a reciprocal basis to the American Bureau of Shipping; and
       - **(ii)** if the foreign classification society has offices and maintains records in the United States.
+
+In General
+
+Vessel Eligibility
+
+Requirements Regarding Citizenship of Owners, Charterers, and Operators.—
+
+Vessels owned and operated by section 50501 citizens
+
+Vessels owned by a section 50501 citizen, or united states citizen trust, and chartered to a documentation citizen
+
+Vessels owned and operated by a defense contractor
+
+Vessels owned by documentation citizens and chartered to section 50501 citizens
+
+Request by Secretary of Defense
+
+Vessel Standards.—
+
+Certificate of inspection
+
+Continued eligibility for certificate
+
+Reliance on classification society.—
+
+In general
+
+Foreign classification society
+
+In general
+
+Approval
+
+Vessels operating in maritime security fleet
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. C, title XXXV, § 3511(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4409](https://www.govinfo.gov/link/statute/134/4409).)*

@@ -3,9 +3,10 @@ title: "Section 509 - Prohibited practices in contests of knowledge, skill, or c
 usc_title: 47
 usc_section: "509"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 509"
-generated_at: "2026-03-30T02:56:24.517Z"
+generated_at: "2026-11-23T20:27:28.918Z"
+status: "active"
 ---
 
 # § 509. Prohibited practices in contests of knowledge, skill, or chance
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:24.517Z"
   - **(1)** The term “contest” means any contest broadcast by a radio station in connection with which any money or any other thing of value is offered as a prize or prizes to be paid or presented by the program sponsor or by any other person or persons, as announced in the course of the broadcast.
   - **(2)** The term “the listening or viewing public” means those members of the public who, with the aid of radio receiving sets, listen to or view programs broadcast by radio stations.
 - **(c)** Whoever violates subsection (a) shall be fined not more than $10,000 or imprisoned not more than one year, or both.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title V, § 508, formerly § 509, as added [Pub. L. 86–752, § 9](https://www.govinfo.gov/link/plaw/86/public/752), Sept. 13, 1960, [74 Stat. 897](https://www.govinfo.gov/link/statute/74/897); renumbered § 508, [Pub. L. 96–507, § 1](https://www.govinfo.gov/link/plaw/96/public/507), Dec. 8, 1980, [94 Stat. 2747](https://www.govinfo.gov/link/statute/94/2747).)*

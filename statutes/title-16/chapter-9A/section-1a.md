@@ -3,12 +3,17 @@ title: "Section 1a - Cooperative program for development of tuna and other laten
 usc_title: 16
 usc_section: "1a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1a"
-generated_at: "2026-03-30T02:54:22.906Z"
+generated_at: "2026-11-23T20:26:20.263Z"
+status: "active"
 ---
 
 # § 758e–1a. Cooperative program for development of tuna and other latent fishery resources in area; establishment; availability of project information
 
 In addition to the authority granted in section 758e of this title , the Secretary, in consultation with representatives of all interested member nations of the agency, and those parties set forth in section 758e–1 of this title , may establish in accordance with section 758e of this title , a cooperative program for the development of tuna and other latent fisheries resources of the Central, Western, and South Pacific Ocean to be submitted to the President and the Congress within one year following official formation of the agency. The Secretary shall make available to all interested member nations of the agency the results and findings of research or development projects carried out under sections 758e to 758e–5 of this title.
 
+
+## Source Credit
+
+*([Pub. L. 92–444, § 4](https://www.govinfo.gov/link/plaw/92/public/444), as added [Pub. L. 95–295, § 1(3)](https://www.govinfo.gov/link/plaw/95/public/295), June 16, 1978, [92 Stat. 319](https://www.govinfo.gov/link/statute/92/319).)*

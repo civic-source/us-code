@@ -3,9 +3,10 @@ title: "Section 8512 - Weather research and forecasting innovation"
 usc_title: 15
 usc_section: "8512"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 8512"
-generated_at: "2026-03-30T02:54:08.230Z"
+generated_at: "2026-11-23T20:26:04.487Z"
+status: "active"
 ---
 
 # § 8512. Weather research and forecasting innovation
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:54:08.230Z"
   - **(1)** In carrying out the program under this section, the Assistant Administrator for Oceanic and Atmospheric Research shall collaborate with and support the non-Federal weather research community, which includes institutions of higher education, private entities, and nongovernmental organizations, by making funds available through competitive grants, contracts, and cooperative agreements.
   - **(2)** It is the sense of Congress that not less than 30 percent of the funds for weather research and development at the Office of Oceanic and Atmospheric Research should be made available for the purpose described in paragraph (1).
 - **(d)** Each year, concurrent with the annual budget request submitted by the President to Congress under section 1105 of title 31 for the National Oceanic and Atmospheric Administration, the Under Secretary shall submit to Congress a description of current and planned activities under this section.
+
+## Source Credit
+
+*([Pub. L. 115–25, title I, § 102](https://www.govinfo.gov/link/plaw/115/public/25), Apr. 18, 2017, [131 Stat. 92](https://www.govinfo.gov/link/statute/131/92); [Pub. L. 115–423, § 4(a)](https://www.govinfo.gov/link/plaw/115/public/423), Jan. 7, 2019, [132 Stat. 5456](https://www.govinfo.gov/link/statute/132/5456); [Pub. L. 117–263, div. J, title CVI, § 10601(c)(8)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3997](https://www.govinfo.gov/link/statute/136/3997).)*

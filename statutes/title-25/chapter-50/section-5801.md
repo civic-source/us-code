@@ -3,9 +3,10 @@ title: "Section 5801 - Findings"
 usc_title: 25
 usc_section: "5801"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 5801"
-generated_at: "2026-03-30T02:54:52.873Z"
+generated_at: "2026-11-23T20:26:25.764Z"
+status: "active"
 ---
 
 # § 5801. Findings
@@ -22,3 +23,7 @@ Congress finds that—
     - **(E)** an environment intended to help establish and expand business operations;
   - **(4)** the business incubator model is suited to accelerating entrepreneurship in reservation communities because the business incubator model promotes collaboration to address shared challenges and provides individually tailored services for the purpose of overcoming obstacles unique to each participating business; and
   - **(5)** business incubators will stimulate economic development by providing Native entrepreneurs with the tools necessary to grow businesses that offer products and services to reservation communities.
+
+## Source Credit
+
+*([Pub. L. 116–174, § 2](https://www.govinfo.gov/link/plaw/116/public/174), Oct. 20, 2020, [134 Stat. 839](https://www.govinfo.gov/link/statute/134/839).)*

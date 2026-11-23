@@ -3,9 +3,10 @@ title: "Section 3293 - Agricultural fellowship program for middle income countri
 usc_title: 7
 usc_section: "3293"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 3293"
-generated_at: "2026-03-30T02:53:42.400Z"
+generated_at: "2026-11-23T20:25:41.585Z"
+status: "active"
 ---
 
 # § 3293. Agricultural fellowship program for middle income countries, emerging democracies, and emerging markets
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:53:42.400Z"
   - **(2)** for eligible countries that meet the requirements of subsection (b)(2), $3,000,000; and
   - **(3)** for eligible countries that meet the requirements of subsection (b)(3), $6,000,000.
 - **(g)** If the Secretary of Agriculture determines that it is advisable in furtherance of the purposes of the program established under this section, the Secretary may accept money, funds, property, and services of every kind by gift, devise, bequest, grant, or otherwise, and may, in any manner, dispose of all such holdings and use the receipts generated from such disposition as general program funds under this section. All funds so designated for the program established under this section shall remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XV, § 1543](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3694](https://www.govinfo.gov/link/statute/104/3694); [Pub. L. 102–237, title X, § 1002](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1894](https://www.govinfo.gov/link/statute/105/1894); [Pub. L. 102–511, title VII, § 705](https://www.govinfo.gov/link/plaw/102/public/511), Oct. 24, 1992, [106 Stat. 3349](https://www.govinfo.gov/link/statute/106/3349); [Pub. L. 104–127, title II, § 277(b)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 978](https://www.govinfo.gov/link/statute/110/978); [Pub. L. 115–334, title III](https://www.govinfo.gov/link/plaw/115/public/334), §§ 3201(b)(3)(B), 3305, Dec. 20, 2018, [132 Stat. 4616](https://www.govinfo.gov/link/statute/132/4616), 4619.)*

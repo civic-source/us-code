@@ -3,9 +3,10 @@ title: "Section 2408 - Criminal offenses"
 usc_title: 16
 usc_section: "2408"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 2408"
-generated_at: "2026-03-30T02:54:23.002Z"
+generated_at: "2026-11-23T20:26:20.606Z"
+status: "active"
 ---
 
 # § 2408. Criminal offenses
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:23.002Z"
 - **(a)** A person is guilty of an offense if he willfully commits any act prohibited by section 2403(a) of this title .
 - **(b)** Any offense described in subsection (a) is punishable by a fine of $10,000, or imprisonment for not more than one year, or both.
 - **(c)** A conviction under subsection (a) for any act shall not be deemed to preclude a conviction for such act under any other law, including, but not limited to, the Marine Mammal Protection Act of 1972 [ 16 U.S.C. 1361 et seq.], the Endangered Species Act of 1973 [ 16 U.S.C. 1531 et seq.], and the Migratory Bird Treaty Act [ 16 U.S.C. 703 et seq.].
+
+## Source Credit
+
+*([Pub. L. 95–541, § 9](https://www.govinfo.gov/link/plaw/95/public/541), Oct. 28, 1978, [92 Stat. 2054](https://www.govinfo.gov/link/statute/92/2054).)*

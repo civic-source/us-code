@@ -3,12 +3,17 @@ title: "Section 3857 - Remedies not affected"
 usc_title: 33
 usc_section: "3857"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 3857"
-generated_at: "2026-03-30T02:55:41.144Z"
+generated_at: "2026-11-23T20:26:54.281Z"
+status: "active"
 ---
 
 # § 3857. Remedies not affected
 
 - **(a)** Nothing in this chapter limits, denies, amends, modifies, or repeals any other remedy available to the United States.
 - **(b)** Nothing in this chapter limits, denies, amends, modifies, or repeals any rights under existing law, of any State, territory, or possession of the United States, or any political subdivision thereof, to regulate any antifouling system. Compliance with the requirements of a State, territory, or possession of the United States, or political subdivision thereof related to antifouling paint or any other antifouling system does not relieve any person of the obligation to comply with this chapter.
+
+## Source Credit
+
+*([Pub. L. 111–281, title X, § 1047](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 3031](https://www.govinfo.gov/link/statute/124/3031).)*

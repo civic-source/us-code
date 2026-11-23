@@ -3,9 +3,10 @@ title: "Section 1314 - Amount and method of adjustment"
 usc_title: 26
 usc_section: "1314"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1314"
-generated_at: "2026-03-30T02:55:27.768Z"
+generated_at: "2026-11-23T20:26:46.085Z"
+status: "active"
 ---
 
 # § 1314. Amount and method of adjustment
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:27.768Z"
 - **(b)** The adjustment authorized in section 1311(a) shall be made by assessing and collecting, or refunding or crediting, the amount thereof in the same manner as if it were a deficiency determined by the Secretary with respect to the taxpayer as to whom the error was made or an overpayment claimed by such taxpayer, as the case may be, for the taxable year or years with respect to which an amount is ascertained under subsection (a), and as if on the date of the determination one year remained before the expiration of the periods of limitation upon assessment or filing claim for refund for such taxable year or years. If, as a result of a determination described in section 1313(a)(4), an adjustment has been made by the assessment and collection of a deficiency or the refund or credit of an overpayment, and subsequently such determination is altered or revoked, the amount of the adjustment ascertained under subsection (a) of this section shall be redetermined on the basis of such alteration or revocation and any overpayment or deficiency resulting from such redetermination shall be refunded or credited, or assessed and collected, as the case may be, as an adjustment under this part. In the case of an adjustment resulting from an increase or decrease in a net operating loss or net capital loss which is carried back to the year of adjustment, interest shall not be collected or paid for any period prior to the close of the taxable year in which the net operating loss or net capital loss arises.
 - **(c)** The amount to be assessed and collected in the same manner as a deficiency, or to be refunded or credited in the same manner as an overpayment, under this part, shall not be diminished by any credit or set-off based upon any item other than the one which was the subject of the adjustment. The amount of the adjustment under this part, if paid, shall not be recovered by a claim or suit for refund or suit for erroneous refund based upon any item other than the one which was the subject of the adjustment.
 - **(d)** This part shall not apply to any tax imposed by subtitle C (sec. 3101 and following relating to employment taxes).
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 340; [Pub. L. 85–866, title I, § 59(b)](https://www.govinfo.gov/link/plaw/85/public/866), Sept. 2, 1958, [72 Stat. 1647](https://www.govinfo.gov/link/statute/72/1647); [Pub. L. 89–44, title VIII, § 809(d)(5)(B)](https://www.govinfo.gov/link/plaw/89/public/44), June 21, 1965, [79 Stat. 168](https://www.govinfo.gov/link/statute/79/168); [Pub. L. 91–172, title V, § 512(f)(7)](https://www.govinfo.gov/link/plaw/91/public/172), (8), Dec. 30, 1969, [83 Stat. 641](https://www.govinfo.gov/link/statute/83/641), 642; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 113–295, div. A, title II, § 221(a)(87)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4050](https://www.govinfo.gov/link/statute/128/4050).)*

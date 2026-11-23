@@ -3,9 +3,10 @@ title: "Section 313 - Bilateral or regional cooperation programs: awards and mem
 usc_title: 10
 usc_section: "313"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 313"
-generated_at: "2026-03-30T02:53:38.052Z"
+generated_at: "2026-11-23T20:25:50.908Z"
+status: "active"
 ---
 
 # § 313. Bilateral or regional cooperation programs: awards and mementos to recognize superior noncombat achievements or performance
@@ -17,3 +18,13 @@ generated_at: "2026-03-30T02:53:38.052Z"
   - **(3)** helps to deter aggression and coercion, build coalitions, and promote regional stability; or
   - **(4)** serves as a role model for appropriate conduct by military forces in emerging democracies.
 - **(c)** Expenditures for the purchase or production of mementos for award under this section may not exceed the minimal value in effect under section 7342(a)(5) of title 5 .
+
+General Authority
+
+Activities That May Be Recognized
+
+Limitation
+
+## Source Credit
+
+*(Added [Pub. L. 108–136, div. A, title XII, § 1222(a)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1652](https://www.govinfo.gov/link/statute/117/1652), § 1051b; renumbered § 313, [Pub. L. 114–328, div. A, title XII, § 1241(b)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2500](https://www.govinfo.gov/link/statute/130/2500).)*

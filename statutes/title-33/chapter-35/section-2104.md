@@ -3,9 +3,10 @@ title: "Section 2104 - Permits for construction and management of artificial ree
 usc_title: 33
 usc_section: "2104"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2104"
-generated_at: "2026-03-30T02:55:41.112Z"
+generated_at: "2026-11-23T20:26:54.114Z"
+status: "active"
 ---
 
 # § 2104. Permits for construction and management of artificial reefs
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:41.112Z"
   - **(4)** Any person who has transferred title to artificial reef construction materials to a person to whom a permit is issued in accordance with subsection (a) shall not be liable for damages arising from the use of such materials in an artificial reef, if such materials meet applicable requirements of the plan published under section 2103 of this title and are not otherwise defective at the time title is transferred.
 - **(d)** Nothing in this chapter creates any liability on the part of the United States.
 - **(e)** Any person who, after notice and an opportunity for a hearing, is found to have violated any provision of a permit issued in accordance with subsection (a) shall be liable to the United States for a civil penalty, not to exceed $10,000 for each violation. The amount of the civil penalty shall be assessed by the Secretary by written notice. In determining the amount of such penalty, the Secretary shall take into account the nature, circumstances, extent, and gravity of the violation. The Secretary may compromise, modify, or remit with or without conditions, any civil penalty which is subject to imposition or which has been imposed under this section. If any person fails to pay an assessment of a civil penalty after it has become final, the Secretary may refer the matter to the Attorney General for collection.
+
+## Source Credit
+
+*([Pub. L. 98–623, title II, § 205](https://www.govinfo.gov/link/plaw/98/public/623), Nov. 8, 1984, [98 Stat. 3396](https://www.govinfo.gov/link/statute/98/3396).)*

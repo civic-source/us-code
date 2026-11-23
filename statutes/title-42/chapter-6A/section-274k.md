@@ -3,9 +3,10 @@ title: "Section 274k - National Program"
 usc_title: 42
 usc_section: "274k"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 274k"
-generated_at: "2026-03-30T02:56:10.725Z"
+generated_at: "2026-11-23T20:27:20.139Z"
+status: "active"
 ---
 
 # § 274k. National Program
@@ -136,3 +137,37 @@ generated_at: "2026-03-30T02:56:10.725Z"
   - **(2)** Not later than June 30, 2025 , the Secretary shall—
     - **(A)** complete the second review required by paragraph (1); and
     - **(B)** informed by such review, submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives recommendations on the appropriateness of the inclusion of new types of therapies in the Program.
+
+In General
+
+Continued Effect
+
+Proceedings
+
+In General
+
+Requirements
+
+Application
+
+Duration of Contracts.—
+
+In general
+
+Extensions
+
+Extension eligibility
+
+Consideration of best science
+
+Consideration of banked units of cord blood
+
+Regulations
+
+Definitions
+
+Authorization of Appropriations
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 379, as added [Pub. L. 101–616, title I, § 101(a)(2)](https://www.govinfo.gov/link/plaw/101/public/616), Nov. 16, 1990, [104 Stat. 3279](https://www.govinfo.gov/link/statute/104/3279); amended [Pub. L. 105–196, § 2(a)](https://www.govinfo.gov/link/plaw/105/public/196), (b)(1), (c)–(g), July 16, 1998, [112 Stat. 631–635](https://www.govinfo.gov/link/statute/112/631); [Pub. L. 109–129, § 3(a)](https://www.govinfo.gov/link/plaw/109/public/129), Dec. 20, 2005, [119 Stat. 2553](https://www.govinfo.gov/link/statute/119/2553); [Pub. L. 111–264, § 2(b)](https://www.govinfo.gov/link/plaw/111/public/264), Oct. 8, 2010, [124 Stat. 2791](https://www.govinfo.gov/link/statute/124/2791); [Pub. L. 114–104, § 2(a)](https://www.govinfo.gov/link/plaw/114/public/104), Dec. 18, 2015, [129 Stat. 2216](https://www.govinfo.gov/link/statute/129/2216); [Pub. L. 117–15, § 2(a)](https://www.govinfo.gov/link/plaw/117/public/15) –(c), May 26, 2021, [135 Stat. 277](https://www.govinfo.gov/link/statute/135/277).)*

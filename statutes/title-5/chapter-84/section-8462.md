@@ -3,9 +3,10 @@ title: "Section 8462 - Cost-of-living adjustments"
 usc_title: 5
 usc_section: "8462"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8462"
-generated_at: "2026-03-30T02:52:56.061Z"
+generated_at: "2026-11-23T20:25:32.223Z"
+status: "active"
 ---
 
 # § 8462. Cost-of-living adjustments
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:52:56.061Z"
       - **(ii)** if the annuity of the annuitant (referred to in clause (i)) has not been increased under this section, the commencement date of such annuitant’s annuity (determined subject to section 8452(a)(1)(B)).
 - **(d)** The monthly installment of an annuity after adjustment under this section shall be rounded to the next lowest dollar. However, the monthly installment shall, after adjustment, reflect an increase of at least $1.
 - **(e)** The $15,000 amount referred to in section 8442(b)(1)(A)(ii) shall be increased at the same time that, and by the same percent as the percentage by which, annuities under subchapter III of chapter 83 are increased.
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 572](https://www.govinfo.gov/link/statute/100/572); amended [Pub. L. 99–556, title I, § 117(b)](https://www.govinfo.gov/link/plaw/99/public/556), Oct. 27, 1986, [100 Stat. 3134](https://www.govinfo.gov/link/statute/100/3134); [Pub. L. 117–225, § 3(b)(2)(A)(vi)](https://www.govinfo.gov/link/plaw/117/public/225), Dec. 9, 2022, [136 Stat. 2296](https://www.govinfo.gov/link/statute/136/2296).)*

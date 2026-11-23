@@ -3,9 +3,10 @@ title: "Section 6622 - Certification of telecommunications equipment and service
 usc_title: 2
 usc_section: "6622"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 6622"
-generated_at: "2026-03-30T02:53:04.843Z"
+generated_at: "2026-11-23T20:25:29.082Z"
+status: "active"
 ---
 
 # § 6622. Certification of telecommunications equipment and services as official
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:04.843Z"
 - **(c)** Subject to the approval of the Committee on Rules and Administration, the Sergeant at Arms may establish reasonable charges for telephone equipment and services provided to any user which may be in addition to that regularly authorized by the Committee.
 - **(d)** All moneys, derived from payments for telephone equipment and services provided from funds from the Appropriation Account within the contingent fund of the Senate for “Contingent Expenses, Sergeant at Arms and Doorkeeper of the Senate” under the line item for Telecommunications (including receipts from carriers and others for loss or damage to such services or equipment for which repair or replacement has been provided by the Sergeant at Arms), and all other moneys received by the Sergeant at Arms as charges or commissions for telephone services, shall be deposited in and made a part of such Appropriation Account and under such line item, and shall be available for expenditure or obligation, or both, in like manner and subject to the same limitations as any other moneys in such account and under such line item.
 - **(e)** Nothing in sections 6621 to 6623 of this title shall be construed as limiting or otherwise affecting the authority of the Committee on Rules and Administration of the Senate to classify or reclassify telephone equipment and services provided to any user as equipment or services for which reimbursement may or may not be required.
+
+## Source Credit
+
+*([Pub. L. 100–123, § 2](https://www.govinfo.gov/link/plaw/100/public/123), Oct. 5, 1987, [101 Stat. 794](https://www.govinfo.gov/link/statute/101/794); [Pub. L. 101–163, title I, § 3](https://www.govinfo.gov/link/plaw/101/public/163), Nov. 21, 1989, [103 Stat. 1044](https://www.govinfo.gov/link/statute/103/1044).)*

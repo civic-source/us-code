@@ -3,9 +3,10 @@ title: "Section 9601 - Definitions"
 usc_title: 22
 usc_section: "9601"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9601"
-generated_at: "2026-03-30T02:55:05.468Z"
+generated_at: "2026-11-23T20:26:32.783Z"
+status: "active"
 ---
 
 # § 9601. Definitions
@@ -35,3 +36,7 @@ In this chapter:
   - **(8)** The term “wealthy country”, with respect to a fiscal year for the Corporation—
     - **(A)** means a country that is among the top 20 countries with the highest gross domestic product per capita at purchasing power parity, as calculated by the World Bank; and
     - **(B)** does not include members of the ‘Five Eyes’ alliance or the overseas territories of the 20 countries referred to in subparagraph (A).
+
+## Source Credit
+
+*([Pub. L. 115–254, div. F, § 1402](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3485](https://www.govinfo.gov/link/statute/132/3485); [Pub. L. 119–60, div. H, title LXXXVII, § 8711](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1946](https://www.govinfo.gov/link/statute/139/1946).)*

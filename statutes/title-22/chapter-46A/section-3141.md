@@ -3,9 +3,10 @@ title: "Section 3141 - Congressional findings"
 usc_title: 22
 usc_section: "3141"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3141"
-generated_at: "2026-03-30T02:55:05.390Z"
+generated_at: "2026-11-23T20:26:32.443Z"
+status: "active"
 ---
 
 # § 3141. Congressional findings
@@ -18,3 +19,7 @@ The Congress makes the following findings:
   - **(4)** Statistical and analytic comparisons of the performance of foreign owned or controlled businesses operating within the United States with other business enterprises operating within the same industry can be accomplished under sections 3101(b) and 3104(c) of this title, and under Executive Order Numbered 11961, without the need to collect additional information, by sharing with other authorized Government agencies the employer identification numbers maintained by the Bureau of Economic Analysis.
   - **(5)** Public disclosures of confidential business information collected by the United States Government relating to international direct investment flows could cause serious damage to the accuracy of the statistical data base.
   - **(6)** The Government Accountability Office may have limited access to Government data on foreign direct investment.
+
+## Source Credit
+
+*([Pub. L. 101–533, § 2](https://www.govinfo.gov/link/plaw/101/public/533), Nov. 7, 1990, [104 Stat. 2344](https://www.govinfo.gov/link/statute/104/2344); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814).)*

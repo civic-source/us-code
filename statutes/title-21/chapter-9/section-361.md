@@ -3,9 +3,10 @@ title: "Section 361 - Adulterated cosmetics"
 usc_title: 21
 usc_section: "361"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 361"
-generated_at: "2026-03-30T02:54:54.262Z"
+generated_at: "2026-11-23T20:26:27.699Z"
+status: "active"
 ---
 
 # § 361. Adulterated cosmetics
@@ -19,3 +20,7 @@ A cosmetic shall be deemed to be adulterated—
 - **(e)** If it is not a hair dye and it is, or it bears or contains, a color additive which is unsafe within the meaning of section 379e(a) of this title .
 - **(f)** If it has been manufactured or processed under conditions that do not meet the good manufacturing practice requirements of section 364b of this title .
 - **(g)** If it is a cosmetic product, and the cosmetic product, including each ingredient in the cosmetic product, does not have adequate substantiation for 1 1 So in original. Probably should be “of”. safety, as defined in section 364d(c) of this title .
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 601, [52 Stat. 1054](https://www.govinfo.gov/link/statute/52/1054); [Pub. L. 86–618, title I, § 102(c)(1)](https://www.govinfo.gov/link/plaw/86/public/618), July 12, 1960, [74 Stat. 398](https://www.govinfo.gov/link/statute/74/398); [Pub. L. 102–571, title I, § 107(11)](https://www.govinfo.gov/link/plaw/102/public/571), Oct. 29, 1992, [106 Stat. 4499](https://www.govinfo.gov/link/statute/106/4499); [Pub. L. 103–80, § 3(x)](https://www.govinfo.gov/link/plaw/103/public/80), Aug. 13, 1993, [107 Stat. 778](https://www.govinfo.gov/link/statute/107/778); [Pub. L. 117–328, div. FF, title III, § 3503(a)(2)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5858](https://www.govinfo.gov/link/statute/136/5858).)*

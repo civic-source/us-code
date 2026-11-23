@@ -3,9 +3,10 @@ title: "Section 1689 - Task Force on Sexual Violence in Education"
 usc_title: 20
 usc_section: "1689"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1689"
-generated_at: "2026-03-30T02:54:48.169Z"
+generated_at: "2026-11-23T20:26:14.671Z"
+status: "active"
 ---
 
 # § 1689. Task Force on Sexual Violence in Education
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:54:48.169Z"
   - **(1)** The term “educational institution” includes an institution of higher education, an elementary school, or a secondary school.
   - **(2)** The terms “elementary school” and “secondary school” have the meanings given the terms in section 7801 of this title .
   - **(3)** The term “institution of higher education” has the meaning given the term in section 1002 of this title .
+
+## Source Credit
+
+*([Pub. L. 117–103, div. W, title XIII, § 1314](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 936](https://www.govinfo.gov/link/statute/136/936).)*

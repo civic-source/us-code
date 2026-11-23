@@ -3,9 +3,10 @@ title: "Section 16315 - Electricity Storage Research Initiative"
 usc_title: 42
 usc_section: "16315"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16315"
-generated_at: "2026-03-30T02:56:11.482Z"
+generated_at: "2026-11-23T20:27:23.666Z"
+status: "active"
 ---
 
 # § 16315. Electricity Storage Research Initiative
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:56:11.482Z"
     - **(B)** the Assistant Secretary for Energy Efficiency and Renewable Energy shall support translational research, development, and validation of physical concepts developed under the program.
   - **(3)** The Secretary shall review activities carried out under the program described in paragraph (1) to determine the achievement of technical milestones.
   - **(4)** Of the funds authorized to be appropriated for basic energy sciences in a fiscal year, there is authorized to be appropriated to the Secretary to carry out activities under this subsection $20,000,000 for each of fiscal years 2023 through 2027.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 975](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 903](https://www.govinfo.gov/link/statute/119/903); [Pub. L. 115–246, title III, § 303(g)(1)](https://www.govinfo.gov/link/plaw/115/public/246), formerly § 303(e)(1), Sept. 28, 2018, [132 Stat. 3143](https://www.govinfo.gov/link/statute/132/3143), renumbered § 303(g)(1), [Pub. L. 117–167, div. B, title I, § 10102(a)(1)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1409](https://www.govinfo.gov/link/statute/136/1409); [Pub. L. 117–167, div. B, title I, § 10102(c)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1415](https://www.govinfo.gov/link/statute/136/1415).)*

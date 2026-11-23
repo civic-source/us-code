@@ -3,9 +3,10 @@ title: "Section 19014 - Expanding geographic and institutional diversity in rese
 usc_title: 42
 usc_section: "19014"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 19014"
-generated_at: "2026-03-30T02:56:11.537Z"
+generated_at: "2026-11-23T20:27:23.847Z"
+status: "active"
 ---
 
 # § 19014. Expanding geographic and institutional diversity in research
@@ -88,3 +89,7 @@ generated_at: "2026-03-30T02:56:11.537Z"
   - **(4)** The Director shall submit a report to Congress after the third year of the pilot program that includes—
     - **(A)** an assessment, drawing on feedback from the research community and other sources of information, of the effectiveness of the pilot program for improving the quality of partnerships with emerging research institutions; and
     - **(B)** if deemed effective, a plan for permanent implementation of the pilot program.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10325](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1539](https://www.govinfo.gov/link/statute/136/1539).)*

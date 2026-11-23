@@ -3,9 +3,10 @@ title: "Section 1738o - Sale of qualified debt to eligible countries"
 usc_title: 7
 usc_section: "1738o"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1738o"
-generated_at: "2026-03-30T02:53:42.341Z"
+generated_at: "2026-11-23T20:25:41.299Z"
+status: "active"
 ---
 
 # § 1738o. Sale of qualified debt to eligible countries
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:42.341Z"
 - **(e)** A sale of debt authorized under this section shall be accomplished at the direction of the Facility. The Facility shall direct the Commodity Credit Corporation to carry out such sale. The Commodity Credit Corporation shall make an adjustment in its accounts to reflect the sale.
 - **(f)** The proceeds from a sale of qualified debt under this section shall be deposited in the account or accounts established by the Commodity Credit Corporation for the repayment of such debt by the eligible country.
 - **(g)** Before any sale of qualified debt may occur under this section, the President should consult with the eligible country’s government concerning such sale. The topics addressed in the consultation shall include the amount of qualified debt involved in the transaction and the uses to which funds made available as a result of the sale shall be applied.
+
+## Source Credit
+
+*(July 10, 1954, ch. 469, title VI, § 616, as added [Pub. L. 102–532, § 2](https://www.govinfo.gov/link/plaw/102/public/532), Oct. 27, 1992, [106 Stat. 3509](https://www.govinfo.gov/link/statute/106/3509).)*

@@ -3,9 +3,10 @@ title: "Section 18011 - Preservation of right to maintain existing coverage"
 usc_title: 42
 usc_section: "18011"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18011"
-generated_at: "2026-03-30T02:56:11.511Z"
+generated_at: "2026-11-23T20:27:23.771Z"
+status: "active"
 ---
 
 # § 18011. Preservation of right to maintain existing coverage
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:11.511Z"
 - **(c)** A group health plan that provides coverage on March 23, 2010 , may provide for the enrolling of new employees (and their families) in such plan, and this subtitle and subtitle A (and the amendments made by such subtitles) shall not apply with respect to such plan and such new employees (and their families).
 - **(d)** In the case of health insurance coverage maintained pursuant to one or more collective bargaining agreements between employee representatives and one or more employers that was ratified before March 23, 2010 , the provisions of this subtitle and subtitle A (and the amendments made by such subtitles) shall not apply until the date on which the last of the collective bargaining agreements relating to the coverage terminates. Any coverage amendment made pursuant to a collective bargaining agreement relating to the coverage which amends the coverage solely to conform to any requirement added by this subtitle or subtitle A (or amendments) shall not be treated as a termination of such collective bargaining agreement.
 - **(e)** In this title, 1 the term “grandfathered health plan” means any group health plan or health insurance coverage to which this section applies.
+
+## Source Credit
+
+*([Pub. L. 111–148, title I, § 1251](https://www.govinfo.gov/link/plaw/111/public/148), title X, § 10103(d), Mar. 23, 2010, [124 Stat. 161](https://www.govinfo.gov/link/statute/124/161), 895; [Pub. L. 111–152, title II, § 2301(a)](https://www.govinfo.gov/link/plaw/111/public/152), Mar. 30, 2010, [124 Stat. 1081](https://www.govinfo.gov/link/statute/124/1081); [Pub. L. 116–260, div. BB, title I, § 102(d)(2)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2797](https://www.govinfo.gov/link/statute/134/2797).)*

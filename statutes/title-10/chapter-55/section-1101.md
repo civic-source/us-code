@@ -3,9 +3,10 @@ title: "Section 1101 - Resource allocation methods: capitation or diagnosis-rela
 usc_title: 10
 usc_section: "1101"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1101"
-generated_at: "2026-03-30T02:53:38.108Z"
+generated_at: "2026-11-23T20:25:51.243Z"
+status: "active"
 ---
 
 # § 1101. Resource allocation methods: capitation or diagnosis-related groups
@@ -17,3 +18,15 @@ generated_at: "2026-03-30T02:53:38.108Z"
   - **(2)** A methodology for classifying specific treatments within such groups.
   - **(3)** An appropriate weighting factor for each such diagnosis-related group which reflects the relative resources used by a facility of a uniformed service with respect to treatments classified within that group compared to treatments classified within other groups.
   - **(4)** An appropriate method for calculating or estimating the annual per capita costs of providing comprehensive health care services to members of the uniformed services on active duty and covered beneficiaries.
+
+Establishment of Capitation or DRG Method
+
+Exception for Mobilization Missions
+
+Content of Regulations
+
+“The Secretary of Defense shall prescribe regulations as required by section 1101(a) of such title (as added by subsection (a)(1)) to take effect—
+
+## Source Credit
+
+*(Added [Pub. L. 99–661, div. A, title VII, § 701(a)(1)](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 3897](https://www.govinfo.gov/link/statute/100/3897); amended [Pub. L. 100–456, div. A, title XII, § 1233(e)(1)](https://www.govinfo.gov/link/plaw/100/public/456), Sept. 29, 1988, [102 Stat. 2057](https://www.govinfo.gov/link/statute/102/2057); [Pub. L. 103–160, div. A, title VII, § 714(a)](https://www.govinfo.gov/link/plaw/103/public/160), (b)(1), Nov. 30, 1993, [107 Stat. 1690](https://www.govinfo.gov/link/statute/107/1690).)*

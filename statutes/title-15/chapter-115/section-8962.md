@@ -3,9 +3,10 @@ title: "Section 8962 - PFAS research and development"
 usc_title: 15
 usc_section: "8962"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 8962"
-generated_at: "2026-03-30T02:54:08.236Z"
+generated_at: "2026-11-23T20:26:04.513Z"
+status: "active"
 ---
 
 # § 8962. PFAS research and development
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:08.236Z"
   - **(4)** evaluate approaches for the remediation of contamination by perfluoroalkyl and polyfluoroalkyl substances in the environment; and
   - **(5)** develop and implement new tools and materials to communicate with the public about perfluoroalkyl and polyfluoroalkyl substances.
 - **(b)** There is authorized to be appropriated to the Administrator to carry out this section $15,000,000 for each of fiscal years 2020 through 2024.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. F, title LXXIII, § 7362](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2290](https://www.govinfo.gov/link/statute/133/2290).)*

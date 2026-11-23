@@ -3,9 +3,10 @@ title: "Section 1490r - Rural housing voucher program"
 usc_title: 42
 usc_section: "1490r"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1490r"
-generated_at: "2026-03-30T02:56:11.099Z"
+generated_at: "2026-11-23T20:27:21.806Z"
+status: "active"
 ---
 
 # § 1490r. Rural housing voucher program
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.099Z"
 - **(b)** In carrying out the rural housing voucher program under this section, the Secretary shall—
   - **(1)** coordinate activities under this section with activities assisted under sections 1485 and 1490m of this title; and
   - **(2)** enter into contracts for assistance for not more than 5000 units in any fiscal year.
+
+## Source Credit
+
+*(July 15, 1949, ch. 338, title V, § 542, as added [Pub. L. 102–550, title VII, § 706(2)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3835](https://www.govinfo.gov/link/statute/106/3835).)*

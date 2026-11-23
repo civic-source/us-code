@@ -3,9 +3,10 @@ title: "Section 7934 - Accountability to taxpayers through monitoring and oversi
 usc_title: 20
 usc_section: "7934"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 7934"
-generated_at: "2026-03-30T02:54:48.222Z"
+generated_at: "2026-11-23T20:26:14.958Z"
+status: "active"
 ---
 
 # § 7934. Accountability to taxpayers through monitoring and oversight
@@ -20,3 +21,7 @@ To improve monitoring and oversight of taxpayer funds authorized for appropriati
     - **(B)** to issue guidance to help grantees address such issues before the loss or misuse of taxpayer funding occurs;
   - **(3)** publicly report the work undertaken by the Secretary to prevent fraud, waste, and abuse with respect to such taxpayer funds; and
   - **(4)** work with the Office of Inspector General of the Department of Education, as needed, to help ensure that employees of the Department understand how to adequately monitor grantees and to help grantees adequately monitor any subgrantees.
+
+## Source Credit
+
+*([Pub. L. 114–95, title IX, § 9204](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2138](https://www.govinfo.gov/link/statute/129/2138).)*

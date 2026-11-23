@@ -3,9 +3,10 @@ title: "Section 290ii - Requirement relating to the rights of residents of certa
 usc_title: 42
 usc_section: "290ii"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 290ii"
-generated_at: "2026-03-30T02:56:10.770Z"
+generated_at: "2026-11-23T20:27:20.347Z"
+status: "active"
 ---
 
 # § 290ii. Requirement relating to the rights of residents of certain facilities
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:10.770Z"
   - **(2)** The term “seclusion” means a behavior control technique involving locked isolation. Such term does not include a time out.
   - **(3)** The term “physical escort” means the temporary touching or holding of the hand, wrist, arm, shoulder or back for the purpose of inducing a resident who is acting out to walk to a safe location.
   - **(4)** The term “time out” means a behavior management technique that is part of an approved treatment program and may involve the separation of the resident from the group, in a non-locked setting, for the purpose of calming. Time out is not seclusion.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title V, § 591, as added [Pub. L. 106–310, div. B, title XXXII, § 3207](https://www.govinfo.gov/link/plaw/106/public/310), Oct. 17, 2000, [114 Stat. 1195](https://www.govinfo.gov/link/statute/114/1195).)*

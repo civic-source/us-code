@@ -3,9 +3,10 @@ title: "Section 6 - Domestic food assistance programs"
 usc_title: 7
 usc_section: "6"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6"
-generated_at: "2026-03-30T02:53:42.292Z"
+generated_at: "2026-11-23T20:25:41.070Z"
+status: "active"
 ---
 
 # § 612c–6. Domestic food assistance programs
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:53:42.292Z"
   - **(1)** the Richard B. Russell National School Lunch Act ( 42 U.S.C. 1751 et seq.), except for section 19 of that Act [ 42 U.S.C. 1769a ];
   - **(2)** the Emergency Food Assistance Act of 1983 ( 7 U.S.C. 7501 et seq.); and
   - **(3)** section 2036 2 2 See References in Text note below. of this title.
+
+## Source Credit
+
+*([Pub. L. 110–234, title XIV, § 14222](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1483](https://www.govinfo.gov/link/statute/122/1483); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIV, § 14222, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2245; [Pub. L. 112–55, div. A, title IV](https://www.govinfo.gov/link/plaw/112/public/55), Nov. 18, 2011, [125 Stat. 574](https://www.govinfo.gov/link/statute/125/574).)*

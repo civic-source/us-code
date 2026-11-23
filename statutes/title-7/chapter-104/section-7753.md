@@ -3,9 +3,10 @@ title: "Section 7753 - Reimbursable agreements"
 usc_title: 7
 usc_section: "7753"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7753"
-generated_at: "2026-03-30T02:53:42.462Z"
+generated_at: "2026-11-23T20:25:41.834Z"
+status: "active"
 ---
 
 # § 7753. Reimbursable agreements
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:42.462Z"
 - **(d)**
   - **(1)** Upon failure to reimburse the Secretary in accordance with this section, the Secretary may assess a late payment penalty, and the overdue funds shall accrue interest, as required by section 3717 of title 31 .
   - **(2)** Any late payment penalty and any accrued interest shall be credited to the account that incurs the costs and shall remain available until expended without fiscal year limitation.
+
+## Source Credit
+
+*([Pub. L. 106–224, title IV, § 433](https://www.govinfo.gov/link/plaw/106/public/224), June 20, 2000, [114 Stat. 452](https://www.govinfo.gov/link/statute/114/452).)*

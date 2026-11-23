@@ -3,9 +3,10 @@ title: "Section 4816 - National technology and industrial base: periodic defense
 usc_title: 10
 usc_section: "4816"
 chapter: 382
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 4816"
-generated_at: "2026-03-30T02:53:38.211Z"
+generated_at: "2026-11-23T20:25:51.974Z"
+status: "active"
 ---
 
 # § 4816. National technology and industrial base: periodic defense capability assessments
@@ -26,3 +27,27 @@ generated_at: "2026-03-30T02:53:38.211Z"
   - **(2)** describe the harm resulting from such boycott; and
   - **(3)** identify actions necessary to minimize the effects of such boycott on the national technology and industrial base.
 - **(e)** The Secretary of Defense shall ensure that consideration of the technology and industrial base assessments is integrated into the overall budget, acquisition, and logistics support decision processes of the Department of Defense.
+
+Periodic Assessment
+
+Assessment Process
+
+Assessment of Extent of Dependency on Foreign Source Items
+
+Assessment of Extent of Effects of Foreign Boycotts
+
+Integrated Process
+
+Pilot Program Required
+
+Authorities
+
+Activities
+
+Termination
+
+Briefing Required
+
+## Source Credit
+
+*(Added [Pub. L. 102–484, div. D, title XLII, § 4215](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2667](https://www.govinfo.gov/link/statute/106/2667), § 2505; amended [Pub. L. 103–35, title II, § 201(g)(7)](https://www.govinfo.gov/link/plaw/103/public/35), May 31, 1993, [107 Stat. 100](https://www.govinfo.gov/link/statute/107/100); [Pub. L. 104–201, div. A, title VIII, § 829(c)(1)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2612](https://www.govinfo.gov/link/statute/110/2612); [Pub. L. 111–23, title III, § 303(b)](https://www.govinfo.gov/link/plaw/111/public/23), May 22, 2009, [123 Stat. 1731](https://www.govinfo.gov/link/statute/123/1731); [Pub. L. 111–383, div. A, title VIII, § 895(c)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4314](https://www.govinfo.gov/link/statute/124/4314); [Pub. L. 112–239, div. A, title XVI, § 1602](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2062](https://www.govinfo.gov/link/statute/126/2062); [Pub. L. 114–92, div. A, title VIII, § 876](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 941](https://www.govinfo.gov/link/statute/129/941); renumbered § 4816 and amended [Pub. L. 116–283, div. A, title XVIII](https://www.govinfo.gov/link/plaw/116/public/283), §§ 1867(b), (d)(4), 1883(b)(2), Jan. 1, 2021, [134 Stat. 4281](https://www.govinfo.gov/link/statute/134/4281), 4282, 4294; [Pub. L. 118–159, div. A, title XVII, § 1701(a)(41)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2206](https://www.govinfo.gov/link/statute/138/2206); [Pub. L. 119–60, div. A, title XVII, § 1701(a)(30)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1209](https://www.govinfo.gov/link/statute/139/1209).)*

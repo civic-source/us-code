@@ -3,9 +3,10 @@ title: "Section 6264 - Programs for persons who may have been exposed to radiati
 usc_title: 10
 usc_section: "6264"
 chapter: 606
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6264"
-generated_at: "2026-03-30T02:53:38.225Z"
+generated_at: "2026-11-23T20:25:52.026Z"
+status: "active"
 ---
 
 # § 6264. Programs for persons who may have been exposed to radiation released from Hanford Nuclear Reservation
@@ -36,3 +37,15 @@ generated_at: "2026-03-30T02:53:38.225Z"
     - **(B)** The use of the Hanford Health Information Network database.
     - **(C)** The future disposition of the database.
     - **(D)** Enforcement of the prohibition provided in paragraph (1) on the disclosure of information described in that paragraph.
+
+Funding
+
+Programs
+
+Plan and Reports
+
+Prohibition on Disclosure of Exposure Information
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2)(B), Dec. 18, 2025, [139 Stat. 1422](https://www.govinfo.gov/link/statute/139/1422), 1462.)*

@@ -3,9 +3,10 @@ title: "Section 2148 - Importation of live dogs"
 usc_title: 7
 usc_section: "2148"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2148"
-generated_at: "2026-03-30T02:53:42.378Z"
+generated_at: "2026-11-23T20:25:41.487Z"
+status: "active"
 ---
 
 # § 2148. Importation of live dogs
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:42.378Z"
 - **(d)** An importer that fails to comply with this section shall—
   - **(1)** be subject to penalties under section 2149 of this title ; and
   - **(2)** provide for the care (including appropriate veterinary care), forfeiture, and adoption of each applicable dog, at the expense of the importer.
+
+## Source Credit
+
+*([Pub. L. 89–544, § 18](https://www.govinfo.gov/link/plaw/89/public/544), as added [Pub. L. 110–234, title XIV, § 14210(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1464](https://www.govinfo.gov/link/statute/122/1464), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIV, § 14210(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2226.)*

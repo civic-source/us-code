@@ -3,9 +3,10 @@ title: "Section 5614 - Forest land management and surface leasing activities"
 usc_title: 25
 usc_section: "5614"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 5614"
-generated_at: "2026-03-30T02:54:52.873Z"
+generated_at: "2026-11-23T20:26:25.759Z"
+status: "active"
 ---
 
 # § 5614. Forest land management and surface leasing activities
@@ -51,3 +52,11 @@ generated_at: "2026-03-30T02:54:52.873Z"
     - **(C)** prior to the exercise of any remedy, the rescission of the approval of the regulation involved, or the reassumption of the trust asset transaction approval responsibilities, provide to the applicable Indian tribe—
       - **(i)** a hearing on the record; and
       - **(ii)** a reasonable opportunity to cure the alleged violation.
+
+(aa) the public is informed of, and has a reasonable opportunity to comment on, any significant environmental impacts of the proposed forest land management activity identified by the Indian tribe; and
+
+(bb) the Indian tribe provides responses to relevant and substantive public comments on any such impacts before the Indian tribe approves the forest land management activity.
+
+## Source Credit
+
+*([Pub. L. 114–178, title II, § 205](https://www.govinfo.gov/link/plaw/114/public/178), June 22, 2016, [130 Stat. 436](https://www.govinfo.gov/link/statute/130/436).)*

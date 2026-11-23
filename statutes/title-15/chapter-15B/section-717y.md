@@ -3,9 +3,10 @@ title: "Section 717y - Voluntary conversion of natural gas users to heavy fuel o
 usc_title: 15
 usc_section: "717y"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 717y"
-generated_at: "2026-03-30T02:54:08.119Z"
+generated_at: "2026-11-23T20:26:03.908Z"
+status: "active"
 ---
 
 # § 717y. Voluntary conversion of natural gas users to heavy fuel oil
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:54:08.119Z"
   - **(1)** the volume determined by reference to the maximum delivery obligations specified in such contract;
   - **(2)** the volume which such supplier would have been required to supply, under the curtailment plan in effect for such supplier, to the person, who transferred contractual interests pursuant to the rule required under subsection (a)(1), if no such transfer had occurred; and
   - **(3)** the volume actually delivered or for which payment would have been made pursuant to such contract during the 12-calendar-month period ending immediately before such transfer of contractual interests.
+
+## Source Credit
+
+*([Pub. L. 95–617, title VI, § 606](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3167](https://www.govinfo.gov/link/statute/92/3167).)*

@@ -3,9 +3,10 @@ title: "Section 280A - Disallowance of certain expenses in connection with busin
 usc_title: 26
 usc_section: "280A"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 280A"
-generated_at: "2026-03-30T02:55:27.660Z"
+generated_at: "2026-11-23T20:26:45.547Z"
+status: "active"
 ---
 
 # § 280A. Disallowance of certain expenses in connection with business use of home, rental of vacation homes, etc.
@@ -71,3 +72,7 @@ generated_at: "2026-03-30T02:55:27.660Z"
 - **(g)** Notwithstanding any other provision of this section or section 183, if a dwelling unit is used during the taxable year by the taxpayer as a residence and such dwelling unit is actually rented for less than 15 days during the taxable year, then—
   - **(1)** no deduction otherwise allowable under this chapter because of the rental use of such dwelling unit shall be allowed, and
   - **(2)** the income derived from such use for the taxable year shall not be included in the gross income of such taxpayer under section 61.
+
+## Source Credit
+
+*(Added [Pub. L. 94–455, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1569](https://www.govinfo.gov/link/statute/90/1569); amended [Pub. L. 95–30, title III, § 306(a)](https://www.govinfo.gov/link/plaw/95/public/30), (b), May 23, 1977, [91 Stat. 152](https://www.govinfo.gov/link/statute/91/152), 153; [Pub. L. 95–600, title VII, § 701(h)(1)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2904](https://www.govinfo.gov/link/statute/92/2904); [Pub. L. 97–119, title I, § 113(a)](https://www.govinfo.gov/link/plaw/97/public/119) –(d), Dec. 29, 1981, [95 Stat. 1641](https://www.govinfo.gov/link/statute/95/1641), 1642; [Pub. L. 97–216, title II, § 215(b)](https://www.govinfo.gov/link/plaw/97/public/216), July 18, 1982, [96 Stat. 194](https://www.govinfo.gov/link/statute/96/194); [Pub. L. 97–354, § 5(a)(26)](https://www.govinfo.gov/link/plaw/97/public/354), Oct. 19, 1982, [96 Stat. 1694](https://www.govinfo.gov/link/statute/96/1694); [Pub. L. 99–514, title I, § 143(b)](https://www.govinfo.gov/link/plaw/99/public/514), (c), Oct. 22, 1986, [100 Stat. 2120](https://www.govinfo.gov/link/statute/100/2120); [Pub. L. 100–647, title I, § 1001(h)(1)](https://www.govinfo.gov/link/plaw/100/public/647), (2), Nov. 10, 1988, [102 Stat. 3352](https://www.govinfo.gov/link/statute/102/3352); [Pub. L. 104–188, title I](https://www.govinfo.gov/link/plaw/104/public/188), §§ 1113(a), 1704(t)(39), Aug. 20, 1996, [110 Stat. 1759](https://www.govinfo.gov/link/statute/110/1759), 1889; [Pub. L. 105–34, title III, § 312(d)(1)](https://www.govinfo.gov/link/plaw/105/public/34), title IX, § 932(a), Aug. 5, 1997, [111 Stat. 839](https://www.govinfo.gov/link/statute/111/839), 881.)*

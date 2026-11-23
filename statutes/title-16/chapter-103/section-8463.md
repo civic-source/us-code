@@ -3,9 +3,10 @@ title: "Section 8463 - Pay-for-performance projects"
 usc_title: 16
 usc_section: "8463"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 8463"
-generated_at: "2026-03-30T02:54:23.085Z"
+generated_at: "2026-11-23T20:26:20.888Z"
+status: "active"
 ---
 
 # § 8463. Pay-for-performance projects
@@ -99,3 +100,7 @@ generated_at: "2026-03-30T02:54:23.085Z"
 - **(h)**
   - **(1)** The authority to enter into a pay-for-performance agreement under this section terminates on the date that is 7 years after January 4, 2025 .
   - **(2)** Nothing in paragraph (1) affects any pay-for-performance project agreement entered into by the Secretary of Agriculture under this section before the date described in that paragraph.
+
+## Source Credit
+
+*([Pub. L. 118–234, title I, § 155](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2871](https://www.govinfo.gov/link/statute/138/2871).)*

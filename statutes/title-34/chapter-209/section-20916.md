@@ -3,9 +3,10 @@ title: "Section 20916 - Direction to the Attorney General"
 usc_title: 34
 usc_section: "20916"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 20916"
-generated_at: "2026-03-30T02:55:33.300Z"
+generated_at: "2026-11-23T20:26:50.607Z"
+status: "active"
 ---
 
 # § 20916. Direction to the Attorney General
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:33.300Z"
     - **(B)** includes any contractors or agents used by the website to act on behalf of the website in carrying out the purposes of this Act.
   - **(2)** As used in this Act, the term “Internet identifiers” means electronic mail addresses and other designations used for self-identification or routing in Internet communication or posting.
   - **(3)** A term defined for the purposes of the Sex Offender Registration and Notification Act [ 34 U.S.C. 20901 et seq.] has the same meaning in this Act.
+
+## Source Credit
+
+*([Pub. L. 110–400, § 2](https://www.govinfo.gov/link/plaw/110/public/400), Oct. 13, 2008, [122 Stat. 4224](https://www.govinfo.gov/link/statute/122/4224).)*

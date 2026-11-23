@@ -3,9 +3,10 @@ title: "Section 1396u - Community supported living arrangements services"
 usc_title: 42
 usc_section: "1396u"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1396u"
-generated_at: "2026-03-30T02:56:11.058Z"
+generated_at: "2026-11-23T20:27:21.622Z"
+status: "active"
 ---
 
 # § 1396u. Community supported living arrangements services
@@ -49,3 +50,11 @@ generated_at: "2026-03-30T02:56:11.058Z"
   - **(2)** If the Secretary finds that a provider has not met an applicable requirement under subsection (h), the Secretary shall impose a civil money penalty in an amount not to exceed $10,000 for each day of noncompliance. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title .
 - **(i)** Any funds expended under this section for medical assistance shall be in addition to funds expended for any existing services covered under the State plan, including any waiver services for which an individual receiving services under this program is already eligible.
 - **(j)** The amount of funds that may be expended as medical assistance to carry out the purposes of this section shall be for fiscal year 1991, $5,000,000, for fiscal year 1992, $10,000,000, for fiscal year 1993, $20,000,000, for fiscal year 1994, $30,000,000, for fiscal year 1995, $35,000,000, and for fiscal years thereafter such sums as provided by Congress.
+
+In general
+
+Application process
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XIX, § 1930, as added [Pub. L. 101–508, title IV, § 4712(b)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–187](https://www.govinfo.gov/link/statute/104/1388); amended [Pub. L. 106–402, title IV, § 401(b)(6)(B)](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1738](https://www.govinfo.gov/link/statute/114/1738).)*

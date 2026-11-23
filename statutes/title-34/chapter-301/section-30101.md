@@ -3,9 +3,10 @@ title: "Section 30101 - State grant program for training and prosecution of comp
 usc_title: 34
 usc_section: "30101"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 30101"
-generated_at: "2026-03-30T02:55:33.305Z"
+generated_at: "2026-11-23T20:26:50.624Z"
+status: "active"
 ---
 
 # § 30101. State grant program for training and prosecution of computer crimes
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:33.305Z"
   - **(2)** Of the amount made available to carry out this section in any fiscal year not more than 3 percent may be used by the Attorney General for salaries and administrative expenses.
   - **(3)** Unless all eligible applications submitted by any State or unit of local government within such State for a grant under this section have been funded, such State, together with grantees within the State (other than Indian tribes), shall be allocated in each fiscal year under this section not less than 0.75 percent of the total amount appropriated in the fiscal year for grants pursuant to this section, except that the United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands each shall be allocated 0.25 percent.
 - **(f)** Notwithstanding any other provision of this section, the Attorney General may use amounts made available under this section to make grants to Indian tribes for use in accordance with this section.
+
+## Source Credit
+
+*([Pub. L. 106–572, § 2](https://www.govinfo.gov/link/plaw/106/public/572), Dec. 28, 2000, [114 Stat. 3058](https://www.govinfo.gov/link/statute/114/3058); [Pub. L. 110–403, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/110/public/403), Oct. 13, 2008, [122 Stat. 4271](https://www.govinfo.gov/link/statute/122/4271).)*

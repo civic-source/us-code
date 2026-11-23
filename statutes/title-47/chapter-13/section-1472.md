@@ -3,9 +3,10 @@ title: "Section 1472 - Parity of protection for provision or use of Next Generat
 usc_title: 47
 usc_section: "1472"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 1472"
-generated_at: "2026-03-30T02:56:24.535Z"
+generated_at: "2026-11-23T20:27:29.003Z"
+status: "active"
 ---
 
 # § 1472. Parity of protection for provision or use of Next Generation 9–1–1 services
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:24.535Z"
   - **(2)** the use or provision of 9–1–1 services, E9–1–1 services, or Next Generation 9–1–1 services; and
   - **(3)** other matters related to 9–1–1 services, E9–1–1 services, or Next Generation 9–1–1 services.
 - **(b)** The scope and extent of the immunity and protection from liability afforded under subsection (a) shall be the same as that provided under section 615a of this title to wireless carriers, public safety answering points, and users of wireless 9–1–1 service (as defined in paragraphs (4), (3), and (6), respectively, of section 615b of this title 1 1 See References in Text note below. ) with respect to such release, use, and other matters.
+
+## Source Credit
+
+*([Pub. L. 112–96, title VI, § 6506](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 242](https://www.govinfo.gov/link/statute/126/242).)*

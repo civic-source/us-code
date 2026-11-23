@@ -3,9 +3,10 @@ title: "Section 1260 - Gains from constructive ownership transactions"
 usc_title: 26
 usc_section: "1260"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1260"
-generated_at: "2026-03-30T02:55:27.765Z"
+generated_at: "2026-11-23T20:26:46.065Z"
+status: "active"
 ---
 
 # § 1260. Gains from constructive ownership transactions
@@ -53,3 +54,7 @@ generated_at: "2026-03-30T02:55:27.765Z"
 - **(g)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations—
   - **(1)** to permit taxpayers to mark to market constructive ownership transactions in lieu of applying this section, and
   - **(2)** to exclude certain forward contracts which do not convey substantially all of the economic return with respect to a financial asset.
+
+## Source Credit
+
+*(Added [Pub. L. 106–170, title V, § 534(a)](https://www.govinfo.gov/link/plaw/106/public/170), Dec. 17, 1999, [113 Stat. 1931](https://www.govinfo.gov/link/statute/113/1931); amended [Pub. L. 108–357, title IV, § 413(c)(23)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1509](https://www.govinfo.gov/link/statute/118/1509); [Pub. L. 110–172, § 11(a)(23)](https://www.govinfo.gov/link/plaw/110/public/172), (24)(B), Dec. 29, 2007, [121 Stat. 2486](https://www.govinfo.gov/link/statute/121/2486).)*

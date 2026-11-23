@@ -3,9 +3,10 @@ title: "Section 3517 - Inspector General for Agency"
 usc_title: 50
 usc_section: "3517"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3517"
-generated_at: "2026-03-30T02:56:26.254Z"
+generated_at: "2026-11-23T20:27:31.014Z"
+status: "active"
 ---
 
 # § 3517. Inspector General for Agency
@@ -175,3 +176,17 @@ generated_at: "2026-03-30T02:56:26.254Z"
 - **(h)**
   - **(1)** The Director of the Central Intelligence Agency shall establish and maintain on the homepage of the Agency’s publicly accessible website information relating to the Office of the Inspector General including methods to contact the Inspector General.
   - **(2)** The information referred to in paragraph (1) shall be obvious and facilitate accessibility to the information related to the Office of the Inspector General.
+
+(aa) the requirement under this subclause shall not apply if the officer is an Inspector General; and
+
+(bb) for the purposes of this clause, performing the functions and duties of an Inspector General temporarily in an acting capacity does not qualify as service in a position in an Office of an Inspector General;
+
+(aa) A serious or flagrant problem, abuse, violation of law or Executive order, or deficiency relating to the funding, administration, or operations of an intelligence activity of the Federal Government that is— (AA) a matter of national security; and (BB) not a difference of opinion concerning public policy matters.
+
+(bb) A false statement to Congress, or a willful withholding from Congress, on an issue of material fact relating to the funding, administration, or operation of an intelligence activity.
+
+(cc) An action, including a personnel action described in section 2302(a)(2)(A) of title 5 , constituting reprisal or threat of reprisal prohibited under subsection (e)(3)(B) in response to an employee’s reporting an urgent concern in accordance with this paragraph.
+
+## Source Credit
+
+*(June 20, 1949, ch. 227, § 17, as added [Pub. L. 100–453, title V, § 504](https://www.govinfo.gov/link/plaw/100/public/453), Sept. 29, 1988, [102 Stat. 1910](https://www.govinfo.gov/link/statute/102/1910); amended [Pub. L. 101–193, title VIII, § 801](https://www.govinfo.gov/link/plaw/101/public/193), Nov. 30, 1989, [103 Stat. 1711](https://www.govinfo.gov/link/statute/103/1711); [Pub. L. 102–496, title VI, § 601](https://www.govinfo.gov/link/plaw/102/public/496), Oct. 24, 1992, [106 Stat. 3187](https://www.govinfo.gov/link/statute/106/3187); [Pub. L. 103–359, title IV, § 402](https://www.govinfo.gov/link/plaw/103/public/359), Oct. 14, 1994, [108 Stat. 3427](https://www.govinfo.gov/link/statute/108/3427); [Pub. L. 104–93, title IV, § 403](https://www.govinfo.gov/link/plaw/104/public/93), Jan. 6, 1996, [109 Stat. 969](https://www.govinfo.gov/link/statute/109/969); [Pub. L. 105–107, title IV, § 402](https://www.govinfo.gov/link/plaw/105/public/107), Nov. 20, 1997, [111 Stat. 2257](https://www.govinfo.gov/link/statute/111/2257); [Pub. L. 105–272, title VII, § 702(a)](https://www.govinfo.gov/link/plaw/105/public/272), Oct. 20, 1998, [112 Stat. 2414](https://www.govinfo.gov/link/statute/112/2414); [Pub. L. 106–567, title IV](https://www.govinfo.gov/link/plaw/106/public/567), §§ 402, 403, Dec. 27, 2000, [114 Stat. 2847](https://www.govinfo.gov/link/statute/114/2847), 2848; [Pub. L. 107–108, title III, § 309(a)](https://www.govinfo.gov/link/plaw/107/public/108), Dec. 28, 2001, [115 Stat. 1399](https://www.govinfo.gov/link/statute/115/1399); [Pub. L. 107–306, title VIII, § 811(b)(2)](https://www.govinfo.gov/link/plaw/107/public/306), Nov. 27, 2002, [116 Stat. 2422](https://www.govinfo.gov/link/statute/116/2422); [Pub. L. 108–458, title I](https://www.govinfo.gov/link/plaw/108/public/458), §§ 1071(b)(1)(B), (2)(C), 1074(b)(2), Dec. 17, 2004, [118 Stat. 3690](https://www.govinfo.gov/link/statute/118/3690), 3694; [Pub. L. 111–259, title IV](https://www.govinfo.gov/link/plaw/111/public/259), §§ 425(a)–(f)(1), 426, title VIII, § 802(2), Oct. 7, 2010, [124 Stat. 2728–2730](https://www.govinfo.gov/link/statute/124/2728), 2746; [Pub. L. 112–87, title IV, § 413](https://www.govinfo.gov/link/plaw/112/public/87), Jan. 3, 2012, [125 Stat. 1891](https://www.govinfo.gov/link/statute/125/1891); [Pub. L. 112–277, title III, § 309(b)(1)](https://www.govinfo.gov/link/plaw/112/public/277), Jan. 14, 2013, [126 Stat. 2474](https://www.govinfo.gov/link/statute/126/2474); [Pub. L. 113–126, title VI, § 603(b)](https://www.govinfo.gov/link/plaw/113/public/126), July 7, 2014, [128 Stat. 1420](https://www.govinfo.gov/link/statute/128/1420); [Pub. L. 114–113, div. M, title IV, § 411](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2922](https://www.govinfo.gov/link/statute/129/2922); [Pub. L. 115–31, div. N, title IV, § 412(a)](https://www.govinfo.gov/link/plaw/115/public/31), May 5, 2017, [131 Stat. 821](https://www.govinfo.gov/link/statute/131/821); [Pub. L. 117–103, div. X, title V, § 502(c)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 986](https://www.govinfo.gov/link/statute/136/986); [Pub. L. 117–263, div. E, title LII](https://www.govinfo.gov/link/plaw/117/public/263), §§ 5202(a)(4), 5203(c), div. F, title LXVI, § 6609(c), Dec. 23, 2022, [136 Stat. 3226](https://www.govinfo.gov/link/statute/136/3226), 3231, 3560; [Pub. L. 118–31, div. G, title IX, § 7901(g)(4)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1107](https://www.govinfo.gov/link/statute/137/1107); [Pub. L. 118–159, div. F, title LXVII](https://www.govinfo.gov/link/plaw/118/public/159), §§ 6701(b), 6702(b), Dec. 23, 2024, [138 Stat. 2512](https://www.govinfo.gov/link/statute/138/2512), 2514.)*

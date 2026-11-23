@@ -3,9 +3,10 @@ title: "Section 481 - Terms of office and election procedures"
 usc_title: 29
 usc_section: "481"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 481"
-generated_at: "2026-03-30T02:55:18.684Z"
+generated_at: "2026-11-23T20:26:37.818Z"
+status: "active"
 ---
 
 # § 481. Terms of office and election procedures
@@ -19,3 +20,9 @@ generated_at: "2026-03-30T02:55:18.684Z"
 - **(g)** No moneys received by any labor organization by way of dues, assessment, or similar levy, and no moneys of an employer shall be contributed or applied to promote the candidacy of any person in any election subject to the provisions of this subchapter. Such moneys of a labor organization may be utilized for notices, factual statements of issues not involving candidates, and other expenses necessary for the holding of an election.
 - **(h)** If the Secretary, upon application of any member of a local labor organization, finds after hearing in accordance with subchapter II of chapter 5 of title 5 that the constitution and bylaws of such labor organization do not provide an adequate procedure for the removal of an elected officer guilty of serious misconduct, such officer may be removed, for cause shown and after notice and hearing, by the members in good standing voting in a secret ballot, conducted by the officers of such labor organization in accordance with its constitution and bylaws insofar as they are not inconsistent with the provisions of this subchapter.
 - **(i)** The Secretary shall promulgate rules and regulations prescribing minimum standards and procedures for determining the adequacy of the removal procedures to which reference is made in subsection (h).
+
+“The provisions of this title [enacting this subchapter] shall become applicable—
+
+## Source Credit
+
+*([Pub. L. 86–257, title IV, § 401](https://www.govinfo.gov/link/plaw/86/public/257), Sept. 14, 1959, [73 Stat. 532](https://www.govinfo.gov/link/statute/73/532).)*

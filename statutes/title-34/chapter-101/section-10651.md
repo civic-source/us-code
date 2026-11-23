@@ -3,9 +3,10 @@ title: "Section 10651 - Adult and juvenile collaboration programs"
 usc_title: 34
 usc_section: "10651"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10651"
-generated_at: "2026-03-30T02:55:33.273Z"
+generated_at: "2026-11-23T20:26:50.495Z"
+status: "active"
 ---
 
 # § 10651. Adult and juvenile collaboration programs
@@ -261,3 +262,35 @@ generated_at: "2026-03-30T02:55:33.273Z"
   - **(1)** There is authorized to be appropriated to the Department of Justice to carry out this section $54,000,000 for each of fiscal years 2023 through 2027.
   - **(2)** For fiscal year 2009 and each subsequent fiscal year, of the amounts authorized under paragraph (1) for such fiscal year, the Attorney General may obligate not more than 3 percent for the administrative expenses of the Attorney General in carrying out this section for such fiscal year.
   - **(3)** Not more than 20 percent of the funds authorized to be appropriated under this section may be used for purposes described in subsection (i) (relating to veterans).
+
+(aa) prosecuting attorney;
+
+(bb) defense attorney;
+
+(cc) probation or corrections official; and
+
+(dd) judge; and
+
+(aa) develop a shared understanding of the flow of justice-involved individuals with mental illnesses through the criminal justice system; and
+
+(bb) identify opportunities for improved collaborative responses to the risks and needs of individuals described in item (aa); and
+
+(aa) emergency and crisis services;
+
+(bb) specialized police-based responses;
+
+(cc) court hearings and disposition alternatives;
+
+(dd) reentry from jails and prisons; and
+
+(ee) community supervision, treatment and support services; and
+
+“Congress finds the following:
+
+“Congress finds the following:
+
+“The purpose of this Act [see Short Title of 2004 Act note set out under section 10101 of this title ] is to increase public safety by facilitating collaboration among the criminal justice, juvenile justice, mental health treatment, and substance abuse systems. Such collaboration is needed to—
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 2991](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 108–414, § 4(a)](https://www.govinfo.gov/link/plaw/108/public/414), Oct. 30, 2004, [118 Stat. 2328](https://www.govinfo.gov/link/statute/118/2328); amended [Pub. L. 110–416](https://www.govinfo.gov/link/plaw/110/public/416), §§ 3, 4, Oct. 14, 2008, [122 Stat. 4352](https://www.govinfo.gov/link/statute/122/4352), 4353; [Pub. L. 114–198, title V, § 502](https://www.govinfo.gov/link/plaw/114/public/198), July 22, 2016, [130 Stat. 728](https://www.govinfo.gov/link/statute/130/728); [Pub. L. 114–255, div. B, title XIV](https://www.govinfo.gov/link/plaw/114/public/255), §§ 14005, 14018, 14021–14024, 14027, 14028(a), 14029, Dec. 13, 2016, [130 Stat. 1295](https://www.govinfo.gov/link/statute/130/1295), 1307–1311, 1313; [Pub. L. 115–391, title VI, § 612](https://www.govinfo.gov/link/plaw/115/public/391), Dec. 21, 2018, [132 Stat. 5247](https://www.govinfo.gov/link/statute/132/5247); [Pub. L. 117–170, § 3(1)](https://www.govinfo.gov/link/plaw/117/public/170), Aug. 16, 2022, [136 Stat. 2092](https://www.govinfo.gov/link/statute/136/2092); [Pub. L. 117–323, § 2](https://www.govinfo.gov/link/plaw/117/public/323), Dec. 27, 2022, [136 Stat. 4437](https://www.govinfo.gov/link/statute/136/4437).)*

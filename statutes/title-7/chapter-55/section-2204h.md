@@ -3,9 +3,10 @@ title: "Section 2204h - Local food production and program evaluation"
 usc_title: 7
 usc_section: "2204h"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2204h"
-generated_at: "2026-03-30T02:53:42.380Z"
+generated_at: "2026-11-23T20:25:41.496Z"
+status: "active"
 ---
 
 # § 2204h. Local food production and program evaluation
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:53:42.380Z"
   - **(5)** expand the Agricultural Resource Management Survey of the Department to include questions on locally or regionally produced agricultural food products; and
   - **(6)** seek to establish or expand private-public partnerships to facilitate, to the maximum extent practicable, the collection of data on locally or regionally produced agricultural food products, including the development of a nationally coordinated and regionally balanced evaluation of the redevelopment of locally or regionally produced food systems.
 - **(c)** Not later than 1 year after February 7, 2014 , and annually thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the progress that has been made in implementing this section and identifying any additional needs and barriers related to developing local and regional food systems.
+
+## Source Credit
+
+*([Pub. L. 113–79, title X, § 10016](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 952](https://www.govinfo.gov/link/statute/128/952); [Pub. L. 115–334, title X, § 10102(c)(3)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4898](https://www.govinfo.gov/link/statute/132/4898).)*

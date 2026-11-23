@@ -3,9 +3,10 @@ title: "Section 18313 - Assurance of core capabilities"
 usc_title: 42
 usc_section: "18313"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18313"
-generated_at: "2026-03-30T02:56:11.519Z"
+generated_at: "2026-11-23T20:27:23.794Z"
+status: "active"
 ---
 
 # § 18313. Assurance of core capabilities
@@ -18,3 +19,11 @@ generated_at: "2026-03-30T02:56:11.519Z"
   - **(2)** a balance of the development, sustainment, and use of each of these capabilities, which are of critical importance to the viability and sustainability of the U.S. space program; and
   - **(3)** that resources required to support the timely and sustainable development of these capabilities authorized in either subchapter II or subchapter III of this chapter are not derived from a reduction in resources for the capabilities authorized in the other subchapter.
 - **(c)** Nothing in subsection (b) shall apply to or affect any capability authorized by any other subchapter of this chapter 1 1 So in original. Probably should be followed by a period.
+
+Development of follow-on space transportation systems
+
+Required actions
+
+## Source Credit
+
+*([Pub. L. 111–267, title II, § 203](https://www.govinfo.gov/link/plaw/111/public/267), Oct. 11, 2010, [124 Stat. 2812](https://www.govinfo.gov/link/statute/124/2812); [Pub. L. 112–273, § 2](https://www.govinfo.gov/link/plaw/112/public/273), Jan. 14, 2013, [126 Stat. 2454](https://www.govinfo.gov/link/statute/126/2454); [Pub. L. 115–10, title IV, § 416(a)](https://www.govinfo.gov/link/plaw/115/public/10), Mar. 21, 2017, [131 Stat. 34](https://www.govinfo.gov/link/statute/131/34).)*

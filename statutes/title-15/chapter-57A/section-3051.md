@@ -3,9 +3,10 @@ title: "Section 3051 - Definitions"
 usc_title: 15
 usc_section: "3051"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 3051"
-generated_at: "2026-03-30T02:54:08.185Z"
+generated_at: "2026-11-23T20:26:04.265Z"
+status: "active"
 ---
 
 # § 3051. Definitions
@@ -36,3 +37,7 @@ In this chapter the following definitions apply:
   - **(20)** The term “training facility” means a location that is not a racetrack licensed by a State racing commission that operates primarily to house covered horses and conduct official timed workouts.
   - **(21)** The term “veterinarian” means a licensed veterinarian who provides veterinary services to covered horses.
   - **(22)** The term “workout” means a timed running of a horse over a predetermined distance not associated with a race or its first qualifying race, if such race is made subject to this chapter by election under section 3054(k) 1 of this title of the horse’s breed governing organization or the applicable State racing commission.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. FF, title XII, § 1202](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3252](https://www.govinfo.gov/link/statute/134/3252).)*

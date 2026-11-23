@@ -3,12 +3,17 @@ title: "Section 1265 - C.O.D. shipments prohibited"
 usc_title: 18
 usc_section: "1265"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 1265"
-generated_at: "2026-03-30T02:54:16.483Z"
+generated_at: "2026-11-23T20:26:08.482Z"
+status: "active"
 ---
 
 # § 1265. C.O.D. shipments prohibited
 
 Any railroad or express company, or other common carrier which, or any person who, in connection with the transportation of any spirituous, vinous, malted, or other fermented liquor, or any compound containing any spirituous, vinous, malted, or other fermented liquor fit for use for beverage purposes, into any State, Territory, District or Possession of the United States, which prohibits the delivery or sale therein of such liquor, collects the purchase price or any part thereof, before, on, or after delivery, from the consignee, or from any other person, or in any manner acts as the agent of the buyer or seller of any such liquor, for the purpose of buying or selling or completing the sale thereof, saving only in the actual transportation and delivery of the same, shall be fined under this title or imprisoned not more than one year, or both.
 
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 762](https://www.govinfo.gov/link/statute/62/762); [Pub. L. 103–322, title XXXIII, § 330016(1)(K)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2147](https://www.govinfo.gov/link/statute/108/2147).)*

@@ -3,9 +3,10 @@ title: "Section 3616a - Fair housing initiatives program"
 usc_title: 42
 usc_section: "3616a"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3616a"
-generated_at: "2026-03-30T02:56:11.191Z"
+generated_at: "2026-11-23T20:27:22.311Z"
+status: "active"
 ---
 
 # § 3616a. Fair housing initiatives program
@@ -69,3 +70,9 @@ generated_at: "2026-03-30T02:56:11.191Z"
   - **(3)** a list of all fair housing enforcement organizations funded under this section during the preceding fiscal year, identified on a State-by-State basis;
   - **(4)** a summary of all education and outreach activities funded under this section and the use of such funds during the preceding fiscal year; and
   - **(5)** any findings, conclusions, or recommendations of the Secretary as a result of the funded activities.
+
+“The Congress finds that—
+
+## Source Credit
+
+*([Pub. L. 100–242, title V, § 561](https://www.govinfo.gov/link/plaw/100/public/242), Feb. 5, 1988, [101 Stat. 1942](https://www.govinfo.gov/link/statute/101/1942); [Pub. L. 101–625, title IX, § 953](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4419](https://www.govinfo.gov/link/statute/104/4419); [Pub. L. 102–550, title IX, § 905(b)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3869](https://www.govinfo.gov/link/statute/106/3869); [Pub. L. 104–66, title I, § 1071(d)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 720](https://www.govinfo.gov/link/statute/109/720).)*

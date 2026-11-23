@@ -3,9 +3,10 @@ title: "Section 4563 - Multifamily special affordable housing goal"
 usc_title: 12
 usc_section: "4563"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4563"
-generated_at: "2026-03-30T02:53:53.508Z"
+generated_at: "2026-11-23T20:25:59.396Z"
+status: "active"
 ---
 
 # § 4563. Multifamily special affordable housing goal
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:53.508Z"
   - **(2)** are purchased by the enterprise, except that the Director may give less than full credit for purchases of investment grade bonds, to the extent that such purchases do not provide a new market or add liquidity to an existing market.
 - **(c)** The Director shall monitor the performance of each enterprise in meeting the goals established under this section and shall evaluate such performance (for purposes of section 4566 of this title ) based on whether the rent levels are affordable. A rent level shall be considered to be affordable for purposes of this subsection for low-income families if it does not exceed 30 percent of the maximum income level of such income category, with appropriate adjustments for unit size as measured by the number of bedrooms.
 - **(d)** The Director shall determine, for each year that the housing goal under this section is in effect pursuant to section 4561(a) of this title , whether each enterprise has complied with such goal and the additional requirements under subsection (a)(2).
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1333](https://www.govinfo.gov/link/plaw/102/public/550), as added [Pub. L. 110–289, div. A, title I, § 1128(b)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2700](https://www.govinfo.gov/link/statute/122/2700).)*

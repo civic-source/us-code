@@ -3,9 +3,10 @@ title: "Section 220505 - Powers and duties"
 usc_title: 36
 usc_section: "220505"
 chapter: 2205
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 220505"
-generated_at: "2026-03-30T02:55:44.709Z"
+generated_at: "2026-11-23T20:26:59.081Z"
+status: "active"
 ---
 
 # § 220505. Powers and duties
@@ -46,3 +47,48 @@ generated_at: "2026-03-30T02:55:44.709Z"
       - **(ii)** to provide more beneficial terms of participation to athletes representing the United States in international events to address disparities in outside income, including in compensation made available by international sports federations and other event organizers, or the need to foster underdeveloped programs or address documented and justifiable personal need on the part of specific athletes or teams.
   - **(2)** The corporation shall take all reasonable steps, in collaboration with affected athletes, to advocate to international sports federations and other event organizers to equalize prizes, compensation, funding, and other support provided to athletes by such federations and organizers.
   - **(3)** Nothing in this subsection shall be construed to preempt or otherwise abrogate the duty of care of the corporation under State law or the common law.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 220505(a) | 36:375(b). | Sept. 21, 1950, ch. 975 , title I, §§ 105 (less (a) (words before cl. (1) related to perpetual succession)), 109, as added Nov. 8, 1978 , Pub. L. 95–606, § 1(b) , 92 Stat. 3047 , 3048. |
+| 220505(b) | 36:375(a) (words before cl. (1) less perpetual succession), (6)–(10), (12)–(16). 36:379. |  |
+| 220505(c) | 36:375(a) (words before cl. (1) less perpetual succession), (1)–(5), (11). |  |
+
+
+Constitution and Bylaws
+
+General Corporate Powers
+
+Powers Related to Amateur Athletics and the Olympic Games
+
+Duties.—
+
+In general
+
+Advocacy
+
+Rule of construction
+
+Historical and Revision Notes
+
+220505(a)
+
+Sept. 21, 1950, ch. 975
+
+Nov. 8, 1978
+
+Pub. L. 95–606, § 1(b)
+
+92 Stat. 3047
+
+220505(b)
+
+220505(c)
+
+“Nothing in this Act [see Short Title of 2023 Amendment note set out under section 101 of this title ] shall be construed—
+
+“Not later than 1 year after the date of the enactment of this Act [ Jan. 5, 2023 ]—
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1468](https://www.govinfo.gov/link/statute/112/1468); [Pub. L. 105–277, div. C, title I, § 142(f)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–604](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 109–284, § 5(15)](https://www.govinfo.gov/link/plaw/109/public/284), Sept. 27, 2006, [120 Stat. 1212](https://www.govinfo.gov/link/statute/120/1212); [Pub. L. 116–189](https://www.govinfo.gov/link/plaw/116/public/189), §§ 4(a)(5), 6(c)(1), Oct. 30, 2020, [134 Stat. 945](https://www.govinfo.gov/link/statute/134/945), 948; [Pub. L. 117–340, § 2(a)(1)](https://www.govinfo.gov/link/plaw/117/public/340), Jan. 5, 2023, [136 Stat. 6175](https://www.govinfo.gov/link/statute/136/6175).)*

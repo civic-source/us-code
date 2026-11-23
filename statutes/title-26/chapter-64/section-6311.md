@@ -3,9 +3,10 @@ title: "Section 6311 - Payment of tax by commercially acceptable means"
 usc_title: 26
 usc_section: "6311"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6311"
-generated_at: "2026-03-30T02:55:27.848Z"
+generated_at: "2026-11-23T20:26:46.611Z"
+status: "active"
 ---
 
 # § 6311. Payment of tax by commercially acceptable means
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:55:27.848Z"
       - **(v)** properly authorized civil, criminal, or regulatory investigation by Federal, State, or local authorities.
   - **(3)** Use and disclosure of information under this paragraph shall be made only to the extent authorized by written procedures promulgated by the Secretary.
   - **(4)** For provision providing for civil damages for violation of paragraph (1), see section 7431.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 777; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 98–369, div. A, title IV, § 448(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 817](https://www.govinfo.gov/link/statute/98/817); [Pub. L. 105–34, title XII, § 1205(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 995](https://www.govinfo.gov/link/statute/111/995); [Pub. L. 105–206, title VI, § 6012(b)(1)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 819](https://www.govinfo.gov/link/statute/112/819); [Pub. L. 105–277, div. J, title IV, § 4003(k)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–910](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 115–141, div. U, title IV, § 401(a)(280)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1197](https://www.govinfo.gov/link/statute/132/1197); [Pub. L. 116–25, title II, § 2303](https://www.govinfo.gov/link/plaw/116/public/25), July 1, 2019, [133 Stat. 1013](https://www.govinfo.gov/link/statute/133/1013).)*

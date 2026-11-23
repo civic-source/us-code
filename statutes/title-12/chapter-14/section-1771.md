@@ -3,9 +3,10 @@ title: "Section 1771 - Conversion from Federal to State credit union and from St
 usc_title: 12
 usc_section: "1771"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1771"
-generated_at: "2026-03-30T02:53:53.436Z"
+generated_at: "2026-11-23T20:25:59.062Z"
+status: "active"
 ---
 
 # § 1771. Conversion from Federal to State credit union and from State to Federal credit union
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:53.436Z"
 - **(b)**
   - **(1)** A State credit union, organized under the laws of any State, the District of Columbia, the several Territories and possessions of the United States, the Panama Canal Zone, or the Commonwealth of Puerto Rico, may be converted into a Federal credit union by (A) complying with all State requirements requisite to enabling it to convert to a Federal credit union or to cease being a State credit union, (B) filing with the Administration proof of such compliance, satisfactory to the Board, and (C) filing with the Administration an organization certificate as required by this chapter.
   - **(2)** When the Board has been satisfied that all of such requirements, and all other requirements of this chapter, have been complied with, the Board shall approve the organization certificate. Upon such approval, the State credit union shall become a Federal credit union as of the date it ceases to be a State credit union. The Federal credit union shall be vested with all of the assets and shall continue responsible for all of the obligations of the State credit union to the same extent as though the conversion had not taken place.
+
+## Source Credit
+
+*(June 26, 1934, ch. 750, title I, § 125, formerly § 26, as added [Pub. L. 86–354, § 1](https://www.govinfo.gov/link/plaw/86/public/354), Sept. 22, 1959, [73 Stat. 638](https://www.govinfo.gov/link/statute/73/638); amended [Pub. L. 91–206, § 2(1)](https://www.govinfo.gov/link/plaw/91/public/206), (3), Mar. 10, 1970, [84 Stat. 49](https://www.govinfo.gov/link/statute/84/49); renumbered title I, § 125, [Pub. L. 91–468, § 1(2)](https://www.govinfo.gov/link/plaw/91/public/468), Oct. 19, 1970, [84 Stat. 994](https://www.govinfo.gov/link/statute/84/994); amended [Pub. L. 95–630, title V, § 502(b)](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3681](https://www.govinfo.gov/link/statute/92/3681); [Pub. L. 97–320, title V, § 527](https://www.govinfo.gov/link/plaw/97/public/320), Oct. 15, 1982, [96 Stat. 1535](https://www.govinfo.gov/link/statute/96/1535).)*

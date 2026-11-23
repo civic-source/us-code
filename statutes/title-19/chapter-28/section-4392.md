@@ -3,9 +3,10 @@ title: "Section 4392 - Annual report on prevention and investigation of evasion 
 usc_title: 19
 usc_section: "4392"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 4392"
-generated_at: "2026-03-30T02:54:24.707Z"
+generated_at: "2026-11-23T20:26:11.141Z"
+status: "active"
 ---
 
 # § 4392. Annual report on prevention and investigation of evasion of antidumping and countervailing duty orders
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:54:24.707Z"
   - **(2)** the amount of additional duties determined to be owed as a result of such investigations and the amount of such duties that were collected;
   - **(3)** an identification of the countries of origin of covered merchandise determined under subsection (c) of such section 1517 of this title to be entered into the customs territory of the United States through evasion; and
   - **(4)** a description of the types of measures used by U.S. Customs and Border Protection to prevent and investigate evasion.
+
+## Source Credit
+
+*([Pub. L. 114–125, title IV, § 432](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 169](https://www.govinfo.gov/link/statute/130/169).)*

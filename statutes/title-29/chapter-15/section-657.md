@@ -3,9 +3,10 @@ title: "Section 657 - Inspections, investigations, and recordkeeping"
 usc_title: 29
 usc_section: "657"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 657"
-generated_at: "2026-03-30T02:55:18.688Z"
+generated_at: "2026-11-23T20:26:37.834Z"
+status: "active"
 ---
 
 # § 657. Inspections, investigations, and recordkeeping
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:18.688Z"
   - **(1)** The Secretary and Secretary of Health and Human Services are authorized to compile, analyze, and publish, either in summary or detailed form, all reports or information obtained under this section.
   - **(2)** The Secretary and the Secretary of Health and Human Services shall each prescribe such rules and regulations as he may deem necessary to carry out their responsibilities under this chapter, including rules and regulations dealing with the inspection of an employer’s establishment.
 - **(h)** The Secretary shall not use the results of enforcement activities, such as the number of citations issued or penalties assessed, to evaluate employees directly involved in enforcement activities under this chapter or to impose quotas or goals with regard to the results of such activities.
+
+## Source Credit
+
+*([Pub. L. 91–596, § 8](https://www.govinfo.gov/link/plaw/91/public/596), Dec. 29, 1970, [84 Stat. 1598](https://www.govinfo.gov/link/statute/84/1598); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695); [Pub. L. 105–198, § 1](https://www.govinfo.gov/link/plaw/105/public/198), July 16, 1998, [112 Stat. 640](https://www.govinfo.gov/link/statute/112/640).)*

@@ -3,9 +3,10 @@ title: "Section 12529 - Board of Actuaries"
 usc_title: 10
 usc_section: "12529"
 chapter: 1214
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 12529"
-generated_at: "2026-03-30T02:53:38.270Z"
+generated_at: "2026-11-23T20:25:52.442Z"
+status: "active"
 ---
 
 # § 12529. Board of Actuaries
@@ -16,3 +17,19 @@ generated_at: "2026-03-30T02:53:38.270Z"
 - **(d)** If at the time of any such valuation the Board of Actuaries determines that there has been an actuarial gain or loss to the Fund as a result of changes in actuarial assumptions since the last valuation or as a result of any differences, between actual and expected experience since the last valuation, the Board shall recommend to the Secretary a premium rate schedule for the amortization of the cumulative gain or loss to the Fund resulting from such changes in assumptions and any previous such changes in assumptions or from the differences in actual and expected experience, respectively, through an increase or decrease in the payments that would otherwise be made to the Fund.
 - **(e)** If at any time liabilities of the Fund exceed assets of the Fund as a result of members of the Ready Reserve being ordered to active duty as described in section 12521(2) of this title , and funds are unavailable to pay benefits completely, the Secretary shall request the President to submit to Congress a request for a special appropriation to cover the unfunded liability. If appropriations are not made to cover an unfunded liability in any fiscal year, the Secretary shall reduce the amount of the benefits paid under the insurance program to a total amount that does not exceed the assets of the Fund expected to accrue by the end of such fiscal year. Benefits that cannot be paid because of such a reduction shall be deferred and may be paid only after and to the extent that additional funds become available.
 - **(f)** The Board of Actuaries shall define the term “present value” for purposes of this subsection.
+
+Actuarial Responsibility
+
+Valuations and Premium Recommendations
+
+Effects of Changed Benefits
+
+Actuarial Gains or Losses
+
+Insufficient Assets
+
+Definition of Present Value
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. A, title V, § 512(a)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 303](https://www.govinfo.gov/link/statute/110/303).)*

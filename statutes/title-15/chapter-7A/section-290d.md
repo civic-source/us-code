@@ -3,12 +3,17 @@ title: "Section 290d - Sale of standard reference data; cost recovery; proceeds 
 usc_title: 15
 usc_section: "290d"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 290d"
-generated_at: "2026-03-30T02:54:08.081Z"
+generated_at: "2026-11-23T20:26:03.697Z"
+status: "active"
 ---
 
 # § 290d. Sale of standard reference data; cost recovery; proceeds subject to National Institute of Standards and Technology
 
 Standard reference data conforming to standards established by the Secretary may be made available and sold by the Secretary or by a person or agency designated by him. To the extent practicable and appropriate, the prices established for such data may reflect the cost of collection, compilation, evaluation, publication, and dissemination of the data, including administrative expenses; and the amounts received shall be subject to the Act of March 3, 1901 , as amended [ 15 U.S.C. 271 et seq.].
 
+
+## Source Credit
+
+*([Pub. L. 90–396, § 5](https://www.govinfo.gov/link/plaw/90/public/396), July 11, 1968, [82 Stat. 340](https://www.govinfo.gov/link/statute/82/340).)*

@@ -3,9 +3,10 @@ title: "Section 1427 - Civil actions"
 usc_title: 30
 usc_section: "1427"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1427"
-generated_at: "2026-03-30T02:55:29.405Z"
+generated_at: "2026-11-23T20:26:35.045Z"
+status: "active"
 ---
 
 # § 1427. Civil actions
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:29.405Z"
   - **(2)** under subsection (a)(2) of this section, prior to 60 days after the plaintiff has given notice of such action to the Administrator.
 - **(c)** The court, in issuing any final order in any action brought under subsection (a) of this section, may award costs of litigation, including reasonable attorney and expert witness fees, to any party whenever the court determines that such an award is appropriate.
 - **(d)** Nothing in this section shall restrict the rights which any person or class of persons may have under other law to seek enforcement or to seek any other relief. All vessel safety and environmental requirements of or under this chapter shall be in addition to other requirements of law.
+
+## Source Credit
+
+*([Pub. L. 96–283, title I, § 117](https://www.govinfo.gov/link/plaw/96/public/283), June 28, 1980, [94 Stat. 573](https://www.govinfo.gov/link/statute/94/573).)*

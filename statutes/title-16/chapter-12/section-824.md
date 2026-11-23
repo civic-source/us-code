@@ -3,9 +3,10 @@ title: "Section 824 - Declaration of policy; application of subchapter"
 usc_title: 16
 usc_section: "824"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 824"
-generated_at: "2026-03-30T02:54:22.914Z"
+generated_at: "2026-11-23T20:26:20.287Z"
+status: "active"
 ---
 
 # § 824. Declaration of policy; application of subchapter
@@ -29,3 +30,11 @@ generated_at: "2026-03-30T02:54:22.914Z"
     - **(A)** preempt applicable State law concerning the provision of records and other information; or
     - **(B)** in any way limit rights to obtain records and other information under Federal law, contracts, or otherwise.
   - **(5)** As used in this subsection the terms “affiliate”, “associate company”, “electric utility company”, “holding company”, “subsidiary company”, and “exempt wholesale generator” shall have the same meaning as when used in the Public Utility Holding Company Act of 2005 [ 42 U.S.C. 16451 et seq.].
+
+Prior Actions
+
+Other Authorities.—
+
+## Source Credit
+
+*(June 10, 1920, ch. 285, pt. II, § 201, as added Aug. 26, 1935, ch. 687, title II, § 213, [49 Stat. 847](https://www.govinfo.gov/link/statute/49/847); amended [Pub. L. 95–617, title II, § 204(b)](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3140](https://www.govinfo.gov/link/statute/92/3140); [Pub. L. 102–486, title VII, § 714](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2911](https://www.govinfo.gov/link/statute/106/2911); [Pub. L. 109–58, title XII](https://www.govinfo.gov/link/plaw/109/public/58), §§ 1277(b)(1), 1291(c), 1295(a), Aug. 8, 2005, [119 Stat. 978](https://www.govinfo.gov/link/statute/119/978), 985; [Pub. L. 114–94, div. F, § 61003(b)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1778](https://www.govinfo.gov/link/statute/129/1778).)*

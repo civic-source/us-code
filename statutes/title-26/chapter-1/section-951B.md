@@ -3,9 +3,10 @@ title: "Section 951B - Amounts included in gross income of foreign controlled Un
 usc_title: 26
 usc_section: "951B"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 951B"
-generated_at: "2026-03-30T02:55:27.748Z"
+generated_at: "2026-11-23T20:26:45.980Z"
+status: "active"
 ---
 
 # § 951B. Amounts included in gross income of foreign controlled United States shareholders
@@ -26,3 +27,11 @@ generated_at: "2026-03-30T02:55:27.748Z"
 - **(d)** The Secretary shall prescribe such regulations or other guidance as may be necessary or appropriate to carry out the purposes of this section, including regulations or other guidance—
   - **(1)** to treat a foreign controlled United States shareholder or a foreign controlled foreign corporation as a United States shareholder or as a controlled foreign corporation, respectively, for purposes of provisions of this title other than this subpart (including any reporting requirement), and
   - **(2)** with respect to the treatment of foreign controlled foreign corporations that are passive foreign investment companies (as defined in section 1297).
+
+In general
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 119–21, title VII, § 70353(b)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 209](https://www.govinfo.gov/link/statute/139/209).)*

@@ -3,9 +3,10 @@ title: "Section 20107 - Definitions"
 usc_title: 52
 usc_section: "20107"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "52 U.S.C. § 20107"
-generated_at: "2026-03-30T02:56:30.161Z"
+generated_at: "2026-11-23T20:27:36.961Z"
+status: "active"
 ---
 
 # § 20107. Definitions
@@ -17,3 +18,7 @@ As used in this chapter, the term—
   - **(3)** “Federal election” means a general, special, primary, or runoff election for the office of President or Vice President, or of Senator or Representative in, or Delegate or Resident Commissioner to, the Congress;
   - **(4)** “handicapped” means having a temporary or permanent physical disability; and
   - **(5)** “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possesssion 1 1 So in original. Probably should be “possession”. of the United States.
+
+## Source Credit
+
+*([Pub. L. 98–435, § 8](https://www.govinfo.gov/link/plaw/98/public/435), Sept. 28, 1984, [98 Stat. 1679](https://www.govinfo.gov/link/statute/98/1679).)*

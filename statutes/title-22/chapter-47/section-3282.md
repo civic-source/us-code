@@ -3,9 +3,10 @@ title: "Section 3282 - Reports by departments and agencies"
 usc_title: 22
 usc_section: "3282"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3282"
-generated_at: "2026-03-30T02:55:05.391Z"
+generated_at: "2026-11-23T20:26:32.448Z"
+status: "active"
 ---
 
 # § 3282. Reports by departments and agencies
@@ -22,3 +23,11 @@ generated_at: "2026-03-30T02:55:05.391Z"
 - **(f)**
   - **(1)** The Secretary of Defense shall have access, on a timely basis, to all information regarding nuclear proliferation matters which the Secretary of State or the Secretary of Energy has or is entitled to have. Such access shall include access to all communications, materials, documents, and records relating to nuclear proliferation matters.
   - **(2)** This subsection does not apply to any intradepartmental document of the Department of State or the Department of Energy, or any portion of such document, that is solely concerned with internal, confidential advice on policy concerning the conduct of interagency deliberations on nuclear proliferation matters.
+
+Requirement to Provide Information
+
+Issuance of Directives
+
+## Source Credit
+
+*([Pub. L. 95–242, title VI, § 602](https://www.govinfo.gov/link/plaw/95/public/242), Mar. 10, 1978, [92 Stat. 151](https://www.govinfo.gov/link/statute/92/151); [Pub. L. 99–661, div. A, title XIII, § 1370](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 4004](https://www.govinfo.gov/link/statute/100/4004); [Pub. L. 103–437, § 9(a)(8)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4588](https://www.govinfo.gov/link/statute/108/4588); [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XII, § 1225(e)(6), Oct. 21, 1998, [112 Stat. 2681–775](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 106–113, div. B, § 1000(a)(7)](https://www.govinfo.gov/link/plaw/106/public/113), [div. B, title XI, § 1131], Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–492.)*

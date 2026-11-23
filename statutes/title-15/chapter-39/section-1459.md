@@ -3,9 +3,10 @@ title: "Section 1459 - Definitions"
 usc_title: 15
 usc_section: "1459"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1459"
-generated_at: "2026-03-30T02:54:08.135Z"
+generated_at: "2026-11-23T20:26:04.007Z"
+status: "active"
 ---
 
 # § 1459. Definitions
@@ -26,3 +27,7 @@ For the purpose of this chapter—
 - **(d)** The term “person” includes any firm, corporation, or association.
 - **(e)** The term “commerce” means (1) commerce between any State, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States, and any place outside thereof, and (2) commerce within the District of Columbia or within any territory or possession of the United States not organized with a legislative body, but shall not include exports to foreign countries.
 - **(f)** The term “principal display panel” means that part of a label that is most likely to be displayed, presented, shown, or examined under normal and customary conditions of display for retail sale.
+
+## Source Credit
+
+*([Pub. L. 89–755, § 10](https://www.govinfo.gov/link/plaw/89/public/755), Nov. 3, 1966, [80 Stat. 1301](https://www.govinfo.gov/link/statute/80/1301); [Pub. L. 90–628, § 2](https://www.govinfo.gov/link/plaw/90/public/628), Oct. 22, 1968, [82 Stat. 1320](https://www.govinfo.gov/link/statute/82/1320).)*

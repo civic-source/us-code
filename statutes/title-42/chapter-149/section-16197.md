@@ -3,9 +3,10 @@ title: "Section 16197 - Advanced Energy Technology Transfer Centers"
 usc_title: 42
 usc_section: "16197"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16197"
-generated_at: "2026-03-30T02:56:11.472Z"
+generated_at: "2026-11-23T20:27:23.627Z"
+status: "active"
 ---
 
 # § 16197. Advanced Energy Technology Transfer Centers
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:56:11.472Z"
     - **(B)** 1890 Institutions (as defined in section 7601 of title 7 ); and
     - **(C)** 1994 Institutions (as defined in section 7601 of title 7 ).
 - **(i)** In addition to amounts otherwise authorized to be appropriated in section 16191 of this title , there are authorized to be appropriated for the program under this section such sums as may be appropriated.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 917](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 863](https://www.govinfo.gov/link/statute/119/863); [Pub. L. 110–229, title VI, § 601](https://www.govinfo.gov/link/plaw/110/public/229), May 8, 2008, [122 Stat. 850](https://www.govinfo.gov/link/statute/122/850).)*

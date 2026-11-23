@@ -3,9 +3,10 @@ title: "Section 965 - Brookwood-Sago Mine Safety Grants"
 usc_title: 30
 usc_section: "965"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 965"
-generated_at: "2026-03-30T02:55:29.394Z"
+generated_at: "2026-11-23T20:26:34.983Z"
+status: "active"
 ---
 
 # § 965. Brookwood-Sago Mine Safety Grants
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:29.394Z"
   - **(3)** In awarding grants under this section, the Secretary of Labor shall give priority to the funding of pilot and demonstration projects that the Secretary determines will provide opportunities for broad applicability for mine safety.
 - **(f)** The Secretary of Labor shall use not less than 1 percent of the funds made available to carry out this section in a fiscal year to conduct evaluations of the projects funded under grants under this section.
 - **(g)** There are authorized to be appropriated for each fiscal year, such sums as may be necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 109–236, § 14](https://www.govinfo.gov/link/plaw/109/public/236), June 15, 2006, [120 Stat. 504](https://www.govinfo.gov/link/statute/120/504).)*

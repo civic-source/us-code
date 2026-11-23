@@ -3,9 +3,10 @@ title: "Section 280i - Developmental disabilities surveillance and research prog
 usc_title: 42
 usc_section: "280i"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 280i"
-generated_at: "2026-03-30T02:56:10.734Z"
+generated_at: "2026-11-23T20:27:20.181Z"
+status: "active"
 ---
 
 # § 280i. Developmental disabilities surveillance and research program
@@ -26,3 +27,19 @@ generated_at: "2026-03-30T02:56:10.734Z"
   - **(2)** The term “other developmental disabilities” has the meaning given the term “developmental disability” in section 15002(8) of this title .
   - **(3)** The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the Virgin Islands, and the Trust Territory of the Pacific Islands.
 - **(e)** This section shall not apply after September 30, 2029 .
+
+Tribe; tribal
+
+tribe; tribal
+
+In General
+
+Annual Report
+
+In General
+
+Duties
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 399AA, as added [Pub. L. 109–416, § 3(a)](https://www.govinfo.gov/link/plaw/109/public/416), Dec. 19, 2006, [120 Stat. 2822](https://www.govinfo.gov/link/statute/120/2822); amended [Pub. L. 112–32, § 2(1)](https://www.govinfo.gov/link/plaw/112/public/32), Sept. 30, 2011, [125 Stat. 361](https://www.govinfo.gov/link/statute/125/361); [Pub. L. 113–157, § 3](https://www.govinfo.gov/link/plaw/113/public/157), Aug. 8, 2014, [128 Stat. 1831](https://www.govinfo.gov/link/statute/128/1831); [Pub. L. 116–60, § 3(a)](https://www.govinfo.gov/link/plaw/116/public/60), Sept. 30, 2019, [133 Stat. 1111](https://www.govinfo.gov/link/statute/133/1111); [Pub. L. 118–83, div. B, title II, § 201(a)](https://www.govinfo.gov/link/plaw/118/public/83), Sept. 26, 2024, [138 Stat. 1537](https://www.govinfo.gov/link/statute/138/1537); [Pub. L. 118–180, § 3(a)](https://www.govinfo.gov/link/plaw/118/public/180), Dec. 23, 2024, [138 Stat. 2615](https://www.govinfo.gov/link/statute/138/2615).)*

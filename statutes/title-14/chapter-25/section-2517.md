@@ -3,9 +3,10 @@ title: "Section 2517 - Authority for certain personnel"
 usc_title: 14
 usc_section: "2517"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 2517"
-generated_at: "2026-03-30T02:53:51.500Z"
+generated_at: "2026-11-23T20:25:54.611Z"
+status: "active"
 ---
 
 # § 2517. Authority for certain personnel
@@ -27,3 +28,15 @@ generated_at: "2026-03-30T02:53:51.500Z"
   - **(4)** The number of employees who were hired under the authority provided under this section who have separated from the Coast Guard.
   - **(5)** Steps the Coast Guard has taken to engage with the Office of Personnel Management under subpart B of part 337 of title 5, Code of Federal Regulations, for positions for which the Commandant determines a direct hire authority remains necessary.
 - **(d)** The authority provided under subsection (a) shall expire on September 30, 2030 .
+
+In General
+
+Limitation
+
+Briefing Requirement
+
+Sunset
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. G, title LXXII, § 7228(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1707](https://www.govinfo.gov/link/statute/139/1707).)*

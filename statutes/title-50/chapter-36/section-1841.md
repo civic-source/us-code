@@ -3,9 +3,10 @@ title: "Section 1841 - Definitions"
 usc_title: 50
 usc_section: "1841"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 1841"
-generated_at: "2026-03-30T02:56:26.210Z"
+generated_at: "2026-11-23T20:27:30.780Z"
+status: "active"
 ---
 
 # § 1841. Definitions
@@ -26,3 +27,7 @@ As used in this subchapter:
       - **(ii)** identifies a broad geographic region, including the United States, a city, a county, a State, a zip code, or an area code, when not used as part of a specific identifier as described in subparagraph (A).
     - **(C)** For purposes of subparagraph (A), the term “address” means a physical address or electronic address, such as an electronic mail address or temporarily assigned network address (including an Internet protocol address).
     - **(D)** Nothing in this paragraph shall be construed to preclude the use of multiple terms or identifiers to meet the requirements of subparagraph (A).
+
+## Source Credit
+
+*([Pub. L. 95–511, title IV, § 401](https://www.govinfo.gov/link/plaw/95/public/511), as added [Pub. L. 105–272, title VI, § 601(2)](https://www.govinfo.gov/link/plaw/105/public/272), Oct. 20, 1998, [112 Stat. 2404](https://www.govinfo.gov/link/statute/112/2404); amended [Pub. L. 114–23, title II, § 201(b)](https://www.govinfo.gov/link/plaw/114/public/23), June 2, 2015, [129 Stat. 277](https://www.govinfo.gov/link/statute/129/277).)*

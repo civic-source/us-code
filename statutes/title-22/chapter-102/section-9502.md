@@ -3,9 +3,10 @@ title: "Section 9502 - Sense of Congress"
 usc_title: 22
 usc_section: "9502"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9502"
-generated_at: "2026-03-30T02:55:05.466Z"
+generated_at: "2026-11-23T20:26:32.773Z"
+status: "active"
 ---
 
 # § 9502. Sense of Congress
@@ -15,3 +16,7 @@ It is the sense of Congress that the President—
   - **(1)** should continue to uphold and seek unity with European and other key partners on sanctions implemented against the Russian Federation, which have been effective and instrumental in countering Russian aggression in Ukraine;
   - **(2)** should engage to the fullest extent possible with partner governments with regard to closing loopholes, including the allowance of extended prepayment for the delivery of goods and commodities and other loopholes, in multilateral and unilateral restrictive measures against the Russian Federation, with the aim of maximizing alignment of those measures; and
   - **(3)** should increase efforts to vigorously enforce compliance with sanctions in place as of August 2, 2017 , with respect to the Russian Federation in response to the crisis in eastern Ukraine, cyber intrusions and attacks, and human rights violators in the Russian Federation.
+
+## Source Credit
+
+*([Pub. L. 115–44, title II, § 212](https://www.govinfo.gov/link/plaw/115/public/44), Aug. 2, 2017, [131 Stat. 899](https://www.govinfo.gov/link/statute/131/899).)*

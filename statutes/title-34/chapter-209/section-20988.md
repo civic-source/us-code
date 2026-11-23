@@ -3,9 +3,10 @@ title: "Section 20988 - Jessica Lunsford Address Verification Grant Program"
 usc_title: 34
 usc_section: "20988"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 20988"
-generated_at: "2026-03-30T02:55:33.302Z"
+generated_at: "2026-11-23T20:26:50.614Z"
+status: "active"
 ---
 
 # § 20988. Jessica Lunsford Address Verification Grant Program
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:33.302Z"
     - **(A)** assessing the effectiveness and value of this section;
     - **(B)** comparing the cost effectiveness of address verification to reduce sex offenses compared to other alternatives; and
     - **(C)** making recommendations for continuing funding and the appropriate levels for such funding.
+
+## Source Credit
+
+*([Pub. L. 109–248, title VI, § 631](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 641](https://www.govinfo.gov/link/statute/120/641).)*

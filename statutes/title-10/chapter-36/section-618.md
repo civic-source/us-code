@@ -3,9 +3,10 @@ title: "Section 618 - Action on reports of selection boards"
 usc_title: 10
 usc_section: "618"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 618"
-generated_at: "2026-03-30T02:53:38.068Z"
+generated_at: "2026-11-23T20:25:51.016Z"
+status: "active"
 ---
 
 # § 618. Action on reports of selection boards
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:53:38.068Z"
     - **(B)** the name of any officer whose promotion the Senate failed to confirm, if dissemination is under the authority of subparagraph (C) of such paragraph.
 - **[(f)** Repealed. Pub. L. 109–364, div. A, title V, § 547(a)(2) , Oct. 17, 2006 , 120 Stat. 2216 .]
 - **(g)** If the Secretary of a military department or the Secretary of Defense makes a recommendation under this section that the name of an officer be removed from a report of a selection board and the recommendation is accompanied by information that was not presented to that selection board, that information shall be made available to that officer. The officer shall then be afforded a reasonable opportunity to submit comments on that information to the officials making the recommendation and the officials reviewing the recommendation. If an eligible officer cannot be given access to such information because of its classification status, the officer shall, to the maximum extent practicable, be provided with an appropriate summary of the information.
+
+## Source Credit
+
+*(Added [Pub. L. 96–513, title I, § 105](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2853](https://www.govinfo.gov/link/statute/94/2853); amended [Pub. L. 98–525, title V, § 524(a)](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2524](https://www.govinfo.gov/link/statute/98/2524); [Pub. L. 99–433, title IV, § 402(c)](https://www.govinfo.gov/link/plaw/99/public/433), Oct. 1, 1986, [100 Stat. 1030](https://www.govinfo.gov/link/statute/100/1030); [Pub. L. 100–456, div. A, title V, § 501(d)](https://www.govinfo.gov/link/plaw/100/public/456), Sept. 29, 1988, [102 Stat. 1966](https://www.govinfo.gov/link/statute/102/1966); [Pub. L. 102–190, div. A, title V, § 504(c)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1357](https://www.govinfo.gov/link/statute/105/1357); [Pub. L. 102–484, div. A, title X, § 1052(8)](https://www.govinfo.gov/link/plaw/102/public/484), (9), Oct. 23, 1992, [106 Stat. 2499](https://www.govinfo.gov/link/statute/106/2499); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title V, § 503(a)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–100; [Pub. L. 109–364, div. A, title V](https://www.govinfo.gov/link/plaw/109/public/364), §§ 513(a), 547(a)(2), Oct. 17, 2006, [120 Stat. 2184](https://www.govinfo.gov/link/statute/120/2184), 2216; [Pub. L. 111–383, div. A, title V, § 522(c)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4215](https://www.govinfo.gov/link/statute/124/4215); [Pub. L. 119–60, div. A, title V, § 503(a)(1)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 855](https://www.govinfo.gov/link/statute/139/855).)*

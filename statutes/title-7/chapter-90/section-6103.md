@@ -3,9 +3,10 @@ title: "Section 6103 - Issuance of orders"
 usc_title: 7
 usc_section: "6103"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6103"
-generated_at: "2026-03-30T02:53:42.424Z"
+generated_at: "2026-11-23T20:25:41.682Z"
+status: "active"
 ---
 
 # § 6103. Issuance of orders
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:42.424Z"
 - **(c)**
   - **(1)** The Secretary, from time to time, may amend any order issued under this section.
   - **(2)** The provisions of this chapter applicable to an order shall be applicable to amendments to the order.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XIX, § 1924](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3856](https://www.govinfo.gov/link/statute/104/3856).)*

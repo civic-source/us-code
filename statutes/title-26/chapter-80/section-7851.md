@@ -3,9 +3,10 @@ title: "Section 7851 - Applicability of revenue laws"
 usc_title: 26
 usc_section: "7851"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 7851"
-generated_at: "2026-03-30T02:55:27.887Z"
+generated_at: "2026-11-23T20:26:46.854Z"
+status: "active"
 ---
 
 # § 7851. Applicability of revenue laws
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:55:27.887Z"
 - **(c)** All offenses committed, and all penalties or forfeitures incurred, under any provision of law hereby repealed, may be prosecuted and punished in the same manner and with the same effect as if this title had not been enacted.
 - **(d)** All periods of limitation, whether applicable to civil causes and proceedings, or to the prosecution of offenses, or for the recovery of penalties or forfeitures, hereby repealed shall not be affected thereby, but all suits, proceedings, or prosecutions, whether civil or criminal, for causes arising, or acts done or committed, prior to said repeal, may be commenced and prosecuted within the same time as if this title had not been enacted.
 - **(e)** For the purpose of applying the Internal Revenue Code of 1939 or the Internal Revenue Code of 1986 to any period, any reference in either such code to another provision of the Internal Revenue Code of 1939 or the Internal Revenue Code of 1986 which is not then applicable to such period shall be deemed a reference to the corresponding provision of the other code which is then applicable to such period.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 919; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 115–141, div. U, title IV, § 401(a)(335)](https://www.govinfo.gov/link/plaw/115/public/141), (336), Mar. 23, 2018, [132 Stat. 1200](https://www.govinfo.gov/link/statute/132/1200).)*

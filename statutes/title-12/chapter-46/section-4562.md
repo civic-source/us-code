@@ -3,9 +3,10 @@ title: "Section 4562 - Single-family housing goals"
 usc_title: 12
 usc_section: "4562"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4562"
-generated_at: "2026-03-30T02:53:53.508Z"
+generated_at: "2026-11-23T20:25:59.395Z"
+status: "active"
 ---
 
 # § 4562. Single-family housing goals
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:53:53.508Z"
 - **(g)** In monitoring the performance of each enterprise pursuant to the housing goals under this section and evaluating such performance (for purposes of section 4566 of this title ), the Director shall consider a mortgagor’s income to be such income at the time of origination of the mortgage.
 - **(h)** Mortgages financing two- to four-unit owner-occupied properties shall count toward the achievement of the single-family housing goals under this section, if such properties otherwise meet the requirements under this section, notwithstanding the use of one or more units for rental purposes.
 - **(i)** The Director shall determine whether an enterprise shall receive full, partial, or no credit for a transaction toward achievement of any of the housing goals established pursuant to section 4562 and 4563 of this title. In making any such determination, the Director shall consider whether a transaction or activity of an enterprise is substantially equivalent to a mortgage purchase and either (1) creates a new market, or (2) adds liquidity to an existing market. No credit toward the achievement of the housing goals and subgoals established under this section may be given to the purchase of mortgages, including any transaction or activity of an enterprise determined to be substantially equivalent to a mortgage purchase, that is determined to be unacceptable or contrary to good lending practices, inconsistent with safety and soundness, or unauthorized for purchase by the enterprises, pursuant to regulations issued by the Director.
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1332](https://www.govinfo.gov/link/plaw/102/public/550), as added [Pub. L. 110–289, div. A, title I, § 1128(b)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2697](https://www.govinfo.gov/link/statute/122/2697).)*

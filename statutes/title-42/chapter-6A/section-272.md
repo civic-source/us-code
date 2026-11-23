@@ -3,12 +3,17 @@ title: "Section 272 - Administration of oaths by quarantine officers"
 usc_title: 42
 usc_section: "272"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 272"
-generated_at: "2026-03-30T02:56:10.724Z"
+generated_at: "2026-11-23T20:27:20.131Z"
+status: "active"
 ---
 
 # § 272. Administration of oaths by quarantine officers
 
 Medical officers of the United States, when performing duties as quarantine officers at any port or place within the United States, are authorized to take declarations and administer oaths in matters pertaining to the administration of the quarantine laws and regulations of the United States.
 
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 369, [58 Stat. 706](https://www.govinfo.gov/link/statute/58/706).)*

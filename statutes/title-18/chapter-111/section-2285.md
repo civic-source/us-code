@@ -3,9 +3,10 @@ title: "Section 2285 - Operation of submersible vessel or semi-submersible vesse
 usc_title: 18
 usc_section: "2285"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2285"
-generated_at: "2026-03-30T02:54:16.501Z"
+generated_at: "2026-11-23T20:26:08.588Z"
+status: "active"
 ---
 
 # § 2285. Operation of submersible vessel or semi-submersible vessel without nationality
@@ -30,3 +31,27 @@ generated_at: "2026-03-30T02:54:16.501Z"
 - **(f)** Nothing in this section applies to lawfully authorized activities carried out by or at the direction of the United States Government.
 - **(g)** Sections 70504 and 70505 of title 46 apply to offenses under this section in the same manner as they apply to offenses under section 70503 of such title.
 - **(h)** In this section, the terms “submersible vessel”, “semi-submersible vessel”, “vessel of the United States”, and “vessel without nationality” have the meaning given those terms in section 70502 of title 46 .
+
+Offense
+
+Evidence of Intent To Evade Detection
+
+Extraterritorial Jurisdiction
+
+Claim of Nationality or Registry
+
+Affirmative Defenses.—
+
+In general
+
+Production of documents
+
+Federal Activities Excepted
+
+Applicability of Other Provisions
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 110–407, title I, § 102(a)](https://www.govinfo.gov/link/plaw/110/public/407), Oct. 13, 2008, [122 Stat. 4296](https://www.govinfo.gov/link/statute/122/4296).)*

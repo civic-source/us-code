@@ -3,9 +3,10 @@ title: "Section 1717a - Civil money penalties"
 usc_title: 15
 usc_section: "1717a"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1717a"
-generated_at: "2026-03-30T02:54:08.159Z"
+generated_at: "2026-11-23T20:26:04.131Z"
+status: "active"
 ---
 
 # § 1717a. Civil money penalties
@@ -28,3 +29,9 @@ generated_at: "2026-03-30T02:54:08.159Z"
 - **(f)** The term “knowingly” means having actual knowledge of or acting with deliberate ignorance of or reckless disregard for the prohibitions under this section.
 - **(g)** The Director shall issue such regulations as the Director deems appropriate to implement this section.
 - **(h)** Civil money penalties collected under this section shall be paid to the Director and, upon approval in an appropriation Act, may be used by the Director to cover all or part of the cost of rendering services under this chapter.
+
+“The amendment made by subsection (a) [enacting this section] shall apply only with respect to—
+
+## Source Credit
+
+*([Pub. L. 90–448, title XIV, § 1418a](https://www.govinfo.gov/link/plaw/90/public/448), as added [Pub. L. 101–235, title I, § 111(a)](https://www.govinfo.gov/link/plaw/101/public/235), Dec. 15, 1989, [103 Stat. 2014](https://www.govinfo.gov/link/statute/103/2014); amended [Pub. L. 111–203, title X, § 1098A(1)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2105](https://www.govinfo.gov/link/statute/124/2105).)*

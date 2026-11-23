@@ -3,9 +3,10 @@ title: "Section 4336e - Definitions"
 usc_title: 42
 usc_section: "4336e"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4336e"
-generated_at: "2026-03-30T02:56:11.201Z"
+generated_at: "2026-11-23T20:27:22.375Z"
+status: "active"
 ---
 
 # § 4336e. Definitions
@@ -38,3 +39,7 @@ In this subchapter:
   - **(11)** The term “programmatic environmental document” means an environmental impact statement or environmental assessment analyzing all or some of the environmental effects of a policy, program, plan, or group of related actions.
   - **(12)** The term “proposal” means a proposed action at a stage when an agency has a goal, is actively preparing to make a decision on one or more alternative means of accomplishing that goal, and can meaningfully evaluate its effects.
   - **(13)** The term “special expertise” means statutory responsibility, agency mission, or related program experience.
+
+## Source Credit
+
+*([Pub. L. 91–190, title I, § 111](https://www.govinfo.gov/link/plaw/91/public/190), as added [Pub. L. 118–5, div. C, title III, § 321(b)](https://www.govinfo.gov/link/plaw/118/public/5), June 3, 2023, [137 Stat. 44](https://www.govinfo.gov/link/statute/137/44).)*

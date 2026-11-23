@@ -3,9 +3,10 @@ title: "Section 21113 - Purpose of ICAC task forces"
 usc_title: 34
 usc_section: "21113"
 chapter: 211
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 21113"
-generated_at: "2026-03-30T02:55:33.302Z"
+generated_at: "2026-11-23T20:26:50.616Z"
+status: "active"
 ---
 
 # § 21113. Purpose of ICAC task forces
@@ -24,3 +25,7 @@ The ICAC Task Force Program, and each State or local ICAC task force that is par
   - **(10)** educating the judiciary on—
     - **(A)** the link between intrafamilial contact offenses and technology-facilitated crimes; and
     - **(B)** characteristics of internet offenders, including the interest of online offenders in incest-themed material, sadism, and other related paraphilias or illegal activity.
+
+## Source Credit
+
+*([Pub. L. 110–401, title I, § 103](https://www.govinfo.gov/link/plaw/110/public/401), Oct. 13, 2008, [122 Stat. 4234](https://www.govinfo.gov/link/statute/122/4234); [Pub. L. 119–60, div. H, title LXXXII, § 8202(c)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1842](https://www.govinfo.gov/link/statute/139/1842).)*

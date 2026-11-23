@@ -3,9 +3,10 @@ title: "Section 139 - Provider requirements to protect patients and improve the 
 usc_title: 42
 usc_section: "139"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 139"
-generated_at: "2026-03-30T02:56:10.841Z"
+generated_at: "2026-11-23T20:27:20.681Z"
+status: "active"
 ---
 
 # § 300gg–139. Provider requirements to protect patients and improve the accuracy of provider directory information
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:10.841Z"
   - **(2)** that the plan or issuer bear financial responsibility, including under section 300gg–115(b) of this title , section 1185i(b) of title 29 , or section 9820(b) of title 26 , as applicable, for providing inaccurate network status information to an enrollee.
 - **(d)** For purposes of this section, the term “provider directory information” includes the names, addresses, specialty, telephone numbers, and digital contact information of individual health care providers, and the names, addresses, telephone numbers, and digital contact information of each medical group, clinic, or facility contracted to participate in any of the networks of the group health plan or health insurance coverage involved.
 - **(e)** Nothing in this section shall be construed to preempt any provision of State law relating to health care provider directories.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXVII, § 2799B–9, as added [Pub. L. 116–260, div. BB, title I, § 116(e)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2887](https://www.govinfo.gov/link/statute/134/2887).)*

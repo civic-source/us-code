@@ -3,9 +3,10 @@ title: "Section 8032 - Strategic plan"
 usc_title: 16
 usc_section: "8032"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 8032"
-generated_at: "2026-03-30T02:54:23.081Z"
+generated_at: "2026-11-23T20:26:20.867Z"
+status: "active"
 ---
 
 # § 8032. Strategic plan
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:23.081Z"
   - **(3)** In selecting priority flag states under paragraph (1), the Working Group shall select countries—
     - **(A)** the flagged vessels of which actively engage in, knowingly profit from, or are complicit in IUU fishing; and
     - **(B)** that lack the capacity to police their fleet.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. C, title XXXV, § 3552](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2006](https://www.govinfo.gov/link/statute/133/2006).)*

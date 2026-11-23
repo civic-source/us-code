@@ -3,9 +3,10 @@ title: "Section 892b - Quality assurance program"
 usc_title: 33
 usc_section: "892b"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 892b"
-generated_at: "2026-03-30T02:55:41.074Z"
+generated_at: "2026-11-23T20:26:53.926Z"
+status: "active"
 ---
 
 # § 892b. Quality assurance program
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:41.074Z"
 - **(e)** After November 13, 1998 , the Administrator may not—
   - **(1)** establish any fee or other charge for the provision of any hydrographic service except as authorized by this section; or
   - **(2)** increase the amount of any fee or other charge for the provision of any hydrographic service except as authorized by this section and section 1307 of title 44 .
+
+## Source Credit
+
+*([Pub. L. 105–384, title III, § 304](https://www.govinfo.gov/link/plaw/105/public/384), Nov. 13, 1998, [112 Stat. 3455](https://www.govinfo.gov/link/statute/112/3455); [Pub. L. 107–372, title I, § 104(a)](https://www.govinfo.gov/link/plaw/107/public/372), Dec. 19, 2002, [116 Stat. 3080](https://www.govinfo.gov/link/statute/116/3080); [Pub. L. 117–263, div. J, title CIII, § 10308(c)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3980](https://www.govinfo.gov/link/statute/136/3980).)*

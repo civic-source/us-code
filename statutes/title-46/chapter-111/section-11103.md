@@ -3,9 +3,10 @@ title: "Section 11103 - Slop chests"
 usc_title: 46
 usc_section: "11103"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 11103"
-generated_at: "2026-03-30T02:56:15.554Z"
+generated_at: "2026-11-23T20:27:27.162Z"
+status: "active"
 ---
 
 # § 11103. Slop chests
@@ -20,3 +21,16 @@ generated_at: "2026-03-30T02:56:15.554Z"
   - **(7)** a complete supply of tobacco and blankets.
 - **(b)** Merchandise in the slop chest shall be sold to a seaman desiring it, for the use of the seaman, at a profit of not more than 10 percent of the reasonable wholesale value of the merchandise at the port at which the voyage began.
 - **(c)** This section does not apply to a vessel on a voyage to Canada, Bermuda, the West Indies, Mexico, or Central America, or a fishing or whaling vessel.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 11103 | 46:670 46:671 |
+
+
+Historical and Revision Notes
+
+11103
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 578](https://www.govinfo.gov/link/statute/97/578).)*

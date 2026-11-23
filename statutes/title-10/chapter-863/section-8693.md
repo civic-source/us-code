@@ -3,9 +3,10 @@ title: "Section 8693 - Biennial report on shipbuilder training and the defense i
 usc_title: 10
 usc_section: "8693"
 chapter: 863
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 8693"
-generated_at: "2026-03-30T02:53:38.249Z"
+generated_at: "2026-11-23T20:25:52.229Z"
+status: "active"
 ---
 
 # § 8693. Biennial report on shipbuilder training and the defense industrial base
@@ -21,3 +22,11 @@ generated_at: "2026-03-30T02:53:38.249Z"
 - **(b)** In order to carry out subsection (a)(2), the Secretary of the Navy and Secretary of Labor shall—
   - **(1)** solicit information regarding the age demographics and occupational experience level from the private shipyards of the shipbuilding defense industrial base; and
   - **(2)** analyze such information for findings relevant to carrying out subsection (a)(2), including findings related to the current and projected defense shipbuilding workforce, current and projected labor needs, and the readiness of the current and projected workforce to supply the proficiencies analyzed in subsection (a)(1).
+
+In General
+
+Solicitation and Analysis of Information
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. A, title X, § 1026(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3843](https://www.govinfo.gov/link/statute/134/3843), § 8692; renumbered § 8693 and amended [Pub. L. 117–81, div. A, title X, § 1015](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1894](https://www.govinfo.gov/link/statute/135/1894).)*

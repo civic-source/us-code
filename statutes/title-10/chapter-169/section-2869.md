@@ -3,9 +3,10 @@ title: "Section 2869 - Exchange of property at military installations"
 usc_title: 10
 usc_section: "2869"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2869"
-generated_at: "2026-03-30T02:53:38.181Z"
+generated_at: "2026-11-23T20:25:51.746Z"
+status: "active"
 ---
 
 # § 2869. Exchange of property at military installations
@@ -43,3 +44,21 @@ generated_at: "2026-03-30T02:53:38.181Z"
 - **(e)** The Secretary concerned shall deposit funds received under subsection (b) in the appropriation “Foreign Currency Fluctuations, Construction, Defense”. The funds deposited shall be available, in such amounts as provided in appropriation Acts, for the purpose of paying increased costs of overseas military construction and family housing construction or improvement associated with unfavorable fluctuations in currency exchange rates. The use of such funds for this purpose does not relieve the Secretary concerned from the duty to provide advance notice to Congress under section 2853(c) of this title whenever the Secretary approves an increase in the cost of an overseas project under such section.
 - **(f)** The exact acreage and legal description of real property conveyed under subsection (a) shall be determined by surveys satisfactory to the Secretary concerned.
 - **(g)** The Secretary concerned may require such additional terms and conditions in connection with a conveyance under subsection (a) as the Secretary considers appropriate to protect the interests of the United States.
+
+Exchange Authorized
+
+Conditions on Conveyance Authority
+
+Limitation on Use of Conveyance Authority at Installations Closed Under Base Closure Laws
+
+Advance Notice of Use of Authority
+
+Deposit and Use of Funds
+
+Description of Property
+
+Additional Terms and Conditions
+
+## Source Credit
+
+*(Added [Pub. L. 108–136, div. B, title XXVIII, § 2805(a)(1)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1719](https://www.govinfo.gov/link/statute/117/1719); amended [Pub. L. 109–364, div. B, title XXVIII, § 2811(a)](https://www.govinfo.gov/link/plaw/109/public/364) –(f)(1), Oct. 17, 2006, [120 Stat. 2471–2473](https://www.govinfo.gov/link/statute/120/2471); [Pub. L. 111–84, div. B, title XXVIII, § 2804(a)](https://www.govinfo.gov/link/plaw/111/public/84) –(d)(1), Oct. 28, 2009, [123 Stat. 2661](https://www.govinfo.gov/link/statute/123/2661), 2662; [Pub. L. 112–81, div. B, title XXVIII, § 2815(a)](https://www.govinfo.gov/link/plaw/112/public/81), (b), Dec. 31, 2011, [125 Stat. 1688](https://www.govinfo.gov/link/statute/125/1688), 1689; [Pub. L. 112–239, div. B, title XXVIII, § 2811](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2150](https://www.govinfo.gov/link/statute/126/2150); [Pub. L. 115–91, div. B, title XXVIII](https://www.govinfo.gov/link/plaw/115/public/91), §§ 2801(c)(6), 2815, 2816, Dec. 12, 2017, [131 Stat. 1844](https://www.govinfo.gov/link/statute/131/1844), 1850; [Pub. L. 116–283, div. B, title XXVIII, § 2862(a)](https://www.govinfo.gov/link/plaw/116/public/283), (b), Jan. 1, 2021, [134 Stat. 4357](https://www.govinfo.gov/link/statute/134/4357); [Pub. L. 118–159, div. B, title XXVIII, § 2851](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2269](https://www.govinfo.gov/link/statute/138/2269).)*

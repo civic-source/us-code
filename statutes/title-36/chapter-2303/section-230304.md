@@ -3,9 +3,10 @@ title: "Section 230304 - Governing body"
 usc_title: 36
 usc_section: "230304"
 chapter: 2303
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 230304"
-generated_at: "2026-03-30T02:55:44.711Z"
+generated_at: "2026-11-23T20:26:59.103Z"
+status: "active"
 ---
 
 # § 230304. Governing body
@@ -20,3 +21,37 @@ generated_at: "2026-03-30T02:55:44.711Z"
 - **(c)**
   - **(1)** The officers of the corporation are a national commander, a national senior vice commander, a national junior vice commander, a national quartermaster, a national adjutant, a national judge advocate, 9 regional vice commanders, and other officers as provided in the constitution and bylaws. One individual may hold the offices of national quartermaster and national adjutant.
   - **(2)** The titles, manner of selection, term of office, and duties of the officers are as provided in the constitution and bylaws.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 230304(a) | 36:766(a). | July 18, 1958 , Pub. L. 85–530 , §§ 6(a), 7, 8, 72 Stat. 372 . |
+| 230304(b)(1) | 36:767(a). |  |
+| 230304(b)(2) | 36:767(b), (c). |  |
+| 230304(c) | 36:768. |  |
+
+
+National Convention
+
+Board of Administration
+
+Officers
+
+Historical and Revision Notes
+
+230304(a)
+
+July 18, 1958
+
+Pub. L. 85–530
+
+72 Stat. 372
+
+230304(b)(1)
+
+230304(b)(2)
+
+230304(c)
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1483](https://www.govinfo.gov/link/statute/112/1483).)*

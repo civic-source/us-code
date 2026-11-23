@@ -3,9 +3,10 @@ title: "Section 10218 - Army and Air Force Reserve technicians: conditions for r
 usc_title: 10
 usc_section: "10218"
 chapter: 1007
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 10218"
-generated_at: "2026-03-30T02:53:38.265Z"
+generated_at: "2026-11-23T20:25:52.384Z"
+status: "active"
 ---
 
 # § 10218. Army and Air Force Reserve technicians: conditions for retention; mandatory retirement under civil service laws
@@ -41,3 +42,15 @@ generated_at: "2026-03-30T02:53:38.265Z"
 - **(d)** In this section, the term “voluntary personnel action”, with respect to a non-dual status technician, means any of the following:
   - **(1)** The hiring, entry, appointment, reassignment, promotion, or transfer of the technician into a position for which the Secretary concerned has established a requirement that the person occupying the position be a military technician (dual status).
   - **(2)** Promotion to a higher grade if the technician is in a position for which the Secretary concerned has established a requirement that the person occupying the position be a military technician (dual status).
+
+Separation and Retirement of Military Technicians (Dual Status)
+
+Non-Dual Status Technicians
+
+Unreduced Annuity Defined
+
+Voluntary Personnel Action Defined
+
+## Source Credit
+
+*(Added [Pub. L. 106–65, div. A, title V, § 522(a)(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 595](https://www.govinfo.gov/link/statute/113/595); amended [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title V, § 525(a), title X, § 1087(a)(20)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–108, 1654A–291; [Pub. L. 112–81, div. A, title V, § 514(b)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1394](https://www.govinfo.gov/link/statute/125/1394).)*

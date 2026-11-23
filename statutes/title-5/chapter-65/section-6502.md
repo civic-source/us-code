@@ -3,9 +3,10 @@ title: "Section 6502 - Executive agencies telework requirement"
 usc_title: 5
 usc_section: "6502"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 6502"
-generated_at: "2026-03-30T02:52:56.034Z"
+generated_at: "2026-11-23T20:25:32.045Z"
+status: "active"
 ---
 
 # § 6502. Executive agencies telework requirement
@@ -37,3 +38,25 @@ generated_at: "2026-03-30T02:52:56.034Z"
     - **(D)** otherwise jeopardize legitimate Government interests;
   - **(2)** the employee is eligible to telework under subsections (a) and (b) of this section; and
   - **(3)** the agency determines that it would be appropriate for the employee to perform the duties of the employee through telework.
+
+Telework Eligibility.—
+
+In general
+
+Limitation
+
+Participation
+
+Required Telework
+
+DETO Policy.—
+
+In general
+
+Amendment
+
+Access to ICASS System
+
+## Source Credit
+
+*(Added [Pub. L. 111–292, § 2(a)](https://www.govinfo.gov/link/plaw/111/public/292), Dec. 9, 2010, [124 Stat. 3165](https://www.govinfo.gov/link/statute/124/3165); amended [Pub. L. 114–328, div. A, title XI, § 1138(d)(3)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2469](https://www.govinfo.gov/link/statute/130/2469); [Pub. L. 117–81, div. F, title LXII, § 6202(a)(2)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2389](https://www.govinfo.gov/link/statute/135/2389).)*

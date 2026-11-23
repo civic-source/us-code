@@ -3,9 +3,10 @@ title: "Section 2693 - Sentinel Landscapes Partnership"
 usc_title: 10
 usc_section: "2693"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2693"
-generated_at: "2026-03-30T02:53:38.171Z"
+generated_at: "2026-11-23T20:25:51.662Z"
+status: "active"
 ---
 
 # § 2693. Sentinel Landscapes Partnership
@@ -25,3 +26,29 @@ generated_at: "2026-03-30T02:53:38.171Z"
     - **(A)** one or more military installations or state-owned National Guard installations and associated airspace; and
     - **(B)** the publicly and privately owned lands that serve to protect and support the rural economy, the natural environment, outdoor recreation, and the national defense missions of a military installation or State-owned National Guard installation.
   - **(4)** The term “resilience” means the capability to avoid, prepare for, minimize the effect of, adapt to, and recover from extreme weather events, flooding, wildfire, or other anticipated or unanticipated changes in environmental conditions.
+
+Establishment
+
+Designation of Sentinel Landscapes
+
+Coordination of Activities
+
+Priority Consideration
+
+Participation by Other Agencies
+
+Rule of Construction
+
+Definitions
+
+Military installation
+
+State-owned national guard installation
+
+Sentinel landscape
+
+Resilience
+
+## Source Credit
+
+*(Added and amended [Pub. L. 118–31, div. A, title III, § 311(a)](https://www.govinfo.gov/link/plaw/118/public/31), (b), Dec. 22, 2023, [137 Stat. 213](https://www.govinfo.gov/link/statute/137/213), 214.)*

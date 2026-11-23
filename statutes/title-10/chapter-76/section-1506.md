@@ -3,9 +3,10 @@ title: "Section 1506 - Personnel files"
 usc_title: 10
 usc_section: "1506"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1506"
-generated_at: "2026-03-30T02:53:38.127Z"
+generated_at: "2026-11-23T20:25:51.361Z"
+status: "active"
 ---
 
 # § 1506. Personnel files
@@ -26,3 +27,21 @@ generated_at: "2026-03-30T02:53:38.127Z"
   - **(4)** Whenever the Secretary concerned withholds a debriefing report, or part of a debriefing report, from a personnel file under this subsection, the Secretary shall ensure that the file contains a notice that withheld information exists.
 - **(e)** The Secretary concerned shall, upon request, make available the contents of the personnel file of a missing person to the primary next of kin, the other members of the immediate family, or any other previously designated person of the person.
 - **(f)** A record of the content of a debriefing of a missing person returned to United States control during the period beginning on July 8, 1959 , and ending on February 10, 1996 , that was conducted by an official of the United States authorized to conduct the debriefing is privileged information and, notwithstanding sections 552 and 552a of title 5, may not be disclosed, in whole or in part, under either such section. However, this subsection does not limit the responsibility of the Secretary concerned under paragraphs (3) and (4) of subsection (d) to place extracts of non-derogatory information, or a notice of the existence of such information, in the personnel file of a missing person.
+
+Information in Files
+
+Classified Information
+
+Protection of Privacy
+
+Privileged Information
+
+Availability of Information
+
+Nondisclosure of Certain Information
+
+Wrongful Withholding
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. A, title V, § 569(b)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 346](https://www.govinfo.gov/link/statute/110/346); amended [Pub. L. 104–201, div. A, title V, § 578(d)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2537](https://www.govinfo.gov/link/statute/110/2537); [Pub. L. 105–85, div. A, title V, § 599(f)](https://www.govinfo.gov/link/plaw/105/public/85), (g), Nov. 18, 1997, [111 Stat. 1770](https://www.govinfo.gov/link/statute/111/1770); [Pub. L. 106–65, div. A, title V, § 575](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 624](https://www.govinfo.gov/link/statute/113/624); [Pub. L. 107–107, div. A, title V, § 573](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1122](https://www.govinfo.gov/link/statute/115/1122); [Pub. L. 113–66, div. A, title V, § 582(a)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 776](https://www.govinfo.gov/link/statute/127/776).)*

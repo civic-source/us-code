@@ -3,9 +3,10 @@ title: "Section 326 - Conduct of post-grant review"
 usc_title: 35
 usc_section: "326"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "35 U.S.C. § 326"
-generated_at: "2026-03-30T02:55:34.241Z"
+generated_at: "2026-11-23T20:26:49.152Z"
+status: "active"
 ---
 
 # § 326. Conduct of post-grant review
@@ -32,3 +33,23 @@ generated_at: "2026-03-30T02:55:34.241Z"
   - **(2)** Additional motions to amend may be permitted upon the joint request of the petitioner and the patent owner to materially advance the settlement of a proceeding under section 327, or upon the request of the patent owner for good cause shown.
   - **(3)** An amendment under this subsection may not enlarge the scope of the claims of the patent or introduce new matter.
 - **(e)** In a post-grant review instituted under this chapter, the petitioner shall have the burden of proving a proposition of unpatentability by a preponderance of the evidence.
+
+Regulations
+
+Considerations
+
+Patent Trial and Appeal Board
+
+Amendment of the Patent.—
+
+In general
+
+Additional motions
+
+Scope of claims
+
+Evidentiary Standards
+
+## Source Credit
+
+*(Added [Pub. L. 112–29, § 6(d)](https://www.govinfo.gov/link/plaw/112/public/29), Sept. 16, 2011, [125 Stat. 308](https://www.govinfo.gov/link/statute/125/308).)*

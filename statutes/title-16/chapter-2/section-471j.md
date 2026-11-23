@@ -3,9 +3,10 @@ title: "Section 471j - Headwaters Forest and Elk River Property acquisition"
 usc_title: 16
 usc_section: "471j"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 471j"
-generated_at: "2026-03-30T02:54:22.856Z"
+generated_at: "2026-11-23T20:26:20.071Z"
+status: "active"
 ---
 
 # § 471j. Headwaters Forest and Elk River Property acquisition
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:54:22.856Z"
 - **(j)**
   - **(1)** The Secretary of the Interior may enter into agreements with the State of California for the cooperative management of any of the following: Headwaters Forest, Redwood National Park, and proximate State lands. The purpose of such agreements is to acquire from and provide to the State of California goods and services to be used by the Secretary and the State of California in cooperative management of lands if the Secretary determines that appropriations for that purpose are available and an agreement is in the best interests of the United States; and
   - **(2)** an assignment arranged by the Secretary under section 3372 of title 5 of a Federal or State employee for work in any Federal or State of California lands, or an extension of such assignment, may be for any period of time determined by the Secretary or the State of California, as appropriate, to be mutually beneficial.
+
+## Source Credit
+
+*([Pub. L. 105–83, title V, § 501](https://www.govinfo.gov/link/plaw/105/public/83), Nov. 14, 1997, [111 Stat. 1610](https://www.govinfo.gov/link/statute/111/1610).)*

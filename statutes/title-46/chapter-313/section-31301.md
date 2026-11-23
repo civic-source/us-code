@@ -3,9 +3,10 @@ title: "Section 31301 - Definitions"
 usc_title: 46
 usc_section: "31301"
 chapter: 313
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 31301"
-generated_at: "2026-03-30T02:56:15.562Z"
+generated_at: "2026-11-23T20:27:27.214Z"
+status: "active"
 ---
 
 # § 31301. Definitions
@@ -37,3 +38,31 @@ In this chapter—
     - **(A)** means a mortgage that is a preferred mortgage under section 31322 of this title ; and
     - **(B)** also means in sections 31325 and 31326 of this title, a mortgage, hypothecation, or similar charge that is established as a security on a foreign vessel if the mortgage, hypothecation, or similar charge was executed under the laws of the foreign country under whose laws the ownership of the vessel is documented and has been registered under those laws in a public register at the port of registry of the vessel or at a central office; and
   - **(7)** “Secretary” means the Secretary of the Department of Homeland Security, unless otherwise noted.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 31301(1), (2) | New |
+| 31301(3) | 46:911(5) |
+| 31301(4) | Derived from 46:971–974 |
+| 31301(5) | 46:953(a) |
+| 31301(6)(A) | 46:922(b) |
+| 31301(6)(B) | 46:951 (2d par. less proviso) |
+
+
+Historical and Revision Notes
+
+31301(1), (2)
+
+31301(3)
+
+31301(4)
+
+31301(5)
+
+31301(6)(A)
+
+31301(6)(B)
+
+## Source Credit
+
+*([Pub. L. 100–710, title I, § 102(c)](https://www.govinfo.gov/link/plaw/100/public/710), Nov. 23, 1988, [102 Stat. 4739](https://www.govinfo.gov/link/statute/102/4739); [Pub. L. 111–281, title IX, § 913(a)(2)](https://www.govinfo.gov/link/plaw/111/public/281) –(4), Oct. 15, 2010, [124 Stat. 3017](https://www.govinfo.gov/link/statute/124/3017).)*

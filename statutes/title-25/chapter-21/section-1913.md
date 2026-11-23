@@ -3,9 +3,10 @@ title: "Section 1913 - Parental rights; voluntary termination"
 usc_title: 25
 usc_section: "1913"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1913"
-generated_at: "2026-03-30T02:54:52.830Z"
+generated_at: "2026-11-23T20:26:25.551Z"
+status: "active"
 ---
 
 # § 1913. Parental rights; voluntary termination
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:52.830Z"
 - **(b)** Any parent or Indian custodian may withdraw consent to a foster care placement under State law at any time and, upon such withdrawal, the child shall be returned to the parent or Indian custodian.
 - **(c)** In any voluntary proceeding for termination of parental rights to, or adoptive placement of, an Indian child, the consent of the parent may be withdrawn for any reason at any time prior to the entry of a final decree of termination or adoption, as the case may be, and the child shall be returned to the parent.
 - **(d)** After the entry of a final decree of adoption of an Indian child in any State court, the parent may withdraw consent thereto upon the grounds that consent was obtained through fraud or duress and may petition the court to vacate such decree. Upon a finding that such consent was obtained through fraud or duress, the court shall vacate such decree and return the child to the parent. No adoption which has been effective for at least two years may be invalidated under the provisions of this subsection unless otherwise permitted under State law.
+
+## Source Credit
+
+*([Pub. L. 95–608, title I, § 103](https://www.govinfo.gov/link/plaw/95/public/608), Nov. 8, 1978, [92 Stat. 3072](https://www.govinfo.gov/link/statute/92/3072).)*

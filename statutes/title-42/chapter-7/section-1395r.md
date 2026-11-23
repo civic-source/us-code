@@ -3,9 +3,10 @@ title: "Section 1395r - Amount of premiums for individuals enrolled under this p
 usc_title: 42
 usc_section: "1395r"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1395r"
-generated_at: "2026-03-30T02:56:10.956Z"
+generated_at: "2026-11-23T20:27:21.186Z"
+status: "active"
 ---
 
 # § 1395r. Amount of premiums for individuals enrolled under this part
@@ -68,9 +69,34 @@ generated_at: "2026-03-30T02:56:10.956Z"
       - **(ii)** For 2008, 67 percent.
     - **(C)**
       - **(i)**
-        - **(I)** Subject to paragraphs (5) and (6), for years before 2018: If the modified adjusted gross income is: The applicable percentage is: More than $80,000 but not more than $100,000 35 percent More than $100,000 but not more than $150,000 50 percent More than $150,000 but not more than $200,000 65 percent More than $200,000 80 percent.
-        - **(II)** Subject to paragraph (5), for 2018: If the modified adjusted gross income is: The applicable percentage is: More than $85,000 but not more than $107,000 35 percent More than $107,000 but not more than $133,500 50 percent More than $133,500 but not more than $160,000 65 percent More than $160,000 80 percent.
-        - **(III)** Subject to paragraph (5), for years beginning with 2019: If the modified adjusted gross income is: The applicable percentage is: More than $85,000 but not more than $107,000 35 percent More than $107,000 but not more than $133,500 50 percent More than $133,500 but not more than $160,000 65 percent More than $160,000 but less than $500,000 80 percent At least $500,000 85 percent.
+        - **(I)** Subject to paragraphs (5) and (6), for years before 2018:
+
+| If the modified adjusted gross income is: | The applicable percentage is: |
+| --- | --- |
+| More than $80,000 but not more than $100,000 | 35 percent |
+| More than $100,000 but not more than $150,000 | 50 percent |
+| More than $150,000 but not more than $200,000 | 65 percent |
+| More than $200,000 | 80 percent. |
+
+        - **(II)** Subject to paragraph (5), for 2018:
+
+| If the modified adjusted gross income is: | The applicable percentage is: |
+| --- | --- |
+| More than $85,000 but not more than $107,000 | 35 percent |
+| More than $107,000 but not more than $133,500 | 50 percent |
+| More than $133,500 but not more than $160,000 | 65 percent |
+| More than $160,000 | 80 percent. |
+
+        - **(III)** Subject to paragraph (5), for years beginning with 2019:
+
+| If the modified adjusted gross income is: | The applicable percentage is: |
+| --- | --- |
+| More than $85,000 but not more than $107,000 | 35 percent |
+| More than $107,000 but not more than $133,500 | 50 percent |
+| More than $133,500 but not more than $160,000 | 65 percent |
+| More than $160,000 but less than $500,000 | 80 percent |
+| At least $500,000 | 85 percent. |
+
       - **(ii)** In the case of a joint return, clause (i) shall be applied by substituting dollar amounts which are twice the dollar amounts otherwise applicable under clause (i) for the calendar year except, with respect to the dollar amounts applied in the last row of the table under subclause (III) of such clause (and the second dollar amount specified in the second to last row of such table), clause (i) shall be applied by substituting dollar amounts which are 150 percent of such dollar amounts for the calendar year.
       - **(iii)** In the case of an individual who—
         - **(I)** is married as of the close of the taxable year (within the meaning of section 7703 of the Internal Revenue Code of 1986) but does not file a joint return for such year, and
@@ -107,3 +133,37 @@ generated_at: "2026-03-30T02:56:10.956Z"
     - **(B)** the dollar amounts otherwise applicable under paragraph (3)(C)(i) shall be equal to such dollar amounts for 2010.
   - **(7)** For purposes of this subsection, the term “joint return” has the meaning given to such term by section 7701(a)(38) of the Internal Revenue Code of 1986.
 - **(j)** The Secretary shall, during September of each year (beginning with 2022), determine and promulgate a monthly premium rate for the succeeding calendar year for individuals enrolled only for the purpose of coverage of immunosuppressive drugs under section 1395 o (b) of this title. Such premium shall be equal to 15 percent of the monthly actuarial rate for enrollees age 65 and over (as would be determined in accordance with subsection (a)(1) if the reference to “one-half” in such subsection were a reference to “100 percent”) for that succeeding calendar year. The monthly premium of each individual enrolled for coverage of immunosuppressive drugs under section 1395 o (b) of this title for each month shall be the amount promulgated in this subsection. In the case of such individual not otherwise enrolled under this part, such premium shall be in lieu of any other monthly premium applicable under this section. Such amount shall be adjusted in accordance with subsections (c), (f), and (i), but shall not be adjusted under subsection (b).
+
+More than $80,000 but not more than $100,000
+
+More than $100,000 but not more than $150,000
+
+More than $150,000 but not more than $200,000
+
+More than $200,000
+
+More than $85,000 but not more than $107,000
+
+More than $107,000 but not more than $133,500
+
+More than $133,500 but not more than $160,000
+
+More than $160,000
+
+More than $85,000 but not more than $107,000
+
+More than $107,000 but not more than $133,500
+
+More than $133,500 but not more than $160,000
+
+More than $160,000 but less than $500,000
+
+At least $500,000
+
+“The amendments made by this section [amending this section and sections 1395i–2, 1395v, 1395w, and 1395mm of this title] shall apply to premiums for months beginning with January 1984, and for months after June 1983 and before January 1984—
+
+“Notwithstanding the provisions of section 1839(a) and (b) of the Social Security Act [ 42 U.S.C. 1395r(a) , (b)]—
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1839, as added [Pub. L. 89–97, title I, § 102(a)](https://www.govinfo.gov/link/plaw/89/public/97), July 30, 1965, [79 Stat. 305](https://www.govinfo.gov/link/statute/79/305); amended [Pub. L. 90–248, title I, § 145(d)](https://www.govinfo.gov/link/plaw/90/public/248), Jan. 2, 1968, [81 Stat. 859](https://www.govinfo.gov/link/statute/81/859); [Pub. L. 92–603, title II](https://www.govinfo.gov/link/plaw/92/public/603), §§ 201(c)(4), (5), 203 (a)–(d), Oct. 30, 1972, [86 Stat. 1373](https://www.govinfo.gov/link/statute/86/1373), 1376, 1377; [Pub. L. 94–182, title I, § 104(a)](https://www.govinfo.gov/link/plaw/94/public/182), Dec. 31, 1975, [89 Stat. 1052](https://www.govinfo.gov/link/statute/89/1052); [Pub. L. 95–216, title II, § 205(e)](https://www.govinfo.gov/link/plaw/95/public/216), Dec. 20, 1977, [91 Stat. 1529](https://www.govinfo.gov/link/statute/91/1529); [Pub. L. 96–499, title IX, § 945(c)(2)](https://www.govinfo.gov/link/plaw/96/public/499), Dec. 5, 1980, [94 Stat. 2642](https://www.govinfo.gov/link/statute/94/2642); [Pub. L. 97–35, title XXI, § 2151(a)(4)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 802](https://www.govinfo.gov/link/statute/95/802); [Pub. L. 97–248, title I, § 124(a)](https://www.govinfo.gov/link/plaw/97/public/248), (b), Sept. 3, 1982, [96 Stat. 364](https://www.govinfo.gov/link/statute/96/364); [Pub. L. 97–448, title III, § 309(b)(8)](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2409](https://www.govinfo.gov/link/statute/96/2409); [Pub. L. 98–21, title VI, § 606(a)(1)](https://www.govinfo.gov/link/plaw/98/public/21) –(3)(C), Apr. 20, 1983, [97 Stat. 169](https://www.govinfo.gov/link/statute/97/169), 170; [Pub. L. 98–369, div. B, title III](https://www.govinfo.gov/link/plaw/98/public/369), §§ 2302(a), (b), 2338(a), July 18, 1984, [98 Stat. 1063](https://www.govinfo.gov/link/statute/98/1063), 1091; [Pub. L. 98–617, § 3(b)(4)](https://www.govinfo.gov/link/plaw/98/public/617), Nov. 8, 1984, [98 Stat. 3295](https://www.govinfo.gov/link/statute/98/3295); [Pub. L. 99–272, title IX](https://www.govinfo.gov/link/plaw/99/public/272), §§ 9219(a)(1), 9313, Apr. 7, 1986, [100 Stat. 182](https://www.govinfo.gov/link/statute/100/182), 194; [Pub. L. 99–509, title IX](https://www.govinfo.gov/link/plaw/99/public/509), §§ 9001(c), 9319(c)(4), Oct. 21, 1986, [100 Stat. 1970](https://www.govinfo.gov/link/statute/100/1970), 2012; [Pub. L. 100–203, title IV, § 4080](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–126](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–360, title II, § 211(a)](https://www.govinfo.gov/link/plaw/100/public/360) –(c)(1), July 1, 1988, [102 Stat. 733](https://www.govinfo.gov/link/statute/102/733), 738; [Pub. L. 100–485, title VI, § 608(d)(9)](https://www.govinfo.gov/link/plaw/100/public/485), Oct. 13, 1988, [102 Stat. 2415](https://www.govinfo.gov/link/statute/102/2415); [Pub. L. 101–234, title II, § 202(a)](https://www.govinfo.gov/link/plaw/101/public/234), Dec. 13, 1989, [103 Stat. 1981](https://www.govinfo.gov/link/statute/103/1981); [Pub. L. 101–239, title VI](https://www.govinfo.gov/link/plaw/101/public/239), §§ 6202(b)(4)(C), (c)(2), 6301, Dec. 19, 1989, [103 Stat. 2233](https://www.govinfo.gov/link/statute/103/2233), 2234, 2258; [Pub. L. 101–508, title IV, § 4301](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–125](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–66, title XIII, § 13571](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 609](https://www.govinfo.gov/link/statute/107/609); [Pub. L. 103–432, title I](https://www.govinfo.gov/link/plaw/103/public/432), §§ 144, 151(c)(3), Oct. 31, 1994, [108 Stat. 4427](https://www.govinfo.gov/link/statute/108/4427), 4435; [Pub. L. 105–33, title IV](https://www.govinfo.gov/link/plaw/105/public/33), §§ 4571(a), (b)(1), 4581(a), 4582, 4631(a)(2), Aug. 5, 1997, [111 Stat. 464](https://www.govinfo.gov/link/statute/111/464), 465, 486; [Pub. L. 105–277, div. J, title V, § 5101(e)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–915](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 106–554, § 1(a)(6) [title VI, § 606(a)(2)(B)(i)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–557; [Pub. L. 108–173, title I, § 105(a)](https://www.govinfo.gov/link/plaw/108/public/173), title II, §§ 222(l)(2)(A), 241(b)(2)(A), title VI, § 625(a)(1), title VII, § 736(b)(7), title VIII, § 811(a), (b)(1), Dec. 8, 2003, [117 Stat. 2166](https://www.govinfo.gov/link/statute/117/2166), 2206, 2220, 2317, 2356, 2364, 2367; [Pub. L. 109–171, title V](https://www.govinfo.gov/link/plaw/109/public/171), §§ 5111, 5115(a)(1), Feb. 8, 2006, [120 Stat. 43](https://www.govinfo.gov/link/statute/120/43), 45; [Pub. L. 111–5, div. B, title IV, § 4103(a)(1)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 487](https://www.govinfo.gov/link/statute/123/487); [Pub. L. 111–148, title III](https://www.govinfo.gov/link/plaw/111/public/148), §§ 3110(b), 3402, Mar. 23, 2010, [124 Stat. 420](https://www.govinfo.gov/link/statute/124/420), 488; [Pub. L. 114–10, title IV, § 402](https://www.govinfo.gov/link/plaw/114/public/10), Apr. 16, 2015, [129 Stat. 160](https://www.govinfo.gov/link/statute/129/160); [Pub. L. 114–74, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/114/public/74), (c), Nov. 2, 2015, [129 Stat. 594](https://www.govinfo.gov/link/statute/129/594), 595; [Pub. L. 115–123, div. E, title XII, § 53114](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 305](https://www.govinfo.gov/link/statute/132/305); [Pub. L. 116–159, div. C, title IV, § 2401(a)](https://www.govinfo.gov/link/plaw/116/public/159), (d), Oct. 1, 2020, [134 Stat. 732](https://www.govinfo.gov/link/statute/134/732), 733; [Pub. L. 116–260, div. CC, title I, § 120(a)(2)(C)(ii)](https://www.govinfo.gov/link/plaw/116/public/260), (3), title IV, § 402(a)(2)(B)(i), (d), Dec. 27, 2020, [134 Stat. 2954](https://www.govinfo.gov/link/statute/134/2954), 2999, 3000; [Pub. L. 117–108, title I, § 101(b)(3)](https://www.govinfo.gov/link/plaw/117/public/108), Apr. 6, 2022, [136 Stat. 1136](https://www.govinfo.gov/link/statute/136/1136).)*

@@ -3,9 +3,10 @@ title: "Section 8545 - Warning coordination meteorologists at weather forecast o
 usc_title: 15
 usc_section: "8545"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 8545"
-generated_at: "2026-03-30T02:54:08.232Z"
+generated_at: "2026-11-23T20:26:04.494Z"
+status: "active"
 ---
 
 # § 8545. Warning coordination meteorologists at weather forecast offices of National Weather Service
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:54:08.232Z"
 - **(e)**
   - **(1)** In carrying out this section, the Director of the National Weather Service may place a warning coordination meteorologist designated under subsection (a) with a State or local emergency manager if the Director considers doing so is necessary or convenient to carry out this section.
   - **(2)** If the Director determines that the placement of a warning coordination meteorologist placed with a State or local emergency manager under paragraph (1) is near a weather forecast office of the National Weather Service, such placement shall be treated as designation of the warning coordination meteorologist at such weather forecast office for purposes of subsection (a).
+
+## Source Credit
+
+*([Pub. L. 115–25, title IV, § 405](https://www.govinfo.gov/link/plaw/115/public/25), Apr. 18, 2017, [131 Stat. 107](https://www.govinfo.gov/link/statute/131/107).)*

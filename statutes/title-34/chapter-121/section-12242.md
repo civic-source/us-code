@@ -3,9 +3,10 @@ title: "Section 12242 - Definitions"
 usc_title: 34
 usc_section: "12242"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12242"
-generated_at: "2026-03-30T02:55:33.284Z"
+generated_at: "2026-11-23T20:26:50.540Z"
+status: "active"
 ---
 
 # § 12242. Definitions
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:33.284Z"
     - **(A)** a parent who has consistently assumed responsibility for the housing, health, and safety of a child prior to incarceration; or
     - **(B)** a woman who has given birth to a child after or while awaiting her sentencing hearing and who expresses a willingness to assume responsibility for the housing, health, and safety of that child, a parent who, in the best interest of a child, has arranged for the temporary care of the child in the home of a relative or other responsible adult shall not for that reason be excluded from the category “primary caretaker”. “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands.
 
+
+## Source Credit
+
+*([Pub. L. 103–322, title III, § 31903](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1893](https://www.govinfo.gov/link/statute/108/1893).)*

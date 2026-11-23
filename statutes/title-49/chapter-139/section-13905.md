@@ -3,9 +3,10 @@ title: "Section 13905 - Effective periods of registration"
 usc_title: 49
 usc_section: "13905"
 chapter: 139
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 13905"
-generated_at: "2026-03-30T02:56:19.330Z"
+generated_at: "2026-11-23T20:27:34.749Z"
+status: "active"
 ---
 
 # § 13905. Effective periods of registration
@@ -51,3 +52,47 @@ generated_at: "2026-03-30T02:56:19.330Z"
   - **(2)** Notwithstanding subchapter II of chapter 5 of title 5, the Secretary shall revoke the registration of a motor carrier if the Secretary finds that the carrier is or was conducting unsafe operations that are or were an imminent hazard to public health or property.
   - **(3)** The Secretary may suspend or revoke under this subsection the registration only after giving notice of the suspension or revocation to the registrant. A suspension remains in effect until the registrant complies with the applicable sections or, in the case of a suspension under paragraph (2), until the Secretary revokes the suspension.
 - **(g)** Notwithstanding any other provision of this section, upon an order in accordance with section 324(a) of the United States-Mexico-Canada Agreement Implementation Act, the Secretary shall carry out the relief specified by revoking or imposing limitations on existing registrations of Mexico-domiciled motor carriers of cargo to operate beyond the municipalities along the United States-Mexico international border and the commercial zones of those municipalities as directed.
+
+Person Holding ICC Authority
+
+Person Registered With Secretary.—
+
+In general
+
+Exclusively intrastate operators
+
+Effective Period.—
+
+In general
+
+Reissuance of registration.—
+
+Requirement
+
+Effective period
+
+Suspension, Amendments, and Revocations.—
+
+Applications
+
+Complaints and actions on secretary’s own initiative
+
+Limitation
+
+Regulations
+
+Procedure
+
+Expedited Procedure.—
+
+Protection of safety
+
+Imminent hazard to public health
+
+Notice; period of suspension
+
+Mexico-Domiciled Motor Carriers
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 884](https://www.govinfo.gov/link/statute/109/884); amended [Pub. L. 104–287, § 5(33)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3392](https://www.govinfo.gov/link/statute/110/3392); [Pub. L. 105–102, § 2(10)](https://www.govinfo.gov/link/plaw/105/public/102), Nov. 20, 1997, [111 Stat. 2204](https://www.govinfo.gov/link/statute/111/2204); [Pub. L. 106–159, title II, § 206(a)](https://www.govinfo.gov/link/plaw/106/public/159), Dec. 9, 1999, [113 Stat. 1763](https://www.govinfo.gov/link/statute/113/1763); [Pub. L. 109–59, title IV](https://www.govinfo.gov/link/plaw/109/public/59), §§ 4104, 4303(a), Aug. 10, 2005, [119 Stat. 1716](https://www.govinfo.gov/link/statute/119/1716), 1761; [Pub. L. 110–291, § 2(b)](https://www.govinfo.gov/link/plaw/110/public/291), July 30, 2008, [122 Stat. 2915](https://www.govinfo.gov/link/statute/122/2915); [Pub. L. 112–141, div. C, title II](https://www.govinfo.gov/link/plaw/112/public/141), §§ 32103(a), 32109, 32205, 32917, 32933(a), July 6, 2012, [126 Stat. 778](https://www.govinfo.gov/link/statute/126/778), 782, 785, 821, 830; [Pub. L. 114–94, div. A, title V, § 5508(a)(3)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1554](https://www.govinfo.gov/link/statute/129/1554); [Pub. L. 116–113, title III, § 326(b)](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 60](https://www.govinfo.gov/link/statute/134/60).)*

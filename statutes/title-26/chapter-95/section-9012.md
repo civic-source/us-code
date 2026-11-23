@@ -3,9 +3,10 @@ title: "Section 9012 - Criminal penalties"
 usc_title: 26
 usc_section: "9012"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 9012"
-generated_at: "2026-03-30T02:55:27.890Z"
+generated_at: "2026-11-23T20:26:46.867Z"
+status: "active"
 ---
 
 # § 9012. Criminal penalties
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:27.890Z"
 - **(g)**
   - **(1)** It shall be unlawful for any individual to disclose any information obtained under the provisions of this chapter except as may be required by law.
   - **(2)** Any person who violates paragraph (1) shall be fined not more than $5,000, or imprisoned not more than one year, or both.
+
+## Source Credit
+
+*(Added [Pub. L. 92–178, title VIII, § 801](https://www.govinfo.gov/link/plaw/92/public/178), Dec. 10, 1971, [85 Stat. 570](https://www.govinfo.gov/link/statute/85/570); amended [Pub. L. 93–53, § 6(c)](https://www.govinfo.gov/link/plaw/93/public/53), July 1, 1973, [87 Stat. 139](https://www.govinfo.gov/link/statute/87/139); [Pub. L. 93–443, title IV](https://www.govinfo.gov/link/plaw/93/public/443), §§ 404(c)(22), 406(b)(2)–(6), Oct. 15, 1974, [88 Stat. 1293](https://www.govinfo.gov/link/statute/88/1293), 1296; [Pub. L. 94–283, title III, § 307(f)](https://www.govinfo.gov/link/plaw/94/public/283), May 11, 1976, [90 Stat. 502](https://www.govinfo.gov/link/statute/90/502); [Pub. L. 94–455, title XIX, § 1906(b)(13)(C)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 113–94, § 2(c)(2)](https://www.govinfo.gov/link/plaw/113/public/94), Apr. 3, 2014, [128 Stat. 1086](https://www.govinfo.gov/link/statute/128/1086).)*

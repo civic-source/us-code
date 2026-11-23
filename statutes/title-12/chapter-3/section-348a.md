@@ -3,12 +3,17 @@ title: "Section 348a - Transactions with foreign banks; supervision of Board of 
 usc_title: 12
 usc_section: "348a"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 348a"
-generated_at: "2026-03-30T02:53:53.379Z"
+generated_at: "2026-11-23T20:25:58.744Z"
+status: "active"
 ---
 
 # § 348a. Transactions with foreign banks; supervision of Board of Governors of the Federal Reserve System
 
 The Board of Governors of the Federal Reserve System shall exercise special supervision over all relationships and transactions of any kind entered into by any Federal reserve bank with any foreign bank or banker, or with any group of foreign banks or bankers, and all such relationships and transactions shall be subject to such regulations, conditions, and limitations as the Board may prescribe. No officer or other representative of any Federal reserve bank shall conduct negotiations of any kind with the officers or representatives of any foreign bank or banker without first obtaining the permission of the Board of Governors of the Federal Reserve System. The Board of Governors of the Federal Reserve System shall have the right, in its discretion, to be represented in any conference or negotiations by such representative or representatives as the Board may designate. A full report of all conferences or negotiations, and all understandings or agreements arrived at or transactions agreed upon, and all other material facts appertaining to such conferences or negotiations, shall be filed with the Board of Governors of the Federal Reserve System in writing by a duly authorized officer of each Federal reserve bank which shall have participated in such conferences or negotiations.
 
+
+## Source Credit
+
+*(Dec. 23, 1913, ch. 6, § 14(g), as added June 16, 1933, ch. 89, § 10, [48 Stat. 181](https://www.govinfo.gov/link/statute/48/181); amended Aug. 23, 1935, ch. 614, title II, § 203(a), [49 Stat. 704](https://www.govinfo.gov/link/statute/49/704).)*

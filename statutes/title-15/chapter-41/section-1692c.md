@@ -3,9 +3,10 @@ title: "Section 1692c - Communication in connection with debt collection"
 usc_title: 15
 usc_section: "1692c"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1692c"
-generated_at: "2026-03-30T02:54:08.155Z"
+generated_at: "2026-11-23T20:26:04.108Z"
+status: "active"
 ---
 
 # § 1692c. Communication in connection with debt collection
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:08.155Z"
   - **(2)** to notify the consumer that the debt collector or creditor may invoke specified remedies which are ordinarily invoked by such debt collector or creditor; or
   - **(3)** where applicable, to notify the consumer that the debt collector or creditor intends to invoke a specified remedy.
 - **(d)** For the purpose of this section, the term “consumer” includes the consumer’s spouse, parent (if the consumer is a minor), guardian, executor, or administrator.
+
+## Source Credit
+
+*([Pub. L. 90–321, title VIII, § 805](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 95–109](https://www.govinfo.gov/link/plaw/95/public/109), Sept. 20, 1977, [91 Stat. 876](https://www.govinfo.gov/link/statute/91/876).)*

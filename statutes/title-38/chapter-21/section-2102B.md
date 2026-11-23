@@ -3,9 +3,10 @@ title: "Section 2102B - Adaptations to residences of veterans in rehabilitation 
 usc_title: 38
 usc_section: "2102B"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 2102B"
-generated_at: "2026-03-30T02:55:53.496Z"
+generated_at: "2026-11-23T20:27:01.781Z"
+status: "active"
 ---
 
 # § 2102B. Adaptations to residences of veterans in rehabilitation programs
@@ -17,3 +18,15 @@ generated_at: "2026-03-30T02:55:53.496Z"
   - **(3)** Beginning on October 1, 2019 , the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a biennial report on the use of the waiver authority under paragraph (1).
 - **(c)** The Secretary shall prescribe such regulations as may be necessary to carry out this section.
 - **(d)** In this section, the term “rehabilitation program” has the meaning given such term in section 3101 of this title .
+
+In General
+
+Amount
+
+Regulations
+
+Rehabilitation Program Defined
+
+## Source Credit
+
+*(Added [Pub. L. 115–177, § 1(a)](https://www.govinfo.gov/link/plaw/115/public/177), June 1, 2018, [132 Stat. 1376](https://www.govinfo.gov/link/statute/132/1376).)*

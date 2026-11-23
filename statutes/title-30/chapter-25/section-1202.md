@@ -3,9 +3,10 @@ title: "Section 1202 - Statement of purpose"
 usc_title: 30
 usc_section: "1202"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1202"
-generated_at: "2026-03-30T02:55:29.396Z"
+generated_at: "2026-11-23T20:26:34.993Z"
+status: "active"
 ---
 
 # § 1202. Statement of purpose
@@ -25,3 +26,7 @@ It is the purpose of this chapter to—
 - **(k)** encourage the full utilization of coal resources through the development and application of underground extraction technologies;
 - **(l)** stimulate, sponsor, provide for and/or supplement present programs for the conduct of research investigations, experiments, and demonstrations, in the exploration, extraction, processing, development, and production of minerals and the training of mineral engineers and scientists in the field of mining, minerals resources, and technology, and the establishment of an appropriate research and training center in various States; and
 - **(m)** wherever necessary, exercise the full reach of Federal constitutional powers to insure the protection of the public interest through effective control of surface coal mining operations.
+
+## Source Credit
+
+*([Pub. L. 95–87, title I, § 102](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 448](https://www.govinfo.gov/link/statute/91/448).)*

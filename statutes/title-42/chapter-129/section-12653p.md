@@ -3,9 +3,10 @@ title: "Section 12653p - Volunteer generation fund"
 usc_title: 42
 usc_section: "12653p"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12653p"
-generated_at: "2026-03-30T02:56:11.426Z"
+generated_at: "2026-11-23T20:27:23.418Z"
+status: "active"
 ---
 
 # § 12653p. Volunteer generation fund
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:56:11.426Z"
   - **(2)** 70 percent of such cost for the second year in which the recipient receives such assistance;
   - **(3)** 60 percent of such cost for the third year in which the recipient receives such assistance; and
   - **(4)** 50 percent of such cost for the fourth year in which the recipient receives such assistance and each year thereafter.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 198P](https://www.govinfo.gov/link/plaw/101/public/610), as added [Pub. L. 111–13, title I, § 1808](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1573](https://www.govinfo.gov/link/statute/123/1573).)*

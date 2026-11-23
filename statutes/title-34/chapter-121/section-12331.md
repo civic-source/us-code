@@ -3,9 +3,10 @@ title: "Section 12331 - Research agenda"
 usc_title: 34
 usc_section: "12331"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12331"
-generated_at: "2026-03-30T02:55:33.286Z"
+generated_at: "2026-11-23T20:26:50.544Z"
+status: "active"
 ---
 
 # § 12331. Research agenda
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:33.286Z"
 - **(a)** The Attorney General shall request the National Academy of Sciences, through its National Research Council, to enter into a contract to develop a research agenda to increase the understanding and control of violence against women, including rape and domestic violence. In furtherance of the contract, the National Academy shall convene a panel of nationally recognized experts on violence against women, in the fields of law, medicine, criminal justice, and direct services to victims and experts on domestic violence in diverse, ethnic, social, and language minority communities and the social sciences. In setting the agenda, the Academy shall focus primarily on preventive, educative, social, and legal strategies, including addressing the needs of underserved populations.
 - **(b)** If the National Academy of Sciences declines to conduct the study and develop a research agenda, it shall recommend a nonprofit private entity that is qualified to conduct such a study. In that case, the Attorney General shall carry out subsection (a) through the nonprofit private entity recommended by the Academy. In either case, whether the study is conducted by the National Academy of Sciences or by the nonprofit group it recommends, the funds for the contract shall be made available from sums appropriated for the conduct of research by the National Institute of Justice.
 - **(c)** The Attorney General shall ensure that no later than 1 year after September 13, 1994 , the study required under subsection (a) is completed and a report describing the findings made is submitted to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 103–322, title IV, § 40291](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1939](https://www.govinfo.gov/link/statute/108/1939).)*

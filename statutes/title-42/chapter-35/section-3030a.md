@@ -3,9 +3,10 @@ title: "Section 3030a - Nutrition services incentive program"
 usc_title: 42
 usc_section: "3030a"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3030a"
-generated_at: "2026-03-30T02:56:11.174Z"
+generated_at: "2026-11-23T20:27:22.216Z"
+status: "active"
 ---
 
 # § 3030a. Nutrition services incentive program
@@ -27,3 +28,11 @@ generated_at: "2026-03-30T02:56:11.174Z"
   - **(5)** Nothing in this subsection shall be construed to require any State agency or title VI [subchapter X] grantee to elect to receive cash payments under this subsection.
 - **(e)** There are authorized to be appropriated to carry out this section (other than subsection (c)(1)) $171,273,830 for fiscal year 2020, $181,550,260 for fiscal year 2021, $192,443,275 for fiscal year 2022, $203,989,872 for fiscal year 2023, and $216,229,264 for fiscal year 2024.
 - **(f)** In each fiscal year, the Secretary and the Secretary of Agriculture shall jointly disseminate to State agencies, title VI [subchapter X] grantees, area agencies on aging, and providers of nutrition services assisted under this subchapter, information concerning the foods available to such State agencies, title VI [subchapter X] grantees, area agencies on aging, and providers under subsection (c).
+
+In General
+
+Application Process
+
+## Source Credit
+
+*([Pub. L. 89–73, title III, § 311](https://www.govinfo.gov/link/plaw/89/public/73), as added [Pub. L. 95–478, title I, § 103(b)](https://www.govinfo.gov/link/plaw/95/public/478), Oct. 18, 1978, [92 Stat. 1533](https://www.govinfo.gov/link/statute/92/1533); amended [Pub. L. 97–115, § 9](https://www.govinfo.gov/link/plaw/97/public/115), Dec. 29, 1981, [95 Stat. 1600](https://www.govinfo.gov/link/statute/95/1600); [Pub. L. 98–459, title III, § 310](https://www.govinfo.gov/link/plaw/98/public/459), Oct. 9, 1984, [98 Stat. 1779](https://www.govinfo.gov/link/statute/98/1779); [Pub. L. 99–269](https://www.govinfo.gov/link/plaw/99/public/269), §§ 2, 3(b), 4, Apr. 1, 1986, [100 Stat. 78](https://www.govinfo.gov/link/statute/100/78); [Pub. L. 100–175, title I, § 122(c)](https://www.govinfo.gov/link/plaw/100/public/175), Nov. 29, 1987, [101 Stat. 933](https://www.govinfo.gov/link/statute/101/933); [Pub. L. 102–375, title I, § 102(b)(10)(A)](https://www.govinfo.gov/link/plaw/102/public/375), title III, § 310, Sept. 30, 1992, [106 Stat. 1202](https://www.govinfo.gov/link/statute/106/1202), 1236; [Pub. L. 103–171, § 3(a)(6)](https://www.govinfo.gov/link/plaw/103/public/171), Dec. 2, 1993, [107 Stat. 1990](https://www.govinfo.gov/link/statute/107/1990); [Pub. L. 106–501, title III, § 309](https://www.govinfo.gov/link/plaw/106/public/501), Nov. 13, 2000, [114 Stat. 2246](https://www.govinfo.gov/link/statute/114/2246); [Pub. L. 108–7, div. G, title II, § 217(a)](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 325](https://www.govinfo.gov/link/statute/117/325); [Pub. L. 109–365, title III, § 309](https://www.govinfo.gov/link/plaw/109/public/365), Oct. 17, 2006, [120 Stat. 2545](https://www.govinfo.gov/link/statute/120/2545); [Pub. L. 110–19, § 2](https://www.govinfo.gov/link/plaw/110/public/19), Apr. 23, 2007, [121 Stat. 84](https://www.govinfo.gov/link/statute/121/84); [Pub. L. 114–144, § 4(f)](https://www.govinfo.gov/link/plaw/114/public/144), Apr. 19, 2016, [130 Stat. 339](https://www.govinfo.gov/link/statute/130/339); [Pub. L. 116–131, title II, § 203(b)](https://www.govinfo.gov/link/plaw/116/public/131), Mar. 25, 2020, [134 Stat. 255](https://www.govinfo.gov/link/statute/134/255).)*

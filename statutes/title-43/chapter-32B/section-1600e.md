@@ -3,9 +3,10 @@ title: "Section 1600e - Exceptions"
 usc_title: 43
 usc_section: "1600e"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1600e"
-generated_at: "2026-03-30T02:55:57.478Z"
+generated_at: "2026-11-23T20:27:06.315Z"
+status: "active"
 ---
 
 # § 1600e. Exceptions
@@ -28,3 +29,7 @@ Notwithstanding section 1600d of this title , the appropriate Federal officer, a
   - **(7)** nonstructural projects for riverbank stabilization that are designed to enhance or restore natural stabilization systems;
   - **(8)** publicly or tribally financed, owned and operated compatible recreational developments such as regional parks, golf courses, docks, boat launching ramps (including steamboat and ferry landings), including compatible recreation uses and accompanying utility or interpretive improvements which are essential or closely related to the purpose of restoring the accuracy of a National Historical Landmark and which meet best engineering practices considering the nature of Floodway conditions;
   - **(9)** compatible agricultural uses that do not involve permanent crops and include only a minimal amount of permanent facilities in the Floodway.
+
+## Source Credit
+
+*([Pub. L. 99–450, § 7](https://www.govinfo.gov/link/plaw/99/public/450), Oct. 8, 1986, [100 Stat. 1132](https://www.govinfo.gov/link/statute/100/1132); [Pub. L. 109–295, title VI, § 612(c)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1410](https://www.govinfo.gov/link/statute/120/1410); [Pub. L. 113–287, § 5](https://www.govinfo.gov/link/plaw/113/public/287) (l)(5), Dec. 19, 2014, [128 Stat. 3271](https://www.govinfo.gov/link/statute/128/3271).)*

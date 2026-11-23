@@ -3,9 +3,10 @@ title: "Section 16233 - Low-cost renewable hydrogen and infrastructure for vehic
 usc_title: 42
 usc_section: "16233"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16233"
-generated_at: "2026-03-30T02:56:11.474Z"
+generated_at: "2026-11-23T20:27:23.631Z"
+status: "active"
 ---
 
 # § 16233. Low-cost renewable hydrogen and infrastructure for vehicle propulsion
@@ -20,3 +21,7 @@ The Secretary shall—
       - **(i)** operates solely on hydrogen;
       - **(ii)** qualifies as a light-duty passenger vehicle; and
       - **(iii)** uses hydrogen produced from water using only solar energy.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 933](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 872](https://www.govinfo.gov/link/statute/119/872).)*

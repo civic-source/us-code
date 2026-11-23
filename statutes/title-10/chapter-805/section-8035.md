@@ -3,9 +3,10 @@ title: "Section 8035 - Vice Chief of Naval Operations"
 usc_title: 10
 usc_section: "8035"
 chapter: 805
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 8035"
-generated_at: "2026-03-30T02:53:38.238Z"
+generated_at: "2026-11-23T20:25:52.133Z"
+status: "active"
 ---
 
 # § 8035. Vice Chief of Naval Operations
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:38.238Z"
 - **(d)** When there is a vacancy in the office of Chief of Naval Operations or during the absence or disability of the Chief of Naval Operations—
   - **(1)** the Vice Chief of Naval Operations shall perform the duties of the Chief of Naval Operations until a successor is appointed or the absence or disability ceases; or
   - **(2)** if there is a vacancy in the office of the Vice Chief of Naval Operations or the Vice Chief of Naval Operations is absent or disabled, unless the President directs otherwise, the most senior officer of the Navy in the Office of the Chief of Naval Operations who is not absent or disabled and who is not restricted in performance of duty shall perform the duties of the Chief of Naval Operations until a successor to the Chief of Naval Operations or the Vice Chief of Naval Operations is appointed or until the absence or disability of the Chief of Naval Operations or Vice Chief of Naval Operations ceases, whichever occurs first.
+
+## Source Credit
+
+*(Added [Pub. L. 99–433, title V, § 512(b)](https://www.govinfo.gov/link/plaw/99/public/433), Oct. 1, 1986, [100 Stat. 1050](https://www.govinfo.gov/link/statute/100/1050), § 5035; renumbered § 8035, [Pub. L. 115–232, div. A, title VIII, § 807(a)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1834](https://www.govinfo.gov/link/statute/132/1834).)*

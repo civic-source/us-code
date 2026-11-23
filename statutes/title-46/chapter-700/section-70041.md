@@ -3,9 +3,10 @@ title: "Section 70041 - Regattas and marine parades"
 usc_title: 46
 usc_section: "70041"
 chapter: 700
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 70041"
-generated_at: "2026-03-30T02:56:15.585Z"
+generated_at: "2026-11-23T20:27:27.434Z"
+status: "active"
 ---
 
 # § 70041. Regattas and marine parades
@@ -22,3 +23,19 @@ generated_at: "2026-03-30T02:56:15.585Z"
     - **(C)** The owner of a vessel (including any corporate officer of a corporation owning the vessel) actually on board shall be liable to a penalty of $5,000, unless the violation of regulations occurred without the owner’s knowledge.
     - **(D)** Any other person shall be liable to a penalty of $2,500.
   - **(2)** The Commandant may mitigate or remit any penalty provided for in this subsection in the manner prescribed by law for the mitigation or remission of penalties for violation of the navigation laws.
+
+In General
+
+Detail and Use of Vessels
+
+Transfer of Authority
+
+Penalties.—
+
+In general
+
+Mitigation or remission
+
+## Source Credit
+
+*(Added [Pub. L. 115–282, title IV, § 406(a)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4265](https://www.govinfo.gov/link/statute/132/4265).)*

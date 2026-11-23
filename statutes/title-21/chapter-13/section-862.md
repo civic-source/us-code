@@ -3,9 +3,10 @@ title: "Section 862 - Denial of Federal benefits to drug traffickers and possess
 usc_title: 21
 usc_section: "862"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 862"
-generated_at: "2026-03-30T02:54:54.297Z"
+generated_at: "2026-11-23T20:26:27.845Z"
+status: "active"
 ---
 
 # § 862. Denial of Federal benefits to drug traffickers and possessors
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:54:54.297Z"
     - **(D)** recommending any modifications to improve the administration of this section or otherwise achieve the goal of discouraging the trafficking and possession of controlled substances.
   - **(2)** No later than September 1, 1989 , the Congress shall consider the report of the President and enact such changes as it deems appropriate to further the goals of this section.
 - **(h)** The denial of Federal benefits set forth in this section shall take effect for convictions occurring after September 1, 1989 .
+
+## Source Credit
+
+*([Pub. L. 91–513, title II, § 421](https://www.govinfo.gov/link/plaw/91/public/513), formerly [Pub. L. 100–690, title V, § 5301](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4310](https://www.govinfo.gov/link/statute/102/4310); renumbered [§ 421 of Pub. L. 91–513](https://www.govinfo.gov/link/plaw/91/public/513) and amended [Pub. L. 101–647, title X, § 1002(d)](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4827](https://www.govinfo.gov/link/statute/104/4827).)*

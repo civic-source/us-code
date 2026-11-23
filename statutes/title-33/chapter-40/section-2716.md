@@ -3,9 +3,10 @@ title: "Section 2716 - Financial responsibility"
 usc_title: 33
 usc_section: "2716"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2716"
-generated_at: "2026-03-30T02:55:41.132Z"
+generated_at: "2026-11-23T20:26:54.218Z"
+status: "active"
 ---
 
 # § 2716. Financial responsibility
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:55:41.132Z"
 - **(f)** Nothing in this Act shall impose liability with respect to an incident on any guarantor for damages or removal costs which exceed, in the aggregate, the amount of financial responsibility which that guarantor has provided for a responsible party pursuant to this section. The total liability of the guarantor on direct action for claims brought under this Act with respect to an incident shall be limited to that amount.
 - **(g)** Any regulation relating to financial responsibility, which has been issued pursuant to any provision of law repealed or superseded by this Act, and which is in effect on the date immediately preceding the effective date of this Act, is deemed and shall be construed to be a regulation issued pursuant to this section. Such a regulation shall remain in full force and effect unless and until superseded by a new regulation issued under this section.
 - **(h)** The Secretary may issue a single unified certificate of financial responsibility for purposes of this Act and any other law.
+
+## Source Credit
+
+*([Pub. L. 101–380, title I, § 1016](https://www.govinfo.gov/link/plaw/101/public/380), Aug. 18, 1990, [104 Stat. 502](https://www.govinfo.gov/link/statute/104/502); [Pub. L. 104–55, § 2(d)(2)](https://www.govinfo.gov/link/plaw/104/public/55), Nov. 20, 1995, [109 Stat. 547](https://www.govinfo.gov/link/statute/109/547); [Pub. L. 104–324, title XI, § 1125(a)](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3981](https://www.govinfo.gov/link/statute/110/3981); [Pub. L. 111–281, title VII, § 712](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2988](https://www.govinfo.gov/link/statute/124/2988); [Pub. L. 119–60, div. G, title LXXVII, § 7701(g)(3)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1836](https://www.govinfo.gov/link/statute/139/1836).)*

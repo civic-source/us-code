@@ -3,9 +3,10 @@ title: "Section 4009 - Establishment of seafood marketing councils"
 usc_title: 16
 usc_section: "4009"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 4009"
-generated_at: "2026-03-30T02:54:23.040Z"
+generated_at: "2026-11-23T20:26:20.730Z"
+status: "active"
 ---
 
 # § 4009. Establishment of seafood marketing councils
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:54:23.040Z"
   - **(4)** A vacancy on a council shall be filled, within sixty days after the vacancy occurs, in the same manner in which the original appointment was made. A member appointed to fill a vacancy occurring before the expiration of the term for which the member’s predecessor was appointed shall be appointed only for the remainder of such term.
   - **(5)** The Secretary shall remove any member of a council if the council concerned first recommends, by not less than two-thirds of its members, removal for cause. Such a recommendation of a council must be in writing and accompanied by a statement of the reasons upon which the recommendation is based.
 - **(g)** A council is not an instrumentality of the United States Government.
+
+## Source Credit
+
+*([Pub. L. 99–659, title II, § 210](https://www.govinfo.gov/link/plaw/99/public/659), Nov. 14, 1986, [100 Stat. 3721](https://www.govinfo.gov/link/statute/100/3721).)*

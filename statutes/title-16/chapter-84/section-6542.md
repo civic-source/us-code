@@ -3,9 +3,10 @@ title: "Section 6542 - Water Source Protection Program"
 usc_title: 16
 usc_section: "6542"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6542"
-generated_at: "2026-03-30T02:54:23.061Z"
+generated_at: "2026-11-23T20:26:20.802Z"
+status: "active"
 ---
 
 # § 6542. Water Source Protection Program
@@ -59,3 +60,7 @@ generated_at: "2026-03-30T02:54:23.061Z"
     - **(A)** Subject to the availability of appropriations, the Secretary may establish a Water Source Protection Fund to match funds or in-kind support contributed by non-Federal partners under paragraph (1).
     - **(B)** There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2019 through 2023.
     - **(C)** The Secretary may make multiyear commitments, if necessary, to implement 1 or more partnership agreements under subsection (c).
+
+## Source Credit
+
+*([Pub. L. 108–148, title III, § 303](https://www.govinfo.gov/link/plaw/108/public/148), as added [Pub. L. 115–334, title VIII, § 8404(a)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4841](https://www.govinfo.gov/link/statute/132/4841).)*

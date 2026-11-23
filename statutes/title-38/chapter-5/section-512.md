@@ -3,12 +3,17 @@ title: "Section 512 - Delegation of authority; assignment of functions and dutie
 usc_title: 38
 usc_section: "512"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 512"
-generated_at: "2026-03-30T02:55:53.471Z"
+generated_at: "2026-11-23T20:27:01.564Z"
+status: "active"
 ---
 
 # § 512. Delegation of authority; assignment of functions and duties
 
 - **(a)** Except as otherwise provided by law, the Secretary may assign functions and duties, and delegate, or authorize successive redelegation of, authority to act and to render decisions, with respect to all laws administered by the Department, to such officers and employees as the Secretary may find necessary. Within the limitations of such delegations, redelegations, or assignments, all official acts and decisions of such officers and employees shall have the same force and effect as though performed or rendered by the Secretary.
 - **(b)** There shall be included on the technical and administrative staff of the Secretary such staff officers, experts, inspectors, and assistants (including legal assistants) as the Secretary may prescribe.
+
+## Source Credit
+
+*(Added [Pub. L. 102–83, § 2(a)](https://www.govinfo.gov/link/plaw/102/public/83), Aug. 6, 1991, [105 Stat. 389](https://www.govinfo.gov/link/statute/105/389).)*

@@ -3,9 +3,10 @@ title: "Section 245 - Federally protected activities"
 usc_title: 18
 usc_section: "245"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 245"
-generated_at: "2026-03-30T02:54:16.461Z"
+generated_at: "2026-11-23T20:26:08.354Z"
+status: "active"
 ---
 
 # § 245. Federally protected activities
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:16.461Z"
   - **(5)** any citizen because he is or has been, or in order to intimidate such citizen or any other citizen from lawfully aiding or encouraging other persons to participate, without discrimination on account of race, color, religion or national origin, in any of the benefits or activities described in subparagraphs (1)(A) through (1)(E) or subparagraphs (2)(A) through (2)(F), or participating lawfully in speech or peaceful assembly opposing any denial of the opportunity to so participate—
 - **(c)** Nothing in this section shall be construed so as to deter any law enforcement officer from lawfully carrying out the duties of his office; and no law enforcement officer shall be considered to be in violation of this section for lawfully carrying out the duties of his office or lawfully enforcing ordinances and laws of the United States, the District of Columbia, any of the several States, or any political subdivision of a State. For purposes of the preceding sentence, the term “law enforcement officer” means any officer of the United States, the District of Columbia, a State, or political subdivision of a State, who is empowered by law to conduct investigations of, or make arrests because of, offenses against the United States, the District of Columbia, a State, or a political subdivision of a State.
 - **(d)** For purposes of this section, the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+
+## Source Credit
+
+*(Added [Pub. L. 90–284, title I, § 101(a)](https://www.govinfo.gov/link/plaw/90/public/284), Apr. 11, 1968, [82 Stat. 73](https://www.govinfo.gov/link/statute/82/73); amended [Pub. L. 100–690, title VII, § 7020(a)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4396](https://www.govinfo.gov/link/statute/102/4396); [Pub. L. 101–647, title XII, § 1205(b)](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4830](https://www.govinfo.gov/link/statute/104/4830); [Pub. L. 103–322, title VI, § 60006(c)](https://www.govinfo.gov/link/plaw/103/public/322), title XXXII, § 320103(c), title XXXIII, § 330016(1)(H), (L), Sept. 13, 1994, [108 Stat. 1971](https://www.govinfo.gov/link/statute/108/1971), 2109, 2147; [Pub. L. 104–294, title VI, § 604(b)(14)(C)](https://www.govinfo.gov/link/plaw/104/public/294), (37), Oct. 11, 1996, [110 Stat. 3507](https://www.govinfo.gov/link/statute/110/3507), 3509.)*

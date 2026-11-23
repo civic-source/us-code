@@ -3,9 +3,10 @@ title: "Section 10403 - Authorization of appropriations"
 usc_title: 42
 usc_section: "10403"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10403"
-generated_at: "2026-03-30T02:56:11.387Z"
+generated_at: "2026-11-23T20:27:23.244Z"
+status: "active"
 ---
 
 # § 10403. Authorization of appropriations
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:11.387Z"
     - **(D)** funds made available to a State in a grant under section 10406(a) of this title and obligated in a timely manner shall be available for expenditure, by the State or a recipient of funds from the grant, through the end of fiscal year 2025; 2 2 So in original. The semicolon probably should be a period.
   - **(2)** $18,000,000 to carry out section 10409 of this title .
   - **(3)** $2,000,000 to carry out section 10413 of this title , of which $1,000,000 shall be allocated to support Indian communities.
+
+## Source Credit
+
+*([Pub. L. 98–457, title III, § 303](https://www.govinfo.gov/link/plaw/98/public/457), as added [Pub. L. 111–320, title II, § 201](https://www.govinfo.gov/link/plaw/111/public/320), Dec. 20, 2010, [124 Stat. 3486](https://www.govinfo.gov/link/statute/124/3486); amended [Pub. L. 117–2, title II, § 2204(a)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 34](https://www.govinfo.gov/link/statute/135/34).)*

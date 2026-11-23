@@ -3,9 +3,10 @@ title: "Section 8420a - Alternative forms of annuities"
 usc_title: 5
 usc_section: "8420a"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8420a"
-generated_at: "2026-03-30T02:52:56.055Z"
+generated_at: "2026-11-23T20:25:32.193Z"
+status: "active"
 ---
 
 # § 8420a. Alternative forms of annuities
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:52:56.055Z"
   - **(1)** is married, shall be ineligible to make an election under this section unless a waiver is made under section 8416(a); or
   - **(2)** has a former spouse, shall be ineligible to make an election under this section if the former spouse is entitled to benefits under section 8445 or 8467 (based on the service of the employee or Member) under the terms of a decree of divorce or annulment, or a court order or court-approved property settlement incident to any such decree, with respect to which the Office has been duly notified.
 - **(e)** An employee or Member who is married at the time of retiring under this subchapter and who makes an election under this section may, during the 18-month period beginning on the date of retirement, make the election provided for under section 8416(d), subject to the deposit requirement thereunder.
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 532](https://www.govinfo.gov/link/statute/100/532); amended [Pub. L. 101–508, title VII, § 7001(a)(1)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–327](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–66, title XI, § 11002(a)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 409](https://www.govinfo.gov/link/statute/107/409).)*

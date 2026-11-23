@@ -3,9 +3,10 @@ title: "Section 816 - Judicial review of Commission orders"
 usc_title: 30
 usc_section: "816"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 816"
-generated_at: "2026-03-30T02:55:29.388Z"
+generated_at: "2026-11-23T20:26:34.953Z"
+status: "active"
 ---
 
 # § 816. Judicial review of Commission orders
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:29.388Z"
     - **(B)** the person requesting such relief shows that there is a substantial likelihood that he will prevail on the merits of the final determination of the proceeding.
 - **(b)** The Secretary may also obtain review or enforcement of any final order of the Commission by filing a petition for such relief in the United States court of appeals for the circuit in which the alleged violation occurred or in the Court of Appeals for the District of Columbia Circuit, and the provisions of subsection (a) shall govern such proceedings to the extent applicable. If no petition for review, as provided in subsection (a), is filed within 30 days after issuance of the Commission’s order, the Commission’s findings of fact and order shall be conclusive in connection with any petition for enforcement which is filed by the Secretary after the expiration of such 30-day period. In any such case, as well as in the case of a noncontested citation or notification by the Secretary which has become a final order of the Commission under subsection (a) or (b) of section 815 of this title , the clerk of the court, unless otherwise ordered by the court, shall forthwith enter a decree enforcing the order and shall transmit a copy of such decree to the Secretary and the operator named in the petition. In any contempt proceeding brought to enforce a decree of a court of appeals entered pursuant to this subsection or subsection (a), the court of appeals may assess the penalties provided in section 820 of this title , in addition to invoking any other available remedies.
 - **(c)** The commencement of a proceeding under this section shall not, unless specifically ordered by the court, operate as a stay of the order or decision of the Commission or the Panel.
+
+## Source Credit
+
+*([Pub. L. 91–173, title I, § 106](https://www.govinfo.gov/link/plaw/91/public/173), Dec. 30, 1969, [83 Stat. 754](https://www.govinfo.gov/link/statute/83/754); [Pub. L. 95–164, title II, § 201](https://www.govinfo.gov/link/plaw/95/public/164), Nov. 9, 1977, [91 Stat. 1306](https://www.govinfo.gov/link/statute/91/1306); [Pub. L. 98–620, title IV, § 402(34)](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3360](https://www.govinfo.gov/link/statute/98/3360).)*

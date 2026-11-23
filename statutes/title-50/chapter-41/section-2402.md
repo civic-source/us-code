@@ -3,9 +3,10 @@ title: "Section 2402 - Administrator for Nuclear Security"
 usc_title: 50
 usc_section: "2402"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 2402"
-generated_at: "2026-03-30T02:56:26.223Z"
+generated_at: "2026-11-23T20:27:30.844Z"
+status: "active"
 ---
 
 # § 2402. Administrator for Nuclear Security
@@ -40,3 +41,39 @@ generated_at: "2026-03-30T02:56:26.223Z"
 - **(f)** Except as provided by subsections (b) and (c) of section 2481 of this title :
   - **(1)** The Administrator may establish, abolish, alter, consolidate, or discontinue any organizational unit or component of the Administration, or transfer any function of the Administration.
   - **(2)** Such authority does not apply to the abolition of organizational units or components established by law or the transfer of functions vested by law in any organizational unit or component.
+
+Establishment
+
+Authorities.—
+
+Process.—
+
+In general
+
+Funding
+
+Application of certain requirements
+
+Plan required
+
+Reassessment
+
+Annual reports
+
+Establishment
+
+Purpose
+
+Funding
+
+Project Requirements
+
+Selection Criteria
+
+Implementation Plan
+
+Report on Implementation
+
+## Source Credit
+
+*([Pub. L. 106–65, div. C, title XXXII, § 3212](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 957](https://www.govinfo.gov/link/statute/113/957); [Pub. L. 106–398, § 1 [div. C, title XXXI, §§ 3152(b), 3159(a)]](https://www.govinfo.gov/link/plaw/106/public/398), Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–464, 1654A–469; [Pub. L. 107–107, div. A, title X, § 1048(i)(12)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1230](https://www.govinfo.gov/link/statute/115/1230); [Pub. L. 108–375, div. A, title IX, § 902(e)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2025](https://www.govinfo.gov/link/statute/118/2025); [Pub. L. 110–417, div. C, title XXXI, § 3111](https://www.govinfo.gov/link/plaw/110/public/417), Oct. 14, 2008, [122 Stat. 4753](https://www.govinfo.gov/link/statute/122/4753); [Pub. L. 112–239, div. C, title XXXI, § 3132(d)(1)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2187](https://www.govinfo.gov/link/statute/126/2187); [Pub. L. 113–66, div. C, title XXXI, § 3145(a)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 1071](https://www.govinfo.gov/link/statute/127/1071); [Pub. L. 118–31, div. C, title XXXI](https://www.govinfo.gov/link/plaw/118/public/31), §§ 3111(1), 3112(b), Dec. 22, 2023, [137 Stat. 788](https://www.govinfo.gov/link/statute/137/788).)*

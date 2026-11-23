@@ -3,9 +3,10 @@ title: "Section 5348 - Computation of student count"
 usc_title: 25
 usc_section: "5348"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 5348"
-generated_at: "2026-03-30T02:54:52.867Z"
+generated_at: "2026-11-23T20:26:25.733Z"
+status: "active"
 ---
 
 # § 5348. Computation of student count
@@ -93,3 +94,7 @@ generated_at: "2026-03-30T02:54:52.867Z"
 - **(k)** Nothing in this section—
   - **(1)** creates a new program or duplicates program activities under sections 5342 to 5348 of this title; or
   - **(2)** replaces or diminishes the effect of regulations to carry out sections 5342 to 5348 of this title existing on the day before December 31, 2018 , unless expressly provided in this section.
+
+## Source Credit
+
+*(Apr. 16, 1934, ch. 147, § 7, as added [Pub. L. 115–404, § 2](https://www.govinfo.gov/link/plaw/115/public/404), Dec. 31, 2018, [132 Stat. 5349](https://www.govinfo.gov/link/statute/132/5349).)*

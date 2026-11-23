@@ -3,9 +3,10 @@ title: "Section 5302 - Definitions"
 usc_title: 15
 usc_section: "5302"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 5302"
-generated_at: "2026-03-30T02:54:08.205Z"
+generated_at: "2026-11-23T20:26:04.367Z"
+status: "active"
 ---
 
 # § 5302. Definitions
@@ -22,3 +23,7 @@ As used in this chapter, the term—
   - **(5)** “non-Federal source” means the United States metal casting industry, related industries, industry-related associations, individuals, organizations, universities, State agencies, or other entities supporting the metal casting industry;
   - **(6)** “metal casting industry” or “industry” means the industries identified by codes numbered 3321, 3322, 3324, 3325, 3363, 3364, 3365, 3366, and 3369, in the Standard Industrial Classification manual 1 1 So in original. Probably should be capitalized. published by the Office of Management and Budget in 1987;
   - **(7)** “Secretary” means the Secretary of Energy.
+
+## Source Credit
+
+*([Pub. L. 101–425, § 3](https://www.govinfo.gov/link/plaw/101/public/425), Oct. 15, 1990, [104 Stat. 915](https://www.govinfo.gov/link/statute/104/915).)*

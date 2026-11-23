@@ -3,9 +3,10 @@ title: "Section 8204 - Fish Habitat Partnerships"
 usc_title: 16
 usc_section: "8204"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 8204"
-generated_at: "2026-03-30T02:54:23.082Z"
+generated_at: "2026-11-23T20:26:20.871Z"
+status: "active"
 ---
 
 # § 8204. Fish Habitat Partnerships
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:54:23.082Z"
 - **(g)**
   - **(1)** Not later than 5 years after October 30, 2020 , any partnership receiving Federal funds as of October 30, 2020 , shall be subject to a designation review by Congress in which Congress shall have the opportunity to designate the partnership under subsection (f).
   - **(2)** A partnership referred to in paragraph (1) that Congress does not designate as described in that paragraph shall be ineligible to receive Federal funds under this chapter.
+
+## Source Credit
+
+*([Pub. L. 116–188, title II, § 204](https://www.govinfo.gov/link/plaw/116/public/188), Oct. 30, 2020, [134 Stat. 928](https://www.govinfo.gov/link/statute/134/928); [Pub. L. 118–198, title II, § 202](https://www.govinfo.gov/link/plaw/118/public/198), Dec. 23, 2024, [138 Stat. 2681](https://www.govinfo.gov/link/statute/138/2681).)*

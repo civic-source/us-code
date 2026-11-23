@@ -3,9 +3,10 @@ title: "Section 7e - Health care fraud and abuse data collection program"
 usc_title: 42
 usc_section: "7e"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7e"
-generated_at: "2026-03-30T02:56:10.911Z"
+generated_at: "2026-11-23T20:27:20.997Z"
+status: "active"
 ---
 
 # § 1320a–7e. Health care fraud and abuse data collection program
@@ -55,3 +56,37 @@ generated_at: "2026-03-30T02:56:10.911Z"
     - **(D)** Federal agencies responsible for the licensing and certification of health care providers and licensed health care practitioners.
   - **(4)** The term “health plan” has the meaning given such term by section 1320a–7c(c) of this title .
   - **(5)** For purposes of paragraph (1), the existence of a conviction shall be determined under paragraphs (1) through (4) of section 1320a–7(i) of this title .
+
+Availability
+
+Fees for disclosure
+
+In general
+
+Federal health program
+
+Sanction for failure to report
+
+In general
+
+Regulations
+
+Funding.—
+
+Availability of fees
+
+Availability of additional funds
+
+Special provision for access to the national practitioner data bank by the department of veterans affairs.—
+
+In general
+
+Information described
+
+Transition period defined
+
+Effective date
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XI, § 1128E, as added [Pub. L. 104–191, title II, § 221(a)](https://www.govinfo.gov/link/plaw/104/public/191), Aug. 21, 1996, [110 Stat. 2009](https://www.govinfo.gov/link/statute/110/2009); amended [Pub. L. 105–33, title IV, § 4331(a)(2)](https://www.govinfo.gov/link/plaw/105/public/33), (b), (d), Aug. 5, 1997, [111 Stat. 395](https://www.govinfo.gov/link/statute/111/395), 396; [Pub. L. 111–148, title VI, § 6403(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 763](https://www.govinfo.gov/link/statute/124/763).)*

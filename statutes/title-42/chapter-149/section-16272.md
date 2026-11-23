@@ -3,9 +3,10 @@ title: "Section 16272 - Reactor concepts research, development, demonstration, a
 usc_title: 42
 usc_section: "16272"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16272"
-generated_at: "2026-03-30T02:56:11.475Z"
+generated_at: "2026-11-23T20:27:23.639Z"
+status: "active"
 ---
 
 # § 16272. Reactor concepts research, development, demonstration, and commercial application
@@ -85,3 +86,7 @@ generated_at: "2026-03-30T02:56:11.475Z"
     - **(C)** $30,000,000 for fiscal year 2023;
     - **(D)** $40,000,000 for fiscal year 2024; and
     - **(E)** $40,000,000 for fiscal year 2025.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 952](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 885](https://www.govinfo.gov/link/statute/119/885); [Pub. L. 115–248, § 2(b)(1)](https://www.govinfo.gov/link/plaw/115/public/248), Sept. 28, 2018, [132 Stat. 3155](https://www.govinfo.gov/link/statute/132/3155); [Pub. L. 116–260, div. Z, title II, § 2003(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2459](https://www.govinfo.gov/link/statute/134/2459); [Pub. L. 117–167, div. B, title I, § 10110(b)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1454](https://www.govinfo.gov/link/statute/136/1454); [Pub. L. 117–263, div. E, title LIX, § 5914(1)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3449](https://www.govinfo.gov/link/statute/136/3449).)*

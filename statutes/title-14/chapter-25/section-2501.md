@@ -3,9 +3,10 @@ title: "Section 2501 - Grade on retirement"
 usc_title: 14
 usc_section: "2501"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 2501"
-generated_at: "2026-03-30T02:53:51.499Z"
+generated_at: "2026-11-23T20:25:54.605Z"
+status: "active"
 ---
 
 # § 2501. Grade on retirement
@@ -36,3 +37,41 @@ generated_at: "2026-03-30T02:53:51.499Z"
     - **(B)** may not make an adverse determination on the retired grade of the commissioned officer until the commissioned officer has had a reasonable opportunity to respond regarding the basis of the reopening.
   - **(4)** If the retired grade of a commissioned officer is reduced through the reopening of the commissioned officer’s retired grade under paragraph (2), the retired pay of the commissioned officer shall be recalculated under chapter 71 of title 10, and any modification of the retired pay of the commissioned officer shall go into effect on the effective date of the reduction in retired grade.
 - **(e)** This section, including subsection (b), shall not apply to commissioned warrant officers.
+
+Commissioned Officers.—
+
+In general
+
+Conditional determination
+
+Warrant Officers
+
+Retirement in Lower Grade.—
+
+Misconduct in lower grade
+
+Adverse findings
+
+Recalculation of retired pay
+
+Finality of Retired Grade Determinations.—
+
+In general
+
+Reopening determinations
+
+Requirements
+
+Recalculation of retired pay
+
+Inapplicability to Commissioned Warrant Officers
+
+Issuance and Revision of Regulations Relating to Good Cause to Reopen Retired Grade Determinations
+
+Revision of Limitations on Reopening Retired Grade Determinations
+
+Savings Clause
+
+## Source Credit
+
+*(Added [Pub. L. 88–130, § 1(10)(C)](https://www.govinfo.gov/link/plaw/88/public/130), Sept. 24, 1963, [77 Stat. 190](https://www.govinfo.gov/link/statute/77/190), § 334; amended [Pub. L. 89–444, § 1(19)](https://www.govinfo.gov/link/plaw/89/public/444), June 9, 1966, [80 Stat. 196](https://www.govinfo.gov/link/statute/80/196); [Pub. L. 99–348, title II, § 205(b)(7)](https://www.govinfo.gov/link/plaw/99/public/348), July 1, 1986, [100 Stat. 700](https://www.govinfo.gov/link/statute/100/700); [Pub. L. 102–190, div. A, title XI, § 1125(b)(2)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1505](https://www.govinfo.gov/link/statute/105/1505); [Pub. L. 103–337, div. A, title V, § 541(f)(3)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2766](https://www.govinfo.gov/link/statute/108/2766); renumbered § 2501, [Pub. L. 115–282, title I, § 114(b)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4223](https://www.govinfo.gov/link/statute/132/4223); [Pub. L. 116–283, div. G, title LVXXXII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXII], § 8201(c), Jan. 1, 2021, [134 Stat. 4641](https://www.govinfo.gov/link/statute/134/4641); [Pub. L. 119–60, div. G, title LXXII, § 7224(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1702](https://www.govinfo.gov/link/statute/139/1702).)*

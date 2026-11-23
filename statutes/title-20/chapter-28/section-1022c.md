@@ -3,9 +3,10 @@ title: "Section 1022c - Accountability and evaluation"
 usc_title: 20
 usc_section: "1022c"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1022c"
-generated_at: "2026-03-30T02:54:48.097Z"
+generated_at: "2026-11-23T20:26:14.324Z"
+status: "active"
 ---
 
 # § 1022c. Accountability and evaluation
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:54:48.097Z"
 - **(d)** The Secretary shall evaluate the activities funded under this part and report the findings regarding the evaluation of such activities to the authorizing committees. The Secretary shall broadly disseminate—
   - **(1)** successful practices developed by eligible partnerships under this part; and
   - **(2)** information regarding such practices that were found to be ineffective.
+
+## Source Credit
+
+*([Pub. L. 89–329, title II, § 204](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title II, § 201(2)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3146](https://www.govinfo.gov/link/statute/122/3146); amended [Pub. L. 114–95, title IX, § 9214(c)(4)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2162](https://www.govinfo.gov/link/statute/129/2162).)*

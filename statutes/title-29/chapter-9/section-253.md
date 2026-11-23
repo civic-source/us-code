@@ -3,9 +3,10 @@ title: "Section 253 - Compromise and waiver"
 usc_title: 29
 usc_section: "253"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 253"
-generated_at: "2026-03-30T02:55:18.682Z"
+generated_at: "2026-11-23T20:26:37.811Z"
+status: "active"
 ---
 
 # § 253. Compromise and waiver
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:18.682Z"
 - **(c)** Any such compromise or waiver, in the absence of fraud or duress, shall, according to the terms thereof, be a complete satisfaction of such cause of action and a complete bar to any action based on such cause of action.
 - **(d)** The provisions of this section shall also be applicable to any compromise or waiver heretofore so made or given.
 - **(e)** As used in this section, the term “compromise” includes “adjustment”, “settlement”, and “release”.
+
+## Source Credit
+
+*(May 14, 1947, ch. 52, § 3, [61 Stat. 86](https://www.govinfo.gov/link/statute/61/86).)*

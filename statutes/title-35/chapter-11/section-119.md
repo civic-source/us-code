@@ -3,9 +3,10 @@ title: "Section 119 - Benefit of earlier filing date; right of priority"
 usc_title: 35
 usc_section: "119"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "35 U.S.C. § 119"
-generated_at: "2026-03-30T02:55:34.236Z"
+generated_at: "2026-11-23T20:26:49.119Z"
+status: "active"
 ---
 
 # § 119. Benefit of earlier filing date; right of priority
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:34.236Z"
 - **(g)** As used in this section—
   - **(1)** the term “WTO member country” has the same meaning as the term is defined in section 104(b)(2); and
   - **(2)** the term “UPOV Contracting Party” means a member of the International Convention for the Protection of New Varieties of Plants.
+
+## Source Credit
+
+*(July 19, 1952, ch. 950, [66 Stat. 800](https://www.govinfo.gov/link/statute/66/800); [Pub. L. 87–333, § 1](https://www.govinfo.gov/link/plaw/87/public/333), Oct. 3, 1961, [75 Stat. 748](https://www.govinfo.gov/link/statute/75/748); [Pub. L. 92–358, § 1](https://www.govinfo.gov/link/plaw/92/public/358), July 28, 1972, [86 Stat. 501](https://www.govinfo.gov/link/statute/86/501); [Pub. L. 93–596, § 1](https://www.govinfo.gov/link/plaw/93/public/596), Jan. 2, 1975, [88 Stat. 1949](https://www.govinfo.gov/link/statute/88/1949); [Pub. L. 103–465, title V, § 532(b)(1)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4985](https://www.govinfo.gov/link/statute/108/4985); [Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4503(a), (b)(2), 4801(b), (c), 4802]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–563, 1501A–564, 1501A–588, 1501A–589; [Pub. L. 107–273, div. C, title III, § 13206(b)(2)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1906](https://www.govinfo.gov/link/statute/116/1906); [Pub. L. 112–29](https://www.govinfo.gov/link/plaw/112/public/29), §§ 3(g)(6), 15(b), 20(j), Sept. 16, 2011, [125 Stat. 288](https://www.govinfo.gov/link/statute/125/288), 328, 335; [Pub. L. 112–211, title II](https://www.govinfo.gov/link/plaw/112/public/211), §§ 201(c)(1), 202(b)(2), Dec. 18, 2012, [126 Stat. 1534](https://www.govinfo.gov/link/statute/126/1534), 1536.)*

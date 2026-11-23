@@ -3,9 +3,10 @@ title: "Section 40A - Operation of unauthorized unmanned aircraft over wildfires
 usc_title: 18
 usc_section: "40A"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 40A"
-generated_at: "2026-03-30T02:54:16.457Z"
+generated_at: "2026-11-23T20:26:08.328Z"
+status: "active"
 ---
 
 # § 40A. Operation of unauthorized unmanned aircraft over wildfires
@@ -16,3 +17,19 @@ generated_at: "2026-03-30T02:54:16.457Z"
   - **(1)** The term “unmanned aircraft” has the meaning given the term in section 44801 of title 49 , United States Code.
   - **(2)** The term “wildfire” has the meaning given that term in section 2 of the Emergency Wildfire Suppression Act ( 42 U.S.C. 1856m ).
   - **(3)** The term “wildfire suppression” means an effort to contain, extinguish, or suppress a wildfire.
+
+In General
+
+Exceptions
+
+Definitions
+
+Unmanned aircraft
+
+Wildfire
+
+Wildfire suppression
+
+## Source Credit
+
+*(Added [Pub. L. 115–254, div. B, title III, § 382(a)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3320](https://www.govinfo.gov/link/statute/132/3320).)*

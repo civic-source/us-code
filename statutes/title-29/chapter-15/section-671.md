@@ -3,9 +3,10 @@ title: "Section 671 - National Institute for Occupational Safety and Health"
 usc_title: 29
 usc_section: "671"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 671"
-generated_at: "2026-03-30T02:55:18.689Z"
+generated_at: "2026-11-23T20:26:37.839Z"
+status: "active"
 ---
 
 # § 671. National Institute for Occupational Safety and Health
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:55:18.689Z"
     - **(C)** The working group under subparagraph (A) shall conduct an evaluation of research conducted by, and the technological developments of, agencies and departments who are represented on the working group that may have applicability to mine safety and accident response and make recommendations to the Director for the further development and eventual implementation of such technology.
   - **(6)** Not later than 1 year after the establishment of the Office under this subsection, and annually thereafter, the Director of the Institute shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and the Workforce of the House of Representatives a report that, with respect to the year involved, describes the new mine safety technologies and equipment that have been studied, tested, and certified for use, and with respect to those instances of technologies and equipment that have been considered but not yet certified for use, the reasons therefore.
   - **(7)** There is authorized to be appropriated, such sums as may be necessary to enable the Institute and the Office of Mine Safety and Health to carry out this subsection.
+
+## Source Credit
+
+*([Pub. L. 91–596, § 22](https://www.govinfo.gov/link/plaw/91/public/596), Dec. 29, 1970, [84 Stat. 1612](https://www.govinfo.gov/link/statute/84/1612); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695); [Pub. L. 102–550, title X, § 1033](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3924](https://www.govinfo.gov/link/statute/106/3924); [Pub. L. 109–236, § 6(a)](https://www.govinfo.gov/link/plaw/109/public/236), June 15, 2006, [120 Stat. 498](https://www.govinfo.gov/link/statute/120/498).)*

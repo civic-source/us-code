@@ -3,9 +3,10 @@ title: "Section 2421 - Trade and Development Agency"
 usc_title: 22
 usc_section: "2421"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2421"
-generated_at: "2026-03-30T02:55:05.365Z"
+generated_at: "2026-11-23T20:26:32.292Z"
+status: "active"
 ---
 
 # § 2421. Trade and Development Agency
@@ -45,3 +46,11 @@ generated_at: "2026-03-30T02:55:05.365Z"
     - **(B)** As used in subparagraph (A)—
       - **(i)** the term “technical assistance grants” means funding by multilateral development banks of services from the United States in connection with projects and programs supported by such banks, including, but not limited to, engineering, design, and consulting services; and
       - **(ii)** the term “multilateral development bank” has the meaning given that term in section 262r(c) of this title .
+
+Renaming of Trade and Development Program
+
+Reference in Other Laws
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. III, § 661, as added [Pub. L. 93–559, § 31](https://www.govinfo.gov/link/plaw/93/public/559), Dec. 30, 1974, [88 Stat. 1804](https://www.govinfo.gov/link/statute/88/1804); amended [Pub. L. 94–161, title III, § 316](https://www.govinfo.gov/link/plaw/94/public/161), Dec. 20, 1975, [89 Stat. 867](https://www.govinfo.gov/link/statute/89/867); [Pub. L. 95–88, title I, § 128](https://www.govinfo.gov/link/plaw/95/public/88), Aug. 3, 1977, [91 Stat. 543](https://www.govinfo.gov/link/statute/91/543); [Pub. L. 95–424, title I, § 121](https://www.govinfo.gov/link/plaw/95/public/424), Oct. 6, 1978, [92 Stat. 954](https://www.govinfo.gov/link/statute/92/954); [Pub. L. 96–53, title I, § 119](https://www.govinfo.gov/link/plaw/96/public/53), Aug. 14, 1979, [93 Stat. 365](https://www.govinfo.gov/link/statute/93/365); [Pub. L. 96–533, title III, § 311](https://www.govinfo.gov/link/plaw/96/public/533), Dec. 16, 1980, [94 Stat. 3148](https://www.govinfo.gov/link/statute/94/3148); [Pub. L. 97–113, title III, § 312](https://www.govinfo.gov/link/plaw/97/public/113), Dec. 29, 1981, [95 Stat. 1536](https://www.govinfo.gov/link/statute/95/1536); [Pub. L. 99–83, title IV, § 405](https://www.govinfo.gov/link/plaw/99/public/83), Aug. 8, 1985, [99 Stat. 219](https://www.govinfo.gov/link/statute/99/219); [Pub. L. 100–418, title II, § 2204(b)(1)](https://www.govinfo.gov/link/plaw/100/public/418), (2), Aug. 23, 1988, [102 Stat. 1329](https://www.govinfo.gov/link/statute/102/1329); [Pub. L. 102–549, title II, § 201](https://www.govinfo.gov/link/plaw/102/public/549), Oct. 28, 1992, [106 Stat. 3655](https://www.govinfo.gov/link/statute/106/3655); [Pub. L. 103–392, title II, § 201](https://www.govinfo.gov/link/plaw/103/public/392), Oct. 22, 1994, [108 Stat. 4099](https://www.govinfo.gov/link/statute/108/4099); [Pub. L. 106–158, § 5](https://www.govinfo.gov/link/plaw/106/public/158), Dec. 9, 1999, [113 Stat. 1746](https://www.govinfo.gov/link/statute/113/1746); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 116–94, div. P, title XX, § 2004(d)(1)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3225](https://www.govinfo.gov/link/statute/133/3225).)*

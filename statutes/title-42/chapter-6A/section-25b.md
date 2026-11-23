@@ -3,9 +3,10 @@ title: "Section 25b - Programs to reduce underage drinking"
 usc_title: 42
 usc_section: "25b"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 25b"
-generated_at: "2026-03-30T02:56:10.761Z"
+generated_at: "2026-11-23T20:27:20.305Z"
+status: "active"
 ---
 
 # § 290bb–25b. Programs to reduce underage drinking
@@ -132,3 +133,7 @@ generated_at: "2026-03-30T02:56:10.761Z"
       - **(i)** contract with the National Academies of Sciences, Engineering, and Medicine to study developments in research on underage drinking and the implications of these developments; and
       - **(ii)** report to the Congress on the results of such review.
     - **(B)** There is authorized to be appropriated to carry out this paragraph $500,000 for fiscal year 2023.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title V, § 519B, as added [Pub. L. 106–310, div. B, title XXXI, § 3109](https://www.govinfo.gov/link/plaw/106/public/310), Oct. 17, 2000, [114 Stat. 1182](https://www.govinfo.gov/link/statute/114/1182); amended [Pub. L. 109–422, § 2](https://www.govinfo.gov/link/plaw/109/public/422), Dec. 20, 2006, [120 Stat. 2890](https://www.govinfo.gov/link/statute/120/2890); [Pub. L. 114–255, div. B, title VI, § 6001(c)](https://www.govinfo.gov/link/plaw/114/public/255), title IX, § 9016, Dec. 13, 2016, [130 Stat. 1203](https://www.govinfo.gov/link/statute/130/1203), 1246; [Pub. L. 117–328, div. FF, title I, § 1215](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5662](https://www.govinfo.gov/link/statute/136/5662).)*

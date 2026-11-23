@@ -3,9 +3,10 @@ title: "Section 6851 - Definitions"
 usc_title: 16
 usc_section: "6851"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6851"
-generated_at: "2026-03-30T02:54:23.070Z"
+generated_at: "2026-11-23T20:26:20.822Z"
+status: "active"
 ---
 
 # § 6851. Definitions
@@ -25,3 +26,7 @@ In this chapter:
     - **(A)** the Secretary of Agriculture, acting through the Chief of the Forest Service;
     - **(B)** the Secretary of the Interior; and
     - **(C)** the Secretary of the Army, acting through the Assistant Secretary of the Army for Civil Works.
+
+## Source Credit
+
+*([Pub. L. 117–114, § 2](https://www.govinfo.gov/link/plaw/117/public/114), Apr. 29, 2022, [136 Stat. 1175](https://www.govinfo.gov/link/statute/136/1175).)*

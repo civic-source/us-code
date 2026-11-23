@@ -3,9 +3,10 @@ title: "Section 6447 - Presidential waiver"
 usc_title: 22
 usc_section: "6447"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6447"
-generated_at: "2026-03-30T02:55:05.429Z"
+generated_at: "2026-11-23T20:26:32.617Z"
+status: "active"
 ---
 
 # § 6447. Presidential waiver
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:05.429Z"
 - **(d)** It is the sense of Congress that—
   - **(1)** ongoing and persistent waivers of the application of any of the actions described in paragraphs (9) through (15) of section 6445(a) of this title (or commensurate substitute action) with respect to a country do not fulfill the purposes of this chapter; and
   - **(2)** because the promotion of religious freedom is an important interest of United States foreign policy, the President, the Secretary of State, and other executive branch officials, in consultation with Congress, should seek to find ways to address existing violations, on a case-by-case basis, through the actions described in section 6445 of this title or other commensurate substitute action.
+
+## Source Credit
+
+*([Pub. L. 105–292, title IV, § 407](https://www.govinfo.gov/link/plaw/105/public/292), Oct. 27, 1998, [112 Stat. 2808](https://www.govinfo.gov/link/statute/112/2808); [Pub. L. 114–281, title III, § 304](https://www.govinfo.gov/link/plaw/114/public/281), Dec. 16, 2016, [130 Stat. 1435](https://www.govinfo.gov/link/statute/130/1435).)*

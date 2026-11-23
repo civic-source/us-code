@@ -3,9 +3,10 @@ title: "Section 293 - Centers of excellence"
 usc_title: 42
 usc_section: "293"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 293"
-generated_at: "2026-03-30T02:56:10.774Z"
+generated_at: "2026-11-23T20:27:20.370Z"
+status: "active"
 ---
 
 # § 293. Centers of excellence
@@ -101,3 +102,7 @@ generated_at: "2026-03-30T02:56:10.774Z"
     - **(A)** With respect to activities for which a grant made under this part are authorized to be expended, the Secretary may not make such a grant to a center of excellence for any fiscal year unless the center agrees to maintain expenditures of non-Federal amounts for such activities at a level that is not less than the level of such expenditures maintained by the center for the fiscal year preceding the fiscal year for which the school receives such a grant.
     - **(B)** With respect to any Federal amounts received by a center of excellence and available for carrying out activities for which a grant under this part is authorized to be expended, the center shall, before expending the grant, expend the Federal amounts obtained from sources other than the grant, unless given prior approval from the Secretary.
 - **(i)** To carry out this section, there is authorized to be appropriated $23,711,000 for each of fiscal years 2021 through 2025.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 736, as added [Pub. L. 105–392, title I, § 101(a)](https://www.govinfo.gov/link/plaw/105/public/392), Nov. 13, 1998, [112 Stat. 3525](https://www.govinfo.gov/link/statute/112/3525); amended [Pub. L. 111–148, title V, § 5401](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 642](https://www.govinfo.gov/link/statute/124/642); [Pub. L. 116–136, div. A, title III, § 3401(1)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 385](https://www.govinfo.gov/link/statute/134/385).)*

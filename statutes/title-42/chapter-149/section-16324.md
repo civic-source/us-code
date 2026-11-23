@@ -3,9 +3,10 @@ title: "Section 16324 - Energy research fellowships"
 usc_title: 42
 usc_section: "16324"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16324"
-generated_at: "2026-03-30T02:56:11.483Z"
+generated_at: "2026-11-23T20:27:23.669Z"
+status: "active"
 ---
 
 # § 16324. Energy research fellowships
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.483Z"
   - **(2)** In providing a fellowship under the program described in paragraph (1), the Secretary shall consider—
     - **(A)** the past scientific or technical accomplishment of a senior researcher; and
     - **(B)** the potential for continued accomplishment by the researcher during the period of the fellowship.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 984](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 908](https://www.govinfo.gov/link/statute/119/908).)*

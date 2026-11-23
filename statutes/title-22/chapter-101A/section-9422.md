@@ -3,9 +3,10 @@ title: "Section 9422 - Statement of policy"
 usc_title: 22
 usc_section: "9422"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9422"
-generated_at: "2026-03-30T02:55:05.466Z"
+generated_at: "2026-11-23T20:26:32.772Z"
+status: "active"
 ---
 
 # § 9422. Statement of policy
@@ -16,3 +17,7 @@ It is the policy of the United States—
   - **(2)** to use all available authorities to constrain Iran’s domestic ballistic missile production capabilities;
   - **(3)** to combat and deter the transfer of conventional and non-conventional arms, equipment, material, and technology to, or from Iran, or involving the Government of Iran; and
   - **(4)** to ensure countries, individuals, and entities engaged in, or attempting to engage in, the acquisition, facilitation, or development of arms and related components and technology subject to restrictions under Annex B to United Nations Security Council Resolution 2231 are held to account under United States and international law, including through the application and enforcement of sanctions and use of export controls, regardless of whether the restrictions under Annex B to United Nations Security Council Resolution 2231 remain in effect following their anticipated expiration in October 2023.
+
+## Source Credit
+
+*([Pub. L. 118–50, div. K, § 3](https://www.govinfo.gov/link/plaw/118/public/50), Apr. 24, 2024, [138 Stat. 970](https://www.govinfo.gov/link/statute/138/970).)*

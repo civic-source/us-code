@@ -3,9 +3,10 @@ title: "Section 1140 - Information individuals 1 1 So in original. Probably shou
 usc_title: 49
 usc_section: "1140"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 1140"
-generated_at: "2026-03-30T02:56:19.304Z"
+generated_at: "2026-11-23T20:27:34.572Z"
+status: "active"
 ---
 
 # § 1140. Information individuals 1 1 So in original. Probably should be preceded by “for”. involved in accidents and families of such individuals
@@ -15,3 +16,7 @@ In the course of an investigation of an accident described in section 1131(a)(1)
   - **(1)** are informed as to the roles, with respect to the accident and the post-accident activities, of the Board;
   - **(2)** are briefed, before any public briefing, about the accident, its causes, and any other findings from the investigation; and
   - **(3)** are individually informed of and allowed to attend any public hearings and meetings of the Board about the accident.
+
+## Source Credit
+
+*(Added [Pub. L. 115–254, div. C, § 1109(e)(1)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3435](https://www.govinfo.gov/link/statute/132/3435); amended [Pub. L. 118–63, title XII, § 1215(e)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1430](https://www.govinfo.gov/link/statute/138/1430).)*

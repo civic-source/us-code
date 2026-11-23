@@ -3,9 +3,10 @@ title: "Section 839 - Congressional declaration of purpose"
 usc_title: 16
 usc_section: "839"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 839"
-generated_at: "2026-03-30T02:54:22.929Z"
+generated_at: "2026-11-23T20:26:20.324Z"
+status: "active"
 ---
 
 # § 839. Congressional declaration of purpose
@@ -25,3 +26,7 @@ The purposes of this chapter, together with the provisions of other laws applica
     - **(A)** that the authorities and responsibilities of State and local governments, electric utility systems, water management agencies, and other non-Federal entities for the regulation, planning, conservation, supply, distribution, and use of electric power shall be construed to be maintained, and
     - **(B)** that Congress intends that this chapter not be construed to limit or restrict the ability of customers to take actions in accordance with other applicable provisions of Federal or State law, including, but not limited to, actions to plan, develop, and operate resources and to achieve conservation, without regard to this chapter; and
   - **(6)** to protect, mitigate and enhance the fish and wildlife, including related spawning grounds and habitat, of the Columbia River and its tributaries, particularly anadromous fish which are of significant importance to the social and economic well-being of the Pacific Northwest and the Nation and which are dependent on suitable environmental conditions substantially obtainable from the management and operation of the Federal Columbia River Power System and other power generating facilities on the Columbia River and its tributaries.
+
+## Source Credit
+
+*([Pub. L. 96–501, § 2](https://www.govinfo.gov/link/plaw/96/public/501), Dec. 5, 1980, [94 Stat. 2697](https://www.govinfo.gov/link/statute/94/2697).)*

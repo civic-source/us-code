@@ -3,9 +3,10 @@ title: "Section 7322 - Breast cancer mammography policy"
 usc_title: 38
 usc_section: "7322"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7322"
-generated_at: "2026-03-30T02:55:53.528Z"
+generated_at: "2026-11-23T20:27:01.999Z"
+status: "active"
 ---
 
 # § 7322. Breast cancer mammography policy
@@ -42,3 +43,91 @@ generated_at: "2026-03-30T02:55:53.528Z"
   - **(4)** In this subsection, the term “burn pit” means an area of land that—
     - **(A)** is used for disposal of solid waste by burning in the outdoor air; and
     - **(B)** does not contain a commercially manufactured incinerator or other equipment specifically designed and manufactured for the burning of solid waste.
+
+In General
+
+Standards for Screening
+
+Eligibility for Screening for Veterans Exposed to Toxic Substances
+
+Locations and Periods Specified
+
+Short Title
+
+Table of Contents
+
+In General
+
+Elements
+
+In General
+
+Duration
+
+Locations
+
+Sharing of Images and Results
+
+Report.—
+
+In general
+
+Elements
+
+Study.—
+
+In general
+
+Elements
+
+Expansion of Availability of Testing.—
+
+In general
+
+Decision support tools
+
+Report
+
+Definitions
+
+Study.—
+
+In general
+
+Accessibility
+
+Screening rates.—
+
+Measurement
+
+Development of method
+
+Report
+
+Care From Non-Department Providers
+
+Definitions
+
+In General
+
+Elements
+
+Follow-Up
+
+Access to Care in Each VISN.—
+
+In general
+
+Treatment of rural veterans
+
+Report on Partnership To Increase Access to Clinical Trials
+
+Periodic Reports
+
+In General
+
+Elements
+
+## Source Credit
+
+*(Added [Pub. L. 105–114, title II, § 208(a)(1)](https://www.govinfo.gov/link/plaw/105/public/114), Nov. 21, 1997, [111 Stat. 2289](https://www.govinfo.gov/link/statute/111/2289); amended [Pub. L. 117–133, § 2(a)](https://www.govinfo.gov/link/plaw/117/public/133), June 7, 2022, [136 Stat. 1238](https://www.govinfo.gov/link/statute/136/1238).)*

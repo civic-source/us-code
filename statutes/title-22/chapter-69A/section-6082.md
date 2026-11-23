@@ -3,9 +3,10 @@ title: "Section 6082 - Liability for trafficking in confiscated property claimed
 usc_title: 22
 usc_section: "6082"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6082"
-generated_at: "2026-03-30T02:55:05.424Z"
+generated_at: "2026-11-23T20:26:32.593Z"
+status: "active"
 ---
 
 # § 6082. Liability for trafficking in confiscated property claimed by United States nationals
@@ -72,3 +73,7 @@ generated_at: "2026-03-30T02:55:05.424Z"
     - **(B)** shall cease upon transmittal to the Congress of a determination of the President under section 6063(c)(3) of this title that a democratically elected government in Cuba is in power.
   - **(2)** The suspension or termination of rights under paragraph (1) shall not affect suits commenced before the date of such suspension or termination (as the case may be), and in all such suits, proceedings shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if the suspension or termination had not occurred.
 - **(i)** The Judicial Conference of the United States shall establish a uniform fee that shall be imposed upon the plaintiff or plaintiffs in each action brought under this section. The fee should be established at a level sufficient to recover the costs to the courts of actions brought under this section. The fee under this subsection is in addition to any other fees imposed under title 28.
+
+## Source Credit
+
+*([Pub. L. 104–114, title III, § 302](https://www.govinfo.gov/link/plaw/104/public/114), Mar. 12, 1996, [110 Stat. 815](https://www.govinfo.gov/link/statute/110/815).)*

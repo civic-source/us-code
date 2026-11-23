@@ -3,9 +3,10 @@ title: "Section 1063d - Strengthening HBCUs through Federal agency plans"
 usc_title: 20
 usc_section: "1063d"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1063d"
-generated_at: "2026-03-30T02:54:48.101Z"
+generated_at: "2026-11-23T20:26:14.346Z"
+status: "active"
 ---
 
 # § 1063d. Strengthening HBCUs through Federal agency plans
@@ -31,3 +32,27 @@ generated_at: "2026-03-30T02:54:48.101Z"
     - **(A)** programs and initiatives described in subsection (d)(2); and
     - **(B)** the preparation of applications or proposals for grants, contracts, or cooperative agreements; and
   - **(2)** shall appoint a senior official to report directly to the agency head on the applicable agency’s progress under this section.
+
+Findings
+
+Purposes
+
+“In this Act [see Short Title of 2020 Amendment note set out under section 1001 of this title ]:
+
+Applicable agency
+
+Executive director
+
+HBCU
+
+Historically black college or university
+
+President’s board of advisors
+
+Secretary
+
+White house initiative
+
+## Source Credit
+
+*([Pub. L. 116–270, § 4](https://www.govinfo.gov/link/plaw/116/public/270), Dec. 31, 2020, [134 Stat. 3327](https://www.govinfo.gov/link/statute/134/3327).)*

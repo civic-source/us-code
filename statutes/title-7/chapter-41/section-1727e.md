@@ -3,9 +3,10 @@ title: "Section 1727e - Use of local currency proceeds"
 usc_title: 7
 usc_section: "1727e"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1727e"
-generated_at: "2026-03-30T02:53:42.337Z"
+generated_at: "2026-11-23T20:25:41.279Z"
+status: "active"
 ---
 
 # § 1727e. Use of local currency proceeds
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:42.337Z"
 - **(b)** To the extent practicable, not less than 10 percent of the amounts contained in an account established for a recipient country under section 1727d(a) of this title shall be used by such country to support the development and utilization of nongovernmental organizations and cooperatives that are active in rural development, agricultural education, sustainable agricultural production, other measures to assist poor people, and environmental protection projects within such country.
 - **(c)** A nongovernmental organization may invest local currencies that accrue to that organization as a result of assistance under subsection (a), and any interest earned on such investment may be used for the purpose for which the assistance was provided to that organization without further appropriation by the Congress.
 - **(d)** If the Administrator determines that local currencies deposited in a special account pursuant to this subchapter are not needed for any of the activities prescribed in paragraphs (1) through (13) of subsection (a) or for any other specific economic development purpose in the recipient country, the Administrator may use those currencies to provide support for any institution (other than an institution whose primary purpose is to provide religious education) located in the recipient country that provides education in agricultural sciences or other disciplines for a significant number of United States nationals (who may include members of the United States Armed Forces or the Foreign Service or dependents of such members).
+
+## Source Credit
+
+*(July 10, 1954, ch. 469, title III, § 306, as added [Pub. L. 95–88, title II, § 211(a)(2)](https://www.govinfo.gov/link/plaw/95/public/88), Aug. 3, 1977, [91 Stat. 551](https://www.govinfo.gov/link/statute/91/551); amended [Pub. L. 96–53, title II, § 207(a)](https://www.govinfo.gov/link/plaw/96/public/53), Aug. 14, 1979, [93 Stat. 369](https://www.govinfo.gov/link/statute/93/369); [Pub. L. 101–624, title XV, § 1512](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3643](https://www.govinfo.gov/link/statute/104/3643); [Pub. L. 104–127, title II, § 211(a)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 955](https://www.govinfo.gov/link/statute/110/955).)*

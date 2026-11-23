@@ -3,9 +3,10 @@ title: "Section 364 - Provision relating to certain other pay adjustments"
 usc_title: 2
 usc_section: "364"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 364"
-generated_at: "2026-03-30T02:53:04.796Z"
+generated_at: "2026-11-23T20:25:28.883Z"
+status: "active"
 ---
 
 # § 364. Provision relating to certain other pay adjustments
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:04.796Z"
     - **(A)** which takes effect under the preceding sections of this chapter;
     - **(B)** which is based on a change in the Employment Cost Index (as determined under section 704(a)(1) of the Ethics Reform Act of 1989) or which is in lieu of any pay adjustment which might otherwise be made in a year based on a change in such index (as so determined); or
     - **(C)** which takes effect under section 702 or 703 of the Ethics Reform Act of 1989.
+
+## Source Credit
+
+*([Pub. L. 90–206, title II, § 225(n)](https://www.govinfo.gov/link/plaw/90/public/206), as added [Pub. L. 101–194, title VII, § 701(k)](https://www.govinfo.gov/link/plaw/101/public/194), Nov. 30, 1989, [103 Stat. 1767](https://www.govinfo.gov/link/statute/103/1767).)*

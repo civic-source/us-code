@@ -3,9 +3,10 @@ title: "Section 2697 - Formaldehyde standards"
 usc_title: 15
 usc_section: "2697"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2697"
-generated_at: "2026-03-30T02:54:08.181Z"
+generated_at: "2026-11-23T20:26:04.248Z"
+status: "active"
 ---
 
 # § 2697. Formaldehyde standards
@@ -158,3 +159,31 @@ generated_at: "2026-03-30T02:54:08.181Z"
   - **(4)** Not later than July 1, 2013 , the Administrator, in coordination with the Commissioner of U.S. Customs and Border Protection and other appropriate Federal departments and agencies, shall revise regulations promulgated pursuant to section 2612 of this title as the Administrator determines to be necessary to ensure compliance with this section.
   - **(5)** The Administrator may, after public notice and opportunity for comment, substitute an industry standard or test method referenced in this section with its successor version.
 - **(e)** An individual or entity that violates any requirement under this section (including any regulation promulgated pursuant to subsection (d)) shall be considered to have committed a prohibited act under section 2614 of this title .
+
+(aa) a particleboard platform;
+
+(bb) a medium-density fiberboard platform; or
+
+(cc) a veneer-core platform; and
+
+(aa) a component part;
+
+(bb) used in the construction or assembly of a finished good; and
+
+(cc) produced by the manufacturer or fabricator of the finished good in which the product is incorporated.
+
+(aa) no higher than 0.06 parts per million of formaldehyde for 90 percent of 6 months of routine quality control testing data required under subparagraph (A)(ii); and
+
+(bb) no test result higher than 0.09 parts per million of formaldehyde.
+
+(aa) no higher than 0.05 parts per million of formaldehyde for 90 percent of 6 months of routine quality control testing data required under subparagraph (A)(ii); and
+
+(bb) no test result higher than 0.08 parts per million of formaldehyde.
+
+(aa) no higher than 0.08 parts per million of formaldehyde for 90 percent of 6 months of routine quality control testing data required under subparagraph (A)(ii); and
+
+(bb) no test result higher than 0.11 parts per million of formaldehyde.
+
+## Source Credit
+
+*([Pub. L. 94–469, title VI, § 601](https://www.govinfo.gov/link/plaw/94/public/469), as added [Pub. L. 111–199, § 2(a)](https://www.govinfo.gov/link/plaw/111/public/199), July 7, 2010, [124 Stat. 1359](https://www.govinfo.gov/link/statute/124/1359); amended [Pub. L. 114–125, title VIII, § 802(d)(2)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 210](https://www.govinfo.gov/link/statute/130/210).)*

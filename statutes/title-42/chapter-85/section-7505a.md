@@ -3,9 +3,10 @@ title: "Section 7505a - Maintenance plans"
 usc_title: 42
 usc_section: "7505a"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7505a"
-generated_at: "2026-03-30T02:56:11.305Z"
+generated_at: "2026-11-23T20:27:22.877Z"
+status: "active"
 ---
 
 # § 7505a. Maintenance plans
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.305Z"
 - **(b)** 8 years after redesignation of any area as an attainment area under section 7407(d) of this title , the State shall submit to the Administrator an additional revision of the applicable State implementation plan for maintaining the national primary ambient air quality standard for 10 years after the expiration of the 10-year period referred to in subsection (a).
 - **(c)** Until such plan revision is approved and an area is redesignated as attainment for any area designated as a nonattainment area, the requirements of this part shall continue in force and effect with respect to such area.
 - **(d)** Each plan revision submitted under this section shall contain such contingency provisions as the Administrator deems necessary to assure that the State will promptly correct any violation of the standard which occurs after the redesignation of the area as an attainment area. Such provisions shall include a requirement that the State will implement all measures with respect to the control of the air pollutant concerned which were contained in the State implementation plan for the area before redesignation of the area as an attainment area. The failure of any area redesignated as an attainment area to maintain the national ambient air quality standard concerned shall not result in a requirement that the State revise its State implementation plan unless the Administrator, in the Administrator’s discretion, requires the State to submit a revised State implementation plan.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 175A, as added [Pub. L. 101–549, title I, § 102(e)](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2418](https://www.govinfo.gov/link/statute/104/2418).)*

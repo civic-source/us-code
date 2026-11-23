@@ -3,9 +3,10 @@ title: "Section 172 - Wildlife-vehicle collision reduction and habitat connectiv
 usc_title: 23
 usc_section: "172"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 172"
-generated_at: "2026-03-30T02:55:12.563Z"
+generated_at: "2026-11-23T20:26:23.837Z"
+status: "active"
 ---
 
 # § 172. Wildlife-vehicle collision reduction and habitat connectivity improvement
@@ -86,3 +87,67 @@ generated_at: "2026-03-30T02:55:12.563Z"
       - **(iii)** species identified in State wildlife plans; and
       - **(iv)** medium and small terrestrial and aquatic species; and
     - **(C)** habitat connectivity values for terrestrial and aquatic species and the barrier effect of the highway on the movements and migrations of those species.
+
+Study.—
+
+In general
+
+Contents.—
+
+Areas of study
+
+(aa) the causes of wildlife-vehicle collisions;
+
+(bb) the impact of wildlife-vehicle collisions on motorists and wildlife; and
+
+(cc) the impacts of roads and traffic on habitat connectivity for terrestrial and aquatic species; and
+
+(aa) reducing wildlife-vehicle collisions; and
+
+(bb) improving habitat connectivity for terrestrial and aquatic species.
+
+Methods
+
+Report.—
+
+In general
+
+Contents
+
+(aa) species listed as threatened species or endangered species under the Endangered Species Act of 1973 ( 16 U.S.C. 1531 et seq.);
+
+(bb) species identified by States as species of greatest conservation need;
+
+(cc) species identified in State wildlife plans; and
+
+(dd) medium and small terrestrial and aquatic species;
+
+Workforce Development and Technical Training.—
+
+In general
+
+Availability
+
+Standardization of Wildlife Collision and Carcass Data.—
+
+Standardized methodology.—
+
+In general
+
+Methodology
+
+Consultation
+
+Standardized national data system with voluntary template implementation
+
+Reports.—
+
+Methodology
+
+Implementation
+
+National Threshold Guidance
+
+## Source Credit
+
+*(Added [Pub. L. 117–58, div. A, title I, § 11123(c)(1)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 502](https://www.govinfo.gov/link/statute/135/502).)*

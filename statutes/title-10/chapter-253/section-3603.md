@@ -3,9 +3,10 @@ title: "Section 3603 - Software acquisition pathways"
 usc_title: 10
 usc_section: "3603"
 chapter: 253
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 3603"
-generated_at: "2026-03-30T02:53:38.195Z"
+generated_at: "2026-11-23T20:25:51.841Z"
+status: "active"
 ---
 
 # § 3603. Software acquisition pathways
@@ -49,3 +50,47 @@ generated_at: "2026-03-30T02:53:38.195Z"
     - **(A)** that is a commercial product (as defined in section 103 of title 41 ) or a nondevelopmental item; and
     - **(B)** in which software acquired under this section is embedded.
   - **(2)** The term “nondevelopmental item” has the meaning given in section 110 of title 41 .
+
+Software Acquisition and Development Pathways
+
+Pathways
+
+Applications
+
+Embedded systems
+
+Requirements for Pathways
+
+Considerations for Use of Authority
+
+Treatment Not as Major Defense Acquisition Program
+
+Risk-based Approach
+
+Expedited Process.—
+
+In general
+
+Expedited software requirements process.—
+
+Inapplicability of joint capabilities integration and development system manual
+
+Inapplicability of defense acquisition system directive
+
+Elements
+
+Definitions
+
+Implementation Required
+
+Exceptions.—
+
+Delayed implementation
+
+Nonimplementation
+
+Implementation Plans
+
+## Source Credit
+
+*(Added [Pub. L. 118–159, div. A, title VIII, § 805(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1969](https://www.govinfo.gov/link/statute/138/1969); amended [Pub. L. 119–60, div. A, title XVII, § 1701(a)(24)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1209](https://www.govinfo.gov/link/statute/139/1209).)*

@@ -3,9 +3,10 @@ title: "Section 296j - Advanced education nursing grants"
 usc_title: 42
 usc_section: "296j"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 296j"
-generated_at: "2026-03-30T02:56:10.782Z"
+generated_at: "2026-11-23T20:27:20.407Z"
+status: "active"
 ---
 
 # § 296j. Advanced education nursing grants
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:10.782Z"
     - **(A)** the tuition, books, and fees of the program of advanced nurse education with respect to which the traineeship is provided; and
     - **(B)** the reasonable living expenses of the individual during the period for which the traineeship is provided.
   - **(2)** In making awards of grants and contracts under subsection (a)(2), the Secretary shall give special consideration to an eligible entity that agrees to expend the award to train advanced education nurses who will practice in health professional shortage areas designated under section 254e of this title .
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VIII, § 811, as added [Pub. L. 105–392, title I, § 123(4)](https://www.govinfo.gov/link/plaw/105/public/392), Nov. 13, 1998, [112 Stat. 3566](https://www.govinfo.gov/link/statute/112/3566); amended [Pub. L. 111–148, title V, § 5308](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 629](https://www.govinfo.gov/link/statute/124/629); [Pub. L. 116–136, div. A, title III, § 3404(a)(5)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 393](https://www.govinfo.gov/link/statute/134/393).)*

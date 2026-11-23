@@ -3,9 +3,10 @@ title: "Section 7552 - Policy"
 usc_title: 10
 usc_section: "7552"
 chapter: 764
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 7552"
-generated_at: "2026-03-30T02:53:38.235Z"
+generated_at: "2026-11-23T20:25:52.103Z"
+status: "active"
 ---
 
 # § 7552. Policy
@@ -21,3 +22,7 @@ It is the policy of the United States—
   - **(7)** to foster a more efficient, cost-effective, and adaptable armaments industry in the United States;
   - **(8)** to achieve, with respect to armaments manufacturing, storage, maintenance, renovation, and demilitarization capacity, an optimum level of readiness of the national technology and industrial base within the United States that is consistent with the projected threats to the national security of the United States and the projected emergency requirements of the armed forces; and
   - **(9)** to encourage facility use contracting where feasible.
+
+## Source Credit
+
+*(Added [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title III, § 344(a)(1)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–67, § 4552; amended [Pub. L. 109–163, div. A, title III, § 323(c)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3194](https://www.govinfo.gov/link/statute/119/3194); renumbered § 7552, [Pub. L. 115–232, div. A, title VIII, § 808(d)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1839](https://www.govinfo.gov/link/statute/132/1839).)*

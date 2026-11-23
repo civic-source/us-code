@@ -3,9 +3,10 @@ title: "Section 6405 - Assessments"
 usc_title: 15
 usc_section: "6405"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 6405"
-generated_at: "2026-03-30T02:54:08.211Z"
+generated_at: "2026-11-23T20:26:04.395Z"
+status: "active"
 ---
 
 # § 6405. Assessments
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.211Z"
 - **(e)** The Council shall establish a program coordinating the operation of the Council with those of any State propane education and research council created by State law or regulation, or similar entity. Such coordination shall include a joint or coordinated assessment collection process, a reduced assessment, or an assessment rebate. A reduced assessment or rebate shall be 20 percent of the regular assessment collected in that State under this section. Assessment rebates shall be paid only to—
   - **(1)** a State propane education and research council created by State law or regulation that meets requirements established by the Council for specific programs approved by the Council; or
   - **(2)** a similar entity, such as a foundation established by the retail propane gas industry in that State, that meets requirements established by the Council for specific programs approved by the Council.
+
+## Source Credit
+
+*([Pub. L. 104–284, § 6](https://www.govinfo.gov/link/plaw/104/public/284), Oct. 11, 1996, [110 Stat. 3374](https://www.govinfo.gov/link/statute/110/3374).)*

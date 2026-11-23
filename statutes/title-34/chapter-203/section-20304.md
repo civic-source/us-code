@@ -3,9 +3,10 @@ title: "Section 20304 - Local children’s advocacy centers"
 usc_title: 34
 usc_section: "20304"
 chapter: 203
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 20304"
-generated_at: "2026-03-30T02:55:33.297Z"
+generated_at: "2026-11-23T20:26:50.591Z"
+status: "active"
 ---
 
 # § 20304. Local children’s advocacy centers
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:33.297Z"
 - **(d)** In awarding grants under this section, the Administrator shall ensure that grants are distributed to all States that are eligible for such grants, including large and small States, and to rural, suburban, and urban jurisdictions.
 - **(e)** A grant recipient under this section shall consult from time to time with regional children’s advocacy centers in its census region that are grant recipients under section 20303 of this title .
 - **(f)** In awarding grants under this section, the Administrator shall ensure that a portion of the grants is distributed to State chapters to enable State chapters to provide oversight, training, and technical assistance to local centers on evidence-informed initiatives including mental health, counseling, forensic interviewing, multidisciplinary team coordination, and victim advocacy.
+
+## Source Credit
+
+*([Pub. L. 101–647, title II, § 214](https://www.govinfo.gov/link/plaw/101/public/647), formerly § 212, Nov. 29, 1990, [104 Stat. 4793](https://www.govinfo.gov/link/statute/104/4793); renumbered § 214 and amended [Pub. L. 102–586, § 6(b)(1)](https://www.govinfo.gov/link/plaw/102/public/586), (c), Nov. 4, 1992, [106 Stat. 5029](https://www.govinfo.gov/link/statute/106/5029), 5034; [Pub. L. 107–273, div. C, title II, § 12221(b)(1)(A)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1894](https://www.govinfo.gov/link/statute/116/1894); [Pub. L. 114–22, title I, § 104(2)](https://www.govinfo.gov/link/plaw/114/public/22), May 29, 2015, [129 Stat. 236](https://www.govinfo.gov/link/statute/129/236); [Pub. L. 115–392, § 6](https://www.govinfo.gov/link/plaw/115/public/392), Dec. 21, 2018, [132 Stat. 5253](https://www.govinfo.gov/link/statute/132/5253); [Pub. L. 115–424, § 2(d)](https://www.govinfo.gov/link/plaw/115/public/424), (h)(2), Jan. 7, 2019, [132 Stat. 5467](https://www.govinfo.gov/link/statute/132/5467), 5470; [Pub. L. 117–354, § 3(4)](https://www.govinfo.gov/link/plaw/117/public/354), Jan. 5, 2023, [136 Stat. 6275](https://www.govinfo.gov/link/statute/136/6275).)*

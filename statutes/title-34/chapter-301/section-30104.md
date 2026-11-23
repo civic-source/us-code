@@ -3,9 +3,10 @@ title: "Section 30104 - Improved investigative and forensic resources for enforc
 usc_title: 34
 usc_section: "30104"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 30104"
-generated_at: "2026-03-30T02:55:33.305Z"
+generated_at: "2026-11-23T20:26:50.625Z"
+status: "active"
 ---
 
 # § 30104. Improved investigative and forensic resources for enforcement of laws related to intellectual property crimes
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:33.305Z"
     - **(B)** that includes relevant forensic training related to investigating and prosecuting intellectual property crimes.
 - **(b)** Subject to the availability of appropriations to carry out this subsection, and not later than 180 days after October 13, 2008 , the Attorney General, through the United States Attorneys’ Offices, the Computer Crime and Intellectual Property section, and the Organized Crime and Racketeering section of the Department of Justice, and in consultation with the Federal Bureau of Investigation and other Federal law enforcement agencies, such as the Department of Homeland Security, shall create and implement a comprehensive, long-range plan to investigate and prosecute international organized crime syndicates engaging in or supporting crimes relating to the theft of intellectual property.
 - **(c)** There are authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2009 through 2013.
+
+## Source Credit
+
+*([Pub. L. 110–403, title IV, § 402](https://www.govinfo.gov/link/plaw/110/public/403), Oct. 13, 2008, [122 Stat. 4272](https://www.govinfo.gov/link/statute/122/4272).)*

@@ -3,9 +3,10 @@ title: "Section 1502 - Sharing of information by the Federal Government"
 usc_title: 6
 usc_section: "1502"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 1502"
-generated_at: "2026-03-30T02:53:09.509Z"
+generated_at: "2026-11-23T20:25:34.960Z"
+status: "active"
 ---
 
 # § 1502. Sharing of information by the Federal Government
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:09.509Z"
     - **(F)** include procedures for notifying, in a timely manner, any United States person whose personal information is known or determined to have been shared by a Federal entity in violation of this subchapter.
   - **(2)** In developing the procedures required under this section, the Director of National Intelligence, the Secretary of Homeland Security, the Secretary of Defense, and the Attorney General shall consult with appropriate Federal entities, including the Small Business Administration and the National Laboratories (as defined in section 15801 of title 42 ), to ensure that effective protocols are implemented that will facilitate and promote the sharing of cyber threat indicators by the Federal Government in a timely manner.
 - **(c)** Not later than 60 days after December 18, 2015 , the Director of National Intelligence, in consultation with the heads of the appropriate Federal entities, shall submit to Congress the procedures required by subsection (a).
+
+## Source Credit
+
+*([Pub. L. 114–113, div. N, title I, § 103](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2939](https://www.govinfo.gov/link/statute/129/2939).)*

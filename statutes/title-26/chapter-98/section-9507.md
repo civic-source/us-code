@@ -3,9 +3,10 @@ title: "Section 9507 - Hazardous Substance Superfund"
 usc_title: 26
 usc_section: "9507"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 9507"
-generated_at: "2026-03-30T02:55:27.892Z"
+generated_at: "2026-11-23T20:26:46.883Z"
+status: "active"
 ---
 
 # § 9507. Hazardous Substance Superfund
@@ -42,3 +43,11 @@ generated_at: "2026-03-30T02:55:27.892Z"
   - **(1)** Any claim filed against the Superfund may be paid only out of the Superfund.
   - **(2)** Nothing in CERCLA or the Superfund Amendments and Reauthorization Act of 1986 (or in any amendment made by either of such Acts) shall authorize the payment by the United States Government of any amount with respect to any such claim out of any source other than the Superfund.
   - **(3)** If at any time the Superfund has insufficient funds to pay all of the claims payable out of the Superfund at such time, such claims shall, to the extent permitted under paragraph (1), be paid in full in the order in which they were finally determined.
+
+In general
+
+Superfund treated as continuation of old trust fund
+
+## Source Credit
+
+*(Added [Pub. L. 99–499, title V, § 517(a)](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1772](https://www.govinfo.gov/link/statute/100/1772); amended [Pub. L. 99–509, title VIII, § 8032(c)(4)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1959](https://www.govinfo.gov/link/statute/100/1959); [Pub. L. 101–508, title XI, § 11231(c)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–445](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 113–295, div. A, title II, § 221(a)(12)(L)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4039](https://www.govinfo.gov/link/statute/128/4039); [Pub. L. 117–169, title I, § 13601(b)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 1982](https://www.govinfo.gov/link/statute/136/1982).)*

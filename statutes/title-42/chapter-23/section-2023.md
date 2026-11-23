@@ -3,9 +3,10 @@ title: "Section 2023 - State authority to regulate radiation below level of regu
 usc_title: 42
 usc_section: "2023"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2023"
-generated_at: "2026-03-30T02:56:11.147Z"
+generated_at: "2026-11-23T20:27:22.054Z"
+status: "active"
 ---
 
 # § 2023. State authority to regulate radiation below level of regulatory concern of Nuclear Regulatory Commission
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.147Z"
   - **(1)** The term “low-level radioactive waste” means radioactive material classified by the Nuclear Regulatory Commission as low-level radioactive waste on October 24, 1992 .
   - **(2)** The term “off-site incineration” means any incineration of radioactive materials at a facility that is located off the site where such materials were generated.
   - **(3)** The term “State” means each of the several States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 276, as added [Pub. L. 102–486, title XXIX, § 2901(a)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3122](https://www.govinfo.gov/link/statute/106/3122).)*

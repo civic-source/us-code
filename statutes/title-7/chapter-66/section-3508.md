@@ -3,9 +3,10 @@ title: "Section 3508 - Definitions"
 usc_title: 7
 usc_section: "3508"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 3508"
-generated_at: "2026-03-30T02:53:42.404Z"
+generated_at: "2026-11-23T20:25:41.602Z"
+status: "active"
 ---
 
 # § 3508. Definitions
@@ -31,3 +32,7 @@ For purposes of this chapter—
   - **(4)** the term “person” includes any individual, corporation, company, association, firm, partnership, society, joint stock company, trust, estate, or any other legal entity;
   - **(5)** the term “Secretary” means the Secretary of Agriculture; and
   - **(6)** the term “State” means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, or any other territory or possession of the United States.
+
+## Source Credit
+
+*([Pub. L. 95–460, § 9](https://www.govinfo.gov/link/plaw/95/public/460), Oct. 14, 1978, [92 Stat. 1266](https://www.govinfo.gov/link/statute/92/1266).)*

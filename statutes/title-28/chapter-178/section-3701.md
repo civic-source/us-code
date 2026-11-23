@@ -3,9 +3,10 @@ title: "Section 3701 - Definitions"
 usc_title: 28
 usc_section: "3701"
 chapter: 178
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 3701"
-generated_at: "2026-03-30T02:55:30.154Z"
+generated_at: "2026-11-23T20:26:36.550Z"
+status: "active"
 ---
 
 # § 3701. Definitions
@@ -21,3 +22,7 @@ For purposes of this chapter—
     - **(B)** a league or association of persons or governmental entities described in subparagraph (A),
   - **(4)** the term “person” has the meaning given such term in section 1 of title 1 , and
   - **(5)** the term “State” means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Palau, or any territory or possession of the United States.
+
+## Source Credit
+
+*(Added [Pub. L. 102–559, § 2(a)](https://www.govinfo.gov/link/plaw/102/public/559), Oct. 28, 1992, [106 Stat. 4227](https://www.govinfo.gov/link/statute/106/4227).)*

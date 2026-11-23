@@ -3,9 +3,10 @@ title: "Section 8786 - Prevention of deceased individuals receiving payments und
 usc_title: 7
 usc_section: "8786"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 8786"
-generated_at: "2026-03-30T02:53:42.481Z"
+generated_at: "2026-11-23T20:25:41.922Z"
+status: "active"
 ---
 
 # § 8786. Prevention of deceased individuals receiving payments under farm commodity programs
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:42.481Z"
   - **(1)** describe the circumstances under which, in order to allow for the settlement of estates and for related purposes, payments may be issued in the name of a deceased individual; and
   - **(2)** preclude the issuance of payments to, and on behalf of, deceased individuals that were not eligible for the payments.
 - **(b)** At least twice each year, the Secretary shall reconcile the social security numbers of all individuals who receive payments under this chapter, whether directly or indirectly, with the Social Security Administration to determine if the individuals are alive.
+
+## Source Credit
+
+*([Pub. L. 110–234, title I, § 1611](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1018](https://www.govinfo.gov/link/statute/122/1018); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1611, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1746.)*

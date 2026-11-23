@@ -3,12 +3,17 @@ title: "Section 8301 - Definitions"
 usc_title: 15
 usc_section: "8301"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 8301"
-generated_at: "2026-03-30T02:54:08.228Z"
+generated_at: "2026-11-23T20:26:04.480Z"
+status: "active"
 ---
 
 # § 8301. Definitions
 
 In this subtitle, the terms “prudential regulator”, “swap”, “swap dealer”, “major swap participant”, “swap data repository”, “associated person of a swap dealer or major swap participant”, “eligible contract participant”, “swap execution facility”, “security-based swap”, “security-based swap dealer”, “major security-based swap participant”, and “associated person of a security-based swap dealer or major security-based swap participant” have the meanings given the terms in section 1a of title 7 , including any modification of the meanings under section 8321(a) of this title .
 
+
+## Source Credit
+
+*([Pub. L. 111–203, title VII, § 711](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1641](https://www.govinfo.gov/link/statute/124/1641).)*

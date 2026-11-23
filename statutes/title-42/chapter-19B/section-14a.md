@@ -3,9 +3,10 @@ title: "Section 14a - Alaska hydroelectric power development"
 usc_title: 42
 usc_section: "14a"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 14a"
-generated_at: "2026-03-30T02:56:11.135Z"
+generated_at: "2026-11-23T20:27:21.987Z"
+status: "active"
 ---
 
 # § 1962d–14a. Alaska hydroelectric power development
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.135Z"
   - **(2)** In consideration of the obligations to be assumed by non-Federal public authorities under the provisions of this section and in recognition of the substantial investments which will be made by these authorities in reliance on the program established by this section, the United States shall assume the responsibility for paying for all costs over those fixed in the agreement with the non-Federal public authorities, if such costs are occasioned by acts of God, failure on the part of the Secretary, acting through the Chief of Engineers, to adhere to the agreed schedule of work or a failure of design: Provided , That payments by the Secretary of such costs shall be subject to appropriations acts.
 - **(h)** The Secretary is authorized and directed, pursuant to the agreement, to convey all title, rights, and interests of the United States to any project, its lands and water areas, and appurtenant facilities to the non-Federal public authorities which have agreed to assume ownership of the project and responsibility for its performance, operation, and maintenance, as well as necessary replacements in accordance with this section upon full payment by such non-Federal public authorities as required under subsection (g)(1) of this section. Such conveyance shall, pursuant to the agreement required by subsection (g) of this section, to the maximum extent possible, occur immediately upon the project’s availability for generation of all or a substantial portion of the authorized hydroelectric power of the project, and shall include such Federal requirements, reservations, and provisions for access rights to the project and its records as the Secretary finds advisable to complete any portion of project construction remaining at the time of conveyance and to assure that the project will be operated and maintained in a responsible and safe manner to accomplish, as nearly as may be possible, all of the authorized purposes of the project including, but not restricted to, hydroelectric power generation.
 - **(i)** This section shall be cited as the “Alaska Hydroelectric Power Development Act”.
+
+## Source Credit
+
+*([Pub. L. 94–587, § 203](https://www.govinfo.gov/link/plaw/94/public/587), Oct. 22, 1976, [90 Stat. 2946](https://www.govinfo.gov/link/statute/90/2946); [Pub. L. 103–437, § 15(e)(2)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4592](https://www.govinfo.gov/link/statute/108/4592).)*

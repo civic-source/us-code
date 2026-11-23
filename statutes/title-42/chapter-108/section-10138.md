@@ -3,9 +3,10 @@ title: "Section 10138 - Participation of Indian tribes"
 usc_title: 42
 usc_section: "10138"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10138"
-generated_at: "2026-03-30T02:56:11.380Z"
+generated_at: "2026-11-23T20:27:23.209Z"
+status: "active"
 ---
 
 # § 10138. Participation of Indian tribes
@@ -26,12 +27,16 @@ generated_at: "2026-03-30T02:56:11.380Z"
     - **(B)** Any affected Indian tribe desiring assistance under this paragraph shall prepare and submit to the Secretary a report on any economic, social, public health and safety, and environmental impacts that are likely as a result of the development of a repository at a site on the reservation of such Indian tribe. Such report shall be submitted to the Secretary following the completion of site characterization activities at such site and before the recommendation of such site to the President by the Secretary for application for a construction authorization for a repository. As soon as practicable following the granting of a construction authorization for such repository, the Secretary shall seek to enter into a binding agreement with the Indian tribe involved setting forth the amount of assistance to be provided to such Indian tribe under this paragraph and the procedures to be followed in providing such assistance.
   - **(4)** The Secretary shall grant to each affected Indian tribe where a site for a repository is approved under section 10132(c) of this title an amount each fiscal year equal to the amount such Indian tribe would receive were it authorized to tax site characterization activities at such site, and the development and operation of such repository, as such Indian tribe taxes the other commercial activities occurring on such reservation. Such grants shall continue until such time as all such activities, development, and operation are terminated at such site.
   - **(5)** 1 1 So in original. Probably should be designated “(5)(A)”. An affected Indian tribe may not receive any grant under paragraph (1) after the expiration of the 1-year period following—
-    - **(B)** An affected Indian tribe may not receive any further assistance under paragraph (2) with respect to a site if repository construction activities at such site are terminated by the Secretary or if such activities are permanently enjoined by any court.
-    - **(C)** At the end of the 2-year period beginning on the effective date of any license to receive and possess for a repository at a site on the reservation of an affected Indian tribe, no Federal funds shall be made available under paragraph (1) or (2) to such Indian tribe, except for—
-      - **(i)** such funds as may be necessary to support activities of such Indian tribe related to any other repository where a license to receive and possess has not been in effect for more than 1 year; and
-      - **(ii)** such funds as may be necessary to support activities of such Indian tribe pursuant to agreements or contracts for impact assistance entered into, under paragraph (2), by such Indian tribe with the Secretary during such 2-year period.
       - **(i)** the date on which the Secretary notifies such Indian tribe of the termination of site characterization activities at the candidate site involved on the reservation of such Indian tribe;
       - **(ii)** the date on which such site is disapproved under section 10135 of this title ;
       - **(iii)** the date on which the Commission disapproves an application for a construction authorization for a repository at such site; 2 2 So in original. Probably should be followed by “or”.
       - **(iv)** December 22, 1987 ;
+    - **(B)** An affected Indian tribe may not receive any further assistance under paragraph (2) with respect to a site if repository construction activities at such site are terminated by the Secretary or if such activities are permanently enjoined by any court.
+    - **(C)** At the end of the 2-year period beginning on the effective date of any license to receive and possess for a repository at a site on the reservation of an affected Indian tribe, no Federal funds shall be made available under paragraph (1) or (2) to such Indian tribe, except for—
+      - **(i)** such funds as may be necessary to support activities of such Indian tribe related to any other repository where a license to receive and possess has not been in effect for more than 1 year; and
+      - **(ii)** such funds as may be necessary to support activities of such Indian tribe pursuant to agreements or contracts for impact assistance entered into, under paragraph (2), by such Indian tribe with the Secretary during such 2-year period.
   - **(6)** Financial assistance authorized in this subsection shall be made out of amounts held in the Nuclear Waste Fund established in section 10222 of this title .
+
+## Source Credit
+
+*([Pub. L. 97–425, title I, § 118](https://www.govinfo.gov/link/plaw/97/public/425), Jan. 7, 1983, [96 Stat. 2225](https://www.govinfo.gov/link/statute/96/2225); [Pub. L. 100–202, § 101(d) [title III, § 300]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–104](https://www.govinfo.gov/link/statute/101/1329), 1329–121; [Pub. L. 100–203, title V, § 5033](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–243](https://www.govinfo.gov/link/statute/101/1330).)*

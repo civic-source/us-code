@@ -3,9 +3,10 @@ title: "Section 13144 - Limitations on outside employment"
 usc_title: 5
 usc_section: "13144"
 chapter: 131
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 13144"
-generated_at: "2026-03-30T02:52:56.079Z"
+generated_at: "2026-11-23T20:25:32.289Z"
+status: "active"
 ---
 
 # § 13144. Limitations on outside employment
@@ -21,3 +22,54 @@ generated_at: "2026-03-30T02:52:56.079Z"
   - **(2)** when received by a judge of the United States retired from regular active service under section 371(b) of title 28 , for teaching performed during any calendar year for which such judge has met the requirements of subsection (e) of section 371 of title 28 , as certified in accordance with such subsection; or
   - **(3)** when received by a justice or judge of the United States retired from regular active service under section 372(a) of title 28 .
 - **(c)** For purposes of this section, the relationship between a Member who is a Representative in, or Delegate or Resident Commissioner to, the Congress and who is providing care directly to a patient in the form of medical services or dental services and the patient to whom such care is provided shall not be considered a fiduciary relationship.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 13144 | 5 U.S.C. App. (EGA § 502) | Pub. L. 95–521, title V, § 502 , as added Pub. L. 101–194, title VI, § 601(a) , Nov. 30, 1989 , 103 Stat. 1761 ; amended Pub. L. 101–280, § 7(a)(1) , (b), May 4, 1990 , 104 Stat. 161 ; Pub. L. 101–650, title III, § 319 , Dec. 1, 1990 , 104 Stat. 5117 ; Pub. L. 102–198, § 6 , Dec. 9, 1991 , 105 Stat. 1624 ; Pub. L. 102–378, § 4(b)(3) , Oct. 2, 1992 , 106 Stat. 1357 . |
+
+
+Limitations
+
+Teaching Compensation of Justices and Judges Retired From Regular Active Service
+
+Limitation on Treatment as Fiduciary Relationship
+
+Historical and Revision Notes
+
+13144
+
+Pub. L. 95–521, title V, § 502
+
+Pub. L. 101–194, title VI, § 601(a)
+
+Nov. 30, 1989
+
+103 Stat. 1761
+
+Pub. L. 101–280, § 7(a)(1)
+
+May 4, 1990
+
+104 Stat. 161
+
+Pub. L. 101–650, title III, § 319
+
+Dec. 1, 1990
+
+104 Stat. 5117
+
+Pub. L. 102–198, § 6
+
+Dec. 9, 1991
+
+105 Stat. 1624
+
+Pub. L. 102–378, § 4(b)(3)
+
+Oct. 2, 1992
+
+106 Stat. 1357
+
+## Source Credit
+
+*([Pub. L. 117–286, § 3(c)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4304](https://www.govinfo.gov/link/statute/136/4304); [Pub. L. 119–37, div. C, title I, § 116(a)](https://www.govinfo.gov/link/plaw/119/public/37), Nov. 12, 2025, [139 Stat. 571](https://www.govinfo.gov/link/statute/139/571).)*

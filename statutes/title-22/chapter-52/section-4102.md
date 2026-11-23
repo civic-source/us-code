@@ -3,9 +3,10 @@ title: "Section 4102 - Definitions"
 usc_title: 22
 usc_section: "4102"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4102"
-generated_at: "2026-03-30T02:55:05.406Z"
+generated_at: "2026-11-23T20:26:32.518Z"
+status: "active"
 ---
 
 # § 4102. Definitions
@@ -42,3 +43,7 @@ As used in this subchapter, the term—
     - **(F)** is engaged in the administration of this subchapter or in the formulation of the personnel policies and programs of the Department;
   - **(13)** “Panel” means the Foreign Service Impasse Disputes Panel, established by section 4110(a) of this title ; and
   - **(14)** “person” means an individual, a labor organization, or an agency to which this subchapter applies.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 1002](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2129](https://www.govinfo.gov/link/statute/94/2129); [Pub. L. 103–236, title I, § 180(a)(9)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 416](https://www.govinfo.gov/link/statute/108/416); [Pub. L. 117–263, div. I, title XCII, § 9219(3)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3879](https://www.govinfo.gov/link/statute/136/3879).)*

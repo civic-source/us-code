@@ -3,9 +3,10 @@ title: "Section 781 - Duties of National Council"
 usc_title: 29
 usc_section: "781"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 781"
-generated_at: "2026-03-30T02:55:18.697Z"
+generated_at: "2026-11-23T20:26:37.867Z"
+status: "active"
 ---
 
 # § 781. Duties of National Council
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:18.697Z"
   - **(1)** Not later than October 31, 1998 , and annually thereafter, the National Council shall prepare and submit to the President and the appropriate committees of the Congress a report entitled “National Disability Policy: A Progress Report”.
   - **(2)** The report shall assess the status of the Nation in achieving the policies set forth in section 780(a)(2) of this title , with particular focus on the new and emerging issues impacting on the lives of individuals with disabilities. The report shall present, as appropriate, available data on health, housing, employment, insurance, transportation, recreation, training, prevention, early intervention, and education. The report shall include recommendations for policy change.
   - **(3)** In determining the issues to focus on and the findings, conclusions, and recommendations to include in the report, the National Council shall seek input from the public, particularly individuals with disabilities, representatives of organizations representing a broad range of individuals with disabilities, and organizations and agencies interested in individuals with disabilities.
+
+## Source Credit
+
+*([Pub. L. 93–112, title IV, § 401](https://www.govinfo.gov/link/plaw/93/public/112), as added [Pub. L. 105–220, title IV, § 407](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1199](https://www.govinfo.gov/link/statute/112/1199); amended [Pub. L. 105–394, title II, § 202](https://www.govinfo.gov/link/plaw/105/public/394), Nov. 13, 1998, [112 Stat. 3653](https://www.govinfo.gov/link/statute/112/3653); [Pub. L. 106–402, title IV, § 401(b)(3)(B)](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1737](https://www.govinfo.gov/link/statute/114/1737); [Pub. L. 108–364, § 3(b)(2)](https://www.govinfo.gov/link/plaw/108/public/364), Oct. 25, 2004, [118 Stat. 1737](https://www.govinfo.gov/link/statute/118/1737); [Pub. L. 113–128, title IV, § 452](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1675](https://www.govinfo.gov/link/statute/128/1675).)*

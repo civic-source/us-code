@@ -3,9 +3,10 @@ title: "Section 2253 - Action by President after determination of import injury"
 usc_title: 19
 usc_section: "2253"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2253"
-generated_at: "2026-03-30T02:54:24.668Z"
+generated_at: "2026-11-23T20:26:10.925Z"
+status: "active"
 ---
 
 # § 2253. Action by President after determination of import injury
@@ -89,3 +90,7 @@ generated_at: "2026-03-30T02:54:24.668Z"
   - **(1)** The President shall by regulation provide for the efficient and fair administration of all actions taken for the purpose of providing import relief under this part.
   - **(2)** In order to carry out an international agreement concluded under this part, the President may prescribe regulations governing the entry or withdrawal from warehouse of articles covered by such agreement. In addition, in order to carry out any agreement of the type described in subsection (a)(3)(E) that is concluded under this part with one or more countries accounting for a major part of United States imports of the article covered by such agreement, including imports into a major geographic area of the United States, the President may issue regulations governing the entry or withdrawal from warehouse of like articles which are the product of countries not parties to such agreement.
   - **(3)** Regulations prescribed under this subsection shall, to the extent practicable and consistent with efficient and fair administration, insure against inequitable sharing of imports by a relatively small number of the larger importers.
+
+## Source Credit
+
+*([Pub. L. 93–618, title II, § 203](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 2015](https://www.govinfo.gov/link/statute/88/2015); [Pub. L. 96–39, title XI, § 1106(d)](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 312](https://www.govinfo.gov/link/statute/93/312); [Pub. L. 98–573, title II, § 248(a)](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 2998](https://www.govinfo.gov/link/statute/98/2998); [Pub. L. 100–418, title I](https://www.govinfo.gov/link/plaw/100/public/418), §§ 1214(j)(2), 1401(a), Aug. 23, 1988, [102 Stat. 1158](https://www.govinfo.gov/link/statute/102/1158), 1234; [Pub. L. 100–647, title IX, § 9001(a)(2)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3806](https://www.govinfo.gov/link/statute/102/3806); [Pub. L. 103–465, title III](https://www.govinfo.gov/link/plaw/103/public/465), §§ 301(d)(3), 302(a)–(b)(4)(A), 303(7)–(10), Dec. 8, 1994, [108 Stat. 4933–4937](https://www.govinfo.gov/link/statute/108/4933).)*

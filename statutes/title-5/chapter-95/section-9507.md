@@ -3,9 +3,10 @@ title: "Section 9507 - Streamlined demonstration project authority"
 usc_title: 5
 usc_section: "9507"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 9507"
-generated_at: "2026-03-30T02:52:56.073Z"
+generated_at: "2026-11-23T20:25:32.261Z"
+status: "active"
 ---
 
 # § 9507. Streamlined demonstration project authority
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:52:56.073Z"
   - **(6)** the requirements of paragraphs (1)(A) and (2) of section 4703(d) shall not apply; and
   - **(7)** notwithstanding section 4703(d)(1)(B), based on an evaluation as provided in section 4703(h), the Office of Personnel Management and the Secretary of the Treasury, except as otherwise provided by this subsection, may waive the termination date of a demonstration project under section 4703(d).
 - **(c)** At least 90 days before waiving the termination date under subsection (b)(7), the Office of Personnel Management shall publish in the Federal Register a notice of its intention to waive the termination date and shall inform in writing both Houses of Congress of its intention.
+
+## Source Credit
+
+*(Added [Pub. L. 105–206, title I, § 1201(a)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 715](https://www.govinfo.gov/link/statute/112/715).)*

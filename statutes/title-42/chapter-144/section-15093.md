@@ -3,9 +3,10 @@ title: "Section 15093 - Grants to States"
 usc_title: 42
 usc_section: "15093"
 chapter: 144
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 15093"
-generated_at: "2026-03-30T02:56:11.458Z"
+generated_at: "2026-11-23T20:27:23.558Z"
+status: "active"
 ---
 
 # § 15093. Grants to States
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.458Z"
   - **(1)** is geographically equitable;
   - **(2)** distributes the grants among States that have differing levels of development of statewide systems of family support services for families of children with disabilities; and
   - **(3)** distributes the grants among States that attempt to meet the needs of unserved and underserved populations, such as individuals from racial and ethnic minority backgrounds, disadvantaged individuals, individuals with limited English proficiency, and individuals from underserved geographic areas (rural or urban).
+
+## Source Credit
+
+*([Pub. L. 106–402, title II, § 204](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1730](https://www.govinfo.gov/link/statute/114/1730).)*

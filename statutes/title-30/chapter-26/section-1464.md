@@ -3,9 +3,10 @@ title: "Section 1464 - Enforcement"
 usc_title: 30
 usc_section: "1464"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1464"
-generated_at: "2026-03-30T02:55:29.406Z"
+generated_at: "2026-11-23T20:26:35.047Z"
+status: "active"
 ---
 
 # § 1464. Enforcement
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:29.406Z"
   - **(8)** exercise any other lawful authority.
 - **(c)** For purposes of this section, the term “provisions of this chapter” or “provision of this chapter” means (1) any provision of subchapter I or II or this subchapter, (2) any regulation issued under subchapter I, subchapter II, or this subchapter, and (3) any term, condition, or restriction of any license or permit issued under subchapter I.
 - **(d)** Proprietary and privileged information seized or maintained under this subchapter concerning a person or vessel engaged in exploration or commercial recovery shall not be made available for general or public use or inspection. The Administrator and the Secretary of the department in which the Coast Guard is operating shall issue regulations to insure the confidentiality of privileged and proprietary information.
+
+## Source Credit
+
+*([Pub. L. 96–283, title III, § 304](https://www.govinfo.gov/link/plaw/96/public/283), June 28, 1980, [94 Stat. 578](https://www.govinfo.gov/link/statute/94/578).)*

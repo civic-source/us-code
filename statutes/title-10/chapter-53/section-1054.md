@@ -3,9 +3,10 @@ title: "Section 1054 - Defense of certain suits arising out of legal malpractice
 usc_title: 10
 usc_section: "1054"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1054"
-generated_at: "2026-03-30T02:53:38.097Z"
+generated_at: "2026-11-23T20:25:51.181Z"
+status: "active"
 ---
 
 # § 1054. Defense of certain suits arising out of legal malpractice
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:38.097Z"
 - **(e)** For purposes of this section, the provisions of section 2680(h) of title 28 shall not apply to a cause of action arising out of a negligent or wrongful act or omission in the provision of legal assistance.
 - **(f)** The head of the agency concerned may hold harmless or provide liability insurance for any person described in subsection (a) for damages for injury or loss of property caused by such person’s negligent or wrongful act or omission in the provision of authorized legal assistance while acting within the scope of such person’s duties if such person is assigned to a foreign country or detailed for service with an entity other than a Federal department, agency, or instrumentality or if the circumstances are such as are likely to preclude the remedies of third persons against the United States described in section 1346(b) of title 28 , for such damage or injury.
 - **(g)** In this section, the term “head of the agency concerned” means the Secretary of Defense, the Secretary of a military department, or the Secretary of the department in which the Coast Guard is operating, as appropriate.
+
+## Source Credit
+
+*(Added [Pub. L. 99–661, div. A, title XIII, § 1356(a)(1)](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 3996](https://www.govinfo.gov/link/statute/100/3996); amended [Pub. L. 100–448, § 15(a)](https://www.govinfo.gov/link/plaw/100/public/448), Sept. 28, 1988, [102 Stat. 1845](https://www.govinfo.gov/link/statute/102/1845).)*

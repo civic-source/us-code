@@ -3,9 +3,10 @@ title: "Section 5903 - Requirements for issuing payment stablecoins"
 usc_title: 12
 usc_section: "5903"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5903"
-generated_at: "2026-03-30T02:53:53.551Z"
+generated_at: "2026-11-23T20:25:59.545Z"
+status: "active"
 ---
 
 # § 5903. Requirements for issuing payment stablecoins
@@ -209,3 +210,19 @@ generated_at: "2026-03-30T02:53:53.551Z"
 - **(i)** Nothing in this chapter shall be construed—
   - **(1)** as expanding the authority of the Board with respect to the services the Board can make directly available to the public; or
   - **(2)** to limit or prevent the continued application of applicable ethics statutes and regulations administered by the Office of Government Ethics, or the ethics rules of the Senate and the House of Representatives, including section 208 of title 18 and sections 2635.702 and 2635.802 of title 5, Code of Federal Regulations. For the avoidance of doubt, existing Office of Government Ethics laws and the ethics rules of the Senate and the House of Representatives prohibit any member of Congress or senior executive branch official from issuing a payment stablecoin during their time in public service. For the purposes of this paragraph, an employee described in section 202 of title 18 shall be deemed an executive branch employee for purposes of complying with section 208 of that title.
+
+(aa) used to target, personalize, or rank advertising or other content;
+
+(bb) sold to any third party; or
+
+(cc) shared with non-affiliates; and
+
+(aa) used to target, personalize, or rank advertising or other content;
+
+(bb) sold to any third party; or
+
+(cc) shared with non-affiliates; except 1
+
+## Source Credit
+
+*([Pub. L. 119–27, § 4](https://www.govinfo.gov/link/plaw/119/public/27), July 18, 2025, [139 Stat. 425](https://www.govinfo.gov/link/statute/139/425).)*

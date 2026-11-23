@@ -3,12 +3,17 @@ title: "Section 701d - Compacts between States; consent of Congress"
 usc_title: 33
 usc_section: "701d"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 701d"
-generated_at: "2026-03-30T02:55:41.068Z"
+generated_at: "2026-11-23T20:26:53.889Z"
+status: "active"
 ---
 
 # § 701d. Compacts between States; consent of Congress
 
 The consent of Congress is given to any two or more States to enter into compacts or agreements in connection with any project or operation authorized by this Act for flood control or the prevention of damage to life or property by reason of floods upon any stream or streams and their tributaries which lie in two or more such States, for the purpose of providing, in such manner and such proportion as may be agreed upon by such States and approved by the Secretary of the Army, funds for construction and maintenance, for the payment of damages, and for the purchase of rights-of-way, lands, and easements in connection with such project or operation. No such compact or agreement shall become effective without the further consent or ratification of Congress, except a compact or agreement which provides that all money to be expended pursuant thereto and all work to be performed thereunder shall be expended and performed by the Department of the Army, with the exception of such reasonable sums as may be reserved by the States entering into the compact or agreement for the purpose of collecting taxes and maintaining the necessary State organizations for carrying out the compact or agreement.
 
+
+## Source Credit
+
+*(June 22, 1936, ch. 688, § 4, [49 Stat. 1571](https://www.govinfo.gov/link/statute/49/1571); July 26, 1947, ch. 343, title II, § 205(a), [61 Stat. 501](https://www.govinfo.gov/link/statute/61/501).)*

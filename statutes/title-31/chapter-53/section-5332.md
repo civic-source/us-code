@@ -3,9 +3,10 @@ title: "Section 5332 - Bulk cash smuggling into or out of the United States"
 usc_title: 31
 usc_section: "5332"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 5332"
-generated_at: "2026-03-30T02:55:34.070Z"
+generated_at: "2026-11-23T20:26:51.879Z"
+status: "active"
 ---
 
 # § 5332. Bulk cash smuggling into or out of the United States
@@ -22,3 +23,35 @@ generated_at: "2026-03-30T02:55:34.070Z"
   - **(1)** Any property involved in a violation of subsection (a), or a conspiracy to commit such violation, and any property traceable to such violation or conspiracy, may be seized and forfeited to the United States.
   - **(2)** The seizure and forfeiture shall be governed by the procedures governing civil forfeitures in money laundering cases pursuant to section 981(a)(1)(A) of title 18 , United States Code.
   - **(3)** For purposes of this subsection and subsection (b), any currency or other monetary instrument that is concealed or intended to be concealed in violation of subsection (a) or a conspiracy to commit such violation, any article, container, or conveyance used, or intended to be used, to conceal or transport the currency or other monetary instrument, and any other property used, or intended to be used, to facilitate the offense, shall be considered property involved in the offense.
+
+Criminal Offense.—
+
+In general
+
+Concealment on person
+
+Penalty.—
+
+Term of imprisonment
+
+Forfeiture
+
+Procedure
+
+Personal money judgment
+
+Civil Forfeiture.—
+
+In general
+
+Procedure
+
+Treatment of certain property as involved in the offense
+
+Findings
+
+Purposes
+
+## Source Credit
+
+*(Added [Pub. L. 107–56, title III, § 371(c)](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 337](https://www.govinfo.gov/link/statute/115/337); amended [Pub. L. 108–458, title VI, § 6203(h)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3747](https://www.govinfo.gov/link/statute/118/3747).)*

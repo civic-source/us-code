@@ -3,9 +3,10 @@ title: "Section 5906 - State qualified payment stablecoin issuers"
 usc_title: 12
 usc_section: "5906"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5906"
-generated_at: "2026-03-30T02:53:53.553Z"
+generated_at: "2026-11-23T20:25:59.549Z"
+status: "active"
 ---
 
 # § 5906. State qualified payment stablecoin issuers
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:53:53.553Z"
     - **(A)** This subsection shall only apply to an out-of-State State qualified payment stablecoin issuer chartered, licensed, or otherwise authorized to do business by a State that has a certification in place pursuant to section 5903(c) of this title .
     - **(B)** The laws applicable to an out-of-State qualified payment stablecoin issuer under paragraph (1) exclude host State laws governing the chartering, licensure, or other authorization to do business in the host State as a permitted payment stablecoin issuer pursuant to this chapter.
   - **(4)** Except for State laws relating to the chartering, licensure, or other authorization to do business as a permitted payment stablecoin issuer, nothing in this chapter shall preempt State consumer protection laws, including common law, and the remedies available thereunder.
+
+## Source Credit
+
+*([Pub. L. 119–27, § 7](https://www.govinfo.gov/link/plaw/119/public/27), July 18, 2025, [139 Stat. 447](https://www.govinfo.gov/link/statute/139/447).)*

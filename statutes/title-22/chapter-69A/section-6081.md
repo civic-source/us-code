@@ -3,9 +3,10 @@ title: "Section 6081 - Findings"
 usc_title: 22
 usc_section: "6081"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6081"
-generated_at: "2026-03-30T02:55:05.424Z"
+generated_at: "2026-11-23T20:26:32.592Z"
+status: "active"
 ---
 
 # § 6081. Findings
@@ -30,3 +31,7 @@ The Congress makes the following findings:
   - **(9)** International law recognizes that a nation has the ability to provide for rules of law with respect to conduct outside its territory that has or is intended to have substantial effect within its territory.
   - **(10)** The United States Government has an obligation to its citizens to provide protection against wrongful confiscations by foreign nations and their citizens, including the provision of private remedies.
   - **(11)** To deter trafficking in wrongfully confiscated property, United States nationals who were the victims of these confiscations should be endowed with a judicial remedy in the courts of the United States that would deny traffickers any profits from economically exploiting Castro’s wrongful seizures.
+
+## Source Credit
+
+*([Pub. L. 104–114, title III, § 301](https://www.govinfo.gov/link/plaw/104/public/114), Mar. 12, 1996, [110 Stat. 814](https://www.govinfo.gov/link/statute/110/814).)*

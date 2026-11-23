@@ -3,12 +3,17 @@ title: "Section 154 - Investigations by registrar; revocation of certificate of 
 usc_title: 15
 usc_section: "154"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 154"
-generated_at: "2026-03-30T02:54:08.074Z"
+generated_at: "2026-11-23T20:26:03.652Z"
+status: "active"
 ---
 
 # § 154. Investigations by registrar; revocation of certificate of incorporation
 
 The registrar may, in order to ascertain if the affairs of a China Trade Act corporation are conducted contrary to any provision of this chapter, or any other law, or any treaty of the United States, or the articles of incorporation or bylaws of the corporation, investigate the affairs of the corporation. The registrar, whenever he is satisfied that the affairs of any China Trade Act corporation are or have been so conducted, may institute in the United States Court for China proceedings for the revocation of the certificate of incorporation of the corporation. The court may revoke such certificate if it finds the affairs of such corporation have been so conducted. Pending final decision in the revocation proceedings the court may at any time, upon application of the registrar or upon its own motion, make such orders in respect to the conduct of the affairs of the corporation as it deems advisable.
 
+
+## Source Credit
+
+*(Sept. 19, 1922, ch. 346, § 14, [42 Stat. 853](https://www.govinfo.gov/link/statute/42/853).)*

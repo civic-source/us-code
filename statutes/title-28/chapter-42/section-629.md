@@ -3,9 +3,10 @@ title: "Section 629 - Federal Judicial Center Foundation"
 usc_title: 28
 usc_section: "629"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 629"
-generated_at: "2026-03-30T02:55:30.136Z"
+generated_at: "2026-11-23T20:26:36.407Z"
+status: "active"
 ---
 
 # § 629. Federal Judicial Center Foundation
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:30.136Z"
 - **(d)** Gifts of money and proceeds from sales of other property received as gifts shall be deposited in a separate fund in the Treasury of the United States and disbursed on the order of the Director of the Center, in accordance with policies established by the Board of the Center.
 - **(e)** The Board of the Foundation shall, not later than October 1 of each year, submit to the Committees on the Judiciary of the United States Senate and House of Representatives a report with respect to gifts received under this section during the preceding 12-month period, including the source of each such gift, the amount of each gift of cash or cash equivalent, and a description of any other gift. The Center shall include in its annual report of the activities of the Center under section 623(a)(3) a description of the purposes for which gifts were used during the year covered by the report.
 - **(f)** For the purpose of Federal income, estate, and gift taxes, property accepted under this section shall be considered as a gift or bequest to or for the use of the United States.
+
+## Source Credit
+
+*(Added [Pub. L. 100–702, title III, § 301(a)](https://www.govinfo.gov/link/plaw/100/public/702), Nov. 19, 1988, [102 Stat. 4646](https://www.govinfo.gov/link/statute/102/4646).)*

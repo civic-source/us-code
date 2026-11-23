@@ -3,12 +3,17 @@ title: "Section 402 - Delegation of authority"
 usc_title: 39
 usc_section: "402"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "39 U.S.C. § 402"
-generated_at: "2026-03-30T02:55:43.687Z"
+generated_at: "2026-11-23T20:26:57.706Z"
+status: "active"
 ---
 
 # § 402. Delegation of authority
 
 Except for those powers, duties, or obligations specifically vested in the Governors, as distinguished from the Board of Governors, the Board may delegate the authority vested in it to the Postmaster General under such terms, conditions, and limitations, including the power of redelegation, as it deems desirable. The Board may establish such committees of the Board, and delegate such powers to any committee, as the Board determines appropriate to carry out its functions and duties. Delegations to the Postmaster General or committees shall be consistent with other provisions of this title, shall not relieve the Board of full responsibility for the carrying out of its duties and functions, and shall be revocable by the Governors in their exclusive judgment.
 
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 723](https://www.govinfo.gov/link/statute/84/723).)*

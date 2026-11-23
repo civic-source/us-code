@@ -3,9 +3,10 @@ title: "Section 10 - Academic technology transfer and commercialization of unive
 usc_title: 42
 usc_section: "10"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10"
-generated_at: "2026-03-30T02:56:11.128Z"
+generated_at: "2026-11-23T20:27:21.951Z"
+status: "active"
 ---
 
 # § 1862p–10. Academic technology transfer and commercialization of university research
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.128Z"
   - **(5)** any other information deemed by the institution to be helpful to companies with the potential to commercialize university inventions.
 - **(b)** The National Science Foundation shall create and maintain a website accessible to the public that links to each website mentioned under (a).
 - **(c)** Notwithstanding subsection (a), an institution shall not be required to reveal confidential, trade secret, or proprietary information on its website.
+
+## Source Credit
+
+*([Pub. L. 111–358, title V, § 520](https://www.govinfo.gov/link/plaw/111/public/358), Jan. 4, 2011, [124 Stat. 4016](https://www.govinfo.gov/link/statute/124/4016).)*

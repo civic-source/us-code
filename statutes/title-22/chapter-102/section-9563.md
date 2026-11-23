@@ -3,9 +3,10 @@ title: "Section 9563 - Prioritization of efforts and assistance for energy infra
 usc_title: 22
 usc_section: "9563"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9563"
-generated_at: "2026-03-30T02:55:05.468Z"
+generated_at: "2026-11-23T20:26:32.782Z"
+status: "active"
 ---
 
 # § 9563. Prioritization of efforts and assistance for energy infrastructure projects in Europe and Eurasia
@@ -47,3 +48,9 @@ generated_at: "2026-03-30T02:55:05.468Z"
         - **(I)** designed to produce significant developmental outcomes or provide developmental benefits to the poorest population of that country; or
         - **(II)** necessary to preempt or counter efforts by a strategic competitor of the United States to secure significant political or economic leverage or acquire national security-sensitive technologies or infrastructure in a country that is an ally or partner of the United States.
   - **(2)** In this subsection, the terms “appropriate congressional committees” and “less developed country” have the meanings given those terms in section 9601 of this title .
+
+J.R. Biden, Jr.
+
+## Source Credit
+
+*([Pub. L. 116–94, div. P, title XX, § 2004](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3223](https://www.govinfo.gov/link/statute/133/3223).)*

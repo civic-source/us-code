@@ -3,9 +3,10 @@ title: "Section 6867 - Administration of projects receiving financial assistance
 usc_title: 42
 usc_section: "6867"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6867"
-generated_at: "2026-03-30T02:56:11.268Z"
+generated_at: "2026-11-23T20:27:22.718Z"
+status: "active"
 ---
 
 # § 6867. Administration of projects receiving financial assistance
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.268Z"
 - **(b)** Each person responsible for the administration of a weatherization assistance project receiving financial assistance under this part shall keep such records as the Secretary may prescribe in order to assure an effective financial audit and performance evaluation of such project.
 - **(c)** The Secretary, the Director (with respect to community action agencies), and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, information, and records of any project receiving financial assistance under this part that are pertinent to the financial assistance received under this part.
 - **(d)** Payments under this part may be made in installments and in advance, or by way of reimbursement, with necessary adjustments on account of overpayments or underpayments.
+
+## Source Credit
+
+*([Pub. L. 94–385, title IV, § 417](https://www.govinfo.gov/link/plaw/94/public/385), Aug. 14, 1976, [90 Stat. 1156](https://www.govinfo.gov/link/statute/90/1156); [Pub. L. 96–294, title V, § 577(2)](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 760](https://www.govinfo.gov/link/statute/94/760).)*

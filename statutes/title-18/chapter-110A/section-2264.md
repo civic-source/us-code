@@ -3,9 +3,10 @@ title: "Section 2264 - Restitution"
 usc_title: 18
 usc_section: "2264"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2264"
-generated_at: "2026-03-30T02:54:16.499Z"
+generated_at: "2026-11-23T20:26:08.581Z"
+status: "active"
 ---
 
 # § 2264. Restitution
@@ -28,3 +29,23 @@ generated_at: "2026-03-30T02:54:16.499Z"
       - **(i)** the economic circumstances of the defendant; or
       - **(ii)** the fact that a victim has, or is entitled to, receive compensation for his or her injuries from the proceeds of insurance or any other source.
 - **(c)** For purposes of this section, the term “victim” means the individual harmed as a result of a commission of a crime under this chapter, including, in the case of a victim who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardian of the victim or representative of the victim’s estate, another family member, or any other person appointed as suitable by the court, but in no event shall the defendant be named as such representative or guardian.
+
+In General
+
+Scope and Nature of Order.—
+
+Directions
+
+Enforcement
+
+Definition
+
+Order mandatory
+
+Victim Defined
+
+Affidavit
+
+## Source Credit
+
+*(Added [Pub. L. 103–322, title IV, § 40221(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1928](https://www.govinfo.gov/link/statute/108/1928); amended [Pub. L. 104–132, title II, § 205(d)](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1231](https://www.govinfo.gov/link/statute/110/1231); [Pub. L. 115–334, title XII, § 12502(a)(3)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4983](https://www.govinfo.gov/link/statute/132/4983).)*

@@ -3,9 +3,10 @@ title: "Section 7242 - Improper influence on conduct of audits"
 usc_title: 15
 usc_section: "7242"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 7242"
-generated_at: "2026-03-30T02:54:08.220Z"
+generated_at: "2026-11-23T20:26:04.444Z"
+status: "active"
 ---
 
 # § 7242. Improper influence on conduct of audits
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.220Z"
 - **(d)** The Commission shall—
   - **(1)** propose the rules or regulations required by this section, not later than 90 days after July 30, 2002 ; and
   - **(2)** issue final rules or regulations required by this section, not later than 270 days after July 30, 2002 .
+
+## Source Credit
+
+*([Pub. L. 107–204, title III, § 303](https://www.govinfo.gov/link/plaw/107/public/204), July 30, 2002, [116 Stat. 778](https://www.govinfo.gov/link/statute/116/778).)*

@@ -3,9 +3,10 @@ title: "Section 1 - Grants to promote comprehensive State elder justice systems"
 usc_title: 42
 usc_section: "1"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T02:56:11.181Z"
+generated_at: "2026-11-23T20:27:22.251Z"
+status: "active"
 ---
 
 # § 3058aa–1. Grants to promote comprehensive State elder justice systems
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.181Z"
     - **(C)** providing for appropriate education (including educating the public about the range of available elder justice information, programs, and services), training, and technical assistance; and
     - **(D)** taking such other steps as the Assistant Secretary determines appropriate.
   - **(2)** Funds made available to States pursuant to this section shall be used to supplement and not supplant other Federal, State, and local funds expended to support activities described in paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 89–73, title VII, § 752](https://www.govinfo.gov/link/plaw/89/public/73), as added [Pub. L. 109–365, title VII, § 704(2)](https://www.govinfo.gov/link/plaw/109/public/365), Oct. 17, 2006, [120 Stat. 2593](https://www.govinfo.gov/link/statute/120/2593).)*

@@ -3,9 +3,10 @@ title: "Section 956 - National Endowment for the Humanities"
 usc_title: 20
 usc_section: "956"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 956"
-generated_at: "2026-03-30T02:54:48.088Z"
+generated_at: "2026-11-23T20:26:14.280Z"
+status: "active"
 ---
 
 # § 956. National Endowment for the Humanities
@@ -103,3 +104,7 @@ generated_at: "2026-03-30T02:54:48.088Z"
 - **(m)** The Chairperson, with the advice of the National Council on the Humanities, is authorized to make the following annual awards:
   - **(1)** The Jefferson Lecture in the Humanities Award to one individual for distinguished intellectual achievement in the humanities. The annual award shall not exceed $10,000.
   - **(2)** The Charles Frankel Prize to honor individuals who have made outstanding contributions to the public understanding of the humanities. Not more than 5 individuals may receive such prize each year. Each prize shall not exceed $5,000.
+
+## Source Credit
+
+*([Pub. L. 89–209, § 7](https://www.govinfo.gov/link/plaw/89/public/209), Sept. 29, 1965, [79 Stat. 850](https://www.govinfo.gov/link/statute/79/850); [Pub. L. 90–83, § 10(b)](https://www.govinfo.gov/link/plaw/90/public/83), Sept. 11, 1967, [81 Stat. 223](https://www.govinfo.gov/link/statute/81/223); [Pub. L. 91–346, § 8](https://www.govinfo.gov/link/plaw/91/public/346), July 20, 1970, [84 Stat. 445](https://www.govinfo.gov/link/statute/84/445); [Pub. L. 93–133](https://www.govinfo.gov/link/plaw/93/public/133), §§ 2(a)(6), 3, Oct. 19, 1973, [87 Stat. 464](https://www.govinfo.gov/link/statute/87/464), 465; [Pub. L. 94–462, title I](https://www.govinfo.gov/link/plaw/94/public/462), §§ 104(a), 105, title III, § 301(b), Oct. 8, 1976, [90 Stat. 1971](https://www.govinfo.gov/link/statute/90/1971), 1974, 1979; [Pub. L. 96–496, title I](https://www.govinfo.gov/link/plaw/96/public/496), §§ 104, 109(c), Dec. 4, 1980, [94 Stat. 2584](https://www.govinfo.gov/link/statute/94/2584), 2591; renumbered title I, § 7, [Pub. L. 98–306, § 2](https://www.govinfo.gov/link/plaw/98/public/306), May 31, 1984, [98 Stat. 223](https://www.govinfo.gov/link/statute/98/223); renumbered § 7 and amended [Pub. L. 99–194, title I](https://www.govinfo.gov/link/plaw/99/public/194), §§ 101(1), 107, Dec. 20, 1985, [99 Stat. 1332](https://www.govinfo.gov/link/statute/99/1332), 1335; [Pub. L. 101–512, title III, § 318 [title I, § 107]](https://www.govinfo.gov/link/plaw/101/public/512), Nov. 5, 1990, [104 Stat. 1960](https://www.govinfo.gov/link/statute/104/1960), 1969.)*

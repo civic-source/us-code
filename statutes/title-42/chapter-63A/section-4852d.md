@@ -3,9 +3,10 @@ title: "Section 4852d - Disclosure of information concerning lead upon transfer 
 usc_title: 42
 usc_section: "4852d"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4852d"
-generated_at: "2026-03-30T02:56:11.209Z"
+generated_at: "2026-11-23T20:27:22.422Z"
+status: "active"
 ---
 
 # § 4852d. Disclosure of information concerning lead upon transfer of residential property
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:11.209Z"
   - **(5)** It shall be a prohibited act under section 409 of the Toxic Substances Control Act [ 15 U.S.C. 2689 ] for any person to fail or refuse to comply with a provision of this section or with any rule or order issued under this section. For purposes of enforcing this section under the Toxic Substances Control Act [ 15 U.S.C. 2601 et seq.], the penalty for each violation applicable under section 16 of that Act [ 15 U.S.C. 2615 ] shall not be more than $10,000.
 - **(c)** Nothing in this section shall affect the validity or enforceability of any sale or contract for the purchase and sale or lease of any interest in residential real property or any loan, loan agreement, mortgage, or lien made or arising in connection with a mortgage loan, nor shall anything in this section create a defect in title.
 - **(d)** The regulations under this section shall take effect 3 years after October 28, 1992 .
+
+## Source Credit
+
+*([Pub. L. 102–550, title X, § 1018](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3910](https://www.govinfo.gov/link/statute/106/3910).)*

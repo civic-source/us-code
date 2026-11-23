@@ -3,9 +3,10 @@ title: "Section 2715 - Subpoena and deposition authority"
 usc_title: 25
 usc_section: "2715"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 2715"
-generated_at: "2026-03-30T02:54:52.843Z"
+generated_at: "2026-11-23T20:26:25.608Z"
+status: "active"
 ---
 
 # § 2715. Subpoena and deposition authority
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:52.843Z"
 - **(d)** A Commissioner may order testimony to be taken by deposition in any proceeding or investigation pending before the Commission at any stage of such proceeding or investigation. Such depositions may be taken before any person designated by the Commission and having power to administer oaths. Reasonable notice must first be given to the Commission in writing by the party or his attorney proposing to take such deposition, and, in cases in which a Commissioner proposes to take a deposition, reasonable notice must be given. The notice shall state the name of the witness and the time and place of the taking of his deposition. Any person may be compelled to appear and depose, and to produce books, papers, or documents, in the same manner as witnesses may be compelled to appear and testify and produce like documentary evidence before the Commission, as hereinbefore provided.
 - **(e)** Every person deposing as herein provided shall be cautioned and shall be required to swear (or affirm, if he so requests) to testify to the whole truth, and shall be carefully examined. His testimony shall be reduced to writing by the person taking the deposition, or under his direction, and shall, after it has been reduced to writing, be subscribed by the deponent. All depositions shall be promptly filed with the Commission.
 - **(f)** Witnesses whose depositions are taken as authorized in this section, and the persons taking the same, shall severally be entitled to the same fees as are paid for like services in the courts of the United States.
+
+## Source Credit
+
+*([Pub. L. 100–497, § 16](https://www.govinfo.gov/link/plaw/100/public/497), Oct. 17, 1988, [102 Stat. 2483](https://www.govinfo.gov/link/statute/102/2483).)*

@@ -3,9 +3,10 @@ title: "Section 2238e - Additional projects for underserved community harbors"
 usc_title: 33
 usc_section: "2238e"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2238e"
-generated_at: "2026-03-30T02:55:41.116Z"
+generated_at: "2026-11-23T20:26:54.135Z"
+status: "active"
 ---
 
 # § 2238e. Additional projects for underserved community harbors
@@ -30,3 +31,9 @@ generated_at: "2026-03-30T02:55:41.116Z"
   - **(1)** There is authorized to be appropriated to carry out this section $50,000,000 from the General Fund of the Treasury for each of fiscal years 2023 through 2029, to be deposited into the “ corps of engineers—civil—operation and maintenance ” account.
   - **(2)** Not less than 35 percent of the amounts made available to carry out this section for each fiscal year shall be used for projects involving the beneficial use of dredged material.
 - **(i)** The Secretary may carry out not more than 10 projects under this section that are projects for an underserved community harbor that is a marina or berthing area described in subsection (g)(2).
+
+corps of engineers—civil—operation and maintenance
+
+## Source Credit
+
+*([Pub. L. 117–263, div. H, title LXXXI, § 8132](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3719](https://www.govinfo.gov/link/statute/136/3719); [Pub. L. 118–272, div. A, title III, § 1356](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3161](https://www.govinfo.gov/link/statute/138/3161).)*

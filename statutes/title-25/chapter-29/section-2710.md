@@ -3,9 +3,10 @@ title: "Section 2710 - Tribal gaming ordinances"
 usc_title: 25
 usc_section: "2710"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 2710"
-generated_at: "2026-03-30T02:54:52.842Z"
+generated_at: "2026-11-23T20:26:25.605Z"
+status: "active"
 ---
 
 # § 2710. Tribal gaming ordinances
@@ -135,3 +136,7 @@ generated_at: "2026-03-30T02:54:52.842Z"
     - **(D)** The Secretary shall publish in the Federal Register notice of any Tribal-State compact that is approved, or considered to have been approved, under this paragraph.
   - **(9)** An Indian tribe may enter into a management contract for the operation of a class III gaming activity if such contract has been submitted to, and approved by, the Chairman. The Chairman’s review and approval of such contract shall be governed by the provisions of subsections (b), (c), (d), (f), (g), and (h) of section 2711 of this title .
 - **(e)** For purposes of this section, by not later than the date that is 90 days after the date on which any tribal gaming ordinance or resolution is submitted to the Chairman, the Chairman shall approve such ordinance or resolution if it meets the requirements of this section. Any such ordinance or resolution not acted upon at the end of that 90-day period shall be considered to have been approved by the Chairman, but only to the extent such ordinance or resolution is consistent with the provisions of this chapter.
+
+## Source Credit
+
+*([Pub. L. 100–497, § 11](https://www.govinfo.gov/link/plaw/100/public/497), Oct. 17, 1988, [102 Stat. 2472](https://www.govinfo.gov/link/statute/102/2472).)*

@@ -3,9 +3,10 @@ title: "Section 2000gg - Definitions"
 usc_title: 42
 usc_section: "2000gg"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2000gg"
-generated_at: "2026-03-30T02:56:11.144Z"
+generated_at: "2026-11-23T20:27:22.038Z"
+status: "active"
 ---
 
 # § 2000gg. Definitions
@@ -33,3 +34,7 @@ As used in this chapter—
     - **(B)** the essential function could be performed in the near future; and
     - **(C)** the inability to perform the essential function can be reasonably accommodated; and
   - **(7)** the terms “reasonable accommodation” and “undue hardship” have the meanings given such terms in section 101 of the Americans with Disabilities Act of 1990 ( 42 U.S.C. 12111 ) and shall be construed as such terms are construed under such Act [ 42 U.S.C. 12101 et seq.] and as set forth in the regulations required by this chapter, including with regard to the interactive process that will typically be used to determine an appropriate reasonable accommodation.
+
+## Source Credit
+
+*([Pub. L. 117–328, div. II, § 102](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 6084](https://www.govinfo.gov/link/statute/136/6084).)*

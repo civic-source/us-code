@@ -3,9 +3,10 @@ title: "Section 701 - Entitlement and accumulation"
 usc_title: 10
 usc_section: "701"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 701"
-generated_at: "2026-03-30T02:53:38.074Z"
+generated_at: "2026-11-23T20:25:51.043Z"
+status: "active"
 ---
 
 # § 701. Entitlement and accumulation
@@ -98,3 +99,40 @@ generated_at: "2026-03-30T02:53:38.074Z"
       - **(ii)** authorize leave tailored to the specific medical needs of the member rather than (except for convalescent leave provided for under subsection (h)(3)) authorizing leave based on a predetermined formula.
   - **(4)** A member taking convalescent leave under paragraph (1) shall not have the member’s leave account reduced as a result of taking such leave.
   - **(5)** In this subsection, the term “military medical treatment facility” means a facility described in subsection (b), (c), or (d) of section 1073d of this title .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 701(a) 701(b) 701(c) 701(d) 701(e) | 37:31a(a) (1st, 2d, and last sentences). 37:31a(b) (less proviso). 37:31a(a) (8th sentence). 37:31a(a) (3d sentence). 37:31a(a) (9th sentence). | Aug. 9, 1946, ch. 931, § 3(a) (less 4th, 5th, 6th, and 7th sentences), (b) (less proviso), 60 Stat. 963 ; Sept. 23, 1950, ch. 998, § 1 , 64 Stat. 978 ; Aug. 10, 1956, ch. 1041, § 23 , 70A, Stat. 630. |
+
+
+Historical and Revision Notes
+
+701(a)
+
+701(b)
+
+701(c)
+
+701(d)
+
+701(e)
+
+Aug. 9, 1946, ch. 931, § 3(a)
+
+60 Stat. 963
+
+Sept. 23, 1950, ch. 998, § 1
+
+64 Stat. 978
+
+Aug. 10, 1956, ch. 1041, § 23
+
+“Not later than 180 days after the date of the enactment of this section [ Dec. 18, 2025 ], the Secretary of Defense shall—
+
+“Leave in excess of 90 days, accumulated by a member of the Armed Forces under section 701 of such title [meaning title 10, United States Code] before the effective date under subsection (c) [set out as a note above], is forfeited unless—
+
+“Not later than January 1, 2023 , and annually thereafter, each Secretary of a military department shall submit, to the Committees on Armed Services of the Senate and House of Representatives, a report regarding the use, during the preceding fiscal year, of leave under subsections (i) and (j) [now subsecs. (h) and (i)] of section 701 of such title, as amended by subsection (a), disaggregated by births, adoptions, and foster placements, including the number of members of the Armed Forces who—
+
+## Source Credit
+
+*(Added [Pub. L. 87–649, § 3(1)](https://www.govinfo.gov/link/plaw/87/public/649), Sept. 7, 1962, [76 Stat. 492](https://www.govinfo.gov/link/statute/76/492); amended [Pub. L. 89–151, § 3](https://www.govinfo.gov/link/plaw/89/public/151), Aug. 28, 1965, [79 Stat. 586](https://www.govinfo.gov/link/statute/79/586); [Pub. L. 90–245, § 1](https://www.govinfo.gov/link/plaw/90/public/245), Jan. 2, 1968, [81 Stat. 782](https://www.govinfo.gov/link/statute/81/782); [Pub. L. 92–596, § 1](https://www.govinfo.gov/link/plaw/92/public/596), Oct. 27, 1972, [86 Stat. 1317](https://www.govinfo.gov/link/statute/86/1317); [Pub. L. 96–579, § 10](https://www.govinfo.gov/link/plaw/96/public/579), Dec. 23, 1980, [94 Stat. 3368](https://www.govinfo.gov/link/statute/94/3368); [Pub. L. 97–81, § 2(a)](https://www.govinfo.gov/link/plaw/97/public/81), Nov. 20, 1981, [95 Stat. 1085](https://www.govinfo.gov/link/statute/95/1085); [Pub. L. 98–94, title X, § 1031(a)](https://www.govinfo.gov/link/plaw/98/public/94), Sept. 24, 1983, [97 Stat. 671](https://www.govinfo.gov/link/statute/97/671); [Pub. L. 98–525, title XIV, § 1405(18)](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2622](https://www.govinfo.gov/link/statute/98/2622); [Pub. L. 99–661, div. A, title V, § 506(a)](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 3864](https://www.govinfo.gov/link/statute/100/3864); [Pub. L. 102–190, div. A, title VI, § 638](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1384](https://www.govinfo.gov/link/statute/105/1384); [Pub. L. 108–136, div. A, title V, § 542(a)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1478](https://www.govinfo.gov/link/statute/117/1478); [Pub. L. 109–163, div. A, title V, § 593(a)](https://www.govinfo.gov/link/plaw/109/public/163), title VI, § 682, Jan. 6, 2006, [119 Stat. 3280](https://www.govinfo.gov/link/statute/119/3280), 3321; [Pub. L. 110–181, div. A, title V, § 551(a)](https://www.govinfo.gov/link/plaw/110/public/181) –(c), Jan. 28, 2008, [122 Stat. 117](https://www.govinfo.gov/link/statute/122/117); [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title V, § 532(a), Oct. 14, 2008, [122 Stat. 4449](https://www.govinfo.gov/link/statute/122/4449); [Pub. L. 111–84, div. A, title V, § 504](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2277](https://www.govinfo.gov/link/statute/123/2277); [Pub. L. 111–383, div. A, title V, § 516(a)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4213](https://www.govinfo.gov/link/statute/124/4213); [Pub. L. 112–239, div. A, title V, § 521](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1722](https://www.govinfo.gov/link/statute/126/1722); [Pub. L. 114–328, div. A, title V, § 521(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2113](https://www.govinfo.gov/link/statute/130/2113); [Pub. L. 116–92, div. A, title V](https://www.govinfo.gov/link/plaw/116/public/92), §§ 571, 572, Dec. 20, 2019, [133 Stat. 1403](https://www.govinfo.gov/link/statute/133/1403); [Pub. L. 117–81, div. A, title VI](https://www.govinfo.gov/link/plaw/117/public/81), §§ 621(a), 622(a), Dec. 27, 2021, [135 Stat. 1770](https://www.govinfo.gov/link/statute/135/1770), 1771; [Pub. L. 117–263, div. A, title VI](https://www.govinfo.gov/link/plaw/117/public/263), §§ 631(a), (b), 632(a), 633(a), (b), Dec. 23, 2022, [136 Stat. 2631–2633](https://www.govinfo.gov/link/statute/136/2631); [Pub. L. 118–31, div. A, title XVII, § 1722(d)(1)](https://www.govinfo.gov/link/plaw/118/public/31), title XVIII, § 1801(a)(10), Dec. 22, 2023, [137 Stat. 670](https://www.govinfo.gov/link/statute/137/670), 684; [Pub. L. 118–159, div. A, title VI, § 602](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1931](https://www.govinfo.gov/link/statute/138/1931); [Pub. L. 119–60, div. A, title VI, § 631(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 911](https://www.govinfo.gov/link/statute/139/911).)*

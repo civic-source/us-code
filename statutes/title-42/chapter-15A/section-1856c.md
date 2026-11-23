@@ -3,12 +3,17 @@ title: "Section 1856c - Service in line of duty"
 usc_title: 42
 usc_section: "1856c"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1856c"
-generated_at: "2026-03-30T02:56:11.124Z"
+generated_at: "2026-11-23T20:27:21.925Z"
+status: "active"
 ---
 
 # § 1856c. Service in line of duty
 
 Any service performed under section 1856a or section 1856b of this title , by any officer or employee of the United States or any member of any armed force of the United States shall constitute service rendered in line of duty in such office, employment, or force. The performance of such service by any other individual shall not constitute such individual an officer or employee of the United States for the purposes of subchapter I of chapter 81 of title 5.
 
+
+## Source Credit
+
+*(May 27, 1955, ch. 105, § 4, [69 Stat. 67](https://www.govinfo.gov/link/statute/69/67).)*

@@ -3,9 +3,10 @@ title: "Section 150904 - Governing body"
 usc_title: 36
 usc_section: "150904"
 chapter: 1509
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 150904"
-generated_at: "2026-03-30T02:55:44.703Z"
+generated_at: "2026-11-23T20:26:58.974Z"
+status: "active"
 ---
 
 # § 150904. Governing body
@@ -16,3 +17,29 @@ generated_at: "2026-03-30T02:55:44.703Z"
 - **(b)**
   - **(1)** The officers of the corporation are a president, one or more vice presidents, a secretary, a treasurer, and other officers as provided in the bylaws. Their duties are as provided in the bylaws.
   - **(2)** The officers shall be elected at the annual meeting of the corporation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 150904(a) | 36:4507. | July 14, 1964 , Pub. L. 88–376 , §§ 7, 8, 78 Stat. 322 . |
+| 150904(b) | 36:4508. |  |
+
+
+Board of Directors
+
+Officers
+
+Historical and Revision Notes
+
+150904(a)
+
+July 14, 1964
+
+Pub. L. 88–376
+
+78 Stat. 322
+
+150904(b)
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1395](https://www.govinfo.gov/link/statute/112/1395).)*

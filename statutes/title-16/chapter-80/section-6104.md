@@ -3,9 +3,10 @@ title: "Section 6104 - Financial assistance"
 usc_title: 16
 usc_section: "6104"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6104"
-generated_at: "2026-03-30T02:54:23.054Z"
+generated_at: "2026-11-23T20:26:20.786Z"
+status: "active"
 ---
 
 # § 6104. Financial assistance
@@ -37,3 +38,11 @@ generated_at: "2026-03-30T02:54:23.054Z"
     - **(B)**
       - **(i)** The non-Federal share required to be paid for a project carried out in the United States or Canada shall be paid in cash.
       - **(ii)** The non-Federal share required to be paid for a project carried out in Latin America or the Caribbean may be paid in cash or in kind.
+
+Projects in the united states
+
+Projects in foreign countries
+
+## Source Credit
+
+*([Pub. L. 106–247, § 5](https://www.govinfo.gov/link/plaw/106/public/247), July 20, 2000, [114 Stat. 594](https://www.govinfo.gov/link/statute/114/594); [Pub. L. 109–363, title III, § 302(d)](https://www.govinfo.gov/link/plaw/109/public/363), (e), Oct. 17, 2006, [120 Stat. 2076](https://www.govinfo.gov/link/statute/120/2076); [Pub. L. 118–51, § 2(a)](https://www.govinfo.gov/link/plaw/118/public/51), Apr. 24, 2024, [138 Stat. 1005](https://www.govinfo.gov/link/statute/138/1005).)*

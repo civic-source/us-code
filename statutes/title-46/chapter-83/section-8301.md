@@ -3,9 +3,10 @@ title: "Section 8301 - Minimum number of licensed individuals"
 usc_title: 46
 usc_section: "8301"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 8301"
-generated_at: "2026-03-30T02:56:15.552Z"
+generated_at: "2026-11-23T20:27:27.135Z"
+status: "active"
 ---
 
 # § 8301. Minimum number of licensed individuals
@@ -27,3 +28,16 @@ generated_at: "2026-03-30T02:56:15.552Z"
   - **(1)** suspend any part of this chapter during a national emergency proclaimed by the President; and
   - **(2)** increase the number of licensed individuals on a vessel to which this chapter applies if, in the Secretary’s judgment, the vessel is not sufficiently manned for safe operation.
 - **(e)** The Secretary may prescribe the minimum number of licensed individuals for an oil spill response vessel.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 8301 | 46:223 46:404–1(8) |
+
+
+Historical and Revision Notes
+
+8301
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 550](https://www.govinfo.gov/link/statute/97/550); [Pub. L. 98–557, § 29(c)](https://www.govinfo.gov/link/plaw/98/public/557), (d), Oct. 30, 1984, [98 Stat. 2873](https://www.govinfo.gov/link/statute/98/2873), 2874; [Pub. L. 99–640, § 11(d)](https://www.govinfo.gov/link/plaw/99/public/640), Nov. 10, 1986, [100 Stat. 3550](https://www.govinfo.gov/link/statute/100/3550); [Pub. L. 100–448, § 7](https://www.govinfo.gov/link/plaw/100/public/448), Sept. 28, 1988, [102 Stat. 1842](https://www.govinfo.gov/link/statute/102/1842); [Pub. L. 103–206, title III, § 322(b)](https://www.govinfo.gov/link/plaw/103/public/206), Dec. 20, 1993, [107 Stat. 2428](https://www.govinfo.gov/link/statute/107/2428); [Pub. L. 104–324, title VII, § 729](https://www.govinfo.gov/link/plaw/104/public/324), title XI, § 1104(d), Oct. 19, 1996, [110 Stat. 3940](https://www.govinfo.gov/link/statute/110/3940), 3967; [Pub. L. 111–281, title VI, § 617(c)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2973](https://www.govinfo.gov/link/statute/124/2973).)*

@@ -3,9 +3,10 @@ title: "Section 2162 - Preparation of budget requests for operation of professio
 usc_title: 10
 usc_section: "2162"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2162"
-generated_at: "2026-03-30T02:53:38.145Z"
+generated_at: "2026-11-23T20:25:51.462Z"
+status: "active"
 ---
 
 # § 2162. Preparation of budget requests for operation of professional military education schools
@@ -27,3 +28,17 @@ generated_at: "2026-03-30T02:53:38.145Z"
   - **(8)** The Marine Corps University.
   - **(9)** The Space Force Senior Level Education Program.
   - **(10)** The Space Force Intermediate Level Education Program.
+
+Uniform Cost Accounting
+
+Preparation of Budget Requests
+
+Comparison of Budget Requests
+
+Professional Military Education Schools
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 101–510, div. A, title IX, § 911(a)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1625](https://www.govinfo.gov/link/statute/104/1625); amended [Pub. L. 105–85, div. A, title IX, § 921(b)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1862](https://www.govinfo.gov/link/statute/111/1862); [Pub. L. 107–107, div. A, title V, § 527(b)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1102](https://www.govinfo.gov/link/statute/115/1102); [Pub. L. 107–314, div. A, title X, § 1062(a)(7)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2650](https://www.govinfo.gov/link/statute/116/2650); [Pub. L. 119–60, div. A, title V, § 552(b)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 877](https://www.govinfo.gov/link/statute/139/877).)*

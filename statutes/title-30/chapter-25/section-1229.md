@@ -3,9 +3,10 @@ title: "Section 1229 - Committee on Mining and Mineral Resources Research"
 usc_title: 30
 usc_section: "1229"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1229"
-generated_at: "2026-03-30T02:55:29.396Z"
+generated_at: "2026-11-23T20:26:34.996Z"
+status: "active"
 ---
 
 # § 1229. Committee on Mining and Mineral Resources Research
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:29.396Z"
 - **(d)** The Committee shall be jointly chaired by the Assistant Secretary of the Interior responsible for minerals and mining and a person to be elected by the Committee from among the members referred to in paragraphs (5), (6), and (7) of subsection (a) of this section.
 - **(e)** The Committee shall develop a national plan for research in mining and mineral resources, considering ongoing efforts in the universities, the Federal Government, and the private sector, and shall formulate and recommend a program to implement the plan utilizing resources provided for under this subchapter. The Committee shall submit such plan to the Secretary, the President, and the Congress on or before March 1, 1986 , and shall submit an annual update of such plan by January 15 of each calendar year.
 - **(f)** Section 1009 of title 5 shall not apply to the Committee.
+
+## Source Credit
+
+*([Pub. L. 98–409, § 9](https://www.govinfo.gov/link/plaw/98/public/409), Aug. 29, 1984, [98 Stat. 1540](https://www.govinfo.gov/link/statute/98/1540); [Pub. L. 100–483](https://www.govinfo.gov/link/plaw/100/public/483), §§ 8, 9, Oct. 12, 1988, [102 Stat. 2340](https://www.govinfo.gov/link/statute/102/2340); [Pub. L. 102–285, § 10(b)](https://www.govinfo.gov/link/plaw/102/public/285), May 18, 1992, [106 Stat. 172](https://www.govinfo.gov/link/statute/106/172); [Pub. L. 117–286, § 4(a)(193)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4327](https://www.govinfo.gov/link/statute/136/4327).)*

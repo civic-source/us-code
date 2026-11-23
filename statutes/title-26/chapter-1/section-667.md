@@ -3,9 +3,10 @@ title: "Section 667 - Treatment of amounts deemed distributed by trust in preced
 usc_title: 26
 usc_section: "667"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 667"
-generated_at: "2026-03-30T02:55:27.723Z"
+generated_at: "2026-11-23T20:26:45.856Z"
+status: "active"
 ---
 
 # § 667. Treatment of amounts deemed distributed by trust in preceding years
@@ -42,3 +43,9 @@ generated_at: "2026-03-30T02:55:27.723Z"
       - **(ii)** The items of income, deduction, and credit of the Trust shall retain their character (subject to the application of section 904(f)(5)) to the extent necessary to apply this paragraph.
     - **(D)** For purposes of this paragraph, the term “computation year” means any of the three taxable years remaining after application of subsection (b)(1)(B).
 - **(e)** In the case of a distribution from a trust to a nonresident alien individual or to a foreign corporation, the first sentence of subsection (a) shall be applied as if the reference to the determination of character under section 662(b) applied to all amounts instead of just to tax-exempt interest.
+
+“The amendment made by paragraph (1) [amending this section] shall apply—
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 225; [Pub. L. 91–172, title III, § 331(a)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 594](https://www.govinfo.gov/link/statute/83/594); [Pub. L. 94–455, title VII, § 701(a)(1)](https://www.govinfo.gov/link/plaw/94/public/455), title X, § 1014(a), Oct. 4, 1976, [90 Stat. 1575](https://www.govinfo.gov/link/statute/90/1575), 1617; [Pub. L. 95–30, title I, § 102(b)(8)](https://www.govinfo.gov/link/plaw/95/public/30), May 23, 1977, [91 Stat. 138](https://www.govinfo.gov/link/statute/91/138); [Pub. L. 95–600, title VII](https://www.govinfo.gov/link/plaw/95/public/600), §§ 701(q)(1)(B), (C), (r)(1), 702(o)(1), Nov. 6, 1978, [92 Stat. 2909](https://www.govinfo.gov/link/statute/92/2909), 2910, 2936; [Pub. L. 99–514, title I, § 104(b)(10)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2105](https://www.govinfo.gov/link/statute/100/2105).)*

@@ -3,9 +3,10 @@ title: "Section 44810 - Airport safety and airspace hazard mitigation and enforc
 usc_title: 49
 usc_section: "44810"
 chapter: 448
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44810"
-generated_at: "2026-03-30T02:56:19.389Z"
+generated_at: "2026-11-23T20:27:35.201Z"
+status: "active"
 ---
 
 # § 44810. Airport safety and airspace hazard mitigation and enforcement
@@ -23,3 +24,45 @@ generated_at: "2026-03-30T02:56:19.389Z"
 - **(g)** Section 46502 of this title , section 32 of title 18 , United States Code (commonly known as the Aircraft Sabotage Act), section 1031 of title 18 , United States Code (commonly known as the Computer Fraud and Abuse Act of 1986), 1 sections 2510–2522 of title 18, United States Code (commonly known as the Wiretap Act), and sections 3121–3127 of title 18, United States Code (commonly known as the Pen/Trap Statute), shall not apply to activities authorized by the Administrator pursuant to subsection 3 3 So in original. Probably should be “subsections”. (c) and (d).
 - **(h)** This section ceases to be effective September 30, 2028 .
 - **(i)** The Administrator shall not delegate any authority granted to the Administrator under this section to other Federal, State, local, territorial, or tribal agencies, or an airport sponsor, as defined in section 47102 of title 49 , United States Code. The Administrator may partner with other Federal agencies under this section, subject to any restrictions contained in such agencies’ authority to operate counter unmanned aircraft systems.
+
+Coordination
+
+Plan.—
+
+In general
+
+Contents
+
+Aviation rulemaking committee
+
+Non-delegation
+
+Airspace Hazard Mitigation Program
+
+Authority
+
+Aip Funding Eligibility
+
+Briefing
+
+Applicability of Other Laws
+
+Sunset
+
+Non-delegation
+
+UAS Safety Enforcement
+
+Reporting
+
+Report to Congress
+
+Sunset
+
+Civil Penalties
+
+Rule of Construction
+
+## Source Credit
+
+*(Added [Pub. L. 115–254, div. B, title III, § 383(a)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3321](https://www.govinfo.gov/link/statute/132/3321); amended [Pub. L. 118–15, div. B, title II, § 2202(d)](https://www.govinfo.gov/link/plaw/118/public/15), Sept. 30, 2023, [137 Stat. 83](https://www.govinfo.gov/link/statute/137/83); [Pub. L. 118–34, title I, § 102(d)](https://www.govinfo.gov/link/plaw/118/public/34), Dec. 26, 2023, [137 Stat. 1113](https://www.govinfo.gov/link/statute/137/1113); [Pub. L. 118–41, title I, § 102(d)](https://www.govinfo.gov/link/plaw/118/public/41), Mar. 8, 2024, [138 Stat. 21](https://www.govinfo.gov/link/statute/138/21); [Pub. L. 118–63, title IX, § 904](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1341](https://www.govinfo.gov/link/statute/138/1341).)*

@@ -3,9 +3,10 @@ title: "Section 3202 - Beneficiary country"
 usc_title: 19
 usc_section: "3202"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3202"
-generated_at: "2026-03-30T02:54:24.688Z"
+generated_at: "2026-11-23T20:26:11.034Z"
+status: "active"
 ---
 
 # § 3202. Beneficiary country
@@ -69,3 +70,11 @@ generated_at: "2026-03-30T02:54:24.688Z"
     - **(A)** with respect to subsections (c) and (d), the results of a general review of beneficiary countries based on the considerations described in such subsections; and
     - **(B)** the performance of each beneficiary country or ATPEA 2 2 So in original. Probably should be “ATPDEA”. beneficiary country, as the case may be, under the criteria set forth in section 3203(b)(6)(B) of this title .
   - **(2)** Before submitting the report described in paragraph (1), the United States Trade Representative shall publish a notice in the Federal Register requesting public comments on whether beneficiary countries are meeting the criteria listed in section 3203(b)(6)(B) of this title .
+
+In general
+
+Content of regulations
+
+## Source Credit
+
+*([Pub. L. 102–182, title II, § 203](https://www.govinfo.gov/link/plaw/102/public/182), Dec. 4, 1991, [105 Stat. 1236](https://www.govinfo.gov/link/statute/105/1236); [Pub. L. 103–465, title VI, § 621(a)(3)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4992](https://www.govinfo.gov/link/statute/108/4992); [Pub. L. 104–188, title I, § 1954(a)(2)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1927](https://www.govinfo.gov/link/statute/110/1927); [Pub. L. 106–200, title II, § 211(c)(2)](https://www.govinfo.gov/link/plaw/106/public/200), May 18, 2000, [114 Stat. 287](https://www.govinfo.gov/link/statute/114/287); [Pub. L. 107–210, div. C, title XXXI, § 3103(b)](https://www.govinfo.gov/link/plaw/107/public/210), (e), Aug. 6, 2002, [116 Stat. 1033](https://www.govinfo.gov/link/statute/116/1033); [Pub. L. 111–124, § 2(c)](https://www.govinfo.gov/link/plaw/111/public/124), Dec. 28, 2009, [123 Stat. 3484](https://www.govinfo.gov/link/statute/123/3484); [Pub. L. 111–344, title II, § 201(d)](https://www.govinfo.gov/link/plaw/111/public/344), Dec. 29, 2010, [124 Stat. 3616](https://www.govinfo.gov/link/statute/124/3616).)*

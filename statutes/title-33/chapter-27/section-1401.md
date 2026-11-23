@@ -3,9 +3,10 @@ title: "Section 1401 - Congressional finding, policy, and declaration of purpose
 usc_title: 33
 usc_section: "1401"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1401"
-generated_at: "2026-03-30T02:55:41.104Z"
+generated_at: "2026-11-23T20:26:54.072Z"
+status: "active"
 ---
 
 # § 1401. Congressional finding, policy, and declaration of purpose
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:41.104Z"
 - **(a)** Unregulated dumping of material into ocean waters endangers human health, welfare, and amenities, and the marine environment, ecological systems, and economic potentialities.
 - **(b)** The Congress declares that it is the policy of the United States to regulate the dumping of all types of materials into ocean waters and to prevent or strictly limit the dumping into ocean waters of any material which would adversely affect human health, welfare, or amenities, or the marine environment, ecological systems, or economic potentialities.
 - **(c)** It is the purpose of this Act to regulate (1) the transportation by any person of material from the United States and, in the case of United States vessels, aircraft, or agencies, the transportation of material from a location outside the United States, when in either case the transportation is for the purpose of dumping the material into ocean waters, and (2) the dumping of material transported by any person from a location outside the United States, if the dumping occurs in the territorial sea or the contiguous zone of the United States.
+
+## Source Credit
+
+*([Pub. L. 92–532, § 2](https://www.govinfo.gov/link/plaw/92/public/532), Oct. 23, 1972, [86 Stat. 1052](https://www.govinfo.gov/link/statute/86/1052); [Pub. L. 93–254, § 1(1)](https://www.govinfo.gov/link/plaw/93/public/254), Mar. 22, 1974, [88 Stat. 50](https://www.govinfo.gov/link/statute/88/50).)*

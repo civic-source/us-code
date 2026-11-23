@@ -3,9 +3,10 @@ title: "Section 355 - Distribution of stock and securities of a controlled corpo
 usc_title: 26
 usc_section: "355"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 355"
-generated_at: "2026-03-30T02:55:27.666Z"
+generated_at: "2026-11-23T20:26:45.580Z"
+status: "active"
 ---
 
 # § 355. Distribution of stock and securities of a controlled corporation
@@ -181,3 +182,41 @@ generated_at: "2026-03-30T02:55:27.666Z"
       - **(i)** the distributing corporation has been a real estate investment trust at all times during the 3-year period ending on the date of such distribution,
       - **(ii)** the controlled corporation has been a taxable REIT subsidiary (as defined in section 856( l )) of the distributing corporation at all times during such period, and
       - **(iii)** the distributing corporation had control (as defined in section 368(c) applied by taking into account stock owned directly or indirectly, including through one or more corporations or partnerships, by the distributing corporation) of the controlled corporation at all times during such period.
+
+In general
+
+Distribution of appreciated property.—
+
+In general
+
+Treatment of liabilities
+
+Coordination with sections 311 and 336
+
+In general
+
+Modification of active business definition under section 355.—
+
+In general
+
+Transition rule
+
+Election out of transition rule
+
+Special rule for certain pre-enactment distributions
+
+Amendment related to section 515 of the act
+
+In general
+
+Transition rule
+
+In general
+
+Binding contract exception
+
+Transitional rules
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 113; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 96–589, § 4(e)(2)](https://www.govinfo.gov/link/plaw/96/public/589), Dec. 24, 1980, [94 Stat. 3403](https://www.govinfo.gov/link/statute/94/3403); [Pub. L. 100–203, title X, § 10223(b)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–411](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–647, title I, § 1018(d)(5)(C)](https://www.govinfo.gov/link/plaw/100/public/647), title II, § 2004(k)(1), Nov. 10, 1988, [102 Stat. 3580](https://www.govinfo.gov/link/statute/102/3580), 3605; [Pub. L. 101–508, title XI](https://www.govinfo.gov/link/plaw/101/public/508), §§ 11321(a), 11702(e)(2), Nov. 5, 1990, [104 Stat. 1388–460](https://www.govinfo.gov/link/statute/104/1388), 1388–515; [Pub. L. 104–188, title I, § 1704(t)(31)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1889](https://www.govinfo.gov/link/statute/110/1889); [Pub. L. 105–34, title X](https://www.govinfo.gov/link/plaw/105/public/34), §§ 1012(a), (b)(1), 1014(c), (e)(1), (2), Aug. 5, 1997, [111 Stat. 914](https://www.govinfo.gov/link/statute/111/914), 916, 921; [Pub. L. 105–206, title VI, § 6010(c)(2)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 813](https://www.govinfo.gov/link/statute/112/813); [Pub. L. 109–222, title II, § 202](https://www.govinfo.gov/link/plaw/109/public/222), title V, § 507(a), May 17, 2006, [120 Stat. 348](https://www.govinfo.gov/link/statute/120/348), 358; [Pub. L. 109–432, div. A, title IV, § 410(a)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 2963](https://www.govinfo.gov/link/statute/120/2963); [Pub. L. 110–172, § 4(b)(1)](https://www.govinfo.gov/link/plaw/110/public/172), (2), Dec. 29, 2007, [121 Stat. 2476](https://www.govinfo.gov/link/statute/121/2476); [Pub. L. 113–295, div. A, title II, § 221(a)(50)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4045](https://www.govinfo.gov/link/statute/128/4045); [Pub. L. 114–113, div. Q, title III, § 311(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3090](https://www.govinfo.gov/link/statute/129/3090); [Pub. L. 115–141, div. U, title I, § 101(m)](https://www.govinfo.gov/link/plaw/115/public/141), title IV, § 401(a)(65), Mar. 23, 2018, [132 Stat. 1165](https://www.govinfo.gov/link/statute/132/1165), 1187.)*

@@ -3,9 +3,10 @@ title: "Section 8243 - Personnel policies at the Department of State"
 usc_title: 22
 usc_section: "8243"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8243"
-generated_at: "2026-03-30T02:55:05.450Z"
+generated_at: "2026-11-23T20:26:32.704Z"
+status: "active"
 ---
 
 # § 8243. Personnel policies at the Department of State
@@ -15,3 +16,7 @@ In addition to the awards and other incentives already implemented, the Secretar
   - **(1)** Providing performance pay under section 3965 of this title to such members and employees who carry out their assignment in an outstanding manner.
   - **(2)** Considering such an assignment as a basis for promotion into the Senior Foreign Service.
   - **(3)** Providing Foreign Service Awards under section 4013 of this title to such members and employees who provide distinguished or meritorious service in the promotion of democracy or the protection of human rights.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XXI, § 2143](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 535](https://www.govinfo.gov/link/statute/121/535).)*

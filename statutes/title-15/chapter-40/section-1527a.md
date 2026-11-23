@@ -3,12 +3,17 @@ title: "Section 1527a - Economics and Statistics Administration Revolving Fund"
 usc_title: 15
 usc_section: "1527a"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1527a"
-generated_at: "2026-03-30T02:54:08.136Z"
+generated_at: "2026-11-23T20:26:04.018Z"
+status: "active"
 ---
 
 # § 1527a. Economics and Statistics Administration Revolving Fund
 
 There is hereby established the Economics and Statistics Administration Revolving Fund which shall be available without fiscal year limitation. For initial capitalization, there is appropriated $1,677,000 to the Fund: Provided , That the Secretary of Commerce is authorized to disseminate economic and statistical data products as authorized by sections 1525 to 1527 of this title and, notwithstanding section 4912 of this title , charge fees necessary to recover the full costs incurred in their production. Notwithstanding section 3302 of title 31 , receipts received from these data dissemination activities shall be credited to this account as offsetting collections, to be available for carrying out these purposes without further appropriation.
 
+
+## Source Credit
+
+*([Pub. L. 103–317, title II](https://www.govinfo.gov/link/plaw/103/public/317), Aug. 26, 1994, [108 Stat. 1744](https://www.govinfo.gov/link/statute/108/1744).)*

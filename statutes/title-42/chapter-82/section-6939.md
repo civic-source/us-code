@@ -3,9 +3,10 @@ title: "Section 6939 - Domestic sewage"
 usc_title: 42
 usc_section: "6939"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6939"
-generated_at: "2026-03-30T02:56:11.273Z"
+generated_at: "2026-11-23T20:27:22.740Z"
+status: "active"
 ---
 
 # § 6939. Domestic sewage
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.273Z"
   - **(3)** the extent to which such waste has been or may be released from such lagoons and contaminate ground water; and
   - **(4)** available alternatives for preventing or controlling such releases.
 - **(d)** The provisions of sections 6927 and 6930 of this title shall apply to solid or dissolved materials in domestic sewage to the same extent and in the same manner as such provisions apply to hazardous waste.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 3018](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 98–616, title II, § 246(a)](https://www.govinfo.gov/link/plaw/98/public/616), Nov. 8, 1984, [98 Stat. 3264](https://www.govinfo.gov/link/statute/98/3264).)*

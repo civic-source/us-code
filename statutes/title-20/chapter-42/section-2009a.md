@@ -3,12 +3,17 @@ title: "Section 2009a - Investment of amounts appropriated and contributed to Ha
 usc_title: 20
 usc_section: "2009a"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 2009a"
-generated_at: "2026-03-30T02:54:48.171Z"
+generated_at: "2026-11-23T20:26:14.679Z"
+status: "active"
 ---
 
 # § 2009a. Investment of amounts appropriated and contributed to Harry S Truman Memorial Scholarship Trust Fund
 
 Notwithstanding section 2009(b) of this title , on and after December 26, 2007 , at the request of the Board of Trustees of the Harry S Truman Scholarship Foundation, it shall be the duty of the Secretary of the Treasury to invest in full the amounts appropriated and contributed to the Harry S Truman Memorial Scholarship Trust Fund, as provided in such section. All requests of the Board of Trustees to the Secretary provided for in this section shall be binding on the Secretary.
 
+
+## Source Credit
+
+*([Pub. L. 110–161, div. D, title VI, § 619](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2016](https://www.govinfo.gov/link/statute/121/2016).)*

@@ -3,9 +3,10 @@ title: "Section 1121 - Findings; purposes; consultation; survey"
 usc_title: 20
 usc_section: "1121"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1121"
-generated_at: "2026-03-30T02:54:48.142Z"
+generated_at: "2026-11-23T20:26:14.551Z"
+status: "active"
 ---
 
 # § 1121. Findings; purposes; consultation; survey
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:48.142Z"
       - **(i)** provide information collected under paragraph (1) when requesting applications for funding under this subchapter; and
       - **(ii)** make available to applicants a list of areas identified as areas of national need.
 - **(d)** The Secretary shall assist grantees in developing a survey to administer to students who have completed programs under this subchapter to determine postgraduate employment, education, or training. All grantees, where applicable, shall administer such survey once every two years and report survey results to the Secretary.
+
+## Source Credit
+
+*([Pub. L. 89–329, title VI, § 601](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title VI, § 601](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1774](https://www.govinfo.gov/link/statute/112/1774); amended [Pub. L. 110–315, title VI, § 601](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3333](https://www.govinfo.gov/link/statute/122/3333).)*

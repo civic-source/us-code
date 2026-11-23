@@ -3,9 +3,10 @@ title: "Section 402 - Highway safety programs"
 usc_title: 23
 usc_section: "402"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 402"
-generated_at: "2026-03-30T02:55:12.569Z"
+generated_at: "2026-11-23T20:26:23.873Z"
+status: "active"
 ---
 
 # § 402. Highway safety programs
@@ -207,3 +208,379 @@ generated_at: "2026-03-30T02:55:12.569Z"
 - **(o)**
   - **(1)** Each State shall use a portion of the amounts received by the State under this section to carry out a program to educate the public regarding the risks of leaving a child or unattended passenger in a vehicle after the vehicle motor is deactivated by the operator.
   - **(2)** Nothing in this subsection requires a State to carry out a program described in paragraph (1) through the State transportation or highway safety office.
+
+Program Required.—
+
+In general
+
+Uniform guidelines
+
+Additional considerations
+
+Administration of State Programs.—
+
+Administrative requirements
+
+Waiver
+
+Use of Funds.—
+
+Use for state activities.—
+
+In general
+
+Neighboring states
+
+Apportionment to states.—
+
+Definition of public road
+
+Apportionment.—
+
+In general
+
+(aa) the population of the State; bears to
+
+(bb) the total population of all States; and
+
+(aa) the public road mileage in each State; bears to
+
+(bb) the total public road mileage in all States.
+
+Calculation
+
+Minimum apportionments
+
+Penalty.—
+
+In general
+
+Factor for consideration
+
+Limitations.—
+
+In general
+
+Effect of guidelines
+
+Reapportionment.—
+
+In general
+
+Continuing state failure
+
+Automated traffic enforcement systems.—
+
+Automated traffic enforcement system defined
+
+Prohibition
+
+Special rule for school and work zones
+
+Automated traffic enforcement system guidelines
+
+Restriction
+
+Application in Indian Country.—
+
+Use of terms
+
+Expenditures for local highway programs
+
+Access for individuals with disabilities
+
+Indian country defined
+
+Rulemaking Proceeding
+
+Law Enforcement Vehicular Pursuit Training
+
+Triennial Highway Safety Plan.—
+
+In general
+
+Timing
+
+Electronic submission
+
+Contents
+
+Performance measures
+
+Review of triennial highway safety plans.—
+
+In general
+
+Additional information.—
+
+In general
+
+Extension of deadline
+
+Timing
+
+Approvals and disapprovals.—
+
+Approvals
+
+Disapprovals
+
+Actions upon disapproval
+
+Review of resubmitted plans
+
+Public notice
+
+Annual Grant Application and Reporting Requirements.—
+
+Annual grant application.—
+
+In general
+
+Timing
+
+Contents
+
+Review
+
+Reporting requirements
+
+Teen Traffic Safety.—
+
+In general
+
+Use of funds
+
+Public Transparency.—
+
+In general
+
+State highway safety plan website.—
+
+In general
+
+Contents
+
+Unattended Passengers.—
+
+In general
+
+Program placement
+
+Use for state activities
+
+In general
+
+In general
+
+Demonstration projects
+
+In general
+
+Consultation
+
+Updates
+
+Definitions
+
+Comprehensive safety action plan
+
+Eligible entity
+
+Eligible project
+
+Program
+
+Establishment
+
+Grants.—
+
+In general
+
+Limitations.—
+
+In general
+
+Planning grants
+
+Selection of Eligible Projects.—
+
+Solicitation
+
+Applications.—
+
+In general
+
+Requirement
+
+Considerations
+
+Transparency.—
+
+In general
+
+Publication
+
+Federal Share
+
+Funding.—
+
+Authorization of appropriations
+
+Administrative expenses
+
+Availability to eligible entities
+
+Data Submission.—
+
+In general
+
+Form
+
+Reports
+
+Best Practices
+
+In general
+
+Performance management practices
+
+Additional Actions
+
+Report
+
+Regulatory Authority
+
+State Matching Requirements
+
+Grant Application and Deadline
+
+Road Safety.—
+
+In general
+
+Funding
+
+Applicability of title 23
+
+Bicycle and Pedestrian Safety Grants.—
+
+In general
+
+Funding
+
+Applicability of title 23
+
+Grants
+
+Use of Grant Funds
+
+Maximum Amount
+
+Funding.—
+
+In general
+
+Contract authority
+
+Technical assistance
+
+Other uses
+
+In General
+
+Purpose
+
+Advertising
+
+Coordination With States
+
+Use of Funds
+
+State Defined
+
+Development
+
+Report
+
+Funding
+
+In general
+
+Authorization of appropriations
+
+Applicability of title 23
+
+In general
+
+Reports by states
+
+Study
+
+Regulations
+
+Definitions
+
+Uniform system for handicapped parking
+
+State
+
+Study
+
+Report
+
+Development of Proposed Uniform State Law.—
+
+Requirement
+
+Factors to consider
+
+Report
+
+Study.—
+
+National academy of sciences
+
+Report
+
+Review of report
+
+Information
+
+Schoolbus Safety Grant Program.—
+
+Set-aside
+
+Application
+
+Limitation
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*(Added [Pub. L. 89–564, title I, § 101](https://www.govinfo.gov/link/plaw/89/public/564), Sept. 9, 1966, [80 Stat. 731](https://www.govinfo.gov/link/statute/80/731); amended [Pub. L. 90–495, § 13](https://www.govinfo.gov/link/plaw/90/public/495), Aug. 23, 1968, [82 Stat. 822](https://www.govinfo.gov/link/statute/82/822); [Pub. L. 91–605, title II](https://www.govinfo.gov/link/plaw/91/public/605), §§ 202(c), (d), (e), 203(a), Dec. 31, 1970, [84 Stat. 1740](https://www.govinfo.gov/link/statute/84/1740), 1741; [Pub. L. 93–87, title II](https://www.govinfo.gov/link/plaw/93/public/87), §§ 207, 215–217, 219, 228, 229, 231, Aug. 13, 1973, [87 Stat. 285](https://www.govinfo.gov/link/statute/87/285), 290, 293, 294; [Pub. L. 94–280, title II](https://www.govinfo.gov/link/plaw/94/public/280), §§ 204, 208(a), 211, 212, May 5, 1976, [90 Stat. 453](https://www.govinfo.gov/link/statute/90/453), 454, 455; [Pub. L. 95–599, title II, § 207(a)](https://www.govinfo.gov/link/plaw/95/public/599), (b)(1), (c), (d), Nov. 6, 1978, [92 Stat. 2731](https://www.govinfo.gov/link/statute/92/2731), 2732; [Pub. L. 97–35, title XI, § 1107(c)](https://www.govinfo.gov/link/plaw/97/public/35) –(e), Aug. 13, 1981, [95 Stat. 626](https://www.govinfo.gov/link/statute/95/626); [Pub. L. 97–424, title II, § 208](https://www.govinfo.gov/link/plaw/97/public/424), Jan. 6, 1983, [96 Stat. 2140](https://www.govinfo.gov/link/statute/96/2140); [Pub. L. 98–363](https://www.govinfo.gov/link/plaw/98/public/363), §§ 3(a), 5, July 17, 1984, [98 Stat. 436](https://www.govinfo.gov/link/statute/98/436); [Pub. L. 100–17, title I, § 133(b)(20)](https://www.govinfo.gov/link/plaw/100/public/17), title II, § 206, Apr. 2, 1987, [101 Stat. 172](https://www.govinfo.gov/link/statute/101/172), 221; [Pub. L. 102–240, title II, § 2002](https://www.govinfo.gov/link/plaw/102/public/240), Dec. 18, 1991, [105 Stat. 2070](https://www.govinfo.gov/link/statute/105/2070); [Pub. L. 104–66, title I, § 1121(d)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 724](https://www.govinfo.gov/link/statute/109/724); [Pub. L. 105–178, title I, § 1212(a)(2)(A)(i)](https://www.govinfo.gov/link/plaw/105/public/178), title II, § 2001(a)–(e), June 9, 1998, [112 Stat. 193](https://www.govinfo.gov/link/statute/112/193), 323, 324; [Pub. L. 109–59, title II, § 2002(a)](https://www.govinfo.gov/link/plaw/109/public/59) –(d), Aug. 10, 2005, [119 Stat. 1521](https://www.govinfo.gov/link/statute/119/1521); [Pub. L. 110–244, title III, § 303(a)](https://www.govinfo.gov/link/plaw/110/public/244) –(c)(1), June 6, 2008, [122 Stat. 1619](https://www.govinfo.gov/link/statute/122/1619); [Pub. L. 112–141, div. C, title I, § 31102](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 734](https://www.govinfo.gov/link/statute/126/734); [Pub. L. 114–94, div. A, title IV](https://www.govinfo.gov/link/plaw/114/public/94), §§ 4002, 4014(1), Dec. 4, 2015, [129 Stat. 1499](https://www.govinfo.gov/link/statute/129/1499), 1513; [Pub. L. 115–420, § 5(a)](https://www.govinfo.gov/link/plaw/115/public/420), Jan. 3, 2019, [132 Stat. 5445](https://www.govinfo.gov/link/statute/132/5445); [Pub. L. 117–58, div. B, title IV](https://www.govinfo.gov/link/plaw/117/public/58), §§ 24102(a), 24222(b), Nov. 15, 2021, [135 Stat. 785](https://www.govinfo.gov/link/statute/135/785), 835.)*

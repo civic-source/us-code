@@ -3,9 +3,10 @@ title: "Section 6502 - Consolidated research database"
 usc_title: 49
 usc_section: "6502"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 6502"
-generated_at: "2026-03-30T02:56:19.322Z"
+generated_at: "2026-11-23T20:27:34.704Z"
+status: "active"
 ---
 
 # § 6502. Consolidated research database
@@ -37,3 +38,19 @@ generated_at: "2026-03-30T02:56:19.322Z"
   - **(2)** the amount spent in each topic area;
   - **(3)** a description of the extent to which the research and development is meeting the expectations described in section 6503(c)(1); and
   - **(4)** any amendments to the strategic plan developed under section 6503.
+
+Research Abstract Database.—
+
+Submission
+
+Publication
+
+Contents
+
+Funding Report
+
+Performance Plans and Reports
+
+## Source Credit
+
+*(Added [Pub. L. 114–94, div. A, title VI, § 6019(b)(1)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1579](https://www.govinfo.gov/link/statute/129/1579); amended [Pub. L. 117–58, div. B, title V, § 25015(b)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 871](https://www.govinfo.gov/link/statute/135/871).)*

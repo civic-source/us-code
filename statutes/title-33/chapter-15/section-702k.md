@@ -3,9 +3,10 @@ title: "Section 702k - Surveys below Cape Girardeau, Missouri; resurvey of levee
 usc_title: 33
 usc_section: "702k"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 702k"
-generated_at: "2026-03-30T02:55:41.071Z"
+generated_at: "2026-11-23T20:26:53.905Z"
+status: "active"
 ---
 
 # § 702k. Surveys below Cape Girardeau, Missouri; resurvey of levee in Tennessee
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:41.071Z"
 - **(a)** at places where levees have prior to May 15, 1928 , been constructed on one side of the river and the lands on the opposite side have been thereby subjected to greater overflow, and where, without unreasonably restricting the flood channel, levees can be constructed to reduce the extent of this overflow, and where the construction of such levees is economically justified, and report thereon to the Congress as soon as practicable with such recommendations as the commission may deem advisable;
 - **(b)** with a view to determining the estimated effects, if any, upon lands lying between the river and adjacent hills by reason of overflow of such lands caused by the construction of levees at other points along the Mississippi River, and determining the equities of the owners of such lands and the value of the same, and the commission shall report thereon to the Congress as soon as practicable with such recommendation as it may deem advisable: Provided , That inasmuch as the Mississippi River Commission made a report on the 26th day of October 1912, recommending a levee to be built from Tiptonville, Tennessee, to the Obion River in Tennessee, the said Mississippi River Commission is authorized to make a resurvey of said proposed levee and a relocation of the same if necessary, and if such levee is found feasible, and is approved by the board created in section 702a of this title , and by the President the same shall be built out of appropriations made after May 15, 1928 .
 
+
+## Source Credit
+
+*(May 15, 1928, ch. 569, § 11, [45 Stat. 538](https://www.govinfo.gov/link/statute/45/538); July 26, 1947, ch. 343, title II, § 205(a), [61 Stat. 501](https://www.govinfo.gov/link/statute/61/501).)*

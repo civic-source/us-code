@@ -3,9 +3,10 @@ title: "Section 5161 - Training and program development activities of Republican
 usc_title: 2
 usc_section: "5161"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 5161"
-generated_at: "2026-03-30T02:53:04.835Z"
+generated_at: "2026-11-23T20:25:29.056Z"
+status: "active"
 ---
 
 # § 5161. Training and program development activities of Republican Conference and Democratic Steering and Policy Committee
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:04.835Z"
   - **(1)** for activities of the Republican Conference in such amounts, at such times, and under such terms and conditions as the Speaker of the House of Representatives may direct (or, if the Speaker is not a member of the Republican Party, under such terms and conditions as the Minority Leader of the House of Representatives may direct); and
   - **(2)** for activities of the Democratic Steering and Policy Committee in such amounts, at such times, and under such terms and conditions as the Minority Leader of the House of Representatives may direct (or, if the Speaker is a member of the Democratic Party, under such terms and conditions as the Speaker may direct).
 - **(c)** There are authorized to be appropriated to the account under this section for fiscal year 1999 and each succeeding fiscal year such sums as may be necessary for training and program development activities of the Republican Conference and the Democratic Steering and Policy Committee during the fiscal year.
+
+## Source Credit
+
+*([Pub. L. 105–275, title I, § 103](https://www.govinfo.gov/link/plaw/105/public/275), Oct. 21, 1998, [112 Stat. 2438](https://www.govinfo.gov/link/statute/112/2438); [Pub. L. 112–74, div. G, title I, § 104(a)](https://www.govinfo.gov/link/plaw/112/public/74), (b), Dec. 23, 2011, [125 Stat. 1122](https://www.govinfo.gov/link/statute/125/1122).)*

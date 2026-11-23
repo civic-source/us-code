@@ -3,9 +3,10 @@ title: "Section 4226 - Rights of declarants; notifications; Government accountab
 usc_title: 12
 usc_section: "4226"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4226"
-generated_at: "2026-03-30T02:53:53.503Z"
+generated_at: "2026-11-23T20:25:59.373Z"
+status: "active"
 ---
 
 # § 4226. Rights of declarants; notifications; Government accountability
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:53.503Z"
     - **(B)** the declarant’s allegations have not yet been addressed.
   - **(2)** If the Attorney General certifies that it is in the interest of the United States to give further consideration to the information provided in the declaration for an additional 90-day period, the Attorney General shall so notify the declarant in writing.
 - **(e)** All notices provided to a declarant under this section shall be kept confidential by the declarant in the same manner, and subject to the same penalties, as the declaration under section 4223 of this title .
+
+## Source Credit
+
+*([Pub. L. 101–647, title XXV, § 2581](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4902](https://www.govinfo.gov/link/statute/104/4902).)*

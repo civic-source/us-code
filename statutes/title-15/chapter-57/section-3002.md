@@ -3,9 +3,10 @@ title: "Section 3002 - Definitions"
 usc_title: 15
 usc_section: "3002"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 3002"
-generated_at: "2026-03-30T02:54:08.185Z"
+generated_at: "2026-11-23T20:26:04.263Z"
+status: "active"
 ---
 
 # § 3002. Definitions
@@ -34,3 +35,7 @@ For the purposes of this chapter the term—
   - **(20)** “takeout” means that portion of a wager which is deducted from or not included in the parimutuel pool, and which is distributed to persons other than those placing wagers;
   - **(21)** “regular contractual process” means those negotiations by which the applicable horsemen’s group and host racing association reach agreements on issues regarding the conduct of horseracing by the horsemen’s group at that racing association;
   - **(22)** “terms and conditions” includes, but is not limited to, the percentage which is paid by the off-track betting system to the host racing association, the percentage which is paid by the host racing association to the horsemen’s group, as well as any arrangements as to the exclusivity between the host racing association and the off-track betting system.
+
+## Source Credit
+
+*([Pub. L. 95–515, § 3](https://www.govinfo.gov/link/plaw/95/public/515), Oct. 25, 1978, [92 Stat. 1811](https://www.govinfo.gov/link/statute/92/1811); [Pub. L. 106–553, § 1(a)(2) [title VI, § 629]](https://www.govinfo.gov/link/plaw/106/public/553), Dec. 21, 2000, [114 Stat. 2762](https://www.govinfo.gov/link/statute/114/2762), 2762A–108.)*

@@ -3,9 +3,10 @@ title: "Section 16537 - Distinguished scientist program"
 usc_title: 42
 usc_section: "16537"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16537"
-generated_at: "2026-03-30T02:56:11.489Z"
+generated_at: "2026-11-23T20:27:23.700Z"
+status: "active"
 ---
 
 # § 16537. Distinguished scientist program
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:56:11.489Z"
   - **(4)** $31,000,000 for fiscal year 2011;
   - **(5)** $32,000,000 for fiscal year 2012; and
   - **(6)** $33,000,000 for fiscal year 2013.
+
+## Source Credit
+
+*([Pub. L. 110–69, title V, § 5011](https://www.govinfo.gov/link/plaw/110/public/69), Aug. 9, 2007, [121 Stat. 620](https://www.govinfo.gov/link/statute/121/620); [Pub. L. 111–358, title IX, § 902(e)](https://www.govinfo.gov/link/plaw/111/public/358), Jan. 4, 2011, [124 Stat. 4045](https://www.govinfo.gov/link/statute/124/4045).)*

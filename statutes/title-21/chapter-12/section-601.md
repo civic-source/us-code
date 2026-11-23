@@ -3,9 +3,10 @@ title: "Section 601 - Definitions"
 usc_title: 21
 usc_section: "601"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 601"
-generated_at: "2026-03-30T02:54:54.287Z"
+generated_at: "2026-11-23T20:26:27.797Z"
+status: "active"
 ---
 
 # § 601. Definitions
@@ -63,3 +64,19 @@ As used in this chapter, except as otherwise specified, the following terms shal
   - **(1)** those species subject to the provisions of this chapter on the day before November 10, 2005 ;
   - **(2)** all fish of the order Siluriformes; and
   - **(3)** any additional species of livestock that the Secretary considers appropriate.
+
+“This Act [see Short Title note below] shall become effective upon enactment [ Dec. 15, 1967 ] except as provided in paragraphs (a) through (d):
+
+In general
+
+Notification
+
+Procedure
+
+Regulations
+
+Interagency coordination
+
+## Source Credit
+
+*(Mar. 4, 1907, ch. 2907, title I, § 1, as added [Pub. L. 90–201, § 2](https://www.govinfo.gov/link/plaw/90/public/201), Dec. 15, 1967, [81 Stat. 584](https://www.govinfo.gov/link/statute/81/584); amended [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695); [Pub. L. 102–571, title I, § 107(14)](https://www.govinfo.gov/link/plaw/102/public/571), Oct. 29, 1992, [106 Stat. 4499](https://www.govinfo.gov/link/statute/106/4499); [Pub. L. 109–97, title VII, § 798[(a)]](https://www.govinfo.gov/link/plaw/109/public/97) (2), Nov. 10, 2005, [119 Stat. 2166](https://www.govinfo.gov/link/statute/119/2166); [Pub. L. 110–234, title XI, § 11016(b)(1)(A)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1369](https://www.govinfo.gov/link/statute/122/1369); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XI, § 11016(b)(1)(A), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2130; [Pub. L. 113–79, title XII, § 12106(a)(1)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 980](https://www.govinfo.gov/link/statute/128/980).)*

@@ -3,9 +3,10 @@ title: "Section 13555 - Consultative Commission on Western Hemisphere Energy and
 usc_title: 42
 usc_section: "13555"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13555"
-generated_at: "2026-03-30T02:56:11.448Z"
+generated_at: "2026-11-23T20:27:23.509Z"
+status: "active"
 ---
 
 # § 13555. Consultative Commission on Western Hemisphere Energy and Environment
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:56:11.448Z"
     - **(A)** shall terminate five years from the date of the agreement under which it was created; and
     - **(B)** may be extended for a five-year term at the expiration of the previous term by agreement of the participating governments.
 - **(e)** The President shall, within one year after October 24, 1992 , report to the Committee on Energy and Commerce and the Committee on Foreign Affairs of the House of Representatives, and to the Committee on Energy and Natural Resources and the Committee on Foreign Relations of the Senate, on the progress toward the establishment of the Commission and achievement of the purposes of this section.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XXX, § 3020](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3131](https://www.govinfo.gov/link/statute/106/3131).)*

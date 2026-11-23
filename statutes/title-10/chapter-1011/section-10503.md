@@ -3,9 +3,10 @@ title: "Section 10503 - Functions of National Guard Bureau: charter"
 usc_title: 10
 usc_section: "10503"
 chapter: 1011
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 10503"
-generated_at: "2026-03-30T02:53:38.266Z"
+generated_at: "2026-11-23T20:25:52.388Z"
+status: "active"
 ---
 
 # § 10503. Functions of National Guard Bureau: charter
@@ -31,3 +32,7 @@ The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs 
       - **(ii)** The Adjutants General of the States.
       - **(iii)** The combatant command the geographic area of responsibility of which includes the United States.
   - **(14)** Such other functions as the Secretary of Defense may prescribe.
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title IX, § 904(a)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2825](https://www.govinfo.gov/link/statute/108/2825); amended [Pub. L. 110–181, div. A, title XVIII, § 1813(a)](https://www.govinfo.gov/link/plaw/110/public/181) –(c)(1), Jan. 28, 2008, [122 Stat. 497](https://www.govinfo.gov/link/statute/122/497), 498; [Pub. L. 112–239, div. A, title X, § 1081(3)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1960](https://www.govinfo.gov/link/statute/126/1960).)*

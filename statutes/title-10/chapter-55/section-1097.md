@@ -3,9 +3,10 @@ title: "Section 1097 - Contracts for medical care for retirees, dependents, and 
 usc_title: 10
 usc_section: "1097"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1097"
-generated_at: "2026-03-30T02:53:38.108Z"
+generated_at: "2026-11-23T20:25:51.240Z"
+status: "active"
 ---
 
 # § 1097. Contracts for medical care for retirees, dependents, and survivors: alternative delivery of health care
@@ -24,3 +25,17 @@ generated_at: "2026-03-30T02:53:38.108Z"
 - **(e)**
   - **(1)** The Secretary of Defense may prescribe by regulation a premium, deductible, copayment, or other charge for health care provided under this section. In the case of contracts for health care services under this section or health care plans offered under section 1099 of this title for which the Secretary permits covered beneficiaries who are covered by section 1086 of this title and who participate in such contracts or plans to pay an enrollment fee in lieu of meeting the applicable deductible amount specified in section 1086(b) of this title , the Secretary may establish the same (or a lower) enrollment fee for covered beneficiaries described in section 1086(d)(1) of this title who also participate in such contracts or plans. Without imposing additional costs on covered beneficiaries who participate in contracts for health care services under this section or health care plans offered under section 1099 of this title , the Secretary shall permit such covered beneficiaries to pay, on a quarterly basis, any enrollment fee required for such participation. Except as provided by paragraph (2), a premium, deductible, copayment, or other charge prescribed by the Secretary under this subsection may not be increased during the period beginning on April 1, 2006 , and ending on September 30, 2011 .
   - **(2)** Beginning October 1, 2012 , the Secretary of Defense may only increase in any year the annual enrollment fees described in paragraph (1) by an amount equal to the percentage by which retired pay is increased under section 1401a of this title .
+
+In General
+
+Scope of Coverage Under Health Care Plans
+
+Coordination With Facilities of the Uniformed Services
+
+Coordination With Other Health Care Programs
+
+Charges for Health Care
+
+## Source Credit
+
+*(Added [Pub. L. 99–661, div. A, title VII, § 701(a)(1)](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 3895](https://www.govinfo.gov/link/statute/100/3895); amended [Pub. L. 103–337, div. A, title VII](https://www.govinfo.gov/link/plaw/103/public/337), §§ 713, 714(a), Oct. 5, 1994, [108 Stat. 2802](https://www.govinfo.gov/link/statute/108/2802); [Pub. L. 104–106, div. A, title VII](https://www.govinfo.gov/link/plaw/104/public/106), §§ 712, 713, Feb. 10, 1996, [110 Stat. 374](https://www.govinfo.gov/link/statute/110/374); [Pub. L. 109–364, div. A, title VII, § 704(a)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2280](https://www.govinfo.gov/link/statute/120/2280); [Pub. L. 110–181, div. A, title VII, § 701(a)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 187](https://www.govinfo.gov/link/statute/122/187); [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title VII, § 701(a), Oct. 14, 2008, [122 Stat. 4498](https://www.govinfo.gov/link/statute/122/4498); [Pub. L. 111–383, div. A, title VII, § 701(a)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4244](https://www.govinfo.gov/link/statute/124/4244); [Pub. L. 112–81, div. A, title VII, § 701(a)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1469](https://www.govinfo.gov/link/statute/125/1469).)*

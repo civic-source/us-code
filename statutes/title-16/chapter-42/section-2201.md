@@ -3,9 +3,10 @@ title: "Section 2201 - Emergency conservation program"
 usc_title: 16
 usc_section: "2201"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 2201"
-generated_at: "2026-03-30T02:54:23.000Z"
+generated_at: "2026-11-23T20:26:20.601Z"
+status: "active"
 ---
 
 # § 2201. Emergency conservation program
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:23.000Z"
 - **(b)**
   - **(1)** With respect to a payment to an agricultural producer under subsection (a) for the repair or replacement of fencing, the Secretary shall give the agricultural producer the option of receiving not more than 25 percent of the payment, determined by the Secretary based on the applicable percentage of the fair market value of the cost of the repair or replacement, before the agricultural producer carries out the repair or replacement.
   - **(2)** If the funds provided under paragraph (1) are not expended by the end of the 60-day period beginning on the date on which the agricultural producer receives those funds, the funds shall be returned within a reasonable timeframe, as determined by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 95–334, title IV, § 401](https://www.govinfo.gov/link/plaw/95/public/334), Aug. 4, 1978, [92 Stat. 433](https://www.govinfo.gov/link/statute/92/433); [Pub. L. 115–334, title II, § 2403(a)(1)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4571](https://www.govinfo.gov/link/statute/132/4571).)*

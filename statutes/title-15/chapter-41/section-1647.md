@@ -3,9 +3,10 @@ title: "Section 1647 - Home equity plans"
 usc_title: 15
 usc_section: "1647"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1647"
-generated_at: "2026-03-30T02:54:08.144Z"
+generated_at: "2026-11-23T20:26:04.058Z"
+status: "active"
 ---
 
 # § 1647. Home equity plans
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:08.144Z"
 - **(e)**
   - **(1)** No nonrefundable fee may be imposed by a creditor or any other person in connection with any application by a consumer to establish an account under any open end consumer credit plan which provides for extensions of credit which are secured by a consumer’s principal dwelling before the end of the 3-day period beginning on the date such consumer receives the disclosure required under section 1637a(a) of this title and the pamphlet required under section 1637a(e) of this title with respect to such application.
   - **(2)** For purposes of determining when a nonrefundable fee may be imposed in accordance with this subsection if the disclosures and pamphlet referred to in paragraph (1) are mailed to the consumer, the date of the receipt of the disclosures by such consumer shall be deemed to be 3 business days after the date of mailing by the creditor.
+
+## Source Credit
+
+*([Pub. L. 90–321, title I, § 137](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 100–709, § 3](https://www.govinfo.gov/link/plaw/100/public/709), Nov. 23, 1988, [102 Stat. 4731](https://www.govinfo.gov/link/statute/102/4731); amended [Pub. L. 103–325, title I, § 154(c)](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2197](https://www.govinfo.gov/link/statute/108/2197); [Pub. L. 111–203, title X, § 1100A(2)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2107](https://www.govinfo.gov/link/statute/124/2107).)*

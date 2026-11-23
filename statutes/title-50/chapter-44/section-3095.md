@@ -3,9 +3,10 @@ title: "Section 3095 - Notice to Congress of certain transfers of defense articl
 usc_title: 50
 usc_section: "3095"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3095"
-generated_at: "2026-03-30T02:56:26.235Z"
+generated_at: "2026-11-23T20:27:30.914Z"
+status: "active"
 ---
 
 # § 3095. Notice to Congress of certain transfers of defense articles and defense services
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:26.235Z"
       - **(i)** the original acquisition cost to the United States Government, plus the cost of improvements or other modifications made by or on behalf of the Government; or
       - **(ii)** the replacement cost; and
     - **(B)** in the case of defense services, the full cost to the Government of providing the services.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title V, § 505, formerly § 503, as added [Pub. L. 99–569, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/99/public/569), Oct. 27, 1986, [100 Stat. 3203](https://www.govinfo.gov/link/statute/100/3203); renumbered § 505 and amended [Pub. L. 102–88, title VI](https://www.govinfo.gov/link/plaw/102/public/88), §§ 602(a)(1), (c)(2), 604, Aug. 14, 1991, [105 Stat. 441](https://www.govinfo.gov/link/statute/105/441), 444, 445; [Pub. L. 103–160, div. A, title VIII, § 828(d)(1)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1715](https://www.govinfo.gov/link/statute/107/1715); [Pub. L. 115–232, div. A, title VIII, § 809(r)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1844](https://www.govinfo.gov/link/statute/132/1844).)*

@@ -3,9 +3,10 @@ title: "Section 1709A - Teleconsultation"
 usc_title: 38
 usc_section: "1709A"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 1709A"
-generated_at: "2026-03-30T02:55:53.482Z"
+generated_at: "2026-11-23T20:27:01.666Z"
+status: "active"
 ---
 
 # § 1709A. Teleconsultation
@@ -19,3 +20,11 @@ generated_at: "2026-03-30T02:55:53.482Z"
       - **(ii)** teleconsultation; and
     - **(B)** providing such assessment with such contracting or reimbursement is more clinically appropriate for the veteran than providing such assessment with teleconsultation.
 - **(b)** In this section, the term “teleconsultation” means the use by a health care specialist of telecommunications to assist another health care provider in rendering a diagnosis or treatment.
+
+Teleconsultation
+
+Teleconsultation Defined
+
+## Source Credit
+
+*(Added [Pub. L. 112–154, title I, § 108(a)(1)](https://www.govinfo.gov/link/plaw/112/public/154), Aug. 6, 2012, [126 Stat. 1174](https://www.govinfo.gov/link/statute/126/1174).)*

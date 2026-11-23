@@ -3,9 +3,10 @@ title: "Section 18611 - Sense of Congress on accelerating energy innovation"
 usc_title: 42
 usc_section: "18611"
 chapter: 161
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18611"
-generated_at: "2026-03-30T02:56:11.520Z"
+generated_at: "2026-11-23T20:27:23.803Z"
+status: "active"
 ---
 
 # § 18611. Sense of Congress on accelerating energy innovation
@@ -24,3 +25,7 @@ It is the sense of Congress that—
     - **(B)** promote economic growth;
     - **(C)** are critical for energy security; and
     - **(D)** are sustainable without government support.
+
+## Source Credit
+
+*([Pub. L. 115–246, title I, § 103](https://www.govinfo.gov/link/plaw/115/public/246), Sept. 28, 2018, [132 Stat. 3131](https://www.govinfo.gov/link/statute/132/3131).)*

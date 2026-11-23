@@ -3,9 +3,10 @@ title: "Section 9902 - Department of Defense personnel authorities"
 usc_title: 5
 usc_section: "9902"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 9902"
-generated_at: "2026-03-30T02:52:56.075Z"
+generated_at: "2026-11-23T20:25:32.265Z"
+status: "active"
 ---
 
 # § 9902. Department of Defense personnel authorities
@@ -127,3 +128,67 @@ generated_at: "2026-03-30T02:52:56.075Z"
     - **(A)** the Committees on Armed Services of the Senate and the House of Representatives;
     - **(B)** the Committee on Homeland Security and Governmental Affairs of the Senate; and
     - **(C)** the Committee on Oversight and Government Reform of the House of Representatives.
+
+Performance Management and Workforce Incentives
+
+Flexibilities Relating to Appointments
+
+Criteria for Use of New Personnel Authorities
+
+Development of Training Program for Supervisors
+
+Provisions Regarding National Level Bargaining.—
+
+Provisions Related to Separation and Retirement Incentives.—
+
+Provisions Relating to Reemployment.—
+
+Reports.—
+
+In general
+
+Definition
+
+Definitions
+
+Repeal of Provisions Relating to
+
+In general
+
+Expansion prohibited
+
+Current rules invalid
+
+Termination of NSPS and Conversion of Employees and Positions.—
+
+In general
+
+Transition period appointments
+
+Temporary continuation of nsps
+
+Restoration of full annual pay adjustments under nsps pending its termination
+
+NSPS transition period defined
+
+Authority Relating to Performance Management and Workforce Incentives, Hiring Flexibilities, and Training of Supervisors
+
+Clerical Amendments
+
+Other Personnel Flexibilities.—
+
+In general
+
+Rationale
+
+Requirements
+
+Congressional approval required
+
+Restrictions
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 108–136, div. A, title XI, § 1101(a)(1)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1621](https://www.govinfo.gov/link/statute/117/1621); amended [Pub. L. 110–181, div. A, title XI, § 1106(a)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 349](https://www.govinfo.gov/link/statute/122/349); [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title XI, § 1106, Oct. 14, 2008, [122 Stat. 4617](https://www.govinfo.gov/link/statute/122/4617); [Pub. L. 111–84, div. A, title XI](https://www.govinfo.gov/link/plaw/111/public/84), §§ 1113(b)(1), (d), (f)(1), 1121, Oct. 28, 2009, [123 Stat. 2498](https://www.govinfo.gov/link/statute/123/2498), 2499, 2502, 2505; [Pub. L. 111–383, div. A, title X, § 1075(a)(2)](https://www.govinfo.gov/link/plaw/111/public/383), title XI, § 1101(c), Jan. 7, 2011, [124 Stat. 4368](https://www.govinfo.gov/link/statute/124/4368), 4382; [Pub. L. 112–81, div. A, title XI](https://www.govinfo.gov/link/plaw/112/public/81), §§ 1101(a)–(c), 1102(a), Dec. 31, 2011, [125 Stat. 1610](https://www.govinfo.gov/link/statute/125/1610), 1611; [Pub. L. 118–31, div. A, title XI, § 1120](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 435](https://www.govinfo.gov/link/statute/137/435).)*

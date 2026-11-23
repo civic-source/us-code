@@ -3,9 +3,10 @@ title: "Section 1831o - Prompt corrective action"
 usc_title: 12
 usc_section: "1831o"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1831o"
-generated_at: "2026-03-30T02:53:53.459Z"
+generated_at: "2026-11-23T20:25:59.170Z"
+status: "active"
 ---
 
 # § 1831o. Prompt corrective action
@@ -251,3 +252,39 @@ generated_at: "2026-03-30T02:53:53.459Z"
     - **(B)** the Director of the Office of Thrift Supervision had accepted the plan;
   - **(2)** the plan remains in effect; and
   - **(3)** the savings association remains in compliance with the plan or is operating under a written agreement with the appropriate Federal banking agency.
+
+In general
+
+Reports
+
+Definition
+
+Regulations.—
+
+Definition
+
+Regulations
+
+Rule of Construction
+
+In General
+
+Time Limit on Exceptions
+
+Definitions
+
+Appropriate federal banking agency
+
+Insured depository institution
+
+Leverage limit
+
+Qualifying amount attributable to insurance proceeds
+
+Dismissal from office
+
+Restricting compensation
+
+## Source Credit
+
+*(Sept. 21, 1950, ch. 967, § 2 [38], as added [Pub. L. 102–242, title I, § 131(a)](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2253](https://www.govinfo.gov/link/statute/105/2253); amended [Pub. L. 102–550, title XVI, § 1603(d)(1)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 4079](https://www.govinfo.gov/link/statute/106/4079); [Pub. L. 103–325, title VI, § 602(a)(64)](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2291](https://www.govinfo.gov/link/statute/108/2291); [Pub. L. 104–208, div. A, title II, § 2704(d)(14)(AA)](https://www.govinfo.gov/link/plaw/104/public/208) –(CC), Sept. 30, 1996, [110 Stat. 3009–494](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 104–316, title I, § 106(d)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3831](https://www.govinfo.gov/link/statute/110/3831); [Pub. L. 109–171, title II, § 2102(b)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 9](https://www.govinfo.gov/link/statute/120/9); [Pub. L. 109–173, § 8(a)(36)](https://www.govinfo.gov/link/plaw/109/public/173) –(39), Feb. 15, 2006, [119 Stat. 3615](https://www.govinfo.gov/link/statute/119/3615); [Pub. L. 110–289, div. A, title VI, § 1604(b)(1)(D)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2829](https://www.govinfo.gov/link/statute/122/2829); [Pub. L. 111–203, title IX, § 987](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1936](https://www.govinfo.gov/link/statute/124/1936).)*

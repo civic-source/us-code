@@ -3,9 +3,10 @@ title: "Section 6056 - Certain employers required to report on health insurance 
 usc_title: 26
 usc_section: "6056"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6056"
-generated_at: "2026-03-30T02:55:27.837Z"
+generated_at: "2026-11-23T20:26:46.543Z"
+status: "active"
 ---
 
 # § 6056. Certain employers required to report on health insurance coverage
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:55:27.837Z"
   - **(2)** in the case of an applicable large employer offering health insurance coverage of a health insurance issuer, the employer may enter into an agreement with the issuer to include information required under this section with the return and statement required to be provided by the issuer under section 6055.
 - **(e)** In the case of any applicable large employer which is a governmental unit or any agency or instrumentality thereof, the person appropriately designated for purposes of this section shall make the returns and statements required by this section.
 - **(f)** For purposes of this section, any term used in this section which is also used in section 4980H shall have the meaning given such term by section 4980H.
+
+## Source Credit
+
+*(Added and amended [Pub. L. 111–148, title I, § 1514(a)](https://www.govinfo.gov/link/plaw/111/public/148), title X, §§ 10106(g), 10108(j)(1)–(3)(D), Mar. 23, 2010, [124 Stat. 256](https://www.govinfo.gov/link/statute/124/256), 911, 914, 915; [Pub. L. 112–10, div. B, title VIII, § 1858(b)(5)](https://www.govinfo.gov/link/plaw/112/public/10), Apr. 15, 2011, [125 Stat. 169](https://www.govinfo.gov/link/statute/125/169); [Pub. L. 118–167, § 2(b)](https://www.govinfo.gov/link/plaw/118/public/167), Dec. 23, 2024, [138 Stat. 2584](https://www.govinfo.gov/link/statute/138/2584); [Pub. L. 118–168, § 3(a)](https://www.govinfo.gov/link/plaw/118/public/168), Dec. 23, 2024, [138 Stat. 2586](https://www.govinfo.gov/link/statute/138/2586).)*

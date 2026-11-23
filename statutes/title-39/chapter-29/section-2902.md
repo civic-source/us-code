@@ -3,9 +3,10 @@ title: "Section 2902 - Property management"
 usc_title: 39
 usc_section: "2902"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "39 U.S.C. § 2902"
-generated_at: "2026-03-30T02:55:43.691Z"
+generated_at: "2026-11-23T20:26:57.736Z"
+status: "active"
 ---
 
 # § 2902. Property management
@@ -32,3 +33,11 @@ generated_at: "2026-03-30T02:55:43.691Z"
       - **(viii)** the extent to which the mission of the Postal Service is dependent on the property; and
       - **(ix)** the estimated amount of capital expenditures projected to maintain and operate the property over each of the next 5 years after the date of enactment of this chapter.
 - **(b)** Nothing in subsection (a)(4)(B) shall be construed to require the Postal Service to obtain an appraisal of postal property.
+
+In General
+
+Rule of Construction
+
+## Source Credit
+
+*(Added [Pub. L. 114–318, § 4(a)](https://www.govinfo.gov/link/plaw/114/public/318), Dec. 16, 2016, [130 Stat. 1613](https://www.govinfo.gov/link/statute/130/1613).)*

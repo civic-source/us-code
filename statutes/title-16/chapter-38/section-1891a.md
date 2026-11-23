@@ -3,9 +3,10 @@ title: "Section 1891a - Community-based restoration program for fishery and coas
 usc_title: 16
 usc_section: "1891a"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1891a"
-generated_at: "2026-03-30T02:54:22.995Z"
+generated_at: "2026-11-23T20:26:20.580Z"
+status: "active"
 ---
 
 # § 1891a. Community-based restoration program for fishery and coastal habitats
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:22.995Z"
   - **(5)** promote significant community support and volunteer participation in fishery and coastal habitat restoration;
   - **(6)** promote stewardship of fishery and coastal habitats; and
   - **(7)** leverage resources through national, regional, and local public-private partnerships.
+
+## Source Credit
+
+*([Pub. L. 109–479, title I, § 117](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3606](https://www.govinfo.gov/link/statute/120/3606).)*

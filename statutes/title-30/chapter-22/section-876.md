@@ -3,9 +3,10 @@ title: "Section 876 - Communication facilities; locations and emergency response
 usc_title: 30
 usc_section: "876"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 876"
-generated_at: "2026-03-30T02:55:29.391Z"
+generated_at: "2026-11-23T20:26:34.966Z"
+status: "active"
 ---
 
 # § 876. Communication facilities; locations and emergency response plans
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:55:29.391Z"
       - **(ii)** In the event of a dispute or refusal described in clause (i), the Secretary shall issue a citation which shall be immediately referred to a Commission Administrative Law Judge. The Secretary and the operator shall submit all relevant material regarding the dispute to the Administrative Law Judge within 15 days of the date of the referral. The Administrative Law Judge shall render his or her decision with respect to the plan content dispute within 15 days of the receipt of the submission.
       - **(iii)** A party adversely affected by a decision under clause (ii) may pursue all further available appeal rights with respect to the citation involved, except that inclusion of the disputed provision in the plan will not be limited by such appeal unless such relief is requested by the operator and permitted by the Administrative Law Judge.
     - **(H)** Notwithstanding any other provision of this chapter, nothing in this section, and no response and preparedness plan developed under this section, shall be approved if it reduces the protection afforded miners by an existing mandatory health or safety standard.
+
+## Source Credit
+
+*([Pub. L. 91–173, title III, § 316](https://www.govinfo.gov/link/plaw/91/public/173), Dec. 30, 1969, [83 Stat. 787](https://www.govinfo.gov/link/statute/83/787); [Pub. L. 109–236, § 2](https://www.govinfo.gov/link/plaw/109/public/236), June 15, 2006, [120 Stat. 493](https://www.govinfo.gov/link/statute/120/493).)*

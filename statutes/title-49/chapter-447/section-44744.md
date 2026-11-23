@@ -3,9 +3,10 @@ title: "Section 44744 - Flight crew alerting"
 usc_title: 49
 usc_section: "44744"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44744"
-generated_at: "2026-03-30T02:56:19.387Z"
+generated_at: "2026-11-23T20:27:35.192Z"
+status: "active"
 ---
 
 # § 44744. Flight crew alerting
@@ -30,3 +31,25 @@ generated_at: "2026-03-30T02:56:19.387Z"
       - **(i)** synthetic enhanced angle-of-attack system; and
       - **(ii)** means to shut off stall warning and overspeed alerts; or
     - **(B)** any design changes equivalent to subparagraph (A) determined appropriate by the Administrator.
+
+In General
+
+Limitation
+
+Safety Enhancements.—
+
+Restriction on airworthiness certificate issuance
+
+Restriction on operation
+
+Definitions
+
+Boeing 737 max aircraft
+
+Safety enhancement
+
+“Not later than March 1, 2023 , and on a quarterly basis thereafter, the Administrator shall brief Congress on the status of—
+
+## Source Credit
+
+*(Added [Pub. L. 117–328, div. O, title V, § 501(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5230](https://www.govinfo.gov/link/statute/136/5230).)*

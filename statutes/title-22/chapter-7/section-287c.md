@@ -3,9 +3,10 @@ title: "Section 287c - Economic and communication sanctions pursuant to United N
 usc_title: 22
 usc_section: "287c"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 287c"
-generated_at: "2026-03-30T02:55:05.321Z"
+generated_at: "2026-11-23T20:26:32.022Z"
+status: "active"
 ---
 
 # § 287c. Economic and communication sanctions pursuant to United Nations Security Council Resolution
@@ -24,3 +25,25 @@ generated_at: "2026-03-30T02:55:05.321Z"
   - **(4)** As used in this subsection—
     - **(A)** the term “certificate of origin” means such certificate as the Secretary may require, with respect to a shipment of any steel mill product containing chromium in any form, issued by the government (or by a designee of such government if the Secretary is satisfied that such designee is the highest available certifying authority) of the country in which such steel mill product was produced certifying that the steel mill product in such shipment contains no chromium in any form which is of Southern Rhodesian origin; and
     - **(B)** the term “Secretary” means the Secretary of the Treasury.
+
+Jimmy Carter.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+William J. Clinton.
+
+## Source Credit
+
+*(Dec. 20, 1945, ch. 583, § 5, [59 Stat. 620](https://www.govinfo.gov/link/statute/59/620); Oct. 10, 1949, ch. 660, § 3, [63 Stat. 735](https://www.govinfo.gov/link/statute/63/735); [Pub. L. 95–12, § 1](https://www.govinfo.gov/link/plaw/95/public/12), Mar. 18, 1977, [91 Stat. 22](https://www.govinfo.gov/link/statute/91/22); [Pub. L. 111–195, title I, § 107(a)(1)](https://www.govinfo.gov/link/plaw/111/public/195), July 1, 2010, [124 Stat. 1337](https://www.govinfo.gov/link/statute/124/1337).)*

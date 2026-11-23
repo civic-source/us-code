@@ -3,9 +3,10 @@ title: "Section 817A - Special rules for modified guaranteed contracts"
 usc_title: 26
 usc_section: "817A"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 817A"
-generated_at: "2026-03-30T02:55:27.730Z"
+generated_at: "2026-11-23T20:26:45.886Z"
+status: "active"
 ---
 
 # § 817A. Special rules for modified guaranteed contracts
@@ -33,3 +34,27 @@ generated_at: "2026-03-30T02:55:27.730Z"
   - **(3)** to provide rules to limit ordinary gain or loss treatment to assets constituting reserves for modified guaranteed contracts (and not other assets) of the company,
   - **(4)** to provide appropriate treatment of transfers of assets to and from the segregated account, and
   - **(5)** as may be necessary or appropriate to carry out the purposes of this section.
+
+In general
+
+Treatment of net adjustments
+
+Limitation on loss recognition and on deduction for reserve increases.—
+
+Limitation on loss recognition.—
+
+In general
+
+Disallowed loss allowed over period
+
+Limitation on deduction for increase in reserves.—
+
+In general
+
+Disallowed deduction allowed over period
+
+Built-in gain
+
+## Source Credit
+
+*(Added [Pub. L. 104–188, title I, § 1612(a)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1846](https://www.govinfo.gov/link/statute/110/1846); amended [Pub. L. 115–97, title I, § 13518(b)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2148](https://www.govinfo.gov/link/statute/131/2148).)*

@@ -3,9 +3,10 @@ title: "Section 44103 - Registration of aircraft"
 usc_title: 49
 usc_section: "44103"
 chapter: 441
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44103"
-generated_at: "2026-03-30T02:56:19.379Z"
+generated_at: "2026-11-23T20:27:35.127Z"
+status: "active"
 ---
 
 # § 44103. Registration of aircraft
@@ -41,3 +42,100 @@ generated_at: "2026-03-30T02:56:19.379Z"
   - **(3)** Nothing in this subsection shall be construed to permit any person to operate an aircraft—
     - **(A)** with an expired registration, except as specifically provided for under this subsection; or
     - **(B)** if the Administrator has denied an application to renew the registration of such aircraft.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 44103(a)(1) | 49 App.:1401(c), (d). | Aug. 23, 1958 , Pub. L. 85–726 , §§ 501(c), (d), (f), 505 (2d sentence), 72 Stat. 772 , 774. |
+|  | 49 App.:1655(c)(1). | Oct. 15, 1966 , Pub. L. 89–670, § 6(c)(1) , 80 Stat. 938 ; Jan. 12, 1983 , Pub. L. 97–449, § 7(b) , 96 Stat. 2444 . |
+| 44103(a)(2) | 49 App.:1405 (2d sentence). |  |
+|  | 49 App.:1655(c)(1). |  |
+| 44103(b) | 49 App.:1401(e)(2)(D), (E). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 501(e)(2)(D), (E); added Oct. 19, 1984 , Pub. L. 98–499, § 4(a) , 98 Stat. 2315 . |
+| 44103(c) | 49 App.:1401(f). |  |
+| 44103(d) | 49 App.:1401(g). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 501(g); added Oct. 27, 1986 , Pub. L. 99–570, § 3401(a)(2) , 100 Stat. 3207–99 . |
+
+
+General
+
+Controlled Substance Violations
+
+Certificates as Evidence
+
+Certificates Available for Inspection
+
+Validity of Aircraft Registration During Renewal.—
+
+In general
+
+Proof of pending renewal application
+
+Rule of construction
+
+Historical and Revision Notes
+
+44103(a)(1)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 772
+
+Oct. 15, 1966
+
+Pub. L. 89–670, § 6(c)(1)
+
+80 Stat. 938
+
+Jan. 12, 1983
+
+Pub. L. 97–449, § 7(b)
+
+96 Stat. 2444
+
+44103(a)(2)
+
+44103(b)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Oct. 19, 1984
+
+Pub. L. 98–499, § 4(a)
+
+98 Stat. 2315
+
+44103(c)
+
+44103(d)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Oct. 27, 1986
+
+Pub. L. 99–570, § 3401(a)(2)
+
+100 Stat. 3207–99
+
+Priority recommendations
+
+Remaining recommendations
+
+In General
+
+Considerations
+
+In General
+
+Existing Memoranda To Be Conformed
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1162](https://www.govinfo.gov/link/statute/108/1162); [Pub. L. 118–63, title VIII, § 812(a)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1326](https://www.govinfo.gov/link/statute/138/1326).)*

@@ -3,9 +3,10 @@ title: "Section 1501 - Definitions"
 usc_title: 47
 usc_section: "1501"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 1501"
-generated_at: "2026-03-30T02:56:24.536Z"
+generated_at: "2026-11-23T20:27:29.003Z"
+status: "active"
 ---
 
 # § 1501. Definitions
@@ -21,3 +22,7 @@ In this chapter:
   - **(4)** The term “NTIA” means the National Telecommunications and Information Administration of the Department of Commerce.
   - **(5)** The term “OMB” means the Office of Management and Budget.
   - **(6)** The term “Secretary” means the Secretary of Commerce.
+
+## Source Credit
+
+*([Pub. L. 115–141, div. P, title VI, § 602](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1097](https://www.govinfo.gov/link/statute/132/1097).)*

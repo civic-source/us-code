@@ -3,9 +3,10 @@ title: "Section 1716a - Repealed. Aug. 2, 1954, ch. 649 , title II, § 206, 68 S
 usc_title: 12
 usc_section: "1716a"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1716a"
-generated_at: "2026-03-30T02:53:53.426Z"
+generated_at: "2026-11-23T20:25:58.996Z"
+status: "repealed"
 ---
 
 # §§ 1716–1, 1716a. Repealed. Aug. 2, 1954, ch. 649 , title II, § 206, 68 Stat. 622

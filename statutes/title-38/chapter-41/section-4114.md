@@ -3,9 +3,10 @@ title: "Section 4114 - Credentialing and licensure of veterans: demonstration pr
 usc_title: 38
 usc_section: "4114"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 4114"
-generated_at: "2026-03-30T02:55:53.516Z"
+generated_at: "2026-11-23T20:27:01.929Z"
+status: "active"
 ---
 
 # § 4114. Credentialing and licensure of veterans: demonstration project
@@ -17,3 +18,19 @@ generated_at: "2026-03-30T02:55:53.516Z"
   - **(3)** The Assistant Secretary shall analyze the requirements identified under paragraph (2) to determine which requirements may be satisfied by the skills, training, or experience acquired by members of the Armed Forces with the military occupational specialties selected under paragraph (1).
 - **(c)** The Assistant Secretary shall cooperate with appropriate Federal, State, and industry officials to reduce or eliminate any barriers to providing a credential, certification, or license to a veteran who acquired any skill, training, or experience while serving as a member of the Armed Forces with a military occupational specialty selected under subsection (b)(1) that satisfies the Federal and State requirements for the credential, certification, or license.
 - **(d)** The period during which the Assistant Secretary shall carry out the demonstration project under this section shall be the two-year period beginning on the date of the enactment of the VOW to Hire Heroes Act of 2011.
+
+Demonstration Project Authorized
+
+Identification of Military Occupational Specialties and Associated Credentials and Licenses
+
+Elimination of Barriers to Credentialing and Licensure
+
+Period of Project
+
+In General
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 109–461, title VI, § 604(a)(1)](https://www.govinfo.gov/link/plaw/109/public/461), Dec. 22, 2006, [120 Stat. 3437](https://www.govinfo.gov/link/statute/120/3437); amended [Pub. L. 112–56, title II, § 237(a)](https://www.govinfo.gov/link/plaw/112/public/56), Nov. 21, 2011, [125 Stat. 725](https://www.govinfo.gov/link/statute/125/725).)*

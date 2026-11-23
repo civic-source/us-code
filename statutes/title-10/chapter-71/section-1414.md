@@ -3,9 +3,10 @@ title: "Section 1414 - Members eligible for retired pay who are also eligible fo
 usc_title: 10
 usc_section: "1414"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1414"
-generated_at: "2026-03-30T02:53:38.120Z"
+generated_at: "2026-11-23T20:25:51.324Z"
+status: "active"
 ---
 
 # § 1414. Members eligible for retired pay who are also eligible for veterans’ disability compensation for disabilities rated 50 percent or higher: concurrent payment of retired pay and veterans’ disability compensation
@@ -68,3 +69,69 @@ generated_at: "2026-03-30T02:53:38.120Z"
       - **(i)** the amount of the applicable monthly retired pay of the qualified retiree for that month; and
       - **(ii)** the amount of monthly veterans’ disability compensation to which the qualified retiree is entitled for that month.
     - **(B)** In subparagraph (A), the term “applicable retired pay” for a qualified retiree means the amount of monthly retired pay to which the qualified retiree is entitled, determined without regard to this section or sections 5304 and 5305 of title 38, except that in the case of such a retiree who was retired under chapter 61 of this title, such amount is the amount of retired pay to which the member would have been entitled under any other provision of law based upon the member’s service in the uniformed services if the member had not been retired under chapter 61 of this title.
+
+Payment of Both Retired Pay and Compensation.—
+
+In general
+
+Qualifying service-connected disability
+
+Special Rules for Chapter
+
+Disability Retirees.—
+
+Career retirees
+
+Disability retirees with less than 20 years of service
+
+Phase-in of Full Concurrent Receipt
+
+Calendar year 2004
+
+Calendar year 2005
+
+Calendar year 2006
+
+Calendar year 2007
+
+Calendar year 2008
+
+Calendar year 2009
+
+Calendar year 2010
+
+Calendar year 2011
+
+Calendar year 2012
+
+Calendar year 2013
+
+General limitation
+
+Coordination With Combat-Related Special Compensation Program.—
+
+In general
+
+Annual open season
+
+Definitions
+
+Retired pay
+
+Veterans’ disability compensation
+
+Disability rated as total
+
+Current baseline offset.—
+
+In general
+
+Applicable retired pay
+
+In general
+
+Timing of payment of retroactive benefits
+
+## Source Credit
+
+*(Added [Pub. L. 107–107, div. A, title VI, § 641(a)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1149](https://www.govinfo.gov/link/statute/115/1149); amended [Pub. L. 108–136, div. A, title VI, § 641(a)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1511](https://www.govinfo.gov/link/statute/117/1511); [Pub. L. 108–375, div. A, title VI, § 642](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1957](https://www.govinfo.gov/link/statute/118/1957); [Pub. L. 109–163, div. A, title VI, § 663](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3316](https://www.govinfo.gov/link/statute/119/3316); [Pub. L. 110–181, div. A, title VI, § 642(a)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 157](https://www.govinfo.gov/link/statute/122/157); [Pub. L. 113–76, div. C, title X, § 10001(b)(2)](https://www.govinfo.gov/link/plaw/113/public/76), Jan. 17, 2014, [128 Stat. 151](https://www.govinfo.gov/link/statute/128/151); [Pub. L. 114–92, div. A, title VI, § 631(d)(2)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 845](https://www.govinfo.gov/link/statute/129/845).)*

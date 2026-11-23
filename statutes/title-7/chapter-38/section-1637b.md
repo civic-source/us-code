@@ -3,9 +3,10 @@ title: "Section 1637b - Mandatory reporting for dairy products"
 usc_title: 7
 usc_section: "1637b"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1637b"
-generated_at: "2026-03-30T02:53:42.333Z"
+generated_at: "2026-11-23T20:25:41.250Z"
+status: "active"
 ---
 
 # § 1637b. Mandatory reporting for dairy products
@@ -52,3 +53,13 @@ generated_at: "2026-03-30T02:53:42.333Z"
   - **(1)** The Secretary shall establish an electronic reporting system to carry out this section.
   - **(2)** Not later than 3:00 p.m. Eastern Time on the Wednesday of each week, the Secretary shall publish a report containing the information obtained under this section for the preceding week.
 - **(e)** There are authorized to be appropriated such sums as are necessary to carry out this section.
+
+In general
+
+Frequency of reports
+
+Authorization of appropriations
+
+## Source Credit
+
+*(Aug. 14, 1946, ch. 966, title II, § 273, as added [Pub. L. 106–532, § 2](https://www.govinfo.gov/link/plaw/106/public/532), Nov. 22, 2000, [114 Stat. 2542](https://www.govinfo.gov/link/statute/114/2542); amended [Pub. L. 110–234, title I, § 1510](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 999](https://www.govinfo.gov/link/statute/122/999); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1510, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1728; [Pub. L. 111–239, § 3(a)](https://www.govinfo.gov/link/plaw/111/public/239), Sept. 27, 2010, [124 Stat. 2502](https://www.govinfo.gov/link/statute/124/2502).)*

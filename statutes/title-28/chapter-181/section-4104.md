@@ -3,9 +3,10 @@ title: "Section 4104 - Declaratory judgments"
 usc_title: 28
 usc_section: "4104"
 chapter: 181
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 4104"
-generated_at: "2026-03-30T02:55:30.154Z"
+generated_at: "2026-11-23T20:26:36.553Z"
+status: "active"
 ---
 
 # § 4104. Declaratory judgments
@@ -14,3 +15,15 @@ generated_at: "2026-03-30T02:55:30.154Z"
   - **(1)** Any United States person against whom a foreign judgment is entered on the basis of the content of any writing, utterance, or other speech by that person that has been published, may bring an action in district court, under section 2201(a), for a declaration that the foreign judgment is repugnant to the Constitution or laws of the United States. For the purposes of this paragraph, a judgment is repugnant to the Constitution or laws of the United States if it would not be enforceable under section 4102(a), (b), or (c).
   - **(2)** The party bringing an action under paragraph (1) shall bear the burden of establishing that the foreign judgment would not be enforceable under section 4102(a), (b), or (c).
 - **(b)** Where an action under this section is brought in a district court of the United States, process may be served in the judicial district where the case is brought or any other judicial district of the United States where the defendant may be found, resides, has an agent, or transacts business.
+
+Cause of Action.—
+
+In general
+
+Burden of establishing unenforceability of judgment
+
+Nationwide Service of Process
+
+## Source Credit
+
+*(Added [Pub. L. 111–223, § 3(a)](https://www.govinfo.gov/link/plaw/111/public/223), Aug. 10, 2010, [124 Stat. 2383](https://www.govinfo.gov/link/statute/124/2383).)*

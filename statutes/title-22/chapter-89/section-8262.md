@@ -3,9 +3,10 @@ title: "Section 8262 - United States democracy assistance programs"
 usc_title: 22
 usc_section: "8262"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8262"
-generated_at: "2026-03-30T02:55:05.450Z"
+generated_at: "2026-11-23T20:26:32.704Z"
+status: "active"
 ---
 
 # § 8262. United States democracy assistance programs
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.450Z"
     - **(A)** Democracy assistance has many different forms, including assistance to promote the rule of law, build the capacity of civil society, political parties, and legislatures, improve the independence of the media and the judiciary, enhance independent auditing functions, and advance security sector reform.
     - **(B)** There is a need for greater clarity on the coordination and delivery mechanisms for United States democracy assistance.
   - **(2)** It is the sense of Congress that the Secretary and the Administrator of the United States Agency for International Development should develop guidelines, in consultation with the appropriate congressional committees, building on the existing framework for grants, cooperative agreements, contracts, and other acquisition mechanisms to guide United States missions in foreign countries in coordinating United States democracy assistance and selecting the appropriate combination of such mechanisms for such assistance.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XXI, § 2162](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 536](https://www.govinfo.gov/link/statute/121/536).)*

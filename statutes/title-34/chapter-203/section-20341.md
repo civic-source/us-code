@@ -3,9 +3,10 @@ title: "Section 20341 - Child abuse reporting"
 usc_title: 34
 usc_section: "20341"
 chapter: 203
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 20341"
-generated_at: "2026-03-30T02:55:33.297Z"
+generated_at: "2026-11-23T20:26:50.594Z"
+status: "active"
 ---
 
 # § 20341. Child abuse reporting
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:55:33.297Z"
 - **(g)** All persons who, acting in good faith, make a report by subsection (a), or otherwise provide information or assistance in connection with a report, investigation, or legal intervention pursuant to a report, shall be immune from civil and criminal liability arising out of such actions. There shall be a presumption that any such persons acted in good faith. If a person is sued because of the person’s performance of one of the above functions, and the defendant prevails in the litigation, the court may order that the plaintiff pay the defendant’s legal expenses. Immunity shall not be accorded to persons acting in bad faith.
 - **(h)** All individuals in the occupations listed in subsection (b)(1) who work on Federal lands, or are employed in federally operated (or contracted) facilities, and all covered individuals, shall receive periodic training in the obligation to report, as well as in the identification of abused and neglected children.
 - **(i)** Nothing in this section shall be construed to require a victim of child abuse to self-report the abuse.
+
+## Source Credit
+
+*([Pub. L. 101–647, title II, § 226](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4806](https://www.govinfo.gov/link/statute/104/4806); [Pub. L. 114–328, div. A, title V, § 575(b)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2142](https://www.govinfo.gov/link/statute/130/2142); [Pub. L. 115–126, title I, § 101(a)](https://www.govinfo.gov/link/plaw/115/public/126), Feb. 14, 2018, [132 Stat. 318](https://www.govinfo.gov/link/statute/132/318); [Pub. L. 116–189, § 10](https://www.govinfo.gov/link/plaw/116/public/189), Oct. 30, 2020, [134 Stat. 970](https://www.govinfo.gov/link/statute/134/970).)*

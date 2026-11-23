@@ -3,9 +3,10 @@ title: "Section 17204 - High cost region geothermal energy grant program"
 usc_title: 42
 usc_section: "17204"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17204"
-generated_at: "2026-03-30T02:56:11.501Z"
+generated_at: "2026-11-23T20:27:23.737Z"
+status: "active"
 ---
 
 # § 17204. High cost region geothermal energy grant program
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.501Z"
   - **(3)** to demonstrate and promote commercial application of technologies related to geothermal energy as part of the project.
 - **(d)** The cost-sharing requirements of section 16352 of this title shall apply to any project carried out under this section.
 - **(e)** Out of funds authorized under section 17202 of this title , there is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2021 through 2025.
+
+## Source Credit
+
+*([Pub. L. 110–140, title VI, § 625](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1685](https://www.govinfo.gov/link/statute/121/1685); [Pub. L. 116–260, div. Z, title III, § 3002](https://www.govinfo.gov/link/plaw/116/public/260) (l), Dec. 27, 2020, [134 Stat. 2496](https://www.govinfo.gov/link/statute/134/2496).)*

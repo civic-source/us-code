@@ -3,9 +3,10 @@ title: "Section 4714 - Recordkeeping"
 usc_title: 12
 usc_section: "4714"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4714"
-generated_at: "2026-03-30T02:53:53.517Z"
+generated_at: "2026-11-23T20:25:59.426Z"
+status: "active"
 ---
 
 # § 4714. Recordkeeping
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:53.517Z"
 - **(e)**
   - **(1)** The Fund shall require each community development financial institution receiving assistance under this subchapter to submit an annual report to the Fund on its activities, its financial condition, and its success in meeting performance goals, in satisfying the terms and conditions of its assistance agreement, and in complying with other requirements of this subchapter, in such form and manner as the Fund shall specify.
   - **(2)** The Fund, after deleting or redacting any material as appropriate to protect privacy or proprietary interests, shall make such reports submitted under paragraph (1) available for public inspection.
+
+## Source Credit
+
+*([Pub. L. 103–325, title I, § 115](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2184](https://www.govinfo.gov/link/statute/108/2184).)*

@@ -3,9 +3,10 @@ title: "Section 2712 - Authority to control certain terrorism-related services"
 usc_title: 22
 usc_section: "2712"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2712"
-generated_at: "2026-03-30T02:55:05.380Z"
+generated_at: "2026-11-23T20:26:32.383Z"
+status: "active"
 ---
 
 # § 2712. Authority to control certain terrorism-related services
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:05.380Z"
   - **(1)** Not less than 30 days before issuing any regulations under this section (including any amendments thereto), the Secretary of State shall transmit the proposed regulations to the Congress.
   - **(2)** Not less than once every six months, the Secretary of State shall report to the Congress concerning the number and character of licenses granted and denied during the previous reporting period, and such other information as the Secretary may find to be relevant to the accomplishment of the objectives of this section.
 - **(h)** The authority granted by this section is in addition to the authorities granted by any other provision of law.
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title I, § 40, as added [Pub. L. 99–399, title V, § 506(2)](https://www.govinfo.gov/link/plaw/99/public/399), Aug. 27, 1986, [100 Stat. 871](https://www.govinfo.gov/link/statute/100/871).)*

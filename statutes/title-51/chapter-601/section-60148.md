@@ -3,9 +3,10 @@ title: "Section 60148 - Enforcement"
 usc_title: 51
 usc_section: "60148"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 60148"
-generated_at: "2026-03-30T02:56:28.712Z"
+generated_at: "2026-11-23T20:27:37.526Z"
+status: "active"
 ---
 
 # § 60148. Enforcement
@@ -16,3 +17,32 @@ generated_at: "2026-03-30T02:56:28.712Z"
   - **(2)** uses such data for other than noncommercial purposes.
 - **(c)** Enforcement mechanisms referred to in subsection (b) may include civil penalties of not more than $10,000 (per day per violation), denial of further unenhanced data purchasing privileges, and any other penalties or restrictions the Secretary considers necessary to ensure, to the greatest extent practicable, that unenhanced data provided for noncommercial purposes are not used to unfairly compete in the commercial market against private sector entities not eligible for data at the cost of fulfilling user requests.
 - **(d)** The Secretary shall issue any regulations necessary to carry out this section and shall establish standards and procedures governing the imposition of enforcement mechanisms under subsection (b). The standards and procedures shall include a procedure for potentially aggrieved parties to file formal protests with the Secretary alleging instances where such unenhanced data have been, or are being, used for commercial purposes in violation of the terms of receipt of such data. The Secretary shall promptly act to investigate any such protest, and shall report annually to Congress on instances of such violations.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 60148 | 15 U.S.C. 5658 . | Pub. L. 102–555, title V, § 508 , Oct. 28, 1992 , 106 Stat. 4179 . |
+
+
+In General
+
+Authority of Secretary
+
+Enforcement Mechanisms
+
+Procedures and Regulations
+
+Historical and Revision Notes
+
+60148
+
+15 U.S.C. 5658
+
+Pub. L. 102–555, title V, § 508
+
+Oct. 28, 1992
+
+106 Stat. 4179
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3421](https://www.govinfo.gov/link/statute/124/3421).)*

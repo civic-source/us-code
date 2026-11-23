@@ -3,9 +3,10 @@ title: "Section 504 - Costs and fees of parties"
 usc_title: 5
 usc_section: "504"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 504"
-generated_at: "2026-03-30T02:52:55.985Z"
+generated_at: "2026-11-23T20:25:31.705Z"
+status: "active"
 ---
 
 # § 504. Costs and fees of parties
@@ -44,3 +45,17 @@ generated_at: "2026-03-30T02:52:55.985Z"
 - **(g)** The online searchable database described in subsection (f) may not reveal any information the disclosure of which is prohibited by law or a court order.
 - **(h)** The head of each agency shall provide to the Chairman of the Administrative Conference of the United States in a timely manner all information requested by the Chairman to comply with the requirements of subsections (e), (f), and (g).
 - **(i)** No award may be made under this section for costs, fees, or other expenses which may be awarded under section 7430 of the Internal Revenue Code of 1986.
+
+In General
+
+Applicability of Amendments to Certain Prior Cases
+
+Applicability of Amendments to Prior Board of Contracts Appeals Cases
+
+Revival of Certain Expired Provisions
+
+Repeals.—
+
+## Source Credit
+
+*(Added [Pub. L. 96–481, title II, § 203(a)(1)](https://www.govinfo.gov/link/plaw/96/public/481), (c), Oct. 21, 1980, [94 Stat. 2325](https://www.govinfo.gov/link/statute/94/2325), 2327; revived and amended [Pub. L. 99–80](https://www.govinfo.gov/link/plaw/99/public/80), §§ 1, 6, Aug. 5, 1985, [99 Stat. 183](https://www.govinfo.gov/link/statute/99/183), 186; [Pub. L. 99–509, title VI, § 6103(c)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1948](https://www.govinfo.gov/link/statute/100/1948); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 100–647, title VI, § 6239(b)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3746](https://www.govinfo.gov/link/statute/102/3746); [Pub. L. 103–141, § 4(b)](https://www.govinfo.gov/link/plaw/103/public/141), Nov. 16, 1993, [107 Stat. 1489](https://www.govinfo.gov/link/statute/107/1489); [Pub. L. 104–121, title II, § 231](https://www.govinfo.gov/link/plaw/104/public/121), Mar. 29, 1996, [110 Stat. 862](https://www.govinfo.gov/link/statute/110/862); [Pub. L. 111–350, § 5(a)(1)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3841](https://www.govinfo.gov/link/statute/124/3841); [Pub. L. 116–9, title IV, § 4201(a)(1)](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 762](https://www.govinfo.gov/link/statute/133/762).)*

@@ -3,9 +3,10 @@ title: "Section 1 - Maps and boundary descriptions"
 usc_title: 16
 usc_section: "1"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T02:54:22.875Z"
+generated_at: "2026-11-23T20:26:20.143Z"
+status: "active"
 ---
 
 # § 546b–1. Maps and boundary descriptions
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:22.875Z"
 - **(b)** The maps and boundary descriptions filed under subsection (a) shall have the same force and effect as if included in this subtitle, except that the Secretary may correct any minor errors in the maps and boundary descriptions.
 - **(c)** The maps and boundary descriptions filed under subsection (a) shall be on file and available for public inspection in the Office of the Chief of the Forest Service.
 - **(d)** In the case of a conflict between a map filed under subsection (a) and the acreage of the applicable areas specified in this subtitle, the map shall control.
+
+## Source Credit
+
+*([Pub. L. 111–11, title I, § 1106](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1007](https://www.govinfo.gov/link/statute/123/1007).)*

@@ -3,9 +3,10 @@ title: "Section 2576a - Inquiry point"
 usc_title: 19
 usc_section: "2576a"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2576a"
-generated_at: "2026-03-30T02:54:24.680Z"
+generated_at: "2026-11-23T20:26:10.998Z"
+status: "active"
 ---
 
 # § 2576a. Inquiry point
@@ -15,3 +16,7 @@ The standards information center maintained under section 2544 of this title sha
   - **(1)** the membership and participation of the Federal Government, State governments, and relevant nongovernmental bodies in the United States in international and regional standardizing bodies and conformity assessment systems, and in bilateral and multilateral arrangements regarding standards-related measures, and the provisions of those systems and arrangements;
   - **(2)** the location of notices of the type required under article 909 of the NAFTA, or where the information contained in such notice can be obtained; and
   - **(3)** the Federal agency procedures for assessment of risk, and factors the agency considers in conducting the assessment and establishing the levels of protection that the agency considers appropriate.
+
+## Source Credit
+
+*([Pub. L. 96–39, title IV, § 472](https://www.govinfo.gov/link/plaw/96/public/39), as added [Pub. L. 103–182, title III, § 351(a)](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2120](https://www.govinfo.gov/link/statute/107/2120).)*

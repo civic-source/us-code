@@ -3,12 +3,17 @@ title: "Section 3555 - Order of notice to victims"
 usc_title: 18
 usc_section: "3555"
 chapter: 227
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 3555"
-generated_at: "2026-03-30T02:54:16.519Z"
+generated_at: "2026-11-23T20:26:08.735Z"
+status: "active"
 ---
 
 # § 3555. Order of notice to victims
 
 The court, in imposing a sentence on a defendant who has been found guilty of an offense involving fraud or other intentionally deceptive practices, may order, in addition to the sentence that is imposed pursuant to the provisions of section 3551, that the defendant give reasonable notice and explanation of the conviction, in such form as the court may approve, to the victims of the offense. The notice may be ordered to be given by mail, by advertising in designated areas or through designated media, or by other appropriate means. In determining whether to require the defendant to give such notice, the court shall consider the factors set forth in section 3553(a) to the extent that they are applicable and shall consider the cost involved in giving the notice as it relates to the loss caused by the offense, and shall not require the defendant to bear the costs of notice in excess of $20,000.
 
+
+## Source Credit
+
+*(Added [Pub. L. 98–473, title II, § 212(a)(2)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 1991](https://www.govinfo.gov/link/statute/98/1991).)*

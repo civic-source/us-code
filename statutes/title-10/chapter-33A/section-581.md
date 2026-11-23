@@ -3,9 +3,10 @@ title: "Section 581 - Selective retirement"
 usc_title: 10
 usc_section: "581"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 581"
-generated_at: "2026-03-30T02:53:38.067Z"
+generated_at: "2026-11-23T20:25:51.003Z"
+status: "active"
 ---
 
 # § 581. Selective retirement
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:38.067Z"
 - **(e)**
   - **(1)** The Secretary concerned may defer for not more than three months the retirement of an officer otherwise approved for early retirement under this section in order to prevent a personal hardship to the officer or for other humanitarian reasons. Any such deferral shall be made on a case-by-case basis considering the circumstances of the case of the particular officer concerned. The authority of the Secretary to grant such a deferral may not be delegated.
   - **(2)** An officer recommended for early retirement under this section, if approved for deferral under paragraph (1), shall be retired on the date requested by the officer, and approved by the Secretary concerned, which date shall be not later than the first day of the tenth calendar month beginning after the month in which the Secretary concerned approves the report of the board which recommended the officer for early retirement.
+
+## Source Credit
+
+*(Added [Pub. L. 102–190, div. A, title XI, § 1112(a)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1500](https://www.govinfo.gov/link/statute/105/1500); amended [Pub. L. 102–484, div. A, title X, § 1052(5)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2499](https://www.govinfo.gov/link/statute/106/2499); [Pub. L. 103–337, div. A, title V, § 541(b)(6)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2765](https://www.govinfo.gov/link/statute/108/2765); [Pub. L. 104–106, div. A, title V, § 504(a)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 295](https://www.govinfo.gov/link/statute/110/295); [Pub. L. 113–291, div. A, title V](https://www.govinfo.gov/link/plaw/113/public/291), §§ 501, 502(a), Dec. 19, 2014, [128 Stat. 3353](https://www.govinfo.gov/link/statute/128/3353).)*

@@ -3,9 +3,10 @@ title: "Section 3316b - Continuity of operations plans for certain elements of t
 usc_title: 50
 usc_section: "3316b"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3316b"
-generated_at: "2026-03-30T02:56:26.243Z"
+generated_at: "2026-11-23T20:27:30.953Z"
+status: "active"
 ---
 
 # § 3316b. Continuity of operations plans for certain elements of the intelligence community in the case of a national emergency
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:26.243Z"
 - **(d)** During a covered national emergency, the Director of National Intelligence, the Director of the Central Intelligence Agency, the Director of the National Reconnaissance Office, the Director of the Defense Intelligence Agency, the Director of the National Security Agency, and the Director of the National Geospatial-Intelligence Agency shall each submit any updates to the plans submitted under subsection (c)—
   - **(1)** in accordance with that subsection; and
   - **(2)** in a timely manner consistent with section 3091 of this title .
+
+## Source Credit
+
+*([Pub. L. 116–260, div. W, title III, § 303](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2364](https://www.govinfo.gov/link/statute/134/2364).)*

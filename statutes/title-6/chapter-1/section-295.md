@@ -3,9 +3,10 @@ title: "Section 295 - Director of Shared Services"
 usc_title: 6
 usc_section: "295"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 295"
-generated_at: "2026-03-30T02:53:09.455Z"
+generated_at: "2026-11-23T20:25:34.691Z"
+status: "active"
 ---
 
 # § 295. Director of Shared Services
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:09.455Z"
   - **(1)** information resources management, including computer databases and information technology;
   - **(2)** records and file management; and
   - **(3)** forms management.
+
+## Source Credit
+
+*([Pub. L. 107–296, title IV, § 475](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2209](https://www.govinfo.gov/link/statute/116/2209).)*

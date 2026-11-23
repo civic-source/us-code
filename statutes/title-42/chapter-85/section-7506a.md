@@ -3,9 +3,10 @@ title: "Section 7506a - Interstate transport commissions"
 usc_title: 42
 usc_section: "7506a"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7506a"
-generated_at: "2026-03-30T02:56:11.305Z"
+generated_at: "2026-11-23T20:27:22.879Z"
+status: "active"
 ---
 
 # § 7506a. Interstate transport commissions
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.305Z"
     - **(D)** An air pollution control official representing each State in the region, appointed by the Governor.
   - **(2)** The transport commission shall assess the degree of interstate transport of the pollutant or precursors to the pollutant throughout the transport region, assess strategies for mitigating the interstate pollution, and recommend to the Administrator such measures as the Commission determines to be necessary to ensure that the plans for the relevant States meet the requirements of section 7410(a)(2)(D) of this title . Such commission shall not be subject to the provisions of chapter 10 of title 5.
 - **(c)** A transport commission established under subsection (b) may request the Administrator to issue a finding under section 7410(k)(5) of this title that the implementation plan for one or more of the States in the transport region is substantially inadequate to meet the requirements of section 7410(a)(2)(D) of this title . The Administrator shall approve, disapprove, or partially approve and partially disapprove such a request within 18 months of its receipt and, to the extent the Administrator approves such request, issue the finding under section 7410(k)(5) of this title at the time of such approval. In acting on such request, the Administrator shall provide an opportunity for public participation and shall address each specific recommendation made by the commission. Approval or disapproval of such a request shall constitute final agency action within the meaning of section 7607(b) of this title .
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 176A, as added [Pub. L. 101–549, title I, § 102(f)(1)](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2419](https://www.govinfo.gov/link/statute/104/2419); amended [Pub. L. 117–286, § 4(a)(270)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4335](https://www.govinfo.gov/link/statute/136/4335).)*

@@ -3,9 +3,10 @@ title: "Section 677b - Declaration"
 usc_title: 6
 usc_section: "677b"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 677b"
-generated_at: "2026-03-30T02:53:09.481Z"
+generated_at: "2026-11-23T20:25:34.846Z"
+status: "active"
 ---
 
 # § 677b. Declaration
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:53:09.481Z"
     - **(A)** shall assess the resources available to respond to a potential declaration; and
     - **(B)** may take actions before and while a declaration is in effect to arrange or procure additional resources for asset response activities or technical assistance the Secretary determines necessary, which may include entering into standby contracts with private entities for cybersecurity services or incident responders in the event of a declaration.
   - **(2)** Any expenditure from the Fund for the purpose of paragraph (1)(B) shall be made from amounts available in the Fund, and amounts available in the Fund shall be in addition to any other appropriations available to the Cybersecurity and Infrastructure Security Agency for such purpose.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XXII, § 2233](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 117–58, div. G, title VI, § 70602(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1268](https://www.govinfo.gov/link/statute/135/1268).)*

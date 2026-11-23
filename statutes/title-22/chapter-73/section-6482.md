@@ -3,9 +3,10 @@ title: "Section 6482 - Voluntary codes of conduct for United States institutions
 usc_title: 22
 usc_section: "6482"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6482"
-generated_at: "2026-03-30T02:55:05.430Z"
+generated_at: "2026-11-23T20:26:32.619Z"
+status: "active"
 ---
 
 # § 6482. Voluntary codes of conduct for United States institutions of higher education outside the United States
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.430Z"
   - **(1)** uphold the right of freedom of religion of their employees and students, including the right to manifest that religion peacefully as protected in international law;
   - **(2)** ensure that the religious views and peaceful practice of religion in no way affect, or be allowed to affect, the status of a worker’s or faculty member’s employment or a student’s enrollment; and
   - **(3)** make every effort in all negotiations, contracts, or memoranda of understanding engaged in or constructed with a foreign government to protect academic freedom and the rights enshrined in the United Nations Declaration of Human Rights.
+
+## Source Credit
+
+*([Pub. L. 105–292, title VII, § 702](https://www.govinfo.gov/link/plaw/105/public/292), as added [Pub. L. 114–281, title VI, § 601](https://www.govinfo.gov/link/plaw/114/public/281), Dec. 16, 2016, [130 Stat. 1438](https://www.govinfo.gov/link/statute/130/1438).)*

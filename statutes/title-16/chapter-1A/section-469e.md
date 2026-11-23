@@ -3,9 +3,10 @@ title: "Section 469e - Plan for continental glaciation"
 usc_title: 16
 usc_section: "469e"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 469e"
-generated_at: "2026-03-30T02:54:22.853Z"
+generated_at: "2026-11-23T20:26:20.058Z"
+status: "active"
 ---
 
 # § 469e. Plan for continental glaciation
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:22.853Z"
   - **(3)** Northwestern area (portions of Chippewa County);
   - **(4)** Related areas (other areas in the State of Wisconsin which the Secretary and the Governor of Wisconsin agree upon as significant examples of continental glaciation).
 - **(c)** Any area outside of the national forests that the Secretary and the Governor of Wisconsin agree has significant examples of continental glaciation but is not described in the original notice may be included in the reserve by the Secretary after notice to the President of the Senate and the Speaker of the House of Representatives and publication in the Federal Register, as hereinbefore provided, and any area that they consider to be no longer desirable as a part of the reserve may be excluded from it by the Secretary in the same manner.
+
+## Source Credit
+
+*([Pub. L. 88–655, § 2](https://www.govinfo.gov/link/plaw/88/public/655), Oct. 13, 1964, [78 Stat. 1087](https://www.govinfo.gov/link/statute/78/1087).)*

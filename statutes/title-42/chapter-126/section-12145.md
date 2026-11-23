@@ -3,9 +3,10 @@ title: "Section 12145 - Temporary relief where lifts are unavailable"
 usc_title: 42
 usc_section: "12145"
 chapter: 126
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12145"
-generated_at: "2026-03-30T02:56:11.409Z"
+generated_at: "2026-11-23T20:27:23.340Z"
+status: "active"
 ---
 
 # § 12145. Temporary relief where lifts are unavailable
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.409Z"
 - **(c)** If, at any time, the Secretary has reasonable cause to believe that any relief granted under subsection (a) was fraudulently applied for, the Secretary shall—
   - **(1)** cancel such relief if such relief is still in effect; and
   - **(2)** take such other action as the Secretary considers appropriate.
+
+## Source Credit
+
+*([Pub. L. 101–336, title II, § 225](https://www.govinfo.gov/link/plaw/101/public/336), July 26, 1990, [104 Stat. 343](https://www.govinfo.gov/link/statute/104/343).)*

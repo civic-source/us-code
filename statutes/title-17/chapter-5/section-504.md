@@ -3,9 +3,10 @@ title: "Section 504 - Remedies for infringement: Damages and profits"
 usc_title: 17
 usc_section: "504"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 504"
-generated_at: "2026-03-30T02:54:15.353Z"
+generated_at: "2026-11-23T20:26:06.524Z"
+status: "active"
 ---
 
 # § 504. Remedies for infringement: Damages and profits
@@ -22,3 +23,15 @@ generated_at: "2026-03-30T02:54:15.353Z"
     - **(B)** Nothing in this paragraph limits what may be considered willful infringement under this subsection.
     - **(C)** For purposes of this paragraph, the term “domain name” has the meaning given that term in section 45 of the Act entitled “An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes” approved July 5, 1946 (commonly referred to as the “Trademark Act of 1946”; 15 U.S.C. 1127 ).
 - **(d)** In any case in which the court finds that a defendant proprietor of an establishment who claims as a defense that its activities were exempt under section 110(5) did not have reasonable grounds to believe that its use of a copyrighted work was exempt under such section, the plaintiff shall be entitled to, in addition to any award of damages under this section, an additional award of two times the amount of the license fee that the proprietor of the establishment concerned should have paid the plaintiff for such use during the preceding period of up to 3 years.
+
+In General
+
+Actual Damages and Profits
+
+Statutory Damages.—
+
+Additional Damages in Certain Cases
+
+## Source Credit
+
+*([Pub. L. 94–553, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/553), Oct. 19, 1976, [90 Stat. 2585](https://www.govinfo.gov/link/statute/90/2585); [Pub. L. 100–568, § 10(b)](https://www.govinfo.gov/link/plaw/100/public/568), Oct. 31, 1988, [102 Stat. 2860](https://www.govinfo.gov/link/statute/102/2860); [Pub. L. 105–80, § 12(a)(13)](https://www.govinfo.gov/link/plaw/105/public/80), Nov. 13, 1997, [111 Stat. 1535](https://www.govinfo.gov/link/statute/111/1535); [Pub. L. 105–298, title II, § 204](https://www.govinfo.gov/link/plaw/105/public/298), Oct. 27, 1998, [112 Stat. 2833](https://www.govinfo.gov/link/statute/112/2833); [Pub. L. 106–160, § 2](https://www.govinfo.gov/link/plaw/106/public/160), Dec. 9, 1999, [113 Stat. 1774](https://www.govinfo.gov/link/statute/113/1774); [Pub. L. 108–482, title II, § 203](https://www.govinfo.gov/link/plaw/108/public/482), Dec. 23, 2004, [118 Stat. 3916](https://www.govinfo.gov/link/statute/118/3916); [Pub. L. 111–295, § 6(f)(2)](https://www.govinfo.gov/link/plaw/111/public/295), Dec. 9, 2010, [124 Stat. 3181](https://www.govinfo.gov/link/statute/124/3181).)*

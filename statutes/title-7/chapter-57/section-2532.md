@@ -3,12 +3,17 @@ title: "Section 2532 - Ownership during testing"
 usc_title: 7
 usc_section: "2532"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2532"
-generated_at: "2026-03-30T02:53:42.388Z"
+generated_at: "2026-11-23T20:25:41.534Z"
+status: "active"
 ---
 
 # § 2532. Ownership during testing
 
 An owner who, with notice that release is for testing only, releases possession of seed or other sexually reproducible or tuber propagable plant material for testing retains ownership with respect thereto; and any diversion from authorized testing, or any unauthorized retention, of such material by anyone who has knowledge that it is under such notice, or who is chargeable with notice, is prohibited, and violates the property rights of the owner. Anyone receiving the material tagged or labeled with the notice is chargeable with the notice. The owner is entitled to remedy and redress in a civil action hereunder. No remedy available by State or local law is hereby excluded. No such notice shall be used, or if used be effective, when the owner has made identical sexually reproducible or tuber propagable plant material available to the public, as by sale thereof.
 
+
+## Source Credit
+
+*([Pub. L. 91–577, title III, § 102](https://www.govinfo.gov/link/plaw/91/public/577), Dec. 24, 1970, [84 Stat. 1554](https://www.govinfo.gov/link/statute/84/1554); [Pub. L. 103–349, § 8(d)(2)](https://www.govinfo.gov/link/plaw/103/public/349), Oct. 6, 1994, [108 Stat. 3141](https://www.govinfo.gov/link/statute/108/3141).)*

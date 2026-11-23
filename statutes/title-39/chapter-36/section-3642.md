@@ -3,9 +3,10 @@ title: "Section 3642 - New products and transfers of products between the market
 usc_title: 39
 usc_section: "3642"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "39 U.S.C. § 3642"
-generated_at: "2026-03-30T02:55:43.694Z"
+generated_at: "2026-11-23T20:26:57.757Z"
+status: "active"
 ---
 
 # § 3642. New products and transfers of products between the market-dominant and competitive categories of mail
@@ -25,3 +26,25 @@ generated_at: "2026-03-30T02:55:43.694Z"
 - **(e)** Except as provided in section 3641, no product that involves the physical delivery of letters, printed matter, or packages may be offered by the Postal Service unless it has been assigned to the market-dominant or competitive category of mail (as appropriate) either—
   - **(1)** under this subchapter; or
   - **(2)** by or under any other provision of law.
+
+In General
+
+Criteria
+
+Exclusion of products covered by postal monopoly
+
+Additional considerations
+
+Transfers of Subclasses and Other Subordinate Units Allowable
+
+Notification and Publication Requirements.—
+
+Notification requirement
+
+Publication requirement
+
+Prohibition
+
+## Source Credit
+
+*(Added [Pub. L. 103–123, title VII, § 704(a)(2)](https://www.govinfo.gov/link/plaw/103/public/123), Oct. 28, 1993, [107 Stat. 1268](https://www.govinfo.gov/link/statute/107/1268); amended [Pub. L. 109–435, title II, § 203](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3209](https://www.govinfo.gov/link/statute/120/3209).)*

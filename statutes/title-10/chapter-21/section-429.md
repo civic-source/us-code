@@ -3,9 +3,10 @@ title: "Section 429 - Appropriations for Defense intelligence elements: accounts
 usc_title: 10
 usc_section: "429"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 429"
-generated_at: "2026-03-30T02:53:38.058Z"
+generated_at: "2026-11-23T20:25:50.953Z"
+status: "active"
 ---
 
 # § 429. Appropriations for Defense intelligence elements: accounts for transfers; transfer authority
@@ -15,3 +16,17 @@ generated_at: "2026-03-30T02:53:38.058Z"
 - **(c)** Funds transferred pursuant to subsection (a) shall remain available for the same time period and for the same purpose as the appropriation from which transferred, and shall remain subject to the same limitations provided in the law making the appropriation.
 - **(d)** Unless otherwise specifically authorized by law, funds transferred pursuant to subsection (a) shall only be obligated and expended in accordance with chapter 15 of title 31 and all other applicable provisions of law.
 - **(e)** In this section, the term “Defense intelligence element” means any of the Department of Defense agencies, offices, and elements included within the definition of “intelligence community” under section 3(4) of the National Security Act of 1947 ( 50 U.S.C. 3003(4) ).
+
+Accounts for Appropriations for Defense Intelligence Elements
+
+Recordation of Transfers
+
+Availability of Funds
+
+Obligation and Expenditure of Funds
+
+Defense Intelligence Element Defined
+
+## Source Credit
+
+*(Added [Pub. L. 112–87, title IV, § 433(a)](https://www.govinfo.gov/link/plaw/112/public/87), Jan. 3, 2012, [125 Stat. 1894](https://www.govinfo.gov/link/statute/125/1894); amended [Pub. L. 113–291, div. A, title X, § 1071(c)(5)](https://www.govinfo.gov/link/plaw/113/public/291), (f)(6), Dec. 19, 2014, [128 Stat. 3508](https://www.govinfo.gov/link/statute/128/3508), 3510.)*

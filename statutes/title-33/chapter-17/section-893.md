@@ -3,9 +3,10 @@ title: "Section 893 - Ocean and atmospheric research and development program"
 usc_title: 33
 usc_section: "893"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 893"
-generated_at: "2026-03-30T02:55:41.075Z"
+generated_at: "2026-11-23T20:26:53.927Z"
+status: "active"
 ---
 
 # § 893. Ocean and atmospheric research and development program
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:41.075Z"
   - **(3)** describe how transformational research priorities are identified and appropriately – 1 balanced in the context of NOAA’s broader research portfolio;
   - **(4)** describe NOAA’s plan for developing a competitive peer review and priority-setting – 1 process, funding mechanisms, performance and evaluation measures, and transition-to-operation guidelines for transformational research; and
   - **(5)** describe partnerships with other agencies involved in transformational research.
+
+## Source Credit
+
+*([Pub. L. 110–69, title IV, § 4001](https://www.govinfo.gov/link/plaw/110/public/69), Aug. 9, 2007, [121 Stat. 599](https://www.govinfo.gov/link/statute/121/599); [Pub. L. 111–358, title III, § 301](https://www.govinfo.gov/link/plaw/111/public/358), Jan. 4, 2011, [124 Stat. 3996](https://www.govinfo.gov/link/statute/124/3996).)*

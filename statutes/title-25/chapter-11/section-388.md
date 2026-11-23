@@ -3,12 +3,17 @@ title: "Section 388 - Claims for damages; settlement by agreement"
 usc_title: 25
 usc_section: "388"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 388"
-generated_at: "2026-03-30T02:54:52.806Z"
+generated_at: "2026-11-23T20:26:25.390Z"
+status: "active"
 ---
 
 # § 388. Claims for damages; settlement by agreement
 
 The Secretary of the Interior is authorized to pay out of funds available for the Indian irrigation projects for damages caused to owners of lands or other private property of any kind by reason of the operations of the United States, its officers or employees, in the survey, construction, operation, or maintenance of irrigation works of such projects and which may be compromised by agreement between the claimant and the Secretary of the Interior or such officers as he may designate: Provided , That the total of any such claims authorized to be settled as herein contemplated shall not exceed 5 per centum of the funds available for the project under which such claims arise during any one fiscal year.
 
+
+## Source Credit
+
+*(Feb. 20, 1929, ch. 279, [45 Stat. 1252](https://www.govinfo.gov/link/statute/45/1252).)*

@@ -3,9 +3,10 @@ title: "Section 14704 - Selective early removal from the reserve active-status l
 usc_title: 10
 usc_section: "14704"
 chapter: 1409
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 14704"
-generated_at: "2026-03-30T02:53:38.276Z"
+generated_at: "2026-11-23T20:25:52.479Z"
+status: "active"
 ---
 
 # § 14704. Selective early removal from the reserve active-status list
@@ -21,3 +22,15 @@ generated_at: "2026-03-30T02:53:38.276Z"
 - **(b)** The Secretary of the military department concerned shall specify the number of officers described in subsection (a)(1) that a board may recommend for separation under subsection (c).
 - **(c)** In the case of an officer recommended for separation in the report of a board under subsection (a), the Secretary may separate the officer in accordance with section 14514 of this title .
 - **(d)** The Secretary of the military department concerned shall prescribe regulations for the administration of this section.
+
+Boards To Recommend Officers for Removal From Reserve Active-Status List
+
+Specification of Number of Officers Who May Be Recommended for Separation
+
+Separation of Officers Selected
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1611](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2956](https://www.govinfo.gov/link/statute/108/2956); amended [Pub. L. 113–66, div. A, title V, § 503(b)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 750](https://www.govinfo.gov/link/statute/127/750).)*

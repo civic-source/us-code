@@ -3,9 +3,10 @@ title: "Section 4195 - Limitations on amount of guarantees"
 usc_title: 25
 usc_section: "4195"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 4195"
-generated_at: "2026-03-30T02:54:52.860Z"
+generated_at: "2026-11-23T20:26:25.691Z"
+status: "active"
 ---
 
 # § 4195. Limitations on amount of guarantees
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:52.860Z"
 - **(d)** The Secretary shall monitor the use of guarantees under this subchapter by Indian tribes. If the Secretary finds that 50 percent of the aggregate guarantee authority under subsection (c) has been committed, the Secretary may—
   - **(1)** impose limitations on the amount of guarantees any one Indian tribe may receive in any fiscal year of $50,000,000; or
   - **(2)** request the enactment of legislation increasing the aggregate outstanding limitation on guarantees under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 104–330, title VI, § 605](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4047](https://www.govinfo.gov/link/statute/110/4047); [Pub. L. 107–292, § 2(b)](https://www.govinfo.gov/link/plaw/107/public/292), Nov. 13, 2002, [116 Stat. 2053](https://www.govinfo.gov/link/statute/116/2053); [Pub. L. 110–411, title VII, § 701(b)](https://www.govinfo.gov/link/plaw/110/public/411), Oct. 14, 2008, [122 Stat. 4334](https://www.govinfo.gov/link/statute/122/4334).)*

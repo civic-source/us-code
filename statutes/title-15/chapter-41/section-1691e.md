@@ -3,9 +3,10 @@ title: "Section 1691e - Civil liability"
 usc_title: 15
 usc_section: "1691e"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1691e"
-generated_at: "2026-03-30T02:54:08.155Z"
+generated_at: "2026-11-23T20:26:04.106Z"
+status: "active"
 ---
 
 # § 1691e. Civil liability
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:08.155Z"
   - **(1)** has reason to believe, as a result of receiving a consumer complaint, conducting a consumer compliance examination, or otherwise, that a violation of this subchapter has occurred;
   - **(2)** has reason to believe that the alleged violation would be a violation of the Fair Housing Act [ 42 U.S.C. 3601 et seq.]; and
   - **(3)** does not refer the matter to the Attorney General pursuant to subsection (g),
+
+## Source Credit
+
+*([Pub. L. 90–321, title VII, § 706](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 93–495, title V, § 503](https://www.govinfo.gov/link/plaw/93/public/495), Oct. 28, 1974, [88 Stat. 1524](https://www.govinfo.gov/link/statute/88/1524); amended [Pub. L. 94–239, § 6](https://www.govinfo.gov/link/plaw/94/public/239), Mar. 23, 1976, [90 Stat. 253](https://www.govinfo.gov/link/statute/90/253); [Pub. L. 102–242, title II, § 223(a)](https://www.govinfo.gov/link/plaw/102/public/242) –(c), Dec. 19, 1991, [105 Stat. 2306](https://www.govinfo.gov/link/statute/105/2306); [Pub. L. 111–203, title X, § 1085(1)](https://www.govinfo.gov/link/plaw/111/public/203), (5)–(7), July 21, 2010, [124 Stat. 2083](https://www.govinfo.gov/link/statute/124/2083), 2085.)*

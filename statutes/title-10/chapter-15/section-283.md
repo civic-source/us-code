@@ -3,9 +3,10 @@ title: "Section 283 - Situations involving bombings of places of public use, Gov
 usc_title: 10
 usc_section: "283"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 283"
-generated_at: "2026-03-30T02:53:38.051Z"
+generated_at: "2026-11-23T20:25:50.903Z"
+status: "active"
 ---
 
 # § 283. Situations involving bombings of places of public use, Government facilities, public transportation systems, and infrastructure facilities
@@ -36,3 +37,15 @@ generated_at: "2026-03-30T02:53:38.051Z"
     - **(J)** clandestine and improvised explosive devices; and
     - **(K)** all similar or related items or components explosive in nature; and
   - **(2)** includes all munitions containing explosives, propellants, nuclear fission or fusion materials, and biological and chemical agents.
+
+In General
+
+Rendering-safe Support
+
+Regulations
+
+Explosive Ordnance Defined
+
+## Source Credit
+
+*(Added [Pub. L. 114–92, div. A, title X, § 1082(a)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 1002](https://www.govinfo.gov/link/statute/129/1002), § 383; renumbered § 283, [Pub. L. 114–328, div. A, title XII, § 1241(a)(2)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2497](https://www.govinfo.gov/link/statute/130/2497).)*

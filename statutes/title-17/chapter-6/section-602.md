@@ -3,9 +3,10 @@ title: "Section 602 - Infringing importation or exportation of copies or phonore
 usc_title: 17
 usc_section: "602"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 602"
-generated_at: "2026-03-30T02:54:15.353Z"
+generated_at: "2026-11-23T20:26:06.529Z"
+status: "active"
 ---
 
 # § 602. Infringing importation or exportation of copies or phonorecords
@@ -18,3 +19,17 @@ generated_at: "2026-03-30T02:54:15.353Z"
     - **(B)** importation or exportation, for the private use of the importer or exporter and not for distribution, by any person with respect to no more than one copy or phonorecord of any one work at any one time, or by any person arriving from outside the United States or departing from the United States with respect to copies or phonorecords forming part of such person’s personal baggage; or
     - **(C)** importation by or for an organization operated for scholarly, educational, or religious purposes and not for private gain, with respect to no more than one copy of an audiovisual work solely for its archival purposes, and no more than five copies or phonorecords of any other work for its library lending or archival purposes, unless the importation of such copies or phonorecords is part of an activity consisting of systematic reproduction or distribution, engaged in by such organization in violation of the provisions of section 108(g)(2).
 - **(b)** In a case where the making of the copies or phonorecords would have constituted an infringement of copyright if this title had been applicable, their importation is prohibited. In a case where the copies or phonorecords were lawfully made, United States Customs and Border Protection has no authority to prevent their importation. In either case, the Secretary of the Treasury is authorized to prescribe, by regulation, a procedure under which any person claiming an interest in the copyright in a particular work may, upon payment of a specified fee, be entitled to notification by United States Customs and Border Protection of the importation of articles that appear to be copies or phonorecords of the work.
+
+Infringing Importation or Exportation.—
+
+Importation
+
+Importation or exportation of infringing items
+
+Exceptions
+
+Import Prohibition
+
+## Source Credit
+
+*([Pub. L. 94–553, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/553), Oct. 19, 1976, [90 Stat. 2589](https://www.govinfo.gov/link/statute/90/2589); [Pub. L. 110–403, title I, § 105(b)](https://www.govinfo.gov/link/plaw/110/public/403), (c)(1), Oct. 13, 2008, [122 Stat. 4259](https://www.govinfo.gov/link/statute/122/4259), 4260; [Pub. L. 111–295, § 4(c)](https://www.govinfo.gov/link/plaw/111/public/295), Dec. 9, 2010, [124 Stat. 3181](https://www.govinfo.gov/link/statute/124/3181).)*

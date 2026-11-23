@@ -3,9 +3,10 @@ title: "Section 679b - Annual report"
 usc_title: 42
 usc_section: "679b"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 679b"
-generated_at: "2026-03-30T02:56:10.892Z"
+generated_at: "2026-11-23T20:27:20.930Z"
+status: "active"
 ---
 
 # § 679b. Annual report
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:10.892Z"
       - **(ii)** separately, the number and ages of children in the placements who have a permanency plan of another planned permanent living arrangement; and
     - **(B)** children in foster care who are pregnant or parenting.
 - **(b)** The Secretary shall consult with States and organizations with an interest in child welfare, including organizations that provide adoption and foster care services, and shall take into account requests from Members of Congress, in selecting other issues to be analyzed and reported on under this section using data available to the Secretary, including data reported by States through the Adoption and Foster Care Analysis and Reporting System and to the National Youth in Transition Database.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 479A, as added [Pub. L. 105–89, title II, § 203(a)](https://www.govinfo.gov/link/plaw/105/public/89), Nov. 19, 1997, [111 Stat. 2126](https://www.govinfo.gov/link/statute/111/2126); amended [Pub. L. 109–288, § 7(c)(2)](https://www.govinfo.gov/link/plaw/109/public/288), Sept. 28, 2006, [120 Stat. 1249](https://www.govinfo.gov/link/statute/120/1249); [Pub. L. 112–34, title I, § 106(d)](https://www.govinfo.gov/link/plaw/112/public/34), Sept. 30, 2011, [125 Stat. 377](https://www.govinfo.gov/link/statute/125/377); [Pub. L. 113–183, title I, § 115](https://www.govinfo.gov/link/plaw/113/public/183), Sept. 29, 2014, [128 Stat. 1930](https://www.govinfo.gov/link/statute/128/1930); [Pub. L. 115–123, div. E, title VII, § 50744](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 260](https://www.govinfo.gov/link/statute/132/260).)*

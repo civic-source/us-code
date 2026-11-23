@@ -3,9 +3,10 @@ title: "Section 17152 - Energy Efficiency and Conservation Block Grant Program"
 usc_title: 42
 usc_section: "17152"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17152"
-generated_at: "2026-03-30T02:56:11.498Z"
+generated_at: "2026-11-23T20:27:23.731Z"
+status: "active"
 ---
 
 # § 17152. Energy Efficiency and Conservation Block Grant Program
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.498Z"
     - **(A)** the transportation sector;
     - **(B)** the building sector; and
     - **(C)** other appropriate sectors.
+
+## Source Credit
+
+*([Pub. L. 110–140, title V, § 542](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1668](https://www.govinfo.gov/link/statute/121/1668).)*

@@ -3,9 +3,10 @@ title: "Section 40702 - Rate standards"
 usc_title: 46
 usc_section: "40702"
 chapter: 407
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 40702"
-generated_at: "2026-03-30T02:56:15.564Z"
+generated_at: "2026-11-23T20:27:27.230Z"
+status: "active"
 ---
 
 # § 40702. Rate standards
@@ -17,3 +18,32 @@ generated_at: "2026-03-30T02:56:15.564Z"
     - **(A)** the same as, or similar to, those published or assessed by other carriers in the same trade;
     - **(B)** required to ensure movement of particular cargo in the same trade; or
     - **(C)** required to maintain acceptable continuity, level, or quality of common carrier service to or from affected ports.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 40702 | 46 App.:1708(b). | Pub. L. 98–237, § 9(b) , Mar. 20, 1984 , 98 Stat. 76 ; Pub. L. 105–258, title I, § 108(5) –(7), Oct. 14, 1998 , 112 Stat. 1908 . |
+
+
+Definition
+
+Standards
+
+Historical and Revision Notes
+
+40702
+
+Pub. L. 98–237, § 9(b)
+
+Mar. 20, 1984
+
+98 Stat. 76
+
+Pub. L. 105–258, title I, § 108(5)
+
+Oct. 14, 1998
+
+112 Stat. 1908
+
+## Source Credit
+
+*([Pub. L. 109–304, § 7](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1536](https://www.govinfo.gov/link/statute/120/1536).)*

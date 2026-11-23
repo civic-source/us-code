@@ -3,9 +3,10 @@ title: "Section 613 - Disbursing and certifying officers"
 usc_title: 28
 usc_section: "613"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 613"
-generated_at: "2026-03-30T02:55:30.135Z"
+generated_at: "2026-11-23T20:26:36.400Z"
+status: "active"
 ---
 
 # § 613. Disbursing and certifying officers
@@ -24,3 +25,19 @@ generated_at: "2026-03-30T02:55:30.135Z"
   - **(1)** has the right to apply for and obtain a decision by the Comptroller General on any question of law involved in a payment request presented for certification; and
   - **(2)** is entitled to relief from liability arising under this section in accordance with title 31.
 - **(d)** Nothing in this section affects the authority of the courts with respect to moneys deposited with the courts under chapter 129 of this title.
+
+Disbursing Officers
+
+Certifying Officers.—
+
+In general
+
+Liability
+
+Rights
+
+Other Authority Not Affected
+
+## Source Credit
+
+*(Added [Pub. L. 106–518, title III, § 304(a)](https://www.govinfo.gov/link/plaw/106/public/518), Nov. 13, 2000, [114 Stat. 2417](https://www.govinfo.gov/link/statute/114/2417).)*

@@ -3,9 +3,10 @@ title: "Section 5702 - Federal funds allocated to States"
 usc_title: 12
 usc_section: "5702"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5702"
-generated_at: "2026-03-30T02:53:53.550Z"
+generated_at: "2026-11-23T20:25:59.538Z"
+status: "active"
 ---
 
 # § 5702. Federal funds allocated to States
@@ -64,3 +65,7 @@ generated_at: "2026-03-30T02:53:53.550Z"
   - **(2)** In this subsection, the term “very small business”—
     - **(A)** means a business with fewer than 10 employees; and
     - **(B)** may include independent contractors and sole proprietors.
+
+## Source Credit
+
+*([Pub. L. 111–240, title III, § 3003](https://www.govinfo.gov/link/plaw/111/public/240), Sept. 27, 2010, [124 Stat. 2570](https://www.govinfo.gov/link/statute/124/2570); [Pub. L. 117–2, title III, § 3301(a)(1)(A)](https://www.govinfo.gov/link/plaw/117/public/2), (b), (c), Mar. 11, 2021, [135 Stat. 67](https://www.govinfo.gov/link/statute/135/67), 69, 70.)*

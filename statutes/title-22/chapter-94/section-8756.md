@@ -3,9 +3,10 @@ title: "Section 8756 - Secretary of State assistance for prisoners in Islamic Re
 usc_title: 22
 usc_section: "8756"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8756"
-generated_at: "2026-03-30T02:55:05.456Z"
+generated_at: "2026-11-23T20:26:32.735Z"
+status: "active"
 ---
 
 # § 8756. Secretary of State assistance for prisoners in Islamic Republic of Iran
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:55:05.456Z"
   - **(2)** The term “prisoner of conscience” means a person who—
     - **(A)** is imprisoned or otherwise physically restricted solely in response to the peaceful exercise of the human rights of such person; and
     - **(B)** has not used violence or advocated violence or hatred.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. E, title LV, § 5592](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3384](https://www.govinfo.gov/link/statute/136/3384).)*

@@ -3,9 +3,10 @@ title: "Section 198 - Office of Local Defense Community Cooperation"
 usc_title: 10
 usc_section: "198"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 198"
-generated_at: "2026-03-30T02:53:38.046Z"
+generated_at: "2026-11-23T20:25:50.873Z"
+status: "active"
 ---
 
 # § 198. Office of Local Defense Community Cooperation
@@ -22,3 +23,15 @@ generated_at: "2026-03-30T02:53:38.046Z"
   - **(3)** provide support to the Economic Adjustment Committee established under Executive Order No. 12788 (57 Fed. Reg. 2213; 10 U.S.C. 2391 note) or any successor to such Committee; and
   - **(4)** carry out such other activities as the Secretary considers appropriate.
 - **(d)** Not later than June 1 each year, the Director of the Office of Local Defense Community Cooperation shall submit to the congressional defense committees a report on the activities of the Office during the preceding year, including the assistance provided pursuant to subsection (c)(1) during such year.
+
+In General
+
+Director
+
+Duties
+
+Annual Report to Congress
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. A, title IX, § 905(a)(1)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3798](https://www.govinfo.gov/link/statute/134/3798), § 146; renumbered § 198 and amended [Pub. L. 117–81, div. A, title IX, § 902(a)(1)](https://www.govinfo.gov/link/plaw/117/public/81) –(3), Dec. 27, 2021, [135 Stat. 1868](https://www.govinfo.gov/link/statute/135/1868), 1869.)*

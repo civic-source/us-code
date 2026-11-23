@@ -3,9 +3,10 @@ title: "Section 4220 - Entitlements to eligible individuals"
 usc_title: 50
 usc_section: "4220"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4220"
-generated_at: "2026-03-30T02:56:26.270Z"
+generated_at: "2026-11-23T20:27:31.080Z"
+status: "active"
 ---
 
 # § 4220. Entitlements to eligible individuals
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:26.270Z"
 - **(c)** As used in this section—
   - **(1)** the term “discretionary appropriations” has the meaning given that term in section 900(c)(7) of title 2 ; and
   - **(2)** the term “entitlement” means “spending authority” as defined in section 651(c)(2)(C) 1 1 See References in Text note below. of title 2.
+
+## Source Credit
+
+*([Pub. L. 100–383, title I, § 110](https://www.govinfo.gov/link/plaw/100/public/383), as added [Pub. L. 101–162, title II, § 209(a)](https://www.govinfo.gov/link/plaw/101/public/162), Nov. 21, 1989, [103 Stat. 1005](https://www.govinfo.gov/link/statute/103/1005); amended [Pub. L. 102–371, § 7](https://www.govinfo.gov/link/plaw/102/public/371), Sept. 27, 1992, [106 Stat. 1168](https://www.govinfo.gov/link/statute/106/1168).)*

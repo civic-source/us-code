@@ -3,9 +3,10 @@ title: "Section 5844 - Office of Nuclear Safety and Safeguards"
 usc_title: 42
 usc_section: "5844"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5844"
-generated_at: "2026-03-30T02:56:11.238Z"
+generated_at: "2026-11-23T20:27:22.562Z"
+status: "active"
 ---
 
 # § 5844. Office of Nuclear Safety and Safeguards
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.238Z"
     - **(C)** assessing the need for, and the feasibility of, establishing a security agency within the office for the performance of the safeguards functions, and a report with recommendations on this matter shall be prepared within one year of the effective date of this chapter and promptly transmitted to the Congress by the Commission.
   - **(3)** Recommending research to enable the Commission to more effectively perform its functions.
 - **(c)** Nothing in this section shall be construed to limit in any way the functions of the Administration relating to the safeguarding of special nuclear materials, high-level radioactive wastes and nuclear facilities resulting from all activities within the jurisdiction of the Administration pursuant to this chapter.
+
+## Source Credit
+
+*([Pub. L. 93–438, title II, § 204](https://www.govinfo.gov/link/plaw/93/public/438), Oct. 11, 1974, [88 Stat. 1245](https://www.govinfo.gov/link/statute/88/1245).)*

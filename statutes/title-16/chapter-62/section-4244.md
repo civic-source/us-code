@@ -3,9 +3,10 @@ title: "Section 4244 - Definitions"
 usc_title: 16
 usc_section: "4244"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 4244"
-generated_at: "2026-03-30T02:54:23.042Z"
+generated_at: "2026-11-23T20:26:20.737Z"
+status: "active"
 ---
 
 # § 4244. Definitions
@@ -25,3 +26,13 @@ In this chapter—
   - **(11)** the term “Secretary” means the Secretary of the Interior;
   - **(12)** the term “United States” means the fifty States, the District of Columbia, Guam, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, and the territories and possessions of the United States; and
   - **(13)** the term “worked ivory” means any African elephant tusk, and any piece thereof, which is not raw ivory.
+
+multinational species conservation fund
+
+multinational species conservation fund
+
+multinational species conservation fund
+
+## Source Credit
+
+*([Pub. L. 100–478, title II, § 2305](https://www.govinfo.gov/link/plaw/100/public/478), Oct. 7, 1988, [102 Stat. 2322](https://www.govinfo.gov/link/statute/102/2322); [Pub. L. 107–111, § 6(a)(4)](https://www.govinfo.gov/link/plaw/107/public/111), Jan. 8, 2002, [115 Stat. 2096](https://www.govinfo.gov/link/statute/115/2096).)*

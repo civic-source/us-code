@@ -3,9 +3,10 @@ title: "Section 3715 - Leasing of Indian agricultural lands"
 usc_title: 25
 usc_section: "3715"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3715"
-generated_at: "2026-03-30T02:54:52.855Z"
+generated_at: "2026-11-23T20:26:25.664Z"
+status: "active"
 ---
 
 # § 3715. Leasing of Indian agricultural lands
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:52.855Z"
     - **(A)** The owners of a majority interest in any trust or restricted land are authorized to enter into an agricultural lease of the surface interest of a trust or restricted allotment, and such lease shall be binding upon the owners of the minority interests in such land if the terms of the lease provide such minority interests with not less than fair market value for such land.
     - **(B)** For the purposes of subparagraph (A), a majority interest in trust or restricted land is an interest greater than 50 percent of the legal or beneficial title.
   - **(3)** The provisions of subsection (b) shall not apply to a parcel of trust or restricted land if the owners of at least 50 percent of the legal or beneficial interest in such land file with the Secretary a written objection to the application of all or any part of such tribal rules to the leasing of such parcel of land.
+
+## Source Credit
+
+*([Pub. L. 103–177, title I, § 105](https://www.govinfo.gov/link/plaw/103/public/177), Dec. 3, 1993, [107 Stat. 2017](https://www.govinfo.gov/link/statute/107/2017); [Pub. L. 103–435, § 12(a)](https://www.govinfo.gov/link/plaw/103/public/435), Nov. 2, 1994, [108 Stat. 4572](https://www.govinfo.gov/link/statute/108/4572).)*

@@ -3,9 +3,10 @@ title: "Section 8509 - Federal Employees Compensation Account"
 usc_title: 5
 usc_section: "8509"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8509"
-generated_at: "2026-03-30T02:52:56.064Z"
+generated_at: "2026-11-23T20:25:32.230Z"
+status: "active"
 ---
 
 # § 8509. Federal Employees Compensation Account
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:52:56.064Z"
 - **(f)** The Secretary of Labor is authorized to establish such rules and regulations as may be necessary or appropriate to carry out the provisions of this section.
 - **(g)** Any funds appropriated after the establishment of the Account, for the making of payments for which expenditures are authorized to be made from moneys in the Account, shall be made to the Account; and there are hereby authorized to be appropriated to the Account, from time to time, such sums as may be necessary to assure that there will, at all times, be sufficient sums available in the Account to meet the expenditures authorized to be made from moneys therein.
 - **(h)** For purposes of this section, the term “Federal service” includes Federal service as defined in section 8521(a).
+
+## Source Credit
+
+*(Added [Pub. L. 96–499, title X, § 1023(b)](https://www.govinfo.gov/link/plaw/96/public/499), Dec. 5, 1980, [94 Stat. 2657](https://www.govinfo.gov/link/statute/94/2657); amended [Pub. L. 97–362, title II, § 202(a)](https://www.govinfo.gov/link/plaw/97/public/362), Oct. 25, 1982, [96 Stat. 1732](https://www.govinfo.gov/link/statute/96/1732); [Pub. L. 102–318, title V, § 532(a)](https://www.govinfo.gov/link/plaw/102/public/318), July 3, 1992, [106 Stat. 317](https://www.govinfo.gov/link/statute/106/317).)*

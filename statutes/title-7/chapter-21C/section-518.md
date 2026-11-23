@@ -3,9 +3,10 @@ title: "Section 518 - Definitions"
 usc_title: 7
 usc_section: "518"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 518"
-generated_at: "2026-03-30T02:53:42.288Z"
+generated_at: "2026-11-23T20:25:41.049Z"
+status: "active"
 ---
 
 # § 518. Definitions
@@ -30,3 +31,7 @@ In this subchapter and subchapter II:
   - **(9)** The term “tobacco quota holder” means a person that was an owner of a farm, as of October 22, 2004 , for which a basic tobacco farm marketing quota or farm acreage allotment for quota tobacco was established for the 2004 tobacco marketing year.
   - **(10)** The term “Tobacco Trust Fund” means the Tobacco Trust Fund established under section 518e of this title .
   - **(11)** The term “Secretary” means the Secretary of Agriculture.
+
+## Source Credit
+
+*([Pub. L. 108–357, title VI, § 621](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1524](https://www.govinfo.gov/link/statute/118/1524).)*

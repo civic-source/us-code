@@ -3,9 +3,10 @@ title: "Section 1030a - Eliminating unnecessary plan requirements related to une
 usc_title: 29
 usc_section: "1030a"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1030a"
-generated_at: "2026-03-30T02:55:18.705Z"
+generated_at: "2026-11-23T20:26:37.916Z"
+status: "active"
 ---
 
 # § 1030a. Eliminating unnecessary plan requirements related to unenrolled participants
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:18.705Z"
     - **(A)** the unenrolled participant’s eligibility to participate in the plan; and
     - **(B)** the key benefits and rights under the plan, with a focus on employer contributions and vesting provisions; and
   - **(3)** provides such information in a prominent manner calculated to be understood by the average participant.
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 111](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 117–328, div. T, title III, § 320(a)(1)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5354](https://www.govinfo.gov/link/statute/136/5354).)*

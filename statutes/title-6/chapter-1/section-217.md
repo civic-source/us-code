@@ -3,9 +3,10 @@ title: "Section 217 - Allocation of resources by the Secretary"
 usc_title: 6
 usc_section: "217"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 217"
-generated_at: "2026-03-30T02:53:09.452Z"
+generated_at: "2026-11-23T20:25:34.669Z"
+status: "active"
 ---
 
 # § 217. Allocation of resources by the Secretary
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:09.452Z"
   - **(2)** eliminate or relocate any office of the Department which provides customs revenue services; or
   - **(3)** eliminate any port of entry.
 - **(c)** In this section, the term “customs revenue services” means those customs revenue functions described in paragraphs (1) through (6) and paragraph (8) of section 215 of this title .
+
+## Source Credit
+
+*([Pub. L. 107–296, title IV, § 417](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2181](https://www.govinfo.gov/link/statute/116/2181).)*

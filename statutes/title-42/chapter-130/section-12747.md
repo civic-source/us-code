@@ -3,9 +3,10 @@ title: "Section 12747 - Allocation of resources"
 usc_title: 42
 usc_section: "12747"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12747"
-generated_at: "2026-03-30T02:56:11.431Z"
+generated_at: "2026-11-23T20:27:23.435Z"
+status: "active"
 ---
 
 # § 12747. Allocation of resources
@@ -44,3 +45,13 @@ generated_at: "2026-03-30T02:56:11.431Z"
   - **(1)** The Secretary shall make any reallocations periodically throughout each fiscal year so as to ensure that all funds to be reallocated are made available to eligible jurisdictions as soon as possible, consistent with orderly program administration. Jurisdictions eligible for such reallocations shall include participating jurisdictions and jurisdictions meeting the requirements of paragraphs (3), (4), and (5) of section 12746 of this title .
   - **(2)** The Secretary shall establish procedures according to which participating jurisdictions may make commitments to invest funds made available under this section. Such procedures shall provide for appropriate stages of commitment of funds to a project from initial reservation through binding commitment. Notwithstanding any other provision of this subchapter, funds that the Secretary determines are needed to fulfill binding commitments shall not be available for reallocation.
   - **(3)** Unless otherwise specified in this part, any reallocation of funds from a State shall be made only among all participating States, and any reallocation of funds from units of general local government shall be made only among all participating units of general local government.
+
+In general
+
+Specific criteria
+
+Transitional provisions
+
+## Source Credit
+
+*([Pub. L. 101–625, title II, § 217](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4105](https://www.govinfo.gov/link/statute/104/4105); [Pub. L. 102–229, title I](https://www.govinfo.gov/link/plaw/102/public/229), Dec. 12, 1991, [105 Stat. 1709](https://www.govinfo.gov/link/statute/105/1709); [Pub. L. 102–230, § 1](https://www.govinfo.gov/link/plaw/102/public/230), Dec. 12, 1991, [105 Stat. 1720](https://www.govinfo.gov/link/statute/105/1720); [Pub. L. 102–273, § 1](https://www.govinfo.gov/link/plaw/102/public/273), Apr. 21, 1992, [106 Stat. 113](https://www.govinfo.gov/link/statute/106/113); [Pub. L. 102–389, title II](https://www.govinfo.gov/link/plaw/102/public/389), Oct. 6, 1992, [106 Stat. 1581](https://www.govinfo.gov/link/statute/106/1581); [Pub. L. 102–550, title II](https://www.govinfo.gov/link/plaw/102/public/550), §§ 202(b), 203(b), 211(a)(2), Oct. 28, 1992, [106 Stat. 3751](https://www.govinfo.gov/link/statute/106/3751), 3752, 3756; [Pub. L. 104–330, title V, § 505(a)(1)](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4044](https://www.govinfo.gov/link/statute/110/4044); [Pub. L. 105–65, title II, § 214](https://www.govinfo.gov/link/plaw/105/public/65), Oct. 27, 1997, [111 Stat. 1366](https://www.govinfo.gov/link/statute/111/1366).)*

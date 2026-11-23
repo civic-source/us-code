@@ -3,9 +3,10 @@ title: "Section 5325 - Contract requirements"
 usc_title: 49
 usc_section: "5325"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 5325"
-generated_at: "2026-03-30T02:56:19.315Z"
+generated_at: "2026-11-23T20:27:34.659Z"
+status: "active"
 ---
 
 # § 5325. Contract requirements
@@ -45,3 +46,231 @@ generated_at: "2026-03-30T02:56:19.315Z"
     - **(C)** the contractor’s past performance; and
     - **(D)** the contractor’s financial and technical resources.
 - **(k)** Recipients and subrecipients of Federal financial assistance under this chapter shall ensure that contractors working on a capital project funded using such assistance give a hiring preference, to the extent practicable, to veterans (as defined in section 2108 of title 5 ) who have the requisite skills and abilities to perform the construction work required under the contract. This subsection shall not be understood, construed or enforced in any manner that would require an employer to give a preference to any veteran over any equally qualified applicant who is a member of any racial or ethnic minority, female, an individual with a disability, or a former employee.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5325(a) | 49 App.:1608(b)(1). | July 9, 1964 , Pub. L. 88–365, § 12(b)(1) , 78 Stat. 306 ; Sept. 8, 1966 , Pub. L. 89–562, § 2(a)(1) , 80 Stat. 715 ; May 25, 1967 , Pub. L. 90–19, § 20(a) , 81 Stat. 25 ; Nov. 6, 1978 , Pub. L. 95–599, § 308(a)(1) , 92 Stat. 2745 . |
+| 5325(b) | 49 App.:1608(b)(2). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 12(b)(2); added Nov. 6, 1978 , Pub. L. 95–599, § 308(a)(2) , 92 Stat. 2745 ; restated Jan. 6, 1983 , Pub. L. 97–424, § 308 , 96 Stat. 2151 . |
+| 5325(c) | 49 App.:1608(b)(3). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 12(b)(3); added Apr. 2, 1987 , Pub. L. 100–17, § 315(a) , 101 Stat. 232 . |
+| 5325(d) | 49 App.:1608(b)(4). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 12(b)(4); added Apr. 2, 1987 , Pub. L. 100–17, § 316 , 101 Stat. 232 . |
+
+
+Competition
+
+Architectural, Engineering, and Design Contracts.—
+
+Procedures for awarding contract
+
+Additional requirements
+
+Performance of audits
+
+Indirect cost rates
+
+Application of rates
+
+Prenotification; confidentiality of data
+
+Efficient Procurement
+
+Design-Build Projects.—
+
+Term defined
+
+Financial assistance for capital costs
+
+Multiyear Rolling Stock.—
+
+Contracts
+
+Cooperation among recipients
+
+Acquiring Rolling Stock
+
+Examination of Records
+
+Grant Prohibition
+
+Bus Dealer Requirements
+
+Awards to Responsible Contractors.—
+
+In general
+
+Criteria
+
+Veterans Employment
+
+Historical and Revision Notes
+
+Pub. L
+
+5325(a)
+
+July 9, 1964
+
+Pub. L. 88–365, § 12(b)(1)
+
+78 Stat. 306
+
+Sept. 8, 1966
+
+Pub. L. 89–562, § 2(a)(1)
+
+80 Stat. 715
+
+May 25, 1967
+
+Pub. L. 90–19, § 20(a)
+
+81 Stat. 25
+
+Nov. 6, 1978
+
+Pub. L. 95–599, § 308(a)(1)
+
+92 Stat. 2745
+
+5325(b)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Nov. 6, 1978
+
+Pub. L. 95–599, § 308(a)(2)
+
+92 Stat. 2745
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 308
+
+96 Stat. 2151
+
+5325(c)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 315(a)
+
+101 Stat. 232
+
+5325(d)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 316
+
+101 Stat. 232
+
+Architectural, Engineering, and Design Contracts
+
+Management, Architectural, and Engineering Contracts
+
+Definition
+
+Cooperative Procurement.—
+
+Definitions; general rules.—
+
+Definitions
+
+General rules.—
+
+Procurement not limited to intrastate participants
+
+Voluntary participation
+
+Contract terms
+
+Duration
+
+Administrative expenses
+
+State cooperative procurement schedules.—
+
+Authority
+
+Applicability of policies and procedures
+
+Pilot program for nonprofit cooperative procurements.—
+
+Establishment
+
+Designation
+
+Notice of intent to participate
+
+Joint procurement clearinghouse.—
+
+In general
+
+Nonprofit consultation
+
+Information on procurements
+
+Limitations.—
+
+Access
+
+Participation
+
+Leasing Arrangements.—
+
+Capital lease defined.—
+
+In general
+
+Maintenance
+
+Program to support innovative leasing arrangements.—
+
+Authority
+
+Grantee requirements
+
+Eligible lease costs
+
+Terms
+
+Applicability of procurement requirements.—
+
+Lease requirements
+
+Buy america
+
+Capital leasing of certain zero emission vehicle components.—
+
+Definitions
+
+Leased power sources
+
+Eligible capital lease
+
+Procurement regulations
+
+Reporting requirement
+
+Report
+
+Buy America
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 825](https://www.govinfo.gov/link/statute/108/825); [Pub. L. 104–287, § 5(16)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3390](https://www.govinfo.gov/link/statute/110/3390); [Pub. L. 105–178, title III, § 3022](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 363](https://www.govinfo.gov/link/statute/112/363); [Pub. L. 105–206, title IX, § 9009(n)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 857](https://www.govinfo.gov/link/statute/112/857); [Pub. L. 107–217, § 3(n)(2)](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1302](https://www.govinfo.gov/link/statute/116/1302); [Pub. L. 109–59, title III, § 3025(a)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1620](https://www.govinfo.gov/link/statute/119/1620); [Pub. L. 110–244, title II, § 201(k)](https://www.govinfo.gov/link/plaw/110/public/244), June 6, 2008, [122 Stat. 1611](https://www.govinfo.gov/link/statute/122/1611); [Pub. L. 112–141, div. B](https://www.govinfo.gov/link/plaw/112/public/141), §§ 20018, 20030(d), July 6, 2012, [126 Stat. 706](https://www.govinfo.gov/link/statute/126/706), 730; [Pub. L. 114–94, div. A, title III, § 3030(e)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1497](https://www.govinfo.gov/link/statute/129/1497).)*

@@ -3,9 +3,10 @@ title: "Section 1538 - Notice of reprogramming"
 usc_title: 15
 usc_section: "1538"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1538"
-generated_at: "2026-03-30T02:54:08.137Z"
+generated_at: "2026-11-23T20:26:04.020Z"
+status: "active"
 ---
 
 # § 1538. Notice of reprogramming
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:08.137Z"
   - **(2)** reduces by 5 percent or more (A) the funding for an existing program, project, or activity or (B) the numbers of personnel therefor as approved by Congress; or
   - **(3)** results from any general savings from a reduction in personnel which would result in a change in an existing program, project, or activity.
 - **(b)** The Secretary of Commerce shall provide notice to the Committees on Merchant Marine and Fisheries, Science, Space, and Technology, and Appropriations of the House of Representatives, and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate not later than 15 days before any major reorganization of any program, project, or activity of the National Oceanic and Atmospheric Administration.
+
+## Source Credit
+
+*([Pub. L. 102–567, title IV, § 403](https://www.govinfo.gov/link/plaw/102/public/567), Oct. 29, 1992, [106 Stat. 4291](https://www.govinfo.gov/link/statute/106/4291).)*

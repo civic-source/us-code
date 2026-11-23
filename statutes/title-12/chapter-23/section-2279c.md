@@ -3,9 +3,10 @@ title: "Section 2279c - Equalization of loan-making powers of certain district a
 usc_title: 12
 usc_section: "2279c"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 2279c"
-generated_at: "2026-03-30T02:53:53.482Z"
+generated_at: "2026-11-23T20:25:59.277Z"
+status: "active"
 ---
 
 # § 2279c. Equalization of loan-making powers of certain district associations
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:53.482Z"
     - **(A)** the board of directors of the association; and
     - **(B)** a majority of the voting stockholders of the association (or, if the association is a subsidiary of another association, the voting stockholders of the parent association) voting, in person or by proxy, at a duly authorized meeting of stockholders in accordance with the process described in section 2279e of this title .
 - **(b)** This section applies only to associations the chartered territory of which was within the geographic area served by the Federal intermediate credit bank immediately prior to its merger with a Farm Credit Bank under section 410(e)(1) of the Agricultural Credit Act of 1987 ( 12 U.S.C. 2011 note; Public Law 100–233 ).
+
+## Source Credit
+
+*([Pub. L. 92–181, title VII, § 7](https://www.govinfo.gov/link/plaw/92/public/181).7, as added [Pub. L. 110–234, title V, § 5407(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1159](https://www.govinfo.gov/link/statute/122/1159), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title V, § 5407(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1921.)*

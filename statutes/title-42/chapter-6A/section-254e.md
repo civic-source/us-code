@@ -3,9 +3,10 @@ title: "Section 254e - Health professional shortage areas"
 usc_title: 42
 usc_section: "254e"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 254e"
-generated_at: "2026-03-30T02:56:10.712Z"
+generated_at: "2026-11-23T20:27:20.085Z"
+status: "active"
 ---
 
 # § 254e. Health professional shortage areas
@@ -56,3 +57,7 @@ generated_at: "2026-03-30T02:56:10.712Z"
   - **(6)** Nothing in this subsection shall be construed as—
     - **(A)** requiring the identification of a maternity care health professional target area in an area not otherwise already designated as a health professional shortage area; or
     - **(B)** affecting the types of health professionals, without application of this subsection, otherwise eligible for assistance, including a loan repayment or scholarship, pursuant to the application of this section.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 332, as added [Pub. L. 94–484, title IV, § 407(b)(3)](https://www.govinfo.gov/link/plaw/94/public/484), Oct. 12, 1976, [90 Stat. 2270](https://www.govinfo.gov/link/statute/90/2270); amended [Pub. L. 95–142, § 7(d)](https://www.govinfo.gov/link/plaw/95/public/142), Oct. 25, 1977, [91 Stat. 1193](https://www.govinfo.gov/link/statute/91/1193); [Pub. L. 96–32, § 7(d)](https://www.govinfo.gov/link/plaw/96/public/32), July 10, 1979, [93 Stat. 84](https://www.govinfo.gov/link/statute/93/84); [Pub. L. 97–35, title IX, § 986(b)(4)](https://www.govinfo.gov/link/plaw/97/public/35), title XXVII, § 2702(a), (b), (c), Aug. 13, 1981, [95 Stat. 603](https://www.govinfo.gov/link/statute/95/603), 903, 904; [Pub. L. 100–77, title VI, § 602](https://www.govinfo.gov/link/plaw/100/public/77), July 22, 1987, [101 Stat. 515](https://www.govinfo.gov/link/statute/101/515); [Pub. L. 100–177, title III, § 302](https://www.govinfo.gov/link/plaw/100/public/177), Dec. 1, 1987, [101 Stat. 1003](https://www.govinfo.gov/link/statute/101/1003); [Pub. L. 100–607, title VIII, § 802(b)(2)](https://www.govinfo.gov/link/plaw/100/public/607), Nov. 4, 1988, [102 Stat. 3169](https://www.govinfo.gov/link/statute/102/3169); [Pub. L. 100–628, title VI, § 602(b)(2)](https://www.govinfo.gov/link/plaw/100/public/628), Nov. 7, 1988, [102 Stat. 3242](https://www.govinfo.gov/link/statute/102/3242); [Pub. L. 101–597, title I, § 102](https://www.govinfo.gov/link/plaw/101/public/597), title IV, § 401(b)[(a)], Nov. 16, 1990, [104 Stat. 3014](https://www.govinfo.gov/link/statute/104/3014), 3035; [Pub. L. 107–251, title III, § 302(a)](https://www.govinfo.gov/link/plaw/107/public/251), (d)(2), title VI, § 601(a), Oct. 26, 2002, [116 Stat. 1643](https://www.govinfo.gov/link/statute/116/1643), 1645, 1664; [Pub. L. 108–163, § 2(f)(1)](https://www.govinfo.gov/link/plaw/108/public/163), Dec. 6, 2003, [117 Stat. 2021](https://www.govinfo.gov/link/statute/117/2021); [Pub. L. 110–355, § 3(b)](https://www.govinfo.gov/link/plaw/110/public/355), Oct. 8, 2008, [122 Stat. 3993](https://www.govinfo.gov/link/statute/122/3993); [Pub. L. 115–320, § 2](https://www.govinfo.gov/link/plaw/115/public/320), Dec. 17, 2018, [132 Stat. 4437](https://www.govinfo.gov/link/statute/132/4437).)*

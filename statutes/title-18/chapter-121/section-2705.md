@@ -3,9 +3,10 @@ title: "Section 2705 - Delayed notice"
 usc_title: 18
 usc_section: "2705"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2705"
-generated_at: "2026-03-30T02:54:16.508Z"
+generated_at: "2026-11-23T20:26:08.633Z"
+status: "active"
 ---
 
 # § 2705. Delayed notice
@@ -36,3 +37,11 @@ generated_at: "2026-03-30T02:54:16.508Z"
   - **(3)** destruction of or tampering with evidence;
   - **(4)** intimidation of potential witnesses; or
   - **(5)** otherwise seriously jeopardizing an investigation or unduly delaying a trial.
+
+Delay of Notification
+
+Preclusion of Notice to Subject of Governmental Access
+
+## Source Credit
+
+*(Added [Pub. L. 99–508, title II, § 201[(a)]](https://www.govinfo.gov/link/plaw/99/public/508), Oct. 21, 1986, [100 Stat. 1864](https://www.govinfo.gov/link/statute/100/1864).)*

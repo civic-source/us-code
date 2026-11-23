@@ -3,9 +3,10 @@ title: "Section 1313 - Water quality standards and implementation plans"
 usc_title: 33
 usc_section: "1313"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1313"
-generated_at: "2026-03-30T02:55:41.092Z"
+generated_at: "2026-11-23T20:26:54.011Z"
+status: "active"
 ---
 
 # § 1313. Water quality standards and implementation plans
@@ -65,3 +66,13 @@ generated_at: "2026-03-30T02:55:41.092Z"
     - **(A)** If a State fails to adopt water quality criteria and standards in accordance with paragraph (1)(A) that are as protective of human health as the criteria for pathogens and pathogen indicators for coastal recreation waters published by the Administrator, the Administrator shall promptly propose regulations for the State setting forth revised or new water quality standards for pathogens and pathogen indicators described in paragraph (1)(A) for coastal recreation waters of the State.
     - **(B)** If the Administrator proposes regulations for a State described in subparagraph (A) under subsection (c)(4)(B), the Administrator shall publish any revised or new standard under this subsection not later than 42 months after October 10, 2000 .
   - **(3)** Except as expressly provided by this subsection, the requirements and procedures of subsection (c) apply to this subsection, including the requirement in subsection (c)(2)(A) that the criteria protect public health and welfare.
+
+Limitations on revision of certain effluent limitations.—
+
+Standard not attained
+
+Standard attained
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title III, § 303, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 846](https://www.govinfo.gov/link/statute/86/846); amended [Pub. L. 100–4, title III, § 308(d)](https://www.govinfo.gov/link/plaw/100/public/4), title IV, § 404(b), Feb. 4, 1987, [101 Stat. 39](https://www.govinfo.gov/link/statute/101/39), 68; [Pub. L. 106–284, § 2](https://www.govinfo.gov/link/plaw/106/public/284), Oct. 10, 2000, [114 Stat. 870](https://www.govinfo.gov/link/statute/114/870).)*

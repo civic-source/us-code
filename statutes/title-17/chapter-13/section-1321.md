@@ -3,9 +3,10 @@ title: "Section 1321 - Remedy for infringement"
 usc_title: 17
 usc_section: "1321"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 1321"
-generated_at: "2026-03-30T02:54:15.357Z"
+generated_at: "2026-11-23T20:26:06.550Z"
+status: "active"
 ---
 
 # § 1321. Remedy for infringement
@@ -19,3 +20,15 @@ generated_at: "2026-03-30T02:54:15.357Z"
     - **(C)** the defendant has committed acts in respect to the design which would constitute infringement with respect to a design protected under this chapter.
 - **(c)** The Administrator may, at the Administrator’s option, become a party to the action with respect to the issue of registrability of the design claim by entering an appearance within 60 days after being served with the complaint, but the failure of the Administrator to become a party shall not deprive the court of jurisdiction to determine that issue.
 - **(d)** The parties to an infringement dispute under this chapter, within such time as may be specified by the Administrator by regulation, may determine the dispute, or any aspect of the dispute, by arbitration. Arbitration shall be governed by title 9. The parties shall give notice of any arbitration award to the Administrator, and such award shall, as between the parties to the arbitration, be dispositive of the issues to which it relates. The arbitration award shall be unenforceable until such notice is given. Nothing in this subsection shall preclude the Administrator from determining whether a design is subject to registration in a cancellation proceeding under section 1313(c).
+
+In General
+
+Review of Refusal To Register
+
+Administrator as Party to Action
+
+Use of Arbitration To Resolve Dispute
+
+## Source Credit
+
+*(Added [Pub. L. 105–304, title V, § 502](https://www.govinfo.gov/link/plaw/105/public/304), Oct. 28, 1998, [112 Stat. 2913](https://www.govinfo.gov/link/statute/112/2913).)*

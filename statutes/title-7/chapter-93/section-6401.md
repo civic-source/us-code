@@ -3,9 +3,10 @@ title: "Section 6401 - Findings and declaration of policy"
 usc_title: 7
 usc_section: "6401"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6401"
-generated_at: "2026-03-30T02:53:42.429Z"
+generated_at: "2026-11-23T20:25:41.695Z"
+status: "active"
 ---
 
 # § 6401. Findings and declaration of policy
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:42.429Z"
   - **(8)** it is appropriate to finance the cooperative program described in paragraph (6) 1 1 So in original. Probably should be paragraph “(7)”. with self-help assessments paid by the fluid milk processors; and
   - **(9)** fluid milk products move in interstate and foreign commerce, and fluid milk products that do not move in such channels of commerce directly burden or affect interstate commerce in fluid milk products.
 - **(b)** It is declared to be the policy of Congress that it is in the public interest to authorize the establishment, through the exercise of powers provided in this chapter, of an orderly procedure for developing, financing, through adequate assessments on fluid milk products produced in the United States and carrying out an effective, continuous, and coordinated program of promotion, research, and consumer information designed to strengthen the position of the dairy industry in the marketplace and maintain and expand domestic and foreign markets and uses for fluid milk products, the purpose of which is not to compete with or replace individual advertising or promotion efforts designed to promote individual brand name or trade name fluid milk products, but rather to maintain and expand the markets for all fluid milk products, with the goal and purpose of this chapter being a national governmental goal that authorizes and funds programs that result in government speech promoting government objectives.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XIX, § 1999B](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3914](https://www.govinfo.gov/link/statute/104/3914); [Pub. L. 104–127, title I, § 146(a)](https://www.govinfo.gov/link/plaw/104/public/127), (b), Apr. 4, 1996, [110 Stat. 918](https://www.govinfo.gov/link/statute/110/918).)*

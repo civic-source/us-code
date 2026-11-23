@@ -3,9 +3,10 @@ title: "Section 1589 - Forced labor"
 usc_title: 18
 usc_section: "1589"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 1589"
-generated_at: "2026-03-30T02:54:16.488Z"
+generated_at: "2026-11-23T20:26:08.509Z"
+status: "active"
 ---
 
 # § 1589. Forced labor
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:16.488Z"
   - **(1)** The term “abuse or threatened abuse of law or legal process” means the use or threatened use of a law or legal process, whether administrative, civil, or criminal, in any manner or for any purpose for which the law was not designed, in order to exert pressure on another person to cause that person to take some action or refrain from taking some action.
   - **(2)** The term “serious harm” means any harm, whether physical or nonphysical, including psychological, financial, or reputational harm, that is sufficiently serious, under all the surrounding circumstances, to compel a reasonable person of the same background and in the same circumstances to perform or to continue performing labor or services in order to avoid incurring that harm.
 - **(d)** Whoever violates this section shall be fined under this title, imprisoned not more than 20 years, or both. If death results from a violation of this section, or if the violation includes kidnaping, an attempt to kidnap, aggravated sexual abuse, or an attempt to kill, the defendant shall be fined under this title, imprisoned for any term of years or life, or both.
+
+## Source Credit
+
+*(Added [Pub. L. 106–386, div. A, § 112(a)(2)](https://www.govinfo.gov/link/plaw/106/public/386), Oct. 28, 2000, [114 Stat. 1486](https://www.govinfo.gov/link/statute/114/1486); amended [Pub. L. 110–457, title II, § 222(b)(3)](https://www.govinfo.gov/link/plaw/110/public/457), Dec. 23, 2008, [122 Stat. 5068](https://www.govinfo.gov/link/statute/122/5068).)*

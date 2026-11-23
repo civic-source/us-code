@@ -3,9 +3,10 @@ title: "Section 1321 - Powers"
 usc_title: 49
 usc_section: "1321"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 1321"
-generated_at: "2026-03-30T02:56:19.305Z"
+generated_at: "2026-11-23T20:27:34.578Z"
+status: "active"
 ---
 
 # § 1321. Powers
@@ -27,3 +28,17 @@ generated_at: "2026-03-30T02:56:19.305Z"
   - **(5)** The testimony of a person deposed under this subsection shall be taken under oath. The person taking the deposition shall prepare, or cause to be prepared, a transcript of the testimony taken. The transcript shall be subscribed by the deponent.
   - **(6)** The testimony of a witness who is in a foreign country may be taken by deposition before an officer or person designated by the Board or agreed on by the parties by written stipulation filed with the Board. A deposition shall be filed with the Board promptly.
 - **(e)** Each witness summoned before the Board or whose deposition is taken under this section and the individual taking the deposition are entitled to the same fees and mileage paid for those services in the courts of the United States.
+
+In General
+
+Inquiries, Reports, and Orders
+
+Subpoena Witnesses
+
+Depositions
+
+Witness Fees
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title II, § 201(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 935](https://www.govinfo.gov/link/statute/109/935), § 721; renumbered § 1321, [Pub. L. 114–110, § 3(a)(5)](https://www.govinfo.gov/link/plaw/114/public/110), Dec. 18, 2015, [129 Stat. 2228](https://www.govinfo.gov/link/statute/129/2228).)*

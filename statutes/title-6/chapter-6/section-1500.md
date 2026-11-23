@@ -3,9 +3,10 @@ title: "Section 1500 - National Cyber Director"
 usc_title: 6
 usc_section: "1500"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 1500"
-generated_at: "2026-03-30T02:53:09.509Z"
+generated_at: "2026-11-23T20:25:34.956Z"
+status: "active"
 ---
 
 # § 1500. National Cyber Director
@@ -89,3 +90,7 @@ generated_at: "2026-03-30T02:53:09.509Z"
   - **(4)** The term “incident response” means a government or private sector activity that detects, mitigates, or recovers from a cyber attack or cyber campaign of significant consequence.
   - **(5)** The term “information security” has the meaning given such term in section 3552 of title 44 .
   - **(6)** The term “intelligence” has the meaning given such term in section 3003 of title 50 .
+
+## Source Credit
+
+*([Pub. L. 116–283, div. A, title XVII, § 1752](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4144](https://www.govinfo.gov/link/statute/134/4144); [Pub. L. 117–81, div. A, title XV, § 1552](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2070](https://www.govinfo.gov/link/statute/135/2070).)*

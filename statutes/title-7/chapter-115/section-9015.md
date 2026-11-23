@@ -3,9 +3,10 @@ title: "Section 9015 - Producer election"
 usc_title: 7
 usc_section: "9015"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 9015"
-generated_at: "2026-03-30T02:53:42.483Z"
+generated_at: "2026-11-23T20:25:41.934Z"
+status: "active"
 ---
 
 # § 9015. Producer election
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:53:42.483Z"
     - **(A)** the crop year for which the election change is made; and
     - **(B)** each crop year thereafter until another election change is made under that paragraph.
 - **(i)** For the 2025 crop year, the Secretary shall, on a covered commodity-by-covered commodity basis, make the higher of price loss coverage payments under section 9016 of this title and agriculture risk coverage county coverage payments under section 9017 of this title to the producers on a farm for the payment acres for each covered commodity on the farm.
+
+## Source Credit
+
+*([Pub. L. 113–79, title I, § 1115](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 667](https://www.govinfo.gov/link/statute/128/667); [Pub. L. 115–123, div. F, § 60101(a)(7)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 309](https://www.govinfo.gov/link/statute/132/309); [Pub. L. 115–334, title I, § 1105](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4503](https://www.govinfo.gov/link/statute/132/4503); [Pub. L. 119–21, title I, § 10303(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 89](https://www.govinfo.gov/link/statute/139/89).)*

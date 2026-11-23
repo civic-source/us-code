@@ -3,9 +3,10 @@ title: "Section 1904 - Range improvement funding"
 usc_title: 43
 usc_section: "1904"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1904"
-generated_at: "2026-03-30T02:55:57.494Z"
+generated_at: "2026-11-23T20:27:06.391Z"
+status: "active"
 ---
 
 # § 1904. Range improvement funding
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:57.494Z"
 - **(b)** Any amounts authorized by this section not appropriated in one or more fiscal years shall be available for appropriation in any subsequent years.
 - **(c)** No less than 80 per centum of such funds provided herein shall be used for on-the-ground range rehabilitation, maintenance and the construction of range improvements (including project layout, project design, and project supervision). No more than 15 per centum of such funds provided herein shall be used to hire and train such experienced and qualified personnel as are necessary to implement on-the-ground supervision and enforcement of the land use plans required pursuant to section 1712 of this title and such allotment management plans as may be developed. Such funds shall be distributed as the Secretary deems advisable after careful and considered consultation and coordination, including public hearings and meetings where appropriate, with the district grazing advisory boards established pursuant to section 1753 of this title , and the advisory councils established pursuant to section 1739 of this title , range user representatives, and other interested parties. To the maximum extent practicable, and where economically sound, the Secretary shall give priority to entering into cooperative agreements with range users (or user groups) for the installation and maintenance of on-the-ground range improvements.
 - **(d)** Prior to the use of any funds authorized by this section the Secretary shall cause to have prepared an environmental assessment record on each range improvement project. Thereafter, improvement projects may be constructed unless the Secretary determines that the proj­ect will have a significant impact on the quality of human environment, necessitating an environmental impact statement pursuant to the National Environmental Policy Act [ 42 U.S.C. 4321 et seq.] prior to the expenditure of funds.
+
+## Source Credit
+
+*([Pub. L. 95–514, § 5](https://www.govinfo.gov/link/plaw/95/public/514), Oct. 25, 1978, [92 Stat. 1805](https://www.govinfo.gov/link/statute/92/1805).)*

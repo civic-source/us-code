@@ -3,9 +3,10 @@ title: "Section 130505 - Powers"
 usc_title: 36
 usc_section: "130505"
 chapter: 1305
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 130505"
-generated_at: "2026-03-30T02:55:44.701Z"
+generated_at: "2026-11-23T20:26:58.948Z"
+status: "active"
 ---
 
 # § 130505. Powers
@@ -22,3 +23,23 @@ The corporation may—
   - **(8)** charge and collect membership dues and subscription fees;
   - **(9)** sue and be sued; and
   - **(10)** do any other act necessary or desirable to carry out the purposes of the corporation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 130505 | 36:1074. | July 16, 1964 , Pub. L. 88–378 , §§ 4, 17, 78 Stat. 325 , 328. |
+|  | 36:1087. |  |
+
+
+Historical and Revision Notes
+
+130505
+
+July 16, 1964
+
+Pub. L. 88–378
+
+78 Stat. 325
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1377](https://www.govinfo.gov/link/statute/112/1377).)*

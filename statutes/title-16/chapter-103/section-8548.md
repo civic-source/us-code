@@ -3,9 +3,10 @@ title: "Section 8548 - Liability"
 usc_title: 16
 usc_section: "8548"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 8548"
-generated_at: "2026-03-30T02:54:23.088Z"
+generated_at: "2026-11-23T20:26:20.896Z"
+status: "active"
 ---
 
 # § 8548. Liability
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:23.088Z"
     - **(A)** review the policies of the Secretaries pertaining to the use of exculpatory agreements by recreation service providers and holders of commercial use authorizations; and
     - **(B)** revise any policy described in subparagraph (A) as necessary to make the policies of the Secretaries pertaining to the use of exculpatory agreements by recreation service providers and holders of commercial use authorizations consistent with this subsection and across all Federal recreational lands and waters.
 - **(d)** Nothing in this section applies to a concession contract issued by the National Park Service for the provision of accommodations, facilities, or services.
+
+## Source Credit
+
+*([Pub. L. 118–234, title III, § 319](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2907](https://www.govinfo.gov/link/statute/138/2907).)*

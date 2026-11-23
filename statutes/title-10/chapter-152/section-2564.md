@@ -3,9 +3,10 @@ title: "Section 2564 - Provision of support for certain sporting events"
 usc_title: 10
 usc_section: "2564"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2564"
-generated_at: "2026-03-30T02:53:38.163Z"
+generated_at: "2026-11-23T20:25:51.610Z"
+status: "active"
 ---
 
 # § 2564. Provision of support for certain sporting events
@@ -32,3 +33,19 @@ generated_at: "2026-03-30T02:53:38.163Z"
 - **(f)**
   - **(1)** Amounts for the provision of support for a sporting event described in paragraph (4) or (5) of subsection (c) may be derived from the Support for International Sporting Competitions, Defense account established by section 5802 of the Omnibus Consolidated Appropriations Act, 1997 ( Public Law 104–208 ; 10 U.S.C. 2564 note), notwithstanding any limitation under that section relating to the availability of funds in such account for the provision of support for international sporting competitions.
   - **(2)** The total amount expended for any fiscal year to provide support for sporting events described in subsection (c)(5) may not exceed $1,000,000.
+
+Security and Safety Assistance
+
+Other Assistance
+
+Inapplicability to Certain Events
+
+Terms and Conditions
+
+Relationship to Other Laws
+
+Funding for Support of Certain Events
+
+## Source Credit
+
+*(Added [Pub. L. 104–201, div. A, title III, § 367(a)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2496](https://www.govinfo.gov/link/statute/110/2496), § 2554; amended [Pub. L. 105–85, div. A, title X, § 1073(a)(56)](https://www.govinfo.gov/link/plaw/105/public/85), (c)(2)(A), Nov. 18, 1997, [111 Stat. 1903](https://www.govinfo.gov/link/statute/111/1903), 1904; renumbered § 2564, [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title X, § 1033(b)(1)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–260; [Pub. L. 110–181, div. A, title III, § 372(a)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 81](https://www.govinfo.gov/link/statute/122/81); [Pub. L. 115–91, div. A, title X, § 1051(a)(20)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1561](https://www.govinfo.gov/link/statute/131/1561).)*

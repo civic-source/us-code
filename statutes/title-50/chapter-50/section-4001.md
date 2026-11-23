@@ -3,9 +3,10 @@ title: "Section 4001 - Residence for tax purposes"
 usc_title: 50
 usc_section: "4001"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4001"
-generated_at: "2026-03-30T02:56:26.265Z"
+generated_at: "2026-11-23T20:27:31.063Z"
+status: "active"
 ---
 
 # § 4001. Residence for tax purposes
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:26.265Z"
   - **(1)** The term “personal property” means intangible and tangible property (including motor vehicles).
   - **(2)** The term “taxation” includes licenses, fees, or excises imposed with respect to motor vehicles and their use, if the license, fee, or excise is paid by the servicemember in the servicemember’s State of domicile or residence.
   - **(3)** The term “tax jurisdiction” means a State or a political subdivision of a State.
+
+## Source Credit
+
+*(Oct. 17, 1940, ch. 888, title V, § 511, as added [Pub. L. 108–189, § 1](https://www.govinfo.gov/link/plaw/108/public/189), Dec. 19, 2003, [117 Stat. 2858](https://www.govinfo.gov/link/statute/117/2858); amended [Pub. L. 111–97, § 3(a)](https://www.govinfo.gov/link/plaw/111/public/97), Nov. 11, 2009, [123 Stat. 3008](https://www.govinfo.gov/link/statute/123/3008); [Pub. L. 115–407, title III, § 302(a)](https://www.govinfo.gov/link/plaw/115/public/407), Dec. 31, 2018, [132 Stat. 5373](https://www.govinfo.gov/link/statute/132/5373); [Pub. L. 117–333, § 18](https://www.govinfo.gov/link/plaw/117/public/333), Jan. 5, 2023, [136 Stat. 6137](https://www.govinfo.gov/link/statute/136/6137).)*

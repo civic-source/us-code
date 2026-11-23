@@ -3,9 +3,10 @@ title: "Section 3145 - Construction of foreign direct investment and internation
 usc_title: 22
 usc_section: "3145"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3145"
-generated_at: "2026-03-30T02:55:05.390Z"
+generated_at: "2026-11-23T20:26:32.444Z"
+status: "active"
 ---
 
 # § 3145. Construction of foreign direct investment and international financial data provisions
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.390Z"
   - **(1)** eliminate questions that are no longer necessary,
   - **(2)** cooperate with one another in order to ensure that questions asked are consistent among the departments and agencies, and
   - **(3)** develop new questions in order to obtain more refined statistics and analyses,
+
+## Source Credit
+
+*([Pub. L. 101–533, § 9](https://www.govinfo.gov/link/plaw/101/public/533), Nov. 7, 1990, [104 Stat. 2351](https://www.govinfo.gov/link/statute/104/2351).)*

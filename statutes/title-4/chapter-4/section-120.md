@@ -3,9 +3,10 @@ title: "Section 120 - Procedure if no electronic database provided"
 usc_title: 4
 usc_section: "120"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "4 U.S.C. § 120"
-generated_at: "2026-03-30T02:52:51.498Z"
+generated_at: "2026-11-23T20:25:27.031Z"
+status: "active"
 ---
 
 # § 120. Procedure if no electronic database provided
@@ -17,3 +18,11 @@ generated_at: "2026-03-30T02:52:51.498Z"
 - **(b)** Subsection (a) applies to a home service provider that is in compliance with the requirements of subsection (a), with respect to a State for which an electronic database is not provided under section 119 until the later of—
   - **(1)** 18 months after the nationwide standard numeric code described in section 119(a) has been approved by the Federation of Tax Administrators and the Multistate Tax Commission; or
   - **(2)** 6 months after such State or a designated database provider in such State provides such database as prescribed in section 119(a).
+
+Safe Harbor
+
+Termination of Safe Harbor
+
+## Source Credit
+
+*(Added [Pub. L. 106–252, § 2(a)](https://www.govinfo.gov/link/plaw/106/public/252), July 28, 2000, [114 Stat. 628](https://www.govinfo.gov/link/statute/114/628).)*

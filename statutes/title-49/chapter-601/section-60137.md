@@ -3,9 +3,10 @@ title: "Section 60137 - Pipeline control room management"
 usc_title: 49
 usc_section: "60137"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 60137"
-generated_at: "2026-03-30T02:56:19.416Z"
+generated_at: "2026-11-23T20:27:35.430Z"
+status: "active"
 ---
 
 # § 60137. Pipeline control room management
@@ -15,3 +16,17 @@ generated_at: "2026-03-30T02:56:19.416Z"
 - **(c)** If the Secretary or the head of the appropriate State authority determines that an operator’s plan submitted to the Secretary or the head of such authority under subsection (a), or implementation of such a plan, does not comply with the regulations issued under this section or is inadequate for the safe operation of a pipeline, the Secretary or the head of such authority may take action consistent with this chapter and enforce the requirements of such regulations.
 - **(d)** Each operator of a gas or hazardous liquid pipeline shall document compliance with the plan submitted by the operator under subsection (a) and the reasons for any deviation from compliance with such plan. The Secretary or the head of the appropriate State authority, as the case may be, shall review the reasonableness of any such deviation in considering whether to take enforcement action or discontinue approval of the operator’s plan under subsection (b).
 - **(e)** In issuing regulations under subsection (a), the Secretary shall develop and include in such regulations requirements for an operator of a gas or hazardous liquid pipeline to report deviations from compliance with the plan submitted by the operator under subsection (a).
+
+In General
+
+Review and Approval of the Plan
+
+Enforcement of the Plan
+
+Compliance With the Plan
+
+Deviation Reporting Requirements
+
+## Source Credit
+
+*(Added [Pub. L. 109–468, § 12(a)](https://www.govinfo.gov/link/plaw/109/public/468), Dec. 29, 2006, [120 Stat. 3494](https://www.govinfo.gov/link/statute/120/3494).)*

@@ -3,9 +3,10 @@ title: "Section 3711 - Foreclosure costs"
 usc_title: 12
 usc_section: "3711"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 3711"
-generated_at: "2026-03-30T02:53:53.497Z"
+generated_at: "2026-11-23T20:25:59.347Z"
+status: "active"
 ---
 
 # § 3711. Foreclosure costs
@@ -17,3 +18,7 @@ The following foreclosure costs shall be paid from the sale proceeds prior to sa
   - **(3)** reasonable and necessary costs actually incurred in connection with any necessary search of title and lien records;
   - **(4)** necessary out-of-pocket costs incurred by the foreclosure commissioner to record documents; and
   - **(5)** a commission for the foreclosure commissioner for the conduct of the foreclosure to the extent authorized by regulations issued by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 97–35, title III, § 369C](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 429](https://www.govinfo.gov/link/statute/95/429).)*

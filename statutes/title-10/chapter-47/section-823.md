@@ -3,9 +3,10 @@ title: "Section 823 - Art. 23. Who may convene special courts-martial"
 usc_title: 10
 usc_section: "823"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 823"
-generated_at: "2026-03-30T02:53:38.078Z"
+generated_at: "2026-11-23T20:25:51.063Z"
+status: "active"
 ---
 
 # § 823. Art. 23. Who may convene special courts-martial
@@ -21,3 +22,22 @@ generated_at: "2026-03-30T02:53:38.078Z"
 - **(b)**
   - **(1)** If any such officer is an accuser, the court shall be convened by superior competent authority, and may in any case be convened by such authority if considered advisable by him.
   - **(2)** A commanding officer shall not be considered an accuser solely due to the role of the commanding officer in convening a special court-martial to which charges and specifications were referred by a special trial counsel in accordance with this chapter.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 823(a) 823(b) | 50:587(a). 50:587(b). | May 5, 1950, ch. 169, § 1 (Art. 23), 64 Stat. 115 . |
+
+
+Historical and Revision Notes
+
+823(a)
+
+823(b)
+
+May 5, 1950, ch. 169, § 1
+
+64 Stat. 115
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 44; [Pub. L. 116–283, div. A, title IX, § 924(b)(21)(B)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3824](https://www.govinfo.gov/link/statute/134/3824); [Pub. L. 117–81, div. A, title V, § 534(b)](https://www.govinfo.gov/link/plaw/117/public/81), title X, § 1081(a)(13), Dec. 27, 2021, [135 Stat. 1696](https://www.govinfo.gov/link/statute/135/1696), 1920.)*

@@ -3,9 +3,10 @@ title: "Section 4703 - Scholarship program authority"
 usc_title: 22
 usc_section: "4703"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4703"
-generated_at: "2026-03-30T02:55:05.413Z"
+generated_at: "2026-11-23T20:26:32.543Z"
+status: "active"
 ---
 
 # § 4703. Scholarship program authority
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:05.413Z"
 - **(b)** To encourage students to use their training in their countries of origin, each scholarship pursuant to this section shall be in the form of a loan with all repayment to be forgiven upon the student’s prompt return to his or her country of origin for a period which is at least one year longer than the period spent studying in the United States. If the student is granted asylum in the United States pursuant to section 1158 of title 8 or is admitted to the United States as a refugee pursuant to section 1157 of title 8 , half of the repayment shall be forgiven.
 - **(c)** Before allocating any of the funds made available to carry out this chapter, the President shall consult with United States institutions of higher education, educational exchange organizations, United States missions in developing countries, and the governments of participating countries on how to implement the guidelines specified in section 4704 of this title .
 - **(d)** For purposes of this chapter, the term “institution of higher education” has the same meaning as given to such term by section 1001 of title 20 .
+
+## Source Credit
+
+*([Pub. L. 99–93, title VI, § 603](https://www.govinfo.gov/link/plaw/99/public/93), Aug. 16, 1985, [99 Stat. 440](https://www.govinfo.gov/link/statute/99/440); [Pub. L. 105–244, title I, § 102(a)(7)(D)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1619](https://www.govinfo.gov/link/statute/112/1619).)*

@@ -3,9 +3,10 @@ title: "Section 5679 - Biotechnology and agricultural trade program"
 usc_title: 7
 usc_section: "5679"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 5679"
-generated_at: "2026-03-30T02:53:42.418Z"
+generated_at: "2026-11-23T20:25:41.656Z"
+status: "active"
 ---
 
 # § 5679. Biotechnology and agricultural trade program
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:42.418Z"
   - **(2)** the emerging markets program under section 1542 1 1 See References in Text note below. and section 5623(d) of this title ; or
   - **(3)** the Cochran Fellowship Program under section 3293 of this title .
 - **(d)** There is authorized to be appropriated $2,000,000 for each of fiscal years 2019 through 2023.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XV, § 1543A](https://www.govinfo.gov/link/plaw/101/public/624), as added [Pub. L. 107–171, title III, § 3204](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 300](https://www.govinfo.gov/link/statute/116/300); amended [Pub. L. 115–334, title III](https://www.govinfo.gov/link/plaw/115/public/334), §§ 3201(b)(3)(C), 3301, Dec. 20, 2018, [132 Stat. 4617](https://www.govinfo.gov/link/statute/132/4617).)*

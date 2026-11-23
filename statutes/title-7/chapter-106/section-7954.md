@@ -3,9 +3,10 @@ title: "Section 7954 - Availability of counter-cyclical payments for peanuts"
 usc_title: 7
 usc_section: "7954"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7954"
-generated_at: "2026-03-30T02:53:42.468Z"
+generated_at: "2026-11-23T20:25:41.856Z"
+status: "active"
 ---
 
 # § 7954. Availability of counter-cyclical payments for peanuts
@@ -65,3 +66,7 @@ generated_at: "2026-03-30T02:53:42.468Z"
         - **(I)** the actual counter-cyclical payment to be made to the producers for that crop year; and
         - **(II)** the amount of the partial payment made to the producers under clause (i).
   - **(5)** The producers on a farm (or, in the case of the 2002 crop year, historic peanut producers) that receive a partial payment under this subsection for a crop year shall repay to the Secretary the amount, if any, by which the total of the partial payments exceed the actual counter-cyclical payment to be made for that crop year.
+
+## Source Credit
+
+*([Pub. L. 107–171, title I, § 1304](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 171](https://www.govinfo.gov/link/statute/116/171).)*

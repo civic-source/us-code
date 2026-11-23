@@ -3,9 +3,10 @@ title: "Section 6292 - Coverage"
 usc_title: 42
 usc_section: "6292"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6292"
-generated_at: "2026-03-30T02:56:11.246Z"
+generated_at: "2026-11-23T20:27:22.607Z"
+status: "active"
 ---
 
 # § 6292. Coverage
@@ -41,3 +42,25 @@ generated_at: "2026-03-30T02:56:11.246Z"
     - **(A)** The term “average annual per-household energy use with respect to a type of product” means the estimated aggregate annual energy use (in kilowatt-hours or the Btu equivalent) of consumer products of such type which are used by households in the United States, divided by the number of such households which use products of such type.
     - **(B)** The Btu equivalent of one kilowatt-hour is 3,412 British thermal units.
     - **(C)** The term “household” shall be defined under rules of the Secretary.
+
+In General
+
+Monitoring
+
+Alternative System
+
+In General
+
+Monitoring
+
+Alternative System
+
+In General
+
+Monitoring
+
+Alternative System
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 322](https://www.govinfo.gov/link/plaw/94/public/163), Dec. 22, 1975, [89 Stat. 918](https://www.govinfo.gov/link/statute/89/918); [Pub. L. 95–619, title VI, § 691(b)(2)](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3288](https://www.govinfo.gov/link/statute/92/3288); [Pub. L. 100–12](https://www.govinfo.gov/link/plaw/100/public/12), §§ 3, 11(b)(1), Mar. 17, 1987, [101 Stat. 105](https://www.govinfo.gov/link/statute/101/105), 125; [Pub. L. 100–357, § 2(b)](https://www.govinfo.gov/link/plaw/100/public/357), June 28, 1988, [102 Stat. 672](https://www.govinfo.gov/link/statute/102/672); [Pub. L. 102–486, title I, § 123(c)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2821](https://www.govinfo.gov/link/statute/106/2821); [Pub. L. 105–388, § 5(a)(3)](https://www.govinfo.gov/link/plaw/105/public/388), Nov. 13, 1998, [112 Stat. 3478](https://www.govinfo.gov/link/statute/112/3478); [Pub. L. 110–140, title III](https://www.govinfo.gov/link/plaw/110/public/140), §§ 321(a)(2), 324(b), Dec. 19, 2007, [121 Stat. 1577](https://www.govinfo.gov/link/statute/121/1577), 1593.)*

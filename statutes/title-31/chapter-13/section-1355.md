@@ -3,9 +3,10 @@ title: "Section 1355 - Prohibition on use of funds for portraits"
 usc_title: 31
 usc_section: "1355"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 1355"
-generated_at: "2026-03-30T02:55:34.052Z"
+generated_at: "2026-11-23T20:26:51.731Z"
+status: "active"
 ---
 
 # § 1355. Prohibition on use of funds for portraits
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:34.052Z"
 - **(b)** In this section—
   - **(1)** the term “executive agency” has the meaning given the term in section 133 of title 41 ; and
   - **(2)** the term “Member of Congress” includes a Delegate or Resident Commissioner to Congress.
+
+## Source Credit
+
+*(Added [Pub. L. 115–158, § 2(a)](https://www.govinfo.gov/link/plaw/115/public/158), Mar. 27, 2018, [132 Stat. 1242](https://www.govinfo.gov/link/statute/132/1242).)*

@@ -3,9 +3,10 @@ title: "Section 6934 - Office of Partnerships and Public Engagement"
 usc_title: 7
 usc_section: "6934"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6934"
-generated_at: "2026-03-30T02:53:42.439Z"
+generated_at: "2026-11-23T20:25:41.737Z"
+status: "active"
 ---
 
 # § 6934. Office of Partnerships and Public Engagement
@@ -63,3 +64,7 @@ generated_at: "2026-03-30T02:53:42.439Z"
   - **(3)** There are authorized to be appropriated to carry out this subsection—
     - **(A)** such sums as are necessary for each of fiscal years 2009 through 2013; and
     - **(B)** $2,000,000 for each of fiscal years 2014 through 2023.
+
+## Source Credit
+
+*([Pub. L. 103–354, title II, § 226B](https://www.govinfo.gov/link/plaw/103/public/354), as added [Pub. L. 110–234, title XIV, § 14013(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1450](https://www.govinfo.gov/link/statute/122/1450), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIV, § 14013(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2212; amended [Pub. L. 113–79, title XII, § 12202](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 984](https://www.govinfo.gov/link/statute/128/984); [Pub. L. 115–334, title XII](https://www.govinfo.gov/link/plaw/115/public/334), §§ 12301(a)(2)(A), 12406(a)(1), (b), (c), Dec. 20, 2018, [132 Stat. 4950](https://www.govinfo.gov/link/statute/132/4950), 4975, 4976.)*

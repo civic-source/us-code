@@ -3,9 +3,10 @@ title: "Section 4071j - Former spouses"
 usc_title: 22
 usc_section: "4071j"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4071j"
-generated_at: "2026-03-30T02:55:05.405Z"
+generated_at: "2026-11-23T20:26:32.514Z"
+status: "active"
 ---
 
 # § 4071j. Former spouses
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:55:05.405Z"
 - **(c)** A participant or former participant may not make any election or modification of election under section 8417, 8418, or 8433 of title 5 or other section relating to the participant’s account in the Thrift Savings Plan or annuity under the basic plan that would diminish the entitlement of a former spouse to any benefit granted to the former spouse by this section or in a current spousal agreement.
 - **(d)** If a member becomes a participant under this part after qualifying for benefits under part I and, at the time of transfer, has a former spouse entitled to benefits under part I which are determined under section 4054 or 4055 of this title (as determined by the Secretary of State) and are similar in amount to a pro rata share division under section 4054 or 4055 of this title and the service of the member as a participant under this part is not recognized in determining that pro rata share, then subsections (a) and (b) of this section shall not apply to such former spouse. Otherwise, subsections (a) and (b) of this section shall apply.
 - **(e)** If a participant dies after completing at least 18 months of service or a former participant dies entitled to a deferred annuity, but before becoming eligible to receive the annuity, and such participant or former participant has left with the Secretary of State a spousal agreement promising a share of a survivor annuity under subchapter IV, chapter 84, title 5, to a former spouse, such survivor annuity shall be paid under the terms of this part as if the survivor annuity had been ordered by a court.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 861](https://www.govinfo.gov/link/plaw/96/public/465), as added [Pub. L. 99–335, title IV, § 415](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 619](https://www.govinfo.gov/link/statute/100/619); amended [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 99–556, title IV, § 407](https://www.govinfo.gov/link/plaw/99/public/556), Oct. 27, 1986, [100 Stat. 3139](https://www.govinfo.gov/link/statute/100/3139).)*

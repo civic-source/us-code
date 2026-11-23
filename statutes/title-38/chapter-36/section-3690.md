@@ -3,9 +3,10 @@ title: "Section 3690 - Overcharges by educational institutions; discontinuance o
 usc_title: 38
 usc_section: "3690"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 3690"
-generated_at: "2026-03-30T02:55:53.509Z"
+generated_at: "2026-11-23T20:27:01.878Z"
+status: "active"
 ---
 
 # § 3690. Overcharges by educational institutions; discontinuance of allowances; examination of records; false or misleading statements
@@ -28,3 +29,15 @@ generated_at: "2026-03-30T02:55:53.509Z"
     - **(A)** of an educational institution located in a foreign country; and
     - **(B)** that pertain to an individual who is not receiving educational assistance under this chapter.
 - **(d)** Whenever the Secretary finds that an educational institution has willfully submitted a false or misleading claim, or that a veteran or person, with the complicity of an educational institution, has submitted such a claim, the Secretary shall make a complete report of the facts of the case to the appropriate State approving agency and, where deemed advisable, to the Attorney General of the United States for appropriate action.
+
+Overcharges by Educational Institutions
+
+Discontinuance of Allowances
+
+Examination of Records
+
+False or Misleading Statements
+
+## Source Credit
+
+*(Added [Pub. L. 92–540, title III, § 316(2)](https://www.govinfo.gov/link/plaw/92/public/540), Oct. 24, 1972, [86 Stat. 1088](https://www.govinfo.gov/link/statute/86/1088), § 1790; amended [Pub. L. 94–502, title V](https://www.govinfo.gov/link/plaw/94/public/502), §§ 510, 513(a)(19), Oct. 15, 1976, [90 Stat. 2401](https://www.govinfo.gov/link/statute/90/2401), 2403; [Pub. L. 95–202, title III, § 306](https://www.govinfo.gov/link/plaw/95/public/202), Nov. 23, 1977, [91 Stat. 1445](https://www.govinfo.gov/link/statute/91/1445); [Pub. L. 96–466, title VIII, § 801(f)](https://www.govinfo.gov/link/plaw/96/public/466), Oct. 17, 1980, [94 Stat. 2216](https://www.govinfo.gov/link/statute/94/2216); [Pub. L. 97–295, § 4(59)](https://www.govinfo.gov/link/plaw/97/public/295), Oct. 12, 1982, [96 Stat. 1309](https://www.govinfo.gov/link/statute/96/1309); [Pub. L. 97–306, title II, § 207](https://www.govinfo.gov/link/plaw/97/public/306), Oct. 14, 1982, [96 Stat. 1435](https://www.govinfo.gov/link/statute/96/1435); [Pub. L. 101–237, title IV, § 423(a)(9)](https://www.govinfo.gov/link/plaw/101/public/237), (b)(1)(A), (2), Dec. 18, 1989, [103 Stat. 2092](https://www.govinfo.gov/link/statute/103/2092); renumbered § 3690, [Pub. L. 102–83, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/83), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 102–86, title V, § 506(b)(1)](https://www.govinfo.gov/link/plaw/102/public/86), Aug. 14, 1991, [105 Stat. 426](https://www.govinfo.gov/link/statute/105/426); [Pub. L. 109–233, title V, § 503(8)(A)](https://www.govinfo.gov/link/plaw/109/public/233), June 15, 2006, [120 Stat. 416](https://www.govinfo.gov/link/statute/120/416); [Pub. L. 110–252, title V, § 5003(b)(2)(A)(iv)](https://www.govinfo.gov/link/plaw/110/public/252), June 30, 2008, [122 Stat. 2375](https://www.govinfo.gov/link/statute/122/2375); [Pub. L. 117–76, § 3(c)(2)](https://www.govinfo.gov/link/plaw/117/public/76), Dec. 21, 2021, [135 Stat. 1519](https://www.govinfo.gov/link/statute/135/1519).)*

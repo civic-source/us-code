@@ -3,9 +3,10 @@ title: "Section 7384s - Compensation and benefits to be provided"
 usc_title: 42
 usc_section: "7384s"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7384s"
-generated_at: "2026-03-30T02:56:11.292Z"
+generated_at: "2026-11-23T20:27:22.822Z"
+status: "active"
 ---
 
 # § 7384s. Compensation and benefits to be provided
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:11.292Z"
     - **(D)** a “grandchild” of an individual is a child of a child of that individual; and
     - **(E)** a “grandparent” of an individual is a parent of a parent of that individual.
 - **(f)** This section shall take effect on July 31, 2001 , unless Congress otherwise provides in an Act enacted before that date.
+
+## Source Credit
+
+*([Pub. L. 106–398, § 1 [div. C, title XXXVI, § 3628]](https://www.govinfo.gov/link/plaw/106/public/398), Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–506; [Pub. L. 107–107, div. C, title XXXI, § 3151(a)(4)(A)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1372](https://www.govinfo.gov/link/statute/115/1372).)*

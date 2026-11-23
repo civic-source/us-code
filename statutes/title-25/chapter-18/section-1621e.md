@@ -3,9 +3,10 @@ title: "Section 1621e - Reimbursement from certain third parties of costs of hea
 usc_title: 25
 usc_section: "1621e"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1621e"
-generated_at: "2026-03-30T02:54:52.820Z"
+generated_at: "2026-11-23T20:26:25.483Z"
+status: "active"
 ---
 
 # § 1621e. Reimbursement from certain third parties of costs of health services
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:52.820Z"
 - **(i)** The previous provisions of this section shall apply to urban Indian organizations with respect to populations served by such Organizations 1 1 So in original. Probably should not be capitalized. in the same manner they apply to Indian tribes and tribal organizations with respect to populations served by such Indian tribes and tribal organizations.
 - **(j)** The provisions of section 2415 of title 28 shall apply to all actions commenced under this section, and the references therein to the United States are deemed to include Indian tribes, tribal organizations, and urban Indian organizations.
 - **(k)** Nothing in this section shall be construed to limit any right of recovery available to the United States, an Indian tribe, or tribal organization under the provisions of any applicable, Federal, State, or tribal law, including medical lien laws.
+
+## Source Credit
+
+*([Pub. L. 94–437, title II, § 206](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 100–713, title II, § 204](https://www.govinfo.gov/link/plaw/100/public/713), Nov. 23, 1988, [102 Stat. 4811](https://www.govinfo.gov/link/statute/102/4811); amended [Pub. L. 102–573, title II, § 209](https://www.govinfo.gov/link/plaw/102/public/573), Oct. 29, 1992, [106 Stat. 4551](https://www.govinfo.gov/link/statute/106/4551); [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

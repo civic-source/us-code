@@ -3,9 +3,10 @@ title: "Section 681d - Noncompliance with required reporting"
 usc_title: 6
 usc_section: "681d"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 681d"
-generated_at: "2026-03-30T02:53:09.498Z"
+generated_at: "2026-11-23T20:25:34.854Z"
+status: "active"
 ---
 
 # § 681d. Noncompliance with required reporting
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:53:09.498Z"
   - **(1)** issued an initial request for information pursuant to subsection (b); or
   - **(2)** issued a subpoena pursuant to subsection (c).
 - **(i)** The Director shall ensure any victim information contained in a report required to be published under subsection (h) be anonymized before the report is published.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XXII, § 2244](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 117–103, div. Y, § 103(a)(2)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 1049](https://www.govinfo.gov/link/statute/136/1049); amended [Pub. L. 117–263, div. G, title LXXI, § 7143(e)(2)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3664](https://www.govinfo.gov/link/statute/136/3664).)*

@@ -3,9 +3,10 @@ title: "Section 2664 - Cooperating colleges and universities"
 usc_title: 7
 usc_section: "2664"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2664"
-generated_at: "2026-03-30T02:53:42.390Z"
+generated_at: "2026-11-23T20:25:41.543Z"
+status: "active"
 ---
 
 # § 2664. Cooperating colleges and universities
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:42.390Z"
 - **(b)** All private and publicly supported colleges and universities in a State shall be eligible to participate in programs authorized under this subchapter. Officials at universities or colleges other than those responsible for administering the programs that wish to participate in these programs shall submit program proposals to the college or university officials responsible for administering the programs who shall consider such proposals in the process of developing the budgets and plans of work.
 - **(c)** The institution of each State responsible for administering the programs authorized under this subchapter shall designate an official who shall be responsible for the overall coordination of the programs.
 - **(d)** The institution in each State responsible for administering the programs authorized under this subchapter shall name an advisory council to review and approve budgets and plans of work conducted under this subchapter and to advise the chief administrative officer of the institution administering the programs on matters pertaining to the programs. An existing State rural development committee or council may be named to perform this function, or a new council may be appointed by the chief administrative officer or officers. The committee or council named or appointed shall consist of at least twelve members and shall include persons representing farmers, business, labor, banking, local government, multicounty planning and development districts, public and private colleges and universities in the State, and Federal and State agencies involved in rural development.
+
+## Source Credit
+
+*([Pub. L. 92–419, title V, § 504](https://www.govinfo.gov/link/plaw/92/public/419), as added [Pub. L. 97–98, title XIV, § 1444(a)](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1325](https://www.govinfo.gov/link/statute/95/1325); amended [Pub. L. 115–334, title VI, § 6101(a)(3)(B)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4727](https://www.govinfo.gov/link/statute/132/4727).)*

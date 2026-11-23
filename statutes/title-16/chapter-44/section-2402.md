@@ -3,9 +3,10 @@ title: "Section 2402 - Definitions"
 usc_title: 16
 usc_section: "2402"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 2402"
-generated_at: "2026-03-30T02:54:23.001Z"
+generated_at: "2026-11-23T20:26:20.603Z"
+status: "active"
 ---
 
 # § 2402. Definitions
@@ -41,3 +42,7 @@ For purposes of this chapter—
   - **(21)** the term “Treaty” means the Antarctic Treaty signed in Washington, DC, on December 1, 1959 ;
   - **(22)** the term “United States” means the several States of the Union, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, and any other commonwealth, territory, or possession of the United States; and
   - **(23)** the term “vessel subject to the jurisdiction of the United States” includes any “vessel of the United States” and any “vessel subject to the jurisdiction of the United States” as those terms are defined in section 2432 of this title .
+
+## Source Credit
+
+*([Pub. L. 95–541, § 3](https://www.govinfo.gov/link/plaw/95/public/541), Oct. 28, 1978, [92 Stat. 2048](https://www.govinfo.gov/link/statute/92/2048); [Pub. L. 104–227, title I, § 102](https://www.govinfo.gov/link/plaw/104/public/227), Oct. 2, 1996, [110 Stat. 3035](https://www.govinfo.gov/link/statute/110/3035).)*

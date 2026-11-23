@@ -3,9 +3,10 @@ title: "Section 4010 - Hypoxia or harmful algal bloom of national significance"
 usc_title: 33
 usc_section: "4010"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 4010"
-generated_at: "2026-03-30T02:55:41.147Z"
+generated_at: "2026-11-23T20:26:54.292Z"
+status: "active"
 ---
 
 # § 4010. Hypoxia or harmful algal bloom of national significance
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:41.147Z"
       - **(ii)** in the case of a freshwater hypoxia or harmful algal bloom event, the Administrator of the Environmental Protection Agency.
     - **(B)** The term “event of national significance” means a hypoxia or harmful algal bloom event that has had or will likely have a significant detrimental environmental, economic, subsistence use, or public health impact on an affected State.
     - **(C)** The term “hypoxia or harmful algal bloom event” means the occurrence of hypoxia or a harmful algal bloom as a result of a natural, anthropogenic, or undetermined cause.
+
+## Source Credit
+
+*([Pub. L. 115–423, § 9(g)](https://www.govinfo.gov/link/plaw/115/public/423), Jan. 7, 2019, [132 Stat. 5463](https://www.govinfo.gov/link/statute/132/5463).)*

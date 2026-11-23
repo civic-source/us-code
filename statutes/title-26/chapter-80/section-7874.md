@@ -3,9 +3,10 @@ title: "Section 7874 - Rules relating to expatriated entities and their foreign 
 usc_title: 26
 usc_section: "7874"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 7874"
-generated_at: "2026-03-30T02:55:27.888Z"
+generated_at: "2026-11-23T20:26:46.860Z"
+status: "active"
 ---
 
 # § 7874. Rules relating to expatriated entities and their foreign parents
@@ -65,3 +66,7 @@ generated_at: "2026-03-30T02:55:27.888Z"
 - **(g)** The Secretary shall provide such regulations as are necessary to carry out this section, including regulations providing for such adjustments to the application of this section as are necessary to prevent the avoidance of the purposes of this section, including the avoidance of such purposes through—
   - **(1)** the use of related persons, pass-through or other noncorporate entities, or other intermediaries, or
   - **(2)** transactions designed to have persons cease to be (or not become) members of expanded affiliated groups or related persons.
+
+## Source Credit
+
+*(Added [Pub. L. 108–357, title VIII, § 801(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1562](https://www.govinfo.gov/link/statute/118/1562); amended [Pub. L. 109–135, title IV, § 403(u)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2628](https://www.govinfo.gov/link/statute/119/2628); [Pub. L. 115–97, title I, § 13001(b)(1)(C)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2096](https://www.govinfo.gov/link/statute/131/2096).)*

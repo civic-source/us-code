@@ -3,9 +3,10 @@ title: "Section 7113 - Evidentiary record before the Board of Veterans’ Appeal
 usc_title: 38
 usc_section: "7113"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7113"
-generated_at: "2026-03-30T02:55:53.524Z"
+generated_at: "2026-11-23T20:27:01.981Z"
+status: "active"
 ---
 
 # § 7113. Evidentiary record before the Board of Veterans’ Appeals
@@ -21,3 +22,13 @@ generated_at: "2026-03-30T02:55:53.524Z"
   - **(2)** The evidentiary record before the Board for cases described in paragraph (1) shall include each of the following, which the Board shall consider in the first instance:
     - **(A)** Evidence submitted by the appellant and his or her representative, if any, with the notice of disagreement.
     - **(B)** Evidence submitted by the appellant and his or her representative, if any, within 90 days following receipt of the notice of disagreement.
+
+Cases With No Request for a Hearing or Additional Evidence
+
+Cases With a Request for a Hearing
+
+Cases With No Request for a Hearing and With a Request for Additional Evidence
+
+## Source Credit
+
+*(Added [Pub. L. 115–55, § 2(w)(1)](https://www.govinfo.gov/link/plaw/115/public/55), Aug. 23, 2017, [131 Stat. 1114](https://www.govinfo.gov/link/statute/131/1114).)*

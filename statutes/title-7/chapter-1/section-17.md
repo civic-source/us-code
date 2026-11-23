@@ -3,12 +3,17 @@ title: "Section 17 - Separability"
 usc_title: 7
 usc_section: "17"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 17"
-generated_at: "2026-03-30T02:53:42.247Z"
+generated_at: "2026-11-23T20:25:40.883Z"
+status: "active"
 ---
 
 # § 17. Separability
 
 If any provision of this chapter or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the chapter and of the application of such provision to other persons and circumstances shall not be affected thereby.
 
+
+## Source Credit
+
+*(Sept. 21, 1922, ch. 369, § 10, [42 Stat. 1003](https://www.govinfo.gov/link/statute/42/1003).)*

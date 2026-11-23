@@ -3,9 +3,10 @@ title: "Section 300gg - Fair health insurance premiums"
 usc_title: 42
 usc_section: "300gg"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 300gg"
-generated_at: "2026-03-30T02:56:10.830Z"
+generated_at: "2026-11-23T20:27:20.641Z"
+status: "active"
 ---
 
 # § 300gg. Fair health insurance premiums
@@ -24,3 +25,39 @@ generated_at: "2026-03-30T02:56:10.830Z"
   - **(3)** The Secretary, in consultation with the National Association of Insurance Commissioners, shall define the permissible age bands for rating purposes under paragraph (1)(A)(iii).
   - **(4)** With respect to family coverage under a group health plan or health insurance coverage, the rating variations permitted under clauses (iii) and (iv) of paragraph (1)(A) shall be applied based on the portion of the premium that is attributable to each family member covered under the plan or coverage.
   - **(5)** If a State permits health insurance issuers that offer coverage in the large group market in the State to offer such coverage through the State Exchange (as provided for under section 18032(f)(2)(B) of this title ), the provisions of this subsection shall apply to all coverage offered in such market (other than self-insured group health plans offered in such market) in the State.
+
+“This subtitle [subtitle C (§§ 1201–1255) of title I of Pub. L. 111–148 , enacting subchapter II of chapter 157 of this title and sections 300gg to 300gg–2 and 300gg–4 to 300gg–7 of this title, and amending sections 300gg–1 and 300gg–4 of this title and transferring former section 300gg of this title to section 300gg–3 of this title ] (and the amendments made by this subtitle) shall become effective for plan years beginning on or after January 1, 2014 , except that—
+
+In general
+
+Determination of creditable coverage.—
+
+Period of coverage.—
+
+In general
+
+Special rule for certain periods
+
+Certifications, etc.—
+
+In general
+
+No certification required to be provided before june 1, 1997
+
+Certification only on written request for events occurring before october 1, 1996
+
+Transitional rule
+
+Special rule for collective bargaining agreements
+
+Timely regulations
+
+Limitation on actions
+
+Findings Relating to Exercise of Commerce Clause Authority
+
+Severability
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXVII, § 2701, as added and amended [Pub. L. 111–148, title I, § 1201(4)](https://www.govinfo.gov/link/plaw/111/public/148), title X, § 10103(a), Mar. 23, 2010, [124 Stat. 155](https://www.govinfo.gov/link/statute/124/155), 892.)*

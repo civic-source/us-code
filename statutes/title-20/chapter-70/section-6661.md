@@ -3,9 +3,10 @@ title: "Section 6661 - Program authorized"
 usc_title: 20
 usc_section: "6661"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 6661"
-generated_at: "2026-03-30T02:54:48.202Z"
+generated_at: "2026-11-23T20:26:14.858Z"
+status: "active"
 ---
 
 # § 6661. Program authorized
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:48.202Z"
 - **(b)** Of the amount available under subsection (a) for a fiscal year, the Secretary—
   - **(1)** shall reserve not less than 26 percent for activities under section 6662 of this title ; and
   - **(2)** may reserve not more than 74 percent for activities under section 6663 of this title .
+
+## Source Credit
+
+*([Pub. L. 89–10, title II, § 2231](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title II, § 2002](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1945](https://www.govinfo.gov/link/statute/129/1945).)*

@@ -3,9 +3,10 @@ title: "Section 1 - Duty to provide 9–1–1 and enhanced 9–1–1 service"
 usc_title: 47
 usc_section: "1"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 1"
-generated_at: "2026-03-30T02:56:24.522Z"
+generated_at: "2026-11-23T20:27:28.944Z"
+status: "active"
 ---
 
 # § 615a–1. Duty to provide 9–1–1 and enhanced 9–1–1 service
@@ -52,3 +53,35 @@ generated_at: "2026-03-30T02:56:24.522Z"
   - **(6)** the format for delivering address information to public safety answering points.
 - **(i)** Nothing in the New and Emerging Technologies 911 Improvement Act of 2008 shall be construed as altering, delaying, or otherwise limiting the ability of the Commission to enforce the Federal actions taken or rules adopted obligating an IP-enabled voice service provider to provide 9–1–1 or enhanced 9–1–1 service as of the date of enactment of the New and Emerging Technologies 911 Improvement Act of 2008.
 - **(j)** If any provision of this section or the application thereof to any person or circumstance is held invalid, the remainder of this section and the application of such provision to other persons or circumstances shall not be affected thereby.
+
+In general
+
+Report to congress
+
+Interagency strike force to end 9–1–1 fee or charge diversion.—
+
+Establishment
+
+Duties
+
+Members
+
+Report to congress
+
+Failure to comply
+
+“In this Act [probably means “this section”, amending this section, repealing section 1413 of this title and enacting provisions set out as notes under this section and section 609 of this title ]:
+
+9–1–1 fee or charge
+
+9–1–1 services
+
+Commission
+
+Diversion
+
+State or taxing jurisdiction
+
+## Source Credit
+
+*([Pub. L. 106–81, § 6](https://www.govinfo.gov/link/plaw/106/public/81), as added [Pub. L. 110–283, title I, § 101(2)](https://www.govinfo.gov/link/plaw/110/public/283), July 23, 2008, [122 Stat. 2620](https://www.govinfo.gov/link/statute/122/2620); amended [Pub. L. 110–368, § 1(a)](https://www.govinfo.gov/link/plaw/110/public/368), Oct. 8, 2008, [122 Stat. 4027](https://www.govinfo.gov/link/statute/122/4027); [Pub. L. 116–260, div. FF, title IX, § 902(c)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3206](https://www.govinfo.gov/link/statute/134/3206).)*

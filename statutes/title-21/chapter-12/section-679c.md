@@ -3,9 +3,10 @@ title: "Section 679c - Expansion of Food Safety Inspection Service activities"
 usc_title: 21
 usc_section: "679c"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 679c"
-generated_at: "2026-03-30T02:54:54.289Z"
+generated_at: "2026-11-23T20:26:27.808Z"
+status: "active"
 ---
 
 # § 679c. Expansion of Food Safety Inspection Service activities
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:54.289Z"
   - **(3)** strengthen the ability of the Service to collaborate with relevant agencies within the Department of Agriculture and with other entities in the Federal Government, the States, and Indian tribes (as defined in section 5304(e) of title 25 ) through the sharing of information and technology; and
   - **(4)** otherwise expand the capacity of the Service to protect against the threat of bioterrorism.
 - **(b)** There is authorized to be appropriated to carry out this section, $15,000,000 for fiscal year 2002, and such sums as may be necessary for each subsequent fiscal year.
+
+## Source Credit
+
+*([Pub. L. 107–188, title III, § 332](https://www.govinfo.gov/link/plaw/107/public/188), June 12, 2002, [116 Stat. 679](https://www.govinfo.gov/link/statute/116/679).)*

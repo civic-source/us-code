@@ -3,12 +3,17 @@ title: "Section 1803 - Financial assistance to Government of Northern Mariana Is
 usc_title: 48
 usc_section: "1803"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1803"
-generated_at: "2026-03-30T02:56:14.592Z"
+generated_at: "2026-11-23T20:27:28.070Z"
+status: "active"
 ---
 
 # § 1803. Financial assistance to Government of Northern Mariana Islands
 
 Pursuant to section 701 of the foregoing Covenant, enactment of this section shall constitute a commitment and pledge of the full faith and credit of the United States for the payment of $228 million at guaranteed annual amounts of direct grant assistance for the Government of the Northern Mariana Islands for an additional period of seven fiscal years after the expiration of the initial seven-year period specified in section 702 of said Covenant, which assistance shall be provided according to the schedule of payments contained in the Agreement of the Special Representatives on Future United States Financial Assistance for the Government of the Northern Mariana Islands, executed July 10, 1985 , between the special representative of the President of the United States and the special representatives of the Governor of the Northern Mariana Islands. The islands of Rota and Tinian shall each receive no less than a ⅛ share and the island of Saipan shall receive no less than a ¼ share of annualized capital improvement project funds, which shall be no less than 80 per centum of the capital development funds identified in the schedule of payments in paragraph 2 of part II of the Agreement of the Special Representatives. Funds shall be granted according to such regulations as are applicable to such grants.
 
+
+## Source Credit
+
+*([Pub. L. 94–241, § 3](https://www.govinfo.gov/link/plaw/94/public/241), as added [Pub. L. 99–396, § 10](https://www.govinfo.gov/link/plaw/99/public/396), Aug. 27, 1986, [100 Stat. 840](https://www.govinfo.gov/link/statute/100/840).)*

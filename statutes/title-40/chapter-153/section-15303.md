@@ -3,9 +3,10 @@ title: "Section 15303 - Functions"
 usc_title: 40
 usc_section: "15303"
 chapter: 153
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 15303"
-generated_at: "2026-03-30T02:55:43.388Z"
+generated_at: "2026-11-23T20:26:56.700Z"
+status: "active"
 ---
 
 # § 15303. Functions
@@ -22,3 +23,7 @@ A Commission shall—
   - **(6)** cooperate with and assist State governments with the preparation of economic and infrastructure development plans and programs for participating States;
   - **(7)** formulate and recommend to the Governors and legislatures of States that participate in the Commission forms of interstate cooperation and, where appropriate, international cooperation; and
   - **(8)** work with State and local agencies in developing appropriate model legislation to enhance local and regional economic development.
+
+## Source Credit
+
+*(Added [Pub. L. 110–234, title XIV, § 14217(a)(2)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1470](https://www.govinfo.gov/link/statute/122/1470), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIV, § 14217(a)(2), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2232.)*

@@ -3,9 +3,10 @@ title: "Section 288h - Defense of certain constitutional powers"
 usc_title: 2
 usc_section: "288h"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 288h"
-generated_at: "2026-03-30T02:53:04.795Z"
+generated_at: "2026-11-23T20:25:28.869Z"
+status: "active"
 ---
 
 # § 288h. Defense of certain constitutional powers
@@ -19,3 +20,7 @@ In performing any function under this chapter, the Counsel shall defend vigorous
   - **(5)** the constitutional power of Congress to make all laws as shall be necessary and proper for carrying into execution the constitutional powers of Congress and all other powers vested by the Constitution in the Government of the United States, or in any department or office thereof;
   - **(6)** all other constitutional powers and responsibilities of the Senate or of Congress; and
   - **(7)** the constitutionality of Acts and joint resolutions of the Congress.
+
+## Source Credit
+
+*([Pub. L. 95–521, title VII, § 709](https://www.govinfo.gov/link/plaw/95/public/521), Oct. 26, 1978, [92 Stat. 1881](https://www.govinfo.gov/link/statute/92/1881).)*

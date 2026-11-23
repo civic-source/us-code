@@ -3,9 +3,10 @@ title: "Section 11383 - Eligible activities"
 usc_title: 42
 usc_section: "11383"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11383"
-generated_at: "2026-03-30T02:56:11.400Z"
+generated_at: "2026-11-23T20:27:23.301Z"
+status: "active"
 ---
 
 # § 11383. Eligible activities
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:56:11.400Z"
 - **(e)** The Secretary may allow reasonable costs associated with staff training to be included as part of the activities described in subsection (a).
 - **(f)** Any project that receives assistance under subsection (a) and that provides project-based or sponsor-based permanent housing for homeless individuals or families with a disability, including projects that meet the requirements of subsection (a) and subsection (d)(2)(A) of section 11386b of this title may also serve individuals who had previously met the requirements for such project prior to moving into a different permanent housing project.
 - **(g)** Provision of permanent housing rental assistance shall be administered by a State, unit of general local government, private nonprofit organization, or public housing agency.
+
+## Source Credit
+
+*([Pub. L. 100–77, title IV, § 423](https://www.govinfo.gov/link/plaw/100/public/77), as added [Pub. L. 111–22, div. B, title III, § 1302](https://www.govinfo.gov/link/plaw/111/public/22), May 20, 2009, [123 Stat. 1684](https://www.govinfo.gov/link/statute/123/1684); amended [Pub. L. 114–94, div. G, title LXXIX, § 79001](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1792](https://www.govinfo.gov/link/statute/129/1792); [Pub. L. 117–103, div. W, title VI, § 605(a)(2)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 886](https://www.govinfo.gov/link/statute/136/886); [Pub. L. 117–263, div. E, title LVII, § 5707](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3419](https://www.govinfo.gov/link/statute/136/3419).)*

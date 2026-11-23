@@ -3,9 +3,10 @@ title: "Section 9709 - Coordinated education efforts"
 usc_title: 20
 usc_section: "9709"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 9709"
-generated_at: "2026-03-30T02:54:48.232Z"
+generated_at: "2026-11-23T20:26:15.007Z"
+status: "active"
 ---
 
 # § 9709. Coordinated education efforts
@@ -22,3 +23,9 @@ generated_at: "2026-03-30T02:54:48.232Z"
   - **(1)** Not later than 2 years after August 14, 2008 , the Financial Literacy and Education Commission shall submit a report to the Committee on Banking, Housing, and Urban Affairs and the Committee on Health Education, Labor, and Pensions of the Senate and the Committee on Financial Services and the Committee on Education and Labor of the House of Representatives on the state of financial education among students at covered educational institutions.
   - **(2)** The report required by this subsection shall include a description of progress made in enhancing financial education with respect to student understanding of financial aid, including the programs and evaluations required by this section.
   - **(3)** The Secretary shall, upon request, provide testimony before the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives concerning the report required by this subsection.
+
+“As used in this subtitle [subtitle D (§§ 1041, 1042) of title X of Pub. L. 110–315 , enacting this section]—
+
+## Source Credit
+
+*([Pub. L. 110–315, title X, § 1042](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3489](https://www.govinfo.gov/link/statute/122/3489).)*

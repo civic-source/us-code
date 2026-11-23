@@ -3,9 +3,10 @@ title: "Section 11021 - Material safety data sheets"
 usc_title: 42
 usc_section: "11021"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11021"
-generated_at: "2026-03-30T02:56:11.393Z"
+generated_at: "2026-11-23T20:27:23.266Z"
+status: "active"
 ---
 
 # § 11021. Material safety data sheets
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:56:11.393Z"
   - **(3)** Any substance to the extent it is used for personal, family, or household purposes, or is present in the same form and concentration as a product packaged for distribution and use by the general public.
   - **(4)** Any substance to the extent it is used in a research laboratory or a hospital or other medical facility under the direct supervision of a technically qualified individual.
   - **(5)** Any substance to the extent it is used in routine agricultural operations or is a fertilizer held for sale by a retailer to the ultimate customer.
+
+## Source Credit
+
+*([Pub. L. 99–499, title III, § 311](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1736](https://www.govinfo.gov/link/statute/100/1736).)*

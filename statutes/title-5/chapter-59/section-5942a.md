@@ -3,9 +3,10 @@ title: "Section 5942a - Separate maintenance allowance for duty at Johnston Isla
 usc_title: 5
 usc_section: "5942a"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 5942a"
-generated_at: "2026-03-30T02:52:56.028Z"
+generated_at: "2026-11-23T20:25:31.994Z"
+status: "active"
 ---
 
 # § 5942a. Separate maintenance allowance for duty at Johnston Island
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:52:56.028Z"
     - **(B)** for the convenience of the Federal Government; and
   - **(2)** the allowance is needed to help the employee meet the additional expenses involved in maintaining the employee’s spouse or dependents, or both, at such other location rather than at the post.
 - **(b)** The regulations prescribed by the President shall include provisions for determining the rate at which an allowance under this section shall be paid.
+
+## Source Credit
+
+*(Added [Pub. L. 102–190, div. A, title X, § 1092(a)(1)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1486](https://www.govinfo.gov/link/statute/105/1486).)*

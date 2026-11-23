@@ -3,9 +3,10 @@ title: "Section 563b - Acquisition baseline establishment and reports"
 usc_title: 6
 usc_section: "563b"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 563b"
-generated_at: "2026-03-30T02:53:09.469Z"
+generated_at: "2026-11-23T20:25:34.794Z"
+status: "active"
 ---
 
 # § 563b. Acquisition baseline establishment and reports
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:53:09.469Z"
       - **(iii)** there is a failure to meet any performance milestone that directly impacts security effectiveness;
     - **(B)** the cause for such excessive costs, delay, or failure; and
     - **(C)** a plan for corrective action.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XVI, § 1613](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 113–245, § 3(a)](https://www.govinfo.gov/link/plaw/113/public/245), Dec. 18, 2014, [128 Stat. 2874](https://www.govinfo.gov/link/statute/128/2874).)*

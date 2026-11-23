@@ -3,9 +3,10 @@ title: "Section 3952 - Protection under installment contracts for purchase or le
 usc_title: 50
 usc_section: "3952"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3952"
-generated_at: "2026-03-30T02:56:26.263Z"
+generated_at: "2026-11-23T20:27:31.056Z"
+status: "active"
 ---
 
 # § 3952. Protection under installment contracts for purchase or lease
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:26.263Z"
   - **(1)** may order repayment to the servicemember of all or part of the prior installments or deposits as a condition of terminating the contract and resuming possession of the property;
   - **(2)** may, on its own motion, and shall on application by a servicemember when the servicemember’s ability to comply with the contract is materially affected by military service, stay the proceedings for a period of time as, in the opinion of the court, justice and equity require; or
   - **(3)** may make other disposition as is equitable to preserve the interests of all parties.
+
+## Source Credit
+
+*(Oct. 17, 1940, ch. 888, title III, § 302, as added [Pub. L. 108–189, § 1](https://www.govinfo.gov/link/plaw/108/public/189), Dec. 19, 2003, [117 Stat. 2846](https://www.govinfo.gov/link/statute/117/2846); amended [Pub. L. 111–275, title III, § 303(b)(3)](https://www.govinfo.gov/link/plaw/111/public/275), Oct. 13, 2010, [124 Stat. 2878](https://www.govinfo.gov/link/statute/124/2878).)*

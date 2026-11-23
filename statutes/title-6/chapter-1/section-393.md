@@ -3,9 +3,10 @@ title: "Section 393 - Special streamlined acquisition authority"
 usc_title: 6
 usc_section: "393"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 393"
-generated_at: "2026-03-30T02:53:09.462Z"
+generated_at: "2026-11-23T20:25:34.728Z"
+status: "active"
 ---
 
 # § 393. Special streamlined acquisition authority
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:53:09.462Z"
   - **(3)** The number of employees designated by each executive agency under subsection (b)(1).
   - **(4)** An assessment of the extent to which the Department has implemented subsections (b)(2) and (b)(3) to monitor the use of procurement authority by employees designated under subsection (b)(1).
   - **(5)** Any recommendations of the Comptroller General for improving the effectiveness of the implementation of the provisions of this section.
+
+## Source Credit
+
+*([Pub. L. 107–296, title VIII, § 833](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2225](https://www.govinfo.gov/link/statute/116/2225).)*

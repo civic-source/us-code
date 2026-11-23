@@ -3,9 +3,10 @@ title: "Section 31132 - Definitions"
 usc_title: 49
 usc_section: "31132"
 chapter: 311
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 31132"
-generated_at: "2026-03-30T02:56:19.358Z"
+generated_at: "2026-11-23T20:27:34.947Z"
+status: "active"
 ---
 
 # § 31132. Definitions
@@ -33,3 +34,22 @@ In this subchapter—
   - **(9)** “State law” includes a law enacted by a political subdivision of a State.
   - **(10)** “State regulation” includes a regulation prescribed by a political subdivision of a State.
   - **(11)** “United States” means the States of the United States and the District of Columbia.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 31132 | 49 App.:2503. | Oct. 30, 1984 , Pub. L. 98–554, § 204 , 98 Stat. 2833 . |
+
+
+Historical and Revision Notes
+
+31132
+
+Oct. 30, 1984
+
+Pub. L. 98–554, § 204
+
+98 Stat. 2833
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1000](https://www.govinfo.gov/link/statute/108/1000); [Pub. L. 104–88, title I, § 104(f)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 919](https://www.govinfo.gov/link/statute/109/919); [Pub. L. 105–178, title IV, § 4008(a)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 404](https://www.govinfo.gov/link/statute/112/404); [Pub. L. 109–59, title IV, § 4116(c)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1728](https://www.govinfo.gov/link/statute/119/1728).)*

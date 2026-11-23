@@ -3,9 +3,10 @@ title: "Section 40905 - Program to expand distance learning in rural underserved
 usc_title: 51
 usc_section: "40905"
 chapter: 409
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 40905"
-generated_at: "2026-03-30T02:56:28.706Z"
+generated_at: "2026-11-23T20:27:37.488Z"
+status: "active"
 ---
 
 # § 40905. Program to expand distance learning in rural underserved areas
@@ -16,3 +17,28 @@ generated_at: "2026-03-30T02:56:28.706Z"
   - **(2)** that build and maintain video conference and exhibit capacity;
   - **(3)** that travel directly to rural communities and serve low-income populations; and
   - **(4)** with a special emphasis on increasing the number of women and minorities in the science and engineering professions.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 40905 | 42 U.S.C. 16791 . | Pub. L. 109–155, title VI, § 612 , Dec. 30, 2005 , 119 Stat. 2932 . |
+
+
+In General
+
+Priorities
+
+Historical and Revision Notes
+
+40905
+
+42 U.S.C. 16791
+
+Pub. L. 109–155, title VI, § 612
+
+Dec. 30, 2005
+
+119 Stat. 2932
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3393](https://www.govinfo.gov/link/statute/124/3393).)*

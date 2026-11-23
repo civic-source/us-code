@@ -3,9 +3,10 @@ title: "Section 31306 - Alcohol and controlled substances testing"
 usc_title: 49
 usc_section: "31306"
 chapter: 313
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 31306"
-generated_at: "2026-03-30T02:56:19.360Z"
+generated_at: "2026-11-23T20:27:34.965Z"
+status: "active"
 ---
 
 # § 31306. Alcohol and controlled substances testing
@@ -46,3 +47,88 @@ generated_at: "2026-03-30T02:56:19.360Z"
   - **(2)** shall consider applicable laws and regulations of foreign countries.
 - **(i)** This section does not prevent the Secretary of Transportation from continuing in effect, amending, or further supplementing a regulation prescribed before October 28, 1991 , governing the use of alcohol or a controlled substance by commercial motor vehicle employees.
 - **(j)** This section does not supersede a penalty applicable to an operator of a commercial motor vehicle under this chapter or another law.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 31306(a) | 49 App.:2717(g). | Oct. 27, 1986 , Pub. L. 99–570 , 100 Stat. 3207–170 , § 12020; added Oct. 28, 1991 , Pub. L. 102–143, § 5(a)(1) , 105 Stat. 959 . |
+| 31306(b)(1) | 49 App.:2717(a). |  |
+| 31306(b)(2) | 49 App.:2717(b)(1). |  |
+| 31306(c) | 49 App.:2717(d). |  |
+| 31306(d) | 49 App.:2717(b)(2). |  |
+| 31306(e) | 49 App.:2717(c). |  |
+| 31306(f) | 49 App.:2717(f)(2). |  |
+| 31306(g) | 49 App.:2717(e)(1). |  |
+| 31306(h) | 49 App.:2717(e)(3). |  |
+| 31306(i) | 49 App.:2717(e)(2). |  |
+| 31306(j) | 49 App.:2717(f)(1). |  |
+
+
+Definition
+
+Testing Program for Operators of Commercial Motor Vehicles
+
+Testing and Laboratory Requirements
+
+Testing as Part of Medical Examination
+
+Rehabilitation
+
+Sanctions
+
+Effect on State and Local Government Regulations
+
+International Obligations and Foreign Laws
+
+Other Regulations Allowed
+
+Application of Penalties
+
+Historical and Revision Notes
+
+31306(a)
+
+Oct. 27, 1986
+
+Pub. L. 99–570
+
+100 Stat. 3207–170
+
+Oct. 28, 1991
+
+Pub. L. 102–143, § 5(a)(1)
+
+105 Stat. 959
+
+31306(b)(1)
+
+31306(b)(2)
+
+31306(c)
+
+31306(d)
+
+31306(e)
+
+31306(f)
+
+31306(g)
+
+31306(h)
+
+31306(i)
+
+31306(j)
+
+In General
+
+Requirement
+
+In General
+
+Study Factors
+
+Report
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1017](https://www.govinfo.gov/link/statute/108/1017); [Pub. L. 104–59, title III, § 342(c)](https://www.govinfo.gov/link/plaw/104/public/59), Nov. 28, 1995, [109 Stat. 609](https://www.govinfo.gov/link/statute/109/609); [Pub. L. 112–141, div. C, title II, § 32402(a)(1)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 795](https://www.govinfo.gov/link/statute/126/795); [Pub. L. 114–94, div. A, title V, § 5402(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1547](https://www.govinfo.gov/link/statute/129/1547).)*

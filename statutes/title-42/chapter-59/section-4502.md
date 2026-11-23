@@ -3,9 +3,10 @@ title: "Section 4502 - Congressional findings and declaration of policy"
 usc_title: 42
 usc_section: "4502"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4502"
-generated_at: "2026-03-30T02:56:11.206Z"
+generated_at: "2026-11-23T20:27:22.394Z"
+status: "active"
 ---
 
 # § 4502. Congressional findings and declaration of policy
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.206Z"
   - **(6)** refine the role of the Federal Government in revitalizing existing communities and encouraging planned, large-scale urban and new community development;
   - **(7)** strengthen the capacity of general governmental institutions to contribute to balanced urban growth and stabilization; and
   - **(8)** increase coordination among Federal programs that seek to promote job opportunities and skills, decent and affordable housing, public safety, access to health care, educational opportunities, and fiscal soundness for urban communities and their residents.
+
+## Source Credit
+
+*([Pub. L. 91–609, title VII, § 702](https://www.govinfo.gov/link/plaw/91/public/609), Dec. 31, 1970, [84 Stat. 1791](https://www.govinfo.gov/link/statute/84/1791); [Pub. L. 95–128, title VI, § 601(b)](https://www.govinfo.gov/link/plaw/95/public/128), Oct. 12, 1977, [91 Stat. 1143](https://www.govinfo.gov/link/statute/91/1143); [Pub. L. 98–479, title II, § 204(i)](https://www.govinfo.gov/link/plaw/98/public/479), Oct. 17, 1984, [98 Stat. 2233](https://www.govinfo.gov/link/statute/98/2233); [Pub. L. 102–550, title IX, § 921(1)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3883](https://www.govinfo.gov/link/statute/106/3883).)*

@@ -3,9 +3,10 @@ title: "Section 33115 - Civil penalties and enforcement"
 usc_title: 49
 usc_section: "33115"
 chapter: 331
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 33115"
-generated_at: "2026-03-30T02:56:19.369Z"
+generated_at: "2026-11-23T20:27:35.030Z"
+status: "active"
 ---
 
 # § 33115. Civil penalties and enforcement
@@ -32,3 +33,69 @@ generated_at: "2026-03-30T02:56:19.369Z"
     - **(B)** The failure of the Secretary to comply with subparagraph (A) of this paragraph does not prevent a court from granting appropriate relief.
 - **(d)** In a trial for criminal contempt for violating an injunction or restraining order issued under subsection (c) of this section, the violation of which is also a violation of this chapter, the defendant may demand a jury trial. The defendant shall be tried as provided in rule 42(b) of the Federal Rules of Criminal Procedure (18 App. U.S.C.).
 - **(e)** A civil action under subsection (a) or (c) of this section may be brought in the judicial district in which the violation occurred or the defendant resides, is found, or transacts business. Process in the action may be served in any other judicial district in which the defendant resides or is found. A subpena for a witness in the action may be served in any judicial district.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 33115(a) | 15:2028(a). | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , § 611; added Oct. 25, 1984 , Pub. L. 98–547, § 101(a) , 98 Stat. 2762 ; Oct. 25, 1992 , Pub. L. 102–519, § 306(a) , 106 Stat. 3397 . |
+| 33115(b) | 15:2027(c)(2). | Oct. 20, 1972 , Pub. L. 92–513, § 86 Stat. 947, § 610(c)(2); added Oct. 25, 1992 , Pub. L. 102–519 , §§ 305(b), 306(a), 106 Stat. 3396 , 3397. |
+| 33115(c)(1) | 15:2028(b)(1) (1st sentence). |  |
+| 33115(c)(2) | 15:2028(b)(1) (2d, last sentences). |  |
+| 33115(d) | 15:2028(b)(2). |  |
+| 33115(e) | 15:2028(b)(3), (4). |  |
+
+
+General Penalty and Civil Actions To Collect
+
+Chop Shop Penalty and Enforcement
+
+Civil Actions To Enforce
+
+Jury Trial Demand
+
+Venue
+
+Historical and Revision Notes
+
+33115(a)
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+Oct. 25, 1984
+
+Pub. L. 98–547, § 101(a)
+
+98 Stat. 2762
+
+Oct. 25, 1992
+
+Pub. L. 102–519, § 306(a)
+
+106 Stat. 3397
+
+33115(b)
+
+Oct. 20, 1972
+
+Pub. L. 92–513, § 86
+
+Oct. 25, 1992
+
+Pub. L. 102–519
+
+106 Stat. 3396
+
+33115(c)(1)
+
+33115(c)(2)
+
+33115(d)
+
+33115(e)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1091](https://www.govinfo.gov/link/statute/108/1091).)*

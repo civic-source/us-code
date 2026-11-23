@@ -3,9 +3,10 @@ title: "Section 6333 - Receipt and use of transferred leave"
 usc_title: 5
 usc_section: "6333"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 6333"
-generated_at: "2026-03-30T02:52:56.032Z"
+generated_at: "2026-11-23T20:25:32.036Z"
+status: "active"
 ---
 
 # § 6333. Receipt and use of transferred leave
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:52:56.032Z"
 - **(c)** Transferred annual leave—
   - **(1)** may accumulate without regard to any limitation under section 6304; and
   - **(2)** may be substituted retroactively for any period of leave without pay, or used to liquidate an indebtedness for any period of advanced leave, which began on or after a date fixed by the employing agency of the employee as the beginning of the medical emergency involved.
+
+## Source Credit
+
+*(Added [Pub. L. 100–566, § 2(a)](https://www.govinfo.gov/link/plaw/100/public/566), Oct. 31, 1988, [102 Stat. 2834](https://www.govinfo.gov/link/statute/102/2834); amended [Pub. L. 110–181, div. A, title XVI, § 1675(a)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 484](https://www.govinfo.gov/link/statute/122/484).)*

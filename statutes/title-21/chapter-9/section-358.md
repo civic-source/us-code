@@ -3,9 +3,10 @@ title: "Section 358 - Authority to designate official names"
 usc_title: 21
 usc_section: "358"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 358"
-generated_at: "2026-03-30T02:54:54.244Z"
+generated_at: "2026-11-23T20:26:27.622Z"
+status: "active"
 ---
 
 # § 358. Authority to designate official names
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:54.244Z"
 - **(c)** Whenever he determines after any such review that (1) any such official name is unduly complex or is not useful for any other reason, (2) two or more official names have been applied to a single drug or device, or to two or more drugs which are identical in chemical structure and pharmacological action and which are substantially identical in strength, quality, and purity, or to two or more devices which are substantially equivalent in design and purpose or (3) no official name has been applied to a medically useful drug or device, he shall transmit in writing to the compiler of each official compendium in which that drug or drugs or device are identified and recognized his request for the recommendation of a single official name for such drug or drugs or device which will have usefulness and simplicity. Whenever such a single official name has not been recommended within one hundred and eighty days after such request, or the Secretary determines that any name so recommended is not useful for any reason, he shall designate a single official name for such drug or drugs or device. Whenever he determines that the name so recommended is useful, he shall designate that name as the official name of such drug or drugs or device. Such designation shall be made as a regulation upon public notice and in accordance with the procedure set forth in section 553 of title 5 .
 - **(d)** After each such review, and at such other times as the Secretary may determine to be necessary or desirable, the Secretary shall cause to be compiled, published, and publicly distributed a list which shall list all revised official names of drugs or devices designated under this section and shall contain such descriptive and explanatory matter as the Secretary may determine to be required for the effective use of those names.
 - **(e)** Upon a request in writing by any compiler of an official compendium that the Secretary exercise the authority granted to him under subsection (a), he shall upon public notice and in accordance with the procedure set forth in section 553 of title 5 designate the official name of the drug or device for which the request is made.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 508, as added [Pub. L. 87–781, title I, § 111(a)](https://www.govinfo.gov/link/plaw/87/public/781), Oct. 10, 1962, [76 Stat. 789](https://www.govinfo.gov/link/statute/76/789); amended [Pub. L. 94–295, § 5(b)](https://www.govinfo.gov/link/plaw/94/public/295), May 28, 1976, [90 Stat. 581](https://www.govinfo.gov/link/statute/90/581); [Pub. L. 103–80, § 3(q)](https://www.govinfo.gov/link/plaw/103/public/80), Aug. 13, 1993, [107 Stat. 777](https://www.govinfo.gov/link/statute/107/777).)*

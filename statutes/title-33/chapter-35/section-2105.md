@@ -3,9 +3,10 @@ title: "Section 2105 - Definitions"
 usc_title: 33
 usc_section: "2105"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2105"
-generated_at: "2026-03-30T02:55:41.112Z"
+generated_at: "2026-11-23T20:26:54.114Z"
+status: "active"
 ---
 
 # § 2105. Definitions
@@ -15,3 +16,7 @@ For purposes of this chapter—
   - **(1)** The term “artificial reef” means a structure which is constructed or placed in waters covered under this chapter for the purpose of enhancing fishery resources and commercial and recreational fishing opportunities.
   - **(2)** The term “State” means a State of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, American Samoa, Guam, Johnston Island, Midway Island, and Wake Island.
   - **(3)** The term “waters covered under this chapter” means the navigable waters of the United States and the waters superjacent to the Outer Continental Shelf as defined in section 1331 of title 43 , to the extent such waters exist in or are adjacent to any State.
+
+## Source Credit
+
+*([Pub. L. 98–623, title II, § 206](https://www.govinfo.gov/link/plaw/98/public/623), Nov. 8, 1984, [98 Stat. 3397](https://www.govinfo.gov/link/statute/98/3397).)*

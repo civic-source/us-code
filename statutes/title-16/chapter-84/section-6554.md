@@ -3,9 +3,10 @@ title: "Section 6554 - Applied silvicultural assessments"
 usc_title: 16
 usc_section: "6554"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6554"
-generated_at: "2026-03-30T02:54:23.062Z"
+generated_at: "2026-11-23T20:26:20.804Z"
+status: "active"
 ---
 
 # § 6554. Applied silvicultural assessments
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:23.062Z"
     - **(B)** shall be subject to the extraordinary circumstances procedures established by the Secretary pursuant to section 1508.4 of title 40, Code of Federal Regulations.
   - **(3)** The total number of acres categorically excluded under paragraph (1) shall not exceed 250,000 acres.
   - **(4)** In accordance with paragraph (1), the Secretary shall not be required to make any findings as to whether an applied silvicultural assessment project, either individually or cumulatively, has a significant effect on the environment.
+
+## Source Credit
+
+*([Pub. L. 108–148, title IV, § 404](https://www.govinfo.gov/link/plaw/108/public/148), Dec. 3, 2003, [117 Stat. 1910](https://www.govinfo.gov/link/statute/117/1910).)*

@@ -3,9 +3,10 @@ title: "Section 1222 - General study and inventory of estuaries and their natura
 usc_title: 16
 usc_section: "1222"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1222"
-generated_at: "2026-03-30T02:54:22.944Z"
+generated_at: "2026-11-23T20:26:20.409Z"
+status: "active"
 ---
 
 # § 1222. General study and inventory of estuaries and their natural resources
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:22.944Z"
 - **(b)** The study shall focus attention on whether any land or water area within an estuary and the Great Lakes should be acquired or administered by the Secretary or by a State or local subdivision thereof, or whether such land or water area may be protected adequately through local, State, or Federal laws or other methods without Federal land acquisition or administration.
 - **(c)** The Secretary of the Interior shall, not later than January 30, 1970 , submit to the Congress through the President a report of the study conducted pursuant to this section, together with any legislative recommendations, including recommendations on the feasibility and desirability of establishing a nationwide system of estuarine areas, the terms, conditions, and authorities to govern such system, and the designation and acquisition of any specific estuarine areas of national significance which he believes should be acquired by the United States. No lands within such area may be acquired until authorized by subsequent Act of Congress. Recommendations made by the Secretary for the acquisition of any estuarine area shall be developed in consultation with the States, municipalities, and other interested Federal agencies. Each such recommendation shall be accompanied by (1) expressions of any views which the interested States, municipalities, and other Federal agencies and river basin commissions may submit within sixty days after having been notified of the proposed recommendations, (2) a statement setting forth the probable effect of the recommended action on any comprehensive river basin plan that may have been adopted by Congress or that is serving as a guide for coordinating Federal programs in the basin wherein such area is located, (3) in the absence of such a plan, a statement indicating the probable effect of the recommended action on alternative beneficial users of the resources of the proposed estuarine area, and (4) a discussion of the major economic, social, and ecological trends occurring in such area.
 - **(d)** There is authorized to be appropriated not to exceed $250,000 for fiscal year 1969 and $250,000 for fiscal year 1970 to carry out the provisions of this section. Such sums shall be available until expended.
+
+## Source Credit
+
+*([Pub. L. 90–454, § 2](https://www.govinfo.gov/link/plaw/90/public/454), Aug. 3, 1968, [82 Stat. 626](https://www.govinfo.gov/link/statute/82/626).)*

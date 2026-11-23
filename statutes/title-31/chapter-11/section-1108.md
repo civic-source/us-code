@@ -3,9 +3,10 @@ title: "Section 1108 - Preparation and submission of appropriations requests to 
 usc_title: 31
 usc_section: "1108"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 1108"
-generated_at: "2026-03-30T02:55:34.049Z"
+generated_at: "2026-11-23T20:26:51.704Z"
+status: "active"
 ---
 
 # § 1108. Preparation and submission of appropriations requests to the President
@@ -23,3 +24,143 @@ generated_at: "2026-03-30T02:55:34.049Z"
 - **(e)** Except as provided in subsection (f) of this section, an officer or employee of an agency (as defined in section 1101 of this title ) may submit to Congress or a committee of Congress an appropriations estimate or request, a request for an increase in that estimate or request, or a recommendation on meeting the financial needs of the Government only when requested by either House of Congress.
 - **(f)** The Interstate Commerce Commission shall submit to Congress copies of budget estimates, requests, and information (including personnel needs), legislative recommendations, prepared testimony for congressional hearings, and comments on legislation at the same time they are sent to the President or the Office of Management and Budget. An officer of an agency may not impose conditions on or impair communication by the Commission with Congress, or a committee or member of Congress, about the information.
 - **(g)** Amounts available under law are available for field examinations of appropriation estimates. The use of the amounts is subject only to regulations prescribed by the appropriate standing committees of Congress.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1108(a) | (no source). |  |
+| 1108(b)(1) | 31:16(last sentence related to appropriations requests). | June 10, 1921, ch. 18, § 207 (last sentence related to appropriations requests), 42 Stat. 22 ; restated Sept. 12, 1950, ch. 946, § 102(e) , 64 Stat. 833 ; Reorg. Plan No. 2 of 1970, eff. July 1, 1970 , § 102(a), 84 Stat. 2085 . |
+|  | 31:22, 23. | June 10, 1921, ch. 18 , §§ 214, 215, 42 Stat. 23 ; restated Sept. 12, 1950, ch. 946, § 102(f) , (g), 64 Stat. 833 ; Reorg. Plan No. 2 of 1970, eff. July 1, 1970 , § 102(a), 84 Stat. 2085 . |
+|  | 31:24(a). | June 10, 1921, ch. 18, § 216(a) , 42 Stat. 23 ; restated Sept. 12, 1950, ch. 946, § 102(h) , 64 Stat. 834 ; Aug. 1, 1956, ch. 814, § 1(b) , 70 Stat. 782 ; Reorg. Plan No. 2 of 1970, eff. July 1, 1970 , § 102(a), 84 Stat. 2085 . |
+|  | 31:24(b), (c). | June 10, 1921, ch. 18 , 42 Stat. 20 , § 216(b), (c); added Aug. 1, 1956, ch. 814, § 1(b) , 70 Stat. 782 . |
+| 1108(b)(2) | 31:581b. | Sept. 12, 1950, ch. 946, § 201 , 64 Stat. 838 ; Reorg. Plan. No. 2 of 1970, eff. July 1, 1970 , § 102(a), 84 Stat. 2085 . |
+| 1108(c) | 31:200(b). | Aug. 26, 1954, ch. 935, § 1311(b) , 68 Stat. 830 ; restated July 8, 1959 , Pub. L. 86–79, § 210(a) , 73 Stat. 167 ; Reorg. Plan No. 2 of 1970, eff. July 1, 1970 , § 102(a), 84 Stat. 2085 . |
+|  | 31:200(c). | Aug. 26, 1954, ch. 935, § 1311(c) , 68 Stat. 831 . |
+| 1108(d) | 31:11(i)(last sentence). | June 10, 1921, ch. 18 , 42 Stat. 20 , § 201(i)(last sentence); added July 12, 1974 , Pub. L. 93–344, § 601 , 88 Stat. 323 . |
+| 1108(e) | 31:15. | June 10, 1921, ch. 18, § 206 , 42 Stat. 21 . |
+| 1108(f) | 31:11(j). | June 10, 1921, ch. 18 , 42 Stat. 20 , § 201(j); added Feb. 5, 1976 , Pub. L. 94–210, § 311 , 90 Stat. 60 . |
+| 1108(g) | 31:22a. | Aug. 7, 1953, ch. 340, § 1314 , 67 Stat. 438 . |
+
+
+Historical and Revision Notes
+
+1108(a)
+
+1108(b)(1)
+
+June 10, 1921, ch. 18, § 207
+
+42 Stat. 22
+
+Sept. 12, 1950, ch. 946, § 102(e)
+
+64 Stat. 833
+
+July 1, 1970
+
+84 Stat. 2085
+
+June 10, 1921, ch. 18
+
+42 Stat. 23
+
+Sept. 12, 1950, ch. 946, § 102(f)
+
+64 Stat. 833
+
+July 1, 1970
+
+84 Stat. 2085
+
+June 10, 1921, ch. 18, § 216(a)
+
+42 Stat. 23
+
+Sept. 12, 1950, ch. 946, § 102(h)
+
+64 Stat. 834
+
+Aug. 1, 1956, ch. 814, § 1(b)
+
+70 Stat. 782
+
+July 1, 1970
+
+84 Stat. 2085
+
+June 10, 1921, ch. 18
+
+42 Stat. 20
+
+Aug. 1, 1956, ch. 814, § 1(b)
+
+70 Stat. 782
+
+1108(b)(2)
+
+Sept. 12, 1950, ch. 946, § 201
+
+64 Stat. 838
+
+July 1, 1970
+
+84 Stat. 2085
+
+1108(c)
+
+Aug. 26, 1954, ch. 935, § 1311(b)
+
+68 Stat. 830
+
+July 8, 1959
+
+Pub. L. 86–79, § 210(a)
+
+73 Stat. 167
+
+July 1, 1970
+
+84 Stat. 2085
+
+Aug. 26, 1954, ch. 935, § 1311(c)
+
+68 Stat. 831
+
+1108(d)
+
+June 10, 1921, ch. 18
+
+42 Stat. 20
+
+July 12, 1974
+
+Pub. L. 93–344, § 601
+
+88 Stat. 323
+
+1108(e)
+
+June 10, 1921, ch. 18, § 206
+
+42 Stat. 21
+
+1108(f)
+
+June 10, 1921, ch. 18
+
+42 Stat. 20
+
+Feb. 5, 1976
+
+Pub. L. 94–210, § 311
+
+90 Stat. 60
+
+1108(g)
+
+Aug. 7, 1953, ch. 340, § 1314
+
+67 Stat. 438
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 912](https://www.govinfo.gov/link/statute/96/912).)*

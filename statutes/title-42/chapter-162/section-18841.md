@@ -3,9 +3,10 @@ title: "Section 18841 - Survey, analysis, and report on employment and demograph
 usc_title: 42
 usc_section: "18841"
 chapter: 162
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18841"
-generated_at: "2026-03-30T02:56:11.532Z"
+generated_at: "2026-11-23T20:27:23.835Z"
+status: "active"
 ---
 
 # § 18841. Survey, analysis, and report on employment and demographics in the energy, energy efficiency, and motor vehicle sectors of the United States
@@ -57,3 +58,7 @@ generated_at: "2026-03-30T02:56:11.532Z"
         - **(II)** each territory of the United States;
         - **(III)** the District of Columbia; and
         - **(IV)** each county (or equivalent jurisdiction) in the United States.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title V, § 40553](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1076](https://www.govinfo.gov/link/statute/135/1076).)*

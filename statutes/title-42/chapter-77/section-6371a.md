@@ -3,9 +3,10 @@ title: "Section 6371a - Guidelines"
 usc_title: 42
 usc_section: "6371a"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6371a"
-generated_at: "2026-03-30T02:56:11.258Z"
+generated_at: "2026-11-23T20:27:22.667Z"
+status: "active"
 ---
 
 # § 6371a. Guidelines
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.258Z"
   - **(3)** a description of the types of energy conservation measures deemed appropriate for each region of the Nation.
 - **(c)** Guidelines prescribed under this section may be revised from time to time after notice and opportunity for comment.
 - **(d)** The Secretary shall, by rule prescribe criteria for determining schools and hospitals which are in a class of severe hardship. Such criteria shall take into account climate, fuel costs, fuel availability, ability to provide the non-Federal share of the costs, and such other factors that he deems appropriate.
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 392](https://www.govinfo.gov/link/plaw/94/public/163), as added [Pub. L. 95–619, title III, § 302(a)](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3242](https://www.govinfo.gov/link/statute/92/3242).)*

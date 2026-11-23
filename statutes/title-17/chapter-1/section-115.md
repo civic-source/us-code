@@ -3,9 +3,10 @@ title: "Section 115 - Scope of exclusive rights in nondramatic musical works: Co
 usc_title: 17
 usc_section: "115"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 115"
-generated_at: "2026-03-30T02:54:15.347Z"
+generated_at: "2026-11-23T20:26:06.490Z"
+status: "active"
 ---
 
 # § 115. Scope of exclusive rights in nondramatic musical works: Compulsory license for making and distributing phonorecords
@@ -430,3 +431,565 @@ In the case of nondramatic musical works, the exclusive rights provided by claus
   - **(34)** The term “unclaimed accrued royalties” means accrued royalties eligible for distribution under subsection (d)(3)(J).
   - **(35)** The term “unmatched”, as applied to a musical work (or share thereof), means that the copyright owner of such work (or share thereof) has not been identified or located.
   - **(36)** The term “voluntary license” means a license for use of a musical work (or share thereof) other than a compulsory license obtained under this section.
+
+Availability and Scope of Compulsory License in General.—
+
+Eligibility for compulsory license.—
+
+Conditions for compulsory license
+
+Duplication of sound recording
+
+Musical arrangement
+
+Procedures To Obtain a Compulsory License.—
+
+Phonorecords other than digital phonorecord deliveries
+
+Digital phonorecord deliveries
+
+Record company individual download licenses
+
+Failure to obtain license.—
+
+Phonorecords other than digital phonorecord deliveries
+
+Digital phonorecord deliveries.—
+
+In general
+
+Effect of failure
+
+General Conditions Applicable to Compulsory License.—
+
+Royalty payable under compulsory license.—
+
+Identification requirement
+
+Royalty for phonorecords other than digital phonorecord deliveries
+
+Royalty for digital phonorecord deliveries
+
+Authority to negotiate
+
+Determination of reasonable rates and terms
+
+Schedule of reasonable rates
+
+Additional terms and conditions.—
+
+Voluntary licenses and contractual royalty rates.—
+
+In general
+
+Applicability
+
+Sound recording information
+
+Infringement remedies.—
+
+In general
+
+Other remedies
+
+Liability of sound recording owners
+
+Recording devices and media
+
+Preservation of rights
+
+Exempt transmissions and retransmissions
+
+Distribution by rental, lease, or lending
+
+Payment of royalties and statements of account
+
+Notice of default and termination of compulsory license
+
+Blanket License for Digital Uses, Mechanical Licensing Collective, and Digital Licensee Coordinator.—
+
+Blanket license for digital uses.—
+
+In general
+
+Included activities
+
+Other licenses
+
+Protection against infringement actions
+
+Other requirements and conditions apply
+
+Availability of blanket license.—
+
+Procedure for obtaining license
+
+Blanket license effective date
+
+Mechanical licensing collective.—
+
+In general
+
+Designation of mechanical licensing collective.—
+
+Initial designation
+
+(aa) the identity of and contact information for the mechanical licensing collective; and
+
+(bb) the reasons for the designation.
+
+Periodic review of designation
+
+Closest alternative designation
+
+Authorities and functions.—
+
+In general
+
+Restrictions concerning licensing and administrative activities
+
+Additional administrative activities
+
+Restriction on lobbying
+
+Governance.—
+
+Board of directors
+
+(aa) to which songwriters have assigned exclusive rights of reproduction and distribution of musical works with respect to covered activities; and
+
+(bb) none of which may be owned by, or under common control with, any other board member.
+
+Bylaws.—
+
+Establishment
+
+(aa) the length of the term for each member of the board of directors;
+
+(bb) the staggering of the terms of the members of the board of directors;
+
+(cc) a process for filling a seat on the board of directors that is vacated before the end of the term with respect to that seat;
+
+(dd) a process for electing a member to the board of directors; and
+
+(ee) a management structure for daily operation of the collective.
+
+Public availability
+
+Board meetings
+
+Operations advisory committee
+
+Unclaimed royalties oversight committee
+
+Dispute resolution committee
+
+Mechanical licensing collective annual report.—
+
+In general
+
+(aa) the operational and licensing practices of the collective;
+
+(bb) how royalties are collected and distributed;
+
+(cc) budgeting and expenditures;
+
+(dd) the collective total costs for the preceding calendar year;
+
+(ee) the projected annual mechanical licensing collective budget;
+
+(ff) aggregated royalty receipts and payments;
+
+(gg) expenses that are more than 10 percent of the annual mechanical licensing collective budget; and
+
+(hh) the efforts of the collective to locate and identify copyright owners of unmatched musical works (and shares of works).
+
+Submission
+
+Independent officers
+
+Oversight and accountability.—
+
+In general
+
+(aa) ensure that the policies and practices of the collective are transparent and accountable;
+
+(bb) identify a point of contact for publisher inquiries and complaints with timely redress; and
+
+(cc) establish an anti-comingling policy for funds not collected under this section and royalties collected under this section.
+
+Audits.—
+
+(aa) In general .— Beginning in the fourth full calendar year that begins after the initial designation of the mechanical licensing collective by the Register of Copyrights under subparagraph (B)(i), and in every fifth calendar year thereafter, the collective shall retain a qualified auditor that shall— (AA) examine the books, records, and operations of the collective; (BB) prepare a report for the board of directors of the collective with respect to the matters described in item (bb); and (CC) not later than December 31 of the year in which the qualified auditor is retained, deliver the report described in subitem (BB) to the board of directors of the collective.
+
+(bb) Matters addressed .— Each report prepared under item (aa) shall address the implementation and efficacy of procedures of the mechanical licensing collective— (AA) for the receipt, handling, and distribution of royalty funds, including any amounts held as unclaimed royalties; (BB) to guard against fraud, abuse, waste, and the unreasonable use of funds; and (CC) to protect the confidentiality of financial, proprietary, and other sensitive information.
+
+(cc) Public availability .— With respect to each report prepared under item (aa), the mechanical licensing collective shall— (AA) submit the report to the Register of Copyrights; and (BB) make the report available to the public.
+
+Musical works database.—
+
+Establishment and maintenance of database
+
+Matched works
+
+(aa) the international standard musical work code for the work; and
+
+(bb) identifying information for sound recordings in which the musical work is embodied, including the name of the sound recording, featured artist, sound recording copyright owner, producer, international standard recording code, and other information commonly used to assist in associating sound recordings with musical works; and
+
+Unmatched works
+
+(aa) the title of the musical work;
+
+(bb) the ownership percentage for which an owner has not been identified;
+
+(cc) if a copyright owner has been identified but not located, the identity of such owner and the ownership percentage of that owner;
+
+(dd) identifying information for sound recordings in which the work is embodied, including sound recording name, featured artist, sound recording copyright owner, producer, international standard recording code, and other information commonly used to assist in associating sound recordings with musical works; and
+
+(ee) any additional information reported to the mechanical licensing collective that may assist in identifying the work; and
+
+Sound recording information
+
+Accessibility of database
+
+Additional requirements
+
+Notices of license and nonblanket activity.—
+
+Notices of licenses
+
+Notices of nonblanket activity
+
+Collection and distribution of royalties.—
+
+In general
+
+(aa) identify the musical works embodied in sound recordings reflected in such reports, and the copyright owners of such musical works (and shares thereof);
+
+(bb) confirm uses of musical works subject to voluntary licenses and individual download licenses, and the corresponding pro rata amounts to be deducted from royalties that would otherwise be due under the blanket license; and
+
+(cc) confirm proper payment of royalties due;
+
+(aa) an inability to identify or locate a copyright owner of a musical work (or share thereof); or
+
+(bb) a pending dispute before the dispute resolution committee of the mechanical licensing collective.
+
+Other collection efforts
+
+Holding of accrued royalties.—
+
+Holding period
+
+Interest-bearing account
+
+Musical works claiming process
+
+Distribution of unclaimed accrued royalties.—
+
+Distribution procedures
+
+(aa) the mechanical licensing collective may require copyright owners seeking distributions of unclaimed accrued royalties to provide, or direct the provision of, information concerning the usage of musical works under voluntary licenses and individual download licenses for covered activities; and
+
+(bb) the mechanical licensing collective shall take appropriate steps to safeguard the confidentiality and security of usage, financial, and other sensitive data used to compute market shares in accordance with the confidentiality provisions prescribed by the Register of Copyrights under paragraph (12)(C).
+
+Establishment of distribution policies
+
+Public notice of unclaimed accrued royalties
+
+(aa) the existence of the collective and the ability to claim unclaimed accrued royalties for unmatched musical works (and shares of such works) held by the collective;
+
+(bb) the procedures by which copyright owners may identify themselves and provide contact, ownership, and other relevant information to the collective in order to receive payments of accrued royalties;
+
+(cc) any transfer of accrued royalties for musical works under paragraph (10)(B), not later than 180 days after the date on which the transfer is received; and
+
+(dd) any pending distribution of unclaimed accrued royalties and accrued interest, not less than 90 days before the date on which the distribution is made; and
+
+Songwriter payments
+
+Dispute resolution
+
+Verification of payments by mechanical licensing collective.—
+
+Verification process
+
+Alternative verification procedures
+
+Records of mechanical licensing collective.—
+
+Records maintenance
+
+Records access
+
+Terms and conditions of blanket license
+
+Royalty reporting and payments.—
+
+Monthly reports and payment
+
+Data to be reported
+
+(aa) provide identifying information for the sound recording, including sound recording name, featured artist, and, to the extent acquired by the digital music provider in connection with its use of sound recordings of musical works to engage in covered activities, including pursuant to subparagraph (B), sound recording copyright owner, producer, international standard recording code, and other information commonly used in the industry to identify sound recordings and match them to the musical works the sound recordings embody;
+
+(bb) to the extent acquired by the digital music provider in the metadata provided by sound recording copyright owners or other licensors of sound recordings in connection with the use of sound recordings of musical works to engage in covered activities, including pursuant to subparagraph (B), provide information concerning authorship and ownership of the applicable rights in the musical work embodied in the sound recording (including each songwriter, publisher name, and respective ownership share) and the international standard musical work code; and
+
+(cc) provide the number of digital phonorecord deliveries of the sound recording, including limited downloads and interactive streams;
+
+Format and maintenance of reports
+
+Adoption of regulations
+
+Collection of sound recording information
+
+Payment of administrative assessment
+
+Verification of payments by digital music providers.—
+
+Verification process
+
+Alternative verification procedures
+
+Default under blanket license.—
+
+Conditions of default
+
+Notice of default and termination
+
+Notice to copyright owners
+
+Review by federal district court
+
+Digital licensee coordinator.—
+
+In general
+
+Designation of digital licensee coordinator.—
+
+Initial designation
+
+Periodic review of designation
+
+Inability to designate
+
+Authorities and functions.—
+
+In general
+
+Restriction on lobbying
+
+Assistance with publicity for unclaimed royalties
+
+Requirements for significant nonblanket licensees.—
+
+In general.—
+
+Notice of activity
+
+Reporting and payment obligations
+
+Discontinuation of obligations
+
+Reporting by mechanical licensing collective to digital licensee coordinator.—
+
+Monthly reports of noncompliant licensees
+
+Treatment of confidential information
+
+Legal enforcement efforts.—
+
+Federal court action
+
+Statute of limitations for enforcement action
+
+Other rights and remedies preserved
+
+Funding of mechanical licensing collective.—
+
+In general
+
+Voluntary contributions.—
+
+Agreements concerning contributions
+
+Treatment of contributions
+
+Interim application of accrued royalties
+
+Determination of administrative assessment.—
+
+Administrative assessment to cover collective total costs
+
+Separate proceeding before copyright royalty judges
+
+(aa) any portion of past actual collective total costs of the mechanical licensing collective not funded by previous collections of the administrative assessment or voluntary contributions because such collections or contributions together were insufficient to fund such costs;
+
+(bb) any past collections of the administrative assessment and voluntary contributions that exceeded past actual collective total costs, resulting in a surplus; and
+
+(cc) the amount of any voluntary contributions by digital music providers or significant nonblanket licensees in relevant periods, described in subparagraphs (A) and (B) of paragraph (7).
+
+Initial administrative assessment
+
+Adjustment of administrative assessment
+
+Adoption of voluntary agreements
+
+Continuing authority to amend
+
+Appeal of administrative assessment
+
+Regulations
+
+Establishment of rates and terms under blanket license.—
+
+Restrictions on ratesetting participation
+
+Application of late fees
+
+Interim rate agreements in general
+
+Adjustments for interim rates
+
+Transition to blanket licenses.—
+
+Substitution of blanket license
+
+Expiration of existing licenses
+
+Treatment of voluntary licenses
+
+Further acceptance of notices for covered activities by copyright office
+
+Prior unlicensed uses.—
+
+Limitation on liability in general
+
+Requirements for limitation on liability
+
+(aa) Sound recording name, featured artist, sound recording copyright owner, producer, international standard recording code, and other information commonly used in the industry to identify sound recordings and match them to the musical works they embody.
+
+(bb) Any available musical work ownership information, including each songwriter and publisher name, percentage ownership share, and international standard musical work code.
+
+(aa) not later than 45 calendar days after the end of the calendar month during which the copyright owner was identified and located, pay the copyright owner all accrued royalties, such payment to be accompanied by a cumulative statement of account that includes all of the information that would have been provided to the copyright owner had the digital music provider been providing monthly statements of account to the copyright owner from initial use of the work in accordance with this section and applicable regulations, including the requisite certification under subsection (c)(2)(I);
+
+(bb) beginning with the accounting period following the calendar month in which the copyright owner was identified and located, and for all other accounting periods prior to the license availability date, provide monthly statements of account and pay royalties to the copyright owner as required under this section and applicable regulations; and
+
+(cc) beginning with the monthly royalty reporting period commencing on the license availability date, report usage and pay royalties for such musical work (or share thereof) for such reporting period and reporting periods thereafter to the mechanical licensing collective, as required under this subsection and applicable regulations.
+
+(aa) not later than 45 calendar days after the license availability date, transfer all accrued royalties to the mechanical licensing collective, such payment to be accompanied by a cumulative statement of account that includes all of the information that would have been provided to the copyright owner had the digital music provider been serving monthly statements of account on the copyright owner from initial use of the work in accordance with this section and applicable regulations, including the requisite certification under subsection (c)(2)(I), and accompanied by an additional certification by a duly authorized officer of the digital music provider that the digital music provider has fulfilled the requirements of clauses (i) and (ii) of subparagraph (B) but has not been successful in locating or identifying the copyright owner; and
+
+(bb) beginning with the monthly royalty reporting period commencing on the license availability date, report usage and pay royalties for such musical work (or share thereof) for such period and reporting periods thereafter to the mechanical licensing collective, as required under this subsection and applicable regulations.
+
+Adjusted statute of limitations
+
+Other rights and remedies preserved
+
+Legal protections for licensing activities.—
+
+Exemption for compulsory license activities
+
+Limitation on common agent exemption
+
+Antitrust exemption for administrative activities
+
+Liability for good-faith activities
+
+Preemption of state property laws
+
+Rule of construction
+
+Regulations.—
+
+Adoption by register of copyrights and copyright royalty judges
+
+Judicial review of regulations
+
+Protection of confidential information
+
+Savings clauses.—
+
+Limitation on activities and rights covered
+
+Rights of public performance not affected
+
+Definitions
+
+Accrued interest
+
+Accrued royalties
+
+Administrative assessment
+
+Audit
+
+Blanket license
+
+Collective total costs
+
+Covered activity
+
+Digital music provider
+
+Digital licensee coordinator
+
+Digital phonorecord delivery
+
+Enactment date
+
+Individual download license
+
+Interactive stream
+
+Interested
+
+License availability date
+
+Limited download
+
+Matched
+
+Mechanical licensing collective
+
+Mechanical licensing collective budget
+
+Musical works database
+
+Nonprofit
+
+Notice of license
+
+Notice of nonblanket activity
+
+Permanent download
+
+Qualified auditor
+
+Record company
+
+Report of usage
+
+Required matching efforts
+
+Service
+
+Share
+
+Significant nonblanket licensee
+
+Songwriter
+
+State
+
+Unclaimed accrued royalties
+
+Unmatched
+
+Voluntary license
+
+“The Register of Copyrights shall engage in public outreach and educational activities—
+
+In general
+
+Consideration of recommendations
+
+## Source Credit
+
+*([Pub. L. 94–553, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/553), Oct. 19, 1976, [90 Stat. 2561](https://www.govinfo.gov/link/statute/90/2561); [Pub. L. 98–450, § 3](https://www.govinfo.gov/link/plaw/98/public/450), Oct. 4, 1984, [98 Stat. 1727](https://www.govinfo.gov/link/statute/98/1727); [Pub. L. 104–39, § 4](https://www.govinfo.gov/link/plaw/104/public/39), Nov. 1, 1995, [109 Stat. 344](https://www.govinfo.gov/link/statute/109/344); [Pub. L. 105–80](https://www.govinfo.gov/link/plaw/105/public/80), §§ 4, 10, 12(a)(7), Nov. 13, 1997, [111 Stat. 1531](https://www.govinfo.gov/link/statute/111/1531), 1534; [Pub. L. 108–419, § 5(d)](https://www.govinfo.gov/link/plaw/108/public/419), Nov. 30, 2004, [118 Stat. 2364](https://www.govinfo.gov/link/statute/118/2364); [Pub. L. 109–303, § 4(c)](https://www.govinfo.gov/link/plaw/109/public/303), Oct. 6, 2006, [120 Stat. 1482](https://www.govinfo.gov/link/statute/120/1482); [Pub. L. 110–403, title II, § 209(a)(3)](https://www.govinfo.gov/link/plaw/110/public/403), Oct. 13, 2008, [122 Stat. 4264](https://www.govinfo.gov/link/statute/122/4264); [Pub. L. 111–295, § 6(g)](https://www.govinfo.gov/link/plaw/111/public/295), Dec. 9, 2010, [124 Stat. 3181](https://www.govinfo.gov/link/statute/124/3181); [Pub. L. 115–264, title I, § 102(a)](https://www.govinfo.gov/link/plaw/115/public/264), Oct. 11, 2018, [132 Stat. 3677](https://www.govinfo.gov/link/statute/132/3677).)*

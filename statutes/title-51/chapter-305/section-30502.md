@@ -3,9 +3,10 @@ title: "Section 30502 - Whistleblower protection"
 usc_title: 51
 usc_section: "30502"
 chapter: 305
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 30502"
-generated_at: "2026-03-30T02:56:28.705Z"
+generated_at: "2026-11-23T20:27:37.467Z"
+status: "active"
 ---
 
 # § 30502. Whistleblower protection
@@ -22,3 +23,32 @@ generated_at: "2026-03-30T02:56:28.705Z"
 - **(d)** Not later than February 15 of each year beginning February 15, 2007 , the Administrator shall transmit a report to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the concerns described in subsection (a) that were raised during the previous fiscal year. At a minimum, the report shall provide—
   - **(1)** the number of concerns that were raised, divided into the categories of safety and health, mission assurance, and mismanagement, and the disposition of those concerns, including whether any employee was disciplined as a result of a concern having been raised; and
   - **(2)** any recommendations for reforms to further prevent retribution against employees who raise concerns.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30502 | 42 U.S.C. 16618 . | Pub. L. 109–155, title I, § 110 , Dec. 30, 2005 , 119 Stat. 2914 . |
+
+
+In General
+
+Goal
+
+Plan
+
+Report
+
+Historical and Revision Notes
+
+30502
+
+42 U.S.C. 16618
+
+Pub. L. 109–155, title I, § 110
+
+Dec. 30, 2005
+
+119 Stat. 2914
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3367](https://www.govinfo.gov/link/statute/124/3367).)*

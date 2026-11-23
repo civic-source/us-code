@@ -3,9 +3,10 @@ title: "Section 1630 - Authority to settle claims"
 usc_title: 19
 usc_section: "1630"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1630"
-generated_at: "2026-03-30T02:54:24.648Z"
+generated_at: "2026-11-23T20:26:10.831Z"
+status: "active"
 ---
 
 # § 1630. Authority to settle claims
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:24.648Z"
   - **(2)** is presented to the Secretary more than 1 year after it occurs; or
   - **(3)** is presented by an officer or employee of the United States Government and arose within the scope of employment.
 - **(c)** A claim may be paid under this section only if the claimant accepts the amount of settlement in complete satisfaction of the claim.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 630, as added [Pub. L. 103–182, title VI, § 670](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2216](https://www.govinfo.gov/link/statute/107/2216).)*

@@ -3,9 +3,10 @@ title: "Section 3745 - Required regulations"
 usc_title: 10
 usc_section: "3745"
 chapter: 273
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 3745"
-generated_at: "2026-03-30T02:53:38.197Z"
+generated_at: "2026-11-23T20:25:51.855Z"
+status: "active"
 ---
 
 # § 3745. Required regulations
@@ -35,3 +36,19 @@ generated_at: "2026-03-30T02:53:38.197Z"
     - **(B)** the opinion of the contract auditor on the allowability of such costs.
   - **(2)** The Federal Acquisition Regulation shall provide that, to the maximum extent practicable, the contract auditor be present at any negotiation or meeting with the contractor regarding a determination of the allowability of indirect costs of the contractor.
   - **(3)** The Federal Acquisition Regulation shall require that all categories of costs designated in the report of the contract auditor as questioned with respect to a proposal for settlement be resolved in such a manner that the amount of the individual questioned costs that are paid will be reflected in the settlement.
+
+In General
+
+Specific Items
+
+Additional Requirements.—
+
+When questioned costs may be resolved
+
+Presence of contract auditor
+
+Settlement to reflect amount of individual questioned costs
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1832(a)](https://www.govinfo.gov/link/plaw/116/public/283), (e), Jan. 1, 2021, [134 Stat. 4218](https://www.govinfo.gov/link/statute/134/4218), 4221.)*

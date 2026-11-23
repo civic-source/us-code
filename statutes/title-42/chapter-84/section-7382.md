@@ -3,9 +3,10 @@ title: "Section 7382 - Findings"
 usc_title: 42
 usc_section: "7382"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7382"
-generated_at: "2026-03-30T02:56:11.290Z"
+generated_at: "2026-11-23T20:27:22.815Z"
+status: "active"
 ---
 
 # § 7382. Findings
@@ -16,3 +17,7 @@ The Congress finds that—
   - **(2)** a need exists to increase understanding, communication, and cooperation between the Congress, the Department of Energy, other Federal agencies, and the mathematics and science education community;
   - **(3)** elementary and secondary school mathematics and science teachers can provide practical insight to the legislative and executive branches in establishing and operating education programs; and
   - **(4)** a pilot program that placed elementary and secondary school mathematics and science teachers in professional staff positions in the Senate and the House of Representatives has proven successful and demonstrated the value of expanding the program.
+
+## Source Credit
+
+*([Pub. L. 103–382, title V, § 512](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 4042](https://www.govinfo.gov/link/statute/108/4042).)*

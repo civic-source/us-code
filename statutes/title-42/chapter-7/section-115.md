@@ -3,9 +3,10 @@ title: "Section 115 - Subsidies for part D eligible individuals for qualified pr
 usc_title: 42
 usc_section: "115"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 115"
-generated_at: "2026-03-30T02:56:10.989Z"
+generated_at: "2026-11-23T20:27:21.311Z"
+status: "active"
 ---
 
 # § 1395w–115. Subsidies for part D eligible individuals for qualified prescription drug coverage
@@ -114,3 +115,7 @@ generated_at: "2026-03-30T02:56:10.989Z"
 - **(h)**
   - **(1)** In addition to amounts otherwise payable under this section to a PDP sponsor of a prescription drug plan or an MA organization offering an MA–PD plan, for plan year 2023, the Secretary shall provide the PDP sponsor or MA organization offering the plan subsidies in an amount equal to the aggregate reduction in cost-sharing and deductible by reason of the application of paragraph (8) or (9) of section 1395w–102(b) of this title for individuals under the plan during the year.
   - **(2)** The Secretary shall provide a subsidy under paragraph (1), as applicable, not later than 18 months following the end of the applicable plan year.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1860D–15, as added [Pub. L. 108–173, title I, § 101(a)(2)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2113](https://www.govinfo.gov/link/statute/117/2113); amended [Pub. L. 111–148, title VI, § 6402(b)(1)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 756](https://www.govinfo.gov/link/statute/124/756); [Pub. L. 116–260, div. CC, title I, § 112(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2946](https://www.govinfo.gov/link/statute/134/2946); [Pub. L. 117–169, title I](https://www.govinfo.gov/link/plaw/117/public/169), §§ 11001(b)(1)(H)(ii), 11201(b), (d)(3)(D), 11401(c)(1), 11406(c), Aug. 16, 2022, [136 Stat. 1853](https://www.govinfo.gov/link/statute/136/1853), 1879, 1891, 1897, 1904; [Pub. L. 117–328, div. FF, title IV, § 4132](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5918](https://www.govinfo.gov/link/statute/136/5918).)*

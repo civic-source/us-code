@@ -3,9 +3,10 @@ title: "Section 1087rr - Regulations; updated tables"
 usc_title: 20
 usc_section: "1087rr"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1087rr"
-generated_at: "2026-03-30T02:54:48.130Z"
+generated_at: "2026-11-23T20:26:14.490Z"
+status: "active"
 ---
 
 # § 1087rr. Regulations; updated tables
@@ -30,3 +31,26 @@ generated_at: "2026-03-30T02:54:48.130Z"
 - **(f)** In this section, the term “Consumer Price Index” means the Consumer Price Index for All Urban Consumers published by the Department of Labor. Each annual update of tables to reflect changes in the Consumer Price Index shall be corrected for misestimation of actual changes in such Index in previous years.
 - **(g)** For award year 2023–2024 and each succeeding award year, the Secretary shall publish in the Federal Register a revised table of employment expense allowances for the purpose of sections 1087 oo (c)(4), 1087pp(b)(3), and 1087qq(b)(4) of this title. Such revised table shall be developed by increasing the dollar amount specified in sections 1087 oo (c)(4), 1087pp(b)(3), and 1087qq(b)(4) of this title by a percentage equal to the percentage increase in the Consumer Price Index, as defined in subsection (f), between April 2020 and the April in the year prior to the beginning of the award year and rounding the result to the nearest $10.
 - **(h)** For award year 2023–2024, the Secretary shall determine adjusted amounts and prescribe revised tables with respect to the income protection, employment expense, and asset protection allowances and the assessment schedules under sections 1087 oo , 1087pp, and 1087qq of this title, pursuant to this section. The amounts and tables specified in sections 1087 oo , 1087pp, and 1087qq of this title with respect to such allowances and schedules shall only be used by the Secretary as a baseline for adjustments and table revisions prescribed in accordance with this section.
+
+| Farm/Business Net Worth Adjustment | Col 2 |
+| --- | --- |
+| Less than $1 | $0 |
+| $1 to $140,000 | 40% of net worth of farm/business |
+| $140,001 to $415,000 | $56,000 + 50% of net worth over $140,000 |
+| $415,001 to $695,000 | $193,500 + 60% of net worth over $415,000 |
+| $695,001 or more | $361,500 + 100% of net worth over $695,000. |
+
+
+Less than $1
+
+$1 to $140,000
+
+$140,001 to $415,000
+
+$415,001 to $695,000
+
+$695,001 or more
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 478](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title IV, § 406(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1470](https://www.govinfo.gov/link/statute/100/1470); amended [Pub. L. 100–50, § 14(20)](https://www.govinfo.gov/link/plaw/100/public/50) –(22), June 3, 1987, [101 Stat. 351](https://www.govinfo.gov/link/statute/101/351), 352; [Pub. L. 102–325, title IV, § 471(a)](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 602](https://www.govinfo.gov/link/statute/106/602); [Pub. L. 103–208, § 2(g)(8)](https://www.govinfo.gov/link/plaw/103/public/208), (9), Dec. 20, 1993, [107 Stat. 2472](https://www.govinfo.gov/link/statute/107/2472); [Pub. L. 105–244, title IV, § 476](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1730](https://www.govinfo.gov/link/statute/112/1730); [Pub. L. 109–171, title VIII, § 8017(d)](https://www.govinfo.gov/link/plaw/109/public/171), (e), Feb. 8, 2006, [120 Stat. 173](https://www.govinfo.gov/link/statute/120/173), 174; [Pub. L. 110–84, title VI, § 601(d)](https://www.govinfo.gov/link/plaw/110/public/84), Sept. 27, 2007, [121 Stat. 803](https://www.govinfo.gov/link/statute/121/803); [Pub. L. 116–260, div. FF, title VII, § 702(g)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3150](https://www.govinfo.gov/link/statute/134/3150).)*

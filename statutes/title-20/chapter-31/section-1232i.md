@@ -3,9 +3,10 @@ title: "Section 1232i - Limitations on withholding of Federal assistance"
 usc_title: 20
 usc_section: "1232i"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1232i"
-generated_at: "2026-03-30T02:54:48.158Z"
+generated_at: "2026-11-23T20:26:14.621Z"
+status: "active"
 ---
 
 # § 1232i. Limitations on withholding of Federal assistance
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:48.158Z"
   - **(4)** the limitation of any deferral of Federal financial assistance which may be imposed by the Secretary to a period not to exceed 15 days after the rendering of such decision unless there has been an express finding on such record that such agency has failed to comply with any such nondiscrimination provision of Federal law; and
   - **(5)** procedures, which shall be established by the Secretary, to ensure the availability of sufficient funds, without regard to any fiscal year limitations, to comply with the decision of such judge.
 - **(c)** It shall be unlawful for the Secretary to defer or limit any Federal financial assistance on the basis of any failure to comply with the imposition of quotas (or any other numerical requirements which have the effect of imposing quotas) on the student admission practices of an institution of higher education or community college receiving Federal financial assistance.
+
+## Source Credit
+
+*([Pub. L. 90–247, title IV, § 446](https://www.govinfo.gov/link/plaw/90/public/247), formerly § 440, as added [Pub. L. 93–380, title V, § 515(a)](https://www.govinfo.gov/link/plaw/93/public/380), Aug. 21, 1974, [88 Stat. 574](https://www.govinfo.gov/link/statute/88/574); amended [Pub. L. 94–482, title IV](https://www.govinfo.gov/link/plaw/94/public/482), §§ 407, 408, Oct. 12, 1976, [90 Stat. 2232](https://www.govinfo.gov/link/statute/90/2232), 2233; renumbered § 446 and amended [Pub. L. 103–382, title II, § 212(b)(1)](https://www.govinfo.gov/link/plaw/103/public/382), (3)(C), Oct. 20, 1994, [108 Stat. 3913](https://www.govinfo.gov/link/statute/108/3913).)*

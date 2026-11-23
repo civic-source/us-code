@@ -3,9 +3,10 @@ title: "Section 8541 - Permitting process improvements"
 usc_title: 16
 usc_section: "8541"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 8541"
-generated_at: "2026-03-30T02:54:23.087Z"
+generated_at: "2026-11-23T20:26:20.894Z"
+status: "active"
 ---
 
 # § 8541. Permitting process improvements
@@ -53,3 +54,7 @@ generated_at: "2026-03-30T02:54:23.087Z"
   - **(4)** The Secretary concerned may elect not to charge a fee to a recreation service provider (including a youth group) for a special recreation permit for an organized group recreation activity or event.
   - **(5)** Nothing in this subsection prevents the Secretary concerned from limiting or abating the allowance of a proposed activity or event under paragraph (3)(B)(i) or the issuance of a special recreation permit for an organized group recreation activity or event, based on resource conditions, administrative burdens, or safety issues.
   - **(6)** A special recreation permit for an organized group recreation activity or event issued under paragraph (3) shall be subject to the health and safety standards required by the Secretary concerned for a permit issued under paragraph (13)(A)(iv) of section 6801 of this title (as amended by this title).
+
+## Source Credit
+
+*([Pub. L. 118–234, title III, § 312](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2898](https://www.govinfo.gov/link/statute/138/2898).)*

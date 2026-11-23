@@ -3,9 +3,10 @@ title: "Section 621 - Congressional statement of findings and purpose"
 usc_title: 29
 usc_section: "621"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 621"
-generated_at: "2026-03-30T02:55:18.686Z"
+generated_at: "2026-11-23T20:26:37.824Z"
+status: "active"
 ---
 
 # § 621. Congressional statement of findings and purpose
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:18.686Z"
   - **(3)** the incidence of unemployment, especially long-term unemployment with resultant deterioration of skill, morale, and employer acceptability is, relative to the younger ages, high among older workers; their numbers are great and growing; and their employment problems grave;
   - **(4)** the existence in industries affecting commerce, of arbitrary discrimination in employment because of age, burdens commerce and the free flow of goods in commerce.
 - **(b)** It is therefore the purpose of this chapter to promote employment of older persons based on their ability rather than age; to prohibit arbitrary age discrimination in employment; to help employers and workers find ways of meeting problems arising from the impact of age on employment.
+
+## Source Credit
+
+*([Pub. L. 90–202, § 2](https://www.govinfo.gov/link/plaw/90/public/202), Dec. 15, 1967, [81 Stat. 602](https://www.govinfo.gov/link/statute/81/602).)*

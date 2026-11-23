@@ -3,9 +3,10 @@ title: "Section 362 - Requirements applicable to recommendations"
 usc_title: 2
 usc_section: "362"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 362"
-generated_at: "2026-03-30T02:53:04.796Z"
+generated_at: "2026-11-23T20:25:28.883Z"
+status: "active"
 ---
 
 # § 362. Requirements applicable to recommendations
@@ -20,3 +21,7 @@ Notwithstanding any other provision of this chapter, the recommendations submitt
       - **(ii)** The rates of pay recommended for the majority and minority leaders of the Senate and the House of Representatives, the President pro tempore of the Senate, and each office or position under section 5312 of title 5 (relating to level I of the Executive Schedule), respectively, shall be equal.
       - **(iii)** The rates of pay recommended for a Senator, a Member of the House of Representatives, the Resident Commissioner from Puerto Rico, a Delegate to the House of Representatives, a judge of a district court of the United States, a judge of the United States Court of International Trade, and each office or position under section 5313 of title 5 (relating to level II of the Executive Schedule), respectively, shall be equal.
     - **(B)** Nothing in this section shall be considered to require that the rate recommended for any office or position by the President under section 358 of this title be the same as the rate recommended for such office or position by the Commission under section 357 of this title .
+
+## Source Credit
+
+*([Pub. L. 90–206, title II, § 225](https://www.govinfo.gov/link/plaw/90/public/206) (l), as added [Pub. L. 101–194, title VII, § 701(i)](https://www.govinfo.gov/link/plaw/101/public/194), Nov. 30, 1989, [103 Stat. 1766](https://www.govinfo.gov/link/statute/103/1766).)*

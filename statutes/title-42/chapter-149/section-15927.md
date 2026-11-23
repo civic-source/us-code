@@ -3,9 +3,10 @@ title: "Section 15927 - Oil shale, tar sands, and other strategic unconventional
 usc_title: 42
 usc_section: "15927"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 15927"
-generated_at: "2026-03-30T02:56:11.465Z"
+generated_at: "2026-11-23T20:27:23.588Z"
+status: "active"
 ---
 
 # § 15927. Oil shale, tar sands, and other strategic unconventional fuels
@@ -78,3 +79,7 @@ generated_at: "2026-03-30T02:56:11.465Z"
 - **(q)**
 - **(r)** Nothing in this section preempts or affects any State water law or interstate compact relating to water.
 - **(s)** There are authorized to be appropriated such sums as are necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 109–58, title III, § 369](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 728](https://www.govinfo.gov/link/statute/119/728); [Pub. L. 113–188, title VI, § 601(b)](https://www.govinfo.gov/link/plaw/113/public/188), Nov. 26, 2014, [128 Stat. 2019](https://www.govinfo.gov/link/statute/128/2019).)*

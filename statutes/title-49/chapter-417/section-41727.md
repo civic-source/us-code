@@ -3,9 +3,10 @@ title: "Section 41727 - Passenger Rights 1 1 So in original. Probably should not
 usc_title: 49
 usc_section: "41727"
 chapter: 417
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 41727"
-generated_at: "2026-03-30T02:56:19.377Z"
+generated_at: "2026-11-23T20:27:35.106Z"
+status: "active"
 ---
 
 # § 41727. Passenger Rights 1 1 So in original. Probably should not be capitalized.
@@ -18,3 +19,11 @@ generated_at: "2026-03-30T02:56:19.377Z"
   - **(5)** Voluntary relinquishment of a ticketed seat due to overbooking or priority of other passengers.
   - **(6)** Involuntary denial of boarding and forced removal for whatever reason, including for safety and security reasons.
 - **(b)** Not later than 90 days after each air carrier submits its guidelines to the Secretary under subsection (a), the air carrier shall make available such 1-page document in a prominent location on its website.
+
+Guidelines
+
+Filing of Summarized Guidelines
+
+## Source Credit
+
+*(Added and amended [Pub. L. 118–63, title V, § 510(a)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1193](https://www.govinfo.gov/link/statute/138/1193).)*

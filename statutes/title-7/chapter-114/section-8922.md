@@ -3,9 +3,10 @@ title: "Section 8922 - Agricultural biosecurity grant program"
 usc_title: 7
 usc_section: "8922"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 8922"
-generated_at: "2026-03-30T02:53:42.482Z"
+generated_at: "2026-11-23T20:25:41.928Z"
+status: "active"
 ---
 
 # § 8922. Agricultural biosecurity grant program
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:42.482Z"
 - **(e)** There are authorized to be appropriated to carry out this section—
   - **(1)** such sums as are necessary for each of fiscal years 2008 through 2013, to remain available until expended; and
   - **(2)** $5,000,000 for each of fiscal years 2014 through 2023, to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 110–234, title XIV, § 14122](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1456](https://www.govinfo.gov/link/statute/122/1456); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIV, § 14122, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2218; [Pub. L. 113–79, title VII, § 7504](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 901](https://www.govinfo.gov/link/statute/128/901); [Pub. L. 115–334, title VII, § 7404](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4817](https://www.govinfo.gov/link/statute/132/4817).)*

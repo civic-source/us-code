@@ -3,9 +3,10 @@ title: "Section 781 - Comprehensive energy plan"
 usc_title: 15
 usc_section: "781"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 781"
-generated_at: "2026-03-30T02:54:08.122Z"
+generated_at: "2026-11-23T20:26:03.930Z"
+status: "active"
 ---
 
 # § 781. Comprehensive energy plan
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.122Z"
   - **(4)** a description of alternative actions which the Administrator has considered together with a rationale in explanation of the rejection of any such alternatives in preference to the measures actually proposed.
 - **(b)** The Administrator may, from time to time, modify or otherwise alter any such plan, except that, upon request of an appropriate committee of the Congress, the Administrator shall supply analytical justifications for any such alterations.
 - **(c)** The Administrator shall be responsible for monitoring any such plans as are implemented with respect to their effectiveness in achieving the anticipated benefits.
+
+## Source Credit
+
+*([Pub. L. 93–275, § 22](https://www.govinfo.gov/link/plaw/93/public/275), May 7, 1974, [88 Stat. 113](https://www.govinfo.gov/link/statute/88/113).)*

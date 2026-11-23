@@ -3,9 +3,10 @@ title: "Section 1397D - Qualified zone property defined"
 usc_title: 26
 usc_section: "1397D"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1397D"
-generated_at: "2026-03-30T02:55:27.774Z"
+generated_at: "2026-11-23T20:26:46.111Z"
+status: "active"
 ---
 
 # § 1397D. Qualified zone property defined
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:27.774Z"
     - **(C)** substantially all of the use of which is in an empowerment zone and is in the active conduct of a qualified business by the taxpayer in such zone.
   - **(2)** In the case of any property which is substantially renovated by the taxpayer, the requirements of subparagraphs (A) and (B) of paragraph (1) shall be treated as satisfied. For purposes of the preceding sentence, property shall be treated as substantially renovated by the taxpayer if, during any 24-month period beginning after the date on which the designation of the empowerment zone took effect, additions to basis with respect to such property in the hands of the taxpayer exceed the greater of (i) an amount equal to the adjusted basis at the beginning of such 24-month period in the hands of the taxpayer, or (ii) $5,000.
 - **(b)** For purposes of subsection (a)(1)(B), if property is sold and leased back by the taxpayer within 3 months after the date such property was originally placed in service, such property shall be treated as originally placed in service not earlier than the date on which such property is used under the leaseback.
+
+## Source Credit
+
+*(Added [Pub. L. 103–66, title XIII, § 13301(a)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 554](https://www.govinfo.gov/link/statute/107/554), § 1397C; renumbered § 1397D, [Pub. L. 106–554, § 1(a)(7) [title I, § 116(a)(2)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–602.)*

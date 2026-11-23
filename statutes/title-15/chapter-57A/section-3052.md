@@ -3,9 +3,10 @@ title: "Section 3052 - Recognition of the Horseracing Integrity and Safety Autho
 usc_title: 15
 usc_section: "3052"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 3052"
-generated_at: "2026-03-30T02:54:08.185Z"
+generated_at: "2026-11-23T20:26:04.265Z"
+status: "active"
 ---
 
 # § 3052. Recognition of the Horseracing Integrity and Safety Authority
@@ -88,3 +89,11 @@ generated_at: "2026-03-30T02:54:08.185Z"
     - **(A)** the appropriation of any amount to the Authority; or
     - **(B)** the Federal Government to guarantee the debts of the Authority.
 - **(g)** For all items where Board approval is required, the Authority shall have present a majority of independent members.
+
+(aa) the annual budget of the Authority for the following calendar year, as approved by the Board; and
+
+(bb) the projected amount of covered racing starts for the year in each State; and
+
+## Source Credit
+
+*([Pub. L. 116–260, div. FF, title XII, § 1203](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3253](https://www.govinfo.gov/link/statute/134/3253).)*

@@ -3,9 +3,10 @@ title: "Section 179C - Election to expense certain refineries"
 usc_title: 26
 usc_section: "179C"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 179C"
-generated_at: "2026-03-30T02:55:27.649Z"
+generated_at: "2026-11-23T20:26:45.487Z"
+status: "active"
 ---
 
 # § 179C. Election to expense certain refineries
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:55:27.649Z"
   - **(2)** An election under paragraph (1) for any taxable year shall be made on a timely filed return for such year. Such election, once made, shall be irrevocable for such taxable year.
   - **(3)** If any portion of the deduction available under subsection (a) is allocated to owners under paragraph (1), the cooperative shall provide any owner receiving an allocation written notice of the amount of the allocation. Such notice shall be provided before the date on which the return described in paragraph (2) is due.
 - **(h)** No deduction shall be allowed under subsection (a) to any taxpayer for any taxable year unless such taxpayer files with the Secretary a report containing such information with respect to the operation of the refineries of the taxpayer as the Secretary shall require.
+
+## Source Credit
+
+*(Added [Pub. L. 109–58, title XIII, § 1323(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 1013](https://www.govinfo.gov/link/statute/119/1013); amended [Pub. L. 110–343, div. B, title II, § 209(a)](https://www.govinfo.gov/link/plaw/110/public/343), (b), Oct. 3, 2008, [122 Stat. 3840](https://www.govinfo.gov/link/statute/122/3840).)*

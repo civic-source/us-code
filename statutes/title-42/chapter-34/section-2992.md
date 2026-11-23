@@ -3,9 +3,10 @@ title: "Section 2992 - Evaluation of projects"
 usc_title: 42
 usc_section: "2992"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2992"
-generated_at: "2026-03-30T02:56:11.167Z"
+generated_at: "2026-11-23T20:27:22.175Z"
+status: "active"
 ---
 
 # § 2992. Evaluation of projects
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.167Z"
 - **(d)** In carrying out evaluations under this subchapter, the Commissioner shall, whenever feasible, arrange to obtain the specific views of persons participating in and served by programs and projects assisted under this subchapter about such programs and projects.
 - **(e)** The Commissioner shall publish the results of evaluative research and summaries of evaluations of program and project impact and effectiveness not later than ninety days after the completion thereof. The Commissioner shall submit to the appropriate committees of the Congress copies of all such research studies and evaluation summaries.
 - **(f)** The Commissioner shall take the necessary action to assure that all studies, evaluations, proposals, and data produced or developed with assistance under this subchapter shall become the property of the United States.
+
+## Source Credit
+
+*([Pub. L. 88–452, title VIII, § 811](https://www.govinfo.gov/link/plaw/88/public/452), formerly § 810, as added [Pub. L. 93–644, § 11](https://www.govinfo.gov/link/plaw/93/public/644), Jan. 4, 1975, [88 Stat. 2326](https://www.govinfo.gov/link/statute/88/2326); renumbered § 811, [Pub. L. 100–175, title V, § 502(3)](https://www.govinfo.gov/link/plaw/100/public/175), Nov. 29, 1987, [101 Stat. 973](https://www.govinfo.gov/link/statute/101/973); amended [Pub. L. 102–375, title VIII, § 822(11)](https://www.govinfo.gov/link/plaw/102/public/375), Sept. 30, 1992, [106 Stat. 1298](https://www.govinfo.gov/link/statute/106/1298).)*

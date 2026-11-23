@@ -3,9 +3,10 @@ title: "Section 7321A - Committee on Care of Veterans with Traumatic Brain Injur
 usc_title: 38
 usc_section: "7321A"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7321A"
-generated_at: "2026-03-30T02:55:53.528Z"
+generated_at: "2026-11-23T20:27:01.999Z"
+status: "active"
 ---
 
 # § 7321A. Committee on Care of Veterans with Traumatic Brain Injury
@@ -29,3 +30,15 @@ generated_at: "2026-03-30T02:55:53.528Z"
   - **(3)** The plans of the committee for further assessments.
   - **(4)** The findings and recommendations made by the committee to the Under Secretary for Health and the views of the Under Secretary on such findings and recommendations.
   - **(5)** A description of the steps taken, plans made (and a timetable for the execution of such plans), and resources to be applied toward improving the capability of the Veterans Health Administration to meet effectively the treatment and rehabilitation needs of veterans with traumatic brain injury.
+
+Establishment
+
+Responsibilities of Committee
+
+Advice and Recommendations
+
+Annual Report
+
+## Source Credit
+
+*(Added [Pub. L. 111–163, title V, § 515(a)](https://www.govinfo.gov/link/plaw/111/public/163), May 5, 2010, [124 Stat. 1165](https://www.govinfo.gov/link/statute/124/1165).)*

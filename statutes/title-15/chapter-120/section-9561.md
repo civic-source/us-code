@@ -3,9 +3,10 @@ title: "Section 9561 - Grants to nonprofit organizations that support minority b
 usc_title: 15
 usc_section: "9561"
 chapter: 120
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 9561"
-generated_at: "2026-03-30T02:54:08.249Z"
+generated_at: "2026-11-23T20:26:04.579Z"
+status: "active"
 ---
 
 # § 9561. Grants to nonprofit organizations that support minority business enterprises
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:54:08.249Z"
     - **(A)** the geographic distribution of those grants by State and county;
     - **(B)** if applicable, demographic information with respect to the minority business enterprises served by the covered entities to which the grants were made; and
     - **(C)** information regarding the industries of the minority business enterprises served by the covered entities to which the grants were made.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. K, title IV, § 100401](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1461](https://www.govinfo.gov/link/statute/135/1461).)*

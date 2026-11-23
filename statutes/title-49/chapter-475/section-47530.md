@@ -3,12 +3,38 @@ title: "Section 47530 - Nonapplication of sections 47528(a)–(d) and 47529 to a
 usc_title: 49
 usc_section: "47530"
 chapter: 475
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 47530"
-generated_at: "2026-03-30T02:56:19.408Z"
+generated_at: "2026-11-23T20:27:35.339Z"
+status: "active"
 ---
 
 # § 47530. Nonapplication of sections 47528(a)–(d) and 47529 to aircraft outside the 48 contiguous States
 
 Sections 47528(a)–(d) and 47529 of this title do not apply to aircraft used only to provide air transportation outside the 48 contiguous States. A civil subsonic turbojet aircraft with a maximum weight of more than 75,000 pounds that is imported into a noncontiguous State or a territory or possession of the United States after November 4, 1990 , may be used to provide air transportation in the 48 contiguous States only if the aircraft complies with the stage 3 noise levels.
 
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 47530 | 49 App.:2157(d). | Nov. 5, 1990 , Pub. L. 101–508, § 9308(d) , 104 Stat. 1388–383 ; Oct. 28, 1991 , Pub. L. 102–143, § 349(a) , 105 Stat. 949 . |
+
+
+Historical and Revision Notes
+
+47530
+
+Nov. 5, 1990
+
+Pub. L. 101–508, § 9308(d)
+
+104 Stat. 1388–383
+
+Oct. 28, 1991
+
+Pub. L. 102–143, § 349(a)
+
+105 Stat. 949
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1293](https://www.govinfo.gov/link/statute/108/1293).)*

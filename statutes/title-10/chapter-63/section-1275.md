@@ -3,12 +3,26 @@ title: "Section 1275 - Computation of retired pay: law applicable"
 usc_title: 10
 usc_section: "1275"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1275"
-generated_at: "2026-03-30T02:53:38.116Z"
+generated_at: "2026-11-23T20:25:51.299Z"
+status: "active"
 ---
 
 # § 1275. Computation of retired pay: law applicable
 
 A member of the armed forces retired under this chapter is entitled to retired pay computed under chapter 71 of this title.
 
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1275 | [No source]. | [No source]. |
+
+
+Historical and Revision Notes
+
+1275
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 101.)*

@@ -3,9 +3,10 @@ title: "Section 578 - Promotions: how made; effective date"
 usc_title: 10
 usc_section: "578"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 578"
-generated_at: "2026-03-30T02:53:38.067Z"
+generated_at: "2026-11-23T20:25:51.002Z"
+status: "active"
 ---
 
 # § 578. Promotions: how made; effective date
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:38.067Z"
 - **(e)** A warrant officer who is appointed to a higher grade under this section is considered to have accepted such appointment on the date on which the appointment is made unless the officer expressly declines the appointment.
 - **(f)** A warrant officer who has served continuously as an officer since subscribing to the oath of office prescribed in section 3331 of title 5 is not required to take a new oath upon appointment to a higher grade under this section.
 - **(g)** Notwithstanding subsection (d), and subject to regulations prescribed by the Secretary of Defense, in the case of a warrant officer who is selected for promotion by a selection board convened under this chapter, and prior to the placement of the warrant officer’s name on the applicable promotion list as approved for transfer to a new component within the same or a different armed force, the Secretary concerned may place the warrant officer’s name on a corresponding promotion list of the new component without regard to the warrant officer’s competitive category. A warrant officer’s promotion under this subsection shall be made pursuant to section 12242 of this title .
+
+## Source Credit
+
+*(Added [Pub. L. 102–190, div. A, title XI, § 1112(a)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1497](https://www.govinfo.gov/link/statute/105/1497); amended [Pub. L. 102–484, div. A, title X, § 1052(4)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2499](https://www.govinfo.gov/link/statute/106/2499); [Pub. L. 103–337, div. A, title V, § 501(c)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2748](https://www.govinfo.gov/link/statute/108/2748); [Pub. L. 117–263, div. A, title V, § 508(c)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2560](https://www.govinfo.gov/link/statute/136/2560); [Pub. L. 118–31, div. A, title V, § 503(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 240](https://www.govinfo.gov/link/statute/137/240); [Pub. L. 118–159, div. A, title XVII, § 1701(a)(13)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2203](https://www.govinfo.gov/link/statute/138/2203).)*

@@ -3,9 +3,10 @@ title: "Section 319 - Special pay: surface warfare officer continuation pay"
 usc_title: 37
 usc_section: "319"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "37 U.S.C. § 319"
-generated_at: "2026-03-30T02:55:44.053Z"
+generated_at: "2026-11-23T20:26:57.362Z"
+status: "active"
 ---
 
 # § 319. Special pay: surface warfare officer continuation pay
@@ -20,3 +21,21 @@ generated_at: "2026-03-30T02:55:44.053Z"
 - **(e)** Any amount paid under this section is in addition to any other pay and allowances to which an officer is entitled.
 - **(f)** An officer who, having entered into a written agreement under subsection (b) and having received all or part of a bonus under this section, does not complete the period of active duty as a department head on a surface vessel as specified in the agreement, shall be subject to the repayment provisions of section 303a(e) of this title .
 - **(g)** The Secretary of the Navy shall prescribe regulations to carry out this section.
+
+Eligible Surface Warfare Officer Defined
+
+Special Pay Authorized
+
+Proration
+
+Payment Methods
+
+Additional Pay
+
+Repayment
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 106–65, div. A, title VI, § 627(a)(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 656](https://www.govinfo.gov/link/statute/113/656); amended [Pub. L. 107–107, div. A, title VI, § 616(b)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1137](https://www.govinfo.gov/link/statute/115/1137); [Pub. L. 109–163, div. A, title V, § 515(d)(1)(E)](https://www.govinfo.gov/link/plaw/109/public/163), title VI, § 687(b)(28), Jan. 6, 2006, [119 Stat. 3236](https://www.govinfo.gov/link/statute/119/3236), 3332.)*

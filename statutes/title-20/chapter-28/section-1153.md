@@ -3,9 +3,10 @@ title: "Section 1153 - Underground Railroad educational and cultural program"
 usc_title: 20
 usc_section: "1153"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1153"
-generated_at: "2026-03-30T02:54:48.149Z"
+generated_at: "2026-11-23T20:26:14.578Z"
+status: "active"
 ---
 
 # § 1153. Underground Railroad educational and cultural program
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:48.149Z"
     - **(C)** a plan for the programs and activities to be supported by the funding as the Secretary may require; and
     - **(D)** an evaluation of the programs and activities supported by the funding as the Secretary may require.
 - **(c)** There are authorized to be appropriated to carry out this section $3,000,000 for fiscal year 2009 and each of the five succeeding fiscal years.
+
+## Source Credit
+
+*([Pub. L. 105–244, title VIII, § 841](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1820](https://www.govinfo.gov/link/statute/112/1820); [Pub. L. 110–315, title IX, § 933](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3459](https://www.govinfo.gov/link/statute/122/3459); [Pub. L. 111–39, title VIII, § 802(a)(2)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1957](https://www.govinfo.gov/link/statute/123/1957).)*

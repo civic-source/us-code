@@ -3,9 +3,10 @@ title: "Section 4233 - Lease requirements and tenant selection"
 usc_title: 25
 usc_section: "4233"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 4233"
-generated_at: "2026-03-30T02:54:52.861Z"
+generated_at: "2026-11-23T20:26:25.698Z"
+status: "active"
 ---
 
 # § 4233. Lease requirements and tenant selection
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:52.861Z"
   - **(3)** provide for—
     - **(A)** the selection of tenants and homebuyers from a written waiting list in accordance with the policies and goals set forth in an applicable housing plan approved under section 4223 of this title ; and
     - **(B)** the prompt notification in writing of any rejected applicant of the grounds for that rejection.
+
+## Source Credit
+
+*([Pub. L. 104–330, title VIII, § 814](https://www.govinfo.gov/link/plaw/104/public/330), as added [Pub. L. 106–568, title II, § 203](https://www.govinfo.gov/link/plaw/106/public/568), Dec. 27, 2000, [114 Stat. 2889](https://www.govinfo.gov/link/statute/114/2889), and [Pub. L. 106–569, title V, § 513](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 2983](https://www.govinfo.gov/link/statute/114/2983).)*

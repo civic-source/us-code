@@ -3,9 +3,10 @@ title: "Section 112 - Limitations on exclusive rights: Ephemeral recordings"
 usc_title: 17
 usc_section: "112"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 112"
-generated_at: "2026-03-30T02:54:15.345Z"
+generated_at: "2026-11-23T20:26:06.485Z"
+status: "active"
 ---
 
 # § 112. Limitations on exclusive rights: Ephemeral recordings
@@ -54,3 +55,9 @@ generated_at: "2026-03-30T02:54:15.345Z"
     - **(A)** no digital version of the work is available to the institution; or
     - **(B)** the digital version of the work that is available to the institution is subject to technological protection measures that prevent its use for section 110(2).
 - **(g)** The transmission program embodied in a copy or phonorecord made under this section is not subject to protection as a derivative work under this title except with the express consent of the owners of copyright in the preexisting works employed in the program.
+
+Statutory License
+
+## Source Credit
+
+*([Pub. L. 94–553, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/553), Oct. 19, 1976, [90 Stat. 2558](https://www.govinfo.gov/link/statute/90/2558); [Pub. L. 105–304, title IV](https://www.govinfo.gov/link/plaw/105/public/304), §§ 402, 405(b), Oct. 28, 1998, [112 Stat. 2888](https://www.govinfo.gov/link/statute/112/2888), 2899; [Pub. L. 106–44, § 1(b)](https://www.govinfo.gov/link/plaw/106/public/44), Aug. 5, 1999, [113 Stat. 221](https://www.govinfo.gov/link/statute/113/221); [Pub. L. 107–273, div. C, title III, § 13301(c)(1)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1912](https://www.govinfo.gov/link/statute/116/1912); [Pub. L. 108–419, § 5(b)](https://www.govinfo.gov/link/plaw/108/public/419), Nov. 30, 2004, [118 Stat. 2361](https://www.govinfo.gov/link/statute/118/2361).)*

@@ -3,9 +3,10 @@ title: "Section 6501 - Purposes"
 usc_title: 22
 usc_section: "6501"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6501"
-generated_at: "2026-03-30T02:55:05.430Z"
+generated_at: "2026-11-23T20:26:32.619Z"
+status: "active"
 ---
 
 # § 6501. Purposes
@@ -23,3 +24,7 @@ The purposes of this chapter are—
   - **(4)** to assist congressional efforts to balance the Federal budget and reduce the Federal debt;
   - **(5)** to ensure that the United States maintains effective representation abroad within budgetary restraints; and
   - **(6)** to encourage United States foreign affairs agencies to maintain a high percentage of the best qualified, most competent United States citizens serving in the United States Government.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XI, § 1102, Oct. 21, 1998, [112 Stat. 2681–765](https://www.govinfo.gov/link/statute/112/2681).)*

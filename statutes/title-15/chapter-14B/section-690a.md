@@ -3,9 +3,10 @@ title: "Section 690a - Purposes"
 usc_title: 15
 usc_section: "690a"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 690a"
-generated_at: "2026-03-30T02:54:08.112Z"
+generated_at: "2026-11-23T20:26:03.868Z"
+status: "active"
 ---
 
 # § 690a. Purposes
@@ -17,3 +18,7 @@ The purposes of the Renewable Fuel Capital Investment Program established under 
     - **(A)** to enter into participation agreements with Renewable Fuel Capital Investment companies;
     - **(B)** to guarantee debentures of Renewable Fuel Capital Investment companies to enable each such company to make venture capital investments in smaller enterprises engaged in the research, development, manufacture, production, and bringing to market of goods, products, or services that generate or support the production of renewable energy; and
     - **(C)** to make grants to Renewable Fuel Investment Capital companies, and to other entities, for the purpose of providing operational assistance to smaller enterprises financed, or expected to be financed, by such companies.
+
+## Source Credit
+
+*([Pub. L. 85–699, title III, § 382](https://www.govinfo.gov/link/plaw/85/public/699), as added [Pub. L. 110–140, title XII, § 1207](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1775](https://www.govinfo.gov/link/statute/121/1775).)*

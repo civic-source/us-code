@@ -3,9 +3,10 @@ title: "Section 7 - Department of Agriculture minor use program"
 usc_title: 7
 usc_section: "7"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7"
-generated_at: "2026-03-30T02:53:42.264Z"
+generated_at: "2026-11-23T20:25:40.941Z"
+status: "active"
 ---
 
 # § 136w–7. Department of Agriculture minor use program
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:42.264Z"
       - **(i)** such amounts as may be appropriated to support the purposes of this subsection; and
       - **(ii)** fees collected by the Secretary for any data developed under a grant under paragraph (1)(A).
     - **(C)** There are authorized to be appropriated for each fiscal year to carry out the purposes of this subsection $10,000,000 to remain available until expended.
+
+## Source Credit
+
+*(June 25, 1947, ch. 125, § 32, as added [Pub. L. 104–170, title II, § 210(j)](https://www.govinfo.gov/link/plaw/104/public/170), Aug. 3, 1996, [110 Stat. 1501](https://www.govinfo.gov/link/statute/110/1501).)*

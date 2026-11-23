@@ -3,9 +3,10 @@ title: "Section 1610 - Effect on other laws"
 usc_title: 15
 usc_section: "1610"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1610"
-generated_at: "2026-03-30T02:54:08.138Z"
+generated_at: "2026-11-23T20:26:04.033Z"
+status: "active"
 ---
 
 # § 1610. Effect on other laws
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.138Z"
 - **(c)** In any action or proceeding in any court involving a consumer credit sale, the disclosure of the annual percentage rate as required under this subchapter in connection with that sale may not be received as evidence that the sale was a loan or any type of transaction other than a credit sale.
 - **(d)** Except as specified in sections 1635, 1640, and 1666e of this title, this subchapter and the regulations issued thereunder do not affect the validity or enforceability of any contract or obligation under State or Federal law.
 - **(e)** The provisions of subsection (c) of section 1632 of this title and subsections (c), (d), (e), and (f) of section 1637 of this title shall supersede any provision of the law of any State relating to the disclosure of information in any credit or charge card application or solicitation which is subject to the requirements of section 1637(c) of this title or any renewal notice which is subject to the requirements of section 1637(d) of this title , except that any State may employ or establish State laws for the purpose of enforcing the requirements of such sections.
+
+## Source Credit
+
+*([Pub. L. 90–321, title I, § 111](https://www.govinfo.gov/link/plaw/90/public/321), May 29, 1968, [82 Stat. 151](https://www.govinfo.gov/link/statute/82/151); [Pub. L. 93–495, title III, § 307(b)](https://www.govinfo.gov/link/plaw/93/public/495), Oct. 28, 1974, [88 Stat. 1516](https://www.govinfo.gov/link/statute/88/1516); [Pub. L. 96–221, title VI, § 609](https://www.govinfo.gov/link/plaw/96/public/221), Mar. 31, 1980, [94 Stat. 173](https://www.govinfo.gov/link/statute/94/173); [Pub. L. 100–583, § 4](https://www.govinfo.gov/link/plaw/100/public/583), Nov. 3, 1988, [102 Stat. 2967](https://www.govinfo.gov/link/statute/102/2967); [Pub. L. 103–325, title I, § 152(e)(2)(B)](https://www.govinfo.gov/link/plaw/103/public/325), (C), Sept. 23, 1994, [108 Stat. 2194](https://www.govinfo.gov/link/statute/108/2194); [Pub. L. 111–203, title X, § 1100A(2)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2107](https://www.govinfo.gov/link/statute/124/2107).)*

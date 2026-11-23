@@ -3,9 +3,10 @@ title: "Section 92 - Definitions"
 usc_title: 7
 usc_section: "92"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 92"
-generated_at: "2026-03-30T02:53:42.255Z"
+generated_at: "2026-11-23T20:25:40.911Z"
+status: "active"
 ---
 
 # § 92. Definitions
@@ -24,3 +25,7 @@ When used in this chapter—
 - **(j)** “Package” means any container of naval stores, and includes barrel, tank, tank car, or other receptacle.
 - **(k)** “Person” includes partnerships, associations, and corporations, as well as individuals.
 - **(l)** The term “commerce” means commerce between any State, Territory, or possession, or the District of Columbia, and any place outside thereof; or between points within the same State, Territory, or possession, or the District of Columbia, but through any place outside thereof; or within any Territory or possession or the District of Columbia.
+
+## Source Credit
+
+*(Mar. 3, 1923, ch. 217, § 2, [42 Stat. 1435](https://www.govinfo.gov/link/statute/42/1435).)*

@@ -3,9 +3,10 @@ title: "Section 1839 - Definitions"
 usc_title: 18
 usc_section: "1839"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 1839"
-generated_at: "2026-03-30T02:54:16.491Z"
+generated_at: "2026-11-23T20:26:08.531Z"
+status: "active"
 ---
 
 # § 1839. Definitions
@@ -33,3 +34,7 @@ As used in this chapter—
     - **(A)** includes theft, bribery, misrepresentation, breach or inducement of a breach of a duty to maintain secrecy, or espionage through electronic or other means; and
     - **(B)** does not include reverse engineering, independent derivation, or any other lawful means of acquisition; and
   - **(7)** the term “Trademark Act of 1946” means the Act entitled “An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes 1 1 So in original. The closing quotation marks probably should follow “purposes” instead of “ ‘Lanham Act’)”. , approved July 5, 1946 ( 15 U.S.C. 1051 et seq.) (commonly referred to as the ‘Trademark Act of 1946’ or the ‘Lanham Act’)” 1 .
+
+## Source Credit
+
+*(Added [Pub. L. 104–294, title I, § 101(a)](https://www.govinfo.gov/link/plaw/104/public/294), Oct. 11, 1996, [110 Stat. 3490](https://www.govinfo.gov/link/statute/110/3490); amended [Pub. L. 114–153, § 2(b)](https://www.govinfo.gov/link/plaw/114/public/153), May 11, 2016, [130 Stat. 380](https://www.govinfo.gov/link/statute/130/380).)*

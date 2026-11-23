@@ -3,9 +3,10 @@ title: "Section 1234e - Cease and desist orders"
 usc_title: 20
 usc_section: "1234e"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1234e"
-generated_at: "2026-03-30T02:54:48.158Z"
+generated_at: "2026-11-23T20:26:14.624Z"
+status: "active"
 ---
 
 # § 1234e. Cease and desist orders
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:48.158Z"
 - **(e)** The Secretary may enforce a final order of the Office under this section which becomes final agency action by—
   - **(1)** withholding from the recipient any portion of the amount payable to it, including the amount payable for administrative costs, under the applicable program; or
   - **(2)** certifying the facts to the Attorney General who shall cause an appropriate proceeding to be brought for the enforcement of the order.
+
+## Source Credit
+
+*([Pub. L. 90–247, title IV, § 456](https://www.govinfo.gov/link/plaw/90/public/247), as added [Pub. L. 95–561, title XII, § 1232](https://www.govinfo.gov/link/plaw/95/public/561), Nov. 1, 1978, [92 Stat. 2351](https://www.govinfo.gov/link/statute/92/2351); amended [Pub. L. 100–297, title III, § 3501(a)](https://www.govinfo.gov/link/plaw/100/public/297), Apr. 28, 1988, [102 Stat. 355](https://www.govinfo.gov/link/statute/102/355).)*

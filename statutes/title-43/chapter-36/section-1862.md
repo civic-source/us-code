@@ -3,9 +3,10 @@ title: "Section 1862 - Natural gas distribution"
 usc_title: 43
 usc_section: "1862"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1862"
-generated_at: "2026-03-30T02:55:57.494Z"
+generated_at: "2026-11-23T20:27:06.389Z"
+status: "active"
 ---
 
 # § 1862. Natural gas distribution
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:57.494Z"
     - **(B)** regulated, or operated as a public utility, by a State or local government or agency thereof;
   - **(2)** “interstate commerce” shall have the same meaning as such term has under section 717a(7) of title 15 ; and
   - **(3)** “Commission” means the Federal Energy Regulatory Commission.
+
+## Source Credit
+
+*([Pub. L. 95–372, title VI, § 603](https://www.govinfo.gov/link/plaw/95/public/372), Sept. 18, 1978, [92 Stat. 694](https://www.govinfo.gov/link/statute/92/694).)*

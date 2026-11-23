@@ -3,9 +3,10 @@ title: "Section 284l - Enhancement awards"
 usc_title: 42
 usc_section: "284l"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 284l"
-generated_at: "2026-03-30T02:56:10.742Z"
+generated_at: "2026-11-23T20:27:20.215Z"
+status: "active"
 ---
 
 # § 284l. Enhancement awards
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:56:10.742Z"
     - **(F)** Biomedical writing.
   - **(2)** An application for a grant under this subsection shall be submitted by an individual institution or a consortium of institutions at such time as the Director may require. An institution may submit only one such application.
   - **(3)** Grants under this subsection shall be for terms of up to 5 years and may be renewable.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title IV, § 409H, formerly § 409D, as added [Pub. L. 106–505, title II, § 204(b)](https://www.govinfo.gov/link/plaw/106/public/505), Nov. 13, 2000, [114 Stat. 2327](https://www.govinfo.gov/link/statute/114/2327); renumbered § 409H, [Pub. L. 107–109, § 3(2)](https://www.govinfo.gov/link/plaw/107/public/109), Jan. 4, 2002, [115 Stat. 1408](https://www.govinfo.gov/link/statute/115/1408); amended [Pub. L. 109–482, title I, § 103(b)(13)](https://www.govinfo.gov/link/plaw/109/public/482), Jan. 15, 2007, [120 Stat. 3687](https://www.govinfo.gov/link/statute/120/3687).)*

@@ -3,9 +3,10 @@ title: "Section 9602 - Management of Trust Funds"
 usc_title: 26
 usc_section: "9602"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 9602"
-generated_at: "2026-03-30T02:55:27.893Z"
+generated_at: "2026-11-23T20:26:46.887Z"
+status: "active"
 ---
 
 # § 9602. Management of Trust Funds
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:27.893Z"
     - **(B)** by purchase of outstanding obligations at the market price.
   - **(2)** Any obligation acquired by a Trust Fund established by subchapter A may be sold by the Secretary of the Treasury at the market price.
   - **(3)** The interest on, and the proceeds from the sale or redemption of, any obligations held in a Trust Fund established by subchapter A shall be credited to and form a part of the Trust Fund.
+
+## Source Credit
+
+*(Added [Pub. L. 97–119, title I, § 103(a)](https://www.govinfo.gov/link/plaw/97/public/119), Dec. 29, 1981, [95 Stat. 1638](https://www.govinfo.gov/link/statute/95/1638).)*

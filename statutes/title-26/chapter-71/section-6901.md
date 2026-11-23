@@ -3,9 +3,10 @@ title: "Section 6901 - Transferred assets"
 usc_title: 26
 usc_section: "6901"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6901"
-generated_at: "2026-03-30T02:55:27.867Z"
+generated_at: "2026-11-23T20:26:46.740Z"
+status: "transferred"
 ---
 
 # § 6901. Transferred assets
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:27.867Z"
 - **(g)** In the absence of notice to the Secretary under section 6903 of the existence of a fiduciary relationship, any notice of liability enforceable under this section required to be mailed to such person, shall, if mailed to the person subject to the liability at his last known address, be sufficient for purposes of this title, even if such person is deceased, or is under a legal disability, or, in the case of a corporation, has terminated its existence.
 - **(h)** As used in this section, the term “transferee” includes donee, heir, legatee, devisee, and distributee, and with respect to estate taxes, also includes any person who, under section 6324(a)(2), is personally liable for any part of such tax.
 - **(i)** For extensions of time by reason of armed service in a combat zone, see section 7508.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 841; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 97–258, § 3(f)(10)](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 1065](https://www.govinfo.gov/link/statute/96/1065); [Pub. L. 115–141, div. U, title IV, § 401(a)(322)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1199](https://www.govinfo.gov/link/statute/132/1199).)*

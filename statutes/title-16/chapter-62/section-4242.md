@@ -3,12 +3,17 @@ title: "Section 4242 - Certification under Pelly amendment"
 usc_title: 16
 usc_section: "4242"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 4242"
-generated_at: "2026-03-30T02:54:23.042Z"
+generated_at: "2026-11-23T20:26:20.736Z"
+status: "active"
 ---
 
 # § 4242. Certification under Pelly amendment
 
 If the Secretary finds in administering this chapter that a country does not adhere to the CITES Ivory Control System, that country is deemed, for purposes of section 1978(a)(2) of title 22 , to be diminishing the effectiveness of an international program for endangered or threatened species.
 
+
+## Source Credit
+
+*([Pub. L. 100–478, title II, § 2303](https://www.govinfo.gov/link/plaw/100/public/478), Oct. 7, 1988, [102 Stat. 2322](https://www.govinfo.gov/link/statute/102/2322).)*

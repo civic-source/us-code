@@ -3,9 +3,10 @@ title: "Section 15852 - Federal purchase requirement"
 usc_title: 42
 usc_section: "15852"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 15852"
-generated_at: "2026-03-30T02:56:11.461Z"
+generated_at: "2026-11-23T20:27:23.573Z"
+status: "active"
 ---
 
 # § 15852. Federal purchase requirement
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:11.461Z"
     - **(A)** For purposes of determining compliance with the requirement of this section, any energy consumption that is avoided through the use of geothermal energy shall be considered to be renewable energy produced.
     - **(B)** Energy consumption that is avoided through the use of geothermal energy that is considered to be renewable energy under this section shall not be considered energy efficiency for the purpose of compliance with Federal energy efficiency goals, targets, and incentives.
 - **(d)** Not later than April 15, 2007 , and every 2 years thereafter, the Secretary shall provide a report to Congress on the progress of the Federal Government in meeting the goals established by this section.
+
+## Source Credit
+
+*([Pub. L. 109–58, title II, § 203](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 652](https://www.govinfo.gov/link/statute/119/652); [Pub. L. 116–260, div. Z, title III](https://www.govinfo.gov/link/plaw/116/public/260), §§ 3002(o), 3006(b)(2), Dec. 27, 2020, [134 Stat. 2497](https://www.govinfo.gov/link/statute/134/2497), 2512.)*

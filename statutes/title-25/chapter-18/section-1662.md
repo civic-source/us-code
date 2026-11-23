@@ -3,9 +3,10 @@ title: "Section 1662 - Automated management information system"
 usc_title: 25
 usc_section: "1662"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1662"
-generated_at: "2026-03-30T02:54:52.824Z"
+generated_at: "2026-11-23T20:26:25.514Z"
+status: "active"
 ---
 
 # § 1662. Automated management information system
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:52.824Z"
   - **(2)** The Secretary shall reimburse each Indian tribe or tribal organization for the part of the cost of the operation of a system provided under paragraph (1) which is attributable to the treatment by such Indian tribe or tribal organization of patients of the Service.
   - **(3)** The Secretary shall provide systems under paragraph (1) to Indian tribes and tribal organizations providing health services in California by no later than September 30, 1990 .
 - **(c)** Notwithstanding any other provision of law, each patient shall have reasonable access to the medical or health records of such patient which are held by, or on behalf of, the Service.
+
+## Source Credit
+
+*([Pub. L. 94–437, title VI, § 602](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 100–713, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/100/public/713), Nov. 23, 1988, [102 Stat. 4825](https://www.govinfo.gov/link/statute/102/4825); amended [Pub. L. 102–573, title IX, § 901(3)](https://www.govinfo.gov/link/plaw/102/public/573), Oct. 29, 1992, [106 Stat. 4591](https://www.govinfo.gov/link/statute/106/4591).)*

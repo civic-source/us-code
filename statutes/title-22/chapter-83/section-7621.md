@@ -3,9 +3,10 @@ title: "Section 7621 - Sense of Congress on public-private partnerships"
 usc_title: 22
 usc_section: "7621"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7621"
-generated_at: "2026-03-30T02:55:05.442Z"
+generated_at: "2026-11-23T20:26:32.672Z"
+status: "active"
 ---
 
 # § 7621. Sense of Congress on public-private partnerships
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.442Z"
 - **(b)** It is the sense of Congress that—
   - **(1)** the sustainment and promotion of public-private partnerships should be a priority element of the strategy pursued by the United States to combat the HIV/AIDS pandemic and other global health crises; and
   - **(2)** the United States should systematically track the evolution of these partnerships and work with others in the public and private sector to profile and build upon those models that are most effective.
+
+## Source Credit
+
+*([Pub. L. 108–25, title II, § 201](https://www.govinfo.gov/link/plaw/108/public/25), May 27, 2003, [117 Stat. 723](https://www.govinfo.gov/link/statute/117/723).)*

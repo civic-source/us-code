@@ -3,9 +3,10 @@ title: "Section 7300 - Report to Congress; effect on personnel"
 usc_title: 42
 usc_section: "7300"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7300"
-generated_at: "2026-03-30T02:56:11.289Z"
+generated_at: "2026-11-23T20:27:22.807Z"
+status: "active"
 ---
 
 # § 7300. Report to Congress; effect on personnel
@@ -18,3 +19,7 @@ The Civil Service Commission shall, as soon as practicable but not later than on
   - **(4)** an estimate of the personnel costs associated with such reorganization;
   - **(5)** the effects of such reorganization on labor management relations; and
   - **(6)** such legislative and administrative recommendations for improvements in personnel management within the Department as the Commission considers necessary.
+
+## Source Credit
+
+*([Pub. L. 95–91, title VII, § 712](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 609](https://www.govinfo.gov/link/statute/91/609).)*

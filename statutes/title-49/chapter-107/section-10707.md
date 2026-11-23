@@ -3,9 +3,10 @@ title: "Section 10707 - Determination of market dominance in rail rate proceedin
 usc_title: 49
 usc_section: "10707"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 10707"
-generated_at: "2026-03-30T02:56:19.323Z"
+generated_at: "2026-11-23T20:27:34.715Z"
+status: "active"
 ---
 
 # § 10707. Determination of market dominance in rail rate proceedings
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:19.323Z"
   - **(2)** A finding by the Board that a rate charged by a rail carrier results in a revenue-variable cost percentage for the transportation to which the rate applies that is equal to or greater than 180 percent does not establish a presumption that—
     - **(A)** such rail carrier has or does not have market dominance over such transportation; or
     - **(B)** the proposed rate exceeds or does not exceed a reasonable maximum.
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 102(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 815](https://www.govinfo.gov/link/statute/109/815).)*

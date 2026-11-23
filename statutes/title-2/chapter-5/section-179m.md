@@ -3,9 +3,10 @@ title: "Section 179m - Duties of Librarian of Congress"
 usc_title: 2
 usc_section: "179m"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 179m"
-generated_at: "2026-03-30T02:53:04.791Z"
+generated_at: "2026-11-23T20:25:28.855Z"
+status: "active"
 ---
 
 # § 179m. Duties of Librarian of Congress
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:04.791Z"
   - **(1)** carry out activities to make films included in the National Film registry more broadly accessible for research and educational purposes, and to generate public awareness and support of the Registry and the comprehensive national film preservation program;
   - **(2)** review the comprehensive national film preservation plan, and amend it to the extent necessary to ensure that it addresses technological advances in the preservation and storage of, and access to film collections in multiple formats; and
   - **(3)** wherever possible, undertake expanded initiatives to ensure the preservation of the moving image heritage of the United States, including film, videotape, television, and born digital moving image formats, by supporting the work of the National Audio-Visual Conservation Center of the Library of Congress, and other appropriate nonprofit archival and preservation organizations.
+
+## Source Credit
+
+*([Pub. L. 104–285, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/285), Oct. 11, 1996, [110 Stat. 3377](https://www.govinfo.gov/link/statute/110/3377); [Pub. L. 109–9, title III, § 302(a)](https://www.govinfo.gov/link/plaw/109/public/9), Apr. 27, 2005, [119 Stat. 224](https://www.govinfo.gov/link/statute/119/224); [Pub. L. 110–336, § 3(a)(2)](https://www.govinfo.gov/link/plaw/110/public/336), Oct. 2, 2008, [122 Stat. 3727](https://www.govinfo.gov/link/statute/122/3727).)*

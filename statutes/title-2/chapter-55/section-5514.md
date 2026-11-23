@@ -3,9 +3,10 @@ title: "Section 5514 - Green and Gold Congressional Aide Program"
 usc_title: 2
 usc_section: "5514"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 5514"
-generated_at: "2026-03-30T02:53:04.837Z"
+generated_at: "2026-11-23T20:25:29.062Z"
+status: "active"
 ---
 
 # § 5514. Green and Gold Congressional Aide Program
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:04.837Z"
 - **(d)** The Program shall be carried out in accordance with regulations promulgated by the Committee on House Administration.
 - **(e)** There are authorized to be appropriated for fiscal year 2022 and each succeeding fiscal year such sums as may be necessary to carry out the Program.
 - **(f)** This section shall apply with respect to fiscal year 2022 and each succeeding fiscal year.
+
+## Source Credit
+
+*([Pub. L. 117–103, div. I, title I, § 114](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 511](https://www.govinfo.gov/link/statute/136/511).)*

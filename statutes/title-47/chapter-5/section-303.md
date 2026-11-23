@@ -3,9 +3,10 @@ title: "Section 303 - Powers and duties of Commission"
 usc_title: 47
 usc_section: "303"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 303"
-generated_at: "2026-03-30T02:56:24.504Z"
+generated_at: "2026-11-23T20:27:28.861Z"
+status: "active"
 ---
 
 # § 303. Powers and duties of Commission
@@ -77,3 +78,141 @@ Except as otherwise provided in this chapter, the Commission from time to time, 
   - **(3)** that, with respect to navigation device features and functions—
     - **(A)** delivered in software, the requirements set forth in this subsection shall apply to the manufacturer of such software; and
     - **(B)** delivered in hardware, the requirements set forth in this subsection shall apply to the manufacturer of such hardware.
+
+(1) false or deceptive signals or communications, or
+
+(2) a call signal or letter which has not been assigned by proper authority to the station he is operating; or
+
+Applicability of rating provision
+
+Effective date of manufacturing provision
+
+Implementing Regulations
+
+Alternate Means of Compliance
+
+Implementing Regulations
+
+Alternate Means of Compliance
+
+Deferral of Compliance with ATSC Mobile DTV Standard A
+
+In general
+
+Exemption
+
+Responsibility
+
+Separate equipment or software.—
+
+In general
+
+Requirements
+
+User controls for closed captioning
+
+Phase-in.—
+
+In general
+
+Application
+
+Service Rules; Allocation.—
+
+In general
+
+Coordination with national telecommunications and information administration
+
+Limitation
+
+Streamlining of Process for Granting Authorizations
+
+Frequencies Described
+
+Rule of Construction
+
+Definitions
+
+Assistant secretary
+
+Commercial space launch
+
+Commercial space reentry
+
+Commission
+
+Definitions
+
+Rulemaking Required
+
+Considerations
+
+In General
+
+Restriction.—
+
+In general
+
+Waiver.—
+
+In general
+
+Requirements.—
+
+Suspension
+
+Elimination of interference
+
+Notification
+
+In General
+
+Report
+
+Licensing Not Affected by Study
+
+National Radio Station Ownership Rule Changes Required
+
+Local Radio Diversity.—
+
+Applicable caps
+
+Exception
+
+Television Ownership Limitations.—
+
+National ownership limitations
+
+Local ownership limitations
+
+Divestiture
+
+Forbearance
+
+Relaxation of One-To-A-Market
+
+Dual Network Changes
+
+Cable Cross Ownership.—
+
+Elimination of restrictions
+
+Safeguards against discrimination
+
+Local Marketing Agreements
+
+Further Commission Review
+
+Elimination of Statutory Restriction
+
+“The Congress makes the following findings:
+
+“In establishing an advisory committee for purposes of the amendment made by paragraph (1) of this subsection [amending this section], the Commission shall—
+
+“It is the policy of the United States to encourage broadcast television, cable, satellite, syndication, other video programming distributors, and relevant related industries (in consultation with appropriate public interest groups and interested individuals from the private sector) to—
+
+“The Congress finds that—
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title III, § 303, [48 Stat. 1082](https://www.govinfo.gov/link/statute/48/1082); May 20, 1937, ch. 229, §§ 5, 6, [50 Stat. 190](https://www.govinfo.gov/link/statute/50/190), 191; [Pub. L. 85–817, § 1](https://www.govinfo.gov/link/plaw/85/public/817), Aug. 28, 1958, [72 Stat. 981](https://www.govinfo.gov/link/statute/72/981); [Pub. L. 87–445](https://www.govinfo.gov/link/plaw/87/public/445), Apr. 27, 1962, [76 Stat. 64](https://www.govinfo.gov/link/statute/76/64); [Pub. L. 87–529, § 1](https://www.govinfo.gov/link/plaw/87/public/529), July 10, 1962, [76 Stat. 150](https://www.govinfo.gov/link/statute/76/150); [Pub. L. 88–313, § 1](https://www.govinfo.gov/link/plaw/88/public/313), May 28, 1964, [78 Stat. 202](https://www.govinfo.gov/link/statute/78/202); [Pub. L. 88–487, § 2](https://www.govinfo.gov/link/plaw/88/public/487), Aug. 22, 1964, [78 Stat. 602](https://www.govinfo.gov/link/statute/78/602); [Pub. L. 89–268](https://www.govinfo.gov/link/plaw/89/public/268), Oct. 19, 1965, [79 Stat. 990](https://www.govinfo.gov/link/statute/79/990); [Pub. L. 92–81, § 1](https://www.govinfo.gov/link/plaw/92/public/81), Aug. 10, 1971, [85 Stat. 302](https://www.govinfo.gov/link/statute/85/302); [Pub. L. 93–505, § 1](https://www.govinfo.gov/link/plaw/93/public/505), Nov. 30, 1974, [88 Stat. 1576](https://www.govinfo.gov/link/statute/88/1576); [Pub. L. 97–259, title I](https://www.govinfo.gov/link/plaw/97/public/259), §§ 109–111(a), 113(b), Sept. 13, 1982, [96 Stat. 1092](https://www.govinfo.gov/link/statute/96/1092), 1093; [Pub. L. 101–396, § 8(a)](https://www.govinfo.gov/link/plaw/101/public/396), Sept. 28, 1990, [104 Stat. 850](https://www.govinfo.gov/link/statute/104/850); [Pub. L. 101–431, § 3](https://www.govinfo.gov/link/plaw/101/public/431), Oct. 15, 1990, [104 Stat. 960](https://www.govinfo.gov/link/statute/104/960); [Pub. L. 102–538, title II, § 210(a)](https://www.govinfo.gov/link/plaw/102/public/538), Oct. 27, 1992, [106 Stat. 3544](https://www.govinfo.gov/link/statute/106/3544); [Pub. L. 104–104, title II, § 205(b)](https://www.govinfo.gov/link/plaw/104/public/104), title IV, § 403(g), title V, § 551(b)(1), (c), Feb. 8, 1996, [110 Stat. 114](https://www.govinfo.gov/link/statute/110/114), 131, 140, 141; [Pub. L. 105–33, title III, § 3005](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 268](https://www.govinfo.gov/link/statute/111/268); [Pub. L. 111–260, title II](https://www.govinfo.gov/link/plaw/111/public/260), §§ 203(a), (b), 204(a), 205(a), Oct. 8, 2010, [124 Stat. 2772–2774](https://www.govinfo.gov/link/statute/124/2772); [Pub. L. 111–265, § 2(12)](https://www.govinfo.gov/link/plaw/111/public/265) –(15), Oct. 8, 2010, [124 Stat. 2796](https://www.govinfo.gov/link/statute/124/2796).)*

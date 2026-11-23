@@ -3,9 +3,10 @@ title: "Section 16255 - Preprocessing and harvesting demonstration grants"
 usc_title: 42
 usc_section: "16255"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16255"
-generated_at: "2026-03-30T02:56:11.475Z"
+generated_at: "2026-11-23T20:27:23.638Z"
+status: "active"
 ---
 
 # § 16255. Preprocessing and harvesting demonstration grants
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.475Z"
   - **(1)** to produce ethanol; or
   - **(2)** for another energy purpose, such as the generation of heat or electricity.
 - **(d)** There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2006 through 2010.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 946](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 883](https://www.govinfo.gov/link/statute/119/883).)*

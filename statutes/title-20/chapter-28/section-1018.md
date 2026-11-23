@@ -3,9 +3,10 @@ title: "Section 1018 - Performance-Based Organization for delivery of Federal st
 usc_title: 20
 usc_section: "1018"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1018"
-generated_at: "2026-03-30T02:54:48.095Z"
+generated_at: "2026-11-23T20:26:14.311Z"
+status: "active"
 ---
 
 # § 1018. Performance-Based Organization for delivery of Federal student financial assistance
@@ -105,3 +106,7 @@ generated_at: "2026-03-30T02:54:48.095Z"
   - **(3)** The Chief Operating Officer may appoint, without regard to the provisions of title 5 governing appointments in the competitive service, technical and professional employees to administer the functions of the PBO. These employees may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
 - **(h)** The PBO shall establish an annual performance management system, subject to compliance with title 5, and consistent with applicable provisions of law and regulations, which strengthens the effectiveness of the PBO by providing for establishing goals or objectives for individual, group, or organizational performance (or any combination thereof), consistent with the performance plan of the PBO and its performance planning procedures, including those established under the Government Performance and Results Act of 1993, and communicating such goals or objectives to employees.
 - **(i)** The Secretary shall allocate from funds made available under section 1087h of this title such funds as are appropriate to the functions assumed by the PBO. In addition, there are authorized to be appropriated such sums as may be necessary to carry out the purposes of this part.
+
+## Source Credit
+
+*([Pub. L. 89–329, title I, § 141](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title I, § 101(a)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1604](https://www.govinfo.gov/link/statute/112/1604); amended [Pub. L. 110–315, title I](https://www.govinfo.gov/link/plaw/110/public/315), §§ 103(b)(2), 117, Aug. 14, 2008, [122 Stat. 3088](https://www.govinfo.gov/link/statute/122/3088), 3114; [Pub. L. 111–39, title I, § 101(b)(5)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1935](https://www.govinfo.gov/link/statute/123/1935); [Pub. L. 116–251, § 5](https://www.govinfo.gov/link/plaw/116/public/251), Dec. 22, 2020, [134 Stat. 1131](https://www.govinfo.gov/link/statute/134/1131).)*

@@ -3,9 +3,10 @@ title: "Section 1413 - Partitions of eligible multiemployer plans"
 usc_title: 29
 usc_section: "1413"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1413"
-generated_at: "2026-03-30T02:55:18.736Z"
+generated_at: "2026-11-23T20:26:38.040Z"
+status: "active"
 ---
 
 # § 1413. Partitions of eligible multiemployer plans
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:55:18.736Z"
     - **(B)** the total benefit payments from the plan created by the partition for such year.
   - **(3)** The plan that was partitioned shall pay the premiums imposed by the corporation under this subchapter with respect to participants whose benefits were transferred to the plan created by the partition order for each year during the 10-year period following the partition effective date.
 - **(f)** Not later than 14 days after the partition order, the corporation shall provide notice of such order to the Committee on Education and the Workforce of the House of Representatives, the Committee on Ways and Means of the House of Representatives, the Committee on Finance of the Senate, the Committee on Health, Education, Labor, and Pensions of the Senate, and any affected participants or beneficiaries.
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4233](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 96–364, title I, § 104(2)](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1246](https://www.govinfo.gov/link/statute/94/1246); amended [Pub. L. 113–235, div. O, title I, § 122(a)(1)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2795](https://www.govinfo.gov/link/statute/128/2795).)*

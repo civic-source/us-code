@@ -3,9 +3,10 @@ title: "Section 12323 - Active duty pending line of duty determination required 
 usc_title: 10
 usc_section: "12323"
 chapter: 1209
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 12323"
-generated_at: "2026-03-30T02:53:38.270Z"
+generated_at: "2026-11-23T20:25:52.440Z"
+status: "active"
 ---
 
 # § 12323. Active duty pending line of duty determination required for response to sexual assault
@@ -15,3 +16,13 @@ generated_at: "2026-03-30T02:53:38.270Z"
 - **(c)** The Secretaries of the military departments shall prescribe regulations to carry out this section, subject to guidelines prescribed by the Secretary of Defense. The guidelines of the Secretary of Defense shall provide that—
   - **(1)** a request submitted by a member described in subsection (a) or (b) to continue on active duty, or to be ordered to active duty, respectively, must be decided within 30 days from the date of the request; and
   - **(2)** if the request is denied, the member may appeal to the first general officer or flag officer in the chain of command of the member, and in the case of such an appeal a decision on the appeal must be made within 15 days from the date of the appeal.
+
+Continuation on Active Duty
+
+Return to Active Duty
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 112–239, div. A, title V, § 571(a)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1753](https://www.govinfo.gov/link/statute/126/1753).)*

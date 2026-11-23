@@ -3,9 +3,10 @@ title: "Section 8424 - Restoration of overnight campsites"
 usc_title: 16
 usc_section: "8424"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 8424"
-generated_at: "2026-03-30T02:54:23.084Z"
+generated_at: "2026-11-23T20:26:20.880Z"
+status: "active"
 ---
 
 # § 8424. Restoration of overnight campsites
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:23.084Z"
   - **(2)** Loop B.
   - **(3)** The covered, large-group picnic pavilion in Loop D.
   - **(4)** The parking lot in Loop D.
+
+## Source Credit
+
+*([Pub. L. 118–234, title I, § 124](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2846](https://www.govinfo.gov/link/statute/138/2846).)*

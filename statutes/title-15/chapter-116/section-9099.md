@@ -3,9 +3,10 @@ title: "Section 9099 - Reports"
 usc_title: 15
 usc_section: "9099"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 9099"
-generated_at: "2026-03-30T02:54:08.244Z"
+generated_at: "2026-11-23T20:26:04.558Z"
+status: "active"
 ---
 
 # § 9099. Reports
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:08.244Z"
 - **(b)** The Secretary shall update the website of the Department of the Treasury, at minimum, on a weekly basis as necessary to reflect new or revised distributions of financial assistance under this part with respect to each passenger air carrier or contractor that receives such assistance, the identification of any applicant that applied for financial assistance under this part, and the date of application for such assistance.
 - **(c)** Not later than the last day of the 1-year period following December 27, 2020 , the Secretary shall update and submit to the Committee on Transportation and Infrastructure and the Committee on Financial Services of the House of Representatives and the Committee on Commerce, Science, and Transportation and the Committee on Banking, Housing, and Urban Affairs of the Senate, the report submitted under subsection (a).
 - **(d)** The Secretary may withhold information that would otherwise be required to be made available under this section only if the Secretary determines to withhold the information in accordance with section 552 of title 5 .
+
+## Source Credit
+
+*([Pub. L. 116–260, div. N, title IV, § 409](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2059](https://www.govinfo.gov/link/statute/134/2059).)*

@@ -3,9 +3,10 @@ title: "Section 5503 - Development and demonstration of solar heating systems fo
 usc_title: 42
 usc_section: "5503"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5503"
-generated_at: "2026-03-30T02:56:11.236Z"
+generated_at: "2026-11-23T20:27:22.546Z"
+status: "active"
 ---
 
 # § 5503. Development and demonstration of solar heating systems for use in residential dwellings
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.236Z"
 - **(d)** The Secretary shall (1) arrange for the installation of solar heating systems procured by the Administrator under subsection (c)(2) in a substantial number of residential dwellings and (2) provide for the satisfactory operation of such installations during the demonstration period. Title to and ownership of any dwellings constructed hereunder and of solar heating systems installed hereunder may be conveyed to purchasers or owners of such dwellings under terms and conditions prescribed by the Secretary, including an express agreement that any such purchaser or owner shall, in such manner and form and on such terms and conditions as the Secretary may prescribe, observe and monitor (or permit the Secretary to observe and monitor) the performance and operation of such system for a period of five years, and that such purchaser or owner (including any subsequent owner and occupant of the property who also makes such an agreement) shall regularly furnish the Secretary with such reports thereon as the agreement may require.
 - **(e)** The Secretary of Defense shall arrange for the installation of solar heating systems procured by the Administrator under subsection (c)(2) in a substantial number of residential dwellings which are located on Federal or federally administered property where the performance and operation of such systems can be regularly and effectively observed and monitored by designated Federal personnel.
 - **(f)** The Secretary and the Secretary of Defense, and officials responsible for administering Federal or federally administered property, shall coordinate their activities under this section to assure that solar heating systems are installed in a substantial number of residential dwellings and in a sufficient number of different geographic areas under varying climatic conditions to constitute a realistic and effective demonstration in support of the objectives of this subchapter.
+
+## Source Credit
+
+*([Pub. L. 93–409, § 5](https://www.govinfo.gov/link/plaw/93/public/409), Sept. 3, 1974, [88 Stat. 1070](https://www.govinfo.gov/link/statute/88/1070); [Pub. L. 93–438, title I, § 104(f)](https://www.govinfo.gov/link/plaw/93/public/438), title III, § 301(h), Oct. 11, 1974, [88 Stat. 1238](https://www.govinfo.gov/link/statute/88/1238), 1250; [Pub. L. 95–91, title III, § 301(a)](https://www.govinfo.gov/link/plaw/95/public/91), title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577](https://www.govinfo.gov/link/statute/91/577), 606, 607; [Pub. L. 100–418, title V, § 5115(c)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1433](https://www.govinfo.gov/link/statute/102/1433).)*

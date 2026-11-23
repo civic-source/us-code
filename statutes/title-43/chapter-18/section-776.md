@@ -3,9 +3,10 @@ title: "Section 776 - Cadastre of Federal real property"
 usc_title: 43
 usc_section: "776"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 776"
-generated_at: "2026-03-30T02:55:57.461Z"
+generated_at: "2026-11-23T20:27:06.254Z"
+status: "active"
 ---
 
 # § 776. Cadastre of Federal real property
@@ -93,3 +94,7 @@ generated_at: "2026-03-30T02:55:57.461Z"
     - **(D)** any new appraisal or assessment of—
       - **(i)** the value of any parcel of Federal land or other real property; or
       - **(ii)** the cultural and archaeological resources on any parcel of Federal land or other real property.
+
+## Source Credit
+
+*([Pub. L. 117–328, div. DD, title I, § 103](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5576](https://www.govinfo.gov/link/statute/136/5576).)*

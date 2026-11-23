@@ -3,9 +3,10 @@ title: "Section 3691 - Establishment of modern service standards"
 usc_title: 39
 usc_section: "3691"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "39 U.S.C. § 3691"
-generated_at: "2026-03-30T02:55:43.695Z"
+generated_at: "2026-11-23T20:26:57.761Z"
+status: "active"
 ---
 
 # § 3691. Establishment of modern service standards
@@ -28,3 +29,43 @@ generated_at: "2026-03-30T02:55:43.695Z"
   - **(7)** the effect of changes in technology, demographics, and population distribution on the efficient and reliable operation of the postal delivery system; and
   - **(8)** the policies of this title and such other factors as the Postal Service determines appropriate.
 - **(d)** The regulations promulgated pursuant to this section (and any revisions thereto), and any violations thereof, shall be subject to review upon complaint under sections 3662 and 3663.
+
+Authority Generally
+
+Objectives.—
+
+In general
+
+Factors
+
+Review
+
+In General
+
+Contents
+
+Postal Facilities.—
+
+Findings
+
+In general
+
+Content of facilities plan
+
+Annual reports.—
+
+In general
+
+Contents
+
+Existing efforts
+
+Alternate Retail Options
+
+Reemployment Assistance and Retirement Benefits
+
+Continued Authority
+
+## Source Credit
+
+*(Added [Pub. L. 109–435, title III, § 301](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3218](https://www.govinfo.gov/link/statute/120/3218).)*

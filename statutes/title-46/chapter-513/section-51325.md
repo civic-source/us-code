@@ -3,9 +3,10 @@ title: "Section 51325 - Sexual assault and sexual harassment prevention informat
 usc_title: 46
 usc_section: "51325"
 chapter: 513
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 51325"
-generated_at: "2026-03-30T02:56:15.571Z"
+generated_at: "2026-11-23T20:27:27.292Z"
+status: "active"
 ---
 
 # § 51325. Sexual assault and sexual harassment prevention information management system
@@ -27,3 +28,25 @@ generated_at: "2026-03-30T02:56:15.571Z"
   - **(6)** In establishing the information management system, the Maritime Administrator shall create a process to ensure that if any incident report results in a final agency action or final judgement that acquits an individual of wrongdoing, all personally identifiable information about the acquitted individual is removed from that incident report in the system.
 - **(b)** The Maritime Administrator shall provide for the establishment of in-person and virtual confidential exit interviews, to be conducted by personnel who are not involved in the assignment of the midshipmen to a Sea Year vessel, for midshipmen from the Academy upon completion of Sea Year and following completion by the midshipmen of the survey under section 51322(d). 1 1 See References in Text note below.
 - **(c)** The data maintained in the data management system under subsection (a) and through the exit interviews under subsection (b) shall be affirmatively referenced and used to inform the creation of new policy or regulation, or changes to any existing policy or regulation, in the areas of sexual harassment, dating violence, domestic violence, sexual assault, and stalking.
+
+Information Management System.—
+
+In general
+
+Information maintained in the system
+
+Past information included
+
+Privacy protections
+
+Cybersecurity audit
+
+Correcting records
+
+Sea Year Program
+
+Data-informed Decisionmaking
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. C, title XXXV, § 3531(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3083](https://www.govinfo.gov/link/statute/136/3083).)*

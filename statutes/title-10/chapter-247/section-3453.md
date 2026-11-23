@@ -3,9 +3,10 @@ title: "Section 3453 - Preference for commercial products and commercial service
 usc_title: 10
 usc_section: "3453"
 chapter: 247
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 3453"
-generated_at: "2026-03-30T02:53:38.192Z"
+generated_at: "2026-11-23T20:25:51.832Z"
+status: "active"
 ---
 
 # § 3453. Preference for commercial products and commercial services
@@ -47,3 +48,81 @@ generated_at: "2026-03-30T02:53:38.192Z"
   - **(1)** provide comprehensive information on the subject of market research and the function of market research in the acquisition of commercial products and commercial services;
   - **(2)** teach best practices for conducting and documenting market research; and
   - **(3)** provide methodologies for establishing standard processes and reports for collecting and sharing market research across the Department.
+
+Preference
+
+Implementation
+
+Preliminary Market Research
+
+Non-commercial Determination Required
+
+Market Research for Price Analysis
+
+Market Research Training Required
+
+Establishment
+
+Program Execution
+
+Support to Other Programs
+
+Funding
+
+Report
+
+Sunset
+
+Definitions
+
+In General
+
+Procurement of Parts
+
+Definitions
+
+Commercial derivative
+
+Commercial dual-use part
+
+Commercial product
+
+Dual-use
+
+In General
+
+Certification
+
+Definitions
+
+In general
+
+Program priority
+
+Funding phases.—
+
+In general
+
+Phase i
+
+Phase ii
+
+Treatment as competitive procedures
+
+Definition
+
+“Not later than 90 days after the date of the enactment of this Act [ Dec. 23, 2016 ], the Secretary of Defense shall revise the guidance issued pursuant to section 855 of the National Defense Authorization Act for Fiscal Year 2016 ( Public Law 114–92 ; 10 U.S.C. 2377 note) to provide that—
+
+Guidance Required
+
+Review Required
+
+Market Research Defined
+
+In General
+
+Report
+
+## Source Credit
+
+*(Added [Pub. L. 103–355, title VIII, § 8104(a)](https://www.govinfo.gov/link/plaw/103/public/355), Oct. 13, 1994, [108 Stat. 3390](https://www.govinfo.gov/link/statute/108/3390), § 2377; amended [Pub. L. 110–181, div. A, title VIII, § 826(a)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 227](https://www.govinfo.gov/link/statute/122/227); [Pub. L. 114–92, div. A, title VIII, § 844(a)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 915](https://www.govinfo.gov/link/statute/129/915); [Pub. L. 114–328, div. A, title VIII, § 871](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2307](https://www.govinfo.gov/link/statute/130/2307); [Pub. L. 115–232, div. A, title VIII, § 836(d)(3)](https://www.govinfo.gov/link/plaw/115/public/232), (8)(C), Aug. 13, 2018, [132 Stat. 1866](https://www.govinfo.gov/link/statute/132/1866), 1868; [Pub. L. 116–92, div. A, title VIII, § 818(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1488](https://www.govinfo.gov/link/statute/133/1488); renumbered § 3453 and amended [Pub. L. 116–283, div. A, title XVIII, § 1821(a)(2)](https://www.govinfo.gov/link/plaw/116/public/283), (b)(3), Jan. 1, 2021, [134 Stat. 4195](https://www.govinfo.gov/link/statute/134/4195); [Pub. L. 118–159, div. A, title VIII, § 834](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1986](https://www.govinfo.gov/link/statute/138/1986); [Pub. L. 119–60, div. A, title VIII, § 811(d)(1)](https://www.govinfo.gov/link/plaw/119/public/60), title XVIII, § 1822(a), Dec. 18, 2025, [139 Stat. 950](https://www.govinfo.gov/link/statute/139/950), 1246.)*

@@ -3,9 +3,10 @@ title: "Section 13501 - General jurisdiction"
 usc_title: 49
 usc_section: "13501"
 chapter: 135
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 13501"
-generated_at: "2026-03-30T02:56:19.327Z"
+generated_at: "2026-11-23T20:27:34.738Z"
+status: "active"
 ---
 
 # § 13501. General jurisdiction
@@ -19,3 +20,7 @@ The Secretary and the Board have jurisdiction, as specified in this part, over t
     - **(D)** the United States and another place in the United States through a foreign country to the extent the transportation is in the United States; or
     - **(E)** the United States and a place in a foreign country to the extent the transportation is in the United States; and
   - **(2)** in a reservation under the exclusive jurisdiction of the United States or on a public highway.
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 859](https://www.govinfo.gov/link/statute/109/859).)*

@@ -3,12 +3,17 @@ title: "Section 961 - Rights-of-way for power and communications facilities"
 usc_title: 43
 usc_section: "961"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 961"
-generated_at: "2026-03-30T02:55:57.466Z"
+generated_at: "2026-11-23T20:27:06.267Z"
+status: "active"
 ---
 
 # § 961. 1 1 There is no section 960 in this title. Rights-of-way for power and communications facilities
 
 That the head of the department having jurisdiction over the lands be, and he hereby is, authorized and empowered, under general regulations to be fixed by him, to grant an easement for rights-of-way, for a period not exceeding fifty years from the date of the issuance of such grant, over, across, and upon the public lands, national forests, and reservations of the United States for electrical poles and lines for the transmission and distribution of electrical power, and for poles and lines for communication purposes, and for radio, television, and other forms of communication transmitting, relay, and receiving structures and facilities, to the extent of two hundred feet on each side of the center line of such lines and poles and not to exceed four hundred feet by four hundred feet for radio, television, and other forms of communication transmitting, relay, and receiving structures and facilities, to any citizen, association, or corporation of the United States, where it is intended by such to exercise the right-of-way herein granted for any one or more of the purposes herein named: Provided , That such right-of-way shall be allowed within or through any national park, national forest, military, Indian, or any other reservation only upon the approval of the chief officer of the department under whose supervision or control such reservation falls, and upon a finding by him that the same is not incompatible with the public interest: Provided further , That all or any part of such right-of-way may be forfeited and annulled by declaration of the head of the department having jurisdiction over the lands for nonuse for a period of two years or for abandonment. That any citizen, association, or corporation of the United States to whom there has heretofore been issued a permit for any of the purposes specified herein under any existing law, may obtain the benefit of this Act upon the same terms and conditions as shall be required of citizens, associations, or corporations hereafter making application under the provisions of this statute.
 
+
+## Source Credit
+
+*(Mar. 4, 1911, ch. 238, [36 Stat. 1253](https://www.govinfo.gov/link/statute/36/1253); May 27, 1952, ch. 338, [66 Stat. 95](https://www.govinfo.gov/link/statute/66/95); [Pub. L. 94–579, title VII](https://www.govinfo.gov/link/plaw/94/public/579), § 706(a), Oct. 21, 1976, [90 Stat. 2793](https://www.govinfo.gov/link/statute/90/2793); [Pub. L. 113–287, § 7](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3272](https://www.govinfo.gov/link/statute/128/3272).)*

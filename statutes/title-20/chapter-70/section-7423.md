@@ -3,9 +3,10 @@ title: "Section 7423 - Amount of grants"
 usc_title: 20
 usc_section: "7423"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 7423"
-generated_at: "2026-03-30T02:54:48.211Z"
+generated_at: "2026-11-23T20:26:14.907Z"
+status: "active"
 ---
 
 # § 7423. Amount of grants
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:48.211Z"
       - **(ii)** 80 percent of the average per pupil expenditure of all the States.
   - **(2)** Any school described in paragraph (1)(A) that wishes to receive an allocation under this subpart shall submit an application in accordance with section 7424 of this title , and shall otherwise be treated as a local educational agency for the purpose of this subpart, except that such school shall not be subject to section 7424(c)(4) of this title , section 7428(c) of this title , or section 7429 of this title .
 - **(e)** If the sums appropriated for any fiscal year under 7492(a) 1 1 So in original. Probably should be preceded by “section”. of this title are insufficient to pay in full the amounts determined for local educational agencies under subsection (a)(1) and for the Secretary of the Interior under subsection (d), each of those amounts shall be ratably reduced.
+
+## Source Credit
+
+*([Pub. L. 89–10, title VI, § 6113](https://www.govinfo.gov/link/plaw/89/public/10), formerly title VII, § 7113, as added [Pub. L. 107–110, title VII, § 701](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1908](https://www.govinfo.gov/link/statute/115/1908), renumbered title VI, § 6113, and amended [Pub. L. 114–95, title VI](https://www.govinfo.gov/link/plaw/114/public/95), §§ 6001(a), (b)(1), (3), § 6002(e), Dec. 10, 2015, [129 Stat. 2046](https://www.govinfo.gov/link/statute/129/2046), 2049.)*

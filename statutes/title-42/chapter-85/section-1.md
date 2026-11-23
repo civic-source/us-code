@@ -3,9 +3,10 @@ title: "Section 1 - Exemptions for certain territories"
 usc_title: 42
 usc_section: "1"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T02:56:11.320Z"
+generated_at: "2026-11-23T20:27:22.940Z"
+status: "active"
 ---
 
 # § 7625–1. Exemptions for certain territories
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.320Z"
 - **(b)** Notwithstanding any other provision of this chapter, any fossil fuel fired steam electric power plant operating within Guam as of December 8, 1983 , is hereby exempted from:
   - **(1)** any requirement of the new source performance standards relating to sulfur dioxide promulgated under section 7411 of this title as of December 8, 1983 ; and
   - **(2)** any regulation relating to sulfur dioxide standards or limitations contained in a State implementation plan approved under section 7410 of this title as of December 8, 1983 : Provided , That such exemption shall expire eighteen months after December 8, 1983 , unless the Administrator determines that such plant is making all emissions reductions practicable to prevent exceedances of the national ambient air quality standards for sulfur dioxide.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title III, § 325, as added [Pub. L. 98–213, § 11](https://www.govinfo.gov/link/plaw/98/public/213), Dec. 8, 1983, [97 Stat. 1461](https://www.govinfo.gov/link/statute/97/1461); amended [Pub. L. 101–549, title VIII, § 806](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2689](https://www.govinfo.gov/link/statute/104/2689); [Pub. L. 103–437, § 15(s)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4594](https://www.govinfo.gov/link/statute/108/4594).)*

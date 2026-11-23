@@ -3,9 +3,10 @@ title: "Section 13216 - Recognition and incentive awards program"
 usc_title: 42
 usc_section: "13216"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13216"
-generated_at: "2026-03-30T02:56:11.438Z"
+generated_at: "2026-11-23T20:27:23.466Z"
+status: "active"
 ---
 
 # § 13216. Recognition and incentive awards program
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.438Z"
     - **(F)** maintaining a high number of alternative fueled vehicles used relative to comparable conventionally fueled motor vehicles used; and
   - **(2)** to fuel efficiency in Federal motor vehicle use through the promotion of such measures as increased use of fuel-efficient vehicles, carpooling, ride-sharing, regular maintenance, and other conservation and awareness measures.
 - **(c)** There are authorized to be appropriated for the purpose of carrying out this section not more than $35,000 for fiscal year 1994 and such sums as may be necessary for each of the fiscal years 1995 and 1996.
+
+## Source Credit
+
+*([Pub. L. 102–486, title III, § 307](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2873](https://www.govinfo.gov/link/statute/106/2873).)*

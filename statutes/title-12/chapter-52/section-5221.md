@@ -3,9 +3,10 @@ title: "Section 5221 - Executive compensation and corporate governance"
 usc_title: 12
 usc_section: "5221"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5221"
-generated_at: "2026-03-30T02:53:53.525Z"
+generated_at: "2026-11-23T20:25:59.452Z"
+status: "active"
 ---
 
 # § 5221. Executive compensation and corporate governance
@@ -59,3 +60,7 @@ generated_at: "2026-03-30T02:53:53.525Z"
   - **(2)** If the Secretary makes a determination described in paragraph (1), the Secretary shall seek to negotiate with the TARP recipient and the subject employee for appropriate reimbursements to the Federal Government with respect to compensation or bonuses.
 - **(g)** Subject to consultation with the appropriate Federal banking agency (as that term is defined in section 1813 of this title ), if any, the Secretary shall permit a TARP recipient to repay any assistance previously provided under the TARP to such financial institution, without regard to whether the financial institution has replaced such funds from any other source or to any waiting period, and when such assistance is repaid, the Secretary, at the market price, may liquidate warrants associated with such assistance.
 - **(h)** The Secretary shall promulgate regulations to implement this section.
+
+## Source Credit
+
+*([Pub. L. 110–343, div. A, title I, § 111](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3776](https://www.govinfo.gov/link/statute/122/3776); [Pub. L. 111–5, div. B, title VII, § 7001](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 516](https://www.govinfo.gov/link/statute/123/516); [Pub. L. 111–22, div. A, title IV, § 403](https://www.govinfo.gov/link/plaw/111/public/22), May 20, 2009, [123 Stat. 1658](https://www.govinfo.gov/link/statute/123/1658).)*

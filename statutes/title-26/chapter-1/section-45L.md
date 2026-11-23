@@ -3,9 +3,10 @@ title: "Section 45L - New energy efficient home credit"
 usc_title: 26
 usc_section: "45L"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 45L"
-generated_at: "2026-03-30T02:55:27.602Z"
+generated_at: "2026-11-23T20:26:45.219Z"
+status: "active"
 ---
 
 # § 45L. New energy efficient home credit
@@ -59,3 +60,11 @@ generated_at: "2026-03-30T02:55:27.602Z"
     - **(B)** Rules similar to the rules of section 45(b)(7)(B) shall apply.
   - **(3)** The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.
 - **(h)** This section shall not apply to any qualified new energy efficient home acquired after June 30, 2026 .
+
+In general
+
+Extension of credit
+
+## Source Credit
+
+*(Added [Pub. L. 109–58, title XIII, § 1332(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 1024](https://www.govinfo.gov/link/statute/119/1024); amended [Pub. L. 109–432, div. A, title II, § 205](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 2945](https://www.govinfo.gov/link/statute/120/2945); [Pub. L. 110–172, § 11(a)(7)](https://www.govinfo.gov/link/plaw/110/public/172), Dec. 29, 2007, [121 Stat. 2485](https://www.govinfo.gov/link/statute/121/2485); [Pub. L. 110–343, div. B, title III, § 304](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3845](https://www.govinfo.gov/link/statute/122/3845); [Pub. L. 111–312, title VII, § 703(a)](https://www.govinfo.gov/link/plaw/111/public/312), Dec. 17, 2010, [124 Stat. 3311](https://www.govinfo.gov/link/statute/124/3311); [Pub. L. 112–240, title IV, § 408(a)](https://www.govinfo.gov/link/plaw/112/public/240), (b), Jan. 2, 2013, [126 Stat. 2342](https://www.govinfo.gov/link/statute/126/2342); [Pub. L. 113–295, div. A, title I, § 156(a)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4021](https://www.govinfo.gov/link/statute/128/4021); [Pub. L. 114–113, div. Q, title I, § 188(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3074](https://www.govinfo.gov/link/statute/129/3074); [Pub. L. 115–123, div. D, title I, § 40410(a)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 150](https://www.govinfo.gov/link/statute/132/150); [Pub. L. 116–94, div. Q, title I, § 129(a)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3232](https://www.govinfo.gov/link/statute/133/3232); [Pub. L. 116–260, div. EE, title I, § 146(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3055](https://www.govinfo.gov/link/statute/134/3055); [Pub. L. 117–169, title I, § 13304(a)](https://www.govinfo.gov/link/plaw/117/public/169) –(e), Aug. 16, 2022, [136 Stat. 1952–1954](https://www.govinfo.gov/link/statute/136/1952); [Pub. L. 119–21, title VII, § 70508](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 251](https://www.govinfo.gov/link/statute/139/251).)*

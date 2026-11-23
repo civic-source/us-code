@@ -3,9 +3,10 @@ title: "Section 3908 - Disclaimers"
 usc_title: 25
 usc_section: "3908"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3908"
-generated_at: "2026-03-30T02:54:52.857Z"
+generated_at: "2026-11-23T20:26:25.672Z"
+status: "active"
 ---
 
 # § 3908. Disclaimers
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:52.857Z"
 - **(c)**
   - **(1)** Nothing in this chapter shall be construed to amend or modify the authority or responsibility of the Administrator of the Environmental Protection Agency under the Solid Waste Disposal Act ( 42 U.S.C. 6901 et seq.).
   - **(2)** Nothing in this chapter is intended to amend, repeal, or supersede any provision of the Solid Waste Disposal Act ( 42 U.S.C. 6901 et seq.).
+
+## Source Credit
+
+*([Pub. L. 103–399, § 9](https://www.govinfo.gov/link/plaw/103/public/399), Oct. 22, 1994, [108 Stat. 4168](https://www.govinfo.gov/link/statute/108/4168).)*

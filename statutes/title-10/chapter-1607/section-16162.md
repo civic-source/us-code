@@ -3,9 +3,10 @@ title: "Section 16162 - Educational assistance program"
 usc_title: 10
 usc_section: "16162"
 chapter: 1607
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 16162"
-generated_at: "2026-03-30T02:53:38.278Z"
+generated_at: "2026-11-23T20:25:52.488Z"
+status: "active"
 ---
 
 # § 16162. Educational assistance program
@@ -42,3 +43,19 @@ generated_at: "2026-03-30T02:53:38.278Z"
   - **(2)** Effective as of the first day of the enrollment period following the enrollment period in which an individual makes contributions under paragraph (1), the monthly amount of educational assistance allowance applicable to such individual under this section shall be the monthly rate otherwise provided for under subsection (c) increased by—
     - **(A)** an amount equal to $5 for each $20 contributed by such individual under paragraph (1) for an approved program of education pursued on a full-time basis; or
     - **(B)** an appropriately reduced amount based on the amount so contributed as determined under regulations that the Secretary of Veterans Affairs shall prescribe, for an approved program of education pursued on less than a full-time basis.
+
+Program Establishment
+
+Authorized Education Programs
+
+Benefit Amount
+
+Maximum Months of Assistance
+
+Availability of Assistance for Licensing and Certification Tests
+
+Contributions for Increased Amount of Educational Assistance
+
+## Source Credit
+
+*(Added [Pub. L. 108–375, div. A, title V, § 527(a)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1890](https://www.govinfo.gov/link/statute/118/1890); amended [Pub. L. 109–163, div. A, title V, § 539(b)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3250](https://www.govinfo.gov/link/statute/119/3250); [Pub. L. 110–181, div. A, title V, § 528(c)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 109](https://www.govinfo.gov/link/statute/122/109).)*

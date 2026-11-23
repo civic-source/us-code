@@ -3,9 +3,10 @@ title: "Section 9027 - Temporary financing of short-time compensation agreements
 usc_title: 15
 usc_section: "9027"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 9027"
-generated_at: "2026-03-30T02:54:08.240Z"
+generated_at: "2026-11-23T20:26:04.536Z"
+status: "active"
 ---
 
 # § 9027. Temporary financing of short-time compensation agreements
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:08.240Z"
 - **(f)** In this section:
   - **(1)** The term “Secretary” means the Secretary of Labor.
   - **(2)** The terms “State”, “State agency”, and “State law” have the meanings given those terms in section 205 of the Federal-State Extended Unemployment Compensation Act of 1970 ( 26 U.S.C. 3304 note).
+
+## Source Credit
+
+*([Pub. L. 116–136, div. A, title II, § 2109](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 329](https://www.govinfo.gov/link/statute/134/329); [Pub. L. 116–260, div. N, title II, § 208](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 1956](https://www.govinfo.gov/link/statute/134/1956); [Pub. L. 117–2, title IX, § 9018](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 120](https://www.govinfo.gov/link/statute/135/120).)*

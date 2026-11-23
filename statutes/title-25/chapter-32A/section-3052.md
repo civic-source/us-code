@@ -3,9 +3,10 @@ title: "Section 3052 - Definitions"
 usc_title: 25
 usc_section: "3052"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3052"
-generated_at: "2026-03-30T02:54:52.846Z"
+generated_at: "2026-11-23T20:26:25.627Z"
+status: "active"
 ---
 
 # § 3052. Definitions
@@ -21,3 +22,7 @@ In this chapter:
   - **(7)** The term “National Forest System” has the meaning given the term in section 1609(a) of title 16 .
   - **(8)** The term “reburial site” means a specific physical location at which cultural items or human remains are reburied.
   - **(9)** The term “traditional and cultural purpose”, with respect to a definable use, area, or practice, means that the use, area, or practice is identified by an Indian tribe as traditional or cultural because of the long-established significance or ceremonial nature of the use, area, or practice to the Indian tribe.
+
+## Source Credit
+
+*([Pub. L. 110–234, title VIII, § 8102](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1287](https://www.govinfo.gov/link/statute/122/1287); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VIII, § 8102, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2048.)*

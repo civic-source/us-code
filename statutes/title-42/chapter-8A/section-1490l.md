@@ -3,9 +3,10 @@ title: "Section 1490l - Processing of applications"
 usc_title: 42
 usc_section: "1490l"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1490l"
-generated_at: "2026-03-30T02:56:11.098Z"
+generated_at: "2026-11-23T20:27:21.801Z"
+status: "active"
 ---
 
 # § 1490l. Processing of applications
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.098Z"
     - **(E)** Other factors as determined by the Secretary, demonstrating the need for affordable housing.
   - **(3)** In administering this subsection, the Secretary shall use information from the most recent decennial census of the United States, relevant comprehensive affordable housing strategies under section 12705 of this title , and other reliable sources obtained by the Secretary which demonstrate the need for affordable housing in rural areas.
   - **(4)** A designation under this subsection shall not be effective for a period of more than 3 years, but may be renewed by the Secretary in accordance with the procedure set forth in this subsection. The Secretary shall take such other reasonable actions as the Secretary considers to be appropriate to notify the public of such designations.
+
+## Source Credit
+
+*(July 15, 1949, ch. 338, title V, § 532, as added [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title V, § 521], Nov. 30, 1983, [97 Stat. 1250](https://www.govinfo.gov/link/statute/97/1250); amended [Pub. L. 104–180, title VII, § 734(f)](https://www.govinfo.gov/link/plaw/104/public/180), Aug. 6, 1996, [110 Stat. 1604](https://www.govinfo.gov/link/statute/110/1604).)*

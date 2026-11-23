@@ -3,9 +3,10 @@ title: "Section 343 - Discount of obligations arising out of actual commercial t
 usc_title: 12
 usc_section: "343"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 343"
-generated_at: "2026-03-30T02:53:53.379Z"
+generated_at: "2026-11-23T20:25:58.740Z"
+status: "active"
 ---
 
 # § 343. Discount of obligations arising out of actual commercial transactions
@@ -34,3 +35,17 @@ Upon the indorsement of any of its member banks, which shall be deemed a waiver 
       - **(ii)** the amounts borrowed by each participant in any such program or facility;
       - **(iii)** identifying details concerning the assets or collateral held by, under, or in connection with such a program or facility,
     - **(E)** If an entity to which a Federal reserve bank has provided a loan under this paragraph becomes a covered financial company, as defined in section 201 of the Dodd-Frank Wall Street Reform and Consumer Protection Act [ 12 U.S.C. 5381 ], at any time while such loan is outstanding, and the Federal reserve bank incurs a realized net loss on the loan, then the Federal reserve bank shall have a claim equal to the amount of the net realized loss against the covered entity, with the same priority as an obligation to the Secretary of the Treasury under section 210(b) of the Dodd-Frank Wall Street Reform and Consumer Protection Act [ 12 U.S.C. 5390(b) ].
+
+(aa) duration;
+
+(bb) collateral pledged and the value thereof;
+
+(cc) all interest, fees, and other revenue or items of value to be received in exchange for the assistance;
+
+(dd) any requirements imposed on the recipient with respect to employee compensation, distribution of dividends, or any other corporate decision in exchange for the assistance; and
+
+(ee) the expected costs to the taxpayers of such assistance; and
+
+## Source Credit
+
+*(Dec. 23, 1913, ch. 6, § 13 (pars.), [38 Stat. 263](https://www.govinfo.gov/link/statute/38/263); Sept. 7, 1916, ch. 461, [39 Stat. 752](https://www.govinfo.gov/link/statute/39/752); Mar. 4, 1923, ch. 252, title IV, § 402, [42 Stat. 1478](https://www.govinfo.gov/link/statute/42/1478); July 21, 1932, ch. 520, § 210, [47 Stat. 715](https://www.govinfo.gov/link/statute/47/715); Aug. 23, 1935, ch. 614, title II, § 203(a), title III, § 322, [49 Stat. 704](https://www.govinfo.gov/link/statute/49/704), 714; [Pub. L. 102–242, title IV, § 473](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2386](https://www.govinfo.gov/link/statute/105/2386); [Pub. L. 111–203, title XI, § 1101(a)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2113](https://www.govinfo.gov/link/statute/124/2113).)*

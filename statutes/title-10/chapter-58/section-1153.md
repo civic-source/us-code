@@ -3,9 +3,10 @@ title: "Section 1153 - Assistance to separated members to obtain employment with
 usc_title: 10
 usc_section: "1153"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1153"
-generated_at: "2026-03-30T02:53:38.111Z"
+generated_at: "2026-11-23T20:25:51.265Z"
+status: "active"
 ---
 
 # § 1153. Assistance to separated members to obtain employment with health care providers
@@ -39,3 +40,19 @@ generated_at: "2026-03-30T02:53:38.111Z"
   - **(1)** In addition to the agreements referred to in subsection (d)(1), the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard, may enter into an agreement directly with a State to allow the State to arrange the placement of participants in the program with health care providers. Paragraphs (2) through (5) of subsection (d) shall apply with respect to any placement made through such an agreement.
   - **(2)** The Secretary concerned may reserve up to 10 percent of the funds made available to carry out the program for a fiscal year for the placement of participants through agreements entered into under paragraph (1).
 - **(f)** In this section, the term “State” includes the District of Columbia, American Samoa, the Federated States of Micronesia, Guam, the Republic of the Marshall Islands, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, Palau, and the Virgin Islands.
+
+Placement Program
+
+Eligible Members
+
+Selection of Participants
+
+Grants to Facilitate Employment
+
+Agreements With States
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 103–160, div. A, title XIII, § 1332(b)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1795](https://www.govinfo.gov/link/statute/107/1795); amended [Pub. L. 103–337, div. A, title V, § 543(e)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2771](https://www.govinfo.gov/link/statute/108/2771); [Pub. L. 107–296, title XVII, § 1704(b)(1)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314).)*

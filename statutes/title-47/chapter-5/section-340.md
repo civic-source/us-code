@@ -3,9 +3,10 @@ title: "Section 340 - Significantly viewed signals permitted to be carried"
 usc_title: 47
 usc_section: "340"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 340"
-generated_at: "2026-03-30T02:56:24.511Z"
+generated_at: "2026-11-23T20:27:28.895Z"
+status: "active"
 ---
 
 # § 340. Significantly viewed signals permitted to be carried
@@ -65,3 +66,7 @@ generated_at: "2026-03-30T02:56:24.511Z"
   - **(3)** The term “community” means—
     - **(A)** a county or a cable community, as determined under the rules, regulations, and authorizations of the Commission applicable to determining with respect to a cable system whether signals are significantly viewed; or
     - **(B)** a satellite community, as determined under such rules, regulations, and authorizations (or revisions thereof) as the Commission may prescribe in implementing the requirements of this section.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title III, § 340, as added [Pub. L. 108–447, div. J, title IX](https://www.govinfo.gov/link/plaw/108/public/447) [title II, § 202(a)], Dec. 8, 2004, [118 Stat. 3409](https://www.govinfo.gov/link/statute/118/3409); amended [Pub. L. 111–175, title II](https://www.govinfo.gov/link/plaw/111/public/175), §§ 203(a), 204(c), May 27, 2010, [124 Stat. 1245](https://www.govinfo.gov/link/statute/124/1245), 1250.)*

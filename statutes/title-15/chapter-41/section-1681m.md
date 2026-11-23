@@ -3,9 +3,10 @@ title: "Section 1681m - Requirements on users of consumer reports"
 usc_title: 15
 usc_section: "1681m"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1681m"
-generated_at: "2026-03-30T02:54:08.152Z"
+generated_at: "2026-11-23T20:26:04.090Z"
+status: "active"
 ---
 
 # § 1681m. Requirements on users of consumer reports
@@ -104,3 +105,7 @@ generated_at: "2026-03-30T02:54:08.152Z"
   - **(8)**
     - **(A)** Sections 1681n and 1681 o of this title shall not apply to any failure by any person to comply with this section.
     - **(B)** This section shall be enforced exclusively under section 1681s of this title by the Federal agencies and officials identified in that section.
+
+## Source Credit
+
+*([Pub. L. 90–321, title VI, § 615](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 91–508, title VI, § 601](https://www.govinfo.gov/link/plaw/91/public/508), Oct. 26, 1970, [84 Stat. 1133](https://www.govinfo.gov/link/statute/84/1133); amended [Pub. L. 104–208, div. A, title II, § 2411](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–443](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 108–159, title I](https://www.govinfo.gov/link/plaw/108/public/159), §§ 114, 154(b), 155, title II, § 213(a), title III, § 311(a), title VIII, § 811(h), Dec. 4, 2003, [117 Stat. 1960](https://www.govinfo.gov/link/statute/117/1960), 1967, 1978, 1988, 2012; [Pub. L. 111–203, title X](https://www.govinfo.gov/link/plaw/111/public/203), §§ 1088(a)(2)(C), (7)–(9), 1100F, July 21, 2010, [124 Stat. 2087](https://www.govinfo.gov/link/statute/124/2087), 2088, 2112; [Pub. L. 111–319, § 2(a)](https://www.govinfo.gov/link/plaw/111/public/319), Dec. 18, 2010, [124 Stat. 3457](https://www.govinfo.gov/link/statute/124/3457).)*

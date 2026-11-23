@@ -3,9 +3,10 @@ title: "Section 19018 - Intramural emerging research institutions pilot program"
 usc_title: 42
 usc_section: "19018"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 19018"
-generated_at: "2026-03-30T02:56:11.537Z"
+generated_at: "2026-11-23T20:27:23.848Z"
+status: "active"
 ---
 
 # § 19018. Intramural emerging research institutions pilot program
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.537Z"
 - **(d)** Not later than 5 years after August 9, 2022 , the Director shall—
   - **(1)** review the results of the pilot programs under this section; and
   - **(2)** develop agencywide best practices from the pilot programs for implementation across the Foundation, in order to fulfill the requirement under section 1862(e) of this title .
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10330](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1550](https://www.govinfo.gov/link/statute/136/1550).)*

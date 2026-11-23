@@ -3,9 +3,10 @@ title: "Section 16163a - Authority to transfer unused education benefits to fami
 usc_title: 10
 usc_section: "16163a"
 chapter: 1607
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 16163a"
-generated_at: "2026-03-30T02:53:38.278Z"
+generated_at: "2026-11-23T20:25:52.490Z"
+status: "active"
 ---
 
 # § 16163a. Authority to transfer unused education benefits to family members
@@ -59,3 +60,33 @@ generated_at: "2026-03-30T02:53:38.278Z"
     - **(B)** the eligibility criteria in accordance with subsection (b); and
     - **(C)** the manner and effect of an election to modify or revoke a transfer of entitlement under subsection (f)(2).
 - **(k)** For purposes of this section, the term “Secretary concerned” has the meaning given in section 101(a)(9) in the case of a member of the armed forces.
+
+In General
+
+Eligible Members
+
+Eligible Dependents
+
+Limitation on Months of Transfer
+
+Designation of Transferee
+
+Time for Transfer; Revocation and Modification
+
+Commencement of Use
+
+Additional Administrative Matters
+
+Overpayment.—
+
+Joint and several liability
+
+Failure to complete service agreement
+
+Regulations
+
+Secretary Concerned Defined
+
+## Source Credit
+
+*(Added [Pub. L. 110–252, title V, § 5006(c)](https://www.govinfo.gov/link/plaw/110/public/252), June 30, 2008, [122 Stat. 2383](https://www.govinfo.gov/link/statute/122/2383); amended [Pub. L. 111–383, div. A, title X, § 1075(b)(56)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4372](https://www.govinfo.gov/link/statute/124/4372).)*

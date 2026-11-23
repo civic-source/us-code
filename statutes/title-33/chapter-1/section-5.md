@@ -3,9 +3,10 @@ title: "Section 5 - Abolition of tolls on Government canals, canalized rivers, e
 usc_title: 33
 usc_section: "5"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 5"
-generated_at: "2026-03-30T02:55:41.049Z"
+generated_at: "2026-11-23T20:26:53.779Z"
+status: "active"
 ---
 
 # § 5. Abolition of tolls on Government canals, canalized rivers, etc.; expense of operation, repairs to and reconstruction of canals, etc.; Panama Canal excepted; levies by non-Federal interest
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:41.049Z"
     - **(B)** enhance the safety and efficiency of interstate and foreign commerce; and
     - **(C)** do not impose more than a small burden on interstate or foreign commerce; or
   - **(3)** property taxes on vessels or watercraft, other than vessels or watercraft that are primarily engaged in foreign commerce if those taxes are permissible under the United States Constitution.
+
+## Source Credit
+
+*(July 5, 1884, ch. 229, § 4, [23 Stat. 147](https://www.govinfo.gov/link/statute/23/147); Mar. 3, 1909, ch. 264, § 6, [35 Stat. 818](https://www.govinfo.gov/link/statute/35/818); July 26, 1947, ch. 343, title II, § 205(a), [61 Stat. 501](https://www.govinfo.gov/link/statute/61/501); Aug. 30, 1954, ch. 1076, § 1(15), [68 Stat. 967](https://www.govinfo.gov/link/statute/68/967); [Pub. L. 107–295, title IV, § 445](https://www.govinfo.gov/link/plaw/107/public/295), Nov. 25, 2002, [116 Stat. 2133](https://www.govinfo.gov/link/statute/116/2133); [Pub. L. 108–176, title VIII, § 829(a)](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2597](https://www.govinfo.gov/link/statute/117/2597).)*

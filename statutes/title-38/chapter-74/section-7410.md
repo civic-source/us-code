@@ -3,9 +3,10 @@ title: "Section 7410 - Additional pay authorities"
 usc_title: 38
 usc_section: "7410"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7410"
-generated_at: "2026-03-30T02:55:53.530Z"
+generated_at: "2026-11-23T20:27:02.017Z"
+status: "active"
 ---
 
 # § 7410. Additional pay authorities
@@ -25,3 +26,11 @@ generated_at: "2026-03-30T02:55:53.530Z"
   - **(4)** Except as provided in paragraph (5), special incentive pay under paragraph (1) for an individual shall be considered basic pay for all purposes, including retirement benefits under chapters 83 and 84 of title 5, and other benefits.
   - **(5)** Special incentive pay under paragraph (1) for an individual shall not be considered basic pay for purposes of adverse actions under subchapter V of this chapter.
   - **(6)** Special incentive pay under paragraph (1) may not be awarded to an individual in an amount that would result in an aggregate amount of pay (including bonuses and awards) received by such individual in a year under this title that is greater than the annual pay of the President.
+
+In General
+
+Special Incentive Pay for Department Pharmacist Executives
+
+## Source Credit
+
+*(Added [Pub. L. 102–40, title I, § 103(a)[(1)]](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 198](https://www.govinfo.gov/link/statute/105/198); amended [Pub. L. 102–405, title III, § 302(c)(1)](https://www.govinfo.gov/link/plaw/102/public/405), Oct. 9, 1992, [106 Stat. 1984](https://www.govinfo.gov/link/statute/106/1984); [Pub. L. 111–163, title VI, § 601(e)](https://www.govinfo.gov/link/plaw/111/public/163), May 5, 2010, [124 Stat. 1169](https://www.govinfo.gov/link/statute/124/1169); [Pub. L. 117–168, title IX, § 906(c)(3)](https://www.govinfo.gov/link/plaw/117/public/168), Aug. 10, 2022, [136 Stat. 1813](https://www.govinfo.gov/link/statute/136/1813).)*

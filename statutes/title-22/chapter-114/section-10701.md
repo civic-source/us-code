@@ -3,9 +3,10 @@ title: "Section 10701 - Findings"
 usc_title: 22
 usc_section: "10701"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 10701"
-generated_at: "2026-03-30T02:55:05.478Z"
+generated_at: "2026-11-23T20:26:32.831Z"
+status: "active"
 ---
 
 # § 10701. Findings
@@ -37,3 +38,7 @@ Congress finds the following:
     - **(C)** asserted that “voting must be repeated” in certain polling stations.
   - **(21)** The Organization for Security and Co-operation in Europe also noted that Serbian officials accused primarily peaceful protestors, opposition parties, and civil society of “attempting to destabilize the government”, a concerning allegation that threatens the safety of important elements of Serbian society.
   - **(22)** Democratic countries whose values are in alignment with the United States make for stronger and more durable partnerships.
+
+## Source Credit
+
+*([Pub. L. 119–60, div. H, title LXXXIII, § 8332](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1863](https://www.govinfo.gov/link/statute/139/1863).)*

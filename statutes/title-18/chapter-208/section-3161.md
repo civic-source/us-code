@@ -3,9 +3,10 @@ title: "Section 3161 - Time limits and exclusions"
 usc_title: 18
 usc_section: "3161"
 chapter: 208
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 3161"
-generated_at: "2026-03-30T02:54:16.513Z"
+generated_at: "2026-11-23T20:26:08.664Z"
+status: "active"
 ---
 
 # § 3161. Time limits and exclusions
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:54:16.513Z"
 - **(k)**
   - **(1)** If the defendant is absent (as defined by subsection (h)(3)) on the day set for trial, and the defendant’s subsequent appearance before the court on a bench warrant or other process or surrender to the court occurs more than 21 days after the day set for trial, the defendant shall be deemed to have first appeared before a judicial officer of the court in which the information or indictment is pending within the meaning of subsection (c) on the date of the defendant’s subsequent appearance before the court.
   - **(2)** If the defendant is absent (as defined by subsection (h)(3)) on the day set for trial, and the defendant’s subsequent appearance before the court on a bench warrant or other process or surrender to the court occurs not more than 21 days after the day set for trial, the time limit required by subsection (c), as extended by subsection (h), shall be further extended by 21 days.
+
+## Source Credit
+
+*(Added [Pub. L. 93–619, title I, § 101](https://www.govinfo.gov/link/plaw/93/public/619), Jan. 3, 1975, [88 Stat. 2076](https://www.govinfo.gov/link/statute/88/2076); amended [Pub. L. 96–43](https://www.govinfo.gov/link/plaw/96/public/43), §§ 2–5, Aug. 2, 1979, [93 Stat. 327](https://www.govinfo.gov/link/statute/93/327), 328; [Pub. L. 98–473, title II, § 1219](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2167](https://www.govinfo.gov/link/statute/98/2167); [Pub. L. 100–690, title VI, § 6476](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4380](https://www.govinfo.gov/link/statute/102/4380); [Pub. L. 101–650, title III, § 321](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5117](https://www.govinfo.gov/link/statute/104/5117); [Pub. L. 110–406, § 13](https://www.govinfo.gov/link/plaw/110/public/406), Oct. 13, 2008, [122 Stat. 4294](https://www.govinfo.gov/link/statute/122/4294).)*

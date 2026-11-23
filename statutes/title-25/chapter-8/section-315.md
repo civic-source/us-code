@@ -3,12 +3,17 @@ title: "Section 315 - Time for completion of road; forfeiture"
 usc_title: 25
 usc_section: "315"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 315"
-generated_at: "2026-03-30T02:54:52.803Z"
+generated_at: "2026-11-23T20:26:25.375Z"
+status: "active"
 ---
 
 # § 315. Time for completion of road; forfeiture
 
 If any such company shall fail to construct and put in operation one-tenth of its entire line in one year, or to complete its road within three years after the approval of its map of location by the Secretary of the Interior, the right of way granted shall be deemed forfeited and abandoned ipso facto as to that portion of the road not then constructed and in operation: Provided , That the Secretary may, when he deems proper, extend, for a period not exceeding two years, the time for the completion of any road for which right of way has been granted and a part of which shall have been built.
 
+
+## Source Credit
+
+*(Mar. 2, 1899, ch. 374, § 4, [30 Stat. 991](https://www.govinfo.gov/link/statute/30/991).)*

@@ -3,12 +3,17 @@ title: "Section 285 - Taking or using papers relating to claims"
 usc_title: 18
 usc_section: "285"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 285"
-generated_at: "2026-03-30T02:54:16.461Z"
+generated_at: "2026-11-23T20:26:08.358Z"
+status: "active"
 ---
 
 # § 285. Taking or using papers relating to claims
 
 Whoever, without authority, takes and carries away from the place where it was filed, deposited, or kept by authority of the United States, any certificate, affidavit, deposition, statement of facts, power of attorney, receipt, voucher, assignment, or other document, record, file, or paper prepared, fitted, or intended to be used or presented to procure the payment of money from or by the United States or any officer, employee, or agent thereof, or the allowance or payment of the whole or any part of any claim, account, or demand against the United States, whether the same has or has not already been so used or presented, and whether such claim, account, or demand, or any part thereof has or has not already been allowed or paid; or Whoever presents, uses, or attempts to use any such document, record, file, or paper so taken and carried away, to procure the payment of any money from or by the United States, or any officer, employee, or agent thereof, or the allowance or payment of the whole or any part of any claim, account, or demand against the United States— Shall be fined under this title or imprisoned not more than five years, or both.
 
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 698](https://www.govinfo.gov/link/statute/62/698); [Pub. L. 103–322, title XXXIII, § 330016(1)(K)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2147](https://www.govinfo.gov/link/statute/108/2147).)*

@@ -3,9 +3,10 @@ title: "Section 911 - Citizens or residents of the United States living abroad"
 usc_title: 26
 usc_section: "911"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 911"
-generated_at: "2026-03-30T02:55:27.747Z"
+generated_at: "2026-11-23T20:26:45.972Z"
+status: "active"
 ---
 
 # § 911. Citizens or residents of the United States living abroad
@@ -114,3 +115,35 @@ generated_at: "2026-03-30T02:55:27.747Z"
       - **(ii)** the reference in section 55(b)(3)(B) to the excess described in section 1(h)(1)(B), and the reference in section 55(b)(3)(C)(ii) to the excess described in section 1(h)(1)(C)(ii), shall each be treated as a reference to each such excess as determined under the rules of subparagraph (A) for purposes of determining the tax under paragraph (1)(A)(i).
     - **(C)** Terms used in this paragraph which are also used in section 1(h) shall have the respective meanings given such terms by section 1(h), except that in applying subparagraph (B) the adjustments under part VI of subchapter A shall be taken into account.
 - **(g)** For administrative and penal provisions relating to the exclusions provided for in this section, see sections 6001, 6011, 6012(c), and the other provisions of subtitle F.
+
+| “In the case of taxable years beginning in: | The annual rate is: |
+| --- | --- |
+| 1983, 1984, 1985, 1986, or 1987 | $80,000 |
+| 1988 | 85,000 |
+| 1989 | 90,000 |
+| 1990 and thereafter | 95,000.” |
+
+
+1983, 1984, 1985, 1986, or 1987
+
+1988
+
+1989
+
+1990 and thereafter
+
+General Rule
+
+Wage Withholding
+
+Election of Prior Law.—
+
+“The amendment made by subsection (a) [amending this section] shall apply to taxable years ending after September 4, 1962 , but only with respect to amounts—
+
+General Rule
+
+Information From Federal Agencies
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 289; [Pub. L. 85–866, title I, § 72(b)](https://www.govinfo.gov/link/plaw/85/public/866), Sept. 2, 1958, [72 Stat. 1660](https://www.govinfo.gov/link/statute/72/1660); [Pub. L. 87–834, § 11(a)](https://www.govinfo.gov/link/plaw/87/public/834), Oct. 16, 1962, [76 Stat. 1003](https://www.govinfo.gov/link/statute/76/1003); [Pub. L. 88–272, title II, § 237(a)](https://www.govinfo.gov/link/plaw/88/public/272), Feb. 26, 1964, [78 Stat. 128](https://www.govinfo.gov/link/statute/78/128); [Pub. L. 89–809, title I, § 105(e)(3)](https://www.govinfo.gov/link/plaw/89/public/809), Nov. 13, 1966, [80 Stat. 1567](https://www.govinfo.gov/link/statute/80/1567); [Pub. L. 94–455, title X, § 1011(a)](https://www.govinfo.gov/link/plaw/94/public/455), (b), title XIX, §§ 1901(a)(115), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1610](https://www.govinfo.gov/link/statute/90/1610), 1784, 1834; [Pub. L. 95–30, title I, § 102(b)(12)](https://www.govinfo.gov/link/plaw/95/public/30), May 23, 1977, [91 Stat. 138](https://www.govinfo.gov/link/statute/91/138); [Pub. L. 95–600, title IV, § 401(b)(4)](https://www.govinfo.gov/link/plaw/95/public/600), title VII, §§ 701(u)(10)(A), 703(e), Nov. 6, 1978, [92 Stat. 2867](https://www.govinfo.gov/link/statute/92/2867), 2917, 2939; [Pub. L. 95–615, title II, § 202(a)](https://www.govinfo.gov/link/plaw/95/public/615) –(e), (g)(1), formerly § 202(a)–(f)(1), Nov. 8, 1978, [92 Stat. 3098–3100](https://www.govinfo.gov/link/statute/92/3098), renumbered § 202(a)–(e), (g)(1), and amended [Pub. L. 96–222, title I](https://www.govinfo.gov/link/plaw/96/public/222), §§ 107(a)(3)(B), 108(a)(1)(A), (C), (D), Apr. 1, 1980, [94 Stat. 223](https://www.govinfo.gov/link/statute/94/223), 224; [Pub. L. 96–595, § 4(a)](https://www.govinfo.gov/link/plaw/96/public/595) –(c)(1), Dec. 24, 1980, [94 Stat. 3466](https://www.govinfo.gov/link/statute/94/3466), 3467; [Pub. L. 97–34, title I, § 111(a)](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 190](https://www.govinfo.gov/link/statute/95/190); [Pub. L. 97–448, title I, § 101(c)](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2366](https://www.govinfo.gov/link/statute/96/2366); [Pub. L. 98–369, div. A, title I, § 17](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 505](https://www.govinfo.gov/link/statute/98/505); [Pub. L. 99–514, title XII, § 1233(a)](https://www.govinfo.gov/link/plaw/99/public/514), (b), Oct. 22, 1986, [100 Stat. 2564](https://www.govinfo.gov/link/statute/100/2564); [Pub. L. 105–34, title XI, § 1172(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 988](https://www.govinfo.gov/link/statute/111/988); [Pub. L. 109–222, title V, § 515(a)](https://www.govinfo.gov/link/plaw/109/public/222) –(c), May 17, 2006, [120 Stat. 367](https://www.govinfo.gov/link/statute/120/367); [Pub. L. 110–172, § 4(c)](https://www.govinfo.gov/link/plaw/110/public/172), Dec. 29, 2007, [121 Stat. 2476](https://www.govinfo.gov/link/statute/121/2476); [Pub. L. 113–295, div. A, title II](https://www.govinfo.gov/link/plaw/113/public/295), §§ 202(b), 215(a), 221(a)(73), Dec. 19, 2014, [128 Stat. 4024](https://www.govinfo.gov/link/statute/128/4024), 4034, 4049; [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 11002(d)(9), 12001(b)(3)(E), Dec. 22, 2017, [131 Stat. 2062](https://www.govinfo.gov/link/statute/131/2062), 2093; [Pub. L. 115–123, div. D, title II, § 41116(a)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 161](https://www.govinfo.gov/link/statute/132/161); [Pub. L. 115–141, div. U, title IV, § 401(a)(160)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1191](https://www.govinfo.gov/link/statute/132/1191).)*

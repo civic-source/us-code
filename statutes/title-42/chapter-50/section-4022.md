@@ -3,9 +3,10 @@ title: "Section 4022 - State and local land use controls"
 usc_title: 42
 usc_section: "4022"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4022"
-generated_at: "2026-03-30T02:56:11.197Z"
+generated_at: "2026-11-23T20:27:22.343Z"
+status: "active"
 ---
 
 # § 4022. State and local land use controls
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:11.197Z"
     - **(B)** such mobile home was relocated from such site because of flooding that threatened or affected such site; and
     - **(C)** such replacement is conducted not later than the expiration of the 180-day period that begins upon the subsidence (in the area of such site) of the body of water that flooded to a level considered lower than flood levels.
   - **(2)** For purposes of this subsection, the term “mobile home” has the meaning given such term in the law of the State in which the mobile home is located.
+
+## Source Credit
+
+*([Pub. L. 90–448, title XIII, § 1315](https://www.govinfo.gov/link/plaw/90/public/448), Aug. 1, 1968, [82 Stat. 580](https://www.govinfo.gov/link/statute/82/580); [Pub. L. 91–152, title IV, § 410(b)](https://www.govinfo.gov/link/plaw/91/public/152), Dec. 24, 1969, [83 Stat. 397](https://www.govinfo.gov/link/statute/83/397); [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title IV, § 451(d)(1)], Nov. 30, 1983, [97 Stat. 1229](https://www.govinfo.gov/link/statute/97/1229); [Pub. L. 103–325, title V](https://www.govinfo.gov/link/plaw/103/public/325), §§ 541, 580, Sept. 23, 1994, [108 Stat. 2268](https://www.govinfo.gov/link/statute/108/2268), 2285; [Pub. L. 108–264, title I, § 108](https://www.govinfo.gov/link/plaw/108/public/264), June 30, 2004, [118 Stat. 724](https://www.govinfo.gov/link/statute/118/724); [Pub. L. 112–141, div. F, title II, § 100238(b)(1)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 958](https://www.govinfo.gov/link/statute/126/958).)*

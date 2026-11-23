@@ -3,9 +3,10 @@ title: "Section 4273 - Membership of Commission; appointment of members; term"
 usc_title: 42
 usc_section: "4273"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4273"
-generated_at: "2026-03-30T02:56:11.200Z"
+generated_at: "2026-11-23T20:27:22.368Z"
+status: "active"
 ---
 
 # § 4273. Membership of Commission; appointment of members; term
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.200Z"
   - **(7)** Three appointed by the President from a panel of at least six elected county officers submitted by the National Association of Counties.
 - **(b)** The members appointed from private life under paragraph (1) of subsection (a) shall be appointed without regard to political affiliation; of each class of members enumerated in paragraphs (2) and (3) of subsection (a), two shall be from the majority party of the respective houses; of each class of members enumerated in paragraphs (4), (5), (6), and (7) of subsection (a), not more than two shall be from any one political party; of each class of members enumerated in paragraphs (5), (6) and (7) of subsection (a), not more than one shall be from any one State; at least two of the appointees under paragraph (6) of subsection (a) shall be from cities under five hundred thousand population.
 - **(c)** The term of office of each member of the Commission shall be two years; members shall be eligible for reappointment; and, except as provided in section 4274(d) of this title , members shall serve until their successors are appointed.
+
+## Source Credit
+
+*([Pub. L. 86–380, § 3](https://www.govinfo.gov/link/plaw/86/public/380), Sept. 24, 1959, [73 Stat. 704](https://www.govinfo.gov/link/statute/73/704); [Pub. L. 89–733](https://www.govinfo.gov/link/plaw/89/public/733), §§ 1, 2, Nov. 2, 1966, [80 Stat. 1162](https://www.govinfo.gov/link/statute/80/1162).)*

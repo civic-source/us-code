@@ -3,9 +3,10 @@ title: "Section 181 - Program for exchange of information among legislative bran
 usc_title: 2
 usc_section: "181"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 181"
-generated_at: "2026-03-30T02:53:04.791Z"
+generated_at: "2026-11-23T20:25:28.858Z"
+status: "active"
 ---
 
 # § 181. Program for exchange of information among legislative branch agencies
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:04.791Z"
 - **(b)** As used in this section—
   - **(1)** the term “offices and agencies of the legislative branch” means, the office of the Clerk of the House, the office of the Secretary of the Senate, the office of the Architect of the Capitol, the Government Accountability Office, the Government Publishing Office, the Library of Congress, the Congressional Research Service, the Congressional Budget Office, the Chief Administrative Officer of the House of Representatives, and the Sergeant at Arms of the Senate; and
   - **(2)** the term “technology” refers to any form of computer hardware and software; computer-based systems, services, and support for the creation, processing, exchange, and delivery of information; and telecommunications systems, and the associated hardware and software, that provide for voice, data, or image communication.
+
+## Source Credit
+
+*([Pub. L. 104–197, title III, § 314](https://www.govinfo.gov/link/plaw/104/public/197), Sept. 16, 1996, [110 Stat. 2415](https://www.govinfo.gov/link/statute/110/2415); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 113–235, div. H, title I, § 1301(b)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537).)*

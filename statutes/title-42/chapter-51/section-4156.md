@@ -3,9 +3,10 @@ title: "Section 4156 - Waiver and modification of standards"
 usc_title: 42
 usc_section: "4156"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4156"
-generated_at: "2026-03-30T02:56:11.200Z"
+generated_at: "2026-11-23T20:27:22.367Z"
+status: "active"
 ---
 
 # § 4156. Waiver and modification of standards
@@ -14,3 +15,7 @@ The Administrator of General Services, with respect to standards issued under se
 
   - **(1)** is authorized to modify or waive any such standard, on a case-by-case basis, upon application made by the head of the department, agency, or instrumentality of the United States concerned, and upon a determination by the Administrator or Secretary, as the case may be, that such modification or waiver is clearly necessary, and
   - **(2)** shall establish a system of continuing surveys and investigations to insure compliance with such standards.
+
+## Source Credit
+
+*([Pub. L. 90–480, § 6](https://www.govinfo.gov/link/plaw/90/public/480), Aug. 12, 1968, [82 Stat. 719](https://www.govinfo.gov/link/statute/82/719); [Pub. L. 94–541, title II, § 201(6)](https://www.govinfo.gov/link/plaw/94/public/541), Oct. 18, 1976, [90 Stat. 2508](https://www.govinfo.gov/link/statute/90/2508).)*

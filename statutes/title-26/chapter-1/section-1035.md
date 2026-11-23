@@ -3,9 +3,10 @@ title: "Section 1035 - Certain exchanges of insurance policies"
 usc_title: 26
 usc_section: "1035"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1035"
-generated_at: "2026-03-30T02:55:27.756Z"
+generated_at: "2026-11-23T20:26:46.020Z"
+status: "active"
 ---
 
 # § 1035. Certain exchanges of insurance policies
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:27.756Z"
 - **(d)**
   - **(1)** For rules relating to recognition of gain or loss where an exchange is not solely in kind, see subsections (b) and (c) of section 1031.
   - **(2)** For rules relating to the basis of property acquired in an exchange described in subsection (a), see subsection (d) of section 1031.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 309; [Pub. L. 98–369, div. A, title II](https://www.govinfo.gov/link/plaw/98/public/369), §§ 211(b)(15), 224(a), July 18, 1984, [98 Stat. 756](https://www.govinfo.gov/link/statute/98/756), 776; [Pub. L. 99–514, title XVIII, § 1828](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2851](https://www.govinfo.gov/link/statute/100/2851); [Pub. L. 105–34, title XI, § 1131(b)(1)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 979](https://www.govinfo.gov/link/statute/111/979); [Pub. L. 109–280, title VIII, § 844(b)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1010](https://www.govinfo.gov/link/statute/120/1010); [Pub. L. 115–141, div. U, title IV, § 401(a)(168)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1192](https://www.govinfo.gov/link/statute/132/1192).)*

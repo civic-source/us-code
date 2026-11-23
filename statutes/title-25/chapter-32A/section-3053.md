@@ -3,9 +3,10 @@ title: "Section 3053 - Reburial of human remains and cultural items"
 usc_title: 25
 usc_section: "3053"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3053"
-generated_at: "2026-03-30T02:54:52.846Z"
+generated_at: "2026-11-23T20:26:25.627Z"
+status: "active"
 ---
 
 # § 3053. Reburial of human remains and cultural items
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:52.846Z"
 - **(c)**
   - **(1)** Subject to paragraph (2), the Secretary may authorize such uses of reburial sites on National Forest System land, or on the National Forest System land immediately surrounding a reburial site, as the Secretary determines to be necessary for management of the National Forest System.
   - **(2)** In carrying out paragraph (1), the Secretary shall avoid adverse impacts to cultural items and human remains, to the maximum extent practicable.
+
+## Source Credit
+
+*([Pub. L. 110–234, title VIII, § 8103](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1287](https://www.govinfo.gov/link/statute/122/1287); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VIII, § 8103, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2049.)*

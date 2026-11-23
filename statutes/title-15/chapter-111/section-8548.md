@@ -3,9 +3,10 @@ title: "Section 8548 - Weather enterprise outreach"
 usc_title: 15
 usc_section: "8548"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 8548"
-generated_at: "2026-03-30T02:54:08.232Z"
+generated_at: "2026-11-23T20:26:04.495Z"
+status: "active"
 ---
 
 # § 8548. Weather enterprise outreach
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:08.232Z"
   - **(7)** The academic community.
   - **(8)** Professional societies that focus on meteorology.
   - **(9)** Such other stakeholder groups as the Under Secretary considers appropriate.
+
+## Source Credit
+
+*([Pub. L. 115–25, title IV, § 412](https://www.govinfo.gov/link/plaw/115/public/25), Apr. 18, 2017, [131 Stat. 113](https://www.govinfo.gov/link/statute/131/113).)*

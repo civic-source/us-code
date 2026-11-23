@@ -3,9 +3,10 @@ title: "Section 1908 - Legal representation authority"
 usc_title: 2
 usc_section: "1908"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1908"
-generated_at: "2026-03-30T02:53:04.819Z"
+generated_at: "2026-11-23T20:25:28.992Z"
+status: "active"
 ---
 
 # § 1908. Legal representation authority
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:04.819Z"
   - **(1)** Entrance of appearance authorized under subsection (a) shall be subject to the direction of the Capitol Police Board.
   - **(2)** The authority under subsection (a) shall not apply with respect to the admission of any person to practice before the United States Supreme Court.
 - **(c)** This section shall apply to fiscal year 2004, and each fiscal year thereafter.
+
+## Source Credit
+
+*([Pub. L. 108–83, title I, § 1002](https://www.govinfo.gov/link/plaw/108/public/83), Sept. 30, 2003, [117 Stat. 1020](https://www.govinfo.gov/link/statute/117/1020); [Pub. L. 111–145](https://www.govinfo.gov/link/plaw/111/public/145), §§ 3(b)(1), 4(a)(1), Mar. 4, 2010, [124 Stat. 52](https://www.govinfo.gov/link/statute/124/52).)*

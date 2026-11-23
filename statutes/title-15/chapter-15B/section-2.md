@@ -3,9 +3,10 @@ title: "Section 2 - Natural gas market transparency rules"
 usc_title: 15
 usc_section: "2"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2"
-generated_at: "2026-03-30T02:54:08.119Z"
+generated_at: "2026-11-23T20:26:03.906Z"
+status: "active"
 ---
 
 # § 717t–2. Natural gas market transparency rules
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:08.119Z"
 - **(e)**
   - **(1)** Except as provided in paragraph (2), no person shall be subject to any civil penalty under this section with respect to any violation occurring more than 3 years before the date on which the person is provided notice of the proposed penalty under section 717t–1(b) of this title .
   - **(2)** Paragraph (1) shall not apply in any case in which the Commission finds that a seller that has entered into a contract for the transportation or sale of natural gas subject to the jurisdiction of the Commission has engaged in fraudulent market manipulation activities materially affecting the contract in violation of section 717c–1 of this title .
+
+## Source Credit
+
+*(June 21, 1938, ch. 556, § 23, as added [Pub. L. 109–58, title III, § 316](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 691](https://www.govinfo.gov/link/statute/119/691).)*

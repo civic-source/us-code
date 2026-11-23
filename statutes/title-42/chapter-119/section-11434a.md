@@ -3,9 +3,10 @@ title: "Section 11434a - Definitions"
 usc_title: 42
 usc_section: "11434a"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11434a"
-generated_at: "2026-03-30T02:56:11.403Z"
+generated_at: "2026-11-23T20:27:23.315Z"
+status: "active"
 ---
 
 # § 11434a. Definitions
@@ -24,3 +25,11 @@ For purposes of this part:
   - **(4)** The term “Secretary” means the Secretary of Education.
   - **(5)** The term “State” means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
   - **(6)** The term “unaccompanied youth” includes a homeless child or youth not in the physical custody of a parent or guardian.
+
+In general
+
+Covered state
+
+## Source Credit
+
+*([Pub. L. 100–77, title VII, § 725](https://www.govinfo.gov/link/plaw/100/public/77), as added [Pub. L. 107–110, title X, § 1032](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2005](https://www.govinfo.gov/link/statute/115/2005); amended [Pub. L. 114–95, title IX](https://www.govinfo.gov/link/plaw/114/public/95), §§ 9105(a), 9215(zz), Dec. 10, 2015, [129 Stat. 2136](https://www.govinfo.gov/link/statute/129/2136), 2184.)*

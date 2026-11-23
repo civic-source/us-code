@@ -3,9 +3,10 @@ title: "Section 8712 - Payment yields"
 usc_title: 7
 usc_section: "8712"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 8712"
-generated_at: "2026-03-30T02:53:42.478Z"
+generated_at: "2026-11-23T20:25:41.896Z"
+status: "active"
 ---
 
 # § 8712. Payment yields
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:42.478Z"
     - **(B)** To the extent that national average yield information for a designated oilseed or pulse crop is not available, the Secretary shall use such information as the Secretary determines to be fair and equitable to establish a national average yield under this section.
   - **(3)** If the yield per planted acre for a crop of a designated oilseed or pulse crop for a farm for any of the 1998 through 2001 crop years was less than 75 percent of the county yield for that designated oilseed or pulse crop, the Secretary shall assign a yield for that crop year equal to 75 percent of the county yield for the purpose of determining the average under paragraph (1).
   - **(4)** In the case of establishing yields for designated oilseeds and eligible pulse crops, if historic yield data is not available, the Secretary shall use the ratio for dry peas calculated under paragraph (2)(A)(ii) in determining the yields for designated oilseeds and eligible pulse crops, as determined to be fair and equitable by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 110–234, title I, § 1102](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 940](https://www.govinfo.gov/link/statute/122/940); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1102, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1669.)*

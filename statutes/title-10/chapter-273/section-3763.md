@@ -3,9 +3,10 @@ title: "Section 3763 - Bid and proposal costs: allowable costs"
 usc_title: 10
 usc_section: "3763"
 chapter: 273
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 3763"
-generated_at: "2026-03-30T02:53:38.197Z"
+generated_at: "2026-11-23T20:25:51.858Z"
+status: "active"
 ---
 
 # § 3763. Bid and proposal costs: allowable costs
@@ -23,3 +24,17 @@ generated_at: "2026-03-30T02:53:38.197Z"
   - **(5)** The panel shall terminate on the day the panel submits the final report under paragraph (4)(B).
   - **(6)** The Secretary of Defense may use amounts available in the Department of Defense Acquisition Workforce Development Fund established under section 1705 of this title to support the activities of the panel established under this subsection.
 - **(e)** The regulations prescribed under subsection (a) shall apply to indirect costs incurred on or after October 1, 2017 .
+
+Regulations
+
+Costs Allowable as Indirect Expenses
+
+Goal for Reimbursable Bid and Proposal Costs
+
+Panel
+
+Effective Date
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. A, title VIII, § 824(b)(1)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2278](https://www.govinfo.gov/link/statute/130/2278), § 2372a; renumbered § 3763 and amended [Pub. L. 116–283, div. A, title XVIII, § 1832(j)(2)](https://www.govinfo.gov/link/plaw/116/public/283), (4), Jan. 1, 2021, [134 Stat. 4225](https://www.govinfo.gov/link/statute/134/4225).)*

@@ -3,12 +3,17 @@ title: "Section 833q - Educational costs of dependents of employees; payments to
 usc_title: 16
 usc_section: "833q"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 833q"
-generated_at: "2026-03-30T02:54:22.927Z"
+generated_at: "2026-11-23T20:26:20.316Z"
+status: "active"
 ---
 
 # § 833q. Educational costs of dependents of employees; payments to school districts; reimbursement from continuing fund
 
 Under regulations prescribed by the Secretary of the Army, payments may be made, in advance or otherwise, from any funds available for the Fort Peck project, Montana, to the school district or districts serving that project as reimbursement for educational facilities (including, where appropriate, transportation to and from school) furnished by the said district or districts to pupils who are dependents of persons engaged in the construction, operation, and maintenance of the project and living at or near Fort Peck upon real property of the United States not subject to taxation by State or local agencies and upon which payments in lieu of taxes are not made by the United States, which payments for any school year shall not exceed that part of the cost of operating and maintaining such facilities which the number of pupils aforesaid in average daily attendance during that year bears to the whole number of pupils in average daily attendance at those schools during that year: Provided , That of the whole amount so paid in any fiscal year, the Bureau of Reclamation, Department of the Interior, shall reimburse the Secretary of the Army from the continuing fund provided in section 833i of this title , that part which is properly chargeable as an operation expense incident to the generation and transmission of power delivered to the Bureau under said section.
 
+
+## Source Credit
+
+*(June 3, 1948, ch. 389, [62 Stat. 297](https://www.govinfo.gov/link/statute/62/297).)*

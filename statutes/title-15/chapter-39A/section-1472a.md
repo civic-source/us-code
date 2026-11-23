@@ -3,9 +3,10 @@ title: "Section 1472a - Special packaging for liquid nicotine containers"
 usc_title: 15
 usc_section: "1472a"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1472a"
-generated_at: "2026-03-30T02:54:08.135Z"
+generated_at: "2026-11-23T20:26:04.008Z"
+status: "active"
 ---
 
 # § 1472a. Special packaging for liquid nicotine containers
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:08.135Z"
       - **(ii)** that is used to hold soluble nicotine in any concentration.
     - **(B)** The term “liquid nicotine container” does not include a sealed, pre-filled, and disposable container of nicotine in a solution or other form in which such container is inserted directly into an electronic cigarette, electronic nicotine delivery system, or other similar product, if the nicotine in the container is inaccessible through customary or reasonably foreseeable handling or use, including reasonably foreseeable ingestion or other contact by children.
   - **(3)** The term “nicotine” means any form of the chemical nicotine, including any salt or complex, regardless of whether the chemical is naturally or synthetically derived.
+
+## Source Credit
+
+*([Pub. L. 114–116, § 2](https://www.govinfo.gov/link/plaw/114/public/116), Jan. 28, 2016, [130 Stat. 3](https://www.govinfo.gov/link/statute/130/3).)*

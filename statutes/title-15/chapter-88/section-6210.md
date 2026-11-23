@@ -3,9 +3,10 @@ title: "Section 6210 - Report to Congress"
 usc_title: 15
 usc_section: "6210"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 6210"
-generated_at: "2026-03-30T02:54:08.209Z"
+generated_at: "2026-11-23T20:26:04.387Z"
+status: "active"
 ---
 
 # § 6210. Report to Congress
@@ -19,3 +20,7 @@ In the 30-day period beginning 3 years after November 2, 1994 , and with the con
   - **(5)** giving the approximate number of requests made by the Attorney General and the Commission under such agreements to foreign antitrust authorities for antitrust investigations and for antitrust evidence,
   - **(6)** giving the approximate number of requests made by foreign antitrust authorities under such agreements to the Attorney General and the Commission for investigations under section 6202 of this title , for orders under section 6203 of this title , and for antitrust evidence, and
   - **(7)** describing any significant problems or concerns of which the Attorney General is aware with respect to the operation of this chapter.
+
+## Source Credit
+
+*([Pub. L. 103–438, § 11](https://www.govinfo.gov/link/plaw/103/public/438), Nov. 2, 1994, [108 Stat. 4602](https://www.govinfo.gov/link/statute/108/4602).)*

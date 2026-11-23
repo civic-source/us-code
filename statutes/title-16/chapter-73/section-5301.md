@@ -3,9 +3,10 @@ title: "Section 5301 - Findings"
 usc_title: 16
 usc_section: "5301"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 5301"
-generated_at: "2026-03-30T02:54:23.051Z"
+generated_at: "2026-11-23T20:26:20.771Z"
+status: "active"
 ---
 
 # § 5301. Findings
@@ -24,3 +25,9 @@ The Congress finds the following:
   - **(10)** On April 11, 1994 , under section 1978 of title 22 , the President—
     - **(A)** directed that imports of wildlife specimens and products from Taiwan be prohibited, in response to Taiwan’s failure to undertake sufficient actions to stop illegal rhinoceros and tiger trade; and
     - **(B)** indicated that the certification of China would remain in effect and directed that additional monitoring of China’s progress be undertaken.
+
+“Congress finds that—
+
+## Source Credit
+
+*([Pub. L. 103–391, § 2](https://www.govinfo.gov/link/plaw/103/public/391), Oct. 22, 1994, [108 Stat. 4094](https://www.govinfo.gov/link/statute/108/4094).)*

@@ -3,9 +3,10 @@ title: "Section 8545 - Officers of the other armed forces; enlisted members: adm
 usc_title: 10
 usc_section: "8545"
 chapter: 855
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 8545"
-generated_at: "2026-03-30T02:53:38.245Z"
+generated_at: "2026-11-23T20:25:52.210Z"
+status: "active"
 ---
 
 # § 8545. Officers of the other armed forces; enlisted members: admission
@@ -29,3 +30,44 @@ generated_at: "2026-03-30T02:53:38.245Z"
   - **(3)** The requirements for payment of costs and fees under paragraph (1) shall be subject to such exceptions as the Secretary of Defense may prescribe for members of the armed forces who receive instruction at the Postgraduate School in connection with pursuit of a degree or certification as participants in the Cyber Scholarship program under chapter 112 of this title.
 - **(c)** While receiving instruction at the Postgraduate School, members of the Army, Air Force, Space Force, and Coast Guard are subject to such regulations, as determined appropriate by the Secretary of the Navy, as apply to students who are members of the naval service.
 - **(d)** The Secretary may not award a baccalaureate, masters, or doctorate degree to an enlisted member based upon instruction received at the Postgraduate School under subsection (a)(2)(C).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 7045 | 34 U.S.C. 1076e . | July 31, 1947, ch. 420, § 6 , 61 Stat. 706 . |
+
+
+Historical and Revision Notes
+
+7045
+
+34 U.S.C. 1076e
+
+July 31, 1947, ch. 420, § 6
+
+61 Stat. 706
+
+Authority
+
+Program Requirements
+
+Eligibility of Participants
+
+Selection of Participants
+
+Post-participation Service
+
+Framework for Filling Billets
+
+Identification of Degree Programs
+
+Information Dissemination
+
+Report
+
+Sunset
+
+Definitions
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 437, § 7045; [Pub. L. 96–513, title V, § 513(23)](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2932](https://www.govinfo.gov/link/statute/94/2932); [Pub. L. 105–85, div. A, title V, § 551(a)](https://www.govinfo.gov/link/plaw/105/public/85), (b)(1), Nov. 18, 1997, [111 Stat. 1747](https://www.govinfo.gov/link/statute/111/1747); [Pub. L. 105–261, div. A, title X, § 1069(a)(6)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2136](https://www.govinfo.gov/link/statute/112/2136); [Pub. L. 107–296, title XVII, § 1704(b)(5)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314); [Pub. L. 108–136, div. A, title V, § 532](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1472](https://www.govinfo.gov/link/statute/117/1472); [Pub. L. 109–163, div. A, title V, § 526(a)](https://www.govinfo.gov/link/plaw/109/public/163), (b), Jan. 6, 2006, [119 Stat. 3245](https://www.govinfo.gov/link/statute/119/3245), 3246; [Pub. L. 109–364, div. A, title V, § 543(a)](https://www.govinfo.gov/link/plaw/109/public/364) –(c), Oct. 17, 2006, [120 Stat. 2213](https://www.govinfo.gov/link/statute/120/2213); [Pub. L. 115–91, div. A, title XVI, § 1649(d)(3)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1753](https://www.govinfo.gov/link/statute/131/1753); renumbered § 8545 and amended [Pub. L. 115–232, div. A, title VIII](https://www.govinfo.gov/link/plaw/115/public/232), §§ 807(c)(1), 809(a), Aug. 13, 2018, [132 Stat. 1836](https://www.govinfo.gov/link/statute/132/1836), 1840; [Pub. L. 117–263, div. A, title V, § 555(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2595](https://www.govinfo.gov/link/statute/136/2595); [Pub. L. 118–31, div. A, title IX, § 915](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 368](https://www.govinfo.gov/link/statute/137/368).)*

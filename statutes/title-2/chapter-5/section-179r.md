@@ -3,9 +3,10 @@ title: "Section 179r - Remedies"
 usc_title: 2
 usc_section: "179r"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 179r"
-generated_at: "2026-03-30T02:53:04.791Z"
+generated_at: "2026-11-23T20:25:28.856Z"
+status: "active"
 ---
 
 # § 179r. Remedies
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:04.791Z"
 - **(b)**
   - **(1)** Except as provided in paragraph (2), relief for violation of section 179q(a) of this title shall be limited to the removal of the seal of the National Film Registry from the film involved in the violation.
   - **(2)** In the case of a pattern or practice of the willful violation of section 179q(a) of this title , the United States district courts may order a civil fine of not more than $10,000 and appropriate injunctive relief.
+
+## Source Credit
+
+*([Pub. L. 104–285, title I, § 108](https://www.govinfo.gov/link/plaw/104/public/285), Oct. 11, 1996, [110 Stat. 3381](https://www.govinfo.gov/link/statute/110/3381).)*

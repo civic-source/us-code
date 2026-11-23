@@ -3,9 +3,10 @@ title: "Section 47144 - Use of funds for repairs for runway safety repairs"
 usc_title: 49
 usc_section: "47144"
 chapter: 471
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 47144"
-generated_at: "2026-03-30T02:56:19.405Z"
+generated_at: "2026-11-23T20:27:35.319Z"
+status: "active"
 ---
 
 # § 47144. Use of funds for repairs for runway safety repairs
@@ -19,3 +20,11 @@ generated_at: "2026-03-30T02:56:19.405Z"
   - **(5)** the operator of the airport has exhausted all legal remedies, including legal action against any parties (or insurers thereof) whose action or inaction may have contributed to the need for the repair of the runway safety area;
   - **(6)** there is still a demonstrated need for the runway safety area to accommodate current or imminent aeronautical demand; and
   - **(7)** the cost of repairing or replacing the runway safety area is reasonable in relation to the anticipated operational benefit of repairing the runway safety area, as determined by the Administrator of the Federal Aviation Administration.
+
+In General
+
+Airports Described
+
+## Source Credit
+
+*(Added [Pub. L. 115–31, div. K, title I, § 119F(a)](https://www.govinfo.gov/link/plaw/115/public/31), May 5, 2017, [131 Stat. 734](https://www.govinfo.gov/link/statute/131/734); amended [Pub. L. 118–63, title XI, § 1101(w)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1414](https://www.govinfo.gov/link/statute/138/1414).)*

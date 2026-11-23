@@ -3,9 +3,10 @@ title: "Section 5561 - Definitions"
 usc_title: 12
 usc_section: "5561"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5561"
-generated_at: "2026-03-30T02:53:53.545Z"
+generated_at: "2026-11-23T20:25:59.524Z"
+status: "active"
 ---
 
 # § 5561. Definitions
@@ -17,3 +18,7 @@ For purposes of this part, the following definitions shall apply:
   - **(3)** The term “custodian” means the custodian or any deputy custodian designated by the Bureau.
   - **(4)** The term “documentary material” includes the original or any copy of any book, document, record, report, memorandum, paper, communication, tabulation, chart, logs, electronic files, or other data or data compilations stored in any medium.
   - **(5)** The term “violation” means any act or omission that, if proved, would constitute a violation of any provision of Federal consumer financial law.
+
+## Source Credit
+
+*([Pub. L. 111–203, title X, § 1051](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2018](https://www.govinfo.gov/link/statute/124/2018).)*

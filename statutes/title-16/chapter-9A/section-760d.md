@@ -3,9 +3,10 @@ title: "Section 760d - Grants for education and training of personnel in the fie
 usc_title: 16
 usc_section: "760d"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 760d"
-generated_at: "2026-03-30T02:54:22.906Z"
+generated_at: "2026-11-23T20:26:20.265Z"
+status: "active"
 ---
 
 # § 760d. Grants for education and training of personnel in the field of commercial fishing
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:22.906Z"
 - **(a)** The Secretary of Commerce is authorized to make grants, out of funds appropriated for the purposes of this section, to public and nonprofit private universities and colleges in the several States and Territories of the United States for such purposes as may be necessary to promote the education and training of professionally trained personnel (including scientists, technicians, and teachers) needed in the field of commercial fishing. Any amount appropriated for the purposes of this section shall be apportioned on an equitable basis, as determined by the Secretary of Commerce, among the several States and Territories for the purpose of making grants within each such State and Territory. In making such apportionment the Secretary of Commerce shall take into account the extent of the fishing industry within each State and Territory as compared with the total fishing industry of the United States (including Territories), and such other factors as may be relevant in view of the purposes of this section.
 - **(b)** There are authorized to be appropriated not in excess of $550,000 for the fiscal year beginning on July 1, 1955 , and for each fiscal year thereafter for the purposes of this section.
 - **(c)** The Secretary of Commerce may establish such regulations as may be necessary to carry out the provisions of this section.
+
+## Source Credit
+
+*(Aug. 8, 1956, ch. 1039, § 1, [70 Stat. 1126](https://www.govinfo.gov/link/statute/70/1126); 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090](https://www.govinfo.gov/link/statute/84/2090).)*

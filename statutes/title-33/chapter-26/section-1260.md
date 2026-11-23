@@ -3,9 +3,10 @@ title: "Section 1260 - Applications; allocation"
 usc_title: 33
 usc_section: "1260"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1260"
-generated_at: "2026-03-30T02:55:41.083Z"
+generated_at: "2026-11-23T20:26:53.972Z"
+status: "active"
 ---
 
 # § 1260. Applications; allocation
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:41.083Z"
   - **(3)**
     - **(A)** Payments under this section may be used in accordance with regulations of the Administrator, and subject to the terms and conditions set forth in an application approved under paragraph (1), to pay part of the compensation of students employed in connection with the operation and maintenance of treatment works, other than as an employee in connection with the operation and maintenance of treatment works or as an employee in any branch of the Government of the United States, as part of a program for which a grant has been approved pursuant to this section.
     - **(B)** Departments and agencies of the United States are encouraged, to the extent consistent with efficient administration, to enter into arrangements with institutions of higher education for the full-time, part-time, or temporary employment, whether in the competitive or excepted service, of students enrolled in programs set forth in applications approved under paragraph (1).
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title I, § 110, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 830](https://www.govinfo.gov/link/statute/86/830).)*

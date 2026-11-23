@@ -3,9 +3,10 @@ title: "Section 1629g - Open season for certain Alaska Native veterans for allot
 usc_title: 43
 usc_section: "1629g"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1629g"
-generated_at: "2026-03-30T02:55:57.484Z"
+generated_at: "2026-11-23T20:27:06.340Z"
+status: "active"
 ---
 
 # § 1629g. Open season for certain Alaska Native veterans for allotments
@@ -56,3 +57,17 @@ generated_at: "2026-03-30T02:55:57.484Z"
   - **(2)** The Secretary shall, within one year of October 21, 1998 , issue a written report on the study, including findings and recommendations, to the Committee on Appropriations and the Committee on Energy and Natural Resources in the Senate and the Committee on Appropriations and the Committee on Resources in the House of Representatives.
 - **(d)** For the purposes of this section, the terms “veteran” and “Vietnam era” have the meanings given those terms by paragraphs (2) and (29), respectively, of section 101 of title 38 .
 - **(e)** No later than 18 months after October 21, 1998 , the Secretary of the Interior shall promulgate, after consultation with Alaska Natives groups, rules to carry out this section.
+
+(1) Lands within a recorded mining claim.
+
+(2) Home sites.
+
+(3) Trade and Manufacturing sites.
+
+(4) Reindeer sites or headquarters sites.
+
+(5) Cemetery sites.
+
+## Source Credit
+
+*([Pub. L. 92–203, § 41](https://www.govinfo.gov/link/plaw/92/public/203), as added [Pub. L. 105–276, title IV, § 432](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2516](https://www.govinfo.gov/link/statute/112/2516); amended [Pub. L. 106–559, title III, § 301](https://www.govinfo.gov/link/plaw/106/public/559), Dec. 21, 2000, [114 Stat. 2782](https://www.govinfo.gov/link/statute/114/2782); [Pub. L. 108–452, title III, § 306](https://www.govinfo.gov/link/plaw/108/public/452), Dec. 10, 2004, [118 Stat. 3590](https://www.govinfo.gov/link/statute/118/3590).)*

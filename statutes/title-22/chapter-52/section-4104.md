@@ -3,9 +3,10 @@ title: "Section 4104 - Employee rights"
 usc_title: 22
 usc_section: "4104"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4104"
-generated_at: "2026-03-30T02:55:05.406Z"
+generated_at: "2026-11-23T20:26:32.518Z"
+status: "active"
 ---
 
 # § 4104. Employee rights
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:05.406Z"
 - **(b)** Except as otherwise provided under this subchapter, such right includes the right—
   - **(1)** to act for a labor organization in the capacity of a representative and, in that capacity, to present the views of the labor organization to the Secretary and other officials of the Government, including the Congress, or other appropriate authorities; and
   - **(2)** to engage in collective bargaining with respect to conditions of employment through representatives chosen by employees under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 1004](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2130](https://www.govinfo.gov/link/statute/94/2130).)*

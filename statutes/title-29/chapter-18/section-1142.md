@@ -3,9 +3,10 @@ title: "Section 1142 - Advisory Council on Employee Welfare and Pension Benefit 
 usc_title: 29
 usc_section: "1142"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1142"
-generated_at: "2026-03-30T02:55:18.719Z"
+generated_at: "2026-11-23T20:26:37.973Z"
+status: "active"
 ---
 
 # § 1142. Advisory Council on Employee Welfare and Pension Benefit Plans
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:18.719Z"
   - **(1)** Members of the Council shall each be entitled to receive the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule for each day (including travel time) during which they are engaged in the actual performance of duties vested in the Council.
   - **(2)** While away from their homes or regular places of business in the performance of services for Council, 2 2 So in original. Probably should be “for the Council,”. members of the Council shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) of title 5 . 1
 - **(e)** Section 1013(a) of title 5 (relating to termination) shall not apply to the Council.
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 512](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 895](https://www.govinfo.gov/link/statute/88/895); [Pub. L. 117–286, § 4(a)(189)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4326](https://www.govinfo.gov/link/statute/136/4326).)*

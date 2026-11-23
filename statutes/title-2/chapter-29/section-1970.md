@@ -3,9 +3,10 @@ title: "Section 1970 - Assistance by Executive departments and agencies"
 usc_title: 2
 usc_section: "1970"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1970"
-generated_at: "2026-03-30T02:53:04.822Z"
+generated_at: "2026-11-23T20:25:29.000Z"
+status: "active"
 ---
 
 # § 1970. Assistance by Executive departments and agencies
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:53:04.822Z"
   - **(2)** The report submitted under paragraph (1) shall contain a detailed account of all expenditures made by the Executive department or executive agency in providing assistance under this section during the applicable fiscal year.
   - **(3)** After receipt of all reports under paragraph (2) with respect to any fiscal year, the Chairman of the Capitol Police Board shall submit a summary of such reports to the Committees on Appropriations of the Senate and the House of Representatives.
 - **(c)** This section shall take effect on January 10, 2002 , and apply to each fiscal year occurring after such date.
+
+## Source Credit
+
+*([Pub. L. 107–117, div. B, § 911](https://www.govinfo.gov/link/plaw/107/public/117), Jan. 10, 2002, [115 Stat. 2322](https://www.govinfo.gov/link/statute/115/2322); [Pub. L. 117–77, § 2(a)](https://www.govinfo.gov/link/plaw/117/public/77), Dec. 22, 2021, [135 Stat. 1522](https://www.govinfo.gov/link/statute/135/1522).)*

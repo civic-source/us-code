@@ -3,9 +3,10 @@ title: "Section 961 - Functions transferred under 1977 amendments"
 usc_title: 30
 usc_section: "961"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 961"
-generated_at: "2026-03-30T02:55:29.394Z"
+generated_at: "2026-11-23T20:26:34.981Z"
+status: "active"
 ---
 
 # § 961. Functions transferred under 1977 amendments
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:29.394Z"
   - **(4)** The provisions of this section shall not affect suits commenced prior to the date this section takes effect and in all such suits proceedings shall be had, appeals taken, and judgments rendered, in the same manner and effect as if this section had not been enacted; except that if before the date on which this section takes effect, any department or agency (or officer thereof in his official capacity) is a party to a suit involving functions transferred to the Secretary, then such suit shall be continued by the Secretary of Labor. No cause of action, and no suit, action, or other proceeding, by or against any department or agency (or officer thereof in his official capacity) functions of which are transferred by this section, shall abate by reason of the enactment of this section. Causes of actions, suits, actions, or other proceedings may be asserted by or against the United States or the Secretary as may be appropriate and, in any litigation pending when this section takes effect, the court may at any time, on its own motion or that of any party, enter an order which will give effect to the provisions of this paragraph.
 - **(d)** For purposes of this section, (1) the term “function” includes power and duty, and (2) the transfer of a function, under any provision of law, of an agency or the head of a department shall also be a transfer of all functions under such law which are exercised by any officer 2 2 So in original. Probably should be “office”. or officer of such agency or department.
 - **(e)** The Director of the Office of Management and Budget in consultation with the Secretary of Labor and the Secretary of the Interior is authorized and directed to make such determinations as may be necessary with regard to the dispositions of personnel, personnel positions, property, records, assets, liabilities, contracts, obligations, commitments, unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available or to be made available, in connection with the functions transferred by this Act as he may deem necessary to accomplish the purposes of this Act.
+
+## Source Credit
+
+*([Pub. L. 95–164, title III, § 301](https://www.govinfo.gov/link/plaw/95/public/164), Nov. 9, 1977, [91 Stat. 1317](https://www.govinfo.gov/link/statute/91/1317); [Pub. L. 96–38, title I, § 100](https://www.govinfo.gov/link/plaw/96/public/38), July 25, 1979, [93 Stat. 111](https://www.govinfo.gov/link/statute/93/111).)*

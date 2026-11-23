@@ -3,9 +3,10 @@ title: "Section 1102 - Improvements in Coast Guard acquisition management"
 usc_title: 14
 usc_section: "1102"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 1102"
-generated_at: "2026-03-30T02:53:51.492Z"
+generated_at: "2026-11-23T20:25:54.553Z"
+status: "active"
 ---
 
 # § 1102. Improvements in Coast Guard acquisition management
@@ -40,3 +41,37 @@ generated_at: "2026-03-30T02:53:51.492Z"
     - **(A)** ensure that career paths for officers, members, and employees of the Coast Guard who wish to pursue careers in acquisition are identified in terms of the education, training, experience, and assignments necessary for career progression of those officers, members, and employees to the most senior positions in the acquisition workforce; and
     - **(B)** publish information on such career paths.
   - **(2)** The Commandant shall ensure that promotion parity is established for officers and members of the Coast Guard who have been assigned to the acquisition workforce relative to officers and members who have not been assigned to the acquisition workforce.
+
+Project or Program Managers.—
+
+Level 1 projects
+
+Level 2 projects
+
+Acquisition Workforce.—
+
+In general
+
+Required positions
+
+Acquisition management headquarter activities
+
+Appropriate expertise required
+
+Management Information System.—
+
+In general
+
+Information maintained
+
+Appointments to Acquisition Positions
+
+Career Paths.—
+
+Identification of career paths
+
+Promotion parity
+
+## Source Credit
+
+*(Added [Pub. L. 111–281, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2931](https://www.govinfo.gov/link/statute/124/2931), § 562; amended [Pub. L. 111–330, § 1(4)](https://www.govinfo.gov/link/plaw/111/public/330), Dec. 22, 2010, [124 Stat. 3569](https://www.govinfo.gov/link/statute/124/3569); [Pub. L. 112–213, title II, § 210(c)(2)(A)](https://www.govinfo.gov/link/plaw/112/public/213), Dec. 20, 2012, [126 Stat. 1551](https://www.govinfo.gov/link/statute/126/1551); [Pub. L. 114–328, div. A, title VIII, § 899(b)(1)(B)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2333](https://www.govinfo.gov/link/statute/130/2333); renumbered § 1102, [Pub. L. 115–282, title I, § 108(b)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4208](https://www.govinfo.gov/link/statute/132/4208); [Pub. L. 116–283, div. G, title LVXXXV](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXV], § 8505(a)(10), Jan. 1, 2021, [134 Stat. 4748](https://www.govinfo.gov/link/statute/134/4748).)*

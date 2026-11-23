@@ -3,9 +3,10 @@ title: "Section 9304 - Surety corporations"
 usc_title: 31
 usc_section: "9304"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 9304"
-generated_at: "2026-03-30T02:55:34.077Z"
+generated_at: "2026-11-23T20:26:51.941Z"
+status: "active"
 ---
 
 # § 9304. Surety corporations
@@ -19,3 +20,16 @@ generated_at: "2026-03-30T02:55:34.077Z"
     - **(B)** bonds and undertakings in judicial proceedings; and
   - **(3)** complying with sections 9305 and 9306 of this title.
 - **(b)** Each surety bond shall be approved by the official of the Government required to approve or accept the bond. The official may not require that the surety bond be given through a guaranty corporation or through any particular guaranty corporation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 9304 | 6:6. |  |
+
+
+Historical and Revision Notes
+
+9304
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 1047](https://www.govinfo.gov/link/statute/96/1047).)*

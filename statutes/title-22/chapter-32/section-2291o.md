@@ -3,9 +3,10 @@ title: "Section 2291o - Fentanyl reporting and authorities"
 usc_title: 22
 usc_section: "2291o"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2291o"
-generated_at: "2026-03-30T02:55:05.354Z"
+generated_at: "2026-11-23T20:26:32.217Z"
+status: "active"
 ---
 
 # § 2291o. Fentanyl reporting and authorities
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:55:05.354Z"
   - **(2)** compliance with, and progress related to, meeting the benchmarks referred to in subsection (e)(2); and
   - **(3)** the type and quantity of listed chemicals destroyed by each beneficiary country.
 - **(g)** The Secretary shall use amounts otherwise appropriated for International Narcotics Control and Law Enforcement programs managed by the Department to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 118–159, div. G, title LXXVIII, § 7807](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2560](https://www.govinfo.gov/link/statute/138/2560).)*

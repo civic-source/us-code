@@ -3,9 +3,10 @@ title: "Section 1581 - Foreign National Employees Separation Pay Account"
 usc_title: 10
 usc_section: "1581"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1581"
-generated_at: "2026-03-30T02:53:38.130Z"
+generated_at: "2026-11-23T20:25:51.391Z"
+status: "active"
 ---
 
 # § 1581. Foreign National Employees Separation Pay Account
@@ -18,3 +19,19 @@ generated_at: "2026-03-30T02:53:38.130Z"
   - **(1)** A contract.
   - **(2)** A treaty.
   - **(3)** A memorandum of understanding with a foreign nation.
+
+Establishment and Purpose
+
+Deposits Into Account
+
+Payments From Account
+
+Deobligated Funds
+
+Employees Covered
+
+Employees Covered
+
+## Source Credit
+
+*(Added [Pub. L. 102–190, div. A, title X, § 1003(a)(1)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1456](https://www.govinfo.gov/link/statute/105/1456); amended [Pub. L. 102–484, div. A, title X, § 1052(20)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2500](https://www.govinfo.gov/link/statute/106/2500); [Pub. L. 103–337, div. A, title III, § 346](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2724](https://www.govinfo.gov/link/statute/108/2724); [Pub. L. 107–107, div. A, title X, § 1048(e)(2)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1227](https://www.govinfo.gov/link/statute/115/1227).)*

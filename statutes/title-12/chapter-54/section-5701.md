@@ -3,9 +3,10 @@ title: "Section 5701 - Definitions"
 usc_title: 12
 usc_section: "5701"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5701"
-generated_at: "2026-03-30T02:53:53.549Z"
+generated_at: "2026-11-23T20:25:59.537Z"
+status: "active"
 ---
 
 # § 5701. Definitions
@@ -56,3 +57,11 @@ In this chapter, the following definitions shall apply:
   - **(17)** The term “minority depository institution” has the meaning given that term under section 308(b) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989.
   - **(18)** The term “socially and economically disadvantaged individual” means an individual who is a socially disadvantaged individual or an economically disadvantaged individual, as such terms are defined, respectively, under section 637 of title 15 and the regulations thereunder.
   - **(19)** The term “Tribal government” means the recognized governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, community, component band, or component reservation, individually identified (including parenthetically) in the list published most recently as of March 11, 2021 , pursuant to section 5131 of title 25 .
+
+In general
+
+Rescission
+
+## Source Credit
+
+*([Pub. L. 111–240, title III, § 3002](https://www.govinfo.gov/link/plaw/111/public/240), Sept. 27, 2010, [124 Stat. 2568](https://www.govinfo.gov/link/statute/124/2568); [Pub. L. 117–2, title III, § 3301(e)](https://www.govinfo.gov/link/plaw/117/public/2), (f), Mar. 11, 2021, [135 Stat. 71](https://www.govinfo.gov/link/statute/135/71).)*

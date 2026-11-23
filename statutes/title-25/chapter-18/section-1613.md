@@ -3,9 +3,10 @@ title: "Section 1613 - Health professions preparatory scholarship program for In
 usc_title: 25
 usc_section: "1613"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1613"
-generated_at: "2026-03-30T02:54:52.818Z"
+generated_at: "2026-11-23T20:26:25.472Z"
+status: "active"
 ---
 
 # § 1613. Health professions preparatory scholarship program for Indians
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:52.818Z"
 - **(c)** Scholarship grants made under this section may cover costs of tuition, books, transportation, board, and other necessary related expenses of a grantee while attending school.
 - **(d)** The Secretary shall not deny scholarship assistance to an eligible applicant under this section solely on the basis of the applicant’s scholastic achievement if such applicant has been admitted to, or maintained good standing at, an accredited institution.
 - **(e)** The Secretary shall not deny scholarship assistance to an eligible applicant under this section solely by reason of such applicant’s eligibility for assistance or benefits under any other Federal program.
+
+## Source Credit
+
+*([Pub. L. 94–437, title I, § 103](https://www.govinfo.gov/link/plaw/94/public/437), Sept. 30, 1976, [90 Stat. 1403](https://www.govinfo.gov/link/statute/90/1403); [Pub. L. 96–537, § 3(b)](https://www.govinfo.gov/link/plaw/96/public/537), Dec. 17, 1980, [94 Stat. 3174](https://www.govinfo.gov/link/statute/94/3174); [Pub. L. 100–713, title I, § 102](https://www.govinfo.gov/link/plaw/100/public/713), Nov. 23, 1988, [102 Stat. 4785](https://www.govinfo.gov/link/statute/102/4785); [Pub. L. 102–573, title I, § 102(b)](https://www.govinfo.gov/link/plaw/102/public/573), Oct. 29, 1992, [106 Stat. 4530](https://www.govinfo.gov/link/statute/106/4530).)*

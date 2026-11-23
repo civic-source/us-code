@@ -3,9 +3,10 @@ title: "Section 5602 - Reverse mortgage study and regulations"
 usc_title: 12
 usc_section: "5602"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5602"
-generated_at: "2026-03-30T02:53:53.549Z"
+generated_at: "2026-11-23T20:25:59.533Z"
+status: "active"
 ---
 
 # § 5602. Reverse mortgage study and regulations
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:53.549Z"
     - **(A)** identify any practice as unfair, deceptive, or abusive in connection with a reverse mortgage transaction; and
     - **(B)** provide for an integrated disclosure standard and model disclosures for reverse mortgage transactions, consistent with section 4302(d), 1 that combines the relevant disclosures required under the Truth in Lending Act ( 15 U.S.C. 1601 et seq.) and the Real Estate Settlement Procedures Act [ 12 U.S.C. 2601 et seq.], with the disclosures required to be provided to consumers for Home Equity Conversion Mortgages under section 1715z–20 of this title .
 - **(c)** This section shall not be construed as limiting the authority of the Bureau to issue regulations, orders, or guidance that apply to reverse mortgages prior to the completion of the study required under subsection (a).
+
+## Source Credit
+
+*([Pub. L. 111–203, title X, § 1076](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2075](https://www.govinfo.gov/link/statute/124/2075).)*

@@ -3,9 +3,10 @@ title: "Section 7101 - Composition of Board of Veterans’ Appeals"
 usc_title: 38
 usc_section: "7101"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7101"
-generated_at: "2026-03-30T02:55:53.524Z"
+generated_at: "2026-11-23T20:27:01.976Z"
+status: "active"
 ---
 
 # § 7101. Composition of Board of Veterans’ Appeals
@@ -40,3 +41,13 @@ generated_at: "2026-03-30T02:55:53.524Z"
     - **(A)** an estimate of the number of cases to be appealed to the Board; and
     - **(B)** an evaluation of the ability of the Board (based on existing and projected personnel levels) to ensure timely disposition of such appeals as required by section 7101(a) of this title .
 - **(e)** A performance incentive that is authorized by law for officers and employees of the Federal Government may be awarded to a member of the Board (including an acting member) by reason of that member’s service on the Board only if the Chairman of the Board determines that such member should be awarded that incentive. A determination by the Chairman for such purpose shall be made taking into consideration the quality of performance of the Board member.
+
+“The first report required to be submitted under section 7101(d) of title 38 , United States Code, shall include the following information with respect to hearings scheduled under subparagraph (C) of paragraph (2) of subsection (c) of section 7101 [probably should be “7107”] of such title, as added by subsection (a):
+
+Transition to New Board
+
+Initial Terms of Office
+
+## Source Credit
+
+*([Pub. L. 85–857](https://www.govinfo.gov/link/plaw/85/public/857), Sept. 2, 1958, [72 Stat. 1240](https://www.govinfo.gov/link/statute/72/1240), § 4001; [Pub. L. 98–223, title II, § 208(a)](https://www.govinfo.gov/link/plaw/98/public/223) –(c), Mar. 2, 1984, [98 Stat. 43](https://www.govinfo.gov/link/statute/98/43), 44; [Pub. L. 100–687, div. A, title II](https://www.govinfo.gov/link/plaw/100/public/687), §§ 201(a), 202(b), 208, 209, Nov. 18, 1988, [102 Stat. 4109](https://www.govinfo.gov/link/statute/102/4109), 4110, 4112; renumbered § 7101 and amended [Pub. L. 102–40, title IV, § 402(b)(1)](https://www.govinfo.gov/link/plaw/102/public/40), (d)(1), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238), 239; [Pub. L. 102–54, § 14(e)(2)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 287](https://www.govinfo.gov/link/statute/105/287); [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 2(c)(3), 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 402](https://www.govinfo.gov/link/statute/105/402), 404, 405; [Pub. L. 103–271](https://www.govinfo.gov/link/plaw/103/public/271), §§ 2–5, July 1, 1994, [108 Stat. 740](https://www.govinfo.gov/link/statute/108/740), 741; [Pub. L. 103–446, title II](https://www.govinfo.gov/link/plaw/103/public/446), §§ 201(d), 203, Nov. 2, 1994, [108 Stat. 4657](https://www.govinfo.gov/link/statute/108/4657); [Pub. L. 105–368, title V, § 512(a)(1)](https://www.govinfo.gov/link/plaw/105/public/368), Nov. 11, 1998, [112 Stat. 3341](https://www.govinfo.gov/link/statute/112/3341); [Pub. L. 107–14, § 8(a)(16)](https://www.govinfo.gov/link/plaw/107/public/14), June 5, 2001, [115 Stat. 35](https://www.govinfo.gov/link/statute/115/35); [Pub. L. 116–137, § 2(c)(1)](https://www.govinfo.gov/link/plaw/116/public/137), Apr. 10, 2020, [134 Stat. 616](https://www.govinfo.gov/link/statute/134/616).)*

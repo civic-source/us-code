@@ -3,9 +3,10 @@ title: "Section 4347 - Training with respect to the enforcement of intellectual 
 usc_title: 19
 usc_section: "4347"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 4347"
-generated_at: "2026-03-30T02:54:24.707Z"
+generated_at: "2026-11-23T20:26:11.138Z"
+status: "active"
 ---
 
 # § 4347. Training with respect to the enforcement of intellectual property rights
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:24.707Z"
   - **(1)** technologies with the cost-effective capability to detect and identify merchandise at United States ports of entry that infringes intellectual property rights; and
   - **(2)** cost-effective programs for training officers of U.S. Customs and Border Protection to use such technologies.
 - **(d)** Not later than the date that is 180 days after February 24, 2016 , the Commissioner shall prescribe regulations to enable U.S. Customs and Border Protection to receive donations of hardware, software, equipment, and similar technologies, and to accept training and other support services, from private sector entities, for the purpose of enforcing intellectual property rights.
+
+## Source Credit
+
+*([Pub. L. 114–125, title III, § 308](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 153](https://www.govinfo.gov/link/statute/130/153).)*

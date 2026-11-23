@@ -3,12 +3,17 @@ title: "Section 1172 - Enlisted members: during war or emergency; discharge"
 usc_title: 10
 usc_section: "1172"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1172"
-generated_at: "2026-03-30T02:53:38.113Z"
+generated_at: "2026-11-23T20:25:51.270Z"
+status: "active"
 ---
 
 # § 1172. Enlisted members: during war or emergency; discharge
 
 A person enlisted under section 518 of this title may be discharged at any time by the President, or otherwise according to law.
 
+
+## Source Credit
+
+*(Added [Pub. L. 90–235, § 3(a)(1)(A)](https://www.govinfo.gov/link/plaw/90/public/235), Jan. 2, 1968, [81 Stat. 757](https://www.govinfo.gov/link/statute/81/757).)*

@@ -3,9 +3,10 @@ title: "Section 125a - Reform: improvement of efficacy and efficiency"
 usc_title: 10
 usc_section: "125a"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 125a"
-generated_at: "2026-03-30T02:53:38.032Z"
+generated_at: "2026-11-23T20:25:50.814Z"
+status: "active"
 ---
 
 # § 125a. Reform: improvement of efficacy and efficiency
@@ -34,3 +35,41 @@ generated_at: "2026-03-30T02:53:38.032Z"
 - **(e)** At the same time the budget of the President for a fiscal year is submitted to Congress pursuant to section 1105 of title 31 , the Secretary shall, using the policies, guidance, and reporting framework required by subsection (c), submit to the congressional defense committees a report, including detailed narrative justifications and tradeoff analyses between options, on the actions of the Department as follows:
   - **(1)** The activities, expenditures, and accomplishments carried out or made to effect reform under this section during the fiscal year in which such budget is submitted.
   - **(2)** The proposed activities, expenditures, and accomplishments to effect reform under this section, and consistent with priorities established by the Secretary, during the fiscal year covered by such budget and each of the four succeeding fiscal years.
+
+In General
+
+Policy
+
+Framework for Reform.—
+
+In general
+
+Scope
+
+Consultation
+
+Covered Elements of Reform
+
+Annual Report
+
+In General
+
+Elements
+
+Authorities.—
+
+In general
+
+Authorities described
+
+Use of Best Practices
+
+Strategic Management Dashboard Defined
+
+Submittal to congress
+
+Update
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. A, title IX, § 911(a)(1)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3800](https://www.govinfo.gov/link/statute/134/3800); amended [Pub. L. 117–263, div. A, title IX, § 911](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2750](https://www.govinfo.gov/link/statute/136/2750).)*

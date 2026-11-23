@@ -3,9 +3,10 @@ title: "Section 1413 - Dumping permit program for dredged mate­rial"
 usc_title: 33
 usc_section: "1413"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1413"
-generated_at: "2026-03-30T02:55:41.105Z"
+generated_at: "2026-11-23T20:26:54.074Z"
+status: "active"
 ---
 
 # § 1413. Dumping permit program for dredged mate­rial
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:41.105Z"
   - **(5)** Unless the Administrator grants a waiver pursuant to subsection (d), any permit issued by the Secretary shall require compliance with such criteria and restrictions.
 - **(d)** If, in any case, the Secretary finds that, in the disposition of dredged material, there is no economically feasible method or site available other than a dumping site the utilization of which would result in non-compliance with the criteria established pursuant to section 1412(a) of this title relating to the effects of dumping or with the restrictions established pursuant to section 1412(c) of this title relating to critical areas, he shall so certify and request a waiver from the Administrator of the specific requirements involved. Within thirty days of the receipt of the waiver request, unless the Administrator finds that the dumping of the material will result in an unacceptably adverse impact on municipal water supplies, shell-fish beds, wildlife, fisheries (including spawning and breeding areas), or recreational areas, he shall grant the waiver.
 - **(e)** In connection with Federal projects involving dredged material, the Secretary may, in lieu of the permit procedure, issue regulations which will require the application to such projects of the same criteria, other factors to be evaluated, the same procedures, and the same requirements which apply to the issuance of permits under subsections (a), (b), (c), and (d) of this section and section 1414(a) and (d) of this title.
+
+## Source Credit
+
+*([Pub. L. 92–532, title I, § 103](https://www.govinfo.gov/link/plaw/92/public/532), Oct. 23, 1972, [86 Stat. 1055](https://www.govinfo.gov/link/statute/86/1055); [Pub. L. 102–580, title V](https://www.govinfo.gov/link/plaw/102/public/580), §§ 504, 506(b), Oct. 31, 1992, [106 Stat. 4866](https://www.govinfo.gov/link/statute/106/4866), 4869.)*

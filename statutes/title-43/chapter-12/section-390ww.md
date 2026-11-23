@@ -3,9 +3,10 @@ title: "Section 390ww - Administrative provisions"
 usc_title: 43
 usc_section: "390ww"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 390ww"
-generated_at: "2026-03-30T02:55:57.446Z"
+generated_at: "2026-11-23T20:27:06.200Z"
+status: "active"
 ---
 
 # § 390ww. Administrative provisions
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:57.446Z"
 - **(g)** In addition to any other audit or compliance activities which may otherwise be undertaken, the Secretary of the Interior, or his designee, shall conduct a thorough audit of the compliance with the reclamation law of the United States, specifically including this subchapter, by legal entities and individuals subject to such law. At a minimum, the Secretary shall complete audits of those legal entities and individuals whose landholdings or operations exceed 960 acres within 3 years.
 - **(h)** The provisions of section 390ee(c) of this title are and have been applicable to all recordable contracts executed prior to October 12, 1982 , and any decision, rule, or regulation promulgated by the Department of the Interior to the contrary is hereby revoked: Provided , That notwithstanding the provisions of subsection (i), the Secretary shall not seek reimbursement for any amounts due under this subsection or section 390ee(c) of this title which was due prior to December 22, 1987 .
 - **(i)** When the Secretary finds that any individual or legal entity subject to reclamation law, including this subchapter, has not paid the required amount for irrigation water delivered to a landholding pursuant to reclamation law, including this subchapter, he shall collect the amount of any underpayment with interest accruing from the date the required payment was due until paid. The interest rate shall be determined by the Secretary of the Treasury on the basis of the weighted average yield of all interest bearing marketable issues sold by the Treasury during the period of underpayment.
+
+## Source Credit
+
+*([Pub. L. 97–293, title II, § 224](https://www.govinfo.gov/link/plaw/97/public/293), Oct. 12, 1982, [96 Stat. 1272](https://www.govinfo.gov/link/statute/96/1272); [Pub. L. 100–203, title V, § 5302(a)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–268](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 103–437, § 16(a)(3)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4594](https://www.govinfo.gov/link/statute/108/4594); [Pub. L. 104–66, title I, § 1081(d)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 721](https://www.govinfo.gov/link/statute/109/721).)*

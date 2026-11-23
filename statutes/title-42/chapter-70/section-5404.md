@@ -3,9 +3,10 @@ title: "Section 5404 - Manufactured home installation"
 usc_title: 42
 usc_section: "5404"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5404"
-generated_at: "2026-03-30T02:56:11.235Z"
+generated_at: "2026-11-23T20:27:22.539Z"
+status: "active"
 ---
 
 # § 5404. Manufactured home installation
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:56:11.235Z"
       - **(ii)** the designs and instructions provided by manufacturers under subsection (a), if the Secretary determines that such designs and instructions provide protection to the residents of manufactured homes that equals or exceeds the protection provided by the model manufactured home installation standards established by the Secretary under subsection (b)(2);
     - **(B)** the training and licensing of manufactured home installers; and
     - **(C)** inspection of the installation of manufactured homes.
+
+## Source Credit
+
+*([Pub. L. 93–383, title VI, § 605](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 702](https://www.govinfo.gov/link/statute/88/702); [Pub. L. 96–399, title III, § 308(c)(4)](https://www.govinfo.gov/link/plaw/96/public/399), Oct. 8, 1980, [94 Stat. 1641](https://www.govinfo.gov/link/statute/94/1641); [Pub. L. 106–569, title VI, § 605(a)](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 3006](https://www.govinfo.gov/link/statute/114/3006).)*

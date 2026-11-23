@@ -3,9 +3,10 @@ title: "Section 1849 - Saving provision"
 usc_title: 12
 usc_section: "1849"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1849"
-generated_at: "2026-03-30T02:53:53.468Z"
+generated_at: "2026-11-23T20:25:59.209Z"
+status: "active"
 ---
 
 # § 1849. Saving provision
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:53.468Z"
 - **(d)** Any acquisition, merger, or consolidation of the kind described in section 1842(a) of this title which was consummated at any time prior or subsequent to May 9, 1956 , and as to which no litigation was initiated by the Attorney General prior to July 1, 1966 , shall be conclusively presumed not to have been in violation of any antitrust laws other than section 2 of title 15 .
 - **(e)** Any court having pending before it on or after July 1, 1966 , any litigation initiated under the antitrust laws by the Attorney General with respect to any acquisition, merger, or consolidation of the kind described in section 1842(a) of this title shall apply the substantive rule of law set forth in section 1842 of this title .
 - **(f)** For the purposes of this section, the term “antitrust laws” means the Act of July 2, 1890 (the Sherman Antitrust Act), the Act of October 15, 1914 (the Clayton Act), and any other Acts in pari materia.
+
+## Source Credit
+
+*(May 9, 1956, ch. 240, § 11, [70 Stat. 146](https://www.govinfo.gov/link/statute/70/146); [Pub. L. 89–485, § 11](https://www.govinfo.gov/link/plaw/89/public/485), July 1, 1966, [80 Stat. 240](https://www.govinfo.gov/link/statute/80/240); [Pub. L. 91–607, title I, § 104](https://www.govinfo.gov/link/plaw/91/public/607), Dec. 31, 1970, [84 Stat. 1766](https://www.govinfo.gov/link/statute/84/1766); [Pub. L. 95–188, title III, § 303](https://www.govinfo.gov/link/plaw/95/public/188), Nov. 16, 1977, [91 Stat. 1390](https://www.govinfo.gov/link/statute/91/1390); [Pub. L. 100–86, title V, § 502(h)(3)](https://www.govinfo.gov/link/plaw/100/public/86), Aug. 10, 1987, [101 Stat. 628](https://www.govinfo.gov/link/statute/101/628); [Pub. L. 103–325, title III, § 321(a)](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2226](https://www.govinfo.gov/link/statute/108/2226); [Pub. L. 106–102, title I, § 131](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1382](https://www.govinfo.gov/link/statute/113/1382).)*

@@ -3,9 +3,10 @@ title: "Section 7821 - Consolidation of State administrative funds for elementar
 usc_title: 20
 usc_section: "7821"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 7821"
-generated_at: "2026-03-30T02:54:48.218Z"
+generated_at: "2026-11-23T20:26:14.942Z"
+status: "active"
 ---
 
 # § 7821. Consolidation of State administrative funds for elementary and secondary education programs
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:48.218Z"
 - **(d)** To determine the effectiveness of State administration under this section, the Secretary may periodically review the performance of State educational agencies in using consolidated administrative funds under this section and take such steps as the Secretary finds appropriate to ensure the effectiveness of that administration.
 - **(e)** If a State educational agency does not use all of the funds available to the agency under this section for administration, the agency may use those funds during the applicable period of availability as funds available under one or more programs included in the consolidation under subsection (a).
 - **(f)** In order to develop challenging State academic standards and assessments, a State educational agency may consolidate the amounts described in subsection (a) for those purposes under subchapter I.
+
+## Source Credit
+
+*([Pub. L. 89–10, title VIII, § 8201](https://www.govinfo.gov/link/plaw/89/public/10), formerly title IX, § 9201, as added [Pub. L. 107–110, title IX, § 901](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1966](https://www.govinfo.gov/link/statute/115/1966); renumbered title VIII, § 8201, and amended [Pub. L. 114–95, title VIII](https://www.govinfo.gov/link/plaw/114/public/95), §§ 8001(a)(2), 8005, Dec. 10, 2015, [129 Stat. 2088](https://www.govinfo.gov/link/statute/129/2088), 2089, 2100.)*

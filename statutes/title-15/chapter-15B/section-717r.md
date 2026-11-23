@@ -3,9 +3,10 @@ title: "Section 717r - Rehearing and review"
 usc_title: 15
 usc_section: "717r"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 717r"
-generated_at: "2026-03-30T02:54:08.118Z"
+generated_at: "2026-11-23T20:26:03.905Z"
+status: "active"
 ---
 
 # § 717r. Rehearing and review
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:08.118Z"
   - **(3)** If the Court finds that such order or action is inconsistent with the Federal law governing such permit and would prevent the construction, expansion, or operation of the facility subject to section 717b of this title or section 717f of this title , the Court shall remand the proceeding to the agency to take appropriate action consistent with the order of the Court. If the Court remands the order or action to the Federal or State agency, the Court shall set a reasonable schedule and deadline for the agency to act on remand.
   - **(4)** For any action described in this subsection, the Commission shall file with the Court the consolidated record of such order or action to which the appeal hereunder relates.
   - **(5)** The Court shall set any action brought under this subsection for expedited consideration.
+
+## Source Credit
+
+*(June 21, 1938, ch. 556, § 19, [52 Stat. 831](https://www.govinfo.gov/link/statute/52/831); June 25, 1948, ch. 646, § 32(a), [62 Stat. 991](https://www.govinfo.gov/link/statute/62/991); May 24, 1949, ch. 139, § 127, [63 Stat. 107](https://www.govinfo.gov/link/statute/63/107); [Pub. L. 85–791, § 19](https://www.govinfo.gov/link/plaw/85/public/791), Aug. 28, 1958, [72 Stat. 947](https://www.govinfo.gov/link/statute/72/947); [Pub. L. 109–58, title III, § 313(b)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 689](https://www.govinfo.gov/link/statute/119/689).)*

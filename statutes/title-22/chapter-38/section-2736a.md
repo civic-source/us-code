@@ -3,9 +3,10 @@ title: "Section 2736a - Recruitment and retention"
 usc_title: 22
 usc_section: "2736a"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2736a"
-generated_at: "2026-03-30T02:55:05.382Z"
+generated_at: "2026-11-23T20:26:32.396Z"
+status: "active"
 ---
 
 # § 2736a. Recruitment and retention
@@ -29,3 +30,11 @@ generated_at: "2026-03-30T02:55:05.382Z"
       - **(ii)** individuals having responsibilities related to recruitment, retention, or promotion of employees; and
       - **(iii)** any other individual determined by the Department who needs such training based on analysis by the Department or OPM analysis.
   - **(2)** The Department shall give special attention to ensuring the continuous incorporation of research-based best practices in training provided under this subsection.
+
+In General
+
+Report
+
+## Source Credit
+
+*([Pub. L. 117–81, div. E, title LIV, § 5403](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2372](https://www.govinfo.gov/link/statute/135/2372).)*

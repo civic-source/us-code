@@ -3,9 +3,10 @@ title: "Section 6135 - W93 nuclear warhead acquisition process"
 usc_title: 10
 usc_section: "6135"
 chapter: 602
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6135"
-generated_at: "2026-03-30T02:53:38.220Z"
+generated_at: "2026-11-23T20:25:52.014Z"
+status: "active"
 ---
 
 # § 6135. W93 nuclear warhead acquisition process
@@ -40,3 +41,23 @@ generated_at: "2026-03-30T02:53:38.220Z"
   - **(2)** the Commander of the United States Strategic Command shall submit to the congressional defense committees a report containing, or provide to such committees a briefing on, the requirements for weapon quantity and composition by type for the sub-surface ballistic nuclear (SSBN) force, including such requirements planned for the 15-year period following the date of the report or briefing, as the case may be, including any planned life extensions, retirements, or alterations.
 - **(c)** Subsections (a) and (b) may be waived during a period of war declared by Congress after January 1, 2021 .
 - **(d)** In this section, the term “joint nuclear weapons life cycle” has the meaning given that term in section 6131.
+
+Reporting Requirements
+
+Certifications and Reports at Phase
+
+Waivers
+
+Joint Nuclear Weapons Life Cycle Defined
+
+Phase
+
+Phase
+
+In general
+
+Requirements for process
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2), Dec. 18, 2025, [139 Stat. 1370](https://www.govinfo.gov/link/statute/139/1370), 1462.)*

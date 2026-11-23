@@ -3,9 +3,10 @@ title: "Section 1446 - Withholding of tax on foreign partners’ share of effect
 usc_title: 26
 usc_section: "1446"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1446"
-generated_at: "2026-03-30T02:55:27.776Z"
+generated_at: "2026-11-23T20:26:46.131Z"
+status: "active"
 ---
 
 # § 1446. Withholding of tax on foreign partners’ share of effectively connected income
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:55:27.776Z"
   - **(2)** regulations providing—
     - **(A)** that, for purposes of section 6655, the withholding tax imposed under this section shall be treated as a tax imposed by section 11 and any partnership required to pay such tax shall be treated as a corporation, and
     - **(B)** appropriate adjustments in applying section 6655 with respect to such withholding tax.
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title XII, § 1246(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2582](https://www.govinfo.gov/link/statute/100/2582); amended [Pub. L. 100–647, title I, § 1012(s)(1)(A)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3526](https://www.govinfo.gov/link/statute/102/3526); [Pub. L. 101–239, title VII, § 7811(i)(6)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2410](https://www.govinfo.gov/link/statute/103/2410); [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 13001(b)(3)(D), 13501(b), Dec. 22, 2017, [131 Stat. 2098](https://www.govinfo.gov/link/statute/131/2098), 2139; [Pub. L. 115–141, div. U, title IV, § 401(a)(199)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1193](https://www.govinfo.gov/link/statute/132/1193).)*

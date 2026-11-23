@@ -3,9 +3,10 @@ title: "Section 14922 - Process for accreditation and approval; role of accredit
 usc_title: 42
 usc_section: "14922"
 chapter: 143
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 14922"
-generated_at: "2026-03-30T02:56:11.453Z"
+generated_at: "2026-11-23T20:27:23.537Z"
+status: "active"
 ---
 
 # § 14922. Process for accreditation and approval; role of accrediting entities
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:11.453Z"
   - **(2)** An adverse action by an accrediting entity shall not be subject to administrative review.
   - **(3)** An agency or person who is the subject of an adverse action by an accrediting entity may petition the United States district court in the judicial district in which the agency is located or the person resides to set aside the adverse action. The court shall review the adverse action in accordance with section 706 of title 5 , and for purposes of such review the accrediting entity shall be considered an agency within the meaning of section 701 of such title.
 - **(d)** The amount of fees assessed by accrediting entities for the costs of accreditation shall be subject to approval by the Secretary. Such fees may not exceed the costs of accreditation. In reviewing the level of such fees, the Secretary shall consider the relative size of, the geographic location of, and the number of Convention adoption cases managed by the agencies or persons subject to accreditation or approval by the accrediting entity.
+
+## Source Credit
+
+*([Pub. L. 106–279, title II, § 202](https://www.govinfo.gov/link/plaw/106/public/279), Oct. 6, 2000, [114 Stat. 831](https://www.govinfo.gov/link/statute/114/831); [Pub. L. 112–276, § 3(b)](https://www.govinfo.gov/link/plaw/112/public/276), Jan. 14, 2013, [126 Stat. 2467](https://www.govinfo.gov/link/statute/126/2467).)*

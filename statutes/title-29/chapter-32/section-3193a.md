@@ -3,12 +3,17 @@ title: "Section 3193a - Transfer of administration of Job Corps program to Emplo
 usc_title: 29
 usc_section: "3193a"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3193a"
-generated_at: "2026-03-30T02:55:18.755Z"
+generated_at: "2026-11-23T20:26:38.109Z"
+status: "active"
 ---
 
 # § 3193a. Transfer of administration of Job Corps program to Employment and Training Administration
 
 The Secretary of Labor shall submit to the Committees on Appropriations of the House of Representatives and the Senate a plan for the transfer of the administration of the Job Corps program authorized under title I–C of the Workforce Investment Act of 1998 1 1 See References in Text note below. from the Office of the Secretary to the Employment and Training Administration. As of the date that is 30 days after the date of submission of such plan, the Secretary may transfer the administration and appropriated funds of the program from the Office of the Secretary and the provisions of section 2883a of this title shall no longer be applicable.
 
+
+## Source Credit
+
+*([Pub. L. 111–117, div. D, title I, § 108](https://www.govinfo.gov/link/plaw/111/public/117), Dec. 16, 2009, [123 Stat. 3238](https://www.govinfo.gov/link/statute/123/3238).)*

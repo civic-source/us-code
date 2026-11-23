@@ -3,9 +3,10 @@ title: "Section 18936 - Neutron scattering"
 usc_title: 42
 usc_section: "18936"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18936"
-generated_at: "2026-03-30T02:56:11.533Z"
+generated_at: "2026-11-23T20:27:23.840Z"
+status: "active"
 ---
 
 # § 18936. Neutron scattering
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.533Z"
   - **(3)** a plan to minimize disruptions to the user community during the transition.
 - **(b)** The Secretary, acting through the Director, shall coordinate with the Secretary of Energy on issues related to Federal support for neutron science, including estimation of long-term needs for research using neutron sources, and planning efforts for future facilities to meet such needs.
 - **(c)** Not later than 30 months after August 9, 2022 , the Director shall submit to Congress the plan required under subsection (a), and shall notify Congress of any substantial updates to such plan in subsequent years.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title II, § 10231](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1483](https://www.govinfo.gov/link/statute/136/1483).)*

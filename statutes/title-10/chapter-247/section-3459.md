@@ -3,9 +3,10 @@ title: "Section 3459 - Limitation on required flowdown of contract clauses to su
 usc_title: 10
 usc_section: "3459"
 chapter: 247
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 3459"
-generated_at: "2026-03-30T02:53:38.193Z"
+generated_at: "2026-11-23T20:25:51.835Z"
+status: "active"
 ---
 
 # § 3459. Limitation on required flowdown of contract clauses to subcontractors providing commercial products or commercial services
@@ -14,3 +15,15 @@ generated_at: "2026-03-30T02:53:38.193Z"
 - **(b)** The Secretary of Defense may not require the application of any contract clauses to other supply agreements unless otherwise applicable pursuant to subsection (e) of section 3452 of this title .
 - **(c)** In this section, the terms “other supply agreement” and “subcontract” have the meanings given such terms, respectively, in section 3452(c)(2) of this title .
 - **(d)** Subsection (a) shall apply only with respect to subcontracts entered into after the earliest date on which the lists required by section 3452 of this title are published in the Defense Federal Acquisition Regulation Supplement.
+
+In General
+
+Applicability to Other Supply Agreements
+
+Definitions
+
+Applicability
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. A, title XVIII, § 1824](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1248](https://www.govinfo.gov/link/statute/139/1248).)*

@@ -3,9 +3,10 @@ title: "Section 2704 - International Trade Commission reports on impact of Carib
 usc_title: 19
 usc_section: "2704"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2704"
-generated_at: "2026-03-30T02:54:24.685Z"
+generated_at: "2026-11-23T20:26:11.021Z"
+status: "active"
 ---
 
 # § 2704. International Trade Commission reports on impact of Caribbean Basin Economic Recovery Program
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:24.685Z"
 - **(c)**
   - **(1)** Each report required under subsection (a) shall be submitted to the Congress and to the President before the close of the nine-month period beginning on the day after the last day of the period covered by the report.
   - **(2)** The Commission shall provide opportunity for the submission by the public, either orally or in writing, or both, of information relating to matters that will be addressed in the reports.
+
+## Source Credit
+
+*([Pub. L. 98–67, title II, § 215](https://www.govinfo.gov/link/plaw/98/public/67), Aug. 5, 1983, [97 Stat. 393](https://www.govinfo.gov/link/statute/97/393); [Pub. L. 106–200, title II, § 211(d)(1)](https://www.govinfo.gov/link/plaw/106/public/200), May 18, 2000, [114 Stat. 287](https://www.govinfo.gov/link/statute/114/287).)*

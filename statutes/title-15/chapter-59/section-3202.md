@@ -3,9 +3,10 @@ title: "Section 3202 - Definitions"
 usc_title: 15
 usc_section: "3202"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 3202"
-generated_at: "2026-03-30T02:54:08.187Z"
+generated_at: "2026-11-23T20:26:04.276Z"
+status: "active"
 ---
 
 # § 3202. Definitions
@@ -22,3 +23,7 @@ For purposes of this chapter—
   - **(8)** The term “State regulatory authority” means any State agency which has ratemaking authority with respect to the sale of natural gas by any gas utility (other than by such State agency).
   - **(9)** The term “integrated resource planning” means, in the case of a gas utility, planning by the use of any standard, regulation, practice, or policy to undertake a systematic comparison between demand-side management measures and the supply of gas by a gas utility to minimize life-cycle costs of adequate and reliable utility services to gas consumers. Integrated resource planning shall take into account necessary features for system operation such as diversity, reliability, dispatchability, and other factors of risk and shall treat demand and supply to gas consumers on a consistent and integrated basis.
   - **(10)** The term “demand-side management” includes energy conservation, energy efficiency, and load management techniques.
+
+## Source Credit
+
+*([Pub. L. 95–617, title III, § 302](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3150](https://www.govinfo.gov/link/statute/92/3150); [Pub. L. 102–486, title I, § 115(a)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2803](https://www.govinfo.gov/link/statute/106/2803).)*

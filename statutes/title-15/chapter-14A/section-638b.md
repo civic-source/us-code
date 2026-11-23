@@ -3,9 +3,10 @@ title: "Section 638b - Reducing vulnerability of SBIR and STTR programs to fraud
 usc_title: 15
 usc_section: "638b"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 638b"
-generated_at: "2026-03-30T02:54:08.099Z"
+generated_at: "2026-11-23T20:26:03.798Z"
+status: "active"
 ---
 
 # § 638b. Reducing vulnerability of SBIR and STTR programs to fraud, waste, and abuse
@@ -48,3 +49,9 @@ generated_at: "2026-03-30T02:54:08.099Z"
   - **(2)** the actions taken in each case described in paragraph (1) if fraud, waste, or abuse was determined to have occurred;
   - **(3)** if no action was taken in a case described in paragraph (1) and fraud, waste, or abuse was determined to have occurred, the justification for action not being taken; and
   - **(4)** an accounting of the funds used to address fraud, waste, and abuse, including a description of personnel and resources funded and funds that were recovered or saved.
+
+“In this division [enacting this section and section 638a of this title , amending sections 632 and 638 of this title, enacting provisions set out as notes under this section and sections 631 and 638 of this title, and amending provisions set out as a note under section 638 of this title ]—
+
+## Source Credit
+
+*([Pub. L. 112–81, div. E, title LI, § 5143](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1854](https://www.govinfo.gov/link/statute/125/1854).)*

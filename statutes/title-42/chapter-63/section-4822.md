@@ -3,9 +3,10 @@ title: "Section 4822 - Requirements for housing receiving Federal assistance"
 usc_title: 42
 usc_section: "4822"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4822"
-generated_at: "2026-03-30T02:56:11.208Z"
+generated_at: "2026-11-23T20:27:22.417Z"
+status: "active"
 ---
 
 # § 4822. Requirements for housing receiving Federal assistance
@@ -56,3 +57,13 @@ generated_at: "2026-03-30T02:56:11.208Z"
   - **(2)** any project for which an application for insurance is submitted under section 1715v, 1715w, 1715z–6, or 1715z–7 of title 12.
 - **(f)** The Secretary shall carry out the provisions of this section utilizing available Federal funding sources. The Secretary shall use funds available under the Capital Fund under section 1437g of this title to carry out this section in public housing. The Secretary shall submit annually to the Congress an estimate of the funds required to carry out the provisions of this section with the reports required by paragraphs (2)(B) and (4).
 - **(g)** This section may not be construed to affect the responsibilities of the Environmental Protection Agency with respect to the protection of the public health from hazards posed by lead-based paint.
+
+Proposed regulations
+
+Final regulations
+
+Required consultations
+
+## Source Credit
+
+*([Pub. L. 91–695, title III, § 302](https://www.govinfo.gov/link/plaw/91/public/695), as added [Pub. L. 93–151, § 4(a)(1)](https://www.govinfo.gov/link/plaw/93/public/151), Nov. 9, 1973, [87 Stat. 566](https://www.govinfo.gov/link/statute/87/566); amended [Pub. L. 100–242, title V, § 566(a)](https://www.govinfo.gov/link/plaw/100/public/242), Feb. 5, 1988, [101 Stat. 1945](https://www.govinfo.gov/link/statute/101/1945); [Pub. L. 100–628, title X, § 1088(a)](https://www.govinfo.gov/link/plaw/100/public/628) –(f), (h), Nov. 7, 1988, [102 Stat. 3280–3282](https://www.govinfo.gov/link/statute/102/3280); [Pub. L. 102–550, title X](https://www.govinfo.gov/link/plaw/102/public/550), §§ 1012(a)–(d), 1013, Oct. 28, 1992, [106 Stat. 3904](https://www.govinfo.gov/link/statute/106/3904), 3905, 3907; [Pub. L. 105–276, title V, § 522(b)(4)](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2564](https://www.govinfo.gov/link/statute/112/2564); [Pub. L. 115–31, div. K, title II, § 237(a)](https://www.govinfo.gov/link/plaw/115/public/31), May 5, 2017, [131 Stat. 788](https://www.govinfo.gov/link/statute/131/788).)*

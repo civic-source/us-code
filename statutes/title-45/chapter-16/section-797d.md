@@ -3,9 +3,10 @@ title: "Section 797d - Election and treatment of benefits"
 usc_title: 45
 usc_section: "797d"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 797d"
-generated_at: "2026-03-30T02:55:56.557Z"
+generated_at: "2026-11-23T20:27:05.321Z"
+status: "active"
 ---
 
 # § 797d. Election and treatment of benefits
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:56.557Z"
 - **(b)** Any benefits received by an employee under an agreement entered into pursuant to section 797 1 of this title and any termination allowance received under section 797a of this title shall be considered compensation solely for purposes of—
   - **(1)** the Railroad Retirement Act of 1974 ( 45 U.S.C. 231 et seq.); and
   - **(2)** determining the compensation received by such employee in any base year under the Railroad Unemployment Insurance Act ( 45 U.S.C. 351 et seq.).
+
+## Source Credit
+
+*([Pub. L. 93–236, title VII, § 705](https://www.govinfo.gov/link/plaw/93/public/236), as added [Pub. L. 97–35, title XI, § 1143(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 664](https://www.govinfo.gov/link/statute/95/664).)*

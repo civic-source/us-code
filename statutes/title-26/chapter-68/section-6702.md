@@ -3,9 +3,10 @@ title: "Section 6702 - Frivolous tax submissions"
 usc_title: 26
 usc_section: "6702"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6702"
-generated_at: "2026-03-30T02:55:27.865Z"
+generated_at: "2026-11-23T20:26:46.724Z"
+status: "active"
 ---
 
 # § 6702. Frivolous tax submissions
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:55:27.865Z"
 - **(d)** The Secretary may reduce the amount of any penalty imposed under this section if the Secretary determines that such reduction would promote compliance with and administration of the Federal tax laws.
 - **(e)** The penalties imposed by this section shall be in addition to any other penalty provided by law.
 - **(f)** An administrative adjustment request under section 6227 and a partnership adjustment tracking report under section 6226(b)(4)(A) shall be treated as a return for purposes of this section.
+
+## Source Credit
+
+*(Added [Pub. L. 97–248, title III, § 326(a)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 617](https://www.govinfo.gov/link/statute/96/617); amended [Pub. L. 109–432, div. A, title IV, § 407(a)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 2960](https://www.govinfo.gov/link/statute/120/2960); [Pub. L. 115–141, div. U, title II, § 206(n)(4)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1182](https://www.govinfo.gov/link/statute/132/1182).)*

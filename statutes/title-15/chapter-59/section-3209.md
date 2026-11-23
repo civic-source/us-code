@@ -3,9 +3,10 @@ title: "Section 3209 - Reports respecting standards"
 usc_title: 15
 usc_section: "3209"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 3209"
-generated_at: "2026-03-30T02:54:08.188Z"
+generated_at: "2026-11-23T20:26:04.278Z"
+status: "active"
 ---
 
 # § 3209. Reports respecting standards
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:08.188Z"
   - **(1)** a summary of the reports submitted under subsection (a),
   - **(2)** his analysis of such reports, and
   - **(3)** his actions under this chapter, and his recommendations for such further Federal actions, including any legislation, regarding retail gas utility rates (and other practices) as may be necessary to carry out the purposes of this chapter.
+
+## Source Credit
+
+*([Pub. L. 95–617, title III, § 309](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3153](https://www.govinfo.gov/link/statute/92/3153).)*

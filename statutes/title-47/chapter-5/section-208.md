@@ -3,9 +3,10 @@ title: "Section 208 - Complaints to Commission; investigations; duration of inve
 usc_title: 47
 usc_section: "208"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 208"
-generated_at: "2026-03-30T02:56:24.494Z"
+generated_at: "2026-11-23T20:27:28.826Z"
+status: "active"
 ---
 
 # § 208. Complaints to Commission; investigations; duration of investigation; appeal of order concluding investigation
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:24.494Z"
   - **(1)** Except as provided in paragraph (2), the Commission shall, with respect to any investigation under this section of the lawfulness of a charge, classification, regulation, or practice, issue an order concluding such investigation within 5 months after the date on which the complaint was filed.
   - **(2)** The Commission shall, with respect to any such investigation initiated prior to November 3, 1988 , issue an order concluding the investigation not later than 12 months after November 3, 1988 .
   - **(3)** Any order concluding an investigation under paragraph (1) or (2) shall be a final order and may be appealed under section 402(a) of this title .
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title II, § 208, [48 Stat. 1073](https://www.govinfo.gov/link/statute/48/1073); [Pub. L. 100–594, § 8(c)](https://www.govinfo.gov/link/plaw/100/public/594), Nov. 3, 1988, [102 Stat. 3023](https://www.govinfo.gov/link/statute/102/3023); [Pub. L. 104–104, title IV, § 402(b)(1)(B)](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 129](https://www.govinfo.gov/link/statute/110/129).)*

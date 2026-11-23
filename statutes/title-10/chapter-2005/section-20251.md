@@ -3,9 +3,10 @@ title: "Section 20251 - Failure of selection for promotion"
 usc_title: 10
 usc_section: "20251"
 chapter: 2005
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 20251"
-generated_at: "2026-03-30T02:53:38.281Z"
+generated_at: "2026-11-23T20:25:52.511Z"
+status: "active"
 ---
 
 # § 20251. Failure of selection for promotion
@@ -18,3 +19,15 @@ generated_at: "2026-03-30T02:53:38.281Z"
 - **(d)** In the administration of this chapter pursuant to subsection (a)—
   - **(1)** an officer on the Space Force officer list shall not be deemed to have failed twice of selection for promotion for purposes of section 629(e)(2) or 14501(b) of this title until the officer has failed selection of promotion to the next higher grade the maximum number of times specified for opportunities for promotion to such grade within the competitive category concerned under section 20234 of this title ; and
   - **(2)** any reference in section 631(a) or 632(a) of this title, or in sections 14504 through 14506 of this title, to an officer who has failed of selection for promotion to the next higher grade for the second time shall be deemed to refer instead to an officer on the Space Force officer list who has failed of selection for promotion to the next higher grade for the maximum number of times specified for opportunities for promotion to such grade within the competitive category concerned under section 20234 of this title .
+
+In General
+
+Inapplicability of Failure of Selection for Promotion to Officers Above Promotion Zone
+
+Retirement Authorities
+
+Effect of Failure of Selection
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title XVII, § 1716(c)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 649](https://www.govinfo.gov/link/statute/137/649); amended [Pub. L. 118–159, div. A, title V, § 521(u)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1883](https://www.govinfo.gov/link/statute/138/1883); [Pub. L. 119–60, div. A, title XVII, § 1701(a)(43)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1210](https://www.govinfo.gov/link/statute/139/1210).)*

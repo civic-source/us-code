@@ -3,9 +3,10 @@ title: "Section 2878 - Conveyance or lease of existing property and facilities"
 usc_title: 10
 usc_section: "2878"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2878"
-generated_at: "2026-03-30T02:53:38.181Z"
+generated_at: "2026-11-23T20:25:51.750Z"
+status: "active"
 ---
 
 # § 2878. Conveyance or lease of existing property and facilities
@@ -40,3 +41,19 @@ generated_at: "2026-03-30T02:53:38.181Z"
       - **(iii)** A report on maintenance response times and completion of maintenance requests for the housing units subject to the ground lease.
       - **(iv)** The occupancy rates and debt-to-net operating income ratios of any other military privatized housing initiative projects managed by a company that controls, or that is under common control with, the ground lessee entering into the lease extension.
     - **(E)** An assessment of compliance by the lessor with the Military Housing Privatization Initiative Tenant Bill of Rights developed under section 2890 of this title .
+
+Conveyance or Lease Authorized
+
+Inapplicability to Property at Installation Approved for Closure
+
+Competitive Process
+
+Terms and Conditions
+
+Inapplicability of Certain Property Management Laws
+
+Notice of Lease Extensions
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 547](https://www.govinfo.gov/link/statute/110/547); amended [Pub. L. 105–85, div. A, title X, § 1073(a)(60)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1903](https://www.govinfo.gov/link/statute/111/1903); [Pub. L. 106–65, div. B, title XXVIII, § 2803(g)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 849](https://www.govinfo.gov/link/statute/113/849); [Pub. L. 107–107, div. A, title X, § 1048(d)(1)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1227](https://www.govinfo.gov/link/statute/115/1227); [Pub. L. 107–217, § 3(b)(23)](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1297](https://www.govinfo.gov/link/statute/116/1297); [Pub. L. 110–417, div. B, title XXVIII, § 2805(d)](https://www.govinfo.gov/link/plaw/110/public/417), Oct. 14, 2008, [122 Stat. 4723](https://www.govinfo.gov/link/statute/122/4723); [Pub. L. 111–350, § 5(b)(50)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3846](https://www.govinfo.gov/link/statute/124/3846); [Pub. L. 117–263, div. B, title XXVIII, § 2822](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3000](https://www.govinfo.gov/link/statute/136/3000); [Pub. L. 118–31, div. A, title XVIII, § 1801(a)(24)](https://www.govinfo.gov/link/plaw/118/public/31), div. B, title XXVIII, § 2822(a), Dec. 22, 2023, [137 Stat. 684](https://www.govinfo.gov/link/statute/137/684), 751.)*

@@ -3,9 +3,10 @@ title: "Section 1095a - Medical care: members held as captives and their depende
 usc_title: 10
 usc_section: "1095a"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1095a"
-generated_at: "2026-03-30T02:53:38.107Z"
+generated_at: "2026-11-23T20:25:51.237Z"
+status: "active"
 ---
 
 # § 1095a. Medical care: members held as captives and their dependents
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:38.107Z"
 - **(c)** In this section:
   - **(1)** The terms “captive status” and “former captive” have the meanings given those terms in section 559 of title 37 .
   - **(2)** The term “dependent” has the meaning given that term in section 551 of that title.
+
+## Source Credit
+
+*(Added [Pub. L. 99–399, title VIII, § 806(c)(1)](https://www.govinfo.gov/link/plaw/99/public/399), Aug. 27, 1986, [100 Stat. 886](https://www.govinfo.gov/link/statute/100/886), § 1095; renumbered § 1095a, [Pub. L. 100–26, § 7(e)(2)](https://www.govinfo.gov/link/plaw/100/public/26), Apr. 21, 1987, [101 Stat. 281](https://www.govinfo.gov/link/statute/101/281); amended [Pub. L. 100–526, title I, § 106(b)(1)](https://www.govinfo.gov/link/plaw/100/public/526), Oct. 24, 1988, [102 Stat. 2625](https://www.govinfo.gov/link/statute/102/2625).)*

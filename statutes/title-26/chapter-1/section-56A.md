@@ -3,9 +3,10 @@ title: "Section 56A - Adjusted financial statement income"
 usc_title: 26
 usc_section: "56A"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 56A"
-generated_at: "2026-03-30T02:55:27.614Z"
+generated_at: "2026-11-23T20:26:45.282Z"
+status: "active"
 ---
 
 # § 56A. Adjusted financial statement income
@@ -77,3 +78,7 @@ generated_at: "2026-03-30T02:55:27.614Z"
   - **(2)** A financial statement net operating loss for any taxable year shall be a financial statement net operating loss carryover to each taxable year following the taxable year of the loss. The portion of such loss which shall be carried to subsequent taxable years shall be the amount of such loss remaining (if any) after the application of paragraph (1).
   - **(3)** For purposes of this subsection, the term “financial statement net operating loss” means the amount of the net loss (if any) set forth on the corporation’s applicable financial statement (determined after application of subsection (c) and without regard to this subsection) for taxable years ending after December 31, 2019 .
 - **(e)** The Secretary shall provide for such regulations and other guidance as necessary to carry out the purposes of this section, including regulations and other guidance relating to the effect of the rules of this section on partnerships with income taken into account by an applicable corporation.
+
+## Source Credit
+
+*(Added [Pub. L. 117–169, title I, § 10101(b)(1)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 1822](https://www.govinfo.gov/link/statute/136/1822); amended [Pub. L. 119–21, title VII, § 70523(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 281](https://www.govinfo.gov/link/statute/139/281).)*

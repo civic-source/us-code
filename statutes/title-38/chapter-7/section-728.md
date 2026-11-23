@@ -3,9 +3,10 @@ title: "Section 728 - Misuse of Department purchase cards"
 usc_title: 38
 usc_section: "728"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 728"
-generated_at: "2026-03-30T02:55:53.475Z"
+generated_at: "2026-11-23T20:27:01.583Z"
+status: "active"
 ---
 
 # § 728. Misuse of Department purchase cards
@@ -19,3 +20,11 @@ generated_at: "2026-03-30T02:55:53.475Z"
   - **(3)** purchasing any unauthorized item;
   - **(4)** using a purchase card without being an authorized purchase card holder; or
   - **(5)** violating ethics standards.
+
+In General
+
+Misuse
+
+## Source Credit
+
+*(Added [Pub. L. 115–407, title V, § 501(a)](https://www.govinfo.gov/link/plaw/115/public/407), Dec. 31, 2018, [132 Stat. 5376](https://www.govinfo.gov/link/statute/132/5376).)*

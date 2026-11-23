@@ -3,9 +3,10 @@ title: "Section 7911 - Definitions"
 usc_title: 42
 usc_section: "7911"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7911"
-generated_at: "2026-03-30T02:56:11.331Z"
+generated_at: "2026-11-23T20:27:22.984Z"
+status: "active"
 ---
 
 # § 7911. Definitions
@@ -30,3 +31,7 @@ For purposes of this subchapter—
   - **(8)** The term “tailings” means the remaining portion of a metal-bearing ore after some or all of such metal, such as uranium, has been extracted.
   - **(9)** The term “Federal agency” includes any executive agency as defined in section 105 of title 5 .
   - **(10)** The term “United States” means the 48 contiguous States and Alaska, Hawaii, Puerto Rico, the District of Columbia, and the territories and possessions of the United States.
+
+## Source Credit
+
+*([Pub. L. 95–604, title I, § 101](https://www.govinfo.gov/link/plaw/95/public/604), Nov. 8, 1978, [92 Stat. 3022](https://www.govinfo.gov/link/statute/92/3022).)*

@@ -3,9 +3,10 @@ title: "Section 3717 - Interest and penalty on claims"
 usc_title: 31
 usc_section: "3717"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 3717"
-generated_at: "2026-03-30T02:55:34.059Z"
+generated_at: "2026-11-23T20:26:51.805Z"
+status: "active"
 ---
 
 # § 3717. Interest and penalty on claims
@@ -33,3 +34,49 @@ generated_at: "2026-03-30T02:55:34.059Z"
   - **(2)** For the purpose of this subsection—
     - **(A)** the term “cost of living adjustment” means the percentage by which the Consumer Price Index for the month of June of the calendar year preceding the adjustment exceeds the Consumer Price Index for the month of June of the calendar year in which the claim was determined or last adjusted; and
     - **(B)** the term “administrative claim” includes all debt that is not based on an extension of Government credit through direct loans, loan guarantees, or insurance, including fines, penalties, and overpayments.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3717(a) | 31 App.:952(e)(1) (1st–3d sentences). | July 19, 1966 , Pub. L. 89–508 , 80 Stat. 308 , § 3(e)(1) (1st–3d sentences), (2)–(7); added Oct. 25, 1982 , Pub. L. 97–365, § 11 , 96 Stat. 1755 . |
+| 3717(b), (c) | 31 App.:952(e)(5). |  |
+| 3717(d) | 31 App.:952(e)(6). |  |
+| 3717(e) | 31 App.:952(e)(2). |  |
+| 3717(f) | 31 App.:952(e)(7). |  |
+| 3717(g)(1) | 31 App.:952(e)(3) (1st sentence). |  |
+| 3717(g)(2) | 31 App.:952(e)(4). |  |
+| 3717(h) | 31 App.:952(e)(3) (2d, last sentences). |  |
+
+
+Historical and Revision Notes
+
+3717(a)
+
+July 19, 1966
+
+Pub. L. 89–508
+
+80 Stat. 308
+
+Oct. 25, 1982
+
+Pub. L. 97–365, § 11
+
+96 Stat. 1755
+
+3717(b), (c)
+
+3717(d)
+
+3717(e)
+
+3717(f)
+
+3717(g)(1)
+
+3717(g)(2)
+
+3717(h)
+
+## Source Credit
+
+*(Added Pub L. 97–452, § 1(16)(A), Jan. 12, 1983, [96 Stat. 2472](https://www.govinfo.gov/link/statute/96/2472); amended [Pub. L. 104–134, title III, § 31001(c)(1)](https://www.govinfo.gov/link/plaw/104/public/134), (g)(1)(C), (q), Apr. 26, 1996, [110 Stat. 1321–359](https://www.govinfo.gov/link/statute/110/1321), 1321–363, 1321–372.)*

@@ -3,9 +3,10 @@ title: "Section 5196f - Disaster related information services"
 usc_title: 42
 usc_section: "5196f"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5196f"
-generated_at: "2026-03-30T02:56:11.227Z"
+generated_at: "2026-11-23T20:27:22.508Z"
+status: "active"
 ---
 
 # § 5196f. Disaster related information services
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.227Z"
     - **(B)** individuals with disabilities or other special needs; and
   - **(3)** develop and maintain an informational clearinghouse of model language assistance programs and best practices for State and local governments in providing services related to a major disaster or emergency.
 - **(b)** For purposes of subsection (a), the Administrator of Federal 1 Emergency Management Agency shall define the size of a population group.
+
+## Source Credit
+
+*([Pub. L. 93–288, title VI, § 616](https://www.govinfo.gov/link/plaw/93/public/288), as added [Pub. L. 109–295, title VI, § 689e](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1452](https://www.govinfo.gov/link/statute/120/1452); amended [Pub. L. 111–351, § 3(c)(2)](https://www.govinfo.gov/link/plaw/111/public/351), Jan. 4, 2011, [124 Stat. 3864](https://www.govinfo.gov/link/statute/124/3864).)*

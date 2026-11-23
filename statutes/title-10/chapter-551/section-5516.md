@@ -3,9 +3,10 @@ title: "Section 5516 - Prohibition on privatized or subscription-based missile d
 usc_title: 10
 usc_section: "5516"
 chapter: 551
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 5516"
-generated_at: "2026-03-30T02:53:38.217Z"
+generated_at: "2026-11-23T20:25:52.002Z"
+status: "active"
 ---
 
 # § 5516. Prohibition on privatized or subscription-based missile defense intercept capabilities
@@ -22,3 +23,15 @@ generated_at: "2026-03-30T02:53:38.217Z"
   - **(1)** The term “kinetic missile defense activities” means any action intended to physically intercept, neutralize, or destroy a missile, projectile, aircraft, or other airborne threat, including those using kinetic interceptors or directed energy.
   - **(2)** The term “kinetic missile defense capabilities” means any system or platform that is designed to be able to carry out kinetic missile defense activities.
   - **(3)** The term “subscription-based service” means any arrangement in which a private entity provides ongoing or recurring operational access to missile defense capabilities in exchange for periodic payment.
+
+Prohibition
+
+Inherently Governmental Function
+
+Rule of Construction
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. A, title XVI, § 1654](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1195](https://www.govinfo.gov/link/statute/139/1195).)*

@@ -3,9 +3,10 @@ title: "Section 2109 - Publication of annual reports"
 usc_title: 21
 usc_section: "2109"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 2109"
-generated_at: "2026-03-30T02:54:54.308Z"
+generated_at: "2026-11-23T20:26:27.903Z"
+status: "active"
 ---
 
 # § 2109. Publication of annual reports
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:54.308Z"
   - **(4)** a description of whether certain commodities are being improperly imported as another commodity, including a description of additional steps that are being planned to prevent such smuggling.
 - **(b)** Annual reports under subsection (a) for fiscal years 2004 through 2006 may be combined into a single report, by not later than June 1, 2008 , for purposes of publication under subsection (a). Thereafter such reports shall be completed by June 1 of each year for the data collected for the year that was 2-years prior to the year in which the report is published.
 - **(c)** The Commissioner of Food and Drugs, the Administrator of the Food Safety and Inspection Service, the Department of Commerce, and the head of the Agricultural Marketing Service shall enter into a memorandum of understanding to permit inclusion of data in the reports under subsection (a) relating to testing carried out by the Food Safety and Inspection Service and the Agricultural Marketing Service on meat, poultry, eggs, and certain raw agricultural products, respectively.
+
+## Source Credit
+
+*([Pub. L. 110–85, title X, § 1010](https://www.govinfo.gov/link/plaw/110/public/85), Sept. 27, 2007, [121 Stat. 970](https://www.govinfo.gov/link/statute/121/970).)*

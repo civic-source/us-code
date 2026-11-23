@@ -3,9 +3,10 @@ title: "Section 719 - Reduction of benefits of employees convicted of certain cr
 usc_title: 38
 usc_section: "719"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 719"
-generated_at: "2026-03-30T02:55:53.475Z"
+generated_at: "2026-11-23T20:27:01.581Z"
+status: "active"
 ---
 
 # § 719. Reduction of benefits of employees convicted of certain crimes
@@ -40,3 +41,19 @@ generated_at: "2026-03-30T02:55:53.475Z"
   - **(1)** The term “covered service” means, with respect to an individual subject to a removal for performance or misconduct under section 719 or 7461 of this title or any other provision of law, the period of service beginning on the date that the Secretary determines under such applicable provision that the individual engaged in activity that gave rise to such action and ending on the date that the individual is removed from or leaves a position of employment at the Department prior to the issuance of a final decision with respect to such action.
   - **(2)** The term “lump-sum credit” has the meaning given such term in section 8331(8) or section 8401(19) of title 5 , as the case may be.
   - **(3)** The term “service” has the meaning given such term in section 8331(12) or section 8401(26) of title 5 , as the case may be.
+
+Reduction of Annuity for Removed Employee
+
+Reduction of Annuity for Retired Employee
+
+Administrative Requirements
+
+Lump-Sum Annuity Credit
+
+Spouse or Children Exception
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 115–41, title II, § 203(a)(1)](https://www.govinfo.gov/link/plaw/115/public/41), June 23, 2017, [131 Stat. 873](https://www.govinfo.gov/link/statute/131/873); amended [Pub. L. 118–192, § 2(b)](https://www.govinfo.gov/link/plaw/118/public/192), Dec. 23, 2024, [138 Stat. 2661](https://www.govinfo.gov/link/statute/138/2661).)*

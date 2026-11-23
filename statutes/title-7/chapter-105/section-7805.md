@@ -3,9 +3,10 @@ title: "Section 7805 - Referenda"
 usc_title: 7
 usc_section: "7805"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7805"
-generated_at: "2026-03-30T02:53:42.464Z"
+generated_at: "2026-11-23T20:25:41.846Z"
+status: "active"
 ---
 
 # § 7805. Referenda
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:42.464Z"
 - **(e)** If, as a result of a referendum conducted under subsection (d), the Secretary determines that suspension or termination of the order is favored by a simple majority of all votes cast in the referendum, the Secretary shall—
   - **(1)** not later than 180 days after the referendum, suspend or terminate, as appropriate, collection of assessments under the order; and
   - **(2)** suspend or terminate, as appropriate, activities under the order as soon as practicable and in an orderly manner.
+
+## Source Credit
+
+*([Pub. L. 106–387, § 1(a) [title XII, § 1206]](https://www.govinfo.gov/link/plaw/106/public/387), Oct. 28, 2000, [114 Stat. 1549](https://www.govinfo.gov/link/statute/114/1549), 1549A–91.)*

@@ -3,9 +3,10 @@ title: "Section 1140i - Authorization of appropriations and reservation"
 usc_title: 20
 usc_section: "1140i"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1140i"
-generated_at: "2026-03-30T02:54:48.148Z"
+generated_at: "2026-11-23T20:26:14.573Z"
+status: "active"
 ---
 
 # § 1140i. Authorization of appropriations and reservation
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:48.148Z"
 - **(b)** For any fiscal year for which appropriations are made for this subpart, the Secretary shall reserve funds to enter into a cooperative agreement to establish the coordinating center under section 1140q(b) of this title , in an amount that is—
   - **(1)** not less than $240,000 for any year in which the amount appropriated to carry out this subpart is $8,000,000 or less; or
   - **(2)** equal to 3 percent of the amount appropriated to carry out this subpart for any year in which such amount appropriated is greater than $8,000,000.
+
+## Source Credit
+
+*([Pub. L. 89–329, title VII, § 769](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title VII, § 709(2)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3367](https://www.govinfo.gov/link/statute/122/3367).)*

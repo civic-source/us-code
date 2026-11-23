@@ -3,9 +3,10 @@ title: "Section 4353 - Audit"
 usc_title: 20
 usc_section: "4353"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 4353"
-generated_at: "2026-03-30T02:54:48.183Z"
+generated_at: "2026-11-23T20:26:14.759Z"
+status: "active"
 ---
 
 # § 4353. Audit
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:54:48.183Z"
       - **(vii)** Travel.
       - **(viii)** Royalties and other costs for uses of patents.
     - **(C)** The Secretary is not authorized to add items to those specified in subparagraph (B).
+
+## Source Credit
+
+*([Pub. L. 99–371, title II, § 203](https://www.govinfo.gov/link/plaw/99/public/371), formerly title IV, § 403, Aug. 4, 1986, [100 Stat. 790](https://www.govinfo.gov/link/statute/100/790); renumbered title II, § 203, and amended [Pub. L. 102–421, title I](https://www.govinfo.gov/link/plaw/102/public/421), §§ 101(b)(5), (6), 133, Oct. 16, 1992, [106 Stat. 2151](https://www.govinfo.gov/link/statute/106/2151), 2156; [Pub. L. 103–73, title II](https://www.govinfo.gov/link/plaw/103/public/73), §§ 202, 204(b), Aug. 11, 1993, [107 Stat. 732](https://www.govinfo.gov/link/statute/107/732), 734; [Pub. L. 105–244, title IX, § 916](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1830](https://www.govinfo.gov/link/statute/112/1830); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 110–315, title IX, § 905](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3452](https://www.govinfo.gov/link/statute/122/3452); [Pub. L. 111–39, title VIII, § 802(b)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1957](https://www.govinfo.gov/link/statute/123/1957).)*

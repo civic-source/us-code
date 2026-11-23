@@ -3,12 +3,17 @@ title: "Section 1393 - Allotment of appropriations"
 usc_title: 7
 usc_section: "1393"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1393"
-generated_at: "2026-03-30T02:53:42.310Z"
+generated_at: "2026-11-23T20:25:41.145Z"
+status: "active"
 ---
 
 # § 1393. Allotment of appropriations
 
 All funds for carrying out the provisions of this chapter shall be available for allotment to bureaus and offices of the Department, and for transfer to such other agencies of the Federal Government, and to such State agencies, as the Secretary may request to cooperate or assist in carrying out the provisions of this chapter.
 
+
+## Source Credit
+
+*(Feb. 16, 1938, ch. 30, title III, § 393, [52 Stat. 70](https://www.govinfo.gov/link/statute/52/70).)*

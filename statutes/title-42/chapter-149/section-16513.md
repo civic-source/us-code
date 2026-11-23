@@ -3,9 +3,10 @@ title: "Section 16513 - Eligible projects"
 usc_title: 42
 usc_section: "16513"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16513"
-generated_at: "2026-03-30T02:56:11.488Z"
+generated_at: "2026-11-23T20:27:23.693Z"
+status: "active"
 ---
 
 # § 16513. Eligible projects
@@ -61,3 +62,7 @@ generated_at: "2026-03-30T02:56:11.488Z"
   - **(4)** total particulate emissions in the flue gas from the project that do not exceed 0.01 lb/MMBtu.
 - **(e)** A project that receives tax credits for clean coal technology shall not be disqualified from receiving a guarantee under this subchapter.
 - **(f)** Notwithstanding subsection (a)(2), the Secretary may, if regional variation significantly affects the deployment of a technology, make guarantees under this subchapter for up to 6 projects that employ the same or similar technology as another project, provided no more than 2 projects that use the same or a similar technology are located in the same region of the United States.
+
+## Source Credit
+
+*([Pub. L. 109–58, title XVII, § 1703](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 1120](https://www.govinfo.gov/link/statute/119/1120); [Pub. L. 109–168, § 1(b)(1)](https://www.govinfo.gov/link/plaw/109/public/168), Jan. 10, 2006, [119 Stat. 3580](https://www.govinfo.gov/link/statute/119/3580); [Pub. L. 110–140, title I, § 134(b)](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1513](https://www.govinfo.gov/link/statute/121/1513); [Pub. L. 116–260, div. Z, title IX, § 9010(b)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2605](https://www.govinfo.gov/link/statute/134/2605); [Pub. L. 117–58, div. D, title IV, § 40401(a)(2)(A)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1034](https://www.govinfo.gov/link/statute/135/1034).)*

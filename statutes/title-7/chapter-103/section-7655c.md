@@ -3,9 +3,10 @@ title: "Section 7655c - Clarification of research and development program for wo
 usc_title: 7
 usc_section: "7655c"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7655c"
-generated_at: "2026-03-30T02:53:42.460Z"
+generated_at: "2026-11-23T20:25:41.824Z"
+status: "active"
 ---
 
 # § 7655c. Clarification of research and development program for wood building construction
@@ -22,3 +23,17 @@ generated_at: "2026-03-30T02:53:42.460Z"
   - **(5)** analyzing the potential implications of the use of innovative wood products in building construction on wildlife; and
   - **(6)** 1 or more other research areas identified by the Secretary, in consultation with conservation organizations, institutions of higher education, and the wood products industry.
 - **(d)** To the maximum extent practicable, the measurable performance goals for the research and development, education, and technical assistance conducted under subsection (a) shall be achievable within a 5-year timeframe.
+
+“In this part [part III (§§ 8641–8644) of subtitle F of title VIII of Pub. L. 115–334 , enacting this section and section 7655d of this title and amending section 8113 of this title ]:
+
+Innovative wood product
+
+Mass timber
+
+Secretary
+
+Tall wood building
+
+## Source Credit
+
+*([Pub. L. 115–334, title VIII, § 8642](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4871](https://www.govinfo.gov/link/statute/132/4871).)*

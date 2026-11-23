@@ -3,9 +3,10 @@ title: "Section 15872 - Assessment of geothermal energy potential"
 usc_title: 42
 usc_section: "15872"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 15872"
-generated_at: "2026-03-30T02:56:11.461Z"
+generated_at: "2026-11-23T20:27:23.575Z"
+status: "active"
 ---
 
 # § 15872. Assessment of geothermal energy potential
@@ -14,3 +15,7 @@ Not later than 3 years after August 8, 2005 , and thereafter as the availability
 
   - **(1)** update the Assessment of Geothermal Resources made during 1978; and
   - **(2)** submit to Congress the updated assessment.
+
+## Source Credit
+
+*([Pub. L. 109–58, title II, § 226](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 665](https://www.govinfo.gov/link/statute/119/665).)*

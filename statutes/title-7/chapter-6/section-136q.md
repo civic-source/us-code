@@ -3,9 +3,10 @@ title: "Section 136q - Storage, disposal, transportation, and recall"
 usc_title: 7
 usc_section: "136q"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 136q"
-generated_at: "2026-03-30T02:53:42.262Z"
+generated_at: "2026-11-23T20:25:40.930Z"
+status: "active"
 ---
 
 # § 136q. Storage, disposal, transportation, and recall
@@ -83,3 +84,7 @@ generated_at: "2026-03-30T02:53:42.262Z"
 - **(h)**
   - **(1)** Nothing in this section shall diminish the authorities or requirements of the Solid Waste Disposal Act ( 42 U.S.C. 6901 et seq.).
   - **(2)** A household, industrial, or institutional antimicrobial product that is not subject to regulation under the Solid Waste Disposal Act ( 42 U.S.C. 6901 et seq.) shall not be subject to the provisions of subsections (a), (e), and (f), unless the Administrator determines that such product must be subject to such provisions to prevent an unreasonable adverse effect on the environment.
+
+## Source Credit
+
+*(June 25, 1947, ch. 125, § 19, as added [Pub. L. 92–516, § 2](https://www.govinfo.gov/link/plaw/92/public/516), Oct. 21, 1972, [86 Stat. 995](https://www.govinfo.gov/link/statute/86/995); amended [Pub. L. 95–396, § 19](https://www.govinfo.gov/link/plaw/95/public/396), Sept. 30, 1978, [92 Stat. 833](https://www.govinfo.gov/link/statute/92/833); [Pub. L. 100–532, title IV](https://www.govinfo.gov/link/plaw/100/public/532), §§ 401–403, title VIII, § 801(q)(1)(D), Oct. 25, 1988, [102 Stat. 2669](https://www.govinfo.gov/link/statute/102/2669), 2672, 2683; [Pub. L. 104–170, title II, § 225](https://www.govinfo.gov/link/plaw/104/public/170), Aug. 3, 1996, [110 Stat. 1507](https://www.govinfo.gov/link/statute/110/1507); [Pub. L. 110–234, title XIV, § 14209(b)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1463](https://www.govinfo.gov/link/statute/122/1463); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIV, § 14209(b), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2225.)*

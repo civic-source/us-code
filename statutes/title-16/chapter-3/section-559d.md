@@ -3,9 +3,10 @@ title: "Section 559d - Cooperation with other Federal, State, and local law enfo
 usc_title: 16
 usc_section: "559d"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 559d"
-generated_at: "2026-03-30T02:54:22.876Z"
+generated_at: "2026-11-23T20:26:20.150Z"
+status: "active"
 ---
 
 # § 559d. Cooperation with other Federal, State, and local law enforcement agencies
@@ -17,3 +18,7 @@ For the purposes of sections 559b to 559f of this title, in exercising the autho
   - **(3)** the Forest Service shall cooperate with the Attorney General in carrying out the seizure and forfeiture provisions of section 511 of the Controlled Substances Act ( 21 U.S.C. 881 ) for violations of the Controlled Substances Act [ 21 U.S.C. 801 et seq.] relating to offenses committed within the National Forest System, or which affect the administration of the National Forest System;
   - **(4)** the Secretary is authorized to designate law enforcement officers of any other Federal agency, when the Secretary determines such designation to be economical and in the public interest, and with the concurrence of that agency, to exercise the powers and authorities of the Forest Service while assisting the Forest Service in the National Forest System, or for activities administered by the Forest Service; and
   - **(5)** the Forest Service is authorized to accept law enforcement designation from any other Federal agency or agency of a State or political subdivision thereof for the purpose of cooperating in a multi-agency law enforcement task force investigation of violations of the Controlled Substances Act [ 21 U.S.C. 801 et seq.] and other offenses committed in the course of or in connection with such violations.
+
+## Source Credit
+
+*([Pub. L. 99–570, title XV, § 15004](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–191](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 100–690, title VI, § 6254(c)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4364](https://www.govinfo.gov/link/statute/102/4364).)*

@@ -3,9 +3,10 @@ title: "Section 579 - Arbitration proceedings"
 usc_title: 5
 usc_section: "579"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 579"
-generated_at: "2026-03-30T02:52:55.990Z"
+generated_at: "2026-11-23T20:25:31.728Z"
+status: "active"
 ---
 
 # § 579. Arbitration proceedings
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:52:55.990Z"
 - **(e)** The arbitrator shall make the award within 30 days after the close of the hearing, or the date of the filing of any briefs authorized by the arbitrator, whichever date is later, unless—
   - **(1)** the parties agree to some other time limit; or
   - **(2)** the agency provides by rule for some other time limit.
+
+## Source Credit
+
+*(Added [Pub. L. 101–552, § 4(b)](https://www.govinfo.gov/link/plaw/101/public/552), Nov. 15, 1990, [104 Stat. 2742](https://www.govinfo.gov/link/statute/104/2742), § 589; renumbered § 579, [Pub. L. 102–354, § 3(b)(2)](https://www.govinfo.gov/link/plaw/102/public/354), Aug. 26, 1992, [106 Stat. 944](https://www.govinfo.gov/link/statute/106/944).)*

@@ -3,9 +3,10 @@ title: "Section 1303 - Definitions"
 usc_title: 45
 usc_section: "1303"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 1303"
-generated_at: "2026-03-30T02:55:56.561Z"
+generated_at: "2026-11-23T20:27:05.342Z"
+status: "active"
 ---
 
 # § 1303. Definitions
@@ -31,3 +32,7 @@ For the purposes of this chapter—
   - **(13)** the term “sale date” means the date on which the initial public offering is closed;
   - **(14)** the term “subsidiary” means any corporation more than 50 percent of whose outstanding voting securities are directly or indirectly owned by the Corporation; and
   - **(15)** the term “United States share” means a share of common stock of the Corporation held by the United States Government on October 21, 1986 , or as a result of any split required pursuant to section 1312(d) of this title .
+
+## Source Credit
+
+*([Pub. L. 99–509, title IV, § 4004](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1894](https://www.govinfo.gov/link/statute/100/1894).)*

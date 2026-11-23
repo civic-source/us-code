@@ -3,9 +3,10 @@ title: "Section 50112 - Promotion of United States Global Positioning System sta
 usc_title: 51
 usc_section: "50112"
 chapter: 501
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 50112"
-generated_at: "2026-03-30T02:56:28.707Z"
+generated_at: "2026-11-23T20:27:37.491Z"
+status: "active"
 ---
 
 # § 50112. Promotion of United States Global Positioning System standards
@@ -19,3 +20,24 @@ In order to support and sustain the Global Positioning System in a manner that w
   - **(3)** provide clear direction and adequate resources to the Assistant Secretary of Commerce for Communications and Information so that on an international basis the Assistant Secretary can—
     - **(A)** achieve and sustain efficient management of the electromagnetic spectrum used by the Global Positioning System; and
     - **(B)** protect that spectrum from disruption and interference.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 50112 | 42 U.S.C. 14712(b) . | Pub. L. 105–303, title I, § 104(b) , Oct. 28, 1998 , 112 Stat. 2852 . |
+
+
+Historical and Revision Notes
+
+50112
+
+42 U.S.C. 14712(b)
+
+Pub. L. 105–303, title I, § 104(b)
+
+Oct. 28, 1998
+
+112 Stat. 2852
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3397](https://www.govinfo.gov/link/statute/124/3397).)*

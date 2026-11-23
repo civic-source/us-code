@@ -3,9 +3,10 @@ title: "Section 7301 - National Construction Safety Teams"
 usc_title: 15
 usc_section: "7301"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 7301"
-generated_at: "2026-03-30T02:54:08.221Z"
+generated_at: "2026-11-23T20:26:04.447Z"
+status: "active"
 ---
 
 # § 7301. National Construction Safety Teams
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:08.221Z"
     - **(J)** providing for coordination with Federal, State, and local entities that may sponsor research or investigations of building failures, including research conducted under the Earthquake Hazards Reduction Act of 1977 [ 42 U.S.C. 7701 et seq.]; and
     - **(K)** regarding such other issues as the Director considers appropriate.
   - **(2)** The Director shall publish promptly in the Federal Register final procedures, and subsequent updates thereof, developed under paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 107–231, § 2](https://www.govinfo.gov/link/plaw/107/public/231), Oct. 1, 2002, [116 Stat. 1471](https://www.govinfo.gov/link/statute/116/1471); [Pub. L. 107–305, § 15](https://www.govinfo.gov/link/plaw/107/public/305), Nov. 27, 2002, [116 Stat. 2381](https://www.govinfo.gov/link/statute/116/2381).)*

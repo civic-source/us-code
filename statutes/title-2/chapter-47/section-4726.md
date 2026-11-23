@@ -3,9 +3,10 @@ title: "Section 4726 - Guidelines relating to restrictions on registered lobbyis
 usc_title: 2
 usc_section: "4726"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 4726"
-generated_at: "2026-03-30T02:53:04.834Z"
+generated_at: "2026-11-23T20:25:29.051Z"
+status: "active"
 ---
 
 # § 4726. Guidelines relating to restrictions on registered lobbyist participation in travel and disclosure
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:04.834Z"
   - **(2)** In developing and revising guidelines under paragraph (1)(A), the committee shall take into account the maximum per diem rates for official Federal Government travel published annually by the General Services Administration, the Department of State, and the Department of Defense.
   - **(3)** For purposes of this section, travel on a flight described in paragraph 1(c)(1)(C)(ii) of rule XXXV of the Standing Rules of the Senate shall not be considered to be a reasonable expense.
   - **(4)** The deadline for the initial guidelines required by paragraph (1) may be extended for 30 days by the Committee on Rules and Administration.
+
+## Source Credit
+
+*([Pub. L. 110–81, title V, § 544(b)](https://www.govinfo.gov/link/plaw/110/public/81), Sept. 14, 2007, [121 Stat. 769](https://www.govinfo.gov/link/statute/121/769).)*

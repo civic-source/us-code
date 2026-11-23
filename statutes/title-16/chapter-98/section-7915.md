@@ -3,9 +3,10 @@ title: "Section 7915 - Identifying opportunities for recreation, hunting, and fi
 usc_title: 16
 usc_section: "7915"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 7915"
-generated_at: "2026-03-30T02:54:23.079Z"
+generated_at: "2026-11-23T20:26:20.862Z"
+status: "active"
 ---
 
 # § 7915. Identifying opportunities for recreation, hunting, and fishing on Federal land
@@ -56,3 +57,7 @@ generated_at: "2026-03-30T02:54:23.079Z"
 - **(g)**
   - **(1)** This section shall have no effect on whether a particular recreational use shall be allowed on the land included in a priority list under this section.
   - **(2)** In preparing the priority list under subsection (b), the Secretary shall only consider recreational uses that are allowed on the land at the time that the priority list is prepared.
+
+## Source Credit
+
+*([Pub. L. 116–9, title IV, § 4105](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 759](https://www.govinfo.gov/link/statute/133/759).)*

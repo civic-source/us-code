@@ -3,9 +3,10 @@ title: "Section 1382j - Attribution of sponsor’s income and resources to alien
 usc_title: 42
 usc_section: "1382j"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1382j"
-generated_at: "2026-03-30T02:56:10.930Z"
+generated_at: "2026-11-23T20:27:21.068Z"
+status: "active"
 ---
 
 # § 1382j. Attribution of sponsor’s income and resources to aliens
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:10.930Z"
     - **(B)** admitted to the United States as a result of the application, after March 31, 1980 , of the provisions of section 1157(c)(1) of title 8 ;
     - **(C)** paroled into the United States as a refugee under section 1182(d)(5) of title 8 ; or
     - **(D)** granted political asylum by the Attorney General.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVI, § 1621, as added [Pub. L. 96–265, title V, § 504(b)](https://www.govinfo.gov/link/plaw/96/public/265), June 9, 1980, [94 Stat. 471](https://www.govinfo.gov/link/statute/94/471); amended [Pub. L. 98–369, div. B, title VI](https://www.govinfo.gov/link/plaw/98/public/369), §§ 2611(d), 2663(g)(10), July 18, 1984, [98 Stat. 1131](https://www.govinfo.gov/link/statute/98/1131), 1169; [Pub. L. 103–152, § 7(a)(1)](https://www.govinfo.gov/link/plaw/103/public/152), (b)(1), Nov. 24, 1993, [107 Stat. 1519](https://www.govinfo.gov/link/statute/107/1519); [Pub. L. 103–296, title I, § 107(a)(4)](https://www.govinfo.gov/link/plaw/103/public/296), Aug. 15, 1994, [108 Stat. 1478](https://www.govinfo.gov/link/statute/108/1478).)*

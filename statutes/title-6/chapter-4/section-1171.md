@@ -3,9 +3,10 @@ title: "Section 1171 - International railroad security program"
 usc_title: 6
 usc_section: "1171"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 1171"
-generated_at: "2026-03-30T02:53:09.508Z"
+generated_at: "2026-11-23T20:25:34.941Z"
+status: "active"
 ---
 
 # § 1171. International railroad security program
@@ -28,3 +29,9 @@ generated_at: "2026-03-30T02:53:09.508Z"
   - **(1)** The term “international supply chain” means the end-to-end process for shipping goods to or from the United States, beginning at the point of origin (including manufacturer, supplier, or vendor) through a point of distribution to the destination.
   - **(2)** The term “radiation detection equipment” means any technology that is capable of detecting or identifying nuclear and radiological material or nuclear and radiological explosive devices.
   - **(3)** The term “inspection” means the comprehensive process used by Customs and Border Protection to assess goods entering the United States to appraise them for duty purposes, to detect the presence of restricted or prohibited items, and to ensure compliance with all applicable laws.
+
+System requirements
+
+## Source Credit
+
+*([Pub. L. 110–53, title XV, § 1524](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 451](https://www.govinfo.gov/link/statute/121/451).)*

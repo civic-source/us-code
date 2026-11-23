@@ -3,12 +3,17 @@ title: "Section 390d - Dams and reservoirs wherein costs thereof, or rights ther
 usc_title: 43
 usc_section: "390d"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 390d"
-generated_at: "2026-03-30T02:55:57.442Z"
+generated_at: "2026-11-23T20:27:06.189Z"
+status: "active"
 ---
 
 # § 390d. Dams and reservoirs wherein costs thereof, or rights thereto, have been acquired by local interests
 
 Sections 390c to 390f of this title are applicable to all dams and reservoirs heretofore or hereafter constructed by the United States Government (acting through the Corps of Engineers of the United States Army) wherein either a part of the construction cost thereof shall have been contributed or may be contributed by States or local interests (hereinafter called “local interests”) or local interests have acquired or may acquire rights to utilize certain storage space thereof by making payments during the period of such use as specified in the agreement with the Government and wherein the amount of money paid, exclusive of interest, is equivalent to the cost of providing that part of such dam and reservoir which is allocated to such use, whether such share of cost shall have been determined by the “incremental cost” method or by the “separable costs-remaining benefits” method or by any other method. Included among the dams and reservoirs affected by sections 390c to 390f of this title are those constructed by the Corps of Engineers of the Department of the Army, but nothing in sections 390c to 390f of this title shall be construed to affect or modify section 390 of this title .
 
+
+## Source Credit
+
+*([Pub. L. 88–140, § 2](https://www.govinfo.gov/link/plaw/88/public/140), Oct. 16, 1963, [77 Stat. 249](https://www.govinfo.gov/link/statute/77/249).)*

@@ -3,9 +3,10 @@ title: "Section 12651g - Administration"
 usc_title: 42
 usc_section: "12651g"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12651g"
-generated_at: "2026-03-30T02:56:11.424Z"
+generated_at: "2026-11-23T20:27:23.409Z"
+status: "active"
 ---
 
 # § 12651g. Administration
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:11.424Z"
     - **(D)** Upon completion of the use by the Corporation of any property accepted pursuant to subparagraph (A) (other than money or monetary proceeds from sales of property so accepted), such completion shall be reported to the General Services Administration and such property shall be disposed of in accordance with title II of the Federal Property and Administrative Services Act of 1949. 1 1 See References in Text note below.
 - **(b)** Subject to chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, the Corporation may enter into contracts, and cooperative and interagency agreements, with Federal and State agencies, private firms, institutions, and individuals to conduct activities necessary to assist the Corporation in carrying out the duties of the Corporation under the national service laws.
 - **(c)** Appropriate circulars of the Office of Management and Budget shall apply to the Corporation.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 196](https://www.govinfo.gov/link/plaw/101/public/610), as added [Pub. L. 103–82, title II](https://www.govinfo.gov/link/plaw/103/public/82), §§ 202(a), 203(a)(1)(B), Sept. 21, 1993, [107 Stat. 885](https://www.govinfo.gov/link/statute/107/885), 891; amended [Pub. L. 111–13, title I, § 1707](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1548](https://www.govinfo.gov/link/statute/123/1548).)*

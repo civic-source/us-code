@@ -3,12 +3,17 @@ title: "Section 406 - Compelling furnishing of facilities; mandamus; jurisdictio
 usc_title: 47
 usc_section: "406"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 406"
-generated_at: "2026-03-30T02:56:24.516Z"
+generated_at: "2026-11-23T20:27:28.913Z"
+status: "active"
 ---
 
 # § 406. Compelling furnishing of facilities; mandamus; jurisdiction
 
 The district courts of the United States shall have jurisdiction upon the relation of any person alleging any violation, by a carrier subject to this chapter, of any of the provisions of this chapter which prevent the relator from receiving service in interstate or foreign communication by wire or radio, or in interstate or foreign transmission of energy by radio, from said carrier at the same charges, or upon terms or conditions as favorable as those given by said carrier for like communication or transmission under similar conditions to any other person, to issue a writ or writs of mandamus against said carrier commanding such carrier to furnish facilities for such communication or transmission to the party applying for the writ: Provided , That if any question of fact as to the proper compensation to the carrier for the service to be enforced by the writ is raised by the pleadings, the writ of peremptory mandamus may issue, notwithstanding such question of fact is undetermined, upon such terms as to security, payment of money into the court, or otherwise, as the court may think proper pending the determination of the question of fact: Provided further , That the remedy given by writ of mandamus shall be cumulative and shall not be held to exclude or interfere with other remedies provided by this chapter.
 
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title IV, § 406, [48 Stat. 1095](https://www.govinfo.gov/link/statute/48/1095).)*

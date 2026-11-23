@@ -3,9 +3,10 @@ title: "Section 2645 - Utility regulatory institute"
 usc_title: 16
 usc_section: "2645"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 2645"
-generated_at: "2026-03-30T02:54:23.006Z"
+generated_at: "2026-11-23T20:26:20.617Z"
+status: "active"
 ---
 
 # § 2645. Utility regulatory institute
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:23.006Z"
   - **(1)** all information gathered by the institute is available to the Secretary, the Commission, and the public, and
   - **(2)** no portion of any such grant is used to support or oppose any legislative proposal except by means of testimony by representatives of the institute provided by invitation to a committee of Congress or of a State legislature.
 - **(d)** There is authorized to be appropriated not more than $2,000,000 for each of the fiscal years 1979 and 1980 for purposes of making grants under this section. No amounts may be appropriated for any fiscal year after the fiscal year 1980 to carry out the purposes of this section without a specific authorization of Congress.
+
+## Source Credit
+
+*([Pub. L. 95–617, title VI, § 603](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3165](https://www.govinfo.gov/link/statute/92/3165).)*

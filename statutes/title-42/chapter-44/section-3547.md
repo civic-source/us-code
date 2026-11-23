@@ -3,9 +3,10 @@ title: "Section 3547 - Special projects"
 usc_title: 42
 usc_section: "3547"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3547"
-generated_at: "2026-03-30T02:56:11.190Z"
+generated_at: "2026-11-23T20:27:22.298Z"
+status: "active"
 ---
 
 # § 3547. Special projects
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.190Z"
       - **(i)** consents to assume the status of a responsible Federal official under the National Environmental Policy Act of 1969 [ 42 U.S.C. 4321 et seq.] and each provision of law specified in regulations issued by the Secretary insofar as the provisions of such Act or other such provision of law apply pursuant to paragraph (1); and
       - **(ii)** is authorized and consents on behalf of the State or unit of general local government and himself or herself to accept the jurisdiction of the Federal courts for the purpose of enforcement of the responsibilities as such an official.
   - **(4)** In cases in which a unit of general local government carries out the responsibilities described in paragraph (1), the Secretary may permit the State to perform those actions of the Secretary described in paragraph (2) and the performance of such actions by the State, where permitted by the Secretary, shall be deemed to satisfy the Secretary’s responsibilities referred to in the second sentence of paragraph (2).
+
+## Source Credit
+
+*([Pub. L. 103–233, title III, § 305(c)](https://www.govinfo.gov/link/plaw/103/public/233), Apr. 11, 1994, [108 Stat. 372](https://www.govinfo.gov/link/statute/108/372).)*

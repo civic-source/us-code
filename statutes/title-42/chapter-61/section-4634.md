@@ -3,9 +3,10 @@ title: "Section 4634 - Agency coordination"
 usc_title: 42
 usc_section: "4634"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4634"
-generated_at: "2026-03-30T02:56:11.207Z"
+generated_at: "2026-11-23T20:27:22.403Z"
+status: "active"
 ---
 
 # § 4634. Agency coordination
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.207Z"
 - **(c)**
   - **(1)** For the fiscal year that begins 1 year after July 6, 2012 , and each fiscal year thereafter, each Federal agency responsible for funding relocation and acquisition activities (other than the agency serving as the lead agency) shall transfer to the lead agency for the fiscal year, such funds as are necessary, but not less than $35,000, to support the training, assistance, and coordination activities of the lead agency described in subsection (b).
   - **(2)** The cost to a Federal agency of providing the funds described in paragraph (1) shall be included as part of the cost of 1 or more programs or projects undertaken by the Federal agency or with Federal financial assistance that result in the displacement of persons or the acquisition of real property.
+
+## Source Credit
+
+*([Pub. L. 91–646, title II, § 214](https://www.govinfo.gov/link/plaw/91/public/646), as added [Pub. L. 112–141, div. A, title I, § 1521(e)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 578](https://www.govinfo.gov/link/statute/126/578).)*

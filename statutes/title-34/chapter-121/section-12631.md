@@ -3,9 +3,10 @@ title: "Section 12631 - Creation of Violent Crime Reduction Trust Fund"
 usc_title: 34
 usc_section: "12631"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12631"
-generated_at: "2026-03-30T02:55:33.292Z"
+generated_at: "2026-11-23T20:26:50.571Z"
+status: "active"
 ---
 
 # § 12631. Creation of Violent Crime Reduction Trust Fund
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:33.292Z"
 - **(c)**
   - **(1)** Amounts in the Fund may be appropriated exclusively for the purposes authorized in this Act and for those expenses authorized by any Act enacted before this Act that are expressly qualified for expenditure from the Fund.
   - **(2)** Amounts appropriated under paragraph (1) and outlays flowing from such appropriations shall not be taken into account for purposes of any budget enforcement procedures under the Balanced Budget and Emergency Deficit Control Act of 1985 except section 251A 1 1 See References in Text note below. of that Act as added by subsection (g), or for purposes of section 665d(b) 1 of title 2. Amounts of new budget authority and outlays under paragraph (1) that are included in concurrent resolutions on the budget shall not be taken into account for purposes of sections 665(b), 665e(b), and 665e(c) of title 2, 1 or for purposes of section 24 of House Concurrent Resolution 218 (One Hundred Third Congress).
+
+## Source Credit
+
+*([Pub. L. 103–322, title XXXI, § 310001(a)](https://www.govinfo.gov/link/plaw/103/public/322) –(c), Sept. 13, 1994, [108 Stat. 2102](https://www.govinfo.gov/link/statute/108/2102), 2103.)*

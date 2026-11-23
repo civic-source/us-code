@@ -3,9 +3,10 @@ title: "Section 1825 - Use of information"
 usc_title: 50
 usc_section: "1825"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 1825"
-generated_at: "2026-03-30T02:56:26.209Z"
+generated_at: "2026-11-23T20:27:30.779Z"
+status: "active"
 ---
 
 # § 1825. Use of information
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:56:26.209Z"
     - **(B)** sabotage, international terrorism, or the international proliferation of weapons of mass destruction by a foreign power or an agent of a foreign power; or
     - **(C)** clandestine intelligence activities by an intelligence service or network of a foreign power or by an agent of a foreign power.
   - **(2)** Coordination authorized under paragraph (1) shall not preclude the certification required by section 1823(a)(6) of this title or the entry of an order under section 1824 of this title .
+
+## Source Credit
+
+*([Pub. L. 95–511, title III, § 305](https://www.govinfo.gov/link/plaw/95/public/511), as added [Pub. L. 103–359, title VIII, § 807(a)(3)](https://www.govinfo.gov/link/plaw/103/public/359), Oct. 14, 1994, [108 Stat. 3449](https://www.govinfo.gov/link/statute/108/3449); amended [Pub. L. 107–56, title V, § 504(b)](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 364](https://www.govinfo.gov/link/statute/115/364); [Pub. L. 107–296, title VIII, § 899](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2258](https://www.govinfo.gov/link/statute/116/2258); [Pub. L. 110–261, title I](https://www.govinfo.gov/link/plaw/110/public/261), §§ 107(c)(2), 110(b)(2), July 10, 2008, [122 Stat. 2464](https://www.govinfo.gov/link/statute/122/2464), 2466; [Pub. L. 117–347, title III, § 323(a)(1)(A)](https://www.govinfo.gov/link/plaw/117/public/347), Jan. 5, 2023, [136 Stat. 6206](https://www.govinfo.gov/link/statute/136/6206).)*

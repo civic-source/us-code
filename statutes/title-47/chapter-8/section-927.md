@@ -3,9 +3,10 @@ title: "Section 927 - Existing allocation and transfer authority retained"
 usc_title: 47
 usc_section: "927"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 927"
-generated_at: "2026-03-30T02:56:24.528Z"
+generated_at: "2026-11-23T20:27:28.974Z"
+status: "active"
 ---
 
 # § 927. Existing allocation and transfer authority retained
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:24.528Z"
 - **(b)** Notwithstanding any other provision of this subchapter—
   - **(1)** the Secretary may, consistent with section 903(e) of this title , at any time allow frequencies allocated on a primary basis for Federal Government use to be used by non-Federal licensees on a mixed-use basis for the purpose of facilitating the prompt implementation of new technologies or services and for other purposes; and
   - **(2)** the Commission shall make any allocation and licensing decisions with respect to such frequencies in a timely manner and in no event later than the date required by section 157 of this title .
+
+## Source Credit
+
+*([Pub. L. 102–538, title I, § 117](https://www.govinfo.gov/link/plaw/102/public/538), as added [Pub. L. 103–66, title VI, § 6001(a)(3)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 386](https://www.govinfo.gov/link/statute/107/386).)*

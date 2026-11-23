@@ -3,9 +3,10 @@ title: "Section 2703 - Manner of assistance and repayment"
 usc_title: 12
 usc_section: "2703"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 2703"
-generated_at: "2026-03-30T02:53:53.487Z"
+generated_at: "2026-11-23T20:25:59.305Z"
+status: "active"
 ---
 
 # § 2703. Manner of assistance and repayment
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:53.487Z"
 - **(c)** Monthly payments may be provided under this chapter either with the proceeds of an insured loan or advance of credit or with emergency mortgage relief payments for up to twelve months, and, in accordance with criteria prescribed by the Secretary, such monthly payments may be extended once for up to twelve additional months. A mortgagor receiving the benefit of mortgage relief assistance pursuant to this chapter shall be required, in accordance with criteria prescribed by the Secretary, to report any increase in income which will permit a reduction or termination of such assistance during this period.
 - **(d)** Emergency loans or advances of credit made and insured under section 2704 of this title , and emergency mortgage relief payments made under section 2705 of this title , shall be repayable by the homeowner upon such terms and conditions as the Secretary shall prescribe, except that (1) the rate of interest on any loan or advance of credit insured under this chapter shall be fixed for the life of the loan or advance of credit and shall not exceed the rate of interest that is generally charged for mortgages on single-family housing insured by the Secretary of Housing and Urban Development under title II of the National Housing Act [ 12 U.S.C. 1707 et seq.] at the time such loan or advance of credit is made, and (2) no interest shall be charged on interest which is deferred on a loan or advance of credit made under this chapter. In establishing rates, terms and conditions for loans or advances of credit made under this chapter, the Secretary shall take into account a homeowner’s ability to repay such loan or advance of credit.
 - **(e)** The Secretary may provide for the deferral of the commencement of the repayment of a loan or advance insured under section 2704 of this title or emergency mortgage relief payments made under section 2705 of this title until one year following the date of the last disbursement of the proceeds of the loan or advance or payments or for such longer period as the Secretary determines would further the purpose of this chapter. Any eligible homeowner who receives a grant or an advance of credit under this chapter may repay the loan in full, without penalty, by lump sum or by installment payments at any time before the loan becomes due and payable. The Secretary shall by regulation require such security for the repayment of insured loans or advances of credit or emergency mortgage relief payments as he deems appropriate and may require that such repayment be secured by a lien on the mortgaged property.
+
+## Source Credit
+
+*([Pub. L. 94–50, title I, § 104](https://www.govinfo.gov/link/plaw/94/public/50), July 2, 1975, [89 Stat. 250](https://www.govinfo.gov/link/statute/89/250); [Pub. L. 111–203, title XIV, § 1496(b)(2)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2208](https://www.govinfo.gov/link/statute/124/2208).)*

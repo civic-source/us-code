@@ -3,9 +3,10 @@ title: "Section 9874 - Use of allotments"
 usc_title: 42
 usc_section: "9874"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9874"
-generated_at: "2026-03-30T02:56:11.376Z"
+generated_at: "2026-11-23T20:27:23.184Z"
+status: "active"
 ---
 
 # § 9874. Use of allotments
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:56:11.376Z"
   - **(2)** Not more than 10 percent of the allotment of each State under this subchapter may be available for the cost of administration.
 - **(f)** Projects supported under this section to plan, develop, establish, expand, operate, or improve a State or local resource and referral system or before or after school child care program shall not duplicate any services which are provided before October 30, 1984 , by the State or locality which will be served by such system.
 - **(g)** The Secretary may provide technical assistance to States in planning and carrying out activities under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 670D](https://www.govinfo.gov/link/plaw/97/public/35), as added [Pub. L. 98–558, title I, § 109](https://www.govinfo.gov/link/plaw/98/public/558), Oct. 30, 1984, [98 Stat. 2880](https://www.govinfo.gov/link/statute/98/2880); amended [Pub. L. 99–425, title III, § 302](https://www.govinfo.gov/link/plaw/99/public/425), Sept. 30, 1986, [100 Stat. 967](https://www.govinfo.gov/link/statute/100/967); [Pub. L. 101–501, title III](https://www.govinfo.gov/link/plaw/101/public/501), §§ 302, 303, 305(a), Nov. 3, 1990, [104 Stat. 1249](https://www.govinfo.gov/link/statute/104/1249), 1250.)*

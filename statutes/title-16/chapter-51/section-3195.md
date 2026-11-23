@@ -3,12 +3,29 @@ title: "Section 3195 - Cooperative information and education centers"
 usc_title: 16
 usc_section: "3195"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3195"
-generated_at: "2026-03-30T02:54:23.012Z"
+generated_at: "2026-11-23T20:26:20.642Z"
+status: "active"
 ---
 
 # § 3195. Cooperative information and education centers
 
 The Secretary is authorized in consultation with other Federal agencies, to investigate and plan for an information and education center for visitors to Alaska on not to exceed one thousand acres of Federal land at a site adjacent to the Alaska Highway, and to investigate and plan for similar centers in Anchorage and Fairbanks, Alaska. For the purposes of this investigation, the Secretary shall seek participation in the program planning and/or operation of such centers from appropriate agencies of the State of Alaska, and he is authorized to accept contributions of funds, personnel, and planning and program assistance from such State agencies, other Federal agencies, and Native representatives. The Secretary of Agriculture is authorized to investigate and plan for, in a similar manner, an information and education center for visitors to Alaska in either Juneau, Ketchikan, or Sitka, Alaska. No information center shall be developed pursuant to investigations and plans conducted under authority of this section unless and until such development is specifically authorized by Congress.
 
+
+Authorization
+
+Purposes
+
+Design
+
+Consultation
+
+Cooperative Agreements
+
+Development Plan
+
+## Source Credit
+
+*([Pub. L. 96–487, title XIII, § 1305](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2478](https://www.govinfo.gov/link/statute/94/2478).)*

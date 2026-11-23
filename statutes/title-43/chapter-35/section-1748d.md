@@ -3,9 +3,10 @@ title: "Section 1748d - Report on wildfire, insect infestation, and disease prev
 usc_title: 43
 usc_section: "1748d"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1748d"
-generated_at: "2026-03-30T02:55:57.491Z"
+generated_at: "2026-11-23T20:27:06.372Z"
+status: "active"
 ---
 
 # § 1748d. Report on wildfire, insect infestation, and disease prevention on Federal land
@@ -23,3 +24,7 @@ Not later than 180 days after December 20, 2018 , and every year thereafter, the
   - **(9)** the maintenance backlog, as of the date of the report, for roads, trails, and recreational facilities on Federal land;
   - **(10)** other measures needed to maintain, improve, or restore water quality on Federal land; and
   - **(11)** other measures needed to improve ecosystem function or resiliency on Federal land.
+
+## Source Credit
+
+*([Pub. L. 115–334, title VIII, § 8706](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4880](https://www.govinfo.gov/link/statute/132/4880).)*

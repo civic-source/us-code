@@ -3,9 +3,10 @@ title: "Section 406 - Postal services at Armed Forces installations"
 usc_title: 39
 usc_section: "406"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "39 U.S.C. § 406"
-generated_at: "2026-03-30T02:55:43.687Z"
+generated_at: "2026-11-23T20:26:57.707Z"
+status: "active"
 ---
 
 # § 406. Postal services at Armed Forces installations
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:43.687Z"
       - **(i)** in the best interests of the Department of Defense; and
       - **(ii)** otherwise authorized by applicable host nation law or agreement.
   - **(2)** No funds may be obligated or expended to establish, maintain, or expand a post office established under subsection (a) for the purpose of use described in paragraph (1) of this subsection.
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 724](https://www.govinfo.gov/link/statute/84/724); [Pub. L. 116–92, div. A, title X, § 1056](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1593](https://www.govinfo.gov/link/statute/133/1593); [Pub. L. 118–31, div. A, title XVIII, § 1806(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 688](https://www.govinfo.gov/link/statute/137/688).)*

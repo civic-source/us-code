@@ -3,9 +3,10 @@ title: "Section 3232 - Recommendations of President to Congress"
 usc_title: 16
 usc_section: "3232"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3232"
-generated_at: "2026-03-30T02:54:23.014Z"
+generated_at: "2026-11-23T20:26:20.647Z"
+status: "active"
 ---
 
 # § 3232. Recommendations of President to Congress
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:23.014Z"
 - **(e)** For purposes of this section—
   - **(1)** continuity of session of Congress is broken only by an adjournment sine die; and
   - **(2)** the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of the one-hundred-and-twenty-day calendar period.
+
+## Source Credit
+
+*([Pub. L. 96–487, title XV, § 1502](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2549](https://www.govinfo.gov/link/statute/94/2549).)*

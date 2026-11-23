@@ -3,9 +3,10 @@ title: "Section 1011 - Mess operation: reimbursement of expenses"
 usc_title: 37
 usc_section: "1011"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "37 U.S.C. § 1011"
-generated_at: "2026-03-30T02:55:44.061Z"
+generated_at: "2026-11-23T20:26:57.444Z"
+status: "active"
 ---
 
 # § 1011. Mess operation: reimbursement of expenses
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:44.061Z"
 - **(b)** For the purposes of this section, payment for meals at the rates established under this section may be made in cash or, in the case of enlisted members or civilian employees, by deduction from pay. Members of organized nonprofit youth groups sponsored at either the national or local level, when extended the privilege of visiting a military installation or when residing at a military installation pursuant to an agreement in effect on June 30, 1986 , and permitted to eat in the general mess by the commanding officer of the installation, shall pay the commuted ration cost of such meal or meals.
 - **(c)** Spouses and dependent children of enlisted members in pay grades E–1, E–2, E–3, and E–4 may not be charged for meals sold at messes in excess of a level sufficient to cover food costs.
 - **(d)** When the Coast Guard is not operating as a service in the Navy, the Secretary of Homeland Security shall establish rates for meals sold at Coast Guard dining facilities, provide for reimbursement of operating expenses and food costs to the appropriations concerned, and reduce the rates for such meals when the Secretary determines that it is in the best interest of the United States to do so.
+
+## Source Credit
+
+*(Added [Pub. L. 96–513, title IV, § 413](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2906](https://www.govinfo.gov/link/statute/94/2906); amended [Pub. L. 99–145, title VIII, § 810(a)](https://www.govinfo.gov/link/plaw/99/public/145), Nov. 8, 1985, [99 Stat. 681](https://www.govinfo.gov/link/statute/99/681); [Pub. L. 99–661, div. A, title VI, § 655](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 3891](https://www.govinfo.gov/link/statute/100/3891); [Pub. L. 101–189, div. A, title III, § 321](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1413](https://www.govinfo.gov/link/statute/103/1413); [Pub. L. 104–324, title II, § 214(a)](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3915](https://www.govinfo.gov/link/statute/110/3915); [Pub. L. 107–296, title XVII, § 1704(c)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314).)*

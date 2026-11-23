@@ -3,9 +3,10 @@ title: "Section 78y - Court review of orders and rules"
 usc_title: 15
 usc_section: "78y"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 78y"
-generated_at: "2026-03-30T02:54:08.059Z"
+generated_at: "2026-11-23T20:26:03.561Z"
+status: "active"
 ---
 
 # § 78y. Court review of orders and rules
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:08.059Z"
 - **(d)**
   - **(1)** For purposes of the preceding subsections of this section, the term “Commission” includes the agencies enumerated in section 78c(a)(34) of this title insofar as such agencies are acting pursuant to this chapter and the Secretary of the Treasury insofar as he is acting pursuant to section 78 o –5 of this title.
   - **(2)** For purposes of subsection (a)(4) of this section and section 706 of title 5 , an order of the Commission pursuant to section 78s(a) of this title denying registration to a clearing agency for which the Commission is not the appropriate regulatory agency or pursuant to section 78s(b) of this title disapproving a proposed rule change by such a clearing agency shall be deemed to be an order of the appropriate regulatory agency for such clearing agency insofar as such order was entered by reason of a determination by such appropriate regulatory agency pursuant to section 78s(a)(2)(C) or 78s(b)(4)(C) of this title that such registration or proposed rule change would be inconsistent with the safeguarding of securities or funds.
+
+## Source Credit
+
+*(June 6, 1934, ch. 404, title I, § 25, [48 Stat. 901](https://www.govinfo.gov/link/statute/48/901); June 7, 1934, ch. 426, [48 Stat. 926](https://www.govinfo.gov/link/statute/48/926); June 25, 1948, ch. 646, § 32(a), [62 Stat. 991](https://www.govinfo.gov/link/statute/62/991); May 24, 1949, ch. 139, § 127, [63 Stat. 107](https://www.govinfo.gov/link/statute/63/107); [Pub. L. 85–791, § 10](https://www.govinfo.gov/link/plaw/85/public/791), Aug. 28, 1958, [72 Stat. 945](https://www.govinfo.gov/link/statute/72/945); [Pub. L. 94–29, § 20](https://www.govinfo.gov/link/plaw/94/public/29), June 4, 1975, [89 Stat. 158](https://www.govinfo.gov/link/statute/89/158); [Pub. L. 99–571, title I, § 102(k)](https://www.govinfo.gov/link/plaw/99/public/571), Oct. 28, 1986, [100 Stat. 3220](https://www.govinfo.gov/link/statute/100/3220); [Pub. L. 101–432, § 6(b)](https://www.govinfo.gov/link/plaw/101/public/432), Oct. 16, 1990, [104 Stat. 975](https://www.govinfo.gov/link/statute/104/975).)*

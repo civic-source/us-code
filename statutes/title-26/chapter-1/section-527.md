@@ -3,9 +3,10 @@ title: "Section 527 - Political organizations"
 usc_title: 26
 usc_section: "527"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 527"
-generated_at: "2026-03-30T02:55:27.714Z"
+generated_at: "2026-11-23T20:26:45.804Z"
+status: "active"
 ---
 
 # § 527. Political organizations
@@ -141,3 +142,49 @@ generated_at: "2026-03-30T02:55:27.714Z"
 - **(l)** The Secretary may waive all or any portion of the—
   - **(1)** tax assessed on an organization by reason of the failure of the organization to comply with the requirements of subsection (i), or
   - **(2)** amount imposed under subsection (j) for a failure to comply with the requirements thereof,
+
+In general
+
+Transitional relief.—
+
+Small organizations.—
+
+In general
+
+Small organization
+
+Organizations filing form 990–t
+
+Subsections
+
+and
+
+Subsection
+
+Subsections
+
+and
+
+Subsections
+
+and
+
+Subsection
+
+In general
+
+Transition rule
+
+In general
+
+Organizations already in existence
+
+Information availability
+
+In General
+
+Information
+
+## Source Credit
+
+*(Added [Pub. L. 93–625, § 10(a)](https://www.govinfo.gov/link/plaw/93/public/625), Jan. 3, 1975, [88 Stat. 2116](https://www.govinfo.gov/link/statute/88/2116); amended [Pub. L. 94–455, title XIX, § 1901(b)(33)(C)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1801](https://www.govinfo.gov/link/statute/90/1801); [Pub. L. 95–502, title III, § 302(a)](https://www.govinfo.gov/link/plaw/95/public/502), Oct. 21, 1978, [92 Stat. 1702](https://www.govinfo.gov/link/statute/92/1702); [Pub. L. 95–600, title III, § 301(b)(6)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2821](https://www.govinfo.gov/link/statute/92/2821); [Pub. L. 97–34, title I, § 128(a)](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 203](https://www.govinfo.gov/link/statute/95/203); [Pub. L. 98–369, div. A, title IV, § 474(r)(16)](https://www.govinfo.gov/link/plaw/98/public/369), title VII, § 722(c), July 18, 1984, [98 Stat. 843](https://www.govinfo.gov/link/statute/98/843), 973; [Pub. L. 99–514, title I, § 112(b)(1)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2108](https://www.govinfo.gov/link/statute/100/2108); [Pub. L. 100–647, title I, § 1001(b)(3)(B)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3349](https://www.govinfo.gov/link/statute/102/3349); [Pub. L. 106–230](https://www.govinfo.gov/link/plaw/106/public/230), §§ 1(a), 2(a), July 1, 2000, [114 Stat. 477](https://www.govinfo.gov/link/statute/114/477), 479; [Pub. L. 107–276](https://www.govinfo.gov/link/plaw/107/public/276), §§ 1(a), 2(a), (b), 5(a), 6(a)–(c), (e)–(g), Nov. 2, 2002, [116 Stat. 1929](https://www.govinfo.gov/link/statute/116/1929), 1932–1934; [Pub. L. 113–295, div. A, title II, § 220](https://www.govinfo.gov/link/plaw/113/public/295) (l), Dec. 19, 2014, [128 Stat. 4036](https://www.govinfo.gov/link/statute/128/4036); [Pub. L. 115–97, title I, § 13001(b)(2)(D)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2096](https://www.govinfo.gov/link/statute/131/2096); [Pub. L. 116–25, title III, § 3101(b)(1)](https://www.govinfo.gov/link/plaw/116/public/25), July 1, 2019, [133 Stat. 1015](https://www.govinfo.gov/link/statute/133/1015).)*

@@ -3,9 +3,10 @@ title: "Section 719a - Junior Duck Stamp"
 usc_title: 16
 usc_section: "719a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 719a"
-generated_at: "2026-03-30T02:54:22.902Z"
+generated_at: "2026-11-23T20:26:20.253Z"
+status: "active"
 ---
 
 # § 719a. Junior Duck Stamp
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:22.902Z"
     - **(E)** expenses for licensing and marketing under subsection (b);
     - **(F)** expenses for migratory bird reference materials or supplies awarded to schools that participate in the Program; and
     - **(G)** expenses for marketing and educational materials developed to promote the Program; 2 2 So in original.
+
+## Source Credit
+
+*([Pub. L. 103–340, § 3](https://www.govinfo.gov/link/plaw/103/public/340), Oct. 6, 1994, [108 Stat. 3119](https://www.govinfo.gov/link/statute/108/3119); [Pub. L. 109–166, § 2](https://www.govinfo.gov/link/plaw/109/public/166), Jan. 10, 2006, [119 Stat. 3576](https://www.govinfo.gov/link/statute/119/3576).)*

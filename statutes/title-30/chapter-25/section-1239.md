@@ -3,9 +3,10 @@ title: "Section 1239 - Filling voids and sealing tunnels"
 usc_title: 30
 usc_section: "1239"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1239"
-generated_at: "2026-03-30T02:55:29.398Z"
+generated_at: "2026-11-23T20:26:35.005Z"
+status: "active"
 ---
 
 # § 1239. Filling voids and sealing tunnels
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:29.398Z"
   - **(3)** The Secretary shall not make any expenditures for the purposes of this section in those States which have made the certification referred to in section 1240a(a) of this title .
 - **(d)** In those instances where mine waste piles are being reworked for conservation purposes, the incremental costs of disposing of the wastes from such operations by filling voids and sealing tunnels may be eligible for funding providing that the disposal of these wastes meets the purposes of this section.
 - **(e)** The Secretary may acquire by purchase, donation, easement, or otherwise such interest in land as he determines necessary to carry out the provisions of this section.
+
+## Source Credit
+
+*([Pub. L. 95–87, title IV, § 409](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 465](https://www.govinfo.gov/link/statute/91/465); [Pub. L. 101–508, title VI, § 6009](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–296](https://www.govinfo.gov/link/statute/104/1388).)*

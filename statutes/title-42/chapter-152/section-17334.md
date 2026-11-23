@@ -3,9 +3,10 @@ title: "Section 17334 - Actions by United States International Development Finan
 usc_title: 42
 usc_section: "17334"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17334"
-generated_at: "2026-03-30T02:56:11.504Z"
+generated_at: "2026-11-23T20:27:23.750Z"
+status: "active"
 ---
 
 # § 17334. Actions by United States International Development Finance Corporation
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.504Z"
 - **(b)** The United States International Development Finance Corporation shall include in its annual report required under section 9653 of title 22 —
   - **(1)** a description of the activities carried out to implement this section; or
   - **(2)** if the Corporation did not carry out any activities to implement this section, an explanation of the reasons therefor.
+
+## Source Credit
+
+*([Pub. L. 110–140, title IX, § 914](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1727](https://www.govinfo.gov/link/statute/121/1727); [Pub. L. 115–254, div. F, title VI, § 1470(v)(1)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3519](https://www.govinfo.gov/link/statute/132/3519).)*

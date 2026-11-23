@@ -3,9 +3,10 @@ title: "Section 731 - General"
 usc_title: 31
 usc_section: "731"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 731"
-generated_at: "2026-03-30T02:55:34.047Z"
+generated_at: "2026-11-23T20:26:51.685Z"
+status: "active"
 ---
 
 # § 731. General
@@ -38,3 +39,122 @@ generated_at: "2026-03-30T02:55:34.047Z"
   - **(7)** chapter 21 of title 41.
 - **(j)** Funds appropriated to the Government Accountability Office for salaries and expenses are available for meals and other related reasonable expenses incurred in connection with recruitment.
 - **(k)** The activities of the Government Accountability Office may, in the reasonable discretion of the Comptroller General, be carried out by receiving details of personnel from other offices of the Federal Government on a reimbursable, partially-reimbursable, or nonreimbursable basis.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 731(a) | 31:44(1st sentence). | June 10, 1921, ch. 18, § 304 (1st par. 1st sentence), 42 Stat. 24 . |
+|  | 31:52(a), (b). | June 10, 1921, ch. 18, § 311(a) , (b), 42 Stat. 25 ; restated Feb. 15, 1980 , Pub. L. 96–191, § 8(e)(3) , 94 Stat. 33 . |
+|  | 31:52–1(related to appointment, pay, and assignment). | Feb. 15, 1980 , Pub. L. 96–191 , §§ 2(related to appointment, pay, and assignment), 5(b), 94 Stat. 27 , 32. |
+|  | 31:56. | Mar. 4, 1909, ch. 297, § 1 (proviso on p. 866), 35 Stat 866; May 29, 1920, ch. 214, § 1 (last par. under heading “Office of Comptroller of the Treasury”), 41 Stat. 647 . |
+| 731(b) | 31:52–4(b). |  |
+| 731(c) | 31:51a. | Aug. 14, 1964 , Pub. L. 88–426, § 203(c) (5th–14th words), 78 Stat. 415 ; Dec. 16, 1967 , Pub. L. 90–206, § 219(2) , 81 Stat. 639 ; restated Aug. 9, 1975 , Pub. L. 94–82, § 204(b) , 89 Stat. 421 . |
+| 731(d) | 31:52b. | Aug. 14, 1964 , Pub. L. 88–426 , 78 Stat. 400 , § 203(i); added Dec. 15, 1971 , Pub. L. 92–190 , 85 Stat. 646 . |
+| 731(e) | 31:52c. | Jan. 2, 1975 , Pub. L. 93–604, § 401 , 88 Stat. 1962 . |
+|  | 31:1154(d)(last sentence). | Oct. 26, 1970 , Pub. L. 91–510, § 204(d) (last sentence), 84 Stat. 1168 ; restated July 12, 1974 , Pub. L. 93–344, § 702(a) , 88 Stat. 326 . |
+
+
+Federal Government Details
+
+Historical and Revision Notes
+
+731(a)
+
+June 10, 1921, ch. 18, § 304
+
+42 Stat. 24
+
+June 10, 1921, ch. 18, § 311(a)
+
+42 Stat. 25
+
+Feb. 15, 1980
+
+Pub. L. 96–191, § 8(e)(3)
+
+94 Stat. 33
+
+Feb. 15, 1980
+
+Pub. L. 96–191
+
+94 Stat. 27
+
+Mar. 4, 1909, ch. 297, § 1
+
+May 29, 1920, ch. 214, § 1
+
+41 Stat. 647
+
+731(b)
+
+731(c)
+
+Aug. 14, 1964
+
+Pub. L. 88–426, § 203(c)
+
+78 Stat. 415
+
+Dec. 16, 1967
+
+Pub. L. 90–206, § 219(2)
+
+81 Stat. 639
+
+Aug. 9, 1975
+
+Pub. L. 94–82, § 204(b)
+
+89 Stat. 421
+
+731(d)
+
+Aug. 14, 1964
+
+Pub. L. 88–426
+
+78 Stat. 400
+
+Dec. 15, 1971
+
+Pub. L. 92–190
+
+85 Stat. 646
+
+731(e)
+
+Jan. 2, 1975
+
+Pub. L. 93–604, § 401
+
+88 Stat. 1962
+
+Oct. 26, 1970
+
+Pub. L. 91–510, § 204(d)
+
+84 Stat. 1168
+
+July 12, 1974
+
+Pub. L. 93–344, § 702(a)
+
+88 Stat. 326
+
+In General
+
+Pay Adjustments.—
+
+In general
+
+Interim authorities
+
+Additional authority.—
+
+In general
+
+Interim authorities
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 896](https://www.govinfo.gov/link/statute/96/896); [Pub. L. 98–326, § 1(a)](https://www.govinfo.gov/link/plaw/98/public/326), June 22, 1984, [98 Stat. 269](https://www.govinfo.gov/link/statute/98/269); [Pub. L. 98–615, title II, § 204(b)](https://www.govinfo.gov/link/plaw/98/public/615), Nov. 8, 1984, [98 Stat. 3216](https://www.govinfo.gov/link/statute/98/3216); [Pub. L. 103–89, § 3(b)(4)](https://www.govinfo.gov/link/plaw/103/public/89), Sept. 30, 1993, [107 Stat. 983](https://www.govinfo.gov/link/statute/107/983); [Pub. L. 106–303, § 5](https://www.govinfo.gov/link/plaw/106/public/303), Oct. 13, 2000, [114 Stat. 1069](https://www.govinfo.gov/link/statute/114/1069); [Pub. L. 108–271](https://www.govinfo.gov/link/plaw/108/public/271), §§ 5–7, 8(b), July 7, 2004, [118 Stat. 813](https://www.govinfo.gov/link/statute/118/813), 814; [Pub. L. 110–323, § 9(a)](https://www.govinfo.gov/link/plaw/110/public/323), Sept. 22, 2008, [122 Stat. 3548](https://www.govinfo.gov/link/statute/122/3548); [Pub. L. 111–350, § 5(h)(2)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3849](https://www.govinfo.gov/link/statute/124/3849); [Pub. L. 114–113, div. I, title I, § 1301(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2671](https://www.govinfo.gov/link/statute/129/2671); [Pub. L. 117–286, § 4(c)(35)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4358](https://www.govinfo.gov/link/statute/136/4358).)*

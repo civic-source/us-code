@@ -3,9 +3,10 @@ title: "Section 5104 - Assignment of load lines"
 usc_title: 46
 usc_section: "5104"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 5104"
-generated_at: "2026-03-30T02:56:15.549Z"
+generated_at: "2026-11-23T20:27:27.102Z"
+status: "active"
 ---
 
 # § 5104. Assignment of load lines
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:15.549Z"
 - **(c)** An existing vessel may retain its load lines assigned before January 1, 1986 , unless the Secretary decides that a substantial change in the vessel after those load lines were assigned requires that new load lines be assigned under this chapter.
 - **(d)** The minimum freeboard of an existing vessel may be reduced only if the vessel complies with every applicable provision of this chapter.
 - **(e)** The Secretary may designate by regulation specific geographic areas that have less severe weather or sea conditions and from which there is adequate time to return to available safe harbors. The Secretary may reduce the minimum freeboard of a vessel operating in these areas.
+
+## Source Credit
+
+*([Pub. L. 99–509, title V, § 5101(2)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1915](https://www.govinfo.gov/link/statute/100/1915).)*

@@ -3,9 +3,10 @@ title: "Section 12557 - Police Corps training"
 usc_title: 34
 usc_section: "12557"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12557"
-generated_at: "2026-03-30T02:55:33.291Z"
+generated_at: "2026-11-23T20:26:50.565Z"
+status: "active"
 ---
 
 # § 12557. Police Corps training
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:33.291Z"
 - **(d)** The training sessions at training centers established under this section shall be designed to provide basic law enforcement training, including vigorous physical and mental training to teach participants self-discipline and organizational loyalty and to impart knowledge and understanding of legal processes and law enforcement.
 - **(e)** A participant shall be evaluated during training for mental, physical, and emotional fitness, and shall be required to meet performance standards prescribed by the Director at the conclusion of each training session in order to remain in the Police Corps program.
 - **(f)** The Director shall pay participants in training sessions a stipend of $400 a week during training.
+
+## Source Credit
+
+*([Pub. L. 103–322, title XX, § 200108](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2054](https://www.govinfo.gov/link/statute/108/2054); [Pub. L. 105–277, div. C, title I, § 138(a)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–597](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 107–273, div. C, title I, § 11006(2)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1817](https://www.govinfo.gov/link/statute/116/1817).)*

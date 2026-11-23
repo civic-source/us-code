@@ -3,9 +3,10 @@ title: "Section 171a - Council on Oversight of the National Leadership Command, 
 usc_title: 10
 usc_section: "171a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 171a"
-generated_at: "2026-03-30T02:53:38.043Z"
+generated_at: "2026-11-23T20:25:50.850Z"
+status: "active"
 ---
 
 # § 171a. Council on Oversight of the National Leadership Command, Control, and Communications System
@@ -77,3 +78,35 @@ generated_at: "2026-03-30T02:53:38.043Z"
   - **(1)** The President.
   - **(2)** The Vice President.
   - **(3)** Such other civilian officials of the United States Government as the President shall designate for purposes of this section.
+
+Establishment
+
+Membership
+
+Co-Chair
+
+Responsibilities
+
+Annual Reports
+
+Collection of Assessments on Certain Threats
+
+Budget and Funding Matters
+
+Reports on Space Architecture Development
+
+Notification of Reduction of Certain Warning Time
+
+Status of Acquisition Programs
+
+National Leadership of the United States Defined
+
+Database
+
+Database elements
+
+Briefings
+
+## Source Credit
+
+*(Added [Pub. L. 113–66, div. A, title X, § 1052(a)(1)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 859](https://www.govinfo.gov/link/statute/127/859); amended [Pub. L. 114–92, div. A, title XVI, § 1651](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 1121](https://www.govinfo.gov/link/statute/129/1121); [Pub. L. 114–328, div. A, title XVI, § 1661](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2613](https://www.govinfo.gov/link/statute/130/2613); [Pub. L. 115–91, div. A, title X, § 1081(a)(13)](https://www.govinfo.gov/link/plaw/115/public/91), title XVI, § 1654(a)(1), Dec. 12, 2017, [131 Stat. 1595](https://www.govinfo.gov/link/statute/131/1595), 1758; [Pub. L. 116–92, div. A, title XVI, § 1661](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1772](https://www.govinfo.gov/link/statute/133/1772); [Pub. L. 116–283, div. A, title X, § 1081(a)(10)](https://www.govinfo.gov/link/plaw/116/public/283), title XVIII, § 1845(c)(2), Jan. 1, 2021, [134 Stat. 3871](https://www.govinfo.gov/link/statute/134/3871), 4247; [Pub. L. 117–81, div. A, title XVII](https://www.govinfo.gov/link/plaw/117/public/81), §§ 1701(b)(14), 1702(a)(1), Dec. 27, 2021, [135 Stat. 2134](https://www.govinfo.gov/link/statute/135/2134), 2155; [Pub. L. 117–263, div. A, title XVI](https://www.govinfo.gov/link/plaw/117/public/263), §§ 1636(c), 1672(a), Dec. 23, 2022, [136 Stat. 2940](https://www.govinfo.gov/link/statute/136/2940), 2959.)*

@@ -3,9 +3,10 @@ title: "Section 3165 - Standards for granting certain authorizations"
 usc_title: 16
 usc_section: "3165"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3165"
-generated_at: "2026-03-30T02:54:23.011Z"
+generated_at: "2026-11-23T20:26:20.637Z"
+status: "active"
 ---
 
 # § 3165. Standards for granting certain authorizations
@@ -14,3 +15,7 @@ In any case in which there is no applicable law with respect to a transportation
 
   - **(1)** such system would be compatible with the purposes for which the unit was established; and
   - **(2)** there is no economically feasible and prudent alternative route for the system.
+
+## Source Credit
+
+*([Pub. L. 96–487, title XI, § 1105](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2461](https://www.govinfo.gov/link/statute/94/2461).)*

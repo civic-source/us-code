@@ -3,12 +3,17 @@ title: "Section 464 - Increases of charges on failure to make water-right applic
 usc_title: 43
 usc_section: "464"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 464"
-generated_at: "2026-03-30T02:55:57.450Z"
+generated_at: "2026-11-23T20:27:06.216Z"
+status: "active"
 ---
 
 # § 464. Increases of charges on failure to make water-right application
 
 In all cases where application for water right for lands in private ownership or lands held under entries not subject to the reclamation law shall not be made within one year after August 13, 1914 , or within one year after notice issued in pursuance of section 419 of this title , in cases where such notice has not been issued prior to August 13, 1914 , the construction charges for such land shall be increased 5 per centum each year until such application is made and an initial installment is paid.
 
+
+## Source Credit
+
+*(Aug. 13, 1914, ch. 247, § 9, [38 Stat. 689](https://www.govinfo.gov/link/statute/38/689).)*

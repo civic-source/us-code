@@ -3,9 +3,10 @@ title: "Section 2254 - Examinations"
 usc_title: 12
 usc_section: "2254"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 2254"
-generated_at: "2026-03-30T02:53:53.476Z"
+generated_at: "2026-11-23T20:25:59.256Z"
+status: "active"
 ---
 
 # § 2254. Examinations
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:53.476Z"
     - **(A)** examine, or obtain other information on, the institution and furnish for the confidential use of the Farm Credit System Insurance Corporation the report of the examination and such other information; or
     - **(B)** if the Farm Credit Administration Board determines that compliance with the request would substantially impair the ability of the Farm Credit Administration to carry out the other duties and responsibilities of the Farm Credit Administration under this chapter, notify the Board of Directors of the Farm Credit System Insurance Corporation that the Farm Credit Administration will be unable to comply with the request.
 - **(e)** A System institution shall not be considered to have waived the confidentiality of a privileged communication with an attorney or an accountant if the System institution provides the content of the communication to the Farm Credit Administration pursuant to the supervisory or regulatory authorities of the Farm Credit Administration.
+
+## Source Credit
+
+*([Pub. L. 92–181, title V, § 5](https://www.govinfo.gov/link/plaw/92/public/181).19, formerly § 5.20, Dec. 10, 1971, [85 Stat. 623](https://www.govinfo.gov/link/statute/85/623); renumbered § 5.19 and amended [Pub. L. 99–205, title II, § 203(a)](https://www.govinfo.gov/link/plaw/99/public/205), Dec. 23, 1985, [99 Stat. 1693](https://www.govinfo.gov/link/statute/99/1693); [Pub. L. 99–509, title I, § 1037](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1878](https://www.govinfo.gov/link/statute/100/1878); [Pub. L. 100–233, title II, § 205(b)](https://www.govinfo.gov/link/plaw/100/public/233), title IV, § 432(b), Jan. 6, 1988, [101 Stat. 1607](https://www.govinfo.gov/link/statute/101/1607), 1661; [Pub. L. 100–399, title II, § 204](https://www.govinfo.gov/link/plaw/100/public/399), title IV, § 416(c), Aug. 17, 1988, [102 Stat. 993](https://www.govinfo.gov/link/statute/102/993), 1004; [Pub. L. 101–624, title XVIII, § 1843(b)](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3836](https://www.govinfo.gov/link/statute/104/3836); [Pub. L. 102–552, title V](https://www.govinfo.gov/link/plaw/102/public/552), §§ 512, 513(b), Oct. 28, 1992, [106 Stat. 4133](https://www.govinfo.gov/link/statute/106/4133), 4134; [Pub. L. 104–105, title II, § 213](https://www.govinfo.gov/link/plaw/104/public/105), Feb. 10, 1996, [110 Stat. 175](https://www.govinfo.gov/link/statute/110/175); [Pub. L. 115–334, title V](https://www.govinfo.gov/link/plaw/115/public/334), §§ 5404, 5411(31), Dec. 20, 2018, [132 Stat. 4676](https://www.govinfo.gov/link/statute/132/4676), 4682.)*

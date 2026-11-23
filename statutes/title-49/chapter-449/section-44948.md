@@ -3,9 +3,10 @@ title: "Section 44948 - National Deployment Office"
 usc_title: 49
 usc_section: "44948"
 chapter: 449
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44948"
-generated_at: "2026-03-30T02:56:19.395Z"
+generated_at: "2026-11-23T20:27:35.232Z"
+status: "active"
 ---
 
 # § 44948. National Deployment Office
@@ -21,3 +22,11 @@ generated_at: "2026-03-30T02:56:19.395Z"
   - **(3)** Recruiting officers to serve on the National Deployment Force, in accordance with a staffing model to be developed by the Administrator.
   - **(4)** Approving 1-year appointments for officers to serve on the National Deployment Force, with an option to extend upon officer request and with the approval of the appropriate Federal Security Director.
   - **(5)** Training officers to serve on the National Deployment Force.
+
+Establishment
+
+Duties
+
+## Source Credit
+
+*(Added [Pub. L. 115–254, div. K, title I, § 1988(a)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3622](https://www.govinfo.gov/link/statute/132/3622).)*

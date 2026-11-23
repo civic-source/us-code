@@ -3,9 +3,10 @@ title: "Section 6110 - Public inspection of written determinations"
 usc_title: 26
 usc_section: "6110"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6110"
-generated_at: "2026-03-30T02:55:27.842Z"
+generated_at: "2026-11-23T20:26:46.575Z"
+status: "active"
 ---
 
 # § 6110. Public inspection of written determinations
@@ -116,3 +117,15 @@ generated_at: "2026-03-30T02:55:27.842Z"
     - **(D)** background file document relating to any general written determination issued before July 5, 1967 , or
     - **(E)** letter or other document described in section 6104(a)(1)(B)(iv) issued before September 2, 1974 .
 - **(m)** Except as otherwise provided in this title, or with respect to a discovery order made in connection with a judicial proceeding, the Secretary shall not be required by any Court to make any written determination or background file document open or available to public inspection, or to refrain from disclosure of any such documents.
+
+In general
+
+Transition rules
+
+Documents treated as chief counsel advice
+
+Chief counsel advice to be available electronically
+
+## Source Credit
+
+*(Added [Pub. L. 94–455, title XII, § 1201(a)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1660](https://www.govinfo.gov/link/statute/90/1660); amended [Pub. L. 97–164, title I, § 160(a)(9)](https://www.govinfo.gov/link/plaw/97/public/164), Apr. 2, 1982, [96 Stat. 48](https://www.govinfo.gov/link/statute/96/48); [Pub. L. 98–620, title IV, § 402(28)(B)](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3359](https://www.govinfo.gov/link/statute/98/3359); [Pub. L. 105–206, title III, § 3509(a)](https://www.govinfo.gov/link/plaw/105/public/206) –(c), July 22, 1998, [112 Stat. 772](https://www.govinfo.gov/link/statute/112/772), 773; [Pub. L. 106–170, title V, § 521(a)(2)](https://www.govinfo.gov/link/plaw/106/public/170), Dec. 17, 1999, [113 Stat. 1925](https://www.govinfo.gov/link/statute/113/1925); [Pub. L. 106–554, § 1(a)(7) [title III, §§ 304(c), 313(e)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–634, 2763A–643; [Pub. L. 110–172, § 10(a)](https://www.govinfo.gov/link/plaw/110/public/172), Dec. 29, 2007, [121 Stat. 2484](https://www.govinfo.gov/link/statute/121/2484); [Pub. L. 115–141, div. U, title IV, § 401(a)(325)(A)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1199](https://www.govinfo.gov/link/statute/132/1199).)*

@@ -3,9 +3,10 @@ title: "Section 3220 - Use of official mail in the location and recovery of miss
 usc_title: 39
 usc_section: "3220"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "39 U.S.C. § 3220"
-generated_at: "2026-03-30T02:55:43.693Z"
+generated_at: "2026-11-23T20:26:57.750Z"
+status: "active"
 ---
 
 # § 3220. Use of official mail in the location and recovery of missing children
@@ -19,3 +20,11 @@ generated_at: "2026-03-30T02:55:43.693Z"
   - **(2)** Each executive department and independent establishment of the Government of the United States shall prescribe regulations under which penalty mail sent by such department or establishment may be used in conformance with the guidelines prescribed under paragraph (1).
 - **(b)** The Senate Committee on Rules and Administration and the House Communications Standards Commission shall prescribe for their respective Houses rules and regulations, and shall take such other action as the Committee or Commission considers necessary and proper, in order that purposes similar to those of subsection (a) may, in the discretion of the congressional official or office concerned, be carried out by the use of franked mail sent by such official or office.
 - **(c)** As used in this section, “Office of Juvenile Justice and Delinquency Prevention” and “Office” each means the Office of Juvenile Justice and Delinquency Prevention within the Department of Justice, as established by section 201 of the Juvenile Justice and Delinquency Prevention Act of 1974.
+
+Guidelines
+
+Rules and Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 99–87, § 1(a)(1)](https://www.govinfo.gov/link/plaw/99/public/87), Aug. 9, 1985, [99 Stat. 290](https://www.govinfo.gov/link/statute/99/290); [Pub. L. 116–260, div. I, title I, § 116(b)(2)(A)(iii)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 1637](https://www.govinfo.gov/link/statute/134/1637).)*

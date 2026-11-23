@@ -3,9 +3,10 @@ title: "Section 1221 - Authorization of State allotments to institutes"
 usc_title: 30
 usc_section: "1221"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1221"
-generated_at: "2026-03-30T02:55:29.396Z"
+generated_at: "2026-11-23T20:26:34.994Z"
+status: "active"
 ---
 
 # § 1221. Authorization of State allotments to institutes
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:29.396Z"
     - **(B)** If there is more than one such eligible college or university in a State, funds appropriated under this subchapter shall, in the absence of a designation to the contrary by act of the legislature of the State, be granted to one such college or university designated by the Governor of the State.
     - **(C)** Where a State does not have a public college or university eligible under section 1230 of this title , the Committee on Mining and Mineral Resources Research established in section 1229 of this title (hereafter in this subchapter referred to as the “Committee”) may allocate the State’s allotment to one private college or university which it determines to be eligible under such section.
 - **(b)** It shall be the duty of each institute to plan and conduct, or arrange for a component or components of the college or university with which it is affiliated to conduct research, investigations, demonstrations, and experiments of either, or both, a basic or practical nature in relation to mining and mineral resources, and to provide for the training of mineral engineers and scientists through such research, investigations, demonstrations, and experiments. The subject of such research, investigation, demonstration, experiment, and training may include exploration; extraction; processing; development; production of fuel and nonfuel mineral resources; mining and mineral technology; supply and demand for minerals; conservation and best use of available supplies of minerals; the economic, legal, social, engineering, recreational, biological, geographic, ecological, and other aspects of mining, mineral resources, and mineral reclamation. Such research, investigation, demonstration, experiment and training shall consider the interrelationship with the natural environment, the varying conditions and needs of the respective States, and mining and mineral resources research projects being conducted by agencies of the Federal and State governments and other institutes.
+
+## Source Credit
+
+*([Pub. L. 98–409, § 1](https://www.govinfo.gov/link/plaw/98/public/409), Aug. 29, 1984, [98 Stat. 1536](https://www.govinfo.gov/link/statute/98/1536); [Pub. L. 100–483](https://www.govinfo.gov/link/plaw/100/public/483), §§ 2–4, Oct. 12, 1988, [102 Stat. 2339](https://www.govinfo.gov/link/statute/102/2339).)*

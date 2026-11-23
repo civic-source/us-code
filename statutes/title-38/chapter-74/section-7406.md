@@ -3,9 +3,10 @@ title: "Section 7406 - Residencies and internships"
 usc_title: 38
 usc_section: "7406"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7406"
-generated_at: "2026-03-30T02:55:53.530Z"
+generated_at: "2026-11-23T20:27:02.016Z"
+status: "active"
 ---
 
 # § 7406. Residencies and internships
@@ -34,3 +35,11 @@ generated_at: "2026-03-30T02:55:53.530Z"
     - **(B)** maintain all records pertinent to such deductions and make proper deposits of such deductions; and
     - **(C)** maintain all records pertinent to the leave accrued by such intern and resident for the period during which such recipient serves in a participating facility, including a Department facility furnishing hospital care or medical services.
   - **(5)** Leave described in paragraph (4)(C) may be pooled, and the intern or resident may be afforded leave by the facility in which such person is serving at the time the leave is to be used to the extent of such person’s total accumulated leave, whether or not earned at the facility in which such person is serving at the time the leave is to be afforded.
+
+In general
+
+Telemedicine defined
+
+## Source Credit
+
+*(Added [Pub. L. 102–40, title IV, § 401(b)(2)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 227](https://www.govinfo.gov/link/statute/105/227); amended [Pub. L. 104–262, title III, § 345](https://www.govinfo.gov/link/plaw/104/public/262), Oct. 9, 1996, [110 Stat. 3208](https://www.govinfo.gov/link/statute/110/3208).)*

@@ -3,9 +3,10 @@ title: "Section 6353 - Activities at covered nuclear weapons facilities"
 usc_title: 10
 usc_section: "6353"
 chapter: 608
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6353"
-generated_at: "2026-03-30T02:53:38.227Z"
+generated_at: "2026-11-23T20:25:52.033Z"
+status: "active"
 ---
 
 # § 6353. Activities at covered nuclear weapons facilities
@@ -17,3 +18,7 @@ The Administrator may authorize the manager of a covered nuclear weapons researc
   - **(3)** The Pantex Plant, Amarillo, Texas.
   - **(4)** The Savannah River Plant, South Carolina.
   - **(5)** The Nevada Test Site.
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1454](https://www.govinfo.gov/link/statute/139/1454).)*

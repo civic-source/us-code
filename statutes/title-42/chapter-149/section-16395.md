@@ -3,9 +3,10 @@ title: "Section 16395 - Relationship to other laws"
 usc_title: 42
 usc_section: "16395"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16395"
-generated_at: "2026-03-30T02:56:11.485Z"
+generated_at: "2026-11-23T20:27:23.681Z"
+status: "active"
 ---
 
 # § 16395. Relationship to other laws
@@ -18,3 +19,7 @@ Except as otherwise provided in this Act or an amendment made by this Act, the S
   - **(4)** the Stevenson-Wydler Technology Innovation Act of 1980 ( 15 U.S.C. 3701 et seq.);
   - **(5)** chapter 18 of title 35 (commonly known as the “Bayh-Dole Act”); and
   - **(6)** any other Act under which the Secretary is authorized to carry out the programs, projects, and activities.
+
+## Source Credit
+
+*([Pub. L. 109–58, title X, § 1005](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 930](https://www.govinfo.gov/link/statute/119/930).)*

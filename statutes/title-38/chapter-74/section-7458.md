@@ -3,9 +3,10 @@ title: "Section 7458 - Recruitment and retention bonus pay"
 usc_title: 38
 usc_section: "7458"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7458"
-generated_at: "2026-03-30T02:55:53.533Z"
+generated_at: "2026-11-23T20:27:02.028Z"
+status: "active"
 ---
 
 # § 7458. Recruitment and retention bonus pay
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:55:53.533Z"
   - **(3)** An obligation to refund any portion of a bonus payment under this subsection is, for all purposes, a debt owed to the United States.
   - **(4)** The provisions of this subsection and the specific amounts that the individual could be required to refund shall be disclosed to the individual at the time the agreement is entered into and shall be clearly set forth in the contract.
 - **(h)** The Secretary shall prescribe regulations to carry out this section.
+
+## Source Credit
+
+*(Added [Pub. L. 100–322, title II, § 212(a)[(1)]](https://www.govinfo.gov/link/plaw/100/public/322), May 20, 1988, [102 Stat. 514](https://www.govinfo.gov/link/statute/102/514), § 4120; renumbered § 7458 and amended [Pub. L. 102–40, title IV, § 401(c)(4)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238); [Pub. L. 102–83, § 4(a)(3)](https://www.govinfo.gov/link/plaw/102/public/83), (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404](https://www.govinfo.gov/link/statute/105/404), 405; [Pub. L. 102–405, title III, § 302(c)(1)](https://www.govinfo.gov/link/plaw/102/public/405), Oct. 9, 1992, [106 Stat. 1984](https://www.govinfo.gov/link/statute/106/1984); [Pub. L. 103–446, title XII, § 1201(h)(4)](https://www.govinfo.gov/link/plaw/103/public/446), Nov. 2, 1994, [108 Stat. 4688](https://www.govinfo.gov/link/statute/108/4688); [Pub. L. 110–387, title IX, § 901(a)(6)](https://www.govinfo.gov/link/plaw/110/public/387), Oct. 10, 2008, [122 Stat. 4142](https://www.govinfo.gov/link/statute/122/4142).)*

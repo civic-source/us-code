@@ -3,9 +3,10 @@ title: "Section 2799c - Notifications and reports to Congress"
 usc_title: 22
 usc_section: "2799c"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2799c"
-generated_at: "2026-03-30T02:55:05.388Z"
+generated_at: "2026-11-23T20:26:32.436Z"
+status: "active"
 ---
 
 # § 2799c. Notifications and reports to Congress
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.388Z"
   - **(3)** lists, on a country-by-country basis, all transfers to another country of conventional armaments and equipment limited by the CFE Treaty—
     - **(A)** by each NATO/CFE country (other than the United States) in implementing the CFE Treaty, and
     - **(B)** by each country of the Eastern Group of States Parties in implementing the CFE Treaty.
+
+## Source Credit
+
+*([Pub. L. 90–629](https://www.govinfo.gov/link/plaw/90/public/629), ch. 9, § 94, as added [Pub. L. 102–228, § 2](https://www.govinfo.gov/link/plaw/102/public/228), Dec. 12, 1991, [105 Stat. 1692](https://www.govinfo.gov/link/statute/105/1692); amended [Pub. L. 103–199, title IV, § 402(1)](https://www.govinfo.gov/link/plaw/103/public/199), Dec. 17, 1993, [107 Stat. 2324](https://www.govinfo.gov/link/statute/107/2324).)*

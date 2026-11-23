@@ -3,12 +3,17 @@ title: "Section 122 - Shipments into States for possession or sale in violation 
 usc_title: 27
 usc_section: "122"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "27 U.S.C. § 122"
-generated_at: "2026-03-30T02:55:15.104Z"
+generated_at: "2026-11-23T20:26:34.220Z"
+status: "active"
 ---
 
 # § 122. Shipments into States for possession or sale in violation of State law
 
 The shipment or transportation, in any manner or by any means whatsoever, of any spirituous, vinous, malted, fermented, or other intoxicating liquor of any kind, from one State, Territory, or District of the United States, or place noncontiguous to but subject to the jurisdiction thereof, into any other State, Territory, or District of the United States, or place noncontiguous to but subject to the jurisdiction thereof, or from any foreign country into any State, Territory, or District of the United States, or place noncontiguous to but subject to the jurisdiction thereof, which said spirituous, vinous, malted, fermented, or other intoxicating liquor is intended, by any person interested therein, to be received, possessed, sold, or in any manner used, either in the original package or otherwise, in violation of any law of such State, Territory, or District of the United States, or place noncontiguous to but subject to the jurisdiction thereof, is prohibited.
 
+
+## Source Credit
+
+*(Aug. 27, 1935, ch. 740, § 202(b), [49 Stat. 877](https://www.govinfo.gov/link/statute/49/877).)*

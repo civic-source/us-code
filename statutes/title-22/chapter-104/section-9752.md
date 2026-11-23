@@ -3,9 +3,10 @@ title: "Section 9752 - Concerns over PDVSA transactions with Rosneft"
 usc_title: 22
 usc_section: "9752"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9752"
-generated_at: "2026-03-30T02:55:05.473Z"
+generated_at: "2026-11-23T20:26:32.798Z"
+status: "active"
 ---
 
 # § 9752. Concerns over PDVSA transactions with Rosneft
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:05.473Z"
   - **(4)** the Committee on Foreign Affairs of the House of Representatives;
   - **(5)** the Committee on Homeland Security of the House of Representatives; and
   - **(6)** the Committee on Financial Services of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 116–94, div. J, title I, § 163](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3041](https://www.govinfo.gov/link/statute/133/3041).)*

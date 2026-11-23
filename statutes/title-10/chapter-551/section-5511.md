@@ -3,9 +3,10 @@ title: "Section 5511 - Ballistic missile defense programs: program elements"
 usc_title: 10
 usc_section: "5511"
 chapter: 551
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 5511"
-generated_at: "2026-03-30T02:53:38.217Z"
+generated_at: "2026-11-23T20:25:52.001Z"
+status: "active"
 ---
 
 # § 5511. Ballistic missile defense programs: program elements
@@ -18,3 +19,27 @@ generated_at: "2026-03-30T02:53:38.217Z"
     - **(B)** validate the manufacturing or production process; and
     - **(C)** demonstrate system capabilities through testing.
 - **(c)** The amount requested for a fiscal year for any program element specified for that fiscal year pursuant to subsection (a) shall include requests for the amounts necessary for the management and support of the programs, projects, and activities contained in that program element.
+
+Program Elements Specified by President
+
+Separate Program Elements for Programs Entering Engineering and Manufacturing Development
+
+Management and Support
+
+Revised Budget Structure
+
+Revised Budget Structure for Fiscal Year
+
+Availability of RDT&E Funds for Fiscal Year
+
+Full Funding Requirement Not Applicable to Use of Procurement Funds for Fiscal Years
+
+and
+
+Relationship to Other Law
+
+Plan Required
+
+## Source Credit
+
+*(Added [Pub. L. 118–159, div. A, title XVI, § 1649(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2189](https://www.govinfo.gov/link/statute/138/2189).)*

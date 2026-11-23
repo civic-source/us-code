@@ -3,9 +3,10 @@ title: "Section 1985 - Agreements with and other provisions related to the Repub
 usc_title: 48
 usc_section: "1985"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1985"
-generated_at: "2026-03-30T02:56:14.599Z"
+generated_at: "2026-11-23T20:27:28.189Z"
+status: "active"
 ---
 
 # § 1985. Agreements with and other provisions related to the Republic of the Marshall Islands
@@ -72,3 +73,7 @@ generated_at: "2026-03-30T02:56:14.599Z"
     - **(C)** section 1903(h)(3) of this title and section 1921b(f)(3) of this title provided that “payments under this subsection shall be provided to such extent or in such amounts as are necessary for services and other assistance provided pursuant to this subsection. It is the sense of Congress that after the periods of time specified in paragraphs (1) and (2) of this subsection, consideration will be given to such additional funding for these programs as may be necessary.”.
   - **(2)** The Secretary of the Interior may provide grants to the Government of the Republic of the Marshall Islands to carry out a planting and agricultural maintenance program on Bikini, Enewetak, Rongelap, and Utrik.
   - **(3)** The Secretary of Agriculture may provide, without reimbursement, food programs to the people of the Republic of the Marshall Islands.
+
+## Source Credit
+
+*([Pub. L. 118–42, div. G, title II, § 206](https://www.govinfo.gov/link/plaw/118/public/42), Mar. 9, 2024, [138 Stat. 427](https://www.govinfo.gov/link/statute/138/427).)*

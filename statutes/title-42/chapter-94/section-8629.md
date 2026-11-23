@@ -3,9 +3,10 @@ title: "Section 8629 - Studies and reports"
 usc_title: 42
 usc_section: "8629"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8629"
-generated_at: "2026-03-30T02:56:11.347Z"
+generated_at: "2026-11-23T20:27:23.057Z"
+status: "active"
 ---
 
 # § 8629. Studies and reports
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.347Z"
 - **(b)** The Secretary shall, no later than June 30 of each fiscal year, submit a report to the Congress containing a detailed compilation of the data under subsection (a) with respect to the prior fiscal year, and a report that describes for the prior fiscal year—
   - **(1)** the manner in which States carry out the requirements of clauses (2), (5), (8), and (15) of section 8624(b) of this title ; and
   - **(2)** the impact of each State’s program on recipient and eligible households.
+
+## Source Credit
+
+*([Pub. L. 97–35, title XXVI, § 2610](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 902](https://www.govinfo.gov/link/statute/95/902); [Pub. L. 98–558, title VI, § 607](https://www.govinfo.gov/link/plaw/98/public/558), Oct. 30, 1984, [98 Stat. 2893](https://www.govinfo.gov/link/statute/98/2893); [Pub. L. 99–425, title V, § 506](https://www.govinfo.gov/link/plaw/99/public/425), Sept. 30, 1986, [100 Stat. 976](https://www.govinfo.gov/link/statute/100/976); [Pub. L. 103–252, title III, § 311(c)(7)](https://www.govinfo.gov/link/plaw/103/public/252), May 18, 1994, [108 Stat. 662](https://www.govinfo.gov/link/statute/108/662).)*

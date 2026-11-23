@@ -3,9 +3,10 @@ title: "Section 6601 - Findings and purposes"
 usc_title: 16
 usc_section: "6601"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6601"
-generated_at: "2026-03-30T02:54:23.065Z"
+generated_at: "2026-11-23T20:26:20.813Z"
+status: "active"
 ---
 
 # § 6601. Findings and purposes
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:23.065Z"
   - **(1)** to conserve marine turtle, freshwater turtle, and tortoise habitats under the jurisdiction of United States Fish and Wildlife Service programs;
   - **(2)** to conserve marine turtles, freshwater turtles, and tortoises in those habitats; and
   - **(3)** to address other threats to the survival of marine turtles, freshwater turtles, and tortoises, including habitat loss, poaching of turtles or their eggs, and wildlife trafficking.
+
+## Source Credit
+
+*([Pub. L. 108–266, § 2](https://www.govinfo.gov/link/plaw/108/public/266), July 2, 2004, [118 Stat. 791](https://www.govinfo.gov/link/statute/118/791); [Pub. L. 116–9, title VII, § 7001(c)(3)(A)](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 786](https://www.govinfo.gov/link/statute/133/786).)*

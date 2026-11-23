@@ -3,9 +3,10 @@ title: "Section 3075 - Interagency working group"
 usc_title: 25
 usc_section: "3075"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3075"
-generated_at: "2026-03-30T02:54:52.847Z"
+generated_at: "2026-11-23T20:26:25.632Z"
+status: "active"
 ---
 
 # § 3075. Interagency working group
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:52.847Z"
     - **(B)** the review committee established under section 8(a) of the Native American Graves Protection and Repatriation Act ( 25 U.S.C. 3006(a) );
     - **(C)** the Cultural Heritage Coordinating Committee established pursuant to section 2 of the Protect and Preserve International Cultural Property Act ( Public Law 114–151 ; 19 U.S.C. 2601 note); and
     - **(D)** any other relevant committees and working groups.
+
+## Source Credit
+
+*([Pub. L. 117–258, § 7](https://www.govinfo.gov/link/plaw/117/public/258), Dec. 21, 2022, [136 Stat. 2383](https://www.govinfo.gov/link/statute/136/2383).)*

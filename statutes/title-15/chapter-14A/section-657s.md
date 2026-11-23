@@ -3,9 +3,10 @@ title: "Section 657s - Limitations on subcontracting"
 usc_title: 15
 usc_section: "657s"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 657s"
-generated_at: "2026-03-30T02:54:08.108Z"
+generated_at: "2026-11-23T20:26:03.848Z"
+status: "active"
 ---
 
 # § 657s. Limitations on subcontracting
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:54:08.108Z"
     - **(D)** if a subcontractor for a small business concern owned and controlled by women (as defined in section 637(m) of this title ) that is not less than 51 percent owned by 1 or more women who are economically disadvantaged (and such ownership is determined without regard to any community property law), is such a concern;
     - **(E)** if a subcontractor for a qualified HUBZone small business concern, is such a concern; or
     - **(F)** if a subcontractor for a small business concern owned and controlled by service-disabled veterans, is such a concern.
+
+## Source Credit
+
+*([Pub. L. 85–536, § 2[46]](https://www.govinfo.gov/link/plaw/85/public/536), as added [Pub. L. 112–239, div. A, title XVI, § 1651](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2079](https://www.govinfo.gov/link/statute/126/2079); amended [Pub. L. 114–92, div. A, title VIII, § 864(b)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 927](https://www.govinfo.gov/link/statute/129/927).)*

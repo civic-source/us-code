@@ -3,9 +3,10 @@ title: "Section 572 - Prohibition on buy outs"
 usc_title: 47
 usc_section: "572"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 572"
-generated_at: "2026-03-30T02:56:24.521Z"
+generated_at: "2026-11-23T20:27:28.936Z"
+status: "active"
 ---
 
 # § 572. Prohibition on buy outs
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:56:24.521Z"
       - **(iii)** the anticompetitive effects of the proposed transaction are clearly outweighed in the public interest by the probable effect of the transaction in meeting the convenience and needs of the community to be served; and
     - **(B)** the local franchising authority approves of such waiver.
 - **(e)** For purposes of this section, the term “telephone service area” when used in connection with a common carrier subject in whole or in part to subchapter II of this chapter means the area within which such carrier provided telephone exchange service as of January 1, 1993 , but if any common carrier after such date transfers its telephone exchange service facilities to another common carrier, the area to which such facilities provide telephone exchange service shall be treated as part of the telephone service area of the acquiring common carrier and not of the selling common carrier.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title VI, § 652, as added [Pub. L. 104–104, title III, § 302(a)](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 119](https://www.govinfo.gov/link/statute/110/119).)*

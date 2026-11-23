@@ -3,9 +3,10 @@ title: "Section 12113 - Defenses"
 usc_title: 42
 usc_section: "12113"
 chapter: 126
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12113"
-generated_at: "2026-03-30T02:56:11.407Z"
+generated_at: "2026-11-23T20:27:23.337Z"
+status: "active"
 ---
 
 # § 12113. Defenses
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.407Z"
     - **(D)** widely disseminate such information regarding the list of diseases and their modes of transmissability 1 1 So in original. Probably should be “transmissibility”. to the general public.
   - **(2)** In any case in which an individual has an infectious or communicable disease that is transmitted to others through the handling of food, that is included on the list developed by the Secretary of Health and Human Services under paragraph (1), and which cannot be eliminated by reasonable accommodation, a covered entity may refuse to assign or continue to assign such individual to a job involving food handling.
   - **(3)** Nothing in this chapter shall be construed to preempt, modify, or amend any State, county, or local law, ordinance, or regulation applicable to food handling which is designed to protect the public health from individuals who pose a significant risk to the health or safety of others, which cannot be eliminated by reasonable accommodation, pursuant to the list of infectious or communicable diseases and the modes of transmissability 1 published by the Secretary of Health and Human Services.
+
+## Source Credit
+
+*([Pub. L. 101–336, title I, § 103](https://www.govinfo.gov/link/plaw/101/public/336), July 26, 1990, [104 Stat. 333](https://www.govinfo.gov/link/statute/104/333); [Pub. L. 110–325, § 5(b)](https://www.govinfo.gov/link/plaw/110/public/325), Sept. 25, 2008, [122 Stat. 3557](https://www.govinfo.gov/link/statute/122/3557).)*

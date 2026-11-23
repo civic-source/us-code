@@ -3,9 +3,10 @@ title: "Section 1182d - Denial of visas to confiscators of American property"
 usc_title: 8
 usc_section: "1182d"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1182d"
-generated_at: "2026-03-30T02:53:10.480Z"
+generated_at: "2026-11-23T20:25:36.046Z"
+status: "active"
 ---
 
 # § 1182d. Denial of visas to confiscators of American property
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:10.480Z"
 - **(c)** Not later than 6 months after October 21, 1998 , and every 12 months thereafter, the Secretary of State shall submit to the Speaker of the House of Representatives and to the chairman of the Committee on Foreign Relations of the Senate a report, including—
   - **(1)** a list of aliens who have been denied a visa under this subsection; and
   - **(2)** a list of aliens who could have been denied a visa under subsection (a) but were issued a visa and an explanation as to why each such visa was issued.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. B, title XXII, § 2225, Oct. 21, 1998, [112 Stat. 2681–819](https://www.govinfo.gov/link/statute/112/2681).)*

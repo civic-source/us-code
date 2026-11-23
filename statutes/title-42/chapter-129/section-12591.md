@@ -3,9 +3,10 @@ title: "Section 12591 - Description of participants"
 usc_title: 42
 usc_section: "12591"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12591"
-generated_at: "2026-03-30T02:56:11.419Z"
+generated_at: "2026-11-23T20:27:23.378Z"
+status: "active"
 ---
 
 # § 12591. Description of participants
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.419Z"
   - **(1)** satisfies the requirements specified in subsection (a), except paragraph (3) of such subsection; and
   - **(2)** is between the ages of 16 and 25, inclusive, at the time the individual begins the term of service.
 - **(c)** The Corporation may waive the requirements of subsection (a)(4) with respect to an individual if the program in which the individual seeks to become a participant conducts an independent evaluation demonstrating that the individual is incapable of obtaining a high school diploma or its equivalent.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 137](https://www.govinfo.gov/link/plaw/101/public/610), as added [Pub. L. 103–82, title I, § 101(b)](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 808](https://www.govinfo.gov/link/statute/107/808); amended [Pub. L. 103–304, § 3(b)(3)](https://www.govinfo.gov/link/plaw/103/public/304), Aug. 23, 1994, [108 Stat. 1567](https://www.govinfo.gov/link/statute/108/1567); [Pub. L. 111–13, title I, § 1312](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1509](https://www.govinfo.gov/link/statute/123/1509).)*

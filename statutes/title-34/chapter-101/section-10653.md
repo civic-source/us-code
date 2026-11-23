@@ -3,9 +3,10 @@ title: "Section 10653 - Creation of a TBI and PTSD training for first responders
 usc_title: 34
 usc_section: "10653"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10653"
-generated_at: "2026-03-30T02:55:33.274Z"
+generated_at: "2026-11-23T20:26:50.498Z"
+status: "active"
 ---
 
 # § 10653. Creation of a TBI and PTSD training for first responders
@@ -16,3 +17,9 @@ generated_at: "2026-03-30T02:55:33.274Z"
   - **(3)** information on how to recognize persons who have a traumatic brain injury, an acquired brain injury, or post-traumatic stress disorder.
 - **(b)** The Attorney General shall ensure that not less than one Law Enforcement Mental Health Learning Site designated by the Director of the Bureau of Justice Assistance uses the training tools developed under subsection (a).
 - **(c)** The Attorney General shall make the training tools developed under subsection (a) available as part of the Police-Mental Health Collaboration Toolkit provided by the Bureau of Justice Assistance.
+
+“Congress finds the following:
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 2993](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 117–170, § 3(2)](https://www.govinfo.gov/link/plaw/117/public/170), Aug. 16, 2022, [136 Stat. 2092](https://www.govinfo.gov/link/statute/136/2092).)*

@@ -3,12 +3,17 @@ title: "Section 678 - Authorization of appropriations"
 usc_title: 29
 usc_section: "678"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 678"
-generated_at: "2026-03-30T02:55:18.690Z"
+generated_at: "2026-11-23T20:26:37.842Z"
+status: "active"
 ---
 
 # § 678. Authorization of appropriations
 
 There are authorized to be appropriated to carry out this chapter for each fiscal year such sums as the Congress shall deem necessary.
 
+
+## Source Credit
+
+*([Pub. L. 91–596, § 33](https://www.govinfo.gov/link/plaw/91/public/596), Dec. 29, 1970, [84 Stat. 1620](https://www.govinfo.gov/link/statute/84/1620).)*

@@ -3,9 +3,10 @@ title: "Section 3003 - Congressional declaration of additional objectives"
 usc_title: 42
 usc_section: "3003"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3003"
-generated_at: "2026-03-30T02:56:11.170Z"
+generated_at: "2026-11-23T20:27:22.188Z"
+status: "active"
 ---
 
 # § 3003. Congressional declaration of additional objectives
@@ -16,3 +17,7 @@ The Congress finds that millions of older citizens in this Nation are suffering 
   - **(2)** give full and special consideration to older citizens with special needs in planning such programs, and, pending the availability of such programs for all older citizens, give priority to the elderly with the greatest economic and social need.
   - **(3)** provide comprehensive programs which will assure the coordinated delivery of a full range of essential services to our older citizens, and, where applicable, also furnish meaningful employment opportunities for many individuals, including older persons, young persons, and volunteers from the community, and
   - **(4)** insure that the planning and operation of such programs will be undertaken as a partnership of older citizens, community agencies, and State and local governments, with appropriate assistance from the Federal Government.
+
+## Source Credit
+
+*([Pub. L. 93–29, title I, § 101](https://www.govinfo.gov/link/plaw/93/public/29), May 3, 1973, [87 Stat. 30](https://www.govinfo.gov/link/statute/87/30); [Pub. L. 97–115, § 3(d)](https://www.govinfo.gov/link/plaw/97/public/115), Dec. 29, 1981, [95 Stat. 1597](https://www.govinfo.gov/link/statute/95/1597).)*

@@ -3,9 +3,10 @@ title: "Section 12651a - Board of Directors"
 usc_title: 42
 usc_section: "12651a"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12651a"
-generated_at: "2026-03-30T02:56:11.423Z"
+generated_at: "2026-11-23T20:27:23.405Z"
+status: "active"
 ---
 
 # § 12651a. Board of Directors
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:11.423Z"
 - **(c)** Subject to subsection (e), each appointed member shall serve for a term of 5 years.
 - **(d)** If a vacancy occurs on the Board, a new member shall be appointed by the President, by and with the advice and consent of the Senate, and serve for the remainder of the term for which the predecessor of such member was appointed. The vacancy shall not affect the power of the remaining members to execute the duties of the Board.
 - **(e)** A voting member of the Board whose term has expired may continue to serve on the Board until the date on which the member’s successor takes office, which period shall not exceed 1 year.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 192](https://www.govinfo.gov/link/plaw/101/public/610), as added [Pub. L. 103–82, title II, § 202(a)](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 873](https://www.govinfo.gov/link/statute/107/873); amended [Pub. L. 111–13, title I, § 1701](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1544](https://www.govinfo.gov/link/statute/123/1544).)*

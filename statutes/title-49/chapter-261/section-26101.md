@@ -3,9 +3,10 @@ title: "Section 26101 - High-speed rail corridor planning"
 usc_title: 49
 usc_section: "26101"
 chapter: 261
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 26101"
-generated_at: "2026-03-30T02:56:19.349Z"
+generated_at: "2026-11-23T20:27:34.881Z"
+status: "active"
 ---
 
 # § 26101. High-speed rail corridor planning
@@ -44,3 +45,17 @@ generated_at: "2026-03-30T02:56:19.349Z"
   - **(12)** the extent to which the projected revenues of the proposed high-speed rail service, along with any financial commitments of State or local governments and the private sector, are expected to cover capital costs and operating and maintenance expenses;
   - **(13)** whether a specific route has been selected, specific improvements identified, and capacity studies completed; and
   - **(14)** whether the corridor has been designated as a high-speed rail corridor by the Secretary.
+
+Corridor Planning Assistance
+
+Eligible Activities
+
+Criteria for Determining Financial Assistance
+
+Findings
+
+Purpose
+
+## Source Credit
+
+*(Added [Pub. L. 103–440, title I, § 103(a)(2)](https://www.govinfo.gov/link/plaw/103/public/440), Nov. 2, 1994, [108 Stat. 4616](https://www.govinfo.gov/link/statute/108/4616); amended [Pub. L. 109–59, title IX, § 9001(a)(1)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1918](https://www.govinfo.gov/link/statute/119/1918); [Pub. L. 110–432, div. B, title V, § 501(a)](https://www.govinfo.gov/link/plaw/110/public/432), Oct. 16, 2008, [122 Stat. 4959](https://www.govinfo.gov/link/statute/122/4959).)*

@@ -3,9 +3,10 @@ title: "Section 2907 - Survey on Native American languages"
 usc_title: 25
 usc_section: "2907"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 2907"
-generated_at: "2026-03-30T02:54:52.845Z"
+generated_at: "2026-11-23T20:26:25.622Z"
+status: "active"
 ---
 
 # § 2907. Survey on Native American languages
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:54:52.845Z"
 - **(i)** There is authorized to be appropriated to carry out this section $1,500,000 for each fiscal year—
   - **(1)** preceding a fiscal year during which a survey under subsection (a) is conducted; and
   - **(2)** during which a survey under that subsection is conducted.
+
+## Source Credit
+
+*([Pub. L. 101–477, title I, § 108](https://www.govinfo.gov/link/plaw/101/public/477), as added [Pub. L. 117–337, § 2(b)](https://www.govinfo.gov/link/plaw/117/public/337), Jan. 5, 2023, [136 Stat. 6153](https://www.govinfo.gov/link/statute/136/6153).)*

@@ -3,9 +3,10 @@ title: "Section 1671b - Preliminary determinations"
 usc_title: 19
 usc_section: "1671b"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1671b"
-generated_at: "2026-03-30T02:54:24.650Z"
+generated_at: "2026-11-23T20:26:10.839Z"
+status: "active"
 ---
 
 # § 1671b. Preliminary determinations
@@ -73,3 +74,25 @@ generated_at: "2026-03-30T02:54:24.650Z"
     - **(B)** in cases in which the preliminary determination is affirmative, the determination concerning upstream subsidization—
       - **(i)** need not be made until the conclusion of the first annual review under section 1675 of this title of any eventual Countervailing Duty Order, or, at the option of the petitioner, or
       - **(ii)** will be made in the investigation and the time period within which a final determination must be made shall be extended to 165 or 225 days, as appropriate, under section 1671d(a)(1) of this title , as appropriate, 1 1 So in original. The words “as appropriate,” probably should not appear. except that the suspension of liquidation ordered in the preliminary determination shall terminate at the end of 120 days from the date of publication of that determination and not be resumed unless and until the publication of a Countervailing Duty Order under section 1671e(a) of this title .
+
+De minimis countervailable subsidy.—
+
+General rule
+
+Exception for developing countries
+
+Certain other developing countries
+
+Limitations on application of subparagraph
+
+In general
+
+Special rule for subparagraph
+
+countries
+
+Notification of article 8 violation
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title VII, § 703, as added [Pub. L. 96–39, title I, § 101](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 152](https://www.govinfo.gov/link/statute/93/152); amended [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title VI, § 650(b)], Nov. 30, 1983, [97 Stat. 1266](https://www.govinfo.gov/link/statute/97/1266); [Pub. L. 98–573, title VI](https://www.govinfo.gov/link/plaw/98/public/573), §§ 603, 613(c), Oct. 30, 1984, [98 Stat. 3024](https://www.govinfo.gov/link/statute/98/3024), 3036; [Pub. L. 99–514, title XVIII, § 1886(a)(3)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2921](https://www.govinfo.gov/link/statute/100/2921); [Pub. L. 100–418, title I](https://www.govinfo.gov/link/plaw/100/public/418), §§ 1324(a)(2), 1326(d)(1), Aug. 23, 1988, [102 Stat. 1200](https://www.govinfo.gov/link/statute/102/1200), 1204; [Pub. L. 103–465, title II](https://www.govinfo.gov/link/plaw/103/public/465), §§ 212(b)(1)(A), (C), (D), (F), 214(a)(1), 215(a), 233(a)(5)(C), (6)(A)(iii), (iv), (B), 263(a), 264(a), (c)(1), (2), 270(a)(1)(B)–(D), (b)(1)(B), 283(a), Dec. 8, 1994, [108 Stat. 4847](https://www.govinfo.gov/link/statute/108/4847), 4848, 4850, 4852, 4899, 4901, 4911, 4912, 4914, 4917, 4930; [Pub. L. 104–295, § 20(b)(5)](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3527](https://www.govinfo.gov/link/statute/110/3527).)*

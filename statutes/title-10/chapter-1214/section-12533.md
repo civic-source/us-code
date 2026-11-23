@@ -3,9 +3,10 @@ title: "Section 12533 - Termination of program"
 usc_title: 10
 usc_section: "12533"
 chapter: 1214
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 12533"
-generated_at: "2026-03-30T02:53:38.270Z"
+generated_at: "2026-11-23T20:25:52.443Z"
+status: "active"
 ---
 
 # § 12533. Termination of program
@@ -17,3 +18,17 @@ generated_at: "2026-03-30T02:53:38.270Z"
   - **(2)** An insured member described in this paragraph is an insured member who on November 18, 1997 , is serving on covered service for a period of service, or has been issued an order directing the performance of covered service, that satisfies or would satisfy the entitlement-to-benefits provisions of this chapter.
 - **(d)** The Secretary may not make any benefit payment under the insurance program after November 18, 1997 , other than to an insured member who on that date (1) is serving on an order to covered service, (2) has been issued an order directing performance of covered service, or (3) has served on covered service before that date for which benefits under the program have not been paid to the member.
 - **(e)** The Secretary shall close the Fund not later than 60 days after the date on which the last benefit payment from the Fund is made. Any amount remaining in the Fund when closed shall be covered into the Treasury as miscellaneous receipts.
+
+In General
+
+Termination of New Enrollments
+
+Termination of Coverage
+
+Termination of Payment of Benefits
+
+Termination of Insurance Fund
+
+## Source Credit
+
+*(Added [Pub. L. 105–85, div. A, title V, § 512(a)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1729](https://www.govinfo.gov/link/statute/111/1729); amended [Pub. L. 107–107, div. A, title X, § 1048(c)(15)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1226](https://www.govinfo.gov/link/statute/115/1226).)*

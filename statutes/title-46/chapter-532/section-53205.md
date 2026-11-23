@@ -3,9 +3,10 @@ title: "Section 53205 - Obligations and rights under operating agreements"
 usc_title: 46
 usc_section: "53205"
 chapter: 532
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 53205"
-generated_at: "2026-03-30T02:56:15.573Z"
+generated_at: "2026-11-23T20:27:27.312Z"
+status: "active"
 ---
 
 # § 53205. Obligations and rights under operating agreements
@@ -22,3 +23,27 @@ generated_at: "2026-03-30T02:56:15.573Z"
   - **(2)** All terms and conditions of a Contingency Agreement entered into under section 53207 shall remain in effect until a date the Operating Agreement would terminate according to its terms, except that the terms of such Contingency Agreement may be modified by the mutual consent of the Contractor, and the Operating Agency.
 - **(e)** Operating Agreements shall not be transferrable by the Contractor.
 - **(f)** A Contractor may replace a vessel under an Operating Agreement with another vessel that is eligible to be included in the Fleet under section 53202(b), if the Secretary and the Operating Agency jointly determine that the replacement vessel meets national security requirements and approve the replacement.
+
+Operation of Vessel
+
+Annual Payments by the Secretary.—
+
+In general
+
+Operating agreement is an obligation of the united states government
+
+Documentation Requirement
+
+National Security Requirements.—
+
+In general
+
+Contingency agreement with operating agency
+
+Transfer of Operating Agreements
+
+Replacement Vessel
+
+## Source Credit
+
+*(Added [Pub. L. 116–92, div. C, title XXXV, § 3521(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1994](https://www.govinfo.gov/link/statute/133/1994).)*

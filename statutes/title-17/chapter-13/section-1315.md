@@ -3,12 +3,21 @@ title: "Section 1315 - Publication of announcements and indexes"
 usc_title: 17
 usc_section: "1315"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 1315"
-generated_at: "2026-03-30T02:54:15.357Z"
+generated_at: "2026-11-23T20:26:06.549Z"
+status: "active"
 ---
 
 # § 1315. Publication of announcements and indexes
 
 - **(a)** The Administrator shall publish lists and indexes of registered designs and cancellations of designs and may also publish the drawings or other pictorial representations of registered designs for sale or other distribution.
 - **(b)** The Administrator shall establish and maintain a file of the drawings or other pictorial representations of registered designs. The file shall be available for use by the public under such conditions as the Administrator may prescribe.
+
+Publications of the Administrator
+
+File of Representatives of Registered Designs
+
+## Source Credit
+
+*(Added [Pub. L. 105–304, title V, § 502](https://www.govinfo.gov/link/plaw/105/public/304), Oct. 28, 1998, [112 Stat. 2912](https://www.govinfo.gov/link/statute/112/2912).)*

@@ -3,9 +3,10 @@ title: "Section 2809 - Reports to tribes"
 usc_title: 25
 usc_section: "2809"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 2809"
-generated_at: "2026-03-30T02:54:52.844Z"
+generated_at: "2026-11-23T20:26:25.618Z"
+status: "active"
 ---
 
 # § 2809. Reports to tribes
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:52.844Z"
   - **(1)** Nothing in this section requires any Federal agency or official to transfer or disclose any confidential, privileged, or statutorily protected communication, information, or source to an official of any Indian tribe.
   - **(2)** Nothing in this section affects or limits the requirements of Rule 6 of the Federal Rules of Criminal Procedure.
   - **(3)** The Attorney General shall establish, by regulation, standards for the protection of the confidential or privileged communications, information, and sources described in this section.
+
+## Source Credit
+
+*([Pub. L. 101–379, § 10](https://www.govinfo.gov/link/plaw/101/public/379), Aug. 18, 1990, [104 Stat. 477](https://www.govinfo.gov/link/statute/104/477); [Pub. L. 111–211, title II, § 212](https://www.govinfo.gov/link/plaw/111/public/211), July 29, 2010, [124 Stat. 2267](https://www.govinfo.gov/link/statute/124/2267).)*

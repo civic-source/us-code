@@ -3,9 +3,10 @@ title: "Section 2667 - Leases: non-excess property of military departments and D
 usc_title: 10
 usc_section: "2667"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2667"
-generated_at: "2026-03-30T02:53:38.168Z"
+generated_at: "2026-11-23T20:25:51.641Z"
+status: "active"
 ---
 
 # § 2667. Leases: non-excess property of military departments and Defense Agencies
@@ -107,3 +108,82 @@ generated_at: "2026-03-30T02:53:38.168Z"
     - **(B)** the Secretary of Defense, with respect to matters concerning the Defense Agencies.
 - **(j)** This section does not apply to oil, mineral, or phosphate lands.
 - **(k)** Notwithstanding subsection (b)(4), the Secretary concerned may accept consideration in an amount that is less than the fair market value of the lease, if the lease is to a local education agency or an elementary or secondary school (as those terms are defined in section 8101 of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 7801 )).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 2667(a) 2667(b) | 5:626s–3 (1st sentence). 10:1270 (1st sentence). 34:522a (1st sentence). 5:626s–3 (2d through 6th sentences). 10:1270 (2d through 6th sentences). | Aug. 5, 1947, ch. 493 , §§ 1, 6, 61 Stat. 774 , 775; Sept. 28, 1951, ch. 434 . § 605 (as applicable to Act of Aug. 5, 1947, ch. 493, § 1 ), 65 Stat. 366 . |
+|  | 34:522a (2d through 6th sentences). |  |
+| 2667(c) | 5:626s–3 (last sentence). |  |
+|  | 10:1270 (last sentence). |  |
+|  | 34:522a (last sentence). |  |
+| 2667(d) | 5:626s–3 (less 1st 6 sentences). |  |
+|  | 10:1270 (less 1st 6 sentences). |  |
+|  | 34:522a (less 1st 6 sentences). |  |
+| 2667(e) | 5:626s–6. 10:1270d. 34:522e. |  |
+
+
+Lease Authority
+
+Conditions on Leases
+
+Types of In-Kind Consideration
+
+Community Support Facilities and Community Support Services Under Lease; Waiver
+
+Deposit and Use of Proceeds
+
+Treatment of Lessee Interest in Property
+
+Special Rules for Base Closure and Realignment Property
+
+Competitive Procedures for Selection of Certain Lessees; Exception
+
+Definitions
+
+Exclusion of Certain Lands
+
+Leases for Education
+
+Historical and Revision Notes
+
+2667(a)
+
+2667(b)
+
+Aug. 5, 1947, ch. 493
+
+61 Stat. 774
+
+Sept. 28, 1951, ch. 434
+
+Act of Aug. 5, 1947, ch. 493, § 1
+
+65 Stat. 366
+
+2667(c)
+
+2667(d)
+
+2667(e)
+
+Modified Authority
+
+Delegation and Review Process.—
+
+In general
+
+Notice of approval
+
+Review period
+
+Disposition of review
+
+Approval of revised agreement
+
+Military Manufacturing Arsenal, Depot, or Plant Defined
+
+Sunset
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 150; [Pub. L. 94–107, title VI, § 607(7)](https://www.govinfo.gov/link/plaw/94/public/107), Oct. 7, 1975, [89 Stat. 566](https://www.govinfo.gov/link/statute/89/566); [Pub. L. 94–412, title V, § 501(b)](https://www.govinfo.gov/link/plaw/94/public/412), Sept. 14, 1976, [90 Stat. 1258](https://www.govinfo.gov/link/statute/90/1258); [Pub. L. 96–513, title V, § 511(92)](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2928](https://www.govinfo.gov/link/statute/94/2928); [Pub. L. 97–295, § 1(34)](https://www.govinfo.gov/link/plaw/97/public/295), Oct. 12, 1982, [96 Stat. 1296](https://www.govinfo.gov/link/statute/96/1296); [Pub. L. 97–321, title VIII, § 803](https://www.govinfo.gov/link/plaw/97/public/321), Oct. 15, 1982, [96 Stat. 1572](https://www.govinfo.gov/link/statute/96/1572); [Pub. L. 101–510, div. B, title XXVIII, § 2806](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1787](https://www.govinfo.gov/link/statute/104/1787); [Pub. L. 102–190, div. B, title XXVIII, § 2862](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1559](https://www.govinfo.gov/link/statute/105/1559); [Pub. L. 102–484, div. B, title XXVIII, § 2851](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2625](https://www.govinfo.gov/link/statute/106/2625); [Pub. L. 103–160, div. B, title XXIX, § 2906](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1920](https://www.govinfo.gov/link/statute/107/1920); [Pub. L. 104–106, div. A, title XV, § 1502(a)(1)](https://www.govinfo.gov/link/plaw/104/public/106), div. B, title XXVIII, §§ 2831(a), 2832, 2833, Feb. 10, 1996, [110 Stat. 502](https://www.govinfo.gov/link/statute/110/502), 558, 559; [Pub. L. 105–85, div. A, title III, § 361(b)(2)](https://www.govinfo.gov/link/plaw/105/public/85), title X, § 1061(a)–(c)(1), Nov. 18, 1997, [111 Stat. 1701](https://www.govinfo.gov/link/statute/111/1701), 1891; [Pub. L. 105–261, div. B, title XXVIII, § 2821](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2208](https://www.govinfo.gov/link/statute/112/2208); [Pub. L. 106–65, div. A, title X, § 1067(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 774](https://www.govinfo.gov/link/statute/113/774); [Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2812(a)–(e)]](https://www.govinfo.gov/link/plaw/106/public/398), Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–416 to 1654A–418; [Pub. L. 107–107, div. A, title X, § 1013](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1212](https://www.govinfo.gov/link/statute/115/1212); [Pub. L. 107–217, § 3(b)(12)](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1296](https://www.govinfo.gov/link/statute/116/1296); [Pub. L. 107–314, div. A, title X, § 1041(a)(18)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2645](https://www.govinfo.gov/link/statute/116/2645); [Pub. L. 108–136, div. A, title X, § 1043(b)(15)](https://www.govinfo.gov/link/plaw/108/public/136), (c)(3), Nov. 24, 2003, [117 Stat. 1611](https://www.govinfo.gov/link/statute/117/1611), 1612; [Pub. L. 108–178, § 4(b)(4)](https://www.govinfo.gov/link/plaw/108/public/178), Dec. 15, 2003, [117 Stat. 2641](https://www.govinfo.gov/link/statute/117/2641); [Pub. L. 109–364, div. A, title VI, § 662](https://www.govinfo.gov/link/plaw/109/public/364), div. B, title XXVIII, § 2831, Oct. 17, 2006, [120 Stat. 2263](https://www.govinfo.gov/link/statute/120/2263), 2480; [Pub. L. 110–181, div. A, title X, § 1063(c)(13)](https://www.govinfo.gov/link/plaw/110/public/181), div. B, title XXVIII, § 2823, Jan. 28, 2008, [122 Stat. 323](https://www.govinfo.gov/link/statute/122/323), 544; [Pub. L. 110–417, div. B, title XXVIII](https://www.govinfo.gov/link/plaw/110/public/417), §§ 2812(a)–(d), (f)(1), 2831, Oct. 14, 2008, [122 Stat. 4725](https://www.govinfo.gov/link/statute/122/4725), 4726, 4728, 4732; [Pub. L. 111–84, div. A, title X, § 1073(a)(26)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2474](https://www.govinfo.gov/link/statute/123/2474); [Pub. L. 111–350, § 5(b)(44)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3846](https://www.govinfo.gov/link/statute/124/3846); [Pub. L. 111–383, div. A, title X, § 1075(b)(41)](https://www.govinfo.gov/link/plaw/111/public/383), div. B, title XXVIII, §§ 2811(g)–2813(a), Jan. 7, 2011, [124 Stat. 4371](https://www.govinfo.gov/link/statute/124/4371), 4463; [Pub. L. 112–239, div. B, title XXVII, § 2712(c)(2)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2145](https://www.govinfo.gov/link/statute/126/2145); [Pub. L. 113–66, div. B, title XXVIII, § 2812](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 1014](https://www.govinfo.gov/link/statute/127/1014); [Pub. L. 113–291, div. B, title XXVIII, § 2811](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3700](https://www.govinfo.gov/link/statute/128/3700); [Pub. L. 114–92, div. B, title XXVIII, § 2814](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 1175](https://www.govinfo.gov/link/statute/129/1175); [Pub. L. 115–91, div. A, title X, § 1081(a)(46)](https://www.govinfo.gov/link/plaw/115/public/91), (47), div. B, title XXVIII, §§ 2811(e), 2835, Dec. 12, 2017, [131 Stat. 1596](https://www.govinfo.gov/link/statute/131/1596), 1597, 1848, 1859; [Pub. L. 115–232, div. B, title XXVIII, § 2802(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2261](https://www.govinfo.gov/link/statute/132/2261); [Pub. L. 118–159, div. B, title XXVIII, § 2844](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2263](https://www.govinfo.gov/link/statute/138/2263).)*

@@ -3,9 +3,10 @@ title: "Section 10503 - Minimum standards for the elimination of corruption and 
 usc_title: 22
 usc_section: "10503"
 chapter: 112
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 10503"
-generated_at: "2026-03-30T02:55:05.477Z"
+generated_at: "2026-11-23T20:26:32.826Z"
+status: "active"
 ---
 
 # § 10503. Minimum standards for the elimination of corruption and assessment of efforts to combat corruption
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:55:05.477Z"
   - **(3)** The United Nations Convention against Transnational Organized Crime, done at New York November 15, 2000 .
   - **(4)** The United Nations Convention against Corruption, done at New York October 31, 2003 .
   - **(5)** Such other treaties or conventions ratified by the United States as the Secretary of State considers appropriate.
+
+## Source Credit
+
+*([Pub. L. 118–31, div. E, title LIV, § 5404](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 945](https://www.govinfo.gov/link/statute/137/945).)*

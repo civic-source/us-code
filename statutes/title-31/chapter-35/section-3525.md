@@ -3,9 +3,10 @@ title: "Section 3525 - Auditing nonappropriated fund activities"
 usc_title: 31
 usc_section: "3525"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 3525"
-generated_at: "2026-03-30T02:55:34.057Z"
+generated_at: "2026-11-23T20:26:51.782Z"
+status: "active"
 ---
 
 # § 3525. Auditing nonappropriated fund activities
@@ -20,3 +21,28 @@ generated_at: "2026-03-30T02:55:34.057Z"
     - **(B)** specifically requests a report for another fund and related activities; and
   - **(2)** a statement on the yearly financial operations, financial condition, and cash flow and other yearly information about the fund and related activities that the head of the agency and the Comptroller General agree on if the information is not included in the annual report.
 - **(c)** Records and property of a fund and related activities subject to this section shall be made available to the Comptroller General to the extent the Comptroller General considers necessary.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3525(a) | 31:135(a)(1st sentence). | Jan. 2, 1975 , Pub. L. 93–604, § 301 , 88 Stat. 1961 . |
+| 3525(b) | 31:135(b). |  |
+| 3525(c) | 31:135(a)(last sentence). |  |
+
+
+Historical and Revision Notes
+
+3525(a)
+
+Jan. 2, 1975
+
+Pub. L. 93–604, § 301
+
+88 Stat. 1961
+
+3525(b)
+
+3525(c)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 963](https://www.govinfo.gov/link/statute/96/963).)*

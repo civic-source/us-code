@@ -3,9 +3,10 @@ title: "Section 5373 - Limitation on pay fixed by administrative action"
 usc_title: 5
 usc_section: "5373"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 5373"
-generated_at: "2026-03-30T02:52:56.016Z"
+generated_at: "2026-11-23T20:25:31.916Z"
+status: "active"
 ---
 
 # § 5373. Limitation on pay fixed by administrative action
@@ -17,3 +18,28 @@ generated_at: "2026-03-30T02:52:56.016Z"
   - **(4)** 2 2 So in original. Two pars. (4) have been enacted. section 4802.
   - **(4)** 2 section 2(a)(7) of the Commodity Exchange Act ( 7 U.S.C. 2(a)(7) ).
 - **(b)** Subsection (a) shall not affect the authority of the Secretary of Defense or the Secretary of a military department to fix the pay of a civilian employee paid from nonappropriated funds, except that the annual rate of basic pay (including any portion of such pay attributable to comparability with private-sector pay in a locality) of such an employee may not be fixed at a rate greater than the rate for level III of the Executive Schedule.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 2212 . | Aug. 14, 1964 , Pub. L. 88–426, § 308 , 78 Stat. 432 . Oct. 6, 1964 , Pub. L. 88–631, § 3(e) , 78 Stat. 1008 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 2212
+
+Aug. 14, 1964
+
+Pub. L. 88–426, § 308
+
+78 Stat. 432
+
+Oct. 6, 1964
+
+Pub. L. 88–631, § 3(e)
+
+78 Stat. 1008
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 473](https://www.govinfo.gov/link/statute/80/473), § 5363; renumbered § 5373, [Pub. L. 95–454, title VIII, § 801(a)(3)(A)(ii)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1221](https://www.govinfo.gov/link/statute/92/1221); [Pub. L. 96–70, title III, § 3302(e)(4)](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 498](https://www.govinfo.gov/link/statute/93/498); [Pub. L. 101–73, title VII, § 742(b)](https://www.govinfo.gov/link/plaw/101/public/73), title XII, § 1209, Aug. 9, 1989, [103 Stat. 437](https://www.govinfo.gov/link/statute/103/437), 523; [Pub. L. 101–509, title V, § 529 [title I, § 101(b)(9)(H)]](https://www.govinfo.gov/link/plaw/101/public/509), Nov. 5, 1990, [104 Stat. 1427](https://www.govinfo.gov/link/statute/104/1427), 1441; [Pub. L. 104–201, div. C, title XXXV, § 3548(a)(4)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2868](https://www.govinfo.gov/link/statute/110/2868); [Pub. L. 106–65, div. A, title XI, § 1102](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 776](https://www.govinfo.gov/link/statute/113/776); [Pub. L. 107–123, § 8(d)(1)(C)](https://www.govinfo.gov/link/plaw/107/public/123), Jan. 16, 2002, [115 Stat. 2399](https://www.govinfo.gov/link/statute/115/2399); [Pub. L. 107–171, title X, § 10702(c)(3)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 517](https://www.govinfo.gov/link/statute/116/517).)*

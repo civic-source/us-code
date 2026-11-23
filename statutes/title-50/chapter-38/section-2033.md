@@ -3,9 +3,10 @@ title: "Section 2033 - Election of survivor benefits for certain former spouses 
 usc_title: 50
 usc_section: "2033"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 2033"
-generated_at: "2026-03-30T02:56:26.217Z"
+generated_at: "2026-11-23T20:27:30.819Z"
+status: "active"
 ---
 
 # § 2033. Election of survivor benefits for certain former spouses divorced as of November 15, 1982
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:26.217Z"
   - **(2)** Such reduction shall be effective as of—
     - **(A)** the commencing date of the participant’s annuity, in the case of an election under subsection (b)(1); or
     - **(B)** November 15, 1982 , in the case of an election under subsection (b)(2).
+
+## Source Credit
+
+*([Pub. L. 88–643, title II, § 223](https://www.govinfo.gov/link/plaw/88/public/643), as added [Pub. L. 102–496, title VIII, § 802](https://www.govinfo.gov/link/plaw/102/public/496), Oct. 24, 1992, [106 Stat. 3216](https://www.govinfo.gov/link/statute/106/3216).)*

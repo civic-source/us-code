@@ -3,9 +3,10 @@ title: "Section 329 - Limitations on outside activities"
 usc_title: 31
 usc_section: "329"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 329"
-generated_at: "2026-03-30T02:55:34.045Z"
+generated_at: "2026-11-23T20:26:51.662Z"
+status: "active"
 ---
 
 # § 329. Limitations on outside activities
@@ -24,3 +25,19 @@ generated_at: "2026-03-30T02:55:34.045Z"
     - **(A)** carry on a trade or business in the funds, debts, or property of a State or the Government; and
     - **(B)** personally use a benefit gained from conducting business of the Department.
   - **(2)** An officer or employee violating this subsection shall be fined $500 and removed from office.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 329(a) | 31:163, 1003. | R.S. § 243. |
+| 329(b) | 31:1018. | R.S. § 244. |
+
+
+Historical and Revision Notes
+
+329(a)
+
+329(b)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 884](https://www.govinfo.gov/link/statute/96/884).)*

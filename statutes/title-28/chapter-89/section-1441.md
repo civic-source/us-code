@@ -3,9 +3,10 @@ title: "Section 1441 - Removal of civil actions"
 usc_title: 28
 usc_section: "1441"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 1441"
-generated_at: "2026-03-30T02:55:30.140Z"
+generated_at: "2026-11-23T20:26:36.449Z"
+status: "active"
 ---
 
 # § 1441. Removal of civil actions
@@ -30,3 +31,19 @@ generated_at: "2026-03-30T02:55:30.140Z"
   - **(5)** An action removed under this subsection shall be deemed to be an action under section 1369 and an action in which jurisdiction is based on section 1369 of this title for purposes of this section and sections 1407, 1697, and 1785 of this title.
   - **(6)** Nothing in this subsection shall restrict the authority of the district court to transfer or dismiss an action on the ground of inconvenient forum.
 - **(f)** The court to which a civil action is removed under this section is not precluded from hearing and determining any claim in such civil action because the State court from which such civil action is removed did not have jurisdiction over that claim.
+
+Generally
+
+Removal Based on Diversity of Citizenship
+
+Joinder of Federal Law Claims and State Law Claims
+
+Actions Against Foreign States
+
+Multiparty, Multiforum Jurisdiction
+
+Derivative Removal Jurisdiction
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 937](https://www.govinfo.gov/link/statute/62/937); [Pub. L. 94–583, § 6](https://www.govinfo.gov/link/plaw/94/public/583), Oct. 21, 1976, [90 Stat. 2898](https://www.govinfo.gov/link/statute/90/2898); [Pub. L. 99–336, § 3(a)](https://www.govinfo.gov/link/plaw/99/public/336), June 19, 1986, [100 Stat. 637](https://www.govinfo.gov/link/statute/100/637); [Pub. L. 100–702, title X, § 1016(a)](https://www.govinfo.gov/link/plaw/100/public/702), Nov. 19, 1988, [102 Stat. 4669](https://www.govinfo.gov/link/statute/102/4669); [Pub. L. 101–650, title III, § 312](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5114](https://www.govinfo.gov/link/statute/104/5114); [Pub. L. 102–198, § 4](https://www.govinfo.gov/link/plaw/102/public/198), Dec. 9, 1991, [105 Stat. 1623](https://www.govinfo.gov/link/statute/105/1623); [Pub. L. 107–273, div. C, title I, § 11020(b)(3)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1827](https://www.govinfo.gov/link/statute/116/1827); [Pub. L. 112–63, title I, § 103(a)](https://www.govinfo.gov/link/plaw/112/public/63), Dec. 7, 2011, [125 Stat. 759](https://www.govinfo.gov/link/statute/125/759).)*

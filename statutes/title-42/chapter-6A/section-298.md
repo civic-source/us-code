@@ -3,9 +3,10 @@ title: "Section 298 - Comprehensive geriatric education"
 usc_title: 42
 usc_section: "298"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 298"
-generated_at: "2026-03-30T02:56:10.784Z"
+generated_at: "2026-11-23T20:27:20.416Z"
+status: "active"
 ---
 
 # § 298. Comprehensive geriatric education
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:10.784Z"
 - **(c)** An eligible entity desiring a grant under subsection (a) shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require.
 - **(d)** For purposes of this section, the term “eligible entity” includes a school of nursing, a health care facility, a program leading to certification as a certified nurse assistant, a partnership of such a school and facility, or a partnership of such a program and facility.
 - **(e)** There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2010 through 2014.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VIII, § 865, formerly § 855, as added [Pub. L. 107–205, title II, § 202(a)](https://www.govinfo.gov/link/plaw/107/public/205), Aug. 1, 2002, [116 Stat. 816](https://www.govinfo.gov/link/statute/116/816); renumbered § 865 and amended [Pub. L. 111–148, title V](https://www.govinfo.gov/link/plaw/111/public/148), §§ 5305(c), 5310(b)(10)(A), Mar. 23, 2010, [124 Stat. 625](https://www.govinfo.gov/link/statute/124/625), 631.)*

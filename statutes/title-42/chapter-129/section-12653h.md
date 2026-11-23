@@ -3,9 +3,10 @@ title: "Section 12653h - National Service Reserve Corps"
 usc_title: 42
 usc_section: "12653h"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12653h"
-generated_at: "2026-03-30T02:56:11.425Z"
+generated_at: "2026-11-23T20:27:23.415Z"
+status: "active"
 ---
 
 # § 12653h. National Service Reserve Corps
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:56:11.425Z"
   - **(6)** In deploying National Service Reserve Corps members under this subsection, the Corporation shall—
     - **(A)** avoid duplication of activities directed by the Federal Emergency Management Agency; and
     - **(B)** consult and, as appropriate, partner with Citizen Corps programs and other local disaster agencies, including State and local emergency management agencies, voluntary organizations active in disaster, State Commissions, and similar organizations, in the affected area.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 198H](https://www.govinfo.gov/link/plaw/101/public/610), as added [Pub. L. 111–13, title I, § 1806](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1562](https://www.govinfo.gov/link/statute/123/1562).)*

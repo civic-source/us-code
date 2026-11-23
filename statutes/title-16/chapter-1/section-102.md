@@ -3,9 +3,10 @@ title: "Section 102 - Land exchanges, C. M. Otley and Otley Brothers"
 usc_title: 16
 usc_section: "102"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 102"
-generated_at: "2026-03-30T02:54:22.844Z"
+generated_at: "2026-11-23T20:26:20.031Z"
+status: "active"
 ---
 
 # § 460nnn–102. Land exchanges, C. M. Otley and Otley Brothers
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:22.844Z"
   - **(2)** As consideration for the conveyance of the Federal lands referred to in paragraph (1) and the disbursement referred to in subsection (3), the Otley Brother’s, Inc., shall convey to the Secretary a parcel of land in the headwaters of Kiger gorge consisting of approximately 505 acres, as depicted on the map referred to in section 460nnn–105(a) of this title , for inclusion in the Wilderness Area and the no livestock grazing area as appropriate.
   - **(3)** Upon completion of the land exchange authorized by this subsection, the Secretary is authorized to make a disbursement to Otley Brother’s, Inc., in the amount of $400,000.
 - **(c)** The Secretary shall complete the conveyances of the Federal lands under subsections (a) and (b) within 70 days after the Secretary accepts the lands described in such subsections.
+
+## Source Credit
+
+*([Pub. L. 106–399, title VI, § 602](https://www.govinfo.gov/link/plaw/106/public/399), Oct. 30, 2000, [114 Stat. 1671](https://www.govinfo.gov/link/statute/114/1671).)*

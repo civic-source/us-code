@@ -3,9 +3,10 @@ title: "Section 4462 - Definitions and special rules"
 usc_title: 26
 usc_section: "4462"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 4462"
-generated_at: "2026-03-30T02:55:27.803Z"
+generated_at: "2026-11-23T20:26:46.321Z"
+status: "active"
 ---
 
 # § 4462. Definitions and special rules
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:55:27.803Z"
   - **(2)** providing for the posting of bonds to secure payment of such tax,
   - **(3)** exempting any transaction or class of transactions from such tax where the collection of such tax is not administratively practical, and
   - **(4)** providing for the remittance or mitigation of penalties and the settlement or compromise of claims.
+
+## Source Credit
+
+*(Added [Pub. L. 99–662, title XIV, § 1402(a)](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4266](https://www.govinfo.gov/link/statute/100/4266); amended [Pub. L. 100–647, title II, § 2002(b)](https://www.govinfo.gov/link/plaw/100/public/647), title VI, §§ 6109(a), 6110(a), Nov. 10, 1988, [102 Stat. 3597](https://www.govinfo.gov/link/statute/102/3597), 3712; [Pub. L. 104–188, title I, § 1704(i)(1)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1881](https://www.govinfo.gov/link/statute/110/1881); [Pub. L. 109–59, title XI, § 11116(a)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1950](https://www.govinfo.gov/link/statute/119/1950).)*

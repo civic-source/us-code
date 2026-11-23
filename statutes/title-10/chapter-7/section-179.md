@@ -3,9 +3,10 @@ title: "Section 179 - Nuclear Weapons Council"
 usc_title: 10
 usc_section: "179"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 179"
-generated_at: "2026-03-30T02:53:38.044Z"
+generated_at: "2026-11-23T20:25:50.858Z"
+status: "active"
 ---
 
 # § 179. Nuclear Weapons Council
@@ -79,3 +80,29 @@ generated_at: "2026-03-30T02:53:38.044Z"
     - **(B)** except as provided by paragraph (2), a summary of any decisions made by the Council pursuant to subsection (d) at each such meeting and the rationale for and options that informed such decisions.
   - **(2)** The Council shall not be required to include in a semiannual update under paragraph (1) the matters described in subparagraph (B) of that paragraph with respect to decisions of the Council relating to the budget of the President for a fiscal year if the budget for that fiscal year has not been submitted to Congress under section 1105 of title 31 as of the date of the semiannual update.
   - **(3)** The Council may provide a semiannual update under paragraph (1) either in the form of a briefing or a written report.
+
+Establishment; Membership
+
+Chairman; Meetings
+
+Staff and Administrative Services; Staff Director
+
+Responsibilities
+
+Report on Difficulties Relating to Safety or Reliability
+
+Budget and Funding Matters
+
+Semiannual Updates on Council Meetings
+
+Attendance.—
+
+Requirement
+
+Officials described
+
+Exception
+
+## Source Credit
+
+*(Added [Pub. L. 99–661, div. C, title I, § 3137(a)(1)](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 4065](https://www.govinfo.gov/link/statute/100/4065); amended [Pub. L. 100–180, div. A, title XII, § 1231(2)](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1160](https://www.govinfo.gov/link/statute/101/1160); [Pub. L. 100–456, div. A, title XII, § 1233(h)](https://www.govinfo.gov/link/plaw/100/public/456), Sept. 29, 1988, [102 Stat. 2058](https://www.govinfo.gov/link/statute/102/2058); [Pub. L. 102–484, div. C, title XXXI, § 3133](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2639](https://www.govinfo.gov/link/statute/106/2639); [Pub. L. 103–160, div. A, title IX, § 904(d)(1)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1728](https://www.govinfo.gov/link/statute/107/1728); [Pub. L. 103–337, div. C, title XXXI, § 3152](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 3090](https://www.govinfo.gov/link/statute/108/3090); [Pub. L. 104–106, div. A, title IX, § 904(b)(1)](https://www.govinfo.gov/link/plaw/104/public/106), title XV, § 1502(a)(7), Feb. 10, 1996, [110 Stat. 403](https://www.govinfo.gov/link/statute/110/403), 502; [Pub. L. 106–65, div. A, title X, § 1067(1)](https://www.govinfo.gov/link/plaw/106/public/65), div. C, title XXXI, § 3163(a), (c), Oct. 5, 1999, [113 Stat. 774](https://www.govinfo.gov/link/statute/113/774), 944; [Pub. L. 106–398, § 1 [div. C, title XXXI, § 3152(a)]](https://www.govinfo.gov/link/plaw/106/public/398), Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–464; [Pub. L. 107–107, div. A, title X, § 1048(b)(2)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1225](https://www.govinfo.gov/link/statute/115/1225); [Pub. L. 107–314, div. D, title XLII, § 4213(c)](https://www.govinfo.gov/link/plaw/107/public/314), formerly [Pub. L. 104–201, div. C, title XXXI, § 3159(c)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2842](https://www.govinfo.gov/link/statute/110/2842), renumbered [§ 4213(c) of Pub. L. 107–314](https://www.govinfo.gov/link/plaw/107/public/314) by [Pub. L. 108–136, div. C, title XXXI, § 3141(e)(14)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1760](https://www.govinfo.gov/link/statute/117/1760); [Pub. L. 108–375, div. A, title IX, § 902(a)](https://www.govinfo.gov/link/plaw/108/public/375) –(d), Oct. 28, 2004, [118 Stat. 2025](https://www.govinfo.gov/link/statute/118/2025); [Pub. L. 109–364, div. A, title IX, § 903](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2351](https://www.govinfo.gov/link/statute/120/2351); [Pub. L. 111–383, div. A, title IX, § 901(j)(1)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4324](https://www.govinfo.gov/link/statute/124/4324); [Pub. L. 112–239, div. A, title X, § 1039](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1927](https://www.govinfo.gov/link/statute/126/1927); [Pub. L. 113–66, div. A, title X](https://www.govinfo.gov/link/plaw/113/public/66), §§ 1053, 1091(a)(3), Dec. 26, 2013, [127 Stat. 861](https://www.govinfo.gov/link/statute/127/861), 875; [Pub. L. 113–291, div. A, title XVI, § 1641](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3648](https://www.govinfo.gov/link/statute/128/3648); [Pub. L. 114–92, div. A, title X, § 1076(a)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 997](https://www.govinfo.gov/link/statute/129/997); [Pub. L. 115–91, div. A, title X, § 1081(a)(14)](https://www.govinfo.gov/link/plaw/115/public/91), title XVI, § 1653, Dec. 12, 2017, [131 Stat. 1595](https://www.govinfo.gov/link/statute/131/1595), 1758; [Pub. L. 115–232, div. A, title XVI, § 1661](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2152](https://www.govinfo.gov/link/statute/132/2152); [Pub. L. 116–92, div. A, title XVI, § 1663](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1772](https://www.govinfo.gov/link/statute/133/1772); [Pub. L. 116–283, div. A, title XVI](https://www.govinfo.gov/link/plaw/116/public/283), §§ 1631(a), 1632(a), Jan. 1, 2021, [134 Stat. 4056](https://www.govinfo.gov/link/statute/134/4056), 4057; [Pub. L. 117–263, div. A, title XVI, § 1633(a)](https://www.govinfo.gov/link/plaw/117/public/263), (b), (d), Dec. 23, 2022, [136 Stat. 2935](https://www.govinfo.gov/link/statute/136/2935), 2936, 2938; [Pub. L. 118–159, div. A, title XVI, § 1621(d)(1)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2171](https://www.govinfo.gov/link/statute/138/2171); [Pub. L. 119–60, div. A, title XVI, § 1631](https://www.govinfo.gov/link/plaw/119/public/60), div. C, title XXXI, § 3111(c)(1)(A), Dec. 18, 2025, [139 Stat. 1184](https://www.govinfo.gov/link/statute/139/1184), 1459.)*

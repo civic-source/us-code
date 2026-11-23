@@ -3,9 +3,10 @@ title: "Section 1600 - Congressional findings"
 usc_title: 16
 usc_section: "1600"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1600"
-generated_at: "2026-03-30T02:54:22.978Z"
+generated_at: "2026-11-23T20:26:20.529Z"
+status: "active"
 ---
 
 # § 1600. Congressional findings
@@ -19,3 +20,19 @@ The Congress finds that—
   - **(5)** inasmuch as the majority of the Nation’s forests and rangeland is under private, State, and local governmental management and the Nation’s major capacity to produce goods and services is based on these nonfederally managed renewable resources, the Federal Government should be a catalyst to encourage and assist these owners in the efficient long-term use and improvement of these lands and their renewable resources consistent with the principles of sustained yield and multiple use;
   - **(6)** the Forest Service, by virtue of its statutory authority for management of the National Forest System, research and cooperative programs, and its role as an agency in the Department of Agriculture, has both a responsibility and an opportunity to be a leader in assuring that the Nation maintains a natural resource conservation posture that will meet the requirements of our people in perpetuity; and
   - **(7)** recycled timber product materials are as much a part of our renewable forest resources as are the trees from which they originally came, and in order to extend our timber and timber fiber resources and reduce pressures for timber production from Federal lands, the Forest Service should expand its research in the use of recycled and waste timber product materials, develop techniques for the substitution of these secondary materials for primary materials, and promote and encourage the use of recycled timber product materials.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Doanld J. Trump.
+
+## Source Credit
+
+*([Pub. L. 93–378, § 2](https://www.govinfo.gov/link/plaw/93/public/378), as added [Pub. L. 94–588, § 2](https://www.govinfo.gov/link/plaw/94/public/588), Oct. 22, 1976, [90 Stat. 2949](https://www.govinfo.gov/link/statute/90/2949).)*

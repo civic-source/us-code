@@ -3,9 +3,10 @@ title: "Section 5622 - Definitions"
 usc_title: 12
 usc_section: "5622"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5622"
-generated_at: "2026-03-30T02:53:53.549Z"
+generated_at: "2026-11-23T20:25:59.536Z"
+status: "active"
 ---
 
 # § 5622. Definitions
@@ -21,3 +22,7 @@ In this subchapter, the following definitions shall apply:
     - **(D)** a State, local, or tribal government entity; or
     - **(E)** a partnership or other joint venture comprised of 1 or more of the entities described in subparagraphs (A) through (D), in accordance with regulations prescribed by the Secretary under this subchapter.
   - **(4)** The term “federally insured depository institution” means any insured depository institution (as that term is defined in section 1813 of this title ) and any insured credit union (as that term is defined in section 1752 of this title ).
+
+## Source Credit
+
+*([Pub. L. 111–203, title XII, § 1203](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2129](https://www.govinfo.gov/link/statute/124/2129).)*

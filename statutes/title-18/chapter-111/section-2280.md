@@ -3,9 +3,10 @@ title: "Section 2280 - Violence against maritime navigation"
 usc_title: 18
 usc_section: "2280"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2280"
-generated_at: "2026-03-30T02:54:16.500Z"
+generated_at: "2026-11-23T20:26:08.585Z"
+status: "active"
 ---
 
 # § 2280. Violence against maritime navigation
@@ -85,3 +86,29 @@ generated_at: "2026-03-30T02:54:16.500Z"
 - **(g)**
   - **(1)** Any real or personal property used or intended to be used to commit or to facilitate the commission of a violation of this section, the gross proceeds of such violation, and any real or personal property traceable to such property or proceeds, shall be subject to forfeiture.
   - **(2)** Seizures and forfeitures under this section shall be governed by the provisions of chapter 46 of title 18, United States Code, relating to civil forfeitures, except that such duties as are imposed upon the Secretary of the Treasury under the customs laws described in section 981(d) shall be performed by such officers, agents, and other persons as may be designated for that purpose by the Secretary of Homeland Security, the Attorney General, or the Secretary of Defense.
+
+Offenses.—
+
+In general
+
+Threat to navigation
+
+Jurisdiction
+
+Bar To Prosecution
+
+Definitions
+
+Exceptions
+
+Delivery of Suspected Offender
+
+Civil Forfeiture
+
+Applicable Procedures
+
+“This section [enacting this section and section 2281 of this title ] and the amendments made by this section shall take effect on the later of—
+
+## Source Credit
+
+*(Added [Pub. L. 103–322, title VI, § 60019(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1975](https://www.govinfo.gov/link/statute/108/1975); amended [Pub. L. 104–132, title VII](https://www.govinfo.gov/link/plaw/104/public/132), §§ 722, 723(a)(1), Apr. 24, 1996, [110 Stat. 1299](https://www.govinfo.gov/link/statute/110/1299), 1300; [Pub. L. 114–23, title VIII, § 801](https://www.govinfo.gov/link/plaw/114/public/23), June 2, 2015, [129 Stat. 300](https://www.govinfo.gov/link/statute/129/300).)*

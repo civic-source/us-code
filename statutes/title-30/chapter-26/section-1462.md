@@ -3,9 +3,10 @@ title: "Section 1462 - Civil penalties"
 usc_title: 30
 usc_section: "1462"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1462"
-generated_at: "2026-03-30T02:55:29.405Z"
+generated_at: "2026-11-23T20:26:35.046Z"
+status: "active"
 ---
 
 # § 1462. Civil penalties
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:29.405Z"
 - **(b)** Any person subject to section 1461 of this title against whom a civil penalty is assessed under subsection (a) may obtain review thereof in an appropriate district court of the United States by filing a notice of appeal in such court within 30 days from the date of such order and by simultaneously sending a copy of such notice by certified mail to the Administrator. The Administrator shall promptly file in such court a certified copy of the record upon which the particular violation was found and such penalty was imposed, as provided in section 2112 of title 28 . The findings and order of the Administrator shall be set aside by such court if they are not found to be supported by substantial evidence, as provided in section 706(2)(E) of title 5 .
 - **(c)** If any person subject to section 1461 of this title fails to pay a civil penalty assessed against such person after the penalty has become final, or after the appropriate court has entered final judgment in favor of the Administrator, the Administrator shall refer the matter to the Attorney General of the United States, who shall recover the civil penalty assessed in any appropriate district court of the United States. In such action, the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
 - **(d)** The Administrator may compromise, modify, or remit, with or without conditions, any civil penalty which is subject to imposition or which has been imposed under this section unless an action brought under subsection (b) or (c) is pending in a court of the United States.
+
+## Source Credit
+
+*([Pub. L. 96–283, title III, § 302](https://www.govinfo.gov/link/plaw/96/public/283), June 28, 1980, [94 Stat. 577](https://www.govinfo.gov/link/statute/94/577).)*

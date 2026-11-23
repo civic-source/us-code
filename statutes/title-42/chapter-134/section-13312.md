@@ -3,9 +3,10 @@ title: "Section 13312 - Renewable energy export technology training"
 usc_title: 42
 usc_section: "13312"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13312"
-generated_at: "2026-03-30T02:56:11.441Z"
+generated_at: "2026-11-23T20:27:23.477Z"
+status: "active"
 ---
 
 # § 13312. Renewable energy export technology training
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:56:11.441Z"
 - **(a)** The Secretary, through the Agency for International Development, shall establish a program for the training of individuals from developing countries in the operation and maintenance of renewable energy and energy efficiency technologies in accordance with this section. The Secretary and the Administrator of the Agency for International Development shall, within one year after October 24, 1992 , enter into a written agreement to carry out this program.
 - **(b)** The purpose of the program established under this section shall be to train appropriate persons in the system design, operation, and maintenance of renewable energy and energy efficiency equipment manufactured in the United States, including equipment for water pumping, heating and purification, and the production of electric power in remote areas.
 - **(c)** There are authorized to be appropriated to the Secretary $6,000,000 for each of the fiscal years 1994, 1995, and 1996, to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XII, § 1203](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2961](https://www.govinfo.gov/link/statute/106/2961).)*

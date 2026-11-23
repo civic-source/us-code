@@ -3,9 +3,10 @@ title: "Section 902 - Enforcement and arrest authority of Department police offi
 usc_title: 38
 usc_section: "902"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 902"
-generated_at: "2026-03-30T02:55:53.476Z"
+generated_at: "2026-11-23T20:27:01.585Z"
+status: "active"
 ---
 
 # § 902. Enforcement and arrest authority of Department police officers
@@ -51,3 +52,31 @@ generated_at: "2026-03-30T02:55:53.476Z"
     - **(C)** An incident described in this subparagraph is either of the following:
       - **(i)** An incident, including an allegation, of the use of force by a Department police officer.
       - **(ii)** An incident, including an allegation, of the use of force by a Department police officer that results in any person receiving medical attention.
+
+Police Incidents
+
+Guidance
+
+Consultation
+
+Definitions
+
+Body worn camera
+
+Department police officer
+
+Training
+
+Curriculum
+
+Consultation
+
+Plan on Community Partnerships
+
+Report
+
+Department Police Officer Defined
+
+## Source Credit
+
+*(Added [Pub. L. 102–83, § 2(a)](https://www.govinfo.gov/link/plaw/102/public/83), Aug. 6, 1991, [105 Stat. 397](https://www.govinfo.gov/link/statute/105/397); amended [Pub. L. 111–163, title X, § 1001](https://www.govinfo.gov/link/plaw/111/public/163), May 5, 2010, [124 Stat. 1181](https://www.govinfo.gov/link/statute/124/1181); [Pub. L. 117–328, div. U, title IV, § 405(a)](https://www.govinfo.gov/link/plaw/117/public/328), (b)(1), (c), Dec. 29, 2022, [136 Stat. 5491](https://www.govinfo.gov/link/statute/136/5491), 5492.)*

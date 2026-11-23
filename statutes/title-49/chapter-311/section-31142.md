@@ -3,9 +3,10 @@ title: "Section 31142 - Inspection of vehicles"
 usc_title: 49
 usc_section: "31142"
 chapter: 311
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 31142"
-generated_at: "2026-03-30T02:56:19.359Z"
+generated_at: "2026-11-23T20:27:34.955Z"
+status: "active"
 ---
 
 # § 31142. Inspection of vehicles
@@ -24,3 +25,69 @@ generated_at: "2026-03-30T02:56:19.359Z"
 - **(d)** A periodic inspection of a commercial motor vehicle under the Government standards prescribed under subsection (b) of this section or a program described in subsection (c)(1)(B) or (C) of this section that is being enforced shall be recognized as adequate in every State for the period of the inspection. This subsection does not prohibit a State from making random inspections of commercial motor vehicles.
 - **(e)** The Government standards prescribed under subsection (b) of this section may not be enforced as the standards apply to the inspection of commercial motor vehicles in a State enforcing a program described in subsection (c)(1)(B) or (C) of this section if the Secretary decides that it is in the public interest and consistent with public safety for the Government standards not to be enforced as they apply to that inspection.
 - **(f)** A State receiving financial assistance under section 31102 of this title in a fiscal year may enforce in that fiscal year a regulation on commercial motor vehicle safety adopted by the State as the regulation applies to commercial motor vehicles and operators leased to the Government.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 31142(a) | 49 App.:2509(a). | Oct. 30, 1984 , Pub. L. 98–554, § 210(a) –(f), 98 Stat. 2839 . |
+| 31142(b) | 49 App.:2509(b), (c). |  |
+| 31142(c) | 49 App.:2509(d). |  |
+| 31142(d) | 49 App.:2509(e). |  |
+| 31142(e) | 49 App.:2509(f). |  |
+| 31142(f) | 49 App.:2509(g). | Oct. 30, 1984 , Pub. L. 98–554 , 98 Stat. 2829 , § 210(g); added Nov. 16, 1990 , Pub. L. 101–615, § 24 , 104 Stat. 3273 . |
+
+
+Inspection of Safety Equipment
+
+Inspection of Vehicles and Record Retention
+
+Preemption
+
+Inspection To Be Accepted as Adequate in All States
+
+Effect of Government Standards
+
+Application of State Regulations to Government-Leased Vehicles and Operators
+
+Historical and Revision Notes
+
+31142(a)
+
+Oct. 30, 1984
+
+Pub. L. 98–554, § 210(a)
+
+98 Stat. 2839
+
+31142(b)
+
+31142(c)
+
+31142(d)
+
+31142(e)
+
+31142(f)
+
+Oct. 30, 1984
+
+Pub. L. 98–554
+
+98 Stat. 2829
+
+Nov. 16, 1990
+
+Pub. L. 101–615, § 24
+
+104 Stat. 3273
+
+In General
+
+Final Rule.—
+
+In general
+
+Considerations
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1010](https://www.govinfo.gov/link/statute/108/1010); [Pub. L. 105–178, title IV, § 4008(f)](https://www.govinfo.gov/link/plaw/105/public/178), (g), June 9, 1998, [112 Stat. 405](https://www.govinfo.gov/link/statute/112/405).)*

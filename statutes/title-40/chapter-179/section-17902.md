@@ -3,9 +3,10 @@ title: "Section 17902 - Sale of electric energy"
 usc_title: 40
 usc_section: "17902"
 chapter: 179
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 17902"
-generated_at: "2026-03-30T02:55:43.390Z"
+generated_at: "2026-11-23T20:26:56.725Z"
+status: "active"
 ---
 
 # § 17902. Sale of electric energy
@@ -18,3 +19,26 @@ generated_at: "2026-03-30T02:55:43.390Z"
 - **(b)** Federally generated electric energy sold by the head of a federal agency under subsection (a) shall be priced to recover the fuel and variable operation and maintenance costs of the facility generating the energy that are attributable to that sale, plus an amount equal to one-half the difference between—
   - **(1)** the costs of producing the electric energy by coal generation; and
   - **(2)** the costs of producing electric energy by the oil or gas generation being displaced.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 17902 | 40:795a. | Pub. L. 96–571, § 3 , Dec. 22, 1980 , 94 Stat. 3341 . |
+
+
+In General
+
+Pricing Policies
+
+Historical and Revision Notes
+
+17902
+
+Pub. L. 96–571, § 3
+
+Dec. 22, 1980
+
+94 Stat. 3341
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1289](https://www.govinfo.gov/link/statute/116/1289).)*

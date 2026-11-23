@@ -3,9 +3,10 @@ title: "Section 308 - Chief Acquisition Officer"
 usc_title: 14
 usc_section: "308"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 308"
-generated_at: "2026-03-30T02:53:51.487Z"
+generated_at: "2026-11-23T20:25:54.513Z"
+status: "active"
 ---
 
 # § 308. Chief Acquisition Officer
@@ -36,3 +37,17 @@ generated_at: "2026-03-30T02:53:51.487Z"
       - **(i)** significant cost growth or schedule slippage; and
       - **(ii)** requirements creep (as that term is defined in section 3104(c)(1) of title 10 ); and
     - **(C)** ensuring that the views of the Commandant regarding such programs on cost, schedule, technical feasibility, and performance trade-offs are strongly considered by program managers and program executive officers in all phases of the acquisition process.
+
+In General
+
+Qualifications.—
+
+Functions of the Chief Acquisition Officer
+
+Requirement to establish
+
+Subject to appropriations
+
+## Source Credit
+
+*(Added [Pub. L. 111–281, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2929](https://www.govinfo.gov/link/statute/124/2929), § 56; amended [Pub. L. 114–328, div. A, title VIII, § 899(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2332](https://www.govinfo.gov/link/statute/130/2332); renumbered § 308 and amended [Pub. L. 115–282, title I](https://www.govinfo.gov/link/plaw/115/public/282), §§ 104(b), 123(b)(2), (c)(4), Dec. 4, 2018, [132 Stat. 4196](https://www.govinfo.gov/link/statute/132/4196), 4240, 4241; [Pub. L. 117–81, div. A, title XVII, § 1702(d)(1)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2156](https://www.govinfo.gov/link/statute/135/2156); [Pub. L. 119–60, div. G, title LXXII, § 7201(b)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1675](https://www.govinfo.gov/link/statute/139/1675).)*

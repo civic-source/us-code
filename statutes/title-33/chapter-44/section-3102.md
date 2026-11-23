@@ -3,9 +3,10 @@ title: "Section 3102 - National Oceanic and Atmospheric Administration Oceans an
 usc_title: 33
 usc_section: "3102"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 3102"
-generated_at: "2026-03-30T02:55:41.138Z"
+generated_at: "2026-11-23T20:26:54.251Z"
+status: "active"
 ---
 
 # § 3102. National Oceanic and Atmospheric Administration Oceans and Human Health Initiative
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:41.138Z"
   - **(1)** The Secretary is authorized to provide grants of financial assistance to the scientific community for critical research and projects that explore the relationship between the oceans and human health and that complement or strengthen programs and activities of the National Oceanic and Atmospheric Administration related to the ocean’s 1 1 So in original. Probably should be “oceans’ ”. role in human health. Officers and employees of Federal agencies may collaborate with, and participate in, such research and projects to the extent requested by the grant recipient. The Secretary shall consult with the oceans and human health advisory panel established under subsection (b) and may work cooperatively with other agencies participating in the interagency program to establish joint criteria for such research and projects.
   - **(2)** Grants under this subsection shall be awarded through a competitive peer-reviewed, merit-based process that may be conducted jointly with other agencies participating in the interagency program.
 - **(e)** The Secretary of Commerce is authorized to establish a program to provide traineeships, training, and experience to pre-doctoral and post-doctoral students and to scientists at the beginning of their careers who are interested in the oceans in human health research conducted under the NOAA initiative.
+
+## Source Credit
+
+*([Pub. L. 108–447, div. B, title IX, § 903](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 2933](https://www.govinfo.gov/link/statute/118/2933); [Pub. L. 117–286, § 4(a)(206)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4328](https://www.govinfo.gov/link/statute/136/4328).)*

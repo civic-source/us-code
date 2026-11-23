@@ -3,9 +3,10 @@ title: "Section 1532 - Statements to accompany significant regulatory actions"
 usc_title: 2
 usc_section: "1532"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1532"
-generated_at: "2026-03-30T02:53:04.815Z"
+generated_at: "2026-11-23T20:25:28.976Z"
+status: "active"
 ---
 
 # § 1532. Statements to accompany significant regulatory actions
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:04.815Z"
     - **(C)** a summary of the agency’s evaluation of those comments and concerns.
 - **(b)** In promulgating a general notice of proposed rulemaking or a final rule for which a statement under subsection (a) is required, the agency shall include in the promulgation a summary of the information contained in the statement.
 - **(c)** Any agency may prepare any statement required under subsection (a) in conjunction with or as a part of any other statement or analysis, provided that the statement or analysis satisfies the provisions of subsection (a).
+
+## Source Credit
+
+*([Pub. L. 104–4, title II, § 202](https://www.govinfo.gov/link/plaw/104/public/4), Mar. 22, 1995, [109 Stat. 64](https://www.govinfo.gov/link/statute/109/64).)*

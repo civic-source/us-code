@@ -3,9 +3,10 @@ title: "Section 6334 - Concentration grants to local educational agencies"
 usc_title: 20
 usc_section: "6334"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 6334"
-generated_at: "2026-03-30T02:54:48.196Z"
+generated_at: "2026-11-23T20:26:14.829Z"
+status: "active"
 ---
 
 # § 6334. Concentration grants to local educational agencies
@@ -30,3 +31,11 @@ generated_at: "2026-03-30T02:54:48.196Z"
 - **(b)** In any State for which on January 8, 2002 , the number of children counted under section 6333(c) of this title is less than 0.25 percent of the number of those children counted for all States, the State educational agency shall allocate funds under this section among the local educational agencies in the State either—
   - **(1)** in accordance with paragraphs (2) and (4) of subsection (a); or
   - **(2)** based on their respective concentrations and numbers of children counted under section 6333(c) of this title , except that only those local educational agencies with concentrations or numbers of children counted under section 6333(c) of this title that exceed the statewide average percentage of such children or the statewide average number of such children shall receive any funds on the basis of this paragraph.
+
+(aa) $340,000; or
+
+(bb) the number of children in such State counted for purposes of this section in that fiscal year multiplied by 150 percent of the national average per-pupil payment made with funds available under this section for that year.
+
+## Source Credit
+
+*([Pub. L. 89–10, title I, § 1124A](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 107–110, title I, § 101](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1521](https://www.govinfo.gov/link/statute/115/1521).)*

@@ -3,9 +3,10 @@ title: "Section 116 - National Surface Transportation and Innovative Finance Bur
 usc_title: 49
 usc_section: "116"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 116"
-generated_at: "2026-03-30T02:56:19.296Z"
+generated_at: "2026-11-23T20:27:34.509Z"
+status: "active"
 ---
 
 # § 116. National Surface Transportation and Innovative Finance Bureau
@@ -112,3 +113,171 @@ generated_at: "2026-03-30T02:56:19.296Z"
   - **(4)** The term “Executive Director” means the Executive Director of the Bureau.
   - **(5)** The term “multimodal project” means a project involving the participation of more than 1 modal administration or secretarial office within the Department.
   - **(6)** The term “project” means a highway project, public transportation capital project, freight or passenger rail project, or multimodal project.
+
+Establishment
+
+Purposes
+
+Executive Director.—
+
+Appointment
+
+Duties
+
+Administration of Certain Application Processes.—
+
+In general
+
+Congressional notification
+
+Reports
+
+Coordination
+
+Streamlining approval processes
+
+Procedures and transparency.—
+
+Procedures
+
+Review.—
+
+In general
+
+Recommendations
+
+Report
+
+Innovative Financing Best Practices.—
+
+In general
+
+Activities
+
+Transparency
+
+Support to project sponsors
+
+Environmental Review and Permitting.—
+
+In general
+
+Activities
+
+Support to project sponsors
+
+Project Procurement.—
+
+In general
+
+Procurement benchmarks
+
+Data collection
+
+Elimination and Consolidation of Duplicative Offices.—
+
+Elimination of offices
+
+Consolidation of offices and office functions
+
+Staffing and budgetary resources.—
+
+In general
+
+Staffing
+
+Savings provision
+
+Budgetary resources.—
+
+Transfer of funds from eliminated or consolidated offices
+
+Transfer of funds allocated to administrative costs
+
+Notification
+
+Savings Provisions.—
+
+Laws and regulations
+
+Responsibilities
+
+Applicability
+
+Definitions
+
+Bureau
+
+Department
+
+Eligible entity
+
+Executive director
+
+Multimodal project
+
+Project
+
+Definitions
+
+Build america bureau
+
+Eligible entity
+
+Eligible program
+
+Pilot program
+
+Establishment.—
+
+In general
+
+Assistance and information
+
+Assistance From Expert Firms
+
+Website.—
+
+Description of pilot program.—
+
+In general
+
+Clearinghouse
+
+Applications.—
+
+In general
+
+Online portal
+
+Approval.—
+
+In general
+
+Additional written notification.—
+
+In general
+
+Disapproved applications
+
+Insufficient applications
+
+Dashboard
+
+Experts
+
+Funding.—
+
+In general
+
+Limitation
+
+Geographical distribution
+
+Sunset
+
+Nonapplicability
+
+## Source Credit
+
+*(Added [Pub. L. 114–94, div. A, title IX, § 9001(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1612](https://www.govinfo.gov/link/statute/129/1612); amended [Pub. L. 115–56, div. D, § 164(a)](https://www.govinfo.gov/link/plaw/115/public/56), as added [Pub. L. 115–123, div. B, § 20101(2)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 121](https://www.govinfo.gov/link/statute/132/121); [Pub. L. 117–58, div. B, title I](https://www.govinfo.gov/link/plaw/117/public/58), §§ 21101(d)(4), 21205(i), 21301(j)(4)(A), title V, § 25009(b), Nov. 15, 2021, [135 Stat. 657](https://www.govinfo.gov/link/statute/135/657), 682, 692, 854.)*

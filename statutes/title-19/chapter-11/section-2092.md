@@ -3,9 +3,10 @@ title: "Section 2092 - Export certification requirement"
 usc_title: 19
 usc_section: "2092"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2092"
-generated_at: "2026-03-30T02:54:24.663Z"
+generated_at: "2026-11-23T20:26:10.899Z"
+status: "active"
 ---
 
 # § 2092. Export certification requirement
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:24.663Z"
   - **(1)** the certificate of the government of the country of origin required under subsection (a) of this section;
   - **(2)** satisfactory evidence that such sculpture or mural was exported from the country of origin on or before the effective date of the regulation listing such sculpture or mural pursuant to section 2091 of this title ; or
   - **(3)** satisfactory evidence that such sculpture or mural is not covered by the list promulgated under section 2091 of this title ;
+
+## Source Credit
+
+*([Pub. L. 92–587, title II, § 202](https://www.govinfo.gov/link/plaw/92/public/587), Oct. 27, 1972, [86 Stat. 1297](https://www.govinfo.gov/link/statute/86/1297).)*

@@ -3,9 +3,10 @@ title: "Section 6612 - State of mind; bystander liability; control"
 usc_title: 15
 usc_section: "6612"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 6612"
-generated_at: "2026-03-30T02:54:08.212Z"
+generated_at: "2026-11-23T20:26:04.404Z"
+status: "active"
 ---
 
 # § 6612. State of mind; bystander liability; control
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:08.212Z"
   - **(3)** For purposes of paragraph (1)(C), claims in which the defendant’s actual or constructive awareness of an actual or potential Y2K failure is an element of the claim under applicable law do not include claims for negligence but do include claims such as fraud, constructive fraud, breach of fiduciary duty, negligent misrepresentation, and interference with contract or economic advantage.
 - **(c)** The fact that a Y2K failure occurred in an entity, facility, system, product, or component that was sold, leased, rented, or otherwise within the control of the party against whom a claim is asserted in a Y2K action shall not constitute the sole basis for recovery of damages in that action. A claim in a Y2K action for breach or repudiation of contract for such a failure is governed by the terms of the contract.
 - **(d)** The protections for the exchanges of information provided by section 4 of the Year 2000 Information and Readiness Disclosure Act ( Public Law 105–271 ) shall apply to any Y2K action.
+
+## Source Credit
+
+*([Pub. L. 106–37, § 13](https://www.govinfo.gov/link/plaw/106/public/37), July 20, 1999, [113 Stat. 200](https://www.govinfo.gov/link/statute/113/200).)*

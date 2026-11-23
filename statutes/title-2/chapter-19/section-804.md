@@ -3,9 +3,10 @@ title: "Section 804 - Administration"
 usc_title: 2
 usc_section: "804"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 804"
-generated_at: "2026-03-30T02:53:04.803Z"
+generated_at: "2026-11-23T20:25:28.920Z"
+status: "active"
 ---
 
 # § 804. Administration
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:04.803Z"
   - **(2)**
     - **(A)** The independent public accountant conducting the annual audit of the financial records of the Board pursuant to section 807(a) of this title shall determine for each fiscal year whether the Director has substantially complied with paragraph (1). The findings made by the independent public accountant under the preceding sentence shall be included in the reports submitted under section 807(b) of this title .
     - **(B)** If the Director fails to substantially comply with paragraph (1), the Board shall instruct the Director to take such actions as may be necessary to correct such deficiencies, and shall remove and replace the Director if such deficiencies are not promptly corrected.
+
+## Source Credit
+
+*([Pub. L. 96–114, title I, § 104](https://www.govinfo.gov/link/plaw/96/public/114), formerly § 5, Nov. 16, 1979, [93 Stat. 853](https://www.govinfo.gov/link/statute/93/853); [Pub. L. 102–457, § 2](https://www.govinfo.gov/link/plaw/102/public/457), Oct. 23, 1992, [106 Stat. 2265](https://www.govinfo.gov/link/statute/106/2265); [Pub. L. 104–208, div. A, title V, § 5401(a)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–511](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 106–63, § 1(c)](https://www.govinfo.gov/link/plaw/106/public/63), Oct. 1, 1999, [113 Stat. 510](https://www.govinfo.gov/link/statute/113/510); renumbered title I, § 104, [Pub. L. 106–533, § 1(b)(1)](https://www.govinfo.gov/link/plaw/106/public/533), (2), Nov. 22, 2000, [114 Stat. 2553](https://www.govinfo.gov/link/statute/114/2553); [Pub. L. 109–143, § 1(a)](https://www.govinfo.gov/link/plaw/109/public/143), (c)(2), Dec. 22, 2005, [119 Stat. 2659](https://www.govinfo.gov/link/statute/119/2659); [Pub. L. 111–200, § 2(c)](https://www.govinfo.gov/link/plaw/111/public/200), July 7, 2010, [124 Stat. 1369](https://www.govinfo.gov/link/statute/124/1369); [Pub. L. 113–188, title IX, § 902(c)(2)](https://www.govinfo.gov/link/plaw/113/public/188), Nov. 26, 2014, [128 Stat. 2021](https://www.govinfo.gov/link/statute/128/2021).)*

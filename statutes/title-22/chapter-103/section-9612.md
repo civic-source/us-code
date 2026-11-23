@@ -3,9 +3,10 @@ title: "Section 9612 - United States International Development Finance Corporati
 usc_title: 22
 usc_section: "9612"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9612"
-generated_at: "2026-03-30T02:55:05.468Z"
+generated_at: "2026-11-23T20:26:32.784Z"
+status: "active"
 ---
 
 # § 9612. United States International Development Finance Corporation
@@ -51,3 +52,9 @@ generated_at: "2026-03-30T02:55:05.468Z"
 - **(g)** It is the sense of Congress that—
   - **(1)** the Corporation should continuously operate in a manner that advances its core mission and purposes, as described in this title; and
   - **(2)** resources of the Corporation should not be diverted for domestic or other activities extending beyond the scope of such mission and purpose.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 115–254, div. F, title I, § 1412](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3486](https://www.govinfo.gov/link/statute/132/3486); [Pub. L. 119–60, div. H, title LXXXVII, § 8712](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1947](https://www.govinfo.gov/link/statute/139/1947).)*

@@ -3,12 +3,17 @@ title: "Section 9209 - Utilization of capabilities and facilities"
 usc_title: 42
 usc_section: "9209"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9209"
-generated_at: "2026-03-30T02:56:11.351Z"
+generated_at: "2026-11-23T20:27:23.080Z"
+status: "active"
 ---
 
 # § 9209. Utilization of capabilities and facilities
 
 The Secretary shall utilize the technological and management capabilities, equipment, and facilities of the National Aeronautics and Space Administration to the maximum extent practicable in carrying out his duties under this chapter, and shall enter into such additional agreements with the Administrator of such Administration as may be necessary for this purpose.
 
+
+## Source Credit
+
+*([Pub. L. 96–345, § 10](https://www.govinfo.gov/link/plaw/96/public/345), Sept. 8, 1980, [94 Stat. 1145](https://www.govinfo.gov/link/statute/94/1145).)*

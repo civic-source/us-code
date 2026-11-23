@@ -3,9 +3,10 @@ title: "Section 19060 - Risk and resilience research"
 usc_title: 42
 usc_section: "19060"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 19060"
-generated_at: "2026-03-30T02:56:11.538Z"
+generated_at: "2026-11-23T20:27:23.850Z"
+status: "active"
 ---
 
 # § 19060. Risk and resilience research
@@ -17,3 +18,7 @@ The Director shall make awards on a competitive basis to institutions of higher 
   - **(3)** development of equipment and instrumentation for innovation in resilient engineered infrastructures;
   - **(4)** multidisciplinary research on the behaviors individuals and communities engage in to detect, perceive, understand, predict, assess, mitigate, and prevent risks and to improve and increase resilience; and
   - **(5)** advancements in multidisciplinary wildfire science, including those related to air quality impacts, human behavior, and early detection and warning.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10351](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1561](https://www.govinfo.gov/link/statute/136/1561).)*

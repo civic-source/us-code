@@ -3,9 +3,10 @@ title: "Section 3353 - Compliance"
 usc_title: 31
 usc_section: "3353"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 3353"
-generated_at: "2026-03-30T02:55:34.056Z"
+generated_at: "2026-11-23T20:26:51.772Z"
+status: "active"
 ---
 
 # § 3353. Compliance
@@ -68,3 +69,45 @@ generated_at: "2026-03-30T02:55:34.056Z"
 - **(d)** The guidance required to be provided under section 3(b) of the Improper Payments Elimination and Recovery Improvement Act of 2012, as in effect on the day before the date of enactment of this section—
   - **(1)** shall continue to be in effect on and after the date of enactment of this section; and
   - **(2)** may be modified as determined appropriate by the Director of the Office of Management and Budget.
+
+Annual Compliance Report by Inspectors General of Executive Agencies.—
+
+In general
+
+Development or use of a central website
+
+OMB guidance
+
+CIGIE guidance
+
+Remediation.—
+
+Noncompliance.—
+
+In general
+
+Plan
+
+Noncompliance for 2 fiscal years.—
+
+In general
+
+Additional funding.—
+
+In general
+
+Reprogramming or transfer authority
+
+Reauthorization and statutory proposals
+
+Plan and timeline for compliance
+
+Annual report
+
+Compliance Enforcement Pilot Programs
+
+Improved Estimates Guidance
+
+## Source Credit
+
+*(Added [Pub. L. 116–117, § 2(a)](https://www.govinfo.gov/link/plaw/116/public/117), Mar. 2, 2020, [134 Stat. 123](https://www.govinfo.gov/link/statute/134/123).)*

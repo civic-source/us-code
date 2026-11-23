@@ -3,9 +3,10 @@ title: "Section 604 - Borrowing money; expenditures; authority of Secretary"
 usc_title: 7
 usc_section: "604"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 604"
-generated_at: "2026-03-30T02:53:42.289Z"
+generated_at: "2026-11-23T20:25:41.056Z"
+status: "active"
 ---
 
 # § 604. Borrowing money; expenditures; authority of Secretary
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:42.289Z"
 - **(d)** It is the purpose of subsections (b) and (c) to provide an alternative method to that provided by subsection (a), for enabling the Secretary of Agriculture to finance the acquisition, carrying, handling, insuring, and marketing of cotton acquired by him under authority of section 603 of this title . The Secretary of Agriculture may at his discretion make use of either or both of the methods provided in this section for obtaining funds for the purposes hereinabove enumerated.
 - **(e)** The Secretary of Agriculture is authorized to use in his discretion any funds obtained by him pursuant to the provisions of subsection (a) or (b) of this section for making advances to any agency which may have been or may be established by the Secretary of Agriculture for the handling, carrying, insuring, or marketing of any cotton acquired by the Secretary of Agriculture, to enable any such agency to perform, exercise, and discharge any of the duties, privileges, and functions which such agency may be authorized to perform, exercise, or discharge.
 - **(f)** The proceeds derived from the sale of cotton shall be held for the Secretary of Agriculture by the Treasurer of the United States in a special deposit account and shall be used by the Secretary of Agriculture to discharge the obligations incurred under authority of sections 603, 604, and 607 of this title. Whenever any cotton shall be marketed the net proceeds (after discharge of other obligations incurred with respect thereto) derived from the sale thereof shall be used, to the extent required, to reimburse the Treasury for such portion of the funds hereby provided for as shall have been used, which shall be covered into the Treasury as a miscellaneous receipt. If when all of the cotton acquired by the Secretary of Agriculture shall have been marketed and all of the obligations incurred with respect to such cotton shall have been discharged, and the Treasury reimbursed for any and all sums which may have been advanced pursuant to subsection (b), there shall remain any balance in the hands of the Secretary of Agriculture, such balance shall be covered into the Treasury as miscellaneous receipts. The word “obligation” when used in this section shall include (without being limited to) administrative expenses, warehouse charges, insurance, salaries, interest, costs, commissions, and other expenses incident to handling, carrying, insuring, and marketing of said cotton.
+
+## Source Credit
+
+*(May 12, 1933, ch. 25, title I, § 4, [48 Stat. 33](https://www.govinfo.gov/link/statute/48/33); June 19, 1934, ch. 648, title II, § 1, [48 Stat. 1058](https://www.govinfo.gov/link/statute/48/1058); Aug. 24, 1935, ch. 641, §§ 35, 36, [49 Stat. 775](https://www.govinfo.gov/link/statute/49/775).)*

@@ -3,9 +3,10 @@ title: "Section 7601 - Findings"
 usc_title: 22
 usc_section: "7601"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7601"
-generated_at: "2026-03-30T02:55:05.441Z"
+generated_at: "2026-11-23T20:26:32.669Z"
+status: "active"
 ---
 
 # § 7601. Findings
@@ -96,3 +97,7 @@ Congress makes the following findings:
     - **(B)** committed “TO TAKE PERSONAL RESPONSIBILITY AND PROVIDE LEADERSHIP for the activities of the National AIDS Commissions/Councils”;
     - **(C)** resolved “to lead from the front the battle against HIV/AIDS, Tuberculosis and Other Related Infectious Diseases by personally ensuring that such bodies were properly convened in mobilizing our societies as a whole and providing focus for unified national policymaking and programme implementation, ensuring coordination of all sectors at all levels with a gender perspective and respect for human rights, particularly to ensure equal rights for people living with HIV/AIDS”; and
     - **(D)** pledged “to set a target of allocating at least 15% of our annual budget to the improvement of the health sector”.
+
+## Source Credit
+
+*([Pub. L. 108–25, § 2](https://www.govinfo.gov/link/plaw/108/public/25), May 27, 2003, [117 Stat. 712](https://www.govinfo.gov/link/statute/117/712); [Pub. L. 110–293, § 2](https://www.govinfo.gov/link/plaw/110/public/293), July 30, 2008, [122 Stat. 2919](https://www.govinfo.gov/link/statute/122/2919).)*

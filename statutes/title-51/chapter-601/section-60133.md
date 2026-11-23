@@ -3,9 +3,10 @@ title: "Section 60133 - Technology demonstration program"
 usc_title: 51
 usc_section: "60133"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 60133"
-generated_at: "2026-03-30T02:56:28.712Z"
+generated_at: "2026-11-23T20:27:37.523Z"
+status: "active"
 ---
 
 # § 60133. Technology demonstration program
@@ -18,3 +19,34 @@ generated_at: "2026-03-30T02:56:28.712Z"
 - **(c)** To the greatest extent practicable, the technology demonstration program established under subsection (a) shall be designed to be responsive to the broad civilian, national security, commercial, and foreign policy needs of the United States.
 - **(d)** The technology demonstration program under this section may be carried out in part with private sector funding.
 - **(e)** The Landsat Program Management shall have a coordinating role in the technology demonstration program carried out under this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 60133 | 15 U.S.C. 5633(a) –(e). | Pub. L. 102–555, title III, § 303(a) –(e), Oct. 28, 1992 , 106 Stat. 4174 . |
+
+
+Establishment
+
+Execution of Program
+
+Broad Application
+
+Private Sector Funding
+
+Landsat Program Management Coordination
+
+Historical and Revision Notes
+
+60133
+
+15 U.S.C. 5633(a)
+
+Pub. L. 102–555, title III, § 303(a)
+
+Oct. 28, 1992
+
+106 Stat. 4174
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3418](https://www.govinfo.gov/link/statute/124/3418).)*

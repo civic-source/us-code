@@ -3,9 +3,10 @@ title: "Section 1103 - Powers of Commission"
 usc_title: 16
 usc_section: "1103"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1103"
-generated_at: "2026-03-30T02:54:22.941Z"
+generated_at: "2026-11-23T20:26:20.371Z"
+status: "active"
 ---
 
 # § 1103. Powers of Commission
@@ -22,3 +23,7 @@ The Commission shall have juridical personality and all powers and capacity nece
 - **(h)** to grant concessions; if deemed desirable;
 - **(i)** to adopt and use a seal;
 - **(j)** to obtain without reimbursement for use either in the United States or in Canada, legal, engineering, architectural, accounting, financial, maintenance, and other services, whether by assignment, detail, or otherwise, from competent agencies in the United States or in Canada, by arrangements with such agencies.
+
+## Source Credit
+
+*([Pub. L. 88–363, § 4](https://www.govinfo.gov/link/plaw/88/public/363), July 7, 1964, [78 Stat. 299](https://www.govinfo.gov/link/statute/78/299).)*

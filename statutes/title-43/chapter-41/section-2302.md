@@ -3,9 +3,10 @@ title: "Section 2302 - Definitions"
 usc_title: 43
 usc_section: "2302"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 2302"
-generated_at: "2026-03-30T02:55:57.496Z"
+generated_at: "2026-11-23T20:27:06.401Z"
+status: "active"
 ---
 
 # § 2302. Definitions
@@ -29,3 +30,7 @@ In this chapter:
   - **(4)** The term “inholding” means any right, title, or interest, held by a non-Federal entity, in or to a tract of land that lies within the boundary of a federally designated area.
   - **(5)** The term “public land” means public lands (as defined in section 1702 of this title ).
   - **(6)** The term “Secretary” means the Secretary of the Interior.
+
+## Source Credit
+
+*([Pub. L. 106–248, title II, § 203](https://www.govinfo.gov/link/plaw/106/public/248), July 25, 2000, [114 Stat. 614](https://www.govinfo.gov/link/statute/114/614); [Pub. L. 115–141, div. O, title III, § 302(1)](https://www.govinfo.gov/link/plaw/115/public/141) –(3), Mar. 23, 2018, [132 Stat. 1074](https://www.govinfo.gov/link/statute/132/1074), 1075.)*

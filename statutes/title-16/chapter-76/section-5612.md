@@ -3,9 +3,10 @@ title: "Section 5612 - Repealed. Pub. L. 114–327, title V, § 510 , Dec. 16, 2
 usc_title: 16
 usc_section: "5612"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 5612"
-generated_at: "2026-03-30T02:54:23.053Z"
+generated_at: "2026-11-23T20:26:20.781Z"
+status: "repealed"
 ---
 
 # § 5612. Repealed. Pub. L. 114–327, title V, § 510 , Dec. 16, 2016 , 130 Stat. 1998

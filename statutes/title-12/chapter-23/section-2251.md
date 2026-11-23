@@ -3,9 +3,10 @@ title: "Section 2251 - Quarters and facilities for the Farm Credit Administratio
 usc_title: 12
 usc_section: "2251"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 2251"
-generated_at: "2026-03-30T02:53:53.476Z"
+generated_at: "2026-11-23T20:25:59.255Z"
+status: "active"
 ---
 
 # § 2251. Quarters and facilities for the Farm Credit Administration
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:53.476Z"
   - **(3)** The powers of the banks of the System and purposes for which obligations may be issued by such banks are hereby enlarged to include the purpose of obtaining funds to permit the making of advances required by this section.
   - **(4)** The plans and decisions for such building and facilities and for the enlargement, remodeling, or reconstruction thereof shall be such as is approved in the sole discretion of the Board.
   - **(5)** In actions undertaken by the banks pursuant to this section, the Farm Credit Administration may act as agent for the banks.
+
+## Source Credit
+
+*([Pub. L. 92–181, title V, § 5](https://www.govinfo.gov/link/plaw/92/public/181).16, formerly § 5.17, Dec. 10, 1971, [85 Stat. 621](https://www.govinfo.gov/link/statute/85/621); [Pub. L. 96–592, title V, § 506](https://www.govinfo.gov/link/plaw/96/public/592), Dec. 24, 1980, [94 Stat. 3449](https://www.govinfo.gov/link/statute/94/3449); renumbered § 5.16 and amended [Pub. L. 99–205, title II, § 201(6)](https://www.govinfo.gov/link/plaw/99/public/205), Dec. 23, 1985, [99 Stat. 1690](https://www.govinfo.gov/link/statute/99/1690); [Pub. L. 100–233, title VIII, § 805(y)](https://www.govinfo.gov/link/plaw/100/public/233), Jan. 6, 1988, [101 Stat. 1717](https://www.govinfo.gov/link/statute/101/1717); [Pub. L. 100–399, title IX, § 901](https://www.govinfo.gov/link/plaw/100/public/399) (l), Aug. 17, 1988, [102 Stat. 1008](https://www.govinfo.gov/link/statute/102/1008); [Pub. L. 115–334, title V](https://www.govinfo.gov/link/plaw/115/public/334), §§ 5405, 5411(28), Dec. 20, 2018, [132 Stat. 4676](https://www.govinfo.gov/link/statute/132/4676), 4682.)*

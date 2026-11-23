@@ -3,9 +3,10 @@ title: "Section 6303 - Outreach services"
 usc_title: 38
 usc_section: "6303"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 6303"
-generated_at: "2026-03-30T02:55:53.523Z"
+generated_at: "2026-11-23T20:27:01.974Z"
+status: "active"
 ---
 
 # § 6303. Outreach services
@@ -19,3 +20,187 @@ generated_at: "2026-03-30T02:55:53.523Z"
   - **(2)** Whenever a veteran or dependent first applies for any benefit under laws administered by the Secretary (including a request for burial or related benefits or an application for life insurance proceeds), the Secretary shall provide to the veteran or dependent information concerning benefits and health care services under programs administered by the Secretary. Such information shall be provided not later than three months after the date of such application.
 - **(d)** The Secretary shall provide, to the maximum extent possible, aid and assistance (including personal interviews) to members of the Armed Forces, veterans, and eligible dependents with respect to subsections (b) and (c) and in the preparation and presentation of claims under laws administered by the Department.
 - **(e)** In carrying out this section, the Secretary shall assign such employees as the Secretary considers appropriate to conduct outreach programs and provide outreach services for homeless veterans. Such outreach services may include site visits through which homeless veterans can be identified and provided assistance in obtaining benefits and services that may be available to them.
+
+Requirement To Provide Services
+
+Individual Notice to New Veterans
+
+Distribution of Information
+
+Provision of Aid and Assistance
+
+Assignment of Employees
+
+Outreach Requirement
+
+Strategic Plan
+
+Increase in Number of VJO Specialists.—
+
+Increase
+
+Determination
+
+Use of technology
+
+Performance Goals and Implementation Plans.—
+
+Establishment
+
+Consistency with strategic plan
+
+Performance data
+
+Training Requirement
+
+Reports on Implementation.—
+
+First report
+
+Subsequent report
+
+Report on Veterans Treatment Courts
+
+Definitions
+
+Languages
+
+Website
+
+Report
+
+Pilot Program Required
+
+Duration
+
+Collaboration
+
+Authorized Activities
+
+Intimate Partner Violence and Sexual Assault Outreach Coordinators.—
+
+In general
+
+Local coordinator knowledge
+
+Local coordinator assistance
+
+Report.—
+
+In general
+
+Contents
+
+Definitions
+
+Intimate partner.—
+
+In general
+
+Close personal relationships
+
+Intimate partner violence
+
+Pilot Program Required.—
+
+In general
+
+Duration
+
+Dissemination
+
+Types of information
+
+Privacy of information
+
+Notice and modifications
+
+Contact information
+
+Opt-in and opt-out of pilot program.—
+
+Opt-in by members
+
+Opt-in by designated recipients
+
+Opt-out
+
+Survey and Report on Pilot Program.—
+
+Survey.—
+
+In general
+
+Elements
+
+Report.—
+
+In general
+
+Contents
+
+In General
+
+Elements
+
+Updated Information
+
+Outreach
+
+Derivation of Funds
+
+Hiring of Additional Veterans Justice Outreach Specialists.—
+
+In general
+
+Requirements
+
+Eligible Department of Veterans Affairs Medical Centers
+
+Placement Priority
+
+Reports.—
+
+Report by secretary of veterans affairs.—
+
+In general
+
+Contents
+
+Report by comptroller general of the united states.—
+
+In general
+
+Contents
+
+Definitions
+
+Justice team
+
+Justice-involved veteran
+
+Local criminal justice system
+
+Veterans justice outreach program
+
+Veterans justice outreach specialist
+
+Veterans treatment court
+
+Program
+
+Features of Program
+
+In General
+
+Distribution
+
+Funding
+
+Ongoing Outreach Program
+
+Information in Agent Orange Registry
+
+## Source Credit
+
+*(Added [Pub. L. 109–233, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/109/public/233), June 15, 2006, [120 Stat. 408](https://www.govinfo.gov/link/statute/120/408); amended [Pub. L. 116–283, div. A, title IX, § 926(a)(59)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3830](https://www.govinfo.gov/link/statute/134/3830); [Pub. L. 117–205, § 2(b)(2)](https://www.govinfo.gov/link/plaw/117/public/205), Oct. 17, 2022, [136 Stat. 2233](https://www.govinfo.gov/link/statute/136/2233).)*

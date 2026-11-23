@@ -3,9 +3,10 @@ title: "Section 16071 - Pilot program"
 usc_title: 42
 usc_section: "16071"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16071"
-generated_at: "2026-03-30T02:56:11.467Z"
+generated_at: "2026-11-23T20:27:23.604Z"
+status: "active"
 ---
 
 # § 16071. Pilot program
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:56:11.467Z"
   - **(1)** Not later than 90 days after August 8, 2005 , the Secretary shall publish in the Federal Register, Commerce Business Daily, and elsewhere as appropriate, a request for applications to undertake projects under the pilot program. Applications shall be due not later than 180 days after the date of publication of the notice.
   - **(2)** Not later than 180 days after the date by which applications for grants are due, the Secretary shall select by competitive, peer reviewed proposal, all applications for projects to be awarded a grant under the pilot program.
 - **(g)** For purposes of carrying out the pilot program, the Secretary shall issue regulations defining any term, as the Secretary determines to be necessary.
+
+## Source Credit
+
+*([Pub. L. 109–58, title VII, § 721](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 818](https://www.govinfo.gov/link/statute/119/818).)*

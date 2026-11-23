@@ -3,9 +3,10 @@ title: "Section 2303 - Designation of written warranties"
 usc_title: 15
 usc_section: "2303"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2303"
-generated_at: "2026-03-30T02:54:08.171Z"
+generated_at: "2026-11-23T20:26:04.194Z"
+status: "active"
 ---
 
 # § 2303. Designation of written warranties
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.171Z"
 - **(b)** This section and sections 2302 and 2304 of this title shall not apply to statements or representations which are similar to expressions of general policy concerning customer satisfaction and which are not subject to any specific limitations.
 - **(c)** In addition to exercising the authority pertaining to disclosure granted in section 2302 of this title , the Commission may by rule determine when a written warranty does not have to be designated either “full (statement of duration)” or “limited” in accordance with this section.
 - **(d)** The provisions of subsections (a) and (c) of this section apply only to warranties which pertain to consumer products actually costing the consumer more than $10 and which are not designated “full (statement of duration) warranties”.
+
+## Source Credit
+
+*([Pub. L. 93–637, title I, § 103](https://www.govinfo.gov/link/plaw/93/public/637), Jan. 4, 1975, [88 Stat. 2187](https://www.govinfo.gov/link/statute/88/2187).)*

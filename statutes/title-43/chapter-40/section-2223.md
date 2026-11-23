@@ -3,9 +3,10 @@ title: "Section 2223 - Plan elements"
 usc_title: 43
 usc_section: "2223"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 2223"
-generated_at: "2026-03-30T02:55:57.496Z"
+generated_at: "2026-11-23T20:27:06.398Z"
+status: "active"
 ---
 
 # § 2223. Plan elements
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:57.496Z"
 - **(c)** The Secretary is authorized to work with other Federal and State agencies to improve hydrologic data collection systems and water supply forecasting techniques to provide more accurate and timely warning of potential drought conditions and drought levels that would trigger the implementation of contingency plans.
 - **(d)** The contingency plans and plan elements shall comply with all requirements of applicable Federal law, including the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 ), section 2265(a) of title 33 , and the Fish and Wildlife Coordination Act [ 16 U.S.C. 661 et seq.], and shall be in accordance with applicable State law.
 - **(e)** The contingency plans shall include provisions for periodic review to assure the adequacy of the contingency plan to respond to current conditions, and such plans may be modified accordingly.
+
+## Source Credit
+
+*([Pub. L. 102–250, title II, § 203](https://www.govinfo.gov/link/plaw/102/public/250), Mar. 5, 1992, [106 Stat. 57](https://www.govinfo.gov/link/statute/106/57).)*

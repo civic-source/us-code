@@ -3,9 +3,10 @@ title: "Section 70704 - Composition of Commission"
 usc_title: 51
 usc_section: "70704"
 chapter: 707
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 70704"
-generated_at: "2026-03-30T02:56:28.713Z"
+generated_at: "2026-11-23T20:27:37.539Z"
+status: "active"
 ---
 
 # § 70704. Composition of Commission
@@ -24,3 +25,82 @@ generated_at: "2026-03-30T02:56:28.713Z"
 - **(e)** After its initial meeting, a Commission shall meet upon the call of the Chairman or a majority of its members.
 - **(f)** Eight members of a Commission shall constitute a quorum.
 - **(g)** Any vacancy in a Commission shall not affect its powers, but shall be filled in the same manner in which the original appointment was made.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 70704(a) | 42 U.S.C. 16844(a) . | Pub. L. 109–155, title VIII, § 824 , Dec. 30, 2005 , 119 Stat. 2942 . |
+| 70704(b) | 42 U.S.C. 16844(b) . |  |
+| 70704(c) | 42 U.S.C. 16844(c) . |  |
+| 70704(d) | 42 U.S.C. 16844(d) . |  |
+| 70704(e) | 42 U.S.C. 16844(e) (1st sentence). |  |
+| 70704(f) | 42 U.S.C. 16844(e) (2d sentence). |  |
+| 70704(g) | 42 U.S.C. 16844(e) (last sentence). |  |
+
+
+Number of Commissioners
+
+Selection
+
+Appointment by president
+
+Lists provided by leaders of congress
+
+Prohibition regarding federal officers and employees and members of congress
+
+Prohibition regarding contractors
+
+Prohibition regarding conflict of interest
+
+Experience
+
+Diversity
+
+Deadline for Appointment
+
+Initial Meeting
+
+Subsequent Meetings
+
+Quorum
+
+Vacancies
+
+Historical and Revision Notes
+
+70704(a)
+
+42 U.S.C. 16844(a)
+
+Pub. L. 109–155, title VIII, § 824
+
+Dec. 30, 2005
+
+119 Stat. 2942
+
+70704(b)
+
+42 U.S.C. 16844(b)
+
+70704(c)
+
+42 U.S.C. 16844(c)
+
+70704(d)
+
+42 U.S.C. 16844(d)
+
+70704(e)
+
+42 U.S.C. 16844(e)
+
+70704(f)
+
+42 U.S.C. 16844(e)
+
+70704(g)
+
+42 U.S.C. 16844(e)
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3433](https://www.govinfo.gov/link/statute/124/3433).)*

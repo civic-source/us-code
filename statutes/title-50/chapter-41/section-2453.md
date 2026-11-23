@@ -3,9 +3,10 @@ title: "Section 2453 - Future-years nuclear security program"
 usc_title: 50
 usc_section: "2453"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 2453"
-generated_at: "2026-03-30T02:56:26.225Z"
+generated_at: "2026-11-23T20:27:30.852Z"
+status: "active"
 ---
 
 # § 2453. Future-years nuclear security program
@@ -32,3 +33,23 @@ generated_at: "2026-03-30T02:56:26.225Z"
     - **(A)** The amounts specified in program and budget information submitted to Congress by the Administrator in support of expenditure estimates and proposed appropriations in the budget submitted to Congress by the President under section 1105(a) of title 31 for any fiscal year, as shown in the future-years nuclear security program submitted pursuant to subsection (a).
     - **(B)** The total amounts of estimated expenditures and proposed appropriations necessary to support the programs, projects, and activities of the Administration included pursuant to paragraph (5) of section 1105(a) of such title in the budget submitted to Congress under that section for any fiscal year.
 - **(d)** Nothing in this section shall be construed to prohibit the inclusion in the future-years nuclear security program of amounts for management contingencies, subject to the requirements of subsection (c).
+
+In General
+
+Inclusion in Future-years Nuclear Security Program
+
+Covered Construction Project
+
+Inclusion of Projects in Facilities and Infrastructure Recapitalization Program
+
+Termination of Facilities and Infrastructure Recapitalization Program
+
+Readiness in Technical Base and Facilities Program
+
+Operations of Facilities Program
+
+“The amendments made by subsection (a) [amending section 3114 of Pub. L. 108–136 , set out above] may not be construed to authorize any delay in either of the following:
+
+## Source Credit
+
+*([Pub. L. 106–65, div. C, title XXXII, § 3253](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 966](https://www.govinfo.gov/link/statute/113/966); [Pub. L. 106–398, § 1 [div. C, title XXXI, § 3154]](https://www.govinfo.gov/link/plaw/106/public/398), Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–465; [Pub. L. 109–364, div. C, title XXXI, § 3111(b)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2503](https://www.govinfo.gov/link/statute/120/2503); [Pub. L. 110–181, div. C, title XXXI, § 3123](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 580](https://www.govinfo.gov/link/statute/122/580); [Pub. L. 112–239, div. C, title XXXI, § 3132(a)(1)](https://www.govinfo.gov/link/plaw/112/public/239), (d)(2), Jan. 2, 2013, [126 Stat. 2185](https://www.govinfo.gov/link/statute/126/2185), 2187; [Pub. L. 113–66, div. C, title XXXI, § 3145(f)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 1071](https://www.govinfo.gov/link/statute/127/1071); [Pub. L. 115–91, div. C, title XXXI, § 3133(c)(2)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1896](https://www.govinfo.gov/link/statute/131/1896).)*

@@ -3,9 +3,10 @@ title: "Section 532 - Qualifications for original appointment as a commissioned 
 usc_title: 10
 usc_section: "532"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 532"
-generated_at: "2026-03-30T02:53:38.066Z"
+generated_at: "2026-11-23T20:25:50.998Z"
+status: "active"
 ---
 
 # § 532. Qualifications for original appointment as a commissioned officer
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:38.066Z"
 - **[(d)** Repealed. Pub. L. 115–232, div. A, title V, § 501(b) , Aug. 13, 2018 , 132 Stat. 1739 .]
 - **[(e)** Repealed. Pub. L. 108–375, div. A, title V, § 501(a)(1) , Oct. 28, 2004 , 118 Stat. 1872 .]
 - **(f)** The Secretary of Defense may waive the requirement of paragraph (1) of subsection (a) with respect to a person who has been lawfully admitted to the United States for permanent residence, or for a United States national otherwise eligible for appointment as a cadet or midshipman under section 2107(a) of this title or as a cadet under section 2107a of this title , when the Secretary determines that the national security so requires, but only for an original appointment in a grade below the grade of major or lieutenant commander.
+
+## Source Credit
+
+*(Added [Pub. L. 96–513, title I, § 104(a)](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2845](https://www.govinfo.gov/link/statute/94/2845); amended [Pub. L. 97–22, § 3(b)](https://www.govinfo.gov/link/plaw/97/public/22), July 10, 1981, [95 Stat. 124](https://www.govinfo.gov/link/statute/95/124); [Pub. L. 97–295, § 1(7)](https://www.govinfo.gov/link/plaw/97/public/295), Oct. 12, 1982, [96 Stat. 1289](https://www.govinfo.gov/link/statute/96/1289); [Pub. L. 102–190, div. A, title V, § 501](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1354](https://www.govinfo.gov/link/statute/105/1354); [Pub. L. 103–160, div. A, title V, § 510](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1648](https://www.govinfo.gov/link/statute/107/1648); [Pub. L. 108–375, div. A, title V, § 501(a)(1)](https://www.govinfo.gov/link/plaw/108/public/375) –(3)(A), Oct. 28, 2004, [118 Stat. 1872](https://www.govinfo.gov/link/statute/118/1872); [Pub. L. 109–163, div. A, title V, § 534(c)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3248](https://www.govinfo.gov/link/statute/119/3248); [Pub. L. 111–383, div. A, title V, § 501(a)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4206](https://www.govinfo.gov/link/statute/124/4206); [Pub. L. 115–232, div. A, title V, § 501(a)](https://www.govinfo.gov/link/plaw/115/public/232), (b), title VIII, § 809(a), Aug. 13, 2018, [132 Stat. 1739](https://www.govinfo.gov/link/statute/132/1739), 1840; [Pub. L. 116–283, div. A, title IX, § 924(b)(4)(B)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3822](https://www.govinfo.gov/link/statute/134/3822); [Pub. L. 118–31, div. A, title XVII, § 1716(b)(3)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 633](https://www.govinfo.gov/link/statute/137/633).)*

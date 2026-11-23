@@ -3,9 +3,10 @@ title: "Section 615 - Information furnished to selection boards"
 usc_title: 10
 usc_section: "615"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 615"
-generated_at: "2026-03-30T02:53:38.068Z"
+generated_at: "2026-11-23T20:25:51.015Z"
+status: "active"
 ---
 
 # § 615. Information furnished to selection boards
@@ -44,3 +45,29 @@ generated_at: "2026-03-30T02:53:38.068Z"
 - **(c)** The Secretary of Defense, with the advice and assistance of the Chairman of the Joint Chiefs of Staff, shall furnish to the Secretaries of the military departments guidelines for the purpose of ensuring that each selection board convened under section 611(a) of this title gives appropriate consideration to the performance of officers who are serving on, or have served on, the Joint Staff or are joint qualified officers.
 - **(d)** Information or guidelines furnished to a selection board under subsection (b) may not be modified, withdrawn, or supplemented after the board submits the report to the Secretary of the military department concerned pursuant to section 617(a) of this title , except that, in the case of a report returned to a board pursuant to section 618(a)(2) of this title for further proceedings because of a determination by the Secretary of the military department concerned that the board acted contrary to law, regulation, or guidelines, the Secretary may modify, withdraw, or supplement such information or guidelines as part of a written explanation to the board as provided in that section.
 - **(e)** The Secretary of each military department, under uniform regulations prescribed by the Secretary of Defense, shall include in guidelines furnished to a selection board convened under section 611(a) of this title that is considering officers in a health-professions competitive category for promotion to a grade below colonel or, in the case of the Navy, captain, a direction that the board give consideration to an officer’s clinical proficiency and skill as a health professional to at least as great an extent as the board gives to the officer’s administrative and management skills.
+
+Effective date
+
+Delayed applicability for boards for promotion to non-general and flag officer grades
+
+Establishment
+
+Covered Officers
+
+Covered Career Fields
+
+Selection of Assessors
+
+Report
+
+Definitions
+
+Active Duty Officers
+
+Reserve Officers
+
+Enlisted Members
+
+## Source Credit
+
+*(Added [Pub. L. 96–513, title I, § 105](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2852](https://www.govinfo.gov/link/statute/94/2852); amended [Pub. L. 99–433, title IV, § 402(b)](https://www.govinfo.gov/link/plaw/99/public/433), Oct. 1, 1986, [100 Stat. 1030](https://www.govinfo.gov/link/statute/100/1030); [Pub. L. 100–456, div. A, title V, § 501(a)](https://www.govinfo.gov/link/plaw/100/public/456), Sept. 29, 1988, [102 Stat. 1965](https://www.govinfo.gov/link/statute/102/1965); [Pub. L. 101–189, div. A, title V, § 519](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1444](https://www.govinfo.gov/link/statute/103/1444); [Pub. L. 102–190, div. A, title V, § 504(a)(1)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1355](https://www.govinfo.gov/link/statute/105/1355); [Pub. L. 102–484, div. A, title X, § 1052(7)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2499](https://www.govinfo.gov/link/statute/106/2499); [Pub. L. 109–163, div. A, title V, § 506(a)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3227](https://www.govinfo.gov/link/statute/119/3227); [Pub. L. 111–383, div. A, title V, § 522(b)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4215](https://www.govinfo.gov/link/statute/124/4215); [Pub. L. 116–92, div. A, title V, § 502(a)](https://www.govinfo.gov/link/plaw/116/public/92), (b), Dec. 20, 2019, [133 Stat. 1344](https://www.govinfo.gov/link/statute/133/1344); [Pub. L. 116–283, div. A, title V, § 505(c)(1)](https://www.govinfo.gov/link/plaw/116/public/283), (2), Jan. 1, 2021, [134 Stat. 3572](https://www.govinfo.gov/link/statute/134/3572); [Pub. L. 118–31, div. A, title XVII, § 1722(b)(2)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 668](https://www.govinfo.gov/link/statute/137/668).)*

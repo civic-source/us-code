@@ -3,9 +3,10 @@ title: "Section 1212 - Powers and functions of the Office of Special Counsel"
 usc_title: 5
 usc_section: "1212"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 1212"
-generated_at: "2026-03-30T02:52:55.995Z"
+generated_at: "2026-11-23T20:25:31.771Z"
+status: "active"
 ---
 
 # § 1212. Powers and functions of the Office of Special Counsel
@@ -70,3 +71,31 @@ generated_at: "2026-03-30T02:52:55.995Z"
   - **(2)** the Special Counsel—
     - **(A)** may not require an employee of the Office of Special Counsel to seek authorization or approval before directly contacting the Inspector General in accordance with the agreement; and
     - **(B)** may reimburse the Inspector General for services provided under the agreement.
+
+(aa) disclosing the material could reasonably be expected to interfere with a criminal investigation or prosecution that is ongoing as of the date on which the Special Counsel submits a request for the material; or
+
+(bb) the material— (AA) may not be disclosed pursuant to a court order; or (BB) has been filed under seal under section 3730 of title 31 ; and
+
+(aa) the material being withheld; and
+
+(bb) the reason that the material is being withheld.
+
+In general
+
+Publication
+
+Referral
+
+Office of Special Counsel Review
+
+Permission of Next of Kin
+
+In General
+
+Report
+
+“In this title [enacting sections 2307 and 7515 of this title, amending sections 1214, 1221, 2302, 4505a, and 5755 of this title and sections 3657 and 3673 of Title 22, Foreign Relations and Intercourse, enacting provisions set out as notes under this section and section 2301 of this title , and amending provisions set out as a note under section 2302 of this title ]—
+
+## Source Credit
+
+*(Added [Pub. L. 101–12, § 3(a)(13)](https://www.govinfo.gov/link/plaw/101/public/12), Apr. 10, 1989, [103 Stat. 19](https://www.govinfo.gov/link/statute/103/19); amended [Pub. L. 103–424, § 3(b)](https://www.govinfo.gov/link/plaw/103/public/424), Oct. 29, 1994, [108 Stat. 4362](https://www.govinfo.gov/link/statute/108/4362); [Pub. L. 112–199, title I, § 113](https://www.govinfo.gov/link/plaw/112/public/199), Nov. 27, 2012, [126 Stat. 1472](https://www.govinfo.gov/link/statute/126/1472); [Pub. L. 115–91, div. A, title X, § 1097(a)](https://www.govinfo.gov/link/plaw/115/public/91), (g), Dec. 12, 2017, [131 Stat. 1615](https://www.govinfo.gov/link/statute/131/1615), 1623.)*

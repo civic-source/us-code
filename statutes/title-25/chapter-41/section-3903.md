@@ -3,9 +3,10 @@ title: "Section 3903 - Inventory of open dumps"
 usc_title: 25
 usc_section: "3903"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3903"
-generated_at: "2026-03-30T02:54:52.857Z"
+generated_at: "2026-11-23T20:26:25.671Z"
+status: "active"
 ---
 
 # § 3903. Inventory of open dumps
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:52.857Z"
 - **(c)** The Director shall develop and begin implementation of a 10-year plan to address solid waste disposal needs on Indian lands and Alaska Native lands. This 10-year plan shall identify—
   - **(1)** the level of funding needed to effectively close or bring into compliance with applicable Federal standards any open dumps located on Indian lands and Alaska Native lands; and
   - **(2)** the level of funding needed to develop comprehensive solid waste management plans for every Indian tribal government and Alaska Native entity.
+
+## Source Credit
+
+*([Pub. L. 103–399, § 4](https://www.govinfo.gov/link/plaw/103/public/399), Oct. 22, 1994, [108 Stat. 4166](https://www.govinfo.gov/link/statute/108/4166).)*

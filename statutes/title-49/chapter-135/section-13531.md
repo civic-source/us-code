@@ -3,9 +3,10 @@ title: "Section 13531 - General jurisdiction"
 usc_title: 49
 usc_section: "13531"
 chapter: 135
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 13531"
-generated_at: "2026-03-30T02:56:19.327Z"
+generated_at: "2026-11-23T20:27:34.741Z"
+status: "active"
 ---
 
 # § 13531. General jurisdiction
@@ -15,3 +16,11 @@ generated_at: "2026-03-30T02:56:19.327Z"
   - **(2)** a place in a State and another place in the same State through a place outside the State; or
   - **(3)** a place in the United States and a place outside the United States.
 - **(b)** Neither the Secretary nor the Board has jurisdiction under subsection (a) of this section over service undertaken by a freight forwarder using transportation of an air carrier subject to part A of subtitle VII of this title.
+
+In General
+
+Exemption of Certain Air Carrier Service
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 865](https://www.govinfo.gov/link/statute/109/865).)*

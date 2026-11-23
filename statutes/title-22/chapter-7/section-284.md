@@ -3,12 +3,17 @@ title: "Section 284 - Acceptance of membership by United States in International
 usc_title: 22
 usc_section: "284"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 284"
-generated_at: "2026-03-30T02:55:05.316Z"
+generated_at: "2026-11-23T20:26:31.991Z"
+status: "active"
 ---
 
 # § 284. Acceptance of membership by United States in International Development Association
 
 The President is hereby authorized to accept membership for the United States in the International Development Association (hereinafter referred to as the “Association”), provided for by the Articles of Agreement (hereinafter referred to as the “Articles”) of the Association deposited in the archives of the International Bank for Reconstruction and Development.
 
+
+## Source Credit
+
+*([Pub. L. 86–565, § 2](https://www.govinfo.gov/link/plaw/86/public/565), June 30, 1960, [74 Stat. 293](https://www.govinfo.gov/link/statute/74/293).)*

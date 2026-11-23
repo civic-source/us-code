@@ -3,9 +3,10 @@ title: "Section 7513a - Plan provisions and schedules for plan submissions"
 usc_title: 42
 usc_section: "7513a"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7513a"
-generated_at: "2026-03-30T02:56:11.309Z"
+generated_at: "2026-11-23T20:27:22.889Z"
+status: "active"
 ---
 
 # § 7513a. Plan provisions and schedules for plan submissions
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:11.309Z"
   - **(3)** If a State fails to submit a demonstration under paragraph (2) with respect to a milestone within the required period or if the Administrator determines that the area has not met any applicable milestone, the Administrator shall require the State, within 9 months after such failure or determination to submit a plan revision that assures that the State will achieve the next milestone (or attain the national ambient air quality standard for PM–10, if there is no next milestone) by the applicable date.
 - **(d)** In the case of a Serious PM–10 nonattainment area in which the PM–10 standard is not attained by the applicable attainment date, the State in which such area is located shall, after notice and opportunity for public comment, submit within 12 months after the applicable attainment date, plan revisions which provide for attainment of the PM–10 air quality standard and, from the date of such submission until attainment, for an annual reduction in PM–10 or PM–10 precursor emissions within the area of not less than 5 percent of the amount of such emissions as reported in the most recent inventory prepared for such area.
 - **(e)** The control requirements applicable under plans in effect under this part for major stationary sources of PM–10 shall also apply to major stationary sources of PM–10 precursors, except where the Administrator determines that such sources do not contribute significantly to PM–10 levels which exceed the standard in the area. The Administrator shall issue guidelines regarding the application of the preceding sentence.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 189, as added [Pub. L. 101–549, title I, § 105(a)](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2460](https://www.govinfo.gov/link/statute/104/2460).)*

@@ -3,9 +3,10 @@ title: "Section 4332 - Reports"
 usc_title: 38
 usc_section: "4332"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 4332"
-generated_at: "2026-03-30T02:55:53.519Z"
+generated_at: "2026-11-23T20:27:01.939Z"
+status: "active"
 ---
 
 # § 4332. Reports
@@ -32,3 +33,19 @@ generated_at: "2026-03-30T02:55:53.519Z"
 - **(c)** The Secretary shall coordinate with the Secretary of Defense, the Attorney General, and the Special Counsel to ensure that—
   - **(1)** the information in the reports required by this section is categorized in a uniform way; and
   - **(2)** the Secretary, the Secretary of Defense, the Attorney General, and the Special Counsel each have electronic access to the case files reviewed under this chapter by the Secretary, the Secretary of Defense, the Attorney General, and the Special Counsel with due regard for the provisions of section 552a of title 5 .
+
+Annual Report by Secretary
+
+Quarterly Reports.—
+
+Quarterly report by secretary
+
+Quarterly report by attorney general
+
+Quarterly report by special counsel
+
+Uniform Categorization of Data
+
+## Source Credit
+
+*(Added [Pub. L. 103–353, § 2(a)](https://www.govinfo.gov/link/plaw/103/public/353), Oct. 13, 1994, [108 Stat. 3168](https://www.govinfo.gov/link/statute/108/3168); amended [Pub. L. 108–454, title II, § 202](https://www.govinfo.gov/link/plaw/108/public/454), Dec. 10, 2004, [118 Stat. 3606](https://www.govinfo.gov/link/statute/118/3606); [Pub. L. 110–181, div. A, title V, § 595](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 139](https://www.govinfo.gov/link/statute/122/139); [Pub. L. 110–389, title III, § 312(a)](https://www.govinfo.gov/link/plaw/110/public/389) –(d), Oct. 10, 2008, [122 Stat. 4164](https://www.govinfo.gov/link/statute/122/4164), 4165.)*

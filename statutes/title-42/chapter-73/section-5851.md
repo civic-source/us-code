@@ -3,9 +3,10 @@ title: "Section 5851 - Employee protection"
 usc_title: 42
 usc_section: "5851"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5851"
-generated_at: "2026-03-30T02:56:11.239Z"
+generated_at: "2026-11-23T20:27:22.564Z"
+status: "active"
 ---
 
 # § 5851. Employee protection
@@ -53,3 +54,7 @@ generated_at: "2026-03-30T02:56:11.239Z"
     - **(A)** the filing of a complaint under subsection (b)(1) of this section arising from such allegation; or
     - **(B)** any investigation by the Secretary, or other action, under this section in response to such complaint.
   - **(2)** A determination by the Secretary under this section that a violation of subsection (a) has not occurred shall not be considered by the Commission or the Department of Energy in its determination of whether a substantial safety hazard exists.
+
+## Source Credit
+
+*([Pub. L. 93–438, title II, § 211](https://www.govinfo.gov/link/plaw/93/public/438), formerly § 210, as added [Pub. L. 95–601, § 10](https://www.govinfo.gov/link/plaw/95/public/601), Nov. 6, 1978, [92 Stat. 2951](https://www.govinfo.gov/link/statute/92/2951); renumbered § 211 and amended [Pub. L. 102–486, title XXIX, § 2902(a)](https://www.govinfo.gov/link/plaw/102/public/486) –(g), (h)(2), (3), Oct. 24, 1992, [106 Stat. 3123](https://www.govinfo.gov/link/statute/106/3123), 3124; [Pub. L. 109–58, title VI, § 629](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 785](https://www.govinfo.gov/link/statute/119/785).)*

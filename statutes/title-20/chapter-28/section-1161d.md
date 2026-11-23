@@ -3,9 +3,10 @@ title: "Section 1161d - Capacity for nursing students and faculty"
 usc_title: 20
 usc_section: "1161d"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1161d"
-generated_at: "2026-03-30T02:54:48.150Z"
+generated_at: "2026-11-23T20:26:14.582Z"
+status: "active"
 ---
 
 # § 1161d. Capacity for nursing students and faculty
@@ -55,3 +56,7 @@ generated_at: "2026-03-30T02:54:48.150Z"
   - **(1)** Funds provided under this section may not be used for the construction of new facilities.
   - **(2)** Nothing in paragraph (1) shall be construed to prohibit funds provided under this section from being used for the repair or renovation of facilities.
 - **(f)** There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
+
+## Source Credit
+
+*([Pub. L. 89–329, title VIII, § 804](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title VIII, § 801](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3385](https://www.govinfo.gov/link/statute/122/3385); amended [Pub. L. 111–39, title VIII, § 801(2)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1955](https://www.govinfo.gov/link/statute/123/1955).)*

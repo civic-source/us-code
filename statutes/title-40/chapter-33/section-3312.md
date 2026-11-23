@@ -3,9 +3,10 @@ title: "Section 3312 - Compliance with nationally recognized codes"
 usc_title: 40
 usc_section: "3312"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 3312"
-generated_at: "2026-03-30T02:55:43.379Z"
+generated_at: "2026-11-23T20:26:56.593Z"
+status: "active"
 ---
 
 # § 3312. Compliance with nationally recognized codes
@@ -28,3 +29,79 @@ generated_at: "2026-03-30T02:55:43.379Z"
 - **(e)** Appropriate officials of a State or political subdivision of a State may make recommendations to the Administrator or the head of the federal agency authorized to construct or alter a building concerning measures necessary to meet the requirements of subsections (b) and (c). The officials also may make recommendations to the Administrator or the head of the federal agency concerning measures which should be taken in the construction or alteration of the building to take into account local conditions. The Administrator or the head of the agency shall give due consideration to the recommendations.
 - **(f)** An action may not be brought against the Federal Government and a fine or penalty may not be imposed against the Government for failure to meet the requirements of subsection (b), (c), or (d) or for failure to carry out any recommendation under subsection (e).
 - **(g)** The Government and its contractors shall not be required to pay any amount for any action a State or a political subdivision of a State takes to carry out this section, including reviewing plans, carrying out on-site inspections, issuing building permits, and making recommendations.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3312(a)(1) | 40:619(g). | Pub. L. 86–249, § 21 , as added Pub. L. 100–678, § 6(a) , Nov. 17, 1988 , 102 Stat. 4051 . |
+| 3312(a)(2) | 40:619(h). |  |
+| 3312(b) | 40:619(a). |  |
+| 3312(c) | 40:619(b). |  |
+| 3312(d) | 40:619(c). |  |
+| 3312(e) | 40:619(d). |  |
+| 3312(f) | 40:619(e). |  |
+| 3312(g) | 40:619(f). |  |
+
+
+Application.—
+
+In general
+
+National security waiver
+
+Building Codes
+
+Zoning Laws
+
+Cooperation With State and Local Officials.—
+
+State and local government consultation, review, and inspections
+
+Limitation on responsibilities
+
+State and Local Government Recommendations
+
+Effect of Noncompliance
+
+Limitation on Liability
+
+Historical and Revision Notes
+
+3312(a)(1)
+
+Pub. L. 86–249, § 21
+
+Pub. L. 100–678, § 6(a)
+
+Nov. 17, 1988
+
+102 Stat. 4051
+
+3312(a)(2)
+
+3312(b)
+
+3312(c)
+
+3312(d)
+
+3312(e)
+
+3312(f)
+
+3312(g)
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1165](https://www.govinfo.gov/link/statute/116/1165).)*

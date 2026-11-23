@@ -3,9 +3,10 @@ title: "Section 2903 - Declaration of policy"
 usc_title: 25
 usc_section: "2903"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 2903"
-generated_at: "2026-03-30T02:54:52.845Z"
+generated_at: "2026-11-23T20:26:25.621Z"
+status: "active"
 ---
 
 # § 2903. Declaration of policy
@@ -25,3 +26,7 @@ It is the policy of the United States to—
   - **(6)** fully recognize the inherent right of Indian tribes and other Native American governing bodies, States, territories, and possessions of the United States to take action on, and give official status to, their Native American languages for the purpose of conducting their own business;
   - **(7)** support the granting of comparable proficiency achieved through course work in a Native American language the same academic credit as comparable proficiency achieved through course work in a foreign language, with recognition of such Native American language proficiency by institutions of higher education as fulfilling foreign language entrance or degree requirements; and
   - **(8)** encourage all institutions of elementary, secondary and higher education, where appropriate, to include Native American languages in the curriculum in the same manner as foreign languages and to grant proficiency in Native American languages the same full academic credit as proficiency in foreign languages.
+
+## Source Credit
+
+*([Pub. L. 101–477, title I, § 104](https://www.govinfo.gov/link/plaw/101/public/477), Oct. 30, 1990, [104 Stat. 1155](https://www.govinfo.gov/link/statute/104/1155).)*

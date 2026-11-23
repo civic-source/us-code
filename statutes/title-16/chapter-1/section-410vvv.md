@@ -3,9 +3,10 @@ title: "Section 410vvv - Oregon Caves National Monument and Preserve"
 usc_title: 16
 usc_section: "410vvv"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 410vvv"
-generated_at: "2026-03-30T02:54:22.784Z"
+generated_at: "2026-11-23T20:26:19.808Z"
+status: "active"
 ---
 
 # § 410vvv. Oregon Caves National Monument and Preserve
@@ -61,3 +62,7 @@ generated_at: "2026-03-30T02:54:22.784Z"
       - **(i)** terminate the grazing permit or lease; and
       - **(ii)** ensure a permanent end to grazing on the land covered by the grazing permit or lease.
   - **(2)** A lessee or permittee that donates a grazing lease or grazing permit (or a portion of a grazing lease or grazing permit) under this section shall be considered to have waived any claim to any range improvement on the associated grazing allotment or portion of the associated grazing allotment, as applicable.
+
+## Source Credit
+
+*([Pub. L. 113–291, div. B, title XXX, § 3041](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3789](https://www.govinfo.gov/link/statute/128/3789).)*

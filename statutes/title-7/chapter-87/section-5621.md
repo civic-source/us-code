@@ -3,9 +3,10 @@ title: "Section 5621 - Direct credit sales program"
 usc_title: 7
 usc_section: "5621"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 5621"
-generated_at: "2026-03-30T02:53:42.415Z"
+generated_at: "2026-11-23T20:25:41.649Z"
+status: "active"
 ---
 
 # § 5621. Direct credit sales program
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:42.415Z"
   - **(1)** a requirement that repayment shall be made in dollars with interest accruing thereon as determined appropriate by the Secretary; and
   - **(2)** a requirement, if the Secretary determines such requirement appropriate to protect the interests of the United States, that an initial payment be made by the purchaser at the time of sale or shipment of the agricultural commodity that is subject to the contract.
 - **(f)** The Commodity Credit Corporation may not make export sales financing authorized under this section available in connection with sales of an agricultural commodity to any country that the Secretary determines cannot adequately service the debt associated with such sale.
+
+## Source Credit
+
+*([Pub. L. 95–501, title II, § 201](https://www.govinfo.gov/link/plaw/95/public/501), as added [Pub. L. 101–624, title XV, § 1531](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3672](https://www.govinfo.gov/link/statute/104/3672); amended [Pub. L. 102–511, title VII, § 707(a)](https://www.govinfo.gov/link/plaw/102/public/511) –(c), Oct. 24, 1992, [106 Stat. 3350](https://www.govinfo.gov/link/statute/106/3350), 3351; [Pub. L. 104–127, title II, § 277(c)(2)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 979](https://www.govinfo.gov/link/statute/110/979).)*

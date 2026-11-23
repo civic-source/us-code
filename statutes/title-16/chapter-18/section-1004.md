@@ -3,9 +3,10 @@ title: "Section 1004 - Conditions for Federal assistance"
 usc_title: 16
 usc_section: "1004"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1004"
-generated_at: "2026-03-30T02:54:22.938Z"
+generated_at: "2026-11-23T20:26:20.362Z"
+status: "active"
 ---
 
 # § 1004. Conditions for Federal assistance
@@ -18,3 +19,7 @@ The Secretary shall require as a condition to providing Federal assistance for t
   - **(4)** acquire, or provide assurance that landowners or water users have acquired, such water rights, pursuant to State law, as may be needed in the installation and operation of the work of improvement;
   - **(5)** obtain agreements to carry out recommended soil conservation measures and proper farm plans from owners of not less than 50 per centum of the land situated in the drainage area above each retention reservoir to be installed with Federal assistance; and
   - **(6)** submit a plan of repayment satisfactory to the Secretary for any loan or advancement made under the provisions of section 1006a of this title .
+
+## Source Credit
+
+*(Aug. 4, 1954, ch. 656, § 4, [68 Stat. 667](https://www.govinfo.gov/link/statute/68/667); Aug. 7, 1956, ch. 1027, § 1(c) –(e), [70 Stat. 1088](https://www.govinfo.gov/link/statute/70/1088); [Pub. L. 85–865, § 1](https://www.govinfo.gov/link/plaw/85/public/865), Sept. 2, 1958, [72 Stat. 1605](https://www.govinfo.gov/link/statute/72/1605); [Pub. L. 86–545](https://www.govinfo.gov/link/plaw/86/public/545), June 29, 1960, [74 Stat. 254](https://www.govinfo.gov/link/statute/74/254); [Pub. L. 87–703, title I](https://www.govinfo.gov/link/plaw/87/public/703), §§ 103, 104, Sept. 27, 1962, [76 Stat. 608](https://www.govinfo.gov/link/statute/76/608), 609; [Pub. L. 92–419, title II, § 201(d)](https://www.govinfo.gov/link/plaw/92/public/419) –(f), Aug. 30, 1972, [86 Stat. 668](https://www.govinfo.gov/link/statute/86/668); [Pub. L. 97–98, title XV, § 1512(d)](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1333](https://www.govinfo.gov/link/statute/95/1333).)*

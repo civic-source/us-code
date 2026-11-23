@@ -3,9 +3,10 @@ title: "Section 801 - Declaration of policy"
 usc_title: 45
 usc_section: "801"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 801"
-generated_at: "2026-03-30T02:55:56.557Z"
+generated_at: "2026-11-23T20:27:05.323Z"
+status: "active"
 ---
 
 # § 801. Declaration of policy
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:56.557Z"
   - **(5)** promote separate pricing of distinct rail and rail-related services;
   - **(6)** formulate standards and guidelines for determining adequate revenue levels for railroads; and
   - **(7)** modernize and clarify the functions of railroad rate bureaus.
+
+## Source Credit
+
+*([Pub. L. 94–210, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/210), Feb. 5, 1976, [90 Stat. 33](https://www.govinfo.gov/link/statute/90/33); [Pub. L. 117–58, div. B, title I, § 21301(j)(3)(A)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 691](https://www.govinfo.gov/link/statute/135/691).)*

@@ -3,9 +3,10 @@ title: "Section 3403 - Task and delivery order contracts: general authority"
 usc_title: 10
 usc_section: "3403"
 chapter: 245
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 3403"
-generated_at: "2026-03-30T02:53:38.192Z"
+generated_at: "2026-11-23T20:25:51.828Z"
+status: "active"
 ---
 
 # § 3403. Task and delivery order contracts: general authority
@@ -39,3 +40,33 @@ generated_at: "2026-03-30T02:53:38.192Z"
 - **(f)** The head of an agency entering into a task or delivery order contract under this section may provide for the contract to cover any period up to five years and may extend the contract period for one or more successive periods pursuant to an option provided in the contract or a modification of the contract. The total contract period as extended may not exceed 10 years unless such head of an agency determines in writing that exceptional circumstances necessitate a longer contract period.
 - **(g)** Except as otherwise specifically provided in section 3405 of this title , this section does not apply to a task or delivery order contract for the procurement of advisory and assistance services (as defined in section 1105(g) of title 31 ).
 - **(h)** Nothing in this section may be construed to limit or expand any authority of the head of an agency or the Administrator of General Services to enter into schedule, multiple award, or task or delivery order contracts under any other provision of law.
+
+Authority To Award
+
+Solicitation
+
+Applicability of Restriction on Use of Noncompetitive Procedures
+
+Single and Multiple Contract Awards.—
+
+Exercise of authority
+
+Determination not required
+
+When Single Source Awards for Task or Delivery Order Contracts Exceeding
+
+Are Allowed
+
+Regulations
+
+Contract Modifications
+
+Contract Period
+
+Inapplicability to Contracts for Advisory and Assistance Services
+
+Relationship to Other Contracting Authority
+
+## Source Credit
+
+*(Added [Pub. L. 103–355, title I, § 1004(a)(1)](https://www.govinfo.gov/link/plaw/103/public/355), Oct. 13, 1994, [108 Stat. 3249](https://www.govinfo.gov/link/statute/108/3249), § 2304a; amended [Pub. L. 108–136, div. A, title VIII, § 843(b)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1553](https://www.govinfo.gov/link/statute/117/1553); [Pub. L. 108–375, div. A, title VIII, § 813(a)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2014](https://www.govinfo.gov/link/statute/118/2014); [Pub. L. 110–181, div. A, title VIII, § 843(a)(1)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 236](https://www.govinfo.gov/link/statute/122/236); [Pub. L. 111–84, div. A, title VIII, § 814(a)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2407](https://www.govinfo.gov/link/statute/123/2407); [Pub. L. 112–81, div. A, title VIII, § 809(b)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1490](https://www.govinfo.gov/link/statute/125/1490); [Pub. L. 115–232, div. A, title VIII, § 816](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1852](https://www.govinfo.gov/link/statute/132/1852); [Pub. L. 116–92, div. A, title VIII, § 816](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1487](https://www.govinfo.gov/link/statute/133/1487); renumbered § 3403 and amended [Pub. L. 116–283, div. A, title XVIII, § 1820(c)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4191](https://www.govinfo.gov/link/statute/134/4191); [Pub. L. 117–81, div. A, title XVII, § 1701(b)(8)(B)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2133](https://www.govinfo.gov/link/statute/135/2133).)*

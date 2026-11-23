@@ -3,9 +3,10 @@ title: "Section 2351b - Federal breakwaters and jetties"
 usc_title: 33
 usc_section: "2351b"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2351b"
-generated_at: "2026-03-30T02:55:41.128Z"
+generated_at: "2026-11-23T20:26:54.203Z"
+status: "active"
 ---
 
 # § 2351b. Federal breakwaters and jetties
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:41.128Z"
   - **(2)** if the Secretary has not carried out regular and routine Federal maintenance activity at the jetty, pile dike, or breakwater and—
     - **(A)** the structural integrity of the jetty, pile dike, or breakwater is degraded as a result of a lack of such regular and routine Federal maintenance activity; or
     - **(B)** the pile dike has disconnected from an authorized navigation project as a result of a lack of such regular and routine Federal maintenance activity.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. H, title LXXXI, § 8101](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3695](https://www.govinfo.gov/link/statute/136/3695); [Pub. L. 118–272, div. A, title I, § 1136](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3025](https://www.govinfo.gov/link/statute/138/3025).)*

@@ -3,9 +3,10 @@ title: "Section 3681 - Retirement under special treaty provisions"
 usc_title: 22
 usc_section: "3681"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3681"
-generated_at: "2026-03-30T02:55:05.396Z"
+generated_at: "2026-11-23T20:26:32.470Z"
+status: "active"
 ---
 
 # § 3681. Retirement under special treaty provisions
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:05.396Z"
       - **(ii)** would have been creditable toward any such retirement system if the retirement system were in effect at the time of the service accrued by the employee; or
       - **(iii)** consists of any combination of service described in clauses (i) and (ii) of this subparagraph.
   - **(2)** The retirement annuity referred to in paragraph (1) of this subsection with respect to any employee will cover retroactively, from October 1, 1979 , all periods of service, described in subparagraph (D) of that paragraph, by that employee at any permanent duty station in the Republic of Panama (including the area known before that date as the Canal Zone) in agencies and instrumentalities of the Government of the United States during which that employee was not covered by the United States Civil Service Retirement System or any other Federal retirement system providing benefits similar to those retirement benefits provided by the Social Security System of the Republic of Panama.
+
+## Source Credit
+
+*([Pub. L. 96–70, title I, § 1243](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 473](https://www.govinfo.gov/link/statute/93/473); [Pub. L. 105–85, div. C, title XXXV, § 3550(d)(6)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 2074](https://www.govinfo.gov/link/statute/111/2074).)*

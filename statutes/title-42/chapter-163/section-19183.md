@@ -3,9 +3,10 @@ title: "Section 19183 - Capacity-building program for developing universities"
 usc_title: 42
 usc_section: "19183"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 19183"
-generated_at: "2026-03-30T02:56:11.542Z"
+generated_at: "2026-11-23T20:27:23.864Z"
+status: "active"
 ---
 
 # § 19183. Capacity-building program for developing universities
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:56:11.542Z"
     - **(B)** identifies recommendations for Federal research agencies to sustainably boost the research capacity of high research activity status HBCUs through awards-making authorities.
   - **(2)** The National Science and Technology Council shall transmit the report required under paragraph (1) to the Director, the Administrator of the National Aeronautics and Space Administration, the Secretary of Agriculture, the Secretary of Commerce, the Secretary of Defense, the Secretary of Energy, the Secretary of Health and Human Services, and the heads of other such agencies as determined relevant by the National Science and Technology Council.
   - **(3)** The National Science and Technology Council may secure directly from a Federal department or agency such information as the National Science and Technology Council considers necessary to prepare the report required under paragraph (1). Upon a request from the National Science and Technology Council, the head of a Federal department or agency shall furnish such information as is requested to the National Science and Technology Council.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title V, § 10524](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1623](https://www.govinfo.gov/link/statute/136/1623).)*

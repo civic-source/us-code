@@ -3,9 +3,10 @@ title: "Section 6611 - Transfer authority and Sergeant at Arms Business Continui
 usc_title: 2
 usc_section: "6611"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 6611"
-generated_at: "2026-03-30T02:53:04.843Z"
+generated_at: "2026-11-23T20:25:29.080Z"
+status: "active"
 ---
 
 # § 6611. Transfer authority and Sergeant at Arms Business Continuity and Disaster Recovery Fund
@@ -23,3 +24,11 @@ generated_at: "2026-03-30T02:53:04.843Z"
     - **(C)** If the Sergeant at Arms intends to transfer amounts under subparagraph (A), the Sergeant at Arms shall submit to the Committee on Appropriations of the Senate written notice not later than 15 days before the date of the withdrawal of such amounts in accordance with section 4107 of this title .
     - **(D)** The authority to transfer amounts under this paragraph shall apply with respect to amounts appropriated for fiscal year 2022, or any fiscal year thereafter.
   - **(5)** There are authorized to be appropriated to the Fund such sums as are necessary for fiscal year 2022 and each fiscal year thereafter.
+
+Contingent Expenses of the Senate
+
+Contingent Expenses of the Senate—sergeant at arms and doorkeeper of the senate
+
+## Source Credit
+
+*([Pub. L. 101–520, title I, § 5](https://www.govinfo.gov/link/plaw/101/public/520), Nov. 5, 1990, [104 Stat. 2258](https://www.govinfo.gov/link/statute/104/2258); [Pub. L. 117–103, div. I, title I, § 103](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 505](https://www.govinfo.gov/link/statute/136/505).)*

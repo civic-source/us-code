@@ -3,9 +3,10 @@ title: "Section 2736f - Efforts to improve retention and prevent retaliation"
 usc_title: 22
 usc_section: "2736f"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2736f"
-generated_at: "2026-03-30T02:55:05.383Z"
+generated_at: "2026-11-23T20:26:32.397Z"
+status: "active"
 ---
 
 # § 2736f. Efforts to improve retention and prevent retaliation
@@ -53,3 +54,7 @@ generated_at: "2026-03-30T02:55:05.383Z"
     - **(A)** If there is a pending investigation of discrimination or harassment against a superior who is responsible for rating or reviewing the complainant employee, the complainant shall be reviewed by the superior’s supervisor or other Department employee as appropriate.
     - **(B)** This paragraph shall take effect 90 days after December 22, 2023 .
   - **(2)** Any Department employee against whom an allegation of discrimination or harassment has been made shall receive written guidance (a “retaliation hold”) on the types of actions that can be considered retaliation against the complainant employee. The employee’s immediate supervisor shall also receive the retaliation hold guidance.
+
+## Source Credit
+
+*([Pub. L. 118–31, div. F, title LXII, § 6211](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 976](https://www.govinfo.gov/link/statute/137/976).)*

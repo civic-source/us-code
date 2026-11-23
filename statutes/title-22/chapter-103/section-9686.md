@@ -3,9 +3,10 @@ title: "Section 9686 - Savings provisions"
 usc_title: 22
 usc_section: "9686"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9686"
-generated_at: "2026-03-30T02:55:05.472Z"
+generated_at: "2026-11-23T20:26:32.795Z"
+status: "active"
 ---
 
 # § 9686. Savings provisions
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:05.472Z"
   - **(1)** The Corporation may, in regulations prescribed jointly with the Director of the Office of Personnel Management, adopt the rules, procedures, terms, and conditions, established by statute, rule, or regulation before October 5, 2018 , relating to employment in any agency transferred to the Corporation under section 9683 of this title .
   - **(2)** Except as otherwise provided in this chapter, or under authority granted by this chapter, the transfer pursuant to this subchapter of personnel shall not alter the terms and conditions of employment, including compensation, of any employee so transferred.
 - **(f)** Any statutory reporting requirement that applied to an agency transferred to the Corporation under this subchapter immediately before October 5, 2018 , shall continue to apply following that transfer if the statutory requirement refers to the agency by name.
+
+## Source Credit
+
+*([Pub. L. 115–254, div. F, title VI, § 1466](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3514](https://www.govinfo.gov/link/statute/132/3514).)*

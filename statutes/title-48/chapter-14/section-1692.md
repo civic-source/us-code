@@ -3,12 +3,17 @@ title: "Section 1692 - Comprehensive annual financial report by chief executives
 usc_title: 48
 usc_section: "1692"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1692"
-generated_at: "2026-03-30T02:56:14.590Z"
+generated_at: "2026-11-23T20:27:28.066Z"
+status: "active"
 ---
 
 # § 1692. Comprehensive annual financial report by chief executives of governments of the Marshall Islands, Federated States of Micronesia, Palau, and Northern Mariana Islands; contents; other reports
 
 The chief executives of the governments of the Marshall Islands, the Federated States of Micronesia, Palau, and the Northern Mariana Islands shall prepare, publish, and submit to the Congress and the Secretary of the Interior a comprehensive annual financial report in conformance with the standards of the National Council on Governmental Accounting within one hundred and twenty days after the close of the fiscal year. The comprehensive annual financial report shall include statistical data as set forth in the standards of the National Council on Governmental Accounting relating to the physical, economic, social, and political characteristics of the government, and any other information required by the Congress. The chief executives shall also make such other reports at such other times as may be required by the Congress or under applicable Federal laws. This section is not subject to termination under section 502(a)(3) of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America ( 90 Stat. 263 , 268).
 
+
+## Source Credit
+
+*([Pub. L. 92–257, § 5](https://www.govinfo.gov/link/plaw/92/public/257), Mar. 21, 1972, [86 Stat. 88](https://www.govinfo.gov/link/statute/86/88); [Pub. L. 97–357, title II, § 203(a)](https://www.govinfo.gov/link/plaw/97/public/357), Oct. 19, 1982, [96 Stat. 1707](https://www.govinfo.gov/link/statute/96/1707); [Pub. L. 105–362, title IX, § 901(p)](https://www.govinfo.gov/link/plaw/105/public/362), Nov. 10, 1998, [112 Stat. 3291](https://www.govinfo.gov/link/statute/112/3291).)*

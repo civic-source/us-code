@@ -3,9 +3,10 @@ title: "Section 3002 - Program to improve eligible project permit coordination"
 usc_title: 43
 usc_section: "3002"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 3002"
-generated_at: "2026-03-30T02:55:57.500Z"
+generated_at: "2026-11-23T20:27:06.424Z"
+status: "active"
 ---
 
 # § 3002. Program to improve eligible project permit coordination
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:55:57.500Z"
   - **(2)** Each report under this subsection shall include—
     - **(A)** projections for renewable energy production and capacity installations; and
     - **(B)** a description of any problems relating to leasing, permitting, siting, or production.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. Z, title III, § 3102](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2514](https://www.govinfo.gov/link/statute/134/2514).)*

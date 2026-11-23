@@ -3,12 +3,17 @@ title: "Section 5115 - Vocational and trade schools; appropriation for tuition"
 usc_title: 25
 usc_section: "5115"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 5115"
-generated_at: "2026-03-30T02:54:52.864Z"
+generated_at: "2026-11-23T20:26:25.708Z"
+status: "active"
 ---
 
 # § 5115. Vocational and trade schools; appropriation for tuition
 
 There is authorized to be appropriated, out of any funds in the United States Treasury not otherwise appropriated, a sum not to exceed $250,000 annually, together with any unexpended balances of previous appropriations made pursuant to this section, for loans to Indians for the payment of tuition and other expenses in recognized vocational and trade schools: Provided , That not more than $50,000 of such sum shall be available for loans to Indian students in high schools and colleges. Such loans shall be reimbursable under rules established by the Commissioner of Indian Affairs.
 
+
+## Source Credit
+
+*(June 18, 1934, ch. 576, § 11, [48 Stat. 986](https://www.govinfo.gov/link/statute/48/986).)*

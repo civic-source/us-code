@@ -3,9 +3,10 @@ title: "Section 5189a - Appeals of assistance decisions"
 usc_title: 42
 usc_section: "5189a"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5189a"
-generated_at: "2026-03-30T02:56:11.226Z"
+generated_at: "2026-11-23T20:27:22.493Z"
+status: "active"
 ---
 
 # § 5189a. Appeals of assistance decisions
@@ -21,3 +22,23 @@ generated_at: "2026-03-30T02:56:11.226Z"
   - **(5)** To participate in arbitration under this subsection, an applicant—
     - **(A)** shall submit the dispute to the arbitration process established under the authority granted under section 601 of Public Law 111–5 ; and
     - **(B)** may submit a request for arbitration after the completion of the first appeal under subsection (a) at any time before the Administrator of the Federal Emergency Management Agency has issued a final agency determination or 180 days after the Administrator’s receipt of the appeal if the Administrator has not provided the applicant with a final determination on the appeal. The applicant’s request shall contain documentation from the administrative record for the first appeal and may contain additional documentation supporting the applicant’s position.
+
+Definitions
+
+Administrator
+
+Eligible assistance
+
+Procedures.—
+
+In general
+
+Binding effect
+
+Considerations
+
+Sunset
+
+## Source Credit
+
+*([Pub. L. 93–288, title IV, § 423](https://www.govinfo.gov/link/plaw/93/public/288), as added [Pub. L. 100–707, title I, § 106](https://www.govinfo.gov/link/plaw/100/public/707) (l), Nov. 23, 1988, [102 Stat. 4705](https://www.govinfo.gov/link/statute/102/4705); amended [Pub. L. 115–254, div. D, § 1219](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3452](https://www.govinfo.gov/link/statute/132/3452).)*

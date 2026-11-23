@@ -3,9 +3,10 @@ title: "Section 22a - Definitions"
 usc_title: 12
 usc_section: "22a"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 22a"
-generated_at: "2026-03-30T02:53:53.425Z"
+generated_at: "2026-11-23T20:25:58.991Z"
+status: "active"
 ---
 
 # § 1715z–22a. Definitions
@@ -24,3 +25,7 @@ For purposes of this subtitle:
     - **(B)** the Federal Home Loan Mortgage Corporation;
     - **(C)** State housing finance and mortgage insurance agencies; and
     - **(D)** the Federal Housing Finance Board.
+
+## Source Credit
+
+*([Pub. L. 102–550, title V, § 544](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3801](https://www.govinfo.gov/link/statute/106/3801); [Pub. L. 103–233, title III, § 307(c)](https://www.govinfo.gov/link/plaw/103/public/233), Apr. 11, 1994, [108 Stat. 378](https://www.govinfo.gov/link/statute/108/378).)*

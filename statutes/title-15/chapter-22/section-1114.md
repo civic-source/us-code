@@ -3,9 +3,10 @@ title: "Section 1114 - Remedies; infringement; innocent infringement by printers
 usc_title: 15
 usc_section: "1114"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1114"
-generated_at: "2026-03-30T02:54:08.126Z"
+generated_at: "2026-11-23T20:26:03.958Z"
+status: "active"
 ---
 
 # § 1114. Remedies; infringement; innocent infringement by printers and publishers
@@ -33,3 +34,17 @@ generated_at: "2026-03-30T02:54:08.126Z"
     - **(B)** A manufacturer, licensee, or licensor of technology that enables the making of limited portions of audio or video content of a motion picture imperceptible as described in subparagraph (A) is not liable on account of such manufacture or license for a violation of any right under this chapter, if such manufacturer, licensee, or licensor ensures that the technology provides a clear and conspicuous notice at the beginning of each performance that the performance of the motion picture is altered from the performance intended by the director or copyright holder of the motion picture. The limitations on liability in subparagraph (A) and this subparagraph shall not apply to a manufacturer, licensee, or licensor of technology that fails to comply with this paragraph.
     - **(C)** The requirement under subparagraph (B) to provide notice shall apply only with respect to technology manufactured after the end of the 180-day period beginning on April 27, 2005 .
     - **(D)** Any failure by a manufacturer, licensee, or licensor of technology to qualify for the exemption under subparagraphs (A) and (B) shall not be construed to create an inference that any such party that engages in conduct described in paragraph (11) of section 110 of title 17 is liable for trademark infringement by reason of such conduct.
+
+(a) use in commerce any reproduction, counterfeit, copy, or colorable imitation of a registered mark in connection with the sale, offering for sale, distribution, or advertising of any goods or services on or in connection with which such use is likely to cause confusion, or to cause mistake, or to deceive; or
+
+(b) reproduce, counterfeit, copy, or colorably imitate a registered mark and apply such reproduction, counterfeit, copy, or colorable imitation to labels, signs, prints, packages, wrappers, receptacles or advertisements intended to be used in commerce upon or in connection with the sale, offering for sale, distribution, or advertising of goods or services on or in connection with which such use is likely to cause confusion, or to cause mistake, or to deceive,
+
+(aa) not expeditiously deposited with a court, in which an action has been filed regarding the disposition of the domain name, documents sufficient for the court to establish the court’s control and authority regarding the disposition of the registration and use of the domain name;
+
+(bb) transferred, suspended, or otherwise modified the domain name during the pendency of the action, except upon order of the court; or
+
+(cc) willfully failed to comply with any such court order.
+
+## Source Credit
+
+*(July 5, 1946, ch. 540, title VI, § 32, [60 Stat. 437](https://www.govinfo.gov/link/statute/60/437); [Pub. L. 87–772, § 17](https://www.govinfo.gov/link/plaw/87/public/772), Oct. 9, 1962, [76 Stat. 773](https://www.govinfo.gov/link/statute/76/773); [Pub. L. 100–667, title I, § 127](https://www.govinfo.gov/link/plaw/100/public/667), Nov. 16, 1988, [102 Stat. 3943](https://www.govinfo.gov/link/statute/102/3943); [Pub. L. 102–542, § 3(a)](https://www.govinfo.gov/link/plaw/102/public/542), Oct. 27, 1992, [106 Stat. 3567](https://www.govinfo.gov/link/statute/106/3567); [Pub. L. 105–330, title II, § 201(a)(8)](https://www.govinfo.gov/link/plaw/105/public/330), Oct. 30, 1998, [112 Stat. 3070](https://www.govinfo.gov/link/statute/112/3070); [Pub. L. 106–43, § 4(a)](https://www.govinfo.gov/link/plaw/106/public/43), Aug. 5, 1999, [113 Stat. 219](https://www.govinfo.gov/link/statute/113/219); [Pub. L. 106–113, div. B, § 1000(a)(9) [title III, § 3004]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–549; [Pub. L. 109–9, title II, § 202(b)](https://www.govinfo.gov/link/plaw/109/public/9), Apr. 27, 2005, [119 Stat. 223](https://www.govinfo.gov/link/statute/119/223).)*

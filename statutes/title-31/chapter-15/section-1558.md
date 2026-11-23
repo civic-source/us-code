@@ -3,9 +3,10 @@ title: "Section 1558 - Availability of funds following resolution of a formal pr
 usc_title: 31
 usc_section: "1558"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 1558"
-generated_at: "2026-03-30T02:55:34.053Z"
+generated_at: "2026-11-23T20:26:51.743Z"
+status: "active"
 ---
 
 # § 1558. Availability of funds following resolution of a formal protest or other challenge
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:34.053Z"
       - **(iii)** an award of a contract; or
       - **(iv)** the eligibility of an offeror or potential offeror for a contract or of the contractor awarded the contract; and
     - **(B)** commencement of the action delays or prevents an executive agency from making an award of a contract or proceeding with a procurement.
+
+## Source Credit
+
+*(Added [Pub. L. 101–189, div. A, title VIII, § 813(a)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1494](https://www.govinfo.gov/link/statute/103/1494); amended [Pub. L. 104–106, div. E, title LV, § 5502(a)](https://www.govinfo.gov/link/plaw/104/public/106), (b), Feb. 10, 1996, [110 Stat. 698](https://www.govinfo.gov/link/statute/110/698), 699.)*

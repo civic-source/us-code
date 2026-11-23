@@ -3,9 +3,10 @@ title: "Section 610 - Repayment of student loan on behalf of employee"
 usc_title: 2
 usc_section: "610"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 610"
-generated_at: "2026-03-30T02:53:04.798Z"
+generated_at: "2026-11-23T20:25:28.896Z"
+status: "active"
 ---
 
 # § 610. Repayment of student loan on behalf of employee
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:04.798Z"
 - **(d)** The Office may not reimburse an employee for any repayments made by such employee prior to the Office entering into an agreement under this section with such employee.
 - **(e)** Any amount repaid by, or recovered from, an individual under this section and its implementing regulations shall be credited to the appropriation account available for salaries and expenses of the Office at the time of repayment or recovery.
 - **(f)** This section shall apply to fiscal year 2002 and each fiscal year thereafter.
+
+## Source Credit
+
+*([Pub. L. 107–68, title I, § 127](https://www.govinfo.gov/link/plaw/107/public/68), Nov. 12, 2001, [115 Stat. 577](https://www.govinfo.gov/link/statute/115/577).)*

@@ -3,9 +3,10 @@ title: "Section 7309 - National Institute of Standards and Technology annual rep
 usc_title: 15
 usc_section: "7309"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 7309"
-generated_at: "2026-03-30T02:54:08.221Z"
+generated_at: "2026-11-23T20:26:04.449Z"
+status: "active"
 ---
 
 # § 7309. National Institute of Standards and Technology annual report
@@ -15,3 +16,7 @@ Not later than February 15 of each year, the Director shall transmit to the Comm
   - **(1)** a summary of the investigations conducted by Teams during the prior fiscal year;
   - **(2)** a summary of recommendations made by the Teams in reports issued under section 7307 of this title during the prior fiscal year and a description of the extent to which those recommendations have been implemented; and
   - **(3)** a description of the actions taken to improve building safety and structural integrity by the National Institute of Standards and Technology during the prior fiscal year in response to reports issued under section 7307 of this title .
+
+## Source Credit
+
+*([Pub. L. 107–231, § 10](https://www.govinfo.gov/link/plaw/107/public/231), Oct. 1, 2002, [116 Stat. 1476](https://www.govinfo.gov/link/statute/116/1476).)*

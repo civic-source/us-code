@@ -3,9 +3,10 @@ title: "Section 21106 - Limitations on employee sleeping quarters"
 usc_title: 49
 usc_section: "21106"
 chapter: 211
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 21106"
-generated_at: "2026-03-30T02:56:19.339Z"
+generated_at: "2026-11-23T20:27:34.816Z"
+status: "active"
 ---
 
 # § 21106. Limitations on employee sleeping quarters
@@ -16,3 +17,68 @@ generated_at: "2026-03-30T02:56:19.339Z"
 - **(b)** Not later than December 31, 2009 , any railroad carrier that uses camp cars shall fully retrofit or replace such cars in compliance with subsection (a).
 - **(c)** Not later than April 1, 2010 , the Secretary of Transportation, in coordination with the Secretary of Labor, shall prescribe regulations to implement subsection (a)(1) to protect the safety and health of any employees and individuals employed to maintain the right of way of a railroad carrier that uses camp cars, which shall require that all camp cars comply with those regulations by December 31, 2010 . In prescribing the regulations, the Secretary shall assess the action taken by any railroad carrier to fully retrofit or replace its camp cars pursuant to this section.
 - **(d)** The Secretary shall determine whether a railroad carrier has fully retrofitted or replaced a camp car pursuant to subsection (b) and shall prohibit the use of any non-compliant camp car. The Secretary may assess civil penalties pursuant to chapter 213 for violations of this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 21106 | 45:62(a)(3), (4). | Mar. 4, 1907, ch. 2939 , 34 Stat. 1415 , § 2(a)(3), (4); added July 8, 1976 , Pub. L. 94–348, § 4(a)(3) , 90 Stat. 818 ; June 22, 1988 , Pub. L. 100–342, § 16(2) , 102 Stat. 634 . |
+|  | 45:62(e). | Mar. 4, 1907, ch. 2939 , 34 Stat. 1415 , § 2(e); added June 22, 1988 , Pub. L. 100–342, § 19(b)(1) , 102 Stat. 638 . |
+|  | 45:63a(d) (related to 45:62(a)(3)). | Mar. 4, 1907, ch. 2939 , 34 Stat. 1415 , § 3A(d) (related to § 2(a)(3)); added July 8, 1976 , Pub. L. 94–348, § 4(d) , 90 Stat. 819 ; June 22, 1988 , Pub. L. 100–342, § 16(4) , 102 Stat. 635 . |
+
+
+In General
+
+Camp Cars
+
+Regulations
+
+Compliance and Enforcement
+
+Historical and Revision Notes
+
+21106
+
+Mar. 4, 1907, ch. 2939
+
+34 Stat. 1415
+
+July 8, 1976
+
+Pub. L. 94–348, § 4(a)(3)
+
+90 Stat. 818
+
+June 22, 1988
+
+Pub. L. 100–342, § 16(2)
+
+102 Stat. 634
+
+Mar. 4, 1907, ch. 2939
+
+34 Stat. 1415
+
+June 22, 1988
+
+Pub. L. 100–342, § 19(b)(1)
+
+102 Stat. 638
+
+Mar. 4, 1907, ch. 2939
+
+34 Stat. 1415
+
+July 8, 1976
+
+Pub. L. 94–348, § 4(d)
+
+90 Stat. 819
+
+June 22, 1988
+
+Pub. L. 100–342, § 16(4)
+
+102 Stat. 635
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 891](https://www.govinfo.gov/link/statute/108/891); [Pub. L. 110–432, div. A, title IV, § 420](https://www.govinfo.gov/link/plaw/110/public/432), Oct. 16, 2008, [122 Stat. 4893](https://www.govinfo.gov/link/statute/122/4893).)*

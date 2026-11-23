@@ -3,9 +3,10 @@ title: "Section 2168 - Memorandum of understanding for provision of services of 
 usc_title: 2
 usc_section: "2168"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 2168"
-generated_at: "2026-03-30T02:53:04.825Z"
+generated_at: "2026-11-23T20:25:29.017Z"
+status: "active"
 ---
 
 # § 2168. Memorandum of understanding for provision of services of the United States Capitol telephone exchange for the House
@@ -28,3 +29,17 @@ generated_at: "2026-03-30T02:53:04.825Z"
     - **(B)** in the case of a reimbursement for expenses, shall be deposited in the account under the heading “ sergeant at arms and doorkeeper of the senate ” under the heading “ Contingent Expenses of the Senate ”.
   - **(3)** Any funds deposited under paragraph (2) shall be available in like manner and for the same purposes as are other funds in the account to which the funds were deposited.
 - **(f)** This section and the amendment made by this section shall apply with respect to fiscal year 2005 and each succeeding fiscal year.
+
+Office of the sergeant at arms and doorkeeper
+
+agency contributions and related expenses
+
+Salaries, Officers and Employees
+
+sergeant at arms and doorkeeper of the senate
+
+Contingent Expenses of the Senate
+
+## Source Credit
+
+*([Pub. L. 108–447, div. G, title II, § 215](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3197](https://www.govinfo.gov/link/statute/118/3197).)*

@@ -3,9 +3,10 @@ title: "Section 6503 - Transportation research and development 5-year strategic 
 usc_title: 49
 usc_section: "6503"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 6503"
-generated_at: "2026-03-30T02:56:19.322Z"
+generated_at: "2026-11-23T20:27:34.705Z"
+status: "active"
 ---
 
 # § 6503. Transportation research and development 5-year strategic plan
@@ -40,3 +41,15 @@ generated_at: "2026-03-30T02:56:19.322Z"
   - **(5)** takes into account how research and development by other Federal, State, private sector, and nonprofit institutions—
     - **(A)** contributes to the achievement of the purposes identified under subsection (c)(1); and
     - **(B)** avoids unnecessary duplication of those efforts.
+
+In General
+
+Consistency
+
+Contents
+
+Considerations
+
+## Source Credit
+
+*(Added [Pub. L. 114–94, div. A, title VI, § 6019(b)(1)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1580](https://www.govinfo.gov/link/statute/129/1580); amended [Pub. L. 117–58, div. B, title V, § 25014](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 869](https://www.govinfo.gov/link/statute/135/869).)*

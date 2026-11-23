@@ -3,9 +3,10 @@ title: "Section 8402 - Loans to assist powerplant acquisitions of air pollution 
 usc_title: 42
 usc_section: "8402"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8402"
-generated_at: "2026-03-30T02:56:11.342Z"
+generated_at: "2026-11-23T20:27:23.040Z"
+status: "active"
 ---
 
 # § 8402. Loans to assist powerplant acquisitions of air pollution control equipment
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:56:11.342Z"
   - **(3)** If there is a default under any loan, the Secretary shall notify the Attorney General who shall take such action against the obligator or other parties liable thereunder as is, in his discretion, necessary to protect the interests of the United States. The holder of such loan shall make available to the United States all records and evidence necessary to prosecute any such suit.
 - **(g)** Amounts received by the Secretary as principal, interest, fees, proceeds from security acquired following default, or other amounts received by the Secretary in connection with loans made under this section shall be paid into the Treasury of the United States as miscellaneous receipts.
 - **(h)** There are hereby authorized to be appropriated to the Secretary such sums as may be necessary to carry out the purposes of this section, but not to exceed $400,000,000 for fiscal year 1979 and $400,000,000 for fiscal year 1980. Authority granted to the Secretary under subsection (a) may be exercised only to the extent as may be provided in advance in appropriation Acts.
+
+## Source Credit
+
+*([Pub. L. 95–620, title VI, § 602](https://www.govinfo.gov/link/plaw/95/public/620), Nov. 9, 1978, [92 Stat. 3327](https://www.govinfo.gov/link/statute/92/3327).)*

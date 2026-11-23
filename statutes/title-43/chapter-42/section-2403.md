@@ -3,9 +3,10 @@ title: "Section 2403 - Rural water programs assessment"
 usc_title: 43
 usc_section: "2403"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 2403"
-generated_at: "2026-03-30T02:55:57.496Z"
+generated_at: "2026-11-23T20:27:06.404Z"
+status: "active"
 ---
 
 # § 2403. Rural water programs assessment
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:57.496Z"
   - **(7)** improvements that can be made to coordinate and integrate the authorities of the agencies with programs evaluated under paragraph (4), including any recommendations to consolidate some or all of the activities of the agencies with respect to rural water supply.
 - **(b)** Before finalizing the assessment developed under subsection (a), the Secretary shall solicit comments from States with identified rural water needs.
 - **(c)** Not later than 2 years after December 22, 2006 , the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Resources of the House of Representatives a detailed report on the assessment conducted under subsection (a).
+
+## Source Credit
+
+*([Pub. L. 109–451, title I, § 104](https://www.govinfo.gov/link/plaw/109/public/451), Dec. 22, 2006, [120 Stat. 3348](https://www.govinfo.gov/link/statute/120/3348).)*

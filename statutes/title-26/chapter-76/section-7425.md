@@ -3,9 +3,10 @@ title: "Section 7425 - Discharge of liens"
 usc_title: 26
 usc_section: "7425"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 7425"
-generated_at: "2026-03-30T02:55:27.870Z"
+generated_at: "2026-11-23T20:26:46.762Z"
+status: "active"
 ---
 
 # § 7425. Discharge of liens
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:27.870Z"
     - **(A)** In any case in which real property is redeemed by the United States pursuant to this subsection, the Secretary shall apply to the officer designated by local law, if any, for the documents necessary to evidence the fact of redemption and to record title to such property in the name of the United States. If no such officer is designated by local law or if such officer fails to issue such documents, the Secretary shall execute a certificate of redemption therefor.
     - **(B)** The Secretary shall, without delay, cause such documents or certificate to be duly recorded in the proper registry of deeds. If the State in which the real property redeemed by the United States is situated has not by law designated an office in which such certificate may be recorded, the Secretary shall file such certificate in the office of the clerk of the United States district court for the judicial district in which such property is situated.
     - **(C)** A certificate of redemption executed by the Secretary shall constitute prima facie evidence of the regularity of such redemption and shall, when recorded, transfer to the United States all the rights, title, and interest in and to such property acquired by the person from whom the United States redeems such property by virtue of the sale of such property.
+
+## Source Credit
+
+*(Added [Pub. L. 89–719, title I, § 109](https://www.govinfo.gov/link/plaw/89/public/719), Nov. 2, 1966, [80 Stat. 1141](https://www.govinfo.gov/link/statute/80/1141); amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 99–514, title XV, § 1572(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2765](https://www.govinfo.gov/link/statute/100/2765).)*

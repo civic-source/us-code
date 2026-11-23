@@ -3,9 +3,10 @@ title: "Section 6062 - Funding for Individuals with Disabilities Education Act"
 usc_title: 20
 usc_section: "6062"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 6062"
-generated_at: "2026-03-30T02:54:48.190Z"
+generated_at: "2026-11-23T20:26:14.806Z"
+status: "active"
 ---
 
 # § 6062. Funding for Individuals with Disabilities Education Act
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:48.190Z"
   - **(2)** this funding shortfall is particularly burdensome to school districts and schools in low-income areas which serve higher than average proportions of students with disabilities and have fewer local resources to contribute; and
   - **(3)** it would cost the Federal Government approximately $10,000,000,000 each year to fully fund the Individuals with Disabilities Education Act.
 - **(b)** It is the sense of the Congress that the Federal Government should provide States and communities with adequate resources under the Individuals with Disabilities Education Act [ 20 U.S.C. 1400 et seq.] as soon as reasonably possible, through the reallocation of noneducation funds within the current budget monetary constraints.
+
+## Source Credit
+
+*([Pub. L. 103–227, title X, § 1012](https://www.govinfo.gov/link/plaw/103/public/227), Mar. 31, 1994, [108 Stat. 265](https://www.govinfo.gov/link/statute/108/265).)*

@@ -3,9 +3,10 @@ title: "Section 3175b - Expansion of effective food, nutrition, and consumer edu
 usc_title: 7
 usc_section: "3175b"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 3175b"
-generated_at: "2026-03-30T02:53:42.397Z"
+generated_at: "2026-11-23T20:25:41.572Z"
+status: "active"
 ---
 
 # § 3175b. Expansion of effective food, nutrition, and consumer education services
@@ -15,3 +16,7 @@ The purpose of the program provided for under sections 3175a through 3175e of th
   - **(1)** increase their ability to manage their food budgets, including food stamps and other food assistance;
   - **(2)** increase their ability to buy food that satisfies nutritional needs and promotes good health; and
   - **(3)** improve their food preparation, storage, safety, preservation, and sanitation practices.
+
+## Source Credit
+
+*([Pub. L. 99–198, title XV, § 1585](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1596](https://www.govinfo.gov/link/statute/99/1596).)*

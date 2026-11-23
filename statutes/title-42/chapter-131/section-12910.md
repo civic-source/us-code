@@ -3,9 +3,10 @@ title: "Section 12910 - Grants for community residences and services"
 usc_title: 42
 usc_section: "12910"
 chapter: 131
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12910"
-generated_at: "2026-03-30T02:56:11.436Z"
+generated_at: "2026-11-23T20:27:23.459Z"
+status: "active"
 ---
 
 # § 12910. Grants for community residences and services
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:56:11.436Z"
     - **(C)** That any construction or physical improvements carried out with amounts received from the grant will comply with any applicable State and local housing codes and licensing requirements in the jurisdiction in which the building or structure is located.
     - **(D)** That, for any individual with acquired immunodeficiency syndrome or related diseases who resides in a community residence assisted under the grant and who requires more intensive care than can be provided by the community residence, the jurisdiction will locate for and refer the individual to a service provider who can appropriately care for the individual.
   - **(2)** Any jurisdiction that receives a grant under this section may use any amounts received under the grant for the purposes under subsection (c)(2) only for the provision of services by service providers qualified to provide such services to eligible persons.
+
+## Source Credit
+
+*([Pub. L. 101–625, title VIII, § 861](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4382](https://www.govinfo.gov/link/statute/104/4382); [Pub. L. 102–550, title VI, § 606(i)](https://www.govinfo.gov/link/plaw/102/public/550), (j)(8)–(10), (11)(E), Oct. 28, 1992, [106 Stat. 3810](https://www.govinfo.gov/link/statute/106/3810), 3811; [Pub. L. 105–276, title V, § 550(b)](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2609](https://www.govinfo.gov/link/statute/112/2609).)*

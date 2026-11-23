@@ -3,9 +3,10 @@ title: "Section 717x - Conserved natural gas"
 usc_title: 15
 usc_section: "717x"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 717x"
-generated_at: "2026-03-30T02:54:08.119Z"
+generated_at: "2026-11-23T20:26:03.907Z"
+status: "active"
 ---
 
 # § 717x. Conserved natural gas
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:08.119Z"
   - **(1)** The term “conservation measures” means such energy conservation measures, as determined by the Commission, as were implemented after the base period established under the curtailment plan in effect on November 9, 1978 .
   - **(2)** The term “local distribution company” means any person engaged in the transportation, or local distribution, of natural gas and the sale of natural gas for ultimate consumption.
   - **(3)** The term “curtailment plan” means a plan (including any modification of such plan required by the Natural Gas Policy Act of 1978 [ 15 U.S.C. 3301 et seq.] ) in effect under the Natural Gas Act [ 15 U.S.C. 717 et seq.] which provides for recognizing and implementing priorities of service during periods of curtailed deliveries.
+
+## Source Credit
+
+*([Pub. L. 95–617, title VI, § 605](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3167](https://www.govinfo.gov/link/statute/92/3167).)*

@@ -3,9 +3,10 @@ title: "Section 2213 - General duties of Chief Executive Officer"
 usc_title: 2
 usc_section: "2213"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 2213"
-generated_at: "2026-03-30T02:53:04.826Z"
+generated_at: "2026-11-23T20:25:29.021Z"
+status: "active"
 ---
 
 # § 2213. General duties of Chief Executive Officer
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:04.826Z"
   - **(3)** designate an employee of the Office to serve as contracting officer for the Office, subject to subsection (c).
 - **(c)** The Architect of the Capitol may not enter into a contract for the operations of the Capitol Visitor Center for which the amount involved exceeds $250,000 without the prior approval of the Committee on Rules and Administration of the Senate and the Committee on House Administration of the House of Representatives.
 - **(d)** The Chief Executive Officer shall submit a report to the Committee on Rules and Administration of the Senate and the Committee on House Administration of the House of Representatives not later than 45 days following the close of each semiannual period ending on March 31 or September 30 of each year on the financial and operational status during the period of each function under the jurisdiction of the Chief Executive Officer. Each such report shall include financial statements and a description or explanation of current operations, the implementation of new policies and procedures, and future plans for each function.
+
+## Source Credit
+
+*([Pub. L. 110–437, title II, § 203](https://www.govinfo.gov/link/plaw/110/public/437), Oct. 20, 2008, [122 Stat. 4987](https://www.govinfo.gov/link/statute/122/4987).)*

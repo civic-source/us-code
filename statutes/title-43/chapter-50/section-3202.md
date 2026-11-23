@@ -3,9 +3,10 @@ title: "Section 3202 - Water storage, groundwater storage, and conveyance projec
 usc_title: 43
 usc_section: "3202"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 3202"
-generated_at: "2026-03-30T02:55:57.502Z"
+generated_at: "2026-11-23T20:27:06.431Z"
+status: "active"
 ---
 
 # § 3202. Water storage, groundwater storage, and conveyance projects
@@ -40,3 +41,11 @@ generated_at: "2026-03-30T02:55:57.502Z"
   - **(2)** Before funding a project under this section, the Secretary shall determine that, in return for the Federal investment in the project, at least a proportionate share of the benefits are Federal benefits.
   - **(3)** The reimbursability of Federal funding of projects under this section shall be in accordance with the reclamation laws.
 - **(c)** In providing funding for a project under this section, the Secretary shall comply with all applicable environmental laws, including the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.).
+
+(aa) finds the project to be in the public interest; and
+
+(bb) recommends the project for construction.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title IX, § 40902](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1118](https://www.govinfo.gov/link/statute/135/1118).)*

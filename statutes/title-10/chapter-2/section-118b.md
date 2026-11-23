@@ -3,9 +3,10 @@ title: "Section 118b - National Defense Sustainment and Logistics Review"
 usc_title: 10
 usc_section: "118b"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 118b"
-generated_at: "2026-03-30T02:53:38.031Z"
+generated_at: "2026-11-23T20:25:50.811Z"
+status: "active"
 ---
 
 # § 118b. National Defense Sustainment and Logistics Review
@@ -33,3 +34,15 @@ generated_at: "2026-03-30T02:53:38.031Z"
   - **(2)** The strengths and weaknesses of the approach and methodology used in conducting the review required under subsection (a) that is covered by the report.
   - **(3)** Any other matters relating to sustainment that may arise from the report, as the Comptroller General considers appropriate.
 - **(d)** Nothing in this section shall be construed to affect section 1105(a) of title 31 .
+
+Review Required
+
+Report to Congress
+
+Comptroller General Review
+
+Relationship to Budget
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. A, title III, § 341(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3535](https://www.govinfo.gov/link/statute/134/3535), § 118a; renumbered § 118b and amended [Pub. L. 117–81, div. A, title III, § 311(b)(1)](https://www.govinfo.gov/link/plaw/117/public/81), title X, § 1081(a)(3), Dec. 27, 2021, [135 Stat. 1625](https://www.govinfo.gov/link/statute/135/1625), 1919.)*

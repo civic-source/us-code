@@ -3,9 +3,10 @@ title: "Section 6603 - Deposits made to suspend running of interest on potential
 usc_title: 26
 usc_section: "6603"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6603"
-generated_at: "2026-03-30T02:55:27.859Z"
+generated_at: "2026-11-23T20:26:46.686Z"
+status: "active"
 ---
 
 # § 6603. Deposits made to suspend running of interest on potential underpayments, etc.
@@ -27,3 +28,11 @@ generated_at: "2026-03-30T02:55:27.859Z"
 - **(e)**
   - **(1)** Except as otherwise provided by the taxpayer, deposits shall be treated as used for the payment of tax in the order deposited.
   - **(2)** Deposits shall be treated as returned to the taxpayer on a last-in, first-out basis.
+
+In general
+
+Coordination with deposits made under revenue procedure 84–58
+
+## Source Credit
+
+*(Added [Pub. L. 108–357, title VIII, § 842(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1598](https://www.govinfo.gov/link/statute/118/1598); amended [Pub. L. 116–25, title I, § 1001(b)(1)(D)](https://www.govinfo.gov/link/plaw/116/public/25), July 1, 2019, [133 Stat. 985](https://www.govinfo.gov/link/statute/133/985).)*

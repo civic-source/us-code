@@ -3,9 +3,10 @@ title: "Section 9006 - Studies, reports, and audits"
 usc_title: 5
 usc_section: "9006"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 9006"
-generated_at: "2026-03-30T02:52:56.072Z"
+generated_at: "2026-11-23T20:25:32.258Z"
+status: "active"
 ---
 
 # § 9006. Studies, reports, and audits
@@ -15,3 +16,13 @@ generated_at: "2026-03-30T02:52:56.072Z"
   - **(2)** to permit the Office and representatives of the Government Accountability Office to examine such records of the carrier as may be necessary to carry out the purposes of this chapter.
 - **(b)** Each Federal agency shall keep such records, make such certifications, and furnish the Office, the carrier, or both, with such information and reports as the Office may require.
 - **(c)** The Government Accountability Office shall prepare and submit to the President, the Office of Personnel Management, and each House of Congress, before the end of the third and fifth years during which the program under this chapter is in effect, a written report evaluating such program. Each such report shall include an analysis of the competitiveness of the program, as compared to both group and individual coverage generally available to individuals in the private insurance market. The Office shall cooperate with the Government Accountability Office to provide periodic evaluations of the program.
+
+Provisions Relating to Carriers
+
+Provisions Relating to Federal Agencies
+
+Reports by the Government Accountability Office
+
+## Source Credit
+
+*(Added [Pub. L. 106–265, title I, § 1002(a)](https://www.govinfo.gov/link/plaw/106/public/265), Sept. 19, 2000, [114 Stat. 768](https://www.govinfo.gov/link/statute/114/768); amended [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814).)*

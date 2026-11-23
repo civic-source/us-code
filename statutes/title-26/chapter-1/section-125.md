@@ -3,9 +3,10 @@ title: "Section 125 - Cafeteria plans"
 usc_title: 26
 usc_section: "125"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 125"
-generated_at: "2026-03-30T02:55:27.626Z"
+generated_at: "2026-11-23T20:26:45.348Z"
+status: "active"
 ---
 
 # § 125. Cafeteria plans
@@ -107,3 +108,45 @@ generated_at: "2026-03-30T02:55:27.626Z"
   - **(7)** The term “compensation” has the meaning given such term by section 414(s).
 - **(k)** For reporting and recordkeeping requirements, see section 6039D.
 - **(l)** The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section.
+
+Carryover From
+
+Plan Year
+
+Carryover From
+
+Plan Year
+
+Extension of Grace Periods, etc.—
+
+In general
+
+Post-termination reimbursements from health FSAs
+
+Special Carry Forward Rule for Dependent Care Flexible Spending Arrangements Where Dependent Aged Out During Pandemic.—
+
+In general
+
+Application to subsequent plan year limited to unused balance from preceding plan year
+
+Eligible employee
+
+Change in Election Amount
+
+Definitions
+
+Plan Amendments
+
+General transitional rule
+
+Special transition rule for advance election benefit banks
+
+Plans for which substantial implementation costs were incurred
+
+Collective bargaining agreements
+
+Special rule where contributions or reimbursements suspended
+
+## Source Credit
+
+*(Added [Pub. L. 95–600, title I, § 134(a)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2783](https://www.govinfo.gov/link/statute/92/2783); amended [Pub. L. 96–222, title I, § 101(a)(6)(A)](https://www.govinfo.gov/link/plaw/96/public/222), Apr. 1, 1980, [94 Stat. 196](https://www.govinfo.gov/link/statute/94/196); [Pub. L. 96–605, title II](https://www.govinfo.gov/link/plaw/96/public/605), §§ 201(b)(2), 226(a), Dec. 28, 1980, [94 Stat. 3527](https://www.govinfo.gov/link/statute/94/3527), 3529; [Pub. L. 96–613, § 5(b)(2)](https://www.govinfo.gov/link/plaw/96/public/613), Dec. 28, 1980, [94 Stat. 3581](https://www.govinfo.gov/link/statute/94/3581); [Pub. L. 98–369, div. A, title V, § 531(b)(1)](https://www.govinfo.gov/link/plaw/98/public/369) –(4)(A), July 18, 1984, [98 Stat. 881](https://www.govinfo.gov/link/statute/98/881), 882; [Pub. L. 98–611, § 1(d)(3)(A)](https://www.govinfo.gov/link/plaw/98/public/611), Oct. 31, 1984, [98 Stat. 3177](https://www.govinfo.gov/link/statute/98/3177); [Pub. L. 98–612, § 1(b)(3)(B)](https://www.govinfo.gov/link/plaw/98/public/612), Oct. 31, 1984, [98 Stat. 3181](https://www.govinfo.gov/link/statute/98/3181); [Pub. L. 99–514, title XI, § 1151(d)(1)](https://www.govinfo.gov/link/plaw/99/public/514), title XVIII, § 1853(b)(1), Oct. 22, 1986, [100 Stat. 2504](https://www.govinfo.gov/link/statute/100/2504), 2870; [Pub. L. 100–647, title I](https://www.govinfo.gov/link/plaw/100/public/647), §§ 1011B(a)(11)–(13), 1018(t)(6), title IV, § 4002(b)(2), title VI, § 6051(b), Nov. 10, 1988, [102 Stat. 3484](https://www.govinfo.gov/link/statute/102/3484), 3485, 3589, 3643, 3696; [Pub. L. 101–140, title II, § 203(a)(1)](https://www.govinfo.gov/link/plaw/101/public/140), (3), (b)(2), Nov. 8, 1989, [103 Stat. 830](https://www.govinfo.gov/link/statute/103/830), 831; [Pub. L. 101–239, title VII, § 7814(b)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2413](https://www.govinfo.gov/link/statute/103/2413); [Pub. L. 101–508, title XI, § 11801(c)(3)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–523](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 104–191, title III](https://www.govinfo.gov/link/plaw/104/public/191), §§ 301(d), 321(c)(1), Aug. 21, 1996, [110 Stat. 2051](https://www.govinfo.gov/link/statute/110/2051), 2058; [Pub. L. 108–173, title XII, § 1201(i)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2479](https://www.govinfo.gov/link/statute/117/2479); [Pub. L. 108–311, title II, § 207(11)](https://www.govinfo.gov/link/plaw/108/public/311), Oct. 4, 2004, [118 Stat. 1177](https://www.govinfo.gov/link/statute/118/1177); [Pub. L. 110–172, § 11(a)(12)](https://www.govinfo.gov/link/plaw/110/public/172), Dec. 29, 2007, [121 Stat. 2485](https://www.govinfo.gov/link/statute/121/2485); [Pub. L. 110–245, title I, § 114(a)](https://www.govinfo.gov/link/plaw/110/public/245), June 17, 2008, [122 Stat. 1636](https://www.govinfo.gov/link/statute/122/1636); [Pub. L. 111–148, title I, § 1515(a)](https://www.govinfo.gov/link/plaw/111/public/148), (b), title IX, §§ 9005(a), 9022(a), title X, § 10902(a), Mar. 23, 2010, [124 Stat. 258](https://www.govinfo.gov/link/statute/124/258), 854, 874, 1016; [Pub. L. 111–152, title I, § 1403(b)](https://www.govinfo.gov/link/plaw/111/public/152), Mar. 30, 2010, [124 Stat. 1063](https://www.govinfo.gov/link/statute/124/1063); [Pub. L. 113–295, div. A, title II](https://www.govinfo.gov/link/plaw/113/public/295), §§ 213(b), 220(f), (g), Dec. 19, 2014, [128 Stat. 4033](https://www.govinfo.gov/link/statute/128/4033), 4036; [Pub. L. 115–97, title I, § 11002(d)(1)(L)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2060](https://www.govinfo.gov/link/statute/131/2060); [Pub. L. 115–141, div. U, title IV, § 401(a)(37)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1186](https://www.govinfo.gov/link/statute/132/1186).)*

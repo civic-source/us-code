@@ -3,9 +3,10 @@ title: "Section 2391 - Assistance to governmental entities"
 usc_title: 42
 usc_section: "2391"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2391"
-generated_at: "2026-03-30T02:56:11.165Z"
+generated_at: "2026-11-23T20:27:22.151Z"
+status: "active"
 ---
 
 # § 2391. Assistance to governmental entities
@@ -22,3 +23,33 @@ generated_at: "2026-03-30T02:56:11.165Z"
 - **(c)** Payments made under this section shall be payments made for special burdens imposed on the local governmental entities in accordance with the second sentence of section 2208 of this title . Payments may be made under this section notwithstanding the provisions of the Act of September 30, 1950 1 1 See References in Text note below. (Public Law 874, Eighty-first Congress), as amended.
 - **(d)** With respect to any entity not less than six months prior to the expiration of the ten-year period referred to in subsection (a) (or not less than six months prior to June 30, 1979 , in the case of the cities of Oak Ridge, Tennessee, and Richland, Washington, and the Richland School District; or not less than six months prior to June 30, 1986 , in the case of Anderson County and Roane County, Tennessee; or not later than June 30, 1996 , in the case of the Los Alamos School Board and the county of Los Alamos, New Mexico), the Administrator shall present to the appropriate committees of the House of Representatives and the Senate recommendations as to the need for any further assistance payments to such entity. If the recommendation under the preceding sentence regarding the Los Alamos School Board or the county of Los Alamos, New Mexico, indicates a need for further assistance for the school board or the county, as the case may be, after June 30, 1997 , the recommendation shall include a report and plan describing the actions required to eliminate the need for further assistance for the school board or the county, including a proposal for legislative action to carry out the plan.
 - **(e)** In exercising the authority of subsection (a) the Administrator shall assure that the governmental or other entities receiving assistance hereunder utilize all reasonable, available means to achieve financial self-sufficiency to the end that assistance payments by the Administrator may be reduced or terminated at the earliest practical time.
+
+Environmental Restoration
+
+Conveyance or Transfer
+
+Parcels of Land
+
+In General
+
+Preliminary Identification of Parcels of Land for Conveyance or Transfer
+
+Review of Title
+
+Environmental Restoration
+
+Agreement for Allocation of Parcels
+
+Plan for Conveyance and Transfer
+
+Conveyance or Transfer
+
+Use of Conveyed or Transferred Land
+
+Treatment of Conveyances and Transfers
+
+Repeal of Superseded Provision
+
+## Source Credit
+
+*(Aug. 4, 1955, ch. 543, ch. 9, § 91, [69 Stat. 481](https://www.govinfo.gov/link/statute/69/481); [Pub. L. 90–190, § 2](https://www.govinfo.gov/link/plaw/90/public/190), Dec. 14, 1967, [81 Stat. 576](https://www.govinfo.gov/link/statute/81/576); [Pub. L. 94–187, title VI, § 601(1)](https://www.govinfo.gov/link/plaw/94/public/187) –(6), Dec. 31, 1975, [89 Stat. 1077](https://www.govinfo.gov/link/statute/89/1077), 1078; [Pub. L. 95–238, title II, § 205(a)](https://www.govinfo.gov/link/plaw/95/public/238), Feb. 25, 1978, [92 Stat. 60](https://www.govinfo.gov/link/statute/92/60); [Pub. L. 104–106, div. C, title XXXI, § 3161(c)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 627](https://www.govinfo.gov/link/statute/110/627).)*

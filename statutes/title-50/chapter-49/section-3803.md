@@ -3,9 +3,10 @@ title: "Section 3803 - Persons liable for training and service"
 usc_title: 50
 usc_section: "3803"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3803"
-generated_at: "2026-03-30T02:56:26.261Z"
+generated_at: "2026-11-23T20:27:31.038Z"
+status: "active"
 ---
 
 # § 3803. Persons liable for training and service
@@ -49,3 +50,11 @@ generated_at: "2026-03-30T02:56:26.261Z"
   - **(10)** Each person inducted into the National Security Training Corps shall be compensated at the monthly rate of $30: Provided, however , That each such person, having a dependent or dependents shall be entitled to receive a dependency allowance equal to the basic allowance for housing provided for persons in pay grade E–1 under section 403 of title 37 plus $40 so long as such person has in effect an allotment equal to the amount of such dependency allowance for the support of the dependent or dependents on whose account the allowance is claimed.
   - **(11)** No person inducted into the National Security Training Corps shall be assigned for training at an installation located on land outside the continental United States, except that residents of Territories and possessions of the United States may be trained in the Territory or possession from which they were inducted.
 - **(l)**
+
+Dwight D. Eisenhower.
+
+Dwight D. Eisenhower.
+
+## Source Credit
+
+*(June 24, 1948, ch. 625, title I, § 4, [62 Stat. 605](https://www.govinfo.gov/link/statute/62/605); Sept. 9, 1950, ch. 939, § 1, [64 Stat. 826](https://www.govinfo.gov/link/statute/64/826); Sept. 27, 1950, ch. 1059, §§ 1(1)–(5), 3(a), [64 Stat. 1073](https://www.govinfo.gov/link/statute/64/1073); June 19, 1951, ch. 144, title I, § 1(d)–(j), [65 Stat. 76](https://www.govinfo.gov/link/statute/65/76); July 9, 1952, ch. 608, pt. VIII, § 813, [66 Stat. 509](https://www.govinfo.gov/link/statute/66/509); June 29, 1953, ch. 158, §§ 1, 2, 6, [67 Stat. 86](https://www.govinfo.gov/link/statute/67/86), 89; June 30, 1955, ch. 250, title II, § 202, [69 Stat. 224](https://www.govinfo.gov/link/statute/69/224); Aug. 9, 1955, ch. 665, § 3(a), [69 Stat. 602](https://www.govinfo.gov/link/statute/69/602); Aug. 10, 1956, ch. 1041, §§ 22(a)–(c), 53, 70A Stat. 630, 641; [Pub. L. 85–62](https://www.govinfo.gov/link/plaw/85/public/62), §§ 1–3, June 27, 1957, [71 Stat. 206](https://www.govinfo.gov/link/statute/71/206), 207; [Pub. L. 85–564](https://www.govinfo.gov/link/plaw/85/public/564), July 28, 1958, [72 Stat. 424](https://www.govinfo.gov/link/statute/72/424); [Pub. L. 85–861](https://www.govinfo.gov/link/plaw/85/public/861), §§ 9, 36A, Sept. 2, 1958, [72 Stat. 1556](https://www.govinfo.gov/link/statute/72/1556), 1569; [Pub. L. 87–651, title III, § 301](https://www.govinfo.gov/link/plaw/87/public/651), Sept. 7, 1962, [76 Stat. 524](https://www.govinfo.gov/link/statute/76/524); [Pub. L. 89–554, § 8(a)](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 656](https://www.govinfo.gov/link/statute/80/656); [Pub. L. 90–40, § 1(2)](https://www.govinfo.gov/link/plaw/90/public/40), June 30, 1967, [81 Stat. 100](https://www.govinfo.gov/link/statute/81/100); [Pub. L. 92–129, title I, § 101(a)(3)](https://www.govinfo.gov/link/plaw/92/public/129) –(7), Sept. 28, 1971, [85 Stat. 348](https://www.govinfo.gov/link/statute/85/348), 349; [Pub. L. 94–106, title VIII, § 802(c)](https://www.govinfo.gov/link/plaw/94/public/106), Oct. 7, 1975, [89 Stat. 537](https://www.govinfo.gov/link/statute/89/537); [Pub. L. 105–85, div. A, title VI, § 603(d)(5)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1783](https://www.govinfo.gov/link/statute/111/1783); [Pub. L. 107–296, title XVII, § 1704(e)(11)(A)](https://www.govinfo.gov/link/plaw/107/public/296), (B), Nov. 25, 2002, [116 Stat. 2315](https://www.govinfo.gov/link/statute/116/2315); [Pub. L. 119–60, div. A, title V, § 535(b)(1)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 871](https://www.govinfo.gov/link/statute/139/871).)*

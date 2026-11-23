@@ -3,9 +3,10 @@ title: "Section 497e - Enhancing Forest Service administration of rights-of-way 
 usc_title: 16
 usc_section: "497e"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 497e"
-generated_at: "2026-03-30T02:54:22.859Z"
+generated_at: "2026-11-23T20:26:20.091Z"
+status: "active"
 ---
 
 # § 497e. Enhancing Forest Service administration of rights-of-way and land uses
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:22.859Z"
 - **(d)** In the budget justification documents submitted by the Secretary of Agriculture in support of the President’s budget for a fiscal year under section 1105 of title 31 , the Secretary shall include a description of the purposes for which amounts were expended from the special account during the preceding fiscal year, including the amounts expended for each purpose, and a description of the purposes for which amounts are proposed to be expended from the special account during the next fiscal year, including the amounts proposed to be expended for each purpose.
 - **(e)** For purposes of this section, the term “authorizations” means special use authorizations issued under subpart B of part 251 of title 36, Code of Federal Regulations.
 - **(f)** This section shall take effect upon promulgation of Forest Service regulations for the collection of fees for processing of special use authorizations and for related monitoring activities.
+
+## Source Credit
+
+*([Pub. L. 106–113, div. B, § 1000(a)(3) [title III, § 331]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1535](https://www.govinfo.gov/link/statute/113/1535), 1501A–196; [Pub. L. 108–447, div. E, title III, § 345](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3105](https://www.govinfo.gov/link/statute/118/3105); [Pub. L. 109–54, title IV, § 425](https://www.govinfo.gov/link/plaw/109/public/54), Aug. 2, 2005, [119 Stat. 555](https://www.govinfo.gov/link/statute/119/555); [Pub. L. 110–161, div. F, title IV, § 416](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2148](https://www.govinfo.gov/link/statute/121/2148); [Pub. L. 113–76, div. G, title IV, § 425](https://www.govinfo.gov/link/plaw/113/public/76), Jan. 17, 2014, [128 Stat. 344](https://www.govinfo.gov/link/statute/128/344).)*

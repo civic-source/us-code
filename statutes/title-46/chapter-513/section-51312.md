@@ -3,9 +3,10 @@ title: "Section 51312 - Board of Visitors"
 usc_title: 46
 usc_section: "51312"
 chapter: 513
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 51312"
-generated_at: "2026-03-30T02:56:15.569Z"
+generated_at: "2026-11-23T20:27:27.285Z"
+status: "active"
 ---
 
 # § 51312. Board of Visitors
@@ -82,3 +83,118 @@ generated_at: "2026-03-30T02:56:15.569Z"
     - **(A)** the Secretary of Transportation;
     - **(B)** the Committee on Commerce, Science, and Transportation of the Senate; and
     - **(C)** the Committee on Armed Services of the House of Representatives.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 51312 | 46 App.:1295b(h). | June 29, 1936, ch. 858 , title XIII, § 1303(h), as added Pub. L. 96–453, § 2 , Oct. 15, 1980 , 94 Stat. 2002 ; Pub. L. 97–35, title XVI, § 1607 , Aug. 13, 1981 , 95 Stat. 752 ; Pub. L. 101–595, title VII, § 703 , Nov. 16, 1990 , 104 Stat. 2994 . |
+
+
+In General
+
+Membership.—
+
+In general
+
+Presidential appointees
+
+Term of service.—
+
+In general
+
+Continuation of service
+
+Replacement
+
+Vacancies
+
+Designation and responsibility of substitute board members.—
+
+Authority to designate
+
+Requirements
+
+Participation
+
+Chairperson.—
+
+In general
+
+Rotation
+
+Term
+
+Meetings.—
+
+In general
+
+Chairperson and charter
+
+Scheduling; notification
+
+Visiting the Academy.—
+
+Annual visit
+
+Other visits
+
+Access
+
+Staff
+
+Scheduling; notification
+
+Responsibility
+
+Department of Transportation Support
+
+Staff
+
+Travel Expenses
+
+Reports.—
+
+Annual report
+
+Other reports
+
+Advisors
+
+Submission
+
+Historical and Revision Notes
+
+51312
+
+June 29, 1936, ch. 858
+
+Pub. L. 96–453, § 2
+
+Oct. 15, 1980
+
+94 Stat. 2002
+
+Pub. L. 97–35, title XVI, § 1607
+
+Aug. 13, 1981
+
+95 Stat. 752
+
+Pub. L. 101–595, title VII, § 703
+
+Nov. 16, 1990
+
+104 Stat. 2994
+
+Deadlines.—
+
+Selection of designated federal officer
+
+Appointment of members
+
+Organization of first meeting
+
+Continuation of Service of Current Members
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(b)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1575](https://www.govinfo.gov/link/statute/120/1575); [Pub. L. 113–291, div. C, title XXXV, § 3504(a)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3905](https://www.govinfo.gov/link/statute/128/3905); [Pub. L. 117–263, div. C, title XXXV, § 3512](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3065](https://www.govinfo.gov/link/statute/136/3065).)*

@@ -3,9 +3,10 @@ title: "Section 22702 - Authority"
 usc_title: 49
 usc_section: "22702"
 chapter: 227
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 22702"
-generated_at: "2026-03-30T02:56:19.341Z"
+generated_at: "2026-11-23T20:27:34.833Z"
+status: "active"
 ---
 
 # § 22702. Authority
@@ -16,3 +17,11 @@ generated_at: "2026-03-30T02:56:19.341Z"
   - **(2)** establish or designate a State rail plan approval authority to approve the plan;
   - **(3)** submit the State’s approved plan to the Secretary of Transportation for review; and
   - **(4)** revise and resubmit a State-approved plan no less frequently than once every 4 years for acceptance by the Secretary.
+
+In General
+
+Requirements
+
+## Source Credit
+
+*(Added [Pub. L. 110–432, div. B, title III, § 303(a)](https://www.govinfo.gov/link/plaw/110/public/432), Oct. 16, 2008, [122 Stat. 4948](https://www.govinfo.gov/link/statute/122/4948); amended [Pub. L. 114–94, div. A, title XI, § 11315(a)(1)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1674](https://www.govinfo.gov/link/statute/129/1674).)*

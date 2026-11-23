@@ -3,9 +3,10 @@ title: "Section 10 - Registration and regulation of security-based swap dealers 
 usc_title: 15
 usc_section: "10"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 10"
-generated_at: "2026-03-30T02:54:08.052Z"
+generated_at: "2026-11-23T20:26:03.536Z"
+status: "active"
 ---
 
 # § 78o–10. Registration and regulation of security-based swap dealers and major security-based swap participants
@@ -194,3 +195,7 @@ generated_at: "2026-03-30T02:54:08.052Z"
   - **(4)** It shall be unlawful—
     - **(A)** for any person as to whom an order under paragraph (3) is in effect, without the consent of the Commission, willfully to become, or to be, associated with a security-based swap dealer or major security-based swap participant in contravention of such order; or
     - **(B)** for any security-based swap dealer or major security-based swap participant to permit such a person, without the consent of the Commission, to become or remain a person associated with the security-based swap dealer or major security-based swap participant in contravention of such order, if such security-based swap dealer or major security-based swap participant knew, or in the exercise of reasonable care should have known, of such order.
+
+## Source Credit
+
+*(June 6, 1934, ch. 404, title I, § 15F, as added [Pub. L. 111–203, title VII, § 764(a)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1784](https://www.govinfo.gov/link/statute/124/1784); amended [Pub. L. 114–1, title III, § 302(b)](https://www.govinfo.gov/link/plaw/114/public/1), Jan. 12, 2015, [129 Stat. 28](https://www.govinfo.gov/link/statute/129/28).)*

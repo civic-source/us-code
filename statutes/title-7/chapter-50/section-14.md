@@ -3,9 +3,10 @@ title: "Section 14 - Unlawful acts and omissions; breach of fiduciary duty"
 usc_title: 7
 usc_section: "14"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 14"
-generated_at: "2026-03-30T02:53:42.361Z"
+generated_at: "2026-11-23T20:25:41.412Z"
+status: "active"
 ---
 
 # § 2009cc–14. Unlawful acts and omissions; breach of fiduciary duty
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:42.361Z"
   - **(2)** for any person to continue to serve in any of the capacities described in paragraph (1), if—
     - **(A)** the person is convicted of a felony or any other criminal offense involving dishonesty or breach of trust; or
     - **(B)** the person is found liable in a civil action for damages, or is permanently or temporarily enjoined by an order, judgment, or decree of a court of competent jurisdiction, by reason of any act or practice involving fraud or breach of trust.
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 384O](https://www.govinfo.gov/link/plaw/87/public/128), as added [Pub. L. 107–171, title VI, § 6029](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 400](https://www.govinfo.gov/link/statute/116/400).)*

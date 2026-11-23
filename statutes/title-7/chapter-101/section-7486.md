@@ -3,9 +3,10 @@ title: "Section 7486 - Petition and review"
 usc_title: 7
 usc_section: "7486"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7486"
-generated_at: "2026-03-30T02:53:42.454Z"
+generated_at: "2026-11-23T20:25:41.793Z"
+status: "active"
 ---
 
 # § 7486. Petition and review
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:42.454Z"
     - **(A)** to make such ruling as the court shall determine to be in accordance with law; or
     - **(B)** to take such further proceedings as, in the opinion of the court, the law requires.
 - **(c)** The pendency of proceedings instituted under subsection (a) may not impede, hinder, or delay the Secretary or the Attorney General from taking action under section 7487 of this title .
+
+## Source Credit
+
+*([Pub. L. 104–127, title V, § 577](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1082](https://www.govinfo.gov/link/statute/110/1082).)*

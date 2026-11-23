@@ -3,9 +3,10 @@ title: "Section 255 - Statute of limitations"
 usc_title: 29
 usc_section: "255"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 255"
-generated_at: "2026-03-30T02:55:18.682Z"
+generated_at: "2026-11-23T20:26:37.812Z"
+status: "active"
 ---
 
 # § 255. Statute of limitations
@@ -16,3 +17,7 @@ Any action commenced on or after May 14, 1947 , to enforce any cause of action f
 - **(b)** if the cause of action accrued prior to May 14, 1947 —may be commenced within whichever of the following periods is the shorter: (1) two years after the cause of action accrued, or (2) the period prescribed by the applicable State statute of limitations; and, except as provided in paragraph (c), every such action shall be forever barred unless commenced within the shorter of such two periods;
 - **(c)** if the cause of action accrued prior to May 14, 1947 , the action shall not be barred by paragraph (b) if it is commenced within one hundred and twenty days after May 14, 1947 unless at the time commenced it is barred by an applicable State statute of limitations;
 - **(d)** with respect to any cause of action brought under section 216(b) of this title against a State or a political subdivision of a State in a district court of the United States on or before April 18, 1973 , the running of the statutory periods of limitation shall be deemed suspended during the period beginning with the commencement of any such action and ending one hundred and eighty days after the effective date of the Fair Labor Standards Amendments of 1974, except that such suspension shall not be applicable if in such action judgment has been entered for the defendant on the grounds other than State immunity from Federal jurisdiction.
+
+## Source Credit
+
+*(May 14, 1947, ch. 52, § 6, [61 Stat. 87](https://www.govinfo.gov/link/statute/61/87); [Pub. L. 89–601, title VI, § 601(b)](https://www.govinfo.gov/link/plaw/89/public/601), Sept. 23, 1966, [80 Stat. 844](https://www.govinfo.gov/link/statute/80/844); [Pub. L. 93–259, § 6(d)(2)(A)](https://www.govinfo.gov/link/plaw/93/public/259), Apr. 8, 1974, [88 Stat. 61](https://www.govinfo.gov/link/statute/88/61).)*

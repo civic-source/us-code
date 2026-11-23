@@ -3,9 +3,10 @@ title: "Section 456 - Prepaid dues income of certain membership organizations"
 usc_title: 26
 usc_section: "456"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 456"
-generated_at: "2026-03-30T02:55:27.702Z"
+generated_at: "2026-11-23T20:26:45.749Z"
+status: "active"
 ---
 
 # § 456. Prepaid dues income of certain membership organizations
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:27.702Z"
     - **(A)** organized without capital stock of any kind, and
     - **(B)** no part of the net earnings of which is distributable to any member.
   - **(4)** Prepaid dues income shall be treated as received during the taxable year for which it is includible in gross income under section 451 (without regard to this section).
+
+## Source Credit
+
+*(Added [Pub. L. 87–109, § 1(a)](https://www.govinfo.gov/link/plaw/87/public/109), July 26, 1961, [75 Stat. 222](https://www.govinfo.gov/link/statute/75/222); amended [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1901(a)(68), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1775](https://www.govinfo.gov/link/statute/90/1775), 1834.)*

@@ -3,9 +3,10 @@ title: "Section 5116 - Status of overdue reports"
 usc_title: 14
 usc_section: "5116"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 5116"
-generated_at: "2026-03-30T02:53:51.506Z"
+generated_at: "2026-11-23T20:25:54.657Z"
+status: "active"
 ---
 
 # § 5116. Status of overdue reports
@@ -16,3 +17,11 @@ generated_at: "2026-03-30T02:53:51.506Z"
   - **(2)** A detailed written plan and timeline for the next steps to be taken to complete such outstanding reports or briefings.
   - **(3)** The name, position, and agency of each Federal official responsible for writing, reviewing, editing, and approving the report, as well as the responsibility of such official in regard to the report, and how long that report has been under the responsibility with such Federal official after being received from the previous Federal official responsible.
   - **(4)** The name of the flag officer responsible for the completion of each report or briefing.
+
+In General
+
+Contents
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. G, title LXXI, § 7114(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1668](https://www.govinfo.gov/link/statute/139/1668).)*

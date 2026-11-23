@@ -3,9 +3,10 @@ title: "Section 1595a - Aiding unlawful importation"
 usc_title: 19
 usc_section: "1595a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1595a"
-generated_at: "2026-03-30T02:54:24.646Z"
+generated_at: "2026-11-23T20:26:10.819Z"
+status: "active"
 ---
 
 # § 1595a. Aiding unlawful importation
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:24.646Z"
     - **(A)** remit the forfeiture under section 1618 of this title , or
     - **(B)** permit the exportation of the merchandise, unless its release would adversely affect health, safety, or conservation or be in contravention of a bilateral or multilateral agreement or treaty.
 - **(d)** Merchandise exported or sent from the United States or attempted to be exported or sent from the United States contrary to law, or the proceeds or value thereof, and property used to facilitate the exporting or sending of such merchandise, the attempted exporting or sending of such merchandise, or the receipt, purchase, transportation, concealment, or sale of such merchandise prior to exportation shall be seized and forfeited to the United States.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 596, as added Sept. 1, 1954, ch. 1213, title V, § 502, [68 Stat. 1140](https://www.govinfo.gov/link/statute/68/1140); amended [Pub. L. 99–570, title III, § 3123](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–87](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 103–182, title VI, § 624](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2187](https://www.govinfo.gov/link/statute/107/2187); [Pub. L. 104–132, title VI, § 606](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1290](https://www.govinfo.gov/link/statute/110/1290); [Pub. L. 109–177, title III, § 311(d)](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 242](https://www.govinfo.gov/link/statute/120/242); [Pub. L. 110–403, title II, § 209(b)](https://www.govinfo.gov/link/plaw/110/public/403), Oct. 13, 2008, [122 Stat. 4264](https://www.govinfo.gov/link/statute/122/4264); [Pub. L. 114–125, title III, § 303(a)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 150](https://www.govinfo.gov/link/statute/130/150).)*

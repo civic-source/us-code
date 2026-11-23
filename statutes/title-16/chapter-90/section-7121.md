@@ -3,9 +3,10 @@ title: "Section 7121 - Definitions"
 usc_title: 16
 usc_section: "7121"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 7121"
-generated_at: "2026-03-30T02:54:23.073Z"
+generated_at: "2026-11-23T20:26:20.831Z"
+status: "active"
 ---
 
 # § 7121. Definitions
@@ -20,3 +21,7 @@ In this subchapter:
   - **(4)** The term “resource management plan” means—
     - **(A)** a land use plan prepared by the Bureau of Land Management for units of the Federal land described in section 7102(7)(B) of this title pursuant to section 1712 of title 43 ; or
     - **(B)** a land and resource management plan prepared by the Forest Service for units of the National Forest System pursuant to section 1604 of this title .
+
+## Source Credit
+
+*([Pub. L. 106–393, title II, § 201](https://www.govinfo.gov/link/plaw/106/public/393), as added [Pub. L. 110–343, div. C, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3900](https://www.govinfo.gov/link/statute/122/3900).)*

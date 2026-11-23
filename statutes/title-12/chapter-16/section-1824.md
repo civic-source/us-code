@@ -3,9 +3,10 @@ title: "Section 1824 - Borrowing authority"
 usc_title: 12
 usc_section: "1824"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1824"
-generated_at: "2026-03-30T02:53:53.454Z"
+generated_at: "2026-11-23T20:25:59.146Z"
+status: "active"
 ---
 
 # § 1824. Borrowing authority
@@ -47,3 +48,11 @@ generated_at: "2026-03-30T02:53:53.454Z"
     - **(B)** be adequately secured, as determined by the Federal Housing Finance Board;
     - **(C)** be a direct liability of the Deposit Insurance Fund; and
     - **(D)** be subject to the limitations of section 1825(c) of this title .
+
+BIF member payments
+
+SAIF member payments
+
+## Source Credit
+
+*(Sept. 21, 1950, ch. 967, § 2 [14], [64 Stat. 890](https://www.govinfo.gov/link/statute/64/890); [Pub. L. 101–73, title II, § 218](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 261](https://www.govinfo.gov/link/statute/103/261); [Pub. L. 101–508, title II, § 2005](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–16](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 102–242, title I](https://www.govinfo.gov/link/plaw/102/public/242), §§ 101, 103(a), 105, Dec. 19, 1991, [105 Stat. 2236](https://www.govinfo.gov/link/statute/105/2236), 2237, 2239; [Pub. L. 102–550, title XVI, § 1603(a)(2)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 4078](https://www.govinfo.gov/link/statute/106/4078); [Pub. L. 103–204, § 10](https://www.govinfo.gov/link/plaw/103/public/204), Dec. 17, 1993, [107 Stat. 2389](https://www.govinfo.gov/link/statute/107/2389); [Pub. L. 104–208, div. A, title II, § 2704(d)(14)(N)](https://www.govinfo.gov/link/plaw/104/public/208) –(Q), Sept. 30, 1996, [110 Stat. 3009–493](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 109–171, title II, § 2102(b)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 9](https://www.govinfo.gov/link/statute/120/9); [Pub. L. 109–173, § 8(a)(20)](https://www.govinfo.gov/link/plaw/109/public/173) –(24), Feb. 15, 2006, [119 Stat. 3613](https://www.govinfo.gov/link/statute/119/3613), 3614; [Pub. L. 111–22, div. A, title II, § 204(c)(1)](https://www.govinfo.gov/link/plaw/111/public/22), May 20, 2009, [123 Stat. 1649](https://www.govinfo.gov/link/statute/123/1649).)*

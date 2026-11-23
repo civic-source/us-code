@@ -3,9 +3,10 @@ title: "Section 7173 - State application"
 usc_title: 20
 usc_section: "7173"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 7173"
-generated_at: "2026-03-30T02:54:48.206Z"
+generated_at: "2026-11-23T20:26:14.877Z"
+status: "active"
 ---
 
 # § 7173. State application
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:54:48.206Z"
   - **(2)** the expiration of the 120-day period described in subsection (b).
 - **(f)** If the State educational agency does not respond to the Secretary’s notification described in subsection (d)(2) during the 45-day period beginning on the date on which the agency received the notification, such application shall be deemed to be disapproved.
 - **(g)** The Secretary may not give a priority or a preference for States or eligible entities that seek to use funds made available under this part to extend the regular school day.
+
+## Source Credit
+
+*([Pub. L. 89–10, title IV, § 4203](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 107–110, title IV, § 401](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1767](https://www.govinfo.gov/link/statute/115/1767); amended [Pub. L. 114–95, title IV, § 4201(a)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1986](https://www.govinfo.gov/link/statute/129/1986).)*

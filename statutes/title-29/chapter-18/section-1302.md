@@ -3,9 +3,10 @@ title: "Section 1302 - Pension Benefit Guaranty Corporation"
 usc_title: 29
 usc_section: "1302"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1302"
-generated_at: "2026-03-30T02:55:18.728Z"
+generated_at: "2026-11-23T20:26:38.007Z"
+status: "active"
 ---
 
 # § 1302. Pension Benefit Guaranty Corporation
@@ -59,3 +60,15 @@ generated_at: "2026-03-30T02:55:18.728Z"
   - **(1)** The Director of the corporation and each member of the board of directors shall not participate in a decision of the corporation in which the Director or such member has a direct financial interest. The Director of the corporation shall not participate in any activities that would present a potential conflict of interest or appearance of a conflict of interest without approval of the board of directors.
   - **(2)** The board of directors shall establish a policy that will inform the identification of potential conflicts of interests of the members of the board of directors and mitigate perceived conflicts of interest of such members and the Director of the corporation.
 - **(k)** The corporation shall have a risk management officer whose duties include evaluating and mitigating the risk that the corporation might experience. The individual in such position shall coordinate the risk management efforts of the corporation, explain risks and controls to senior management and the board of directors of the corporation, and make recommendations.
+
+Formation of committees
+
+Advisory committee
+
+Annual Peer Review of Insurance Modeling Systems
+
+“The Pension Benefit Guaranty Corporation shall—
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4002](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 1004](https://www.govinfo.gov/link/statute/88/1004); [Pub. L. 94–455, title XV, § 1510(a)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1741](https://www.govinfo.gov/link/statute/90/1741); [Pub. L. 96–364, title IV](https://www.govinfo.gov/link/plaw/96/public/364), §§ 403(l), 406(a), Sept. 26, 1980, [94 Stat. 1302](https://www.govinfo.gov/link/statute/94/1302), 1303; [Pub. L. 101–239, title VII, § 7891(a)(1)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2445](https://www.govinfo.gov/link/statute/103/2445); [Pub. L. 107–134, title I, § 112(c)(2)](https://www.govinfo.gov/link/plaw/107/public/134), Jan. 23, 2002, [115 Stat. 2434](https://www.govinfo.gov/link/statute/115/2434); [Pub. L. 109–280, title IV, § 411(a)(1)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 935](https://www.govinfo.gov/link/statute/120/935); [Pub. L. 112–141, div. D, title II](https://www.govinfo.gov/link/plaw/112/public/141), §§ 40231(a)–(d), 40232(b), July 6, 2012, [126 Stat. 853–855](https://www.govinfo.gov/link/statute/126/853), 857; [Pub. L. 117–286, § 4(a)(191)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4327](https://www.govinfo.gov/link/statute/136/4327).)*

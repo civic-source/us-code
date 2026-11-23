@@ -3,9 +3,10 @@ title: "Section 252 - Credit availability assessment"
 usc_title: 12
 usc_section: "252"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 252"
-generated_at: "2026-03-30T02:53:53.377Z"
+generated_at: "2026-11-23T20:25:58.729Z"
+status: "active"
 ---
 
 # § 252. Credit availability assessment
@@ -21,3 +22,27 @@ generated_at: "2026-03-30T02:53:53.377Z"
     - **(F)** the types of risks to creditors in providing credit to small businesses; and
     - **(G)** such other factors as the Board deems appropriate.
 - **(b)** The studies required by this section shall not increase the regulatory or paperwork burden on regulated financial institutions, other sources of small business credit, or small businesses.
+
+Study
+
+Report
+
+“Except as otherwise specified in this title [see Tables for classification], the following definitions shall apply for purposes of this title:
+
+Appraisal subcommittee
+
+Appropriate Federal banking agency
+
+Board
+
+Corporation
+
+Council
+
+Insured credit union
+
+Insured depository institution
+
+## Source Credit
+
+*([Pub. L. 104–208, div. A, title II, § 2227](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–417](https://www.govinfo.gov/link/statute/110/3009).)*

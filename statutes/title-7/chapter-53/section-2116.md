@@ -3,9 +3,10 @@ title: "Section 2116 - Definitions"
 usc_title: 7
 usc_section: "2116"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2116"
-generated_at: "2026-03-30T02:53:42.377Z"
+generated_at: "2026-11-23T20:25:41.481Z"
+status: "active"
 ---
 
 # § 2116. Definitions
@@ -26,3 +27,13 @@ As used in this chapter:
 - **(h)**
   - **(1)** The term “importer” means any person who enters, or withdraws from warehouse, cotton for consumption in the customs territory of the United States.
   - **(2)** The term “import” means any such entry.
+
+Cotton-producing State.—
+
+In general
+
+Inclusions
+
+## Source Credit
+
+*([Pub. L. 89–502, § 17](https://www.govinfo.gov/link/plaw/89/public/502), July 13, 1966, [80 Stat. 286](https://www.govinfo.gov/link/statute/80/286); [Pub. L. 101–624, title XIX, § 1997](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3913](https://www.govinfo.gov/link/statute/104/3913); [Pub. L. 110–234, title XIV, § 14202](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1458](https://www.govinfo.gov/link/statute/122/1458); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIV, § 14202, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2220.)*

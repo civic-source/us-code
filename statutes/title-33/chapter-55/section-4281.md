@@ -3,9 +3,10 @@ title: "Section 4281 - Strategy for improving post-consumer materials management
 usc_title: 33
 usc_section: "4281"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 4281"
-generated_at: "2026-03-30T02:55:41.148Z"
+generated_at: "2026-11-23T20:26:54.296Z"
+status: "active"
 ---
 
 # § 4281. Strategy for improving post-consumer materials management and water management
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:41.148Z"
   - **(2)** make the strategy publicly available, including for use by—
     - **(A)** for-profit private entities involved in post-consumer materials management; and
     - **(B)** other nongovernmental entities.
+
+## Source Credit
+
+*([Pub. L. 116–224, title III, § 301](https://www.govinfo.gov/link/plaw/116/public/224), Dec. 18, 2020, [134 Stat. 1092](https://www.govinfo.gov/link/statute/134/1092).)*

@@ -3,9 +3,10 @@ title: "Section 2126 - Treatment of actions arising from chapter"
 usc_title: 48
 usc_section: "2126"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 2126"
-generated_at: "2026-03-30T02:56:14.603Z"
+generated_at: "2026-11-23T20:27:28.197Z"
+status: "active"
 ---
 
 # § 2126. Treatment of actions arising from chapter
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:14.603Z"
 - **(c)** Except with respect to any orders entered to remedy constitutional violations, no order of any court granting declaratory or injunctive relief against the Oversight Board, including relief permitting or requiring the obligation, borrowing, or expenditure of funds, shall take effect during the pendency of the action before such court, during the time appeal may be taken, or (if appeal is taken) during the period before the court has entered its final order disposing of such action.
 - **(d)** It shall be the duty of the applicable United States District Court, the applicable United States Court of Appeals, and, as applicable, the Supreme Court of the United States to advance on the docket and to expedite to the greatest possible extent the disposition of any matter brought under this chapter.
 - **(e)** There shall be no jurisdiction in any United States district court to review challenges to the Oversight Board’s certification determinations under this chapter.
+
+## Source Credit
+
+*([Pub. L. 114–187, title I, § 106](https://www.govinfo.gov/link/plaw/114/public/187), June 30, 2016, [130 Stat. 562](https://www.govinfo.gov/link/statute/130/562).)*

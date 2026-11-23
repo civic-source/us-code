@@ -3,9 +3,10 @@ title: "Section 5641 - Enhanced compensation structure reporting"
 usc_title: 12
 usc_section: "5641"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5641"
-generated_at: "2026-03-30T02:53:53.549Z"
+generated_at: "2026-11-23T20:25:59.537Z"
+status: "active"
 ---
 
 # § 5641. Enhanced compensation structure reporting
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:53:53.549Z"
     - **(F)** the Federal Home Loan Mortgage Corporation; and
     - **(G)** any other financial institution that the appropriate Federal regulators, jointly, by rule, determine should be treated as a covered financial institution for purposes of this section.
 - **(f)** The requirements of this section shall not apply to covered financial institutions with assets of less than $1,000,000,000.
+
+## Source Credit
+
+*([Pub. L. 111–203, title IX, § 956](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1905](https://www.govinfo.gov/link/statute/124/1905).)*

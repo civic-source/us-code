@@ -3,9 +3,10 @@ title: "Section 474 - Simplified dollar-value LIFO method for certain small busi
 usc_title: 26
 usc_section: "474"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 474"
-generated_at: "2026-03-30T02:55:27.707Z"
+generated_at: "2026-11-23T20:26:45.775Z"
+status: "active"
 ---
 
 # § 474. Simplified dollar-value LIFO method for certain small businesses
@@ -42,3 +43,11 @@ generated_at: "2026-03-30T02:55:27.707Z"
     - **(B)** For purposes of this paragraph, the year of change under this section is—
       - **(i)** the 1st taxable year to which an election under this section applies, or
       - **(ii)** in the case of a cessation of such an election, the 1st taxable year after such election ceases to apply.
+
+In general
+
+Treatment of taxpayers who made elections under existing section 474
+
+## Source Credit
+
+*(Added [Pub. L. 97–34, title II, § 237(a)](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 252](https://www.govinfo.gov/link/statute/95/252); amended [Pub. L. 99–514, title VIII, § 802(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2348](https://www.govinfo.gov/link/statute/100/2348).)*

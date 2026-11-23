@@ -3,9 +3,10 @@ title: "Section 288 - Office of Senate Legal Counsel"
 usc_title: 2
 usc_section: "288"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 288"
-generated_at: "2026-03-30T02:53:04.794Z"
+generated_at: "2026-11-23T20:25:28.868Z"
+status: "active"
 ---
 
 # § 288. Office of Senate Legal Counsel
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:04.794Z"
 - **(d)** The Counsel may establish such policies and procedures as may be necessary to carry out the provisions of this chapter.
 - **(e)** The counsel 1 1 So in original. Probably should be capitalized. may delegate authority for the performance of any function imposed by this chapter except any function imposed upon the Counsel under section 288e(b) of this title .
 - **(f)** The Counsel and other employees of the Office shall maintain the attorney-client relationship with respect to all communications between them and any Member, officer, or employee of the Senate.
+
+## Source Credit
+
+*([Pub. L. 95–521, title VII, § 701](https://www.govinfo.gov/link/plaw/95/public/521), Oct. 26, 1978, [92 Stat. 1875](https://www.govinfo.gov/link/statute/92/1875); [Pub. L. 116–94, div. E, title II, § 212(a)(3)(I)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 2776](https://www.govinfo.gov/link/statute/133/2776).)*

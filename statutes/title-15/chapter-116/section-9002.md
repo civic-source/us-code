@@ -3,9 +3,10 @@ title: "Section 9002 - Entrepreneurial development"
 usc_title: 15
 usc_section: "9002"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 9002"
-generated_at: "2026-03-30T02:54:08.236Z"
+generated_at: "2026-11-23T20:26:04.514Z"
+status: "active"
 ---
 
 # § 9002. Entrepreneurial development
@@ -66,3 +67,7 @@ generated_at: "2026-03-30T02:54:08.236Z"
     - **(B)** with respect to the grant program under subsection (c)—
       - **(i)** the efforts of the Administrator and the association or associations to develop and evolve an online resource for small business concerns; and
       - **(ii)** the efforts of the Administrator and the association or associations to develop a training program for resource partner counselors, including the number of counselors trained.
+
+## Source Credit
+
+*([Pub. L. 116–136, div. A, title I, § 1103](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 294](https://www.govinfo.gov/link/statute/134/294); [Pub. L. 116–260, div. N, title III, § 346(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2051](https://www.govinfo.gov/link/statute/134/2051).)*

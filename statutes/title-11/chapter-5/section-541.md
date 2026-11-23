@@ -3,9 +3,10 @@ title: "Section 541 - Property of the estate"
 usc_title: 11
 usc_section: "541"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 541"
-generated_at: "2026-03-30T02:53:53.878Z"
+generated_at: "2026-11-23T20:25:55.367Z"
+status: "active"
 ---
 
 # § 541. Property of the estate
@@ -78,3 +79,7 @@ generated_at: "2026-03-30T02:53:53.878Z"
 - **(d)** Property in which the debtor holds, as of the commencement of the case, only legal title and not an equitable interest, such as a mortgage secured by real property, or an interest in such a mortgage, sold by the debtor but as to which the debtor retains legal title to service or supervise the servicing of such mortgage or interest, becomes property of the estate under subsection (a)(1) or (2) of this section only to the extent of the debtor’s legal title to such property, but not to the extent of any equitable interest in such property that the debtor does not hold.
 - **(e)** In determining whether any of the relationships specified in paragraph (5)(A) or (6)(A) of subsection (b) exists, a legally adopted child of an individual (and a child who is a member of an individual’s household, if placed with such individual by an authorized placement agency for legal adoption by such individual), or a foster child of an individual (if such child has as the child’s principal place of abode the home of the debtor and is a member of the debtor’s household) shall be treated as a child of such individual by blood.
 - **(f)** Notwithstanding any other provision of this title, property that is held by a debtor that is a corporation described in section 501(c)(3) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such Code may be transferred to an entity that is not such a corporation, but only under the same conditions as would apply if the debtor had not filed a case under this title.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2594](https://www.govinfo.gov/link/statute/92/2594); [Pub. L. 98–353, title III](https://www.govinfo.gov/link/plaw/98/public/353), §§ 363(a), 456, July 10, 1984, [98 Stat. 363](https://www.govinfo.gov/link/statute/98/363), 376; [Pub. L. 101–508, title III, § 3007(a)(2)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–28](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 102–486, title XXX, § 3017(b)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3130](https://www.govinfo.gov/link/statute/106/3130); [Pub. L. 103–394, title II](https://www.govinfo.gov/link/plaw/103/public/394), §§ 208(b), 223, Oct. 22, 1994, [108 Stat. 4124](https://www.govinfo.gov/link/statute/108/4124), 4129; [Pub. L. 109–8, title II, § 225(a)](https://www.govinfo.gov/link/plaw/109/public/8), title III, § 323, title XII, §§ 1212, 1221(c), 1230, Apr. 20, 2005, [119 Stat. 65](https://www.govinfo.gov/link/statute/119/65), 97, 194, 196, 201; [Pub. L. 111–327, § 2(a)(22)](https://www.govinfo.gov/link/plaw/111/public/327), Dec. 22, 2010, [124 Stat. 3560](https://www.govinfo.gov/link/statute/124/3560); [Pub. L. 113–295, div. B, title I, § 104(a)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4063](https://www.govinfo.gov/link/statute/128/4063); [Pub. L. 116–260, div. FF, title X, § 1001(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3216](https://www.govinfo.gov/link/statute/134/3216); [Pub. L. 119–27, § 11(e)](https://www.govinfo.gov/link/plaw/119/public/27), July 18, 2025, [139 Stat. 458](https://www.govinfo.gov/link/statute/139/458).)*

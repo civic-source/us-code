@@ -3,9 +3,10 @@ title: "Section 1422 - Public safety broadband network"
 usc_title: 47
 usc_section: "1422"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 1422"
-generated_at: "2026-03-30T02:56:24.533Z"
+generated_at: "2026-11-23T20:27:28.993Z"
+status: "active"
 ---
 
 # § 1422. Public safety broadband network
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:24.533Z"
   - **(2)** a radio access network that—
     - **(A)** consists of all cell site equipment, antennas, and backhaul equipment, based on commercial standards, that are required to enable wireless communications with devices using the public safety broadband spectrum; and
     - **(B)** shall be developed, constructed, managed, maintained, and operated taking into account the plans developed in the State, local, and tribal planning and implementation grant program under section 1442(a) of this title .
+
+## Source Credit
+
+*([Pub. L. 112–96, title VI, § 6202](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 206](https://www.govinfo.gov/link/statute/126/206).)*

@@ -3,9 +3,10 @@ title: "Section 623 - Prohibition of age discrimination"
 usc_title: 29
 usc_section: "623"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 623"
-generated_at: "2026-03-30T02:55:18.686Z"
+generated_at: "2026-11-23T20:26:37.824Z"
+status: "active"
 ---
 
 # § 623. Prohibition of age discrimination
@@ -135,3 +136,123 @@ generated_at: "2026-03-30T02:55:18.686Z"
   - **(1)** such institution does not implement with respect to such employees any age-based reduction or cessation of benefits that are not such supplemental benefits, except as permitted by other provisions of this chapter;
   - **(2)** such supplemental benefits are in addition to any retirement or severance benefits which have been offered generally to employees serving under a contract of unlimited tenure (or similar arrangement providing for unlimited tenure), independent of any early retirement or exit-incentive plan, within the preceding 365 days; and
   - **(3)** any employee who attains the minimum age and satisfies all non-age-based conditions for receiving a benefit under the plan has an opportunity lasting not less than 180 days to elect to retire and to receive the maximum benefit that could then be elected by a younger but otherwise similarly situated employee, and the plan does not require retirement to occur sooner than 180 days after such election.
+
+Special rules relating to age.—
+
+Comparison to similarly situated younger individual.—
+
+In general
+
+Similarly situated
+
+Disregard of subsidized early retirement benefits
+
+Accrued benefit
+
+Applicable defined benefit plans.—
+
+Interest credits.—
+
+In general
+
+Preservation of capital
+
+Market rate of return
+
+Special rule for plan conversions
+
+Rate of benefit accrual
+
+Special rules for early retirement subsidies
+
+Applicable plan amendment
+
+In general
+
+Special rule for coordinated benefits
+
+Multiple amendments
+
+Applicable defined benefit plan
+
+Termination requirements
+
+Certain offsets permitted
+
+Permitted disparities in plan contributions or benefits
+
+Indexing permitted.—
+
+In general
+
+Protection against loss
+
+Indexing
+
+Early retirement benefit or retirement-type subsidy
+
+Benefit accrued to date
+
+In general
+
+Effect on causes of action existing before date of enactment
+
+General Effective Date
+
+Special Effective Date
+
+In General
+
+Collectively Bargained Agreements
+
+States and Political Subdivisions.—
+
+In general
+
+Election of disability coverage for employees hired prior to effective date.—
+
+In general
+
+Previous disability benefits
+
+Abrogation of right to receive benefits
+
+State assistance
+
+Definitions
+
+Employer and state
+
+Disability benefits
+
+Reasonable notice
+
+Discrimination in Employee Pension Benefit Plans
+
+Continued Benefit Payments
+
+In General
+
+Effect on Existing Causes of Action
+
+Applicability to Employees with Service after
+
+In general
+
+Special rule for collectively bargained plans
+
+Applicability of Amendments Relating to Normal Retirement Age
+
+Plan Amendments
+
+Interagency Coordination
+
+Final Regulations
+
+“Nothing in the amendment made by subsection (a) [amending this section] shall affect the application of section 4 of the Age Discrimination in Employment Act of 1967 ( 29 U.S.C. 623 ) with respect to—
+
+“Nothing in the repeal, reenactment, and amendment made by subsections (a) and (b) [section 101(a) [title I, § 119[1(a), (b)]] of Pub. L. 104–208 , amending this section and repealing provisions set out as a note under this section] shall be construed to make lawful the failure or refusal to hire, or the discharge of, an individual pursuant to a law that—
+
+## Source Credit
+
+*([Pub. L. 90–202, § 4](https://www.govinfo.gov/link/plaw/90/public/202), Dec. 15, 1967, [81 Stat. 603](https://www.govinfo.gov/link/statute/81/603); [Pub. L. 95–256, § 2(a)](https://www.govinfo.gov/link/plaw/95/public/256), Apr. 6, 1978, [92 Stat. 189](https://www.govinfo.gov/link/statute/92/189); [Pub. L. 97–248, title I, § 116(a)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 353](https://www.govinfo.gov/link/statute/96/353); [Pub. L. 98–369, div. B, title III, § 2301(b)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1063](https://www.govinfo.gov/link/statute/98/1063); [Pub. L. 98–459, title VIII, § 802(b)](https://www.govinfo.gov/link/plaw/98/public/459), Oct. 9, 1984, [98 Stat. 1792](https://www.govinfo.gov/link/statute/98/1792); [Pub. L. 99–272, title IX, § 9201(b)(1)](https://www.govinfo.gov/link/plaw/99/public/272), (3), Apr. 7, 1986, [100 Stat. 171](https://www.govinfo.gov/link/statute/100/171); [Pub. L. 99–509, title IX, § 9201](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1973](https://www.govinfo.gov/link/statute/100/1973); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 99–592](https://www.govinfo.gov/link/plaw/99/public/592), §§ 2(a), (b), 3(a), Oct. 31, 1986, [100 Stat. 3342](https://www.govinfo.gov/link/statute/100/3342); [Pub. L. 101–239, title VI, § 6202(b)(3)(C)(i)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2233](https://www.govinfo.gov/link/statute/103/2233); [Pub. L. 101–433, title I, § 103](https://www.govinfo.gov/link/plaw/101/public/433), Oct. 16, 1990, [104 Stat. 978](https://www.govinfo.gov/link/statute/104/978); [Pub. L. 101–521](https://www.govinfo.gov/link/plaw/101/public/521), Nov. 5, 1990, [104 Stat. 2287](https://www.govinfo.gov/link/statute/104/2287); [Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 119[1(b)]](https://www.govinfo.gov/link/plaw/104/public/208) ], Sept. 30, 1996, [110 Stat. 3009](https://www.govinfo.gov/link/statute/110/3009), 3009–23; [Pub. L. 105–244, title IX, § 941(a)](https://www.govinfo.gov/link/plaw/105/public/244), (b), Oct. 7, 1998, [112 Stat. 1834](https://www.govinfo.gov/link/statute/112/1834), 1835; [Pub. L. 109–280, title VII, § 701(c)](https://www.govinfo.gov/link/plaw/109/public/280), title XI, § 1104(a)(2), Aug. 17, 2006, [120 Stat. 988](https://www.govinfo.gov/link/statute/120/988), 1058; [Pub. L. 110–458, title I, § 123(a)](https://www.govinfo.gov/link/plaw/110/public/458), Dec. 23, 2008, [122 Stat. 5114](https://www.govinfo.gov/link/statute/122/5114); [Pub. L. 114–95, title IX, § 9215(e)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2166](https://www.govinfo.gov/link/statute/129/2166).)*

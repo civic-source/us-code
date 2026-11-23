@@ -3,9 +3,10 @@ title: "Section 1610 - Estimates based on tax reporting system"
 usc_title: 2
 usc_section: "1610"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1610"
-generated_at: "2026-03-30T02:53:04.816Z"
+generated_at: "2026-11-23T20:25:28.980Z"
+status: "active"
 ---
 
 # § 1610. Estimates based on tax reporting system
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:04.816Z"
   - **(1)** the differences between the definition of “lobbying activities” in section 1602(7) of this title and the definitions of “lobbying expenditures”, “influencing legislation”, and related terms in sections 162(e) and 4911 of title 26, as each are implemented by regulations;
   - **(2)** the impact that any such differences may have on filing and reporting under this chapter pursuant to this subsection; and
   - **(3)** any changes to this chapter or to the appropriate sections of title 26 that the Comptroller General may recommend to harmonize the definitions.
+
+## Source Credit
+
+*([Pub. L. 104–65, § 15](https://www.govinfo.gov/link/plaw/104/public/65), Dec. 19, 1995, [109 Stat. 702](https://www.govinfo.gov/link/statute/109/702); [Pub. L. 105–166, § 4(a)](https://www.govinfo.gov/link/plaw/105/public/166), (b), Apr. 6, 1998, [112 Stat. 38](https://www.govinfo.gov/link/statute/112/38); [Pub. L. 110–81, title II, § 201(b)(4)](https://www.govinfo.gov/link/plaw/110/public/81), Sept. 14, 2007, [121 Stat. 742](https://www.govinfo.gov/link/statute/121/742).)*

@@ -3,9 +3,10 @@ title: "Section 2608 - Acceptance of contributions for defense programs, project
 usc_title: 10
 usc_section: "2608"
 chapter: 155
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2608"
-generated_at: "2026-03-30T02:53:38.166Z"
+generated_at: "2026-11-23T20:25:51.621Z"
+status: "active"
 ---
 
 # § 2608. Acceptance of contributions for defense programs, projects, and activities; Defense Cooperation Account
@@ -34,3 +35,29 @@ generated_at: "2026-03-30T02:53:38.166Z"
 - **(i)** The Comptroller General of the United States shall make periodic audits of money and property accepted under this section, at such intervals as the Comptroller General determines to be warranted. The Comptroller General shall submit to Congress a report on the results of each such audit.
 - **(j)** In this section, the term “contribution” includes a devise of real property or a bequest of personal property.
 - **(k)** The Secretary of Defense shall prescribe regulations to carry out this section.
+
+Acceptance Authority
+
+Establishment of Defense Cooperation Account
+
+Use of the Defense Cooperation Account
+
+Use of Property
+
+Reporting Requirement
+
+Authority to Use Property
+
+Investment of Money
+
+Notification of Conditions
+
+Periodic Audits by
+
+Items Included as Contributions
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 101–403, title II, § 202(a)(1)](https://www.govinfo.gov/link/plaw/101/public/403), Oct. 1, 1990, [104 Stat. 872](https://www.govinfo.gov/link/statute/104/872); amended [Pub. L. 102–190, div. A, title X, § 1061(a)(16)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1473](https://www.govinfo.gov/link/statute/105/1473); [Pub. L. 103–160, div. A, title XI, § 1105(b)(1)](https://www.govinfo.gov/link/plaw/103/public/160), (2), Nov. 30, 1993, [107 Stat. 1750](https://www.govinfo.gov/link/statute/107/1750); [Pub. L. 104–201, div. A, title X, § 1063](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2652](https://www.govinfo.gov/link/statute/110/2652); [Pub. L. 112–81, div. A, title X, § 1064(7)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1587](https://www.govinfo.gov/link/statute/125/1587).)*

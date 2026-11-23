@@ -3,9 +3,10 @@ title: "Section 4512 - Relationship of the USMCA to United States and State law"
 usc_title: 19
 usc_section: "4512"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 4512"
-generated_at: "2026-03-30T02:54:24.709Z"
+generated_at: "2026-11-23T20:26:11.151Z"
+status: "active"
 ---
 
 # § 4512. Relationship of the USMCA to United States and State law
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:24.709Z"
 - **(c)** No person other than the United States—
   - **(1)** shall have any cause of action or defense under the USMCA or by virtue of congressional approval thereof; or
   - **(2)** may challenge, in any action brought under any provision of law, any action or inaction by any department, agency, or other instrumentality of the United States, any State, or any political subdivision of a State, on the ground that such action or inaction is inconsistent with the USMCA.
+
+## Source Credit
+
+*([Pub. L. 116–113, title I, § 102](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 15](https://www.govinfo.gov/link/statute/134/15).)*

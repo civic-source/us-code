@@ -3,9 +3,10 @@ title: "Section 1503 - Authority and duties of the Copyright Claims Board"
 usc_title: 17
 usc_section: "1503"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 1503"
-generated_at: "2026-03-30T02:54:15.358Z"
+generated_at: "2026-11-23T20:26:06.555Z"
+status: "active"
 ---
 
 # § 1503. Authority and duties of the Copyright Claims Board
@@ -43,3 +44,31 @@ generated_at: "2026-03-30T02:54:15.358Z"
 - **(e)** A Copyright Claims Officer or Copyright Claims Attorney shall recuse himself or herself from participation in any proceeding with respect to which the Copyright Claims Officer or Copyright Claims Attorney, as the case may be, has reason to believe that he or she has a conflict of interest.
 - **(f)** Except as may otherwise be permitted by applicable law, any party to a proceeding before the Copyright Claims Board shall refrain from ex parte communications with the Copyright Claims Officers and the Register of Copyrights concerning the substance of any active or pending proceeding before the Copyright Claims Board.
 - **(g)** Actions of the Copyright Claims Officers and Register of Copyrights under this chapter in connection with the rendering of any determination are subject to judicial review as provided under section 1508(c) and not under chapter 7 of title 5.
+
+Functions.—
+
+Copyright claims officers
+
+Copyright claims attorneys
+
+Independence in Determinations.—
+
+In general
+
+Consultation
+
+Performance appraisals
+
+Direction by Register
+
+Inconsistent Duties Barred
+
+Recusal
+
+Ex Parte Communications
+
+Judicial Review
+
+## Source Credit
+
+*(Added [Pub. L. 116–260, div. Q, title II, § 212(b)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2179](https://www.govinfo.gov/link/statute/134/2179).)*

@@ -3,9 +3,10 @@ title: "Section 8203 - Definitions"
 usc_title: 22
 usc_section: "8203"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8203"
-generated_at: "2026-03-30T02:55:05.449Z"
+generated_at: "2026-11-23T20:26:32.702Z"
+status: "active"
 ---
 
 # § 8203. Definitions
@@ -27,3 +28,7 @@ In this chapter:
     - **(G)** Such country does not violate other core principles enshrined in the United Nations Charter, the Universal Declaration of Human Rights, the International Covenant on Civil and Political Rights, United Nations Commission on Human Rights Resolution 1499/57 (entitled “Promotion of the Right to Democracy”), and the United Nations General Assembly Resolution 55/96 (entitled “Promoting and consolidating democracy”).
     - **(H)** As applicable, whether the country has scored favorably on the political, civil liberties, corruption, and rule of law indicators used to determine eligibility for financial assistance disbursed from the Millennium Challenge Account.
   - **(7)** The term “Secretary” means the Secretary of State.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XXI, § 2104](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 527](https://www.govinfo.gov/link/statute/121/527).)*

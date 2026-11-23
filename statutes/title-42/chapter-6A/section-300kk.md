@@ -3,9 +3,10 @@ title: "Section 300kk - Data collection, analysis, and quality"
 usc_title: 42
 usc_section: "300kk"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 300kk"
-generated_at: "2026-03-30T02:56:10.847Z"
+generated_at: "2026-11-23T20:27:20.710Z"
+status: "active"
 ---
 
 # § 300kk. Data collection, analysis, and quality
@@ -59,3 +60,7 @@ generated_at: "2026-03-30T02:56:10.847Z"
 - **(g)** For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of fiscal years 2010 through 2014.
 - **(h)** Notwithstanding any other provision of this section, data may not be collected under this section unless funds are directly appropriated for such purpose in an appropriations Act.
 - **(i)** The Secretary shall consult with the Director of the Office of Personnel Management, the Secretary of Defense, the Secretary of Veterans Affairs, the Director of the Bureau of the Census, the Commissioner of Social Security, and the head of other appropriate Federal agencies in carrying out this section.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXXI, § 3101, as added [Pub. L. 111–148, title IV, § 4302(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 578](https://www.govinfo.gov/link/statute/124/578).)*

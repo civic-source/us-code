@@ -3,9 +3,10 @@ title: "Section 13 - Grants by Secretary of the Interior to assist Indian organi
 usc_title: 20
 usc_section: "13"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 13"
-generated_at: "2026-03-30T02:54:48.077Z"
+generated_at: "2026-11-23T20:26:14.233Z"
+status: "active"
 ---
 
 # § 80q–13. Grants by Secretary of the Interior to assist Indian organizations with respect to renovation and repair of museum facilities and exhibit facilities
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:48.077Z"
   - **(3)** The Secretary of the Treasury may invest any portion of the Fund in interest-bearing obligations of the United States. Such obligations may be acquired on original issue or in the open market and may be held to maturity or sold in the open market. In making investments for the Fund, the Secretary of the Treasury shall consult the Secretary of the Interior with respect to maturities, purchases, and sales, taking into consideration the balance necessary to meet current grant requirements.
   - **(4)** Subject to appropriation, amounts derived from interest shall be available for expenditure from the Fund. The capital of the Fund shall not be available for expenditure.
   - **(5)** There is authorized to be appropriated to the Fund $2,000,000 for each fiscal year beginning with fiscal year 1992.
+
+## Source Credit
+
+*([Pub. L. 101–185, § 15](https://www.govinfo.gov/link/plaw/101/public/185), Nov. 28, 1989, [103 Stat. 1345](https://www.govinfo.gov/link/statute/103/1345).)*

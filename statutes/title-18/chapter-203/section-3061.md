@@ -3,9 +3,10 @@ title: "Section 3061 - Investigative powers of Postal Service personnel"
 usc_title: 18
 usc_section: "3061"
 chapter: 203
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 3061"
-generated_at: "2026-03-30T02:54:16.511Z"
+generated_at: "2026-11-23T20:26:08.650Z"
+status: "active"
 ---
 
 # § 3061. Investigative powers of Postal Service personnel
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:16.511Z"
   - **(4)**
     - **(A)** As to such property, the Postmaster General may prescribe regulations necessary for the protection and administration of property owned or occupied by the Postal Service and persons on the property. The regulations may include reasonable penalties, within the limits prescribed in subparagraph (B), for violations of the regulations. The regulations shall be posted and remain posted in a conspicuous place on the property.
     - **(B)** A person violating a regulation prescribed under this subsection shall be fined under this title, imprisoned for not more than 30 days, or both.
+
+## Source Credit
+
+*(Added [Pub. L. 90–560, § 5(a)](https://www.govinfo.gov/link/plaw/90/public/560), Oct. 12, 1968, [82 Stat. 998](https://www.govinfo.gov/link/statute/82/998); amended [Pub. L. 91–375, § 6(j)(38)(A)](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 781](https://www.govinfo.gov/link/statute/84/781); [Pub. L. 100–690, title VI, § 6251(a)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4362](https://www.govinfo.gov/link/statute/102/4362); [Pub. L. 109–435, title X, § 1001](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3254](https://www.govinfo.gov/link/statute/120/3254).)*

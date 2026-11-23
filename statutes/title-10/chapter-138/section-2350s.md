@@ -3,9 +3,10 @@ title: "Section 2350s - Authority to contribute to innovation fund"
 usc_title: 10
 usc_section: "2350s"
 chapter: 138
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2350s"
-generated_at: "2026-03-30T02:53:38.157Z"
+generated_at: "2026-11-23T20:25:51.556Z"
+status: "active"
 ---
 
 # § 2350s. Authority to contribute to innovation fund
@@ -14,3 +15,11 @@ generated_at: "2026-03-30T02:53:38.157Z"
 - **(b)** In this section:
   - **(1)** The term “NATO” means the North Atlantic Treaty Organization.
   - **(2)** The term “NATO Innovation Fund” means the multi-sovereign, investment venture capital fund of NATO that provides secure investment in dual-use, high-impact technology.
+
+Authority to Contribute to NATO Innovation Fund
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 118–159, div. A, title X, § 1051](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2061](https://www.govinfo.gov/link/statute/138/2061).)*

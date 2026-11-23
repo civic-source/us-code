@@ -3,12 +3,17 @@ title: "Section 555 - Forest headquarters, ranger stations, dwellings, or other 
 usc_title: 16
 usc_section: "555"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 555"
-generated_at: "2026-03-30T02:54:22.875Z"
+generated_at: "2026-11-23T20:26:20.146Z"
+status: "active"
 ---
 
 # § 555. Forest headquarters, ranger stations, dwellings, or other needed sites
 
 Where no suitable Government land is available for national forest headquarters, ranger stations, dwellings, or for other sites required for the effective conduct of the authorized activities of the Forest Service, the Secretary of Agriculture is authorized to purchase such lands out of the appropriation applicable to the purpose for which the land is to be used, and to accept donations of land for any national forest or experimental purpose: Provided , That such lands may be acquired subject to such reservations and outstanding interests as the Secretary determines will not interfere with the purpose for which acquired: Provided further , That not to exceed $50,000 may be expended in any one fiscal year pursuant to this authority.
 
+
+## Source Credit
+
+*(Mar. 3, 1925, ch. 457, § 5, [43 Stat. 1133](https://www.govinfo.gov/link/statute/43/1133); Apr. 24, 1950, ch. 97, § 13, [64 Stat. 86](https://www.govinfo.gov/link/statute/64/86); [Pub. L. 85–464, § 9](https://www.govinfo.gov/link/plaw/85/public/464), June 20, 1958, [72 Stat. 218](https://www.govinfo.gov/link/statute/72/218).)*

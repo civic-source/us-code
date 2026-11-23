@@ -3,9 +3,10 @@ title: "Section 5173 - Debris removal"
 usc_title: 42
 usc_section: "5173"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5173"
-generated_at: "2026-03-30T02:56:11.225Z"
+generated_at: "2026-11-23T20:27:22.486Z"
+status: "active"
 ---
 
 # § 5173. Debris removal
@@ -19,3 +20,25 @@ generated_at: "2026-03-30T02:56:11.225Z"
 - **(e)**
   - **(1)** In making a grant under subsection (a)(2), the President shall provide not less than 50 percent of the President’s initial estimate of the Federal share of assistance as an initial payment in accordance with paragraph (2).
   - **(2)** Not later than 60 days after the date of the estimate described in paragraph (1) and not later than 90 days after the date on which the State or local government or owner or operator of a private nonprofit facility applies for assistance under this section, an initial payment described in paragraph (1) shall be paid.
+
+Definitions
+
+Administrator
+
+Debris removal program
+
+Advisory Working Group.—
+
+In general
+
+Membership
+
+Guidance
+
+Training
+
+GAO Study
+
+## Source Credit
+
+*([Pub. L. 93–288, title IV, § 407](https://www.govinfo.gov/link/plaw/93/public/288), formerly § 403, May 22, 1974, [88 Stat. 154](https://www.govinfo.gov/link/statute/88/154); renumbered § 407 and amended [Pub. L. 100–707, title I, § 106(c)](https://www.govinfo.gov/link/plaw/100/public/707), Nov. 23, 1988, [102 Stat. 4701](https://www.govinfo.gov/link/statute/102/4701); [Pub. L. 109–347, title VI, § 610](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1942](https://www.govinfo.gov/link/statute/120/1942).)*

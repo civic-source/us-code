@@ -3,9 +3,10 @@ title: "Section 2601 - Congressional findings and purpose"
 usc_title: 12
 usc_section: "2601"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 2601"
-generated_at: "2026-03-30T02:53:53.485Z"
+generated_at: "2026-11-23T20:25:59.296Z"
+status: "active"
 ---
 
 # § 2601. Congressional findings and purpose
@@ -16,3 +17,13 @@ generated_at: "2026-03-30T02:53:53.485Z"
   - **(2)** in the elimination of kickbacks or referral fees that tend to increase unnecessarily the costs of certain settlement services;
   - **(3)** in a reduction in the amounts home buyers are required to place in escrow accounts established to insure the payment of real estate taxes and insurance; and
   - **(4)** in significant reform and modernization of local recordkeeping of land title information.
+
+In General
+
+Regulations
+
+Recommendations for Legislation
+
+## Source Credit
+
+*([Pub. L. 93–533, § 2](https://www.govinfo.gov/link/plaw/93/public/533), Dec. 22, 1974, [88 Stat. 1724](https://www.govinfo.gov/link/statute/88/1724).)*

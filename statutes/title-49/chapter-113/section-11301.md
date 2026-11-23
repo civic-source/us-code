@@ -3,9 +3,10 @@ title: "Section 11301 - Equipment trusts: recordation; evidence of indebtedness"
 usc_title: 49
 usc_section: "11301"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 11301"
-generated_at: "2026-03-30T02:56:19.325Z"
+generated_at: "2026-11-23T20:27:34.725Z"
+status: "active"
 ---
 
 # § 11301. Equipment trusts: recordation; evidence of indebtedness
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:19.325Z"
   - **(2)** relates to property that bears the reporting marks and identification numbers of any person domiciled in or corporation organized under the laws of such country,
 - **(e)** Interests with respect to which documents are filed or recognized under this section are deemed perfected in all jurisdictions, and shall be governed by applicable State or foreign law in all matters not specifically governed by this section.
 - **(f)** The Board shall collect, maintain, and keep open for public inspection a railway equipment register consistent with the manner and format maintained by the Interstate Commerce Commission as of January 1, 1996 .
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 102(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 837](https://www.govinfo.gov/link/statute/109/837); amended [Pub. L. 104–287, § 5(25)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3390](https://www.govinfo.gov/link/statute/110/3390).)*

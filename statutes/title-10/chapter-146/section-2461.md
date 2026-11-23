@@ -3,9 +3,10 @@ title: "Section 2461 - Public-private competition required before conversion to 
 usc_title: 10
 usc_section: "2461"
 chapter: 146
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2461"
-generated_at: "2026-03-30T02:53:38.159Z"
+generated_at: "2026-11-23T20:25:51.587Z"
+status: "active"
 ---
 
 # § 2461. Public-private competition required before conversion to contractor performance
@@ -80,3 +81,89 @@ generated_at: "2026-03-30T02:53:38.159Z"
   - **(1)** is included on the procurement list established pursuant to section 8503 of title 41 ; or
   - **(2)** is planned to be changed to performance by a qualified nonprofit agency for the blind or by a qualified nonprofit agency for other severely handicapped persons in accordance with such section.
 - **(e)** The provisions of this section shall not apply during war or during a period of national emergency declared by the President or Congress.
+
+Public-Private Competition
+
+Requirement to Consult DOD Employees
+
+Congressional Notification
+
+Exemption for the Purchase of Products and Services of the Blind and Other Severely Handicapped Persons
+
+Inapplicability During War or Emergency
+
+Restriction on Office of Management and Budget
+
+Restriction on Secretary of Defense
+
+Inspector General Review.—
+
+Comprehensive review required
+
+Inspector general access
+
+Multiyear Contracts Authorized
+
+Compliance With Law Applicable to Multiyear Contracts
+
+Compliance With Law Applicable to Service Contracts
+
+Limitation on Amount
+
+Provision of Government Insurance
+
+Pilot Program Required
+
+Purpose.—
+
+In general
+
+Elements
+
+Annual Report
+
+Application of Timeframes
+
+Extension of Timeframes
+
+Limitation Pending Report
+
+Content of Report
+
+Standardization of Requirements
+
+Relationship to OMB Requirements
+
+Priority Development of Certain Forms
+
+Incentive for Use
+
+Exclusion of Multifunction Conversion
+
+Effect on Other Laws
+
+GAO Report
+
+Military Installation Defined
+
+In General
+
+Program Requirements
+
+Audit Requirements
+
+Collection Method
+
+Fees for Contractor
+
+In General
+
+Applicability
+
+Regulations
+
+Report
+
+## Source Credit
+
+*(Added [Pub. L. 100–370, § 2(a)(1)](https://www.govinfo.gov/link/plaw/100/public/370), July 19, 1988, [102 Stat. 851](https://www.govinfo.gov/link/statute/102/851); amended [Pub. L. 101–189, div. A, title XI, § 1132](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1561](https://www.govinfo.gov/link/statute/103/1561); [Pub. L. 104–106, div. D, title XLIII, § 4321(b)(19)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 673](https://www.govinfo.gov/link/statute/110/673); [Pub. L. 105–85, div. A, title III, § 384](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1711](https://www.govinfo.gov/link/statute/111/1711); [Pub. L. 105–261, div. A, title III, § 342(a)](https://www.govinfo.gov/link/plaw/105/public/261) –(c), Oct. 17, 1998, [112 Stat. 1974–1976](https://www.govinfo.gov/link/statute/112/1974); [Pub. L. 106–65, div. A, title III, § 341](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 568](https://www.govinfo.gov/link/statute/113/568); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title III, §§ 351, 352], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–71, 1654A–72; [Pub. L. 107–107, div. A, title III, § 344](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1061](https://www.govinfo.gov/link/statute/115/1061); [Pub. L. 107–314, div. A, title III, § 331](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2512](https://www.govinfo.gov/link/statute/116/2512); [Pub. L. 109–163, div. A, title III, § 341(a)](https://www.govinfo.gov/link/plaw/109/public/163), (b), (c)(2), (3), (g)(1)–(2)(B), Jan. 6, 2006, [119 Stat. 3195](https://www.govinfo.gov/link/statute/119/3195), 3196, 3199, 3200; [Pub. L. 110–181, div. A, title III](https://www.govinfo.gov/link/plaw/110/public/181), §§ 322(a), (b)(2), (c), 323, Jan. 28, 2008, [122 Stat. 58–60](https://www.govinfo.gov/link/statute/122/58); [Pub. L. 111–84, div. A, title III](https://www.govinfo.gov/link/plaw/111/public/84), §§ 321(a), 322(a), title X, § 1073(a)(25), Oct. 28, 2009, [123 Stat. 2250](https://www.govinfo.gov/link/statute/123/2250), 2251, 2474; [Pub. L. 111–350, § 5(b)(34)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3845](https://www.govinfo.gov/link/statute/124/3845); [Pub. L. 112–81, div. A, title IX, § 937](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1546](https://www.govinfo.gov/link/statute/125/1546); [Pub. L. 112–239, div. A, title X, § 1076(f)(28)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1953](https://www.govinfo.gov/link/statute/126/1953); [Pub. L. 113–66, div. A, title X, § 1091(a)(11)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 876](https://www.govinfo.gov/link/statute/127/876).)*

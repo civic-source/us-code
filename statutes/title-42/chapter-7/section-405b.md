@@ -3,9 +3,10 @@ title: "Section 405b - Reducing identity fraud"
 usc_title: 42
 usc_section: "405b"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 405b"
-generated_at: "2026-03-30T02:56:10.859Z"
+generated_at: "2026-11-23T20:27:20.764Z"
+status: "active"
 ---
 
 # § 405b. Reducing identity fraud
@@ -57,3 +58,7 @@ generated_at: "2026-03-30T02:56:10.859Z"
   - **(2)** The Commissioner shall not begin development of a verification system to carry out this section until the Commissioner determines that amounts equal to at least 50 percent of program start-up costs have been collected under paragraph (1).
   - **(3)** The Commissioner may use funds designated for information technology modernization to carry out this section.
   - **(4)** The Commissioner shall annually submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on the amount of indirect costs to the Social Security Administration arising as a result of the implementation of this section.
+
+## Source Credit
+
+*([Pub. L. 115–174, title II, § 215](https://www.govinfo.gov/link/plaw/115/public/174), May 24, 2018, [132 Stat. 1323](https://www.govinfo.gov/link/statute/132/1323).)*

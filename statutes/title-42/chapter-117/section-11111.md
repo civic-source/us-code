@@ -3,9 +3,10 @@ title: "Section 11111 - Professional review"
 usc_title: 42
 usc_section: "11111"
 chapter: 117
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11111"
-generated_at: "2026-03-30T02:56:11.395Z"
+generated_at: "2026-11-23T20:27:23.273Z"
+status: "active"
 ---
 
 # § 11111. Professional review
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.395Z"
   - **(2)**
     - **(A)** Subsection (a) shall apply to State laws in a State for actions commenced before October 14, 1989 , if the State by legislation elects such treatment.
     - **(B)** An election under State law is not effective, for purposes of, 1 1 So in original. Probably should be “for purposes of subparagraph (A),”. for actions commenced before the effective date of the State law, which may not be earlier than the date of the enactment of that law.
+
+## Source Credit
+
+*([Pub. L. 99–660, title IV, § 411](https://www.govinfo.gov/link/plaw/99/public/660), Nov. 14, 1986, [100 Stat. 3784](https://www.govinfo.gov/link/statute/100/3784); [Pub. L. 100–177, title IV, § 402(c)](https://www.govinfo.gov/link/plaw/100/public/177), as added [Pub. L. 101–239, title VI, § 6103(e)(6)(A)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2208](https://www.govinfo.gov/link/statute/103/2208).)*

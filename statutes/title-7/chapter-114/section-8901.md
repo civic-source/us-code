@@ -3,9 +3,10 @@ title: "Section 8901 - Definitions"
 usc_title: 7
 usc_section: "8901"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 8901"
-generated_at: "2026-03-30T02:53:42.481Z"
+generated_at: "2026-11-23T20:25:41.925Z"
+status: "active"
 ---
 
 # § 8901. Definitions
@@ -40,3 +41,7 @@ In this chapter:
     - **(F)** other actions taken by an applicable agency in a case in which an agricultural countermeasure is procured or used prior to issuance of a license or other form of Federal Government approval.
   - **(10)** The term “plant” has the meaning given the term in section 7702 of this title .
   - **(11)** The term “qualified agricultural countermeasure” means an agricultural countermeasure that the Secretary, in consultation with the Secretary of Homeland Security, determines to be a priority in order to address an agricultural biosecurity threat.
+
+## Source Credit
+
+*([Pub. L. 110–234, title XIV, § 14102](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1453](https://www.govinfo.gov/link/statute/122/1453); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIV, § 14102, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2215.)*

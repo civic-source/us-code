@@ -3,9 +3,10 @@ title: "Section 527 - Disclosures"
 usc_title: 11
 usc_section: "527"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 527"
-generated_at: "2026-03-30T02:53:53.878Z"
+generated_at: "2026-11-23T20:25:55.366Z"
+status: "active"
 ---
 
 # § 527. Disclosures
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:53.878Z"
   - **(2)** how to complete the list of creditors, including how to determine what amount is owed and what address for the creditor should be shown; and
   - **(3)** how to determine what property is exempt and how to value exempt property at replacement value as defined in section 506.
 - **(d)** A debt relief agency shall maintain a copy of the notices required under subsection (a) of this section for 2 years after the date on which the notice is given the assisted person.
+
+## Source Credit
+
+*(Added [Pub. L. 109–8, title II, § 228(a)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 69](https://www.govinfo.gov/link/statute/119/69); amended [Pub. L. 111–327, § 2(a)(21)](https://www.govinfo.gov/link/plaw/111/public/327), Dec. 22, 2010, [124 Stat. 3560](https://www.govinfo.gov/link/statute/124/3560).)*

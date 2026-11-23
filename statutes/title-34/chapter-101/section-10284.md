@@ -3,9 +3,10 @@ title: "Section 10284 - Definitions"
 usc_title: 34
 usc_section: "10284"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10284"
-generated_at: "2026-03-30T02:55:33.265Z"
+generated_at: "2026-11-23T20:26:50.453Z"
+status: "active"
 ---
 
 # § 10284. Definitions
@@ -85,3 +86,7 @@ As used in this subchapter—
       - **(ii)** is performing official duties of the Department, pursuant to a deployment order issued by the Secretary, to protect the public, property, or the interests of the United States by—
         - **(I)** assessing, locating, identifying, securing, rendering safe, or disposing of weapons of mass destruction (as defined in section 2302 of title 50 ); or
         - **(II)** managing the immediate consequences of a radiological release or exposure.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 1204](https://www.govinfo.gov/link/plaw/90/public/351), formerly § 1203, as added [Pub. L. 98–473, title II, § 609F](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2099](https://www.govinfo.gov/link/statute/98/2099); amended [Pub. L. 99–500, § 101(b) [title II, § 207]](https://www.govinfo.gov/link/plaw/99/public/500), Oct. 18, 1986, [100 Stat. 1783–39](https://www.govinfo.gov/link/statute/100/1783), 1783–56, and [Pub. L. 99–591, § 101(b) [title II, § 207]](https://www.govinfo.gov/link/plaw/99/public/591), Oct. 30, 1986, [100 Stat. 3341–39](https://www.govinfo.gov/link/statute/100/3341), 3341–56; renumbered § 1204 and amended [Pub. L. 100–690, title VI](https://www.govinfo.gov/link/plaw/100/public/690), §§ 6105(d), 6106(a)(1), Nov. 18, 1988, [102 Stat. 4341](https://www.govinfo.gov/link/statute/102/4341); [Pub. L. 101–647, title XIII](https://www.govinfo.gov/link/plaw/101/public/647), §§ 1301(c), 1302, Nov. 29, 1990, [104 Stat. 4834](https://www.govinfo.gov/link/statute/104/4834); [Pub. L. 103–322, title XXXIII, § 330001(e)(2)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2139](https://www.govinfo.gov/link/statute/108/2139); [Pub. L. 106–390, title III, § 305(a)](https://www.govinfo.gov/link/plaw/106/public/390), Oct. 30, 2000, [114 Stat. 1573](https://www.govinfo.gov/link/statute/114/1573); [Pub. L. 107–196, § 2(a)](https://www.govinfo.gov/link/plaw/107/public/196), June 24, 2002, [116 Stat. 719](https://www.govinfo.gov/link/statute/116/719); [Pub. L. 109–162, title XI, § 1164(a)](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3120](https://www.govinfo.gov/link/statute/119/3120); [Pub. L. 109–295, title VI, § 612(c)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1410](https://www.govinfo.gov/link/statute/120/1410); [Pub. L. 112–239, div. A, title X, § 1086(b)(1)(E)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1967](https://www.govinfo.gov/link/statute/126/1967); [Pub. L. 116–22, title III, § 301(d)(2)](https://www.govinfo.gov/link/plaw/116/public/22), June 24, 2019, [133 Stat. 933](https://www.govinfo.gov/link/statute/133/933); [Pub. L. 116–283, div. C, title XXXI, § 3142](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4386](https://www.govinfo.gov/link/statute/134/4386); [Pub. L. 117–61, § 3](https://www.govinfo.gov/link/plaw/117/public/61), Nov. 18, 2021, [135 Stat. 1475](https://www.govinfo.gov/link/statute/135/1475); [Pub. L. 117–172, § 4(b)](https://www.govinfo.gov/link/plaw/117/public/172), Aug. 16, 2022, [136 Stat. 2101](https://www.govinfo.gov/link/statute/136/2101).)*

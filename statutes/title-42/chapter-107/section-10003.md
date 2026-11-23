@@ -3,9 +3,10 @@ title: "Section 10003 - Definitions"
 usc_title: 42
 usc_section: "10003"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10003"
-generated_at: "2026-03-30T02:56:11.378Z"
+generated_at: "2026-11-23T20:27:23.201Z"
+status: "active"
 ---
 
 # § 10003. Definitions
@@ -23,3 +24,7 @@ Unless otherwise expressly provided, for purposes of this chapter, the term—
   - **(5)** “persons who administer radiologic procedures” means any person, other than a practitioner, who intentionally administers radiation to other persons for medical purposes, and includes medical radiologic technologists (including dental hygienists and assistants), radiation therapy technologists, and nuclear medicine technologists;
   - **(6)** “Secretary” means the Secretary of Health and Human Services; and
   - **(7)** “State” means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the Virgin Islands, Guam, American Samoa, and the Trust Territory of the Pacific Islands.
+
+## Source Credit
+
+*([Pub. L. 97–35, title IX, § 978](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 599](https://www.govinfo.gov/link/statute/95/599).)*

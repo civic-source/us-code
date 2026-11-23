@@ -3,9 +3,10 @@ title: "Section 3105 - Electronic charts"
 usc_title: 46
 usc_section: "3105"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 3105"
-generated_at: "2026-03-30T02:56:15.542Z"
+generated_at: "2026-11-23T20:27:27.060Z"
+status: "active"
 ---
 
 # § 3105. Electronic charts
@@ -23,3 +24,15 @@ generated_at: "2026-03-30T02:56:15.542Z"
 - **(b)** Except pursuant to an international treaty, convention, or agreement, to which the United States is a party, this section shall not apply to any foreign vessel that is not destined for, or departing from, a port or place subject to the jurisdiction of the United States and that is in—
   - **(1)** innocent passage through the territorial sea of the United States; or
   - **(2)** transit through the navigable waters of the United States that form a part of an international strait.
+
+System Requirements.—
+
+Electronic charts in lieu of marine charts, charts, and maps
+
+Exemptions and waivers
+
+Limitation on Application
+
+## Source Credit
+
+*(Added and amended [Pub. L. 115–282, title IV, § 402(a)(1)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4263](https://www.govinfo.gov/link/statute/132/4263), 4264; [Pub. L. 116–283, div. G, title LVXXXIII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXIII], § 8301, Jan. 1, 2021, [134 Stat. 4691](https://www.govinfo.gov/link/statute/134/4691).)*

@@ -3,12 +3,34 @@ title: "Section 153304 - Trustees"
 usc_title: 36
 usc_section: "153304"
 chapter: 1533
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 153304"
-generated_at: "2026-03-30T02:55:44.705Z"
+generated_at: "2026-11-23T20:26:59.014Z"
+status: "active"
 ---
 
 # § 153304. Trustees
 
 The property and affairs of the corporation shall be managed by at least 40 trustees. The trustees shall be elected annually at the time provided in the bylaws. At least one trustee shall be elected annually from a list of nominees to be made by each of the State societies and submitted to the corporation at least 30 days before the annual meeting, in accordance with provisions adopted by the corporation to regulate nominations.
 
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 153304 | 36:20d. | June 9, 1906, ch. 3065, § 4 , 34 Stat. 228 ; Feb. 6, 1925, ch. 142 , 43 Stat. 808 . |
+
+
+Historical and Revision Notes
+
+153304
+
+June 9, 1906, ch. 3065, § 4
+
+34 Stat. 228
+
+Feb. 6, 1925, ch. 142
+
+43 Stat. 808
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1424](https://www.govinfo.gov/link/statute/112/1424).)*

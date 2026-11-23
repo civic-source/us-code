@@ -3,9 +3,10 @@ title: "Section 6592b - Establishment of fuel breaks in forests and other wildla
 usc_title: 16
 usc_section: "6592b"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6592b"
-generated_at: "2026-03-30T02:54:23.065Z"
+generated_at: "2026-11-23T20:26:20.812Z"
+status: "active"
 ---
 
 # § 6592b. Establishment of fuel breaks in forests and other wildland vegetation
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:54:23.065Z"
 - **(f)** To encourage meaningful public participation during the preparation of a project under this section, the Secretary concerned shall facilitate, during the preparation of each project—
   - **(1)** collaboration among State and local governments and Indian Tribes; and
   - **(2)** participation of interested persons.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title VIII, § 40806](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1110](https://www.govinfo.gov/link/statute/135/1110).)*

@@ -3,9 +3,10 @@ title: "Section 6067 - Settlement of outstanding United States claims to confisc
 usc_title: 22
 usc_section: "6067"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6067"
-generated_at: "2026-03-30T02:55:05.424Z"
+generated_at: "2026-11-23T20:26:32.592Z"
+status: "active"
 ---
 
 # § 6067. Settlement of outstanding United States claims to confiscated property in Cuba
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.424Z"
   - **(4)** an assessment of the role and types of support the United States could provide to help resolve claims to property confiscated by the Cuban Government that are held by United States nationals who did not receive or qualify for certification under section 1643f of this title ; and
   - **(5)** an assessment of any areas requiring legislative review or action regarding the resolution of property claims in Cuba prior to a change of government in Cuba.
 - **(d)** It is the sense of the Congress that the satisfactory resolution of property claims by a Cuban Government recognized by the United States remains an essential condition for the full resumption of economic and diplomatic relations between the United States and Cuba.
+
+## Source Credit
+
+*([Pub. L. 104–114, title II, § 207](https://www.govinfo.gov/link/plaw/104/public/114), Mar. 12, 1996, [110 Stat. 813](https://www.govinfo.gov/link/statute/110/813).)*

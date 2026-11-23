@@ -3,9 +3,10 @@ title: "Section 1425 - Advisory committees of the First Responder Network Author
 usc_title: 47
 usc_section: "1425"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 1425"
-generated_at: "2026-03-30T02:56:24.534Z"
+generated_at: "2026-11-23T20:27:28.994Z"
+status: "active"
 ---
 
 # § 1425. Advisory committees of the First Responder Network Authority
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:24.534Z"
 - **(b)**
   - **(1)** The First Responder Network Authority shall select parties to serve as its agents, consultants, or experts in a fair, transparent, and objective manner, and such agents may include a program manager to carry out certain of the duties and responsibilities of deploying and operating the nationwide public safety broadband network described in subsections (b) and (c) of section 1426 of this title .
   - **(2)** If the selection of an agent, consultant, or expert satisfies the requirements under paragraph (1), the selection of that agent, consultant, or expert shall be final and binding.
+
+## Source Credit
+
+*([Pub. L. 112–96, title VI, § 6205](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 211](https://www.govinfo.gov/link/statute/126/211).)*

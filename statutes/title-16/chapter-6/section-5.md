@@ -3,9 +3,10 @@ title: "Section 5 - Advisory Committee"
 usc_title: 16
 usc_section: "5"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 5"
-generated_at: "2026-03-30T02:54:22.899Z"
+generated_at: "2026-11-23T20:26:20.240Z"
+status: "active"
 ---
 
 # § 698u–5. Advisory Committee
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:22.899Z"
 - **(g)** A majority of the members of the Advisory Committee shall constitute a quorum.
 - **(h)** Each member of the Advisory Committee shall serve without compensation, except that while engaged in official business of the Advisory Committee, the member shall be entitled to travel expenses, including per diem in lieu of subsistence in the same manner as persons employed intermittently in Government service under section 5703 of title 5 .
 - **(i)** The rechartering provisions of section 1013(b) of title 5 shall not apply to the Advisory Committee.
+
+## Source Credit
+
+*([Pub. L. 104–333, div. I, title X, § 1007](https://www.govinfo.gov/link/plaw/104/public/333), Nov. 12, 1996, [110 Stat. 4208](https://www.govinfo.gov/link/statute/110/4208); [Pub. L. 105–244, title I, § 102(a)(4)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1618](https://www.govinfo.gov/link/statute/112/1618); [Pub. L. 117–286, § 4(a)(102)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4317](https://www.govinfo.gov/link/statute/136/4317).)*

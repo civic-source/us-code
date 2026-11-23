@@ -3,9 +3,10 @@ title: "Section 30 - Accounts and records"
 usc_title: 15
 usc_section: "30"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 30"
-generated_at: "2026-03-30T02:54:08.069Z"
+generated_at: "2026-11-23T20:26:03.609Z"
+status: "active"
 ---
 
 # § 80a–30. Accounts and records
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:08.069Z"
     - **(B)** Any person that is subject to regulation and examination by a Federal financial institution regulatory agency (as such term is defined under section 212(c)(2) of title 18 ) may satisfy any examination request, information request, or document request described under subparagraph (A), by providing to the Commission a detailed listing, in writing, of the securities, deposits, or credits of the registered investment company within the custody or use of such person.
 - **(c)** The Commission may, in the public interest or for the protection of investors, issue rules and regulations providing for a reasonable degree of uniformity in the accounting policies and principles to be followed by registered investment companies in maintaining their accounting records and in preparing financial statements required pursuant to this subchapter.
 - **(d)** The Commission, upon application made by any registered investment company, may by order exempt a specific transaction or transactions from the provisions of any rule or regulation made pursuant to subsection (e), if the Commission finds that such rule or regulation should not reasonably be applied to such transaction.
+
+## Source Credit
+
+*(Aug. 22, 1940, ch. 686, title I, § 31, [54 Stat. 838](https://www.govinfo.gov/link/statute/54/838); [Pub. L. 104–290, title II, § 207](https://www.govinfo.gov/link/plaw/104/public/290), Oct. 11, 1996, [110 Stat. 3430](https://www.govinfo.gov/link/statute/110/3430); [Pub. L. 105–353, title III, § 301(c)(6)](https://www.govinfo.gov/link/plaw/105/public/353), Nov. 3, 1998, [112 Stat. 3237](https://www.govinfo.gov/link/statute/112/3237); [Pub. L. 111–203, title IX](https://www.govinfo.gov/link/plaw/111/public/203), §§ 929I(b), 929Q(a), July 21, 2010, [124 Stat. 1858](https://www.govinfo.gov/link/statute/124/1858), 1865; [Pub. L. 111–257, § 1(b)](https://www.govinfo.gov/link/plaw/111/public/257), Oct. 5, 2010, [124 Stat. 2646](https://www.govinfo.gov/link/statute/124/2646).)*

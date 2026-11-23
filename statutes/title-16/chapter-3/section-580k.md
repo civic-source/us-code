@@ -3,9 +3,10 @@ title: "Section 580k - Grazing advisory boards"
 usc_title: 16
 usc_section: "580k"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 580k"
-generated_at: "2026-03-30T02:54:22.879Z"
+generated_at: "2026-11-23T20:26:20.164Z"
+status: "active"
 ---
 
 # § 580k. Grazing advisory boards
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:22.879Z"
 - **(c)**
   - **(1)** At least thirty days prior to the issuance by the Secretary of Agriculture of any regulation under sections 490, 500, 504, 504a, 555, 557, 571c, 572, 579a, 580c to 580 l , and 581 1 1 See References in Text note below. of this title or otherwise, with respect to the administration of grazing on national forest lands, or of amendments or additions to, or modifications in, any such regulation, which in his judgment would substantially modify existing policy with respect to grazing in national forests, or which would materially affect preferences of permittees in the area involved, the local advisory board for each area that will be affected thereby shall be notified of the intention to take such action. If as a result of this notice the Secretary of Agriculture shall receive any recommendation respecting the issuance of the proposed regulation and shall overrule, disregard, or modify any such regulations, he or his representative shall furnish in writing to the local advisory board his reasons for such action.
   - **(2)** Any such local advisory board may at any time recommend to the Secretary of Agriculture, or his representative, the issuance of regulations or instructions relating to the use of national forest lands, seasons of use, grazing capacity of such lands, and any other matters affecting the administration of grazing in the area represented by such board.
+
+## Source Credit
+
+*(Apr. 24, 1950, ch. 97, § 18, [64 Stat. 87](https://www.govinfo.gov/link/statute/64/87).)*

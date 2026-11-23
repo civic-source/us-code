@@ -3,9 +3,10 @@ title: "Section 3094 - Funding of intelligence activities"
 usc_title: 50
 usc_section: "3094"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3094"
-generated_at: "2026-03-30T02:56:26.234Z"
+generated_at: "2026-11-23T20:27:30.913Z"
+status: "active"
 ---
 
 # § 3094. Funding of intelligence activities
@@ -31,3 +32,9 @@ generated_at: "2026-03-30T02:56:26.234Z"
   - **(3)** the term “specifically authorized by the Congress” means that—
     - **(A)** the activity and the amount of funds proposed to be used for that activity were identified in a formal budget request to the Congress, but funds shall be deemed to be specifically authorized for that activity only to the extent that the Congress both authorized the funds to be appropriated for that activity and appropriated the funds for that activity; or
     - **(B)** although the funds were not formally requested, the Congress both specifically authorized the appropriation of the funds for the activity and appropriated the funds for the activity.
+
+enhanced security countermeasures capabilities
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title V, § 504, formerly § 502, as added [Pub. L. 99–169, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/99/public/169), Dec. 4, 1985, [99 Stat. 1004](https://www.govinfo.gov/link/statute/99/1004); renumbered § 504 and amended [Pub. L. 102–88, title VI](https://www.govinfo.gov/link/plaw/102/public/88), §§ 602(a)(1), (c)(1), 603, Aug. 14, 1991, [105 Stat. 441](https://www.govinfo.gov/link/statute/105/441), 444; [Pub. L. 107–306, title III, § 353(b)(3)(D)](https://www.govinfo.gov/link/plaw/107/public/306), Nov. 27, 2002, [116 Stat. 2402](https://www.govinfo.gov/link/statute/116/2402); [Pub. L. 108–458, title I, § 1071(a)(1)(Z)](https://www.govinfo.gov/link/plaw/108/public/458), (AA), (5), Dec. 17, 2004, [118 Stat. 3689](https://www.govinfo.gov/link/statute/118/3689), 3690; [Pub. L. 111–259, title III, § 362](https://www.govinfo.gov/link/plaw/111/public/259), Oct. 7, 2010, [124 Stat. 2701](https://www.govinfo.gov/link/statute/124/2701); [Pub. L. 116–92, div. E, title LXVII, § 6742(b)(13)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2240](https://www.govinfo.gov/link/statute/133/2240); [Pub. L. 117–103, div. X, title V, § 503](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 986](https://www.govinfo.gov/link/statute/136/986).)*

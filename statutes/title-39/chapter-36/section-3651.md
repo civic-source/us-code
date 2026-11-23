@@ -3,9 +3,10 @@ title: "Section 3651 - Annual reports by the Commission"
 usc_title: 39
 usc_section: "3651"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "39 U.S.C. § 3651"
-generated_at: "2026-03-30T02:55:43.694Z"
+generated_at: "2026-11-23T20:26:57.757Z"
+status: "active"
 ---
 
 # § 3651. Annual reports by the Commission
@@ -18,3 +19,17 @@ generated_at: "2026-03-30T02:55:43.694Z"
     - **(C)** other public services or activities which, in the judgment of the Postal Regulatory Commission, would not otherwise have been provided by the Postal Service but for the requirements of law.
   - **(2)** The Commission shall detail the basis for its estimates and the statutory requirements giving rise to the costs identified in each report under this section.
 - **(c)** The Postal Service shall provide the Postal Regulatory Commission with such information as may, in the judgment of the Commission, be necessary in order for the Commission to prepare its reports under this section.
+
+In General
+
+Additional Information.—
+
+In general
+
+Basis for estimates
+
+Information From Postal Service
+
+## Source Credit
+
+*(Added [Pub. L. 109–435, title II, § 204(b)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3211](https://www.govinfo.gov/link/statute/120/3211).)*

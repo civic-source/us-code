@@ -3,9 +3,10 @@ title: "Section 37a - Definitions"
 usc_title: 15
 usc_section: "37a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 37a"
-generated_at: "2026-03-30T02:54:08.024Z"
+generated_at: "2026-11-23T20:26:03.377Z"
+status: "active"
 ---
 
 # § 37a. Definitions
@@ -18,3 +19,7 @@ For purposes of this section and section 37 of this title :
   - **(4)** The term “final determination” includes an Internal Revenue Service determination, after exhaustion of donor’s and donee’s administrative remedies, disallowing the donor’s charitable deduction for the year in which the initial contribution was made because of the donee’s failure to comply at such time with the requirements of section 501(m)(5) or 664(d), respectively, of title 26.
   - **(5)** The term “person” has the meaning given it in subsection (a) of section 12 of this title .
   - **(6)** The term “State” has the meaning given it in section 15g(2) of this title .
+
+## Source Credit
+
+*([Pub. L. 104–63, § 3](https://www.govinfo.gov/link/plaw/104/public/63), Dec. 8, 1995, [109 Stat. 687](https://www.govinfo.gov/link/statute/109/687); [Pub. L. 105–26, § 2(2)](https://www.govinfo.gov/link/plaw/105/public/26), July 3, 1997, [111 Stat. 242](https://www.govinfo.gov/link/statute/111/242).)*

@@ -3,9 +3,10 @@ title: "Section 2805 - Enforcement provisions"
 usc_title: 15
 usc_section: "2805"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2805"
-generated_at: "2026-03-30T02:54:08.183Z"
+generated_at: "2026-11-23T20:26:04.255Z"
+status: "active"
 ---
 
 # § 2805. Enforcement provisions
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:54:08.183Z"
     - **(A)** any right that the franchisee has under this subchapter or other Federal law; or
     - **(B)** any right that the franchisee may have under any valid and applicable State law.
   - **(2)** No provision of any franchise shall be valid or enforceable if the provision specifies that the interpretation or enforcement of the franchise shall be governed by the law of any State other than the State in which the franchisee has the principal place of business of the franchisee.
+
+## Source Credit
+
+*([Pub. L. 95–297, title I, § 105](https://www.govinfo.gov/link/plaw/95/public/297), June 19, 1978, [92 Stat. 331](https://www.govinfo.gov/link/statute/92/331); [Pub. L. 103–371, § 4](https://www.govinfo.gov/link/plaw/103/public/371), Oct. 19, 1994, [108 Stat. 3485](https://www.govinfo.gov/link/statute/108/3485); [Pub. L. 110–140, title II, § 241(b)](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1540](https://www.govinfo.gov/link/statute/121/1540).)*

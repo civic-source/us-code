@@ -3,9 +3,10 @@ title: "Section 2302 - Rules governing contents of warranties"
 usc_title: 15
 usc_section: "2302"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2302"
-generated_at: "2026-03-30T02:54:08.171Z"
+generated_at: "2026-11-23T20:26:04.193Z"
+status: "active"
 ---
 
 # § 2302. Rules governing contents of warranties
@@ -42,3 +43,13 @@ generated_at: "2026-03-30T02:54:08.171Z"
   - **(2)** the Commission finds that such a waiver is in the public interest.
 - **(d)** The Commission may by rule devise detailed substantive warranty provisions which warrantors may incorporate by reference in their warranties.
 - **(e)** The provisions of this section apply only to warranties which pertain to consumer products actually costing the consumer more than $5.
+
+“Congress makes the following findings:
+
+In general
+
+Authority to waive requirement for oral presentation
+
+## Source Credit
+
+*([Pub. L. 93–637, title I, § 102](https://www.govinfo.gov/link/plaw/93/public/637), Jan. 4, 1975, [88 Stat. 2185](https://www.govinfo.gov/link/statute/88/2185); [Pub. L. 114–51, § 3(a)](https://www.govinfo.gov/link/plaw/114/public/51), Sept. 24, 2015, [129 Stat. 494](https://www.govinfo.gov/link/statute/129/494).)*

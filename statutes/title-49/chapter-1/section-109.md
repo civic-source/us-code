@@ -3,9 +3,10 @@ title: "Section 109 - Maritime Administration"
 usc_title: 49
 usc_section: "109"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 109"
-generated_at: "2026-03-30T02:56:19.295Z"
+generated_at: "2026-11-23T20:27:34.498Z"
+status: "active"
 ---
 
 # § 109. Maritime Administration
@@ -35,3 +36,261 @@ generated_at: "2026-03-30T02:56:19.295Z"
     - **(G)** National Defense Reserve Fleet expenses;
     - **(H)** expenses necessary to carry out part B of subtitle V of title 46; and
     - **(I)** other operations and training expenses related to the development of waterborne transportation systems, the use of waterborne transportation systems, and general administration.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 109 | (no source). |  |
+
+| Pub. L. 109–304 | Col 2 | Col 3 |
+| --- | --- | --- |
+| 109(a) | 46 App.:1111 note. | Reorg. Plan No. 21 of 1950, eff. May 24, 1950 , § 201, 64 Stat. 1276 . |
+|  | 46 App.:1601. | Pub. L. 97–31, § 2 , Aug. 6, 1981 , 95 Stat. 151 . |
+| 109(b) | 46 App.:1111 note. | Reorg. Plan No. 7 of 1961, eff. Aug. 12, 1961 , § 201, 75 Stat. 842 ; Pub. L. 88–426, title III, § 305(19)(B) , Aug. 14, 1964 , 78 Stat. 425 ; Pub. L. 91–469, § 38(a) , Oct. 21, 1970 , 84 Stat. 1036 . |
+|  | 46 App.:1603. | Pub. L. 97–31, § 4 , Aug. 6, 1981 , 95 Stat. 151 . |
+| 109(c) | 46 App.:1111 note. | Reorg. Plan No. 21 of 1950, eff. May 24, 1950 , § 203, 64 Stat. 1276 . |
+| 109(d) | 46 App.:1111 note. | Reorg. Plan No. 21 of 1950, eff. May 24, 1950 , § 204, 64 Stat. 1276 . |
+|  | 46 App.:1602. | Pub. L. 97–31, § 3 , Aug. 6, 1981 , 95 Stat. 151 . |
+| 109(e) | 46 App.:1213(b). | June 29, 1936, ch. 858 , title VIII, § 809(b), as added Pub. L. 94–10, § 3 , Mar. 23, 1975 , 89 Stat. 16 ; Pub. L. 97–31, § 12(121) , Aug. 6, 1981 , 95 Stat. 164 . |
+| 109(f) | 46 App.:1122(d). | June 29, 1936, ch. 858 , title II, § 212(d), 49 Stat. 1990 ; Pub. L. 97–31, § 12(69) , Aug. 6, 1981 , 95 Stat. 159 . |
+| 109(g) | 46 App.:1111(f) (2d sentence related to Secretary). | June 29, 1936, ch. 858 , title II, § 201(f) (2d sentence related to Secretary), 49 Stat. 1986 ; Aug. 4, 1939, ch. 417, § 4 , 53 Stat. 1182 ; Pub. L. 97–31, § 12(58)(D) , Aug. 6, 1981 , 95 Stat. 158 . |
+| 109(h) | 46 App.:1117 (related to Secretary). | June 29, 1936, ch. 858 , title II, § 207 (related to Secretary), 49 Stat. 1988 ; June 23, 1938, ch. 600, § 2 , 52 Stat. 954 ; Pub. L. 97–31, § 12(64) , Aug. 6, 1981 , 95 Stat. 159 ; Pub. L. 108–271, § 8(b) , July 7, 2004 , 118 Stat. 814 . |
+| 109(i)(1) | 46 App.:1119(a). | June 29, 1936, ch. 858 , title II, § 209, 49 Stat. 1988 ; Aug. 26, 1937, ch. 822, § 3 , 50 Stat. 839 ; Pub. L. 90–81 , Sept. 5, 1967 , 81 Stat. 193 ; Pub. L. 91–469, § 2 , Oct. 21, 1970 , 84 Stat. 1018 ; Pub. L. 95–173 , Nov. 12, 1977 , § 6(a), 91 Stat. 1360 ; Pub. L. 96–387, § 4 , Oct. 7, 1980 , 94 Stat. 1546 ; Pub. L. 96–453, § 3(a) , Oct. 15, 1980 , 94 Stat. 2008 ; Pub. L. 97–31, § 12(66) , Aug. 6, 1981 , 95 Stat. 159 . |
+| 109(i)(2) | 46 App.:1119(b). |  |
+| 109(i)(3) | 46 App.:1295c–1. | Pub. L. 100–202, § 101(a) [title V (4th proviso on p. 1329–28)] , Dec. 22, 1987 , 101 Stat. 1329 , 1329–28. |
+
+
+Organization and Mission
+
+Maritime Administrator
+
+Deputy Maritime Administrator
+
+Duties and Powers Vested in Secretary
+
+Regional Offices
+
+Interagency and Industry Relations
+
+Detailing Officers From Armed Forces
+
+Contracts, Cooperative Agreements, and Audits.—
+
+Contracts and cooperative agreements
+
+Audits
+
+Grant Administrative Expenses
+
+Authorization of Appropriations
+
+In general
+
+Limitations
+
+Historical and Revision Notes
+
+Pub. L.
+
+109
+
+Pub. L.
+
+109(a)
+
+May 24, 1950
+
+64 Stat. 1276
+
+Pub. L. 97–31, § 2
+
+Aug. 6, 1981
+
+95 Stat. 151
+
+109(b)
+
+Aug. 12, 1961
+
+75 Stat. 842
+
+Pub. L. 88–426, title III, § 305(19)(B)
+
+Aug. 14, 1964
+
+78 Stat. 425
+
+Pub. L. 91–469, § 38(a)
+
+Oct. 21, 1970
+
+84 Stat. 1036
+
+Pub. L. 97–31, § 4
+
+Aug. 6, 1981
+
+95 Stat. 151
+
+109(c)
+
+May 24, 1950
+
+64 Stat. 1276
+
+109(d)
+
+May 24, 1950
+
+64 Stat. 1276
+
+Pub. L. 97–31, § 3
+
+Aug. 6, 1981
+
+95 Stat. 151
+
+109(e)
+
+June 29, 1936, ch. 858
+
+Pub. L. 94–10, § 3
+
+Mar. 23, 1975
+
+89 Stat. 16
+
+Pub. L. 97–31, § 12(121)
+
+Aug. 6, 1981
+
+95 Stat. 164
+
+109(f)
+
+June 29, 1936, ch. 858
+
+49 Stat. 1990
+
+Pub. L. 97–31, § 12(69)
+
+Aug. 6, 1981
+
+95 Stat. 159
+
+109(g)
+
+June 29, 1936, ch. 858
+
+49 Stat. 1986
+
+Aug. 4, 1939, ch. 417, § 4
+
+53 Stat. 1182
+
+Pub. L. 97–31, § 12(58)(D)
+
+Aug. 6, 1981
+
+95 Stat. 158
+
+109(h)
+
+June 29, 1936, ch. 858
+
+49 Stat. 1988
+
+June 23, 1938, ch. 600, § 2
+
+52 Stat. 954
+
+Pub. L. 97–31, § 12(64)
+
+Aug. 6, 1981
+
+95 Stat. 159
+
+Pub. L. 108–271, § 8(b)
+
+July 7, 2004
+
+118 Stat. 814
+
+109(i)(1)
+
+June 29, 1936, ch. 858
+
+49 Stat. 1988
+
+Aug. 26, 1937, ch. 822, § 3
+
+50 Stat. 839
+
+Pub. L. 90–81
+
+Sept. 5, 1967
+
+81 Stat. 193
+
+Pub. L. 91–469, § 2
+
+Oct. 21, 1970
+
+84 Stat. 1018
+
+Pub. L. 95–173
+
+Nov. 12, 1977
+
+91 Stat. 1360
+
+Pub. L. 96–387, § 4
+
+Oct. 7, 1980
+
+94 Stat. 1546
+
+Pub. L. 96–453, § 3(a)
+
+Oct. 15, 1980
+
+94 Stat. 2008
+
+Pub. L. 97–31, § 12(66)
+
+Aug. 6, 1981
+
+95 Stat. 159
+
+109(i)(2)
+
+109(i)(3)
+
+Pub. L. 100–202, § 101(a) [title V (4th proviso on p. 1329–28)]
+
+Dec. 22, 1987
+
+101 Stat. 1329
+
+Workforce Plans
+
+Onboarding Policies
+
+Report
+
+Review
+
+Report
+
+Definitions
+
+Marine transportation system
+
+Marine view system
+
+Purposes
+
+Expansion of Marine View System
+
+## Source Credit
+
+*([Pub. L. 97–449, § 1(b)](https://www.govinfo.gov/link/plaw/97/public/449), Jan. 12, 1983, [96 Stat. 2417](https://www.govinfo.gov/link/statute/96/2417); [Pub. L. 103–272, § 5(m)(5)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1375](https://www.govinfo.gov/link/statute/108/1375); [Pub. L. 109–304, § 12](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1698](https://www.govinfo.gov/link/statute/120/1698); [Pub. L. 111–84, div. C, title XXXV, § 3508](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2721](https://www.govinfo.gov/link/statute/123/2721); [Pub. L. 111–383, div. A, title X, § 1075(d)(26)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4374](https://www.govinfo.gov/link/statute/124/4374); [Pub. L. 112–213, title IV, § 409](https://www.govinfo.gov/link/plaw/112/public/213), Dec. 20, 2012, [126 Stat. 1572](https://www.govinfo.gov/link/statute/126/1572); [Pub. L. 114–328, div. C, title XXXV, § 3505(g)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2776](https://www.govinfo.gov/link/statute/130/2776).)*

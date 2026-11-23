@@ -3,9 +3,10 @@ title: "Section 2605 - Use of funds and personnel; savings provision"
 usc_title: 22
 usc_section: "2605"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2605"
-generated_at: "2026-03-30T02:55:05.373Z"
+generated_at: "2026-11-23T20:26:32.343Z"
+status: "active"
 ---
 
 # § 2605. Use of funds and personnel; savings provision
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:05.373Z"
   - **(7)** all other expenses determined by the President to be necessary to carry out the purposes of this chapter.
 - **(b)** Except as may be expressly provided to the contrary in this chapter, all determinations, authorizations, regulations, orders, contracts, agreements and other actions issued, undertaken, or entered into under authority of any provision of law repealed by this chapter shall continue in full force and effect until modified, revoked, or superseded under the authority of this chapter.
 - **(c)** Personnel funded pursuant to this section are authorized to provide administrative assistance to personnel assigned to the bureau charged with carrying out this chapter.
+
+## Source Credit
+
+*([Pub. L. 87–510, § 5](https://www.govinfo.gov/link/plaw/87/public/510), June 28, 1962, [76 Stat. 123](https://www.govinfo.gov/link/statute/76/123); [Pub. L. 96–465, title II, § 2206(a)(10)](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2162](https://www.govinfo.gov/link/statute/94/2162); [Pub. L. 99–93, title I, § 112(a)](https://www.govinfo.gov/link/plaw/99/public/93), Aug. 16, 1985, [99 Stat. 410](https://www.govinfo.gov/link/statute/99/410); [Pub. L. 103–236, title I, § 164(b)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 411](https://www.govinfo.gov/link/statute/108/411); [Pub. L. 103–415, § 1(ff)](https://www.govinfo.gov/link/plaw/103/public/415), Oct. 25, 1994, [108 Stat. 4303](https://www.govinfo.gov/link/statute/108/4303).)*

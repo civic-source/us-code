@@ -3,9 +3,10 @@ title: "Section 8904 - Recovery of assets linked to governmental corruption in U
 usc_title: 22
 usc_section: "8904"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8904"
-generated_at: "2026-03-30T02:55:05.458Z"
+generated_at: "2026-11-23T20:26:32.741Z"
+status: "active"
 ---
 
 # § 8904. Recovery of assets linked to governmental corruption in Ukraine
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:05.458Z"
 - **(b)** Any asset recovery efforts undertaken pursuant to subsection (a) shall be coordinated through the relevant bilateral or multilateral entities, including, as appropriate, the Egmont Group of Financial Intelligence Units, the Stolen Asset Recovery Initiative of the World Bank Group and the United Nations Office on Drugs and Crime, the Camden Asset Recovery Inter-Agency Network, and the Global Focal Point Initiative of the International Criminal Police Organization (INTERPOL).
 - **(c)** The Secretary of State, in coordination with the Attorney General, shall assist the Government of Ukraine, the European Union, and other appropriate countries, on an expedited basis, with formal and informal investigative assistance and training, as appropriate, to support the identification, seizure, and return to the Government of Ukraine of assets linked to acts of corruption.
 - **(d)** The Secretary of the Treasury shall ensure that the Financial Crimes Enforcement Network of the Department of the Treasury assists the Government of Ukraine, the European Union, and other appropriate countries under section 314(a) of the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 ( 31 U.S.C. 5311 note).
+
+## Source Credit
+
+*([Pub. L. 113–95, § 5](https://www.govinfo.gov/link/plaw/113/public/95), Apr. 3, 2014, [128 Stat. 1090](https://www.govinfo.gov/link/statute/128/1090).)*

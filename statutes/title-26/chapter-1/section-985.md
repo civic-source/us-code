@@ -3,9 +3,10 @@ title: "Section 985 - Functional currency"
 usc_title: 26
 usc_section: "985"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 985"
-generated_at: "2026-03-30T02:55:27.751Z"
+generated_at: "2026-11-23T20:26:45.999Z"
+status: "active"
 ---
 
 # § 985. Functional currency
@@ -20,3 +21,11 @@ generated_at: "2026-03-30T02:55:27.751Z"
     - **(A)** such unit keeps its books and records in dollars, or
     - **(B)** the taxpayer uses a method of accounting that approximates a separate transactions method.
   - **(4)** Any change in the functional currency shall be treated as a change in the taxpayer’s method of accounting for purposes of section 481 under procedures to be established by the Secretary.
+
+In general
+
+Special rules for purposes of sections 902 and 960
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title XII, § 1261(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2585](https://www.govinfo.gov/link/statute/100/2585).)*

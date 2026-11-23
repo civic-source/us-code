@@ -3,9 +3,10 @@ title: "Section 102 - Definitions"
 usc_title: 40
 usc_section: "102"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 102"
-generated_at: "2026-03-30T02:55:43.371Z"
+generated_at: "2026-11-23T20:26:56.514Z"
+status: "active"
 ---
 
 # § 102. Definitions
@@ -37,3 +38,80 @@ Except as provided in subchapter VII of chapter 5 of this title, the following d
     - **(B)** naval vessels that are battleships, cruisers, aircraft carriers, destroyers, or submarines; and
     - **(C)** records of the Government.
   - **(10)** The term “surplus property” means excess property that the Administrator determines is not required to meet the needs or responsibilities of all federal agencies.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 102 | 40:472. | June 30, 1949, ch. 288, § 3 , 63 Stat. 378 ; Sept. 5, 1950, ch. 849 , §§ 7(a), 8(a), 64 Stat. 590 , 591; July 12, 1952, ch. 703, § 1(a) , (b), 66 Stat. 593 ; Sept. 1, 1954, ch. 1211, § 4(c) , 68 Stat. 1129 ; Aug. 12, 1955, ch. 874, § 2 , 69 Stat. 722 ; Pub. L. 85–337, § 5 , Feb. 28, 1958 , 72 Stat. 29 ; Pub. L. 86–70, § 30(a) , June 25, 1959 , 73 Stat. 148 ; Pub. L. 86–624, § 27(a) , July 12, 1960 , 74 Stat. 418 ; Pub. L. 93–594 , Jan. 2, 1975 , 88 Stat. 1926 . |
+
+
+Care and handling
+
+Contractor inventory
+
+Excess property
+
+Executive agency
+
+Federal agency
+
+Foreign excess property
+
+Motor vehicle
+
+Nonpersonal services
+
+Property
+
+Surplus property
+
+Historical and Revision Notes
+
+102
+
+June 30, 1949, ch. 288, § 3
+
+63 Stat. 378
+
+Sept. 5, 1950, ch. 849
+
+64 Stat. 590
+
+July 12, 1952, ch. 703, § 1(a)
+
+66 Stat. 593
+
+Sept. 1, 1954, ch. 1211, § 4(c)
+
+68 Stat. 1129
+
+Aug. 12, 1955, ch. 874, § 2
+
+69 Stat. 722
+
+Pub. L. 85–337, § 5
+
+Feb. 28, 1958
+
+72 Stat. 29
+
+Pub. L. 86–70, § 30(a)
+
+June 25, 1959
+
+73 Stat. 148
+
+Pub. L. 86–624, § 27(a)
+
+July 12, 1960
+
+74 Stat. 418
+
+Pub. L. 93–594
+
+Jan. 2, 1975
+
+88 Stat. 1926
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1063](https://www.govinfo.gov/link/statute/116/1063); [Pub. L. 111–350, § 5](https://www.govinfo.gov/link/plaw/111/public/350) (l)(2), Jan. 4, 2011, [124 Stat. 3850](https://www.govinfo.gov/link/statute/124/3850); [Pub. L. 114–318, § 3(b)(2)](https://www.govinfo.gov/link/plaw/114/public/318), Dec. 16, 2016, [130 Stat. 1613](https://www.govinfo.gov/link/statute/130/1613).)*

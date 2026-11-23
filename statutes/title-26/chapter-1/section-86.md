@@ -3,9 +3,10 @@ title: "Section 86 - Social security and tier 1 railroad retirement benefits"
 usc_title: 26
 usc_section: "86"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 86"
-generated_at: "2026-03-30T02:55:27.621Z"
+generated_at: "2026-11-23T20:26:45.320Z"
+status: "active"
 ---
 
 # § 86. Social security and tier 1 railroad retirement benefits
@@ -63,3 +64,11 @@ generated_at: "2026-03-30T02:55:27.621Z"
   - **(2)** section 32(c)(2) (defining earned income),
   - **(3)** section 219(f)(1) (defining compensation), and
   - **(4)** section 911(b)(1) (defining foreign earned income),
+
+In general
+
+Treatment of certain lump-sum payments received after december 31, 1983
+
+## Source Credit
+
+*(Added and amended [Pub. L. 98–21, title I, § 121(a)](https://www.govinfo.gov/link/plaw/98/public/21), title III, § 335(b)(2)(A), Apr. 20, 1983, [97 Stat. 80](https://www.govinfo.gov/link/statute/97/80), 130; [Pub. L. 98–76, title II, § 224(d)](https://www.govinfo.gov/link/plaw/98/public/76), Aug. 12, 1983, [97 Stat. 424](https://www.govinfo.gov/link/statute/97/424); [Pub. L. 98–369, div. A, title IV, § 474(r)(2)](https://www.govinfo.gov/link/plaw/98/public/369), div. B, title VI, § 2661(o)(1), July 18, 1984, [98 Stat. 839](https://www.govinfo.gov/link/statute/98/839), 1158; [Pub. L. 99–272, title XII, § 12111(b)](https://www.govinfo.gov/link/plaw/99/public/272), title XIII, § 13204(a), Apr. 7, 1986, [100 Stat. 287](https://www.govinfo.gov/link/statute/100/287), 313; [Pub. L. 99–514, title I, § 131(b)(2)](https://www.govinfo.gov/link/plaw/99/public/514), title XIII, § 1301(j)(8), title XVIII, § 1847(b)(2), Oct. 22, 1986, [100 Stat. 2113](https://www.govinfo.gov/link/statute/100/2113), 2658, 2856; [Pub. L. 100–647, title I, § 1001(e)](https://www.govinfo.gov/link/plaw/100/public/647), title VI, § 6009(c)(1), Nov. 10, 1988, [102 Stat. 3351](https://www.govinfo.gov/link/statute/102/3351), 3690; [Pub. L. 103–66, title XIII, § 13215(a)](https://www.govinfo.gov/link/plaw/103/public/66), (b), Aug. 10, 1993, [107 Stat. 475](https://www.govinfo.gov/link/statute/107/475), 476; [Pub. L. 103–296, title III, § 309(d)](https://www.govinfo.gov/link/plaw/103/public/296), Aug. 15, 1994, [108 Stat. 1523](https://www.govinfo.gov/link/statute/108/1523); [Pub. L. 104–188, title I](https://www.govinfo.gov/link/plaw/104/public/188), §§ 1704(t)(3), 1807(c)(2), Aug. 20, 1996, [110 Stat. 1887](https://www.govinfo.gov/link/statute/110/1887), 1902; [Pub. L. 105–277, div. J, title IV, § 4003(a)(2)(B)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–908](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 107–16, title IV, § 431(c)(1)](https://www.govinfo.gov/link/plaw/107/public/16), June 7, 2001, [115 Stat. 68](https://www.govinfo.gov/link/statute/115/68); [Pub. L. 108–357, title I, § 102(d)(1)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1428](https://www.govinfo.gov/link/statute/118/1428); [Pub. L. 115–97, title I, § 13305(b)(1)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2126](https://www.govinfo.gov/link/statute/131/2126); [Pub. L. 116–260, div. EE, title I, § 104(b)(2)(C)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3041](https://www.govinfo.gov/link/statute/134/3041); [Pub. L. 117–2, title IX, § 9042(b)(2)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 122](https://www.govinfo.gov/link/statute/135/122).)*

@@ -3,9 +3,10 @@ title: "Section 2926 - Operational energy"
 usc_title: 10
 usc_section: "2926"
 chapter: 173
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2926"
-generated_at: "2026-03-30T02:53:38.187Z"
+generated_at: "2026-11-23T20:25:51.780Z"
+status: "active"
 ---
 
 # § 2926. Operational energy
@@ -79,3 +80,23 @@ generated_at: "2026-03-30T02:53:38.187Z"
   - **(1)** Each member of the working group under subsection (d) shall submit to the Assistant Secretary of Defense for Energy, Installations, and Environment the results of all studies and initiatives conducted by the respective component of the Department that the member represents for purposes of the working group in connection with the operational energy strategy.
   - **(2)** The Assistant Secretary shall have access to all records and data in the Department of Defense (including the records and data of each armed force) necessary in order to permit the Assistant Secretary to carry out the duties of the Assistant Secretary.
 - **(h)** In this section, the term “contested logistics environment” means an environment in which the armed forces engage in conflict with an adversary that presents challenges in all domains and directly targets logistics operations, facilities, and activities in the United States, abroad, or in transit from one location to the other.
+
+Operational Energy Policy
+
+Responsibilities
+
+Functions of the Assistant Secretary of Defense for Energy, Installations, and Environment
+
+Working Group
+
+Operational Energy Strategy
+
+Budgetary and Financial Matters
+
+Access to Initiative Results and Records
+
+Contested Logistics Environment Defined
+
+## Source Credit
+
+*(Added and amended [Pub. L. 113–291, div. A, title IX, § 901(g)(1)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3464](https://www.govinfo.gov/link/statute/128/3464); [Pub. L. 114–92, div. A, title X, § 1081(a)(12)](https://www.govinfo.gov/link/plaw/114/public/92), (b)(2), Nov. 25, 2015, [129 Stat. 1001](https://www.govinfo.gov/link/statute/129/1001); [Pub. L. 115–232, div. A, title III, § 314(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1711](https://www.govinfo.gov/link/statute/132/1711); [Pub. L. 116–92, div. A, title III, § 320(a)(1)(B)](https://www.govinfo.gov/link/plaw/116/public/92), (c)(1), title IX, § 902(83), Dec. 20, 2019, [133 Stat. 1306](https://www.govinfo.gov/link/statute/133/1306), 1307, 1553; [Pub. L. 117–81, div. A, title III, § 351(a)](https://www.govinfo.gov/link/plaw/117/public/81) –(e), Dec. 27, 2021, [135 Stat. 1650–1653](https://www.govinfo.gov/link/statute/135/1650); [Pub. L. 118–31, div. A, title III, § 343(1)(A)](https://www.govinfo.gov/link/plaw/118/public/31), (2), (3), title X, § 1053, Dec. 22, 2023, [137 Stat. 224](https://www.govinfo.gov/link/statute/137/224), 396.)*

@@ -3,9 +3,10 @@ title: "Section 1877 - Protection of jurors"
 usc_title: 28
 usc_section: "1877"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 1877"
-generated_at: "2026-03-30T02:55:30.145Z"
+generated_at: "2026-11-23T20:26:36.483Z"
+status: "active"
 ---
 
 # § 1877. Protection of jurors
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:30.145Z"
 - **(b)** In administering this section with respect to a juror covered by this section—
   - **(1)** a juror is deemed to receive monthly pay at the minimum rate for grade GS–2 of the General Schedule unless his actual pay as a Government employee while serving on court leave is higher, in which case monthly pay is determined in accordance with section 8114 of title 5 , United States Code, and
   - **(2)** performance of duty as a juror includes that time when a juror is (A) in attendance at court pursuant to a summons, (B) in deliberation, (C) sequestered by order of a judge, or (D) at a site, by order of the court, for the taking of a view.
+
+## Source Credit
+
+*(Added [Pub. L. 97–463, § 3(1)](https://www.govinfo.gov/link/plaw/97/public/463), Jan. 12, 1983, [96 Stat. 2531](https://www.govinfo.gov/link/statute/96/2531).)*

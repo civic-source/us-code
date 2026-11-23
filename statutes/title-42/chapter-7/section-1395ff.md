@@ -3,9 +3,10 @@ title: "Section 1395ff - Determinations; appeals"
 usc_title: 42
 usc_section: "1395ff"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1395ff"
-generated_at: "2026-03-30T02:56:11.003Z"
+generated_at: "2026-11-23T20:27:21.378Z"
+status: "active"
 ---
 
 # § 1395ff. Determinations; appeals
@@ -241,3 +242,75 @@ generated_at: "2026-03-30T02:56:11.003Z"
 - **(i)**
   - **(1)** The Secretary shall establish a mediation process under this subsection through the use of a physician trained in mediation and employed by the Centers for Medicare & Medicaid Services.
   - **(2)** Under the process established in paragraph (1), such a mediator shall mediate in disputes between groups representing providers of services, suppliers (as defined in section 1395x(d) of this title ), and the medical director for a medicare administrative contractor whenever the regional administrator (as defined by the Secretary) involved determines that there was a systematic pattern and a large volume of complaints from such groups regarding decisions of such director or there is a complaint from the co-chair of the advisory committee for that contractor to such regional administrator regarding such dispute.
+
+Effective date
+
+Sunset
+
+Transition
+
+Limitation on application to sgr
+
+Transition Plan.—
+
+In general
+
+Contents
+
+Workload
+
+Cost projections and financing
+
+Transition timetable
+
+Regulations
+
+Case tracking
+
+Feasibility of precedential authority
+
+Access to administrative law judges
+
+Independence of administrative law judges
+
+Geographic distribution
+
+Hiring
+
+Performance standards
+
+Shared resources
+
+Training
+
+Additional information
+
+evaluation
+
+Transfer of Adjudication Authority.—
+
+In general
+
+Assuring independence of judges
+
+Geographic distribution
+
+Hiring authority
+
+Financing
+
+Shared resources
+
+Increased Financial Support
+
+Claims
+
+Deadline
+
+Maintaining Current System for Hearings and Appeals
+
+Study and Report on Use of Telephone Hearings.—
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1869, as added [Pub. L. 89–97, title I, § 102(a)](https://www.govinfo.gov/link/plaw/89/public/97), July 30, 1965, [79 Stat. 330](https://www.govinfo.gov/link/statute/79/330); amended [Pub. L. 92–603, title II, § 299O(a)](https://www.govinfo.gov/link/plaw/92/public/603), Oct. 30, 1972, [86 Stat. 1464](https://www.govinfo.gov/link/statute/86/1464); [Pub. L. 98–369, div. B, title III, § 2354(b)(35)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1102](https://www.govinfo.gov/link/statute/98/1102); [Pub. L. 99–509, title IX](https://www.govinfo.gov/link/plaw/99/public/509), §§ 9313(a)(1), (b)(1), 9341(a)(1), Oct. 21, 1986, [100 Stat. 2002](https://www.govinfo.gov/link/statute/100/2002), 2037; [Pub. L. 100–93, § 8(e)](https://www.govinfo.gov/link/plaw/100/public/93), Aug. 18, 1987, [101 Stat. 694](https://www.govinfo.gov/link/statute/101/694); [Pub. L. 100–203, title IV](https://www.govinfo.gov/link/plaw/100/public/203), §§ 4082(a), (b), 4085(i)(18), (19), Dec. 22, 1987, [101 Stat. 1330–128](https://www.govinfo.gov/link/statute/101/1330), 1330–133; [Pub. L. 103–296, title I, § 108(c)(5)](https://www.govinfo.gov/link/plaw/103/public/296), Aug. 15, 1994, [108 Stat. 1485](https://www.govinfo.gov/link/statute/108/1485); [Pub. L. 105–33, title IV, § 4611(c)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 473](https://www.govinfo.gov/link/statute/111/473); [Pub. L. 106–554, § 1(a)(6) [title V, §§ 521(a), 522(a)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–534, 2763A–543; [Pub. L. 108–173, title IX](https://www.govinfo.gov/link/plaw/108/public/173), §§ 931(d), 932(a), 933(a)(1), (b)–(d)(3), 938(a), 940(a), (b)(1), 940A(a), 948(b)(1), (c), Dec. 8, 2003, [117 Stat. 2399](https://www.govinfo.gov/link/statute/117/2399), 2402–2406, 2413, 2416, 2417, 2426; [Pub. L. 112–40, title II, § 261(a)(3)(A)](https://www.govinfo.gov/link/plaw/112/public/40), (F), Oct. 21, 2011, [125 Stat. 423](https://www.govinfo.gov/link/statute/125/423); [Pub. L. 113–93, title II, § 216(b)(2)](https://www.govinfo.gov/link/plaw/113/public/93), Apr. 1, 2014, [128 Stat. 1060](https://www.govinfo.gov/link/statute/128/1060).)*

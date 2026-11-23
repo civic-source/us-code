@@ -3,9 +3,10 @@ title: "Section 7141 - Office of Minority Economic Impact"
 usc_title: 42
 usc_section: "7141"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7141"
-generated_at: "2026-03-30T02:56:11.283Z"
+generated_at: "2026-11-23T20:27:22.778Z"
+status: "active"
 ---
 
 # § 7141. Office of Minority Economic Impact
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:11.283Z"
   - **(2)** “minority business enterprise” means a firm, corporation, association, or partnership which is at least 50 percent owned or controlled by a minority or group of minorities; and
   - **(3)** “minority educational institution” means an educational institution with an enrollment in which a substantial proportion (as determined by the Secretary) of the students are minorities.
 - **(g)** There is authorized to be appropriated to the Secretary to carry out the functions of the Office not to exceed $3,000,000 for fiscal year 1979, not to exceed $5,000,000 for fiscal year 1980, and not to exceed $6,000,000 for fiscal year 1981. Of the amounts so appropriated each fiscal year, not less than 50 percent shall be available for purposes of financial assistance under subsection (e).
+
+## Source Credit
+
+*([Pub. L. 95–91, title II, § 211](https://www.govinfo.gov/link/plaw/95/public/91), as added [Pub. L. 95–619, title VI, § 641](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3284](https://www.govinfo.gov/link/statute/92/3284); amended [Pub. L. 114–157, § 1(a)](https://www.govinfo.gov/link/plaw/114/public/157), May 20, 2016, [130 Stat. 393](https://www.govinfo.gov/link/statute/130/393).)*

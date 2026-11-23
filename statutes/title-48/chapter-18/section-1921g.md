@@ -3,9 +3,10 @@ title: "Section 1921g - Compensatory adjustments"
 usc_title: 48
 usc_section: "1921g"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1921g"
-generated_at: "2026-03-30T02:56:14.597Z"
+generated_at: "2026-11-23T20:27:28.167Z"
+status: "active"
 ---
 
 # § 1921g. Compensatory adjustments
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:14.597Z"
 - **(b)**
   - **(1)** The joint resolution of January 14, 1986 ( Public Law 99–239 ) provided that the governments of the Federated States of Micronesia and the Marshall Islands may submit to Congress reports concerning the overall financial and economic impacts on such areas resulting from the effect of title IV of that joint resolution upon Title Two of the Compact. There were authorized to be appropriated for fiscal years beginning after September 30, 1990 , such amounts as necessary, but not to exceed $40,000,000 for the Federated States of Micronesia and $20,000,000 for the Marshall Islands, as provided in appropriation acts, to further compensate the governments of such islands (in addition to the compensation provided in subsections (a) and (b) of section 111 of the joint resolution of January 14, 1986 ( Public Law 99–239 ) [ 48 U.S.C. 1911(a) , (b)]) for adverse impacts, if any, on the finances and economies of such areas resulting from the effect of title IV of that joint resolution upon Title Two of the Compact. The joint resolution of January 14, 1986 ( Public Law 99–239 ) further provided that at the end of the initial fifteen-year term of the Compact, should any portion of the total amount of funds authorized in section 111 of that resolution not have been appropriated, such amount not yet appropriated may be appropriated, without regard to divisions between amounts authorized in section 111 for the Federated States of Micronesia and for the Marshall Islands, based on either or both such government’s showing of such adverse impact, if any, as provided in that subsection.
   - **(2)** The governments of the Federated States of Micronesia and the Republic of the Marshall Islands may each submit no more than one report or request for further compensation under section 111 of the joint resolution of January 14, 1986 ( Public Law 99–239 ) and any such report or request must be submitted by September 30, 2009 . Only adverse economic effects occurring during the initial 15-year term of the Compact may be considered for compensation under section 111 of the joint resolution of January 14, 1986 ( Public Law 99–239 ).
+
+## Source Credit
+
+*([Pub. L. 108–188, title I, § 108](https://www.govinfo.gov/link/plaw/108/public/188), Dec. 17, 2003, [117 Stat. 2755](https://www.govinfo.gov/link/statute/117/2755); [Pub. L. 113–128, title V, § 512(g)(2)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1708](https://www.govinfo.gov/link/statute/128/1708).)*

@@ -3,9 +3,10 @@ title: "Section 2015 - Program to assist members in obtaining professional crede
 usc_title: 10
 usc_section: "2015"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2015"
-generated_at: "2026-03-30T02:53:38.140Z"
+generated_at: "2026-11-23T20:25:51.439Z"
+status: "active"
 ---
 
 # § 2015. Program to assist members in obtaining professional credentials
@@ -32,3 +33,97 @@ generated_at: "2026-03-30T02:53:38.140Z"
     - **(C)** Mechanisms for oversight of the payment of expenses and the provision of other benefits under the program.
     - **(D)** Such other matters in connection with the payment of expenses and the provision of other benefits under the program as the Secretaries consider appropriate.
 - **(e)** In this section, the term “expenses” means expenses for class room instruction, hands-on training (and associated materials), manuals, study guides and materials, text books, processing fees, and test fees and related fees.
+
+Program Required
+
+Payment of Expenses
+
+Quality Assurance of Certification Programs and Standards
+
+Regulations
+
+Expenses Defined
+
+Study on Performance Measures
+
+Information Tracking
+
+Coordination
+
+Report
+
+Programs Authorized
+
+Participant Qualifications and Types of Assistance.—
+
+In general
+
+Uniformity across military departments
+
+Approved Institutions of Higher Education.—
+
+In general
+
+Qualifications and standards
+
+Annual Reports on Programs.—
+
+In general
+
+Elements
+
+In General
+
+Duration
+
+Clinical Training
+
+Evaluation
+
+Reports.—
+
+Initial report
+
+Final report
+
+Construction of Authorities
+
+Improvement of Information Available to Members of the Armed Forces About Correlation.—
+
+In general
+
+Coordination with transition goals plans success program
+
+Types of information
+
+Use and adaptation of certain programs
+
+Improvement of Access of Accredited Civilian Credentialing and Related Entities to Military Training Content.—
+
+In general
+
+Entities
+
+Central repository
+
+Pilot Program Required
+
+Elements
+
+Duration
+
+Report
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Donald J. Trump.
+
+## Source Credit
+
+*(Added [Pub. L. 109–163, div. A, title V, § 538(a)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3250](https://www.govinfo.gov/link/statute/119/3250); amended [Pub. L. 113–291, div. A, title V, § 551(a)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3376](https://www.govinfo.gov/link/statute/128/3376); [Pub. L. 114–92, div. A, title V, § 559](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 827](https://www.govinfo.gov/link/statute/129/827); [Pub. L. 114–328, div. A, title V, § 561](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2137](https://www.govinfo.gov/link/statute/130/2137); [Pub. L. 115–232, div. A, title V, § 556](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1773](https://www.govinfo.gov/link/statute/132/1773).)*

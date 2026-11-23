@@ -3,9 +3,10 @@ title: "Section 4015a - Premium surcharge"
 usc_title: 42
 usc_section: "4015a"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4015a"
-generated_at: "2026-03-30T02:56:11.196Z"
+generated_at: "2026-11-23T20:27:22.338Z"
+status: "active"
 ---
 
 # § 4015a. Premium surcharge
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.196Z"
     - **(A)** a non-residential property; or
     - **(B)** a residential property that is not the primary residence of an individual.
 - **(c)** Subsections (a) and (b) shall cease to apply on the date on which the chargeable risk premium rate for flood insurance under this chapter for each property covered by flood insurance under this chapter, other than properties for which premiums are calculated under subsection (e) or (f) of section 4014 of this title or section 4056 of this title or under section 100230 of the Biggert-Waters Flood Insurance Reform Act of 2012 ( 42 U.S.C. 4014 note), is not less than the applicable estimated risk premium rate under section 4014(a)(1) of this title for such property.
+
+## Source Credit
+
+*([Pub. L. 90–448, title XIII, § 1308A](https://www.govinfo.gov/link/plaw/90/public/448), as added [Pub. L. 113–89, § 8(a)](https://www.govinfo.gov/link/plaw/113/public/89), Mar. 21, 2014, [128 Stat. 1023](https://www.govinfo.gov/link/statute/128/1023).)*

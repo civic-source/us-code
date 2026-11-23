@@ -3,9 +3,10 @@ title: "Section 323 - Consumer Information Center Fund 1 1 So in original. Proba
 usc_title: 40
 usc_section: "323"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 323"
-generated_at: "2026-03-30T02:55:43.372Z"
+generated_at: "2026-11-23T20:26:56.525Z"
+status: "active"
 ---
 
 # § 323. Consumer Information Center Fund 1 1 So in original. Probably should be “Federal Citizen Services Fund”.
@@ -31,3 +32,49 @@ generated_at: "2026-03-30T02:55:43.372Z"
 - **(h)** In this section:
   - **(1)** The term “Administrator” means the Administrator of General Services.
   - **(2)** The term “expenditure” means any obligation of funds from the Fund.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 323(a)–(d) | 40:761. | Pub. L. 98–63, title I, § 101 (1st–9th sentences in par. under heading “Consumer Information Center Fund”), July 30, 1983 , 97 Stat. 321 . |
+| 323(e) | 40:761a. | Pub. L. 105–65, title III , (last proviso in par. under heading “Consumer Information Center Fund”), Oct. 27, 1997 , 111 Stat. 1377 . |
+
+
+Existence
+
+Deposits
+
+Expenditures
+
+Unobligated Balances
+
+Gift Account
+
+Requirement for Annual Report to Congress
+
+Definitions
+
+Administrator
+
+Expenditure
+
+Historical and Revision Notes
+
+323(a)–(d)
+
+Pub. L. 98–63, title I, § 101
+
+July 30, 1983
+
+97 Stat. 321
+
+323(e)
+
+Pub. L. 105–65, title III
+
+Oct. 27, 1997
+
+111 Stat. 1377
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1077](https://www.govinfo.gov/link/statute/116/1077); [Pub. L. 111–8, div. D, title V, § 516](https://www.govinfo.gov/link/plaw/111/public/8), Mar. 11, 2009, [123 Stat. 664](https://www.govinfo.gov/link/statute/123/664); [Pub. L. 117–103, div. E, title V, § 527](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 276](https://www.govinfo.gov/link/statute/136/276); [Pub. L. 118–182, § 2(a)](https://www.govinfo.gov/link/plaw/118/public/182), Dec. 23, 2024, [138 Stat. 2623](https://www.govinfo.gov/link/statute/138/2623).)*

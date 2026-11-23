@@ -3,12 +3,17 @@ title: "Section 443 - Permit for dumping; penalty for taking or towing boat or s
 usc_title: 33
 usc_section: "443"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 443"
-generated_at: "2026-03-30T02:55:41.056Z"
+generated_at: "2026-11-23T20:26:53.820Z"
+status: "active"
 ---
 
 # § 443. Permit for dumping; penalty for taking or towing boat or scow without permit
 
 In all cases of receiving on board of any scows or boats such forbidden matter or substance as described in section 441 of this title , the owner or master, or person acting in such capacity on board of such scows or boats, before proceeding to take or tow the same to the place of deposit, shall apply for and obtain from the supervisor of the harbor appointed, as provided in section 451 of this title , a permit defining the precise limits within which the discharge of such scows or boats may be made; and it shall not be lawful for the owner or master, or person acting in such capacity, of any tug or towboat to tow or move any scow or boat so loaded with such forbidden matter until such permit shall have been obtained; and every person violating the foregoing provisions of this section shall be deemed guilty of a misdemeanor, and on conviction thereof shall be punished by a fine of not more than $1,000 nor less than $500, and in addition thereto the master of any tug or towboat so offending shall have his license revoked or suspended for a term to be fixed by the judge before whom tried and convicted.
 
+
+## Source Credit
+
+*(June 29, 1888, ch. 496, § 3, [25 Stat. 209](https://www.govinfo.gov/link/statute/25/209); Aug. 18, 1894, ch. 299, § 3, [28 Stat. 360](https://www.govinfo.gov/link/statute/28/360); May 28, 1908, ch. 212, § 8, [35 Stat. 426](https://www.govinfo.gov/link/statute/35/426).)*

@@ -3,12 +3,17 @@ title: "Section 503 - Rules; regulations; procedures"
 usc_title: 39
 usc_section: "503"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "39 U.S.C. § 503"
-generated_at: "2026-03-30T02:55:43.689Z"
+generated_at: "2026-11-23T20:26:57.722Z"
+status: "active"
 ---
 
 # § 503. Rules; regulations; procedures
 
 The Postal Regulatory Commission shall promulgate rules and regulations and establish procedures, subject to chapters 5 and 7 of title 5, and take any other action they deem necessary and proper to carry out their functions and obligations to the Government of the United States and the people as prescribed under this title. Such rules, regulations, procedures, and actions shall not be subject to any change or supervision by the Postal Service.
 
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 759](https://www.govinfo.gov/link/statute/84/759), § 3603; renumbered § 503 and amended [Pub. L. 109–435, title VI](https://www.govinfo.gov/link/plaw/109/public/435), §§ 601(a)(3), 604(a), title X, 1010(c)(1), Dec. 20, 2006, [120 Stat. 3239](https://www.govinfo.gov/link/statute/120/3239), 3241, 3261.)*

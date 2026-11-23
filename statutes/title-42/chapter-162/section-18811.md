@@ -3,9 +3,10 @@ title: "Section 18811 - Definitions"
 usc_title: 42
 usc_section: "18811"
 chapter: 162
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18811"
-generated_at: "2026-03-30T02:56:11.531Z"
+generated_at: "2026-11-23T20:27:23.833Z"
+status: "active"
 ---
 
 # § 18811. Definitions
@@ -36,3 +37,7 @@ In this part:
     - **(D)** model, simulate, and optimize the design of energy efficient and sustainable products, including the use of digital prototyping and additive manufacturing to enhance product design;
     - **(E)** connect manufactured products in networks to monitor and optimize the performance of the networks, including automated network operations; and
     - **(F)** digitally connect the supply chain network.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title V, § 40531](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1068](https://www.govinfo.gov/link/statute/135/1068).)*

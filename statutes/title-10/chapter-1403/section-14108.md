@@ -3,9 +3,10 @@ title: "Section 14108 - Recommendations by promotion boards"
 usc_title: 10
 usc_section: "14108"
 chapter: 1403
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 14108"
-generated_at: "2026-03-30T02:53:38.272Z"
+generated_at: "2026-11-23T20:25:52.463Z"
+status: "active"
 ---
 
 # § 14108. Recommendations by promotion boards
@@ -26,3 +27,19 @@ generated_at: "2026-03-30T02:53:38.272Z"
     - **(A)** a majority of the members of the promotion board; or
     - **(B)** an alternative requirement established by the Secretary concerned and furnished to the promotion board as part of the guidelines under section 14107 of this title .
   - **(3)** For officers who receive recommendations under paragraph (1), the board shall recommend the order in which those officers should be placed on the promotion list.
+
+Recommendation of Best Qualified Officers
+
+Actions Required
+
+Board Recommendation Required for Promotion
+
+Disclosure of Board Recommendations
+
+Prohibition of Coercion and Unauthorized Influence of Actions of Board Members
+
+Higher Placement of Officers of Particular Merit on Promotion List
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1611](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2928](https://www.govinfo.gov/link/statute/108/2928); amended [Pub. L. 109–364, div. A, title V, § 512(b)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2184](https://www.govinfo.gov/link/statute/120/2184); [Pub. L. 115–232, div. A, title VIII, § 809(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1840](https://www.govinfo.gov/link/statute/132/1840); [Pub. L. 116–92, div. A, title V, § 510(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1347](https://www.govinfo.gov/link/statute/133/1347).)*

@@ -3,9 +3,10 @@ title: "Section 7285 - Commodity Credit Corporation sales price restrictions"
 usc_title: 7
 usc_section: "7285"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7285"
-generated_at: "2026-03-30T02:53:42.448Z"
+generated_at: "2026-11-23T20:25:41.768Z"
+status: "active"
 ---
 
 # § 7285. Commodity Credit Corporation sales price restrictions
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:42.448Z"
     - **(A)** the storage of the commodity; and
     - **(B)** the handling and transportation costs in making delivery of the commodity to designated agencies at 1 or more central locations in each State or other area.
 - **(d)** Subsection (a) shall not apply to the sale of a commodity the disposition of which is desirable in the interest of the effective and efficient conduct of the operations of the Corporation because of the small quantity of the commodity involved, or because of the age, location, or questionable continued storability of the commodity.
+
+## Source Credit
+
+*([Pub. L. 104–127, title I, § 165](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 936](https://www.govinfo.gov/link/statute/110/936).)*

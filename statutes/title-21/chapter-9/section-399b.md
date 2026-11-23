@@ -3,9 +3,10 @@ title: "Section 399b - Office of Women’s Health"
 usc_title: 21
 usc_section: "399b"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 399b"
-generated_at: "2026-03-30T02:54:54.283Z"
+generated_at: "2026-11-23T20:26:27.785Z"
+status: "active"
 ---
 
 # § 399b. Office of Women’s Health
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:54.283Z"
   - **(5)** make annual estimates of funds needed to monitor clinical trials and analysis of data by sex in accordance with needs that are identified; and
   - **(6)** serve as a member of the Department of Health and Human Services Coordinating Committee on Women’s Health (established under section 237a(b)(4) of title 42 ).
 - **(c)** For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2010 through 2014.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 1011, as added [Pub. L. 111–148, title III, § 3509(g)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 536](https://www.govinfo.gov/link/statute/124/536).)*

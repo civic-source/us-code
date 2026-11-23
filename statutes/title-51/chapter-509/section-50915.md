@@ -3,9 +3,10 @@ title: "Section 50915 - Paying claims exceeding liability insurance and financia
 usc_title: 51
 usc_section: "50915"
 chapter: 509
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 50915"
-generated_at: "2026-03-30T02:56:28.711Z"
+generated_at: "2026-11-23T20:27:37.509Z"
+status: "active"
 ---
 
 # § 50915. Paying claims exceeding liability insurance and financial responsibility requirements
@@ -58,3 +59,96 @@ generated_at: "2026-03-30T02:56:28.711Z"
     - **(C)** a motion to proceed to the consideration of other business.
     - **(D)** an appeal from a decision of the chair related to the application of the rules of the Senate to the procedures related to a resolution.
 - **(f)** This section applies to a license issued or transferred under this chapter for which the Secretary receives a complete and valid application not later than September 30, 2028 . This section does not apply to permits.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 70113(a) | 49 App.:2615(b)(1). | Oct. 30, 1984 , Pub. L. 98–575, § 16(b)(1) –(4), 98 Stat. 3061 ; restated Nov. 15, 1988 , Pub. L. 100–657, § 5(a) , 102 Stat. 3903 . |
+| 70113(b) | 49 App.:2615(b)(2). |  |
+| 70113(c) | 49 App.:2615(b)(3). |  |
+| 70113(d)(1) | 49 App.:2615(b)(4)(A). |  |
+| 70113(d)(2) | 49 App.:2615(b)(4)(B). |  |
+| 70113(d)(3) | 49 App.:2615(b)(4)(C). |  |
+| 70113(e)(1) | 49 App.:2615(b) (4)(D)(i), (iii). |  |
+| 70113(e)(2) | 49 App.:2615(b) (4)(D)(ii). |  |
+| 70113(e)(3) | 49 App.:2615(b) (4)(D)(iv). |  |
+| 70113(e)(4) | 49 App.:2615(b) (4)(D)(v). |  |
+| 70113(e)(5) | 49 App.:2615(b) (4)(D)(vi). |  |
+| 70113(e)(6) | 49 App.:2615(b) (4)(D)(vii). |  |
+| 70113(f) | 49 App.:2615(b)(5). | Oct. 30, 1984 , Pub. L. 98–575, § 16(b)(5) , 98 Stat. 3061 ; restated Nov. 15, 1988 , Pub. L. 100–657, § 5(a) , 102 Stat. 3903 ; Nov. 4, 1992 , Pub. L. 102–588, § 503 , 106 Stat. 5124 . |
+
+
+General Requirements
+
+Notice, Participation, and Approval
+
+Withholding Payments
+
+Surveys, Reports, and Compensation Plans
+
+Congressional Resolutions
+
+Application
+
+Historical and Revision Notes
+
+Pub. L
+
+70113(a)
+
+Oct. 30, 1984
+
+Pub. L. 98–575, § 16(b)(1)
+
+98 Stat. 3061
+
+Nov. 15, 1988
+
+Pub. L. 100–657, § 5(a)
+
+102 Stat. 3903
+
+70113(b)
+
+70113(c)
+
+70113(d)(1)
+
+70113(d)(2)
+
+70113(d)(3)
+
+70113(e)(1)
+
+70113(e)(2)
+
+70113(e)(3)
+
+70113(e)(4)
+
+70113(e)(5)
+
+70113(e)(6)
+
+70113(f)
+
+Oct. 30, 1984
+
+Pub. L. 98–575, § 16(b)(5)
+
+98 Stat. 3061
+
+Nov. 15, 1988
+
+Pub. L. 100–657, § 5(a)
+
+102 Stat. 3903
+
+Nov. 4, 1992
+
+Pub. L. 102–588, § 503
+
+106 Stat. 5124
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1338](https://www.govinfo.gov/link/statute/108/1338), § 70113 of title 49; [Pub. L. 104–287, § 5(94)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3398](https://www.govinfo.gov/link/statute/110/3398); [Pub. L. 105–303, title I, § 102(a)(13)](https://www.govinfo.gov/link/plaw/105/public/303), Oct. 28, 1998, [112 Stat. 2850](https://www.govinfo.gov/link/statute/112/2850); [Pub. L. 106–74, title IV, § 433](https://www.govinfo.gov/link/plaw/106/public/74), Oct. 20, 1999, [113 Stat. 1097](https://www.govinfo.gov/link/statute/113/1097); [Pub. L. 106–377, § 1(a)(1) [title IV, § 429]](https://www.govinfo.gov/link/plaw/106/public/377), Oct. 27, 2000, [114 Stat. 1441](https://www.govinfo.gov/link/statute/114/1441), 1441A–56; [Pub. L. 106–405](https://www.govinfo.gov/link/plaw/106/public/405), §§ 5(b), 6(a), Nov. 1, 2000, [114 Stat. 1752](https://www.govinfo.gov/link/statute/114/1752); [Pub. L. 108–428, § 1](https://www.govinfo.gov/link/plaw/108/public/428), Nov. 30, 2004, [118 Stat. 2432](https://www.govinfo.gov/link/statute/118/2432); [Pub. L. 108–492, § 2(c)(22)](https://www.govinfo.gov/link/plaw/108/public/492), (23), Dec. 23, 2004, [118 Stat. 3981](https://www.govinfo.gov/link/statute/118/3981); [Pub. L. 111–125, § 1](https://www.govinfo.gov/link/plaw/111/public/125), Dec. 28, 2009, [123 Stat. 3486](https://www.govinfo.gov/link/statute/123/3486); renumbered § 70113 then § 50915 of title 51 and amended [Pub. L. 111–314, § 4(d)(2)](https://www.govinfo.gov/link/plaw/111/public/314), (3)(O), (5)(Q), (R), Dec. 18, 2010, [124 Stat. 3440–3442](https://www.govinfo.gov/link/statute/124/3440); [Pub. L. 112–273, § 3](https://www.govinfo.gov/link/plaw/112/public/273), Jan. 14, 2013, [126 Stat. 2454](https://www.govinfo.gov/link/statute/126/2454); [Pub. L. 113–76, § 8](https://www.govinfo.gov/link/plaw/113/public/76), Jan. 17, 2014, [128 Stat. 7](https://www.govinfo.gov/link/statute/128/7); [Pub. L. 114–90, title I](https://www.govinfo.gov/link/plaw/114/public/90), §§ 102(d), 103(a)(2), Nov. 25, 2015, [129 Stat. 706](https://www.govinfo.gov/link/statute/129/706); [Pub. L. 118–159, div. E, title LVII, § 5702(3)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2461](https://www.govinfo.gov/link/statute/138/2461).)*

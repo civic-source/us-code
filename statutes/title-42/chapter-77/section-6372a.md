@@ -3,9 +3,10 @@ title: "Section 6372a - Guidelines"
 usc_title: 42
 usc_section: "6372a"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6372a"
-generated_at: "2026-03-30T02:56:11.259Z"
+generated_at: "2026-11-23T20:27:22.672Z"
+status: "active"
 ---
 
 # § 6372a. Guidelines
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.259Z"
   - **(2)** a description of the suggested criteria to be used in establishing a State program to identify persons qualified to undertake technical assistance work; and
   - **(3)** a description of the types of energy conservation measures deemed appropriate for each region of the Nation.
 - **(c)** Guidelines prescribed under this part may be revised from time to time after notice and opportunity for comment.
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 400B](https://www.govinfo.gov/link/plaw/94/public/163), as added [Pub. L. 95–619, title III, § 311(a)](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3249](https://www.govinfo.gov/link/statute/92/3249).)*

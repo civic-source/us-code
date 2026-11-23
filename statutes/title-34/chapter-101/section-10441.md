@@ -3,9 +3,10 @@ title: "Section 10441 - Purpose of program and grants"
 usc_title: 34
 usc_section: "10441"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10441"
-generated_at: "2026-03-30T02:55:33.268Z"
+generated_at: "2026-11-23T20:26:50.469Z"
+status: "active"
 ---
 
 # § 10441. Purpose of program and grants
@@ -69,3 +70,27 @@ generated_at: "2026-03-30T02:55:33.268Z"
   - **(4)** Receipt of an award under this subsection by a tribal coalition shall not preclude the tribal coalition from receiving additional grants under this chapter to carry out the purposes described in paragraph (1).
   - **(5)** Nothing in this subsection prohibits any tribal coalition or organization described in paragraph (2) from applying for funding to address sexual assault or domestic violence needs in the same application.
   - **(6)** In this subsection, the term “Native Hawaiian” has the meaning given that term in section 4221 of title 25 .
+
+Incentives for States to Create Sexual Assault Survivors’ Bill of Rights.—
+
+Definition of covered formula grant
+
+Grant increase
+
+Application
+
+Period of increase
+
+Authorization of appropriations
+
+In General
+
+Consultation
+
+Report
+
+Authorization of Appropriations
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 2001](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 103–322, title IV, § 40121(a)(3)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1910](https://www.govinfo.gov/link/statute/108/1910); amended [Pub. L. 106–386, div. B, title I](https://www.govinfo.gov/link/plaw/106/public/386), §§ 1102(a)(1), 1103(b)(1), 1109(b), title II, § 1209(c), title V, § 1512(a), Oct. 28, 2000, [114 Stat. 1494](https://www.govinfo.gov/link/statute/114/1494), 1495, 1503, 1509, 1533; [Pub. L. 108–405, title III, § 310(a)](https://www.govinfo.gov/link/plaw/108/public/405), Oct. 30, 2004, [118 Stat. 2276](https://www.govinfo.gov/link/statute/118/2276); [Pub. L. 109–162, title I, § 101(b)](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 2972](https://www.govinfo.gov/link/statute/119/2972); [Pub. L. 111–320, title II, § 202(c)](https://www.govinfo.gov/link/plaw/111/public/320), Dec. 20, 2010, [124 Stat. 3509](https://www.govinfo.gov/link/statute/124/3509); [Pub. L. 113–4, title I, § 101(2)](https://www.govinfo.gov/link/plaw/113/public/4), title IX, § 902, Mar. 7, 2013, [127 Stat. 65](https://www.govinfo.gov/link/statute/127/65), 119; [Pub. L. 117–103, div. W, title I, § 101(a)(1)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 846](https://www.govinfo.gov/link/statute/136/846); [Pub. L. 117–315, § 2(a)](https://www.govinfo.gov/link/plaw/117/public/315), Dec. 27, 2022, [136 Stat. 4404](https://www.govinfo.gov/link/statute/136/4404).)*

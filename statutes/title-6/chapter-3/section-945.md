@@ -3,9 +3,10 @@ title: "Section 945 - Container Security Initiative"
 usc_title: 6
 usc_section: "945"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 945"
-generated_at: "2026-03-30T02:53:09.502Z"
+generated_at: "2026-11-23T20:25:34.889Z"
+status: "active"
 ---
 
 # § 945. Container Security Initiative
@@ -55,3 +56,13 @@ generated_at: "2026-03-30T02:53:09.502Z"
   - **(1)** $144,000,000 for fiscal year 2008;
   - **(2)** $146,000,000 for fiscal year 2009; and
   - **(3)** $153,300,000 for fiscal year 2010.
+
+Coordination
+
+Limitation
+
+Multiple Assessment Report
+
+## Source Credit
+
+*([Pub. L. 109–347, title II, § 205](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1906](https://www.govinfo.gov/link/statute/120/1906); [Pub. L. 115–254, div. J, § 1812](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3539](https://www.govinfo.gov/link/statute/132/3539).)*

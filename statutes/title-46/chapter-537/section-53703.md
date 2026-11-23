@@ -3,9 +3,10 @@ title: "Section 53703 - Application and administration"
 usc_title: 46
 usc_section: "53703"
 chapter: 537
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 53703"
-generated_at: "2026-03-30T02:56:15.576Z"
+generated_at: "2026-11-23T20:27:27.334Z"
+status: "active"
 ---
 
 # § 53703. Application and administration
@@ -29,3 +30,79 @@ generated_at: "2026-03-30T02:56:15.576Z"
   - **(2)**
     - **(A)** The Secretary or Administrator, in consultation with the Secretary of Defense, the Secretary of the Department in which the Coast Guard is operating when it is not operating as service in the Department of the Navy, or the heads of other Federal agencies, shall develop and publish a list of vessel types that would be considered Vessels of National Interest.
     - **(B)** Such list shall be reviewed and revised every four years or as necessary, as determined by the Administrator.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 53703(a) | 46 App.:1274(n). | June 29, 1936, ch. 858 , title XI, § 1104A( l ), (n), as added Pub. L. 108–136, title XXXV , §§ 3523(b), 3525, Nov. 24, 2003 , 117 Stat. 1800 , 1801. |
+| 53703(b) | 46 App.:1274( l ). |  |
+
+
+Time for Decision
+
+In general
+
+Extension
+
+Certification of Review
+
+Independent Analysis.—
+
+In general
+
+Private sector expert
+
+Vessels of National Interest.—
+
+Notice of funding
+
+Vessel characteristics.—
+
+In general
+
+Review
+
+Historical and Revision Notes
+
+53703(a)
+
+June 29, 1936, ch. 858
+
+Pub. L. 108–136, title XXXV
+
+Nov. 24, 2003
+
+117 Stat. 1800
+
+53703(b)
+
+In general
+
+Stakeholder comment
+
+Industry best practices
+
+Final guidance
+
+Findings
+
+Requirements.—
+
+In general
+
+Deadline for action on application.—
+
+Traditional applications
+
+Nontraditional applications
+
+Submission to Congress
+
+Definitions
+
+Traditional application
+
+Nontraditional application
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(c)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1604](https://www.govinfo.gov/link/statute/120/1604); [Pub. L. 109–163, div. C, title XXXV, § 3507(a)(1)(D)](https://www.govinfo.gov/link/plaw/109/public/163), (2)(G), (b)(7), Jan. 6, 2006, [119 Stat. 3555](https://www.govinfo.gov/link/statute/119/3555), 3556; [Pub. L. 110–181, div. C, title XXXV, § 3522(a)(10)(B)](https://www.govinfo.gov/link/plaw/110/public/181), (b), Jan. 28, 2008, [122 Stat. 598](https://www.govinfo.gov/link/statute/122/598); [Pub. L. 116–92, div. C, title XXXV, § 3506(c)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1971](https://www.govinfo.gov/link/statute/133/1971).)*

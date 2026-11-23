@@ -3,9 +3,10 @@ title: "Section 654a - Automated data processing"
 usc_title: 42
 usc_section: "654a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 654a"
-generated_at: "2026-03-30T02:56:10.883Z"
+generated_at: "2026-11-23T20:27:20.879Z"
+status: "active"
 ---
 
 # § 654a. Automated data processing
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:56:10.883Z"
     - **(C)** automatic use of enforcement procedures (including procedures authorized pursuant to section 666(c) of this title ) if payments are not timely made.
   - **(2)** As used in paragraph (1), the term “business day” means a day on which State offices are open for regular business.
 - **(h)** The automated system required by this section shall be used, to the maximum extent feasible, to implement the expedited administrative procedures required by section 666(c) of this title .
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 454A, as added and amended [Pub. L. 104–193, title III](https://www.govinfo.gov/link/plaw/104/public/193), §§ 311, 312(c), 325(b), 344(a)(2), Aug. 22, 1996, [110 Stat. 2205](https://www.govinfo.gov/link/statute/110/2205), 2208, 2226, 2235; [Pub. L. 105–34, title X, § 1090(a)(1)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 961](https://www.govinfo.gov/link/statute/111/961); [Pub. L. 106–113, div. B, § 1000(a)(4) [title VIII, § 805(a)(1)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1535](https://www.govinfo.gov/link/statute/113/1535), 1501A–285; [Pub. L. 113–183, title III, § 306(a)](https://www.govinfo.gov/link/plaw/113/public/183), Sept. 29, 2014, [128 Stat. 1949](https://www.govinfo.gov/link/statute/128/1949).)*

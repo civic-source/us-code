@@ -3,12 +3,17 @@ title: "Section 9810 - Rule of construction"
 usc_title: 22
 usc_section: "9810"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9810"
-generated_at: "2026-03-30T02:55:05.474Z"
+generated_at: "2026-11-23T20:26:32.803Z"
+status: "active"
 ---
 
 # § 9810. Rule of construction
 
 Nothing in this chapter shall be construed as a declaration of war or an authorization for the use of military force.
 
+
+## Source Credit
+
+*([Pub. L. 116–94, div. J, title V, § 511](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3069](https://www.govinfo.gov/link/statute/133/3069).)*

@@ -3,9 +3,10 @@ title: "Section 6973 - Imminent hazard"
 usc_title: 42
 usc_section: "6973"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6973"
-generated_at: "2026-03-30T02:56:11.277Z"
+generated_at: "2026-11-23T20:27:22.757Z"
+status: "active"
 ---
 
 # § 6973. Imminent hazard
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.277Z"
 - **(b)** Any person who willfully violates, or fails or refuses to comply with, any order of the Administrator under subsection (a) may, in an action brought in the appropriate United States district court to enforce such order, be fined not more than $5,000 for each day in which such violation occurs or such failure to comply continues.
 - **(c)** Upon receipt of information that there is hazardous waste at any site which has presented an imminent and substantial endangerment to human health or the environment, the Administrator shall provide immediate notice to the appropriate local government agencies. In addition, the Administrator shall require notice of such endangerment to be promptly posted at the site where the waste is located.
 - **(d)** Whenever the United States or the Administrator proposes to covenant not to sue or to forbear from suit or to settle any claim arising under this section, notice, and opportunity for a public meeting in the affected area, and a reasonable opportunity to comment on the proposed settlement prior to its final entry shall be afforded to the public. The decision of the United States or the Administrator to enter into or not to enter into such Consent Decree, covenant or agreement shall not constitute a final agency action subject to judicial review under this chapter or chapter 7 of title 5.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 7003](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 94–580, § 2](https://www.govinfo.gov/link/plaw/94/public/580), Oct. 21, 1976, [90 Stat. 2826](https://www.govinfo.gov/link/statute/90/2826); amended [Pub. L. 95–609, § 7(q)](https://www.govinfo.gov/link/plaw/95/public/609), Nov. 8, 1978, [92 Stat. 3083](https://www.govinfo.gov/link/statute/92/3083); [Pub. L. 96–482, § 25](https://www.govinfo.gov/link/plaw/96/public/482), Oct. 21, 1980, [94 Stat. 2348](https://www.govinfo.gov/link/statute/94/2348); [Pub. L. 98–616, title IV](https://www.govinfo.gov/link/plaw/98/public/616), §§ 402, 403(a), 404, Nov. 8, 1984, [98 Stat. 3271](https://www.govinfo.gov/link/statute/98/3271), 3273.)*

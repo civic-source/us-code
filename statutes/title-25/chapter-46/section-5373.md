@@ -3,9 +3,10 @@ title: "Section 5373 - Regulations"
 usc_title: 25
 usc_section: "5373"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 5373"
-generated_at: "2026-03-30T02:54:52.869Z"
+generated_at: "2026-11-23T20:26:25.744Z"
+status: "active"
 ---
 
 # § 5373. Regulations
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:52.869Z"
   - **(1)** The Secretary may repeal any regulation that is inconsistent with this chapter.
   - **(2)** Subject to section 101(a) of the PROGRESS for Indian Tribes Act and except with respect to programs described under section 5363(c) of this title , this subchapter shall supersede any conflicting provision of law (including any conflicting regulations).
   - **(3)** The lack of promulgated regulations on an issue shall not limit the effect or implementation of this subchapter.
+
+## Source Credit
+
+*([Pub. L. 93–638, title IV, § 413](https://www.govinfo.gov/link/plaw/93/public/638), as added [Pub. L. 116–180, title I, § 101(e)](https://www.govinfo.gov/link/plaw/116/public/180), Oct. 21, 2020, [134 Stat. 877](https://www.govinfo.gov/link/statute/134/877); amended [Pub. L. 118–15, div. B, title I, § 2102](https://www.govinfo.gov/link/plaw/118/public/15), Sept. 30, 2023, [137 Stat. 82](https://www.govinfo.gov/link/statute/137/82).)*

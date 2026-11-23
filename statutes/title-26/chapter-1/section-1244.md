@@ -3,9 +3,10 @@ title: "Section 1244 - Losses on small business stock"
 usc_title: 26
 usc_section: "1244"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1244"
-generated_at: "2026-03-30T02:55:27.761Z"
+generated_at: "2026-11-23T20:26:46.052Z"
+status: "active"
 ---
 
 # § 1244. Losses on small business stock
@@ -39,3 +40,13 @@ generated_at: "2026-03-30T02:55:27.761Z"
   - **(3)** For purposes of section 172 (relating to the net operating loss deduction), any amount of loss treated by reason of this section as an ordinary loss shall be treated as attributable to a trade or business of the taxpayer.
   - **(4)** For purposes of this section, the term “individual” does not include a trust or estate.
 - **(e)** The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.
+
+In general
+
+Subsection
+
+Transitional rule for subsection
+
+## Source Credit
+
+*(Added [Pub. L. 85–866, title II, § 202(b)](https://www.govinfo.gov/link/plaw/85/public/866), Sept. 2, 1958, [72 Stat. 1676](https://www.govinfo.gov/link/statute/72/1676); amended [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1901(b)(1)(W), (3)(G), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1792](https://www.govinfo.gov/link/statute/90/1792), 1793, 1834; [Pub. L. 95–600, title III, § 345(a)](https://www.govinfo.gov/link/plaw/95/public/600) –(d), Nov. 6, 1978, [92 Stat. 2844](https://www.govinfo.gov/link/statute/92/2844), 2845; [Pub. L. 98–369, div. A, title IV, § 481(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 847](https://www.govinfo.gov/link/statute/98/847); [Pub. L. 113–295, div. A, title II, § 221(a)(41)(H)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4044](https://www.govinfo.gov/link/statute/128/4044).)*

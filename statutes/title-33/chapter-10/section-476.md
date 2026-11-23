@@ -3,9 +3,10 @@ title: "Section 476 - Restrictions on tanker traffic in Puget Sound and adjacent
 usc_title: 33
 usc_section: "476"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 476"
-generated_at: "2026-03-30T02:55:41.059Z"
+generated_at: "2026-11-23T20:26:53.832Z"
+status: "active"
 ---
 
 # § 476. Restrictions on tanker traffic in Puget Sound and adjacent waters
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:41.059Z"
   - **(2)** Puget Sound and the shore area immediately adjacent thereto is threatened by increased domestic and international traffic of tankers carrying crude oil in bulk which increases the possibility of vessel collisions and oil spills; and
   - **(3)** it is necessary to restrict such tanker traffic in Puget Sound in order to protect the navigable waters thereof, the natural resources therein, and the shore area immediately adjacent thereto, from environmental harm.
 - **(b)** Notwithstanding any other provision of law, on and after October 18, 1977 , no officer, employee, or other official of the Federal Government shall, or shall have authority to, issue, renew, grant, or otherwise approve any permit, license, or other authority for constructing, renovating, modifying, or otherwise altering a terminal, dock, or other facility in, on, or immediately adjacent to, or affecting the navigable waters of Puget Sound, or any other navigable waters in the State of Washington east of Port Angeles, which will or may result in any increase in the volume of crude oil capable of being handled at any such facility (measured as of October 18, 1977 ), other than oil to be refined for consumption in the State of Washington.
+
+## Source Credit
+
+*([Pub. L. 95–136, § 5](https://www.govinfo.gov/link/plaw/95/public/136), Oct. 18, 1977, [91 Stat. 1168](https://www.govinfo.gov/link/statute/91/1168).)*

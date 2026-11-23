@@ -3,9 +3,10 @@ title: "Section 60105 - State information regarding individuals who die in the c
 usc_title: 34
 usc_section: "60105"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 60105"
-generated_at: "2026-03-30T02:55:33.316Z"
+generated_at: "2026-11-23T20:26:50.668Z"
+status: "active"
 ---
 
 # § 60105. State information regarding individuals who die in the custody of law enforcement
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:33.316Z"
     - **(A)** determine means by which such information can be used to reduce the number of such deaths; and
     - **(B)** examine the relationship, if any, between the number of such deaths and the actions of management of such jails, prisons, and other specified facilities relating to such deaths.
   - **(2)** Not later than 2 years after December 18, 2014 , the Attorney General shall prepare and submit to Congress a report that contains the findings of the study required by paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 113–242, § 2](https://www.govinfo.gov/link/plaw/113/public/242), Dec. 18, 2014, [128 Stat. 2860](https://www.govinfo.gov/link/statute/128/2860).)*

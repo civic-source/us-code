@@ -3,9 +3,10 @@ title: "Section 5915 - Authority of banking institutions"
 usc_title: 12
 usc_section: "5915"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5915"
-generated_at: "2026-03-30T02:53:53.553Z"
+generated_at: "2026-11-23T20:25:59.552Z"
+status: "active"
 ---
 
 # § 5915. Authority of banking institutions
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:53.553Z"
 - **(e)** In this section:
   - **(1)** The term “home State” means the State by which the depository institution is chartered.
   - **(2)** The term “host State” means a State in which a depository institution establishes a branch, solicits customers, or otherwise engages in business activities, other than the home State.
+
+## Source Credit
+
+*([Pub. L. 119–27, § 16](https://www.govinfo.gov/link/plaw/119/public/27), July 18, 2025, [139 Stat. 461](https://www.govinfo.gov/link/statute/139/461).)*

@@ -3,9 +3,10 @@ title: "Section 2703a - Special rules for Haiti"
 usc_title: 19
 usc_section: "2703a"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2703a"
-generated_at: "2026-03-30T02:54:24.683Z"
+generated_at: "2026-11-23T20:26:11.010Z"
+status: "active"
 ---
 
 # § 2703a. Special rules for Haiti
@@ -53,10 +54,21 @@ generated_at: "2026-03-30T02:54:24.683Z"
         - **(III)** In calculating cost or value under subclause (I)(aa) or (II)(aa), there shall be deducted the cost or value of—
         - **(IV)** Entries of apparel articles that receive preferential treatment under any provision of law other than this subparagraph or are subject to the “General” column 1 rate of duty under the HTS are not included in the annual aggregation under subclause (I) or (II) unless the producer or entity controlling production elects, at the time the annual aggregation calculation is made, to include such entries in such aggregation.
 - **(v)** In this paragraph:
+        - **(I)** The term “applicable percentage” means 60 percent or more on and after December 20, 2017 .
+        - **(II)** The term “foreign material” means a material produced in a country other than Haiti or any country described in clause (iii).
+      - **(vi)**
+        - **(I)** U.S. Customs and Border Protection of the Department of Homeland Security shall develop and implement methods and procedures to ensure ongoing compliance with the requirements set forth in clauses (i) and (iv).
+        - **(II)** If U.S. Customs and Border Protection finds that a producer or an entity controlling production has not satisfied such requirements in the initial applicable 1-year period or any 1-year period thereafter, either for individual entries entered pursuant to clause (i) or for entries entered in aggregate pursuant to clause (iv), then apparel articles described in clause (i) of that producer or entity shall be ineligible for preferential treatment under paragraph (1) during any succeeding 1-year period until—
+        - **(III)** If—
+      - **(vii)**
+        - **(I)** For purposes of determining the applicable percentage under clause (i) or (iv), there may be included in that percentage—
+        - **(II)** If the President determines that—
+    - **(C)** The preferential treatment described in subparagraph (A) shall be extended, during each period after the initial applicable 1-year period, to not more than 1.25 percent of the aggregate square meter equivalents of all apparel articles imported into the United States in the most recent 12-month period for which data are available.
+    - **(D)** Any apparel article that qualifies for preferential treatment under paragraph (2), (3), (4), or (5) or any other provision of this chapter shall not be subject to, or included in the calculation of, the quantitative limitations under subparagraph (C).
   - **(2)**
     - **(A)**
       - **(i)** Any apparel article classifiable under chapter 62 of the HTS that is wholly assembled, or knit-to-shape, in Haiti from any combination of fabrics, fabric components, components knit-to-shape, or yarns and is imported directly from Haiti or the Dominican Republic shall enter the United States free of duty, subject to clauses (ii) and (iii), without regard to the source of the fabric, fabric components, components knit-to-shape, or yarns from which the article is made.
-      - **(ii)** Except as provided in paragraph (2A), the preferential treatment described in clause (i) shall be extended, in the 1-year period beginning October 1, 2008 , and in each of the 16 succeeding 1-year periods, to not more than 70,000,000 square meter equivalents of apparel articles described in such clause.
+      - **(ii)** Except as provided in paragraph (2A), the preferential treatment described in clause (i) shall be extended, in the 1-year period beginning October 1, 2008 , and in any of the succeeding 1-year periods, to not more than 70,000,000 square meter equivalents of apparel articles described in such clause.
       - **(iii)** Any apparel article that qualifies for preferential treatment under paragraph (1), (3), (4), or (5) or subparagraph (B) of this paragraph or any other provision of this chapter shall not be subject to, or included in the calculation of, the quantitative limitation under clause (ii).
     - **(B)**
       - **(i)** Any apparel article classifiable under chapter 61 of the HTS that is wholly assembled, or knit-to-shape, in Haiti from any combination of fabrics, fabric components, components knit-to-shape, or yarns and is imported directly from Haiti or the Dominican Republic shall enter the United States free of duty, subject to clauses (ii), (iii), and (iv), without regard to the source of the fabric, fabric components, components knit-to-shape, or yarns from which the article is made.
@@ -65,7 +77,7 @@ generated_at: "2026-03-30T02:54:24.683Z"
         - **(II)** T-shirts for men or boys that are classifiable under subheading 6109.90.10.
         - **(III)** The following apparel articles of cotton, for men or boys, that are classifiable under subheading 6110.20.20 of the HTS:
         - **(IV)** Sweatshirts for men or boys, of man-made fibers and containing less than 65 percent by weight of man-made fibers, that are classifiable under subheading 6110.30.30 of the HTS.
-      - **(iii)** Except as provided in paragraph (2A), the preferential treatment described in clause (i) shall be extended, in the 1-year period beginning October 1, 2008 , and in each of the 16 succeeding 1-year periods, to not more than 70,000,000 square meter equivalents of apparel articles described in such clause.
+      - **(iii)** Except as provided in paragraph (2A), the preferential treatment described in clause (i) shall be extended, in the 1-year period beginning October 1, 2008 , and in any of the succeeding 1-year periods, to not more than 70,000,000 square meter equivalents of apparel articles described in such clause.
       - **(iv)** Any apparel article that qualifies for preferential treatment under paragraph (1), (3), (4), or (5) or subparagraph (A) of this paragraph or any other provision of this chapter shall not be subject to, or included in the calculation of, the quantitative limitation under clause (iii).
   - **(2A)**
     - **(A)** Except as provided in subparagraphs (B) and (C) and subject to subparagraph (D), if 52,000,000 square meter equivalents of apparel articles described in paragraph (2)(A)(i) or (2)(B)(i) enter the United States during the 1-year period beginning October 1, 2009 , or any of the succeeding 1-year periods, the President shall extend the preferential treatment described in paragraph (2)(A)(i) or (2)(B)(i) (as the case may be) to not more than 200,000,000 square meter equivalents of apparel articles described in paragraph (2)(A)(i) or (2)(B)(i) (as the case may be) during that 1-year period, and shall publish notice of the extension in the Federal Register.
@@ -143,17 +155,6 @@ generated_at: "2026-03-30T02:54:24.683Z"
       - **(i)** any fabric or yarn described in clause (i) of subparagraph (A) was determined to be eligible for preferential treatment, or
       - **(ii)** any fabric or yarn described in clause (ii) of subparagraph (A) was designated as not being available in commercial quantities,
   - **(6)** The duty-free treatment provided under this subsection is in addition to any other preferential treatment under this chapter.
-    - **(C)** The preferential treatment described in subparagraph (A) shall be extended, during each of the 1-year periods set forth in the following table, to not more than the corresponding percentage of the aggregate square meter equivalents of all apparel articles imported into the United States in the most recent 12-month period for which data are available: During: the corresponding percentage is: the initial applicable 1-year period 1 percent. each of the 16 succeeding 1-year periods 1.25 percent. No preferential treatment shall be provided under subparagraph (A) after December 19, 2025 .
-    - **(D)** Any apparel article that qualifies for preferential treatment under paragraph (2), (3), (4), or (5) or any other provision of this chapter shall not be subject to, or included in the calculation of, the quantitative limitations under subparagraph (C).
-      - **(vi)**
-        - **(I)** U.S. Customs and Border Protection of the Department of Homeland Security shall develop and implement methods and procedures to ensure ongoing compliance with the requirements set forth in clauses (i) and (iv).
-        - **(II)** If U.S. Customs and Border Protection finds that a producer or an entity controlling production has not satisfied such requirements in the initial applicable 1-year period or any 1-year period thereafter, either for individual entries entered pursuant to clause (i) or for entries entered in aggregate pursuant to clause (iv), then apparel articles described in clause (i) of that producer or entity shall be ineligible for preferential treatment under paragraph (1) during any succeeding 1-year period until—
-        - **(III)** If—
-      - **(vii)**
-        - **(I)** For purposes of determining the applicable percentage under clause (i) or (iv), there may be included in that percentage—
-        - **(II)** If the President determines that—
-        - **(I)** The term “applicable percentage” means—
-        - **(II)** The term “foreign material” means a material produced in a country other than Haiti or any country described in clause (iii).
 - **(c)**
   - **(1)** Any wire harness automotive component that is the product or manufacture of Haiti and is imported directly from Haiti into the customs territory of the United States shall enter the United States free of duty, during the 10-year period beginning on December 20, 2006 , if Haiti has met the requirements of subsection (d) and if the sum of—
     - **(A)** the cost or value of the materials produced in Haiti or one or more countries described in subsection (b)(2)(C), or any combination thereof, plus
@@ -260,4 +261,516 @@ generated_at: "2026-03-30T02:54:24.683Z"
     - **(A)** Notwithstanding subsection (a)(5), relating to the definition of “imported directly from Haiti or the Dominican Republic”, articles described in subsection (b) that are shipped from the Dominican Republic, directly or through the territory of an intermediate country, whether or not such articles undergo processing in the Dominican Republic, shall not be considered to be “imported directly from Haiti or the Dominican Republic” until the President certifies to the Congress that Haiti and the Dominican Republic have developed procedures to prevent unlawful transshipment of the articles and the use of counterfeit documents related to the importation of the articles into the United States.
     - **(B)** The Commissioner responsible for U.S. Customs and Border Protection shall provide technical and other assistance to Haiti and the Dominican Republic to develop expeditiously the procedures described in subparagraph (A).
 - **(g)** The President shall issue regulations to carry out this section not later than 180 days after December 20, 2006 . The President shall consult with the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate in preparing such regulations.
-- **(h)** Except as provided in subsection (b)(1), the duty-free treatment provided under this section shall remain in effect until September 30, 2025 .
+- **(h)** The duty-free treatment provided under this section shall remain in effect until December 31, 2026 .
+
+|  | Col 2 | Col 3 |
+| --- | --- | --- |
+| 6203.19.1020 | 6203.42.4011 | 6203.42.4061 |
+| 6203.19.9020 | 6203.42.4016 | 6203.49.8020 |
+| 6203.22.3020 | 6203.42.4026 | 6210.40.9033 |
+| 6203.22.3030 | 6203.42.4036 | 6211.20.1520 |
+| 6203.42.4003 | 6203.42.4046 | 6211.20.3810 |
+| 6203.42.4006 | 6203.42.4051 | 6211.32.0040 |
+
+|  | Col 2 | Col 3 |
+| --- | --- | --- |
+| 6204.12.0030 | 6204.62.4011 | 6204.69.9010 |
+| 6204.19.8030 | 6204.62.4021 | 6210.50.9060 |
+| 6204.22.3040 | 6204.62.4031 | 6211.20.1550 |
+| 6204.22.3050 | 6204.62.4041 | 6211.20.6810 |
+| 6204.29.4034 | 6204.62.4051 | 6211.42.0030 |
+| 6204.62.3000 | 6204.62.4056 | 6217.90.9050 |
+| 6204.62.4003 | 6204.62.4066 |  |
+| 6204.62.4006 | 6204.69.6010 |  |
+
+|  | Col 2 | Col 3 |
+| --- | --- | --- |
+| 6203.23.0060 | 6203.43.4020 | 6203.49.8030 |
+| 6203.23.0070 | 6203.43.4030 | 6210.40.5031 |
+| 6203.29.2030 | 6203.43.4040 | 6210.40.5039 |
+| 6203.29.2035 | 6203.49.1500 | 6211.20.1525 |
+| 6203.43.2500 | 6203.49.2015 | 6211.20.3820 |
+| 6203.43.3510 | 6203.49.2030 | 6211.33.0030 |
+| 6203.43.3590 | 6203.49.2045 |  |
+| 6203.43.4010 | 6203.49.2060 |  |
+
+|  | Col 2 | Col 3 |
+| --- | --- | --- |
+| 6204.23.0040 | 6204.63.3510 | 6204.69.6030 |
+| 6204.23.0045 | 6204.63.3530 | 6204.69.9030 |
+| 6204.29.2020 | 6204.63.3532 | 6210.50.5031 |
+| 6204.29.2025 | 6204.63.3540 | 6210.50.5039 |
+| 6204.29.4038 | 6204.69.2510 | 6211.20.1555 |
+| 6204.63.2000 | 6204.69.2530 | 6211.20.6820 |
+| 6204.63.3010 | 6204.69.2540 | 6211.43.0040 |
+| 6204.63.3090 | 6204.69.2560 | 6217.90.9060 |
+
+|  | Col 2 | Col 3 |
+| --- | --- | --- |
+| 6105.10.0010 | 6109.10.0040 | 6110.30.3053 |
+| 6109.10.0018 | 6109.10.0045 | 6110.30.3059 |
+| 6109.10.0027 | 6110.20.2079 |  |
+
+|  | Col 2 |
+| --- | --- |
+| Category Number | HTS Statistical Reporting Number |
+| 334 | 6101.90.9010 |
+|  | 6112.11.0010 |
+|  | 6103.22.0010 |
+|  | 6113.00.9015 |
+| 335 | 6104.22.0010 |
+|  | 6104.29.2010 |
+|  | 6112.11.0020 |
+| 336 | 6104.49.9010 |
+| 338 | 6103.22.0050 |
+|  | 6105.90.8010 |
+|  | 6112.11.0030 |
+| 339 | 6104.22.0060 |
+|  | 6104.29.2049 |
+|  | 6106.90.2510 |
+|  | 6106.90.3010 |
+|  | 6110.20.1031 |
+|  | 6110.20.1033 |
+|  | 6112.11.0040 |
+| 342 | 6104.22.0030 |
+|  | 6104.29.2022 |
+|  | 6104.52.0010 |
+|  | 6104.52.0020 |
+|  | 6104.59.8010 |
+| 350 | 6107.91.0040 |
+|  | 6107.91.0090 |
+| 351 | 6107.21.0010 |
+|  | 6107.21.0020 |
+|  | 6107.91.0030 |
+|  | 6108.31.0010 |
+|  | 6108.31.0020 |
+| 433 | 6103.23.0007 |
+|  | 6103.29.0520 |
+|  | 6103.31.0000 |
+|  | 6103.33.1000 |
+|  | 6103.39.8020 |
+| 434 | 6101.30.1500 |
+|  | 6101.90.0500 |
+|  | 6101.90.9020 |
+|  | 6103.23.0005 |
+|  | 6103.29.0510 |
+| 435 | 6102.30.1000 |
+|  | 6102.90.9010 |
+|  | 6104.23.0010 |
+|  | 6104.29.0510 |
+|  | 6104.29.2012 |
+|  | 6104.33.1000 |
+|  | 6104.39.2020 |
+| 438 | 6103.23.0025 |
+|  | 6103.29.0550 |
+|  | 6104.23.0020 |
+|  | 6104.29.0560 |
+|  | 6104.29.2051 |
+|  | 6105.90.1000 |
+|  | 6105.90.8020 |
+|  | 6106.20.1020 |
+|  | 6106.90.1010 |
+|  | 6106.90.1020 |
+|  | 6106.90.2520 |
+|  | 6106.90.3020 |
+|  | 6110.11.0070 |
+|  | 6110.12.2070 |
+|  | 6110.12.2080 |
+|  | 6110.19.0070 |
+|  | 6110.19.0080 |
+|  | 6110.30.1550 |
+|  | 6110.30.1560 |
+| 633 | 6103.23.0037 |
+|  | 6103.29.1015 |
+|  | 6103.33.2000 |
+|  | 6103.39.1000 |
+|  | 6103.39.8030 |
+| 634 | 6101.30.1000 |
+|  | 6101.90.9030 |
+|  | 6103.23.0036 |
+|  | 6103.29.1010 |
+|  | 6112.12.0010 |
+|  | 6112.19.1010 |
+|  | 6112.20.1010 |
+|  | 6112.20.1030 |
+|  | 6113.00.9025 |
+| 635 | 6102.30.0500 |
+|  | 6102.90.9015 |
+|  | 6104.23.0026 |
+|  | 6104.29.1010 |
+|  | 6104.29.2014 |
+|  | 6104.39.2030 |
+|  | 6112.12.0020 |
+|  | 6112.19.1020 |
+|  | 6112.20.1020 |
+|  | 6112.20.1040 |
+|  | 6113.00.9030 |
+| 636 | 6104.49.9030 |
+|  | 6104.44.2020 |
+| 638 | 6103.23.0075 |
+|  | 6103.29.1050 |
+|  | 6105.90.8030 |
+|  | 6110.30.1050 |
+|  | 6110.30.2051 |
+|  | 6110.30.2053 |
+|  | 6112.12.0030 |
+|  | 6112.19.1030 |
+| 639 | 6104.23.0036 |
+|  | 6104.29.1050 |
+|  | 6104.29.2055 |
+|  | 6106.90.2530 |
+|  | 6106.90.3030 |
+|  | 6110.30.1060 |
+|  | 6110.30.2061 |
+|  | 6110.30.2063 |
+|  | 6112.12.0040 |
+|  | 6112.19.1040 |
+| 651 | 6107.22.0010 |
+|  | 6107.22.0015 |
+|  | 6107.22.0025 |
+|  | 6107.99.1030 |
+|  | 6108.32.0015 |
+
+|  | Col 2 |
+| --- | --- |
+| Category Number | HTS Statistical Reporting Number |
+| 363 | 6302.60.0020 |
+|  | 6302.91.0015 |
+|  | 6302.91.0035 |
+|  | 6307.90.8940 |
+| 369 | 6304.91.0020 |
+|  | 6304.92.0000 |
+|  | 6302.60.0010 |
+|  | 6302.60.0030 |
+|  | 6302.91.0005 |
+|  | 6302.91.0050 |
+|  | 6307.90.8910 |
+|  | 6307.90.8945 |
+|  | 5701.90.2020 |
+|  | 5702.39.2010 |
+|  | 5702.50.5600 |
+|  | 5702.99.0500 |
+|  | 5702.99.1500 |
+|  | 5705.00.2020 |
+|  | 5807.10.0510 |
+|  | 5807.90.0510 |
+|  | 6307.90.3010 |
+|  | 6301.30.0010 |
+|  | 6305.20.0000 |
+|  | 6307.10.1020 |
+|  | 6307.10.1090 |
+|  | 6406.10.7700 |
+|  | 9404.90.1000 |
+|  | 9404.90.9505 |
+|  | 6301.30.0020 |
+|  | 6302.91.0045 |
+| 465 | 5701.10.9000 |
+|  | 5702.50.2000 |
+|  | 5702.50.4000 |
+|  | 5702.91.3000 |
+|  | 5702.91.4000 |
+|  | 5703.10.2000 |
+|  | 5703.10.8000 |
+|  | 5704.10.0010 |
+|  | 5705.00.2005 |
+|  | 5705.00.2015 |
+|  | 5702.31.1000 |
+|  | 5702.31.2000 |
+| 469 | 6304.19.3040 |
+|  | 6304.91.0050 |
+|  | 6304.99.1500 |
+|  | 6304.99.6010 |
+|  | 5601.29.0020 |
+|  | 6302.39.0010 |
+|  | 6406.10.9020 |
+| 665 | 5701.90.1030 |
+|  | 5701.90.2030 |
+|  | 5702.32.1000 |
+|  | 5702.32.2000 |
+|  | 5702.42.2090 |
+|  | 5702.50.5200 |
+|  | 5702.92.1000 |
+|  | 5702.92.9000 |
+|  | 5703.20.1000 |
+|  | 5703.30.2000 |
+|  | 5703.30.8030 |
+|  | 5703.30.8080 |
+|  | 5704.10.0090 |
+|  | 5705.00.2030 |
+|  | 5703.20.2010 |
+|  | 5703.20.2090 |
+| 666 | 6304.11.2000 |
+|  | 6304.91.0040 |
+|  | 6304.93.0000 |
+|  | 6304.99.6020 |
+|  | 6301.40.0010 |
+|  | 6301.40.0020 |
+|  | 6301.90.0010 |
+| 669 | 5601.10.2000 |
+|  | 5601.22.0090 |
+|  | 5807.10.0520 |
+|  | 5807.90.0520 |
+|  | 6307.90.3020 |
+|  | 6305.32.0010 |
+|  | 6305.32.0020 |
+|  | 6305.32.0050 |
+|  | 6305.32.0060 |
+|  | 6305.39.0000 |
+|  | 6406.10.9040 |
+|  | 6308.00.0020 |
+| 899 | 6304.11.3000 |
+|  | 6304.19.3060 |
+|  | 6304.91.0070 |
+|  | 6304.99.3500 |
+|  | 6304.99.6040 |
+|  | 5601.29.0090 |
+|  | 6301.90.0030 |
+|  | 6305.90.0000 |
+|  | 6406.10.9060 |
+| 900 | 5601.29.0010 |
+|  | 5701.90.2010 |
+|  | 6301.90.0020 |
+
+| “During: | the corresponding percentage is: |
+| --- | --- |
+| “the initial applicable 1-year period | 1 percent. |
+| “each of the 16 succeeding 1-year periods | 1.25 percent. |
+
+
+(aa) the cost or value of materials under subclause (I) of clause (i), and
+
+(bb) the direct costs of processing operations under subclause (II) of clause (i),
+
+(aa) the cost or value of materials under subclause (I) of clause (i), and
+
+(bb) the direct costs of processing operations under subclause (II) of clause (i),
+
+(aa) any foreign materials that are used in the production of the apparel articles in Haiti; and
+
+(bb) any foreign materials that are used in the production of the materials described in subclause (I)(aa) or (II)(aa) (as the case may be).
+
+(aa) the cost or value of materials under subclause (I) of clause (i), plus
+
+(bb) the direct costs of processing operations under subclause (II) of clause (i),
+
+(aa) a producer or an entity controlling production is ineligible for preferential treatment under subparagraph (A) in the initial applicable 1-year period or any 1-year period thereafter because that producer or entity controlling production did not satisfy the requirements of clause (i) or (iv), and
+
+(bb) that producer or entity controlling production satisfies the requirements of subclause (II) of this clause in that 1-year period,
+
+(AA) that was made during that 1-year period, and
+
+(BB) with respect to which there would have been preferential treatment under subparagraph (A) if the producer or entity controlling production had satisfied the requirements in clause (i) or (iv) (as the case may be),
+
+(aa) the cost of fabrics or yarns to the extent that apparel articles of such fabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabrics or yarns, under Annex 4–B of the USMCA; and
+
+(bb) the cost of fabrics or yarns that are designated as not being available in commercial quantities for purposes of— (AA) section 2703(b)(2)(A)(v) of this title , (BB) section 3721(b)(5) of this title , (CC) section 3203(b)(3)(B)(i)(III) or (ii) of this title, or (DD) any other provision, relating to determining whether a textile or apparel article is an originating good eligible for preferential treatment, of a law that implements a free trade agreement that enters into force with respect to the United States,
+
+(aa) any fabric or yarn described in subclause (I)(aa) was determined to be eligible for preferential treatment, or
+
+(bb) any fabric or yarn described in subclause (I)(bb) was designated as not being available in commercial quantities,
+
+(aa) All white T-shirts, with short hemmed sleeves and hemmed bottom, with crew or round neckline or with V-neck and with a mitered seam at the center of the V, and without pockets, trim, or embroidery.
+
+(bb) All white singlets, without pockets, trim, or embroidery.
+
+(cc) Other T-shirts, but not including thermal undershirts.
+
+(aa) Sweatshirts.
+
+(bb) Pullovers, other than sweaters, vests, or garments imported as part of playsuits.
+
+6203.19.1020
+
+6203.42.4011
+
+6203.19.9020
+
+6203.42.4016
+
+6203.22.3020
+
+6203.42.4026
+
+6203.22.3030
+
+6203.42.4036
+
+6203.42.4003
+
+6203.42.4046
+
+6203.42.4006
+
+6203.42.4051
+
+6204.12.0030
+
+6204.62.4011
+
+6204.19.8030
+
+6204.62.4021
+
+6204.22.3040
+
+6204.62.4031
+
+6204.22.3050
+
+6204.62.4041
+
+6204.29.4034
+
+6204.62.4051
+
+6204.62.3000
+
+6204.62.4056
+
+6204.62.4003
+
+6204.62.4066
+
+6204.62.4006
+
+6204.69.6010
+
+6203.23.0060
+
+6203.43.4020
+
+6203.23.0070
+
+6203.43.4030
+
+6203.29.2030
+
+6203.43.4040
+
+6203.29.2035
+
+6203.49.1500
+
+6203.43.2500
+
+6203.49.2015
+
+6203.43.3510
+
+6203.49.2030
+
+6203.43.3590
+
+6203.49.2045
+
+6203.43.4010
+
+6203.49.2060
+
+6204.23.0040
+
+6204.63.3510
+
+6204.23.0045
+
+6204.63.3530
+
+6204.29.2020
+
+6204.63.3532
+
+6204.29.2025
+
+6204.63.3540
+
+6204.29.4038
+
+6204.69.2510
+
+6204.63.2000
+
+6204.69.2530
+
+6204.63.3010
+
+6204.69.2540
+
+6204.63.3090
+
+6204.69.2560
+
+6105.10.0010
+
+6109.10.0040
+
+6109.10.0018
+
+6109.10.0045
+
+6109.10.0027
+
+6110.20.2079
+
+(aa) verifying that the qualifying woven fabric or qualifying knit fabric was exported to a producer in Haiti or to an entity controlling production; and
+
+(bb) identifying such producer or entity controlling production, and the quantity and description of qualifying woven fabric or qualifying knit fabric exported to such producer or entity controlling production.
+
+(aa) submissions by textile mills or other entities in the United States documenting exports of yarns wholly formed in the United States to countries described in paragraph (1)(B)(iii) for the manufacture of qualifying knit fabric; and
+
+(bb) procedures imposed on producers or entities controlling production to allow the Secretary of Commerce to obtain and verify information relating to the production of qualifying knit fabric.
+
+(aa) the results of the assessment carried out under this clause; and
+
+(bb) specific suggestions for remediating any such deficiencies;
+
+“each of the 16 succeeding 1-year periods
+
+In General
+
+Exception
+
+Restoration of Eligibility of Certain Articles for Preferential Treatment
+
+In general
+
+Articles described
+
+Effective date of proclamation
+
+Retroactive Application.—
+
+In general
+
+Requests
+
+Payment of amounts owed
+
+Definitions
+
+Covered article
+
+Entry
+
+“Congress finds the following:
+
+In General.—
+
+Rapid response team
+
+Report
+
+Support Team.—
+
+In general
+
+Termination
+
+Authorization of Appropriations.—
+
+In general
+
+Supplement and not supplant
+
+## Source Credit
+
+*([Pub. L. 98–67, title II, § 213A](https://www.govinfo.gov/link/plaw/98/public/67), as added [Pub. L. 109–432, div. D, title V, § 5002(a)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 3181](https://www.govinfo.gov/link/statute/120/3181); amended [Pub. L. 110–234, title XV](https://www.govinfo.gov/link/plaw/110/public/234), §§ 15402–15405, May 22, 2008, [122 Stat. 1527–1545](https://www.govinfo.gov/link/statute/122/1527); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XV, §§ 15402–15405, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2289–2307; [Pub. L. 110–436, § 7](https://www.govinfo.gov/link/plaw/110/public/436), Oct. 16, 2008, [122 Stat. 4981](https://www.govinfo.gov/link/statute/122/4981); [Pub. L. 111–171](https://www.govinfo.gov/link/plaw/111/public/171), §§ 3(2)–8, May 24, 2010, [124 Stat. 1195–1205](https://www.govinfo.gov/link/statute/124/1195); [Pub. L. 112–234, § 2(f)](https://www.govinfo.gov/link/plaw/112/public/234), Dec. 28, 2012, [126 Stat. 1625](https://www.govinfo.gov/link/statute/126/1625); [Pub. L. 114–27, title III, § 301](https://www.govinfo.gov/link/plaw/114/public/27), June 29, 2015, [129 Stat. 373](https://www.govinfo.gov/link/statute/129/373); [Pub. L. 116–260, div. O, title VI, § 602(b)(3)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2153](https://www.govinfo.gov/link/statute/134/2153); [Pub. L. 119–75, div. I, § 5020(a)](https://www.govinfo.gov/link/plaw/119/public/75), Feb. 3, 2026, [140 Stat. 633](https://www.govinfo.gov/link/statute/140/633).)*

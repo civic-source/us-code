@@ -3,12 +3,17 @@ title: "Section 215 - Institution of confiscation proceedings"
 usc_title: 50
 usc_section: "215"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 215"
-generated_at: "2026-03-30T02:56:26.199Z"
+generated_at: "2026-11-23T20:27:30.710Z"
+status: "active"
 ---
 
 # § 215. Institution of confiscation proceedings
 
 The Attorney General, or the United States attorney for any judicial district in which such property may at the time be, may institute the proceedings of condemnation, and in such case they shall be wholly for the benefit of the United States; or any person may file an information with such attorney, in which case the proceedings shall be for the use of such informer and the United States in equal parts.
 
+
+## Source Credit
+
+*(R.S. § 5311; June 25, 1948, ch. 646, § 1, [62 Stat. 909](https://www.govinfo.gov/link/statute/62/909).)*

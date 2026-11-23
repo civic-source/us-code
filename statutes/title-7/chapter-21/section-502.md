@@ -3,12 +3,17 @@ title: "Section 502 - Standards for classification; returns and blanks"
 usc_title: 7
 usc_section: "502"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 502"
-generated_at: "2026-03-30T02:53:42.287Z"
+generated_at: "2026-11-23T20:25:41.046Z"
+status: "active"
 ---
 
 # § 502. Standards for classification; returns and blanks
 
 The Secretary of Agriculture shall establish standards for the classification of leaf tobacco, and he is authorized to demonstrate such standards, to prepare and distribute samples thereof, and to make reasonable charges therefor. He shall specify the types, groups of grades, qualities, colors, and/or grades, which shall be included in the returns required by this chapter. The Secretary of Agriculture shall prepare appropriate blanks upon which the returns shall be made, shall, upon request, furnish copies to persons who are required by this chapter to make returns, and such returns shall show the types, groups of grades, qualities, colors, and/or grades and such other information as the Secretary may require.
 
+
+## Source Credit
+
+*(Jan. 14, 1929, ch. 69, § 2, [45 Stat. 1079](https://www.govinfo.gov/link/statute/45/1079); Aug. 27, 1935, ch. 749, § 2, [49 Stat. 894](https://www.govinfo.gov/link/statute/49/894).)*

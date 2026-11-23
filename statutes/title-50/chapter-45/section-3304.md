@@ -3,9 +3,10 @@ title: "Section 3304 - Limitation on construction of facilities to be used prima
 usc_title: 50
 usc_section: "3304"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3304"
-generated_at: "2026-03-30T02:56:26.242Z"
+generated_at: "2026-11-23T20:27:30.950Z"
+status: "active"
 ---
 
 # § 3304. Limitation on construction of facilities to be used primarily by intelligence community
@@ -25,3 +26,13 @@ generated_at: "2026-03-30T02:56:26.242Z"
   - **(3)** If a project referred to in paragraph (1) is primarily for the Central Intelligence Agency, the Director of the Central Intelligence Agency shall make the determination and submit the report required by paragraphs (1) and (2).
   - **(4)** A project carried out under this subsection shall be carried out within the total amount of funds appropriated for intelligence and intelligence-related activities that have not been obligated.
 - **(c)** This section shall not apply to any project which is subject to subsection (a)(1)(A) or (c) of section 601.
+
+“As used in this title [enacting this section and section 3302 of this title ]:
+
+Intelligence committees
+
+Intelligence community
+
+## Source Credit
+
+*([Pub. L. 103–359, title VI, § 602](https://www.govinfo.gov/link/plaw/103/public/359), Oct. 14, 1994, [108 Stat. 3432](https://www.govinfo.gov/link/statute/108/3432); [Pub. L. 108–177, title III, § 314](https://www.govinfo.gov/link/plaw/108/public/177), Dec. 13, 2003, [117 Stat. 2610](https://www.govinfo.gov/link/statute/117/2610); [Pub. L. 111–259, title VIII, § 809](https://www.govinfo.gov/link/plaw/111/public/259), Oct. 7, 2010, [124 Stat. 2749](https://www.govinfo.gov/link/statute/124/2749); [Pub. L. 115–31, div. N, title III, § 307](https://www.govinfo.gov/link/plaw/115/public/31), May 5, 2017, [131 Stat. 813](https://www.govinfo.gov/link/statute/131/813); [Pub. L. 116–260, div. W, title III, § 309](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2369](https://www.govinfo.gov/link/statute/134/2369); [Pub. L. 117–103, div. X, title III, § 305](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 966](https://www.govinfo.gov/link/statute/136/966); [Pub. L. 118–159, div. F, title LXIX, § 6902(d)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2517](https://www.govinfo.gov/link/statute/138/2517).)*

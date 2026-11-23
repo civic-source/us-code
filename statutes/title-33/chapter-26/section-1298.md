@@ -3,9 +3,10 @@ title: "Section 1298 - Cost effectiveness"
 usc_title: 33
 usc_section: "1298"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1298"
-generated_at: "2026-03-30T02:55:41.089Z"
+generated_at: "2026-11-23T20:26:54.002Z"
+status: "active"
 ---
 
 # § 1298. Cost effectiveness
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:41.089Z"
 - **(b)** In accordance with the policy set forth in subsection (a) of this section, before the Administrator approves any grant to any State, municipality, or intermunicipal or interstate agency for the erection, building, acquisition, alteration, remodeling, improvement, or extension of any treatment works the Administrator shall determine that the facilities plan of which such treatment works are a part constitutes the most economical and cost-effective combination of treatment works over the life of the project to meet the requirements of this chapter, including, but not limited to, consideration of construction costs, operation, maintenance, and replacement costs.
 - **(c)** In furtherance of the policy set forth in subsection (a) of this section, the Administrator shall require value engineering review in connection with any treatment works, prior to approval of any grant for the erection, building, acquisition, alteration, remodeling, improvement, or extension of such treatment works, in any case in which the cost of such erection, building, acquisition, alteration, remodeling, improvement, or extension is projected to be in excess of $10,000,000. For purposes of this subsection, the term “value engineering review” means a specialized cost control technique which uses a systematic and creative approach to identify and to focus on unnecessarily high cost in a project in order to arrive at a cost saving without sacrificing the reliability or efficiency of the project.
 - **(d)** This section applies to projects for waste treatment and management for which no treatment works including a facilities plan for such project have received Federal financial assistance for the preparation of construction plans and specifications under this chapter before December 29, 1981 .
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title II, § 218, as added [Pub. L. 97–117, § 19](https://www.govinfo.gov/link/plaw/97/public/117), Dec. 29, 1981, [95 Stat. 1630](https://www.govinfo.gov/link/statute/95/1630).)*

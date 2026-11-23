@@ -3,9 +3,10 @@ title: "Section 7505 - Repayment for failure to satisfy requirements of agreemen
 usc_title: 38
 usc_section: "7505"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7505"
-generated_at: "2026-03-30T02:55:53.533Z"
+generated_at: "2026-11-23T20:27:02.032Z"
+status: "active"
 ---
 
 # § 7505. Repayment for failure to satisfy requirements of agreement
@@ -16,3 +17,15 @@ generated_at: "2026-03-30T02:55:53.533Z"
   - **(1)** noncompliance by the individual is due to circumstances beyond the control of the individual; or
   - **(2)** the Secretary determines that the waiver or suspension of compliance is in the best interest of the United States.
 - **(d)** An obligation to repay the Secretary under this section is, for all purposes, a debt owed the United States. A discharge in bankruptcy under title 11 does not discharge a person from such debt if the discharge order is entered less than five years after the date of the termination of the agreement or contract on which the debt is based.
+
+In General
+
+Amount of Repayment
+
+Waiver or Suspension of Compliance
+
+Obligation as Debt to United States
+
+## Source Credit
+
+*(Added [Pub. L. 111–163, title III, § 302(a)](https://www.govinfo.gov/link/plaw/111/public/163), May 5, 2010, [124 Stat. 1148](https://www.govinfo.gov/link/statute/124/1148).)*

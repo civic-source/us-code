@@ -3,9 +3,10 @@ title: "Section 11292 - Education of public, individuals with Alzheimer’s dise
 usc_title: 42
 usc_section: "11292"
 chapter: 118
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11292"
-generated_at: "2026-03-30T02:56:11.396Z"
+generated_at: "2026-11-23T20:27:23.281Z"
+status: "active"
 ---
 
 # § 11292. Education of public, individuals with Alzheimer’s disease and their families, and health and long-term care providers
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:56:11.396Z"
   - **(3)** ensure that the grants are distributed among the principal geographic regions of the United States.
 - **(d)** To be eligible to receive a grant under this section, an entity shall submit an application to the Director of the National Institute on Aging at such time, in such manner, and containing or accompanied by such information, as the Director may reasonably require, including, at a minimum, an assurance that the entity will coordinate programs provided under this section with the State agency designated under section 305(a)(1) of the Older Americans Act of 1965 [ 42 U.S.C. 3025(a)(1) ], in the State in which the entity will provide such programs.
 - **(e)** The Director of the National Institute on Aging shall coordinate the award of grants under this section with the heads of other appropriate agencies, including the Commissioner of the Administration on Aging.
+
+## Source Credit
+
+*([Pub. L. 99–660, title IX, § 962](https://www.govinfo.gov/link/plaw/99/public/660), Nov. 14, 1986, [100 Stat. 3814](https://www.govinfo.gov/link/statute/100/3814); [Pub. L. 102–507, § 8(a)](https://www.govinfo.gov/link/plaw/102/public/507), Oct. 24, 1992, [106 Stat. 3286](https://www.govinfo.gov/link/statute/106/3286).)*

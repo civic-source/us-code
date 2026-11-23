@@ -3,9 +3,10 @@ title: "Section 1377 - Indian tribes"
 usc_title: 33
 usc_section: "1377"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1377"
-generated_at: "2026-03-30T02:55:41.104Z"
+generated_at: "2026-11-23T20:26:54.068Z"
+status: "active"
 ---
 
 # § 1377. Indian tribes
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:41.104Z"
 - **(h)** For purposes of this section, the term—
   - **(1)** “Federal Indian reservation” means all land within the limits of any Indian reservation under the jurisdiction of the United States Government, notwithstanding the issuance of any patent, and including rights-of-way running through the reservation; and
   - **(2)** “Indian tribe” means any Indian tribe, band, group, or community recognized by the Secretary of the Interior and exercising governmental authority over a Federal Indian reservation.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title V, § 518, as added [Pub. L. 100–4, title V, § 506](https://www.govinfo.gov/link/plaw/100/public/4), Feb. 4, 1987, [101 Stat. 76](https://www.govinfo.gov/link/statute/101/76); amended [Pub. L. 100–581, title II, § 207](https://www.govinfo.gov/link/plaw/100/public/581), Nov. 1, 1988, [102 Stat. 2940](https://www.govinfo.gov/link/statute/102/2940); [Pub. L. 106–284, § 6](https://www.govinfo.gov/link/plaw/106/public/284), Oct. 10, 2000, [114 Stat. 876](https://www.govinfo.gov/link/statute/114/876); [Pub. L. 113–121, title V, § 5013](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1328](https://www.govinfo.gov/link/statute/128/1328).)*

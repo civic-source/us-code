@@ -3,9 +3,10 @@ title: "Section 292o - Definitions"
 usc_title: 42
 usc_section: "292o"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 292o"
-generated_at: "2026-03-30T02:56:10.773Z"
+generated_at: "2026-11-23T20:27:20.365Z"
+status: "active"
 ---
 
 # § 292o. Definitions
@@ -29,3 +30,7 @@ For purposes of this subpart:
       - **(ii)** in the case of an eligible lender, the loan was made by the lender; and
       - **(iii)** in the case of a holder, the loan was purchased by the holder.
   - **(6)** The term “Secretary” means the Secretary of Education.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 719, as added [Pub. L. 102–408, title I, § 102](https://www.govinfo.gov/link/plaw/102/public/408), Oct. 13, 1992, [106 Stat. 2009](https://www.govinfo.gov/link/statute/106/2009); amended [Pub. L. 105–392, title I, § 141(c)(2)](https://www.govinfo.gov/link/plaw/105/public/392), Nov. 13, 1998, [112 Stat. 3579](https://www.govinfo.gov/link/statute/112/3579); [Pub. L. 113–76, div. H, title V, § 525(e)](https://www.govinfo.gov/link/plaw/113/public/76), Jan. 17, 2014, [128 Stat. 413](https://www.govinfo.gov/link/statute/128/413).)*

@@ -3,9 +3,10 @@ title: "Section 2503 - Prohibition"
 usc_title: 33
 usc_section: "2503"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2503"
-generated_at: "2026-03-30T02:55:41.129Z"
+generated_at: "2026-11-23T20:26:54.206Z"
+status: "active"
 ---
 
 # § 2503. Prohibition
@@ -19,3 +20,7 @@ After 6 months after November 18, 1988 , no public vessel shall dispose of poten
   - **(3)**
     - **(A)** in the case of a public vessel which is not a submersible, the waste is sterilized, properly packaged, and sufficiently weighted to prevent the waste from coming ashore after disposal; and
     - **(B)** in the case of a public vessel which is a submersible, the waste is properly packaged and sufficiently weighted to prevent the waste from coming ashore after disposal.
+
+## Source Credit
+
+*([Pub. L. 100–688, title III, § 3104](https://www.govinfo.gov/link/plaw/100/public/688), Nov. 18, 1988, [102 Stat. 4152](https://www.govinfo.gov/link/statute/102/4152).)*

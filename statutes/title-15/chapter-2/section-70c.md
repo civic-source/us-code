@@ -3,9 +3,10 @@ title: "Section 70c - Removal of stamp, tag, label, or other identification"
 usc_title: 15
 usc_section: "70c"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 70c"
-generated_at: "2026-03-30T02:54:08.030Z"
+generated_at: "2026-11-23T20:26:03.426Z"
+status: "active"
 ---
 
 # § 70c. Removal of stamp, tag, label, or other identification
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:08.030Z"
   - **(1)** introducing, selling, advertising, or offering for sale, in commerce, or importing into the United States, a textile fiber product subject to the provisions of this subchapter, or
   - **(2)** selling, advertising, or offering for sale a textile fiber product whether in its original state or contained in other textile fiber products, which has been shipped, advertised, or offered for sale, in commerce,
 - **(c)** If any person other than the ultimate consumer breaks a package which bears a stamp, tag, label, or other means of identification conforming to the requirements of section 70b of this title , and if such package contains one or more units of a textile fiber product to which a stamp, tag, label, or other identification conforming to the requirements of section 70b of this title is not affixed, such person shall affix a stamp, tag, label, or other identification bearing the information on the stamp, tag, label, or other means of identification attached to such broken package to each unit of textile fiber product taken from such broken package.
+
+## Source Credit
+
+*([Pub. L. 85–897, § 5](https://www.govinfo.gov/link/plaw/85/public/897), Sept. 2, 1958, [72 Stat. 1720](https://www.govinfo.gov/link/statute/72/1720).)*

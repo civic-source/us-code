@@ -3,9 +3,10 @@ title: "Section 6322 - Leave for jury or witness service; official duty status f
 usc_title: 5
 usc_section: "6322"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 6322"
-generated_at: "2026-03-30T02:52:56.030Z"
+generated_at: "2026-11-23T20:25:32.029Z"
+status: "active"
 ---
 
 # § 6322. Leave for jury or witness service; official duty status for certain witness service
@@ -17,3 +18,20 @@ generated_at: "2026-03-30T02:52:56.030Z"
   - **(1)** testify or produce official records on behalf of the United States or the District of Columbia; or
   - **(2)** testify in his official capacity or produce official records on behalf of a party other than the United States or the District of Columbia.
 - **(c)** The Office of Personnel Management may prescribe regulations for the administration of this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 30n . | June 29, 1940, ch. 446, § 1 , 54 Stat. 689 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 30n
+
+June 29, 1940, ch. 446, § 1
+
+54 Stat. 689
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 522](https://www.govinfo.gov/link/statute/80/522); [Pub. L. 91–563, § 1(a)](https://www.govinfo.gov/link/plaw/91/public/563), Dec. 19, 1970, [84 Stat. 1476](https://www.govinfo.gov/link/statute/84/1476); [Pub. L. 94–310, § 1](https://www.govinfo.gov/link/plaw/94/public/310), June 15, 1976, [90 Stat. 687](https://www.govinfo.gov/link/statute/90/687); [Pub. L. 95–454, title IX, § 906(a)(2)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1224](https://www.govinfo.gov/link/statute/92/1224); [Pub. L. 96–70, title I, § 1251](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 476](https://www.govinfo.gov/link/statute/93/476); [Pub. L. 104–186, title II, § 215(10)](https://www.govinfo.gov/link/plaw/104/public/186), Aug. 20, 1996, [110 Stat. 1746](https://www.govinfo.gov/link/statute/110/1746); [Pub. L. 104–201, div. C, title XXXV, § 3548(a)(8)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2869](https://www.govinfo.gov/link/statute/110/2869).)*

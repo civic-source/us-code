@@ -3,9 +3,10 @@ title: "Section 136o - Imports and exports"
 usc_title: 7
 usc_section: "136o"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 136o"
-generated_at: "2026-03-30T02:53:42.262Z"
+generated_at: "2026-11-23T20:25:40.929Z"
+status: "active"
 ---
 
 # § 136o. Imports and exports
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:42.262Z"
   - **(1)** The Administrator shall, in cooperation with the Department of State and any other appropriate Federal agency, participate and cooperate in any international efforts to develop improved pesticide research and regulations.
   - **(2)** Any expenses incurred by an employee of the Environmental Protection Agency who participates in any international technical, economic, or policy review board, committee, or other official body that is meeting in relation to an international treaty shall be paid by the Department of State.
 - **(e)** The Secretary of the Treasury, in consultation with the Administrator, shall prescribe regulations for the enforcement of subsection (c) of this section.
+
+## Source Credit
+
+*(June 25, 1947, ch. 125, § 17, as added [Pub. L. 92–516, § 2](https://www.govinfo.gov/link/plaw/92/public/516), Oct. 21, 1972, [86 Stat. 995](https://www.govinfo.gov/link/statute/86/995); amended [Pub. L. 95–396, § 18(a)](https://www.govinfo.gov/link/plaw/95/public/396), Sept. 30, 1978, [92 Stat. 833](https://www.govinfo.gov/link/statute/92/833); [Pub. L. 100–532, title VIII, § 801(j)](https://www.govinfo.gov/link/plaw/100/public/532), Oct. 25, 1988, [102 Stat. 2682](https://www.govinfo.gov/link/statute/102/2682); [Pub. L. 102–237, title X, § 1006(a)(9)](https://www.govinfo.gov/link/plaw/102/public/237), (b)(2), Dec. 13, 1991, [105 Stat. 1895](https://www.govinfo.gov/link/statute/105/1895); [Pub. L. 110–234, title XIV, § 14209(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1463](https://www.govinfo.gov/link/statute/122/1463); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIV, § 14209(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2225; [Pub. L. 113–79, title X, § 10008](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 948](https://www.govinfo.gov/link/statute/128/948).)*

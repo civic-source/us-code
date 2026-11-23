@@ -3,9 +3,10 @@ title: "Section 13364 - Study of utilization of coal combustion byproducts"
 usc_title: 42
 usc_section: "13364"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13364"
-generated_at: "2026-03-30T02:56:11.442Z"
+generated_at: "2026-11-23T20:27:23.483Z"
+status: "active"
 ---
 
 # § 13364. Study of utilization of coal combustion byproducts
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.442Z"
     - **(B)** stabilizing wastes;
     - **(C)** procurement by departments and agencies of the Federal Government and State and local governments; and
     - **(D)** federally funded or federally subsidized procurement by the private sector.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XIII, § 1334](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2984](https://www.govinfo.gov/link/statute/106/2984).)*

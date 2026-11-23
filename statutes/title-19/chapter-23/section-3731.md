@@ -3,9 +3,10 @@ title: "Section 3731 - Sense of the Congress regarding comprehensive debt relief
 usc_title: 19
 usc_section: "3731"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3731"
-generated_at: "2026-03-30T02:54:24.695Z"
+generated_at: "2026-11-23T20:26:11.073Z"
+status: "active"
 ---
 
 # § 3731. Sense of the Congress regarding comprehensive debt relief for the world’s poorest countries
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:24.695Z"
   - **(4)** these debt relief agreements should be designed and implemented in a transparent manner and with the broad participation of the citizenry of the debtor country and should ensure that country circumstances are adequately taken into account;
   - **(5)** no country should receive the benefits of debt relief if that country does not cooperate with the United States on terrorism or narcotics enforcement, is a gross violator of the human rights of its citizens, or is engaged in conflict or spends excessively on its military; and
   - **(6)** in order to prevent adverse impact on a key industry in many developing countries, the International Monetary Fund must mobilize its own resources for providing debt relief to eligible countries without allowing gold to reach the open market, or otherwise adversely affecting the market price of gold.
+
+## Source Credit
+
+*([Pub. L. 106–200, title I, § 121](https://www.govinfo.gov/link/plaw/106/public/200), May 18, 2000, [114 Stat. 267](https://www.govinfo.gov/link/statute/114/267).)*

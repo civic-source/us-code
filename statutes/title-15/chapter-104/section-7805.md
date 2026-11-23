@@ -3,9 +3,10 @@ title: "Section 7805 - Protection of educational institution"
 usc_title: 15
 usc_section: "7805"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 7805"
-generated_at: "2026-03-30T02:54:08.226Z"
+generated_at: "2026-11-23T20:26:04.471Z"
+status: "active"
 ---
 
 # § 7805. Protection of educational institution
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.226Z"
   - **(2)** Damages of an educational institution may include and are limited to actual losses and expenses incurred because, as a result of the conduct of the athlete agent, the educational institution was injured by a violation of this chapter or was penalized, disqualified, or suspended from participation in athletics by a national association for the promotion and regulation of athletics, by an athletic conference, or by reasonable self-imposed disciplinary action taken to mitigate actions likely to be imposed by such an association or conference.
   - **(3)** In an action taken under this section, the court may award to the prevailing party costs and reasonable attorneys fees.
   - **(4)** This section does not restrict the rights, remedies, or defenses of any person under law or equity.
+
+## Source Credit
+
+*([Pub. L. 108–304, § 6](https://www.govinfo.gov/link/plaw/108/public/304), Sept. 24, 2004, [118 Stat. 1128](https://www.govinfo.gov/link/statute/118/1128).)*

@@ -3,9 +3,10 @@ title: "Section 1185e - Preventing surprise medical bills"
 usc_title: 29
 usc_section: "1185e"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1185e"
-generated_at: "2026-03-30T02:55:18.724Z"
+generated_at: "2026-11-23T20:26:37.995Z"
+status: "active"
 ---
 
 # § 1185e. Preventing surprise medical bills
@@ -213,3 +214,23 @@ generated_at: "2026-03-30T02:55:18.724Z"
   - **(2)**
     - **(A)** In the case of a participant or beneficiary scheduled to receive an item or service that is a specified item or service (as defined in subparagraph (B)), the Secretary may modify any timing requirements relating to the provision of the notification described in paragraph (1) to such participant or beneficiary with respect to such item or service. Any modification made by the Secretary pursuant to the previous sentence may not result in the provision of such notification after such participant or beneficiary has been furnished such item or service.
     - **(B)** For purposes of subparagraph (A), the term “specified item or service” means an item or service that has low utilization or significant variation in costs (such as when furnished as part of a complex treatment), as specified by the Secretary.
+
+(aa) for which benefits are provided or covered under the plan or coverage, respectively; and
+
+(bb) that are furnished by a nonparticipating provider or nonparticipating emergency facility (regardless of the department of the hospital in which such items or services are furnished) after the participant or beneficiary is stabilized and as part of outpatient observation or an inpatient or outpatient stay with respect to the visit in which the services described in clause (i) are furnished.
+
+(aa) Such provider or facility determines such individual is able to travel using nonmedical transportation or nonemergency medical transportation.
+
+(bb) Such provider furnishing such additional items and services satisfies the notice and consent criteria of section 300gg–132(d) 1 1 See References in Text note below. of title 42 with respect to such items and services.
+
+(cc) Such individual is in a condition to receive (as determined in accordance with guidelines issued by the Secretary pursuant to rulemaking) the information described in section 300gg–132 1 of title 42 and to provide informed consent under such section, in accordance with applicable State law.
+
+(dd) Such other conditions, as specified by the Secretary, such as conditions relating to coordinating care transitions to participating providers and facilities.
+
+(aa) in the case of an item or service for which the plan or coverage does not have sufficient information to calculate the median of the contracted rates described in clause (i)(I) in 2019, the first year subsequent to 2022 for which such sponsor or issuer has such sufficient information to calculate the median of such contracted rates in the year previous to such first subsequent year; and
+
+(bb) in the case of a newly covered item or service, the first year subsequent to the first coverage year for such item or service with respect to such plan or coverage for which the sponsor or issuer has sufficient information to calculate the median of the contracted rates described in clause (i)(I) in the year previous to such first subsequent year.
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 716](https://www.govinfo.gov/link/plaw/93/public/406), as added and amended [Pub. L. 116–260, div. BB, title I](https://www.govinfo.gov/link/plaw/116/public/260), §§ 102(b)(1), 103(b), 107(b), 111(c), Dec. 27, 2020, [134 Stat. 2772](https://www.govinfo.gov/link/statute/134/2772), 2806, 2858, 2865.)*

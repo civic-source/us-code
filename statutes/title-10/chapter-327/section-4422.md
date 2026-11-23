@@ -3,9 +3,10 @@ title: "Section 4422 - Weapon system component or technology prototype projects:
 usc_title: 10
 usc_section: "4422"
 chapter: 327
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 4422"
-generated_at: "2026-03-30T02:53:38.208Z"
+generated_at: "2026-11-23T20:25:51.954Z"
+status: "active"
 ---
 
 # § 4422. Weapon system component or technology prototype projects: oversight
@@ -30,3 +31,13 @@ generated_at: "2026-03-30T02:53:38.208Z"
   - **(8)** To submit to the congressional defense committees a semiannual notification that includes the following:
     - **(A)** each weapon system component or technology prototype project initiated during the preceding six months, including an explanation of each project and its required funding.
     - **(B)** the results achieved from weapon system component prototype and technology projects completed and tested during the preceding six months.
+
+Establishment
+
+Membership
+
+Functions
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. A, title VIII, § 806(a)(1)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2257](https://www.govinfo.gov/link/statute/130/2257), § 2447b; renumbered § 4422 and amended [Pub. L. 116–283, div. A, title XVIII, § 1851(c)(1)](https://www.govinfo.gov/link/plaw/116/public/283), (2), Jan. 1, 2021, [134 Stat. 4272](https://www.govinfo.gov/link/statute/134/4272); [Pub. L. 119–60, div. A, title VIII, § 811(d)(3)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 951](https://www.govinfo.gov/link/statute/139/951).)*

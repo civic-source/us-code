@@ -3,9 +3,10 @@ title: "Section 60901 - Case file review"
 usc_title: 34
 usc_section: "60901"
 chapter: 609
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 60901"
-generated_at: "2026-03-30T02:55:33.318Z"
+generated_at: "2026-11-23T20:26:50.675Z"
+status: "active"
 ---
 
 # § 60901. Case file review
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:33.318Z"
 - **(h)**
   - **(1)** The agency may extend the time limit under subsection (g) once for a period of time not to exceed 6 months if the agency makes a finding that the number of case files to be reviewed make it impracticable to comply with such limit without unreasonably taking resources from other law enforcement activities.
   - **(2)** For cases for which the time limit in subsection (g) is extended, the agency shall provide notice and an explanation of its reasoning to one designated person who filed the written application pursuant to this section.
+
+## Source Credit
+
+*([Pub. L. 117–164, § 2](https://www.govinfo.gov/link/plaw/117/public/164), Aug. 3, 2022, [136 Stat. 1358](https://www.govinfo.gov/link/statute/136/1358).)*

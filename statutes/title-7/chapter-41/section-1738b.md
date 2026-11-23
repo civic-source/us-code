@@ -3,9 +3,10 @@ title: "Section 1738b - Eligibility for benefits under Facility"
 usc_title: 7
 usc_section: "1738b"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1738b"
-generated_at: "2026-03-30T02:53:42.341Z"
+generated_at: "2026-11-23T20:25:41.296Z"
+status: "active"
 ---
 
 # § 1738b. Eligibility for benefits under Facility
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:42.341Z"
   - **(3)** have placed into effect major investment reforms in conjunction with an Inter-American Development Bank (hereafter referred to as the “IDB”) loan or otherwise be implementing, or making significant progress towards an open investment regime; and
   - **(4)** if appropriate, have agreed with its commercial bank lenders on a satisfactory financing program, including, as appropriate, debt or debt service reduction.
 - **(b)** The President shall determine whether a country is an eligible country for purposes of subsection (a).
+
+## Source Credit
+
+*(July 10, 1954, ch. 469, title VI, § 603, as added [Pub. L. 101–624, title XV, § 1512](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3658](https://www.govinfo.gov/link/statute/104/3658); amended [Pub. L. 102–237, title III, § 302](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1855](https://www.govinfo.gov/link/statute/105/1855).)*

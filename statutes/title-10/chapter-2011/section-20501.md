@@ -3,9 +3,10 @@ title: "Section 20501 - Authority to establish procedures to consider the separa
 usc_title: 10
 usc_section: "20501"
 chapter: 2011
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 20501"
-generated_at: "2026-03-30T02:53:38.282Z"
+generated_at: "2026-11-23T20:25:52.514Z"
+status: "active"
 ---
 
 # § 20501. Authority to establish procedures to consider the separation of officers for substandard performance of duty and for certain other reasons
@@ -22,3 +23,13 @@ generated_at: "2026-03-30T02:53:38.282Z"
     - **(B)** Moral or professional dereliction.
     - **(C)** The officer’s retention is not clearly consistent with the interests of national security.
 - **(c)** Regulations prescribed by the Secretary of the Air Force under this section are subject to such limitations as the Secretary of Defense may prescribe.
+
+Procedures for Review of Record of Officers Relating to Standards of Performance of Duty.—
+
+Procedures for Review of Record of Officers Relating to Certain Other Reasons.—
+
+Secretary of Defense Limitations
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title XVII, § 1719](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 659](https://www.govinfo.gov/link/statute/137/659).)*

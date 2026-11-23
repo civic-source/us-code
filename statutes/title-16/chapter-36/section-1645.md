@@ -3,9 +3,10 @@ title: "Section 1645 - General provisions"
 usc_title: 16
 usc_section: "1645"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1645"
-generated_at: "2026-03-30T02:54:22.980Z"
+generated_at: "2026-11-23T20:26:20.537Z"
+status: "active"
 ---
 
 # § 1645. General provisions
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:22.980Z"
   - **(4)** encourage the development, employment, retention, and exchange of qualified scientists and other specialists through postgraduate, postdoctoral, and other training, national and international exchange of scientists, and other incentives and programs to improve the quality of forest and rangeland renewable resources research.
 - **(e)** This subchapter shall be construed as supplementing all other laws relating to the Department of Agriculture and shall not be construed as limiting or repealing any existing law or authority of the Secretary except as specifically cited in this subchapter.
 - **(f)** For the purposes of this subchapter, the terms “United States” and “State” shall include each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and the territories and possessions of the United States.
+
+## Source Credit
+
+*([Pub. L. 95–307, § 6](https://www.govinfo.gov/link/plaw/95/public/307), June 30, 1978, [92 Stat. 355](https://www.govinfo.gov/link/statute/92/355).)*

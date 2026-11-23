@@ -3,9 +3,10 @@ title: "Section 398 - Federal interference or control"
 usc_title: 47
 usc_section: "398"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 398"
-generated_at: "2026-03-30T02:56:24.516Z"
+generated_at: "2026-11-23T20:27:28.910Z"
+status: "active"
 ---
 
 # § 398. Federal interference or control
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:24.516Z"
     - **(A)** demonstrates to the Secretary that the violation has been corrected; or
     - **(B)** enters into a compliance agreement approved by the Secretary;
 - **(c)** Nothing in this section shall be construed to authorize any department, agency, officer, or employee of the United States to exercise any direction, supervision, or control over the content or distribution of public telecommunications programs and services, or over the curriculum or program of instruction of any educational institution or school system.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title III, § 398, formerly § 397, as added [Pub. L. 87–447](https://www.govinfo.gov/link/plaw/87/public/447), May 1, 1962, [76 Stat. 67](https://www.govinfo.gov/link/statute/76/67); renumbered § 398 and amended [Pub. L. 90–129, title I, § 103(g)](https://www.govinfo.gov/link/plaw/90/public/129), title II, § 201(3), (5), Nov. 7, 1967, [81 Stat. 367](https://www.govinfo.gov/link/statute/81/367), 368; [Pub. L. 95–567, title III, § 309](https://www.govinfo.gov/link/plaw/95/public/567), Nov. 2, 1978, [92 Stat. 2420](https://www.govinfo.gov/link/statute/92/2420); [Pub. L. 100–626, § 9(b)](https://www.govinfo.gov/link/plaw/100/public/626), Nov. 7, 1988, [102 Stat. 3211](https://www.govinfo.gov/link/statute/102/3211); [Pub. L. 115–141, div. P, title IV, § 402(i)(9)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1090](https://www.govinfo.gov/link/statute/132/1090).)*

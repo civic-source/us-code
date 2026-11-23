@@ -3,9 +3,10 @@ title: "Section 2279b - Transfer of lending authority"
 usc_title: 12
 usc_section: "2279b"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 2279b"
-generated_at: "2026-03-30T02:53:53.482Z"
+generated_at: "2026-11-23T20:25:59.277Z"
+status: "active"
 ---
 
 # § 2279b. Transfer of lending authority
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:53.482Z"
   - **(2)** the bank may provide and extend financial assistance to, and discount for, or purchase from, the transferee Federal land bank association any note, draft, or other obligation with the endorsement or guarantee of the association, the proceeds of which have been advanced to persons eligible and for purposes of financing by the association under subsection (a).
 - **(c)** The Farm Credit Administration shall issue regulations that establish the manner in which the powers and obligations of the banks that make transfers are consolidated and, to the extent necessary, reconciled in the association referred to in subsection (a).
 - **(d)** On the merger of one or more production credit associations with one or more Federal land bank associations, the bank supervising the Federal land bank association shall transfer all of the direct lending authority of the bank in the territory served by such Federal land bank association to such merged association.
+
+## Source Credit
+
+*([Pub. L. 92–181, title VII, § 7](https://www.govinfo.gov/link/plaw/92/public/181).6, formerly §§ 7.6, 7.7, as added [Pub. L. 100–233, title IV, § 416](https://www.govinfo.gov/link/plaw/100/public/233), Jan. 6, 1988, [101 Stat. 1647](https://www.govinfo.gov/link/statute/101/1647); amended [Pub. L. 100–399, title IV, § 408(f)](https://www.govinfo.gov/link/plaw/100/public/399) –(j), Aug. 17, 1988, [102 Stat. 1001](https://www.govinfo.gov/link/statute/102/1001), 1002.)*

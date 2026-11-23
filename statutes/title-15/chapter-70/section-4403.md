@@ -3,9 +3,10 @@ title: "Section 4403 - Ingredient reporting"
 usc_title: 15
 usc_section: "4403"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 4403"
-generated_at: "2026-03-30T02:54:08.199Z"
+generated_at: "2026-11-23T20:26:04.336Z"
+status: "active"
 ---
 
 # § 4403. Ingredient reporting
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:08.199Z"
     - **(C)** The Secretary shall establish written procedures to assure the confidentiality of information provided under subsection (a) of this section. Such procedures shall include the designation of a duly authorized agent to serve as custodian of such information. The agent—
       - **(i)** shall take physical possession of the information and, when not in use by any person authorized to have access to such information, shall store it in a locked cabinet or file; and
       - **(ii)** shall maintain a complete record of any person who inspects or uses the information.
+
+## Source Credit
+
+*([Pub. L. 99–252, § 4](https://www.govinfo.gov/link/plaw/99/public/252), Feb. 27, 1986, [100 Stat. 32](https://www.govinfo.gov/link/statute/100/32).)*

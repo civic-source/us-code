@@ -3,9 +3,10 @@ title: "Section 24319 - Grant process and reporting"
 usc_title: 49
 usc_section: "24319"
 chapter: 243
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 24319"
-generated_at: "2026-03-30T02:56:19.345Z"
+generated_at: "2026-11-23T20:27:34.860Z"
+status: "active"
 ---
 
 # § 24319. Grant process and reporting
@@ -66,3 +67,61 @@ generated_at: "2026-03-30T02:56:19.345Z"
   - **(2)** The Secretary of Transportation may apply some or all of the requirements set forth in the regulations and guidance promulgated by the Secretary relating to the management, administration, cost principles, and audit requirements for Federal awards.
 - **(i)** The Secretary of Transportation shall determine the varying levels of detail and information that will be included in reports for operations, services, program, projects, program income, cash on hand, and other activities within each of the grant categories described in subsection (c)(2).
 - **(j)** Notwithstanding section 24102, for purposes of this section, the term “Northeast Corridor” means the Northeast Corridor main line between Boston, Massachusetts, and the District of Columbia, and facilities and services used to operate and maintain that line.
+
+Procedures for Grant Requests
+
+Grant Requests
+
+Contents.—
+
+In general
+
+Grant categories.—
+
+Operating expenses
+
+Debt service
+
+Capital
+
+Contingency
+
+Modification of categories
+
+Review and Approval.—
+
+Thirty-day approval process.—
+
+In general
+
+Grant agreement
+
+Fifteen-day modification period
+
+Modified requests
+
+Payments to Amtrak.—
+
+In general
+
+Schedule
+
+Exceptions
+
+Availability of Amounts and Early Appropriations
+
+Limitations on Use
+
+Applicable Laws and Regulations.—
+
+Single audit act of 1984
+
+Regulations and guidance
+
+Amtrak Grant Reporting
+
+Definition of Northeast Corridor
+
+## Source Credit
+
+*(Added [Pub. L. 114–94, div. A, title XI, § 11202(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1628](https://www.govinfo.gov/link/statute/129/1628); amended [Pub. L. 115–420, § 4(b)(1)](https://www.govinfo.gov/link/plaw/115/public/420), Jan. 3, 2019, [132 Stat. 5444](https://www.govinfo.gov/link/statute/132/5444); [Pub. L. 117–58, div. B, title II, § 22206(b)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 700](https://www.govinfo.gov/link/statute/135/700).)*

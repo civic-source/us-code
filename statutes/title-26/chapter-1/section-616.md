@@ -3,9 +3,10 @@ title: "Section 616 - Development expenditures"
 usc_title: 26
 usc_section: "616"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 616"
-generated_at: "2026-03-30T02:55:27.721Z"
+generated_at: "2026-11-23T20:26:45.839Z"
+status: "active"
 ---
 
 # § 616. Development expenditures
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:27.721Z"
     - **(A)** at the election of the taxpayer, be included in adjusted basis for purposes of computing the amount of any deduction allowable under section 611 (without regard to section 613), or
     - **(B)** if subparagraph (A) does not apply, be allowed as a deduction ratably over the 10-taxable year period beginning with the taxable year in which such expenditures were paid or incurred.
 - **(e)** For election of 10-year amortization of expenditures allowable as a deduction under subsection (a), see section 59(e).
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 212; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 97–248, title II, § 201(d)(9)(C)](https://www.govinfo.gov/link/plaw/97/public/248), formerly § 201(c)(9)(C), Sept. 3, 1982, [96 Stat. 420](https://www.govinfo.gov/link/statute/96/420), renumbered § 201(d)(9)(C), [Pub. L. 97–448, title III, § 306(a)(1)(A)(i)](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2400](https://www.govinfo.gov/link/statute/96/2400); [Pub. L. 99–514, title IV, § 411(b)(2)(A)](https://www.govinfo.gov/link/plaw/99/public/514), (C)(i), Oct. 22, 1986, [100 Stat. 2226](https://www.govinfo.gov/link/statute/100/2226); [Pub. L. 100–647, title I, § 1007(g)(7)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3435](https://www.govinfo.gov/link/statute/102/3435).)*

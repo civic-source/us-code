@@ -3,9 +3,10 @@ title: "Section 1679b - Prohibited practices"
 usc_title: 15
 usc_section: "1679b"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1679b"
-generated_at: "2026-03-30T02:54:08.146Z"
+generated_at: "2026-11-23T20:26:04.071Z"
+status: "active"
 ---
 
 # § 1679b. Prohibited practices
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:08.146Z"
   - **(3)** make or use any untrue or misleading representation of the services of the credit repair organization; or
   - **(4)** engage, directly or indirectly, in any act, practice, or course of business that constitutes or results in the commission of, or an attempt to commit, a fraud or deception on any person in connection with the offer or sale of the services of the credit repair organization.
 - **(b)** No credit repair organization may charge or receive any money or other valuable consideration for the performance of any service which the credit repair organization has agreed to perform for any consumer before such service is fully performed.
+
+## Source Credit
+
+*([Pub. L. 90–321, title IV, § 404](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 104–208, div. A, title II, § 2451](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–456](https://www.govinfo.gov/link/statute/110/3009).)*

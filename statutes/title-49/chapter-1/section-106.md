@@ -3,9 +3,10 @@ title: "Section 106 - Federal Aviation Administration"
 usc_title: 49
 usc_section: "106"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 106"
-generated_at: "2026-03-30T02:56:19.294Z"
+generated_at: "2026-11-23T20:27:34.487Z"
+status: "active"
 ---
 
 # § 106. Federal Aviation Administration
@@ -348,3 +349,577 @@ generated_at: "2026-03-30T02:56:19.294Z"
       - **(iii)** Coordinate with Human Resource Management, the Office of Accountability and Whistleblower Protection, the Office of Professional Responsibility, and the Office of the Chief Counsel, as necessary.
       - **(iv)** Coordinate with the Office of the Inspector General of the Department of Transportation’s Whistleblower Protection Coordinator and the Office of the Special Counsel, as necessary.
       - **(v)** Conduct outreach and assist in the development of training within the Agency to mitigate the potential for retaliation and promote timely and appropriate processing of any protected disclosure or allegation of materially adverse acts of retaliation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 106(a) | 49:1341(a) (1st sentence). | Aug. 23, 1958 , Pub. L. 85–726 , §§ 301(a), (b), 302(a), (b), 72 Stat. 744 ; Aug. 14, 1964 , Pub. L. 88–426, § 305(16) (B), (C), 78 Stat. 424 . |
+|  | 49:1652(e)(1) (related to FAA). | Oct. 15, 1966 , Pub. L. 89–670, § 3(e) (related to FAA), 80 Stat. 932 . |
+| 106(b) | 49:1341(a) (2d sentence), (b) (1st sentence less 1st–10th words). |  |
+|  | 49:1342(a) (1st sentence), (b) (1st sentence less 1st–11th words). |  |
+|  | 49:1652(e) (related to FAA) (1) (less 1st sentence), (3) (last sentence). |  |
+| 106(c) | 49:1341(b) (1st sentence 1st–10th words, 2d sentence). |  |
+|  | 49:1652(e)(2) (related to Adminis­trator). |  |
+| 106(d) | 49:1342(b) (1st sentence 1st–11th words, 2d sentence, 4th–6th sentences). |  |
+|  | 49:1652(e)(2) (1st sentence less Administrator). |  |
+|  | 49:1343(a)(2) (related to Deputy Administrator). | Aug. 23, 1958 , Pub. L. 85–726, § 302(c)(2) (related to Dep­uty Administrator), 72 Stat. 745 . |
+| 106(e) | 49:1341(b) (less 1st, 2d sentences). |  |
+|  | 49:1342(b) (3d sentence). |  |
+| 106(f) | 49:1341(a) (less 1st, 2d sentences). |  |
+| 106(g) | 49:1652(e)(3) (related to FAA) (less last sentence). |  |
+|  | 49:1655(c)(1) (1st sentence proviso). | Oct. 15, 1966 , Pub. L. 89–670, § 6(c)(1) (1st sentence proviso, 2d, last sentences), 80 Stat. 938 ; Jan. 3, 1975 , Pub. L. 93–633, § 113(d) , 88 Stat. 2163 . |
+| 106(h) | 49:1652(e)(4) (related to FAA). |  |
+|  | 49:1655(c)(1) (2d, last sentences). |  |
+| 106(i) | 49:1342(a) (2d, last sentences). |  |
+
+
+In General
+
+Administration Leadership.—
+
+Administrator.—
+
+In general
+
+Qualifications
+
+Fitness
+
+Term of office
+
+Reporting chain
+
+Deputy administrator.—
+
+In general
+
+Qualifications
+
+Fitness
+
+Reporting chain
+
+Duties
+
+Compensation.—
+
+Annual rate of basic pay
+
+Exception
+
+Reimbursement of expenses
+
+Leadership of the administration defined
+
+Assistant Administrator for Rulemaking and Regulatory Improvement
+
+Prohibition on Conflicting Pecuniary Interests.—
+
+In general
+
+Teaching
+
+Financial interest defined
+
+Authority of the Secretary and the Administrator.—
+
+Authority of the secretary
+
+Authority of the administrator
+
+Duties and powers of the administrator.—
+
+In general
+
+Applicability
+
+Transfer
+
+Administrative finality
+
+Regulations.—
+
+In general.—
+
+Issuance of regulations
+
+Petitions for rulemaking
+
+Rulemaking timeline
+
+Reporting requirement
+
+Approval of secretary of transportation.—
+
+In general
+
+Significant regulations
+
+Emergency regulation.—
+
+In general
+
+Objection
+
+Other regulations
+
+Timeline
+
+Periodic review.—
+
+In general
+
+Discretionary review
+
+Substance of review
+
+Review management
+
+Definition of political appointee
+
+Technical Center for Advanced Aerospace.—
+
+In general
+
+Management
+
+Activities
+
+Civil Aeromedical Institute
+
+Authorization of Appropriations for Operations.—
+
+Salaries, operations, and maintenance
+
+Authorized expenditures
+
+Administering program within available funding
+
+In general
+
+Prioritization
+
+Sunset
+
+Personnel and Services.—
+
+Officers and employees
+
+Experts and consultants
+
+Transportation and per diem expenses
+
+Use of personnel from other agencies
+
+Voluntary services.—
+
+General rule
+
+Incidental expenses
+
+Limited treatment as federal employees
+
+Contracts
+
+Prohibition on certain performance-based incentives
+
+Cooperation by Administrator
+
+Acquisition.—
+
+In general
+
+Title
+
+Transfers of Funds
+
+Management Advisory Council.—
+
+Establishment
+
+Membership
+
+Qualifications
+
+Functions.—
+
+In general.—
+
+Advise; counsel
+
+Resource
+
+Submissions to administration
+
+Reasoning
+
+Cost-benefit analysis
+
+Process review
+
+Meetings
+
+Access to documents and staff
+
+Disclosure of commercial or proprietary data
+
+Application of chapter 10 of title 5
+
+Administrative matters.—
+
+Terms
+
+Term for air traffic control representative
+
+Vacancy
+
+Continuation in office
+
+Removal
+
+Chair; vice chair
+
+Travel and per diem
+
+Detail of personnel from the administration
+
+Aircraft Noise Ombudsman.—
+
+Establishment
+
+General duties and responsibilities
+
+Number of full-time equivalent employees
+
+Chief Operating Officer.—
+
+In general.—
+
+Appointment
+
+Qualifications
+
+Term
+
+Removal
+
+Vacancy
+
+Compensation.—
+
+In general
+
+Bonus
+
+Annual performance agreement
+
+Annual performance report
+
+Responsibilities
+
+Strategic plans
+
+Operations
+
+Budget
+
+Unfunded capital investment needs report.—
+
+In general
+
+Contents of briefing
+
+Prioritization of requirements
+
+Unfunded capital investment need defined
+
+Air traffic control system defined
+
+Chief Technology Officer.—
+
+In general.—
+
+Establishment
+
+Appointment
+
+Minimum qualifications
+
+Responsibilities
+
+Compensation.—
+
+In general
+
+Post-employment
+
+Bonus
+
+Annual performance targets.—
+
+In general
+
+Report
+
+Annual performance report
+
+Office of Whistleblower Protection and Aviation Safety Investigations.—
+
+Establishment
+
+Director.—
+
+Appointment
+
+Qualifications
+
+Term
+
+Vacancies
+
+Limitation of duties
+
+Complaints and investigations.—
+
+Authority of director
+
+Disclosure of identities
+
+Independence of director
+
+Access to information
+
+Responses to recommendations
+
+Incident reports
+
+Reporting of criminal violations to inspector general
+
+Department of transportation office of the inspector general peer review.—
+
+In general
+
+Peer review scope
+
+Reports to congress
+
+Whistleblower ombudsman.—
+
+In general
+
+Ombudsman qualifications
+
+Duties
+
+Historical and Revision Notes
+
+Pub. L
+
+106(a)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 744
+
+Aug. 14, 1964
+
+Pub. L. 88–426, § 305(16)
+
+78 Stat. 424
+
+Oct. 15, 1966
+
+Pub. L. 89–670, § 3(e)
+
+80 Stat. 932
+
+106(b)
+
+106(c)
+
+106(d)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 302(c)(2)
+
+72 Stat. 745
+
+106(e)
+
+106(f)
+
+106(g)
+
+Oct. 15, 1966
+
+Pub. L. 89–670, § 6(c)(1)
+
+80 Stat. 938
+
+Jan. 3, 1975
+
+Pub. L. 93–633, § 113(d)
+
+88 Stat. 2163
+
+106(h)
+
+106(i)
+
+Removal
+
+Restriction
+
+In general
+
+Compensation of members
+
+Compensation of chairperson
+
+Staff
+
+Procurement of temporary and intermittent services
+
+Term of chair
+
+In general
+
+Initial nominations to air traffic services subcommittee
+
+Effect on actions prior to appointment of subcommittee
+
+In General
+
+Limitation on Statutory Construction
+
+Establishment.—
+
+In general
+
+Placement
+
+Duties
+
+Integrated Plan Requirements
+
+Considerations
+
+Consultation
+
+Plan Deadline; Briefings.—
+
+Plan deadline
+
+Annual briefings
+
+DOT Inspector General Review
+
+In General
+
+Congressional Update
+
+Consultation
+
+In General
+
+Participation
+
+Recognized Industry Standards Organization Defined
+
+In General
+
+Program Data
+
+Minority Serving Institution Defined
+
+Prohibition on Mandates
+
+Prohibition on Implementation
+
+Establishment; Appropriation
+
+Purpose
+
+Limitations.—
+
+Period of availability
+
+Total hours; amount
+
+Relationship to other leave
+
+Calculation of retirement benefit
+
+In General
+
+Requirements
+
+Performance Measures
+
+Performance Targets
+
+Report
+
+Appointment
+
+Responsibilities
+
+Dual Appointment
+
+Agency Report
+
+Additional Review
+
+Actions To Streamline and Reform FAA
+
+Report to Congress
+
+Agency Review
+
+Actions To Streamline and Reform FAA
+
+Authority
+
+Report to Congress
+
+Earmark Defined
+
+Rescission
+
+Identification and Report.—
+
+Agency identification
+
+Annual report
+
+“Congress finds the following:
+
+“The purposes of this title [see Effective Date of 1996 Amendment note set out above] are—
+
+“That notwithstanding the provisions of section 106 of title 49 , United States Code, or any other provision of law, the President, acting by and with the advice and consent of the Senate, is authorized to appoint General Thomas C. Richards, United States Air Force, Retired, to the Office of Administrator of the Federal Aviation Administration. General Richards’ appointment to, acceptance of, and service in that Office shall in no way affect the status, rank, and grade which he shall hold as an officer on the retired list of the United States Air Force, or any emolument, perquisite, right, privilege, or benefit incident to or arising out of any such status, office, rank, or grade, except to the extent that subchapter IV of chapter 55 of title 5, United States Code, affects the amount of retired pay to which he is entitled by law during his service as Administrator. So long as he serves as Administrator, General Richards shall receive the compensation of that Office at the rate which would be applicable if he were not an officer on the retired list of the United States Air Force, shall retain the status, rank, and grade which he now holds as an officer on the retired list of the United States Air Force, shall retain all emoluments, perquisites, rights, privileges, and benefits incident to or arising out of such status, office, rank, or grade, and shall in addition continue to receive the retired pay to which he is entitled by law, subject to the provisions of subchapter IV of chapter 55 of title 5, United States Code.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+“In this title [see Effective Date of 1996 Amendment note set out above], the following definitions apply:
+
+Administration
+
+Administrator
+
+Secretary
+
+## Source Credit
+
+*([Pub. L. 97–449, § 1(b)](https://www.govinfo.gov/link/plaw/97/public/449), Jan. 12, 1983, [96 Stat. 2416](https://www.govinfo.gov/link/statute/96/2416); [Pub. L. 98–216, § 2(2)](https://www.govinfo.gov/link/plaw/98/public/216), Feb. 14, 1984, [98 Stat. 5](https://www.govinfo.gov/link/statute/98/5); [Pub. L. 100–591, § 5(a)](https://www.govinfo.gov/link/plaw/100/public/591), Nov. 3, 1988, [102 Stat. 3013](https://www.govinfo.gov/link/statute/102/3013); [Pub. L. 101–508, title IX, § 9106](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–355](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 101–604, title I, § 101(c)](https://www.govinfo.gov/link/plaw/101/public/604), Nov. 16, 1990, [104 Stat. 3068](https://www.govinfo.gov/link/statute/104/3068); [Pub. L. 102–581, title I, § 104](https://www.govinfo.gov/link/plaw/102/public/581), Oct. 31, 1992, [106 Stat. 4877](https://www.govinfo.gov/link/statute/106/4877); [Pub. L. 103–272](https://www.govinfo.gov/link/plaw/103/public/272), §§ 4(j)(3), 5(m)(4), July 5, 1994, [108 Stat. 1365](https://www.govinfo.gov/link/statute/108/1365), 1375; [Pub. L. 103–305, title I, § 103](https://www.govinfo.gov/link/plaw/103/public/305), title II, § 201, Aug. 23, 1994, [108 Stat. 1571](https://www.govinfo.gov/link/statute/108/1571), 1581; [Pub. L. 104–264, title I, § 103(a)](https://www.govinfo.gov/link/plaw/104/public/264), title II, §§ 223(a), 224–230, 276(c), title XII, § 1210, Oct. 9, 1996, [110 Stat. 3216](https://www.govinfo.gov/link/statute/110/3216), 3229–3234, 3282; [Pub. L. 104–287, § 5(1)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3388](https://www.govinfo.gov/link/statute/110/3388); [Pub. L. 105–102, § 3(c)(3)](https://www.govinfo.gov/link/plaw/105/public/102), Nov. 20, 1997, [111 Stat. 2215](https://www.govinfo.gov/link/statute/111/2215); [Pub. L. 106–6, § 4](https://www.govinfo.gov/link/plaw/106/public/6), Mar. 31, 1999, [113 Stat. 10](https://www.govinfo.gov/link/statute/113/10); [Pub. L. 106–181, title I, § 103(a)](https://www.govinfo.gov/link/plaw/106/public/181), title III, §§ 302(a)–(c), 303, 305, 306, 307(c)(1), title VII, § 701, Apr. 5, 2000, [114 Stat. 66](https://www.govinfo.gov/link/statute/114/66), 115–118, 121, 123, 124, 126, 154; [Pub. L. 106–528, § 8(a)](https://www.govinfo.gov/link/plaw/106/public/528), Nov. 22, 2000, [114 Stat. 2522](https://www.govinfo.gov/link/statute/114/2522); [Pub. L. 107–71, title I, § 101(c)(3)](https://www.govinfo.gov/link/plaw/107/public/71), (d), Nov. 19, 2001, [115 Stat. 602](https://www.govinfo.gov/link/statute/115/602), 603; [Pub. L. 108–176, title I, § 103(a)](https://www.govinfo.gov/link/plaw/108/public/176),(b), title II, §§ 201–204, 224(c), Dec. 12, 2003, [117 Stat. 2495](https://www.govinfo.gov/link/statute/117/2495), 2496, 2522–2526, 2528; [Pub. L. 110–330, § 6](https://www.govinfo.gov/link/plaw/110/public/330), Sept. 30, 2008, [122 Stat. 3719](https://www.govinfo.gov/link/statute/122/3719); [Pub. L. 111–12, § 6](https://www.govinfo.gov/link/plaw/111/public/12), Mar. 30, 2009, [123 Stat. 1458](https://www.govinfo.gov/link/statute/123/1458); [Pub. L. 111–69, § 6](https://www.govinfo.gov/link/plaw/111/public/69), Oct. 1, 2009, [123 Stat. 2055](https://www.govinfo.gov/link/statute/123/2055); [Pub. L. 111–116, § 6](https://www.govinfo.gov/link/plaw/111/public/116), Dec. 16, 2009, [123 Stat. 3032](https://www.govinfo.gov/link/statute/123/3032); [Pub. L. 111–153, § 6](https://www.govinfo.gov/link/plaw/111/public/153), Mar. 31, 2010, [124 Stat. 1085](https://www.govinfo.gov/link/statute/124/1085); [Pub. L. 111–161, § 6](https://www.govinfo.gov/link/plaw/111/public/161), Apr. 30, 2010, [124 Stat. 1127](https://www.govinfo.gov/link/statute/124/1127); [Pub. L. 111–197, § 6](https://www.govinfo.gov/link/plaw/111/public/197), July 2, 2010, [124 Stat. 1354](https://www.govinfo.gov/link/statute/124/1354); [Pub. L. 111–216, title I, § 105](https://www.govinfo.gov/link/plaw/111/public/216), Aug. 1, 2010, [124 Stat. 2350](https://www.govinfo.gov/link/statute/124/2350); [Pub. L. 112–30, title II, § 206](https://www.govinfo.gov/link/plaw/112/public/30), Sept. 16, 2011, [125 Stat. 359](https://www.govinfo.gov/link/statute/125/359); [Pub. L. 112–91, § 6](https://www.govinfo.gov/link/plaw/112/public/91), Jan. 31, 2012, [126 Stat. 4](https://www.govinfo.gov/link/statute/126/4); [Pub. L. 112–95, title I, § 103](https://www.govinfo.gov/link/plaw/112/public/95), title II, §§ 203, 204, title III, §§ 306(b), 341, Feb. 14, 2012, [126 Stat. 16](https://www.govinfo.gov/link/statute/126/16), 37, 61, 78; [Pub. L. 112–166, § 2(k)(2)](https://www.govinfo.gov/link/plaw/112/public/166), Aug. 10, 2012, [126 Stat. 1286](https://www.govinfo.gov/link/statute/126/1286); [Pub. L. 113–188, title XV, § 1501(a)](https://www.govinfo.gov/link/plaw/113/public/188), Nov. 26, 2014, [128 Stat. 2023](https://www.govinfo.gov/link/statute/128/2023); [Pub. L. 114–55, title I, § 103](https://www.govinfo.gov/link/plaw/114/public/55), Sept. 30, 2015, [129 Stat. 523](https://www.govinfo.gov/link/statute/129/523); [Pub. L. 114–141, title I, § 103](https://www.govinfo.gov/link/plaw/114/public/141), Mar. 30, 2016, [130 Stat. 323](https://www.govinfo.gov/link/statute/130/323); [Pub. L. 114–190, title I, § 1103](https://www.govinfo.gov/link/plaw/114/public/190), July 15, 2016, [130 Stat. 618](https://www.govinfo.gov/link/statute/130/618); [Pub. L. 115–63, title I, § 103](https://www.govinfo.gov/link/plaw/115/public/63), Sept. 29, 2017, [131 Stat. 1170](https://www.govinfo.gov/link/statute/131/1170); [Pub. L. 115–141, div. M, title I, § 103](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1047](https://www.govinfo.gov/link/statute/132/1047); [Pub. L. 115–254, div. B, title I, § 113](https://www.govinfo.gov/link/plaw/115/public/254), title V, §§ 545(a), 564, div. K, title I, § 1991(a), Oct. 5, 2018, [132 Stat. 3200](https://www.govinfo.gov/link/statute/132/3200), 3374, 3385, 3626; [Pub. L. 116–260, div. V, title I](https://www.govinfo.gov/link/plaw/116/public/260), §§ 114, 133(a), (b), Dec. 27, 2020, [134 Stat. 2333](https://www.govinfo.gov/link/statute/134/2333), 2353, 2355; [Pub. L. 117–286, § 4(a)(302)](https://www.govinfo.gov/link/plaw/117/public/286), (c)(46), Dec. 27, 2022, [136 Stat. 4339](https://www.govinfo.gov/link/statute/136/4339), 4359; [Pub. L. 117–328, div. Q, § 104](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5253](https://www.govinfo.gov/link/statute/136/5253); [Pub. L. 118–15, div. B, title II, § 2203](https://www.govinfo.gov/link/plaw/118/public/15), Sept. 30, 2023, [137 Stat. 84](https://www.govinfo.gov/link/statute/137/84); [Pub. L. 118–34, title I, § 103](https://www.govinfo.gov/link/plaw/118/public/34), Dec. 26, 2023, [137 Stat. 1114](https://www.govinfo.gov/link/statute/137/1114); [Pub. L. 118–41, title I, § 103](https://www.govinfo.gov/link/plaw/118/public/41), Mar. 8, 2024, [138 Stat. 22](https://www.govinfo.gov/link/statute/138/22); [Pub. L. 118–63, title I, § 103](https://www.govinfo.gov/link/plaw/118/public/63), title II, §§ 201, 202(a), 203–204(b), 206(g), 210–214, 216, May 16, 2024, [138 Stat. 1034–1041](https://www.govinfo.gov/link/statute/138/1034), 1045, 1049–1054.)*

@@ -3,9 +3,10 @@ title: "Section 256i - Community-based collaborative care network program"
 usc_title: 42
 usc_section: "256i"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 256i"
-generated_at: "2026-03-30T02:56:10.719Z"
+generated_at: "2026-11-23T20:27:20.111Z"
+status: "active"
 ---
 
 # § 256i. Community-based collaborative care network program
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:10.719Z"
     - **(F)** Provide direct patient care services.
   - **(2)** The Secretary may limit the percent of grant funding that may be spent on direct care services provided by grantees of programs administered by the Health Resources and Services Administration or impose other requirements on such grantees deemed necessary.
 - **(e)** There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2011 through 2015.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 340I, formerly § 340H, as added [Pub. L. 111–148, title X, § 10333](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 970](https://www.govinfo.gov/link/statute/124/970); renumbered § 340I, [Pub. L. 115–63, title III, § 301(c)(2)](https://www.govinfo.gov/link/plaw/115/public/63), Sept. 29, 2017, [131 Stat. 1172](https://www.govinfo.gov/link/statute/131/1172).)*

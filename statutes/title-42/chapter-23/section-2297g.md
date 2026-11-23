@@ -3,9 +3,10 @@ title: "Section 2297g - Uranium Enrichment Decontamination and Decommissioning F
 usc_title: 42
 usc_section: "2297g"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2297g"
-generated_at: "2026-03-30T02:56:11.161Z"
+generated_at: "2026-11-23T20:27:22.134Z"
+status: "active"
 ---
 
 # § 2297g. Uranium Enrichment Decontamination and Decommissioning Fund
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.161Z"
   - **(2)** The Secretary of the Treasury shall invest amounts contained within the Fund in obligations of the United States—
     - **(A)** having maturities determined by the Secretary of the Treasury to be appropriate for what the Department determines to be the needs of the Fund; and
     - **(B)** bearing interest at rates determined to be appropriate by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to these obligations.
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title II, § 1801, as added [Pub. L. 102–486, title XI, § 1101](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2953](https://www.govinfo.gov/link/statute/106/2953).)*

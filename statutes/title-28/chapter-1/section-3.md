@@ -3,12 +3,17 @@ title: "Section 3 - Vacancy in office of Chief Justice; disability"
 usc_title: 28
 usc_section: "3"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 3"
-generated_at: "2026-03-30T02:55:30.121Z"
+generated_at: "2026-11-23T20:26:36.272Z"
+status: "active"
 ---
 
 # § 3. Vacancy in office of Chief Justice; disability
 
 Whenever the Chief Justice is unable to perform the duties of his office or the office is vacant, his powers and duties shall devolve upon the associate justice next in precedence who is able to act, until such disability is removed or another Chief Justice is appointed and duly qualified.
 
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 869](https://www.govinfo.gov/link/statute/62/869).)*

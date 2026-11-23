@@ -3,9 +3,10 @@ title: "Section 422e - Contract requirements"
 usc_title: 43
 usc_section: "422e"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 422e"
-generated_at: "2026-03-30T02:55:57.448Z"
+generated_at: "2026-11-23T20:27:06.208Z"
+status: "active"
 ---
 
 # § 422e. Contract requirements
@@ -20,3 +21,7 @@ Upon approval of any project proposal by the Secretary under the provisions of s
 - **(d)** provision for operation of the project, if a grant predicated upon its performance of nonreimbursable functions is made, in accordance with regulations with respect thereto prescribed by the head of the Federal department or agency primarily concerned with those functions and, in the event of noncompliance with such regulations, for operation by the United States or for repayment to the United States of the amount of any such grant;
 - **(e)** such provisions as the Secretary shall deem necessary or proper to provide assurance of and security for prompt repayment of the loan and interest as aforesaid. The liability of the United States under any contract entered into pursuant to this subchapter shall be contingent upon the availability of appropriations to carry out the same, and every such contract shall so recite; and
 - **(f)** provisions conforming to the preference requirements contained in the proviso to section 485h(c) of this title , if the project produces electric power for sale.
+
+## Source Credit
+
+*(Aug. 6, 1956, ch. 972, § 5, [70 Stat. 1046](https://www.govinfo.gov/link/statute/70/1046); [Pub. L. 85–47, § 1(c)](https://www.govinfo.gov/link/plaw/85/public/47), June 5, 1957, [71 Stat. 49](https://www.govinfo.gov/link/statute/71/49); [Pub. L. 89–553, § 1(4)](https://www.govinfo.gov/link/plaw/89/public/553), Sept. 2, 1966, [80 Stat. 376](https://www.govinfo.gov/link/statute/80/376); [Pub. L. 92–167, § 1(3)](https://www.govinfo.gov/link/plaw/92/public/167) –(6), Nov. 24, 1971, [85 Stat. 488](https://www.govinfo.gov/link/statute/85/488); [Pub. L. 94–181, § 1(f)](https://www.govinfo.gov/link/plaw/94/public/181), Dec. 27, 1975, [89 Stat. 1050](https://www.govinfo.gov/link/statute/89/1050); [Pub. L. 96–336, § 8(b)](https://www.govinfo.gov/link/plaw/96/public/336), Sept. 4, 1980, [94 Stat. 1065](https://www.govinfo.gov/link/statute/94/1065); [Pub. L. 97–293, title II, § 223](https://www.govinfo.gov/link/plaw/97/public/293), Oct. 12, 1982, [96 Stat. 1272](https://www.govinfo.gov/link/statute/96/1272); [Pub. L. 99–546, title III](https://www.govinfo.gov/link/plaw/99/public/546), §§ 306, 307, Oct. 27, 1986, [100 Stat. 3054](https://www.govinfo.gov/link/statute/100/3054).)*

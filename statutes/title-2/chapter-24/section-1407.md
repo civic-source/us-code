@@ -3,9 +3,10 @@ title: "Section 1407 - Judicial review of Board decisions and enforcement"
 usc_title: 2
 usc_section: "1407"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1407"
-generated_at: "2026-03-30T02:53:04.813Z"
+generated_at: "2026-11-23T20:25:28.971Z"
+status: "active"
 ---
 
 # § 1407. Judicial review of Board decisions and enforcement
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:53:04.813Z"
   - **(2)** not made consistent with required procedures; or
   - **(3)** unsupported by substantial evidence.
 - **(e)** In making determinations under subsection (d), the court shall review the whole record, or those parts of it cited by a party, and due account shall be taken of the rule of prejudicial error.
+
+## Source Credit
+
+*([Pub. L. 104–1, title IV, § 407](https://www.govinfo.gov/link/plaw/104/public/1), Jan. 23, 1995, [109 Stat. 35](https://www.govinfo.gov/link/statute/109/35).)*

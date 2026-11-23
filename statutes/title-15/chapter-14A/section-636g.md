@@ -3,9 +3,10 @@ title: "Section 636g - Development and implementation of major disaster response
 usc_title: 15
 usc_section: "636g"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 636g"
-generated_at: "2026-03-30T02:54:08.092Z"
+generated_at: "2026-11-23T20:26:03.764Z"
+status: "active"
 ---
 
 # § 636g. Development and implementation of major disaster response plan
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:08.092Z"
 - **(c)**
   - **(1)** The Administrator shall conduct a disaster simulation exercise at least once every 2 fiscal years. The exercise shall include the participation of, at a minimum, not less than 50 percent of the individuals in the disaster reserve corps and shall test, at maximum capacity, all of the information technology and telecommunications systems of the Administration that are vital to the activities of the Administration during such a disaster.
   - **(2)** The Administrator shall include a report on the disaster simulation exercises conducted under paragraph (1) each time the Administration submits a report required under section 657 o of this title, as added by this Act.
+
+## Source Credit
+
+*([Pub. L. 110–234, title XII, § 12072](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1411](https://www.govinfo.gov/link/statute/122/1411); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XII, § 12072, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2173.)*

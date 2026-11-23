@@ -3,9 +3,10 @@ title: "Section 1587 - Employees of nonappropriated fund instrumentalities: repr
 usc_title: 10
 usc_section: "1587"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1587"
-generated_at: "2026-03-30T02:53:38.131Z"
+generated_at: "2026-11-23T20:25:51.395Z"
+status: "active"
 ---
 
 # § 1587. Employees of nonappropriated fund instrumentalities: reprisals
@@ -31,3 +32,19 @@ generated_at: "2026-03-30T02:53:38.131Z"
 - **(c)** This section does not apply to an employee in a position excluded from the coverage of this section by the President based upon a determination by the President that the exclusion is necessary and warranted by conditions of good administration.
 - **(d)** The Secretary of Defense shall be responsible for the prevention of actions prohibited by subsection (b) and for the correction of any such actions that are taken. The authority of the Secretary to correct such actions may not be delegated to the Secretary of a military department or to the Assistant Secretary of Defense for Manpower and Logistics.
 - **(e)** The Secretary of Defense, after consultation with the Director of the Office of Personnel Management and the Special Counsel of the Merit Systems Protection Board, shall prescribe regulations to carry out this section. Such regulations shall include provisions to protect the confidentiality of employees and applicants making disclosures described in clauses (1) and (2) of subsection (b) and to permit the reporting of alleged violations of subsection (b) directly to the Inspector General of the Department of Defense.
+
+Conforming Allowance to Allowances for Other Civilian Employees
+
+Application to Certain Current Employees
+
+Nonappropriated Fund Instrumentality Employee Defined
+
+In General
+
+Progress Report
+
+Treatment of Program as Federal Health Benefit Program
+
+## Source Credit
+
+*(Added [Pub. L. 98–94, title XII, § 1253(a)(1)](https://www.govinfo.gov/link/plaw/98/public/94), Sept. 24, 1983, [97 Stat. 699](https://www.govinfo.gov/link/statute/97/699); amended [Pub. L. 100–26, § 7(k)(2)](https://www.govinfo.gov/link/plaw/100/public/26), Apr. 21, 1987, [101 Stat. 284](https://www.govinfo.gov/link/statute/101/284); [Pub. L. 104–106, div. A, title IX, § 903(f)(3)](https://www.govinfo.gov/link/plaw/104/public/106), title X, § 1040(a)–(d)(1), Feb. 10, 1996, [110 Stat. 402](https://www.govinfo.gov/link/statute/110/402), 433; [Pub. L. 104–201, div. A, title IX, § 901](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2617](https://www.govinfo.gov/link/statute/110/2617); [Pub. L. 113–66, div. A, title VI, § 641](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 787](https://www.govinfo.gov/link/statute/127/787).)*

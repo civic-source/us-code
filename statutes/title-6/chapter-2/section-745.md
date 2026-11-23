@@ -3,9 +3,10 @@ title: "Section 745 - National planning scenarios"
 usc_title: 6
 usc_section: "745"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 745"
-generated_at: "2026-03-30T02:53:09.499Z"
+generated_at: "2026-11-23T20:25:34.866Z"
+status: "active"
 ---
 
 # § 745. National planning scenarios
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:09.499Z"
 - **(b)** In developing, revising, and replacing national planning scenarios, the Administrator shall ensure that the scenarios—
   - **(1)** reflect the relative risk of all hazards and illustrate the potential scope, magnitude, and complexity of a broad range of representative hazards; and
   - **(2)** provide the minimum number of representative scenarios necessary to identify and define the tasks and target capabilities required to respond to all hazards.
+
+## Source Credit
+
+*([Pub. L. 109–295, title VI, § 645](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1425](https://www.govinfo.gov/link/statute/120/1425).)*

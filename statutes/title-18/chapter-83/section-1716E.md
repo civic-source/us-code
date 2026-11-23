@@ -3,9 +3,10 @@ title: "Section 1716E - Tobacco products as nonmailable"
 usc_title: 18
 usc_section: "1716E"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 1716E"
-generated_at: "2026-03-30T02:54:16.490Z"
+generated_at: "2026-11-23T20:26:08.520Z"
+status: "active"
 ---
 
 # § 1716E. Tobacco products as nonmailable
@@ -85,3 +86,95 @@ generated_at: "2026-03-30T02:54:16.490Z"
   - **(4)** The remedies available under this subsection are in addition to any other remedies available under Federal, State, local, tribal, or other law. Nothing in this subsection shall be construed to expand, restrict, or otherwise modify any right of an authorized State, local, or tribal government official to proceed in a State, tribal, or other appropriate court, or take other enforcement actions, on the basis of an alleged violation of State, local, tribal, or other law.
   - **(5)** Nothing in this subsection shall be construed to prohibit an authorized State official from proceeding in State court on the basis of an alleged violation of any general civil or criminal statute of the State.
 - **(i)** In this section, the term “State” has the meaning given that term in section 1716(k).
+
+Prohibition.—
+
+In general
+
+Reasonable cause
+
+Exceptions.—
+
+Cigars
+
+Geographic exception
+
+Business purposes.—
+
+In general
+
+Rules.—
+
+In general
+
+Contents
+
+Definition
+
+Certain individuals.—
+
+In general
+
+Rules.—
+
+In general
+
+Contents
+
+Definition
+
+Exception for mailings for consumer testing by manufacturers.—
+
+In general
+
+Limitations
+
+Rules.—
+
+In general
+
+Contents
+
+(aa) the manufacturer or the legally authorized agent of the manufacturer has verified that the recipient is an adult established smoker;
+
+(bb) the recipient has not made any payment for the cigarettes;
+
+(cc) the recipient has signed a written statement that is in effect indicating that the recipient wishes to receive the mailings; and
+
+(dd) the manufacturer or the legally authorized agent of the manufacturer has offered the opportunity for the recipient to withdraw the written statement described in item (cc) not less frequently than once in every 3-month period;
+
+Definitions
+
+Federal government agencies
+
+Seizure and Forfeiture
+
+Additional Penalties
+
+Criminal Penalty
+
+Use of Penalties
+
+Coordination of Efforts
+
+Actions by State, Local, or Tribal Governments Relating to Certain Tobacco Products.—
+
+In general
+
+Sovereign immunity
+
+Attorney general referral
+
+Nonexclusivity of remedies
+
+Other enforcement actions
+
+Definition
+
+Regulations
+
+Effective Date
+
+## Source Credit
+
+*(Added [Pub. L. 111–154, § 3(a)](https://www.govinfo.gov/link/plaw/111/public/154), Mar. 31, 2010, [124 Stat. 1103](https://www.govinfo.gov/link/statute/124/1103).)*

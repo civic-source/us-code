@@ -3,9 +3,10 @@ title: "Section 7588 - Federal agency fleets"
 usc_title: 42
 usc_section: "7588"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7588"
-generated_at: "2026-03-30T02:56:11.318Z"
+generated_at: "2026-11-23T20:27:22.928Z"
+status: "active"
 ---
 
 # § 7588. Federal agency fleets
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.318Z"
 - **(e)** The requirements of this part shall not apply to vehicles with respect to which the Secretary of Defense has certified to the Administrator that an exemption is needed based on national security consideration.
 - **(f)** Federal agencies, to the extent practicable, shall obtain clean-fuel vehicles from original equipment manufacturers.
 - **(g)** There are authorized to be appropriated such sums as may be required to carry out the provisions of this section: Provided , That such sums as are appropriated for the Administrator of General Services pursuant to the authorization under this section shall be added to the General Supply Fund established in section 321 of title 40 .
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title II, § 248, as added [Pub. L. 101–549, title II, § 229(a)](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2524](https://www.govinfo.gov/link/statute/104/2524).)*

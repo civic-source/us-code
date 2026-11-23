@@ -3,9 +3,10 @@ title: "Section 1925 - Limited period for acquiring insurance"
 usc_title: 38
 usc_section: "1925"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 1925"
-generated_at: "2026-03-30T02:55:53.490Z"
+generated_at: "2026-11-23T20:27:01.741Z"
+status: "active"
 ---
 
 # § 1925. Limited period for acquiring insurance
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:53.490Z"
   - **(3)** Notwithstanding the provisions of section 1982 of this title , the Secretary shall, from time to time, determine the administrative costs to the Government which in the Secretary’s judgment are properly allocable to insurance issued under this section and any total disability income provision attached thereto, and shall transfer from the revolving fund, the amount of such cost allocable to the Department to the appropriations for “General Operating Expenses and Information Technology Systems, Department of Veterans Affairs”, and the remainder of such cost to the general fund receipts in the Treasury. The initial administrative costs of issuing insurance under this section and any total disability income provision attached thereto shall be so transferred over such period of time as the Secretary determines to be reasonable and practicable.
 - **(e)** Notwithstanding the provisions of section 1982 of this title , a medical examination (including any supplemental examination or tests) when required of an applicant for issuance of insurance under this section or any total disability income provisions attached thereto shall be at the applicant’s own expense by a duly licensed physician.
 - **(f)** No insurance shall be granted under this section to any person referred to in section 107 of this title or to any person while on active duty or active duty for training under a call or order to such duty for a period of thirty-one days or more.
+
+## Source Credit
+
+*(Added [Pub. L. 88–664, § 12(a)](https://www.govinfo.gov/link/plaw/88/public/664), Oct. 13, 1964, [78 Stat. 1096](https://www.govinfo.gov/link/statute/78/1096), § 725; amended [Pub. L. 89–40](https://www.govinfo.gov/link/plaw/89/public/40), June 14, 1965, [79 Stat. 130](https://www.govinfo.gov/link/statute/79/130); [Pub. L. 96–128, title III, § 301](https://www.govinfo.gov/link/plaw/96/public/128), Nov. 28, 1979, [93 Stat. 985](https://www.govinfo.gov/link/statute/93/985); [Pub. L. 97–295, § 4(25)](https://www.govinfo.gov/link/plaw/97/public/295), Oct. 12, 1982, [96 Stat. 1306](https://www.govinfo.gov/link/statute/96/1306); [Pub. L. 99–576, title VII, § 701(28)](https://www.govinfo.gov/link/plaw/99/public/576), Oct. 28, 1986, [100 Stat. 3292](https://www.govinfo.gov/link/statute/100/3292); renumbered § 1925 and amended [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(a)(2)(B)(ii), (3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 403–406](https://www.govinfo.gov/link/statute/105/403); [Pub. L. 111–117, div. E, title II, § 225](https://www.govinfo.gov/link/plaw/111/public/117), Dec. 16, 2009, [123 Stat. 3307](https://www.govinfo.gov/link/statute/123/3307).)*

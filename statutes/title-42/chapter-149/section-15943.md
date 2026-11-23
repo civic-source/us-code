@@ -3,9 +3,10 @@ title: "Section 15943 - Certain gathering lines located on Federal land and Indi
 usc_title: 42
 usc_section: "15943"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 15943"
-generated_at: "2026-03-30T02:56:11.465Z"
+generated_at: "2026-11-23T20:27:23.590Z"
+status: "active"
 ---
 
 # § 15943. Certain gathering lines located on Federal land and Indian land
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:56:11.465Z"
     - **(B)** under section 306108 of title 54 ; or
     - **(C)** under any other Federal law (including regulations) relating to Tribal consent for rights-of-way across Indian land; or
   - **(2)** makes the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.) applicable to land to which that Act otherwise would not apply.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. A, title I, § 11318](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 543](https://www.govinfo.gov/link/statute/135/543).)*

@@ -3,9 +3,10 @@ title: "Section 6654 - Payment of expenses of the Chaplain of the Senate from th
 usc_title: 2
 usc_section: "6654"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 6654"
-generated_at: "2026-03-30T02:53:04.844Z"
+generated_at: "2026-11-23T20:25:29.085Z"
+status: "active"
 ---
 
 # § 6654. Payment of expenses of the Chaplain of the Senate from the contingent fund of the Senate
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:04.844Z"
   - **(1)**
   - **(2)** Any funds in the Chaplain Expense Revolving Fund on the date of the repeal under this section shall be remitted to the general fund of the United States Treasury.
 - **(c)** This section shall apply with respect to fiscal year 2004, and each fiscal year thereafter.
+
+## Source Credit
+
+*([Pub. L. 108–199, div. H, § 155](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 450](https://www.govinfo.gov/link/statute/118/450).)*

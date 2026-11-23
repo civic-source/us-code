@@ -3,9 +3,10 @@ title: "Section 1119 - Presumptions of toxic exposure"
 usc_title: 38
 usc_section: "1119"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 1119"
-generated_at: "2026-03-30T02:55:53.477Z"
+generated_at: "2026-11-23T20:27:01.602Z"
+status: "active"
 ---
 
 # § 1119. Presumptions of toxic exposure
@@ -44,3 +45,13 @@ generated_at: "2026-03-30T02:55:53.477Z"
     - **(A)** means any system, program, or pilot program used by the Secretary of Veterans Affairs or the Secretary of Defense to track how veterans or members of the Armed Forces have been exposed to various occupational or environmental hazards; and
     - **(B)** includes the Individual Longitudinal Exposure Record, or successor system.
   - **(3)** The term “toxic exposure risk activity” has the meaning given such term in section 1710(e)(4) of this title .
+
+Consideration of Records
+
+Presumption of Specific Toxic Exposure for Members Who Served in Certain Locations
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 117–168, title III, § 302](https://www.govinfo.gov/link/plaw/117/public/168), Aug. 10, 2022, [136 Stat. 1777](https://www.govinfo.gov/link/statute/136/1777).)*

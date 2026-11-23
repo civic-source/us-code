@@ -3,9 +3,10 @@ title: "Section 17241 - Lightweight materials research and development"
 usc_title: 42
 usc_section: "17241"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17241"
-generated_at: "2026-03-30T02:56:11.503Z"
+generated_at: "2026-11-23T20:27:23.744Z"
+status: "active"
 ---
 
 # § 17241. Lightweight materials research and development
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.503Z"
     - **(A)** lightweight materials (including high-strength steel alloys, aluminum, magnesium, metal composites, and carbon fiber reinforced polymer composites) with the properties required for construction of lighter-weight vehicles; and
     - **(B)** materials processing, automated manufacturing, joining, and recycling lightweight materials for high-volume applications.
 - **(b)** There is authorized to be appropriated to carry out this section $80,000,000 for the period of fiscal years 2008 through 2012.
+
+## Source Credit
+
+*([Pub. L. 110–140, title VI, § 651](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1694](https://www.govinfo.gov/link/statute/121/1694).)*

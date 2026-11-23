@@ -3,9 +3,10 @@ title: "Section 204 - Entitlement"
 usc_title: 37
 usc_section: "204"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "37 U.S.C. § 204"
-generated_at: "2026-03-30T02:55:44.049Z"
+generated_at: "2026-11-23T20:26:57.308Z"
+status: "active"
 ---
 
 # § 204. Entitlement
@@ -51,3 +52,64 @@ generated_at: "2026-03-30T02:55:44.049Z"
     - **(A)** by the Secretary of Defense for the armed forces under the jurisdiction of the Secretary; and
     - **(B)** by the Secretary of Homeland Security for the Coast Guard when the Coast Guard is not operating as a service in the Navy.
 - **(j)** A member of the uniformed services who is entitled to medical or dental care under section 1074a of title 10 is entitled to travel and transportation allowances, or a monetary allowance in place thereof, for necessary travel incident to such care, and return to his home upon discharge from treatment.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 204(a) 204(b) 204(c) 204(d) 204(e) | 37:232(d) (1st sentence, less provisos). 37:232(d) (1st proviso of 1st sentence). 37:232(d) (2d proviso of 1st sentence). 37:232(d) (last proviso of 1st sentence). 37:232(d) (less 1st sentence). | Oct. 12, 1949, ch. 681, § 201(d) , 63 Stat. 807 ; redesignated as “(d)” by Mar. 31, 1955, ch. 20, § 2(2) , 69 Stat. 19 ; Aug. 10, 1956, ch. 1041, § 20(a) , 70A Stat. 627 ; May 20, 1958 , Pub. L. 85–422, § 1(4) , 72 Stat. 124 . |
+| 204(f) | 37:308a. | Dec. 20, 1886, ch. 2 , 24 Stat. 351 ; June 2, 1950, ch. 217, § 2 , 64 Stat. 195 . |
+| 204(g) | 10:3687 (as applicable to pay and allowances). | [None.] |
+|  | 10:8687 (as applicable to pay and allowances). | [None.] |
+| 204(h) | 32:318 (as applicable to pay and allowances). | [None.] |
+| 204(i) | 10:6148(a) (as applicable to pay and allowances). | [None.] |
+|  | 10:6148(b) (as applicable to pay and allowances). | [None.] |
+
+
+Historical and Revision Notes
+
+204(a)
+
+204(b)
+
+204(c)
+
+204(d)
+
+204(e)
+
+Oct. 12, 1949, ch. 681, § 201(d)
+
+63 Stat. 807
+
+Mar. 31, 1955, ch. 20, § 2(2)
+
+69 Stat. 19
+
+Aug. 10, 1956, ch. 1041, § 20(a)
+
+70A Stat. 627
+
+May 20, 1958
+
+Pub. L. 85–422, § 1(4)
+
+72 Stat. 124
+
+204(f)
+
+Dec. 20, 1886, ch. 2
+
+24 Stat. 351
+
+June 2, 1950, ch. 217, § 2
+
+64 Stat. 195
+
+204(g)
+
+204(h)
+
+204(i)
+
+## Source Credit
+
+*([Pub. L. 87–649](https://www.govinfo.gov/link/plaw/87/public/649), Sept. 7, 1962, [76 Stat. 457](https://www.govinfo.gov/link/statute/76/457); [Pub. L. 96–513, title V, § 506(4)](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2919](https://www.govinfo.gov/link/statute/94/2919); [Pub. L. 98–94, title X, § 1012(b)](https://www.govinfo.gov/link/plaw/98/public/94), Sept. 24, 1983, [97 Stat. 665](https://www.govinfo.gov/link/statute/97/665); [Pub. L. 99–433, title V, § 531(b)](https://www.govinfo.gov/link/plaw/99/public/433), Oct. 1, 1986, [100 Stat. 1063](https://www.govinfo.gov/link/statute/100/1063); [Pub. L. 99–661, div. A, title VI, § 604(b)](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 3875](https://www.govinfo.gov/link/statute/100/3875); [Pub. L. 100–456, div. A, title VI, § 631(a)](https://www.govinfo.gov/link/plaw/100/public/456), (b), Sept. 29, 1988, [102 Stat. 1984](https://www.govinfo.gov/link/statute/102/1984), 1985; [Pub. L. 102–25, title VII, § 701(b)(1)](https://www.govinfo.gov/link/plaw/102/public/25), (c), Apr. 6, 1991, [105 Stat. 117](https://www.govinfo.gov/link/statute/105/117); [Pub. L. 103–337, div. A, title XVI, § 1676(b)(1)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 3019](https://www.govinfo.gov/link/statute/108/3019); [Pub. L. 104–106, div. A, title VII, § 702(c)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 371](https://www.govinfo.gov/link/statute/110/371); [Pub. L. 105–85, div. A, title V, § 513(f)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1732](https://www.govinfo.gov/link/statute/111/1732); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title VI, § 665(a)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–168; [Pub. L. 107–107, div. A, title V, § 513(d)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1093](https://www.govinfo.gov/link/statute/115/1093); [Pub. L. 107–296, title XVII, § 1704(c)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314); [Pub. L. 113–66, div. A, title VI, § 602](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 779](https://www.govinfo.gov/link/statute/127/779); [Pub. L. 119–60, div. A, title VI, § 601(b)(2)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 901](https://www.govinfo.gov/link/statute/139/901).)*

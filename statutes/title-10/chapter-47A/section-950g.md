@@ -3,9 +3,10 @@ title: "Section 950g - Review by United States Court of Appeals for the District
 usc_title: 10
 usc_section: "950g"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 950g"
-generated_at: "2026-03-30T02:53:38.091Z"
+generated_at: "2026-11-23T20:25:51.155Z"
+status: "active"
 ---
 
 # § 950g. Review by United States Court of Appeals for the District of Columbia Circuit; writ of certiorari to Supreme Court
@@ -17,3 +18,17 @@ generated_at: "2026-03-30T02:53:38.091Z"
   - **(2)** if the accused submits, in the form prescribed by section 950c of this title , a written notice waiving the right of the accused to review by the United States Court of Military Commission Review, not later than 20 days after the date on which such notice is submitted.
 - **(d)** The United States Court of Appeals for the District of Columbia Circuit may act under this section only with respect to the findings and sentence as approved by the convening authority and as affirmed or set aside as incorrect in law by the United States Court of Military Commission Review, and shall take action only with respect to matters of law, including the sufficiency of the evidence to support the verdict.
 - **(e)** The Supreme Court may review by writ of certiorari pursuant to section 1254 of title 28 the final judgment of the United States Court of Appeals for the District of Columbia Circuit under this section.
+
+Exclusive Appellate Jurisdiction
+
+Exhaustion of Other Appeals
+
+Time for Seeking Review
+
+Scope and Nature of Review
+
+Review by Supreme Court
+
+## Source Credit
+
+*(Added [Pub. L. 111–84, div. A, title XVIII, § 1802](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2603](https://www.govinfo.gov/link/statute/123/2603); amended [Pub. L. 112–81, div. A, title X, § 1034(d)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1573](https://www.govinfo.gov/link/statute/125/1573).)*

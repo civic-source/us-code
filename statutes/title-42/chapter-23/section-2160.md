@@ -3,9 +3,10 @@ title: "Section 2160 - Subsequent arrangements"
 usc_title: 42
 usc_section: "2160"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2160"
-generated_at: "2026-03-30T02:56:11.152Z"
+generated_at: "2026-11-23T20:27:22.080Z"
+status: "active"
 ---
 
 # § 2160. Subsequent arrangements
@@ -38,3 +39,19 @@ generated_at: "2026-03-30T02:56:11.152Z"
   - **(2)** Paragraph (1) shall not apply to the storage or other disposition in the United States of limited quantities of foreign spent nuclear fuel if the President determines that (A) a commitment under section 2074 or 2075 of this title of the United States for storage or other disposition of such limited quantities in the United States is required by an emergency situation, (B) it is in the national interest to take such immediate action, and (C) he notifies the Committees on Foreign Affairs and Science, Space, and Technology of the House of Representatives and the Committees on Foreign Relations and Energy and Natural Resources of the Senate of the determination and action, with a detailed explanation and justification thereof, as soon as possible.
   - **(3)** Any plan submitted by the President under paragraph (1) shall include a detailed discussion, with detailed information, and any supporting documentation thereof, relating to policy objectives, technical description, geographic information, cost data and justifications, legal and regulatory considerations, environmental impact information and any related international agreements, arrangements or understandings.
   - **(4)** For the purposes of this subsection, the term “foreign spent nuclear fuel” shall include any nuclear fuel irradiated in any nuclear power reactor located outside of the United States and operated by any foreign legal entity, government or nongovernment, regardless of the legal ownership or other control of the fuel or reactor and regardless of the origin or licensing of the fuel or reactor, but not including fuel irradiated in a research reactor.
+
+Purpose
+
+Receipt in Emergency Circumstances
+
+Limitation on Storage in Non-emergency Circumstances
+
+Limitations on Receipt
+
+Criteria for Port of Entry
+
+Definition
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 131, as added [Pub. L. 95–242, title III, § 303(a)](https://www.govinfo.gov/link/plaw/95/public/242), Mar. 10, 1978, [92 Stat. 127](https://www.govinfo.gov/link/statute/92/127); renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944); amended [Pub. L. 103–437, § 15(f)(6)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4592](https://www.govinfo.gov/link/statute/108/4592); [Pub. L. 105–277, div. G, title XII, § 1225(d)(6)](https://www.govinfo.gov/link/plaw/105/public/277), (7), Oct. 21, 1998, [112 Stat. 2681–774](https://www.govinfo.gov/link/statute/112/2681).)*

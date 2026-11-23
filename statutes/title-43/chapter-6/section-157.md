@@ -3,9 +3,10 @@ title: "Section 157 - Application for withdrawal, reservation, or restriction; s
 usc_title: 43
 usc_section: "157"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 157"
-generated_at: "2026-03-30T02:55:57.435Z"
+generated_at: "2026-11-23T20:27:06.172Z"
+status: "active"
 ---
 
 # § 157. Application for withdrawal, reservation, or restriction; specifications
@@ -20,3 +21,7 @@ Any application filed on and after February 28, 1958 for a withdrawal, reservati
   - **(6)** the period during which the proposed withdrawal, reservation, or restriction will continue in effect;
   - **(7)** whether, and if so to what extent, the proposed use will affect continuing full operation of the public land laws and Federal regulations relating to conservation, utilization, and development of mineral resources, timber and other material resources, grazing resources, fish and wildlife resources, water resources, and scenic, wilderness, and recreation and other values; and
   - **(8)** if effecting the purpose for which the area is proposed to be withdrawn, reserved, or restricted, will involve the use of water in any State, whether, subject to existing rights under law, the intended using agency has acquired, or proposes to acquire, rights to the use thereof in conformity with State laws and procedures relating to the control, appropriation, use, and distribution of water.
+
+## Source Credit
+
+*([Pub. L. 85–337, § 3](https://www.govinfo.gov/link/plaw/85/public/337), Feb. 28, 1958, [72 Stat. 28](https://www.govinfo.gov/link/statute/72/28).)*

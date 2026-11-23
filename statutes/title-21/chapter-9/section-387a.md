@@ -3,9 +3,10 @@ title: "Section 387a - FDA authority over tobacco products"
 usc_title: 21
 usc_section: "387a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 387a"
-generated_at: "2026-03-30T02:54:54.279Z"
+generated_at: "2026-11-23T20:26:27.766Z"
+status: "active"
 ---
 
 # § 387a. FDA authority over tobacco products
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:54.279Z"
 - **(e)** Not later than 90 days after June 22, 2009 , the Secretary shall establish within the Food and Drug Administration the Center for Tobacco Products, which shall report to the Commissioner of Food and Drugs in the same manner as the other agency centers within the Food and Drug Administration. The Center shall be responsible for the implementation of this subchapter and related matters assigned by the Commissioner.
 - **(f)** The Secretary shall establish within the Food and Drug Administration an identifiable office to provide technical and other nonfinancial assistance to small tobacco product manufacturers to assist them in complying with the requirements of this chapter.
 - **(g)** Prior to promulgating rules under this subchapter, the Secretary shall endeavor to consult with other Federal agencies as appropriate.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 901, as added [Pub. L. 111–31, div. A, title I, § 101(b)(3)](https://www.govinfo.gov/link/plaw/111/public/31), June 22, 2009, [123 Stat. 1786](https://www.govinfo.gov/link/statute/123/1786); amended [Pub. L. 117–103, div. P, title I, § 111(b)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 789](https://www.govinfo.gov/link/statute/136/789).)*

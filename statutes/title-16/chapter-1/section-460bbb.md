@@ -3,9 +3,10 @@ title: "Section 460bbb - Findings"
 usc_title: 16
 usc_section: "460bbb"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 460bbb"
-generated_at: "2026-03-30T02:54:22.835Z"
+generated_at: "2026-11-23T20:26:19.998Z"
+status: "active"
 ---
 
 # § 460bbb. Findings
@@ -17,3 +18,7 @@ The Congress finds that—
   - **(3)** the Smith River watershed’s scenic beauty, renowned anadromous fisheries, exceptional water quality, and abundant wildlife combine with its ready accessibility to offer exceptional opportunities for a wide range of recreational activities, including wilderness, water sports, fishing, hunting, camping, and sightseeing;
   - **(4)** careful development and utilization at mutually compatible levels of recreation, fisheries, and timber resources on public lands will ensure the continuation of the Smith River watershed’s historic role as a significant contributor to the region’s local economy; and
   - **(5)** protection of the Smith River’s unique values can be enhanced by a cooperative effort by Federal, State and local governments to coordinate land-use planning, management, and development of Federal and non-Federal lands throughout the watershed.
+
+## Source Credit
+
+*([Pub. L. 101–612, § 2](https://www.govinfo.gov/link/plaw/101/public/612), Nov. 16, 1990, [104 Stat. 3209](https://www.govinfo.gov/link/statute/104/3209).)*

@@ -3,9 +3,10 @@ title: "Section 2713 - Civil penalties"
 usc_title: 25
 usc_section: "2713"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 2713"
-generated_at: "2026-03-30T02:54:52.843Z"
+generated_at: "2026-11-23T20:26:25.608Z"
+status: "active"
 ---
 
 # § 2713. Civil penalties
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:52.843Z"
   - **(2)** Not later than thirty days after the issuance by the Chairman of an order of temporary closure, the Indian tribe or management contractor involved shall have a right to a hearing before the Commission to determine whether such order should be made permanent or dissolved. Not later than sixty days following such hearing, the Commission shall, by a vote of not less than two of its members, decide whether to order a permanent closure of the gaming operation.
 - **(c)** A decision of the Commission to give final approval of a fine levied by the Chairman or to order a permanent closure pursuant to this section shall be appealable to the appropriate Federal district court pursuant to chapter 7 of title 5.
 - **(d)** Nothing in this chapter precludes an Indian tribe from exercising regulatory authority provided under tribal law over a gaming establishment within the Indian tribe’s jurisdiction if such regulation is not inconsistent with this chapter or with any rules or regulations adopted by the Commission.
+
+## Source Credit
+
+*([Pub. L. 100–497, § 14](https://www.govinfo.gov/link/plaw/100/public/497), Oct. 17, 1988, [102 Stat. 2482](https://www.govinfo.gov/link/statute/102/2482).)*

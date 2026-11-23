@@ -3,9 +3,10 @@ title: "Section 2370a - Expropriation of United States property"
 usc_title: 22
 usc_section: "2370a"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2370a"
-generated_at: "2026-03-30T02:55:05.361Z"
+generated_at: "2026-11-23T20:26:32.265Z"
+status: "active"
 ---
 
 # § 2370a. Expropriation of United States property
@@ -43,3 +44,11 @@ generated_at: "2026-03-30T02:55:05.361Z"
       - **(i)** the headquarters of the United States Department of State in Washington, D.C.; or
       - **(ii)** the Embassy of the United States of America to Nicaragua.
   - **(3)** The date to which paragraph (2) refers is a date after December 8, 2004 , that is specified by the Secretary of State, in the Secretary’s discretion, in a notice published in the Federal Register.
+
+William J. Clinton.
+
+William J. Clinton.
+
+## Source Credit
+
+*([Pub. L. 103–236, title V, § 527](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 475](https://www.govinfo.gov/link/statute/108/475); [Pub. L. 108–447, div. D, title V, § 584(c)](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3032](https://www.govinfo.gov/link/statute/118/3032).)*

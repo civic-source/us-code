@@ -3,9 +3,10 @@ title: "Section 1813 - Definitions"
 usc_title: 12
 usc_section: "1813"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1813"
-generated_at: "2026-03-30T02:53:53.444Z"
+generated_at: "2026-11-23T20:25:59.097Z"
+status: "active"
 ---
 
 # § 1813. Definitions
@@ -135,3 +136,19 @@ As used in this chapter—
   - **(2)** The term “designated reserve ratio” means the reserve ratio designated by the Board of Directors in accordance with section 1817(b)(3) of this title .
   - **(3)** The term “reserve ratio”, when used with regard to the Deposit Insurance Fund other than in connection with a reference to the designated reserve ratio, means the ratio of the net worth of the Deposit Insurance Fund to the value of the aggregate estimated insured deposits, or such comparable percentage of the assessment base set forth in section 1817(b)(2)(C) 2 2 See References in Text note below. of this title.
 - **(z)** The term “Federal banking agency” means the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, or the Federal Deposit Insurance Corporation.
+
+In general
+
+Uninsured deposits
+
+Preferred deposits
+
+New bank
+
+Bridge bank
+
+Federal Banking Agencies
+
+## Source Credit
+
+*(Sept. 21, 1950, ch. 967, § 2 [3], [64 Stat. 873](https://www.govinfo.gov/link/statute/64/873); July 14, 1952, ch. 725, [66 Stat. 605](https://www.govinfo.gov/link/statute/66/605); Aug. 1, 1956, ch. 852, § 3, [70 Stat. 908](https://www.govinfo.gov/link/statute/70/908); [Pub. L. 86–671, § 1](https://www.govinfo.gov/link/plaw/86/public/671), July 14, 1960, [74 Stat. 546](https://www.govinfo.gov/link/statute/74/546); [Pub. L. 89–695, title II, § 201](https://www.govinfo.gov/link/plaw/89/public/695), title III, §§ 301(a), 303(a), Oct. 16, 1966, [80 Stat. 1046](https://www.govinfo.gov/link/statute/80/1046), 1055, 1056; [Pub. L. 91–151, § 7(a)(1)](https://www.govinfo.gov/link/plaw/91/public/151), Dec. 23, 1969, [83 Stat. 375](https://www.govinfo.gov/link/statute/83/375); [Pub. L. 91–609, title IX, § 910(a)](https://www.govinfo.gov/link/plaw/91/public/609) –(f), Dec. 31, 1970, [84 Stat. 1811](https://www.govinfo.gov/link/statute/84/1811), 1812; [Pub. L. 93–495, title I](https://www.govinfo.gov/link/plaw/93/public/495), §§ 101(a)(1), 102(a)(1), Oct. 28, 1974, [88 Stat. 1500](https://www.govinfo.gov/link/statute/88/1500), 1502; [Pub. L. 95–369, § 6(c)(2)](https://www.govinfo.gov/link/plaw/95/public/369) –(6), Sept. 17, 1978, [92 Stat. 614](https://www.govinfo.gov/link/statute/92/614), 615; [Pub. L. 95–630, title III, § 301(a)](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3675](https://www.govinfo.gov/link/statute/92/3675); [Pub. L. 96–221, title III, § 308(a)(1)(A)](https://www.govinfo.gov/link/plaw/96/public/221), Mar. 31, 1980, [94 Stat. 147](https://www.govinfo.gov/link/statute/94/147); [Pub. L. 97–110, title I](https://www.govinfo.gov/link/plaw/97/public/110), §§ 102, 103(a), Dec. 26, 1981, [95 Stat. 1513](https://www.govinfo.gov/link/statute/95/1513); [Pub. L. 97–320, title I, § 113(a)](https://www.govinfo.gov/link/plaw/97/public/320), (b), title VII, § 703(a), (b), Oct. 15, 1982, [96 Stat. 1473](https://www.govinfo.gov/link/statute/96/1473), 1538, 1539; [Pub. L. 100–86, title I, § 101(g)(1)](https://www.govinfo.gov/link/plaw/100/public/86), title V, § 503(b), Aug. 10, 1987, [101 Stat. 563](https://www.govinfo.gov/link/statute/101/563), 632; [Pub. L. 101–73, title II](https://www.govinfo.gov/link/plaw/101/public/73), §§ 201(a), 204, Aug. 9, 1989, [103 Stat. 187](https://www.govinfo.gov/link/statute/103/187), 190; [Pub. L. 102–242, title I](https://www.govinfo.gov/link/plaw/102/public/242), §§ 111(e), 112(b), 131(c)(3), 141(f), 161(c), title III, §§ 305(c), 311(b)(5)(A), Dec. 19, 1991, [105 Stat. 2242](https://www.govinfo.gov/link/statute/105/2242), 2266, 2278, 2286, 2355, 2366; [Pub. L. 102–550, title XVI](https://www.govinfo.gov/link/plaw/102/public/550), §§ 1603(b)(2)(B), (d)(5), 1606(g)(2), Oct. 28, 1992, [106 Stat. 4079](https://www.govinfo.gov/link/statute/106/4079), 4080, 4089; [Pub. L. 103–204, § 19(b)](https://www.govinfo.gov/link/plaw/103/public/204), Dec. 17, 1993, [107 Stat. 2404](https://www.govinfo.gov/link/statute/107/2404); [Pub. L. 103–325, title III, § 326(b)(2)](https://www.govinfo.gov/link/plaw/103/public/325), title VI, § 602(a)(1), Sept. 23, 1994, [108 Stat. 2229](https://www.govinfo.gov/link/statute/108/2229), 2288; [Pub. L. 104–208, div. A, title II](https://www.govinfo.gov/link/plaw/104/public/208), §§ 2205(b), 2614(a), 2704(d)(6)(A), (14)(A), Sept. 30, 1996, [110 Stat. 3009–405](https://www.govinfo.gov/link/statute/110/3009), 3009–478, 3009–488, 3009–490; [Pub. L. 108–386, § 8(a)(1)](https://www.govinfo.gov/link/plaw/108/public/386), Oct. 30, 2004, [118 Stat. 2231](https://www.govinfo.gov/link/statute/118/2231); [Pub. L. 109–171, title II](https://www.govinfo.gov/link/plaw/109/public/171), §§ 2102(b), 2107(b), Feb. 8, 2006, [120 Stat. 9](https://www.govinfo.gov/link/statute/120/9), 19; [Pub. L. 109–173](https://www.govinfo.gov/link/plaw/109/public/173), §§ 4(a), 8(a)(1), Feb. 15, 2006, [119 Stat. 3606](https://www.govinfo.gov/link/statute/119/3606), 3610; [Pub. L. 109–351, title VII, § 725(d)](https://www.govinfo.gov/link/plaw/109/public/351), Oct. 13, 2006, [120 Stat. 2002](https://www.govinfo.gov/link/statute/120/2002); [Pub. L. 109–356, title I, § 123(d)](https://www.govinfo.gov/link/plaw/109/public/356), Oct. 16, 2006, [120 Stat. 2029](https://www.govinfo.gov/link/statute/120/2029); [Pub. L. 110–289, div. A, title VI, § 1604(b)(1)(A)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2829](https://www.govinfo.gov/link/statute/122/2829); [Pub. L. 111–203, title III](https://www.govinfo.gov/link/plaw/111/public/203), §§ 312(c), 334(b), 363(1), July 21, 2010, [124 Stat. 1522](https://www.govinfo.gov/link/statute/124/1522), 1539, 1550.)*

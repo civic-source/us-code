@@ -3,9 +3,10 @@ title: "Section 5873 - Report to Congress"
 usc_title: 22
 usc_section: "5873"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 5873"
-generated_at: "2026-03-30T02:55:05.421Z"
+generated_at: "2026-11-23T20:26:32.581Z"
+status: "active"
 ---
 
 # § 5873. Report to Congress
@@ -18,3 +19,7 @@ Within one year after October 24, 1992 , the President shall submit to the desig
   - **(4)** the trade missions carried out pursuant to section 5872(a) of this title , including the private participation in and the results of such missions;
   - **(5)** any barriers, regulatory or practical, that inhibit space-related trade between the United States and independent states, including any such barriers in either the United States or the independent states; and
   - **(6)** any anticompetitive issues raised during the course of negotiations, as observed pursuant to section 5872(b) of this title .
+
+## Source Credit
+
+*([Pub. L. 102–511, title VI, § 603](https://www.govinfo.gov/link/plaw/102/public/511), Oct. 24, 1992, [106 Stat. 3347](https://www.govinfo.gov/link/statute/106/3347).)*

@@ -3,9 +3,10 @@ title: "Section 1002 - Findings and declarations"
 usc_title: 5
 usc_section: "1002"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 1002"
-generated_at: "2026-03-30T02:52:55.992Z"
+generated_at: "2026-11-23T20:25:31.758Z"
+status: "active"
 ---
 
 # § 1002. Findings and declarations
@@ -18,3 +19,42 @@ generated_at: "2026-03-30T02:52:55.992Z"
   - **(4)** standards and uniform procedures should govern the establishment, operation, administration, and duration of advisory committees;
   - **(5)** Congress and the public should be kept informed with respect to the number, purpose, membership, activities, and cost of advisory committees; and
   - **(6)** the function of advisory committees should be advisory only, and all matters under their consideration should be determined, in accordance with law, by the official, agency, or officer involved.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1002 | 5 U.S.C. App. (FACA § 2) | Pub. L. 92–463, § 2 , Oct. 6, 1972 , 86 Stat. 770 . |
+
+
+Findings
+
+Findings and Declarations
+
+Historical and Revision Notes
+
+1002
+
+Pub. L. 92–463, § 2
+
+Oct. 6, 1972
+
+86 Stat. 770
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Jimmy Carter.
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 117–286, § 3(a)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4198](https://www.govinfo.gov/link/statute/136/4198).)*

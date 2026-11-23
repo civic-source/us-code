@@ -3,9 +3,10 @@ title: "Section 1705 - Development, submission, implementation, and assessment o
 usc_title: 21
 usc_section: "1705"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 1705"
-generated_at: "2026-03-30T02:54:54.305Z"
+generated_at: "2026-11-23T20:26:27.890Z"
+status: "active"
 ---
 
 # § 1705. Development, submission, implementation, and assessment of National Drug Control Strategy
@@ -158,3 +159,7 @@ generated_at: "2026-03-30T02:54:54.305Z"
     - **(D)** the actions the Director shall take to correct any deficiencies and limitations identified pursuant to subparagraphs (A) and (B) of this subsection; and
   - **(7)** develops performance measures and targets for the National Drug Control Strategy for supplemental strategies (the Southwest Border, Northern Border, and Caribbean Border Counternarcotics Strategies) to effectively evaluate region-specific goals, to the extent the performance measurement system does not adequately measure the effectiveness of the strategies, as determined by the Director, such strategies may evaluate interdiction efforts at and between ports of entry, interdiction technology, intelligence sharing, diplomacy, and other appropriate metrics, specific to each supplemental strategies region, as determined by the Director.
 - **(i)** A description of any modifications made during the preceding year to the national drug performance measurement system described in subsection (c) 4 4 Probably should be “(h)”. shall be included in each report submitted under subsection (b). 5 5 Probably should be “(d)”.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. C, title VII](https://www.govinfo.gov/link/plaw/105/public/277), §§ 706, 715, Oct. 21, 1998, [112 Stat. 2681–681](https://www.govinfo.gov/link/statute/112/2681), 2681–693; [Pub. L. 109–469, title II](https://www.govinfo.gov/link/plaw/109/public/469), §§ 201, 202, title VI, § 602, Dec. 29, 2006, [120 Stat. 3513](https://www.govinfo.gov/link/statute/120/3513), 3517, 3533; [Pub. L. 115–271, title VIII](https://www.govinfo.gov/link/plaw/115/public/271), §§ 8202(a), (b)(2), 8221(a), Oct. 24, 2018, [132 Stat. 4110](https://www.govinfo.gov/link/statute/132/4110), 4134; [Pub. L. 116–74, § 2(a)(1)](https://www.govinfo.gov/link/plaw/116/public/74), (2), (c)(1)(B), (d), Nov. 27, 2019, [133 Stat. 1155](https://www.govinfo.gov/link/statute/133/1155), 1158; [Pub. L. 117–263, div. E, title LIII, § 5302](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3249](https://www.govinfo.gov/link/statute/136/3249).)*

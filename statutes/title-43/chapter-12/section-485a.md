@@ -3,9 +3,10 @@ title: "Section 485a - Definitions"
 usc_title: 43
 usc_section: "485a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 485a"
-generated_at: "2026-03-30T02:55:57.451Z"
+generated_at: "2026-11-23T20:27:06.217Z"
+status: "active"
 ---
 
 # § 485a. Definitions
@@ -22,3 +23,7 @@ As used in this subchapter—
 - **(h)** The term “division of a project” shall mean any part of a project designated as a division by order of the Secretary or any phase or feature of project operations given a separate designation as a division by order of the Secretary for the purposes of orderly and efficient administration.
 - **(i)** The term “development unit” shall mean a part of a project which, for purposes of orderly engineering or reclamation development, is designated as a development unit by order of the Secretary.
 - **(j)** The term “irrigation block” shall mean an area of arid or semiarid lands in a project in which, in the judgment of the Secretary, the irrigable lands should be reclaimed and put under irrigation at substantially the same time, and which is designated as an irrigation block by order of the Secretary.
+
+## Source Credit
+
+*(Aug. 4, 1939, ch. 418, § 2, [53 Stat. 1187](https://www.govinfo.gov/link/statute/53/1187); [Pub. L. 85–611, § 3](https://www.govinfo.gov/link/plaw/85/public/611), Aug. 8, 1958, [72 Stat. 543](https://www.govinfo.gov/link/statute/72/543).)*

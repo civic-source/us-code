@@ -3,9 +3,10 @@ title: "Section 9102 - Definitions"
 usc_title: 42
 usc_section: "9102"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9102"
-generated_at: "2026-03-30T02:56:11.349Z"
+generated_at: "2026-11-23T20:27:23.071Z"
+status: "active"
 ---
 
 # § 9102. Definitions
@@ -30,3 +31,7 @@ As used in this chapter, unless the context otherwise requires, the term—
   - **(16)** “test platform” means any floating or moored platform, barge, ship, or other vessel which is designed for limited-scale, at sea operation in order to test or evaluate the operation of components or all of an ocean thermal energy conversion system and which will not operate as an ocean thermal energy conversion facility or plantship after the conclusion of such tests or evaluation;
   - **(17)** “thermal plume” means the area of the ocean in which a significant difference in temperature, as defined in regulations by the Administrator, occurs as a result of the operation of an ocean thermal energy conversion facility or plantship; and
   - **(18)** “United States citizen” means (A) any individual who is a citizen of the United States by law, birth, or naturalization; (B) any Federal, State, or local government in the United States, or any entity of any such government; or (C) any corporation, partnership, association, or other entity, organized or existing under the laws of the United States, or of any State, which has as its president or other executive officer and as its chairman of the board of directors, or holder of similar office, an individual who is a United States citizen and which has no more of its directors who are not United States citizens than constitute a minority of the number required for a quorum necessary to conduct the business of the board.
+
+## Source Credit
+
+*([Pub. L. 96–320, § 3](https://www.govinfo.gov/link/plaw/96/public/320), Aug. 3, 1980, [94 Stat. 975](https://www.govinfo.gov/link/statute/94/975); [Pub. L. 98–623, title VI, § 602(a)(2)](https://www.govinfo.gov/link/plaw/98/public/623), (e)(7), Nov. 8, 1984, [98 Stat. 3410](https://www.govinfo.gov/link/statute/98/3410), 3412.)*

@@ -3,9 +3,10 @@ title: "Section 7633 - Assistance to combat malaria"
 usc_title: 22
 usc_section: "7633"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7633"
-generated_at: "2026-03-30T02:55:05.443Z"
+generated_at: "2026-11-23T20:26:32.675Z"
+status: "active"
 ---
 
 # § 7633. Assistance to combat malaria
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:55:05.443Z"
     - **(B)** the needs of that population;
     - **(C)** the country’s existing infrastructure; and
     - **(D)** the ability to closely coordinate United States Government efforts with national malaria control plans of partner countries.
+
+## Source Credit
+
+*([Pub. L. 108–25, title III, § 303](https://www.govinfo.gov/link/plaw/108/public/25), May 27, 2003, [117 Stat. 736](https://www.govinfo.gov/link/statute/117/736); [Pub. L. 110–293, title III, § 303(b)](https://www.govinfo.gov/link/plaw/110/public/293), July 30, 2008, [122 Stat. 2960](https://www.govinfo.gov/link/statute/122/2960).)*

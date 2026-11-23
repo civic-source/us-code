@@ -3,9 +3,10 @@ title: "Section 4605 - Board of Directors"
 usc_title: 22
 usc_section: "4605"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4605"
-generated_at: "2026-03-30T02:55:05.412Z"
+generated_at: "2026-11-23T20:26:32.541Z"
+status: "active"
 ---
 
 # § 4605. Board of Directors
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:55:05.412Z"
   - **(3)** All meetings of the Board shall be open to public observation and shall be preceded by reasonable public notice. Notice in the Federal Register shall be deemed to be reasonable public notice for purposes of the preceding sentence. In exceptional circumstances, the Board may close those portions of a meeting, upon a majority vote of its members present and with the vote taken in public session, which are likely to disclose information likely to affect adversely any ongoing peace proceeding or activity or to disclose information or matters exempted from public disclosure pursuant to subsection (c) of section 552b of title 5 .
 - **(i)** A director appointed by the President under subsection (b)(4) shall be entitled to receive the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule under section 5332 of title 5 for each day during which the director is engaged in the performance of duties as a member of the Board.
 - **(j)** While away from his home or regular place of business in the performance of duties for the Institute, a director shall be allowed travel expenses, including a per diem in lieu of subsistence, not to exceed the expenses allowed persons employed intermittently in Government service under section 5703(b) 1 1 See References in Text note below. of title 5.
+
+## Source Credit
+
+*([Pub. L. 98–525, title XVII, § 1706](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2654](https://www.govinfo.gov/link/statute/98/2654); [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XII, § 1225(c)(1), Oct. 21, 1998, [112 Stat. 2681–773](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 110–315, title IX, § 921(b)(1)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3456](https://www.govinfo.gov/link/statute/122/3456).)*

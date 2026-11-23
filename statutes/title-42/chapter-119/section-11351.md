@@ -3,9 +3,10 @@ title: "Section 11351 - Definitions"
 usc_title: 42
 usc_section: "11351"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11351"
-generated_at: "2026-03-30T02:56:11.397Z"
+generated_at: "2026-11-23T20:27:23.288Z"
+status: "active"
 ---
 
 # § 11351. Definitions
@@ -23,3 +24,7 @@ For purposes of this subchapter:
     - **(C)** that has an accounting system, or has designated a fiscal agent in accordance with requirements established by the Director; and
     - **(D)** that practices nondiscrimination in the provision of assistance.
   - **(7)** The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
+
+## Source Credit
+
+*([Pub. L. 100–77, title III, § 321](https://www.govinfo.gov/link/plaw/100/public/77), July 22, 1987, [101 Stat. 493](https://www.govinfo.gov/link/statute/101/493); [Pub. L. 109–295, title VI, § 612(c)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1410](https://www.govinfo.gov/link/statute/120/1410).)*

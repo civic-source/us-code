@@ -3,9 +3,10 @@ title: "Section 3202 - Education partnerships"
 usc_title: 50
 usc_section: "3202"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3202"
-generated_at: "2026-03-30T02:56:26.238Z"
+generated_at: "2026-11-23T20:27:30.937Z"
+status: "active"
 ---
 
 # § 3202. Education partnerships
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:26.238Z"
   - **(5)** Cooperation with the educational institution in developing a program under which students receive academic credit at the educational institution for work on research projects of the element of the intelligence community.
   - **(6)** The provision of academic and career advice and assistance to students of the educational institution.
   - **(7)** The provision of cash awards and other items that the head of the element of the intelligence community considers appropriate.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title X, § 1012, as added [Pub. L. 108–487, title VI, § 612(a)(2)](https://www.govinfo.gov/link/plaw/108/public/487), Dec. 23, 2004, [118 Stat. 3956](https://www.govinfo.gov/link/statute/118/3956).)*

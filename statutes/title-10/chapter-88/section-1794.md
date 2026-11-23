@@ -3,9 +3,10 @@ title: "Section 1794 - Child abuse prevention and safety at facilities"
 usc_title: 10
 usc_section: "1794"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1794"
-generated_at: "2026-03-30T02:53:38.138Z"
+generated_at: "2026-11-23T20:25:51.429Z"
+status: "active"
 ---
 
 # § 1794. Child abuse prevention and safety at facilities
@@ -26,3 +27,21 @@ generated_at: "2026-03-30T02:53:38.138Z"
   - **(1)** The Secretary of Defense shall prescribe regulations that require the director of a military child development center to notify a parent or guardian of a child who is the suspected victim of a covered incident not later than 24 hours after a child care employee at such military child development center learns of such covered incident.
   - **(2)** The requirement under paragraph (1) shall not apply if notification under such paragraph threatens the integrity of a law enforcement investigation of such covered incident.
   - **(3)** In this subsection, the term “covered incident” means alleged or suspected abuse or neglect of a child that occurs at a military child development center.
+
+Child Abuse Task Force
+
+National Hotline
+
+Assistance From Local Authorities
+
+Safety Regulations
+
+Inspections
+
+Remedies for Violations
+
+Notification of Suspected Child Abuse
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. A, title V, § 568(a)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 333](https://www.govinfo.gov/link/statute/110/333); amended [Pub. L. 118–159, div. A, title V, § 584](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1912](https://www.govinfo.gov/link/statute/138/1912); [Pub. L. 119–60, div. A, title V, § 581](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 888](https://www.govinfo.gov/link/statute/139/888).)*

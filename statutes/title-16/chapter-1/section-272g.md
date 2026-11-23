@@ -3,9 +3,10 @@ title: "Section 272g - Land exchange involving school trust land"
 usc_title: 16
 usc_section: "272g"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 272g"
-generated_at: "2026-03-30T02:54:22.747Z"
+generated_at: "2026-11-23T20:26:19.401Z"
+status: "active"
 ---
 
 # § 272g. Land exchange involving school trust land
@@ -27,3 +28,9 @@ generated_at: "2026-03-30T02:54:22.747Z"
   - **(1)** At least 60 days before undertaking or permitting any surface disturbing activities to occur on land acquired by the State of Utah under this section, the State shall consult with the Utah State Office of the Bureau of Land Management concerning the extent and impact of such activities on Federal land and resources and conduct, in a manner consistent with Federal law, inventory, mitigation, and management activities in connection with any archaeological, paleontological, and cultural resources located on the acquired lands.
   - **(2)** To the extent that it is consistent with applicable law governing the use and disposition of State school trust land, the State shall preserve existing grazing, recreational, and wildlife uses of the acquired lands in existence on October 30, 1998 .
   - **(3)** Nothing in this subsection precludes the State of Utah from authorizing or undertaking a surface or mineral activity that is authorized by a land management plan for the acquired land.
+
+“Congress finds that—
+
+## Source Credit
+
+*([Pub. L. 92–155, § 8](https://www.govinfo.gov/link/plaw/92/public/155), as added [Pub. L. 105–329, § 2(e)(2)](https://www.govinfo.gov/link/plaw/105/public/329), Oct. 30, 1998, [112 Stat. 3062](https://www.govinfo.gov/link/statute/112/3062); amended [Pub. L. 106–176, title III, § 302](https://www.govinfo.gov/link/plaw/106/public/176), Mar. 10, 2000, [114 Stat. 32](https://www.govinfo.gov/link/statute/114/32).)*

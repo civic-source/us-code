@@ -3,9 +3,10 @@ title: "Section 17034 - Cellulosic ethanol and biofuels research"
 usc_title: 42
 usc_section: "17034"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17034"
-generated_at: "2026-03-30T02:56:11.493Z"
+generated_at: "2026-11-23T20:27:23.717Z"
+status: "active"
 ---
 
 # § 17034. Cellulosic ethanol and biofuels research
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.493Z"
 - **(b)** The Secretary shall make cellulosic ethanol and biofuels research and development grants to 10 eligible entities selected by the Secretary to receive a grant under this section through a peer-reviewed competitive process.
 - **(c)** An eligible entity that is selected to receive a grant under subsection (b) shall collaborate with 1 of the Bioenergy Research Centers of the Office of Science of the Department.
 - **(d)** There is authorized to be appropriated to the Secretary to make grants described in subsection (b) $50,000,000 for fiscal year 2008, to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 110–140, title II, § 230](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1536](https://www.govinfo.gov/link/statute/121/1536).)*

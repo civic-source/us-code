@@ -3,9 +3,10 @@ title: "Section 553 - Importation or exportation of stolen motor vehicles, off-h
 usc_title: 18
 usc_section: "553"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 553"
-generated_at: "2026-03-30T02:54:16.466Z"
+generated_at: "2026-11-23T20:26:08.385Z"
+status: "active"
 ---
 
 # § 553. Importation or exportation of stolen motor vehicles, off-highway mobile equipment, vessels, or aircraft
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:16.466Z"
   - **(5)** “identification number”—
     - **(A)** in the case of a motor vehicle, has the meaning given that term in section 511 of this title ; and
     - **(B)** in the case of any other vehicle or equipment covered by this section, means a number or symbol assigned to the vehicle or equipment, or part thereof, by the manufacturer primarily for the purpose of identifying such vehicle, equipment, or part.
+
+## Source Credit
+
+*(Added [Pub. L. 98–547, title III, § 301(a)](https://www.govinfo.gov/link/plaw/98/public/547), Oct. 25, 1984, [98 Stat. 2771](https://www.govinfo.gov/link/statute/98/2771); amended [Pub. L. 100–690, title VII, § 7021](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4396](https://www.govinfo.gov/link/statute/102/4396); [Pub. L. 102–519, title I, § 102](https://www.govinfo.gov/link/plaw/102/public/519), Oct. 25, 1992, [106 Stat. 3385](https://www.govinfo.gov/link/statute/106/3385); [Pub. L. 103–272, § 5(e)(5)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1374](https://www.govinfo.gov/link/statute/108/1374).)*

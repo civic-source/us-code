@@ -3,9 +3,10 @@ title: "Section 3622 - Temporary release of a prisoner"
 usc_title: 18
 usc_section: "3622"
 chapter: 229
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 3622"
-generated_at: "2026-03-30T02:54:16.522Z"
+generated_at: "2026-11-23T20:26:08.754Z"
+status: "active"
 ---
 
 # § 3622. Temporary release of a prisoner
@@ -23,3 +24,15 @@ The Bureau of Prisons may release a prisoner from the place of his imprisonment 
 - **(c)** work at paid employment in the community while continuing in official detention at the penal or correctional facility if—
   - **(1)** the rates of pay and other conditions of employment will not be less than those paid or provided for work of a similar nature in the community; and
   - **(2)** the prisoner agrees to pay to the Bureau such costs incident to official detention as the Bureau finds appropriate and reasonable under all the circumstances, such costs to be collected by the Bureau and deposited in the Treasury to the credit of the appropriation available for such costs at the time such collections are made.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+## Source Credit
+
+*(Added [Pub. L. 98–473, title II, § 212(a)(2)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2007](https://www.govinfo.gov/link/statute/98/2007).)*

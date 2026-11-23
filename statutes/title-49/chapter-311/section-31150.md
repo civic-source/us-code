@@ -3,9 +3,10 @@ title: "Section 31150 - Safety performance history screening"
 usc_title: 49
 usc_section: "31150"
 chapter: 311
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 31150"
-generated_at: "2026-03-30T02:56:19.360Z"
+generated_at: "2026-11-23T20:27:34.960Z"
+status: "active"
 ---
 
 # § 31150. Safety performance history screening
@@ -21,3 +22,15 @@ generated_at: "2026-03-30T02:56:19.360Z"
   - **(4)** provide a procedure for the operator-applicant to correct inaccurate information in the System in a timely manner.
 - **(c)** The process for providing access to the Motor Carrier Management Information System under subsection (a) shall be designed to assist the motor carrier industry in assessing an individual operator’s crash and serious safety violation inspection history as a preemployment condition. Use of the process shall not be mandatory and may only be used during the preemployment assessment of an operator-applicant.
 - **(d)** In this section, the term “serious driver-related violation” means a violation by an operator of a commercial motor vehicle that the Secretary determines will result in the operator being prohibited from continuing to operate a commercial motor vehicle until the violation is corrected.
+
+In General
+
+Conditions on Providing Access
+
+Design
+
+Serious Driver-Related Safety Violation Defined
+
+## Source Credit
+
+*(Added [Pub. L. 109–59, title IV, § 4117(a)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1728](https://www.govinfo.gov/link/statute/119/1728).)*

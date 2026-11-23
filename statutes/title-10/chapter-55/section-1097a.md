@@ -3,9 +3,10 @@ title: "Section 1097a - TRICARE Prime: automatic enrollments"
 usc_title: 10
 usc_section: "1097a"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1097a"
-generated_at: "2026-03-30T02:53:38.108Z"
+generated_at: "2026-11-23T20:25:51.241Z"
+status: "active"
 ---
 
 # § 1097a. TRICARE Prime: automatic enrollments
@@ -25,3 +26,45 @@ generated_at: "2026-03-30T02:53:38.108Z"
 - **(f)** In this section:
   - **(1)** The term “TRICARE Prime” means the managed care option of the TRICARE program.
   - **(2)** The term “catchment area”, with respect to a facility of a uniformed service, means the service area of the facility, as designated under regulations prescribed by the administering Secretaries.
+
+Automatic Enrollment of Certain Dependents
+
+Automatic Renewal of Enrollments of Covered Beneficiaries
+
+Regulations and Exceptions
+
+No Copayment for Immediate Family
+
+Authority for Multiple Networks in the Same Geographic Area
+
+Definitions
+
+Payment Options for Retirees
+
+Report Required.—
+
+In general
+
+Elements
+
+Additional Report.—
+
+Report required
+
+Matters included
+
+Access to TRICARE Prime.—
+
+One-time election
+
+Enrollment in tricare standard
+
+Residence at time of election.—
+
+Network
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 105–261, div. A, title VII, § 712(a)(1)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2058](https://www.govinfo.gov/link/statute/112/2058); amended [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title VII, § 752(a)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–195; [Pub. L. 107–107, div. A, title X, § 1048(a)(11)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1223](https://www.govinfo.gov/link/statute/115/1223); [Pub. L. 112–239, div. A, title VII, § 711](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1801](https://www.govinfo.gov/link/statute/126/1801); [Pub. L. 114–328, div. A, title VII, § 723](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2229](https://www.govinfo.gov/link/statute/130/2229); [Pub. L. 116–92, div. A, title VII, § 702(b)(1)](https://www.govinfo.gov/link/plaw/116/public/92), (2)(A), Dec. 20, 2019, [133 Stat. 1436](https://www.govinfo.gov/link/statute/133/1436); [Pub. L. 117–81, div. A, title VII, § 703(b)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1779](https://www.govinfo.gov/link/statute/135/1779).)*

@@ -3,9 +3,10 @@ title: "Section 1739 - Advisory councils"
 usc_title: 43
 usc_section: "1739"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1739"
-generated_at: "2026-03-30T02:55:57.488Z"
+generated_at: "2026-11-23T20:27:06.365Z"
+status: "active"
 ---
 
 # § 1739. Advisory councils
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:57.488Z"
 - **(c)** Members of advisory councils shall serve without pay, except travel and per diem will be paid each member for meetings called by the Secretary.
 - **(d)** An advisory council may furnish advice to the Secretary with respect to the land use planning, classification, retention, management, and disposal of the public lands within the area for which the advisory council is established and such other matters as may be referred to it by the Secretary.
 - **(e)** In exercising his authorities under this Act, the Secretary, by regulation, shall establish procedures, including public hearings where appropriate, to give the Federal, State, and local governments and the public adequate notice and an opportunity to comment upon the formulation of standards and criteria for, and to participate in, the preparation and execution of plans and programs for, and the management of, the public lands.
+
+## Source Credit
+
+*([Pub. L. 94–579, title III, § 309](https://www.govinfo.gov/link/plaw/94/public/579), Oct. 21, 1976, [90 Stat. 2767](https://www.govinfo.gov/link/statute/90/2767); [Pub. L. 95–514, § 13](https://www.govinfo.gov/link/plaw/95/public/514), Oct. 25, 1978, [92 Stat. 1808](https://www.govinfo.gov/link/statute/92/1808); [Pub. L. 117–286, § 4(a)(285)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4337](https://www.govinfo.gov/link/statute/136/4337).)*

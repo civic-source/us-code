@@ -3,9 +3,10 @@ title: "Section 8423 - Limitations on certain assistance"
 usc_title: 22
 usc_section: "8423"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8423"
-generated_at: "2026-03-30T02:55:05.451Z"
+generated_at: "2026-11-23T20:26:32.708Z"
+status: "active"
 ---
 
 # § 8423. Limitations on certain assistance
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:05.451Z"
 - **(f)** In this section, the term “appropriate congressional committees” means—
   - **(1)** the Committee on Foreign Affairs, the Committee on Armed Services, the Committee on Oversight and Government Reform, and the Permanent Select Committee on Intelligence of the House of Representatives; and
   - **(2)** the Committee on Foreign Relations, the Committee on Armed Services, and the Select Committee on Intelligence of the Senate.
+
+## Source Credit
+
+*([Pub. L. 111–73, title II, § 203](https://www.govinfo.gov/link/plaw/111/public/73), Oct. 15, 2009, [123 Stat. 2071](https://www.govinfo.gov/link/statute/123/2071).)*

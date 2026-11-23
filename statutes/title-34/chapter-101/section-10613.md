@@ -3,9 +3,10 @@ title: "Section 10613 - Definition"
 usc_title: 34
 usc_section: "10613"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10613"
-generated_at: "2026-03-30T02:55:33.272Z"
+generated_at: "2026-11-23T20:26:50.484Z"
+status: "active"
 ---
 
 # § 10613. Definition
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:33.272Z"
 - **(b)** For purposes of juvenile drug courts, the term “violent offender” means a juvenile who has been convicted of, or adjudicated delinquent for, a felony-level offense that—
   - **(1)** has as an element, the use, attempted use, or threatened use of physical force against the person or property of another, or the possession or use of a firearm; or
   - **(2)** by its nature, involves a substantial risk that physical force against the person or property of another may be used in the course of committing the offense.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 2953](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 107–273, div. B, title II, § 2301(a)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1795](https://www.govinfo.gov/link/statute/116/1795); amended [Pub. L. 109–162, title XI, § 1141](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3110](https://www.govinfo.gov/link/statute/119/3110); [Pub. L. 110–199, title I, § 103(a)](https://www.govinfo.gov/link/plaw/110/public/199), Apr. 9, 2008, [122 Stat. 668](https://www.govinfo.gov/link/statute/122/668).)*

@@ -3,9 +3,10 @@ title: "Section 794g - Limitations on use of subminimum wage"
 usc_title: 29
 usc_section: "794g"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 794g"
-generated_at: "2026-03-30T02:55:18.698Z"
+generated_at: "2026-11-23T20:26:37.876Z"
+status: "active"
 ---
 
 # § 794g. Limitations on use of subminimum wage
@@ -47,3 +48,15 @@ generated_at: "2026-03-30T02:55:18.698Z"
     - **(A)** In order to continue to employ an individual at a subminimum wage, the entity described in subsection (a) shall verify completion of the requirements of subsection (c), including reviewing any relevant documents provided by the individual, and shall maintain copies of the documentation described in subsection (d).
     - **(B)** The entity described in subsection (a) shall be subject to review of individual documentation described in subsection (d) by a representative working directly for the designated State unit or the Department of Labor at such a time and in such a manner as may be necessary to fulfill the intent of this section, consistent with regulations established by the designated State unit or the Secretary of Labor.
 - **(f)** In this section, the term “Federal minimum wage” means the rate applicable under section 6(a)(1) of the Fair Labor Standards Act of 1938 ( 29 U.S.C. 206(a)(1) ).
+
+(aa) the individual has been determined to be eligible for vocational rehabilitation services;
+
+(bb) the individual has an individualized plan for employment under section 722 of this title ;
+
+(cc) the individual has been working toward an employment outcome specified in such individualized plan for employment, with appropriate supports and services, including supported employment services, for a reasonable period of time without success; and
+
+(dd) the individual’s vocational rehabilitation case is closed; and
+
+## Source Credit
+
+*([Pub. L. 93–112, title V, § 511](https://www.govinfo.gov/link/plaw/93/public/112), as added [Pub. L. 113–128, title IV, § 458(a)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1676](https://www.govinfo.gov/link/statute/128/1676); amended [Pub. L. 114–95, title IX, § 9215(mmm)(4)(A)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2188](https://www.govinfo.gov/link/statute/129/2188).)*

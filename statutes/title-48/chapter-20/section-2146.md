@@ -3,9 +3,10 @@ title: "Section 2146 - Oversight Board duties related to restructuring"
 usc_title: 48
 usc_section: "2146"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 2146"
-generated_at: "2026-03-30T02:56:14.604Z"
+generated_at: "2026-11-23T20:27:28.200Z"
+status: "active"
 ---
 
 # § 2146. Oversight Board duties related to restructuring
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:14.604Z"
     - **(A)** no order approving a Qualifying Modification under section 2231 of this title has been entered with respect to such entity; or
     - **(B)** if an order approving a Qualifying Modification has been entered with respect to such entity, the entity is unable to make its debt payments notwithstanding the approved Qualifying Modification, in which case, all claims affected by the Qualifying Modification shall be subject to a subchapter III case.
 - **(b)** The issuance of a restructuring certification under this section requires a vote of no fewer than 5 members of the Oversight Board in the affirmative, which shall satisfy the requirement set forth in section 2162(2) of this title .
+
+## Source Credit
+
+*([Pub. L. 114–187, title II, § 206](https://www.govinfo.gov/link/plaw/114/public/187), June 30, 2016, [130 Stat. 574](https://www.govinfo.gov/link/statute/130/574).)*

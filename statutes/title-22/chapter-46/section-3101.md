@@ -3,9 +3,10 @@ title: "Section 3101 - Congressional statement of findings and declaration of pu
 usc_title: 22
 usc_section: "3101"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3101"
-generated_at: "2026-03-30T02:55:05.389Z"
+generated_at: "2026-11-23T20:26:32.442Z"
+status: "active"
 ---
 
 # § 3101. Congressional statement of findings and declaration of purpose
@@ -22,3 +23,15 @@ generated_at: "2026-03-30T02:55:05.389Z"
   - **(9)** existing estimates of international investment and trade in services, collected under existing legal authority, are limited in scope and are based on outdated statistical bases, reports, and information which are insufficient for policy formulation and decisionmaking.
 - **(b)** It is therefore the purpose of this chapter to provide clear and unambiguous authority for the President to collect information on international investment and United States foreign trade in services, whether directly or by affiliates, including related information necessary for assessing the impact of such investment and trade, to authorize the collection and use of information on direct investments owned or controlled directly or indirectly by foreign governments or persons, and to provide analyses of such information to the Congress, the executive agencies, and the general public. It is the intent of the Congress that information which is collected from the public under this chapter be obtained with a minimum burden on business and other respondents and with no unnecessary duplication of effort, consistent with the national interest in obtaining comprehensive and reliable information on international investment and trade in services.
 - **(c)** Nothing in this chapter is intended to restrain or deter foreign investment in the United States, United States investment abroad, or trade in services.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+## Source Credit
+
+*([Pub. L. 94–472, § 2](https://www.govinfo.gov/link/plaw/94/public/472), Oct. 11, 1976, [90 Stat. 2059](https://www.govinfo.gov/link/statute/90/2059); [Pub. L. 98–573, title III, § 306(b)(2)](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 3009](https://www.govinfo.gov/link/statute/98/3009); [Pub. L. 101–533, § 6(A)[(a)]](https://www.govinfo.gov/link/plaw/101/public/533), Nov. 7, 1990, [104 Stat. 2348](https://www.govinfo.gov/link/statute/104/2348).)*

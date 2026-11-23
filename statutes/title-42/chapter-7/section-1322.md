@@ -3,9 +3,10 @@ title: "Section 1322 - Repayment by State; certification; transfer; interest on 
 usc_title: 42
 usc_section: "1322"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1322"
-generated_at: "2026-03-30T02:56:10.927Z"
+generated_at: "2026-11-23T20:27:21.044Z"
+status: "active"
 ---
 
 # § 1322. Repayment by State; certification; transfer; interest on loan; credit of interest on loan
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:56:10.927Z"
       - **(ii)** no interest shall accrue during such period on any advance or advances made under section 1321 of this title to a State.
     - **(B)** The provisions of subparagraph (A) shall have no effect on the requirement for interest payments under this subsection after the period described in such subparagraph or on the accrual of interest under this subsection after such period.
 - **(c)** Interest paid by States in accordance with this section shall be credited to the Federal unemployment account established by section 1104(g) of this title in the Unemployment Trust Fund.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XII, § 1202, as added Aug. 5, 1954, ch. 657, § 3, [68 Stat. 672](https://www.govinfo.gov/link/statute/68/672); amended [Pub. L. 86–778, title V, § 522(a)](https://www.govinfo.gov/link/plaw/86/public/778), Sept. 13, 1960, [74 Stat. 979](https://www.govinfo.gov/link/statute/74/979); [Pub. L. 97–35, title XXIV, § 2407(a)](https://www.govinfo.gov/link/plaw/97/public/35), (b)(2), Aug. 13, 1981, [95 Stat. 879](https://www.govinfo.gov/link/statute/95/879), 880; [Pub. L. 97–248, title II, § 274(a)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 557](https://www.govinfo.gov/link/statute/96/557); [Pub. L. 98–21, title V](https://www.govinfo.gov/link/plaw/98/public/21), §§ 511, 514, Apr. 20, 1983, [97 Stat. 144](https://www.govinfo.gov/link/statute/97/144), 147; [Pub. L. 98–118, § 5(a)](https://www.govinfo.gov/link/plaw/98/public/118), Oct. 11, 1983, [97 Stat. 804](https://www.govinfo.gov/link/statute/97/804); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 100–203, title IX, § 9156(a)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–327](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 105–33, title V, § 5404(a)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 604](https://www.govinfo.gov/link/statute/111/604); [Pub. L. 111–5, div. B, title II, § 2004](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 443](https://www.govinfo.gov/link/statute/123/443); [Pub. L. 116–127, div. D, § 4103](https://www.govinfo.gov/link/plaw/116/public/127), Mar. 18, 2020, [134 Stat. 194](https://www.govinfo.gov/link/statute/134/194); [Pub. L. 116–260, div. N, title II, § 221](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 1956](https://www.govinfo.gov/link/statute/134/1956); [Pub. L. 117–2, title IX, § 9021](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 120](https://www.govinfo.gov/link/statute/135/120).)*

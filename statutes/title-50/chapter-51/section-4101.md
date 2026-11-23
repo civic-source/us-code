@@ -3,9 +3,10 @@ title: "Section 4101 - Foreign Claims Settlement Commission of the United States
 usc_title: 50
 usc_section: "4101"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4101"
-generated_at: "2026-03-30T02:56:26.265Z"
+generated_at: "2026-11-23T20:27:31.067Z"
+status: "active"
 ---
 
 # § 4101. Foreign Claims Settlement Commission of the United States
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:26.265Z"
   - **(2)** The Commission may, in case of a failure or refusal on the part of any person to comply with any such subpena, invoke the aid of any United States district court within the jurisdiction of which the hearing, examination, or investigation is being conducted, or such person resides or transacts business. Such court may issue an order requiring such person to appear at the designated place of hearing, examination, or investigation, there to give or produce testimony or documentary evidence concerning the matter in question. Any failure to obey such order of the court shall be punishable by such court as a contempt thereof. All process in any such case may be served in the judicial district wherein such person resides or transacts business or wherever such person may be found.
   - **(3)** Witnesses subpenaed under this subsection shall be paid the same fees and mileage that are allowed and paid witnesses in United States district courts.
   - **(4)** Any member of the Commission, and any employee of the Commission authorized by the Commission to do so, may administer to, or take from, any person an oath, affirmation, or affidavit when such action is necessary or appropriate in the performance of the functions or activities of the Commission.
+
+## Source Credit
+
+*(July 3, 1948, ch. 826, title I, § 2, [62 Stat. 1240](https://www.govinfo.gov/link/statute/62/1240); May 27, 1949, ch. 145, § 1(1), [63 Stat. 112](https://www.govinfo.gov/link/statute/63/112); Oct. 28, 1949, ch. 782, title XI, § 1106(a), [63 Stat. 972](https://www.govinfo.gov/link/statute/63/972); Aug. 16, 1950, ch. 718, [64 Stat. 449](https://www.govinfo.gov/link/statute/64/449); Apr. 5, 1951, ch. 27, [65 Stat. 28](https://www.govinfo.gov/link/statute/65/28); 1954 Reorg. Plan No. 1 §§ 2, 4, eff. July 1, 1954, 19 F.R. 3985, [68 Stat. 1279](https://www.govinfo.gov/link/statute/68/1279); Aug. 21, 1954, ch. 784, § 3, [68 Stat. 762](https://www.govinfo.gov/link/statute/68/762); [Pub. L. 87–846, title I](https://www.govinfo.gov/link/plaw/87/public/846), §§ 102, 104(a), Oct. 22, 1962, [76 Stat. 1107](https://www.govinfo.gov/link/statute/76/1107), 1113; [Pub. L. 96–209, title I, § 108](https://www.govinfo.gov/link/plaw/96/public/209), Mar. 14, 1980, [94 Stat. 97](https://www.govinfo.gov/link/statute/94/97).)*

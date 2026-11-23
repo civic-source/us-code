@@ -3,9 +3,10 @@ title: "Section 349 - Office of Strategy, Policy, and Plans"
 usc_title: 6
 usc_section: "349"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 349"
-generated_at: "2026-03-30T02:53:09.462Z"
+generated_at: "2026-11-23T20:25:34.717Z"
+status: "active"
 ---
 
 # § 349. Office of Strategy, Policy, and Plans
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:53:09.462Z"
     - **(A)** The term “critical economic security domain” means any infrastructure, industry, technology, or intellectual property (or combination thereof) that is essential for the economic security of the United States.
     - **(B)** The term “economic security” has the meaning given such term in section 474(c)(2) of this title .
 - **(h)** Nothing in this section overrides or otherwise affects the requirements specified in section 468 of this title .
+
+## Source Credit
+
+*([Pub. L. 107–296, title VII, § 709](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 114–328, div. A, title XIX, § 1902(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2670](https://www.govinfo.gov/link/statute/130/2670); amended [Pub. L. 117–263, div. G, title LXXI, § 7116(b)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3637](https://www.govinfo.gov/link/statute/136/3637).)*

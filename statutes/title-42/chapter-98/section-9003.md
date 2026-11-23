@@ -3,9 +3,10 @@ title: "Section 9003 - Research and development"
 usc_title: 42
 usc_section: "9003"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9003"
-generated_at: "2026-03-30T02:56:11.349Z"
+generated_at: "2026-11-23T20:27:23.069Z"
+status: "active"
 ---
 
 # § 9003. Research and development
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.349Z"
   - **(5)** stationkeeping requirements; and
   - **(6)** energy delivery systems, such as electric cable or energy product transport.
 - **(c)** The Secretary shall, for the purpose of performing his responsibilities pursuant to this chapter, solicit proposals and evaluate any reasonable new or improved technology, a description of which is submitted to the Secretary in writing, which could lead or contribute to the development of ocean thermal energy conversion system technology.
+
+## Source Credit
+
+*([Pub. L. 96–310, § 4](https://www.govinfo.gov/link/plaw/96/public/310), July 17, 1980, [94 Stat. 943](https://www.govinfo.gov/link/statute/94/943).)*

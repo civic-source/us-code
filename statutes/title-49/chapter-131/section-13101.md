@@ -3,9 +3,10 @@ title: "Section 13101 - Transportation policy"
 usc_title: 49
 usc_section: "13101"
 chapter: 131
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 13101"
-generated_at: "2026-03-30T02:56:19.326Z"
+generated_at: "2026-11-23T20:27:34.736Z"
+status: "active"
 ---
 
 # § 13101. Transportation policy
@@ -36,3 +37,11 @@ generated_at: "2026-03-30T02:56:19.326Z"
     - **(C)** to ensure that Federal reform initiatives enacted by section 31138 and the Bus Regulatory Reform Act of 1982 are not nullified by State regulatory actions; and
   - **(4)** in overseeing transportation by water carrier, to encourage and promote service and price competition in the noncontiguous domestic trade.
 - **(b)** This part shall be administered and enforced to carry out the policy of this section and to promote the public interest.
+
+In General
+
+Administration To Carry Out Policy
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 853](https://www.govinfo.gov/link/statute/109/853).)*

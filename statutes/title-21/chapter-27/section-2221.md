@@ -3,9 +3,10 @@ title: "Section 2221 - Food emergency response network"
 usc_title: 21
 usc_section: "2221"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 2221"
-generated_at: "2026-03-30T02:54:54.310Z"
+generated_at: "2026-11-23T20:26:27.906Z"
+status: "active"
 ---
 
 # § 2221. Food emergency response network
@@ -18,3 +19,7 @@ The Secretary, in coordination with the Secretary of Agriculture, the Secretary 
   - **(4)** develops and implements a methods repository for use by Federal, State, and local officials;
   - **(5)** responds to food-related emergencies; and
   - **(6)** is integrated with relevant laboratory networks administered by other Federal agencies.
+
+## Source Credit
+
+*([Pub. L. 111–353, title II, § 202(b)](https://www.govinfo.gov/link/plaw/111/public/353), Jan. 4, 2011, [124 Stat. 3929](https://www.govinfo.gov/link/statute/124/3929).)*

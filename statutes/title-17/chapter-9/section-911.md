@@ -3,9 +3,10 @@ title: "Section 911 - Civil actions"
 usc_title: 17
 usc_section: "911"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 911"
-generated_at: "2026-03-30T02:54:15.355Z"
+generated_at: "2026-11-23T20:26:06.538Z"
+status: "active"
 ---
 
 # § 911. Civil actions
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:15.355Z"
 - **(g)**
   - **(1)** Any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity, shall not be immune, under the Eleventh Amendment of the Constitution of the United States or under any other doctrine of sovereign immunity, from suit in Federal court by any person, including any governmental or nongovernmental entity, for a violation of any of the exclusive rights of the owner of a mask work under this chapter, or for any other violation under this chapter.
   - **(2)** In a suit described in paragraph (1) for a violation described in that paragraph, remedies (including remedies both at law and in equity) are available for the violation to the same extent as such remedies are available for such a violation in a suit against any public or private entity other than a State, instrumentality of a State, or officer or employee of a State acting in his or her official capacity. Such remedies include actual damages and profits under subsection (b), statutory damages under subsection (c), impounding and disposition of infringing articles under subsection (e), and costs and attorney’s fees under subsection (f).
+
+## Source Credit
+
+*(Added [Pub. L. 98–620, title III, § 302](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3353](https://www.govinfo.gov/link/statute/98/3353); amended [Pub. L. 101–553, § 2(b)(2)](https://www.govinfo.gov/link/plaw/101/public/553), Nov. 15, 1990, [104 Stat. 2750](https://www.govinfo.gov/link/statute/104/2750).)*

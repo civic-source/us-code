@@ -3,9 +3,10 @@ title: "Section 21302 - Findings"
 usc_title: 34
 usc_section: "21302"
 chapter: 213
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 21302"
-generated_at: "2026-03-30T02:55:33.304Z"
+generated_at: "2026-11-23T20:26:50.618Z"
+status: "active"
 ---
 
 # § 21302. Findings
@@ -22,3 +23,7 @@ Congress finds the following:
   - **(8)** A rapist pursuing parental or custody rights causes the survivor to have continued interaction with the rapist, which can have traumatic psychological effects on the survivor, and can make it more difficult for her to recover.
   - **(9)** These traumatic effects on the mother can severely negatively impact her ability to raise a healthy child.
   - **(10)** Rapists may use the threat of pursuing custody or parental rights to coerce survivors into not prosecuting rape, or otherwise harass, intimidate, or manipulate them.
+
+## Source Credit
+
+*([Pub. L. 114–22, title IV, § 403](https://www.govinfo.gov/link/plaw/114/public/22), May 29, 2015, [129 Stat. 256](https://www.govinfo.gov/link/statute/129/256).)*

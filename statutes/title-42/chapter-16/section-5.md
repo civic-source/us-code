@@ -3,9 +3,10 @@ title: "Section 5 - Programs to expand STEM opportunities"
 usc_title: 42
 usc_section: "5"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-03-30T02:56:11.129Z"
+generated_at: "2026-11-23T20:27:21.956Z"
+status: "active"
 ---
 
 # § 1862s–5. Programs to expand STEM opportunities
@@ -96,3 +97,9 @@ generated_at: "2026-03-30T02:56:11.129Z"
     - **(A)** the results of the evaluation; and
     - **(B)** any recommendations for administrative and legislative action that could optimize the effectiveness of the program.
 - **(h)** In carrying out this section, the Director of the Foundation shall consult and cooperate with the programs and policies of other relevant Federal agencies to avoid duplication with and enhance the effectiveness of the program under this section.
+
+“Congress finds the following:
+
+## Source Credit
+
+*([Pub. L. 114–329, title III, § 305](https://www.govinfo.gov/link/plaw/114/public/329), Jan. 6, 2017, [130 Stat. 3007](https://www.govinfo.gov/link/statute/130/3007); [Pub. L. 116–102, § 4](https://www.govinfo.gov/link/plaw/116/public/102), Dec. 24, 2019, [133 Stat. 3263](https://www.govinfo.gov/link/statute/133/3263); [Pub. L. 117–167, div. B, title III, § 10329](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1546](https://www.govinfo.gov/link/statute/136/1546).)*

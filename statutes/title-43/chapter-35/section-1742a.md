@@ -3,9 +3,10 @@ title: "Section 1742a - Good Samaritan Search and Recovery Act"
 usc_title: 43
 usc_section: "1742a"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1742a"
-generated_at: "2026-03-30T02:55:57.488Z"
+generated_at: "2026-11-23T20:27:06.366Z"
+status: "active"
 ---
 
 # § 1742a. Good Samaritan Search and Recovery Act
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:55:57.488Z"
 - **(f)** Not later than 180 days after March 12, 2019 , the Secretaries shall submit to Congress a joint report describing—
   - **(1)** plans to develop partnerships described in subsection (e)(1); and
   - **(2)** efforts carried out to expedite and accelerate good Samaritan search-and-recovery mission efforts for missing individuals on Federal land under the administrative jurisdiction of each Secretary pursuant to subsection (e)(2).
+
+## Source Credit
+
+*([Pub. L. 116–9, title IX, § 9002](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 830](https://www.govinfo.gov/link/statute/133/830).)*

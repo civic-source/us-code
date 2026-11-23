@@ -3,9 +3,10 @@ title: "Section 20323 - Strengthening of court-appointed special advocate progra
 usc_title: 34
 usc_section: "20323"
 chapter: 203
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 20323"
-generated_at: "2026-03-30T02:55:33.297Z"
+generated_at: "2026-11-23T20:26:50.593Z"
+status: "active"
 ---
 
 # § 20323. Strengthening of court-appointed special advocate program
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:33.297Z"
   - **(3)** In awarding grants under this section, the Administrator shall ensure that grants are distributed to localities that have no existing court-appointed special advocate program and to programs in need of expansion.
 - **(d)** State and local Court Appointed Special Advocate programs are authorized to request fingerprint-based criminal background checks from the Federal Bureau of Investigation’s criminal history database for prospective volunteers. The requesting program is responsible for the reasonable costs associated with the Federal records check.
 - **(e)** An organization that receives a grant under this section for a fiscal year shall submit to the Administrator a report regarding the use of the grant for the fiscal year, including a discussion of outcome performance measures (which shall be established by the Administrator) to determine the effectiveness of the programs of the organization in meeting the needs of children in the child welfare system.
+
+## Source Credit
+
+*([Pub. L. 101–647, title II, § 217](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4794](https://www.govinfo.gov/link/statute/104/4794); [Pub. L. 107–273, div. C, title II, § 12221(b)(1)(C)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1894](https://www.govinfo.gov/link/statute/116/1894); [Pub. L. 109–162, title I, § 112(c)](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 2986](https://www.govinfo.gov/link/statute/119/2986); [Pub. L. 113–4, title I, § 106(2)](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 77](https://www.govinfo.gov/link/statute/127/77); [Pub. L. 115–424, § 2(h)(4)](https://www.govinfo.gov/link/plaw/115/public/424), Jan. 7, 2019, [132 Stat. 5470](https://www.govinfo.gov/link/statute/132/5470).)*

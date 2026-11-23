@@ -3,9 +3,10 @@ title: "Section 40722 - DNA training and education for law enforcement, correcti
 usc_title: 34
 usc_section: "40722"
 chapter: 407
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 40722"
-generated_at: "2026-03-30T02:55:33.310Z"
+generated_at: "2026-11-23T20:26:50.650Z"
+status: "active"
 ---
 
 # § 40722. DNA training and education for law enforcement, correctional personnel, and court officers
@@ -16,3 +17,9 @@ generated_at: "2026-03-30T02:55:33.310Z"
   - **(3)** forensic science professionals; and
   - **(4)** corrections personnel, including prison and jail personnel, and probation, parole, and other officers involved in supervision.
 - **(b)** There are authorized to be appropriated $12,500,000 for each of fiscal years 2019 through 2024 to carry out this section.
+
+“For each of fiscal years 2017 through 2021, all funds appropriated to carry out sections 303, 305, 308, and 412 [sections 40722, 40724, 40726, and 40727 of this title] shall be reserved for grants to eligible entities that—
+
+## Source Credit
+
+*([Pub. L. 108–405, title III, § 303](https://www.govinfo.gov/link/plaw/108/public/405), Oct. 30, 2004, [118 Stat. 2273](https://www.govinfo.gov/link/statute/118/2273); [Pub. L. 110–360, § 3](https://www.govinfo.gov/link/plaw/110/public/360), Oct. 8, 2008, [122 Stat. 4008](https://www.govinfo.gov/link/statute/122/4008); [Pub. L. 113–182, § 3](https://www.govinfo.gov/link/plaw/113/public/182), Sept. 29, 2014, [128 Stat. 1918](https://www.govinfo.gov/link/statute/128/1918); [Pub. L. 116–104, § 3](https://www.govinfo.gov/link/plaw/116/public/104), Dec. 30, 2019, [133 Stat. 3272](https://www.govinfo.gov/link/statute/133/3272).)*

@@ -3,9 +3,10 @@ title: "Section 6701 - National infrastructure project assistance"
 usc_title: 49
 usc_section: "6701"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 6701"
-generated_at: "2026-03-30T02:56:19.322Z"
+generated_at: "2026-11-23T20:27:34.706Z"
+status: "active"
 ---
 
 # § 6701. National infrastructure project assistance
@@ -208,3 +209,155 @@ generated_at: "2026-03-30T02:56:19.322Z"
     - **(B)**
       - **(i)** The requirements of section 22905 shall apply to any passenger or freight rail component of a project.
       - **(ii)** The requirements of section 5333 shall apply to any public transportation component of a project.
+
+Definitions
+
+Department
+
+Eligible entity
+
+Program
+
+Secretary
+
+State
+
+Establishment
+
+Applications.—
+
+In general
+
+Plan for data collection
+
+Eligible Projects
+
+Geographical Distribution
+
+Project Evaluation and Selection.—
+
+Requirements
+
+Evaluation criteria
+
+Additional considerations
+
+Ratings.—
+
+In general
+
+Ratings.—
+
+Highly recommended
+
+Recommended
+
+Not recommended
+
+Technical assistance.—
+
+In general
+
+Treatment
+
+Publication of project evaluation and selection criteria
+
+Project selection priority
+
+Data Collection and Analysis.—
+
+Plan.—
+
+In general
+
+Contents
+
+Framework
+
+Multiyear grant agreements
+
+Reports.—
+
+Project baseline
+
+Updated report
+
+Eligible Project Costs.—
+
+In general
+
+Interest and other financing costs
+
+Cost Sharing.—
+
+In general
+
+Maximum federal involvement.—
+
+In general
+
+Limitation
+
+Non-federal share
+
+Application to multiyear agreements
+
+Grant Agreements.—
+
+In general
+
+Terms
+
+Special rules.—
+
+In general
+
+Contingent commitment
+
+Single-year grants
+
+Congressional Notification.—
+
+In general
+
+Congressional disapproval
+
+Reports.—
+
+Transparency
+
+Comptroller general.—
+
+Assessment
+
+Report
+
+Authorization of Appropriations.—
+
+In general
+
+Other projects
+
+Administrative expenses
+
+Transfer of authority
+
+Additional Requirements.—
+
+In general
+
+Modal requirements
+
+Multimodal projects.—
+
+In general
+
+Exceptions.—
+
+Passenger or freight rail component
+
+Public transportation component
+
+## Source Credit
+
+*(Added [Pub. L. 117–58, div. B, title I, § 21201](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 663](https://www.govinfo.gov/link/statute/135/663).)*

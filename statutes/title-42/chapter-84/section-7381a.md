@@ -3,9 +3,10 @@ title: "Section 7381a - Science education programs"
 usc_title: 42
 usc_section: "7381a"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7381a"
-generated_at: "2026-03-30T02:56:11.289Z"
+generated_at: "2026-11-23T20:27:22.810Z"
+status: "active"
 ---
 
 # § 7381a. Science education programs
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:11.289Z"
   - **(2)** the amounts set aside for the Science, Engineering, and Mathematics Education Fund under subsection (d) from funding for research activities, development activities, demonstration activities, and commercial application activities for the corresponding fiscal year; and
   - **(3)** a description of how the funds set aside under subsection (d) were allocated for the prior fiscal year and will be allocated for the following fiscal year.
 - **(f)** In carrying out a program under subsection (a), the Secretary shall give priority to activities that are designed to encourage students from under-represented groups to pursue scientific and technical careers.
+
+## Source Credit
+
+*([Pub. L. 101–510, div. C, title XXXI, § 3164](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1841](https://www.govinfo.gov/link/statute/104/1841); [Pub. L. 109–58, title XI](https://www.govinfo.gov/link/plaw/109/public/58), §§ 1102(a), 1105(a), Aug. 8, 2005, [119 Stat. 938](https://www.govinfo.gov/link/statute/119/938), 939; [Pub. L. 110–69, title V, § 5003(a)](https://www.govinfo.gov/link/plaw/110/public/69), Aug. 9, 2007, [121 Stat. 601](https://www.govinfo.gov/link/statute/121/601).)*

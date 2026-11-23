@@ -3,9 +3,10 @@ title: "Section 1594a - Acquisition of military housing financed under Armed Ser
 usc_title: 42
 usc_section: "1594a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1594a"
-generated_at: "2026-03-30T02:56:11.106Z"
+generated_at: "2026-11-23T20:27:21.834Z"
+status: "active"
 ---
 
 # § 1594a. Acquisition of military housing financed under Armed Services Housing Mortgage Insurance Fund and rental housing at military bases
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.106Z"
 - **(d)** Property acquired under this section may be occupied, used, and improved for the purposes of this section prior to the approval of title by the Attorney General as required by sections 3111 and 3112 of title 40.
 - **(e)** The Secretary of Defense or his designee may, in the case of any housing acquired or to be acquired under this section, make arrangements with the mortgage whereby such mortgage will agree to release and waive all requirements of accruals for reserves for replacement, taxes, and hazard insurance provided for under the corporate charter and indenture agreement with respect to such housing, upon the execution of a written agreement by the Secretary or his designee that the purposes for which such reserves and other funds were accrued will be carried out.
 - **(f)** Any housing acquired under this section may be (1) assigned as public quarters to military personnel and their dependents; or (2) leased to military and civilian personnel for occupancy by them and their dependents, upon such terms and conditions as will in the judgment of the Secretary of Defense or his designee be in the best interest of the United States, without loss to military personnel of their basic allowance for quarters or appropriate allotments.
+
+## Source Credit
+
+*(Aug. 11, 1955, ch. 783, title IV, § 404, [69 Stat. 652](https://www.govinfo.gov/link/statute/69/652); Aug. 3, 1956, ch. 939, title IV, § 420, [70 Stat. 1019](https://www.govinfo.gov/link/statute/70/1019); Aug. 7, 1956, ch. 1029, title V, § 512, [70 Stat. 1111](https://www.govinfo.gov/link/statute/70/1111); [Pub. L. 85–104, title V, § 504](https://www.govinfo.gov/link/plaw/85/public/104), July 12, 1957, [71 Stat. 303](https://www.govinfo.gov/link/statute/71/303); [Pub. L. 85–685, title V, § 513(d)](https://www.govinfo.gov/link/plaw/85/public/685), Aug. 20, 1958, [72 Stat. 663](https://www.govinfo.gov/link/statute/72/663); [Pub. L. 86–149, title IV, § 418](https://www.govinfo.gov/link/plaw/86/public/149), Aug. 10, 1959, [73 Stat. 323](https://www.govinfo.gov/link/statute/73/323); [Pub. L. 86–372, title VII](https://www.govinfo.gov/link/plaw/86/public/372), §§ 702(a), (b), 703, Sept. 23, 1959, [73 Stat. 683](https://www.govinfo.gov/link/statute/73/683); [Pub. L. 87–554, title V, § 501(d)](https://www.govinfo.gov/link/plaw/87/public/554), July 27, 1962, [76 Stat. 237](https://www.govinfo.gov/link/statute/76/237); [Pub. L. 88–560, title X, § 1003](https://www.govinfo.gov/link/plaw/88/public/560), Sept. 2, 1964, [78 Stat. 806](https://www.govinfo.gov/link/statute/78/806); [Pub. L. 90–19, § 12(e)](https://www.govinfo.gov/link/plaw/90/public/19), (h)(4)–(6), May 25, 1967, [81 Stat. 23](https://www.govinfo.gov/link/statute/81/23), 24.)*

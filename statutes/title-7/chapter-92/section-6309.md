@@ -3,9 +3,10 @@ title: "Section 6309 - Administrative provisions"
 usc_title: 7
 usc_section: "6309"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6309"
-generated_at: "2026-03-30T02:53:42.429Z"
+generated_at: "2026-11-23T20:25:41.694Z"
+status: "active"
 ---
 
 # § 6309. Administrative provisions
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:42.429Z"
     - **(B)** any State referendum regarding a State soybean promotion program that is originated by soybean producers.
   - **(3)** To ensure adequate funding of the operations of qualified State soybean boards under this chapter, whenever an order is in effect under this chapter, no State law or regulation that limits the rate of assessment that the qualified State soybean board in that State may collect from producers on soybeans produced in such State, or that has the effect of limiting such rate, may be applied to prohibit such State board from collecting, and expending for authorized purposes, assessments from producers of up to the full amount of the credit authorized for producer contributions to qualified State soybean boards under section 6304( l )(4) of this title.
 - **(c)** The provisions of this chapter applicable to orders shall be applicable to amendments to orders.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XIX, § 1974](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3903](https://www.govinfo.gov/link/statute/104/3903); [Pub. L. 102–237, title VIII, § 806(3)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1883](https://www.govinfo.gov/link/statute/105/1883).)*

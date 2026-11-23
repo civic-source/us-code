@@ -3,9 +3,10 @@ title: "Section 11708 - Voluntary arbitration of certain rail rates and practice
 usc_title: 49
 usc_section: "11708"
 chapter: 117
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 11708"
-generated_at: "2026-03-30T02:56:19.326Z"
+generated_at: "2026-11-23T20:27:34.734Z"
+status: "active"
 ---
 
 # § 11708. Voluntary arbitration of certain rail rates and practices disputes
@@ -67,3 +68,59 @@ generated_at: "2026-03-30T02:56:19.326Z"
   - **(2)** a clear abuse of arbitral authority or discretion occurred;
   - **(3)** the decision directly contravenes statutory authority; or
   - **(4)** the award limitation under subsection (g) was violated.
+
+In General
+
+Covered Disputes
+
+Arbitration Procedures.—
+
+In general
+
+Limitation
+
+Rates
+
+Arbitration Decisions
+
+Timelines.—
+
+Selection
+
+Evidentiary process
+
+Decision
+
+Extensions
+
+Arbitrators.—
+
+In general
+
+Independence
+
+Selection.—
+
+In general
+
+Panel of arbitrators
+
+Cost
+
+Relief.—
+
+In general
+
+Practice disputes
+
+Rate disputes.—
+
+Monetary limit
+
+Time limit
+
+Board Review
+
+## Source Credit
+
+*(Added [Pub. L. 114–110, § 13(a)](https://www.govinfo.gov/link/plaw/114/public/110), Dec. 18, 2015, [129 Stat. 2235](https://www.govinfo.gov/link/statute/129/2235).)*

@@ -3,9 +3,10 @@ title: "Section 34 - Unlawful representations and names"
 usc_title: 15
 usc_section: "34"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 34"
-generated_at: "2026-03-30T02:54:08.069Z"
+generated_at: "2026-11-23T20:26:03.611Z"
+status: "active"
 ---
 
 # § 80a–34. Unlawful representations and names
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:08.069Z"
 - **(b)** It shall be unlawful for any person registered under any section of this subchapter, to represent or imply in any manner whatsoever that such person has been sponsored, recommended, or approved, or that his abilities or qualifications have in any respect been passed upon by the United States or any agency or officer thereof.
 - **(c)** No provision of subsection (a) or (b) shall be construed to prohibit a statement that a person or security is registered under this chapter, the Securities Act of 1933 [ 15 U.S.C. 77a et seq.], or the Securities Exchange Act of 1934 [ 15 U.S.C. 78a et seq.], if such statement is true in fact and if the effect of such registration is not misrepresented.
 - **(d)** It shall be unlawful for any registered investment company to adopt as a part of the name or title of such company, or of any securities of which it is the issuer, any word or words that the Commission finds are materially deceptive or misleading. The Commission is authorized, by rule, regulation, or order, to define such names or titles as are materially deceptive or misleading.
+
+## Source Credit
+
+*(Aug. 22, 1940, ch. 686, title I, § 35, [54 Stat. 840](https://www.govinfo.gov/link/statute/54/840); [Pub. L. 104–290, title II, § 208](https://www.govinfo.gov/link/plaw/104/public/290), Oct. 11, 1996, [110 Stat. 3432](https://www.govinfo.gov/link/statute/110/3432); [Pub. L. 106–102, title II, § 214](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1398](https://www.govinfo.gov/link/statute/113/1398).)*

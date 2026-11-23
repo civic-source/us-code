@@ -3,9 +3,10 @@ title: "Section 1073f - Health care fraud and abuse prevention program"
 usc_title: 10
 usc_section: "1073f"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1073f"
-generated_at: "2026-03-30T02:53:38.099Z"
+generated_at: "2026-11-23T20:25:51.197Z"
+status: "active"
 ---
 
 # § 1073f. Health care fraud and abuse prevention program
@@ -22,3 +23,17 @@ generated_at: "2026-03-30T02:53:38.099Z"
 - **(c)** The Secretary of Defense may enter into agreements with the Secretary of Health and Human Services, the Attorney General, or the heads of other Federal agencies, for the effective and efficient implementation of the program authorized under subsection (a).
 - **(d)** Joint administration of the program authorized under subsection (a) may not be construed as limiting the authority of the Inspector General of the Department of Defense under any other provision of law.
 - **(e)** In this section, the term “fraud and abuse” means any conduct specified in subsection (a) or (b) of section 1128A of the Social Security Act ( 42 U.S.C. 1320a–7a ).
+
+Program Authorized
+
+Civil Monetary Penalties
+
+Interagency Agreements
+
+Rule of Construction
+
+Fraud and Abuse Defined
+
+## Source Credit
+
+*(Added [Pub. L. 117–81, div. A, title VII, § 713(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1784](https://www.govinfo.gov/link/statute/135/1784).)*

@@ -3,9 +3,10 @@ title: "Section 5116 - Penalties"
 usc_title: 46
 usc_section: "5116"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 5116"
-generated_at: "2026-03-30T02:56:15.549Z"
+generated_at: "2026-11-23T20:27:27.103Z"
+status: "active"
 ---
 
 # § 5116. Penalties
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:15.549Z"
 - **(c)** The master or individual in charge of a vessel violating section 5112(b) of this title is liable to the Government for a civil penalty of not more than $5,000. The vessel also is liable in rem for the penalty.
 - **(d)** A person causing or allowing the departure of a vessel from a place within the jurisdiction of the United States in violation of a detention order issued under section 5113 of this title commits a class A misdemeanor.
 - **(e)** A person causing or allowing the alteration, concealment, or removal of a mark placed on a vessel under section 5103(b) of this title and the regulations prescribed under this chapter, except to make a lawful change or to escape enemy capture in time of war, commits a class A misdemeanor.
+
+## Source Credit
+
+*([Pub. L. 99–509, title V, § 5101(2)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1918](https://www.govinfo.gov/link/statute/100/1918); [Pub. L. 101–380, title IV, § 4302(d)](https://www.govinfo.gov/link/plaw/101/public/380), Aug. 18, 1990, [104 Stat. 538](https://www.govinfo.gov/link/statute/104/538).)*

@@ -3,9 +3,10 @@ title: "Section 2302 - Rights in technical data"
 usc_title: 41
 usc_section: "2302"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 2302"
-generated_at: "2026-03-30T02:55:55.804Z"
+generated_at: "2026-11-23T20:27:04.412Z"
+status: "active"
 ---
 
 # § 2302. Rights in technical data
@@ -38,3 +39,60 @@ generated_at: "2026-03-30T02:55:55.804Z"
   - **(7)** requiring the contractor to furnish written assurance, when technical data is delivered or is made available, that the technical data is complete and accurate and satisfies the requirements of the contract concerning technical data;
   - **(8)** establishing remedies to be available to the Federal Government when technical data required to be delivered or made available under the contract is found to be incomplete or inadequate or to not satisfy the requirements of the contract concerning technical data; and
   - **(9)** authorizing the head of the agency to withhold payments under the contract (or exercise another remedy the head of the agency considers appropriate) during any period if the contractor does not meet the requirements of the contract pertaining to the delivery of technical data.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 2302(a) | 41:418a(a) (1st sentence). | Pub. L. 93–400, § 21 , as added Pub. L. 98–577, title III, § 301(a) , Oct. 30, 1984 , 98 Stat. 3074 ; Pub. L. 99–145, title IX, § 961(d)(2) , Nov. 8, 1985 , 99 Stat. 704 . |
+| 2302(b) | 41:418a(a) (2d, last sentences). |  |
+| 2302(c) | 41:418a(b). |  |
+| 2302(d) | 41:418a(c). |  |
+| 2302(e) | 41:418a(d). |  |
+
+
+Where Defined
+
+General Extent of Regulations.—
+
+Other rights not impaired
+
+Limitation on requiring data be provided to the government
+
+Technical Data Developed With Federal Funds.—
+
+Use by government and agencies
+
+Requirements in addition to other rights of the government
+
+Factors To Be Considered in Prescribing Regulations
+
+Provisions Required in Contracts
+
+Historical and Revision Notes
+
+2302(a)
+
+Pub. L. 93–400, § 21
+
+Pub. L. 98–577, title III, § 301(a)
+
+Oct. 30, 1984
+
+98 Stat. 3074
+
+Pub. L. 99–145, title IX, § 961(d)(2)
+
+Nov. 8, 1985
+
+99 Stat. 704
+
+2302(b)
+
+2302(c)
+
+2302(d)
+
+2302(e)
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3733](https://www.govinfo.gov/link/statute/124/3733).)*

@@ -3,9 +3,10 @@ title: "Section 49 - At-risk rules"
 usc_title: 26
 usc_section: "49"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 49"
-generated_at: "2026-03-30T02:55:27.611Z"
+generated_at: "2026-11-23T20:26:45.264Z"
+status: "active"
 ---
 
 # § 49. At-risk rules
@@ -61,3 +62,15 @@ generated_at: "2026-03-30T02:55:27.611Z"
   - **(2)** For purposes of paragraph (1), the amount of nonqualified nonrecourse financing (within the meaning of subsection (a)(1)(D)) with respect to the taxpayer shall not be treated as increased by reason of a transfer of (or agreement to transfer) any evidence of any indebtedness if such transfer occurs (or such agreement is entered into) more than 1 year after the date such indebtedness was incurred.
   - **(3)** Rules similar to the rules of section 47(d)(3) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply for purposes of this subsection.
   - **(4)** Any increase in tax under paragraph (1) shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit allowable under this chapter.
+
+In general
+
+Exceptions for certain films
+
+Normalization rules
+
+Additional exceptions.—
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title II, § 211(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2166](https://www.govinfo.gov/link/statute/100/2166); amended [Pub. L. 100–647, title I, § 1002(e)(1)](https://www.govinfo.gov/link/plaw/100/public/647) –(3), (8)(B), Nov. 10, 1988, [102 Stat. 3367](https://www.govinfo.gov/link/statute/102/3367), 3369; [Pub. L. 101–508, title XI, § 11813(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–543](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 105–206, title VI, § 6004(g)(6)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 796](https://www.govinfo.gov/link/statute/112/796); [Pub. L. 109–58, title XIII, § 1307(c)(1)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 1006](https://www.govinfo.gov/link/statute/119/1006); [Pub. L. 111–5, div. B, title I, § 1302(c)(1)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 347](https://www.govinfo.gov/link/statute/123/347); [Pub. L. 111–148, title IX, § 9023(c)(1)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 880](https://www.govinfo.gov/link/statute/124/880); [Pub. L. 115–141, div. U, title IV, § 401(a)(24)](https://www.govinfo.gov/link/plaw/115/public/141), (d)(3)(B)(i), Mar. 23, 2018, [132 Stat. 1185](https://www.govinfo.gov/link/statute/132/1185), 1209; [Pub. L. 117–167, div. A, § 107(d)(2)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1398](https://www.govinfo.gov/link/statute/136/1398); [Pub. L. 117–169, title I, § 13702(b)(2)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 1997](https://www.govinfo.gov/link/statute/136/1997).)*

@@ -3,9 +3,10 @@ title: "Section 6881 - Energy resource and renewable-resource obligation guarant
 usc_title: 42
 usc_section: "6881"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6881"
-generated_at: "2026-03-30T02:56:11.268Z"
+generated_at: "2026-11-23T20:27:22.720Z"
+status: "active"
 ---
 
 # § 6881. Energy resource and renewable-resource obligation guarantee program
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:56:11.268Z"
   - **(1)** The term “Secretary” means the Secretary of Energy.
   - **(2)** The term “Comptroller General” means the Comptroller General of the United States.
   - **(3)** The terms “energy audit”, “energy conservation measure”, “renewable-resource energy measure”, “building”, and “industrial plant” have the meanings given the terms in section 6321(c) of this title .
+
+## Source Credit
+
+*([Pub. L. 94–385, title IV, § 451](https://www.govinfo.gov/link/plaw/94/public/385), Aug. 14, 1976, [90 Stat. 1165](https://www.govinfo.gov/link/statute/90/1165); [Pub. L. 95–70, § 5](https://www.govinfo.gov/link/plaw/95/public/70), July 21, 1977, [91 Stat. 277](https://www.govinfo.gov/link/statute/91/277); [Pub. L. 95–91, title III, § 301(a)](https://www.govinfo.gov/link/plaw/95/public/91), title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577](https://www.govinfo.gov/link/statute/91/577), 606, 607; [Pub. L. 104–316, title I, § 122(q)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3838](https://www.govinfo.gov/link/statute/110/3838); [Pub. L. 117–58, div. D, title I, § 40108(c)(3)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 944](https://www.govinfo.gov/link/statute/135/944).)*

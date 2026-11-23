@@ -3,9 +3,10 @@ title: "Section 3490 - Potential financial interests or impaired objectivity of 
 usc_title: 20
 usc_section: "3490"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 3490"
-generated_at: "2026-03-30T02:54:48.179Z"
+generated_at: "2026-11-23T20:26:14.738Z"
+status: "active"
 ---
 
 # § 3490. Potential financial interests or impaired objectivity of covered individuals or entities
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:48.179Z"
   - **(2)** a contractor or subcontractor of the Department, or an individual hired by the contracted entity;
   - **(3)** a member of a peer review panel of the Department; or
   - **(4)** a consultant or advisor to the Department.
+
+## Source Credit
+
+*([Pub. L. 110–161, div. G, title III, § 306](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2198](https://www.govinfo.gov/link/statute/121/2198).)*

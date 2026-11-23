@@ -3,9 +3,10 @@ title: "Section 1404 - Acquisition of equipment; construction or alteration of f
 usc_title: 20
 usc_section: "1404"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1404"
-generated_at: "2026-03-30T02:54:48.159Z"
+generated_at: "2026-11-23T20:26:14.630Z"
+status: "active"
 ---
 
 # § 1404. Acquisition of equipment; construction or alteration of facilities
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:48.159Z"
 - **(b)** Any construction of new facilities or alteration of existing facilities under subsection (a) shall comply with the requirements of—
   - **(1)** appendix A of part 36 of title 28, Code of Federal Regulations (commonly known as the “Americans with Disabilities Accessibility Guidelines for Buildings and Facilities”); or
   - **(2)** appendix A of subpart 101–19.6 of title 41, Code of Federal Regulations (commonly known as the “Uniform Federal Accessibility Standards”).
+
+## Source Credit
+
+*([Pub. L. 91–230, title VI, § 605](https://www.govinfo.gov/link/plaw/91/public/230), as added [Pub. L. 108–446, title I, § 101](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2659](https://www.govinfo.gov/link/statute/118/2659).)*

@@ -3,9 +3,10 @@ title: "Section 2736c - Professional development opportunities and tools"
 usc_title: 22
 usc_section: "2736c"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2736c"
-generated_at: "2026-03-30T02:55:05.383Z"
+generated_at: "2026-11-23T20:26:32.397Z"
+status: "active"
 ---
 
 # § 2736c. Professional development opportunities and tools
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:05.383Z"
       - **(ii)** consider the number of expected vacancies in senior positions as a factor in determining the number of candidates to select for such programs;
       - **(iii)** understand how participation in any program offered or sponsored by the Department under such subparagraph differs by gender, race, national origin, disability status, or other demographic categories; and
       - **(iv)** actively encourage participation from a range of demographic categories, especially from categories with consistently low participation.
+
+## Source Credit
+
+*([Pub. L. 117–81, div. E, title LIV, § 5405](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2373](https://www.govinfo.gov/link/statute/135/2373).)*

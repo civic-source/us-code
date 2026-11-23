@@ -3,9 +3,10 @@ title: "Section 7311 - Quality assurance"
 usc_title: 38
 usc_section: "7311"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7311"
-generated_at: "2026-03-30T02:55:53.527Z"
+generated_at: "2026-11-23T20:27:01.995Z"
+status: "active"
 ---
 
 # § 7311. Quality assurance
@@ -40,3 +41,29 @@ generated_at: "2026-03-30T02:55:53.527Z"
 - **(e)**
   - **(1)** The Secretary shall allocate sufficient resources (including sufficient personnel with the necessary skills and qualifications) to enable the Administration to carry out its responsibilities under this section.
   - **(2)** The Inspector General of the Department shall allocate sufficient resources (including sufficient personnel with the necessary skills and qualifications) to enable the Inspector General to monitor the quality-assurance program.
+
+Comprehensive Policy Required
+
+Scope of Policy
+
+Updates
+
+Consultation
+
+Annual Report.—
+
+In general
+
+Contents
+
+Veterans Service Organization Defined
+
+Regulations for Standards of Performance in Department of Veterans Affairs Laboratories
+
+Report
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 102–40, title IV, § 401(a)(3)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 214](https://www.govinfo.gov/link/statute/105/214); amended [Pub. L. 102–405, title III, § 302(c)(1)](https://www.govinfo.gov/link/plaw/102/public/405), Oct. 9, 1992, [106 Stat. 1984](https://www.govinfo.gov/link/statute/106/1984); [Pub. L. 103–446, title XII, § 1201(g)(5)](https://www.govinfo.gov/link/plaw/103/public/446), Nov. 2, 1994, [108 Stat. 4687](https://www.govinfo.gov/link/statute/108/4687); [Pub. L. 111–163, title V, § 505(b)](https://www.govinfo.gov/link/plaw/111/public/163), May 5, 2010, [124 Stat. 1159](https://www.govinfo.gov/link/statute/124/1159).)*

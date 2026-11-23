@@ -3,9 +3,10 @@ title: "Section 2142 - Approval of Budgets"
 usc_title: 48
 usc_section: "2142"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 2142"
-generated_at: "2026-03-30T02:56:14.603Z"
+generated_at: "2026-11-23T20:27:28.198Z"
+status: "active"
 ---
 
 # § 2142. Approval of Budgets
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:56:14.603Z"
     - **(B)** the subject of a compliance certification issued by the Oversight Board to the Governor; and
     - **(C)** in full force and effect beginning on the first day of the applicable fiscal year.
 - **(f)** Notwithstanding any other provision of this section, if, in the case of a Territory Budget, the Governor, the Legislature, and the Oversight Board, or in the case of an Instrumentality Budget, the Governor and the Oversight Board, jointly develop such Budget for the fiscal year that meets the requirements under this section, and that the relevant parties certify that such budget reflects a consensus among them, then such Budget shall serve as the Budget for the territory or territorial instrumentality for that fiscal year.
+
+## Source Credit
+
+*([Pub. L. 114–187, title II, § 202](https://www.govinfo.gov/link/plaw/114/public/187), June 30, 2016, [130 Stat. 566](https://www.govinfo.gov/link/statute/130/566).)*

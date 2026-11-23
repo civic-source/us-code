@@ -3,9 +3,10 @@ title: "Section 312 - Effect on earnings and profits"
 usc_title: 26
 usc_section: "312"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 312"
-generated_at: "2026-03-30T02:55:27.665Z"
+generated_at: "2026-11-23T20:26:45.568Z"
+status: "active"
 ---
 
 # § 312. Effect on earnings and profits
@@ -97,3 +98,23 @@ generated_at: "2026-03-30T02:55:27.665Z"
     - **(A)** paragraphs (4) and (6) shall apply only in the case of taxable years beginning after December 31, 1985 , and
     - **(B)** paragraph (5) shall apply only in the case of taxable years beginning after December 31, 1987 .
 - **(o)** For purposes of subsection (a)(2), the terms “original issue discount” and “issue price” have the same respective meanings as when used in subpart A of part V of subchapter P of this chapter.
+
+Adjustments to earnings and profits.—
+
+Paragraphs (1), (2), and (3) of section 312
+
+Paragraph (4) of section 312
+
+LIFO inventory
+
+Installment sales
+
+Completed contract method
+
+Subsection
+
+Subsection
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 95; [Pub. L. 87–403, § 3(a)](https://www.govinfo.gov/link/plaw/87/public/403), Feb. 2, 1962, [76 Stat. 6](https://www.govinfo.gov/link/statute/76/6); [Pub. L. 87–834](https://www.govinfo.gov/link/plaw/87/public/834), §§ 13(f)(3), 14(b)(1), Oct. 16, 1962, [76 Stat. 1035](https://www.govinfo.gov/link/statute/76/1035), 1040; [Pub. L. 88–272, title II, § 231(b)(3)](https://www.govinfo.gov/link/plaw/88/public/272), Feb. 26, 1964, [78 Stat. 105](https://www.govinfo.gov/link/statute/78/105); [Pub. L. 88–484, § 1(b)(1)](https://www.govinfo.gov/link/plaw/88/public/484), Aug. 22, 1964, [78 Stat. 597](https://www.govinfo.gov/link/statute/78/597); [Pub. L. 89–570, § 1(b)(3)](https://www.govinfo.gov/link/plaw/89/public/570), Sept. 12, 1966, [80 Stat. 762](https://www.govinfo.gov/link/statute/80/762); [Pub. L. 91–172, title II, § 211(b)(3)](https://www.govinfo.gov/link/plaw/91/public/172), title IV, § 442(a), title IX, § 905(b)(2), Dec. 30, 1969, [83 Stat. 570](https://www.govinfo.gov/link/statute/83/570), 628, 714; [Pub. L. 94–455, title II, § 205(c)(1)(D)](https://www.govinfo.gov/link/plaw/94/public/455), title XIX, §§ 1901(a)(43), (b)(32)(B)(i), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1535](https://www.govinfo.gov/link/statute/90/1535), 1771, 1800, 1834; [Pub. L. 95–628, § 3(c)](https://www.govinfo.gov/link/plaw/95/public/628), Nov. 10, 1978, [92 Stat. 3627](https://www.govinfo.gov/link/statute/92/3627); [Pub. L. 96–589, § 5(f)](https://www.govinfo.gov/link/plaw/96/public/589), Dec. 24, 1980, [94 Stat. 3406](https://www.govinfo.gov/link/statute/94/3406); [Pub. L. 97–34, title II, § 206(a)](https://www.govinfo.gov/link/plaw/97/public/34), (b), Aug. 13, 1981, [95 Stat. 224](https://www.govinfo.gov/link/statute/95/224); [Pub. L. 97–248, title II](https://www.govinfo.gov/link/plaw/97/public/248), §§ 205(a)(3), 222(e)(3), title III, § 310(b)(3), Sept. 3, 1982, [96 Stat. 429](https://www.govinfo.gov/link/statute/96/429), 480, 597; [Pub. L. 97–448, title III, § 306(a)(6)(B)](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2402](https://www.govinfo.gov/link/statute/96/2402); [Pub. L. 98–369, div. A, title I](https://www.govinfo.gov/link/plaw/98/public/369), §§ 61(a)–(c)(1), 63(b), 111(e)(5), July 18, 1984, [98 Stat. 579–581](https://www.govinfo.gov/link/statute/98/579), 583, 633; [Pub. L. 99–121, title I, § 103(b)(1)(C)](https://www.govinfo.gov/link/plaw/99/public/121), Oct. 11, 1985, [99 Stat. 509](https://www.govinfo.gov/link/statute/99/509); [Pub. L. 99–514, title II](https://www.govinfo.gov/link/plaw/99/public/514), §§ 201(b), (d)(6), 241(b)(1), title VI, § 631(e)(1), title VIII, § 803(b)(3), title XVIII, §§ 1804(f)(1)(A)–(E), 1809(a)(2)(C)(ii), Oct. 22, 1986, [100 Stat. 2137](https://www.govinfo.gov/link/statute/100/2137), 2141, 2181, 2273, 2355, 2804, 2805, 2819; [Pub. L. 100–647, title I](https://www.govinfo.gov/link/plaw/100/public/647), §§ 1002(a)(3), 1018(d)(4), (u)(4), Nov. 10, 1988, [102 Stat. 3353](https://www.govinfo.gov/link/statute/102/3353), 3578, 3590; [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7611(f)(5)(A), 7811(m)(2), Dec. 19, 1989, [103 Stat. 2373](https://www.govinfo.gov/link/statute/103/2373), 2412; [Pub. L. 101–508, title XI](https://www.govinfo.gov/link/plaw/101/public/508), §§ 11812(b)(5), 11813(b)(14), Nov. 5, 1990, [104 Stat. 1388–535](https://www.govinfo.gov/link/statute/104/1388), 1388–555; [Pub. L. 105–34, title XVI, § 1604(a)(2)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1097](https://www.govinfo.gov/link/statute/111/1097); [Pub. L. 108–357, title III, § 338(b)(3)](https://www.govinfo.gov/link/plaw/108/public/357), title IV, § 413(c)(4), (5), Oct. 22, 2004, [118 Stat. 1481](https://www.govinfo.gov/link/statute/118/1481), 1507; [Pub. L. 109–58, title XIII](https://www.govinfo.gov/link/plaw/109/public/58), §§ 1323(b)(3), 1331(b)(5), Aug. 8, 2005, [119 Stat. 1015](https://www.govinfo.gov/link/statute/119/1015), 1024; [Pub. L. 109–432, div. A, title IV, § 404(b)(2)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 2956](https://www.govinfo.gov/link/statute/120/2956); [Pub. L. 113–295, div. A, title II, § 221(a)(34)(F)](https://www.govinfo.gov/link/plaw/113/public/295), (49), Dec. 19, 2014, [128 Stat. 4042](https://www.govinfo.gov/link/statute/128/4042), 4045; [Pub. L. 117–169, title I, § 13303(b)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 1951](https://www.govinfo.gov/link/statute/136/1951).)*

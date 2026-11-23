@@ -3,9 +3,10 @@ title: "Section 1732 - Portfolio acquisition executive"
 usc_title: 10
 usc_section: "1732"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1732"
-generated_at: "2026-03-30T02:53:38.135Z"
+generated_at: "2026-11-23T20:25:51.413Z"
+status: "active"
 ---
 
 # § 1732. Portfolio acquisition executive
@@ -42,3 +43,15 @@ generated_at: "2026-03-30T02:53:38.135Z"
     - **(F)** engineering and technical management;
     - **(G)** developmental testing and evaluation; and
     - **(H)** other personnel as determined by the Secretary concerned, as appropriate.
+
+In General
+
+Reporting Relationships
+
+Responsibilities
+
+Personnel and Resources
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. A, title XVIII, § 1802(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1225](https://www.govinfo.gov/link/statute/139/1225).)*

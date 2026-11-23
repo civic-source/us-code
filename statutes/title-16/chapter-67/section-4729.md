@@ -3,9 +3,10 @@ title: "Section 4729 - Coastal Aquatic Invasive Species Mitigation Grant Program
 usc_title: 16
 usc_section: "4729"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 4729"
-generated_at: "2026-03-30T02:54:23.047Z"
+generated_at: "2026-11-23T20:26:20.754Z"
+status: "active"
 ---
 
 # § 4729. Coastal Aquatic Invasive Species Mitigation Grant Program and Mitigation Fund
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:54:23.047Z"
       - **(i)** There is authorized to be appropriated from the Treasury to the Fund, for each fiscal year, an amount equal to the amount of penalties assessed for violations of subsection (p) of section 1322 of title 33 during the preceding fiscal year.
       - **(ii)** In addition to the amounts transferred to the Fund under clause (i), there is authorized to be appropriated to the Fund $5,000,000 for each fiscal year.
     - **(C)** Subject to appropriations, the amounts in the Fund shall be available to the Secretary and the Foundation to award grants under the Program.
+
+## Source Credit
+
+*([Pub. L. 115–282, title IX, § 903(f)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4357](https://www.govinfo.gov/link/statute/132/4357).)*

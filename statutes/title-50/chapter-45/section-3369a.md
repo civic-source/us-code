@@ -3,9 +3,10 @@ title: "Section 3369a - Report on deepfake technology, foreign weaponization of 
 usc_title: 50
 usc_section: "3369a"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3369a"
-generated_at: "2026-03-30T02:56:26.248Z"
+generated_at: "2026-11-23T20:27:30.994Z"
+status: "active"
 ---
 
 # § 3369a. Report on deepfake technology, foreign weaponization of deepfakes, and related notifications
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:56:26.248Z"
 - **(d)**
   - **(1)** The term “machine-generated text” means text generated using machine-learning techniques in order to resemble writing in natural language.
   - **(2)** The term “machine-manipulated media” has the meaning given that term in section 5724. 1 1 See References in Text note below.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. E, title LVII, § 5709](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2168](https://www.govinfo.gov/link/statute/133/2168); [Pub. L. 117–263, div. F, title LXVIII, § 6811(b)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3600](https://www.govinfo.gov/link/statute/136/3600).)*

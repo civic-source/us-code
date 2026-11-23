@@ -3,9 +3,10 @@ title: "Section 622 - Contracts, etc., with private industry for implementation 
 usc_title: 33
 usc_section: "622"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 622"
-generated_at: "2026-03-30T02:55:41.065Z"
+generated_at: "2026-11-23T20:26:53.872Z"
+status: "active"
 ---
 
 # § 622. Contracts, etc., with private industry for implementation of projects for improvements and dredging; reduction of federally owned fleet
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:41.065Z"
     - **(B)** For each fiscal year beginning after October 12, 1996 , the Secretary shall not assign any greater quantity of dredging work to any Federal hopper dredge in active status than was assigned to that vessel in the average of the 3 prior fiscal years. This subparagraph shall not apply to the Federal hopper dredges Essayons and Yaquina of the Corps of Engineers.
     - **(C)** In carrying out the program under this section, the Secretary shall not reduce the availability and utilization of Federal hopper dredge vessels stationed on the Pacific and Atlantic coasts below that which occurred in fiscal year 1996 to meet the navigation dredging needs of the ports on those coasts.
   - **(8)** The Secretary may enter into a contract for the maintenance and crewing of any Federal hopper dredge retained in a ready reserve status. The capital costs (including depreciation costs) of any dredge retained in such status shall be paid for out of funds made available from the Harbor Maintenance Trust Fund and shall not be charged against the Corps of Engineers’ Revolving Fund Account or any individual project cost unless the dredge is specifically used in connection with that project.
+
+## Source Credit
+
+*(Aug. 11, 1888, ch. 860, § 3, [25 Stat. 423](https://www.govinfo.gov/link/statute/25/423); July 25, 1912, ch. 253, § 1, [37 Stat. 222](https://www.govinfo.gov/link/statute/37/222); Mar. 2, 1919, ch. 95, § 3, [40 Stat. 1287](https://www.govinfo.gov/link/statute/40/1287); [Pub. L. 95–269, § 1](https://www.govinfo.gov/link/plaw/95/public/269), Apr. 26, 1978, [92 Stat. 218](https://www.govinfo.gov/link/statute/92/218); [Pub. L. 104–303, title II, § 237](https://www.govinfo.gov/link/plaw/104/public/303), Oct. 12, 1996, [110 Stat. 3705](https://www.govinfo.gov/link/statute/110/3705); [Pub. L. 110–114, title II, § 2047(b)](https://www.govinfo.gov/link/plaw/110/public/114), Nov. 8, 2007, [121 Stat. 1106](https://www.govinfo.gov/link/statute/121/1106).)*

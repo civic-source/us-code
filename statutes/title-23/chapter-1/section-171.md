@@ -3,9 +3,10 @@ title: "Section 171 - Wildlife crossings pilot program"
 usc_title: 23
 usc_section: "171"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 171"
-generated_at: "2026-03-30T02:55:12.563Z"
+generated_at: "2026-11-23T20:26:23.836Z"
+status: "active"
 ---
 
 # § 171. Wildlife crossings pilot program
@@ -71,3 +72,49 @@ generated_at: "2026-03-30T02:55:12.563Z"
     - **(B)** an evaluation of the effectiveness of the pilot program in meeting the purposes described in subsection (b); and
     - **(C)** policy recommendations to improve the effectiveness of the pilot program.
 - **(i)** Notwithstanding any other provision of law, a project assisted under this section shall be treated as a project on a Federal-aid highway under this chapter.
+
+Finding
+
+Establishment
+
+Eligible Entities
+
+Applications.—
+
+In general
+
+Requirement
+
+Guidance
+
+Considerations
+
+Use of Funds.—
+
+In general
+
+Grant administration.—
+
+In general
+
+Partnerships.—
+
+In general
+
+Eligible partners described
+
+Compliance
+
+Requirement
+
+Annual Report to Congress.—
+
+In general
+
+Contents
+
+Treatment of Projects
+
+## Source Credit
+
+*(Added [Pub. L. 117–58, div. A, title I, § 11123(b)(1)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 499](https://www.govinfo.gov/link/statute/135/499).)*

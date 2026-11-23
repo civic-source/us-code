@@ -3,9 +3,10 @@ title: "Section 342 - Process for issuing qualified carrier certification"
 usc_title: 47
 usc_section: "342"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 342"
-generated_at: "2026-03-30T02:56:24.511Z"
+generated_at: "2026-11-23T20:27:28.896Z"
+status: "active"
 ---
 
 # § 342. Process for issuing qualified carrier certification
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:56:24.511Z"
         - **(I)** the satellite carrier treats all television broadcast stations’ signals the same with respect to statistical multiplexer prioritization; and
         - **(II)** the number of video signals in the relevant satellite transponder is not more than the then current greatest number of video signals carried on any equivalent transponder serving the top 100 designated market areas.
     - **(B)** For the purposes of subparagraph (A), the top 100 designated market areas shall be as determined by Nielsen Media Research and published in the Nielsen Station Index Directory and Nielsen Station Index United States Television Household Estimates or any successor publication as of the date of a satellite carrier’s application for certification under this section.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title III, § 342, as added [Pub. L. 111–175, title II, § 206](https://www.govinfo.gov/link/plaw/111/public/175), May 27, 2010, [124 Stat. 1250](https://www.govinfo.gov/link/statute/124/1250).)*

@@ -3,9 +3,10 @@ title: "Section 138a - National Laboratory Accreditation Program"
 usc_title: 7
 usc_section: "138a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 138a"
-generated_at: "2026-03-30T02:53:42.275Z"
+generated_at: "2026-11-23T20:25:40.983Z"
+status: "active"
 ---
 
 # § 138a. National Laboratory Accreditation Program
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:42.275Z"
   - **(2)** a laboratory operated by a corporation that only performs analysis of residues on agricultural products for such corporation or any wholly owned subsidiary of such corporation and does not make claims to the public or buyers based on such analysis;
   - **(3)** a laboratory operated by a partnership that only performs analysis of residues on agricultural products for the partners of such partnership and does not make claims to the public or buyers based on such analysis; or
   - **(4)** a laboratory not operated for commercial purposes that performs pesticide chemical residue analysis on agricultural products for research or quality control for the internal use of a person who is initiating the analysis.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XIII, § 1322](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3562](https://www.govinfo.gov/link/statute/104/3562).)*

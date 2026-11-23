@@ -3,9 +3,10 @@ title: "Section 8905 - Exemptions"
 usc_title: 46
 usc_section: "8905"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 8905"
-generated_at: "2026-03-30T02:56:15.552Z"
+generated_at: "2026-11-23T20:27:27.141Z"
+status: "active"
 ---
 
 # § 8905. Exemptions
@@ -17,3 +18,19 @@ generated_at: "2026-03-30T02:56:15.552Z"
   - **(2)** such vessel is—
     - **(A)** 26 feet or less in length; and
     - **(B)** carrying not more than 6 passengers.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 8905(a) | 46:1461(f) |
+| 8905(b) | 46:405(b)(3) |
+
+
+Historical and Revision Notes
+
+8905(a)
+
+8905(b)
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 556](https://www.govinfo.gov/link/statute/97/556); [Pub. L. 104–324, title VII, § 734](https://www.govinfo.gov/link/plaw/104/public/324), title XI, § 1104(f), Oct. 19, 1996, [110 Stat. 3941](https://www.govinfo.gov/link/statute/110/3941), 3967; [Pub. L. 111–281, title VI, § 606](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2967](https://www.govinfo.gov/link/statute/124/2967); [Pub. L. 116–283, div. G, title LVXXXIII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXIII], § 8317, Jan. 1, 2021, [134 Stat. 4700](https://www.govinfo.gov/link/statute/134/4700).)*

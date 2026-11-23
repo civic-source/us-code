@@ -3,9 +3,10 @@ title: "Section 3758 - Service of notice of foreclosure sale"
 usc_title: 12
 usc_section: "3758"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 3758"
-generated_at: "2026-03-30T02:53:53.497Z"
+generated_at: "2026-11-23T20:25:59.349Z"
+status: "active"
 ---
 
 # § 3758. Service of notice of foreclosure sale
@@ -29,3 +30,7 @@ The foreclosure commissioner shall serve the notice of default and foreclosure s
     - **(B)** If there is no newspaper published at least weekly which has a general circulation in one of the counties in which the security property being sold is located, copies of the notice of default and foreclosure sale shall be posted not less than 21 days before the date of the foreclosure sale—
       - **(i)** at the courthouse of any county or counties in which the security property is located; and
       - **(ii)** at the place where the sale is to be held.
+
+## Source Credit
+
+*([Pub. L. 103–327, title II](https://www.govinfo.gov/link/plaw/103/public/327), Sept. 28, 1994, [108 Stat. 2316](https://www.govinfo.gov/link/statute/108/2316).)*

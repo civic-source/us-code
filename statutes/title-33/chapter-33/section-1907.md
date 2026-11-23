@@ -3,9 +3,10 @@ title: "Section 1907 - Violations"
 usc_title: 33
 usc_section: "1907"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1907"
-generated_at: "2026-03-30T02:55:41.110Z"
+generated_at: "2026-11-23T20:26:54.102Z"
+status: "active"
 ---
 
 # § 1907. Violations
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:41.110Z"
   - **(1)** The Secretary may inspect a ship to which this chapter applies as provided under section 1902(a)(5) of this title , to verify whether the ship is in compliance with Annex VI to the Convention and this chapter.
   - **(2)** If an inspection under this subsection or any other information indicates that a violation has occurred, the Secretary, or the Administrator in a matter referred by the Secretary, may undertake enforcement action under this section.
   - **(3)** Notwithstanding subsection (b) and paragraph (2) of this subsection, the Administrator shall have all of the authorities of the Secretary, as specified in subsection (b) of this section, for the purposes of enforcing regulations 17 and 18 of Annex VI to the Convention to the extent that shoreside violations are the subject of the action and in any other matter referred to the Administrator by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 96–478, § 8](https://www.govinfo.gov/link/plaw/96/public/478), Oct. 21, 1980, [94 Stat. 2300](https://www.govinfo.gov/link/statute/94/2300); [Pub. L. 100–220, title II, § 2104](https://www.govinfo.gov/link/plaw/100/public/220), Dec. 29, 1987, [101 Stat. 1462](https://www.govinfo.gov/link/statute/101/1462); [Pub. L. 101–225, title II, § 201(2)](https://www.govinfo.gov/link/plaw/101/public/225), (3), Dec. 12, 1989, [103 Stat. 1910](https://www.govinfo.gov/link/statute/103/1910); [Pub. L. 104–227, title II, § 201(e)](https://www.govinfo.gov/link/plaw/104/public/227), Oct. 2, 1996, [110 Stat. 3043](https://www.govinfo.gov/link/statute/110/3043); [Pub. L. 110–280, § 8](https://www.govinfo.gov/link/plaw/110/public/280), July 21, 2008, [122 Stat. 2614](https://www.govinfo.gov/link/statute/122/2614).)*

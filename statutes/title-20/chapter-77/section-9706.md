@@ -3,9 +3,10 @@ title: "Section 9706 - Studies by the Comptroller General"
 usc_title: 20
 usc_section: "9706"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 9706"
-generated_at: "2026-03-30T02:54:48.232Z"
+generated_at: "2026-11-23T20:26:15.007Z"
+status: "active"
 ---
 
 # § 9706. Studies by the Comptroller General
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:48.232Z"
     - **(D)** The extent to which consumers know how to get a copy of a consumer report.
     - **(E)** The extent to which consumers know and understand the factors that positively or negatively impact credit scores.
   - **(3)** Before the end of the 12-month period beginning on December 4, 2003 , the Comptroller General shall submit a report to Congress on the findings and conclusions of the Comptroller General pursuant to the study conducted under this subsection, together with such recommendations for legislative or administrative action as the Comptroller General may determine to be appropriate, including recommendations on methods for improving financial literacy among consumers.
+
+## Source Credit
+
+*([Pub. L. 108–159, title V, § 517](https://www.govinfo.gov/link/plaw/108/public/159), Dec. 4, 2003, [117 Stat. 2008](https://www.govinfo.gov/link/statute/117/2008).)*

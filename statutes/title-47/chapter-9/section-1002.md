@@ -3,9 +3,10 @@ title: "Section 1002 - Assistance capability requirements"
 usc_title: 47
 usc_section: "1002"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 1002"
-generated_at: "2026-03-30T02:56:24.529Z"
+generated_at: "2026-11-23T20:27:28.979Z"
+status: "active"
 ---
 
 # § 1002. Assistance capability requirements
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:24.529Z"
   - **(3)** A telecommunications carrier shall not be responsible for decrypting, or ensuring the government’s ability to decrypt, any communication encrypted by a subscriber or customer, unless the encryption was provided by the carrier and the carrier possesses the information necessary to decrypt the communication.
 - **(c)** In emergency or exigent circumstances (including those described in sections 2518(7) or (11)(b) and 3125 of title 18 and section 1805(e) of title 50 ), a carrier at its discretion may comply with subsection (a)(3) by allowing monitoring at its premises if that is the only means of accomplishing the interception or access.
 - **(d)** A telecommunications carrier that is a provider of commercial mobile service (as defined in section 332(d) of this title ) offering a feature or service that allows subscribers to redirect, hand off, or assign their wire or electronic communications to another service area or another service provider or to utilize facilities in another service area or of another service provider shall ensure that, when the carrier that had been providing assistance for the interception of wire or electronic communications or access to call-identifying information pursuant to a court order or lawful authorization no longer has access to the content of such communications or call-identifying information within the service area in which interception has been occurring as a result of the subscriber’s use of such a feature or service, information is made available to the government (before, during, or immediately after the transfer of such communications) identifying the provider of a wire or electronic communication service that has acquired access to the communications.
+
+## Source Credit
+
+*([Pub. L. 103–414, title I, § 103](https://www.govinfo.gov/link/plaw/103/public/414), Oct. 25, 1994, [108 Stat. 4280](https://www.govinfo.gov/link/statute/108/4280).)*

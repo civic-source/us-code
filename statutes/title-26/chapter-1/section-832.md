@@ -3,9 +3,10 @@ title: "Section 832 - Insurance company taxable income"
 usc_title: 26
 usc_section: "832"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 832"
-generated_at: "2026-03-30T02:55:27.731Z"
+generated_at: "2026-11-23T20:26:45.888Z"
+status: "active"
 ---
 
 # § 832. Insurance company taxable income
@@ -119,3 +120,59 @@ generated_at: "2026-03-30T02:55:27.731Z"
   - **(1)** there shall be allowed as a deduction the increase for the taxable year in savings credited to subscriber accounts, or
   - **(2)** there shall be included as an item of gross income the decrease for the taxable year in savings credited to subscriber accounts.
 - **(g)** In the case of an insurance company subject to tax under section 831(a) filing or required to file a consolidated return under section 1501 with respect to any affiliated group for any taxable year, any determination under this part with respect to any dividend paid by one member of such group to another member of such group shall be made as if such group were not filing a consolidated return.
+
+In general
+
+Amendments treated as change in method of accounting
+
+Coordination with section
+
+In general
+
+Amendments treated as change in method of accounting.—
+
+In general
+
+Adjustments
+
+Treatment of companies which took into account salvage recoverable
+
+Special rule for overestimates
+
+Effect on earnings and profits
+
+In general
+
+Special transitional rule for title insurance companies
+
+In general
+
+Fresh start
+
+Effect on earnings and profits
+
+Certain Physicians’ and Surgeons’ Mutual Protection and Interindemnity Arrangements or Associations.—
+
+Treatment of arrangements or associations.—
+
+Capital contributions
+
+Return of contributions.—
+
+In general
+
+Source of returns
+
+Deduction for members of eligible arrangements or associations.—
+
+Payment as trade or business expenses
+
+Refunds of initial payments
+
+Eligible arrangements or associations
+
+Effective Date
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 264; Mar. 13, 1956, ch. 83, § 3(b), [70 Stat. 48](https://www.govinfo.gov/link/statute/70/48); [Pub. L. 87–834, § 8(e)(2)](https://www.govinfo.gov/link/plaw/87/public/834) –(5), Oct. 16, 1962, [76 Stat. 997](https://www.govinfo.gov/link/statute/76/997), 998; [Pub. L. 88–272, title II, § 228(c)](https://www.govinfo.gov/link/plaw/88/public/272), Feb. 26, 1964, [78 Stat. 99](https://www.govinfo.gov/link/statute/78/99); [Pub. L. 89–809, title I, § 104(i)(7)](https://www.govinfo.gov/link/plaw/89/public/809), Nov. 13, 1966, [80 Stat. 1562](https://www.govinfo.gov/link/statute/80/1562); [Pub. L. 90–240, § 5(a)](https://www.govinfo.gov/link/plaw/90/public/240) –(c), Jan. 2, 1968, [81 Stat. 776](https://www.govinfo.gov/link/statute/81/776), 777; [Pub. L. 93–483, § 5](https://www.govinfo.gov/link/plaw/93/public/483), Oct. 26, 1974, [88 Stat. 1458](https://www.govinfo.gov/link/statute/88/1458); [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1901(a)(108), (b)(1)(T), (U), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1782](https://www.govinfo.gov/link/statute/90/1782), 1792, 1834; [Pub. L. 97–248, title II, § 234(b)(2)(A)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 503](https://www.govinfo.gov/link/statute/96/503); [Pub. L. 98–369, div. A, title II, § 211(b)(9)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 755](https://www.govinfo.gov/link/statute/98/755); [Pub. L. 99–514, title X](https://www.govinfo.gov/link/plaw/99/public/514), §§ 1021(a), (b), 1022(a), 1023(a), 1024(c)(1)–(6), Oct. 22, 1986, [100 Stat. 2395](https://www.govinfo.gov/link/statute/100/2395), 2397, 2399, 2406, 2407; [Pub. L. 100–647, title I, § 1010(c)](https://www.govinfo.gov/link/plaw/100/public/647), (d)(1), (2), Nov. 10, 1988, [102 Stat. 3451–3453](https://www.govinfo.gov/link/statute/102/3451); [Pub. L. 101–508, title XI](https://www.govinfo.gov/link/plaw/101/public/508), §§ 11303(a), (b), 11305(a), Nov. 5, 1990, [104 Stat. 1388–450](https://www.govinfo.gov/link/statute/104/1388), 1388–451; [Pub. L. 104–188, title I](https://www.govinfo.gov/link/plaw/104/public/188), §§ 1702(h)(3), 1704(t)(45), Aug. 20, 1996, [110 Stat. 1873](https://www.govinfo.gov/link/statute/110/1873), 1889; [Pub. L. 105–34, title X, § 1084(b)(4)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 955](https://www.govinfo.gov/link/statute/111/955); [Pub. L. 113–295, div. A, title II, § 221(a)(41)(G)](https://www.govinfo.gov/link/plaw/113/public/295), (69), Dec. 19, 2014, [128 Stat. 4044](https://www.govinfo.gov/link/statute/128/4044), 4048; [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 13001(b)(2)(I), 13515(a), Dec. 22, 2017, [131 Stat. 2096](https://www.govinfo.gov/link/statute/131/2096), 2144; [Pub. L. 115–141, div. U, title IV, § 401(a)(143)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1191](https://www.govinfo.gov/link/statute/132/1191).)*

@@ -3,9 +3,10 @@ title: "Section 4109 - National Veterans’ Employment and Training Services Ins
 usc_title: 38
 usc_section: "4109"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 4109"
-generated_at: "2026-03-30T02:55:53.516Z"
+generated_at: "2026-11-23T20:27:01.926Z"
+status: "active"
 ---
 
 # § 4109. National Veterans’ Employment and Training Services Institute
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:53.516Z"
 - **(d)**
   - **(1)** The Secretary shall require that each disabled veterans’ outreach program specialist and local veterans’ employment representative who receives training provided by the Institute, or its successor, is given a final examination to evaluate the specialist’s or representative’s performance in receiving such training.
   - **(2)** The results of such final examination shall be provided to the entity that sponsored the specialist or representative who received the training.
+
+## Source Credit
+
+*(Added [Pub. L. 97–306, title III, § 308(a)](https://www.govinfo.gov/link/plaw/97/public/306), Oct. 14, 1982, [96 Stat. 1440](https://www.govinfo.gov/link/statute/96/1440), § 2009; amended [Pub. L. 100–323, § 8(a)](https://www.govinfo.gov/link/plaw/100/public/323), May 20, 1988, [102 Stat. 566](https://www.govinfo.gov/link/statute/102/566); renumbered § 4109, [Pub. L. 102–83, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/83), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 107–288, § 5(a)(1)(F)](https://www.govinfo.gov/link/plaw/107/public/288), (e), Nov. 7, 2002, [116 Stat. 2044](https://www.govinfo.gov/link/statute/116/2044), 2046; [Pub. L. 112–56, title II, § 240(a)](https://www.govinfo.gov/link/plaw/112/public/56), Nov. 21, 2011, [125 Stat. 727](https://www.govinfo.gov/link/statute/125/727).)*

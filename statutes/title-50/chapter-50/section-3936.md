@@ -3,9 +3,10 @@ title: "Section 3936 - Statute of limitations"
 usc_title: 50
 usc_section: "3936"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3936"
-generated_at: "2026-03-30T02:56:26.263Z"
+generated_at: "2026-11-23T20:27:31.054Z"
+status: "active"
 ---
 
 # § 3936. Statute of limitations
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:56:26.263Z"
 - **(a)** The period of a servicemember’s military service may not be included in computing any period limited by law, regulation, or order for the bringing of any action or proceeding in a court, or in any board, bureau, commission, department, or other agency of a State (or political subdivision of a State) or the United States by or against the servicemember or the servicemember’s heirs, executors, administrators, or assigns.
 - **(b)** A period of military service may not be included in computing any period provided by law for the redemption of real property sold or forfeited to enforce an obligation, tax, or assessment.
 - **(c)** This section does not apply to any period of limitation prescribed by or under the internal revenue laws of the United States.
+
+## Source Credit
+
+*(Oct. 17, 1940, ch. 888, title II, § 206, as added [Pub. L. 108–189, § 1](https://www.govinfo.gov/link/plaw/108/public/189), Dec. 19, 2003, [117 Stat. 2844](https://www.govinfo.gov/link/statute/117/2844).)*

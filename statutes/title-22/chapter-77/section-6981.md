@@ -3,9 +3,10 @@ title: "Section 6981 - Establishment of technical assistance and rule of law pro
 usc_title: 22
 usc_section: "6981"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6981"
-generated_at: "2026-03-30T02:55:05.434Z"
+generated_at: "2026-11-23T20:26:32.638Z"
+status: "active"
 ---
 
 # § 6981. Establishment of technical assistance and rule of law programs
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:05.434Z"
   - **(3)** The Secretary of Labor may not provide assistance under the program established under this subsection to the All-China Federation of Trade Unions.
 - **(c)** The Secretary of State is authorized to establish a program to conduct rule of law training and technical assistance related to development of the legal system and civil society generally in the People’s Republic of China.
 - **(d)** The programs authorized by this section may be used to conduct activities such as seminars and workshops, drafting of commercial and labor codes, legal training, publications, financing the operating costs for nongovernmental organizations working in this area, and funding the travel of individuals to the United States and to the People’s Republic of China to provide and receive training.
+
+## Source Credit
+
+*([Pub. L. 106–286, div. B, title V, § 511](https://www.govinfo.gov/link/plaw/106/public/286), Oct. 10, 2000, [114 Stat. 905](https://www.govinfo.gov/link/statute/114/905).)*

@@ -3,9 +3,10 @@ title: "Section 614 - Definition of property"
 usc_title: 26
 usc_section: "614"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 614"
-generated_at: "2026-03-30T02:55:27.721Z"
+generated_at: "2026-11-23T20:26:45.838Z"
+status: "active"
 ---
 
 # § 614. Definition of property
@@ -40,3 +41,21 @@ generated_at: "2026-03-30T02:55:27.721Z"
 - **(e)**
   - **(1)** If a taxpayer owns two or more separate nonoperating mineral interests in a single tract or parcel of land or in two or more adjacent tracts or parcels of land, the Secretary shall, on showing by the taxpayer that a principal purpose is not the avoidance of tax, permit the taxpayer to treat (for all purposes of this subtitle) all such mineral interests in each separate kind of mineral deposit as one property. If such permission is granted for any taxable year, the taxpayer shall treat such interests as one property for all subsequent taxable years unless the Secretary consents to a different treatment.
   - **(2)** For purposes of this subsection, the term “nonoperating mineral interests” includes only interests which are not operating mineral interests.
+
+“For purposes of the Internal Revenue Code of 1986 [formerly I.R.C. 1954]—
+
+Fair market value rule
+
+Allocation of adjustments, etc
+
+Definitions
+
+Section
+
+aggregation.—
+
+Property
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 210; [Pub. L. 85–866, title I, § 37(a)](https://www.govinfo.gov/link/plaw/85/public/866) –(d), Sept. 2, 1958, [72 Stat. 1633–1637](https://www.govinfo.gov/link/statute/72/1633); [Pub. L. 88–272, title II, § 226(a)](https://www.govinfo.gov/link/plaw/88/public/272), (b), Feb. 26, 1964, [78 Stat. 94](https://www.govinfo.gov/link/statute/78/94), 96; [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1901(a)(87)(A)(i), (B), (C), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1779](https://www.govinfo.gov/link/statute/90/1779), 1834; [Pub. L. 95–618, title IV, § 403(a)(2)(C)](https://www.govinfo.gov/link/plaw/95/public/618), (D), Nov. 9, 1978, [92 Stat. 3204](https://www.govinfo.gov/link/statute/92/3204); [Pub. L. 101–508, title XI, § 11522(b)(2)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–486](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 113–295, div. A, title II, § 221(a)(65)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4048](https://www.govinfo.gov/link/statute/128/4048).)*

@@ -3,9 +3,10 @@ title: "Section 7424 - Applications"
 usc_title: 20
 usc_section: "7424"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 7424"
-generated_at: "2026-03-30T02:54:48.212Z"
+generated_at: "2026-11-23T20:26:14.908Z"
+status: "active"
 ---
 
 # § 7424. Applications
@@ -59,3 +60,7 @@ generated_at: "2026-03-30T02:54:48.212Z"
   - **(1)** the development of applications under this subpart, including identifying eligible entities that have not applied for such grants and undertaking appropriate activities to encourage such entities to apply for grants under this subpart;
   - **(2)** improvement in the quality of implementation, content, and evaluation of activities supported under this subpart; and
   - **(3)** integration of activities under this subpart with other educational activities carried out by the local educational agency.
+
+## Source Credit
+
+*([Pub. L. 89–10, title VI, § 6114](https://www.govinfo.gov/link/plaw/89/public/10), formerly title VII, § 7114, as added [Pub. L. 107–110, title VII, § 701](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1910](https://www.govinfo.gov/link/statute/115/1910), renumbered title VI, § 6114, and amended [Pub. L. 114–95, title VI](https://www.govinfo.gov/link/plaw/114/public/95), §§ 6001(a), (b)(1), (4), § 6002(f), Dec. 10, 2015, [129 Stat. 2046](https://www.govinfo.gov/link/statute/129/2046), 2049.)*

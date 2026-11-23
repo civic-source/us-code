@@ -3,12 +3,17 @@ title: "Section 2024 - Authorization of appropriations for payment of expenses"
 usc_title: 22
 usc_section: "2024"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2024"
-generated_at: "2026-03-30T02:55:05.341Z"
+generated_at: "2026-11-23T20:26:32.153Z"
+status: "active"
 ---
 
 # § 2024. Authorization of appropriations for payment of expenses
 
 There is authorized to be appropriated annually to the Department of State, out of any money in the Treasury not otherwise appropriated, such sums as may be necessary for the payment by the United States of its share of the expenses of the International Atomic Energy Agency as apportioned by the Agency in accordance with paragraph (D) of article XIV of the Statute of the Agency, and for all necessary salaries and expenses of the representatives provided for in section 2021 of this title and of their appropriate staffs, including personal services without regard to the civil service laws and chapter 51 and subchapter III of chapter 53 of title 5; travel expenses without regard to the Standardized Government Travel Regulations, as amended, subchapter I of chapter 57 of title 5, and section 5731 of title 5 , as amended; salaries as authorized by the Foreign Service Act of 1980 [ 22 U.S.C. 3901 et seq.], or as authorized by the Atomic Energy Act of 1954, as amended [ 42 U.S.C. 2011 et seq.], and expenses and allowances of personnel and dependents as authorized by the Foreign Service Act of 1980; services as authorized by section 3109 of title 5 ; translating and other services, by contract; hire of passenger motor vehicles and other local transportation; printing and binding without regard to section 501 of title 44 ; official functions and courtesies; such sums as may be necessary to defray the expenses of United States participation in the Preparatory Commission for the Agency, established pursuant to annex I of the Statute of the Agency; and such other expenses as may be authorized by the Secretary of State.
 
+
+## Source Credit
+
+*([Pub. L. 85–177, § 5](https://www.govinfo.gov/link/plaw/85/public/177), Aug. 28, 1957, [71 Stat. 454](https://www.govinfo.gov/link/statute/71/454); [Pub. L. 96–465, title II, § 2206(a)(7)(B)](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2161](https://www.govinfo.gov/link/statute/94/2161).)*

@@ -3,9 +3,10 @@ title: "Section 8084 - Office of Marine Forces Reserve: appointment of Commander
 usc_title: 10
 usc_section: "8084"
 chapter: 809
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 8084"
-generated_at: "2026-03-30T02:53:38.239Z"
+generated_at: "2026-11-23T20:25:52.142Z"
+status: "active"
 ---
 
 # § 8084. Office of Marine Forces Reserve: appointment of Commander
@@ -22,3 +23,17 @@ generated_at: "2026-03-30T02:53:38.239Z"
     - **(B)** the waiver is necessary for the good of the service.
 - **(c)** The Commander, Marine Forces Reserve, is appointed for a term determined by the Commandant of the Marine Corps, normally four years, but may be removed for cause at any time. An officer serving as Commander, Marine Forces Reserve, may be reappointed for one additional term of up to four years.
 - **(d)** The Commander, Marine Forces Reserve, shall submit to the Secretary of Defense, through the Secretary of the Navy, an annual report on the state of the Marine Corps Reserve and the ability of the Marine Corps Reserve to meet its missions. The report shall be prepared in conjunction with the Commandant of the Marine Corps and may be submitted in classified and unclassified versions.
+
+Establishment of Office; Commander, Marine Forces Reserve
+
+Appointment
+
+Term; Reappointment
+
+Annual Report
+
+Term of Office; Grade
+
+## Source Credit
+
+*(Added [Pub. L. 104–201, div. A, title XII, § 1212(c)(1)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2692](https://www.govinfo.gov/link/statute/110/2692), § 5144; amended [Pub. L. 106–65, div. A, title V, § 554(d)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 617](https://www.govinfo.gov/link/statute/113/617); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title V, § 507(c), title X, § 1087(a)(19)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–103, 1654A–291; [Pub. L. 107–314, div. A, title V, § 501(a)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2529](https://www.govinfo.gov/link/statute/116/2529); [Pub. L. 108–375, div. A, title V, § 536(a)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1901](https://www.govinfo.gov/link/statute/118/1901); [Pub. L. 114–328, div. A, title V, § 502(ee)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2105](https://www.govinfo.gov/link/statute/130/2105); [Pub. L. 115–91, div. A, title X, § 1051(a)(29)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1562](https://www.govinfo.gov/link/statute/131/1562); renumbered § 8084 and amended [Pub. L. 115–232, div. A, title VIII](https://www.govinfo.gov/link/plaw/115/public/232), §§ 807(a)(2), 809(a), Aug. 13, 2018, [132 Stat. 1834](https://www.govinfo.gov/link/statute/132/1834), 1840; [Pub. L. 116–92, div. A, title V, § 514(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1349](https://www.govinfo.gov/link/statute/133/1349).)*

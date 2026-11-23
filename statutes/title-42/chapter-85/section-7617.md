@@ -3,9 +3,10 @@ title: "Section 7617 - Economic impact assessment"
 usc_title: 42
 usc_section: "7617"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7617"
-generated_at: "2026-03-30T02:56:11.319Z"
+generated_at: "2026-11-23T20:27:22.937Z"
+status: "active"
 ---
 
 # § 7617. Economic impact assessment
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:11.319Z"
   - **(3)** to authorize or require any judicial review of any such standard or regulation, or any stay or injunction of the proposal, promulgation, or effectiveness of such standard or regulation on the basis of failure to comply with this section.
 - **(f)** The requirements imposed on the Administrator under this section shall be treated as nondiscretionary duties for purposes of section 7604(a)(2) of this title , relating to citizen suits. The sole method for enforcement of the Administrator’s duty under this section shall be by bringing a citizen suit under such section 7604(a)(2) for a court order to compel the Administrator to perform such duty. Violation of any such order shall subject the Administrator to penalties for contempt of court.
 - **(g)** In the case of any provision of this chapter in which costs are expressly required to be taken into account, the adequacy or inadequacy of any assessment required under this section may be taken into consideration, but shall not be treated for purposes of judicial review of any such provision as conclusive with respect to compliance or noncompliance with the requirement of such provision to take cost into account.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title III, § 317, as added [Pub. L. 95–95, title III, § 307](https://www.govinfo.gov/link/plaw/95/public/95), Aug. 7, 1977, [91 Stat. 778](https://www.govinfo.gov/link/statute/91/778); amended [Pub. L. 95–623, § 13(d)](https://www.govinfo.gov/link/plaw/95/public/623), Nov. 9, 1978, [92 Stat. 3458](https://www.govinfo.gov/link/statute/92/3458).)*

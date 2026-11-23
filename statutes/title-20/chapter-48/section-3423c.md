@@ -3,9 +3,10 @@ title: "Section 3423c - Office of Indian Education"
 usc_title: 20
 usc_section: "3423c"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 3423c"
-generated_at: "2026-03-30T02:54:48.177Z"
+generated_at: "2026-11-23T20:26:14.730Z"
+status: "active"
 ---
 
 # § 3423c. Office of Indian Education
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:48.177Z"
 - **(c)**
   - **(1)** The Secretary shall give a preference to Indian persons in all personnel actions in the Office.
   - **(2)** Such preference shall be implemented in the same fashion as the preference given to any veteran under section 45 of title 25 .
+
+## Source Credit
+
+*([Pub. L. 96–88, title II, § 215](https://www.govinfo.gov/link/plaw/96/public/88), as added [Pub. L. 103–382, title III, § 372(2)](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 3977](https://www.govinfo.gov/link/statute/108/3977); amended [Pub. L. 114–95, title IX, § 9215(v)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2171](https://www.govinfo.gov/link/statute/129/2171).)*

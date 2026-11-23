@@ -3,9 +3,10 @@ title: "Section 7273 - Program authorized"
 usc_title: 20
 usc_section: "7273"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 7273"
-generated_at: "2026-03-30T02:54:48.209Z"
+generated_at: "2026-11-23T20:26:14.897Z"
+status: "active"
 ---
 
 # § 7273. Program authorized
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:54:48.209Z"
   - **(1)** From the amounts allocated under subsection (a) for grants to eligible entities, the Secretary shall use not less than 15 percent of such amounts to award grants to eligible entities that propose to carry out the activities described in such subsection in rural areas.
   - **(2)** The Secretary shall reduce the amount described in paragraph (1) if the Secretary does not receive a sufficient number of applications of sufficient quality.
 - **(f)** For each fiscal year, the Secretary shall award under this subpart not fewer than 3 grants for activities described in section 7274 of this title and not fewer than 10 grants for activities described in section 7275 of this title , subject to the availability of appropriations, the requirements of subsection (a)(2), and the number and quality of applications.
+
+## Source Credit
+
+*([Pub. L. 89–10, title IV, § 4623](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title IV, § 4601](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2024](https://www.govinfo.gov/link/statute/129/2024).)*

@@ -3,9 +3,10 @@ title: "Section 1173 - Formal evaluation of recommendations"
 usc_title: 38
 usc_section: "1173"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 1173"
-generated_at: "2026-03-30T02:55:53.478Z"
+generated_at: "2026-11-23T20:27:01.619Z"
+status: "active"
 ---
 
 # § 1173. Formal evaluation of recommendations
@@ -35,3 +36,15 @@ generated_at: "2026-03-30T02:55:53.478Z"
     - **(C)** The “below equipoise” category, where the evidence is not sufficient to conclude that a positive association is at least as likely as not, or is not sufficient to make a scientifically informed judgment.
     - **(D)** The “against” category, where the evidence suggests the lack of a positive association.
 - **(d)** Not later than 120 days after the date on which a formal evaluation is commenced, the element of the Department that conducts the evaluation shall submit to the Secretary a recommendation with respect to establishing a presumption of service connection for the toxic exposure and illness, or modifying an existing presumption of service connection, covered by the evaluation.
+
+Formal Evaluations
+
+Evidence, Data, and Factors
+
+Conduct of Evaluations
+
+Recommendation for Establishing a Presumption of Service Connection
+
+## Source Credit
+
+*(Added [Pub. L. 117–168, title II, § 202(a)](https://www.govinfo.gov/link/plaw/117/public/168), Aug. 10, 2022, [136 Stat. 1769](https://www.govinfo.gov/link/statute/136/1769).)*

@@ -3,9 +3,10 @@ title: "Section 6927 - Inspections"
 usc_title: 42
 usc_section: "6927"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6927"
-generated_at: "2026-03-30T02:56:11.272Z"
+generated_at: "2026-11-23T20:27:22.736Z"
+status: "active"
 ---
 
 # § 6927. Inspections
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.272Z"
 - **(e)**
   - **(1)** The Administrator (or the State in the case of a State having an authorized hazardous waste program under this subchapter) shall commence a program to thoroughly inspect every facility for the treatment, storage, or disposal of hazardous waste for which a permit is required under section 6925 of this title no less often than every two years as to its compliance with this subchapter (and the regulations promulgated under this subchapter). Such inspections shall commence not later than twelve months after November 8, 1984 . The Administrator shall, after notice and opportunity for public comment, promulgate regulations governing the minimum frequency and manner of such inspections, including the manner in which records of such inspections shall be maintained and the manner in which reports of such inspections shall be filed. The Administrator may distinguish between classes and categories of facilities commensurate with the risks posed by each class or category.
   - **(2)** Not later than six months after November 8, 1984 , the Administrator shall submit to the Congress a report on the potential for inspections of hazardous waste treatment, storage, or disposal facilities by nongovernmental inspectors as a supplement to inspections conducted by officers, employees, or representatives of the Environmental Protection Agency or States having authorized hazardous waste programs or operating under a cooperative agreement with the Administrator. Such report shall be prepared in cooperation with the States, insurance companies offering environmental impairment insurance, independent companies providing inspection services, and other such groups as appropriate. Such report shall contain recommendations on provisions and requirements for a program of private inspections to supplement governmental inspections.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 3007](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 94–580, § 2](https://www.govinfo.gov/link/plaw/94/public/580), Oct. 21, 1976, [90 Stat. 2810](https://www.govinfo.gov/link/statute/90/2810); amended [Pub. L. 95–609, § 7(j)](https://www.govinfo.gov/link/plaw/95/public/609), Nov. 8, 1978, [92 Stat. 3082](https://www.govinfo.gov/link/statute/92/3082); [Pub. L. 96–482, § 12](https://www.govinfo.gov/link/plaw/96/public/482), Oct. 21, 1980, [94 Stat. 2339](https://www.govinfo.gov/link/statute/94/2339); [Pub. L. 98–616, title II](https://www.govinfo.gov/link/plaw/98/public/616), §§ 229–231, title V, § 502(a), Nov. 8, 1984, [98 Stat. 3255](https://www.govinfo.gov/link/statute/98/3255), 3256, 3276; [Pub. L. 102–386, title I, § 104](https://www.govinfo.gov/link/plaw/102/public/386), Oct. 6, 1992, [106 Stat. 1507](https://www.govinfo.gov/link/statute/106/1507).)*

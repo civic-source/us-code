@@ -3,9 +3,10 @@ title: "Section 283 - Triennial reports of Director of NIH"
 usc_title: 42
 usc_section: "283"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 283"
-generated_at: "2026-03-30T02:56:10.738Z"
+generated_at: "2026-11-23T20:27:20.200Z"
+status: "active"
 ---
 
 # § 283. Triennial reports of Director of NIH
@@ -55,3 +56,7 @@ generated_at: "2026-03-30T02:56:10.738Z"
   - **(2)** identify the actual dollar amounts obligated for such activities; and
   - **(3)** include a plan for research on the specific disease, disorder, or other adverse health condition, including a statement of objectives regarding the research, the means for achieving the objectives, a date by which the objectives are expected to be achieved, and justifications for revisions to the plan.
 - **(c)** In addition to reports required by subsections (a) and (b), the Director of NIH or the head of a national research institute or national center may submit to the Congress such additional reports as the Director or the head of such institute or center determines to be appropriate.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title IV, § 403, as added [Pub. L. 109–482, title I, § 104(a)(3)](https://www.govinfo.gov/link/plaw/109/public/482), Jan. 15, 2007, [120 Stat. 3689](https://www.govinfo.gov/link/statute/120/3689); amended [Pub. L. 110–85, title XI, § 1104(3)](https://www.govinfo.gov/link/plaw/110/public/85), Sept. 27, 2007, [121 Stat. 975](https://www.govinfo.gov/link/statute/121/975); [Pub. L. 114–255, div. A, title II, § 2032](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1056](https://www.govinfo.gov/link/statute/130/1056).)*

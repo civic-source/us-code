@@ -3,9 +3,10 @@ title: "Section 1524 - Assessment; reports"
 usc_title: 6
 usc_section: "1524"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 1524"
-generated_at: "2026-03-30T02:53:09.510Z"
+generated_at: "2026-11-23T20:25:34.970Z"
+status: "active"
 ---
 
 # § 1524. Assessment; reports
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:53:09.510Z"
       - **(i)** a copy of the plan developed pursuant to section 1522(a)(2) of this title ; and
       - **(ii)** the improved metrics developed pursuant to section 1522(c) of this title .
 - **(d)** Each report required under this section shall be submitted in unclassified form, but may include a classified annex.
+
+## Source Credit
+
+*([Pub. L. 114–113, div. N, title II, § 226](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2969](https://www.govinfo.gov/link/statute/129/2969); [Pub. L. 115–278, § 2(h)(1)(F)](https://www.govinfo.gov/link/plaw/115/public/278), Nov. 16, 2018, [132 Stat. 4182](https://www.govinfo.gov/link/statute/132/4182); [Pub. L. 117–263, div. G, title LXXI, § 7143(d)(1)(B)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3663](https://www.govinfo.gov/link/statute/136/3663).)*

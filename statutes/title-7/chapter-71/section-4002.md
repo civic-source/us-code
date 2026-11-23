@@ -3,9 +3,10 @@ title: "Section 4002 - Alcohol processor grain reserve program"
 usc_title: 7
 usc_section: "4002"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 4002"
-generated_at: "2026-03-30T02:53:42.405Z"
+generated_at: "2026-11-23T20:25:41.607Z"
+status: "active"
 ---
 
 # § 4002. Alcohol processor grain reserve program
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:42.405Z"
 - **(i)** The Secretary shall announce the terms and conditions of the processor grain reserve program as far in advance of making loans as practicable.
 - **(j)** The Secretary may use the facilities of the Commodity Credit Corporation to carry out this section.
 - **(k)** There are authorized to be appropriated such sums as may be necessary to carry out this section. Any loans made under this section shall be made to such extent and such amounts as provided in appropriation Acts. The authority to make loans under this section shall expire five years after December 3, 1980 .
+
+## Source Credit
+
+*([Pub. L. 96–494, title II, § 209](https://www.govinfo.gov/link/plaw/96/public/494), Dec. 3, 1980, [94 Stat. 2575](https://www.govinfo.gov/link/statute/94/2575).)*

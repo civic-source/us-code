@@ -3,9 +3,10 @@ title: "Section 1232c - State agency monitoring and enforcement"
 usc_title: 20
 usc_section: "1232c"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1232c"
-generated_at: "2026-03-30T02:54:48.157Z"
+generated_at: "2026-11-23T20:26:14.617Z"
+status: "active"
 ---
 
 # § 1232c. State agency monitoring and enforcement
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:48.157Z"
   - **(2)** suspend payments to any local agency, in whole or in part, under the program if the State has reason to believe that the local agency has failed substantially to comply with any of such requirements, except that (A) the State shall not suspend such payments until fifteen days after the State provides the local agency an opportunity to show cause why such action should not be taken and (B) no such suspension shall continue in effect longer than sixty days unless the State within such period provides the notice for a hearing required under paragraph (3) of this subsection;
   - **(3)** withhold payments, in whole or in part, under any such program if the State finds, after reasonable notice and opportunity for a hearing before an impartial hearing officer, that the local agency has failed substantially to comply with any of such requirements.
 - **(c)** Any withholding of payments under subsection (b)(3) of this subsection 1 1 So in original. Probably should be “section”. shall continue until the State is satisfied that there is no longer a failure to comply substantially with any of such requirements.
+
+## Source Credit
+
+*([Pub. L. 90–247, title IV, § 440](https://www.govinfo.gov/link/plaw/90/public/247), formerly § 434, as added [Pub. L. 95–561, title XII, § 1231(a)(3)](https://www.govinfo.gov/link/plaw/95/public/561), Nov. 1, 1978, [92 Stat. 2342](https://www.govinfo.gov/link/statute/92/2342); renumbered § 440 and amended [Pub. L. 103–382, title II](https://www.govinfo.gov/link/plaw/103/public/382), §§ 212(b)(1), 261(e), Oct. 20, 1994, [108 Stat. 3913](https://www.govinfo.gov/link/statute/108/3913), 3927.)*

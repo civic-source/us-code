@@ -3,9 +3,10 @@ title: "Section 3116 - Expedited hiring authority for post-secondary students; c
 usc_title: 5
 usc_section: "3116"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 3116"
-generated_at: "2026-03-30T02:52:55.999Z"
+generated_at: "2026-11-23T20:25:31.799Z"
+status: "active"
 ---
 
 # § 3116. Expedited hiring authority for post-secondary students; competitive service
@@ -46,3 +47,51 @@ generated_at: "2026-03-30T02:52:55.999Z"
 - **(i)**
   - **(1)** Nothing in this section shall preclude the Secretary of Defense from exercising any authority to appoint a post-secondary student under section 1106 of the National Defense Authorization Act for Fiscal Year 2017 (10 U.S.C. note prec. 1580), or any applicable successor statute.
   - **(2)** Any regulations prescribed by the Director for the administration of this section shall not apply to the Department of Defense during the period ending on the date on which the appointment authority of the Secretary of Defense under section 1106 of the National Defense Authorization Act for Fiscal Year 2017 (10 U.S.C. note prec. 1580), or any applicable successor statute, terminates.
+
+Definitions
+
+Director
+
+Institution of higher education
+
+Student
+
+Appointment.—
+
+In general
+
+Restrictions
+
+Public Notice
+
+In general
+
+Requirements
+
+Limitation on Appointments.—
+
+In general
+
+Exceptions
+
+Conversion
+
+Termination
+
+Regulations
+
+Reporting.—
+
+In general
+
+Content
+
+Special Provision Regarding the Department of Defense.—
+
+Authority
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 115–232, div. A, title XI, § 1108(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2007](https://www.govinfo.gov/link/statute/132/2007); amended [Pub. L. 116–92, div. A, title XI, § 1115](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1604](https://www.govinfo.gov/link/statute/133/1604).)*

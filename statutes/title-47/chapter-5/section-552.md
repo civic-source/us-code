@@ -3,9 +3,10 @@ title: "Section 552 - Consumer protection and customer service"
 usc_title: 47
 usc_section: "552"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 552"
-generated_at: "2026-03-30T02:56:24.520Z"
+generated_at: "2026-11-23T20:27:28.932Z"
+status: "active"
 ---
 
 # § 552. Consumer protection and customer service
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:24.520Z"
 - **(d)**
   - **(1)** Nothing in this subchapter shall be construed to prohibit any State or any franchising authority from enacting or enforcing any consumer protection law, to the extent not specifically preempted by this subchapter.
   - **(2)** Nothing in this section shall be construed to preclude a franchising authority and a cable operator from agreeing to customer service requirements that exceed the standards established by the Commission under subsection (b). Nothing in this subchapter shall be construed to prevent the establishment or enforcement of any municipal law or regulation, or any State law, concerning customer service that imposes customer service requirements that exceed the standards set by the Commission under this section, or that addresses matters not addressed by the standards set by the Commission under this section.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title VI, § 632, as added [Pub. L. 98–549, § 2](https://www.govinfo.gov/link/plaw/98/public/549), Oct. 30, 1984, [98 Stat. 2796](https://www.govinfo.gov/link/statute/98/2796); amended [Pub. L. 102–385, § 8](https://www.govinfo.gov/link/plaw/102/public/385), Oct. 5, 1992, [106 Stat. 1484](https://www.govinfo.gov/link/statute/106/1484); [Pub. L. 104–104, title III, § 301(g)](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 117](https://www.govinfo.gov/link/statute/110/117).)*

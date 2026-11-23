@@ -3,9 +3,10 @@ title: "Section 6311 - Research and development grants"
 usc_title: 49
 usc_section: "6311"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 6311"
-generated_at: "2026-03-30T02:56:19.321Z"
+generated_at: "2026-11-23T20:27:34.702Z"
+status: "active"
 ---
 
 # § 6311. Research and development grants
@@ -17,3 +18,7 @@ The Secretary may make grants to, or enter into cooperative agreements or contra
   - **(3)** demonstration programs by States, local governments, and metropolitan planning organizations to coordinate data collection, reporting, management, storage, and archiving to simplify data comparisons across jurisdictions;
   - **(4)** development of electronic clearinghouses of transportation data and related information, as part of the Library; and
   - **(5)** development and improvement of methods for sharing geographic data, in support of the database under section 6310 1 1 So in original. Probably should be “section 6309”. and the National Spatial Data Infrastructure developed under Executive Order 12906 (59 Fed. Reg. 17671) (or a successor Executive Order).
+
+## Source Credit
+
+*(Added [Pub. L. 112–141, div. E, title II, § 52011(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 894](https://www.govinfo.gov/link/statute/126/894).)*

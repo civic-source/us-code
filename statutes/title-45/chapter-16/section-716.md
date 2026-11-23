@@ -3,9 +3,10 @@ title: "Section 716 - Final system plan"
 usc_title: 45
 usc_section: "716"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 716"
-generated_at: "2026-03-30T02:55:56.553Z"
+generated_at: "2026-11-23T20:27:05.295Z"
+status: "active"
 ---
 
 # § 716. Final system plan
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:55:56.553Z"
 - **(h)** The final system plan shall recommend the amount of obligations of the Association which are necessary to enable it to implement the final system plan.
 - **(i)** The final system plan may include terms and conditions for any securities to be issued by the Corporation in exchange for the conveyance of rail properties under the final system plan which in the judgement of the Association will minimize any actual or potential debt burden on the Corporation. Any such terms and conditions for securities of the Corporation which purport to directly obligate the Association shall not become effective without affirmative approval, with or without modification by a joint resolution of the Congress.
 - **(j)** Any rail properties over which rail service was being provided as of February 5, 1976 , and which were recommended in the preliminary system plan for transfer to the Corporation, shall be deemed to be designated in the final system plan for transfer to the Corporation under subsection (c)(1)(A) of this section. Any designation in the final system plan, pursuant to subsection (c)(1)(B) of this section, of overhead trackage rights to be acquired by a profitable railroad operating in the region over specified rail properties to be acquired by the Corporation, where such designation does not (1) authorize such profitable railroad to interchange traffic with at least one railroad, or (2) provide for the connection of portions of such profitable railroad’s rail properties, and where the transfer of ownership of such rail properties (including trackage rights) to such profitable railroad was recommended in the preliminary system plan, and the Commission has made a determination with respect thereto, in accordance with subsection (d)(3) of this section, shall be deemed to authorize such profitable railroad to interchange traffic with the Corporation and any other profitable railroad connecting with such specified rail properties.
+
+## Source Credit
+
+*([Pub. L. 93–236, title II, § 206](https://www.govinfo.gov/link/plaw/93/public/236), Jan. 2, 1974, [87 Stat. 994](https://www.govinfo.gov/link/statute/87/994); [Pub. L. 94–5, § 2(b)](https://www.govinfo.gov/link/plaw/94/public/5), Feb. 28, 1975, [89 Stat. 7](https://www.govinfo.gov/link/statute/89/7); [Pub. L. 94–210, title VI, § 607(e)](https://www.govinfo.gov/link/plaw/94/public/210) –(j), (o)–(q), title VIII, § 807, Feb. 5, 1976, [90 Stat. 96–98](https://www.govinfo.gov/link/statute/90/96), 143; [Pub. L. 94–436](https://www.govinfo.gov/link/plaw/94/public/436), §§ 2, 4, Sept. 30, 1976, [90 Stat. 1398](https://www.govinfo.gov/link/statute/90/1398); [Pub. L. 94–555, title II, § 202(a)](https://www.govinfo.gov/link/plaw/94/public/555), (c), Oct. 19, 1976, [90 Stat. 2616](https://www.govinfo.gov/link/statute/90/2616), 2617; [Pub. L. 95–611, § 4(a)](https://www.govinfo.gov/link/plaw/95/public/611), Nov. 8, 1978, [92 Stat. 3090](https://www.govinfo.gov/link/statute/92/3090).)*

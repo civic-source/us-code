@@ -3,9 +3,10 @@ title: "Section 949g - Oaths"
 usc_title: 10
 usc_section: "949g"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 949g"
-generated_at: "2026-03-30T02:53:38.089Z"
+generated_at: "2026-11-23T20:25:51.149Z"
+status: "active"
 ---
 
 # § 949g. Oaths
@@ -17,3 +18,13 @@ generated_at: "2026-03-30T02:53:38.089Z"
     - **(B)** if such an oath is taken, such oath need not again be taken at the time the judge advocate or other person is detailed to that duty.
 - **(b)** Each witness before a military commission under this chapter shall be examined on oath.
 - **(c)** In this section, the term “oath” includes an affirmation.
+
+In General
+
+Witnesses
+
+Oath Defined
+
+## Source Credit
+
+*(Added [Pub. L. 111–84, div. A, title XVIII, § 1802](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2587](https://www.govinfo.gov/link/statute/123/2587).)*

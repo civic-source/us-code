@@ -3,12 +3,17 @@ title: "Section 581 - Standards of export; establishment; shipping without certi
 usc_title: 7
 usc_section: "581"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 581"
-generated_at: "2026-03-30T02:53:42.289Z"
+generated_at: "2026-11-23T20:25:41.053Z"
+status: "active"
 ---
 
 # § 581. Standards of export; establishment; shipping without certificate forbidden; hearings
 
 It shall be unlawful for any person to ship or offer for shipment or for any carrier, or any steamship company, or any person to transport or receive for transportation to any foreign destination, except as provided in this chapter, any apples in packages which are not accompanied by a certificate issued under authority of the Secretary of Agriculture showing that such apples are of a Federal or State grade which meets the minimum of quality established by the Secretary for shipment in export. The Secretary is authorized to prescribe, by regulations, the requirements, other than those of grade, which the fruit must meet before certificates are issued. The Secretary shall provide opportunity, by public hearing or otherwise, for interested persons to examine and make recommendation with respect to any standard of export proposed to be established or designated, or regulation prescribed, by the Secretary for the purposes of this chapter.
 
+
+## Source Credit
+
+*(June 10, 1933, ch. 59, § 1, [48 Stat. 123](https://www.govinfo.gov/link/statute/48/123); [Pub. L. 106–96, § 1(c)](https://www.govinfo.gov/link/plaw/106/public/96), Nov. 12, 1999, [113 Stat. 1321](https://www.govinfo.gov/link/statute/113/1321).)*

@@ -3,9 +3,10 @@ title: "Section 2576b - Excess personal property: sale or donation to assist fir
 usc_title: 10
 usc_section: "2576b"
 chapter: 153
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2576b"
-generated_at: "2026-03-30T02:53:38.164Z"
+generated_at: "2026-11-23T20:25:51.616Z"
+status: "active"
 ---
 
 # § 2576b. Excess personal property: sale or donation to assist firefighting agencies
@@ -22,3 +23,25 @@ generated_at: "2026-03-30T02:53:38.164Z"
 - **(d)** In this section:
   - **(1)** The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and any territory or possession of the United States.
   - **(2)** The term “firefighting agency” means any volunteer, paid, or combined departments that provide fire and emergency medical services.
+
+Transfer Authorized
+
+Conditions for Transfer
+
+Consideration
+
+Definitions
+
+State
+
+Firefighting agency
+
+Appointment of Task Force; Purpose
+
+Participating Major Fire Organizations
+
+Authorization of Appropriations
+
+## Source Credit
+
+*(Added [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title XVII, § 1706(a)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–367; amended [Pub. L. 108–375, div. A, title III, § 354](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1861](https://www.govinfo.gov/link/statute/118/1861).)*

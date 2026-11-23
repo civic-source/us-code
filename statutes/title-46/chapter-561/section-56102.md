@@ -3,9 +3,10 @@ title: "Section 56102 - Additional controls during war or national emergency"
 usc_title: 46
 usc_section: "56102"
 chapter: 561
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 56102"
-generated_at: "2026-03-30T02:56:15.580Z"
+generated_at: "2026-11-23T20:27:27.395Z"
+status: "active"
 ---
 
 # § 56102. Additional controls during war or national emergency
@@ -39,3 +40,76 @@ generated_at: "2026-03-30T02:56:15.580Z"
     - **(A)** A vessel, a facility for building or repairing vessels, or an interest in a vessel or such a facility, that is sold, mortgaged, leased, chartered, delivered, transferred, or documented, or agreed to be sold, mortgaged, leased, chartered, delivered, transferred, or documented, in violation of this section.
     - **(B)** Stock and other securities sold or transferred, or agreed to be sold or transferred, in violation of this section.
     - **(C)** A vessel departing in violation of subsection (a)(6).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 56102(a) | 46 App.:835(a)–(c) (less provisos), (d)–(f). | Sept. 7, 1916, ch. 451, § 37 , as added July 15, 1918, ch. 152, § 4 , 40 Stat. 901 ; Exec. Order No. 6166, § 12, eff. June 10, 1933 ; June 29, 1936, ch. 858 , title II, § 204, title IX, § 904, 49 Stat. 1987 , 2016; Pub. L. 89–346, § 2 , Nov. 8, 1965 , 79 Stat. 1306 ; Pub. L. 97–31, § 12(30) , Aug. 6, 1981 , 95 Stat. 156 . |
+| 56102(b) | 46 App.:835(c) (provisos). |  |
+| 56102(c) | 46 App.:835 (2d par. after cl. (f), last par. words before 9th comma). |  |
+| 56102(d) | 46 App.:835 (last par. words after 9th comma). |  |
+| 56102(e) | 46 App.:835 (1st, 3d pars. after cl. (f)). |  |
+
+
+In General
+
+Trustees
+
+Approval
+
+Disapproval
+
+Operation of vessel
+
+Status of Prohibited Transaction
+
+Recovery of Consideration
+
+In general
+
+Exception
+
+Penalties
+
+Criminal penalty
+
+Forfeiture
+
+Historical and Revision Notes
+
+56102(a)
+
+Sept. 7, 1916, ch. 451, § 37
+
+July 15, 1918, ch. 152, § 4
+
+40 Stat. 901
+
+June 10, 1933
+
+June 29, 1936, ch. 858
+
+49 Stat. 1987
+
+Pub. L. 89–346, § 2
+
+Nov. 8, 1965
+
+79 Stat. 1306
+
+Pub. L. 97–31, § 12(30)
+
+Aug. 6, 1981
+
+95 Stat. 156
+
+56102(b)
+
+56102(c)
+
+56102(d)
+
+56102(e)
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(c)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1652](https://www.govinfo.gov/link/statute/120/1652).)*

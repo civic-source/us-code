@@ -3,9 +3,10 @@ title: "Section 6318 - Parent and family engagement"
 usc_title: 20
 usc_section: "6318"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 6318"
-generated_at: "2026-03-30T02:54:48.194Z"
+generated_at: "2026-11-23T20:26:14.824Z"
+status: "active"
 ---
 
 # § 6318. Parent and family engagement
@@ -71,3 +72,7 @@ generated_at: "2026-03-30T02:54:48.194Z"
 - **(f)** In carrying out the parent and family engagement requirements of this part, local educational agencies and schools, to the extent practicable, shall provide opportunities for the informed participation of parents and family members (including parents and family members who have limited English proficiency, parents and family members with disabilities, and parents and family members of migratory children), including providing information and school reports required under section 6311 of this title in a format and, to the extent practicable, in a language such parents understand.
 - **(g)** In a State operating a program under part E of subchapter IV, each local educational agency or school that receives assistance under this part shall inform parents and organizations of the existence of the program.
 - **(h)** The State educational agency shall review the local educational agency’s parent and family engagement policies and practices to determine if the policies and practices meet the requirements of this section.
+
+## Source Credit
+
+*([Pub. L. 89–10, title I, § 1116](https://www.govinfo.gov/link/plaw/89/public/10), formerly § 1118, as added [Pub. L. 107–110, title I, § 101](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1501](https://www.govinfo.gov/link/statute/115/1501); renumbered § 1116 and amended [Pub. L. 114–95, title I](https://www.govinfo.gov/link/plaw/114/public/95), §§ 1000(2), 1010, Dec. 10, 2015, [129 Stat. 1814](https://www.govinfo.gov/link/statute/129/1814), 1868.)*

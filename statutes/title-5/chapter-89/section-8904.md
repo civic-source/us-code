@@ -3,9 +3,10 @@ title: "Section 8904 - Types of benefits"
 usc_title: 5
 usc_section: "8904"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8904"
-generated_at: "2026-03-30T02:52:56.068Z"
+generated_at: "2026-11-23T20:25:32.244Z"
+status: "active"
 ---
 
 # § 8904. Types of benefits
@@ -42,3 +43,34 @@ generated_at: "2026-03-30T02:52:56.068Z"
     - **(A)** physicians and suppliers (whether or not participating) under the Medicare program will be notified of the requirements of paragraph (1)(B);
     - **(B)** enforcement procedures will be in place to carry out such paragraph (including enforcement of protections against overcharging of beneficiaries); and
     - **(C)** Medicare program information described in paragraph (3)(B)(ii) will be supplied to carriers under paragraph (3)(A).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 3004 . | Sept. 28, 1959 , Pub. L. 86–382, § 5 , 73 Stat. 712 . |
+
+
+Service Benefit Plan.—
+
+Indemnity Benefit Plan.—
+
+Employee Organization Plans
+
+Comprehensive Medical Plans
+
+Historical and Revision Notes
+
+5 U.S.C. 3004
+
+Sept. 28, 1959
+
+Pub. L. 86–382, § 5
+
+73 Stat. 712
+
+Findings
+
+Sense of the Congress
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 603](https://www.govinfo.gov/link/statute/80/603); [Pub. L. 101–508, title VII, § 7002(f)(1)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–330](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 102–378, § 2(76)](https://www.govinfo.gov/link/plaw/102/public/378), Oct. 2, 1992, [106 Stat. 1355](https://www.govinfo.gov/link/statute/106/1355); [Pub. L. 103–66, title XI, § 11003(a)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 409](https://www.govinfo.gov/link/statute/107/409).)*

@@ -3,9 +3,10 @@ title: "Section 645 - Certain revocable trusts treated as part of estate"
 usc_title: 26
 usc_section: "645"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 645"
-generated_at: "2026-03-30T02:55:27.722Z"
+generated_at: "2026-11-23T20:26:45.851Z"
+status: "active"
 ---
 
 # § 645. Certain revocable trusts treated as part of estate
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:27.722Z"
     - **(A)** if no return of tax imposed by chapter 11 is required to be filed, the date which is 2 years after the date of the decedent’s death, and
     - **(B)** if such a return is required to be filed, the date which is 6 months after the date of the final determination of the liability for tax imposed by chapter 11.
 - **(c)** The election under subsection (a) shall be made not later than the time prescribed for filing the return of tax imposed by this chapter for the first taxable year of the estate (determined with regard to extensions) and, once made, shall be irrevocable.
+
+## Source Credit
+
+*(Added [Pub. L. 105–34, title XIII, § 1305(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1040](https://www.govinfo.gov/link/statute/111/1040), § 646; renumbered § 645, [Pub. L. 105–206, title VI, § 6013(a)(1)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 819](https://www.govinfo.gov/link/statute/112/819).)*

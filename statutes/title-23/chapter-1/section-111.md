@@ -3,9 +3,10 @@ title: "Section 111 - Agreements relating to use of and access to rights-of-way�
 usc_title: 23
 usc_section: "111"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 111"
-generated_at: "2026-03-30T02:55:12.546Z"
+generated_at: "2026-11-23T20:26:23.744Z"
+status: "active"
 ---
 
 # § 111. Agreements relating to use of and access to rights-of-way—Interstate System
@@ -34,3 +35,49 @@ generated_at: "2026-03-30T02:55:12.546Z"
     - **(E)** Within a State, at least 20 percent of the call boxes displaying sponsorship logos shall be located on highways outside of urbanized areas with a population greater than 50,000.
   - **(3)** The call boxes and their location, posts, foundations, and mountings shall be consistent with requirements of the Manual on Uniform Traffic Control Devices or any requirements deemed necessary by the Secretary to assure that the call boxes shall not be a safety hazard to motorists.
 - **(e)** If the Secretary requests or requires a justification report for a project that would add a point of access to, or exit from, the Interstate System (including new or modified freeway-to-crossroad interchanges inside a transportation management area), the Secretary may permit a State transportation department to approve the report.
+
+In General
+
+Rest Areas.—
+
+In general
+
+Limited activities
+
+Private operators
+
+Limitation on use of revenues
+
+Vending Machines
+
+Motorist Call Boxes.—
+
+In general
+
+Sponsorship logos.—
+
+Approval by state and local agencies
+
+Size on box
+
+Size on identification sign
+
+Spacing of signs
+
+Distribution throughout state
+
+Nonsafety hazards
+
+Justification Reports
+
+In General
+
+Standards for Designation
+
+Eligibility for Designation
+
+Logo
+
+## Source Credit
+
+*([Pub. L. 85–767](https://www.govinfo.gov/link/plaw/85/public/767), Aug. 27, 1958, [72 Stat. 895](https://www.govinfo.gov/link/statute/72/895); [Pub. L. 87–61, title I, § 104(a)](https://www.govinfo.gov/link/plaw/87/public/61), June 29, 1961, [75 Stat. 122](https://www.govinfo.gov/link/statute/75/122); [Pub. L. 95–599, title I, § 114](https://www.govinfo.gov/link/plaw/95/public/599), Nov. 6, 1978, [92 Stat. 2697](https://www.govinfo.gov/link/statute/92/2697); [Pub. L. 100–17, title I, § 110(a)](https://www.govinfo.gov/link/plaw/100/public/17), Apr. 2, 1987, [101 Stat. 146](https://www.govinfo.gov/link/statute/101/146); [Pub. L. 104–59, title III, § 306](https://www.govinfo.gov/link/plaw/104/public/59), Nov. 28, 1995, [109 Stat. 580](https://www.govinfo.gov/link/statute/109/580); [Pub. L. 105–178, title I, § 1212(a)(2)(A)(i)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 193](https://www.govinfo.gov/link/statute/112/193); [Pub. L. 109–59, title I, § 1412](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1234](https://www.govinfo.gov/link/statute/119/1234); [Pub. L. 110–244, title I, § 104](https://www.govinfo.gov/link/plaw/110/public/244), June 6, 2008, [122 Stat. 1578](https://www.govinfo.gov/link/statute/122/1578); [Pub. L. 112–141, div. A, title I](https://www.govinfo.gov/link/plaw/112/public/141), §§ 1505, 1539(a), July 6, 2012, [126 Stat. 564](https://www.govinfo.gov/link/statute/126/564), 587; [Pub. L. 114–94, div. A, title I, § 1405](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1410](https://www.govinfo.gov/link/statute/129/1410).)*

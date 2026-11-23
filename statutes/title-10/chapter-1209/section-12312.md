@@ -3,9 +3,10 @@ title: "Section 12312 - Active duty agreements: release from duty"
 usc_title: 10
 usc_section: "12312"
 chapter: 1209
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 12312"
-generated_at: "2026-03-30T02:53:38.269Z"
+generated_at: "2026-11-23T20:25:52.427Z"
+status: "active"
 ---
 
 # § 12312. Active duty agreements: release from duty
@@ -19,3 +20,22 @@ generated_at: "2026-03-30T02:53:38.269Z"
   - **(3)** eligible for retired pay, separation pay, or severance pay under another provision of law;
   - **(4)** placed on a temporary disability retired list; or
   - **(5)** released to accept an appointment, or to be enlisted, in a regular component of an armed force.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 680(a) 680(b) | 50:963(a) (last sentence). 50:963(b). | July 9, 1952, ch. 608, § 235(a) (last sentence), (b), 66 Stat. 491 . |
+
+
+Historical and Revision Notes
+
+680(a)
+
+680(b)
+
+July 9, 1952, ch. 608, § 235(a)
+
+66 Stat. 491
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 30, § 680; [Pub. L. 87–509, § 2](https://www.govinfo.gov/link/plaw/87/public/509), June 28, 1962, [76 Stat. 121](https://www.govinfo.gov/link/statute/76/121); [Pub. L. 98–525, title V, § 533(b)](https://www.govinfo.gov/link/plaw/98/public/525), title XIV, § 1405(17), Oct. 19, 1984, [98 Stat. 2528](https://www.govinfo.gov/link/statute/98/2528), 2622; renumbered § 12312 and amended [Pub. L. 103–337, div. A, title XVI](https://www.govinfo.gov/link/plaw/103/public/337), §§ 1662(e)(2), 1675(c)(8), Oct. 5, 1994, [108 Stat. 2992](https://www.govinfo.gov/link/statute/108/2992), 3017.)*

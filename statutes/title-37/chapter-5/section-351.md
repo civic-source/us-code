@@ -3,9 +3,10 @@ title: "Section 351 - Hazardous duty pay"
 usc_title: 37
 usc_section: "351"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "37 U.S.C. § 351"
-generated_at: "2026-03-30T02:55:44.055Z"
+generated_at: "2026-11-23T20:26:57.373Z"
+status: "active"
 ---
 
 # § 351. Hazardous duty pay
@@ -35,3 +36,41 @@ generated_at: "2026-03-30T02:55:44.055Z"
   - **(2)** A member may not receive hazardous duty pay under this section for a month for more than three qualifying instances described in subsection (a)(2).
 - **(g)** The regulations prescribed to administer this section may not include varied criteria or rates for payment of hazardous duty for officers and enlisted members.
 - **(h)** No hazardous duty pay under this section may be paid after December 31, 2026 .
+
+Hazardous Duty Pay
+
+Maximum Amount
+
+Method of Payment; Proration.—
+
+Monthly payment
+
+Proration
+
+Administration and Retroactive Payments
+
+Determination of Fact
+
+Relationship to Other Pay and Allowances.—
+
+In addition to other pay and allowances
+
+Limitation
+
+Prohibition on Variable Rates
+
+Termination of Authority
+
+Initial Review
+
+Subsequent Reviews.—
+
+In general
+
+Reports required
+
+Reports on Designation Changes Between Reports
+
+## Source Credit
+
+*(Added [Pub. L. 110–181, div. A, title VI, § 661(a)(2)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 172](https://www.govinfo.gov/link/statute/122/172); amended [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title VI, § 618(d), (e), Oct. 14, 2008, [122 Stat. 4486](https://www.govinfo.gov/link/statute/122/4486); [Pub. L. 111–84, div. A, title VI](https://www.govinfo.gov/link/plaw/111/public/84), §§ 614(6), 618(b), Oct. 28, 2009, [123 Stat. 2354](https://www.govinfo.gov/link/statute/123/2354), 2356; [Pub. L. 111–383, div. A, title VI, § 614(6)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4237](https://www.govinfo.gov/link/statute/124/4237); [Pub. L. 112–81, div. A, title VI](https://www.govinfo.gov/link/plaw/112/public/81), §§ 614(6), 616(b), Dec. 31, 2011, [125 Stat. 1450](https://www.govinfo.gov/link/statute/125/1450), 1451; [Pub. L. 112–239, div. A, title VI, § 614(6)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1777](https://www.govinfo.gov/link/statute/126/1777); [Pub. L. 113–66, div. A, title VI, § 614(6)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 781](https://www.govinfo.gov/link/statute/127/781); [Pub. L. 113–291, div. A, title VI, § 614(7)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3401](https://www.govinfo.gov/link/statute/128/3401); [Pub. L. 114–92, div. A, title VI, § 614(7)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 839](https://www.govinfo.gov/link/statute/129/839); [Pub. L. 114–328, div. A, title VI, § 614(7)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2158](https://www.govinfo.gov/link/statute/130/2158); [Pub. L. 115–91, div. A, title VI, § 614(7)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1422](https://www.govinfo.gov/link/statute/131/1422); [Pub. L. 115–232, div. A, title VI, § 611(d)(6)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1797](https://www.govinfo.gov/link/statute/132/1797); [Pub. L. 116–92, div. A, title VI, § 611(d)(6)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1426](https://www.govinfo.gov/link/statute/133/1426); [Pub. L. 116–283, div. A, title VI](https://www.govinfo.gov/link/plaw/116/public/283), §§ 611(d)(6), 613, 614, Jan. 1, 2021, [134 Stat. 3673](https://www.govinfo.gov/link/statute/134/3673), 3674; [Pub. L. 117–81, div. A, title VI, § 611(d)(6)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1769](https://www.govinfo.gov/link/statute/135/1769); [Pub. L. 117–263, div. A, title VI, § 601(d)(6)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2620](https://www.govinfo.gov/link/statute/136/2620); [Pub. L. 118–31, div. A, title VI, § 613(d)(6)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 292](https://www.govinfo.gov/link/statute/137/292); [Pub. L. 118–159, div. A, title VI, § 611(d)(6)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1932](https://www.govinfo.gov/link/statute/138/1932); [Pub. L. 119–60, div. A, title VI](https://www.govinfo.gov/link/plaw/119/public/60), §§ 601(c)(4), 611(d)(6), Dec. 18, 2025, [139 Stat. 903](https://www.govinfo.gov/link/statute/139/903), 906.)*

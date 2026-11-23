@@ -3,9 +3,10 @@ title: "Section 3697A - Educational and vocational counseling"
 usc_title: 38
 usc_section: "3697A"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 3697A"
-generated_at: "2026-03-30T02:55:53.510Z"
+generated_at: "2026-11-23T20:27:01.884Z"
+status: "active"
 ---
 
 # § 3697A. Educational and vocational counseling
@@ -20,3 +21,15 @@ generated_at: "2026-03-30T02:55:53.510Z"
 - **(c)** In any case in which the Secretary has rated the individual as being incompetent, the counseling services described in subsection (a) of this section shall be required to be provided to the individual before the selection of a program of education or training.
 - **(d)** At such intervals as the Secretary determines necessary, the Secretary shall make available information concerning the need for general education and for trained personnel in the various crafts, trades, and professions. Facilities of other Federal agencies collecting such information shall be utilized to the extent the Secretary determines practicable.
 - **(e)** The Secretary shall take appropriate steps (including individual notification where feasible) to acquaint all individuals described in subsection (b) of this section with the availability and advantages of counseling services under this section.
+
+Information
+
+Certification of Eligibility
+
+Definitions
+
+Deadline for Implementation
+
+## Source Credit
+
+*(Added [Pub. L. 102–16, § 2(a)](https://www.govinfo.gov/link/plaw/102/public/16), Mar. 22, 1991, [105 Stat. 48](https://www.govinfo.gov/link/statute/105/48), § 1797A; renumbered § 3697A, [Pub. L. 102–83, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/83), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); amended [Pub. L. 110–252, title V, § 5003(b)(2)(B)](https://www.govinfo.gov/link/plaw/110/public/252), June 30, 2008, [122 Stat. 2375](https://www.govinfo.gov/link/statute/122/2375).)*

@@ -3,9 +3,10 @@ title: "Section 17392 - Micro-grid and integrated micro-grid systems program"
 usc_title: 42
 usc_section: "17392"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17392"
-generated_at: "2026-03-30T02:56:11.507Z"
+generated_at: "2026-11-23T20:27:23.761Z"
+status: "active"
 ---
 
 # § 17392. Micro-grid and integrated micro-grid systems program
@@ -55,3 +56,7 @@ generated_at: "2026-03-30T02:56:11.507Z"
       - **(i)** energy-generation facilities owned or operated by isolated communities; or
       - **(ii)** a municipal or rural electric cooperative energy-generation facility.
   - **(2)** The Secretary shall award grants of not more than $500,000 to not fewer than 20 municipal governments, rural electric cooperatives, or isolated communities, up to a total of $15,000,000, each year to assist those municipal governments, rural electric cooperatives, and isolated communities in overcoming the barriers identified in the report under paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 116–260, div. Z, title VIII, § 8011](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2589](https://www.govinfo.gov/link/statute/134/2589).)*

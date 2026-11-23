@@ -3,9 +3,10 @@ title: "Section 10173 - Marine Forces Reserve"
 usc_title: 10
 usc_section: "10173"
 chapter: 1006
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 10173"
-generated_at: "2026-03-30T02:53:38.264Z"
+generated_at: "2026-11-23T20:25:52.378Z"
+status: "active"
 ---
 
 # § 10173. Marine Forces Reserve
@@ -15,3 +16,13 @@ generated_at: "2026-03-30T02:53:38.264Z"
 - **(c)** The Commandant of the Marine Corps—
   - **(1)** shall assign to the Marine Forces Reserve the forces of the Marine Corps Reserve stationed in the continental United States other than forces assigned to the unified combatant command for special operations forces established pursuant to section 167 of this title ; and
   - **(2)** except as otherwise directed by the Secretary of Defense in the case of forces assigned to carry out functions of the Secretary of the Navy specified in section 8013 of this title , shall assign to the combatant commands (through the Marine Corps component commander for each such command) all such forces assigned to the Marine Forces Reserve under paragraph (1) in the manner specified by the Secretary of Defense.
+
+Establishment
+
+Commander
+
+Assignment of Forces
+
+## Source Credit
+
+*(Added [Pub. L. 104–201, div. A, title XII, § 1211(a)(1)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2690](https://www.govinfo.gov/link/statute/110/2690); amended [Pub. L. 115–232, div. A, title VIII, § 809(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1840](https://www.govinfo.gov/link/statute/132/1840).)*

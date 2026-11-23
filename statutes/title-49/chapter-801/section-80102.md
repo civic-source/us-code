@@ -3,9 +3,10 @@ title: "Section 80102 - Application"
 usc_title: 49
 usc_section: "80102"
 chapter: 801
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 80102"
-generated_at: "2026-03-30T02:56:19.418Z"
+generated_at: "2026-11-23T20:27:35.440Z"
+status: "active"
 ---
 
 # § 80102. Application
@@ -17,3 +18,20 @@ This chapter applies to a bill of lading when the bill is issued by a common car
   - **(3)** between a place in a State and a place in another State;
   - **(4)** between a place in a State and a place in the same State through another State or a foreign country; or
   - **(5)** from a place in a State to a place in a foreign country.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 80102 | 49 App.:81. | Aug. 29, 1916, ch. 415, § 1 , 39 Stat. 538 . |
+
+
+Historical and Revision Notes
+
+80102
+
+Aug. 29, 1916, ch. 415, § 1
+
+39 Stat. 538
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1346](https://www.govinfo.gov/link/statute/108/1346).)*

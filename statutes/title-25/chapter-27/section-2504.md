@@ -3,9 +3,10 @@ title: "Section 2504 - Eligibility for grants"
 usc_title: 25
 usc_section: "2504"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 2504"
-generated_at: "2026-03-30T02:54:52.841Z"
+generated_at: "2026-11-23T20:26:25.599Z"
+status: "active"
 ---
 
 # § 2504. Eligibility for grants
@@ -68,3 +69,7 @@ generated_at: "2026-03-30T02:54:52.841Z"
     - **(D)** provide an opportunity to appeal the objection raised.
   - **(2)** The Secretary shall reconsider any amended application submitted under this chapter within 60 days after the amended application is submitted to the Secretary.
 - **(g)** The Bureau shall submit an annual report to the Congress on all applications received, and actions taken (including the costs associated with such actions), under this section at the same time that the President is required to submit to Congress the budget under section 1105 of title 31 .
+
+## Source Credit
+
+*([Pub. L. 100–297, title V, § 5205](https://www.govinfo.gov/link/plaw/100/public/297), as added [Pub. L. 107–110, title X, § 1043](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2068](https://www.govinfo.gov/link/statute/115/2068).)*

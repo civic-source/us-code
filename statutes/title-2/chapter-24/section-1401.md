@@ -3,9 +3,10 @@ title: "Section 1401 - Procedure for consideration of alleged violations"
 usc_title: 2
 usc_section: "1401"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1401"
-generated_at: "2026-03-30T02:53:04.812Z"
+generated_at: "2026-11-23T20:25:28.963Z"
+status: "active"
 ---
 
 # § 1401. Procedure for consideration of alleged violations
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:53:04.812Z"
   - **(3)** The factual contentions have evidentiary support or, if specifically so identified, will likely have evidentiary support after a reasonable opportunity for further review or discovery.
   - **(4)** The denials of factual contentions are warranted on the evidence or, if specifically so identified, are reasonably based on belief or a lack of information.
 - **(g)** Nothing in this chapter shall be construed to supersede or limit section 1361(d)(2) of this title .
+
+## Source Credit
+
+*([Pub. L. 104–1, title IV, § 401](https://www.govinfo.gov/link/plaw/104/public/1), Jan. 23, 1995, [109 Stat. 32](https://www.govinfo.gov/link/statute/109/32); [Pub. L. 115–141, div. I, title I, § 153(b)(1)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 786](https://www.govinfo.gov/link/statute/132/786); [Pub. L. 115–397, title I, § 101(a)](https://www.govinfo.gov/link/plaw/115/public/397), Dec. 21, 2018, [132 Stat. 5298](https://www.govinfo.gov/link/statute/132/5298).)*

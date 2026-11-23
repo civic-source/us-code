@@ -3,9 +3,10 @@ title: "Section 302a - Devices which interfere with radio reception"
 usc_title: 47
 usc_section: "302a"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 302a"
-generated_at: "2026-03-30T02:56:24.503Z"
+generated_at: "2026-11-23T20:27:28.860Z"
+status: "active"
 ---
 
 # § 302a. Devices which interfere with radio reception
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:56:24.503Z"
   - **(5)** The enforcement of statute or ordinance that prohibits a violation of a regulation by a State or local government under paragraph (1) in a particular case shall not preclude the Commission from enforcing the regulation in that case concurrently.
   - **(6)** Nothing in this subsection shall be construed to diminish or otherwise affect the jurisdiction of the Commission under this section over devices capable of interfering with radio communications.
   - **(7)** The enforcement of a statute or ordinance by a State or local government under paragraph (1) with regard to citizens band radio equipment on board a “commercial motor vehicle”, as defined in section 31101 of title 49 , shall require probable cause to find that the commercial motor vehicle or the individual operating the vehicle is in violation of the regulations described in paragraph (1).
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title III, § 302, as added [Pub. L. 90–379](https://www.govinfo.gov/link/plaw/90/public/379), July 5, 1968, [82 Stat. 290](https://www.govinfo.gov/link/statute/82/290); amended [Pub. L. 97–259, title I, § 108(a)](https://www.govinfo.gov/link/plaw/97/public/259), Sept. 13, 1982, [96 Stat. 1091](https://www.govinfo.gov/link/statute/96/1091); [Pub. L. 102–556, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/102/public/556), Oct. 28, 1992, [106 Stat. 4195](https://www.govinfo.gov/link/statute/106/4195); [Pub. L. 104–104, title IV, § 403(f)](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 131](https://www.govinfo.gov/link/statute/110/131); [Pub. L. 106–521, § 1](https://www.govinfo.gov/link/plaw/106/public/521), Nov. 22, 2000, [114 Stat. 2438](https://www.govinfo.gov/link/statute/114/2438).)*

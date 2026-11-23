@@ -3,9 +3,10 @@ title: "Section 832a - General administrative provisions"
 usc_title: 16
 usc_section: "832a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 832a"
-generated_at: "2026-03-30T02:54:22.925Z"
+generated_at: "2026-11-23T20:26:20.310Z"
+status: "active"
 ---
 
 # § 832a. General administrative provisions
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:22.925Z"
 - **(d)** The administrator shall have power to acquire any property or property rights, including patent rights, which in his opinion are necessary to carry out the purposes of this chapter, by the exercise of the right of eminent domain and to institute condemnation proceedings therefor in the same manner as is provided by law for the condemnation of real estate.
 - **(e)** The administrator is authorized, in the name of the United States, to sell, lease, or otherwise dispose of such personal property as in his judgment is not required for the purposes of this chapter and such real property and interests in land acquired in connection with construction or operation of electric transmission lines or substations as in his judgment are not required for the purposes of this chapter: Provided, however , That before the sale, lease, or disposition of real property or transmission lines, as herein provided, the administrator shall secure the approval of the President of the United States.
 - **(f)** Subject only to the provisions of this chapter, the Administrator is authorized to enter into such contracts, agreements, and arrangements, including the amendment, modification, adjustment, or cancelation 1 1 So in original. Probably should be “cancellation”. thereof and the compromise or final settlement of any claim arising thereunder, and to make such expenditures, upon such terms and conditions and in such manner as he may deem necessary.
+
+## Source Credit
+
+*(Aug. 20, 1937, ch. 720, § 2, [50 Stat. 732](https://www.govinfo.gov/link/statute/50/732); Mar. 6, 1940, ch. 47, §§ 1, 2, [54 Stat. 47](https://www.govinfo.gov/link/statute/54/47); Oct. 23, 1945, ch. 433, §§ 1, 5, [59 Stat. 546](https://www.govinfo.gov/link/statute/59/546), 547; July 26, 1947, ch. 343, title II, § 205(a), [61 Stat. 501](https://www.govinfo.gov/link/statute/61/501); 1965 Reorg. Plan No. 4, §§ 11(c), 13(a), eff. July 27, 1965, 30 F.R. 9353, [79 Stat. 1321](https://www.govinfo.gov/link/statute/79/1321); [Pub. L. 95–91, title III, § 302(a)(1)(D)](https://www.govinfo.gov/link/plaw/95/public/91), (2), Aug. 4, 1977, [91 Stat. 578](https://www.govinfo.gov/link/statute/91/578).)*

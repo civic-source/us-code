@@ -3,9 +3,10 @@ title: "Section 1726c - Local and regional food aid procurement projects"
 usc_title: 7
 usc_section: "1726c"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1726c"
-generated_at: "2026-03-30T02:53:42.337Z"
+generated_at: "2026-11-23T20:25:41.276Z"
+status: "active"
 ---
 
 # § 1726c. Local and regional food aid procurement projects
@@ -62,3 +63,7 @@ generated_at: "2026-03-30T02:53:42.337Z"
       - **(i)** local and regional agricultural producers; and
       - **(ii)** markets and consumers, including low-income consumers; and
     - **(B)** implementation time frames and costs.
+
+## Source Credit
+
+*([Pub. L. 110–246, title III, § 3206](https://www.govinfo.gov/link/plaw/110/public/246), June 18, 2008, [122 Stat. 1840](https://www.govinfo.gov/link/statute/122/1840); [Pub. L. 113–79, title III, § 3207](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 780](https://www.govinfo.gov/link/statute/128/780); [Pub. L. 115–334, title III, § 3311](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4623](https://www.govinfo.gov/link/statute/132/4623).)*

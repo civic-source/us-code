@@ -3,9 +3,10 @@ title: "Section 5466 - Examination of and enforcement actions against designated
 usc_title: 12
 usc_section: "5466"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5466"
-generated_at: "2026-03-30T02:53:53.540Z"
+generated_at: "2026-11-23T20:25:59.505Z"
+status: "active"
 ---
 
 # § 5466. Examination of and enforcement actions against designated financial market utilities
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:53:53.540Z"
       - **(ii)** the condition of a designated financial market utility poses an imminent risk of substantial harm to financial institutions, critical markets, or the broader financial system; and
     - **(B)** the imminent risk of substantial harm precludes the Board of Governors’ use of the procedures in subsection (e).
   - **(2)** For purposes of taking enforcement action under paragraph (1), a designated financial market utility shall be subject to, and the Board of Governors shall have authority under 2 2 So in original. Probably should be followed by a comma. the provisions of subsections (b) through (n) of section 1818 of this title in the same manner and to the same extent as if the designated financial market utility was an insured depository institution and the Board of Governors was the appropriate Federal banking agency for such insured depository institution.
+
+## Source Credit
+
+*([Pub. L. 111–203, title VIII, § 807](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1814](https://www.govinfo.gov/link/statute/124/1814).)*

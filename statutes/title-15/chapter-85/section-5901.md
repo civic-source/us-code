@@ -3,9 +3,10 @@ title: "Section 5901 - Findings"
 usc_title: 15
 usc_section: "5901"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 5901"
-generated_at: "2026-03-30T02:54:08.208Z"
+generated_at: "2026-11-23T20:26:04.380Z"
+status: "active"
 ---
 
 # § 5901. Findings
@@ -18,3 +19,7 @@ Congress finds that—
   - **(4)** to protect themselves and the items they transport, such crew members are armed with weapons;
   - **(5)** various States require both weapons training and a criminal record background check before licensing a crew member to carry a weapon; and
   - **(6)** there is a need for each State to reciprocally accept weapons licenses of other States for armored car crew members to assure the free and safe transport of valuable items in interstate commerce.
+
+## Source Credit
+
+*([Pub. L. 103–55, § 2](https://www.govinfo.gov/link/plaw/103/public/55), July 28, 1993, [107 Stat. 276](https://www.govinfo.gov/link/statute/107/276); [Pub. L. 110–234, title IV, § 4002(b)(1)(E)](https://www.govinfo.gov/link/plaw/110/public/234), (2)(L), May 22, 2008, [122 Stat. 1096](https://www.govinfo.gov/link/statute/122/1096), 1097; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, § 4002(b)(1)(E), (2)(L), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1857, 1858.)*

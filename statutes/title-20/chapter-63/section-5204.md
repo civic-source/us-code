@@ -3,9 +3,10 @@ title: "Section 5204 - Authorization of appropriations"
 usc_title: 20
 usc_section: "5204"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 5204"
-generated_at: "2026-03-30T02:54:48.187Z"
+generated_at: "2026-11-23T20:26:14.786Z"
+status: "active"
 ---
 
 # § 5204. Authorization of appropriations
@@ -16,3 +17,7 @@ To provide a permanent endowment for the Eisenhower Exchange Fellowship Program,
   - **(2)** the lesser of—
     - **(A)** $2,500,000, or
     - **(B)** an amount equal to contributions to Eisenhower Exchange Fellowships, Incorporated, from private sector sources during the 4-year period beginning on October 24, 1990 .
+
+## Source Credit
+
+*([Pub. L. 101–454, § 5](https://www.govinfo.gov/link/plaw/101/public/454), Oct. 24, 1990, [104 Stat. 1064](https://www.govinfo.gov/link/statute/104/1064).)*

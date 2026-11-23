@@ -3,12 +3,17 @@ title: "Section 221b - Various laws made applicable to added lands"
 usc_title: 16
 usc_section: "221b"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 221b"
-generated_at: "2026-03-30T02:54:22.742Z"
+generated_at: "2026-11-23T20:26:19.387Z"
+status: "active"
 ---
 
 # § 221b. Various laws made applicable to added lands
 
 The provisions of the Act of February 26, 1919 , entitled “An Act to establish the Grand Canyon National Park in the State of Arizona,” the Act of August 25, 1916 , entitled “An Act to establish a national park service, and for other purposes,” 1 1 See References in Text note below. and all acts supplementary to and amendatory of said Acts are made applicable to and extended over the lands hereby added to the park: Provided , That the provisions of the Federal Power Act [ 16 U.S.C. 791a et seq.] shall not apply to or extend over such lands.
 
+
+## Source Credit
+
+*(Feb. 25, 1927, ch. 197, § 2, [44 Stat. 1240](https://www.govinfo.gov/link/statute/44/1240).)*

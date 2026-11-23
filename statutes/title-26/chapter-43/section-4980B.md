@@ -3,9 +3,10 @@ title: "Section 4980B - Failure to satisfy continuation coverage requirements of
 usc_title: 26
 usc_section: "4980B"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 4980B"
-generated_at: "2026-03-30T02:55:27.813Z"
+generated_at: "2026-11-23T20:26:46.375Z"
+status: "active"
 ---
 
 # § 4980B. Failure to satisfy continuation coverage requirements of group health plans
@@ -150,3 +151,97 @@ generated_at: "2026-03-30T02:55:27.813Z"
   - **(4)** A failure of a group health plan to meet the requirements of subsection (f) with respect to any qualified beneficiary shall be treated as corrected if—
     - **(A)** such failure is retroactively undone to the extent possible, and
     - **(B)** the qualified beneficiary is placed in a financial position which is as good as such beneficiary would have been in had such failure not occurred.
+
+Premium Assistance for Cobra Continuation Coverage for Individuals and Their Families.—
+
+Provision of premium assistance.—
+
+Reduction of premiums payable
+
+Plan enrollment option.—
+
+In general
+
+Requirements
+
+Limitation of period of premium assistance.—
+
+Eligibility for additional coverage
+
+Notification requirement
+
+Assistance eligible individual
+
+Extension of election period and effect on coverage.—
+
+In general
+
+Commencement of cobra continuation coverage
+
+Notices to individuals.—
+
+General notice.—
+
+In general
+
+Alternative notice
+
+Form
+
+Specific requirements
+
+Notice in connection with extended election periods
+
+Model notices
+
+Notice of expiration of period of premium assistance.—
+
+In general
+
+Exception
+
+Period specified
+
+Model notices
+
+Regulations
+
+Outreach.—
+
+In general
+
+Enrollment under medicare
+
+Definitions
+
+Administrator
+
+Cobra continuation coverage
+
+Cobra continuation provision
+
+Covered employee
+
+Qualified beneficiary
+
+Group health plan
+
+State
+
+Period of coverage
+
+Plan sponsor
+
+Premium
+
+Implementation funding
+
+In general
+
+Credit of reimbursement
+
+Payment of credits
+
+## Source Credit
+
+*(Added [Pub. L. 100–647, title III, § 3011(a)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3616](https://www.govinfo.gov/link/statute/102/3616); amended [Pub. L. 101–239, title VI](https://www.govinfo.gov/link/plaw/101/public/239), §§ 6202(b)(3)(B), 6701(a)–(c), title VII, §§ 7862(c)(2)(B), (3)(C), (4)(B), (5)(A), 7891(d)(1)(B), (2)(A), Dec. 19, 1989, [103 Stat. 2233](https://www.govinfo.gov/link/statute/103/2233), 2294, 2295, 2432, 2433, 2446; [Pub. L. 101–508, title XI, § 11702(f)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–515](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–66, title XIII, § 13422(a)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 566](https://www.govinfo.gov/link/statute/107/566); [Pub. L. 104–188, title I, § 1704(g)(1)(A)](https://www.govinfo.gov/link/plaw/104/public/188), (t)(21), Aug. 20, 1996, [110 Stat. 1880](https://www.govinfo.gov/link/statute/110/1880), 1888; [Pub. L. 104–191, title III, § 321(d)(1)](https://www.govinfo.gov/link/plaw/104/public/191), title IV, § 421(c), Aug. 21, 1996, [110 Stat. 2058](https://www.govinfo.gov/link/statute/110/2058), 2088; [Pub. L. 107–210, div. A, title II, § 203(e)(3)](https://www.govinfo.gov/link/plaw/107/public/210), Aug. 6, 2002, [116 Stat. 971](https://www.govinfo.gov/link/statute/116/971); [Pub. L. 111–5, div. B, title I, § 1899F(b)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 429](https://www.govinfo.gov/link/statute/123/429); [Pub. L. 111–344, title I, § 116(b)](https://www.govinfo.gov/link/plaw/111/public/344), Dec. 29, 2010, [124 Stat. 3616](https://www.govinfo.gov/link/statute/124/3616); [Pub. L. 112–40, title II, § 243(a)(3)](https://www.govinfo.gov/link/plaw/112/public/40), (4), Oct. 21, 2011, [125 Stat. 420](https://www.govinfo.gov/link/statute/125/420); [Pub. L. 115–141, div. U, title IV, § 401(a)(235)](https://www.govinfo.gov/link/plaw/115/public/141), (236), Mar. 23, 2018, [132 Stat. 1195](https://www.govinfo.gov/link/statute/132/1195).)*

@@ -3,9 +3,10 @@ title: "Section 2291c - Requirements relating to aircraft and other equipment"
 usc_title: 22
 usc_section: "2291c"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2291c"
-generated_at: "2026-03-30T02:55:05.353Z"
+generated_at: "2026-11-23T20:26:32.211Z"
+status: "active"
 ---
 
 # § 2291c. Requirements relating to aircraft and other equipment
@@ -27,3 +28,13 @@ generated_at: "2026-03-30T02:55:05.353Z"
 - **(c)** In the reports submitted pursuant to section 2291h(a) of this title , the President shall discuss—
   - **(1)** any evidence indicating misuse by a foreign country of aircraft or other equipment made available under this part, and
   - **(2)** the actions taken by the United States Government to prevent future misuse of such equipment by that foreign country.
+
+Instruction Program
+
+Requirement for Replacement of United States Government Pilots by Host Country Pilots
+
+Aircraft Subject to Requirements
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 484, as added [Pub. L. 99–570, title II, § 2003](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–61](https://www.govinfo.gov/link/statute/100/3207); amended [Pub. L. 101–623, § 7](https://www.govinfo.gov/link/plaw/101/public/623), Nov. 21, 1990, [104 Stat. 3355](https://www.govinfo.gov/link/statute/104/3355); [Pub. L. 102–583, § 4(f)(1)](https://www.govinfo.gov/link/plaw/102/public/583), (2)(D), Nov. 2, 1992, [106 Stat. 4916](https://www.govinfo.gov/link/statute/106/4916), 4917.)*

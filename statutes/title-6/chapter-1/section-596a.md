@@ -3,9 +3,10 @@ title: "Section 596a - Joint annual interagency review of global nuclear detecti
 usc_title: 6
 usc_section: "596a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 596a"
-generated_at: "2026-03-30T02:53:09.471Z"
+generated_at: "2026-11-23T20:25:34.803Z"
+status: "active"
 ---
 
 # § 596a. Joint annual interagency review of global nuclear detection architecture
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:53:09.471Z"
     - **(C)** the Committee on Appropriations, the Committee on Armed Services, the Permanent Select Committee on Intelligence, the Committee on Homeland Security, and the Committee on Science and Technology of the House of Representatives.
   - **(2)** The annual report submitted under paragraph (1) shall be submitted in unclassified form to the maximum extent practicable, but may include a classified annex.
 - **(c)** In this section, the term “global nuclear detection architecture” means the global nuclear detection architecture developed under section 592 of this title .
+
+## Source Credit
+
+*([Pub. L. 107–296, title XIX, § 1927](https://www.govinfo.gov/link/plaw/107/public/296), formerly § 1907, as added [Pub. L. 110–53, title XI, § 1103(a)](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 379](https://www.govinfo.gov/link/statute/121/379); amended [Pub. L. 111–140, § 4(b)](https://www.govinfo.gov/link/plaw/111/public/140), Feb. 16, 2010, [124 Stat. 35](https://www.govinfo.gov/link/statute/124/35); renumbered § 1927 and amended [Pub. L. 115–387, § 2(a)(5)](https://www.govinfo.gov/link/plaw/115/public/387), (9), Dec. 21, 2018, [132 Stat. 5163](https://www.govinfo.gov/link/statute/132/5163), 5164.)*

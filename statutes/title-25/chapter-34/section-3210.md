@@ -3,9 +3,10 @@ title: "Section 3210 - Indian Child Protection and Family Violence Prevention Pr
 usc_title: 25
 usc_section: "3210"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3210"
-generated_at: "2026-03-30T02:54:52.850Z"
+generated_at: "2026-11-23T20:26:25.643Z"
+status: "active"
 ---
 
 # § 3210. Indian Child Protection and Family Violence Prevention Program
@@ -62,3 +63,7 @@ generated_at: "2026-03-30T02:54:52.850Z"
     - **(B)** ensure that funds are expended for the purposes for which the award was made; and
   - **(2)** submit to the Secretary at the end of each fiscal year an annual report which shall include such information as the Secretary may require.
 - **(i)** There are authorized to be appropriated to carry out the provisions of this section $30,000,000 for each of the fiscal years 1992, 1993, 1994, 1995, 1996, and 1997.
+
+## Source Credit
+
+*([Pub. L. 101–630, title IV, § 411](https://www.govinfo.gov/link/plaw/101/public/630), Nov. 28, 1990, [104 Stat. 4553](https://www.govinfo.gov/link/statute/104/4553); [Pub. L. 104–16, § 1](https://www.govinfo.gov/link/plaw/104/public/16), June 21, 1995, [109 Stat. 190](https://www.govinfo.gov/link/statute/109/190); [Pub. L. 105–244, title IX, § 901(d)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1828](https://www.govinfo.gov/link/statute/112/1828); [Pub. L. 110–315, title IX, § 941(k)(2)(J)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3467](https://www.govinfo.gov/link/statute/122/3467); [Pub. L. 118–160, § 2(4)](https://www.govinfo.gov/link/plaw/118/public/160), Dec. 23, 2024, [138 Stat. 2569](https://www.govinfo.gov/link/statute/138/2569).)*

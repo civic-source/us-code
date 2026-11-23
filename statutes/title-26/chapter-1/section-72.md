@@ -3,9 +3,10 @@ title: "Section 72 - Annuities; certain proceeds of endowment and life insurance
 usc_title: 26
 usc_section: "72"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 72"
-generated_at: "2026-03-30T02:55:27.617Z"
+generated_at: "2026-11-23T20:26:45.297Z"
+status: "active"
 ---
 
 # § 72. Annuities; certain proceeds of endowment and life insurance contracts
@@ -510,3 +511,184 @@ generated_at: "2026-03-30T02:55:27.617Z"
     - **(C)** which were not subject to income tax under the laws of the United States or any foreign country.
   - **(4)** The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this subsection, including regulations treating contributions and earnings as not subject to tax under the laws of any foreign country where appropriate to carry out the purposes of this subsection.
 - **(x)** For limitation on adjustments to basis of annuity contracts sold, see section 1021.
+
+| If the age of the annuitant on the annuity starting date is: | The number of anticipated payments is: |
+| --- | --- |
+| Not more than 55 | 360 |
+| More than 55 but not more than 60 | 310 |
+| More than 60 but not more than 65 | 260 |
+| More than 65 but not more than 70 | 210 |
+| More than 70 | 160. |
+
+| If the combined ages of annuitants are: | The number is: |
+| --- | --- |
+| Not more than 110 | 410 |
+| More than 110 but not more than 120 | 360 |
+| More than 120 but not more than 130 | 310 |
+| More than 130 but not more than 140 | 260 |
+| More than 140 | 210. |
+
+
+Not more than 55
+
+More than 55 but not more than 60
+
+More than 60 but not more than 65
+
+More than 65 but not more than 70
+
+More than 70
+
+Not more than 110
+
+More than 110 but not more than 120
+
+More than 120 but not more than 130
+
+More than 130 but not more than 140
+
+More than 140
+
+Treatment of Employee Contributions Under Defined Contribution Plans as Separate Contracts
+
+Special rules
+
+In general
+
+Benefits distributed must be invested in employer securities for 5 years
+
+In general
+
+Temporary rule with respect to distributions already made
+
+In general
+
+Annuity payments
+
+No inference
+
+Effective date
+
+Waiver of limitations
+
+In general
+
+Tax-free exchanges
+
+Information reporting
+
+Policy acquisition expenses
+
+Technical amendment
+
+In general
+
+Subsection
+
+Exception where distribution commences
+
+Transition rule
+
+Special rule for distributions under an annuity contract
+
+In general
+
+Transitional rules for contracts issued before effective date
+
+In general
+
+Treatment of certain lump-sum payments received after december 31, 1983
+
+No fresh start
+
+In general
+
+Exception for certain loans used to repay outstanding obligations.—
+
+In general
+
+Qualified refunding loan
+
+Required principal payment
+
+Special rule for non-key employees
+
+Treatment of certain renegotiations
+
+Subsection
+
+Subsection
+
+In general.—
+
+Transitional rule.—
+
+Tax-favored Withdrawals From Retirement Plans.—
+
+In general
+
+Aggregate dollar limitation.—
+
+In general
+
+Treatment of plan distributions
+
+Controlled group
+
+Amount distributed may be repaid.—
+
+In general
+
+Treatment of repayments of distributions from eligible retirement plans other than iras
+
+Treatment of repayments of distributions from iras
+
+Definitions
+
+Coronavirus-related distribution
+
+Employee certification
+
+Eligible retirement plan
+
+Income inclusion spread over 3-year period.—
+
+In general
+
+Special rule
+
+Special rules.—
+
+Exemption of distributions from trustee to trustee transfer and withholding rules
+
+Coronavirus-related distributions treated as meeting plan distribution requirements
+
+Loans From Qualified Plans.—
+
+Increase in limit on loans not treated as distributions
+
+Delay of repayment
+
+Qualified individual
+
+Provisions Relating to Plan Amendments.—
+
+In general
+
+Amendments to which subsection applies.—
+
+In general
+
+Conditions
+
+“For purposes of this title [see Tables for classification]:
+
+Amendment of 1986 code
+
+Amendment of erisa
+
+act
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 20; [Pub. L. 87–792, § 4(a)](https://www.govinfo.gov/link/plaw/87/public/792), (b), Oct. 10, 1962, [76 Stat. 821](https://www.govinfo.gov/link/statute/76/821); [Pub. L. 87–834, § 11(b)](https://www.govinfo.gov/link/plaw/87/public/834), Oct. 16, 1962, [76 Stat. 1005](https://www.govinfo.gov/link/statute/76/1005); [Pub. L. 88–272, title II, § 232(b)](https://www.govinfo.gov/link/plaw/88/public/272), Feb. 26, 1964, [78 Stat. 110](https://www.govinfo.gov/link/statute/78/110); [Pub. L. 89–44, title VIII, § 809(d)(2)](https://www.govinfo.gov/link/plaw/89/public/44), June 21, 1965, [79 Stat. 167](https://www.govinfo.gov/link/statute/79/167); [Pub. L. 89–97, title I, § 106(d)(2)](https://www.govinfo.gov/link/plaw/89/public/97), July 30, 1965, [79 Stat. 337](https://www.govinfo.gov/link/statute/79/337); [Pub. L. 89–365, § 1(b)](https://www.govinfo.gov/link/plaw/89/public/365), Mar. 8, 1966, [80 Stat. 32](https://www.govinfo.gov/link/statute/80/32); [Pub. L. 91–172, title V, § 515(b)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 644](https://www.govinfo.gov/link/statute/83/644); [Pub. L. 93–406, title II](https://www.govinfo.gov/link/plaw/93/public/406), §§ 2001(e)(5), (g)(1), (2)(A), (h)(2), (3), 2002(g)(10), 2005(c)(3), 2007(b)(2), Sept. 2, 1974, [88 Stat. 955](https://www.govinfo.gov/link/statute/88/955), 957, 970, 991, 994; [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1901(a)(12), (13), 1906(b)(13)(A), 1951(b)(1)(A), Oct. 4, 1976, [90 Stat. 1765](https://www.govinfo.gov/link/statute/90/1765), 1834, 1836; [Pub. L. 97–34, title III](https://www.govinfo.gov/link/plaw/97/public/34), §§ 311(b)(1), 312(d), (e)(1), Aug. 13, 1981, [95 Stat. 278](https://www.govinfo.gov/link/statute/95/278), 284; [Pub. L. 97–248, title II](https://www.govinfo.gov/link/plaw/97/public/248), §§ 236(a), (b), 237(d), 265(a), (b)(1), Sept. 3, 1982, [96 Stat. 509–511](https://www.govinfo.gov/link/statute/96/509), 544–546; [Pub. L. 97–448, title I, § 103(c)(3)(B)(i)](https://www.govinfo.gov/link/plaw/97/public/448), (6), Jan. 12, 1983, [96 Stat. 2376](https://www.govinfo.gov/link/statute/96/2376); [Pub. L. 98–76, title II, § 224(a)](https://www.govinfo.gov/link/plaw/98/public/76), Aug. 12, 1983, [97 Stat. 421](https://www.govinfo.gov/link/statute/97/421); [Pub. L. 98–369, div. A, title II](https://www.govinfo.gov/link/plaw/98/public/369), §§ 211(b)(1), 222(a), (b), title IV, §§ 421(b)(1), 491(d)(3), (4), title V, §§ 521(d), 523(a), (b), title VII, § 713(b)(1)–(c)(1)(B), (d)(1), July 18, 1984, [98 Stat. 754](https://www.govinfo.gov/link/statute/98/754), 774, 794, 849, 868, 871, 872, 956, 957; [Pub. L. 98–397, title II, § 204(c)(2)](https://www.govinfo.gov/link/plaw/98/public/397), Aug. 23, 1984, [98 Stat. 1448](https://www.govinfo.gov/link/statute/98/1448); [Pub. L. 99–514, title XI](https://www.govinfo.gov/link/plaw/99/public/514), §§ 1101(b)(2)(B), (C), 1122(c), 1123(a), (b), (d)(1), 1134(a)–(d), 1135(a), title XVIII, §§ 1826(a), (b)(1)–(3), (c), (d), 1852(a)(2), (c)(1)–(4), 1854(b)(1), 1898(c)(1)(B), Oct. 22, 1986, [100 Stat. 2413](https://www.govinfo.gov/link/statute/100/2413), 2414, 2467, 2472, 2474, 2475, 2483, 2484, 2848–2850, 2864, 2867, 2878, 2951; [Pub. L. 100–647, title I](https://www.govinfo.gov/link/plaw/100/public/647), §§ 1011A(b)(1)(A), (B), (2), (9), (c)(1)–(8), (h), (i), 1018(k), (t)(1)(A), (B), (u)(8), title V, § 5012(a), (b)(1), (d), Nov. 10, 1988, [102 Stat. 3472](https://www.govinfo.gov/link/statute/102/3472), 3474–3476, 3482, 3583, 3587, 3590, 3661, 3662, 3664; [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7811(m)(4), 7815(a)(3), (5), Dec. 19, 1989, [103 Stat. 2412](https://www.govinfo.gov/link/statute/103/2412), 2414; [Pub. L. 101–508, title XI, § 11802(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–529](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 102–318, title V, § 521(b)(3)](https://www.govinfo.gov/link/plaw/102/public/318), July 3, 1992, [106 Stat. 310](https://www.govinfo.gov/link/statute/106/310); [Pub. L. 104–188, title I](https://www.govinfo.gov/link/plaw/104/public/188), §§ 1403(a), 1421(b)(4)(A), 1463(a), 1704(l)(1), (t)(2), (77), Aug. 20, 1996, [110 Stat. 1790](https://www.govinfo.gov/link/statute/110/1790), 1796, 1824, 1882, 1887, 1891; [Pub. L. 104–191, title III, § 361(a)](https://www.govinfo.gov/link/plaw/104/public/191) –(c), Aug. 21, 1996, [110 Stat. 2071](https://www.govinfo.gov/link/statute/110/2071), 2072; [Pub. L. 105–34, title II, § 203(a)](https://www.govinfo.gov/link/plaw/105/public/34), (b), title III, § 303(a), (b), title X, § 1075(a), (b), Aug. 5, 1997, [111 Stat. 809](https://www.govinfo.gov/link/statute/111/809), 829, 949; [Pub. L. 105–206, title III, § 3436(a)](https://www.govinfo.gov/link/plaw/105/public/206), title VI, §§ 6004(d)(3)(B), 6005(c)(1), 6023(3), (4), July 22, 1998, [112 Stat. 761](https://www.govinfo.gov/link/statute/112/761), 794, 800, 824; [Pub. L. 107–16, title IV, § 402(a)(4)(A)](https://www.govinfo.gov/link/plaw/107/public/16), (B), title VI, §§ 632(a)(3)(A), 641(a)(2)(C), (e)(1), June 7, 2001, [115 Stat. 60](https://www.govinfo.gov/link/statute/115/60), 61, 113, 120; [Pub. L. 107–22, § 1(b)(1)(A)](https://www.govinfo.gov/link/plaw/107/public/22), (3)(A), July 26, 2001, [115 Stat. 196](https://www.govinfo.gov/link/statute/115/196), 197; [Pub. L. 107–90, title II, § 204(e)(2)](https://www.govinfo.gov/link/plaw/107/public/90), Dec. 21, 2001, [115 Stat. 893](https://www.govinfo.gov/link/statute/115/893); [Pub. L. 108–311, title II, § 207(6)](https://www.govinfo.gov/link/plaw/108/public/311), (7), title IV, § 408(a)(4), (b)(3), Oct. 4, 2004, [118 Stat. 1177](https://www.govinfo.gov/link/statute/118/1177), 1191, 1192; [Pub. L. 108–357, title VIII, § 906(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1653](https://www.govinfo.gov/link/statute/118/1653); [Pub. L. 109–280, title VIII](https://www.govinfo.gov/link/plaw/109/public/280), §§ 827(a), 828(a), 844(a), Aug. 17, 2006, [120 Stat. 999](https://www.govinfo.gov/link/statute/120/999), 1001, 1010; [Pub. L. 110–245, title I, § 107(a)](https://www.govinfo.gov/link/plaw/110/public/245), June 17, 2008, [122 Stat. 1631](https://www.govinfo.gov/link/statute/122/1631); [Pub. L. 110–458, title I, § 108(e)](https://www.govinfo.gov/link/plaw/110/public/458), Dec. 23, 2008, [122 Stat. 5109](https://www.govinfo.gov/link/statute/122/5109); [Pub. L. 111–240, title II, § 2113(a)](https://www.govinfo.gov/link/plaw/111/public/240), Sept. 27, 2010, [124 Stat. 2566](https://www.govinfo.gov/link/statute/124/2566); [Pub. L. 112–141, div. F, title I, § 100121(c)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 914](https://www.govinfo.gov/link/statute/126/914); [Pub. L. 113–295, div. A, title II, § 221(a)(14)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4039](https://www.govinfo.gov/link/statute/128/4039); [Pub. L. 114–26, § 2(a)](https://www.govinfo.gov/link/plaw/114/public/26) –(c), June 29, 2015, [129 Stat. 319](https://www.govinfo.gov/link/statute/129/319); [Pub. L. 114–113, div. Q, title III, § 308(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3089](https://www.govinfo.gov/link/statute/129/3089); [Pub. L. 116–94, div. O, title I](https://www.govinfo.gov/link/plaw/116/public/94), §§ 108(a), 113(a), Dec. 20, 2019, [133 Stat. 3149](https://www.govinfo.gov/link/statute/133/3149), 3154; [Pub. L. 117–328, div. T, title I](https://www.govinfo.gov/link/plaw/117/public/328), §§ 115(a), 127(e)(2), (3), title III, §§ 308(a), (b), 311(a), 314(a), 323(a), (b), (d), 326(a), 329(a), 330(a), 331(a)(1), (2), (b)(1), (c)(1), 332(b)(1), 333(a), 334(c), title IV, § 401(b)(1), Dec. 29, 2022, [136 Stat. 5296](https://www.govinfo.gov/link/statute/136/5296), 5329, 5345, 5347, 5349, 5356, 5357, 5359–5361, 5364, 5365, 5367, 5368, 5370, 5388.)*

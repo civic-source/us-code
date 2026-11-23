@@ -3,9 +3,10 @@ title: "Section 3103 - Receivership"
 usc_title: 28
 usc_section: "3103"
 chapter: 176
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 3103"
-generated_at: "2026-03-30T02:55:30.152Z"
+generated_at: "2026-11-23T20:26:36.543Z"
+status: "active"
 ---
 
 # § 3103. Receivership
@@ -24,3 +25,21 @@ generated_at: "2026-03-30T02:55:30.152Z"
   - **(1)** A receiver is entitled to such commissions, not exceeding 5 percent of the sums received and disbursed by him, as the court allows unless the court otherwise directs.
   - **(2)** If, at the termination of a receivership, there are no funds in the hands of a receiver, the court may fix the compensation of the receiver in accordance with the services rendered and may direct the party who moved for the appointment of the receiver to pay such compensation in addition to the necessary expenditures incurred by the receiver which remain unpaid.
   - **(3)** At the termination of a receivership, the receiver shall file a final accounting of the receipts and disbursements and apply for compensation setting forth the amount sought and the services rendered by the receiver.
+
+Appointment of a Receiver
+
+Powers of Receiver
+
+Duration of Receivership
+
+Accounts; Requirement to Report
+
+Modification of Powers; Removal
+
+Priority
+
+Compensation of Receivers
+
+## Source Credit
+
+*(Added [Pub. L. 101–647, title XXXVI, § 3611](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4944](https://www.govinfo.gov/link/statute/104/4944).)*

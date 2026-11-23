@@ -3,9 +3,10 @@ title: "Section 6302 - Definitions"
 usc_title: 16
 usc_section: "6302"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6302"
-generated_at: "2026-03-30T02:54:23.056Z"
+generated_at: "2026-11-23T20:26:20.790Z"
+status: "active"
 ---
 
 # § 6302. Definitions
@@ -31,3 +32,11 @@ In this chapter:
   - **(4)** The term “great ape” means a chimpanzee, gorilla, bonobo, orangutan, or gibbon.
   - **(5)** The term “Multinational Species Conservation Fund” means such fund as established in title I of the Department of the Interior and Related Agencies Appropriations Act, 1999, under the heading “ multinational species conservation fund ” [ 16 U.S.C. 4246 ].
   - **(6)** The term “Secretary” means the Secretary of the Interior.
+
+multinational species conservation fund
+
+multinational species conservation fund
+
+## Source Credit
+
+*([Pub. L. 106–411, § 3](https://www.govinfo.gov/link/plaw/106/public/411), Nov. 1, 2000, [114 Stat. 1790](https://www.govinfo.gov/link/statute/114/1790).)*

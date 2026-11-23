@@ -3,9 +3,10 @@ title: "Section 2073 - Rules of procedure and evidence; method of prescribing"
 usc_title: 28
 usc_section: "2073"
 chapter: 131
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 2073"
-generated_at: "2026-03-30T02:55:30.146Z"
+generated_at: "2026-11-23T20:26:36.493Z"
+status: "active"
 ---
 
 # § 2073. Rules of procedure and evidence; method of prescribing
@@ -19,3 +20,21 @@ generated_at: "2026-03-30T02:55:30.146Z"
   - **(2)** Any meeting for the transaction of business under this chapter, by a committee appointed under this section, shall be preceded by sufficient notice to enable all interested persons to attend.
 - **(d)** In making a recommendation under this section or under section 2072 or 2075, the body making that recommendation shall provide a proposed rule, an explanatory note on the rule, and a written report explaining the body’s action, including any minority or other separate views.
 - **(e)** Failure to comply with this section does not invalidate a rule prescribed under section 2072 or 2075 of this title.
+
+In General.—
+
+Disclosure
+
+Information
+
+Purpose
+
+“Within a reasonable period of time after the date of enactment of this Act [ Apr. 20, 2005 ], the Judicial Conference of the United States shall prescribe in accordance with rule 9009 of the Federal Rules of Bankruptcy Procedure [11 U.S.C. App.] official standard form disclosure statements and plans of reorganization for small business debtors (as defined in section 101 of title 11 , United States Code, as amended by this Act), designed to achieve a practical balance between—
+
+Proposal of Rules and Forms
+
+Purpose
+
+## Source Credit
+
+*(Added [Pub. L. 100–702, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/100/public/702), Nov. 19, 1988, [102 Stat. 4649](https://www.govinfo.gov/link/statute/102/4649); amended [Pub. L. 103–394, title I, § 104(e)](https://www.govinfo.gov/link/plaw/103/public/394), Oct. 22, 1994, [108 Stat. 4110](https://www.govinfo.gov/link/statute/108/4110).)*

@@ -3,9 +3,10 @@ title: "Section 81 - Contracts and agreements with Indian tribes"
 usc_title: 25
 usc_section: "81"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 81"
-generated_at: "2026-03-30T02:54:52.797Z"
+generated_at: "2026-11-23T20:26:25.348Z"
+status: "active"
 ---
 
 # § 81. Contracts and agreements with Indian tribes
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:52.797Z"
   - **(1)** require the Secretary to approve a contract for legal services by an attorney;
   - **(2)** amend or repeal the authority of the National Indian Gaming Commission under the Indian Gaming Regulatory Act ( 25 U.S.C. 2701 et seq.); or
   - **(3)** alter or amend any ordinance, resolution, or charter of an Indian tribe that requires approval by the Secretary of any action by that Indian tribe.
+
+## Source Credit
+
+*(R.S. § 2103; [Pub. L. 85–770](https://www.govinfo.gov/link/plaw/85/public/770), Aug. 27, 1958, [72 Stat. 927](https://www.govinfo.gov/link/statute/72/927); [Pub. L. 106–179, § 2](https://www.govinfo.gov/link/plaw/106/public/179), Mar. 14, 2000, [114 Stat. 46](https://www.govinfo.gov/link/statute/114/46).)*

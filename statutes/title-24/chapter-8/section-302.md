@@ -3,12 +3,17 @@ title: "Section 302 - Change of name as affecting various rights; rec­ords, map
 usc_title: 24
 usc_section: "302"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "24 U.S.C. § 302"
-generated_at: "2026-03-30T02:54:50.790Z"
+generated_at: "2026-11-23T20:26:22.696Z"
+status: "active"
 ---
 
 # § 302. Change of name as affecting various rights; rec­ords, maps, and public documents
 
 The change in the name of said hospital shall in no wise affect the rights of the Federal Government, or any municipality, corporation, association, or person; and all records, maps, and public documents of the United States in which said hospital is mentioned or referred to under the name of the Ancon Hospital or otherwise shall be held to refer to the said hospital under and by the name of the Gorgas Hospital.
 
+
+## Source Credit
+
+*(Mar. 24, 1928, ch. 240, § 2, [45 Stat. 366](https://www.govinfo.gov/link/statute/45/366).)*

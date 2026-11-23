@@ -3,9 +3,10 @@ title: "Section 1056 - Relocation assistance programs"
 usc_title: 10
 usc_section: "1056"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1056"
-generated_at: "2026-03-30T02:53:38.097Z"
+generated_at: "2026-11-23T20:25:51.182Z"
+status: "active"
 ---
 
 # § 1056. Relocation assistance programs
@@ -39,3 +40,27 @@ generated_at: "2026-03-30T02:53:38.097Z"
 - **(d)** The Secretary of Defense shall establish the position of Director of Military Relocation Assistance Programs in the office of the Assistant Secretary of Defense (Force Management and Personnel). The Director shall oversee development and implementation of the military relocation assistance programs under this section.
 - **(e)** This section shall be administered under regulations prescribed by the Secretary of Defense.
 - **(f)** This section does not apply to the Coast Guard.
+
+Requirement to Provide Assistance
+
+Types of Assistance
+
+Military Relocation Assistance Programs
+
+Director
+
+Regulations
+
+Inapplicability to Coast Guard
+
+Annual Report
+
+Requirements
+
+Additional Considerations
+
+Covered Contract
+
+## Source Credit
+
+*(Added [Pub. L. 101–510, div. A, title XIV, § 1481(c)(1)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1705](https://www.govinfo.gov/link/statute/104/1705); amended [Pub. L. 104–106, div. A, title IX, § 903(d)](https://www.govinfo.gov/link/plaw/104/public/106), title X, § 1062(a), Feb. 10, 1996, [110 Stat. 402](https://www.govinfo.gov/link/statute/110/402), 443; [Pub. L. 104–201, div. A, title IX, § 901](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2617](https://www.govinfo.gov/link/statute/110/2617); [Pub. L. 107–107, div. A, title X, § 1048(a)(9)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1223](https://www.govinfo.gov/link/statute/115/1223); [Pub. L. 119–60, div. A, title VI, § 662(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 914](https://www.govinfo.gov/link/statute/139/914).)*

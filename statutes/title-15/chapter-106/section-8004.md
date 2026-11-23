@@ -3,9 +3,10 @@ title: "Section 8004 - Swimming pool safety grant program"
 usc_title: 15
 usc_section: "8004"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 8004"
-generated_at: "2026-03-30T02:54:08.227Z"
+generated_at: "2026-11-23T20:26:04.473Z"
+status: "active"
 ---
 
 # § 8004. Swimming pool safety grant program
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:08.227Z"
     - **(A)** to educate pool owners, pool operators, and other members of the public about the standards under the swimming pool and spa safety law of the State or Indian Tribe and about the prevention of drowning or entrapment of children using swimming pools and spas; and
     - **(B)** to defray administrative costs associated with the education programs under subparagraph (A).
 - **(e)** There are authorized to be appropriated to the Commission for fiscal year 2023 $2,500,000 to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 110–140, title XIV, § 1405](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1796](https://www.govinfo.gov/link/statute/121/1796); [Pub. L. 112–10, div. B, title V, § 1576(b)](https://www.govinfo.gov/link/plaw/112/public/10), Apr. 15, 2011, [125 Stat. 139](https://www.govinfo.gov/link/statute/125/139); [Pub. L. 112–74, div. C, title V, § 502](https://www.govinfo.gov/link/plaw/112/public/74), Dec. 23, 2011, [125 Stat. 908](https://www.govinfo.gov/link/statute/125/908); [Pub. L. 113–76, div. E, title V, § 501(1)](https://www.govinfo.gov/link/plaw/113/public/76), Jan. 17, 2014, [128 Stat. 208](https://www.govinfo.gov/link/statute/128/208); [Pub. L. 117–328, div. BB, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5562](https://www.govinfo.gov/link/statute/136/5562).)*

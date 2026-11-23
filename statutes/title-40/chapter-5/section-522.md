@@ -3,9 +3,10 @@ title: "Section 522 - Reimbursement for transfer of excess property"
 usc_title: 40
 usc_section: "522"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 522"
-generated_at: "2026-03-30T02:55:43.373Z"
+generated_at: "2026-11-23T20:26:56.529Z"
+status: "active"
 ---
 
 # § 522. Reimbursement for transfer of excess property
@@ -17,3 +18,30 @@ generated_at: "2026-03-30T02:55:43.373Z"
     - **(A)** subject to chapter 91 of title 31; or
     - **(B)** an organization specified in section 321(c)(2) of this title .
 - **(c)** Excess property determined by the Administrator to be suitable for distribution through the supply centers of the General Services Administration shall be retransferred at prices set by the Administrator with due regard to prices established under section 321(d) of this title .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 522 | 40:483(a)(1) (last sentence). | June 30, 1949, ch. 288 , title II, § 202(a)(1) (last sentence), 63 Stat. 384 ; July 12, 1952, ch. 703, § 1(f) , 66 Stat. 593 . |
+
+
+In General
+
+Reimbursement at Fair Value
+
+Distribution Through General Services Administration Supply Centers
+
+Historical and Revision Notes
+
+522
+
+June 30, 1949, ch. 288
+
+63 Stat. 384
+
+July 12, 1952, ch. 703, § 1(f)
+
+66 Stat. 593
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1083](https://www.govinfo.gov/link/statute/116/1083); [Pub. L. 109–284, § 6(1)](https://www.govinfo.gov/link/plaw/109/public/284), (2), Sept. 27, 2006, [120 Stat. 1212](https://www.govinfo.gov/link/statute/120/1212).)*

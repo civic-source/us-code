@@ -3,9 +3,10 @@ title: "Section 3411 - No reduction in amounts"
 usc_title: 25
 usc_section: "3411"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3411"
-generated_at: "2026-03-30T02:54:52.852Z"
+generated_at: "2026-11-23T20:26:25.650Z"
+status: "active"
 ---
 
 # § 3411. No reduction in amounts
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:52.852Z"
 - **(b)** The inclusion of a program in a tribal plan under this chapter shall not—
   - **(1)** modify, limit, or otherwise affect the eligibility of the program for contracting under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5301 et seq.); or
   - **(2)** eliminate the applicability of any provision of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5301 et seq.), as the provision relates to a specific program eligible for contracting under that Act.
+
+## Source Credit
+
+*([Pub. L. 102–477, § 12](https://www.govinfo.gov/link/plaw/102/public/477), Oct. 23, 1992, [106 Stat. 2304](https://www.govinfo.gov/link/statute/106/2304); [Pub. L. 115–93, § 12](https://www.govinfo.gov/link/plaw/115/public/93), Dec. 18, 2017, [131 Stat. 2034](https://www.govinfo.gov/link/statute/131/2034).)*

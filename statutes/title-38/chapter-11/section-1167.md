@@ -3,9 +3,10 @@ title: "Section 1167 - Mental health consultations"
 usc_title: 38
 usc_section: "1167"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 1167"
-generated_at: "2026-03-30T02:55:53.478Z"
+generated_at: "2026-11-23T20:27:01.617Z"
+status: "active"
 ---
 
 # § 1167. 1 1 Another section 1167 is set out preceding section 1168. Mental health consultations
@@ -15,3 +16,13 @@ generated_at: "2026-03-30T02:55:53.478Z"
   - **(1)** offer a veteran a consultation under subsection (a) without regard to any previous denial or approval of a claim of that veteran for a service-connected disability relating to a mental health diagnosis; and
   - **(2)** ensure that a veteran offered a mental health consultation under subsection (a) may elect to receive such consultation during the one-year period beginning on the date on which the consultation is offered or during such longer period beginning on such date as the Secretary considers appropriate.
 - **(c)** A consultation provided to a veteran under this section shall not be construed as a determination that any disability of such veteran is service-connected for the purposes of any benefit under the laws administered by the Secretary.
+
+In General
+
+Availability
+
+Rule of Construction
+
+## Source Credit
+
+*(Added [Pub. L. 117–328, div. V, title IV, § 404(a)(1)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5512](https://www.govinfo.gov/link/statute/136/5512).)*

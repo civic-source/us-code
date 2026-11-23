@@ -3,9 +3,10 @@ title: "Section 1383 - Procedure for payment of benefits"
 usc_title: 42
 usc_section: "1383"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1383"
-generated_at: "2026-03-30T02:56:10.930Z"
+generated_at: "2026-11-23T20:27:21.069Z"
+status: "active"
 ---
 
 # § 1383. Procedure for payment of benefits
@@ -367,3 +368,99 @@ generated_at: "2026-03-30T02:56:10.930Z"
         - **(III)** the month in which the Commissioner determines that the individual does not meet the requirements of paragraph (1)(B)(i) or that the individual’s declaration made in accordance with paragraph (2)(A)(ii) is false.
     - **(D)** In any case in which the Commissioner determines that an individual is not eligible for reinstated benefits, any provisional benefits paid to the individual under this paragraph shall not be subject to recovery as an overpayment unless the Commissioner determines that the individual knew or should have known that the individual did not meet the requirements of paragraph (1)(B).
   - **(8)** For purposes of this subsection other than paragraph (7), the term “benefits under this subchapter” includes State supplementary payments made pursuant to an agreement under section 1382e(a) of this title or section 212(b) of Public Law 93–66 .
+
+(aa) clause (ii)(VII) shall not apply; and
+
+(bb) the Commissioner may grant an exemption from the provisions of clause (iii)(VI) if the Commissioner determines that such exemption is in the best interest of the individual entitled to benefits.
+
+(aa) is the custodial parent of a minor child for whom the person applies to serve;
+
+(bb) is the custodial spouse of the beneficiary for whom the person applies to serve;
+
+(cc) is the custodial parent of a beneficiary who is under a disability which began before the beneficiary attained the age of 22, for whom the person applies to serve;
+
+(dd) is the custodial court appointed guardian of the beneficiary for whom the person applies to serve;
+
+(ee) is the custodial grandparent of a minor grandchild for whom the person applies to serve;
+
+(ff) is the parent who was previously representative payee for his or her minor child who has since turned 18 and continues to be eligible for such benefit; or
+
+(gg) received a presidential or gubernatorial pardon for the relevant conviction.
+
+(aa) a parent, or other individual who is a legal guardian of, a minor child entitled to such payment who primarily resides in the same household;
+
+(bb) a parent of an individual entitled to such payment who is under a disability who primarily resides in the same household; or
+
+(cc) the spouse of the individual entitled to such payment.
+
+Restitution
+
+(aa) 6, and
+
+(bb) the maximum monthly benefit payable under this subchapter to an eligible individual.
+
+(aa) education or job skills training;
+
+(bb) personal needs assistance;
+
+(cc) special equipment;
+
+(dd) housing modification;
+
+(ee) medical treatment;
+
+(ff) therapy or rehabilitation; or
+
+(gg) any other item or service that the Commissioner determines to be appropriate;
+
+(aa) by a representative payee shall be considered a misapplication of benefits for all purposes of this paragraph, and any representative payee who knowingly misapplies benefits from such an account shall be liable to the Commissioner in an amount equal to the total amount of such benefits; and
+
+(bb) by an eligible individual who is his or her own payee shall be considered a misapplication of benefits for all purposes of this paragraph and in any case in which the individual knowingly misapplies benefits from such an account, the Commissioner shall reduce future benefits payable to such individual (or to such individual and his spouse) by an amount equal to the total amount of such benefits so misapplied.
+
+(aa) food,
+
+(bb) clothing,
+
+(cc) shelter, or
+
+(dd) medically necessary services, supplies or equipment, or medicine; or
+
+(aa) medically necessary services, supplies or equipment, or medicine, or
+
+(bb) the purchase of a home, and
+
+(aa) the rendering of a final adverse decision on the applicant’s application for eligibility for benefits under this subchapter;
+
+(bb) the cessation of the recipient’s eligibility for benefits under this subchapter; or
+
+(cc) the express revocation by the applicant or recipient (or such other person referred to in subclause (I)) of the authorization, in a written notification to the Commissioner.
+
+(aa) An authorization obtained by the Commissioner of Social Security pursuant to this clause shall be considered to meet the requirements of the Right to Financial Privacy Act [ 12 U.S.C. 3401 et seq.] for purposes of section 1103(a) of such Act [ 12 U.S.C. 3403(a) ], and need not be furnished to the financial institution, notwithstanding section 1104(a) of such Act [ 12 U.S.C. 3404(a) ].
+
+(bb) The certification requirements of section 1103(b) of the Right to Financial Privacy Act [ 12 U.S.C. 3403(b) ] shall not apply to requests by the Commissioner of Social Security pursuant to an authorization provided under this clause.
+
+(cc) A request by the Commissioner pursuant to an authorization provided under this clause is deemed to meet the requirements of section 1104(a)(3) of the Right to Financial Privacy Act [ 12 U.S.C. 3404(a)(3) ] and the flush language of section 1102 of such Act [ 12 U.S.C. 3402 ].
+
+(aa) the rendering of a final adverse decision on the applicant’s application for eligibility for benefits under this subchapter;
+
+(bb) the cessation of the recipient’s eligibility for benefits under this subchapter;
+
+(cc) the express revocation by the applicant, or recipient (or such other person referred to in subclause (I)) of the authorization, in a written notification to the Commissioner; or
+
+(dd) the termination of the basis upon which the Commissioner considers another person’s income and resources available to the applicant or recipient.
+
+In general
+
+Benefits payable under title xvi
+
+In General
+
+Scope of Projects
+
+SSI Outreach Team Projects
+
+Authorization of Appropriations
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVI, § 1631, as added [Pub. L. 92–603, title III, § 301](https://www.govinfo.gov/link/plaw/92/public/603), Oct. 30, 1972, [86 Stat. 1475](https://www.govinfo.gov/link/statute/86/1475); amended [Pub. L. 93–233, § 18(g)](https://www.govinfo.gov/link/plaw/93/public/233), Dec. 31, 1973, [87 Stat. 969](https://www.govinfo.gov/link/statute/87/969); [Pub. L. 93–368, § 5](https://www.govinfo.gov/link/plaw/93/public/368), Aug. 7, 1974, [88 Stat. 420](https://www.govinfo.gov/link/statute/88/420); [Pub. L. 94–202](https://www.govinfo.gov/link/plaw/94/public/202), §§ 1, 2, Jan. 2, 1976, [89 Stat. 1135](https://www.govinfo.gov/link/statute/89/1135); [Pub. L. 94–365, § 1](https://www.govinfo.gov/link/plaw/94/public/365), July 14, 1976, [90 Stat. 990](https://www.govinfo.gov/link/statute/90/990); [Pub. L. 94–569, § 4(a)](https://www.govinfo.gov/link/plaw/94/public/569), Oct. 20, 1976, [90 Stat. 2700](https://www.govinfo.gov/link/statute/90/2700); [Pub. L. 96–222, title I, § 101(a)(2)(C)](https://www.govinfo.gov/link/plaw/96/public/222), Apr. 1, 1980, [94 Stat. 195](https://www.govinfo.gov/link/statute/94/195); [Pub. L. 96–265, title III](https://www.govinfo.gov/link/plaw/96/public/265), §§ 301(b), 305(b), 310(b), title V, § 501(c), June 9, 1980, [94 Stat. 450](https://www.govinfo.gov/link/statute/94/450), 457, 459, 470; [Pub. L. 96–473, § 6(h)](https://www.govinfo.gov/link/plaw/96/public/473), Oct. 19, 1980, [94 Stat. 2266](https://www.govinfo.gov/link/statute/94/2266); [Pub. L. 97–35, title XXIII, § 2343(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 866](https://www.govinfo.gov/link/statute/95/866); [Pub. L. 97–248, title I, § 187(a)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 407](https://www.govinfo.gov/link/statute/96/407); [Pub. L. 98–369, div. B, title VI](https://www.govinfo.gov/link/plaw/98/public/369), §§ 2612(a), 2613, 2651(j), 2663(g)(11), (12), July 18, 1984, [98 Stat. 1131](https://www.govinfo.gov/link/statute/98/1131), 1150, 1169; [Pub. L. 98–460](https://www.govinfo.gov/link/plaw/98/public/460), §§ 7(b), 16(b), Oct. 9, 1984, [98 Stat. 1803](https://www.govinfo.gov/link/statute/98/1803), 1809; [Pub. L. 99–272, title XII, § 12113(b)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 288](https://www.govinfo.gov/link/statute/100/288); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), title XVIII, § 1883(d)(1), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095), 2918; [Pub. L. 99–570, title XI](https://www.govinfo.gov/link/plaw/99/public/570), §§ 11005(a), 11006, Oct. 27, 1986, [100 Stat. 3207–169](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 99–643](https://www.govinfo.gov/link/plaw/99/public/643), §§ 4(c)(1), (d)(3)(B), 5, 8(a), Nov. 10, 1986, [100 Stat. 3576–3579](https://www.govinfo.gov/link/statute/100/3576); [Pub. L. 100–203, title IX](https://www.govinfo.gov/link/plaw/100/public/203), §§ 9109(a), 9110(a), (b), 9111(a)(1), 9112(a), 9123, Dec. 22, 1987, [101 Stat. 1330–302](https://www.govinfo.gov/link/statute/101/1330) to 1330–304, 1330–313; [Pub. L. 100–647, title VIII, § 8001(b)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3779](https://www.govinfo.gov/link/statute/102/3779); [Pub. L. 101–239, title X](https://www.govinfo.gov/link/plaw/101/public/239), §§ 10302(b)(1), 10303(b), 10305(e), 10307(a)(2), (b)(2), Dec. 19, 1989, [103 Stat. 2482](https://www.govinfo.gov/link/statute/103/2482), 2483, 2485; [Pub. L. 101–508, title V](https://www.govinfo.gov/link/plaw/101/public/508), §§ 5031(c), 5038(a), 5039(b), 5040, 5105(a)(1)(B), (2)(A)(ii), (3)(A)(ii), (c)(2), (d)(1)(B), 5106(a)(2), (c), 5107(a)(2), 5109(a)(2), 5113(b), Nov. 5, 1990, [104 Stat. 1388–224](https://www.govinfo.gov/link/statute/104/1388), 1388–226, 1388–227, 1388–255, 1388–258, 1388–261, 1388–265, 1388–266, 1388–268, 1388–269, 1388–271, 1388–273; [Pub. L. 103–296, title I, § 107(a)(4)](https://www.govinfo.gov/link/plaw/103/public/296), title II, §§ 201(b)(1)(A), (B), (2)(A), (B), 206(a)(2), (d)(2), (f)(1), title III, § 321(f)(2)(B), (3)(A), (h)(1), Aug. 15, 1994, [108 Stat. 1478](https://www.govinfo.gov/link/statute/108/1478), 1499–1501, 1509, 1514, 1515, 1541, 1544; [Pub. L. 103–387, § 6(a)](https://www.govinfo.gov/link/plaw/103/public/387), Oct. 22, 1994, [108 Stat. 4077](https://www.govinfo.gov/link/statute/108/4077); [Pub. L. 103–432, title II](https://www.govinfo.gov/link/plaw/103/public/432), §§ 264(b), (e)–(g), 267(b), 268, Oct. 31, 1994, [108 Stat. 4468–4470](https://www.govinfo.gov/link/statute/108/4468); [Pub. L. 104–121, title I, § 105(b)(2)](https://www.govinfo.gov/link/plaw/104/public/121), Mar. 29, 1996, [110 Stat. 853](https://www.govinfo.gov/link/statute/110/853); [Pub. L. 104–193, title II](https://www.govinfo.gov/link/plaw/104/public/193), §§ 204(b), (c)(2), 213(a), 221(a), (b), title IV, § 404(c), Aug. 22, 1996, [110 Stat. 2188](https://www.govinfo.gov/link/statute/110/2188), 2194, 2196, 2197, 2267; [Pub. L. 105–33, title V](https://www.govinfo.gov/link/plaw/105/public/33), §§ 5522(b), 5564, Aug. 5, 1997, [111 Stat. 622](https://www.govinfo.gov/link/statute/111/622), 639; [Pub. L. 105–306, § 8(b)(2)](https://www.govinfo.gov/link/plaw/105/public/306), Oct. 28, 1998, [112 Stat. 2929](https://www.govinfo.gov/link/statute/112/2929); [Pub. L. 106–169, title II](https://www.govinfo.gov/link/plaw/106/public/169), §§ 201(b), 202(a), 203(a), 213, 251(b)(9), Dec. 14, 1999, [113 Stat. 1831](https://www.govinfo.gov/link/statute/113/1831), 1832, 1843, 1856; [Pub. L. 106–170, title I](https://www.govinfo.gov/link/plaw/106/public/170), §§ 101(b)(2)(C), 112(b), Dec. 17, 1999, [113 Stat. 1874](https://www.govinfo.gov/link/statute/113/1874), 1884; [Pub. L. 108–203, title I](https://www.govinfo.gov/link/plaw/108/public/203), §§ 101(c)(1), (3), 102(a)(2), (b)(3), 103(c), 104(b), 105(c), 106(c), title II, § 210(b)(4), title III, § 302(a), (b), Mar. 2, 2004, [118 Stat. 496](https://www.govinfo.gov/link/statute/118/496), 497, 500, 502, 503, 505, 506, 517, 519, 521; [Pub. L. 109–163, div. A, title VI, § 689](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3337](https://www.govinfo.gov/link/statute/119/3337); [Pub. L. 109–171, title VII, § 7502(a)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 154](https://www.govinfo.gov/link/statute/120/154); [Pub. L. 110–234, title IV, § 4002(b)(1)(A)](https://www.govinfo.gov/link/plaw/110/public/234), (B), (2)(V), May 22, 2008, [122 Stat. 1095–1097](https://www.govinfo.gov/link/statute/122/1095); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, § 4002(b)(1)(A), (B), (2)(V), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1857, 1858; [Pub. L. 111–115, § 2(b)](https://www.govinfo.gov/link/plaw/111/public/115), Dec. 15, 2009, [123 Stat. 3029](https://www.govinfo.gov/link/statute/123/3029); [Pub. L. 111–142, § 3(b)(1)](https://www.govinfo.gov/link/plaw/111/public/142), Feb. 27, 2010, [124 Stat. 39](https://www.govinfo.gov/link/statute/124/39); [Pub. L. 113–79, title IV, § 4030(r)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 815](https://www.govinfo.gov/link/statute/128/815); [Pub. L. 114–74, title VIII](https://www.govinfo.gov/link/plaw/114/public/74), §§ 824(b)(2), (c)(2), 834(b), Nov. 2, 2015, [129 Stat. 609](https://www.govinfo.gov/link/statute/129/609), 615; [Pub. L. 115–165, title I](https://www.govinfo.gov/link/plaw/115/public/165), §§ 102(c), 104(b), title II, §§ 202(c), 203(c), Apr. 13, 2018, [132 Stat. 1261](https://www.govinfo.gov/link/statute/132/1261), 1264, 1270, 1272.)*

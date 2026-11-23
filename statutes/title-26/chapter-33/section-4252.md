@@ -3,9 +3,10 @@ title: "Section 4252 - Definitions"
 usc_title: 26
 usc_section: "4252"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 4252"
-generated_at: "2026-03-30T02:55:27.801Z"
+generated_at: "2026-11-23T20:26:46.301Z"
+status: "active"
 ---
 
 # § 4252. Definitions
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:27.801Z"
     - **(B)** to the use of an intercommunication system for the subscriber’s stations,
   - **(2)** switching capacity, extension lines and stations, or other associated services which are provided in connection with, and are necessary or unique to the use of, channels or systems described in paragraph (1), and
   - **(3)** the channel mileage which connects a telephone station located outside a local telephone system area with a central office in such local telephone system,
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 503; [Pub. L. 85–859, title I, § 133(a)](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1290](https://www.govinfo.gov/link/statute/72/1290); [Pub. L. 87–508, § 4(a)](https://www.govinfo.gov/link/plaw/87/public/508), June 28, 1962, [76 Stat. 115](https://www.govinfo.gov/link/statute/76/115); [Pub. L. 89–44, title III, § 302](https://www.govinfo.gov/link/plaw/89/public/44), June 21, 1965, [79 Stat. 145](https://www.govinfo.gov/link/statute/79/145).)*

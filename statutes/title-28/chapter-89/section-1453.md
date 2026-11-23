@@ -3,9 +3,10 @@ title: "Section 1453 - Removal of class actions"
 usc_title: 28
 usc_section: "1453"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 1453"
-generated_at: "2026-03-30T02:55:30.140Z"
+generated_at: "2026-11-23T20:26:36.453Z"
+status: "active"
 ---
 
 # § 1453. Removal of class actions
@@ -23,3 +24,23 @@ generated_at: "2026-03-30T02:55:30.140Z"
   - **(1)** a claim concerning a covered security as defined under section 16(f)(3) of the Securities Act of 1933 ( 15 U.S.C. 78p(f)(3) 1 1 So in original. Probably should be “77p(f)(3)”. ) and section 28(f)(5)(E) of the Securities Exchange Act of 1934 ( 15 U.S.C. 78bb(f)(5)(E) );
   - **(2)** a claim that relates to the internal affairs or governance of a corporation or other form of business enterprise and arises under or by virtue of the laws of the State in which such corporation or business enterprise is incorporated or organized; or
   - **(3)** a claim that relates to the rights, duties (including fiduciary duties), and obligations relating to or created by or pursuant to any security (as defined under section 2(a)(1) of the Securities Act of 1933 ( 15 U.S.C. 77b(a)(1) ) and the regulations issued thereunder).
+
+Definitions
+
+In General
+
+Review of Remand Orders.—
+
+In general
+
+Time period for judgment
+
+Extension of time period
+
+Denial of appeal
+
+Exception
+
+## Source Credit
+
+*(Added [Pub. L. 109–2, § 5(a)](https://www.govinfo.gov/link/plaw/109/public/2), Feb. 18, 2005, [119 Stat. 12](https://www.govinfo.gov/link/statute/119/12); amended [Pub. L. 111–16, § 6(2)](https://www.govinfo.gov/link/plaw/111/public/16), May 7, 2009, [123 Stat. 1608](https://www.govinfo.gov/link/statute/123/1608); [Pub. L. 112–63, title I, § 103(d)(2)](https://www.govinfo.gov/link/plaw/112/public/63), Dec. 7, 2011, [125 Stat. 762](https://www.govinfo.gov/link/statute/125/762).)*

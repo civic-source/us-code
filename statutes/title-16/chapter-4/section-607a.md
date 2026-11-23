@@ -3,12 +3,17 @@ title: "Section 607a - Cutting and use of timber in Alaska by settlers, resident
 usc_title: 16
 usc_section: "607a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 607a"
-generated_at: "2026-03-30T02:54:22.885Z"
+generated_at: "2026-11-23T20:26:20.188Z"
+status: "active"
 ---
 
 # § 607a. Cutting and use of timber in Alaska by settlers, residents, miners, etc.
 
 The Secretary of the Interior may permit under regulations to be prescribed by him the use of timber found upon the public land in Alaska by actual settlers, residents, individual miners, and prospectors for minerals, for firewood, fencing, buildings, mining, prospecting, and for domestic purposes, as may actually be needed by such persons for such purposes and may permit such use by churches, hospitals, and charitable institutions in Alaska for firewood, fencing, buildings, and for domestic purposes.
 
+
+## Source Credit
+
+*(May 14, 1898, ch. 299, § 11, [30 Stat. 414](https://www.govinfo.gov/link/statute/30/414); June 15, 1938, ch. 437, [52 Stat. 699](https://www.govinfo.gov/link/statute/52/699).)*

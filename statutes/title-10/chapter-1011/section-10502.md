@@ -3,9 +3,10 @@ title: "Section 10502 - Chief of the National Guard Bureau: appointment; adviser
 usc_title: 10
 usc_section: "10502"
 chapter: 1011
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 10502"
-generated_at: "2026-03-30T02:53:38.266Z"
+generated_at: "2026-11-23T20:25:52.388Z"
+status: "active"
 ---
 
 # § 10502. Chief of the National Guard Bureau: appointment; adviser on National Guard matters; grade; succession
@@ -32,3 +33,17 @@ generated_at: "2026-03-30T02:53:38.266Z"
 - **(f)**
   - **(1)** When there is a vacancy in the office of the Chief of the National Guard Bureau or in the absence or disability of the Chief, the Vice Chief of the National Guard Bureau acts as Chief and performs the duties of the Chief until a successor is appointed or the absence or disability ceases.
   - **(2)** When there is a vacancy in the offices of both the Chief and the Vice Chief of the National Guard Bureau or in the absence or disability of both the Chief and the Vice Chief of the National Guard Bureau, or when there is a vacancy in one such office and in the absence or disability of the officer holding the other, the senior officer of the Army National Guard of the United States or the Air National Guard of the United States on duty with the National Guard Bureau shall perform the duties of the Chief until a successor to the Chief or Vice Chief is appointed or the absence or disability of the Chief or Vice Chief ceases, as the case may be.
+
+Appointment
+
+Term of Office
+
+Member of Joint Chiefs of Staff
+
+Grade and Exclusion From General and Flag Officer Authorized Strength
+
+Succession
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title IX, § 904(a)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2824](https://www.govinfo.gov/link/statute/108/2824); amended [Pub. L. 108–375, div. A, title V, § 507(a)](https://www.govinfo.gov/link/plaw/108/public/375), (b)(1), Oct. 28, 2004, [118 Stat. 1876](https://www.govinfo.gov/link/statute/118/1876); [Pub. L. 110–181, div. A, title XVIII](https://www.govinfo.gov/link/plaw/110/public/181), §§ 1811, 1825(c)(2), Jan. 28, 2008, [122 Stat. 496](https://www.govinfo.gov/link/statute/122/496), 502; [Pub. L. 112–81, div. A, title V](https://www.govinfo.gov/link/plaw/112/public/81), §§ 511(a)(1),(2), 512(b), Dec. 31, 2011, [125 Stat. 1391](https://www.govinfo.gov/link/statute/125/1391), 1393.)*

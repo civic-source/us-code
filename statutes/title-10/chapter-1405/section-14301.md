@@ -3,9 +3,10 @@ title: "Section 14301 - Eligibility for consideration for promotion: general rul
 usc_title: 10
 usc_section: "14301"
 chapter: 1405
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 14301"
-generated_at: "2026-03-30T02:53:38.274Z"
+generated_at: "2026-11-23T20:25:52.465Z"
+status: "active"
 ---
 
 # § 14301. Eligibility for consideration for promotion: general rules
@@ -43,3 +44,31 @@ generated_at: "2026-03-30T02:53:38.274Z"
     - **(B)** the Secretary determines the exclusion from consideration is in the best interest of the military department concerned; and
     - **(C)** the officer has not previously failed of selection for promotion to the grade for which the officer requests the exclusion from consideration.
 - **(k)** The Secretary of the military department concerned may provide that an officer who is in an active status, but is in a duty status in which the only points the officer accrues under section 12732(a)(2) of this title are pursuant to subparagraph (C)(i) of that section (relating to membership in a reserve component), shall not be considered for selection for promotion until completion of two years of service in such duty status. Any such officer may remain on the reserve active-status list.
+
+One-Year Rule
+
+Requirement for Consideration of All Officers In and Above the Zone
+
+Certain Officers Not To Be Considered
+
+Officers Below the Zone
+
+Certain Reserve Officers of the Air Force
+
+Nonconsideration of Officers Scheduled for Removal From Reserve Active-status List
+
+Brigadier Generals
+
+Officers on Educational Delay
+
+Reserve Officers Employed as Military Technician (dual Status)
+
+Authority To Allow Officers To Opt Out of Selection Board Consideration
+
+Certain Officers Not to Be Considered for Selection for Promotion
+
+Reserve Officers of the Army; Consideration for Brigadier General and Major General
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1611](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2931](https://www.govinfo.gov/link/statute/108/2931); amended [Pub. L. 105–85, div. A, title V](https://www.govinfo.gov/link/plaw/105/public/85), §§ 503(b), (c), 514(b), Nov. 18, 1997, [111 Stat. 1724](https://www.govinfo.gov/link/statute/111/1724), 1725, 1732; [Pub. L. 105–261, div. A, title V, § 514](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2008](https://www.govinfo.gov/link/statute/112/2008); [Pub. L. 106–65, div. A, title V, § 513(a)](https://www.govinfo.gov/link/plaw/106/public/65), title X, § 1066(a)(32), Oct. 5, 1999, [113 Stat. 593](https://www.govinfo.gov/link/statute/113/593), 772; [Pub. L. 107–107, div. A, title V, § 505(c)(1)(B)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1087](https://www.govinfo.gov/link/statute/115/1087); [Pub. L. 107–314, div. A, title V, § 521](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2540](https://www.govinfo.gov/link/statute/116/2540); [Pub. L. 112–81, div. A, title V, § 517](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1397](https://www.govinfo.gov/link/statute/125/1397); [Pub. L. 115–232, div. A, title V](https://www.govinfo.gov/link/plaw/115/public/232), §§ 505(b), 513, Aug. 13, 2018, [132 Stat. 1743](https://www.govinfo.gov/link/statute/132/1743), 1752; [Pub. L. 118–159, div. A, title V](https://www.govinfo.gov/link/plaw/118/public/159), §§ 503(c), 505(a)(2), Dec. 23, 2024, [138 Stat. 1868](https://www.govinfo.gov/link/statute/138/1868), 1869.)*

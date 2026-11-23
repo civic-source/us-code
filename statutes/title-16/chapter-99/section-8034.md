@@ -3,9 +3,10 @@ title: "Section 8034 - Gulf of Mexico IUU Fishing Subworking Group"
 usc_title: 16
 usc_section: "8034"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 8034"
-generated_at: "2026-03-30T02:54:23.081Z"
+generated_at: "2026-11-23T20:26:20.868Z"
+status: "active"
 ---
 
 # § 8034. Gulf of Mexico IUU Fishing Subworking Group
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:23.081Z"
 - **(c)** Not later than 1 year after the IUU Fishing Subworking Group is established under subsection (a), the group shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Natural Resources of the House of Representatives that contains—
   - **(1)** the findings identified pursuant to subsection (b); and
   - **(2)** a timeline for each of the Federal agencies described in subsection (a) to implement each action or policy identified pursuant to subsection (b)(2).
+
+## Source Credit
+
+*([Pub. L. 116–92, div. C, title XXXV, § 3554](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2008](https://www.govinfo.gov/link/statute/133/2008).)*

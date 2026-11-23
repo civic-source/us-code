@@ -3,9 +3,10 @@ title: "Section 4026 - Career counseling"
 usc_title: 22
 usc_section: "4026"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4026"
-generated_at: "2026-03-30T02:55:05.401Z"
+generated_at: "2026-11-23T20:26:32.498Z"
+status: "active"
 ---
 
 # § 4026. Career counseling
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:05.401Z"
   - **(5)** The Secretary may work with the Director of the Office of Personnel Management and the heads of other Federal departments and agencies to expand and facilitate the use of existing Federal programs and resources in support of eligible family member employment.
   - **(6)** The Secretary shall establish a family liaison office to carry out this subsection and such other functions as the Secretary may determine.
   - **(7)** In this subsection, the term “eligible family member” refers to family members of government employees assigned abroad or hired for service at their post of residence who are appointed by the Secretary of State or the Administrator of the United States Agency for International Development pursuant to sections 3902, 3922, 3943, and 3951 of this title.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 706](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2101](https://www.govinfo.gov/link/statute/94/2101); [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. B, title XXIII, § 2314(a), Oct. 21, 1998, [112 Stat. 2681–827](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 117–81, div. F, title LXII, § 6203](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2389](https://www.govinfo.gov/link/statute/135/2389).)*

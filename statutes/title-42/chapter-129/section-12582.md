@@ -3,9 +3,10 @@ title: "Section 12582 - Application for assistance and approved national service
 usc_title: 42
 usc_section: "12582"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12582"
-generated_at: "2026-03-30T02:56:11.417Z"
+generated_at: "2026-11-23T20:27:23.375Z"
+status: "active"
 ---
 
 # § 12582. Application for assistance and approved national service positions
@@ -55,3 +56,7 @@ generated_at: "2026-03-30T02:56:11.417Z"
     - **(A)** a State, subdivision of a State, territory, Indian tribe, public or private nonprofit organization, or institution of higher education submitting an application under this section; or
     - **(B)** an entity applying for assistance or approved national service positions through a grant program conducted using assistance provided to a State, subdivision of a State, territory, Indian tribe, public or private nonprofit organization, or institution of higher education under section 12571 of this title .
 - **(h)** Unless specifically authorized by law, the Corporation may not provide more than 1 grant under the national service laws for a fiscal year to support the same project under the national service laws.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 130](https://www.govinfo.gov/link/plaw/101/public/610), as added [Pub. L. 103–82, title I, § 101(b)](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 800](https://www.govinfo.gov/link/statute/107/800); amended [Pub. L. 111–13, title I, § 1308](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1505](https://www.govinfo.gov/link/statute/123/1505).)*

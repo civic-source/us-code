@@ -3,9 +3,10 @@ title: "Section 30103 - Relationship to other laws"
 usc_title: 49
 usc_section: "30103"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 30103"
-generated_at: "2026-03-30T02:56:19.350Z"
+generated_at: "2026-11-23T20:27:34.887Z"
+status: "active"
 ---
 
 # § 30103. Relationship to other laws
@@ -19,3 +20,82 @@ generated_at: "2026-03-30T02:56:19.350Z"
   - **(2)** prohibit under the antitrust laws conduct that is lawful under those laws.
 - **(d)** Sections 30117(b), 30118–30121, 30166(f), and 30167(a) and (b) of this title do not establish or affect a warranty obligation under a law of the United States or a State. A remedy under those sections and sections 30161 and 30162 of this title is in addition to other rights and remedies under other laws of the United States or a State.
 - **(e)** Compliance with a motor vehicle safety standard prescribed under this chapter does not exempt a person from liability at common law.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30103(a) | 15:1392(g). | Sept. 9, 1966 , Pub. L. 89–563 , §§ 103(g), 105(a)(6), 116, 80 Stat. 720 , 721, 727. |
+| 30103(b) | 15:1392(d). | Sept. 9, 1966 , Pub. L. 89–563, § 103(d) , 80 Stat. 719 ; Oct. 15, 1982 , Pub. L. 97–331, § 3 , 96 Stat. 1619 . |
+| 30103(c) | 15:1405. |  |
+| 30103(d) | 15:1394(a)(6). |  |
+|  | 15:1410a(e). | Sept. 9, 1966 , Pub. L. 89–563 , 80 Stat. 718 , §§ 124(e), 160; added Oct. 27, 1974 , Pub. L. 93–492 , §§ 102(a), 106, 88 Stat. 1477 , 1481. |
+|  | 15:1420. |  |
+| 30103(e) | 15:1397(k). | Sept. 9, 1966 , Pub. L. 89–563, § 108(k) , 80 Stat. 723 ; Oct. 31, 1988 , Pub. L. 100–562, § 2(b) , 102 Stat. 2818 . |
+
+
+Uniformity of Regulations
+
+Preemption
+
+Antitrust Laws
+
+Warranty Obligations and Additional Legal Rights and Remedies
+
+Common Law Liability
+
+Historical and Revision Notes
+
+30103(a)
+
+Sept. 9, 1966
+
+Pub. L. 89–563
+
+80 Stat. 720
+
+30103(b)
+
+Sept. 9, 1966
+
+Pub. L. 89–563, § 103(d)
+
+80 Stat. 719
+
+Oct. 15, 1982
+
+Pub. L. 97–331, § 3
+
+96 Stat. 1619
+
+30103(c)
+
+30103(d)
+
+Sept. 9, 1966
+
+Pub. L. 89–563
+
+80 Stat. 718
+
+Oct. 27, 1974
+
+Pub. L. 93–492
+
+88 Stat. 1477
+
+30103(e)
+
+Sept. 9, 1966
+
+Pub. L. 89–563, § 108(k)
+
+80 Stat. 723
+
+Oct. 31, 1988
+
+Pub. L. 100–562, § 2(b)
+
+102 Stat. 2818
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 943](https://www.govinfo.gov/link/statute/108/943); [Pub. L. 104–88, title III, § 308(j)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 947](https://www.govinfo.gov/link/statute/109/947).)*

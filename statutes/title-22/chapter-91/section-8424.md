@@ -3,9 +3,10 @@ title: "Section 8424 - Pakistan Counterinsurgency Capability Fund"
 usc_title: 22
 usc_section: "8424"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8424"
-generated_at: "2026-03-30T02:55:05.451Z"
+generated_at: "2026-11-23T20:26:32.708Z"
+status: "active"
 ---
 
 # § 8424. Pakistan Counterinsurgency Capability Fund
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:05.451Z"
 - **(c)** In this section, the term “appropriate congressional committees” means—
   - **(1)** the Committee on Appropriations, the Committee on Armed Services, and the Committee on Foreign Affairs of the House of Representatives; and
   - **(2)** the Committee on Appropriations, the Committee on Armed Services, and the Committee on Foreign Relations of the Senate.
+
+## Source Credit
+
+*([Pub. L. 111–73, title II, § 204](https://www.govinfo.gov/link/plaw/111/public/73), Oct. 15, 2009, [123 Stat. 2072](https://www.govinfo.gov/link/statute/123/2072).)*

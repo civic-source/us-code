@@ -3,9 +3,10 @@ title: "Section 3415 - Office of Postsecondary Education"
 usc_title: 20
 usc_section: "3415"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 3415"
-generated_at: "2026-03-30T02:54:48.177Z"
+generated_at: "2026-11-23T20:26:14.728Z"
+status: "active"
 ---
 
 # § 3415. Office of Postsecondary Education
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:48.177Z"
   - **(1)** be an individual with extensive background and experience in international and foreign language education;
   - **(2)** have responsibility for encouraging and promoting the study of foreign languages and the study of the cultures of other countries at the elementary, secondary, and postsecondary levels in the United States; and
   - **(3)** coordinate with related international and foreign language education programs of other Federal agencies.
+
+## Source Credit
+
+*([Pub. L. 96–88, title II, § 205](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 674](https://www.govinfo.gov/link/statute/93/674); [Pub. L. 110–315, title IX, § 935](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3460](https://www.govinfo.gov/link/statute/122/3460).)*

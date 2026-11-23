@@ -3,9 +3,10 @@ title: "Section 4251 - Incentive for fishermen to collect and dispose of plastic
 usc_title: 33
 usc_section: "4251"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 4251"
-generated_at: "2026-03-30T02:55:41.147Z"
+generated_at: "2026-11-23T20:26:54.294Z"
+status: "active"
 ---
 
 # § 4251. Incentive for fishermen to collect and dispose of plastic found at sea
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:41.147Z"
   - **(1)** collection and removal of derelict fishing gear and other fishing waste;
   - **(2)** disposal or recycling of such gear and waste; and
   - **(3)** prevention of the loss of such gear.
+
+## Source Credit
+
+*([Pub. L. 116–224, title I, § 137](https://www.govinfo.gov/link/plaw/116/public/224), Dec. 18, 2020, [134 Stat. 1086](https://www.govinfo.gov/link/statute/134/1086).)*

@@ -3,12 +3,17 @@ title: "Section 3197 - Notification of reorganization"
 usc_title: 42
 usc_section: "3197"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3197"
-generated_at: "2026-03-30T02:56:11.184Z"
+generated_at: "2026-11-23T20:27:22.269Z"
+status: "active"
 ---
 
 # § 3197. Notification of reorganization
 
 Not later than 30 days before the date of any reorganization of the offices, programs, or activities of the Economic Development Administration, the Secretary shall provide notification of the reorganization to the Committee on Environment and Public Works and the Committee on Appropriations of the Senate, and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives.
 
+
+## Source Credit
+
+*([Pub. L. 89–136, title V, § 507](https://www.govinfo.gov/link/plaw/89/public/136), as added [Pub. L. 105–393, title I, § 102(a)](https://www.govinfo.gov/link/plaw/105/public/393), Nov. 13, 1998, [112 Stat. 3611](https://www.govinfo.gov/link/statute/112/3611).)*

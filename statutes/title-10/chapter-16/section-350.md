@@ -3,9 +3,10 @@ title: "Section 350 - Inter-European Air Forces Academy"
 usc_title: 10
 usc_section: "350"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 350"
-generated_at: "2026-03-30T02:53:38.054Z"
+generated_at: "2026-11-23T20:25:50.922Z"
+status: "active"
 ---
 
 # § 350. Inter-European Air Forces Academy
@@ -26,3 +27,23 @@ generated_at: "2026-03-30T02:53:38.054Z"
   - **(3)** Billeting, food, and health services in connection with the receipt of such education and training.
 - **(e)** The Secretary of the Air Force may pay to a person receiving education and training under this section a living allowance at a rate to be prescribed by the Secretary, taking into account the rates of living allowances authorized for a member of the Armed Forces under similar circumstances.
 - **(f)** Amounts for the operations and maintenance of the Academy, and for the provision of education and training through the Academy, may be paid from funds available for the Air Force for operation and maintenance.
+
+Operation
+
+Purpose
+
+Limitations.—
+
+Concurrence of secretary of state
+
+Assistance otherwise prohibited by law
+
+Supplies and Clothing
+
+Living Allowance
+
+Funding
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. A, title XII, § 1241(k)(1)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2508](https://www.govinfo.gov/link/statute/130/2508); amended [Pub. L. 116–283, div. A, title XII, § 1205](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3912](https://www.govinfo.gov/link/statute/134/3912).)*

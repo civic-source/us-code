@@ -3,12 +3,17 @@ title: "Section 1338a - Moneys received as a result of forfeiture by Outer Conti
 usc_title: 43
 usc_section: "1338a"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1338a"
-generated_at: "2026-03-30T02:55:57.470Z"
+generated_at: "2026-11-23T20:27:06.280Z"
+status: "active"
 ---
 
 # § 1338a. Moneys received as a result of forfeiture by Outer Continental Shelf permittee, lessee, or right-of-way holder; deposits and transfers to decommissioning account; return of excess amounts
 
 Notwithstanding section 3302 of title 31 , any moneys hereafter received as a result of the forfeiture of a bond or other security by an Outer Continental Shelf permittee, lessee, or right-of-way holder that does not fulfill the requirements of its permit, lease, or right-of-way or does not comply with the regulations of the Secretary, or as a bankruptcy distribution or settlement associated with such failure or noncompliance, shall be credited to a separate account established in the Treasury for decommissioning activities and shall be available to the Bureau of Ocean Energy Management without further appropriation or fiscal year limitation to cover the cost to the United States of any improvement, protection, rehabilitation, or decommissioning work rendered necessary by the action or inaction that led to the forfeiture or bankruptcy distribution or settlement, to remain available until expended: Provided further , That amounts deposited into the decommissioning account may be allocated to the Bureau of Safety and Environmental Enforcement for such costs: Provided further , That any moneys received for such costs currently held in the Ocean Energy Management account shall be transferred to the decommissioning account: Provided further , That any portion of the moneys so credited shall be returned to the bankruptcy estate, permittee, lessee, or right-of-way holder to the extent that the money is in excess of the amount expended in performing the work necessitated by the action or inaction which led to their receipt or, if the bond or security was forfeited for failure to pay the civil penalty, in excess of the civil penalty imposed.
 
+
+## Source Credit
+
+*([Pub. L. 118–42, div. E, title I, § 123](https://www.govinfo.gov/link/plaw/118/public/42), Mar. 9, 2024, [138 Stat. 249](https://www.govinfo.gov/link/statute/138/249).)*

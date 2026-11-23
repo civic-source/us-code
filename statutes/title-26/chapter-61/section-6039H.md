@@ -3,9 +3,10 @@ title: "Section 6039H - Information with respect to Alaska Native Settlement Tru
 usc_title: 26
 usc_section: "6039H"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6039H"
-generated_at: "2026-03-30T02:55:27.832Z"
+generated_at: "2026-11-23T20:26:46.510Z"
+status: "active"
 ---
 
 # § 6039H. Information with respect to Alaska Native Settlement Trusts and Native Corporations
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:27.832Z"
     - **(C)** for each contribution which consists of property other than cash, the date that such property was acquired by the Native Corporation and the adjusted basis and fair market value of such property on the date such property was contributed to the Settlement Trust,
     - **(D)** the date on which each contribution was made to the Settlement Trust, and
     - **(E)** such information as the Secretary determines to be necessary or appropriate for the identification of each contribution and the accurate inclusion of income relating to such contributions by the Settlement Trust.
+
+## Source Credit
+
+*(Added [Pub. L. 107–16, title VI, § 671(b)](https://www.govinfo.gov/link/plaw/107/public/16), June 7, 2001, [115 Stat. 147](https://www.govinfo.gov/link/statute/115/147); amended [Pub. L. 115–97, title I, § 13821(c)(1)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2181](https://www.govinfo.gov/link/statute/131/2181).)*

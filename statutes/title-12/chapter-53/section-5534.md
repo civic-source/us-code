@@ -3,9 +3,10 @@ title: "Section 5534 - Response to consumer complaints and inquiries"
 usc_title: 12
 usc_section: "5534"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5534"
-generated_at: "2026-03-30T02:53:53.545Z"
+generated_at: "2026-11-23T20:25:59.521Z"
+status: "active"
 ---
 
 # § 5534. Response to consumer complaints and inquiries
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:53.545Z"
     - **(C)** any information required to be kept confidential by any other provision of law; or
     - **(D)** any nonpublic or confidential information, including confidential supervisory information.
 - **(d)** The Bureau shall enter into a memorandum of understanding with any affected Federal regulatory agency regarding procedures by which any covered person, and the prudential regulators, and any other agency having jurisdiction over a covered person, including the Secretary of the Department of Housing and Urban Development and the Secretary of Education, shall comply with this section.
+
+## Source Credit
+
+*([Pub. L. 111–203, title X, § 1034](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2008](https://www.govinfo.gov/link/statute/124/2008).)*

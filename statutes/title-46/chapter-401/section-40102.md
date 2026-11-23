@@ -3,9 +3,10 @@ title: "Section 40102 - Definitions"
 usc_title: 46
 usc_section: "40102"
 chapter: 401
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 40102"
-generated_at: "2026-03-30T02:56:15.563Z"
+generated_at: "2026-11-23T20:27:27.223Z"
+status: "active"
 ---
 
 # § 40102. Definitions
@@ -87,3 +88,166 @@ In this part:
   - **(24)** The term “shippers’ association” means a group of shippers that consolidates or distributes freight on a nonprofit basis for the members of the group to obtain carload, truckload, or other volume rates or service contracts.
   - **(25)** The term “through rate” means the single amount charged by a common carrier in connection with through transportation.
   - **(26)** The term “through transportation” means continuous transportation between origin and destination for which a through rate is assessed and which is offered or performed by one or more carriers, at least one of which is a common carrier, between a United States port or point and a foreign port or point.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 40102(1) | 46 App.:1702(1). | Pub. L. 98–237, § 3 , Mar. 20, 1984 , 98 Stat. 67 ; Pub. L. 99–307, § 11 , May 19, 1986 , 100 Stat. 447 ; Pub. L. 105–258, title I, § 102 , Oct. 14, 1998 , 112 Stat. 1902 ; Pub. L. 105–383, title IV, § 424(d) , Nov. 13, 1998 , 112 Stat. 3441 . |
+| 40102(2) | 46 App.:1702(2). |  |
+| 40102(3) | 46 App.:1702(3). |  |
+| 40102(4) | 46 App.:1702(4). |  |
+| 40102(5) | 46 App.:1702(6) (last sentence). |  |
+| 40102(6) | 46 App.:1702(6) (1st sentence). |  |
+| 40102(7) | 46 App.:1702(7). |  |
+| 40102(8) | 46 App.:1702(8). |  |
+| 40102(9) | 46 App.:1702(9). |  |
+| 40102(10) | 46 App.:1702(10). |  |
+| 40102(11) | 46 App.:1702(11). |  |
+| 40102(12) | 46 App.:1702(12). |  |
+| 40102(13) | 46 App.:1702(13). |  |
+| 40102(14) | 46 App.:1702(14). |  |
+| 40102(15) | 46 App.:1702(15). |  |
+| 40102(16) | 46 App.:1702(17)(B). |  |
+| 40102(17) | 46 App.:1702(16). |  |
+| 40102(18) | 46 App.:1702(17)(A). |  |
+| 40102(19) | 46 App.:1702(17) (1st sentence). |  |
+| 40102(20) | 46 App.:1702(19). |  |
+| 40102(21) | 46 App.:1702(20). |  |
+| 40102(22) | 46 App.:1702(21). |  |
+| 40102(23) | 46 App.:1702(22). |  |
+| 40102(24) | 46 App.:1702(23). |  |
+| 40102(25) | 46 App.:1702(24). |  |
+
+
+Agreement
+
+Antitrust laws
+
+Assessment agreement
+
+Bulk cargo
+
+Certain covered services
+
+Chemical parcel-tanker
+
+Common carrier
+
+Conference
+
+Controlled carrier
+
+Deferred rebate
+
+Forest products
+
+Inland division
+
+Inland portion
+
+Loyalty contract
+
+Marine terminal operator
+
+Maritime labor agreement
+
+Non-vessel-operating common carrier
+
+Ocean common carrier
+
+Ocean freight forwarder
+
+Ocean transportation intermediary
+
+Service contract
+
+Shipment
+
+Shipper
+
+Shippers’ association
+
+Through rate
+
+Through transportation
+
+Historical and Revision Notes
+
+40102(1)
+
+Pub. L. 98–237, § 3
+
+Mar. 20, 1984
+
+98 Stat. 67
+
+Pub. L. 99–307, § 11
+
+May 19, 1986
+
+100 Stat. 447
+
+Pub. L. 105–258, title I, § 102
+
+Oct. 14, 1998
+
+112 Stat. 1902
+
+Pub. L. 105–383, title IV, § 424(d)
+
+Nov. 13, 1998
+
+112 Stat. 3441
+
+40102(2)
+
+40102(3)
+
+40102(4)
+
+40102(5)
+
+40102(6)
+
+40102(7)
+
+40102(8)
+
+40102(9)
+
+40102(10)
+
+40102(11)
+
+40102(12)
+
+40102(13)
+
+40102(14)
+
+40102(15)
+
+40102(16)
+
+40102(17)
+
+40102(18)
+
+40102(19)
+
+40102(20)
+
+40102(21)
+
+40102(22)
+
+40102(23)
+
+40102(24)
+
+40102(25)
+
+“Nothing in this Act [probably should be “this title”, enacting section 41105A of this title , amending sections 40102, 40104, 40304, 40307, 40901, 40902, 41104, 41105, 41307, 46103, 46106, and 46108 of this title, and enacting provisions set out as notes under sections 40304, 41104, 41307, and 46105 of this title] may be construed—
+
+## Source Credit
+
+*([Pub. L. 109–304, § 7](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1523](https://www.govinfo.gov/link/statute/120/1523); [Pub. L. 115–282, title VII, § 704](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4294](https://www.govinfo.gov/link/statute/132/4294).)*

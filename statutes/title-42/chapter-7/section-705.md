@@ -3,9 +3,10 @@ title: "Section 705 - Application for block grant funds"
 usc_title: 42
 usc_section: "705"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 705"
-generated_at: "2026-03-30T02:56:10.893Z"
+generated_at: "2026-11-23T20:27:20.937Z"
+status: "active"
 ---
 
 # § 705. Application for block grant funds
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:56:10.893Z"
     - **(A)** on the basis of information provided in the State’s most recent annual report submitted under section 706(a)(1) of this title , that the State has demonstrated an extraordinary unmet need for one of the activities described in subsection (a)(3), and
     - **(B)** that the granting of the waiver is justified and will assist in carrying out the purposes of this subchapter; and
   - **(2)** the State provides assurances to the Secretary that the State will provide for the use of some amounts paid to it under section 703 of this title for the activities described in subparagraphs (A) and (B) of subsection (a)(3) and specifies the percentages to be substituted in each of such subparagraphs.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title V, § 505, as added [Pub. L. 97–35, title XXI, § 2192(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 822](https://www.govinfo.gov/link/statute/95/822); amended [Pub. L. 97–248, title I, § 137(b)(3)](https://www.govinfo.gov/link/plaw/97/public/248), (4), Sept. 3, 1982, [96 Stat. 377](https://www.govinfo.gov/link/statute/96/377); [Pub. L. 101–239, title VI](https://www.govinfo.gov/link/plaw/101/public/239), §§ 6501(b), 6503(b), Dec. 19, 1989, [103 Stat. 2275](https://www.govinfo.gov/link/statute/103/2275), 2276; [Pub. L. 101–508, title IV, § 4755(c)(3)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–210](https://www.govinfo.gov/link/statute/104/1388).)*

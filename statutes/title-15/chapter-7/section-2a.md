@@ -3,9 +3,10 @@ title: "Section 2a - Teacher science and technology enhancement Institute progra
 usc_title: 15
 usc_section: "2a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2a"
-generated_at: "2026-03-30T02:54:08.078Z"
+generated_at: "2026-11-23T20:26:03.679Z"
+status: "active"
 ---
 
 # § 278g–2a. Teacher science and technology enhancement Institute program
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:08.078Z"
 - **(c)** The Director shall develop and issue procedures and selection criteria for participants in the program. The Director shall give special consideration to an application from a teacher from a high-need school, as defined in section 1021 of title 20 .
 - **(d)** The program under this section shall be conducted on an annual basis during the summer months, during the period of time when a majority of elementary, middle, and secondary schools have not commenced a school year.
 - **(e)** The program shall provide for teachers’ participation in activities at the laboratory facilities of the Institute, or shall utilize other means of accomplishing the goals of the program as determined by the Director, which may include the Internet, video conferencing and recording, and workshops and conferences.
+
+## Source Credit
+
+*(Mar. 3, 1901, ch. 872, § 19A, as added [Pub. L. 105–309, § 7](https://www.govinfo.gov/link/plaw/105/public/309), Oct. 30, 1998, [112 Stat. 2937](https://www.govinfo.gov/link/statute/112/2937); amended [Pub. L. 111–358, title IV, § 406(c)](https://www.govinfo.gov/link/plaw/111/public/358), Jan. 4, 2011, [124 Stat. 4004](https://www.govinfo.gov/link/statute/124/4004).)*

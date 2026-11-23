@@ -3,9 +3,10 @@ title: "Section 146 - Volume cap"
 usc_title: 26
 usc_section: "146"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 146"
-generated_at: "2026-03-30T02:55:27.634Z"
+generated_at: "2026-11-23T20:26:45.397Z"
+status: "active"
 ---
 
 # § 146. Volume cap
@@ -113,3 +114,7 @@ generated_at: "2026-03-30T02:55:27.634Z"
 - **(n)** The volume cap of any issuing authority for any calendar year shall be reduced by the sum of—
   - **(1)** the amount of qualified mortgage bonds which such authority elects not to issue under section 25(c)(2)(A)(ii) during such year, plus
   - **(2)** the amount of any reduction in such ceiling under section 25(f) applicable to such authority for such year.
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title XIII, § 1301(b)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2630](https://www.govinfo.gov/link/statute/100/2630); amended [Pub. L. 100–203, title X, § 10631(b)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–455](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–647, title I, § 1013(a)(9)](https://www.govinfo.gov/link/plaw/100/public/647), (10), (28), (40), title VI, § 6180(b)(3), Nov. 10, 1988, [102 Stat. 3538](https://www.govinfo.gov/link/statute/102/3538), 3543, 3544, 3728; [Pub. L. 101–239, title VII, § 7816(s)(2)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2423](https://www.govinfo.gov/link/statute/103/2423); [Pub. L. 102–486, title XIX, § 1921(b)(3)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3028](https://www.govinfo.gov/link/statute/106/3028); [Pub. L. 103–66, title XIII, § 13121(a)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 432](https://www.govinfo.gov/link/statute/107/432); [Pub. L. 105–277, div. J, title II, § 2021(a)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–903](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 106–554, § 1(a)(7) [title I, § 161(a)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–624; [Pub. L. 107–16, title IV, § 422(c)](https://www.govinfo.gov/link/plaw/107/public/16), June 7, 2001, [115 Stat. 66](https://www.govinfo.gov/link/statute/115/66); [Pub. L. 108–357, title VII, § 701(c)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1539](https://www.govinfo.gov/link/statute/118/1539); [Pub. L. 109–59, title XI, § 11143(c)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1965](https://www.govinfo.gov/link/statute/119/1965); [Pub. L. 110–289, div. C, title I](https://www.govinfo.gov/link/plaw/110/public/289), §§ 3007(a), 3021(a), July 30, 2008, [122 Stat. 2886](https://www.govinfo.gov/link/statute/122/2886), 2892; [Pub. L. 115–97, title I, § 11002(d)(1)(O)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2060](https://www.govinfo.gov/link/statute/131/2060); [Pub. L. 117–58, div. H, title IV](https://www.govinfo.gov/link/plaw/117/public/58), §§ 80401(c), 80402(c), Nov. 15, 2021, [135 Stat. 1331](https://www.govinfo.gov/link/statute/135/1331), 1334.)*

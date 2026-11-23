@@ -3,9 +3,10 @@ title: "Section 7272 - Definitions"
 usc_title: 20
 usc_section: "7272"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 7272"
-generated_at: "2026-03-30T02:54:48.209Z"
+generated_at: "2026-11-23T20:26:14.896Z"
+status: "active"
 ---
 
 # § 7272. Definitions
@@ -38,3 +39,7 @@ In this subpart:
     - **(F)** Community-based support for students who have attended the schools in the area served by the pipeline, or students who are members of the community, facilitating their continued connection to the community and success in postsecondary education and the workforce.
     - **(G)** Social, health, nutrition, and mental health services and supports.
     - **(H)** Juvenile crime prevention and rehabilitation programs.
+
+## Source Credit
+
+*([Pub. L. 89–10, title IV, § 4622](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title IV, § 4601](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2023](https://www.govinfo.gov/link/statute/129/2023).)*

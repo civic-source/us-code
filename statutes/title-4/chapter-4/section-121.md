@@ -3,9 +3,10 @@ title: "Section 121 - Correction of erroneous data for place of primary use"
 usc_title: 4
 usc_section: "121"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "4 U.S.C. § 121"
-generated_at: "2026-03-30T02:52:51.498Z"
+generated_at: "2026-11-23T20:25:27.032Z"
+status: "active"
 ---
 
 # § 121. Correction of erroneous data for place of primary use
@@ -17,3 +18,9 @@ generated_at: "2026-03-30T02:52:51.498Z"
   - **(2)** determine that the assignment of a taxing jurisdiction by a home service provider under section 120 does not reflect the correct taxing jurisdiction and give binding notice to the home service provider to change the assignment on a prospective basis from the date of notice of determination if—
     - **(A)** if the taxing jurisdiction making such determination is not a State, such taxing jurisdiction obtains the consent of all affected taxing jurisdictions within the State before giving such notice of determination; and
     - **(B)** the home service provider is given an opportunity to demonstrate in accordance with applicable State or local tax, charge, or fee administrative procedures that the assignment reflects the correct taxing jurisdiction.
+
+In General
+
+## Source Credit
+
+*(Added [Pub. L. 106–252, § 2(a)](https://www.govinfo.gov/link/plaw/106/public/252), July 28, 2000, [114 Stat. 629](https://www.govinfo.gov/link/statute/114/629).)*

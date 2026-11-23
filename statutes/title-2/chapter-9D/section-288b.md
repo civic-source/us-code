@@ -3,9 +3,10 @@ title: "Section 288b - Requirements for authorizing representation activity"
 usc_title: 2
 usc_section: "288b"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 288b"
-generated_at: "2026-03-30T02:53:04.794Z"
+generated_at: "2026-11-23T20:25:28.868Z"
+status: "active"
 ---
 
 # § 288b. Requirements for authorizing representation activity
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:04.794Z"
   - **(1)** the Senate when directed to do so by an affirmative vote of a majority of the Members present of the Senate; or
   - **(2)** a committee or subcommittee of the Senate when directed to do so by an affirmative vote of two-thirds of the members of the full committee.
 - **(e)** The Office shall make no recommendation with respect to the consideration of a resolution under this section.
+
+## Source Credit
+
+*([Pub. L. 95–521, title VII, § 703](https://www.govinfo.gov/link/plaw/95/public/521), Oct. 26, 1978, [92 Stat. 1877](https://www.govinfo.gov/link/statute/92/1877).)*

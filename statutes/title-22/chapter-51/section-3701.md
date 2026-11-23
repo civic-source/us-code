@@ -3,9 +3,10 @@ title: "Section 3701 - Labor-management relations"
 usc_title: 22
 usc_section: "3701"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3701"
-generated_at: "2026-03-30T02:55:05.396Z"
+generated_at: "2026-11-23T20:26:32.471Z"
+status: "active"
 ---
 
 # § 3701. Labor-management relations
@@ -26,3 +27,11 @@ generated_at: "2026-03-30T02:55:05.396Z"
     - **(C)** If the Federal Services Impasses Panel fails to issue a decision within 90 days after the date on which notice under subparagraph (B) is received by the Panel (or within such shorter period as may be mutually agreed upon by the parties), the efforts of the Panel shall be terminated.
     - **(D)** In such a case, the Chairman of the Panel (or another member in the absence of the Chairman) shall immediately determine the matter by a drawing (conducted in such manner as the Chairman (or, in the absence of the Chairman, such other member) determines appropriate) between the last offer of the Commission and the last offer of the exclusive representative, with the offer chosen through such drawing becoming the binding resolution of the matter.
   - **(4)** In the case of a notice of agreement described in paragraph (2)(A) that is transmitted to the Congress as described in the second sentence of that paragraph after July 1, 1998 , the impasse resolution procedures covered by that notice shall apply to any impasse between the Commission and the other party to the agreement that is unresolved on the date on which that notice is transmitted to the Congress.
+
+In General
+
+Special Rule
+
+## Source Credit
+
+*([Pub. L. 96–70, title I, § 1271](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 476](https://www.govinfo.gov/link/statute/93/476); [Pub. L. 103–160, div. C, title XXXV, § 3505](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1966](https://www.govinfo.gov/link/statute/107/1966); [Pub. L. 105–85, div. C, title XXXV, § 3527](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 2068](https://www.govinfo.gov/link/statute/111/2068).)*

@@ -3,9 +3,10 @@ title: "Section 3a - Hiring authority for scientific, technical, and professiona
 usc_title: 21
 usc_section: "3a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 3a"
-generated_at: "2026-03-30T02:54:54.265Z"
+generated_at: "2026-11-23T20:26:27.712Z"
+status: "active"
 ---
 
 # § 379d–3a. Hiring authority for scientific, technical, and professional personnel
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:54.265Z"
       - **(iv)** recruitment using targeted direct hiring authorities; and
       - **(v)** retention of qualified scientific, technical, and professional employees using the authority under this section, or other applicable authorities of the Secretary.
   - **(2)** The report under paragraph (1) may include the recommendations of the Commissioner of Food and Drugs that would help the Food and Drug Administration to better recruit and retain qualified individuals for scientific, technical, or professional positions at the agency.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 714A, as added [Pub. L. 114–255, div. A, title III, § 3072(a)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1134](https://www.govinfo.gov/link/statute/130/1134); amended [Pub. L. 117–328, div. FF, title III, § 3624](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5879](https://www.govinfo.gov/link/statute/136/5879).)*

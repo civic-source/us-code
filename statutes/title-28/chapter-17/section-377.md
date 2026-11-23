@@ -3,9 +3,10 @@ title: "Section 377 - Retirement of bankruptcy judges and magistrate judges"
 usc_title: 28
 usc_section: "377"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 377"
-generated_at: "2026-03-30T02:55:30.129Z"
+generated_at: "2026-11-23T20:26:36.346Z"
+status: "active"
 ---
 
 # § 377. Retirement of bankruptcy judges and magistrate judges
@@ -93,3 +94,77 @@ generated_at: "2026-03-30T02:55:30.129Z"
       - **(i)** the present value of deductions to be withheld under this section from the future basic pay of bankruptcy judges and magistrate judges; plus
       - **(ii)** the balance in the Fund as of the date the unfunded liability is determined.
     - **(C)** There are authorized to be appropriated such sums as may be necessary to carry out this paragraph.
+
+Retirement Based on Years of Service
+
+Retirement Upon Failure of Reappointment
+
+Service of at Least
+
+Years
+
+Retirement for Disability
+
+Cost-of-Living Adjustments
+
+Election; Annuity in Lieu of Other Annuities
+
+Calculation of Service
+
+Covered Positions and Service
+
+Payments Pursuant to Court Order
+
+Deductions, Contributions, and Deposits.—
+
+Deductions
+
+Consent to Deductions; Discharge of Claims
+
+Deposits for Prior Service
+
+Individual Retirement Records
+
+Annuities Affected in Certain Cases.—
+
+Practicing law after retirement.—
+
+Forfeiture of annuity
+
+Forfeiture not to apply where individual elects to freeze amount of annuity
+
+Recall not permitted
+
+Accepting other employment
+
+Lump-Sum Payments.—
+
+Eligibility
+
+Spouses and former spouses
+
+Definition
+
+Judicial Officers’ Retirement Fund.—
+
+Establishment
+
+Investment of fund
+
+Unfunded liability
+
+In General
+
+Exception for Judges and Magistrate Judges Retiring on or after July
+
+Retirement annuity under title 5 and section 377 of title 28
+
+Filing of notice of election
+
+Lump-sum credit under title 5
+
+Recall
+
+## Source Credit
+
+*(Added [Pub. L. 100–659, § 2(a)](https://www.govinfo.gov/link/plaw/100/public/659), Nov. 15, 1988, [102 Stat. 3910](https://www.govinfo.gov/link/statute/102/3910); amended [Pub. L. 101–650, title III](https://www.govinfo.gov/link/plaw/101/public/650), §§ 321, 325(b)(3), Dec. 1, 1990, [104 Stat. 5117](https://www.govinfo.gov/link/statute/104/5117), 5121; [Pub. L. 102–40, title IV, § 402(d)(2)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 239](https://www.govinfo.gov/link/statute/105/239).)*

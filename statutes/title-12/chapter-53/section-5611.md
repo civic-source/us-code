@@ -3,9 +3,10 @@ title: "Section 5611 - Liquidity event determination"
 usc_title: 12
 usc_section: "5611"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5611"
-generated_at: "2026-03-30T02:53:53.549Z"
+generated_at: "2026-11-23T20:25:59.534Z"
+status: "active"
 ---
 
 # § 5611. Liquidity event determination
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:53.549Z"
     - **(A)** the basis for the determination; and
     - **(B)** the likely effect of the actions taken.
 - **(d)** On the earlier of the date of a submission made to Congress under section 5612(c) of this title , or within 30 days of the date of a determination under subsection (a), the Secretary shall provide written notice of the determination of the Corporation and the Board of Governors to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives, including a description of the basis for the determination.
+
+## Source Credit
+
+*([Pub. L. 111–203, title XI, § 1104](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2120](https://www.govinfo.gov/link/statute/124/2120).)*

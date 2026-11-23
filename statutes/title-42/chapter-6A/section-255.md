@@ -3,9 +3,10 @@ title: "Section 255 - Home health services"
 usc_title: 42
 usc_section: "255"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 255"
-generated_at: "2026-03-30T02:56:10.716Z"
+generated_at: "2026-11-23T20:27:20.100Z"
+status: "active"
 ---
 
 # § 255. Home health services
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:56:10.716Z"
   - **(2)** the need to continue grants and loans under subsections (a) and (b) (as such subsections are in effect on the day after January 4, 1983 ); and
   - **(3)** the extent to which standards have been applied to the training of personnel who provide home health services.
 - **(d)** For purposes of this section, the term “home health services” has the meaning prescribed for the term by section 1395x(m) of this title .
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 339, as added [Pub. L. 97–414, § 6(a)](https://www.govinfo.gov/link/plaw/97/public/414), Jan. 4, 1983, [96 Stat. 2057](https://www.govinfo.gov/link/statute/96/2057); amended [Pub. L. 98–555, § 6](https://www.govinfo.gov/link/plaw/98/public/555), Oct. 30, 1984, [98 Stat. 2856](https://www.govinfo.gov/link/statute/98/2856).)*

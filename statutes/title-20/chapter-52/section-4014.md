@@ -3,9 +3,10 @@ title: "Section 4014 - Financial assistance"
 usc_title: 20
 usc_section: "4014"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 4014"
-generated_at: "2026-03-30T02:54:48.182Z"
+generated_at: "2026-11-23T20:26:14.752Z"
+status: "active"
 ---
 
 # § 4014. Financial assistance
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:54:48.182Z"
     - **(C)** the application contains assurances that the local educational agency will furnish such information as is necessary for the Administrator to make the report required by section 4016 of this title .
   - **(3)** No financial assistance may be provided by the Administrator under this section for projects described in subsection (a)(2) on which abatement action was completed prior to January 1, 1984 .
   - **(4)** Except as provided in section 4021(b)(1) of this title , in approving applications the Administrator shall provide assistance to the local educational agencies having the highest priority among applications being considered in order of ranking until the appropriated funds are expended.
+
+## Source Credit
+
+*([Pub. L. 98–377, title V, § 505](https://www.govinfo.gov/link/plaw/98/public/377), Aug. 11, 1984, [98 Stat. 1290](https://www.govinfo.gov/link/statute/98/1290); [Pub. L. 99–519, § 3(a)](https://www.govinfo.gov/link/plaw/99/public/519), Oct. 22, 1986, [100 Stat. 2988](https://www.govinfo.gov/link/statute/100/2988); [Pub. L. 100–368, § 6(b)](https://www.govinfo.gov/link/plaw/100/public/368), July 18, 1988, [102 Stat. 833](https://www.govinfo.gov/link/statute/102/833); [Pub. L. 101–637](https://www.govinfo.gov/link/plaw/101/public/637), §§ 6, 14(a)(5), (b)(7), (c)(1)–(4), Nov. 28, 1990, [104 Stat. 4591](https://www.govinfo.gov/link/statute/104/4591), 4594–4596.)*

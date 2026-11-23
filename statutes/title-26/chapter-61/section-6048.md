@@ -3,9 +3,10 @@ title: "Section 6048 - Information with respect to certain foreign trusts"
 usc_title: 26
 usc_section: "6048"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6048"
-generated_at: "2026-03-30T02:55:27.833Z"
+generated_at: "2026-11-23T20:26:46.526Z"
+status: "active"
 ---
 
 # § 6048. Information with respect to certain foreign trusts
@@ -55,3 +56,13 @@ generated_at: "2026-03-30T02:55:27.833Z"
   - **(3)** Any notice or return required under this section shall be made at such time and in such manner as the Secretary shall prescribe.
   - **(4)** The Secretary is authorized to suspend or modify any requirement of this section if the Secretary determines that the United States has no significant tax interest in obtaining the required information.
   - **(5)** Rules similar to the rules of section 6034A(c) shall apply to items reported by a trust under subsection (b)(1)(B) and to United States persons referred to in such subsection.
+
+Reportable events
+
+Grantor trust reporting
+
+Reporting by united states beneficiaries
+
+## Source Credit
+
+*(Added [Pub. L. 87–834, § 7(f)](https://www.govinfo.gov/link/plaw/87/public/834), Oct. 16, 1962, [76 Stat. 987](https://www.govinfo.gov/link/statute/76/987); amended [Pub. L. 94–455, title X, § 1013(d)(1)](https://www.govinfo.gov/link/plaw/94/public/455), (e)(3), (4), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1616](https://www.govinfo.gov/link/statute/90/1616), 1834; [Pub. L. 97–248, title III, § 341(b)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 635](https://www.govinfo.gov/link/statute/96/635); [Pub. L. 104–188, title I, § 1901(a)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1904](https://www.govinfo.gov/link/statute/110/1904); [Pub. L. 105–34, title X, § 1027(b)](https://www.govinfo.gov/link/plaw/105/public/34), title XVI, § 1601(i)(1), Aug. 5, 1997, [111 Stat. 926](https://www.govinfo.gov/link/statute/111/926), 1092; [Pub. L. 111–147, title V, § 534(a)](https://www.govinfo.gov/link/plaw/111/public/147), Mar. 18, 2010, [124 Stat. 114](https://www.govinfo.gov/link/statute/124/114).)*

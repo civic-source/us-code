@@ -3,12 +3,17 @@ title: "Section 208 - Delegation of function of Committee on the Judiciary to ot
 usc_title: 1
 usc_section: "208"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "1 U.S.C. § 208"
-generated_at: "2026-03-30T02:52:49.392Z"
+generated_at: "2026-11-23T20:25:27.178Z"
+status: "active"
 ---
 
 # § 208. Delegation of function of Committee on the Judiciary to other agencies; printing, and so forth, under direction of Joint Committee on Printing
 
 The functions vested by sections 201, 202, 204–207 of this title in the Committee on the Judiciary of the House of Representatives may from time to time be vested in such other agency as the Congress may by concurrent resolution provide: Provided , That the printing, binding, and distribution of the volumes and publications enumerated in sections 202, 203 of this title shall be done under the direction of the Joint Committee on Printing.
 
+
+## Source Credit
+
+*(July 30, 1947, ch. 388, [61 Stat. 639](https://www.govinfo.gov/link/statute/61/639).)*

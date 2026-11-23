@@ -3,9 +3,10 @@ title: "Section 3602 - Office of Electronic Government"
 usc_title: 44
 usc_section: "3602"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "44 U.S.C. § 3602"
-generated_at: "2026-03-30T02:55:56.299Z"
+generated_at: "2026-11-23T20:27:03.845Z"
+status: "active"
 ---
 
 # § 3602. Office of Electronic Government
@@ -63,3 +64,7 @@ generated_at: "2026-03-30T02:55:56.299Z"
   - **(16)** Administer the Office of Electronic Government established under this section.
   - **(17)** Assist the Director in preparing the E-Government report established under section 3606.
 - **(g)** The Director shall ensure that the Office of Management and Budget, including the Office of Electronic Government, the Office of Information and Regulatory Affairs, and other relevant offices, have adequate staff and resources to properly fulfill all functions under the E-Government Act of 2002.
+
+## Source Credit
+
+*(Added [Pub. L. 107–347, title I, § 101(a)](https://www.govinfo.gov/link/plaw/107/public/347), Dec. 17, 2002, [116 Stat. 2902](https://www.govinfo.gov/link/statute/116/2902).)*

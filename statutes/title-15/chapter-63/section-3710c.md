@@ -3,9 +3,10 @@ title: "Section 3710c - Distribution of royalties received by Federal agencies"
 usc_title: 15
 usc_section: "3710c"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 3710c"
-generated_at: "2026-03-30T02:54:08.192Z"
+generated_at: "2026-11-23T20:26:04.301Z"
+status: "active"
 ---
 
 # § 3710c. Distribution of royalties received by Federal agencies
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:08.192Z"
   - **(1)** by a contractor, grantee, or participant, or an employee of a contractor, grantee, or participant, in an agreement or other arrangement with the agency, or
   - **(2)** by an employee of the agency who was not working in the laboratory at the time the invention was made,
 - **(c)** The Comptroller General shall transmit a report to the appropriate committees of the Senate and House of Representatives on the effectiveness of Federal technology transfer programs, including findings, conclusions, and recommendations for improvements in such programs. The report shall be integrated with, and submitted at the same time as, the report required by section 202(b)(3) 1 1 See References in Text note below. of title 35.
+
+## Source Credit
+
+*([Pub. L. 96–480, § 14](https://www.govinfo.gov/link/plaw/96/public/480), as added, renumbered § 13, and amended [Pub. L. 99–502](https://www.govinfo.gov/link/plaw/99/public/502), §§ 7, 9(e)(1), (3), Oct. 20, 1986, [100 Stat. 1792](https://www.govinfo.gov/link/statute/100/1792), 1797; renumbered § 14 and amended [Pub. L. 100–418, title V](https://www.govinfo.gov/link/plaw/100/public/418), §§ 5122(a)(1), 5162(a), Aug. 23, 1988, [102 Stat. 1438](https://www.govinfo.gov/link/statute/102/1438), 1450; [Pub. L. 100–519, title III, § 303(a)](https://www.govinfo.gov/link/plaw/100/public/519), Oct. 24, 1988, [102 Stat. 2597](https://www.govinfo.gov/link/statute/102/2597); [Pub. L. 101–189, div. C, title XXXI, § 3133(c)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1677](https://www.govinfo.gov/link/statute/103/1677); [Pub. L. 104–113, § 5](https://www.govinfo.gov/link/plaw/104/public/113), Mar. 7, 1996, [110 Stat. 777](https://www.govinfo.gov/link/statute/110/777); [Pub. L. 106–404](https://www.govinfo.gov/link/plaw/106/public/404), §§ 7(7), 10(b), Nov. 1, 2000, [114 Stat. 1746](https://www.govinfo.gov/link/statute/114/1746), 1749.)*

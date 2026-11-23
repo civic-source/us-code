@@ -3,9 +3,10 @@ title: "Section 444 - Election of taxable year other than required taxable year"
 usc_title: 26
 usc_section: "444"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 444"
-generated_at: "2026-03-30T02:55:27.700Z"
+generated_at: "2026-11-23T20:26:45.731Z"
+status: "active"
 ---
 
 # § 444. Election of taxable year other than required taxable year
@@ -36,3 +37,15 @@ generated_at: "2026-03-30T02:55:27.700Z"
 - **(e)** For purposes of this section, the term “required taxable year” means the taxable year determined under section 706(b), 1378, or 441(i) without taking into account any taxable year which is allowable by reason of business purposes. Solely for purposes of the preceding sentence, sections 706(b), 1378, and 441(i) shall be treated as in effect for taxable years beginning before January 1, 1987 .
 - **(f)** For purposes of this section, the term “personal service corporation” has the meaning given to such term by section 441(i)(2).
 - **(g)** The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section, including regulations to prevent the avoidance of subsection (b)(2)(B) or (d)(2)(B) through the change in form of an entity.
+
+In general
+
+Required payments
+
+Elections
+
+Special rule for existing entities electing s corporation status
+
+## Source Credit
+
+*(Added [Pub. L. 100–203, title X, § 10206(a)(1)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–397](https://www.govinfo.gov/link/statute/101/1330); amended [Pub. L. 100–647, title II, § 2004(e)(1)](https://www.govinfo.gov/link/plaw/100/public/647), (2)(A), (12), (13), Nov. 10, 1988, [102 Stat. 3600](https://www.govinfo.gov/link/statute/102/3600), 3602.)*

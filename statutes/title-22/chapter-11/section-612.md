@@ -3,9 +3,10 @@ title: "Section 612 - Registration statement"
 usc_title: 22
 usc_section: "612"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 612"
-generated_at: "2026-03-30T02:55:05.328Z"
+generated_at: "2026-11-23T20:26:32.075Z"
+status: "active"
 ---
 
 # § 612. Registration statement
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:05.328Z"
   - **(1)** from registration, or from the requirement of furnishing any of the information required by this section, of any person who is listed as a partner, officer, director, or employee in the registration statement filed by an agent of a foreign principal under this subchapter, and
   - **(2)** from the requirement of furnishing any of the information required by this section of any agent of a foreign principal.
 - **(g)** A registration statement or supplement required to be filed under this section shall be filed in electronic form, in addition to any other form that may be required by the Attorney General.
+
+## Source Credit
+
+*(June 8, 1938, ch. 327, § 2, [52 Stat. 632](https://www.govinfo.gov/link/statute/52/632); Apr. 29, 1942, ch. 263, § 1, [56 Stat. 251](https://www.govinfo.gov/link/statute/56/251); Aug. 3, 1950, ch. 524, § 1, [64 Stat. 399](https://www.govinfo.gov/link/statute/64/399); [Pub. L. 89–486, § 2](https://www.govinfo.gov/link/plaw/89/public/486), July 4, 1966, [80 Stat. 245](https://www.govinfo.gov/link/statute/80/245); [Pub. L. 110–81, title II, § 212(a)](https://www.govinfo.gov/link/plaw/110/public/81), Sept. 14, 2007, [121 Stat. 749](https://www.govinfo.gov/link/statute/121/749).)*

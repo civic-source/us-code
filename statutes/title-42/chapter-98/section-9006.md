@@ -3,9 +3,10 @@ title: "Section 9006 - Program selection criteria"
 usc_title: 42
 usc_section: "9006"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9006"
-generated_at: "2026-03-30T02:56:11.349Z"
+generated_at: "2026-11-23T20:27:23.070Z"
+status: "active"
 ---
 
 # § 9006. Program selection criteria
@@ -17,3 +18,7 @@ The Secretary shall, in fulfilling his responsibilities under this chapter, sele
   - **(3)** promotion of ocean thermal energy conversion facilities for coastal areas, islands, and isolated military institutions which are vulnerable to interruption in the fossil fuel supply;
   - **(4)** preference for and priority to persons and domestic firms whose base of operations is in the United States as will assure that the program under this chapter promotes the development of a United States domestic technology for ocean thermal energy conversion; and
   - **(5)** preference for proposals for pilot and demonstration projects in which the respondents certify their intent to become an integral part of the industrial infrastructure necessary to meet the goals of this chapter.
+
+## Source Credit
+
+*([Pub. L. 96–310, § 7](https://www.govinfo.gov/link/plaw/96/public/310), July 17, 1980, [94 Stat. 944](https://www.govinfo.gov/link/statute/94/944).)*

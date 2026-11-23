@@ -3,9 +3,10 @@ title: "Section 12507 - Penalties"
 usc_title: 46
 usc_section: "12507"
 chapter: 125
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 12507"
-generated_at: "2026-03-30T02:56:15.559Z"
+generated_at: "2026-11-23T20:27:27.186Z"
+status: "active"
 ---
 
 # § 12507. Penalties
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:15.559Z"
   - **(3)** fails to comply with requirements prescribed by the Secretary under section 12505 of this title .
 - **(c)** A vessel involved in a violation of this chapter, or regulation under this chapter, and its equipment, may be seized by, and forfeited to, the Government.
 - **(d)** If a person, not an individual, is involved in a violation of this chapter, the president or chief executive of the person also is subject to any penalty provided under this section.
+
+## Source Credit
+
+*(Added [Pub. L. 100–710, title I, § 101(a)](https://www.govinfo.gov/link/plaw/100/public/710), Nov. 23, 1988, [102 Stat. 4737](https://www.govinfo.gov/link/statute/102/4737).)*

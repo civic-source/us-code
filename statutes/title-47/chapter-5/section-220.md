@@ -3,9 +3,10 @@ title: "Section 220 - Accounts, records, and memoranda"
 usc_title: 47
 usc_section: "220"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 220"
-generated_at: "2026-03-30T02:56:24.495Z"
+generated_at: "2026-11-23T20:27:28.829Z"
+status: "active"
 ---
 
 # § 220. Accounts, records, and memoranda
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:24.495Z"
 - **(h)** The Commission may classify carriers subject to this chapter and prescribe different requirements under this section for different classes of carriers, and may, if it deems such action consistent with the public interest, except the carriers of any particular class or classes in any State from any of the requirements under this section in cases where such carriers are subject to State commission regulation with respect to matters to which this section relates.
 - **(i)** The Commission, before prescribing any requirements as to accounts, records, or memoranda, shall notify each State commission having jurisdiction with respect to any carrier involved, and shall give reasonable opportunity to each such commission to present its views, and shall receive and consider such views and recommendations.
 - **(j)** The Commission shall investigate and report to Congress as to the need for legislation to define further or harmonize the powers of the Commission and of State commissions with respect to matters to which this section relates.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title II, § 220, [48 Stat. 1078](https://www.govinfo.gov/link/statute/48/1078); [Pub. L. 101–239, title III, § 3002(f)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2131](https://www.govinfo.gov/link/statute/103/2131); [Pub. L. 103–414, title III](https://www.govinfo.gov/link/plaw/103/public/414), §§ 303(a)(7), (8), 304(a)(5), Oct. 25, 1994, [108 Stat. 4294](https://www.govinfo.gov/link/statute/108/4294), 4296; [Pub. L. 104–104, title IV, § 403(d)](https://www.govinfo.gov/link/plaw/104/public/104), (e), Feb. 8, 1996, [110 Stat. 130](https://www.govinfo.gov/link/statute/110/130).)*

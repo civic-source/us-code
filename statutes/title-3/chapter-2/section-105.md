@@ -3,9 +3,10 @@ title: "Section 105 - Assistance and services for the President"
 usc_title: 3
 usc_section: "105"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "3 U.S.C. § 105"
-generated_at: "2026-03-30T02:52:49.877Z"
+generated_at: "2026-11-23T20:25:27.428Z"
+status: "active"
 ---
 
 # § 105. Assistance and services for the President
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:52:49.877Z"
   - **(4)** the official entertainment expenses for allocation within the Executive Office of the President; and
   - **(5)** the subsistence expenses of persons in the Government service while traveling on official business in connection with the travel of the President.
 - **(e)** Assistance and services authorized pursuant to this section to the President are authorized to be provided to the spouse of the President in connection with assistance provided by such spouse to the President in the discharge of the President’s duties and responsibilities. If the President does not have a spouse, such assistance and services may be provided for such purposes to a member of the President’s family whom the President designates.
+
+## Source Credit
+
+*(June 25, 1948, ch. 644, [62 Stat. 678](https://www.govinfo.gov/link/statute/62/678); Oct. 15, 1949, ch. 695, § 2(a), [63 Stat. 880](https://www.govinfo.gov/link/statute/63/880); July 31, 1956, ch. 804, title I, § 109, [70 Stat. 740](https://www.govinfo.gov/link/statute/70/740); [Pub. L. 87–367, title III, § 303(h)](https://www.govinfo.gov/link/plaw/87/public/367), Oct. 4, 1961, [75 Stat. 794](https://www.govinfo.gov/link/statute/75/794); [Pub. L. 88–426, title III, § 304(b)](https://www.govinfo.gov/link/plaw/88/public/426), Aug. 14, 1964, [78 Stat. 422](https://www.govinfo.gov/link/statute/78/422); [Pub. L. 90–222, title I, § 111(c)](https://www.govinfo.gov/link/plaw/90/public/222), Dec. 23, 1967, [81 Stat. 726](https://www.govinfo.gov/link/statute/81/726); [Pub. L. 95–570, § 1(a)](https://www.govinfo.gov/link/plaw/95/public/570), Nov. 2, 1978, [92 Stat. 2445](https://www.govinfo.gov/link/statute/92/2445).)*

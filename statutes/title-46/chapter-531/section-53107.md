@@ -3,9 +3,10 @@ title: "Section 53107 - National security requirements"
 usc_title: 46
 usc_section: "53107"
 chapter: 531
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 53107"
-generated_at: "2026-03-30T02:56:15.572Z"
+generated_at: "2026-11-23T20:27:27.309Z"
+status: "active"
 ---
 
 # § 53107. National security requirements
@@ -34,3 +35,35 @@ generated_at: "2026-03-30T02:56:15.572Z"
 - **(g)**
   - **(1)** All commercial transportation resources activated under an Emergency Preparedness Agreement shall, upon termination of the period of activation, be redelivered to the contractor in the same good order and condition as when received, less ordinary wear and tear, or the Secretary of Defense shall fully compensate the contractor for any necessary repair or replacement.
   - **(2)** Except as may be expressly agreed to in an Emergency Preparedness Agreement, or as otherwise provided by law, the Government shall not be liable for disruption of a contractor’s commercial business or other consequential damages to a contractor arising from activation of commercial transportation resources under an Emergency Preparedness Agreement.
+
+Emergency Preparedness Agreement Required
+
+Terms of Agreement
+
+In general
+
+Basic terms
+
+Defense measures against unauthorized seizures
+
+Participation After Expiration of Operating Agreement
+
+Resources Made Available
+
+Compensation
+
+In general
+
+Specific requirements
+
+Temporary Replacement Vessels
+
+Redelivery and Liability of United States for Damages
+
+In general
+
+Limitation on liability of u.s
+
+## Source Credit
+
+*(Added [Pub. L. 108–136, div. C, title XXXV, § 3531(a)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1814](https://www.govinfo.gov/link/statute/117/1814); amended [Pub. L. 109–304, § 13(a)(6)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1701](https://www.govinfo.gov/link/statute/120/1701); [Pub. L. 111–84, div. C, title XXXV, § 3505](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2720](https://www.govinfo.gov/link/statute/123/2720); [Pub. L. 112–239, div. C, title XXXV, § 3508(g)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2225](https://www.govinfo.gov/link/statute/126/2225).)*

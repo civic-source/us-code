@@ -3,9 +3,10 @@ title: "Section 2346 - Enforcement and regulations"
 usc_title: 18
 usc_section: "2346"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2346"
-generated_at: "2026-03-30T02:54:16.505Z"
+generated_at: "2026-11-23T20:26:08.611Z"
+status: "active"
 ---
 
 # § 2346. Enforcement and regulations
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:16.505Z"
   - **(3)** The remedies under paragraphs (1) and (2) are in addition to any other remedies under Federal, State, local, or other law.
   - **(4)** Nothing in this chapter shall be construed to expand, restrict, or otherwise modify any right of an authorized State official to proceed in State court, or take other enforcement actions, on the basis of an alleged violation of State or other law.
   - **(5)** Nothing in this chapter shall be construed to expand, restrict, or otherwise modify any right of an authorized local government official to proceed in State court, or take other enforcement actions, on the basis of an alleged violation of local or other law.
+
+## Source Credit
+
+*(Added [Pub. L. 95–575, § 1](https://www.govinfo.gov/link/plaw/95/public/575), Nov. 2, 1978, [92 Stat. 2465](https://www.govinfo.gov/link/statute/92/2465); amended [Pub. L. 107–296, title XI, § 1112(i)(2)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2277](https://www.govinfo.gov/link/statute/116/2277); [Pub. L. 109–177, title I, § 121(f)](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 223](https://www.govinfo.gov/link/statute/120/223).)*

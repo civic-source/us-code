@@ -3,9 +3,10 @@ title: "Section 1130a - Education and training programs"
 usc_title: 20
 usc_section: "1130a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1130a"
-generated_at: "2026-03-30T02:54:48.144Z"
+generated_at: "2026-11-23T20:26:14.557Z"
+status: "active"
 ---
 
 # § 1130a. Education and training programs
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:48.144Z"
   - **(12)** summer institutes in international business, foreign area and other international studies designed to carry out the purposes of this section.
 - **(c)** No grant may be made and no contract may be entered into under this section unless an institution of higher education submits an application to the Secretary at such time and in such manner as the Secretary may reasonably require. Each such application shall be accompanied by a copy of the agreement entered into by the institution of higher education with a business enterprise, trade organization or association engaged in international economic activity, or a combination or consortium of such enterprises, organizations or associations, for the purpose of establishing, developing, improving or expanding activities eligible for assistance under subsection (b) of this section. Each such application shall contain assurances that the institution of higher education will use the assistance provided under this section to supplement and not to supplant activities conducted by institutions of higher education described in subsection (b). Each such application shall include an assurance that, where applicable, the activities funded by the grant will reflect diverse perspectives and a wide range of views on world regions and international affairs.
 - **(d)** The Federal share under this part for each fiscal year shall not exceed 50 percent of the cost of such program.
+
+## Source Credit
+
+*([Pub. L. 89–329, title VI, § 613](https://www.govinfo.gov/link/plaw/89/public/329), formerly § 612, as added [Pub. L. 96–374, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/96/public/374), Oct. 3, 1980, [94 Stat. 1468](https://www.govinfo.gov/link/statute/94/1468); amended [Pub. L. 99–498, title VI, § 611](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1519](https://www.govinfo.gov/link/statute/100/1519); renumbered § 613 and amended [Pub. L. 100–418, title VI](https://www.govinfo.gov/link/plaw/100/public/418), §§ 6261(1), 6263, Aug. 23, 1988, [102 Stat. 1520](https://www.govinfo.gov/link/statute/102/1520), 1523; [Pub. L. 102–325, title VI, § 601](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 732](https://www.govinfo.gov/link/statute/106/732); [Pub. L. 110–315, title VI, § 611(b)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3339](https://www.govinfo.gov/link/statute/122/3339).)*

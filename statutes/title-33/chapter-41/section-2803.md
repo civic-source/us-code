@@ -3,9 +3,10 @@ title: "Section 2803 - Comprehensive Coastal Water Quality Monitoring Program"
 usc_title: 33
 usc_section: "2803"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2803"
-generated_at: "2026-03-30T02:55:41.134Z"
+generated_at: "2026-11-23T20:26:54.228Z"
+status: "active"
 ---
 
 # § 2803. Comprehensive Coastal Water Quality Monitoring Program
@@ -75,3 +76,7 @@ generated_at: "2026-03-30T02:55:41.134Z"
   - **(2)** The Administrator and the Under Secretary shall consult with the National Academy of Sciences, the Director of the United States Fish and Wildlife Service, the Director of the Minerals Management Service, the Commandant of the Coast Guard, the Secretary of the Navy, the Secretary of Agriculture, the heads of any other relevant Federal or regional agencies, and the Governors of coastal States in developing the Strategy.
   - **(3)** Not less than 3 months before submitting the Strategy to Congress, the Administrator and the Under Secretary shall jointly publish a draft version of the Strategy in the Federal Register and shall solicit public comments regarding the Strategy.
   - **(4)** Within 1 year after submission of the Strategy under paragraph (1), the Administrator and the Under Secretary shall enter into a Memorandum of Understanding with appropriate Federal agencies necessary to effect the coordination of Federal coastal monitoring programs. The Memorandum of Understanding shall identify the monitoring and reporting responsibilities of each agency and shall encourage the coordination of monitoring activities where possible.
+
+## Source Credit
+
+*([Pub. L. 92–532, title V, § 503](https://www.govinfo.gov/link/plaw/92/public/532), as added [Pub. L. 102–567, title V, § 501](https://www.govinfo.gov/link/plaw/102/public/567), Oct. 29, 1992, [106 Stat. 4294](https://www.govinfo.gov/link/statute/106/4294).)*

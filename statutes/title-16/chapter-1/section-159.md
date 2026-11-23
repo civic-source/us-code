@@ -3,12 +3,17 @@ title: "Section 159 - Establishment; boundaries"
 usc_title: 16
 usc_section: "159"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 159"
-generated_at: "2026-03-30T02:54:22.736Z"
+generated_at: "2026-11-23T20:26:19.374Z"
+status: "active"
 ---
 
 # § 159. Establishment; boundaries
 
 When title to all the lands, structures, and other property in the area at Saratoga, New York, whereon was fought the Battle of Sara­toga during the War of the Revolution, shall have been vested in the United States, such area shall be, and it is, established, dedicated, and set apart as a public park for the benefit and inspiration of the people and shall be known as the Saratoga National Historical Park: Provided , That such area shall include that part of the Saratoga Battlefield now belonging to the State of New York and any additional lands in the immediate vicinity thereof which the Secretary of the Interior may, within six months after the approval of sections 159 to 159b of this title, designate as necessary or desirable for the purposes of sections 159 to 159b of this title.
 
+
+## Source Credit
+
+*(June 1, 1938, ch. 316, § 1, [52 Stat. 608](https://www.govinfo.gov/link/statute/52/608).)*

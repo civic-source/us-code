@@ -3,9 +3,10 @@ title: "Section 2021 - Agency appointments by President"
 usc_title: 22
 usc_section: "2021"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2021"
-generated_at: "2026-03-30T02:55:05.341Z"
+generated_at: "2026-11-23T20:26:32.153Z"
+status: "active"
 ---
 
 # § 2021. Agency appointments by President
@@ -14,3 +15,15 @@ generated_at: "2026-03-30T02:55:05.341Z"
 - **(b)** The President, by and with the advice and consent of the Senate, may appoint or designate from time to time to attend a specified session or specified sessions of the General Conference of the Agency a representative of the United States and such number of alternates as he may determine consistent with the rules of procedure of the General Conference.
 - **(c)** The President may also appoint or designate from time to time such other persons as he may deem necessary to represent the United States in the organs of the Agency. The President may designate any officer of the United States Government, whose appointment is subject to confirmation by the Senate, to act, without additional compensation, for temporary periods as the representative of the United States on the Board of Governors or to the General Conference of the Agency in the absence or disability of the representative and deputy representative appointed under subsection (a) or in lieu of such representatives in connection with a specified subject matter.
 - **(d)** All persons appointed or designated in pursuance of authority contained in this section shall receive compensation at rates determined by the President upon the basis of duties to be performed but not in excess of rates authorized by sections 401, 402, and 403 of the Foreign Service Act of 1980 [ 22 U.S.C. 3961 , 3962, and 3963] for chiefs of mission, members of the Senior Foreign Service, and Foreign Service officers occupying positions of equivalent importance, except that no Member of the Senate or House of Representatives or officer of the United States who is designated under subsection (b) or subsection (c) of this section as a delegate or representative of the United States or as an alternate to attend any specified session or specified sessions of the General Conference shall be entitled to receive such compensation. Any person who receives compensation pursuant to the provisions of this subsection may be granted allowances and benefits not to exceed those received under the Foreign Service Act of 1980 [ 22 U.S.C. 3901 et seq.] by chiefs of mission, members of the Senior Foreign Service, and Foreign Service officers occupying positions of equivalent importance.
+
+Opposition to Certain Programs or Projects
+
+Reporting Requirements.—
+
+Request for iaea reports
+
+Annual reports to the congress
+
+## Source Credit
+
+*([Pub. L. 85–177, § 2](https://www.govinfo.gov/link/plaw/85/public/177), Aug. 28, 1957, [71 Stat. 453](https://www.govinfo.gov/link/statute/71/453); [Pub. L. 96–465, title II, § 2206(a)(7)(A)](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2161](https://www.govinfo.gov/link/statute/94/2161); [Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VII, § 708(b)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–462.)*

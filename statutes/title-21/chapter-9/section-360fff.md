@@ -3,9 +3,10 @@ title: "Section 360fff - Definitions"
 usc_title: 21
 usc_section: "360fff"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 360fff"
-generated_at: "2026-03-30T02:54:54.261Z"
+generated_at: "2026-11-23T20:26:27.695Z"
+status: "active"
 ---
 
 # § 360fff. Definitions
@@ -32,3 +33,9 @@ In this part—
     - **(C)** any other application subject to this part;
   - **(9)** the term “sunscreen” means a drug containing one or more sunscreen active ingredients; and
   - **(10)** the term “sunscreen active ingredient” means an active ingredient that is intended for application to the skin of humans for purposes of absorbing, reflecting, or scattering ultraviolet radiation.
+
+“Nothing in the amendment made by this section [enacting this section and sections 360fff–1 to [former] 360fff–5 of this title] shall be construed to—
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 586, as added [Pub. L. 113–195, § 2(a)](https://www.govinfo.gov/link/plaw/113/public/195), Nov. 26, 2014, [128 Stat. 2035](https://www.govinfo.gov/link/statute/128/2035).)*

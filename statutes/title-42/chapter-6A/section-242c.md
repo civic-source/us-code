@@ -3,9 +3,10 @@ title: "Section 242c - Appointment and authority of the Director of the Centers 
 usc_title: 42
 usc_section: "242c"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 242c"
-generated_at: "2026-03-30T02:56:10.690Z"
+generated_at: "2026-11-23T20:27:19.981Z"
+status: "active"
 ---
 
 # § 242c. Appointment and authority of the Director of the Centers for Disease Control and Prevention
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:56:10.690Z"
   - **(1)** In carrying out activities of the Centers for Disease Control and Prevention, the Director may enter into transactions other than a contract, grant, or cooperative agreement for purposes of infectious disease research, biosurveillance, infectious disease modeling, and public health preparedness and response.
   - **(2)** With respect to a project that is expected to cost the Centers for Disease Control and Prevention more than $40,000,000, the Director may exercise the authority under paragraph (1) only upon a written determination by the Assistant Secretary for Financial Resources of the Department of Health and Human Services, that the use of such authority is essential to promoting the success of the project. The authority of the Assistant Secretary for Financial Resources under this paragraph may not be delegated.
   - **(3)** The Director, in consultation with the Secretary, shall establish guidelines regarding the use of the authority under paragraph (1). Such guidelines shall include auditing requirements.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 305, as added [Pub. L. 117–328, div. FF, title II, § 2101(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5706](https://www.govinfo.gov/link/statute/136/5706).)*

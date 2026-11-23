@@ -3,9 +3,10 @@ title: "Section 6166 - Extension of time for payment of estate tax where estate 
 usc_title: 26
 usc_section: "6166"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6166"
-generated_at: "2026-03-30T02:55:27.843Z"
+generated_at: "2026-11-23T20:26:46.584Z"
+status: "active"
 ---
 
 # § 6166. Extension of time for payment of estate tax where estate consists largely of interest in closely held business
@@ -136,3 +137,19 @@ generated_at: "2026-03-30T02:55:27.843Z"
   - **(3)** For extension of the period of limitation in the case of an extension under this section, see section 6503(d).
   - **(4)** For provisions relating to interest on tax payable in installments under this section, see subsection (j) of section 6601.
   - **(5)** For special rule for qualifying an estate under this section where property has been transferred within 3 years of decedent’s death, see section 2035(c)(2).
+
+In general
+
+Special rule.—
+
+In general
+
+Effect of election
+
+In general
+
+Acceleration by reason of subsequent death
+
+## Source Credit
+
+*(Added [Pub. L. 94–455, title XX, § 2004(a)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1862](https://www.govinfo.gov/link/statute/90/1862); amended [Pub. L. 95–600, title V, § 512(a)](https://www.govinfo.gov/link/plaw/95/public/600), (b), Nov. 6, 1978, [92 Stat. 2882](https://www.govinfo.gov/link/statute/92/2882), 2883; [Pub. L. 97–34, title IV, § 422(a)](https://www.govinfo.gov/link/plaw/97/public/34), (c), (e)(5)(A), (B), Aug. 13, 1981, [95 Stat. 314–316](https://www.govinfo.gov/link/statute/95/314); [Pub. L. 97–448, title I, § 104(c)](https://www.govinfo.gov/link/plaw/97/public/448), (d)(1)(B), Jan. 12, 1983, [96 Stat. 2382](https://www.govinfo.gov/link/statute/96/2382), 2383; [Pub. L. 98–369, div. A, title V, § 544(b)(4)](https://www.govinfo.gov/link/plaw/98/public/369), title X, § 1021(a)–(d), July 18, 1984, [98 Stat. 894](https://www.govinfo.gov/link/statute/98/894), 1024–1026; [Pub. L. 99–514, title XIV, § 1432(e)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2730](https://www.govinfo.gov/link/statute/100/2730); [Pub. L. 104–188, title I, § 1704(t)(15)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1888](https://www.govinfo.gov/link/statute/110/1888); [Pub. L. 105–34, title V, § 503(c)(1)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 853](https://www.govinfo.gov/link/statute/111/853); [Pub. L. 105–206, title VI, § 6007(c)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 809](https://www.govinfo.gov/link/statute/112/809); [Pub. L. 106–554, § 1(a)(7) [title III, § 319(18)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–647; [Pub. L. 107–16, title V](https://www.govinfo.gov/link/plaw/107/public/16), §§ 571(a), 572(a), 573(a), June 7, 2001, [115 Stat. 92](https://www.govinfo.gov/link/statute/115/92), 93.)*

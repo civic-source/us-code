@@ -3,9 +3,10 @@ title: "Section 10711 - Audits"
 usc_title: 42
 usc_section: "10711"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10711"
-generated_at: "2026-03-30T02:56:11.391Z"
+generated_at: "2026-11-23T20:27:23.257Z"
+status: "active"
 ---
 
 # § 10711. Audits
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.391Z"
 - **(c)**
   - **(1)** The Institute shall conduct, or require each recipient to provide for, an annual fiscal audit. The report of each such audit shall be maintained for a period of at least five years at the principal office of the Institute.
   - **(2)** The Institute shall submit to the Comptroller General of the United States copies of such reports, and the Comptroller General may, in addition, inspect the books, accounts, financial records, files, and other papers or property belonging to or in use by such grantee, contractor, person, or entity, which relate to the disposition or use of funds received from the Institute. Such audit reports shall be available for public inspection during regular business hours, at the principal office of the Institute.
+
+## Source Credit
+
+*([Pub. L. 98–620, title II, § 212](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3345](https://www.govinfo.gov/link/statute/98/3345); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814).)*

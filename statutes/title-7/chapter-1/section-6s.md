@@ -3,9 +3,10 @@ title: "Section 6s - Registration and regulation of swap dealers and major swap 
 usc_title: 7
 usc_section: "6s"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6s"
-generated_at: "2026-03-30T02:53:42.241Z"
+generated_at: "2026-11-23T20:25:40.866Z"
+status: "active"
 ---
 
 # § 6s. Registration and regulation of swap dealers and major swap participants
@@ -187,3 +188,9 @@ generated_at: "2026-03-30T02:53:42.241Z"
     - **(A)** carried by an independent third-party custodian; and
     - **(B)** designated as a segregated account for and on behalf of the counterparty.
   - **(4)** If the counterparty does not choose to require segregation of the funds or other property supplied to margin, guarantee, or secure the obligations of the counterparty, the swap dealer or major swap participant shall report to the counterparty of the swap dealer or major swap participant on a quarterly basis that the back office procedures of the swap dealer or major swap participant relating to margin and collateral requirements are in compliance with the agreement of the counterparties.
+
+“The amendments made by this title to the Commodity Exchange Act [amending this section] shall be implemented—
+
+## Source Credit
+
+*(Sept. 21, 1922, ch. 369, § 4s, as added and amended [Pub. L. 111–203, title VII](https://www.govinfo.gov/link/plaw/111/public/203), §§ 724(c), 731, July 21, 2010, [124 Stat. 1684](https://www.govinfo.gov/link/statute/124/1684), 1703; [Pub. L. 114–1, title III, § 302(a)](https://www.govinfo.gov/link/plaw/114/public/1), Jan. 12, 2015, [129 Stat. 28](https://www.govinfo.gov/link/statute/129/28).)*

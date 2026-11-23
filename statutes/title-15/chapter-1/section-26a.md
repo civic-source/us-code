@@ -3,9 +3,10 @@ title: "Section 26a - Restrictions on the purchase of gasohol and synthetic moto
 usc_title: 15
 usc_section: "26a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 26a"
-generated_at: "2026-03-30T02:54:08.022Z"
+generated_at: "2026-11-23T20:26:03.371Z"
+status: "active"
 ---
 
 # § 26a. Restrictions on the purchase of gasohol and synthetic motor fuel
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:08.022Z"
     - **(C)** require such person to provide advertising support for the gasohol or other synthetic motor fuel; or
     - **(D)** require such person to furnish or provide, at such person’s own expense, any additional pumps, tanks, or other related facilities required for the sale of the gasohol or other synthetic motor fuel.
 - **(c)** As used in this section, “United States” includes the several States, the District of Columbia, any territory of the United States, and any insular possession or other place under the jurisdiction of the United States.
+
+## Source Credit
+
+*(Oct. 15, 1914, ch. 323, § 26, as added [Pub. L. 96–493, § 2](https://www.govinfo.gov/link/plaw/96/public/493), Dec. 2, 1980, [94 Stat. 2568](https://www.govinfo.gov/link/statute/94/2568).)*

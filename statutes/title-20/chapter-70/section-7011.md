@@ -3,9 +3,10 @@ title: "Section 7011 - Definitions"
 usc_title: 20
 usc_section: "7011"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 7011"
-generated_at: "2026-03-30T02:54:48.204Z"
+generated_at: "2026-11-23T20:26:14.869Z"
+status: "active"
 ---
 
 # § 7011. Definitions
@@ -43,3 +44,19 @@ Except as otherwise provided, in this subchapter:
     - **(B)** any nonprofit institution or organization that is—
       - **(i)** chartered by the governing body of an Indian tribe to operate a school described in section 6822(a) of this title or otherwise to oversee the delivery of educational services to members of the tribe; and
       - **(ii)** approved by the Secretary for the purpose of carrying out programs under subpart 1 of part A for individuals served by a school described in section 6822(a) of this title .
+
+Research and Development
+
+Authorized Activities
+
+Consultation and Delegation of Authority
+
+Publication of Proposals
+
+Limitation of Authority
+
+“The Secretary [of Education] shall collect data for program management and accountability purposes regarding—
+
+## Source Credit
+
+*([Pub. L. 89–10, title III, § 3201](https://www.govinfo.gov/link/plaw/89/public/10), formerly § 3301, as added [Pub. L. 107–110, title III, § 301](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1729](https://www.govinfo.gov/link/statute/115/1729); amended [Pub. L. 110–315, title IX, § 941(k)(2)(F)(i)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3466](https://www.govinfo.gov/link/statute/122/3466); renumbered § 3201 and amended [Pub. L. 114–95, title III](https://www.govinfo.gov/link/plaw/114/public/95), §§ 3001(5)(A), 3004(a), Dec. 10, 2015, [129 Stat. 1953](https://www.govinfo.gov/link/statute/129/1953), 1965.)*

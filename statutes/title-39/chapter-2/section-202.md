@@ -3,9 +3,10 @@ title: "Section 202 - Board of Governors"
 usc_title: 39
 usc_section: "202"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "39 U.S.C. § 202"
-generated_at: "2026-03-30T02:55:43.686Z"
+generated_at: "2026-11-23T20:26:57.704Z"
+status: "active"
 ---
 
 # § 202. Board of Governors
@@ -25,3 +26,13 @@ generated_at: "2026-03-30T02:55:43.686Z"
     - **(B)** without regard to political affiliation; and
     - **(C)** solely on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations.
   - **(3)** The Inspector General may at any time be removed upon the written concurrence of at least 7 Governors and 3 members of the Postal Regulatory Commission, but only for cause. Nothing in this subsection shall be considered to exempt the Governors from the requirements of section 415(e) of title 5 .
+
+Continuation by incumbents
+
+Vacancy by incumbent before 7 years of service
+
+Vacancy by incumbent after 7 years of service
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 720](https://www.govinfo.gov/link/statute/84/720); [Pub. L. 98–81, § 2](https://www.govinfo.gov/link/plaw/98/public/81), Aug. 23, 1983, [97 Stat. 487](https://www.govinfo.gov/link/statute/97/487); [Pub. L. 99–190, § 144](https://www.govinfo.gov/link/plaw/99/public/190), Dec. 19, 1985, [99 Stat. 1324](https://www.govinfo.gov/link/statute/99/1324); [Pub. L. 104–208, div. A, title I, § 101(f) [title VI, §§ 644(a), 662(a)(1)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–314](https://www.govinfo.gov/link/statute/110/3009), 3009–366, 3009–378; [Pub. L. 109–435, title V, § 501(a)(1)](https://www.govinfo.gov/link/plaw/109/public/435), (b), (c)(1), (d)(1), Dec. 20, 2006, [120 Stat. 3232](https://www.govinfo.gov/link/statute/120/3232), 3233; [Pub. L. 117–108, title II, § 209(b)](https://www.govinfo.gov/link/plaw/117/public/108), Apr. 6, 2022, [136 Stat. 1152](https://www.govinfo.gov/link/statute/136/1152); [Pub. L. 117–286, § 4(b)(62)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4350](https://www.govinfo.gov/link/statute/136/4350).)*

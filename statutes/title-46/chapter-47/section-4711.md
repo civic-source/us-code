@@ -3,9 +3,10 @@ title: "Section 4711 - Abandonment of vessels prohibited"
 usc_title: 46
 usc_section: "4711"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 4711"
-generated_at: "2026-03-30T02:56:15.548Z"
+generated_at: "2026-11-23T20:27:27.100Z"
+status: "active"
 ---
 
 # § 4711. Abandonment of vessels prohibited
@@ -34,3 +35,29 @@ generated_at: "2026-03-30T02:56:15.548Z"
     - **(B)** indicates that the vessel is not abandoned; and
     - **(C)** contains documentation proving that the vessel is allowed to be in such location; or
   - **(4)** the Commandant determines that such an abandonment determination would not be in the public interest.
+
+In General
+
+Determination of Abandonment.—
+
+Notification.—
+
+In general
+
+Form
+
+Determination
+
+Penalty.—
+
+In general
+
+Liability in rem
+
+Limitation
+
+Vessels Not Abandoned
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. G, title LXXIII, § 7347(a)(3)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1779](https://www.govinfo.gov/link/statute/139/1779).)*

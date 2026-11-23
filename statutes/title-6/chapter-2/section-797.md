@@ -3,12 +3,17 @@ title: "Section 797 - Fraud prevention training program"
 usc_title: 6
 usc_section: "797"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 797"
-generated_at: "2026-03-30T02:53:09.500Z"
+generated_at: "2026-11-23T20:25:34.881Z"
+status: "active"
 ---
 
 # § 797. Fraud prevention training program
 
 The Administrator shall develop and implement a program to provide training on the prevention of waste, fraud, and abuse of Federal disaster relief assistance relating to the response to or recovery from natural disasters and acts of terrorism or other man-made disasters and ways to identify such potential waste, fraud, and abuse.
 
+
+## Source Credit
+
+*([Pub. L. 109–295, title VI, § 698](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1462](https://www.govinfo.gov/link/statute/120/1462).)*

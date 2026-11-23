@@ -3,9 +3,10 @@ title: "Section 1301 - Experimental practices"
 usc_title: 30
 usc_section: "1301"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1301"
-generated_at: "2026-03-30T02:55:29.403Z"
+generated_at: "2026-11-23T20:26:35.034Z"
+status: "active"
 ---
 
 # § 1301. Experimental practices
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:29.403Z"
       - **(ii)** the mining operations approved for particular land-use or other purposes are not larger or more numerous than necessary to determine the effectiveness and economic feasibility of the experimental practices; and
       - **(iii)** the experimental practices do not reduce the protection afforded public health and safety below that provided by promulgated standards.
 
+
+## Source Credit
+
+*([Pub. L. 95–87, title VII, § 711](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 523](https://www.govinfo.gov/link/statute/91/523).)*

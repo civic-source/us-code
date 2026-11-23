@@ -3,9 +3,10 @@ title: "Section 190104 - Governing body"
 usc_title: 36
 usc_section: "190104"
 chapter: 1901
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 190104"
-generated_at: "2026-03-30T02:55:44.707Z"
+generated_at: "2026-11-23T20:26:59.054Z"
+status: "active"
 ---
 
 # § 190104. Governing body
@@ -21,3 +22,46 @@ generated_at: "2026-03-30T02:55:44.707Z"
 - **(d)**
   - **(1)** Except for the positions of president, president elect, and last past president, a vacancy on the national executive committee shall be filled by the existing members of the committee. An individual appointed by the committee to fill a vacancy serves until the next national convention when the individual’s successor shall be elected for the unexpired term, if any, caused by the vacancy.
   - **(2)** If the president is absent or the office of president is vacant, the national vice president of the same service as the president shall act as president.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 190104(a) | 36:227(b) (1st sentence 12th–14th words), (c). | June 30, 1950, ch. 431 , §§ 6, 7(a)–(d), 64 Stat. 313 . |
+| 190104(b) | 36:227(a), (d). |  |
+| 190104(c)(1) | 36:226. |  |
+| 190104(c)(2) | 36:227(b) (1st sentence 1st–14th words, 32d–last words). |  |
+| 190104(c)(3) | 36:227(b) (1st sentence 15th–31st words). |  |
+| 190104(d)(1) | 36:227(b) (2d, 3d sentences). |  |
+| 190104(d)(2) | 36:227(b) (last sentence). |  |
+
+
+National Convention
+
+National Executive Committee
+
+Officers
+
+Vacancies
+
+Historical and Revision Notes
+
+190104(a)
+
+June 30, 1950, ch. 431
+
+64 Stat. 313
+
+190104(b)
+
+190104(c)(1)
+
+190104(c)(2)
+
+190104(c)(3)
+
+190104(d)(1)
+
+190104(d)(2)
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1447](https://www.govinfo.gov/link/statute/112/1447); [Pub. L. 111–113, § 2(a)](https://www.govinfo.gov/link/plaw/111/public/113) –(c), Dec. 14, 2009, [123 Stat. 3026](https://www.govinfo.gov/link/statute/123/3026).)*

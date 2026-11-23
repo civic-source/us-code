@@ -3,9 +3,10 @@ title: "Section 48 - Animal crushing"
 usc_title: 18
 usc_section: "48"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 48"
-generated_at: "2026-03-30T02:54:16.457Z"
+generated_at: "2026-11-23T20:26:08.330Z"
+status: "active"
 ---
 
 # § 48. Animal crushing
@@ -42,3 +43,35 @@ generated_at: "2026-03-30T02:54:16.457Z"
   - **(3)** the term “euthanizing an animal” means the humane destruction of an animal accomplished by a method that—
     - **(A)** produces rapid unconsciousness and subsequent death without evidence of pain or distress; or
     - **(B)** uses anesthesia produced by an agent that causes painless loss of consciousness and subsequent death.
+
+Offenses.—
+
+Crushing
+
+Creation of animal crush videos
+
+Distribution of animal crush videos
+
+Extraterritorial Application
+
+Penalties
+
+Exceptions.—
+
+In general
+
+Good-faith distribution
+
+Unintentional conduct
+
+Consistency with rfra
+
+No Preemption
+
+Definitions
+
+“The Congress finds the following:
+
+## Source Credit
+
+*(Added [Pub. L. 106–152, § 1(a)](https://www.govinfo.gov/link/plaw/106/public/152), Dec. 9, 1999, [113 Stat. 1732](https://www.govinfo.gov/link/statute/113/1732); amended [Pub. L. 111–294, § 3(a)](https://www.govinfo.gov/link/plaw/111/public/294), Dec. 9, 2010, [124 Stat. 3178](https://www.govinfo.gov/link/statute/124/3178); [Pub. L. 116–72, § 2(a)](https://www.govinfo.gov/link/plaw/116/public/72), Nov. 25, 2019, [133 Stat. 1151](https://www.govinfo.gov/link/statute/133/1151).)*

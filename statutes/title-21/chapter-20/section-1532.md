@@ -3,9 +3,10 @@ title: "Section 1532 - Program authorization"
 usc_title: 21
 usc_section: "1532"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 1532"
-generated_at: "2026-03-30T02:54:54.302Z"
+generated_at: "2026-11-23T20:26:27.879Z"
+status: "active"
 ---
 
 # § 1532. Program authorization
@@ -93,3 +94,11 @@ generated_at: "2026-03-30T02:54:54.302Z"
   - **(4)** A grantee shall not be suspended or terminated under paragraph (1)(A)(ii), (2)(A)(iii), or (3)(E) unless that grantee is afforded a fair, timely, and independent appeal prior to such suspension or termination.
 - **(c)** Funds appropriated for the substance use and misuse activities of a coalition that includes a representative of the Bureau of Indian Affairs, the Indian Health Service, or a tribal government agency with expertise in the field of substance use and misuse may be counted as non-Federal funds raised by the coalition for purposes of this section.
 - **(d)** In awarding grants under subsection (b)(1)(A)(i), priority shall be given to a coalition serving economically disadvantaged areas.
+
+In General
+
+Limitation
+
+## Source Credit
+
+*([Pub. L. 100–690, title I, § 1032](https://www.govinfo.gov/link/plaw/100/public/690), as added [Pub. L. 105–20, § 2(a)(2)](https://www.govinfo.gov/link/plaw/105/public/20), June 27, 1997, [111 Stat. 227](https://www.govinfo.gov/link/statute/111/227); amended [Pub. L. 107–82, § 1(d)](https://www.govinfo.gov/link/plaw/107/public/82), (g), (h), Dec. 14, 2001, [115 Stat. 818](https://www.govinfo.gov/link/statute/115/818), 819; [Pub. L. 109–469, title VIII](https://www.govinfo.gov/link/plaw/109/public/469), §§ 802(a), 803, 804, Dec. 29, 2006, [120 Stat. 3535](https://www.govinfo.gov/link/statute/120/3535); [Pub. L. 115–271, title VIII, § 8203(a)(3)(A)](https://www.govinfo.gov/link/plaw/115/public/271), (b)(4), formerly § 8203(a)(4)(A), (b)(4), Oct. 24, 2018, [132 Stat. 4111](https://www.govinfo.gov/link/statute/132/4111), renumbered [Pub. L. 116–74, § 2(c)(1)(A)(i)(IV)](https://www.govinfo.gov/link/plaw/116/public/74), Nov. 27, 2019, [133 Stat. 1157](https://www.govinfo.gov/link/statute/133/1157); [Pub. L. 116–74, § 2(c)(1)(A)(i)(V)](https://www.govinfo.gov/link/plaw/116/public/74), (ii)(II), (iii), (3), Nov. 27, 2019, [133 Stat. 1157](https://www.govinfo.gov/link/statute/133/1157), 1158.)*

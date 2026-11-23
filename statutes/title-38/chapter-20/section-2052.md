@@ -3,9 +3,10 @@ title: "Section 2052 - Requirements"
 usc_title: 38
 usc_section: "2052"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 2052"
-generated_at: "2026-03-30T02:55:53.494Z"
+generated_at: "2026-11-23T20:27:01.773Z"
+status: "active"
 ---
 
 # § 2052. Requirements
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:55:53.494Z"
 - **(d)** In determining whether to guarantee a loan under this subchapter, the Secretary shall consider—
   - **(1)** the availability of Department of Veterans Affairs medical services to residents of the multifamily transitional housing project; and
   - **(2)** the extent to which needs of homeless veterans are met in a community, as assessed under section 107 of Public Law 102–405 .
+
+## Source Credit
+
+*(Added [Pub. L. 105–368, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/105/public/368), Nov. 11, 1998, [112 Stat. 3343](https://www.govinfo.gov/link/statute/112/3343), § 3773; renumbered § 2052 and amended [Pub. L. 107–95, § 5(d)(1)](https://www.govinfo.gov/link/plaw/107/public/95), (2)(C), Dec. 21, 2001, [115 Stat. 918](https://www.govinfo.gov/link/statute/115/918); [Pub. L. 108–454, title IV, § 402(b)](https://www.govinfo.gov/link/plaw/108/public/454), Dec. 10, 2004, [118 Stat. 3616](https://www.govinfo.gov/link/statute/118/3616).)*

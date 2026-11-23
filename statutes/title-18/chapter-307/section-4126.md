@@ -3,9 +3,10 @@ title: "Section 4126 - Prison Industries Fund; use and settlement of accounts"
 usc_title: 18
 usc_section: "4126"
 chapter: 307
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 4126"
-generated_at: "2026-03-30T02:54:16.528Z"
+generated_at: "2026-11-23T20:26:08.787Z"
+status: "active"
 ---
 
 # § 4126. Prison Industries Fund; use and settlement of accounts
@@ -20,3 +21,11 @@ generated_at: "2026-03-30T02:54:16.528Z"
 - **(d)** Accounts of all receipts and disbursements of the corporation shall be rendered to the Government Accountability Office for settlement and adjustment, as required by the Comptroller General.
 - **(e)** Such accounting shall include all fiscal transactions of the corporation, whether involving appropriated moneys, capital, or receipts from other sources.
 - **(f)** Funds available to the corporation may be used for the lease, purchase, other acquisition, repair, alteration, erection, or maintenance of facilities only to the extent such facilities are necessary for the industrial operations of the corporation under this chapter. Such funds may not be used for the construction or acquisition of penal or correctional institutions, including camps described in section 4125.
+
+Act
+
+Act
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 852](https://www.govinfo.gov/link/statute/62/852); May 24, 1949, ch. 139, § 64, [63 Stat. 99](https://www.govinfo.gov/link/statute/63/99); [Pub. L. 87–317](https://www.govinfo.gov/link/plaw/87/public/317), Sept. 26, 1961, [75 Stat. 681](https://www.govinfo.gov/link/statute/75/681); [Pub. L. 100–690, title VII, § 7094](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4412](https://www.govinfo.gov/link/statute/102/4412); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 115–391, title VI, § 605(c)](https://www.govinfo.gov/link/plaw/115/public/391), Dec. 21, 2018, [132 Stat. 5242](https://www.govinfo.gov/link/statute/132/5242).)*

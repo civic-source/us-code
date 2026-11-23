@@ -3,9 +3,10 @@ title: "Section 1681u - Disclosures to FBI for counterintelligence purposes"
 usc_title: 15
 usc_section: "1681u"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1681u"
-generated_at: "2026-03-30T02:54:08.153Z"
+generated_at: "2026-11-23T20:26:04.100Z"
+status: "active"
 ---
 
 # § 1681u. Disclosures to FBI for counterintelligence purposes
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:54:08.153Z"
 - **(l)** Notwithstanding any other provision of this subchapter, any consumer reporting agency or agent or employee thereof making disclosure of consumer reports or identifying information pursuant to this subsection in good-faith reliance upon a certification of the Federal Bureau of Investigation pursuant to provisions of this section shall not be liable to any person for such disclosure under this subchapter, the constitution of any State, or any law or regulation of any State or any political subdivision of any State.
 - **(m)** Notwithstanding any other provision of this subchapter, the remedies and sanctions set forth in this section shall be the only judicial remedies and sanctions for violation of this section.
 - **(n)** In addition to any other remedy contained in this section, injunctive relief shall be available to require compliance with the procedures of this section. In the event of any successful action under this subsection, costs together with reasonable attorney fees, as determined by the court, may be recovered.
+
+## Source Credit
+
+*([Pub. L. 90–321, title VI, § 626](https://www.govinfo.gov/link/plaw/90/public/321), formerly § 624, as added [Pub. L. 104–93, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/104/public/93), Jan. 6, 1996, [109 Stat. 974](https://www.govinfo.gov/link/statute/109/974); renumbered § 625 and amended [Pub. L. 107–56, title III, § 358(g)(1)(A)](https://www.govinfo.gov/link/plaw/107/public/56), title V, § 505(c), Oct. 26, 2001, [115 Stat. 327](https://www.govinfo.gov/link/statute/115/327), 366; [Pub. L. 107–306, title VIII, § 811(b)(8)(B)](https://www.govinfo.gov/link/plaw/107/public/306), Nov. 27, 2002, [116 Stat. 2426](https://www.govinfo.gov/link/statute/116/2426); renumbered § 626, [Pub. L. 108–159, title II, § 214(a)(1)](https://www.govinfo.gov/link/plaw/108/public/159), Dec. 4, 2003, [117 Stat. 1980](https://www.govinfo.gov/link/statute/117/1980); [Pub. L. 109–177, title I, § 116(b)](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 214](https://www.govinfo.gov/link/statute/120/214); [Pub. L. 109–178, § 4(c)(1)](https://www.govinfo.gov/link/plaw/109/public/178), Mar. 9, 2006, [120 Stat. 280](https://www.govinfo.gov/link/statute/120/280); [Pub. L. 114–23, title V](https://www.govinfo.gov/link/plaw/114/public/23), §§ 501(c), 502(c), 503(c), June 2, 2015, [129 Stat. 282](https://www.govinfo.gov/link/statute/129/282), 285, 290.)*

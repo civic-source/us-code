@@ -3,9 +3,10 @@ title: "Section 2669 - Study of radon in Federal buildings"
 usc_title: 15
 usc_section: "2669"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2669"
-generated_at: "2026-03-30T02:54:08.180Z"
+generated_at: "2026-11-23T20:26:04.243Z"
+status: "active"
 ---
 
 # § 2669. Study of radon in Federal buildings
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:08.180Z"
   - **(2)** In addition to the assistance required by paragraph (1), the Administrator is authorized to make available, on a cost reimbursable basis, to the departments or agencies conducting studies under subsection (a) devices suitable for use by such departments or agencies in conducting tests for radon within Federal buildings. For the purpose of assisting such departments or agencies in evaluating any such devices for the presence of radon levels, the Administrator is authorized to recommend laboratories or to make available to such departments or agencies, on a cost reimbursable basis, the use of laboratories of the Environmental Protection Agency.
 - **(e)** Not later than June 1, 1990 , the head of each Federal department or agency conducting a study under subsection (a) shall complete the study and provide the study to the Administrator.
 - **(f)** Not later than October 1, 1990 , the Administrator shall submit a report to the Congress describing the results of the studies conducted pursuant to subsection (a).
+
+## Source Credit
+
+*([Pub. L. 94–469, title III, § 309](https://www.govinfo.gov/link/plaw/94/public/469), as added [Pub. L. 100–551, § 1(a)](https://www.govinfo.gov/link/plaw/100/public/551), Oct. 28, 1988, [102 Stat. 2763](https://www.govinfo.gov/link/statute/102/2763).)*

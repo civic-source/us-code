@@ -3,9 +3,10 @@ title: "Section 4221 - Definitions"
 usc_title: 25
 usc_section: "4221"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 4221"
-generated_at: "2026-03-30T02:54:52.860Z"
+generated_at: "2026-11-23T20:26:25.692Z"
+status: "active"
 ---
 
 # § 4221. Definitions
@@ -36,3 +37,9 @@ In this subchapter:
       - **(i)** genealogical records;
       - **(ii)** verification by kupuna (elders) or kamaʻaina (long-term community residents); or
       - **(iii)** birth records of the State of Hawaii.
+
+“The Congress finds that—
+
+## Source Credit
+
+*([Pub. L. 104–330, title VIII, § 801](https://www.govinfo.gov/link/plaw/104/public/330), as added [Pub. L. 106–568, title II, § 203](https://www.govinfo.gov/link/plaw/106/public/568), Dec. 27, 2000, [114 Stat. 2876](https://www.govinfo.gov/link/statute/114/2876), and [Pub. L. 106–569, title V, § 513](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 2969](https://www.govinfo.gov/link/statute/114/2969).)*

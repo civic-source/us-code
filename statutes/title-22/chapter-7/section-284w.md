@@ -3,9 +3,10 @@ title: "Section 284w - Multilateral debt relief"
 usc_title: 22
 usc_section: "284w"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 284w"
-generated_at: "2026-03-30T02:55:05.317Z"
+generated_at: "2026-11-23T20:26:31.994Z"
+status: "active"
 ---
 
 # § 284w. Multilateral debt relief
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:05.317Z"
 - **(a)** The Secretary of the Treasury is authorized to contribute, on behalf of the United States, not more than $356,000,000 to the International Development Association for the purpose of funding debt relief under the Multilateral Debt Relief Initiative in the period governed by the fifteenth replenishment of resources of the International Development Association, subject to obtaining the necessary appropriations and without prejudice to any funding arrangements in existence on June 24, 2009 .
 - **(b)** In order to pay for the United States contribution provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, not more than $356,000,000 for payment by the Secretary of the Treasury.
 - **(c)** In this section, the term “Multilateral Debt Relief Initiative” means the proposal set out in the G8 Finance Ministers’ Communique entitled “Conclusions on Development,” done at London, June 11, 2005 , and reaffirmed by G8 Heads of State at the Gleneagles Summit on July 8, 2005 .
+
+## Source Credit
+
+*([Pub. L. 86–565, § 25](https://www.govinfo.gov/link/plaw/86/public/565), as added [Pub. L. 111–32, title XI, § 1109(a)](https://www.govinfo.gov/link/plaw/111/public/32), June 24, 2009, [123 Stat. 1901](https://www.govinfo.gov/link/statute/123/1901).)*

@@ -3,9 +3,10 @@ title: "Section 3201 - Authorizations of appropriations"
 usc_title: 43
 usc_section: "3201"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 3201"
-generated_at: "2026-03-30T02:55:57.502Z"
+generated_at: "2026-11-23T20:27:06.430Z"
+status: "active"
 ---
 
 # § 3201. Authorizations of appropriations
@@ -35,3 +36,7 @@ There are authorized to be appropriated to the Secretary of the Interior, acting
     - **(A)** Public Law 106–392 ( 114 Stat. 1602 );
     - **(B)** the Grand Canyon Protection Act of 1992 ( Public Law 102–575 ; 106 Stat. 4669 ); and
     - **(C)** subtitle E of title IX of the Omnibus Public Land Management Act of 2009 ( Public Law 111–11 ; 123 Stat. 1327 ).
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title IX, § 40901](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1116](https://www.govinfo.gov/link/statute/135/1116).)*

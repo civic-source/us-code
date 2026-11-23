@@ -3,9 +3,10 @@ title: "Section 6275 - Limits on construction projects"
 usc_title: 10
 usc_section: "6275"
 chapter: 607
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6275"
-generated_at: "2026-03-30T02:53:38.225Z"
+generated_at: "2026-11-23T20:25:52.027Z"
+status: "active"
 ---
 
 # § 6275. Limits on construction projects
@@ -18,3 +19,15 @@ generated_at: "2026-03-30T02:53:38.225Z"
   - **(2)** a period of 30 days has elapsed after the date on which the report is received by the committees.
 - **(c)** In the computation of the 30-day period under subsection (b), there shall be excluded any day on which either House of Congress is not in session because of an adjournment of more than three days to a day certain.
 - **(d)** Subsection (a) does not apply to a construction project with a current estimated cost of less than the minor construction threshold.
+
+Construction Cost Ceiling
+
+Exception Where Notice-and-wait Given
+
+Computation of Days
+
+Exception for Minor Projects
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1427](https://www.govinfo.gov/link/statute/139/1427).)*

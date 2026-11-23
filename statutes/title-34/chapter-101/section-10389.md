@@ -3,9 +3,10 @@ title: "Section 10389 - Definitions"
 usc_title: 34
 usc_section: "10389"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10389"
-generated_at: "2026-03-30T02:55:33.267Z"
+generated_at: "2026-11-23T20:26:50.464Z"
+status: "active"
 ---
 
 # § 10389. Definitions
@@ -26,3 +27,7 @@ In this subchapter—
   - **(5)** “commercial sex act” has the meaning given the term in section 7102 of title 22 .
   - **(6)** “minor” means an individual who has not attained the age of 18 years.
   - **(7)** “severe form of trafficking in persons” has the meaning given the term in section 7102 of title 22 .
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 1709](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 103–322, title I, § 10003(a)(3)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1813](https://www.govinfo.gov/link/statute/108/1813); amended [Pub. L. 105–302, § 1(2)](https://www.govinfo.gov/link/plaw/105/public/302), Oct. 27, 1998, [112 Stat. 2841](https://www.govinfo.gov/link/statute/112/2841); [Pub. L. 114–22, title VI, § 601(2)](https://www.govinfo.gov/link/plaw/114/public/22), May 29, 2015, [129 Stat. 259](https://www.govinfo.gov/link/statute/129/259).)*

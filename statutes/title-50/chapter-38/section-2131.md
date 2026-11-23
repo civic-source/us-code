@@ -3,9 +3,10 @@ title: "Section 2131 - Cost-of-living adjustment of annuities"
 usc_title: 50
 usc_section: "2131"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 2131"
-generated_at: "2026-03-30T02:56:26.219Z"
+generated_at: "2026-11-23T20:27:30.828Z"
+status: "active"
 ---
 
 # § 2131. Cost-of-living adjustment of annuities
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:26.219Z"
       - **(i)** beginning on the date on which the annuity commenced (or, in the case of a survivor of the retired participant, the date on which the participant’s annuity commenced), and
       - **(ii)** ending on the effective date of the adjustment under this section.
   - **(2)** For purposes of paragraph (1), the term “pay” means the rate of salary or basic pay as payable under any provision of law, including any provision of law limiting the expenditure of appropriated funds.
+
+## Source Credit
+
+*([Pub. L. 88–643, title II, § 291](https://www.govinfo.gov/link/plaw/88/public/643), as added [Pub. L. 102–496, title VIII, § 802](https://www.govinfo.gov/link/plaw/102/public/496), Oct. 24, 1992, [106 Stat. 3240](https://www.govinfo.gov/link/statute/106/3240); amended [Pub. L. 103–178, title II, § 202(a)(14)](https://www.govinfo.gov/link/plaw/103/public/178), Dec. 3, 1993, [107 Stat. 2027](https://www.govinfo.gov/link/statute/107/2027).)*

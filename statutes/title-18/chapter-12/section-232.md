@@ -3,9 +3,10 @@ title: "Section 232 - Definitions"
 usc_title: 18
 usc_section: "232"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 232"
-generated_at: "2026-03-30T02:54:16.461Z"
+generated_at: "2026-11-23T20:26:08.353Z"
+status: "active"
 ---
 
 # § 232. Definitions
@@ -20,3 +21,7 @@ For purposes of this chapter:
   - **(6)** The term “fireman” means any member of a fire department (including a volunteer fire department) of any State, any political subdivision of a State, or the District of Columbia.
   - **(7)** The term “law enforcement officer” means any officer or employee of the United States, any State, any political subdivision of a State, or the District of Columbia, while engaged in the enforcement or prosecution of any of the criminal laws of the United States, a State, any political subdivision of a State, or the District of Columbia; and such term shall specifically include members of the National Guard (as defined in section 101 of title 10 ), members of the organized militia of any State, or territory of the United States, the Commonwealth of Puerto Rico, or the District of Columbia not included within the National Guard (as defined in section 101 of title 10 ), and members of the Armed Forces of the United States, while engaged in suppressing acts of violence or restoring law and order during a civil disorder.
   - **(8)** The term “State” includes a State of the United States, and any commonwealth, territory, or possession of the United States.
+
+## Source Credit
+
+*(Added [Pub. L. 90–284, title X, § 1002(a)](https://www.govinfo.gov/link/plaw/90/public/284), Apr. 11, 1968, [82 Stat. 91](https://www.govinfo.gov/link/statute/82/91); amended [Pub. L. 101–647, title XII, § 1205(a)](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4830](https://www.govinfo.gov/link/statute/104/4830); [Pub. L. 102–484, div. A, title X, § 1051(b)(1)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2498](https://www.govinfo.gov/link/statute/106/2498).)*

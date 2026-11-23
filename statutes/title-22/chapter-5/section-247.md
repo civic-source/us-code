@@ -3,9 +3,10 @@ title: "Section 247 - Transferred"
 usc_title: 22
 usc_section: "247"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 247"
-generated_at: "2026-03-30T02:55:05.303Z"
+generated_at: "2026-11-23T20:26:31.910Z"
+status: "transferred"
 ---
 
 # § 247. Transferred

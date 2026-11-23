@@ -3,9 +3,10 @@ title: "Section 3061 - Counterintelligence and national security protections for
 usc_title: 50
 usc_section: "3061"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3061"
-generated_at: "2026-03-30T02:56:26.233Z"
+generated_at: "2026-11-23T20:27:30.906Z"
+status: "active"
 ---
 
 # § 3061. Counterintelligence and national security protections for intelligence community grant funding
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:26.233Z"
       - **(iii)** Authorization for the heads of the elements of the intelligence community to take such actions as may be necessary, including denial or revocation of a grant, to ensure a grant does not pose an unacceptable risk of—
         - **(I)** misappropriation of United States intellectual property, research and development, and innovation efforts; or
         - **(II)** other counterintelligence threats.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title I, § 121, as added [Pub. L. 117–263, div. F, title LXIII, § 6302(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3501](https://www.govinfo.gov/link/statute/136/3501); amended [Pub. L. 119–60, div. F, title LXVIII, § 6801(a)(2)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1652](https://www.govinfo.gov/link/statute/139/1652).)*

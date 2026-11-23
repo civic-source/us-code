@@ -3,9 +3,10 @@ title: "Section 17155 - Requirements for eligible entities"
 usc_title: 42
 usc_section: "17155"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17155"
-generated_at: "2026-03-30T02:56:11.498Z"
+generated_at: "2026-11-23T20:27:23.732Z"
+status: "active"
 ---
 
 # § 17155. Requirements for eligible entities
@@ -64,3 +65,7 @@ generated_at: "2026-03-30T02:56:11.498Z"
     - **(B)** the status of the subgrant program of the State under paragraph (1);
     - **(C)** the energy efficiency gains achieved through the energy efficiency and conservation strategy of the State during the preceding calendar year; and
     - **(D)** specific energy efficiency and conservation goals of the State for subsequent calendar years.
+
+## Source Credit
+
+*([Pub. L. 110–140, title V, § 545](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1670](https://www.govinfo.gov/link/statute/121/1670).)*

@@ -3,9 +3,10 @@ title: "Section 2414a - Annual report to Congress on voting practices at United 
 usc_title: 22
 usc_section: "2414a"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2414a"
-generated_at: "2026-03-30T02:55:05.365Z"
+generated_at: "2026-11-23T20:26:32.290Z"
+status: "active"
 ---
 
 # § 2414a. Annual report to Congress on voting practices at United Nations
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:05.365Z"
   - **(6)** a side-by-side comparison of agreement on important and overall votes for each member country and the United States.
 - **(c)** Information required pursuant to subsection (b)(3) shall also be submitted, together with an explanation of the statistical methodology, in a format identical to that contained in chapter II of the Report to Congress on Voting Practices in the United Nations, dated March 14, 1988 .
 - **(d)** Each report under subsection (a) shall contain a statement by the Secretary of State discussing the measures which have been taken to inform United States diplomatic missions of United Nations General Assembly and Security Council activities.
+
+## Source Credit
+
+*([Pub. L. 101–246, title IV, § 406](https://www.govinfo.gov/link/plaw/101/public/246), Feb. 16, 1990, [104 Stat. 66](https://www.govinfo.gov/link/statute/104/66); [Pub. L. 108–447, div. D, title V, § 534(k)](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3007](https://www.govinfo.gov/link/statute/118/3007).)*

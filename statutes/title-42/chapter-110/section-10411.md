@@ -3,9 +3,10 @@ title: "Section 10411 - Grants to State Domestic Violence Coalitions"
 usc_title: 42
 usc_section: "10411"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10411"
-generated_at: "2026-03-30T02:56:11.388Z"
+generated_at: "2026-11-23T20:27:23.249Z"
+status: "active"
 ---
 
 # § 10411. Grants to State Domestic Violence Coalitions
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:56:11.388Z"
   - **(2)** in connection with legislation or appropriations directly affecting the activities of the entity.
 - **(g)** Each entity receiving a grant under this section shall submit a performance report to the Secretary at such time as shall be reasonably required by the Secretary. Such performance report shall describe the activities that have been carried out with such grant funds, contain an evaluation of the effectiveness of such activities, and provide such additional information as the Secretary may reasonably require.
 - **(h)** For purposes of this section, a State Domestic Violence Coalition may include representatives of Indian tribes and tribal organizations.
+
+## Source Credit
+
+*([Pub. L. 98–457, title III, § 311](https://www.govinfo.gov/link/plaw/98/public/457), as added [Pub. L. 111–320, title II, § 201](https://www.govinfo.gov/link/plaw/111/public/320), Dec. 20, 2010, [124 Stat. 3501](https://www.govinfo.gov/link/statute/124/3501).)*

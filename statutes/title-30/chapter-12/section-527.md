@@ -3,9 +3,10 @@ title: "Section 527 - Determination of unpatented mining claims"
 usc_title: 30
 usc_section: "527"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 527"
-generated_at: "2026-03-30T02:55:29.383Z"
+generated_at: "2026-11-23T20:26:34.938Z"
+status: "active"
 ---
 
 # § 527. Determination of unpatented mining claims
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:55:29.383Z"
 - **(e)** Failure to deliver or mail copy of notice If any applicant, offeror, permittee, or lessee shall fail to comply with the requirements of subsection
 - **(a)** of this section as to the personal delivery or mailing of a copy of notice to any person, the publication of such notice shall be deemed wholly ineffectual as to that person or as to the rights asserted by that person and the failure of that person to file a verified statement, as provided in such notice, shall in no manner affect, diminish, prejudice or bar any rights of that person.
 
+
+## Source Credit
+
+*(Aug. 13, 1954, ch. 730, § 7, [68 Stat. 711](https://www.govinfo.gov/link/statute/68/711); [Pub. L. 86–507, § 1(25)](https://www.govinfo.gov/link/plaw/86/public/507), June 11, 1960, [74 Stat. 201](https://www.govinfo.gov/link/statute/74/201).)*

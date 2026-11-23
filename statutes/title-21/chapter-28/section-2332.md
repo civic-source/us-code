@@ -3,9 +3,10 @@ title: "Section 2332 - Authorization of appropriations"
 usc_title: 21
 usc_section: "2332"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 2332"
-generated_at: "2026-03-30T02:54:54.312Z"
+generated_at: "2026-11-23T20:26:27.913Z"
+status: "active"
 ---
 
 # § 2332. Authorization of appropriations
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:54.312Z"
 - **(e)** In this section, the term “appropriate committees of Congress” means—
   - **(1)** the Committee on Armed Services, the Committee on Banking, Housing, and Urban Affairs, the Committee on Foreign Relations, the Select Committee on Intelligence, the Committee on the Judiciary, and the Committee on Appropriations of the Senate; and
   - **(2)** the Committee on Armed Services, the Committee on Financial Services, the Committee on Foreign Affairs, the Permanent Select Committee on Intelligence, the Committee on Oversight and Reform, and the Committee on Appropriations of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. F, title LXXII, § 7232](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2274](https://www.govinfo.gov/link/statute/133/2274).)*

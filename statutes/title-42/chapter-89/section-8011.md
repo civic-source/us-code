@@ -3,9 +3,10 @@ title: "Section 8011 - Revised congregate housing services program"
 usc_title: 42
 usc_section: "8011"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8011"
-generated_at: "2026-03-30T02:56:11.332Z"
+generated_at: "2026-11-23T20:27:22.991Z"
+status: "active"
 ---
 
 # § 8011. Revised congregate housing services program
@@ -179,3 +180,13 @@ generated_at: "2026-03-30T02:56:11.332Z"
     - **(B)** the amount of such sums appropriated that, with respect to the total amount appropriated, represents the ratio of the total number of units of eligible federally assisted housing for elderly individuals assisted by programs administered by the Secretary of Agriculture to the total number of units assisted by programs administered by such Secretary and the Secretary of Housing and Urban Development, shall be used for assistance for congregate services programs in eligible federally assisted housing administered by the Secretary of Agriculture (through the Administrator of the Farmers Home Administration).
   - **(2)** Any amounts appropriated under this subsection shall remain available until expended.
 - **(o)** The Secretary may reserve not more than 5 percent of the amounts made available in each fiscal year to supplement grants awarded to owners under this section when, in the determination of the Secretary, such supplemental adjustments are required to maintain adequate levels of services to eligible residents.
+
+Interim regulations
+
+Final regulations
+
+Failure under 1990 act
+
+## Source Credit
+
+*([Pub. L. 101–625, title VIII, § 802](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4304](https://www.govinfo.gov/link/statute/104/4304); [Pub. L. 102–550, title VI](https://www.govinfo.gov/link/plaw/102/public/550), §§ 604(a), (b), 672, Oct. 28, 1992, [106 Stat. 3805](https://www.govinfo.gov/link/statute/106/3805), 3826; [Pub. L. 110–234, title IV](https://www.govinfo.gov/link/plaw/110/public/234), §§ 4002(b)(1)(B), (N), (2)(LL), 4115(c)(1)(A)(i), (B)(vi), (2)(I), May 22, 2008, [122 Stat. 1096](https://www.govinfo.gov/link/statute/122/1096), 1098, 1109, 1110; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, §§ 4002(b)(1)(B), (N), (2)(LL), 4115(c)(1)(A)(i), (B)(vi), (2)(I), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1857–1859, 1870, 1871.)*

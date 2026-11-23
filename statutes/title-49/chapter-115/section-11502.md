@@ -3,12 +3,17 @@ title: "Section 11502 - Withholding State and local income tax by rail carriers"
 usc_title: 49
 usc_section: "11502"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 11502"
-generated_at: "2026-03-30T02:56:19.325Z"
+generated_at: "2026-11-23T20:27:34.731Z"
+status: "active"
 ---
 
 # § 11502. Withholding State and local income tax by rail carriers
 
 - **(a)** No part of the compensation paid by a rail carrier providing transportation subject to the jurisdiction of the Board under this part to an employee who performs regularly assigned duties as such an employee on a railroad in more than one State shall be subject to the income tax laws of any State or subdivision of that State, other than the State or subdivision thereof of the employee’s residence.
 - **(b)** A rail carrier withholding pay from an employee under subsection (a) of this section shall file income tax information returns and other reports only with the State and subdivision of residence of the employee.
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 102(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 844](https://www.govinfo.gov/link/statute/109/844).)*

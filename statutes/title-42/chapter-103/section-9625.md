@@ -3,9 +3,10 @@ title: "Section 9625 - Section 6921(b)(3)(A)(i) waste"
 usc_title: 42
 usc_section: "9625"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9625"
-generated_at: "2026-03-30T02:56:11.361Z"
+generated_at: "2026-11-23T20:27:23.120Z"
+status: "active"
 ---
 
 # § 9625. Section 6921(b)(3)(A)(i) waste
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.361Z"
   - **(2)** The extent of, and potential for, release of such hazardous constituents into the environment.
   - **(3)** The degree of risk to human health and the environment posed by such constituents.
 - **(b)** Until the hazard ranking system is revised as required by this section, the President may not include on the National Priorities List any facility which contains substantial volumes of waste described in section 6921(b)(3)(A)(i) of this title on the basis of an evaluation made principally on the volume of such waste and not on the concentrations of the hazardous constituents of such waste. Nothing in this section shall be construed to affect the President’s authority to include any such facility on the National Priorities List based on the presence of other substances at such facility or to exercise any other authority of this chapter with respect to such other substances.
+
+## Source Credit
+
+*([Pub. L. 96–510, title I, § 125](https://www.govinfo.gov/link/plaw/96/public/510), as added [Pub. L. 99–499, title I, § 125](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1689](https://www.govinfo.gov/link/statute/100/1689).)*

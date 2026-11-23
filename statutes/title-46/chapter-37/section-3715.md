@@ -3,9 +3,10 @@ title: "Section 3715 - Lightering"
 usc_title: 46
 usc_section: "3715"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 3715"
-generated_at: "2026-03-30T02:56:15.545Z"
+generated_at: "2026-11-23T20:27:27.088Z"
+status: "active"
 ---
 
 # § 3715. Lightering
@@ -23,3 +24,16 @@ generated_at: "2026-03-30T02:56:15.545Z"
   - **(4)** the prevention of any unreasonable interference with navigation or other reasonable uses of the high seas, as those uses are defined by treaty, convention, or customary international law;
   - **(5)** the establishment of lightering zones; and
   - **(6)** requirements for communication and prearrival messages.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 3715 | 46:391a(17) |
+
+
+Historical and Revision Notes
+
+3715
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 526](https://www.govinfo.gov/link/statute/97/526); [Pub. L. 101–380, title IV, § 4115(d)](https://www.govinfo.gov/link/plaw/101/public/380), Aug. 18, 1990, [104 Stat. 520](https://www.govinfo.gov/link/statute/104/520); [Pub. L. 114–120, title III, § 306(a)(4)](https://www.govinfo.gov/link/plaw/114/public/120), Feb. 8, 2016, [130 Stat. 54](https://www.govinfo.gov/link/statute/130/54).)*

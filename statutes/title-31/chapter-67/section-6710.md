@@ -3,9 +3,10 @@ title: "Section 6710 - Public participation"
 usc_title: 31
 usc_section: "6710"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 6710"
-generated_at: "2026-03-30T02:55:34.074Z"
+generated_at: "2026-11-23T20:26:51.918Z"
+status: "active"
 ---
 
 # § 6710. Public participation
@@ -26,3 +27,25 @@ generated_at: "2026-03-30T02:55:34.074Z"
     - **(B)** includes a hearing on the proposed use of a payment received under this chapter in relation to the entire budget of the government; and
   - **(2)** under subsection (b)(1)(B) and paragraph (2)(B) may be waived if the cost of publishing the information would be unreasonably burdensome in relation to the amount allocated to the government from amounts available for payment under this chapter, or if publication is otherwise impracticable.
 - **(d)** If the Secretary is satisfied that a unit of general local government will provide adequate notice of the proposed use of a payment received under this chapter, the 10-day period under subsection (b)(1) may be changed to the extent necessary to comply with applicable State or local law.
+
+Hearings.—
+
+In general
+
+Senior citizens
+
+Disclosure of Information.—
+
+In general
+
+Availability
+
+Waivers of Requirements
+
+Exception to
+
+Day Limitation
+
+## Source Credit
+
+*(Added [Pub. L. 103–322, title III, § 31001(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1873](https://www.govinfo.gov/link/statute/108/1873).)*

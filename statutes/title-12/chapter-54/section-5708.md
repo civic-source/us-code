@@ -3,9 +3,10 @@ title: "Section 5708 - Implementation and administration"
 usc_title: 12
 usc_section: "5708"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5708"
-generated_at: "2026-03-30T02:53:53.550Z"
+generated_at: "2026-11-23T20:25:59.541Z"
+status: "active"
 ---
 
 # § 5708. Implementation and administration
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:53.550Z"
   - **(3)** contract with legal, accounting, and financial advisory firms (with priority given to business enterprises owned and controlled by socially and economically disadvantaged individuals), to provide technical assistance to business enterprises owned and controlled by socially and economically disadvantaged individuals applying to—
     - **(A)** State programs under the Program; and
     - **(B)** other State or Federal programs that support small businesses.
+
+## Source Credit
+
+*([Pub. L. 111–240, title III, § 3009](https://www.govinfo.gov/link/plaw/111/public/240), Sept. 27, 2010, [124 Stat. 2580](https://www.govinfo.gov/link/statute/124/2580); [Pub. L. 117–2, title III, § 3301(a)(1)(F)](https://www.govinfo.gov/link/plaw/117/public/2), (d), Mar. 11, 2021, [135 Stat. 69](https://www.govinfo.gov/link/statute/135/69), 70.)*

@@ -3,9 +3,10 @@ title: "Section 20985 - Grants for Rape, Abuse & Incest National Network"
 usc_title: 34
 usc_section: "20985"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 20985"
-generated_at: "2026-03-30T02:55:33.302Z"
+generated_at: "2026-11-23T20:26:50.613Z"
+status: "active"
 ---
 
 # § 20985. Grants for Rape, Abuse & Incest National Network
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:55:33.302Z"
   - **(1)** The term “Administrator” means the Administrator of the Office of Juvenile Justice and Delinquency Prevention.
   - **(2)** The term “RAINN” means the Rape, Abuse & Incest National Network, a 501(c)(3) nonprofit corporation headquartered in the District of Columbia.
 - **(d)** There is authorized to be appropriated to the Administrator to carry out this section, $3,000,000 for each of fiscal years 2022 through 2027.
+
+## Source Credit
+
+*([Pub. L. 109–248, title VI, § 628](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 638](https://www.govinfo.gov/link/statute/120/638); [Pub. L. 117–347, title I, § 105(e)](https://www.govinfo.gov/link/plaw/117/public/347), Jan. 5, 2023, [136 Stat. 6204](https://www.govinfo.gov/link/statute/136/6204).)*

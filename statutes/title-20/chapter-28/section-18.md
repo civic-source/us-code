@@ -3,9 +3,10 @@ title: "Section 18 - Reports, evaluations, and grants for project improvement an
 usc_title: 20
 usc_section: "18"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 18"
-generated_at: "2026-03-30T02:54:48.106Z"
+generated_at: "2026-11-23T20:26:14.370Z"
+status: "active"
 ---
 
 # § 1070a–18. Reports, evaluations, and grants for project improvement and dissemination
@@ -40,3 +41,11 @@ generated_at: "2026-03-30T02:54:48.106Z"
   - **(1)** disseminate and replicate best practices of programs or projects assisted under this division; and
   - **(2)** provide technical assistance regarding programs and projects assisted under this division.
 - **(d)** In order to improve overall program or project effectiveness, the results of evaluations and grants described in this section shall be disseminated by the Secretary to similar programs or projects assisted under this subpart, as well as other individuals concerned with postsecondary access for and retention of low-income individuals and first-generation college students.
+
+In general
+
+Practices
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 402H](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 102–325, title IV, § 402(a)(4)](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 491](https://www.govinfo.gov/link/statute/106/491); amended [Pub. L. 105–244, title IV, § 402(g)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1655](https://www.govinfo.gov/link/statute/112/1655); [Pub. L. 110–315, title IV, § 403(h)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3204](https://www.govinfo.gov/link/statute/122/3204).)*

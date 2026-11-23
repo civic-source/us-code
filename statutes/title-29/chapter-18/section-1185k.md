@@ -3,9 +3,10 @@ title: "Section 1185k - Other patient protections"
 usc_title: 29
 usc_section: "1185k"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1185k"
-generated_at: "2026-03-30T02:55:18.726Z"
+generated_at: "2026-11-23T20:26:37.999Z"
+status: "active"
 ---
 
 # § 1185k. Other patient protections
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:18.726Z"
   - **(3)** Nothing in paragraph (1) shall be construed to—
     - **(A)** waive any exclusions of coverage under the terms and conditions of the plan or health insurance coverage with respect to coverage of obstetrical or gynecological care; or
     - **(B)** preclude the group health plan or health insurance issuer involved from requiring that the obstetrical or gynecological provider notify the primary care health care professional or the plan or issuer of treatment decisions.
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 722](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 116–260, div. BB, title I, § 102(b)(2)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2783](https://www.govinfo.gov/link/statute/134/2783).)*

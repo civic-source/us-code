@@ -3,9 +3,10 @@ title: "Section 11245 - Periodic estimate of incidence and prevalence of youth h
 usc_title: 34
 usc_section: "11245"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 11245"
-generated_at: "2026-03-30T02:55:33.280Z"
+generated_at: "2026-11-23T20:26:50.521Z"
+status: "active"
 ---
 
 # § 11245. Periodic estimate of incidence and prevalence of youth homelessness
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:33.280Z"
       - **(iii)** incomes, public benefits, supportive services, and connections to caring adults; and
   - **(2)** such other information as the Secretary determines, in consultation with States, units of local government, and national nongovernmental organizations concerned with homelessness, may be useful.
 - **(c)** If the Secretary enters into any contract with a non-Federal entity for purposes of carrying out subsection (a), such entity shall be a nongovernmental organization, or an individual, determined by the Secretary to have appropriate expertise in quantitative and qualitative social science research.
+
+## Source Credit
+
+*([Pub. L. 93–415, title III, § 345](https://www.govinfo.gov/link/plaw/93/public/415), as added [Pub. L. 110–378, § 6](https://www.govinfo.gov/link/plaw/110/public/378), Oct. 8, 2008, [122 Stat. 4070](https://www.govinfo.gov/link/statute/122/4070).)*

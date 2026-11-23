@@ -3,9 +3,10 @@ title: "Section 5925f - Farm business management"
 usc_title: 7
 usc_section: "5925f"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 5925f"
-generated_at: "2026-03-30T02:53:42.421Z"
+generated_at: "2026-11-23T20:25:41.670Z"
+status: "active"
 ---
 
 # § 5925f. Farm business management
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:42.421Z"
 - **(d)** There are authorized to be appropriated to carry out this section—
   - **(1)** such sums as are necessary for fiscal year 2013; and
   - **(2)** $5,000,000 for each of fiscal years 2014 through 2023.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XVI, § 1672D](https://www.govinfo.gov/link/plaw/101/public/624), as added [Pub. L. 110–234, title VII, § 7208](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1241](https://www.govinfo.gov/link/statute/122/1241); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, § 7208, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2002; amended [Pub. L. 113–79, title VII, § 7213](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 886](https://www.govinfo.gov/link/statute/128/886); [Pub. L. 115–334, title VII, § 7211](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4811](https://www.govinfo.gov/link/statute/132/4811).)*

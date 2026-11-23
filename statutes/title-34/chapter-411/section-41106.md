@@ -3,9 +3,10 @@ title: "Section 41106 - Reviews of criminal records of applicants for private se
 usc_title: 34
 usc_section: "41106"
 chapter: 411
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 41106"
-generated_at: "2026-03-30T02:55:33.313Z"
+generated_at: "2026-11-23T20:26:50.658Z"
+status: "active"
 ---
 
 # § 41106. Reviews of criminal records of applicants for private security officer employment
@@ -64,3 +65,11 @@ generated_at: "2026-03-30T02:55:33.313Z"
       - **(iii)** shall remain available until expended.
     - **(C)** Nothing in this section shall be construed as restricting the right of a State to assess a reasonable fee on an authorized employer for the costs to the State of administering this section.
   - **(5)** A State may decline to participate in the background check system authorized by this section by enacting a law or issuing an order by the Governor (if consistent with State law) providing that the State is declining to participate pursuant to this subsection.
+
+(aa) convicted of a felony, an offense involving dishonesty or a false statement if the conviction occurred during the previous 10 years, or an offense involving the use or attempted use of physical force against the person of another if the conviction occurred during the previous 10 years; or
+
+(bb) charged with a criminal felony for which there has been no resolution during the preceding 365 days; or
+
+## Source Credit
+
+*([Pub. L. 108–458, title VI, § 6402](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3755](https://www.govinfo.gov/link/statute/118/3755).)*

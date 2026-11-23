@@ -3,9 +3,10 @@ title: "Section 4370i - Regional liaisons for minority, tribal, and low-income c
 usc_title: 42
 usc_section: "4370i"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4370i"
-generated_at: "2026-03-30T02:56:11.203Z"
+generated_at: "2026-11-23T20:27:22.382Z"
+status: "active"
 ---
 
 # § 4370i. Regional liaisons for minority, tribal, and low-income communities
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.203Z"
 - **(b)** The Administrator shall identify each regional liaison assigned under subsection (a) on the internet website of—
   - **(1)** the relevant regional office of the Environmental Protection Agency; and
   - **(2)** the Office of Environmental Justice of the Environmental Protection Agency.
+
+## Source Credit
+
+*([Pub. L. 115–270, title IV, § 4305](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3883](https://www.govinfo.gov/link/statute/132/3883).)*

@@ -3,9 +3,10 @@ title: "Section 742e - Transfer of functions to Secretary"
 usc_title: 16
 usc_section: "742e"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 742e"
-generated_at: "2026-03-30T02:54:22.903Z"
+generated_at: "2026-11-23T20:26:20.258Z"
+status: "active"
 ---
 
 # § 742e. Transfer of functions to Secretary
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:22.903Z"
 - **(a)** There shall be transferred to the Secretary all functions of the Secretary of Agriculture, the Secretary of Commerce, and the head of any other department or agency, as determined by the Director of the Office of Management and Budget to relate primarily to the development, advancement, management, conservation, and protection of commercial fisheries; but nothing in this section shall be construed to modify the authority of the Department of State or the Secretary of State to negotiate or enter into any international agreements, or conventions with respect to the development, management, or protection of any fisheries and wildlife resources or with respect to international commissions operating under conventions to which the United States is a party.
 - **(b)** There shall be transferred to the Department of the Interior so much of the personnel, property, facilities, records, and unexpended balances of appropriations, allocations, and other funds (available or to be made available) as the Director of the Office of Management and Budget determines to be necessary in connection with the exercise of any functions transferred to the Secretary pursuant to subsection (a) of this section.
 - **(c)** The Secretary may request and secure the advice or assistance of any department or agency of the Government in carrying out the provisions of this Act, and any such department or agency which furnishes advice or assistance to the Secretary may expend its own funds for such purposes, with or without reimbursement from the Secretary as may be agreed upon between the Secretary and the department or agency.
+
+## Source Credit
+
+*(Aug. 8, 1956, ch. 1036, § 6, [70 Stat. 1122](https://www.govinfo.gov/link/statute/70/1122); 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, [84 Stat. 2085](https://www.govinfo.gov/link/statute/84/2085).)*

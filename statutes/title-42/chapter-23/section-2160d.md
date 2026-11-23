@@ -3,9 +3,10 @@ title: "Section 2160d - Further restrictions on exports"
 usc_title: 42
 usc_section: "2160d"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2160d"
-generated_at: "2026-03-30T02:56:11.152Z"
+generated_at: "2026-11-23T20:27:22.082Z"
+status: "active"
 ---
 
 # § 2160d. Further restrictions on exports
@@ -66,3 +67,7 @@ generated_at: "2026-03-30T02:56:11.152Z"
     - **(A)** the fuel or target has been qualified by the Reduced Enrichment Research and Test Reactor Program of the Department of Energy; and
     - **(B)** use of the fuel or target will permit the large majority of ongoing and planned experiments and medical isotope production to be conducted in the reactor without a large percentage increase in the total cost of operating the reactor; and
   - **(4)** the term “medical isotope” includes molybdenum-99, iodine-131, xenon-133, and other radioactive materials used to produce a radiopharmaceutical for diagnostic or therapeutic procedures or for research and development.
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 134, as added [Pub. L. 102–486, title IX, § 903(a)(1)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944); [Pub. L. 109–58, title VI, § 630](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 785](https://www.govinfo.gov/link/statute/119/785); [Pub. L. 112–239, div. C, title XXXI, § 3174](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2214](https://www.govinfo.gov/link/statute/126/2214).)*

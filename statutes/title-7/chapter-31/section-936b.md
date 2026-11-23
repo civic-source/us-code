@@ -3,9 +3,10 @@ title: "Section 936b - Sale or prepayment of direct or insured loans"
 usc_title: 7
 usc_section: "936b"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 936b"
-generated_at: "2026-03-30T02:53:42.296Z"
+generated_at: "2026-11-23T20:25:41.087Z"
+status: "active"
 ---
 
 # § 936b. Sale or prepayment of direct or insured loans
@@ -29,3 +30,11 @@ generated_at: "2026-03-30T02:53:42.296Z"
     - **(A)** The term “direct loan” means a loan made under section 904 of this title .
     - **(B)** The term “insured loan” means a loan made under section 935 of this title .
 - **(b)** Notwithstanding subsection (a), a direct or insured loan may be prepaid by an electric borrower at the lesser of the outstanding principal balance due thereon or the present value thereof discounted from the face value at maturity at the rate set by the Secretary if the borrower is an electrical organization which resulted from a merger or consolidation between a borrower and an organization which, prior to October 1, 1987 , prepaid its direct or insured loans pursuant to this section. Prepayments by a borrower hereunder shall be made not later than one year after the effective date of the merger, consolidation, or other transaction. The discount rate to be set by the Secretary for direct or insured loans prepayments hereunder shall be based on the current cost of funds to the Department of the Treasury for obligations of comparable maturity to those being prepaid. If a borrower prepays using tax exempt financing, the discount shall be adjusted to make the discount equivalent to fully taxable financing. The borrower shall certify in writing whether the financing will be tax exempt and shall comply with such other terms and conditions as the Secretary may establish which are reasonable and necessary to implement this provision. As used in this section, the term “direct loan” means a loan made under section 904 of this title .
+
+(aa) the amount (if any) by which the discount the borrower received by reason of the prepayment exceeds the discount the borrower would have received had the discount been based on the cost of funds to the Department of the Treasury at the time of the prepayment; and
+
+(bb) interest on the amount described in item (aa), for the period beginning on the date of the prepayment and ending on the date of the repayment, at a rate equal to the average annual cost of borrowing by the Department of the Treasury.
+
+## Source Credit
+
+*(May 20, 1936, ch. 432, title III, § 306B, as added [Pub. L. 99–509, title I, § 1011(a)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1876](https://www.govinfo.gov/link/statute/100/1876); amended [Pub. L. 101–624, title XXIII, § 2387](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 4051](https://www.govinfo.gov/link/statute/104/4051); [Pub. L. 102–428, § 2](https://www.govinfo.gov/link/plaw/102/public/428), Oct. 21, 1992, [106 Stat. 2183](https://www.govinfo.gov/link/statute/106/2183); [Pub. L. 103–354, title II, § 235(a)(13)](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3221](https://www.govinfo.gov/link/statute/108/3221).)*

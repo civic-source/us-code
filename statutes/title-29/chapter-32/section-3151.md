@@ -3,9 +3,10 @@ title: "Section 3151 - Establishment of one-stop delivery systems"
 usc_title: 29
 usc_section: "3151"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3151"
-generated_at: "2026-03-30T02:55:18.751Z"
+generated_at: "2026-11-23T20:26:38.092Z"
+status: "active"
 ---
 
 # § 3151. Establishment of one-stop delivery systems
@@ -150,3 +151,15 @@ generated_at: "2026-03-30T02:55:18.751Z"
   - **(1)** Subject to the memorandum of understanding described in subsection (c) for the one-stop delivery system involved, in addition to the funds provided to carry out subsection (h), a portion of funds made available under Federal law authorizing the programs described in subsection (b) and administered by one-stop partners, or the noncash resources available under such programs, shall be used to pay the additional costs relating to the operation of the one-stop delivery system that are not paid from the funds provided under subsection (h), as determined in accordance with paragraph (3), to the extent not inconsistent with the Federal law involved. Such costs shall include the costs of the provision of career services described in section 3174(c)(2) of this title applicable to each program and may include common costs that are not paid from the funds provided under subsection (h).
   - **(2)** The costs described under paragraph (1) may include costs of services that are authorized for and may be commonly provided through the one-stop partner programs to any individual, such as initial intake, assessment of needs, appraisal of basic skills, identification of appropriate services to meet such needs, referrals to other one-stop partners, and other similar services.
   - **(3)** The method for determining the appropriate portion of funds and noncash resources to be provided by the one-stop partner for each program under paragraph (1) for a one-stop center shall be determined as part of the development of the memorandum of understanding under subsection (c) for the one-stop center and shall be stated in the memorandum. The State board shall provide guidance to facilitate the determination, for purposes of the memorandum of understanding, of an appropriate allocation of the funds and noncash resources in local areas, consistent with the requirements of section 3111(d)(6)(C) of this title .
+
+(aa) 0.75 percent of the amount of Federal funds provided to carry out such program in the State for the second full program year that begins after July 22, 2014 ;
+
+(bb) 1.0 percent of the amount provided to carry out such program in the State for the third full program year that begins after such date;
+
+(cc) 1.25 percent of the amount provided to carry out such program in the State for the fourth full program year that begins after such date; and
+
+(dd) 1.5 percent of the amount provided to carry out such program in the State for the fifth and each succeeding full program year that begins after such date.
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 121](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1481](https://www.govinfo.gov/link/statute/128/1481).)*

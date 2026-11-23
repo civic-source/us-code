@@ -3,9 +3,10 @@ title: "Section 101925 - Commercial use authorizations"
 usc_title: 54
 usc_section: "101925"
 chapter: 1019
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "54 U.S.C. § 101925"
-generated_at: "2026-03-30T02:56:28.416Z"
+generated_at: "2026-11-23T20:27:38.026Z"
+status: "active"
 ---
 
 # § 101925. Commercial use authorizations
@@ -31,3 +32,42 @@ generated_at: "2026-03-30T02:56:28.416Z"
 - **(e)** A commercial use authorization shall not provide for the construction of any structure, fixture, or improvement on federally-owned land within the boundaries of a System unit.
 - **(f)** The term of any commercial use authorization shall not exceed 2 years. No preferential right of renewal or similar provisions for renewal shall be granted by the Secretary.
 - **(g)** A person, corporation, or other entity seeking or obtaining a commercial use authorization shall not be precluded from submitting a proposal for concession contracts.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 101925 | 16 U.S.C. 5966 . | Pub. L. 105–391, title IV, § 418 , Nov. 13, 1998 , 112 Stat. 3516 . |
+
+
+In General
+
+Criteria for Issuance of Commercial Use Authorizations.—
+
+Required determinations
+
+Elements of commercial use authorization
+
+Limitations
+
+Nonprofit Institutions
+
+Prohibition on Construction
+
+Duration
+
+Other Contracts
+
+Historical and Revision Notes
+
+101925
+
+16 U.S.C. 5966
+
+Pub. L. 105–391, title IV, § 418
+
+Nov. 13, 1998
+
+112 Stat. 3516
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3150](https://www.govinfo.gov/link/statute/128/3150).)*

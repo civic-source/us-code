@@ -3,9 +3,10 @@ title: "Section 135 - Statewide and nonmetropolitan transportation planning"
 usc_title: 23
 usc_section: "135"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 135"
-generated_at: "2026-03-30T02:55:12.555Z"
+generated_at: "2026-11-23T20:26:23.786Z"
+status: "active"
 ---
 
 # § 135. Statewide and nonmetropolitan transportation planning
@@ -154,3 +155,225 @@ generated_at: "2026-03-30T02:55:12.555Z"
     - **(G)** considering and sharing plans and programs with neighboring regional transportation planning organizations, metropolitan planning organizations, and, where appropriate, tribal organizations; and
     - **(H)** conducting other duties, as necessary, to support and enhance the statewide planning process under subsection (d).
   - **(5)** If a State chooses not to establish or designate a regional transportation planning organization, the State shall consult with affected nonmetropolitan local officials to determine projects that may be of regional significance.
+
+General Requirements.—
+
+Development of plans and programs
+
+Contents
+
+Process of development
+
+Coordination With Metropolitan Planning; State Implementation Plan
+
+Interstate Agreements.—
+
+In general
+
+Reservation of rights
+
+Scope of Planning Process.—
+
+In general
+
+Performance-based approach.—
+
+In general
+
+Performance targets.—
+
+Surface transportation performance targets.—
+
+In general
+
+Coordination
+
+Public transportation performance targets
+
+Integration of other performance-based plans
+
+Use of performance measures and targets
+
+Failure to consider factors
+
+Additional Requirements
+
+Long-range Statewide Transportation Plan.—
+
+Development
+
+Consultation with governments.—
+
+Metropolitan areas
+
+Nonmetropolitan areas.—
+
+In general
+
+Role of secretary
+
+Indian tribal areas
+
+Consultation, comparison, and consideration.—
+
+In general
+
+Comparison and consideration
+
+Participation by interested parties.—
+
+In general
+
+Methods
+
+Use of technology
+
+Mitigation activities.—
+
+In general
+
+Consultation
+
+Financial plan
+
+Selection of projects from illustrative list
+
+Performance-based approach
+
+Existing system
+
+Publication of long-range transportation plans
+
+Statewide Transportation Improvement Program.—
+
+Development.—
+
+In general
+
+Duration and updating of program
+
+Consultation with governments.—
+
+Metropolitan areas
+
+Nonmetropolitan areas.—
+
+In general
+
+Role of secretary
+
+Indian tribal areas
+
+Participation by interested parties
+
+Performance target achievement
+
+Included projects.—
+
+In general
+
+Listing of projects.—
+
+In general
+
+Funding categories
+
+Projects under chapter 2.—
+
+Regionally significant projects
+
+Other projects
+
+Consistency with statewide transportation plan
+
+Requirement of anticipated full funding
+
+Financial plan.—
+
+In general
+
+Additional projects
+
+Selection of projects from illustrative list.—
+
+No required selection
+
+Required action by the secretary
+
+Priorities
+
+Project selection for areas of less than 50,000 population.—
+
+In general
+
+Other projects
+
+Transportation improvement program approval
+
+Planning finding
+
+Modifications to project priority
+
+Performance-based Planning Processes Evaluation.—
+
+In general
+
+Report.—
+
+In general
+
+Publication
+
+Funding
+
+Treatment of Certain State Laws as Congestion Management Processes
+
+Continuation of Current Review Practice
+
+Schedule for Implementation
+
+Designation of Regional Transportation Planning Organizations.—
+
+In general
+
+Structure
+
+Requirements
+
+Duties
+
+States without regional transportation planning organizations
+
+Continuation and Acceleration of TRANSIMS Deployment.—
+
+In general
+
+Program application
+
+Required Activities
+
+Eligible Activities
+
+Allocation of Funds
+
+Funding
+
+Establishment
+
+Eligible Activities
+
+Funding.—
+
+In general
+
+Allocation of funds.—
+
+Fiscal years 1998 and 1999
+
+Fiscal years 2000 through 2003
+
+Contract authority
+
+## Source Credit
+
+*(Added [Pub. L. 90–495, § 10(a)](https://www.govinfo.gov/link/plaw/90/public/495), Aug. 23, 1968, [82 Stat. 820](https://www.govinfo.gov/link/statute/82/820); amended [Pub. L. 91–605, title I](https://www.govinfo.gov/link/plaw/91/public/605), §§ 106(g), 125, Dec. 31, 1970, [84 Stat. 1718](https://www.govinfo.gov/link/statute/84/1718), 1729; [Pub. L. 93–87, title I, § 119](https://www.govinfo.gov/link/plaw/93/public/87), Aug. 13, 1973, [87 Stat. 259](https://www.govinfo.gov/link/statute/87/259); [Pub. L. 94–280, title I, § 123(a)](https://www.govinfo.gov/link/plaw/94/public/280), May 5, 1976, [90 Stat. 439](https://www.govinfo.gov/link/statute/90/439); [Pub. L. 102–240, title I, § 1025(a)](https://www.govinfo.gov/link/plaw/102/public/240), Dec. 18, 1991, [105 Stat. 1962](https://www.govinfo.gov/link/statute/105/1962); [Pub. L. 103–429, § 3(6)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4378](https://www.govinfo.gov/link/statute/108/4378); [Pub. L. 105–178, title I, § 1204(a)](https://www.govinfo.gov/link/plaw/105/public/178) –(h), June 9, 1998, [112 Stat. 180–184](https://www.govinfo.gov/link/statute/112/180); [Pub. L. 109–59, title VI, § 6001(a)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1851](https://www.govinfo.gov/link/statute/119/1851); [Pub. L. 112–141, div. A, title I, § 1202(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 514](https://www.govinfo.gov/link/statute/126/514); [Pub. L. 114–94, div. A, title I](https://www.govinfo.gov/link/plaw/114/public/94), §§ 1104(e)(3), 1202, Dec. 4, 2015, [129 Stat. 1332](https://www.govinfo.gov/link/statute/129/1332), 1374; [Pub. L. 117–58, div. A, title I](https://www.govinfo.gov/link/plaw/117/public/58), §§ 11201(b), (c), 11525(g), Nov. 15, 2021, [135 Stat. 517](https://www.govinfo.gov/link/statute/135/517), 607.)*

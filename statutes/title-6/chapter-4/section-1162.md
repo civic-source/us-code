@@ -3,9 +3,10 @@ title: "Section 1162 - Railroad carrier assessments and plans"
 usc_title: 6
 usc_section: "1162"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 1162"
-generated_at: "2026-03-30T02:53:09.506Z"
+generated_at: "2026-11-23T20:25:34.932Z"
+status: "active"
 ---
 
 # § 1162. Railroad carrier assessments and plans
@@ -76,3 +77,7 @@ generated_at: "2026-03-30T02:53:09.506Z"
   - **(2)** Not later than 180 days after the date on which an evaluation is submitted, the Secretary shall review the evaluation and notify the railroad carrier submitting the evaluation of the Secretary’s approval or disapproval of the evaluation.
 - **(l)** The Secretary may permit under this section the development and implementation of coordinated vulnerability assessments and security plans to the extent that a railroad carrier shares facilities with, or is colocated with, other transportation entities or providers that are required to develop vulnerability assessments and security plans under Federal law.
 - **(m)** In carrying out this section, the Secretary shall consult with railroad carriers, nonprofit employee labor organizations representation railroad employees, and public safety and law enforcement officials.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XV, § 1512](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 429](https://www.govinfo.gov/link/statute/121/429).)*

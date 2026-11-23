@@ -3,9 +3,10 @@ title: "Section 1845 - Requirements applicable to loan guarantees"
 usc_title: 15
 usc_section: "1845"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1845"
-generated_at: "2026-03-30T02:54:08.160Z"
+generated_at: "2026-11-23T20:26:04.138Z"
+status: "active"
 ---
 
 # § 1845. Requirements applicable to loan guarantees
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:08.160Z"
 - **(f)**
   - **(1)** A guarantee agreement made under this chapter shall contain a requirement that as between the Board and the lender, the Board shall have a priority with respect to, and to the extent of, the lender’s interest in any collateral securing the loan and any earlier outstanding loans. The Board shall take all steps necessary to assure such priority against any other persons.
   - **(2)** As used in paragraph (1) of this subsection, the term “collateral” includes all assets pledged under loan agreements and, if appropriate in the opinion of the Board, all sums of the borrower on deposit with the lender and subject to offset under section 68 of the Bankruptcy Act.
+
+## Source Credit
+
+*([Pub. L. 92–70, § 6](https://www.govinfo.gov/link/plaw/92/public/70), Aug. 9, 1971, [85 Stat. 179](https://www.govinfo.gov/link/statute/85/179).)*

@@ -3,9 +3,10 @@ title: "Section 1661 - Establishment of the Indian Health Service as an agency o
 usc_title: 25
 usc_section: "1661"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1661"
-generated_at: "2026-03-30T02:54:52.824Z"
+generated_at: "2026-11-23T20:26:25.513Z"
+status: "active"
 ---
 
 # § 1661. Establishment of the Indian Health Service as an agency of the Public Health Service
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:54:52.824Z"
     - **(B)** to enter into contracts for the procurement of goods and services to carry out the functions of the Service; and
     - **(C)** to manage, expend, and obligate all funds appropriated for the Service.
   - **(2)** Notwithstanding any other provision of law, the provisions of section 5116 of this title , 2 2 So in original. The comma probably should not appear. shall apply to all personnel actions taken with respect to new positions created within the Service as a result of its establishment under subsection (a).
+
+## Source Credit
+
+*([Pub. L. 94–437, title VI, § 601](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 100–713, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/100/public/713), Nov. 23, 1988, [102 Stat. 4824](https://www.govinfo.gov/link/statute/102/4824); amended [Pub. L. 102–573, title VI](https://www.govinfo.gov/link/plaw/102/public/573), §§ 601, 602(a)(1), (c), title IX, § 902(6), (7), Oct. 29, 1992, [106 Stat. 4571](https://www.govinfo.gov/link/statute/106/4571), 4592; [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

@@ -3,9 +3,10 @@ title: "Section 6041A - Returns regarding payments of remuneration for services 
 usc_title: 26
 usc_section: "6041A"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6041A"
-generated_at: "2026-03-30T02:55:27.832Z"
+generated_at: "2026-11-23T20:26:46.513Z"
+status: "active"
 ---
 
 # § 6041A. Returns regarding payments of remuneration for services and direct sales
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:27.832Z"
 - **(f)**
   - **(1)** Any person with respect to whom a return or statement is required under this section to be made by another person shall furnish to such other person his name, address, and identification number at such time and in such manner as the Secretary may prescribe by regulations.
   - **(2)** The person to whom an identification number is furnished under paragraph (1) shall include such number on any return which such person is required to file under this section and to which such identification number relates.
+
+## Source Credit
+
+*(Added [Pub. L. 97–248, title III, § 312(a)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 601](https://www.govinfo.gov/link/statute/96/601); amended [Pub. L. 104–168, title XII, § 1201(a)(2)](https://www.govinfo.gov/link/plaw/104/public/168), July 30, 1996, [110 Stat. 1469](https://www.govinfo.gov/link/statute/110/1469); [Pub. L. 105–34, title X, § 1022(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 923](https://www.govinfo.gov/link/statute/111/923); [Pub. L. 119–21, title VII](https://www.govinfo.gov/link/plaw/119/public/21), §§ 70201(f)(2), 70433(c), July 4, 2025, [139 Stat. 172](https://www.govinfo.gov/link/statute/139/172), 244.)*

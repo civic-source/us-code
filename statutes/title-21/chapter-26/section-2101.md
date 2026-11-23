@@ -3,9 +3,10 @@ title: "Section 2101 - Findings"
 usc_title: 21
 usc_section: "2101"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 2101"
-generated_at: "2026-03-30T02:54:54.308Z"
+generated_at: "2026-11-23T20:26:27.902Z"
+status: "active"
 ---
 
 # § 2101. Findings
@@ -24,3 +25,7 @@ Congress finds that—
     - **(A)** from 2003 to 2007, the value of food imports has increased from $45,600,000,000 to $64,000,000,000; and
     - **(B)** imported food accounts for 13 percent of the average American diet including 31 percent of fruits, juices, and nuts, 9.5 percent of red meat, and 78.6 percent of fish and shellfish; and
   - **(5)** the number of full-time equivalent Food and Drug Administration employees conducting inspections has decreased from 2003 to 2007.
+
+## Source Credit
+
+*([Pub. L. 110–85, title X, § 1001](https://www.govinfo.gov/link/plaw/110/public/85), Sept. 27, 2007, [121 Stat. 962](https://www.govinfo.gov/link/statute/121/962).)*

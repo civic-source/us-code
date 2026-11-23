@@ -3,9 +3,10 @@ title: "Section 663 - Impoundment or diversion of waters"
 usc_title: 16
 usc_section: "663"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 663"
-generated_at: "2026-03-30T02:54:22.887Z"
+generated_at: "2026-11-23T20:26:20.201Z"
+status: "active"
 ---
 
 # § 663. Impoundment or diversion of waters
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:22.887Z"
 - **(d)** Properties acquired for the purposes of this section shall continue to be used for such purposes, and shall not become the subject of exchange or other transactions if such exchange or other transaction would defeat the initial purpose of their acquisition.
 - **(e)** Federal lands acquired or withdrawn for Federal water-resource purposes and made available to the States or to the Secretary of the Interior for wildlife management purposes, shall be made available for such purposes in accordance with this Act, notwithstanding other provisions of law.
 - **(f)** Any lands acquired pursuant to this section by any Federal agency within the exterior boundaries of a national forest shall, upon acquisition, be added to and become national forest lands, and shall be administered as a part of the forest within which they are situated, subject to all laws applicable to lands acquired under the provisions of the Act of March 1, 1911 ( 36 Stat. 961 ), unless such lands are acquired to carry out the National Migratory Bird Management Program.
+
+## Source Credit
+
+*(Mar. 10, 1934, ch. 55, § 3, [48 Stat. 401](https://www.govinfo.gov/link/statute/48/401); 1940 Reorg. Plan No. III, § 3, eff. June 30, 1940, 5 F.R. 2108, [54 Stat. 1232](https://www.govinfo.gov/link/statute/54/1232); Aug. 14, 1946, ch. 965, [60 Stat. 1081](https://www.govinfo.gov/link/statute/60/1081); [Pub. L. 85–624, § 2](https://www.govinfo.gov/link/plaw/85/public/624), Aug. 12, 1958, [72 Stat. 566](https://www.govinfo.gov/link/statute/72/566).)*

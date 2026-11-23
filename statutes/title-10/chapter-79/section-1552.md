@@ -3,9 +3,10 @@ title: "Section 1552 - Correction of military records: claims incident thereto"
 usc_title: 10
 usc_section: "1552"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1552"
-generated_at: "2026-03-30T02:53:38.128Z"
+generated_at: "2026-11-23T20:25:51.365Z"
+status: "active"
 ---
 
 # § 1552. Correction of military records: claims incident thereto
@@ -52,3 +53,110 @@ generated_at: "2026-03-30T02:53:38.128Z"
   - **(4)** The number and disposition of claims decided during the calendar quarter preceding the calendar quarter in which such information is made available in which sexual assault is alleged to have contributed, whether in whole or in part, to the original characterization of the discharge or release of the former member.
 - **(j)** For a recommendation to award or upgrade a military decoration or award submitted pursuant to section 1130 of this title , a board determination in favor of the claimant shall allow such a recommendation to proceed, and an award or upgrade to be made by the applicable award authority, without regard to the statutory time limitation contained in section 7274, section 8298, or section 9274 of this title , as the case may be.
 - **(k)** In this section, the term “military record” means a document or other record that pertains to (1) an individual member or former member of the armed forces, or (2) at the discretion of the Secretary of the military department concerned, any other military matter affecting a member or former member of the armed forces, an employee or former employee of that military department, or a dependent or current or former spouse of any such person. Such term does not include records pertaining to civilian employment matters (such as matters covered by title 5 and chapters 81, 83, 87, 108, 747, 855, 857, 871, and 947 of this title).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1552(a) | 5:191a(a) (less 2d and last provisos). 5:275(a) (less 2d and last provisos). | Aug. 2, 1946, ch. 753, § 207 ; restated Oct. 25, 1951, ch. 588 , 65 Stat. 655 . |
+| 1552(b) | 5:191a(a) (2d and last provisos). |  |
+|  | 5:275(a) (2d and last provisos). |  |
+| 1552(c) | 5:191a(b), (c). |  |
+|  | 5:275(b), (c). |  |
+| 1552(d) | 5:191a(d). |  |
+|  | 5:275(d). |  |
+| 1552(e) | 5:191a(f). |  |
+|  | 5:275(f). |  |
+| 1552(f) | 5:191a(e). |  |
+|  | 5:275(e). |  |
+
+
+Historical and Revision Notes
+
+1552(a)
+
+Aug. 2, 1946, ch. 753, § 207
+
+Oct. 25, 1951, ch. 588
+
+65 Stat. 655
+
+1552(b)
+
+1552(c)
+
+1552(d)
+
+1552(e)
+
+1552(f)
+
+Review of Titling an
+
+Indexing Decisions
+
+Factors to Be Considered
+
+Notification and Appeal.—
+
+In general
+
+Notification of next of kin
+
+Actions by the Secretary of the Army
+
+Report of Secretary of the Army
+
+Secretary of Defense Review and Report.—
+
+Review
+
+Report
+
+Definitions
+
+Policy and Process Required
+
+Covered Persons
+
+Elements
+
+Basis for correction or expungement
+
+Considerations
+
+Procedures
+
+Applicability
+
+Report
+
+In General
+
+Appeal
+
+Change of Records
+
+Definitions
+
+“The curriculum of training for members of boards for the correction of military records under section 534(c) of the National Defense Authorization Act for Fiscal Year 2017 [ Pub. L. 114–328 ] ( 10 U.S.C. 1552 note) shall include training on each of the following:
+
+In general
+
+Uniform curricula
+
+Training.—
+
+In general
+
+Current members
+
+New members
+
+Reports
+
+Secretary concerned defined
+
+“Not later than 6 months after the date of the enactment of this Act [ Dec. 12, 1989 ], the Secretary of Transportation shall—
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 116; [Pub. L. 86–533, § 1(4)](https://www.govinfo.gov/link/plaw/86/public/533), June 29, 1960, [74 Stat. 246](https://www.govinfo.gov/link/statute/74/246); [Pub. L. 96–513, title V, § 511(60)](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2925](https://www.govinfo.gov/link/statute/94/2925); [Pub. L. 98–209, § 11(a)](https://www.govinfo.gov/link/plaw/98/public/209), Dec. 6, 1983, [97 Stat. 1407](https://www.govinfo.gov/link/statute/97/1407); [Pub. L. 100–456, div. A, title XII, § 1233(a)](https://www.govinfo.gov/link/plaw/100/public/456), Sept. 29, 1988, [102 Stat. 2057](https://www.govinfo.gov/link/statute/102/2057); [Pub. L. 101–189, div. A, title V, § 514](https://www.govinfo.gov/link/plaw/101/public/189), title XVI, § 1621(a)(2), Nov. 29, 1989, [103 Stat. 1441](https://www.govinfo.gov/link/statute/103/1441), 1603; [Pub. L. 102–484, div. A, title X, § 1052(19)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2500](https://www.govinfo.gov/link/statute/106/2500); [Pub. L. 105–261, div. A, title V, § 545(a)](https://www.govinfo.gov/link/plaw/105/public/261), (b), Oct. 17, 1998, [112 Stat. 2022](https://www.govinfo.gov/link/statute/112/2022); [Pub. L. 107–296, title XVII, § 1704(b)(1)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314); [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title V, § 592(a), (b), Oct. 14, 2008, [122 Stat. 4474](https://www.govinfo.gov/link/statute/122/4474), 4475; [Pub. L. 113–291, div. A, title V, § 521(a)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3360](https://www.govinfo.gov/link/statute/128/3360); [Pub. L. 114–92, div. A, title V, § 521](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 811](https://www.govinfo.gov/link/statute/129/811); [Pub. L. 114–328, div. A, title V](https://www.govinfo.gov/link/plaw/114/public/328), §§ 533(a), 534(a), (b), Dec. 23, 2016, [130 Stat. 2121](https://www.govinfo.gov/link/statute/130/2121), 2122; [Pub. L. 115–91, div. A, title V](https://www.govinfo.gov/link/plaw/115/public/91), §§ 520(a), 521(a), (c)(1), title X, § 1081(a)(27), Dec. 12, 2017, [131 Stat. 1379](https://www.govinfo.gov/link/statute/131/1379), 1380, 1595; [Pub. L. 115–232, div. A, title VIII, § 809(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1840](https://www.govinfo.gov/link/statute/132/1840); [Pub. L. 116–92, div. A, title V](https://www.govinfo.gov/link/plaw/116/public/92), §§ 521(a), 523(b)(2)(A), Dec. 20, 2019, [133 Stat. 1353](https://www.govinfo.gov/link/statute/133/1353), 1354; [Pub. L. 116–283, div. A, title IX, § 924(b)(2)(A)(vi)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3821](https://www.govinfo.gov/link/statute/134/3821); [Pub. L. 117–263, div. A, title V, § 581](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2610](https://www.govinfo.gov/link/statute/136/2610); [Pub. L. 118–159, div. A, title V, § 523(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1884](https://www.govinfo.gov/link/statute/138/1884).)*

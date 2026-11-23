@@ -3,9 +3,10 @@ title: "Section 985 - Civil forfeiture of real property"
 usc_title: 18
 usc_section: "985"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 985"
-generated_at: "2026-03-30T02:54:16.478Z"
+generated_at: "2026-11-23T20:26:08.446Z"
+status: "active"
 ---
 
 # § 985. Civil forfeiture of real property
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:54:16.478Z"
   - **(1)** applies only to civil forfeitures of real property and interests in real property;
   - **(2)** does not apply to forfeitures of the proceeds of the sale of such property or interests, or of money or other assets intended to be used to acquire such property or interests; and
   - **(3)** shall not affect the authority of the court to enter a restraining order relating to real property.
+
+## Source Credit
+
+*(Added [Pub. L. 106–185, § 7(a)](https://www.govinfo.gov/link/plaw/106/public/185), Apr. 25, 2000, [114 Stat. 214](https://www.govinfo.gov/link/statute/114/214).)*

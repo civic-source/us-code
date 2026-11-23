@@ -3,9 +3,10 @@ title: "Section 41705 - Discrimination against individuals with disabilities"
 usc_title: 49
 usc_section: "41705"
 chapter: 417
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 41705"
-generated_at: "2026-03-30T02:56:19.376Z"
+generated_at: "2026-11-23T20:27:35.098Z"
+status: "active"
 ---
 
 # § 41705. Discrimination against individuals with disabilities
@@ -27,3 +28,82 @@ generated_at: "2026-03-30T02:56:19.376Z"
   - **(4)** Not later than 180 days after the date of the enactment of this subsection, the Secretary shall—
     - **(A)** implement a plan, in consultation with the Department of Justice, the United States Architectural and Transportation Barriers Compliance Board, and the National Council on Disability, to provide technical assistance to air carriers and individuals with disabilities in understanding the rights and responsibilities set forth in this section; and
     - **(B)** ensure the availability and provision of appropriate technical assistance manuals to individuals and entities with rights or responsibilities under this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 41705 | 49 App.:1374(c). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 404(c); added Oct. 2, 1986 , Pub. L. 99–435, § 2(a) , 100 Stat. 1080 . |
+
+
+In General
+
+Each Act Constitutes Separate Offense
+
+Investigation of Complaints.—
+
+In general
+
+Publication of data
+
+Review and report
+
+Technical assistance
+
+Historical and Revision Notes
+
+41705
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Oct. 2, 1986
+
+Pub. L. 99–435, § 2(a)
+
+100 Stat. 1080
+
+In General
+
+Types of Assistance
+
+Rulemaking
+
+Considerations
+
+Final Rule
+
+Establishment
+
+Duties
+
+Membership.—
+
+In general
+
+Appointment
+
+Vacancies
+
+Chairperson
+
+Travel Expenses
+
+Reports.—
+
+In general
+
+Report to congress
+
+Termination
+
+Termination of the Next Generation Air Transportation System Senior Policy Committee
+
+In General
+
+Best Practices
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1141](https://www.govinfo.gov/link/statute/108/1141); [Pub. L. 106–181, title VII, § 707(a)](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 158](https://www.govinfo.gov/link/statute/114/158); [Pub. L. 108–176, title V, § 503(d)(1)](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2559](https://www.govinfo.gov/link/statute/117/2559); [Pub. L. 118–63, title V](https://www.govinfo.gov/link/plaw/118/public/63), §§ 549, 550(c), May 16, 2024, [138 Stat. 1212](https://www.govinfo.gov/link/statute/138/1212).)*

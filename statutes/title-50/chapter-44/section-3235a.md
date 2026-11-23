@@ -3,9 +3,10 @@ title: "Section 3235a - Notice and damage assessment with respect to significant
 usc_title: 50
 usc_section: "3235a"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3235a"
-generated_at: "2026-03-30T02:56:26.239Z"
+generated_at: "2026-11-23T20:27:30.945Z"
+status: "active"
 ---
 
 # § 3235a. Notice and damage assessment with respect to significant unauthorized disclosure or compromise of classified national intelligence
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:26.239Z"
     - **(B)** provide to the congressional intelligence committees a briefing on such documents and materials and a status of the damage assessment.
   - **(2)** As soon as practicable after completing a damage assessment pursuant to subsection (a)(1)(B), the Director of National Intelligence shall submit the final damage assessment to the congressional intelligence committees.
 - **(c)** If a referral is made to the Department of Justice from any element of the intelligence community regarding a significant unauthorized disclosure or compromise of classified national intelligence under this section, the Director of National Intelligence shall notify the congressional intelligence committees of the referral on the date such referral is made.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title XI, § 1105A, as added [Pub. L. 118–31, div. G, title III, § 7315](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1031](https://www.govinfo.gov/link/statute/137/1031).)*

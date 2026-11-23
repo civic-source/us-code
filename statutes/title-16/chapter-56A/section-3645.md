@@ -3,9 +3,10 @@ title: "Section 3645 - Northern and Southern Funds; treaty implementation; addit
 usc_title: 16
 usc_section: "3645"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3645"
-generated_at: "2026-03-30T02:54:23.019Z"
+generated_at: "2026-11-23T20:26:20.667Z"
+status: "active"
 ---
 
 # § 3645. Northern and Southern Funds; treaty implementation; additional authorization of appropriations
@@ -40,3 +41,9 @@ generated_at: "2026-03-30T02:54:23.019Z"
   - **(2)**
     - **(A)** For salmon habitat restoration, salmon stock enhancement, sustainable salmon fisheries, and salmon research, including the construction of salmon research and related facilities, there is authorized to be appropriated for each of fiscal years 2000, 2001, 2002, and 1 1 So in original. The word “and” probably should not appear. 2003, 2005, 2006, 2007, 2008, and 2009, $90,000,000 to the States of Alaska, Washington, Oregon, Idaho, Nevada, and California. Amounts appropriated pursuant to this subparagraph shall be made available as direct payments. The State of Alaska may allocate a portion of any funds it receives under this subsection to eligible activities outside Alaska.
     - **(B)** For salmon habitat restoration, salmon stock enhancement, salmon research, and supplementation activities, there is authorized to be appropriated in each of fiscal years 2000, 2001, 2002, and 2003, $10,000,000 to be divided between the Pacific Coastal tribes (as defined by the Secretary of Commerce) and the Columbia River tribes (as defined by the Secretary of Commerce).
+
+Fund Management.—
+
+## Source Credit
+
+*([Pub. L. 99–5, § 16](https://www.govinfo.gov/link/plaw/99/public/5), formerly [Pub. L. 106–113, div. B, § 1000(a)(1) [title VI, § 623]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1535](https://www.govinfo.gov/link/statute/113/1535), 1501A–56; [Pub. L. 106–553, § 1(a)(2) [title VI, § 628]](https://www.govinfo.gov/link/plaw/106/public/553), Dec. 21, 2000, [114 Stat. 2762](https://www.govinfo.gov/link/statute/114/2762), 2762A–108; [Pub. L. 108–447, div. B, title II](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 2881](https://www.govinfo.gov/link/statute/118/2881); renumbered [Pub. L. 99–5, § 16](https://www.govinfo.gov/link/plaw/99/public/5), and amended [Pub. L. 109–479, title III, § 302(d)](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3623](https://www.govinfo.gov/link/statute/120/3623); [Pub. L. 111–8, div. B, title I, § 110](https://www.govinfo.gov/link/plaw/111/public/8), Mar. 11, 2009, [123 Stat. 569](https://www.govinfo.gov/link/statute/123/569).)*

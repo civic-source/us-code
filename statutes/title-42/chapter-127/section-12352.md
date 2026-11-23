@@ -3,9 +3,10 @@ title: "Section 12352 - “Family resource and support programs” defined"
 usc_title: 42
 usc_section: "12352"
 chapter: 127
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12352"
-generated_at: "2026-03-30T02:56:11.413Z"
+generated_at: "2026-11-23T20:27:23.356Z"
+status: "active"
 ---
 
 # § 12352. “Family resource and support programs” defined
@@ -15,3 +16,7 @@ As used in this part, the term “family resource and support programs” means 
   - **(1)** the provision of assistance to build family skills and assist parents in improving their capacities to be supportive and nurturing parents;
   - **(2)** the provision of assistance to families to enable such families to use other formal and informal resources and opportunities for assistance that are available within the communities of such families; and
   - **(3)** the creation of supportive networks to enhance the childrearing capacity of parents and assist in compensating for the increased social isolation and vulnerability of families.
+
+## Source Credit
+
+*([Pub. L. 101–501, title IX, § 957](https://www.govinfo.gov/link/plaw/101/public/501), Nov. 3, 1990, [104 Stat. 1278](https://www.govinfo.gov/link/statute/104/1278).)*

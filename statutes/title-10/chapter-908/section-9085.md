@@ -3,9 +3,10 @@ title: "Section 9085 - Office of the Chief of Space Operations: general duties"
 usc_title: 10
 usc_section: "9085"
 chapter: 908
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 9085"
-generated_at: "2026-03-30T02:53:38.256Z"
+generated_at: "2026-11-23T20:25:52.286Z"
+status: "active"
 ---
 
 # § 9085. Office of the Chief of Space Operations: general duties
@@ -17,3 +18,11 @@ generated_at: "2026-03-30T02:53:38.256Z"
   - **(3)** prepare detailed instructions for the execution of approved plans and supervise the execution of those plans and instructions;
   - **(4)** as directed by the Secretary of the Air Force or the Chief of Space Operations, coordinate the action of organizations of the Space Force; and
   - **(5)** perform such other duties, not otherwise assigned by law, as may be prescribed by the Secretary of the Air Force.
+
+Professional Assistance
+
+Authorities
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. A, title IX, § 921(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3805](https://www.govinfo.gov/link/statute/134/3805), § 9084; renumbered § 9085, [Pub. L. 118–159, div. A, title V, § 509C(a)(1)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1873](https://www.govinfo.gov/link/statute/138/1873).)*

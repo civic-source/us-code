@@ -3,9 +3,10 @@ title: "Section 4113 - Assistance for displaced tenants"
 usc_title: 12
 usc_section: "4113"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4113"
-generated_at: "2026-03-30T02:53:53.501Z"
+generated_at: "2026-11-23T20:25:59.365Z"
+status: "active"
 ---
 
 # § 4113. Assistance for displaced tenants
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:53.501Z"
       - **(i)** a low-income family; or
       - **(ii)** a moderate-income family that is: (I) an elderly family; (II) a disabled family; or (III) residing in a low-vacancy area; and
     - **(B)** residing in eligible low-income housing on the date of the prepayment of the mortgage or voluntary termination of the insurance contract.
+
+## Source Credit
+
+*([Pub. L. 100–242, title II, § 223](https://www.govinfo.gov/link/plaw/100/public/242), as added [Pub. L. 101–625, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4264](https://www.govinfo.gov/link/statute/104/4264); amended [Pub. L. 105–276, title V, § 550(d)](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2610](https://www.govinfo.gov/link/statute/112/2610); [Pub. L. 106–74, title V, § 538(c)](https://www.govinfo.gov/link/plaw/106/public/74), Oct. 20, 1999, [113 Stat. 1123](https://www.govinfo.gov/link/statute/113/1123).)*

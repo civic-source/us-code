@@ -3,9 +3,10 @@ title: "Section 839g - Savings provisions"
 usc_title: 16
 usc_section: "839g"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 839g"
-generated_at: "2026-03-30T02:54:22.933Z"
+generated_at: "2026-11-23T20:26:20.332Z"
+status: "active"
 ---
 
 # § 839g. Savings provisions
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:22.933Z"
 - **(g)** Nothing in this chapter shall be construed to affect or modify the right of any State to prohibit utilities regulated by the appropriate State regulatory body from recovering, through their retail rates, costs during any period of resource construction.
 - **(h)** Nothing in this chapter shall be construed as authorizing the appropriation of water by any Federal, State, or local agency, Indian tribe, or any other entity or individual. Nor shall any provision of this chapter of any plan or program adopted pursuant to the chapter (1) affect the rights or jurisdictions of the United States, the States, Indian tribes, or other entities over waters of any river or stream or over any groundwater resource, (2) alter, amend, repeal, interpret, modify, or be in conflict with any interstate compact made by the States, or (3) otherwise be construed to alter or establish the respective rights of States, the United States, Indian tribes, or any person with respect to any water or water-related right.
 - **(i)** Nothing in this chapter shall be construed to affect the validity of any existing license, permit, or certificate issued by any Federal agency pursuant to any other Federal law.
+
+## Source Credit
+
+*([Pub. L. 96–501, § 10](https://www.govinfo.gov/link/plaw/96/public/501), Dec. 5, 1980, [94 Stat. 2734](https://www.govinfo.gov/link/statute/94/2734).)*

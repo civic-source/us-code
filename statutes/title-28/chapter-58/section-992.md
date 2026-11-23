@@ -3,9 +3,10 @@ title: "Section 992 - Terms of office; compensation"
 usc_title: 28
 usc_section: "992"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 992"
-generated_at: "2026-03-30T02:55:30.137Z"
+generated_at: "2026-11-23T20:26:36.423Z"
+status: "active"
 ---
 
 # § 992. Terms of office; compensation
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:30.137Z"
     - **(B)** the date on which the Congress adjourns sine die to end the session of Congress that commences after the date on which the member’s term expired.
 - **(c)** The Chair and Vice Chairs of the Commission shall hold full-time positions and shall be compensated during their terms of office at the annual rate at which judges of the United States courts of appeals are compensated. The voting members of the Commission, other than the Chair and Vice Chairs, shall hold full-time positions until the end of the first six years after the sentencing guidelines go into effect pursuant to section 235(a)(1)(B)(ii) of the Sentencing Reform Act of 1984, and shall be compensated at the annual rate at which judges of the United States courts of appeals are compensated. Thereafter, the voting members of the Commission, other than the Chair and Vice Chairs,, 1 1 So in original. shall hold part-time positions and shall be paid at the daily rate at which judges of the United States courts of appeals are compensated. A Federal judge may serve as a member of the Commission without resigning the judge’s appointment as a Federal judge.
 - **(d)** Sections 44(c) and 134(b) of this title (relating to the residence of judges) do not apply to any judge holding a full-time position on the Commission under subsection (c) of this section.
+
+## Source Credit
+
+*(Added [Pub. L. 98–473, title II, § 217(a)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2018](https://www.govinfo.gov/link/statute/98/2018); amended [Pub. L. 99–646](https://www.govinfo.gov/link/plaw/99/public/646), §§ 4, 6(a), Nov. 10, 1986, [100 Stat. 3592](https://www.govinfo.gov/link/statute/100/3592); [Pub. L. 102–349, § 1](https://www.govinfo.gov/link/plaw/102/public/349), Aug. 26, 1992, [106 Stat. 933](https://www.govinfo.gov/link/statute/106/933); [Pub. L. 103–322, title XXVIII, § 280005(b)](https://www.govinfo.gov/link/plaw/103/public/322), (c)(1), (3), Sept. 13, 1994, [108 Stat. 2096](https://www.govinfo.gov/link/statute/108/2096), 2097.)*

@@ -3,9 +3,10 @@ title: "Section 5107a - State permits valid in certain waters"
 usc_title: 16
 usc_section: "5107a"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 5107a"
-generated_at: "2026-03-30T02:54:23.050Z"
+generated_at: "2026-11-23T20:26:20.763Z"
+status: "active"
 ---
 
 # § 5107a. State permits valid in certain waters
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:23.050Z"
   - **(3)** south of Vinalhaven in the area located west of the line 43° 52′ 21′′ N, 68° 39′ 54′′ W and 43° 48′ 10′′ N, 69° 08′ 01′′ W; and
   - **(4)** south of Bois Bubert Island in the area located north of the line 44° 19′ 15′′ N, 67° 49′ 30′′ W and 44° 23′ 45′′ N, 67° 40′ 33′′ W.
 - **(b)** The exemption from Federal fishery permitting requirements granted by subsection (a) may be revoked or suspended by the Secretary in accordance with section 308(g) of the Magnuson-Stevens Fishery Conservation and Management Act ( 16 U.S.C. 1858(g) ) for violations of such Act or this chapter.
+
+## Source Credit
+
+*([Pub. L. 103–206, title VIII, § 809](https://www.govinfo.gov/link/plaw/103/public/206), as added [Pub. L. 104–297, title IV, § 404(c)](https://www.govinfo.gov/link/plaw/104/public/297), Oct. 11, 1996, [110 Stat. 3619](https://www.govinfo.gov/link/statute/110/3619); amended [Pub. L. 106–555, title I, § 122(b)(3)](https://www.govinfo.gov/link/plaw/106/public/555), Dec. 21, 2000, [114 Stat. 2766](https://www.govinfo.gov/link/statute/114/2766).)*

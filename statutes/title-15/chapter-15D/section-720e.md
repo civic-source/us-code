@@ -3,9 +3,10 @@ title: "Section 720e - Judicial review"
 usc_title: 15
 usc_section: "720e"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 720e"
-generated_at: "2026-03-30T02:54:08.120Z"
+generated_at: "2026-11-23T20:26:03.916Z"
+status: "active"
 ---
 
 # § 720e. Judicial review
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:08.120Z"
     - **(E)** the Alaska National Interest Lands Conservation Act ( 16 U.S.C. 3101 et seq.).
 - **(b)** A claim arising under this chapter may be brought not later than 60 days after the date of the decision or action giving rise to the claim.
 - **(c)** The United States Court of Appeals for the District of Columbia Circuit shall set any action brought under subsection (a) for expedited consideration, taking into account the national interest of enhancing national energy security by providing access to the significant gas reserves in Alaska needed to meet the anticipated demand for natural gas.
+
+## Source Credit
+
+*([Pub. L. 108–324, div. C, § 107](https://www.govinfo.gov/link/plaw/108/public/324), Oct. 13, 2004, [118 Stat. 1261](https://www.govinfo.gov/link/statute/118/1261); [Pub. L. 111–11, title XIII, § 13003](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1448](https://www.govinfo.gov/link/statute/123/1448); [Pub. L. 113–287, § 5(c)](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3264](https://www.govinfo.gov/link/statute/128/3264).)*

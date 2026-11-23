@@ -3,9 +3,10 @@ title: "Section 939 - Administration by Secretary"
 usc_title: 33
 usc_section: "939"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 939"
-generated_at: "2026-03-30T02:55:41.078Z"
+generated_at: "2026-11-23T20:26:53.945Z"
+status: "active"
 ---
 
 # § 939. Administration by Secretary
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:41.078Z"
 - **(c)**
   - **(1)** The Secretary shall, upon request, provide persons covered by this chapter with information and assistance relating to the chapter’s coverage and compensation and the procedures for obtaining such compensation and including assistance in processing a claim. The Secretary may, upon request, provide persons covered by this chapter with legal assistance in processing a claim. The Secretary shall also provide employees receiving compensation information on medical, manpower, and vocational rehabilitation services and assist such employees in obtaining the best such services available.
   - **(2)** The Secretary shall direct the vocational rehabilitation of permanently disabled employees and shall arrange with the appropriate public or private agencies in States or Territories, possessions, or the District of Columbia for such rehabilitation. The Secretary may in his discretion furnish such prosthetic appliances or other apparatus made necessary by an injury upon which an award has been made under this chapter to render a disabled employee fit to engage in a remunerative occupation. Where necessary rehabilitation services are not available otherwise, the Secretary of Labor may, in his discretion, use the fund provided for in section 944 of this title in such amounts as may be necessary to procure such services, including necessary prosthetic appliance or other apparatus. This fund shall also be available in such amounts as may be authorized in annual appropriations for the Department of Labor for the costs of administering this subsection.
+
+## Source Credit
+
+*(Mar. 4, 1927, ch. 509, § 39, [44 Stat. 1442](https://www.govinfo.gov/link/statute/44/1442); June 25, 1936, ch. 804, [49 Stat. 1921](https://www.govinfo.gov/link/statute/49/1921); June 25, 1948, ch. 646, § 32(b), [62 Stat. 991](https://www.govinfo.gov/link/statute/62/991); May 24, 1949, ch. 139, § 127, [63 Stat. 107](https://www.govinfo.gov/link/statute/63/107); Oct. 28, 1949, ch. 782, title XI, § 1106(a), [63 Stat. 972](https://www.govinfo.gov/link/statute/63/972); July 26, 1956, ch. 735, § 7, [70 Stat. 656](https://www.govinfo.gov/link/statute/70/656); [Pub. L. 92–576, § 17](https://www.govinfo.gov/link/plaw/92/public/576), Oct. 27, 1972, [86 Stat. 1262](https://www.govinfo.gov/link/statute/86/1262); [Pub. L. 98–426, § 27(a)(2)](https://www.govinfo.gov/link/plaw/98/public/426), (c), Sept. 28, 1984, [98 Stat. 1654](https://www.govinfo.gov/link/statute/98/1654).)*

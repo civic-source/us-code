@@ -3,9 +3,10 @@ title: "Section 2326c - Reservoir sediment"
 usc_title: 33
 usc_section: "2326c"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2326c"
-generated_at: "2026-03-30T02:55:41.124Z"
+generated_at: "2026-11-23T20:26:54.182Z"
+status: "active"
 ---
 
 # § 2326c. Reservoir sediment
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:41.124Z"
 - **(d)** In exchange for providing services under subsection (a), a non-Federal interest or commercial entity is authorized to retain, use, recycle, sell, or otherwise dispose of any sediment removed in connection with the services and the Corps of Engineers may not seek any compensation for the value of the sediment.
 - **(e)** Prior to accepting services provided by a non-Federal interest or commercial entity under this section, the Secretary shall provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate written notice of the acceptance of the services.
 - **(f)** Not later than 3 years after October 23, 2018 , the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report describing the results of the program under this section.
+
+## Source Credit
+
+*([Pub. L. 106–541, title II, § 215](https://www.govinfo.gov/link/plaw/106/public/541), Dec. 11, 2000, [114 Stat. 2594](https://www.govinfo.gov/link/statute/114/2594); [Pub. L. 114–322, title I, § 1115(a)](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1638](https://www.govinfo.gov/link/statute/130/1638); [Pub. L. 115–270, title I, § 1146](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3786](https://www.govinfo.gov/link/statute/132/3786).)*

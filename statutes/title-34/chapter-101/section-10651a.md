@@ -3,9 +3,10 @@ title: "Section 10651a - Veteran Treatment Court Program"
 usc_title: 34
 usc_section: "10651a"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10651a"
-generated_at: "2026-03-30T02:55:33.274Z"
+generated_at: "2026-11-23T20:26:50.497Z"
+status: "active"
 ---
 
 # § 10651a. Veteran Treatment Court Program
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:33.274Z"
 - **(b)** The purpose of the Veterans Treatment Court Program established under subsection (a) is to ensure the Department of Justice has a single office to coordinate the provision of grants, training, and technical assistance to help State, local, and Tribal governments to develop and maintain veteran treatment courts.
 - **(c)** The Veterans Treatment Court Program established under subsection (a) shall include the grant programs relating to veterans treatment courts carried out by the Attorney General pursuant to sections 10651 and 10701 of this title or any other provision of law.
 - **(d)** The Attorney General shall promulgate regulations to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 116–153, § 3](https://www.govinfo.gov/link/plaw/116/public/153), Aug. 8, 2020, [134 Stat. 688](https://www.govinfo.gov/link/statute/134/688).)*

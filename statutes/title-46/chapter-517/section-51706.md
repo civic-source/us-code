@@ -3,9 +3,10 @@ title: "Section 51706 - Centers of excellence for domestic maritime workforce tr
 usc_title: 46
 usc_section: "51706"
 chapter: 517
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 51706"
-generated_at: "2026-03-30T02:56:15.571Z"
+generated_at: "2026-11-23T20:27:27.300Z"
+status: "active"
 ---
 
 # § 51706. Centers of excellence for domestic maritime workforce training and education
@@ -65,3 +66,51 @@ generated_at: "2026-03-30T02:56:15.571Z"
     - **(C)** non-commercial maritime activities, including—
       - **(i)** recreational boating; and
       - **(ii)** oceanographic and limnological research as described in section 2101(26).
+
+Designation.—
+
+In general
+
+Withdrawal of designation
+
+Grant Program.—
+
+In general
+
+Grant proposal
+
+Criteria for award of grants
+
+Competitive awards.—
+
+In general
+
+Timing of grant notice
+
+Timing of grants
+
+Reuse of unexpended grant funds
+
+Administrative costs
+
+Prohibited use
+
+Eligible uses of grant funds
+
+Definitions
+
+Covered training entity
+
+Arctic
+
+Career and technical education
+
+Secretary
+
+Training program
+
+United states maritime industry
+
+## Source Credit
+
+*(Added [Pub. L. 115–91, div. C, title XXXV, § 3507(a)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1914](https://www.govinfo.gov/link/statute/131/1914), § 54102; renumbered § 51706, [Pub. L. 116–283, div. C, title XXXV, § 3507(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4405](https://www.govinfo.gov/link/statute/134/4405); amended [Pub. L. 117–263, div. C, title XXXV, § 3532(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3089](https://www.govinfo.gov/link/statute/136/3089); [Pub. L. 118–31, div. C, title XXXV, § 3534(k)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 834](https://www.govinfo.gov/link/statute/137/834); [Pub. L. 119–60, div. G, title LXXIII, § 7301(k)(1)(G)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1759](https://www.govinfo.gov/link/statute/139/1759).)*

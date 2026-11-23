@@ -3,9 +3,10 @@ title: "Section 420 - Transfers of excess pension assets to retiree health accou
 usc_title: 26
 usc_section: "420"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 420"
-generated_at: "2026-03-30T02:55:27.691Z"
+generated_at: "2026-11-23T20:26:45.698Z"
+status: "active"
 ---
 
 # § 420. Transfers of excess pension assets to retiree health accounts
@@ -153,3 +154,42 @@ generated_at: "2026-03-30T02:55:27.691Z"
       - **(iii)** If, as of the valuation date of any plan year in the first 4 years after the original transfer period with respect to a qualified future transfer, there would be no excess determined under this subparagraph were the applicable percentage 120 percent, then this subparagraph shall cease to apply with respect to the plan.
     - **(F)** For purposes of this paragraph, the term “original transfer period” means the transfer period under this subsection with respect to a qualified future transfer determined without regard to the election under subparagraph (A).
 - **(g)** For purposes of this section, section 430 shall be applied without regard to subsection (h)(2)(C)(iv) thereof.
+
+| For the valuation date of the plan year in the following year after the original transfer period: | The applicable percentage is: |
+| --- | --- |
+| 1st | 104 percent |
+| 2nd | 108 percent |
+| 3rd | 112 percent |
+| 4th | 116 percent |
+| 5th | 120 percent |
+
+
+1st
+
+2nd
+
+3rd
+
+4th
+
+5th
+
+In general
+
+Conforming amendments relating to pension protection act
+
+In general
+
+Transition rule
+
+Extension
+
+Benefits
+
+In general
+
+Waiver of estimated tax penalties
+
+## Source Credit
+
+*(Added [Pub. L. 101–508, title XII, § 12011(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–567](https://www.govinfo.gov/link/statute/104/1388); amended [Pub. L. 103–465, title VII, § 731(a)](https://www.govinfo.gov/link/plaw/103/public/465) –(c)(3), Dec. 8, 1994, [108 Stat. 5003](https://www.govinfo.gov/link/statute/108/5003), 5004; [Pub. L. 104–188, title I, § 1704(a)](https://www.govinfo.gov/link/plaw/104/public/188), (t)(32), Aug. 20, 1996, [110 Stat. 1878](https://www.govinfo.gov/link/statute/110/1878), 1889; [Pub. L. 106–170, title V, § 535(a)(1)](https://www.govinfo.gov/link/plaw/106/public/170), (b), Dec. 17, 1999, [113 Stat. 1934](https://www.govinfo.gov/link/statute/113/1934); [Pub. L. 108–218, title II, § 204(a)](https://www.govinfo.gov/link/plaw/108/public/218), Apr. 10, 2004, [118 Stat. 609](https://www.govinfo.gov/link/statute/118/609); [Pub. L. 108–357, title VII, § 709(b)(1)](https://www.govinfo.gov/link/plaw/108/public/357), (2), Oct. 22, 2004, [118 Stat. 1551](https://www.govinfo.gov/link/statute/118/1551), 1552; [Pub. L. 109–280, title I, § 114(d)](https://www.govinfo.gov/link/plaw/109/public/280), title VIII, §§ 841(a), 842(a), Aug. 17, 2006, [120 Stat. 854](https://www.govinfo.gov/link/statute/120/854), 1005, 1009; [Pub. L. 110–28, title VI](https://www.govinfo.gov/link/plaw/110/public/28), §§ 6612(a), (b), 6613(a), May 25, 2007, [121 Stat. 181](https://www.govinfo.gov/link/statute/121/181); [Pub. L. 110–458, title I, § 108(i)(1)](https://www.govinfo.gov/link/plaw/110/public/458), (2), Dec. 23, 2008, [122 Stat. 5110](https://www.govinfo.gov/link/statute/122/5110); [Pub. L. 112–141, div. D, title II](https://www.govinfo.gov/link/plaw/112/public/141), §§ 40211(a)(2)(D), 40241(a), 40242(a)–(c), (e)(1)–(13), (f), (g), July 6, 2012, [126 Stat. 847](https://www.govinfo.gov/link/statute/126/847), 859, 860, 862, 863; [Pub. L. 113–97, title II, § 202(c)(7)](https://www.govinfo.gov/link/plaw/113/public/97), Apr. 7, 2014, [128 Stat. 1137](https://www.govinfo.gov/link/statute/128/1137); [Pub. L. 114–41, title II, § 2007(a)](https://www.govinfo.gov/link/plaw/114/public/41), July 31, 2015, [129 Stat. 459](https://www.govinfo.gov/link/statute/129/459); [Pub. L. 115–141, div. U, title IV, § 401(a)(97)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1188](https://www.govinfo.gov/link/statute/132/1188); [Pub. L. 116–260, div. N, title II, § 285(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 1988](https://www.govinfo.gov/link/statute/134/1988); [Pub. L. 117–328, div. T, title VI, § 606(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5396](https://www.govinfo.gov/link/statute/136/5396).)*

@@ -3,9 +3,10 @@ title: "Section 7511d - Enforcement for Severe and Extreme ozone nonattainment a
 usc_title: 42
 usc_section: "7511d"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7511d"
-generated_at: "2026-03-30T02:56:11.309Z"
+generated_at: "2026-11-23T20:27:22.886Z"
+status: "active"
 ---
 
 # § 7511d. Enforcement for Severe and Extreme ozone nonattainment areas for failure to attain
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.309Z"
 - **(c)** Notwithstanding any provision of this section, no source shall be required to pay any fee under subsection (a) with respect to emissions during any year that is treated as an Extension Year under section 7511(a)(5) of this title .
 - **(d)** If the Administrator has found that the fee provisions of the implementation plan do not meet the requirements of this section, or if the Administrator makes a finding that the State is not administering and enforcing the fee required under this section, the Administrator shall, in addition to any other action authorized under this subchapter, collect, in accordance with procedures promulgated by the Administrator, the unpaid fees required under subsection (a). If the Administrator makes such a finding under section 7509(a)(4) of this title , the Administrator may collect fees for periods before the determination, plus interest computed in accordance with section 6621(a)(2) of title 26 (relating to computation of interest on underpayment of Federal taxes), to the extent the Administrator finds such fees have not been paid to the State. The provisions of clauses (ii) through (iii) of section 7661a(b)(3)(C) of this title (relating to penalties and use of the funds, respectively) shall apply with respect to fees collected under this subsection.
 - **(e)** For areas with a total population under 200,000 which fail to attain the standard by the applicable attainment date, no sanction under this section or under any other provision of this chapter shall apply if the area can demonstrate, consistent with guidance issued by the Administrator, that attainment in the area is prevented because of ozone or ozone precursors transported from other areas. The prohibition applies only in cases in which the area has met all requirements and implemented all measures applicable to the area under this chapter.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 185, as added [Pub. L. 101–549, title I, § 103](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2450](https://www.govinfo.gov/link/statute/104/2450).)*

@@ -3,9 +3,10 @@ title: "Section 331 - Centers of expertise for Coast Guard prevention and respon
 usc_title: 14
 usc_section: "331"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 331"
-generated_at: "2026-03-30T02:53:51.488Z"
+generated_at: "2026-11-23T20:25:54.516Z"
+status: "active"
 ---
 
 # § 331. Centers of expertise for Coast Guard prevention and response
@@ -27,3 +28,37 @@ generated_at: "2026-03-30T02:53:51.488Z"
     - **(A)** the ability of the Coast Guard or the department in which the Coast Guard is operating, any employee of the Coast Guard or the department, or any member of the Armed Forces to carry out any responsibility or duty in a fair and objective manner; or
     - **(B)** the integrity of any program of the Coast Guard, the department in which the Coast Guard is operating, or of any individual involved in such a program.
   - **(3)** The Commandant shall prescribe written guidance setting forth the criteria to be used in determining whether or not the acceptance of a donation from a foreign source would have a result described in paragraph (2).
+
+Establishment
+
+Missions
+
+Joint Operation With Educational Institution Authorized
+
+Acceptance of Donations.—
+
+In General
+
+Location
+
+Functions
+
+Definition
+
+Establishment
+
+Missions
+
+Blue Technology Exposition; Briefing
+
+Definitions
+
+Center
+
+Commandant
+
+Blue technology
+
+## Source Credit
+
+*(Added [Pub. L. 111–281, title V, § 521(a)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2955](https://www.govinfo.gov/link/statute/124/2955), § 58; amended [Pub. L. 113–281, title II, § 204](https://www.govinfo.gov/link/plaw/113/public/281), Dec. 18, 2014, [128 Stat. 3025](https://www.govinfo.gov/link/statute/128/3025); [Pub. L. 115–232, div. C, title XXXV, § 3531(c)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2320](https://www.govinfo.gov/link/statute/132/2320); renumbered § 313 and amended [Pub. L. 115–282, title I](https://www.govinfo.gov/link/plaw/115/public/282), §§ 104(b), 123(b)(2), Dec. 4, 2018, [132 Stat. 4196](https://www.govinfo.gov/link/statute/132/4196), 4240; [Pub. L. 116–283, div. G, title LVXXXV](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXV], § 8505(a)(2), Jan. 1, 2021, [134 Stat. 4747](https://www.govinfo.gov/link/statute/134/4747); renumbered § 331, [Pub. L. 119–60, div. G, title LXXII, § 7201(b)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1675](https://www.govinfo.gov/link/statute/139/1675).)*

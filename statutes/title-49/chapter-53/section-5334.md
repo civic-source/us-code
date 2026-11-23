@@ -3,9 +3,10 @@ title: "Section 5334 - Administrative provisions"
 usc_title: 49
 usc_section: "5334"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 5334"
-generated_at: "2026-03-30T02:56:19.316Z"
+generated_at: "2026-11-23T20:27:34.669Z"
+status: "active"
 ---
 
 # § 5334. Administrative provisions
@@ -73,3 +74,191 @@ generated_at: "2026-03-30T02:56:19.316Z"
 - **(k)**
   - **(1)** The Administrator of the Federal Transit Administration shall follow applicable rulemaking procedures under section 553 of title 5 before the Federal Transit Administration issues a statement that imposes a binding obligation on recipients of Federal assistance under this chapter.
   - **(2)** In this subsection, the term “binding obligation” means a substantive policy statement, rule, or guidance document issued by the Federal Transit Administration that grants rights, imposes obligations, produces significant effects on private interests, or effects a significant change in existing policy.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5334(a) | 49 App.:1608(a) (1st sentence related to 12:1749a(c) (1)–(3) (1st sentence), (4)–(8), (10)). | July 9, 1964 , Pub. L. 88–365, § 12(a) , 78 Stat. 306 ; Sept. 8, 1966 , Pub. L. 89–562, § 2(a)(1) , 80 Stat. 715 ; May 25, 1967 , Pub. L. 90–19, § 20(a) , 81 Stat. 25 . |
+| 5334(b) | 49 App.:1608(i)(1), (2). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 12(i)(1), (2); added Apr. 2, 1987 , Pub. L. 100–17, § 318(a) , 101 Stat. 233 . |
+|  | 49 App.:1608(i)(3). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 12(i)(3); added Dec. 18, 1991 , Pub. L. 102–240, § 3017 , 105 Stat. 2108 . |
+| 5334(c) | 49 App.:1608(a) (1st sentence related to 12:1749a(a) (less proviso)). |  |
+| 5334(d) | 49 App.:1608(a) (1st sentence related to 12:1749a(b), last sentence). |  |
+| 5334(e) | 49 App.:1608(a) (1st sentence related to 12:1749a(a) (proviso)). |  |
+| 5334(f) | 49 App.:1608(a) (1st sentence related to 12:1749a(c)(3) (last sentence)). |  |
+| 5334(g) | 49 App.:1608(k). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 12(k); added Dec. 18, 1991 , Pub. L. 102–240, § 3018 , 105 Stat. 2108 . |
+| 5334(h) | 49 App.:1607(k). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 8(k); added Nov. 6, 1978 , Pub. L. 95–599, § 305(b) , 92 Stat. 2743 ; Apr. 2, 1987 , Pub. L. 100–17, § 310 , 101 Stat. 227 ; restated Dec. 18, 1991 , Pub. L. 102–240, § 3012 , 105 Stat. 2104 ; Oct. 6, 1992 , Pub. L. 102–388, § 502(a) , 106 Stat. 1566 . |
+| 5334(i) | 49 App.:1608 (note) (related to authority and functions reserved to Secretary of Housing and Urban Development). | Reorg. Plan No. 2 of 1968, eff. June 30, 1968 , § 1(a)(1) (related to authority and functions reserved to Secretary of Housing and Urban Development), 82 Stat. 1369 . |
+| 5334(j)(1) | 49 App.:1608(a) (1st sentence related to 12:1749a(e)). |  |
+| 5334(j)(2) | 49 App.:1608(a) (1st sentence related to 12:1749a(d)). |  |
+
+
+General Authority
+
+Prohibitions Against Regulating Operations and Charges.—
+
+In general
+
+Limitation on statutory construction
+
+Procedures for Prescribing Regulations
+
+Budget Program and Set of Accounts
+
+Depository and Availability of Amounts
+
+Binding Effect of Financial Transaction
+
+Dealing With Acquired Property
+
+Transfer of Assets No Longer Needed.—
+
+In general
+
+Proceeds from the sale of transit assets.—
+
+In general
+
+Reimbursement.—
+
+Fair market value of less than $5,000
+
+Fair market value of more than $5,000.—
+
+In general
+
+Reimbursement required
+
+(aa) the recipient shall retain an amount equal to the sum of— (AA) $5,000; and (BB) of the remaining proceeds, a percentage of the amount equal to the non-Federal share expended by the recipient in making the original purchase; and
+
+(bb) any amounts remaining after application of item (aa) shall be returned to the Federal Transit Administration.
+
+Rolling stock and equipment retained
+
+Use
+
+Relationship to other authority
+
+Transfer of Amounts and Non-Government Share
+
+Notification of Pending Discretionary Grants
+
+Agency Statements.—
+
+In general
+
+Binding obligation defined
+
+Historical and Revision Notes
+
+5334(a)
+
+July 9, 1964
+
+Pub. L. 88–365, § 12(a)
+
+78 Stat. 306
+
+Sept. 8, 1966
+
+Pub. L. 89–562, § 2(a)(1)
+
+80 Stat. 715
+
+May 25, 1967
+
+Pub. L. 90–19, § 20(a)
+
+81 Stat. 25
+
+5334(b)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 318(a)
+
+101 Stat. 233
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3017
+
+105 Stat. 2108
+
+5334(c)
+
+5334(d)
+
+5334(e)
+
+5334(f)
+
+5334(g)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3018
+
+105 Stat. 2108
+
+5334(h)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Nov. 6, 1978
+
+Pub. L. 95–599, § 305(b)
+
+92 Stat. 2743
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 310
+
+101 Stat. 227
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3012
+
+105 Stat. 2104
+
+Oct. 6, 1992
+
+Pub. L. 102–388, § 502(a)
+
+106 Stat. 1566
+
+5334(i)
+
+June 30, 1968
+
+82 Stat. 1369
+
+5334(j)(1)
+
+5334(j)(2)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 836](https://www.govinfo.gov/link/statute/108/836); [Pub. L. 104–287, § 5(9)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3389](https://www.govinfo.gov/link/statute/110/3389); [Pub. L. 104–316, title I, § 127(a)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3840](https://www.govinfo.gov/link/statute/110/3840); [Pub. L. 105–178, title III](https://www.govinfo.gov/link/plaw/105/public/178), §§ 3023(c), 3025(a), (b)(1), (c), June 9, 1998, [112 Stat. 364](https://www.govinfo.gov/link/statute/112/364), 365; [Pub. L. 109–59, title III](https://www.govinfo.gov/link/plaw/109/public/59), §§ 3002(b)(4), 3032, Aug. 10, 2005, [119 Stat. 1545](https://www.govinfo.gov/link/statute/119/1545), 1626; [Pub. L. 111–350, § 5](https://www.govinfo.gov/link/plaw/111/public/350) (o)(3), Jan. 4, 2011, [124 Stat. 3853](https://www.govinfo.gov/link/statute/124/3853); [Pub. L. 112–141, div. B](https://www.govinfo.gov/link/plaw/112/public/141), §§ 20024, 20030(i), July 6, 2012, [126 Stat. 718](https://www.govinfo.gov/link/statute/126/718), 731; [Pub. L. 117–58, div. C, § 30013](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 909](https://www.govinfo.gov/link/statute/135/909); [Pub. L. 117–81, div. F, title LXVI, § 6609](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2446](https://www.govinfo.gov/link/statute/135/2446).)*

@@ -3,9 +3,10 @@ title: "Section 1163 - Qualifying event"
 usc_title: 29
 usc_section: "1163"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1163"
-generated_at: "2026-03-30T02:55:18.721Z"
+generated_at: "2026-11-23T20:26:37.985Z"
+status: "active"
 ---
 
 # § 1163. Qualifying event
@@ -18,3 +19,7 @@ For purposes of this part, the term “qualifying event” means, with respect t
   - **(4)** The covered employee becoming entitled to benefits under title XVIII of the Social Security Act [ 42 U.S.C. 1395 et seq.].
   - **(5)** A dependent child ceasing to be a dependent child under the generally applicable requirements of the plan.
   - **(6)** A proceeding in a case under title 11, commencing on or after July 1, 1986 , with respect to the employer from whose employment the covered employee retired at any time.
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 603](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 99–272, title X, § 10002(a)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 229](https://www.govinfo.gov/link/statute/100/229); amended [Pub. L. 99–509, title IX, § 9501(a)(2)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 2076](https://www.govinfo.gov/link/statute/100/2076).)*

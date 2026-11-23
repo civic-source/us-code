@@ -3,9 +3,10 @@ title: "Section 15099 - Evaluation"
 usc_title: 42
 usc_section: "15099"
 chapter: 144
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 15099"
-generated_at: "2026-03-30T02:56:11.459Z"
+generated_at: "2026-11-23T20:27:23.559Z"
+status: "active"
 ---
 
 # § 15099. Evaluation
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.459Z"
     - **(C)** interagency coordination and collaboration between agencies responsible for providing the services; and
     - **(D)** the involvement of families of children with disabilities at all levels of the statewide systems.
 - **(c)** Not later than 2½ years after October 30, 2000 , the Secretary shall prepare and submit to the appropriate committees of Congress a report concerning the results of the evaluation conducted under this section.
+
+## Source Credit
+
+*([Pub. L. 106–402, title II, § 210](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1733](https://www.govinfo.gov/link/statute/114/1733).)*

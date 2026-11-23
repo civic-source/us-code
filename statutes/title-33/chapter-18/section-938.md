@@ -3,9 +3,10 @@ title: "Section 938 - Penalties"
 usc_title: 33
 usc_section: "938"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 938"
-generated_at: "2026-03-30T02:55:41.078Z"
+generated_at: "2026-11-23T20:26:53.944Z"
+status: "active"
 ---
 
 # § 938. Penalties
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:41.078Z"
 - **(a)** Any employer required to secure the payment of compensation under this chapter who fails to secure such compensation shall be guilty of a misdemeanor and, upon conviction thereof, shall be punished by a fine of not more than $10,000, or by imprisonment for not more than one year, or by both such fine and imprisonment; and in any case where such employer is a corporation, the president, secretary, and treasurer thereof shall be also severally liable to such fine or imprisonment as herein provided for the failure of such corporation to secure the payment of compensation; and such president, secretary, and treasurer shall be severally personally liable, jointly with such corporation, for any compensation or other benefit which may accrue under the said chapter in respect to any injury which may occur to any employee of such corporation while it shall so fail to secure the payment of compensation as required by section 932 of this title .
 - **(b)** Any employer who knowingly transfers, sells, encumbers, assigns, or in any manner disposes of, conceals, secretes, or destroys any property belonging to such employer, after one of his employees has been injured within the purview of this chapter, and with intent to avoid the payment of compensation under this chapter to such employee or his dependents, shall be guilty of a misdemeanor and, upon conviction thereof, shall be punished by a fine of not more than $10,000, or by imprisonment for not more than one year, or by both such fine and imprisonment; and in any case where such employer is a corporation, the president, secretary, and treasurer thereof shall be also severally liable to such penalty of imprisonment as well as jointly liable with such corporation for such fine.
 - **(c)** This section shall not affect any other liability of the employer under this chapter.
+
+## Source Credit
+
+*(Mar. 4, 1927, ch. 509, § 38, [44 Stat. 1442](https://www.govinfo.gov/link/statute/44/1442); June 25, 1938, ch. 685, § 14, [52 Stat. 1168](https://www.govinfo.gov/link/statute/52/1168); [Pub. L. 98–426, § 22](https://www.govinfo.gov/link/plaw/98/public/426), Sept. 28, 1984, [98 Stat. 1653](https://www.govinfo.gov/link/statute/98/1653).)*

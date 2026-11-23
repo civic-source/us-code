@@ -3,9 +3,10 @@ title: "Section 2 - Privacy and data protection policies and procedures"
 usc_title: 42
 usc_section: "2"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T02:56:11.143Z"
+generated_at: "2026-11-23T20:27:22.033Z"
+status: "active"
 ---
 
 # § 2000ee–2. Privacy and data protection policies and procedures
@@ -28,3 +29,19 @@ generated_at: "2026-03-30T02:56:11.143Z"
   - **(1)** Upon completion of a review, the Inspector General of an agency shall submit to the head of that agency a detailed report on the review, including recommendations for improvements or enhancements to management of information in identifiable form, and the privacy and data protection procedures of the agency.
   - **(2)** Each agency shall make each independent third party review, and each report of the Inspector General relating to that review available to the public.
 - **(f)** In this section, the definition of “identifiable form” is consistent with Public Law 107–347 , the E-Government Act of 2002, and means any representation of information that permits the identity of an individual to whom the information applies to be reasonably inferred by either direct or indirect means.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 108–447, div. H, title V, § 522](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3268](https://www.govinfo.gov/link/statute/118/3268); [Pub. L. 110–161, div. D, title VII, § 742(b)](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2032](https://www.govinfo.gov/link/statute/121/2032).)*

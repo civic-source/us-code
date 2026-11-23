@@ -3,9 +3,10 @@ title: "Section 5177 - Unemployment assistance"
 usc_title: 42
 usc_section: "5177"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5177"
-generated_at: "2026-03-30T02:56:11.225Z"
+generated_at: "2026-11-23T20:27:22.490Z"
+status: "active"
 ---
 
 # § 5177. Unemployment assistance
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.225Z"
   - **(2)** The President may accept an application from an individual described in paragraph (1) that is submitted after the deadline described in paragraph (1) if—
     - **(A)** the individual has good cause for the late submission; and
     - **(B)** the individual submits the application before the date on which the period during which assistance is provided under this section for the applicable major disaster expires.
+
+## Source Credit
+
+*([Pub. L. 93–288, title IV, § 410](https://www.govinfo.gov/link/plaw/93/public/288), formerly § 407, May 22, 1974, [88 Stat. 156](https://www.govinfo.gov/link/statute/88/156); renumbered § 410 and amended [Pub. L. 100–707, title I, § 106(e)](https://www.govinfo.gov/link/plaw/100/public/707), (f), Nov. 23, 1988, [102 Stat. 4703](https://www.govinfo.gov/link/statute/102/4703), 4704; [Pub. L. 118–44, § 2](https://www.govinfo.gov/link/plaw/118/public/44), Mar. 18, 2024, [138 Stat. 455](https://www.govinfo.gov/link/statute/138/455).)*

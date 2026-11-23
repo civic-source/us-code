@@ -3,12 +3,17 @@ title: "Section 416 - Leases of trust or restricted lands on San Xavier and Salt
 usc_title: 25
 usc_section: "416"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 416"
-generated_at: "2026-03-30T02:54:52.808Z"
+generated_at: "2026-11-23T20:26:25.409Z"
+status: "active"
 ---
 
 # § 416. Leases of trust or restricted lands on San Xavier and Salt River Pima-Maricopa Indian Reservations for public, religious, educational, recreational, residential, business, farming or grazing purposes
 
 Any trust or restricted Indian lands, whether tribally or individually owned, located on the San Xavier Indian Reservation and the Salt River Pima-Maricopa Indian Reservation, in the State of Arizona, may be leased by the Indian owners, with the approval of the Secretary of the Interior, for public, religious, educational, recreational, residential, business, farming or grazing purposes, including the development or utilization of natural resources in connection with operations under such leases, but no lease shall be executed under sections 416 to 416j of this title for purposes that are subject to the laws governing mining leases on Indian lands. The term of a grazing lease shall not exceed ten years, the term of a farming lease that does not require the making of a substantial investment in the improvement of the land shall not exceed ten years, and the term of a farming lease that requires the making of a substantial investment in the improvement of the land shall not exceed forty years. The term of any other lease shall not exceed ninety-nine years. No lease shall contain an option to renew which, if exercised, will extend the total term beyond the maximum term permitted by sections 416 to 416j of this title. The Secretary of the Interior shall not approve any lease with a term that is longer than is necessary in his judgment to obtain maximum economic benefits for the Indian owners.
 
+
+## Source Credit
+
+*([Pub. L. 89–715, § 1](https://www.govinfo.gov/link/plaw/89/public/715), Nov. 2, 1966, [80 Stat. 1112](https://www.govinfo.gov/link/statute/80/1112).)*

@@ -3,9 +3,10 @@ title: "Section 2502 - Grants authorized"
 usc_title: 25
 usc_section: "2502"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 2502"
-generated_at: "2026-03-30T02:54:52.841Z"
+generated_at: "2026-11-23T20:26:25.597Z"
+status: "active"
 ---
 
 # § 2502. Grants authorized
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:54:52.841Z"
     - **(A)** with assistance under this chapter; or
     - **(B)** upon assumption of operation of the program under this chapter, if the school was a Bureau-funded school under title XI of the Education Amendments of 1978 [ 25 U.S.C. 2000 et seq.] before receiving assistance under this chapter.
 - **(g)** Grants provided under this chapter may not be terminated, modified, suspended, or reduced solely for the convenience of the administering agency.
+
+## Source Credit
+
+*([Pub. L. 100–297, title V, § 5203](https://www.govinfo.gov/link/plaw/100/public/297), as added [Pub. L. 107–110, title X, § 1043](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2064](https://www.govinfo.gov/link/statute/115/2064).)*

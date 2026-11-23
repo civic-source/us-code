@@ -3,9 +3,10 @@ title: "Section 1305 - Immoral articles; importation prohibited"
 usc_title: 19
 usc_section: "1305"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1305"
-generated_at: "2026-03-30T02:54:24.626Z"
+generated_at: "2026-11-23T20:26:10.725Z"
+status: "active"
 ---
 
 # § 1305. Immoral articles; importation prohibited
@@ -26,3 +27,9 @@ generated_at: "2026-03-30T02:54:24.626Z"
     - **(B)** In any matter referred to a United States attorney for possible criminal prosecution wherein subparagraph (5)(A) does not apply, the United States attorney shall immediately notify the Customs Service in writing concerning the disposition of the matter, whether by institution of a prosecution or a letter of declination, and shall also furnish a copy of the certification described in paragraph (4) of this subsection to the Customs Service.
     - **(C)** Upon receipt of the notification described in subparagraph (A) or (B) of this paragraph, the appropriate customs officer shall immediately notify the addressee or consignee of the seizure and shall transmit information concerning the seizure, including a copy of the certification described in paragraph (4) above and a copy of the notification described in subparagraph (A) or (B) of this paragraph, to the United States attorney of the district in which is situated the office at which such seizure has taken place, who shall institute forfeiture proceedings in accordance with subsection (a) hereof within 14 days of the date of the notification described in subparagraph (A) or (B) above. A copy of the certification described in paragraph (4) above and a copy of the notification described in subparagraph (A) or (B) of this paragraph shall be affixed to the complaint for forfeiture.
 - **(c)** Upon motion of the United States, a court, for good cause shown, shall stay civil forfeiture proceedings commenced under this section pending the completion of any related criminal matter whether in the same or in a different district.
+
+William J. Clinton.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title III, § 305, [46 Stat. 688](https://www.govinfo.gov/link/statute/46/688); June 25, 1948, ch. 645, § 21, [62 Stat. 862](https://www.govinfo.gov/link/statute/62/862); June 25, 1948, ch. 646, § 1, [62 Stat. 869](https://www.govinfo.gov/link/statute/62/869); [Pub. L. 91–271, title III, § 301(a)](https://www.govinfo.gov/link/plaw/91/public/271), June 2, 1970, [84 Stat. 287](https://www.govinfo.gov/link/statute/84/287); [Pub. L. 91–662, § 1](https://www.govinfo.gov/link/plaw/91/public/662), Jan. 8, 1971, [84 Stat. 1973](https://www.govinfo.gov/link/statute/84/1973); [Pub. L. 96–417, title VI, § 601(2)](https://www.govinfo.gov/link/plaw/96/public/417), Oct. 10, 1980, [94 Stat. 1744](https://www.govinfo.gov/link/statute/94/1744); [Pub. L. 100–418, title I, § 1901(a)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1312](https://www.govinfo.gov/link/statute/102/1312); [Pub. L. 100–449, title II, § 206](https://www.govinfo.gov/link/plaw/100/public/449), Sept. 28, 1988, [102 Stat. 1864](https://www.govinfo.gov/link/statute/102/1864); [Pub. L. 100–690, title VII, § 7522(e)[d]](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4500](https://www.govinfo.gov/link/statute/102/4500).)*

@@ -3,12 +3,17 @@ title: "Section 276bb - Acceptance of funds and property from Mrs. Kermit Roosev
 usc_title: 22
 usc_section: "276bb"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 276bb"
-generated_at: "2026-03-30T02:55:05.310Z"
+generated_at: "2026-11-23T20:26:31.962Z"
+status: "active"
 ---
 
 # § 276bb. Acceptance of funds and property from Mrs. Kermit Roosevelt; purpose and use; disbursement and investment of fund
 
 The board is authorized to accept from Mrs. Kermit Roosevelt such money and property as she may tender, to receipt therefor on behalf of the United States, and to deposit the funds so received in the Treasury of the United States as the original corpus of a trust fund, to be known as the Kermit Roosevelt fund, which shall be used for the purpose of fostering a better understanding and a closer relationship between the military forces of the United States and those of the United Kingdom by sponsoring lectures or courses of instruction to be delivered by officers of the British Army at the United States Military Academy and elsewhere in the United States and by officers of the United States Army at Sandhurst Royal Military College and elsewhere in the United Kingdom or, should such exchange lectures prove or become impracticable or unnecessary for any reason, by such other application of the funds as the board, with the approval of the Secretary of the Army may determine. The original corpus of the fund and the income therefrom may be disbursed at the discretion of the board in furtherance of the stated purpose, and shall be subject to investment and reinvestment as provided in section 276cc of this title .
 
+
+## Source Credit
+
+*(July 2, 1945, ch. 228, § 2, [59 Stat. 316](https://www.govinfo.gov/link/statute/59/316); July 26, 1947, ch. 343, title II, § 205(a), [61 Stat. 501](https://www.govinfo.gov/link/statute/61/501).)*

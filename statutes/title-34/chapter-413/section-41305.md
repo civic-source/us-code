@@ -3,9 +3,10 @@ title: "Section 41305 - Hate crime statistics"
 usc_title: 34
 usc_section: "41305"
 chapter: 413
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 41305"
-generated_at: "2026-03-30T02:55:33.313Z"
+generated_at: "2026-11-23T20:26:50.659Z"
+status: "active"
 ---
 
 # § 41305. Hate crime statistics
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:33.313Z"
   - **(4)** Data acquired under this section shall be used only for research or statistical purposes and may not contain any information that may reveal the identity of an individual victim of a crime.
   - **(5)** The Attorney General shall publish an annual summary of the data acquired under this section, including data about crimes committed by, and crimes directed against, juveniles.
 - **(c)** There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section through fiscal year 2002.
+
+## Source Credit
+
+*([Pub. L. 101–275, § 1](https://www.govinfo.gov/link/plaw/101/public/275), Apr. 23, 1990, [104 Stat. 140](https://www.govinfo.gov/link/statute/104/140); [Pub. L. 103–322, title XXXII, § 320926](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2131](https://www.govinfo.gov/link/statute/108/2131); [Pub. L. 104–155, § 7](https://www.govinfo.gov/link/plaw/104/public/155), July 3, 1996, [110 Stat. 1394](https://www.govinfo.gov/link/statute/110/1394); [Pub. L. 111–84, div. E, § 4708](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2841](https://www.govinfo.gov/link/statute/123/2841).)*

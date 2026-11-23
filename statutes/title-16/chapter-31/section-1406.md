@@ -3,9 +3,10 @@ title: "Section 1406 - Administration"
 usc_title: 16
 usc_section: "1406"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1406"
-generated_at: "2026-03-30T02:54:22.964Z"
+generated_at: "2026-11-23T20:26:20.474Z"
+status: "active"
 ---
 
 # § 1406. Administration
@@ -17,3 +18,7 @@ The Commission, in carrying out its responsibilities under this subchapter, may�
   - **(3)** enter into such contracts or agreements with, or provide such grants to, other organizations, both public and private;
   - **(4)** procure the services of such experts or consultants or an organization thereof as is authorized under section 3109 of title 5 (but at rates for individuals not to exceed $100 per diem); and
   - **(5)** incur such necessary expenses and exercise such other powers, as are consistent with and reasonably required to perform its functions under this subchapter; except that no fewer than 11 employees must be employed under paragraph (1) at any time. Financial and administrative services (including those related to budgeting, accounting, financial reporting, personnel, and procurement) shall be provided the Commission by the General Services Administration, for which payment shall be made in advance, or by reimbursement from funds of the Commission in such amounts as may be agreed upon by the Chairman and the Administrator of General Services.
+
+## Source Credit
+
+*([Pub. L. 92–522, title II, § 206](https://www.govinfo.gov/link/plaw/92/public/522), Oct. 21, 1972, [86 Stat. 1045](https://www.govinfo.gov/link/statute/86/1045); [Pub. L. 97–58, § 6(2)](https://www.govinfo.gov/link/plaw/97/public/58), Oct. 9, 1981, [95 Stat. 987](https://www.govinfo.gov/link/statute/95/987); [Pub. L. 98–364, title I, § 103(b)](https://www.govinfo.gov/link/plaw/98/public/364), July 17, 1984, [98 Stat. 442](https://www.govinfo.gov/link/statute/98/442).)*

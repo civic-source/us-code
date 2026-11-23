@@ -3,9 +3,10 @@ title: "Section 5624 - Transfer of positions in Corrections Calendar Office"
 usc_title: 2
 usc_section: "5624"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 5624"
-generated_at: "2026-03-30T02:53:04.838Z"
+generated_at: "2026-11-23T20:25:29.066Z"
+status: "active"
 ---
 
 # § 5624. Transfer of positions in Corrections Calendar Office
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:04.838Z"
 - **(b)** Effective with respect to fiscal year 2004 and each succeeding fiscal year, the lump sum allowance for salaries and expenses of the Corrections Calendar Office provided under House Resolution 130, One Hundred Fifth Congress, agreed to April 24, 1997 , as enacted into permanent law by section 101 of the Legislative Branch Appropriations Act, 1998 ( 2 U.S.C. 74d–1 et seq.) [now 2 U.S.C. 5622 and 5623], is transferred as follows:
   - **(1)** 63.5 percent of such allowance shall be transferred to the Office of the Speaker.
   - **(2)** 36.5 percent of such allowance shall be transferred to the Office of the Minority Leader.
+
+## Source Credit
+
+*([Pub. L. 108–83, title I, § 106](https://www.govinfo.gov/link/plaw/108/public/83), Sept. 30, 2003, [117 Stat. 1018](https://www.govinfo.gov/link/statute/117/1018).)*

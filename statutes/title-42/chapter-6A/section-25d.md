@@ -3,9 +3,10 @@ title: "Section 25d - Centers of excellence on services for individuals with fet
 usc_title: 42
 usc_section: "25d"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 25d"
-generated_at: "2026-03-30T02:56:10.762Z"
+generated_at: "2026-11-23T20:27:20.308Z"
+status: "active"
 ---
 
 # § 290bb–25d. Centers of excellence on services for individuals with fetal alcohol syndrome and alcohol-related birth defects and treatment for individuals with such conditions and their families
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:10.762Z"
 - **(d)** With respect to an award under subsection (a), the period during which payments under such award are made to the recipient may not exceed 5 years.
 - **(e)** The Secretary shall evaluate each project carried out under subsection (a) and shall disseminate the findings with respect to each such evaluation to appropriate public and private entities.
 - **(f)** For the purpose of carrying out this section, there are authorized to be appropriated $5,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title V, § 519D, as added [Pub. L. 106–310, div. B, title XXXI, § 3110](https://www.govinfo.gov/link/plaw/106/public/310), Oct. 17, 2000, [114 Stat. 1185](https://www.govinfo.gov/link/statute/114/1185).)*

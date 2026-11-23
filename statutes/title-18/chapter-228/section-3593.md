@@ -3,9 +3,10 @@ title: "Section 3593 - Special hearing to determine whether a sentence of death 
 usc_title: 18
 usc_section: "3593"
 chapter: 228
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 3593"
-generated_at: "2026-03-30T02:54:16.521Z"
+generated_at: "2026-11-23T20:26:08.745Z"
+status: "active"
 ---
 
 # § 3593. Special hearing to determine whether a sentence of death is justified
@@ -28,3 +29,19 @@ generated_at: "2026-03-30T02:54:16.521Z"
   - **(2)** an offense described in section 3591(a)(2), an aggravating factor required to be considered under section 3592(c) is found to exist; or
   - **(3)** an offense described in section 3591(b), an aggravating factor required to be considered under section 3592(d) is found to exist,
 - **(f)** In a hearing held before a jury, the court, prior to the return of a finding under subsection (e), shall instruct the jury that, in considering whether a sentence of death is justified, it shall not consider the race, color, religious beliefs, national origin, or sex of the defendant or of any victim and that the jury is not to recommend a sentence of death unless it has concluded that it would recommend a sentence of death for the crime in question no matter what the race, color, religious beliefs, national origin, or sex of the defendant or of any victim may be. The jury, upon return of a finding under subsection (e), shall also return to the court a certificate, signed by each juror, that consideration of the race, color, religious beliefs, national origin, or sex of the defendant or any victim was not involved in reaching his or her individual decision and that the individual juror would have made the same recommendation regarding a sentence for the crime in question no matter what the race, color, religious beliefs, national origin, or sex of the defendant or any victim may be.
+
+Notice by the Government
+
+Hearing Before a Court or Jury
+
+Proof of Mitigating and Aggravating Factors
+
+Return of Special Findings
+
+Return of a Finding Concerning a Sentence of Death
+
+Special Precaution To Ensure Against Discrimination
+
+## Source Credit
+
+*(Added [Pub. L. 103–322, title VI, § 60002(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1964](https://www.govinfo.gov/link/statute/108/1964); amended [Pub. L. 105–6, § 2(c)](https://www.govinfo.gov/link/plaw/105/public/6), Mar. 19, 1997, [111 Stat. 12](https://www.govinfo.gov/link/statute/111/12); [Pub. L. 107–273, div. B, title IV, § 4002(e)(8)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1810](https://www.govinfo.gov/link/statute/116/1810).)*

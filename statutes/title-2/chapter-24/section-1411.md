@@ -3,12 +3,17 @@ title: "Section 1411 - Effect of failure to issue regulations"
 usc_title: 2
 usc_section: "1411"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1411"
-generated_at: "2026-03-30T02:53:04.813Z"
+generated_at: "2026-11-23T20:25:28.972Z"
+status: "active"
 ---
 
 # § 1411. Effect of failure to issue regulations
 
 In any proceeding under section 1405, 1406, 1407, or 1408 of this title, except a proceeding to enforce section 1351 of this title with respect to offices listed under section 1351(e)(2) of this title , if the Board has not issued a regulation on a matter for which this chapter requires a regulation to be issued, the hearing officer, Board, or court, as the case may be, shall apply, to the extent necessary and appropriate, the most relevant substantive executive agency regulation promulgated to implement the statutory provision at issue in the proceeding.
 
+
+## Source Credit
+
+*([Pub. L. 104–1, title IV, § 411](https://www.govinfo.gov/link/plaw/104/public/1), Jan. 23, 1995, [109 Stat. 37](https://www.govinfo.gov/link/statute/109/37).)*

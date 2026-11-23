@@ -3,9 +3,10 @@ title: "Section 1726a - Administration"
 usc_title: 7
 usc_section: "1726a"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1726a"
-generated_at: "2026-03-30T02:53:42.337Z"
+generated_at: "2026-11-23T20:25:41.274Z"
+status: "active"
 ---
 
 # § 1726a. Administration
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:53:42.337Z"
 - **(g)**
   - **(1)** In submitting project reports to the Administrator, a private voluntary organization or cooperative shall provide a copy of the report in such form as is necessary for the report to be displayed for public use on the website of the United States Agency for International Development.
   - **(2)** An organization or cooperative described in paragraph (1) may omit any confidential information from the copy of the report submitted for public display under that paragraph.
+
+## Source Credit
+
+*(July 10, 1954, ch. 469, title II, § 207, as added [Pub. L. 99–198, title XI, § 1104(a)](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1466](https://www.govinfo.gov/link/statute/99/1466); amended [Pub. L. 100–202, § 14](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–449](https://www.govinfo.gov/link/statute/101/1329); [Pub. L. 101–624, title XV, § 1512](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3640](https://www.govinfo.gov/link/statute/104/3640); [Pub. L. 104–127, title II, § 207(b)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 954](https://www.govinfo.gov/link/statute/110/954); [Pub. L. 107–171, title III, § 3007](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 282](https://www.govinfo.gov/link/statute/116/282); [Pub. L. 110–246, title III](https://www.govinfo.gov/link/plaw/110/public/246), §§ 3012, 3018(b), June 18, 2008, [122 Stat. 1824](https://www.govinfo.gov/link/statute/122/1824), 1828; [Pub. L. 113–79, title III, § 3006(a)](https://www.govinfo.gov/link/plaw/113/public/79), (b), Feb. 7, 2014, [128 Stat. 774](https://www.govinfo.gov/link/statute/128/774), 775; [Pub. L. 115–334, title III](https://www.govinfo.gov/link/plaw/115/public/334), §§ 3106, 3107, Dec. 20, 2018, [132 Stat. 4604](https://www.govinfo.gov/link/statute/132/4604).)*

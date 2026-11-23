@@ -3,9 +3,10 @@ title: "Section 672 - Foster care maintenance payments program"
 usc_title: 42
 usc_section: "672"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 672"
-generated_at: "2026-03-30T02:56:10.889Z"
+generated_at: "2026-11-23T20:27:20.914Z"
+status: "active"
 ---
 
 # § 672. Foster care maintenance payments program
@@ -103,3 +104,7 @@ generated_at: "2026-03-30T02:56:10.889Z"
       - **(iv)** Any other independent, not-for-profit accrediting organization approved by the Secretary.
   - **(5)** The prohibition in paragraph (1) on Federal payments under section 674(a)(1) of this title shall not be construed as prohibiting Federal payments for administrative expenditures incurred on behalf of a child placed in a child-care institution and for which payment is available under section 674(a)(3) of this title .
   - **(6)** The requirements in paragraph (4)(B) shall not be construed as requiring a qualified residential treatment program to acquire nursing and behavioral health staff solely through means of a direct employer to employee relationship.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 472, as added and amended [Pub. L. 96–272, title I](https://www.govinfo.gov/link/plaw/96/public/272), §§ 101(a)(1), 102(a)(1), (2), June 17, 1980, [94 Stat. 503](https://www.govinfo.gov/link/statute/94/503), 513, 514; [Pub. L. 99–603, title II, § 201(b)(2)(A)](https://www.govinfo.gov/link/plaw/99/public/603), title III, §§ 302(b)(2), 303(e)(2), Nov. 6, 1986, [100 Stat. 3403](https://www.govinfo.gov/link/statute/100/3403), 3422, 3431; [Pub. L. 100–203, title IX](https://www.govinfo.gov/link/plaw/100/public/203), §§ 9133(b)(2), 9139(a), Dec. 22, 1987, [101 Stat. 1330–314](https://www.govinfo.gov/link/statute/101/1330), 1330–321; [Pub. L. 103–432, title II, § 202(d)(3)](https://www.govinfo.gov/link/plaw/103/public/432), Oct. 31, 1994, [108 Stat. 4454](https://www.govinfo.gov/link/statute/108/4454); [Pub. L. 104–193, title I, § 108(d)(3)](https://www.govinfo.gov/link/plaw/104/public/193), (4), title V, § 501, Aug. 22, 1996, [110 Stat. 2166](https://www.govinfo.gov/link/statute/110/2166), 2277; [Pub. L. 105–33, title V](https://www.govinfo.gov/link/plaw/105/public/33), §§ 5513(b)(1), (2), 5592(b), Aug. 5, 1997, [111 Stat. 620](https://www.govinfo.gov/link/statute/111/620), 644; [Pub. L. 105–89, title I, § 101(c)](https://www.govinfo.gov/link/plaw/105/public/89), Nov. 19, 1997, [111 Stat. 2117](https://www.govinfo.gov/link/statute/111/2117); [Pub. L. 106–169, title I, § 111](https://www.govinfo.gov/link/plaw/106/public/169), Dec. 14, 1999, [113 Stat. 1829](https://www.govinfo.gov/link/statute/113/1829); [Pub. L. 109–113, § 2](https://www.govinfo.gov/link/plaw/109/public/113), Nov. 22, 2005, [119 Stat. 2371](https://www.govinfo.gov/link/statute/119/2371); [Pub. L. 109–171, title VII](https://www.govinfo.gov/link/plaw/109/public/171), §§ 7403(a), 7404(a), Feb. 8, 2006, [120 Stat. 151](https://www.govinfo.gov/link/statute/120/151); [Pub. L. 109–288, § 6(f)(6)](https://www.govinfo.gov/link/plaw/109/public/288), Sept. 28, 2006, [120 Stat. 1247](https://www.govinfo.gov/link/statute/120/1247); [Pub. L. 110–351, title II, § 201(b)](https://www.govinfo.gov/link/plaw/110/public/351), title III, § 301(a)(2), Oct. 7, 2008, [122 Stat. 3958](https://www.govinfo.gov/link/statute/122/3958), 3967; [Pub. L. 111–148, title VI, § 6703(d)(2)(B)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 803](https://www.govinfo.gov/link/statute/124/803); [Pub. L. 115–123, div. E, title VII](https://www.govinfo.gov/link/plaw/115/public/123), §§ 50712(a), 50741(a)(1), (b), Feb. 9, 2018, [132 Stat. 244](https://www.govinfo.gov/link/statute/132/244), 253, 255.)*

@@ -3,9 +3,10 @@ title: "Section 1324 - Bringing in and harboring certain aliens"
 usc_title: 8
 usc_section: "1324"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1324"
-generated_at: "2026-03-30T02:53:10.493Z"
+generated_at: "2026-11-23T20:25:36.189Z"
+status: "active"
 ---
 
 # § 1324. Bringing in and harboring certain aliens
@@ -53,3 +54,7 @@ generated_at: "2026-03-30T02:53:10.493Z"
 - **(c)** No officer or person shall have authority to make any arrests for a violation of any provision of this section except officers and employees of the Service designated by the Attorney General, either individually or as a member of a class, and all other officers whose duty it is to enforce criminal laws.
 - **(d)** Notwithstanding any provision of the Federal Rules of Evidence, the videotaped (or otherwise audiovisually preserved) deposition of a witness to a violation of subsection (a) who has been deported or otherwise expelled from the United States, or is otherwise unable to testify, may be admitted into evidence in an action brought for that violation if the witness was available for cross examination and the deposition otherwise complies with the Federal Rules of Evidence.
 - **(e)** The Secretary of Homeland Security, in consultation with the Attorney General and the Secretary of State, as appropriate, shall develop and implement an outreach program to educate the public in the United States and abroad about the penalties for bringing in and harboring aliens in violation of this section.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 8, § 274, [66 Stat. 228](https://www.govinfo.gov/link/statute/66/228); [Pub. L. 95–582, § 2](https://www.govinfo.gov/link/plaw/95/public/582), Nov. 2, 1978, [92 Stat. 2479](https://www.govinfo.gov/link/statute/92/2479); [Pub. L. 97–116, § 12](https://www.govinfo.gov/link/plaw/97/public/116), Dec. 29, 1981, [95 Stat. 1617](https://www.govinfo.gov/link/statute/95/1617); [Pub. L. 99–603, title I, § 112](https://www.govinfo.gov/link/plaw/99/public/603), Nov. 6, 1986, [100 Stat. 3381](https://www.govinfo.gov/link/statute/100/3381); [Pub. L. 100–525, § 2(d)](https://www.govinfo.gov/link/plaw/100/public/525), Oct. 24, 1988, [102 Stat. 2610](https://www.govinfo.gov/link/statute/102/2610); [Pub. L. 103–322, title VI, § 60024](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1981](https://www.govinfo.gov/link/statute/108/1981); [Pub. L. 104–208, div. C, title II](https://www.govinfo.gov/link/plaw/104/public/208), §§ 203(a)–(d), 219, title VI, § 671(a)(1), Sept. 30, 1996, [110 Stat. 3009–565](https://www.govinfo.gov/link/statute/110/3009), 3009–566, 3009–574, 3009–720; [Pub. L. 106–185, § 18(a)](https://www.govinfo.gov/link/plaw/106/public/185), Apr. 25, 2000, [114 Stat. 222](https://www.govinfo.gov/link/statute/114/222); [Pub. L. 108–458, title V, § 5401](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3737](https://www.govinfo.gov/link/statute/118/3737); [Pub. L. 109–97, title VII, § 796](https://www.govinfo.gov/link/plaw/109/public/97), Nov. 10, 2005, [119 Stat. 2165](https://www.govinfo.gov/link/statute/119/2165).)*

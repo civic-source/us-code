@@ -3,9 +3,10 @@ title: "Section 6642 - Comprehensive literacy State development grants"
 usc_title: 20
 usc_section: "6642"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 6642"
-generated_at: "2026-03-30T02:54:48.201Z"
+generated_at: "2026-11-23T20:26:14.856Z"
+status: "active"
 ---
 
 # § 6642. Comprehensive literacy State development grants
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:54:48.201Z"
   - **(3)** After carrying out the activities described in paragraphs (1) and (2), a State educational agency may use any remaining amount to carry out 1 or more of the following activities:
     - **(A)** Developing literacy coach training programs and training literacy coaches.
     - **(B)** Administration and evaluation of activities carried out under this subpart.
+
+## Source Credit
+
+*([Pub. L. 89–10, title II, § 2222](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title II, § 2002](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1938](https://www.govinfo.gov/link/statute/129/1938).)*

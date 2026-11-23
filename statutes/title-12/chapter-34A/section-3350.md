@@ -3,9 +3,10 @@ title: "Section 3350 - Definitions"
 usc_title: 12
 usc_section: "3350"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 3350"
-generated_at: "2026-03-30T02:53:53.493Z"
+generated_at: "2026-11-23T20:25:59.334Z"
+status: "active"
 ---
 
 # § 3350. Definitions
@@ -32,3 +33,7 @@ For purposes of this chapter:
     - **(B)** to contract with licensed and certified appraisers to perform appraisal assignments;
     - **(C)** to manage the process of having an appraisal performed, including providing administrative duties such as receiving appraisal orders and appraisal reports, submitting completed appraisal reports to creditors and underwriters, collecting fees from creditors and underwriters for services provided, and reimbursing appraisers for services performed; or
     - **(D)** to review and verify the work of appraisers.
+
+## Source Credit
+
+*([Pub. L. 101–73, title XI, § 1121](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 517](https://www.govinfo.gov/link/statute/103/517); [Pub. L. 111–203, title XIV, § 1473(f)(4)](https://www.govinfo.gov/link/plaw/111/public/203), (t)(2), (3), July 21, 2010, [124 Stat. 2193](https://www.govinfo.gov/link/statute/124/2193), 2199.)*

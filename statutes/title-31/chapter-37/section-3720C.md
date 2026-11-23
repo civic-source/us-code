@@ -3,9 +3,10 @@ title: "Section 3720C - Debt Collection Improvement Account"
 usc_title: 31
 usc_section: "3720C"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 3720C"
-generated_at: "2026-03-30T02:55:34.060Z"
+generated_at: "2026-11-23T20:26:51.808Z"
+status: "active"
 ---
 
 # § 3720C. Debt Collection Improvement Account
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:55:34.060Z"
     - **(B)** As soon as practicable after the end of the third fiscal year after which amounts transferred are first available pursuant to this section, and every 3 years thereafter, any uncommitted balance in the Account shall be transferred to the general fund of the Treasury as miscellaneous receipts.
 - **(d)** For direct loans and loan guarantee programs subject to title V of the Congressional Budget Act of 1974, amounts credited in accordance with subsection (c) shall be considered administrative costs.
 - **(e)** The Secretary of the Treasury shall prescribe such rules, regulations, and procedures as the Secretary considers necessary or appropriate to carry out the purposes of this section.
+
+## Source Credit
+
+*(Added [Pub. L. 104–134, title III, § 31001(t)(1)](https://www.govinfo.gov/link/plaw/104/public/134), Apr. 26, 1996, [110 Stat. 1321–373](https://www.govinfo.gov/link/statute/110/1321).)*

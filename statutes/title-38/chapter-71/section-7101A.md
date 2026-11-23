@@ -3,9 +3,10 @@ title: "Section 7101A - Members of Board: appointment; pay; performance review"
 usc_title: 38
 usc_section: "7101A"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7101A"
-generated_at: "2026-03-30T02:55:53.524Z"
+generated_at: "2026-11-23T20:27:01.977Z"
+status: "active"
 ---
 
 # § 7101A. Members of Board: appointment; pay; performance review
@@ -36,3 +37,11 @@ generated_at: "2026-03-30T02:55:53.524Z"
   - **(2)** In the case of a removal of a member under this section for a reason other than job performance that would be covered by section 7521 of title 5 in the case of an administrative law judge, the removal of the member of the Board shall be carried out subject to the same requirements as apply to removal of an administrative law judge under that section. Section 554(a)(2) of title 5 shall not apply to a removal action under this subsection. In such a removal action, a member shall have the rights set out in section 7513(b) of that title.
 - **(f)** The Chairman, subject to the approval of the Secretary, shall establish standards for the performance of the job of a member of the Board (other than the Chairman or a member of the Senior Executive Service). Those standards shall establish objective and fair criteria for evaluation of the job performance of a member of the Board.
 - **(g)** The Secretary shall prescribe procedures for the administration of this section, including deadlines and time schedules for different actions under this section.
+
+Deadline
+
+Submission to Congressional Committees
+
+## Source Credit
+
+*(Added [Pub. L. 103–446, title II, § 201(a)(1)](https://www.govinfo.gov/link/plaw/103/public/446), Nov. 2, 1994, [108 Stat. 4655](https://www.govinfo.gov/link/statute/108/4655); amended [Pub. L. 105–368, title X, § 1002](https://www.govinfo.gov/link/plaw/105/public/368), Nov. 11, 1998, [112 Stat. 3363](https://www.govinfo.gov/link/statute/112/3363).)*

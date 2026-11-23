@@ -3,9 +3,10 @@ title: "Section 7331 - Options pilot program"
 usc_title: 7
 usc_section: "7331"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7331"
-generated_at: "2026-03-30T02:53:42.449Z"
+generated_at: "2026-11-23T20:25:41.772Z"
+status: "active"
 ---
 
 # § 7331. Options pilot program
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:42.449Z"
 - **(f)** Trades for futures and options contracts under the pilot program shall be carried out on commodity futures and options markets designated as contract markets under the Commodity Exchange Act ( 7 U.S.C. 1 et seq.).
 - **(g)** A producer participating in the pilot program shall compile, maintain, and submit (or authorize the compilation, maintenance, and submission) of such documentation as the regulations governing the pilot program require.
 - **(h)** The Secretary shall fund and operate the pilot program through the Commodity Credit Corporation, except that the amount of Commodity Credit Corporation funds used to carry out this section shall not exceed, to the maximum extent practicable, $9,000,000 for fiscal year 2001, $15,000,000 for fiscal year 2002, and $2,000,000 for fiscal year 2003. To the maximum extent practicable, the Secretary shall operate the pilot program in a budget neutral manner.
+
+## Source Credit
+
+*([Pub. L. 104–127, title I, § 191](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 941](https://www.govinfo.gov/link/statute/110/941); [Pub. L. 106–224, title I, § 134](https://www.govinfo.gov/link/plaw/106/public/224), June 20, 2000, [114 Stat. 388](https://www.govinfo.gov/link/statute/114/388).)*

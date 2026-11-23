@@ -3,9 +3,10 @@ title: "Section 6329b - Investigative leave and notice leave"
 usc_title: 5
 usc_section: "6329b"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 6329b"
-generated_at: "2026-03-30T02:52:56.031Z"
+generated_at: "2026-11-23T20:25:32.033Z"
+status: "active"
 ---
 
 # § 6329b. Investigative leave and notice leave
@@ -142,3 +143,71 @@ generated_at: "2026-03-30T02:52:56.031Z"
     - **(D)** procedures and criteria for the approval of an extension of a period of investigative leave under subsection (c) or (d).
   - **(2)** Not later than 270 calendar days after the date on which the Director prescribes regulations under paragraph (1), each agency shall revise and implement the internal policies of the agency to meet the requirements of this section.
 - **(i)** Notwithstanding subsection (a) of section 7421 of title 38 , this section shall apply to an employee described in subsection (b) of that section.
+
+Definitions
+
+Leave for Employees Under Investigation or in a Notice Period.—
+
+Authority
+
+Requirements
+
+Duration of leave.—
+
+Investigative leave
+
+Notice leave
+
+Explanation of leave.—
+
+In general
+
+Explanation
+
+Agency action
+
+Rule of construction
+
+Initial Extension of Investigative Leave.—
+
+In general
+
+Maximum number of extensions
+
+Designation guidance
+
+Extensions for OIG employees.—
+
+Approval
+
+Guidance
+
+Further Extension of Investigative Leave.—
+
+Report
+
+Certification
+
+No extensions after completion of investigation
+
+Consultation Guidance
+
+Reporting and Records.—
+
+In general
+
+Availability of records
+
+Recourse to the Office of Special Counsel
+
+Regulations.—
+
+OPM action
+
+Agency action
+
+Relation to Other Laws
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. A, title XI, § 1138(d)(1)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2462](https://www.govinfo.gov/link/statute/130/2462).)*

@@ -3,9 +3,10 @@ title: "Section 5113 - Detention of vessels"
 usc_title: 46
 usc_section: "5113"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 5113"
-generated_at: "2026-03-30T02:56:15.549Z"
+generated_at: "2026-11-23T20:27:27.103Z"
+status: "active"
 ---
 
 # § 5113. Detention of vessels
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:15.549Z"
 - **(c)** Under regulations prescribed by the Secretary, the owner, charterer, managing operator, agent, master, or individual in charge of a detained vessel may petition the Secretary to review the detention order.
 - **(d)** After reviewing a petition, the Secretary may affirm, withdraw, or change the detention order. Before acting on the petition, the Secretary may require any independent survey that may be necessary to determine the condition of the vessel.
 - **(e)** The owner of a vessel is liable for the cost incident to a petition for review and any required survey if the vessel is found to be in violation of this chapter or a regulation prescribed under this chapter.
+
+## Source Credit
+
+*([Pub. L. 99–509, title V, § 5101(2)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1918](https://www.govinfo.gov/link/statute/100/1918); [Pub. L. 109–304, § 15(20)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1703](https://www.govinfo.gov/link/statute/120/1703).)*

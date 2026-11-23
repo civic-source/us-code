@@ -3,9 +3,10 @@ title: "Section 53 - Reauthorization; reporting requirements"
 usc_title: 21
 usc_section: "53"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 53"
-generated_at: "2026-03-30T02:54:54.273Z"
+generated_at: "2026-11-23T20:26:27.745Z"
+status: "active"
 ---
 
 # § 379j–53. Reauthorization; reporting requirements
@@ -69,3 +70,7 @@ generated_at: "2026-03-30T02:54:54.273Z"
   - **(7)**
     - **(A)** The Secretary shall make publicly available, on the public website of the Food and Drug Administration, minutes of all negotiation meetings conducted under this subsection between the Food and Drug Administration and the regulated industry, not later than 30 days after each such negotiation meeting.
     - **(B)** The minutes described under subparagraph (A) shall summarize, in sufficient detail, any substantive proposal made by any party to the negotiations as well as significant controversies or differences of opinion during the negotiations and their resolution.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 744I, as added [Pub. L. 112–144, title IV, § 403](https://www.govinfo.gov/link/plaw/112/public/144), July 9, 2012, [126 Stat. 1037](https://www.govinfo.gov/link/statute/126/1037); amended [Pub. L. 115–52, title IV, § 404](https://www.govinfo.gov/link/plaw/115/public/52), title IX, §§ 903(d), 904(d), Aug. 18, 2017, [131 Stat. 1035](https://www.govinfo.gov/link/statute/131/1035), 1081, 1087; [Pub. L. 117–180, div. F, title IV, § 4004](https://www.govinfo.gov/link/plaw/117/public/180), Sept. 30, 2022, [136 Stat. 2166](https://www.govinfo.gov/link/statute/136/2166); [Pub. L. 117–328, div. FF, title III, § 3626(d)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5886](https://www.govinfo.gov/link/statute/136/5886).)*

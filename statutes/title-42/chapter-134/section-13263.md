@@ -3,12 +3,17 @@ title: "Section 13263 - Powers of Secretary"
 usc_title: 42
 usc_section: "13263"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13263"
-generated_at: "2026-03-30T02:56:11.440Z"
+generated_at: "2026-11-23T20:27:23.474Z"
+status: "active"
 ---
 
 # § 13263. Powers of Secretary
 
 For the purpose of carrying out subchapter I, subchapter II, this subchapter, and subchapter IV, the Secretary, or the duly designated agent of the Secretary, may hold such hearings, take such testimony, sit and act at such times and places, administer such oaths, and require, by subpena, the attendance and testimony of such witnesses and the production of such books, papers, correspondence, memorandums, contracts, agreements, or other records as the Secretary of Transportation is authorized to do under section 32910(a)(1) of title 49 .
 
+
+## Source Credit
+
+*([Pub. L. 102–486, title V, § 513](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2899](https://www.govinfo.gov/link/statute/106/2899).)*

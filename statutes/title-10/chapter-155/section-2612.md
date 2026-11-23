@@ -3,9 +3,10 @@ title: "Section 2612 - National Defense University: acceptance of gifts"
 usc_title: 10
 usc_section: "2612"
 chapter: 155
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2612"
-generated_at: "2026-03-30T02:53:38.166Z"
+generated_at: "2026-11-23T20:25:51.622Z"
+status: "active"
 ---
 
 # § 2612. National Defense University: acceptance of gifts
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:38.166Z"
   - **(1)** the term “gift” includes a devise of real property or a bequest of personal property and any gift of an interest in real property.
   - **(2)** The term “National Defense University” includes any school or other component of the National Defense University specified under section 2165(b) of this title .
 - **(f)** The Secretary of Defense shall prescribe regulations to carry out this section.
+
+## Source Credit
+
+*(Added [Pub. L. 107–314, div. A, title IX, § 931(a)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2624](https://www.govinfo.gov/link/statute/116/2624); amended [Pub. L. 108–136, div. A, title IX, § 931(d)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1581](https://www.govinfo.gov/link/statute/117/1581); [Pub. L. 115–91, div. A, title X, § 1081(a)(44)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1596](https://www.govinfo.gov/link/statute/131/1596).)*

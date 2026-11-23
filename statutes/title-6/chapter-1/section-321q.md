@@ -3,9 +3,10 @@ title: "Section 321q - Coordination of Department of Homeland Security efforts r
 usc_title: 6
 usc_section: "321q"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 321q"
-generated_at: "2026-03-30T02:53:09.459Z"
+generated_at: "2026-11-23T20:25:34.705Z"
+status: "active"
 ---
 
 # § 321q. Coordination of Department of Homeland Security efforts related to food, agriculture, and veterinary defense against terrorism
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:09.459Z"
   - **(6)** Coordinating with appropriate Federal departments and agencies.
   - **(7)** Other activities as determined necessary by the Secretary.
 - **(c)** Nothing in this section may be construed as altering or superseding the authority of the Secretary of Agriculture or the Secretary of Health and Human Services.
+
+## Source Credit
+
+*([Pub. L. 107–296, title V, § 528](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 115–43, § 2(a)](https://www.govinfo.gov/link/plaw/115/public/43), June 30, 2017, [131 Stat. 884](https://www.govinfo.gov/link/statute/131/884); amended [Pub. L. 115–387, § 2(f)(5)](https://www.govinfo.gov/link/plaw/115/public/387), Dec. 21, 2018, [132 Stat. 5168](https://www.govinfo.gov/link/statute/132/5168).)*

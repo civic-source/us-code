@@ -3,9 +3,10 @@ title: "Section 6311 - Definitions"
 usc_title: 42
 usc_section: "6311"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6311"
-generated_at: "2026-03-30T02:56:11.253Z"
+generated_at: "2026-11-23T20:27:22.638Z"
+status: "active"
 ---
 
 # § 6311. Definitions
@@ -131,3 +132,63 @@ For purposes of this part—
   - **(23)** The term “single package vertical heat pump” means a single package vertical air conditioner that—
     - **(A)** uses reverse cycle refrigeration as its primary heat source; and
     - **(B)** may include secondary supplemental heating by means of electrical resistance, steam, hot water, or gas.
+
+Electric motor.—
+
+General purpose electric motor (subtype i)
+
+General purpose electric motor (subtype ii)
+
+Walk-in cooler; walk-in freezer.—
+
+In general
+
+Exclusion
+
+Single package vertical air conditioner
+
+Single package vertical heat pump
+
+Definitions
+
+Electric motor
+
+Electronic control
+
+Extended product system
+
+Qualified extended product system.—
+
+In general
+
+Inclusions
+
+Establishment
+
+Qualified Entities.—
+
+Eligibility requirements
+
+Application
+
+“(aa) that the qualified entity installed the qualified extended product system during the 2 fiscal years following the date of enactment of this Act;
+
+“(bb) that the qualified extended product system meets the requirements of subsection (a)(4)(A); and
+
+“(cc) showing the serial number, manufacturer, and model number from the nameplate of the installed motor of the qualified entity on which the qualified extended product system was installed; or
+
+“(aa) that the qualified extended product system meets the requirements of subsection (a)(4)(B); and
+
+“(bb) showing the serial number, manufacturer, and model number from the nameplate of the installed motor of the qualified entity with which the extended product system is integrated.
+
+Authorized Amount of Rebate.—
+
+In general
+
+Maximum aggregate amount
+
+Authorization of Appropriations
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 340](https://www.govinfo.gov/link/plaw/94/public/163), as added [Pub. L. 95–619, title IV, § 441(a)](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3267](https://www.govinfo.gov/link/statute/92/3267); amended [Pub. L. 102–486, title I, § 122(a)](https://www.govinfo.gov/link/plaw/102/public/486), (f)(1), Oct. 24, 1992, [106 Stat. 2806](https://www.govinfo.gov/link/statute/106/2806), 2817; [Pub. L. 109–58, title I, § 136(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 634](https://www.govinfo.gov/link/statute/119/634); [Pub. L. 110–140, title III](https://www.govinfo.gov/link/plaw/110/public/140), §§ 312(a), 313(a), 314(a), Dec. 19, 2007, [121 Stat. 1564](https://www.govinfo.gov/link/statute/121/1564), 1568, 1569; [Pub. L. 112–210, § 10(c)(1)](https://www.govinfo.gov/link/plaw/112/public/210), Dec. 18, 2012, [126 Stat. 1525](https://www.govinfo.gov/link/statute/126/1525); [Pub. L. 115–115, § 2(b)(1)](https://www.govinfo.gov/link/plaw/115/public/115), Jan. 12, 2018, [131 Stat. 2280](https://www.govinfo.gov/link/statute/131/2280).)*

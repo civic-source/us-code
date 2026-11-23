@@ -3,9 +3,10 @@ title: "Section 920 - Art. 120. Rape and sexual assault generally"
 usc_title: 10
 usc_section: "920"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 920"
-generated_at: "2026-03-30T02:53:38.086Z"
+generated_at: "2026-11-23T20:25:51.124Z"
+status: "active"
 ---
 
 # § 920. Art. 120. Rape and sexual assault generally
@@ -51,3 +52,82 @@ generated_at: "2026-03-30T02:53:38.086Z"
   - **(8)** The term “incapable of consenting” means the person is—
     - **(A)** incapable of appraising the nature of the conduct at issue; or
     - **(B)** physically incapable of declining participation in, or communicating unwillingess to engage in, the sexual act at issue.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 920(a) 920(b) 920(c) | 50:714(a). 50:714(b). 50:714(c). | May 5, 1950, ch. 169, § 1 (Art. 120), 64 Stat. 140 . |
+
+
+Rape
+
+Sexual Assault
+
+Aggravated Sexual Contact
+
+Abusive Sexual Contact
+
+Proof of Threat
+
+Defenses
+
+Definitions
+
+Sexual act
+
+Sexual contact
+
+Grievous bodily harm
+
+Force
+
+Unlawful force
+
+Threatening or placing that other person in fear
+
+Consent
+
+Incapable of consenting
+
+Historical and Revision Notes
+
+920(a)
+
+920(b)
+
+920(c)
+
+May 5, 1950, ch. 169, § 1
+
+64 Stat. 140
+
+“Until the President otherwise provides pursuant to section 856 of title 10 , United States Code (article 56 of the Uniform Code of Military Justice), the punishment which a court-martial may direct for an offense under section 920 of such title (article 120 of the Uniform Code of Military Justice), as amended by subsection (a), may not exceed the following limits:
+
+Subsections
+
+and
+
+Subsection
+
+Subsections
+
+and
+
+Subsections
+
+and
+
+Subsections
+
+through
+
+Subsections
+
+and
+
+Subsections
+
+and
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 73; [Pub. L. 102–484, div. A, title X, § 1066(c)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2506](https://www.govinfo.gov/link/statute/106/2506); [Pub. L. 104–106, div. A, title XI, § 1113](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 462](https://www.govinfo.gov/link/statute/110/462); [Pub. L. 109–163, div. A, title V, § 552(a)(1)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3256](https://www.govinfo.gov/link/statute/119/3256); [Pub. L. 112–81, div. A, title V, § 541(a)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1404](https://www.govinfo.gov/link/statute/125/1404); [Pub. L. 112–239, div. A, title X, § 1076(f)(9)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1952](https://www.govinfo.gov/link/statute/126/1952); [Pub. L. 114–328, div. E, title LX, § 5430(a)](https://www.govinfo.gov/link/plaw/114/public/328), (b), Dec. 23, 2016, [130 Stat. 2949](https://www.govinfo.gov/link/statute/130/2949); [Pub. L. 115–91, div. A, title X, § 1081(c)(1)(O)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1598](https://www.govinfo.gov/link/statute/131/1598).)*

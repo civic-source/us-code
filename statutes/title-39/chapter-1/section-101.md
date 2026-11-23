@@ -3,9 +3,10 @@ title: "Section 101 - Postal policy"
 usc_title: 39
 usc_section: "101"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "39 U.S.C. § 101"
-generated_at: "2026-03-30T02:55:43.686Z"
+generated_at: "2026-11-23T20:26:57.703Z"
+status: "active"
 ---
 
 # § 101. Postal policy
@@ -17,3 +18,17 @@ generated_at: "2026-03-30T02:55:43.686Z"
 - **(e)** In determining all policies for postal services, the Postal Service shall give the highest consideration to the requirement for the most expeditious collection, transportation, and delivery of important letter mail.
 - **(f)** In selecting modes of transportation, the Postal Service shall give highest consideration to the prompt, economical, consistent, and reliable delivery of all mail in a manner that increases operational efficiency and reduces complexity. Modern methods of transporting mail by containerization and programs designed to achieve cost-effective overnight transportation to the destination of important letter mail to all parts of the Nation shall also be a primary goal of postal operations.
 - **(g)** In planning and building new postal facilities, the Postal Service shall emphasize the need for facilities and equipment designed to create desirable working conditions for its officers and employees, a maximum degree of convenience for efficient postal services, proper access to existing and future air and surface transportation facilities, and control of costs to the Postal Service.
+
+Definitions
+
+Additional Borrowing Authority
+
+No Repayment Required
+
+Prioritization of Delivery for Medical Purposes During COVID–
+
+Emergency
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 719](https://www.govinfo.gov/link/statute/84/719); [Pub. L. 110–405, § 2(b)(9)](https://www.govinfo.gov/link/plaw/110/public/405), Oct. 13, 2008, [122 Stat. 4289](https://www.govinfo.gov/link/statute/122/4289); [Pub. L. 117–108, title II](https://www.govinfo.gov/link/plaw/117/public/108), §§ 202(a), 208, Apr. 6, 2022, [136 Stat. 1146](https://www.govinfo.gov/link/statute/136/1146), 1151.)*

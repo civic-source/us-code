@@ -3,12 +3,17 @@ title: "Section 9 - Subsidized companies required to construct and operate lines
 usc_title: 47
 usc_section: "9"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 9"
-generated_at: "2026-03-30T02:56:24.492Z"
+generated_at: "2026-11-23T20:27:28.809Z"
+status: "active"
 ---
 
 # § 9. Subsidized companies required to construct and operate lines
 
 All railroad and telegraph companies to which the United States has granted any subsidy in lands or bonds or loan of credit for the construction of either railroad or telegraph lines, which, by the acts incorporating them, or by any act amendatory or supplementary thereto, are required to construct, maintain, or operate telegraph lines, and all companies engaged in operating said railroad or telegraph lines shall, by and through their own respective corporate officers and employees, maintain, and operate, for railroad, governmental, commercial, and all other purposes, telegraph lines, and exercise by themselves alone all the telegraph franchises conferred upon them and obligations assumed by them under the acts making the grants as aforesaid.
 
+
+## Source Credit
+
+*(Aug. 7, 1888, ch. 772, § 1, [25 Stat. 382](https://www.govinfo.gov/link/statute/25/382).)*

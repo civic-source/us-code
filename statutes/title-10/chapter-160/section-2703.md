@@ -3,9 +3,10 @@ title: "Section 2703 - Environmental restoration accounts"
 usc_title: 10
 usc_section: "2703"
 chapter: 160
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2703"
-generated_at: "2026-03-30T02:53:38.172Z"
+generated_at: "2026-11-23T20:25:51.682Z"
+status: "active"
 ---
 
 # § 2703. Environmental restoration accounts
@@ -29,3 +30,29 @@ generated_at: "2026-03-30T02:53:38.172Z"
   - **(1)** Except as provided in subsection (h), the sole source of funds for all phases of an environmental remedy at a site under the jurisdiction of the Department of Defense, a National Guard facility, or a formerly used defense site shall be the applicable environmental restoration account established under subsection (a).
   - **(2)** In this subsection, the term “environmental remedy” has the meaning given the term “remedy” in section 101 of CERCLA ( 42 U.S.C. 9601 ).
 - **(h)** In the case of property disposed of pursuant to a base closure law and subject to a covenant that was required to be provided by paragraphs (3) and (4) of section 120(h) of CERCLA ( 42 U.S.C. 9620(h) ), the sole source of funds for services procured under section 2701(d)(1) of this title shall be the Department of Defense Base Closure Account established under section 2906 of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510 ; 10 U.S.C. 2687 note). The limitation in this subsection shall expire upon the closure of such base closure account.
+
+Establishment of Accounts
+
+Program Elements for Ordnance Remediation
+
+Obligation of Authorized Amounts
+
+Budget Reports
+
+Credit of Amounts Recovered
+
+Payments of Fines and Penalties
+
+Sole Source of Funds for Operation and Monitoring of Environmental Remedies
+
+Sole Source of Funds for Environmental Remediation at Certain Base Realignment and Closure Sites
+
+Amounts Recovered
+
+Amounts Recovered Under CERCLA
+
+“The amendments made by this section [amending this section and section 2705 of this title ] shall take effect on the later of—
+
+## Source Credit
+
+*(Added [Pub. L. 99–499, title II, § 211(a)(1)(B)](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1722](https://www.govinfo.gov/link/statute/100/1722); amended [Pub. L. 103–337, div. A, title III, § 321](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2710](https://www.govinfo.gov/link/statute/108/2710); [Pub. L. 104–106, div. A, title III, § 322](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 252](https://www.govinfo.gov/link/statute/110/252); [Pub. L. 104–201, div. A, title III, § 322(a)(1)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2477](https://www.govinfo.gov/link/statute/110/2477); [Pub. L. 106–65, div. A, title III, § 321](https://www.govinfo.gov/link/plaw/106/public/65), title X, § 1066(a)(27), Oct. 5, 1999, [113 Stat. 560](https://www.govinfo.gov/link/statute/113/560), 772; [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title III, §§ 311, 312], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–53, 1654A–54; [Pub. L. 107–107, div. A, title III, § 312](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1051](https://www.govinfo.gov/link/statute/115/1051); [Pub. L. 108–136, div. A, title III, § 313(a)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1430](https://www.govinfo.gov/link/statute/117/1430); [Pub. L. 108–375, div. A, title X, § 1084(d)(26)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2063](https://www.govinfo.gov/link/statute/118/2063); [Pub. L. 109–163, div. A, title III, § 312(b)](https://www.govinfo.gov/link/plaw/109/public/163), title X, § 1056(c)(7), Jan. 6, 2006, [119 Stat. 3191](https://www.govinfo.gov/link/statute/119/3191), 3439; [Pub. L. 109–364, div. A, title X, § 1071(a)(23)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2399](https://www.govinfo.gov/link/statute/120/2399); [Pub. L. 112–239, div. B, title XXVII, § 2711(c)(4)(B)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2144](https://www.govinfo.gov/link/statute/126/2144); [Pub. L. 113–291, div. A, title III, § 311](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3336](https://www.govinfo.gov/link/statute/128/3336); [Pub. L. 118–31, div. A, title III, § 312(e)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 215](https://www.govinfo.gov/link/statute/137/215).)*

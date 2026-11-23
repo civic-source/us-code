@@ -3,9 +3,10 @@ title: "Section 4156 - Preservation of status and benefits"
 usc_title: 22
 usc_section: "4156"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4156"
-generated_at: "2026-03-30T02:55:05.409Z"
+generated_at: "2026-11-23T20:26:32.525Z"
+status: "active"
 ---
 
 # § 4156. Preservation of status and benefits
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:05.409Z"
 - **(e)** Any individual in the Foreign Service—
   - **(1)** who is serving under a career appointment on October 17, 1980 , and
   - **(2)** who was not subject to section 633(a)(2) of the Foreign Service Act of 1946 immediately before February 15, 1981 ,
+
+## Source Credit
+
+*([Pub. L. 96–465, title II, § 2106](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2151](https://www.govinfo.gov/link/statute/94/2151).)*

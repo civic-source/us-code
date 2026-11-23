@@ -3,9 +3,10 @@ title: "Section 13107 - EPA report"
 usc_title: 42
 usc_section: "13107"
 chapter: 133
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13107"
-generated_at: "2026-03-30T02:56:11.438Z"
+generated_at: "2026-11-23T20:27:23.463Z"
+status: "active"
 ---
 
 # § 13107. EPA report
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.438Z"
   - **(7)** An evaluation of the cost and technical feasibility, by industry and processes, of source reduction opportunities and current activities and an identification of any industries for which there are significant barriers to source reduction with an analysis of the basis of this identification.
   - **(8)** An evaluation of methods of coordinating, streamlining, and improving public access to data collected under Federal environmental statutes.
   - **(9)** An evaluation of data gaps and data duplication with respect to data collected under Federal environmental statutes.
+
+## Source Credit
+
+*([Pub. L. 101–508, title VI, § 6608](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–326](https://www.govinfo.gov/link/statute/104/1388).)*

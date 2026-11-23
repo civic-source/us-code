@@ -3,9 +3,10 @@ title: "Section 4601 - Findings, purposes, and definitions"
 usc_title: 15
 usc_section: "4601"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 4601"
-generated_at: "2026-03-30T02:54:08.199Z"
+generated_at: "2026-11-23T20:26:04.339Z"
+status: "active"
 ---
 
 # § 4601. Findings, purposes, and definitions
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:08.199Z"
 - **(c)** In this subchapter:
   - **(1)** The terms “Semiconductor Technology Council” and “Council” mean the advisory council established by section 4603 of this title .
   - **(2)** The term “Sematech” means a consortium of firms in the United States semiconductor industry established for the purposes of (A) conducting research concerning advanced semiconductor manufacturing techniques, and (B) developing techniques to adapt manufacturing expertise to a variety of semiconductor products.
+
+## Source Credit
+
+*([Pub. L. 100–180, div. A, title II, § 271](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1068](https://www.govinfo.gov/link/statute/101/1068); [Pub. L. 103–160, div. A, title II, § 263(c)(1)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1610](https://www.govinfo.gov/link/statute/107/1610).)*

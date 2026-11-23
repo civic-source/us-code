@@ -3,9 +3,10 @@ title: "Section 3316 - Supplemental educational assistance: members with critica
 usc_title: 38
 usc_section: "3316"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 3316"
-generated_at: "2026-03-30T02:55:53.503Z"
+generated_at: "2026-11-23T20:27:01.844Z"
+status: "active"
 ---
 
 # § 3316. Supplemental educational assistance: members with critical skills or specialty; members serving additional service
@@ -27,3 +28,33 @@ generated_at: "2026-03-30T02:55:53.503Z"
   - **(3)** Payment of the amounts payable under paragraph (1) during pursuit of a program of education shall be made on a monthly basis.
 - **(d)** Payments for increased educational assistance under this section shall be made from the Department of Defense Education Benefits Fund under section 2006 of title 10 or from appropriations available to the Department of Homeland Security for that purpose, as applicable.
 - **(e)** The Secretaries concerned shall administer this section in accordance with such regulations as the Secretary of Defense shall prescribe.
+
+Increased Assistance for Members With Critical Skills or Specialty.—
+
+In general
+
+Maximum amount of increase in assistance
+
+Supplemental Assistance for Additional Service.—
+
+In general
+
+Eligibility
+
+Amount
+
+Continuation of Increased Educational Assistance.—
+
+In general
+
+Rate
+
+Frequency of payment
+
+Funding
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 110–252, title V, § 5003(a)(1)](https://www.govinfo.gov/link/plaw/110/public/252), June 30, 2008, [122 Stat. 2367](https://www.govinfo.gov/link/statute/122/2367); amended [Pub. L. 111–275, title X, § 1001(g)(4)](https://www.govinfo.gov/link/plaw/111/public/275), (5), Oct. 13, 2010, [124 Stat. 2896](https://www.govinfo.gov/link/statute/124/2896); [Pub. L. 111–377, title I, § 109(a)](https://www.govinfo.gov/link/plaw/111/public/377) –(b)(1), Jan. 4, 2011, [124 Stat. 4119](https://www.govinfo.gov/link/statute/124/4119), 4120; [Pub. L. 115–48, title I, § 105(c)(3)](https://www.govinfo.gov/link/plaw/115/public/48), Aug. 16, 2017, [131 Stat. 976](https://www.govinfo.gov/link/statute/131/976).)*

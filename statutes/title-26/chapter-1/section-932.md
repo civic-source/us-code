@@ -3,9 +3,10 @@ title: "Section 932 - Coordination of United States and Virgin Islands income ta
 usc_title: 26
 usc_section: "932"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 932"
-generated_at: "2026-03-30T02:55:27.747Z"
+generated_at: "2026-11-23T20:26:45.977Z"
+status: "active"
 ---
 
 # § 932. Coordination of United States and Virgin Islands income taxes
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:55:27.747Z"
     - **(C)** who fully pays his tax liability referred to in section 934(a) to the Virgin Islands with respect to such income,
 - **(d)** In the case of a joint return, this section shall be applied on the basis of the residence of the spouse who has the greater adjusted gross income (determined without regard to community property laws) for the taxable year.
 - **(e)** In applying this section for purposes of determining income tax liability incurred to the Virgin Islands, the provisions of this section shall not be affected by the provisions of Federal law referred to in section 934(a).
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title XII, § 1274(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2596](https://www.govinfo.gov/link/statute/100/2596); amended [Pub. L. 100–647, title I, § 1012(w)(1)](https://www.govinfo.gov/link/plaw/100/public/647) –(3), Nov. 10, 1988, [102 Stat. 3530](https://www.govinfo.gov/link/statute/102/3530); [Pub. L. 108–357, title VIII, § 908(c)(2)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1656](https://www.govinfo.gov/link/statute/118/1656).)*

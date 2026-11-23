@@ -3,9 +3,10 @@ title: "Section 9414a - United States Air Force Institute of Technology: admissi
 usc_title: 10
 usc_section: "9414a"
 chapter: 951
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 9414a"
-generated_at: "2026-03-30T02:53:38.258Z"
+generated_at: "2026-11-23T20:25:52.313Z"
+status: "active"
 ---
 
 # § 9414a. United States Air Force Institute of Technology: admission of certain private sector civilians
@@ -29,3 +30,19 @@ generated_at: "2026-03-30T02:53:38.258Z"
   - **(1)** The United States Air Force Institute of Technology shall charge tuition for students enrolled under this section at a rate not less than the rate charged for employees of the United States outside the Department of the Air Force.
   - **(2)** Amounts received by the United States Air Force Institute of Technology for instruction of students enrolled under this section shall be retained by the school to defray the costs of such instruction. The source, and the disposition, of such funds shall be specifically identified in records of the school.
 - **(f)** While receiving instruction at the United States Air Force Institute of Technology, covered private sector employees enrolled under this section, to the extent practicable, are subject to the same regulations governing academic performance, attendance, norms of behavior, and enrollment as apply to Government civilian employees receiving instruction at the school.
+
+Admission Authorized
+
+Covered Private Sector Employee Defined
+
+Annual Determination by the Secretary of the Air Force
+
+Program Requirements
+
+Tuition
+
+Standards of Conduct
+
+## Source Credit
+
+*(Added [Pub. L. 111–383, div. A, title V, § 593(a)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4232](https://www.govinfo.gov/link/statute/124/4232), § 9314a; amended [Pub. L. 112–239, div. A, title V, § 589(b)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1769](https://www.govinfo.gov/link/statute/126/1769); [Pub. L. 114–92, div. A, title V, § 558](https://www.govinfo.gov/link/plaw/114/public/92), title X, § 1081(a)(13), Nov. 25, 2015, [129 Stat. 827](https://www.govinfo.gov/link/statute/129/827), 1001; [Pub. L. 115–91, div. A, title V, § 581(a)](https://www.govinfo.gov/link/plaw/115/public/91) –(d)(1), Dec. 12, 2017, [131 Stat. 1414](https://www.govinfo.gov/link/statute/131/1414), 1415; renumbered § 9414a and amended [Pub. L. 115–232, div. A, title VIII](https://www.govinfo.gov/link/plaw/115/public/232), §§ 806(a)(3), 809(a), Aug. 13, 2018, [132 Stat. 1832](https://www.govinfo.gov/link/statute/132/1832), 1840.)*

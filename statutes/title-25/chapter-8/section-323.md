@@ -3,12 +3,17 @@ title: "Section 323 - Rights-of-way for all purposes across any Indian lands"
 usc_title: 25
 usc_section: "323"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 323"
-generated_at: "2026-03-30T02:54:52.804Z"
+generated_at: "2026-11-23T20:26:25.376Z"
+status: "active"
 ---
 
 # § 323. Rights-of-way for all purposes across any Indian lands
 
 The Secretary of the Interior be, and he is empowered to grant rights-of-way for all purposes, subject to such conditions as he may prescribe, over and across any lands now or hereafter held in trust by the United States for individual Indians or Indian tribes, communities, bands, or nations, or any lands now or hereafter owned, subject to restrictions against alienation, by individual Indians or Indian tribes, communities, bands, or nations, including the lands belonging to the Pueblo Indians in New Mexico, and any other lands heretofore or hereafter acquired or set aside for the use and benefit of the Indians.
 
+
+## Source Credit
+
+*(Feb. 5, 1948, ch. 45, § 1, [62 Stat. 17](https://www.govinfo.gov/link/statute/62/17).)*

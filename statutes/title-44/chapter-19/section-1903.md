@@ -3,12 +3,17 @@ title: "Section 1903 - Distribution of publications to depositories; notice to G
 usc_title: 44
 usc_section: "1903"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "44 U.S.C. § 1903"
-generated_at: "2026-03-30T02:55:56.291Z"
+generated_at: "2026-11-23T20:27:03.793Z"
+status: "active"
 ---
 
 # § 1903. Distribution of publications to depositories; notice to Government components; cost of printing and binding
 
 Upon request of the Superintendent of Documents, components of the Government ordering the printing of publications shall either increase or decrease the number of copies of publications furnished for distribution to designated depository libraries and State libraries so that the number of copies delivered to the Superintendent of Documents is equal to the number of libraries on the list. The number thus delivered may not be restricted by any statutory limitation in force on August 9, 1962 . Copies of publications furnished the Superintendent of Documents for distribution to designated depository libraries shall include— the journals of the Senate and House of Representatives; all publications, not confidential in character, printed upon the requisition of a congressional committee; Senate and House public bills and resolutions; and reports on private bills, concurrent or simple resolutions; but not so-called cooperative publications which must necessarily be sold in order to be self-sustaining. The Superintendent of Documents shall currently inform the components of the Government ordering printing of publications as to the number of copies of their publications required for distribution to depository libraries. The cost of printing and binding those publications distributed to depository libraries obtained elsewhere than from the Government Publishing Office, shall be borne by components of the Government responsible for their issuance; those requisitioned from the Government Publishing Office shall be charged to appropriations provided the Superintendent of Documents for that purpose.
 
+
+## Source Credit
+
+*([Pub. L. 90–620](https://www.govinfo.gov/link/plaw/90/public/620), Oct. 22, 1968, [82 Stat. 1283](https://www.govinfo.gov/link/statute/82/1283); [Pub. L. 113–235, div. H, title I, § 1301(b)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537).)*

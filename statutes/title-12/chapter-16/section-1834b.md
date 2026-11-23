@@ -3,9 +3,10 @@ title: "Section 1834b - Community development organizations"
 usc_title: 12
 usc_section: "1834b"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1834b"
-generated_at: "2026-03-30T02:53:53.464Z"
+generated_at: "2026-11-23T20:25:59.191Z"
+status: "active"
 ---
 
 # § 1834b. Community development organizations
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:53:53.464Z"
   - **(3)** The term “low- and moderate-income persons” has the meaning given such term in section 5302(a)(20) of title 42 .
   - **(4)** The terms “nonprofit organization” and “small business” have the meanings given to such terms by regulations which the appropriate Federal banking agency shall prescribe for purposes of this section.
   - **(5)** The term “qualified distressed community” has the meaning given to such term in section 1834a(b) of this title .
+
+## Source Credit
+
+*([Pub. L. 102–242, title II, § 234](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2315](https://www.govinfo.gov/link/statute/105/2315).)*

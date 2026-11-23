@@ -3,9 +3,10 @@ title: "Section 4167 - Reports to Congress"
 usc_title: 25
 usc_section: "4167"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 4167"
-generated_at: "2026-03-30T02:54:52.860Z"
+generated_at: "2026-11-23T20:26:25.689Z"
+status: "active"
 ---
 
 # § 4167. Reports to Congress
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:52.860Z"
   - **(2)** a summary of the use of funds available under this chapter during the preceding fiscal year; and
   - **(3)** a description of the aggregate outstanding loan guarantees under subchapter VI.
 - **(b)** The Secretary may require recipients of grant amounts under this chapter to submit to the Secretary such reports and other information as may be necessary in order for the Secretary to make the report required by subsection (a).
+
+## Source Credit
+
+*([Pub. L. 104–330, title IV, § 407](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4041](https://www.govinfo.gov/link/statute/110/4041).)*

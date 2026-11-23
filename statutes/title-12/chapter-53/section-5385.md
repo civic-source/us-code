@@ -3,9 +3,10 @@ title: "Section 5385 - Orderly liquidation of covered brokers and dealers"
 usc_title: 12
 usc_section: "5385"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5385"
-generated_at: "2026-03-30T02:53:53.533Z"
+generated_at: "2026-11-23T20:25:59.483Z"
+status: "active"
 ---
 
 # § 5385. Orderly liquidation of covered brokers and dealers
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:53:53.533Z"
   - **(1)** As trustee for a covered broker or dealer, SIPC shall allocate customer property and deliver customer name securities in accordance with section 8(c) of the Securities Investor Protection Act of 1970 ( 15 U.S.C. 78fff–2(c) ).
   - **(2)** All claims other than those described in paragraph (1) (including any unpaid claim by a customer for the allowed net equity claim of such customer from customer property) shall be paid in accordance with the priorities in section 5390(b) of this title .
 - **(h)** The Commission and the Corporation, after consultation with SIPC, shall jointly issue rules to implement this section.
+
+## Source Credit
+
+*([Pub. L. 111–203, title II, § 205](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1456](https://www.govinfo.gov/link/statute/124/1456).)*

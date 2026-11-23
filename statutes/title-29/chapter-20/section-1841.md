@@ -3,9 +3,10 @@ title: "Section 1841 - Motor vehicle safety"
 usc_title: 29
 usc_section: "1841"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1841"
-generated_at: "2026-03-30T02:55:18.740Z"
+generated_at: "2026-11-23T20:26:38.049Z"
+status: "active"
 ---
 
 # § 1841. Motor vehicle safety
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:55:18.740Z"
   - **(1)** No insurance policy or liability bond shall be required of the employer, if such workers are transported only under circumstances for which there is coverage under such State law.
   - **(2)** An insurance policy or liability bond shall be required of the employer for circumstances under which coverage for the transportation of such workers is not provided under such State law.
 - **(d)** The Secretary shall, by regulations promulgated in accordance with section 1861 of this title not later than the effective date of this chapter, prescribe the standards required for the purposes of implementing this section. Any subsequent revision of such standards shall also be accomplished by regulation promulgated in accordance with such section.
+
+## Source Credit
+
+*([Pub. L. 97–470, title IV, § 401](https://www.govinfo.gov/link/plaw/97/public/470), Jan. 14, 1983, [96 Stat. 2594](https://www.govinfo.gov/link/statute/96/2594); [Pub. L. 104–49, § 5(a)](https://www.govinfo.gov/link/plaw/104/public/49), Nov. 15, 1995, [109 Stat. 434](https://www.govinfo.gov/link/statute/109/434); [Pub. L. 104–88, title III, § 333](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 953](https://www.govinfo.gov/link/statute/109/953).)*

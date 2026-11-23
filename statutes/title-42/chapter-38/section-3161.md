@@ -3,9 +3,10 @@ title: "Section 3161 - Eligibility of areas"
 usc_title: 42
 usc_section: "3161"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3161"
-generated_at: "2026-03-30T02:56:11.183Z"
+generated_at: "2026-11-23T20:27:22.266Z"
+status: "active"
 ---
 
 # § 3161. Eligibility of areas
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.183Z"
   - **(2)** The documentation shall be accepted by the Secretary unless the Secretary determines that the documentation is inaccurate.
 - **(d)** Any designation of a redevelopment area made before the effective date of the Economic Development Administration Reform Act of 1998 shall not be effective after that effective date.
 - **(e)** To the extent the Secretary includes neighboring counties and communities in an economic development district in accordance with subsection (a)(3), the Secretary shall submit to Congress, and make publicly available online, a notification describing the justification for such inclusion and detailing the economic indicators of such neighboring counties and communities.
+
+## Source Credit
+
+*([Pub. L. 89–136, title III, § 301](https://www.govinfo.gov/link/plaw/89/public/136), as added [Pub. L. 105–393, title I, § 102(a)](https://www.govinfo.gov/link/plaw/105/public/393), Nov. 13, 1998, [112 Stat. 3607](https://www.govinfo.gov/link/statute/112/3607); amended [Pub. L. 108–373, title III, § 301](https://www.govinfo.gov/link/plaw/108/public/373), Oct. 27, 2004, [118 Stat. 1767](https://www.govinfo.gov/link/statute/118/1767); [Pub. L. 118–272, div. B, title II, § 2225](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3191](https://www.govinfo.gov/link/statute/138/3191).)*

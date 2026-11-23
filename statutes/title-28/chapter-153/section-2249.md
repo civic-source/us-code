@@ -3,12 +3,17 @@ title: "Section 2249 - Certified copies of indictment, plea and judgment; duty o
 usc_title: 28
 usc_section: "2249"
 chapter: 153
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 2249"
-generated_at: "2026-03-30T02:55:30.147Z"
+generated_at: "2026-11-23T20:26:36.499Z"
+status: "active"
 ---
 
 # § 2249. Certified copies of indictment, plea and judgment; duty of respondent
 
 On application for a writ of habeas corpus to inquire into the detention of any person pursuant to a judgment of a court of the United States, the respondent shall promptly file with the court certified copies of the indictment, plea of petitioner and the judgment, or such of them as may be material to the questions raised, if the petitioner fails to attach them to his petition, and same shall be attached to the return to the writ, or to the answer to the order to show cause.
 
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 966](https://www.govinfo.gov/link/statute/62/966).)*

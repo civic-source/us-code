@@ -3,9 +3,10 @@ title: "Section 1831q - FDIC affordable housing program"
 usc_title: 12
 usc_section: "1831q"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1831q"
-generated_at: "2026-03-30T02:53:53.460Z"
+generated_at: "2026-11-23T20:25:59.175Z"
+status: "active"
 ---
 
 # § 1831q. FDIC affordable housing program
@@ -181,3 +182,9 @@ generated_at: "2026-03-30T02:53:53.460Z"
     - **(B)** The term “ineligible multifamily housing property” means any eligible multifamily housing property to which the provisions of this section do not apply as a result of the limitations under subsection (b)(2)(A).
     - **(C)** The term “ineligible single family property” means any eligible single family property to which the provisions of this section do not apply as a result of the limitations under subsection (b)(2)(A).
     - **(D)** The term “ineligible residential property” includes ineligible single family properties, ineligible multifamily housing properties, and ineligible condominium properties.
+
+Affordable Housing Program Office
+
+## Source Credit
+
+*(Sept. 21, 1950, ch. 967, § 2 [40], as added [Pub. L. 102–242, title II, § 241(a)](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2317](https://www.govinfo.gov/link/statute/105/2317); amended [Pub. L. 102–389, title II](https://www.govinfo.gov/link/plaw/102/public/389), Oct. 6, 1992, [106 Stat. 1592](https://www.govinfo.gov/link/statute/106/1592), 1593; [Pub. L. 102–550, title V, § 503(c)(4)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3780](https://www.govinfo.gov/link/statute/106/3780); [Pub. L. 103–204](https://www.govinfo.gov/link/plaw/103/public/204), §§ 13, 14(a)(2), (d)(2), (e)(2), (f)(2), Dec. 17, 1993, [107 Stat. 2391](https://www.govinfo.gov/link/statute/107/2391), 2393, 2396, 2398; [Pub. L. 103–325, title VI, § 602(a)(65)](https://www.govinfo.gov/link/plaw/103/public/325), (66), Sept. 23, 1994, [108 Stat. 2291](https://www.govinfo.gov/link/statute/108/2291); [Pub. L. 106–400, § 2](https://www.govinfo.gov/link/plaw/106/public/400), Oct. 30, 2000, [114 Stat. 1675](https://www.govinfo.gov/link/statute/114/1675).)*

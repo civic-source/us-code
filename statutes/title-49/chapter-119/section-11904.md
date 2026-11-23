@@ -3,9 +3,10 @@ title: "Section 11904 - Unlawful disclosure of information"
 usc_title: 49
 usc_section: "11904"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 11904"
-generated_at: "2026-03-30T02:56:19.326Z"
+generated_at: "2026-11-23T20:27:34.735Z"
+status: "active"
 ---
 
 # § 11904. Unlawful disclosure of information
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:19.326Z"
   - **(3)** to another rail carrier or its agent to adjust mutual traffic accounts in the ordinary course of business.
 - **(d)** An employee of the Board delegated to make an inspection or examination under section 11144 of this title who knowingly discloses information acquired during that inspection or examination, except as directed by the Board, a court, or a judge of that court, shall be fined not more than $500, imprisoned for not more than 6 months, or both.
 - **(e)** A person that knowingly discloses confidential data made available to such person under section 11163 of this title by a rail carrier providing transportation subject to the jurisdiction of the Board under this part shall be fined not more than $50,000.
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 102(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 851](https://www.govinfo.gov/link/statute/109/851); amended [Pub. L. 105–102, § 2(6)](https://www.govinfo.gov/link/plaw/105/public/102), Nov. 20, 1997, [111 Stat. 2204](https://www.govinfo.gov/link/statute/111/2204).)*

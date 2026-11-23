@@ -3,9 +3,10 @@ title: "Section 1981 - Definitions"
 usc_title: 33
 usc_section: "1981"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1981"
-generated_at: "2026-03-30T02:55:41.112Z"
+generated_at: "2026-11-23T20:26:54.111Z"
+status: "active"
 ---
 
 # § 1981. Definitions
@@ -41,3 +42,7 @@ In this chapter:
   - **(14)** The term “Tribal Government” means the recognized governing body of any Indian or Alaska Native Tribe, band, nation, pueblo, village, community, component band, or component reservation, individually identified (including parenthetically) in the list published most recently as of December 26, 2025 , pursuant to section 5131 of title 25 .
   - **(15)** The term “Tribal organization” has the meaning given the term in section 5304 of title 25 .
   - **(16)** The term “Under Secretary” has the meaning given such term in section 4201 of this title .
+
+## Source Credit
+
+*([Pub. L. 109–449, § 131](https://www.govinfo.gov/link/plaw/109/public/449), formerly § 7, Dec. 22, 2006, [120 Stat. 3338](https://www.govinfo.gov/link/statute/120/3338); [Pub. L. 112–213, title VI, § 608](https://www.govinfo.gov/link/plaw/112/public/213), Dec. 20, 2012, [126 Stat. 1578](https://www.govinfo.gov/link/statute/126/1578); renumbered § 131 and amended [Pub. L. 119–65](https://www.govinfo.gov/link/plaw/119/public/65), §§ 4(b)(1), 5(a), (b)(1), (c), Dec. 26, 2025, [139 Stat. 1989](https://www.govinfo.gov/link/statute/139/1989), 1990.)*

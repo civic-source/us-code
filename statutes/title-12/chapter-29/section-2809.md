@@ -3,9 +3,10 @@ title: "Section 2809 - Compilation of aggregate data"
 usc_title: 12
 usc_section: "2809"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 2809"
-generated_at: "2026-03-30T02:53:53.488Z"
+generated_at: "2026-11-23T20:25:59.310Z"
+status: "active"
 ---
 
 # § 2809. Compilation of aggregate data
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:53:53.488Z"
 - **(a)** Beginning with data for calendar year 1980, the Federal Financial Institutions Examination Council shall compile each year, for each primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas, aggregate data by census tract for all depository institutions which are required to disclose data under section 2803 of this title or which are exempt pursuant to section 2805(b) of this title . The Council shall also produce tables indicating, for each primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas, aggregate lending patterns for various categories of census tracts grouped according to location, age of housing stock, income level, and racial characteristics.
 - **(b)** The Bureau shall provide staff and data processing resources to the Council to enable it to carry out the provisions of subsection (a).
 - **(c)** The data and tables required pursuant to subsection (a) shall be made available to the public by no later than December 31 of the year following the calendar year on which the data is based.
+
+## Source Credit
+
+*([Pub. L. 94–200, title III, § 310](https://www.govinfo.gov/link/plaw/94/public/200), as added [Pub. L. 96–399, title III, § 340(c)](https://www.govinfo.gov/link/plaw/96/public/399), Oct. 8, 1980, [94 Stat. 1658](https://www.govinfo.gov/link/statute/94/1658); amended [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title VII, § 701(a)], Nov. 30, 1983, [97 Stat. 1266](https://www.govinfo.gov/link/statute/97/1266); [Pub. L. 111–203, title X, § 1094(1)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2097](https://www.govinfo.gov/link/statute/124/2097).)*

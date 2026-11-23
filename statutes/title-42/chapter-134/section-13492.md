@@ -3,9 +3,10 @@ title: "Section 13492 - Program, goals, and plan"
 usc_title: 42
 usc_section: "13492"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13492"
-generated_at: "2026-03-30T02:56:11.447Z"
+generated_at: "2026-11-23T20:27:23.501Z"
+status: "active"
 ---
 
 # § 13492. Program, goals, and plan
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:11.447Z"
   - **(2)** how the Federal Government, acting through the Secretary, can be effective in ensuring the availability of such technologies when they are needed;
   - **(3)** how the Federal Government can most effectively cooperate with the private sector in the accomplishment of the goals set forth in subsection (b); and
   - **(4)** potential alternative funding sources for carrying out this section.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XXI, § 2122](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3082](https://www.govinfo.gov/link/statute/106/3082).)*

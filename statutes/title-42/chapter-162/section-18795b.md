@@ -3,9 +3,10 @@ title: "Section 18795b - State-based home energy efficiency contractor training 
 usc_title: 42
 usc_section: "18795b"
 chapter: 162
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18795b"
-generated_at: "2026-03-30T02:56:11.531Z"
+generated_at: "2026-11-23T20:27:23.832Z"
+status: "active"
 ---
 
 # § 18795b. State-based home energy efficiency contractor training grants
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.531Z"
   - **(2)** to provide testing and certification of contractors trained and educated under a State program developed and implemented pursuant to subsection (a); and
   - **(3)** to partner with nonprofit organizations to develop and implement a State program pursuant to subsection (a).
 - **(c)** Of the amounts received by a State under subsection (a), a State shall use not more than 10 percent for administrative expenses associated with developing and implementing a State program pursuant to that subsection.
+
+## Source Credit
+
+*([Pub. L. 117–169, title V, § 50123](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 2041](https://www.govinfo.gov/link/statute/136/2041).)*

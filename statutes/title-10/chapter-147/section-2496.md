@@ -3,9 +3,10 @@ title: "Section 2496 - Sale of certain goods from the Xinjiang Uyghur Autonomous
 usc_title: 10
 usc_section: "2496"
 chapter: 147
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2496"
-generated_at: "2026-03-30T02:53:38.162Z"
+generated_at: "2026-11-23T20:25:51.604Z"
+status: "active"
 ---
 
 # § 2496. Sale of certain goods from the Xinjiang Uyghur Autonomous Region prohibited
@@ -16,3 +17,11 @@ generated_at: "2026-03-30T02:53:38.162Z"
 - **(b)** In this section:
   - **(1)** The term “forced labor” means any work or service that is exacted from any person under the menace of any penalty for nonperformance and that the worker does not offer to perform.
   - **(2)** The term “XUAR” means the Xinjiang Uyghur Autonomous Region of the People’s Republic of China.
+
+Prohibition
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. A, title VI, § 651(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2639](https://www.govinfo.gov/link/statute/136/2639).)*

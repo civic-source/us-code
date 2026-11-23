@@ -3,9 +3,10 @@ title: "Section 808 - New licenses and renewals"
 usc_title: 16
 usc_section: "808"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 808"
-generated_at: "2026-03-30T02:54:22.911Z"
+generated_at: "2026-11-23T20:26:20.283Z"
+status: "active"
 ---
 
 # § 808. New licenses and renewals
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:54:22.911Z"
     - **(E)** shall not order any entity other than the existing licensee to provide transmission or other services.
 - **(e)** Except for an annual license, any license issued by the Commission under this section shall be for a term which the Commission determines to be in the public interest but not less than 30 years, nor more than 50 years, from the date on which the license is issued.
 - **(f)** In issuing any licenses under this section except an annual license, the Commission, on its own motion or upon application of any licensee, person, State, municipality, or State commission, after notice to each State commission and licensee affected, and after opportunity for hearing, whenever it finds that in conformity with a comprehensive plan for improving or developing a waterway or waterways for beneficial public uses all or part of any licensed project should no longer be used or adapted for use for power purposes, may license all or part of the project works for nonpower use. A license for nonpower use shall be issued to a new licensee only on the condition that the new licensee shall, before taking possession of the facilities encompassed thereunder, pay such amount and assume such contracts as the United States is required to do, in the manner specified in section 807 of this title . Any license for nonpower use shall be a temporary license. Whenever, in the judgment of the Commission, a State, municipality, interstate agency, or another Federal agency is authorized and willing to assume regulatory supervision of the lands and facilities included under the nonpower license and does so, the Commission shall thereupon terminate the license. Consistent with the provisions of subchapter IV of this chapter, every licensee for nonpower use shall keep such accounts and file such annual and other periodic or special reports concerning the removal, alteration, nonpower use, or other disposition of any project works or parts thereof covered by the nonpower use license as the Commission may by rules and regulations or order prescribe as necessary or appropriate.
+
+## Source Credit
+
+*(June 10, 1920, ch. 285, pt. I, § 15, [41 Stat. 1072](https://www.govinfo.gov/link/statute/41/1072); renumbered pt. I, Aug. 26, 1935, ch. 687, title II, § 212, [49 Stat. 847](https://www.govinfo.gov/link/statute/49/847); [Pub. L. 90–451, § 3](https://www.govinfo.gov/link/plaw/90/public/451), Aug. 3, 1968, [82 Stat. 617](https://www.govinfo.gov/link/statute/82/617); [Pub. L. 99–495](https://www.govinfo.gov/link/plaw/99/public/495), §§ 4(a), (b)(1), 5, Oct. 16, 1986, [100 Stat. 1245](https://www.govinfo.gov/link/statute/100/1245), 1248.)*

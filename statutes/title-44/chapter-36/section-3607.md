@@ -3,9 +3,10 @@ title: "Section 3607 - Definitions"
 usc_title: 44
 usc_section: "3607"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "44 U.S.C. § 3607"
-generated_at: "2026-03-30T02:55:56.299Z"
+generated_at: "2026-11-23T20:27:03.847Z"
+status: "active"
 ---
 
 # § 3607. Definitions
@@ -25,3 +26,33 @@ generated_at: "2026-03-30T02:55:56.299Z"
   - **(9)** The term “FedRAMP Board” means the board established under section 3610.
   - **(10)** The term “independent assessment service” means a third-party organization accredited by the Administrator to undertake conformity assessments of cloud service providers and the products or services of cloud service providers.
   - **(11)** The term “Secretary” means the Secretary of Homeland Security.
+
+In General
+
+Additional Definitions
+
+Administrator
+
+Appropriate congressional committees
+
+Authorization to operate; federal information
+
+Cloud computing
+
+Cloud service provider
+
+FedRAMP
+
+FedRAMP authorization
+
+Fedramp authorization package
+
+FedRAMP board
+
+Independent assessment service
+
+Secretary
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. E, title LIX, § 5921(b)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3449](https://www.govinfo.gov/link/statute/136/3449).)*

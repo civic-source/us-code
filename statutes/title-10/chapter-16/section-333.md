@@ -3,9 +3,10 @@ title: "Section 333 - Foreign security forces: authority to build capacity"
 usc_title: 10
 usc_section: "333"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 333"
-generated_at: "2026-03-30T02:53:38.052Z"
+generated_at: "2026-11-23T20:25:50.911Z"
+status: "active"
 ---
 
 # § 333. Foreign security forces: authority to build capacity
@@ -77,3 +78,223 @@ generated_at: "2026-03-30T02:53:38.052Z"
     - **(D)** A determination as to whether the anticipated costs to be incurred under the agreement are fair and reasonable.
     - **(E)** A certification that the agreement is in the national security interests of the United States.
     - **(F)** Any other matter relating to the agreement, as determined by the Secretary of Defense.
+
+Authority
+
+Concurrence and Coordination With Secretary of State.—
+
+Concurrence in conduct of programs
+
+Joint development and planning of programs
+
+Implementation of programs
+
+Coordination in preparation of certain notices
+
+Types of Capacity Building.—
+
+Authorized elements
+
+Required elements
+
+Observance of and respect for the law of armed conflict, human rights and fundamental freedoms, the rule of law, and civilian control of the military
+
+Institutional capacity building
+
+Limitations.—
+
+Assistance otherwise prohibited by law
+
+Prohibition on assistance to units that have committed gross violations of human rights
+
+Duration of sustainment support
+
+Notice and Wait on Activities Under Programs
+
+Semi-Annual Monitoring Reports
+
+Funding.—
+
+Sole source of funds
+
+Availability of funds for programs across fiscal years
+
+Equipment Disposition; Notice and Wait.—
+
+Notice and wait
+
+International Agreements.—
+
+In general
+
+Notification
+
+In General
+
+Plan.—
+
+In general
+
+Elements
+
+In General
+
+Relationship to Existing Authorities
+
+Objectives
+
+Strategy
+
+In general
+
+Considerations
+
+Sense of Congress
+
+Definitions
+
+Sunset
+
+In General
+
+Strategy Requirements
+
+Submission; Interim Report.—
+
+Submission of strategy
+
+Interim report on implementation
+
+In General
+
+Briefing and Report.—
+
+Briefing
+
+Report
+
+Campaigning Defined
+
+“The Secretary of Defense, in coordination with the Secretary of State and the head of any other relevant Federal department or agency, shall seek to ensure that India is appropriately considered for cooperative defense activities consistent with the status of India as a major defense partner of the United States, including with respect to the following lines of effort:
+
+Requirement
+
+Cooperation Efforts
+
+Briefings.—
+
+Requirement
+
+Contents
+
+Appropriate Congressional Committees Defined
+
+In General
+
+Elements
+
+Reports.—
+
+Design of pilot program
+
+Progress report
+
+Certification
+
+Termination
+
+Definitions
+
+Appropriate committees of congress
+
+Covered foreign military partner
+
+Authority
+
+Types of Training
+
+Eligible Countries.—
+
+In general
+
+Eligible countries
+
+Funding of Incremental Expenses.—
+
+Annual funding
+
+Amounts
+
+Availability of funds for activities across fiscal years
+
+Regulations.—
+
+In general
+
+Procedures to be included
+
+Quarterly report
+
+Non-developing country defined
+
+Briefing to Congress on Use of Authority
+
+Construction of Authority
+
+Incremental Expenses Defined
+
+Termination of Authority
+
+Establishment
+
+Use of Authorities
+
+Purposes
+
+Assistance and Training.—
+
+In general
+
+Designation of assistance and training
+
+Recipient Countries
+
+Types of Assistance and Training.—
+
+Authorized elements of assistance
+
+Required elements of assistance and training
+
+Priorities for Assistance and Training
+
+Incremental Expenses of Personnel of Recipient Countries for Training
+
+Availability of Funds for Coast Guard Personnel and Capabilities
+
+Limitations.—
+
+Assistance otherwise prohibited by law
+
+Prohibition on assistance to units that have committed gross violations of human rights
+
+Security cooperation
+
+Assessment, monitoring, and evaluation
+
+Notice to Congress on Assistance and Training.—
+
+In general
+
+Appropriate committees of congress defined
+
+Annual Monitoring Reports.—
+
+In general
+
+Appropriate committees of congress defined
+
+Expiration
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. A, title XII, § 1241(d)(1)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2500](https://www.govinfo.gov/link/statute/130/2500); amended [Pub. L. 115–91, div. A, title XII, § 1204(b)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1643](https://www.govinfo.gov/link/statute/131/1643); [Pub. L. 115–232, div. A, title XII](https://www.govinfo.gov/link/plaw/115/public/232), §§ 1201, 1203(c), Aug. 13, 2018, [132 Stat. 2016](https://www.govinfo.gov/link/statute/132/2016); [Pub. L. 116–92, div. A, title XII, § 1201](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1620](https://www.govinfo.gov/link/statute/133/1620); [Pub. L. 116–283, div. A, title XII, § 1201](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3908](https://www.govinfo.gov/link/statute/134/3908); [Pub. L. 117–263, div. A, title XII, § 1202(c)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2823](https://www.govinfo.gov/link/statute/136/2823); [Pub. L. 118–31, div. A, title XII, § 1203(b)](https://www.govinfo.gov/link/plaw/118/public/31), (c), Dec. 22, 2023, [137 Stat. 441](https://www.govinfo.gov/link/statute/137/441), 442; [Pub. L. 118–159, div. A, title XII, § 1201(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2093](https://www.govinfo.gov/link/statute/138/2093); [Pub. L. 119–60, div. A, title XII, § 1202](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1081](https://www.govinfo.gov/link/statute/139/1081).)*

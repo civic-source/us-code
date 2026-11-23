@@ -3,12 +3,17 @@ title: "Section 556 - Contractual right to liquidate, terminate, or accelerate a
 usc_title: 11
 usc_section: "556"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 556"
-generated_at: "2026-03-30T02:53:53.880Z"
+generated_at: "2026-11-23T20:25:55.375Z"
+status: "active"
 ---
 
 # § 556. Contractual right to liquidate, terminate, or accelerate a commodities contract or forward contract
 
 The contractual right of a commodity broker, financial participant, or forward contract merchant to cause the liquidation, termination, or acceleration of a commodity contract, as defined in section 761 of this title , or forward contract because of a condition of the kind specified in section 365(e)(1) of this title , and the right to a variation or maintenance margin payment received from a trustee with respect to open commodity contracts or forward contracts, shall not be stayed, avoided, or otherwise limited by operation of any provision of this title or by the order of a court in any proceeding under this title. As used in this section, the term “contractual right” includes a right set forth in a rule or bylaw of a derivatives clearing organization (as defined in the Commodity Exchange Act), a multilateral clearing organization (as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991), a national securities exchange, a national securities association, a securities clearing agency, a contract market designated under the Commodity Exchange Act, a derivatives transaction execution facility registered under the Commodity Exchange Act, or a board of trade (as defined in the Commodity Exchange Act) or in a resolution of the governing board thereof and a right, whether or not evidenced in writing, arising under common law, under law merchant or by reason of normal business practice.
 
+
+## Source Credit
+
+*(Added [Pub. L. 97–222, § 6(a)](https://www.govinfo.gov/link/plaw/97/public/222), July 27, 1982, [96 Stat. 236](https://www.govinfo.gov/link/statute/96/236); amended [Pub. L. 101–311, title II, § 205](https://www.govinfo.gov/link/plaw/101/public/311), June 25, 1990, [104 Stat. 270](https://www.govinfo.gov/link/statute/104/270); [Pub. L. 103–394, title V, § 501(b)(7)](https://www.govinfo.gov/link/plaw/103/public/394), Oct. 22, 1994, [108 Stat. 4143](https://www.govinfo.gov/link/statute/108/4143); [Pub. L. 109–8, title IX](https://www.govinfo.gov/link/plaw/109/public/8), §§ 907(h), (o)(8), Apr. 20, 2005, [119 Stat. 178](https://www.govinfo.gov/link/statute/119/178), 182.)*

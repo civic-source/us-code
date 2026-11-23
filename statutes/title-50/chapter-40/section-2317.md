@@ -3,9 +3,10 @@ title: "Section 2317 - Rapid response information system"
 usc_title: 50
 usc_section: "2317"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 2317"
-generated_at: "2026-03-30T02:56:26.220Z"
+generated_at: "2026-11-23T20:27:30.836Z"
+status: "active"
 ---
 
 # § 2317. Rapid response information system
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:26.220Z"
 - **(c)** Not later than December 31, 1997 , the Administrator of the Federal Emergency Management Agency shall develop and incorporate into existing Federal emergency response plans and programs prepared under section 5196(b) of title 42 guidance on accessing and using the physical equipment and assets included in the master list developed under subsection 1 1 So in original. Probably should be “subsection (b)”. to respond to emergencies involving weapons of mass destruction.
 - **(d)** The Administrator of the Federal Emergency Management Agency, in consultation with the Secretary of Defense, shall prepare a database on chemical and biological agents and munitions characteristics and safety precautions for civilian use. The initial design and compilation of the database shall be completed not later than December 31, 1997 .
 - **(e)** The Administrator of the Federal Emergency Management Agency shall design and maintain a system to give Federal, State, and local officials access to the inventory listing and database maintained under this section in the event of an emergency involving weapons of mass destruction or to prepare and train to respond to such an emergency. The system shall include a secure but accessible emergency response hotline to access information and request assistance.
+
+## Source Credit
+
+*([Pub. L. 104–201, div. A, title XIV, § 1417](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2724](https://www.govinfo.gov/link/statute/110/2724); [Pub. L. 109–295, title VI, § 612(c)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1410](https://www.govinfo.gov/link/statute/120/1410).)*

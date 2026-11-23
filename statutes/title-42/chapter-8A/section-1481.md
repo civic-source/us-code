@@ -3,12 +3,17 @@ title: "Section 1481 - Issuance of notes and obligations for loan funds; amount;
 usc_title: 42
 usc_section: "1481"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1481"
-generated_at: "2026-03-30T02:56:11.095Z"
+generated_at: "2026-11-23T20:27:21.784Z"
+status: "active"
 ---
 
 # § 1481. Issuance of notes and obligations for loan funds; amount; limitation; security; form and denomination; interest; purchase and sale by Treasury; public debt transaction
 
 The Secretary may issue notes and other obligations for purchase by the Secretary of the Treasury for the purpose of making direct loans under this subchapter. The notes and obligations issued by the Secretary shall be secured by the obligations of borrowers and the Secretary’s commitments to make contributions under this subchapter and shall be repaid from the payment of principal and interest on the obligations of the borrowers and from funds appropriated hereunder. The notes and other obligations issued by the Secretary shall be in such forms and denominations, shall have such maturities, and shall be subject to such terms and conditions as may be prescribed by the Secretary with the approval of the Secretary of the Treasury. Each such note or other obligation shall bear interest at the average rate, as determined by the Secretary of the Treasury, payable by the Treasury upon its marketable public obligations outstanding at the beginning of the fiscal year in which such note or other obligation is issued, which are neither due nor callable for redemption for 15 years from their date of issue. The Secretary of the Treasury is authorized and directed to purchase any notes and other obligations of the Secretary issued hereunder and for such purpose is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which securities may be issued under such chapter are extended to include any purchases of such obligations. The Secretary of the Treasury may at any time sell any of the notes or obligations acquired by him under this section. All redemptions, purchases, and sales by the Secretary of the Treasury of such notes or obligations shall be treated as public debt transactions of the United States.
 
+
+## Source Credit
+
+*(July 15, 1949, ch. 338, title V, § 511, [63 Stat. 438](https://www.govinfo.gov/link/statute/63/438); July 14, 1952, ch. 723, § 11(a), [66 Stat. 604](https://www.govinfo.gov/link/statute/66/604); June 29, 1954, ch. 410, § 5(a), [68 Stat. 320](https://www.govinfo.gov/link/statute/68/320); Aug. 2, 1954, ch. 649, title VIII, § 812(a), [68 Stat. 647](https://www.govinfo.gov/link/statute/68/647); Aug. 11, 1955, ch. 783, title V, § 501(1), [69 Stat. 654](https://www.govinfo.gov/link/statute/69/654); Aug. 7, 1956, ch. 1029, title VI, § 606(a), [70 Stat. 1114](https://www.govinfo.gov/link/statute/70/1114); [Pub. L. 87–70, title VIII](https://www.govinfo.gov/link/plaw/87/public/70), §§ 801(c), 802, June 30, 1961, [75 Stat. 186](https://www.govinfo.gov/link/statute/75/186); [Pub. L. 87–723, § 4(c)(1)](https://www.govinfo.gov/link/plaw/87/public/723), Sept. 28, 1962, [76 Stat. 672](https://www.govinfo.gov/link/statute/76/672); [Pub. L. 88–560, title V, § 501(a)](https://www.govinfo.gov/link/plaw/88/public/560), Sept. 2, 1964, [78 Stat. 796](https://www.govinfo.gov/link/statute/78/796); [Pub. L. 89–117, title X, § 1003(b)](https://www.govinfo.gov/link/plaw/89/public/117), Aug. 10, 1965, [79 Stat. 500](https://www.govinfo.gov/link/statute/79/500); [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title V, § 508], Nov. 30, 1983, [97 Stat. 1243](https://www.govinfo.gov/link/statute/97/1243); [Pub. L. 98–479, title II, § 203(d)(4)](https://www.govinfo.gov/link/plaw/98/public/479), Oct. 17, 1984, [98 Stat. 2229](https://www.govinfo.gov/link/statute/98/2229).)*

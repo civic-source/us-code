@@ -3,9 +3,10 @@ title: "Section 6711 - Prohibited discrimination"
 usc_title: 31
 usc_section: "6711"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 6711"
-generated_at: "2026-03-30T02:55:34.074Z"
+generated_at: "2026-11-23T20:26:51.918Z"
+status: "active"
 ---
 
 # § 6711. Prohibited discrimination
@@ -19,3 +20,15 @@ generated_at: "2026-03-30T02:55:34.074Z"
 - **(d)** The Secretary shall try to make agreements with heads of agencies of the United States Government and State agencies to investigate noncompliance with this section. An agreement shall—
   - **(1)** describe the cooperative efforts to be taken (including sharing civil rights enforcement personnel and resources) to obtain compliance with this section; and
   - **(2)** provide for notifying immediately the Secretary of actions brought by the United States Government or State agencies against a unit of general local government alleging a violation of a civil rights law or a regulation prescribed under a civil rights law.
+
+General Prohibition
+
+Additional Prohibitions
+
+Limitations on Applicability of Prohibitions
+
+Investigation Agreements
+
+## Source Credit
+
+*(Added [Pub. L. 103–322, title III, § 31001(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1874](https://www.govinfo.gov/link/statute/108/1874).)*

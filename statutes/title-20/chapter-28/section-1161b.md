@@ -3,9 +3,10 @@ title: "Section 1161b - Mathematics and science scholars program"
 usc_title: 20
 usc_section: "1161b"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1161b"
-generated_at: "2026-03-30T02:54:48.150Z"
+generated_at: "2026-11-23T20:26:14.581Z"
+status: "active"
 ---
 
 # § 1161b. Mathematics and science scholars program
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:54:48.150Z"
 - **(e)** In order to receive a grant under this section, a State shall provide matching funds for the scholarships awarded under this section in an amount equal to 50 percent of the Federal funds received.
 - **(f)** There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
 - **(g)** The term “Governor” means the chief executive officer of a State.
+
+## Source Credit
+
+*([Pub. L. 89–329, title VIII, § 802](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title VIII, § 801](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3381](https://www.govinfo.gov/link/statute/122/3381); amended [Pub. L. 111–39, title VIII, § 801(1)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1955](https://www.govinfo.gov/link/statute/123/1955).)*

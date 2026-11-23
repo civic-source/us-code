@@ -3,9 +3,10 @@ title: "Section 4653 - Expenses incidental to transfer of title to United States
 usc_title: 42
 usc_section: "4653"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4653"
-generated_at: "2026-03-30T02:56:11.207Z"
+generated_at: "2026-11-23T20:27:22.405Z"
+status: "active"
 ---
 
 # § 4653. Expenses incidental to transfer of title to United States
@@ -15,3 +16,7 @@ The head of a Federal agency, as soon as practicable after the date of payment o
   - **(1)** recording fees, transfer taxes, and similar expenses incidental to conveying such real property to the United States;
   - **(2)** penalty costs for prepayment of any preexisting recorded mortgage entered into in good faith encumbering such real property; and
   - **(3)** the pro rata portion of real property taxes paid which are allocable to a period subsequent to the date of vesting title in the United States, or the effective date of possession of such real property by the United States, whichever is the earlier.
+
+## Source Credit
+
+*([Pub. L. 91–646, title III, § 303](https://www.govinfo.gov/link/plaw/91/public/646), Jan. 2, 1971, [84 Stat. 1906](https://www.govinfo.gov/link/statute/84/1906).)*

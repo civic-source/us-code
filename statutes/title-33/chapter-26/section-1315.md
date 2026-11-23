@@ -3,9 +3,10 @@ title: "Section 1315 - State reports on water quality"
 usc_title: 33
 usc_section: "1315"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1315"
-generated_at: "2026-03-30T02:55:41.092Z"
+generated_at: "2026-11-23T20:26:54.014Z"
+status: "active"
 ---
 
 # § 1315. State reports on water quality
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:41.092Z"
     - **(D)** an estimate of (i) the environmental impact, (ii) the economic and social costs necessary to achieve the objective of this chapter in such State, (iii) the economic and social benefits of such achievement, and (iv) an estimate of the date of such achievement; and
     - **(E)** a description of the nature and extent of nonpoint sources of pollutants, and recommendations as to the programs which must be undertaken to control each category of such sources, including an estimate of the costs of implementing such programs.
   - **(2)** The Administrator shall transmit such State reports, together with an analysis thereof, to Congress on or before October 1, 1975 , and October 1, 1976 , and biennially thereafter.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title III, § 305, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 853](https://www.govinfo.gov/link/statute/86/853); amended [Pub. L. 95–217, § 52](https://www.govinfo.gov/link/plaw/95/public/217), Dec. 27, 1977, [91 Stat. 1589](https://www.govinfo.gov/link/statute/91/1589).)*

@@ -3,9 +3,10 @@ title: "Section 1928f - Limitation on withdrawal from the North Atlantic Treaty 
 usc_title: 22
 usc_section: "1928f"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 1928f"
-generated_at: "2026-03-30T02:55:05.339Z"
+generated_at: "2026-11-23T20:26:32.148Z"
+status: "active"
 ---
 
 # § 1928f. Limitation on withdrawal from the North Atlantic Treaty Organization
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.339Z"
 - **(d)** Nothing in this section shall be construed to authorize, imply, or otherwise indicate that the President may suspend, terminate, denounce, or withdraw from any treaty to which the Senate has provided its advice and consent without the advice and consent of the Senate to such act or pursuant to an Act of Congress.
 - **(e)** If any provision of this section or the application of such provision is held by a Federal court to be unconstitutional, the remainder of this subtitle and the application of such provisions to any other person or circumstance shall not be affected thereby.
 - **(f)** In this subtitle, the terms “withdrawal”, “denunciation”, “suspension”, and “termination” have the meaning given the terms in the Vienna Convention on the Law of Treaties, concluded at Vienna May 23, 1969 .
+
+## Source Credit
+
+*([Pub. L. 118–31, div. A, title XII, § 1250A](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 464](https://www.govinfo.gov/link/statute/137/464).)*

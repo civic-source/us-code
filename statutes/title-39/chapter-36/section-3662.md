@@ -3,9 +3,10 @@ title: "Section 3662 - Rate and service complaints"
 usc_title: 39
 usc_section: "3662"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "39 U.S.C. § 3662"
-generated_at: "2026-03-30T02:55:43.695Z"
+generated_at: "2026-11-23T20:26:57.759Z"
+status: "active"
 ---
 
 # § 3662. Rate and service complaints
@@ -20,3 +21,19 @@ generated_at: "2026-03-30T02:55:43.695Z"
   - **(2)** For purposes of section 3663, any complaint under subsection (a) on which the Commission fails to act in the time and manner required by paragraph (1) shall be treated in the same way as if it had been dismissed pursuant to an order issued by the Commission on the last day allowable for the issuance of such order under paragraph (1).
 - **(c)** If the Postal Regulatory Commission finds the complaint to be justified, it shall order that the Postal Service take such action as the Commission considers appropriate in order to achieve compliance with the applicable requirements and to remedy the effects of any noncompliance (such as ordering unlawful rates to be adjusted to lawful levels, ordering the cancellation of market tests, ordering the Postal Service to discontinue providing loss-making products, or requiring the Postal Service to make up for revenue shortfalls in competitive products).
 - **(d)** In addition, in cases of deliberate noncompliance by the Postal Service with the requirements of this title, the Postal Regulatory Commission may order, based on the nature, circumstances, extent, and seriousness of the noncompliance, a fine (in the amount specified by the Commission in its order) for each incidence of noncompliance. Fines resulting from the provision of competitive products shall be paid from the Competitive Products Fund established in section 2011. All receipts from fines imposed under this subsection shall be deposited in the general fund of the Treasury of the United States.
+
+In General
+
+Prompt Response Required.—
+
+In general
+
+Treatment of complaints not timely acted on
+
+Action Required if Complaint Found To Be Justified
+
+Authority To Order Fines in Cases of Deliberate Noncompliance
+
+## Source Credit
+
+*(Added [Pub. L. 109–435, title II, § 205](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3216](https://www.govinfo.gov/link/statute/120/3216).)*

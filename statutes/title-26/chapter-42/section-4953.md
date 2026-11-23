@@ -3,9 +3,10 @@ title: "Section 4953 - Tax on excess contributions to black lung benefit trusts"
 usc_title: 26
 usc_section: "4953"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 4953"
-generated_at: "2026-03-30T02:55:27.808Z"
+generated_at: "2026-11-23T20:26:46.353Z"
+status: "active"
 ---
 
 # § 4953. Tax on excess contributions to black lung benefit trusts
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:27.808Z"
   - **(1)** an act of self-dealing (within the meaning of section 4951),
   - **(2)** a taxable expenditure (within the meaning of section 4952), or
   - **(3)** an act contrary to the purposes for which the trust is exempt from taxation under section 501(a).
+
+## Source Credit
+
+*(Added [Pub. L. 95–227, § 4(c)(1)](https://www.govinfo.gov/link/plaw/95/public/227), Feb. 10, 1978, [92 Stat. 22](https://www.govinfo.gov/link/statute/92/22).)*

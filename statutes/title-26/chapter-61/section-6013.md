@@ -3,9 +3,10 @@ title: "Section 6013 - Joint returns of income tax by husband and wife"
 usc_title: 26
 usc_section: "6013"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6013"
-generated_at: "2026-03-30T02:55:27.829Z"
+generated_at: "2026-11-23T20:26:46.489Z"
+status: "active"
 ---
 
 # § 6013. Joint returns of income tax by husband and wife
@@ -75,3 +76,19 @@ generated_at: "2026-03-30T02:55:27.829Z"
     - **(B)** at the close of such taxable year, such individual is married to a citizen or resident of the United States, and
     - **(C)** both individuals elect the benefits of this subsection at the time and in the manner prescribed by the Secretary by regulation,
   - **(2)** If any election under this subsection applies for any 2 individuals for any taxable year, such 2 individuals shall be ineligible to make an election under this subsection for any subsequent taxable year.
+
+In general
+
+Authority to disregard community property laws
+
+Transitional rule
+
+“The amendments made by this paragraph [amending this section and section 6401 of this title ]—
+
+General rule
+
+Amendments relating to income tax
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 733; [Pub. L. 85–866, title I, § 73](https://www.govinfo.gov/link/plaw/85/public/866), Sept. 2, 1958, [72 Stat. 1660](https://www.govinfo.gov/link/statute/72/1660); [Pub. L. 91–172, title VIII, § 801(a)(2)](https://www.govinfo.gov/link/plaw/91/public/172), (b)(2), (c)(2), (d)(2), Dec. 30, 1969, [83 Stat. 675](https://www.govinfo.gov/link/statute/83/675), 676; [Pub. L. 91–679, § 1](https://www.govinfo.gov/link/plaw/91/public/679), Jan. 12, 1971, [84 Stat. 2063](https://www.govinfo.gov/link/statute/84/2063); [Pub. L. 92–178, title II, § 201(a)(2)](https://www.govinfo.gov/link/plaw/92/public/178), (b)(2), (c), Dec. 10, 1971, [85 Stat. 510](https://www.govinfo.gov/link/statute/85/510), 511; [Pub. L. 93–597, § 3(a)](https://www.govinfo.gov/link/plaw/93/public/597), Jan. 2, 1975, [88 Stat. 1950](https://www.govinfo.gov/link/statute/88/1950); [Pub. L. 94–455, title X, § 1012(a)(1)](https://www.govinfo.gov/link/plaw/94/public/455), title XIX, § 1906(a)(1), (b)(13)(A), Oct. 4, 1976, [90 Stat. 1612](https://www.govinfo.gov/link/statute/90/1612), 1824, 1834; [Pub. L. 94–569, § 3(d)](https://www.govinfo.gov/link/plaw/94/public/569), Oct. 20, 1976, [90 Stat. 2699](https://www.govinfo.gov/link/statute/90/2699); [Pub. L. 95–600, title I, § 102(b)(2)](https://www.govinfo.gov/link/plaw/95/public/600), title VII, § 701(u)(15)(A)–(C), (16)(A), Nov. 6, 1978, [92 Stat. 2771](https://www.govinfo.gov/link/statute/92/2771), 2919, 2920; [Pub. L. 97–34, title I, § 104(d)(2)](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 189](https://www.govinfo.gov/link/statute/95/189); [Pub. L. 97–248, title III](https://www.govinfo.gov/link/plaw/97/public/248), §§ 307(a)(4), (5), 308(a), Sept. 3, 1982, [96 Stat. 589](https://www.govinfo.gov/link/statute/96/589), 591; [Pub. L. 97–448, title III, § 307(c)](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2407](https://www.govinfo.gov/link/statute/96/2407); [Pub. L. 98–67, title I, § 102(a)](https://www.govinfo.gov/link/plaw/98/public/67), Aug. 5, 1983, [97 Stat. 369](https://www.govinfo.gov/link/statute/97/369); [Pub. L. 98–369, div. A, title IV](https://www.govinfo.gov/link/plaw/98/public/369), §§ 424(a), 474(b)(2), July 18, 1984, [98 Stat. 801](https://www.govinfo.gov/link/statute/98/801), 830; [Pub. L. 99–514, title I, § 104(a)(2)](https://www.govinfo.gov/link/plaw/99/public/514), title XVII, § 1708(a)(3), Oct. 22, 1986, [100 Stat. 2104](https://www.govinfo.gov/link/statute/100/2104), 2782; [Pub. L. 100–647, title I, § 1015(b)(1)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3568](https://www.govinfo.gov/link/statute/102/3568); [Pub. L. 101–239, title VII, § 7721(c)(6)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2399](https://www.govinfo.gov/link/statute/103/2399); [Pub. L. 101–508, title XI, § 11704(a)(22)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–519](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 104–168, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/104/public/168), July 30, 1996, [110 Stat. 1459](https://www.govinfo.gov/link/statute/110/1459); [Pub. L. 105–206, title III, § 3201(e)(1)](https://www.govinfo.gov/link/plaw/105/public/206), title VI, § 6011(e)(2), July 22, 1998, [112 Stat. 740](https://www.govinfo.gov/link/statute/112/740), 818; [Pub. L. 107–134, title I, § 101(b)(2)](https://www.govinfo.gov/link/plaw/107/public/134), Jan. 23, 2002, [115 Stat. 2428](https://www.govinfo.gov/link/statute/115/2428); [Pub. L. 108–121, title I, § 110(a)(2)(B)](https://www.govinfo.gov/link/plaw/108/public/121), Nov. 11, 2003, [117 Stat. 1342](https://www.govinfo.gov/link/statute/117/1342).)*

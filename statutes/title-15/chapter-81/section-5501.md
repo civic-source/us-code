@@ -3,9 +3,10 @@ title: "Section 5501 - Findings"
 usc_title: 15
 usc_section: "5501"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 5501"
-generated_at: "2026-03-30T02:54:08.207Z"
+generated_at: "2026-11-23T20:26:04.372Z"
+status: "active"
 ---
 
 # § 5501. Findings
@@ -21,3 +22,33 @@ The Congress finds the following:
   - **(7)** Additional research must be undertaken to lay the foundation for the development of new applications that can result in economic growth, improved health care, and improved educational opportunities.
   - **(8)** Research in new networking technologies holds the promise of easing the economic burdens of information access disproportionately borne by rural users of the Internet.
   - **(9)** Information security is an important part of computing, information, and communications systems and applications, and research into security architectures is a critical aspect of computing, information, and communications research programs.
+
+“The Congress finds that—
+
+“The purposes of this Act [see Short Title of 1998 Amendment note above] are—
+
+“For purposes of this Act [see Short Title of 1998 Amendment note above]—
+
+Geographic penalty
+
+Internet
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 102–194, § 2](https://www.govinfo.gov/link/plaw/102/public/194), Dec. 9, 1991, [105 Stat. 1594](https://www.govinfo.gov/link/statute/105/1594); [Pub. L. 105–305, § 2(b)](https://www.govinfo.gov/link/plaw/105/public/305), Oct. 28, 1998, [112 Stat. 2919](https://www.govinfo.gov/link/statute/112/2919); [Pub. L. 114–329, title I, § 105(b)](https://www.govinfo.gov/link/plaw/114/public/329), Jan. 6, 2017, [130 Stat. 2976](https://www.govinfo.gov/link/statute/130/2976).)*

@@ -3,9 +3,10 @@ title: "Section 925B - Reporting of background check denials to State authoritie
 usc_title: 18
 usc_section: "925B"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 925B"
-generated_at: "2026-03-30T02:54:16.474Z"
+generated_at: "2026-11-23T20:26:08.432Z"
+status: "active"
 ---
 
 # § 925B. Reporting of background check denials to State authorities
@@ -21,3 +22,15 @@ generated_at: "2026-03-30T02:54:16.474Z"
 - **(b)** A report is made in accordance with this subsection if the report is made under subsection (a) within 24 hours after the NICS denies a firearm transfer in accordance with section 922(t) of title 18 , United States Code, except that the making of the report may be delayed for so long as is necessary to avoid compromising an ongoing investigation.
 - **(c)** If a report is made in accordance with subsection (b) and, after such report is made, the Federal Bureau of Investigation determines that the receipt of a firearm by a person for whom the report was made would not violate subsection (g) or (n) of section 922 or State, local, or Tribal law, the Attorney General shall notify any law enforcement authority and any prosecutor to whom the report was made of that determination.
 - **(d)** Nothing in subsection (a) shall be construed to require a report with respect to a person to be made to the same State authorities that made the original denial determination with respect to the transfer of the firearm.
+
+In General
+
+Requirements for Report
+
+Amendment of Report
+
+Rule of Construction
+
+## Source Credit
+
+*(Added [Pub. L. 117–103, div. W, title XI, § 1101(c)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 919](https://www.govinfo.gov/link/statute/136/919).)*

@@ -3,9 +3,10 @@ title: "Section 2851 - Supervision of military construction projects"
 usc_title: 10
 usc_section: "2851"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2851"
-generated_at: "2026-03-30T02:53:38.179Z"
+generated_at: "2026-11-23T20:25:51.735Z"
+status: "active"
 ---
 
 # § 2851. Supervision of military construction projects
@@ -36,3 +37,19 @@ generated_at: "2026-03-30T02:53:38.179Z"
   - **(4)** The independent cost estimate described in section 3221(b)(6)(A) of this title .
   - **(5)** The overall staffing approach to oversee the military construction project for each year of the contract term.
 - **(e)** Not later than March 1 of each year (beginning with 2018), the Secretary of Defense shall submit to the Committees on Armed Services of the House of Representatives and Senate a report on each military construction project or military family housing project for which, as of the end of the most recent fiscal year, the estimated completion date is more than 1 year later than the completion date proposed at the time the contract for the project was awarded.
+
+Supervision of Military Department Projects
+
+Supervision of Defense Agency Projects
+
+Maintenance of Military Construction Information on Internet; Access
+
+Report on Supervision of Large Military Construction Projects
+
+Annual Report on Schedule Delays
+
+“Not later than one year after the date of the enactment of this Act [ Dec. 18, 2025 ], the Secretary of Defense shall—
+
+## Source Credit
+
+*(Added [Pub. L. 97–214, § 2(a)](https://www.govinfo.gov/link/plaw/97/public/214), July 12, 1982, [96 Stat. 163](https://www.govinfo.gov/link/statute/96/163); amended [Pub. L. 109–163, div. B, title XXVIII, § 2803(a)](https://www.govinfo.gov/link/plaw/109/public/163), (c), Jan. 6, 2006, [119 Stat. 3505](https://www.govinfo.gov/link/statute/119/3505), 3506; [Pub. L. 111–383, div. B, title XXVIII, § 2801](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4458](https://www.govinfo.gov/link/statute/124/4458); [Pub. L. 115–91, div. B, title XXVIII, § 2822](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1855](https://www.govinfo.gov/link/statute/131/1855); [Pub. L. 117–81, div. B, title XXVIII, § 2801(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2184](https://www.govinfo.gov/link/statute/135/2184); [Pub. L. 117–263, div. B, title XXVIII, § 2806(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2995](https://www.govinfo.gov/link/statute/136/2995); [Pub. L. 119–60, div. B, title XXVIII, § 2808(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1298](https://www.govinfo.gov/link/statute/139/1298).)*

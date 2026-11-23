@@ -3,12 +3,17 @@ title: "Section 287a - Action by representatives in accordance with Presidential
 usc_title: 22
 usc_section: "287a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 287a"
-generated_at: "2026-03-30T02:55:05.320Z"
+generated_at: "2026-11-23T20:26:32.020Z"
+status: "active"
 ---
 
 # § 287a. Action by representatives in accordance with Presidential instructions; voting
 
 The representatives provided for in section 287 of this title , when representing the United States in the respective organs and agencies of the United Nations, shall, at all times, act in accordance with the instructions of the President transmitted by the Secretary of State unless other means of transmission is directed by the President, and such representatives shall, in accordance with such instructions, cast any and all votes under the Charter of the United Nations.
 
+
+## Source Credit
+
+*(Dec. 20, 1945, ch. 583, § 3, [59 Stat. 620](https://www.govinfo.gov/link/statute/59/620).)*

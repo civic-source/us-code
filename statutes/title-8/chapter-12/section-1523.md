@@ -3,9 +3,10 @@ title: "Section 1523 - Congressional reports"
 usc_title: 8
 usc_section: "1523"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1523"
-generated_at: "2026-03-30T02:53:10.503Z"
+generated_at: "2026-11-23T20:25:36.260Z"
+status: "active"
 ---
 
 # § 1523. Congressional reports
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:10.503Z"
   - **(6)** a description of any assistance provided by the Director pursuant to section 1522(e)(5) of this title ;
   - **(7)** a summary of the location and status of unaccompanied refugee children admitted to the United States; and
   - **(8)** a summary of the information compiled and evaluation made under section 1522(a)(8) of this title .
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title IV, ch. 2, § 413, as added [Pub. L. 96–212, title III, § 311(a)(2)](https://www.govinfo.gov/link/plaw/96/public/212), Mar. 17, 1980, [94 Stat. 115](https://www.govinfo.gov/link/statute/94/115); amended [Pub. L. 97–363](https://www.govinfo.gov/link/plaw/97/public/363), §§ 3(b), 7, Oct. 25, 1982, [96 Stat. 1734](https://www.govinfo.gov/link/statute/96/1734), 1737; [Pub. L. 99–605, § 11](https://www.govinfo.gov/link/plaw/99/public/605), Nov. 6, 1986, [100 Stat. 3455](https://www.govinfo.gov/link/statute/100/3455); [Pub. L. 100–525, § 9(jj)](https://www.govinfo.gov/link/plaw/100/public/525), Oct. 24, 1988, [102 Stat. 2622](https://www.govinfo.gov/link/statute/102/2622); [Pub. L. 103–236, title I, § 162(n)(3)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 409](https://www.govinfo.gov/link/statute/108/409).)*

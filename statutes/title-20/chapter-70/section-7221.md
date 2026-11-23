@@ -3,9 +3,10 @@ title: "Section 7221 - Purpose"
 usc_title: 20
 usc_section: "7221"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 7221"
-generated_at: "2026-03-30T02:54:48.206Z"
+generated_at: "2026-11-23T20:26:14.884Z"
+status: "active"
 ---
 
 # § 7221. Purpose
@@ -20,3 +21,7 @@ It is the purpose of this part to—
   - **(6)** expand opportunities for children with disabilities, English learners, and other traditionally underserved students to attend charter schools and meet the challenging State academic standards;
   - **(7)** support efforts to strengthen the charter school authorizing process to improve performance management, including transparency, oversight and monitoring (including financial audits), and evaluation of such schools; and
   - **(8)** support quality, accountability, and transparency in the operational performance of all authorized public chartering agencies, including State educational agencies, local educational agencies, and other authorizing entities.
+
+## Source Credit
+
+*([Pub. L. 89–10, title IV, § 4301](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title IV, § 4301(1)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1993](https://www.govinfo.gov/link/statute/129/1993).)*

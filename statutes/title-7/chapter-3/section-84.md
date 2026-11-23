@@ -3,9 +3,10 @@ title: "Section 84 - Licensing of inspectors"
 usc_title: 7
 usc_section: "84"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 84"
-generated_at: "2026-03-30T02:53:42.253Z"
+generated_at: "2026-11-23T20:25:40.905Z"
+status: "active"
 ---
 
 # § 84. Licensing of inspectors
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:42.253Z"
 - **(e)** The Secretary may hire (without regard to the provisions of title 5 governing appointments in the competitive service) as official inspection personnel any individual who is licensed (on October 21, 1976 ) to perform functions of official inspection under this chapter and as personnel to perform supervisory weighing or official weighing functions any individual who, on October 21, 1976 , was performing similar functions: Provided , That the Secretary determines that such individual is of good moral character and is technically and professionally qualified for the duties to which the individual will be assigned. The Secretary may compensate such personnel at any rate within the appropriate grade of the General Schedule as the Secretary deems necessary without regard to section 5333 of title 5 .
 - **(f)** The Secretary shall provide for the periodic rotation of supervisory personnel and official inspection personnel employed by the Secretary as the Secretary deems necessary to preserve the integrity of the official inspection and weighing system provided by this chapter.
 - **(g)** The Secretary shall develop and effectuate standards for the recruiting, training, and supervising of official inspection personnel and appropriate work production standards for such personnel, which shall be applicable to the Secretary, all State agencies under delegation of authority pursuant to this chapter, and all official agencies and all persons licensed or authorized to perform functions under this chapter: Provided , That persons licensed or authorized on October 21, 1976 , to perform any official function under this chapter, shall be exempted from the uniform recruiting and training provisions of this subsection and regulations or standards issued pursuant thereto if the Secretary determines that such persons are technically and professionally qualified for the duties to which they will be assigned and they agree to complete whatever additional training the Secretary deems necessary.
+
+## Source Credit
+
+*(Aug. 11, 1916, ch. 313, pt. B, § 8, [39 Stat. 485](https://www.govinfo.gov/link/statute/39/485); [Pub. L. 90–487, § 1](https://www.govinfo.gov/link/plaw/90/public/487), Aug. 15, 1968, [82 Stat. 764](https://www.govinfo.gov/link/statute/82/764); [Pub. L. 94–582, § 10](https://www.govinfo.gov/link/plaw/94/public/582), Oct. 21, 1976, [90 Stat. 2877](https://www.govinfo.gov/link/statute/90/2877); [Pub. L. 95–113, title XVI](https://www.govinfo.gov/link/plaw/95/public/113), §§ 1604(g), 1606(f), Sept. 29, 1977, [91 Stat. 1028](https://www.govinfo.gov/link/statute/91/1028), 1030; [Pub. L. 103–156](https://www.govinfo.gov/link/plaw/103/public/156), §§ 6, 12(g), Nov. 24, 1993, [107 Stat. 1526](https://www.govinfo.gov/link/statute/107/1526), 1528; [Pub. L. 103–354, title II, § 293(a)(7)](https://www.govinfo.gov/link/plaw/103/public/354), (8), Oct. 13, 1994, [108 Stat. 3237](https://www.govinfo.gov/link/statute/108/3237); [Pub. L. 106–472, title I, § 106](https://www.govinfo.gov/link/plaw/106/public/472), Nov. 9, 2000, [114 Stat. 2060](https://www.govinfo.gov/link/statute/114/2060); [Pub. L. 114–54, title III, § 301(e)](https://www.govinfo.gov/link/plaw/114/public/54), Sept. 30, 2015, [129 Stat. 520](https://www.govinfo.gov/link/statute/129/520).)*

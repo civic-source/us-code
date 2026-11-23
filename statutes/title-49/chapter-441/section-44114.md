@@ -3,9 +3,10 @@ title: "Section 44114 - Privacy"
 usc_title: 49
 usc_section: "44114"
 chapter: 441
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44114"
-generated_at: "2026-03-30T02:56:19.380Z"
+generated_at: "2026-11-23T20:27:35.130Z"
+status: "active"
 ---
 
 # § 44114. Privacy
@@ -25,3 +26,25 @@ generated_at: "2026-03-30T02:56:19.380Z"
     - **(B)** an electronic address (including an email address) of an individual; or 1 1 So in original.
     - **(C)** the telephone number of an individual. 1
     - **(D)** the names of the aircraft owner or operator, if the owner or operator is an individual.
+
+In General
+
+Withholding Personally Identifiable Information on the Aircraft Registry
+
+ICAO Aircraft Identification Code.—
+
+In general
+
+Limitations
+
+Definitions
+
+ADS–B
+
+ICAO
+
+Personally identifiable information
+
+## Source Credit
+
+*(Added [Pub. L. 118–63, title VIII, § 803(a)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1321](https://www.govinfo.gov/link/statute/138/1321).)*

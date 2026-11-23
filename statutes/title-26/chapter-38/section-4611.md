@@ -3,9 +3,10 @@ title: "Section 4611 - Imposition of tax"
 usc_title: 26
 usc_section: "4611"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 4611"
-generated_at: "2026-03-30T02:55:27.804Z"
+generated_at: "2026-11-23T20:26:46.329Z"
+status: "active"
 ---
 
 # § 4611. Imposition of tax
@@ -40,3 +41,19 @@ generated_at: "2026-03-30T02:55:27.804Z"
 - **(f)**
   - **(1)** Except as provided in paragraph (2), the Oil Spill Liability Trust Fund financing rate under subsection (c) shall apply on and after April 1, 2006 , or if later, the date which is 30 days after the last day of any calendar quarter for which the Secretary estimates that, as of the close of that quarter, the unobligated balance in the Oil Spill Liability Trust Fund is less than $2,000,000,000.
   - **(2)** The Oil Spill Liability Trust Fund financing rate shall not apply after December 31, 2025 .
+
+In general
+
+No tax if unobligated balance in fund exceeds $1,000,000,000
+
+In general
+
+Imported petroleum products
+
+In general
+
+Coordination with superfund reauthorization
+
+## Source Credit
+
+*(Added [Pub. L. 96–510, title II, § 211(a)](https://www.govinfo.gov/link/plaw/96/public/510), Dec. 11, 1980, [94 Stat. 2797](https://www.govinfo.gov/link/statute/94/2797); amended [Pub. L. 99–499, title V](https://www.govinfo.gov/link/plaw/99/public/499), §§ 511(a), 512(a), (b), Oct. 17, 1986, [100 Stat. 1760](https://www.govinfo.gov/link/statute/100/1760), 1761; [Pub. L. 99–509, title VIII, § 8032(a)](https://www.govinfo.gov/link/plaw/99/public/509), (c)(1), (2), Oct. 21, 1986, [100 Stat. 1957](https://www.govinfo.gov/link/statute/100/1957), 1958; [Pub. L. 100–647, title VI, § 6108](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3712](https://www.govinfo.gov/link/statute/102/3712); [Pub. L. 101–221, § 8(a)](https://www.govinfo.gov/link/plaw/101/public/221), Dec. 12, 1989, [103 Stat. 1891](https://www.govinfo.gov/link/statute/103/1891); [Pub. L. 101–239, title VII, § 7505(a)](https://www.govinfo.gov/link/plaw/101/public/239), (b), Dec. 19, 1989, [103 Stat. 2363](https://www.govinfo.gov/link/statute/103/2363); [Pub. L. 101–508, title XI, § 11231(a)(1)(B)](https://www.govinfo.gov/link/plaw/101/public/508), (2), (b), Nov. 5, 1990, [104 Stat. 1388–445](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 109–58, title XIII, § 1361](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 1058](https://www.govinfo.gov/link/statute/119/1058); [Pub. L. 110–343, div. B, title IV, § 405(a)(1)](https://www.govinfo.gov/link/plaw/110/public/343), (b)(1), (2), Oct. 3, 2008, [122 Stat. 3860](https://www.govinfo.gov/link/statute/122/3860), 3861; [Pub. L. 113–295, div. A, title II, § 221(a)(12)(I)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4039](https://www.govinfo.gov/link/statute/128/4039); [Pub. L. 115–123, div. D, title I, § 40416(a)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 152](https://www.govinfo.gov/link/statute/132/152); [Pub. L. 116–94, div. Q, title I, § 134(a)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3234](https://www.govinfo.gov/link/statute/133/3234); [Pub. L. 116–260, div. EE, title I, § 117(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3051](https://www.govinfo.gov/link/statute/134/3051); [Pub. L. 117–169, title I, § 13601(a)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 1981](https://www.govinfo.gov/link/statute/136/1981).)*

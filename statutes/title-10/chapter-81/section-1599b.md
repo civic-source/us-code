@@ -3,9 +3,10 @@ title: "Section 1599b - Employees abroad: travel expenses; health care"
 usc_title: 10
 usc_section: "1599b"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1599b"
-generated_at: "2026-03-30T02:53:38.132Z"
+generated_at: "2026-11-23T20:25:51.399Z"
+status: "active"
 ---
 
 # § 1599b. Employees abroad: travel expenses; health care
@@ -17,3 +18,17 @@ generated_at: "2026-03-30T02:53:38.132Z"
 - **(e)** In this section, the term “abroad” means outside—
   - **(1)** the United States; and
   - **(2)** the territories and possessions of the United States.
+
+In General
+
+Travel and Related Expenses
+
+Health Care Program
+
+Assistance
+
+Abroad Defined
+
+## Source Credit
+
+*(Added [Pub. L. 104–201, div. A, title XVI, § 1604(a)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2735](https://www.govinfo.gov/link/statute/110/2735).)*

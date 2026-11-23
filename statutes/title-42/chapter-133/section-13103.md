@@ -3,9 +3,10 @@ title: "Section 13103 - EPA activities"
 usc_title: 42
 usc_section: "13103"
 chapter: 133
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13103"
-generated_at: "2026-03-30T02:56:11.438Z"
+generated_at: "2026-11-23T20:27:23.462Z"
+status: "active"
 ---
 
 # § 13103. EPA activities
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.438Z"
   - **(11)** identify opportunities to use Federal procurement to encourage source reduction;
   - **(12)** develop, test and disseminate model source reduction auditing procedures designed to highlight source reduction opportunities; and
   - **(13)** establish an annual award program to recognize a company or companies which operate outstanding or innovative source reduction programs.
+
+## Source Credit
+
+*([Pub. L. 101–508, title VI, § 6604](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–322](https://www.govinfo.gov/link/statute/104/1388).)*

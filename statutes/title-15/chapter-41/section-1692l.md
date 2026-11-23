@@ -3,9 +3,10 @@ title: "Section 1692l - Administrative enforcement"
 usc_title: 15
 usc_section: "1692l"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1692l"
-generated_at: "2026-03-30T02:54:08.155Z"
+generated_at: "2026-11-23T20:26:04.110Z"
+status: "active"
 ---
 
 # § 1692l. Administrative enforcement
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:08.155Z"
   - **(6)** subtitle E of the Consumer Financial Protection Act of 2010 [ 12 U.S.C. 5561 et seq.], by the Bureau, with respect to any person subject to this subchapter.
 - **(c)** For the purpose of the exercise by any agency referred to in subsection (b) of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (b), each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this subchapter any other authority conferred on it by law, except as provided in subsection (d).
 - **(d)** Except as provided in section 1029(a) of the Consumer Financial Protection Act of 2010 [ 12 U.S.C. 5519(a) ], the Bureau may prescribe rules with respect to the collection of debts by debt collectors, as defined in this subchapter.
+
+## Source Credit
+
+*([Pub. L. 90–321, title VIII, § 814](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 95–109](https://www.govinfo.gov/link/plaw/95/public/109), Sept. 20, 1977, [91 Stat. 881](https://www.govinfo.gov/link/statute/91/881); amended [Pub. L. 98–443, § 9(n)](https://www.govinfo.gov/link/plaw/98/public/443), Oct. 4, 1984, [98 Stat. 1708](https://www.govinfo.gov/link/statute/98/1708); [Pub. L. 101–73, title VII, § 744(n)](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 440](https://www.govinfo.gov/link/statute/103/440); [Pub. L. 102–242, title II, § 212(e)](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2301](https://www.govinfo.gov/link/statute/105/2301); [Pub. L. 102–550, title XVI, § 1604(a)(8)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 4082](https://www.govinfo.gov/link/statute/106/4082); [Pub. L. 104–88, title III, § 316](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 949](https://www.govinfo.gov/link/statute/109/949); [Pub. L. 111–203, title X, § 1089(3)](https://www.govinfo.gov/link/plaw/111/public/203), (4), July 21, 2010, [124 Stat. 2092](https://www.govinfo.gov/link/statute/124/2092), 2093.)*

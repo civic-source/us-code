@@ -3,12 +3,17 @@ title: "Section 1423f - Qualifications of members"
 usc_title: 48
 usc_section: "1423f"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1423f"
-generated_at: "2026-03-30T02:56:14.585Z"
+generated_at: "2026-11-23T20:27:28.046Z"
+status: "active"
 ---
 
 # § 1423f. Qualifications of members
 
 No person shall sit in the legislature who is not a citizen of the United States, who has not attained the age of twenty-five years and who has not been domiciled in Guam for at least five years immediately preceding the sitting of the legislature in which he seeks to qualify as a member, or who has been convicted of a felony or of a crime involving moral turpitude and has not received a pardon restoring his civil rights.
 
+
+## Source Credit
+
+*(Aug. 1, 1950, ch. 512, § 16, [64 Stat. 388](https://www.govinfo.gov/link/statute/64/388).)*

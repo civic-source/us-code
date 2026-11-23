@@ -3,9 +3,10 @@ title: "Section 1490q - Disaster assistance"
 usc_title: 42
 usc_section: "1490q"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1490q"
-generated_at: "2026-03-30T02:56:11.099Z"
+generated_at: "2026-11-23T20:27:21.806Z"
+status: "active"
 ---
 
 # § 1490q. Disaster assistance
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.099Z"
 - **(c)** Notwithstanding any other provision of this subchapter, assistance allocated under this section shall be available to units of general local government and their agencies and to local nonprofit organizations, agencies, and corporations for the construction or rehabilitation of housing for agricultural employees and their families.
 - **(d)** The Secretary may waive the application of the provisions of section 1490 of this title with respect to assistance under this section, as the Secretary considers appropriate.
 - **(e)** The Secretary is authorized to advance from the Rural Housing Insurance Fund such sums as may be necessary to meet the requirements of subsection (a)(1), subject to limits previously approved in appropriations Acts.
+
+## Source Credit
+
+*(July 15, 1949, ch. 338, title V, § 541, as added [Pub. L. 101–625, title IX, § 934](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4404](https://www.govinfo.gov/link/statute/104/4404); amended [Pub. L. 102–550, title VII, § 713](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3842](https://www.govinfo.gov/link/statute/106/3842).)*

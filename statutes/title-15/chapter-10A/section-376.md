@@ -3,9 +3,10 @@ title: "Section 376 - Reports to State tobacco tax administrator"
 usc_title: 15
 usc_section: "376"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 376"
-generated_at: "2026-03-30T02:54:08.083Z"
+generated_at: "2026-11-23T20:26:03.706Z"
+status: "active"
 ---
 
 # § 376. Reports to State tobacco tax administrator
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.083Z"
   - **(3)** with respect to each memorandum or invoice filed with a State under paragraph (2), also file copies of the memorandum or invoice with the tobacco tax administrators and chief law enforcement officers of the local governments and Indian tribes operating within the borders of the State that apply their own local or tribal taxes on cigarettes or smokeless tobacco.
 - **(b)** The fact that any person ships or delivers for shipment any cigarettes or smokeless tobacco shall, if such shipment is into a State in which such person has filed a statement with the tobacco tax administrator under subsection (a)(1) of this section, be presumptive evidence that such cigarettes or smokeless tobacco were sold, or transferred for profit, by such person.
 - **(c)** A tobacco tax administrator or chief law enforcement officer who receives a memorandum or invoice under paragraph (2) or (3) of subsection (a) shall use the memorandum or invoice solely for the purposes of the enforcement of this chapter and the collection of any taxes owed on related sales of cigarettes and smokeless tobacco, and shall keep confidential any personal information in the memorandum or invoice except as required for such purposes.
+
+## Source Credit
+
+*(Oct. 19, 1949, ch. 699, § 2, [63 Stat. 884](https://www.govinfo.gov/link/statute/63/884); Aug. 15, 1953, ch. 512, title II, § 201(a), [67 Stat. 617](https://www.govinfo.gov/link/statute/67/617); Aug. 9, 1955, ch. 695, § 1, [69 Stat. 627](https://www.govinfo.gov/link/statute/69/627); [Pub. L. 111–154, § 2(b)](https://www.govinfo.gov/link/plaw/111/public/154), Mar. 31, 2010, [124 Stat. 1090](https://www.govinfo.gov/link/statute/124/1090).)*

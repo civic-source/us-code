@@ -3,9 +3,10 @@ title: "Section 2332h - Radiological dispersal devices"
 usc_title: 18
 usc_section: "2332h"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2332h"
-generated_at: "2026-03-30T02:54:16.503Z"
+generated_at: "2026-11-23T20:26:08.602Z"
+status: "active"
 ---
 
 # § 2332h. Radiological dispersal devices
@@ -27,3 +28,23 @@ generated_at: "2026-03-30T02:54:16.503Z"
   - **(1)** Any person who violates, or attempts or conspires to violate, subsection (a) shall be fined not more than $2,000,000 and shall be sentenced to a term of imprisonment not less than 25 years or to imprisonment for life.
   - **(2)** Any person who, in the course of a violation of subsection (a), uses, attempts or conspires to use, or possesses and threatens to use, any item or items described in subsection (a), shall be fined not more than $2,000,000 and imprisoned for not less than 30 years or imprisoned for life.
   - **(3)** If the death of another results from a person’s violation of subsection (a), the person shall be fined not more than $2,000,000 and punished by imprisonment for life.
+
+Unlawful Conduct.—
+
+In general
+
+Exception
+
+Jurisdiction
+
+Criminal Penalties.—
+
+In general
+
+Other circumstances
+
+Special circumstances
+
+## Source Credit
+
+*(Added [Pub. L. 108–458, title VI, § 6905](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3772](https://www.govinfo.gov/link/statute/118/3772).)*

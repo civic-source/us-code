@@ -3,9 +3,10 @@ title: "Section 165 - Evaluation and audit of Mediation Board"
 usc_title: 45
 usc_section: "165"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 165"
-generated_at: "2026-03-30T02:55:56.544Z"
+generated_at: "2026-11-23T20:27:05.224Z"
+status: "active"
 ---
 
 # § 165. Evaluation and audit of Mediation Board
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:56.544Z"
   - **(1)** an evaluation of the existing processes and changes to such processes that have occurred since the establishment of the Mediation Board and whether those changes are consistent with congressional intent; and
   - **(2)** a description of the extent to which such processes are consistent with similar processes applied to other Federal or State agencies with jurisdiction over labor relations, and an evaluation of any justifications for any discrepancies between the processes of the Mediation Board and such similar Federal or State processes.
 - **(c)** In this section, the term “appropriate congressional committees” means the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate.
+
+## Source Credit
+
+*(May 20, 1926, ch. 347, § 15, as added [Pub. L. 112–95, title X, § 1004](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 147](https://www.govinfo.gov/link/statute/126/147).)*

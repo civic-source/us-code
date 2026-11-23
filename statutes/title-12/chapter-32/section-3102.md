@@ -3,9 +3,10 @@ title: "Section 3102 - Establishment of Federal branches and agencies by foreign
 usc_title: 12
 usc_section: "3102"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 3102"
-generated_at: "2026-03-30T02:53:53.490Z"
+generated_at: "2026-11-23T20:25:59.320Z"
+status: "active"
 ---
 
 # § 3102. Establishment of Federal branches and agencies by foreign bank
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:53.490Z"
 - **(j)**
   - **(1)** Whenever the Comptroller revokes a foreign bank’s authority to operate a Federal branch or agency or whenever any creditor of any such foreign bank shall have obtained a judgment against it arising out of a transaction with a Federal branch or agency in any court of record of the United States or any State of the United States and made application, accompanied by a certificate from the clerk of the court stating that such judgment has been rendered and has remained unpaid for the space of thirty days, or whenever the Comptroller shall become satisfied that such foreign bank is insolvent, he may, after due consideration of its affairs, in any such case, appoint a receiver who shall take possession of all the property and assets of such foreign bank in the United States and exercise the same rights, privileges, powers, and authority with respect thereto as are now exercised by receivers of national banks appointed by the Comptroller.
   - **(2)** In any receivership proceeding ordered pursuant to this subsection (j), whenever there has been paid to each and every depositor and creditor of such foreign bank whose claim or claims shall have been proved or allowed, the full amount of such claims arising out of transactions had by them with any branch or agency of such foreign bank located in any State of the United States, except (A) claims that would not represent an enforceable legal obligation against such branch or agency if such branch or agency were a separate legal entity, and (B) amounts due and other liabilities to other offices or branches or agencies of, and wholly owned (except for a nominal number of directors’ shares) subsidiaries of, such foreign bank, and all expenses of the receivership, the Comptroller or the Federal Deposit Insurance Corporation, where that Corporation has been appointed receiver of the foreign bank, shall turn over the remainder, if any, of the assets and proceeds of such foreign bank to the head office of such foreign bank, or to the duly appointed domiciliary liquidator or receiver of such foreign bank.
+
+## Source Credit
+
+*([Pub. L. 95–369, § 4](https://www.govinfo.gov/link/plaw/95/public/369), Sept. 17, 1978, [92 Stat. 610](https://www.govinfo.gov/link/statute/92/610); [Pub. L. 102–242, title II](https://www.govinfo.gov/link/plaw/102/public/242), §§ 202(b), (c), 203(b), Dec. 19, 1991, [105 Stat. 2290](https://www.govinfo.gov/link/statute/105/2290), 2291; [Pub. L. 106–569, title XII, § 1234](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 3037](https://www.govinfo.gov/link/statute/114/3037).)*

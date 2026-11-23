@@ -3,9 +3,10 @@ title: "Section 140102 - Purposes"
 usc_title: 36
 usc_section: "140102"
 chapter: 1401
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 140102"
-generated_at: "2026-03-30T02:55:44.701Z"
+generated_at: "2026-11-23T20:26:58.950Z"
+status: "active"
 ---
 
 # § 140102. Purposes
@@ -21,3 +22,20 @@ The purposes of the corporation are—
   - **(7)** to create a bond of comradeship between those in service and those who have returned to civil life;
   - **(8)** to aid voluntarily and to render assistance to all marines and former marines as well as to their widows and orphans; and
   - **(9)** to perpetuate the history of the United States Marine Corps and by fitting acts to observe the anniversaries of historical occasions of peculiar interest to marines.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 140102 | 36:57a. | Aug. 4, 1937, ch. 564, § 2 , 50 Stat. 558 . |
+
+
+Historical and Revision Notes
+
+140102
+
+Aug. 4, 1937, ch. 564, § 2
+
+50 Stat. 558
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1379](https://www.govinfo.gov/link/statute/112/1379).)*

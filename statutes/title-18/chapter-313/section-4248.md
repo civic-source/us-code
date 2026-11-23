@@ -3,9 +3,10 @@ title: "Section 4248 - Civil commitment of a sexually dangerous person"
 usc_title: 18
 usc_section: "4248"
 chapter: 313
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 4248"
-generated_at: "2026-03-30T02:54:16.529Z"
+generated_at: "2026-11-23T20:26:08.792Z"
+status: "active"
 ---
 
 # § 4248. Civil commitment of a sexually dangerous person
@@ -23,3 +24,21 @@ generated_at: "2026-03-30T02:54:16.529Z"
     - **(B)** order, as an explicit condition of release, that he comply with the prescribed regimen of medical, psychiatric, or psychological care or treatment.
 - **(f)** The director of a facility responsible for administering a regimen imposed on a person conditionally discharged under subsection (e) shall notify the Attorney General and the court having jurisdiction over the person of any failure of the person to comply with the regimen. Upon such notice, or upon other probable cause to believe that the person has failed to comply with the prescribed regimen of medical, psychiatric, or psychological care or treatment, the person may be arrested, and, upon arrest, shall be taken without unnecessary delay before the court having jurisdiction over him. The court shall, after a hearing, determine whether the person should be remanded to a suitable facility on the ground that he is sexually dangerous to others in light of his failure to comply with the prescribed regimen of medical, psychiatric, or psychological care or treatment.
 - **(g)** If the director of the facility in which a person is hospitalized or placed pursuant to this chapter certifies to the Attorney General that a person, against whom all charges have been dismissed for reasons not related to the mental condition of the person, is a sexually dangerous person, the Attorney General shall release the person to the appropriate official of the State in which the person is domiciled or was tried for the purpose of institution of State proceedings for civil commitment. If neither such State will assume such responsibility, the Attorney General shall release the person upon receipt of notice from the State that it will not assume such responsibility, but not later than 10 days after certification by the director of the facility.
+
+Institution of Proceedings
+
+Psychiatric or Psychological Examination and Report
+
+Hearing
+
+Determination and Disposition
+
+Discharge
+
+Revocation of Conditional Discharge
+
+Release to State of Certain Other Persons
+
+## Source Credit
+
+*(Added [Pub. L. 109–248, title III, § 302(4)](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 620](https://www.govinfo.gov/link/statute/120/620).)*

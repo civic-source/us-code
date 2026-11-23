@@ -3,9 +3,10 @@ title: "Section 2576b - Subpart definitions"
 usc_title: 19
 usc_section: "2576b"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2576b"
-generated_at: "2026-03-30T02:54:24.680Z"
+generated_at: "2026-11-23T20:26:10.998Z"
+status: "active"
 ---
 
 # § 2576b. Subpart definitions
@@ -35,3 +36,7 @@ Notwithstanding section 2571 of this title , for purposes of this subpart—
       - **(i)** a good or its related process or production method, or
       - **(ii)** a service or its related operating method,
   - **(8)** The term “telecommunications service” means a service provided by means of the transmission and reception of signals by any electromagnetic means, but does not mean the cable, broadcast, or other electromagnetic distribution of radio or television programming to the public generally.
+
+## Source Credit
+
+*([Pub. L. 96–39, title IV, § 473](https://www.govinfo.gov/link/plaw/96/public/39), as added [Pub. L. 103–182, title III, § 351(a)](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2120](https://www.govinfo.gov/link/statute/107/2120).)*

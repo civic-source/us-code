@@ -3,9 +3,10 @@ title: "Section 1276 - Disposition gain representing accrued market discount tre
 usc_title: 26
 usc_section: "1276"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1276"
-generated_at: "2026-03-30T02:55:27.766Z"
+generated_at: "2026-11-23T20:26:46.072Z"
+status: "active"
 ---
 
 # § 1276. Disposition gain representing accrued market discount treated as ordinary income
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:55:27.766Z"
     - **(B)** an exchange qualifying under section 354(a), 355(a), or 356(a) (determined without regard to subsection (a) of this section) shall be treated as an exchange described in paragraph (3) of such subsection, and
     - **(C)** paragraph (3) of section 1245(b) shall be applied as if it did not contain a reference to section 351, and
   - **(2)** appropriate adjustments shall be made to the basis of any property to reflect gain recognized under subsection (a).
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title I, § 41(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 543](https://www.govinfo.gov/link/statute/98/543); amended [Pub. L. 99–514, title VI, § 631(e)(15)](https://www.govinfo.gov/link/plaw/99/public/514), title XVIII, §§ 1803(a)(5), (13)(A), 1899A(28), Oct. 22, 1986, [100 Stat. 2275](https://www.govinfo.gov/link/statute/100/2275), 2793, 2796, 2960; [Pub. L. 100–647, title I, § 1018(u)(46)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3592](https://www.govinfo.gov/link/statute/102/3592); [Pub. L. 103–66, title XIII, § 13206(b)(1)(A)](https://www.govinfo.gov/link/plaw/103/public/66), (2)(B)(i), Aug. 10, 1993, [107 Stat. 465](https://www.govinfo.gov/link/statute/107/465); [Pub. L. 115–141, div. U, title IV, § 401(a)(180)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1193](https://www.govinfo.gov/link/statute/132/1193).)*

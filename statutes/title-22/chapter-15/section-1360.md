@@ -3,9 +3,10 @@ title: "Section 1360 - Definitions"
 usc_title: 22
 usc_section: "1360"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 1360"
-generated_at: "2026-03-30T02:55:05.330Z"
+generated_at: "2026-11-23T20:26:32.096Z"
+status: "active"
 ---
 
 # § 1360. Definitions
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:05.330Z"
   - **(1)** if an article is entitled to be imported from a foreign country free of ordinary customs duty, that country shall be considered as the country entitled to the lowest rate of ordinary customs duty with respect to such article; and
   - **(2)** a reduction in ordinary customs duty granted any country, by law, treaty, trade agreement, or otherwise, with respect to any article, shall be converted into the equivalent reduction in the rate of ordinary customs duty otherwise applicable to such article.
 - **(d)** The terms “includes” and “including” when used in a definition contained in subchapters I to IV of this chapter shall not be deemed to exclude other things otherwise within the meaning of the term defined.
+
+## Source Credit
+
+*(Apr. 30, 1946, ch. 244, title I, § 2, [60 Stat. 141](https://www.govinfo.gov/link/statute/60/141).)*

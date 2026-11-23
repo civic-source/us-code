@@ -3,9 +3,10 @@ title: "Section 3 - Critical lands resource conservation program in Great Plains
 usc_title: 16
 usc_section: "3"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-30T02:54:22.882Z"
+generated_at: "2026-11-23T20:26:20.182Z"
+status: "active"
 ---
 
 # § 590q–3. Critical lands resource conservation program in Great Plains area
@@ -22,3 +23,7 @@ Notwithstanding any other provision of law—
 - **(h)** The Secretary shall provide adequate safeguards to protect the interests of tenants and sharecroppers, including provision for sharing, on a fair and equitable basis, in payments under the program.
 - **(i)** The Secretary shall prescribe such regulations as the Secretary determines necessary to carry out the provisions of this section.
 - **(j)** There are authorized to be appropriated for the period beginning October 1, 1977 , and ending September 30, 1981 , such sums as may be necessary to carry out the program provided for in this section. The Secretary is authorized to utilize the facilities, services, and authorities of the Commodity Credit Corporation in discharging the Secretary’s functions and responsibilities under the program, including payment of costs of administration: Provided , That the Commodity Credit Corporation shall not make any expenditures for such purposes unless the Corporation has received funds to cover such expenditures from appropriations made to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 95–113, title XV, § 1511](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 1022](https://www.govinfo.gov/link/statute/91/1022).)*

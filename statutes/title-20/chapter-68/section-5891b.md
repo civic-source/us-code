@@ -3,9 +3,10 @@ title: "Section 5891b - Educational flexibility program"
 usc_title: 20
 usc_section: "5891b"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 5891b"
-generated_at: "2026-03-30T02:54:48.189Z"
+generated_at: "2026-11-23T20:26:14.799Z"
+status: "active"
 ---
 
 # § 5891b. Educational flexibility program
@@ -124,3 +125,19 @@ generated_at: "2026-03-30T02:54:48.189Z"
   - **(1)** Any designation of a State as an Ed-Flex Partnership State that was in effect on December 10, 2015 , shall be immediately extended for a period of not more than 5 years, if the Secretary makes the determination described in paragraph (2).
   - **(2)** The determination referred to in paragraph (1) is a determination that the performance of the State educational agency, in carrying out the programs for which the State has received a waiver under the educational flexibility program, justifies the extension of the designation.
 - **(e)** A notice of the Secretary’s decision to authorize State educational agencies to issue waivers under this section, including a description of the rationale the Secretary used to approve applications under subsection (a)(3)(B), shall be published in the Federal Register and the Secretary shall provide for the dissemination of such notice to State educational agencies, interested parties (including educators, parents, students, and advocacy and civil rights organizations), and the public.
+
+(aa) are clear and have the ability to be assessed; and
+
+(bb) take into account the performance of local educational agencies, educational service agencies, or schools, and students, particularly those affected by waivers;
+
+Extension Authority
+
+Designation.—
+
+In general
+
+Determination
+
+## Source Credit
+
+*([Pub. L. 106–25, § 4](https://www.govinfo.gov/link/plaw/106/public/25), Apr. 29, 1999, [113 Stat. 42](https://www.govinfo.gov/link/statute/113/42); [Pub. L. 107–110, title X, § 1073](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2090](https://www.govinfo.gov/link/statute/115/2090); [Pub. L. 109–270, § 2(e)](https://www.govinfo.gov/link/plaw/109/public/270), Aug. 12, 2006, [120 Stat. 747](https://www.govinfo.gov/link/statute/120/747); [Pub. L. 114–95, title IX, § 9207(b)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2141](https://www.govinfo.gov/link/statute/129/2141).)*

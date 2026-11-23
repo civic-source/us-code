@@ -3,9 +3,10 @@ title: "Section 1870 - House Historic Buildings Revitalization Trust Fund"
 usc_title: 2
 usc_section: "1870"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1870"
-generated_at: "2026-03-30T02:53:04.819Z"
+generated_at: "2026-11-23T20:25:28.989Z"
+status: "active"
 ---
 
 # § 1870. House Historic Buildings Revitalization Trust Fund
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:04.819Z"
 - **(c)** Any amounts transferred to and merged with, or otherwise deposited into, the Fund shall remain available until expended.
 - **(d)**
 - **(e)** This section and the amendment made by this section shall apply with respect to fiscal year 2010 and each succeeding fiscal year.
+
+## Source Credit
+
+*([Pub. L. 111–68, div. A, title I, § 1304](https://www.govinfo.gov/link/plaw/111/public/68), Oct. 1, 2009, [123 Stat. 2035](https://www.govinfo.gov/link/statute/123/2035).)*

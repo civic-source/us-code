@@ -3,9 +3,10 @@ title: "Section 3402 - Definitions"
 usc_title: 7
 usc_section: "3402"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 3402"
-generated_at: "2026-03-30T02:53:42.403Z"
+generated_at: "2026-11-23T20:25:41.598Z"
+status: "active"
 ---
 
 # § 3402. Definitions
@@ -25,3 +26,7 @@ For the purposes of this chapter:
 - **(k)** The term “Secretary” means the Secretary of Agriculture of the United States.
 - **(l)** The term “person” means any individual, partnership, corporation, association, or other entity.
 - **(m)** The term “United States” means the several States and the District of Columbia, including any territory or possession.
+
+## Source Credit
+
+*([Pub. L. 95–113, title XVII, § 1703](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 1032](https://www.govinfo.gov/link/statute/91/1032).)*

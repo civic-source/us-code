@@ -3,12 +3,17 @@ title: "Section 20930 - Registration of sex offenders entering the United States
 usc_title: 34
 usc_section: "20930"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 20930"
-generated_at: "2026-03-30T02:55:33.301Z"
+generated_at: "2026-11-23T20:26:50.609Z"
+status: "active"
 ---
 
 # § 20930. Registration of sex offenders entering the United States
 
 The Attorney General, in consultation with the Secretary of State and the Secretary of Homeland Security, shall establish and maintain a system for informing the relevant jurisdictions about persons entering the United States who are required to register under this subchapter. The Secretary of State and the Secretary of Homeland Security shall provide such information and carry out such functions as the Attorney General may direct in the operation of the system.
 
+
+## Source Credit
+
+*([Pub. L. 109–248, title I, § 128](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 600](https://www.govinfo.gov/link/statute/120/600).)*

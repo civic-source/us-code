@@ -3,9 +3,10 @@ title: "Section 504 - Printing and filming of United States and foreign obligati
 usc_title: 18
 usc_section: "504"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 504"
-generated_at: "2026-03-30T02:54:16.463Z"
+generated_at: "2026-11-23T20:26:08.378Z"
+status: "active"
 ---
 
 # § 504. Printing and filming of United States and foreign obligations and securities
@@ -22,3 +23,7 @@ Notwithstanding any other provision of this chapter, the following are permitted
       - **(iii)** the negatives and plates used in making the illustrations shall be destroyed after their final use in accordance with this section. The Secretary of the Treasury shall prescribe regulations to permit color illustrations of such currency of the United States as the Secretary determines may be appropriate for such purposes.
   - **(2)** The provisions of this section shall not permit the reproduction of illustrations of obligations or other securities, by or through electronic methods used for the acquisition, recording, retrieval, transmission, or reproduction of any obligation or other security, unless such use is authorized by the Secretary of the Treasury. The Secretary shall establish a system to ensure that the legitimate use of such electronic methods and retention of such reproductions by businesses, hobbyists, press or others shall not be unduly restricted.
   - **(3)** The making or importation of motion-picture films, microfilms, or slides, for projection upon a screen or for use in telecasting, of postage and revenue stamps and other obligations and securities of the United States, and postage and revenue stamps, notes, bonds, and other obligations or securities of any foreign government, bank, or corporation. No prints or other reproductions shall be made from such films or slides, except for the purposes of paragraph (1), without the permission of the Secretary of the Treasury.
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 713](https://www.govinfo.gov/link/statute/62/713); [Pub. L. 85–921, § 1](https://www.govinfo.gov/link/plaw/85/public/921), Sept. 2, 1958, [72 Stat. 1771](https://www.govinfo.gov/link/statute/72/1771); [Pub. L. 90–353, § 1](https://www.govinfo.gov/link/plaw/90/public/353), June 20, 1968, [82 Stat. 240](https://www.govinfo.gov/link/statute/82/240); [Pub. L. 91–448, § 2](https://www.govinfo.gov/link/plaw/91/public/448), Oct. 14, 1970, [84 Stat. 921](https://www.govinfo.gov/link/statute/84/921); [Pub. L. 98–369, div. A, title X, § 1077(b)(1)](https://www.govinfo.gov/link/plaw/98/public/369), (2), July 18, 1984, [98 Stat. 1054](https://www.govinfo.gov/link/statute/98/1054); [Pub. L. 102–550, title XV, § 1554](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 4071](https://www.govinfo.gov/link/statute/106/4071); [Pub. L. 104–294, title VI, § 601(e)](https://www.govinfo.gov/link/plaw/104/public/294), (f)(3), Oct. 11, 1996, [110 Stat. 3499](https://www.govinfo.gov/link/statute/110/3499).)*

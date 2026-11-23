@@ -3,9 +3,10 @@ title: "Section 1328 - Discharge"
 usc_title: 11
 usc_section: "1328"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 1328"
-generated_at: "2026-03-30T02:53:53.887Z"
+generated_at: "2026-11-23T20:25:55.439Z"
+status: "active"
 ---
 
 # § 1328. Discharge
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:53:53.887Z"
 - **(h)** The court may not grant a discharge under this chapter unless the court after notice and a hearing held not more than 10 days before the date of the entry of the order granting the discharge finds that there is no reasonable cause to believe that—
   - **(1)** section 522(q)(1) may be applicable to the debtor; and
   - **(2)** there is pending any proceeding in which the debtor may be found guilty of a felony of the kind described in section 522(q)(1)(A) or liable for a debt of the kind described in section 522(q)(1)(B).
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2650](https://www.govinfo.gov/link/statute/92/2650); [Pub. L. 98–353, title III, § 532](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 389](https://www.govinfo.gov/link/statute/98/389); [Pub. L. 101–508, title III, § 3007(b)(1)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–28](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 101–581](https://www.govinfo.gov/link/plaw/101/public/581), §§ 2(b), 3, Nov. 15, 1990, [104 Stat. 2865](https://www.govinfo.gov/link/statute/104/2865); [Pub. L. 101–647, title XXXI](https://www.govinfo.gov/link/plaw/101/public/647), §§ 3102(b), 3103, Nov. 29, 1990, [104 Stat. 4916](https://www.govinfo.gov/link/statute/104/4916); [Pub. L. 103–394, title III, § 302](https://www.govinfo.gov/link/plaw/103/public/394), title V, § 501(d)(38), Oct. 22, 1994, [108 Stat. 4132](https://www.govinfo.gov/link/statute/108/4132), 4147; [Pub. L. 109–8, title I, § 106(c)](https://www.govinfo.gov/link/plaw/109/public/8), title II, § 213(11), title III, §§ 312(2), 314(b), 330(d), title VII, § 707, Apr. 20, 2005, [119 Stat. 38](https://www.govinfo.gov/link/statute/119/38), 53, 87, 88, 102, 126; [Pub. L. 116–260, div. FF, title X, § 1001(b)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3217](https://www.govinfo.gov/link/statute/134/3217).)*

@@ -3,9 +3,10 @@ title: "Section 3772 - Rights in technical data: provisions required in contract
 usc_title: 10
 usc_section: "3772"
 chapter: 275
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 3772"
-generated_at: "2026-03-30T02:53:38.197Z"
+generated_at: "2026-11-23T20:25:51.859Z"
+status: "active"
 ---
 
 # § 3772. Rights in technical data: provisions required in contracts
@@ -33,3 +34,9 @@ generated_at: "2026-03-30T02:53:38.197Z"
   - **(1)** prescribing standards for determining whether a contract entered into by the Department of Defense shall provide for a time to be specified in the contract after which the United States shall have the right to use (or have used) for any purpose of the United States all technical data required to be delivered to the United States under the contract or providing for such a period of time (not to exceed 7 years) as a negotiation objective;
   - **(2)** notwithstanding any limitation upon the license rights conveyed under section 3771 of this title , allowing a covered Government support contractor access to and use of any technical data delivered under a contract for the sole purpose of furnishing independent and impartial advice or technical assistance directly to the Government in support of the Government’s management and oversight of the program or effort to which such technical data relates; or
   - **(3)** prescribing reasonable and flexible guidelines, including negotiation objectives, for the conduct of negotiations regarding the respective rights in technical data of the United States and the contractor.
+
+Contract Provisions Relating to Technical Data
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1833(a)(1)](https://www.govinfo.gov/link/plaw/116/public/283), (c), Jan. 1, 2021, [134 Stat. 4226](https://www.govinfo.gov/link/statute/134/4226), 4228.)*

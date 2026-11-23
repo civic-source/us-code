@@ -3,9 +3,10 @@ title: "Section 3404 - Customer authorizations"
 usc_title: 12
 usc_section: "3404"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 3404"
-generated_at: "2026-03-30T02:53:53.494Z"
+generated_at: "2026-11-23T20:25:59.337Z"
+status: "active"
 ---
 
 # § 3404. Customer authorizations
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:53.494Z"
   - **(5)** states the customer’s rights under this chapter.
 - **(b)** No such authorization shall be required as a condition of doing business with any financial institution.
 - **(c)** The customer has the right, unless the Government authority obtains a court order as provided in section 3409 of this title , to obtain a copy of the record which the financial institution shall keep of all instances in which the customer’s record is disclosed to a Government authority pursuant to this section, including the identity of the Government authority to which such disclosure is made.
+
+## Source Credit
+
+*([Pub. L. 95–630, title XI, § 1104](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3698](https://www.govinfo.gov/link/statute/92/3698); [Pub. L. 96–3](https://www.govinfo.gov/link/plaw/96/public/3), Mar. 7, 1979, [93 Stat. 5](https://www.govinfo.gov/link/statute/93/5).)*

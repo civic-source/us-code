@@ -3,9 +3,10 @@ title: "Section 7457 - Native American language resource centers"
 usc_title: 20
 usc_section: "7457"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 7457"
-generated_at: "2026-03-30T02:54:48.213Z"
+generated_at: "2026-11-23T20:26:14.915Z"
+status: "active"
 ---
 
 # § 7457. Native American language resource centers
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:54:48.213Z"
   - **(3)** The term “institution of higher education” has the meaning given the term in section 1001 of this title .
   - **(4)** The terms “Native American” and “Native American language” have the meanings given those terms in section 103 of the Native American Languages Act ( 25 U.S.C. 2902 ).
 - **(f)** There are authorized to be appropriated to carry out this section, $3,000,000 for each fiscal year.
+
+## Source Credit
+
+*([Pub. L. 117–335, § 2](https://www.govinfo.gov/link/plaw/117/public/335), Jan. 5, 2023, [136 Stat. 6143](https://www.govinfo.gov/link/statute/136/6143).)*

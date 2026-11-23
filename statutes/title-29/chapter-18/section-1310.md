@@ -3,9 +3,10 @@ title: "Section 1310 - Authority to require certain information"
 usc_title: 29
 usc_section: "1310"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1310"
-generated_at: "2026-03-30T02:55:18.730Z"
+generated_at: "2026-11-23T20:26:38.015Z"
+status: "active"
 ---
 
 # § 1310. Authority to require certain information
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:18.730Z"
     - **(C)** The term “at-risk status” has the meaning provided in section 1083(i)(4) of this title .
   - **(3)** For purposes of this section, the segment rates used in determining the funding target and funding target attainment percentage shall be determined by not taking into account any adjustment under section 1083(h)(2)(C)(iv) 1 1 See References in Text note below. of this title.
 - **(e)** The corporation shall, on an annual basis, submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Finance of the Senate and the Committee on Education and the Workforce and the Committee on Ways and Means of the House of Representatives, a summary report in the aggregate of the information submitted to the corporation under this section.
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4010](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 103–465, title VII, § 772(a)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 5044](https://www.govinfo.gov/link/statute/108/5044); amended [Pub. L. 109–280, title I, § 108(b)(3)](https://www.govinfo.gov/link/plaw/109/public/280), formerly § 107(b)(3), title V, § 505(a), (b), Aug. 17, 2006, [120 Stat. 819](https://www.govinfo.gov/link/statute/120/819), 946, renumbered [Pub. L. 111–192, title II, § 202(a)](https://www.govinfo.gov/link/plaw/111/public/192), June 25, 2010, [124 Stat. 1297](https://www.govinfo.gov/link/statute/124/1297); [Pub. L. 110–458, title I, § 105(d)](https://www.govinfo.gov/link/plaw/110/public/458), Dec. 23, 2008, [122 Stat. 5105](https://www.govinfo.gov/link/statute/122/5105); [Pub. L. 112–141, div. D, title II, § 40211(b)(3)(D)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 849](https://www.govinfo.gov/link/statute/126/849); [Pub. L. 113–97, title I, § 102(b)(8)](https://www.govinfo.gov/link/plaw/113/public/97), Apr. 7, 2014, [128 Stat. 1117](https://www.govinfo.gov/link/statute/128/1117).)*

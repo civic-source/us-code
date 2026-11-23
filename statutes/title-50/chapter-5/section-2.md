@@ -3,9 +3,10 @@ title: "Section 2 - Reports"
 usc_title: 50
 usc_section: "2"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 2"
-generated_at: "2026-03-30T02:56:26.197Z"
+generated_at: "2026-11-23T20:27:30.697Z"
+status: "active"
 ---
 
 # § 98h–2. Reports
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:26.197Z"
       - **(iv)** the outcome of each use of such practices; and
       - **(v)** any savings achieved or lessons learned as a result of the use of such practices.
   - **(2)** The Board shall prepare a written report to accompany the report required by paragraph (1) which shall include the activities of the Board to carry out the duties listed in section 98h–1(c) of this title 1 1 So in original. Probably should be followed by a period.
+
+## Source Credit
+
+*(June 7, 1939, ch. 190, § 11, as added [Pub. L. 96–41, § 2(a)](https://www.govinfo.gov/link/plaw/96/public/41), July 30, 1979, [93 Stat. 324](https://www.govinfo.gov/link/statute/93/324); amended [Pub. L. 97–35, title II, § 203(e)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 382](https://www.govinfo.gov/link/statute/95/382); [Pub. L. 99–661, div. C, title II, § 3207(a)(3)](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 4069](https://www.govinfo.gov/link/statute/100/4069); [Pub. L. 100–180, div. C, title II, § 3205](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1247](https://www.govinfo.gov/link/statute/101/1247); [Pub. L. 100–456, div. A, title XV, § 1503](https://www.govinfo.gov/link/plaw/100/public/456), Sept. 29, 1988, [102 Stat. 2086](https://www.govinfo.gov/link/statute/102/2086); [Pub. L. 101–189, div. C, title XXXIII, § 3315](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1688](https://www.govinfo.gov/link/statute/103/1688); [Pub. L. 102–190, div. C, title XXXIII](https://www.govinfo.gov/link/plaw/102/public/190), §§ 3311(b), 3313(a), Dec. 5, 1991, [105 Stat. 1584](https://www.govinfo.gov/link/statute/105/1584); [Pub. L. 103–35, title II, § 204(d)](https://www.govinfo.gov/link/plaw/103/public/35), May 31, 1993, [107 Stat. 103](https://www.govinfo.gov/link/statute/107/103); [Pub. L. 113–291, div. A, title X, § 1071(j)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3512](https://www.govinfo.gov/link/statute/128/3512); [Pub. L. 115–232, div. A, title XIV, § 1423](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2093](https://www.govinfo.gov/link/statute/132/2093); [Pub. L. 117–263, div. A, title XIV, § 1411(c)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2870](https://www.govinfo.gov/link/statute/136/2870); [Pub. L. 118–31, div. A, title XIV, § 1411(d)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 524](https://www.govinfo.gov/link/statute/137/524).)*

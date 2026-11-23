@@ -3,9 +3,10 @@ title: "Section 3731 - Indian and Alaska Native agriculture management education
 usc_title: 25
 usc_section: "3731"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3731"
-generated_at: "2026-03-30T02:54:52.855Z"
+generated_at: "2026-11-23T20:26:25.664Z"
+status: "active"
 ---
 
 # § 3731. Indian and Alaska Native agriculture management education assistance programs
@@ -42,3 +43,65 @@ generated_at: "2026-03-30T02:54:52.855Z"
   - **(3)** The Secretary shall not deny scholarship assistance under this subsection solely on the basis of an applicant’s scholastic achievement if the applicant has been admitted to and remains in good standing in an accredited post secondary 1 1 So in original. Probably should be “postsecondary”. or graduate institution.
 - **(d)** The Secretary shall conduct, through the Bureau, and in consultation with other appropriate local, State and Federal agencies, and in consultation and coordination with Indian tribes, an agricultural resource education outreach program for Indian youth to explain and stimulate interest in all aspects of management and careers in Indian agriculture and natural resources.
 - **(e)** The Secretary shall administer the programs described in this section until a sufficient number of Indians are trained to ensure that there is an adequate number of qualified, professional Indian agricultural resource managers to manage the Bureau agricultural resource programs and programs maintained by or for Indian tribes.
+
+Definitions
+
+Secretary
+
+Employee
+
+Eligible
+
+Demonstration project
+
+Applicability
+
+In General
+
+Consultation and Other Requirements
+
+Limitations
+
+Commencement and Termination Dates
+
+Discretionary Authority To Terminate
+
+Evaluation.—
+
+In general
+
+Information
+
+Role of the Office of Personnel Management
+
+Applicability.—
+
+In general
+
+Provisions relating to certain benefits.—
+
+Option for certain individuals to remain under current law governing certain benefits.—
+
+Eligible individuals
+
+Option
+
+Continuation of certain alternative benefit systems after demonstration project terminates for persons becoming subject thereto under the project
+
+Transition provisions.—
+
+Retention of annual and sick leave accrued before becoming subject to demonstration project
+
+Provisions relating to credit for leave upon separating while the demonstration project is still ongoing
+
+Lump-sum credit for annual leave
+
+Retirement credit for sick leave
+
+Transfer of leave remaining upon transfer to another agency
+
+Collective-bargaining agreements
+
+## Source Credit
+
+*([Pub. L. 103–177, title II, § 201](https://www.govinfo.gov/link/plaw/103/public/177), Dec. 3, 1993, [107 Stat. 2018](https://www.govinfo.gov/link/statute/107/2018).)*

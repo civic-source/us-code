@@ -3,9 +3,10 @@ title: "Section 17232 - Better energy storage technology"
 usc_title: 42
 usc_section: "17232"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17232"
-generated_at: "2026-03-30T02:56:11.502Z"
+generated_at: "2026-11-23T20:27:23.742Z"
+status: "active"
 ---
 
 # § 17232. Better energy storage technology
@@ -186,3 +187,15 @@ generated_at: "2026-03-30T02:56:11.502Z"
   - **(1)** to carry out subsection (b), $100,000,000 for each of fiscal years 2021 through 2025, to remain available until expended;
   - **(2)** to carry out subsection (c), $71,000,000 for each of fiscal years 2021 through 2025, to remain available until expended; and
   - **(3)** to carry out subsection (d), $30,000,000 for each of fiscal years 2021 through 2025, to remain available until expended.
+
+(aa) do not support the activities or projects described in subclause (I); but
+
+(bb) are important to the development of energy storage systems and the mission of the Department, as determined by the Secretary;
+
+(aa) larger, higher-cost projects; and
+
+(bb) smaller, lower-cost projects.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. Z, title III, § 3201](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2517](https://www.govinfo.gov/link/statute/134/2517); [Pub. L. 117–58, div. D, title I, § 40112](https://www.govinfo.gov/link/plaw/117/public/58), title III, § 40334, Nov. 15, 2021, [135 Stat. 946](https://www.govinfo.gov/link/statute/135/946), 1024.)*

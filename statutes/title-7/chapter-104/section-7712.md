@@ -3,9 +3,10 @@ title: "Section 7712 - Regulation of movement of plants, plant products, biologi
 usc_title: 7
 usc_section: "7712"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7712"
-generated_at: "2026-03-30T02:53:42.461Z"
+generated_at: "2026-11-23T20:25:41.828Z"
+status: "active"
 ---
 
 # § 7712. Regulation of movement of plants, plant products, biological control organisms, noxious weeds, articles, and means of conveyance
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:53:42.461Z"
   - **(1)** In the case of biological control organisms, the Secretary may publish, by regulation, a list of organisms whose movement in interstate commerce is not prohibited or restricted. Any listing may take into account distinctions between organisms such as indigenous, nonindigenous, newly introduced, or commercially raised.
   - **(2)** Any person may petition the Secretary to add a biological control organism to, or remove a biological control organism from, the regulations issued by the Secretary under this subsection.
   - **(3)** In the case of a petition submitted under paragraph (2), the Secretary shall act on the petition within a reasonable time and notify the petitioner of the final action the Secretary takes on the petition. The Secretary’s determination on the petition shall be based on sound science.
+
+## Source Credit
+
+*([Pub. L. 106–224, title IV, § 412](https://www.govinfo.gov/link/plaw/106/public/224), June 20, 2000, [114 Stat. 441](https://www.govinfo.gov/link/statute/114/441).)*

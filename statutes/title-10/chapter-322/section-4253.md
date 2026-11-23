@@ -3,9 +3,10 @@ title: "Section 4253 - Major defense acquisition programs: submissions to Congre
 usc_title: 10
 usc_section: "4253"
 chapter: 322
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 4253"
-generated_at: "2026-03-30T02:53:38.206Z"
+generated_at: "2026-11-23T20:25:51.937Z"
+status: "active"
 ---
 
 # § 4253. Major defense acquisition programs: submissions to Congress on Milestone C
@@ -21,3 +22,13 @@ generated_at: "2026-03-30T02:53:38.206Z"
   - **(4)** An assessment of the sufficiency of the developmental test and evaluation completed, including the use of automated data analytics or modeling and simulation tools and methodologies.
 - **(b)** At the request of any of the congressional defense committees or, in the case of intelligence or intelligence-related activities, the congressional intelligence committees, the milestone decision authority shall submit to the committee further information or underlying documentation for the information in a brief summary report submitted under subsection (a), including the independent cost and schedule estimates and the independent technical risk assessments referred to in that subsection.
 - **(c)** In this section, the term “congressional intelligence committees” has the meaning given that term in section 437(c) of this title .
+
+Brief Summary Report
+
+Additional Information
+
+Congressional Intelligence Committees Defined
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. A, title VIII, § 808(c)(1)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2265](https://www.govinfo.gov/link/statute/130/2265), § 2366c; amended [Pub. L. 115–91, div. A, title VIII, § 838(a)(2)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1474](https://www.govinfo.gov/link/statute/131/1474); renumbered § 4253 and amended [Pub. L. 116–283, div. A, title XVIII, § 1847(d)(3)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4256](https://www.govinfo.gov/link/statute/134/4256).)*

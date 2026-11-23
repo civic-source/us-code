@@ -3,9 +3,10 @@ title: "Section 183a - Oral history of the House of Representatives"
 usc_title: 2
 usc_section: "183a"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 183a"
-generated_at: "2026-03-30T02:53:04.792Z"
+generated_at: "2026-11-23T20:25:28.860Z"
+status: "active"
 ---
 
 # § 183a. Oral history of the House of Representatives
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:04.792Z"
   - **(3)** Audio recordings.
   - **(4)** Video recordings.
   - **(5)** Such other form or means as may be suitable for the recording and preservation of such information.
+
+## Source Credit
+
+*([Pub. L. 106–99, § 3](https://www.govinfo.gov/link/plaw/106/public/99), Nov. 12, 1999, [113 Stat. 1331](https://www.govinfo.gov/link/statute/113/1331).)*

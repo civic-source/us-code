@@ -3,9 +3,10 @@ title: "Section 65 - Requirement of submission of application containing certain
 usc_title: 42
 usc_section: "65"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 65"
-generated_at: "2026-03-30T02:56:10.828Z"
+generated_at: "2026-11-23T20:27:20.627Z"
+status: "active"
 ---
 
 # § 300ff–65. Requirement of submission of application containing certain agreements and assurances
@@ -15,3 +16,7 @@ The Secretary may not make a grant under this part unless—
   - **(1)** an application for the grant is submitted to the Secretary containing agreements and assurances in accordance with this part and containing the information specified in section 300ff–64(a)(1) of this title ;
   - **(2)** with respect to such agreements, the application provides assurances of compliance satisfactory to the Secretary; and
   - **(3)** the application otherwise is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this part.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXVI, § 2665, as added [Pub. L. 101–381, title III, § 301(a)](https://www.govinfo.gov/link/plaw/101/public/381), Aug. 18, 1990, [104 Stat. 614](https://www.govinfo.gov/link/statute/104/614); amended [Pub. L. 109–415, title VII, § 703](https://www.govinfo.gov/link/plaw/109/public/415), Dec. 19, 2006, [120 Stat. 2820](https://www.govinfo.gov/link/statute/120/2820); [Pub. L. 111–87, § 2(a)(1)](https://www.govinfo.gov/link/plaw/111/public/87), (3)(A), Oct. 30, 2009, [123 Stat. 2885](https://www.govinfo.gov/link/statute/123/2885).)*

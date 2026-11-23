@@ -3,9 +3,10 @@ title: "Section 1134 - Security assessments and plans"
 usc_title: 6
 usc_section: "1134"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 1134"
-generated_at: "2026-03-30T02:53:09.504Z"
+generated_at: "2026-11-23T20:25:34.908Z"
+status: "active"
 ---
 
 # § 1134. Security assessments and plans
@@ -56,3 +57,7 @@ generated_at: "2026-03-30T02:53:09.504Z"
   - **(1)** Nothing in this section shall be construed as authorizing the withholding of any information from Congress.
   - **(2)** Nothing in this section shall be construed as affecting any authority or obligation of a Federal agency to disclose any record or information that the Federal agency obtains from a public transportation agency under any other Federal law.
 - **(i)** In response to a petition by a public transportation agency or at the discretion of the Secretary, the Secretary may recognize existing procedures, protocols, and standards of a public transportation agency that the Secretary determines meet all or part of the requirements of this section regarding security assessments or security plans.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XIV, § 1405](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 402](https://www.govinfo.gov/link/statute/121/402).)*

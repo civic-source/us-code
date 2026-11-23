@@ -3,9 +3,10 @@ title: "Section 32902 - Average fuel economy standards"
 usc_title: 49
 usc_section: "32902"
 chapter: 329
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 32902"
-generated_at: "2026-03-30T02:56:19.366Z"
+generated_at: "2026-11-23T20:27:35.002Z"
+status: "active"
 ---
 
 # § 32902. Average fuel economy standards
@@ -64,3 +65,182 @@ generated_at: "2026-03-30T02:56:19.366Z"
   - **(3)** The commercial medium- and heavy-duty on-highway vehicle and work truck fuel economy standard adopted pursuant to this subsection shall provide not less than—
     - **(A)** 4 full model years of regulatory lead-time; and
     - **(B)** 3 full model years of regulatory stability.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 32902(a) | 15:2002(b). | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , § 502(a)(1), (3)–(c), (e) (1st sentence), (f), (h); added Dec. 22, 1975 , Pub. L. 94–163, § 301 , 89 Stat. 902 , 903, 905; Oct. 10, 1980 , Pub. L. 96–425 , §§ 3(a)(1), 7, 8(c), 94 Stat. 1821 , 1828. |
+| 32902(b) | 15:2002(a)(1), (3). |  |
+| 32902(c)(1) | 15:2002(a)(4) (words before 5th comma), (h). |  |
+| 32902(c)(2) | 15:2002(a)(4) (words after 5th comma), (5). |  |
+| 32902(d) | 15:1397 (note). | Oct. 31, 1988 , Pub. L. 100–562, § 2(f) , 102 Stat. 2825 . |
+|  | 15:2002(c). |  |
+| 32902(e) | 15:2002(g). | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , § 502(g); added Oct. 10, 1980 , Pub. L. 96–425, § 7 , 94 Stat. 1828 . |
+| 32902(f) | 15:2002(e) (1st sentence). |  |
+| 32902(g) | 15:2002(f). |  |
+| 32902(h) | 15:2002(e) (last sentence). | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , §§ 502(e) (last sentence), 513(g)(2)(B); added Oct. 14, 1988 , Pub. L. 100–494, § 6(a) , (c), 102 Stat. 2450 , 2452; Oct. 24, 1992 , Pub. L. 102–486, § 403(2) , (5)(G)(ii)(II), (III), 106 Stat. 2876 , 2878. |
+|  | 15:2013(g)(2)(B). |  |
+| 32902(i) | 15:2002(i) (1st sentence). | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , § 502(i), (j); added Aug. 4, 1977 , Pub. L. 95–91, § 305 , 91 Stat. 580 ; Oct. 10, 1980 , Pub. L. 96–425, § 7 , 94 Stat. 1828 . |
+| 32902(j) | 15:2002(i) (2d, last sentences), (j). |  |
+
+
+Prescription of Standards by Regulation
+
+Standards for Automobiles and Certain Other Vehicles.—
+
+In general
+
+Fuel economy standards for automobiles.—
+
+Automobile fuel economy average for model years 2011 through 2020
+
+Automobile fuel economy average for model years 2021 through 2030
+
+Progress toward standard required
+
+Authority of the secretary
+
+Minimum standard
+
+Amending Passenger Automobile Standards
+
+Exemptions
+
+Emergency Vehicles
+
+Considerations on Decisions on Maximum Feasible Average Fuel Economy
+
+Requirements for Other Amendments
+
+Limitations
+
+Consultation
+
+Secretary of Energy Comments
+
+Commercial Medium- and Heavy-Duty On-Highway Vehicles and Work Trucks.—
+
+Study
+
+Rulemaking
+
+Lead-time; regulatory stability
+
+Historical and Revision Notes
+
+32902(a)
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+Dec. 22, 1975
+
+Pub. L. 94–163, § 301
+
+89 Stat. 902
+
+Oct. 10, 1980
+
+Pub. L. 96–425
+
+94 Stat. 1821
+
+32902(b)
+
+32902(c)(1)
+
+32902(c)(2)
+
+32902(d)
+
+Oct. 31, 1988
+
+Pub. L. 100–562, § 2(f)
+
+102 Stat. 2825
+
+32902(e)
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+Oct. 10, 1980
+
+Pub. L. 96–425, § 7
+
+94 Stat. 1828
+
+32902(f)
+
+32902(g)
+
+32902(h)
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+Oct. 14, 1988
+
+Pub. L. 100–494, § 6(a)
+
+102 Stat. 2450
+
+Oct. 24, 1992
+
+Pub. L. 102–486, § 403(2)
+
+106 Stat. 2876
+
+32902(i)
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+Aug. 4, 1977
+
+Pub. L. 95–91, § 305
+
+91 Stat. 580
+
+Oct. 10, 1980
+
+Pub. L. 96–425, § 7
+
+94 Stat. 1828
+
+32902(j)
+
+In General
+
+Report
+
+Quinquennial Updates
+
+Barack Obama.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1059](https://www.govinfo.gov/link/statute/108/1059); [Pub. L. 110–140, title I](https://www.govinfo.gov/link/plaw/110/public/140), §§ 102, 104(b)(1), Dec. 19, 2007, [121 Stat. 1498](https://www.govinfo.gov/link/statute/121/1498), 1503.)*

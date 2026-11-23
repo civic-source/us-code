@@ -3,9 +3,10 @@ title: "Section 856 - Maintaining drug-involved premises"
 usc_title: 21
 usc_section: "856"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 856"
-generated_at: "2026-03-30T02:54:54.296Z"
+generated_at: "2026-11-23T20:26:27.844Z"
+status: "active"
 ---
 
 # § 856. Maintaining drug-involved premises
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:54.296Z"
     - **(B)** 2 times the gross receipts, either known or estimated, that were derived from each violation that is attributable to the person.
   - **(2)** If a civil penalty is calculated under paragraph (1)(B), and there is more than 1 defendant, the court may apportion the penalty between multiple violators, but each violator shall be jointly and severally liable for the civil penalty under this subsection.
 - **(e)** Any person who violates subsection (a) shall be subject to declaratory and injunctive remedies as set forth in section 843(f) of this title .
+
+## Source Credit
+
+*([Pub. L. 91–513, title II, § 416](https://www.govinfo.gov/link/plaw/91/public/513), as added [Pub. L. 99–570, title I, § 1841(a)](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–52](https://www.govinfo.gov/link/statute/100/3207); amended [Pub. L. 106–310, div. B, title XXXVI, § 3613(e)](https://www.govinfo.gov/link/plaw/106/public/310), Oct. 17, 2000, [114 Stat. 1230](https://www.govinfo.gov/link/statute/114/1230); [Pub. L. 108–21, title VI, § 608(b)(1)](https://www.govinfo.gov/link/plaw/108/public/21), (2), (c), Apr. 30, 2003, [117 Stat. 691](https://www.govinfo.gov/link/statute/117/691).)*

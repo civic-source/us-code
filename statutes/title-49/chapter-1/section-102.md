@@ -3,9 +3,10 @@ title: "Section 102 - Department of Transportation"
 usc_title: 49
 usc_section: "102"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 102"
-generated_at: "2026-03-30T02:56:19.293Z"
+generated_at: "2026-11-23T20:27:34.482Z"
+status: "active"
 ---
 
 # § 102. Department of Transportation
@@ -105,3 +106,170 @@ generated_at: "2026-03-30T02:56:19.293Z"
     - **(B)** identifies major challenges facing passengers; and
     - **(C)** addresses any other relevant issues, as the Assistant Secretary determines to be appropriate.
   - **(6)** There is authorized to be appropriated $12,000,000 for fiscal year 2024, $13,000,000 for fiscal year 2025, $14,000,000 for fiscal year 2026, $15,000,000 for fiscal year 2027, and $16,000,000 for fiscal year 2028 to carry out this subsection.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 102(a) | 49:1652(a) (1st sentence). | Oct. 15, 1966 , Pub. L. 89–670, § 3(a) , (c), (d), 80 Stat. 931 . |
+| 102(b) | 49:1652(a) (less 1st sentence). |  |
+| 102(c) | 49:1652(b) (less words between parentheses). | Oct 15, 1966, Pub. L. 89–670, § 3(b) , 80 Stat. 931 ; Oct. 28, 1974 , Pub. L. 93–496, § 16(a) , 88 Stat. 1533 . |
+| 102(d) | 49:1652(b) (words between parentheses), (c), (d). |  |
+| 102(e) | 49:1657(k). | Oct. 15, 1966 , Pub. L. 89–670, § 9(k) , 80 Stat. 946 . |
+
+
+Assistant Secretaries; General Counsel.—
+
+Appointment
+
+Duties and powers
+
+Office of Tribal Government Affairs.—
+
+Establishment
+
+Reservation of trust obligations.—
+
+Responsibility of secretary
+
+Preservation of united states responsibility
+
+Office of Climate Change and Environment.—
+
+Establishment
+
+Clearinghouse
+
+Interagency Infrastructure Permitting Improvement Center.—
+
+Definitions
+
+Center
+
+Project
+
+Establishment
+
+Purposes
+
+Executive director
+
+Duties
+
+Innovative best practices.—
+
+In general
+
+Activities
+
+NEPA compliance assistance.—
+
+In general
+
+Assistance from the bureau
+
+Chief Travel and Tourism Officer.—
+
+Establishment
+
+Duties
+
+Office of Aviation Consumer Protection.—
+
+Establishment
+
+Leadership
+
+Transition
+
+Coordination
+
+Annual report
+
+Funding
+
+Historical and Revision Notes
+
+102(a)
+
+Oct. 15, 1966
+
+Pub. L. 89–670, § 3(a)
+
+80 Stat. 931
+
+102(b)
+
+102(c)
+
+Pub. L. 89–670, § 3(b)
+
+80 Stat. 931
+
+Oct. 28, 1974
+
+Pub. L. 93–496, § 16(a)
+
+88 Stat. 1533
+
+102(d)
+
+102(e)
+
+Oct. 15, 1966
+
+Pub. L. 89–670, § 9(k)
+
+80 Stat. 946
+
+Definitions
+
+Build america bureau
+
+Indian tribe
+
+ROUTES council
+
+ROUTES office
+
+Routes Office.—
+
+In general
+
+Objectives
+
+Routes Council.—
+
+In general
+
+Membership.—
+
+In general
+
+Chair
+
+Additional members
+
+Additional modal input
+
+Duties
+
+Meetings
+
+Additional staffing
+
+Work products and deliverables
+
+“The Secretary of Transportation shall designate an official within the Department of Transportation who shall—
+
+Notice of Reprogramming
+
+Notice of Reorganization
+
+Notice of Reprogramming
+
+Notice of Reorganization
+
+Lyndon B. Johnson.
+
+## Source Credit
+
+*([Pub. L. 97–449, § 1(b)](https://www.govinfo.gov/link/plaw/97/public/449), Jan. 12, 1983, [96 Stat. 2414](https://www.govinfo.gov/link/statute/96/2414); [Pub. L. 98–557, § 26(a)](https://www.govinfo.gov/link/plaw/98/public/557), Oct. 30, 1984, [98 Stat. 2873](https://www.govinfo.gov/link/statute/98/2873); [Pub. L. 103–272, § 4(j)(1)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1365](https://www.govinfo.gov/link/statute/108/1365); [Pub. L. 107–295, title II, § 215(a)](https://www.govinfo.gov/link/plaw/107/public/295), (c), Nov. 25, 2002, [116 Stat. 2101](https://www.govinfo.gov/link/statute/116/2101), 2102; [Pub. L. 109–59, title I, § 1119](https://www.govinfo.gov/link/plaw/109/public/59) (l), Aug. 10, 2005, [119 Stat. 1189](https://www.govinfo.gov/link/statute/119/1189); [Pub. L. 110–140, title XI, § 1101(a)](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1756](https://www.govinfo.gov/link/statute/121/1756); [Pub. L. 112–166, § 2(k)(1)](https://www.govinfo.gov/link/plaw/112/public/166), Aug. 10, 2012, [126 Stat. 1286](https://www.govinfo.gov/link/statute/126/1286); [Pub. L. 114–94, div. A, title VI, § 6011(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1568](https://www.govinfo.gov/link/statute/129/1568); [Pub. L. 117–58, div. A, title IV, § 14009](https://www.govinfo.gov/link/plaw/117/public/58), div. B, title V, §§ 25009(a), 25018(b), Nov. 15, 2021, [135 Stat. 651](https://www.govinfo.gov/link/statute/135/651), 852, 875; [Pub. L. 118–63, title V, § 501](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1186](https://www.govinfo.gov/link/statute/138/1186).)*

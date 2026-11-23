@@ -3,9 +3,10 @@ title: "Section 7512 - Requirements of electronic merchant mariner credentialing
 usc_title: 46
 usc_section: "7512"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 7512"
-generated_at: "2026-03-30T02:56:15.551Z"
+generated_at: "2026-11-23T20:27:27.120Z"
+status: "active"
 ---
 
 # § 7512. Requirements of electronic merchant mariner credentialing system
@@ -26,3 +27,15 @@ generated_at: "2026-03-30T02:56:15.551Z"
   - **(5)** the number of providers approved to provide training for purposes of this part and, for each such training provider, the number of classes taken by individuals with, or applying for, a merchant mariner credential; and
   - **(6)** if applicable, the branch of the uniformed services (as defined in section 101(a) of title 10 ) and duty status of applicants for a merchant mariner credential.
 - **(d)** The Secretary shall collect the information required under subsection (b) in a manner that protects the privacy rights of individuals who are the subjects of such information.
+
+Definition of Merchant Mariner Credential
+
+Necessary Considerations
+
+Access to Data
+
+Privacy Requirements
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. G, title LXXIII, § 7301(g)(4)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1757](https://www.govinfo.gov/link/statute/139/1757).)*

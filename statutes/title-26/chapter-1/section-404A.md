@@ -3,9 +3,10 @@ title: "Section 404A - Deduction for certain foreign deferred compensation plans
 usc_title: 26
 usc_section: "404A"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 404A"
-generated_at: "2026-03-30T02:55:27.677Z"
+generated_at: "2026-11-23T20:26:45.635Z"
+status: "active"
 ---
 
 # § 404A. Deduction for certain foreign deferred compensation plans
@@ -80,3 +81,33 @@ generated_at: "2026-03-30T02:55:27.677Z"
   - **(4)** Any change in the method (but not the actuarial assumptions) used to determine the amount allowed as a deduction under subsection (a) shall be treated as a change in accounting method under section 446(e).
   - **(5)** For purposes of section 481, any election under this section shall be treated as a change in the taxpayer’s method of accounting. In applying section 481 with respect to any such election, the period for taking into account any increase or decrease in accumulated profits, earnings and profits or taxable income resulting from the application of section 481(a)(2) shall be the year for which the election is made and the fourteen succeeding years.
 - **(h)** The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section (including regulations providing for the coordination of the provisions of this section with section 404 in the case of a plan which has been subject to both of such sections).
+
+In general.—
+
+Election to apply amendments retroactively with respect to foreign subsidiaries.—
+
+In general.—
+
+Scope of retroactive application.—
+
+Distributions by foreign subsidiary must be out of post-1971 earnings and profits.—
+
+Revocation only with consent.—
+
+Open period.—
+
+Allowance of prior deductions in case of certain funded branch plans.—
+
+In general.—
+
+Prior deduction.—
+
+Time and manner for making elections.—
+
+Time.—
+
+Manner.—
+
+## Source Credit
+
+*(Added [Pub. L. 96–603, § 2(a)](https://www.govinfo.gov/link/plaw/96/public/603), Dec. 28, 1980, [94 Stat. 3505](https://www.govinfo.gov/link/statute/94/3505); amended [Pub. L. 99–514, title XI, § 1114(b)(8)](https://www.govinfo.gov/link/plaw/99/public/514), title XVIII, § 1851(b)(2)(C)(iii), Oct. 22, 1986, [100 Stat. 2451](https://www.govinfo.gov/link/statute/100/2451), 2863; [Pub. L. 100–647, title I, § 1012(b)(4)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3496](https://www.govinfo.gov/link/statute/102/3496); [Pub. L. 109–280, title VIII, § 801(c)(4)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 995](https://www.govinfo.gov/link/statute/120/995); [Pub. L. 115–141, div. U, title IV, § 401(a)(74)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1187](https://www.govinfo.gov/link/statute/132/1187).)*

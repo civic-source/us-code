@@ -3,9 +3,10 @@ title: "Section 6301 - Findings and purposes"
 usc_title: 16
 usc_section: "6301"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6301"
-generated_at: "2026-03-30T02:54:23.056Z"
+generated_at: "2026-11-23T20:26:20.790Z"
+status: "active"
 ---
 
 # § 6301. Findings and purposes
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:23.056Z"
 - **(b)** The purposes of this chapter are—
   - **(1)** to sustain viable populations of great apes in the wild; and
   - **(2)** to assist in the conservation and protection of great apes by supporting conservation programs of countries in which populations of great apes are located and by supporting the CITES Secretariat.
+
+## Source Credit
+
+*([Pub. L. 106–411, § 2](https://www.govinfo.gov/link/plaw/106/public/411), Nov. 1, 2000, [114 Stat. 1789](https://www.govinfo.gov/link/statute/114/1789).)*

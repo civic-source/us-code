@@ -3,9 +3,10 @@ title: "Section 3151b - Veterinary services grant program"
 usc_title: 7
 usc_section: "3151b"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 3151b"
-generated_at: "2026-03-30T02:53:42.394Z"
+generated_at: "2026-11-23T20:25:41.564Z"
+status: "active"
 ---
 
 # § 3151b. Veterinary services grant program
@@ -66,3 +67,7 @@ generated_at: "2026-03-30T02:53:42.394Z"
 - **(h)**
   - **(1)** There are authorized to be appropriated to the Secretary to carry out this section $10,000,000 for fiscal year 2014 and each fiscal year thereafter, to remain available until expended.
   - **(2)** From amounts made available for grants under this section, the Secretary shall prioritize grant awards for programs or activities with a focus on the practice of food animal medicine.
+
+## Source Credit
+
+*([Pub. L. 95–113, title XIV, § 1415B](https://www.govinfo.gov/link/plaw/95/public/113), as added [Pub. L. 113–79, title VII, § 7104](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 866](https://www.govinfo.gov/link/statute/128/866); amended [Pub. L. 115–334, title VII, § 7106](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4783](https://www.govinfo.gov/link/statute/132/4783).)*

@@ -3,9 +3,10 @@ title: "Section 1339 - Trade Remedy Assistance Office"
 usc_title: 19
 usc_section: "1339"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1339"
-generated_at: "2026-03-30T02:54:24.631Z"
+generated_at: "2026-11-23T20:26:10.745Z"
+status: "active"
 ---
 
 # § 1339. Trade Remedy Assistance Office
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:24.631Z"
     - **(D)** subtitle IV of this chapter (relating to the imposition of countervailing duties and antidumping duties);
     - **(E)** section 1862 of this title (relating to the safeguarding of national security); and
     - **(F)** section 1337 of this title (relating to unfair practices in import trade).
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title III, § 339, as added [Pub. L. 98–573, title II, § 221[(a)]](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 2989](https://www.govinfo.gov/link/statute/98/2989); [Pub. L. 99–514, title XVIII, § 1888(3)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2924](https://www.govinfo.gov/link/statute/100/2924); [Pub. L. 100–418, title I, § 1614](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1263](https://www.govinfo.gov/link/statute/102/1263).)*

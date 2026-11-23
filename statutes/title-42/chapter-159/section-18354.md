@@ -3,9 +3,10 @@ title: "Section 18354 - Management of the ISS national laboratory"
 usc_title: 42
 usc_section: "18354"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18354"
-generated_at: "2026-03-30T02:56:11.519Z"
+generated_at: "2026-11-23T20:27:23.798Z"
+status: "active"
 ---
 
 # § 18354. Management of the ISS national laboratory
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:11.519Z"
   - **(2)** If any NASA research plan is determined to require research capacity onboard the ISS beyond the percentage allocated under paragraph (1), such research plan shall be prepared in the form of a requested research opportunity to be submitted to the process established under this section for the consideration of proposed research within the capacity allocated to the ISS national laboratory. A proposal for such a research plan may include the establishment of partnerships with non-NASA institutions eligible to propose research to be conducted within the ISS national laboratory capacity. Until at least September 30, 2030 , the official or employee designated under subsection (b) may grant an exception to this requirement in the case of a proposed experiment considered essential for purposes of preparing for exploration beyond low-Earth orbit, as determined by joint agreement between the organization with which the Administrator enters into a cooperative agreement under subsection (a) and the official or employee designated under subsection (b).
   - **(3)** The organization with which the Administrator enters into the cooperative agreement shall consider recommendations of the National Academies Decadal Survey on Biological and Physical Sciences in Space in establishing research priorities and in developing proposed enhancements of research capacity and opportunities for the ISS national laboratory.
   - **(4)** NASA shall retain its roles and responsibilities in providing research payload physical, analytical, and operations integration during pre-flight, post-flight, transportation, and orbital phases essential to ensure safe and effective flight readiness and vehicle integration of research activities approved and prioritized by the organization with which the Administrator enters into the cooperative agreement and the official or employee designated under subsection (b).
+
+## Source Credit
+
+*([Pub. L. 111–267, title V, § 504](https://www.govinfo.gov/link/plaw/111/public/267), Oct. 11, 2010, [124 Stat. 2825](https://www.govinfo.gov/link/statute/124/2825); [Pub. L. 114–90, title I, § 114(b)(3)](https://www.govinfo.gov/link/plaw/114/public/90), Nov. 25, 2015, [129 Stat. 716](https://www.govinfo.gov/link/statute/129/716); [Pub. L. 117–167, div. B, title VII, § 10815(c)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1738](https://www.govinfo.gov/link/statute/136/1738).)*

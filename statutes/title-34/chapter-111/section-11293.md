@@ -3,9 +3,10 @@ title: "Section 11293 - Duties and functions of the Administrator"
 usc_title: 34
 usc_section: "11293"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 11293"
-generated_at: "2026-03-30T02:55:33.280Z"
+generated_at: "2026-11-23T20:26:50.524Z"
+status: "active"
 ---
 
 # § 11293. Duties and functions of the Administrator
@@ -95,3 +96,23 @@ generated_at: "2026-03-30T02:55:33.280Z"
   - **(2)** provide to State and local governments, public and private nonprofit agencies, and individuals information to facilitate the lawful use of school records and birth certificates, in compliance with the Family Educational Rights and Privacy Act of 1974 ( 20 U.S.C. 1232g ) 2 2 So in original. Probably should be followed by a comma. to identify and locate missing children 3 3 So in original. Probably should be followed by “; and”.
   - **(3)** publish an analysis of the information determined under paragraph (1) that includes disaggregated demographic data and comparison of such data to demographic data from the census.
 - **(d)** Nothing contained in this subchapter shall be construed to grant to the Administrator any law enforcement responsibility or supervisory authority over any other Federal agency.
+
+(aa) possession, manufacture, and distribution of child sexual abuse material;
+
+(bb) online enticement of children for sexual acts;
+
+(cc) child sex trafficking;
+
+(dd) extraterritorial child sexual abuse and exploitation;
+
+(ee) child sexual molestation;
+
+(ff) unsolicited obscene material sent to a child;
+
+(gg) misleading domain names; and
+
+(hh) misleading words or digital images on the internet; and
+
+## Source Credit
+
+*([Pub. L. 93–415, title IV, § 404](https://www.govinfo.gov/link/plaw/93/public/415), as added [Pub. L. 98–473, title II, § 660](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2126](https://www.govinfo.gov/link/statute/98/2126); amended [Pub. L. 100–690, title VII, § 7285](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4459](https://www.govinfo.gov/link/statute/102/4459); [Pub. L. 101–204, title X, § 1004(2)](https://www.govinfo.gov/link/plaw/101/public/204), Dec. 7, 1989, [103 Stat. 1828](https://www.govinfo.gov/link/statute/103/1828); [Pub. L. 106–71, § 2(c)](https://www.govinfo.gov/link/plaw/106/public/71), Oct. 12, 1999, [113 Stat. 1034](https://www.govinfo.gov/link/statute/113/1034); [Pub. L. 107–273, div. C, title II, § 12221(b)(2)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1894](https://www.govinfo.gov/link/statute/116/1894); [Pub. L. 108–21, title III](https://www.govinfo.gov/link/plaw/108/public/21), §§ 321(b), 323, Apr. 30, 2003, [117 Stat. 664](https://www.govinfo.gov/link/statute/117/664), 665; [Pub. L. 108–96, title II, § 202(a)](https://www.govinfo.gov/link/plaw/108/public/96), Oct. 10, 2003, [117 Stat. 1172](https://www.govinfo.gov/link/statute/117/1172); [Pub. L. 110–240, § 3](https://www.govinfo.gov/link/plaw/110/public/240), June 3, 2008, [122 Stat. 1561](https://www.govinfo.gov/link/statute/122/1561); [Pub. L. 113–38, § 2(b)](https://www.govinfo.gov/link/plaw/113/public/38), Sept. 30, 2013, [127 Stat. 527](https://www.govinfo.gov/link/statute/127/527); [Pub. L. 114–22, title II, § 211](https://www.govinfo.gov/link/plaw/114/public/22), May 29, 2015, [129 Stat. 249](https://www.govinfo.gov/link/statute/129/249); [Pub. L. 115–141, div. Q, title II, § 201](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1120](https://www.govinfo.gov/link/statute/132/1120); [Pub. L. 115–267, § 2(c)](https://www.govinfo.gov/link/plaw/115/public/267), Oct. 11, 2018, [132 Stat. 3757](https://www.govinfo.gov/link/statute/132/3757); [Pub. L. 115–393, title II, § 202(c)](https://www.govinfo.gov/link/plaw/115/public/393), Dec. 21, 2018, [132 Stat. 5268](https://www.govinfo.gov/link/statute/132/5268); [Pub. L. 118–65, § 2(b)](https://www.govinfo.gov/link/plaw/118/public/65), June 17, 2024, [138 Stat. 1439](https://www.govinfo.gov/link/statute/138/1439).)*

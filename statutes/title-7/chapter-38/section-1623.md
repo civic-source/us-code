@@ -3,9 +3,10 @@ title: "Section 1623 - Authorization of appropriations; allotments to States"
 usc_title: 7
 usc_section: "1623"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1623"
-generated_at: "2026-03-30T02:53:42.329Z"
+generated_at: "2026-11-23T20:25:41.220Z"
+status: "active"
 ---
 
 # § 1623. Authorization of appropriations; allotments to States
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:42.329Z"
   - **(5)** An additional $5,000,000 for the fiscal year ending June 30, 1951 , and each subsequent fiscal year.
   - **(6)** In addition to the foregoing, such additional funds beginning with the fiscal year ending June 30, 1952 , and thereafter, as the Congress may deem necessary.
 - **(b)** The Secretary of Agriculture is authorized to make available from such funds such sums as he may deem appropriate for allotment to State departments of agriculture, State bureaus and departments of markets, State agricultural experiment stations, and other appropriate State agencies for cooperative projects in marketing service and in marketing research to effectuate the purposes of this chapter: Provided , That no such allotment and no payment under any such allotment shall be made for any fiscal year to any State agency in excess of the amount which such State agency makes available out of its own funds for such research. The funds which State agencies are required to make available in order to qualify for such an allotment shall be in addition to any funds now available to such agencies for marketing services and for marketing research. The allotments authorized under this section shall be made to the agency or agencies best equipped and qualified to conduct the specific project to be undertaken. Such allotments shall be covered by cooperative agreements between the Secretary of Agriculture and the cooperating agency and shall include appropriate provisions for preventing duplication or overlapping of work within the State or States cooperating. Should duplication or overlapping occur subsequent to approval of a cooperative project or allotment of funds, the Secretary of Agriculture is authorized and directed to withhold unexpended balances on such projects notwithstanding the prior approval thereof.
+
+## Source Credit
+
+*(Aug. 14, 1946, ch. 966, title II, § 204, [60 Stat. 1089](https://www.govinfo.gov/link/statute/60/1089).)*

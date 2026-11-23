@@ -3,9 +3,10 @@ title: "Section 7721 - Plant pest and disease management and disaster prevention
 usc_title: 7
 usc_section: "7721"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7721"
-generated_at: "2026-03-30T02:53:42.461Z"
+generated_at: "2026-11-23T20:25:41.831Z"
+status: "active"
 ---
 
 # § 7721. Plant pest and disease management and disaster prevention
@@ -84,3 +85,7 @@ generated_at: "2026-03-30T02:53:42.461Z"
 - **(h)** Indirect costs charged against a cooperative agreement under this section shall not exceed the lesser of—
   - **(1)** 15 percent of the total Federal funds provided under the cooperative agreement, as determined by the Secretary; and
   - **(2)** the indirect cost rate applicable to the recipient as otherwise established by law.
+
+## Source Credit
+
+*([Pub. L. 106–224, title IV, § 420](https://www.govinfo.gov/link/plaw/106/public/224), as added [Pub. L. 110–234, title X, § 10201(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1339](https://www.govinfo.gov/link/statute/122/1339), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title X, § 10201(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2101; [Pub. L. 113–79, title X, § 10007(a)](https://www.govinfo.gov/link/plaw/113/public/79), (b), (d), Feb. 7, 2014, [128 Stat. 947](https://www.govinfo.gov/link/statute/128/947), 948; [Pub. L. 117–286, § 4(a)(40)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4309](https://www.govinfo.gov/link/statute/136/4309); [Pub. L. 119–21, title I, § 10606(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 110](https://www.govinfo.gov/link/statute/139/110).)*

@@ -3,9 +3,10 @@ title: "Section 1074a - Medical and dental care: members on duty other than acti
 usc_title: 10
 usc_section: "1074a"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1074a"
-generated_at: "2026-03-30T02:53:38.099Z"
+generated_at: "2026-11-23T20:25:51.201Z"
+status: "active"
 ---
 
 # § 1074a. Medical and dental care: members on duty other than active duty for a period of more than 30 days
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:53:38.099Z"
   - **(1)** The Secretary of Defense may provide to any member of the reserve components performing inactive-duty training during scheduled unit training assemblies access to mental health assessments with a licensed mental health professional who shall be available for referrals during duty hours on the premises of the principal duty location of the member’s unit.
   - **(2)** Mental health services provided to a member under this subsection shall be at no cost to the member.
 - **(i)** Amounts available for operation and maintenance of a reserve component of the armed forces may be available for purposes of this section to ensure the medical, dental, and behavioral health readiness of members of such reserve component.
+
+## Source Credit
+
+*(Added [Pub. L. 98–94, title X, § 1012(a)(1)](https://www.govinfo.gov/link/plaw/98/public/94), Sept. 24, 1983, [97 Stat. 664](https://www.govinfo.gov/link/statute/97/664); amended [Pub. L. 98–525, title VI, § 631(a)(1)](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2542](https://www.govinfo.gov/link/statute/98/2542); [Pub. L. 98–557, § 19(4)](https://www.govinfo.gov/link/plaw/98/public/557), Oct. 30, 1984, [98 Stat. 2869](https://www.govinfo.gov/link/statute/98/2869); [Pub. L. 99–145, title XIII, § 1303(a)(7)](https://www.govinfo.gov/link/plaw/99/public/145), Nov. 8, 1985, [99 Stat. 739](https://www.govinfo.gov/link/statute/99/739); [Pub. L. 99–661, div. A, title VI, § 604(a)(1)](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 3874](https://www.govinfo.gov/link/statute/100/3874); [Pub. L. 104–106, div. A, title VII](https://www.govinfo.gov/link/plaw/104/public/106), §§ 702(a), 704(a), Feb. 10, 1996, [110 Stat. 371](https://www.govinfo.gov/link/statute/110/371), 372; [Pub. L. 105–85, div. A, title V, § 513(a)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1730](https://www.govinfo.gov/link/statute/111/1730); [Pub. L. 106–65, div. A, title V, § 578(i)(1)](https://www.govinfo.gov/link/plaw/106/public/65), title VII, § 705(b), Oct. 5, 1999, [113 Stat. 629](https://www.govinfo.gov/link/statute/113/629), 683; [Pub. L. 107–107, div. A, title V, § 513(a)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1093](https://www.govinfo.gov/link/statute/115/1093); [Pub. L. 108–106, title I, § 1114](https://www.govinfo.gov/link/plaw/108/public/106), Nov. 6, 2003, [117 Stat. 1216](https://www.govinfo.gov/link/statute/117/1216); [Pub. L. 108–136, div. A, title VII, § 701](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1525](https://www.govinfo.gov/link/statute/117/1525); [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title VII, § 735(a), Oct. 14, 2008, [122 Stat. 4513](https://www.govinfo.gov/link/statute/122/4513); [Pub. L. 112–81, div. A, title VII, § 703(a)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1471](https://www.govinfo.gov/link/statute/125/1471).)*

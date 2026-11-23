@@ -3,9 +3,10 @@ title: "Section 129 - Toll roads, bridges, tunnels, and ferries"
 usc_title: 23
 usc_section: "129"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 129"
-generated_at: "2026-03-30T02:55:12.551Z"
+generated_at: "2026-11-23T20:26:23.771Z"
+status: "active"
 ---
 
 # § 129. Toll roads, bridges, tunnels, and ferries
@@ -128,3 +129,241 @@ generated_at: "2026-03-30T02:55:12.551Z"
   - **(7)** A project under the program—
     - **(A)** shall include, if appropriate, an analysis of the potential effects of the project on low-income drivers; and
     - **(B)** may include mitigation measures to deal with any potential adverse financial effects on low-income drivers.
+
+Basic Program.—
+
+Authorization for federal participation
+
+Ownership
+
+Limitations on use of revenues.—
+
+In general
+
+Annual audit.—
+
+In general
+
+Records
+
+Noncompliance
+
+Special rule for funding.—
+
+In general
+
+Source
+
+Limitation on federal share
+
+Modifications
+
+Loans.—
+
+In general.—
+
+Loans
+
+Dedicated revenue sources
+
+Compliance with federal laws
+
+Subordination of debt
+
+Obligation of funds loaned
+
+Repayment
+
+Term of loan
+
+Interest
+
+Reuse of funds
+
+Guidelines
+
+State law permitting tolling
+
+Equal access for over-the-road buses.—
+
+In general
+
+Reports.—
+
+In general
+
+Updates
+
+Publication
+
+Annual audit.—
+
+In general
+
+Records
+
+Noncompliance
+
+High occupancy vehicle use of certain toll facilities
+
+Definitions
+
+High occupancy vehicle; hov
+
+Initial construction.—
+
+In general
+
+Exclusions
+
+Over-the-road bus
+
+Public authority
+
+Toll facility
+
+Congestion Relief Program.—
+
+Definitions
+
+Eligible entity
+
+Integrated congestion management system
+
+Program
+
+Establishment
+
+Program goals
+
+Eligible projects
+
+Application; selection.—
+
+Application
+
+Priority
+
+Federal share
+
+Minimum award
+
+Use of tolling.—
+
+In general
+
+Requirements
+
+Limitation
+
+Financial effects on low-income drivers
+
+Limitation on federal share
+
+Loans
+
+Definitions
+
+Eligible toll facility
+
+Nonattainment area
+
+Demonstration program
+
+Limitation on use of revenues.—
+
+Use.—
+
+In general
+
+Requirements.—
+
+Variable price requirement
+
+variable pricing requirement
+
+passenger requirements
+
+Agreement.—
+
+In general
+
+Termination
+
+Debt
+
+Limitation on federal share
+
+Eligibility
+
+Automation
+
+Interoperability.—
+
+In general
+
+Development
+
+Reporting.—
+
+In general
+
+Establishment
+
+Limitation on number of facilities
+
+Eligibility
+
+Selection criteria
+
+Prohibition on noncompete agreements
+
+Limitations on use of revenues; audits
+
+Limitation on use of interstate maintenance funds
+
+Program term
+
+Interstate system defined
+
+Establishment
+
+Contents
+
+Update report
+
+Requirements
+
+In general
+
+Report
+
+Establishment
+
+Limitation on number of facilities
+
+Eligibility
+
+Selection criteria
+
+Limitations on use of revenues; audits
+
+Requirements for project completion.—
+
+General term for expiration of provisional application
+
+Exceptions to expiration
+
+Conditions for previously provisionally approved applications
+
+Definition
+
+Limitation on use of interstate maintenance funds
+
+Program term
+
+Interstate system defined
+
+## Source Credit
+
+*([Pub. L. 85–767](https://www.govinfo.gov/link/plaw/85/public/767), Aug. 27, 1958, [72 Stat. 902](https://www.govinfo.gov/link/statute/72/902); [Pub. L. 86–657](https://www.govinfo.gov/link/plaw/86/public/657), §§ 5, 8(a), July 14, 1960, [74 Stat. 523](https://www.govinfo.gov/link/statute/74/523), 524; [Pub. L. 90–495, § 28](https://www.govinfo.gov/link/plaw/90/public/495), Aug. 23, 1968, [82 Stat. 829](https://www.govinfo.gov/link/statute/82/829); [Pub. L. 91–605, title I](https://www.govinfo.gov/link/plaw/91/public/605), §§ 133, 139, Dec. 31, 1970, [84 Stat. 1732](https://www.govinfo.gov/link/statute/84/1732), 1736; [Pub. L. 92–434, § 7](https://www.govinfo.gov/link/plaw/92/public/434), Sept. 26, 1972, [86 Stat. 732](https://www.govinfo.gov/link/statute/86/732); [Pub. L. 93–87, title I](https://www.govinfo.gov/link/plaw/93/public/87), §§ 118, 132, 139, Aug. 13, 1973, [87 Stat. 259](https://www.govinfo.gov/link/statute/87/259), 267, 270; [Pub. L. 93–643, § 108](https://www.govinfo.gov/link/plaw/93/public/643), Jan. 4, 1975, [88 Stat. 2284](https://www.govinfo.gov/link/statute/88/2284); [Pub. L. 94–280, title I, § 121](https://www.govinfo.gov/link/plaw/94/public/280), May 5, 1976, [90 Stat. 438](https://www.govinfo.gov/link/statute/90/438); [Pub. L. 95–599, title I, § 120](https://www.govinfo.gov/link/plaw/95/public/599), Nov. 6, 1978, [92 Stat. 2700](https://www.govinfo.gov/link/statute/92/2700); [Pub. L. 100–17, title I, § 120(a)](https://www.govinfo.gov/link/plaw/100/public/17), (b), Apr. 2, 1987, [101 Stat. 157](https://www.govinfo.gov/link/statute/101/157), 158; [Pub. L. 100–202, § 101](https://www.govinfo.gov/link/plaw/100/public/202) (l) [title III, § 347(d)], Dec. 22, 1987, [101 Stat. 1329–358](https://www.govinfo.gov/link/statute/101/1329), 1329–388; [Pub. L. 100–457, title III](https://www.govinfo.gov/link/plaw/100/public/457), §§ 326, 335, Sept. 30, 1988, [102 Stat. 2150](https://www.govinfo.gov/link/statute/102/2150), 2153; [Pub. L. 102–240, title I, § 1012(a)](https://www.govinfo.gov/link/plaw/102/public/240), (c), Dec. 18, 1991, [105 Stat. 1936](https://www.govinfo.gov/link/statute/105/1936), 1938; [Pub. L. 102–388, title IV, § 410](https://www.govinfo.gov/link/plaw/102/public/388), Oct. 6, 1992, [106 Stat. 1565](https://www.govinfo.gov/link/statute/106/1565); [Pub. L. 104–59, title III, § 313(a)](https://www.govinfo.gov/link/plaw/104/public/59) –(c), Nov. 28, 1995, [109 Stat. 585](https://www.govinfo.gov/link/statute/109/585), 586; [Pub. L. 105–178, title I](https://www.govinfo.gov/link/plaw/105/public/178), §§ 1106(c)(1)(C), 1207(a), 1211(f), formerly 1211(g), June 9, 1998, [112 Stat. 136](https://www.govinfo.gov/link/statute/112/136), 185, 189; [Pub. L. 105–206, title IX, § 9003(d)(5)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 840](https://www.govinfo.gov/link/statute/112/840); [Pub. L. 109–59, title I, § 1801(f)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1456](https://www.govinfo.gov/link/statute/119/1456); [Pub. L. 112–141, div. A, title I, § 1512(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 567](https://www.govinfo.gov/link/statute/126/567); [Pub. L. 114–94, div. A, title I](https://www.govinfo.gov/link/plaw/114/public/94), §§ 1112(c), 1411(a), Dec. 4, 2015, [129 Stat. 1346](https://www.govinfo.gov/link/statute/129/1346), 1412; [Pub. L. 117–58, div. A, title I](https://www.govinfo.gov/link/plaw/117/public/58), §§ 11117(a), 11404, 11523, Nov. 15, 2021, [135 Stat. 483](https://www.govinfo.gov/link/statute/135/483), 558, 605.)*

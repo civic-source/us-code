@@ -3,9 +3,10 @@ title: "Section 2086 - Prohibition on industry-sponsored travel"
 usc_title: 15
 usc_section: "2086"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2086"
-generated_at: "2026-03-30T02:54:08.167Z"
+generated_at: "2026-11-23T20:26:04.170Z"
+status: "active"
 ---
 
 # § 2086. Prohibition on industry-sponsored travel
@@ -14,3 +15,7 @@ Notwithstanding section 1353 of title 31 and section 2076(b)(6) of this title , 
 
   - **(1)** seeking official action from, doing business with, or conducting activities regulated by, the Commission; or
   - **(2)** whose interests may be substantially affected by the performance or nonperformance of the Commissioner’s or employee’s official duties.
+
+## Source Credit
+
+*([Pub. L. 92–573, § 39](https://www.govinfo.gov/link/plaw/92/public/573), as added [Pub. L. 110–314, title II, § 206(a)](https://www.govinfo.gov/link/plaw/110/public/314), Aug. 14, 2008, [122 Stat. 3044](https://www.govinfo.gov/link/statute/122/3044).)*

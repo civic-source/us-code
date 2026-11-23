@@ -3,9 +3,10 @@ title: "Section 107 - Acquisition of rights-of-way—Interstate System"
 usc_title: 23
 usc_section: "107"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 107"
-generated_at: "2026-03-30T02:55:12.545Z"
+generated_at: "2026-11-23T20:26:23.740Z"
+status: "active"
 ---
 
 # § 107. Acquisition of rights-of-way—Interstate System
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:12.545Z"
 - **(b)** The costs incurred by the Secretary in acquiring any such lands or interests in lands may include the cost of examination and abstract of title, certificate of title, advertising, and any fees incidental to such acquisition. All costs incurred by the Secretary in connection with the acquisition of any such lands or interests in lands shall be paid from the funds for construction, reconstruction, or improvement of the Interstate System apportioned to the State upon the request of which such lands or interests in lands are acquired, and any sums paid to the Secretary by such State as its share of the costs of acquisition of such lands or interests in lands shall be deposited in the Treasury to the credit of the appropriation for Federal-aid highways and shall be credited to the amount apportioned to such State as its apportionment of funds for construction, reconstruction, or improvement of the Interstate System, or shall be deducted from other moneys due the State for reimbursement from funds authorized to be appropriated under section 108(b) of the Federal-Aid Highway Act of 1956.
 - **(c)** The Secretary is further authorized and directed by proper deed, executed in the name of the United States, to convey any such lands or interests in lands acquired in any State under the provisions of this section, except the outside five feet of any such right-of-way in any State which does not provide control of access, to the State transportation department of such State or such political subdivision thereof as its laws may provide, upon such terms and conditions as to such lands or interests in lands as may be agreed upon by the Secretary and the State transportation department or political subdivisions to which the conveyance is to be made. Whenever the State makes provision for control of access satisfactory to the Secretary, the outside five feet then shall be conveyed to the State by the Secretary, as herein provided.
 - **(d)** Whenever rights-of-way, including control of access, on the Interstate System are required over lands or interests in lands owned by the United States, the Secretary may make such arrangements with the agency having jurisdiction over such lands as may be necessary to give the State or other person constructing the projects on such lands adequate rights-of-way and control of access thereto from adjoining lands, and any such agency is directed to cooperate with the Secretary in this connection.
+
+## Source Credit
+
+*([Pub. L. 85–767](https://www.govinfo.gov/link/plaw/85/public/767), Aug. 27, 1958, [72 Stat. 892](https://www.govinfo.gov/link/statute/72/892); [Pub. L. 105–178, title I, § 1212(a)(2)(A)(i)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 193](https://www.govinfo.gov/link/statute/112/193); [Pub. L. 109–284, § 3(1)](https://www.govinfo.gov/link/plaw/109/public/284), Sept. 27, 2006, [120 Stat. 1211](https://www.govinfo.gov/link/statute/120/1211).)*

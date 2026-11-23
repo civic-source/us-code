@@ -3,9 +3,10 @@ title: "Section 45f - Collection, verification, and disclosure of information by
 usc_title: 15
 usc_section: "45f"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 45f"
-generated_at: "2026-03-30T02:54:08.025Z"
+generated_at: "2026-11-23T20:26:03.395Z"
+status: "active"
 ---
 
 # § 45f. Collection, verification, and disclosure of information by online marketplaces to inform consumers
@@ -104,3 +105,21 @@ generated_at: "2026-03-30T02:54:08.025Z"
   - **(7)** The term “verify” means to confirm information provided to an online marketplace pursuant to this section, which may include the use of one or more methods that enable the online marketplace to reliably determine that any information and documents provided are valid, corresponding to the seller or an individual acting on the seller’s behalf, not misappropriated, and not falsified.
 - **(g)** No State or political subdivision of a State, or territory of the United States, may establish or continue in effect any law, regulation, rule, requirement, or standard that conflicts with the requirements of this section.
 - **(h)** This section shall take effect 180 days after December 29, 2022 .
+
+(aa) To the online marketplace.
+
+(bb) To a payment processor or other third party contracted by the online marketplace to maintain such information, provided that the online marketplace ensures that it can obtain such information within 3 business days from such payment processor or other third party.
+
+(aa) A copy of a valid government-issued identification for an individual acting on behalf of such seller that includes the individual’s name.
+
+(bb) A copy of a valid government-issued record or tax document that includes the business name and physical address of such seller.
+
+(aa) a current working phone number;
+
+(bb) a current working email address; or
+
+(cc) other means of direct electronic messaging (which may be provided to such seller by the online marketplace), provided that the requirements of this item shall not prevent an online marketplace from monitoring communications between high-volume third party sellers and users of the online marketplace for fraud, abuse, or spam.
+
+## Source Credit
+
+*([Pub. L. 117–328, div. BB, title III, § 301](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5555](https://www.govinfo.gov/link/statute/136/5555).)*

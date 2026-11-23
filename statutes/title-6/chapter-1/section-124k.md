@@ -3,9 +3,10 @@ title: "Section 124k - Interagency Threat Assessment and Coordination Group"
 usc_title: 6
 usc_section: "124k"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 124k"
-generated_at: "2026-03-30T02:53:09.445Z"
+generated_at: "2026-11-23T20:25:34.645Z"
+status: "active"
 ---
 
 # § 124k. Interagency Threat Assessment and Coordination Group
@@ -56,3 +57,7 @@ generated_at: "2026-03-30T02:53:09.445Z"
     - **(E)** all detailees under subsection (d)(5) 2 complete appropriate privacy and civil liberties training.
 - **(g)** Chapter 10 of title 5 shall not apply to the ITACG or any subsidiary groups thereof.
 - **(h)** There are authorized to be appropriated such sums as may be necessary for each of fiscal years 2008 through 2012 to carry out this section, including to obtain security clearances for the State, local, and tribal participants in the ITACG.
+
+## Source Credit
+
+*([Pub. L. 107–296, title II, § 210D](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 110–53, title V, § 521(a)](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 328](https://www.govinfo.gov/link/statute/121/328); amended [Pub. L. 111–258, § 5(b)(2)](https://www.govinfo.gov/link/plaw/111/public/258), (c), Oct. 7, 2010, [124 Stat. 2650](https://www.govinfo.gov/link/statute/124/2650), 2651; [Pub. L. 116–92, div. E, title LXVII, § 6726(b)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2236](https://www.govinfo.gov/link/statute/133/2236); [Pub. L. 117–286, § 4(a)(12)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4306](https://www.govinfo.gov/link/statute/136/4306); [Pub. L. 119–60, div. F, title LXIV, § 6402(c)(2)(I)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1616](https://www.govinfo.gov/link/statute/139/1616).)*

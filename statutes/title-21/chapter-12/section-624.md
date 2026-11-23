@@ -3,12 +3,17 @@ title: "Section 624 - Storage and handling regulations; violations; exemption of
 usc_title: 21
 usc_section: "624"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 624"
-generated_at: "2026-03-30T02:54:54.288Z"
+generated_at: "2026-11-23T20:26:27.804Z"
+status: "active"
 ---
 
 # § 624. Storage and handling regulations; violations; exemption of establishments subject to non-Federal jurisdiction
 
 The Secretary may by regulations prescribe conditions under which carcasses, parts of carcasses, meat, and meat food products of cattle, sheep, swine, goats, horses, mules, or other equines, capable of use as human food, shall be stored or otherwise handled by any person, firm, or corporation engaged in the business of buying, selling, freezing, storing, or transporting, in or for commerce, or importing, such articles, whenever the Secretary deems such action necessary to assure that such articles will not be adulterated or misbranded when delivered to the consumer. Violation of any such regulation is prohibited. However, such regulations shall not apply to the storage or handling of such articles at any retail store or other establishment in any State or organized Territory that would be subject to this section only because of purchases in commerce, if the storage and handling of such articles at such establishment is regulated under the laws of the State or Territory in which such establishment is located, in a manner which the Secretary, after consultation with the appropriate advisory committee provided for in section 661 of this title , determines is adequate to effectuate the purposes of this section.
 
+
+## Source Credit
+
+*(Mar. 4, 1907, ch. 2907, title I, § 24, as added [Pub. L. 90–201, § 13](https://www.govinfo.gov/link/plaw/90/public/201), Dec. 15, 1967, [81 Stat. 593](https://www.govinfo.gov/link/statute/81/593).)*

@@ -3,12 +3,32 @@ title: "Section 817 - Art. 17. Jurisdiction of courts-martial in general"
 usc_title: 10
 usc_section: "817"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 817"
-generated_at: "2026-03-30T02:53:38.078Z"
+generated_at: "2026-11-23T20:25:51.062Z"
+status: "active"
 ---
 
 # § 817. Art. 17. Jurisdiction of courts-martial in general
 
 - **(a)** Each armed force has court-martial jurisdiction over all persons subject to this chapter. The exercise of jurisdiction by one armed force over personnel of another armed force shall be in accordance with regulations prescribed by the President.
 - **(b)** In all cases, departmental review after that by the officer with authority to convene a general court-martial for the command which held the trial, where that review is required under this chapter, shall be carried out by the department that includes the armed force of which the accused is a member.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 817(a) 817(b) | 50:577(a). 50:577(b). | May 5, 1950, ch. 169, § 1 (Art. 17), 64 Stat. 114 . |
+
+
+Historical and Revision Notes
+
+817(a)
+
+817(b)
+
+May 5, 1950, ch. 169, § 1
+
+64 Stat. 114
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 43.)*

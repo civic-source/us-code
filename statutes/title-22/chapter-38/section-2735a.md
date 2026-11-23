@@ -3,9 +3,10 @@ title: "Section 2735a - Presidential Envoy for the Abraham Accords, Negev Forum,
 usc_title: 22
 usc_section: "2735a"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2735a"
-generated_at: "2026-03-30T02:55:05.382Z"
+generated_at: "2026-11-23T20:26:32.395Z"
+status: "active"
 ---
 
 # § 2735a. Presidential Envoy for the Abraham Accords, Negev Forum, and Related Integration and Normalization Fora and Agreements
@@ -72,3 +73,7 @@ generated_at: "2026-03-30T02:55:05.382Z"
     - **(B)** includes 3+1 format members Cyprus and Greece.
   - **(6)** The term “other regional actors” means the Palestinian Authority or a credible future political entity that serves as the interlocutor for the Palestinian people.
   - **(7)** The term “strengthen”, with respect to the Abraham Accords and the Negev Forum, means to engage in efforts that improve the diplomatic relations between Abraham Accords countries and broaden the breadth and scope of issues on which Abraham Accords countries cooperate.
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title I, § 64, as added [Pub. L. 118–31, div. F, title LXIV, § 6407](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1000](https://www.govinfo.gov/link/statute/137/1000).)*

@@ -3,9 +3,10 @@ title: "Section 1686 - Definitions"
 usc_title: 16
 usc_section: "1686"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1686"
-generated_at: "2026-03-30T02:54:22.981Z"
+generated_at: "2026-11-23T20:26:20.540Z"
+status: "active"
 ---
 
 # § 1686. Definitions
@@ -18,3 +19,7 @@ For purposes of this subchapter, the term:
   - **(4)** “Person” means an individual, partnership, joint-stock company, corporation, association, trust, estate, or any other legal entity, or any agency of Federal or State government or of a political subdivision of a State.
   - **(5)** “Secretary” means the Secretary of Agriculture.
   - **(6)** “Wood residues” includes, but is not limited to, logging slash, down timber material, woody plants, and standing live or dead trees which do not meet utilization standards because of size, species, merchantable volume, or economic selection criteria and which, in the case of live trees, are surplus to growing stock needs.
+
+## Source Credit
+
+*([Pub. L. 96–554, § 7](https://www.govinfo.gov/link/plaw/96/public/554), Dec. 19, 1980, [94 Stat. 3258](https://www.govinfo.gov/link/statute/94/3258).)*

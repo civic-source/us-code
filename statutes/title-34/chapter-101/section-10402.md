@@ -3,9 +3,10 @@ title: "Section 10402 - Tribal grant program authorized"
 usc_title: 34
 usc_section: "10402"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10402"
-generated_at: "2026-03-30T02:55:33.267Z"
+generated_at: "2026-11-23T20:26:50.465Z"
+status: "active"
 ---
 
 # § 10402. Tribal grant program authorized
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:33.267Z"
 - **(b)** Indian tribes, as defined by section 5130 of title 25 , or a consortia of such tribes, shall submit to the Attorney General an application in such form and containing such information as the Attorney General may require. Only tribes that carry out tribal juvenile justice functions shall be eligible to receive a grant under this section.
 - **(c)** The Attorney General shall award grants under this section on a competitive basis.
 - **(d)** The Attorney General shall issue guidelines establishing application, use, and award criteria and processes consistent with the purposes and requirements of this Act.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 1801A](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 107–273, div. C, title II, § 12102(a)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1861](https://www.govinfo.gov/link/statute/116/1861).)*

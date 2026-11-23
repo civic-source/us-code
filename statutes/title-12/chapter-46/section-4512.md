@@ -3,9 +3,10 @@ title: "Section 4512 - Director"
 usc_title: 12
 usc_section: "4512"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4512"
-generated_at: "2026-03-30T02:53:53.505Z"
+generated_at: "2026-11-23T20:25:59.385Z"
+status: "active"
 ---
 
 # § 4512. Director
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:53:53.505Z"
   - **(1)** have any direct or indirect financial interest in any regulated entity or entity-affiliated party;
   - **(2)** hold any office, position, or employment in any regulated entity or entity-affiliated party; or
   - **(3)** have served as an executive officer or director of any regulated entity or entity-affiliated party at any time during the 3-year period preceding the date of appointment or designation of such individual as Director or Deputy Director, as applicable.
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1312](https://www.govinfo.gov/link/plaw/102/public/550), as added [Pub. L. 110–289, div. A, title I, § 1101](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2662](https://www.govinfo.gov/link/statute/122/2662).)*

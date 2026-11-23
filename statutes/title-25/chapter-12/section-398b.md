@@ -3,12 +3,17 @@ title: "Section 398b - Proceeds from rentals, royalties, and bonuses; dispositio
 usc_title: 25
 usc_section: "398b"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 398b"
-generated_at: "2026-03-30T02:54:52.806Z"
+generated_at: "2026-11-23T20:26:25.393Z"
+status: "active"
 ---
 
 # § 398b. Proceeds from rentals, royalties, and bonuses; disposition
 
 The proceeds from rentals, royalties, or bonuses of oil and gas leases upon lands within Executive order Indian reservations or withdrawals shall be deposited in the Treasury of the United States to the credit of the tribe of Indians for whose benefit the reservation or withdrawal was created or who are using and occupying the land, and shall draw interest at the rate of 4 per centum per annum and be available for appropriation by Congress for expenses in connection with the supervision of the development and operation of the oil and gas industry and for the use and benefit of such Indians: Provided , That said Indians, or their tribal council, shall be consulted in regard to the expenditure of such money, but no per capita payment shall be made except by Act of Congress.
 
+
+## Source Credit
+
+*(Mar. 3, 1927, ch. 299, § 2, [44 Stat. 1347](https://www.govinfo.gov/link/statute/44/1347).)*

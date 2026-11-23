@@ -3,9 +3,10 @@ title: "Section 829a - Delivery of a controlled substance by a pharmacy to an ad
 usc_title: 21
 usc_section: "829a"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 829a"
-generated_at: "2026-03-30T02:54:54.294Z"
+generated_at: "2026-11-23T20:26:27.831Z"
+status: "active"
 ---
 
 # § 829a. Delivery of a controlled substance by a pharmacy to an administering practitioner
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:54.294Z"
     - **(B)** protect the public health.
   - **(2)** After the date on which the report described in section 3204(b) of the SUPPORT for Patients and Communities Act is submitted, the Attorney General, in coordination with the Secretary, may modify the number of days described in subsection (a)(5).
   - **(3)** Any modification under this subsection shall be for a period of not less than 7 days.
+
+## Source Credit
+
+*([Pub. L. 91–513, title II, § 309A](https://www.govinfo.gov/link/plaw/91/public/513), as added [Pub. L. 115–271, title III, § 3204(a)](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 3945](https://www.govinfo.gov/link/statute/132/3945); amended [Pub. L. 117–215, title I, § 103(b)(1)(E)](https://www.govinfo.gov/link/plaw/117/public/215), Dec. 2, 2022, [136 Stat. 2263](https://www.govinfo.gov/link/statute/136/2263); [Pub. L. 117–328, div. FF, title I](https://www.govinfo.gov/link/plaw/117/public/328), §§ 1262(b)(2), 1264, Dec. 29, 2022, [136 Stat. 5682](https://www.govinfo.gov/link/statute/136/5682), 5685; [Pub. L. 119–26, § 4(2)(B)(iii)](https://www.govinfo.gov/link/plaw/119/public/26), July 16, 2025, [139 Stat. 416](https://www.govinfo.gov/link/statute/139/416); [Pub. L. 119–44, title IV, § 401](https://www.govinfo.gov/link/plaw/119/public/44), Dec. 1, 2025, [139 Stat. 689](https://www.govinfo.gov/link/statute/139/689).)*

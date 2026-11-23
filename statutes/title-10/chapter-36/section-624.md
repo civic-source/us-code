@@ -3,9 +3,10 @@ title: "Section 624 - Promotions: how made"
 usc_title: 10
 usc_section: "624"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 624"
-generated_at: "2026-03-30T02:53:38.069Z"
+generated_at: "2026-11-23T20:25:51.020Z"
+status: "active"
 ---
 
 # § 624. Promotions: how made
@@ -41,3 +42,11 @@ generated_at: "2026-03-30T02:53:38.069Z"
   - **(5)** An appointment of an officer may not be delayed under this subsection for more than six months after the date on which the officer would otherwise have been appointed unless the Secretary concerned specifies a further period of delay. An officer’s appointment may not be delayed more than 90 days after final action has been taken in any criminal case against such officer in a Federal or State court, more than 90 days after final action has been taken in any court-martial case against such officer, or more than 18 months after the date on which such officer would otherwise have been appointed, whichever is later.
 - **(e)** Notwithstanding subsection (a)(2), in the case of an officer who is selected for promotion by a selection board convened under this chapter, and prior to the placement of the officer’s name on the applicable promotion list as approved for transfer to the reserve active-status list of the same or a different armed force, the Secretary concerned may place the officer’s name on a corresponding promotion list on the reserve active-status list without regard to the officer’s competitive category. An officer’s promotion under this subsection shall be made pursuant to section 14308 of this title .
 - **(f)** Notwithstanding subsection (a)(3), in the case of an officer who is placed on an all-fully-qualified-officers list, and is subsequently approved for transfer to the reserve active-status list, the Secretary concerned may place the officer’s name on an appropriate all-fully-qualified-officers list on the reserve active-status list. An officer’s promotion under this subsection shall be made pursuant to section 14308 of this title .
+
+Deadline
+
+Savings clause for existing regulations
+
+## Source Credit
+
+*(Added [Pub. L. 96–513, title I, § 105](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2857](https://www.govinfo.gov/link/statute/94/2857); amended [Pub. L. 97–22, § 4(d)](https://www.govinfo.gov/link/plaw/97/public/22), July 10, 1981, [95 Stat. 126](https://www.govinfo.gov/link/statute/95/126); [Pub. L. 97–295, § 1(8)](https://www.govinfo.gov/link/plaw/97/public/295), Oct. 12, 1982, [96 Stat. 1289](https://www.govinfo.gov/link/statute/96/1289); [Pub. L. 98–525, title V, § 526](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2525](https://www.govinfo.gov/link/statute/98/2525); [Pub. L. 107–107, div. A, title V, § 505(a)(1)](https://www.govinfo.gov/link/plaw/107/public/107), (c)(2)(A), (d)(1), Dec. 28, 2001, [115 Stat. 1085](https://www.govinfo.gov/link/statute/115/1085), 1087, 1088; [Pub. L. 107–314, div. A, title X, § 1062(a)(2)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2649](https://www.govinfo.gov/link/statute/116/2649); [Pub. L. 109–364, div. A, title V, § 511(a)](https://www.govinfo.gov/link/plaw/109/public/364), (d)(1), Oct. 17, 2006, [120 Stat. 2181](https://www.govinfo.gov/link/statute/120/2181), 2183; [Pub. L. 110–181, div. A, title X, § 1063(c)(3)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 322](https://www.govinfo.gov/link/statute/122/322); [Pub. L. 114–92, div. A, title V, § 502(a)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 806](https://www.govinfo.gov/link/statute/129/806); [Pub. L. 115–232, div. A, title V, § 504(c)](https://www.govinfo.gov/link/plaw/115/public/232), title VIII, § 809(a), Aug. 13, 2018, [132 Stat. 1742](https://www.govinfo.gov/link/statute/132/1742), 1840; [Pub. L. 116–283, div. A, title V, § 505(a)(3)](https://www.govinfo.gov/link/plaw/116/public/283), title IX, § 924(b)(3)(G), Jan. 1, 2021, [134 Stat. 3568](https://www.govinfo.gov/link/statute/134/3568), 3821; [Pub. L. 118–31, div. A, title V, § 503(b)(1)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 241](https://www.govinfo.gov/link/statute/137/241); [Pub. L. 118–159, div. A, title XVII, § 1701(a)(14)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2203](https://www.govinfo.gov/link/statute/138/2203).)*

@@ -3,9 +3,10 @@ title: "Section 3152 - Grants and fellowships for food and agricultural sciences
 usc_title: 7
 usc_section: "3152"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 3152"
-generated_at: "2026-03-30T02:53:42.395Z"
+generated_at: "2026-11-23T20:25:41.565Z"
+status: "active"
 ---
 
 # § 3152. Grants and fellowships for food and agricultural sciences education
@@ -56,3 +57,7 @@ generated_at: "2026-03-30T02:53:42.395Z"
 - **(m)** There are authorized to be appropriated for carrying out this section—
   - **(1)** $60,000,000 for each of fiscal years 1990 through 2013; and
   - **(2)** $40,000,000 for each of fiscal years 2014 through 2023.
+
+## Source Credit
+
+*([Pub. L. 95–113, title XIV, § 1417](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 996](https://www.govinfo.gov/link/statute/91/996); [Pub. L. 97–98, title XIV, § 1418](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1305](https://www.govinfo.gov/link/statute/95/1305); [Pub. L. 99–198, title XIV, § 1412](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1548](https://www.govinfo.gov/link/statute/99/1548); [Pub. L. 101–624, title XVI, § 1608](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3716](https://www.govinfo.gov/link/statute/104/3716); [Pub. L. 102–237, title IV, § 402(6)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1863](https://www.govinfo.gov/link/statute/105/1863); [Pub. L. 104–127, title VIII, § 805](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1160](https://www.govinfo.gov/link/statute/110/1160); [Pub. L. 105–185, title II, § 223](https://www.govinfo.gov/link/plaw/105/public/185), title III, § 301(a)(1), June 23, 1998, [112 Stat. 539](https://www.govinfo.gov/link/statute/112/539), 562; [Pub. L. 105–244, title I, § 102(a)(1)(B)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1617](https://www.govinfo.gov/link/statute/112/1617); [Pub. L. 107–110, title X, § 1076(c)](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2091](https://www.govinfo.gov/link/statute/115/2091); [Pub. L. 107–171, title VII, § 7102](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 431](https://www.govinfo.gov/link/statute/116/431); [Pub. L. 110–234, title VII](https://www.govinfo.gov/link/plaw/110/public/234), §§ 7106–7109(c), May 22, 2008, [122 Stat. 1217](https://www.govinfo.gov/link/statute/122/1217), 1218; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, §§ 7106–7109(c), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1978, 1979; [Pub. L. 113–79, title VII, § 7105](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 869](https://www.govinfo.gov/link/statute/128/869); [Pub. L. 114–95, title IX, § 9215](https://www.govinfo.gov/link/plaw/114/public/95) (ll), Dec. 10, 2015, [129 Stat. 2175](https://www.govinfo.gov/link/statute/129/2175); [Pub. L. 115–334, title VII, § 7107](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4783](https://www.govinfo.gov/link/statute/132/4783); [Pub. L. 117–286, § 4(a)(35)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4309](https://www.govinfo.gov/link/statute/136/4309).)*

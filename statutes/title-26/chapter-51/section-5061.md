@@ -3,9 +3,10 @@ title: "Section 5061 - Method of collecting tax"
 usc_title: 26
 usc_section: "5061"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 5061"
-generated_at: "2026-03-30T02:55:27.819Z"
+generated_at: "2026-11-23T20:26:46.407Z"
+status: "active"
 ---
 
 # § 5061. Method of collecting tax
@@ -46,3 +47,39 @@ generated_at: "2026-03-30T02:55:27.819Z"
   - **(3)**
     - **(A)** In the case of a controlled group of corporations, all corporations which are component members of such group shall be treated as 1 taxpayer. For purposes of the preceding sentence, the term “controlled group of corporations” has the meaning given to such term by subsection (a) of section 1563, except that “more than 50 percent” shall be substituted for “at least 80 percent” each place it appears in such subsection.
     - **(B)** Under regulations prescribed by the Secretary, principles similar to the principles of subparagraph (A) shall apply to a group of persons under common control where 1 or more of such persons is not a corporation.
+
+In general
+
+Imported articles, etc
+
+Special rule for distilled spirits and tobacco for semimonthly period ending december 15, 1986
+
+Treatment of smokeless tobacco in inventory on June 30, 1986
+
+Liability for Payment of Tax
+
+Treatment of Controlled Stock and Bulk Wine.—
+
+Election with respect to controlled stock
+
+Election with respect to wine
+
+Effect of election
+
+Making of elections
+
+Taxpaid Stock.—
+
+Taxpaid stock may remain on bonded premises during 1980
+
+Separation of taxpaid stock
+
+Return of Distilled Spirits Products Containing Taxpaid Wine
+
+Return of Distilled Spirits Products Containing Other Alcoholic Ingredients
+
+Secretary Defined
+
+## Source Credit
+
+*(Added [Pub. L. 85–859, title II, § 201](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1335](https://www.govinfo.gov/link/statute/72/1335); amended [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1905(a)(6), (b)(2)(E)(iii), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1819](https://www.govinfo.gov/link/statute/90/1819), 1822, 1834; [Pub. L. 96–39, title VIII](https://www.govinfo.gov/link/plaw/96/public/39), §§ 804(b), 807(a)(9), July 26, 1979, [93 Stat. 274](https://www.govinfo.gov/link/statute/93/274), 281; [Pub. L. 98–369, div. A, title I, § 27(c)(1)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 509](https://www.govinfo.gov/link/statute/98/509); [Pub. L. 99–509, title VIII, § 8011(b)(1)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1952](https://www.govinfo.gov/link/statute/100/1952); [Pub. L. 99–514, title XVIII, § 1801(c)(1)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2786](https://www.govinfo.gov/link/statute/100/2786); [Pub. L. 100–647, title II, § 2003(b)(1)(A)](https://www.govinfo.gov/link/plaw/100/public/647), (B), Nov. 10, 1988, [102 Stat. 3598](https://www.govinfo.gov/link/statute/102/3598); [Pub. L. 101–508, title XI](https://www.govinfo.gov/link/plaw/101/public/508), §§ 11201(b)(3), 11704(a)(21), Nov. 5, 1990, [104 Stat. 1388–416](https://www.govinfo.gov/link/statute/104/1388), 1388–519; [Pub. L. 103–465, title I, § 136(c)(5)](https://www.govinfo.gov/link/plaw/103/public/465), title VII, § 712(b), Dec. 8, 1994, [108 Stat. 4842](https://www.govinfo.gov/link/statute/108/4842), 5000; [Pub. L. 104–188, title I, § 1702(b)(6)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1869](https://www.govinfo.gov/link/statute/110/1869); [Pub. L. 109–59, title XI, § 11127(a)](https://www.govinfo.gov/link/plaw/109/public/59), (b), Aug. 10, 2005, [119 Stat. 1958](https://www.govinfo.gov/link/statute/119/1958), 1959; [Pub. L. 114–113, div. Q, title III, § 332(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3104](https://www.govinfo.gov/link/statute/129/3104).)*

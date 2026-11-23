@@ -3,9 +3,10 @@ title: "Section 5501 - Findings and policy"
 usc_title: 20
 usc_section: "5501"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 5501"
-generated_at: "2026-03-30T02:54:48.187Z"
+generated_at: "2026-11-23T20:26:14.788Z"
+status: "active"
 ---
 
 # § 5501. Findings and policy
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:48.187Z"
   - **(9)** The Federal Government, acting through the coordinated efforts of its agencies and with the leadership of the Environmental Protection Agency, should work with local education institutions, State education agencies, not-for-profit educational and environmental organizations, noncommercial educational broadcasting entities, and private sector interests to develop programs to provide increased emphasis and financial resources for the purpose of attracting students into environmental engineering and assisting them in pursuing the programs to complete the advanced technical education required to provide effective problem solving capabilities for complex environmental issues.
   - **(10)** Federal natural resource agencies such as the United States Forest Service have a wide range of environmental expertise and a long history of cooperation with educational institutions and technology transfer that can assist in furthering the purposes of the 1 1 So in original. Probably should be “this”. chapter.
 - **(b)** It is the policy of the United States to establish and support a program of education on the environment, for students and personnel working with students, through activities in schools, institutions of higher education, and related educational activities, and to encourage postsecondary students to pursue careers related to the environment.
+
+## Source Credit
+
+*([Pub. L. 101–619, § 2](https://www.govinfo.gov/link/plaw/101/public/619), Nov. 16, 1990, [104 Stat. 3325](https://www.govinfo.gov/link/statute/104/3325).)*

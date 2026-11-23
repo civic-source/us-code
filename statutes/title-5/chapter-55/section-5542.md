@@ -3,9 +3,10 @@ title: "Section 5542 - Overtime rates; computation"
 usc_title: 5
 usc_section: "5542"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 5542"
-generated_at: "2026-03-30T02:52:56.019Z"
+generated_at: "2026-11-23T20:25:31.935Z"
+status: "active"
 ---
 
 # § 5542. Overtime rates; computation
@@ -80,3 +81,61 @@ generated_at: "2026-03-30T02:52:56.019Z"
         - **(III)** in the case of an employee who holds a supervisory or administrative position and is subject to chapter 84, but who does not qualify to be considered a firefighter within the meaning of section 8401(14), would so qualify if such employee had transferred directly to such position after performing duties described in section 8401(14)(A) and (B) for at least 3 years; and
         - **(IV)** in the case of an employee who is not subject to subchapter III of chapter 83 or chapter 84, holds a position that the Office of Personnel Management determines would satisfy subclause (I), (II), or (III) if the employee were subject to subchapter III of chapter 83 or chapter 84; and
     - **(B)** the term “qualified trade-of-time arrangement” means an arrangement under which 2 firefighters who are subject to the supervision of the same fire chief agree, solely at their option and with the approval of the employing agency, to substitute for one another during scheduled work hours in the performance of work in the same capacity.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| (a) | 5 U.S.C. 911 . | June 30, 1945, ch. 212, § 201 , 59 Stat. 296 . Sept. 1, 1954, ch. 1208, § 203 , 68 Stat. 1109 . |
+| (b) | 5 U.S.C. 912a . 5 U.S.C. 912b . | Sept. 1, 1954, ch. 1208, § 205(b) , 68 Stat. 1110 . |
+
+| 1967 Act | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5542(a) | 5 App.: 911. | July 18, 1966 , Pub. L. 89–504, § 404(a) , 80 Stat. 297 . |
+
+
+Historical and Revision Notes
+
+Act
+
+(a)
+
+5 U.S.C. 911
+
+June 30, 1945, ch. 212, § 201
+
+59 Stat. 296
+
+Sept. 1, 1954, ch. 1208, § 203
+
+68 Stat. 1109
+
+(b)
+
+5 U.S.C. 912a
+
+5 U.S.C. 912b
+
+Sept. 1, 1954, ch. 1208, § 205(b)
+
+68 Stat. 1110
+
+Act
+
+5542(a)
+
+July 18, 1966
+
+Pub. L. 89–504, § 404(a)
+
+80 Stat. 297
+
+“Subsections (b), (c), (d), and (g) [enacting section 5550 of this title , amending this section and sections 5547 and 8331 of this title and section 213 of Title 29 , Labor, and enacting provisions set out as a note under section 5550 of this title ], and the amendments made by such subsections, shall take effect on the first day of the first pay period beginning on or after January 1, 2016 , except that—
+
+“The amendments made by this section [amending this section and section 5545a of this title ] shall take effect on the first day of the first applicable pay period—
+
+“Nothing in this section [enacting section 5550 of this title , amending this section and sections 5547 and 8331 of this title and section 213 of Title 29 , Labor, and enacting provisions set out as notes under this section and section 5550 of this title ] or the amendments made by this section shall be construed to—
+
+Purpose
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 485](https://www.govinfo.gov/link/statute/80/485); [Pub. L. 90–83, § 1(24)](https://www.govinfo.gov/link/plaw/90/public/83), Sept. 11, 1967, [81 Stat. 200](https://www.govinfo.gov/link/statute/81/200); [Pub. L. 90–206, title II, § 222(a)](https://www.govinfo.gov/link/plaw/90/public/206), Dec. 16, 1967, [81 Stat. 641](https://www.govinfo.gov/link/statute/81/641); [Pub. L. 90–556, § 1](https://www.govinfo.gov/link/plaw/90/public/556), Oct. 10, 1968, [82 Stat. 969](https://www.govinfo.gov/link/statute/82/969); [Pub. L. 92–194](https://www.govinfo.gov/link/plaw/92/public/194), Dec. 15, 1971, [85 Stat. 648](https://www.govinfo.gov/link/statute/85/648); [Pub. L. 98–473, title I, § 101(c) [title III, § 322]](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 1837](https://www.govinfo.gov/link/statute/98/1837), 1874; [Pub. L. 101–509, title V, § 529 [title I, § 101(b)(3)(E), title II, § 210(1), title IV, § 410(a)]](https://www.govinfo.gov/link/plaw/101/public/509), Nov. 5, 1990, [104 Stat. 1427](https://www.govinfo.gov/link/statute/104/1427), 1439, 1460, 1468; [Pub. L. 102–378, § 2(41)](https://www.govinfo.gov/link/plaw/102/public/378), Oct. 2, 1992, [106 Stat. 1352](https://www.govinfo.gov/link/statute/106/1352); [Pub. L. 103–329, title VI, § 633(c)](https://www.govinfo.gov/link/plaw/103/public/329), Sept. 30, 1994, [108 Stat. 2427](https://www.govinfo.gov/link/statute/108/2427); [Pub. L. 104–52, title V, § 531](https://www.govinfo.gov/link/plaw/104/public/52), Nov. 19, 1995, [109 Stat. 496](https://www.govinfo.gov/link/statute/109/496); [Pub. L. 105–277, div. A, § 101(b) [title IV, § 407(c)(2)]](https://www.govinfo.gov/link/plaw/105/public/277), (h) [title VI, § 628(a)(1)], div. G, subdiv. B, title XXIII, § 2316(c)(2), Oct. 21, 1998, [112 Stat. 2681–50](https://www.govinfo.gov/link/statute/112/2681), 2681–102, 2681–480, 2681–519, 2681–829; [Pub. L. 106–558, § 2(a)](https://www.govinfo.gov/link/plaw/106/public/558), Dec. 21, 2000, [114 Stat. 2776](https://www.govinfo.gov/link/statute/114/2776); [Pub. L. 108–136, div. A, title XI, § 1121](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1636](https://www.govinfo.gov/link/statute/117/1636); [Pub. L. 111–383, div. A, title XI, § 1105(a)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4383](https://www.govinfo.gov/link/statute/124/4383); [Pub. L. 113–277, § 2(c)(1)](https://www.govinfo.gov/link/plaw/113/public/277), Dec. 18, 2014, [128 Stat. 3002](https://www.govinfo.gov/link/statute/128/3002); [Pub. L. 113–291, div. A, title XI, § 1106(a)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3526](https://www.govinfo.gov/link/statute/128/3526); [Pub. L. 114–92, div. A, title XI, § 1103](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 1022](https://www.govinfo.gov/link/statute/129/1022); [Pub. L. 114–328, div. A, title XI, § 1108](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2449](https://www.govinfo.gov/link/statute/130/2449); [Pub. L. 115–91, div. A, title XI, § 1109](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1631](https://www.govinfo.gov/link/statute/131/1631); [Pub. L. 115–232, div. A, title XI, § 1103](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2001](https://www.govinfo.gov/link/statute/132/2001); [Pub. L. 116–283, div. A, title XI, § 1113](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3894](https://www.govinfo.gov/link/statute/134/3894); [Pub. L. 117–81, div. A, title XI](https://www.govinfo.gov/link/plaw/117/public/81), §§ 1108, 1110, Dec. 27, 2021, [135 Stat. 1951](https://www.govinfo.gov/link/statute/135/1951), 1952.)*

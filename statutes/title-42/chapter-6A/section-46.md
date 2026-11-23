@@ -3,9 +3,10 @@ title: "Section 46 - Disclosure to enrollees of individual market coverage"
 usc_title: 42
 usc_section: "46"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 46"
-generated_at: "2026-03-30T02:56:10.835Z"
+generated_at: "2026-11-23T20:27:20.662Z"
+status: "active"
 ---
 
 # § 300gg–46. Disclosure to enrollees of individual market coverage
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:10.835Z"
   - **(2)** included on any documentation confirming the individual’s enrollment.
 - **(c)** A health insurance issuer described in subsection (a) shall annually report to the Secretary, prior to the beginning of open enrollment, any direct or indirect compensation provided to an agent or broker associated with enrolling individuals in such coverage.
 - **(d)** Not later than 1 year after December 27, 2020 , the Secretary shall finalize, through notice-and-comment rulemaking, the timing, form, and manner in which issuers described in subsection (a) are required to make the disclosures described in subsection (b) and the reports described in subsection (c). Such rulemaking may also include adjustments to notice requirements to reflect the different processes for plan renewals, in order to provide enrollees with full, timely information.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXVII, § 2746, as added [Pub. L. 116–260, div. BB, title II, § 202(c)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2899](https://www.govinfo.gov/link/statute/134/2899).)*

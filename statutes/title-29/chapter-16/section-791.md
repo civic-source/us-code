@@ -3,9 +3,10 @@ title: "Section 791 - Employment of individuals with disabilities"
 usc_title: 29
 usc_section: "791"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 791"
-generated_at: "2026-03-30T02:55:18.697Z"
+generated_at: "2026-11-23T20:26:37.869Z"
+status: "active"
 ---
 
 # § 791. Employment of individuals with disabilities
@@ -16,3 +17,49 @@ generated_at: "2026-03-30T02:55:18.697Z"
 - **(d)** The Commission, after consultation with the Committee, shall, on June 30, 1974 , and at the end of each subsequent fiscal year, make a complete report to the appropriate committees of the Congress with respect to the practices of and achievements in hiring, placement, and advancement of individuals with disabilities by each department, agency, and instrumentality and the Smithsonian Institution and the effectiveness of the affirmative action programs required by subsection (b) of this section, together with recommendations as to legislation which have been submitted to the Commission under subsection (a) of this section, or other appropriate action to insure the adequacy of such practices. Such report shall also include an evaluation by the Committee of the effectiveness of the activities of the Commission under subsections (b) and (c) of this section.
 - **(e)** An individual who, as a part of an individualized plan for employment under a State plan approved under this chapter, participates in a program of unpaid work experience in a Federal agency, shall not, by reason thereof, be considered to be a Federal employee or to be subject to the provisions of law relating to Federal employment, including those relating to hours of work, rates of compensation, leave, unemployment compensation, and Federal employee benefits.
 - **(f)** The standards used to determine whether this section has been violated in a complaint alleging nonaffirmative action employment discrimination under this section shall be the standards applied under title I of the Americans with Disabilities Act of 1990 ( 42 U.S.C. 12111 et seq.) and the provisions of sections 501 through 504, and 510, 1 1 See References in Text note below. of the Americans with Disabilities Act of 1990 ( 42 U.S.C. 12201–122 04 and 12210), as such sections relate to employment.
+
+Effective Date
+
+Compliance
+
+Section
+
+Sec
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+William J. Clinton.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+William J. Clinton.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 93–112, title V, § 501](https://www.govinfo.gov/link/plaw/93/public/112), Sept. 26, 1973, [87 Stat. 390](https://www.govinfo.gov/link/statute/87/390); [Pub. L. 98–221, title I, § 104(b)(3)](https://www.govinfo.gov/link/plaw/98/public/221), Feb. 22, 1984, [98 Stat. 18](https://www.govinfo.gov/link/statute/98/18); [Pub. L. 99–506, title I, § 103(d)(2)(C)](https://www.govinfo.gov/link/plaw/99/public/506), title X, §§ 1001(f)(1), 1002(e)(1), (2)(A), Oct. 21, 1986, [100 Stat. 1810](https://www.govinfo.gov/link/statute/100/1810), 1843, 1844; [Pub. L. 100–630, title II, § 206(a)](https://www.govinfo.gov/link/plaw/100/public/630), Nov. 7, 1988, [102 Stat. 3310](https://www.govinfo.gov/link/statute/102/3310); [Pub. L. 102–54, § 13(k)(1)(B)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 276](https://www.govinfo.gov/link/statute/105/276); [Pub. L. 102–569, title I, § 102(p)(29)](https://www.govinfo.gov/link/plaw/102/public/569), title V, § 503, Oct. 29, 1992, [106 Stat. 4360](https://www.govinfo.gov/link/statute/106/4360), 4424; [Pub. L. 103–73, title I, § 112(a)](https://www.govinfo.gov/link/plaw/103/public/73), Aug. 11, 1993, [107 Stat. 727](https://www.govinfo.gov/link/statute/107/727); [Pub. L. 105–220, title III, § 341(c)](https://www.govinfo.gov/link/plaw/105/public/220), title IV, § 408(a)(1), Aug. 7, 1998, [112 Stat. 1092](https://www.govinfo.gov/link/statute/112/1092), 1202; [Pub. L. 109–435, title VI, § 604(d)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3242](https://www.govinfo.gov/link/statute/120/3242); [Pub. L. 111–256, § 2(d)(3)](https://www.govinfo.gov/link/plaw/111/public/256), Oct. 5, 2010, [124 Stat. 2643](https://www.govinfo.gov/link/statute/124/2643); [Pub. L. 113–128, title IV, § 456(a)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1675](https://www.govinfo.gov/link/statute/128/1675).)*

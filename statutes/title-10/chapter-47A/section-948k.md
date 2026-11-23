@@ -3,9 +3,10 @@ title: "Section 948k - Detail of trial counsel and defense counsel"
 usc_title: 10
 usc_section: "948k"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 948k"
-generated_at: "2026-03-30T02:53:38.088Z"
+generated_at: "2026-11-23T20:25:51.146Z"
+status: "active"
 ---
 
 # § 948k. Detail of trial counsel and defense counsel
@@ -31,3 +32,27 @@ generated_at: "2026-03-30T02:53:38.088Z"
   - **(1)** The Chief Prosecutor in a military commission under this chapter shall meet the requirements set forth in subsection (b)(1).
   - **(2)** The Chief Defense Counsel in a military commission under this chapter shall meet the requirements set forth in subsection (c)(1).
 - **(e)** No person who has acted as an investigator, military judge, or member of a military commission under this chapter in any case may act later as trial counsel or military defense counsel in the same case. No person who has acted for the prosecution before a military commission under this chapter may act later in the same case for the defense, nor may any person who has acted for the defense before a military commission under this chapter act later in the same case for the prosecution.
+
+Detail of Counsel Generally
+
+Trial Counsel
+
+Defense Counsel
+
+Chief Prosecutor; Chief Defense Counsel
+
+Ineligibility of Certain Individuals
+
+In General
+
+Waiver.—
+
+In general
+
+Reports
+
+Guidance
+
+## Source Credit
+
+*(Added [Pub. L. 111–84, div. A, title XVIII, § 1802](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2577](https://www.govinfo.gov/link/statute/123/2577).)*

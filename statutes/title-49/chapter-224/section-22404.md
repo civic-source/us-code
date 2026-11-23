@@ -3,9 +3,10 @@ title: "Section 22404 - Employee protection"
 usc_title: 49
 usc_section: "22404"
 chapter: 224
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 22404"
-generated_at: "2026-03-30T02:56:19.341Z"
+generated_at: "2026-11-23T20:27:34.833Z"
+status: "active"
 ---
 
 # § 22404. Employee protection
@@ -17,3 +18,13 @@ generated_at: "2026-03-30T02:56:19.341Z"
   - **(3)** to provide that an employee who is unable to secure employment by the exercise of his or her seniority rights, as a result of actions taken with financial assistance obtained under this chapter, shall be offered reassignment and, where necessary, retraining to fill a position comparable to the position held at the time of such adverse effect and for which he is, or by training and retraining can become, physically and mentally qualified, so long as such offer is not in contravention of collective bargaining agreements relating thereto; and
   - **(4)** to provide that the protection afforded pursuant to this section shall not be applicable to employees benefited solely as a result of the work which is financed by funds provided pursuant to this chapter.
 - **(c)** The arrangements which are required to be negotiated by the parties or prescribed by the Secretary of Labor, pursuant to subsections (a) and (b) of this section, shall include provisions regulating subcontracting by the railroads of work which is financed by funds provided pursuant to this chapter.
+
+General
+
+Terms
+
+Subcontracting
+
+## Source Credit
+
+*(Added and amended [Pub. L. 117–58, div. B, title I, § 21301(a)(2)](https://www.govinfo.gov/link/plaw/117/public/58), (6), (f), Nov. 15, 2021, [135 Stat. 683](https://www.govinfo.gov/link/statute/135/683), 690.)*

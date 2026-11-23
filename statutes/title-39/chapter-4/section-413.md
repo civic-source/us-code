@@ -3,9 +3,10 @@ title: "Section 413 - Postal services at diplomatic posts"
 usc_title: 39
 usc_section: "413"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "39 U.S.C. § 413"
-generated_at: "2026-03-30T02:55:43.689Z"
+generated_at: "2026-11-23T20:26:57.719Z"
+status: "active"
 ---
 
 # § 413. Postal services at diplomatic posts
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:43.689Z"
   - **(1)** provisions under which the Department of State shall make any reimbursements required under subsection (c);
   - **(2)** provisions authorizing the Postal Service to terminate the agreement, and the services provided thereunder, in the event that the Department of State does not comply with the provisions under paragraph (1); and
   - **(3)** any other provisions which may be necessary, including provisions relating to the closing of a post office under this section if necessary because a post office under section 406 is established in the same location.
+
+## Source Credit
+
+*(Added [Pub. L. 101–524, § 5(a)](https://www.govinfo.gov/link/plaw/101/public/524), Nov. 6, 1990, [104 Stat. 2303](https://www.govinfo.gov/link/statute/104/2303).)*

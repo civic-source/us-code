@@ -3,9 +3,10 @@ title: "Section 1352 - Demands by foreign officials for bribes"
 usc_title: 18
 usc_section: "1352"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 1352"
-generated_at: "2026-03-30T02:54:16.483Z"
+generated_at: "2026-11-23T20:26:08.487Z"
+status: "active"
 ---
 
 # § 1352. Demands by foreign officials for bribes
@@ -42,3 +43,25 @@ generated_at: "2026-03-30T02:54:16.483Z"
     - **(D)** evaluating the effectiveness of the Department of Justice in enforcing this section; and
     - **(E)** detailing what resources or legislative action the Department of Justice needs to ensure adequate enforcement of this section.
   - **(5)** This subsection shall not be construed as encompassing conduct that would violate section 30A of the Securities Exchange Act of 1934 ( 15 U.S.C. 78dd–1 ) or section 104 or 104A of the Foreign Corrupt Practices Act of 1977 ( 15 U.S.C. 78dd–2 ; 15 U.S.C. 78dd–3 ) whether pursuant to a theory of direct liability, conspiracy, complicity, or otherwise.
+
+Definitions
+
+Foreign official
+
+Public international organization
+
+Prohibition of Demand for a Bribe.—
+
+Offense
+
+Penalties
+
+Jurisdiction
+
+Report
+
+Rule of construction
+
+## Source Credit
+
+*(Added [Pub. L. 118–78, § 2(b)(1)](https://www.govinfo.gov/link/plaw/118/public/78), July 30, 2024, [138 Stat. 1512](https://www.govinfo.gov/link/statute/138/1512).)*

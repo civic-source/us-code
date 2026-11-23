@@ -3,9 +3,10 @@ title: "Section 305 - Growth projections for new embassies and consulates"
 usc_title: 22
 usc_section: "305"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 305"
-generated_at: "2026-03-30T02:55:05.327Z"
+generated_at: "2026-11-23T20:26:32.057Z"
+status: "active"
 ---
 
 # § 305. Growth projections for new embassies and consulates
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.327Z"
 - **(b)** The head of each Federal agency represented at a United States embassy or consulate shall provide to the Secretary, upon request, growth projections for the personnel of each such agency over the estimated life of each embassy or consulate, as the case may be.
 - **(c)** The Department shall base its growth assumption for all NECs and NCCs on the estimates required under subsections (a) and (b).
 - **(d)** Any congressional notification of site selection for a NEC or NCC submitted after December 27, 2021 shall include the growth assumption used pursuant to subsection (c).
+
+## Source Credit
+
+*([Pub. L. 117–81, div. E, title LII, § 5205](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2355](https://www.govinfo.gov/link/statute/135/2355).)*

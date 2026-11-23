@@ -3,9 +3,10 @@ title: "Section 3351 - Improving quality of information in background investigat
 usc_title: 50
 usc_section: "3351"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3351"
-generated_at: "2026-03-30T02:56:26.246Z"
+generated_at: "2026-11-23T20:27:30.974Z"
+status: "active"
 ---
 
 # § 3351. Improving quality of information in background investigation request packages
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:26.246Z"
 - **(c)**
   - **(1)** Not later than one year after December 20, 2019 , executive agents under Executive Order 13467 ( 50 U.S.C. 3161 note) shall identify agencies in need of improvement with respect to the quality of the information in the background investigation submissions of the agencies as reported in subsection (b).
   - **(2)** Not later than 90 days after an agency is identified under paragraph (1), the head of the agency shall provide the executive agents referred to in such paragraph with a plan to improve the performance of the agency with respect to the quality of the information in the agency’s background investigation submissions.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. A, title XVII, § 1757](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1860](https://www.govinfo.gov/link/statute/133/1860).)*

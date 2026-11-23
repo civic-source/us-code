@@ -3,9 +3,10 @@ title: "Section 8423 - Government contributions"
 usc_title: 5
 usc_section: "8423"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8423"
-generated_at: "2026-03-30T02:52:56.056Z"
+generated_at: "2026-11-23T20:25:32.198Z"
+status: "active"
 ---
 
 # § 8423. Government contributions
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:52:56.056Z"
     - **(A)** require the Board of Actuaries of the Civil Service Retirement System to make actuarial determinations and valuations, make recommendations, and maintain records in the same manner as provided in section 8347(f); and
     - **(B)** use the latest actuarial determinations and valuations made by such Board of Actuaries.
 - **(c)** Under regulations prescribed by the Office, the head of an agency may request reconsideration of any amount determined to be payable with respect to such agency under subsection (a) or (b). Any such request shall be referred to the Board of Actuaries of the Civil Service Retirement System. The Board of Actuaries shall review the computations of the Office and may make any adjustment with respect to any such amount which the Board determines appropriate. A determination by the Board of Actuaries under this subsection shall be final.
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 537](https://www.govinfo.gov/link/statute/100/537); amended [Pub. L. 102–378, § 2(66)](https://www.govinfo.gov/link/plaw/102/public/378), Oct. 2, 1992, [106 Stat. 1354](https://www.govinfo.gov/link/statute/106/1354); [Pub. L. 102–496, title VIII, § 803(c)](https://www.govinfo.gov/link/plaw/102/public/496), Oct. 24, 1992, [106 Stat. 3253](https://www.govinfo.gov/link/statute/106/3253); [Pub. L. 104–186, title II, § 215(15)](https://www.govinfo.gov/link/plaw/104/public/186), Aug. 20, 1996, [110 Stat. 1746](https://www.govinfo.gov/link/statute/110/1746); [Pub. L. 105–261, div. C, title XXXI, § 3154(j)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2256](https://www.govinfo.gov/link/statute/112/2256); [Pub. L. 106–553, § 1(a)(2) [title III, § 308(c)(4)]](https://www.govinfo.gov/link/plaw/106/public/553), Dec. 21, 2000, [114 Stat. 2762](https://www.govinfo.gov/link/statute/114/2762), 2762A–87; [Pub. L. 109–435, title VI, § 604(b)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3241](https://www.govinfo.gov/link/statute/120/3241); [Pub. L. 110–161, div. E, title V, § 535(b)(5)](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2076](https://www.govinfo.gov/link/statute/121/2076); [Pub. L. 113–67, div. A, title IV, § 401(c)](https://www.govinfo.gov/link/plaw/113/public/67), Dec. 26, 2013, [127 Stat. 1184](https://www.govinfo.gov/link/statute/127/1184); [Pub. L. 116–94, div. E, title II, § 211](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 2773](https://www.govinfo.gov/link/statute/133/2773).)*

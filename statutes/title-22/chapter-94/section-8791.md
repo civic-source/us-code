@@ -3,9 +3,10 @@ title: "Section 8791 - Imposition of sanctions with respect to certain persons w
 usc_title: 22
 usc_section: "8791"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8791"
-generated_at: "2026-03-30T02:55:05.457Z"
+generated_at: "2026-11-23T20:26:32.736Z"
+status: "active"
 ---
 
 # § 8791. Imposition of sanctions with respect to certain persons who are responsible for or complicit in human rights abuses committed against citizens of Syria or their family members
@@ -21,3 +22,57 @@ generated_at: "2026-03-30T02:55:05.457Z"
     - **(B)** The unclassified portion of the list required by paragraph (1) shall be made available to the public and posted on the websites of the Department of the Treasury and the Department of State.
   - **(4)** In preparing the list required by paragraph (1), the President shall consider credible data already obtained by other countries and nongovernmental organizations, including organizations in Syria, that monitor the human rights abuses of the Government of Syria.
 - **(c)** The sanctions described in this subsection are sanctions pursuant to the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.), including blocking of property and restrictions or prohibitions on financial transactions and the exportation of property, subject to such regulations as the President may prescribe.
+
+Report
+
+Notification to the Government of Syria
+
+Imposition of Sanctions.—
+
+In general
+
+Exception
+
+Defined term
+
+Report on Accountability for War Crimes, Crimes Against Humanity, and Genocide in Syria.—
+
+In general
+
+Elements
+
+Form
+
+Protection of witnesses and evidence
+
+Transitional Justice Study
+
+Technical Assistance Authorized.—
+
+In general
+
+Additional assistance
+
+Briefing
+
+State Department Rewards for Justice Program
+
+Independent International Commission of Inquiry on the Syrian Arab Republic
+
+Effect of Section
+
+Definitions
+
+Appropriate congressional committees
+
+Genocide
+
+Hybrid tribunal
+
+Transitional justice
+
+War crime
+
+## Source Credit
+
+*([Pub. L. 112–158, title VII, § 702](https://www.govinfo.gov/link/plaw/112/public/158), Aug. 10, 2012, [126 Stat. 1265](https://www.govinfo.gov/link/statute/126/1265).)*

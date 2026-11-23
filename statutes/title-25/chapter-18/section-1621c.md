@@ -3,9 +3,10 @@ title: "Section 1621c - Diabetes prevention, treatment, and control"
 usc_title: 25
 usc_section: "1621c"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1621c"
-generated_at: "2026-03-30T02:54:52.820Z"
+generated_at: "2026-11-23T20:26:25.483Z"
+status: "active"
 ---
 
 # § 1621c. Diabetes prevention, treatment, and control
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:52.820Z"
   - **(2)**
     - **(A)** The Secretary may establish and maintain in each area office a position of diabetes control officer to coordinate and manage any activity of that area office relating to the prevention, treatment, or control of diabetes to assist the Secretary in carrying out a program under this section or section 254c–3 of title 42 .
     - **(B)** Any activity carried out by a diabetes control officer under subparagraph (A) that is the subject of a contract or compact under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.), 2 2 See References in Text note below. and any funds made available to carry out such an activity, shall not be divisible for purposes of that Act.
+
+## Source Credit
+
+*([Pub. L. 94–437, title II, § 204](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 100–713, title II, § 203(c)](https://www.govinfo.gov/link/plaw/100/public/713), Nov. 23, 1988, [102 Stat. 4806](https://www.govinfo.gov/link/statute/102/4806); amended [Pub. L. 102–573, title II](https://www.govinfo.gov/link/plaw/102/public/573), §§ 204, 217(b)(3), title IX, § 901(2), Oct. 29, 1992, [106 Stat. 4546](https://www.govinfo.gov/link/statute/106/4546), 4559, 4590; [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

@@ -3,9 +3,10 @@ title: "Section 5916 - Exception for foreign payment stablecoin issuers and reci
 usc_title: 12
 usc_section: "5916"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5916"
-generated_at: "2026-03-30T02:53:53.553Z"
+generated_at: "2026-11-23T20:25:59.553Z"
+status: "active"
 ---
 
 # § 5916. Exception for foreign payment stablecoin issuers and reciprocity for payment stablecoins issued in overseas jurisdictions
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:53:53.553Z"
     - **(C)** adequate supervisory and enforcement capacity to facilitate international transactions and interoperability with United States dollar-denominated payment stablecoins issued overseas.
   - **(2)** Not later than 90 days prior to the entry into force of any arrangement or agreement under paragraph (1), the Secretary of the Treasury shall publish the arrangement or agreement in the Federal Register.
   - **(3)** The Secretary of the Treasury should complete the arrangements under this subsection not later than the date that is 2 years after July 18, 2025 .
+
+## Source Credit
+
+*([Pub. L. 119–27, § 18](https://www.govinfo.gov/link/plaw/119/public/27), July 18, 2025, [139 Stat. 463](https://www.govinfo.gov/link/statute/139/463).)*

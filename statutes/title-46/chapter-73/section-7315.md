@@ -3,9 +3,10 @@ title: "Section 7315 - Training"
 usc_title: 46
 usc_section: "7315"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 7315"
-generated_at: "2026-03-30T02:56:15.550Z"
+generated_at: "2026-11-23T20:27:27.116Z"
+status: "active"
 ---
 
 # § 7315. Training
@@ -22,3 +23,24 @@ generated_at: "2026-03-30T02:56:15.550Z"
       - **(ii)** fully completed by the individual; and
     - **(B)** the tonnage of such vessel is appropriate to the endorsement being sought.
 - **(d)** In this section, the term “training day” means a day that consists of not less than 7 hours of training.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 7315 | 46:672(c) |
+
+
+Nautical School Program
+
+Other Approved Training Programs
+
+Training Days
+
+Definition
+
+Historical and Revision Notes
+
+7315
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 544](https://www.govinfo.gov/link/statute/97/544); [Pub. L. 119–60, div. G, title LXXIII, § 7301(d)(6)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1754](https://www.govinfo.gov/link/statute/139/1754).)*

@@ -3,9 +3,10 @@ title: "Section 1902 - Academy policy and report on covered misconduct"
 usc_title: 14
 usc_section: "1902"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 1902"
-generated_at: "2026-03-30T02:53:51.493Z"
+generated_at: "2026-11-23T20:25:54.564Z"
+status: "active"
 ---
 
 # § 1902. Academy policy and report on covered misconduct
@@ -115,3 +116,103 @@ generated_at: "2026-03-30T02:53:51.493Z"
       - **(iv)** With respect to a service agreement entered into under section 1925 of this title by a cadet who transfers under this subsection to the United States Military Academy, the United States Air Force Academy, or the United States Naval Academy and is appointed as a commissioned officer in an armed force associated with that academy, the service obligation undertaken under such agreement shall be considered to be satisfied upon the completion of 5 years of active duty service in the service of such armed force.
     - **(C)** A cadet who transfers under this subsection to a Senior Reserve Officers’ Training Corps program affiliated with another institution of higher education is entitled upon graduation from the Senior Reserve Officers’ Training program to commission into the Coast Guard, as set forth in section 3738a of this title .
 - **(h)** Coast Guard Academy cadets may request room reassignment if experiencing discomfort due to Coast Guard Academy rooming assignments, consistent with policy.
+
+Required Policy
+
+Matters To Be Specified in Policy
+
+Assessment.—
+
+In general
+
+Biennial survey
+
+Report.—
+
+In general
+
+Elements.—
+
+In general
+
+Format
+
+Trends
+
+Response
+
+Plan
+
+Covered misconduct prevention and response activities
+
+Contributing factors
+
+Biennial survey
+
+Focus groups
+
+Submission of report; briefing.—
+
+Submission
+
+Briefing
+
+Victim Confidentiality
+
+Continuity of Data and Reporting
+
+Consideration of Request for Transfer of Cadet Who Is the Victim of Sexual Assault or Related Offense.—
+
+In general
+
+Regulations
+
+Review
+
+Confidentiality
+
+Effect of other law
+
+Commission as officer in the coast guard.—
+
+In general
+
+Commission as officer in other armed force.—
+
+In general
+
+Statement of preference
+
+Consideration by coast guard
+
+Treatment of service agreement
+
+Senior reserve officers’ training corps program
+
+Room Reassignment
+
+In General
+
+Electronic Locking Mechanisms.—
+
+In general
+
+Existing mechanisms
+
+Access Policy Instruction
+
+Minimum Training Requirements
+
+“The Commandant [of the Coast Guard] shall ensure that, in each building at the Coast Guard Academy that contains a dormitory or other overnight accommodations for cadets or officer candidates, written information is posted in a visible location with respect to—
+
+In General
+
+Modifications to Policy
+
+Primary Prevention Specialist
+
+Temporary Leave of Absence to Receive Medical Services and Mental Health and Related Support Services
+
+## Source Credit
+
+*(Added [Pub. L. 112–213, title II, § 205(a)](https://www.govinfo.gov/link/plaw/112/public/213), Dec. 20, 2012, [126 Stat. 1543](https://www.govinfo.gov/link/statute/126/1543), § 200; amended [Pub. L. 115–232, div. C, title XXXV, § 3531(c)(9)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2320](https://www.govinfo.gov/link/statute/132/2320); renumbered § 1902, [Pub. L. 115–282, title I, § 110(b)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4212](https://www.govinfo.gov/link/statute/132/4212); [Pub. L. 116–283, div. G, title LVXXXV](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXV], § 8505(a)(11), Jan. 1, 2021, [134 Stat. 4748](https://www.govinfo.gov/link/statute/134/4748); [Pub. L. 119–60, div. G, title LXXII, § 7241(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1716](https://www.govinfo.gov/link/statute/139/1716).)*

@@ -3,9 +3,10 @@ title: "Section 103 - Federal Railroad Administration"
 usc_title: 49
 usc_section: "103"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 103"
-generated_at: "2026-03-30T02:56:19.294Z"
+generated_at: "2026-11-23T20:27:34.484Z"
+status: "active"
 ---
 
 # § 103. Federal Railroad Administration
@@ -34,3 +35,92 @@ generated_at: "2026-03-30T02:56:19.294Z"
   - **(1)** In conjunction with the objectives established and activities undertaken under subsection (j) of this section, the Administrator shall develop a schedule for achieving specific, measurable performance goals.
   - **(2)** The strategy and annual plans shall include estimates of the funds and staff resources needed to accomplish each goal and the additional duties required under subsection (j).
   - **(3)** Beginning with fiscal year 2010 and each fiscal year thereafter, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, at the same time as the President’s budget submission, the Administration’s performance goals and schedule developed under paragraph (1), including an assessment of the progress of the Administration toward achieving its performance goals.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 103(a) | 49:1652(e)(1) (1st sentence related to FRA). | Oct. 15, 1966 , Pub. L. 89–670 , §§ 3(e) (related to FRA) (1), (3), (4), 6(f)(3)(C) (related to FRA), 80 Stat. 932 , 940. |
+|  | 49:1652a. | July 8, 1976 , Pub. L. 94–348, § 6 , 90 Stat. 820 . |
+| 103(b) | 49:1652(e) (related to FRA) (1) (2d, last sentences), (3) (last sentence). |  |
+| 103(c) | 49:1655(f)(3)(A). | Oct. 15, 1966 , Pub. L. 89–670, § 6(f)(3)(A) , 80 Stat. 940 ; Aug. 22, 1972 , Pub. L. 92–401, § 6 , 86 Stat. 617 ; Jan. 3, 1975 , Pub. L. 93–633, § 113(e)(1) , 88 Stat. 2163 . |
+|  | 49:1652(e)(3) (related to FRA) (less last sentence). |  |
+| 103(d) | 49:1652(e)(4) (related to FRA). |  |
+|  | 49:1655(f)(3)(C) (related to FRA). |  |
+
+
+In General
+
+Safety
+
+Safety as Highest Priority
+
+Administrator
+
+Deputy Administrator
+
+Chief Safety Officer
+
+Duties and Powers of the Administrator
+
+Limitation
+
+Authorities
+
+Additional Duties of the Administrator
+
+Performance Goals and Reports.—
+
+Performance goals
+
+Resource needs
+
+Submission with president’s budget
+
+Historical and Revision Notes
+
+Pub. L
+
+103(a)
+
+Oct. 15, 1966
+
+Pub. L. 89–670
+
+80 Stat. 932
+
+July 8, 1976
+
+Pub. L. 94–348, § 6
+
+90 Stat. 820
+
+103(b)
+
+103(c)
+
+Oct. 15, 1966
+
+Pub. L. 89–670, § 6(f)(3)(A)
+
+80 Stat. 940
+
+Aug. 22, 1972
+
+Pub. L. 92–401, § 6
+
+86 Stat. 617
+
+Jan. 3, 1975
+
+Pub. L. 93–633, § 113(e)(1)
+
+88 Stat. 2163
+
+103(d)
+
+In General
+
+Public Reporting of Violations
+
+## Source Credit
+
+*([Pub. L. 97–449, § 1(b)](https://www.govinfo.gov/link/plaw/97/public/449), Jan. 12, 1983, [96 Stat. 2414](https://www.govinfo.gov/link/statute/96/2414); [Pub. L. 98–216, § 2(2)](https://www.govinfo.gov/link/plaw/98/public/216), Feb. 14, 1984, [98 Stat. 5](https://www.govinfo.gov/link/statute/98/5); [Pub. L. 103–272, § 5(m)(1)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1375](https://www.govinfo.gov/link/statute/108/1375); [Pub. L. 103–440, title II, § 216](https://www.govinfo.gov/link/plaw/103/public/440), Nov. 2, 1994, [108 Stat. 4624](https://www.govinfo.gov/link/statute/108/4624); [Pub. L. 107–217, § 3(n)(1)](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1302](https://www.govinfo.gov/link/statute/116/1302); [Pub. L. 110–432, div. A, title I, § 101](https://www.govinfo.gov/link/plaw/110/public/432), div. B, title III, § 307, Oct. 16, 2008, [122 Stat. 4851](https://www.govinfo.gov/link/statute/122/4851), 4953; [Pub. L. 111–350, § 5](https://www.govinfo.gov/link/plaw/111/public/350) (o)(1), Jan. 4, 2011, [124 Stat. 3853](https://www.govinfo.gov/link/statute/124/3853).)*

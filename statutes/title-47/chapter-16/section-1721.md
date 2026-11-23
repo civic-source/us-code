@@ -3,9 +3,10 @@ title: "Section 1721 - Definitions"
 usc_title: 47
 usc_section: "1721"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 1721"
-generated_at: "2026-03-30T02:56:24.539Z"
+generated_at: "2026-11-23T20:27:29.020Z"
+status: "active"
 ---
 
 # § 1721. Definitions
@@ -71,3 +72,7 @@ In this subchapter:
     - **(C)** the Commonwealth of Puerto Rico.
   - **(22)** The term “veteran” has the meaning given the term in section 101 of title 38 .
   - **(23)** The term “workforce development program” has the meaning given the term in section 3102(66) of title 29 .
+
+## Source Credit
+
+*([Pub. L. 117–58, div. F, title III, § 60302](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1209](https://www.govinfo.gov/link/statute/135/1209).)*

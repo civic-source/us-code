@@ -3,9 +3,10 @@ title: "Section 949d - Sessions"
 usc_title: 10
 usc_section: "949d"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 949d"
-generated_at: "2026-03-30T02:53:38.089Z"
+generated_at: "2026-11-23T20:25:51.148Z"
+status: "active"
 ---
 
 # § 949d. Sessions
@@ -27,3 +28,15 @@ generated_at: "2026-03-30T02:53:38.089Z"
 - **(d)** The military judge may exclude the accused from any portion of a proceeding upon a determination that, after being warned by the military judge, the accused persists in conduct that justifies exclusion from the courtroom—
   - **(1)** to ensure the physical safety of individuals; or
   - **(2)** to prevent disruption of the proceedings by the accused.
+
+Sessions Without Presence of Members
+
+Deliberation or Vote of Members
+
+Closure of Proceedings
+
+Exclusion of Accused From Certain Proceedings
+
+## Source Credit
+
+*(Added [Pub. L. 111–84, div. A, title XVIII, § 1802](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2585](https://www.govinfo.gov/link/statute/123/2585).)*

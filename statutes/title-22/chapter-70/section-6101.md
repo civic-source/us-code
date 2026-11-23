@@ -3,9 +3,10 @@ title: "Section 6101 - Establishment of Fellowship Program"
 usc_title: 22
 usc_section: "6101"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6101"
-generated_at: "2026-03-30T02:55:05.425Z"
+generated_at: "2026-11-23T20:26:32.595Z"
+status: "active"
 ---
 
 # § 6101. Establishment of Fellowship Program
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.425Z"
 - **(c)** The Director of the United States Information Agency should enter into negotiations for an agreement with the Government of Japan for the purpose of placing fellows in the Government of Japan.
 - **(d)** The Center is authorized to accept, use, and dispose of gifts or donations of services or property in carrying out the fellowship program, subject to the review and approval of the Director of the United States Information Agency.
 - **(e)** The George P. Shultz National Foreign Affairs Training Center is authorized and encouraged to assist, on a reimbursable basis, in carrying out Japanese language training by the Center through the provision of teachers, classroom space, teaching materials, and facilities, to the extent that such provision is not detrimental to the Institute’s carrying out its other responsibilities under law.
+
+## Source Credit
+
+*([Pub. L. 103–236, title II, § 252](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 428](https://www.govinfo.gov/link/statute/108/428); [Pub. L. 107–132, § 1(b)](https://www.govinfo.gov/link/plaw/107/public/132), Jan. 16, 2002, [115 Stat. 2412](https://www.govinfo.gov/link/statute/115/2412).)*

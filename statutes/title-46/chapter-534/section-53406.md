@@ -3,9 +3,10 @@ title: "Section 53406 - Payments"
 usc_title: 46
 usc_section: "53406"
 chapter: 534
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 53406"
-generated_at: "2026-03-30T02:56:15.575Z"
+generated_at: "2026-11-23T20:27:27.319Z"
+status: "active"
 ---
 
 # § 53406. Payments
@@ -36,3 +37,27 @@ generated_at: "2026-03-30T02:56:15.575Z"
   - **(1)** No program participant shall receive payments pursuant to this chapter during a period in which it participates in noncontiguous domestic trade.
   - **(2)** Paragraph (1) shall not apply to a program participant that is a citizen of the United States within the meaning of section 50501 of this title , applying the 75 percent ownership requirement of that section.
   - **(3)** In this subsection the term “participates in a noncontiguous domestic trade” means directly or indirectly owns, charters, or operates a vessel engaged in transportation of cargo between a point in the contiguous 48 States and a point in Alaska, Hawaii, or Puerto Rico, other than a point in Alaska north of the Arctic Circle.
+
+Annual Payments.—
+
+In general
+
+Timing
+
+Certification Required for Payment
+
+General Limitations
+
+Reductions in Payments
+
+Limitations Regarding Noncontiguous Domestic Trade.—
+
+In general
+
+Limitation on application
+
+Participates in a noncontiguous trade defined
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. C, title XXXV, § 3511(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4415](https://www.govinfo.gov/link/statute/134/4415); amended [Pub. L. 117–263, div. C, title XXXV, § 3517(b)(3)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3074](https://www.govinfo.gov/link/statute/136/3074); [Pub. L. 118–159, div. C, title XXXV, § 3531(b)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2312](https://www.govinfo.gov/link/statute/138/2312).)*

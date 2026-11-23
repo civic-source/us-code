@@ -3,12 +3,17 @@ title: "Section 1513 - Importation of water; protection of exporting areas"
 usc_title: 43
 usc_section: "1513"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1513"
-generated_at: "2026-03-30T02:55:57.475Z"
+generated_at: "2026-11-23T20:27:06.298Z"
+status: "active"
 ---
 
 # § 1513. Importation of water; protection of exporting areas
 
 - **(a)** In the event that the Secretary shall, pursuant to section 1511 of this title , plan works to import water into the Colorado River system from sources outside the natural drainage areas of the system, he shall make provision for adequate and equitable protection of the interests of the States and areas of origin, including assistance from funds specified in this chapter, to the end that water supplies may be available for use in such States and areas of origin adequate to satisfy their ultimate requirements at prices to users not adversely affected by the exportation of water to the Colorado River system.
 - **(b)** All requirements, present or future, for water within any State lying wholly or in part within the drainage area of any river basin from which water is exported by works planned pursuant to this chapter shall have a priority of right in perpetuity to the use of the waters of that river basin, for all purposes, as against the uses of the water delivered by means of such exportation works, unless otherwise provided by interstate agreement.
+
+## Source Credit
+
+*([Pub. L. 90–537, title II, § 203](https://www.govinfo.gov/link/plaw/90/public/537), Sept. 30, 1968, [82 Stat. 887](https://www.govinfo.gov/link/statute/82/887).)*

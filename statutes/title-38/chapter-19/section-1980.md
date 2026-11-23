@@ -3,9 +3,10 @@ title: "Section 1980 - Option to receive accelerated death benefit"
 usc_title: 38
 usc_section: "1980"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 1980"
-generated_at: "2026-03-30T02:55:53.492Z"
+generated_at: "2026-11-23T20:27:01.756Z"
+status: "active"
 ---
 
 # § 1980. Option to receive accelerated death benefit
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:53.492Z"
   - **(2)** A person may not make more than one election under this section, even if the election of the person is to receive less than the maximum amount of the benefit available to the person under this section.
 - **(g)** If a person insured under Servicemembers’ Group Life Insurance elects to receive a benefit under this section and the person’s Servicemembers’ Group Life Insurance is thereafter converted to Veterans’ Group Life Insurance as provided in section 1968(b) of this title , the amount of the benefit paid under this section shall reduce the amount of Veterans’ Group Life Insurance available to the person under section 1977(a) of this title .
 - **(h)** Notwithstanding any other provision of law, the amount of the accelerated death benefit received by a person under this section shall not be considered income or resources for purposes of determining eligibility for or the amount of benefits under any Federal or federally-assisted program or for any other purpose.
+
+## Source Credit
+
+*(Added [Pub. L. 105–368, title III, § 302(a)(1)](https://www.govinfo.gov/link/plaw/105/public/368), Nov. 11, 1998, [112 Stat. 3332](https://www.govinfo.gov/link/statute/112/3332); amended [Pub. L. 111–275, title IV, § 405(a)](https://www.govinfo.gov/link/plaw/111/public/275), Oct. 13, 2010, [124 Stat. 2880](https://www.govinfo.gov/link/statute/124/2880).)*

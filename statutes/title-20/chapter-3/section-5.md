@@ -3,9 +3,10 @@ title: "Section 5 - Building"
 usc_title: 20
 usc_section: "5"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 5"
-generated_at: "2026-03-30T02:54:48.081Z"
+generated_at: "2026-11-23T20:26:14.239Z"
+status: "active"
 ---
 
 # § 80t–5. Building
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:54:48.081Z"
 - **(e)** The Board of Regents shall pay—
   - **(1)** 50 percent of the costs of carrying out this section from Federal funds; and
   - **(2)** 50 percent of the costs of carrying out this section from non-Federal sources.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. T, title I, § 107](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2276](https://www.govinfo.gov/link/statute/134/2276).)*

@@ -3,9 +3,10 @@ title: "Section 1821a - FSLIC Resolution Fund"
 usc_title: 12
 usc_section: "1821a"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1821a"
-generated_at: "2026-03-30T02:53:53.453Z"
+generated_at: "2026-11-23T20:25:59.140Z"
+status: "active"
 ---
 
 # § 1821a. FSLIC Resolution Fund
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:53.453Z"
 - **(d)** Any judgment resulting from a proceeding to which the Federal Savings and Loan Insurance Corporation was a party prior to its dissolution or which is initiated against the Corporation with respect to the Federal Savings and Loan Insurance Corporation or with respect to the FSLIC Resolution Fund shall be limited to the assets of the FSLIC Resolution Fund.
 - **(e)** The FSLIC Resolution Fund shall transfer to the Resolution Funding Corporation any net proceeds from the sale of assets acquired from the Resolution Trust Corporation upon the termination of such Corporation pursuant to section 1441a 1 of this title.
 - **(f)** The FSLIC Resolution Fund shall be dissolved upon satisfaction of all debts and liabilities and sale of all assets. Upon dissolution any remaining funds shall be paid into the Treasury. Any administrative facilities and supplies, including offices and office supplies, shall be transferred to the Corporation for use by and to be held as assets of the Deposit Insurance Fund.
+
+## Source Credit
+
+*(Sept. 21, 1950, ch. 967, § 2 [11A], as added [Pub. L. 101–73, title II, § 215](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 252](https://www.govinfo.gov/link/statute/103/252); amended [Pub. L. 102–233, title II, § 202(c)](https://www.govinfo.gov/link/plaw/102/public/233), (d), Dec. 12, 1991, [105 Stat. 1767](https://www.govinfo.gov/link/statute/105/1767); [Pub. L. 102–242, title I, § 161(b)](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2285](https://www.govinfo.gov/link/statute/105/2285); [Pub. L. 104–208, div. A, title II, § 2704(d)(14)(J)](https://www.govinfo.gov/link/plaw/104/public/208) –(L), Sept. 30, 1996, [110 Stat. 3009–492](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 109–171, title II, § 2102(b)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 9](https://www.govinfo.gov/link/statute/120/9); [Pub. L. 109–173, § 8(a)(15)](https://www.govinfo.gov/link/plaw/109/public/173) –(17), Feb. 15, 2006, [119 Stat. 3612](https://www.govinfo.gov/link/statute/119/3612), 3613.)*

@@ -3,9 +3,10 @@ title: "Section 9925 - Demonstration partnership agreements addressing needs of 
 usc_title: 42
 usc_section: "9925"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9925"
-generated_at: "2026-03-30T02:56:11.378Z"
+generated_at: "2026-11-23T20:27:23.199Z"
+status: "active"
 ---
 
 # § 9925. Demonstration partnership agreements addressing needs of poor
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:56:11.378Z"
   - **(1)** There are authorized to be appropriated $30,000,000 for fiscal year 1995, and such sums as may be necessary for fiscal years 1996, 1997, and 1998, to carry out this section.
   - **(2)** Of the amounts appropriated for this section, not less than 30 percent and not more than 40 percent shall be used to carry out the programs authorized under subsection (c).
   - **(3)** In addition to sums which are required to carry out the evaluation, reporting, and dissemination of results under subsections (a), (c), (d), and (f), 1 1 See References in Text note below. the Secretary is authorized to reserve up to 2 percent of the amounts appropriated pursuant to subparagraphs (1) and (2) for administration of the program as well as for planning and technical assistance.
+
+## Source Credit
+
+*([Pub. L. 99–425, title IV, § 408](https://www.govinfo.gov/link/plaw/99/public/425), Sept. 30, 1986, [100 Stat. 972](https://www.govinfo.gov/link/statute/100/972); [Pub. L. 101–204, title VII, § 705](https://www.govinfo.gov/link/plaw/101/public/204), Dec. 7, 1989, [103 Stat. 1821](https://www.govinfo.gov/link/statute/103/1821); [Pub. L. 101–501, title VI](https://www.govinfo.gov/link/plaw/101/public/501), §§ 601, 602, Nov. 3, 1990, [104 Stat. 1257](https://www.govinfo.gov/link/statute/104/1257), 1258; [Pub. L. 103–252, title II, § 207](https://www.govinfo.gov/link/plaw/103/public/252), May 18, 1994, [108 Stat. 656](https://www.govinfo.gov/link/statute/108/656).)*

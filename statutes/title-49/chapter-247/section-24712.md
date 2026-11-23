@@ -3,9 +3,10 @@ title: "Section 24712 - State-supported routes operated by Amtrak"
 usc_title: 49
 usc_section: "24712"
 chapter: 247
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 24712"
-generated_at: "2026-03-30T02:56:19.348Z"
+generated_at: "2026-11-23T20:27:34.867Z"
+status: "active"
 ---
 
 # § 24712. State-supported routes operated by Amtrak
@@ -98,3 +99,103 @@ generated_at: "2026-03-30T02:56:19.348Z"
   - **(1)** shall pertain to the rail operations of Amtrak and related activities of trains operated by Amtrak on State-sponsored routes; and
   - **(2)** shall not pertain to the rail operations or related activities of services operated by other rail carriers on State-supported routes.
 - **(l)** In this section, the term “State” means any of the 50 States, including the District of Columbia, that sponsor the operation of trains by Amtrak on a State-supported route, or a public entity that sponsors such operation on such a route.
+
+State-Supported Route Committee.—
+
+Establishment
+
+Membership.—
+
+In general
+
+Non-voting members
+
+Decisionmaking
+
+Ability to conduct certain business
+
+Meetings; rules and procedures
+
+Committee decisions
+
+Cost methodology policy.—
+
+In general
+
+Revisions to cost methodology policy.—
+
+Requirement to revise and update
+
+Implementation impacts on federal funding
+
+Procedures for changing methodology
+
+Requirements
+
+Independent evaluation
+
+Staffing
+
+Authorization of appropriations
+
+Invoices and Reports.—
+
+Invoices
+
+Reports.—
+
+In general
+
+Monthly statistical report.—
+
+Development
+
+Provision of necessary data
+
+Dispute Resolution.—
+
+Request for dispute resolution
+
+Procedures
+
+Binding effect
+
+Obligation
+
+Assistance.—
+
+In general
+
+Financial assistance
+
+Performance Metrics
+
+Statement of Goals and Objectives.—
+
+In general
+
+Transmission of statement of goals and objectives
+
+Sense of congress
+
+New State-supported Routes.—
+
+Consultation
+
+State commitments
+
+Application of terms
+
+Cost Methodology Policy Update Implementation Report
+
+Identification of State-supported Route Changes
+
+Economic Analysis
+
+Rule of Construction
+
+Definition of State
+
+## Source Credit
+
+*(Added [Pub. L. 114–94, div. A, title XI, § 11204(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1634](https://www.govinfo.gov/link/statute/129/1634); amended [Pub. L. 117–58, div. B, title II, § 22211](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 708](https://www.govinfo.gov/link/statute/135/708); [Pub. L. 117–328, div. L, title I, § 158](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5125](https://www.govinfo.gov/link/statute/136/5125).)*

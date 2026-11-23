@@ -3,9 +3,10 @@ title: "Section 6892 - Annual report to Congress by Comptroller General"
 usc_title: 42
 usc_section: "6892"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6892"
-generated_at: "2026-03-30T02:56:11.268Z"
+generated_at: "2026-11-23T20:27:22.721Z"
+status: "active"
 ---
 
 # § 6892. Annual report to Congress by Comptroller General
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.268Z"
   - **(1)** Omitted
   - **(2)** The term “Comptroller General” means the Comptroller General of the United States.
   - **(3)** The term “Secretary” means the Secretary of Housing and Urban Development.
+
+## Source Credit
+
+*([Pub. L. 94–385, title IV, § 462](https://www.govinfo.gov/link/plaw/94/public/385), Aug. 14, 1976, [90 Stat. 1168](https://www.govinfo.gov/link/statute/90/1168); [Pub. L. 95–91, title III, § 301(a)](https://www.govinfo.gov/link/plaw/95/public/91), title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577](https://www.govinfo.gov/link/statute/91/577), 606, 607.)*

@@ -3,9 +3,10 @@ title: "Section 7844 - United Nations High Commissioner for Refugees"
 usc_title: 22
 usc_section: "7844"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7844"
-generated_at: "2026-03-30T02:55:05.446Z"
+generated_at: "2026-11-23T20:26:32.691Z"
+status: "active"
 ---
 
 # § 7844. United Nations High Commissioner for Refugees
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:05.446Z"
 - **(b)** It is further the sense of Congress that—
   - **(1)** if the Government of China continues to refuse to provide the UNHCR with access to North Koreans within its borders, the UNHCR should initiate arbitration proceedings pursuant to Article XVI of the UNHCR Mission Agreement and appoint an arbitrator for the UNHCR; and
   - **(2)** because access to refugees is essential to the UNHCR mandate and to the purpose of a UNHCR branch office, a failure to assert those arbitration rights in present circumstances would constitute a significant abdication by the UNHCR of one of its core responsibilities.
+
+## Source Credit
+
+*([Pub. L. 108–333, title III, § 304](https://www.govinfo.gov/link/plaw/108/public/333), Oct. 18, 2004, [118 Stat. 1296](https://www.govinfo.gov/link/statute/118/1296).)*

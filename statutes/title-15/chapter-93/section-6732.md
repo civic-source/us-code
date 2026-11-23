@@ -3,9 +3,10 @@ title: "Section 6732 - Redomestication of mutual insurers"
 usc_title: 15
 usc_section: "6732"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 6732"
-generated_at: "2026-03-30T02:54:08.213Z"
+generated_at: "2026-11-23T20:26:04.410Z"
+status: "active"
 ---
 
 # § 6732. Redomestication of mutual insurers
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:08.213Z"
   - **(3)** During the applicable period provided for under the State law of the transferee domicile following completion of an initial public offering, or for a period of six months if no such applicable period is provided, neither a stock holding company nor the converted insurer shall award any stock options or stock grants to persons who are elected officers or directors of the mutual holding company, the stock holding company, or the converted insurer, except with respect to any such awards or options to which a person is entitled as a policyholder and as approved by the State insurance regulator of the transferee domicile.
   - **(4)** Upon reorganization into a mutual holding company, the contractual rights of the policyholders are preserved.
   - **(5)** The reorganization is approved as fair and equitable to the policyholders by the insurance regulator of the transferee domicile.
+
+## Source Credit
+
+*([Pub. L. 106–102, title III, § 312](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1417](https://www.govinfo.gov/link/statute/113/1417).)*

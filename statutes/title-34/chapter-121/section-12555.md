@@ -3,9 +3,10 @@ title: "Section 12555 - Scholarship assistance"
 usc_title: 34
 usc_section: "12555"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12555"
-generated_at: "2026-03-30T02:55:33.290Z"
+generated_at: "2026-11-23T20:26:50.560Z"
+status: "active"
 ---
 
 # § 12555. Scholarship assistance
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:55:33.290Z"
   - **(3)** who serves in a State for which the Director has approved a Police Corps plan, and
   - **(4)** who is killed in the course of performing police duties,
 - **(f)** Each participant desiring a scholarship or payment under this section shall submit an application as prescribed by the Director in such manner and accompanied by such information as the Director may reasonably require.
+
+## Source Credit
+
+*([Pub. L. 103–322, title XX, § 200106](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2050](https://www.govinfo.gov/link/statute/108/2050); [Pub. L. 107–273, div. C, title I, § 11006(1)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1817](https://www.govinfo.gov/link/statute/116/1817).)*

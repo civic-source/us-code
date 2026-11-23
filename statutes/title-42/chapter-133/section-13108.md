@@ -3,12 +3,17 @@ title: "Section 13108 - Savings provisions"
 usc_title: 42
 usc_section: "13108"
 chapter: 133
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13108"
-generated_at: "2026-03-30T02:56:11.438Z"
+generated_at: "2026-11-23T20:27:23.463Z"
+status: "active"
 ---
 
 # § 13108. Savings provisions
 
 - **(a)** Nothing in this chapter shall be construed to modify or interfere with the implementation of title III of the Superfund Amendments and Reauthorization Act of 1986 [ 42 U.S.C. 11001 et seq.].
 - **(b)** Nothing contained in this chapter shall be construed, interpreted or applied to supplant, displace, preempt or otherwise diminish the responsibilities and liabilities under other State or Federal law, whether statutory or common.
+
+## Source Credit
+
+*([Pub. L. 101–508, title VI, § 6609](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–327](https://www.govinfo.gov/link/statute/104/1388).)*

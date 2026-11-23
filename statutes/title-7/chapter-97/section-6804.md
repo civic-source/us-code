@@ -3,9 +3,10 @@ title: "Section 6804 - Required terms in orders"
 usc_title: 7
 usc_section: "6804"
 chapter: 97
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6804"
-generated_at: "2026-03-30T02:53:42.435Z"
+generated_at: "2026-11-23T20:25:41.725Z"
+status: "active"
 ---
 
 # § 6804. Required terms in orders
@@ -189,3 +190,23 @@ generated_at: "2026-03-30T02:53:42.435Z"
       - **(i)** may not provide advice or recommendations to a representative of an agency, or an officer, of the Federal Government; and
       - **(ii)** shall consult directly with the PromoFlor Council.
 - **(l)** The order shall contain such other terms and provisions, consistent with this chapter, as are necessary to carry out this chapter (including provision for the assessment of interest and a charge for each late payment of assessments under subsection (h) and for carrying out section 6805 of this title ).
+
+(aa) in the domestic production, for sale in commerce, of cut flowers or cut greens and that owns or shares in the ownership and risk of loss of the cut flowers or cut greens; or
+
+(bb) as a first processor of noncultivated cut greens, in receiving the cut greens from a person who gathers the cut greens for handling; and
+
+(aa) Floral supplier The term “floral supplier” means a person engaged in acquiring cut flowers or cut greens to be manufactured into floral articles or otherwise processed for resale.
+
+(bb) Floral wholesale jobber The term “floral wholesale jobber” means a person who conducts a commission or other wholesale business in buying and selling cut flowers or cut greens.
+
+(aa) the price paid by the distribution center or importer, respectively, to acquire the cut flowers or cut greens; and
+
+(bb) an amount determined by multiplying the acquisition price referred to in item (aa) by a uniform percentage established by the order to represent the mark-up of a wholesale handler on a sale to a retailer.
+
+(aa) recommendation by the PromoFlor Council; and
+
+(bb) approval by the Secretary after public notice and opportunity for comment in accordance with section 553 of title 5 and without regard to sections 556 and 557 of such title.
+
+## Source Credit
+
+*([Pub. L. 103–190, § 5](https://www.govinfo.gov/link/plaw/103/public/190), Dec. 14, 1993, [107 Stat. 2272](https://www.govinfo.gov/link/statute/107/2272).)*

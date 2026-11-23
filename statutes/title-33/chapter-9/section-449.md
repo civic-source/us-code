@@ -3,12 +3,17 @@ title: "Section 449 - Disposition of dredged matter; persons liable; penalty"
 usc_title: 33
 usc_section: "449"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 449"
-generated_at: "2026-03-30T02:55:41.057Z"
+generated_at: "2026-11-23T20:26:53.822Z"
+status: "active"
 ---
 
 # § 449. Disposition of dredged matter; persons liable; penalty
 
 All mud, dirt, sand, dredgings, and material of every kind and description whatever taken, dredged, or excavated from any slip, basin, or shoal in any harbor subject to this subchapter, and placed on any boat, scow, or vessel for the purpose of being taken or towed upon the waters of that harbor to a place of deposit, shall be deposited and discharged at such place or within such limits as shall be defined and specified by the supervisor of the harbor, as in sections 443 to 448 of this title prescribed, and not otherwise. Every person, firm, or corporation being the owner of any slip, basin, or shoal, from which such mud, dirt, sand, dredgings, and material shall be taken, dredged, or excavated, and every person, firm, or corporation in any manner engaged in the work of dredging or excavating any such slip, basin, or shoal, or of removing such mud, dirt, sand, or dredgings therefrom, shall severally be responsible for the deposit and discharge of all such mud, dirt, sand, or dredgings at such place or within such limits so defined and prescribed by said supervisor of the harbor; and for every violation of the provisions of this section the person offending shall be guilty of an offense, and shall be punished by a fine equal to the sum of $5 for every cubic yard of mud, dirt, sand, dredgings, or material not deposited or discharged as required by this section.
 
+
+## Source Credit
+
+*(June 29, 1888, ch. 496, § 4, [25 Stat. 210](https://www.govinfo.gov/link/statute/25/210); [Pub. L. 85–802, § 1(5)](https://www.govinfo.gov/link/plaw/85/public/802), Aug. 28, 1958, [72 Stat. 970](https://www.govinfo.gov/link/statute/72/970).)*

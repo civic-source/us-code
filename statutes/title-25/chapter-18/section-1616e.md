@@ -3,9 +3,10 @@ title: "Section 1616e - Nursing program"
 usc_title: 25
 usc_section: "1616e"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1616e"
-generated_at: "2026-03-30T02:54:52.818Z"
+generated_at: "2026-11-23T20:26:25.476Z"
+status: "active"
 ---
 
 # § 1616e. Nursing program
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:54:52.818Z"
     - **(C)** in a program assisted under subchapter IV of this chapter; or
     - **(D)** in the private practice of nursing if, as determined by the Secretary, in accordance with guidelines promulgated by the Secretary, such practice is situated in a physician or other health professional shortage area and addresses the health care needs of a substantial number of Indians.
 - **(g)** Beginning with fiscal year 1993, of the amounts appropriated under the authority of this subchapter for each fiscal year to be used to carry out this section, not less than $1,000,000 shall be used to provide grants under subsection (a) for the training of nurse midwives, nurse anesthetists, and nurse practitioners.
+
+## Source Credit
+
+*([Pub. L. 94–437, title I, § 112](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 100–713, title I, § 108](https://www.govinfo.gov/link/plaw/100/public/713), Nov. 23, 1988, [102 Stat. 4795](https://www.govinfo.gov/link/statute/102/4795); amended [Pub. L. 102–573, title I](https://www.govinfo.gov/link/plaw/102/public/573), §§ 104(b), (c), 114(a), Oct. 29, 1992, [106 Stat. 4533](https://www.govinfo.gov/link/statute/106/4533), 4543.)*

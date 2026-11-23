@@ -3,9 +3,10 @@ title: "Section 188 - Conduct of research, development, demonstration, testing a
 usc_title: 6
 usc_section: "188"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 188"
-generated_at: "2026-03-30T02:53:09.447Z"
+generated_at: "2026-11-23T20:25:34.654Z"
+status: "active"
 ---
 
 # § 188. Conduct of research, development, demonstration, testing and evaluation
@@ -59,3 +60,7 @@ generated_at: "2026-03-30T02:53:09.447Z"
     - **(B)**
       - **(i)** Before granting a waiver under subparagraph (A), the Secretary shall comply with the procedures developed and implemented by the Department pursuant to section 70923(b)(2) of the Build America, Buy America Act (enacted as subtitle A of title IX of division G of Public Law 117–58 ).
       - **(ii)** The Secretary may not grant a waiver under subparagraph (A) if, as a result of such waiver, products embodying the applicable subject invention, or produced through the use of the applicable subject invention, would be manufactured substantially in a country of concern.
+
+## Source Credit
+
+*([Pub. L. 107–296, title III, § 308](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2170](https://www.govinfo.gov/link/statute/116/2170); [Pub. L. 108–7, div. L, § 101(1)](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 526](https://www.govinfo.gov/link/statute/117/526); [Pub. L. 117–263, div. G, title LXXI, § 7114](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3633](https://www.govinfo.gov/link/statute/136/3633).)*

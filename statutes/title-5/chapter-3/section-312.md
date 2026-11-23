@@ -3,9 +3,10 @@ title: "Section 312 - Agency evidence-building plan"
 usc_title: 5
 usc_section: "312"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 312"
-generated_at: "2026-03-30T02:52:55.978Z"
+generated_at: "2026-11-23T20:25:31.661Z"
+status: "active"
 ---
 
 # § 312. Agency evidence-building plan
@@ -22,3 +23,13 @@ generated_at: "2026-03-30T02:52:55.978Z"
   - **(2)** describe key information collections or acquisitions the agency plans to begin in the next fiscal year; and
   - **(3)** any 1 1 So in original. other information included in guidance issued by the Director under subsection (a)(6).
 - **(c)** In developing the plan required under subsection (a), the head of an agency shall consult with stakeholders, including the public, agencies, State and local governments, and representatives of non-governmental researchers.
+
+Requirement
+
+Evaluation Plan
+
+Consultation
+
+## Source Credit
+
+*(Added [Pub. L. 115–435, title I, § 101(a)(2)](https://www.govinfo.gov/link/plaw/115/public/435), Jan. 14, 2019, [132 Stat. 5530](https://www.govinfo.gov/link/statute/132/5530).)*

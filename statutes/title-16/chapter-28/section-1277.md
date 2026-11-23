@@ -3,9 +3,10 @@ title: "Section 1277 - Land acquisition"
 usc_title: 16
 usc_section: "1277"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1277"
-generated_at: "2026-03-30T02:54:22.955Z"
+generated_at: "2026-11-23T20:26:20.446Z"
+status: "active"
 ---
 
 # § 1277. Land acquisition
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:22.955Z"
   - **(1)** Any owner or owners (hereinafter in this subsection referred to as “owner”) of improved property on the date of its acquisition, may retain for themselves and their successors or assigns a right of use and occupancy of the improved property for noncommercial residential purposes for a definite term not to exceed twenty-five years or, in lieu thereof, for a term ending at the death of the owner, or the death of his spouse, or the death of either or both of them. The owner shall elect the term to be reserved. The appropriate Secretary shall pay to the owner the fair market value of the property on the date of such acquisition less the fair market value on such date of the right retained by the owner.
   - **(2)** A right of use and occupancy retained pursuant to this subsection shall be subject to termination whenever the appropriate Secretary is given reasonable cause to find that such use and occupancy is being exercised in a manner which conflicts with the purposes of this chapter. In the event of such a finding, the Secretary shall tender to the holder of that right an amount equal to the fair market value of that portion of the right which remains unexpired on the date of termination. Such right of use or occupancy shall terminate by operation of law upon tender of the fair market price.
   - **(3)** The term “improved property”, as used in this chapter, means a detached, one-family dwelling (hereinafter referred to as “dwelling”), the construction of which was begun before January 1, 1967 , (except where a different date is specifically provided by law with respect to any particular river) together with so much of the land on which the dwelling is situated, the said land being in the same ownership as the dwelling, as the appropriate Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated.
+
+## Source Credit
+
+*([Pub. L. 90–542, § 6](https://www.govinfo.gov/link/plaw/90/public/542), Oct. 2, 1968, [82 Stat. 912](https://www.govinfo.gov/link/statute/82/912); [Pub. L. 95–625, title VII, § 763(b)](https://www.govinfo.gov/link/plaw/95/public/625), Nov. 10, 1978, [92 Stat. 3533](https://www.govinfo.gov/link/statute/92/3533); [Pub. L. 99–590, title V, § 504](https://www.govinfo.gov/link/plaw/99/public/590), Oct. 30, 1986, [100 Stat. 3336](https://www.govinfo.gov/link/statute/100/3336).)*

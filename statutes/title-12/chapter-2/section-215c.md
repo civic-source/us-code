@@ -3,9 +3,10 @@ title: "Section 215c - Mergers, consolidations, and other acquisitions authorize
 usc_title: 12
 usc_section: "215c"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 215c"
-generated_at: "2026-03-30T02:53:53.376Z"
+generated_at: "2026-11-23T20:25:58.719Z"
+status: "active"
 ---
 
 # § 215c. Mergers, consolidations, and other acquisitions authorized
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:53.376Z"
     - **(B)** in the Comptroller’s judgment, any material information submitted is substantially inaccurate or incomplete.
 - **(c)** No provision of this section shall be construed as authorizing a national bank or a subsidiary of a national bank to engage in any activity not otherwise authorized under this Act 1 or any other law governing the powers of national banks.
 - **(d)** For purposes of this section, the term “acquire” means to acquire, directly or indirectly, ownership or control through a merger or consolidation or an acquisition of assets or assumption of liabilities, provided that following such merger, consolidation, or acquisition, an acquiring insured depository institution may not own the shares of the acquired insured depository institution.
+
+## Source Credit
+
+*(R.S. § 5156A, as added [Pub. L. 102–242, title V, § 502(b)](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2393](https://www.govinfo.gov/link/statute/105/2393); amended [Pub. L. 104–208, div. A, title II, § 2201(b)(1)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–403](https://www.govinfo.gov/link/statute/110/3009).)*

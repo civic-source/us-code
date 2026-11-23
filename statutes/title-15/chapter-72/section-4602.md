@@ -3,9 +3,10 @@ title: "Section 4602 - Grants to Sematech"
 usc_title: 15
 usc_section: "4602"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 4602"
-generated_at: "2026-03-30T02:54:08.200Z"
+generated_at: "2026-11-23T20:26:04.339Z"
+status: "active"
 ---
 
 # § 4602. Grants to Sematech
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:08.200Z"
   - **(6)** That Sematech take all steps necessary to maximize the expeditious and timely transfer of technology developed and owned by Sematech to the participants in Sematech in accordance with the agreement between Sematech and those participants and for the purpose of improving manufacturing productivity of United States semiconductor firms.
 - **(c)** The memorandum of understanding entered into under subsection (b) shall not be considered to be a contract for the purpose of any law or regulation relating to the formation, content, and administration of contracts awarded by the Federal Government and subcontracts under such contracts, including chapter 271 of title 10, section 719 of the Defense Production Act of 1950 (50 U.S.C. App. 2168), 1 1 See References in Text note below. and the Federal Acquisition Regulations, and such provisions of law and regulation shall not apply with respect to the memorandum of understanding.
 - **(d)** Of the amounts appropriated to the Defense Agencies for fiscal year 1988 for research, development, test, and evaluation, $100,000,000 may be obligated only to make grants under this section.
+
+## Source Credit
+
+*([Pub. L. 100–180, div. A, title II, § 272](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1068](https://www.govinfo.gov/link/statute/101/1068); [Pub. L. 103–160, div. A, title II, § 263(c)(2)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1610](https://www.govinfo.gov/link/statute/107/1610); [Pub. L. 117–81, div. A, title XVII, § 1702(e)(7)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2157](https://www.govinfo.gov/link/statute/135/2157).)*

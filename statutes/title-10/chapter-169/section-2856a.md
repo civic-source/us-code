@@ -3,9 +3,10 @@ title: "Section 2856a - Covered military unaccompanied housing: waivers of cover
 usc_title: 10
 usc_section: "2856a"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2856a"
-generated_at: "2026-03-30T02:53:38.180Z"
+generated_at: "2026-11-23T20:25:51.739Z"
+status: "active"
 ---
 
 # § 2856a. Covered military unaccompanied housing: waivers of covered privacy and configuration standards and covered health and safety standards
@@ -39,3 +40,13 @@ generated_at: "2026-03-30T02:53:38.180Z"
 - **(c)** In this section:
   - **(1)** The term “covered health and safety standard” means the minimum health and safety criteria applicable to covered military unaccompanied housing established by the Secretary of Defense and may include standards relating to mold, ventilation, fire safety, or other related habitability conditions necessary to ensure safe occupancy.
   - **(2)** The term “covered privacy and configuration standard” means the minimum standards for privacy and configuration applicable to covered military unaccompanied housing described in Department of Defense Manual 4165.63 titled “DoD Housing Management” and dated October 28, 2010 (or a successor document).
+
+Procedures for Issuance of Certain Waivers
+
+Annual Report on Waivers
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. B, title XXVIII, § 2833(b)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 755](https://www.govinfo.gov/link/statute/137/755); amended [Pub. L. 118–159, div. B, title XXVIII, § 2824](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2256](https://www.govinfo.gov/link/statute/138/2256); [Pub. L. 119–60, div. B, title XXVIII, § 2822](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1305](https://www.govinfo.gov/link/statute/139/1305).)*

@@ -3,9 +3,10 @@ title: "Section 5000B - Imposition of tax on indoor tanning services"
 usc_title: 26
 usc_section: "5000B"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 5000B"
-generated_at: "2026-03-30T02:55:27.816Z"
+generated_at: "2026-11-23T20:26:46.387Z"
+status: "active"
 ---
 
 # § 5000B. Imposition of tax on indoor tanning services
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:27.816Z"
   - **(1)** The tax imposed by this section shall be paid by the individual on whom the service is performed.
   - **(2)** Every person receiving a payment for services on which a tax is imposed under subsection (a) shall collect the amount of the tax from the individual on whom the service is performed and remit such tax quarterly to the Secretary at such time and in such manner as provided by the Secretary.
   - **(3)** Where any tax imposed by subsection (a) is not paid at the time payments for indoor tanning services are made, then to the extent that such tax is not collected, such tax shall be paid by the person who performs the service.
+
+## Source Credit
+
+*(Added [Pub. L. 111–148, title X, § 10907(b)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 1020](https://www.govinfo.gov/link/statute/124/1020).)*

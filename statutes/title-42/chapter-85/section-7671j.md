@@ -3,9 +3,10 @@ title: "Section 7671j - Labeling"
 usc_title: 42
 usc_section: "7671j"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7671j"
-generated_at: "2026-03-30T02:56:11.328Z"
+generated_at: "2026-11-23T20:27:22.969Z"
+status: "active"
 ---
 
 # § 7671j. Labeling
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.328Z"
 - **(f)**
   - **(1)** The labeling requirements of this section shall not constitute, in whole or part, a defense to liability or a cause for reduction in damages in any suit, whether civil or criminal, brought under any law, whether Federal or State, other than a suit for failure to comply with the labeling requirements of this section.
   - **(2)** No other approval of such label by the Administrator under any other law administered by the Administrator shall be required with respect to the labeling requirements of this section.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title VI, § 611, as added [Pub. L. 101–549, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2665](https://www.govinfo.gov/link/statute/104/2665).)*

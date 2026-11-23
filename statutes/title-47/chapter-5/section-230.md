@@ -3,9 +3,10 @@ title: "Section 230 - Protection for private blocking and screening of offensive
 usc_title: 47
 usc_section: "230"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 230"
-generated_at: "2026-03-30T02:56:24.500Z"
+generated_at: "2026-11-23T20:27:28.845Z"
+status: "active"
 ---
 
 # § 230. Protection for private blocking and screening of offensive material
@@ -45,3 +46,9 @@ generated_at: "2026-03-30T02:56:24.500Z"
     - **(A)** filter, screen, allow, or disallow content;
     - **(B)** pick, choose, analyze, or digest content; or
     - **(C)** transmit, receive, display, forward, cache, search, subset, organize, reorganize, or translate content.
+
+“It is the sense of Congress that—
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title II, § 230, as added [Pub. L. 104–104, title V, § 509](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 137](https://www.govinfo.gov/link/statute/110/137); amended [Pub. L. 105–277, div. C, title XIV, § 1404(a)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–739](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 115–164, § 4(a)](https://www.govinfo.gov/link/plaw/115/public/164), Apr. 11, 2018, [132 Stat. 1254](https://www.govinfo.gov/link/statute/132/1254).)*

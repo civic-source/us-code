@@ -3,9 +3,10 @@ title: "Section 2704 - Discontinued Job Corps centers; utilization for special y
 usc_title: 42
 usc_section: "2704"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2704"
-generated_at: "2026-03-30T02:56:11.166Z"
+generated_at: "2026-11-23T20:27:22.163Z"
+status: "active"
 ---
 
 # § 2704. Discontinued Job Corps centers; utilization for special youth programs
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.166Z"
   - **(5)** training programs designed to improve the qualifications of educational personnel, including instructors in vocational educational programs; and
   - **(6)** youth conservation work and other conservation programs.
 - **(b)** To achieve the objectives of this section, the Director of the Office of Economic Opportunity shall consult with, elicit the cooperation of, and utilize the services of the Administrator of the General Services Administration, and the Secretaries of Agriculture, of the Interior, and of Labor.
+
+## Source Credit
+
+*([Pub. L. 91–177, title I, § 113](https://www.govinfo.gov/link/plaw/91/public/177), Dec. 30, 1969, [83 Stat. 832](https://www.govinfo.gov/link/statute/83/832); [Pub. L. 93–644, § 9(a)](https://www.govinfo.gov/link/plaw/93/public/644), Jan. 4, 1975, [88 Stat. 2310](https://www.govinfo.gov/link/statute/88/2310).)*

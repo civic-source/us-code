@@ -3,9 +3,10 @@ title: "Section 1463 - Supervision of savings associations"
 usc_title: 12
 usc_section: "1463"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1463"
-generated_at: "2026-03-30T02:53:53.395Z"
+generated_at: "2026-11-23T20:25:58.848Z"
+status: "active"
 ---
 
 # § 1463. Supervision of savings associations
@@ -52,3 +53,21 @@ generated_at: "2026-03-30T02:53:53.395Z"
 - **(h)** No savings association shall—
   - **(1)** issue securities which guarantee a definite maturity except with the specific approval of the appropriate Federal banking agency, or
   - **(2)** issue any securities the form of which has not been approved by the appropriate Federal banking agency.
+
+In general
+
+Regulations
+
+Consultation on Methods
+
+Definitions
+
+Minority financial institution
+
+Minority
+
+Reports
+
+## Source Credit
+
+*(June 13, 1933, ch. 64, § 4, as added [Pub. L. 101–73, title III, § 301](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 280](https://www.govinfo.gov/link/statute/103/280); amended [Pub. L. 111–203, title III, § 369(4)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1558](https://www.govinfo.gov/link/statute/124/1558); [Pub. L. 113–251, § 3(d)](https://www.govinfo.gov/link/plaw/113/public/251), Dec. 18, 2014, [128 Stat. 2889](https://www.govinfo.gov/link/statute/128/2889).)*

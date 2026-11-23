@@ -3,9 +3,10 @@ title: "Section 6181 - Estimation of costs of meeting defense environmental clea
 usc_title: 10
 usc_section: "6181"
 chapter: 604
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6181"
-generated_at: "2026-03-30T02:53:38.222Z"
+generated_at: "2026-11-23T20:25:52.020Z"
+status: "active"
 ---
 
 # § 6181. Estimation of costs of meeting defense environmental cleanup milestones required by consent orders
@@ -14,3 +15,7 @@ The Secretary of Energy shall include in the budget justification materials subm
 
   - **(1)** a specification of the cost of meeting such milestones during that fiscal year; and
   - **(2)** an estimate of the cost of meeting such milestones during the four fiscal years following that fiscal year.
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1394](https://www.govinfo.gov/link/statute/139/1394).)*

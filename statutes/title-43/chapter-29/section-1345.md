@@ -3,9 +3,10 @@ title: "Section 1345 - Coordination and consultation with affected State and loc
 usc_title: 43
 usc_section: "1345"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1345"
-generated_at: "2026-03-30T02:55:57.471Z"
+generated_at: "2026-11-23T20:27:06.281Z"
+status: "active"
 ---
 
 # § 1345. Coordination and consultation with affected State and local governments
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:57.471Z"
 - **(c)** The Secretary shall accept recommendations of the Governor and may accept recommendations of the executive of any affected local government if he determines, after having provided the opportunity for consultation, that they provide for a reasonable balance between the national interest and the well-being of the citizens of the affected State. For purposes of this subsection, a determination of the national interest shall be based on the desirability of obtaining oil and gas supplies in a balanced manner and on the findings, purposes, and policies of this subchapter. The Secretary shall communicate to the Governor, in writing, the reasons for his determination to accept or reject such Governor’s recommendations, or to implement any alternative means identified in consultation with the Governor to provide for a reasonable balance between the national interest and the well-being of the citizens of the affected State.
 - **(d)** The Secretary’s determination that recommendations provide, or do not provide, for a reasonable balance between the national interest and the well-being of the citizens of the affected State shall be final and shall not, alone, be a basis for invalidation of a proposed lease sale or a proposed development and production plan in any suit or judicial review pursuant to section 1349 of this title , unless found to be arbitrary or capricious.
 - **(e)** The Secretary is authorized to enter into cooperative agreements with affected States for purposes which are consistent with this subchapter and other applicable Federal law. Such agreements may include, but need not be limited to, the sharing of information (in accordance with the provisions of section 1352 of this title ), the joint utilization of available expertise, the facilitating of permitting procedures, joint planning and review, and the formation of joint surveillance and monitoring arrangements to carry out applicable Federal and State laws, regulations, and stipulations relevant to outer Continental Shelf operations both onshore and offshore.
+
+## Source Credit
+
+*(Aug. 7, 1953, ch. 345, § 19, as added [Pub. L. 95–372, title II, § 208](https://www.govinfo.gov/link/plaw/95/public/372), Sept. 18, 1978, [92 Stat. 652](https://www.govinfo.gov/link/statute/92/652).)*

@@ -3,9 +3,10 @@ title: "Section 2283 - Eligible projects"
 usc_title: 22
 usc_section: "2283"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2283"
-generated_at: "2026-03-30T02:55:05.353Z"
+generated_at: "2026-11-23T20:26:32.207Z"
+status: "active"
 ---
 
 # § 2283. Eligible projects
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:05.353Z"
 - **(b)**
   - **(1)** In cooperation with nongovernmental organizations, the Administrator of the Agency for International Development shall seek to identify those areas, which because of an imminent threat, are in particular need of immediate attention to prevent the loss of unique biological life or valuable ecosystem.
   - **(2)** The Administrator of the Agency for International Development shall encourage as many eligible countries as possible to propose such exchanges with the purpose of demonstrating to a large number of governments the feasibility and benefits of sustainable development.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 463 [473], as added [Pub. L. 101–240, title VII, § 711](https://www.govinfo.gov/link/plaw/101/public/240), Dec. 19, 1989, [103 Stat. 2522](https://www.govinfo.gov/link/statute/103/2522).)*

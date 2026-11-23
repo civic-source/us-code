@@ -3,9 +3,10 @@ title: "Section 808 - Policyholder dividends deduction"
 usc_title: 26
 usc_section: "808"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 808"
-generated_at: "2026-03-30T02:55:27.729Z"
+generated_at: "2026-11-23T20:26:45.881Z"
+status: "active"
 ---
 
 # § 808. Policyholder dividends deduction
@@ -40,3 +41,11 @@ generated_at: "2026-03-30T02:55:27.729Z"
 - **(g)** For purposes of this subchapter—
   - **(1)** The term “prevailing State assumed interest rate” means, with respect to any contract, the highest assumed interest rate permitted to be used in computing life insurance reserves for insurance contracts or annuity contracts (as the case may be) under the insurance laws of at least 26 States. For purposes of the preceding sentence, the effect of nonforfeiture laws of a State on interest rates for reserves shall not be taken into account.
   - **(2)** The prevailing State assumed interest rate with respect to any contract shall be determined as of the beginning of the calendar year in which the contract was issued.
+
+In general
+
+Reduction in case of mutual companies
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title II, § 211(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 732](https://www.govinfo.gov/link/statute/98/732); amended [Pub. L. 99–514, title XVIII, § 1821(b)](https://www.govinfo.gov/link/plaw/99/public/514), (c), Oct. 22, 1986, [100 Stat. 2838](https://www.govinfo.gov/link/statute/100/2838); [Pub. L. 108–218, title II, § 205(b)(3)](https://www.govinfo.gov/link/plaw/108/public/218), Apr. 10, 2004, [118 Stat. 610](https://www.govinfo.gov/link/statute/118/610); [Pub. L. 115–97, title I, § 13517(b)(1)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2147](https://www.govinfo.gov/link/statute/131/2147).)*

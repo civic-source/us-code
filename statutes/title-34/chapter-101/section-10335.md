@@ -3,9 +3,10 @@ title: "Section 10335 - Reports"
 usc_title: 34
 usc_section: "10335"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10335"
-generated_at: "2026-03-30T02:55:33.266Z"
+generated_at: "2026-11-23T20:26:50.458Z"
+status: "active"
 ---
 
 # § 10335. Reports
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:33.266Z"
 - **(b)** Not later than 90 days after the end of each fiscal year for which grants are made under this subchapter, the Director shall submit to the Speaker of the House of Representatives and the President pro tempore of the Senate a report that includes with respect to each State—
   - **(1)** the aggregate amount of grants made under this chapter to the State and units of local government in the State for such fiscal year; and
   - **(2)** a summary of the information provided in compliance with subsection (a)(1) of this section.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 1406](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 101–647, title II, § 241(a)(2)](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4812](https://www.govinfo.gov/link/statute/104/4812); amended [Pub. L. 103–322, title IV, § 40156(c)(6)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1924](https://www.govinfo.gov/link/statute/108/1924).)*

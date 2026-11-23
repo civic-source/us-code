@@ -3,9 +3,10 @@ title: "Section 3932 - Reports to Congress"
 usc_title: 16
 usc_section: "3932"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3932"
-generated_at: "2026-03-30T02:54:23.038Z"
+generated_at: "2026-11-23T20:26:20.725Z"
+status: "active"
 ---
 
 # § 3932. Reports to Congress
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:23.038Z"
     - **(C)** the commodity loans and purchases program and cotton, feed grain, wheat, and rice production stabilization programs administered by the Department of Agriculture; and
     - **(D)** Federal expenditures for the construction of publicly owned or publicly operated highways, roads, structures, or facilities that are essential links in a larger network or system; and
   - **(7)** recommendations for the conservation of wetlands resources based on an evaluation and comparison of all management alternatives, and combinations of management alternatives, such as State and local actions, Federal actions, and initiatives by private organizations and individuals.
+
+## Source Credit
+
+*([Pub. L. 99–645, title IV, § 402](https://www.govinfo.gov/link/plaw/99/public/645), Nov. 10, 1986, [100 Stat. 3589](https://www.govinfo.gov/link/statute/100/3589).)*

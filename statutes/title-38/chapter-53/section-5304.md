@@ -3,9 +3,10 @@ title: "Section 5304 - Prohibition against duplication of benefits"
 usc_title: 38
 usc_section: "5304"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 5304"
-generated_at: "2026-03-30T02:55:53.520Z"
+generated_at: "2026-11-23T20:27:01.956Z"
+status: "active"
 ---
 
 # § 5304. Prohibition against duplication of benefits
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:53.520Z"
 - **(d)**
   - **(1)** Other than amounts payable under section 1413a or 1414 of title 10, the amount of pension and compensation benefits payable to a person under this title shall be reduced by the amount of any lump sum payment made to such person under section 1415 of title 10 .
   - **(2)** The Secretary shall collect any reduction under paragraph (1) from amounts otherwise payable to the person under this title, including pension and compensation payable under this title, before any pension and compensation payments under this title may be paid to the person.
+
+## Source Credit
+
+*([Pub. L. 85–857](https://www.govinfo.gov/link/plaw/85/public/857), Sept. 2, 1958, [72 Stat. 1230](https://www.govinfo.gov/link/statute/72/1230), § 3104; [Pub. L. 86–495, § 1](https://www.govinfo.gov/link/plaw/86/public/495), June 8, 1960, [74 Stat. 163](https://www.govinfo.gov/link/statute/74/163); [Pub. L. 88–664, § 9](https://www.govinfo.gov/link/plaw/88/public/664), Oct. 13, 1964, [78 Stat. 1096](https://www.govinfo.gov/link/statute/78/1096); [Pub. L. 91–376, § 6](https://www.govinfo.gov/link/plaw/91/public/376), Aug. 12, 1970, [84 Stat. 790](https://www.govinfo.gov/link/statute/84/790); [Pub. L. 95–588, title III, § 304](https://www.govinfo.gov/link/plaw/95/public/588), Nov. 4, 1978, [92 Stat. 2507](https://www.govinfo.gov/link/statute/92/2507); [Pub. L. 96–385, title V, § 503(a)](https://www.govinfo.gov/link/plaw/96/public/385), Oct. 7, 1980, [94 Stat. 1534](https://www.govinfo.gov/link/statute/94/1534); [Pub. L. 99–576, title VII, § 701(71)](https://www.govinfo.gov/link/plaw/99/public/576), Oct. 28, 1986, [100 Stat. 3297](https://www.govinfo.gov/link/statute/100/3297); renumbered § 5304 and amended [Pub. L. 102–40, title IV, § 402(b)(1)](https://www.govinfo.gov/link/plaw/102/public/40), (d)(1), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238), 239; [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(a)(1), 5(c)(1), Aug. 6, 1991, [105 Stat. 403](https://www.govinfo.gov/link/statute/105/403), 406; [Pub. L. 108–454, title III, § 308(a)](https://www.govinfo.gov/link/plaw/108/public/454), Dec. 10, 2004, [118 Stat. 3614](https://www.govinfo.gov/link/statute/118/3614); [Pub. L. 114–92, div. A, title VI, § 633(b)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 850](https://www.govinfo.gov/link/statute/129/850).)*

@@ -3,9 +3,10 @@ title: "Section 1132 - Definitions"
 usc_title: 20
 usc_section: "1132"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1132"
-generated_at: "2026-03-30T02:54:48.146Z"
+generated_at: "2026-11-23T20:26:14.560Z"
+status: "active"
 ---
 
 # § 1132. Definitions
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:48.146Z"
   - **(9)** the term “tribally controlled college or university” has the meaning given the term in section 1801 of title 25 ; and
   - **(10)** the term “undergraduate foreign language and area or international studies center” means an administrative unit of an institution of higher education, including but not limited to 4-year colleges, that contributes significantly to the national interest through the education and training of students who matriculate into advanced language and area studies programs, professional school programs, or incorporates substantial international and foreign language content into baccalaureate degree programs, engages in research, curriculum development and community outreach activities designed to broaden international and foreign language knowledge, employs faculty with strong language, area, and international studies credentials, maintains library holdings, including basic reference works, journals, and works in translation, and makes training available predominantly to undergraduate students.
 - **(b)** All references to individuals or organizations, unless the context otherwise requires, mean individuals who are citizens or permanent residents of the United States or organizations which are organized or incorporated in the United States.
+
+## Source Credit
+
+*([Pub. L. 89–329, title VI, § 631](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 102–325, title VI, § 601](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 736](https://www.govinfo.gov/link/statute/106/736); amended [Pub. L. 105–244, title I, § 102(b)(8)](https://www.govinfo.gov/link/plaw/105/public/244), title VI, § 604(a), Oct. 7, 1998, [112 Stat. 1622](https://www.govinfo.gov/link/statute/112/1622), 1786; [Pub. L. 110–315, title VI, § 621](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3342](https://www.govinfo.gov/link/statute/122/3342); [Pub. L. 111–39, title VI, § 601(b)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1954](https://www.govinfo.gov/link/statute/123/1954).)*

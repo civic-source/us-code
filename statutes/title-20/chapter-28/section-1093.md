@@ -3,9 +3,10 @@ title: "Section 1093 - Distance education demonstration programs"
 usc_title: 20
 usc_section: "1093"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1093"
-generated_at: "2026-03-30T02:54:48.136Z"
+generated_at: "2026-11-23T20:26:14.524Z"
+status: "active"
 ---
 
 # § 1093. Distance education demonstration programs
@@ -66,3 +67,7 @@ generated_at: "2026-03-30T02:54:48.136Z"
   - **(2)** audio or computer conferencing;
   - **(3)** video cassettes or discs; or
   - **(4)** correspondence.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 486](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title IV, § 407(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1487](https://www.govinfo.gov/link/statute/100/1487); amended [Pub. L. 102–325, title IV, § 489](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 624](https://www.govinfo.gov/link/statute/106/624); [Pub. L. 105–244, title IV, § 488](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1746](https://www.govinfo.gov/link/statute/112/1746); [Pub. L. 110–315, title I, § 103(b)(12)](https://www.govinfo.gov/link/plaw/110/public/315), title IV, § 491, Aug. 14, 2008, [122 Stat. 3090](https://www.govinfo.gov/link/statute/122/3090), 3307.)*

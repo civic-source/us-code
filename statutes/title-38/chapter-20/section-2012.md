@@ -3,9 +3,10 @@ title: "Section 2012 - Per diem payments"
 usc_title: 38
 usc_section: "2012"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 2012"
-generated_at: "2026-03-30T02:55:53.493Z"
+generated_at: "2026-11-23T20:27:01.762Z"
+status: "active"
 ---
 
 # § 2012. Per diem payments
@@ -59,3 +60,23 @@ generated_at: "2026-03-30T02:55:53.493Z"
   - **(1)** The average rate for such a payment.
   - **(2)** A list of locations where the rate for such a payment is within 10 percent of the maximum rate for such a payment authorized under this section.
   - **(3)** The average length of stay by a veteran participating in a program described in section 2012(a) of this title .
+
+Per Diem Payments for Furnishing Services to Homeless Veterans
+
+(aa) may not result in a rate that— (AA) is lower than the rate in effect under this paragraph as in effect immediately preceding the date of the enactment of the Navy SEAL Bill Mulder Act of 2020; or (BB) exceeds the rate that is 115 percent (or, during the period beginning on the date of the enactment of the Housing our Military Veterans Effectively Act of 2024 and ending on September 30, 2027 , 133 percent) of the rate authorized for State homes for domiciliary care under subsection (a)(1)(A) of section 1741 of this title , as the Secretary may increase from time to time under subsection (c) of that section; and
+
+(bb) may be determined on the basis of locality.
+
+Inspections
+
+Life Safety Code
+
+Per Diem Payments to Nonconforming Entities
+
+Reimbursement of Entities for Certain Fees
+
+Reports Required
+
+## Source Credit
+
+*(Added [Pub. L. 107–95, § 5(a)(1)](https://www.govinfo.gov/link/plaw/107/public/95), Dec. 21, 2001, [115 Stat. 908](https://www.govinfo.gov/link/statute/115/908); amended [Pub. L. 111–163, title VII, § 701](https://www.govinfo.gov/link/plaw/111/public/163), May 5, 2010, [124 Stat. 1174](https://www.govinfo.gov/link/statute/124/1174); [Pub. L. 114–315, title VII, § 711](https://www.govinfo.gov/link/plaw/114/public/315), Dec. 16, 2016, [130 Stat. 1586](https://www.govinfo.gov/link/statute/130/1586); [Pub. L. 116–315, title IV, § 4204](https://www.govinfo.gov/link/plaw/116/public/315), Jan. 5, 2021, [134 Stat. 5013](https://www.govinfo.gov/link/statute/134/5013); [Pub. L. 118–210, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/118/public/210), Jan. 2, 2025, [138 Stat. 2794](https://www.govinfo.gov/link/statute/138/2794).)*

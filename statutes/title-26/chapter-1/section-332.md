@@ -3,9 +3,10 @@ title: "Section 332 - Complete liquidations of subsidiaries"
 usc_title: 26
 usc_section: "332"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 332"
-generated_at: "2026-03-30T02:55:27.665Z"
+generated_at: "2026-11-23T20:26:45.572Z"
+status: "active"
 ---
 
 # § 332. Complete liquidations of subsidiaries
@@ -29,3 +30,13 @@ generated_at: "2026-03-30T02:55:27.665Z"
     - **(B)** For purposes of this subsection, the term “affiliated group” has the meaning given such term by section 1504(a) (without regard to paragraph (2) of section 1504(b)).
   - **(3)** If the distributee of a distribution described in paragraph (1) is a controlled foreign corporation (as defined in section 957), then notwithstanding paragraph (1) or subsection (a), such distribution shall be treated as a distribution to which section 331 applies.
   - **(4)** The Secretary shall provide such regulations as appropriate to prevent the abuse of this subsection, including regulations which provide, for the purposes of clause (iv) of paragraph (2)(A), that a corporation is not in existence for any period unless it is engaged in the active conduct of a trade or business or owns a significant ownership interest in another corporation so engaged.
+
+In general
+
+Certain distributions made after december 31, 1984
+
+Transitional rule for affiliated groups
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 102; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 99–514, title VI, § 631(e)(2)](https://www.govinfo.gov/link/plaw/99/public/514), title XVIII, § 1804(e)(6)(A), Oct. 22, 1986, [100 Stat. 2273](https://www.govinfo.gov/link/statute/100/2273), 2803; [Pub. L. 105–277, div. J, title III, § 3001(a)](https://www.govinfo.gov/link/plaw/105/public/277), (b)(1), Oct. 21, 1998, [112 Stat. 2681–904](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 108–357, title VIII, § 893(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1646](https://www.govinfo.gov/link/statute/118/1646); [Pub. L. 109–135, title IV, § 412(v)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2638](https://www.govinfo.gov/link/statute/119/2638); [Pub. L. 115–141, div. U, title IV, § 401(d)(1)(D)(xvii)(III)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1208](https://www.govinfo.gov/link/statute/132/1208).)*

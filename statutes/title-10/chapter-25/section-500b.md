@@ -3,9 +3,10 @@ title: "Section 500b - Annual report on electromagnetic spectrum operations stra
 usc_title: 10
 usc_section: "500b"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 500b"
-generated_at: "2026-03-30T02:53:38.063Z"
+generated_at: "2026-11-23T20:25:50.977Z"
+status: "active"
 ---
 
 # § 500b. Annual report on electromagnetic spectrum operations strategy of the Department of Defense
@@ -27,3 +28,11 @@ generated_at: "2026-03-30T02:53:38.063Z"
     - **(G)** whether or not the program or project is redundant or overlaps with the efforts of another military department; and
     - **(H)** the capability gap that the program or project is being developed or procured to fulfill.
   - **(4)** A classified annex that contains the items described in subparagraphs (A) through (H) of paragraph (3) for each classified program or project on the list required by paragraph (2).
+
+In General
+
+Contents of Report
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title XVI, § 1682(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 614](https://www.govinfo.gov/link/statute/137/614), § 502; renumbered § 500b, [Pub. L. 118–159, div. A, title XVII, § 1701(a)(10)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2203](https://www.govinfo.gov/link/statute/138/2203).)*

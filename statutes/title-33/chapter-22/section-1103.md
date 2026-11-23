@@ -3,9 +3,10 @@ title: "Section 1103 - Executive responsibilities; utilization of staff, interag
 usc_title: 33
 usc_section: "1103"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1103"
-generated_at: "2026-03-30T02:55:41.080Z"
+generated_at: "2026-11-23T20:26:53.956Z"
+status: "active"
 ---
 
 # § 1103. Executive responsibilities; utilization of staff, interagency, and non-Government advisory arrangements; consultation with agencies; solicitation of views of non-Federal agencies
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:41.080Z"
   - **(6)** establish long-range studies of the potential benefits to the United States economy, security, health, and welfare to be gained from marine resources, engineering, and science, and the costs involved in obtaining such benefits; and
   - **(7)** review annually all marine science activities conducted by departments and agencies of the United States in light of the policies, plans, programs, and priorities developed pursuant to this Act.
 - **(b)** In the planning and conduct of a coordinated Federal program the President and the Council shall utilize such staff, interagency, and non-Government advisory arrangements as they may find necessary and appropriate and shall consult with departments and agencies concerned with marine science activities and solicit the views of non-Federal organizations and individuals with capabilities in marine sciences.
+
+## Source Credit
+
+*([Pub. L. 89–454, title I, § 4](https://www.govinfo.gov/link/plaw/89/public/454), June 17, 1966, [80 Stat. 205](https://www.govinfo.gov/link/statute/80/205); [Pub. L. 89–688, § 2(b)](https://www.govinfo.gov/link/plaw/89/public/688), Oct. 15, 1966, [80 Stat. 1001](https://www.govinfo.gov/link/statute/80/1001).)*

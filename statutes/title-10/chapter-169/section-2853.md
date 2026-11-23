@@ -3,9 +3,10 @@ title: "Section 2853 - Authorized cost and scope of work variations"
 usc_title: 10
 usc_section: "2853"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2853"
-generated_at: "2026-03-30T02:53:38.179Z"
+generated_at: "2026-11-23T20:25:51.736Z"
+status: "active"
 ---
 
 # § 2853. Authorized cost and scope of work variations
@@ -55,3 +56,21 @@ generated_at: "2026-03-30T02:53:38.179Z"
   - **(4)** Each report under this subsection shall be cosigned by the senior engineer authorized to supervise military construction projects and military family housing projects under section 2851(a).
   - **(5)** The Secretary shall send the report required under paragraph (1) with respect to a project not later than 180 days after the Secretary sends to the appropriate committees of Congress the notification under paragraph (1) of subsection (c) of a cost increase with respect to the project.
 - **(g)** Notwithstanding the authority under subsections (a) through (f), the Secretary concerned shall ensure compliance of contracts for military construction projects and for the construction, improvement, and acquisition of military family housing projects with section 1341 of title 31 (commonly referred to as the “Anti-Deficiency Act”).
+
+Cost Variations Authorized; Limitation
+
+Scope of Work Variations Authorized; Limitation
+
+Exceptions to Limitation on Cost Variations and Scope of Work Reductions
+
+Exceptions to Limitation on Scope of Work Increases
+
+Additional Cost Variation Exceptions
+
+Additional Reporting Requirement for Certain Cost Increases
+
+Relation to Other Law
+
+## Source Credit
+
+*(Added [Pub. L. 97–214, § 2(a)](https://www.govinfo.gov/link/plaw/97/public/214), July 12, 1982, [96 Stat. 164](https://www.govinfo.gov/link/statute/96/164); amended [Pub. L. 98–407, title VIII, § 807](https://www.govinfo.gov/link/plaw/98/public/407), Aug. 28, 1984, [98 Stat. 1521](https://www.govinfo.gov/link/statute/98/1521); [Pub. L. 100–26, § 7(f)(2)](https://www.govinfo.gov/link/plaw/100/public/26), Apr. 21, 1987, [101 Stat. 281](https://www.govinfo.gov/link/statute/101/281); [Pub. L. 100–180, div. B](https://www.govinfo.gov/link/plaw/100/public/180), subdiv. 3, title I, §§ 2312, 2313, Dec. 4, 1987, [101 Stat. 1217](https://www.govinfo.gov/link/statute/101/1217), 1218; [Pub. L. 101–189, div. B, title XXVIII, § 2808](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1648](https://www.govinfo.gov/link/statute/103/1648); [Pub. L. 104–106, div. B, title XXVIII, § 2817](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 553](https://www.govinfo.gov/link/statute/110/553); [Pub. L. 107–107, div. B, title XXVIII, § 2802](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1305](https://www.govinfo.gov/link/statute/115/1305); [Pub. L. 108–375, div. B, title XXVIII, § 2803](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2121](https://www.govinfo.gov/link/statute/118/2121); [Pub. L. 109–163, div. B, title XXVIII, § 2804(a)](https://www.govinfo.gov/link/plaw/109/public/163) –(c)(1), Jan. 6, 2006, [119 Stat. 3506](https://www.govinfo.gov/link/statute/119/3506); [Pub. L. 109–364, div. B, title XXVIII, § 2806](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2468](https://www.govinfo.gov/link/statute/120/2468); [Pub. L. 111–84, div. B, title XXVIII, § 2803](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2661](https://www.govinfo.gov/link/statute/123/2661); [Pub. L. 112–81, div. B, title XXVIII, § 2802(c)(2)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1685](https://www.govinfo.gov/link/statute/125/1685); [Pub. L. 112–239, div. B, title XXVIII, § 2801](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2146](https://www.govinfo.gov/link/statute/126/2146); [Pub. L. 113–291, div. A, title X, § 1071(f)(24)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3511](https://www.govinfo.gov/link/statute/128/3511); [Pub. L. 114–328, div. B, title XXVIII, § 2803](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2712](https://www.govinfo.gov/link/statute/130/2712); [Pub. L. 115–91, div. B, title XXVIII](https://www.govinfo.gov/link/plaw/115/public/91), §§ 2801(c)(1), 2821, Dec. 12, 2017, [131 Stat. 1843](https://www.govinfo.gov/link/statute/131/1843), 1853; [Pub. L. 116–283, div. B, title XXVIII, § 2803(a)](https://www.govinfo.gov/link/plaw/116/public/283), (b), Jan. 1, 2021, [134 Stat. 4319](https://www.govinfo.gov/link/statute/134/4319), 4320; [Pub. L. 117–81, div. B, title XXVIII, § 2802](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2184](https://www.govinfo.gov/link/statute/135/2184); [Pub. L. 117–263, div. B, title XXVIII, § 2808](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2996](https://www.govinfo.gov/link/statute/136/2996).)*

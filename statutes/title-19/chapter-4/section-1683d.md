@@ -3,9 +3,10 @@ title: "Section 1683d - Reconciliation"
 usc_title: 19
 usc_section: "1683d"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1683d"
-generated_at: "2026-03-30T02:54:24.659Z"
+generated_at: "2026-11-23T20:26:10.880Z"
+status: "active"
 ---
 
 # § 1683d. Reconciliation
@@ -14,3 +15,7 @@ The Secretary of the Treasury shall conduct reconciliations to ensure the proper
 
   - **(1)** The export price declared by a United States importer pursuant to section 1683a(b)(1) of this title with the export price reported to the United States by the country of export, if any.
   - **(2)** The export price declared by a United States importer pursuant to section 1683a(b)(1) of this title with the revised export price reported to the United States by the country of export, if any.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title VIII, § 806, as added [Pub. L. 110–246, title III, § 3301(a)](https://www.govinfo.gov/link/plaw/110/public/246), June 18, 2008, [122 Stat. 1851](https://www.govinfo.gov/link/statute/122/1851).)*

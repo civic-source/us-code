@@ -3,9 +3,10 @@ title: "Section 6514 - Environmental analysis"
 usc_title: 16
 usc_section: "6514"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6514"
-generated_at: "2026-03-30T02:54:23.060Z"
+generated_at: "2026-11-23T20:26:20.800Z"
+status: "active"
 ---
 
 # § 6514. Environmental analysis
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:54:23.060Z"
 - **(f)** In order to encourage meaningful public participation during preparation of authorized hazardous fuel reduction projects, the Secretary shall facilitate collaboration among State and local governments and Indian tribes, and participation of interested persons, during the preparation of each authorized fuel reduction project in a manner consistent with the Implementation Plan.
 - **(g)** In accordance with section 102(2) of the National Environmental Policy Act of 1969 ( 42 U.S.C. 4332(2) ) and the applicable regulations and administrative guidelines, the Secretary shall provide an opportunity for public comment during the preparation of any environmental assessment or environmental impact statement for an authorized hazardous fuel reduction project.
 - **(h)** The Secretary shall sign a decision document for authorized hazardous fuel reduction projects and provide notice of the final agency actions.
+
+## Source Credit
+
+*([Pub. L. 108–148, title I, § 104](https://www.govinfo.gov/link/plaw/108/public/148), Dec. 3, 2003, [117 Stat. 1897](https://www.govinfo.gov/link/statute/117/1897).)*

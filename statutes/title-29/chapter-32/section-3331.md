@@ -3,9 +3,10 @@ title: "Section 3331 - Administrative provisions"
 usc_title: 29
 usc_section: "3331"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3331"
-generated_at: "2026-03-30T02:55:18.762Z"
+generated_at: "2026-11-23T20:26:38.151Z"
+status: "active"
 ---
 
 # § 3331. Administrative provisions
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:18.762Z"
   - **(2)** In computing the fiscal effort and aggregate expenditures under paragraph (1), the Secretary shall exclude capital expenditures and special one-time project costs.
   - **(3)** If the amount made available for adult education and literacy activities under this subchapter for a fiscal year is less than the amount made available for adult education and literacy activities under this subchapter for the preceding fiscal year, then the fiscal effort per student and the aggregate expenditures of an eligible agency required in order to avoid a reduction under paragraph (1)(B) shall be decreased by the same percentage as the percentage decrease in the amount so made available.
   - **(4)** The Secretary may waive the requirements of this subsection for not more than 1 fiscal year, if the Secretary determines that a waiver would be equitable due to exceptional or uncontrollable circumstances, such as a natural disaster or an unforeseen and precipitous decline in the financial resources of the State or outlying area of the eligible agency. If the Secretary grants a waiver under the preceding sentence for a fiscal year, the level of effort required under paragraph (1) shall not be reduced in the subsequent fiscal year because of the waiver.
+
+## Source Credit
+
+*([Pub. L. 113–128, title II, § 241](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1620](https://www.govinfo.gov/link/statute/128/1620).)*

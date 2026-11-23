@@ -3,9 +3,10 @@ title: "Section 2114 - Intellectual property and related items"
 usc_title: 36
 usc_section: "2114"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 2114"
-generated_at: "2026-03-30T02:55:44.691Z"
+generated_at: "2026-11-23T20:26:58.777Z"
+status: "active"
 ---
 
 # § 2114. Intellectual property and related items
@@ -19,3 +20,17 @@ generated_at: "2026-03-30T02:55:44.691Z"
 - **(c)** The Commission may enforce any mark, copyright, or patent by an action in the district courts under any law providing for the protection of such marks, copyrights, or patents.
 - **(d)** The Attorney General shall furnish the Commission with such legal representation as the Commission may require under subsection (c). The Secretary of Defense shall provide representation for the Commission in administrative proceedings before the Patent and Trademark Office and Copyright Office.
 - **(e)** Section 203 of title 17 shall not apply to any copyright transferred in any manner to the Commission.
+
+Authority To Use and Register Intellectual Property
+
+Authority To Grant Licenses
+
+Enforcement Authority
+
+Legal Representation
+
+Irrevocability of Transfers of Copyrights to Commission
+
+## Source Credit
+
+*(Added [Pub. L. 106–117, title VI, § 603(a)](https://www.govinfo.gov/link/plaw/106/public/117), Nov. 30, 1999, [113 Stat. 1579](https://www.govinfo.gov/link/statute/113/1579).)*

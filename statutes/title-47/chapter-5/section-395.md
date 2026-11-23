@@ -3,9 +3,10 @@ title: "Section 395 - Assistance for demonstration projects"
 usc_title: 47
 usc_section: "395"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 395"
-generated_at: "2026-03-30T02:56:24.513Z"
+generated_at: "2026-11-23T20:27:28.906Z"
+status: "active"
 ---
 
 # § 395. Assistance for demonstration projects
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:24.513Z"
 - **(i)** The Secretary is authorized to make such rules and regulations as may be necessary to carry out this subpart, including regulations relating to the order of priority in approving applications for projects under this subpart or to determining the amounts of grants for such projects.
 - **(j)** The Commission is authorized to provide such assistance in carrying out the provisions of this subpart as may be requested by the Secretary. The Secretary shall provide for close coordination with the Commission in the administration of the Secretary’s functions under this subpart which are of interest to or affect the functions of the Commission. The Secretary shall provide for close coordination with the Corporation in the administration of the Secretary’s functions under this subpart which are of interest to or affect the functions of the Corporation.
 - **(k)** There are authorized to be appropriated $1,000,000 for each of the fiscal years 1979, 1980, and 1981, to be used by the Secretary to carry out the provisions of this subpart. Sums appropriated under this subsection for any fiscal year shall remain available for payment of grants or contracts for projects for which applications approved under this subpart have been submitted within one year after the last day of such fiscal year.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title III, § 395, as added [Pub. L. 95–567, title II, § 201](https://www.govinfo.gov/link/plaw/95/public/567), Nov. 2, 1978, [92 Stat. 2409](https://www.govinfo.gov/link/statute/92/2409).)*

@@ -3,9 +3,10 @@ title: "Section 6729 - United States assistance in inspections at private facili
 usc_title: 22
 usc_section: "6729"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6729"
-generated_at: "2026-03-30T02:55:05.433Z"
+generated_at: "2026-11-23T20:26:32.631Z"
+status: "active"
 ---
 
 # § 6729. United States assistance in inspections at private facilities
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:05.433Z"
     - **(B)** in the calendar year preceding the year in which the assistance is to be provided, produced—
       - **(i)** more than 30 metric tons of Schedule 3 or unscheduled discrete organic chemicals that contain phosphorous, sulfur, or fluorine; or
       - **(ii)** more than 200 metric tons of unscheduled discrete organic chemicals.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. I, title III, § 310](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–880](https://www.govinfo.gov/link/statute/112/2681).)*

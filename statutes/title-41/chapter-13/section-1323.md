@@ -3,9 +3,10 @@ title: "Section 1323 - Functions and authorities"
 usc_title: 41
 usc_section: "1323"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 1323"
-generated_at: "2026-03-30T02:55:55.800Z"
+generated_at: "2026-11-23T20:27:04.387Z"
+status: "active"
 ---
 
 # § 1323. Functions and authorities
@@ -71,3 +72,43 @@ generated_at: "2026-03-30T02:55:55.800Z"
 - **(f)** Nothing in this section shall be construed—
   - **(1)** to limit the authority of the Office of Federal Procurement Policy to carry out the responsibilities of that Office under any other provision of law; or
   - **(2)** to authorize the issuance of an exclusion or removal order based solely on the fact of foreign ownership of a potential procurement source that is otherwise qualified to enter into procurement contracts with the Federal Government.
+
+In General
+
+Program Office and Committees
+
+Authority for Exclusion or Removal Orders.—
+
+Criteria
+
+Recommendations
+
+Notice of recommendation and review
+
+Confidentiality
+
+Exclusion and removal orders.—
+
+Order issuance
+
+Delegation
+
+Facilitation of exclusion orders
+
+Review of exclusion and removal orders
+
+Rescission
+
+Notifications
+
+Compliance
+
+Authority To Request Information
+
+Relationship to Other Councils
+
+Rules of Construction
+
+## Source Credit
+
+*(Added [Pub. L. 115–390, title II, § 202(a)](https://www.govinfo.gov/link/plaw/115/public/390), Dec. 21, 2018, [132 Stat. 5180](https://www.govinfo.gov/link/statute/132/5180).)*

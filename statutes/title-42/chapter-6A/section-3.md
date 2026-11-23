@@ -3,9 +3,10 @@ title: "Section 3 - Uniform data collection and analysis"
 usc_title: 42
 usc_section: "3"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-30T02:56:10.848Z"
+generated_at: "2026-11-23T20:27:20.713Z"
+status: "active"
 ---
 
 # § 300mm–3. Uniform data collection and analysis
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:10.848Z"
 - **(b)** Each Clinical Center of Excellence shall collect data described in subsection (a) and report such data to the corresponding Data Center for analysis by such Data Center.
 - **(c)** The WTC Program Administrator shall provide for collaboration between the Data Centers and the World Trade Center Health Registry described in section 300mm–52 of this title .
 - **(d)** The data collection and analysis under this section shall be conducted and maintained in a manner that protects the confidentiality of individually identifiable health information consistent with applicable statutes and regulations, including, as applicable, HIPAA privacy and security law (as defined in section 300jj–19(a)(2) of this title ) and section 552a of title 5 .
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXXIII, § 3304, as added [Pub. L. 111–347, title I, § 101](https://www.govinfo.gov/link/plaw/111/public/347), Jan. 2, 2011, [124 Stat. 3629](https://www.govinfo.gov/link/statute/124/3629).)*

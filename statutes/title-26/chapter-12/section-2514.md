@@ -3,9 +3,10 @@ title: "Section 2514 - Powers of appointment"
 usc_title: 26
 usc_section: "2514"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 2514"
-generated_at: "2026-03-30T02:55:27.784Z"
+generated_at: "2026-11-23T20:26:46.173Z"
+status: "active"
 ---
 
 # § 2514. Powers of appointment
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:27.784Z"
   - **(1)** $5,000, or
   - **(2)** 5 percent of the aggregate value of the assets out of which, or the proceeds of which, the exercise of the lapsed powers could be satisfied.
 - **(f)** For purposes of this section a power of appointment created by a will executed on or before October 21, 1942 , shall be considered a power created on or before such date if the person executing such will dies before July 1, 1949 , without having republished such will, by codicil or otherwise, after October 21, 1942 .
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 407; [Pub. L. 94–455, title XX, § 2009(b)(4)(F)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1894](https://www.govinfo.gov/link/statute/90/1894).)*

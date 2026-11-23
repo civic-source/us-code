@@ -3,9 +3,10 @@ title: "Section 1504 - Definitions"
 usc_title: 26
 usc_section: "1504"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1504"
-generated_at: "2026-03-30T02:55:27.777Z"
+generated_at: "2026-11-23T20:26:46.136Z"
+status: "active"
 ---
 
 # § 1504. Definitions
@@ -56,3 +57,59 @@ generated_at: "2026-03-30T02:55:27.777Z"
 - **(f)** In determining the consolidated taxable income of an affiliated group for any taxable year beginning after December 31, 1984 , a corporation which had been a DISC and which would otherwise be a member of such group shall not be treated as such a member with respect to—
   - **(1)** any distribution (or deemed distribution) of accumulated DISC income which was not treated as previously taxed income under section 805(b)(2)(A) of the Tax Reform Act of 1984, and
   - **(2)** any amount treated as received under section 805(b)(3) of such Act.
+
+In general
+
+Special rule for corporations affiliated on june 22, 1984
+
+Special rule not to apply to certain sell-downs after june 22, 1984
+
+Exception for certain sell-downs
+
+Native corporations.—
+
+Treatment of certain corporations affiliated on June 22, 1984
+
+Election to have amendments apply for years beginning after 1983
+
+Treatment of certain affiliated groups
+
+Treatment of certain corporations affiliated during 1971
+
+General Rule
+
+Exception for Existing Contracts.—
+
+In general
+
+limitation
+
+Special rule for corporations under title 11
+
+Special Administrative Rules.—
+
+Notice to native corporations of proposed tax adjustments
+
+Rights of native corporation.—
+
+In general
+
+Extension of statute of limitations
+
+Judicial proceedings
+
+Failures
+
+Disqualified Income Defined
+
+Basis Determination
+
+Limitations on carryovers or carrybacks for groups electing under section 1504(
+
+)(2)
+
+Nontermination of affiliated group
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 369; Mar. 13, 1956, ch. 83, § 5(8), [70 Stat. 49](https://www.govinfo.gov/link/statute/70/49); [Pub. L. 85–866, title I, § 64(d)(3)](https://www.govinfo.gov/link/plaw/85/public/866), Sept. 2, 1958, [72 Stat. 1657](https://www.govinfo.gov/link/statute/72/1657); [Pub. L. 86–69, § 3(f)(1)](https://www.govinfo.gov/link/plaw/86/public/69), June 25, 1959, [73 Stat. 140](https://www.govinfo.gov/link/statute/73/140); [Pub. L. 86–376, § 2(c)](https://www.govinfo.gov/link/plaw/86/public/376), Sept. 23, 1959, [73 Stat. 699](https://www.govinfo.gov/link/statute/73/699); [Pub. L. 86–779, § 10(j)](https://www.govinfo.gov/link/plaw/86/public/779), Sept. 14, 1960, [74 Stat. 1009](https://www.govinfo.gov/link/statute/74/1009); [Pub. L. 89–389, § 4(b)(3)](https://www.govinfo.gov/link/plaw/89/public/389), Apr. 14, 1966, [80 Stat. 116](https://www.govinfo.gov/link/statute/80/116); [Pub. L. 91–172, title I, § 121(a)(4)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 537](https://www.govinfo.gov/link/statute/83/537); [Pub. L. 92–178, title V, § 502(e)](https://www.govinfo.gov/link/plaw/92/public/178), Dec. 10, 1971, [85 Stat. 550](https://www.govinfo.gov/link/statute/85/550); [Pub. L. 94–455, title VIII, § 803(b)(3)](https://www.govinfo.gov/link/plaw/94/public/455), title X, §§ 1051(g), 1053(d)(2), title XV, § 1507(a), Oct. 4, 1976, [90 Stat. 1584](https://www.govinfo.gov/link/statute/90/1584), 1646, 1649, 1739; [Pub. L. 95–600, title I, § 141(f)(4)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2795](https://www.govinfo.gov/link/statute/92/2795); [Pub. L. 96–222, title I, § 101(a)(7)(L)(i)(VIII)](https://www.govinfo.gov/link/plaw/96/public/222), (iv)(II), Apr. 1, 1980, [94 Stat. 199](https://www.govinfo.gov/link/statute/94/199), 200; [Pub. L. 98–369, div. A, title I, § 60(a)](https://www.govinfo.gov/link/plaw/98/public/369), title II, § 211(b)(20), July 18, 1984, [98 Stat. 577](https://www.govinfo.gov/link/statute/98/577), 756; [Pub. L. 99–514, title X, § 1024(c)(15)](https://www.govinfo.gov/link/plaw/99/public/514), (16), title XVIII, §§ 1804(e)(1), (10), 1899A(35), Oct. 22, 1986, [100 Stat. 2408](https://www.govinfo.gov/link/statute/100/2408), 2800, 2804, 2960; [Pub. L. 100–647, title I, § 1018(d)(10)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3581](https://www.govinfo.gov/link/statute/102/3581); [Pub. L. 101–508, title XI, § 11814(b)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–557](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 104–188, title I](https://www.govinfo.gov/link/plaw/104/public/188), §§ 1308(d)(2), 1702(h)(6), Aug. 20, 1996, [110 Stat. 1783](https://www.govinfo.gov/link/statute/110/1783), 1874; [Pub. L. 113–295, div. A, title II, § 221(a)(93)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4050](https://www.govinfo.gov/link/statute/128/4050); [Pub. L. 115–141, div. U, title IV, § 401(d)(1)(D)(xvii)(I)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1208](https://www.govinfo.gov/link/statute/132/1208).)*

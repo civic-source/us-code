@@ -3,9 +3,10 @@ title: "Section 7426 - Civil actions by persons other than taxpayers"
 usc_title: 26
 usc_section: "7426"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 7426"
-generated_at: "2026-03-30T02:55:27.871Z"
+generated_at: "2026-11-23T20:26:46.762Z"
+status: "active"
 ---
 
 # § 7426. Civil actions by persons other than taxpayers
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:55:27.871Z"
   - **(2)** The rules of section 7433(d) shall apply for purposes of this subsection.
   - **(3)** Claims pursuant to this section shall be payable out of funds appropriated under section 1304 of title 31 , United States Code.
 - **(i)** For period of limitation, see section 6532(c).
+
+## Source Credit
+
+*(Added [Pub. L. 89–719, title I, § 110(a)](https://www.govinfo.gov/link/plaw/89/public/719), Nov. 2, 1966, [80 Stat. 1142](https://www.govinfo.gov/link/statute/80/1142); amended [Pub. L. 93–625, § 7(a)(2)(E)](https://www.govinfo.gov/link/plaw/93/public/625), Jan. 3, 1975, [88 Stat. 2115](https://www.govinfo.gov/link/statute/88/2115); [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 97–248, title III, § 350(a)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 639](https://www.govinfo.gov/link/statute/96/639); [Pub. L. 99–514, title XV, § 1511(c)(16)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2745](https://www.govinfo.gov/link/statute/100/2745); [Pub. L. 105–206, title III](https://www.govinfo.gov/link/plaw/105/public/206), §§ 3102(b), 3106(b)(1), (2), July 22, 1998, [112 Stat. 730](https://www.govinfo.gov/link/statute/112/730), 733.)*

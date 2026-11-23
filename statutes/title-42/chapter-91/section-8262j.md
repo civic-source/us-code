@@ -3,9 +3,10 @@ title: "Section 8262j - Energy management requirements for United States Postal 
 usc_title: 42
 usc_section: "8262j"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8262j"
-generated_at: "2026-03-30T02:56:11.339Z"
+generated_at: "2026-11-23T20:27:23.026Z"
+status: "active"
 ---
 
 # § 8262j. Energy management requirements for United States Postal Service
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.339Z"
   - **(2)** perform energy surveys of United States Postal Service facilities as necessary to achieve the requirements of this section;
   - **(3)** install those energy conservation measures that will attain the requirements of this section in a cost-effective manner as defined in section 8254 of this title ; and
   - **(4)** ensure that the operation and maintenance procedures applied under this section are continued.
+
+## Source Credit
+
+*([Pub. L. 102–486, title I, § 166](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2861](https://www.govinfo.gov/link/statute/106/2861).)*

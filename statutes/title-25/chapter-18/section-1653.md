@@ -3,9 +3,10 @@ title: "Section 1653 - Contracts and grants for provision of health care and ref
 usc_title: 25
 usc_section: "1653"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1653"
-generated_at: "2026-03-30T02:54:52.824Z"
+generated_at: "2026-11-23T20:26:25.503Z"
+status: "active"
 ---
 
 # § 1653. Contracts and grants for provision of health care and referral services
@@ -62,3 +63,7 @@ generated_at: "2026-03-30T02:54:52.824Z"
     - **(A)** the support for the urban Indian organization demonstrated by the child protection authorities in the area, including committees or other services funded under the Indian Child Welfare Act of 1978 ( 25 U.S.C. 1901 et seq.), if any;
     - **(B)** the capability and expertise demonstrated by the urban Indian organization to address the complex problem of child sexual abuse in the community; and
     - **(C)** the assessment required under paragraph (2).
+
+## Source Credit
+
+*([Pub. L. 94–437, title V, § 503](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 100–713, title V, § 501](https://www.govinfo.gov/link/plaw/100/public/713), Nov. 23, 1988, [102 Stat. 4821](https://www.govinfo.gov/link/statute/102/4821); amended [Pub. L. 101–630, title V, § 505](https://www.govinfo.gov/link/plaw/101/public/630), Nov. 28, 1990, [104 Stat. 4564](https://www.govinfo.gov/link/statute/104/4564); [Pub. L. 102–573, title V](https://www.govinfo.gov/link/plaw/102/public/573), §§ 501(b)(1), 505(b)(1), Oct. 29, 1992, [106 Stat. 4567](https://www.govinfo.gov/link/statute/106/4567), 4570.)*

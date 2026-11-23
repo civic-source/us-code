@@ -3,9 +3,10 @@ title: "Section 936e - Administrative prohibitions applicable to certain electri
 usc_title: 7
 usc_section: "936e"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 936e"
-generated_at: "2026-03-30T02:53:42.297Z"
+generated_at: "2026-11-23T20:25:41.088Z"
+status: "active"
 ---
 
 # § 936e. Administrative prohibitions applicable to certain electric borrowers
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:42.297Z"
 - **(b)** At the request of a private lender providing financing to such a borrower for a capital investment, the Secretary shall, expeditiously, either offer to share the government’s lien on the borrower’s system or offer to subordinate the government’s lien on that property financed by the private lender.
 - **(c)** In issuing regulations implementing this section, the Secretary may establish requirements, guided by the practices of private lenders, to ensure that the security for any loan made or guaranteed under this chapter is reasonably adequate.
 - **(d)** Nothing in this section limits the authority of the Secretary to establish terms and conditions with respect to the use by borrowers of the proceeds of loans made or guaranteed under this chapter or to take any other action specifically authorized by law.
+
+## Source Credit
+
+*(May 20, 1936, ch. 432, title III, § 306E, as added [Pub. L. 103–129, § 2(c)(7)](https://www.govinfo.gov/link/plaw/103/public/129), Nov. 1, 1993, [107 Stat. 1365](https://www.govinfo.gov/link/statute/107/1365); amended [Pub. L. 103–201, § 1](https://www.govinfo.gov/link/plaw/103/public/201), Dec. 17, 1993, [107 Stat. 2342](https://www.govinfo.gov/link/statute/107/2342); [Pub. L. 103–354, title II, § 235(a)(8)](https://www.govinfo.gov/link/plaw/103/public/354), (13), Oct. 13, 1994, [108 Stat. 3221](https://www.govinfo.gov/link/statute/108/3221).)*

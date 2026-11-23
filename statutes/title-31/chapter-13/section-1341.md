@@ -3,9 +3,10 @@ title: "Section 1341 - Limitations on expending and obligating amounts"
 usc_title: 31
 usc_section: "1341"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 1341"
-generated_at: "2026-03-30T02:55:34.051Z"
+generated_at: "2026-11-23T20:26:51.724Z"
+status: "active"
 ---
 
 # § 1341. Limitations on expending and obligating amounts
@@ -29,3 +30,35 @@ generated_at: "2026-03-30T02:55:34.051Z"
     - **(D)** the term “excepted employee” means an excepted employee or an employee performing emergency work, as such terms are defined by the Office of Personnel Management or the appropriate District of Columbia public employer, as applicable.
   - **(2)** Each employee of the United States Government or of a District of Columbia public employer furloughed as a result of a covered lapse in appropriations shall be paid for the period of the lapse in appropriations, and each excepted employee who is required to perform work during a covered lapse in appropriations shall be paid for such work, at the employee’s standard rate of pay, at the earliest date possible after the lapse in appropriations ends, regardless of scheduled pay dates, and subject to the enactment of appropriations Acts ending the lapse.
   - **(3)** During a covered lapse in appropriations, each excepted employee who is required to perform work shall be entitled to use leave under chapter 63 of title 5, or any other applicable law governing the use of leave by the excepted employee, for which compensation shall be paid at the earliest date possible after the lapse in appropriations ends, regardless of scheduled pay dates.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1341(a) | 31:665(a), (d)(2)(last sentence related to spending and obligations). | R.S. § 3679(a), (d)(2)(last sentence related to spending and obligations); Mar. 3, 1905, ch. 1484, § 4 (1st par.), 33 Stat. 1257 ; Feb. 27, 1906, ch. 510, § 3 , 34 Stat. 48 ; restated Sept. 6, 1950, ch. 896, § 1211 , 64 Stat. 765 . |
+| 1341(b) | 31:669(words after semicolon). | Aug. 23, 1912, ch. 350, § 6 (words after semicolon), 37 Stat. 414 . |
+
+
+Historical and Revision Notes
+
+1341(a)
+
+Mar. 3, 1905, ch. 1484, § 4
+
+33 Stat. 1257
+
+Feb. 27, 1906, ch. 510, § 3
+
+34 Stat. 48
+
+Sept. 6, 1950, ch. 896, § 1211
+
+64 Stat. 765
+
+1341(b)
+
+Aug. 23, 1912, ch. 350, § 6
+
+37 Stat. 414
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 923](https://www.govinfo.gov/link/statute/96/923); [Pub. L. 101–508, title XIII, § 13213(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–621](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 116–1, § 2](https://www.govinfo.gov/link/plaw/116/public/1), Jan. 16, 2019, [133 Stat. 3](https://www.govinfo.gov/link/statute/133/3); [Pub. L. 116–5, § 103](https://www.govinfo.gov/link/plaw/116/public/5), Jan. 25, 2019, [133 Stat. 11](https://www.govinfo.gov/link/statute/133/11).)*

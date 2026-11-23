@@ -3,9 +3,10 @@ title: "Section 1226 - Apprehension and detention of aliens"
 usc_title: 8
 usc_section: "1226"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1226"
-generated_at: "2026-03-30T02:53:10.486Z"
+generated_at: "2026-11-23T20:25:36.152Z"
+status: "active"
 ---
 
 # § 1226. Apprehension and detention of aliens
@@ -40,3 +41,35 @@ generated_at: "2026-03-30T02:53:10.486Z"
   - **(3)** Upon the request of the governor or chief executive officer of any State, the Service shall provide assistance to State courts in the identification of aliens unlawfully present in the United States pending criminal prosecution.
 - **(e)** The Attorney General’s discretionary judgment regarding the application of this section shall not be subject to review. No court may set aside any action or decision by the Attorney General under this section regarding the detention of any alien or the revocation or denial of bond or parole.
 - **(f)** The attorney general of a State, or other authorized State officer, alleging an action or decision by the Attorney General or Secretary of Homeland Security under this section to release any alien or grant bond or parole to any alien that harms such State or its residents shall have standing to bring an action against the Attorney General or Secretary of Homeland Security on behalf of such State or the residents of such State in an appropriate district court of the United States to obtain appropriate injunctive relief. The court shall advance on the docket and expedite the disposition of a civil action filed under this subsection to the greatest extent practicable. For purposes of this subsection, a State or its residents shall be considered to have been harmed if the State or its residents experience harm, including financial harm in excess of $100.
+
+In general
+
+Notification regarding custody
+
+Transition period custody rules.—
+
+In general
+
+Release
+
+Establishment of Program
+
+Description of Program
+
+Selection of Facilities.—
+
+In general
+
+Number of qualifying subdivisions
+
+Facilities in interior states
+
+Treatment of certain facilities
+
+Operation and Purpose
+
+Authorization of Appropriations
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 4, § 236, [66 Stat. 200](https://www.govinfo.gov/link/statute/66/200); [Pub. L. 101–649, title V, § 504(b)](https://www.govinfo.gov/link/plaw/101/public/649), title VI, § 603(a)(12), Nov. 29, 1990, [104 Stat. 5050](https://www.govinfo.gov/link/statute/104/5050), 5083; [Pub. L. 102–232, title III, § 306(a)(5)](https://www.govinfo.gov/link/plaw/102/public/232), Dec. 12, 1991, [105 Stat. 1751](https://www.govinfo.gov/link/statute/105/1751); [Pub. L. 104–208, div. C, title III](https://www.govinfo.gov/link/plaw/104/public/208), §§ 303(a), 371(b)(5), Sept. 30, 1996, [110 Stat. 3009–585](https://www.govinfo.gov/link/statute/110/3009), 3009–645; [Pub. L. 119–1](https://www.govinfo.gov/link/plaw/119/public/1), §§ 2, 3(b), Jan. 29, 2025, [139 Stat. 3](https://www.govinfo.gov/link/statute/139/3), 4.)*

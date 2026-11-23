@@ -3,9 +3,10 @@ title: "Section 7881 - Participation by private school children and teachers"
 usc_title: 20
 usc_section: "7881"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 7881"
-generated_at: "2026-03-30T02:54:48.220Z"
+generated_at: "2026-11-23T20:26:14.948Z"
+status: "active"
 ---
 
 # § 7881. Participation by private school children and teachers
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:54:48.220Z"
       - **(ii)** through contract by the public agency with an individual, association, agency, organization, or other entity.
     - **(B)** In the provision of those services, the employee, person, association, agency, organization, or other entity shall be independent of the private school and of any religious organization, and the employment or contract shall be under the control and supervision of the public agency.
     - **(C)** Funds used to provide services under this section shall not be commingled with non-Federal funds.
+
+## Source Credit
+
+*([Pub. L. 89–10, title VIII, § 8501](https://www.govinfo.gov/link/plaw/89/public/10), formerly title IX, § 9501, as added [Pub. L. 107–110, title IX, § 901](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1975](https://www.govinfo.gov/link/statute/115/1975); renumbered title VIII, § 8501, and amended [Pub. L. 114–95, title VIII](https://www.govinfo.gov/link/plaw/114/public/95), §§ 8001(a)(5), 8015, Dec. 10, 2015, [129 Stat. 2088](https://www.govinfo.gov/link/statute/129/2088), 2089, 2109; [Pub. L. 115–64, § 3](https://www.govinfo.gov/link/plaw/115/public/64), Sept. 29, 2017, [131 Stat. 1189](https://www.govinfo.gov/link/statute/131/1189).)*

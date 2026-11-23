@@ -3,9 +3,10 @@ title: "Section 803 - Coronavirus local fiscal recovery fund"
 usc_title: 42
 usc_section: "803"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 803"
-generated_at: "2026-03-30T02:56:10.897Z"
+generated_at: "2026-11-23T20:27:20.949Z"
+status: "active"
 ---
 
 # § 803. Coronavirus local fiscal recovery fund
@@ -83,3 +84,15 @@ generated_at: "2026-03-30T02:56:10.897Z"
   - **(8)** The term “Secretary” means the Secretary of the Treasury.
   - **(9)** The term “State” means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, and American Samoa.
   - **(10)** The term “unit of general local government” has the meaning given that term in section 5302(a)(1) of this title .
+
+(aa) In general If a State has been granted an extension to the distribution period under subclause (I) but is unable to make all the distributions required under clause (i) before the end of such period as extended, an authorized officer of the State may request an additional extension of the distribution period of not more than 30 days. The Secretary may grant a request for an additional extension of such period only if— (AA) the authorized officer making such request provides a written plan to the Secretary specifying, for each distribution for which an additional extension is requested, when the State expects to make such distribution and the actions the State has taken and will take in order to make all such distributions before the end of the distribution period (as extended under subclause (I) and this subclause); and (BB) the Secretary determines that such plan is reasonably designed to distribute all such funds to nonentitlement units of local government by the end of the distribution period (as so extended).
+
+(bb) Further additional extensions If a State granted an additional extension of the distribution period under item (aa) requires any further additional extensions of such period, the request only may be made and granted subject to the requirements specified in item (aa).
+
+(aa) $10,000,000; and
+
+(bb) 30 percent of such payment.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title VI, § 603, as added [Pub. L. 117–2, title IX, § 9901(a)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 228](https://www.govinfo.gov/link/statute/135/228); amended [Pub. L. 117–58, div. D, title IX, § 40909(b)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1126](https://www.govinfo.gov/link/statute/135/1126); [Pub. L. 117–328, div. LL, § 102(a)(2)](https://www.govinfo.gov/link/plaw/117/public/328), (b), Dec. 29, 2022, [136 Stat. 6101](https://www.govinfo.gov/link/statute/136/6101), 6103.)*

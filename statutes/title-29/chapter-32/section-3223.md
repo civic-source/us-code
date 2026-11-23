@@ -3,9 +3,10 @@ title: "Section 3223 - Technical assistance"
 usc_title: 29
 usc_section: "3223"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3223"
-generated_at: "2026-03-30T02:55:18.757Z"
+generated_at: "2026-11-23T20:26:38.116Z"
+status: "active"
 ---
 
 # § 3223. Technical assistance
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:18.757Z"
   - **(1)** establish a system through which States may share information regarding promising and proven practices with regard to the operation of workforce investment activities under this Act;
   - **(2)** evaluate and disseminate information regarding such promising and proven practices and identify knowledge gaps; and
   - **(3)** commission research under section 3224(b) of this title to address knowledge gaps identified under paragraph (2).
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 168](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1566](https://www.govinfo.gov/link/statute/128/1566).)*

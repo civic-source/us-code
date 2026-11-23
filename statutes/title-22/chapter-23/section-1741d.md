@@ -3,9 +3,10 @@ title: "Section 1741d - Authorization of imposition of sanctions"
 usc_title: 22
 usc_section: "1741d"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 1741d"
-generated_at: "2026-03-30T02:55:05.338Z"
+generated_at: "2026-11-23T20:26:32.143Z"
+status: "active"
 ---
 
 # § 1741d. Authorization of imposition of sanctions
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:55:05.338Z"
     - **(A)** an individual who is a United States citizen or an alien lawfully admitted for permanent residence to the United States;
     - **(B)** an entity organized under the laws of the United States or any jurisdiction within the United States, including a foreign branch of such an entity; or
     - **(C)** any person in the United States.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. FF, title III, § 306](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3096](https://www.govinfo.gov/link/statute/134/3096).)*

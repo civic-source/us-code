@@ -3,9 +3,10 @@ title: "Section 1155 - Contract termination"
 usc_title: 14
 usc_section: "1155"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 1155"
-generated_at: "2026-03-30T02:53:51.493Z"
+generated_at: "2026-11-23T20:25:54.561Z"
+status: "active"
 ---
 
 # § 1155. Contract termination
@@ -29,3 +30,21 @@ generated_at: "2026-03-30T02:53:51.493Z"
     - **(D)** all criminal, administrative, and other investigations regarding contracts with a total value of more than $1,000,000 that were completed by the Coast Guard in the fiscal year; and
     - **(E)** an estimate of costs incurred by the Coast Guard, including contract line items and termination costs, as a result of the requirements of this section.
   - **(2)** The Commandant is not required to provide a report under paragraph (1) for any fiscal year for which there is no responsive information as described in subparagraphs (A) through (E) of paragraph (1).
+
+In General.—
+
+Notification
+
+Work Product Defined
+
+Penalty
+
+Report.—
+
+In general
+
+Limitation
+
+## Source Credit
+
+*(Added [Pub. L. 115–232, div. C, title XXXV, § 3523(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2315](https://www.govinfo.gov/link/statute/132/2315), § 657; renumbered § 1155, [Pub. L. 115–282, title I, § 108(b)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4208](https://www.govinfo.gov/link/statute/132/4208).)*

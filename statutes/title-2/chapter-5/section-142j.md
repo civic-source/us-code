@@ -3,9 +3,10 @@ title: "Section 142j - John C. Stennis Center for Public Service Training and De
 usc_title: 2
 usc_section: "142j"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 142j"
-generated_at: "2026-03-30T02:53:04.789Z"
+generated_at: "2026-11-23T20:25:28.845Z"
+status: "active"
 ---
 
 # § 142j. John C. Stennis Center for Public Service Training and Development; disbursement of funds, computation and disbursement of basic pay, and provision of financial management services and support by Library of Congress; payment for services
@@ -16,3 +17,7 @@ From and after October 1, 1988 , the Library of Congress is authorized to—
   - **(2)** compute and disburse the basic pay for all personnel of the John C. Stennis Center for Public Service Training and Development;
   - **(3)** provide financial management services and support to the John C. Stennis Center for Public Service Training and Development, in the same manner as provided with respect to the Office of Technology Assessment under section 142f of this title ; and
   - **(4)** collect from the funds appropriated for the John C. Stennis Center for Public Service Training and Development the full costs of providing the services specified in (1), (2), and (3) above, as provided under an agreement for services ordered under 31 U.S.C. 1535 and 1536.
+
+## Source Credit
+
+*([Pub. L. 101–163, title II, § 205](https://www.govinfo.gov/link/plaw/101/public/163), Nov. 21, 1989, [103 Stat. 1060](https://www.govinfo.gov/link/statute/103/1060).)*

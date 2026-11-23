@@ -3,9 +3,10 @@ title: "Section 7257d - Expanded research by Secretary of Energy"
 usc_title: 42
 usc_section: "7257d"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7257d"
-generated_at: "2026-03-30T02:56:11.285Z"
+generated_at: "2026-11-23T20:27:22.792Z"
+status: "active"
 ---
 
 # § 7257d. Expanded research by Secretary of Energy
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.285Z"
     - **(C)** carrying out other research activities in relevant areas.
   - **(3)** Not later than 180 days after June 12, 2002 , the Administrator of the National Nuclear Security Administration shall submit to the Committee on Energy and Natural Resources and the Committee on Armed Services of the Senate, and the Committee on Energy and Commerce and the Committee on Armed Services of the House of Representatives, a report setting forth the programs and projects that will be funded prior to the obligation of funds appropriated under subsection (b).
 - **(b)** For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary in each of fiscal years 2002 through 2006.
+
+## Source Credit
+
+*([Pub. L. 107–188, title I, § 152](https://www.govinfo.gov/link/plaw/107/public/188), June 12, 2002, [116 Stat. 630](https://www.govinfo.gov/link/statute/116/630).)*

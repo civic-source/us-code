@@ -3,9 +3,10 @@ title: "Section 2229a - Annual report on prepositioned materiel and equipment"
 usc_title: 10
 usc_section: "2229a"
 chapter: 131
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2229a"
-generated_at: "2026-03-30T02:53:38.151Z"
+generated_at: "2026-11-23T20:25:51.514Z"
+status: "active"
 ---
 
 # § 2229a. Annual report on prepositioned materiel and equipment
@@ -27,3 +28,11 @@ generated_at: "2026-03-30T02:53:38.151Z"
   - **(1)** The Comptroller General shall review each report submitted under subsection (a) and, as the Comptroller General determines appropriate, submit to the congressional defense committees any additional information that the Comptroller General determines will further inform such committees on issues relating to the status of the materiel in the prepositioned stocks.
   - **(2)** The Secretary of Defense shall ensure the full cooperation of the Department of Defense with the Comptroller General for purposes of the conduct of the review required by this subsection, both before and after each report is submitted under subsection (a). The Secretary shall conduct periodic briefings for the Comptroller General on the information covered by each report required under subsection (a) and provide to the Comptroller General access to the data and preliminary results to be used by the Secretary in preparing each such report before the Secretary submits the report to enable the Comptroller General to conduct each review required under paragraph (1) in a timely manner.
   - **(3)** The requirement to conduct a review under this subsection shall terminate on September 30, 2015 .
+
+Annual Report Required
+
+Comptroller General Review
+
+## Source Credit
+
+*(Added [Pub. L. 110–181, div. A, title III, § 352(a)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 71](https://www.govinfo.gov/link/statute/122/71); amended [Pub. L. 112–81, div. A, title III, § 341(b)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1369](https://www.govinfo.gov/link/statute/125/1369); [Pub. L. 112–239, div. A, title III, § 343](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1700](https://www.govinfo.gov/link/statute/126/1700); [Pub. L. 114–92, div. A, title III, § 331](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 791](https://www.govinfo.gov/link/statute/129/791).)*

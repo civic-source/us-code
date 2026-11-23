@@ -3,9 +3,10 @@ title: "Section 4276 - Powers and administrative provisions"
 usc_title: 42
 usc_section: "4276"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4276"
-generated_at: "2026-03-30T02:56:11.201Z"
+generated_at: "2026-11-23T20:27:22.369Z"
+status: "active"
 ---
 
 # § 4276. Powers and administrative provisions
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.201Z"
   - **(3)** annual and sick leave, and
   - **(4)** subchapter I of chapter 57 of this title 5.
 - **(f)** No individual employed in the service of the Commission shall be paid compensation for such employment at a rate in excess of the highest rate provided for grade 18 under the General Schedule, except that the executive director of the Commission may be paid compensation at any rate not exceeding the rate prescribed for level V in the Executive Schedule of subchapter II of chapter 53 of title 5.
+
+## Source Credit
+
+*([Pub. L. 86–380, § 6](https://www.govinfo.gov/link/plaw/86/public/380), Sept. 24, 1959, [73 Stat. 705](https://www.govinfo.gov/link/statute/73/705); [Pub. L. 88–426, title III, § 306(e)](https://www.govinfo.gov/link/plaw/88/public/426), Aug. 14, 1964, [78 Stat. 429](https://www.govinfo.gov/link/statute/78/429); [Pub. L. 89–733](https://www.govinfo.gov/link/plaw/89/public/733), §§ 3, 4, Nov. 2, 1966, [80 Stat. 1162](https://www.govinfo.gov/link/statute/80/1162).)*

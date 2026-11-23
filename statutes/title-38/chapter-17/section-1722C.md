@@ -3,9 +3,10 @@ title: "Section 1722C - Copayments: prohibition on collection of copayments for 
 usc_title: 38
 usc_section: "1722C"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 1722C"
-generated_at: "2026-03-30T02:55:53.486Z"
+generated_at: "2026-11-23T20:27:01.703Z"
+status: "active"
 ---
 
 # § 1722C. Copayments: prohibition on collection of copayments for first three mental health care outpatient visits of veterans
@@ -14,3 +15,15 @@ generated_at: "2026-03-30T02:55:53.486Z"
 - **(b)** The prohibition under subsection (a) shall not apply with respect to the imposition or collection of copayments for medications pursuant to section 1722A of this title .
 - **(c)** In this section, the term “mental health care outpatient visit” means an outpatient visit with a qualified mental health professional for the primary purpose of seeking mental health care or treatment for substance abuse disorder.
 - **(d)** This section shall terminate on the date that is five years after the date of the enactment of the Joseph Maxwell Cleland and Robert Joseph Dole Memorial Veterans Benefits and Health Care Improvement Act of 2022.
+
+Prohibition
+
+Copayment for Medications
+
+Mental Health Care Outpatient Visit Defined
+
+Sunset
+
+## Source Credit
+
+*(Added [Pub. L. 117–328, div. U, title I, § 193A(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5440](https://www.govinfo.gov/link/statute/136/5440).)*

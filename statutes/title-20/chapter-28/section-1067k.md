@@ -3,9 +3,10 @@ title: "Section 1067k - Definitions"
 usc_title: 20
 usc_section: "1067k"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1067k"
-generated_at: "2026-03-30T02:54:48.103Z"
+generated_at: "2026-11-23T20:26:14.354Z"
+status: "active"
 ---
 
 # § 1067k. Definitions
@@ -27,3 +28,7 @@ For the purpose of this part—
     - **(B)** a special project grant to any eligible applicant which supports activities that—
       - **(i)** provide a needed service to a group of eligible minority institutions; or
       - **(ii)** provide in-service training for project directors, scientists, and engineers from eligible minority institutions.
+
+## Source Credit
+
+*([Pub. L. 89–329, title III, § 365](https://www.govinfo.gov/link/plaw/89/public/329), formerly title X, § 1046, as added [Pub. L. 99–498, title X, § 1002](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1566](https://www.govinfo.gov/link/statute/100/1566); renumbered title III, § 365, and amended [Pub. L. 105–244, title III](https://www.govinfo.gov/link/plaw/105/public/244), §§ 301(a)(5), (7), 307(c), Oct. 7, 1998, [112 Stat. 1636](https://www.govinfo.gov/link/statute/112/1636), 1648; [Pub. L. 110–315, title III, § 320(3)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3187](https://www.govinfo.gov/link/statute/122/3187).)*

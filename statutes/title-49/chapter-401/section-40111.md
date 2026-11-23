@@ -3,9 +3,10 @@ title: "Section 40111 - Multiyear procurement contracts for services and related
 usc_title: 49
 usc_section: "40111"
 chapter: 401
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 40111"
-generated_at: "2026-03-30T02:56:19.370Z"
+generated_at: "2026-11-23T20:27:35.056Z"
+status: "active"
 ---
 
 # § 40111. Multiyear procurement contracts for services and related items
@@ -28,3 +29,69 @@ generated_at: "2026-03-30T02:56:19.370Z"
   - **(1)** an appropriation originally available for carrying out the contract;
   - **(2)** an appropriation currently available for procuring the type of service concerned and not otherwise obligated; or
   - **(3)** amounts appropriated for payments to end the contract.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 40111(a) | 49 App.:1344(e)(1). | Aug. 23, 1958 , Pub. L. 85–726, § 303(e) , 72 Stat. 747 ; May 21, 1970 , Pub. L. 91–258, § 51(a)(1) , 84 Stat. 234 ; July 12, 1976 , Pub. L. 94–353, § 16 , 90 Stat. 882 ; Oct. 19, 1980 , Pub. L. 96–470, § 112(e) , 94 Stat. 2240 ; Jan. 12, 1983 , Pub. L. 97–449, § 7(b) , 96 Stat. 2444 ; restated Nov. 5, 1990 , Pub. L. 101–508, § 9118(a) , 104 Stat. 1388–366 . |
+| 40111(b) | 49 App.:1344(e)(2). |  |
+| 40111(c) | 49 App.:1344(e)(3). |  |
+| 40111(d) | 49 App.:1344(e)(4). |  |
+
+
+General Authority
+
+Required Findings
+
+Considerations
+
+Ending Contracts
+
+Historical and Revision Notes
+
+40111(a)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 303(e)
+
+72 Stat. 747
+
+May 21, 1970
+
+Pub. L. 91–258, § 51(a)(1)
+
+84 Stat. 234
+
+July 12, 1976
+
+Pub. L. 94–353, § 16
+
+90 Stat. 882
+
+Oct. 19, 1980
+
+Pub. L. 96–470, § 112(e)
+
+94 Stat. 2240
+
+Jan. 12, 1983
+
+Pub. L. 97–449, § 7(b)
+
+96 Stat. 2444
+
+Nov. 5, 1990
+
+Pub. L. 101–508, § 9118(a)
+
+104 Stat. 1388–366
+
+40111(b)
+
+40111(c)
+
+40111(d)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1107](https://www.govinfo.gov/link/statute/108/1107).)*

@@ -3,9 +3,10 @@ title: "Section 719h - Judicial review"
 usc_title: 15
 usc_section: "719h"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 719h"
-generated_at: "2026-03-30T02:54:08.120Z"
+generated_at: "2026-11-23T20:26:03.913Z"
+status: "active"
 ---
 
 # § 719h. Judicial review
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:08.120Z"
     - **(B)** The Special Court shall have exclusive jurisdiction to determine such proceeding in accordance with the procedures hereinafter provided, and no other court of the United States, or any State, territory, or possession of the United States, or of the District of Columbia, shall have jurisdiction of any such claim in any proceeding instituted prior to or on or after October 22, 1976 .
   - **(2)** The Special Court shall set any action brought under this section for expedited consideration, taking into account the national interest described in section 719 of this title .
   - **(3)** The enactment of a joint resolution under section 719f of this title approving the decision of the President shall be conclusive as to the legal and factual sufficiency of the environmental impact statements submitted by the President relative to the approved transportation system and no court shall have jurisdiction to consider questions respecting the sufficiency of such statements under the National Environmental Policy Act of 1969 [ 42 U.S.C. 4321 et seq.].
+
+## Source Credit
+
+*([Pub. L. 94–586, § 10](https://www.govinfo.gov/link/plaw/94/public/586), Oct. 22, 1976, [90 Stat. 2913](https://www.govinfo.gov/link/statute/90/2913); [Pub. L. 98–620, title IV, § 402(16)](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3358](https://www.govinfo.gov/link/statute/98/3358); [Pub. L. 108–324, div. C, § 107(d)](https://www.govinfo.gov/link/plaw/108/public/324), Oct. 13, 2004, [118 Stat. 1261](https://www.govinfo.gov/link/statute/118/1261).)*

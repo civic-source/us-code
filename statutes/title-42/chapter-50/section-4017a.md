@@ -3,9 +3,10 @@ title: "Section 4017a - Reserve Fund"
 usc_title: 42
 usc_section: "4017a"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4017a"
-generated_at: "2026-03-30T02:56:11.196Z"
+generated_at: "2026-11-23T20:27:22.341Z"
+status: "active"
 ---
 
 # § 4017a. Reserve Fund
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:56:11.196Z"
   - **(2)** demonstrates how such consequences would harm the long-term financial soundness of the flood insurance program; and
   - **(3)** indicates the maximum attainable reserve ratio for that particular fiscal year.
 - **(f)** The Secretary of the Treasury shall invest such amounts of the Reserve Fund as the Secretary determines advisable in obligations issued or guaranteed by the United States.
+
+## Source Credit
+
+*([Pub. L. 90–448, title XIII, § 1310A](https://www.govinfo.gov/link/plaw/90/public/448), as added [Pub. L. 112–141, div. F, title II, § 100212](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 922](https://www.govinfo.gov/link/statute/126/922); amended [Pub. L. 113–89](https://www.govinfo.gov/link/plaw/113/public/89), §§ 8(b), 20, Mar. 21, 2014, [128 Stat. 1024](https://www.govinfo.gov/link/statute/128/1024), 1028.)*

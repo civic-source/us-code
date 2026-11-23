@@ -3,9 +3,10 @@ title: "Section 1431 - Disposition of commodities to prevent waste"
 usc_title: 7
 usc_section: "1431"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1431"
-generated_at: "2026-03-30T02:53:42.311Z"
+generated_at: "2026-11-23T20:25:41.149Z"
+status: "active"
 ---
 
 # § 1431. Disposition of commodities to prevent waste
@@ -72,3 +73,35 @@ generated_at: "2026-03-30T02:53:42.311Z"
       - **(vi)** improving commodity and transportation procurement processes; and
       - **(vii)** ensuring that evaluation and monitoring methods are sufficient.
     - **(C)** Not later than 1 year after May 13, 2002 , the Secretary shall consult with the Committee on Agriculture, and the Committee on International Relations, of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on changes made in regulations and procedures under this paragraph.
+
+Administrative provisions.—
+
+Expedited procedures
+
+Estimate of commodities
+
+Finalization of agreements
+
+Regulations
+
+Sale procedure
+
+Requirements.—
+
+In general
+
+Considerations
+
+Consultations
+
+Authority to Donate
+
+Definitions
+
+Establishment
+
+Membership
+
+## Source Credit
+
+*(Oct. 31, 1949, ch. 792, title IV, § 416, [63 Stat. 1058](https://www.govinfo.gov/link/statute/63/1058); July 10, 1954, ch. 469, title III, § 309, formerly § 302, [68 Stat. 458](https://www.govinfo.gov/link/statute/68/458), renumbered § 309, [Pub. L. 95–88, title II, § 211(a)(1)](https://www.govinfo.gov/link/plaw/95/public/88), Aug. 3, 1977, [91 Stat. 548](https://www.govinfo.gov/link/statute/91/548); amended May 28, 1956, ch. 327, title II, § 212, [70 Stat. 203](https://www.govinfo.gov/link/statute/70/203); [Pub. L. 85–483, § 1](https://www.govinfo.gov/link/plaw/85/public/483), July 2, 1958, [72 Stat. 286](https://www.govinfo.gov/link/statute/72/286); Aug. 26, 1954, ch. 937, title IV, § 402, [68 Stat. 843](https://www.govinfo.gov/link/statute/68/843), as amended [Pub. L. 86–108](https://www.govinfo.gov/link/plaw/86/public/108), ch. II, § 205(c), July 24, 1959, [73 Stat. 250](https://www.govinfo.gov/link/statute/73/250); [Pub. L. 87–703, title II, § 202](https://www.govinfo.gov/link/plaw/87/public/703), Sept. 27, 1962, [76 Stat. 611](https://www.govinfo.gov/link/statute/76/611); [Pub. L. 88–638, § 4](https://www.govinfo.gov/link/plaw/88/public/638), Oct. 8, 1964, [78 Stat. 1038](https://www.govinfo.gov/link/statute/78/1038); [Pub. L. 89–808, § 3(c)](https://www.govinfo.gov/link/plaw/89/public/808), Nov. 11, 1966, [80 Stat. 1538](https://www.govinfo.gov/link/statute/80/1538); [Pub. L. 91–233](https://www.govinfo.gov/link/plaw/91/public/233), Apr. 17, 1970, [84 Stat. 199](https://www.govinfo.gov/link/statute/84/199); [Pub. L. 92–603, title IV, § 411(g)](https://www.govinfo.gov/link/plaw/92/public/603), Oct. 30, 1972, [86 Stat. 1492](https://www.govinfo.gov/link/statute/86/1492); [Pub. L. 95–113, title XIII, § 1302(a)(2)](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 979](https://www.govinfo.gov/link/statute/91/979); [Pub. L. 97–253, title I, § 110](https://www.govinfo.gov/link/plaw/97/public/253), Sept. 8, 1982, [96 Stat. 766](https://www.govinfo.gov/link/statute/96/766); [Pub. L. 98–258, title V, § 502](https://www.govinfo.gov/link/plaw/98/public/258), Apr. 10, 1984, [98 Stat. 137](https://www.govinfo.gov/link/statute/98/137); [Pub. L. 99–83, title X, § 1007](https://www.govinfo.gov/link/plaw/99/public/83), Aug. 8, 1985, [99 Stat. 271](https://www.govinfo.gov/link/statute/99/271); [Pub. L. 99–198, title XI](https://www.govinfo.gov/link/plaw/99/public/198), §§ 1109, 1129, Dec. 23, 1985, [99 Stat. 1467](https://www.govinfo.gov/link/statute/99/1467), 1486; [Pub. L. 99–260, § 16](https://www.govinfo.gov/link/plaw/99/public/260), Mar. 20, 1986, [100 Stat. 55](https://www.govinfo.gov/link/statute/100/55); [Pub. L. 100–203, title I, § 1503](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–28](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–277](https://www.govinfo.gov/link/plaw/100/public/277), §§ 1–5, Apr. 4, 1988, [102 Stat. 67](https://www.govinfo.gov/link/statute/102/67), 68; [Pub. L. 100–418, title II, § 2225](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1337](https://www.govinfo.gov/link/statute/102/1337); [Pub. L. 101–513, title V, § 562](https://www.govinfo.gov/link/plaw/101/public/513) (part), Nov. 5, 1990, [104 Stat. 2032](https://www.govinfo.gov/link/statute/104/2032); [Pub. L. 101–624, title XV](https://www.govinfo.gov/link/plaw/101/public/624), §§ 1514, 1575, title XVII, § 1771(b)(2), Nov. 28, 1990, [104 Stat. 3662](https://www.govinfo.gov/link/statute/104/3662), 3702, 3807; [Pub. L. 102–237, title III, § 333](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1859](https://www.govinfo.gov/link/statute/105/1859); [Pub. L. 102–289, § 1](https://www.govinfo.gov/link/plaw/102/public/289), May 20, 1992, [106 Stat. 176](https://www.govinfo.gov/link/statute/106/176); [Pub. L. 103–306, title V, § 576(c)](https://www.govinfo.gov/link/plaw/103/public/306), Aug. 23, 1994, [108 Stat. 1654](https://www.govinfo.gov/link/statute/108/1654); [Pub. L. 104–127, title II, § 264](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 974](https://www.govinfo.gov/link/statute/110/974); [Pub. L. 107–171, title III](https://www.govinfo.gov/link/plaw/107/public/171), §§ 3009(b)(1), 3201, May 13, 2002, [116 Stat. 283](https://www.govinfo.gov/link/statute/116/283), 299; [Pub. L. 107–206, title I, § 105](https://www.govinfo.gov/link/plaw/107/public/206), Aug. 2, 2002, [116 Stat. 824](https://www.govinfo.gov/link/statute/116/824); [Pub. L. 110–246, title III, § 3001(b)(1)(A)](https://www.govinfo.gov/link/plaw/110/public/246), (2)(B), June 18, 2008, [122 Stat. 1820](https://www.govinfo.gov/link/statute/122/1820).)*

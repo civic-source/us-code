@@ -3,9 +3,10 @@ title: "Section 796f - Program authorization"
 usc_title: 29
 usc_section: "796f"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 796f"
-generated_at: "2026-03-30T02:55:18.700Z"
+generated_at: "2026-11-23T20:26:37.884Z"
+status: "active"
 ---
 
 # § 796f. Program authorization
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:18.700Z"
   - **(3)** For any fiscal year, beginning in fiscal year 1999, in which the total amount appropriated to carry out this subpart exceeds the total amount appropriated to carry out this subpart for the preceding fiscal year, the Administrator shall increase the minimum allotment under paragraph (1)(C) by a percentage that shall not exceed the percentage increase in the total amount appropriated to carry out this subpart between the preceding fiscal year and the fiscal year involved.
   - **(4)** To provide allotments to States in accordance with paragraph (1)(B), to provide minimum allotments to States (as increased under paragraph (3)) under paragraph (1)(C), or to provide minimum allotments to States under paragraph (2)(B), the Administrator shall proportionately reduce the allotments of the remaining States under paragraph (1)(A), with such adjustments as may be necessary to prevent the allotment of any such remaining State from being reduced to less than the amount required by paragraph (1)(B).
 - **(d)** Whenever the Administrator determines that any amount of an allotment to a State for any fiscal year will not be expended by such State for carrying out the provisions of this subpart, the Administrator shall make such amount available for carrying out the provisions of this subpart to one or more of the States that the Administrator determines will be able to use additional amounts during such year for carrying out such provisions. Any amount made available to a State for any fiscal year pursuant to the preceding sentence shall, for the purposes of this section, be regarded as an increase in the allotment of the State (as determined under the preceding provisions of this section) for such year.
+
+## Source Credit
+
+*([Pub. L. 93–112, title VII, § 721](https://www.govinfo.gov/link/plaw/93/public/112), as added [Pub. L. 105–220, title IV, § 410](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1226](https://www.govinfo.gov/link/statute/112/1226); amended [Pub. L. 113–128, title IV, § 481](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1691](https://www.govinfo.gov/link/statute/128/1691).)*

@@ -3,9 +3,10 @@ title: "Section 982 - Admissibility of documentation maintained in foreign count
 usc_title: 26
 usc_section: "982"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 982"
-generated_at: "2026-03-30T02:55:27.751Z"
+generated_at: "2026-11-23T20:26:45.998Z"
+status: "active"
 ---
 
 # § 982. Admissibility of documentation maintained in foreign countries
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:27.751Z"
   - **(2)** The term “documentation” includes books and records.
   - **(3)** The Secretary, and any court having jurisdiction over a proceeding under subsection (c)(2), may extend the 90-day period referred to in subsection (a).
 - **(e)** If any person takes any action as provided in subsection (c)(2), the running of any period of limitations under section 6501 (relating to the assessment and collection of tax) or under section 6531 (relating to criminal prosecutions) with respect to such person shall be suspended for the period during which the proceeding under such subsection, and appeals therein, are pending.
+
+## Source Credit
+
+*(Added [Pub. L. 97–248, title III, § 337(a)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 629](https://www.govinfo.gov/link/statute/96/629); amended [Pub. L. 98–369, div. A, title VII, § 714(k)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 963](https://www.govinfo.gov/link/statute/98/963).)*

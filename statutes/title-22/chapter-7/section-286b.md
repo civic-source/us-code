@@ -3,9 +3,10 @@ title: "Section 286b - National Advisory Council on International Monetary and F
 usc_title: 22
 usc_section: "286b"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 286b"
-generated_at: "2026-03-30T02:55:05.318Z"
+generated_at: "2026-11-23T20:26:32.001Z"
+status: "active"
 ---
 
 # § 286b. National Advisory Council on International Monetary and Financial Problems
@@ -21,3 +22,21 @@ generated_at: "2026-03-30T02:55:05.318Z"
     - **(A)** to minimize projected adverse impacts; and
     - **(B)** to avoid, wherever possible, government subsidization of production and exports of international commodities without regard to economic conditions in the markets for such commodities.
 - **(c)** The representatives of the United States on the Fund and the Bank, and the Export-Import Bank of the United States (and all other agencies of the Government to the extent that they make or participate in the making of foreign loans or engage in foreign financial, exchange or monetary transactions) shall keep the Council fully informed of their activities and shall provide the Council with such further information or data in their possession as the Council may deem necessary to the appropriate discharge of its responsibilities under this subchapter.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+## Source Credit
+
+*(July 31, 1945, ch. 339, § 4, [59 Stat. 512](https://www.govinfo.gov/link/statute/59/512); Apr. 3, 1948, ch. 169, title I, § 106, [62 Stat. 141](https://www.govinfo.gov/link/statute/62/141); Oct. 10, 1951, ch. 479, title V, § 501(e)(2), [65 Stat. 378](https://www.govinfo.gov/link/statute/65/378); 1953 Reorg. Plan No. 5, eff. June 30, 1953, 18 F.R. 3741, [67 Stat. 637](https://www.govinfo.gov/link/statute/67/637); 1953 Reorg. Plan No. 7, eff. Aug. 1, 1953, 18 F.R. 4541, [67 Stat. 639](https://www.govinfo.gov/link/statute/67/639); Aug. 9, 1954, ch. 660, § 2, [68 Stat. 678](https://www.govinfo.gov/link/statute/68/678); [Pub. L. 89–126, § 1(1)](https://www.govinfo.gov/link/plaw/89/public/126), Aug. 14, 1965, [79 Stat. 519](https://www.govinfo.gov/link/statute/79/519); [Pub. L. 90–267, § 1(a)](https://www.govinfo.gov/link/plaw/90/public/267), Mar. 13, 1968, [82 Stat. 47](https://www.govinfo.gov/link/statute/82/47); [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title VIII, § 808(a)], Nov. 30, 1983, [97 Stat. 1273](https://www.govinfo.gov/link/statute/97/1273); [Pub. L. 101–240, title V, § 541(d)(1)](https://www.govinfo.gov/link/plaw/101/public/240), (f)(1), Dec. 19, 1989, [103 Stat. 2518](https://www.govinfo.gov/link/statute/103/2518), 2519.)*

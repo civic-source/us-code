@@ -3,9 +3,10 @@ title: "Section 9407 - Review of applicability of sanctions relating to Iran’s
 usc_title: 22
 usc_section: "9407"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9407"
-generated_at: "2026-03-30T02:55:05.466Z"
+generated_at: "2026-11-23T20:26:32.771Z"
+status: "active"
 ---
 
 # § 9407. Review of applicability of sanctions relating to Iran’s support for terrorism and its ballistic missile program
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:05.466Z"
 - **(b)** If the President determines under subsection (a) that sanctions under an Executive order specified in paragraph (2) of that subsection are applicable with respect to a person, the President shall—
   - **(1)** impose sanctions with respect to that person pursuant to that Executive order; or
   - **(2)** exercise the waiver authority provided under section 9411 of this title .
+
+## Source Credit
+
+*([Pub. L. 115–44, title I, § 108](https://www.govinfo.gov/link/plaw/115/public/44), Aug. 2, 2017, [131 Stat. 894](https://www.govinfo.gov/link/statute/131/894).)*

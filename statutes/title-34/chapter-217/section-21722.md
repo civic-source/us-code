@@ -3,9 +3,10 @@ title: "Section 21722 - Effective interagency coordination and Federal data coll
 usc_title: 34
 usc_section: "21722"
 chapter: 217
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 21722"
-generated_at: "2026-03-30T02:55:33.304Z"
+generated_at: "2026-11-23T20:26:50.622Z"
+status: "active"
 ---
 
 # § 21722. Effective interagency coordination and Federal data collection
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:33.304Z"
     - **(F)** the outcome of the case.
 - **(c)** The Secretary of Health and Human Services shall, on an annual basis, provide to the Attorney General statistical data collected by the Secretary relating to elder abuse cases investigated by adult protective services, which shall be included in the summary published under subsection (a)(2).
 - **(d)** None of the information reported under this section shall include specific individually identifiable data.
+
+## Source Credit
+
+*([Pub. L. 115–70, title II, § 202](https://www.govinfo.gov/link/plaw/115/public/70), Oct. 18, 2017, [131 Stat. 1211](https://www.govinfo.gov/link/statute/131/1211).)*

@@ -3,9 +3,10 @@ title: "Section 1175 - Authority to modify process; congressional oversight"
 usc_title: 38
 usc_section: "1175"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 1175"
-generated_at: "2026-03-30T02:55:53.478Z"
+generated_at: "2026-11-23T20:27:01.619Z"
+status: "active"
 ---
 
 # § 1175. Authority to modify process; congressional oversight
@@ -16,3 +17,11 @@ generated_at: "2026-03-30T02:55:53.478Z"
 - **(b)** If the Secretary proposes to modify the process under which the working group established under subsection (b) of section 1172 of this title conducts assessments under such section, the process under which the Secretary conducts formal evaluations under section 1173 of this title , or issues regulations under section 1174 of this title , the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a notice of the proposed modifications containing the following:
   - **(1)** A description of the proposed modifications.
   - **(2)** A description of any exceptions to the requirements of such sections that are proposed because of limited available scientific evidence, and a description of how such evaluations will be conducted.
+
+In General
+
+Notice
+
+## Source Credit
+
+*(Added [Pub. L. 117–168, title II, § 202(a)](https://www.govinfo.gov/link/plaw/117/public/168), Aug. 10, 2022, [136 Stat. 1771](https://www.govinfo.gov/link/statute/136/1771).)*

@@ -3,9 +3,10 @@ title: "Section 4902 - Termination of private mortgage insurance"
 usc_title: 12
 usc_section: "4902"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4902"
-generated_at: "2026-03-30T02:53:53.519Z"
+generated_at: "2026-11-23T20:25:59.435Z"
+status: "active"
 ---
 
 # § 4902. Termination of private mortgage insurance
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:53:53.519Z"
       - **(iv)** the mortgage principal amounts; and
       - **(v)** any other characteristics of such mortgages and transactions that may contribute to their classification as high risk for purposes of paragraph (1), including whether such mortgages are purchase-money mortgages or refinancings and whether and to what extent such loans are low-documentation loans.
 - **(h)** The cancellation or termination under this section of the private mortgage insurance of a mortgagor shall not affect the rights of any mortgagee, servicer, or mortgage insurer to enforce any obligation of such mortgagor for premium payments accrued prior to the date on which such cancellation or termination occurred.
+
+## Source Credit
+
+*([Pub. L. 105–216, § 3](https://www.govinfo.gov/link/plaw/105/public/216), July 29, 1998, [112 Stat. 899](https://www.govinfo.gov/link/statute/112/899); [Pub. L. 106–569, title IV](https://www.govinfo.gov/link/plaw/106/public/569), §§ 402(a)(2), (c)(1), 403(a), 404, 405(b), (c), Dec. 27, 2000, [114 Stat. 2956–2958](https://www.govinfo.gov/link/statute/114/2956).)*

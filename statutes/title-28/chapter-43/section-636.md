@@ -3,9 +3,10 @@ title: "Section 636 - Jurisdiction, powers, and temporary assignment"
 usc_title: 28
 usc_section: "636"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 636"
-generated_at: "2026-03-30T02:55:30.136Z"
+generated_at: "2026-11-23T20:26:36.410Z"
+status: "active"
 ---
 
 # § 636. Jurisdiction, powers, and temporary assignment
@@ -47,3 +48,23 @@ generated_at: "2026-03-30T02:55:30.136Z"
 - **(f)** In an emergency and upon the concurrence of the chief judges of the districts involved, a United States magistrate judge may be temporarily assigned to perform any of the duties specified in subsection (a), (b), or (c) of this section in a judicial district other than the judicial district for which he has been appointed. No magistrate judge shall perform any of such duties in a district to which he has been temporarily assigned until an order has been issued by the chief judge of such district specifying (1) the emergency by reason of which he has been transferred, (2) the duration of his assignment, and (3) the duties which he is authorized to perform. A magistrate judge so assigned shall not be entitled to additional compensation but shall be reimbursed for actual and necessary expenses incurred in the performance of his duties in accordance with section 635.
 - **(g)** A United States magistrate judge may perform the verification function required by section 4107 of title 18 , United States Code. A magistrate judge may be assigned by a judge of any United States district court to perform the verification required by section 4108 and the appointment of counsel authorized by section 4109 of title 18 , United States Code, and may perform such functions beyond the territorial limits of the United States. A magistrate judge assigned such functions shall have no authority to perform any other function within the territory of a foreign country.
 - **(h)** A United States magistrate judge who has retired may, upon the consent of the chief judge of the district involved, be recalled to serve as a magistrate judge in any judicial district by the judicial council of the circuit within which such district is located. Upon recall, a magistrate judge may receive a salary for such service in accordance with regulations promulgated by the Judicial Conference, subject to the restrictions on the payment of an annuity set forth in section 377 of this title or in subchapter III of chapter 83, and chapter 84, of title 5 which are applicable to such magistrate judge. The requirements set forth in subsections (a), (b)(3), and (d) of section 631, and paragraph (1) of subsection (b) of such section to the extent such paragraph requires membership of the bar of the location in which an individual is to serve as a magistrate judge, shall not apply to the recall of a retired magistrate judge under this subsection or section 375 of this title . Any other requirement set forth in section 631(b) shall apply to the recall of a retired magistrate judge under this subsection or section 375 of this title unless such retired magistrate judge met such requirement upon appointment or reappointment as a magistrate judge under section 631.
+
+Contempt Authority.—
+
+In general
+
+Summary criminal contempt authority
+
+Additional criminal contempt authority in civil consent and misdemeanor cases
+
+Civil contempt authority in civil consent and misdemeanor cases
+
+Criminal contempt penalties
+
+Certification of other contempts to the district court
+
+Appeals of magistrate judge contempt orders
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 917](https://www.govinfo.gov/link/statute/62/917); [Pub. L. 90–578, title I, § 101](https://www.govinfo.gov/link/plaw/90/public/578), Oct. 17, 1968, [82 Stat. 1113](https://www.govinfo.gov/link/statute/82/1113); [Pub. L. 92–239](https://www.govinfo.gov/link/plaw/92/public/239), §§ 1, 2, Mar. 1, 1972, [86 Stat. 47](https://www.govinfo.gov/link/statute/86/47); [Pub. L. 94–577, § 1](https://www.govinfo.gov/link/plaw/94/public/577), Oct. 21, 1976, [90 Stat. 2729](https://www.govinfo.gov/link/statute/90/2729); [Pub. L. 95–144, § 2](https://www.govinfo.gov/link/plaw/95/public/144), Oct. 28, 1977, [91 Stat. 1220](https://www.govinfo.gov/link/statute/91/1220); [Pub. L. 96–82, § 2](https://www.govinfo.gov/link/plaw/96/public/82), Oct. 10, 1979, [93 Stat. 643](https://www.govinfo.gov/link/statute/93/643); [Pub. L. 98–473, title II, § 208](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 1986](https://www.govinfo.gov/link/statute/98/1986); [Pub. L. 98–620, title IV, § 402(29)(B)](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3359](https://www.govinfo.gov/link/statute/98/3359); [Pub. L. 99–651, title II, § 201(a)(2)](https://www.govinfo.gov/link/plaw/99/public/651), Nov. 14, 1986, [100 Stat. 3647](https://www.govinfo.gov/link/statute/100/3647); [Pub. L. 100–659, § 4(c)](https://www.govinfo.gov/link/plaw/100/public/659), Nov. 15, 1988, [102 Stat. 3918](https://www.govinfo.gov/link/statute/102/3918); [Pub. L. 100–690, title VII, § 7322](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4467](https://www.govinfo.gov/link/statute/102/4467); [Pub. L. 100–702, title IV, § 404(b)(1)](https://www.govinfo.gov/link/plaw/100/public/702), title X, § 1014, Nov. 19, 1988, [102 Stat. 4651](https://www.govinfo.gov/link/statute/102/4651), 4669; [Pub. L. 101–650, title III](https://www.govinfo.gov/link/plaw/101/public/650), §§ 308(a), 321, Dec. 1, 1990, [104 Stat. 5112](https://www.govinfo.gov/link/statute/104/5112), 5117; [Pub. L. 104–317, title II](https://www.govinfo.gov/link/plaw/104/public/317), §§ 201, 202(b), 207, Oct. 19, 1996, [110 Stat. 3848–3850](https://www.govinfo.gov/link/statute/110/3848); [Pub. L. 106–518, title II](https://www.govinfo.gov/link/plaw/106/public/518), §§ 202, 203(b), Nov. 13, 2000, [114 Stat. 2412](https://www.govinfo.gov/link/statute/114/2412), 2414; [Pub. L. 107–273, div. B, title III, § 3002(b)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1805](https://www.govinfo.gov/link/statute/116/1805); [Pub. L. 109–63, § 2(d)](https://www.govinfo.gov/link/plaw/109/public/63), Sept. 9, 2005, [119 Stat. 1995](https://www.govinfo.gov/link/statute/119/1995); [Pub. L. 111–16, § 6(1)](https://www.govinfo.gov/link/plaw/111/public/16), May 7, 2009, [123 Stat. 1608](https://www.govinfo.gov/link/statute/123/1608).)*

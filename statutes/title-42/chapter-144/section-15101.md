@@ -3,9 +3,10 @@ title: "Section 15101 - Authorization of appropriations"
 usc_title: 42
 usc_section: "15101"
 chapter: 144
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 15101"
-generated_at: "2026-03-30T02:56:11.459Z"
+generated_at: "2026-11-23T20:27:23.560Z"
+status: "active"
 ---
 
 # § 15101. Authorization of appropriations
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.459Z"
     - **(A)** section 15098 of this title (relating to the provision of technical assistance and information to States); and
     - **(B)** section 15099 of this title (relating to the conduct of evaluations).
   - **(2)** For each year that the amount appropriated pursuant to subsection (a) is $10,000,000 or greater, the Secretary may reserve 5 percent of such amount to carry out section 15100 of this title .
+
+## Source Credit
+
+*([Pub. L. 106–402, title II, § 212](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1734](https://www.govinfo.gov/link/statute/114/1734).)*

@@ -3,9 +3,10 @@ title: "Section 1132 - Civil enforcement"
 usc_title: 29
 usc_section: "1132"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1132"
-generated_at: "2026-03-30T02:55:18.718Z"
+generated_at: "2026-11-23T20:26:37.968Z"
+status: "active"
 ---
 
 # § 1132. Civil enforcement
@@ -18,7 +19,7 @@ generated_at: "2026-03-30T02:55:18.718Z"
   - **(3)** by a participant, beneficiary, or fiduciary (A) to enjoin any act or practice which violates any provision of this subchapter or the terms of the plan, or (B) to obtain other appropriate equitable relief (i) to redress such violations or (ii) to enforce any provisions of this subchapter or the terms of the plan;
   - **(4)** by the Secretary, or by a participant, or beneficiary for appropriate relief in the case of a violation of section 1025(c) or 1032(a) of this title;
   - **(5)** except as otherwise provided in subsection (b), by the Secretary (A) to enjoin any act or practice which violates any provision of this subchapter, or (B) to obtain other appropriate equitable relief (i) to redress such violation or (ii) to enforce any provision of this subchapter;
-  - **(6)** by the Secretary to collect any civil penalty under paragraph (2), (4), (5), (6), (7), (8), or (9) of subsection (c) or under subsection (i) or ( l );
+  - **(6)** by the Secretary to collect any civil penalty under paragraph (2), (4), (5), (6), (7), (8), (9), or (13) of subsection (c) or under subsection (i) or ( l );
   - **(7)** by a State to enforce compliance with a qualified medical child support order (as defined in section 1169(a)(2)(A) of this title );
   - **(8)** by the Secretary, or by an employer or other person referred to in section 1021(f)(1) of this title , (A) to enjoin any act or practice which violates subsection (f) of section 1021 of this title , or (B) to obtain appropriate equitable relief (i) to redress such violation or (ii) to enforce such subsection;
   - **(9)** in the event that the purchase of an insurance contract or insurance annuity in connection with termination of an individual’s status as a participant covered under a pension plan with respect to all or any portion of the participant’s pension benefit under such plan constitutes a violation of part 4 of this title 1 1 So in original. Probably should be “subtitle”. or the terms of the plan, by the Secretary, by any individual who was a participant or beneficiary at the time of the alleged violation, or by a fiduciary, to obtain appropriate relief, including the posting of security if necessary, to assure receipt by the participant or beneficiary of the amounts provided or to be provided by such insurance contract or annuity, plus reasonable prejudgment interest on such amounts;
@@ -31,7 +32,7 @@ generated_at: "2026-03-30T02:55:18.718Z"
     - **(A)** requested by the Secretary of the Treasury, or
     - **(B)** one or more participants, beneficiaries, or fiduciaries, of such plan request in writing (in such manner as the Secretary shall prescribe by regulation) that he exercise such authority on their behalf. In the case of such a request under this paragraph he may exercise such authority only if he determines that such violation affects, or such enforcement is necessary to protect, claims of participants or beneficiaries to benefits under the plan.
   - **(2)** The Secretary shall not initiate an action to enforce section 1145 of this title .
-  - **(3)** Except as provided in subsections (c)(9) and (a)(6) (with respect to collecting civil penalties under subsection (c)(9)), the Secretary is not authorized to enforce under this part any requirement of part 7 against a health insurance issuer offering health insurance coverage in connection with a group health plan (as defined in section 1191b(a)(1) of this title ). Nothing in this paragraph shall affect the authority of the Secretary to issue regulations to carry out such part.
+  - **(3)** Except as provided in subsections (c)(9) and (a)(6) (with respect to collecting civil penalties under paragraphs (9) and (13) of subsection (c)), the Secretary is not authorized to enforce under this part any requirement of part 7 against a health insurance issuer offering health insurance coverage in connection with a group health plan (as defined in section 1191b(a)(1) of this title ). Nothing in this paragraph shall affect the authority of the Secretary to issue regulations to carry out such part.
 - **(c)**
   - **(1)** Any administrator (A) who fails to meet the requirements of paragraph (1) or (4) of section 1166 2 of this title, section 1021(e)(1) of this title , section 1021(f) of this title ,, 3 3 So in original. section 1025(a) of this title , or section 1032(a) of this title with respect to a participant or beneficiary, or (B) who fails or refuses to comply with a request for any information which such administrator is required by this subchapter to furnish to a participant or beneficiary (unless such failure or refusal results from matters reasonably beyond the control of the administrator) by mailing the material requested to the last known address of the requesting participant or beneficiary within 30 days after such request may in the court’s discretion be personally liable to such participant or beneficiary in the amount of up to $100 a day from the date of such failure or refusal, and the court may in its discretion order such other relief as it deems proper. For purposes of this paragraph, each violation described in subparagraph (A) with respect to any single participant, and each violation described in subparagraph (B) with respect to any single participant or beneficiary, shall be treated as a separate violation.
   - **(2)** The Secretary may assess a civil penalty against any plan administrator of up to $1,000 a day from the date of such plan administrator’s failure or refusal to file the annual report required to be filed with the Secretary under section 1021(b)(1) of this title . For purposes of this paragraph, an annual report that has been rejected under section 1024(a)(4) of this title for failure to provide material information shall not be treated as having been filed with the Secretary.
@@ -70,6 +71,10 @@ generated_at: "2026-03-30T02:55:18.718Z"
     - **(F)** Terms used in this paragraph which are defined in section 1191b of this title shall have the meanings provided such terms in such section.
   - **(11)** The Secretary and the Secretary of Health and Human Services shall maintain such ongoing consultation as may be necessary and appropriate to coordinate enforcement under this subsection with enforcement under section 1320b–14(c)(8) 2 of title 42.
   - **(12)** The Secretary may assess a civil penalty against any sponsor of a CSEC plan of up to $100 a day from the date of the plan sponsor’s failure to comply with the requirements of section 1085a(j)(3) of this title to establish or update a funding restoration plan.
+  - **(13)**
+    - **(A)** The Secretary may impose a penalty against a plan administrator of a group health plan, a health insurance issuer offering group health insurance coverage, or an entity providing pharmacy benefit management services on behalf of such a plan or issuer, or an applicable entity (as defined in section 1185 o (e) of this title) that violates section 1185 o (a) of this title; an entity providing pharmacy benefit management services on behalf of such a plan or issuer that fails to provide the information required under section 1185 o (b) of this title; or any person who causes a group health plan to fail to provide the information required under section 1185 o (c) of this title, in the amount of $10,000 for each day during which such violation continues or such information is not disclosed or reported.
+    - **(B)** The Secretary may impose a penalty against a plan administrator of a group health plan, a health insurance issuer offering group health insurance coverage, an entity providing pharmacy benefit management services, or an applicable entity (as defined in section 1185 o (e) of this title) that knowingly provides false information under section 1185 o of this title, in an amount not to exceed $100,000 for each item of false information. Such penalty shall be in addition to other penalties as may be prescribed by law.
+    - **(C)** The Secretary may waive penalties under subparagraph (A), or extend the period of time for compliance with a requirement of this section, for an entity in violation of section 1185 o of this title that has made a good-faith effort to comply with the requirements of section 1185 o of this title.
 - **(d)**
   - **(1)** An employee benefit plan may sue or be sued under this subchapter as an entity. Service of summons, subpena, or other legal process of a court upon a trustee or an administrator of an employee benefit plan in his capacity as such shall constitute service upon the employee benefit plan. In a case where a plan has not designated in the summary plan description of the plan an individual as agent for the service of legal process, service upon the Secretary shall constitute such service. The Secretary, not later than 15 days after receipt of service under the preceding sentence, shall notify the administrator or any trustee of the plan of receipt of such service.
   - **(2)** Any money judgment under this subchapter against an employee benefit plan shall be enforceable only against the plan as an entity and shall not be enforceable against any other person unless liability against such person is established in his individual capacity under this subchapter.
@@ -103,3 +108,47 @@ generated_at: "2026-03-30T02:55:18.718Z"
     - **(B)** it is reasonable to expect that the fiduciary or other person will not be able to restore all losses to the plan (or to provide the relief ordered pursuant to subsection (a)(9)) without severe financial hardship unless such waiver or reduction is granted.
   - **(4)** The penalty imposed on a fiduciary or other person under this subsection with respect to any transaction shall be reduced by the amount of any penalty or tax imposed on such fiduciary or other person with respect to such transaction under subsection (i) of this section and section 4975 of title 26 .
 - **(m)** In the case of a distribution to a pension plan participant or beneficiary in violation of section 1056(e) of this title by a plan fiduciary, the Secretary shall assess a penalty against such fiduciary in an amount equal to the value of the distribution. Such penalty shall not exceed $10,000 for each such distribution.
+
+Secretarial enforcement authority relating to use of genetic information.—
+
+General rule
+
+Amount.—
+
+In general
+
+Noncompliance period
+
+Minimum penalties where failure discovered
+
+In general
+
+Higher minimum penalty where violations are more than de minimis
+
+Limitations.—
+
+Penalty not to apply where failure not discovered exercising reasonable diligence
+
+Penalty not to apply to failures corrected within certain periods
+
+Overall limitation for unintentional failures
+
+Waiver by secretary
+
+Definitions
+
+Secretarial enforcement authority relating to oversight of pharmacy benefit management services.—
+
+Failure to provide information.—
+
+False information.—
+
+Waivers.—
+
+In general
+
+Regulations
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 502](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 891](https://www.govinfo.gov/link/statute/88/891); [Pub. L. 96–364, title III, § 306(b)](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1295](https://www.govinfo.gov/link/statute/94/1295); [Pub. L. 99–272, title X, § 10002(b)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 231](https://www.govinfo.gov/link/statute/100/231); [Pub. L. 100–203, title IX](https://www.govinfo.gov/link/plaw/100/public/203), §§ 9342(c), 9344, Dec. 22, 1987, [101 Stat. 1330–372](https://www.govinfo.gov/link/statute/101/1330), 1330–373; [Pub. L. 101–239, title II, § 2101(a)](https://www.govinfo.gov/link/plaw/101/public/239), (b), title VII, §§ 7881(b)(5)(B), (j)(2), (3), 7891(a)(1), 7894(f)(1), Dec. 19, 1989, [103 Stat. 2123](https://www.govinfo.gov/link/statute/103/2123), 2438, 2442, 2445, 2450; [Pub. L. 101–508, title XII, § 12012(d)(2)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–573](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–66, title IV, § 4301(c)(1)](https://www.govinfo.gov/link/plaw/103/public/66) –(3), Aug. 10, 1993, [107 Stat. 376](https://www.govinfo.gov/link/statute/107/376); [Pub. L. 103–401](https://www.govinfo.gov/link/plaw/103/public/401), §§ 2, 3, Oct. 22, 1994, [108 Stat. 4172](https://www.govinfo.gov/link/statute/108/4172); [Pub. L. 103–465, title VII, § 761(a)(9)(B)(ii)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 5033](https://www.govinfo.gov/link/statute/108/5033); [Pub. L. 104–191, title I, § 101(b)](https://www.govinfo.gov/link/plaw/104/public/191), (e)(2), Aug. 21, 1996, [110 Stat. 1951](https://www.govinfo.gov/link/statute/110/1951), 1952; [Pub. L. 104–204, title VI, § 603(b)(3)(E)](https://www.govinfo.gov/link/plaw/104/public/204), Sept. 26, 1996, [110 Stat. 2938](https://www.govinfo.gov/link/statute/110/2938); [Pub. L. 105–34, title XV, § 1503(c)(2)(B)](https://www.govinfo.gov/link/plaw/105/public/34), (d)(7), Aug. 5, 1997, [111 Stat. 1062](https://www.govinfo.gov/link/statute/111/1062); [Pub. L. 107–204, title III, § 306(b)(3)](https://www.govinfo.gov/link/plaw/107/public/204), July 30, 2002, [116 Stat. 783](https://www.govinfo.gov/link/statute/116/783); [Pub. L. 108–218, title I](https://www.govinfo.gov/link/plaw/108/public/218), §§ 102(d), 103(b), 104(a)(2), Apr. 10, 2004, [118 Stat. 602](https://www.govinfo.gov/link/statute/118/602), 603, 606; [Pub. L. 109–280, title I, § 103(b)(2)](https://www.govinfo.gov/link/plaw/109/public/280), title II, § 202(b), (c), title V, §§ 502(a)(2), (b)(2), 507(b), 508(a)(2)(C), title IX, § 902(f)(2), Aug. 17, 2006, [120 Stat. 816](https://www.govinfo.gov/link/statute/120/816), 884, 885, 940, 941, 949, 951, 1039; [Pub. L. 110–233, title I, § 101(e)](https://www.govinfo.gov/link/plaw/110/public/233), May 21, 2008, [122 Stat. 886](https://www.govinfo.gov/link/statute/122/886); [Pub. L. 110–458, title I](https://www.govinfo.gov/link/plaw/110/public/458), §§ 101(c)(1)(H), 102(b)(1)(H), (I), Dec. 23, 2008, [122 Stat. 5097](https://www.govinfo.gov/link/statute/122/5097), 5101; [Pub. L. 111–3, title III, § 311(b)(1)(E)](https://www.govinfo.gov/link/plaw/111/public/3), Feb. 4, 2009, [123 Stat. 70](https://www.govinfo.gov/link/statute/123/70); [Pub. L. 113–97, title I, § 102(b)(6)](https://www.govinfo.gov/link/plaw/113/public/97), Apr. 7, 2014, [128 Stat. 1117](https://www.govinfo.gov/link/statute/128/1117); [Pub. L. 113–235, div. O, title I, § 111(d)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2793](https://www.govinfo.gov/link/statute/128/2793); [Pub. L. 117–328, div. T, title III, § 342(c)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5378](https://www.govinfo.gov/link/statute/136/5378); [Pub. L. 119–75, div. J, title VII, § 6701(b)(1)(B)](https://www.govinfo.gov/link/plaw/119/public/75), Feb. 3, 2026, [140 Stat. 722](https://www.govinfo.gov/link/statute/140/722).)*

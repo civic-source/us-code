@@ -3,9 +3,10 @@ title: "Section 41509 - Authority of the Secretary of Transportation to suspend,
 usc_title: 49
 usc_section: "41509"
 chapter: 415
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 41509"
-generated_at: "2026-03-30T02:56:19.375Z"
+generated_at: "2026-11-23T20:27:35.089Z"
+status: "active"
 ---
 
 # § 41509. Authority of the Secretary of Transportation to suspend, cancel, and reject tariffs for foreign air transportation
@@ -53,3 +54,167 @@ generated_at: "2026-03-30T02:56:19.375Z"
     - **(B)** 50 percent lower than the standard foreign fare level when the Secretary decides that the proposed fare may be predatory or discriminatory or that suspension of the fare is required because of an unreasonable regulatory action by the government of a foreign country that is related to a fare proposal of an air carrier.
 - **(f)** The Secretary shall submit to the President an order made under this section suspending, canceling, or rejecting a price for foreign air transportation, and an order rescinding the effectiveness of such an order, before publishing the order. Not later than 10 days after its submission, the President may disapprove the order on finding disapproval is necessary for United States foreign policy or national defense reasons.
 - **(g)** This section and compliance with an order of the Secretary under this section are conditions to any certificate or permit held by an air carrier or foreign air carrier. An air carrier or foreign air carrier may provide foreign air transportation only as long as the carrier maintains prices for that transportation that comply with this section and orders of the Secretary under this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 41509(a)(1) | 49 App.:1482(j)(1) (1st sentence words before semicolon, 2d sentence related to tariffs of air carriers and foreign air carriers), (2) (1st sentence words before semicolon, 2d sentence related to tariffs of air carriers and foreign air carriers). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 1002(j)(1), (2); added Mar. 22, 1972 , Pub. L. 92–259, § 3(a) , 86 Stat. 96 ; restated Feb. 15, 1980 , Pub. L. 96–192 , §§ 14, 15, 94 Stat. 40 . |
+|  | 49 App.:1551(b)(1)(E). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 1601(a)(4)(B) (related to § 403(c)(3)), (b) (1)(E); added Oct. 4, 1984 , Pub. L. 98–443, § 3(c) , (e), 98 Stat. 1703 , 1704. |
+| 41509(a)(2) | 49 App.:1482(j)(1) (2d sentence related to tariffs of foreign air carriers), (2) (2d sentence related to tariffs of foreign air carriers). |  |
+|  | 49 App.:1551(b)(1)(E). |  |
+| 41509(a)(3) | 49 App.:1482(j)(5). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 1002(j)(5); added Mar. 22, 1972 , Pub. L. 92–259, § 3(a) , 86 Stat. 98 ; Feb. 15, 1980 , Pub. L. 96–192, § 16 , 94 Stat. 42 . |
+|  | 49 App.:1551(b)(1)(E). |  |
+| 41509(b) | 49 App.:1373(c)(3). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 403(c)(3); added Oct. 24, 1978 , Pub. L. 95–504, § 22 , 92 Stat. 1724 . |
+|  | 49 App.:1482(j)(1) (1st sentence words after semicolon, 3d sentence), (2) (1st sentence words after semicolon). |  |
+|  | 49 App.:1551(a)(4)(B) (related to 49 App.:1373(c)(3)), (b)(1)(E). |  |
+| 41509(c)(1) | 49 App.:1482(j)(1) (4th sentence), (2) (3d sentence). |  |
+|  | 49 App.:1551(b)(1)(E). |  |
+| 41509(c)(2) | 49 App.:1482(j)(1) (5th, last sentences). |  |
+| 41509(c)(3) | 49 App.:1482(j)(2) (last sentence). |  |
+| 41509(d) | 49 App.:1482(j)(3). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 1002(j)(3), (4); added Mar. 22, 1972 , Pub. L. 92–259, § 3(a) , 86 Stat. 98 . |
+|  | 49 App.:1551(b)(1)(E). |  |
+| 41509(e) (1)(A) | 49 App.:1482(j)(7). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 1002(j)(6), (7), (9), (10); added Feb. 15, 1980 , Pub. L. 96–192, § 24(a) , 94 Stat. 45 , 47. |
+| 41509(e) (1)(B) | 49 App.:1482(j)(9). |  |
+|  | 49 App.:1551(b)(1)(E). |  |
+| 41509(e)(2), (3) | 49 App.:1482(j)(6), (10). |  |
+|  | 49 App.:1551(b)(1)(E). |  |
+| 41509(f) | 49 App.:1461(b). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 801(b); added Mar. 22, 1972 , Pub. L. 92–259, § 2 , 86 Stat. 96 . |
+|  | 49 App.:1551(b)(1)(E). |  |
+| 41509(g) | 49 App.:1482(j)(4). |  |
+|  | 49 App.:1551(b)(1)(E). |  |
+
+
+Cancellation and Rejection
+
+Suspension
+
+Effective Tariffs and Prices When Tariff Is Suspended, Canceled, or Rejected
+
+Response to Refusal of Foreign Country To Allow Air Carrier To Charge a Price
+
+Standard Foreign Fare Level
+
+Submission of Orders to President
+
+Compliance as Condition of Certificate or Permit
+
+Historical and Revision Notes
+
+41509(a)(1)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Mar. 22, 1972
+
+Pub. L. 92–259, § 3(a)
+
+86 Stat. 96
+
+Feb. 15, 1980
+
+Pub. L. 96–192
+
+94 Stat. 40
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Oct. 4, 1984
+
+Pub. L. 98–443, § 3(c)
+
+98 Stat. 1703
+
+41509(a)(2)
+
+41509(a)(3)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Mar. 22, 1972
+
+Pub. L. 92–259, § 3(a)
+
+86 Stat. 98
+
+Feb. 15, 1980
+
+Pub. L. 96–192, § 16
+
+94 Stat. 42
+
+41509(b)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Oct. 24, 1978
+
+Pub. L. 95–504, § 22
+
+92 Stat. 1724
+
+41509(c)(1)
+
+41509(c)(2)
+
+41509(c)(3)
+
+41509(d)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Mar. 22, 1972
+
+Pub. L. 92–259, § 3(a)
+
+86 Stat. 98
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Feb. 15, 1980
+
+Pub. L. 96–192, § 24(a)
+
+94 Stat. 45
+
+41509(f)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Mar. 22, 1972
+
+Pub. L. 92–259, § 2
+
+86 Stat. 96
+
+41509(g)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1135](https://www.govinfo.gov/link/statute/108/1135).)*

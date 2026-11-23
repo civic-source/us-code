@@ -3,9 +3,10 @@ title: "Section 5756 - Home marketing incentive payment"
 usc_title: 5
 usc_section: "5756"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 5756"
-generated_at: "2026-03-30T02:52:56.026Z"
+generated_at: "2026-11-23T20:25:31.985Z"
+status: "active"
 ---
 
 # § 5756. Home marketing incentive payment
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:52:56.026Z"
 - **(b)**
   - **(1)** The Administrator of General Services shall prescribe regulations to carry out this section.
   - **(2)** The regulations shall include a limitation on the maximum amount payable with respect to an employee’s residence. The Administrator shall establish the limitation in consultation with the Director of the Office of Management and Budget. For fiscal years 1997 and 1998, the maximum amount shall be the amount equal to five percent of the sale price of the residence.
+
+## Source Credit
+
+*(Added [Pub. L. 104–201, div. A, title XVII, § 1717](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2757](https://www.govinfo.gov/link/statute/110/2757).)*

@@ -3,9 +3,10 @@ title: "Section 16491 - Energy production incentives"
 usc_title: 42
 usc_section: "16491"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16491"
-generated_at: "2026-03-30T02:56:11.487Z"
+generated_at: "2026-11-23T20:27:23.689Z"
+status: "active"
 ---
 
 # § 16491. Energy production incentives
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.487Z"
 - **(c)** Any action taken by a State in accordance with this section with respect to a tax or fee payable, or incentive applicable, for any period beginning after August 8, 2005 , shall—
   - **(1)** be considered to be a reasonable regulation of commerce; and
   - **(2)** not be considered to impose an undue burden on interstate commerce or to otherwise impair, restrain, or discriminate, against interstate commerce.
+
+## Source Credit
+
+*([Pub. L. 109–58, title XIV, § 1402](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 1061](https://www.govinfo.gov/link/statute/119/1061).)*

@@ -3,9 +3,10 @@ title: "Section 50308 - Maritime transportation system emergency relief program"
 usc_title: 46
 usc_section: "50308"
 chapter: 503
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 50308"
-generated_at: "2026-03-30T02:56:15.568Z"
+generated_at: "2026-11-23T20:27:27.273Z"
+status: "active"
 ---
 
 # § 50308. Maritime transportation system emergency relief program
@@ -60,3 +61,43 @@ generated_at: "2026-03-30T02:56:15.568Z"
     - **(B)** the President has declared a major disaster under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5170 );
     - **(C)** national emergency declared by the President under the National Emergencies Act ( 50 U.S.C. 1601 et seq.) is in effect; or
     - **(D)** a public health emergency declared pursuant to section 319 of the Public Health Service Act ( 42 U.S.C. 247d ) is in effect.
+
+General Authority
+
+Allocation.—
+
+In general
+
+Priority
+
+Applications
+
+Coordination of Emergency Funds.—
+
+Use of funds
+
+No effect on other government activity
+
+Grant Requirements
+
+Federal Share of Costs
+
+Administrative Costs
+
+Quality Assurance
+
+Reports
+
+Definitions
+
+Eligible state or tribal entity
+
+Eligible entity
+
+Eligible operating costs
+
+Emergency
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. C, title XXXV, § 3505(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4402](https://www.govinfo.gov/link/statute/134/4402); amended [Pub. L. 118–31, div. C, title XXXV, § 3514(e)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 811](https://www.govinfo.gov/link/statute/137/811).)*

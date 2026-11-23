@@ -3,9 +3,10 @@ title: "Section 60511 - Careers training demonstration grants"
 usc_title: 34
 usc_section: "60511"
 chapter: 605
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 60511"
-generated_at: "2026-03-30T02:55:33.317Z"
+generated_at: "2026-11-23T20:26:50.672Z"
+status: "active"
 ---
 
 # § 60511. Careers training demonstration grants
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:33.317Z"
 - **(d)** An entity that receives a grant under subsection (a) shall restrict access to the Internet by prisoners, as appropriate, to ensure public safety.
 - **(e)** Not later than the last day of each fiscal year, an entity that receives a grant under subsection (a) during the preceding fiscal year shall submit to the Attorney General a report that describes and assesses the uses of such grant during the preceding fiscal year.
 - **(f)** There are authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2019, 2020, 2021, 2022, and 2023.
+
+## Source Credit
+
+*([Pub. L. 110–199, title I, § 115](https://www.govinfo.gov/link/plaw/110/public/199), Apr. 9, 2008, [122 Stat. 677](https://www.govinfo.gov/link/statute/122/677); [Pub. L. 115–391, title V, § 502(d)](https://www.govinfo.gov/link/plaw/115/public/391), Dec. 21, 2018, [132 Stat. 5229](https://www.govinfo.gov/link/statute/132/5229).)*

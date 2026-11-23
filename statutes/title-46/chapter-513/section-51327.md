@@ -3,9 +3,10 @@ title: "Section 51327 - Sexual Assault Advisory Council"
 usc_title: 46
 usc_section: "51327"
 chapter: 513
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 51327"
-generated_at: "2026-03-30T02:56:15.571Z"
+generated_at: "2026-11-23T20:27:27.293Z"
+status: "active"
 ---
 
 # § 51327. Sexual Assault Advisory Council
@@ -31,3 +32,31 @@ generated_at: "2026-03-30T02:56:15.571Z"
 - **(d)** On an annual basis for each of the 5 years after the date of enactment of this section, and at the discretion of the Council thereafter, the Council shall submit, to the President and the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives, a report on the Council’s findings based on the reviews conducted pursuant to subsection (c) and related recommendations.
 - **(e)** Members of the Council shall not be considered employees of the United States Government for any purpose and shall not receive compensation other than reimbursement of travel expenses and per diem allowance in accordance with section 5703 of title 5 .
 - **(f)** The Federal Advisory Committee Act (5 U.S.C. App.) 1 shall not apply to the Council.
+
+Establishment
+
+Membership.—
+
+In general
+
+Experts included
+
+Rules regarding membership
+
+Duties; Authorized Activities.—
+
+In general
+
+Authorized activities
+
+Personally identifiable information
+
+Reports
+
+Employee Status
+
+Nonapplicability of FACA
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. C, title XXXV, § 3531(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3086](https://www.govinfo.gov/link/statute/136/3086).)*

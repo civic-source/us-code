@@ -3,9 +3,10 @@ title: "Section 1643 - Statutory construction"
 usc_title: 8
 usc_section: "1643"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1643"
-generated_at: "2026-03-30T02:53:10.507Z"
+generated_at: "2026-11-23T20:25:36.280Z"
+status: "active"
 ---
 
 # § 1643. Statutory construction
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:10.507Z"
   - **(2)** benefits under laws administered by the Secretary of Veterans Affairs.
 - **(c)** This chapter does not apply to any Federal, State, or local governmental program, assistance, or benefits provided to an alien under any program of foreign assistance as determined by the Secretary of State in consultation with the Attorney General.
 - **(d)** If any provision of this chapter or the application of such provision to any person or circumstance is held to be unconstitutional, the remainder of this chapter and the application of the provisions of such to any person or circumstance shall not be affected thereby.
+
+## Source Credit
+
+*([Pub. L. 104–193, title IV, § 433](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2275](https://www.govinfo.gov/link/statute/110/2275); [Pub. L. 105–33, title V, § 5574](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 642](https://www.govinfo.gov/link/statute/111/642).)*

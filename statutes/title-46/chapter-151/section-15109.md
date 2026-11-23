@@ -3,9 +3,10 @@ title: "Section 15109 - Administration"
 usc_title: 46
 usc_section: "15109"
 chapter: 151
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 15109"
-generated_at: "2026-03-30T02:56:15.561Z"
+generated_at: "2026-11-23T20:27:27.196Z"
+status: "active"
 ---
 
 # § 15109. Administration
@@ -83,3 +84,113 @@ generated_at: "2026-03-30T02:56:15.561Z"
   - **(2)** With respect to the committee established under section 15102, the Chairman of the committee shall seek expertise from the fishing industry, marine safety experts, the shipbuilding industry, and others as the committee determines appropriate.
 - **(m)** Each committee established under this chapter or to which this chapter applies shall terminate on September 30, 2029 .
 - **(n)** Nothing in this section shall preclude the Secretary from taking emergency action to ensure safety and preservation of life at sea.
+
+Meetings.—
+
+In general
+
+Minimum requirements
+
+Employee Status
+
+Compensation
+
+Acceptance of Volunteer Services
+
+Status of Members.—
+
+In general
+
+Exception
+
+Service on Committee.—
+
+Solicitation of nominations
+
+Appointments.—
+
+In general
+
+Prohibition
+
+Service at pleasure of the secretary.—
+
+In general
+
+Exception
+
+Security background examinations
+
+Prohibition.—
+
+In general
+
+Special rule for national merchant marine personnel advisory committee
+
+Terms.—
+
+In general
+
+Continued service after term
+
+Vacancies
+
+Special rule for reappointments.—
+
+Reappointment
+
+Limitation
+
+Staff Services
+
+Chairman; Vice Chairman.—
+
+In general
+
+Vice chairman acting as chairman
+
+Subcommittees and Working Groups.—
+
+In general
+
+Participants
+
+Chair
+
+Consultation, Advice, Reports, and Recommendations.—
+
+Consultation.—
+
+In general
+
+Inclusion
+
+Advice, reports, and recommendations
+
+Explanation of actions taken
+
+Submission to congress.—
+
+In general
+
+Additional submission
+
+Observers.—
+
+In general
+
+National commercial fishing safety advisory committee
+
+Technical Assistance.—
+
+In general
+
+Committee consultation
+
+Termination
+
+Savings Clause
+
+## Source Credit
+
+*(Added [Pub. L. 115–282, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4286](https://www.govinfo.gov/link/statute/132/4286); amended [Pub. L. 116–283, div. G, title LVXXXIII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXIII], §§ 8331(b), 8335(a)(2), title LVXXXV [LXXXV], § 8505(b)(14), Jan. 1, 2021, [134 Stat. 4703](https://www.govinfo.gov/link/statute/134/4703), 4707, 4752; [Pub. L. 118–159, div. C, title XXXV, § 3535(e)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2315](https://www.govinfo.gov/link/statute/138/2315).)*

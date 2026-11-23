@@ -3,9 +3,10 @@ title: "Section 2455a - National Nuclear Security Administration authority for u
 usc_title: 50
 usc_section: "2455a"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 2455a"
-generated_at: "2026-03-30T02:56:26.225Z"
+generated_at: "2026-11-23T20:27:30.853Z"
+status: "active"
 ---
 
 # § 2455a. National Nuclear Security Administration authority for urgent nonproliferation activities
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:26.225Z"
 - **(c)** In this section, the term “appropriate congressional committees” means—
   - **(1)** the Committee on Foreign Affairs, the Committee on Armed Services, and the Committee on Appropriations of the House of Representatives; and
   - **(2)** the Committee on Foreign Relations, the Committee on Armed Services, and the Committee on Appropriations of the Senate.
+
+## Source Credit
+
+*([Pub. L. 111–84, div. C, title XXXI, § 3120](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2710](https://www.govinfo.gov/link/statute/123/2710).)*

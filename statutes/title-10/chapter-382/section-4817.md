@@ -3,9 +3,10 @@ title: "Section 4817 - Industrial Base Fund"
 usc_title: 10
 usc_section: "4817"
 chapter: 382
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 4817"
-generated_at: "2026-03-30T02:53:38.211Z"
+generated_at: "2026-11-23T20:25:51.974Z"
+status: "active"
 ---
 
 # § 4817. Industrial Base Fund
@@ -119,3 +120,79 @@ generated_at: "2026-03-30T02:53:38.211Z"
     - **(C)** a qualifying country, as defined in section 225.003 of the Department of Defense Supplement to the Federal Acquisition Regulation or any successor regulation.
   - **(3)** The term “Secretary” means the Secretary of Defense.
   - **(4)** The term “strategic and critical materials” has the meaning given that term in section 12(1) of the Strategic and Critical Materials Stock Piling Act ( 50 U.S.C. 98h–3(1) ).
+
+Establishment
+
+Control of Fund
+
+Amounts in Fund
+
+Use of Fund
+
+Use of Fund Subject to Appropriations
+
+Expenditures
+
+Eligible Uses of Authorities
+
+Prohibition on Use in Covered Countries
+
+Use of Authorities for Other Purposes
+
+Grants and Other Incentives for Domestic Industrial Base Capabilities
+
+Defense Industrial Base Purchase Commitment Program.—
+
+In general
+
+Exemption for certain limitations.—
+
+Purchases
+
+Limitation
+
+Findings of secretary.—
+
+In general
+
+Subsidy payments authorized
+
+Installation of equipment in industrial facilities.—
+
+In general
+
+Actions described
+
+Excess metals, minerals, materials, and components.—
+
+In general
+
+Transfers at no charge
+
+Treatment of materials
+
+Substitutes
+
+Strengthening Domestic Productive Capacity.—
+
+In general
+
+Strategic and critical materials, components, and critical technology items.—
+
+Maintenance of reliable sources of supply
+
+Appropriate action
+
+Annual Report.—
+
+In general
+
+Elements
+
+Advice
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 111–383, div. A, title VIII, § 896(b)(1)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4315](https://www.govinfo.gov/link/statute/124/4315), § 2508; amended [Pub. L. 115–91, div. A, title X, § 1081(g)(1)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1601](https://www.govinfo.gov/link/statute/131/1601); [Pub. L. 116–92, div. A, title IX, § 902(75)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1552](https://www.govinfo.gov/link/statute/133/1552); renumbered § 4817, [Pub. L. 116–283, div. A, title XVIII, § 1867(b)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4281](https://www.govinfo.gov/link/statute/134/4281); [Pub. L. 116–283, div. A, title XVIII, § 1867(d)(7)](https://www.govinfo.gov/link/plaw/116/public/283), as added [Pub. L. 117–81, div. A, title XVII, § 1701(b)(22)(C)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2135](https://www.govinfo.gov/link/statute/135/2135); [Pub. L. 119–60, div. A, title VIII, § 867(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(1), Dec. 18, 2025, [139 Stat. 996](https://www.govinfo.gov/link/statute/139/996), 1002.)*

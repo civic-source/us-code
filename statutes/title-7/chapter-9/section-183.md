@@ -3,12 +3,17 @@ title: "Section 183 - When transaction deemed in commerce; “State” defined"
 usc_title: 7
 usc_section: "183"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 183"
-generated_at: "2026-03-30T02:53:42.276Z"
+generated_at: "2026-11-23T20:25:40.993Z"
+status: "active"
 ---
 
 # § 183. When transaction deemed in commerce; “State” defined
 
 For the purpose of this chapter (but not in anywise limiting the definition in section 182 of this title ) a transaction in respect to any article shall be considered to be in commerce if such article is part of that current of commerce usual in the livestock and meat-packing industries, whereby livestock, meats, meat food products, livestock products, dairy products, poultry, poultry products, or eggs, are sent from one State with the expectation that they will end their transit, after purchase, in another, including, in addition to cases within the above general description, all cases where purchase or sale is either for shipment to another State, or for slaughter of livestock within the State and the shipment outside the State of the products resulting from such slaughter. Articles normally in such current of commerce shall not be considered out of such current through resort being had to any means or device intended to remove transactions in respect thereto from the provisions of this chapter. For the purpose of this section the word “State” includes Territory, the District of Columbia, possession of the United States, and foreign nation.
 
+
+## Source Credit
+
+*(Aug. 15, 1921, ch. 64, title I, § 2(b), [42 Stat. 160](https://www.govinfo.gov/link/statute/42/160); [Pub. L. 94–410, § 3(c)](https://www.govinfo.gov/link/plaw/94/public/410), Sept. 13, 1976, [90 Stat. 1249](https://www.govinfo.gov/link/statute/90/1249).)*

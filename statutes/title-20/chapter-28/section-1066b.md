@@ -3,9 +3,10 @@ title: "Section 1066b - Federal insurance for bonds"
 usc_title: 20
 usc_section: "1066b"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1066b"
-generated_at: "2026-03-30T02:54:48.102Z"
+generated_at: "2026-11-23T20:26:14.349Z"
+status: "active"
 ---
 
 # § 1066b. Federal insurance for bonds
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:54:48.102Z"
   - **(6)** All funds provided under the letter of credit shall be paid to the designated bonding authority within 2 business days following receipt of the certification described in paragraph (4).
 - **(d)** Subject to subsection (c)(1) the full faith and credit of the United States is pledged to the payment of all funds which may be required to be paid under the provisions of this section.
 - **(e)** Notwithstanding any other provision of law, a qualified bond guaranteed under this part may be sold to any party that offers terms that the Secretary determines are in the best interest of the eligible institution.
+
+## Source Credit
+
+*([Pub. L. 89–329, title III, § 343](https://www.govinfo.gov/link/plaw/89/public/329), formerly title VII, § 723, as added [Pub. L. 102–325, title VII, § 704](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 743](https://www.govinfo.gov/link/statute/106/743); amended [Pub. L. 103–382, title III, § 360C](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 3972](https://www.govinfo.gov/link/statute/108/3972); renumbered title III, § 343, and amended [Pub. L. 105–244, title III](https://www.govinfo.gov/link/plaw/105/public/244), §§ 301(a)(3), (4), (c)(5), 306(b), Oct. 7, 1998, [112 Stat. 1636](https://www.govinfo.gov/link/statute/112/1636), 1637, 1646; [Pub. L. 110–315, title III](https://www.govinfo.gov/link/plaw/110/public/315), §§ 314(b), 320(2), Aug. 14, 2008, [122 Stat. 3181](https://www.govinfo.gov/link/statute/122/3181), 3187.)*

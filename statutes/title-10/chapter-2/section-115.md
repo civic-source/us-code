@@ -3,9 +3,10 @@ title: "Section 115 - Personnel strengths: requirement for annual authorization"
 usc_title: 10
 usc_section: "115"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 115"
-generated_at: "2026-03-30T02:53:38.030Z"
+generated_at: "2026-11-23T20:25:50.808Z"
+status: "active"
 ---
 
 # § 115. Personnel strengths: requirement for annual authorization
@@ -74,3 +75,25 @@ generated_at: "2026-03-30T02:53:38.030Z"
   - **(11)** Members of a reserve component on active duty under section 10(b)(2) of the Military Selective Service Act (50 U.S.C. App. 460(b)(2)) 1 1 See References in Text note below. for the administration of the Selective Service System.
   - **(12)** Members of the National Guard on full-time National Guard duty for the purpose of providing command, administrative, training, or support services for the National Guard Challenge Program authorized by section 509 of title 32 .
   - **(13)** Members of the National Guard on full-time National Guard duty involuntarily and performing homeland defense activities under chapter 9 of title 32.
+
+Active-Duty, Selected Reserve, and Space Force End Strengths To Be Authorized by Law
+
+Certain Reserves on Active Duty To Be Authorized by Law
+
+Limitation on Appropriations for Military Personnel
+
+Military Technician (Dual Status) End Strengths To Be Authorized by Law
+
+End-of-Quarter Strength Levels
+
+Authority for Secretary of Defense Variances for Active-Duty and Selected Reserve Strengths
+
+Authority for Service Secretary Variances for Active-duty and Selected Reserve End Strengths
+
+Adjustment When Coast Guard is Operating as a Service in the Navy
+
+Certain Personnel Excluded From Counting for Active-Duty End Strengths
+
+## Source Credit
+
+*(Added [Pub. L. 101–510, div. A, title XIV, § 1483(a)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1710](https://www.govinfo.gov/link/statute/104/1710); amended [Pub. L. 102–190, div. A, title III, § 312(a)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1335](https://www.govinfo.gov/link/statute/105/1335); [Pub. L. 104–106, div. A, title IV](https://www.govinfo.gov/link/plaw/104/public/106), §§ 401(c), 415, title V, § 513(a)(1), title X, § 1061(c), title XV, § 1501(c)(3), Feb. 10, 1996, [110 Stat. 286](https://www.govinfo.gov/link/statute/110/286), 288, 305, 442, 498; [Pub. L. 105–85, div. A, title IV, § 413(b)](https://www.govinfo.gov/link/plaw/105/public/85), title V, § 522(i)(1), Nov. 18, 1997, [111 Stat. 1720](https://www.govinfo.gov/link/statute/111/1720), 1736; [Pub. L. 106–65, div. A, title IV, § 415](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 587](https://www.govinfo.gov/link/statute/113/587); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title IV, § 422], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–96; [Pub. L. 107–107, div. A, title IV](https://www.govinfo.gov/link/plaw/107/public/107), §§ 421(a), 422, Dec. 28, 2001, [115 Stat. 1076](https://www.govinfo.gov/link/statute/115/1076), 1077; [Pub. L. 107–314, div. A, title IV, § 403](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2525](https://www.govinfo.gov/link/statute/116/2525); [Pub. L. 108–136, div. A, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/108/public/136), (b), Nov. 24, 2003, [117 Stat. 1450](https://www.govinfo.gov/link/statute/117/1450), 1451; [Pub. L. 108–375, div. A, title IV, § 416(a)](https://www.govinfo.gov/link/plaw/108/public/375) –(d), title V, § 512(b), Oct. 28, 2004, [118 Stat. 1866](https://www.govinfo.gov/link/statute/118/1866), 1867, 1880; [Pub. L. 109–364, div. A, title X, § 1071(a)(1)](https://www.govinfo.gov/link/plaw/109/public/364), (g)(1)(A), Oct. 17, 2006, [120 Stat. 2398](https://www.govinfo.gov/link/statute/120/2398), 2402; [Pub. L. 110–181, div. A, title IV](https://www.govinfo.gov/link/plaw/110/public/181), §§ 416(b), 417, Jan. 28, 2008, [122 Stat. 91](https://www.govinfo.gov/link/statute/122/91), 92; [Pub. L. 111–84, div. A, title IV, § 418](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2268](https://www.govinfo.gov/link/statute/123/2268); [Pub. L. 114–328, div. A, title IV, § 416](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2093](https://www.govinfo.gov/link/statute/130/2093); [Pub. L. 115–91, div. A, title X, § 1081(a)(2)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1594](https://www.govinfo.gov/link/statute/131/1594); [Pub. L. 115–232, div. A, title XII, § 1204(a)(4)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2017](https://www.govinfo.gov/link/statute/132/2017); [Pub. L. 116–283, div. A, title IV, § 415(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3558](https://www.govinfo.gov/link/statute/134/3558); [Pub. L. 117–81, div. A, title IV, § 415](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1675](https://www.govinfo.gov/link/statute/135/1675); [Pub. L. 117–263, div. A, title IV, § 402(b)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2551](https://www.govinfo.gov/link/statute/136/2551); [Pub. L. 118–31, div. A, title IV, § 402](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 235](https://www.govinfo.gov/link/statute/137/235); [Pub. L. 118–159, div. A, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/118/public/159) –(c)(2), Dec. 23, 2024, [138 Stat. 1862](https://www.govinfo.gov/link/statute/138/1862).)*

@@ -3,9 +3,10 @@ title: "Section 10262 - Nuclear Waste Technical Review Board"
 usc_title: 42
 usc_section: "10262"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10262"
-generated_at: "2026-03-30T02:56:11.385Z"
+generated_at: "2026-11-23T20:27:23.229Z"
+status: "active"
 ---
 
 # § 10262. Nuclear Waste Technical Review Board
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:11.385Z"
         - **(III)** an entity performing high-level radioactive waste or spent nuclear fuel activities under contract with the Department of Energy.
   - **(4)** Any vacancy on the Board shall be filled by the nomination and appointment process described in paragraphs (1) and (3).
   - **(5)** Members of the Board shall be appointed for terms of 4 years, each such term to commence 120 days after December 22, 1987 , except that of the 11 members first appointed to the Board, 5 shall serve for 2 years and 6 shall serve for 4 years, to be designated by the President at the time of appointment.
+
+## Source Credit
+
+*([Pub. L. 97–425, title V, § 502](https://www.govinfo.gov/link/plaw/97/public/425), as added [Pub. L. 100–202, § 101(d) [title III]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–104](https://www.govinfo.gov/link/statute/101/1329), 1329–121; [Pub. L. 100–203, title V, § 5051](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–248](https://www.govinfo.gov/link/statute/101/1330).)*

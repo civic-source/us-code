@@ -3,12 +3,21 @@ title: "Section 170a - Maximum amount available from Federal sources"
 usc_title: 24
 usc_section: "170a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "24 U.S.C. § 170a"
-generated_at: "2026-03-30T02:54:50.789Z"
+generated_at: "2026-11-23T20:26:22.687Z"
+status: "active"
 ---
 
 # § 170a. Maximum amount available from Federal sources
 
 In fiscal year 1989 and thereafter, the maximum amount available to Saint Elizabeths Hospital from Federal sources shall not exceed the total of the following amounts: the appropriations made under this heading, amounts billed to Federal agencies and entities by the District of Columbia for services provided at Saint Elizabeths Hospital, and amounts authorized by titles XVIII and XIX of the Social Security Act [ 42 U.S.C. 1395 et seq., 1396 et seq.]. This maximum amount shall not include Federal funds appropriated to the District of Columbia under “Federal Payment to the District of Columbia” and payments made pursuant to section 9(c) of Public Law 98–621 .
 
+
+“Alcohol, Drug Abuse, and Mental Health Administration”
+
+“federal subsidy for saint elizabeths hospital”
+
+## Source Credit
+
+*([Pub. L. 100–436, title II](https://www.govinfo.gov/link/plaw/100/public/436), Sept. 20, 1988, [102 Stat. 1693](https://www.govinfo.gov/link/statute/102/1693).)*

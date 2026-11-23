@@ -3,9 +3,10 @@ title: "Section 6603 - Sense of Congress on innovation acceleration research"
 usc_title: 42
 usc_section: "6603"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6603"
-generated_at: "2026-03-30T02:56:11.263Z"
+generated_at: "2026-11-23T20:27:22.687Z"
+status: "active"
 ---
 
 # § 6603. Sense of Congress on innovation acceleration research
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.263Z"
 - **(c)** In this section:
   - **(1)** The term “basic research” has the meaning given such term in the Office of Management and Budget Circular No. A–11.
   - **(2)** The term “Executive agency” has the meaning given such term in section 105 of title 5 .
+
+## Source Credit
+
+*([Pub. L. 110–69, title I, § 1008](https://www.govinfo.gov/link/plaw/110/public/69), Aug. 9, 2007, [121 Stat. 581](https://www.govinfo.gov/link/statute/121/581); [Pub. L. 114–329, title II, § 204(a)(2)](https://www.govinfo.gov/link/plaw/114/public/329), Jan. 6, 2017, [130 Stat. 2998](https://www.govinfo.gov/link/statute/130/2998).)*

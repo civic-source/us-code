@@ -3,9 +3,10 @@ title: "Section 2801 - Congressional findings, purpose, and policy"
 usc_title: 16
 usc_section: "2801"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 2801"
-generated_at: "2026-03-30T02:54:23.006Z"
+generated_at: "2026-11-23T20:26:20.619Z"
+status: "active"
 ---
 
 # § 2801. Congressional findings, purpose, and policy
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:23.006Z"
   - **(3)** establishing the Department of Agriculture as the lead Federal agency with respect to the coordination and dissemination of national aquaculture information by designating the Secretary of Agriculture as the permanent chairman of the coordinating group and by establishing a National Aquaculture Information Center within the Department of Agriculture; and
   - **(4)** encouraging aquaculture activities and programs in both the public and private sectors of the economy;
 - **(c)** Congress declares that aquaculture has the potential for reducing the United States trade deficit in fisheries products, for augmenting existing commercial and recreational fisheries and for producing other renewable resources, thereby assisting the United States in meeting its future food needs and contributing to the solution of world resource problems. It is, therefore, in the national interest, and it is the national policy, to encourage the development of aquaculture in the United States.
+
+## Source Credit
+
+*([Pub. L. 96–362, § 2](https://www.govinfo.gov/link/plaw/96/public/362), Sept. 26, 1980, [94 Stat. 1198](https://www.govinfo.gov/link/statute/94/1198); [Pub. L. 99–198, title XVII, § 1732](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1641](https://www.govinfo.gov/link/statute/99/1641).)*

@@ -3,9 +3,10 @@ title: "Section 10149 - Ready Reserve: continuous screening"
 usc_title: 10
 usc_section: "10149"
 chapter: 1005
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 10149"
-generated_at: "2026-03-30T02:53:38.264Z"
+generated_at: "2026-11-23T20:25:52.377Z"
+status: "active"
 ---
 
 # § 10149. Ready Reserve: continuous screening
@@ -26,3 +27,11 @@ generated_at: "2026-03-30T02:53:38.264Z"
   - **(1)** transferred to the Standby Reserve;
   - **(2)** discharged; or
   - **(3)** if the member is eligible and applies therefor, transferred to the Retired Reserve.
+
+Section
+
+Sec
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1661(a)(1)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2974](https://www.govinfo.gov/link/statute/108/2974); amended [Pub. L. 107–296, title XVII, § 1704(b)(1)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314); [Pub. L. 114–92, div. A, title V, § 511](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 808](https://www.govinfo.gov/link/statute/129/808).)*

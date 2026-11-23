@@ -3,9 +3,10 @@ title: "Section 119a - Programs managed under alternative compensatory control m
 usc_title: 10
 usc_section: "119a"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 119a"
-generated_at: "2026-03-30T02:53:38.031Z"
+generated_at: "2026-11-23T20:25:50.811Z"
+status: "active"
 ---
 
 # § 119a. Programs managed under alternative compensatory control measures: congressional oversight
@@ -51,3 +52,47 @@ generated_at: "2026-03-30T02:53:38.031Z"
     - **(A)** any classified program, or any information about any classified program, to which such committees have access as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 2022; or
     - **(B)** any classified program established, or any information about any classified program that becomes available, after the date of the enactment of such Act that is within the jurisdiction of such committees.
   - **(2)** In this subsection, the term “classified program” includes any special access program, alternative compensatory control measure, or any other controlled access program.
+
+Annual Report on Current Programs Under ACCMS.—
+
+In general
+
+Elements
+
+Elements on programs covered by multiyear budgeting
+
+Annual Report on New Programs Under ACCMS.—
+
+In general
+
+Additional elements
+
+New program being managed under alternative compensatory control measures defined
+
+Report on Change in Classification or Declassification of Programs.—
+
+In general
+
+Deadline for report
+
+Exception
+
+Modification of Criteria or Policy for Designating Programs Under Accms
+
+Waiver.—
+
+In general
+
+Notice to congress
+
+Limitation on Initiation of Programs Under Accms.—
+
+Notice and wait
+
+Exception
+
+Congressional Oversight
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. A, title X, § 1062(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2405](https://www.govinfo.gov/link/statute/130/2405); amended [Pub. L. 116–92, div. A, title XVII, § 1731(a)(4)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1812](https://www.govinfo.gov/link/statute/133/1812); [Pub. L. 117–81, div. A, title X, § 1041(b)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1903](https://www.govinfo.gov/link/statute/135/1903).)*

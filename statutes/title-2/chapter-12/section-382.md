@@ -3,9 +3,10 @@ title: "Section 382 - Notice of contest"
 usc_title: 2
 usc_section: "382"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 382"
-generated_at: "2026-03-30T02:53:04.796Z"
+generated_at: "2026-11-23T20:25:28.884Z"
+status: "active"
 ---
 
 # § 382. Notice of contest
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:04.796Z"
   - **(4)** by delivering a copy to an agent authorized by appointment to receive service of such notice;
   - **(5)** by mailing a copy by registered or certified mail addressed to contestee at his residence or principal office or place of business. Service by mail is complete upon mailing; or
   - **(6)** the verified return by the person so serving such notice, setting forth the time and manner of such service shall be proof of same, and the return post office receipt shall be proof of the service of said notice mailed by registered or certified mail as aforesaid. Proof of service shall be made to the Clerk promptly and in any event within the time during which the contestee must answer the notice of contest. Failure to make proof of service does not affect the validity of the service.
+
+## Source Credit
+
+*([Pub. L. 91–138, § 3](https://www.govinfo.gov/link/plaw/91/public/138), Dec. 5, 1969, [83 Stat. 284](https://www.govinfo.gov/link/statute/83/284); [Pub. L. 104–186, title II, § 211(3)](https://www.govinfo.gov/link/plaw/104/public/186), Aug. 20, 1996, [110 Stat. 1744](https://www.govinfo.gov/link/statute/110/1744).)*

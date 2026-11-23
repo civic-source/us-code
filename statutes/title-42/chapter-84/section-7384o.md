@@ -3,9 +3,10 @@ title: "Section 7384o - Advisory Board on Radiation and Worker Health"
 usc_title: 42
 usc_section: "7384o"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7384o"
-generated_at: "2026-03-30T02:56:11.291Z"
+generated_at: "2026-11-23T20:27:22.820Z"
+status: "active"
 ---
 
 # § 7384o. Advisory Board on Radiation and Worker Health
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.291Z"
   - **(1)** The Secretary of Energy shall ensure that the members and staff of the Board, and the contractors performing work in support of the Board, are afforded the opportunity to apply for a security clearance for any matter for which such a clearance is appropriate. The Secretary should, not later than 180 days after receiving a completed application, make a determination whether or not the individual concerned is eligible for the clearance.
   - **(2)** For fiscal year 2007 and each fiscal year thereafter, the Secretary of Energy shall include in the budget justification materials submitted to Congress in support of the Department of Energy budget for that fiscal year (as submitted with the budget of the President under section 1105(a) of title 31 ) a report specifying the number of applications for security clearances under this subsection, the number of such applications granted, and the number of such applications denied.
 - **(f)** The Secretary of Energy shall, in accordance with law, provide to the Board and the contractors of the Board access to any information that the Board considers relevant to carry out its responsibilities under this subchapter, including information such as Restricted Data (as defined in section 2014(y) of this title ) and information covered by the Privacy Act [ 5 U.S.C. 552a ].
+
+## Source Credit
+
+*([Pub. L. 106–398, § 1 [div. C, title XXXVI, § 3624]](https://www.govinfo.gov/link/plaw/106/public/398), Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–504; [Pub. L. 108–375, div. C, title XXXI, § 3166(a)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2188](https://www.govinfo.gov/link/statute/118/2188).)*

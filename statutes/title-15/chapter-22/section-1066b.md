@@ -3,9 +3,10 @@ title: "Section 1066b - Ex parte reexamination"
 usc_title: 15
 usc_section: "1066b"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1066b"
-generated_at: "2026-03-30T02:54:08.126Z"
+generated_at: "2026-11-23T20:26:03.953Z"
+status: "active"
 ---
 
 # § 1066b. Ex parte reexamination
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:54:08.126Z"
   - **(1)** With respect to a particular registration, while an ex parte reexamination proceeding is pending, no later ex parte reexamination proceeding may be instituted with respect to the same goods or services that are the subject of a pending ex parte reexamination proceeding.
   - **(2)** With respect to a particular registration, for any goods or services previously subject to an instituted ex parte reexamination proceeding for which, in that proceeding, it was determined that the registrant had used the mark for particular goods or services before the relevant date, and the registration was not cancelled as to those goods or services, no further ex parte reexamination proceedings may be initiated as to those goods or services, regardless of the identity of the petitioner.
 - **(k)** The provisions of subsection (b) apply, as appropriate, to registrations under section 1091 of this title . Nothing in this section shall be construed to limit the timing of a cancellation action under section 1092 of this title .
+
+## Source Credit
+
+*(July 5, 1946, ch. 540, title I, § 16B, as added [Pub. L. 116–260, div. Q, title II, § 225(c)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2205](https://www.govinfo.gov/link/statute/134/2205).)*

@@ -3,9 +3,10 @@ title: "Section 48A - Qualifying advanced coal project credit"
 usc_title: 26
 usc_section: "48A"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 48A"
-generated_at: "2026-03-30T02:55:27.609Z"
+generated_at: "2026-11-23T20:26:45.249Z"
+status: "active"
 ---
 
 # § 48A. Qualifying advanced coal project credit
@@ -85,7 +86,15 @@ generated_at: "2026-03-30T02:55:27.609Z"
     - **(A)** the unit—
       - **(i)** uses integrated gasification combined cycle technology, or
       - **(ii)** except as provided in paragraph (3), has a design net heat rate of 8530 Btu/kWh (40 percent efficiency), and
-    - **(B)** the unit is designed to meet the performance requirements in the following table: Performance characteristic: Design level for project: SO 2 (percent removal) 99 percent NO x (emissions) 0.07 lbs/MMBTU PM* (emissions) 0.015 lbs/MMBTU Hg (percent removal) 90 percent
+    - **(B)** the unit is designed to meet the performance requirements in the following table:
+
+| Performance characteristic: | Design level for project: |
+| --- | --- |
+| SO 2 (percent removal) | 99 percent |
+| NO x (emissions) | 0.07 lbs/MMBTU |
+| PM* (emissions) | 0.015 lbs/MMBTU |
+| Hg (percent removal) | 90 percent |
+
   - **(2)** For purposes of this subsection, design net heat rate with respect to an electric generation unit shall—
     - **(A)** be measured in Btu per kilowatt hour (higher heating value),
     - **(B)** be based on the design annual heat input to the unit and the rated net electrical power, fuels, and chemicals output of the unit (determined without regard to the cogeneration of steam by the unit),
@@ -111,3 +120,21 @@ generated_at: "2026-03-30T02:55:27.609Z"
   - **(2)** is requested by the recipient of the competitive certification award, and
   - **(3)** involves moving the project site to improve the potential to capture and sequester carbon dioxide emissions, reduce costs of transporting feedstock, and serve a broader customer base,
 - **(i)** The Secretary shall provide for recapturing the benefit of any credit allowable under subsection (a) with respect to any project which fails to attain or maintain the separation and sequestration requirements of subsection (e)(1)(G).
+
+SO 2 (percent removal)
+
+NO x (emissions)
+
+PM* (emissions)
+
+Hg (percent removal)
+
+In general
+
+Disclosure of allocations
+
+Clerical amendment
+
+## Source Credit
+
+*(Added [Pub. L. 109–58, title XIII, § 1307(b)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 999](https://www.govinfo.gov/link/statute/119/999); amended [Pub. L. 109–432, div. A, title II, § 203(a)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 2945](https://www.govinfo.gov/link/statute/120/2945); [Pub. L. 110–172, § 11(a)(10)](https://www.govinfo.gov/link/plaw/110/public/172), Dec. 29, 2007, [121 Stat. 2485](https://www.govinfo.gov/link/statute/121/2485); [Pub. L. 110–234, title XV, § 15346(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1523](https://www.govinfo.gov/link/statute/122/1523); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XV, § 15346(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2285; [Pub. L. 110–343, div. B, title I, § 111(a)](https://www.govinfo.gov/link/plaw/110/public/343) –(d), Oct. 3, 2008, [122 Stat. 3822](https://www.govinfo.gov/link/statute/122/3822), 3823; [Pub. L. 111–5, div. B, title I, § 1103(b)(2)(C)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 321](https://www.govinfo.gov/link/statute/123/321).)*

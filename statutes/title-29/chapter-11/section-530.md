@@ -3,12 +3,17 @@ title: "Section 530 - Deprivation of rights by violence; penalty"
 usc_title: 29
 usc_section: "530"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 530"
-generated_at: "2026-03-30T02:55:18.685Z"
+generated_at: "2026-11-23T20:26:37.820Z"
+status: "active"
 ---
 
 # § 530. Deprivation of rights by violence; penalty
 
 It shall be unlawful for any person through the use of force or violence, or threat of the use of force or violence, to restrain, coerce, or intimidate, or attempt to restrain, coerce, or intimidate any member of a labor organization for the purpose of interfering with or preventing the exercise of any right to which he is entitled under the provisions of this chapter. Any person who willfully violates this section shall be fined not more than $1,000 or imprisoned for not more than one year, or both.
 
+
+## Source Credit
+
+*([Pub. L. 86–257, title VI, § 610](https://www.govinfo.gov/link/plaw/86/public/257), Sept. 14, 1959, [73 Stat. 541](https://www.govinfo.gov/link/statute/73/541).)*

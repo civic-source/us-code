@@ -3,9 +3,10 @@ title: "Section 941h - Great Lakes monitoring, assessment, science, and research
 usc_title: 16
 usc_section: "941h"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 941h"
-generated_at: "2026-03-30T02:54:22.935Z"
+generated_at: "2026-11-23T20:26:20.345Z"
+status: "active"
 ---
 
 # § 941h. Great Lakes monitoring, assessment, science, and research
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:54:22.935Z"
     - **(H)** studies to assess impacts on Great Lakes Fishery resources.
   - **(4)** Nothing in this section is intended or shall be construed to impede, supersede, or alter the authority of the Great Lakes Fishery Commission, States, and Indian tribes under the Convention on Great Lakes Fisheries between the United States of America and Canada on September 10, 1954 , and the Great Lakes Fishery Act of 1956 ( 16 U.S.C. 931 et seq.).
 - **(d)** For each of fiscal years 2021 through 2030, there is authorized to be appropriated $15,000,000 to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 116–94, div. P, title II, § 201](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3184](https://www.govinfo.gov/link/statute/133/3184); [Pub. L. 119–67, § 2](https://www.govinfo.gov/link/plaw/119/public/67), Dec. 26, 2025, [139 Stat. 1993](https://www.govinfo.gov/link/statute/139/1993).)*

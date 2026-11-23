@@ -3,9 +3,10 @@ title: "Section 3502 - Interagency Working Group on Ocean and Coastal Mapping"
 usc_title: 33
 usc_section: "3502"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 3502"
-generated_at: "2026-03-30T02:55:41.141Z"
+generated_at: "2026-11-23T20:26:54.265Z"
+status: "active"
 ---
 
 # § 3502. Interagency Working Group on Ocean and Coastal Mapping
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:41.141Z"
   - **(5)** data acquisition and user groups through workshops, partnerships, and other appropriate mechanisms; and
   - **(6)** representatives of nongovernmental entities.
 - **(g)** The Working Group shall support the National Ocean Mapping, Exploration, and Characterization Council established under section 5405 of the National Ocean Exploration Act 1 and the Ocean Science and Technology Subcommittee of the Ocean Policy Committee established under section 8932(c) of title 10 on ocean mapping activities and associated technology development across the Federal Government, State governments, coastal Indian Tribes, private industry, nongovernmental organizations, and academia.
+
+## Source Credit
+
+*([Pub. L. 111–11, title XII, § 12203](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1423](https://www.govinfo.gov/link/statute/123/1423); [Pub. L. 117–263, div. J, title CIII, § 10307(b)(1)(B)](https://www.govinfo.gov/link/plaw/117/public/263), (2)–(9), Dec. 23, 2022, [136 Stat. 3975](https://www.govinfo.gov/link/statute/136/3975), 3976.)*

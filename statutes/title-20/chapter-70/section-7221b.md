@@ -3,9 +3,10 @@ title: "Section 7221b - Grants to support high-quality charter schools"
 usc_title: 20
 usc_section: "7221b"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 7221b"
-generated_at: "2026-03-30T02:54:48.206Z"
+generated_at: "2026-11-23T20:26:14.885Z"
+status: "active"
 ---
 
 # § 7221b. Grants to support high-quality charter schools
@@ -173,3 +174,15 @@ generated_at: "2026-03-30T02:54:48.206Z"
   - **(4)** A description of—
     - **(A)** how the State entity complied with, and ensured that eligible applicants complied with, the assurances included in the State entity’s application; and
     - **(B)** how the State entity worked with authorized public chartering agencies, and how the agencies worked with the management company or leadership of the schools that received subgrant funds under this section, if applicable.
+
+(aa) whether the State entity is using the grant funds for the agreed upon uses of funds; and
+
+(bb) whether the full amount of the grant will be needed for the remainder of the grant period; and
+
+(aa) by using such funds to award grants under this section to other State entities; or
+
+(bb) in a fiscal year in which the amount of such remaining funds is insufficient to award grants under item (aa), in accordance with subparagraph (B).
+
+## Source Credit
+
+*([Pub. L. 89–10, title IV, § 4303](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title IV, § 4301(1)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1995](https://www.govinfo.gov/link/statute/129/1995).)*

@@ -3,9 +3,10 @@ title: "Section 1337 - Unfair practices in import trade"
 usc_title: 19
 usc_section: "1337"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1337"
-generated_at: "2026-03-30T02:54:24.630Z"
+generated_at: "2026-11-23T20:26:10.742Z"
+status: "active"
 ---
 
 # § 1337. Unfair practices in import trade
@@ -97,3 +98,15 @@ generated_at: "2026-03-30T02:54:24.630Z"
       - **(v)** maintaining the administrative record of the investigation or related proceeding,
     - **(B)** an officer or employee of the United States Government who is directly involved in the review under subsection (j), or
     - **(C)** an officer or employee of the United States Customs Service who is directly involved in administering an exclusion from entry under subsection (d), (e), or (g) resulting from the investigation or related proceeding in connection with which the information is submitted.
+
+“The amendments made by this subtitle [subtitle C (§§ 321, 322) of title III of Pub. L. 103–465 , enacting sections 1368 and 1659 of Title 28, Judiciary and Judicial Procedure, and amending this section and section 1446 of Title 28 ] apply—
+
+Findings
+
+Purpose
+
+George W. Bush.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title III, § 337, [46 Stat. 703](https://www.govinfo.gov/link/statute/46/703); Proc. No. 2695, July 4, 1946, 11 F.R. 7517, [60 Stat. 1352](https://www.govinfo.gov/link/statute/60/1352); [Pub. L. 85–686, § 9(c)(1)](https://www.govinfo.gov/link/plaw/85/public/686), Aug. 20, 1958, [72 Stat. 679](https://www.govinfo.gov/link/statute/72/679); [Pub. L. 93–618, title III, § 341(a)](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 2053](https://www.govinfo.gov/link/statute/88/2053); [Pub. L. 96–39, title I, § 106(b)(1)](https://www.govinfo.gov/link/plaw/96/public/39), title XI, § 1105, July 26, 1979, [93 Stat. 193](https://www.govinfo.gov/link/statute/93/193), 310; [Pub. L. 96–417, title VI, § 604](https://www.govinfo.gov/link/plaw/96/public/417), Oct. 10, 1980, [94 Stat. 1744](https://www.govinfo.gov/link/statute/94/1744); [Pub. L. 97–164, title I](https://www.govinfo.gov/link/plaw/97/public/164), §§ 160(a)(5), 163(a)(4), Apr. 2, 1982, [96 Stat. 48](https://www.govinfo.gov/link/statute/96/48), 49; [Pub. L. 98–620, title IV, § 413](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3362](https://www.govinfo.gov/link/statute/98/3362); [Pub. L. 100–418, title I](https://www.govinfo.gov/link/plaw/100/public/418), §§ 1214(h)(3), 1342(a), (b), Aug. 23, 1988, [102 Stat. 1157](https://www.govinfo.gov/link/statute/102/1157), 1212, 1215; [Pub. L. 100–647, title IX, § 9001(a)(7)](https://www.govinfo.gov/link/plaw/100/public/647), (12), Nov. 10, 1988, [102 Stat. 3807](https://www.govinfo.gov/link/statute/102/3807); [Pub. L. 102–563, § 3(d)](https://www.govinfo.gov/link/plaw/102/public/563), Oct. 28, 1992, [106 Stat. 4248](https://www.govinfo.gov/link/statute/106/4248); [Pub. L. 103–465, title II, § 261(d)(1)(B)(ii)](https://www.govinfo.gov/link/plaw/103/public/465), title III, § 321(a), Dec. 8, 1994, [108 Stat. 4909](https://www.govinfo.gov/link/statute/108/4909), 4943; [Pub. L. 104–295, § 20(b)(11)](https://www.govinfo.gov/link/plaw/104/public/295), (12), (c)(2), Oct. 11, 1996, [110 Stat. 3527](https://www.govinfo.gov/link/statute/110/3527), 3528; [Pub. L. 106–113, div. B, § 1000(a)(9) [title V, § 5005(b)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–594; [Pub. L. 108–429, title II, § 2004(d)(5)](https://www.govinfo.gov/link/plaw/108/public/429), Dec. 3, 2004, [118 Stat. 2592](https://www.govinfo.gov/link/statute/118/2592).)*

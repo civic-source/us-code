@@ -3,9 +3,10 @@ title: "Section 5061 - Definitions"
 usc_title: 42
 usc_section: "5061"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5061"
-generated_at: "2026-03-30T02:56:11.215Z"
+generated_at: "2026-11-23T20:27:22.443Z"
+status: "active"
 ---
 
 # § 5061. Definitions
@@ -32,3 +33,7 @@ For the purposes of this chapter—
   - **(18)** the terms “VISTA” and “Volunteers in Service to America” mean the program established under part A of subchapter I;
   - **(19)** the term “VISTA volunteer” means a volunteer in VISTA; and
   - **(20)** the term “authorizing committees” means the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate.
+
+## Source Credit
+
+*([Pub. L. 93–113, title IV, § 421](https://www.govinfo.gov/link/plaw/93/public/113), Oct. 1, 1973, [87 Stat. 414](https://www.govinfo.gov/link/statute/87/414); [Pub. L. 99–551](https://www.govinfo.gov/link/plaw/99/public/551), §§ 6(b), 10(h), Oct. 27, 1986, [100 Stat. 3074](https://www.govinfo.gov/link/statute/100/3074), 3078; [Pub. L. 101–204, title IV, § 403](https://www.govinfo.gov/link/plaw/101/public/204), title V, § 502(b), Dec. 7, 1989, [103 Stat. 1815](https://www.govinfo.gov/link/statute/103/1815), 1817; [Pub. L. 103–82, title IV](https://www.govinfo.gov/link/plaw/103/public/82), §§ 401, 404, 405(a)(10), Sept. 21, 1993, [107 Stat. 917](https://www.govinfo.gov/link/statute/107/917), 920, 921; [Pub. L. 105–220, title IV, § 414(e)](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1242](https://www.govinfo.gov/link/statute/112/1242); [Pub. L. 108–36, title III, § 306](https://www.govinfo.gov/link/plaw/108/public/36), June 25, 2003, [117 Stat. 825](https://www.govinfo.gov/link/statute/117/825); [Pub. L. 111–13, title II, § 2154](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1591](https://www.govinfo.gov/link/statute/123/1591).)*

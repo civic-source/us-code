@@ -3,9 +3,10 @@ title: "Section 278s - Manufacturing USA"
 usc_title: 15
 usc_section: "278s"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 278s"
-generated_at: "2026-03-30T02:54:08.080Z"
+generated_at: "2026-11-23T20:26:03.691Z"
+status: "active"
 ---
 
 # § 278s. Manufacturing USA
@@ -206,3 +207,9 @@ generated_at: "2026-03-30T02:54:08.080Z"
     - **(K)** additional programs that the Secretary determines are appropriate to support the activities of existing Manufacturing USA institutes. 2
 - **(l)** Chapter 18 of title 35 shall apply to any funding agreement (as defined in section 201 of that title) awarded to new or existing Manufacturing USA institutes with respect to which financial assistance is awarded under subsection (e).
 - **(m)** Any reference in law, regulation, map, document, paper, or other record of the United States to the “Network for Manufacturing Innovation Program”, the “Network for Manufacturing Innovation”, “National Office of the Network for Manufacturing Innovation Program”, or a “center for manufacturing innovation” shall be considered to be a reference to the Manufacturing USA Program, the Manufacturing USA Network, the National Office of the Manufacturing USA Network, or a Manufacturing USA institute, respectively.
+
+“Congress finds the following:
+
+## Source Credit
+
+*(Mar. 3, 1901, ch. 872, § 34, as added [Pub. L. 113–235, div. B, title VII, § 703(2)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2221](https://www.govinfo.gov/link/statute/128/2221); amended [Pub. L. 116–92, div. A, title XVII, § 1741(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1826](https://www.govinfo.gov/link/statute/133/1826); [Pub. L. 117–167, div. B, title II](https://www.govinfo.gov/link/plaw/117/public/167), §§ 10261, 10263(b)–(d), Aug. 9, 2022, [136 Stat. 1503](https://www.govinfo.gov/link/statute/136/1503), 1505, 1506; [Pub. L. 117–263, div. E, title LIX, § 5911](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3442](https://www.govinfo.gov/link/statute/136/3442); [Pub. L. 119–60, div. H, title LXXXVIII, § 8802](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1971](https://www.govinfo.gov/link/statute/139/1971).)*

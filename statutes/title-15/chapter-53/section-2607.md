@@ -3,9 +3,10 @@ title: "Section 2607 - Reporting and retention of information"
 usc_title: 15
 usc_section: "2607"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2607"
-generated_at: "2026-03-30T02:54:08.175Z"
+generated_at: "2026-11-23T20:26:04.213Z"
+status: "active"
 ---
 
 # § 2607. Reporting and retention of information
@@ -120,3 +121,99 @@ generated_at: "2026-03-30T02:54:08.175Z"
   - **(2)** copies of any study contained on a list submitted pursuant to paragraph (1) or otherwise known by such person.
 - **(e)** Any person who manufactures, processes, or distributes in commerce a chemical substance or mixture and who obtains information which reasonably supports the conclusion that such substance or mixture presents a substantial risk of injury to health or the environment shall immediately inform the Administrator of such information unless such person has actual knowledge that the Administrator has been adequately informed of such information.
 - **(f)** For purposes of this section, the terms “manufacture” and “process” mean manufacture or process for commercial purposes.
+
+Contents
+
+Administration
+
+Negotiated rulemaking
+
+PFAS data
+
+Nomenclature.—
+
+In general
+
+Multiple nomenclature listings
+
+Chemical substances in commerce.—
+
+Rules.—
+
+In general
+
+Active substances
+
+Inactive substances
+
+Limitation
+
+Confidential chemical substances
+
+Review plan
+
+Requirements of review plan
+
+(aa) submitted pursuant to clause (i) to determine if the claim qualifies for protection from disclosure; and
+
+(bb) submitted previously by a manufacturer or processor and relied on in lieu of the substantiation required pursuant to clause (i), if the substantiation has not been previously reviewed by the Administrator, to determine if the claim warrants protection from disclosure;
+
+(aa) the person notifies the Administrator that the person is withdrawing the claim, in which case the Administrator shall not protect the information from disclosure; or
+
+(bb) the Administrator otherwise becomes aware that the information does not qualify for protection from disclosure, in which case the Administrator shall take the actions described in section 2613(g)(2) of this title .
+
+Timeline for completion of reviews.—
+
+In general
+
+Considerations.—
+
+In general
+
+Annual review goal and results
+
+Active and inactive substances.—
+
+In general
+
+Change to active status.—
+
+In general
+
+Confidential chemical identity
+
+Active status
+
+(aa) the person notifies the Administrator that the person is withdrawing the claim, in which case the Administrator shall not protect the information from disclosure; or
+
+(bb) the Administrator otherwise becomes aware that the information does not qualify for protection from disclosure, in which case the Administrator shall take the actions described in section 2613(g)(2) of this title ; and
+
+Category status
+
+Interim list of active substances
+
+Public information
+
+Limitation
+
+Certification
+
+Mercury.—
+
+Definition of mercury
+
+Publication
+
+Process
+
+Reporting.—
+
+In general
+
+Coordination
+
+Exemption
+
+## Source Credit
+
+*([Pub. L. 94–469, title I, § 8](https://www.govinfo.gov/link/plaw/94/public/469), Oct. 11, 1976, [90 Stat. 2027](https://www.govinfo.gov/link/statute/90/2027); renumbered title I, [Pub. L. 99–519, § 3(c)(1)](https://www.govinfo.gov/link/plaw/99/public/519), Oct. 22, 1986, [100 Stat. 2989](https://www.govinfo.gov/link/statute/100/2989); amended [Pub. L. 114–182, title I](https://www.govinfo.gov/link/plaw/114/public/182), §§ 8, 19(g), June 22, 2016, [130 Stat. 470](https://www.govinfo.gov/link/statute/130/470), 507; [Pub. L. 116–92, div. F, title LXXIII, § 7351](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2289](https://www.govinfo.gov/link/statute/133/2289).)*

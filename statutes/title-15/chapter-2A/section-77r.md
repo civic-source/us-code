@@ -3,9 +3,10 @@ title: "Section 77r - Exemption from State regulation of securities offerings"
 usc_title: 15
 usc_section: "77r"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 77r"
-generated_at: "2026-03-30T02:54:08.034Z"
+generated_at: "2026-11-23T20:26:03.443Z"
+status: "active"
 ---
 
 # § 77r. Exemption from State regulation of securities offerings
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:54:08.034Z"
   - **(2)** Not later than 6 months after October 11, 1996 , the Commission shall, by rule, define the term “prepared by or on behalf of the issuer” for purposes of this section.
   - **(3)** The term “State” has the same meaning as in section 78c of this title .
   - **(4)** The term “senior security” means any bond, debenture, note, or similar obligation or instrument constituting a security and evidencing indebtedness, and any stock of a class having priority over any other class as to distribution of assets or payment of dividends.
+
+## Source Credit
+
+*(May 27, 1933, ch. 38, title I, § 18, [48 Stat. 85](https://www.govinfo.gov/link/statute/48/85); [Pub. L. 104–290, title I, § 102(a)](https://www.govinfo.gov/link/plaw/104/public/290), Oct. 11, 1996, [110 Stat. 3417](https://www.govinfo.gov/link/statute/110/3417); [Pub. L. 105–353, title III](https://www.govinfo.gov/link/plaw/105/public/353), §§ 301(a)(4), 302, Nov. 3, 1998, [112 Stat. 3235](https://www.govinfo.gov/link/statute/112/3235), 3237; [Pub. L. 111–203, title IX, § 985(a)(2)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1933](https://www.govinfo.gov/link/statute/124/1933); [Pub. L. 112–106, title III, § 305(a)](https://www.govinfo.gov/link/plaw/112/public/106), (b)(2), (c), (d)(2), title IV, § 401(b), Apr. 5, 2012, [126 Stat. 322](https://www.govinfo.gov/link/statute/126/322), 323, 325; [Pub. L. 114–94, div. G, title LXXVI, § 76001(b)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1789](https://www.govinfo.gov/link/statute/129/1789); [Pub. L. 115–174, title V, § 501](https://www.govinfo.gov/link/plaw/115/public/174), May 24, 2018, [132 Stat. 1361](https://www.govinfo.gov/link/statute/132/1361).)*

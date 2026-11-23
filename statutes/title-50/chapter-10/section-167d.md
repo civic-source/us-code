@@ -3,9 +3,10 @@ title: "Section 167d - Sale of crude helium"
 usc_title: 50
 usc_section: "167d"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 167d"
-generated_at: "2026-03-30T02:56:26.198Z"
+generated_at: "2026-11-23T20:27:30.703Z"
+status: "active"
 ---
 
 # § 167d. Sale of crude helium
@@ -91,3 +92,7 @@ generated_at: "2026-03-30T02:56:26.198Z"
 - **(f)** The Secretary shall offer for sale or auction during each fiscal year under subsections (a), (b), and (c) a quantity of crude helium that is the lesser of—
   - **(1)** the quantity of crude helium offered for sale by the Secretary during fiscal year 2012; or
   - **(2)** the maximum total production capacity of the Federal Helium System.
+
+## Source Credit
+
+*(Mar. 3, 1925, ch. 426, § 6, as added [Pub. L. 86–777, § 2](https://www.govinfo.gov/link/plaw/86/public/777), Sept. 13, 1960, [74 Stat. 921](https://www.govinfo.gov/link/statute/74/921); amended [Pub. L. 104–273, § 4](https://www.govinfo.gov/link/plaw/104/public/273), Oct. 9, 1996, [110 Stat. 3317](https://www.govinfo.gov/link/statute/110/3317); [Pub. L. 113–40, § 5](https://www.govinfo.gov/link/plaw/113/public/40), Oct. 2, 2013, [127 Stat. 536](https://www.govinfo.gov/link/statute/127/536).)*

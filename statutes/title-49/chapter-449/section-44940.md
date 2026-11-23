@@ -3,9 +3,10 @@ title: "Section 44940 - Security service fee"
 usc_title: 49
 usc_section: "44940"
 chapter: 449
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44940"
-generated_at: "2026-03-30T02:56:19.395Z"
+generated_at: "2026-11-23T20:27:35.229Z"
+status: "active"
 ---
 
 # § 44940. Security service fee
@@ -62,3 +63,69 @@ generated_at: "2026-03-30T02:56:19.395Z"
     - **(H)** $1,600,000,000 for fiscal year 2025.
     - **(M)** 1 1 So in original. $1,640,000,000 for fiscal year 2026.
     - **(N)** 1 $1,680,000,000 for fiscal year 2027.
+
+General Authority.—
+
+Passenger fees
+
+Determination of costs.—
+
+In general
+
+Definition of federal law enforcement personnel
+
+Schedule of Fees
+
+Limitation on Fee.—
+
+Amount
+
+Definition of round trip
+
+Offsetting collections
+
+Imposition of Fee.—
+
+In general
+
+Special rules passenger fees
+
+Subsequent modification of fee
+
+Limitation on collection
+
+Administration of Fees.—
+
+Fees payable to administrator
+
+Fees collected by air carrier
+
+Due date for remittance
+
+Information
+
+Fee not subject to tax
+
+Cost of collecting fee
+
+Receipts Credited as Offsetting Collections
+
+Refunds
+
+Exemptions
+
+Deposit of Receipts in General Fund.—
+
+In general
+
+Fee levels
+
+Relationship to other provisions
+
+Fiscal year amounts
+
+“The Secretary of Homeland Security shall implement the fee increase authorized by the amendment made by subsection (b) [amending this section]—
+
+## Source Credit
+
+*(Added [Pub. L. 107–71, title I, § 118(a)](https://www.govinfo.gov/link/plaw/107/public/71), Nov. 19, 2001, [115 Stat. 625](https://www.govinfo.gov/link/statute/115/625); amended [Pub. L. 108–7, div. I, title III, § 351(b)](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 420](https://www.govinfo.gov/link/statute/117/420); [Pub. L. 108–176, title VI, § 605(b)(1)](https://www.govinfo.gov/link/plaw/108/public/176), (2), Dec. 12, 2003, [117 Stat. 2568](https://www.govinfo.gov/link/statute/117/2568); [Pub. L. 110–53, title XVI, § 1601](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 477](https://www.govinfo.gov/link/statute/121/477); [Pub. L. 110–161, div. E, title V, § 540](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2079](https://www.govinfo.gov/link/statute/121/2079); [Pub. L. 113–67, div. A, title VI, § 601(a)(1)](https://www.govinfo.gov/link/plaw/113/public/67), (2), (b), (c), Dec. 26, 2013, [127 Stat. 1187](https://www.govinfo.gov/link/statute/127/1187); [Pub. L. 113–294, § 1(a)](https://www.govinfo.gov/link/plaw/113/public/294), Dec. 19, 2014, [128 Stat. 4009](https://www.govinfo.gov/link/statute/128/4009); [Pub. L. 114–41, title III, § 3001](https://www.govinfo.gov/link/plaw/114/public/41), July 31, 2015, [129 Stat. 460](https://www.govinfo.gov/link/statute/129/460); [Pub. L. 115–123, div. C, title II, § 30202](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 126](https://www.govinfo.gov/link/statute/132/126); [Pub. L. 115–254, div. K, title I](https://www.govinfo.gov/link/plaw/115/public/254), §§ 1940, 1991(d)(31), Oct. 5, 2018, [132 Stat. 3582](https://www.govinfo.gov/link/statute/132/3582), 3639; [Pub. L. 118–47, div. G, title I, § 108(a)](https://www.govinfo.gov/link/plaw/118/public/47), Mar. 23, 2024, [138 Stat. 857](https://www.govinfo.gov/link/statute/138/857).)*

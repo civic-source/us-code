@@ -3,9 +3,10 @@ title: "Section 3901 - Findings"
 usc_title: 19
 usc_section: "3901"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3901"
-generated_at: "2026-03-30T02:54:24.698Z"
+generated_at: "2026-11-23T20:26:11.105Z"
+status: "active"
 ---
 
 # § 3901. Findings
@@ -21,3 +22,21 @@ Congress finds the following:
   - **(7)** Failure to curtail the trade in conflict diamonds or to differentiate between the trade in conflict diamonds and the trade in legitimate diamonds could have a severe negative impact on the legitimate diamond trade in countries such as Botswana, Namibia, South Africa, and Tanzania.
   - **(8)** Initiatives of the United States seek to resolve the regional conflicts in sub-Saharan Africa which facilitate the trade in conflict diamonds.
   - **(9)** The Interlaken Declaration on the Kimberley Process Certification Scheme for Rough Diamonds of November 5, 2002 , states that Participants will ensure that measures taken to implement the Kimberley Process Certification Scheme for Rough Diamonds will be consistent with international trade rules.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+George W. Bush.
+
+## Source Credit
+
+*([Pub. L. 108–19, § 2](https://www.govinfo.gov/link/plaw/108/public/19), Apr. 25, 2003, [117 Stat. 631](https://www.govinfo.gov/link/statute/117/631).)*

@@ -3,9 +3,10 @@ title: "Section 410fff - Findings"
 usc_title: 16
 usc_section: "410fff"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 410fff"
-generated_at: "2026-03-30T02:54:22.778Z"
+generated_at: "2026-11-23T20:26:19.518Z"
+status: "active"
 ---
 
 # § 410fff. Findings
@@ -23,3 +24,7 @@ Congress finds that—
     - **(A)** recognized for offering exceptional multiple use opportunities;
     - **(B)** recognized for offering natural, cultural, scenic, wilderness, and recreational resources; and
     - **(C)** worthy of additional protection as a national conservation area, and with respect to the Gunnison Gorge itself, as a component of the national wilderness system.
+
+## Source Credit
+
+*([Pub. L. 106–76, § 2](https://www.govinfo.gov/link/plaw/106/public/76), Oct. 21, 1999, [113 Stat. 1126](https://www.govinfo.gov/link/statute/113/1126).)*

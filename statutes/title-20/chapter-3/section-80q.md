@@ -3,9 +3,10 @@ title: "Section 80q - Findings"
 usc_title: 20
 usc_section: "80q"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 80q"
-generated_at: "2026-03-30T02:54:48.076Z"
+generated_at: "2026-11-23T20:26:14.229Z"
+status: "active"
 ---
 
 # § 80q. Findings
@@ -27,3 +28,7 @@ The Congress finds that—
   - **(8)** the human remains referred to in paragraphs (6) and (7) have long been a matter of concern for many Indian tribes, including Alaska Native Villages, and Native Hawaiian communities which are determined to provide an appropriate resting place for their ancestors;
   - **(9)** identification of the origins of such human remains is essential to addressing that concern; and
   - **(10)** an extraordinary site on the National Mall in the District of Columbia (U.S. Government Reservation No. 6) is reserved for the use of the Smithsonian Institution and is available for construction of the National Museum of the American Indian.
+
+## Source Credit
+
+*([Pub. L. 101–185, § 2](https://www.govinfo.gov/link/plaw/101/public/185), Nov. 28, 1989, [103 Stat. 1336](https://www.govinfo.gov/link/statute/103/1336).)*

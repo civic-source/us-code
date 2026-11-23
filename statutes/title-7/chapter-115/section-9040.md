@@ -3,9 +3,10 @@ title: "Section 9040 - Adjustments of loans"
 usc_title: 7
 usc_section: "9040"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 9040"
-generated_at: "2026-03-30T02:53:42.486Z"
+generated_at: "2026-11-23T20:25:41.943Z"
+status: "active"
 ---
 
 # § 9040. Adjustments of loans
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:42.486Z"
     - **(B)** Chapter 10 of title 5 shall not apply to consultations under this subsection.
   - **(4)** The Secretary may review the operation of the upland cotton quality adjustments implemented pursuant to this subsection and may make further adjustments to the administration of the loan program for upland cotton, by revoking or revising any adjustment taken under paragraph (2).
 - **(e)** The Secretary shall not make adjustments in the loan rates for long grain rice and medium grain rice, except for differences in grade and quality (including milling yields).
+
+## Source Credit
+
+*([Pub. L. 113–79, title I, § 1210](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 686](https://www.govinfo.gov/link/statute/128/686); [Pub. L. 117–286, § 4(a)(43)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4310](https://www.govinfo.gov/link/statute/136/4310).)*

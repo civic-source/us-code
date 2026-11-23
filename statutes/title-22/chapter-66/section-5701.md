@@ -3,9 +3,10 @@ title: "Section 5701 - Findings and declarations"
 usc_title: 22
 usc_section: "5701"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 5701"
-generated_at: "2026-03-30T02:55:05.419Z"
+generated_at: "2026-11-23T20:26:32.572Z"
+status: "active"
 ---
 
 # § 5701. Findings and declarations
@@ -23,3 +24,289 @@ The Congress makes the following findings and declarations:
   - **(4)** Hong Kong plays an important role in today’s regional and world economy. This role is reflected in strong economic, cultural, and other ties with the United States that give the United States a strong interest in the continued vitality, prosperity, and stability of Hong Kong.
   - **(5)** Support for democratization is a fundamental principle of United States foreign policy. As such, it naturally applies to United States policy toward Hong Kong. This will remain equally true after June 30, 1997 .
   - **(6)** The human rights of the people of Hong Kong are of great importance to the United States and are directly relevant to United States interests in Hong Kong. A fully successful transition in the exercise of sovereignty over Hong Kong must safeguard human rights in and of themselves. Human rights also serve as a basis for Hong Kong’s continued economic prosperity.
+
+Short Title
+
+Table of Contents
+
+Alien; national; national of the united states
+
+Appropriate congressional committees and leadership
+
+Basic law
+
+China
+
+Entity
+
+Financial institution
+
+Hong kong
+
+Joint declaration
+
+Knowingly
+
+Person
+
+United states person
+
+In General
+
+Identifying Foreign Financial Institutions
+
+Exclusion of Certain Information.—
+
+Intelligence
+
+Law enforcement
+
+Notification required
+
+Exclusion or Removal of Foreign Persons and Foreign Financial Institutions.—
+
+Foreign persons
+
+Foreign financial institutions
+
+Notification required
+
+Update of Reports.—
+
+In general
+
+Rule of construction
+
+Form of Reports.—
+
+In general
+
+Classified annex
+
+Material Contributions Related to Obligations of China Described
+
+Imposition of Sanctions.—
+
+In general
+
+Mandatory sanctions
+
+Sanctions Described
+
+Property transactions
+
+Exclusion from the united states and revocation of visa or other documentation
+
+Imposition of Sanctions.—
+
+Initial sanctions
+
+Expanded sanctions
+
+Sanctions Described
+
+Loans from united states financial institutions
+
+Prohibition on designation as primary dealer
+
+Prohibition on service as a repository of government funds
+
+Foreign exchange
+
+Banking transactions
+
+Property transactions
+
+Restriction on exports, reexports, and transfers
+
+Ban on investment in equity or debt
+
+Exclusion of corporate officers
+
+Sanctions on principal executive officers
+
+Timing of Sanctions
+
+National Security Waiver
+
+Termination of Sanctions and Removal From Report
+
+Termination of Act.—
+
+Report.—
+
+In general
+
+Elements
+
+Termination
+
+Exception Relating to Importation of Goods.—
+
+In general
+
+Good defined
+
+Congressional Review.—
+
+Resolutions.—
+
+Disapproval resolution
+
+Termination resolution
+
+Covered resolution
+
+Introduction
+
+Floor consideration in house of representatives
+
+Consideration in the senate.—
+
+Committee referral.—
+
+Disapproval resolution
+
+Termination resolution
+
+Reporting and discharge
+
+Proceeding to consideration
+
+Rulings of the chair on procedure
+
+Consideration of veto messages
+
+Rules relating to senate and house of representatives.—
+
+Treatment of senate resolution in house
+
+Treatment of house resolution in senate.—
+
+Received before passage of senate resolution
+
+“(aa) the procedure in the Senate shall be the same as if no resolution had been received from the House of Representatives; but
+
+“(bb) the vote on passage shall be on the resolution from the House of Representatives.
+
+Received after passage of senate resolution
+
+No senate companion
+
+Application to revenue measures
+
+Rules of house of representatives and senate
+
+Implementation
+
+Penalties
+
+Appropriate congressional committees
+
+Social credit system
+
+United states person
+
+In General
+
+Committees Specified
+
+Form of Report
+
+Policy Statements
+
+Response to Threat of Rendition
+
+Identification of Persons Responsible for Undermining Fundamental Freedoms and Autonomy in Hong Kong.—
+
+In general
+
+Timing of reports
+
+Consideration of certain information
+
+Form
+
+Imposition of Sanctions
+
+Sanctions Described
+
+Asset blocking
+
+Ineligibility for visas, admission, or parole.—
+
+Visas, admission, or parole
+
+Current visas revoked.—
+
+In general
+
+Immediate effect
+
+Penalties
+
+Implementation
+
+Waiver
+
+Exceptions.—
+
+Exception for intelligence activities
+
+Exception to comply with international obligations and for law enforcement activities
+
+Exception relating to importation of goods.—
+
+In general
+
+Good defined
+
+Termination of Sanctions
+
+Sunset
+
+Definitions
+
+Admission; admitted; alien
+
+Foreign person
+
+In General
+
+Nonapplicability of Confidentiality Requirement With Respect to Visa Records
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 102–383, § 2](https://www.govinfo.gov/link/plaw/102/public/383), Oct. 5, 1992, [106 Stat. 1448](https://www.govinfo.gov/link/statute/106/1448).)*

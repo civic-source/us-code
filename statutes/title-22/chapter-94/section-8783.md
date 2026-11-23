@@ -3,9 +3,10 @@ title: "Section 8783 - Applicability to certain natural gas projects"
 usc_title: 22
 usc_section: "8783"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8783"
-generated_at: "2026-03-30T02:55:05.457Z"
+generated_at: "2026-11-23T20:26:32.736Z"
+status: "active"
 ---
 
 # § 8783. Applicability to certain natural gas projects
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:05.457Z"
       - **(ii)** organized under the laws of Iran or with the participation or approval of the Government of Iran;
     - **(B)** an entity owned or controlled by an entity described in subparagraph (A); or
     - **(C)** a successor entity to an entity described in subparagraph (A).
+
+## Source Credit
+
+*([Pub. L. 112–158, title VI, § 603](https://www.govinfo.gov/link/plaw/112/public/158), Aug. 10, 2012, [126 Stat. 1264](https://www.govinfo.gov/link/statute/126/1264).)*

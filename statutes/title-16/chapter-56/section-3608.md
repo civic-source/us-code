@@ -3,9 +3,10 @@ title: "Section 3608 - Authorization of appropriations"
 usc_title: 16
 usc_section: "3608"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3608"
-generated_at: "2026-03-30T02:54:23.018Z"
+generated_at: "2026-11-23T20:26:20.664Z"
+status: "active"
 ---
 
 # § 3608. Authorization of appropriations
@@ -14,3 +15,7 @@ There are authorized to be appropriated from time to time such sums as may be ne
 
   - **(1)** necessary travel expenses of the Commissioners and alternate Commissioners in accordance with the Federal Travel Regulation and sections 5701, 5702, 5704 through 5708, and 5731 of title 5; and
   - **(2)** the United States contribution to the Organization as provided in Article 16 of the Convention, not to exceed $50,000 for fiscal year 1983, and not to exceed, for each succeeding fiscal year, the amount assessed by the Organization for the United States for such year.
+
+## Source Credit
+
+*([Pub. L. 97–389, title III, § 309](https://www.govinfo.gov/link/plaw/97/public/389), Dec. 29, 1982, [96 Stat. 1954](https://www.govinfo.gov/link/statute/96/1954).)*

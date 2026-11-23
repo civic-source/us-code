@@ -3,9 +3,10 @@ title: "Section 2321i - Overseas management of assistance and sales programs"
 usc_title: 22
 usc_section: "2321i"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2321i"
-generated_at: "2026-03-30T02:55:05.357Z"
+generated_at: "2026-11-23T20:26:32.236Z"
+status: "active"
 ---
 
 # § 2321i. Overseas management of assistance and sales programs
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:05.357Z"
 - **(d)** Effective October 1, 1989 , the entire costs (excluding salaries of the United States military personnel other than the Coast Guard) of overseas management of international security assistance programs under this section shall be charged to or reimbursed from funds made available to carry out this part or the Arms Export Control Act [ 22 U.S.C. 2751 et seq.], other than any such costs which are either paid directly for such defense services under section 21(a) of the Arms Export Control Act [ 22 U.S.C. 2761(a) ] or reimbursed from charges for services collected from foreign governments pursuant to section 21(e) [ 22 U.S.C. 2761(e) ] and section 43(b) [ 22 U.S.C. 2792(b) ] of that Act.
 - **(e)** Members of the Armed Forces assigned to a foreign country under this section shall serve under the direction and supervision of the Chief of the United States Diplomatic Mission to that country.
 - **(f)** The President shall continue to instruct United States diplomatic and military personnel in the United States missions abroad that they should not encourage, promote, or influence the purchase by any foreign country of United States-made military equipment, unless they are specifically instructed to do so by an appropriate official of the executive branch.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. II, § 515, as added [Pub. L. 93–559, § 16](https://www.govinfo.gov/link/plaw/93/public/559), Dec. 30, 1974, [88 Stat. 1799](https://www.govinfo.gov/link/statute/88/1799); amended [Pub. L. 94–329, title I, § 104](https://www.govinfo.gov/link/plaw/94/public/329), June 30, 1976, [90 Stat. 731](https://www.govinfo.gov/link/statute/90/731); [Pub. L. 95–92, § 7(a)](https://www.govinfo.gov/link/plaw/95/public/92), Aug. 4, 1977, [91 Stat. 615](https://www.govinfo.gov/link/statute/91/615); [Pub. L. 95–384, § 9](https://www.govinfo.gov/link/plaw/95/public/384), Sept. 26, 1978, [92 Stat. 732](https://www.govinfo.gov/link/statute/92/732); [Pub. L. 96–92, § 7](https://www.govinfo.gov/link/plaw/96/public/92), Oct. 29, 1979, [93 Stat. 703](https://www.govinfo.gov/link/statute/93/703); [Pub. L. 96–533, title I, § 114](https://www.govinfo.gov/link/plaw/96/public/533), Dec. 16, 1980, [94 Stat. 3139](https://www.govinfo.gov/link/statute/94/3139); [Pub. L. 97–113, title I, § 112](https://www.govinfo.gov/link/plaw/97/public/113), Dec. 29, 1981, [95 Stat. 1527](https://www.govinfo.gov/link/statute/95/1527); [Pub. L. 99–83, title I, § 125](https://www.govinfo.gov/link/plaw/99/public/83), Aug. 8, 1985, [99 Stat. 205](https://www.govinfo.gov/link/statute/99/205); [Pub. L. 100–690, title IV, § 4305(a)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4273](https://www.govinfo.gov/link/statute/102/4273); [Pub. L. 101–165, title IX, § 9104(a)](https://www.govinfo.gov/link/plaw/101/public/165), Nov. 21, 1989, [103 Stat. 1152](https://www.govinfo.gov/link/statute/103/1152); [Pub. L. 101–167, title III](https://www.govinfo.gov/link/plaw/101/public/167), Nov. 21, 1989, [103 Stat. 1213](https://www.govinfo.gov/link/statute/103/1213); [Pub. L. 102–391, title V, § 556(c)](https://www.govinfo.gov/link/plaw/102/public/391), Oct. 6, 1992, [106 Stat. 1675](https://www.govinfo.gov/link/statute/106/1675); [Pub. L. 104–164, title I, § 143](https://www.govinfo.gov/link/plaw/104/public/164), July 21, 1996, [110 Stat. 1434](https://www.govinfo.gov/link/statute/110/1434).)*

@@ -3,9 +3,10 @@ title: "Section 16392 - Technology Infrastructure Program"
 usc_title: 42
 usc_section: "16392"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16392"
-generated_at: "2026-03-30T02:56:11.485Z"
+generated_at: "2026-11-23T20:27:23.679Z"
+status: "active"
 ---
 
 # § 16392. Technology Infrastructure Program
@@ -57,3 +58,7 @@ generated_at: "2026-03-30T02:56:11.485Z"
   - **(2)** additional funds to the National Laboratory or single-purpose research facility managing the project to permit the National Laboratory or single-purpose research facility to carry out activities relating to the project, and to coordinate the activities with the project.
 - **(h)** Not later than July 1, 2008 , the Secretary shall submit to Congress a report on whether the Program should be continued and, if so, how the program should be managed.
 - **(i)** There are authorized to be appropriated to the Secretary for activities under this section $10,000,000 for each of fiscal years 2006 through 2008.
+
+## Source Credit
+
+*([Pub. L. 109–58, title X, § 1002](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 927](https://www.govinfo.gov/link/statute/119/927).)*

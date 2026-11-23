@@ -3,9 +3,10 @@ title: "Section 9651 - Reports and studies"
 usc_title: 42
 usc_section: "9651"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9651"
-generated_at: "2026-03-30T02:56:11.362Z"
+generated_at: "2026-11-23T20:27:23.123Z"
+status: "active"
 ---
 
 # § 9651. Reports and studies
@@ -73,3 +74,7 @@ generated_at: "2026-03-30T02:56:11.362Z"
     - **(G)** Impediments to the acquisition of insurance or other means of obtaining liability coverage other than those referred to in the preceding subparagraphs.
     - **(H)** The effects of the standards of liability and financial responsibility requirements imposed pursuant to this chapter on the cost of, and incentives for, developing and demonstrating alternative and innovative treatment technologies, as well as waste generation minimization.
   - **(4)** The Comptroller General shall submit a report on the results of the study to Congress with appropriate recommendations within 12 months after October 17, 1986 .
+
+## Source Credit
+
+*([Pub. L. 96–510, title III, § 301](https://www.govinfo.gov/link/plaw/96/public/510), Dec. 11, 1980, [94 Stat. 2805](https://www.govinfo.gov/link/statute/94/2805); [Pub. L. 99–499, title I, § 107(d)(3)](https://www.govinfo.gov/link/plaw/99/public/499), title II, §§ 208, 212, Oct. 17, 1986, [100 Stat. 1630](https://www.govinfo.gov/link/statute/100/1630), 1707, 1726; [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095).)*

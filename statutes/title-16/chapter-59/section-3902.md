@@ -3,9 +3,10 @@ title: "Section 3902 - Definitions"
 usc_title: 16
 usc_section: "3902"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3902"
-generated_at: "2026-03-30T02:54:23.038Z"
+generated_at: "2026-11-23T20:26:20.724Z"
+status: "active"
 ---
 
 # § 3902. Definitions
@@ -19,3 +20,7 @@ For the purpose of this chapter:
     - **(A)** water; or
     - **(B)** a substrate that is at least periodically deficient in oxygen during a growing season as a result of excessive water content.
   - **(5)** The term “wetland” means land that has a predominance of hydric soils and that is inundated or saturated by surface or groundwater at a frequency and duration sufficient to support, and that under normal circumstances does support, a prevalence of hydrophytic vegetation typically adapted for life in saturated soil conditions.
+
+## Source Credit
+
+*([Pub. L. 99–645, § 3](https://www.govinfo.gov/link/plaw/99/public/645), Nov. 10, 1986, [100 Stat. 3583](https://www.govinfo.gov/link/statute/100/3583); [Pub. L. 103–437, § 6(d)(41)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4585](https://www.govinfo.gov/link/statute/108/4585).)*

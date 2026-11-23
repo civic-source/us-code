@@ -3,9 +3,10 @@ title: "Section 9007 - Minority Business Development Agency"
 usc_title: 15
 usc_section: "9007"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 9007"
-generated_at: "2026-03-30T02:54:08.236Z"
+generated_at: "2026-11-23T20:26:04.516Z"
+status: "active"
 ---
 
 # § 9007. Minority Business Development Agency
@@ -53,3 +54,7 @@ generated_at: "2026-03-30T02:54:08.236Z"
       - **(iii)** the number of unique minority business enterprises that were served by the Agency, minority business centers, or minority chambers of commerce; and
       - **(iv)** other relevant outcome performance data with respect to minority business enterprises, including the number of employees affected, the effect on sales, the disruptions of supply chains, and the efforts made by the Agency, minority business centers, and minority chambers of commerce to mitigate these effects.
 - **(e)** There is authorized to be appropriated $10,000,000 to carry out this section, to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 116–136, div. A, title I, § 1108](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 302](https://www.govinfo.gov/link/statute/134/302).)*

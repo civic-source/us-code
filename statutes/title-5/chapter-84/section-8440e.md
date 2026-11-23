@@ -3,9 +3,10 @@ title: "Section 8440e - Members of the uniformed services"
 usc_title: 5
 usc_section: "8440e"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8440e"
-generated_at: "2026-03-30T02:52:56.059Z"
+generated_at: "2026-11-23T20:25:32.217Z"
+status: "active"
 ---
 
 # § 8440e. Members of the uniformed services
@@ -49,3 +50,25 @@ generated_at: "2026-03-30T02:52:56.059Z"
         - **(II)** on or after the date the member makes the election described in paragraph (1)(B), in the case of a member making such an election; and
       - **(ii)** ends on the day such member completes 26 years of service as a member of the uniformed services.
   - **(4)** Section 8435 shall apply to a full TSP member in the same manner as such section is applied to an employee or Member under such section.
+
+Modernized Retirement System.—
+
+TSP contributions
+
+Maximum amount
+
+Timing and duration of contributions.—
+
+Automatic contributions
+
+Matching contributions
+
+Protections for spouses and former spouses
+
+In General
+
+Postponement Authority
+
+## Source Credit
+
+*(Added [Pub. L. 106–65, div. A, title VI, § 661(a)(2)(A)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 670](https://www.govinfo.gov/link/statute/113/670); amended [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title VI, § 661(c)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–167; [Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 138(a)(6)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–233; [Pub. L. 108–469, § 1(d)(8)](https://www.govinfo.gov/link/plaw/108/public/469), Dec. 21, 2004, [118 Stat. 3892](https://www.govinfo.gov/link/statute/118/3892); [Pub. L. 114–92, div. A, title VI, § 632(a)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 845](https://www.govinfo.gov/link/statute/129/845).)*

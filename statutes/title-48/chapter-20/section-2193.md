@@ -3,9 +3,10 @@ title: "Section 2193 - Application of regulation to Puerto Rico"
 usc_title: 48
 usc_section: "2193"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 2193"
-generated_at: "2026-03-30T02:56:14.605Z"
+generated_at: "2026-11-23T20:27:28.205Z"
+status: "active"
 ---
 
 # § 2193. Application of regulation to Puerto Rico
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:14.605Z"
 - **(c)** It is the sense of Congress that—
   - **(1)** the Bureau of the Census should conduct a study to determine the feasibility of expanding data collection to include Puerto Rico and the other United States territories in the Current Population Survey, which is jointly administered by the Bureau of the Census and the Bureau of Labor Statistics, and which is the primary source of labor force statistics for the population of the United States; and
   - **(2)** if necessary, the Bureau of the Census should request the funding required to conduct this feasibility study as part of its budget submission to Congress for fiscal year 2018.
+
+## Source Credit
+
+*([Pub. L. 114–187, title IV, § 404](https://www.govinfo.gov/link/plaw/114/public/187), June 30, 2016, [130 Stat. 586](https://www.govinfo.gov/link/statute/130/586).)*

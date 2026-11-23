@@ -3,9 +3,10 @@ title: "Section 2511 - Transfers in general"
 usc_title: 26
 usc_section: "2511"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 2511"
-generated_at: "2026-03-30T02:55:27.784Z"
+generated_at: "2026-11-23T20:26:46.172Z"
+status: "active"
 ---
 
 # § 2511. Transfers in general
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:27.784Z"
   - **(2)** debt obligations of—
     - **(A)** a United States person, or
     - **(B)** the United States, a State or any political subdivision thereof, or the District of Columbia,
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 406; [Pub. L. 89–809, title I, § 109(b)](https://www.govinfo.gov/link/plaw/89/public/809), Nov. 13, 1966, [80 Stat. 1575](https://www.govinfo.gov/link/statute/80/1575); [Pub. L. 107–16, title V, § 511(e)](https://www.govinfo.gov/link/plaw/107/public/16), June 7, 2001, [115 Stat. 71](https://www.govinfo.gov/link/statute/115/71); [Pub. L. 107–147, title IV, § 411(g)(1)](https://www.govinfo.gov/link/plaw/107/public/147), Mar. 9, 2002, [116 Stat. 46](https://www.govinfo.gov/link/statute/116/46); [Pub. L. 111–312, title III, § 302(e)](https://www.govinfo.gov/link/plaw/111/public/312), Dec. 17, 2010, [124 Stat. 3302](https://www.govinfo.gov/link/statute/124/3302).)*

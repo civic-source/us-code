@@ -3,9 +3,10 @@ title: "Section 5053 - Exemptions"
 usc_title: 26
 usc_section: "5053"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 5053"
-generated_at: "2026-03-30T02:55:27.819Z"
+generated_at: "2026-11-23T20:26:46.401Z"
+status: "active"
 ---
 
 # § 5053. Exemptions
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:27.819Z"
   - **(2)** Rules similar to the rules of paragraphs (2) and (3) of section 5362(e) shall apply for purposes of this subsection.
 - **(h)** Subject to such regulations as the Secretary may prescribe, beer may be removed from the brewery without payment of tax for destruction.
 - **(i)** For exemption as to supplies for certain vessels and aircraft, see section 309 of the Tariff Act of 1930, as amended ( 19 U.S.C. 1309 ).
+
+## Source Credit
+
+*(Added [Pub. L. 85–859, title II, § 201](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1334](https://www.govinfo.gov/link/statute/72/1334); amended [Pub. L. 89–44, title VIII, § 807(b)](https://www.govinfo.gov/link/plaw/89/public/44), June 21, 1965, [79 Stat. 164](https://www.govinfo.gov/link/statute/79/164); [Pub. L. 91–673, § 2](https://www.govinfo.gov/link/plaw/91/public/673), Jan. 12, 1971, [84 Stat. 2056](https://www.govinfo.gov/link/statute/84/2056); [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 95–458, § 2(b)(1)](https://www.govinfo.gov/link/plaw/95/public/458), Oct. 14, 1978, [92 Stat. 1255](https://www.govinfo.gov/link/statute/92/1255); [Pub. L. 105–34, title XIV](https://www.govinfo.gov/link/plaw/105/public/34), §§ 1414(b), 1418(a), 1419(a), Aug. 5, 1997, [111 Stat. 1047–1049](https://www.govinfo.gov/link/statute/111/1047).)*

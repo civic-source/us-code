@@ -3,9 +3,10 @@ title: "Section 2653 - Evacuation of family pets and contract working dogs durin
 usc_title: 10
 usc_section: "2653"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2653"
-generated_at: "2026-03-30T02:53:38.167Z"
+generated_at: "2026-11-23T20:25:51.633Z"
+status: "active"
 ---
 
 # § 2653. Evacuation of family pets and contract working dogs during noncombatant evacuations of foreign countries
@@ -17,3 +18,11 @@ generated_at: "2026-03-30T02:53:38.167Z"
   - **(1)** The Department of Defense is not responsible for providing veterinary care for a family pet or contract working dog by reason of the evacuation of the pet or dog pursuant to subsection (a).
   - **(2)** The Secretary may not exercise the authority under subsection (a) if the exercise of such authority would result in a reduction in the number of individuals who would otherwise be evacuated.
   - **(3)** The operator of a vehicle used for evacuation may refuse to evacuate a family pet or contract working dog if the operator determines that the evacuation would create a safety risk to other passengers or personnel.
+
+Authority to Evacuate
+
+Limitations
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. A, title III, § 372](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 836](https://www.govinfo.gov/link/statute/139/836).)*

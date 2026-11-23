@@ -3,9 +3,10 @@ title: "Section 8602 - Statement of policy"
 usc_title: 22
 usc_section: "8602"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8602"
-generated_at: "2026-03-30T02:55:05.454Z"
+generated_at: "2026-11-23T20:26:32.724Z"
+status: "active"
 ---
 
 # § 8602. Statement of policy
@@ -19,3 +20,9 @@ It is the policy of the United States:
   - **(5)** To pursue avenues to expand cooperation with the Government of Israel both in defense and across the spectrum of civilian sectors, including high technology, agriculture, medicine, health, pharmaceuticals, and energy.
   - **(6)** To assist the Government of Israel with its ongoing efforts to forge a peaceful, negotiated settlement of the Israeli-Palestinian conflict that results in two states living side-by-side in peace and security, and to encourage Israel’s neighbors to recognize Israel’s right to exist as a Jewish state.
   - **(7)** To encourage further development of advanced technology programs between the United States and Israel given current trends and instability in the region.
+
+“It is the policy of the United States—
+
+## Source Credit
+
+*([Pub. L. 112–150, § 3](https://www.govinfo.gov/link/plaw/112/public/150), July 27, 2012, [126 Stat. 1147](https://www.govinfo.gov/link/statute/126/1147).)*

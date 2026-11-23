@@ -3,9 +3,10 @@ title: "Section 7431 - Federal cybersecurity research and development"
 usc_title: 15
 usc_section: "7431"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 7431"
-generated_at: "2026-03-30T02:54:08.223Z"
+generated_at: "2026-11-23T20:26:04.454Z"
+status: "active"
 ---
 
 # § 7431. Federal cybersecurity research and development
@@ -66,3 +67,7 @@ generated_at: "2026-03-30T02:54:08.223Z"
   - **(8)** international partners of the United States.
 - **(e)**
 - **(f)** The head of each agency and department identified under section 5511(a)(3)(B) 1 of this title, through existing programs and activities, shall support research that will lead to the development of a scientific foundation for the field of cybersecurity, including research that increases understanding of the underlying principles of securing complex networked systems, enables repeatable experimentation, and creates quantifiable security metrics.
+
+## Source Credit
+
+*([Pub. L. 113–274, title II, § 201](https://www.govinfo.gov/link/plaw/113/public/274), Dec. 18, 2014, [128 Stat. 2974](https://www.govinfo.gov/link/statute/128/2974); [Pub. L. 114–329, title I, § 105(t)](https://www.govinfo.gov/link/plaw/114/public/329), Jan. 6, 2017, [130 Stat. 2985](https://www.govinfo.gov/link/statute/130/2985); [Pub. L. 116–283, div. H, title XCIV, § 9407(b)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4814](https://www.govinfo.gov/link/statute/134/4814).)*

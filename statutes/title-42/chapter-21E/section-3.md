@@ -3,9 +3,10 @@ title: "Section 3 - Federal agency data mining reporting"
 usc_title: 42
 usc_section: "3"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-30T02:56:11.143Z"
+generated_at: "2026-11-23T20:27:22.033Z"
+status: "active"
 ---
 
 # § 2000ee–3. Federal agency data mining reporting
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:56:11.143Z"
   - **(4)** Each report required under subparagraph (A) 2 shall be—
     - **(A)** submitted not later than 180 days after August 3, 2007 ; and
     - **(B)** updated not less frequently than annually thereafter, to include any activity to use or develop data mining engaged in after the date of the prior report submitted under subparagraph (A). 2
+
+## Source Credit
+
+*([Pub. L. 110–53, title VIII, § 804](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 362](https://www.govinfo.gov/link/statute/121/362).)*

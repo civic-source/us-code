@@ -3,9 +3,10 @@ title: "Section 1a - Definitions"
 usc_title: 7
 usc_section: "1a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1a"
-generated_at: "2026-03-30T02:53:42.232Z"
+generated_at: "2026-11-23T20:25:40.768Z"
+status: "active"
 ---
 
 # § 1a. Definitions
@@ -351,3 +352,43 @@ As used in this chapter:
       - **(ii)** a government securities dealer or government securities broker, to the extent that the dealer or broker executes or trades agreements, contracts, or transactions in government securities, or assists persons in communicating about, negotiating, entering into, executing, or trading an agreement, contract, or transaction in government securities (as the terms “government securities dealer”, “government securities broker”, and “government securities” are defined in section 3(a) of the Securities Exchange Act of 1934 ( 15 U.S.C. 78c(a) )); or
       - **(iii)** facilities on which bids and offers, and acceptances of bids and offers effected on the facility, are not binding.
     - **(C)** A person or group of persons that would not otherwise constitute a trading facility shall not be considered to be a trading facility solely as a result of the submission to a derivatives clearing organization of transactions executed on or through the person or group of persons.
+
+(aa) qualified eligible persons, as defined in Commission rule 4.7(a) (17 CFR 4.7(a));
+
+(bb) accredited investors, as defined in Regulation D of the Securities and Exchange Commission under the Securities Act of 1933 [ 15 U.S.C. 77a et seq.] (17 CFR 230.501(a)), with total assets of $2,000,000; or
+
+(cc) qualified purchasers, as defined in section 2(a)(51)(A) of the Investment Company Act of 1940 [ 15 U.S.C. 80a–2(a)(51)(A) ];
+
+(aa) has a net worth exceeding $1,000,000; and
+
+(bb) enters into an agreement, contract, or transaction in connection with the conduct of the entity’s business or to manage the risk associated with an asset or liability owned or incurred or reasonably likely to be owned or incurred by the entity in the conduct of the entity’s business;
+
+(aa) an investment adviser or commodity trading advisor subject to regulation under the Investment Advisers Act of 1940 ( 15 U.S.C. 80b–1 et seq.) or this chapter;
+
+(bb) a foreign person performing a similar role or function subject as such to foreign regulation;
+
+(cc) a financial institution; or
+
+(dd) an insurance company described in clause (ii), or a regulated subsidiary or affiliate of such an insurance company;
+
+(aa) engaged in soliciting or in accepting orders for— (AA) the purchase or sale of a commodity for future delivery; (BB) a security futures product; (CC) a swap; (DD) any agreement, contract, or transaction described in section 2(c)(2)(C)(i) of this title or section 2(c)(2)(D)(i) of this title ; (EE) any commodity option authorized under section 6c of this title ; or (FF) any leverage transaction authorized under section 23 of this title ; or
+
+(bb) acting as a counterparty in any agreement, contract, or transaction described in section 2(c)(2)(C)(i) of this title or section 2(c)(2)(D)(i) of this title ; and
+
+(aa) the purchase or sale of any commodity for future delivery, security futures product, or swap;
+
+(bb) any agreement, contract, or transaction described in section 2(c)(2)(C)(i) of this title or section 2(c)(2)(D)(i) of this title ;
+
+(cc) any commodity option authorized under section 6c of this title ; or
+
+(dd) any leverage transaction authorized under section 23 of this title ; and
+
+(aa) registered pursuant to section 12 of the Securities Exchange Act of 1934 [ 15 U.S.C. 78 l ];
+
+(bb) one of 750 securities with the largest market capitalization; and
+
+(cc) one of 675 securities with the largest dollar value of average daily trading volume;
+
+## Source Credit
+
+*(Sept. 21, 1922, ch. 369, § 1a, as added [Pub. L. 102–546, title IV, § 404(a)](https://www.govinfo.gov/link/plaw/102/public/546), Oct. 28, 1992, [106 Stat. 3625](https://www.govinfo.gov/link/statute/106/3625); amended [Pub. L. 106–554, § 1(a)(5) [title I, §§ 101, 123(a)(1)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–366, 2763A–405; [Pub. L. 110–234, title XIII](https://www.govinfo.gov/link/plaw/110/public/234), §§ 13105(j), 13201(a), 13203(a), (b), May 22, 2008, [122 Stat. 1435](https://www.govinfo.gov/link/statute/122/1435), 1439; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIII, §§ 13105(j), 13201(a), 13203(a), (b), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2197, 2201; [Pub. L. 111–203, title VII](https://www.govinfo.gov/link/plaw/111/public/203), §§ 721(a), 741(b)(10), July 21, 2010, [124 Stat. 1658](https://www.govinfo.gov/link/statute/124/1658), 1732; [Pub. L. 119–27, § 17(f)](https://www.govinfo.gov/link/plaw/119/public/27), July 18, 2025, [139 Stat. 463](https://www.govinfo.gov/link/statute/139/463).)*

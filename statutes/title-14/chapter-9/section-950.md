@@ -3,9 +3,10 @@ title: "Section 950 - Designation, powers, and accountability of deputy disbursi
 usc_title: 14
 usc_section: "950"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 950"
-generated_at: "2026-03-30T02:53:51.492Z"
+generated_at: "2026-11-23T20:25:54.551Z"
+status: "active"
 ---
 
 # § 950. Designation, powers, and accountability of deputy disbursing officials
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:51.492Z"
 - **(c)**
   - **(1)** Except as provided in paragraph (2), this section does not apply to the Coast Guard when section 2773 of title 10 applies to the Coast Guard by reason of the operation of the Coast Guard as a service in the Navy.
   - **(2)** A designation of a deputy disbursing official under subsection (a) that is made while the Coast Guard is not operating as a service in the Navy continues in effect for purposes of section 2773 of title 10 while the Coast Guard operates as a service in the Navy unless and until the designation is terminated by the disbursing official who made the designation or an official authorized to approve such a designation under subsection (a)(3) of such section.
+
+## Source Credit
+
+*(Added [Pub. L. 104–201, div. A, title X, § 1009(a)(2)(A)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2634](https://www.govinfo.gov/link/statute/110/2634), § 673; amended [Pub. L. 107–296, title XVII, § 1704(a)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314); [Pub. L. 112–213, title II, § 217(11)](https://www.govinfo.gov/link/plaw/112/public/213), Dec. 20, 2012, [126 Stat. 1558](https://www.govinfo.gov/link/statute/126/1558); renumbered § 950, [Pub. L. 115–282, title I, § 107(b)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4205](https://www.govinfo.gov/link/statute/132/4205).)*

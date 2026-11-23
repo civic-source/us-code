@@ -3,9 +3,10 @@ title: "Section 4505a - Performance-based cash awards"
 usc_title: 5
 usc_section: "4505a"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 4505a"
-generated_at: "2026-03-30T02:52:56.009Z"
+generated_at: "2026-11-23T20:25:31.863Z"
+status: "active"
 ---
 
 # § 4505a. Performance-based cash awards
@@ -19,3 +20,15 @@ generated_at: "2026-03-30T02:52:56.009Z"
 - **(c)** The Office of Personnel Management shall prescribe such regulations as it considers necessary for the administration of subsections (a) and (b).
 - **(d)** The preceding provisions of this section shall be applicable with respect to any employee to whom subchapter III of chapter 53 applies, and to any category of employees provided for under subsection (e).
 - **(e)** At the request of the head of an Executive agency, the President may authorize the application of subsections (a) through (c) with respect to any category of employees within such agency who would not otherwise be covered by this section.
+
+Section
+
+Sec
+
+Sec
+
+George W. Bush.
+
+## Source Credit
+
+*(Added [Pub. L. 101–509, title V, § 529 [title II, § 207(a)]](https://www.govinfo.gov/link/plaw/101/public/509), Nov. 5, 1990, [104 Stat. 1427](https://www.govinfo.gov/link/statute/104/1427), 1457; amended [Pub. L. 102–378, § 2(19)](https://www.govinfo.gov/link/plaw/102/public/378), Oct. 2, 1992, [106 Stat. 1347](https://www.govinfo.gov/link/statute/106/1347); [Pub. L. 108–411, title III, § 301(c)](https://www.govinfo.gov/link/plaw/108/public/411), Oct. 30, 2004, [118 Stat. 2317](https://www.govinfo.gov/link/statute/118/2317); [Pub. L. 115–73, title I, § 107(a)(2)(A)](https://www.govinfo.gov/link/plaw/115/public/73), Oct. 26, 2017, [131 Stat. 1239](https://www.govinfo.gov/link/statute/131/1239); [Pub. L. 115–91, div. A, title X, § 1097(b)(3)(A)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1617](https://www.govinfo.gov/link/statute/131/1617).)*

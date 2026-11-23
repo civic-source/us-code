@@ -3,9 +3,10 @@ title: "Section 7701 - Purposes"
 usc_title: 22
 usc_section: "7701"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7701"
-generated_at: "2026-03-30T02:55:05.444Z"
+generated_at: "2026-11-23T20:26:32.677Z"
+status: "active"
 ---
 
 # § 7701. Purposes
@@ -14,3 +15,7 @@ The purposes of this chapter are—
 
   - **(1)** to provide United States assistance for global development through the Millennium Challenge Corporation, as described in section 7703 of this title ; and
   - **(2)** to provide such assistance in a manner that promotes economic growth and the elimination of extreme poverty and strengthens good governance, economic freedom, and investments in people.
+
+## Source Credit
+
+*([Pub. L. 108–199, div. D, title VI, § 602](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 211](https://www.govinfo.gov/link/statute/118/211).)*

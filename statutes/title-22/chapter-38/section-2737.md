@@ -3,9 +3,10 @@ title: "Section 2737 - Department of State paid Student Internship Program"
 usc_title: 22
 usc_section: "2737"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2737"
-generated_at: "2026-03-30T02:55:05.383Z"
+generated_at: "2026-11-23T20:26:32.398Z"
+status: "active"
 ---
 
 # § 2737. Department of State paid Student Internship Program
@@ -64,3 +65,7 @@ generated_at: "2026-03-30T02:55:05.383Z"
   - **(2)** remove any compensated intern employed pursuant to paragraph (1) without regard to the provisions of law governing appointments in the excepted service.
 - **(k)** Students participating in the Program may work fewer than 40 hours per week and a minimum of 24 hours per week to accommodate their academic schedules, provided that the total duration of the internship remains consistent with program requirements.
 - **(l)** The Secretary and Administrator are authorized to establish a mentoring and coaching program that pairs Foreign Service or Civil Service employees with interns who choose to participate throughout the duration of their internship.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. I, title XCII, § 9201](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3861](https://www.govinfo.gov/link/statute/136/3861); [Pub. L. 118–159, div. G, title LXXI, § 7105(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2524](https://www.govinfo.gov/link/statute/138/2524).)*

@@ -3,9 +3,10 @@ title: "Section 661a - Definitions"
 usc_title: 2
 usc_section: "661a"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 661a"
-generated_at: "2026-03-30T02:53:04.801Z"
+generated_at: "2026-11-23T20:25:28.914Z"
+status: "active"
 ---
 
 # § 661a. Definitions
@@ -34,3 +35,7 @@ For purposes of this subchapter—
   - **(9)** The term “modification” means any Government action that alters the estimated cost of an outstanding direct loan (or direct loan obligation) or an outstanding loan guarantee (or loan guarantee commitment) from the current estimate of cash flows. This includes the sale of loan assets, with or without recourse, and the purchase of guaranteed loans. This also includes any action resulting from new legislation, or from the exercise of administrative discretion under existing law, that directly or indirectly alters the estimated cost of outstanding direct loans (or direct loan obligations) or loan guarantees (or loan guarantee commitments) such as a change in collection procedures.
   - **(10)** The term “current” has the same meaning as in section 900(c)(9) of this title .
   - **(11)** The term “Director” means the Director of the Office of Management and Budget.
+
+## Source Credit
+
+*([Pub. L. 93–344, title V, § 502](https://www.govinfo.gov/link/plaw/93/public/344), as added [Pub. L. 101–508, title XIII, § 13201(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–610](https://www.govinfo.gov/link/statute/104/1388); amended [Pub. L. 105–33, title X, § 10117(a)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 692](https://www.govinfo.gov/link/statute/111/692).)*

@@ -3,9 +3,10 @@ title: "Section 4802 - Securities and Exchange Commission"
 usc_title: 5
 usc_section: "4802"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 4802"
-generated_at: "2026-03-30T02:52:56.010Z"
+generated_at: "2026-11-23T20:25:31.867Z"
+status: "active"
 ---
 
 # § 4802. Securities and Exchange Commission
@@ -16,3 +17,19 @@ generated_at: "2026-03-30T02:52:56.010Z"
 - **(d)** The Commission may provide additional compensation and benefits to employees of the Commission if the same type of compensation or benefits are then being provided by any agency referred to under section 1206 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 ( 12 U.S.C. 1833b ) or, if not then being provided, could be provided by such an agency under applicable provisions of law, rule, or regulation. In setting and adjusting the total amount of compensation and benefits for employees, the Commission shall consult with, and seek to maintain comparability with, the agencies referred to under section 1206 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 ( 12 U.S.C. 1833b ).
 - **(e)** The Commission shall consult with the Office of Personnel Management in the implementation of this section.
 - **(f)** This section shall be administered consistent with merit system principles.
+
+Implementation plan.—
+
+In general
+
+Inclusion in annual performance plan and report
+
+Implementation report.—
+
+In general
+
+Content
+
+## Source Credit
+
+*(Added [Pub. L. 107–123, § 8(a)](https://www.govinfo.gov/link/plaw/107/public/123), Jan. 16, 2002, [115 Stat. 2398](https://www.govinfo.gov/link/statute/115/2398).)*

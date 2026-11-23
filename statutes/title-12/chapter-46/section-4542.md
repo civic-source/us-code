@@ -3,12 +3,17 @@ title: "Section 4542 - Housing Price Index"
 usc_title: 12
 usc_section: "4542"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4542"
-generated_at: "2026-03-30T02:53:53.507Z"
+generated_at: "2026-11-23T20:25:59.393Z"
+status: "active"
 ---
 
 # § 4542. Housing Price Index
 
 The Director shall establish and maintain a method of assessing the national average 1-family house price for use for adjusting the conforming loan limitations of the enterprises. In establishing such method, the Director shall take into consideration the monthly survey of all major lenders conducted by the Federal Housing Finance Agency to determine the national average 1-family house price, the House Price Index maintained by the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development before the effective date of the Federal Housing Finance Regulatory Reform Act of 2008, any appropriate house price indexes of the Bureau of the Census of the Department of Commerce, and any other indexes or measures that the Director considers appropriate.
 
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1322](https://www.govinfo.gov/link/plaw/102/public/550), as added [Pub. L. 110–289, div. A, title I, § 1124(d)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2693](https://www.govinfo.gov/link/statute/122/2693).)*

@@ -3,9 +3,10 @@ title: "Section 5519 - Exclusion for auto dealers"
 usc_title: 12
 usc_section: "5519"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5519"
-generated_at: "2026-03-30T02:53:53.545Z"
+generated_at: "2026-11-23T20:25:59.520Z"
+status: "active"
 ---
 
 # § 5519. Exclusion for auto dealers
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:53:53.545Z"
   - **(2)** The term “motor vehicle dealer” means any person or resident in the United States, or any territory of the United States, who—
     - **(A)** is licensed by a State, a territory of the United States, or the District of Columbia to engage in the sale of motor vehicles; and
     - **(B)** takes title to, holds an ownership in, or takes physical custody of motor vehicles.
+
+## Source Credit
+
+*([Pub. L. 111–203, title X, § 1029](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2004](https://www.govinfo.gov/link/statute/124/2004).)*

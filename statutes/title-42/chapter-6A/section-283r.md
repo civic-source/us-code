@@ -3,9 +3,10 @@ title: "Section 283r - National Science Advisory Board for Biosecurity"
 usc_title: 42
 usc_section: "283r"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 283r"
-generated_at: "2026-03-30T02:56:10.739Z"
+generated_at: "2026-11-23T20:27:20.208Z"
+status: "active"
 ---
 
 # § 283r. National Science Advisory Board for Biosecurity
@@ -31,3 +32,9 @@ generated_at: "2026-03-30T02:56:10.739Z"
       - **(viii)** The Office of the Director of National Intelligence.
     - **(B)** Representatives of such other Federal departments or agencies as the Secretary determines appropriate to carry out the requirements of this section.
   - **(2)** Individuals, appointed by the Secretary, with expertise in biology, infectious diseases, public health, ethics, national security, and other fields, as the Secretary determines appropriate, who shall serve as voting members.
+
+“The National Science Advisory Board for Biosecurity shall, when requested by the Secretary of Health and Human Services, provide to relevant Federal departments and agencies, advice, guidance, or recommendations concerning—
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title IV, § 404O, as added [Pub. L. 117–328, div. FF, title II, § 2313(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5761](https://www.govinfo.gov/link/statute/136/5761).)*

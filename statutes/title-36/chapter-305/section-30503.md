@@ -3,9 +3,10 @@ title: "Section 30503 - Purposes"
 usc_title: 36
 usc_section: "30503"
 chapter: 305
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 30503"
-generated_at: "2026-03-30T02:55:44.694Z"
+generated_at: "2026-11-23T20:26:58.854Z"
+status: "active"
 ---
 
 # § 30503. Purposes
@@ -22,3 +23,22 @@ The purposes of the corporation are patriotic, educational, social, and for serv
   - **(8)** aiding in bringing about recognition of the need for permanent civilian defense in each community and the need to be always alert against invasion of un-American activities;
   - **(9)** upholding the American institutions of freedom, justice, and equal rights; and
   - **(10)** defending the United States from all enemies.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30503 | 36:943. | July 14, 1960 , Pub. L. 86–653, § 3 , 74 Stat. 515 . |
+
+
+Historical and Revision Notes
+
+30503
+
+July 14, 1960
+
+Pub. L. 86–653, § 3
+
+74 Stat. 515
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1320](https://www.govinfo.gov/link/statute/112/1320).)*

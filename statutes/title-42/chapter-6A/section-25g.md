@@ -3,9 +3,10 @@ title: "Section 25g - Awareness campaigns"
 usc_title: 42
 usc_section: "25g"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 25g"
-generated_at: "2026-03-30T02:56:10.762Z"
+generated_at: "2026-11-23T20:27:20.308Z"
+status: "active"
 ---
 
 # § 290bb–25g. Awareness campaigns
@@ -32,3 +33,41 @@ generated_at: "2026-03-30T02:56:10.762Z"
     - **(A)** the similarities between heroin and prescription opioids; and
     - **(B)** the effects of heroin and prescription opioids on the human body; and
   - **(3)** bring greater public awareness to the dangerous effects of fentanyl when mixed with heroin or abused in a similar manner.
+
+In General
+
+Use of Media
+
+Consideration of Report Findings
+
+Consultation
+
+Requirement of Campaign
+
+Evaluation.—
+
+In general
+
+Measures and benchmarks
+
+Report
+
+Dissemination of Information Through Providers
+
+Training Guide and Outreach on Synthetic Opioid Exposure Prevention.—
+
+Training guide
+
+Outreach
+
+Report
+
+Development of Informational Materials and Resources
+
+Materials and Resources Described
+
+No Additional Funds
+
+## Source Credit
+
+*([Pub. L. 114–198, title I, § 102](https://www.govinfo.gov/link/plaw/114/public/198), July 22, 2016, [130 Stat. 698](https://www.govinfo.gov/link/statute/130/698); [Pub. L. 115–271, title VII, § 7161(b)](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 4061](https://www.govinfo.gov/link/statute/132/4061).)*

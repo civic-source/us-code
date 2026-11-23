@@ -3,9 +3,10 @@ title: "Section 3b - Competitive acquisition of outpatient drugs and biologicals
 usc_title: 42
 usc_section: "3b"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3b"
-generated_at: "2026-03-30T02:56:10.962Z"
+generated_at: "2026-11-23T20:27:21.215Z"
+status: "active"
 ---
 
 # § 1395w–3b. Competitive acquisition of outpatient drugs and biologicals
@@ -117,3 +118,11 @@ generated_at: "2026-03-30T02:56:10.962Z"
   - **(4)** the phased-in implementation under subsection (a)(1)(B);
   - **(5)** the selection of categories of competitively biddable drugs and biologicals for competitive acquisition under such subsection or the selection of a drug in the case of multiple source drugs; or
   - **(6)** the bidding structure and number of contractors selected under this section.
+
+“The amendments made by subsection (a) [amending this section] shall apply to payment for drugs and biologicals supplied under section 1847B of the Social Security Act ( 42 U.S.C. 1395w–3b )—
+
+“Nothing in this section [amending this section and enacting provisions set out as a note above] shall be construed as—
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1847B, as added [Pub. L. 108–173, title III, § 303(d)(1)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2245](https://www.govinfo.gov/link/statute/117/2245); amended [Pub. L. 109–432, div. B, title I, § 108(a)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 2983](https://www.govinfo.gov/link/statute/120/2983).)*

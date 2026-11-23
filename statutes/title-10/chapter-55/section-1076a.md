@@ -3,9 +3,10 @@ title: "Section 1076a - TRICARE dental program"
 usc_title: 10
 usc_section: "1076a"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1076a"
-generated_at: "2026-03-30T02:53:38.102Z"
+generated_at: "2026-11-23T20:25:51.222Z"
+status: "active"
 ---
 
 # § 1076a. TRICARE dental program
@@ -92,3 +93,59 @@ generated_at: "2026-03-30T02:53:38.102Z"
 - **(l)** In this section:
   - **(1)** The term “non-standard option plan” means a high option dental insurance plan that includes covered services in addition to, or provides greater coverage with respect to, services covered under a standard option plan.
   - **(2)** The term “standard option plan” means a dental insurance plan that provides for the coverage of preventive services, basic restorative services, and specialty dental care services at a level that is at least commensurate with the coverage of the same services provided under the premium sharing plans under this section during the period preceding January 1, 2027 .
+
+Establishment of Dental Plans
+
+Plan for selected reserve and individual ready reserve
+
+Plan for other reserves
+
+Plan for active duty dependents
+
+Plan for ready reserve dependents
+
+Administration of Plans.—
+
+In general
+
+Premium sharing plans
+
+Care Available Under Plans
+
+Premiums.—
+
+Premium sharing plans
+
+Full premium plans
+
+Payment procedures
+
+Copayments Under Premium Sharing Plans
+
+Transfer of Members
+
+Care Outside the United States
+
+Waiver of Requirements for Surviving Dependents
+
+Authority Subject to Appropriations
+
+Limitation on Reduction of Benefits
+
+Eligible Dependent Defined
+
+Definitions
+
+“Pursuant to the authority under section 1076a(b)(1) of title 10 , United States Code, as amended by subsection (a), the Secretary of Defense shall—
+
+Authority To Expand Program
+
+Covered Members
+
+Report on Advisability of Expansion
+
+Notification of Exercise of Authority
+
+## Source Credit
+
+*(Added [Pub. L. 106–65, div. A, title VII, § 711(a)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 685](https://www.govinfo.gov/link/statute/113/685); amended [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title VII, § 704(a)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–174; [Pub. L. 107–314, div. A, title VII, § 703](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2584](https://www.govinfo.gov/link/statute/116/2584); [Pub. L. 108–375, div. A, title VII, § 711](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1984](https://www.govinfo.gov/link/statute/118/1984); [Pub. L. 109–163, div. A, title VII, § 713](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3343](https://www.govinfo.gov/link/statute/119/3343); [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title VII, § 735(b), Oct. 14, 2008, [122 Stat. 4514](https://www.govinfo.gov/link/statute/122/4514); [Pub. L. 111–84, div. A, title VII, § 704](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2373](https://www.govinfo.gov/link/statute/123/2373); [Pub. L. 111–383, div. A, title VII, § 703](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4245](https://www.govinfo.gov/link/statute/124/4245); [Pub. L. 112–239, div. A, title VII, § 701(b)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1798](https://www.govinfo.gov/link/statute/126/1798); [Pub. L. 115–232, div. A, title VII, § 713(b)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1811](https://www.govinfo.gov/link/statute/132/1811); [Pub. L. 116–283, div. A, title VII, § 711(b)](https://www.govinfo.gov/link/plaw/116/public/283) —(d), Jan. 1, 2021, [134 Stat. 3691](https://www.govinfo.gov/link/statute/134/3691); [Pub. L. 117–263, div. A, title VII, § 701(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2644](https://www.govinfo.gov/link/statute/136/2644); [Pub. L. 118–31, div. A, title XVIII, § 1801(a)(12)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 684](https://www.govinfo.gov/link/statute/137/684); [Pub. L. 118–159, div. A, title VII, § 704(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1942](https://www.govinfo.gov/link/statute/138/1942).)*

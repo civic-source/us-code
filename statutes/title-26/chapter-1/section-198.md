@@ -3,9 +3,10 @@ title: "Section 198 - Expensing of environmental remediation costs"
 usc_title: 26
 usc_section: "198"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 198"
-generated_at: "2026-03-30T02:55:27.651Z"
+generated_at: "2026-11-23T20:26:45.499Z"
+status: "active"
 ---
 
 # § 198. Expensing of environmental remediation costs
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:55:27.651Z"
 - **(f)** Sections 280B and 468 shall not apply to amounts which are treated as expenses under this section.
 - **(g)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 - **(h)** This section shall not apply to expenditures paid or incurred after December 31, 2011 .
+
+## Source Credit
+
+*(Added [Pub. L. 105–34, title IX, § 941(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 882](https://www.govinfo.gov/link/statute/111/882); amended [Pub. L. 106–170, title V](https://www.govinfo.gov/link/plaw/106/public/170), §§ 511, 532(c)(2)(A), Dec. 17, 1999, [113 Stat. 1924](https://www.govinfo.gov/link/statute/113/1924), 1930; [Pub. L. 106–554, § 1(a)(7) [title I, § 162(a), (b)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–625; [Pub. L. 108–311, title III, § 308(a)](https://www.govinfo.gov/link/plaw/108/public/311), Oct. 4, 2004, [118 Stat. 1179](https://www.govinfo.gov/link/statute/118/1179); [Pub. L. 109–432, div. A, title I, § 109(a)](https://www.govinfo.gov/link/plaw/109/public/432), (b), Dec. 20, 2006, [120 Stat. 2939](https://www.govinfo.gov/link/statute/120/2939); [Pub. L. 110–343, div. C, title III, § 318(a)](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3873](https://www.govinfo.gov/link/statute/122/3873); [Pub. L. 111–312, title VII, § 745(a)](https://www.govinfo.gov/link/plaw/111/public/312), Dec. 17, 2010, [124 Stat. 3319](https://www.govinfo.gov/link/statute/124/3319).)*

@@ -3,9 +3,10 @@ title: "Section 3002 - Definitions"
 usc_title: 19
 usc_section: "3002"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3002"
-generated_at: "2026-03-30T02:54:24.687Z"
+generated_at: "2026-11-23T20:26:11.028Z"
+status: "active"
 ---
 
 # § 3002. Definitions
@@ -22,3 +23,7 @@ As used in this chapter:
     - **(B)** errors in indentation;
     - **(C)** errors (including inadvertent omissions) in cross-references to headings or subheadings or notes; and
     - **(D)** other clerical or typographical errors.
+
+## Source Credit
+
+*([Pub. L. 100–418, title I, § 1202](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1147](https://www.govinfo.gov/link/statute/102/1147).)*

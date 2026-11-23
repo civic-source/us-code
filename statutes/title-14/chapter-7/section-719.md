@@ -3,9 +3,10 @@ title: "Section 719 - Research projects; transactions other than contracts and g
 usc_title: 14
 usc_section: "719"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 719"
-generated_at: "2026-03-30T02:53:51.490Z"
+generated_at: "2026-11-23T20:25:54.541Z"
+status: "active"
 ---
 
 # § 719. Research projects; transactions other than contracts and grants
@@ -43,3 +44,43 @@ generated_at: "2026-03-30T02:53:51.490Z"
   - **(3)** the product or service received;
   - **(4)** the research project for which the product or service was required; and
   - **(5)** the extent of the cost sharing among Federal Government and non-Federal sources.
+
+Additional Forms of Transactions Authorized.—
+
+In general
+
+Additional authority
+
+Funding
+
+Recovery of Funds.—
+
+In general
+
+Availability of funds
+
+Conditions.—
+
+In general
+
+Other agreements not feasible
+
+Education and Training
+
+Protection of Certain Information From Disclosure.—
+
+In general
+
+Limitation.—
+
+In general
+
+Information described
+
+Regulations
+
+Annual Report
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. G, title LVXXXII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXII], § 8218(a), Jan. 1, 2021, [134 Stat. 4653](https://www.govinfo.gov/link/statute/134/4653).)*

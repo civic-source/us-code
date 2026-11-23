@@ -3,9 +3,10 @@ title: "Section 1415 - Mandatory advance electronic information for cargo and ot
 usc_title: 19
 usc_section: "1415"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1415"
-generated_at: "2026-03-30T02:54:24.634Z"
+generated_at: "2026-11-23T20:26:10.756Z"
+status: "active"
 ---
 
 # § 1415. Mandatory advance electronic information for cargo and other improved customs reporting procedures
@@ -66,3 +67,43 @@ generated_at: "2026-03-30T02:54:24.634Z"
     - **(B)** With respect to the provision of equipment and technology under subparagraph (A), the Secretary may lease, loan, provide, or otherwise assist in the deployment of such equipment and technology under such terms and conditions as the Secretary may prescribe, including nonreimbursable loans or the transfer of ownership of equipment and technology.
 - **(b)**
 - **(c)** For purposes of this section, the term “Secretary” means the Secretary of the Treasury. If, at the time the regulations required by subsection (a)(1) are promulgated, the Customs Service is no longer located in the Department of the Treasury, then the Secretary of the Treasury shall exercise the authority under subsection (a) jointly with the Secretary of the Department in which the Customs Service is located.
+
+(aa) the risk posed by such shipments;
+
+(bb) the volume of mail shipped to the United States by or through a particular country; and
+
+(cc) the capacities of foreign postal operators to provide that information to the Postal Service.
+
+(aa) assessing the reasons for the failure to meet those requirements; and
+
+(bb) identifying recommendations to improve the collection by the Postal Service of the information described in paragraphs (1) and (2).
+
+(aa) does not have the capacity to collect and transmit such information;
+
+(bb) represents a low risk for mail shipments that violate relevant United States laws and regulations; and
+
+(cc) accounts for low volumes of mail shipments that can be effectively screened for compliance with relevant United States laws and regulations through an alternate means.
+
+(aa) a list of countries with respect to which the Commissioner has made a determination under subclause (II) to exclude the countries from the requirement described in subclause (I); and
+
+(bb) information used to support such determination with respect to such countries.
+
+Existing Agreements.—
+
+In general
+
+Rule of construction
+
+Future Agreements.—
+
+Consultations
+
+Expedited negotiation of new agreement
+
+In General
+
+Costs Not Considered Revenue
+
+## Source Credit
+
+*([Pub. L. 107–210, div. A, title III, § 343](https://www.govinfo.gov/link/plaw/107/public/210), Aug. 6, 2002, [116 Stat. 981](https://www.govinfo.gov/link/statute/116/981); [Pub. L. 107–295, title I, § 108(b)](https://www.govinfo.gov/link/plaw/107/public/295), Nov. 25, 2002, [116 Stat. 2089](https://www.govinfo.gov/link/statute/116/2089); [Pub. L. 109–59, title XI, § 11165(a)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1976](https://www.govinfo.gov/link/statute/119/1976); [Pub. L. 114–125, title I, § 111(c)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 140](https://www.govinfo.gov/link/statute/130/140); [Pub. L. 115–271, title VIII, § 8003(a)(1)](https://www.govinfo.gov/link/plaw/115/public/271), (b)(1), (e), Oct. 24, 2018, [132 Stat. 4074](https://www.govinfo.gov/link/statute/132/4074), 4076, 4079; [Pub. L. 116–260, div. N, title VIII, § 802](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2119](https://www.govinfo.gov/link/statute/134/2119).)*

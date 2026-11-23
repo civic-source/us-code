@@ -3,9 +3,10 @@ title: "Section 4145c - Inapplicability of other provisions"
 usc_title: 25
 usc_section: "4145c"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 4145c"
-generated_at: "2026-03-30T02:54:52.859Z"
+generated_at: "2026-11-23T20:26:25.685Z"
+status: "active"
 ---
 
 # § 4145c. Inapplicability of other provisions
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:52.859Z"
   - **(13)** Section 4161 of this title (relating to remedies for noncompliance).
   - **(14)** Section 4168 of this title (relating to public availability of information).
   - **(15)** Section 4211 of this title (relating to 50-year leasehold interests in trust or restricted lands for housing purposes).
+
+## Source Credit
+
+*([Pub. L. 104–330, title II, § 234](https://www.govinfo.gov/link/plaw/104/public/330), as added [Pub. L. 110–411, title II, § 206(a)(2)](https://www.govinfo.gov/link/plaw/110/public/411), Oct. 14, 2008, [122 Stat. 4327](https://www.govinfo.gov/link/statute/122/4327).)*

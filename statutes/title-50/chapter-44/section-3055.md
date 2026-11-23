@@ -3,9 +3,10 @@ title: "Section 3055 - Annual report on financial intelligence on terrorist asse
 usc_title: 50
 usc_section: "3055"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3055"
-generated_at: "2026-03-30T02:56:26.233Z"
+generated_at: "2026-11-23T20:27:30.902Z"
+status: "active"
 ---
 
 # § 3055. Annual report on financial intelligence on terrorist assets
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:26.233Z"
 - **(d)** In this section, the term “appropriate congressional committees” means the following:
   - **(1)** The Permanent Select Committee on Intelligence, the Committee on Appropriations, the Committee on Armed Services, and the Committee on Financial Services of the House of Representatives.
   - **(2)** The Select Committee on Intelligence, the Committee on Appropriations, the Committee on Armed Services, and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title I, § 118, as added [Pub. L. 107–306, title III, § 342(a)(1)](https://www.govinfo.gov/link/plaw/107/public/306), Nov. 27, 2002, [116 Stat. 2398](https://www.govinfo.gov/link/statute/116/2398); amended [Pub. L. 111–259, title III, § 347(d)](https://www.govinfo.gov/link/plaw/111/public/259), Oct. 7, 2010, [124 Stat. 2698](https://www.govinfo.gov/link/statute/124/2698); [Pub. L. 117–263, div. F, title LXVIII, § 6824(a)(3)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3615](https://www.govinfo.gov/link/statute/136/3615).)*

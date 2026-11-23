@@ -3,9 +3,10 @@ title: "Section 4237 - Attu Island restitution program"
 usc_title: 50
 usc_section: "4237"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4237"
-generated_at: "2026-03-30T02:56:26.270Z"
+generated_at: "2026-11-23T20:27:31.082Z"
+status: "active"
 ---
 
 # § 4237. Attu Island restitution program
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:26.270Z"
   - **(2)** The payment made under paragraph (1) shall be in full satisfaction of any claim against the United States for the loss of traditional Aleut lands and village properties on Attu Island.
 - **(e)** The Secretary may convey to the Corporation all right, title, and interest of the United States to the surface estate of the traditional Aleut village site on Attu Island, Alaska (consisting of approximately 10 acres) and to the surface estate of a parcel of land consisting of all land outside such village that is within 660 feet of any point on the boundary of such village. The conveyance may be made under the authority contained in section 1613(h)(1) of title 43 , except that after August 10, 1988 , no site on Attu Island, Alaska, other than such traditional Aleut village site and such parcel of land, may be conveyed to the Corporation under such section 1613(h)(1).
 - **(f)** There are authorized to be appropriated $15,000,000 to the Secretary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 100–383, title II, § 207](https://www.govinfo.gov/link/plaw/100/public/383), Aug. 10, 1988, [102 Stat. 914](https://www.govinfo.gov/link/statute/102/914).)*

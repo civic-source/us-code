@@ -3,9 +3,10 @@ title: "Section 2611 - Exports"
 usc_title: 15
 usc_section: "2611"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2611"
-generated_at: "2026-03-30T02:54:08.176Z"
+generated_at: "2026-11-23T20:26:04.217Z"
+status: "active"
 ---
 
 # § 2611. Exports
@@ -62,3 +63,9 @@ generated_at: "2026-03-30T02:54:08.176Z"
       - **(v)** includes an evaluation of management options in the United States for mercury compounds on the list published under subparagraph (B), if any, that are commercially available and comparable in cost and efficacy to methods being utilized in such receiving countries; and
       - **(vi)** makes a recommendation regarding whether Congress should further limit or prohibit the export of mercury compounds on the list published under subparagraph (B) for disposal.
     - **(F)** Nothing in this paragraph shall be construed to affect the authority of the Administrator under the Solid Waste Disposal Act ( 42 U.S.C. 6901 et seq.).
+
+“Congress finds that—
+
+## Source Credit
+
+*([Pub. L. 94–469, title I, § 12](https://www.govinfo.gov/link/plaw/94/public/469), Oct. 11, 1976, [90 Stat. 2033](https://www.govinfo.gov/link/statute/90/2033); renumbered title I, [Pub. L. 99–519, § 3(c)(1)](https://www.govinfo.gov/link/plaw/99/public/519), Oct. 22, 1986, [100 Stat. 2989](https://www.govinfo.gov/link/statute/100/2989); amended [Pub. L. 110–414, § 4](https://www.govinfo.gov/link/plaw/110/public/414), Oct. 14, 2008, [122 Stat. 4342](https://www.govinfo.gov/link/statute/122/4342); [Pub. L. 114–182, title I](https://www.govinfo.gov/link/plaw/114/public/182), §§ 10(a), (b), 19(k), June 22, 2016, [130 Stat. 477](https://www.govinfo.gov/link/statute/130/477), 508.)*

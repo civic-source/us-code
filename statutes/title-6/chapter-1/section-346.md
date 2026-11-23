@@ -3,9 +3,10 @@ title: "Section 346 - Consolidation and co-location of offices"
 usc_title: 6
 usc_section: "346"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 346"
-generated_at: "2026-03-30T02:53:09.461Z"
+generated_at: "2026-11-23T20:25:34.714Z"
+status: "active"
 ---
 
 # § 346. Consolidation and co-location of offices
@@ -14,3 +15,7 @@ Not later than 1 year after November 25, 2002 , the Secretary shall develop and 
 
   - **(1)** any regional offices or field offices of agencies that are transferred to the Department under this chapter, if such officers 1 1 So in original. Probably should be “offices”. are located in the same municipality; and
   - **(2)** portions of regional and field offices of other Federal agencies, to the extent such offices perform functions that are transferred to the Secretary under this chapter.
+
+## Source Credit
+
+*([Pub. L. 107–296, title VII, § 706](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2220](https://www.govinfo.gov/link/statute/116/2220).)*

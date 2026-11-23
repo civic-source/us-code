@@ -3,9 +3,10 @@ title: "Section 16535 - Discovery science and engineering innovation institutes"
 usc_title: 42
 usc_section: "16535"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16535"
-generated_at: "2026-03-30T02:56:11.489Z"
+generated_at: "2026-11-23T20:27:23.699Z"
+status: "active"
 ---
 
 # § 16535. Discovery science and engineering innovation institutes
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:56:11.489Z"
   - **(1)** review the performance of the Institutes under this section; and
   - **(2)** submit to Congress and the Secretary a report describing the results of the review.
 - **(f)** There is authorized to be appropriated to provide grants to each Institute selected under this section $10,000,000 for each of fiscal years 2008 through 2010.
+
+## Source Credit
+
+*([Pub. L. 110–69, title V, § 5008](https://www.govinfo.gov/link/plaw/110/public/69), Aug. 9, 2007, [121 Stat. 618](https://www.govinfo.gov/link/statute/121/618).)*

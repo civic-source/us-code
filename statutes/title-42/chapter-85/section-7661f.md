@@ -3,9 +3,10 @@ title: "Section 7661f - Small business stationary source technical and environme
 usc_title: 42
 usc_section: "7661f"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7661f"
-generated_at: "2026-03-30T02:56:11.325Z"
+generated_at: "2026-11-23T20:27:22.962Z"
+status: "active"
 ---
 
 # § 7661f. Small business stationary source technical and environmental compliance assistance program
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:56:11.325Z"
 - **(f)** The State (or the Administrator) may reduce any fee required under this chapter to take into account the financial resources of small business stationary sources.
 - **(g)** In developing regulations and CTGs under this chapter that contain continuous emission monitoring requirements, the Administrator, consistent with the requirements of this chapter, before applying such requirements to small business stationary sources, shall consider the necessity and appropriateness of such requirements for such sources. Nothing in this subsection shall affect the applicability of subchapter IV–A provisions relating to continuous emissions monitoring.
 - **(h)** The Administrator shall consider, consistent with the requirements of this chapter, the size, type, and technical capabilities of small business stationary sources (and sources which are eligible under subsection (c)(2) to be treated as small business stationary sources) in developing CTGs applicable to such sources under this chapter.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title V, § 507, as added [Pub. L. 101–549, title V, § 501](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2645](https://www.govinfo.gov/link/statute/104/2645).)*

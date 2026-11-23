@@ -3,9 +3,10 @@ title: "Section 8012 - Engagement of diplomatic missions of the United States"
 usc_title: 16
 usc_section: "8012"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 8012"
-generated_at: "2026-03-30T02:54:23.081Z"
+generated_at: "2026-11-23T20:26:20.865Z"
+status: "active"
 ---
 
 # § 8012. Engagement of diplomatic missions of the United States
@@ -16,3 +17,7 @@ Not later than 1 year after December 20, 2019 , each chief of mission (as define
     - **(A)** United States officials from relevant agencies participating in the interagency Working Group identified in section 8031 of this title , foreign officials, nongovernmental organizations, the private sector, and representatives of local fishermen in the region; and
     - **(B)** experts on IUU fishing, law enforcement, criminal justice, transnational organized illegal activity, defense, intelligence, vessel movement monitoring, and international development operating in or with knowledge of the region; and
   - **(2)** designate a counter-IUU Fishing Coordinator from among existing personnel at the mission if the chief of mission determines such action is appropriate.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. C, title XXXV, § 3542](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2001](https://www.govinfo.gov/link/statute/133/2001).)*

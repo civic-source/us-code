@@ -3,9 +3,10 @@ title: "Section 471i - Pinelands National Reserve"
 usc_title: 16
 usc_section: "471i"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 471i"
-generated_at: "2026-03-30T02:54:22.855Z"
+generated_at: "2026-11-23T20:26:20.070Z"
+status: "active"
 ---
 
 # § 471i. Pinelands National Reserve
@@ -90,3 +91,7 @@ generated_at: "2026-03-30T02:54:22.855Z"
   - **(3)** The Secretary is authorized and directed to study the State of New Jersey Pinelands Development Credit Bank and Pinelands Development Credit System, and to submit to the Congress within 9 months after October 13, 1988 , such recommendations as the Secretary determines appropriate for improvements of the operation of the State Pinelands Development Credit Bank and the overall Pinelands Development Credit Program.
   - **(4)** The Secretary shall study the Pinelands Municipal Council, and submit to the Congress within 9 months after October 13, 1988 , such recommendations as the Secretary determines appropriate for improvements of the operation of the council.
   - **(5)** The Secretary may enter into such contracts and agreements with the State of New Jersey and other public and private entities as may be necessary and appropriate to carry out the authorities and responsibilities of the Secretary under this subsection. For purposes of this subsection, there is authorized to be appropriated not more than $500,000 to prepare and complete the study pursuant to paragraph (1) and $3,000,000 to implement the recommendations of such study upon its approval by the Congress, the Federal share of which may not exceed 75 percent of the total cost.
+
+## Source Credit
+
+*([Pub. L. 95–625, title V, § 502](https://www.govinfo.gov/link/plaw/95/public/625), Nov. 10, 1978, [92 Stat. 3492](https://www.govinfo.gov/link/statute/92/3492); [Pub. L. 100–486](https://www.govinfo.gov/link/plaw/100/public/486), Oct. 13, 1988, [102 Stat. 2429](https://www.govinfo.gov/link/statute/102/2429); [Pub. L. 113–287, § 5(d)(10)](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3265](https://www.govinfo.gov/link/statute/128/3265).)*

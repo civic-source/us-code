@@ -3,9 +3,10 @@ title: "Section 918a - Energy generation, transmission, and distribution facilit
 usc_title: 7
 usc_section: "918a"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 918a"
-generated_at: "2026-03-30T02:53:42.295Z"
+generated_at: "2026-11-23T20:25:41.081Z"
+status: "active"
 ---
 
 # § 918a. Energy generation, transmission, and distribution facilities efficiency grants and loans in rural communities with extremely high energy costs
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:42.295Z"
 - **(b)**
   - **(1)** There are authorized to be appropriated to carry out this section $50,000,000 for fiscal year 2001 and such sums as are necessary for each subsequent fiscal year.
   - **(2)** Not more than 4 percent of the amounts made available under paragraph (1) may be used for planning and administrative expenses.
+
+## Source Credit
+
+*(May 20, 1936, ch. 432, title I, § 19, as added [Pub. L. 106–472, title III, § 301](https://www.govinfo.gov/link/plaw/106/public/472), Nov. 9, 2000, [114 Stat. 2069](https://www.govinfo.gov/link/statute/114/2069).)*

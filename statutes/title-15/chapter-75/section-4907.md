@@ -3,9 +3,10 @@ title: "Section 4907 - Operation of Data Bank"
 usc_title: 15
 usc_section: "4907"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 4907"
-generated_at: "2026-03-30T02:54:08.204Z"
+generated_at: "2026-11-23T20:26:04.362Z"
+status: "active"
 ---
 
 # § 4907. Operation of Data Bank
@@ -23,3 +24,7 @@ The Secretary shall manage the Data Bank to provide the most appropriate data re
     - **(G)** other interested United States persons who could benefit from such information;
   - **(3)** be of such quality and timeliness and in such form as to assist coordinated trade strategies for the United States; and
   - **(4)** facilitate dissemination of information through nonprofit organizations with significant outreach programs which complement the regional outreach programs of the United States and Foreign Commercial Service.
+
+## Source Credit
+
+*([Pub. L. 100–418, title V, § 5407](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1466](https://www.govinfo.gov/link/statute/102/1466).)*

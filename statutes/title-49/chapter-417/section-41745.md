@@ -3,9 +3,10 @@ title: "Section 41745 - Community and regional choice programs"
 usc_title: 49
 usc_section: "41745"
 chapter: 417
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 41745"
-generated_at: "2026-03-30T02:56:19.378Z"
+generated_at: "2026-11-23T20:27:35.116Z"
+status: "active"
 ---
 
 # § 41745. Community and regional choice programs
@@ -27,3 +28,27 @@ generated_at: "2026-03-30T02:56:19.378Z"
 - **(c)** An eligible place for which compensation or assistance is provided under this section in a fiscal year shall not be eligible in that fiscal year for the essential air service that it would otherwise be entitled to under this subchapter.
 - **(d)** A unit of local government participating in the program under this subsection (a) in a fiscal year shall not be prohibited from participating in the basic essential air service program under this subchapter in a subsequent fiscal year if such unit is otherwise eligible to participate in such program.
 - **(e)** Amounts appropriated or otherwise made available to carry out the essential air service program under this subchapter shall be available to carry out this section.
+
+Alternate Essential Air Service Pilot Program.—
+
+Establishment
+
+Assistance to eligible places
+
+Use of assistance
+
+Applications.—
+
+In general
+
+Required information
+
+Participation Requirements
+
+Subsequent Participation
+
+Funding
+
+## Source Credit
+
+*(Added [Pub. L. 108–176, title IV, § 405](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2544](https://www.govinfo.gov/link/statute/117/2544); amended [Pub. L. 118–63, title V, § 561(k)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1216](https://www.govinfo.gov/link/statute/138/1216).)*

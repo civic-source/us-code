@@ -3,9 +3,10 @@ title: "Section 4159 - Survivor benefits for certain former spouses"
 usc_title: 22
 usc_section: "4159"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4159"
-generated_at: "2026-03-30T02:55:05.409Z"
+generated_at: "2026-11-23T20:26:32.525Z"
+status: "active"
 ---
 
 # § 4159. Survivor benefits for certain former spouses
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:05.409Z"
   - **(1)** the commencing date of the participant’s annuity, in the case of an election under subsection (b)(1), or
   - **(2)** February 15, 1981 , in the case of an election under subsection (b)(2).
 - **(e)** For purposes of this section, the terms “former spouse”, “participant”, and “spousal agreement” have the meanings given such terms in sections 4043 and 4044 of this title.
+
+## Source Credit
+
+*([Pub. L. 96–465, title II, § 2109](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2152](https://www.govinfo.gov/link/statute/94/2152).)*

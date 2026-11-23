@@ -3,12 +3,17 @@ title: "Section 78v - Hearings by Commission"
 usc_title: 15
 usc_section: "78v"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 78v"
-generated_at: "2026-03-30T02:54:08.059Z"
+generated_at: "2026-11-23T20:26:03.560Z"
+status: "active"
 ---
 
 # § 78v. Hearings by Commission
 
 Hearings may be public and may be held before the Commission, any member or members thereof, or any officer or officers of the Commission designated by it, and appropriate records thereof shall be kept.
 
+
+## Source Credit
+
+*(June 6, 1934, ch. 404, title I, § 22, [48 Stat. 901](https://www.govinfo.gov/link/statute/48/901).)*

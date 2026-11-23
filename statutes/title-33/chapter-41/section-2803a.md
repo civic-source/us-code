@@ -3,9 +3,10 @@ title: "Section 2803a - Ocean and coastal resiliency"
 usc_title: 33
 usc_section: "2803a"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2803a"
-generated_at: "2026-03-30T02:55:41.135Z"
+generated_at: "2026-11-23T20:26:54.229Z"
+status: "active"
 ---
 
 # § 2803a. Ocean and coastal resiliency
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:41.135Z"
   - **(2)** For each project that does not meet the criteria under paragraph (1), the Secretary shall include a recommendation relating to the project in the annual report submitted to Congress by the Secretary in accordance with section 2282d of this title .
 - **(d)** The Secretary may carry out a project for a coastal state under this section only at the request of the Governor or chief executive officer of the coastal state, as appropriate.
 - **(e)** In this section, the terms “coastal zone” and “coastal state” have the meanings given such terms in section 1453 of title 16 , as in effect on June 10, 2014 .
+
+## Source Credit
+
+*([Pub. L. 113–121, title IV, § 4014](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1321](https://www.govinfo.gov/link/statute/128/1321); [Pub. L. 114–322, title I, § 1183(a)](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1678](https://www.govinfo.gov/link/statute/130/1678).)*

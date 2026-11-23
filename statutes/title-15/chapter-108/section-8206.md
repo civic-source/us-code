@@ -3,9 +3,10 @@ title: "Section 8206 - Definitions"
 usc_title: 15
 usc_section: "8206"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 8206"
-generated_at: "2026-03-30T02:54:08.228Z"
+generated_at: "2026-11-23T20:26:04.478Z"
+status: "active"
 ---
 
 # § 8206. Definitions
@@ -57,3 +58,11 @@ For purposes of this subchapter, the following definitions shall apply:
   - **(14)** The term “reinsurance” means the assumption by an insurer of all or part of a risk undertaken originally by another insurer.
   - **(15)** The term “surplus lines broker” means an individual, firm, or corporation which is licensed in a State to sell, solicit, or negotiate insurance on properties, risks, or exposures located or to be performed in a State with nonadmitted insurers.
   - **(16)** The term “State” includes any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Northern Mariana Islands, the Virgin Islands, and American Samoa.
+
+(aa) has 3 years of experience in risk financing, claims administration, loss prevention, risk and insurance analysis, or purchasing commercial lines of insurance; or
+
+(bb) has— (AA) a designation as a Chartered Property and Casualty Underwriter (in this subparagraph referred to as “CPCU”) issued by the American Institute for CPCU/Insurance Institute of America; (BB) a designation as an Associate in Risk Management (ARM) issued by the American Institute for CPCU/Insurance Institute of America; (CC) a designation as Certified Risk Manager (CRM) issued by the National Alliance for Insurance Education & Research; (DD) a designation as a RIMS Fellow (RF) issued by the Global Risk Management Institute; or (EE) any other designation, certification, or license determined by a State insurance commissioner or other State insurance regulatory official or entity to demonstrate minimum competency in risk management;
+
+## Source Credit
+
+*([Pub. L. 111–203, title V, § 527](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1591](https://www.govinfo.gov/link/statute/124/1591).)*

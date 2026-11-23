@@ -3,9 +3,10 @@ title: "Section 16166 - Administration of program"
 usc_title: 10
 usc_section: "16166"
 chapter: 1607
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 16166"
-generated_at: "2026-03-30T02:53:38.278Z"
+generated_at: "2026-11-23T20:25:52.491Z"
+status: "active"
 ---
 
 # § 16166. Administration of program
@@ -17,3 +18,15 @@ generated_at: "2026-03-30T02:53:38.278Z"
   - **(2)** the individual possesses a valid private pilot certificate and meets, on the day the member begins a course of flight training, the medical requirements necessary for a commercial pilot certificate; and
   - **(3)** the flight school courses meet Federal Aviation Administration standards for such courses and are approved by the Federal Aviation Administration and the State approving agency.
 - **(d)** Amounts for payments for benefits under this chapter shall be derived from the Department of Defense Education Benefits Fund under section 2006 of this title .
+
+Administration
+
+Program Management
+
+Flight Training
+
+Trust Fund
+
+## Source Credit
+
+*(Added [Pub. L. 108–375, div. A, title V, § 527(a)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1893](https://www.govinfo.gov/link/statute/118/1893).)*

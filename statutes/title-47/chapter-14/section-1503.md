@@ -3,9 +3,10 @@ title: "Section 1503 - Millimeter wave spectrum"
 usc_title: 47
 usc_section: "1503"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 1503"
-generated_at: "2026-03-30T02:56:24.536Z"
+generated_at: "2026-11-23T20:27:29.004Z"
+status: "active"
 ---
 
 # § 1503. Millimeter wave spectrum
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:24.536Z"
     - **(B)** to permit additional licensed operations in such band on a shared basis; and
   - **(2)** include technical characteristics under which the band described in subsection (a) may be employed for mobile or fixed terrestrial wireless operations, including any appropriate coexistence requirements.
 - **(c)** Any spectrum that has been made available for licensed or unlicensed use on or after February 11, 2016 , and that otherwise satisfies the requirements of section 1502 of this title may be counted towards the requirements of section 1502(a) of this title .
+
+## Source Credit
+
+*([Pub. L. 115–141, div. P, title VI, § 604](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1099](https://www.govinfo.gov/link/statute/132/1099).)*

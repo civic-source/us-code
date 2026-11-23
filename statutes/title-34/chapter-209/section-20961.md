@@ -3,9 +3,10 @@ title: "Section 20961 - Access to national crime information databases"
 usc_title: 34
 usc_section: "20961"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 20961"
-generated_at: "2026-03-30T02:55:33.301Z"
+generated_at: "2026-11-23T20:26:50.612Z"
+status: "active"
 ---
 
 # § 20961. Access to national crime information databases
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:33.301Z"
 - **(b)** The access provided under this section, and associated rules of dissemination, shall be—
   - **(1)** defined by the Attorney General; and
   - **(2)** limited to personnel of the Center or such agencies that have met all requirements set by the Attorney General, including training, certification, and background screening.
+
+## Source Credit
+
+*([Pub. L. 109–248, title I, § 151](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 608](https://www.govinfo.gov/link/statute/120/608).)*

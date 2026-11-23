@@ -3,9 +3,10 @@ title: "Section 242m - General provisions respecting effectiveness, efficiency, 
 usc_title: 42
 usc_section: "242m"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 242m"
-generated_at: "2026-03-30T02:56:10.691Z"
+generated_at: "2026-11-23T20:27:19.985Z"
+status: "active"
 ---
 
 # § 242m. General provisions respecting effectiveness, efficiency, and quality of health services
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:10.691Z"
     - **(A)** amounts equal to the fair market value of any equipment or supplies furnished to such person by the Secretary for the purpose of carrying out the project with respect to which such grant or contract is made, and
     - **(B)** amounts equal to the pay, allowances, traveling expenses, and related personnel expenses attributable to the performance of services by an officer or employee of the Government in connection with such project, if such officer or employee was assigned or detailed by the Secretary to perform such services,
 - **(f)** Contracts may be entered into under section 242b or 242k of this title without regard to section 3324 of title 31 and section 6101 of title 41 .
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 308, as added [Pub. L. 93–353, title I, § 107(a)](https://www.govinfo.gov/link/plaw/93/public/353), July 23, 1974, [88 Stat. 368](https://www.govinfo.gov/link/statute/88/368); amended [Pub. L. 94–273, § 7(2)](https://www.govinfo.gov/link/plaw/94/public/273), Apr. 21, 1976, [90 Stat. 378](https://www.govinfo.gov/link/statute/90/378); [Pub. L. 95–83, title I, § 104](https://www.govinfo.gov/link/plaw/95/public/83), Aug. 1, 1977, [91 Stat. 384](https://www.govinfo.gov/link/statute/91/384); [Pub. L. 95–623](https://www.govinfo.gov/link/plaw/95/public/623), §§ 2, 6(d), 8(b), Nov. 9, 1978, [92 Stat. 3443](https://www.govinfo.gov/link/statute/92/3443), 3451, 3455; [Pub. L. 97–35, title IX](https://www.govinfo.gov/link/plaw/97/public/35), §§ 917(a), (b), 919(a)(2)(B), 922, Aug. 13, 1981, [95 Stat. 564](https://www.govinfo.gov/link/statute/95/564), 565, 567; [Pub. L. 97–414, § 8(c)](https://www.govinfo.gov/link/plaw/97/public/414), Jan. 4, 1983, [96 Stat. 2060](https://www.govinfo.gov/link/statute/96/2060); [Pub. L. 98–551, § 7](https://www.govinfo.gov/link/plaw/98/public/551), Oct. 30, 1984, [98 Stat. 2820](https://www.govinfo.gov/link/statute/98/2820); [Pub. L. 100–177, title I](https://www.govinfo.gov/link/plaw/100/public/177), §§ 106(a), 107, 108, Dec. 1, 1987, [101 Stat. 988–990](https://www.govinfo.gov/link/statute/101/988); [Pub. L. 100–690, title II, § 2612](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4235](https://www.govinfo.gov/link/statute/102/4235); [Pub. L. 101–239, title VI, § 6103(e)(4)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2206](https://www.govinfo.gov/link/statute/103/2206); [Pub. L. 101–527, § 7(b)(2)](https://www.govinfo.gov/link/plaw/101/public/527), (d), Nov. 6, 1990, [104 Stat. 2328](https://www.govinfo.gov/link/statute/104/2328); [Pub. L. 103–183, title V, § 501(c)](https://www.govinfo.gov/link/plaw/103/public/183), Dec. 14, 1993, [107 Stat. 2237](https://www.govinfo.gov/link/statute/107/2237); [Pub. L. 105–392, title IV, § 401(d)](https://www.govinfo.gov/link/plaw/105/public/392), Nov. 13, 1998, [112 Stat. 3587](https://www.govinfo.gov/link/statute/112/3587).)*

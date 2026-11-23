@@ -3,9 +3,10 @@ title: "Section 16361 - Arctic Engineering Research Center"
 usc_title: 42
 usc_section: "16361"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16361"
-generated_at: "2026-03-30T02:56:11.484Z"
+generated_at: "2026-11-23T20:27:23.673Z"
+status: "active"
 ---
 
 # § 16361. Arctic Engineering Research Center
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.484Z"
   - **(2)** an ongoing program of technology transfer that makes research results available to potential users in a form that can be implemented.
 - **(d)** For each of fiscal years 2006 through 2011, the Secretary shall provide a grant in the amount of $3,000,000 to the institution specified in subsection (a) to carry out this section.
 - **(e)** There are authorized to be appropriated to carry out this section $3,000,000 for each of fiscal years 2006 through 2011.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 997](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 915](https://www.govinfo.gov/link/statute/119/915).)*

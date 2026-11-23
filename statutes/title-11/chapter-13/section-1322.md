@@ -3,9 +3,10 @@ title: "Section 1322 - Contents of plan"
 usc_title: 11
 usc_section: "1322"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 1322"
-generated_at: "2026-03-30T02:53:53.887Z"
+generated_at: "2026-11-23T20:25:55.436Z"
+status: "active"
 ---
 
 # § 1322. Contents of plan
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:53:53.887Z"
     - **(C)** in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 1 per month for each individual in excess of 4,
 - **(e)** Notwithstanding subsection (b)(2) of this section and sections 506(b) and 1325(a)(5) of this title, if it is proposed in a plan to cure a default, the amount necessary to cure the default, shall be determined in accordance with the underlying agreement and applicable nonbankruptcy law.
 - **(f)** A plan may not materially alter the terms of a loan described in section 362(b)(19) and any amounts required to repay such loan shall not constitute “disposable income” under section 1325.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2648](https://www.govinfo.gov/link/statute/92/2648); [Pub. L. 98–353, title III](https://www.govinfo.gov/link/plaw/98/public/353), §§ 316, 528, July 10, 1984, [98 Stat. 356](https://www.govinfo.gov/link/statute/98/356), 389; [Pub. L. 103–394, title III](https://www.govinfo.gov/link/plaw/103/public/394), §§ 301, 305(c), Oct. 22, 1994, [108 Stat. 4131](https://www.govinfo.gov/link/statute/108/4131), 4134; [Pub. L. 109–8, title II](https://www.govinfo.gov/link/plaw/109/public/8), §§ 213(8), (9), 224(d), title III, § 318(1), Apr. 20, 2005, [119 Stat. 53](https://www.govinfo.gov/link/statute/119/53), 65, 93; [Pub. L. 111–327, § 2(a)(43)](https://www.govinfo.gov/link/plaw/111/public/327), Dec. 22, 2010, [124 Stat. 3562](https://www.govinfo.gov/link/statute/124/3562).)*

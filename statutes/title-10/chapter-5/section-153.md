@@ -3,9 +3,10 @@ title: "Section 153 - Chairman: functions"
 usc_title: 10
 usc_section: "153"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 153"
-generated_at: "2026-03-30T02:53:38.041Z"
+generated_at: "2026-11-23T20:25:50.835Z"
+status: "active"
 ---
 
 # § 153. Chairman: functions
@@ -97,3 +98,53 @@ generated_at: "2026-03-30T02:53:38.041Z"
     - **(A)** a detailed review of the risk assessment required under paragraph (2) of subsection (b), including how such risk assessment addresses the elements required in subparagraph (B) of such paragraph;
     - **(B)** an analysis of how the risk assessment informs and supports other Joint Staff assessments, including joint capability development assessments, joint force development assessments, comprehensive joint readiness assessments, and global military integration assessments; and
     - **(C)** if the risk assessment is not delivered at or before the time of the briefing, a timeline for when the risk assessment will be submitted to the Committees on Armed Services of the Senate and the House of Representatives.
+
+Planning; Advice; Policy Formulation
+
+Strategic direction
+
+Strategic and contingency planning
+
+Global military integration
+
+Comprehensive joint readiness
+
+Joint capability development
+
+Joint force development activities
+
+Other matters
+
+National Military Strategy.—
+
+National military strategy
+
+Risk assessment
+
+Submittal of national military strategy and risk assessment to congress
+
+Secretary of defense reports to congress
+
+Annual Report on Combatant Command Requirements
+
+Briefing Requirement
+
+Joint force development activities
+
+Doctrine, Training, and education
+
+Doctrine, Training, and Education
+
+Planning; Advice; Policy Formulation
+
+Report on Assignment of Roles and Missions
+
+“The assessments of the National Military Strategy conducted by the Chairman of the Joint Chiefs of Staff under section 153(b) of this title [sic; probably means Title 10, Armed Forces], and the quadrennial roles and missions review pursuant to [former] section 118b of this title [sic], shall include an assessment of joint military training and force allocations to determine—
+
+Means for Measurement
+
+PERSTEMPO Measurement
+
+## Source Credit
+
+*(Added [Pub. L. 99–433, title II, § 201](https://www.govinfo.gov/link/plaw/99/public/433), Oct. 1, 1986, [100 Stat. 1007](https://www.govinfo.gov/link/statute/100/1007); amended [Pub. L. 106–65, div. A, title X, § 1033](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 751](https://www.govinfo.gov/link/statute/113/751); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title IX, § 905], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–226; [Pub. L. 107–107, div. A, title IX, § 921(b)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1198](https://www.govinfo.gov/link/statute/115/1198); [Pub. L. 107–314, div. A, title X, § 1062(a)(1)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2649](https://www.govinfo.gov/link/statute/116/2649); [Pub. L. 108–136, div. A, title IX, § 903](https://www.govinfo.gov/link/plaw/108/public/136), title X, § 1043(b)(2), Nov. 24, 2003, [117 Stat. 1558](https://www.govinfo.gov/link/statute/117/1558), 1610; [Pub. L. 112–81, div. A, title VIII, § 820(b)](https://www.govinfo.gov/link/plaw/112/public/81), title IX, § 941, Dec. 31, 2011, [125 Stat. 1501](https://www.govinfo.gov/link/statute/125/1501), 1548; [Pub. L. 112–239, div. A, title VIII, § 845(b)](https://www.govinfo.gov/link/plaw/112/public/239), title IX, §§ 951(a), 952, Jan. 2, 2013, [126 Stat. 1848](https://www.govinfo.gov/link/statute/126/1848), 1891, 1892; [Pub. L. 113–66, div. A, title IX, § 905](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 817](https://www.govinfo.gov/link/statute/127/817); [Pub. L. 113–291, div. A, title X, § 1071(c)(2)](https://www.govinfo.gov/link/plaw/113/public/291), (g)(3), Dec. 19, 2014, [128 Stat. 3508](https://www.govinfo.gov/link/statute/128/3508), 3511; [Pub. L. 114–92, div. A, title IX, § 901](https://www.govinfo.gov/link/plaw/114/public/92), title X, § 1081(a)(3), Nov. 25, 2015, [129 Stat. 956](https://www.govinfo.gov/link/statute/129/956), 1000; [Pub. L. 114–328, div. A, title IX](https://www.govinfo.gov/link/plaw/114/public/328), §§ 921(c), 943, title X, § 1064(c), Dec. 23, 2016, [130 Stat. 2351](https://www.govinfo.gov/link/statute/130/2351), 2369, 2409; [Pub. L. 115–91, div. A, title X, § 1081(a)(8)](https://www.govinfo.gov/link/plaw/115/public/91), (d)(10), Dec. 12, 2017, [131 Stat. 1594](https://www.govinfo.gov/link/statute/131/1594), 1600; [Pub. L. 115–232, div. A, title IX](https://www.govinfo.gov/link/plaw/115/public/232), §§ 912, 913, Aug. 13, 2018, [132 Stat. 1923](https://www.govinfo.gov/link/statute/132/1923); [Pub. L. 117–81, div. A, title III, § 311(c)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1626](https://www.govinfo.gov/link/statute/135/1626); [Pub. L. 118–31, div. A, title X, § 1041(c)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 388](https://www.govinfo.gov/link/statute/137/388).)*

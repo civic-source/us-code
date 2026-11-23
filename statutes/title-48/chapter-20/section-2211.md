@@ -3,9 +3,10 @@ title: "Section 2211 - Definitions"
 usc_title: 48
 usc_section: "2211"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 2211"
-generated_at: "2026-03-30T02:56:14.606Z"
+generated_at: "2026-11-23T20:27:28.207Z"
+status: "active"
 ---
 
 # § 2211. Definitions
@@ -26,3 +27,7 @@ In this subchapter:
   - **(12)** The term “Project Sponsor” means a Puerto Rico Agency or private party proposing the development of an existing, ongoing, or new infrastructure project or Energy Project.
   - **(13)** The terms “Puerto Rico Agency” or “Puerto Rico Agencies” means any board, body, board of examiners, public corporation, commission, independent office, division, administration, bureau, department, authority, official, person, entity, municipality, or any instrumentality of Puerto Rico, or an administrative body authorized by law to perform duties of regulating, investigating, or that may issue a decision, or with the power to issue licenses, certificates, permits, concessions, accreditations, privileges, franchises, except the Senate and the House of Representatives of the Legislature and the judicial branch.
   - **(14)** The term “Puerto Rico Electric Power Authority” means the Puerto Rico Electric Power Authority established by Puerto Rico Act 83–1941.
+
+## Source Credit
+
+*([Pub. L. 114–187, title V, § 501](https://www.govinfo.gov/link/plaw/114/public/187), June 30, 2016, [130 Stat. 596](https://www.govinfo.gov/link/statute/130/596).)*

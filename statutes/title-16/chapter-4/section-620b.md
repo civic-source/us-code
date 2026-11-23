@@ -3,9 +3,10 @@ title: "Section 620b - Limitations on substitution of unprocessed Federal timber
 usc_title: 16
 usc_section: "620b"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 620b"
-generated_at: "2026-03-30T02:54:22.885Z"
+generated_at: "2026-11-23T20:26:20.191Z"
+status: "active"
 ---
 
 # § 620b. Limitations on substitution of unprocessed Federal timber for unprocessed timber exported from private lands
@@ -75,3 +76,9 @@ generated_at: "2026-03-30T02:54:22.885Z"
       - **(i)** On relinquishment or termination of a sourcing area, unprocessed timber from private land within the former boundary of the relinquished or terminated sourcing area is exportable immediately after unprocessed timber from Federal land from within that area is no longer in the possession of the former sourcing area holder.
       - **(ii)** The exportability of unprocessed timber from private land located outside of a sourcing area shall not be restricted or in any way affected by relinquishment or termination of a sourcing area.
 - **(d)** Nothing in this section restricts or authorizes any restriction on the domestic transportation or processing of timber harvested from private land, except that the Secretary may prohibit processing facilities located in the State of Idaho that have sourcing areas from processing timber harvested from private land outside of the boundaries of those sourcing areas.
+
+Applicability
+
+## Source Credit
+
+*([Pub. L. 101–382, title IV, § 490](https://www.govinfo.gov/link/plaw/101/public/382), Aug. 20, 1990, [104 Stat. 715](https://www.govinfo.gov/link/statute/104/715); [Pub. L. 105–83, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/105/public/83), Nov. 14, 1997, [111 Stat. 1618](https://www.govinfo.gov/link/statute/111/1618).)*

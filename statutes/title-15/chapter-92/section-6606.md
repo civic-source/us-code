@@ -3,9 +3,10 @@ title: "Section 6606 - Prelitigation notice"
 usc_title: 15
 usc_section: "6606"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 6606"
-generated_at: "2026-03-30T02:54:08.212Z"
+generated_at: "2026-11-23T20:26:04.402Z"
+status: "active"
 ---
 
 # § 6606. Prelitigation notice
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:54:08.212Z"
 - **(h)** Nothing in this section supersedes or otherwise preempts any State law or rule of civil procedure with respect to the use of alternative dispute resolution for Y2K actions.
 - **(i)** Nothing in this section interferes with the right of a litigant to provisional remedies otherwise available under Rule 65 of the Federal Rules of Civil Procedure or any State rule of civil procedure providing extraordinary or provisional remedies in any civil action in which the underlying complaint seeks both injunctive and monetary relief.
 - **(j)** For the purpose of applying this section to a Y2K action that is maintained as a class action in Federal or State court, the requirements of the preceding subsections of this section apply only to named plaintiffs in the class action.
+
+## Source Credit
+
+*([Pub. L. 106–37, § 7](https://www.govinfo.gov/link/plaw/106/public/37), July 20, 1999, [113 Stat. 196](https://www.govinfo.gov/link/statute/113/196).)*

@@ -3,9 +3,10 @@ title: "Section 2522 - Enforcement of the Communications Assistance for Law Enfo
 usc_title: 18
 usc_section: "2522"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2522"
-generated_at: "2026-03-30T02:54:16.507Z"
+generated_at: "2026-11-23T20:26:08.628Z"
+status: "active"
 ---
 
 # § 2522. Enforcement of the Communications Assistance for Law Enforcement Act
@@ -19,3 +20,19 @@ generated_at: "2026-03-30T02:54:16.507Z"
     - **(B)** the violator’s ability to pay, the violator’s good faith efforts to comply in a timely manner, any effect on the violator’s ability to continue to do business, the degree of culpability, and the length of any delay in undertaking efforts to comply; and
     - **(C)** such other matters as justice may require.
 - **(d)** As used in this section, the terms defined in section 102 of the Communications Assistance for Law Enforcement Act have the meanings provided, respectively, in such section.
+
+Enforcement by Court Issuing Surveillance Order
+
+Enforcement Upon Application by Attorney General
+
+Civil Penalty.—
+
+In general
+
+Considerations
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 103–414, title II, § 201(a)](https://www.govinfo.gov/link/plaw/103/public/414), Oct. 25, 1994, [108 Stat. 4289](https://www.govinfo.gov/link/statute/108/4289).)*

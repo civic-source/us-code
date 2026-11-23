@@ -3,9 +3,10 @@ title: "Section 502 - Commissioners"
 usc_title: 39
 usc_section: "502"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "39 U.S.C. § 502"
-generated_at: "2026-03-30T02:55:43.689Z"
+generated_at: "2026-11-23T20:26:57.722Z"
+status: "active"
 ---
 
 # § 502. Commissioners
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:43.689Z"
 - **(d)** One of the Commissioners shall be designated as Chairman by, and shall serve in the position of Chairman at the pleasure of, the President.
 - **(e)** The Commissioners shall by majority vote designate a Vice Chairman of the Commission. The Vice Chairman shall act as Chairman of the Commission in the absence of the Chairman.
 - **(f)** The Commissioners shall serve for terms of 6 years.
+
+## Source Credit
+
+*(Added [Pub. L. 109–435, title VI, § 601(a)(1)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3238](https://www.govinfo.gov/link/statute/120/3238).)*

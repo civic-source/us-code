@@ -3,9 +3,10 @@ title: "Section 1715x - Experimental housing insurance"
 usc_title: 12
 usc_section: "1715x"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1715x"
-generated_at: "2026-03-30T02:53:53.417Z"
+generated_at: "2026-11-23T20:25:58.958Z"
+status: "active"
 ---
 
 # § 1715x. Experimental housing insurance
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:53.417Z"
 - **(d)** The Secretary may make such investigations and analyses of data, and publish and distribute such reports, as he determines to be necessary or desirable to assure the most beneficial use of the data and information to be acquired as a result of this section.
 - **(e)** Any mortgagee or lender under a mortgage insured under subsection (b) shall be entitled to insurance benefits determined in the same manner as such benefits would be determined if such mortgage or loan were insured under the section or subchapter of this chapter for which it otherwise would have been eligible except for the experimental feature of the property involved.
 - **(f)** Notwithstanding the provisions of subsection (e) of this section, in the case of default on any mortgage insured under this section, the Secretary in his discretion, in accordance with such regulations as he may prescribe, may make payments pursuant to such subsections in cash or in debentures (as provided in the mortgage insurance contract), or may acquire the mortgage loan and the security therefor upon payment to the mortgagee in cash or in debentures (as provided in the mortgage insurance contract) of a total amount equal to the unpaid principal balance of the loan plus any accrued interest and any advances approved by the Secretary made previously by the mortgagee under the provisions of the mortgage. After the acquisition of the mortgage by the Secretary the mortgagee shall have no further rights, liabilities, or obligations with respect to the mortgage. The appropriate provisions of sections 1710 and 1713 of this title relating to the issuance of debentures shall apply with respect to debentures issued under this subsection, and the appropriate provisions of sections 1710 and 1713 of this title relating to the rights, liabilities, and obligations of a mortgagee shall apply with respect to the Secretary when he has acquired an insured mortgage under this subsection, in accordance with and subject to regulations (modifying such provisions to the extent necessary to render their application for such purposes appropriate and effective) which shall be prescribed by the Secretary, except that as applied to mortgages insured under this section (1) all references in section 1710 of this title to the Mutual Mortgage Insurance Fund or the Fund shall be construed to refer to the General Insurance Fund, and (2) all references in section 1710 of this title to section 1709 of this title shall be construed to refer to this section. If the insurance payment is made in cash, there shall be added to such payment an amount equivalent to the interest which the debentures would have earned, computed to a date to be established pursuant to regulations issued by the Secretary.
+
+## Source Credit
+
+*(June 27, 1934, ch. 847, title II, § 233, as added [Pub. L. 87–70, title I, § 103](https://www.govinfo.gov/link/plaw/87/public/70), June 30, 1961, [75 Stat. 158](https://www.govinfo.gov/link/statute/75/158); amended [Pub. L. 88–560, title I](https://www.govinfo.gov/link/plaw/88/public/560), §§ 105(c)(1), 118, Sept. 2, 1964, [78 Stat. 772](https://www.govinfo.gov/link/statute/78/772), 779; [Pub. L. 89–117, title XI, § 1108(n)](https://www.govinfo.gov/link/plaw/89/public/117), Aug. 10, 1965, [79 Stat. 505](https://www.govinfo.gov/link/statute/79/505); [Pub. L. 90–19, § 1(a)(3)](https://www.govinfo.gov/link/plaw/90/public/19), May 25, 1967, [81 Stat. 17](https://www.govinfo.gov/link/statute/81/17); [Pub. L. 90–448, title I, § 108(f)](https://www.govinfo.gov/link/plaw/90/public/448), title III, § 309, Aug. 1, 1968, [82 Stat. 496](https://www.govinfo.gov/link/statute/82/496), 509.)*

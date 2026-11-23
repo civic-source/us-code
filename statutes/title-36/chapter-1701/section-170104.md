@@ -3,9 +3,10 @@ title: "Section 170104 - Powers"
 usc_title: 36
 usc_section: "170104"
 chapter: 1701
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 170104"
-generated_at: "2026-03-30T02:55:44.707Z"
+generated_at: "2026-11-23T20:26:59.035Z"
+status: "active"
 ---
 
 # § 170104. Powers
@@ -24,3 +25,29 @@ generated_at: "2026-03-30T02:55:44.707Z"
   - **(11)** sue and be sued; and
   - **(12)** do any other act necessary and proper to carry out the purposes of the corporation.
 - **(b)** Privileges granted to other national veterans’ organizations as a result of their being incorporated by Congress are also granted to the corporation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 170104(a) | 36:1154 (less perpetual succession). | Aug. 11, 1971 , Pub. L. 92–93 , §§ 4 (less perpetual succession), 13, 85 Stat. 317 , 319. |
+| 170104(b) | 36:1163. |  |
+
+
+Specific Powers
+
+Privileges of Other National Veterans’ Organizations
+
+Historical and Revision Notes
+
+170104(a)
+
+Aug. 11, 1971
+
+Pub. L. 92–93
+
+85 Stat. 317
+
+170104(b)
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1440](https://www.govinfo.gov/link/statute/112/1440).)*

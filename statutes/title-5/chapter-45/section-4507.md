@@ -3,9 +3,10 @@ title: "Section 4507 - Awarding of ranks in the Senior Executive Service"
 usc_title: 5
 usc_section: "4507"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 4507"
-generated_at: "2026-03-30T02:52:56.009Z"
+generated_at: "2026-11-23T20:25:31.864Z"
+status: "active"
 ---
 
 # § 4507. Awarding of ranks in the Senior Executive Service
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:52:56.009Z"
 - **(e)**
   - **(1)** Receipt by a career appointee of the rank of Meritorious Executive entitles such individual to a lump-sum payment of an amount equal to 20 percent of annual basic pay, which shall be in addition to the basic pay paid under section 5382 of this title or any award paid under section 5384 of this title .
   - **(2)** Receipt by a career appointee of the rank of Distinguished Executive entitles the individual to a lump-sum payment of an amount equal to 35 percent of annual basic pay, which shall be in addition to the basic pay paid under section 5382 of this title or any award paid under section 5384 of this title .
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title IV, § 406(a)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1170](https://www.govinfo.gov/link/statute/92/1170); amended [Pub. L. 105–277, div. A, § 101(h) [title VI, § 631(a), (b)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–480](https://www.govinfo.gov/link/statute/112/2681), 2681–523.)*

@@ -3,9 +3,10 @@ title: "Section 6180 - Policy of Department of Energy regarding future defense e
 usc_title: 10
 usc_section: "6180"
 chapter: 604
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6180"
-generated_at: "2026-03-30T02:53:38.222Z"
+generated_at: "2026-11-23T20:25:52.020Z"
+status: "active"
 ---
 
 # § 6180. Policy of Department of Energy regarding future defense environmental management matters
@@ -16,3 +17,15 @@ generated_at: "2026-03-30T02:53:38.222Z"
 - **(b)** For fiscal year 2006 and each fiscal year thereafter, the Secretary shall ensure that the budget justification materials submitted to Congress in support of the Department of Energy budget for such fiscal year (as submitted with the budget of the President under section 1105(a) of title 31 ) reflect the policy required by subsection (a).
 - **(c)** The Secretary shall carry out this section in consultation with the Administrator for Nuclear Security and the Under Secretary of Energy for Energy, Science, and Environment. 1 1 So in original.
 - **(d)** The Secretary shall include with the budget justification materials submitted to Congress in support of the Department of Energy budget for fiscal year 2005 (as submitted with the budget of the President under section 1105(a) of title 31 ) a report on the policy that the Secretary plans to have in effect under subsection (a) as of October 1, 2005 . The report shall specify the officers and responsibilities referred to in subsection (a).
+
+Policy Required
+
+Reflection in Budget
+
+Consultation
+
+Report
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2)(B), Dec. 18, 2025, [139 Stat. 1394](https://www.govinfo.gov/link/statute/139/1394), 1462.)*

@@ -3,9 +3,10 @@ title: "Section 149 - Congestion mitigation and air quality improvement program"
 usc_title: 23
 usc_section: "149"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 149"
-generated_at: "2026-03-30T02:55:12.559Z"
+generated_at: "2026-11-23T20:26:23.806Z"
+status: "active"
 ---
 
 # § 149. Congestion mitigation and air quality improvement program
@@ -126,3 +127,209 @@ generated_at: "2026-03-30T02:55:12.559Z"
     - **(B)** a transit system that is located in—
       - **(i)** a non-urbanized area; or
       - **(ii)** an urbanized area with a population of 200,000 or fewer.
+
+Establishment
+
+Eligible Projects
+
+Special Rules.—
+
+Projects for pm–10 nonattainment areas
+
+Electric vehicle and natural gas vehicle infrastructure
+
+HOV facilities
+
+Locks and dams; marine highways
+
+States Flexibility.—
+
+States without a nonattainment area
+
+States with a nonattainment area.—
+
+In general
+
+Ratio
+
+Changes in designation
+
+Applicability of Planning Requirements
+
+Partnerships With Nongovernmental Entities.—
+
+In general
+
+Forms of participation by entities
+
+Allocation to entities
+
+Alternative fuel projects
+
+Prohibition on federal participation with respect to required activities
+
+Cost-Effective Emission Reduction Guidance.—
+
+Definitions
+
+Administrator
+
+Diesel replacement or retrofit
+
+Emission reduction guidance
+
+Priority consideration
+
+No effect on authority or restrictions
+
+Interagency Consultation
+
+Evaluation and Assessment of Projects.—
+
+Database.—
+
+In general
+
+Availability
+
+Cost effectiveness.—
+
+In general
+
+Contents
+
+Use of table
+
+Optional Programmatic Eligibility.—
+
+In general
+
+Applicability
+
+Priority for Use of Funds in PM
+
+Areas.—
+
+In general
+
+Construction equipment and vehicles
+
+PM
+
+nonattainment and maintenance in low population density states.—
+
+Exception
+
+Calculation
+
+Port-related equipment and vehicles
+
+Performance Plan.—
+
+In general
+
+Updated plans
+
+Assistance to metropolitan planning organizations.—
+
+In general
+
+Savings provision
+
+Operating Assistance.—
+
+In general
+
+No time limitation
+
+Establishment of Program.—
+
+In general
+
+Consultation
+
+Grants.—
+
+In general
+
+Cost share
+
+Coordination
+
+Application; selection.—
+
+Application
+
+Selection
+
+Requirement
+
+Report
+
+Definitions
+
+Cool pavement
+
+Eligible entity
+
+Low-income community
+
+Porous pavement
+
+Program
+
+State
+
+Tribal government
+
+Establishment
+
+Goals
+
+Application.—
+
+In general
+
+Requirements
+
+Use of Funds
+
+Priority
+
+Distribution Requirement
+
+Federal Share.—
+
+In general
+
+Waiver
+
+Maximum Grant Amount
+
+Treatment of Projects
+
+In general
+
+Report
+
+Funding
+
+HOV passenger requirements
+
+Financial effects on low-income drivers
+
+Funding.—
+
+In general
+
+Set-aside for projects not involving highway tolls
+
+Availability
+
+Use of unallocated funds
+
+Contract authority
+
+## Source Credit
+
+*(Added [Pub. L. 93–87, title I, § 142(a)](https://www.govinfo.gov/link/plaw/93/public/87), Aug. 13, 1973, [87 Stat. 272](https://www.govinfo.gov/link/statute/87/272); amended [Pub. L. 102–240, title I, § 1008(a)](https://www.govinfo.gov/link/plaw/102/public/240), Dec. 18, 1991, [105 Stat. 1932](https://www.govinfo.gov/link/statute/105/1932); [Pub. L. 102–388, title III, § 380](https://www.govinfo.gov/link/plaw/102/public/388), Oct. 6, 1992, [106 Stat. 1562](https://www.govinfo.gov/link/statute/106/1562); [Pub. L. 104–59, title III, § 319(a)(1)](https://www.govinfo.gov/link/plaw/104/public/59), (b), Nov. 28, 1995, [109 Stat. 588](https://www.govinfo.gov/link/statute/109/588), 589; [Pub. L. 104–88, title IV, § 405(a)(2)](https://www.govinfo.gov/link/plaw/104/public/88), (b), Dec. 29, 1995, [109 Stat. 956](https://www.govinfo.gov/link/statute/109/956), 957; [Pub. L. 105–178, title I, § 1110(a)](https://www.govinfo.gov/link/plaw/105/public/178) –(d)(1), June 9, 1998, [112 Stat. 142](https://www.govinfo.gov/link/statute/112/142), 143; [Pub. L. 109–59, title I, § 1808(a)](https://www.govinfo.gov/link/plaw/109/public/59) –(f), Aug. 10, 2005, [119 Stat. 1461–1463](https://www.govinfo.gov/link/statute/119/1461); [Pub. L. 112–141, div. A, title I, § 1113(a)](https://www.govinfo.gov/link/plaw/112/public/141), (b), July 6, 2012, [126 Stat. 460](https://www.govinfo.gov/link/statute/126/460); [Pub. L. 113–76, div. L, title I, § 125](https://www.govinfo.gov/link/plaw/113/public/76), Jan. 17, 2014, [128 Stat. 587](https://www.govinfo.gov/link/statute/128/587); [Pub. L. 114–94, div. A, title I](https://www.govinfo.gov/link/plaw/114/public/94), §§ 1109(c)(5), 1114, Dec. 4, 2015, [129 Stat. 1343](https://www.govinfo.gov/link/statute/129/1343), 1348; [Pub. L. 115–141, div. L, title IV, § 421](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1045](https://www.govinfo.gov/link/statute/132/1045); [Pub. L. 117–58, div. A, title I, § 11115](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 480](https://www.govinfo.gov/link/statute/135/480).)*

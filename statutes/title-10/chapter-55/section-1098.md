@@ -3,9 +3,10 @@ title: "Section 1098 - Incentives for participation in cost-effective health car
 usc_title: 10
 usc_section: "1098"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1098"
-generated_at: "2026-03-30T02:53:38.108Z"
+generated_at: "2026-11-23T20:25:51.243Z"
+status: "active"
 ---
 
 # § 1098. Incentives for participation in cost-effective health care plans
@@ -21,3 +22,11 @@ generated_at: "2026-03-30T02:53:38.108Z"
     - **(A)** a plan with respect to which the limitations and payment requirements are waived; and
     - **(B)** a plan with respect to which there is no such waiver.
   - **(3)** A waiver under paragraph (1) may not take effect until the end of the 180-day period beginning on the date on which the Secretary submits the report required by paragraph (2) with respect to such waiver.
+
+Waiver of Limitations and Copayments
+
+Determination and Report
+
+## Source Credit
+
+*(Added [Pub. L. 99–661, div. A, title VII, § 701(a)(1)](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 3895](https://www.govinfo.gov/link/statute/100/3895); amended [Pub. L. 101–510, div. A, title XIV, § 1484(h)(1)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1717](https://www.govinfo.gov/link/statute/104/1717); [Pub. L. 104–106, div. A, title XV, § 1502(a)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 502](https://www.govinfo.gov/link/statute/110/502); [Pub. L. 106–65, div. A, title X, § 1067(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 774](https://www.govinfo.gov/link/statute/113/774).)*

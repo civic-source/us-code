@@ -3,9 +3,10 @@ title: "Section 307 - Licenses"
 usc_title: 47
 usc_section: "307"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 307"
-generated_at: "2026-03-30T02:56:24.506Z"
+generated_at: "2026-11-23T20:27:28.869Z"
+status: "active"
 ---
 
 # § 307. Licenses
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:24.506Z"
   - **(2)** Any radio station operator who is authorized by the Commission to operate without an individual license shall comply with all other provisions of this chapter and with rules prescribed by the Commission under this chapter.
   - **(3)** For purposes of this subsection, the terms “citizens band radio service”, “radio control service”, “aircraft station” and “ship station” shall have the meanings given them by the Commission by rule.
 - **(f)** Notwithstanding any other provision of law, (1) any holder of a broadcast license may broadcast to an area of Alaska that otherwise does not have access to over the air broadcasts via translator, microwave, or other alternative signal delivery even if another holder of a broadcast license begins broadcasting to such area, (2) any holder of a broadcast license who has broadcast to an area of Alaska that did not have access to over the air broadcasts via translator, microwave, or other alternative signal delivery may continue providing such service even if another holder of a broadcast license begins broadcasting to such area, and shall not be fined or subject to any other penalty, forfeiture, or revocation related to providing such service including any fine, penalty, forfeiture, or revocation for continuing to operate notwithstanding orders to the contrary.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title III, § 307, [48 Stat. 1083](https://www.govinfo.gov/link/statute/48/1083); June 5, 1936, ch. 511, § 2, [49 Stat. 1475](https://www.govinfo.gov/link/statute/49/1475); July 16, 1952, ch. 879, § 5, [66 Stat. 714](https://www.govinfo.gov/link/statute/66/714); [Pub. L. 86–752, § 3](https://www.govinfo.gov/link/plaw/86/public/752), Sept. 13, 1960, [74 Stat. 889](https://www.govinfo.gov/link/statute/74/889); [Pub. L. 87–439](https://www.govinfo.gov/link/plaw/87/public/439), Apr. 27, 1962, [76 Stat. 58](https://www.govinfo.gov/link/statute/76/58); [Pub. L. 97–35, title XII, § 1241(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 736](https://www.govinfo.gov/link/statute/95/736); [Pub. L. 97–259, title I](https://www.govinfo.gov/link/plaw/97/public/259), §§ 112, 113(a), Sept. 13, 1982, [96 Stat. 1093](https://www.govinfo.gov/link/statute/96/1093); [Pub. L. 104–104, title II, § 203](https://www.govinfo.gov/link/plaw/104/public/104), title IV, § 403(i), Feb. 8, 1996, [110 Stat. 112](https://www.govinfo.gov/link/statute/110/112), 131; [Pub. L. 108–447, div. J, title IX](https://www.govinfo.gov/link/plaw/108/public/447) [title II, § 213(1), (2)], Dec. 8, 2004, [118 Stat. 3431](https://www.govinfo.gov/link/statute/118/3431).)*

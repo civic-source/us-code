@@ -3,12 +3,17 @@ title: "Section 285d - Federal Reserve banks as depositories"
 usc_title: 22
 usc_section: "285d"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 285d"
-generated_at: "2026-03-30T02:55:05.317Z"
+generated_at: "2026-11-23T20:26:31.996Z"
+status: "active"
 ---
 
 # § 285d. Federal Reserve banks as depositories
 
 Any Federal Reserve bank which is requested to do so by the Bank shall act as its depository or as its fiscal agent, and the Board of Governors of the Federal Reserve System shall supervise and direct the carrying out of these functions by the Federal Reserve banks.
 
+
+## Source Credit
+
+*([Pub. L. 89–369, § 6](https://www.govinfo.gov/link/plaw/89/public/369), Mar. 16, 1966, [80 Stat. 72](https://www.govinfo.gov/link/statute/80/72).)*

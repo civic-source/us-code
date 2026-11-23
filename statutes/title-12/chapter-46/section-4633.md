@@ -3,9 +3,10 @@ title: "Section 4633 - Hearings"
 usc_title: 12
 usc_section: "4633"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4633"
-generated_at: "2026-03-30T02:53:53.514Z"
+generated_at: "2026-11-23T20:25:59.414Z"
+status: "active"
 ---
 
 # § 4633. Hearings
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:53.514Z"
 - **(b)**
   - **(1)** After any such hearing, and within 90 days after the parties have been notified that the case has been submitted to the Director for final decision, the Director shall render the decision (which shall include findings of fact upon which the decision is predicated) and shall issue and serve upon each party to the proceeding an order or orders consistent with the provisions of this subchapter.
   - **(2)** Judicial review of any such order shall be exclusively as provided in section 4634 of this title . Unless such a petition for review is timely filed as provided in section 4634 of this title , and thereafter until the record in the proceeding has been filed as so provided, the Director may at any time, modify, terminate, or set aside any such order, upon such notice and in such manner as the Director considers proper. Upon such filing of the record, the Director may modify, terminate, or set aside any such order with permission of the court.
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1373](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3989](https://www.govinfo.gov/link/statute/106/3989); [Pub. L. 110–289, div. A, title I, § 1153(b)(1)(B)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2774](https://www.govinfo.gov/link/statute/122/2774).)*

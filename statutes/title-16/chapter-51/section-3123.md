@@ -3,9 +3,10 @@ title: "Section 3123 - Periodic reports"
 usc_title: 16
 usc_section: "3123"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3123"
-generated_at: "2026-03-30T02:54:23.009Z"
+generated_at: "2026-11-23T20:26:20.629Z"
+status: "active"
 ---
 
 # § 3123. Periodic reports
@@ -19,3 +20,7 @@ Within four years after December 2, 1980 , and within every three-year period th
   - **(5)** comments on the Secretary’s report by the State, the local advisory councils and regional advisory councils established by the Secretary or the State pursuant to section 3115 of this title , and other appropriate persons and organizations;
   - **(6)** a description of those actions taken, or which may need to be taken in the future, to permit the opportunity for continuation of activities relating to subsistence uses on the public lands; and
   - **(7)** such other recommendations the Secretary deems appropriate.
+
+## Source Credit
+
+*([Pub. L. 96–487, title VIII, § 813](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2428](https://www.govinfo.gov/link/statute/94/2428).)*

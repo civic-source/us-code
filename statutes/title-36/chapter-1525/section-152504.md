@@ -3,9 +3,10 @@ title: "Section 152504 - Governing body"
 usc_title: 36
 usc_section: "152504"
 chapter: 1525
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 152504"
-generated_at: "2026-03-30T02:55:44.704Z"
+generated_at: "2026-11-23T20:26:59.002Z"
+status: "active"
 ---
 
 # § 152504. Governing body
@@ -17,3 +18,32 @@ generated_at: "2026-03-30T02:55:44.704Z"
   - **(1)** The officers of the corporation are a chairman of the board of directors, a president, three or more vice presidents as provided in the constitution and bylaws, a secretary, a treasurer, and an executive vice president. Their duties are as provided in the constitution and bylaws.
   - **(2)** Except for the executive vice president, the officers shall be elected at the annual meeting of the corporation. The executive vice president shall be elected by the board of directors in the manner provided in the constitution and bylaws.
 - **(c)** The corporation shall have at least 15 trustees. Their manner of selection and term of office are as provided in the constitution and bylaws. The trustees have full power and control over contributed funds that they raise.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 152504(a) | 36:467. | Aug. 13, 1953, ch. 429 , §§ 7–9, 67 Stat. 571 . |
+| 152504(b) | 36:468. |  |
+| 152504(c) | 36:469. |  |
+
+
+Board of Directors
+
+Officers
+
+Trustees
+
+Historical and Revision Notes
+
+152504(a)
+
+Aug. 13, 1953, ch. 429
+
+67 Stat. 571
+
+152504(b)
+
+152504(c)
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1416](https://www.govinfo.gov/link/statute/112/1416).)*

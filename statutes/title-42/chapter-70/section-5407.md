@@ -3,9 +3,10 @@ title: "Section 5407 - Research, testing, development, and training by Secretary
 usc_title: 42
 usc_section: "5407"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5407"
-generated_at: "2026-03-30T02:56:11.235Z"
+generated_at: "2026-11-23T20:27:22.540Z"
+status: "active"
 ---
 
 # § 5407. Research, testing, development, and training by Secretary
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.235Z"
   - **(2)** The term “FHA manufactured home loan” means a loan that—
     - **(A)** is insured under title I of the National Housing Act [ 12 U.S.C. 1702 et seq.] and is made for the purpose of financing alterations, repairs, or improvements on or in connection with an existing manufactured home, the purchase of a manufactured home, the purchase of a manufactured home and a lot on which to place the home, or the purchase only of a lot on which to place a manufactured home; or
     - **(B)** is otherwise insured under the National Housing Act [ 12 U.S.C. 1701 et seq.] and made for or in connection with a manufactured home.
+
+## Source Credit
+
+*([Pub. L. 93–383, title VI, § 608](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 704](https://www.govinfo.gov/link/statute/88/704); [Pub. L. 96–399, title III, § 308(c)(4)](https://www.govinfo.gov/link/plaw/96/public/399), Oct. 8, 1980, [94 Stat. 1641](https://www.govinfo.gov/link/statute/94/1641); [Pub. L. 97–35, title III, § 339B(c)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 417](https://www.govinfo.gov/link/statute/95/417); [Pub. L. 106–569, title VI, § 607](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 3009](https://www.govinfo.gov/link/statute/114/3009).)*

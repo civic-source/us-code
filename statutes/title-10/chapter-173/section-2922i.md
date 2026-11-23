@@ -3,9 +3,10 @@ title: "Section 2922i - Multiyear contracts: purchase of electricity from renewa
 usc_title: 10
 usc_section: "2922i"
 chapter: 173
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2922i"
-generated_at: "2026-03-30T02:53:38.187Z"
+generated_at: "2026-11-23T20:25:51.778Z"
+status: "active"
 ---
 
 # § 2922i. Multiyear contracts: purchase of electricity from renewable energy sources
@@ -15,3 +16,13 @@ generated_at: "2026-03-30T02:53:38.187Z"
   - **(1)** the proposed purchase of electricity under such contract is cost effective for the Department of Defense; and
   - **(2)** it would not be possible to purchase electricity from the source in an economical manner without the use of a contract for a period in excess of five years.
 - **(c)** Nothing in this section shall be construed to preclude the Department of Defense from using other multiyear contracting authority of the Department to purchase renewable energy.
+
+Multiyear Contracts Authorized
+
+Limitations on Contracts for Periods in Excess of Five Years
+
+Relationship to Other Multiyear Contracting Authority
+
+## Source Credit
+
+*(Added [Pub. L. 110–181, div. A, title VIII, § 828(a)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 229](https://www.govinfo.gov/link/statute/122/229), § 2410q; renumbered § 2922i, [Pub. L. 116–283, div. A, title XVIII, § 1879(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4293](https://www.govinfo.gov/link/statute/134/4293).)*

@@ -3,9 +3,10 @@ title: "Section 6805 - Enforcement"
 usc_title: 15
 usc_section: "6805"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 6805"
-generated_at: "2026-03-30T02:54:08.216Z"
+generated_at: "2026-11-23T20:26:04.419Z"
+status: "active"
 ---
 
 # § 6805. Enforcement
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:08.216Z"
   - **(2)** The agencies and authorities described in paragraphs (3), (4), (5), (6), and (7) of subsection (a) shall implement the standards prescribed under section 6801(b) of this title by rule with respect to the financial institutions and other persons subject to their respective jurisdictions under subsection (a).
 - **(c)** If a State insurance authority fails to adopt regulations to carry out this subchapter, such State shall not be eligible to override, pursuant to section 1831x(g)(2)(B)(iii) of title 12 , the insurance customer protection regulations prescribed by a Federal banking agency under section 1831x(a) of title 12 .
 - **(d)** The terms used in subsection (a)(1) that are not defined in this subchapter or otherwise defined in section 1813(s) of title 12 shall have the same meaning as given in section 3101 of title 12 .
+
+## Source Credit
+
+*([Pub. L. 106–102, title V, § 505](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1440](https://www.govinfo.gov/link/statute/113/1440); [Pub. L. 111–203, title X, § 1093(4)](https://www.govinfo.gov/link/plaw/111/public/203), (5), July 21, 2010, [124 Stat. 2096](https://www.govinfo.gov/link/statute/124/2096), 2097.)*

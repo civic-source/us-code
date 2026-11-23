@@ -3,9 +3,10 @@ title: "Section 1397B - Nonrecognition of gain on rollover of empowerment zone i
 usc_title: 26
 usc_section: "1397B"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1397B"
-generated_at: "2026-03-30T02:55:27.774Z"
+generated_at: "2026-11-23T20:26:46.110Z"
+status: "active"
 ---
 
 # § 1397B. Nonrecognition of gain on rollover of empowerment zone investments
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:27.774Z"
   - **(4)** If gain from any sale is not recognized by reason of subsection (a), such gain shall be applied to reduce (in the order acquired) the basis for determining gain or loss of any qualified empowerment zone asset which is purchased by the taxpayer during the 60-day period described in subsection (a). This paragraph shall not apply for purposes of section 1202.
   - **(5)** For purposes of determining whether the nonrecognition of gain under subsection (a) applies to any qualified empowerment zone asset which is sold, the taxpayer’s holding period for such asset and the asset referred to in subsection (a)(1) shall be determined without regard to section 1223.
 - **(c)** This section shall not apply to sales in taxable years beginning after December 31, 2020 .
+
+## Source Credit
+
+*(Added [Pub. L. 106–554, § 1(a)(7) [title I, § 116(a)(3)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–602; amended [Pub. L. 113–295, div. A, title II, § 206(c)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4027](https://www.govinfo.gov/link/statute/128/4027); [Pub. L. 115–141, div. U, title IV, § 401(d)(4)(B)(vii)](https://www.govinfo.gov/link/plaw/115/public/141), (5)(B)(iv), (v), Mar. 23, 2018, [132 Stat. 1209](https://www.govinfo.gov/link/statute/132/1209), 1210; [Pub. L. 116–260, div. EE, title I, § 118(c)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3051](https://www.govinfo.gov/link/statute/134/3051).)*

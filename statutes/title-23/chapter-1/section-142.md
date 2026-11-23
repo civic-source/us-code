@@ -3,9 +3,10 @@ title: "Section 142 - Public transportation"
 usc_title: 23
 usc_section: "142"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 142"
-generated_at: "2026-03-30T02:55:12.557Z"
+generated_at: "2026-11-23T20:26:23.797Z"
+status: "active"
 ---
 
 # § 142. Public transportation
@@ -30,3 +31,15 @@ generated_at: "2026-03-30T02:55:12.557Z"
 - **(f)** In any case where sufficient land or air space exists within the publicly acquired rights-of-way of any highway, constructed in whole or in part with Federal-aid highway funds, to accommodate needed passenger, commuter, or high speed rail, magnetic levitation systems, and highway and nonhighway public mass transit facilities, the Secretary shall authorize a State to make such lands, air space, and rights-of-way available with or without charge to a publicly or privately owned authority or company or any other person for such purposes if such accommodation will not adversely affect automotive safety.
 - **(g)** The provision of assistance under subsection (a)(2) shall not be construed as bringing within the application of chapter 15 of title 5, United States Code, any non-supervisory employee of an urban mass transportation system (or of any other agency or entity performing related functions) to whom such chapter is otherwise inapplicable.
 - **(h)** Funds available for expenditure to carry out the purposes of subsection (a)(2) of this section shall be supplementary to and not in substitution for funds authorized and available for obligation pursuant to chapter 53 of title 49.
+
+Bus corridors
+
+Accommodation of Other Modes of Transportation
+
+Metropolitan Planning
+
+Availability of Rights-of-Way
+
+## Source Credit
+
+*(Added [Pub. L. 91–605, title I, § 111(a)](https://www.govinfo.gov/link/plaw/91/public/605), Dec. 31, 1970, [84 Stat. 1719](https://www.govinfo.gov/link/statute/84/1719); amended [Pub. L. 93–87, title I, § 121(a)](https://www.govinfo.gov/link/plaw/93/public/87), Aug. 13, 1973, [87 Stat. 259](https://www.govinfo.gov/link/statute/87/259); [Pub. L. 94–280, title I, § 127](https://www.govinfo.gov/link/plaw/94/public/280), May 5, 1976, [90 Stat. 440](https://www.govinfo.gov/link/statute/90/440); [Pub. L. 97–424, title I, § 120](https://www.govinfo.gov/link/plaw/97/public/424), Jan. 6, 1983, [96 Stat. 2111](https://www.govinfo.gov/link/statute/96/2111); [Pub. L. 102–240, title I, § 1027(a)](https://www.govinfo.gov/link/plaw/102/public/240) –(e), title III, § 3003(b), Dec. 18, 1991, [105 Stat. 1966](https://www.govinfo.gov/link/statute/105/1966), 2088; [Pub. L. 103–272, § 5(f)(2)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1374](https://www.govinfo.gov/link/statute/108/1374); [Pub. L. 103–429, § 7(a)(4)(C)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4389](https://www.govinfo.gov/link/statute/108/4389); [Pub. L. 105–178, title I, § 1103](https://www.govinfo.gov/link/plaw/105/public/178) (l)(3)(D), (4), June 9, 1998, [112 Stat. 126](https://www.govinfo.gov/link/statute/112/126); [Pub. L. 112–141, div. A, title I](https://www.govinfo.gov/link/plaw/112/public/141), §§ 1513(b), 1519(c)(8), formerly § 1519(c)(9), July 6, 2012, [126 Stat. 572](https://www.govinfo.gov/link/statute/126/572), 576, renumbered § 1519(c)(8), [Pub. L. 114–94, div. A, title I, § 1446(d)(5)(B)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1438](https://www.govinfo.gov/link/statute/129/1438); [Pub. L. 114–94, div. A, title I](https://www.govinfo.gov/link/plaw/114/public/94), §§ 1109(c)(5), 1446(d)(5)(D), Dec. 4, 2015, [129 Stat. 1343](https://www.govinfo.gov/link/statute/129/1343), 1438; [Pub. L. 117–58, div. A, title I, § 11130](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 509](https://www.govinfo.gov/link/statute/135/509).)*

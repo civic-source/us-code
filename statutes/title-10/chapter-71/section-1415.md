@@ -3,9 +3,10 @@ title: "Section 1415 - Lump sum payment of certain retired pay"
 usc_title: 10
 usc_section: "1415"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1415"
-generated_at: "2026-03-30T02:53:38.120Z"
+generated_at: "2026-11-23T20:25:51.325Z"
+status: "active"
 ---
 
 # § 1415. Lump sum payment of certain retired pay
@@ -48,3 +49,39 @@ generated_at: "2026-03-30T02:53:38.120Z"
   - **(2)** The retired pay of an eligible person who makes an election described in subsection (a) shall be recomputed, effective on the first day of the first month beginning after the person attains the eligible person’s retirement age, so as to be an amount equal to the amount of covered retired pay to which the eligible person would otherwise be entitled on that date if the annual increases, in the retired pay of the eligible person made to reflect changes in the Consumer Price Index, had been made in accordance with section 1401a of this title .
 - **(d)** An eligible person who does not make the election described in subsection (b)(1) shall be paid the retired pay to which the eligible person is otherwise entitled under the applicable provisions of law referred to in subsection (a)(1).
 - **(e)** The Secretary of Defense shall prescribe regulations to carry out the provisions of this section.
+
+Definitions
+
+Covered retired pay
+
+Eligible person
+
+Retirement age
+
+Election of Lump Sum Payment of Certain Retired Pay.—
+
+In general
+
+Discounted present value
+
+Timing of election
+
+Single payment or combination of payments
+
+Commencement of payment
+
+No subsequent adjustment
+
+Resumption of Monthly Annuity.—
+
+General rule
+
+Restoration of full retirement amount at retirement age
+
+Payment of Retired Pay to Persons Not Making Election
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 114–92, div. A, title VI, § 633(a)(1)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 847](https://www.govinfo.gov/link/statute/129/847); amended [Pub. L. 114–328, div. A, title X, § 1081(a)(4)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2417](https://www.govinfo.gov/link/statute/130/2417); [Pub. L. 115–232, div. A, title X, § 1081(a)(14)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1984](https://www.govinfo.gov/link/statute/132/1984).)*

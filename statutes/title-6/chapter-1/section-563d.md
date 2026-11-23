@@ -3,9 +3,10 @@ title: "Section 563d - Small business contracting goals"
 usc_title: 6
 usc_section: "563d"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 563d"
-generated_at: "2026-03-30T02:53:09.469Z"
+generated_at: "2026-11-23T20:25:34.794Z"
+status: "active"
 ---
 
 # § 563d. Small business contracting goals
@@ -19,3 +20,7 @@ Not later than 90 days after December 18, 2014 , and annually thereafter, the Ad
       - **(i)** is prepared after consultation with the Secretary of Defense and the heads of Federal departments and agencies that achieved their published goals for prime contracting with small and minority-owned businesses, including small and disadvantaged businesses, in prior fiscal years; and
       - **(ii)** identifies policies and procedures that could be incorporated by the Administration in furtherance of achieving the Administration’s published goal for such contracting; and
   - **(3)** a status report on the implementation of the action plan that was developed in the preceding fiscal year in accordance with paragraph (2)(B), if such a plan was required.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XVI, § 1615](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 113–245, § 3(a)](https://www.govinfo.gov/link/plaw/113/public/245), Dec. 18, 2014, [128 Stat. 2876](https://www.govinfo.gov/link/statute/128/2876).)*

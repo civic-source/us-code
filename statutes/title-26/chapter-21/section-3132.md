@@ -3,9 +3,10 @@ title: "Section 3132 - Payroll credit for paid family leave"
 usc_title: 26
 usc_section: "3132"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 3132"
-generated_at: "2026-03-30T02:55:27.790Z"
+generated_at: "2026-11-23T20:26:46.205Z"
+status: "active"
 ---
 
 # § 3132. Payroll credit for paid family leave
@@ -77,3 +78,7 @@ generated_at: "2026-03-30T02:55:27.790Z"
 - **(h)** This section shall apply only to wages paid with respect to the period beginning on April 1, 2021 , and ending on September 30, 2021 .
 - **(i)** The Secretary shall waive any penalty under section 6656 for any failure to make a deposit of applicable employment taxes if the Secretary determines that such failure was due to the anticipation of the credit allowed under this section.
 - **(j)** No credit shall be allowed under this section to any employer for any calendar quarter if such employer, with respect to the availability of the provision of qualified family leave wages to which this section otherwise applies for such calendar quarter, discriminates in favor of highly compensated employees (within the meaning of section 414(q)), full-time employees, or employees on the basis of employment tenure with such employer.
+
+## Source Credit
+
+*(Added [Pub. L. 117–2, title IX, § 9641(a)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 166](https://www.govinfo.gov/link/statute/135/166).)*

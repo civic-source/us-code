@@ -3,9 +3,10 @@ title: "Section 6409 - Assessments"
 usc_title: 7
 usc_section: "6409"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6409"
-generated_at: "2026-03-30T02:53:42.430Z"
+generated_at: "2026-11-23T20:25:41.697Z"
+status: "active"
 ---
 
 # § 6409. Assessments
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:42.430Z"
 - **(d)** Not more than one assessment may be assessed under this section for the purposes of this chapter on a processor for any unit of fluid milk product.
 - **(e)** Producer-handlers that are required to pay the assessment imposed under section 4504(g) of this title , and that are fluid milk processors, shall also be responsible for the additional assessment imposed by this section.
 - **(f)** Except as provided in section 6415(b) of this title , the rate of assessment prescribed by the order shall be 20 cents per hundredweight of fluid milk products marketed.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XIX, § 1999J](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3921](https://www.govinfo.gov/link/statute/104/3921); [Pub. L. 103–72, § 2(b)](https://www.govinfo.gov/link/plaw/103/public/72), Aug. 11, 1993, [107 Stat. 717](https://www.govinfo.gov/link/statute/107/717).)*

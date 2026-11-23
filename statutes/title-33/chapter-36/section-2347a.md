@@ -3,9 +3,10 @@ title: "Section 2347a - Determination of project completion"
 usc_title: 33
 usc_section: "2347a"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2347a"
-generated_at: "2026-03-30T02:55:41.127Z"
+generated_at: "2026-11-23T20:26:54.197Z"
+status: "active"
 ---
 
 # § 2347a. Determination of project completion
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:41.127Z"
   - **(2)**
     - **(A)** On notification that a non-Federal interest has submitted an appeal under paragraph (1), the Secretary shall contract with 1 or more independent, non-Federal experts to evaluate whether the applicable water resources project or functional portion of the project is complete.
     - **(B)** An independent review carried out under subparagraph (A) shall be completed not later than 180 days after the date on which the Secretary receives an appeal from a non-Federal interest under paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 113–121, title I, § 1010](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1217](https://www.govinfo.gov/link/statute/128/1217).)*

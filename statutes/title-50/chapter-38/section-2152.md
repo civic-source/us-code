@@ -3,9 +3,10 @@ title: "Section 2152 - Special rules relating to section 2013 criteria employees
 usc_title: 50
 usc_section: "2152"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 2152"
-generated_at: "2026-03-30T02:56:26.219Z"
+generated_at: "2026-11-23T20:27:30.830Z"
+status: "active"
 ---
 
 # § 2152. Special rules relating to section 2013 criteria employees
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:56:26.219Z"
   - **(3)** Paragraph (2) shall only apply if the affected employee transitions to a position described in paragraph (1)(A)(iv) without a break in service exceeding 3 days.
   - **(4)** The service of an affected employee shall no longer be eligible for treatment under paragraph (2) if such service occurs after the employee is transferred to a supervisory or administrative position related to the activities of the former covered position of the employee.
   - **(5)** An affected employee may file an election to have any creditable service performed by the affected employee treated in accordance with chapter 84 of title 5 without regard to paragraph (2).
+
+## Source Credit
+
+*([Pub. L. 88–643, title III, § 302](https://www.govinfo.gov/link/plaw/88/public/643), as added [Pub. L. 102–496, title VIII, § 802](https://www.govinfo.gov/link/plaw/102/public/496), Oct. 24, 1992, [106 Stat. 3244](https://www.govinfo.gov/link/statute/106/3244); amended [Pub. L. 117–225, § 3(c)](https://www.govinfo.gov/link/plaw/117/public/225), Dec. 9, 2022, [136 Stat. 2296](https://www.govinfo.gov/link/statute/136/2296).)*

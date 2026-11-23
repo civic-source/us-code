@@ -3,9 +3,10 @@ title: "Section 1471 - Withholdable payments to foreign financial institutions"
 usc_title: 26
 usc_section: "1471"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1471"
-generated_at: "2026-03-30T02:55:27.777Z"
+generated_at: "2026-11-23T20:26:46.132Z"
+status: "active"
 ---
 
 # § 1471. Withholdable payments to foreign financial institutions
@@ -81,3 +82,13 @@ generated_at: "2026-03-30T02:55:27.777Z"
   - **(2)** any international organization or any wholly owned agency or instrumentality thereof,
   - **(3)** any foreign central bank of issue, or
   - **(4)** any other class of persons identified by the Secretary for purposes of this subsection as posing a low risk of tax evasion.
+
+In general
+
+Grandfathered treatment of outstanding obligations
+
+Interest on overpayments
+
+## Source Credit
+
+*(Added [Pub. L. 111–147, title V, § 501(a)](https://www.govinfo.gov/link/plaw/111/public/147), Mar. 18, 2010, [124 Stat. 97](https://www.govinfo.gov/link/statute/124/97).)*

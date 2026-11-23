@@ -3,9 +3,10 @@ title: "Section 3349 - Violations in obtaining and performing appraisals in fede
 usc_title: 12
 usc_section: "3349"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 3349"
-generated_at: "2026-03-30T02:53:53.493Z"
+generated_at: "2026-11-23T20:25:59.334Z"
+status: "active"
 ---
 
 # § 3349. Violations in obtaining and performing appraisals in federally related transactions
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:53.493Z"
   - **(2)** for the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, or the Resolution Trust Corporation to knowingly contract for the performance of any appraisal by a person who is not a State certified or licensed appraiser in connection with a real estate related financial transaction defined in section 3350(5) of this title to which such association or corporation is a party.
 - **(b)** A financial institution that violates subsection (a)(1) shall be subject to civil penalties under section 1818(i)(2) of this title or section 1786(k)(2) of this title , as appropriate.
 - **(c)** A proceeding with respect to a violation of this section shall be an administrative proceeding which may be conducted by a Federal financial institutions regulatory agency in accordance with the procedures set forth in subchapter II of chapter 5 of title 5.
+
+## Source Credit
+
+*([Pub. L. 101–73, title XI, § 1120](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 517](https://www.govinfo.gov/link/statute/103/517).)*

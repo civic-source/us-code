@@ -3,9 +3,10 @@ title: "Section 3241 - Design-build selection procedures"
 usc_title: 10
 usc_section: "3241"
 chapter: 223
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 3241"
-generated_at: "2026-03-30T02:53:38.190Z"
+generated_at: "2026-11-23T20:25:51.817Z"
+status: "active"
 ---
 
 # § 3241. Design-build selection procedures
@@ -80,3 +81,37 @@ generated_at: "2026-03-30T02:53:38.190Z"
     - **(E)** An assessment of risk management benefits, including any improvements in design flexibility or coordination between contractors and the Secretary concerned.
     - **(F)** Any challenges encountered, and mitigation efforts made, in the use of such authority for the military construction project.
   - **(4)** Each Secretary concerned may exercise the authority under this subsection using amounts appropriated for such purpose on or after the date of the enactment of this paragraph.
+
+Authorization
+
+Criteria for Use
+
+Procedures Described
+
+Development of scope of work statement
+
+Solicitation of phase-one proposals
+
+Evaluation factors.—
+
+Evaluation factors to be used
+
+Relative importance of evaluation factors and subfactors
+
+Evaluation of proposals
+
+Selection by contracting officer.—
+
+Number of offerors selected and what is to be evaluated
+
+Awarding of contract
+
+Solicitation to State Number of Offerors To Be Selected for Phase Two Requests for Competitive Proposals
+
+Requirement for Guidance and Regulations
+
+Special Authority for Military Construction Projects
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. D, title XLI, § 4105(a)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 645](https://www.govinfo.gov/link/statute/110/645), § 2305a; amended [Pub. L. 105–85, div. A, title X, § 1073(a)(44)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1902](https://www.govinfo.gov/link/statute/111/1902); [Pub. L. 107–217, § 3(b)(4)](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1295](https://www.govinfo.gov/link/statute/116/1295); [Pub. L. 108–178, § 4(b)(3)](https://www.govinfo.gov/link/plaw/108/public/178), Dec. 15, 2003, [117 Stat. 2641](https://www.govinfo.gov/link/statute/117/2641); [Pub. L. 108–375, div. B, title XXVIII, § 2807](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2123](https://www.govinfo.gov/link/statute/118/2123); [Pub. L. 109–163, div. B, title XXVIII, § 2807](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3508](https://www.govinfo.gov/link/statute/119/3508); [Pub. L. 113–291, div. A, title VIII, § 814](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3430](https://www.govinfo.gov/link/statute/128/3430); [Pub. L. 115–91, div. A, title VIII, § 823](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1465](https://www.govinfo.gov/link/statute/131/1465); [Pub. L. 116–92, div. A, title XVII, § 1731(a)(38)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1814](https://www.govinfo.gov/link/statute/133/1814); renumbered § 3241 and amended [Pub. L. 116–283, div. A, title XVIII, § 1813(b)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4177](https://www.govinfo.gov/link/statute/134/4177); [Pub. L. 119–60, div. B, title XXVIII, § 2809](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1299](https://www.govinfo.gov/link/statute/139/1299).)*

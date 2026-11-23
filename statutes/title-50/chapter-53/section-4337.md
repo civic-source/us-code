@@ -3,9 +3,10 @@ title: "Section 4337 - Intercustodial conflicts involving enemy property; author
 usc_title: 50
 usc_section: "4337"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4337"
-generated_at: "2026-03-30T02:56:26.274Z"
+generated_at: "2026-11-23T20:27:31.102Z"
+status: "active"
 ---
 
 # § 4337. Intercustodial conflicts involving enemy property; authority of President to conclude; delegation of authority
@@ -16,3 +17,9 @@ The President, or such officer or agency as he may designate, is authorized to c
   - **(2)** Such agreements shall be in accordance with the policy of protecting and making available for utilization the American and nonenemy interests in such property and further the elimination of enemy interests in such property and the efficient administration and liquidation of enemy property in the United States.
   - **(3)** For the purposes of this section, the United States as to any intergovernmental agreements hereafter negotiated shall seek treatment equal to that accorded United States nationals for persons who, although citizens or residents of any enemy country before or during World War II, were deprived of full rights of citizenship or substantially deprived of liberty by laws, decrees, or regulations of such enemy country discriminating against racial, religious, or political groups: Provided , That on September 28, 1950 , such persons were (1) permanent residents of the United States and (2) had declared their intention to become citizens of the United States in conformity with the provisions of the Nationality Act of 1940, as amended; and that such persons shall have acquired citizenship of the United States prior to the effective date of any intergovernmental agreement hereafter negotiated.
   - **(4)** Reimbursement to the United States by other governments pursuant to such agreements shall be administered as vested property: Provided , That nothing contained in this section shall hinder, restrict or limit the payment of claims from the War Claims Fund established by section 4110 of this title , as amended.
+
+Harry S. Truman.
+
+## Source Credit
+
+*(Sept. 28, 1950, ch. 1094, [64 Stat. 1079](https://www.govinfo.gov/link/statute/64/1079).)*

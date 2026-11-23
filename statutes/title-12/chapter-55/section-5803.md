@@ -3,9 +3,10 @@ title: "Section 5803 - LIBOR contracts"
 usc_title: 12
 usc_section: "5803"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5803"
-generated_at: "2026-03-30T02:53:53.551Z"
+generated_at: "2026-11-23T20:25:59.542Z"
+status: "active"
 ---
 
 # § 5803. LIBOR contracts
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:53:53.551Z"
     - **(A)** requires creditors to notify borrowers regarding a change-in-terms; or
     - **(B)** governs the reevaluation of rate increases on credit card accounts under open-ended (not home-secured) consumer credit plans; or
   - **(6)** except as provided in section 5804(c) of this title , the rights or obligations of any person, or the authorities of any agency, under Federal consumer financial law, as defined in section 5481 of this title .
+
+## Source Credit
+
+*([Pub. L. 117–103, div. U, § 104](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 828](https://www.govinfo.gov/link/statute/136/828).)*

@@ -3,9 +3,10 @@ title: "Section 20302 - State responsibilities"
 usc_title: 52
 usc_section: "20302"
 chapter: 203
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "52 U.S.C. § 20302"
-generated_at: "2026-03-30T02:56:30.161Z"
+generated_at: "2026-11-23T20:27:36.962Z"
+status: "active"
 ---
 
 # § 20302. State responsibilities
@@ -78,3 +79,7 @@ generated_at: "2026-03-30T02:56:30.161Z"
   - **(1)** Notarization requirements.
   - **(2)** Restrictions on paper type, including weight and size.
   - **(3)** Restrictions on envelope type, including weight and size.
+
+## Source Credit
+
+*([Pub. L. 99–410, title I, § 102](https://www.govinfo.gov/link/plaw/99/public/410), Aug. 28, 1986, [100 Stat. 925](https://www.govinfo.gov/link/statute/100/925); [Pub. L. 107–107, div. A, title XVI, § 1606(a)(1)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1278](https://www.govinfo.gov/link/statute/115/1278); [Pub. L. 107–252, title VII](https://www.govinfo.gov/link/plaw/107/public/252), §§ 702, 703(a), 705(b)(2), 707, Oct. 29, 2002, [116 Stat. 1723–1725](https://www.govinfo.gov/link/statute/116/1723); [Pub. L. 108–375, div. A, title V, § 566(b)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1919](https://www.govinfo.gov/link/statute/118/1919); [Pub. L. 111–84, div. A, title V](https://www.govinfo.gov/link/plaw/111/public/84), §§ 577(a), 578(a), 579(a), (b), 580(c), (d), 582(a), 584(b), Oct. 28, 2009, [123 Stat. 2319](https://www.govinfo.gov/link/statute/123/2319), 2321–2323, 2325, 2327, 2330.)*

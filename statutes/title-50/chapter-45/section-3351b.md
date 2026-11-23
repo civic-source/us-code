@@ -3,9 +3,10 @@ title: "Section 3351b - Limitations on determinations regarding certain security
 usc_title: 50
 usc_section: "3351b"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3351b"
-generated_at: "2026-03-30T02:56:26.246Z"
+generated_at: "2026-11-23T20:27:30.975Z"
+status: "active"
 ---
 
 # § 3351b. Limitations on determinations regarding certain security classifications
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:26.246Z"
   - **(1)** Except as provided in paragraph (2), in a case in which an officer described in subsection (a) has been nominated as described in such subsection and classification authority rests with the officer or another officer who reports directly to such officer, a classification decision with respect to information relating to the officer shall be made by the Director of National Intelligence.
   - **(2)** In a case described in paragraph (1) in which the officer nominated is the Director of National Intelligence, the classification decision shall be made by the Principal Deputy Director of National Intelligence.
 - **(c)** Whenever the Director or the Principal Deputy Director makes a decision under subsection (b), the Director or the Principal Deputy Director, as the case may be, shall submit to the congressional intelligence committees a report detailing the reasons for the decision.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. E, title LXIII, § 6310](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2190](https://www.govinfo.gov/link/statute/133/2190).)*

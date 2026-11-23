@@ -3,9 +3,10 @@ title: "Section 335 - Payment of personnel expenses necessary for participation 
 usc_title: 10
 usc_section: "335"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 335"
-generated_at: "2026-03-30T02:53:38.053Z"
+generated_at: "2026-11-23T20:25:50.913Z"
+status: "active"
 ---
 
 # § 335. Payment of personnel expenses necessary for participation in training program conducted by Colombia under the United States-Colombia Action Plan for Regional Security
@@ -18,3 +19,15 @@ generated_at: "2026-03-30T02:53:38.053Z"
   - **(2)** The Secretary may authorize the payment of such expenses of, and special compensation for, such personnel from a country other than a developing country if the Secretary determines that such payment is—
     - **(A)** necessary to respond to extraordinary circumstances; and
     - **(B)** in the national security interest of the United States.
+
+Authority
+
+Limitation.—
+
+In general
+
+Exception
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. A, title XII, § 1201(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2822](https://www.govinfo.gov/link/statute/136/2822).)*

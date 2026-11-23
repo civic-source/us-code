@@ -3,9 +3,10 @@ title: "Section 17033 - Biofuels and biorefinery information center"
 usc_title: 42
 usc_section: "17033"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17033"
-generated_at: "2026-03-30T02:56:11.493Z"
+generated_at: "2026-11-23T20:27:23.716Z"
+status: "active"
 ---
 
 # § 17033. Biofuels and biorefinery information center
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:11.493Z"
   - **(4)** make information and assistance provided by the center available through a toll-free telephone number and website.
 - **(c)** To the maximum extent practicable, the Secretary shall ensure that the activities under this section are coordinated with, and do not duplicate the efforts of, centers at other government agencies.
 - **(d)** There are authorized to be appropriated such sums as are necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 110–140, title II, § 229](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1535](https://www.govinfo.gov/link/statute/121/1535).)*

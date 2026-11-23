@@ -3,9 +3,10 @@ title: "Section 657r - Mentor-protege programs"
 usc_title: 15
 usc_section: "657r"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 657r"
-generated_at: "2026-03-30T02:54:08.108Z"
+generated_at: "2026-11-23T20:26:03.847Z"
+status: "active"
 ---
 
 # § 657r. Mentor-protege programs
@@ -73,3 +74,7 @@ generated_at: "2026-03-30T02:54:08.108Z"
   - **(7)** The term “covered territory protege” means a protege of a covered territory mentor that is a covered territory business.
 - **(e)** Mentors and proteges with approved agreement in a program operating pursuant to subsection (b)(4)(C) shall be permitted to continue their relationship according to the terms specified in their agreement until the expiration date specified in the agreement.
 - **(f)** Agencies operating mentor protege programs pursuant to subsection (b)(4)(C) shall submit the plans specified in subsection (b)(1)(A) to the Administrator within 6 months of the promulgation of rules required by subsection (b)(3). The Administrator shall provide initial comments on each plan within 60 days of receipt, and final approval or denial of each plan within 180 days after receipt.
+
+## Source Credit
+
+*([Pub. L. 85–536, § 2[45]](https://www.govinfo.gov/link/plaw/85/public/536), as added [Pub. L. 112–239, div. A, title XVI, § 1641(2)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2077](https://www.govinfo.gov/link/statute/126/2077); amended [Pub. L. 114–328, div. A, title XVIII, § 1813(e)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2653](https://www.govinfo.gov/link/statute/130/2653); [Pub. L. 115–232, div. A, title VIII, § 861(d)](https://www.govinfo.gov/link/plaw/115/public/232), (e), Aug. 13, 2018, [132 Stat. 1896](https://www.govinfo.gov/link/statute/132/1896), 1897; [Pub. L. 116–283, div. A, title VIII, § 866(c)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3786](https://www.govinfo.gov/link/statute/134/3786).)*

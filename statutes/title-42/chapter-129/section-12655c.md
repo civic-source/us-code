@@ -3,9 +3,10 @@ title: "Section 12655c - Focus of programs"
 usc_title: 42
 usc_section: "12655c"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12655c"
-generated_at: "2026-03-30T02:56:11.426Z"
+generated_at: "2026-11-23T20:27:23.419Z"
+status: "active"
 ---
 
 # § 12655c. Focus of programs
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:56:11.426Z"
     - **(F)** any other nonpartisan civic activities and services that the Corporation determines to be of a substantial social benefit in meeting unmet human, educational, or environmental needs (particularly needs related to poverty) or in the community where volunteer service is to be performed; or
   - **(3)** encompass the focuses and services described in both paragraphs (1) and (2).
 - **(b)** No participant shall perform any specific activity for more than a 6-month period. No participant shall remain enrolled in programs assisted under this division for more than 24 months.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 199D](https://www.govinfo.gov/link/plaw/101/public/610), formerly § 124, Nov. 16, 1990, [104 Stat. 3143](https://www.govinfo.gov/link/statute/104/3143); [Pub. L. 102–10, § 5(4)](https://www.govinfo.gov/link/plaw/102/public/10), Mar. 12, 1991, [105 Stat. 30](https://www.govinfo.gov/link/statute/105/30); renumbered § 199D and amended [Pub. L. 103–82, title I, § 101(a)](https://www.govinfo.gov/link/plaw/103/public/82), (e)(1), (5), Sept. 21, 1993, [107 Stat. 788](https://www.govinfo.gov/link/statute/107/788), 815, 816.)*

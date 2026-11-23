@@ -3,9 +3,10 @@ title: "Section 11101 - Accommodations for seamen"
 usc_title: 46
 usc_section: "11101"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 11101"
-generated_at: "2026-03-30T02:56:15.554Z"
+generated_at: "2026-11-23T20:27:27.161Z"
+status: "active"
 ---
 
 # § 11101. Accommodations for seamen
@@ -28,3 +29,16 @@ generated_at: "2026-03-30T02:56:15.554Z"
 - **(d)** A merchant vessel of the United States, the construction of which began after March 4, 1915 , having more than 10 seamen on deck, shall have at least one lighted, clean, and properly heated and ventilated washing place. There shall be provided at least one washing outfit for each 2 seamen of the watch. A separate washing place shall be provided for the fireroom and engineroom seamen, if their number is more than 10, that shall be large enough to accommodate at least one-sixth of them at the same time, and have a hot and cold water supply and a sufficient number of washbasins, sinks, and shower baths. In each washing space in a visible location there shall be information regarding procedures and resources to report crimes upon the vessel, including sexual assault and sexual harassment, and vessel owner or company policies prohibiting sexual assault and sexual harassment, retaliation, and drug and alcohol usage.
 - **(e)** Forecastles shall be fumigated at intervals provided by regulations prescribed by the Secretary of Health and Human Services, with the approval of the Secretary, and shall have at least 2 exits, one of which may be used in emergencies.
 - **(f)** The owner, charterer, managing operator, agent, master, or licensed individual of a vessel not complying with this section is liable to the United States Government for a civil penalty of at least $50 but not more than $500.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 11101 | 46:660–1 |
+
+
+Historical and Revision Notes
+
+11101
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 577](https://www.govinfo.gov/link/statute/97/577); [Pub. L. 99–36, § 1(a)(6)](https://www.govinfo.gov/link/plaw/99/public/36), May 15, 1985, [99 Stat. 67](https://www.govinfo.gov/link/statute/99/67); [Pub. L. 104–324, title VII, § 740](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3942](https://www.govinfo.gov/link/statute/110/3942); [Pub. L. 117–263, div. K, title CXVI, § 11604](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4148](https://www.govinfo.gov/link/statute/136/4148).)*

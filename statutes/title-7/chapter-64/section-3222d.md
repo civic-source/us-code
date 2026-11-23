@@ -3,9 +3,10 @@ title: "Section 3222d - Matching funds requirement for research and extension ac
 usc_title: 7
 usc_section: "3222d"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 3222d"
-generated_at: "2026-03-30T02:53:42.399Z"
+generated_at: "2026-11-23T20:25:41.581Z"
+status: "active"
 ---
 
 # § 3222d. Matching funds requirement for research and extension activities at eligible institutions
@@ -22,3 +23,11 @@ generated_at: "2026-03-30T02:53:42.399Z"
 - **(f)**
   - **(1)** Federal funds that are not matched by a State in accordance with subsection (c) for a fiscal year shall be redistributed by the Secretary to eligible institutions whose States have satisfied the matching funds requirement for that fiscal year.
   - **(2)** Any redistribution of funds under this subsection shall be subject to the applicable matching requirement specified in subsection (c) and shall be made in a manner consistent with sections 3221 and 3222 of this title, as determined by the Secretary.
+
+Fiscal year 2000
+
+Future fiscal years
+
+## Source Credit
+
+*([Pub. L. 95–113, title XIV, § 1449](https://www.govinfo.gov/link/plaw/95/public/113), as added [Pub. L. 105–185, title II, § 226(a)](https://www.govinfo.gov/link/plaw/105/public/185), June 23, 1998, [112 Stat. 542](https://www.govinfo.gov/link/statute/112/542); amended [Pub. L. 107–171, title VII, § 7212](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 447](https://www.govinfo.gov/link/statute/116/447); [Pub. L. 110–234, title VII, § 7127](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1223](https://www.govinfo.gov/link/statute/122/1223); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, § 7127, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1984.)*

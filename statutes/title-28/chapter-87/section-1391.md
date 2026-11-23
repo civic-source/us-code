@@ -3,9 +3,10 @@ title: "Section 1391 - Venue generally"
 usc_title: 28
 usc_section: "1391"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 1391"
-generated_at: "2026-03-30T02:55:30.139Z"
+generated_at: "2026-11-23T20:26:36.444Z"
+status: "active"
 ---
 
 # § 1391. Venue generally
@@ -31,3 +32,25 @@ generated_at: "2026-03-30T02:55:30.139Z"
   - **(3)** in any judicial district in which the agency or instrumentality is licensed to do business or is doing business, if the action is brought against an agency or instrumentality of a foreign state as defined in section 1603(b) of this title ; or
   - **(4)** in the United States District Court for the District of Columbia if the action is brought against a foreign state or political subdivision thereof.
 - **(g)** A civil action in which jurisdiction of the district court is based upon section 1369 of this title may be brought in any district in which any defendant resides or in which a substantial part of the accident giving rise to the action took place.
+
+Applicability of Section
+
+Venue in General
+
+Residency
+
+Residency of Corporations in States With Multiple Districts
+
+Actions Where Defendant Is Officer or Employee of the United States.—
+
+In general
+
+Service
+
+Civil Actions Against a Foreign State
+
+Multiparty, Multiforum Litigation
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 935](https://www.govinfo.gov/link/statute/62/935); [Pub. L. 87–748, § 2](https://www.govinfo.gov/link/plaw/87/public/748), Oct. 5, 1962, [76 Stat. 744](https://www.govinfo.gov/link/statute/76/744); [Pub. L. 88–234](https://www.govinfo.gov/link/plaw/88/public/234), Dec. 23, 1963, [77 Stat. 473](https://www.govinfo.gov/link/statute/77/473); [Pub. L. 89–714](https://www.govinfo.gov/link/plaw/89/public/714), §§ 1, 2, Nov. 2, 1966, [80 Stat. 1111](https://www.govinfo.gov/link/statute/80/1111); [Pub. L. 94–574, § 3](https://www.govinfo.gov/link/plaw/94/public/574), Oct. 21, 1976, [90 Stat. 2721](https://www.govinfo.gov/link/statute/90/2721); [Pub. L. 94–583, § 5](https://www.govinfo.gov/link/plaw/94/public/583), Oct. 21, 1976, [90 Stat. 2897](https://www.govinfo.gov/link/statute/90/2897); [Pub. L. 100–702, title X, § 1013(a)](https://www.govinfo.gov/link/plaw/100/public/702), Nov. 19, 1988, [102 Stat. 4669](https://www.govinfo.gov/link/statute/102/4669); [Pub. L. 101–650, title III, § 311](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5114](https://www.govinfo.gov/link/statute/104/5114); [Pub. L. 102–198, § 3](https://www.govinfo.gov/link/plaw/102/public/198), Dec. 9, 1991, [105 Stat. 1623](https://www.govinfo.gov/link/statute/105/1623); [Pub. L. 102–572, title V, § 504](https://www.govinfo.gov/link/plaw/102/public/572), Oct. 29, 1992, [106 Stat. 4513](https://www.govinfo.gov/link/statute/106/4513); [Pub. L. 104–34, § 1](https://www.govinfo.gov/link/plaw/104/public/34), Oct. 3, 1995, [109 Stat. 293](https://www.govinfo.gov/link/statute/109/293); [Pub. L. 107–273, div. C, title I, § 11020(b)(2)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1827](https://www.govinfo.gov/link/statute/116/1827); [Pub. L. 112–63, title II, § 202](https://www.govinfo.gov/link/plaw/112/public/63), Dec. 7, 2011, [125 Stat. 763](https://www.govinfo.gov/link/statute/125/763).)*

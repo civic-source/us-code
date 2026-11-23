@@ -3,9 +3,10 @@ title: "Section 982 - Members: service on State and local juries"
 usc_title: 10
 usc_section: "982"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 982"
-generated_at: "2026-03-30T02:53:38.092Z"
+generated_at: "2026-11-23T20:25:51.163Z"
+status: "active"
 ---
 
 # § 982. Members: service on State and local juries
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:38.092Z"
 - **(b)** A determination by the Secretary concerned under this section is conclusive.
 - **(c)** The Secretary concerned shall prescribe regulations for the administration of this section.
 - **(d)** In this section, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and each territory of the United States.
+
+## Source Credit
+
+*(Added [Pub. L. 99–661, div. A, title V, § 502(a)](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 3863](https://www.govinfo.gov/link/statute/100/3863).)*

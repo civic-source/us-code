@@ -3,12 +3,17 @@ title: "Section 3716 - Separability"
 usc_title: 12
 usc_section: "3716"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 3716"
-generated_at: "2026-03-30T02:53:53.497Z"
+generated_at: "2026-11-23T20:25:59.348Z"
+status: "active"
 ---
 
 # § 3716. Separability
 
 If any clause, sentence, paragraph or part of this chapter shall, for any reason, be adjudged by a court of competent jurisdiction to be invalid or invalid as applied to a class of cases, such judgment shall not affect, impair, or invalidate the remainder thereof and of this chapter, but shall be confined in its operation to the clause, sentence, paragraph, or part thereof directly involved in the controversy in which such judgment shall have been rendered.
 
+
+## Source Credit
+
+*([Pub. L. 97–35, title III, § 369H](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 431](https://www.govinfo.gov/link/statute/95/431).)*

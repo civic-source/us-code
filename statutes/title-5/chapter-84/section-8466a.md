@@ -3,9 +3,10 @@ title: "Section 8466a - Embezzlement or conversion of payments"
 usc_title: 5
 usc_section: "8466a"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8466a"
-generated_at: "2026-03-30T02:52:56.062Z"
+generated_at: "2026-11-23T20:25:32.224Z"
+status: "active"
 ---
 
 # § 8466a. Embezzlement or conversion of payments
@@ -18,3 +19,15 @@ generated_at: "2026-03-30T02:52:56.062Z"
       - **(i)** to another representative payee; or
       - **(ii)** if the interest of the individual under this title would be served thereby, to the individual.
 - **(b)** Any person who violates subsection (a)(1) shall be fined under title 18, imprisoned for not more than 5 years, or both.
+
+Embezzling and Conversion Generally.—
+
+In general
+
+Revocation
+
+Penalty
+
+## Source Credit
+
+*(Added [Pub. L. 116–126, § 2(b)(2)](https://www.govinfo.gov/link/plaw/116/public/126), Mar. 18, 2020, [134 Stat. 175](https://www.govinfo.gov/link/statute/134/175).)*

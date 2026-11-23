@@ -3,9 +3,10 @@ title: "Section 443f - Transferred"
 usc_title: 16
 usc_section: "443f"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 443f"
-generated_at: "2026-03-30T02:54:22.799Z"
+generated_at: "2026-11-23T20:26:19.854Z"
+status: "transferred"
 ---
 
 # §§ 443 to 443f. Transferred

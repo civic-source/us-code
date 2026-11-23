@@ -3,9 +3,10 @@ title: "Section 6f - Registration and financial requirements; risk assessment"
 usc_title: 7
 usc_section: "6f"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6f"
-generated_at: "2026-03-30T02:53:42.240Z"
+generated_at: "2026-11-23T20:25:40.857Z"
+status: "active"
 ---
 
 # § 6f. Registration and financial requirements; risk assessment
@@ -69,3 +70,7 @@ generated_at: "2026-03-30T02:53:42.240Z"
     - **(E)** with respect to the registered futures commission merchant and its affiliated persons, on a consolidated basis, the amount and proportion of assets devoted to, and revenues derived from activities in the United States futures markets.
   - **(10)** Information required to be provided pursuant to this subsection shall be subject to section 12 of this title . Except as specifically provided in section 12 of this title and notwithstanding any other provision of law, the Commission shall not be compelled to disclose any information required to be reported under this subsection, or any information supplied to the Commission by any domestic or foreign regulatory agency that relates to the financial or operational condition of any affiliated person of a registered futures commission merchant.
   - **(11)** Nothing in paragraphs (1) through (10) shall be construed to supersede or to limit in any way the authority or powers of the Commission pursuant to any other provision of this chapter or regulations issued under this chapter.
+
+## Source Credit
+
+*(Sept. 21, 1922, ch. 369, § 4f, as added June 15, 1936, ch. 545, § 5, [49 Stat. 1495](https://www.govinfo.gov/link/statute/49/1495); amended [Pub. L. 90–258, § 7](https://www.govinfo.gov/link/plaw/90/public/258), Feb. 19, 1968, [82 Stat. 28](https://www.govinfo.gov/link/statute/82/28); [Pub. L. 93–463, title I, § 103(a)](https://www.govinfo.gov/link/plaw/93/public/463), Oct. 23, 1974, [88 Stat. 1392](https://www.govinfo.gov/link/statute/88/1392); [Pub. L. 95–405, § 5](https://www.govinfo.gov/link/plaw/95/public/405), Sept. 30, 1978, [92 Stat. 869](https://www.govinfo.gov/link/statute/92/869); [Pub. L. 97–444, title II, § 208](https://www.govinfo.gov/link/plaw/97/public/444), Jan. 11, 1983, [96 Stat. 2302](https://www.govinfo.gov/link/statute/96/2302); [Pub. L. 102–546, title II](https://www.govinfo.gov/link/plaw/102/public/546), §§ 207(b)(1), 229, Oct. 28, 1992, [106 Stat. 3604](https://www.govinfo.gov/link/statute/106/3604), 3619; [Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(6), title II, § 252(b), (c)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–407, 2763A–447; [Pub. L. 110–234, title XIII, § 13105(b)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1434](https://www.govinfo.gov/link/statute/122/1434); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIII, § 13105(b), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2196.)*

@@ -3,9 +3,10 @@ title: "Section 2503 - Director and Deputy Director; delegation of functions"
 usc_title: 22
 usc_section: "2503"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2503"
-generated_at: "2026-03-30T02:55:05.370Z"
+generated_at: "2026-11-23T20:26:32.311Z"
+status: "active"
 ---
 
 # § 2503. Director and Deputy Director; delegation of functions
@@ -18,3 +19,21 @@ generated_at: "2026-03-30T02:55:05.370Z"
   - **(3)** Under the direction of the President, the Secretary of State shall be responsible for the continuous supervision and general direction of the programs authorized by this chapter, to the end that such programs are effectively integrated both at home and abroad and the foreign policy of the United States is best served thereby.
   - **(4)** The Director of the Peace Corps may prescribe such regulations as may be necessary to assure that no individual performing service for the Peace Corps under any authority contained in this chapter shall engage in any activity determined by the Director to be detrimental to the best interests of the United States.
 - **(d)** Except with the approval of the Secretary of State, the Peace Corps shall not be assigned to perform services which could more usefully be performed by other available agencies of the United States Government in the country concerned.
+
+In General
+
+Inspector General Review
+
+Review
+
+Report
+
+Failure to Meet Deadline
+
+Requirement to submit report
+
+Committees of congress specified
+
+## Source Credit
+
+*([Pub. L. 87–293, title I, § 4](https://www.govinfo.gov/link/plaw/87/public/293), Sept. 22, 1961, [75 Stat. 612](https://www.govinfo.gov/link/statute/75/612); [Pub. L. 88–426, title III, § 305(27)](https://www.govinfo.gov/link/plaw/88/public/426), Aug. 14, 1964, [78 Stat. 426](https://www.govinfo.gov/link/statute/78/426); [Pub. L. 91–352, § 2](https://www.govinfo.gov/link/plaw/91/public/352), July 24, 1970, [84 Stat. 464](https://www.govinfo.gov/link/statute/84/464); [Pub. L. 97–113, title VI, § 601(d)(1)](https://www.govinfo.gov/link/plaw/97/public/113), Dec. 29, 1981, [95 Stat. 1541](https://www.govinfo.gov/link/statute/95/1541).)*

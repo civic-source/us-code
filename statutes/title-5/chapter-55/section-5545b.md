@@ -3,9 +3,10 @@ title: "Section 5545b - Pay for firefighters"
 usc_title: 5
 usc_section: "5545b"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 5545b"
-generated_at: "2026-03-30T02:52:56.020Z"
+generated_at: "2026-11-23T20:25:31.941Z"
+status: "active"
 ---
 
 # § 5545b. Pay for firefighters
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:52:56.020Z"
   - **(2)** For the purpose of applying section 7(k) of the Fair Labor Standards Act of 1938 to a firefighter who is subject to this section, no violation referred to in such section 7(k) shall be deemed to have occurred if the requirements of section 5542(a) are met, applying section 5542(a) as provided in subsection (f) of that section: Provided , That the overtime hourly rate of pay for such firefighter shall in all cases be an amount equal to one and one-half times the firefighter’s hourly rate of basic pay under subsection (b)(1)(A) or (c)(1)(B) of this section, as applicable.
   - **(3)** The Office of Personnel Management may prescribe regulations, with respect to firefighters subject to this section, that would permit an agency to reduce or eliminate the variation in the amount of firefighters’ biweekly pay caused by work scheduling cycles that result in varying hours in the regular tours of duty from pay period to pay period. Under such regulations, the pay that a firefighter would otherwise receive for regular tours of duty over the work scheduling cycle shall, to the extent practicable, remain unaffected.
   - **(4)** Notwithstanding section 8114(e)(1), overtime pay for a firefighter subject to this section for hours in a regular tour of duty shall be included in any computation of pay under section 8114.
+
+## Source Credit
+
+*(Added [Pub. L. 105–277, div. A, § 101(h) [title VI, § 628(a)(2)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–480](https://www.govinfo.gov/link/statute/112/2681), 2681–519; amended [Pub. L. 106–554, § 1(a)(3) [title VI, § 641(a)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–169.)*

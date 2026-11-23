@@ -3,9 +3,10 @@ title: "Section 6821 - Privacy protection for customer information of financial 
 usc_title: 15
 usc_section: "6821"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 6821"
-generated_at: "2026-03-30T02:54:08.216Z"
+generated_at: "2026-11-23T20:26:04.421Z"
+status: "active"
 ---
 
 # § 6821. Privacy protection for customer information of financial institutions
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:08.216Z"
 - **(e)** No provision of this section shall be construed so as to prevent any insurance institution, or any officer, employee, or agency of an insurance institution, from obtaining information as part of an insurance investigation into criminal activity, fraud, material misrepresentation, or material nondisclosure that is authorized for such institution under State law, regulation, interpretation, or order.
 - **(f)** No provision of this section shall be construed so as to prevent any person from obtaining customer information of a financial institution that otherwise is available as a public record filed pursuant to the securities laws (as defined in section 78c(a)(47) of this title ).
 - **(g)** No provision of this section shall be construed to prevent any State-licensed private investigator, or any officer, employee, or agent of such private investigator, from obtaining customer information of a financial institution, to the extent reasonably necessary to collect child support from a person adjudged to have been delinquent in his or her obligations by a Federal or State court, and to the extent that such action by a State-licensed private investigator is not unlawful under any other Federal or State law or regulation, and has been authorized by an order or judgment of a court of competent jurisdiction.
+
+## Source Credit
+
+*([Pub. L. 106–102, title V, § 521](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1446](https://www.govinfo.gov/link/statute/113/1446).)*

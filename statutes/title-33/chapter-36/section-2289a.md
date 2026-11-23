@@ -3,9 +3,10 @@ title: "Section 2289a - Consideration of measures"
 usc_title: 33
 usc_section: "2289a"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2289a"
-generated_at: "2026-03-30T02:55:41.120Z"
+generated_at: "2026-11-23T20:26:54.163Z"
+status: "active"
 ---
 
 # § 2289a. Consideration of measures
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:41.120Z"
     - **(A)** A description of guidance or instructions issued, and other measures taken, by the Secretary and the Chief of Engineers to implement subsection (b).
     - **(B)** An assessment of the costs, benefits, impacts, and trade-offs associated with measures recommended by the Secretary for coastal risk reduction and the effectiveness of those measures.
     - **(C)** A description of any statutory, fiscal, or regulatory barriers to the appropriate consideration and use of a full array of measures for coastal risk reduction.
+
+## Source Credit
+
+*([Pub. L. 114–322, title I, § 1184](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1679](https://www.govinfo.gov/link/statute/130/1679); [Pub. L. 115–270, title I, § 1149(b)](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3787](https://www.govinfo.gov/link/statute/132/3787).)*

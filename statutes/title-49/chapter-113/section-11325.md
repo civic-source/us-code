@@ -3,9 +3,10 @@ title: "Section 11325 - Consolidation, merger, and acquisition of control: proce
 usc_title: 49
 usc_section: "11325"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 11325"
-generated_at: "2026-03-30T02:56:19.325Z"
+generated_at: "2026-11-23T20:27:34.726Z"
+status: "active"
 ---
 
 # § 11325. Consolidation, merger, and acquisition of control: procedure
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:19.325Z"
 - **(d)** For all applications under this section other than those specified in subsections (b) and (c) of this section, the following conditions apply:
   - **(1)** Written comments about an application, including comments of the Attorney General and the Secretary of Transportation, may be filed with the Board within 30 days after notice of the application is published under subsection (a) of this section.
   - **(2)** The Board must conclude any evidentiary proceedings by the 105th day after the date of publication of notice under subsection (a) of this section. The Board must issue a final decision by the 45th day after the date on which it concludes the evidentiary proceedings.
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 102(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 841](https://www.govinfo.gov/link/statute/109/841).)*

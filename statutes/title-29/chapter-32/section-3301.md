@@ -3,9 +3,10 @@ title: "Section 3301 - State administration"
 usc_title: 29
 usc_section: "3301"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3301"
-generated_at: "2026-03-30T02:55:18.762Z"
+generated_at: "2026-11-23T20:26:38.141Z"
+status: "active"
 ---
 
 # § 3301. State administration
@@ -15,3 +16,7 @@ Each eligible agency shall be responsible for the State or outlying area adminis
   - **(1)** the development, implementation, and monitoring of the relevant components of the unified State plan in section 3112 of this title or the combined State plan in section 3113 of this title ;
   - **(2)** consultation with other appropriate agencies, groups, and individuals that are involved in, or interested in, the development and implementation of activities assisted under this subchapter; and
   - **(3)** coordination and nonduplication with other Federal and State education, training, corrections, public housing, and social service programs.
+
+## Source Credit
+
+*([Pub. L. 113–128, title II, § 221](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1614](https://www.govinfo.gov/link/statute/128/1614).)*

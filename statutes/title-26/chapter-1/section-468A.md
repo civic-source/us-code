@@ -3,9 +3,10 @@ title: "Section 468A - Special rules for nuclear decommissioning costs"
 usc_title: 26
 usc_section: "468A"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 468A"
-generated_at: "2026-03-30T02:55:27.706Z"
+generated_at: "2026-11-23T20:26:45.767Z"
+status: "active"
 ---
 
 # § 468A. Special rules for nuclear decommissioning costs
@@ -56,3 +57,11 @@ generated_at: "2026-03-30T02:55:27.706Z"
   - **(4)** Notwithstanding any other provision of law, the taxpayer’s basis in any Fund to which this section applies shall not be increased by reason of any transfer permitted by this subsection.
 - **(g)** For purposes of this section, the term “nuclear powerplant” includes any unit thereof.
 - **(h)** For purposes of this section, a taxpayer shall be deemed to have made a payment to the Fund on the last day of a taxable year if such payment is made on account of such taxable year and is made within 2½ months after the close of such taxable year.
+
+Subsection
+
+Subsection
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title I, § 91(c)(1)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 604](https://www.govinfo.gov/link/statute/98/604); amended [Pub. L. 99–514, title XVIII, § 1807(a)(4)(A)(i)](https://www.govinfo.gov/link/plaw/99/public/514), (B)–(E)(vi), Oct. 22, 1986, [100 Stat. 2812](https://www.govinfo.gov/link/statute/100/2812), 2813; [Pub. L. 102–486, title XIX, § 1917(a)](https://www.govinfo.gov/link/plaw/102/public/486), (b), Oct. 24, 1992, [106 Stat. 3024](https://www.govinfo.gov/link/statute/106/3024), 3025; [Pub. L. 104–188, title I, § 1704(j)(6)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1882](https://www.govinfo.gov/link/statute/110/1882); [Pub. L. 109–58, title XIII, § 1310(a)](https://www.govinfo.gov/link/plaw/109/public/58) –(e), Aug. 8, 2005, [119 Stat. 1007–1009](https://www.govinfo.gov/link/statute/119/1007).)*

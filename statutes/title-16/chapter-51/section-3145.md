@@ -3,9 +3,10 @@ title: "Section 3145 - Wildlife resources portion of study and impact of potenti
 usc_title: 16
 usc_section: "3145"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3145"
-generated_at: "2026-03-30T02:54:23.010Z"
+generated_at: "2026-11-23T20:26:20.631Z"
+status: "active"
 ---
 
 # § 3145. Wildlife resources portion of study and impact of potential oil spills in Arctic Ocean
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:23.010Z"
     - **(B)** The Secretary shall, no later than January 31, 1991 , transmit a report to the Congress on the findings and conclusions reached as the result of the study carried out under this subsection.
 - **(c)** The Congress calls upon the Secretary of State, in consultation with the Secretary of the Interior, the Secretary of Transportation, and the Governor of Alaska, to begin negotiations with the Foreign Minister of Canada regarding a treaty dealing with the complex issues of recovery of damages, contingency plans, and coordinated actions in the event of an oil spill in the Arctic Ocean.
 - **(d)** The Secretary of State shall report to the Congress on the Secretary’s efforts pursuant to this section no later than June 1, 1991 .
+
+## Source Credit
+
+*([Pub. L. 96–487, title X, § 1005](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2453](https://www.govinfo.gov/link/statute/94/2453); [Pub. L. 101–380, title VIII, § 8302](https://www.govinfo.gov/link/plaw/101/public/380), Aug. 18, 1990, [104 Stat. 572](https://www.govinfo.gov/link/statute/104/572).)*

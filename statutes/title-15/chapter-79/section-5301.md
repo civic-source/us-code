@@ -3,9 +3,10 @@ title: "Section 5301 - Findings"
 usc_title: 15
 usc_section: "5301"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 5301"
-generated_at: "2026-03-30T02:54:08.205Z"
+generated_at: "2026-11-23T20:26:04.367Z"
+status: "active"
 ---
 
 # § 5301. Findings
@@ -19,3 +20,7 @@ The Congress finds that—
   - **(5)** many metal casting companies lack the resources to conduct metal casting research alone, placing them at a serious competitive disadvantage;
   - **(6)** the support of university-based research in metal casting is important in promoting technology development and providing industry with qualified engineers; and
   - **(7)** by combining the resources of the Federal Government, universities, industry, and private organizations, to conduct research and development activities, substantial technological benefits will result to the metal casting industry.
+
+## Source Credit
+
+*([Pub. L. 101–425, § 2](https://www.govinfo.gov/link/plaw/101/public/425), Oct. 15, 1990, [104 Stat. 915](https://www.govinfo.gov/link/statute/104/915).)*

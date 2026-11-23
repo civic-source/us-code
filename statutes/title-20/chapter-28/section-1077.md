@@ -3,9 +3,10 @@ title: "Section 1077 - Eligibility of student borrowers and terms of federally i
 usc_title: 20
 usc_section: "1077"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1077"
-generated_at: "2026-03-30T02:54:48.111Z"
+generated_at: "2026-11-23T20:26:14.394Z"
+status: "active"
 ---
 
 # § 1077. Eligibility of student borrowers and terms of federally insured student loans
@@ -43,3 +44,9 @@ generated_at: "2026-03-30T02:54:48.111Z"
   - **(2)** the requirements of such subsection shall not apply in the case of a loan made under section 1078–2 or 1078–3 of this title, or made to a student to cover the cost of attendance at an eligible institution outside the United States.
 - **(c)** Except as provided in subsection (a)(2)(H), the total of the payments by a borrower during any year of any repayment period with respect to the aggregate amount of all loans to that borrower which are insured under this part shall not, unless the borrower and the lender otherwise agree, be less than $600 or the balance of all such loans (together with interest thereon), whichever amount is less (but in no instance less than the amount of interest due and payable).
 - **(d)** The lender shall obtain the borrower’s driver’s license number, if any, at the time of application for the loan.
+
+“The amendments made by this Act [probably means “this section”, amending this section and sections 1078, 1078–8, 1087e, and 1087dd of this title] shall apply with respect to loans—
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 427](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1361](https://www.govinfo.gov/link/statute/100/1361); amended [Pub. L. 100–50, § 10(b)](https://www.govinfo.gov/link/plaw/100/public/50), (c), June 3, 1987, [101 Stat. 341](https://www.govinfo.gov/link/statute/101/341); [Pub. L. 100–369](https://www.govinfo.gov/link/plaw/100/public/369), §§ 5(b)(1), 7(c), 11(a), July 18, 1988, [102 Stat. 836–838](https://www.govinfo.gov/link/statute/102/836); [Pub. L. 101–239, title II](https://www.govinfo.gov/link/plaw/101/public/239), §§ 2002(a)(1), 2004(b)(2), Dec. 19, 1989, [103 Stat. 2111](https://www.govinfo.gov/link/statute/103/2111), 2116; [Pub. L. 102–164, title VI](https://www.govinfo.gov/link/plaw/102/public/164), §§ 601(a), 602(a), Nov. 15, 1991, [105 Stat. 1065](https://www.govinfo.gov/link/statute/105/1065), 1066; [Pub. L. 102–325, title IV, § 414](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 513](https://www.govinfo.gov/link/statute/106/513); [Pub. L. 103–208, § 2(c)(4)](https://www.govinfo.gov/link/plaw/103/public/208), Dec. 20, 1993, [107 Stat. 2461](https://www.govinfo.gov/link/statute/107/2461); [Pub. L. 110–315, title IV, § 432(b)(1)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3246](https://www.govinfo.gov/link/statute/122/3246); [Pub. L. 115–245, div. B, title III, § 309(b)](https://www.govinfo.gov/link/plaw/115/public/245), Sept. 28, 2018, [132 Stat. 3106](https://www.govinfo.gov/link/statute/132/3106).)*

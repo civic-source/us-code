@@ -3,12 +3,17 @@ title: "Section 765c - ITU functions"
 usc_title: 47
 usc_section: "765c"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 765c"
-generated_at: "2026-03-30T02:56:24.526Z"
+generated_at: "2026-11-23T20:27:28.956Z"
+status: "active"
 ---
 
 # § 765c. ITU functions
 
 - **(a)** The Commission and United States satellite companies shall utilize the International Telecommunication Union procedures for technical coordination with INTELSAT and its successor entities and separated entities, rather than INTELSAT procedures.
 - **(b)** The President and the Commission shall take the action necessary to ensure that the United States remains the ITU notifying administration for the privatized INTELSAT’s existing and future orbital slot registrations.
+
+## Source Credit
+
+*([Pub. L. 87–624, title VI, § 644](https://www.govinfo.gov/link/plaw/87/public/624), as added [Pub. L. 106–180, § 3](https://www.govinfo.gov/link/plaw/106/public/180), Mar. 17, 2000, [114 Stat. 56](https://www.govinfo.gov/link/statute/114/56).)*

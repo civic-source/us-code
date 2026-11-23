@@ -3,9 +3,10 @@ title: "Section 4201 - Purposes"
 usc_title: 50
 usc_section: "4201"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4201"
-generated_at: "2026-03-30T02:56:26.267Z"
+generated_at: "2026-11-23T20:27:31.077Z"
+status: "active"
 ---
 
 # § 4201. Purposes
@@ -23,3 +24,7 @@ The purposes of this chapter are to—
     - **(D)** traditional village lands on Attu Island not rehabilitated after World War II for Aleut occupation or other productive use;
   - **(6)** discourage the occurrence of similar injustices and violations of civil liberties in the future; and
   - **(7)** make more credible and sincere any declaration of concern by the United States over violations of human rights committed by other nations.
+
+## Source Credit
+
+*([Pub. L. 100–383, § 1](https://www.govinfo.gov/link/plaw/100/public/383), Aug. 10, 1988, [102 Stat. 903](https://www.govinfo.gov/link/statute/102/903).)*

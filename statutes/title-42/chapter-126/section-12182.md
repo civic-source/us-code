@@ -3,9 +3,10 @@ title: "Section 12182 - Prohibition of discrimination by public accommodations"
 usc_title: 42
 usc_section: "12182"
 chapter: 126
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12182"
-generated_at: "2026-03-30T02:56:11.410Z"
+generated_at: "2026-11-23T20:27:23.344Z"
+status: "active"
 ---
 
 # § 12182. Prohibition of discrimination by public accommodations
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:56:11.410Z"
       - **(i)** Subparagraphs (B) and (C) do not apply to over-the-road buses.
       - **(ii)** For purposes of subsection (a), discrimination includes (I) the purchase or lease of an over-the-road bus which does not comply with the regulations issued under section 12186(a)(2) of this title by a private entity which provides transportation of individuals and which is not primarily engaged in the business of transporting people, and (II) any other failure of such entity to comply with such regulations.
   - **(3)** Nothing in this subchapter shall require an entity to permit an individual to participate in or benefit from the goods, services, facilities, privileges, advantages and accommodations of such entity where such individual poses a direct threat to the health or safety of others. The term “direct threat” means a significant risk to the health or safety of others that cannot be eliminated by a modification of policies, practices, or procedures or by the provision of auxiliary aids or services.
+
+## Source Credit
+
+*([Pub. L. 101–336, title III, § 302](https://www.govinfo.gov/link/plaw/101/public/336), July 26, 1990, [104 Stat. 355](https://www.govinfo.gov/link/statute/104/355).)*

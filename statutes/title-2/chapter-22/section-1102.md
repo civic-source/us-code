@@ -3,9 +3,10 @@ title: "Section 1102 - Definitions"
 usc_title: 2
 usc_section: "1102"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1102"
-generated_at: "2026-03-30T02:53:04.808Z"
+generated_at: "2026-11-23T20:25:28.946Z"
+status: "active"
 ---
 
 # § 1102. Definitions
@@ -15,3 +16,7 @@ In this chapter:
   - **(1)** The term “Center” means the John C. Stennis Center for Public Service Training and Development established under section 1103(a) of this title .
   - **(2)** The term “Board” means the Board of Trustees of the John C. Stennis Center for Public Service Training and Development established under section 1103(b) of this title .
   - **(3)** The term “fund” means the John C. Stennis Center for Public Service Training and Development Trust Fund provided for under section 1105 of this title .
+
+## Source Credit
+
+*([Pub. L. 100–458, title I, § 113](https://www.govinfo.gov/link/plaw/100/public/458), Oct. 1, 1988, [102 Stat. 2172](https://www.govinfo.gov/link/statute/102/2172).)*

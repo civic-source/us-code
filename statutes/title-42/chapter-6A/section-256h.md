@@ -3,9 +3,10 @@ title: "Section 256h - Program of payments to teaching health centers that opera
 usc_title: 42
 usc_section: "256h"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 256h"
-generated_at: "2026-03-30T02:56:10.718Z"
+generated_at: "2026-11-23T20:27:20.110Z"
+status: "active"
 ---
 
 # § 256h. Program of payments to teaching health centers that operate graduate medical education programs
@@ -56,10 +57,12 @@ generated_at: "2026-03-30T02:56:10.718Z"
     - **(A)** $230,000,000, for the period of fiscal years 2011 through 2015;
     - **(B)** $60,000,000 for each of fiscal years 2016 and 2017;
     - **(C)** $126,500,000 for each of fiscal years 2018 through 2023;
-    - **(D)** $16,635,616 for the period beginning on October 1, 2023 , and ending on November 17, 2023 , $21,834,247 for the period beginning on November 18, 2023 , and ending on January 19, 2024 , $16,982,192 for the period beginning on January 20, 2024 , and ending on March 8, 2024 , and $164,136,986 for the period beginning on October 1, 2023 , 3 3 So in original. and ending on December 31, 2024 ;
-    - **(E)** $43,150,685 for the period beginning on January 1, 2025 , and ending on March 31, 2025 ;
-    - **(F)** $87,739,726 for the period beginning on April 1, 2025 , and ending on September 30, 2025 ; and
-    - **(G)** $58,493,151 for the period beginning on October 1, 2025 , and ending on January 30, 2026 .
+    - **(D)** $168,915,878 for fiscal year 2024;
+    - **(E)** $181,563,574 for fiscal year 2025;
+    - **(F)** $225,000,000 for fiscal year 2026;
+    - **(G)** $250,000,000 for fiscal year 2027;
+    - **(H)** $275,000,000 for fiscal year 2028; and
+    - **(I)** $300,000,000 for fiscal year 2029.
   - **(2)** Of the amount made available to carry out this section for any fiscal year, the Secretary may not use more than 5 percent of such amount for the expenses of administering this section.
 - **(h)**
   - **(1)** The report required under this paragraph for a qualified teaching health center for a fiscal year is a report that includes (in a form and manner specified by the Secretary) the following information for the residency academic year completed immediately prior to such fiscal year:
@@ -90,3 +93,11 @@ generated_at: "2026-03-30T02:56:10.718Z"
   - **(2)** The term “new approved graduate medical residency training program” means an approved graduate medical residency training program for which the sponsoring qualified teaching health center has not received a payment under this section for a previous fiscal year (other than pursuant to subsection (a)(1)(C)).
   - **(3)** The term “primary care residency program” has the meaning given that term in section 293 l –1 of this title.
   - **(4)** The term “qualified teaching health center” has the meaning given the term “teaching health center” in section 293 l –1 of this title.
+
+In General
+
+Use of Funds
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 340H, as added [Pub. L. 111–148, title V, § 5508(c)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 670](https://www.govinfo.gov/link/statute/124/670); amended [Pub. L. 114–10, title II, § 221(b)](https://www.govinfo.gov/link/plaw/114/public/10), Apr. 16, 2015, [129 Stat. 154](https://www.govinfo.gov/link/statute/129/154); [Pub. L. 115–63, title III, § 301(a)](https://www.govinfo.gov/link/plaw/115/public/63), Sept. 29, 2017, [131 Stat. 1171](https://www.govinfo.gov/link/statute/131/1171); [Pub. L. 115–96, div. C, title I, § 3101(c)](https://www.govinfo.gov/link/plaw/115/public/96), Dec. 22, 2017, [131 Stat. 2048](https://www.govinfo.gov/link/statute/131/2048); [Pub. L. 115–123, div. E, title IX, § 50901(d)(1)](https://www.govinfo.gov/link/plaw/115/public/123) –(3), (5), (6), Feb. 9, 2018, [132 Stat. 287–289](https://www.govinfo.gov/link/statute/132/287); [Pub. L. 116–59, div. B, title I, § 1101(c)](https://www.govinfo.gov/link/plaw/116/public/59), Sept. 27, 2019, [133 Stat. 1102](https://www.govinfo.gov/link/statute/133/1102); [Pub. L. 116–69, div. B, title I, § 1101(c)](https://www.govinfo.gov/link/plaw/116/public/69), Nov. 21, 2019, [133 Stat. 1136](https://www.govinfo.gov/link/statute/133/1136); [Pub. L. 116–94, div. N, title I, § 401(c)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3113](https://www.govinfo.gov/link/statute/133/3113); [Pub. L. 116–136, div. A, title III, § 3831(c)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 434](https://www.govinfo.gov/link/statute/134/434); [Pub. L. 116–159, div. C, title I, § 2101(c)](https://www.govinfo.gov/link/plaw/116/public/159), Oct. 1, 2020, [134 Stat. 728](https://www.govinfo.gov/link/statute/134/728); [Pub. L. 116–215, div. B, title II, § 1201(c)](https://www.govinfo.gov/link/plaw/116/public/215), Dec. 11, 2020, [134 Stat. 1044](https://www.govinfo.gov/link/statute/134/1044); [Pub. L. 116–260, div. BB, title III, § 301(c)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2922](https://www.govinfo.gov/link/statute/134/2922); [Pub. L. 118–15, div. B, title III, § 2321(a)](https://www.govinfo.gov/link/plaw/118/public/15), Sept. 30, 2023, [137 Stat. 94](https://www.govinfo.gov/link/statute/137/94); [Pub. L. 118–22, div. B, title II, § 201(a)](https://www.govinfo.gov/link/plaw/118/public/22), Nov. 17, 2023, [137 Stat. 119](https://www.govinfo.gov/link/statute/137/119); [Pub. L. 118–35, div. B, title I, § 101(a)](https://www.govinfo.gov/link/plaw/118/public/35), Jan. 19, 2024, [138 Stat. 4](https://www.govinfo.gov/link/statute/138/4); [Pub. L. 118–42, div. G, title I, § 101(c)(1)](https://www.govinfo.gov/link/plaw/118/public/42), (2), Mar. 9, 2024, [138 Stat. 397](https://www.govinfo.gov/link/statute/138/397); [Pub. L. 118–158, div. C, title I, § 3101(c)](https://www.govinfo.gov/link/plaw/118/public/158), Dec. 21, 2024, [138 Stat. 1762](https://www.govinfo.gov/link/statute/138/1762); [Pub. L. 119–4, div. B, title I, § 2101(c)](https://www.govinfo.gov/link/plaw/119/public/4), Mar. 15, 2025, [139 Stat. 40](https://www.govinfo.gov/link/statute/139/40); [Pub. L. 119–37, div. F, title I, § 6101(c)](https://www.govinfo.gov/link/plaw/119/public/37), Nov. 12, 2025, [139 Stat. 629](https://www.govinfo.gov/link/statute/139/629); [Pub. L. 119–75, div. J, title IV, § 6401(c)](https://www.govinfo.gov/link/plaw/119/public/75), Feb. 3, 2026, [140 Stat. 687](https://www.govinfo.gov/link/statute/140/687).)*

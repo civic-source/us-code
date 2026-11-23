@@ -3,9 +3,10 @@ title: "Section 15c - Actions by State attorneys general"
 usc_title: 15
 usc_section: "15c"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 15c"
-generated_at: "2026-03-30T02:54:08.021Z"
+generated_at: "2026-11-23T20:26:03.363Z"
+status: "active"
 ---
 
 # § 15c. Actions by State attorneys general
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:08.021Z"
 - **(d)** In any action under subsection (a)—
   - **(1)** the amount of the plaintiffs’ attorney’s fee, if any, shall be determined by the court; and
   - **(2)** the court may, in its discretion, award a reasonable attorney’s fee to a prevailing defendant upon a finding that the State attorney general has acted in bad faith, vexatiously, wantonly, or for oppressive reasons.
+
+## Source Credit
+
+*(Oct. 15, 1914, ch. 323, § 4C, as added [Pub. L. 94–435, title III, § 301](https://www.govinfo.gov/link/plaw/94/public/435), Sept. 30, 1976, [90 Stat. 1394](https://www.govinfo.gov/link/statute/90/1394); amended [Pub. L. 96–349, § 4(a)(3)](https://www.govinfo.gov/link/plaw/96/public/349), Sept. 12, 1980, [94 Stat. 1157](https://www.govinfo.gov/link/statute/94/1157).)*

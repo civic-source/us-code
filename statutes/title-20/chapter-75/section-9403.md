@@ -3,9 +3,10 @@ title: "Section 9403 - Prohibitions"
 usc_title: 20
 usc_section: "9403"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 9403"
-generated_at: "2026-03-30T02:54:48.225Z"
+generated_at: "2026-11-23T20:26:14.982Z"
+status: "active"
 ---
 
 # § 9403. Prohibitions
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:48.225Z"
 - **(b)** Nothing in this chapter shall be construed to affect the rights of parents otherwise established in Federal, State, or local law.
 - **(c)** No entity that receives funds under this chapter shall be required to provide services under this chapter through a particular instructional method or in a particular instructional setting to comply with this chapter.
 - **(d)** No funds provided under this chapter shall be used to carry out an activity funded under another provision of law providing for Federal child care or early learning programs, unless an expansion of such activity is identified in the local needs assessment and performance goals under this chapter.
+
+## Source Credit
+
+*([Pub. L. 106–554, § 1(a)(1) [title VIII, § 804]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–82.)*

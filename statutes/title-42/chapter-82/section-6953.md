@@ -3,9 +3,10 @@ title: "Section 6953 - Development of markets for recovered materials"
 usc_title: 42
 usc_section: "6953"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6953"
-generated_at: "2026-03-30T02:56:11.276Z"
+generated_at: "2026-11-23T20:27:22.751Z"
+status: "active"
 ---
 
 # § 6953. Development of markets for recovered materials
@@ -15,3 +16,7 @@ The Secretary of Commerce shall within two years after September 1, 1979 , take 
   - **(1)** identify the geographical location of existing or potential markets for recovered materials;
   - **(2)** identify the economic and technical barriers to the use of recovered materials; and
   - **(3)** encourage the development of new uses for recovered materials.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 5003](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 94–580, § 2](https://www.govinfo.gov/link/plaw/94/public/580), Oct. 21, 1976, [90 Stat. 2821](https://www.govinfo.gov/link/statute/90/2821); amended [Pub. L. 96–482, § 21(b)](https://www.govinfo.gov/link/plaw/96/public/482), Oct. 21, 1980, [94 Stat. 2346](https://www.govinfo.gov/link/statute/94/2346).)*

@@ -3,9 +3,10 @@ title: "Section 289 - Acceptance of membership by the United States; conditions"
 usc_title: 22
 usc_section: "289"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 289"
-generated_at: "2026-03-30T02:55:05.322Z"
+generated_at: "2026-11-23T20:26:32.031Z"
+status: "active"
 ---
 
 # § 289. Acceptance of membership by the United States; conditions
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:05.322Z"
   - **(1)** whereby any person shall be admitted to or settled or resettled in the United States or any of its Territories or possessions without prior approval thereof by the Congress, and this subchapter shall not be construed as such prior approval, or
   - **(2)** which will have the effect of abrogating, suspending, modifying, adding to, or superseding any of the immigration laws or any other laws of the United States.
 
+
+## Source Credit
+
+*(July 1, 1947, ch. 185, § 1, [61 Stat. 214](https://www.govinfo.gov/link/statute/61/214).)*

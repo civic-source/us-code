@@ -3,9 +3,10 @@ title: "Section 821 - Definitions"
 usc_title: 6
 usc_section: "821"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 821"
-generated_at: "2026-03-30T02:53:09.501Z"
+generated_at: "2026-11-23T20:25:34.881Z"
+status: "active"
 ---
 
 # § 821. Definitions
@@ -36,3 +37,7 @@ In this part:
   - **(9)** The terms “local government” and “State” have the meanings given such terms in section 5122 of title 42 .
   - **(10)** The term “national exercise program” means activities carried out to test and evaluate the national preparedness goal and related plans and strategies as described in section 748(b) of this title .
   - **(11)** The term “Secretary” means the Secretary of Homeland Security.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. G, title LXXIII, § 7302](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3684](https://www.govinfo.gov/link/statute/136/3684).)*

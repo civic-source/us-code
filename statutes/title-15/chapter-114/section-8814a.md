@@ -3,9 +3,10 @@ title: "Section 8814a - Subcommittee on the Economic and Security Implications o
 usc_title: 15
 usc_section: "8814a"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 8814a"
-generated_at: "2026-03-30T02:54:08.234Z"
+generated_at: "2026-11-23T20:26:04.505Z"
+status: "active"
 ---
 
 # § 8814a. Subcommittee on the Economic and Security Implications of Quantum Information Science
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:08.234Z"
 - **(d)**
   - **(1)** The Secretary of Energy, the Director of National Intelligence, and the Director of the National Quantum Coordination Office may provide to the Subcommittee personnel, equipment, facilities, and such other technical and administrative support as may be necessary for the Subcommittee to carry out the responsibilities of the Subcommittee under this section.
   - **(2)** The Director of the Office of Science and Technology Policy and the Director of National Intelligence shall provide to the Subcommittee technical and administrative support related to the responsibilities of the Subcommittee that involve classified information, including support related to sensitive compartmented information facilities and the storage of classified information.
+
+## Source Credit
+
+*([Pub. L. 115–368, title I, § 105](https://www.govinfo.gov/link/plaw/115/public/368), as added [Pub. L. 117–81, div. F, title LXVI, § 6606(a)(2)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2442](https://www.govinfo.gov/link/statute/135/2442).)*

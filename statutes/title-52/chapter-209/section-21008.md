@@ -3,9 +3,10 @@ title: "Section 21008 - Reports"
 usc_title: 52
 usc_section: "21008"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "52 U.S.C. § 21008"
-generated_at: "2026-03-30T02:56:30.167Z"
+generated_at: "2026-11-23T20:27:36.983Z"
+status: "active"
 ---
 
 # § 21008. Reports
@@ -15,3 +16,7 @@ Not later than 6 months after the end of each fiscal year for which a State rece
   - **(1)** a list of expenditures made with respect to each category of activities described in section 21001(b) of this title ;
   - **(2)** the number and type of articles of voting equipment obtained with the funds; and
   - **(3)** an analysis and description of the activities funded under this subpart to meet the requirements of this chapter and an analysis and description of how such activities conform to the State plan under section 21004 of this title .
+
+## Source Credit
+
+*([Pub. L. 107–252, title II, § 258](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1697](https://www.govinfo.gov/link/statute/116/1697).)*

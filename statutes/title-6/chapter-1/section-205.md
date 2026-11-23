@@ -3,9 +3,10 @@ title: "Section 205 - Ombudsman for immigration detention"
 usc_title: 6
 usc_section: "205"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 205"
-generated_at: "2026-03-30T02:53:09.451Z"
+generated_at: "2026-11-23T20:25:34.664Z"
+status: "active"
 ---
 
 # § 205. Ombudsman for immigration detention
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:09.451Z"
   - **(1)** The Director of U.S. Immigration and Customs Enforcement and the Commissioner of U.S. Customs and Border Protection shall each establish procedures to provide formal responses to recommendations submitted to such officials by the Ombudsman within 60 days of receiving such recommendations.
   - **(2)** The Secretary shall establish procedures to provide the Ombudsman access to all departmental records necessary to execute the responsibilities of the Ombudsman under subsection (b) or (c) not later than 60 days after a request from the Ombudsman for such information.
 - **(e)** The Ombudsman shall prepare a report to Congress on an annual basis on its activities, findings, and recommendations.
+
+## Source Credit
+
+*([Pub. L. 107–296, title IV, § 405](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 116–93, div. D, title I, § 106(a)](https://www.govinfo.gov/link/plaw/116/public/93), Dec. 20, 2019, [133 Stat. 2504](https://www.govinfo.gov/link/statute/133/2504).)*

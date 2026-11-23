@@ -3,9 +3,10 @@ title: "Section 7433 - Grants to reduce air pollution at ports"
 usc_title: 42
 usc_section: "7433"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7433"
-generated_at: "2026-03-30T02:56:11.303Z"
+generated_at: "2026-11-23T20:27:22.867Z"
+status: "active"
 ---
 
 # § 7433. Grants to reduce air pollution at ports
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:56:11.303Z"
   - **(4)** The term “zero-emission port equipment or technology” means human-operated equipment or human-maintained technology that—
     - **(A)** produces zero emissions of any air pollutant that is listed pursuant to section 7408(a) of this title (or any precursor to such an air pollutant) and any greenhouse gas other than water vapor; or
     - **(B)** captures 100 percent of the emissions described in subparagraph (A) that are produced by an ocean-going vessel at berth.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 133, as added [Pub. L. 117–169, title VI, § 60102](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 2064](https://www.govinfo.gov/link/statute/136/2064).)*

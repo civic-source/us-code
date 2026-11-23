@@ -3,9 +3,10 @@ title: "Section 1134 - Inspections and autopsies"
 usc_title: 49
 usc_section: "1134"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 1134"
-generated_at: "2026-03-30T02:56:19.304Z"
+generated_at: "2026-11-23T20:27:34.568Z"
+status: "active"
 ---
 
 # § 1134. Inspections and autopsies
@@ -28,3 +29,91 @@ generated_at: "2026-03-30T02:56:19.304Z"
   - **(1)** any recorder or recorded information pertinent to the accident;
   - **(2)** without undue delay, information the Board determines necessary to enable the Board to read and interpret any recording device or recorded information pertinent to the accident; and
   - **(3)** design specifications or data related to the operation and performance of the equipment the Board determines necessary to enable the Board to perform independent physics-based simulations and analyses of the accident situation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1134(a) | 49 App.:1903(b)(2) (1st sentence words before 3d comma, 3d sentence). | Jan. 3, 1975 , Pub. L. 93–633, § 304(b)(2) , 88 Stat. 2170 ; Nov. 3, 1981 , Pub. L. 97–74, § 5 , 95 Stat. 1065 ; Nov. 28, 1990 , Pub. L. 101–641, § 3 , 104 Stat. 4654 . |
+| 1134(b) | 49 App.:1441(c) (2d sentence), (d). | Aug. 23, 1958 , Pub. L. 85–726, § 701(c) (2d, last sentences), (d), 72 Stat. 781 ; Oct. 15, 1962 , Pub. L. 87–810 , §§ 1, 2, 76 Stat. 921 . |
+|  | 49 App.:1655(d) (1st sentence). | Oct. 15, 1966 , Pub. L. 89–670, § 6(d) (1st sentence), 80 Stat. 938 . |
+|  | 49 App.:1903(a)(1)(A). | Jan. 3, 1975 , Pub. L. 93–633, § 304(a)(1)(A) , (b)(5), 88 Stat. 2168 , 2170. |
+| 1134(c) | 49 App.:1903(b)(2) (1st sentence words after 3d comma, 2d sentence). |  |
+| 1134(d) | 49 App.:1903(b)(2) (5th, last sentences). |  |
+| 1134(e) | 49 App.:1903(b)(2) (4th sentence). |  |
+| 1134(f) | 49 App.:1441(c) (last sentence). |  |
+|  | 49 App.:1655(d) (1st sentence). |  |
+|  | 49 App.:1903(a)(1)(A), (b)(5). |  |
+
+
+Entry and Inspection
+
+Inspection, Testing, Preservation, and Moving of Aircraft and Parts
+
+Avoiding Unnecessary Interference and Preserving Evidence
+
+Exclusive Authority of Board
+
+Promptness of Tests and Availability of Results
+
+Autopsies
+
+Recorders and Data
+
+Historical and Revision Notes
+
+1134(a)
+
+Jan. 3, 1975
+
+Pub. L. 93–633, § 304(b)(2)
+
+88 Stat. 2170
+
+Nov. 3, 1981
+
+Pub. L. 97–74, § 5
+
+95 Stat. 1065
+
+Nov. 28, 1990
+
+Pub. L. 101–641, § 3
+
+104 Stat. 4654
+
+1134(b)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 701(c)
+
+72 Stat. 781
+
+Oct. 15, 1962
+
+Pub. L. 87–810
+
+76 Stat. 921
+
+Oct. 15, 1966
+
+Pub. L. 89–670, § 6(d)
+
+80 Stat. 938
+
+Jan. 3, 1975
+
+Pub. L. 93–633, § 304(a)(1)(A)
+
+88 Stat. 2168
+
+1134(c)
+
+1134(d)
+
+1134(e)
+
+1134(f)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 754](https://www.govinfo.gov/link/statute/108/754); [Pub. L. 115–254, div. C, § 1105](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3431](https://www.govinfo.gov/link/statute/132/3431); [Pub. L. 118–63, title XII, § 1213](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1426](https://www.govinfo.gov/link/statute/138/1426).)*

@@ -3,9 +3,10 @@ title: "Section 3304 - Acquisition of buildings and sites"
 usc_title: 40
 usc_section: "3304"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 3304"
-generated_at: "2026-03-30T02:55:43.379Z"
+generated_at: "2026-11-23T20:26:56.589Z"
+status: "active"
 ---
 
 # § 3304. Acquisition of buildings and sites
@@ -16,3 +17,39 @@ generated_at: "2026-03-30T02:55:43.379Z"
 - **(d)** When the Administrator is to acquire a site under subsection (b), the Administrator, if the Administrator considers it necessary, by public advertisement may solicit proposals for the sale, donation, or exchange of real property to the Federal Government to be used as the site. In selecting a site under subsection (b) the Administrator (with the concurrence of the United States Postal Service if any part of the public building to be constructed on the site is to be used for post office purposes) may—
   - **(1)** select the site that the Administrator believes is the most advantageous to the Government, all factors considered; and
   - **(2)** acquire the site without regard to division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3304(a) | 40:602. | Pub. L. 86–249 , §§ 3, 5, Sept. 9, 1959 , 73 Stat. 479 . |
+| 3304(b) | 40:604(a). |  |
+| 3304(c) | 40:604(b). |  |
+| 3304(d) | 40:604(c). |  |
+
+
+In General
+
+Acquisition of Land or Interest in Land for Use as Sites
+
+Public Buildings Used for Post Office Purposes
+
+Solicitation of Proposals for Sale, Donation, or Exchange of Real Property
+
+Historical and Revision Notes
+
+3304(a)
+
+Pub. L. 86–249
+
+Sept. 9, 1959
+
+73 Stat. 479
+
+3304(b)
+
+3304(c)
+
+3304(d)
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1158](https://www.govinfo.gov/link/statute/116/1158); [Pub. L. 108–178, § 3(1)](https://www.govinfo.gov/link/plaw/108/public/178), Dec. 15, 2003, [117 Stat. 2640](https://www.govinfo.gov/link/statute/117/2640); [Pub. L. 111–350, § 5](https://www.govinfo.gov/link/plaw/111/public/350) (l)(15), Jan. 4, 2011, [124 Stat. 3852](https://www.govinfo.gov/link/statute/124/3852).)*

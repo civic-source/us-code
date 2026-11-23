@@ -3,9 +3,10 @@ title: "Section 1527 - Importation of wild mammals and birds in violation of for
 usc_title: 19
 usc_section: "1527"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1527"
-generated_at: "2026-03-30T02:54:24.642Z"
+generated_at: "2026-11-23T20:26:10.803Z"
+status: "active"
 ---
 
 # § 1527. Importation of wild mammals and birds in violation of foreign law
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:24.642Z"
   - **(1)** Articles the importation of which is prohibited under the provisions of this chapter, or of section 42(a) of title 18 , or of any other law;
   - **(2)** Wild mammals or birds, alive or dead, or parts or products thereof, whether raw or manufactured, imported for scientific or educational purposes;
   - **(3)** Migratory game birds (for which an open season is provided by the laws of the United States and any foreign country which is a party to a treaty with the United States, in effect on the date of importation, relating to the protection of such migratory game birds) brought into the United States by bona fide sportsmen returning from hunting trips in such country, if at the time of importation the possession of such birds is not prohibited by the laws of such country or of the United States.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 527, [46 Stat. 741](https://www.govinfo.gov/link/statute/46/741).)*

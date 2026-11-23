@@ -3,9 +3,10 @@ title: "Section 44727 - Runway safety areas"
 usc_title: 49
 usc_section: "44727"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44727"
-generated_at: "2026-03-30T02:56:19.386Z"
+generated_at: "2026-11-23T20:27:35.187Z"
+status: "active"
 ---
 
 # § 44727. Runway safety areas
@@ -14,3 +15,15 @@ generated_at: "2026-03-30T02:56:19.386Z"
 - **(b)**
   - **(1)** The Secretary shall conduct a study of runways at airports in States other than Alaska to determine which airports are affected by standards of the Federal Aviation Administration applicable to runway safety areas and to assess how operations at those airports would be affected if the owner or operator of the airport is required to reduce the length of a runway or declare the length of a runway to be less than the actual pavement length in order to meet such standards.
   - **(2)** Not later than 9 months after the date of enactment of this section, the Secretary shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report containing the results of the study.
+
+Airports in Alaska
+
+Study.—
+
+In general
+
+Report
+
+## Source Credit
+
+*(Added [Pub. L. 108–176, title V, § 502(a)](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2557](https://www.govinfo.gov/link/statute/117/2557).)*

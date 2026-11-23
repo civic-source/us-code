@@ -3,9 +3,10 @@ title: "Section 549 - Donation of personal property through state agencies"
 usc_title: 40
 usc_section: "549"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 549"
-generated_at: "2026-03-30T02:55:43.374Z"
+generated_at: "2026-11-23T20:26:56.536Z"
+status: "active"
 ---
 
 # § 549. Donation of personal property through state agencies
@@ -90,3 +91,227 @@ generated_at: "2026-03-30T02:55:43.374Z"
       - **(i)** the Administrator;
       - **(ii)** the Secretary of Education, for property transferred under section 550(c) of this title ; or
       - **(iii)** the Secretary of Health and Human Services, for property transferred under section 550(d) of this title .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 549(a)(1), (2) | 40:484(j)(5). | June 30, 1949, ch. 288 , title II, § 203(j), 63 Stat. 386 ; Sept. 5, 1950, ch. 849, § 4 , 64 Stat. 579 ; June 3, 1955, ch. 130 , §§ 1, 2(a), 6(a), (b), 69 Stat. 83 , 84; July 3, 1956, ch. 513, § 1 , 70 Stat. 493 ; Pub. L. 87–786 , Oct. 10, 1962 , 76 Stat. 805 ; Pub. L. 94–519, § 1(1) , Oct. 17, 1976 , 90 Stat. 2451 ; Pub. L. 99–386, title II, § 207 , Aug. 22, 1986 , 100 Stat. 823 ; Pub. L. 100–77, title V, § 502(a) , July 22, 1987 , 101 Stat. 510 ; Pub. L. 100–690, title II, § 2081(b) , Nov. 18, 1988 , 102 Stat. 4216 ; Pub. L. 105–50, § 1 , Oct. 6, 1997 , 111 Stat. 1167 . |
+| 549(a)(3), (b) | 40:484(j)(1). |  |
+| 549(c) | 40:484(j)(3). |  |
+| 549(d) | 40:484(j)(2). |  |
+| 549(e) | 40:484(j)(4). |  |
+| 549(f) | 40:484(n). | June 30, 1949, ch. 288 , title II, § 203(n), formerly (m), as added June 3, 1955, ch. 130, § 3 , 69 Stat. 84 ; redesignated (n), Aug. 1, 1955, ch. 442 , 69 Stat. 430 ; July 3, 1956, ch. 513, § 3 , 70 Stat. 494 ; Pub. L. 87–94 , July 20, 1961 , 75 Stat. 213 ; Pub. L. 90–351, title I, § 525 , as added Pub. L. 93–83, § 2 , Aug. 6, 1973 , 87 Stat. 216 ; Pub. L. 91–485, § 3 , Oct. 22, 1970 , 84 Stat. 1085 ; Pub. L. 94–519, § 1(3) , Oct. 17, 1976 , 90 Stat. 2453 . |
+
+
+Definitions
+
+Public agency
+
+State
+
+State agency
+
+Authorization.—
+
+In general
+
+Property.—
+
+In general
+
+Special rule
+
+No cost
+
+Allocation and Transfer of Property.—
+
+In general
+
+Allocation among states
+
+Recipients and purposes
+
+Exception
+
+Department of Defense Property.—
+
+Determination
+
+Property usable for special interest activities
+
+Property not usable for special interest activities
+
+State Plan of Operation.—
+
+In general
+
+Procedure.—
+
+Consideration of needs and resources
+
+Publication and period for comment
+
+Certification
+
+Requirements.—
+
+State agency
+
+Equitable distribution
+
+Management control and accounting systems
+
+Return and redistribution for non-use
+
+Request by recipient
+
+Service charges
+
+Terms, conditions, reservations, and restrictions.—
+
+In general
+
+Special limitations
+
+Unusable property.—
+
+Disposal
+
+Proceeds from sale
+
+Cooperative Agreements With State Agencies.—
+
+Parties to the agreement
+
+Shared resources
+
+Reimbursement
+
+Surplus property transferred to state agency.—
+
+In general
+
+Conditions
+
+Historical and Revision Notes
+
+549(a)(1), (2)
+
+June 30, 1949, ch. 288
+
+63 Stat. 386
+
+Sept. 5, 1950, ch. 849, § 4
+
+64 Stat. 579
+
+June 3, 1955, ch. 130
+
+69 Stat. 83
+
+July 3, 1956, ch. 513, § 1
+
+70 Stat. 493
+
+Pub. L. 87–786
+
+Oct. 10, 1962
+
+76 Stat. 805
+
+Pub. L. 94–519, § 1(1)
+
+Oct. 17, 1976
+
+90 Stat. 2451
+
+Pub. L. 99–386, title II, § 207
+
+Aug. 22, 1986
+
+100 Stat. 823
+
+Pub. L. 100–77, title V, § 502(a)
+
+July 22, 1987
+
+101 Stat. 510
+
+Pub. L. 100–690, title II, § 2081(b)
+
+Nov. 18, 1988
+
+102 Stat. 4216
+
+Pub. L. 105–50, § 1
+
+Oct. 6, 1997
+
+111 Stat. 1167
+
+549(a)(3), (b)
+
+549(c)
+
+549(d)
+
+549(e)
+
+549(f)
+
+June 30, 1949, ch. 288
+
+June 3, 1955, ch. 130, § 3
+
+69 Stat. 84
+
+Aug. 1, 1955, ch. 442
+
+69 Stat. 430
+
+July 3, 1956, ch. 513, § 3
+
+70 Stat. 494
+
+Pub. L. 87–94
+
+July 20, 1961
+
+75 Stat. 213
+
+Pub. L. 90–351, title I, § 525
+
+Pub. L. 93–83, § 2
+
+Aug. 6, 1973
+
+87 Stat. 216
+
+Pub. L. 91–485, § 3
+
+Oct. 22, 1970
+
+84 Stat. 1085
+
+Pub. L. 94–519, § 1(3)
+
+Oct. 17, 1976
+
+90 Stat. 2453
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+William J. Clinton.
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1090](https://www.govinfo.gov/link/statute/116/1090); [Pub. L. 109–313, § 5](https://www.govinfo.gov/link/plaw/109/public/313), Oct. 6, 2006, [120 Stat. 1737](https://www.govinfo.gov/link/statute/120/1737); [Pub. L. 111–338, § 2](https://www.govinfo.gov/link/plaw/111/public/338), Dec. 22, 2010, [124 Stat. 3590](https://www.govinfo.gov/link/statute/124/3590); [Pub. L. 113–26, § 2](https://www.govinfo.gov/link/plaw/113/public/26), Aug. 9, 2013, [127 Stat. 502](https://www.govinfo.gov/link/statute/127/502); [Pub. L. 113–287, § 5(j)(1)](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3269](https://www.govinfo.gov/link/statute/128/3269); [Pub. L. 114–287, § 23](https://www.govinfo.gov/link/plaw/114/public/287), Dec. 16, 2016, [130 Stat. 1479](https://www.govinfo.gov/link/statute/130/1479).)*

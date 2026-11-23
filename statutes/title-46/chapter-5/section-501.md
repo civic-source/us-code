@@ -3,9 +3,10 @@ title: "Section 501 - Waiver of navigation and vessel-inspection laws"
 usc_title: 46
 usc_section: "501"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 501"
-generated_at: "2026-03-30T02:56:15.540Z"
+generated_at: "2026-11-23T20:27:27.032Z"
+status: "active"
 ---
 
 # § 501. Waiver of navigation and vessel-inspection laws
@@ -51,3 +52,64 @@ generated_at: "2026-03-30T02:56:15.540Z"
     - **(G)** any other information the Maritime Administrator determines necessary.
   - **(2)** Not later than 48 hours after receiving a report under paragraph (1), the Maritime Administrator shall publish such report on an appropriate website of the Department of Transportation.
 - **(d)** The authority granted by this section shall terminate at such time as the Congress by concurrent resolution or the President may designate.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 501 | 46 App.:3 note prec. | Dec. 27, 1950, ch. 1155 , §§ 1, 2, 64 Stat. 1120 . |
+
+
+On Request of Secretary of Defense.—
+
+In general
+
+Submittal of explanation to congress
+
+By Head of Agency.—
+
+In general
+
+Duration of waiver.—
+
+In general
+
+Waiver extension
+
+Aggregate duration
+
+Determinations
+
+Notice to congress.—
+
+In general
+
+Contents
+
+Notification required for extensions
+
+Prospective application
+
+Publication requirements.—
+
+Publication of waiver requests
+
+Publication of waiver denial
+
+Report.—
+
+In general
+
+Publication
+
+Termination of Authority
+
+Historical and Revision Notes
+
+501
+
+Dec. 27, 1950, ch. 1155
+
+64 Stat. 1120
+
+## Source Credit
+
+*([Pub. L. 109–304, § 4](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1490](https://www.govinfo.gov/link/statute/120/1490); [Pub. L. 110–417, div. C, title XXXV, § 3510](https://www.govinfo.gov/link/plaw/110/public/417), Oct. 14, 2008, [122 Stat. 4769](https://www.govinfo.gov/link/statute/122/4769); [Pub. L. 112–213, title III, § 301](https://www.govinfo.gov/link/plaw/112/public/213), Dec. 20, 2012, [126 Stat. 1562](https://www.govinfo.gov/link/statute/126/1562); [Pub. L. 112–239, div. C, title XXXV, § 3517(a)(2)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2229](https://www.govinfo.gov/link/statute/126/2229); [Pub. L. 116–283, div. C, title XXXV, § 3502(a)(1)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4397](https://www.govinfo.gov/link/statute/134/4397); [Pub. L. 117–263, div. C, title XXXV, § 3541](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3093](https://www.govinfo.gov/link/statute/136/3093).)*

@@ -3,9 +3,10 @@ title: "Section 10003 - Uses of funds by local educational agencies"
 usc_title: 20
 usc_section: "10003"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 10003"
-generated_at: "2026-03-30T02:54:48.233Z"
+generated_at: "2026-11-23T20:26:15.014Z"
+status: "active"
 ---
 
 # § 10003. Uses of funds by local educational agencies
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:48.233Z"
   - **(3)** purchase or upgrade of vehicles; or
   - **(4)** improvement of stand-alone facilities whose purpose is not the education of children, including central office administration or operations or logistical support facilities.
 - **(c)** Nothing in this section shall allow a local educational agency to engage in school modernization, renovation, or repair that is inconsistent with State law.
+
+## Source Credit
+
+*([Pub. L. 111–5, div. A, title XIV, § 14003](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 281](https://www.govinfo.gov/link/statute/123/281); [Pub. L. 111–8, div. F, title V, § 523(c)](https://www.govinfo.gov/link/plaw/111/public/8), Mar. 11, 2009, [123 Stat. 806](https://www.govinfo.gov/link/statute/123/806).)*

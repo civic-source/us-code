@@ -3,9 +3,10 @@ title: "Section 6061 - Policy toward transition government and democratically el
 usc_title: 22
 usc_section: "6061"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6061"
-generated_at: "2026-03-30T02:55:05.423Z"
+generated_at: "2026-11-23T20:26:32.590Z"
+status: "active"
 ---
 
 # § 6061. Policy toward transition government and democratically elected government in Cuba
@@ -31,3 +32,7 @@ The policy of the United States is as follows:
   - **(14)** To take steps to remove the economic embargo of Cuba when the President determines that a transition to a democratically elected government in Cuba has begun.
   - **(15)** To assist a democratically elected government in Cuba to strengthen and stabilize its national currency.
   - **(16)** To pursue trade relations with a free, democratic, and independent Cuba.
+
+## Source Credit
+
+*([Pub. L. 104–114, title II, § 201](https://www.govinfo.gov/link/plaw/104/public/114), Mar. 12, 1996, [110 Stat. 805](https://www.govinfo.gov/link/statute/110/805).)*

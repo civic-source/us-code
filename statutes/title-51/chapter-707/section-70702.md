@@ -3,9 +3,10 @@ title: "Section 70702 - Establishment of Commission"
 usc_title: 51
 usc_section: "70702"
 chapter: 707
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 70702"
-generated_at: "2026-03-30T02:56:28.713Z"
+generated_at: "2026-11-23T20:27:37.538Z"
+status: "active"
 ---
 
 # § 70702. Establishment of Commission
@@ -21,3 +22,34 @@ generated_at: "2026-03-30T02:56:28.713Z"
 - **(c)** In this section:
   - **(1)** The term “government astronaut” has the meaning given the term in section 50902.
   - **(2)** The term “Space Act Agreement” means an agreement entered into by the Administration pursuant to its other transactions authority under section 20113(e).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 70702 | 42 U.S.C. 16842 . | Pub. L. 109–155, title VIII, § 822 , Dec. 30, 2005 , 119 Stat. 2941 . |
+
+
+Establishment
+
+Deadline for Establishment
+
+Definitions
+
+Government astronaut
+
+Space act agreement
+
+Historical and Revision Notes
+
+70702
+
+42 U.S.C. 16842
+
+Pub. L. 109–155, title VIII, § 822
+
+Dec. 30, 2005
+
+119 Stat. 2941
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3432](https://www.govinfo.gov/link/statute/124/3432); [Pub. L. 115–10, title VIII, § 838](https://www.govinfo.gov/link/plaw/115/public/10), Mar. 21, 2017, [131 Stat. 71](https://www.govinfo.gov/link/statute/131/71).)*

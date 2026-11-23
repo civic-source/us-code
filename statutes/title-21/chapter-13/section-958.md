@@ -3,9 +3,10 @@ title: "Section 958 - Registration requirements"
 usc_title: 21
 usc_section: "958"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 958"
-generated_at: "2026-03-30T02:54:54.299Z"
+generated_at: "2026-11-23T20:26:27.862Z"
+status: "active"
 ---
 
 # § 958. Registration requirements
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:54.299Z"
 - **(g)** Persons registered by the Attorney General under this section to import or export controlled substances or list I chemicals may import or export (and for the purpose of so importing or exporting, may possess) such substances to the extent authorized by their registration and in conformity with the other provisions of this subchapter and subchapter I.
 - **(h)** A separate registration shall be required at each principal place of business where the applicant imports or exports controlled substances or list I chemicals.
 - **(i)** Except in emergency situations as described in section 952(a)(2)(A) of this title , prior to issuing a registration under this section to a bulk manufacturer of a controlled substance in schedule I or II, and prior to issuing a regulation under section 952(a) of this title authorizing the importation of such a substance, the Attorney General shall give manufacturers holding registrations for the bulk manufacture of the substance an opportunity for a hearing.
+
+## Source Credit
+
+*([Pub. L. 91–513, title III, § 1008](https://www.govinfo.gov/link/plaw/91/public/513), Oct. 27, 1970, [84 Stat. 1289](https://www.govinfo.gov/link/statute/84/1289); [Pub. L. 98–473, title II](https://www.govinfo.gov/link/plaw/98/public/473), §§ 524, 525, Oct. 12, 1984, [98 Stat. 2076](https://www.govinfo.gov/link/statute/98/2076); [Pub. L. 99–570, title I, § 1866(d)](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–55](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 103–200, § 3(f)](https://www.govinfo.gov/link/plaw/103/public/200), Dec. 17, 1993, [107 Stat. 2337](https://www.govinfo.gov/link/statute/107/2337); [Pub. L. 108–447, div. B, title VI, § 633(c)](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 2922](https://www.govinfo.gov/link/statute/118/2922); [Pub. L. 117–215, title I, § 103(b)(2)](https://www.govinfo.gov/link/plaw/117/public/215), Dec. 2, 2022, [136 Stat. 2263](https://www.govinfo.gov/link/statute/136/2263).)*

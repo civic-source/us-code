@@ -3,9 +3,10 @@ title: "Section 5318 - Urban development action grants"
 usc_title: 42
 usc_section: "5318"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5318"
-generated_at: "2026-03-30T02:56:11.231Z"
+generated_at: "2026-11-23T20:27:22.531Z"
+status: "active"
 ---
 
 # § 5318. Urban development action grants
@@ -108,3 +109,159 @@ generated_at: "2026-03-30T02:56:11.231Z"
   - **(2)** 25 percent of such unexpended amounts if—
     - **(A)** the grantee agrees to expend such funds for economic development activities eligible under this chapter; and
     - **(B)** except when waived by the Secretary in the case of a severely distressed jurisdiction, not more than one-half of the costs of such activities are derived from such unexpended amount.
+
+Regulations
+
+Applicability.—
+
+In general
+
+Sunset of urban county competition rule
+
+Requirement
+
+Eligible New Town Demonstration Areas
+
+Contents
+
+Governing board
+
+New town demonstration area
+
+Target community
+
+Agreements
+
+Housing units
+
+Jobs
+
+Social services
+
+Supplemental resources
+
+Contractors and developers
+
+Financing for homebuyers
+
+Commitments
+
+Presale requirements
+
+Community development activities
+
+Review and Approval.—
+
+Submission
+
+Approval
+
+Amendment
+
+In General
+
+Local Participation
+
+Housing.—
+
+Number of units
+
+Affordability
+
+Homeownership units
+
+Rental units
+
+Social Services
+
+Job Creation and Training
+
+Financing
+
+Support Facilities
+
+Non-Federal Funds
+
+In General
+
+Mortgage Terms
+
+Board Approval
+
+Insurance Authority
+
+In General
+
+Use
+
+Amount
+
+Second Mortgage.—
+
+In general
+
+Terms
+
+Interest
+
+Discounted repayment
+
+Authorization of Appropriations
+
+In General
+
+Eligible Units of General Local Government
+
+Required Certifications
+
+Antidisplacement and Relocation Plan.—
+
+Contents
+
+Exception
+
+Eligible Activities
+
+Acquisition of real property
+
+Construction of public works and facilities
+
+Clearance and rehabilitation of buildings
+
+Provision of public services and housing.—
+
+Public services
+
+Housing activities
+
+Limitation
+
+Relocation assistance
+
+Payment of administrative expenses
+
+Allocation of Assistance
+
+Other Requirements
+
+Authorization of Appropriations
+
+Purpose
+
+Membership
+
+Organization
+
+Demonstration program
+
+Governing board
+
+New town demonstration area
+
+New town plan
+
+Unit of general local government
+
+## Source Credit
+
+*([Pub. L. 93–383, title I, § 119](https://www.govinfo.gov/link/plaw/93/public/383), as added [Pub. L. 95–128, title I, § 110(b)](https://www.govinfo.gov/link/plaw/95/public/128), Oct. 12, 1977, [91 Stat. 1125](https://www.govinfo.gov/link/statute/91/1125); amended [Pub. L. 95–557, title I, § 103(g)](https://www.govinfo.gov/link/plaw/95/public/557), (h), Oct. 31, 1978, [92 Stat. 2084](https://www.govinfo.gov/link/statute/92/2084); [Pub. L. 96–153, title I](https://www.govinfo.gov/link/plaw/96/public/153), §§ 104, 105, Dec. 21, 1979, [93 Stat. 1102](https://www.govinfo.gov/link/statute/93/1102), 1104; [Pub. L. 96–399, title I](https://www.govinfo.gov/link/plaw/96/public/399), §§ 110(a), (b), 117(a), Oct. 8, 1980, [94 Stat. 1619](https://www.govinfo.gov/link/statute/94/1619), 1623; [Pub. L. 97–35, title III, § 308(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 392](https://www.govinfo.gov/link/statute/95/392); [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title I, § 121], Nov. 30, 1983, [97 Stat. 1168](https://www.govinfo.gov/link/statute/97/1168); [Pub. L. 98–454, title VI, § 601(c)](https://www.govinfo.gov/link/plaw/98/public/454), Oct. 5, 1984, [98 Stat. 1736](https://www.govinfo.gov/link/statute/98/1736); [Pub. L. 98–479, title II, § 203](https://www.govinfo.gov/link/plaw/98/public/479) (l)(3), Oct. 17, 1984, [98 Stat. 2231](https://www.govinfo.gov/link/statute/98/2231); [Pub. L. 99–272, title XIV, § 14001(b)(6)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 329](https://www.govinfo.gov/link/statute/100/329); [Pub. L. 99–500, § 101(g)](https://www.govinfo.gov/link/plaw/99/public/500), Oct. 18, 1986, [100 Stat. 1783–242](https://www.govinfo.gov/link/statute/100/1783), and [Pub. L. 99–591, § 101(g)](https://www.govinfo.gov/link/plaw/99/public/591), Oct. 30, 1986, [100 Stat. 3341–242](https://www.govinfo.gov/link/statute/100/3341); [Pub. L. 100–202](https://www.govinfo.gov/link/plaw/100/public/202), §§ 101(f) [title I, § 101], 106, Dec. 22, 1987, [101 Stat. 1329–187](https://www.govinfo.gov/link/statute/101/1329), 1329–193, 1329–433; [Pub. L. 100–242, title V](https://www.govinfo.gov/link/plaw/100/public/242), §§ 501(c), 515(a)–(d), (g)(2)–(i), 516(a), Feb. 5, 1988, [101 Stat. 1923](https://www.govinfo.gov/link/statute/101/1923), 1930–1934; [Pub. L. 100–404, title I](https://www.govinfo.gov/link/plaw/100/public/404), Aug. 19, 1988, [102 Stat. 1020](https://www.govinfo.gov/link/statute/102/1020); [Pub. L. 100–628, title X, § 1084](https://www.govinfo.gov/link/plaw/100/public/628), Nov. 7, 1988, [102 Stat. 3277](https://www.govinfo.gov/link/statute/102/3277); [Pub. L. 103–233, title II, § 232(b)](https://www.govinfo.gov/link/plaw/103/public/233), (c)(1), Apr. 11, 1994, [108 Stat. 367](https://www.govinfo.gov/link/statute/108/367).)*

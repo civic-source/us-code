@@ -3,9 +3,10 @@ title: "Section 2152i - Small Grants Program"
 usc_title: 22
 usc_section: "2152i"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2152i"
-generated_at: "2026-03-30T02:55:05.348Z"
+generated_at: "2026-11-23T20:26:32.184Z"
+status: "active"
 ---
 
 # § 2152i. Small Grants Program
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:05.348Z"
   - **(2)** Upon selection of a mission pursuant to the procedures required by paragraph (1), such selected mission may be allocated the full estimated cost of the multi-year program: Provided , That such allocations shall be subject to the regular notification procedures of the Committees on Appropriations.
   - **(3)** In addition to funds otherwise available for such purposes, up to 20 percent of the funds made available to carry out this section may be used by USAID for administrative expenses, and other necessary support associated with managing and strengthening relationships with entities under the SGP.
 - **(f)** Not later than 120 days after December 16, 2014 , and after consultation with the appropriate congressional committees, the Administrator shall submit a report to such committees describing the guidance to implement the SGP.
+
+## Source Credit
+
+*([Pub. L. 113–235, div. J, title VII, § 7080](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2682](https://www.govinfo.gov/link/statute/128/2682); [Pub. L. 114–113, div. K, title VII, § 7034(q)(3)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2768](https://www.govinfo.gov/link/statute/129/2768).)*

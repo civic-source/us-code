@@ -3,12 +3,17 @@ title: "Section 913 - Facility exercise requirements"
 usc_title: 6
 usc_section: "913"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 913"
-generated_at: "2026-03-30T02:53:09.501Z"
+generated_at: "2026-11-23T20:25:34.884Z"
+status: "active"
 ---
 
 # § 913. Facility exercise requirements
 
 The Secretary of the Department in which the Coast Guard is operating shall require each high risk facility to conduct live or full-scale exercises described in section 105.220(c) of title 33, Code of Federal Regulations, not less frequently than once every 2 years, in accordance with the facility security plan required under section 70103(c) of title 46 .
 
+
+## Source Credit
+
+*([Pub. L. 109–347, title I, § 115](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1897](https://www.govinfo.gov/link/statute/120/1897).)*

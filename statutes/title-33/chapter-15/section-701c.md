@@ -3,9 +3,10 @@ title: "Section 701c - Rights-of-way, easements, etc.; acquisition by local auth
 usc_title: 33
 usc_section: "701c"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 701c"
-generated_at: "2026-03-30T02:55:41.068Z"
+generated_at: "2026-11-23T20:26:53.888Z"
+status: "active"
 ---
 
 # § 701c. Rights-of-way, easements, etc.; acquisition by local authorities; maintenance and operation; protection of United States from liability for damages; requisites to run-off and water-flow retardation and soil erosion prevention assistance
@@ -16,3 +17,7 @@ After June 22, 1936 , no money appropriated under authority of section 701f of t
   - **(1)** The enactment and reasonable safeguards for the enforcement of State and local laws imposing suitable permanent restrictions on the use of such lands and otherwise providing for run-off and waterflow retardation and soil-erosion prevention;
   - **(2)** Agreements or covenants as to the permanent use of such lands; and
   - **(3)** Contributions in money, services, materials, or otherwise to any operations conferring such benefits.
+
+## Source Credit
+
+*(June 22, 1936, ch. 688, § 3, [49 Stat. 1571](https://www.govinfo.gov/link/statute/49/1571); Aug. 28, 1937, ch. 877, § 4, [50 Stat. 877](https://www.govinfo.gov/link/statute/50/877); July 26, 1947, ch. 343, title II, § 205(a), [61 Stat. 501](https://www.govinfo.gov/link/statute/61/501).)*

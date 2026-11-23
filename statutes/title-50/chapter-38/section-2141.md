@@ -3,9 +3,10 @@ title: "Section 2141 - Authority to maintain existing areas of conformity betwee
 usc_title: 50
 usc_section: "2141"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 2141"
-generated_at: "2026-03-30T02:56:26.219Z"
+generated_at: "2026-11-23T20:27:30.829Z"
+status: "active"
 ---
 
 # § 2141. Authority to maintain existing areas of conformity between Civil Service and Central Intelligence Agency Retirement and Disability Systems
@@ -20,3 +21,13 @@ generated_at: "2026-03-30T02:56:26.219Z"
 - **(b)** Provisions of an Executive order issued pursuant to this section shall modify, supersede, or render inapplicable, as the case may be, to the extent inconsistent therewith—
   - **(1)** provisions of law enacted before the effective date of the Executive order; and
   - **(2)** any prior provision of an Executive order issued under this section.
+
+Section
+
+Sec
+
+George W. Bush.
+
+## Source Credit
+
+*([Pub. L. 88–643, title II, § 292](https://www.govinfo.gov/link/plaw/88/public/643), as added [Pub. L. 102–496, title VIII, § 802](https://www.govinfo.gov/link/plaw/102/public/496), Oct. 24, 1992, [106 Stat. 3241](https://www.govinfo.gov/link/statute/106/3241).)*

@@ -3,9 +3,10 @@ title: "Section 1215 - Disciplinary action"
 usc_title: 5
 usc_section: "1215"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 1215"
-generated_at: "2026-03-30T02:52:55.996Z"
+generated_at: "2026-11-23T20:25:31.774Z"
+status: "active"
 ---
 
 # § 1215. Disciplinary action
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:52:55.996Z"
 - **(c)**
   - **(1)** In the case of members of the uniformed services and individuals employed by any person under contract with an agency to provide goods or services, the Special Counsel may transmit recommendations for disciplinary or other appropriate action (including the evidence on which such recommendations are based) to the head of the agency concerned.
   - **(2)** In any case in which the Special Counsel transmits recommendations to an agency head under paragraph (1), the agency head shall, within 60 days after receiving such recommendations, transmit a report to the Special Counsel on each recommendation and the action taken, or proposed to be taken, with respect to each such recommendation.
+
+## Source Credit
+
+*(Added [Pub. L. 101–12, § 3(a)(13)](https://www.govinfo.gov/link/plaw/101/public/12), Apr. 10, 1989, [103 Stat. 27](https://www.govinfo.gov/link/statute/103/27); amended [Pub. L. 112–199, title I, § 106](https://www.govinfo.gov/link/plaw/112/public/199), Nov. 27, 2012, [126 Stat. 1468](https://www.govinfo.gov/link/statute/126/1468).)*

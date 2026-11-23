@@ -3,9 +3,10 @@ title: "Section 9564 - Progress reports"
 usc_title: 22
 usc_section: "9564"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9564"
-generated_at: "2026-03-30T02:55:05.468Z"
+generated_at: "2026-11-23T20:26:32.783Z"
+status: "active"
 ---
 
 # § 9564. Progress reports
@@ -18,3 +19,7 @@ Not later than one year after December 20, 2019 , and annually thereafter, the P
     - **(B)** the amount and form of any debt financing and insurance provided by the United States Government for the project;
     - **(C)** the amount and form of any early-stage project support; and
     - **(D)** an update on the progress made on the project as of the date of the report.
+
+## Source Credit
+
+*([Pub. L. 116–94, div. P, title XX, § 2005](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3226](https://www.govinfo.gov/link/statute/133/3226).)*

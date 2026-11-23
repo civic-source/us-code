@@ -3,9 +3,10 @@ title: "Section 1203 - Preemption of Federal standards"
 usc_title: 15
 usc_section: "1203"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1203"
-generated_at: "2026-03-30T02:54:08.130Z"
+generated_at: "2026-11-23T20:26:03.978Z"
+status: "active"
 ---
 
 # § 1203. Preemption of Federal standards
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:08.130Z"
     - **(B)** the State or political subdivision standard or other regulation (i) provides a significantly higher degree of protection from the risk of occurrence of fire with respect to which the Federal standard or other regulation is in effect, and (ii) does not unduly burden interstate commerce.
   - **(2)** A regulation under paragraph (1) granting an exemption for a flammability standard or other regulation of a State or political subdivision of a State may be promulgated by the Commission only after it has provided, in accordance with section 553(b) of title 5 , notice with respect to the promulgation of the regulation and has provided opportunity for the oral presentation of views respecting its promulgation.
 - **(d)** In this section, a reference to a flammability standard or other regulation for a fabric, related material, or product in effect under this chapter includes a standard of flammability continued in effect by section 11 of the Act of December 14, 1967 ( Public Law 90–189 ).
+
+## Source Credit
+
+*(June 30, 1953, ch. 164, § 16, as added [Pub. L. 90–189, § 10](https://www.govinfo.gov/link/plaw/90/public/189), Dec. 14, 1967, [81 Stat. 574](https://www.govinfo.gov/link/statute/81/574); amended [Pub. L. 94–284, § 17(b)](https://www.govinfo.gov/link/plaw/94/public/284), May 11, 1976, [90 Stat. 512](https://www.govinfo.gov/link/statute/90/512); [Pub. L. 110–314, title II, § 204(c)(2)(G)](https://www.govinfo.gov/link/plaw/110/public/314), Aug. 14, 2008, [122 Stat. 3043](https://www.govinfo.gov/link/statute/122/3043).)*

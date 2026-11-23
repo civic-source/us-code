@@ -3,9 +3,10 @@ title: "Section 5389 - Construction projects"
 usc_title: 25
 usc_section: "5389"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 5389"
-generated_at: "2026-03-30T02:54:52.870Z"
+generated_at: "2026-11-23T20:26:25.749Z"
+status: "active"
 ---
 
 # § 5389. Construction projects
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:52.870Z"
 - **(f)** The Secretary shall have at least one opportunity to approve project planning and design documents prepared by the Indian tribe in advance of construction of the facilities specified in the scope of work for each negotiated construction project agreement or amendment thereof which results in a significant change in the original scope of work. The Indian tribe shall provide the Secretary with project progress and financial reports not less than semiannually. The Secretary may conduct onsite project oversight visits semiannually or on an alternate schedule agreed to by the Secretary and the Indian tribe.
 - **(g)** All laborers and mechanics employed by contractors and subcontractors (excluding tribes and tribal organizations) in the construction, alteration, or repair, including painting or decorating of a building or other facilities in connection with construction projects funded by the United States under this chapter shall be paid wages at not less than those prevailing wages on similar construction in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. With respect to construction alteration, or repair work to which sections 3141–3144, 3146, and 3147 of title 40 are applicable under this section, the Secretary of Labor shall have the authority and functions set forth in the Reorganization Plan numbered 14, of 1950, and section 3145 of title 40 .
 - **(h)** Unless otherwise agreed to by the Indian tribe, no provision of division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41, the Federal Acquisition Regulations issued pursuant thereto, or any other law or regulation pertaining to Federal procurement (including Executive orders) shall apply to any construction project conducted under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 93–638, title V, § 509](https://www.govinfo.gov/link/plaw/93/public/638), as added [Pub. L. 106–260, § 4](https://www.govinfo.gov/link/plaw/106/public/260), Aug. 18, 2000, [114 Stat. 724](https://www.govinfo.gov/link/statute/114/724); amended [Pub. L. 113–287, § 5(g)](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3269](https://www.govinfo.gov/link/statute/128/3269).)*

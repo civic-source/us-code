@@ -3,9 +3,10 @@ title: "Section 41508 - Grants to States for threat assessment databases"
 usc_title: 34
 usc_section: "41508"
 chapter: 415
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 41508"
-generated_at: "2026-03-30T02:55:33.314Z"
+generated_at: "2026-11-23T20:26:50.661Z"
+status: "active"
 ---
 
 # § 41508. Grants to States for threat assessment databases
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:33.314Z"
   - **(3)** develop measures and procedures that can effectively reduce the probabilities that those acts will occur.
 - **(c)** The Attorney General shall define a core set of data elements to be used by each database funded by this section so that the information in the database can be effectively shared with other States and with the Department of Justice.
 - **(d)** There are authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2008 through 2011.
+
+## Source Credit
+
+*([Pub. L. 110–177, title III, § 303](https://www.govinfo.gov/link/plaw/110/public/177), Jan. 7, 2008, [121 Stat. 2540](https://www.govinfo.gov/link/statute/121/2540).)*

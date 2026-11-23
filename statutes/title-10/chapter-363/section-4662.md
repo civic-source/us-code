@@ -3,9 +3,10 @@ title: "Section 4662 - Prohibition on the transfer of certain data on employees 
 usc_title: 10
 usc_section: "4662"
 chapter: 363
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 4662"
-generated_at: "2026-03-30T02:53:38.209Z"
+generated_at: "2026-11-23T20:25:51.964Z"
+status: "active"
 ---
 
 # § 4662. Prohibition on the transfer of certain data on employees of the Department of Defense to third parties
@@ -23,3 +24,15 @@ generated_at: "2026-03-30T02:53:38.209Z"
   - **(2)** The term “individually identifiable Department employee data” means information related to an employee of the Department of Defense, including a member of the Armed Forces, that—
     - **(A)** identifies such employee; or
     - **(B)** which may be used to infer, by either direct or indirect means, the identity of such an employee to whom the information applies.
+
+In General
+
+Waiver
+
+Report
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title VIII, § 803](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 312](https://www.govinfo.gov/link/statute/137/312); amended [Pub. L. 118–159, div. A, title VIII, § 836](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1987](https://www.govinfo.gov/link/statute/138/1987).)*

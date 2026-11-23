@@ -3,12 +3,17 @@ title: "Section 273 - Lease of lands not covered by permits or leases; acreage; 
 usc_title: 30
 usc_section: "273"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 273"
-generated_at: "2026-03-30T02:55:29.382Z"
+generated_at: "2026-11-23T20:26:34.932Z"
+status: "active"
 ---
 
 # § 273. Lease of lands not covered by permits or leases; acreage; rental
 
 Lands known to contain valuable deposits of sulphur and not covered by permits or leases shall be held subject to lease by the Secretary of the Interior through advertisement, competitive bidding, or such other methods as he may by general regulations adopt and in such areas as he shall fix, not exceeding six hundred and forty acres; all leases to be conditioned upon the payment by the lessee of such royalty as may be fixed in the lease and the payment in advance of a rental of 50 cents per acre per annum, the rental paid for any one year to be credited against the royalties accruing for that year.
 
+
+## Source Credit
+
+*(Apr. 17, 1926, ch. 158, § 3, [44 Stat. 301](https://www.govinfo.gov/link/statute/44/301).)*

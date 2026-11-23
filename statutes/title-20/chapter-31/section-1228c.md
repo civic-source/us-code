@@ -3,9 +3,10 @@ title: "Section 1228c - Disclosure requirements"
 usc_title: 20
 usc_section: "1228c"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1228c"
-generated_at: "2026-03-30T02:54:48.156Z"
+generated_at: "2026-11-23T20:26:14.612Z"
+status: "active"
 ---
 
 # § 1228c. Disclosure requirements
@@ -74,3 +75,7 @@ generated_at: "2026-03-30T02:54:48.156Z"
   - **(6)** The term “membership organization” includes any organization that maintains a membership list or collects dues or membership fees from its members.
   - **(7)** The term “recreational organization” includes any organization or entity that has as its primary function pleasure, amusement, or sports activities.
   - **(8)** The term “recreational program” includes any activity or service that is intended as an entertainment pastime.
+
+## Source Credit
+
+*([Pub. L. 90–247, title IV, § 429](https://www.govinfo.gov/link/plaw/90/public/247), as added [Pub. L. 103–382, title II, § 238](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 3918](https://www.govinfo.gov/link/statute/108/3918); amended [Pub. L. 105–244, title I, § 102(a)(6)(C)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1618](https://www.govinfo.gov/link/statute/112/1618); [Pub. L. 114–95, title IX, § 9215(mm)(3)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2176](https://www.govinfo.gov/link/statute/129/2176).)*

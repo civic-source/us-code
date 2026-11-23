@@ -3,12 +3,17 @@ title: "Section 8202 - Eligibility"
 usc_title: 7
 usc_section: "8202"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 8202"
-generated_at: "2026-03-30T02:53:42.473Z"
+generated_at: "2026-11-23T20:25:41.877Z"
+status: "active"
 ---
 
 # § 8202. Eligibility
 
 - **(a)** Subject to subsection (b), the Secretary shall provide assistance under section 8203 of this title to eligible orchardists that planted trees for commercial purposes but lost the trees as a result of a natural disaster, as determined by the Secretary.
 - **(b)** An eligible orchardist shall qualify for assistance under subsection (a) only if the tree mortality of the eligible orchardist, as a result of damaging weather or related condition, exceeds 15 percent (adjusted for normal mortality).
+
+## Source Credit
+
+*([Pub. L. 107–171, title X, § 10202](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 490](https://www.govinfo.gov/link/statute/116/490).)*

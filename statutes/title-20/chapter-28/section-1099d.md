@@ -3,9 +3,10 @@ title: "Section 1099d - Competitive loan auction pilot program"
 usc_title: 20
 usc_section: "1099d"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1099d"
-generated_at: "2026-03-30T02:54:48.140Z"
+generated_at: "2026-11-23T20:26:14.543Z"
+status: "active"
 ---
 
 # § 1099d. Competitive loan auction pilot program
@@ -75,3 +76,21 @@ generated_at: "2026-03-30T02:54:48.140Z"
   - **(2)** The Secretary shall include, in each report required under subparagraphs (A), (B), and (C) of paragraph (1), any recommendations, that are based on the findings of the evaluation under subsection (c), for—
     - **(A)** improving the operation and administration of the auction; and
     - **(B)** improving the operation and administration of other loan programs under part B.
+
+(aa) seeks an eligible Federal PLUS Loan under this paragraph to enable a dependent student to attend an institution of higher education within the State;
+
+(bb) is eligible for an eligible Federal PLUS Loan; and
+
+(cc) elects to borrow from the eligible lender; and
+
+(aa) reducing the amount of any payments otherwise due to such eligible lender from the Secretary by the amount of the penalty; or
+
+(bb) requesting any other Federal agency to reduce the amount of any payments due to such eligible lender from such agency by the amount of the penalty, in accordance with section 3716 of title 31 .
+
+(aa) the average of the bond equivalent rates of the quotes of the 3-month commercial paper (financial) rates in effect for each of the days in such quarter as reported by the Federal Reserve in Publication H–15 (or its successor) for such 3-month period; plus
+
+(bb) 1.59 percent.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 499](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–84, title VII, § 701](https://www.govinfo.gov/link/plaw/110/public/84), Sept. 27, 2007, [121 Stat. 808](https://www.govinfo.gov/link/statute/121/808); amended [Pub. L. 110–315, title IV, § 499](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3328](https://www.govinfo.gov/link/statute/122/3328).)*

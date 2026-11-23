@@ -3,9 +3,10 @@ title: "Section 399e - Nanotechnology"
 usc_title: 21
 usc_section: "399e"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 399e"
-generated_at: "2026-03-30T02:54:54.284Z"
+generated_at: "2026-11-23T20:26:27.786Z"
+status: "active"
 ---
 
 # § 399e. Nanotechnology
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:54.284Z"
   - **(7)** ensure ongoing training, as well as dissemination of new information within the centers of the Food and Drug Administration, and more broadly across the Food and Drug Administration, to ensure timely, informed consideration of the most current science pertaining to nanomaterials;
   - **(8)** encourage the Food and Drug Administration to participate in international and national consensus standards activities pertaining to nanomaterials; and
   - **(9)** carry out other activities that the Secretary determines are necessary and consistent with the purposes described in paragraphs (1) through (8).
+
+## Source Credit
+
+*([Pub. L. 112–144, title XI, § 1126](https://www.govinfo.gov/link/plaw/112/public/144), July 9, 2012, [126 Stat. 1116](https://www.govinfo.gov/link/statute/126/1116).)*

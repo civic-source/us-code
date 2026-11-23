@@ -3,9 +3,10 @@ title: "Section 4981 - Excise tax on undistributed income of real estate investm
 usc_title: 26
 usc_section: "4981"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 4981"
-generated_at: "2026-03-30T02:55:27.815Z"
+generated_at: "2026-11-23T20:26:46.382Z"
+status: "active"
 ---
 
 # § 4981. Excise tax on undistributed income of real estate investment trusts
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:55:27.815Z"
   - **(3)** In the case of any deficiency dividend (as defined in section 860(f))—
     - **(A)** such dividend shall be taken into account when paid without regard to section 860, and
     - **(B)** any income giving rise to the adjustment shall be treated as arising when the dividend is paid.
+
+## Source Credit
+
+*(Added [Pub. L. 94–455, title XVI, § 1605(a)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1754](https://www.govinfo.gov/link/statute/90/1754); amended [Pub. L. 99–514, title VI, § 668(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2306](https://www.govinfo.gov/link/statute/100/2306); [Pub. L. 100–647, title I, § 1006(s)(1)](https://www.govinfo.gov/link/plaw/100/public/647), (3), Nov. 10, 1988, [102 Stat. 3418](https://www.govinfo.gov/link/statute/102/3418).)*

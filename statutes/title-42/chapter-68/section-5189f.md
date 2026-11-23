@@ -3,9 +3,10 @@ title: "Section 5189f - Public assistance program alternative procedures"
 usc_title: 42
 usc_section: "5189f"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5189f"
-generated_at: "2026-03-30T02:56:11.226Z"
+generated_at: "2026-11-23T20:27:22.495Z"
+status: "active"
 ---
 
 # § 5189f. Public assistance program alternative procedures
@@ -56,3 +57,7 @@ generated_at: "2026-03-30T02:56:11.226Z"
     - **(D)** whether the alternative procedures were cost effective;
     - **(E)** whether the independent expert panel described in subsection (e)(1)(E) was effective; and
     - **(F)** recommendations for whether the alternative procedures should be continued and any recommendations for changes to the alternative procedures.
+
+## Source Credit
+
+*([Pub. L. 93–288, title IV, § 428](https://www.govinfo.gov/link/plaw/93/public/288), as added [Pub. L. 113–2, div. B, § 1102(2)](https://www.govinfo.gov/link/plaw/113/public/2), Jan. 29, 2013, [127 Stat. 39](https://www.govinfo.gov/link/statute/127/39); amended [Pub. L. 115–254, div. D, § 1207(c)](https://www.govinfo.gov/link/plaw/115/public/254), (d), Oct. 5, 2018, [132 Stat. 3440](https://www.govinfo.gov/link/statute/132/3440), 3441.)*

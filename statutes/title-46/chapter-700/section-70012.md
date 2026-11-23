@@ -3,9 +3,10 @@ title: "Section 70012 - Navigational hazards"
 usc_title: 46
 usc_section: "70012"
 chapter: 700
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 70012"
-generated_at: "2026-03-30T02:56:15.585Z"
+generated_at: "2026-11-23T20:27:27.431Z"
+status: "active"
 ---
 
 # § 70012. Navigational hazards
@@ -15,3 +16,17 @@ generated_at: "2026-03-30T02:56:15.585Z"
   - **(1)** Upon notification by the operator of a pipeline of a hazard to navigation with respect to that pipeline, the Secretary shall immediately notify Coast Guard headquarters, the Pipeline and Hazardous Materials Safety Administration, other affected Federal and State agencies, and vessel owners and operators in the pipeline’s vicinity.
   - **(2)** Upon notification by any other person of a hazard or potential hazard to navigation with respect to a pipeline, the Secretary shall promptly determine whether a hazard exists, and if so shall immediately notify Coast Guard headquarters, the Pipeline and Hazardous Materials Safety Administration, other affected Federal and State agencies, vessel owners and operators in the pipeline’s vicinity, and the owner and operator of the pipeline.
 - **(c)** For purposes of this section, the term “pipeline” has the meaning given the term “pipeline facility” in section 60101(a)(18) of title 49 .
+
+Reporting Procedure
+
+Secretary’s Response.—
+
+Notification by the operator of a pipeline
+
+Notification by other persons
+
+Pipeline Defined
+
+## Source Credit
+
+*(Added [Pub. L. 115–282, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4259](https://www.govinfo.gov/link/statute/132/4259).)*

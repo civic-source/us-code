@@ -3,9 +3,10 @@ title: "Section 1301 - Designs protected"
 usc_title: 17
 usc_section: "1301"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 1301"
-generated_at: "2026-03-30T02:54:15.357Z"
+generated_at: "2026-11-23T20:26:06.546Z"
+status: "active"
 ---
 
 # § 1301. Designs protected
@@ -24,3 +25,21 @@ generated_at: "2026-03-30T02:54:15.357Z"
   - **(5)** A “plug” means a device or model used to make a mold for the purpose of exact duplication, regardless of whether the device or model has an intrinsic utilitarian function that is not only to portray the appearance of the product or to convey information.
   - **(6)** A “mold” means a matrix or form in which a substance for material is used, regardless of whether the matrix or form has an intrinsic utilitarian function that is not only to portray the appearance of the product or to convey information.
   - **(7)** A “deck” is the horizontal surface of a vessel that covers the hull, including exterior cabin and cockpit surfaces, and exclusive of masts, sails, yards, rigging, hardware, fixtures, and other attachments.
+
+Designs Protected.—
+
+In general
+
+Vessel features
+
+Exceptions
+
+Definitions
+
+In General
+
+Elements for Consideration
+
+## Source Credit
+
+*(Added [Pub. L. 105–304, title V, § 502](https://www.govinfo.gov/link/plaw/105/public/304), Oct. 28, 1998, [112 Stat. 2905](https://www.govinfo.gov/link/statute/112/2905); amended [Pub. L. 106–113, div. B, § 1000(a)(9) [title V, § 5005(a)(3)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–593; [Pub. L. 110–434, § 1(b)](https://www.govinfo.gov/link/plaw/110/public/434) –(d), Oct. 16, 2008, [122 Stat. 4972](https://www.govinfo.gov/link/statute/122/4972); [Pub. L. 117–81, div. A, title XVII, § 1702](https://www.govinfo.gov/link/plaw/117/public/81) (l)(2), Dec. 27, 2021, [135 Stat. 2160](https://www.govinfo.gov/link/statute/135/2160).)*

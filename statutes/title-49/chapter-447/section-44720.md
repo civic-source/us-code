@@ -3,9 +3,10 @@ title: "Section 44720 - Meteorological services"
 usc_title: 49
 usc_section: "44720"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44720"
-generated_at: "2026-03-30T02:56:19.386Z"
+generated_at: "2026-11-23T20:27:35.184Z"
+status: "active"
 ---
 
 # § 44720. Meteorological services
@@ -19,3 +20,91 @@ generated_at: "2026-03-30T02:56:19.386Z"
   - **(5)** in cooperation with other departments, agencies, and instrumentalities of the United States Government, meteorological services of foreign countries, and persons engaged in air commerce, participate in developing an international basic meteorological reporting network, including the establishment, operation, and maintenance of reporting stations on the high seas, in polar regions, and in foreign countries;
   - **(6)** coordinate meteorological requirements in the United States to maintain standard observations, to promote efficient use of facilities, and to avoid duplication of services unless the duplication tends to promote the safety and efficiency of air navigation; and
   - **(7)** promote and develop meteorological science and foster and support research projects in meteorology through the use of private and governmental research facilities and provide for publishing the results of the projects unless publication would not be in the public interest.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 44720(a) | 49 App.:1351. | Aug. 23, 1958 , Pub. L. 85–726 , §§ 310, 803, 72 Stat. 751 , 783. |
+|  | 49 App.:1655(c)(1). | Oct. 15, 1966 , Pub. L. 89–670, § 6(c)(1) , 80 Stat. 938 ; Jan. 12, 1983 , Pub. L. 97–449, § 7(b) , 96 Stat. 2444 . |
+| 44720(b) | 49 App.:1463. |  |
+|  | 49 App.:1655(c)(1). |  |
+
+
+Recommendations
+
+Promoting Safety and Efficiency
+
+Historical and Revision Notes
+
+44720(a)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 751
+
+Oct. 15, 1966
+
+Pub. L. 89–670, § 6(c)(1)
+
+80 Stat. 938
+
+Jan. 12, 1983
+
+Pub. L. 97–449, § 7(b)
+
+96 Stat. 2444
+
+44720(b)
+
+In General
+
+Availability of Results.—
+
+In general
+
+Data files
+
+Applicable Administrators
+
+In General
+
+Application Template.—
+
+In general
+
+Requirements
+
+Response to application.—
+
+Timeline
+
+Rejection
+
+In General
+
+Procedures
+
+Limitation
+
+Covered Air Carrier Defined
+
+In General
+
+Permission
+
+Standards
+
+AIP Eligibility of AWOS Equipment.—
+
+In general
+
+Applicability to low population density states
+
+Report
+
+“The Administrator [of the Federal Aviation Administration] shall not terminate human weather observers for Automated Surface Observation System stations until—
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1201](https://www.govinfo.gov/link/statute/108/1201); [Pub. L. 118–63, title XI, § 1101(n)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1414](https://www.govinfo.gov/link/statute/138/1414).)*

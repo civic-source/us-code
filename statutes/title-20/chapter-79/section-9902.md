@@ -3,9 +3,10 @@ title: "Section 9902 - Program requirements"
 usc_title: 20
 usc_section: "9902"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 9902"
-generated_at: "2026-03-30T02:54:48.233Z"
+generated_at: "2026-11-23T20:26:15.012Z"
+status: "active"
 ---
 
 # § 9902. Program requirements
@@ -19,3 +20,7 @@ The Director shall replicate and implement undergraduate degree programs under t
   - **(5)** include instruction in the use of scientifically-based instructional materials and methods, assessments, pedagogical content knowledge (including the interaction between mathematics and science), the use of instructional technology, and how to incorporate State and local standards into the classroom curriculum;
   - **(6)** restrict to students participating in the program those courses that are specifically designed for the needs of teachers of science, technology, engineering, and mathematics; and
   - **(7)** require students participating in the program to successfully complete a final evaluation of their teaching proficiency, based on their classroom teaching performance, conducted by multiple trained observers, and a portfolio of their accomplishments.
+
+## Source Credit
+
+*([Pub. L. 111–358, title V, § 552](https://www.govinfo.gov/link/plaw/111/public/358), Jan. 4, 2011, [124 Stat. 4022](https://www.govinfo.gov/link/statute/124/4022).)*

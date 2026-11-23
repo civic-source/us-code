@@ -3,9 +3,10 @@ title: "Section 3032b - Older individuals’ protection from violence projects"
 usc_title: 42
 usc_section: "3032b"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3032b"
-generated_at: "2026-03-30T02:56:11.175Z"
+generated_at: "2026-11-23T20:27:22.226Z"
+status: "active"
 ---
 
 # § 3032b. Older individuals’ protection from violence projects
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.175Z"
   - **(4)** promote research on legal, organizational, or training impediments to providing services to older individuals through shelters and other programs, such as impediments to provision of services in coordination with delivery of health care or services delivered under this chapter.
 - **(c)** In awarding grants under subsection (a), the Assistant Secretary shall give preference to a State, an area agency on aging, a nonprofit organization, or a tribal organization that has the ability to carry out the activities described in this section and subchapter XI of this chapter.
 - **(d)** The Assistant Secretary shall encourage each State, area agency on aging, nonprofit organization, and tribal organization that receives a grant under subsection (a) to coordinate activities provided under this section with activities provided by other area agencies on aging, tribal organizations, State adult protective service programs, private nonprofit organizations, and by other entities receiving funds under subchapter XI of this chapter.
+
+## Source Credit
+
+*([Pub. L. 89–73, title IV, § 413](https://www.govinfo.gov/link/plaw/89/public/73), as added [Pub. L. 106–501, title IV, § 401](https://www.govinfo.gov/link/plaw/106/public/501), Nov. 13, 2000, [114 Stat. 2259](https://www.govinfo.gov/link/statute/114/2259).)*

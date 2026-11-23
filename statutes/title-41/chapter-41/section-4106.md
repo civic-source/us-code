@@ -3,9 +3,10 @@ title: "Section 4106 - Orders"
 usc_title: 41
 usc_section: "4106"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 4106"
-generated_at: "2026-03-30T02:55:55.807Z"
+generated_at: "2026-11-23T20:27:04.449Z"
+status: "active"
 ---
 
 # § 4106. Orders
@@ -36,3 +37,70 @@ generated_at: "2026-03-30T02:55:55.807Z"
 - **(g)**
   - **(1)** The head of each executive agency who awards multiple task or delivery order contracts under section 4103(d)(1)(B) or 4105(f) of this title shall appoint or designate a task and delivery order ombudsman who shall be responsible for reviewing complaints from the contractors on those contracts and ensuring that all of the contractors are afforded a fair opportunity to be considered for task or delivery orders when required under subsection (c).
   - **(2)** The task and delivery order ombudsman shall be a senior agency official who is independent of the contracting officer for the contracts and may be the executive agency’s advocate for competition.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 4106(a) | 41:253j(g). | June 30, 1949, ch. 288 , title III, § 303J, as added Pub. L. 103–355, title I, § 1054(a) , Oct. 13, 1994 , 108 Stat. 3264 ; Pub. L. 110–181, div. A, title VIII, § 843(b)(2) , Jan. 28, 2008 , 122 Stat. 238 . |
+| 4106(b) | 41:253j(a). |  |
+| 4106(c) | 41:253j(b). |  |
+| 4106(d) | 41:253j(d). |  |
+| 4106(e) | 41:253j(c). |  |
+| 4106(f) | 41:253j(e). |  |
+| 4106(g) | 41:253j(f). |  |
+
+
+Application
+
+Actions Not Required for Issuance of Orders
+
+Multiple Award Contracts
+
+Enhanced Competition for Orders in Excess of
+
+Statement of Work
+
+Protests.—
+
+Protest not authorized
+
+Jurisdiction over protests
+
+Task and Delivery Order Ombudsman.—
+
+Appointment or designation and responsibilities
+
+Who is eligible
+
+Historical and Revision Notes
+
+4106(a)
+
+June 30, 1949, ch. 288
+
+Pub. L. 103–355, title I, § 1054(a)
+
+Oct. 13, 1994
+
+108 Stat. 3264
+
+Pub. L. 110–181, div. A, title VIII, § 843(b)(2)
+
+Jan. 28, 2008
+
+122 Stat. 238
+
+4106(b)
+
+4106(c)
+
+4106(d)
+
+4106(e)
+
+4106(f)
+
+4106(g)
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3782](https://www.govinfo.gov/link/statute/124/3782); [Pub. L. 111–383, div. A, title X, § 1075(f)(5)(B)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4376](https://www.govinfo.gov/link/statute/124/4376); [Pub. L. 112–81, div. A, title VIII, § 813](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1491](https://www.govinfo.gov/link/statute/125/1491); [Pub. L. 114–260, § 2](https://www.govinfo.gov/link/plaw/114/public/260), Dec. 14, 2016, [130 Stat. 1361](https://www.govinfo.gov/link/statute/130/1361); [Pub. L. 114–328, div. A, title VIII, § 835(b)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2285](https://www.govinfo.gov/link/statute/130/2285); [Pub. L. 116–92, div. A, title VIII, § 826](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1491](https://www.govinfo.gov/link/statute/133/1491).)*

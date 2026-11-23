@@ -3,9 +3,10 @@ title: "Section 3455 - Eligibility; terms and conditions"
 usc_title: 16
 usc_section: "3455"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3455"
-generated_at: "2026-03-30T02:54:23.016Z"
+generated_at: "2026-11-23T20:26:20.657Z"
+status: "active"
 ---
 
 # § 3455. Eligibility; terms and conditions
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:23.016Z"
   - **(3)** A loan made under this subchapter shall bear interest at the average rate of interest paid by the United States on obligations of a comparable term, as determined by the Secretary of the Treasury.
 - **(c)** Technical assistance and financial assistance under this subchapter may not be made available to a council to carry out an area plan unless the area plan has been submitted to and approved by the Secretary.
 - **(d)** The Secretary may withdraw technical assistance and financial assistance with respect to any area plan if the Secretary determines that the assistance is no longer necessary or that sufficient progress has not been made toward developing or implementing the elements of the area plan.
+
+## Source Credit
+
+*([Pub. L. 97–98, title XV, § 1532](https://www.govinfo.gov/link/plaw/97/public/98), as added [Pub. L. 107–171, title II, § 2504](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 272](https://www.govinfo.gov/link/statute/116/272).)*

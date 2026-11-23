@@ -3,9 +3,10 @@ title: "Section 5027 - Multiyear grants or contracts"
 usc_title: 42
 usc_section: "5027"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5027"
-generated_at: "2026-03-30T02:56:11.213Z"
+generated_at: "2026-11-23T20:27:22.438Z"
+status: "active"
 ---
 
 # § 5027. Multiyear grants or contracts
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.213Z"
   - **(1)** the overall level of funding for such project;
   - **(2)** any adjustments to Federal financial assistance that may be available under section 5026 of this title ; and
   - **(3)** the renewal of funding on the expiration of the term of such contract or grant.
+
+## Source Credit
+
+*([Pub. L. 93–113, title II, § 227](https://www.govinfo.gov/link/plaw/93/public/113), as added [Pub. L. 101–204, title V, § 507](https://www.govinfo.gov/link/plaw/101/public/204), Dec. 7, 1989, [103 Stat. 1818](https://www.govinfo.gov/link/statute/103/1818).)*

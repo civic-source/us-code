@@ -3,9 +3,10 @@ title: "Section 460zzz - Definitions"
 usc_title: 16
 usc_section: "460zzz"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 460zzz"
-generated_at: "2026-03-30T02:54:22.849Z"
+generated_at: "2026-11-23T20:26:20.046Z"
+status: "active"
 ---
 
 # § 460zzz. Definitions
@@ -19,3 +20,7 @@ In this subchapter:
   - **(5)** The term “Secretary” means the Secretary of the Interior.
   - **(6)** The term “State” means the State of Colorado.
   - **(7)** The term “Wilderness” means the Dominguez Canyon Wilderness Area designated by section 460zzz–2(a) of this title .
+
+## Source Credit
+
+*([Pub. L. 111–11, title II, § 2401](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1102](https://www.govinfo.gov/link/statute/123/1102).)*

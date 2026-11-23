@@ -3,9 +3,10 @@ title: "Section 8101 - Definitions"
 usc_title: 7
 usc_section: "8101"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 8101"
-generated_at: "2026-03-30T02:53:42.470Z"
+generated_at: "2026-11-23T20:25:41.863Z"
+status: "active"
 ---
 
 # § 8101. Definitions
@@ -80,3 +81,13 @@ Except as otherwise provided, in this chapter:
       - **(ii)** other components and ancillary infrastructure of a system described in subparagraph (A), such as a storage system.
     - **(C)** A system described in subparagraph (A) may not include a mechanism for dispensing energy at retail.
   - **(17)** The term “Secretary” means the Secretary of Agriculture.
+
+(aa) old-growth maintenance, restoration, and management direction of paragraphs (2), (3), and (4) of subsection (e) of section 6512 of title 16 ; and
+
+(bb) large-tree retention of subsection (f) of that section; or
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 107–171, title IX, § 9001](https://www.govinfo.gov/link/plaw/107/public/171), as added [Pub. L. 110–234, title IX, § 9001(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1303](https://www.govinfo.gov/link/statute/122/1303), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IX, § 9001(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2064; amended [Pub. L. 113–79, title IX, § 9001](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 926](https://www.govinfo.gov/link/statute/128/926); [Pub. L. 115–334, title IX, § 9001](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4883](https://www.govinfo.gov/link/statute/132/4883).)*

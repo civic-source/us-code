@@ -3,9 +3,10 @@ title: "Section 588 - Movement and supply of office furniture"
 usc_title: 40
 usc_section: "588"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 588"
-generated_at: "2026-03-30T02:55:43.376Z"
+generated_at: "2026-11-23T20:26:56.552Z"
+status: "active"
 ---
 
 # § 588. Movement and supply of office furniture
@@ -21,3 +22,44 @@ generated_at: "2026-03-30T02:55:43.376Z"
     - **(A)** Furniture and furnishings passing to the control of the Administrator under this section pass without reimbursement.
     - **(B)** If furniture and furnishings that were purchased from a trust fund pass to the control of the Administrator under this section, the Administrator shall reimburse the trust fund for the fair market value of the furniture and furnishings.
   - **(3)** If furniture and furnishings are carried as assets of a revolving or working capital fund at the time they pass to the control of the Administrator under this section, the net book value of the furniture and furnishings shall be written off and the capital of the fund is diminished by the amount of the write-off.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 588 | 40:490(g). | June 30, 1949, ch. 288 , title II, § 210(g), as added Sept. 1, 1954, ch. 1211, § 3 , 68 Stat. 1129 . |
+
+
+Definition
+
+Application
+
+Moving Existing Furniture
+
+Providing Replacement Furniture
+
+Control of Replacement Furniture
+
+Control of Furniture Not Moved.—
+
+In general
+
+Reimbursement.—
+
+In general
+
+Exception for trust fund
+
+Revolving or working capital fund
+
+Historical and Revision Notes
+
+588
+
+June 30, 1949, ch. 288
+
+Sept. 1, 1954, ch. 1211, § 3
+
+68 Stat. 1129
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1115](https://www.govinfo.gov/link/statute/116/1115).)*

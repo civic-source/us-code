@@ -3,9 +3,10 @@ title: "Section 6620 - Release of scientific research results"
 usc_title: 42
 usc_section: "6620"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6620"
-generated_at: "2026-03-30T02:56:11.263Z"
+generated_at: "2026-11-23T20:27:22.691Z"
+status: "active"
 ---
 
 # § 6620. Release of scientific research results
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.263Z"
   - **(2)** be specifically designed for each such agency;
   - **(3)** be applied uniformly throughout each such agency; and
   - **(4)** be widely communicated and readily accessible to all employees of each such agency and the public.
+
+## Source Credit
+
+*([Pub. L. 110–69, title I, § 1009](https://www.govinfo.gov/link/plaw/110/public/69), Aug. 9, 2007, [121 Stat. 581](https://www.govinfo.gov/link/statute/121/581).)*

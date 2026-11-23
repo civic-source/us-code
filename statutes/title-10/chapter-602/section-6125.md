@@ -3,9 +3,10 @@ title: "Section 6125 - Selected acquisition reports 1 1 So in original. Probably
 usc_title: 10
 usc_section: "6125"
 chapter: 602
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6125"
-generated_at: "2026-03-30T02:53:38.219Z"
+generated_at: "2026-11-23T20:25:52.012Z"
+status: "active"
 ---
 
 # § 6125. Selected acquisition reports 1 1 So in original. Probably should be “Selected Acquisition Reports”. and independent cost estimates and reviews of certain programs and facilities
@@ -32,3 +33,13 @@ generated_at: "2026-03-30T02:53:38.219Z"
     - **(B)** in the case of a nuclear facility, such facility achieves critical decision 1 as specified in subparagraph (A)(v) of such paragraph.
   - **(5)** Each independent cost estimate or independent cost review submitted under this subsection shall be submitted in unclassified form, but may include a classified annex if necessary.
 - **(c)** Upon the request of the Administrator, the Secretary of Defense, acting through the Director of Cost Assessment and Program Evaluation and in consultation with the Administrator, may conduct an independent cost assessment of any initiative or program of the Administration that is estimated to cost more than $500,000,000.
+
+Selected Acquisition Reports
+
+Independent Cost Estimates and Reviews
+
+Authority for Further Assessments
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2)(B), Dec. 18, 2025, [139 Stat. 1360](https://www.govinfo.gov/link/statute/139/1360), 1462.)*

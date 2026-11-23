@@ -3,9 +3,10 @@ title: "Section 15503 - Authority and criteria: rates, classifications, rules, a
 usc_title: 49
 usc_section: "15503"
 chapter: 155
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 15503"
-generated_at: "2026-03-30T02:56:19.333Z"
+generated_at: "2026-11-23T20:27:34.768Z"
+status: "active"
 ---
 
 # § 15503. Authority and criteria: rates, classifications, rules, and practices prescribed by Board
@@ -16,3 +17,13 @@ generated_at: "2026-03-30T02:56:19.333Z"
   - **(2)** the need for revenues that are sufficient, under honest, economical, and efficient management, to let the carrier provide that transportation or service; and
   - **(3)** the availability of other economic transportation alternatives.
 - **(c)** The Board may begin a proceeding under this section on complaint. A complaint under this section must contain a full statement of the facts and the reasons for the complaint and must be made under oath.
+
+In General
+
+Factors To Consider
+
+Proceeding
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 106(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 924](https://www.govinfo.gov/link/statute/109/924).)*

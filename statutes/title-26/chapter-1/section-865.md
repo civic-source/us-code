@@ -3,9 +3,10 @@ title: "Section 865 - Source rules for personal property sales"
 usc_title: 26
 usc_section: "865"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 865"
-generated_at: "2026-03-30T02:55:27.739Z"
+generated_at: "2026-11-23T20:26:45.931Z"
+status: "active"
 ---
 
 # § 865. Source rules for personal property sales
@@ -88,3 +89,11 @@ generated_at: "2026-03-30T02:55:27.739Z"
 - **(k)**
   - **(1)** For provisions relating to the characterization as dividends for source purposes of gains from the sale of stock in certain foreign corporations, see section 1248.
   - **(2)** For sourcing of income from certain foreign currency transactions, see section 988.
+
+In general
+
+Special rule for foreign persons
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title XII, § 1211(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2533](https://www.govinfo.gov/link/statute/100/2533); amended [Pub. L. 100–647, title I, § 1012(d)(1)](https://www.govinfo.gov/link/plaw/100/public/647) –(6), (8), (9), (11), (12), Nov. 10, 1988, [102 Stat. 3497–3499](https://www.govinfo.gov/link/statute/102/3497); [Pub. L. 101–508, title XI, § 11813(b)(18)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–555](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–66, title XIII, § 13239(c)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 509](https://www.govinfo.gov/link/statute/107/509); [Pub. L. 104–188, title I, § 1704(f)(4)(A)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1880](https://www.govinfo.gov/link/statute/110/1880); [Pub. L. 106–170, title V, § 532(c)(1)(E)](https://www.govinfo.gov/link/plaw/106/public/170), Dec. 17, 1999, [113 Stat. 1930](https://www.govinfo.gov/link/statute/113/1930); [Pub. L. 115–97, title I, § 14301(c)(6)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2222](https://www.govinfo.gov/link/statute/131/2222); [Pub. L. 115–141, div. U, title IV, § 401(d)(1)(D)(xi)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1208](https://www.govinfo.gov/link/statute/132/1208).)*

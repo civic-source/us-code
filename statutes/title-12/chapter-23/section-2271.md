@@ -3,9 +3,10 @@ title: "Section 2271 - Definitions"
 usc_title: 12
 usc_section: "2271"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 2271"
-generated_at: "2026-03-30T02:53:53.478Z"
+generated_at: "2026-11-23T20:25:59.261Z"
+status: "active"
 ---
 
 # § 2271. Definitions
@@ -25,3 +26,7 @@ As used in this part—
   - **(5)** the term “unsafe or unsound practice” shall—
     - **(A)** have the meaning given to it by the Farm Credit Administration by regulation, rule, or order; and
     - **(B)** mean any significant noncompliance by a System institution (as determined by the Farm Credit Administration, in consultation with the Farm Credit System Insurance Corporation) with any term or condition imposed on the institution by the Farm Credit System Insurance Corporation under section 2277a–10 of this title .
+
+## Source Credit
+
+*([Pub. L. 92–181, title V, § 5](https://www.govinfo.gov/link/plaw/92/public/181).35, as added [Pub. L. 99–205, title II, § 204](https://www.govinfo.gov/link/plaw/99/public/205), Dec. 23, 1985, [99 Stat. 1701](https://www.govinfo.gov/link/statute/99/1701); amended [Pub. L. 100–233, title II](https://www.govinfo.gov/link/plaw/100/public/233), §§ 203, 207(d), Jan. 6, 1988, [101 Stat. 1605](https://www.govinfo.gov/link/statute/101/1605), 1608; [Pub. L. 102–237, title V, § 502(i)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1869](https://www.govinfo.gov/link/statute/105/1869); [Pub. L. 102–552, title II, § 202(b)](https://www.govinfo.gov/link/plaw/102/public/552), Oct. 28, 1992, [106 Stat. 4106](https://www.govinfo.gov/link/statute/106/4106); [Pub. L. 115–334, title V](https://www.govinfo.gov/link/plaw/115/public/334), §§ 5408, 5411(34), Dec. 20, 2018, [132 Stat. 4678](https://www.govinfo.gov/link/statute/132/4678), 4683.)*

@@ -3,9 +3,10 @@ title: "Section 401 - General powers of the Postal Service"
 usc_title: 39
 usc_section: "401"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "39 U.S.C. § 401"
-generated_at: "2026-03-30T02:55:43.686Z"
+generated_at: "2026-11-23T20:26:57.706Z"
+status: "active"
 ---
 
 # § 401. General powers of the Postal Service
@@ -22,3 +23,7 @@ Subject to the provisions of section 404a, the Postal Service shall have the fol
   - **(8)** to settle and compromise claims by or against it;
   - **(9)** to exercise, in the name of the United States, the right of eminent domain for the furtherance of its official purposes; and to have the priority of the United States with respect to the payment of debts out of bankrupt, insolvent, and decedents’ estates; and
   - **(10)** to have all other powers incidental, necessary, or appropriate to the carrying on of its functions or the exercise of its specific powers.
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 722](https://www.govinfo.gov/link/statute/84/722); [Pub. L. 109–435, title IV, § 403(b)(1)](https://www.govinfo.gov/link/plaw/109/public/435), title V, § 504, Dec. 20, 2006, [120 Stat. 3227](https://www.govinfo.gov/link/statute/120/3227), 3235.)*

@@ -3,9 +3,10 @@ title: "Section 4552 - Definitions"
 usc_title: 50
 usc_section: "4552"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4552"
-generated_at: "2026-03-30T02:56:26.275Z"
+generated_at: "2026-11-23T20:27:31.111Z"
+status: "active"
 ---
 
 # § 4552. Definitions
@@ -51,3 +52,15 @@ For purposes of this chapter, the following definitions shall apply:
     - **(C)** the movement of individuals and property by all modes of civil transportation; or
     - **(D)** other national defense programs and activities.
   - **(17)** The term “small business concern” means a business concern that meets the requirements of section 632(a) of title 15 and the regulations promulgated pursuant to that section, and includes such business concerns owned and controlled by socially and economically disadvantaged individuals or by women.
+
+(aa) the United States or Canada; or
+
+(bb) subject to clause (ii), Australia or the United Kingdom; and
+
+(aa) a defense article, as defined in section 301 of title 10 ; or
+
+(bb) materials critical to national security, as defined in section 98h–1(f) of this title .
+
+## Source Credit
+
+*(Sept. 8, 1950, ch. 932, title VII, § 702, [64 Stat. 815](https://www.govinfo.gov/link/statute/64/815); June 30, 1953, ch. 171, § 8, [67 Stat. 130](https://www.govinfo.gov/link/statute/67/130); [Pub. L. 91–379, title I, § 102](https://www.govinfo.gov/link/plaw/91/public/379), Aug. 15, 1970, [84 Stat. 796](https://www.govinfo.gov/link/statute/84/796); [Pub. L. 102–558, title I, § 132](https://www.govinfo.gov/link/plaw/102/public/558), Oct. 28, 1992, [106 Stat. 4210](https://www.govinfo.gov/link/statute/106/4210); [Pub. L. 103–337, div. C, title XXXIV, § 3411(b)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 3110](https://www.govinfo.gov/link/statute/108/3110); [Pub. L. 108–195, § 5](https://www.govinfo.gov/link/plaw/108/public/195), Dec. 19, 2003, [117 Stat. 2893](https://www.govinfo.gov/link/statute/117/2893); [Pub. L. 111–67, § 8](https://www.govinfo.gov/link/plaw/111/public/67), Sept. 30, 2009, [123 Stat. 2017](https://www.govinfo.gov/link/statute/123/2017); [Pub. L. 118–31, div. A, title X, § 1080(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 415](https://www.govinfo.gov/link/statute/137/415).)*

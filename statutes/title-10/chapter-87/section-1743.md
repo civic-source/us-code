@@ -3,9 +3,10 @@ title: "Section 1743 - Awards to recognize members of the acquisition workforce"
 usc_title: 10
 usc_section: "1743"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1743"
-generated_at: "2026-03-30T02:53:38.136Z"
+generated_at: "2026-11-23T20:25:51.417Z"
+status: "active"
 ---
 
 # § 1743. Awards to recognize members of the acquisition workforce
@@ -33,3 +34,25 @@ generated_at: "2026-03-30T02:53:38.136Z"
   - **(6)** innovative contractor incentive practices; or
   - **(7)** other innovative implementations of acquisition flexibilities.
 - **(e)** The Secretary of Defense shall use funds from the Defense Acquisition Workforce Development Account to carry out this section.
+
+Establishment
+
+Number of Awards.—
+
+In general
+
+Limitation
+
+Requirements for Writing Award.—
+
+Submission required
+
+Website
+
+Requirements for Flexibility Award
+
+Funding
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. A, title VIII, § 801(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2692](https://www.govinfo.gov/link/statute/136/2692).)*

@@ -3,9 +3,10 @@ title: "Section 681a - Cyber incident review"
 usc_title: 6
 usc_section: "681a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 681a"
-generated_at: "2026-03-30T02:53:09.497Z"
+generated_at: "2026-11-23T20:25:34.849Z"
+status: "active"
 ---
 
 # § 681a. Cyber incident review
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:53:09.497Z"
     - **(B)** intelligence gaps that have impeded, or currently are impeding, the ability to counter covered cyber incidents and ransomware threats;
   - **(3)** include a summary of the known uses of the information in reports submitted under sections 681b and 681c of this title; and
   - **(4)** include an unclassified portion, but may include a classified component.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XXII, § 2241](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 117–103, div. Y, § 103(a)(2)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 1040](https://www.govinfo.gov/link/statute/136/1040).)*

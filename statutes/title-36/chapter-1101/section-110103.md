@@ -3,9 +3,10 @@ title: "Section 110103 - Purposes"
 usc_title: 36
 usc_section: "110103"
 chapter: 1101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 110103"
-generated_at: "2026-03-30T02:55:44.700Z"
+generated_at: "2026-11-23T20:26:58.932Z"
+status: "active"
 ---
 
 # § 110103. Purposes
@@ -25,3 +26,22 @@ The purposes of the corporation are as provided in its articles of incorporation
   - **(11)** promote sound minds and bodies in members of the corporation and their youth;
   - **(12)** preserve the memories and records of patriotic service performed by the men and women of the Jewish faith and honor their memory; and
   - **(13)** shield from neglect the graves of our heroic dead.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 110103 | 36:2703. | Aug. 21, 1984 , Pub. L. 98–391, § 3 , 98 Stat. 1358 . |
+
+
+Historical and Revision Notes
+
+110103
+
+Aug. 21, 1984
+
+Pub. L. 98–391, § 3
+
+98 Stat. 1358
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1367](https://www.govinfo.gov/link/statute/112/1367).)*

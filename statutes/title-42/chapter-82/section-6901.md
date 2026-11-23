@@ -3,9 +3,10 @@ title: "Section 6901 - Congressional findings"
 usc_title: 42
 usc_section: "6901"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6901"
-generated_at: "2026-03-30T02:56:11.268Z"
+generated_at: "2026-11-23T20:27:22.721Z"
+status: "active"
 ---
 
 # § 6901. Congressional findings
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:11.268Z"
   - **(1)** solid waste represents a potential source of solid fuel, oil, or gas that can be converted into energy;
   - **(2)** the need exists to develop alternative energy sources for public and private consumption in order to reduce our dependence on such sources as petroleum products, natural gas, nuclear and hydroelectric generation; and
   - **(3)** technology exists to produce usable energy from solid waste.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 1002](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 94–580, § 2](https://www.govinfo.gov/link/plaw/94/public/580), Oct. 21, 1976, [90 Stat. 2796](https://www.govinfo.gov/link/statute/90/2796); amended [Pub. L. 95–609, § 7(a)](https://www.govinfo.gov/link/plaw/95/public/609), Nov. 8, 1978, [92 Stat. 3081](https://www.govinfo.gov/link/statute/92/3081); [Pub. L. 98–616, title I, § 101(a)](https://www.govinfo.gov/link/plaw/98/public/616), Nov. 8, 1984, [98 Stat. 3224](https://www.govinfo.gov/link/statute/98/3224).)*

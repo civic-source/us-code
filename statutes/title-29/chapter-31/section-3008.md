@@ -3,9 +3,10 @@ title: "Section 3008 - Authorization of appropriations; reservations and distrib
 usc_title: 29
 usc_section: "3008"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3008"
-generated_at: "2026-03-30T02:55:18.747Z"
+generated_at: "2026-11-23T20:26:38.082Z"
+status: "active"
 ---
 
 # § 3008. Authorization of appropriations; reservations and distribution of funds
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:18.747Z"
     - **(A)** the excess amount made available; or
     - **(B)** $2,000,000; and
   - **(2)** make the reservation under paragraph (1) before carrying out subsection (b).
+
+## Source Credit
+
+*([Pub. L. 105–394, § 9](https://www.govinfo.gov/link/plaw/105/public/394), as added [Pub. L. 117–263, div. E, title LIV, § 5402](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3289](https://www.govinfo.gov/link/statute/136/3289).)*

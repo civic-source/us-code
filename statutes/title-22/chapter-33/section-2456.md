@@ -3,9 +3,10 @@ title: "Section 2456 - J. William Fulbright Foreign Scholarship Board"
 usc_title: 22
 usc_section: "2456"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2456"
-generated_at: "2026-03-30T02:55:05.369Z"
+generated_at: "2026-11-23T20:26:32.306Z"
+status: "active"
 ---
 
 # § 2456. J. William Fulbright Foreign Scholarship Board
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.369Z"
 - **(d)** The President is authorized to create such interagency and other advisory committees as in his judgment may be of assistance in carrying out the purposes of this chapter, and from time to time to convene conferences of persons interested in educational and cultural affairs to consider matters relating to the purposes of this chapter.
 - **(e)** The provisions of section 1346(b) of title 31 shall be applicable to any interagency committee created pursuant to the provisions of this chapter. Members of the committees provided for in this section shall be entitled (i) to transportation expenses and per diem in lieu of subsistence at the rate prescribed by or established pursuant to section 5703 of title 5 while away from home in connection with attendance at meetings or in consultation with officials of the Government or otherwise carrying out duties as authorized, and (ii) if not otherwise in the employ of the United States Government, to compensation at rates not in excess of $50 per diem while performing services for such committees. Members of the Board shall be entitled to such expenses and per diem in lieu of subsistence as provided for under clause (i) of the preceding sentence and, while performing services for the Board, to compensation at a rate, prescribed by the Director of the United States Information Agency, not in excess of the daily rate for the first step of GS–15 of the General Schedule under section 5332 of title 5 .
 - **(f)** The President is authorized to provide for necessary secretarial and staff assistance for the Board and such committees as may be created under this section.
+
+## Source Credit
+
+*([Pub. L. 87–256, § 106](https://www.govinfo.gov/link/plaw/87/public/256), Sept. 21, 1961, [75 Stat. 532](https://www.govinfo.gov/link/statute/75/532); 1977 Reorg. Plan No. 2, §§ 8(b), 9(a)(3), (6), 42 F.R. 62461, [91 Stat. 1638](https://www.govinfo.gov/link/statute/91/1638), 1639; [Pub. L. 96–60, title II, § 205(a)](https://www.govinfo.gov/link/plaw/96/public/60), Aug. 15, 1979, [93 Stat. 401](https://www.govinfo.gov/link/statute/93/401); [Pub. L. 96–88, title III, § 301(b)(2)](https://www.govinfo.gov/link/plaw/96/public/88), title V, § 507, Oct. 17, 1979, [93 Stat. 678](https://www.govinfo.gov/link/statute/93/678), 692; [Pub. L. 97–241, title III, § 303(b)](https://www.govinfo.gov/link/plaw/97/public/241), Aug. 24, 1982, [96 Stat. 291](https://www.govinfo.gov/link/statute/96/291); [Pub. L. 101–246, title II, § 204(a)(1)](https://www.govinfo.gov/link/plaw/101/public/246), Feb. 16, 1990, [104 Stat. 49](https://www.govinfo.gov/link/statute/104/49); [Pub. L. 102–54, § 13(h)(1)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 275](https://www.govinfo.gov/link/statute/105/275); [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XIII, § 1336(2), Oct. 21, 1998, [112 Stat. 2681–790](https://www.govinfo.gov/link/statute/112/2681).)*

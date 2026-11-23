@@ -3,9 +3,10 @@ title: "Section 2807 - Prohibition on restriction of installation of renewable f
 usc_title: 15
 usc_section: "2807"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2807"
-generated_at: "2026-03-30T02:54:08.184Z"
+generated_at: "2026-11-23T20:26:04.256Z"
+status: "active"
 ---
 
 # § 2807. Prohibition on restriction of installation of renewable fuel pumps
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:08.184Z"
     - **(G)** allowing for payment of renewable fuel with a credit card,
   - **(2)** Nothing in this section shall be construed to preclude a franchisor from requiring the franchisee to obtain reasonable indemnification and insurance policies.
 - **(c)** No franchise-related document that requires that 3 grades of gasoline be sold by the applicable franchisee shall prevent the franchisee from selling a renewable fuel in lieu of 1, and only 1, grade of gasoline.
+
+## Source Credit
+
+*([Pub. L. 95–297, title I, § 107](https://www.govinfo.gov/link/plaw/95/public/297), as added [Pub. L. 110–140, title II, § 241(a)](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1538](https://www.govinfo.gov/link/statute/121/1538).)*

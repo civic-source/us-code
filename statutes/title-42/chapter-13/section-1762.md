@@ -3,9 +3,10 @@ title: "Section 1762 - Summer electronic benefits transfer for children program"
 usc_title: 42
 usc_section: "1762"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1762"
-generated_at: "2026-03-30T02:56:11.112Z"
+generated_at: "2026-11-23T20:27:21.869Z"
+status: "active"
 ---
 
 # § 1762. Summer electronic benefits transfer for children program
@@ -74,3 +75,7 @@ generated_at: "2026-03-30T02:56:11.112Z"
     - **(B)** includes foods not described in subparagraph (A) substituted by State agencies, with the approval of the Secretary, that—
       - **(i)** provide the nutritional equivalent of foods described in such subparagraph; and
       - **(ii)** allow for different cultural eating patterns than foods described in such subparagraph.
+
+## Source Credit
+
+*(June 4, 1946, ch. 281, § 13A, as added [Pub. L. 117–328, div. HH, title IV, § 502(c)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5990](https://www.govinfo.gov/link/statute/136/5990).)*

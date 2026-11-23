@@ -3,9 +3,10 @@ title: "Section 8202 - Definitions"
 usc_title: 16
 usc_section: "8202"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 8202"
-generated_at: "2026-03-30T02:54:23.082Z"
+generated_at: "2026-11-23T20:26:20.869Z"
+status: "active"
 ---
 
 # § 8202. Definitions
@@ -33,3 +34,7 @@ In this chapter:
   - **(12)** The term “State agency” means—
     - **(A)** the fish and wildlife agency of a State; and
     - **(B)** any department or division of a department or agency of a State that manages in the public trust the inland or marine fishery resources of the State or sustains the habitat for those fishery resources pursuant to State law or the constitution of the State.
+
+## Source Credit
+
+*([Pub. L. 116–188, title II, § 202](https://www.govinfo.gov/link/plaw/116/public/188), Oct. 30, 2020, [134 Stat. 925](https://www.govinfo.gov/link/statute/134/925).)*

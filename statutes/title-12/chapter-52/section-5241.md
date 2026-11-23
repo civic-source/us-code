@@ -3,9 +3,10 @@ title: "Section 5241 - Temporary increase in deposit and share insurance coverag
 usc_title: 12
 usc_section: "5241"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5241"
-generated_at: "2026-03-30T02:53:53.527Z"
+generated_at: "2026-11-23T20:25:59.460Z"
+status: "active"
 ---
 
 # § 5241. Temporary increase in deposit and share insurance coverage
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:53.527Z"
   - **(1)** Effective only during the period beginning on October 3, 2008 , and ending on December 31, 2013 , section 207(k)(5) 1 1 See References in Text note below. of the Federal Credit Union Act ( 12 U.S.C. 1787(k)(5) ) shall apply with “$250,000” substituted for “$100,000”.
   - **(2)** During the period beginning on October 3, 2008 , and ending on December 31, 2013 , the National Credit Union Administration Board may request from the Secretary, and the Secretary shall approve, a loan or loans in an amount or amounts necessary to carry out this subsection, without regard to the limitations on such borrowing under section 203(d)(1) of the Federal Credit Union Act ( 12 U.S.C. 1783(d)(1) ).
 - **(c)** The temporary increase in the standard maximum deposit insurance amount made under this section shall not be used to make any inflation adjustment under section 11(a)(1)(F) of the Federal Deposit Insurance Act ( 12 U.S.C. 1821(a)(1)(F) ) for purposes of that Act [ 12 U.S.C. 1811 et seq.] or the Federal Credit Union Act [ 12 U.S.C. 1751 et seq.].
+
+## Source Credit
+
+*([Pub. L. 110–343, div. A, title I, § 136](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3799](https://www.govinfo.gov/link/statute/122/3799); [Pub. L. 111–22, div. A, title II, § 204(a)](https://www.govinfo.gov/link/plaw/111/public/22), May 20, 2009, [123 Stat. 1648](https://www.govinfo.gov/link/statute/123/1648).)*

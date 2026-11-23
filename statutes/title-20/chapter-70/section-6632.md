@@ -3,9 +3,10 @@ title: "Section 6632 - Teacher and school leader incentive fund grants"
 usc_title: 20
 usc_section: "6632"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 6632"
-generated_at: "2026-03-30T02:54:48.201Z"
+generated_at: "2026-11-23T20:26:14.854Z"
+status: "active"
 ---
 
 # § 6632. Teacher and school leader incentive fund grants
@@ -56,3 +57,11 @@ generated_at: "2026-03-30T02:54:48.201Z"
     - **(F)** Instituting career advancement opportunities characterized by increased responsibility and pay that reward and recognize effective teachers, principals, or other school leaders in high-need schools and enable them to expand their leadership and results, such as through teacher-led professional development, mentoring, coaching, hybrid roles, administrative duties, and career ladders.
 - **(f)** Each eligible entity that receives a grant under this subpart shall provide, from non-Federal sources, an amount equal to 50 percent of the amount of the grant (which may be provided in cash or in kind) to carry out the activities supported by the grant.
 - **(g)** Grant funds provided under this subpart shall be used to supplement, not supplant, other Federal or State funds available to carry out activities described in this subpart.
+
+(aa) high-need schools; or
+
+(bb) high-need subjects;
+
+## Source Credit
+
+*([Pub. L. 89–10, title II, § 2212](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title II, § 2002](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1932](https://www.govinfo.gov/link/statute/129/1932).)*

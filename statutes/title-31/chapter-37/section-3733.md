@@ -3,9 +3,10 @@ title: "Section 3733 - Civil investigative demands"
 usc_title: 31
 usc_section: "3733"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 3733"
-generated_at: "2026-03-30T02:55:34.061Z"
+generated_at: "2026-11-23T20:26:51.818Z"
+status: "active"
 ---
 
 # § 3733. Civil investigative demands
@@ -117,3 +118,89 @@ generated_at: "2026-03-30T02:55:34.061Z"
     - **(B)** any digest, analysis, selection, compilation, or derivation of any item listed in subparagraph (A); and
     - **(C)** any index or other manner of access to any item listed in subparagraph (A); and
   - **(8)** the term “official use” means any use that is consistent with the law, and the regulations and policies of the Department of Justice, including use in connection with internal Department of Justice memoranda and reports; communications between the Department of Justice and a Federal, State, or local government agency, or a contractor of a Federal, State, or local government agency, undertaken in furtherance of a Department of Justice investigation or prosecution of a case; interviews of any qui tam relator or other witness; oral examinations; depositions; preparation for and response to civil discovery requests; introduction into the record of a case or proceeding; applications, motions, memoranda and briefs submitted to a court or other tribunal; and communications with Government investigators, auditors, consultants and experts, the counsel of other parties, arbitrators and mediators, concerning an investigation, case or proceeding.
+
+In General.—
+
+Issuance and service
+
+Contents and deadlines.—
+
+Protected Material or Information.—
+
+In general
+
+Effect on other orders, rules, and laws
+
+Service; Jurisdiction.—
+
+By whom served
+
+Service in foreign countries
+
+Service Upon Legal Entities and Natural Persons.—
+
+Legal entities
+
+Natural persons
+
+Proof of Service
+
+Documentary Material.—
+
+Sworn certificates
+
+Production of materials
+
+Interrogatories
+
+Oral Examinations.—
+
+Procedures
+
+Persons present
+
+Where testimony taken
+
+Transcript of testimony
+
+Certification and delivery to custodian
+
+Furnishing or inspection of transcript by witness
+
+Conduct of oral testimony
+
+Witness fees and allowances
+
+Custodians of Documents, Answers, and Transcripts.—
+
+Designation
+
+Responsibility for materials; disclosure
+
+Use of material, answers, or transcripts in other proceedings
+
+Conditions for return of material
+
+Appointment of successor custodians
+
+Judicial Proceedings.—
+
+Petition for enforcement
+
+Petition to modify or set aside demand
+
+Petition to modify or set aside demand for product of discovery
+
+Petition to require performance by custodian of duties
+
+Jurisdiction
+
+Applicability of federal rules of civil procedure
+
+Disclosure Exemption
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 99–562, § 6(a)](https://www.govinfo.gov/link/plaw/99/public/562), Oct. 27, 1986, [100 Stat. 3159](https://www.govinfo.gov/link/statute/100/3159); amended [Pub. L. 111–21, § 4(c)](https://www.govinfo.gov/link/plaw/111/public/21), May 20, 2009, [123 Stat. 1623](https://www.govinfo.gov/link/statute/123/1623).)*

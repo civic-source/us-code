@@ -3,9 +3,10 @@ title: "Section 5353 - Information collection and dissemination with respect to 
 usc_title: 31
 usc_section: "5353"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 5353"
-generated_at: "2026-03-30T02:55:34.071Z"
+generated_at: "2026-11-23T20:26:51.887Z"
+status: "active"
 ---
 
 # § 5353. Information collection and dissemination with respect to grant recipients
@@ -19,3 +20,15 @@ generated_at: "2026-03-30T02:55:34.071Z"
   - **(3)** disseminate information described in this subsection to—
     - **(A)** eligible State local law enforcement agencies or prosecutors; and
     - **(B)** the general public.
+
+Applicant and Grantee Information.—
+
+Application process
+
+Reporting
+
+Activities of Secretary
+
+## Source Credit
+
+*(Added [Pub. L. 105–310, § 2(a)](https://www.govinfo.gov/link/plaw/105/public/310), Oct. 30, 1998, [112 Stat. 2948](https://www.govinfo.gov/link/statute/112/2948).)*

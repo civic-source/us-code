@@ -3,9 +3,10 @@ title: "Section 44715 - Controlling aircraft noise and sonic boom"
 usc_title: 49
 usc_section: "44715"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44715"
-generated_at: "2026-03-30T02:56:19.385Z"
+generated_at: "2026-11-23T20:27:35.179Z"
+status: "active"
 ---
 
 # § 44715. Controlling aircraft noise and sonic boom
@@ -41,3 +42,102 @@ generated_at: "2026-03-30T02:56:19.385Z"
     - **(D)** be published in the Federal Register unless the request proposes specific action by the Administrator of the Federal Aviation Administration and the report indicates that action will be taken.
 - **(e)** The Administrator of the Environmental Protection Agency may request the Administrator of the Federal Aviation Administration to file a supplemental report if the report under subsection (d) of this section indicates that the proposed regulations under subsection (c) of this section, for which a statement under section 102(2)(C) of the Act ( 42 U.S.C. 4332(2)(C) ) is not required, should not be prescribed. The supplemental report shall be published in the Federal Register within the time the Administrator of the Environmental Protection Agency specifies. However, the time specified must be at least 90 days after the date of the request. The supplemental report shall contain a comparison of the environmental effects, including those that cannot be avoided, of the action of the Administrator of the Federal Aviation Administration and the proposed regulations of the Administrator of the Environmental Protection Agency.
 - **(f)** An exemption from a standard or regulation prescribed under this section may be granted only if, before granting the exemption, the Administrator of the Federal Aviation Administration consults with the Administrator of the Environmental Protection Agency. However, if the Administrator of the Federal Aviation Administration finds that safety in air transportation or air commerce requires an exemption before the Administrator of the Environmental Protection Agency can be consulted, the exemption may be granted. The Administrator of the Federal Aviation Administration shall consult with the Administrator of the Environmental Protection Agency as soon as practicable after the exemption is granted.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 44715(a)(1), (2) | 49 App.:1431(a), (b)(1) (1st sentence). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 611(a), (b), (d); added July 21, 1968 , Pub. L. 90–411, § 1 , 82 Stat. 395 ; restated Oct. 27, 1972 , Pub. L. 92–574, § 7(b) , 86 Stat. 1239 , 1241. |
+| 44715(a)(3) | 49 App.:1431(b)(2). |  |
+| 44715(b) | 49 App.:1431(d). |  |
+| 44715(c) | 49 App.:1431(c)(1). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 611(c); added July 21, 1968 , Pub. L. 90–411, § 1 , 82 Stat. 395 ; restated Oct. 27, 1972 , Pub. L. 92–574, § 7(b) , 86 Stat. 1240 ; Nov. 8, 1978 , Pub. L. 95–609, § 3 , 92 Stat. 3080 . |
+| 44715(d) | 49 App.:1431(c)(2). |  |
+| 44715(e) | 49 App.:1431(c)(3). |  |
+| 44715(f) | 49 App.:1431(b)(1) (last sentence). |  |
+
+
+Standards and Regulations
+
+Considerations and Consultation
+
+Proposed Regulations of Administrator of Environmental Protection Agency
+
+Consultation and Reports
+
+Supplemental Reports
+
+Exemptions
+
+Historical and Revision Notes
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+July 21, 1968
+
+Pub. L. 90–411, § 1
+
+82 Stat. 395
+
+Oct. 27, 1972
+
+Pub. L. 92–574, § 7(b)
+
+86 Stat. 1239
+
+44715(a)(3)
+
+44715(b)
+
+44715(c)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+July 21, 1968
+
+Pub. L. 90–411, § 1
+
+82 Stat. 395
+
+Oct. 27, 1972
+
+Pub. L. 92–574, § 7(b)
+
+86 Stat. 1240
+
+Nov. 8, 1978
+
+Pub. L. 95–609, § 3
+
+92 Stat. 3080
+
+44715(d)
+
+44715(e)
+
+44715(f)
+
+Participation
+
+Rulemaking
+
+Considerations
+
+Authorities
+
+Rule of Construction
+
+Definitions
+
+Commercial air tour
+
+Commercial air tour operator
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1196](https://www.govinfo.gov/link/statute/108/1196); [Pub. L. 104–264, title IV, § 406(a)](https://www.govinfo.gov/link/plaw/104/public/264), Oct. 9, 1996, [110 Stat. 3257](https://www.govinfo.gov/link/statute/110/3257).)*

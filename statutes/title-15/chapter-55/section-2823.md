@@ -3,9 +3,10 @@ title: "Section 2823 - Administration and enforcement provisions"
 usc_title: 15
 usc_section: "2823"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2823"
-generated_at: "2026-03-30T02:54:08.184Z"
+generated_at: "2026-11-23T20:26:04.257Z"
+status: "active"
 ---
 
 # § 2823. Administration and enforcement provisions
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:54:08.184Z"
   - **(2)** Rules prescribed under subsection (c)(3) and section 2822(d) of this title shall be prescribed on the record after opportunity for an agency hearing.
   - **(3)** Section 18 of the Federal Trade Commission Act ( 15 U.S.C. 57a ) shall not apply with respect to any rule prescribed under this subchapter.
 - **(e)** It shall be an unfair or deceptive act or practice in or affecting commerce (within the meaning of section 5(a)(1) of the Federal Trade Commission Act [ 15 U.S.C. 45(a)(1) ]) for any person to violate subsection (a), (b), (c), or (e) of section 2822 of this title , or a rule prescribed under subsection (d) of section 2822 of this title . For purposes of the Federal Trade Commission Act [ 15 U.S.C. 41 et seq.] (including any remedy or penalty applicable to any violation thereof) such a violation shall be treated as a violation of a rule under such Act respecting unfair or deceptive acts or practices.
+
+## Source Credit
+
+*([Pub. L. 95–297, title II, § 203](https://www.govinfo.gov/link/plaw/95/public/297), June 19, 1978, [92 Stat. 335](https://www.govinfo.gov/link/statute/92/335); [Pub. L. 102–486, title XV](https://www.govinfo.gov/link/plaw/102/public/486), §§ 1501(c)(3), 1502(b), (c), Oct. 24, 1992, [106 Stat. 2997](https://www.govinfo.gov/link/statute/106/2997), 2998.)*

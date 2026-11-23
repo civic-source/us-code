@@ -3,9 +3,10 @@ title: "Section 2656b - Congressional declaration of policy regarding consequenc
 usc_title: 22
 usc_section: "2656b"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2656b"
-generated_at: "2026-03-30T02:55:05.375Z"
+generated_at: "2026-11-23T20:26:32.357Z"
+status: "active"
 ---
 
 # § 2656b. Congressional declaration of policy regarding consequences of science and technology on conduct of foreign policy
@@ -19,3 +20,7 @@ In order to maximize the benefits and to minimize the adverse consequences of sc
   - **(5)** Federally supported international science and technology agreements should be negotiated to ensure that—
     - **(A)** intellectual property rights are properly protected; and
     - **(B)** access to research and development opportunities and facilities, and the flow of scientific and technological information, are, to the maximum extent practicable, equitable and reciprocal.
+
+## Source Credit
+
+*([Pub. L. 95–426, title V, § 502](https://www.govinfo.gov/link/plaw/95/public/426), Oct. 7, 1978, [92 Stat. 982](https://www.govinfo.gov/link/statute/92/982); [Pub. L. 100–418, title V, § 5171(a)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1452](https://www.govinfo.gov/link/statute/102/1452).)*

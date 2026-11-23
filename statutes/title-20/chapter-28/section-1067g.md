@@ -3,9 +3,10 @@ title: "Section 1067g - Eligibility for grants"
 usc_title: 20
 usc_section: "1067g"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1067g"
-generated_at: "2026-03-30T02:54:48.103Z"
+generated_at: "2026-11-23T20:26:14.353Z"
+status: "active"
 ---
 
 # § 1067g. Eligibility for grants
@@ -34,3 +35,7 @@ Eligibility to receive grants under this part is limited to—
     - **(A)** at least one institution of higher education eligible for assistance under this subchapter or subchapter V;
     - **(B)** at least one high-need local educational agency (as defined in section 1021 of this title ); and
     - **(C)** at least two community organizations or entities, such as businesses, professional associations, community-based organizations, philanthropic organizations, or State agencies.
+
+## Source Credit
+
+*([Pub. L. 89–329, title III, § 361](https://www.govinfo.gov/link/plaw/89/public/329), formerly title X, § 1041, as added [Pub. L. 99–498, title X, § 1002](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1564](https://www.govinfo.gov/link/statute/100/1564); renumbered title III, § 361, and amended [Pub. L. 105–244, title III](https://www.govinfo.gov/link/plaw/105/public/244), §§ 301(a)(5), (7), (b), (c)(9), 307(b), Oct. 7, 1998, [112 Stat. 1636](https://www.govinfo.gov/link/statute/112/1636), 1637, 1648; [Pub. L. 110–315, title III, § 315(b)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3184](https://www.govinfo.gov/link/statute/122/3184).)*

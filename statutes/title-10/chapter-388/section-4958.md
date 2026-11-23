@@ -3,9 +3,10 @@ title: "Section 4958 - Authority to provide certain types of technical assistanc
 usc_title: 10
 usc_section: "4958"
 chapter: 388
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 4958"
-generated_at: "2026-03-30T02:53:38.216Z"
+generated_at: "2026-11-23T20:25:51.997Z"
+status: "active"
 ---
 
 # § 4958. Authority to provide certain types of technical assistance
@@ -21,3 +22,13 @@ generated_at: "2026-03-30T02:53:38.216Z"
 - **(d)** The Under Secretary of Defense for Acquisition and Sustainment may—
   - **(1)** provide assistance to an eligible entity that is a center of excellence for the APEX Accelerator Program of the Department of Defense (or a successor program) to provide specialized expertise to business entities outside of the geographic area served by the center of excellence; and
   - **(2)** may waive the government cost share restriction in accordance with section 4954(f) of this chapter.
+
+Assistance Relating to Certain Non-defense Contracts
+
+Information Relating to Assistance and Other Programs Available
+
+Education on Requirements Applicable to Small Businesses Under Certain Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 102–484, div. D, title XLII, § 4236(a)(1)(B)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2691](https://www.govinfo.gov/link/statute/106/2691), § 2418; amended [Pub. L. 113–291, div. A, title VIII, § 823(b)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3436](https://www.govinfo.gov/link/statute/128/3436); [Pub. L. 115–91, div. A, title XVII, § 1708](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1809](https://www.govinfo.gov/link/statute/131/1809); renumbered § 4958 and amended [Pub. L. 116–283, div. A, title XVIII, § 1872(a)(9)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4289](https://www.govinfo.gov/link/statute/134/4289); [Pub. L. 117–81, div. A, title XVII, § 1701(b)(24)](https://www.govinfo.gov/link/plaw/117/public/81), (m)(2)(E), Dec. 27, 2021, [135 Stat. 2135](https://www.govinfo.gov/link/statute/135/2135), 2145; [Pub. L. 118–31, div. A, title VIII, § 853(c)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 344](https://www.govinfo.gov/link/statute/137/344); [Pub. L. 119–60, div. A, title VIII, § 861(d)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 989](https://www.govinfo.gov/link/statute/139/989).)*

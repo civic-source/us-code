@@ -3,9 +3,10 @@ title: "Section 9009 - Authorization of appropriations"
 usc_title: 42
 usc_section: "9009"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9009"
-generated_at: "2026-03-30T02:56:11.349Z"
+generated_at: "2026-11-23T20:27:23.070Z"
+status: "active"
 ---
 
 # § 9009. Authorization of appropriations
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.349Z"
 - **(b)** There is hereby authorized to be appropriated to carry out the purposes of this chapter the sum of $60,000,000 for operating expenses for the fiscal year ending September 30, 1982 .
 - **(c)** Funds are hereby authorized to be appropriated for fiscal year 1981 to carry out the purposes of section 9004 of this title for plant and capital equipment as follows: Project 81–ES–1, ocean thermal energy conversion demonstration plants with a combined capacity of at least one hundred megawatts electrical or the energy product equivalent, sites to be determined, conceptual and preliminary design activities only $5,000,000.
 - **(d)** Funds are hereby authorized to be appropriated for fiscal year 1982 to carry out the purposes of section 9004 of this title for plant and capital equipment as follows: Project 81–ES–1, ocean thermal energy conversion demonstration plants with a combined capacity of at least one hundred megawatts electrical or the energy product equivalent, sites to be determined, conceptual and preliminary design activities only $25,000,000.
+
+## Source Credit
+
+*([Pub. L. 96–310, § 10](https://www.govinfo.gov/link/plaw/96/public/310), July 17, 1980, [94 Stat. 946](https://www.govinfo.gov/link/statute/94/946).)*

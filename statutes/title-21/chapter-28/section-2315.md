@@ -3,9 +3,10 @@ title: "Section 2315 - Procedures for judicial review of classified information"
 usc_title: 21
 usc_section: "2315"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 2315"
-generated_at: "2026-03-30T02:54:54.311Z"
+generated_at: "2026-11-23T20:26:27.912Z"
+status: "active"
 ---
 
 # § 2315. Procedures for judicial review of classified information
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:54.311Z"
   - **(2)** to limit or restrict any other practice, procedure, right, remedy, or safeguard that—
     - **(A)** relates to the protection of classified information; and
     - **(B)** is available to the United States in connection with any type of administrative hearing, litigation, or other proceeding.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. F, title LXXII, § 7215](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2268](https://www.govinfo.gov/link/statute/133/2268).)*

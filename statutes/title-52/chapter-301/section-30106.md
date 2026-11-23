@@ -3,9 +3,10 @@ title: "Section 30106 - Federal Election Commission"
 usc_title: 52
 usc_section: "30106"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "52 U.S.C. § 30106"
-generated_at: "2026-03-30T02:56:30.170Z"
+generated_at: "2026-11-23T20:27:36.999Z"
+status: "active"
 ---
 
 # § 30106. Federal Election Commission
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:56:30.170Z"
   - **(2)** With the approval of the Commission, the staff director may procure temporary and intermittent services to the same extent as is authorized by section 3109(b) of title 5 , but at rates for individuals not to exceed the daily equivalent of the annual rate of basic pay in effect for grade GS–15 of the General Schedule ( 5 U.S.C. 5332 ).
   - **(3)** In carrying out its responsibilities under this Act, the Commission shall, to the fullest extent practicable, avail itself of the assistance, including personnel and facilities of other agencies and departments of the United States. The heads of such agencies and departments may make available to the Commission such personnel, facilities, and other assistance, with or without reimbursement, as the Commission may request.
   - **(4)** Notwithstanding the provisions of paragraph (2), the Commission is authorized to appear in and defend against any action instituted under this Act, either (A) by attorneys employed in its office, or (B) by counsel whom it may appoint, on a temporary basis as may be necessary for such purpose, without regard to the provisions of title 5 governing appointments in the competitive service, and whose compensation it may fix without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title. The compensation of counsel so appointed on a temporary basis shall be paid out of any funds otherwise available to pay the compensation of employees of the Commission.
+
+## Source Credit
+
+*([Pub. L. 92–225, title III, § 306](https://www.govinfo.gov/link/plaw/92/public/225), formerly § 310, as added [Pub. L. 93–443, title II, § 208(a)](https://www.govinfo.gov/link/plaw/93/public/443), Oct. 15, 1974, [88 Stat. 1280](https://www.govinfo.gov/link/statute/88/1280); renumbered § 309 and amended [Pub. L. 94–283, title I](https://www.govinfo.gov/link/plaw/94/public/283), §§ 101(a)–(d), 105, May 11, 1976, [90 Stat. 475](https://www.govinfo.gov/link/statute/90/475), 476, 481; renumbered § 306 and amended [Pub. L. 96–187, title I](https://www.govinfo.gov/link/plaw/96/public/187), §§ 105(3), (6), 112(b), Jan. 8, 1980, [93 Stat. 1354](https://www.govinfo.gov/link/statute/93/1354), 1366; [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 105–61, title V, § 512(a)](https://www.govinfo.gov/link/plaw/105/public/61), Oct. 10, 1997, [111 Stat. 1305](https://www.govinfo.gov/link/statute/111/1305).)*

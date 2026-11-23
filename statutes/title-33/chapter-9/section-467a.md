@@ -3,9 +3,10 @@ title: "Section 467a - Inspection of dams"
 usc_title: 33
 usc_section: "467a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 467a"
-generated_at: "2026-03-30T02:55:41.057Z"
+generated_at: "2026-11-23T20:26:53.825Z"
+status: "active"
 ---
 
 # § 467a. Inspection of dams
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:41.057Z"
 - **(b)** On request of a State dam safety agency, with respect to any dam the failure of which would affect the State, the head of a Federal agency shall—
   - **(1)** provide information to the State dam safety agency on the construction, operation, maintenance, condition, or provisions for emergency operations of the dam; or
   - **(2)** allow any official of the State dam safety agency to participate in the Federal inspection of the dam.
+
+## Source Credit
+
+*([Pub. L. 92–367, § 3](https://www.govinfo.gov/link/plaw/92/public/367), formerly § 2, Aug. 8, 1972, [86 Stat. 506](https://www.govinfo.gov/link/statute/86/506); [Pub. L. 95–91, title IV, § 402(a)(1)(A)](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 583](https://www.govinfo.gov/link/statute/91/583); renumbered § 3 and amended [Pub. L. 104–303, title II, § 215(c)(3)](https://www.govinfo.gov/link/plaw/104/public/303), (5), Oct. 12, 1996, [110 Stat. 3685](https://www.govinfo.gov/link/statute/110/3685), 3687; [Pub. L. 113–121, title III, § 3001(b)](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1282](https://www.govinfo.gov/link/statute/128/1282).)*

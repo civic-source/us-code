@@ -3,9 +3,10 @@ title: "Section 5502 - Missile Defense Agency"
 usc_title: 10
 usc_section: "5502"
 chapter: 551
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 5502"
-generated_at: "2026-03-30T02:53:38.217Z"
+generated_at: "2026-11-23T20:25:52.001Z"
+status: "active"
 ---
 
 # § 5502. Missile Defense Agency
@@ -34,3 +35,19 @@ generated_at: "2026-03-30T02:53:38.217Z"
     - **(A)** the memorandum of the Secretary of Defense titled “Missile Defense Program Direction” signed on January 2, 2002 , as in effect on the date of the enactment of this subsection or as modified in accordance with this subsection, or any successor memorandum issued in accordance with this subsection;
     - **(B)** Department of Defense Directive 5134.09, as in effect on the date of the enactment of this subsection (without regard to any modifications described in Directive-type Memorandum 20–002 of the Deputy Secretary of Defense, or any amendments or extensions thereto made before the date of such enactment), or as modified in accordance with this subsection, or any successor directive issued in accordance with this subsection; and
     - **(C)** United States Strategic Command Instruction 538–3 titled “MD Warfighter Involvement Process”, as in effect on the date of the enactment of this subsection or as modified in accordance with this subsection, or any successor instruction issued in accordance with this subsection.
+
+Appointment of Director
+
+Deputy Director
+
+Notification of Changes to Non-standard Acquisition and Requirements Processes and Responsibilities
+
+“Not later than May 31, 2024 , the Secretary of Defense shall—
+
+Authority of the Missile Defense Agency
+
+Prioritization
+
+## Source Credit
+
+*(Added [Pub. L. 118–159, div. A, title XVI, § 1649(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2187](https://www.govinfo.gov/link/statute/138/2187); amended [Pub. L. 119–60, div. A, title XVII, § 1701(a)(32)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1209](https://www.govinfo.gov/link/statute/139/1209).)*

@@ -3,9 +3,10 @@ title: "Section 10142 - Duties and functions of Director"
 usc_title: 34
 usc_section: "10142"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10142"
-generated_at: "2026-03-30T02:55:33.260Z"
+generated_at: "2026-11-23T20:26:50.432Z"
+status: "active"
 ---
 
 # § 10142. Duties and functions of Director
@@ -20,3 +21,7 @@ The Director shall have the following duties:
   - **(6)** Establishing and carrying on a specific and continuing program of cooperation with the States and units of local government designed to encourage and promote consultation and coordination concerning decisions made by the Bureau affecting State and local drug control and criminal justice priorities.
   - **(7)** Preparing recommendations on the State and local drug enforcement component of the National Drug Control Strategy which shall be submitted to the Associate Director of the Office on National Drug Control Policy. In making such recommendations, the Director shall review the statewide strategies submitted by such States under subchapter V, and shall obtain input from State and local drug enforcement officials. The recommendations made under this paragraph shall be provided at such time and in such form as the Director of National Drug Control Policy shall require.
   - **(8)** Exercising such other powers and functions as may be vested in the Director pursuant to this chapter or by delegation of the Attorney General or Assistant Attorney General.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 402](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 100–690, title VI, § 6091(a)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4328](https://www.govinfo.gov/link/statute/102/4328); amended [Pub. L. 101–647, title II, § 241(b)(1)](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4813](https://www.govinfo.gov/link/statute/104/4813).)*

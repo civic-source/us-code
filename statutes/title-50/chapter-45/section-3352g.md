@@ -3,9 +3,10 @@ title: "Section 3352g - Requirement to authorize additional security clearances 
 usc_title: 50
 usc_section: "3352g"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3352g"
-generated_at: "2026-03-30T02:56:26.247Z"
+generated_at: "2026-11-23T20:27:30.977Z"
+status: "active"
 ---
 
 # § 3352g. Requirement to authorize additional security clearances for certain contractors
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:56:26.247Z"
   - **(1)** No application for a security clearance may be submitted by a covered person of an entity or granted pursuant to the program established under subsection (c) in excess of the limitations under subsection (d) applicable to such entity.
   - **(2)** No head of an element of the intelligence community may bear any cost associated with granting or maintaining a security clearance the application for which is submitted pursuant to subsection (c)(1).
 - **(f)** Nothing in this section may be construed as requiring the head of an element of the intelligence community to grant any covered person access to classified information if a favorable determination of eligibility to access such classified information is not made with respect to such person.
+
+## Source Credit
+
+*([Pub. L. 118–31, div. G, title V, § 7505](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1084](https://www.govinfo.gov/link/statute/137/1084).)*

@@ -3,9 +3,10 @@ title: "Section 6372d - Applications for grants for technical assistance"
 usc_title: 42
 usc_section: "6372d"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6372d"
-generated_at: "2026-03-30T02:56:11.259Z"
+generated_at: "2026-11-23T20:27:22.673Z"
+status: "active"
 ---
 
 # § 6372d. Applications for grants for technical assistance
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.259Z"
 - **(b)** Applications for grants for technical assistance under this part shall contain or be accompanied by, such information as the Secretary may reasonably require, including the results of energy audits which comply with guidelines under this part. The annual submittal to the Secretary by the State energy agency under subsection (a) shall include a listing and description of technical assistance proposed to be funded under this part within the State during the fiscal year for which such application is made, and such information concerning expenditures as the Secretary may, by rule, require.
 - **(c)** The Secretary shall approve such applications submitted by a State energy agency as he determines to be in compliance with this section and the requirements of the applicable State plan approved under section 6372c of this title . The Secretary shall state the reasons for his disapproval in the case of any application which he disapproves. Any application not approved by the Secretary may be resubmitted by the applicant at any time in the same manner as the original application and the Secretary shall approve such resubmitted application as he determines to be in compliance with this section and the requirements of the State plan. Amendments of an application shall, except as the Secretary may otherwise provide be subject to approval in the same manner as the original application. All or any portions of an application under this section may be disapproved to the extent that funds are not available under this part.
 - **(d)** Whenever the Secretary after reasonable notice and opportunity for hearing to any unit of local government or public care institution receiving assistance under this part, finds that there has been a failure to comply substantially with the provisions set forth in the application approved under this section, the Secretary shall notify the unit of local government or public care institution that further assistance will not be made available to such unit of local government or public care institution under this part until he is satisfied that there is no longer any failure to comply. Until he is so satisfied, no further assistance shall be made to such unit of local government or public care institution under this part.
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 400E](https://www.govinfo.gov/link/plaw/94/public/163), as added [Pub. L. 95–619, title III, § 311(a)](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3252](https://www.govinfo.gov/link/statute/92/3252).)*

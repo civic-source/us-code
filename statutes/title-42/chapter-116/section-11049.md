@@ -3,9 +3,10 @@ title: "Section 11049 - Definitions"
 usc_title: 42
 usc_section: "11049"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11049"
-generated_at: "2026-03-30T02:56:11.395Z"
+generated_at: "2026-11-23T20:27:23.272Z"
+status: "active"
 ---
 
 # § 11049. Definitions
@@ -22,3 +23,7 @@ For purposes of this chapter—
   - **(8)** The term “release” means any spilling, leaking, pumping, pouring, emitting, emptying, discharging, injecting, escaping, leaching, dumping, or disposing into the environment (including the abandonment or discarding of barrels, containers, and other closed receptacles) of any hazardous chemical, extremely hazardous substance, or toxic chemical.
   - **(9)** The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, the Northern Mariana Islands, and any other territory or possession over which the United States has jurisdiction.
   - **(10)** The term “toxic chemical” means a substance on the list described in section 11023(c) of this title .
+
+## Source Credit
+
+*([Pub. L. 99–499, title III, § 329](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1757](https://www.govinfo.gov/link/statute/100/1757).)*

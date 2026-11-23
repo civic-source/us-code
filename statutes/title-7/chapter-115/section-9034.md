@@ -3,9 +3,10 @@ title: "Section 9034 - Repayment of loans"
 usc_title: 7
 usc_section: "9034"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 9034"
-generated_at: "2026-03-30T02:53:42.484Z"
+generated_at: "2026-11-23T20:25:41.939Z"
+status: "active"
 ---
 
 # § 9034. Repayment of loans
@@ -79,3 +80,7 @@ generated_at: "2026-03-30T02:53:42.484Z"
 - **(i)**
   - **(1)** In the event of a severe disruption to marketing, transportation, or related infrastructure, the Secretary may modify the repayment rate otherwise applicable under this section for marketing assistance loans under section 9031 of this title for a loan commodity.
   - **(2)** Any adjustment made under paragraph (1) in the repayment rate for marketing assistance loans for a loan commodity shall be in effect on a short-term and temporary basis, as determined by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 113–79, title I, § 1204](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 676](https://www.govinfo.gov/link/statute/128/676); [Pub. L. 115–334, title I](https://www.govinfo.gov/link/plaw/115/public/334), §§ 1201(b), 1202(b), Dec. 20, 2018, [132 Stat. 4509](https://www.govinfo.gov/link/statute/132/4509), 4510; [Pub. L. 119–21, title I](https://www.govinfo.gov/link/plaw/119/public/21), §§ 10309(c), 10310, July 4, 2025, [139 Stat. 94](https://www.govinfo.gov/link/statute/139/94).)*

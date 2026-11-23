@@ -3,9 +3,10 @@ title: "Section 7 - Report"
 usc_title: 21
 usc_section: "7"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 7"
-generated_at: "2026-03-30T02:54:54.262Z"
+generated_at: "2026-11-23T20:26:27.699Z"
+status: "active"
 ---
 
 # § 360fff–7. Report
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:54.262Z"
     - **(E)** a review of the progress made in meeting the deadlines with respect to processing requests under this part; and
     - **(F)** to the extent the Secretary determines appropriate, recommendations for process improvements in the handling of requests under this part, including the advisory committee review process.
 - **(b)** The Secretary shall publish the reports under subsection (a) in the manner the Secretary determines to be the most effective for efficiently disseminating the report, including publication of the report on the Internet website of the Food and Drug Administration.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 586G, as added [Pub. L. 113–195, § 4(c)](https://www.govinfo.gov/link/plaw/113/public/195), Nov. 26, 2014, [128 Stat. 2050](https://www.govinfo.gov/link/statute/128/2050).)*

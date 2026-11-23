@@ -3,9 +3,10 @@ title: "Section 8421 - Biking on long-distance trails"
 usc_title: 16
 usc_section: "8421"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 8421"
-generated_at: "2026-03-30T02:54:23.084Z"
+generated_at: "2026-11-23T20:26:20.879Z"
+status: "active"
 ---
 
 # § 8421. Biking on long-distance trails
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:54:23.084Z"
     - **(D)** does not include Federal recreational lands where mountain biking or related activities are not consistent with management requirements for those Federal recreational lands; and
     - **(E)** to the maximum extent practicable, makes use of trails and roads that were on Federal recreational lands on or before January 4, 2025 .
   - **(2)** The term “Secretaries” means the Secretary of the Interior and the Secretary of Agriculture, acting jointly.
+
+## Source Credit
+
+*([Pub. L. 118–234, title I, § 121](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2842](https://www.govinfo.gov/link/statute/138/2842).)*

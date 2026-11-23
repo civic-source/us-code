@@ -3,9 +3,10 @@ title: "Section 40505 - Powers"
 usc_title: 36
 usc_section: "40505"
 chapter: 405
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 40505"
-generated_at: "2026-03-30T02:55:44.696Z"
+generated_at: "2026-11-23T20:26:58.872Z"
+status: "active"
 ---
 
 # § 40505. Powers
@@ -21,3 +22,23 @@ The corporation may—
   - **(7)** borrow money, issue instruments of indebtedness, and secure its obligations by granting security interests in its property;
   - **(8)** sue and be sued; and
   - **(9)** do any other act necessary and proper to carry out the purposes of the corporation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 40505 | 36:794. | Aug. 14, 1958 , Pub. L. 85–642 , §§ 4, 16, 72 Stat. 598 , 601. |
+|  | 36:806. |  |
+
+
+Historical and Revision Notes
+
+40505
+
+Aug. 14, 1958
+
+Pub. L. 85–642
+
+72 Stat. 598
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1333](https://www.govinfo.gov/link/statute/112/1333).)*

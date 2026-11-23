@@ -3,9 +3,10 @@ title: "Section 860E - Treatment of income in excess of daily accruals on residu
 usc_title: 26
 usc_section: "860E"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 860E"
-generated_at: "2026-03-30T02:55:27.737Z"
+generated_at: "2026-11-23T20:26:45.919Z"
+status: "active"
 ---
 
 # § 860E. Treatment of income in excess of daily accruals on residual interests
@@ -68,3 +69,9 @@ generated_at: "2026-03-30T02:55:27.737Z"
     - **(B)** there is paid to the Secretary such amounts as the Secretary may require.
   - **(8)** For purposes of subtitle F, the taxes imposed by this subsection shall be treated as excise taxes with respect to which the deficiency procedures of such subtitle apply.
 - **(f)** Except as provided in regulations, with respect to any variable contract (as defined in section 817), there shall be no adjustment in the reserve to the extent of any excess inclusion.
+
+Exception for certain financial institutions
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title VI, § 671(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2311](https://www.govinfo.gov/link/statute/100/2311); amended [Pub. L. 100–647, title I, § 1006(t)(13)](https://www.govinfo.gov/link/plaw/100/public/647), (15), (16)(B), (17), (23), (26), (27), Nov. 10, 1988, [102 Stat. 3423](https://www.govinfo.gov/link/statute/102/3423), 3426, 3427; [Pub. L. 104–188, title I](https://www.govinfo.gov/link/plaw/104/public/188), §§ 1616(b)(10), 1704(h)(1), Aug. 20, 1996, [110 Stat. 1857](https://www.govinfo.gov/link/statute/110/1857), 1881; [Pub. L. 115–97, title I, § 13001(b)(1)(B)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2096](https://www.govinfo.gov/link/statute/131/2096); [Pub. L. 116–136, div. A, title II, § 2303(a)(2)(C)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 353](https://www.govinfo.gov/link/statute/134/353); [Pub. L. 117–169, title I, § 10101(a)(4)(B)(ii)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 1822](https://www.govinfo.gov/link/statute/136/1822).)*

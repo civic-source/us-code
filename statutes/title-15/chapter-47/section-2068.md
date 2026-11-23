@@ -3,9 +3,10 @@ title: "Section 2068 - Prohibited acts"
 usc_title: 15
 usc_section: "2068"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2068"
-generated_at: "2026-03-30T02:54:08.164Z"
+generated_at: "2026-11-23T20:26:04.161Z"
+status: "active"
 ---
 
 # § 2068. Prohibited acts
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:54:08.164Z"
     - **(B)** is subject to a voluntary corrective action taken by the manufacturer, in consultation with the Commission, of which action the Commission has notified the public; or
   - **(16)** violate an order of the Commission issued under section 2067(c) of this title .
 - **(b)** Paragraphs (1) and (2) of subsection (a) of this section shall not apply to any person (1) who holds a certificate issued in accordance with section 2063(a) of this title to the effect that such consumer product conforms to all applicable consumer product safety rules, unless such person knows that such consumer product does not conform, or (2) who relies in good faith on the representation of the manufacturer or a distributor of such product that the product is not subject to an applicable product safety rule.
+
+## Source Credit
+
+*([Pub. L. 92–573, § 19](https://www.govinfo.gov/link/plaw/92/public/573), Oct. 27, 1972, [86 Stat. 1224](https://www.govinfo.gov/link/statute/86/1224); [Pub. L. 94–284](https://www.govinfo.gov/link/plaw/94/public/284), §§ 12(b), 13(a), May 11, 1976, [90 Stat. 508](https://www.govinfo.gov/link/statute/90/508), 509; [Pub. L. 95–319, § 3(b)](https://www.govinfo.gov/link/plaw/95/public/319), July 11, 1978, [92 Stat. 390](https://www.govinfo.gov/link/statute/92/390); [Pub. L. 95–631, § 6(b)](https://www.govinfo.gov/link/plaw/95/public/631), Nov. 10, 1978, [92 Stat. 3745](https://www.govinfo.gov/link/statute/92/3745); [Pub. L. 97–414, § 9(j)(4)](https://www.govinfo.gov/link/plaw/97/public/414), Jan. 4, 1983, [96 Stat. 2064](https://www.govinfo.gov/link/statute/96/2064); [Pub. L. 101–608, title I, § 112(d)](https://www.govinfo.gov/link/plaw/101/public/608), Nov. 16, 1990, [104 Stat. 3117](https://www.govinfo.gov/link/statute/104/3117); [Pub. L. 110–314, title II, § 216(a)](https://www.govinfo.gov/link/plaw/110/public/314), Aug. 14, 2008, [122 Stat. 3056](https://www.govinfo.gov/link/statute/122/3056); [Pub. L. 112–28, § 2(b)](https://www.govinfo.gov/link/plaw/112/public/28), Aug. 12, 2011, [125 Stat. 279](https://www.govinfo.gov/link/statute/125/279).)*

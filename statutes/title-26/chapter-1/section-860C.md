@@ -3,9 +3,10 @@ title: "Section 860C - Taxation of residual interests"
 usc_title: 26
 usc_section: "860C"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 860C"
-generated_at: "2026-03-30T02:55:27.737Z"
+generated_at: "2026-11-23T20:26:45.919Z"
+status: "active"
 ---
 
 # § 860C. Taxation of residual interests
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:55:27.737Z"
     - **(A)** The amount of the net loss of any REMIC taken into account by a holder under subsection (a) with respect to any calendar quarter shall not exceed the adjusted basis of such holder’s residual interest in such REMIC as of the close of such calendar quarter (determined without regard to the adjustment under subsection (d)(2)(B) for such calendar quarter).
     - **(B)** Any loss disallowed by reason of subparagraph (A) shall be treated as incurred by the REMIC in the succeeding calendar quarter with respect to such holder.
   - **(3)** For special treatment of income in excess of daily accruals, see section 860E.
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title VI, § 671(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2309](https://www.govinfo.gov/link/statute/100/2309); amended [Pub. L. 100–647, title I, § 1006(t)(1)](https://www.govinfo.gov/link/plaw/100/public/647), (8)(C), (21), Nov. 10, 1988, [102 Stat. 3419](https://www.govinfo.gov/link/statute/102/3419), 3421, 3426.)*

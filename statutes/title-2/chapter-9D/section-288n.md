@@ -3,12 +3,17 @@ title: "Section 288n - Travel and related expenses"
 usc_title: 2
 usc_section: "288n"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 288n"
-generated_at: "2026-03-30T02:53:04.795Z"
+generated_at: "2026-11-23T20:25:28.870Z"
+status: "active"
 ---
 
 # § 288n. Travel and related expenses
 
 Funds expended by the Senate Legal Counsel for travel and related expenses shall be subject to the same regulations and limitations (insofar as they are applicable) as those which the Senate Committee on Rules and Administration prescribes for application to travel and related expenses for which payment is authorized to be made from the contingent fund of the Senate.
 
+
+## Source Credit
+
+*([Pub. L. 98–51, title I, § 106](https://www.govinfo.gov/link/plaw/98/public/51), July 14, 1983, [97 Stat. 267](https://www.govinfo.gov/link/statute/97/267).)*

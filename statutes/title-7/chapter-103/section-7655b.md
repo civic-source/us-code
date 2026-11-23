@@ -3,9 +3,10 @@ title: "Section 7655b - Forestry products advanced utilization research"
 usc_title: 7
 usc_section: "7655b"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7655b"
-generated_at: "2026-03-30T02:53:42.460Z"
+generated_at: "2026-11-23T20:25:41.823Z"
+status: "active"
 ---
 
 # § 7655b. Forestry products advanced utilization research
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:53:42.460Z"
 - **(f)**
   - **(1)** There are authorized to be appropriated to carry out this section $7,000,000 for each of fiscal years 2014 through 2023.
   - **(2)** To the extent practicable, the Secretary shall match any funds made available under paragraph (1) with funds made available under section 1646 of title 16 .
+
+## Source Credit
+
+*([Pub. L. 105–185, title VI, § 617](https://www.govinfo.gov/link/plaw/105/public/185), as added [Pub. L. 113–79, title VII, § 7310](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 892](https://www.govinfo.gov/link/statute/128/892); amended [Pub. L. 115–334, title VII, § 7308](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4816](https://www.govinfo.gov/link/statute/132/4816).)*

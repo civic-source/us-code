@@ -3,9 +3,10 @@ title: "Section 5947 - Quarters, subsistence, and allowances for employees of th
 usc_title: 5
 usc_section: "5947"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 5947"
-generated_at: "2026-03-30T02:52:56.028Z"
+generated_at: "2026-11-23T20:25:31.996Z"
+status: "active"
 ---
 
 # § 5947. Quarters, subsistence, and allowances for employees of the Corps of Engineers, Department of the Army, engaged in floating plant operations
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:52:56.028Z"
   - **(1)** adverse weather conditions or similar circumstances beyond the control of the employee or the Corps of Engineers prevent transportation of the employee from shore to the vessel; or
   - **(2)** quarters or subsistence, or both, are not available on the vessel while it is undergoing repairs.
 - **(c)** The quarters or subsistence, or both, or allowance in place thereof, may be furnished or paid only under regulations prescribed by the Secretary of the Army.
+
+## Source Credit
+
+*(Added [Pub. L. 91–656, § 7(a)](https://www.govinfo.gov/link/plaw/91/public/656), Jan. 8, 1971, [84 Stat. 1954](https://www.govinfo.gov/link/statute/84/1954).)*

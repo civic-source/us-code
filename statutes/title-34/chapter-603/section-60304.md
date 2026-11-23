@@ -3,9 +3,10 @@ title: "Section 60304 - State reports"
 usc_title: 34
 usc_section: "60304"
 chapter: 603
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 60304"
-generated_at: "2026-03-30T02:55:33.316Z"
+generated_at: "2026-11-23T20:26:50.670Z"
+status: "active"
 ---
 
 # § 60304. State reports
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:55:33.316Z"
     - **(F)** provided support and assistance to the families of murder victims; and
   - **(3)** a statement confirming that the funds have not been used to fund the prosecution of specific capital cases or to supplant non-Federal funds.
 - **(d)** The annual reports to the Attorney General submitted by any State under this section shall be made available to the public.
+
+## Source Credit
+
+*([Pub. L. 108–405, title IV, § 424](https://www.govinfo.gov/link/plaw/108/public/405), Oct. 30, 2004, [118 Stat. 2289](https://www.govinfo.gov/link/statute/118/2289).)*

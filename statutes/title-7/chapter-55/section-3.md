@@ -3,9 +3,10 @@ title: "Section 3 - Council on Rural Community Innovation and Economic Developme
 usc_title: 7
 usc_section: "3"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 3"
-generated_at: "2026-03-30T02:53:42.379Z"
+generated_at: "2026-11-23T20:25:41.493Z"
+status: "active"
 ---
 
 # § 2204b–3. Council on Rural Community Innovation and Economic Development
@@ -86,3 +87,7 @@ generated_at: "2026-03-30T02:53:42.379Z"
         - **(I)** provide the public with available information and technical assistance on Federal resources relevant to a project and region;
         - **(II)** establish a Federal support team comprised of staff from participating agencies in the working group that shall provide coordinated and dedicated support services to rural jobs accelerators; and
         - **(III)** provide opportunities for rural jobs accelerators to share best practices and further collaborate with one another.
+
+## Source Credit
+
+*([Pub. L. 115–334, title VI, § 6306](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4752](https://www.govinfo.gov/link/statute/132/4752).)*

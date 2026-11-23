@@ -3,9 +3,10 @@ title: "Section 408 - Agency accountability"
 usc_title: 23
 usc_section: "408"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 408"
-generated_at: "2026-03-30T02:55:12.571Z"
+generated_at: "2026-11-23T20:26:23.886Z"
+status: "active"
 ---
 
 # § 408. Agency accountability
@@ -34,3 +35,31 @@ generated_at: "2026-03-30T02:55:12.571Z"
     - **(D)** The Administration’s Summary Report of findings from Management Reviews and Improvement Plans.
   - **(3)** The Secretary may not make publicly available a program, report, or review under paragraph (2) that is directed to a State highway safety agency until after the date on which the program, report, or review is submitted to that agency under this chapter.
 - **(f)** The Secretary shall develop a process to identify and mitigate possible systemic issues across States and regional offices by reviewing oversight findings and recommended actions identified in triennial State management reviews.
+
+Triennial State Management Reviews.—
+
+In general
+
+Exceptions
+
+Components
+
+Recommendations Before Submission
+
+State Program Review
+
+Regional Harmonization
+
+Best Practices Guidelines.—
+
+Uniform guidelines
+
+Publication
+
+Reports to state highway safety agencies
+
+Tracking Process
+
+## Source Credit
+
+*(Added [Pub. L. 109–59, title II, § 2008(a)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1533](https://www.govinfo.gov/link/statute/119/1533), § 412; amended [Pub. L. 112–141, div. C, title I, § 31107](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 755](https://www.govinfo.gov/link/statute/126/755); [Pub. L. 114–94, div. A, title IV, § 4006](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1510](https://www.govinfo.gov/link/statute/129/1510); renumbered § 408, [Pub. L. 117–58, div. B, title IV, § 24101(d)(1)(A)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 784](https://www.govinfo.gov/link/statute/135/784).)*

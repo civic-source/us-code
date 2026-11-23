@@ -3,9 +3,10 @@ title: "Section 1707 - Publication of proposed regulations"
 usc_title: 41
 usc_section: "1707"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 1707"
-generated_at: "2026-03-30T02:55:55.802Z"
+generated_at: "2026-11-23T20:27:04.398Z"
+status: "active"
 ---
 
 # § 1707. Publication of proposed regulations
@@ -27,3 +28,54 @@ generated_at: "2026-03-30T02:55:55.802Z"
     - **(A)** a notice of the policy, regulation, procedure, or form is published in the Federal Register and includes a statement that the policy, regulation, procedure, or form is temporary; and
     - **(B)** provision is made for a public comment period of 30 days beginning on the date on which the notice is published.
   - **(2)** After considering the comments received, the head of the agency waiving the requirements of subsections (a) and (b) under subsection (d) may issue the final procurement policy, regulation, procedure, or form.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1707 | 41:418b. | Pub. L. 93–400, § 22 , as added Pub. L. 98–577, title III, § 302(a) , Oct. 30, 1984 , 98 Stat. 3076 ; Pub. L. 103–355, title V, § 5092 , Oct. 13, 1994 , 108 Stat. 3362 , as amended Pub. L. 104–106, title XLIII, § 4321(a)(9) , Feb. 10, 1996 , 110 Stat. 671 . |
+
+
+Covered Policies, Regulations, Procedures, and Forms.—
+
+Required comment period
+
+Exception
+
+Publication in Federal Register and Comment Period
+
+Contents of Notice
+
+Waiver
+
+Effectiveness of Policy, Regulation, Procedure, or Form.—
+
+Temporary basis
+
+Final policy, regulation, procedure, or form
+
+Historical and Revision Notes
+
+1707
+
+Pub. L. 93–400, § 22
+
+Pub. L. 98–577, title III, § 302(a)
+
+Oct. 30, 1984
+
+98 Stat. 3076
+
+Pub. L. 103–355, title V, § 5092
+
+Oct. 13, 1994
+
+108 Stat. 3362
+
+Pub. L. 104–106, title XLIII, § 4321(a)(9)
+
+Feb. 10, 1996
+
+110 Stat. 671
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3710](https://www.govinfo.gov/link/statute/124/3710).)*

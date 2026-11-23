@@ -3,9 +3,10 @@ title: "Section 248 - Freedom of access to clinic entrances"
 usc_title: 18
 usc_section: "248"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 248"
-generated_at: "2026-03-30T02:54:16.461Z"
+generated_at: "2026-11-23T20:26:08.356Z"
+status: "active"
 ---
 
 # § 248. Freedom of access to clinic entrances
@@ -41,3 +42,47 @@ generated_at: "2026-03-30T02:54:16.461Z"
   - **(4)** The term “physical obstruction” means rendering impassable ingress to or egress from a facility that provides reproductive health services or to or from a place of religious worship, or rendering passage to or from such a facility or place of religious worship unreasonably difficult or hazardous.
   - **(5)** The term “reproductive health services” means reproductive health services provided in a hospital, clinic, physician’s office, or other facility, and includes medical, surgical, counselling or referral services relating to the human reproductive system, including services relating to pregnancy or the termination of a pregnancy.
   - **(6)** The term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+
+Prohibited Activities
+
+Penalties
+
+Civil Remedies.—
+
+Right of action.—
+
+In general
+
+Relief
+
+Action by attorney general of the united states.—
+
+In general
+
+Relief
+
+Actions by state attorneys general.—
+
+In general
+
+Relief
+
+Rules of Construction
+
+Definitions
+
+Facility
+
+Interfere with
+
+Intimidate
+
+Physical obstruction
+
+Reproductive health services
+
+State
+
+## Source Credit
+
+*(Added [Pub. L. 103–259, § 3](https://www.govinfo.gov/link/plaw/103/public/259), May 26, 1994, [108 Stat. 694](https://www.govinfo.gov/link/statute/108/694); amended [Pub. L. 103–322, title XXXIII, § 330023(a)(2)](https://www.govinfo.gov/link/plaw/103/public/322), (3), Sept. 13, 1994, [108 Stat. 2150](https://www.govinfo.gov/link/statute/108/2150).)*

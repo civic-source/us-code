@@ -3,9 +3,10 @@ title: "Section 2796a - Reports to Congress"
 usc_title: 22
 usc_section: "2796a"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2796a"
-generated_at: "2026-03-30T02:55:05.387Z"
+generated_at: "2026-11-23T20:26:32.431Z"
+status: "active"
 ---
 
 # § 2796a. Reports to Congress
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.387Z"
 - **(c)** The certification required by subsection (a) shall be transmitted—
   - **(1)** not less than 15 calendar days before the agreement is entered into or renewed in the case of an agreement with the North Atlantic Treaty Organization, any member country of that Organization or Australia, Japan, the Republic of Korea, Israel, or New Zealand; and
   - **(2)** not less than 30 calendar days before the agreement is entered into or renewed in the case of an agreement with any other organization or country.
+
+## Source Credit
+
+*([Pub. L. 90–629](https://www.govinfo.gov/link/plaw/90/public/629), ch. 6, § 62, as added [Pub. L. 97–113, title I, § 109(a)](https://www.govinfo.gov/link/plaw/97/public/113), Dec. 29, 1981, [95 Stat. 1525](https://www.govinfo.gov/link/statute/95/1525); amended [Pub. L. 104–164, title I, § 141(e)(1)](https://www.govinfo.gov/link/plaw/104/public/164), July 21, 1996, [110 Stat. 1432](https://www.govinfo.gov/link/statute/110/1432); [Pub. L. 110–429, title II, § 203(b)(1)](https://www.govinfo.gov/link/plaw/110/public/429), Oct. 15, 2008, [122 Stat. 4845](https://www.govinfo.gov/link/statute/122/4845); [Pub. L. 111–266, title III, § 301(1)](https://www.govinfo.gov/link/plaw/111/public/266), Oct. 8, 2010, [124 Stat. 2804](https://www.govinfo.gov/link/statute/124/2804); [Pub. L. 113–276, title II, § 208(a)(4)](https://www.govinfo.gov/link/plaw/113/public/276), Dec. 18, 2014, [128 Stat. 2993](https://www.govinfo.gov/link/statute/128/2993).)*

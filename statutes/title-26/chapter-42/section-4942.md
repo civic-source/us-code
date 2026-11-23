@@ -3,9 +3,10 @@ title: "Section 4942 - Taxes on failure to distribute income"
 usc_title: 26
 usc_section: "4942"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 4942"
-generated_at: "2026-03-30T02:55:27.806Z"
+generated_at: "2026-11-23T20:26:46.344Z"
+status: "active"
 ---
 
 # § 4942. Taxes on failure to distribute income
@@ -110,3 +111,7 @@ generated_at: "2026-03-30T02:55:27.806Z"
     - **(A)** a trade or business which is not an unrelated trade or business (as defined in section 513), or
     - **(B)** an activity which is carried on within a larger aggregate of similar activities or within a larger complex of other endeavors which is related (aside from the need of the organization for income or funds or the use it makes of the profits derived) to the exempt purposes of the organization.
   - **(5)** For purposes of this section (but no other provisions of this title), the term “operating foundation” includes any organization which, on May 26, 1969 , and at all times thereafter before the close of the taxable year, operated and maintained as its principal functional purpose facilities for the long-term care, comfort, maintenance, or education of permanently and totally disabled persons, elderly persons, needy widows, or children but only if such organization meets the requirements of paragraph (3)(B)(ii).
+
+## Source Credit
+
+*(Added [Pub. L. 91–172, title I, § 101(b)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 502](https://www.govinfo.gov/link/statute/83/502); amended [Pub. L. 94–455, title XIII](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1302(a), 1303(a), 1310(a), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1713](https://www.govinfo.gov/link/statute/90/1713), 1715, 1729, 1834; [Pub. L. 95–600, title V, § 522(a)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2885](https://www.govinfo.gov/link/statute/92/2885); [Pub. L. 96–596, § 2(a)(1)(C)](https://www.govinfo.gov/link/plaw/96/public/596), (2)(B), (3)(B), (4)(A), Dec. 24, 1980, [94 Stat. 3469–3472](https://www.govinfo.gov/link/statute/94/3469); [Pub. L. 97–34, title VIII, § 823(a)](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 351](https://www.govinfo.gov/link/statute/95/351); [Pub. L. 97–448, title I, § 108(b)](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2391](https://www.govinfo.gov/link/statute/96/2391); [Pub. L. 98–369, div. A, title III](https://www.govinfo.gov/link/plaw/98/public/369), §§ 304(a), (b), 305(b)(4), 314(a)(1), (2), July 18, 1984, [98 Stat. 782–784](https://www.govinfo.gov/link/statute/98/782), 787; [Pub. L. 99–514, title XIII, § 1301(j)(6)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2658](https://www.govinfo.gov/link/statute/100/2658); [Pub. L. 109–280, title XII](https://www.govinfo.gov/link/plaw/109/public/280), §§ 1212(b), 1244(a), Aug. 17, 2006, [120 Stat. 1074](https://www.govinfo.gov/link/statute/120/1074), 1107; [Pub. L. 110–172, § 11(a)(14)(D)](https://www.govinfo.gov/link/plaw/110/public/172), Dec. 29, 2007, [121 Stat. 2485](https://www.govinfo.gov/link/statute/121/2485); [Pub. L. 113–295, div. A, title II, § 221(a)(105)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4053](https://www.govinfo.gov/link/statute/128/4053).)*

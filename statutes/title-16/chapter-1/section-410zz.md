@@ -3,9 +3,10 @@ title: "Section 410zz - Findings and purpose"
 usc_title: 16
 usc_section: "410zz"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 410zz"
-generated_at: "2026-03-30T02:54:22.772Z"
+generated_at: "2026-11-23T20:26:19.501Z"
+status: "active"
 ---
 
 # § 410zz. Findings and purpose
@@ -19,3 +20,7 @@ The Congress finds that—
   - **(5)** these threats impede opportunities for public enjoyment, education, and safety within the monument, as well as opportunities for solitude within the wilderness areas of the monument designated by Congress in 1976;
   - **(6)** the residential and commercial growth of the greater Tucson, Arizona metropolitan area is causing increasing threats to the monument’s resources; and
   - **(7)** the Tucson Mountain unit should be enlarged by the addition of adjacent lands of National Park caliber and Saguaro National Monument should be afforded full recognition and statutory protection as a National Park.
+
+## Source Credit
+
+*([Pub. L. 103–364, § 2](https://www.govinfo.gov/link/plaw/103/public/364), Oct. 14, 1994, [108 Stat. 3467](https://www.govinfo.gov/link/statute/108/3467).)*

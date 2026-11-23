@@ -3,9 +3,10 @@ title: "Section 18014 - Treatment of expatriate health plans under ACA"
 usc_title: 42
 usc_section: "18014"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18014"
-generated_at: "2026-03-30T02:56:11.511Z"
+generated_at: "2026-11-23T20:27:23.772Z"
+status: "active"
 ---
 
 # § 18014. Treatment of expatriate health plans under ACA
@@ -59,3 +60,7 @@ generated_at: "2026-03-30T02:56:11.511Z"
     - **(B)** The term “transfer” means an employer has transferred an employee to perform services for a branch of the same employer or a parent, affiliate, franchise, or subsidiary thereof.
 - **(e)** The Secretary of the Treasury, the Secretary of Health and Human Services, and the Secretary of Labor may promulgate regulations necessary to carry out this Act, including such rules as may be necessary to prevent inappropriate expansion of the application of the exclusions under this Act from applicable laws and regulations, and to amend existing annual reporting requirements or procedures to include applicable qualified expatriate health insurers’ total number of expatriate plan enrollees.
 - **(f)** Unless otherwise specified, this Act shall take effect on December 16, 2014 , and shall apply only to expatriate health plans issued or renewed on or after July 1, 2015 .
+
+## Source Credit
+
+*([Pub. L. 113–235, div. M, § 3](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2768](https://www.govinfo.gov/link/statute/128/2768).)*

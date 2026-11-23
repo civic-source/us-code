@@ -3,9 +3,10 @@ title: "Section 15822 - Energy efficient public buildings"
 usc_title: 42
 usc_section: "15822"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 15822"
-generated_at: "2026-03-30T02:56:11.460Z"
+generated_at: "2026-11-23T20:27:23.571Z"
+status: "active"
 ---
 
 # § 15822. Energy efficient public buildings
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.460Z"
   - **(1)** maintain such records and evidence of compliance as the Secretary may require; and
   - **(2)** develop and distribute information and materials and conduct programs to provide technical services and assistance to encourage planning, financing, and design of energy efficient public buildings by units of local government.
 - **(c)** For the purposes of this section, there are authorized to be appropriated to the Secretary $30,000,000 for each of fiscal years 2006 through 2010. Not more than 10 percent of appropriated funds shall be used for administration.
+
+## Source Credit
+
+*([Pub. L. 109–58, title I, § 125](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 618](https://www.govinfo.gov/link/statute/119/618).)*

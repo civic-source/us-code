@@ -3,9 +3,10 @@ title: "Section 9163 - Relationship to other laws"
 usc_title: 42
 usc_section: "9163"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9163"
-generated_at: "2026-03-30T02:56:11.351Z"
+generated_at: "2026-11-23T20:27:23.078Z"
+status: "active"
 ---
 
 # § 9163. Relationship to other laws
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.351Z"
 - **(c)**
   - **(1)** For the purposes of the customs laws administered by the Secretary of the Treasury, ocean thermal energy conversion facilities and plantships documented under the laws of the United States and licensed under this chapter shall be deemed to be vessels.
   - **(2)** Except insofar as they apply to vessels documented under the laws of the United States, the customs laws administered by the Secretary of the Treasury, including the provisions of the Tariff Act of 1930, as amended ( 19 U.S.C. 1202 ), and other laws codified in title 19, shall not apply to any ocean thermal energy conversion facility or plantship documented under the laws of the United States and licensed under the provisions of this chapter, but all foreign articles to be used in the construction of any such facility or plantship, including any component thereof, shall first be made subject to all applicable duties and taxes which would be imposed upon or by reason of their importation if they were imported for consumption in the United States. Duties and taxes shall be paid thereon in accordance with laws applicable to merchandise imported into the customs territory of the United States.
+
+## Source Credit
+
+*([Pub. L. 96–320, title IV, § 403](https://www.govinfo.gov/link/plaw/96/public/320), Aug. 3, 1980, [94 Stat. 998](https://www.govinfo.gov/link/statute/94/998); [Pub. L. 98–623, title VI, § 602(a)(11)](https://www.govinfo.gov/link/plaw/98/public/623), (12), (e)(6), Nov. 8, 1984, [98 Stat. 3411](https://www.govinfo.gov/link/statute/98/3411), 3412.)*

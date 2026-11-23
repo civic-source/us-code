@@ -3,9 +3,10 @@ title: "Section 7009 - Enforcement"
 usc_title: 16
 usc_section: "7009"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 7009"
-generated_at: "2026-03-30T02:54:23.072Z"
+generated_at: "2026-11-23T20:26:20.828Z"
+status: "active"
 ---
 
 # § 7009. Enforcement
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:23.072Z"
 - **(b)** It is unlawful for any person to violate any provision of this chapter or the regulations promulgated under this chapter.
 - **(c)** The Secretary shall prevent any person from violating this chapter in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Magnuson-Stevens Fishery Conservation and Management Act ( 16 U.S.C. 1857 ) were incorporated into and made a part of this chapter. Any person that violates any provision of this chapter is subject to the penalties and entitled to the privileges and immunities provided in the Magnuson-Stevens Fishery Conservation and Management Act [ 16 U.S.C. 1801 et seq.] in the same manner, by the same means, and with the same jurisdiction, power, and duties as though all applicable terms and provisions of that Act were incorporated into and made a part of this chapter.
 - **(d)** This chapter shall be enforced by the Secretary as if a violation of this chapter or of any regulation promulgated by the Secretary under this chapter were a violation of section 307 of the Magnuson-Stevens Fishery Conservation and Management Act ( 16 U.S.C. 1857 ).
+
+## Source Credit
+
+*([Pub. L. 109–479, title VI, § 610](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3648](https://www.govinfo.gov/link/statute/120/3648).)*

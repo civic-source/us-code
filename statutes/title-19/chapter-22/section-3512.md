@@ -3,9 +3,10 @@ title: "Section 3512 - Relationship of agreements to United States law and State
 usc_title: 19
 usc_section: "3512"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3512"
-generated_at: "2026-03-30T02:54:24.690Z"
+generated_at: "2026-11-23T20:26:11.043Z"
+status: "active"
 ---
 
 # § 3512. Relationship of agreements to United States law and State law
@@ -59,3 +60,7 @@ generated_at: "2026-03-30T02:54:24.690Z"
     - **(A)** on the basis of a judgment obtained by the United States in an action brought under any such agreement; or
     - **(B)** on any other basis.
 - **(d)** The statement of administrative action approved by the Congress under section 3511(a) of this title shall be regarded as an authoritative expression by the United States concerning the interpretation and application of the Uruguay Round Agreements and this Act in any judicial proceeding in which a question arises concerning such interpretation or application.
+
+## Source Credit
+
+*([Pub. L. 103–465, title I, § 102](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4815](https://www.govinfo.gov/link/statute/108/4815); [Pub. L. 117–286, § 4(a)(142)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4321](https://www.govinfo.gov/link/statute/136/4321).)*

@@ -3,9 +3,10 @@ title: "Section 315 - Advisory Committee on Data for Evidence Building"
 usc_title: 5
 usc_section: "315"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 315"
-generated_at: "2026-03-30T02:52:55.979Z"
+generated_at: "2026-11-23T20:25:31.662Z"
+status: "active"
 ---
 
 # § 315. Advisory Committee on Data for Evidence Building
@@ -35,3 +36,25 @@ generated_at: "2026-03-30T02:52:55.979Z"
   - **(3)** review the coordination of data sharing or availability for evidence building across all agencies.
 - **(f)** The Advisory Committee shall submit to the Director and make publicly available an annual report on the activities and findings of the Advisory Committee.
 - **(g)** The Advisory Committee shall terminate not later than two years after the date of the first meeting.
+
+Establishment
+
+Membership
+
+Term of Service.—
+
+In general
+
+Vacancy
+
+Compensation
+
+Duties
+
+Reports
+
+Termination
+
+## Source Credit
+
+*(Added [Pub. L. 115–435, title I, § 101(a)(2)](https://www.govinfo.gov/link/plaw/115/public/435), Jan. 14, 2019, [132 Stat. 5531](https://www.govinfo.gov/link/statute/132/5531).)*

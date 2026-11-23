@@ -3,9 +3,10 @@ title: "Section 2103 - Authority of President"
 usc_title: 22
 usc_section: "2103"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2103"
-generated_at: "2026-03-30T02:55:05.342Z"
+generated_at: "2026-11-23T20:26:32.155Z"
+status: "active"
 ---
 
 # § 2103. Authority of President
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:05.342Z"
 - **(i)** For the purposes of this section—
   - **(1)** the term “health research” shall include, but not be limited to, research, investigations, and studies relating to causes and methods of prevention of accidents, including but not limited to highway and aviation accidents.
   - **(2)** the term “participating foreign countries” means those foreign countries which cooperate with the United States in carrying out the purposes of this section.
+
+## Source Credit
+
+*([Pub. L. 86–610, § 5](https://www.govinfo.gov/link/plaw/86/public/610), July 12, 1960, [74 Stat. 366](https://www.govinfo.gov/link/statute/74/366); [Pub. L. 105–362, title VI, § 601(a)(2)(F)](https://www.govinfo.gov/link/plaw/105/public/362), Nov. 10, 1998, [112 Stat. 3286](https://www.govinfo.gov/link/statute/112/3286); [Pub. L. 110–246, title III, § 3001(b)(1)(A)](https://www.govinfo.gov/link/plaw/110/public/246), (2)(P), June 18, 2008, [122 Stat. 1820](https://www.govinfo.gov/link/statute/122/1820).)*

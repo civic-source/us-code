@@ -3,9 +3,10 @@ title: "Section 2 - Reasonable fees and rules for payment card transactions"
 usc_title: 15
 usc_section: "2"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2"
-generated_at: "2026-03-30T02:54:08.157Z"
+generated_at: "2026-11-23T20:26:04.120Z"
+status: "active"
 ---
 
 # § 1693o–2. Reasonable fees and rules for payment card transactions
@@ -114,3 +115,7 @@ generated_at: "2026-03-30T02:54:08.157Z"
 - **(d)**
   - **(1)** Compliance with the requirements imposed under this section shall be enforced under section 1693 o of this title.
   - **(2)** Sections 1693m and 1693n of this title shall not apply with respect to this section or the requirements imposed pursuant to this section.
+
+## Source Credit
+
+*([Pub. L. 90–321, title IX, § 920](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 111–203, title X, § 1075(a)(2)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2068](https://www.govinfo.gov/link/statute/124/2068).)*

@@ -3,9 +3,10 @@ title: "Section 3526 - Improvement of education in science, technology, engineer
 usc_title: 50
 usc_section: "3526"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3526"
-generated_at: "2026-03-30T02:56:26.256Z"
+generated_at: "2026-11-23T20:27:31.024Z"
+status: "active"
 ---
 
 # § 3526. Improvement of education in science, technology, engineering, arts, and mathematics
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:26.256Z"
       - **(i)** Historically Black colleges and universities and other minority-serving institutions, as described in section 1067q(a) of title 20 .
       - **(ii)** Educational institutions serving women, members of minority groups, and other groups of individuals who traditionally are involved in the science, technology, engineering, arts, and mathematics professions in disproportionately low numbers.
 - **(d)** The Director shall designate one or more individuals within the Agency to advise and assist the Director regarding matters relating to science, technology, engineering, the arts, and mathematics education and training.
+
+## Source Credit
+
+*(June 20, 1949, ch. 227, § 25, as added [Pub. L. 116–260, div. W, title V, § 501](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2380](https://www.govinfo.gov/link/statute/134/2380).)*

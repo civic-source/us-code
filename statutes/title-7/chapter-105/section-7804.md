@@ -3,9 +3,10 @@ title: "Section 7804 - Required terms in orders"
 usc_title: 7
 usc_section: "7804"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7804"
-generated_at: "2026-03-30T02:53:42.463Z"
+generated_at: "2026-11-23T20:25:41.843Z"
+status: "active"
 ---
 
 # § 7804. Required terms in orders
@@ -160,3 +161,7 @@ generated_at: "2026-03-30T02:53:42.463Z"
     - **(A)** For the purposes described in paragraph (1), the order shall authorize the appointment of special committees composed of persons other than Board members.
     - **(B)** A committee appointed under subparagraph (A) shall consult directly with the Board.
 - **(o)** The order shall contain such other terms and provisions, consistent with this chapter, as are necessary to carry out this chapter (including provision for the assessment of interest and a charge for each late payment of assessments under subsection (h)).
+
+## Source Credit
+
+*([Pub. L. 106–387, § 1(a) [title XII, § 1205]](https://www.govinfo.gov/link/plaw/106/public/387), Oct. 28, 2000, [114 Stat. 1549](https://www.govinfo.gov/link/statute/114/1549), 1549A–82.)*

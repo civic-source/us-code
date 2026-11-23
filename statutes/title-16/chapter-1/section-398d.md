@@ -3,9 +3,10 @@ title: "Section 398d - Acquisition of lands, waters, and interests therein"
 usc_title: 16
 usc_section: "398d"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 398d"
-generated_at: "2026-03-30T02:54:22.754Z"
+generated_at: "2026-11-23T20:26:19.428Z"
+status: "active"
 ---
 
 # § 398d. Acquisition of lands, waters, and interests therein
@@ -17,3 +18,47 @@ generated_at: "2026-03-30T02:54:22.754Z"
   - **(1)** Except for property deemed necessary by the Secretary of the Interior for visitor facilities or administration of the park, any owner or owners of improved property on Hassel Island on the date of its acquisition, may retain for themselves a right of use and occupancy of the property for noncommercial residential purposes for twenty-five years or, in lieu thereof, for a term ending at the death of the owner or the owner’s spouse, whichever is later. The owner shall elect the term to be reserved. The Secretary shall pay to the owner the fair market value of the property on the date of such acquisition, less the fair market value on such date of the right retained by the owner. The authority of the Secretary to acquire the property commonly known as the Royal Mail (hotel) by condemnation shall be suspended for ten years from August 18, 1978 , if such owner or owners agree, in writing, within ninety days after August 18, 1978 , to grant to the United States the right to purchase such property at a purchase price, mutually agreed upon by the Secretary and the landowner, which does not exceed the fixed value of said property on July 1, 1978 .
   - **(2)** As used in subsection (d)(1), “improved property” means a single-family dwelling, the construction of which began before January 1, 1977 , together with such lands as are in the same ownership and appurtenant buildings located thereon.
   - **(3)** The Secretary may terminate a right of use and occupancy retained pursuant to subsection (d)(1) upon his determination that such use and occupancy is being, or may be, exercised in a manner inconsistent with the purposes for which they were included within the park and upon tender to the holder of such right of the amount equal to the value of that portion of the right which remains unexpired on the date of termination.
+
+Definitions
+
+Park
+
+Resort
+
+Retained use estate
+
+Secretary
+
+Lease Authorization.—
+
+In general
+
+Acquisitions
+
+Authority
+
+Terms and conditions
+
+Rental amounts
+
+Use of proceeds
+
+Congressional notification
+
+Renewal
+
+Termination
+
+Retained Use Estate.—
+
+In general
+
+Appraisal.—
+
+In general
+
+Requirements
+
+## Source Credit
+
+*([Pub. L. 87–750, § 2](https://www.govinfo.gov/link/plaw/87/public/750), Oct. 5, 1962, [76 Stat. 747](https://www.govinfo.gov/link/statute/76/747); [Pub. L. 95–348, § 7(b)(1)](https://www.govinfo.gov/link/plaw/95/public/348) –(3), Aug. 18, 1978, [92 Stat. 494](https://www.govinfo.gov/link/statute/92/494).)*

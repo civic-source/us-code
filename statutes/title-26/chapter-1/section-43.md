@@ -3,9 +3,10 @@ title: "Section 43 - Enhanced oil recovery credit"
 usc_title: 26
 usc_section: "43"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 43"
-generated_at: "2026-03-30T02:55:27.598Z"
+generated_at: "2026-11-23T20:26:45.199Z"
+status: "active"
 ---
 
 # § 43. Enhanced oil recovery credit
@@ -54,3 +55,15 @@ generated_at: "2026-03-30T02:55:27.598Z"
   - **(1)** A taxpayer may elect to have this section not apply for any taxable year.
   - **(2)** An election under paragraph (1) for any taxable year may be made (or revoked) at any time before the expiration of the 3-year period beginning on the last date prescribed by law for filing the return for such taxable year (determined without regard to extensions).
   - **(3)** An election under paragraph (1) (or revocation thereof) shall be made in such manner as the Secretary may by regulations prescribe.
+
+In general
+
+Natural gas
+
+In general
+
+Special rule for significant expansion of projects
+
+## Source Credit
+
+*(Added [Pub. L. 101–508, title XI, § 11511(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–483](https://www.govinfo.gov/link/statute/104/1388); amended [Pub. L. 106–554, § 1(a)(7) [title III, § 317(a)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–645; [Pub. L. 108–357, title VII, § 707(a)](https://www.govinfo.gov/link/plaw/108/public/357), (b), Oct. 22, 2004, [118 Stat. 1550](https://www.govinfo.gov/link/statute/118/1550); [Pub. L. 109–58, title XIII, § 1322(a)(3)(B)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 1011](https://www.govinfo.gov/link/statute/119/1011); [Pub. L. 109–135, title IV, § 412(i)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2637](https://www.govinfo.gov/link/statute/119/2637).)*

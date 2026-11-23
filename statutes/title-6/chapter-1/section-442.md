@@ -3,9 +3,10 @@ title: "Section 442 - Litigation management"
 usc_title: 6
 usc_section: "442"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 442"
-generated_at: "2026-03-30T02:53:09.463Z"
+generated_at: "2026-11-23T20:25:34.739Z"
+status: "active"
 ---
 
 # § 442. Litigation management
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:09.463Z"
 - **(e)** Nothing in this section shall in any way limit the ability of any person to seek any form of recovery from any person, government, or other entity that—
   - **(1)** attempts to commit, knowingly participates in, aids and abets, or commits any act of terrorism, or any criminal act related to or resulting from such act of terrorism; or
   - **(2)** participates in a conspiracy to commit any such act of terrorism or any such criminal act.
+
+## Source Credit
+
+*([Pub. L. 107–296, title VIII, § 863](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2239](https://www.govinfo.gov/link/statute/116/2239).)*

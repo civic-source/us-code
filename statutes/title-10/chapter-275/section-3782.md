@@ -3,9 +3,10 @@ title: "Section 3782 - Technical data: challenges to contractor restrictions"
 usc_title: 10
 usc_section: "3782"
 chapter: 275
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 3782"
-generated_at: "2026-03-30T02:53:38.198Z"
+generated_at: "2026-11-23T20:25:51.861Z"
+status: "active"
 ---
 
 # § 3782. Technical data: challenges to contractor restrictions
@@ -29,3 +30,15 @@ generated_at: "2026-03-30T02:53:38.198Z"
 - **(d)** It is a justification of an asserted use or release restriction challenged under subsection (a) that, within the three-year period preceding the challenge to the restriction, the Department of Defense validated a restriction identical to the asserted restriction if—
   - **(1)** such validation occurred after a challenge to the validated restriction under this section; and
   - **(2)** the validated restriction was asserted by the same contractor or subcontractor (or a licensee of such contractor or subcontractor).
+
+Challenges by Secretary of Defense
+
+Time Limit for Challenges; Exceptions.—
+
+Written Notice to Contractor or Subcontractor
+
+Justification
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1833(g)](https://www.govinfo.gov/link/plaw/116/public/283), (i), Jan. 1, 2021, [134 Stat. 4231](https://www.govinfo.gov/link/statute/134/4231).)*

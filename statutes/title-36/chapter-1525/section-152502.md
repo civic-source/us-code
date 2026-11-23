@@ -3,9 +3,10 @@ title: "Section 152502 - Purposes"
 usc_title: 36
 usc_section: "152502"
 chapter: 1525
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 152502"
-generated_at: "2026-03-30T02:55:44.704Z"
+generated_at: "2026-11-23T20:26:59.001Z"
+status: "active"
 ---
 
 # § 152502. Purposes
@@ -19,3 +20,20 @@ The purposes of the corporation are—
   - **(5)** to organize and aid in organizing local safety chapters throughout the United States and its territories and possessions, and to provide organizational guidance and materials to promote the national safety;
   - **(6)** to cooperate with, enlist, and develop the cooperation of and among all individuals, corporations, and other organizations and agencies, public and private, engaged in, interested in, or in any manner connected with, any of these purposes; and
   - **(7)** to do any lawful acts necessary, useful, suitable, desirable, and proper for the furtherance and accomplishment of any of these purposes.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 152502 | 36:463. | Aug. 13, 1953, ch. 429, § 3 , 67 Stat. 569 . |
+
+
+Historical and Revision Notes
+
+152502
+
+Aug. 13, 1953, ch. 429, § 3
+
+67 Stat. 569
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1415](https://www.govinfo.gov/link/statute/112/1415).)*

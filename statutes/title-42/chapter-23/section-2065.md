@@ -3,9 +3,10 @@ title: "Section 2065 - Improving the reliability of domestic medical isotope sup
 usc_title: 42
 usc_section: "2065"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2065"
-generated_at: "2026-03-30T02:56:11.148Z"
+generated_at: "2026-11-23T20:27:22.059Z"
+status: "active"
 ---
 
 # § 2065. Improving the reliability of domestic medical isotope supply
@@ -50,3 +51,17 @@ generated_at: "2026-03-30T02:56:11.148Z"
 - **(d)** The Department and the Nuclear Regulatory Commission shall ensure to the maximum extent practicable that environmental reviews for the production of the medical isotopes shall complement and not duplicate each review.
 - **(e)** The Secretary shall establish a program as described in subsection (c)(3) not later than 3 years after January 2, 2013 .
 - **(f)** Notwithstanding section 10101 of this title , radioactive material resulting from the production of medical isotopes that has been permanently removed from a reactor or subcritical assembly and for which there is no further use shall be considered low-level radioactive waste if the material is acceptable under Federal requirements for disposal as low-level radioactive waste.
+
+“In this subtitle [subtitle F (§§ 3171–3178), see Short Title of 2013 Amendment note set out under section 2011 of this title and Tables]:
+
+Department
+
+Highly enriched uranium
+
+Low enriched uranium
+
+Secretary
+
+## Source Credit
+
+*([Pub. L. 112–239, div. C, title XXXI, § 3173](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2211](https://www.govinfo.gov/link/statute/126/2211); [Pub. L. 117–81, div. C, title XXXI, § 3131(c)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2230](https://www.govinfo.gov/link/statute/135/2230).)*

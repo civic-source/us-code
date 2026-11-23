@@ -3,9 +3,10 @@ title: "Section 1379i - Penalties"
 usc_title: 7
 usc_section: "1379i"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1379i"
-generated_at: "2026-03-30T02:53:42.310Z"
+generated_at: "2026-11-23T20:25:41.143Z"
+status: "active"
 ---
 
 # § 1379i. Penalties
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:42.310Z"
 - **(b)** Any person, except a producer in his capacity as a producer, who knowingly violates or attempts to violate or who knowingly participates or aids in the violation of any provision of this part, or of any regulation, governing the acquisition, disposition, or handling of marketing certificates or who knowingly fails to make any report or keep any record as required by section 1379h of this title shall be deemed guilty of a misdemeanor and upon conviction thereof shall be subject to a fine of not more than $5,000 for each violation.
 - **(c)** Any person who, in his capacity as a producer, knowingly violates or attempts to violate or participates or aids in the violation of any provision of this part, or of any regulation, governing the acquisition, disposition, or handling of marketing certificates or fails to make any report or keep any record as required by section 1379h of this title shall, (i) forfeit any right to receive marketing certificates, in whole or in part as the Secretary may determine, with respect to the farm or farms and for the marketing year with respect to which any such act or default is committed, or (ii), if such marketing certificates have already been issued, pay to the Secretary, upon demand, the amount of the face value of such certificates, or such part thereof as the Secretary may determine. Such determination by the Secretary with respect to the amount of such marketing certificates to be forfeited or the amount to be paid by such producer shall take into consideration the circumstances relating to the act or default committed and the seriousness of such act or default.
 - **(d)** Any person who falsely makes, issues, alters, forges, or counterfeits any marketing certificate, or with fraudulent intent possesses, transfers, or uses any such falsely made, issued, altered, forged, or counterfeited marketing certificate, shall be deemed guilty of a felony and upon conviction thereof shall be subject to a fine of not more than $10,000 or imprisonment of not more than ten years, or both.
+
+## Source Credit
+
+*(Feb. 16, 1938, ch. 30, title III, § 379i, as added [Pub. L. 87–703, title III, § 324(2)](https://www.govinfo.gov/link/plaw/87/public/703), Sept. 27, 1962, [76 Stat. 629](https://www.govinfo.gov/link/statute/76/629); amended [Pub. L. 89–321, title V, § 510(b)](https://www.govinfo.gov/link/plaw/89/public/321), Nov. 3, 1965, [79 Stat. 1205](https://www.govinfo.gov/link/statute/79/1205).)*

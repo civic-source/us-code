@@ -3,12 +3,17 @@ title: "Section 1395 - Plan notification to corporation of potentially significa
 usc_title: 29
 usc_section: "1395"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1395"
-generated_at: "2026-03-30T02:55:18.735Z"
+generated_at: "2026-11-23T20:26:38.036Z"
+status: "active"
 ---
 
 # § 1395. Plan notification to corporation of potentially significant withdrawals
 
 The corporation may, by regulation, require the plan sponsor of a multiemployer plan to provide notice to the corporation when the withdrawal from the plan by any employer has resulted, or will result, in a significant reduction in the amount of aggregate contributions under the plan made by employers.
 
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4215](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 96–364, title I, § 104(2)](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1234](https://www.govinfo.gov/link/statute/94/1234).)*

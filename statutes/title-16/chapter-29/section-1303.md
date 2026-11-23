@@ -3,9 +3,10 @@ title: "Section 1303 - Terms of agreement; required provisions"
 usc_title: 16
 usc_section: "1303"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1303"
-generated_at: "2026-03-30T02:54:22.956Z"
+generated_at: "2026-11-23T20:26:20.450Z"
+status: "active"
 ---
 
 # § 1303. Terms of agreement; required provisions
@@ -19,3 +20,7 @@ In the agreement between the Secretary and an owner or operator, the owner or op
   - **(5)** upon transfer of his right and interest in the lands subject to the agreement during the agreement period, to forfeit all rights to further payments or grants under the agreement and refund to the United States all payments or grants received thereunder during the year of the transfer unless the transferee of any such land agrees with the Secretary to assume all obligations of the agreement;
   - **(6)** not to adopt any practice specified by the Secretary in the agreement as a practice which would tend to defeat the purposes of the agreement; and
   - **(7)** to such additional provisions as the Secretary determines are desirable and includes in the agreement to effectuate the purposes of the program or to facilitate its administration.
+
+## Source Credit
+
+*([Pub. L. 91–559, § 4](https://www.govinfo.gov/link/plaw/91/public/559), Dec. 19, 1970, [84 Stat. 1470](https://www.govinfo.gov/link/statute/84/1470).)*

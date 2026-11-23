@@ -3,9 +3,10 @@ title: "Section 6659 - Improper claim for Trump account contribution pilot progr
 usc_title: 26
 usc_section: "6659"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6659"
-generated_at: "2026-03-30T02:55:27.861Z"
+generated_at: "2026-11-23T20:26:46.703Z"
+status: "active"
 ---
 
 # § 6659. Improper claim for Trump account contribution pilot program credit
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:27.861Z"
 - **(b)**
   - **(1)** The term “eligible child” has the meaning given such term under section 6434.
   - **(2)** The terms “negligence” and “disregard” have the same meaning as when such terms are used in section 6662.
+
+## Source Credit
+
+*(Added [Pub. L. 119–21, title VII, § 70204(d)(2)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 188](https://www.govinfo.gov/link/statute/139/188).)*

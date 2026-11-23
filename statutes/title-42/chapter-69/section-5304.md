@@ -3,9 +3,10 @@ title: "Section 5304 - Statement of activities and review"
 usc_title: 42
 usc_section: "5304"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5304"
-generated_at: "2026-03-30T02:56:11.228Z"
+generated_at: "2026-11-23T20:27:22.518Z"
+status: "active"
 ---
 
 # § 5304. Statement of activities and review
@@ -87,3 +88,37 @@ generated_at: "2026-03-30T02:56:11.228Z"
     - **(A)** shall include only the needs within the State that affect more than one unit of general local government and involve activities typically funded by such States under this chapter; and
     - **(B)** shall be submitted to the Secretary in such standard form as the Secretary, by regulation, shall prescribe.
   - **(4)** A submission under this subsection shall not be binding with respect to the use or distribution of amounts received under section 5306 of this title .
+
+Establishment of Demonstration Program
+
+Integrated Database System and Computer Mapping Tool.—
+
+Development and purposes
+
+Availability to states
+
+Coordination with existing technology
+
+Technical Assistance
+
+Grants.—
+
+Authority and purpose
+
+Limitations
+
+Application and selection
+
+State Coordination of Local Needs
+
+Reports by Secretary
+
+Authorization of Appropriations
+
+In General
+
+Applicability
+
+## Source Credit
+
+*([Pub. L. 93–383, title I, § 104](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 638](https://www.govinfo.gov/link/statute/88/638); [Pub. L. 95–128, title I](https://www.govinfo.gov/link/plaw/95/public/128), §§ 104, 110(a), Oct. 12, 1977, [91 Stat. 1114](https://www.govinfo.gov/link/statute/91/1114), 1125; [Pub. L. 95–557, title I, § 103(a)](https://www.govinfo.gov/link/plaw/95/public/557) –(d), Oct. 31, 1978, [92 Stat. 2083](https://www.govinfo.gov/link/statute/92/2083); [Pub. L. 96–153, title I](https://www.govinfo.gov/link/plaw/96/public/153), §§ 103(c), (g), 109(a), Dec. 21, 1979, [93 Stat. 1102](https://www.govinfo.gov/link/statute/93/1102), 1105; [Pub. L. 96–399, title I](https://www.govinfo.gov/link/plaw/96/public/399), §§ 101(d), 104(b), 105(a), 109, 111(c), Oct. 8, 1980, [94 Stat. 1615](https://www.govinfo.gov/link/statute/94/1615), 1616, 1618, 1619, 1621; [Pub. L. 97–35, title III](https://www.govinfo.gov/link/plaw/97/public/35), §§ 302(b), (c)(1), (d)–(f), 309(d), Aug. 13, 1981, [95 Stat. 384](https://www.govinfo.gov/link/statute/95/384), 386, 387, 396; [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title I, §§ 101(b)], 104, Nov. 30, 1983, [97 Stat. 1159](https://www.govinfo.gov/link/statute/97/1159), 1161; [Pub. L. 98–479, title I, § 101(a)(5)](https://www.govinfo.gov/link/plaw/98/public/479) –(7), Oct. 17, 1984, [98 Stat. 2219](https://www.govinfo.gov/link/statute/98/2219); [Pub. L. 100–242, title V](https://www.govinfo.gov/link/plaw/100/public/242), §§ 502(c), 505–509(a), Feb. 5, 1988, [101 Stat. 1923](https://www.govinfo.gov/link/statute/101/1923), 1926, 1927; [Pub. L. 100–628, title X, § 1083](https://www.govinfo.gov/link/plaw/100/public/628), Nov. 7, 1988, [102 Stat. 3277](https://www.govinfo.gov/link/statute/102/3277); [Pub. L. 101–625, title IX](https://www.govinfo.gov/link/plaw/101/public/625), §§ 902(b), 905, 906, 922, Nov. 28, 1990, [104 Stat. 4385](https://www.govinfo.gov/link/statute/104/4385), 4387, 4402; [Pub. L. 102–550, title VIII](https://www.govinfo.gov/link/plaw/102/public/550), §§ 804, 808, 812, Oct. 28, 1992, [106 Stat. 3845](https://www.govinfo.gov/link/statute/106/3845), 3850; [Pub. L. 103–233, title II, § 232(a)(2)(B)](https://www.govinfo.gov/link/plaw/103/public/233), Apr. 11, 1994, [108 Stat. 367](https://www.govinfo.gov/link/statute/108/367); [Pub. L. 108–186, title V, § 501(c)](https://www.govinfo.gov/link/plaw/108/public/186), Dec. 16, 2003, [117 Stat. 2697](https://www.govinfo.gov/link/statute/117/2697); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814).)*

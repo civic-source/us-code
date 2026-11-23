@@ -3,9 +3,10 @@ title: "Section 60104 - Enforcement"
 usc_title: 34
 usc_section: "60104"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 60104"
-generated_at: "2026-03-30T02:55:33.316Z"
+generated_at: "2026-11-23T20:26:50.668Z"
+status: "active"
 ---
 
 # § 60104. Enforcement
@@ -14,3 +15,7 @@ Any person who is found in violation of the regulations established by sections 
 
   - **(1)** be liable to the United States for a civil penalty in an amount not to exceed $10,000 for each violation and, in addition, to the United States for the costs of prosecution; and
   - **(2)** make restitution to any entity of the United States, of a State, or of an inferior political subdivision of a State, which expends funds for the purpose of apprehending any violent prisoner who escapes from a prisoner transport company as the result, in whole or in part, of a violation of regulations promulgated pursuant to section 60103(a) of this title .
+
+## Source Credit
+
+*([Pub. L. 106–560, § 5](https://www.govinfo.gov/link/plaw/106/public/560), Dec. 21, 2000, [114 Stat. 2786](https://www.govinfo.gov/link/statute/114/2786).)*

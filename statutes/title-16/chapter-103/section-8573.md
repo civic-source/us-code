@@ -3,9 +3,10 @@ title: "Section 8573 - Interagency report on special recreation permits for unde
 usc_title: 16
 usc_section: "8573"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 8573"
-generated_at: "2026-03-30T02:54:23.089Z"
+generated_at: "2026-11-23T20:26:20.898Z"
+status: "active"
 ---
 
 # § 8573. Interagency report on special recreation permits for underserved communities
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:23.089Z"
   - **(3)** other ways covered communities are engaging on Federal recreational lands and waters, including through stewardship and conservation projects or activities;
   - **(4)** any barriers for existing or prospective recreation service providers and holders of commercial use authorizations operating within or serving a covered community; and
   - **(5)** any recommendations to facilitate and increase permitted access to Federal recreational lands and waters for covered communities.
+
+## Source Credit
+
+*([Pub. L. 118–234, title III, § 353](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2917](https://www.govinfo.gov/link/statute/138/2917).)*

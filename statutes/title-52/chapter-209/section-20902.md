@@ -3,9 +3,10 @@ title: "Section 20902 - Replacement of punch card or lever voting machines"
 usc_title: 52
 usc_section: "20902"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "52 U.S.C. § 20902"
-generated_at: "2026-03-30T02:56:30.165Z"
+generated_at: "2026-11-23T20:27:36.972Z"
+status: "active"
 ---
 
 # § 20902. Replacement of punch card or lever voting machines
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:56:30.165Z"
   - **(5)** Punch Card.
   - **(6)** Vote Recorder.
   - **(7)** Votomatic.
+
+## Source Credit
+
+*([Pub. L. 107–252, title I, § 102](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1670](https://www.govinfo.gov/link/statute/116/1670); [Pub. L. 110–28, title VI, § 6301(a)](https://www.govinfo.gov/link/plaw/110/public/28), May 25, 2007, [121 Stat. 171](https://www.govinfo.gov/link/statute/121/171); [Pub. L. 111–8, div. D, title VI, § 625(a)](https://www.govinfo.gov/link/plaw/111/public/8), Mar. 11, 2009, [123 Stat. 678](https://www.govinfo.gov/link/statute/123/678).)*

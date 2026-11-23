@@ -3,9 +3,10 @@ title: "Section 7424 - Assurance of adequacy of State plans"
 usc_title: 42
 usc_section: "7424"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7424"
-generated_at: "2026-03-30T02:56:11.302Z"
+generated_at: "2026-11-23T20:27:22.863Z"
+status: "active"
 ---
 
 # § 7424. Assurance of adequacy of State plans
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.302Z"
 - **(b)**
   - **(1)** Not later than eighteen months after August 7, 1977 , the Administrator shall review the submissions of the States under subsection (a) and shall require each State to revise its plan if, in the judgment of the Administrator, such plan revision is necessary to assure that such plan will be adequate to assure compliance with the requirements of this chapter in such State on a reliable and long-term basis, taking into account the actual or potential prohibitions on use of petroleum products or natural gas, or both, under any other authority of law.
   - **(2)** Before requiring a plan revision under this subsection, with respect to any State the Administrator shall take into account the report of the review conducted by such State under paragraph (1) and shall consult with the Governor of the State respecting such required revision.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 124, as added [Pub. L. 95–95, title I, § 122](https://www.govinfo.gov/link/plaw/95/public/95), Aug. 7, 1977, [91 Stat. 722](https://www.govinfo.gov/link/statute/91/722).)*

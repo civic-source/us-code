@@ -3,9 +3,10 @@ title: "Section 1428 - Permanent self-funding; duty to assess and collect fees f
 usc_title: 47
 usc_section: "1428"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 1428"
-generated_at: "2026-03-30T02:56:24.534Z"
+generated_at: "2026-11-23T20:27:28.996Z"
+status: "active"
 ---
 
 # § 1428. Permanent self-funding; duty to assess and collect fees for network use
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:24.534Z"
 - **(b)** The total amount of the fees assessed for each fiscal year pursuant to this section shall be sufficient, and shall not exceed the amount necessary, to recoup the total expenses of the First Responder Network Authority in carrying out its duties and responsibilities described under this subchapter for the fiscal year involved.
 - **(c)** The NTIA shall review the fees assessed under this section on an annual basis, and such fees may only be assessed if approved by the NTIA.
 - **(d)** The First Responder Network Authority shall reinvest amounts received from the assessment of fees under this section in the nationwide public safety interoperable broadband network by using such funds only for constructing, maintaining, operating, or improving the network.
+
+## Source Credit
+
+*([Pub. L. 112–96, title VI, § 6208](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 215](https://www.govinfo.gov/link/statute/126/215).)*

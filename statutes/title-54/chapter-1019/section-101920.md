@@ -3,9 +3,10 @@ title: "Section 101920 - Contracting for services"
 usc_title: 54
 usc_section: "101920"
 chapter: 1019
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "54 U.S.C. § 101920"
-generated_at: "2026-03-30T02:56:28.415Z"
+generated_at: "2026-11-23T20:27:38.024Z"
+status: "active"
 ---
 
 # § 101920. Contracting for services
@@ -22,3 +23,34 @@ generated_at: "2026-03-30T02:56:28.415Z"
     - **(C)** Making recommendations to the Director regarding the conduct of annual audits of concession fee expenditures.
 - **(b)** The Secretary shall consider, taking into account the recommendations of the Advisory Board, contracting out other elements of the concessions management program, as appropriate.
 - **(c)** Nothing in this section shall diminish the governmental responsibilities and authority of the Secretary to administer concession contracts and activities pursuant to this subchapter and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of this title. The Secretary reserves the right to make the final decision or contract approval on contracting services dealing with the management of the Service concessions program under this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 101920 | 16 U.S.C. 5959 . | Pub. L. 105–391, title IV, § 410 , Nov. 13, 1998 , 112 Stat. 3514 . |
+
+
+Contracting Authorized.—
+
+Management elements for which contract required to maximum extent practicable
+
+Management elements for which contract allowed
+
+Other Management Elements
+
+Authority of Secretary Not Diminished
+
+Historical and Revision Notes
+
+101920
+
+16 U.S.C. 5959
+
+Pub. L. 105–391, title IV, § 410
+
+Nov. 13, 1998
+
+112 Stat. 3514
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3149](https://www.govinfo.gov/link/statute/128/3149).)*

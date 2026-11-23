@@ -3,9 +3,10 @@ title: "Section 618 - Funding for child care"
 usc_title: 42
 usc_section: "618"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 618"
-generated_at: "2026-03-30T02:56:10.875Z"
+generated_at: "2026-11-23T20:27:20.851Z"
+status: "active"
 ---
 
 # § 618. Funding for child care
@@ -37,3 +38,11 @@ generated_at: "2026-03-30T02:56:10.875Z"
   - **(2)** A State shall ensure that not less than 70 percent of the total amount of funds received by the State in a fiscal year under this section are used to provide child care assistance to families who are receiving assistance under a State program under this part, families who are attempting through work activities to transition off of such assistance program, and families who are at risk of becoming dependent on such assistance program.
 - **(c)** Notwithstanding any other provision of law, amounts provided to a State under this section shall be transferred to the lead agency under the Child Care and Development Block Grant Act of 1990 [ 42 U.S.C. 9857 et seq.], integrated by the State into the programs established by the State under such Act, and be subject to requirements and limitations of such Act.
 - **(d)** As used in this section, the term “State” means each of the 50 States and the District of Columbia.
+
+In General
+
+Exceptions
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 418, as added [Pub. L. 104–193, title VI, § 603(b)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2279](https://www.govinfo.gov/link/statute/110/2279); amended [Pub. L. 105–33, title V, § 5601](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 644](https://www.govinfo.gov/link/statute/111/644); [Pub. L. 108–40, § 4](https://www.govinfo.gov/link/plaw/108/public/40), June 30, 2003, [117 Stat. 837](https://www.govinfo.gov/link/statute/117/837); [Pub. L. 109–171, title VII, § 7201](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 141](https://www.govinfo.gov/link/statute/120/141); [Pub. L. 112–96, title IV, § 4002(g)](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 195](https://www.govinfo.gov/link/statute/126/195); [Pub. L. 115–31, div. M, title I, § 102(a)(4)](https://www.govinfo.gov/link/plaw/115/public/31), May 5, 2017, [131 Stat. 800](https://www.govinfo.gov/link/statute/131/800); [Pub. L. 117–2, title IX, § 9801(a)](https://www.govinfo.gov/link/plaw/117/public/2), (c), Mar. 11, 2021, [135 Stat. 207](https://www.govinfo.gov/link/statute/135/207).)*

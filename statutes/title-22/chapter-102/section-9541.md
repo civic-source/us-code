@@ -3,9 +3,10 @@ title: "Section 9541 - Findings"
 usc_title: 22
 usc_section: "9541"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9541"
-generated_at: "2026-03-30T02:55:05.467Z"
+generated_at: "2026-11-23T20:26:32.780Z"
+status: "active"
 ---
 
 # § 9541. Findings
@@ -20,3 +21,7 @@ Congress makes the following findings:
   - **(6)** The Government of the Russian Federation is—
     - **(A)** in violation of the Treaty between the United States of America and the Union of Soviet Socialist Republics on the Elimination of their Intermediate-Range and Shorter-Range Missiles, signed at Washington December 8, 1987 , and entered into force June 1, 1988 (commonly known as the “INF Treaty”); and
     - **(B)** failing to meet its obligations under the Treaty on Open Skies, done at Helsinki March 24, 1992 , and entered into force January 1, 2002 (commonly known as the “Open Skies Treaty”).
+
+## Source Credit
+
+*([Pub. L. 115–44, title II, § 251](https://www.govinfo.gov/link/plaw/115/public/44), Aug. 2, 2017, [131 Stat. 925](https://www.govinfo.gov/link/statute/131/925).)*

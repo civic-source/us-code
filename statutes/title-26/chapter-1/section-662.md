@@ -3,9 +3,10 @@ title: "Section 662 - Inclusion of amounts in gross income of beneficiaries of e
 usc_title: 26
 usc_section: "662"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 662"
-generated_at: "2026-03-30T02:55:27.723Z"
+generated_at: "2026-11-23T20:26:45.852Z"
+status: "active"
 ---
 
 # § 662. Inclusion of amounts in gross income of beneficiaries of estates and trusts accumulating income or distributing corpus
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:27.723Z"
     - **(B)** all other amounts properly paid, credited, or required to be distributed to all beneficiaries
 - **(b)** The amounts determined under subsection (a) shall have the same character in the hands of the beneficiary as in the hands of the estate or trust. For this purpose, the amounts shall be treated as consisting of the same proportion of each class of items entering into the computation of distributable net income as the total of each class bears to the total distributable net income of the estate or trust unless the terms of the governing instrument specifically allocate different classes of income to different beneficiaries. In the application of the preceding sentence, the items of deduction entering into the computation of distributable net income (including the deduction allowed under section 642(c)) shall be allocated among the items of distributable net income in accordance with regulations prescribed by the Secretary. In the application of this subsection to the amount determined under paragraph (1) of subsection (a), distributable net income shall be computed without regard to any portion of the deduction under section 642(c) which is not attributable to income of the taxable year.
 - **(c)** If the taxable year of a beneficiary is different from that of the estate or trust, the amount to be included in the gross income of the beneficiary shall be based on the distributable net income of the estate or trust and the amounts properly paid, credited, or required to be distributed to the beneficiary during any taxable year or years of the estate or trust ending within or with his taxable year.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 220; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834).)*

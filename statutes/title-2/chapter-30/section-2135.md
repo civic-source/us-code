@@ -3,12 +3,17 @@ title: "Section 2135 - Private studios and works of art"
 usc_title: 2
 usc_section: "2135"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 2135"
-generated_at: "2026-03-30T02:53:04.825Z"
+generated_at: "2026-11-23T20:25:29.015Z"
+status: "active"
 ---
 
 # § 2135. Private studios and works of art
 
 No room in the Capitol shall be used for private studios or works of art, without permission from the Joint Committee on the Library, given in writing; and it shall be the duty of the Architect of the Capitol to carry this provision into effect.
 
+
+## Source Credit
+
+*(Mar. 3, 1875, ch. 130, [18 Stat. 376](https://www.govinfo.gov/link/statute/18/376).)*

@@ -3,9 +3,10 @@ title: "Section 1092 - Institutional and financial assistance information for st
 usc_title: 20
 usc_section: "1092"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1092"
-generated_at: "2026-03-30T02:54:48.133Z"
+generated_at: "2026-11-23T20:26:14.512Z"
+status: "active"
 ---
 
 # § 1092. Institutional and financial assistance information for students
@@ -371,3 +372,119 @@ generated_at: "2026-03-30T02:54:48.133Z"
     - **(C)** the dates of the activity for which the expenses were paid or provided; and
     - **(D)** a brief description of the activity for which the expenses were paid or provided.
   - **(2)** The Secretary shall summarize the information received from institutions of higher education under paragraph (1) in a report and transmit such report annually to the authorizing committees.
+
+(aa) whipping, beating, striking, electronic shocking, placing of a harmful substance on someone’s body, or similar activity;
+
+(bb) causing, coercing, or otherwise inducing sleep deprivation, exposure to the elements, confinement in a small space, extreme calisthenics, or other similar activity;
+
+(cc) causing, coercing, or otherwise inducing another person to consume food, liquid, alcohol, drugs, or other substances;
+
+(dd) causing, coercing, or otherwise inducing another person to perform sexual acts;
+
+(ee) any activity that places another person in reasonable fear of bodily harm through the use of threatening words or conduct;
+
+(ff) any activity against another person that includes a criminal violation of local, State, Tribal, or Federal law; and
+
+(gg) any activity that induces, causes, or requires another person to perform a duty or task that involves a criminal violation of local, State, Tribal, or Federal law.
+
+(aa) a statement that the institution of higher education prohibits the offenses of domestic violence, dating violence, sexual assault, and stalking;
+
+(bb) the definition of domestic violence, dating violence, sexual assault, and stalking in the applicable jurisdiction;
+
+(cc) the definition of consent, in reference to sexual activity, in the applicable jurisdiction;
+
+(dd) safe and positive options for bystander intervention that may be carried out by an individual to prevent harm or intervene when there is a risk of domestic violence, dating violence, sexual assault, or stalking against a person other than such individual;
+
+(ee) information on risk reduction to recognize warning signs of abusive behavior and how to avoid potential attacks; and
+
+(ff) the information described in clauses (ii) through (vii); and
+
+(aa) notify proper law enforcement authorities, including on-campus and local police;
+
+(bb) be assisted by campus authorities in notifying law enforcement authorities if the victim so chooses; and
+
+(cc) decline to notify such authorities; and
+
+(aa) provide a prompt, fair, and impartial investigation and resolution; and
+
+(bb) be conducted by officials who receive annual training on the issues related to domestic violence, dating violence, sexual assault, and stalking and how to conduct an investigation and hearing process that protects the safety of victims and promotes accountability;
+
+(aa) the outcome of any institutional disciplinary proceeding that arises from an allegation of domestic violence, dating violence, sexual assault, or stalking;
+
+(bb) the institution’s procedures for the accused and the victim to appeal the results of the institutional disciplinary proceeding;
+
+(cc) of any change to the results that occurs prior to the time that such results become final; and
+
+(dd) when such results become final.
+
+(aa) the incident was alleged to have occurred;
+
+(bb) the investigation into the incident was initiated;
+
+(cc) the investigation ended with a finding that a hazing violation occurred; and
+
+(dd) the institution provided notice to the student organization that the incident resulted in a hazing violation.
+
+“The amendments made by this section [amending this section] shall—
+
+In General
+
+Information dissemination
+
+“The amendment made by this subsection to subparagraph (F)(ii) of section 485(f)(1) of the Act [ 20 U.S.C. 1092(f)(1)(F)(ii) ] shall be effective with respect to reports made pursuant to such section on or after September 1, 1993 . The statistics required by subparagraph (F) of such section shall—
+
+Model Format
+
+Contents
+
+“The Congress finds that—
+
+“The Congress finds that—
+
+“The Congress finds that—
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 485](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title IV, § 407(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1482](https://www.govinfo.gov/link/statute/100/1482); amended [Pub. L. 100–50, § 15(10)](https://www.govinfo.gov/link/plaw/100/public/50), (11), June 3, 1987, [101 Stat. 357](https://www.govinfo.gov/link/statute/101/357); [Pub. L. 101–542, title I](https://www.govinfo.gov/link/plaw/101/public/542), §§ 103(a), (b), 104(a), title II, § 204(a), Nov. 8, 1990, [104 Stat. 2381–2385](https://www.govinfo.gov/link/statute/104/2381); [Pub. L. 101–610, title II](https://www.govinfo.gov/link/plaw/101/public/610), §§ 201–203, Nov. 16, 1990, [104 Stat. 3171](https://www.govinfo.gov/link/statute/104/3171), 3172; [Pub. L. 102–26, § 10(a)](https://www.govinfo.gov/link/plaw/102/public/26) –(d), Apr. 9, 1991, [105 Stat. 128](https://www.govinfo.gov/link/statute/105/128); [Pub. L. 102–164, title VI, § 603](https://www.govinfo.gov/link/plaw/102/public/164), Nov. 15, 1991, [105 Stat. 1066](https://www.govinfo.gov/link/statute/105/1066); [Pub. L. 102–325, title IV, § 486(a)](https://www.govinfo.gov/link/plaw/102/public/325) –(c)(2), July 23, 1992, [106 Stat. 620](https://www.govinfo.gov/link/statute/106/620), 621; [Pub. L. 103–208, § 2(h)(28)](https://www.govinfo.gov/link/plaw/103/public/208) –(37), (k)(9), Dec. 20, 1993, [107 Stat. 2477](https://www.govinfo.gov/link/statute/107/2477), 2486; [Pub. L. 103–382, title III, § 360B(c)](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 3970](https://www.govinfo.gov/link/statute/108/3970); [Pub. L. 104–208, div. A, title I, § 101(e) [title III, § 308]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–233](https://www.govinfo.gov/link/statute/110/3009), 3009–262; [Pub. L. 105–18, title VI, § 60001(a)](https://www.govinfo.gov/link/plaw/105/public/18), June 12, 1997, [111 Stat. 214](https://www.govinfo.gov/link/statute/111/214); [Pub. L. 105–244, title I, § 102(b)(3)](https://www.govinfo.gov/link/plaw/105/public/244), title IV, § 486, Oct. 7, 1998, [112 Stat. 1622](https://www.govinfo.gov/link/statute/112/1622), 1741; [Pub. L. 106–386, div. B, title VI, § 1601(c)(1)](https://www.govinfo.gov/link/plaw/106/public/386), Oct. 28, 2000, [114 Stat. 1537](https://www.govinfo.gov/link/statute/114/1537); [Pub. L. 110–315, title I, § 103(b)(11)](https://www.govinfo.gov/link/plaw/110/public/315), title IV, § 488, title X, § 1011(c), Aug. 14, 2008, [122 Stat. 3090](https://www.govinfo.gov/link/statute/122/3090), 3293, 3482; [Pub. L. 111–39, title IV, § 407(b)(5)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1951](https://www.govinfo.gov/link/statute/123/1951); [Pub. L. 113–4, title III, § 304(a)](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 89](https://www.govinfo.gov/link/statute/127/89); [Pub. L. 116–251, § 3](https://www.govinfo.gov/link/plaw/116/public/251), Dec. 22, 2020, [134 Stat. 1129](https://www.govinfo.gov/link/statute/134/1129); [Pub. L. 116–260, div. FF, title VII, § 702(n)(1)(C)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3186](https://www.govinfo.gov/link/statute/134/3186); [Pub. L. 118–173](https://www.govinfo.gov/link/plaw/118/public/173), §§ 2(a)(1), (2), (4)–(b), 3, 4, Dec. 23, 2024, [138 Stat. 2597–2599](https://www.govinfo.gov/link/statute/138/2597), 2601; [Pub. L. 119–21, title VIII, § 82001(c)(2)(C)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 341](https://www.govinfo.gov/link/statute/139/341).)*

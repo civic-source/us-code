@@ -3,9 +3,10 @@ title: "Section 811 - Authority and criteria for classification of substances"
 usc_title: 21
 usc_section: "811"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 811"
-generated_at: "2026-03-30T02:54:54.290Z"
+generated_at: "2026-11-23T20:26:27.816Z"
+status: "active"
 ---
 
 # § 811. Authority and criteria for classification of substances
@@ -78,3 +79,7 @@ generated_at: "2026-03-30T02:54:54.290Z"
     - **(A)** the date on which the Attorney General receives the scientific and medical evaluation and the scheduling recommendation from the Secretary of Health and Human Services in accordance with subsection (b); or
     - **(B)** the date on which the Attorney General receives notification from the Secretary of Health and Human Services that the Secretary has approved an application under section 505(c), 512, or 571 of the Federal Food, Drug, and Cosmetic Act [ 21 U.S.C. 355(c) , 360b, 360ccc] or section 262(a) of title 42 , or indexed a drug under section 572 of the Federal Food, Drug, and Cosmetic Act [ 21 U.S.C. 360ccc–1 ], with respect to the drug described in paragraph (1).
   - **(3)** A rule issued by the Attorney General under paragraph (1) shall become immediately effective as an interim final rule without requiring the Attorney General to demonstrate good cause therefor. The interim final rule shall give interested persons the opportunity to comment and to request a hearing. After the conclusion of such proceedings, the Attorney General shall issue a final rule in accordance with the scheduling criteria of subsections (b), (c), and (d) of this section and section 812(b) of this title .
+
+## Source Credit
+
+*([Pub. L. 91–513, title II, § 201](https://www.govinfo.gov/link/plaw/91/public/513), Oct. 27, 1970, [84 Stat. 1245](https://www.govinfo.gov/link/statute/84/1245); [Pub. L. 95–633, title I, § 102(a)](https://www.govinfo.gov/link/plaw/95/public/633), Nov. 10, 1978, [92 Stat. 3769](https://www.govinfo.gov/link/statute/92/3769); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695); [Pub. L. 98–473, title II](https://www.govinfo.gov/link/plaw/98/public/473), §§ 508, 509(a), Oct. 12, 1984, [98 Stat. 2071](https://www.govinfo.gov/link/statute/98/2071), 2072; [Pub. L. 108–358, § 2(b)](https://www.govinfo.gov/link/plaw/108/public/358), Oct. 22, 2004, [118 Stat. 1663](https://www.govinfo.gov/link/statute/118/1663); [Pub. L. 112–144, title XI, § 1153](https://www.govinfo.gov/link/plaw/112/public/144), July 9, 2012, [126 Stat. 1132](https://www.govinfo.gov/link/statute/126/1132); [Pub. L. 113–260, § 2(b)](https://www.govinfo.gov/link/plaw/113/public/260), Dec. 18, 2014, [128 Stat. 2930](https://www.govinfo.gov/link/statute/128/2930); [Pub. L. 114–89, § 2(b)](https://www.govinfo.gov/link/plaw/114/public/89), Nov. 25, 2015, [129 Stat. 700](https://www.govinfo.gov/link/statute/129/700).)*

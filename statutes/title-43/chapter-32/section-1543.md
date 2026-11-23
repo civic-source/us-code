@@ -3,9 +3,10 @@ title: "Section 1543 - Lower Colorado River Basin Development Fund"
 usc_title: 43
 usc_section: "1543"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1543"
-generated_at: "2026-03-30T02:55:57.476Z"
+generated_at: "2026-11-23T20:27:06.300Z"
+status: "active"
 ---
 
 # § 1543. Lower Colorado River Basin Development Fund
@@ -77,3 +78,15 @@ generated_at: "2026-03-30T02:55:57.476Z"
 - **(g)** All revenues credited to the development fund in accordance with subsection (c)(2) of this section (excluding only those revenues derived from the sale of power and energy for use in Arizona during the payout period of the Central Arizona Project as authorized herein) and such other revenues as remain in the development fund after making the payments required by subsections (d) and (f) of this section shall be available (1) to make payments, if any, as required by sections 616aa–1 and 620d–1 of this title, (2) for repayment to the general fund of the Treasury the costs of each salinity control unit or separable feature thereof 2 2 So in original. Probably should be followed by a comma. the costs of measures to replace incidental fish and wildlife values foregone, and the costs of on-farm measures payable from the Lower Colorado River Basin Development Fund in accordance with sections 1595(a)(2), 1595(a)(3), and 1595(b) of this title and (3) upon appropriation by the Congress, to assist in the repayment of reimbursable costs incurred in connection with units hereafter constructed to provide for the augmentation of the water supplies of the Colorado River for use below Lee Ferry as may be authorized as a result of the investigations and recommendations made pursuant to sections 1511 and 1513(a) of this title.
 - **(h)** The interest rate applicable to those portions of the reimbursable costs of each unit of the project which are properly allocated to commercial power development and municipal and industrial water supply shall be determined by the Secretary of the Treasury, as of the beginning of the fiscal year in which the first advance is made for initiating construction of such unit, on the basis of the computed average interest rate payable by the Treasury upon its outstanding marketable public obligations which are neither due nor callable for redemption for fifteen years from the date of issue.
 - **(i)** Business-type budgets shall be submitted to the Congress annually for all operations financed by the development fund.
+
+“Amounts made available under the amendment made by subsection (a) [amending this section]—
+
+In General
+
+Payment to General Fund
+
+Authorization
+
+## Source Credit
+
+*([Pub. L. 90–537, title IV, § 403](https://www.govinfo.gov/link/plaw/90/public/537), Sept. 30, 1968, [82 Stat. 894](https://www.govinfo.gov/link/statute/82/894); [Pub. L. 93–320, title II, § 205(b)(2)](https://www.govinfo.gov/link/plaw/93/public/320), June 24, 1974, [88 Stat. 273](https://www.govinfo.gov/link/statute/88/273); [Pub. L. 98–381, title I, § 102](https://www.govinfo.gov/link/plaw/98/public/381), Aug. 17, 1984, [98 Stat. 1333](https://www.govinfo.gov/link/statute/98/1333); [Pub. L. 98–569, § 4(f)(2)](https://www.govinfo.gov/link/plaw/98/public/569), Oct. 30, 1984, [98 Stat. 2939](https://www.govinfo.gov/link/statute/98/2939); [Pub. L. 108–451, title I, § 107(a)](https://www.govinfo.gov/link/plaw/108/public/451), (c), Dec. 10, 2004, [118 Stat. 3493](https://www.govinfo.gov/link/statute/118/3493), 3498.)*

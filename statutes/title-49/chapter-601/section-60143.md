@@ -3,9 +3,10 @@ title: "Section 60143 - Idled pipelines"
 usc_title: 49
 usc_section: "60143"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 60143"
-generated_at: "2026-03-30T02:56:19.416Z"
+generated_at: "2026-11-23T20:27:35.433Z"
+status: "active"
 ---
 
 # § 60143. Idled pipelines
@@ -30,3 +31,23 @@ generated_at: "2026-03-30T02:56:19.416Z"
         - **(II)** an internal inspection device; or
         - **(III)** if the use of hydrostatic pressure testing or an internal inspection device is not technologically feasible, another comparable technology or practice; and
       - **(ii)** in compliance with regulations promulgated under this chapter, including any regulations that became effective while the pipeline was idled.
+
+Definition of Idled
+
+Rulemaking.—
+
+In general
+
+Requirements.—
+
+In general
+
+Inspection
+
+Requirements for reinspection
+
+Resumption of operations
+
+## Source Credit
+
+*(Added [Pub. L. 116–260, div. R, title I, § 109(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2223](https://www.govinfo.gov/link/statute/134/2223).)*

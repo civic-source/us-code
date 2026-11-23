@@ -3,9 +3,10 @@ title: "Section 356 - Functions"
 usc_title: 2
 usc_section: "356"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 356"
-generated_at: "2026-03-30T02:53:04.796Z"
+generated_at: "2026-11-23T20:25:28.880Z"
+status: "active"
 ---
 
 # § 356. Functions
@@ -19,3 +20,7 @@ The Commission shall conduct, in each of the respective fiscal years referred to
     - **(E)** the Governors of the Board of Governors of the United States Postal Service appointed under section 202 of title 39 .
       - **(i)** the appropriate pay levels and relationships between and among the respective offices and positions covered by such review, and
       - **(ii)** the appropriate pay relationships between such offices and positions and the offices and positions subject to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, relating to classification and General Schedule pay rates.
+
+## Source Credit
+
+*([Pub. L. 90–206, title II, § 225(f)](https://www.govinfo.gov/link/plaw/90/public/206), Dec. 16, 1967, [81 Stat. 643](https://www.govinfo.gov/link/statute/81/643); [Pub. L. 91–375, § 6(a)](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 775](https://www.govinfo.gov/link/statute/84/775); [Pub. L. 94–82, title II, § 206(a)](https://www.govinfo.gov/link/plaw/94/public/82), Aug. 9, 1975, [89 Stat. 423](https://www.govinfo.gov/link/statute/89/423); [Pub. L. 95–598, title III, § 301](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2673](https://www.govinfo.gov/link/statute/92/2673); [Pub. L. 97–164, title I, § 143](https://www.govinfo.gov/link/plaw/97/public/164), Apr. 2, 1982, [96 Stat. 45](https://www.govinfo.gov/link/statute/96/45); [Pub. L. 99–190, § 135(b)](https://www.govinfo.gov/link/plaw/99/public/190), Dec. 19, 1985, [99 Stat. 1322](https://www.govinfo.gov/link/statute/99/1322); [Pub. L. 100–202, § 101(a) [title IV, § 408(c)]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329](https://www.govinfo.gov/link/statute/101/1329), 1329–27; [Pub. L. 101–194, title VII, § 701(d)](https://www.govinfo.gov/link/plaw/101/public/194), Nov. 30, 1989, [103 Stat. 1764](https://www.govinfo.gov/link/statute/103/1764); [Pub. L. 102–572, title IX, § 902(b)(1)](https://www.govinfo.gov/link/plaw/102/public/572), Oct. 29, 1992, [106 Stat. 4516](https://www.govinfo.gov/link/statute/106/4516).)*

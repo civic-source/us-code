@@ -3,9 +3,10 @@ title: "Section 346 - Special provisions related to the treatment of State and l
 usc_title: 11
 usc_section: "346"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 346"
-generated_at: "2026-03-30T02:53:53.874Z"
+generated_at: "2026-11-23T20:25:55.341Z"
+status: "active"
 ---
 
 # § 346. Special provisions related to the treatment of State and local taxes
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:53.874Z"
 - **(k)**
   - **(1)** Except as provided in this section and section 505, the time and manner of filing tax returns and the items of income, gain, loss, deduction, and credit of any taxpayer shall be determined under applicable nonbankruptcy law.
   - **(2)** For Federal tax purposes, the provisions of this section are subject to the Internal Revenue Code of 1986 and other applicable Federal nonbankruptcy law.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2565](https://www.govinfo.gov/link/statute/92/2565); [Pub. L. 98–353, title III, § 438](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 370](https://www.govinfo.gov/link/statute/98/370); [Pub. L. 99–554, title II](https://www.govinfo.gov/link/plaw/99/public/554), §§ 257(g), 283(c), Oct. 27, 1986, [100 Stat. 3114](https://www.govinfo.gov/link/statute/100/3114), 3116; [Pub. L. 103–394, title V, § 501(d)(4)](https://www.govinfo.gov/link/plaw/103/public/394), Oct. 22, 1994, [108 Stat. 4143](https://www.govinfo.gov/link/statute/108/4143); [Pub. L. 109–8, title VII, § 719(a)(1)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 131](https://www.govinfo.gov/link/statute/119/131).)*

@@ -3,9 +3,10 @@ title: "Section 6215 - Establishment of Radio Free Afghanistan"
 usc_title: 22
 usc_section: "6215"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6215"
-generated_at: "2026-03-30T02:55:05.426Z"
+generated_at: "2026-11-23T20:26:32.603Z"
+status: "active"
 ---
 
 # § 6215. Establishment of Radio Free Afghanistan
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:05.426Z"
   - **(2)** Grants made to RFE/RL, Incorporated, during the fiscal year 2002 for support of Radio Free Afghanistan may be made without regard to section 308(c) of the United States International Broadcasting Act of 1994 ( 22 U.S.C. 6207(c) ).
 - **(c)** In addition to the authorities in this section, the authorities applicable to carry out United States Government broadcasting activities under the United States Information and Educational Exchange Act of 1948 [ 22 U.S.C. 1431 et seq.], the United States International Broadcasting Act of 1994 [ 22 U.S.C. 6201 et seq.], the Foreign Affairs Reform and Restructuring Act of 1998, and other provisions of law consistent with such purpose may be used to carry out the grant authority of subsection (b).
 - **(d)** Radio Free Afghanistan shall adhere to the same standards of professionalism and accountability, and shall be subject to the same oversight mechanisms, as other services of RFE/RL, Incorporated.
+
+## Source Credit
+
+*([Pub. L. 107–148, § 2](https://www.govinfo.gov/link/plaw/107/public/148), Mar. 11, 2002, [116 Stat. 64](https://www.govinfo.gov/link/statute/116/64).)*

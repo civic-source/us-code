@@ -3,9 +3,10 @@ title: "Section 2002 - Reports"
 usc_title: 48
 usc_section: "2002"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 2002"
-generated_at: "2026-03-30T02:56:14.602Z"
+generated_at: "2026-11-23T20:27:28.193Z"
+status: "active"
 ---
 
 # § 2002. Reports
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:14.602Z"
     - **(B)** coordinating Federal actions in a manner which recognizes the unique circumstances and needs of the noncontiguous Pacific areas; and
     - **(C)** achieving the objective of Federal policy and ensuring that the Congress receives the information necessary to discharge its responsibilities; and
   - **(4)** actions which may be needed to facilitate the economic and social health and development of the noncontiguous Pacific areas, consistent with their self-determined objectives.
+
+## Source Credit
+
+*([Pub. L. 99–239, title III, § 302](https://www.govinfo.gov/link/plaw/99/public/239), Jan. 14, 1986, [99 Stat. 1837](https://www.govinfo.gov/link/statute/99/1837).)*

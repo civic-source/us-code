@@ -3,9 +3,10 @@ title: "Section 1484b - Deferral of duty on large yachts imported for sale at Un
 usc_title: 19
 usc_section: "1484b"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1484b"
-generated_at: "2026-03-30T02:54:24.637Z"
+generated_at: "2026-11-23T20:26:10.779Z"
+status: "active"
 ---
 
 # § 1484b. Deferral of duty on large yachts imported for sale at United States boat shows
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:24.637Z"
     - **(B)** the bond posted as required by subsection (c)(2) shall be returned to the importer.
   - **(2)** No extensions of the bond period shall be allowed. Any large yacht exported in compliance with the bond period may not be reentered for purposes of sale at a boat show in the United States (in order to receive duty deferral benefits) for a period of 3 months after such exportation.
 - **(f)** The Secretary of the Treasury is authorized to make such rules and regulations as may be necessary to carry out the provisions of this section.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 484b, as added [Pub. L. 106–36, title II, § 2406(a)](https://www.govinfo.gov/link/plaw/106/public/36), June 25, 1999, [113 Stat. 170](https://www.govinfo.gov/link/statute/113/170).)*

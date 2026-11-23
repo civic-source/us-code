@@ -3,9 +3,10 @@ title: "Section 14501 - Application"
 usc_title: 46
 usc_section: "14501"
 chapter: 145
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 14501"
-generated_at: "2026-03-30T02:56:15.560Z"
+generated_at: "2026-11-23T20:27:27.192Z"
+status: "active"
 ---
 
 # § 14501. Application
@@ -14,3 +15,7 @@ This chapter applies to the following:
 
   - **(1)** A vessel not measured under chapter 143 of this title if the application of an international agreement or other law of the United States to the vessel depends on the vessel’s tonnage.
   - **(2)** A vessel measured under chapter 143 of this title if the owner requests that the vessel also be measured under this chapter as provided in section 14305 of this title .
+
+## Source Credit
+
+*([Pub. L. 99–509, title V, § 5101(3)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1923](https://www.govinfo.gov/link/statute/100/1923); [Pub. L. 111–281, title III, § 303(g)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2925](https://www.govinfo.gov/link/statute/124/2925).)*

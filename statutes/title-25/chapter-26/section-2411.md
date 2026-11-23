@@ -3,9 +3,10 @@ title: "Section 2411 - Inter-departmental Memorandum of Agreement"
 usc_title: 25
 usc_section: "2411"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 2411"
-generated_at: "2026-03-30T02:54:52.840Z"
+generated_at: "2026-11-23T20:26:25.590Z"
+status: "active"
 ---
 
 # § 2411. Inter-departmental Memorandum of Agreement
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:52.840Z"
   - **(3)** Indian organizations, and
   - **(4)** professionals in the treatment of alcohol and substance abuse.
 - **(d)** The Memorandum of Agreement under subsection (a) shall be submitted to Congress and published in the Federal Register not later than 130 days after July 29, 2010 . At the same time as publication in the Federal Register, the Secretary of the Interior shall provide a copy of this chapter and the Memorandum of Agreement under subsection (a) to each Indian tribe.
+
+## Source Credit
+
+*([Pub. L. 99–570, title IV, § 4205](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–139](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 111–211, title II, § 241(a)(1)](https://www.govinfo.gov/link/plaw/111/public/211), July 29, 2010, [124 Stat. 2287](https://www.govinfo.gov/link/statute/124/2287).)*

@@ -3,9 +3,10 @@ title: "Section 1109 - Undefinitized contractual actions"
 usc_title: 14
 usc_section: "1109"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 1109"
-generated_at: "2026-03-30T02:53:51.492Z"
+generated_at: "2026-11-23T20:25:54.555Z"
+status: "active"
 ---
 
 # § 1109. Undefinitized contractual actions
@@ -42,3 +43,41 @@ generated_at: "2026-03-30T02:53:51.492Z"
       - **(ii)** purchases in an amount not in excess of the amount of the simplified acquisition threshold; or
       - **(iii)** special access programs.
   - **(2)** The term “qualifying proposal” means a proposal that contains sufficient information to enable complete and meaningful audits of the information contained in the proposal as determined by the contracting officer.
+
+In General
+
+Requests for Undefinitized Contractual Actions
+
+Requirements for Undefinitized Contractual Actions.—
+
+Deadline for agreement on terms, specifications, and price
+
+Limitation on obligations.—
+
+In general
+
+Exception
+
+Waiver
+
+Limitation on application
+
+Inclusion of Nonurgent Requirements
+
+Modification of Scope
+
+Allowable Profit
+
+Definitions
+
+Undefinitized contractual action.—
+
+In general
+
+Exclusion
+
+Qualifying proposal
+
+## Source Credit
+
+*(Added [Pub. L. 111–281, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2938](https://www.govinfo.gov/link/statute/124/2938), § 567; renumbered § 1109, [Pub. L. 115–282, title I, § 108(b)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4208](https://www.govinfo.gov/link/statute/132/4208).)*

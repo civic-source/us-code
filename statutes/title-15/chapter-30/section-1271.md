@@ -3,12 +3,17 @@ title: "Section 1271 - Records of interstate shipment"
 usc_title: 15
 usc_section: "1271"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1271"
-generated_at: "2026-03-30T02:54:08.131Z"
+generated_at: "2026-11-23T20:26:03.987Z"
+status: "active"
 ---
 
 # § 1271. Records of interstate shipment
 
 For the purpose of enforcing the provisions of this chapter, carriers engaged in interstate commerce, and persons receiving hazardous substances in interstate commerce or holding such hazardous substances so received shall, upon the request of an officer or employee duly designated by the Commission, permit such officer or employee, at reasonable times, to have access to and to copy all records showing the movement in interstate commerce of any such hazardous substance, or the holding thereof during or after such movement, and the quantity, shipper, and consignee thereof; and it shall be unlawful for any such carrier or person to fail to permit such access to and copying of any record so requested when such request is accompanied by a statement in writing specifying the nature or kind of such hazardous substance to which such request relates: Provided , That evidence obtained under this section, or any evidence which is directly or indirectly derived from such evidence, shall not be used in a criminal prosecution of the person from whom obtained: Provided further , That carriers shall not be subject to the other provisions of this chapter by reason of their receipt, carriage, holding, or delivery of hazardous substances in the usual course of business as carriers.
 
+
+## Source Credit
+
+*([Pub. L. 86–613, § 12](https://www.govinfo.gov/link/plaw/86/public/613), July 12, 1960, [74 Stat. 379](https://www.govinfo.gov/link/statute/74/379); [Pub. L. 91–452, title II, § 219](https://www.govinfo.gov/link/plaw/91/public/452), Oct. 15, 1970, [84 Stat. 929](https://www.govinfo.gov/link/statute/84/929); [Pub. L. 110–314, title II, § 204(b)(4)(B)](https://www.govinfo.gov/link/plaw/110/public/314), Aug. 14, 2008, [122 Stat. 3041](https://www.govinfo.gov/link/statute/122/3041).)*

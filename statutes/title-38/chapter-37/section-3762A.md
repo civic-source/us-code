@@ -3,9 +3,10 @@ title: "Section 3762A - Native community development financial institution relen
 usc_title: 38
 usc_section: "3762A"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 3762A"
-generated_at: "2026-03-30T02:55:53.515Z"
+generated_at: "2026-11-23T20:27:01.915Z"
+status: "active"
 ---
 
 # § 3762A. Native community development financial institution relending program
@@ -27,3 +28,19 @@ generated_at: "2026-03-30T02:55:53.515Z"
   - **(2)** bear interest at a rate of one percent.
 - **(e)** Subject to notice and opportunity for a hearing, whenever the Secretary finds with respect to loans made under subsection (a) or (c) that any Native community development financial institution has failed to maintain adequate loan accounting records, to demonstrate proper ability to service loans adequately, or to exercise proper credit judgment, or that such Native community development financial institution has willfully or negligently engaged in practices otherwise detrimental to the interest of veterans or of the Government, the Secretary may take such actions as the Secretary determines necessary to protect veterans or the Government, such as requiring immediate repayment of any loans made under subsection (a) and the assignment to the Secretary of loans made under subsection (c).
 - **(f)** The Secretary may not make a loan under this section after September 30, 2027 .
+
+Purpose
+
+Standards
+
+Relending Requirements
+
+Repayment
+
+Oversight
+
+Sunset
+
+## Source Credit
+
+*(Added [Pub. L. 118–210, title II, § 232(a)](https://www.govinfo.gov/link/plaw/118/public/210), Jan. 2, 2025, [138 Stat. 2787](https://www.govinfo.gov/link/statute/138/2787).)*

@@ -3,9 +3,10 @@ title: "Section 6703 - Required contract terms"
 usc_title: 41
 usc_section: "6703"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 6703"
-generated_at: "2026-03-30T02:55:55.810Z"
+generated_at: "2026-11-23T20:27:04.473Z"
+status: "active"
 ---
 
 # § 6703. Required contract terms
@@ -17,3 +18,44 @@ A contract, and bid specification for a contract, to which this chapter applies 
   - **(3)** The contract and bid specification shall contain a provision specifying that no part of the services covered by this chapter may be performed in buildings or surroundings or under working conditions, provided by or under the control or supervision of the contractor or any subcontractor, which are unsanitary or hazardous or dangerous to the health or safety of service employees engaged to provide the services.
   - **(4)** The contract and bid specification shall contain a provision specifying that on the date a service employee begins work on a contract to which this chapter applies, the contractor or subcontractor will deliver to the employee a notice of the compensation required under paragraphs (1) and (2), on a form prepared by the Federal agency, or will post a notice of the required compensation in a prominent place at the worksite.
   - **(5)** The contract and bid specification shall contain a statement of the rates that would be paid by the Federal agency to each class of service employee if section 5332 or 5341 of title 5 were applicable to them. The Secretary shall give due consideration to these rates in making the wage and fringe benefit determinations specified in this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 6703 | 41:351(a) (words before par. (1) related to required contract terms), (1)–(5). | Pub. L. 89–286, § 2(a) (words before par. (1) related to required contract terms), (1)–(5), Oct. 22, 1965 , 79 Stat. 1034 ; Pub. L. 92–473 , §§ 1, 2, Oct. 9, 1972 , 86 Stat. 789 ; Pub. L. 94–489, § 2 , Oct. 13, 1976 , 90 Stat. 2358 . |
+
+
+Minimum wage
+
+Fringe benefits
+
+Working conditions
+
+Notice
+
+General schedule pay rates and prevailing rate systems
+
+Historical and Revision Notes
+
+6703
+
+Pub. L. 89–286, § 2(a)
+
+Oct. 22, 1965
+
+79 Stat. 1034
+
+Pub. L. 92–473
+
+Oct. 9, 1972
+
+86 Stat. 789
+
+Pub. L. 94–489, § 2
+
+Oct. 13, 1976
+
+90 Stat. 2358
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3812](https://www.govinfo.gov/link/statute/124/3812).)*

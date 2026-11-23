@@ -3,9 +3,10 @@ title: "Section 80r - Findings"
 usc_title: 20
 usc_section: "80r"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 80r"
-generated_at: "2026-03-30T02:54:48.077Z"
+generated_at: "2026-11-23T20:26:14.234Z"
+status: "active"
 ---
 
 # § 80r. Findings
@@ -22,3 +23,7 @@ Congress finds that—
       - **(iv)** the civil rights movement; and
       - **(v)** other periods associated with African American life, art, history, and culture; and
   - **(3)** a National Museum of African American History and Culture would be dedicated to the collection, preservation, research, and exhibition of African American historical and cultural material reflecting the breadth and depth of the experiences of individuals of African descent living in the United States.
+
+## Source Credit
+
+*([Pub. L. 108–184, § 2](https://www.govinfo.gov/link/plaw/108/public/184), Dec. 16, 2003, [117 Stat. 2676](https://www.govinfo.gov/link/statute/117/2676).)*

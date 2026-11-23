@@ -3,9 +3,10 @@ title: "Section 2883a - Omitted"
 usc_title: 29
 usc_section: "2883a"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 2883a"
-generated_at: "2026-03-30T02:55:18.746Z"
+generated_at: "2026-11-23T20:26:38.075Z"
+status: "omitted"
 ---
 
 # § 2883a. Omitted

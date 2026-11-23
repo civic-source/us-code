@@ -3,9 +3,10 @@ title: "Section 40506 - Authorization of the National Missing and Unidentified P
 usc_title: 34
 usc_section: "40506"
 chapter: 405
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 40506"
-generated_at: "2026-03-30T02:55:33.309Z"
+generated_at: "2026-11-23T20:26:50.644Z"
+status: "active"
 ---
 
 # § 40506. Authorization of the National Missing and Unidentified Persons System
@@ -36,3 +37,23 @@ generated_at: "2026-03-30T02:55:33.309Z"
 - **(c)**
   - **(1)**
   - **(3)** The amendments made by this subsection shall apply with respect to reports made before, on, or after December 27, 2022 .
+
+Authorized agency
+
+FBI
+
+Forensic medicine service provider
+
+Forensic science service provider
+
+Namus databases
+
+NCIC database
+
+Qualifying law enforcement agency defined
+
+State
+
+## Source Credit
+
+*([Pub. L. 117–327, § 2](https://www.govinfo.gov/link/plaw/117/public/327), Dec. 27, 2022, [136 Stat. 4454](https://www.govinfo.gov/link/statute/136/4454).)*

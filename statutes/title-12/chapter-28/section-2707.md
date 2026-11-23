@@ -3,9 +3,10 @@ title: "Section 2707 - Authority of Secretary"
 usc_title: 12
 usc_section: "2707"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 2707"
-generated_at: "2026-03-30T02:53:53.487Z"
+generated_at: "2026-11-23T20:25:59.306Z"
+status: "active"
 ---
 
 # § 2707. Authority of Secretary
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:53.487Z"
   - **(1)** have the power, notwithstanding any other provision of law, whether before or after default, to provide by contract or otherwise for the extinguishment upon default of any redemption, equitable, legal, or other right, title in any mortgage, deed, trust, or other instrument held by or held on behalf of the Secretary under the provisions of this chapter; and
   - **(2)** have the power to foreclose on any property or commence any action to protect or enforce any right conferred upon the Secretary by law, contract, or other agreement, and bid for and purchase at any foreclosure or other sale any property in connection with which assistance has been provided pursuant to this chapter. In the event of any such acquisition, the Secretary may, notwithstanding any other provision of law relating to the acquisition, handling, or disposal of real property by the United States, complete, remodel and convert, dispose of, lease, and otherwise deal with, such property. Notwithstanding any other provision of law, the Secretary also shall have power to pursue to final collection by way of compromise or otherwise all claims acquired by him in connection with any security, subrogation, or other rights obtained by him in administering this chapter.
 - **(d)** The Secretary shall allow funds to be administered by a State that has an existing program that is determined by the Secretary to provide substantially similar assistance to homeowners. After such determination is made such State shall not be required to modify such program to comply with the provisions of this chapter.
+
+## Source Credit
+
+*([Pub. L. 94–50, title I, § 108](https://www.govinfo.gov/link/plaw/94/public/50), July 2, 1975, [89 Stat. 252](https://www.govinfo.gov/link/statute/89/252); [Pub. L. 111–203, title XIV, § 1496(b)(5)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2208](https://www.govinfo.gov/link/statute/124/2208).)*

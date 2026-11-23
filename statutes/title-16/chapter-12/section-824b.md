@@ -3,9 +3,10 @@ title: "Section 824b - Disposition of property; consolidations; purchase of secu
 usc_title: 16
 usc_section: "824b"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 824b"
-generated_at: "2026-03-30T02:54:22.915Z"
+generated_at: "2026-11-23T20:26:20.289Z"
+status: "active"
 ---
 
 # § 824b. Disposition of property; consolidations; purchase of securities
@@ -29,3 +30,11 @@ generated_at: "2026-03-30T02:54:22.915Z"
       - **(ii)** such public utility is not required to secure an order of the Commission under paragraph (1)(B).
     - **(B)** In establishing any notification requirement under subparagraph (A), the Commission shall, to the maximum extent practicable, minimize the paperwork burden resulting from the collection of information.
 - **(b)** The Commission may grant any application for an order under this section in whole or in part and upon such terms and conditions as it finds necessary or appropriate to secure the maintenance of adequate service and the coordination in the public interest of facilities subject to the jurisdiction of the Commission. The Commission may from time to time for good cause shown make such orders supplemental to any order made under this section as it may find necessary or appropriate.
+
+Effective Date
+
+Transition Provision
+
+## Source Credit
+
+*(June 10, 1920, ch. 285, pt. II, § 203, as added Aug. 26, 1935, ch. 687, title II, § 213, [49 Stat. 849](https://www.govinfo.gov/link/statute/49/849); amended [Pub. L. 109–58, title XII, § 1289(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 982](https://www.govinfo.gov/link/statute/119/982); [Pub. L. 115–247](https://www.govinfo.gov/link/plaw/115/public/247), §§ 1, 2, Sept. 28, 2018, [132 Stat. 3152](https://www.govinfo.gov/link/statute/132/3152).)*

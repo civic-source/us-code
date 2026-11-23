@@ -3,9 +3,10 @@ title: "Section 18404 - National space technology policy"
 usc_title: 42
 usc_section: "18404"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18404"
-generated_at: "2026-03-30T02:56:11.520Z"
+generated_at: "2026-11-23T20:27:23.801Z"
+status: "active"
 ---
 
 # § 18404. National space technology policy
@@ -27,3 +28,11 @@ generated_at: "2026-03-30T02:56:11.520Z"
 - **(c)**
   - **(1)** Not later than 1 year after October 11, 2010 , the President shall transmit a report setting forth national space technology policy to the appropriate committees of Congress and to the Senate Committee on Appropriations and the House of Representatives Committee on Appropriations.
   - **(2)** Not later than 60 days after the President transmits the report required by paragraph (1) to the Congress, the Administrator shall transmit a report to the same committees describing how NASA will carry out the policy.
+
+Considerations
+
+Consultation
+
+## Source Credit
+
+*([Pub. L. 111–267, title IX, § 906](https://www.govinfo.gov/link/plaw/111/public/267), Oct. 11, 2010, [124 Stat. 2836](https://www.govinfo.gov/link/statute/124/2836).)*

@@ -3,9 +3,10 @@ title: "Section 16091a - Clean school bus program"
 usc_title: 42
 usc_section: "16091a"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16091a"
-generated_at: "2026-03-30T02:56:11.468Z"
+generated_at: "2026-11-23T20:27:23.607Z"
+status: "active"
 ---
 
 # § 16091a. Clean school bus program
@@ -81,3 +82,7 @@ generated_at: "2026-03-30T02:56:11.468Z"
 - **(d)** There are authorized to be appropriated to the Administrator to carry out this section, to remain available until expended—
   - **(1)** $55,000,000 for each of fiscal years 2006 and 2007; and
   - **(2)** such sums as are necessary for each of fiscal years 2008, 2009, and 2010.
+
+## Source Credit
+
+*([Pub. L. 109–59, title VI, § 6015](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1884](https://www.govinfo.gov/link/statute/119/1884).)*

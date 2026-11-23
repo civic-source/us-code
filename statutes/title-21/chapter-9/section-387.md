@@ -3,9 +3,10 @@ title: "Section 387 - Definitions"
 usc_title: 21
 usc_section: "387"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 387"
-generated_at: "2026-03-30T02:54:54.279Z"
+generated_at: "2026-11-23T20:26:27.765Z"
+status: "active"
 ---
 
 # § 387. Definitions
@@ -54,3 +55,29 @@ In this subchapter:
       - **(iii)** applies any chemical, additive, or substance to the tobacco leaf other than potable water in the form of steam or mist.
     - **(C)** The definition of the term “tobacco warehouse” in subparagraph (A) shall not apply to the extent to which the Secretary determines, through rulemaking, that regulation under this subchapter of the actions described in such subparagraph is appropriate for the protection of the public health.
   - **(22)** The term “United States” means the 50 States of the United States of America and the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, Johnston Atoll, the Northern Mariana Islands, and any other trust territory or possession of the United States.
+
+Intended Effect
+
+Agricultural Activities
+
+Revenue Activities
+
+“The Congress finds the following:
+
+“The purposes of this division [see Short Title of 2009 Amendment note set out under section 301 of this title ] are—
+
+Delayed Commencement of Dates for Secretarial Action.—
+
+In general
+
+Limitation
+
+Date Described
+
+Exception
+
+Adjustment
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 900, as added [Pub. L. 111–31, div. A, title I, § 101(b)(3)](https://www.govinfo.gov/link/plaw/111/public/31), June 22, 2009, [123 Stat. 1784](https://www.govinfo.gov/link/statute/123/1784).)*

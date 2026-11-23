@@ -3,9 +3,10 @@ title: "Section 337 - Coast Guard Junior Reserve Officers’ Training Corps"
 usc_title: 14
 usc_section: "337"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 337"
-generated_at: "2026-03-30T02:53:51.488Z"
+generated_at: "2026-11-23T20:25:54.520Z"
+status: "active"
 ---
 
 # § 337. Coast Guard Junior Reserve Officers’ Training Corps
@@ -16,3 +17,19 @@ generated_at: "2026-03-30T02:53:51.488Z"
   - **(2)** any reference in such provisions to a “Secretary of a military department”, a “Secretary concerned”, or the “Secretary of Defense” shall be treated as a reference to the Secretary of the department in which the Coast Guard is operating.
 - **(c)** Beginning on December 31, 2025 , the Secretary of the department in which the Coast Guard is operating shall maintain at all times a Junior Reserve Officers’ Training Corps program with not fewer than 1 such program established in each Coast Guard district.
 - **(d)** The requirements of chapter 102 of title 10 shall not apply to a unit of the Junior Reserve Officers’ Training Corps established by the Secretary of the department in which the Coast Guard is operating before the date of the enactment of this section unless the Secretary determines it is appropriate to apply such requirements to such unit.
+
+Establishment
+
+Applicability
+
+Scope
+
+Exception
+
+In general
+
+Cost assessment
+
+## Source Credit
+
+*(Added [Pub. L. 116–92, div. A, title V, § 519(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1350](https://www.govinfo.gov/link/statute/133/1350), § 320; amended [Pub. L. 117–263, div. K, title CXII, § 11247(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4047](https://www.govinfo.gov/link/statute/136/4047); renumbered § 337, [Pub. L. 119–60, div. G, title LXXII, § 7201(b)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1675](https://www.govinfo.gov/link/statute/139/1675).)*

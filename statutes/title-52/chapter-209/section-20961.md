@@ -3,9 +3,10 @@ title: "Section 20961 - Technical Guidelines Development Committee"
 usc_title: 52
 usc_section: "20961"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "52 U.S.C. § 20961"
-generated_at: "2026-03-30T02:56:30.166Z"
+generated_at: "2026-11-23T20:27:36.977Z"
+status: "active"
 ---
 
 # § 20961. Technical Guidelines Development Committee
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:30.166Z"
     - **(E)** remote access voting, including voting through the Internet.
   - **(3)** No private sector individual or entity shall obtain any intellectual property rights to any guideline or the contents of any guideline (or any modification to any guideline) adopted by the Commission under this chapter.
 - **(f)** At the time the Commission adopts any voluntary voting system guideline pursuant to section 20962 of this title , the Development Committee shall cause to have published in the Federal Register the recommendations it provided under this section to the Executive Director of the Commission concerning the guideline adopted.
+
+## Source Credit
+
+*([Pub. L. 107–252, title II, § 221](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1682](https://www.govinfo.gov/link/statute/116/1682).)*

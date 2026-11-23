@@ -3,9 +3,10 @@ title: "Section 8102 - Drug-free workplace requirements for Federal contractors"
 usc_title: 41
 usc_section: "8102"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 8102"
-generated_at: "2026-03-30T02:55:55.811Z"
+generated_at: "2026-11-23T20:27:04.482Z"
+status: "active"
 ---
 
 # § 8102. Drug-free workplace requirements for Federal contractors
@@ -32,3 +33,48 @@ generated_at: "2026-03-30T02:55:55.811Z"
     - **(B)** the number of employees of the contractor who have been convicted of violations of criminal drug statutes for violations occurring in the workplace indicates that the contractor has failed to make a good faith effort to provide a drug-free workplace as required by subsection (a).
   - **(2)** A contracting officer who determines in writing that cause for suspension of payments, termination, or suspension or debarment exists shall initiate an appropriate action, to be conducted by the agency concerned in accordance with the Federal Acquisition Regulation and applicable agency procedures. The Federal Acquisition Regulation shall be revised to include rules for conducting suspension and debarment proceedings under this subsection, including rules providing notice, opportunity to respond in writing or in person, and other procedures as may be necessary to provide a full and fair proceeding to a contractor or individual.
   - **(3)** A contractor or individual debarred by a final decision under this subsection is ineligible for award of a contract by a Federal agency, and for participation in a future procurement by a Federal agency, for a period specified in the decision, not to exceed 5 years.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 8102 | 41:701. | Pub. L. 100–690, title V, § 5152 , Nov. 18, 1988 , 102 Stat. 4304 ; Pub. L. 103–355, title IV, § 4104(d) , title VIII, § 8301(f), Oct. 13, 1994 , 108 Stat. 3342 , 3397; Pub. L. 104–106, div. D, title XLIII , §§ 4301(a)(3), 4321(i)(13), Feb. 10, 1996 , 110 Stat. 656 , 677. |
+
+
+In General.—
+
+Persons other than individuals
+
+Individuals
+
+Suspension, Termination, or Debarment of Contractor.—
+
+Grounds for suspension, termination, or debarment
+
+Conduct of suspension, termination, and debarment proceedings
+
+Effect of debarment
+
+Historical and Revision Notes
+
+8102
+
+Pub. L. 100–690, title V, § 5152
+
+Nov. 18, 1988
+
+102 Stat. 4304
+
+Pub. L. 103–355, title IV, § 4104(d)
+
+Oct. 13, 1994
+
+108 Stat. 3342
+
+Pub. L. 104–106, div. D, title XLIII
+
+Feb. 10, 1996
+
+110 Stat. 656
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3827](https://www.govinfo.gov/link/statute/124/3827); [Pub. L. 115–232, div. A, title VIII, § 836(b)(20)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1864](https://www.govinfo.gov/link/statute/132/1864).)*

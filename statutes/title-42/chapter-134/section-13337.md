@@ -3,9 +3,10 @@ title: "Section 13337 - Metallurgical coal development"
 usc_title: 42
 usc_section: "13337"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13337"
-generated_at: "2026-03-30T02:56:11.442Z"
+generated_at: "2026-11-23T20:27:23.480Z"
+status: "active"
 ---
 
 # § 13337. Metallurgical coal development
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.442Z"
   - **(1)** as a boiler fuel for the purpose of generating steam to produce electricity, including blending metallurgical coal with other coals in order to enhance its efficient application as a boiler fuel;
   - **(2)** as an ingredient in the manufacturing of steel; and
   - **(3)** as a source of pipeline quality coalbed methane.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XIII, § 1307](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2975](https://www.govinfo.gov/link/statute/106/2975).)*

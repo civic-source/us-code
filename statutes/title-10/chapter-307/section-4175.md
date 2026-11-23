@@ -3,9 +3,10 @@ title: "Section 4175 - Use of test and evaluation installations by commercial en
 usc_title: 10
 usc_section: "4175"
 chapter: 307
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 4175"
-generated_at: "2026-03-30T02:53:38.204Z"
+generated_at: "2026-11-23T20:25:51.926Z"
+status: "active"
 ---
 
 # § 4175. Use of test and evaluation installations by commercial entities
@@ -23,3 +24,21 @@ generated_at: "2026-03-30T02:53:38.204Z"
   - **(2)** The term “direct costs” includes the cost of—
     - **(A)** labor, material, facilities, utilities, equipment, supplies, and any other resources damaged or consumed during test or evaluation activities or maintained for a particular commercial entity; and
     - **(B)** construction specifically performed for a commercial entity to conduct test and evaluation activities.
+
+Contract Authority
+
+Termination or Limitation of Contract Under Certain Circumstances
+
+Contract Price
+
+Retention of Funds Collected From Commercial Users
+
+Regulations and Limitations
+
+Definitions
+
+Report
+
+## Source Credit
+
+*(Added [Pub. L. 103–160, div. A, title VIII, § 846(a)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1722](https://www.govinfo.gov/link/statute/107/1722), § 2681; amended [Pub. L. 105–85, div. A, title VIII, § 842](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1844](https://www.govinfo.gov/link/statute/111/1844); [Pub. L. 105–261, div. A, title VIII, § 820](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2090](https://www.govinfo.gov/link/statute/112/2090); renumbered § 4175 and amended [Pub. L. 116–283, div. A, title XVIII](https://www.govinfo.gov/link/plaw/116/public/283), §§ 1844(b)(1), 1845(b), Jan. 1, 2021, [134 Stat. 4245](https://www.govinfo.gov/link/statute/134/4245), 4247; [Pub. L. 117–81, div. A, title XVII, § 1701(u)(5)(B)](https://www.govinfo.gov/link/plaw/117/public/81), (6)(B), Dec. 27, 2021, [135 Stat. 2154](https://www.govinfo.gov/link/statute/135/2154).)*

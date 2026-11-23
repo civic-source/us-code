@@ -3,9 +3,10 @@ title: "Section 3708 - Protests"
 usc_title: 41
 usc_section: "3708"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 3708"
-generated_at: "2026-03-30T02:55:55.806Z"
+generated_at: "2026-11-23T20:27:04.444Z"
+status: "active"
 ---
 
 # § 3708. Protests
@@ -16,3 +17,67 @@ generated_at: "2026-03-30T02:55:55.806Z"
 - **(b)** If, in connection with a protest, the head of an executive agency determines that a solicitation, proposed award, or award does not comply with the requirements of law or regulation, the head of the executive agency may—
   - **(1)** take any action set out in subparagraphs (A) to (F) of subsection (b)(1) of section 3554 of title 31 ; and
   - **(2)** pay costs described in paragraph (1) of section 3554(c) of title 31 within the limits referred to in paragraph (2) of section 3554(c).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3708(a) | 41:253b(k). | June 30, 1949, ch. 288 , title III, § 303B(k), formerly § 303B(h), as added Pub. L. 103–355, title I, § 1065 , Oct. 13, 1994 , 108 Stat. 3269 ; redesignated as § 303B(k), Pub. L. 104–106, title XLI, § 4104(b)(2) , Feb. 10, 1996 , 110 Stat. 645 ; Pub. L. 104–106, title XLI, § 5607(c) , Feb. 10, 1996 , 110 Stat. 701 , as amended Pub. L. 104–201, title X, § 1074(b)(7) (less effective date), Sept. 23, 1996 , 110 Stat. 2660 . |
+| 3708(b) | 41:253b( l ). | June 30, 1949, ch. 288 , title III, § 303B( l ), formerly § 303B(i), as added Pub. L. 103–355, title I, § 1066 , Oct. 13, 1994 , 108 Stat. 3269 ; redesignated as § 303B( l ), Pub. L. 104–106, title XLI, § 4104(b)(2) , Feb. 10, 1996 , 110 Stat. 645 . |
+
+
+Protest File.—
+
+Establishment and access
+
+Redacted information
+
+Agency Actions on Protests
+
+Historical and Revision Notes
+
+3708(a)
+
+June 30, 1949, ch. 288
+
+Pub. L. 103–355, title I, § 1065
+
+Oct. 13, 1994
+
+108 Stat. 3269
+
+Pub. L. 104–106, title XLI, § 4104(b)(2)
+
+Feb. 10, 1996
+
+110 Stat. 645
+
+Pub. L. 104–106, title XLI, § 5607(c)
+
+Feb. 10, 1996
+
+110 Stat. 701
+
+Pub. L. 104–201, title X, § 1074(b)(7)
+
+Sept. 23, 1996
+
+110 Stat. 2660
+
+3708(b)
+
+June 30, 1949, ch. 288
+
+Pub. L. 103–355, title I, § 1066
+
+Oct. 13, 1994
+
+108 Stat. 3269
+
+Pub. L. 104–106, title XLI, § 4104(b)(2)
+
+Feb. 10, 1996
+
+110 Stat. 645
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3773](https://www.govinfo.gov/link/statute/124/3773).)*

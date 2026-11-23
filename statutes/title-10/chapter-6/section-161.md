@@ -3,9 +3,10 @@ title: "Section 161 - Combatant commands: establishment"
 usc_title: 10
 usc_section: "161"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 161"
-generated_at: "2026-03-30T02:53:38.042Z"
+generated_at: "2026-11-23T20:25:50.843Z"
+status: "active"
 ---
 
 # § 161. Combatant commands: establishment
@@ -28,3 +29,35 @@ generated_at: "2026-03-30T02:53:38.042Z"
   - **(1)** The term “unified combatant command” means a military command which has broad, continuing missions and which is composed of forces from two or more military departments.
   - **(2)** The term “specified combatant command” means a military command which has broad, continuing missions and which is normally composed of forces from a single military department.
   - **(3)** The term “combatant command” means a unified combatant command or a specified combatant command.
+
+Unified and Specified Combatant Commands
+
+Periodic Review
+
+Definitions
+
+Establishment
+
+Implementation Plan and Establishment of Joint Force Headquarters.—
+
+Implementation plan
+
+Elements
+
+Support for Joint Force Headquarters
+
+Annual Report Required.—
+
+In general
+
+Contents
+
+Form
+
+Barack Obama.
+
+Donald J. Trump.
+
+## Source Credit
+
+*(Added [Pub. L. 99–433, title II, § 211(a)](https://www.govinfo.gov/link/plaw/99/public/433), Oct. 1, 1986, [100 Stat. 1012](https://www.govinfo.gov/link/statute/100/1012); amended [Pub. L. 117–263, div. A, title IX, § 912](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2751](https://www.govinfo.gov/link/statute/136/2751).)*

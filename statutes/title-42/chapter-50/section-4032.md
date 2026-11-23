@@ -3,9 +3,10 @@ title: "Section 4032 - Treatment of swimming pool enclosures outside of hurrican
 usc_title: 42
 usc_section: "4032"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4032"
-generated_at: "2026-03-30T02:56:11.197Z"
+generated_at: "2026-11-23T20:27:22.347Z"
+status: "active"
 ---
 
 # § 4032. Treatment of swimming pool enclosures outside of hurricane season
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.197Z"
   - **(1)** Nonsupporting breakaway walls in the space below the lowest elevated floor of a building, if the space is used solely for a swimming pool between November 30 and June 1 of any year, in an area designated as Zone V on a flood insurance rate map.
   - **(2)** Openings in walls in the space below the lowest elevated floor of a building, if the space is used solely for a swimming pool between November 30 and June 1 of any year, in an area designated as Zone A on a flood insurance rate map.
 - **(b)** Nothing in subsection (a) shall be construed to alter the terms and conditions of eligibility and insurability of coverage for a building under the standard flood insurance policy under the national flood insurance program.
+
+## Source Credit
+
+*([Pub. L. 90–448, title XIII, § 1325](https://www.govinfo.gov/link/plaw/90/public/448), as added [Pub. L. 112–141, div. F, title II, § 100242](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 962](https://www.govinfo.gov/link/statute/126/962).)*

@@ -3,9 +3,10 @@ title: "Section 2161 - Applicability of other laws; definitions"
 usc_title: 48
 usc_section: "2161"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 2161"
-generated_at: "2026-03-30T02:56:14.604Z"
+generated_at: "2026-11-23T20:27:28.201Z"
+status: "active"
 ---
 
 # § 2161. Applicability of other laws; definitions
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:14.604Z"
 - **(d)** Solely for purposes of this subchapter, a reference to “this title”, “this chapter”, or words of similar import in a section of title 11 made applicable in a case under this subchapter by subsection (a) or to “this title”, “title 11”, “Chapter 9”, “Chapter 11”, “the Code”, or words of similar import in the Federal Rules of Bankruptcy Procedure made applicable in a case under this subchapter shall be deemed to be a reference to this subchapter.
 - **(e)** In determining whether claims are “substantially similar” for the purpose of section 1122 of title 11 , made applicable in a case under this subchapter by subsection (a), the Oversight Board shall consider whether such claims are secured and whether such claims have priority over other claims.
 - **(f)** A section made applicable in a case under this subchapter by subsection (a) that is operative if the business of the debtor is authorized to be operated is operative in a case under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 114–187, title III, § 301](https://www.govinfo.gov/link/plaw/114/public/187), June 30, 2016, [130 Stat. 577](https://www.govinfo.gov/link/statute/130/577).)*

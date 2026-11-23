@@ -3,9 +3,10 @@ title: "Section 2901 - Findings"
 usc_title: 50
 usc_section: "2901"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 2901"
-generated_at: "2026-03-30T02:56:26.226Z"
+generated_at: "2026-11-23T20:27:30.863Z"
+status: "active"
 ---
 
 # § 2901. Findings
@@ -18,3 +19,7 @@ The 9/11 Commission has made the following recommendations:
     - **(B)** make participation open to non-NATO countries; and
     - **(C)** encourage Russia and the People’s Republic of China to participate.
   - **(3)** The United States should expand, improve, increase resources for, and otherwise fully support the Cooperative Threat Reduction program.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XVIII, § 1801](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 491](https://www.govinfo.gov/link/statute/121/491).)*

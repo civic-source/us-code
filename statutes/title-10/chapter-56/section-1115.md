@@ -3,9 +3,10 @@ title: "Section 1115 - Determination of contributions to the Fund"
 usc_title: 10
 usc_section: "1115"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1115"
-generated_at: "2026-03-30T02:53:38.109Z"
+generated_at: "2026-11-23T20:25:51.250Z"
+status: "active"
 ---
 
 # § 1115. Determination of contributions to the Fund
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:38.109Z"
   - **(5)** Contributions to the Fund in accordance with amortization schedules under paragraphs (2), (3), and (4) shall be made as provided in section 1116 of this title .
 - **(d)** All determinations under this section shall be made using methods and assumptions approved by the Board of Actuaries (including assumptions of interest rates and medical inflation) and in accordance with generally accepted actuarial principles and practices.
 - **(e)** The Secretary of Defense shall provide for the keeping of such records as are necessary for determining the actuarial status of the Fund.
+
+## Source Credit
+
+*(Added [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title VII, § 713(a)(1)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–181; amended [Pub. L. 107–107, div. A, title VII, § 711(b)(3)](https://www.govinfo.gov/link/plaw/107/public/107), (e)(1), Dec. 28, 2001, [115 Stat. 1165](https://www.govinfo.gov/link/statute/115/1165), 1166; [Pub. L. 108–136, div. A, title VII, § 722(a)](https://www.govinfo.gov/link/plaw/108/public/136), (c), title X, § 1045(a)(3), Nov. 24, 2003, [117 Stat. 1532](https://www.govinfo.gov/link/statute/117/1532), 1612; [Pub. L. 108–375, div. A, title VII, § 725(c)(2)](https://www.govinfo.gov/link/plaw/108/public/375) –(5), Oct. 28, 2004, [118 Stat. 1992](https://www.govinfo.gov/link/statute/118/1992); [Pub. L. 109–364, div. A, title V, § 592(b)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2233](https://www.govinfo.gov/link/statute/120/2233).)*

@@ -3,9 +3,10 @@ title: "Section 1769a - Fresh fruit and vegetable program"
 usc_title: 42
 usc_section: "1769a"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1769a"
-generated_at: "2026-03-30T02:56:11.117Z"
+generated_at: "2026-11-23T20:27:21.884Z"
+status: "active"
 ---
 
 # § 1769a. Fresh fruit and vegetable program
@@ -62,3 +63,29 @@ generated_at: "2026-03-30T02:56:11.117Z"
   - **(7)**
     - **(A)** The Secretary may reallocate any amounts made available to carry out this section that are not obligated or expended by a date determined by the Secretary.
     - **(B)** A State that receives a grant under this section may reallocate any amounts made available under the grant that are not obligated or expended by a date determined by the Secretary.
+
+In General
+
+Requirements
+
+Evaluation
+
+Reports.—
+
+Interim report
+
+Final report
+
+Notice of Availability
+
+Relationship to Fresh Fruit and Vegetable Program
+
+Funding
+
+Existing secondary schools
+
+School year beginning july 1, 2008
+
+## Source Credit
+
+*(June 4, 1946, ch. 281, § 19, as added [Pub. L. 110–234, title IV, § 4304(a)(1)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1127](https://www.govinfo.gov/link/statute/122/1127), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, § 4304(a)(1), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1888.)*

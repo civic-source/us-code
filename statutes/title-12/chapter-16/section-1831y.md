@@ -3,9 +3,10 @@ title: "Section 1831y - CRA sunshine requirements"
 usc_title: 12
 usc_section: "1831y"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1831y"
-generated_at: "2026-03-30T02:53:53.463Z"
+generated_at: "2026-11-23T20:25:59.184Z"
+status: "active"
 ---
 
 # § 1831y. CRA sunshine requirements
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:53:53.463Z"
     - **(A)** to prevent evasions of subsection (e)(1)(B)(iii); and
     - **(B)** to provide further exemptions under such subsection, consistent with the purposes of this section.
   - **(4)** In carrying out paragraph (1), each appropriate Federal banking agency shall consult and coordinate with the other such agencies for the purposes of assuring, to the extent possible, that the regulations prescribed by each such agency are consistent and comparable with the regulations prescribed by the other such agencies.
+
+## Source Credit
+
+*(Sept. 21, 1950, ch. 967, § 2 [48], as added [Pub. L. 106–102, title VII, § 711](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1465](https://www.govinfo.gov/link/statute/113/1465).)*

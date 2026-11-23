@@ -3,9 +3,10 @@ title: "Section 1169 - Regular enlisted members: limitations on discharge"
 usc_title: 10
 usc_section: "1169"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1169"
-generated_at: "2026-03-30T02:53:38.112Z"
+generated_at: "2026-11-23T20:25:51.269Z"
+status: "active"
 ---
 
 # § 1169. Regular enlisted members: limitations on discharge
@@ -15,3 +16,7 @@ No regular enlisted member of an armed force may be discharged before his term o
   - **(1)** as prescribed by the Secretary concerned;
   - **(2)** by sentence of a general or special court martial; or
   - **(3)** as otherwise provided by law.
+
+## Source Credit
+
+*(Added [Pub. L. 90–235, § 3(a)(1)(A)](https://www.govinfo.gov/link/plaw/90/public/235), Jan. 2, 1968, [81 Stat. 757](https://www.govinfo.gov/link/statute/81/757).)*

@@ -3,9 +3,10 @@ title: "Section 1 - Alabama Hills National Scenic Area, California"
 usc_title: 16
 usc_section: "1"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T02:54:22.851Z"
+generated_at: "2026-11-23T20:26:20.053Z"
+status: "active"
 ---
 
 # § 460ffff–1. Alabama Hills National Scenic Area, California
@@ -62,3 +63,7 @@ generated_at: "2026-03-30T02:54:22.851Z"
       - **(ii)** subject to such terms and conditions as the Secretary determines to be appropriate; and
       - **(iii)** that are determined by the Secretary to be the only technical or feasible location, following consideration of alternatives within existing rights-of-way or outside of the Scenic Area.
   - **(2)** Consistent with this subchapter, the Management Plan shall establish provisions for maintenance of public utility and other rights-of-way within the Scenic Area.
+
+## Source Credit
+
+*([Pub. L. 103–433, title XIV, § 1402](https://www.govinfo.gov/link/plaw/103/public/433), as added [Pub. L. 116–9, title I, § 1441](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 706](https://www.govinfo.gov/link/statute/133/706).)*

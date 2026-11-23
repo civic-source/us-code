@@ -3,9 +3,10 @@ title: "Section 3709 - Authorization of appropriations"
 usc_title: 16
 usc_section: "3709"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3709"
-generated_at: "2026-03-30T02:54:23.020Z"
+generated_at: "2026-11-23T20:26:20.670Z"
+status: "active"
 ---
 
 # § 3709. Authorization of appropriations
@@ -34,3 +35,13 @@ generated_at: "2026-03-30T02:54:23.020Z"
   - **(1)** any expense related to litigation; or
   - **(2)** any activity the purpose of which is to influence legislation pending before Congress.
 - **(d)** Any gifts, devises, or bequests of amounts or other property, or any other amounts or other property, transferred to, deposited with, or otherwise in the possession of the Foundation pursuant to this Act, may be made available by the Foundation to Federal departments, agencies, or instrumentalities and may be accepted and expended (or the disposition of the amounts or property directed), without further appropriation, by those Federal departments, agencies, or instrumentalities, subject to the condition that the amounts or property be used for purposes that further the conservation and management of fish, wildlife, plants, and other natural resources.
+
+Authorization
+
+Use of Amounts Appropriated
+
+Additional Authorization
+
+## Source Credit
+
+*([Pub. L. 98–244, § 10](https://www.govinfo.gov/link/plaw/98/public/244), Mar. 26, 1984, [98 Stat. 110](https://www.govinfo.gov/link/statute/98/110); [Pub. L. 100–240, § 4](https://www.govinfo.gov/link/plaw/100/public/240), Jan. 11, 1988, [101 Stat. 1786](https://www.govinfo.gov/link/statute/101/1786); [Pub. L. 101–593, title I, § 110(c)](https://www.govinfo.gov/link/plaw/101/public/593), Nov. 16, 1990, [104 Stat. 2960](https://www.govinfo.gov/link/statute/104/2960); [Pub. L. 103–232, title I, § 104](https://www.govinfo.gov/link/plaw/103/public/232), Apr. 11, 1994, [108 Stat. 337](https://www.govinfo.gov/link/statute/108/337); [Pub. L. 106–408, title II, § 207](https://www.govinfo.gov/link/plaw/106/public/408), Nov. 1, 2000, [114 Stat. 1781](https://www.govinfo.gov/link/statute/114/1781); [Pub. L. 107–141, § 6](https://www.govinfo.gov/link/plaw/107/public/141), Feb. 12, 2002, [116 Stat. 14](https://www.govinfo.gov/link/statute/116/14); [Pub. L. 109–363, title II](https://www.govinfo.gov/link/plaw/109/public/363), §§ 202, 204, Oct. 17, 2006, [120 Stat. 2075](https://www.govinfo.gov/link/statute/120/2075); [Pub. L. 116–188, title I, § 107(c)](https://www.govinfo.gov/link/plaw/116/public/188), Oct. 30, 2020, [134 Stat. 919](https://www.govinfo.gov/link/statute/134/919); [Pub. L. 118–198, title I, § 106](https://www.govinfo.gov/link/plaw/118/public/198), Dec. 23, 2024, [138 Stat. 2680](https://www.govinfo.gov/link/statute/138/2680).)*

@@ -3,9 +3,10 @@ title: "Section 2901 - Overall and principal trade negotiating objectives of the
 usc_title: 19
 usc_section: "2901"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2901"
-generated_at: "2026-03-30T02:54:24.686Z"
+generated_at: "2026-11-23T20:26:11.023Z"
+status: "active"
 ---
 
 # § 2901. Overall and principal trade negotiating objectives of the United States
@@ -93,3 +94,53 @@ generated_at: "2026-03-30T02:54:24.686Z"
       - **(iv)** otherwise denying equitable access by United States persons to foreign-developed technology or contributing to the inequitable flow of technology between the United States and its trading partners.
     - **(B)** In pursuing the negotiating objective described in subparagraph (A), the United States negotiators shall take into account United States Government policies in licensing or otherwise making available to foreign persons technology and other information developed by United States laboratories.
   - **(16)** The principal negotiating objective of the United States regarding border taxes is to obtain a revision of the GATT with respect to the treatment of border adjustments for internal taxes to redress the disadvantage to countries relying primarily for revenue on direct taxes rather than indirect taxes.
+
+Findings
+
+Purposes
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+“Sec
+
+“Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+## Source Credit
+
+*([Pub. L. 100–418, title I, § 1101](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1121](https://www.govinfo.gov/link/statute/102/1121).)*

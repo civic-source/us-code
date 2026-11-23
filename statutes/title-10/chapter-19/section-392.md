@@ -3,9 +3,10 @@ title: "Section 392 - Executive agents for cyber test and training ranges"
 usc_title: 10
 usc_section: "392"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 392"
-generated_at: "2026-03-30T02:53:38.056Z"
+generated_at: "2026-11-23T20:25:50.929Z"
+status: "active"
 ---
 
 # § 392. Executive agents for cyber test and training ranges
@@ -40,3 +41,27 @@ generated_at: "2026-03-30T02:53:38.056Z"
   - **(1)** The term “designated cyber and information technology range” includes the National Cyber Range, the Joint Information Operations Range, the Defense Information Assurance Range, and the C4 Assessments Division of J6 of the Joint Staff.
   - **(2)** The term “Directive 5101.1” means Department of Defense Directive 5101.1, or any successor directive relating to the responsibilities of an executive agent of the Department of Defense.
   - **(3)** The term “executive agent” has the meaning given the term “DoD Executive Agent” in Directive 5101.1.
+
+Executive Agent
+
+Roles, Responsibilities, and Authorities.—
+
+Establishment
+
+Biennial integrated plan
+
+Standard for cyber event data
+
+Support Within Department of Defense
+
+Compliance With Existing Directive
+
+Definitions
+
+Designation and Roles and Responsibilities
+
+Selection of Standard Language
+
+## Source Credit
+
+*(Added [Pub. L. 113–291, div. A, title XVI, § 1633(a)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3641](https://www.govinfo.gov/link/statute/128/3641).)*

@@ -3,9 +3,10 @@ title: "Section 911 - New career training assistance"
 usc_title: 45
 usc_section: "911"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 911"
-generated_at: "2026-03-30T02:55:56.559Z"
+generated_at: "2026-11-23T20:27:05.328Z"
+status: "active"
 ---
 
 # § 911. New career training assistance
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:56.559Z"
 - **(e)** As used in this section—
   - **(1)** the term “expenses” means actual expenses paid for room, board, tuition, fees, or educational material in an amount not to exceed $3,000; and
   - **(2)** the term “qualified institution” means an educational institution accredited for payment by the Veterans’ Administration under chapter 36 of title 38, or a State-accredited institution which has been in existence for not less than two years.
+
+## Source Credit
+
+*([Pub. L. 96–101, § 12](https://www.govinfo.gov/link/plaw/96/public/101), Nov. 4, 1979, [93 Stat. 743](https://www.govinfo.gov/link/statute/93/743); [Pub. L. 96–254, title I, § 119(f)](https://www.govinfo.gov/link/plaw/96/public/254), May 30, 1980, [94 Stat. 408](https://www.govinfo.gov/link/statute/94/408).)*

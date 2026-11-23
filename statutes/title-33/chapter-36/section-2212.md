@@ -3,9 +3,10 @@ title: "Section 2212 - Inland waterway transportation"
 usc_title: 33
 usc_section: "2212"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2212"
-generated_at: "2026-03-30T02:55:41.112Z"
+generated_at: "2026-11-23T20:26:54.120Z"
+status: "active"
 ---
 
 # § 2212. Inland waterway transportation
@@ -23,3 +24,23 @@ generated_at: "2026-03-30T02:55:41.112Z"
 - **(d)** Any Federal responsibility—
   - **(1)** with respect to a project authorized by title III or section 652(j) of this title , or
   - **(2)** with respect to the portion of the project authorized by section 844 allocated to inland navigation,
+
+In General
+
+Applicability
+
+Public Comment
+
+Reports.—
+
+In general
+
+Review of pilot program
+
+Annual Review
+
+Termination
+
+## Source Credit
+
+*([Pub. L. 99–662, title I, § 102](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4084](https://www.govinfo.gov/link/statute/100/4084); [Pub. L. 113–121, title II, § 2013](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1271](https://www.govinfo.gov/link/statute/128/1271); [Pub. L. 117–263, div. H, title LXXXI, § 8157(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3738](https://www.govinfo.gov/link/statute/136/3738); [Pub. L. 118–272, div. A, title I, § 1126(a)](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3018](https://www.govinfo.gov/link/statute/138/3018).)*

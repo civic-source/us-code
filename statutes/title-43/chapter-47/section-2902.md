@@ -3,9 +3,10 @@ title: "Section 2902 - Definitions"
 usc_title: 43
 usc_section: "2902"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 2902"
-generated_at: "2026-03-30T02:55:57.500Z"
+generated_at: "2026-11-23T20:27:06.422Z"
+status: "active"
 ---
 
 # § 2902. Definitions
@@ -37,3 +38,7 @@ In this chapter:
       - **(i)** by an employee of the Bureau; or
       - **(ii)** through a contract entered into by the Commissioner.
   - **(9)** The term “Secretary” means the Secretary, acting through the Commissioner of Reclamation.
+
+## Source Credit
+
+*([Pub. L. 116–9, title VIII, § 8002](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 804](https://www.govinfo.gov/link/statute/133/804).)*

@@ -3,9 +3,10 @@ title: "Section 3122 - Definitions"
 usc_title: 42
 usc_section: "3122"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3122"
-generated_at: "2026-03-30T02:56:11.181Z"
+generated_at: "2026-11-23T20:27:22.256Z"
+status: "active"
 ---
 
 # § 3122. Definitions
@@ -59,3 +60,7 @@ In this chapter:
   - **(15)** The term “travel and tourism” means any economic activity that primarily serves to encourage recreational or business travel in or to the United States, including activities relating to public or nonprofit entertainment venues in the United States.
   - **(16)** The term “United States” means all of the States.
   - **(17)** The term “university center” means an institution of higher education or a consortium of institutions of higher education established under section 3147(c)(1) of this title .
+
+## Source Credit
+
+*([Pub. L. 89–136, § 3](https://www.govinfo.gov/link/plaw/89/public/136), as added [Pub. L. 105–393, title I, § 102(a)](https://www.govinfo.gov/link/plaw/105/public/393), Nov. 13, 1998, [112 Stat. 3599](https://www.govinfo.gov/link/statute/112/3599); amended [Pub. L. 108–373, title I, § 102](https://www.govinfo.gov/link/plaw/108/public/373), Oct. 27, 2004, [118 Stat. 1758](https://www.govinfo.gov/link/statute/118/1758); [Pub. L. 118–272, div. B, title II, § 2211(a)](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3177](https://www.govinfo.gov/link/statute/138/3177).)*

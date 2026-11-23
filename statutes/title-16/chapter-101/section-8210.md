@@ -3,9 +3,10 @@ title: "Section 8210 - Effect of this chapter"
 usc_title: 16
 usc_section: "8210"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 8210"
-generated_at: "2026-03-30T02:54:23.083Z"
+generated_at: "2026-11-23T20:26:20.875Z"
+status: "active"
 ---
 
 # § 8210. Effect of this chapter
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:23.083Z"
     - **(C)** the Water Resources Development Act of 1986 ( Public Law 99–662 ; 100 Stat. 4082 ); or
     - **(D)** any other Federal law or court settlement.
   - **(3)** Nothing in this chapter affects any provision of the Federal Water Pollution Control Act ( 33 U.S.C. 1251 et seq.), including any definition in that Act.
+
+## Source Credit
+
+*([Pub. L. 116–188, title II, § 210](https://www.govinfo.gov/link/plaw/116/public/188), Oct. 30, 2020, [134 Stat. 936](https://www.govinfo.gov/link/statute/134/936).)*

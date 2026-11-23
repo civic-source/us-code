@@ -3,9 +3,10 @@ title: "Section 5381 - Definitions"
 usc_title: 25
 usc_section: "5381"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 5381"
-generated_at: "2026-03-30T02:54:52.869Z"
+generated_at: "2026-11-23T20:26:25.745Z"
+status: "active"
 ---
 
 # § 5381. Definitions
@@ -30,3 +31,11 @@ generated_at: "2026-03-30T02:54:52.869Z"
   - **(7)** The term “self-governance” means the program of self-governance established under section 5382 of this title .
   - **(8)** The term “tribal share” means an Indian tribe’s portion of all funds and resources that support secretarial programs, services, functions, and activities (or portions thereof) that are not required by the Secretary for performance of inherent Federal functions.
 - **(b)** In any case in which an Indian tribe has authorized another Indian tribe, an inter-tribal consortium, or a tribal organization to plan for or carry out programs, services, functions, or activities (or portions thereof) on its behalf under this subchapter, the authorized Indian tribe, inter-tribal consortium, or tribal organization shall have the rights and responsibilities of the authorizing Indian tribe (except as otherwise provided in the authorizing resolution or in this subchapter). In such event, the term “Indian tribe” as used in this subchapter shall include such other authorized Indian tribe, inter-tribal consortium, or tribal organization.
+
+“Congress finds that—
+
+“It is the policy of Congress—
+
+## Source Credit
+
+*([Pub. L. 93–638, title V, § 501](https://www.govinfo.gov/link/plaw/93/public/638), as added [Pub. L. 106–260, § 4](https://www.govinfo.gov/link/plaw/106/public/260), Aug. 18, 2000, [114 Stat. 712](https://www.govinfo.gov/link/statute/114/712).)*

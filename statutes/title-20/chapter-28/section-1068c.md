@@ -3,9 +3,10 @@ title: "Section 1068c - Cooperative arrangements"
 usc_title: 20
 usc_section: "1068c"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1068c"
-generated_at: "2026-03-30T02:54:48.104Z"
+generated_at: "2026-11-23T20:26:14.358Z"
+status: "active"
 ---
 
 # § 1068c. Cooperative arrangements
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:48.104Z"
   - **(2)** with funds available to carry out part B, between institutions eligible for assistance under part B and institutions not receiving assistance under this subchapter;
 - **(b)** The Secretary shall give priority to grants for the purposes described under subsection (a) whenever the Secretary determines that the cooperative arrangement is geographically and economically sound or will benefit the applicant institution.
 - **(c)** Grants to institutions having a cooperative arrangement may be made under this section for a period as determined under section 1059 of this title or section 1062 of this title .
+
+## Source Credit
+
+*([Pub. L. 89–329, title III, § 394](https://www.govinfo.gov/link/plaw/89/public/329), formerly § 354, as added [Pub. L. 99–498, title III, § 301(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1305](https://www.govinfo.gov/link/statute/100/1305); renumbered § 394, [Pub. L. 105–244, title III, § 301(a)(2)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1636](https://www.govinfo.gov/link/statute/112/1636).)*

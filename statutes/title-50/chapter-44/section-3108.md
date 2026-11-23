@@ -3,9 +3,10 @@ title: "Section 3108 - Auditability of certain elements of the intelligence comm
 usc_title: 50
 usc_section: "3108"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3108"
-generated_at: "2026-03-30T02:56:26.236Z"
+generated_at: "2026-11-23T20:27:30.921Z"
+status: "active"
 ---
 
 # § 3108. Auditability of certain elements of the intelligence community
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:26.236Z"
 - **(b)** Beginning as early as practicable, but in no event later than the audit required under subsection (a) for fiscal year 2016, the head of each covered entity shall take all reasonable steps necessary to ensure that each audit required under subsection (a) contains an unqualified opinion on the financial statements of such covered entity for the fiscal year covered by such audit.
 - **(c)** The chief financial officer of each covered entity shall provide to the congressional intelligence committees an annual audit report from an accounting or auditing organization on each audit of the covered entity conducted pursuant to subsection (a).
 - **(d)** In this section, the term “covered entity” means the Office of the Director of National Intelligence, the Central Intelligence Agency, the Defense Intelligence Agency, the National Security Agency, the National Reconnaissance Office, and the National Geospatial-Intelligence Agency.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title V, § 509, as added [Pub. L. 113–126, title III, § 309(a)](https://www.govinfo.gov/link/plaw/113/public/126), July 7, 2014, [128 Stat. 1398](https://www.govinfo.gov/link/statute/128/1398).)*

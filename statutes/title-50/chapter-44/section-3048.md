@@ -3,9 +3,10 @@ title: "Section 3048 - Detail of intelligence community personnel—Intelligence
 usc_title: 50
 usc_section: "3048"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3048"
-generated_at: "2026-03-30T02:56:26.232Z"
+generated_at: "2026-11-23T20:27:30.900Z"
+status: "active"
 ---
 
 # § 3048. Detail of intelligence community personnel—Intelligence Community Assignment Program
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:26.232Z"
     - **(D)** The distance between the detailed employee’s parent agency duty station and the host agency duty station is greater than 20 miles.
     - **(E)** The distance between the detailed employee’s primary residence and the host agency duty station is 10 miles greater than the distance between such primary residence and the employees parent duty station.
     - **(F)** The rate of pay applicable to the detailed employee does not exceed the rate of basic pay for grade GS–15 of the General Schedule.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title I, § 113, as added [Pub. L. 105–107, title III, § 303(a)](https://www.govinfo.gov/link/plaw/105/public/107), Nov. 20, 1997, [111 Stat. 2251](https://www.govinfo.gov/link/statute/111/2251); amended [Pub. L. 107–108, title III, § 304](https://www.govinfo.gov/link/plaw/107/public/108), Dec. 28, 2001, [115 Stat. 1398](https://www.govinfo.gov/link/statute/115/1398); [Pub. L. 107–306, title VIII, § 841(a)](https://www.govinfo.gov/link/plaw/107/public/306), Nov. 27, 2002, [116 Stat. 2431](https://www.govinfo.gov/link/statute/116/2431); [Pub. L. 108–458, title I, § 1071(a)(1)(M)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3689](https://www.govinfo.gov/link/statute/118/3689).)*

@@ -3,12 +3,17 @@ title: "Section 2241 - Sense of Congress regarding permanent, pro-growth fiscal 
 usc_title: 48
 usc_section: "2241"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 2241"
-generated_at: "2026-03-30T02:56:14.606Z"
+generated_at: "2026-11-23T20:27:28.210Z"
+status: "active"
 ---
 
 # § 2241. Sense of Congress regarding permanent, pro-growth fiscal reforms
 
 It is the sense of the Congress that any durable solution for Puerto Rico’s fiscal and economic crisis should include permanent, pro-growth fiscal reforms that feature, among other elements, a free flow of capital between possessions of the United States and the rest of the United States.
 
+
+## Source Credit
+
+*([Pub. L. 114–187, title VII, § 701](https://www.govinfo.gov/link/plaw/114/public/187), June 30, 2016, [130 Stat. 610](https://www.govinfo.gov/link/statute/130/610).)*

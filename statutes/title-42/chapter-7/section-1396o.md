@@ -3,9 +3,10 @@ title: "Section 1396o - Use of enrollment fees, premiums, deductions, cost shari
 usc_title: 42
 usc_section: "1396o"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1396o"
-generated_at: "2026-03-30T02:56:11.046Z"
+generated_at: "2026-11-23T20:27:21.572Z"
+status: "active"
 ---
 
 # § 1396o. Use of enrollment fees, premiums, deductions, cost sharing, and similar charges
@@ -85,3 +86,7 @@ generated_at: "2026-03-30T02:56:11.046Z"
     - **(A)** is enrolled under section 1396a(a)(10)(A)(i)(VIII) of this title ; or
     - **(B)** is described in such subsection and otherwise enrolled under a waiver of the State plan that provides coverage that is equivalent to minimum essential coverage (as described in section 5000A(f)(1)(A) of the Internal Revenue Code of 1986 and determined in accordance with standards prescribed by the Secretary in regulations) to all individuals described in section 1396a(a)(10)(A)(i)(VIII) of this title .
   - **(4)** For purposes of this subsection, the term “State” means 1 of the 50 States or the District of Columbia.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XIX, § 1916, as added [Pub. L. 97–248, title I, § 131(b)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 367](https://www.govinfo.gov/link/statute/96/367); amended [Pub. L. 97–448, title III, § 309(b)(18)](https://www.govinfo.gov/link/plaw/97/public/448) –(20), Jan. 12, 1983, [96 Stat. 2409](https://www.govinfo.gov/link/statute/96/2409), 2410; [Pub. L. 99–272, title IX, § 9505(c)(2)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 209](https://www.govinfo.gov/link/statute/100/209); [Pub. L. 99–509, title IX, § 9403(g)(4)(B)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 2056](https://www.govinfo.gov/link/statute/100/2056); [Pub. L. 100–203, title IV](https://www.govinfo.gov/link/plaw/100/public/203), §§ 4101(d)(1), 4211(h)(11), Dec. 22, 1987, [101 Stat. 1330–142](https://www.govinfo.gov/link/statute/101/1330), 1330–207; [Pub. L. 100–360, title IV, § 411(k)(2)](https://www.govinfo.gov/link/plaw/100/public/360), July 1, 1988, [102 Stat. 791](https://www.govinfo.gov/link/statute/102/791); [Pub. L. 101–239, title VI, § 6408(d)(3)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2269](https://www.govinfo.gov/link/statute/103/2269); [Pub. L. 105–33, title IV, § 4708(b)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 506](https://www.govinfo.gov/link/statute/111/506); [Pub. L. 106–170, title II, § 201(a)(3)](https://www.govinfo.gov/link/plaw/106/public/170), Dec. 17, 1999, [113 Stat. 1893](https://www.govinfo.gov/link/statute/113/1893); [Pub. L. 109–171, title VI](https://www.govinfo.gov/link/plaw/109/public/171), §§ 6041(b), 6062(b), Feb. 8, 2006, [120 Stat. 84](https://www.govinfo.gov/link/statute/120/84), 98; [Pub. L. 111–5, div. B, title V, § 5006(a)(1)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 505](https://www.govinfo.gov/link/statute/123/505); [Pub. L. 111–148, title IV, § 4107(c)(1)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 561](https://www.govinfo.gov/link/statute/124/561); [Pub. L. 116–127, div. F, § 6004(a)(2)(A)](https://www.govinfo.gov/link/plaw/116/public/127), Mar. 18, 2020, [134 Stat. 204](https://www.govinfo.gov/link/statute/134/204); [Pub. L. 117–2, title IX, § 9811(a)(3)(A)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 209](https://www.govinfo.gov/link/statute/135/209); [Pub. L. 117–169, title I, § 11405(a)(2)(A)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 1900](https://www.govinfo.gov/link/statute/136/1900); [Pub. L. 119–21, title VII, § 71120(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 315](https://www.govinfo.gov/link/statute/139/315).)*

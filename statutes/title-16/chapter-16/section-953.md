@@ -3,9 +3,10 @@ title: "Section 953 - General Advisory Committee and Scientific Advisory Subcomm
 usc_title: 16
 usc_section: "953"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 953"
-generated_at: "2026-03-30T02:54:22.936Z"
+generated_at: "2026-11-23T20:26:20.346Z"
+status: "active"
 ---
 
 # § 953. General Advisory Committee and Scientific Advisory Subcommittee
@@ -37,3 +38,15 @@ generated_at: "2026-03-30T02:54:22.936Z"
       - **(iv)** consulting with other experts as needed; and
       - **(v)** recommending measures to assure the regular and timely full exchange of data among the parties to the Program and each nation’s National Scientific Advisory Committee (or its equivalent).
   - **(3)** The Scientific Advisory Subcommittee shall be invited to have representatives attend all nonexecutive meetings of the United States sections and the General Advisory Committee and shall be given full opportunity to examine and to be heard on all proposed programs of scientific investigation, scientific reports, and scientific recommendations of the commission. Representatives of the Scientific Advisory Subcommittee may attend meetings of the Inter-American Tropical Tuna Commission in accordance with the rules of such Commission.
+
+Scientific Advisory Subcommittee.—
+
+Advice
+
+Other functions and assistance
+
+Attendance at meetings
+
+## Source Credit
+
+*(Sept. 7, 1950, ch. 907, § 4, [64 Stat. 778](https://www.govinfo.gov/link/statute/64/778); [Pub. L. 102–523, § 3(a)(2)](https://www.govinfo.gov/link/plaw/102/public/523), Oct. 26, 1992, [106 Stat. 3433](https://www.govinfo.gov/link/statute/106/3433); [Pub. L. 105–42, § 7(b)](https://www.govinfo.gov/link/plaw/105/public/42), Aug. 15, 1997, [111 Stat. 1137](https://www.govinfo.gov/link/statute/111/1137); [Pub. L. 114–81, title II, § 205](https://www.govinfo.gov/link/plaw/114/public/81), Nov. 5, 2015, [129 Stat. 661](https://www.govinfo.gov/link/statute/129/661); [Pub. L. 117–286, § 4(a)(105)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4317](https://www.govinfo.gov/link/statute/136/4317).)*

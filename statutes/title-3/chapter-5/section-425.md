@@ -3,9 +3,10 @@ title: "Section 425 - Rights and protections under the Occupational Safety and H
 usc_title: 3
 usc_section: "425"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "3 U.S.C. § 425"
-generated_at: "2026-03-30T02:52:49.879Z"
+generated_at: "2026-11-23T20:25:27.449Z"
+status: "active"
 ---
 
 # § 425. Rights and protections under the Occupational Safety and Health Act of 1970; procedures for remedy of violations
@@ -38,3 +39,39 @@ generated_at: "2026-03-30T02:52:49.879Z"
 - **(e)** Subsections (a) through (c) shall take effect on the earlier of—
   - **(1)** the effective date of regulations issued under subsection (d); or
   - **(2)** October 1, 1998 .
+
+Occupational Safety and Health Protections.—
+
+In general
+
+Definitions
+
+Remedy
+
+Procedures.—
+
+Requests for inspections
+
+Citations, notices, and notifications
+
+Hearings and review
+
+Variance procedures
+
+Judicial review
+
+Compliance date
+
+Regulations To Implement Section.—
+
+In general
+
+Agency regulations
+
+Employing office responsible for correction
+
+Effective Date
+
+## Source Credit
+
+*(Added [Pub. L. 104–331, § 2(a)](https://www.govinfo.gov/link/plaw/104/public/331), Oct. 26, 1996, [110 Stat. 4062](https://www.govinfo.gov/link/statute/110/4062).)*

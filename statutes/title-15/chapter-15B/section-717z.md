@@ -3,9 +3,10 @@ title: "Section 717z - Emergency conversion of utilities and other facilities"
 usc_title: 15
 usc_section: "717z"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 717z"
-generated_at: "2026-03-30T02:54:08.119Z"
+generated_at: "2026-11-23T20:26:03.908Z"
+status: "active"
 ---
 
 # § 717z. Emergency conversion of utilities and other facilities
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:54:08.119Z"
     - **(C)** any use of natural gas the curtailment of which the President determines would endanger life, health, or maintenance of physical property.
   - **(4)** The term “Mcf”, when used with respect to natural gas, means 1,000 cubic feet of natural gas measured at a pressure of 14.73 pounds per square inch (absolute) and a temperature of 60 degrees Fahrenheit.
 - **(i)** In applying the provisions of this section in the case of natural gas subject to a prohibition order issued under this section, the term “petroleum products” (as defined in subsection (h)(2) of this section) shall be substituted for the term “heavy petroleum fuel oil” (as defined in section 717y(e)(7) of this title ) if the person subject to any order under this section demonstrates to the Commission that the acquisition and use of heavy petroleum fuel oil is not technically or economically feasible.
+
+## Source Credit
+
+*([Pub. L. 95–617, title VI, § 607](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3171](https://www.govinfo.gov/link/statute/92/3171).)*

@@ -3,9 +3,10 @@ title: "Section 179n - National Film Preservation Board"
 usc_title: 2
 usc_section: "179n"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 179n"
-generated_at: "2026-03-30T02:53:04.791Z"
+generated_at: "2026-11-23T20:25:28.855Z"
+status: "active"
 ---
 
 # § 179n. National Film Preservation Board
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:53:04.791Z"
 - **(e)** Members of the Board shall serve without pay, but may receive travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5.
 - **(f)** The Board shall meet at least once each fiscal year. Meetings shall be at the call of the Librarian.
 - **(g)** The Librarian shall establish rules and procedures to address any potential conflict of interest between a member of the Board and responsibilities of the Board.
+
+## Source Credit
+
+*([Pub. L. 104–285, title I, § 104](https://www.govinfo.gov/link/plaw/104/public/285), Oct. 11, 1996, [110 Stat. 3378](https://www.govinfo.gov/link/statute/110/3378); [Pub. L. 109–9, title III, § 302(b)](https://www.govinfo.gov/link/plaw/109/public/9), Apr. 27, 2005, [119 Stat. 225](https://www.govinfo.gov/link/statute/119/225); [Pub. L. 110–336, § 3(a)(3)](https://www.govinfo.gov/link/plaw/110/public/336), Oct. 2, 2008, [122 Stat. 3727](https://www.govinfo.gov/link/statute/122/3727).)*

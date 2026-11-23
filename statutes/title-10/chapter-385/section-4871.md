@@ -3,9 +3,10 @@ title: "Section 4871 - Contracts: consideration of national security objectives"
 usc_title: 10
 usc_section: "4871"
 chapter: 385
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 4871"
-generated_at: "2026-03-30T02:53:38.214Z"
+generated_at: "2026-11-23T20:25:51.985Z"
+status: "active"
 ---
 
 # § 4871. Contracts: consideration of national security objectives
@@ -39,3 +40,93 @@ generated_at: "2026-03-30T02:53:38.214Z"
   - **(1)** This section does not apply to a contract for an amount less than $100,000.
   - **(2)** This section does not apply to the Coast Guard or the National Aeronautics and Space Administration.
 - **(g)** The Secretary of Defense, after consultation with the Secretary of State, shall prescribe regulations to carry out this section. Such regulations shall include a definition of the term “significant interest”.
+
+Disclosure of Ownership or Control by a Foreign Government
+
+Prohibition on Entering Into Contracts Against the Interests of the United States
+
+Waiver
+
+List of Firms Subject to Prohibition
+
+Distribution of List
+
+Applicability
+
+Regulations
+
+In General
+
+Prohibition on Indirect Sales
+
+Applicability
+
+Phased Implementation
+
+Exception
+
+Definitions
+
+Computer
+
+Covered chinese entity
+
+“(aa) the Entity List set forth in Supplement No. 4 to part 744 of the Export Administration Regulations;
+
+“(bb) the Denied Persons List as described in section 764.3(a)(2) of the Export Administration Regulations; or
+
+“(cc) the Military End User List set forth in Supplement No. 7 to part 744 of the Export Administration Regulations; and
+
+“(aa) an agency or instrumentality of the People’s Republic of China;
+
+“(bb) an entity headquartered in the People’s Republic of China; or
+
+“(cc) directly or indirectly owned or controlled by an agency, instrumentality, or entity described in subparagraph (i) or (ii); or
+
+Printer
+
+In General
+
+Elements
+
+Disassembly and analysis of commercially available foreign drone aircraft
+
+Supply chain risk framework
+
+Resilient supply chain strategy
+
+Report
+
+Form
+
+Covered Foreign Country Defined
+
+Prohibition on Agency Operation or Procurement
+
+Prohibition on Certain Contracts
+
+Exemption
+
+Waiver
+
+Definitions
+
+Covered foreign country
+
+Covered unmanned aircraft system
+
+Covered unmanned aircraft system company
+
+“Not later than 180 days after the date of the enactment of this Act [ Dec. 23, 2022 ], the Secretary of Defense shall issue policy to—
+
+Identification of Certain Countries
+
+Prohibition on Procurement of Items From Identified Countries
+
+Waiver Authority
+
+Effective Date
+
+## Source Credit
+
+*(Added [Pub. L. 99–500, § 101(c) [title X, § 951(a)(1)]](https://www.govinfo.gov/link/plaw/99/public/500), Oct. 18, 1986, [100 Stat. 1783–82](https://www.govinfo.gov/link/statute/100/1783), 1783–164, and [Pub. L. 99–591, § 101(c) [title X, § 951(a)(1)]](https://www.govinfo.gov/link/plaw/99/public/591), Oct. 30, 1986, [100 Stat. 3341–82](https://www.govinfo.gov/link/statute/100/3341), 3341–164, § 2327; [Pub. L. 99–661, div. A, title IX](https://www.govinfo.gov/link/plaw/99/public/661), formerly title IV, § 951(a)(1), Nov. 14, 1986, [100 Stat. 3944](https://www.govinfo.gov/link/statute/100/3944), renumbered title IX, [Pub. L. 100–26, § 3(5)](https://www.govinfo.gov/link/plaw/100/public/26), Apr. 21, 1987, [101 Stat. 273](https://www.govinfo.gov/link/statute/101/273); amended [Pub. L. 100–180, div. A, title XII, § 1231(8)](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1160](https://www.govinfo.gov/link/statute/101/1160); [Pub. L. 100–224, § 5(b)(2)](https://www.govinfo.gov/link/plaw/100/public/224), Dec. 30, 1987, [101 Stat. 1538](https://www.govinfo.gov/link/statute/101/1538); [Pub. L. 105–85, div. A, title VIII, § 843](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1844](https://www.govinfo.gov/link/statute/111/1844); [Pub. L. 108–136, div. A, title X, § 1031(a)(16)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1597](https://www.govinfo.gov/link/statute/117/1597); [Pub. L. 114–328, div. A, title X, § 1081(b)(3)(C)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2418](https://www.govinfo.gov/link/statute/130/2418); renumbered § 4871, [Pub. L. 116–283, div. A, title XVIII, § 1870(d)(2)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4286](https://www.govinfo.gov/link/statute/134/4286); [Pub. L. 117–81, div. A, title XVII, § 1701(t)(2)(B)](https://www.govinfo.gov/link/plaw/117/public/81), (C), Dec. 27, 2021, [135 Stat. 2150](https://www.govinfo.gov/link/statute/135/2150).)*

@@ -3,9 +3,10 @@ title: "Section 4301 - Findings and purpose"
 usc_title: 12
 usc_section: "4301"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4301"
-generated_at: "2026-03-30T02:53:53.504Z"
+generated_at: "2026-11-23T20:25:59.375Z"
+status: "active"
 ---
 
 # § 4301. Findings and purpose
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:53.504Z"
 - **(b)** It is the purpose of this chapter to require the clear and uniform disclosure of—
   - **(1)** the rates of interest which are payable on deposit accounts by depository institutions; and
   - **(2)** the fees that are assessable against deposit accounts,
+
+## Source Credit
+
+*([Pub. L. 102–242, title II, § 262](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2334](https://www.govinfo.gov/link/statute/105/2334).)*

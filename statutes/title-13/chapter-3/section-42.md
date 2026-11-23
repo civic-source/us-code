@@ -3,9 +3,10 @@ title: "Section 42 - Contents of reports; number of bales of linter; distributio
 usc_title: 13
 usc_section: "42"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "13 U.S.C. § 42"
-generated_at: "2026-03-30T02:54:03.337Z"
+generated_at: "2026-11-23T20:25:53.901Z"
+status: "active"
 ---
 
 # § 42. Contents of reports; number of bales of linter; distribution; publication by Department of Agriculture
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:03.337Z"
 - **(b)** The quantity of cotton consumed in manufacturing establishments, the quantity of baled cotton on hand, the number of active consuming cotton spindles, the number of active spindle-hours, and the statistics of cotton imported and exported shall relate to each month, and shall be published as soon as possible after the close of the month.
 - **(c)** In collecting and publishing statistics of cotton on hand in warehouses and other storage establishments, and of cotton known as the “carry-over” in the United States, the Secretary shall ascertain and publish as a separate item in the report of cotton statistics the number of bales of linters as distinguished from the number of bales of cotton.
 - **(d)** The Secretary shall furnish to the Department of Agriculture, immediately prior to the publication of each report of that Department regarding the cotton crop, the latest available statistics hereinbefore mentioned, and the Department of Agriculture shall publish the same in connection with each of its reports concerning cotton.
+
+## Source Credit
+
+*(Aug. 31, 1954, ch. 1158, [68 Stat. 1016](https://www.govinfo.gov/link/statute/68/1016); [Pub. L. 92–331, § 4](https://www.govinfo.gov/link/plaw/92/public/331), June 30, 1972, [86 Stat. 400](https://www.govinfo.gov/link/statute/86/400).)*

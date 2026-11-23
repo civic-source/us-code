@@ -3,9 +3,10 @@ title: "Section 429b - Manassas National Battlefield Park"
 usc_title: 16
 usc_section: "429b"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 429b"
-generated_at: "2026-03-30T02:54:22.793Z"
+generated_at: "2026-11-23T20:26:19.832Z"
+status: "active"
 ---
 
 # § 429b. Manassas National Battlefield Park
@@ -19,3 +20,15 @@ generated_at: "2026-03-30T02:54:22.793Z"
     - **(C)** In the absence of a negotiated settlement, or an action by the owner, within 1 year after November 10, 1988 , the Secretary may initiate a proceeding at anytime seeking in a court of competent jurisdiction a determination of just compensation with respect to the taking of such property.
   - **(3)** Not later than 6 months after November 10, 1988 , the Secretary shall publish in the Federal Register a detailed description and map depicting the boundaries of the Addition. The map shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior.
 - **(c)** The Secretary shall not allow any unauthorized use of the Addition after November 10, 1988 , except that the Secretary may permit the orderly termination of all operations on the Addition and the removal of equipment, facilities, and personal property from the Addition.
+
+Study
+
+Determination
+
+Assistance
+
+Authorization
+
+## Source Credit
+
+*(Apr. 17, 1954, ch. 153, § 1, [68 Stat. 56](https://www.govinfo.gov/link/statute/68/56), as renumbered and amended [Pub. L. 96–442, § 2](https://www.govinfo.gov/link/plaw/96/public/442), Oct. 13, 1980, [94 Stat. 1885](https://www.govinfo.gov/link/statute/94/1885); [Pub. L. 100–647, title X, § 10002](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3810](https://www.govinfo.gov/link/statute/102/3810).)*

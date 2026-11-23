@@ -3,9 +3,10 @@ title: "Section 1073e - Protection of armed forces from infectious diseases"
 usc_title: 10
 usc_section: "1073e"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1073e"
-generated_at: "2026-03-30T02:53:38.099Z"
+generated_at: "2026-11-23T20:25:51.197Z"
+status: "active"
 ---
 
 # § 1073e. Protection of armed forces from infectious diseases
@@ -21,3 +22,13 @@ generated_at: "2026-03-30T02:53:38.099Z"
 - **(c)**
   - **(1)** The Secretary shall include with the defense budget materials (as defined by section 231(f) 1 1 See References in Text note below. of this title) for a fiscal year a plan to research and develop vaccines, diagnostics, and therapeutics for infectious diseases.
   - **(2)** The Secretary shall ensure that the medical laboratories of the Department of Defense are equipped with the technology needed to facilitate rapid research and development of vaccines, diagnostics, and therapeutics in the case of a pandemic.
+
+Protection
+
+Requirements
+
+Research and Development
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. A, title VII, § 712(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3691](https://www.govinfo.gov/link/statute/134/3691).)*

@@ -3,9 +3,10 @@ title: "Section 1207 - State operation"
 usc_title: 45
 usc_section: "1207"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 1207"
-generated_at: "2026-03-30T02:55:56.560Z"
+generated_at: "2026-11-23T20:27:05.340Z"
+status: "active"
 ---
 
 # § 1207. State operation
@@ -23,3 +24,11 @@ generated_at: "2026-03-30T02:55:56.560Z"
 - **(c)** The State-owned railroad shall be eligible to participate in all Federal railroad assistance programs on a basis equal to that of other rail carriers subject to part A of subtitle IV of title 49.
 - **(d)** After the date of transfer to the State pursuant to section 1203 of this title , the portion of the rail properties within the boundaries of the Chugach National Forest and the exclusive-use easement within the boundaries of the Denali National Park and Preserve shall be subject to laws and regulations for the protection of forest and park values. The right to fence the exclusive-use easement within Denali National Park and Preserve shall be subject to the concurrence of the Secretary of the Interior. The Secretary of the Interior, or the Secretary of Agriculture where appropriate, shall not act pursuant to this subsection without consulting with the Governor of the State of Alaska or in such a manner as to unreasonably interfere with continued or expanded operations and support functions authorized under this chapter.
 - **(e)** The State-owned railroad may take any necessary or appropriate action, consistent with Federal railroad safety laws, to preserve and protect its rail properties in the interests of safety.
+
+Grants
+
+Authorization of Appropriations
+
+## Source Credit
+
+*([Pub. L. 97–468, title VI, § 608](https://www.govinfo.gov/link/plaw/97/public/468), Jan. 14, 1983, [96 Stat. 2573](https://www.govinfo.gov/link/statute/96/2573); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 104–88, title III, § 326](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 951](https://www.govinfo.gov/link/statute/109/951); [Pub. L. 108–447, div. H, title I, § 152(1)](https://www.govinfo.gov/link/plaw/108/public/447), (2), Dec. 8, 2004, [118 Stat. 3222](https://www.govinfo.gov/link/statute/118/3222).)*

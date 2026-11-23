@@ -3,9 +3,10 @@ title: "Section 2796b - Legislative review procedures"
 usc_title: 22
 usc_section: "2796b"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2796b"
-generated_at: "2026-03-30T02:55:05.387Z"
+generated_at: "2026-11-23T20:26:32.431Z"
+status: "active"
 ---
 
 # § 2796b. Legislative review procedures
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.387Z"
     - **(B)** defense articles valued (in terms of their replacement cost less any depreciation in their value) at $100,000,000 or more.
 - **(b)** Any joint resolution under subsection (a) shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
 - **(c)** For the purpose of expediting the consideration and enactment of joint resolutions under subsection (a), a motion to proceed to the consideration of any such joint resolution after it has been reported by the appropriate committee shall be treated as highly privileged in the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 90–629](https://www.govinfo.gov/link/plaw/90/public/629), ch. 6, § 63, as added [Pub. L. 97–113, title I, § 109(a)](https://www.govinfo.gov/link/plaw/97/public/113), Dec. 29, 1981, [95 Stat. 1525](https://www.govinfo.gov/link/statute/95/1525); amended [Pub. L. 99–247, § 1(d)](https://www.govinfo.gov/link/plaw/99/public/247), Feb. 12, 1986, [100 Stat. 9](https://www.govinfo.gov/link/statute/100/9); [Pub. L. 104–164, title I, § 141(e)(2)](https://www.govinfo.gov/link/plaw/104/public/164), July 21, 1996, [110 Stat. 1433](https://www.govinfo.gov/link/statute/110/1433); [Pub. L. 107–228, div. B, title XIV, § 1405(a)(3)](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1457](https://www.govinfo.gov/link/statute/116/1457); [Pub. L. 110–429, title II, § 203(b)(1)](https://www.govinfo.gov/link/plaw/110/public/429), Oct. 15, 2008, [122 Stat. 4845](https://www.govinfo.gov/link/statute/122/4845); [Pub. L. 111–266, title III, § 301(1)](https://www.govinfo.gov/link/plaw/111/public/266), Oct. 8, 2010, [124 Stat. 2804](https://www.govinfo.gov/link/statute/124/2804).)*

@@ -3,9 +3,10 @@ title: "Section 3378 - Miscellaneous provisions"
 usc_title: 16
 usc_section: "3378"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3378"
-generated_at: "2026-03-30T02:54:23.016Z"
+generated_at: "2026-11-23T20:26:20.655Z"
+status: "active"
 ---
 
 # § 3378. Miscellaneous provisions
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:23.016Z"
   - **(3)** enlarging or diminishing the authority of any State or Indian tribe to regulate the activities of persons within Indian reservations.
 - **(d)** The Secretary of the Interior is authorized to pay from agency appropriations the travel expense of newly appointed special agents of the United States Fish and Wildlife Service and the transportation expense of household goods and personal effects from place of residence at time of selection to first duty station to the extent authorized by section 5724 of title 5 for all such special agents appointed after January 1, 1977 .
 - **(e)** The Secretary shall identify the funds utilized to enforce this chapter and any regulations thereto as a specific appropriations item in the Department of the Interior appropriations budget proposal to the Congress.
+
+## Source Credit
+
+*([Pub. L. 97–79, § 9(a)](https://www.govinfo.gov/link/plaw/97/public/79) –(c), (g), (h), Nov. 16, 1981, [95 Stat. 1079](https://www.govinfo.gov/link/statute/95/1079), 1080.)*

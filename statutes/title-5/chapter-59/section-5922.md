@@ -3,9 +3,10 @@ title: "Section 5922 - General provisions"
 usc_title: 5
 usc_section: "5922"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 5922"
-generated_at: "2026-03-30T02:52:56.028Z"
+generated_at: "2026-11-23T20:25:31.990Z"
+status: "active"
 ---
 
 # § 5922. General provisions
@@ -28,3 +29,46 @@ generated_at: "2026-03-30T02:52:56.028Z"
     - **(A)** at the employee’s post of assignment; or
     - **(B)** at a place, outside the United States, for which a separate maintenance allowance was being furnished under section 5924(3).
   - **(3)** The President may prescribe any regulations necessary to carry out this subsection.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| (a) | 5 U.S.C. 3033 . | Sept. 6, 1960 , Pub. L. 86–707, § 201 , 74 Stat. 793 . |
+| (b) | 5 U.S.C. 3034 . | Sept. 6, 1960 , Pub. L. 86–707, § 202 , 74 Stat. 793 . |
+| (c) | 5 U.S.C. 3035 . | Sept. 6, 1960 , Pub. L. 86–707, § 203 , 74 Stat. 793 . |
+
+
+Historical and Revision Notes
+
+(a)
+
+5 U.S.C. 3033
+
+Sept. 6, 1960
+
+Pub. L. 86–707, § 201
+
+74 Stat. 793
+
+(b)
+
+5 U.S.C. 3034
+
+Sept. 6, 1960
+
+Pub. L. 86–707, § 202
+
+74 Stat. 793
+
+(c)
+
+5 U.S.C. 3035
+
+Sept. 6, 1960
+
+Pub. L. 86–707, § 203
+
+74 Stat. 793
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 510](https://www.govinfo.gov/link/statute/80/510); [Pub. L. 102–138, title I, § 147(c)](https://www.govinfo.gov/link/plaw/102/public/138), Oct. 28, 1991, [105 Stat. 669](https://www.govinfo.gov/link/statute/105/669); [Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 335]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–441.)*

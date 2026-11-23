@@ -3,9 +3,10 @@ title: "Section 10139 - Judicial review of agency actions"
 usc_title: 42
 usc_section: "10139"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10139"
-generated_at: "2026-03-30T02:56:11.381Z"
+generated_at: "2026-11-23T20:27:23.209Z"
+status: "active"
 ---
 
 # § 10139. Judicial review of agency actions
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.381Z"
     - **(F)** for review of any research and development activity under subchapter II.
   - **(2)** The venue of any proceeding under this section shall be in the judicial circuit in which the petitioner involved resides or has its principal office, or in the United States Court of Appeals for the District of Columbia.
 - **(c)** A civil action for judicial review described under subsection (a)(1) may be brought not later than the 180th day after the date of the decision or action or failure to act involved, as the case may be, except that if a party shows that he did not know of the decision or action complained of (or of the failure to act), and that a reasonable person acting under the circumstances would not have known, such party may bring a civil action not later than the 180th day after the date such party acquired actual or constructive knowledge of such decision, action, or failure to act.
+
+## Source Credit
+
+*([Pub. L. 97–425, title I, § 119](https://www.govinfo.gov/link/plaw/97/public/425), Jan. 7, 1983, [96 Stat. 2227](https://www.govinfo.gov/link/statute/96/2227).)*

@@ -3,12 +3,17 @@ title: "Section 217 - Proceedings for suspension of orders"
 usc_title: 7
 usc_section: "217"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 217"
-generated_at: "2026-03-30T02:53:42.278Z"
+generated_at: "2026-11-23T20:25:41.000Z"
+status: "active"
 ---
 
 # § 217. Proceedings for suspension of orders
 
 For the purposes of this subchapter, the provisions of all laws relating to the suspending or restraining the enforcement, operation, or execution of, or the setting aside in whole or in part the orders of the Interstate Commerce Commission, are made applicable to the jurisdiction, powers, and duties of the Secretary in enforcing the provisions of this subchapter, and to any person subject to the provisions of this subchapter.
 
+
+## Source Credit
+
+*(Aug. 15, 1921, ch. 64, title III, § 316, [42 Stat. 168](https://www.govinfo.gov/link/statute/42/168).)*

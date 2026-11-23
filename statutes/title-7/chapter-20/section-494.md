@@ -3,12 +3,17 @@ title: "Section 494 - Rules and regulations; cooperation with States, etc., offi
 usc_title: 7
 usc_section: "494"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 494"
-generated_at: "2026-03-30T02:53:42.285Z"
+generated_at: "2026-11-23T20:25:41.035Z"
+status: "active"
 ---
 
 # § 494. Rules and regulations; cooperation with States, etc., officers and employees; expenditures
 
 The Secretary of Agriculture may make such rules and regulations as he may deem advisable to carry out the provisions of this chapter and may cooperate with any department or agency of the Government, any State, Territory, District, or possession, or department, agency, or political subdivision thereof, or any person; and may call upon any Federal department, board, or commission for assistance in carrying out the purposes of this chapter; and shall have the power to appoint, remove, and fix the compensation of such officers and employees not in conflict with existing law and make such expenditure for rent, outside the District of Columbia, printing, telegrams, telephones, books of reference, books of law, periodicals, newspapers, furniture, stationery, office equipment, travel, and other supplies and expenses as shall be deemed necessary to the administration of this chapter in the District of Columbia and elsewhere.
 
+
+## Source Credit
+
+*(Mar. 3, 1927, ch. 309, § 3, [44 Stat. 1355](https://www.govinfo.gov/link/statute/44/1355).)*

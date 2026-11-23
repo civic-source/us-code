@@ -3,9 +3,10 @@ title: "Section 387e - Annual registration"
 usc_title: 21
 usc_section: "387e"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 387e"
-generated_at: "2026-03-30T02:54:54.280Z"
+generated_at: "2026-11-23T20:26:27.768Z"
+status: "active"
 ---
 
 # § 387e. Annual registration
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:54:54.280Z"
       - **(ii)** a report under this subsection is not necessary to ensure that permitting the tobacco product to be marketed would be appropriate for protection of the public health; and
       - **(iii)** an exemption is otherwise appropriate.
     - **(B)** Not later than 15 months after June 22, 2009 , the Secretary shall issue regulations to implement this paragraph.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 905, as added [Pub. L. 111–31, div. A, title I, § 101(b)(3)](https://www.govinfo.gov/link/plaw/111/public/31), June 22, 2009, [123 Stat. 1792](https://www.govinfo.gov/link/statute/123/1792).)*

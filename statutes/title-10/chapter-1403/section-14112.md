@@ -3,9 +3,10 @@ title: "Section 14112 - Dissemination of names of officers selected"
 usc_title: 10
 usc_section: "14112"
 chapter: 1403
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 14112"
-generated_at: "2026-03-30T02:53:38.274Z"
+generated_at: "2026-11-23T20:25:52.464Z"
+status: "active"
 ---
 
 # § 14112. Dissemination of names of officers selected
@@ -19,3 +20,11 @@ generated_at: "2026-03-30T02:53:38.274Z"
 - **(b)** A list of names of officers disseminated under subsection (a) may not include—
   - **(1)** any name removed by the President from the report of the selection board containing that name, if dissemination is under the authority of paragraph (2) or (3)(B) of that subsection; or
   - **(2)** the name of any officer whose promotion the Senate failed to confirm, if dissemination is under the authority of paragraph (3)(A) of that subsection.
+
+Time for Dissemination
+
+Names Not Disseminated
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1611](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2930](https://www.govinfo.gov/link/statute/108/2930); amended [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title V, § 503(b)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–101.)*

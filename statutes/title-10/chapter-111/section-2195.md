@@ -3,9 +3,10 @@ title: "Section 2195 - Department of Defense cooperative education programs"
 usc_title: 10
 usc_section: "2195"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2195"
-generated_at: "2026-03-30T02:53:38.147Z"
+generated_at: "2026-11-23T20:25:51.484Z"
+status: "active"
 ---
 
 # § 2195. Department of Defense cooperative education programs
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:38.147Z"
   - **(2)** In this subsection, the term “qualifying employee” means a student who is employed at the National Security Agency under—
     - **(A)** a Student Educational Employment Program of the Agency conducted under this section or any other provision of law; or
     - **(B)** a similar cooperative or summer education program of the Agency that meets the criteria for Federal cooperative or summer education programs prescribed by the Office of Personnel Management.
+
+## Source Credit
+
+*(Added [Pub. L. 101–510, div. A, title II, § 247(a)(1)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1522](https://www.govinfo.gov/link/statute/104/1522); amended [Pub. L. 108–136, div. A, title IX, § 926](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1579](https://www.govinfo.gov/link/statute/117/1579).)*

@@ -3,9 +3,10 @@ title: "Section 711a - Emergency assistance to families through home visiting pr
 usc_title: 42
 usc_section: "711a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 711a"
-generated_at: "2026-03-30T02:56:10.896Z"
+generated_at: "2026-11-23T20:27:20.943Z"
+status: "active"
 ---
 
 # § 711a. Emergency assistance to families through home visiting programs
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:10.896Z"
   - **(5)** to provide emergency supplies (such as diapers and diapering supplies including diaper wipes and diaper cream, necessary to ensure that a child using a diaper is properly cleaned and protected from diaper rash, formula, food, water, hand soap and hand sanitizer) to an eligible family (as defined in section 711( l )(2) of this title);
   - **(6)** to coordinate with and provide reimbursement for supplies to diaper banks when using such entities to provide emergency supplies specified in paragraph (5); or
   - **(7)** to provide prepaid grocery cards to an eligible family (as defined in section 711( l )(2) of this title) participating in the maternal, infant, and early childhood home visiting program under section 711 of this title for the purpose of enabling the family to meet the emergency needs of the family.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title V, § 511A, as added [Pub. L. 117–2, title IX, § 9101](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 123](https://www.govinfo.gov/link/statute/135/123); amended [Pub. L. 117–328, div. FF, title VI, § 6101(f)(2)(B)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5962](https://www.govinfo.gov/link/statute/136/5962).)*

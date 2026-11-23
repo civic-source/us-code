@@ -3,9 +3,10 @@ title: "Section 81a - Definitions"
 usc_title: 19
 usc_section: "81a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 81a"
-generated_at: "2026-03-30T02:54:24.625Z"
+generated_at: "2026-11-23T20:26:10.718Z"
+status: "active"
 ---
 
 # § 81a. Definitions
@@ -21,3 +22,7 @@ When used in this chapter—
 - **(g)** The term “applicant” means a corporation applying for the right to establish, operate, and maintain a foreign-trade zone;
 - **(h)** The term “grantee” means a corporation to which the privilege of establishing, operating, and maintaining a foreign-trade zone has been granted;
 - **(i)** The term “zone” means a “foreign-trade zone” as provided in this chapter.
+
+## Source Credit
+
+*(June 18, 1934, ch. 590, § 1, [48 Stat. 998](https://www.govinfo.gov/link/statute/48/998); [Pub. L. 104–201, div. A, title IX, § 910](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2621](https://www.govinfo.gov/link/statute/110/2621).)*

@@ -3,9 +3,10 @@ title: "Section 4230 - Program requirements"
 usc_title: 25
 usc_section: "4230"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 4230"
-generated_at: "2026-03-30T02:54:52.861Z"
+generated_at: "2026-11-23T20:26:25.697Z"
+status: "active"
 ---
 
 # § 4230. Program requirements
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:52.861Z"
 - **(c)** As a condition to receiving grant amounts under this subchapter, the Director shall require adequate insurance coverage for housing units that are owned or operated or assisted with grant amounts provided under this subchapter.
 - **(d)** As a condition to receiving grant amounts under this subchapter, the Director shall develop written policies governing the eligibility, admission, and occupancy of families for housing assisted with grant amounts provided under this subchapter.
 - **(e)** As a condition to receiving grant amounts under this subchapter, the Director shall develop policies governing the management and maintenance of housing assisted with grant amounts under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 104–330, title VIII, § 811](https://www.govinfo.gov/link/plaw/104/public/330), as added [Pub. L. 106–568, title II, § 203](https://www.govinfo.gov/link/plaw/106/public/568), Dec. 27, 2000, [114 Stat. 2887](https://www.govinfo.gov/link/statute/114/2887), and [Pub. L. 106–569, title V, § 513](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 2981](https://www.govinfo.gov/link/statute/114/2981).)*

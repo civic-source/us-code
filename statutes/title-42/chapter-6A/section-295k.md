@@ -3,9 +3,10 @@ title: "Section 295k - Health professions data"
 usc_title: 42
 usc_section: "295k"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 295k"
-generated_at: "2026-03-30T02:56:10.781Z"
+generated_at: "2026-11-23T20:27:20.401Z"
+status: "active"
 ---
 
 # § 295k. Health professions data
@@ -36,3 +37,11 @@ generated_at: "2026-03-30T02:56:10.781Z"
 - **(h)**
   - **(1)** In carrying out subsection (a), the Secretary may make grants, or enter into contracts and cooperative agreements with, and provide technical assistance to, any nonprofit entity in order to establish a uniform allied health professions data reporting system to collect, compile, and analyze data on the allied health professions personnel.
   - **(2)** With respect to reports required in subsection (d), each such report made on or after October 1, 1991 , shall include a description and analysis of data collected pursuant to paragraph (1).
+
+In General
+
+Report to Congress
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 792, as added [Pub. L. 102–408, title I, § 102](https://www.govinfo.gov/link/plaw/102/public/408), Oct. 13, 1992, [106 Stat. 2058](https://www.govinfo.gov/link/statute/106/2058); amended [Pub. L. 105–392, title I, § 106(b)](https://www.govinfo.gov/link/plaw/105/public/392), Nov. 13, 1998, [112 Stat. 3559](https://www.govinfo.gov/link/statute/112/3559).)*

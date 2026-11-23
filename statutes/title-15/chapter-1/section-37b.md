@@ -3,9 +3,10 @@ title: "Section 37b - Confirmation of antitrust status of graduate medical resid
 usc_title: 15
 usc_section: "37b"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 37b"
-generated_at: "2026-03-30T02:54:08.024Z"
+generated_at: "2026-11-23T20:26:03.378Z"
+status: "active"
 ---
 
 # § 37b. Confirmation of antitrust status of graduate medical resident matching programs
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:08.024Z"
   - **(2)** It shall not be unlawful under the antitrust laws to sponsor, conduct, or participate in a graduate medical education residency matching program, or to agree to sponsor, conduct, or participate in such a program. Evidence of any of the conduct described in the preceding sentence shall not be admissible in Federal court to support any claim or action alleging a violation of the antitrust laws.
   - **(3)** Nothing in this section shall be construed to exempt from the antitrust laws any agreement on the part of 2 or more graduate medical education programs to fix the amount of the stipend or other benefits received by students participating in such programs.
 - **(c)** This section shall take effect on April 10, 2004 , shall apply to conduct whether it occurs prior to, on, or after April 10, 2004 , and shall apply to all judicial and administrative actions or other proceedings pending on April 10, 2004 .
+
+## Source Credit
+
+*([Pub. L. 108–218, title II, § 207](https://www.govinfo.gov/link/plaw/108/public/218), Apr. 10, 2004, [118 Stat. 611](https://www.govinfo.gov/link/statute/118/611).)*

@@ -3,9 +3,10 @@ title: "Section 6402 - Data standards for grant reporting"
 usc_title: 31
 usc_section: "6402"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 6402"
-generated_at: "2026-03-30T02:55:34.072Z"
+generated_at: "2026-11-23T20:26:51.907Z"
+status: "active"
 ---
 
 # § 6402. Data standards for grant reporting
@@ -33,3 +34,33 @@ generated_at: "2026-03-30T02:55:34.072Z"
   - **(4)** private sector experts;
   - **(5)** members of the public, including privacy experts, privacy advocates, auditors, and industry stakeholders; and
   - **(6)** State and local governments.
+
+In General.—
+
+Designation of standard-setting agency
+
+Establishment of standards
+
+Data elements
+
+Scope
+
+Requirements
+
+Consultation
+
+Collection of Information
+
+Publication of Information
+
+FOIA
+
+Determination Required
+
+Factors to Be Considered
+
+Publication and Report on Determination
+
+## Source Credit
+
+*(Added [Pub. L. 116–103, § 4(a)](https://www.govinfo.gov/link/plaw/116/public/103), Dec. 30, 2019, [133 Stat. 3268](https://www.govinfo.gov/link/statute/133/3268).)*

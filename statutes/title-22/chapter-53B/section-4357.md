@@ -3,9 +3,10 @@ title: "Section 4357 - Definitions"
 usc_title: 22
 usc_section: "4357"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4357"
-generated_at: "2026-03-30T02:55:05.411Z"
+generated_at: "2026-11-23T20:26:32.536Z"
+status: "active"
 ---
 
 # § 4357. Definitions
@@ -16,3 +17,7 @@ For purposes of this chapter—
   - **(2)** the term “Historian” means the Historian of the Department of State or any successor officer of the Department of State responsible for carrying out the functions of the Office of the Historian, Bureau of Public Affairs, of the Department of State, as in effect on October 28, 1991 ;
   - **(3)** the term “originating agency” means, with respect to a record, the department, agency, or entity of the United States (or any officer or employee thereof of acting in his official capacity) that originates, develops, publishes, issues, or otherwise prepares that record or receives that record from outside the United States Government; and
   - **(4)** the term “record” includes any written material (including any document, memorandum, correspondence, statistical data, book, or other papers), map, photograph, machine readable material, or other documentary material, regardless of physical form or characteristics, made or received by an agency of the United States Government under Federal law or in connection with the transaction of public business and preserved or appropriate for preservation by that agency or its legitimate successor as evidence of the organization, functions, policies, decisions, procedures, operations, or other activities of the Government or because of the informational value in them, and such term does not include library or museum material made or acquired and preserved solely for reference or exhibition purposes, any extra copy of a document preserved only for convenience of reference, or any stocks of publications or of processed documents.
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title IV, § 407, as added [Pub. L. 102–138, title I, § 198(a)](https://www.govinfo.gov/link/plaw/102/public/138), Oct. 28, 1991, [105 Stat. 690](https://www.govinfo.gov/link/statute/105/690).)*

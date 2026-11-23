@@ -3,9 +3,10 @@ title: "Section 15811 - Voluntary commitments to reduce industrial energy intens
 usc_title: 42
 usc_section: "15811"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 15811"
-generated_at: "2026-03-30T02:56:11.460Z"
+generated_at: "2026-11-23T20:27:23.570Z"
+status: "active"
 ---
 
 # § 15811. Voluntary commitments to reduce industrial energy intensity
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.460Z"
 - **(f)** Not later than each of June 30, 2012 , and June 30, 2017 , the Secretary shall submit to Congress a report that—
   - **(1)** evaluates the success of the voluntary agreements under this section; and
   - **(2)** provides independent verification of a sample of the energy savings estimates provided by participating firms.
+
+## Source Credit
+
+*([Pub. L. 109–58, title I, § 106](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 611](https://www.govinfo.gov/link/statute/119/611).)*

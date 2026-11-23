@@ -3,9 +3,10 @@ title: "Section 1 - Sampling and averaging; determination of weighted average du
 usc_title: 19
 usc_section: "1"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1"
-generated_at: "2026-03-30T02:54:24.658Z"
+generated_at: "2026-11-23T20:26:10.873Z"
+status: "active"
 ---
 
 # § 1677f–1. Sampling and averaging; determination of weighted average dumping margin and countervailable subsidy rate
@@ -41,3 +42,9 @@ generated_at: "2026-03-30T02:54:24.658Z"
     - **(B)** such countervailable subsidy has been demonstrated to have reduced the average price of imports of the class or kind of merchandise during the relevant period, and
     - **(C)** the administering authority can reasonably estimate the extent to which the countervailable subsidy referred to in subparagraph (B), in combination with the use of normal value determined pursuant to section 1677b(c) of this title , has increased the weighted average dumping margin for the class or kind of merchandise,
   - **(2)** The administering authority may not reduce the antidumping duty applicable to a class or kind of merchandise from a nonmarket economy country under this subsection by more than the portion of the countervailing duty rate attributable to a countervailable subsidy that is provided with respect to the class or kind of merchandise and that meets the conditions described in subparagraphs (A), (B), and (C) of paragraph (1).
+
+“Subsection (f) of section 777A of the Tariff Act of 1930 [ 19 U.S.C. 1677f–1(f) ], as added by subsection (a) of this section, applies to—
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title VII, § 777A, as added [Pub. L. 98–573, title VI, § 620(a)](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 3039](https://www.govinfo.gov/link/statute/98/3039); amended [Pub. L. 103–465, title II](https://www.govinfo.gov/link/plaw/103/public/465), §§ 229(a), 269(a), (b)(1), Dec. 8, 1994, [108 Stat. 4889](https://www.govinfo.gov/link/statute/108/4889), 4916; [Pub. L. 112–99, § 2(a)](https://www.govinfo.gov/link/plaw/112/public/99), Mar. 13, 2012, [126 Stat. 265](https://www.govinfo.gov/link/statute/126/265).)*

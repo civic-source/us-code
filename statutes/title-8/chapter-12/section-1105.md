@@ -3,9 +3,10 @@ title: "Section 1105 - Liaison with internal security officers; data exchange"
 usc_title: 8
 usc_section: "1105"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1105"
-generated_at: "2026-03-30T02:53:10.472Z"
+generated_at: "2026-11-23T20:25:35.988Z"
+status: "active"
 ---
 
 # § 1105. Liaison with internal security officers; data exchange
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:10.472Z"
     - **(B)** to ensure that such information is used solely to determine whether or not to issue a visa to an alien or to admit an alien to the United States;
     - **(C)** to ensure the security, confidentiality, and destruction of such information; and
     - **(D)** to protect any privacy rights of individuals who are subjects of such information.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title I, § 105, [66 Stat. 175](https://www.govinfo.gov/link/statute/66/175); [Pub. L. 95–105, title I, § 109(b)(2)](https://www.govinfo.gov/link/plaw/95/public/105), Aug. 17, 1977, [91 Stat. 847](https://www.govinfo.gov/link/statute/91/847); [Pub. L. 103–236, title I, § 162(h)(3)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 408](https://www.govinfo.gov/link/statute/108/408); [Pub. L. 107–56, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 343](https://www.govinfo.gov/link/statute/115/343).)*

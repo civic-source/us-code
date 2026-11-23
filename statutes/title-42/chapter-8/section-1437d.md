@@ -3,9 +3,10 @@ title: "Section 1437d - Contract provisions and requirements; loans and annual c
 usc_title: 42
 usc_section: "1437d"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1437d"
-generated_at: "2026-03-30T02:56:11.078Z"
+generated_at: "2026-11-23T20:27:21.710Z"
+status: "active"
 ---
 
 # § 1437d. Contract provisions and requirements; loans and annual contributions
@@ -219,3 +220,69 @@ generated_at: "2026-03-30T02:56:11.078Z"
     - **(B)** The term “controlled substance” has the meaning given the term in section 802 of title 21 .
     - **(C)** The term “currently engaging in the illegal use of a controlled substance” means the illegal use of a controlled substance that occurred recently enough to justify a reasonable belief that an applicant’s illegal use of a controlled substance is current or that continuing illegal use of a controlled substance by the applicant is a real and ongoing problem.
   - **(8)** This subsection shall take effect on October 21, 1998 , and without the necessity of guidance from, or any regulation issued by, the Secretary.
+
+(1) administer the system of evaluating public housing agencies flexibly to ensure that such agencies are not penalized as result of circumstances beyond their control;
+
+(2) reflect in the weights assigned to the various indicators the differences in the difficulty of managing individual projects that result from their physical condition and their neighborhood environment; and
+
+(3) determine a public housing agency’s status as “troubled with respect to the program under section 1437 l 4 4 See References in Text note below. of this title” based upon factors solely related to its ability to carry out that program.
+
+(aa) in the case of a troubled public housing agency with 1,250 or more units, petition for the appointment of a receiver pursuant to subparagraph (A)(ii); or
+
+(bb) in the case of a troubled public housing agency with fewer than 1,250 units, either petition for the appointment of a receiver pursuant to subparagraph (A)(ii), or take possession of the public housing agency (including all or part of any project or program of the agency) pursuant to subparagraph (A)(iv) and appoint, on a competitive or noncompetitive basis, an individual or entity as an administrative receiver to assume the responsibilities of the Secretary for the administration of all or part of the public housing agency (including all or part of any project or program of the agency).
+
+Sanctions for improper use of amounts.—
+
+In general
+
+Termination of compliance action
+
+(aa) engaged in the destruction of property;
+
+(bb) engaged in violent activity against another person; or
+
+(cc) interfered with the right of peaceful enjoyment of the premises of another tenant.
+
+Applicability
+
+Implementation
+
+“Nothing in this Act [see Tables for classification], or the amendments made by this Act, shall be construed—
+
+In General
+
+Purposes
+
+Evaluation of Various Performance Evaluation Systems
+
+Current system
+
+Accreditation models
+
+Performance based models
+
+Local review and monitoring models
+
+Private models
+
+Other models
+
+Consultation
+
+Contract to Conduct Study.—
+
+In general
+
+National academy of public administration
+
+Report.—
+
+Interim report
+
+Final report
+
+Effective Date
+
+## Source Credit
+
+*(Sept. 1, 1937, ch. 896, title I, § 6, as added [Pub. L. 93–383, title II, § 201(a)](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 659](https://www.govinfo.gov/link/statute/88/659); amended [Pub. L. 96–153, title II, § 206(a)](https://www.govinfo.gov/link/plaw/96/public/153), Dec. 21, 1979, [93 Stat. 1108](https://www.govinfo.gov/link/statute/93/1108); [Pub. L. 96–399, title II](https://www.govinfo.gov/link/plaw/96/public/399), §§ 201(c), (e), 202(c), Oct. 8, 1980, [94 Stat. 1625](https://www.govinfo.gov/link/statute/94/1625), 1629; [Pub. L. 97–35, title III, § 322(c)](https://www.govinfo.gov/link/plaw/97/public/35), (d), Aug. 13, 1981, [95 Stat. 402](https://www.govinfo.gov/link/statute/95/402); [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title II, §§ 201(c), 203(a), 204, 205, 214(b)], Nov. 30, 1983, [97 Stat. 1177–1179](https://www.govinfo.gov/link/statute/97/1177), 1185; [Pub. L. 98–479, title I, § 102(b)(4)](https://www.govinfo.gov/link/plaw/98/public/479), (5), title II, § 204(b)(1), Oct. 17, 1984, [98 Stat. 2221](https://www.govinfo.gov/link/statute/98/2221), 2233; [Pub. L. 99–160, title I, § 101](https://www.govinfo.gov/link/plaw/99/public/160), Nov. 25, 1985, [99 Stat. 910](https://www.govinfo.gov/link/statute/99/910); [Pub. L. 100–242, title I](https://www.govinfo.gov/link/plaw/100/public/242), §§ 112(b)(2), 116, 170(d), Feb. 5, 1988, [101 Stat. 1824](https://www.govinfo.gov/link/statute/101/1824), 1826, 1867; renumbered title I, [Pub. L. 100–358, § 5](https://www.govinfo.gov/link/plaw/100/public/358), June 29, 1988, [102 Stat. 681](https://www.govinfo.gov/link/statute/102/681); [Pub. L. 100–628, title X](https://www.govinfo.gov/link/plaw/100/public/628), §§ 1001(b), 1014(a)(1), Nov. 7, 1988, [102 Stat. 3263](https://www.govinfo.gov/link/statute/102/3263), 3269; [Pub. L. 100–690, title V, § 5101](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4300](https://www.govinfo.gov/link/statute/102/4300); [Pub. L. 101–144, title II](https://www.govinfo.gov/link/plaw/101/public/144), Nov. 9, 1989, [103 Stat. 846](https://www.govinfo.gov/link/statute/103/846); [Pub. L. 101–625, title V](https://www.govinfo.gov/link/plaw/101/public/625), §§ 501, 502(a), (c)(1), 503(a), (b), 504–506, 572, Nov. 28, 1990, [104 Stat. 4180](https://www.govinfo.gov/link/statute/104/4180), 4181, 4183–4185, 4236; [Pub. L. 102–139, title II](https://www.govinfo.gov/link/plaw/102/public/139), Oct. 28, 1991, [105 Stat. 756](https://www.govinfo.gov/link/statute/105/756), 757; [Pub. L. 102–550, title I](https://www.govinfo.gov/link/plaw/102/public/550), §§ 112, 113, title VI, §§ 622(b), 625(a)(2), 682(a), Oct. 28, 1992, [106 Stat. 3689](https://www.govinfo.gov/link/statute/106/3689), 3817, 3820, 3830; [Pub. L. 103–233, title I, § 101(c)(1)](https://www.govinfo.gov/link/plaw/103/public/233), title III, § 303, Apr. 11, 1994, [108 Stat. 357](https://www.govinfo.gov/link/statute/108/357), 370; [Pub. L. 103–327, title II](https://www.govinfo.gov/link/plaw/103/public/327), Sept. 28, 1994, [108 Stat. 2315](https://www.govinfo.gov/link/statute/108/2315); [Pub. L. 104–99, title IV, § 402(d)(1)](https://www.govinfo.gov/link/plaw/104/public/99), (6)(A)(i), Jan. 26, 1996, [110 Stat. 41](https://www.govinfo.gov/link/statute/110/41), 42; [Pub. L. 104–120, § 9(a)](https://www.govinfo.gov/link/plaw/104/public/120) –(c), Mar. 28, 1996, [110 Stat. 836](https://www.govinfo.gov/link/statute/110/836), 837; [Pub. L. 104–193, title IX, § 903(a)(1)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2348](https://www.govinfo.gov/link/statute/110/2348); [Pub. L. 104–330, title V, § 501(b)(3)](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4042](https://www.govinfo.gov/link/statute/110/4042); [Pub. L. 105–276, title V](https://www.govinfo.gov/link/plaw/105/public/276), §§ 511(d), 512(b), 514(a)(1), (2)(A), 519(b), 520(b), 521, 525, 529, 530, 564, 565(a), 575, 576(d)(1), Oct. 21, 1998, [112 Stat. 2539](https://www.govinfo.gov/link/statute/112/2539), 2543, 2547, 2561, 2563, 2568, 2569, 2627, 2628, 2634, 2640; [Pub. L. 109–162, title VI, § 607](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3048](https://www.govinfo.gov/link/statute/119/3048); [Pub. L. 109–271, § 5(f)](https://www.govinfo.gov/link/plaw/109/public/271), Aug. 12, 2006, [120 Stat. 761](https://www.govinfo.gov/link/statute/120/761); [Pub. L. 113–4, title VI, § 601(b)(1)](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 107](https://www.govinfo.gov/link/statute/127/107).)*

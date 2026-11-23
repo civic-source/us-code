@@ -3,9 +3,10 @@ title: "Section 5505 - Environmental education grants"
 usc_title: 20
 usc_section: "5505"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 5505"
-generated_at: "2026-03-30T02:54:48.187Z"
+generated_at: "2026-11-23T20:26:14.789Z"
+status: "active"
 ---
 
 # § 5505. Environmental education grants
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:48.187Z"
 - **(g)** Each project under this section shall be performed by the applicant, or by a person satisfactory to the applicant and the Administrator.
 - **(h)** Federal funds for any demonstration project under this section shall not exceed 75 percent of the total cost of such project. For the purposes of this section, the non-Federal share of project costs may be provided by inkind contributions and other noncash support. In cases where the Administrator determines that a proposed project merits support and cannot be undertaken without a higher rate of Federal support, the Administrator may approve grants under this section with a matching requirement other than that specified in this subsection, including full Federal funding.
 - **(i)** Grants under this section shall not exceed $250,000. In addition, 25 percent of all funds obligated under this section in a fiscal year shall be for grants of not more than $5,000.
+
+## Source Credit
+
+*([Pub. L. 101–619, § 6](https://www.govinfo.gov/link/plaw/101/public/619), Nov. 16, 1990, [104 Stat. 3330](https://www.govinfo.gov/link/statute/104/3330).)*

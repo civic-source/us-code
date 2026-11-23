@@ -3,9 +3,10 @@ title: "Section 2344 - Strengthened international security for nuclear materials
 usc_title: 50
 usc_section: "2344"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 2344"
-generated_at: "2026-03-30T02:56:26.221Z"
+generated_at: "2026-11-23T20:27:30.838Z"
+status: "active"
 ---
 
 # § 2344. Strengthened international security for nuclear materials and security of nuclear operations
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:26.221Z"
   - **(1)** The Secretary shall pursue with the Ministry of Atomic Energy of the Russian Federation joint programs between the United States and the Russian Federation on the development of proliferation-resistant nuclear energy technologies, including advanced fuel cycles.
   - **(2)** Of the amount authorized to be appropriated by section 3101(a)(2) 1 1 See References in Text note below. for the Department of Energy for the National Nuclear Security Administration for defense nuclear nonproliferation, up to $10,000,000 may be available for carrying out the joint programs referred to in paragraph (1).
 - **(c)** The Secretary may, utilizing appropriate expertise of the Department of Energy and the Nuclear Regulatory Commission, provide technical assistance to nuclear reactor facilities outside the United States with respect to the interdiction of hostile insiders at such facilities in order to prevent incidents arising from the disablement of the vital systems of such facilities.
+
+## Source Credit
+
+*([Pub. L. 107–314, div. C, title XXXI, § 3158](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2741](https://www.govinfo.gov/link/statute/116/2741).)*

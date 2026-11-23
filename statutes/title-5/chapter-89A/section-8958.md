@@ -3,9 +3,10 @@ title: "Section 8958 - Premiums"
 usc_title: 5
 usc_section: "8958"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8958"
-generated_at: "2026-03-30T02:52:56.070Z"
+generated_at: "2026-11-23T20:25:32.253Z"
+status: "active"
 ---
 
 # § 8958. Premiums
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:52:56.070Z"
   - **(2)**
     - **(A)** There is established in the Employees Health Benefits Fund a Dental Benefits Administrative Account, which shall be available to the Office, without fiscal year limitation, to defray reasonable expenses incurred by the Office in administering this chapter after the start of the first contract year.
     - **(B)** A contract under this chapter shall include appropriate provisions under which the qualified company involved shall, during each year, make such periodic contributions to the Dental Benefits Administrative Account as necessary to ensure that the reasonable anticipated expenses of the Office in administering this chapter during such year are defrayed.
+
+## Source Credit
+
+*(Added [Pub. L. 108–496, § 2](https://www.govinfo.gov/link/plaw/108/public/496), Dec. 23, 2004, [118 Stat. 4004](https://www.govinfo.gov/link/statute/118/4004); amended [Pub. L. 114–328, div. A, title VII, § 715(b)(1)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2222](https://www.govinfo.gov/link/statute/130/2222).)*

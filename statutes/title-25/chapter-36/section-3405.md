@@ -3,9 +3,10 @@ title: "Section 3405 - Plan requirements"
 usc_title: 25
 usc_section: "3405"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3405"
-generated_at: "2026-03-30T02:54:52.851Z"
+generated_at: "2026-11-23T20:26:25.648Z"
+status: "active"
 ---
 
 # § 3405. Plan requirements
@@ -23,3 +24,7 @@ A plan submitted to the Secretary for approval under this chapter shall—
   - **(5)** identify any agency of the Indian tribe to be involved in the delivery of the services integrated under the plan;
   - **(6)** identify any statutory provisions, regulations, policies, or procedures that the Indian tribe believes need to be waived to implement the plan; and
   - **(7)** be approved by the governing body of the Indian tribe.
+
+## Source Credit
+
+*([Pub. L. 102–477, § 6](https://www.govinfo.gov/link/plaw/102/public/477), Oct. 23, 1992, [106 Stat. 2303](https://www.govinfo.gov/link/statute/106/2303); [Pub. L. 115–93, § 7](https://www.govinfo.gov/link/plaw/115/public/93), Dec. 18, 2017, [131 Stat. 2028](https://www.govinfo.gov/link/statute/131/2028).)*

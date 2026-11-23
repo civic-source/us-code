@@ -3,9 +3,10 @@ title: "Section 4332 - Joint import safety rapid response plan"
 usc_title: 19
 usc_section: "4332"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 4332"
-generated_at: "2026-03-30T02:54:24.706Z"
+generated_at: "2026-11-23T20:26:11.137Z"
+status: "active"
 ---
 
 # § 4332. Joint import safety rapid response plan
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:24.706Z"
       - **(ii)** foreign governments; and
       - **(iii)** private sector entities; and
     - **(B)** use such recommendations and best practices to update the joint import safety rapid response plan.
+
+## Source Credit
+
+*([Pub. L. 114–125, title II, § 202](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 147](https://www.govinfo.gov/link/statute/130/147).)*

@@ -3,9 +3,10 @@ title: "Section 3707 - Activities in support of transparency"
 usc_title: 19
 usc_section: "3707"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3707"
-generated_at: "2026-03-30T02:54:24.694Z"
+generated_at: "2026-11-23T20:26:11.069Z"
+status: "active"
 ---
 
 # § 3707. Activities in support of transparency
@@ -22,3 +23,13 @@ generated_at: "2026-03-30T02:54:24.694Z"
   - **(1)** The outcomes of the meeting of the Forum, including any commitments made by member countries and the private sector.
   - **(2)** An assessment of progress made with respect to any commitments made by member countries and the private sector from the previous meeting of the Forum.
 - **(c)** The President should disseminate the information required under this section in a digital format to the public and publish such information on the AGOA Website.
+
+“In this title [enacting this section and provisions set out as a note under section 3701 of this title ]—
+
+Agoa website
+
+Eligible sub-saharan african country
+
+## Source Credit
+
+*([Pub. L. 115–167, title I, § 103](https://www.govinfo.gov/link/plaw/115/public/167), Apr. 23, 2018, [132 Stat. 1277](https://www.govinfo.gov/link/statute/132/1277).)*

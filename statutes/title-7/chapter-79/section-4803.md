@@ -3,9 +3,10 @@ title: "Section 4803 - Pork and pork product orders"
 usc_title: 7
 usc_section: "4803"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 4803"
-generated_at: "2026-03-30T02:53:42.411Z"
+generated_at: "2026-11-23T20:25:41.632Z"
+status: "active"
 ---
 
 # § 4803. Pork and pork product orders
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:42.411Z"
   - **(1)** the production and sale of porcine animals, pork, and pork products in the United States; and
   - **(2)** the importation of porcine animals, pork, or pork products into the United States.
 - **(b)** The Secretary may issue such regulations as are necessary to carry out this chapter.
+
+## Source Credit
+
+*([Pub. L. 99–198, title XVI, § 1614](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1609](https://www.govinfo.gov/link/statute/99/1609).)*

@@ -3,9 +3,10 @@ title: "Section 850 - Art. 50. Admissibility of sworn testimony from records of 
 usc_title: 10
 usc_section: "850"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 850"
-generated_at: "2026-03-30T02:53:38.080Z"
+generated_at: "2026-11-23T20:25:51.074Z"
+status: "active"
 ---
 
 # § 850. Art. 50. Admissibility of sworn testimony from records of courts of inquiry
@@ -16,3 +17,33 @@ generated_at: "2026-03-30T02:53:38.080Z"
 - **(d)** Sworn testimony that—
   - **(1)** is recorded by audiotape, videotape, or similar method; and
   - **(2)** is contained in the duly authenticated record of proceedings of a court of inquiry;
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 850(a) 850(b) | 50:625(a). 50:625(b). | May 5, 1950, ch. 169, § 1 (Art. 50), 64 Stat. 124 . |
+| 850(c) | 50:625(c). |  |
+
+
+Use as Evidence by Any Party
+
+Use as Evidence by Defense
+
+Use in Courts of Inquiry and Military Boards
+
+Audiotape or Videotape
+
+Historical and Revision Notes
+
+850(a)
+
+850(b)
+
+May 5, 1950, ch. 169, § 1
+
+64 Stat. 124
+
+850(c)
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 54; [Pub. L. 109–366, § 4(a)(2)](https://www.govinfo.gov/link/plaw/109/public/366), Oct. 17, 2006, [120 Stat. 2631](https://www.govinfo.gov/link/statute/120/2631); [Pub. L. 114–328, div. E, title LVII, § 5232](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2915](https://www.govinfo.gov/link/statute/130/2915).)*

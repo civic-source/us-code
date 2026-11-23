@@ -3,9 +3,10 @@ title: "Section 8016 - Technology programs"
 usc_title: 16
 usc_section: "8016"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 8016"
-generated_at: "2026-03-30T02:54:23.081Z"
+generated_at: "2026-11-23T20:26:20.866Z"
+status: "active"
 ---
 
 # § 8016. Technology programs
@@ -16,3 +17,7 @@ The Secretary of State, the Administrator of the United States Agency for Intern
   - **(2)** assessing the technology needs, including vessel tracking technologies and data sharing, in priority regions and priority flag states;
   - **(3)** engaging with priority flag states to encourage the mandated use of vessel tracking technologies, including vessel monitoring systems, AIS, or other vessel movement monitoring technologies on fishing vessels and transshipment vessels at all times, as appropriate, while at sea as a means to identify IUU fishing activities and the shipment of illegally caught fish products; and
   - **(4)** building partnerships with the private sector, including universities, nonprofit research organizations, the seafood industry, and the technology, transportation and logistics sectors, to leverage new and existing technologies and data analytics to address IUU fishing.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. C, title XXXV, § 3546](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2004](https://www.govinfo.gov/link/statute/133/2004).)*

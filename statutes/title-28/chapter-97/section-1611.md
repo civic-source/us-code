@@ -3,9 +3,10 @@ title: "Section 1611 - Certain types of property immune from execution"
 usc_title: 28
 usc_section: "1611"
 chapter: 97
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 1611"
-generated_at: "2026-03-30T02:55:30.142Z"
+generated_at: "2026-11-23T20:26:36.467Z"
+status: "active"
 ---
 
 # § 1611. Certain types of property immune from execution
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:30.142Z"
     - **(A)** is of a military character, or
     - **(B)** is under the control of a military authority or defense agency.
 - **(c)** Notwithstanding the provisions of section 1610 of this chapter, the property of a foreign state shall be immune from attachment and from execution in an action brought under section 302 of the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996 to the extent that the property is a facility or installation used by an accredited diplomatic mission for official purposes.
+
+## Source Credit
+
+*(Added [Pub. L. 94–583, § 4(a)](https://www.govinfo.gov/link/plaw/94/public/583), Oct. 21, 1976, [90 Stat. 2897](https://www.govinfo.gov/link/statute/90/2897); amended [Pub. L. 104–114, title III, § 302(e)](https://www.govinfo.gov/link/plaw/104/public/114), Mar. 12, 1996, [110 Stat. 818](https://www.govinfo.gov/link/statute/110/818).)*

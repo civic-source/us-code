@@ -3,9 +3,10 @@ title: "Section 1014 - Basis of property acquired from a decedent"
 usc_title: 26
 usc_section: "1014"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1014"
-generated_at: "2026-03-30T02:55:27.754Z"
+generated_at: "2026-11-23T20:26:46.009Z"
+status: "active"
 ---
 
 # § 1014. Basis of property acquired from a decedent
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:55:27.754Z"
     - **(B)** in a case not described in subparagraph (A), the value is specified by the Secretary and such value is not timely contested by the executor of the estate, or
     - **(C)** the value is determined by a court or pursuant to a settlement agreement with the Secretary.
   - **(4)** The Secretary may by regulations provide exceptions to the application of this subsection.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 296; [Pub. L. 85–320, § 2](https://www.govinfo.gov/link/plaw/85/public/320), Feb. 11, 1958, [72 Stat. 5](https://www.govinfo.gov/link/statute/72/5); [Pub. L. 92–178, title V, § 502(f)](https://www.govinfo.gov/link/plaw/92/public/178), Dec. 10, 1971, [85 Stat. 550](https://www.govinfo.gov/link/statute/85/550); [Pub. L. 94–455, title XIX, § 1901(c)(8)](https://www.govinfo.gov/link/plaw/94/public/455), title XX, § 2005(a)(1), Oct. 4, 1976, [90 Stat. 1803](https://www.govinfo.gov/link/statute/90/1803), 1872; [Pub. L. 95–600, title V, § 515(1)](https://www.govinfo.gov/link/plaw/95/public/600), title VII, § 702(c)(1)(A), Nov. 6, 1978, [92 Stat. 2884](https://www.govinfo.gov/link/statute/92/2884), 2926; [Pub. L. 96–222, title I, § 107(a)(2)(A)](https://www.govinfo.gov/link/plaw/96/public/222), Apr. 1, 1980, [94 Stat. 222](https://www.govinfo.gov/link/statute/94/222); [Pub. L. 96–223, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/96/public/223), Apr. 2, 1980, [94 Stat. 299](https://www.govinfo.gov/link/statute/94/299); [Pub. L. 97–34, title IV, § 425(a)](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 318](https://www.govinfo.gov/link/statute/95/318); [Pub. L. 97–448, title I, § 104(a)(1)(A)](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2379](https://www.govinfo.gov/link/statute/96/2379); [Pub. L. 105–34, title V, § 508(b)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 860](https://www.govinfo.gov/link/statute/111/860); [Pub. L. 107–16, title V, § 541](https://www.govinfo.gov/link/plaw/107/public/16), June 7, 2001, [115 Stat. 76](https://www.govinfo.gov/link/statute/115/76); [Pub. L. 108–357, title IV, § 413(c)(18)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1508](https://www.govinfo.gov/link/statute/118/1508); [Pub. L. 111–312, title III, § 301(a)](https://www.govinfo.gov/link/plaw/111/public/312), Dec. 17, 2010, [124 Stat. 3300](https://www.govinfo.gov/link/statute/124/3300); [Pub. L. 113–295, div. A, title II, § 221(a)(74)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4049](https://www.govinfo.gov/link/statute/128/4049); [Pub. L. 114–41, title II, § 2004(a)](https://www.govinfo.gov/link/plaw/114/public/41), July 31, 2015, [129 Stat. 454](https://www.govinfo.gov/link/statute/129/454).)*

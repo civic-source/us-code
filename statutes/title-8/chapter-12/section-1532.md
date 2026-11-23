@@ -3,9 +3,10 @@ title: "Section 1532 - Establishment of removal court"
 usc_title: 8
 usc_section: "1532"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1532"
-generated_at: "2026-03-30T02:53:10.503Z"
+generated_at: "2026-11-23T20:25:36.261Z"
+status: "active"
 ---
 
 # § 1532. Establishment of removal court
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:10.503Z"
 - **(e)** The removal court shall provide for the designation of a panel of attorneys each of whom—
   - **(1)** has a security clearance which affords the attorney access to classified information, and
   - **(2)** has agreed to represent permanent resident aliens with respect to classified information under section 1534(e)(3) of this title in accordance with (and subject to the penalties under) this subchapter.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title V, § 502, as added [Pub. L. 104–132, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1259](https://www.govinfo.gov/link/statute/110/1259); amended [Pub. L. 104–208, div. C, title III, § 354(a)(4)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–643](https://www.govinfo.gov/link/statute/110/3009).)*

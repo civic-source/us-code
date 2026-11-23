@@ -3,9 +3,10 @@ title: "Section 1268 - Penalties"
 usc_title: 30
 usc_section: "1268"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1268"
-generated_at: "2026-03-30T02:55:29.401Z"
+generated_at: "2026-11-23T20:26:35.026Z"
+status: "active"
 ---
 
 # § 1268. Penalties
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:29.401Z"
 - **(g)** Whoever knowingly makes any false statement, representation, or certification, or knowingly fails to make any statement, representation, or certification in any application, record, report, plant, or other document filed or required to be maintained pursuant to a Federal program or a Federal lands program or any order of decision issued by the Secretary under this chapter, shall, upon conviction, be punished by a fine of not more than $10,000, or by imprisonment for not more than one year or both.
 - **(h)** Any operator who fails to correct a violation for which a citation has been issued under section 1271(a) of this title within the period permitted for its correction (which period shall not end until the entry of a final order by the Secretary, in the case of any review proceedings under section 1275 of this title initiated by the operator wherein the Secretary orders, after an expedited hearing, the suspension of the abatement requirements of the citation after determining that the operator will suffer irreparable loss or damage from the application of those requirements, or until the entry of an order of the court, in the case of any review proceedings under section 1276 of this title initiated by the operator wherein the court orders the suspension of the abatement requirements of the citation), shall be assessed a civil penalty of not less than $750 for each day during which such failure or violation continues.
 - **(i)** As a condition of approval of any State program submitted pursuant to section 1253 of this title , the civil and criminal penalty provisions thereof shall, at a minimum, incorporate penalties no less stringent than those set forth in this section, and shall contain the same or similar procedural requirements relating thereto. Nothing herein shall be construed so as to eliminate any additional enforcement right or procedures which are available under State law to a State regulatory authority but which are not specifically enumerated herein.
+
+## Source Credit
+
+*([Pub. L. 95–87, title V, § 518](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 499](https://www.govinfo.gov/link/statute/91/499).)*

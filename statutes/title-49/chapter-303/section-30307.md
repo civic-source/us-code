@@ -3,9 +3,10 @@ title: "Section 30307 - Criminal penalties"
 usc_title: 49
 usc_section: "30307"
 chapter: 303
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 30307"
-generated_at: "2026-03-30T02:56:19.354Z"
+generated_at: "2026-11-23T20:27:34.927Z"
+status: "active"
 ---
 
 # § 30307. Criminal penalties
@@ -15,3 +16,32 @@ generated_at: "2026-03-30T02:56:19.354Z"
   - **(2)** disclosure of the information is not authorized by section 30305 of this title ; and
   - **(3)** the person willfully discloses the information knowing that disclosure is not authorized.
 - **(b)** A person knowingly and willfully requesting, or under false pretenses obtaining, information specified in section 30304(b)(1)(A) or (C) of this title from a person receiving the information under section 30305 of this title shall be fined under title 18, imprisoned for not more than one year, or both.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30307 | 23:401 (note). | Oct. 25, 1982 , Pub. L. 97–364, § 208 , 96 Stat. 1746 ; Dec. 30, 1987 , Pub. L. 100–223, § 305(b)(1) , 101 Stat. 1526 . |
+
+
+General Penalty
+
+Information Penalty
+
+Historical and Revision Notes
+
+30307
+
+Oct. 25, 1982
+
+Pub. L. 97–364, § 208
+
+96 Stat. 1746
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 305(b)(1)
+
+101 Stat. 1526
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 979](https://www.govinfo.gov/link/statute/108/979).)*

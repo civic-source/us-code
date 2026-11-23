@@ -3,9 +3,10 @@ title: "Section 192 - Contributions to black lung benefit trust"
 usc_title: 26
 usc_section: "192"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 192"
-generated_at: "2026-03-30T02:55:27.650Z"
+generated_at: "2026-11-23T20:26:45.494Z"
+status: "active"
 ---
 
 # § 192. Contributions to black lung benefit trust
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:27.650Z"
   - **(5)** No deduction shall be allowed under section 162(a) with respect to any liability taken into account in determining the deduction under subsection (a) of this section of the taxpayer (or a predecessor).
 - **(d)** If the amount of the deduction determined under subsection (a) for the taxable year (without regard to the limitation imposed by subsection (b)) with respect to a trust exceeds the limitation imposed by subsection (b) for the taxable year, the excess shall be carried over to the succeeding taxable year and treated as contributed to the trust during that year.
 - **(e)** For purposes of this section, the term “black lung benefit claim” means a claim for compensation for disability or death due to pneumoconiosis under part C of title IV of the Federal Mine Safety and Health Act of 1977 or under any State law providing for such compensation.
+
+## Source Credit
+
+*(Added [Pub. L. 95–227, § 4(b)(1)](https://www.govinfo.gov/link/plaw/95/public/227), Feb. 10, 1978, [92 Stat. 16](https://www.govinfo.gov/link/statute/92/16); amended [Pub. L. 95–488, § 1(a)](https://www.govinfo.gov/link/plaw/95/public/488) –(c), Oct. 20, 1978, [92 Stat. 1637](https://www.govinfo.gov/link/statute/92/1637); [Pub. L. 96–222, title I, § 108(b)(2)(B)](https://www.govinfo.gov/link/plaw/96/public/222), Apr. 1, 1980, [94 Stat. 226](https://www.govinfo.gov/link/statute/94/226); [Pub. L. 102–486, title XIX, § 1940(c)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3035](https://www.govinfo.gov/link/statute/106/3035).)*

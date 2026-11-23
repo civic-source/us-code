@@ -3,9 +3,10 @@ title: "Section 1445e - Farmer owned reserve program"
 usc_title: 7
 usc_section: "1445e"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1445e"
-generated_at: "2026-03-30T02:53:42.314Z"
+generated_at: "2026-11-23T20:25:41.158Z"
+status: "active"
 ---
 
 # § 1445e. Farmer owned reserve program
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:53:42.314Z"
 - **(n)** The Secretary of Agriculture shall issue such regulations as are necessary to carry out this section not later than 60 days after November 28, 1990 .
 - **(o)** In announcing the terms and conditions of the producer storage program under this section, the Secretary shall review standards concerning the quality of grain that shall be allowed to be stored under the program, and such standards should encourage only quality grain, as determined by the Secretary, to be pledged as collateral for such loans. The Secretary shall review inspection, maintenance, and stock rotation requirements and take the necessary steps to maintain the quality of such grain.
 - **(p)** Notwithstanding any other provision of law, this section shall become effective December 1, 1990 .
+
+## Source Credit
+
+*(Oct. 31, 1949, ch. 792, title I, § 110, as added [Pub. L. 95–113, title XI, § 1101](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 951](https://www.govinfo.gov/link/statute/91/951); amended [Pub. L. 96–234](https://www.govinfo.gov/link/plaw/96/public/234), §§ 1, 2, Apr. 11, 1980, [94 Stat. 333](https://www.govinfo.gov/link/statute/94/333); [Pub. L. 96–494, title II](https://www.govinfo.gov/link/plaw/96/public/494), §§ 203(a), 204, 205, Dec. 3, 1980, [94 Stat. 2571](https://www.govinfo.gov/link/statute/94/2571), 2572; [Pub. L. 97–24, § 2](https://www.govinfo.gov/link/plaw/97/public/24), July 23, 1981, [95 Stat. 143](https://www.govinfo.gov/link/statute/95/143); [Pub. L. 97–98, title X, § 1001](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1257](https://www.govinfo.gov/link/statute/95/1257); [Pub. L. 99–198, title X, § 1012(a)](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1455](https://www.govinfo.gov/link/statute/99/1455); [Pub. L. 100–203, title I, § 1108](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–6](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–387, title III, § 303(b)](https://www.govinfo.gov/link/plaw/100/public/387), Aug. 11, 1988, [102 Stat. 947](https://www.govinfo.gov/link/statute/102/947); [Pub. L. 101–624, title XI, § 1123](https://www.govinfo.gov/link/plaw/101/public/624), title XX, § 2010, Nov. 28, 1990, [104 Stat. 3503](https://www.govinfo.gov/link/statute/104/3503), 3932; [Pub. L. 102–237, title I, § 113(7)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1837](https://www.govinfo.gov/link/statute/105/1837).)*

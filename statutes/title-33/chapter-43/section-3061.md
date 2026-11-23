@@ -3,9 +3,10 @@ title: "Section 3061 - Cooperation with and transfer to military departments"
 usc_title: 33
 usc_section: "3061"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 3061"
-generated_at: "2026-03-30T02:55:41.137Z"
+generated_at: "2026-11-23T20:26:54.242Z"
+status: "active"
 ---
 
 # § 3061. Cooperation with and transfer to military departments
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:41.137Z"
   - **(4)** Nothing in this section shall be construed as transferring the Administration or any of its functions from the Department of Commerce except in time of national emergency and to the extent provided in this section.
 - **(b)** This section does not authorize the transfer of an officer of the Administration to a military department if the accession or retention of that officer in that military department is otherwise not authorized by law.
 - **(c)** An officer of the Administration transferred under this section, shall, while under the jurisdiction of a military department, have proper military status and shall be subject to the laws, regulations, and orders for the government of the Army, Navy, or Air Force, as the case may be, insofar as the same may be applicable to persons whose retention permanently in the military service of the United States is not contemplated by law.
+
+## Source Credit
+
+*([Pub. L. 107–372, title II, § 251](https://www.govinfo.gov/link/plaw/107/public/372), Dec. 19, 2002, [116 Stat. 3090](https://www.govinfo.gov/link/statute/116/3090).)*

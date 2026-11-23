@@ -3,9 +3,10 @@ title: "Section 1 - Office of Rural Housing Preservation"
 usc_title: 42
 usc_section: "1"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T02:56:11.099Z"
+generated_at: "2026-11-23T20:27:21.804Z"
+status: "active"
 ---
 
 # § 1490p–1. Office of Rural Housing Preservation
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.099Z"
   - **(2)** to provide technical or financial assistance to any other projects needing such assistance;
   - **(3)** to coordinate and direct all other activities related to the preservation of rural housing; and
   - **(4)** to monitor compliance of projects prepaid or receiving incentives under the Housing Act of 1949.
+
+## Source Credit
+
+*(July 15, 1949, ch. 338, title V, § 537, as added [Pub. L. 102–550, title VII, § 712(c)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3841](https://www.govinfo.gov/link/statute/106/3841).)*

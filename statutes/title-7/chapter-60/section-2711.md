@@ -3,9 +3,10 @@ title: "Section 2711 - Exempted egg producers and breeding hen flocks; condition
 usc_title: 7
 usc_section: "2711"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2711"
-generated_at: "2026-03-30T02:53:42.391Z"
+generated_at: "2026-11-23T20:25:41.547Z"
+status: "active"
 ---
 
 # § 2711. Exempted egg producers and breeding hen flocks; conditions and procedures
@@ -23,3 +24,11 @@ generated_at: "2026-03-30T02:53:42.391Z"
     - **(B)** a general partnership or similar entity in which the producer is a partner or equity participant;
     - **(C)** the partners or equity participants in an entity of the type described in subparagraph (B); or
     - **(D)** a corporation, joint stock company, association, cooperative, limited partnership, or other similar entity in which the producer holds 50 percent or more of the stock or other beneficial interests,
+
+Amendment
+
+Effective date
+
+## Source Credit
+
+*([Pub. L. 93–428, § 12](https://www.govinfo.gov/link/plaw/93/public/428), Oct. 1, 1974, [88 Stat. 1176](https://www.govinfo.gov/link/statute/88/1176); [Pub. L. 101–220, § 3(a)](https://www.govinfo.gov/link/plaw/101/public/220), Dec. 12, 1989, [103 Stat. 1877](https://www.govinfo.gov/link/statute/103/1877); [Pub. L. 103–188, § 4](https://www.govinfo.gov/link/plaw/103/public/188), Dec. 14, 1993, [107 Stat. 2257](https://www.govinfo.gov/link/statute/107/2257).)*

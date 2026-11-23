@@ -3,9 +3,10 @@ title: "Section 2167 - Safeguards information"
 usc_title: 42
 usc_section: "2167"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2167"
-generated_at: "2026-03-30T02:56:11.153Z"
+generated_at: "2026-11-23T20:27:22.087Z"
+status: "active"
 ---
 
 # § 2167. Safeguards information
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.153Z"
   - **(1)** specifically identifies the type of information the Commission intends to protect from disclosure under the regulation or order;
   - **(2)** specifically states the Commission’s justification for determining that unauthorized disclosure of the information to be protected from disclosure under the regulation or order could reasonably be expected to have a significant adverse effect on the health and safety of the public or the common defense and security by significantly increasing the likelihood of theft, diversion, or sabotage of such material or such facility, as specified under subsection (a) of this section; and
   - **(3)** provides justification, including proposed alternative regulations or orders, that the regulation or order applies only the minimum restrictions needed to protect the health and safety of the public or the common defense and security.
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 147, as added [Pub. L. 96–295, title II, § 207(a)(1)](https://www.govinfo.gov/link/plaw/96/public/295), June 30, 1980, [94 Stat. 788](https://www.govinfo.gov/link/statute/94/788); renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944).)*

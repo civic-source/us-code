@@ -3,9 +3,10 @@ title: "Section 3906 - Cost-reimbursement contracts"
 usc_title: 41
 usc_section: "3906"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 3906"
-generated_at: "2026-03-30T02:55:55.807Z"
+generated_at: "2026-11-23T20:27:04.447Z"
+status: "active"
 ---
 
 # § 3906. Cost-reimbursement contracts
@@ -30,3 +31,42 @@ generated_at: "2026-03-30T02:55:55.807Z"
   - **(2)** the Committee on Homeland Security and Governmental Affairs of the Senate;
   - **(3)** the Committees on Appropriations of the House of Representatives and the Senate; and
   - **(4)** in the case of the Department of Defense and the Department of Energy, the Committees on Armed Services of the Senate and the House of Representatives.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3906 | 41:254 note. | Pub. L. 110–417 , [div. A], title VIII, § 864(a), (b), (d), (e), (f)(2), (g), Oct. 14, 2008 , 122 Stat. 4549 . |
+
+
+Definition
+
+Regulations on the Use of Cost-Reimbursement Contracts
+
+Content
+
+Annual Report.—
+
+In general
+
+Contents
+
+Time requirements.—
+
+Deadline
+
+Limitation
+
+Congressional Committees
+
+Historical and Revision Notes
+
+3906
+
+Pub. L. 110–417
+
+Oct. 14, 2008
+
+122 Stat. 4549
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3777](https://www.govinfo.gov/link/statute/124/3777).)*

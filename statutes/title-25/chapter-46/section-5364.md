@@ -3,9 +3,10 @@ title: "Section 5364 - Compacts"
 usc_title: 25
 usc_section: "5364"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 5364"
-generated_at: "2026-03-30T02:54:52.868Z"
+generated_at: "2026-11-23T20:26:25.739Z"
+status: "active"
 ---
 
 # § 5364. Compacts
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:52.868Z"
 - **(f)** An Indian Tribe participating in self-governance under this subchapter, as in effect on October 21, 2020 , shall have the option at any time after that date—
   - **(1)** to retain its negotiated compact (in whole or in part) to the extent that the provisions of the compact are not directly contrary to any express provision of this subchapter; or
   - **(2)** to negotiate a new compact in a manner consistent with this subchapter.
+
+## Source Credit
+
+*([Pub. L. 93–638, title IV, § 404](https://www.govinfo.gov/link/plaw/93/public/638), as added [Pub. L. 116–180, title I, § 101(e)](https://www.govinfo.gov/link/plaw/116/public/180), Oct. 21, 2020, [134 Stat. 864](https://www.govinfo.gov/link/statute/134/864).)*

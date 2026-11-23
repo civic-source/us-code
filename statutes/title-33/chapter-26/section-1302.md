@@ -3,9 +3,10 @@ title: "Section 1302 - Wastewater efficiency grant pilot program"
 usc_title: 33
 usc_section: "1302"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1302"
-generated_at: "2026-03-30T02:55:41.090Z"
+generated_at: "2026-11-23T20:26:54.004Z"
+status: "active"
 ---
 
 # § 1302. Wastewater efficiency grant pilot program
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:41.090Z"
 - **(e)**
   - **(1)** There is authorized to be appropriated to carry out the pilot program $20,000,000 for each of fiscal years 2022 through 2026, to remain available until expended.
   - **(2)** Of the amounts made available for grants under paragraph (1), not more than 2 percent may be used to pay the administrative costs of the Administrator.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title II, § 222, as added [Pub. L. 117–58, div. E, title II, § 50202](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1158](https://www.govinfo.gov/link/statute/135/1158).)*

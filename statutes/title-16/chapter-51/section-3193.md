@@ -3,9 +3,10 @@ title: "Section 3193 - Use of cabins and other sites of occupancy on conservatio
 usc_title: 16
 usc_section: "3193"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3193"
-generated_at: "2026-03-30T02:54:23.012Z"
+generated_at: "2026-11-23T20:26:20.642Z"
+status: "active"
 ---
 
 # § 3193. Use of cabins and other sites of occupancy on conservation system units
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:54:23.012Z"
   - **(1)** Whenever issuance of a nontransferable renewable five-year special use permit is authorized by subsections (a) or (b) of this section, said permit shall be renewed every five years until the death of the last immediate family member of the claimant residing in the cabin or structure, or unless the Secretary has revoked the special use permit in accordance with the criteria established in this section.
   - **(2)** Notwithstanding any other provision of this section, the Secretary, after notice and hearing, may revoke a permit provided for in this section if he determines, on the basis of substantial evidence in the administrative record as a whole, that the use under the permit is causing or may cause significant detriment to the principal purposes for which the unit was established.
 - **(d)** Nothing in this Act shall preclude the renewal or continuation of valid leases or permits in effect on December 2, 1980 , for cabins, homesites, or similar structures on Federal lands. Unless the Secretary, or in the case of national forest lands, the Secretary of Agriculture, issues specific findings following notice and an opportunity for the lease-holder or permittee to respond, that renewal or continuation of such valid permit or lease constitutes a direct threat to or a significant impairment to the purposes for which a conservation system unit was established (in the case of a structure located within a conservation system unit) or the public domain or national forest (in case of a structure located outside conservation system units), he shall renew such valid leases or permits upon their expiration in accordance with the provisions of the original lease or permit, subject to such reasonable regulations as he may prescribe. Subject to the provisions of the original lease or permit, nothing in this Act or subsection shall necessarily preclude the appropriate Secretary from transferring such a lease or permit to another person at the election or death of the original permittee or leasee.
+
+## Source Credit
+
+*([Pub. L. 96–487, title XIII, § 1303](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2476](https://www.govinfo.gov/link/statute/94/2476).)*

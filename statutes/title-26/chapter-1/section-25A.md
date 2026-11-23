@@ -3,9 +3,10 @@ title: "Section 25A - American Opportunity and Lifetime Learning credits"
 usc_title: 26
 usc_section: "25A"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 25A"
-generated_at: "2026-03-30T02:55:27.587Z"
+generated_at: "2026-11-23T20:26:45.130Z"
+status: "active"
 ---
 
 # § 25A. American Opportunity and Lifetime Learning credits
@@ -80,3 +81,35 @@ generated_at: "2026-03-30T02:55:27.587Z"
 - **[(h)**
 - **(i)** Forty percent of so much of the credit allowed under subsection (a) as is attributable to the American Opportunity Tax Credit (determined after application of subsection (d) and without regard to this paragraph 2 2 So in original. Probably should be “this subsection”. and section 26(a)) shall be treated as a credit allowable under subpart C (and not allowed under subsection (a)). The preceding sentence shall not apply to any taxpayer for any taxable year if such taxpayer is a child to whom subsection (g) of section 1 applies for such taxable year.
 - **(j)** The Secretary may prescribe such regulations as may be necessary or appropriate to carry out this section, including regulations providing for a recapture of the credit allowed under this section in cases where there is a refund in a subsequent taxable year of any amount which was taken into account in determining the amount of such credit.
+
+In general
+
+Coordination with exclusions
+
+In general
+
+Repeal of deadwood
+
+In general
+
+Lifetime learning credit
+
+Payments to possessions.—
+
+Mirror code possession
+
+Other possessions
+
+Coordination with credit allowed against united states income taxes
+
+Definitions and special rules.—
+
+Possession of the united states
+
+Mirror code tax system
+
+Treatment of payments
+
+## Source Credit
+
+*(Added [Pub. L. 105–34, title II, § 201(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 799](https://www.govinfo.gov/link/statute/111/799); amended [Pub. L. 107–16, title IV, § 401(g)(2)(A)](https://www.govinfo.gov/link/plaw/107/public/16), June 7, 2001, [115 Stat. 59](https://www.govinfo.gov/link/statute/115/59); [Pub. L. 111–5, div. B, title I, § 1004(a)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 313](https://www.govinfo.gov/link/statute/123/313); [Pub. L. 111–148, title X, § 10909(b)(2)(C)](https://www.govinfo.gov/link/plaw/111/public/148), (c), Mar. 23, 2010, [124 Stat. 1023](https://www.govinfo.gov/link/statute/124/1023); [Pub. L. 111–312, title I](https://www.govinfo.gov/link/plaw/111/public/312), §§ 101(b)(1), 103(a)(1), Dec. 17, 2010, [124 Stat. 3298](https://www.govinfo.gov/link/statute/124/3298), 3299; [Pub. L. 112–240, title I](https://www.govinfo.gov/link/plaw/112/public/240), §§ 103(a)(1), 104(c)(2)(D), Jan. 2, 2013, [126 Stat. 2319](https://www.govinfo.gov/link/statute/126/2319), 2322; [Pub. L. 113–295, div. A, title II, § 209(b)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4028](https://www.govinfo.gov/link/statute/128/4028); [Pub. L. 114–27, title VIII, § 804(a)](https://www.govinfo.gov/link/plaw/114/public/27), June 29, 2015, [129 Stat. 415](https://www.govinfo.gov/link/statute/129/415); [Pub. L. 114–113, div. Q, title I, § 102(a)](https://www.govinfo.gov/link/plaw/114/public/113), title II, §§ 206(a), 208(a)(2), 211(a), Dec. 18, 2015, [129 Stat. 3044](https://www.govinfo.gov/link/statute/129/3044), 3082, 3083, 3085; [Pub. L. 115–97, title I, § 11002(d)(1)(B)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2060](https://www.govinfo.gov/link/statute/131/2060); [Pub. L. 115–141, div. U, title I, § 101](https://www.govinfo.gov/link/plaw/115/public/141) (l)(1)–(9), (11)–(14), title IV, § 401(b)(1), Mar. 23, 2018, [132 Stat. 1162–1165](https://www.govinfo.gov/link/statute/132/1162), 1201; [Pub. L. 116–260, div. EE, title I, § 104(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3040](https://www.govinfo.gov/link/statute/134/3040); [Pub. L. 119–21, title VII, § 70606(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 289](https://www.govinfo.gov/link/statute/139/289).)*

@@ -3,9 +3,10 @@ title: "Section 3408 - National Ocean Mapping, Exploration, and Characterization
 usc_title: 33
 usc_section: "3408"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 3408"
-generated_at: "2026-03-30T02:55:41.141Z"
+generated_at: "2026-11-23T20:26:54.263Z"
+status: "active"
 ---
 
 # § 3408. National Ocean Mapping, Exploration, and Characterization Council
@@ -69,3 +70,19 @@ generated_at: "2026-03-30T02:55:41.141Z"
 - **(k)** In this section, the term “appropriate committees of Congress” means—
   - **(1)** the Committee on Commerce, Science, and Transportation and the Committee on Armed Services of the Senate; and
   - **(2)** the Committee on Natural Resources, the Committee on Science, Space, and Technology, and the Committee on Armed Services of the House of Representatives.
+
+“Congress makes the following findings:
+
+“In this title [see Tables for classification]:
+
+Characterization
+
+Exploration
+
+Indian tribe
+
+Mapping
+
+## Source Credit
+
+*([Pub. L. 117–263, div. J, title CIII, § 10304](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3968](https://www.govinfo.gov/link/statute/136/3968).)*

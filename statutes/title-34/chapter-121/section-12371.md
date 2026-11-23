@@ -3,12 +3,17 @@ title: "Section 12371 - Grants authorized"
 usc_title: 34
 usc_section: "12371"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12371"
-generated_at: "2026-03-30T02:55:33.286Z"
+generated_at: "2026-11-23T20:26:50.546Z"
+status: "active"
 ---
 
 # § 12371. Grants authorized
 
 The State Justice Institute may award grants for the purpose of developing, testing, presenting, and disseminating model programs to be used by States (as defined in section 10701 of title 42 ) in training judges and court personnel in the laws of the States and by Indian tribes in training tribal judges and court personnel in the laws of the tribes on rape, sexual assault, domestic violence, dating violence, and other crimes of violence motivated by the victim’s gender. Nothing shall preclude the attendance of tribal judges and court personnel at programs funded under this section for States to train judges and court personnel on the laws of the States.
 
+
+## Source Credit
+
+*([Pub. L. 103–322, title IV, § 40411](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1942](https://www.govinfo.gov/link/statute/108/1942); [Pub. L. 106–386, div. B, title IV, § 1406(c)(2)](https://www.govinfo.gov/link/plaw/106/public/386), (d)(1), Oct. 28, 2000, [114 Stat. 1516](https://www.govinfo.gov/link/statute/114/1516).)*

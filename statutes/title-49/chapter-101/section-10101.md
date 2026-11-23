@@ -3,9 +3,10 @@ title: "Section 10101 - Rail transportation policy"
 usc_title: 49
 usc_section: "10101"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 10101"
-generated_at: "2026-03-30T02:56:19.323Z"
+generated_at: "2026-11-23T20:27:34.710Z"
+status: "active"
 ---
 
 # § 10101. Rail transportation policy
@@ -27,3 +28,7 @@ In regulating the railroad industry, it is the policy of the United States Gover
   - **(13)** to ensure the availability of accurate cost information in regulatory proceedings, while minimizing the burden on rail carriers of developing and maintaining the capability of providing such information;
   - **(14)** to encourage and promote energy conservation; and
   - **(15)** to provide for the expeditious handling and resolution of all proceedings required or permitted to be brought under this part.
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 102(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 805](https://www.govinfo.gov/link/statute/109/805).)*

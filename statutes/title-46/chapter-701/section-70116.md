@@ -3,9 +3,10 @@ title: "Section 70116 - Port, harbor, and coastal facility security"
 usc_title: 46
 usc_section: "70116"
 chapter: 701
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 70116"
-generated_at: "2026-03-30T02:56:15.587Z"
+generated_at: "2026-11-23T20:27:27.452Z"
+status: "active"
 ---
 
 # § 70116. Port, harbor, and coastal facility security
@@ -20,3 +21,13 @@ generated_at: "2026-03-30T02:56:15.587Z"
   - **(2)** recruit members of the Regular Coast Guard and the Coast Guard Reserve and train members of the Regular Coast Guard and the Coast Guard Reserve in the techniques of preventing and responding to acts of terrorism, cyber incidents, transnational organized crime, and foreign state threats; and
   - **(3)** dispatch properly trained and qualified, armed (as needed), Coast Guard personnel on vessels and public or commercial structures on or adjacent to waters subject to United States jurisdiction to deter or respond to acts of terrorism, cyber incidents, transnational organized crime, foreign state threats, or transportation security incidents, as defined in section 70101 of title 46 , United States Code.
 - **(c)** This section shall be treated as part of chapter 700 for purposes of sections 70031, 70032, 70033, 70035, and 70036. When preventing or responding to acts of terrorism, cyber incidents, transnational organized crime, or foreign state threats, the Secretary may carry out this section without regard to chapters 5 and 6 of title 5 or Executive Order Nos. 12866 and 13563.
+
+General Authority
+
+Specific Authority
+
+Definitions, Administration, and Enforcement
+
+## Source Credit
+
+*(Added and amended [Pub. L. 115–282, title IV, § 402(b)(1)](https://www.govinfo.gov/link/plaw/115/public/282), (2), Dec. 4, 2018, [132 Stat. 4264](https://www.govinfo.gov/link/statute/132/4264); [Pub. L. 116–283, div. G, title LVXXXIII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXIII], § 8341, Jan. 1, 2021, [134 Stat. 4709](https://www.govinfo.gov/link/statute/134/4709); [Pub. L. 119–60, div. G, title LXXVII, § 7701(b)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1835](https://www.govinfo.gov/link/statute/139/1835).)*

@@ -3,9 +3,10 @@ title: "Section 70108 - Foreign port assessment"
 usc_title: 46
 usc_section: "70108"
 chapter: 701
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 70108"
-generated_at: "2026-03-30T02:56:15.587Z"
+generated_at: "2026-11-23T20:27:27.449Z"
+status: "active"
 ---
 
 # § 70108. Foreign port assessment
@@ -53,3 +54,29 @@ generated_at: "2026-03-30T02:56:15.587Z"
   - **(2)** shall—
     - **(A)** deem any port that is under the jurisdiction of a foreign government that is a state sponsor of terrorism as not having effective antiterrorism measures for purposes of this section and section 70109; and
     - **(B)** immediately apply the sanctions described in section 70110(a) to such port.
+
+In General
+
+Procedures
+
+Consultation
+
+Periodic Reassessment
+
+Limitation on Statutory Construction
+
+Recognition of Assessment Conducted by Other Entities.—
+
+Certification and treatment of assessments
+
+Authorization to enter into an agreement
+
+Limitations
+
+Notification to congress
+
+State Sponsors of Terrorism and International Terrorist Organizations
+
+## Source Credit
+
+*(Added [Pub. L. 107–295, title I, § 102(a)](https://www.govinfo.gov/link/plaw/107/public/295), Nov. 25, 2002, [116 Stat. 2079](https://www.govinfo.gov/link/statute/116/2079); amended [Pub. L. 109–347, title II, § 234](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1918](https://www.govinfo.gov/link/statute/120/1918); [Pub. L. 111–281, title VIII, § 806(a)(1)](https://www.govinfo.gov/link/plaw/111/public/281), (c)(2)(B), Oct. 15, 2010, [124 Stat. 2992](https://www.govinfo.gov/link/statute/124/2992), 2993; [Pub. L. 114–120, title III, § 317](https://www.govinfo.gov/link/plaw/114/public/120), Feb. 8, 2016, [130 Stat. 62](https://www.govinfo.gov/link/statute/130/62); [Pub. L. 118–31, div. E, title LVI, § 5603](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 959](https://www.govinfo.gov/link/statute/137/959).)*

@@ -3,9 +3,10 @@ title: "Section 609 - Processing tax; methods of computation; rate; what constit
 usc_title: 7
 usc_section: "609"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 609"
-generated_at: "2026-03-30T02:53:42.291Z"
+generated_at: "2026-11-23T20:25:41.064Z"
+status: "active"
 ---
 
 # § 609. Processing tax; methods of computation; rate; what constitutes processing; publicity as to tax to avoid profiteering
@@ -55,3 +56,7 @@ generated_at: "2026-03-30T02:53:42.291Z"
 - **(e)** When any processing tax, or increase or decrease therein, takes effect in respect of a commodity the Secretary of Agriculture, in order to prevent pyramiding of the processing tax and profiteering in the sale of the products derived from the commodity, shall make public such information as he deems necessary regarding (1) the relationship between the processing tax and the price paid to producers of the commodity, (2) the effect of the processing tax upon prices to consumers of products of the commodity, (3) the relationship, in previous periods, between prices paid to the producers of the commodity and prices to consumers of the products thereof, and (4) the situation in foreign countries relating to prices paid to producers of the commodity and prices to consumers of the products thereof.
 - **(f)** For the purposes of this chapter, processing shall be held to include manufacturing.
 - **(g)** Nothing contained in this chapter shall be construed to authorize any tax upon the processing of any commodity which processing results in the production of newsprint.
+
+## Source Credit
+
+*(May 12, 1933, ch. 25, title I, § 9, [48 Stat. 35](https://www.govinfo.gov/link/statute/48/35); Apr. 7, 1934, ch. 103, § 3(a), [48 Stat. 528](https://www.govinfo.gov/link/statute/48/528); May 9, 1934, ch. 263, §§ 2, 3, 5, 6, 9, [48 Stat. 670](https://www.govinfo.gov/link/statute/48/670), 671, 675, 676; June 26, 1934, ch. 759, § 2, [48 Stat. 1242](https://www.govinfo.gov/link/statute/48/1242); Mar. 18, 1935, ch. 32, §§ 1–6, [49 Stat. 45](https://www.govinfo.gov/link/statute/49/45), 46; Aug. 24, 1935, ch. 641, §§ 11–15, [49 Stat. 762–767](https://www.govinfo.gov/link/statute/49/762); [Pub. L. 108–357, title VI, § 611(d)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1522](https://www.govinfo.gov/link/statute/118/1522).)*

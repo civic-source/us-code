@@ -3,9 +3,10 @@ title: "Section 7308 - National Institute of Standards and Technology actions"
 usc_title: 15
 usc_section: "7308"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 7308"
-generated_at: "2026-03-30T02:54:08.221Z"
+generated_at: "2026-11-23T20:26:04.449Z"
+status: "active"
 ---
 
 # § 7308. National Institute of Standards and Technology actions
@@ -17,3 +18,7 @@ After the issuance of a public report under section 7307 of this title , the Nat
     - **(A)** technical aspects of evacuation and emergency response procedures;
     - **(B)** specific improvements to building standards, codes, and practices; and
     - **(C)** other actions needed to help prevent future building failures.
+
+## Source Credit
+
+*([Pub. L. 107–231, § 9](https://www.govinfo.gov/link/plaw/107/public/231), Oct. 1, 2002, [116 Stat. 1475](https://www.govinfo.gov/link/statute/116/1475).)*

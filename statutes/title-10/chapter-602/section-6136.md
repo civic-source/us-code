@@ -3,9 +3,10 @@ title: "Section 6136 - Earned value management and technology readiness levels f
 usc_title: 10
 usc_section: "6136"
 chapter: 602
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6136"
-generated_at: "2026-03-30T02:53:38.220Z"
+generated_at: "2026-11-23T20:25:52.014Z"
+status: "active"
 ---
 
 # § 6136. Earned value management and technology readiness levels for life extension programs
@@ -18,3 +19,15 @@ generated_at: "2026-03-30T02:53:38.220Z"
   - **(2)** ensure that critical technologies meet such benchmarks at such decision points.
 - **(c)** This section shall apply to programs that, as of January 1, 2021 , have not entered phase 3 of the nuclear weapons acquisition process or phase 6.3 of a nuclear weapons life extension program.
 - **(d)** In this section, the term “earned value management national standard” means the most recent version of the EIA-748 Earned Value Management System Standard published by the National Defense Industrial Association.
+
+Review of Contractor Earned Value Management Systems
+
+Benchmarks for Technology Readiness Levels
+
+Applicability
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1371](https://www.govinfo.gov/link/statute/139/1371).)*

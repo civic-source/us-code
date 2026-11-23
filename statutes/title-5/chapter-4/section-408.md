@@ -3,9 +3,10 @@ title: "Section 408 - Additional provisions with respect to the Inspector Genera
 usc_title: 5
 usc_section: "408"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 408"
-generated_at: "2026-03-30T02:52:55.980Z"
+generated_at: "2026-11-23T20:25:31.676Z"
+status: "active"
 ---
 
 # § 408. Additional provisions with respect to the Inspector General of the Department of Defense
@@ -52,3 +53,116 @@ generated_at: "2026-03-30T02:52:55.980Z"
   - **(1)** The Inspector General of the Department of Defense is authorized to require by subpoena the attendance and testimony of witnesses as necessary in the performance of functions assigned to the Inspector General by this chapter, except that the Inspector General shall use procedures other than subpoenas to obtain attendance and testimony from Federal employees.
   - **(2)** A subpoena issued under this subsection, in the case of contumacy or refusal to obey, shall be enforceable by order of any appropriate United States district court.
   - **(3)** The Inspector General shall notify the Attorney General 7 days before issuing any subpoena under this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 408 | 5 U.S.C. App. (IGA § 8) | Pub. L. 95–452, § 8 , Oct. 12, 1978 , 92 Stat. 1105 ; Pub. L. 97–252, title XI, § 1117(b) , Sept. 8, 1982 , 96 Stat. 751 ; Pub. L. 100–504, title I, § 110(b) , Oct. 18, 1988 , 102 Stat. 2529 ; Pub. L. 104–106, div. A, title XV, § 1502(f)(6) , Feb. 10, 1996 , 110 Stat. 510 ; Pub. L. 106–65, div. A, title X, § 1067(17) , Oct. 5, 1999 , 113 Stat. 775 ; Pub. L. 110–417 , [div. A], title IX, § 907, Oct. 14, 2008 , 122 Stat. 4569 ; Pub. L. 111–84, div. A, title X, § 1042 , Oct. 28, 2009 , 123 Stat. 2455 ; Pub. L. 112–239, div. A, title XVI, § 1614 , Jan. 2, 2013 , 126 Stat. 2066 ; Pub. L. 114–317, § 6(1) , Dec. 16, 2016 , 130 Stat. 1604 . |
+
+
+Inspector General
+
+Authority of Secretary of Defense.—
+
+In general
+
+Authority to prohibit audit or investigation
+
+Statement concerning exercise of power
+
+Statement of reasons for exercise of power
+
+Additional Duties and Responsibilities
+
+Reporting Violations of Chapter
+
+of Title
+
+Member of Armed Forces Deemed To Be Employee
+
+Reports.—
+
+Reports transmitted to congressional committees
+
+Additional reports transmitted to congressional committees
+
+Non-Applicability of Section
+
+of Title
+
+General Counsel to Inspector General of Department of Defense.—
+
+In general
+
+Duties and functions.—
+
+Office of general counsel
+
+Authority To Require Attendance and Testimony of Witnesses.—
+
+Subpoena
+
+Enforcement
+
+Notification
+
+Historical and Revision Notes
+
+408
+
+Pub. L. 95–452, § 8
+
+Oct. 12, 1978
+
+92 Stat. 1105
+
+Pub. L. 97–252, title XI, § 1117(b)
+
+Sept. 8, 1982
+
+96 Stat. 751
+
+Pub. L. 100–504, title I, § 110(b)
+
+Oct. 18, 1988
+
+102 Stat. 2529
+
+Pub. L. 104–106, div. A, title XV, § 1502(f)(6)
+
+Feb. 10, 1996
+
+110 Stat. 510
+
+Pub. L. 106–65, div. A, title X, § 1067(17)
+
+Oct. 5, 1999
+
+113 Stat. 775
+
+Pub. L. 110–417
+
+Oct. 14, 2008
+
+122 Stat. 4569
+
+Pub. L. 111–84, div. A, title X, § 1042
+
+Oct. 28, 2009
+
+123 Stat. 2455
+
+Pub. L. 112–239, div. A, title XVI, § 1614
+
+Jan. 2, 2013
+
+126 Stat. 2066
+
+Pub. L. 114–317, § 6(1)
+
+Dec. 16, 2016
+
+130 Stat. 1604
+
+## Source Credit
+
+*([Pub. L. 117–286, § 3(b)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4224](https://www.govinfo.gov/link/statute/136/4224).)*

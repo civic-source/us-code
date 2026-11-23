@@ -3,9 +3,10 @@ title: "Section 12006 - Reports"
 usc_title: 42
 usc_section: "12006"
 chapter: 125
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12006"
-generated_at: "2026-03-30T02:56:11.407Z"
+generated_at: "2026-11-23T20:27:23.334Z"
+status: "active"
 ---
 
 # § 12006. Reports
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.407Z"
     - **(E)** identify program areas for which funding levels have been changed from the previous year’s Plan. 1
   - **(6)** Within one year after October 24, 1992 , the Secretary shall submit a revised management plan under this section to Congress. Thereafter, the Secretary shall submit a management plan every three years at the time of submittal of the President’s annual budget submission to the Congress.
 - **(c)** As part of the first report submitted under subsection (a), the Secretary shall submit to Congress a report analyzing options available to the Secretary under existing law to assist the private sector with the timely commercialization of wind, photovoltaic, solar thermal, biofuels, hydrogen, solar buildings, marine, geothermal, low-head hydro, and energy storage renewable energy technologies and energy efficiency technologies through emphasis on development and demonstration assistance to specific technologies in the research, development, and demonstration programs of the Department of Energy that are near commercial application.
+
+## Source Credit
+
+*([Pub. L. 101–218, § 9](https://www.govinfo.gov/link/plaw/101/public/218), Dec. 11, 1989, [103 Stat. 1868](https://www.govinfo.gov/link/statute/103/1868); [Pub. L. 102–486, title XII, § 1202(c)](https://www.govinfo.gov/link/plaw/102/public/486), (d)(5), title XXIII, § 2303(b), Oct. 24, 1992, [106 Stat. 2959](https://www.govinfo.gov/link/statute/106/2959), 2960, 3093; [Pub. L. 116–260, div. Z, title III, § 3006(a)(2)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2512](https://www.govinfo.gov/link/statute/134/2512).)*

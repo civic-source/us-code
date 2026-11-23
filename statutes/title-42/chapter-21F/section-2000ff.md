@@ -3,9 +3,10 @@ title: "Section 2000ff - Definitions"
 usc_title: 42
 usc_section: "2000ff"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2000ff"
-generated_at: "2026-03-30T02:56:11.143Z"
+generated_at: "2026-11-23T20:27:22.034Z"
+status: "active"
 ---
 
 # § 2000ff. Definitions
@@ -46,3 +47,9 @@ In this chapter:
   - **(7)**
     - **(A)** The term “genetic test” means an analysis of human DNA, RNA, chromosomes, proteins, or metabolites, that detects genotypes, mutations, or chromosomal changes.
     - **(B)** The term “genetic test” does not mean an analysis of proteins or metabolites that does not detect genotypes, mutations, or chromosomal changes.
+
+“Congress makes the following findings:
+
+## Source Credit
+
+*([Pub. L. 110–233, title II, § 201](https://www.govinfo.gov/link/plaw/110/public/233), May 21, 2008, [122 Stat. 905](https://www.govinfo.gov/link/statute/122/905).)*

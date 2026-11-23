@@ -3,9 +3,10 @@ title: "Section 726 - Distribution of property of the estate"
 usc_title: 11
 usc_section: "726"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 726"
-generated_at: "2026-03-30T02:53:53.881Z"
+generated_at: "2026-11-23T20:25:55.383Z"
+status: "active"
 ---
 
 # § 726. Distribution of property of the estate
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:53:53.881Z"
     - **(B)** Second, to the extent that community claims against the debtor are not paid under subparagraph (A) of this paragraph, such community claims shall be paid from property of the kind specified in section 541(a)(2) of this title that is solely liable for debts of the debtor.
     - **(C)** Third, to the extent that all claims against the debtor including community claims against the debtor are not paid under subparagraph (A) or (B) of this paragraph such claims shall be paid from property of the estate other than property of the kind specified in section 541(a)(2) of this title .
     - **(D)** Fourth, to the extent that community claims against the debtor or the debtor’s spouse are not paid under subparagraph (A), (B), or (C) of this paragraph, such claims shall be paid from all remaining property of the estate.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2608](https://www.govinfo.gov/link/statute/92/2608); [Pub. L. 98–353, title III, § 479](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 381](https://www.govinfo.gov/link/statute/98/381); [Pub. L. 99–554, title II](https://www.govinfo.gov/link/plaw/99/public/554), §§ 257(r), 283(s), Oct. 27, 1986, [100 Stat. 3115](https://www.govinfo.gov/link/statute/100/3115), 3118; [Pub. L. 103–394, title II, § 213(b)](https://www.govinfo.gov/link/plaw/103/public/394), title III, § 304(h)(5), title V, § 501(d)(24), Oct. 22, 1994, [108 Stat. 4126](https://www.govinfo.gov/link/statute/108/4126), 4134, 4146; [Pub. L. 109–8, title VII, § 713](https://www.govinfo.gov/link/plaw/109/public/8), title XII, § 1215, Apr. 20, 2005, [119 Stat. 128](https://www.govinfo.gov/link/statute/119/128), 195; [Pub. L. 111–327, § 2(a)(28)](https://www.govinfo.gov/link/plaw/111/public/327), Dec. 22, 2010, [124 Stat. 3560](https://www.govinfo.gov/link/statute/124/3560).)*

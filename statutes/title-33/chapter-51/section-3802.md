@@ -3,9 +3,10 @@ title: "Section 3802 - Covered vessels"
 usc_title: 33
 usc_section: "3802"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 3802"
-generated_at: "2026-03-30T02:55:41.144Z"
+generated_at: "2026-11-23T20:26:54.277Z"
+status: "active"
 ---
 
 # § 3802. Covered vessels
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:41.144Z"
   - **(2)**
     - **(A)** The Administrator may apply any requirement of this chapter to one or more classes of vessels described in paragraph (1)(B), if the head of the Federal department or agency under which those vessels operate concurs in that application.
     - **(B)** Subparagraph (A) shall not apply to combat-related vessels.
+
+## Source Credit
+
+*([Pub. L. 111–281, title X, § 1012](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 3024](https://www.govinfo.gov/link/statute/124/3024).)*

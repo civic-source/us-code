@@ -3,9 +3,10 @@ title: "Section 12321 - Confidentiality of abused person’s address"
 usc_title: 34
 usc_section: "12321"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12321"
-generated_at: "2026-03-30T02:55:33.286Z"
+generated_at: "2026-11-23T20:26:50.544Z"
+status: "active"
 ---
 
 # § 12321. Confidentiality of abused person’s address
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:33.286Z"
   - **(2)** in the case of a domestic violence shelter, the presentation to an appropriate postal authority of proof from a State domestic violence coalition that meets the requirements of section 10410 1 1 See References in Text note below. of title 42 verifying that the organization is a domestic violence shelter.
 - **(c)** The regulations under subsection (a) shall not prohibit the disclosure of addresses to State or Federal agencies for legitimate law enforcement or other governmental purposes.
 - **(d)** Compilations of addresses existing at the time at which order is presented to an appropriate postal official shall be excluded from the scope of the regulations under subsection (a).
+
+## Source Credit
+
+*([Pub. L. 103–322, title IV, § 40281](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1938](https://www.govinfo.gov/link/statute/108/1938).)*

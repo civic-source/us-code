@@ -3,9 +3,10 @@ title: "Section 334 - National Coast Guard Museum"
 usc_title: 14
 usc_section: "334"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 334"
-generated_at: "2026-03-30T02:53:51.488Z"
+generated_at: "2026-11-23T20:25:54.518Z"
+status: "active"
 ---
 
 # § 334. National Coast Guard Museum
@@ -38,3 +39,33 @@ generated_at: "2026-03-30T02:53:51.488Z"
 - **(i)** In this section:
   - **(1)** The term “Museum” means the National Coast Guard Museum.
   - **(2)** The term “Association” means the National Coast Guard Museum Association.
+
+Establishment
+
+Use of Funds
+
+Funding Plan
+
+Construction.—
+
+Agreements
+
+Acceptance
+
+Services
+
+Authority
+
+Definitions
+
+Museum
+
+Association
+
+In general
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 108–293, title II, § 213(a)](https://www.govinfo.gov/link/plaw/108/public/293), Aug. 9, 2004, [118 Stat. 1037](https://www.govinfo.gov/link/statute/118/1037), § 98; amended [Pub. L. 114–120, title II, § 219](https://www.govinfo.gov/link/plaw/114/public/120), Feb. 8, 2016, [130 Stat. 48](https://www.govinfo.gov/link/statute/130/48); renumbered § 316 and amended [Pub. L. 115–282, title I, § 104(b)](https://www.govinfo.gov/link/plaw/115/public/282), title III, § 303, Dec. 4, 2018, [132 Stat. 4196](https://www.govinfo.gov/link/statute/132/4196), 4243; [Pub. L. 116–283, div. G, title LVXXXIV](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXIV], § 8439(a), Jan. 1, 2021, [134 Stat. 4737](https://www.govinfo.gov/link/statute/134/4737); [Pub. L. 117–263, div. K, title CXII, § 11259](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4058](https://www.govinfo.gov/link/statute/136/4058); renumbered § 334 and amended [Pub. L. 119–60, div. G, title LXXII, § 7201(b)](https://www.govinfo.gov/link/plaw/119/public/60), (e)(8), Dec. 18, 2025, [139 Stat. 1675](https://www.govinfo.gov/link/statute/139/1675), 1684.)*

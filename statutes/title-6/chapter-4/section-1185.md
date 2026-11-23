@@ -3,9 +3,10 @@ title: "Section 1185 - Over-the-road bus security research and development"
 usc_title: 6
 usc_section: "1185"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 1185"
-generated_at: "2026-03-30T02:53:09.508Z"
+generated_at: "2026-11-23T20:25:34.948Z"
+status: "active"
 ---
 
 # § 1185. Over-the-road bus security research and development
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:53:09.508Z"
     - **(C)** $2,000,000 for fiscal year 2010; and
     - **(D)** $2,000,000 for fiscal year 2011.
   - **(2)** Such sums shall remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XV, § 1535](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 462](https://www.govinfo.gov/link/statute/121/462).)*

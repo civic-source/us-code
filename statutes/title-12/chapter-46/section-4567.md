@@ -3,9 +3,10 @@ title: "Section 4567 - Affordable housing allocations"
 usc_title: 12
 usc_section: "4567"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4567"
-generated_at: "2026-03-30T02:53:53.508Z"
+generated_at: "2026-11-23T20:25:59.397Z"
+status: "active"
 ---
 
 # § 4567. Affordable housing allocations
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:53.508Z"
 - **(d)** Compliance by the enterprises with the requirements under this section shall be enforceable under subpart 3. Any reference in such subpart to this part or to an order, rule, or regulation under this part specifically includes this section and any order, rule, or regulation under this section.
 - **(e)** Of the aggregate amount allocated under subsection (a), 25 percent shall be deposited into a fund established in the Treasury of the United States by the Secretary of the Treasury for such purpose.
 - **(f)** No funds under this chapter may be used in conjunction with property taken by eminent domain, unless eminent domain is employed only for a public use, except that, for purposes of this section, public use shall not be construed to include economic development that primarily benefits any private entity.
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1337](https://www.govinfo.gov/link/plaw/102/public/550), as added [Pub. L. 110–289, div. A, title I, § 1131(b)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2711](https://www.govinfo.gov/link/statute/122/2711).)*

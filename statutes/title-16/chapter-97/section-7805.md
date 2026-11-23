@@ -3,9 +3,10 @@ title: "Section 7805 - Enforcement"
 usc_title: 16
 usc_section: "7805"
 chapter: 97
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 7805"
-generated_at: "2026-03-30T02:54:23.078Z"
+generated_at: "2026-11-23T20:26:20.860Z"
+status: "active"
 ---
 
 # § 7805. Enforcement
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:23.078Z"
     - **(A)** in the case of Guam and Wake Island, the appropriate court is the United States District Court for the District of Guam; and
     - **(B)** in the case of the Northern Mariana Islands, the appropriate court is the United States District Court for the District of the Northern Mariana Islands.
   - **(3)** Each violation shall be a separate offense and the offense is deemed to have been committed not only in the district where the violation first occurred, but also in any other district as authorized by law. Any offenses not committed in any district are subject to the venue provisions of section 3238 of title 18 .
+
+## Source Credit
+
+*([Pub. L. 114–327, title II, § 205](https://www.govinfo.gov/link/plaw/114/public/327), Dec. 16, 2016, [130 Stat. 1990](https://www.govinfo.gov/link/statute/130/1990).)*

@@ -3,9 +3,10 @@ title: "Section 1829b - Retention of records by insured depository institutions"
 usc_title: 12
 usc_section: "1829b"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1829b"
-generated_at: "2026-03-30T02:53:53.456Z"
+generated_at: "2026-11-23T20:25:59.158Z"
+status: "active"
 ---
 
 # § 1829b. Retention of records by insured depository institutions
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:53:53.456Z"
   - **(1)** Any insured depository institution and any director, officer, or employee of an insured depository institution who willfully or through gross negligence violates, or any person who willfully causes such a violation, any regulation prescribed under subsection (b) shall be liable to the United States for a civil penalty of not more than $10,000.
   - **(2)** A separate violation of any regulation prescribed under subsection (b) of this section occurs for each day the violation continues and at each office, branch, or place of business at which such violation occurs.
   - **(3)** Any penalty imposed under paragraph (1) shall be assessed, mitigated, and collected in the manner provided in subsections (b) and (c) of section 5321 of title 31 .
+
+## Source Credit
+
+*(Sept. 21, 1950, ch. 967, § 2 [21], as added [Pub. L. 91–508, title I, § 101](https://www.govinfo.gov/link/plaw/91/public/508), Oct. 26, 1970, [84 Stat. 1114](https://www.govinfo.gov/link/statute/84/1114); amended [Pub. L. 95–369, § 6(c)(29)](https://www.govinfo.gov/link/plaw/95/public/369), Sept. 17, 1978, [92 Stat. 620](https://www.govinfo.gov/link/statute/92/620); [Pub. L. 100–690, title VI, § 6185(d)(1)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4356](https://www.govinfo.gov/link/statute/102/4356); [Pub. L. 101–73, title II, § 201(a)](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 187](https://www.govinfo.gov/link/statute/103/187); [Pub. L. 102–550, title XV](https://www.govinfo.gov/link/plaw/102/public/550), §§ 1515(a), (b), 1535(b), Oct. 28, 1992, [106 Stat. 4058](https://www.govinfo.gov/link/statute/106/4058), 4059, 4066; [Pub. L. 103–325, title VI, § 602(a)(52)](https://www.govinfo.gov/link/plaw/103/public/325) –(54), Sept. 23, 1994, [108 Stat. 2290](https://www.govinfo.gov/link/statute/108/2290); [Pub. L. 107–56, title III, § 358(d)](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 326](https://www.govinfo.gov/link/statute/115/326); [Pub. L. 108–458, title VI, § 6203(k)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3747](https://www.govinfo.gov/link/statute/118/3747).)*

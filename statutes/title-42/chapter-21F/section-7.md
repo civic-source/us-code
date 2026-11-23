@@ -3,9 +3,10 @@ title: "Section 7 - Disparate impact"
 usc_title: 42
 usc_section: "7"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7"
-generated_at: "2026-03-30T02:56:11.144Z"
+generated_at: "2026-11-23T20:27:22.037Z"
+status: "active"
 ---
 
 # § 2000ff–7. Disparate impact
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:11.144Z"
   - **(5)** The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the Federal Government.
 - **(e)** Not later than 1 year after all of the members are appointed to the Commission under subsection (c)(1), the Commission shall submit to Congress a report that summarizes the findings of the Commission and makes such recommendations for legislation as are consistent with this Act.
 - **(f)** There are authorized to be appropriated to the Equal Employment Opportunity Commission such sums as may be necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 110–233, title II, § 208](https://www.govinfo.gov/link/plaw/110/public/233), May 21, 2008, [122 Stat. 917](https://www.govinfo.gov/link/statute/122/917).)*

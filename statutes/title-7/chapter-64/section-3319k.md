@@ -3,9 +3,10 @@ title: "Section 3319k - Agriculture Advanced Research and Development Authority 
 usc_title: 7
 usc_section: "3319k"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 3319k"
-generated_at: "2026-03-30T02:53:42.401Z"
+generated_at: "2026-11-23T20:25:41.592Z"
+status: "active"
 ---
 
 # § 3319k. Agriculture Advanced Research and Development Authority pilot
@@ -121,3 +122,7 @@ generated_at: "2026-03-30T02:53:42.401Z"
   - **(2)** Paragraph (1) shall not apply with respect to—
     - **(A)** subsection (b)(7)(B); and
     - **(B)** grants awarded or contracts, cooperative agreements, or other transactions entered into before the end of the 5-year period referred to in such clause. 1 1 So in original. Probably should be “such paragraph.”.
+
+## Source Credit
+
+*([Pub. L. 95–113, title XIV, § 1473H](https://www.govinfo.gov/link/plaw/95/public/113), as added [Pub. L. 115–334, title VII, § 7132](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4796](https://www.govinfo.gov/link/statute/132/4796); [Pub. L. 117–81, div. A, title XVII, § 1702](https://www.govinfo.gov/link/plaw/117/public/81) (l)(1), Dec. 27, 2021, [135 Stat. 2160](https://www.govinfo.gov/link/statute/135/2160).)*

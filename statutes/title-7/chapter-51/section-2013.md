@@ -3,9 +3,10 @@ title: "Section 2013 - Establishment of supplemental nutrition assistance progra
 usc_title: 7
 usc_section: "2013"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2013"
-generated_at: "2026-03-30T02:53:42.362Z"
+generated_at: "2026-11-23T20:25:41.417Z"
+status: "active"
 ---
 
 # § 2013. Establishment of supplemental nutrition assistance program
@@ -54,3 +55,67 @@ generated_at: "2026-03-30T02:53:42.362Z"
     - **(A)** Funds made available for a fiscal year to carry out this subsection shall remain available for obligation for a period of 2 fiscal years.
     - **(B)** Funds made available for a fiscal year to carry out paragraph (4) shall remain available for obligation by the State agency or tribal organization for a period of 2 fiscal years.
 - **(c)** The Secretary shall issue such regulations consistent with this chapter as the Secretary deems necessary or appropriate for the effective and efficient administration of the supplemental nutrition assistance program and shall promulgate all such regulations in accordance with the procedures set forth in section 553 of title 5 . In addition, prior to issuing any regulation, the Secretary shall provide the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a copy of the regulation with a detailed statement justifying it.
+
+Definitions
+
+Demonstration project
+
+Food distribution program
+
+Indian reservation
+
+Indian tribe
+
+Self-determination contract
+
+Tribal organization
+
+Establishment
+
+Eligibility.—
+
+Consultation
+
+Criteria
+
+Procurement of agricultural commodities
+
+Report
+
+Funding.—
+
+Authorization of appropriations
+
+Appropriations in advance
+
+Definitions
+
+Indian; indian tribe
+
+Tribal organization
+
+Study
+
+Report
+
+Consultation with indian tribes
+
+Funding
+
+Traditional and local foods demonstration project.—
+
+In general
+
+Administration
+
+Consultation, technical assistance, and training
+
+Funding.—
+
+Authorization of appropriations
+
+Relationship to other authorities
+
+## Source Credit
+
+*([Pub. L. 88–525, § 4](https://www.govinfo.gov/link/plaw/88/public/525), Aug. 31, 1964, [78 Stat. 704](https://www.govinfo.gov/link/statute/78/704); [Pub. L. 91–671, § 3](https://www.govinfo.gov/link/plaw/91/public/671), Jan. 11, 1971, [84 Stat. 2049](https://www.govinfo.gov/link/statute/84/2049); [Pub. L. 95–113, title XIII, § 1301](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 961](https://www.govinfo.gov/link/statute/91/961); [Pub. L. 99–198, title XV](https://www.govinfo.gov/link/plaw/99/public/198), §§ 1505(a), 1506, Dec. 23, 1985, [99 Stat. 1567](https://www.govinfo.gov/link/statute/99/1567); [Pub. L. 110–234, title IV](https://www.govinfo.gov/link/plaw/110/public/234), §§ 4001(b), 4002(a)(1), 4111(a), 4115(b)(2), 4211(a), May 22, 2008, [122 Stat. 1092](https://www.govinfo.gov/link/statute/122/1092), 1102, 1106, 1122; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, §§ 4001(b), 4002(a)(1), 4111(a), 4115(b)(2), 4211(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1853, 1863, 1867, 1884; [Pub. L. 111–296, title II, § 241(b)(1)](https://www.govinfo.gov/link/plaw/111/public/296), Dec. 13, 2010, [124 Stat. 3236](https://www.govinfo.gov/link/statute/124/3236); [Pub. L. 113–79, title IV](https://www.govinfo.gov/link/plaw/113/public/79), §§ 4004(a), 4030(b), Feb. 7, 2014, [128 Stat. 785](https://www.govinfo.gov/link/statute/128/785), 814; [Pub. L. 115–334, title IV, § 4003(a)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4624](https://www.govinfo.gov/link/statute/132/4624); [Pub. L. 119–21, title I, § 10105(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 83](https://www.govinfo.gov/link/statute/139/83).)*

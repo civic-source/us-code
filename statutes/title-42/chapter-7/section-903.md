@@ -3,9 +3,10 @@ title: "Section 903 - Social Security Advisory Board"
 usc_title: 42
 usc_section: "903"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 903"
-generated_at: "2026-03-30T02:56:10.898Z"
+generated_at: "2026-11-23T20:27:20.952Z"
+status: "active"
 ---
 
 # § 903. Social Security Advisory Board
@@ -48,3 +49,27 @@ generated_at: "2026-03-30T02:56:10.898Z"
 - **(h)** The Board shall be exempt from the provisions of chapter 10 of title 5.
 - **(i)** The Board shall, without regard to the provisions of title 5 relating to the competitive service, appoint a Staff Director who shall be paid at a rate equivalent to a rate established for the Senior Executive Service under section 5382 of title 5 . The Board shall appoint such additional personnel as the Board determines to be necessary to provide adequate support for the Board, and may compensate such additional personnel without regard to the provisions of title 5 relating to the competitive service.
 - **(j)** There are authorized to be appropriated, out of the Federal Disability Insurance Trust Fund, the Federal Old-Age and Survivors Insurance Trust Fund, and the general fund of the Treasury, such sums as are necessary to carry out the purposes of this section.
+
+In General
+
+Section
+
+Amendments
+
+Section
+
+Amendments.—
+
+In general
+
+Repeals
+
+Section
+
+Amendments
+
+Section
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title VII, § 703, [49 Stat. 636](https://www.govinfo.gov/link/statute/49/636); Aug. 28, 1950, ch. 809, title III, pt. 6, § 361(c), (d), [64 Stat. 558](https://www.govinfo.gov/link/statute/64/558); [Pub. L. 98–369, div. B, title VI, § 2663](https://www.govinfo.gov/link/plaw/98/public/369) (l)(1), July 18, 1984, [98 Stat. 1171](https://www.govinfo.gov/link/statute/98/1171); [Pub. L. 103–296, title I, § 103](https://www.govinfo.gov/link/plaw/103/public/296), Aug. 15, 1994, [108 Stat. 1467](https://www.govinfo.gov/link/statute/108/1467); [Pub. L. 104–121, title I, § 108](https://www.govinfo.gov/link/plaw/104/public/121), Mar. 29, 1996, [110 Stat. 857](https://www.govinfo.gov/link/statute/110/857); [Pub. L. 105–33, title V, § 5526](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 625](https://www.govinfo.gov/link/statute/111/625); [Pub. L. 106–169, title II, § 251(b)(4)](https://www.govinfo.gov/link/plaw/106/public/169), Dec. 14, 1999, [113 Stat. 1855](https://www.govinfo.gov/link/statute/113/1855); [Pub. L. 108–203, title IV, § 417(a)](https://www.govinfo.gov/link/plaw/108/public/203), Mar. 2, 2004, [118 Stat. 530](https://www.govinfo.gov/link/statute/118/530); [Pub. L. 117–286, § 4(a)(249)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4333](https://www.govinfo.gov/link/statute/136/4333).)*

@@ -3,9 +3,10 @@ title: "Section 1075 - Limitations on individual federally insured loans and on 
 usc_title: 20
 usc_section: "1075"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1075"
-generated_at: "2026-03-30T02:54:48.111Z"
+generated_at: "2026-11-23T20:26:14.393Z"
+status: "active"
 ---
 
 # § 1075. Limitations on individual federally insured loans and on Federal loan insurance
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:54:48.111Z"
     - **(D)** the original principal amount of loans repaid by the Secretary under section 1087 of this title .
   - **(3)** For the purpose of this subsection, payments by the Secretary under section 1080 of this title to an assignee of the lender with respect to a loan shall be deemed payments made to such lender.
   - **(4)** The full faith and credit of the United States is pledged to the payment of all amounts which may be required to be paid under the provisions of section 1080 or 1087 of this title.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 425](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1359](https://www.govinfo.gov/link/statute/100/1359); amended [Pub. L. 100–50, § 10(a)](https://www.govinfo.gov/link/plaw/100/public/50), June 3, 1987, [101 Stat. 341](https://www.govinfo.gov/link/statute/101/341); [Pub. L. 102–325, title IV, § 413](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 512](https://www.govinfo.gov/link/statute/106/512); [Pub. L. 103–208, § 2(c)(2)](https://www.govinfo.gov/link/plaw/103/public/208), (3), Dec. 20, 1993, [107 Stat. 2460](https://www.govinfo.gov/link/statute/107/2460), 2461; [Pub. L. 105–244, title IV, § 415](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1679](https://www.govinfo.gov/link/statute/112/1679); [Pub. L. 109–171, title VIII, § 8005(a)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 158](https://www.govinfo.gov/link/statute/120/158).)*

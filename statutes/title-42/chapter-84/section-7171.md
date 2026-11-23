@@ -3,9 +3,10 @@ title: "Section 7171 - Appointment and administration"
 usc_title: 42
 usc_section: "7171"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7171"
-generated_at: "2026-03-30T02:56:11.284Z"
+generated_at: "2026-11-23T20:27:22.783Z"
+status: "active"
 ---
 
 # § 7171. Appointment and administration
@@ -49,3 +50,19 @@ generated_at: "2026-03-30T02:56:11.284Z"
     - **(B)** The Chairman shall—
       - **(i)** to the maximum extent practicable, limit the use of experts and consultants pursuant to subparagraph (A); and
       - **(ii)** ensure that the employment contract of each expert and consultant employed pursuant to subparagraph (A) is subject to renewal not less frequently than annually.
+
+In general
+
+Inclusions
+
+Definition
+
+Rate Incentives Study
+
+Model Regulations
+
+Report
+
+## Source Credit
+
+*([Pub. L. 95–91, title IV, § 401](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 582](https://www.govinfo.gov/link/statute/91/582); [Pub. L. 101–271, § 2(a)](https://www.govinfo.gov/link/plaw/101/public/271), (b), Apr. 11, 1990, [104 Stat. 135](https://www.govinfo.gov/link/statute/104/135); [Pub. L. 116–260, div. Z, title XI, § 11004(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2612](https://www.govinfo.gov/link/statute/134/2612).)*

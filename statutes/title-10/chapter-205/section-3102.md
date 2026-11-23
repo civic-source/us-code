@@ -3,9 +3,10 @@ title: "Section 3102 - Objectives of the defense acquisition system"
 usc_title: 10
 usc_section: "3102"
 chapter: 205
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 3102"
-generated_at: "2026-03-30T02:53:38.188Z"
+generated_at: "2026-11-23T20:25:51.802Z"
+status: "active"
 ---
 
 # § 3102. Objectives of the defense acquisition system
@@ -19,3 +20,11 @@ generated_at: "2026-03-30T02:53:38.188Z"
   - **(5)** Adoption and integration in the defense acquisition system of advanced approaches in digital engineering, model-based engineering, and simulation environments to enable rapid, iterative designs and technology insertion to maximize mission outcomes.
   - **(6)** Active pursuit of innovative solutions to enhance effectiveness of the armed forces and responsiveness to emerging threats, including the acquisition and integration of commercial products and commercial services.
   - **(7)** Approaches to workforce training and development that equally balance emphasis on functional and technical skills with skills in cross-functional integration, critical thinking, and innovative approaches that best deliver solutions to operational problems.
+
+In General
+
+Guidance
+
+## Source Credit
+
+*(Added [Pub. L. 114–92, div. A, title VIII, § 802(a)(1)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 878](https://www.govinfo.gov/link/statute/129/878), § 2546a; renumbered § 3102 and amended [Pub. L. 116–283, div. A, title XVIII, § 1808(a)(2)](https://www.govinfo.gov/link/plaw/116/public/283), (3)(A), Jan. 1, 2021, [134 Stat. 4159](https://www.govinfo.gov/link/statute/134/4159); [Pub. L. 119–60, div. A, title XVIII, § 1801(a)(1)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1221](https://www.govinfo.gov/link/statute/139/1221).)*

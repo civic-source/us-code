@@ -3,9 +3,10 @@ title: "Section 5b - Written agreement requirement for water resources projects"
 usc_title: 42
 usc_section: "5b"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5b"
-generated_at: "2026-03-30T02:56:11.134Z"
+generated_at: "2026-11-23T20:27:21.983Z"
+status: "active"
 ---
 
 # § 1962d–5b. Written agreement requirement for water resources projects
@@ -57,3 +58,29 @@ generated_at: "2026-03-30T02:56:11.134Z"
   - **(1)** ensure that each district engineer has made available to the public, including on the Internet, all partnership agreements entered into under this section within the preceding 10 years and all partnership agreements for water resources projects currently being carried out in that district; and
   - **(2)** make each partnership agreement entered into after November 8, 2007 , available to the public, including on the Internet, not later than 7 days after the date on which such agreement is entered into.
 - **(h)** This section shall not apply to any project the construction of which was commenced before January 1, 1972 , or to the assurances for future demands required by the Water Supply Act of 1958, as amended [ 43 U.S.C. 390b ].
+
+In General
+
+Eligibility
+
+Costs
+
+Statutory Construction
+
+Limitations
+
+In general
+
+Inclusions
+
+Public and stakeholder participation
+
+In general
+
+References to cooperation agreements
+
+References to partnership agreements
+
+## Source Credit
+
+*([Pub. L. 91–611, title II, § 221](https://www.govinfo.gov/link/plaw/91/public/611), Dec. 31, 1970, [84 Stat. 1831](https://www.govinfo.gov/link/statute/84/1831); [Pub. L. 92–222, § 4](https://www.govinfo.gov/link/plaw/92/public/222), Dec. 23, 1971, [85 Stat. 799](https://www.govinfo.gov/link/statute/85/799); [Pub. L. 99–662, title IX, § 912(a)](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4189](https://www.govinfo.gov/link/statute/100/4189); [Pub. L. 104–106, div. A, title X, § 1064(d)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 445](https://www.govinfo.gov/link/statute/110/445); [Pub. L. 104–303, title II, § 220](https://www.govinfo.gov/link/plaw/104/public/303), Oct. 12, 1996, [110 Stat. 3696](https://www.govinfo.gov/link/statute/110/3696); [Pub. L. 106–541, title II, § 201](https://www.govinfo.gov/link/plaw/106/public/541), Dec. 11, 2000, [114 Stat. 2587](https://www.govinfo.gov/link/statute/114/2587); [Pub. L. 110–114, title II, § 2003(a)](https://www.govinfo.gov/link/plaw/110/public/114) –(c), Nov. 8, 2007, [121 Stat. 1067](https://www.govinfo.gov/link/statute/121/1067), 1069; [Pub. L. 113–121, title I, § 1018(a)](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1224](https://www.govinfo.gov/link/statute/128/1224); [Pub. L. 114–322, title I, § 1131](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1653](https://www.govinfo.gov/link/statute/130/1653); [Pub. L. 115–270, title I, § 1155(b)](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3793](https://www.govinfo.gov/link/statute/132/3793); [Pub. L. 118–272, div. A, title I, § 1137](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3025](https://www.govinfo.gov/link/statute/138/3025).)*

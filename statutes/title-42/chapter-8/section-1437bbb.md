@@ -3,9 +3,10 @@ title: "Section 1437bbb - Purpose"
 usc_title: 42
 usc_section: "1437bbb"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1437bbb"
-generated_at: "2026-03-30T02:56:11.090Z"
+generated_at: "2026-11-23T20:27:21.764Z"
+status: "active"
 ---
 
 # § 1437bbb. Purpose
@@ -22,3 +23,7 @@ The purpose of this subchapter is to demonstrate the effectiveness of authorizin
     - **(F)** reduce homelessness through providing permanent housing solutions;
     - **(G)** improve program management; and
     - **(H)** achieve such other purposes with respect to low-income families, as determined by the participating local governments and municipalities in coordination with the public housing agencies; 1 1 So in original. The semicolon probably should be a period.
+
+## Source Credit
+
+*(Sept. 1, 1937, ch. 896, title IV, § 401, as added [Pub. L. 105–276, title V, § 561](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2616](https://www.govinfo.gov/link/statute/112/2616).)*

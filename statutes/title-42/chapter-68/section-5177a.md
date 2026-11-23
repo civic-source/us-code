@@ -3,9 +3,10 @@ title: "Section 5177a - Emergency grants to assist low-income migrant and season
 usc_title: 42
 usc_section: "5177a"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5177a"
-generated_at: "2026-03-30T02:56:11.225Z"
+generated_at: "2026-11-23T20:27:22.490Z"
+status: "active"
 ---
 
 # § 5177a. Emergency grants to assist low-income migrant and seasonal farmworkers
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.225Z"
   - **(2)** who has received not less than one-half of such individual’s total income, or been employed at least one-half of total work time in farm work; and
   - **(3)** whose annual family income within the 12 month period referred to in paragraph (1) does not exceed the higher of the poverty level or 70 percent of the lower living standard income level.
 - **(c)** There are authorized to be appropriated such sums as may be necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XXII, § 2281](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3978](https://www.govinfo.gov/link/statute/104/3978); [Pub. L. 107–171, title X, § 10102](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 488](https://www.govinfo.gov/link/statute/116/488).)*

@@ -3,9 +3,10 @@ title: "Section 3008 - Renewable energy revenue sharing"
 usc_title: 43
 usc_section: "3008"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 3008"
-generated_at: "2026-03-30T02:55:57.501Z"
+generated_at: "2026-11-23T20:27:06.427Z"
+status: "active"
 ---
 
 # § 3008. Renewable energy revenue sharing
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:57.501Z"
     - **(A)** Amounts paid to States and counties under paragraph (1) shall be used in accordance with the requirements of section 191 of title 30 .
     - **(B)** A payment to a county under paragraph (1) shall be in addition to a payment in lieu of taxes received by the county under chapter 69 of title 31.
     - **(C)** The amounts required to be paid under paragraph (1)(B) for an applicable fiscal year shall be made available in the fiscal year that immediately follows the fiscal year for which the amounts were collected.
+
+## Source Credit
+
+*([Pub. L. 119–21, title V, § 50303](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 150](https://www.govinfo.gov/link/statute/139/150).)*

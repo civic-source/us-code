@@ -3,9 +3,10 @@ title: "Section 4532 - Rates of compensation disbursed by Chief Administrative O
 usc_title: 2
 usc_section: "4532"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 4532"
-generated_at: "2026-03-30T02:53:04.832Z"
+generated_at: "2026-11-23T20:25:29.035Z"
+status: "active"
 ---
 
 # § 4532. Rates of compensation disbursed by Chief Administrative Officer of House; adjustments by Speaker; “Member of the House of Representatives” defined
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:04.832Z"
     - **(A)** an annual rate of pay of $173,900; and
     - **(B)** the annual rate of pay of a Member of the House of Representatives who is not the Speaker, Majority Leader, or Minority Leader of the House.
   - **(4)** For the purpose of this section, the term “Member of the House of Representatives” means a Member of the House of Representatives, a Delegate to the House of Representatives, and the Resident Commissioner from Puerto Rico.
+
+## Source Credit
+
+*([Pub. L. 100–202, § 101(i) [title III, § 311(d)]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–290](https://www.govinfo.gov/link/statute/101/1329), 1329–310; [Pub. L. 101–520, title III, § 308](https://www.govinfo.gov/link/plaw/101/public/520), Nov. 5, 1990, [104 Stat. 2277](https://www.govinfo.gov/link/statute/104/2277); [Pub. L. 102–90, title III, § 308](https://www.govinfo.gov/link/plaw/102/public/90), Aug. 14, 1991, [105 Stat. 466](https://www.govinfo.gov/link/statute/105/466); [Pub. L. 104–186, title II, § 204(2)](https://www.govinfo.gov/link/plaw/104/public/186), Aug. 20, 1996, [110 Stat. 1729](https://www.govinfo.gov/link/statute/110/1729); [Pub. L. 116–94, div. E, title II, § 212(b)(1)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 2776](https://www.govinfo.gov/link/statute/133/2776).)*

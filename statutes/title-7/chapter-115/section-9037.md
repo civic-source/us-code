@@ -3,9 +3,10 @@ title: "Section 9037 - Special marketing loan provisions for upland cotton"
 usc_title: 7
 usc_section: "9037"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 9037"
-generated_at: "2026-03-30T02:53:42.486Z"
+generated_at: "2026-11-23T20:25:41.941Z"
+status: "active"
 ---
 
 # § 9037. Special marketing loan provisions for upland cotton
@@ -56,3 +57,7 @@ generated_at: "2026-03-30T02:53:42.486Z"
   - **(5)** If the Secretary determines, after a review or audit of the records of the domestic user, that economic adjustment assistance under this subsection was not used for the purposes specified in paragraph (3), the domestic user shall be—
     - **(A)** liable for the repayment of the assistance to the Secretary, plus interest, as determined by the Secretary; and
     - **(B)** ineligible to receive assistance under this subsection for a period of 1 year following the determination of the Secretary.
+
+## Source Credit
+
+*([Pub. L. 113–79, title I, § 1207](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 682](https://www.govinfo.gov/link/statute/128/682); [Pub. L. 115–334, title I, § 1203(b)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4510](https://www.govinfo.gov/link/statute/132/4510); [Pub. L. 119–21, title I, § 10311](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 96](https://www.govinfo.gov/link/statute/139/96).)*

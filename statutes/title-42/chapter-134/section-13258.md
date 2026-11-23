@@ -3,9 +3,10 @@ title: "Section 13258 - Credits"
 usc_title: 42
 usc_section: "13258"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13258"
-generated_at: "2026-03-30T02:56:11.440Z"
+generated_at: "2026-11-23T20:27:23.472Z"
+status: "active"
 ---
 
 # § 13258. Credits
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:56:11.440Z"
 - **(d)** At the request of a fleet or covered person allocated a credit under this section, the Secretary shall treat the credit as the acquisition of one alternative fueled vehicle of the type for which the credit is allocated in the year designated by that fleet or person when determining whether that fleet or person has complied with this subchapter in the year designated. A credit may be counted toward compliance for only one year.
 - **(e)** A fleet or covered person allocated a credit under this section or to whom a credit is transferred under this section, may transfer freely the credit to another fleet or person who is required to comply with this subchapter. At the request of the fleet or person to whom a credit is transferred, the Secretary shall treat the transferred credit as the acquisition of one alternative fueled vehicle of the type for which the credit is allocated in the year designated by the fleet or person to whom the credit is transferred when determining whether that fleet or person has complied with this subchapter in the year designated. A transferred credit may be counted toward compliance for only one year. In the case of the alternative fuel provider program under section 13251 of this title , a transferred credit may be counted toward compliance only if the requirement of section 13251(a)(4) of this title is met.
 - **(f)** There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2008 through 2013.
+
+## Source Credit
+
+*([Pub. L. 102–486, title V, § 508](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2897](https://www.govinfo.gov/link/statute/106/2897); [Pub. L. 110–140, title I, § 133](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1511](https://www.govinfo.gov/link/statute/121/1511).)*

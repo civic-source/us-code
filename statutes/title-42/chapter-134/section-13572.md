@@ -3,9 +3,10 @@ title: "Section 13572 - Authorization of program"
 usc_title: 42
 usc_section: "13572"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13572"
-generated_at: "2026-03-30T02:56:11.449Z"
+generated_at: "2026-11-23T20:27:23.510Z"
+status: "active"
 ---
 
 # § 13572. Authorization of program
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.449Z"
 - **(b)** As determined by the Secretary for a particular project, financial assistance under this subchapter shall be in the form of—
   - **(1)** cost-sharing of an appropriate percentage of the total project cost, not to exceed 50 percent as calculated under section 16352 of this title ; or
   - **(2)** financial assistance, including grants, cooperative agreements, or loans as authorized under this Act or other statutory authority of the Secretary.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XXXI, § 3102](https://www.govinfo.gov/link/plaw/102/public/486), as added [Pub. L. 109–58, title IV, § 421(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 757](https://www.govinfo.gov/link/statute/119/757).)*

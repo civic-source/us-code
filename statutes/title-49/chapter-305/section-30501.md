@@ -3,9 +3,10 @@ title: "Section 30501 - Definitions"
 usc_title: 49
 usc_section: "30501"
 chapter: 305
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 30501"
-generated_at: "2026-03-30T02:56:19.354Z"
+generated_at: "2026-11-23T20:27:34.928Z"
+status: "active"
 ---
 
 # § 30501. Definitions
@@ -27,3 +28,22 @@ In this chapter—
     - **(A)** resale in their entirety or as spare parts; or
     - **(B)** rebuilding, restoration, or crushing.
   - **(9)** “State” means a State of the United States or the District of Columbia.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30501 | 15:2041. | Oct. 25, 1992 , Pub. L. 102–519, § 201 , 106 Stat. 3389 . |
+
+
+Historical and Revision Notes
+
+30501
+
+Oct. 25, 1992
+
+Pub. L. 102–519, § 201
+
+106 Stat. 3389
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 979](https://www.govinfo.gov/link/statute/108/979); [Pub. L. 104–152](https://www.govinfo.gov/link/plaw/104/public/152), §§ 2(c), 3(a), July 2, 1996, [110 Stat. 1384](https://www.govinfo.gov/link/statute/110/1384); [Pub. L. 105–102, § 3(b)](https://www.govinfo.gov/link/plaw/105/public/102), Nov. 20, 1997, [111 Stat. 2215](https://www.govinfo.gov/link/statute/111/2215).)*

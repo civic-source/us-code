@@ -3,9 +3,10 @@ title: "Section 1614 - Annual audits and reports by Comptroller General"
 usc_title: 2
 usc_section: "1614"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1614"
-generated_at: "2026-03-30T02:53:04.816Z"
+generated_at: "2026-11-23T20:25:28.980Z"
+status: "active"
 ---
 
 # § 1614. Annual audits and reports by Comptroller General
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:04.816Z"
     - **(B)** provide the Department of Justice with the resources and authorities needed for the effective enforcement of this chapter.
   - **(2)** The annual report under paragraph (1) shall include an assessment of compliance by registrants with the requirements of section 1603(b)(3) of this title .
 - **(c)** The Comptroller General may, in carrying out this section, request information from and access to any relevant documents from any person registered under paragraph (1) or (2) of section 1603(a) of this title and each employee who is listed as a lobbyist under section 1603(b)(6) of this title or section 1604(b)(2)(C) of this title if the material requested relates to the purposes of this section. The Comptroller General may request such person to submit in writing such information as the Comptroller General may prescribe. The Comptroller General may notify the Congress in writing if a person from whom information has been requested under this subsection refuses to comply with the request within 45 days after the request is made.
+
+## Source Credit
+
+*([Pub. L. 104–65, § 26](https://www.govinfo.gov/link/plaw/104/public/65), as added [Pub. L. 110–81, title II, § 213(a)](https://www.govinfo.gov/link/plaw/110/public/81), Sept. 14, 2007, [121 Stat. 750](https://www.govinfo.gov/link/statute/121/750).)*

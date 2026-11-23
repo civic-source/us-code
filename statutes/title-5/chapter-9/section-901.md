@@ -3,9 +3,10 @@ title: "Section 901 - Purpose"
 usc_title: 5
 usc_section: "901"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 901"
-generated_at: "2026-03-30T02:52:55.992Z"
+generated_at: "2026-11-23T20:25:31.751Z"
+status: "active"
 ---
 
 # § 901. Purpose
@@ -20,3 +21,64 @@ generated_at: "2026-03-30T02:52:55.992Z"
 - **(b)** Congress declares that the public interest demands the carrying out of the purposes of subsection (a) of this section and that the purposes may be accomplished in great measure by proceeding under this chapter, and can be accomplished more speedily thereby than by the enactment of specific legislation.
 - **(c)** It is the intent of Congress that the President should provide appropriate means for broad citizen advice and participation in restructuring and reorganizing the executive branch.
 - **(d)** The President shall from time to time examine the organization of all agencies and shall determine what changes in such organization are necessary to carry out any policy set forth in subsection (a) of this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 133z . | June 20, 1949, ch. 226, § 2 , 63 Stat. 203 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 133z
+
+June 20, 1949, ch. 226, § 2
+
+63 Stat. 203
+
+Procurement
+
+National Parks, Buildings, and Reservations
+
+Investigations
+
+Disbursement
+
+Claims By or Against the United States
+
+Insular Courts
+
+Solicitors
+
+Internal Revenue
+
+Assistant Secretary of Commerce
+
+Official Register
+
+Statistics of Cities
+
+Shipping Board
+
+National Screw Thread Commission
+
+Immigration and Naturalization
+
+Vocational Education
+
+Apportionment of Appropriations
+
+Coordinating Service
+
+Functions Abolished
+
+General Provisions
+
+Appropriations
+
+Definitions
+
+Effective Date
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 394](https://www.govinfo.gov/link/statute/80/394); [Pub. L. 92–179, § 1](https://www.govinfo.gov/link/plaw/92/public/179), Dec. 10, 1971, [85 Stat. 574](https://www.govinfo.gov/link/statute/85/574); [Pub. L. 95–17, § 2](https://www.govinfo.gov/link/plaw/95/public/17), Apr. 6, 1977, [91 Stat. 29](https://www.govinfo.gov/link/statute/91/29).)*

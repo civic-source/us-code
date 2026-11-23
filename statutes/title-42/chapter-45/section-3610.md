@@ -3,9 +3,10 @@ title: "Section 3610 - Administrative enforcement; preliminary matters"
 usc_title: 42
 usc_section: "3610"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3610"
-generated_at: "2026-03-30T02:56:11.191Z"
+generated_at: "2026-11-23T20:27:22.303Z"
+status: "active"
 ---
 
 # § 3610. Administrative enforcement; preliminary matters
@@ -77,3 +78,7 @@ generated_at: "2026-03-30T02:56:11.191Z"
 - **(h)** After the Secretary issues a charge under this section, the Secretary shall cause a copy thereof, together with information as to how to make an election under section 3612(a) of this title and the effect of such an election, to be served—
   - **(1)** on each respondent named in such charge, together with a notice of opportunity for a hearing at a time and place specified in the notice, unless that election is made; and
   - **(2)** on each aggrieved person on whose behalf the complaint was filed.
+
+## Source Credit
+
+*([Pub. L. 90–284, title VIII, § 810](https://www.govinfo.gov/link/plaw/90/public/284), as added [Pub. L. 100–430, § 8(2)](https://www.govinfo.gov/link/plaw/100/public/430), Sept. 13, 1988, [102 Stat. 1625](https://www.govinfo.gov/link/statute/102/1625).)*

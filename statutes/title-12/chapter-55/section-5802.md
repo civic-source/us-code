@@ -3,9 +3,10 @@ title: "Section 5802 - Definitions"
 usc_title: 12
 usc_section: "5802"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5802"
-generated_at: "2026-03-30T02:53:53.550Z"
+generated_at: "2026-11-23T20:25:59.542Z"
+status: "active"
 ---
 
 # § 5802. Definitions
@@ -41,3 +42,7 @@ In this chapter:
     - **(C)** 0.26161 percent for 3-month LIBOR;
     - **(D)** 0.42826 percent for 6-month LIBOR; and
     - **(E)** 0.71513 percent for 12-month LIBOR.
+
+## Source Credit
+
+*([Pub. L. 117–103, div. U, § 103](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 826](https://www.govinfo.gov/link/statute/136/826).)*

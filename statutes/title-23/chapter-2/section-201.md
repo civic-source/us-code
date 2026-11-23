@@ -3,9 +3,10 @@ title: "Section 201 - Federal lands and tribal transportation programs"
 usc_title: 23
 usc_section: "201"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 201"
-generated_at: "2026-03-30T02:55:12.564Z"
+generated_at: "2026-11-23T20:26:23.845Z"
+status: "active"
 ---
 
 # § 201. Federal lands and tribal transportation programs
@@ -83,3 +84,127 @@ generated_at: "2026-03-30T02:55:12.564Z"
   - **(3)** Nothing in this subsection—
     - **(A)** affects the application of the Federal share for the project carried out with a contracting method under this subsection; or
     - **(B)** modifies the point of obligation of Federal salaries and expenses.
+
+Purpose
+
+Availability of Funds.—
+
+Availability
+
+Amount remaining
+
+Obligations
+
+Expenditure.—
+
+In general
+
+Credited funds
+
+Applicability
+
+Contractual obligation.—
+
+In general
+
+Effect
+
+Federal share.—
+
+Tribal and federal lands transportation program
+
+Federal lands access program
+
+Transportation Planning.—
+
+Transportation planning procedures
+
+Approval of transportation improvement program
+
+Inclusion in other plans
+
+Inclusion in state programs
+
+Asset management
+
+Data collection.—
+
+Data collection.—
+
+In general
+
+Requirement
+
+Inclusions
+
+Standards
+
+Tribal data collection
+
+Cooperative research and technology deployment
+
+Funding.—
+
+In general
+
+Other activities
+
+Reimbursable Agreements
+
+Transfers.—
+
+In general
+
+Credit
+
+Alternative Contracting Methods.—
+
+In general
+
+Methods described
+
+Effect
+
+“In carrying out an alternative contracting method under section 201(f) or 308(a)(4) of title 23, United States Code, the Secretary [of Transportation] shall—
+
+Purpose
+
+Eligible Applicants.—
+
+In general
+
+Special rule
+
+Eligible Projects
+
+Eligible Activities.—
+
+In general
+
+Ineligible activities
+
+Applications
+
+Selection Criteria
+
+Cost Share.—
+
+Federal share.—
+
+In general
+
+Tribal projects
+
+Non-federal share
+
+Use of Funds.—
+
+In general
+
+Requirement
+
+Availability
+
+## Source Credit
+
+*(Added [Pub. L. 112–141, div. A, title I, § 1119(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 473](https://www.govinfo.gov/link/statute/126/473); amended [Pub. L. 114–94, div. A, title I](https://www.govinfo.gov/link/plaw/114/public/94), §§ 1117(a), 1120, Dec. 4, 2015, [129 Stat. 1356](https://www.govinfo.gov/link/statute/129/1356), 1358; [Pub. L. 117–58, div. A, title I](https://www.govinfo.gov/link/plaw/117/public/58), §§ 11113(a), 11305(a), 11525(l), Nov. 15, 2021, [135 Stat. 479](https://www.govinfo.gov/link/statute/135/479), 531, 607.)*

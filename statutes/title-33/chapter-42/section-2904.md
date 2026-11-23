@@ -3,9 +3,10 @@ title: "Section 2904 - Establishment of Estuary Habitat Restoration Council"
 usc_title: 33
 usc_section: "2904"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2904"
-generated_at: "2026-03-30T02:55:41.135Z"
+generated_at: "2026-11-23T20:26:54.232Z"
+status: "active"
 ---
 
 # § 2904. Establishment of Estuary Habitat Restoration Council
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:41.135Z"
 - **(i)** The Council shall consult with persons with recognized scientific expertise in estuary or estuary habitat restoration, representatives of State agencies, local or regional government agencies, and nongovernmental organizations with expertise in estuary or estuary habitat restoration, and representatives of Indian tribes, agricultural interests, fishing interests, and other estuary users—
   - **(1)** to assist the Council in the development of the estuary habitat restoration strategy to be developed under section 2905 of this title ; and
   - **(2)** to provide advice and recommendations to the Council on proposed estuary habitat restoration projects, including advice on the scientific merit, technical merit, and feasibility of a project.
+
+## Source Credit
+
+*([Pub. L. 106–457, title I, § 105](https://www.govinfo.gov/link/plaw/106/public/457), Nov. 7, 2000, [114 Stat. 1962](https://www.govinfo.gov/link/statute/114/1962); [Pub. L. 110–114, title V, § 5017(d)](https://www.govinfo.gov/link/plaw/110/public/114), Nov. 8, 2007, [121 Stat. 1198](https://www.govinfo.gov/link/statute/121/1198).)*

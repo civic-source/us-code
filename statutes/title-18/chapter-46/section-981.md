@@ -3,9 +3,10 @@ title: "Section 981 - Civil forfeiture"
 usc_title: 18
 usc_section: "981"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 981"
-generated_at: "2026-03-30T02:54:16.477Z"
+generated_at: "2026-11-23T20:26:08.440Z"
+status: "active"
 ---
 
 # § 981. Civil forfeiture
@@ -110,3 +111,29 @@ generated_at: "2026-03-30T02:54:16.477Z"
       - **(ii)** The foreign financial institution (as defined in section 984(c)(2)(A) of this title ) may be considered the “owner” of the funds (and no other person shall qualify as the owner of such funds) only if—
         - **(I)** the basis for the forfeiture action is wrongdoing committed by the foreign financial institution (as defined in section 984(c)(2)(A) of this title ); or
         - **(II)** the foreign financial institution (as defined in section 984(c)(2)(A) of this title ) establishes, by a preponderance of the evidence, that prior to the restraint, seizure, or arrest of the funds, the foreign financial institution (as defined in section 984(c)(2)(A) of this title ) had discharged all or part of its obligation to the prior owner of the funds, in which case the foreign financial institution (as defined in section 984(c)(2)(A) of this title ) shall be deemed the owner of the funds to the extent of such discharged obligation.
+
+Interbank Accounts.—
+
+In general.—
+
+In general
+
+Authority to suspend
+
+No requirement for government to trace funds
+
+Claims brought by owner of the funds
+
+Definitions
+
+Interbank account
+
+Owner.—
+
+In general
+
+Exception
+
+## Source Credit
+
+*(Added [Pub. L. 99–570, title I, § 1366(a)](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–35](https://www.govinfo.gov/link/statute/100/3207); amended [Pub. L. 100–690, title VI](https://www.govinfo.gov/link/plaw/100/public/690), §§ 6463(a), (b), 6469(b), 6470(b), (e), (f), 6471(c), Nov. 18, 1988, [102 Stat. 4374](https://www.govinfo.gov/link/statute/102/4374), 4377, 4378; [Pub. L. 101–73, title IX, § 963(a)](https://www.govinfo.gov/link/plaw/101/public/73), (b), Aug. 9, 1989, [103 Stat. 504](https://www.govinfo.gov/link/statute/103/504); [Pub. L. 101–647, title I, § 103](https://www.govinfo.gov/link/plaw/101/public/647), title XXV, §§ 2508, 2524, 2525(a), title XXXV, § 3531, Nov. 29, 1990, [104 Stat. 4791](https://www.govinfo.gov/link/statute/104/4791), 4862, 4873, 4874, 4924; [Pub. L. 102–393, title VI, § 638(d)](https://www.govinfo.gov/link/plaw/102/public/393), Oct. 6, 1992, [106 Stat. 1788](https://www.govinfo.gov/link/statute/106/1788); [Pub. L. 102–519, title I, § 104(a)](https://www.govinfo.gov/link/plaw/102/public/519), Oct. 25, 1992, [106 Stat. 3385](https://www.govinfo.gov/link/statute/106/3385); [Pub. L. 102–550, title XV](https://www.govinfo.gov/link/plaw/102/public/550), §§ 1525(c)(1), 1533, Oct. 28, 1992, [106 Stat. 4065](https://www.govinfo.gov/link/statute/106/4065), 4066; [Pub. L. 103–322, title XXXIII, § 330011(s)(2)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2146](https://www.govinfo.gov/link/statute/108/2146); [Pub. L. 103–447, title I, § 102(b)](https://www.govinfo.gov/link/plaw/103/public/447), Nov. 2, 1994, [108 Stat. 4693](https://www.govinfo.gov/link/statute/108/4693); [Pub. L. 106–185](https://www.govinfo.gov/link/plaw/106/public/185), §§ 2(c)(1), 5(a), 6, 8(a), 20, Apr. 25, 2000, [114 Stat. 210](https://www.govinfo.gov/link/statute/114/210), 213–215, 224; [Pub. L. 107–56, title III](https://www.govinfo.gov/link/plaw/107/public/56), §§ 319(a), 320, 372(b)(1), 373(b), title VIII, § 806, Oct. 26, 2001, [115 Stat. 311](https://www.govinfo.gov/link/statute/115/311), 315, 339, 340, 378; [Pub. L. 107–197, title III, § 301(d)](https://www.govinfo.gov/link/plaw/107/public/197), June 25, 2002, [116 Stat. 728](https://www.govinfo.gov/link/statute/116/728); [Pub. L. 107–273, div. B, title IV, § 4002(a)(2)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1806](https://www.govinfo.gov/link/statute/116/1806); [Pub. L. 109–177, title I](https://www.govinfo.gov/link/plaw/109/public/177), §§ 111, 120, title IV, §§ 404, 406(a)(3), Mar. 9, 2006, [120 Stat. 209](https://www.govinfo.gov/link/statute/120/209), 221, 244; [Pub. L. 111–203, title III, § 377(3)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1569](https://www.govinfo.gov/link/statute/124/1569); [Pub. L. 112–186, § 3](https://www.govinfo.gov/link/plaw/112/public/186), Oct. 5, 2012, [126 Stat. 1428](https://www.govinfo.gov/link/statute/126/1428); [Pub. L. 114–122, title I, § 105(a)](https://www.govinfo.gov/link/plaw/114/public/122), Feb. 18, 2016, [130 Stat. 101](https://www.govinfo.gov/link/statute/130/101).)*

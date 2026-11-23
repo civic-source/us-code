@@ -3,9 +3,10 @@ title: "Section 504 - Prohibition against certain persons holding office"
 usc_title: 29
 usc_section: "504"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 504"
-generated_at: "2026-03-30T02:55:18.684Z"
+generated_at: "2026-11-23T20:26:37.819Z"
+status: "active"
 ---
 
 # § 504. Prohibition against certain persons holding office
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:18.684Z"
 - **(d)** Whenever any person—
   - **(1)** by operation of this section, has been barred from office or other position in a labor organization as a result of a conviction, and
   - **(2)** has filed an appeal of that conviction,
+
+## Source Credit
+
+*([Pub. L. 86–257, title V, § 504](https://www.govinfo.gov/link/plaw/86/public/257), Sept. 14, 1959, [73 Stat. 536](https://www.govinfo.gov/link/statute/73/536); [Pub. L. 98–473, title II](https://www.govinfo.gov/link/plaw/98/public/473), §§ 229, 803, Oct. 12, 1984, [98 Stat. 2031](https://www.govinfo.gov/link/statute/98/2031), 2133; [Pub. L. 100–182, § 15(a)](https://www.govinfo.gov/link/plaw/100/public/182), Dec. 7, 1987, [101 Stat. 1269](https://www.govinfo.gov/link/statute/101/1269).)*

@@ -3,9 +3,10 @@ title: "Section 201 - Certain intelligence officials: consultation and concurren
 usc_title: 10
 usc_section: "201"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 201"
-generated_at: "2026-03-30T02:53:38.046Z"
+generated_at: "2026-11-23T20:25:50.874Z"
+status: "active"
 ---
 
 # § 201. Certain intelligence officials: consultation and concurrence regarding appointments; evaluation of performance
@@ -23,3 +24,19 @@ generated_at: "2026-03-30T02:53:38.046Z"
     - **(A)** The Director of the National Security Agency.
     - **(B)** The Director of the National Reconnaissance Office.
     - **(C)** The Director of the National Geospatial-Intelligence Agency.
+
+Consultation Regarding Appointment
+
+Concurrence in Appointment
+
+Performance Evaluations
+
+Requirement for Center
+
+Management
+
+Responsiveness to Command Authorities
+
+## Source Credit
+
+*(Added [Pub. L. 102–190, div. A, title IX, § 922(a)(2)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1453](https://www.govinfo.gov/link/statute/105/1453); amended [Pub. L. 104–201, div. A, title XI, § 1103(a)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2676](https://www.govinfo.gov/link/statute/110/2676); [Pub. L. 108–136, div. A, title IX, § 921(d)(4)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1569](https://www.govinfo.gov/link/statute/117/1569); [Pub. L. 110–181, div. A, title IX, § 931(a)(4)](https://www.govinfo.gov/link/plaw/110/public/181), (5), (c)(2), Jan. 28, 2008, [122 Stat. 285](https://www.govinfo.gov/link/statute/122/285); [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title IX, § 932(a)(3)–(5), Oct. 14, 2008, [122 Stat. 4576](https://www.govinfo.gov/link/statute/122/4576); [Pub. L. 111–84, div. A, title X, § 1073(c)(10)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2475](https://www.govinfo.gov/link/statute/123/2475); [Pub. L. 113–291, div. A, title X, § 1071(c)(4)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3508](https://www.govinfo.gov/link/statute/128/3508).)*

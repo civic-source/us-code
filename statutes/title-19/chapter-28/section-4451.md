@@ -3,9 +3,10 @@ title: "Section 4451 - Report on certain U.S. Customs and Border Protection agre
 usc_title: 19
 usc_section: "4451"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 4451"
-generated_at: "2026-03-30T02:54:24.709Z"
+generated_at: "2026-11-23T20:26:11.147Z"
+status: "active"
 ---
 
 # § 4451. Report on certain U.S. Customs and Border Protection agreements
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:54:24.709Z"
   - **(3)** the program under which U.S. Customs and Border Protection collects a fee for the use of customs services at designated facilities under section 58b of this title ;
   - **(4)** the program established by subchapter VII of this chapter authorizing U.S. Customs and Border Protection to establish preclearance operations in foreign countries; or
   - **(5)** the program for entering into reimbursable fee agreements with U.S. Customs and Border Protection established under section 301 of title 6 .
+
+## Source Credit
+
+*([Pub. L. 114–125, title IX, § 907](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 234](https://www.govinfo.gov/link/statute/130/234); [Pub. L. 114–279, § 3](https://www.govinfo.gov/link/plaw/114/public/279), Dec. 16, 2016, [130 Stat. 1422](https://www.govinfo.gov/link/statute/130/1422).)*

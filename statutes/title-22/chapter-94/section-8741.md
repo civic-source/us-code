@@ -3,9 +3,10 @@ title: "Section 8741 - Identification of, and imposition of sanctions with respe
 usc_title: 22
 usc_section: "8741"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8741"
-generated_at: "2026-03-30T02:55:05.456Z"
+generated_at: "2026-11-23T20:26:32.733Z"
+status: "active"
 ---
 
 # § 8741. Identification of, and imposition of sanctions with respect to, officials, agents, and affiliates of Iran’s Revolutionary Guard Corps
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:55:05.456Z"
       - **(ii)** sets forth the reasons for the determination.
   - **(2)** A report submitted under paragraph (1)(B) shall be submitted in unclassified form but may contain a classified annex.
 - **(f)** Nothing in this section shall be construed to remove any sanction of the United States in force with respect to Iran’s Revolutionary Guard Corps as of August 10, 2012 .
+
+## Source Credit
+
+*([Pub. L. 112–158, title III, § 301](https://www.govinfo.gov/link/plaw/112/public/158), Aug. 10, 2012, [126 Stat. 1241](https://www.govinfo.gov/link/statute/126/1241).)*

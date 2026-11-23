@@ -3,9 +3,10 @@ title: "Section 2516 - Members asserting post-traumatic stress disorder or traum
 usc_title: 14
 usc_section: "2516"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 2516"
-generated_at: "2026-03-30T02:53:51.500Z"
+generated_at: "2026-11-23T20:25:54.610Z"
+status: "active"
 ---
 
 # § 2516. Members asserting post-traumatic stress disorder or traumatic brain injury
@@ -32,3 +33,29 @@ generated_at: "2026-03-30T02:53:51.500Z"
   - **(2)** The Commandant shall—
     - **(A)** develop and issue a clear policy for carrying out the notification required under paragraph (1) with respect to any member of the Coast Guard described in that paragraph who has made an unrestricted report of sexual assault; and
     - **(B)** provide information on such policy to sexual assault response coordinators of the Coast Guard for the purpose of ensuring that such policy is communicated to members of the Coast Guard who may be eligible for a medical examination under this section.
+
+Medical Examination Required.—
+
+In general
+
+Mental, behavioral, or emotional disorder
+
+Restriction on administrative separation
+
+Post-traumatic stress disorder
+
+Traumatic brain injury
+
+Purpose of Medical Examination
+
+Inapplicability to Proceedings Under Uniform Code of Military Justice
+
+Notification of Right to Request Medical Examination.—
+
+In general
+
+Policy
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. K, title CXIV, § 11410(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4116](https://www.govinfo.gov/link/statute/136/4116); amended [Pub. L. 119–60, div. G, title LXXII](https://www.govinfo.gov/link/plaw/119/public/60), §§ 7201(k)(1), 7227, Dec. 18, 2025, [139 Stat. 1687](https://www.govinfo.gov/link/statute/139/1687), 1705.)*

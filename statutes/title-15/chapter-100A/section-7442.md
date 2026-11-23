@@ -3,9 +3,10 @@ title: "Section 7442 - Federal Cyber Scholarship-for-Service Program"
 usc_title: 15
 usc_section: "7442"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 7442"
-generated_at: "2026-03-30T02:54:08.223Z"
+generated_at: "2026-11-23T20:26:04.456Z"
+status: "active"
 ---
 
 # § 7442. Federal Cyber Scholarship-for-Service Program
@@ -89,3 +90,11 @@ generated_at: "2026-03-30T02:54:08.223Z"
   - **(3)** The Director of the National Science Foundation, in coordination with the Director of the Office of Personnel Management, shall provide consolidated and user-friendly online resources for prospective scholarship recipients, including, to the extent practicable—
     - **(A)** searchable, up-to-date, and accurate information about participating institutions of higher education and job opportunities related to the field of cybersecurity; and
     - **(B)** a modernized description of cybersecurity careers.
+
+Pilot Program
+
+Assessment
+
+## Source Credit
+
+*([Pub. L. 113–274, title III, § 302](https://www.govinfo.gov/link/plaw/113/public/274), Dec. 18, 2014, [128 Stat. 2982](https://www.govinfo.gov/link/statute/128/2982); [Pub. L. 115–91, div. A, title XVI, § 1649B(a)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1754](https://www.govinfo.gov/link/statute/131/1754); [Pub. L. 116–283, div. H, title XCIV](https://www.govinfo.gov/link/plaw/116/public/283), §§ 9401(g)(4)(C), 9403, 9404, Jan. 1, 2021, [134 Stat. 4810](https://www.govinfo.gov/link/statute/134/4810), 4811; [Pub. L. 117–167, div. B, title III, § 10316(b)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1531](https://www.govinfo.gov/link/statute/136/1531).)*

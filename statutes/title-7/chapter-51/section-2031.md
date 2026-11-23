@@ -3,9 +3,10 @@ title: "Section 2031 - Minnesota Family Investment Project"
 usc_title: 7
 usc_section: "2031"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2031"
-generated_at: "2026-03-30T02:53:42.373Z"
+generated_at: "2026-11-23T20:25:41.470Z"
+status: "active"
 ---
 
 # § 2031. Minnesota Family Investment Project
@@ -109,3 +110,7 @@ generated_at: "2026-03-30T02:53:42.373Z"
   - **(2)** The term “contract” means a plan to help a family pursue self-sufficiency, based on the State’s assessment of the family’s needs and abilities and developed with a parental caregiver.
   - **(3)** The term “caregiver” means a minor child’s natural or adoptive parent or parents who live in the home with the minor child. For purposes of determining eligibility for the Project, “caregiver” also means any of the following individuals who live with and provide care and support to a minor child when the minor child’s natural or adoptive parent or parents do not reside in the same home: grandfather, grandmother, brother, sister, stepfather, stepmother, stepbrother, stepsister, uncle, aunt, first cousin, nephew, niece, persons of preceding generations as denoted by prefixes of “great” or “great-great” or a spouse of any person named in the above groups even after the marriage ends by death or divorce.
   - **(4)** The term “State” means the State of Minnesota.
+
+## Source Credit
+
+*([Pub. L. 88–525, § 22](https://www.govinfo.gov/link/plaw/88/public/525), as added [Pub. L. 101–202](https://www.govinfo.gov/link/plaw/101/public/202), Dec. 6, 1989, [103 Stat. 1796](https://www.govinfo.gov/link/statute/103/1796); amended [Pub. L. 102–237, title IX, § 941(11)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1893](https://www.govinfo.gov/link/statute/105/1893); [Pub. L. 107–171, title IV, § 4118(d)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 321](https://www.govinfo.gov/link/statute/116/321); [Pub. L. 110–234, title IV](https://www.govinfo.gov/link/plaw/110/public/234), §§ 4001(b), 4002(a)(11), 4115(b)(15), May 22, 2008, [122 Stat. 1092](https://www.govinfo.gov/link/statute/122/1092), 1095, 1108; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, §§ 4001(b), 4002(a)(11), 4115(b)(15), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1853, 1856, 1870; [Pub. L. 113–79, title IV, § 4030(k)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 814](https://www.govinfo.gov/link/statute/128/814).)*

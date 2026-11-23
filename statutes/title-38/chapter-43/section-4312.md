@@ -3,9 +3,10 @@ title: "Section 4312 - Reemployment rights of persons who serve in the uniformed
 usc_title: 38
 usc_section: "4312"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 4312"
-generated_at: "2026-03-30T02:55:53.517Z"
+generated_at: "2026-11-23T20:27:01.935Z"
+status: "active"
 ---
 
 # § 4312. Reemployment rights of persons who serve in the uniformed services
@@ -65,3 +66,7 @@ generated_at: "2026-03-30T02:55:53.517Z"
   - **(4)** An employer may not delay or attempt to defeat a reemployment obligation by demanding documentation that does not then exist or is not then readily available.
 - **(g)** The right of a person to reemployment under this section shall not entitle such person to retention, preference, or displacement rights over any person with a superior claim under the provisions of title 5, United States Code, relating to veterans and other preference eligibles.
 - **(h)** In any determination of a person’s entitlement to protection under this chapter, the timing, frequency, and duration of the person’s training or service, or the nature of such training or service (including voluntary service) in the uniformed services, shall not be a basis for denying protection of this chapter if the service does not exceed the limitations set forth in subsection (c) and the notice requirements established in subsection (a)(1) and the notification requirements established in subsection (e) are met.
+
+## Source Credit
+
+*(Added [Pub. L. 103–353, § 2(a)](https://www.govinfo.gov/link/plaw/103/public/353), Oct. 13, 1994, [108 Stat. 3153](https://www.govinfo.gov/link/statute/108/3153); amended [Pub. L. 104–275, title III, § 311(4)](https://www.govinfo.gov/link/plaw/104/public/275), Oct. 9, 1996, [110 Stat. 3334](https://www.govinfo.gov/link/statute/110/3334); [Pub. L. 112–81, div. A, title V, § 575](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1428](https://www.govinfo.gov/link/statute/125/1428); [Pub. L. 114–92, div. A, title V, § 562](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 829](https://www.govinfo.gov/link/statute/129/829); [Pub. L. 117–178, § 3(b)](https://www.govinfo.gov/link/plaw/117/public/178), Sept. 29, 2022, [136 Stat. 2111](https://www.govinfo.gov/link/statute/136/2111).)*

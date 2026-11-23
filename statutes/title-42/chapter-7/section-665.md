@@ -3,9 +3,10 @@ title: "Section 665 - Allotments from pay for child and spousal support owed by 
 usc_title: 42
 usc_section: "665"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 665"
-generated_at: "2026-03-30T02:56:10.885Z"
+generated_at: "2026-11-23T20:27:20.897Z"
+status: "active"
 ---
 
 # § 665. Allotments from pay for child and spousal support owed by members of uniformed services on active duty
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:10.885Z"
   - **(1)** any agent or attorney of a State having in effect a plan approved under this part who has the duty or authority under such plan to seek to recover any amounts owed by such member as child or child and spousal support (including, when authorized under the State plan, any official of a political subdivision); and
   - **(2)** the court which has authority to issue an order against such member for the support and maintenance of a child, or any agent of such court.
 - **(c)** The Secretary of Defense, in the case of the Army, Navy, Air Force, and Marine Corps, and the Secretary concerned (as defined in section 101(5) of title 37 ) in the case of each of the other uniformed services, shall each issue regulations applicable to allotments to be made under this section, designating the officials to whom notice of failure to make support payments, or notice to discontinue or adjust an allotment, should be given, prescribing the form and content of the notice and specifying any other rules necessary for such Secretary to implement this section.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 465, as added [Pub. L. 97–248, title I, § 172(a)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 401](https://www.govinfo.gov/link/statute/96/401); amended [Pub. L. 109–241, title II, § 218(b)(2)](https://www.govinfo.gov/link/plaw/109/public/241), July 11, 2006, [120 Stat. 526](https://www.govinfo.gov/link/statute/120/526).)*

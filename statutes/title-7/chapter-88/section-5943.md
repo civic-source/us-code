@@ -3,9 +3,10 @@ title: "Section 5943 - Rice research"
 usc_title: 7
 usc_section: "5943"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 5943"
-generated_at: "2026-03-30T02:53:42.422Z"
+generated_at: "2026-11-23T20:25:41.676Z"
+status: "active"
 ---
 
 # § 5943. Rice research
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:42.422Z"
   - **(8)** to benefit the general welfare.
 - **(b)** The Secretary shall, in implementing the program authorized in subsection (a), utilize the technical and related services of appropriate Federal, State, local governmental, and private agencies, with priority consideration for land grant universities, State experiment stations, and other agricultural institutions of higher learning.
 - **(c)** There is authorized to be appropriated not more than $1,000,000 for the period ending September 30, 1976 , to carry out the provisions of this section. No funds authorized by this section shall be used for advertising or promotional activities.
+
+## Source Credit
+
+*([Pub. L. 94–214, title II, § 201](https://www.govinfo.gov/link/plaw/94/public/214), Feb. 16, 1976, [90 Stat. 187](https://www.govinfo.gov/link/statute/90/187).)*

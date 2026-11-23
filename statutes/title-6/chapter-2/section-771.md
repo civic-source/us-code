@@ -3,9 +3,10 @@ title: "Section 771 - National Disaster Recovery Strategy"
 usc_title: 6
 usc_section: "771"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 771"
-generated_at: "2026-03-30T02:53:09.500Z"
+generated_at: "2026-11-23T20:25:34.873Z"
+status: "active"
 ---
 
 # § 771. National Disaster Recovery Strategy
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:09.500Z"
   - **(2)** The Administrator shall submit to the appropriate committees of Congress a report updating the report submitted under paragraph (1)—
     - **(A)** on the same date that any change is made to the National Disaster Recovery Strategy; and
     - **(B)** on a periodic basis after the submission of the report under paragraph (1), but not less than once every 5 years after the date of the submission of the report under paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 109–295, title VI, § 682](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1445](https://www.govinfo.gov/link/statute/120/1445).)*

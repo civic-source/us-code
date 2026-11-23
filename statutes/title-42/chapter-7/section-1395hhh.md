@@ -3,9 +3,10 @@ title: "Section 1395hhh - Health care infrastructure improvement program"
 usc_title: 42
 usc_section: "1395hhh"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1395hhh"
-generated_at: "2026-03-30T02:56:11.028Z"
+generated_at: "2026-11-23T20:27:21.486Z"
+status: "active"
 ---
 
 # § 1395hhh. Health care infrastructure improvement program
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:56:11.028Z"
   - **(3)** Amounts appropriated under this section shall be available for obligation on July 1, 2004 .
 - **(h)** Not later than 4 years after December 8, 2003 , the Secretary shall submit to Congress a report on the projects for which loans are provided under this section and a recommendation as to whether the Congress should authorize the Secretary to continue loans under this section beyond fiscal year 2008.
 - **(i)** There shall be no administrative or judicial review of any determination made by the Secretary under this section.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1897, as added [Pub. L. 108–173, title X, § 1016](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2447](https://www.govinfo.gov/link/statute/117/2447); amended [Pub. L. 109–13, div. A, title VI, § 6045(a)](https://www.govinfo.gov/link/plaw/109/public/13), (b), May 11, 2005, [119 Stat. 294](https://www.govinfo.gov/link/statute/119/294).)*

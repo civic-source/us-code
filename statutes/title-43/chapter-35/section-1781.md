@@ -3,9 +3,10 @@ title: "Section 1781 - California Desert Conservation Area"
 usc_title: 43
 usc_section: "1781"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1781"
-generated_at: "2026-03-30T02:55:57.492Z"
+generated_at: "2026-11-23T20:27:06.380Z"
+status: "active"
 ---
 
 # § 1781. California Desert Conservation Area
@@ -30,3 +31,15 @@ generated_at: "2026-03-30T02:55:57.492Z"
 - **(h)** The Secretary of Agriculture and the Secretary of Defense shall manage lands within their respective jurisdictions located in or adjacent to the California Desert Conservation Area, in accordance with the laws relating to such lands and wherever practicable, in a manner consonant with the purpose of this section. The Secretary, the Secretary of Agriculture, and the Secretary of Defense are authorized and directed to consult among themselves and take cooperative actions to carry out the provisions of this subsection, including a program of law enforcement in accordance with applicable authorities to protect the archeological and other values of the California Desert Conservation Area and adjacent lands.
 - **(i)**
 - **(j)** There are authorized to be appropriated for fiscal years 1977 through 1981 not to exceed $40,000,000 for the purpose of this section, such amount to remain available until expended.
+
+Designation
+
+Withdrawal
+
+Designation
+
+Withdrawal
+
+## Source Credit
+
+*([Pub. L. 94–579, title VI, § 601](https://www.govinfo.gov/link/plaw/94/public/579), Oct. 21, 1976, [90 Stat. 2782](https://www.govinfo.gov/link/statute/90/2782).)*

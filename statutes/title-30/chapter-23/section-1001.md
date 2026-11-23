@@ -3,9 +3,10 @@ title: "Section 1001 - Definitions"
 usc_title: 30
 usc_section: "1001"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1001"
-generated_at: "2026-03-30T02:55:29.394Z"
+generated_at: "2026-11-23T20:26:34.984Z"
+status: "active"
 ---
 
 # § 1001. Definitions
@@ -23,3 +24,7 @@ As used in this chapter, the term—
   - **(3)** Thermal features within Big Bend National Park and Lake Mead National Recreation Area proposed as significant in the Federal Register notice of February 13, 1987 (Vol. 52, No. 30 Fed. Reg. 4700).
   - **(4)** Thermal features within units of the National Park System added to the significant thermal features list pursuant to section 1026(a)(2) of this title .
 - **(g)** “direct use” means utilization of geothermal resources for commercial, residential, agricultural, public facilities, or other energy needs other than the commercial production of electricity; and 2 2 So in original. Probably should end with a period instead of “; and”.
+
+## Source Credit
+
+*([Pub. L. 91–581, § 2](https://www.govinfo.gov/link/plaw/91/public/581), Dec. 24, 1970, [84 Stat. 1566](https://www.govinfo.gov/link/statute/84/1566); [Pub. L. 100–443, § 2(a)](https://www.govinfo.gov/link/plaw/100/public/443), Sept. 22, 1988, [102 Stat. 1766](https://www.govinfo.gov/link/statute/102/1766); [Pub. L. 109–58, title II, § 236(1)](https://www.govinfo.gov/link/plaw/109/public/58), (2), (5), Aug. 8, 2005, [119 Stat. 671](https://www.govinfo.gov/link/statute/119/671).)*

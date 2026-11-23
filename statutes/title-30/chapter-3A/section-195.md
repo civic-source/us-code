@@ -3,9 +3,10 @@ title: "Section 195 - Enforcement"
 usc_title: 30
 usc_section: "195"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 195"
-generated_at: "2026-03-30T02:55:29.379Z"
+generated_at: "2026-11-23T20:26:34.913Z"
+status: "active"
 ---
 
 # § 195. Enforcement
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:29.379Z"
   - **(3)** Any civil penalties recovered by a State under this subsection shall be retained by the State and may be expended in such manner and for such purposes as the State deems appropriate. If a civil action is jointly brought by the Attorney General and a State, by more than one State or by the Attorney General and more than one State, any civil penalties recovered as a result of the joint action shall be shared by the parties bringing the action in the manner determined by the court rendering judgment in such action.
   - **(4)** If a State has commenced a civil action against a person conducting activity within the State in violation of this section, the Attorney General may join in such action but may not institute a separate action arising from the same activity under this section. If the Attorney General has commenced a civil action against a person conducting activity within a State in violation of this section, that State may join in such action but may not institute a separate action arising from the same activity under this section.
   - **(5)** Nothing in this section shall deprive a State of jurisdiction to enforce its own civil and criminal laws against any person who may also be subject to civil and criminal action under this section.
+
+## Source Credit
+
+*(Feb. 25, 1920, ch. 85, § 41, as added [Pub. L. 100–203, title V, § 5108](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–260](https://www.govinfo.gov/link/statute/101/1330).)*

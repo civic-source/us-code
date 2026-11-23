@@ -3,9 +3,10 @@ title: "Section 9133 - Payments; Federal share; and maintenance of effort requir
 usc_title: 20
 usc_section: "9133"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 9133"
-generated_at: "2026-03-30T02:54:48.224Z"
+generated_at: "2026-11-23T20:26:14.972Z"
+status: "active"
 ---
 
 # § 9133. Payments; Federal share; and maintenance of effort requirements
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:48.224Z"
     - **(B)** If the amount made available under this subchapter for a fiscal year is less than the amount made available under this subchapter for the preceding fiscal year, then the expenditures required by subparagraph (A) for such preceding fiscal year shall be decreased by the same percentage as the percentage decrease in the amount so made available.
   - **(2)** The level of State expenditures for the purposes of paragraph (1) shall include all State dollars expended by the State library administrative agency for library programs that are consistent with the purposes of this subchapter. All funds included in the maintenance of effort calculation under this subsection shall be expended during the fiscal year for which the determination is made, and shall not include capital expenditures, special one-time project costs, or similar windfalls.
   - **(3)** The Director may waive the requirements of paragraph (1) if the Director determines that such a waiver would be equitable due to exceptional or uncontrollable circumstances such as a natural disaster or a precipitous and unforeseen decline in the financial resources of the State.
+
+## Source Credit
+
+*([Pub. L. 94–462, title II, § 223](https://www.govinfo.gov/link/plaw/94/public/462), as added [Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–233](https://www.govinfo.gov/link/statute/110/3009), 3009–299; amended [Pub. L. 105–128, § 5](https://www.govinfo.gov/link/plaw/105/public/128), Dec. 1, 1997, [111 Stat. 2549](https://www.govinfo.gov/link/statute/111/2549).)*

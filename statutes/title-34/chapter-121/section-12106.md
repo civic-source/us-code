@@ -3,9 +3,10 @@ title: "Section 12106 - Formula for grants"
 usc_title: 34
 usc_section: "12106"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12106"
-generated_at: "2026-03-30T02:55:33.282Z"
+generated_at: "2026-11-23T20:26:50.534Z"
+status: "active"
 ---
 
 # § 12106. Formula for grants
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:33.282Z"
 - **(b)** The amounts available for grants for section 12104 of this title shall be allocated to each State that meets the requirements of section 12104 of this title in the ratio that the average annual number of part 1 violent crimes reported by such State to the Federal Bureau of Investigation for the 3 years preceding the year in which the determination is made bears to the average annual number of part 1 violent crimes reported by States that meet the requirements of section 12104 of this title to the Federal Bureau of Investigation for the 3 years preceding the year in which the determination is made, except that a State may not receive more than 25 percent of the total amount available for such grants.
 - **(c)** If data regarding part 1 violent crimes in any State is substantially inaccurate or is unavailable for the 3 years preceding the year in which the determination is made, the Attorney General shall utilize the best available comparable data regarding the number of violent crimes for the previous year for the State for the purposes of allocation of funds under this part.
 - **(d)** In determining the amount of funds that States organized as a regional compact may receive, the Attorney General shall first apply the formula in either subsection (a) or (b) and (c) of this section to each member State of the compact. The States organized as a regional compact may receive the sum of the amounts so determined.
+
+## Source Credit
+
+*([Pub. L. 103–322, title II, § 20106](https://www.govinfo.gov/link/plaw/103/public/322), as added [Pub. L. 104–134, title I, § 101[(a)]](https://www.govinfo.gov/link/plaw/104/public/134) [title I, § 114(a)], Apr. 26, 1996, [110 Stat. 1321](https://www.govinfo.gov/link/statute/110/1321), 1321–18; renumbered title I, [Pub. L. 104–140, § 1(a)](https://www.govinfo.gov/link/plaw/104/public/140), May 2, 1996, [110 Stat. 1327](https://www.govinfo.gov/link/statute/110/1327).)*

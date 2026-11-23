@@ -3,9 +3,10 @@ title: "Section 2135 - Antitrust provisions governing licenses"
 usc_title: 42
 usc_section: "2135"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2135"
-generated_at: "2026-03-30T02:56:11.149Z"
+generated_at: "2026-11-23T20:27:22.071Z"
+status: "active"
 ---
 
 # § 2135. Antitrust provisions governing licenses
@@ -22,3 +23,9 @@ generated_at: "2026-03-30T02:56:11.149Z"
   - **(7)** The Commission, with the approval of the Attorney General, may except from any of the requirements of this subsection such classes or types of licenses as the Commission may determine would not significantly affect the applicant’s activities under the antitrust laws as specified in subsection (a).
   - **(8)** With respect to any application for a construction permit on file at the time of enactment into law of this subsection, which permit would be for issuance under section 2133 of this title , and with respect to any application for an operating license in connection with which a written request for an antitrust review is made as provided for in paragraph (3), the Commission, after consultation with the Attorney General, may, upon determination that such action is necessary in the public interest to avoid unnecessary delay, establish by rule or order periods for Commission notification and receipt of advice differing from those set forth above and may issue a construction permit or operating license in advance of consideration of and findings with respect to the matters covered in this subsection: Provided , That any construction permit or operating license so issued shall contain such conditions as the Commission deems appropriate to assure that any subsequent findings and orders of the Commission with respect to such matters will be given full force and effect.
   - **(9)** This subsection does not apply to an application for a license to construct or operate a utilization facility or production facility under section 2133 or 2134(b) of this title that is filed on or after August 8, 2005 .
+
+Applicability
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 105, as added Aug. 30, 1954, ch. 1073, § 1, [68 Stat. 938](https://www.govinfo.gov/link/statute/68/938); amended [Pub. L. 88–489, § 14](https://www.govinfo.gov/link/plaw/88/public/489), Aug. 26, 1964, [78 Stat. 606](https://www.govinfo.gov/link/statute/78/606); [Pub. L. 91–560, § 6](https://www.govinfo.gov/link/plaw/91/public/560), Dec. 19, 1970, [84 Stat. 1473](https://www.govinfo.gov/link/statute/84/1473); renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944); [Pub. L. 107–273, div. C, title IV, § 14102(c)(2)(D)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1921](https://www.govinfo.gov/link/statute/116/1921); [Pub. L. 109–58, title VI, § 625](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 784](https://www.govinfo.gov/link/statute/119/784).)*

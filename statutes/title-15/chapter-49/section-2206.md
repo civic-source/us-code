@@ -3,9 +3,10 @@ title: "Section 2206 - National Academy for Fire Prevention and Control"
 usc_title: 15
 usc_section: "2206"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2206"
-generated_at: "2026-03-30T02:54:08.168Z"
+generated_at: "2026-11-23T20:26:04.175Z"
+status: "active"
 ---
 
 # § 2206. National Academy for Fire Prevention and Control
@@ -73,3 +74,9 @@ generated_at: "2026-03-30T02:54:08.168Z"
 - **(n)** In the first annual report filed pursuant to section 2215 of this title for which the deadline for filing is after the expiration of the 18-month period that begins on October 8, 2008 , and in every third annual report thereafter, the Administrator shall include information about changes made to the National Fire Academy curriculum, including—
   - **(1)** the basis for such changes, including a review of the incorporation of lessons learned by emergency response personnel after significant emergency events and emergency preparedness exercises performed under the National Exercise Program; and
   - **(2)** the desired training outcome of all such changes.
+
+“The Administrator of the United States Fire Administration shall coordinate training provided under section 7(d)(1) of the Federal Fire Prevention and Control Act of 1974 ( 15 U.S.C. 2206(d)(1) ) with the Attorney General, the Secretary of Health and Human Services, and the heads of other Federal agencies—
+
+## Source Credit
+
+*([Pub. L. 93–498, § 7](https://www.govinfo.gov/link/plaw/93/public/498), Oct. 29, 1974, [88 Stat. 1537](https://www.govinfo.gov/link/statute/88/1537); [Pub. L. 106–503, title I, § 110(a)(2)(B)(ii)](https://www.govinfo.gov/link/plaw/106/public/503), Nov. 13, 2000, [114 Stat. 2302](https://www.govinfo.gov/link/statute/114/2302); [Pub. L. 108–169, title II, § 204(a)](https://www.govinfo.gov/link/plaw/108/public/169), (d), Dec. 6, 2003, [117 Stat. 2039](https://www.govinfo.gov/link/statute/117/2039); [Pub. L. 110–376, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/376) –(c), Oct. 8, 2008, [122 Stat. 4057](https://www.govinfo.gov/link/statute/122/4057), 4058; [Pub. L. 112–239, div. A, title XVIII, § 1802(b)(1)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2100](https://www.govinfo.gov/link/statute/126/2100).)*

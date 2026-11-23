@@ -3,9 +3,10 @@ title: "Section 527 - Safety of vessels of the Armed Forces"
 usc_title: 14
 usc_section: "527"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 527"
-generated_at: "2026-03-30T02:53:51.489Z"
+generated_at: "2026-11-23T20:25:54.530Z"
+status: "active"
 ---
 
 # § 527. Safety of vessels of the Armed Forces
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:51.489Z"
 - **(e)** For purposes of this title, the term “vessel of the Armed Forces” means—
   - **(1)** any vessel owned or operated by the Department of Defense or the Coast Guard, other than a time- or voyage-chartered vessel; and
   - **(2)** any vessel owned and operated by the Department of Transportation that is designated by the Secretary of the department in which the Coast Guard is operating as a vessel equivalent to a vessel described in paragraph (1).
+
+## Source Credit
+
+*(Aug. 4, 1949, ch. 393, [63 Stat. 503](https://www.govinfo.gov/link/statute/63/503), § 91; [Pub. L. 99–640, § 10(a)(4)](https://www.govinfo.gov/link/plaw/99/public/640), Nov. 10, 1986, [100 Stat. 3549](https://www.govinfo.gov/link/statute/100/3549); [Pub. L. 109–241, title II, § 201](https://www.govinfo.gov/link/plaw/109/public/241), July 11, 2006, [120 Stat. 519](https://www.govinfo.gov/link/statute/120/519); renumbered § 527 and amended [Pub. L. 115–282, title I, § 105(b)](https://www.govinfo.gov/link/plaw/115/public/282), title III, § 318(a), Dec. 4, 2018, [132 Stat. 4200](https://www.govinfo.gov/link/statute/132/4200), 4251.)*

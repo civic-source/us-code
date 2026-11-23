@@ -3,9 +3,10 @@ title: "Section 40312 - Definitions"
 usc_title: 34
 usc_section: "40312"
 chapter: 403
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 40312"
-generated_at: "2026-03-30T02:55:33.308Z"
+generated_at: "2026-11-23T20:26:50.640Z"
+status: "active"
 ---
 
 # § 40312. Definitions
@@ -18,3 +19,7 @@ In this subchapter:
   - **(4)** The term “FBI” means the Federal Bureau of Investigation.
   - **(5)** The term “Party State” means a State that has ratified the Compact.
   - **(6)** The term “State” means any State, territory, or possession of the United States, the District of Columbia, and the Commonwealth of Puerto Rico.
+
+## Source Credit
+
+*([Pub. L. 105–251, title II, § 213](https://www.govinfo.gov/link/plaw/105/public/251), Oct. 9, 1998, [112 Stat. 1874](https://www.govinfo.gov/link/statute/112/1874).)*

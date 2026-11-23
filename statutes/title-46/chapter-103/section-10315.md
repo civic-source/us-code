@@ -3,9 +3,10 @@ title: "Section 10315 - Allotments"
 usc_title: 46
 usc_section: "10315"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 10315"
-generated_at: "2026-03-30T02:56:15.553Z"
+generated_at: "2026-11-23T20:27:27.152Z"
+status: "active"
 ---
 
 # § 10315. Allotments
@@ -23,3 +24,18 @@ generated_at: "2026-03-30T02:56:15.553Z"
   - **(2)** such deposits in the financial institution are fully guaranteed under commonly accepted international standards by the government of the country in which the financial institution is licensed;
   - **(3)** a written wage statement or pay stub, including an accounting of any direct deposit, is delivered to the seaman no less often than monthly; and
   - **(4)** while on board the vessel on which the seaman is employed, the seaman is able to arrange for withdrawal of all funds on deposit in the account in which the wages are deposited.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 10315 | 46:599 |
+
+
+Deposits in Seaman Account
+
+Historical and Revision Notes
+
+10315
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 567](https://www.govinfo.gov/link/statute/97/567); [Pub. L. 111–281, title IX, § 902(a)(2)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 3009](https://www.govinfo.gov/link/statute/124/3009).)*

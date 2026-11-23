@@ -3,9 +3,10 @@ title: "Section 412 - Self-employment income credited to calendar years"
 usc_title: 42
 usc_section: "412"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 412"
-generated_at: "2026-03-30T02:56:10.862Z"
+generated_at: "2026-11-23T20:27:20.779Z"
+status: "active"
 ---
 
 # § 412. Self-employment income credited to calendar years
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:10.862Z"
   - **(1)** in the case of a taxable year which is a calendar year or which begins with or during a calendar year and ends with or during such year, be credited to such calendar year; and
   - **(2)** in the case of any other taxable year, be allocated proportionately to the two calendar years, portions of which are included within such taxable year, on the basis of the number of months in each such calendar year which are included completely within the taxable year.
 - **(c)** For the purpose of determining average indexed monthly earnings, average monthly wage, and quarters of coverage in the case of any individual who elects the option described in clause (ii) or (iv) in the matter following section 411(a)(16) of this title for any taxable year that does not begin with or during a particular calendar year and end with or during such year, the self-employment income of such individual deemed to be derived during such taxable year shall be allocated to the two calendar years, portions of which are included within such taxable year, in the same proportion to the total of such deemed self-employment income as the sum of the amounts applicable under section 413(d) of this title for the calendar quarters ending with or within each such calendar year bears to the lower limit for such taxable year specified in section 411(k)(1) of this title .
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title II, § 212, as added Aug. 28, 1950, ch. 809, title I, § 104(a), [64 Stat. 492](https://www.govinfo.gov/link/statute/64/492), 504; amended [Pub. L. 95–216, title III, § 351(b)](https://www.govinfo.gov/link/plaw/95/public/216), Dec. 20, 1977, [91 Stat. 1549](https://www.govinfo.gov/link/statute/91/1549); [Pub. L. 110–234, title XV, § 15352(b)(3)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1526](https://www.govinfo.gov/link/statute/122/1526); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XV, § 15352(b)(3), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2288.)*

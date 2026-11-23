@@ -3,9 +3,10 @@ title: "Section 717c - Rates and charges"
 usc_title: 15
 usc_section: "717c"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 717c"
-generated_at: "2026-03-30T02:54:08.117Z"
+generated_at: "2026-11-23T20:26:03.901Z"
+status: "active"
 ---
 
 # § 717c. Rates and charges
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:08.117Z"
     - **(B)** customers are adequately protected.
   - **(2)** The Commission shall ensure that reasonable terms and conditions are in place to protect consumers.
   - **(3)** If the Commission authorizes a natural gas company to charge market-based rates under this subsection, the Commission shall review periodically whether the market-based rate is just, reasonable, and not unduly discriminatory or preferential.
+
+## Source Credit
+
+*(June 21, 1938, ch. 556, § 4, [52 Stat. 822](https://www.govinfo.gov/link/statute/52/822); [Pub. L. 87–454](https://www.govinfo.gov/link/plaw/87/public/454), May 21, 1962, [76 Stat. 72](https://www.govinfo.gov/link/statute/76/72); [Pub. L. 109–58, title III, § 312](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 688](https://www.govinfo.gov/link/statute/119/688).)*

@@ -3,9 +3,10 @@ title: "Section 823c - Alaska State jurisdiction over small hydroelectric projec
 usc_title: 16
 usc_section: "823c"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 823c"
-generated_at: "2026-03-30T02:54:22.913Z"
+generated_at: "2026-11-23T20:26:20.285Z"
+status: "active"
 ---
 
 # § 823c. Alaska State jurisdiction over small hydroelectric projects
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:54:22.913Z"
   - **(2)** The Commission’s review required by paragraph (1) shall be completed within 1 year of initiation, and the Commission shall within 30 days thereafter issue a final order determining whether or not the State of Alaska’s regulatory program for water-power development complies with the requirements of subsection (a).
   - **(3)** If the Commission fails to issue a final order in accordance with paragraph (2) the State of Alaska’s regulatory program for water-power development shall be deemed to be in compliance with subsection (a).
 - **(j)** If the State of Alaska determines that a recommendation under subsection (a)(3)(C) is inconsistent with paragraphs (1) and (2) of subsection (a), the State of Alaska may decline to adopt all or part of the recommendations in accordance with the procedures established under section 803(j)(2) of this title .
+
+## Source Credit
+
+*(June 10, 1920, ch. 285, pt. I, § 32, as added [Pub. L. 106–469, title V, § 501](https://www.govinfo.gov/link/plaw/106/public/469), Nov. 9, 2000, [114 Stat. 2037](https://www.govinfo.gov/link/statute/114/2037); amended [Pub. L. 109–58, title II, § 244](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 678](https://www.govinfo.gov/link/statute/119/678).)*

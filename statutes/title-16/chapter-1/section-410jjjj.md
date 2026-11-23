@@ -3,9 +3,10 @@ title: "Section 410jjjj - Designation of Pullman National Historical Park"
 usc_title: 16
 usc_section: "410jjjj"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 410jjjj"
-generated_at: "2026-03-30T02:54:22.789Z"
+generated_at: "2026-11-23T20:26:19.819Z"
+status: "active"
 ---
 
 # § 410jjjj. Designation of Pullman National Historical Park
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:54:22.789Z"
     - **(B)** an amount equal to the increase in the value of the project that is attributable to the funds, as determined by the Secretary at the time of the conversion, use, or disposal.
 - **(g)** The Secretary may acquire for inclusion in the historical park any land (including interests in land), buildings, or structures owned by the State of Illinois, or any other political, private, or nonprofit entity by donation, transfer, exchange, or purchase from a willing seller.
 - **(h)** Not later than 3 fiscal years after the date on which funds are first made available to carry out this section, the Secretary shall complete a management plan for the historical park.
+
+## Source Credit
+
+*([Pub. L. 117–328, div. DD, title VI, § 619](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5606](https://www.govinfo.gov/link/statute/136/5606).)*

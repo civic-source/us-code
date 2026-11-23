@@ -3,9 +3,10 @@ title: "Section 3017 - Death benefit"
 usc_title: 38
 usc_section: "3017"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 3017"
-generated_at: "2026-03-30T02:55:53.499Z"
+generated_at: "2026-11-23T20:27:01.808Z"
+status: "active"
 ---
 
 # § 3017. Death benefit
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:55:53.499Z"
     - **(A)** the amount of educational assistance that has been paid to the individual under this chapter before the payment is made under this section; and
     - **(B)** the amount of accrued benefits paid or payable with respect to such individual in connection with this chapter.
 - **(c)** A payment under this section shall be considered to be a benefit under this title and, for purposes of section 3035(b)(1), it shall be considered to be an entitlement earned under this subchapter.
+
+## Source Credit
+
+*(Added [Pub. L. 100–689, title I, § 101(a)](https://www.govinfo.gov/link/plaw/100/public/689), Nov. 18, 1988, [102 Stat. 4161](https://www.govinfo.gov/link/statute/102/4161), § 1417; amended [Pub. L. 101–237, title IV, § 423(a)(3)](https://www.govinfo.gov/link/plaw/101/public/237), (b)(1)(A), Dec. 18, 1989, [103 Stat. 2091](https://www.govinfo.gov/link/statute/103/2091), 2092; renumbered § 3017 and amended [Pub. L. 102–83, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/83), (c)(1), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 102–568, title III, § 308](https://www.govinfo.gov/link/plaw/102/public/568), Oct. 29, 1992, [106 Stat. 4329](https://www.govinfo.gov/link/statute/106/4329); [Pub. L. 104–275, title IV, § 405(c)(2)](https://www.govinfo.gov/link/plaw/104/public/275), Oct. 9, 1996, [110 Stat. 3340](https://www.govinfo.gov/link/statute/110/3340); [Pub. L. 106–419, title I, § 102(a)(2)](https://www.govinfo.gov/link/plaw/106/public/419), Nov. 1, 2000, [114 Stat. 1824](https://www.govinfo.gov/link/statute/114/1824); [Pub. L. 107–14, § 7(d)(1)](https://www.govinfo.gov/link/plaw/107/public/14), June 5, 2001, [115 Stat. 33](https://www.govinfo.gov/link/statute/115/33); [Pub. L. 109–233, title V, § 503(4)](https://www.govinfo.gov/link/plaw/109/public/233), June 15, 2006, [120 Stat. 416](https://www.govinfo.gov/link/statute/120/416).)*

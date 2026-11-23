@@ -3,9 +3,10 @@ title: "Section 1447a - Definitions"
 usc_title: 16
 usc_section: "1447a"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1447a"
-generated_at: "2026-03-30T02:54:22.969Z"
+generated_at: "2026-11-23T20:26:20.490Z"
+status: "active"
 ---
 
 # § 1447a. Definitions
@@ -19,3 +20,7 @@ As used in this chapter, the term—
   - **(5)** “nonprofit organization” means any organization, association, or institution described in section 501(c)(3) of title 26 which is exempt from taxation pursuant to section 501(a) of title 26 ;
   - **(6)** “region” means 1 of the 9 regions described in section 1447b(a) of this title ; and
   - **(7)** “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+
+## Source Credit
+
+*([Pub. L. 92–532, title IV, § 402](https://www.govinfo.gov/link/plaw/92/public/532), as added [Pub. L. 101–593, title III, § 301](https://www.govinfo.gov/link/plaw/101/public/593), Nov. 16, 1990, [104 Stat. 2963](https://www.govinfo.gov/link/statute/104/2963).)*

@@ -3,9 +3,10 @@ title: "Section 1275 - Other definitions and special rules"
 usc_title: 26
 usc_section: "1275"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1275"
-generated_at: "2026-03-30T02:55:27.766Z"
+generated_at: "2026-11-23T20:26:46.072Z"
+status: "active"
 ---
 
 # § 1275. Other definitions and special rules
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:55:27.766Z"
   - **(3)** This subsection shall not apply to any obligation referred to in section 1272(a)(2) (relating to exceptions from current inclusion of original issue discount).
   - **(4)** For civil penalty for failure to meet requirements of this subsection, see section 6706.
 - **(d)** The Secretary may prescribe regulations providing that where, by reason of varying rates of interest, put or call options, indefinite maturities, contingent payments, assumptions of debt instruments, or other circumstances, the tax treatment under this subpart (or section 163(e)) does not carry out the purposes of this subpart (or section 163(e)), such treatment shall be modified to the extent appropriate to carry out the purposes of this subpart (or section 163(e)).
+
+## Source Credit
+
+*(Added and amended [Pub. L. 98–369, div. A, title I](https://www.govinfo.gov/link/plaw/98/public/369), §§ 41(a), 61(c)(2), July 18, 1984, [98 Stat. 540](https://www.govinfo.gov/link/statute/98/540), 581; [Pub. L. 99–514, title XVIII, § 1804(f)(2)(A)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2805](https://www.govinfo.gov/link/statute/100/2805); [Pub. L. 100–647, title I, § 1006(u)(4)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3427](https://www.govinfo.gov/link/statute/102/3427); [Pub. L. 101–508, title XI, § 11325(a)(2)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–466](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 106–554, § 1(a)(7) [title III, § 318(c)(1)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–645.)*

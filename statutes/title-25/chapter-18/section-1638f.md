@@ -3,9 +3,10 @@ title: "Section 1638f - Indian country modular component facilities demonstratio
 usc_title: 25
 usc_section: "1638f"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1638f"
-generated_at: "2026-03-30T02:54:52.823Z"
+generated_at: "2026-11-23T20:26:25.497Z"
+status: "active"
 ---
 
 # § 1638f. Indian country modular component facilities demonstration program
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:52.823Z"
   - **(1)** each activity carried out under the demonstration program, including an evaluation of the success of the activity; and
   - **(2)** the potential benefits of increased use of modular component health care facilities in other Indian communities.
 - **(f)** There are authorized to be appropriated $50,000,000 to carry out the demonstration program under this section for the first 5 fiscal years, and such sums as may be necessary to carry out the program in subsequent fiscal years.
+
+## Source Credit
+
+*([Pub. L. 94–437, title III, § 312](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

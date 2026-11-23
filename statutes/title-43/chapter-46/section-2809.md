@@ -3,9 +3,10 @@ title: "Section 2809 - Limitation on use of Federal funds"
 usc_title: 43
 usc_section: "2809"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 2809"
-generated_at: "2026-03-30T02:55:57.500Z"
+generated_at: "2026-11-23T20:27:06.422Z"
+status: "active"
 ---
 
 # § 2809. Limitation on use of Federal funds
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:57.500Z"
     - **(C)** provide a detailed plan to achieve compliance with the applicable standards established under section 2806 of this title ; and
     - **(D)** provide the date by which the covered agency shall achieve compliance with the applicable standards established under section 2806 of this title .
 - **(e)** During the period beginning on the date on which standards for a National Geospatial Data Asset data theme are established under section 2806 of this title and ending on the implementation date, each covered agency, to the maximum extent practicable, shall collect, produce, acquire, maintain, and disseminate geospatial data within the National Geospatial Data Asset data theme in accordance with the standards.
+
+## Source Credit
+
+*([Pub. L. 115–254, div. B, title VII, § 759A](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3427](https://www.govinfo.gov/link/statute/132/3427).)*

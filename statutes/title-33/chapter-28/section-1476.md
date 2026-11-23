@@ -3,12 +3,17 @@ title: "Section 1476 - Emergencies"
 usc_title: 33
 usc_section: "1476"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1476"
-generated_at: "2026-03-30T02:55:41.107Z"
+generated_at: "2026-11-23T20:26:54.083Z"
+status: "active"
 ---
 
 # § 1476. Emergencies
 
 In cases of extreme urgency requiring measures to be taken immediately, the Secretary may take those measures rendered necessary by the urgency of the situation without the prior consultation or notification as required by section 1475 of this title or without the continuation of consultations already begun.
 
+
+## Source Credit
+
+*([Pub. L. 93–248, § 7](https://www.govinfo.gov/link/plaw/93/public/248), Feb. 5, 1974, [88 Stat. 9](https://www.govinfo.gov/link/statute/88/9).)*

@@ -3,9 +3,10 @@ title: "Section 2032 - Responsibility of the Secretaries of the military departm
 usc_title: 10
 usc_section: "2032"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2032"
-generated_at: "2026-03-30T02:53:38.140Z"
+generated_at: "2026-11-23T20:25:51.443Z"
+status: "active"
 ---
 
 # § 2032. Responsibility of the Secretaries of the military departments to maximize enrollment and enhance efficiency
@@ -15,3 +16,11 @@ generated_at: "2026-03-30T02:53:38.140Z"
   - **(1)** openings of new schools;
   - **(2)** consolidations of schools; and
   - **(3)** the desirability of continuing the opportunity for participation in the Corps by participants whose continued participation would otherwise be adversely affected by new school openings and consolidations of schools.
+
+Coordination
+
+Consideration of New School Openings and Consolidations
+
+## Source Credit
+
+*(Added [Pub. L. 105–85, div. A, title V, § 546(a)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1746](https://www.govinfo.gov/link/statute/111/1746).)*

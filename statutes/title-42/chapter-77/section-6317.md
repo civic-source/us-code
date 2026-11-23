@@ -3,9 +3,10 @@ title: "Section 6317 - Energy conservation standards for high-intensity discharg
 usc_title: 42
 usc_section: "6317"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6317"
-generated_at: "2026-03-30T02:56:11.255Z"
+generated_at: "2026-11-23T20:27:22.654Z"
+status: "active"
 ---
 
 # § 6317. Energy conservation standards for high-intensity discharge lamps, distribution transformers, and small electric motors
@@ -26,3 +27,25 @@ generated_at: "2026-03-30T02:56:11.255Z"
     - **(A)** each such product shall be considered, for purposes of paragraphs (1) and (2) of section 6302(a) of this title , a new covered product to which a rule under section 6294 of this title applies; and
     - **(B)** it shall be unlawful for any manufacturer or private labeler to distribute in commerce any new product for which an energy conservation standard is prescribed under subsection (a)(2) or (b)(2) which is not in conformity with the applicable energy conservation standard.
   - **(2)** For purposes of section 6303(a) of this title , paragraph (1) of this subsection shall be considered to be a part of section 6302 of this title .
+
+Definitions
+
+Qualified energy efficient transformer
+
+Qualified energy inefficient transformer
+
+Qualified entity
+
+Establishment
+
+Requirements
+
+Authorized Amount of Rebate
+
+Authorization of Appropriations
+
+Termination of Effectiveness
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 346](https://www.govinfo.gov/link/plaw/94/public/163), as added [Pub. L. 95–619, title IV, § 441(a)](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3272](https://www.govinfo.gov/link/statute/92/3272); amended [Pub. L. 102–486, title I, § 124(a)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2832](https://www.govinfo.gov/link/statute/106/2832).)*

@@ -3,9 +3,10 @@ title: "Section 5936a - Support for farm stress programs"
 usc_title: 7
 usc_section: "5936a"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 5936a"
-generated_at: "2026-03-30T02:53:42.422Z"
+generated_at: "2026-11-23T20:25:41.673Z"
+status: "active"
 ---
 
 # § 5936a. Support for farm stress programs
@@ -40,3 +41,9 @@ generated_at: "2026-03-30T02:53:42.422Z"
   - **(2)** the District of Columbia;
   - **(3)** the Commonwealth of Puerto Rico; and
   - **(4)** any other territory or possession of the United States.
+
+“In this chapter [chapter 2 (§§ 760–766) of subtitle B of title VII of div. N of Pub. L. 116–260 , enacting this section and sections 217b and 9071a of this title and section 473 of Title 21 , Food and Drugs, and enacting provisions set out as a note under section 9056 of this title ]:
+
+## Source Credit
+
+*([Pub. L. 116–260, div. N, title VII, § 766](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2118](https://www.govinfo.gov/link/statute/134/2118).)*

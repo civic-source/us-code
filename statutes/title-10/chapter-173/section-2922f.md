@@ -3,9 +3,10 @@ title: "Section 2922f - Preference for energy efficient electric equipment"
 usc_title: 10
 usc_section: "2922f"
 chapter: 173
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2922f"
-generated_at: "2026-03-30T02:53:38.187Z"
+generated_at: "2026-11-23T20:25:51.777Z"
+status: "active"
 ---
 
 # § 2922f. Preference for energy efficient electric equipment
@@ -16,3 +17,13 @@ generated_at: "2026-03-30T02:53:38.187Z"
   - **(2)** Electric ballasts.
   - **(3)** Electric motors.
   - **(4)** Electric refrigeration equipment.
+
+Electric Lighting Demonstration Program
+
+Refrigeration Equipment Demonstration Program
+
+General Provisions for Demonstration Programs
+
+## Source Credit
+
+*(Added [Pub. L. 102–484, div. A, title III, § 384(a)(1)(A)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2392](https://www.govinfo.gov/link/statute/106/2392), § 2410c; renumbered § 2922f and amended [Pub. L. 109–364, div. B, title XXVIII, § 2851(b)(2)](https://www.govinfo.gov/link/plaw/109/public/364), (3)(E), Oct. 17, 2006, [120 Stat. 2494](https://www.govinfo.gov/link/statute/120/2494), 2495; [Pub. L. 115–91, div. B, title XXVIII, § 2831(c)(5)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1858](https://www.govinfo.gov/link/statute/131/1858).)*

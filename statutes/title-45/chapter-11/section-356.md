@@ -3,12 +3,17 @@ title: "Section 356 - Returns of compensation; conclusiveness; failure to make"
 usc_title: 45
 usc_section: "356"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 356"
-generated_at: "2026-03-30T02:55:56.549Z"
+generated_at: "2026-11-23T20:27:05.279Z"
+status: "active"
 ---
 
 # § 356. Returns of compensation; conclusiveness; failure to make
 
 Employers shall file with the Board, in such manner and at such times as the Board by regulations may prescribe, returns of compensation of employees, and, if the Board shall so require, shall distribute to employees annual statements of compensation: Provided , That no returns shall be required of employers which would duplicate information contained in similar returns required under any other Act of Congress administered by the Board. The Board’s record of the compensation so returned shall, for the purpose of determining eligibility for and the amount of benefits, be conclusive as to the amount of compensation paid to an employee during the period covered by the return, and the fact that the Board’s records show that no return was made of the compensation claimed to have been paid to an employee during a particular period shall, for the purposes of determining eligibility for and the amount of benefits, be taken as conclusive that no compensation was paid to such employee during that period, unless the error in the amount of compensation in the one case, or failure to make or record return of the compensation in the other case, is called to the attention of the Board within eighteen months after the date on which the last return covering any portion of the calendar year which includes such period is required to have been made.
 
+
+## Source Credit
+
+*(June 25, 1938, ch. 680, § 6, [52 Stat. 1101](https://www.govinfo.gov/link/statute/52/1101); June 20, 1939, ch. 227, § 12, [53 Stat. 847](https://www.govinfo.gov/link/statute/53/847); Oct. 10, 1940, ch. 842, § 21, [54 Stat. 1099](https://www.govinfo.gov/link/statute/54/1099); July 31, 1946, ch. 709, § 317, [60 Stat. 739](https://www.govinfo.gov/link/statute/60/739); [Pub. L. 89–700, title II, § 203](https://www.govinfo.gov/link/plaw/89/public/700), Oct. 30, 1966, [80 Stat. 1087](https://www.govinfo.gov/link/statute/80/1087).)*

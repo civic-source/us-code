@@ -3,12 +3,17 @@ title: "Section 1 - “Maritime transactions” and “commerce” defined; exce
 usc_title: 9
 usc_section: "1"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "9 U.S.C. § 1"
-generated_at: "2026-03-30T02:53:06.638Z"
+generated_at: "2026-11-23T20:25:33.657Z"
+status: "active"
 ---
 
 # § 1. “Maritime transactions” and “commerce” defined; exceptions to operation of title
 
 “Maritime transactions”, as herein defined, means charter parties, bills of lading of water carriers, agreements relating to wharfage, supplies furnished vessels or repairs to vessels, collisions, or any other matters in foreign commerce which, if the subject of controversy, would be embraced within admiralty jurisdiction; “commerce”, as herein defined, means commerce among the several States or with foreign nations, or in any Territory of the United States or in the District of Columbia, or between any such Territory and another, or between any such Territory and any State or foreign nation, or between the District of Columbia and any State or Territory or foreign nation, but nothing herein contained shall apply to contracts of employment of seamen, railroad employees, or any other class of workers engaged in foreign or interstate commerce.
 
+
+## Source Credit
+
+*(July 30, 1947, ch. 392, [61 Stat. 670](https://www.govinfo.gov/link/statute/61/670).)*

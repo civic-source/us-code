@@ -3,9 +3,10 @@ title: "Section 60142 - Pipeline safety enhancement programs"
 usc_title: 49
 usc_section: "60142"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 60142"
-generated_at: "2026-03-30T02:56:19.416Z"
+generated_at: "2026-11-23T20:27:35.432Z"
+status: "active"
 ---
 
 # § 60142. Pipeline safety enhancement programs
@@ -82,3 +83,75 @@ generated_at: "2026-03-30T02:56:19.416Z"
 - **(l)** If a report under subsection (k) indicates that it is practicable to establish technically, operationally, and economically feasible standards for the use of a safety-enhancing technology and any corresponding operational practices tested by the testing program described in the report, the Secretary, as soon as practicable after submission of the report, may promulgate regulations consistent with chapter 5 of title 5 (commonly known as the “Administrative Procedure Act”) that—
   - **(1)** allow operators of interstate gas or hazardous liquid pipeline facilities to use the relevant technology or practice to the extent practicable; and
   - **(2)** establish technically, operationally, and economically feasible standards for the capability and deployment of the technology or practice.
+
+In General
+
+Limitations.—
+
+In general
+
+Operator mileage limitation
+
+Prohibited areas
+
+High consequence areas for hazardous liquid pipelines.—
+
+In general
+
+Contents of report
+
+Duration.—
+
+In general
+
+Requirement
+
+Safety Standards.—
+
+In general
+
+Determination.—
+
+In general
+
+Limitation
+
+Increased safety capabilities
+
+Considerations
+
+Data and Findings.—
+
+In general
+
+Public report
+
+Authority to Revoke Participation
+
+Authority to Terminate Program
+
+State Rights.—
+
+Exemption
+
+Limitations.—
+
+In general
+
+Late notice
+
+Effect
+
+Program Review Process and Public Notice.—
+
+In general
+
+Response from secretary
+
+Report to Congress
+
+Standards
+
+## Source Credit
+
+*(Added [Pub. L. 116–260, div. R, title I, § 104(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2216](https://www.govinfo.gov/link/statute/134/2216).)*

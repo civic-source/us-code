@@ -3,9 +3,10 @@ title: "Section 1437 - Enforcement"
 usc_title: 16
 usc_section: "1437"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1437"
-generated_at: "2026-03-30T02:54:22.968Z"
+generated_at: "2026-11-23T20:26:20.486Z"
+status: "active"
 ---
 
 # § 1437. Enforcement
@@ -50,3 +51,9 @@ generated_at: "2026-03-30T02:54:22.968Z"
 - **(j)** If the Secretary determines that there is an imminent risk of destruction or loss of or injury to a sanctuary resource, or that there has been actual destruction or loss of, or injury to, a sanctuary resource which may give rise to liability under section 1443 of this title , the Attorney General, upon request of the Secretary, shall seek to obtain such relief as may be necessary to abate such risk or actual destruction, loss, or injury, or to restore or replace the sanctuary resource, or both. The district courts of the United States shall have jurisdiction in such a case to order such relief as the public interest and the equities of the case may require.
 - **(k)** The area of application and enforceability of this chapter includes the territorial sea of the United States, as described in Presidential Proclamation 5928 of December 27, 1988 , which is subject to the sovereignty of the United States, and the United States exclusive economic zone, consistent with international law.
 - **(l)** In any action by the United States under this chapter, process may be served in any district where the defendant is found, resides, transacts business, or has appointed an agent for the service of process.
+
+In general
+
+## Source Credit
+
+*([Pub. L. 92–532, title III, § 307](https://www.govinfo.gov/link/plaw/92/public/532), as added [Pub. L. 98–498, title I, § 102](https://www.govinfo.gov/link/plaw/98/public/498), Oct. 19, 1984, [98 Stat. 2302](https://www.govinfo.gov/link/statute/98/2302); amended [Pub. L. 100–627, title II, § 207](https://www.govinfo.gov/link/plaw/100/public/627), Nov. 7, 1988, [102 Stat. 3219](https://www.govinfo.gov/link/statute/102/3219); [Pub. L. 102–587, title II, § 2107(a)](https://www.govinfo.gov/link/plaw/102/public/587) –(c), (e), Nov. 4, 1992, [106 Stat. 5043](https://www.govinfo.gov/link/statute/106/5043), 5044; [Pub. L. 104–283, § 9(c)](https://www.govinfo.gov/link/plaw/104/public/283), Oct. 11, 1996, [110 Stat. 3367](https://www.govinfo.gov/link/statute/110/3367); [Pub. L. 106–513, § 8](https://www.govinfo.gov/link/plaw/106/public/513), Nov. 13, 2000, [114 Stat. 2387](https://www.govinfo.gov/link/statute/114/2387).)*

@@ -3,9 +3,10 @@ title: "Section 3768 - Deficiency judgment"
 usc_title: 12
 usc_section: "3768"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 3768"
-generated_at: "2026-03-30T02:53:53.498Z"
+generated_at: "2026-11-23T20:25:59.351Z"
+status: "active"
 ---
 
 # § 3768. Deficiency judgment
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:53.498Z"
     - **(A)** any amount authorized by section 3011 of title 28 ; and
     - **(B)** the costs of the action.
 - **(b)** Any action commenced to recover a deficiency under this section must be brought not later than 6 years after the date of the last sale of the security property.
+
+## Source Credit
+
+*([Pub. L. 103–327, title II](https://www.govinfo.gov/link/plaw/103/public/327), Sept. 28, 1994, [108 Stat. 2316](https://www.govinfo.gov/link/statute/108/2316).)*

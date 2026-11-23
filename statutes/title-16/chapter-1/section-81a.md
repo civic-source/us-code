@@ -3,9 +3,10 @@ title: "Section 81a - Transfer of land to Anza-Borrego Desert State Park"
 usc_title: 16
 usc_section: "81a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 81a"
-generated_at: "2026-03-30T02:54:22.774Z"
+generated_at: "2026-11-23T20:26:19.509Z"
+status: "active"
 ---
 
 # § 410aaa–81a. Transfer of land to Anza-Borrego Desert State Park
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:22.774Z"
     - **(B)** location, entry, and patent under the mining laws; and
     - **(C)** disposition under all laws relating to mineral and geothermal leasing.
   - **(3)** If the State ceases to manage the land transferred under subsection (a) as part of the State Park System or in a manner inconsistent with the California Wilderness Act (California Public Resources Code sections 5093.30–5093.40), the land shall revert to the Secretary at the discretion of the Secretary, to be managed as a Wilderness Study Area.
+
+## Source Credit
+
+*([Pub. L. 103–433, title VII, § 712](https://www.govinfo.gov/link/plaw/103/public/433), as added [Pub. L. 116–9, title I, § 1451](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 710](https://www.govinfo.gov/link/statute/133/710).)*

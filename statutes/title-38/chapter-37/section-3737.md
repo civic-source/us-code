@@ -3,9 +3,10 @@ title: "Section 3737 - Partial Claim Program"
 usc_title: 38
 usc_section: "3737"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 3737"
-generated_at: "2026-03-30T02:55:53.514Z"
+generated_at: "2026-11-23T20:27:01.911Z"
+status: "active"
 ---
 
 # § 3737. Partial Claim Program
@@ -51,3 +52,27 @@ generated_at: "2026-03-30T02:55:53.514Z"
 - **(h)** Notwithstanding any other provision of law, the Secretary may, before prescribing regulations, issue administrative guidance with respect to the Partial Claim Program under this section and the loss mitigation options prescribed under section 3732(d) of this title , including any additional terms, conditions, and requirements the Secretary determines necessary.
 - **(i)** Nothing in this section shall be construed to limit the authority of the Secretary under subsections (a) and (d) of section 3732 of this title .
 - **(j)** The Secretary may not make a partial claim under this section after the date that is five years after the date of the enactment of this section.
+
+Establishment
+
+Partial Claim Described
+
+Administration of Partial Claim
+
+Requirements of Loan Holder
+
+Default and Foreclosure
+
+Decisions by the Secretary
+
+Compliance
+
+Guidance in Advance of Regulations
+
+Rule of Construction
+
+Termination
+
+## Source Credit
+
+*(Added [Pub. L. 119–31, § 3(a)](https://www.govinfo.gov/link/plaw/119/public/31), July 30, 2025, [139 Stat. 476](https://www.govinfo.gov/link/statute/139/476); amended [Pub. L. 119–37, div. G, title III, § 7307(b)](https://www.govinfo.gov/link/plaw/119/public/37) —(e), Nov. 12, 2025, [139 Stat. 651](https://www.govinfo.gov/link/statute/139/651), 652.)*

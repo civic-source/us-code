@@ -3,9 +3,10 @@ title: "Section 16517 - Energy infrastructure reinvestment financing"
 usc_title: 42
 usc_section: "16517"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16517"
-generated_at: "2026-03-30T02:56:11.488Z"
+generated_at: "2026-11-23T20:27:23.695Z"
+status: "active"
 ---
 
 # § 16517. Energy infrastructure reinvestment financing
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.488Z"
 - **(f)**
   - **(1)** In addition to amounts otherwise available, there is appropriated to the Secretary for fiscal year 2025, out of any money in the Treasury not otherwise appropriated, $1,000,000,000, to remain available through September 30, 2028 , to carry out activities under this section.
   - **(2)** Of the amount made available under paragraph (1), the Secretary shall use not more than 3 percent for administrative expenses.
+
+## Source Credit
+
+*([Pub. L. 109–58, title XVII, § 1706](https://www.govinfo.gov/link/plaw/109/public/58), as added [Pub. L. 117–169, title V, § 50144(c)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 2045](https://www.govinfo.gov/link/statute/136/2045); amended [Pub. L. 119–21, title V, § 50403(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 152](https://www.govinfo.gov/link/statute/139/152).)*

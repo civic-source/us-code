@@ -3,9 +3,10 @@ title: "Section 9097 - Minimum air service guarantees"
 usc_title: 15
 usc_section: "9097"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 9097"
-generated_at: "2026-03-30T02:54:08.244Z"
+generated_at: "2026-11-23T20:26:04.557Z"
+status: "active"
 ---
 
 # § 9097. Minimum air service guarantees
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:08.244Z"
   - **(3)** The demographic, geographic, economic, and other characteristics of an area and affected communities when determining whether consolidated operations at a single airport effectively serve the needs of the point.
   - **(4)** Maintaining a robust air transportation system, including maintaining air service to airports throughout the United States, plays an important role in the effective distribution of a coronavirus vaccine.
   - **(5)** The objections from community respondents on whether a specific airport should or should not be included in a consolidated point, including those objections noting the importance of the required considerations set forth in subsection (b).
+
+## Source Credit
+
+*([Pub. L. 116–260, div. N, title IV, § 407](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2058](https://www.govinfo.gov/link/statute/134/2058).)*

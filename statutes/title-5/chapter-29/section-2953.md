@@ -3,9 +3,10 @@ title: "Section 2953 - Reports to Congress on additional employee requirements"
 usc_title: 5
 usc_section: "2953"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 2953"
-generated_at: "2026-03-30T02:52:55.999Z"
+generated_at: "2026-11-23T20:25:31.793Z"
+status: "active"
 ---
 
 # § 2953. Reports to Congress on additional employee requirements
@@ -23,3 +24,22 @@ generated_at: "2026-03-30T02:52:55.999Z"
   - **(1)** the Central Intelligence Agency;
   - **(2)** a Government controlled corporation; or
   - **(3)** the Government Accountability Office.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 642a . | Jan. 16, 1883, ch. 27, § 11 ; added July 25, 1956, ch. 730, § 1 , 70 Stat. 652 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 642a
+
+Jan. 16, 1883, ch. 27, § 11
+
+July 25, 1956, ch. 730, § 1
+
+70 Stat. 652
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 413](https://www.govinfo.gov/link/statute/80/413); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814).)*

@@ -3,9 +3,10 @@ title: "Section 3001 - Definitions"
 usc_title: 25
 usc_section: "3001"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3001"
-generated_at: "2026-03-30T02:54:52.845Z"
+generated_at: "2026-11-23T20:26:25.622Z"
+status: "active"
 ---
 
 # § 3001. Definitions
@@ -37,3 +38,7 @@ For purposes of this chapter, the term—
     - **(A)** all lands within the exterior boundaries of any Indian reservation;
     - **(B)** all dependent Indian communities; 2 2 So in original. Probably should be followed by “and”.
     - **(C)** any lands administered for the benefit of Native Hawaiians pursuant to the Hawaiian Homes Commission Act, 1920, and section 4 of Public Law 86–3 .
+
+## Source Credit
+
+*([Pub. L. 101–601, § 2](https://www.govinfo.gov/link/plaw/101/public/601), Nov. 16, 1990, [104 Stat. 3048](https://www.govinfo.gov/link/statute/104/3048); [Pub. L. 102–572, title IX, § 902(b)(1)](https://www.govinfo.gov/link/plaw/102/public/572), Oct. 29, 1992, [106 Stat. 4516](https://www.govinfo.gov/link/statute/106/4516).)*

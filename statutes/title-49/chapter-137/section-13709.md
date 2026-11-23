@@ -3,9 +3,10 @@ title: "Section 13709 - Procedures for resolving claims involving unfiled, negot
 usc_title: 49
 usc_section: "13709"
 chapter: 137
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 13709"
-generated_at: "2026-03-30T02:56:19.329Z"
+generated_at: "2026-11-23T20:27:34.744Z"
+status: "active"
 ---
 
 # § 13709. Procedures for resolving claims involving unfiled, negotiated transportation rates
@@ -41,3 +42,45 @@ generated_at: "2026-03-30T02:56:19.329Z"
     - **(B)** if such person is an organization which is described in section 501(c)(3) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such Code, or
     - **(C)** if the cargo involved in the claim is recyclable materials.
   - **(2)** In this subsection, the term “recyclable materials” means waste products for recycling or reuse in the furtherance of recognized pollution control programs.
+
+Transportation Provided at Rates Other Than Legal Tariff Rates.—
+
+In general
+
+Forum
+
+Effect of satisfaction of claims
+
+Claims Involving Shipments Weighing
+
+Pounds or Less
+
+Claims Involving Shipments Weighing More Than
+
+Pounds
+
+Claims Involving Public Warehousemen
+
+Effects of Election
+
+Stay of Additional Compensation
+
+Notification of Election.—
+
+General rule
+
+Demands for payment initially made after december 3, 1993
+
+Pending suits for collection made before december 4, 1993
+
+Demands for payment made before december 4, 1993
+
+Claims Involving Small-Business Concerns, Charitable Organizations, and Re­cyclable Materials.—
+
+In general
+
+Recyclable materials defined
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 874](https://www.govinfo.gov/link/statute/109/874); amended [Pub. L. 104–287, § 5(29)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3391](https://www.govinfo.gov/link/statute/110/3391).)*

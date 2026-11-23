@@ -3,9 +3,10 @@ title: "Section 1736o - Food for progress"
 usc_title: 7
 usc_section: "1736o"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1736o"
-generated_at: "2026-03-30T02:53:42.340Z"
+generated_at: "2026-11-23T20:25:41.290Z"
+status: "active"
 ---
 
 # § 1736o. Food for progress
@@ -116,3 +117,13 @@ generated_at: "2026-03-30T02:53:42.340Z"
     - **(C)** the number of direct and indirect beneficiaries of those activities; and
     - **(D)** the effectiveness of the pilot agreements, including as applicable the impact on food security and agricultural productivity.
   - **(3)** There is authorized to be appropriated to carry out pilot agreements pursuant to this subsection $10,000,000 for each of fiscal years 2019 through 2023.
+
+No effect on domestic programs
+
+Sale procedure
+
+Humanitarian or development purposes
+
+## Source Credit
+
+*([Pub. L. 99–198, title XI, § 1110](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1472](https://www.govinfo.gov/link/statute/99/1472); [Pub. L. 100–418, title IV, § 4303](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1397](https://www.govinfo.gov/link/statute/102/1397); [Pub. L. 101–624, title XV](https://www.govinfo.gov/link/plaw/101/public/624), §§ 1516, 1572(1), Nov. 28, 1990, [104 Stat. 3663](https://www.govinfo.gov/link/statute/104/3663), 3702; [Pub. L. 102–237, title III, § 335](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1859](https://www.govinfo.gov/link/statute/105/1859); [Pub. L. 102–511, title VII, § 701](https://www.govinfo.gov/link/plaw/102/public/511), Oct. 24, 1992, [106 Stat. 3348](https://www.govinfo.gov/link/statute/106/3348); [Pub. L. 104–127, title II](https://www.govinfo.gov/link/plaw/104/public/127), §§ 227, 265(b), Apr. 4, 1996, [110 Stat. 962](https://www.govinfo.gov/link/statute/110/962), 974; [Pub. L. 105–277, div. A, § 101(a) [title XI, § 1125]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681](https://www.govinfo.gov/link/statute/112/2681), 2681–45; [Pub. L. 107–171, title III](https://www.govinfo.gov/link/plaw/107/public/171), §§ 3009(b)(2), 3106, May 13, 2002, [116 Stat. 283](https://www.govinfo.gov/link/statute/116/283), 291; [Pub. L. 108–7, div. A, title VII, § 745](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 44](https://www.govinfo.gov/link/statute/117/44); [Pub. L. 110–246, title III](https://www.govinfo.gov/link/plaw/110/public/246), §§ 3001(b)(1)(A), (2)(F), 3014(b)(2), 3105, June 18, 2008, [122 Stat. 1820](https://www.govinfo.gov/link/statute/122/1820), 1826, 1833; [Pub. L. 113–79, title III, § 3201](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 779](https://www.govinfo.gov/link/statute/128/779); [Pub. L. 115–334, title III, § 3302](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4617](https://www.govinfo.gov/link/statute/132/4617).)*

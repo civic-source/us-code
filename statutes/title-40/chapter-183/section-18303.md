@@ -3,9 +3,10 @@ title: "Section 18303 - Standards for arbitrators"
 usc_title: 40
 usc_section: "18303"
 chapter: 183
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 18303"
-generated_at: "2026-03-30T02:55:43.390Z"
+generated_at: "2026-11-23T20:26:56.728Z"
+status: "active"
 ---
 
 # § 18303. Standards for arbitrators
@@ -29,3 +30,40 @@ generated_at: "2026-03-30T02:55:43.390Z"
   - **(1)** In resolving a dispute submitted to arbitration involving the employees of an interstate compact agency operating in the national capital area, the arbitrator shall issue a written award that demonstrates that all the factors set forth in subsections (b) and (c) have been considered and applied.
   - **(2)** An award may grant an increase in pay rates or benefits (including insurance and pension benefits), or reduce hours of work, only if the arbitrator concludes that any costs to the agency do not adversely affect the public welfare.
   - **(3)** The arbitrator’s conclusion regarding the public welfare must be supported by substantial evidence.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 18303(a) | 40:1302(6). | Pub. L. 104–50, title IV , §§ 403(3), (6), 404, Nov. 15, 1995 , 109 Stat. 464 . |
+| 18303(b)–(d) | 40:1302(3). |  |
+|  | 40:1303. |  |
+
+
+Definition
+
+Factors in Making Arbitration Award
+
+Ability To Finance Salaries and Benefits Provided in Award
+
+Requirements for Final Award.—
+
+Written award
+
+Prerequisites
+
+Substantial evidence
+
+Historical and Revision Notes
+
+18303(a)
+
+Pub. L. 104–50, title IV
+
+Nov. 15, 1995
+
+109 Stat. 464
+
+18303(b)–(d)
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1292](https://www.govinfo.gov/link/statute/116/1292).)*

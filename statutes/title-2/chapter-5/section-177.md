@@ -3,9 +3,10 @@ title: "Section 177 - Poet Laureate Consultant in Poetry"
 usc_title: 2
 usc_section: "177"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 177"
-generated_at: "2026-03-30T02:53:04.791Z"
+generated_at: "2026-11-23T20:25:28.854Z"
+status: "active"
 ---
 
 # § 177. Poet Laureate Consultant in Poetry
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:04.791Z"
 - **(c)**
   - **(1)** The Chairperson of the National Endowment for the Arts, with the advice of the National Council on the Arts, shall annually sponsor a program at which the Poet Laureate Consultant in Poetry will present a major work or the work of other distinguished poets.
   - **(2)** There are authorized to be appropriated to the National Endowment for the Arts $10,000 for the fiscal year 1987 and for each succeeding fiscal year ending prior to October 1, 1990 , for the purpose of carrying out this subsection.
+
+## Source Credit
+
+*([Pub. L. 99–194, title VI, § 601](https://www.govinfo.gov/link/plaw/99/public/194), Dec. 20, 1985, [99 Stat. 1347](https://www.govinfo.gov/link/statute/99/1347).)*

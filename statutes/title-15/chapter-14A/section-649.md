@@ -3,9 +3,10 @@ title: "Section 649 - Office of International Trade"
 usc_title: 15
 usc_section: "649"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 649"
-generated_at: "2026-03-30T02:54:08.103Z"
+generated_at: "2026-11-23T20:26:03.818Z"
+status: "active"
 ---
 
 # § 649. Office of International Trade
@@ -212,3 +213,11 @@ generated_at: "2026-03-30T02:54:08.103Z"
   - **(2)** the term “Export Assistance Center” means a one-stop shop for United States exporters established by the United States and Foreign Commercial Service of the Department of Commerce pursuant to section 4721(b)(8) of this title ;
   - **(3)** the term “export finance specialist” means a full-time equivalent employee of the Office assigned to an Export Assistance Center to carry out the duties described in subsection (e); and
   - **(4)** the term “Office” means the Office of International Trade established under subsection (a)(1).
+
+Study and report
+
+Definition
+
+## Source Credit
+
+*([Pub. L. 85–536, § 2[22]](https://www.govinfo.gov/link/plaw/85/public/536), as added [Pub. L. 96–481, title I, § 113(a)](https://www.govinfo.gov/link/plaw/96/public/481), Oct. 21, 1980, [94 Stat. 2323](https://www.govinfo.gov/link/statute/94/2323); amended [Pub. L. 100–418, title VIII, § 8003](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1554](https://www.govinfo.gov/link/statute/102/1554); [Pub. L. 111–240, title I](https://www.govinfo.gov/link/plaw/111/public/240), §§ 1203(a), (c), 1204(a), 1205(a), Sept. 27, 2010, [124 Stat. 2521](https://www.govinfo.gov/link/statute/124/2521), 2522, 2527; [Pub. L. 114–125, title V, § 503](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 174](https://www.govinfo.gov/link/statute/130/174); [Pub. L. 115–254, div. F, title VI, § 1470(c)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3516](https://www.govinfo.gov/link/statute/132/3516).)*

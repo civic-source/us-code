@@ -3,9 +3,10 @@ title: "Section 142d - Disbursing officer of the Library of Congress; disburseme
 usc_title: 2
 usc_section: "142d"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 142d"
-generated_at: "2026-03-30T02:53:04.788Z"
+generated_at: "2026-11-23T20:25:28.844Z"
+status: "active"
 ---
 
 # § 142d. Disbursing officer of the Library of Congress; disbursements in accordance with voucher; examination of vouchers; liability
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:04.788Z"
   - **(2)** make such examination of vouchers as may be necessary to ascertain whether they are in proper form, and duly certified and approved; and
   - **(3)** be held accountable accordingly: Provided , That the disbursing officer shall not be held accountable or responsible for any illegal, improper, or incorrect payment resulting from any false, inaccurate, or misleading certificate, the responsibility for which, under section 142b of this title , is imposed upon a certifying officer or employee of the Library of Congress.
 
+
+## Source Credit
+
+*([Pub. L. 85–53, § 3](https://www.govinfo.gov/link/plaw/85/public/53), June 13, 1957, [71 Stat. 81](https://www.govinfo.gov/link/statute/71/81).)*

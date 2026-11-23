@@ -3,9 +3,10 @@ title: "Section 51 - Definitions"
 usc_title: 21
 usc_section: "51"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 51"
-generated_at: "2026-03-30T02:54:54.272Z"
+generated_at: "2026-11-23T20:26:27.741Z"
+status: "active"
 ---
 
 # § 379j–51. Definitions
@@ -62,3 +63,11 @@ For purposes of this subpart:
       - **(iv)** Implementing and enforcing section 355( o ) of this title (relating to postapproval studies and clinical trials and labeling changes) and section 355(p) of this title (relating to risk evaluation and mitigation strategies).
       - **(v)** Carrying out section 355(k)(5) of this title (relating to adverse-event reports and postmarket safety activities).
   - **(14)** The term “supplement” means a request to the Secretary to approve a change in a biosimilar biological product application which has been approved, including a supplement requesting that the Secretary determine that the biosimilar biological product meets the standards for interchangeability described in section 262(k)(4) of title 42 .
+
+In General
+
+Exception
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 744G, as added [Pub. L. 112–144, title IV, § 402](https://www.govinfo.gov/link/plaw/112/public/144), July 9, 2012, [126 Stat. 1026](https://www.govinfo.gov/link/statute/126/1026); amended [Pub. L. 115–52, title IV, § 402](https://www.govinfo.gov/link/plaw/115/public/52), Aug. 18, 2017, [131 Stat. 1028](https://www.govinfo.gov/link/statute/131/1028); [Pub. L. 117–180, div. F, title IV, § 4002](https://www.govinfo.gov/link/plaw/117/public/180), Sept. 30, 2022, [136 Stat. 2160](https://www.govinfo.gov/link/statute/136/2160).)*

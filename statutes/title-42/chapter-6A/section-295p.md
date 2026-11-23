@@ -3,9 +3,10 @@ title: "Section 295p - Definitions"
 usc_title: 42
 usc_section: "295p"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 295p"
-generated_at: "2026-03-30T02:56:10.781Z"
+generated_at: "2026-11-23T20:27:20.403Z"
+status: "active"
 ---
 
 # § 295p. Definitions
@@ -67,3 +68,39 @@ For purposes of this subchapter:
   - **(24)** The term “paraprofessional child and adolescent mental health worker” means an individual who is not a mental or behavioral health service professional, but who works at the first stage of contact with children and families who are seeking mental or behavioral health services, including substance abuse prevention and treatment services.
   - **(25)** The terms “racial and ethnic minority group” and “racial and ethnic minority population” have the meaning given the term “racial and ethnic minority group” in section 300u–6 of this title .
   - **(26)** The term “rural health clinic” has the meaning given that term in section 1395x(aa) of this title .
+
+Physician assistant education program
+
+Area health education center
+
+Area health education center program
+
+Clinical social worker
+
+Cultural competency
+
+Direct care worker
+
+Federally qualified health center
+
+Frontier health professional shortage area
+
+Graduate psychology
+
+Health disparity population
+
+Health literacy
+
+Mental health service professional
+
+One-stop delivery system center
+
+Paraprofessional child and adolescent mental health worker
+
+Racial and ethnic minority group; racial and ethnic minority population
+
+Rural health clinic
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 799B, formerly § 799, as added [Pub. L. 102–408, title I, § 102](https://www.govinfo.gov/link/plaw/102/public/408), Oct. 13, 1992, [106 Stat. 2066](https://www.govinfo.gov/link/statute/106/2066); renumbered § 799B and amended [Pub. L. 105–392, title I](https://www.govinfo.gov/link/plaw/105/public/392), §§ 106(a)(2)(E), 108, Nov. 13, 1998, [112 Stat. 3557](https://www.govinfo.gov/link/statute/112/3557), 3560; [Pub. L. 107–251, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/107/public/251), Oct. 26, 2002, [116 Stat. 1664](https://www.govinfo.gov/link/statute/116/1664); [Pub. L. 111–148, title V, § 5002(b)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 590](https://www.govinfo.gov/link/statute/124/590); [Pub. L. 113–128, title V, § 512(z)(3)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1716](https://www.govinfo.gov/link/statute/128/1716).)*

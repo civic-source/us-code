@@ -3,9 +3,10 @@ title: "Section 719 - Comptroller General reports"
 usc_title: 31
 usc_section: "719"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 719"
-generated_at: "2026-03-30T02:55:34.047Z"
+generated_at: "2026-11-23T20:26:51.683Z"
+status: "active"
 ---
 
 # § 719. Comptroller General reports
@@ -44,3 +45,114 @@ generated_at: "2026-03-30T02:55:34.047Z"
 - **(h)** On request of a committee of Congress, the Comptroller General shall explain to and discuss with the committee or committee staff a report the Comptroller General makes that would help the committee—
   - **(1)** evaluate a program or activity of an agency within the jurisdiction of the committee; or
   - **(2)** in its consideration of proposed legislation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 719(a) | 31:53(a)(1st sentence words after 5th comma). | June 10, 1921, ch. 18, § 312(a) (1st sentence words after 5th comma, last sentence), (c)–(e), 42 Stat. 25 . |
+| 719(b)(1) (A) | 31:1154(e). | Oct. 26, 1970 , Pub. L. 91–510, § 204(e) , 84 Stat. 1168 ; restated July 12, 1974 , Pub. L. 93–344, § 702(a) , 88 Stat. 326 . |
+| 719(b)(1) (B) | 31:1155(b). | Oct. 26, 1970 , Pub. L. 91–510 , §§ 205(b), 207, 231–234, 235(b), 84 Stat. 1168 , 1170, 1171. |
+| 719(b)(1) (C) | 31:1175(b). |  |
+| 719(b)(2) | 31:53(a)(last sentence). |  |
+| 719(c)(1) | 31:53(c). |  |
+| 719(c)(2) | 31:53(d). |  |
+| 719(c)(3) | 31:67(d)(4)(1st sentence). | Sept. 12, 1950, ch. 946 , 64 Stat. 832 , § 117(d)(4); added Oct. 7, 1977 , Pub. L. 95–125 , 91 Stat. 1105 . |
+|  | 31:67(e)(6)(A). | Sept. 12, 1950, ch. 946 , 64 Stat. 832 , § 117(e)(6)(A); added July 21, 1978 , Pub. L. 95–320, § 2 , 92 Stat. 392 . |
+| 719(d) | 31:67(d)(4)(last sentence). |  |
+| 719(e) | 31:60(last sentence). | Aug. 2, 1946, ch. 753, § 206 (last sentence), 60 Stat. 837 . |
+| 719(f) | 31:53(e). |  |
+| 719(g) | 31:1157. |  |
+|  | 31:1172. |  |
+|  | 31:1173. |  |
+| 719(h) | 31:1174. |  |
+| 719(i) | 31:1171. |  |
+
+
+Historical and Revision Notes
+
+719(a)
+
+June 10, 1921, ch. 18, § 312(a)
+
+42 Stat. 25
+
+Oct. 26, 1970
+
+Pub. L. 91–510, § 204(e)
+
+84 Stat. 1168
+
+July 12, 1974
+
+Pub. L. 93–344, § 702(a)
+
+88 Stat. 326
+
+Oct. 26, 1970
+
+Pub. L. 91–510
+
+84 Stat. 1168
+
+719(b)(2)
+
+719(c)(1)
+
+719(c)(2)
+
+719(c)(3)
+
+Sept. 12, 1950, ch. 946
+
+64 Stat. 832
+
+Oct. 7, 1977
+
+Pub. L. 95–125
+
+91 Stat. 1105
+
+Sept. 12, 1950, ch. 946
+
+64 Stat. 832
+
+July 21, 1978
+
+Pub. L. 95–320, § 2
+
+92 Stat. 392
+
+719(d)
+
+719(e)
+
+Aug. 2, 1946, ch. 753, § 206
+
+60 Stat. 837
+
+719(f)
+
+719(g)
+
+719(h)
+
+719(i)
+
+In General
+
+Rule of Construction
+
+Annual Reports
+
+Final Report
+
+Additional Reporting
+
+Annual Reports
+
+Three-Year Assessment
+
+Preference Eligible Defined
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 894](https://www.govinfo.gov/link/statute/96/894); [Pub. L. 104–316, title I, § 115(b)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3834](https://www.govinfo.gov/link/statute/110/3834); [Pub. L. 105–85, div. A, title X, § 1044](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1887](https://www.govinfo.gov/link/statute/111/1887); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 113–188, title IX, § 902(b)](https://www.govinfo.gov/link/plaw/113/public/188), Nov. 26, 2014, [128 Stat. 2021](https://www.govinfo.gov/link/statute/128/2021).)*

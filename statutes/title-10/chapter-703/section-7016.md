@@ -3,9 +3,10 @@ title: "Section 7016 - Assistant Secretaries of the Army"
 usc_title: 10
 usc_section: "7016"
 chapter: 703
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 7016"
-generated_at: "2026-03-30T02:53:38.228Z"
+generated_at: "2026-11-23T20:25:52.036Z"
+status: "active"
 ---
 
 # § 7016. Assistant Secretaries of the Army
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:38.228Z"
   - **(6)**
     - **(A)** One of the Assistant Secretaries shall be the Assistant Secretary for Energy, Installations, and Environment.
     - **(B)** The principal duty of the Assistant Secretary for Energy, Installations, and Environment shall be the overall supervision of energy, installation, and environment matters for the Department of the Army.
+
+## Source Credit
+
+*(Added [Pub. L. 99–433, title V, § 501(a)(5)](https://www.govinfo.gov/link/plaw/99/public/433), Oct. 1, 1986, [100 Stat. 1038](https://www.govinfo.gov/link/statute/100/1038), § 3016; amended [Pub. L. 100–456, div. A, title VII, § 702(a)(1)](https://www.govinfo.gov/link/plaw/100/public/456), Sept. 29, 1988, [102 Stat. 1992](https://www.govinfo.gov/link/statute/102/1992); [Pub. L. 110–181, div. A, title IX, § 908(a)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 278](https://www.govinfo.gov/link/statute/122/278); [Pub. L. 114–328, div. A, title VIII, § 802(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2249](https://www.govinfo.gov/link/statute/130/2249); [Pub. L. 115–91, div. A, title V, § 505](https://www.govinfo.gov/link/plaw/115/public/91), title IX, § 921(a), Dec. 12, 2017, [131 Stat. 1374](https://www.govinfo.gov/link/statute/131/1374), 1524; renumbered § 7016, [Pub. L. 115–232, div. A, title VIII, § 808(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1838](https://www.govinfo.gov/link/statute/132/1838); [Pub. L. 116–92, div. A, title VIII, § 861(j)(14)](https://www.govinfo.gov/link/plaw/116/public/92), title IX, § 911(a), title XVII, § 1731(a)(64), Dec. 20, 2019, [133 Stat. 1520](https://www.govinfo.gov/link/statute/133/1520), 1559, 1816.)*

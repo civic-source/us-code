@@ -3,12 +3,17 @@ title: "Section 2103 - Supervision and maintenance of Old Senate Chamber"
 usc_title: 2
 usc_section: "2103"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 2103"
-generated_at: "2026-03-30T02:53:04.824Z"
+generated_at: "2026-11-23T20:25:29.012Z"
+status: "active"
 ---
 
 # § 2103. Supervision and maintenance of Old Senate Chamber
 
 The Commission shall have responsibility for the supervision and maintenance of the Old Senate Chamber on the principal floor of the Senate wing of the Capitol and of the Old Supreme Court Chamber insofar as each is to be preserved as a patriotic shrine in the Capitol for the benefit of the people of the United States.
 
+
+## Source Credit
+
+*([Pub. L. 100–696, title IX, § 901(a)](https://www.govinfo.gov/link/plaw/100/public/696), Nov. 18, 1988, [102 Stat. 4610](https://www.govinfo.gov/link/statute/102/4610); [Pub. L. 107–68, title I, § 108(a)](https://www.govinfo.gov/link/plaw/107/public/68), Nov. 12, 2001, [115 Stat. 569](https://www.govinfo.gov/link/statute/115/569).)*

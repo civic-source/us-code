@@ -3,9 +3,10 @@ title: "Section 3343 - Transition provisions"
 usc_title: 29
 usc_section: "3343"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3343"
-generated_at: "2026-03-30T02:55:18.763Z"
+generated_at: "2026-11-23T20:26:38.152Z"
+status: "active"
 ---
 
 # § 3343. Transition provisions
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:18.763Z"
 - **(g)**
   - **(1)** Subject to paragraph (2) and in accordance with regulations developed under subsection (f), States, grant recipients, administrative entities, and other recipients of financial assistance under the Workforce Investment Act of 1998 may expend funds received under such Act in order to plan and implement programs and activities authorized under this Act.
   - **(2)** Not more than 2 percent of any allotment to any State from amounts appropriated under the Workforce Investment Act of 1998 for fiscal year 2014 may be made available to carry out activities authorized under paragraph (1) and not less than 50 percent of any amount used to carry out activities authorized under paragraph (1) shall be made available to local entities for the purposes of the activities described in such paragraph.
+
+## Source Credit
+
+*([Pub. L. 113–128, title V, § 503](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1701](https://www.govinfo.gov/link/statute/128/1701).)*

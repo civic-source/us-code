@@ -3,9 +3,10 @@ title: "Section 4721 - United States and Foreign Commercial Service"
 usc_title: 15
 usc_section: "4721"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 4721"
-generated_at: "2026-03-30T02:54:08.202Z"
+generated_at: "2026-11-23T20:26:04.352Z"
+status: "active"
 ---
 
 # § 4721. United States and Foreign Commercial Service
@@ -59,3 +60,7 @@ generated_at: "2026-03-30T02:54:08.202Z"
   - **(4)** the term “small business” means any small business concern as defined under section 632 of this title ;
   - **(5)** the term “State” means any of the several States, the District of Columbia, or any commonwealth, territory, or possession of the United States; and
   - **(6)** the term “United States” means the several States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+
+## Source Credit
+
+*([Pub. L. 100–418, title II, § 2301](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1338](https://www.govinfo.gov/link/statute/102/1338); [Pub. L. 102–429, title II](https://www.govinfo.gov/link/plaw/102/public/429), §§ 202, 203, 205, Oct. 21, 1992, [106 Stat. 2201](https://www.govinfo.gov/link/statute/106/2201), 2204; [Pub. L. 115–254, div. F, title VI, § 1470(d)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3516](https://www.govinfo.gov/link/statute/132/3516).)*

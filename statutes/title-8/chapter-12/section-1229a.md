@@ -3,9 +3,10 @@ title: "Section 1229a - Removal proceedings"
 usc_title: 8
 usc_section: "1229a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1229a"
-generated_at: "2026-03-30T02:53:10.487Z"
+generated_at: "2026-11-23T20:25:36.160Z"
+status: "active"
 ---
 
 # § 1229a. Removal proceedings
@@ -90,3 +91,17 @@ generated_at: "2026-03-30T02:53:10.487Z"
   - **(2)** The term “removable” means—
     - **(A)** in the case of an alien not admitted to the United States, that the alien is inadmissible under section 1182 of this title , or
     - **(B)** in the case of an alien admitted to the United States, that the alien is deportable under section 1227 of this title .
+
+In general
+
+“(aa) if the basis of the motion is to apply for relief under clause (iii) or (iv) of section 204(a)(1)(A) of the Immigration and Nationality Act ( 8 U.S.C. 1154(a)(1)(A) ), clause (ii) or (iii) of section 204(a)(1)(B) of such Act ( 8 U.S.C. 1154(a)(1)(B) ), or section 244(a)(3) of such Act (as so in effect) ( 8 U.S.C. 1254(a)(3) ); and
+
+“(bb) if the motion is accompanied by a suspension of deportation application to be filed with the Secretary of Homeland Security or by a copy of the self-petition that will be filed with the Department of Homeland Security upon the granting of the motion to reopen; and
+
+Prima facie case
+
+Applicability
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 4, § 240, as added [Pub. L. 104–208, div. C, title III, § 304(a)(3)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–589](https://www.govinfo.gov/link/statute/110/3009); amended [Pub. L. 106–386, div. B, title V, § 1506(c)(1)(A)](https://www.govinfo.gov/link/plaw/106/public/386), Oct. 28, 2000, [114 Stat. 1528](https://www.govinfo.gov/link/statute/114/1528); [Pub. L. 109–13, div. B, title I, § 101(d)](https://www.govinfo.gov/link/plaw/109/public/13), May 11, 2005, [119 Stat. 304](https://www.govinfo.gov/link/statute/119/304); [Pub. L. 109–162, title VIII](https://www.govinfo.gov/link/plaw/109/public/162), §§ 813(a)(1), 825(a), Jan. 5, 2006, [119 Stat. 3057](https://www.govinfo.gov/link/statute/119/3057), 3063.)*

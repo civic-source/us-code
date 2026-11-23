@@ -3,9 +3,10 @@ title: "Section 45 - Unfair methods of competition unlawful; prevention by Commi
 usc_title: 15
 usc_section: "45"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 45"
-generated_at: "2026-03-30T02:54:08.024Z"
+generated_at: "2026-11-23T20:26:03.383Z"
+status: "active"
 ---
 
 # § 45. Unfair methods of competition unlawful; prevention by Commission
@@ -55,3 +56,41 @@ generated_at: "2026-03-30T02:54:08.024Z"
   - **(2)** If the cease and desist order establishing that the act or practice is unfair or deceptive was not issued against the defendant in a civil penalty action under paragraph (1)(B) the issues of fact in such action against such defendant shall be tried de novo. Upon request of any party to such an action against such defendant, the court shall also review the determination of law made by the Commission in the proceeding under subsection (b) that the act or practice which was the subject of such proceeding constituted an unfair or deceptive act or practice in violation of subsection (a).
   - **(3)** The Commission may compromise or settle any action for a civil penalty if such compromise or settlement is accompanied by a public statement of its reasons and is approved by the court.
 - **(n)** The Commission shall have no authority under this section or section 57a of this title to declare unlawful an act or practice on the grounds that such act or practice is unfair unless the act or practice causes or is likely to cause substantial injury to consumers which is not reasonably avoidable by consumers themselves and not outweighed by countervailing benefits to consumers or to competition. In determining whether an act or practice is unfair, the Commission may consider established public policies as evidence to be considered with all other evidence. Such public policy considerations may not serve as a primary basis for such determination.
+
+(1) after such cease and desist order becomes final (whether or not such person, partnership, or corporation was subject to such cease and desist order), and
+
+(2) with actual knowledge that such act or practice is unfair or deceptive and is unlawful under subsection (a)(1) of this section.
+
+In General
+
+Applicability of Section
+
+Applicability of Section
+
+Applicability of Sections
+
+and
+
+Applicability of Section
+
+Short Title
+
+In General
+
+Enforcement by the Federal Trade Commission.—
+
+Violation
+
+Powers of the federal trade commission.—
+
+In general
+
+Privileges and immunities
+
+Effect on other laws
+
+Severability
+
+## Source Credit
+
+*(Sept. 26, 1914, ch. 311, § 5, [38 Stat. 719](https://www.govinfo.gov/link/statute/38/719); Mar. 21, 1938, ch. 49, § 3, [52 Stat. 111](https://www.govinfo.gov/link/statute/52/111); June 23, 1938, ch. 601, title XI, § 1107(f), [52 Stat. 1028](https://www.govinfo.gov/link/statute/52/1028); June 25, 1948, ch. 646, § 32(a), [62 Stat. 991](https://www.govinfo.gov/link/statute/62/991); May 24, 1949, ch. 139, § 127, [63 Stat. 107](https://www.govinfo.gov/link/statute/63/107); Mar. 16, 1950, ch. 61, § 4(c), [64 Stat. 21](https://www.govinfo.gov/link/statute/64/21); July 14, 1952, ch. 745, § 2, [66 Stat. 632](https://www.govinfo.gov/link/statute/66/632); [Pub. L. 85–726, title XIV](https://www.govinfo.gov/link/plaw/85/public/726), §§ 1401(b), 1411, Aug. 23, 1958, [72 Stat. 806](https://www.govinfo.gov/link/statute/72/806), 809; [Pub. L. 85–791, § 3](https://www.govinfo.gov/link/plaw/85/public/791), Aug. 28, 1958, [72 Stat. 942](https://www.govinfo.gov/link/statute/72/942); [Pub. L. 85–909, § 3](https://www.govinfo.gov/link/plaw/85/public/909), Sept. 2, 1958, [72 Stat. 1750](https://www.govinfo.gov/link/statute/72/1750); [Pub. L. 86–507, § 1(13)](https://www.govinfo.gov/link/plaw/86/public/507), June 11, 1960, [74 Stat. 200](https://www.govinfo.gov/link/statute/74/200); [Pub. L. 93–153, title IV, § 408(c)](https://www.govinfo.gov/link/plaw/93/public/153), (d), Nov. 16, 1973, [87 Stat. 591](https://www.govinfo.gov/link/statute/87/591), 592; [Pub. L. 93–637, title II](https://www.govinfo.gov/link/plaw/93/public/637), §§ 201(a), 204(b), 205(a), Jan. 4, 1975, [88 Stat. 2193](https://www.govinfo.gov/link/statute/88/2193), 2200; [Pub. L. 94–145, § 3](https://www.govinfo.gov/link/plaw/94/public/145), Dec. 12, 1975, [89 Stat. 801](https://www.govinfo.gov/link/statute/89/801); [Pub. L. 96–37, § 1(a)](https://www.govinfo.gov/link/plaw/96/public/37), July 23, 1979, [93 Stat. 95](https://www.govinfo.gov/link/statute/93/95); [Pub. L. 96–252, § 2](https://www.govinfo.gov/link/plaw/96/public/252), May 28, 1980, [94 Stat. 374](https://www.govinfo.gov/link/statute/94/374); [Pub. L. 97–290, title IV, § 403](https://www.govinfo.gov/link/plaw/97/public/290), Oct. 8, 1982, [96 Stat. 1246](https://www.govinfo.gov/link/statute/96/1246); [Pub. L. 98–620, title IV, § 402(12)](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3358](https://www.govinfo.gov/link/statute/98/3358); [Pub. L. 100–86, title VII, § 715(a)(1)](https://www.govinfo.gov/link/plaw/100/public/86), Aug. 10, 1987, [101 Stat. 655](https://www.govinfo.gov/link/statute/101/655); [Pub. L. 103–312](https://www.govinfo.gov/link/plaw/103/public/312), §§ 4, 6, 9, Aug. 26, 1994, [108 Stat. 1691](https://www.govinfo.gov/link/statute/108/1691), 1692, 1695; [Pub. L. 109–455](https://www.govinfo.gov/link/plaw/109/public/455), §§ 3, 13, Dec. 22, 2006, [120 Stat. 3372](https://www.govinfo.gov/link/statute/120/3372), 3382; [Pub. L. 112–203, § 1](https://www.govinfo.gov/link/plaw/112/public/203), Dec. 4, 2012, [126 Stat. 1484](https://www.govinfo.gov/link/statute/126/1484).)*

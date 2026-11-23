@@ -3,9 +3,10 @@ title: "Section 6939g - Hazardous waste electronic manifest system"
 usc_title: 42
 usc_section: "6939g"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6939g"
-generated_at: "2026-03-30T02:56:11.274Z"
+generated_at: "2026-11-23T20:27:22.743Z"
+status: "active"
 ---
 
 # § 6939g. Hazardous waste electronic manifest system
@@ -113,3 +114,7 @@ generated_at: "2026-03-30T02:56:11.274Z"
   - **(2)** sign and date the facility certification; and
   - **(3)** submit to the system a final copy of the manifest for data processing purposes.
 - **(i)** There are authorized to be appropriated $2,000,000 for each of fiscal years 2013 through 2015 for start-up activities to carry out this section, to be offset by collection of user fees under subsection (c) such that all such appropriated funds are offset by fees as provided in subsection (c).
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 3024](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 112–195, § 2(a)](https://www.govinfo.gov/link/plaw/112/public/195), Oct. 5, 2012, [126 Stat. 1452](https://www.govinfo.gov/link/statute/126/1452).)*

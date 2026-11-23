@@ -3,9 +3,10 @@ title: "Section 8 - Funding for governance, oversight, and processing of environ
 usc_title: 42
 usc_section: "8"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-03-30T02:56:11.205Z"
+generated_at: "2026-11-23T20:27:22.390Z"
+status: "active"
 ---
 
 # § 4370m–8. Funding for governance, oversight, and processing of environmental reviews and permits
@@ -24,3 +25,11 @@ generated_at: "2026-03-30T02:56:11.205Z"
 - **(f)**
   - **(1)** The heads of agencies listed in section 4370m–1(b)(2)(B) of this title shall have the authority to transfer, in accordance with section 1535 of title 31 , funds appropriated to those agencies and not otherwise obligated to other affected Federal agencies for the purpose of implementing the provisions of this subchapter.
   - **(2)** Appropriations under title 23 and appropriations for the civil works program of the Army Corps of Engineers shall not be available for transfer under paragraph (1).
+
+Availability
+
+Transfer
+
+## Source Credit
+
+*([Pub. L. 114–94, div. D, title XLI, § 41009](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1760](https://www.govinfo.gov/link/statute/129/1760); [Pub. L. 117–58, div. G, title VIII, § 70801(g)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1293](https://www.govinfo.gov/link/statute/135/1293); [Pub. L. 117–328, div. E, title VI, § 635(b)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 4704](https://www.govinfo.gov/link/statute/136/4704).)*

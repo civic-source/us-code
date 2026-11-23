@@ -3,9 +3,10 @@ title: "Section 154 - Open container requirements"
 usc_title: 23
 usc_section: "154"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 154"
-generated_at: "2026-03-30T02:55:12.560Z"
+generated_at: "2026-11-23T20:26:23.824Z"
+status: "active"
 ---
 
 # § 154. Open container requirements
@@ -52,3 +53,55 @@ generated_at: "2026-03-30T02:55:12.560Z"
         - **(I)** the amount of obligation authority distributed for the fiscal year to the State for Federal-aid highways and highway safety construction programs, bears to
         - **(II)** the total of the sums apportioned to the State for Federal-aid highways and highway safety construction programs (excluding sums not subject to any obligation limitation) for the fiscal year.
   - **(7)** Notwithstanding any other provision of law, no limitation on the total of obligations for highway safety programs under section 402 shall apply to funds transferred under this subsection to the apportionment of a State under such section.
+
+Definitions
+
+Alcoholic beverage
+
+Motor vehicle
+
+Open alcoholic beverage container
+
+Passenger area
+
+Open Container Laws.—
+
+In general
+
+Motor vehicles designed to transport many passengers
+
+Transfer of Funds.—
+
+Fiscal years 2001 and 2002
+
+Fiscal year 2022 and thereafter
+
+Reservation of funds.—
+
+In general
+
+States described
+
+Transfer of funds
+
+Use for highway safety improvement program
+
+In general
+
+State departments of transportation
+
+Federal share
+
+Derivation of amount to be transferred
+
+Transfer of obligation authority.—
+
+In general
+
+Amount
+
+Limitation on applicability of obligation limitation
+
+## Source Credit
+
+*(Added [Pub. L. 105–178, title I, § 1405(a)](https://www.govinfo.gov/link/plaw/105/public/178), as added [Pub. L. 105–206, title IX, § 9005(a)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 843](https://www.govinfo.gov/link/statute/112/843); amended [Pub. L. 109–59, title I, § 1401(a)(3)(C)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1225](https://www.govinfo.gov/link/statute/119/1225); [Pub. L. 112–141, div. A, title I, § 1402](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 556](https://www.govinfo.gov/link/statute/126/556); [Pub. L. 114–94, div. A, title I, § 1446(a)(8)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1437](https://www.govinfo.gov/link/statute/129/1437); [Pub. L. 117–58, div. A, title I, § 11131(a)](https://www.govinfo.gov/link/plaw/117/public/58), div. B, title IV, § 24106(a), Nov. 15, 2021, [135 Stat. 509](https://www.govinfo.gov/link/statute/135/509), 806.)*

@@ -3,9 +3,10 @@ title: "Section 1509 - Spectrum Challenge Prize"
 usc_title: 47
 usc_section: "1509"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 1509"
-generated_at: "2026-03-30T02:56:24.536Z"
+generated_at: "2026-11-23T20:27:29.006Z"
+status: "active"
 ---
 
 # § 1509. Spectrum Challenge Prize
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:24.536Z"
     - **(C)** award not more than $5,000,000, in the aggregate, to the winner or winners of the prize competitions.
 - **(d)** Not later than 180 days after the date on which funds for prize competitions are made available pursuant to this section, the Commission shall publish a technical paper on spectrum efficiency providing criteria that may be used for the design of the prize competitions.
 - **(e)** There are authorized to be appropriated such sums as may be necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 115–141, div. P, title VI, § 619](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1113](https://www.govinfo.gov/link/statute/132/1113).)*

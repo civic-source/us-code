@@ -3,9 +3,10 @@ title: "Section 3203 - Eligible articles"
 usc_title: 19
 usc_section: "3203"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3203"
-generated_at: "2026-03-30T02:54:24.689Z"
+generated_at: "2026-11-23T20:26:11.035Z"
+status: "active"
 ---
 
 # § 3203. Eligible articles
@@ -149,3 +150,33 @@ generated_at: "2026-03-30T02:54:24.689Z"
     - **(D)** concentrated citrus fruit juice provided for in subheadings 2009.11.00, 2009.19.40, 2009.20.40, 2009.30.20, and 2009.30.60 of the HTS.
 - **(e)** No proclamation issued pursuant to this chapter shall affect fees imposed pursuant to section 624 of title 7 .
 - **(f)** No quantity of an agricultural product subject to a tariff-rate quota that exceeds the in-quota quantity shall be eligible for duty-free treatment under this chapter.
+
+(aa) 2 percent for the 1-year period beginning October 1, 2002 , increased in each of the 4 succeeding 1-year periods by equal increments, so that for the period beginning October 1, 2006 , the applicable percentage does not exceed 5 percent; and
+
+(bb) for the 1-year period beginning October 1, 2007 , and for the succeeding 5-year period, the percentage determined under item (aa) for the 1-year period beginning October 1, 2006 .
+
+(aa) An article otherwise eligible for preferential treatment under this paragraph shall not be ineligible for such treatment because the article contains certain interlinings of foreign origin, if the value of such interlinings (and any findings and trimmings) does not exceed 25 percent of the cost of the components of the assembled article.
+
+(bb) Interlinings eligible for the treatment described in division (aa) include only a chest type plate, “hymo” piece, or “sleeve header”, of woven or weft-inserted warp knit construction and of coarse animal hair or man-made filaments.
+
+(cc) The treatment described in this subclause shall terminate if the President makes a determination that United States manufacturers are producing such interlinings in the United States in commercial quantities.
+
+(aa) has implemented and follows, or
+
+(bb) is making substantial progress toward implementing and following,
+
+(aa) from which the article is exported; or
+
+(bb) in which materials used in the production of the article originate or in which the article or such materials undergo production that contributes to a claim that the article is eligible for preferential treatment under paragraph (1), (3), or (4).
+
+In General
+
+Entry
+
+Requests
+
+George W. Bush.
+
+## Source Credit
+
+*([Pub. L. 102–182, title II, § 204](https://www.govinfo.gov/link/plaw/102/public/182), Dec. 4, 1991, [105 Stat. 1239](https://www.govinfo.gov/link/statute/105/1239); [Pub. L. 103–465, title IV, § 404(e)(2)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4961](https://www.govinfo.gov/link/statute/108/4961); [Pub. L. 107–210, div. C, title XXXI, § 3103(a)](https://www.govinfo.gov/link/plaw/107/public/210), (c)(2), Aug. 6, 2002, [116 Stat. 1024](https://www.govinfo.gov/link/statute/116/1024), 1033; [Pub. L. 108–429, title II, § 2004(e)](https://www.govinfo.gov/link/plaw/108/public/429), Dec. 3, 2004, [118 Stat. 2593](https://www.govinfo.gov/link/statute/118/2593); [Pub. L. 109–432, div. D, title V, § 5005(b)](https://www.govinfo.gov/link/plaw/109/public/432), title VII, § 7003, Dec. 20, 2006, [120 Stat. 3190](https://www.govinfo.gov/link/statute/120/3190), 3194; [Pub. L. 110–42, § 2](https://www.govinfo.gov/link/plaw/110/public/42), June 30, 2007, [121 Stat. 235](https://www.govinfo.gov/link/statute/121/235); [Pub. L. 110–191, § 2(b)](https://www.govinfo.gov/link/plaw/110/public/191), Feb. 29, 2008, [122 Stat. 646](https://www.govinfo.gov/link/statute/122/646); [Pub. L. 110–436, § 1(b)](https://www.govinfo.gov/link/plaw/110/public/436), Oct. 16, 2008, [122 Stat. 4977](https://www.govinfo.gov/link/statute/122/4977); [Pub. L. 111–124, § 2(b)](https://www.govinfo.gov/link/plaw/111/public/124), Dec. 28, 2009, [123 Stat. 3484](https://www.govinfo.gov/link/statute/123/3484); [Pub. L. 111–344, title II, § 201(c)](https://www.govinfo.gov/link/plaw/111/public/344), Dec. 29, 2010, [124 Stat. 3616](https://www.govinfo.gov/link/statute/124/3616); [Pub. L. 112–42, title V, § 501(b)](https://www.govinfo.gov/link/plaw/112/public/42), Oct. 21, 2011, [125 Stat. 494](https://www.govinfo.gov/link/statute/125/494).)*

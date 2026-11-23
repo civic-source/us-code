@@ -3,9 +3,10 @@ title: "Section 8304 - Reports"
 usc_title: 16
 usc_section: "8304"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 8304"
-generated_at: "2026-03-30T02:54:23.083Z"
+generated_at: "2026-11-23T20:26:20.877Z"
+status: "active"
 ---
 
 # § 8304. Reports
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:23.083Z"
   - **(2)** funds appropriated to the Coastal Program that have been expended or leveraged;
   - **(3)** a description of adaptive management practices implemented; and
   - **(4)** a description of emerging challenges or data gaps that hinder the ability of the Coastal Program to achieve the purpose of this chapter.
+
+## Source Credit
+
+*([Pub. L. 118–138, § 5](https://www.govinfo.gov/link/plaw/118/public/138), Dec. 11, 2024, [138 Stat. 1653](https://www.govinfo.gov/link/statute/138/1653).)*

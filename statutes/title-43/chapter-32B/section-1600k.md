@@ -3,9 +3,10 @@ title: "Section 1600k - Notices and existing laws"
 usc_title: 43
 usc_section: "1600k"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1600k"
-generated_at: "2026-03-30T02:55:57.478Z"
+generated_at: "2026-11-23T20:27:06.316Z"
+status: "active"
 ---
 
 # § 1600k. Notices and existing laws
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:57.478Z"
   - **(2)** The Secretary shall provide notice of the provisions of section 702c of title 33 and this chapter to all existing and prospective lessees of lands leased by the United States and within the Colorado River Floodway.
 - **(b)** Except as otherwise specifically provided in this chapter, all provisions of the National Flood Insurance Act of 1968, as amended [ 42 U.S.C. 4001 et seq.], and requirements of the National Flood Insurance Program (“NFIP”) shall continue in full force and effect within areas wholly or partially within the Colorado River Floodway. Any maps or other information required to be prepared by this chapter shall be used to the maximum extent practicable to support implementation of the NFIP.
 - **(c)** The Secretary shall publish notice on three successive occasions in newspapers of general circulation in communities affected by the provisions of section 4029 of title 42 .
+
+## Source Credit
+
+*([Pub. L. 99–450, § 14](https://www.govinfo.gov/link/plaw/99/public/450), Oct. 8, 1986, [100 Stat. 1136](https://www.govinfo.gov/link/statute/100/1136).)*

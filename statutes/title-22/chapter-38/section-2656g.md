@@ -3,9 +3,10 @@ title: "Section 2656g - Report on terrorist assets in United States"
 usc_title: 22
 usc_section: "2656g"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2656g"
-generated_at: "2026-03-30T02:55:05.376Z"
+generated_at: "2026-11-23T20:26:32.360Z"
+status: "active"
 ---
 
 # § 2656g. Report on terrorist assets in United States
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:05.376Z"
 - **(b)** For purposes of this section—
   - **(1)** the term “terrorist countries”, refers to countries designated by the Secretary of State under section 2780(d) of this title ; and
   - **(2)** the term “international terrorism” has the meaning given such term in section 2656f(d) of this title .
+
+## Source Credit
+
+*([Pub. L. 102–138, title III, § 304](https://www.govinfo.gov/link/plaw/102/public/138), Oct. 28, 1991, [105 Stat. 710](https://www.govinfo.gov/link/statute/105/710); [Pub. L. 103–236, title I, § 133(b)(2)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 396](https://www.govinfo.gov/link/statute/108/396).)*

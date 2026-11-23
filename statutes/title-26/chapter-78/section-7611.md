@@ -3,9 +3,10 @@ title: "Section 7611 - Restrictions on church tax inquiries and examinations"
 usc_title: 26
 usc_section: "7611"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 7611"
-generated_at: "2026-03-30T02:55:27.880Z"
+generated_at: "2026-11-23T20:26:46.811Z"
+status: "active"
 ---
 
 # § 7611. Restrictions on church tax inquiries and examinations
@@ -103,3 +104,7 @@ generated_at: "2026-03-30T02:55:27.880Z"
   - **(3)** any assessment under section 6851 (relating to termination assessments of income tax), section 6852 (relating to termination assessments in case of flagrant political expenditures of section 501(c)(3) organizations), or section 6861 (relating to jeopardy assessments of income taxes, etc.),
   - **(4)** any willful attempt to defeat or evade any tax imposed by this title, or
   - **(5)** any knowing failure to file a return of tax imposed by this title.
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title X, § 1033(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1034](https://www.govinfo.gov/link/statute/98/1034); amended [Pub. L. 99–514, title XVIII, § 1899A(61)](https://www.govinfo.gov/link/plaw/99/public/514), (62), Oct. 22, 1986, [100 Stat. 2962](https://www.govinfo.gov/link/statute/100/2962); [Pub. L. 100–203, title X, § 10713(b)(2)(G)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–470](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–647, title I, § 1018(u)(49)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3593](https://www.govinfo.gov/link/statute/102/3593); [Pub. L. 101–239, title VII, § 7822(d)(1)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2425](https://www.govinfo.gov/link/statute/103/2425); [Pub. L. 104–188, title I, § 1704(t)(59)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1890](https://www.govinfo.gov/link/statute/110/1890); [Pub. L. 105–206, title I, § 1102(e)(3)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 705](https://www.govinfo.gov/link/statute/112/705).)*

@@ -3,9 +3,10 @@ title: "Section 684 - Proposed deferrals of budget authority"
 usc_title: 2
 usc_section: "684"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 684"
-generated_at: "2026-03-30T02:53:04.802Z"
+generated_at: "2026-11-23T20:25:28.917Z"
+status: "active"
 ---
 
 # § 684. Proposed deferrals of budget authority
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:04.802Z"
   - **(2)** to achieve savings made possible by or through changes in requirements or greater efficiency of operations; or
   - **(3)** as specifically provided by law.
 - **(c)** The provisions of this section do not apply to any budget authority proposed to be rescinded or that is to be reserved as set forth in a special message required to be transmitted under section 683 of this title .
+
+## Source Credit
+
+*([Pub. L. 93–344, title X, § 1013](https://www.govinfo.gov/link/plaw/93/public/344), July 12, 1974, [88 Stat. 334](https://www.govinfo.gov/link/statute/88/334); [Pub. L. 100–119, title II, § 206(a)](https://www.govinfo.gov/link/plaw/100/public/119), Sept. 29, 1987, [101 Stat. 785](https://www.govinfo.gov/link/statute/101/785).)*

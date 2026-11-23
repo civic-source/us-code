@@ -3,12 +3,17 @@ title: "Section 4863 - Use of cleared personnel to ensure secure maintenance and
 usc_title: 22
 usc_section: "4863"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4863"
-generated_at: "2026-03-30T02:55:05.415Z"
+generated_at: "2026-11-23T20:26:32.551Z"
+status: "active"
 ---
 
 # § 4863. Use of cleared personnel to ensure secure maintenance and repair of diplomatic facilities abroad
 
 - **(a)** The Secretary of State shall develop and implement policies and regulations to provide for the use of persons who have been granted an appropriate United States security clearance to ensure that the security of areas intended for the storage of classified materials or the conduct of classified activities in a United States diplomatic mission or consular post abroad is not compromised in the performance of maintenance and repair services in those areas.
 - **(b)** The Secretary of State shall conduct a study of the feasibility and necessity of requiring that, in the case of certain United States diplomatic facilities abroad, no contractor shall be hired to perform maintenance or repair services in an area intended for the storage of classified materials or the conduct of classified activities unless such contractor has been granted an appropriate United States security clearance. Such study shall include, but is not limited to, United States facilities located in Cairo, New Delhi, Riyadh, and Tokyo. Not later than 180 days after February 16, 1990 , the Secretary of State shall report the results of such study to the Chairman of the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 99–399, title IV, § 415](https://www.govinfo.gov/link/plaw/99/public/399), as added [Pub. L. 101–246, title I, § 133(a)](https://www.govinfo.gov/link/plaw/101/public/246), Feb. 16, 1990, [104 Stat. 32](https://www.govinfo.gov/link/statute/104/32).)*

@@ -3,9 +3,10 @@ title: "Section 6707A - Penalty for failure to include reportable transaction in
 usc_title: 26
 usc_section: "6707A"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6707A"
-generated_at: "2026-03-30T02:55:27.865Z"
+generated_at: "2026-11-23T20:26:46.726Z"
+status: "active"
 ---
 
 # § 6707A. Penalty for failure to include reportable transaction information with return
@@ -36,3 +37,9 @@ generated_at: "2026-03-30T02:55:27.865Z"
     - **(B)** is required to pay a penalty under section 6662A with respect to any reportable transaction at a rate prescribed under section 6662A(c), or
     - **(C)** is required to pay a penalty under section 6662(h) with respect to any reportable transaction and would (but for section 6662A(e)(2)(B)) have been subject to penalty under section 6662A at a rate prescribed under section 6662A(c),
 - **(f)** The penalty imposed by this section shall be in addition to any other penalty imposed by this title.
+
+“The Commissioner of Internal Revenue shall annually report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate—
+
+## Source Credit
+
+*(Added [Pub. L. 108–357, title VIII, § 811(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1575](https://www.govinfo.gov/link/statute/118/1575); amended [Pub. L. 110–172, § 11(a)(41)](https://www.govinfo.gov/link/plaw/110/public/172), Dec. 29, 2007, [121 Stat. 2488](https://www.govinfo.gov/link/statute/121/2488); [Pub. L. 111–240, title II, § 2041(a)](https://www.govinfo.gov/link/plaw/111/public/240), Sept. 27, 2010, [124 Stat. 2560](https://www.govinfo.gov/link/statute/124/2560).)*

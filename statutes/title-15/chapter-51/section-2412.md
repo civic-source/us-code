@@ -3,9 +3,10 @@ title: "Section 2412 - Board of Directors"
 usc_title: 15
 usc_section: "2412"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2412"
-generated_at: "2026-03-30T02:54:08.172Z"
+generated_at: "2026-11-23T20:26:04.197Z"
+status: "active"
 ---
 
 # § 2412. Board of Directors
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:08.172Z"
 - **(e)**
   - **(1)** The Chairman shall appoint an Executive Committee of the Board, not to exceed seven members, including the Executive Director of the Center.
   - **(2)** The Executive Committee of the Board shall meet at the call of the Chairman, but in no case less frequently than once every ninety days.
+
+## Source Credit
+
+*([Pub. L. 94–136, title II, § 202](https://www.govinfo.gov/link/plaw/94/public/136), Nov. 28, 1975, [89 Stat. 735](https://www.govinfo.gov/link/statute/89/735).)*

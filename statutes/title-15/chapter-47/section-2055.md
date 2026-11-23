@@ -3,9 +3,10 @@ title: "Section 2055 - Public disclosure of information"
 usc_title: 15
 usc_section: "2055"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2055"
-generated_at: "2026-03-30T02:54:08.161Z"
+generated_at: "2026-11-23T20:26:04.144Z"
+status: "active"
 ---
 
 # § 2055. Public disclosure of information
@@ -53,3 +54,7 @@ generated_at: "2026-03-30T02:54:08.161Z"
   - **(3)** The Commission may, upon written request, furnish to any manufacturer or to the authorized agent of such manufacturer authenticated copies of reports furnished by or on behalf of such manufacturer in accordance with section 2084 of this title , upon payment of the actual or estimated cost of searching the records and furnishing such copies.
   - **(4)** Upon written request of the Chairman or Ranking Minority Member of either of the appropriate Congressional committees or any subcommittee thereof, the Commission shall provide to the Chairman or Ranking Minority Member any information furnished to the Commission under section 2084 of this title for purposes that are related to the jurisdiction of such committee or subcommittee.
   - **(5)** Any officer or employee of the Commission or other officer or employee of the Federal Government who receives information provided under section 2084 of this title , who willfully violates the requirements of this subsection shall be subject to dismissal or other appropriate disciplinary action consistent with procedures and requirements established by the Office of Personnel Management.
+
+## Source Credit
+
+*([Pub. L. 92–573, § 6](https://www.govinfo.gov/link/plaw/92/public/573), Oct. 27, 1972, [86 Stat. 1212](https://www.govinfo.gov/link/statute/86/1212); [Pub. L. 97–35, title XII, § 1204](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 713](https://www.govinfo.gov/link/statute/95/713); [Pub. L. 97–414, § 9(j)(1)](https://www.govinfo.gov/link/plaw/97/public/414), Jan. 4, 1983, [96 Stat. 2064](https://www.govinfo.gov/link/statute/96/2064); [Pub. L. 101–608, title I](https://www.govinfo.gov/link/plaw/101/public/608), §§ 106, 112(c), Nov. 16, 1990, [104 Stat. 3111](https://www.govinfo.gov/link/statute/104/3111), 3116; [Pub. L. 110–314, title II](https://www.govinfo.gov/link/plaw/110/public/314), §§ 211, 235(c)(2), Aug. 14, 2008, [122 Stat. 3047](https://www.govinfo.gov/link/statute/122/3047), 3074.)*

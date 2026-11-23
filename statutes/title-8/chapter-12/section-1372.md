@@ -3,9 +3,10 @@ title: "Section 1372 - Program to collect information relating to nonimmigrant f
 usc_title: 8
 usc_section: "1372"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1372"
-generated_at: "2026-03-30T02:53:10.498Z"
+generated_at: "2026-11-23T20:25:36.210Z"
+status: "active"
 ---
 
 # § 1372. Program to collect information relating to nonimmigrant foreign students and other exchange program participants
@@ -67,3 +68,15 @@ generated_at: "2026-03-30T02:53:10.498Z"
     - **(A)** designated by the Secretary of State for purposes of section 1101(a)(15)(J) of this title ; and
     - **(B)** selected by the Attorney General for purposes of the program under this section.
   - **(3)** The term “other approved educational institution” includes any air flight school, language training school, or vocational school, approved by the Attorney General, in consultation with the Secretary of Education and the Secretary of State, under subparagraph (F), (J), or (M) of section 1101(a)(15) of this title .
+
+In general
+
+Deadline
+
+Full Implementation and Expansion of Foreign Student Visa Monitoring Program Required
+
+Integration With Port of Entry Information
+
+## Source Credit
+
+*([Pub. L. 104–208, div. C, title VI, § 641](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–704](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 106–396, title IV](https://www.govinfo.gov/link/plaw/106/public/396), §§ 404–406, Oct. 30, 2000, [114 Stat. 1649](https://www.govinfo.gov/link/statute/114/1649), 1650; [Pub. L. 106–553, § 1(a)(2) [title I, § 110]](https://www.govinfo.gov/link/plaw/106/public/553), Dec. 21, 2000, [114 Stat. 2762](https://www.govinfo.gov/link/statute/114/2762), 2762A–68; [Pub. L. 107–56, title IV, § 416(c)](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 354](https://www.govinfo.gov/link/statute/115/354); [Pub. L. 107–173, title V, § 501(a)](https://www.govinfo.gov/link/plaw/107/public/173), May 14, 2002, [116 Stat. 560](https://www.govinfo.gov/link/statute/116/560).)*

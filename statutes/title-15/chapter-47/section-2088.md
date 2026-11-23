@@ -3,9 +3,10 @@ title: "Section 2088 - Financial responsibility"
 usc_title: 15
 usc_section: "2088"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2088"
-generated_at: "2026-03-30T02:54:08.167Z"
+generated_at: "2026-11-23T20:26:04.171Z"
+status: "active"
 ---
 
 # § 2088. Financial responsibility
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.167Z"
     - **(A)** the posting of an escrow, proof of insurance, or security sufficient in amount to cover the cost of destruction of a domestically-produced product or substance regulated under this chapter or any other Act enforced by the Commission; and
     - **(B)** the posting of an escrow, proof of insurance, or security sufficient in amount to cover the cost of an effective recall of a product or substance, domestic or imported, regulated under this chapter or any other Act enforced by the Commission.
   - **(2)** Not later than 180 days after August 14, 2008 , the Comptroller General shall transmit to the appropriate Congressional committees a report on the conclusions of the study required under paragraph (1), including an assessment of whether such an escrow requirement could be implemented and any recommendations for such implementation.
+
+## Source Credit
+
+*([Pub. L. 92–573, § 41](https://www.govinfo.gov/link/plaw/92/public/573), as added [Pub. L. 110–314, title II, § 224(a)](https://www.govinfo.gov/link/plaw/110/public/314), Aug. 14, 2008, [122 Stat. 3069](https://www.govinfo.gov/link/statute/122/3069).)*

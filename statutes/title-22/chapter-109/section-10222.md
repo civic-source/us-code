@@ -3,9 +3,10 @@ title: "Section 10222 - Imposition of sanctions with respect to human rights abu
 usc_title: 22
 usc_section: "10222"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 10222"
-generated_at: "2026-03-30T02:55:05.475Z"
+generated_at: "2026-11-23T20:26:32.814Z"
+status: "active"
 ---
 
 # § 10222. Imposition of sanctions with respect to human rights abuses and perpetration of a coup in Burma
@@ -69,3 +70,7 @@ generated_at: "2026-03-30T02:55:05.475Z"
 - **(i)** Not later than 90 days after December 23, 2022 , and annually thereafter for 8 years, the Secretary of State, in consultation with the Secretary of the Treasury, shall submit to the appropriate congressional committees a classified report that—
   - **(1)** describes the primary sources of income to which the Burmese military has access and that the United States has been unable to reach using sanctions authorities; and
   - **(2)** assesses the impact of the sanctions imposed pursuant to the authorities under this section on the Burmese people and the Burmese military.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. E, title LV, § 5571](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3363](https://www.govinfo.gov/link/statute/136/3363).)*

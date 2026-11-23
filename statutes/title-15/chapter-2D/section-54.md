@@ -3,9 +3,10 @@ title: "Section 54 - Acquisition of assets by business development companies"
 usc_title: 15
 usc_section: "54"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 54"
-generated_at: "2026-03-30T02:54:08.070Z"
+generated_at: "2026-11-23T20:26:03.622Z"
+status: "active"
 ---
 
 # § 80a–54. Acquisition of assets by business development companies
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:08.070Z"
   - **(6)** cash, cash items, Government securities, or high quality debt securities maturing in one year or less from the time of investment in such high quality debt securities; and
   - **(7)** office furniture and equipment, interests in real estate and leasehold improvements and facilities maintained to conduct the business operations of the business development company, deferred organization and operating expenses, and other noninvestment assets necessary and appropriate to its operations as a business development company, including notes of indebtedness of directors, officers, employees, and general partners held by a business development company as payment for securities of such company issued in connection with an executive compensation plan described in section 80a–56(j) of this title .
 - **(b)** For purposes of this section, the value of a business development company’s assets shall be determined as of the date of the most recent financial statements filed by such company with the Commission pursuant to section 78m of this title , and shall be determined no less frequently than annually.
+
+## Source Credit
+
+*(Aug. 22, 1940, ch. 686, title I, § 55, as added [Pub. L. 96–477, title I, § 105](https://www.govinfo.gov/link/plaw/96/public/477), Oct. 21, 1980, [94 Stat. 2278](https://www.govinfo.gov/link/statute/94/2278); amended [Pub. L. 100–181, title VI, § 626](https://www.govinfo.gov/link/plaw/100/public/181), Dec. 4, 1987, [101 Stat. 1263](https://www.govinfo.gov/link/statute/101/1263); [Pub. L. 104–290, title V, § 505](https://www.govinfo.gov/link/plaw/104/public/290), Oct. 11, 1996, [110 Stat. 3446](https://www.govinfo.gov/link/statute/110/3446).)*

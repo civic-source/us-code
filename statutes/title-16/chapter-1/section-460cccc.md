@@ -3,9 +3,10 @@ title: "Section 460cccc - John Wesley Powell National Conservation Area"
 usc_title: 16
 usc_section: "460cccc"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 460cccc"
-generated_at: "2026-03-30T02:54:22.850Z"
+generated_at: "2026-11-23T20:26:20.050Z"
+status: "active"
 ---
 
 # § 460cccc. John Wesley Powell National Conservation Area
@@ -71,3 +72,13 @@ generated_at: "2026-03-30T02:54:22.850Z"
   - **(1)** Nothing in this section affects non-Federal land or interests in non-Federal land within the National Conservation Area.
   - **(2)** The Secretary shall provide reasonable access to non-Federal land or interests in non-Federal land within the National Conservation Area.
 - **(u)** The Secretary may establish programs and projects for the conduct of scientific, historical, cultural, archeological, and natural studies through the use of public and private partnerships that further the purposes of the National Conservation Area.
+
+Management plan
+
+In general
+
+Consultation
+
+## Source Credit
+
+*([Pub. L. 116–9, title I, § 1118](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 627](https://www.govinfo.gov/link/statute/133/627).)*

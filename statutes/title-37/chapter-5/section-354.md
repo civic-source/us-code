@@ -3,9 +3,10 @@ title: "Section 354 - Special pay: 15-year career status bonus for members enter
 usc_title: 37
 usc_section: "354"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "37 U.S.C. § 354"
-generated_at: "2026-03-30T02:55:44.056Z"
+generated_at: "2026-11-23T20:26:57.377Z"
+status: "active"
 ---
 
 # § 354. Special pay: 15-year career status bonus for members entering service on or after August 1, 1986
@@ -40,3 +41,21 @@ generated_at: "2026-03-30T02:55:44.056Z"
 - **(g)**
   - **(1)** A Secretary concerned may not pay a new bonus under this section after December 31, 2017 .
   - **(2)** Subject to subsection (f)(2), the Secretary concerned may continue to make payments for bonuses that were awarded under this section on or before the date specified in paragraph (1).
+
+Availability of Bonus
+
+Eligible Career Bonus Member Defined
+
+Election Method
+
+Amount of Bonus; Payment
+
+Notification of Eligibility
+
+Repayment
+
+Sunset and Continuation of Payments
+
+## Source Credit
+
+*(Added [Pub. L. 106–65, div. A, title VI, § 642(a)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 662](https://www.govinfo.gov/link/statute/113/662), § 322; amended [Pub. L. 107–107, div. A, title VI, § 620(a)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1138](https://www.govinfo.gov/link/statute/115/1138); [Pub. L. 109–163, div. A, title VI, § 687(b)(30)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3332](https://www.govinfo.gov/link/statute/119/3332); renumbered § 354 and amended [Pub. L. 110–181, div. A, title VI, § 661(b)(1)](https://www.govinfo.gov/link/plaw/110/public/181), (2), Jan. 28, 2008, [122 Stat. 178](https://www.govinfo.gov/link/statute/122/178); [Pub. L. 114–92, div. A, title VI, § 631(c)(2)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 844](https://www.govinfo.gov/link/statute/129/844).)*

@@ -3,9 +3,10 @@ title: "Section 426g - Storm and hurricane restoration and impact minimization p
 usc_title: 33
 usc_section: "426g"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 426g"
-generated_at: "2026-03-30T02:55:41.055Z"
+generated_at: "2026-11-23T20:26:53.812Z"
+status: "active"
 ---
 
 # § 426g. Storm and hurricane restoration and impact minimization program
@@ -72,3 +73,19 @@ generated_at: "2026-03-30T02:55:41.055Z"
   - **(2)** The total amount expended for a project under this section shall—
     - **(A)** be sufficient to pay the cost of Federal participation in the project (including periodic nourishment as provided for under section 426e of this title ), as determined by the Secretary; and
     - **(B)** be not more than $15,000,000.
+
+In General
+
+Project Selection
+
+Criteria
+
+Report
+
+Authorization of Appropriations
+
+Termination
+
+## Source Credit
+
+*(Aug. 13, 1946, ch. 960, § 3, [60 Stat. 1056](https://www.govinfo.gov/link/statute/60/1056); July 26, 1947, ch. 343, title II, § 205(a), [61 Stat. 501](https://www.govinfo.gov/link/statute/61/501); July 28, 1956, ch. 768, [70 Stat. 703](https://www.govinfo.gov/link/statute/70/703); [Pub. L. 87–874, title I, § 103(a)(4)](https://www.govinfo.gov/link/plaw/87/public/874), Oct. 23, 1962, [76 Stat. 1178](https://www.govinfo.gov/link/statute/76/1178); [Pub. L. 89–298, title III, § 310(b)](https://www.govinfo.gov/link/plaw/89/public/298), Oct. 27, 1965, [79 Stat. 1095](https://www.govinfo.gov/link/statute/79/1095); [Pub. L. 91–611, title I, § 112(b)](https://www.govinfo.gov/link/plaw/91/public/611), Dec. 31, 1970, [84 Stat. 1821](https://www.govinfo.gov/link/statute/84/1821); [Pub. L. 99–662, title IX, § 915(e)](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4191](https://www.govinfo.gov/link/statute/100/4191); [Pub. L. 104–303, title II, § 227(e)(2)(C)](https://www.govinfo.gov/link/plaw/104/public/303), Oct. 12, 1996, [110 Stat. 3703](https://www.govinfo.gov/link/statute/110/3703); [Pub. L. 106–53, title II, § 226](https://www.govinfo.gov/link/plaw/106/public/53), Aug. 17, 1999, [113 Stat. 298](https://www.govinfo.gov/link/statute/113/298); [Pub. L. 110–114, title II, § 2038(a)](https://www.govinfo.gov/link/plaw/110/public/114), Nov. 8, 2007, [121 Stat. 1097](https://www.govinfo.gov/link/statute/121/1097); [Pub. L. 114–322, title I, § 1167](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1670](https://www.govinfo.gov/link/statute/130/1670); [Pub. L. 115–270, title I, § 1157(a)](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3793](https://www.govinfo.gov/link/statute/132/3793); [Pub. L. 118–272, div. A, title I, § 1107(c)](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3004](https://www.govinfo.gov/link/statute/138/3004).)*

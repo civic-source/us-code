@@ -3,9 +3,10 @@ title: "Section 1153 - Allocation of immigrant visas"
 usc_title: 8
 usc_section: "1153"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1153"
-generated_at: "2026-03-30T02:53:10.473Z"
+generated_at: "2026-11-23T20:25:35.992Z"
+status: "active"
 ---
 
 # § 1153. Allocation of immigrant visas
@@ -358,3 +359,365 @@ generated_at: "2026-03-30T02:53:10.473Z"
   - **(3)** If the age of an alien is determined under paragraph (1) to be 21 years of age or older for the purposes of subsections (a)(2)(A) and (d), the alien’s petition shall automatically be converted to the appropriate category and the alien shall retain the original priority date issued upon receipt of the original petition.
   - **(4)** Paragraphs (1) through (3) shall apply to self-petitioners and derivatives of self-petitioners.
   - **(5)** An alien who has reached 21 years of age and has been admitted under subsection (d) as a lawful permanent resident on a conditional basis as the child of an alien lawfully admitted for permanent residence under subsection (b)(5), whose lawful permanent resident status on a conditional basis is terminated under section 1186b of this title or subsection (b)(5)(M), shall continue to be considered a child of the principal alien for the purpose of a subsequent immigrant petition by such alien under subsection (b)(5) if the alien remains unmarried and the subsequent petition is filed by the principal alien not later than 1 year after the termination of conditional lawful permanent resident status. No alien shall be considered a child under this paragraph with respect to more than 1 petition filed after the alien reaches 21 years of age.
+
+(aa) the alien physician agrees to work full time as a physician in an area or areas designated by the Secretary of Health and Human Services as having a shortage of health care professionals or at a health care facility under the jurisdiction of the Secretary of Veterans Affairs; and
+
+(bb) a Federal agency or a department of public health in any State has previously determined that the alien physician’s work in such an area or at such facility was in the public interest.
+
+(aa) 20 percent shall be reserved for qualified immigrants who invest in a rural area;
+
+(bb) 10 percent shall be reserved for qualified immigrants who invest in an area designated by the Secretary of Homeland Security under clause (ii) as a high unemployment area; and
+
+(cc) 2 percent shall be reserved for qualified immigrants who invest in infrastructure projects.
+
+(aa) Carryover At the end of each fiscal year, any unused visas reserved for qualified immigrants investing in each of the categories described in items (aa) through (cc) of subclause (I) shall remain available within the same category for the immediately succeeding fiscal year.
+
+(bb) General availability Visas described in items (aa) through (cc) of subclause (I) that are not issued by the end of the succeeding fiscal year referred to in item (aa) shall be made available to qualified immigrants described under subparagraph (A).
+
+(aa) the new commercial enterprise is principally doing business; and
+
+(bb) the weighted average of the unemployment rate for the census tracts, based on the labor force employment measure for each applicable census tract and any adjacent tract included under subclause (III), is not less than 150 percent of the national average unemployment rate.
+
+(aa) a Federal official other than the Secretary of Homeland Security or a designee of the Secretary; or
+
+(bb) any official of a State or local government.
+
+(aa) In general A designation under this clause shall be in effect for the 2-year period beginning on— (AA) the date on which an application under subparagraph (F) is filed; or (BB) in the case of an alien who is not subject to subparagraph (F), at the time of investment.
+
+(bb) Renewal A designation under this clause may be renewed for 1 or more additional 2-year periods if the applicable area continues to meet the criteria described in subclause (I).
+
+(aa) a Federal official other than the Secretary of Homeland Security or a designee of the Secretary; or
+
+(bb) any official of a State or local government.
+
+In general
+
+(aa) assets directly or indirectly acquired by unlawful means, including any cash proceeds of indebtedness secured by such assets;
+
+(bb) capital invested in exchange for a note, bond, convertible debt, obligation, or any other debt arrangement between the alien investor and the new commercial enterprise;
+
+(cc) capital invested with a guaranteed rate of return on the amount invested by the alien investor; or
+
+(dd) except as provided in subclause (IV), capital invested that is subject to any agreement between the alien investor and the new commercial enterprise that provides the investor with a contractual right to repayment, such as a mandatory redemption at a certain time or upon the occurrence of a certain event, or a put or sell-back option held by the alien investor, even if such contractual right is contingent on the success of the new commercial enterprise, such as having sufficient available cash flow; and
+
+(aa) is subject to a buy back option that may be exercised solely at the discretion of the new commercial enterprise; and
+
+(bb) results in the alien investor withdrawing his or her petition unless the alien investor has fulfilled his or her sustainment period and other requirements under this paragraph.
+
+(aa) all applicable laws, regulations, and Executive orders of the United States, including immigration laws, criminal laws, and securities laws; and
+
+(bb) all securities laws of each State in which securities offerings will be conducted, investment advice will be rendered, or the offerors or offerees reside;
+
+(aa) jobs estimated to have been created directly, which may be verified using such methodologies; and
+
+(bb) consistent with this subparagraph, jobs estimated to have been directly or indirectly created through capital expenditures, revenues generated from increased exports, improved regional productivity, job creation, and increased domestic capital investment resulting from the program.
+
+(aa) Relocated jobs In determining compliance with the job creation requirement under subparagraph (A)(ii), the Secretary of Homeland Security may include jobs estimated to be created under a methodology that attributes jobs to prospective tenants occupying commercial real estate created or improved by capital investments if the number of such jobs estimated to be created has been determined by an economically and statistically valid methodology and such jobs are not existing jobs that have been relocated.
+
+(bb) Publicly available bonds The Secretary of Homeland Security shall prescribe regulations to ensure that alien investor capital may not be utilized, by a new commercial enterprise or otherwise, to purchase municipal bonds or any other bonds, if such bonds are available to the general public, either as part of a primary offering or from a secondary market.
+
+(cc) Construction activity jobs If the number of direct jobs estimated to be created has been determined by an economically and statistically valid methodology, and such direct jobs are created by construction activity lasting less than 2 years, the number of such jobs that may be considered direct jobs for purposes of clause (iv) shall be calculated by multiplying the total number of such jobs estimated to be created by the fraction of the 2-year period that the construction activity lasts.
+
+(aa) to notify the Secretary, not later than 120 days before the implementation of significant proposed changes to its organizational structure, ownership, or administration, including the sale of such center, or other arrangements which would result in individuals not previously subject to the requirements under subparagraph (H) becoming involved with the regional center; or
+
+(bb) if exigent circumstances are present, to provide the notice described in item (aa) to the Secretary not later than 5 business days after a change described in such item; and
+
+(aa) any claims, evidence, or certifications contained in the regional center’s annual statements under subparagraph (G); and
+
+(bb) associated petitions by aliens seeking classification under this section or removal of conditions under section 1186b of this title .
+
+(aa) all material investment risks associated with the new commercial enterprise and the job-creating entity;
+
+(bb) any conflicts of interest that currently exist or may arise among the regional center, the new commercial enterprise, the job-creating entity, or the principals, attorneys, or individuals responsible for recruitment or promotion of such entities;
+
+(cc) any pending material litigation or bankruptcy, or material adverse judgments or bankruptcy orders issued during the most recent 10-year period, in the United States or in another country, affecting the regional center, the new commercial enterprise, any associated job-creating entity, or any other enterprise in which any principal of any of the aforementioned entities held majority ownership at the time; and
+
+(dd) (AA) any fees, ongoing interest, or other compensation paid, or to be paid by the regional center, the new commercial enterprise, or any issuer of securities intended to be offered to alien investors, to agents, finders, or broker dealers involved in the offering of securities to alien investors in connection with the investment; (BB) a description of the services performed, or that will be performed, by such person to entitle the person to such fees, interest, or compensation; and (CC) the name and contact information of any such person, if known at the time of filing;
+
+(aa) pending petitions from immigrants investing in the offering described in the approved application who are seeking classification under this paragraph; and
+
+(bb) petitions by immigrants described in item (aa) that are filed under section 1186b of this title .
+
+(aa) the new commercial enterprise has executed the business plan for a capital investment project in good faith without a material change;
+
+(bb) the new commercial enterprise has created a sufficient number of new full time positions to satisfy the job creation requirements of the program for all investors in the new commercial enterprise, either directly or indirectly, as evidenced by the methodologies set forth in this chapter;
+
+(cc) the job creating entity has repaid the capital initially deployed in conformity with the initial investment contemplated by the business plan; and
+
+(dd) the capital, after repayment by the job creating entity, remains at risk and it is not redeployed in passive investments, such as stocks or bonds.
+
+(aa) an accounting of the aggregate capital invested in the new commercial enterprise and any job-creating entity by alien investors under this paragraph for each capital investment project being undertaken by the new commercial enterprise;
+
+(bb) a description of how the capital described in item (aa) is being used to execute each capital investment project in the filed business plan or plans;
+
+(cc) evidence that 100 percent of the capital described in item (aa) has been committed to each capital investment project;
+
+(dd) detailed evidence of the progress made toward the completion of each capital investment project;
+
+(ee) an accounting of the aggregate direct jobs created or preserved;
+
+(ff) to the best of the regional center’s knowledge, for all fees, including administrative fees, loan monitoring fees, loan management fees, commissions and similar transaction-based compensation, collected from alien investors by the regional center, the new commercial enterprise, any affiliated job-creating entity, any affiliated issuer of securities intended to be offered to alien investors, or any promoter, finder, broker-dealer, or other entity engaged by any of the aforementioned entities to locate individual investors— (AA) a description of all fees collected; (BB) an accounting of the entities that received such fees; and (CC) the purpose for which such fees were collected;
+
+(gg) any documentation referred to in subparagraph (F)(i)(IV) if there has been a material change during the preceding fiscal year; and
+
+(hh) a certification by the regional center that the information provided under items (aa) through (gg) is accurate, to the best of the certifier’s knowledge, after a due diligence investigation; and
+
+(aa) knowingly submitted or caused to be submitted a statement, certification, or any information submitted pursuant to this subparagraph that contained an untrue statement of material fact; or
+
+(bb) is conducting itself in a manner inconsistent with its designation under subparagraph (E), including any willful, undisclosed, and material deviation by new commercial enterprises from any filed business plan for such new commercial enterprises.
+
+(aa) fines equal to not more than 10 percent of the total capital invested by alien investors in the regional center’s new commercial enterprises or job-creating entities directly involved in such violations, the payment of which shall not in any circumstance utilize any of such alien investors’ capital investments, and which shall be deposited into the EB–5 Integrity Fund established under subparagraph (J);
+
+(bb) temporary suspension from participation in the program described in subparagraph (E), which may be lifted by the Director if the individual or entity cures the alleged violation after being provided such an opportunity by the Director;
+
+(cc) permanent bar from participation in the program described in subparagraph (E) for 1 or more individuals or business entities associated with the regional center, new commercial enterprise, or job-creating entity; and
+
+(dd) termination of regional center designation.
+
+(aa) a criminal or civil offense involving fraud or deceit within the previous 10 years;
+
+(bb) a civil offense involving fraud or deceit that resulted in a liability in excess of $1,000,000; or
+
+(cc) a crime for which the person was convicted and sentenced to a term of imprisonment of more than 1 year;
+
+(aa) prohibits fraudulent, manipulative, or deceptive conduct; or
+
+(bb) bars the person from— (AA) association with an entity regulated by such commission, authority, agency, or officer; (BB) appearing before such commission, authority, agency, or officer; (CC) engaging in the business of securities, insurance, or banking; or (DD) engaging in savings association or credit union activities;
+
+(aa) any illicit trafficking in any controlled substance or in any listed chemical (as defined in section 802 of title 21 );
+
+(bb) any activity relating to espionage, sabotage, or theft of intellectual property;
+
+(cc) any activity related to money laundering (as described in section 1956 or 1957 of title 18);
+
+(dd) any terrorist activity (as defined in section 1182(a)(3)(B) of this title );
+
+(ee) any activity constituting or facilitating human trafficking or a human rights offense;
+
+(ff) any activity described in section 1182(a)(3)(E) of this title ; or
+
+(gg) the violation of any statute, regulation, or Executive order regarding foreign financial transactions or foreign asset control; or
+
+(aa) is, or during the preceding 10 years has been, included on the Department of Justice’s List of Currently Disciplined Practitioners; or
+
+(bb) during the preceding 10 years, has received a reprimand or has otherwise been publicly disciplined for conduct related to fraud or deceit by a State bar association of which the person is or was a member.
+
+(aa) is a national of the United States or an individual who has been lawfully admitted for permanent residence (as such terms are defined in paragraphs (20) and (22) of section 1101(a) of this title ); and
+
+(bb) is not the subject of rescission or removal proceedings.
+
+(aa) knowingly involved a person with such entity in violation of clause (i) or (ii) by failing, within 14 days of acquiring such knowledge— (AA) to take commercially reasonable efforts to discontinue the prohibited person’s involvement; or (BB) to provide notice to the Secretary;
+
+(bb) failed to provide an attestation or information requested by the Secretary under clause (iii)(I); or
+
+(cc) knowingly provided any false attestation or information under clause (iii)(I).
+
+(aa) Notification The Secretary, after performing the criminal record checks and other background checks described in clause (iii), shall notify a regional center, new commercial enterprise, or job-creating entity whether any person involved with such entities is not in compliance with clause (i) or (ii), unless the information that provides the basis for the determination is classified or disclosure is otherwise prohibited under law.
+
+(bb) Effect of failure to respond If the regional center, new commercial enterprise, or job-creating entity fails to discontinue the prohibited person’s involvement with the regional center, new commercial enterprise, or job-creating entity, as applicable, within 30 days after receiving such notification, such entity shall be deemed to have knowledge under subclause (I)(aa) that the involvement of such person with the entity is in violation of clause (i) or (ii).
+
+(aa) the offer, purchase, or sale of securities was conducted;
+
+(bb) the issuer of securities was located; or
+
+(cc) the investment advice was provided by the regional center or parties associated with the regional center.
+
+(aa) the certification is made by a certifier;
+
+(bb) to the best of the certifier’s knowledge, after a due diligence investigation, all such offers, purchases, and sales of securities or the provision of investment advice complied with the securities laws of the United States and the securities laws of any State in which— (AA) the offer, purchase, or sale of securities was conducted; (BB) the issuer of securities was located; or (CC) the investment advice was provided; and
+
+(cc) records, data, and information related to such offers, purchases, and sales have been maintained.
+
+(aa) describe the activities that led to noncompliance;
+
+(bb) describe the actions taken to remedy the noncompliance; and
+
+(cc) certify that the regional center and all parties associated with the regional center are currently in compliance, to the best of the certifier’s knowledge, after a due diligence investigation.
+
+(aa) bars such person from association with an entity regulated by the Securities and Exchange Commission or a State securities regulator; or
+
+(bb) constitutes a final order based on a finding of an intentional violation or a violation related to fraud or deceit in connection with the offer, purchase, or sale of, or investment advice relating to, a security; or
+
+(aa) except as provided in item (bb), of $20,000 from each regional center designated under subparagraph (E); and
+
+(bb) of $10,000 from each such regional center with 20 or fewer total investors in the preceding fiscal year in its new commercial enterprises.
+
+(aa) monitoring and investigating program-related events and promotional activities; and
+
+(bb) ensuring an alien investor’s compliance with subparagraph (L); and
+
+(aa) to detect and investigate fraud or other crimes;
+
+(bb) to determine whether regional centers, new commercial enterprises, job-creating entities, and alien investors (and their alien spouses and alien children) comply with the immigration laws;
+
+(cc) to conduct audits and site visits; and
+
+(dd) as the Secretary determines to be necessary, including monitoring compliance with the requirements under section 1153a of this title .
+
+(aa) includes identifying and contact information for such promoter and confirmation of the existence of the written agreement required under clause (iii); and
+
+(bb) may be made publicly available at the discretion of the Secretary;
+
+(aa) foreign business registration records;
+
+(bb) corporate or partnership tax returns (or tax returns of any other entity in any form filed in any country or subdivision of such country), and personal tax returns, including income, franchise, property (whether real, personal, or intangible), or any other tax returns of any kind, filed during the past 7 years (or another period to be determined by the Secretary to ensure that the investment is obtained from a lawful source of funds) with any taxing jurisdiction within or outside the United States by or on behalf of the alien investor; and
+
+(cc) any other evidence identifying any other source of capital or administrative fees;
+
+(aa) were gifted or loaned to the alien investor in good faith; and
+
+(bb) were not gifted or loaned to circumvent any limitations imposed on permissible sources of capital under this subparagraph, including but not limited to proceeds from illegal activity.
+
+(aa) the new commercial enterprise associates with an approved regional center, regardless of the approved geographical boundaries of such regional center’s designation; or
+
+(bb) such alien makes a qualifying investment in another new commercial enterprise; or
+
+(aa) associates with a new commercial enterprise in good standing; and
+
+(bb) invests additional investment capital solely to the extent necessary to satisfy remaining job creation requirements under subparagraph (A)(ii).
+
+(aa) the Secretary shall permit amendments to the business plan, without such facts underlying the amendment being deemed a material change; and
+
+(bb) may deem any funds obtained or recovered by an alien investor, directly or indirectly, from claims against third parties, including insurance proceeds, or any additional investment capital provided by the alien, to be such alien’s investment capital for the purposes of subparagraph (A) if such investment otherwise complies with the requirements under this paragraph and section 1186b of this title .
+
+(aa) notify the alien of such belief; and
+
+(bb) subject to section 1186b(b)(2) of this title , shall deny or initiate proceedings to revoke the approval of such alien’s petition, application, or benefit (and that of any spouse or child, if applicable) described in this paragraph.
+
+(aa) a certified public accountant;
+
+(bb) an attorney;
+
+(cc) a broker-dealer or investment adviser registered with the Securities and Exchange Commission; or
+
+(dd) an individual or company that otherwise meets such requirements as may be established by the Secretary;
+
+(aa) verify that the transfer complies with all governing documents, including organizational, operational, and investment documents; and
+
+(bb) approve such transfer with a written or electronic signature;
+
+(aa) the name and location of the bank or financial institution at which the account is maintained;
+
+(bb) the history of the account; and
+
+(cc) any additional information required by the Secretary; and
+
+“The amendments made by this section [amending this section and section 1186b of this title ] shall take effect on the date of the enactment of this Act [ Nov. 2, 2002 ] and shall apply to aliens having any of the following petitions pending on or after the date of the enactment of this Act:
+
+In General
+
+Numerical Limitations.—
+
+Fiscal year 2024
+
+Subsequent fiscal years
+
+Rule of Construction
+
+Fee Study
+
+Adjustment of Fees To Achieve Efficient Processing
+
+Additional Fees
+
+Exemption From Paperwork Reduction Act
+
+Rule of Construction Regarding Adjudication Delays
+
+Rule of Construction Regarding Modification of Fees
+
+In General
+
+Contents
+
+In general
+
+Number available.—
+
+In general
+
+Reduction
+
+Maximum
+
+Construction
+
+Employment-based visas defined
+
+In General
+
+Priority
+
+Reduction of Immigrant Visa Number
+
+“The Attorney General shall consult with the Secretary, the Secretary of Defense, the Secretary of Energy, and the heads of other appropriate agencies of the United States regarding—
+
+In General
+
+Regulations
+
+Limitation
+
+Duration of Authority
+
+Additional Visa Numbers.—
+
+In general
+
+Offset
+
+Order
+
+Legalized Alien Defined
+
+Definitions
+
+Additional Visa Numbers.—
+
+Treatment of principals
+
+Derivative relatives
+
+Employees of certain united states businesses operating in hong kong
+
+Petitions
+
+Allocation
+
+Definitions
+
+Executive capacity
+
+Managerial capacity
+
+Officer
+
+Specialized knowledge
+
+Supervisor
+
+Eligibility
+
+Notification
+
+Requirements
+
+In General
+
+Qualified Alien Described
+
+Distribution of Visa Numbers
+
+Derivative Status for Spouses and Children
+
+Waivers of Grounds of Exclusion
+
+Application Fee
+
+In General
+
+Lebanese Immigrants Covered
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 1, § 203, [66 Stat. 178](https://www.govinfo.gov/link/statute/66/178); [Pub. L. 85–316, § 3](https://www.govinfo.gov/link/plaw/85/public/316), Sept. 11, 1957, [71 Stat. 639](https://www.govinfo.gov/link/statute/71/639); [Pub. L. 86–363](https://www.govinfo.gov/link/plaw/86/public/363), §§ 1–3, Sept. 22, 1959, [73 Stat. 644](https://www.govinfo.gov/link/statute/73/644); [Pub. L. 89–236, § 3](https://www.govinfo.gov/link/plaw/89/public/236), Oct. 3, 1965, [79 Stat. 912](https://www.govinfo.gov/link/statute/79/912); [Pub. L. 94–571, § 4](https://www.govinfo.gov/link/plaw/94/public/571), Oct. 20, 1976, [90 Stat. 2705](https://www.govinfo.gov/link/statute/90/2705); [Pub. L. 95–412, § 3](https://www.govinfo.gov/link/plaw/95/public/412), Oct. 5, 1978, [92 Stat. 907](https://www.govinfo.gov/link/statute/92/907); [Pub. L. 95–417, § 1](https://www.govinfo.gov/link/plaw/95/public/417), Oct. 5, 1978, [92 Stat. 917](https://www.govinfo.gov/link/statute/92/917); [Pub. L. 96–212, title II, § 203(c)](https://www.govinfo.gov/link/plaw/96/public/212), (i), Mar. 17, 1980, [94 Stat. 107](https://www.govinfo.gov/link/statute/94/107), 108; [Pub. L. 101–649, title I](https://www.govinfo.gov/link/plaw/101/public/649), §§ 111, 121(a), 131, 162(a)(1), title VI, § 603(a)(3), Nov. 29, 1990, [104 Stat. 4986](https://www.govinfo.gov/link/statute/104/4986), 4987, 4997, 5009, 5082; [Pub. L. 102–110, § 2(b)](https://www.govinfo.gov/link/plaw/102/public/110), Oct. 1, 1991, [105 Stat. 555](https://www.govinfo.gov/link/statute/105/555); [Pub. L. 102–232, title III, § 302(b)(2)](https://www.govinfo.gov/link/plaw/102/public/232), (e)(3), Dec. 12, 1991, [105 Stat. 1743](https://www.govinfo.gov/link/statute/105/1743), 1745; [Pub. L. 103–416, title II](https://www.govinfo.gov/link/plaw/103/public/416), §§ 212(b), 219(c), Oct. 25, 1994, [108 Stat. 4314](https://www.govinfo.gov/link/statute/108/4314), 4316; [Pub. L. 106–95, § 5](https://www.govinfo.gov/link/plaw/106/public/95), Nov. 12, 1999, [113 Stat. 1318](https://www.govinfo.gov/link/statute/113/1318); [Pub. L. 106–113, div. B, § 1000(a)(1) [title I, § 117]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1535](https://www.govinfo.gov/link/statute/113/1535), 1501A–21; [Pub. L. 106–536, § 1(b)(1)](https://www.govinfo.gov/link/plaw/106/public/536), Nov. 22, 2000, [114 Stat. 2560](https://www.govinfo.gov/link/statute/114/2560); [Pub. L. 107–208, § 3](https://www.govinfo.gov/link/plaw/107/public/208), Aug. 6, 2002, [116 Stat. 928](https://www.govinfo.gov/link/statute/116/928); [Pub. L. 107–273, div. C, title I](https://www.govinfo.gov/link/plaw/107/public/273), §§ 11035, 11036(a), Nov. 2, 2002, [116 Stat. 1846](https://www.govinfo.gov/link/statute/116/1846); [Pub. L. 109–162, title VIII, § 805(b)(2)](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3056](https://www.govinfo.gov/link/statute/119/3056); [Pub. L. 117–103, div. BB](https://www.govinfo.gov/link/plaw/117/public/103), §§ 102(a), (b), 103(b)(1), (c)(1), 108, Mar. 15, 2022, [136 Stat. 1070](https://www.govinfo.gov/link/statute/136/1070), 1074, 1075, 1100, 1109.)*

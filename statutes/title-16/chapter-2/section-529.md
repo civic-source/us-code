@@ -3,12 +3,17 @@ title: "Section 529 - Authorization of development and administration considerat
 usc_title: 16
 usc_section: "529"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 529"
-generated_at: "2026-03-30T02:54:22.862Z"
+generated_at: "2026-11-23T20:26:20.100Z"
+status: "active"
 ---
 
 # § 529. Authorization of development and administration consideration to relative values of resources; areas of wilderness
 
 The Secretary of Agriculture is authorized and directed to develop and administer the renewable surface resources of the national forests for multiple use and sustained yield of the several products and services obtained therefrom. In the administration of the national forests due consideration shall be given to the relative values of the various resources in particular areas. The establishment and maintenance of areas of wilderness are consistent with the purposes and provisions of sections 528 to 531 of this title.
 
+
+## Source Credit
+
+*([Pub. L. 86–517, § 2](https://www.govinfo.gov/link/plaw/86/public/517), June 12, 1960, [74 Stat. 215](https://www.govinfo.gov/link/statute/74/215).)*

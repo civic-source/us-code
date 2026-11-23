@@ -3,9 +3,10 @@ title: "Section 74 - Prizes and awards"
 usc_title: 26
 usc_section: "74"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 74"
-generated_at: "2026-03-30T02:55:27.620Z"
+generated_at: "2026-11-23T20:26:45.310Z"
+status: "active"
 ---
 
 # § 74. Prizes and awards
@@ -27,3 +28,15 @@ generated_at: "2026-03-30T02:55:27.620Z"
   - **(2)**
     - **(A)** Paragraph (1) shall not apply to any taxpayer for any taxable year if the adjusted gross income (determined without regard to this subsection) of such taxpayer for such taxable year exceeds $1,000,000 (half of such amount in the case of a married individual filing a separate return).
     - **(B)** For purposes of sections 85(c), 86, 135, 137, 219, 221, and 469, adjusted gross income shall be determined after the application of paragraph (1) and before the application of subparagraph (A).
+
+In general
+
+Transition rule for qualified payments of patrons of cooperatives.—
+
+In general
+
+Coordination with section 199a
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 24; [Pub. L. 99–514, title I](https://www.govinfo.gov/link/plaw/99/public/514), §§ 122(a)(1), 123(b)(1), Oct. 22, 1986, [100 Stat. 2109](https://www.govinfo.gov/link/statute/100/2109), 2113; [Pub. L. 114–239, § 2(a)](https://www.govinfo.gov/link/plaw/114/public/239), Oct. 7, 2016, [130 Stat. 973](https://www.govinfo.gov/link/statute/130/973); [Pub. L. 115–97, title I, § 13305(b)(1)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2126](https://www.govinfo.gov/link/statute/131/2126); [Pub. L. 116–260, div. EE, title I, § 104(b)(2)(B)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3041](https://www.govinfo.gov/link/statute/134/3041); [Pub. L. 117–2, title IX, § 9042(b)(1)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 122](https://www.govinfo.gov/link/statute/135/122).)*

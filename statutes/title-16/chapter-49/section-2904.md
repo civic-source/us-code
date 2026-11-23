@@ -3,9 +3,10 @@ title: "Section 2904 - Approval of conservation plans and certain nongame fish a
 usc_title: 16
 usc_section: "2904"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 2904"
-generated_at: "2026-03-30T02:54:23.007Z"
+generated_at: "2026-11-23T20:26:20.623Z"
+status: "active"
 ---
 
 # § 2904. Approval of conservation plans and certain nongame fish and wildlife conservation actions
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:23.007Z"
 - **(d)** In the absence of an approved conservation plan, and on a showing of need by the State, the Secretary may deem certain conservation actions to be nongame fish and wildlife projects for which reimbursement is available under section 2905(a)(3) of this title if they—
   - **(1)** are consistent with such of the requirements set forth in section 2903 of this title as may be appropriate, including, but not limited to, the requirements in paragraphs (3), (4), (5), and (7) of such section; and
   - **(2)** are substantial in character and design.
+
+## Source Credit
+
+*([Pub. L. 96–366, § 5](https://www.govinfo.gov/link/plaw/96/public/366), Sept. 29, 1980, [94 Stat. 1324](https://www.govinfo.gov/link/statute/94/1324).)*

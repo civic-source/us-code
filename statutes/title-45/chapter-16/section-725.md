@@ -3,9 +3,10 @@ title: "Section 725 - Interim agreements"
 usc_title: 45
 usc_section: "725"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 725"
-generated_at: "2026-03-30T02:55:56.555Z"
+generated_at: "2026-11-23T20:27:05.301Z"
+status: "active"
 ---
 
 # § 725. Interim agreements
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:56.555Z"
   - **(2)** in the event that property subject to the agreement is sold, leased, or transferred to an entity other than the Corporation, the trustees or railroad shall pay or assign to the Secretary that portion of the proceeds of such sale, lease, or transfer which reflects value attributable to the maintenance and improvement provided pursuant to the agreement.
 - **(c)** Notwithstanding section 720(b) of this title , the Association shall issue obligations under section 720(a) of this title in an amount sufficient to finance such agreements and shall require the Corporation to assume any such obligations. The aggregate amount of obligations issued under this section and outstanding at any one time shall not exceed $300,000,000. The Association, with the approval of the Secretary, shall designate in the final system plan that portion of such obligations issued or to be issued which shall be refinanced and the terms thereof, and that portion from which the Corporation shall be released of its obligations.
 - **(d)** The Secretary may convey to the Corporation or any subsidiary thereof, with or without receipt of consideration, any property or interests acquired by, transferred to, or otherwise held by the Secretary pursuant to this section or section 723 of this title .
+
+## Source Credit
+
+*([Pub. L. 93–236, title II, § 215](https://www.govinfo.gov/link/plaw/93/public/236), Jan. 2, 1974, [87 Stat. 1004](https://www.govinfo.gov/link/statute/87/1004); [Pub. L. 94–5, § 7](https://www.govinfo.gov/link/plaw/94/public/5), Feb. 28, 1975, [89 Stat. 8](https://www.govinfo.gov/link/statute/89/8); [Pub. L. 94–210, title VI, § 607(i)](https://www.govinfo.gov/link/plaw/94/public/210), Feb. 5, 1976, [90 Stat. 97](https://www.govinfo.gov/link/statute/90/97).)*

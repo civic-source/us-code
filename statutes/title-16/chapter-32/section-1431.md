@@ -3,9 +3,10 @@ title: "Section 1431 - Findings, purposes, and policies; establishment of system
 usc_title: 16
 usc_section: "1431"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1431"
-generated_at: "2026-03-30T02:54:22.967Z"
+generated_at: "2026-11-23T20:26:20.483Z"
+status: "active"
 ---
 
 # § 1431. Findings, purposes, and policies; establishment of system
@@ -29,3 +30,37 @@ generated_at: "2026-03-30T02:54:22.967Z"
   - **(8)** to create models of, and incentives for, ways to conserve and manage these areas, including the application of innovative management techniques; and
   - **(9)** to cooperate with global programs encouraging conservation of marine resources.
 - **(c)** There is established the National Marine Sanctuary System, which shall consist of national marine sanctuaries designated by the Secretary in accordance with this chapter.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+William J. Clinton.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+J.R. Biden, Jr.
+
+## Source Credit
+
+*([Pub. L. 92–532, title III, § 301](https://www.govinfo.gov/link/plaw/92/public/532), Oct. 23, 1972, [86 Stat. 1061](https://www.govinfo.gov/link/statute/86/1061); [Pub. L. 96–332, § 1](https://www.govinfo.gov/link/plaw/96/public/332), Aug. 29, 1980, [94 Stat. 1057](https://www.govinfo.gov/link/statute/94/1057); [Pub. L. 98–498, title I, § 102](https://www.govinfo.gov/link/plaw/98/public/498), Oct. 19, 1984, [98 Stat. 2296](https://www.govinfo.gov/link/statute/98/2296); [Pub. L. 102–587, title II, § 2101](https://www.govinfo.gov/link/plaw/102/public/587), Nov. 4, 1992, [106 Stat. 5039](https://www.govinfo.gov/link/statute/106/5039); [Pub. L. 104–283, § 9(a)](https://www.govinfo.gov/link/plaw/104/public/283), Oct. 11, 1996, [110 Stat. 3367](https://www.govinfo.gov/link/statute/110/3367); [Pub. L. 106–513, § 3](https://www.govinfo.gov/link/plaw/106/public/513), Nov. 13, 2000, [114 Stat. 2381](https://www.govinfo.gov/link/statute/114/2381).)*

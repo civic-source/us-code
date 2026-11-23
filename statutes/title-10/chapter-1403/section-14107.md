@@ -3,9 +3,10 @@ title: "Section 14107 - Information furnished by the Secretary concerned to prom
 usc_title: 10
 usc_section: "14107"
 chapter: 1403
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 14107"
-generated_at: "2026-03-30T02:53:38.272Z"
+generated_at: "2026-11-23T20:25:52.463Z"
+status: "active"
 ---
 
 # § 14107. Information furnished by the Secretary concerned to promotion boards
@@ -39,3 +40,15 @@ generated_at: "2026-03-30T02:53:38.272Z"
   - **(5)** Such other information or guidelines as the Secretary concerned may determine to be necessary to enable the board to perform its functions.
 - **(c)** Information or guidelines furnished to a selection board under subsection (a) may not be modified, withdrawn, or supplemented after the board submits its report to the Secretary of the military department concerned pursuant to section 14109(a) of this title . However, in the case of a report returned to a board pursuant to section 14110(a) of this title for further proceedings because of a determination by the Secretary of the military department concerned that the board acted contrary to law, regulation, or guidelines, the Secretary may modify, withdraw, or supplement such information or guidelines as part of a written explanation to the board as provided in that section.
 - **(d)** The Secretary of each military department, under uniform regulations prescribed by the Secretary of Defense, shall include in guidelines furnished to a promotion board convened under section 14101(a) of this title that is considering officers in a health-professions competitive category for promotion to a grade below colonel or, in the case of officers of the Navy Reserve, captain, a direction that the board give consideration to an officer’s clinical proficiency and skill as a health professional to at least as great an extent as the board gives to the officer’s administrative and management skills.
+
+Integrity of the Promotion Selection Board Process
+
+Information To Be Furnished
+
+Limitation on Modifying Furnished Information
+
+Officers in Health-Professions Competitive Categories
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1611](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2926](https://www.govinfo.gov/link/statute/108/2926); amended [Pub. L. 109–163, div. A, title V](https://www.govinfo.gov/link/plaw/109/public/163), §§ 506(b), 515(b)(1)(QQ), Jan. 6, 2006, [119 Stat. 3227](https://www.govinfo.gov/link/statute/119/3227), 3234; [Pub. L. 116–283, div. A, title V, § 505(d)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3573](https://www.govinfo.gov/link/statute/134/3573).)*

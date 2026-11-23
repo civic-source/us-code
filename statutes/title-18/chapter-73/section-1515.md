@@ -3,9 +3,10 @@ title: "Section 1515 - Definitions for certain provisions; general provision"
 usc_title: 18
 usc_section: "1515"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 1515"
-generated_at: "2026-03-30T02:54:16.487Z"
+generated_at: "2026-11-23T20:26:08.503Z"
+status: "active"
 ---
 
 # § 1515. Definitions for certain provisions; general provision
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:16.487Z"
   - **(6)** the term “corruptly persuades” does not include conduct which would be misleading conduct but for a lack of a state of mind.
 - **(b)** As used in section 1505, the term “corruptly” means acting with an improper purpose, personally or by influencing another, including making a false or misleading statement, or withholding, concealing, altering, or destroying a document or other information.
 - **(c)** This chapter does not prohibit or punish the providing of lawful, bona fide, legal representation services in connection with or anticipation of an official proceeding.
+
+## Source Credit
+
+*(Added [Pub. L. 97–291, § 4(a)](https://www.govinfo.gov/link/plaw/97/public/291), Oct. 12, 1982, [96 Stat. 1252](https://www.govinfo.gov/link/statute/96/1252); amended [Pub. L. 99–646, § 50(b)](https://www.govinfo.gov/link/plaw/99/public/646), Nov. 10, 1986, [100 Stat. 3605](https://www.govinfo.gov/link/statute/100/3605); [Pub. L. 100–690, title VII, § 7029(b)](https://www.govinfo.gov/link/plaw/100/public/690), (d), Nov. 18, 1988, [102 Stat. 4398](https://www.govinfo.gov/link/statute/102/4398); [Pub. L. 101–650, title III, § 321](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5117](https://www.govinfo.gov/link/statute/104/5117); [Pub. L. 102–572, title IX, § 902(b)(1)](https://www.govinfo.gov/link/plaw/102/public/572), Oct. 29, 1992, [106 Stat. 4516](https://www.govinfo.gov/link/statute/106/4516); [Pub. L. 103–322, title XXXII, § 320604(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2118](https://www.govinfo.gov/link/statute/108/2118); [Pub. L. 104–292, § 3](https://www.govinfo.gov/link/plaw/104/public/292), Oct. 11, 1996, [110 Stat. 3460](https://www.govinfo.gov/link/statute/110/3460); [Pub. L. 104–294, title VI, § 604(b)(39)](https://www.govinfo.gov/link/plaw/104/public/294), Oct. 11, 1996, [110 Stat. 3509](https://www.govinfo.gov/link/statute/110/3509).)*

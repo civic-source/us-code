@@ -3,9 +3,10 @@ title: "Section 303a - Standards for children’s television programming"
 usc_title: 47
 usc_section: "303a"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 303a"
-generated_at: "2026-03-30T02:56:24.506Z"
+generated_at: "2026-11-23T20:27:28.863Z"
+status: "active"
 ---
 
 # § 303a. Standards for children’s television programming
@@ -16,3 +17,9 @@ generated_at: "2026-03-30T02:56:24.506Z"
   - **(1)** may review and evaluate the advertising duration limitations required by subsection (b); and
   - **(2)** may, after notice and public comment and a demonstration of the need for modification of such limitations, modify such limitations in accordance with the public interest.
 - **(d)** As used in this section, the term “commercial television broadcast licensee” includes a cable operator, as defined in section 522 of this title .
+
+“The Congress finds that—
+
+## Source Credit
+
+*([Pub. L. 101–437, title I, § 102](https://www.govinfo.gov/link/plaw/101/public/437), Oct. 17, 1990, [104 Stat. 996](https://www.govinfo.gov/link/statute/104/996).)*

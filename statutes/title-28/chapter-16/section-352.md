@@ -3,9 +3,10 @@ title: "Section 352 - Review of complaint by chief judge"
 usc_title: 28
 usc_section: "352"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 352"
-generated_at: "2026-03-30T02:55:30.127Z"
+generated_at: "2026-11-23T20:26:36.338Z"
+status: "active"
 ---
 
 # § 352. Review of complaint by chief judge
@@ -23,3 +24,15 @@ generated_at: "2026-03-30T02:55:30.127Z"
   - **(2)** conclude the proceeding if the chief judge finds that appropriate corrective action has been taken or that action on the complaint is no longer necessary because of intervening events.
 - **(c)** A complainant or judge aggrieved by a final order of the chief judge under this section may petition the judicial council of the circuit for review thereof. The denial of a petition for review of the chief judge’s order shall be final and conclusive and shall not be judicially reviewable on appeal or otherwise.
 - **(d)** Each judicial council may, pursuant to rules prescribed under section 358, refer a petition for review filed under subsection (c) to a panel of no fewer than 5 members of the council, at least 2 of whom shall be district judges.
+
+Expeditious Review; Limited Inquiry
+
+Action by Chief Judge Following Review
+
+Review of Orders of Chief Judge
+
+Referral of Petitions for Review to Panels of the Judicial Council
+
+## Source Credit
+
+*(Added [Pub. L. 107–273, div. C, title I, § 11042(a)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1849](https://www.govinfo.gov/link/statute/116/1849).)*

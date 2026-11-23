@@ -3,9 +3,10 @@ title: "Section 4972 - Tax on nondeductible contributions to qualified employer 
 usc_title: 26
 usc_section: "4972"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 4972"
-generated_at: "2026-03-30T02:55:27.810Z"
+generated_at: "2026-11-23T20:26:46.361Z"
+status: "active"
 ---
 
 # § 4972. Tax on nondeductible contributions to qualified employer plans
@@ -41,3 +42,17 @@ generated_at: "2026-03-30T02:55:27.810Z"
       - **(iv)** any simple retirement account (within the meaning of section 408(p)).
     - **(B)** The term “qualified employer plan” does not include a plan described in subparagraph (A) or (B) of section 4980(c)(1).
   - **(2)** In the case of a plan which provides contributions or benefits for employees some or all of whom are self-employed individuals within the meaning of section 401(c)(1), the term “employer” means the person treated as the employer under section 401(c)(4).
+
+In general
+
+No inference
+
+Section 4972(c)(6)(a)
+
+Section 4972(c)(6)(b)
+
+“In the case of any taxable year beginning in 1987, the amount under section 4972(c)(1)(A)(ii) of the 1986 Code for a plan to which title IV of the Employee Retirement Income Security Act of 1974 [ 29 U.S.C. 1301 et seq.] applies shall be increased by the amount (if any) by which, as of the close of the plan year with or within which such taxable year begins—
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title XI, § 1131(c)(1)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2477](https://www.govinfo.gov/link/statute/100/2477); amended [Pub. L. 100–647, title I, § 1011A(e)(1)](https://www.govinfo.gov/link/plaw/100/public/647), (2), title II, § 2005(a)(1), Nov. 10, 1988, [102 Stat. 3477](https://www.govinfo.gov/link/statute/102/3477), 3610; [Pub. L. 103–465, title VII, § 755(a)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 5023](https://www.govinfo.gov/link/statute/108/5023); [Pub. L. 104–188, title I, § 1421(b)(9)(D)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1798](https://www.govinfo.gov/link/statute/110/1798); [Pub. L. 105–34, title XV, § 1507(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1067](https://www.govinfo.gov/link/statute/111/1067); [Pub. L. 107–16, title VI](https://www.govinfo.gov/link/plaw/107/public/16), §§ 616(b)(2)(B), 637(a), (b), 652(b), 653(a), June 7, 2001, [115 Stat. 103](https://www.govinfo.gov/link/statute/115/103), 118, 130; [Pub. L. 108–311, title IV](https://www.govinfo.gov/link/plaw/108/public/311), §§ 404(c), 408(b)(9), Oct. 4, 2004, [118 Stat. 1188](https://www.govinfo.gov/link/statute/118/1188), 1193; [Pub. L. 109–280, title I, § 114(e)(5)](https://www.govinfo.gov/link/plaw/109/public/280), title VIII, § 803(c), Aug. 17, 2006, [120 Stat. 855](https://www.govinfo.gov/link/statute/120/855), 996; [Pub. L. 117–328, div. T, title I, § 118(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5302](https://www.govinfo.gov/link/statute/136/5302).)*

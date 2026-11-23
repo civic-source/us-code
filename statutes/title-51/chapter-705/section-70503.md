@@ -3,9 +3,10 @@ title: "Section 70503 - Ground-based analog capabilities"
 usc_title: 51
 usc_section: "70503"
 chapter: 705
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 70503"
-generated_at: "2026-03-30T02:56:28.713Z"
+generated_at: "2026-11-23T20:27:37.536Z"
+status: "active"
 ---
 
 # § 70503. Ground-based analog capabilities
@@ -16,3 +17,30 @@ generated_at: "2026-03-30T02:56:28.713Z"
   - **(2)** have significant temperature extremes and range; and
   - **(3)** have access to energy and natural resources (including geothermal, permafrost, volcanic, or other potential resources).
 - **(c)** In carrying out this section, the Administrator shall involve local populations, academia, and industrial partners as much as possible to ensure that ground-based benefits and applications are encouraged and developed.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 70503 | 42 U.S.C. 16764 . | Pub. L. 109–155, title V, § 504 , Dec. 30, 2005 , 119 Stat. 2929 . |
+
+
+In General
+
+Environmental Characteristics
+
+Involvement of Local Populations and Private Sector Partners
+
+Historical and Revision Notes
+
+70503
+
+42 U.S.C. 16764
+
+Pub. L. 109–155, title V, § 504
+
+Dec. 30, 2005
+
+119 Stat. 2929
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3430](https://www.govinfo.gov/link/statute/124/3430).)*

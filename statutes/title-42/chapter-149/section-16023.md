@@ -3,9 +3,10 @@ title: "Section 16023 - Project organization"
 usc_title: 42
 usc_section: "16023"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16023"
-generated_at: "2026-03-30T02:56:11.467Z"
+generated_at: "2026-11-23T20:27:23.596Z"
+status: "active"
 ---
 
 # § 16023. Project organization
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:56:11.467Z"
       - **(ii)** address any recommendations of the document not incorporated in program plans for the Project.
     - **(D)** On a determination by the Secretary that the appropriate activities under the first project phase under subsection (b)(1) are nearly complete, the Secretary shall request the NERAC to conduct a comprehensive review of the Project and to report to the Secretary the recommendation of the NERAC concerning whether the Project is ready to proceed to the second project phase under subsection (b)(2).
     - **(E)** Not later than 60 days after receiving any report from the NERAC related to the Project, the Secretary shall submit to the appropriate committees of the Senate and the House of Representatives a copy of the report, along with any additional views of the Secretary that the Secretary may consider appropriate.
+
+## Source Credit
+
+*([Pub. L. 109–58, title VI, § 643](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 795](https://www.govinfo.gov/link/statute/119/795).)*

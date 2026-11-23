@@ -3,9 +3,10 @@ title: "Section 5511a - Solar Assistance Financing Entity"
 usc_title: 42
 usc_section: "5511a"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5511a"
-generated_at: "2026-03-30T02:56:11.236Z"
+generated_at: "2026-11-23T20:27:22.549Z"
+status: "active"
 ---
 
 # § 5511a. Solar Assistance Financing Entity
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.236Z"
 - **(f)** The Entity shall provide assistance under this section through State agencies responsible for developing State energy conservation plans pursuant to section 6322 of this title , or any other entity or agency authorized to specifically carry out the purposes of this section.
 - **(g)** Not later than the expiration of the 12-month period beginning on October 28, 1992 , the Secretary of Housing and Urban Development, in consultation with the Secretary of Energy, shall issue any regulations necessary to carry out this section, which shall ensure maximum flexibility in utilizing amounts made available under this section.
 - **(h)** There are authorized to be appropriated to carry out this section $10,000,000 for fiscal year 1993 and $10,420,000 for fiscal year 1994. Such sums are to be available until expended.
+
+## Source Credit
+
+*([Pub. L. 102–550, title IX, § 912](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3875](https://www.govinfo.gov/link/statute/106/3875).)*

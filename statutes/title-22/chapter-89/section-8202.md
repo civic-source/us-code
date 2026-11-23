@@ -3,9 +3,10 @@ title: "Section 8202 - Statement of policy"
 usc_title: 22
 usc_section: "8202"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8202"
-generated_at: "2026-03-30T02:55:05.449Z"
+generated_at: "2026-11-23T20:26:32.702Z"
+status: "active"
 ---
 
 # § 8202. Statement of policy
@@ -20,3 +21,7 @@ It is the policy of the United States—
     - **(A)** providing appropriate support to individuals, nongovernmental organizations, and movements located in nondemocratic countries that aspire to live in freedom and establish full democracy in such countries; and
     - **(B)** providing political, economic, and other support to foreign countries and individuals, nongovernmental organizations, and movements that are willingly undertaking a transition to democracy; and
   - **(6)** to strengthen cooperation with other democratic countries in order to better promote and defend shared values and ideals.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XXI, § 2103](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 527](https://www.govinfo.gov/link/statute/121/527).)*

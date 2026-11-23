@@ -3,9 +3,10 @@ title: "Section 3348a - Congressional oversight of sensitive programs not covere
 usc_title: 50
 usc_section: "3348a"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3348a"
-generated_at: "2026-03-30T02:56:26.246Z"
+generated_at: "2026-11-23T20:27:30.973Z"
+status: "active"
 ---
 
 # § 3348a. Congressional oversight of sensitive programs not covered by other provisions of law
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:56:26.246Z"
     - **(C)** the Speaker of the House of Representatives; and
     - **(D)** the minority leader of the House of Representatives.
   - **(3)** The term “covered program” means any special access program or similarly protected program established under the authority of Executive Order 12356 ( 50 U.S.C. 3161 note; relating to prescribing a uniform system for classifying, declassifying, and safeguarding national security information), or any successor Executive order, or any similar sensitive program established anywhere in the Federal Government, including one established at the direction of the President.
+
+## Source Credit
+
+*([Pub. L. 117–103, div. HH, title V, § 501](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 1114](https://www.govinfo.gov/link/statute/136/1114).)*

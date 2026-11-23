@@ -3,9 +3,10 @@ title: "Section 1274A - Special rules for certain transactions where stated prin
 usc_title: 26
 usc_section: "1274A"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1274A"
-generated_at: "2026-03-30T02:55:27.765Z"
+generated_at: "2026-11-23T20:26:46.071Z"
+status: "active"
 ---
 
 # § 1274A. Special rules for certain transactions where stated principal amount does not exceed $2,800,000
@@ -36,3 +37,11 @@ generated_at: "2026-03-30T02:55:27.765Z"
   - **(1)** regulations coordinating the provisions of this section with other provisions of this title,
   - **(2)** regulations necessary to prevent the avoidance of tax through the abuse of the provisions of subsection (c), and
   - **(3)** regulations relating to the treatment of transfers of cash method debt instruments.
+
+In general
+
+Inflation adjustment
+
+## Source Credit
+
+*(Added [Pub. L. 99–121, title I, § 102(a)](https://www.govinfo.gov/link/plaw/99/public/121), Oct. 11, 1985, [99 Stat. 506](https://www.govinfo.gov/link/statute/99/506); amended [Pub. L. 101–508, title XI, § 11813(b)(22)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–555](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 104–188, title I, § 1704(t)(62)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1890](https://www.govinfo.gov/link/statute/110/1890); [Pub. L. 115–97, title I, § 11002(d)(10)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2062](https://www.govinfo.gov/link/statute/131/2062).)*

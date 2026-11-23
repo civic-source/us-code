@@ -3,9 +3,10 @@ title: "Section 6454 - Responsibilities of Federal agency members"
 usc_title: 16
 usc_section: "6454"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6454"
-generated_at: "2026-03-30T02:54:23.059Z"
+generated_at: "2026-11-23T20:26:20.796Z"
+status: "active"
 ---
 
 # § 6454. Responsibilities of Federal agency members
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:23.059Z"
   - **(4)** engage in any other coordinated efforts approved by the Task Force.
 - **(b)** In addition to their responsibilities under subsection (a), the co-chairpersons of the Task Force shall perform the administrative functions of the Task Force and facilitate the coordination of the members of the Task Force described in section 6453(a) of this title .
 - **(c)** Not less than 30 days before each meeting of the Task Force, the program offices of the National Oceanic and Atmospheric Administration responsible for implementing this title shall provide a briefing to the relevant congressional committees on efforts and spending associated with such implementation.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. J, title C, § 10014](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3953](https://www.govinfo.gov/link/statute/136/3953).)*

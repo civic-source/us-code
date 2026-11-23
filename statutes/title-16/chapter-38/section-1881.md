@@ -3,9 +3,10 @@ title: "Section 1881 - Registration and information management"
 usc_title: 16
 usc_section: "1881"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1881"
-generated_at: "2026-03-30T02:54:22.994Z"
+generated_at: "2026-11-23T20:26:20.576Z"
+status: "active"
 ---
 
 # § 1881. Registration and information management
@@ -83,3 +84,9 @@ generated_at: "2026-03-30T02:54:22.994Z"
   - **(2)** within 6 months after receiving the report under paragraph (1), submit to Congress recommendations regarding—
     - **(A)** changes to be made to the Marine Recreational Information Program to make the program better meet the needs of in-season management of annual catch limits and other requirements under such section; and
     - **(B)** alternative management approaches that could be applied to recreational fisheries for which the Marine Recreational Information Program is not meeting the needs of in-season management of annual catch limits, consistent with other requirements of this chapter, until such time as the changes in subparagraph (A) are implemented.
+
+“The Secretary of Commerce shall take into consideration and, to the extent feasible, implement the recommendations of the National Academy of Sciences in the report entitled ‘Review of the Marine Recreational Information Program (2017)’, and shall submit, every 2 years following the date of enactment of this Act [ Dec. 31, 2018 ], a report to the appropriate committees of Congress [Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources of the House of Representatives] detailing progress made implementing those recommendations. Recommendations considered shall include—
+
+## Source Credit
+
+*([Pub. L. 94–265, title IV, § 401](https://www.govinfo.gov/link/plaw/94/public/265), as added [Pub. L. 104–297, title II, § 202](https://www.govinfo.gov/link/plaw/104/public/297), Oct. 11, 1996, [110 Stat. 3605](https://www.govinfo.gov/link/statute/110/3605); amended [Pub. L. 109–479, title II, § 201](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3611](https://www.govinfo.gov/link/statute/120/3611); [Pub. L. 115–405, § 202](https://www.govinfo.gov/link/plaw/115/public/405), Dec. 31, 2018, [132 Stat. 5359](https://www.govinfo.gov/link/statute/132/5359).)*

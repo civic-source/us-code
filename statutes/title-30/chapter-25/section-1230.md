@@ -3,9 +3,10 @@ title: "Section 1230 - Eligibility criteria"
 usc_title: 30
 usc_section: "1230"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1230"
-generated_at: "2026-03-30T02:55:29.396Z"
+generated_at: "2026-11-23T20:26:34.996Z"
+status: "active"
 ---
 
 # § 1230. Eligibility criteria
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:29.396Z"
 - **(b)**
   - **(1)** Notwithstanding the provisions of subsection (a), those colleges or universities which, on October 12, 1988 , have a mining or mineral resources research institute program which has been found to be eligible pursuant to this subchapter shall continue to be eligible subject to review at least once during the period authorized by the Mining and Mineral Resources Research Institute Amendments of 1988, under the provisions of subsection (a). The results of such review shall be submitted by January 15, 1992 , pursuant to section 11(a)(2) of the Mining and Mineral Resources Research Institute Amendments of 1988.
   - **(2)** Generic mineral technology centers established by the Secretary under this subchapter are to be composed of institutes eligible pursuant to subsection (a). Existing generic mineral technology centers shall continue to be eligible under this subchapter subject to at least one review prior to January 15, 1992 , pursuant to section 11(a)(3) of the Mining and Mineral Resources Research Institute Amendments of 1988.
+
+## Source Credit
+
+*([Pub. L. 98–409, § 10](https://www.govinfo.gov/link/plaw/98/public/409), Aug. 29, 1984, [98 Stat. 1541](https://www.govinfo.gov/link/statute/98/1541); [Pub. L. 100–483, § 10](https://www.govinfo.gov/link/plaw/100/public/483), Oct. 12, 1988, [102 Stat. 2340](https://www.govinfo.gov/link/statute/102/2340).)*

@@ -3,12 +3,17 @@ title: "Section 315l - Lands under national-forest administration"
 usc_title: 43
 usc_section: "315l"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 315l"
-generated_at: "2026-03-30T02:55:57.437Z"
+generated_at: "2026-11-23T20:27:06.177Z"
+status: "active"
 ---
 
 # § 315l. Lands under national-forest administration
 
 The President of the United States is authorized to reserve by proclamation and place under national-forest administration in any State where national forests may be created or enlarged by Executive order any unappropriated public lands lying within watersheds forming a part of the national forests which, in his opinion, can best be administered in connection with existing national-forest administration units, and to place under the Interior Department administration any lands within national forests, principally valuable for grazing, which, in his opinion, can best be administered under the provisions of this subchapter: Provided , That such reservations or transfers shall not interfere with legal rights acquired under any public-land laws so long as such rights are legally maintained. Lands placed under the national-forest administration under the authority of this subchapter shall be subject to all the laws and regulations relating to national forests, and lands placed under the Interior Department administration shall be subject to all public-land laws and regulations applicable to grazing districts created under authority of this subchapter. Nothing in this section shall be construed so as to limit the powers of the President (relating to reorganizations in the executive departments) granted by sections 124 to 132 of title 5. 1 1 See References in Text note below.
 
+
+## Source Credit
+
+*(June 28, 1934, ch. 865, § 13, [48 Stat. 1274](https://www.govinfo.gov/link/statute/48/1274).)*

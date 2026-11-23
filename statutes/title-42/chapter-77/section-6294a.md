@@ -3,9 +3,10 @@ title: "Section 6294a - Energy Star program"
 usc_title: 42
 usc_section: "6294a"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6294a"
-generated_at: "2026-03-30T02:56:11.247Z"
+generated_at: "2026-11-23T20:27:22.611Z"
+status: "active"
 ---
 
 # § 6294a. Energy Star program
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.247Z"
 - **(d)** The Secretary shall establish new qualifying levels—
   - **(1)** not later than January 1, 2006 , for clothes washers and dishwashers, effective beginning January 1, 2007 ; and
   - **(2)** not later than January 1, 2008 , for clothes washers, effective beginning July 1, 2009 .
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 324A](https://www.govinfo.gov/link/plaw/94/public/163), as added [Pub. L. 109–58, title I, § 131(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 620](https://www.govinfo.gov/link/statute/119/620); amended [Pub. L. 110–140, title III, § 311(b)](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1564](https://www.govinfo.gov/link/statute/121/1564).)*

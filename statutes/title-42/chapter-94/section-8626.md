@@ -3,9 +3,10 @@ title: "Section 8626 - Payments to States; fiscal year requirements respecting a
 usc_title: 42
 usc_section: "8626"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8626"
-generated_at: "2026-03-30T02:56:11.346Z"
+generated_at: "2026-11-23T20:27:23.055Z"
+status: "active"
 ---
 
 # § 8626. Payments to States; fiscal year requirements respecting availability, etc.
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.346Z"
     - **(B)** No amount may be held available under this paragraph for a State from a prior fiscal year to the extent such amount exceeds 10 percent of the amount payable to such State for such prior fiscal year. For purposes of the preceding sentence, the amount payable to a State for a fiscal year shall be determined without regard to any amount held available under this paragraph for such State for such fiscal year from the prior fiscal year.
     - **(C)** The Secretary shall reallot amounts made available under this paragraph for the fiscal year following the fiscal year of the original allotment in accordance with paragraph (1) of this subsection.
   - **(3)** During the 30-day period described in paragraph (1)(B), comments may be submitted to the Secretary. After considering such comments, the Secretary shall notify the chief executive officer of the State of any decision to reallot funds, and shall publish such decision in the Federal Register.
+
+## Source Credit
+
+*([Pub. L. 97–35, title XXVI, § 2607](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 900](https://www.govinfo.gov/link/statute/95/900); [Pub. L. 98–558, title VI, § 606](https://www.govinfo.gov/link/plaw/98/public/558), Oct. 30, 1984, [98 Stat. 2892](https://www.govinfo.gov/link/statute/98/2892); [Pub. L. 101–501, title VII, § 706](https://www.govinfo.gov/link/plaw/101/public/501), Nov. 3, 1990, [104 Stat. 1260](https://www.govinfo.gov/link/statute/104/1260); [Pub. L. 103–252, title III, § 310](https://www.govinfo.gov/link/plaw/103/public/252), May 18, 1994, [108 Stat. 661](https://www.govinfo.gov/link/statute/108/661); [Pub. L. 105–285, title III, § 307](https://www.govinfo.gov/link/plaw/105/public/285), Oct. 27, 1998, [112 Stat. 2758](https://www.govinfo.gov/link/statute/112/2758).)*

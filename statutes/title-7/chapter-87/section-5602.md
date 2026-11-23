@@ -3,9 +3,10 @@ title: "Section 5602 - Definitions"
 usc_title: 7
 usc_section: "5602"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 5602"
-generated_at: "2026-03-30T02:53:42.415Z"
+generated_at: "2026-11-23T20:25:41.648Z"
+status: "active"
 ---
 
 # § 5602. Definitions
@@ -38,3 +39,7 @@ As used in this chapter—
       - **(i)** 90 percent or more of the agricultural components of which by weight, excluding packaging and added water, is entirely produced in the United States; and
       - **(ii)** that the Secretary determines to be a high value agricultural product.
   - **(8)** The term “independent states of the former Soviet Union” means the following: Armenia, Azerbaijan, Belarus, Georgia, Kazakhstan, Kyrgyzstan, Moldova, Russia, Tajikistan, Turkmenistan, Ukraine, and Uzbekistan.
+
+## Source Credit
+
+*([Pub. L. 95–501, title I, § 102](https://www.govinfo.gov/link/plaw/95/public/501), as added [Pub. L. 101–624, title XV, § 1531](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3669](https://www.govinfo.gov/link/statute/104/3669); amended [Pub. L. 102–511, title VII, § 702](https://www.govinfo.gov/link/plaw/102/public/511), Oct. 24, 1992, [106 Stat. 3349](https://www.govinfo.gov/link/statute/106/3349); [Pub. L. 104–127, title II, § 243(c)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 967](https://www.govinfo.gov/link/statute/110/967); [Pub. L. 107–171, title III, § 3104(b)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 290](https://www.govinfo.gov/link/statute/116/290).)*

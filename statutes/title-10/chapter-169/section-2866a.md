@@ -3,9 +3,10 @@ title: "Section 2866a - Risk-based approach to water management and water securi
 usc_title: 10
 usc_section: "2866a"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2866a"
-generated_at: "2026-03-30T02:53:38.180Z"
+generated_at: "2026-11-23T20:25:51.744Z"
+status: "active"
 ---
 
 # § 2866a. Risk-based approach to water management and water security at military installations
@@ -89,3 +90,31 @@ generated_at: "2026-03-30T02:53:38.180Z"
         - **(I)** the water supply of a military installation under the jurisdiction such Secretary; or
         - **(II)** the demand for water of such military installation.
 - **(h)** Nothing in this section shall be construed to require the repetition or replacement of any prior water assessment or evaluation conducted before the date of the enactment of section 2827 of the Military Construction Authorization Act for Fiscal Year 2021 (division B of Public Law 118–159 ; 10 U.S.C. 2866 note) 2 2 See References in Text note below. that is accurate and reflects current mission requirements.
+
+In General
+
+Water Management and Water Security Assessments
+
+(aa) cooling;
+
+(bb) irrigation groundskeeping;
+
+(cc) wash water; and
+
+(dd) other industrial and agricultural uses.
+
+Reassessment of Water Security Risk
+
+Mitigation of Highest Water Security Risk Installations
+
+Evaluation of Installations for Nonpotable Water Reuse
+
+Cost Effective Landscaping Management Practices
+
+Briefings Required
+
+Rule of Construction
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. B, title XXVIII, § 2804(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1294](https://www.govinfo.gov/link/statute/139/1294).)*

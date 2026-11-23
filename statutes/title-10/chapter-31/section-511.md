@@ -3,9 +3,10 @@ title: "Section 511 - College First Program"
 usc_title: 10
 usc_section: "511"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 511"
-generated_at: "2026-03-30T02:53:38.064Z"
+generated_at: "2026-11-23T20:25:50.984Z"
+status: "active"
 ---
 
 # § 511. College First Program
@@ -28,3 +29,19 @@ generated_at: "2026-03-30T02:53:38.064Z"
   - **(3)** A discharge of a person in bankruptcy under title 11 that is entered less than five years after the date on which the person was, or was to be, enlisted in the regular Army pursuant to the delayed entry authority under section 513 does not discharge that person from a debt arising under paragraph (1).
   - **(4)** The Secretary concerned may waive, in whole or in part, a debt arising under paragraph (1) in any case for which the Secretary determines that recovery would be against equity and good conscience or would be contrary to the best interests of the United States.
 - **(f)** Upon enlisting in the regular component of the member’s armed force, a person who initially enlisted as a Reserve under this section may, at the discretion of the Secretary concerned, be eligible for all regular special pays, bonuses, education benefits, and loan repayment programs.
+
+Program Authority
+
+Delayed Entry With Allowance for Higher Education
+
+Maximum Period of Delay
+
+Allowance
+
+Recoupment of Allowance
+
+Special Pay and Bonuses
+
+## Source Credit
+
+*(Added [Pub. L. 108–375, div. A, title V, § 551(a)(1)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1909](https://www.govinfo.gov/link/statute/118/1909); amended [Pub. L. 118–31, div. A, title XVII, § 1717(b)(6)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 655](https://www.govinfo.gov/link/statute/137/655).)*

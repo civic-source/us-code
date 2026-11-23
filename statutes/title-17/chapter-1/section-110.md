@@ -3,9 +3,10 @@ title: "Section 110 - Limitations on exclusive rights: Exemption of certain perf
 usc_title: 17
 usc_section: "110"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 110"
-generated_at: "2026-03-30T02:54:15.345Z"
+generated_at: "2026-11-23T20:26:06.480Z"
+status: "active"
 ---
 
 # § 110. Limitations on exclusive rights: Exemption of certain performances and displays
@@ -53,3 +54,11 @@ Notwithstanding the provisions of section 106, the following are not infringemen
   - **(11)** the making imperceptible, by or at the direction of a member of a private household, of limited portions of audio or video content of a motion picture, during a performance in or transmitted to that household for private home viewing, from an authorized copy of the motion picture, or the creation or provision of a computer program or other technology that enables such making imperceptible and that is designed and marketed to be used, at the direction of a member of a private household, for such making imperceptible, if no fixed copy of the altered version of the motion picture is created by such computer program or other technology.
     - **(A)** with respect to an institution providing post-secondary education, shall be as determined by a regional or national accrediting agency recognized by the Council on Higher Education Accreditation or the United States Department of Education; and
     - **(B)** with respect to an institution providing elementary or secondary education, shall be as recognized by the applicable state certification or licensing procedures.
+
+(aa) retention of the work in accessible form by recipients of the transmission from the transmitting body or institution for longer than the class session; and
+
+(bb) unauthorized further dissemination of the work in accessible form by such recipients to others; and
+
+## Source Credit
+
+*([Pub. L. 94–553, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/553), Oct. 19, 1976, [90 Stat. 2549](https://www.govinfo.gov/link/statute/90/2549); [Pub. L. 97–366, § 3](https://www.govinfo.gov/link/plaw/97/public/366), Oct. 25, 1982, [96 Stat. 1759](https://www.govinfo.gov/link/statute/96/1759); [Pub. L. 105–80, § 12(a)(6)](https://www.govinfo.gov/link/plaw/105/public/80), Nov. 13, 1997, [111 Stat. 1534](https://www.govinfo.gov/link/statute/111/1534); [Pub. L. 105–298, title II, § 202](https://www.govinfo.gov/link/plaw/105/public/298), Oct. 27, 1998, [112 Stat. 2830](https://www.govinfo.gov/link/statute/112/2830); [Pub. L. 106–44, § 1(a)](https://www.govinfo.gov/link/plaw/106/public/44), Aug. 5, 1999, [113 Stat. 221](https://www.govinfo.gov/link/statute/113/221); [Pub. L. 107–273, div. C, title III](https://www.govinfo.gov/link/plaw/107/public/273), §§ 13210(6), 13301(b), Nov. 2, 2002, [116 Stat. 1909](https://www.govinfo.gov/link/statute/116/1909), 1910; [Pub. L. 109–9, title II, § 202(a)](https://www.govinfo.gov/link/plaw/109/public/9), Apr. 27, 2005, [119 Stat. 223](https://www.govinfo.gov/link/statute/119/223).)*

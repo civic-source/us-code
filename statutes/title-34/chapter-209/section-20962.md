@@ -3,9 +3,10 @@ title: "Section 20962 - Schools SAFE Act"
 usc_title: 34
 usc_section: "20962"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 20962"
-generated_at: "2026-03-30T02:55:33.301Z"
+generated_at: "2026-11-23T20:26:50.612Z"
+status: "active"
 ---
 
 # § 20962. Schools SAFE Act
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:33.301Z"
   - **(1)** the State or local agency responsible for administering the plan under part B or part E of title IV of the Social Security Act [ 42 U.S.C. 620 et seq., 670 et seq.]; and
   - **(2)** any other public agency, or any other private agency under contract with the State or local agency responsible for administering the plan under part B or part E of title IV of the Social Security Act, that is responsible for the licensing or approval of foster or adoptive parents.
 - **(h)** In this section, the terms “elementary school”, “local educational agency”, “secondary school”, and “State educational agency” have the meanings given to those terms in section 7801 of title 20 .
+
+## Source Credit
+
+*([Pub. L. 109–248, title I, § 153](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 610](https://www.govinfo.gov/link/statute/120/610); [Pub. L. 114–95, title IX, § 9215(b)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2166](https://www.govinfo.gov/link/statute/129/2166).)*

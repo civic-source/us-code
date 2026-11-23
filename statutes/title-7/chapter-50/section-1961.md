@@ -3,9 +3,10 @@ title: "Section 1961 - Eligibility for loans"
 usc_title: 7
 usc_section: "1961"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1961"
-generated_at: "2026-03-30T02:53:42.349Z"
+generated_at: "2026-11-23T20:25:41.361Z"
+status: "active"
 ---
 
 # § 1961. Eligibility for loans
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:53:42.349Z"
 - **(d)** For the purposes of this subchapter—
   - **(1)** “aquaculture” means the husbandry of aquatic organisms under a controlled or selected environment; and
   - **(2)** “able to obtain sufficient credit elsewhere” means able to obtain sufficient credit elsewhere to finance the applicant’s actual needs at reasonable rates and terms, taking into consideration prevailing private and cooperative rates and terms in the community in or near which the applicant resides for loans for similar purposes and periods of time.
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 321](https://www.govinfo.gov/link/plaw/87/public/128), Aug. 8, 1961, [75 Stat. 311](https://www.govinfo.gov/link/statute/75/311); [Pub. L. 87–832](https://www.govinfo.gov/link/plaw/87/public/832), Oct. 15, 1962, [76 Stat. 958](https://www.govinfo.gov/link/statute/76/958); [Pub. L. 93–24](https://www.govinfo.gov/link/plaw/93/public/24), §§ 2, 3, 6, Apr. 20, 1973, [87 Stat. 24](https://www.govinfo.gov/link/statute/87/24), 25; [Pub. L. 93–237, § 10(a)](https://www.govinfo.gov/link/plaw/93/public/237), (d), Jan. 2, 1974, [87 Stat. 1025](https://www.govinfo.gov/link/statute/87/1025); [Pub. L. 94–68](https://www.govinfo.gov/link/plaw/94/public/68), §§ 2, 3, Aug. 5, 1975, [89 Stat. 381](https://www.govinfo.gov/link/statute/89/381); [Pub. L. 95–334, title I, § 118](https://www.govinfo.gov/link/plaw/95/public/334), Aug. 4, 1978, [92 Stat. 426](https://www.govinfo.gov/link/statute/92/426); [Pub. L. 96–302, title I, § 120(a)](https://www.govinfo.gov/link/plaw/96/public/302), July 2, 1980, [94 Stat. 841](https://www.govinfo.gov/link/statute/94/841); [Pub. L. 96–438, § 3(a)](https://www.govinfo.gov/link/plaw/96/public/438), (b)(1), Oct. 13, 1980, [94 Stat. 1872](https://www.govinfo.gov/link/statute/94/1872); [Pub. L. 97–35, title I, § 161](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 378](https://www.govinfo.gov/link/statute/95/378); [Pub. L. 98–258, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/98/public/258), Apr. 10, 1984, [98 Stat. 138](https://www.govinfo.gov/link/statute/98/138); [Pub. L. 99–198, title XIII, § 1308(a)](https://www.govinfo.gov/link/plaw/99/public/198), (b)(1), Dec. 23, 1985, [99 Stat. 1522](https://www.govinfo.gov/link/statute/99/1522); [Pub. L. 100–707, title I, § 109(c)(1)](https://www.govinfo.gov/link/plaw/100/public/707), Nov. 23, 1988, [102 Stat. 4708](https://www.govinfo.gov/link/statute/102/4708); [Pub. L. 104–127, title VI, § 621(a)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1091](https://www.govinfo.gov/link/statute/110/1091); [Pub. L. 106–387, § 1(a) [title VIII, § 833]](https://www.govinfo.gov/link/plaw/106/public/387), Oct. 28, 2000, [114 Stat. 1549](https://www.govinfo.gov/link/statute/114/1549), 1549A–61; [Pub. L. 107–171, title V](https://www.govinfo.gov/link/plaw/107/public/171), §§ 5201(a), 5302, 5501(a), May 13, 2002, [116 Stat. 344](https://www.govinfo.gov/link/statute/116/344), 351; [Pub. L. 110–234, title V, § 5201](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1146](https://www.govinfo.gov/link/statute/122/1146); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title V, § 5201, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1908; [Pub. L. 113–79, title V, § 5201](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 838](https://www.govinfo.gov/link/statute/128/838); [Pub. L. 115–334, title V, § 5401(a)(1)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4674](https://www.govinfo.gov/link/statute/132/4674).)*

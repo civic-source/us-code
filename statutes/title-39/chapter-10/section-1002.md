@@ -3,9 +3,10 @@ title: "Section 1002 - Political recommendations"
 usc_title: 39
 usc_section: "1002"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "39 U.S.C. § 1002"
-generated_at: "2026-03-30T02:55:43.689Z"
+generated_at: "2026-11-23T20:26:57.724Z"
+status: "active"
 ---
 
 # § 1002. Political recommendations
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:43.689Z"
   - **(4)** the statement is furnished by a former employer of such person pursuant to a request of the Postal Service, and consists solely of an evaluation of the work performance, ability, aptitude, and general qualifications of such person during his employment with such former employer.
 - **(f)** The Postal Service shall take any action it determines necessary and proper, including but not limited to suspension, removal from office, or disqualification from the Postal Service, to enforce the provisions of this section.
 - **(g)** The provisions of this section shall not affect the right of an officer or employee of the Postal Service to petition Congress as authorized by section 7211 of title 5 .
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 729](https://www.govinfo.gov/link/statute/84/729); [Pub. L. 95–454, title VII, § 703(c)(5)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1217](https://www.govinfo.gov/link/statute/92/1217); [Pub. L. 109–435, title VI, § 604(a)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3241](https://www.govinfo.gov/link/statute/120/3241).)*

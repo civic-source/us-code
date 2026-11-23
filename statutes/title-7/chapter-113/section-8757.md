@@ -3,9 +3,10 @@ title: "Section 8757 - Marketing assistance loans and loan deficiency payments f
 usc_title: 7
 usc_section: "8757"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 8757"
-generated_at: "2026-03-30T02:53:42.480Z"
+generated_at: "2026-11-23T20:25:41.913Z"
+status: "active"
 ---
 
 # § 8757. Marketing assistance loans and loan deficiency payments for peanuts
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:53:42.480Z"
   - **(4)** The Secretary shall determine the amount of the loan deficiency payment to be made under this subsection to the producers on a farm with respect to a quantity of peanuts using the payment rate in effect under paragraph (3) as of the date the producers request the payment.
 - **(f)** As a condition of the receipt of a marketing assistance loan under subsection (a), the producer shall comply with applicable conservation requirements under subtitle B of title XII of the Food Security Act of 1985 ( 16 U.S.C. 3811 et seq.) and applicable wetland protection requirements under subtitle C of title XII of that Act ( 16 U.S.C. 3821 et seq.) during the term of the loan.
 - **(g)** The Secretary may implement any reimbursable agreements or provide for the payment of administrative expenses under this subchapter only in a manner that is consistent with such activities in regard to other commodities.
+
+## Source Credit
+
+*([Pub. L. 110–234, title I, § 1307](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 974](https://www.govinfo.gov/link/statute/122/974); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1307, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1703.)*

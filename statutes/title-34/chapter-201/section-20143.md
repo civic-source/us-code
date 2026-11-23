@@ -3,9 +3,10 @@ title: "Section 20143 - Grants for young witness assistance"
 usc_title: 34
 usc_section: "20143"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 20143"
-generated_at: "2026-03-30T02:55:33.295Z"
+generated_at: "2026-11-23T20:26:50.586Z"
+status: "active"
 ---
 
 # § 20143. Grants for young witness assistance
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:33.295Z"
   - **(2)** The term “young adult” means an individual who is age 21 or younger but not a juvenile.
   - **(3)** The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands.
 - **(d)** There are authorized to be appropriated to carry out this section $3,000,000 for each of fiscal years 2006 through 2009.
+
+## Source Credit
+
+*([Pub. L. 109–162, title XI, § 1136](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3109](https://www.govinfo.gov/link/statute/119/3109); [Pub. L. 109–271, § 8(c)](https://www.govinfo.gov/link/plaw/109/public/271), Aug. 12, 2006, [120 Stat. 766](https://www.govinfo.gov/link/statute/120/766).)*

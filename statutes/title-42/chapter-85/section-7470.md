@@ -3,9 +3,10 @@ title: "Section 7470 - Congressional declaration of purpose"
 usc_title: 42
 usc_section: "7470"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7470"
-generated_at: "2026-03-30T02:56:11.303Z"
+generated_at: "2026-11-23T20:27:22.869Z"
+status: "active"
 ---
 
 # § 7470. Congressional declaration of purpose
@@ -17,3 +18,7 @@ The purposes of this part are as follows:
   - **(3)** to insure that economic growth will occur in a manner consistent with the preservation of existing clean air resources;
   - **(4)** to assure that emissions from any source in any State will not interfere with any portion of the applicable implementation plan to prevent significant deterioration of air quality for any other State; and
   - **(5)** to assure that any decision to permit increased air pollution in any area to which this section applies is made only after careful evaluation of all the consequences of such a decision and after adequate procedural opportunities for informed public participation in the decisionmaking process.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 160, as added [Pub. L. 95–95, title I, § 127(a)](https://www.govinfo.gov/link/plaw/95/public/95), Aug. 7, 1977, [91 Stat. 731](https://www.govinfo.gov/link/statute/91/731).)*

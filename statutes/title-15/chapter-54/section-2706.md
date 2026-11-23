@@ -3,9 +3,10 @@ title: "Section 2706 - Informational and testing functions of Secretary of Energ
 usc_title: 15
 usc_section: "2706"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2706"
-generated_at: "2026-03-30T02:54:08.183Z"
+generated_at: "2026-11-23T20:26:04.251Z"
+status: "active"
 ---
 
 # § 2706. Informational and testing functions of Secretary of Energy
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:08.183Z"
 - **(a)** The Secretary of Energy shall, for the purposes of performing his responsibilities under this chapter, consider any reasonable new or improved technology, a description of which is submitted to the Secretary of Energy in writing, which could lead or contribute to the development of advanced automobile propulsion system technology.
 - **(b)** The Administrator of the Environmental Protection Agency shall test, or cause to be tested, in a facility subject to Environmental Protection Agency supervision, each advanced automobile propulsion system in an appropriately modified production vehicle equipped with such a system developed in whole or in part with Federal financial assistance under this chapter, or referred to the Administrator of the Environmental Protection Agency for such purpose by the Secretary of Energy, to determine whether such vehicle complies with any exhaust emission standards or any other requirements promulgated or reasonably expected to be promulgated under any provision of the Clean Air Act ( 42 U.S.C. 1857 et seq.) [ 42 U.S.C. 7401 et seq.], the Noise Control Act of 1972 ( 42 U.S.C. 4901 et seq.), or any other provision of Federal law administered by the Administrator of the Environmental Protection Agency. In conjunction with any test for compliance with exhaust emission standards under this section, the Administrator of the Environmental Protection Agency shall also conduct tests to determine the fuel economy of such vehicle. The Administrator of the Environmental Protection Agency shall submit all test data and the results of such tests to the Secretary of Energy.
 - **(c)** The Secretary of Energy shall collect, analyze, and disseminate to developers information, data, and materials that may be relevant to the development of advanced automobile propulsion system technology.
+
+## Source Credit
+
+*([Pub. L. 95–238, title III, § 307](https://www.govinfo.gov/link/plaw/95/public/238), Feb. 25, 1978, [92 Stat. 82](https://www.govinfo.gov/link/statute/92/82).)*

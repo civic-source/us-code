@@ -3,9 +3,10 @@ title: "Section 1539 - Exceptions"
 usc_title: 16
 usc_section: "1539"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1539"
-generated_at: "2026-03-30T02:54:22.977Z"
+generated_at: "2026-11-23T20:26:20.526Z"
+status: "active"
 ---
 
 # § 1539. Exceptions
@@ -107,3 +108,7 @@ generated_at: "2026-03-30T02:54:22.977Z"
       - **(i)** solely for purposes of section 1536 of this title (other than subsection (a)(1) thereof), an experimental population determined under subparagraph (B) to be not essential to the continued existence of a species shall be treated, except when it occurs in an area within the National Wildlife Refuge System or the National Park System, as a species proposed to be listed under section 1533 of this title ; and
       - **(ii)** critical habitat shall not be designated under this chapter for any experimental population determined under subparagraph (B) to be not essential to the continued existence of a species.
   - **(3)** The Secretary, with respect to populations of endangered species or threatened species that the Secretary authorized, before October 13, 1982 , for release in geographical areas separate from the other populations of such species, shall determine by regulation which of such populations are an experimental population for the purposes of this subsection and whether or not each is essential to the continued existence of an endangered species or a threatened species.
+
+## Source Credit
+
+*([Pub. L. 93–205, § 10](https://www.govinfo.gov/link/plaw/93/public/205), Dec. 28, 1973, [87 Stat. 896](https://www.govinfo.gov/link/statute/87/896); [Pub. L. 94–359](https://www.govinfo.gov/link/plaw/94/public/359), §§ 2, 3, July 12, 1976, [90 Stat. 911](https://www.govinfo.gov/link/statute/90/911), 912; [Pub. L. 95–632, § 5](https://www.govinfo.gov/link/plaw/95/public/632), Nov. 10, 1978, [92 Stat. 3760](https://www.govinfo.gov/link/statute/92/3760); [Pub. L. 96–159, § 7](https://www.govinfo.gov/link/plaw/96/public/159), Dec. 28, 1979, [93 Stat. 1230](https://www.govinfo.gov/link/statute/93/1230); [Pub. L. 97–304, § 6(1)](https://www.govinfo.gov/link/plaw/97/public/304) –(4)(A), (5), (6), Oct. 13, 1982, [96 Stat. 1422–1424](https://www.govinfo.gov/link/statute/96/1422); [Pub. L. 100–478, title I](https://www.govinfo.gov/link/plaw/100/public/478), §§ 1011, 1013(b), (c), Oct. 7, 1988, [102 Stat. 2314](https://www.govinfo.gov/link/statute/102/2314), 2315.)*

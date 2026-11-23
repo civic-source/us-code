@@ -3,9 +3,10 @@ title: "Section 17386 - Federal matching fund for smart grid investment costs"
 usc_title: 42
 usc_section: "17386"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17386"
-generated_at: "2026-03-30T02:56:11.507Z"
+generated_at: "2026-11-23T20:27:23.759Z"
+status: "active"
 ---
 
 # § 17386. Federal matching fund for smart grid investment costs
@@ -62,3 +63,7 @@ generated_at: "2026-03-30T02:56:11.507Z"
     - **(E)** establish procedures to provide advance payment of moneys up to the full amount of the grant award.
   - **(2)** The Secretary shall have discretion and exercise reasonable judgment to deny grants for investments that do not qualify.
 - **(f)** There are authorized to be appropriated to the Secretary such sums as are necessary for the administration of this section and the grants to be made pursuant to this section for fiscal years 2008 through 2012.
+
+## Source Credit
+
+*([Pub. L. 110–140, title XIII, § 1306](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1789](https://www.govinfo.gov/link/statute/121/1789); [Pub. L. 111–5, div. A, title IV, § 405(5)](https://www.govinfo.gov/link/plaw/111/public/5) –(8), Feb. 17, 2009, [123 Stat. 144](https://www.govinfo.gov/link/statute/123/144); [Pub. L. 117–58, div. D, title I, § 40107(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 940](https://www.govinfo.gov/link/statute/135/940).)*

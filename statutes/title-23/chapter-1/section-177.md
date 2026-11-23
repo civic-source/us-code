@@ -3,9 +3,10 @@ title: "Section 177 - Neighborhood access and equity grant program"
 usc_title: 23
 usc_section: "177"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 177"
-generated_at: "2026-03-30T02:55:12.564Z"
+generated_at: "2026-11-23T20:26:23.844Z"
+status: "active"
 ---
 
 # § 177. Neighborhood access and equity grant program
@@ -59,3 +60,31 @@ generated_at: "2026-03-30T02:55:12.564Z"
 - **(h)** Amounts made available under this section shall not—
   - **(1)** be subject to any restriction or limitation on the total amount of funds available for implementation or execution of programs authorized for Federal-aid highways; and
   - **(2)** be used for a project for additional through travel lanes for single-occupant passenger vehicles.
+
+In General
+
+Eligible Entities Described
+
+Facility Described
+
+Investment in Economically Disadvantaged Communities.—
+
+In general
+
+Communities described
+
+Administration.—
+
+In general
+
+Compliance with existing requirements
+
+Cost Share
+
+Technical Assistance
+
+Limitations
+
+## Source Credit
+
+*(Added [Pub. L. 117–169, title VI, § 60501(a)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 2080](https://www.govinfo.gov/link/statute/136/2080).)*

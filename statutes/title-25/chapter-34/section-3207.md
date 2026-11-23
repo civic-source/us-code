@@ -3,9 +3,10 @@ title: "Section 3207 - Character investigations"
 usc_title: 25
 usc_section: "3207"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3207"
-generated_at: "2026-03-30T02:54:52.850Z"
+generated_at: "2026-11-23T20:26:25.641Z"
+status: "active"
 ---
 
 # § 3207. Character investigations
@@ -70,3 +71,7 @@ generated_at: "2026-03-30T02:54:52.850Z"
       - **(ii)** is listed on a registry described in clause (II) or (III) of paragraph (2)(B)(i);
     - **(C)** promising practices used by Indian tribes to address emergency foster care placement procedures under paragraph (3); and
     - **(D)** procedures for certifying compliance with this chapter.
+
+## Source Credit
+
+*([Pub. L. 101–630, title IV, § 408](https://www.govinfo.gov/link/plaw/101/public/630), Nov. 28, 1990, [104 Stat. 4551](https://www.govinfo.gov/link/statute/104/4551); [Pub. L. 106–568, title VIII, § 814](https://www.govinfo.gov/link/plaw/106/public/568), Dec. 27, 2000, [114 Stat. 2918](https://www.govinfo.gov/link/statute/114/2918); [Pub. L. 114–165, § 2](https://www.govinfo.gov/link/plaw/114/public/165), June 3, 2016, [130 Stat. 415](https://www.govinfo.gov/link/statute/130/415).)*

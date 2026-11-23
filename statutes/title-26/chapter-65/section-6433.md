@@ -3,9 +3,10 @@ title: "Section 6433 - Saver’s Match"
 usc_title: 26
 usc_section: "6433"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6433"
-generated_at: "2026-03-30T02:55:27.857Z"
+generated_at: "2026-11-23T20:26:46.669Z"
+status: "active"
 ---
 
 # § 6433. Saver’s Match
@@ -102,3 +103,17 @@ generated_at: "2026-03-30T02:55:27.857Z"
     - **(A)** such dollar amount, multiplied by
     - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2026” for “calendar year 2016” in subparagraph (A)(ii) thereof.
   - **(2)** Any increase determined under paragraph (1) shall be rounded to the nearest multiple of $1,000.
+
+Payments to possessions with mirror code tax systems
+
+Payments to other possessions
+
+Coordination with united states saver’s match
+
+Mirror code tax system
+
+Treatment of payments
+
+## Source Credit
+
+*(Added [Pub. L. 117–328, div. T, title I, § 103(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5279](https://www.govinfo.gov/link/statute/136/5279).)*

@@ -3,9 +3,10 @@ title: "Section 9097 - Implementation"
 usc_title: 7
 usc_section: "9097"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 9097"
-generated_at: "2026-03-30T02:53:42.488Z"
+generated_at: "2026-11-23T20:25:41.962Z"
+status: "active"
 ---
 
 # § 9097. Implementation
@@ -75,3 +76,7 @@ generated_at: "2026-03-30T02:53:42.488Z"
 - **(f)** Not later than January 1, 2020 , and each January 1 thereafter through January 1, 2023 , the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the tilled native sod acreage that was subject to a reduction in benefits under section 7333(a)(4)(B) of this title and section 508( o )(2) of the Federal Crop Insurance Act ( 7 U.S.C. 1508 ( o )(2))—
   - **(1)** as of the date of submission of the report; and
   - **(2)** by State and county, relative to the total acres of cropland in the State or county.
+
+## Source Credit
+
+*([Pub. L. 113–79, title I, § 1614](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 711](https://www.govinfo.gov/link/statute/128/711); [Pub. L. 115–334, title I, § 1706](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4527](https://www.govinfo.gov/link/statute/132/4527); [Pub. L. 119–21, title I, § 10314](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 100](https://www.govinfo.gov/link/statute/139/100).)*

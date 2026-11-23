@@ -3,9 +3,10 @@ title: "Section 231r - Automatic benefit eligibility requirement adjustments"
 usc_title: 45
 usc_section: "231r"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 231r"
-generated_at: "2026-03-30T02:55:56.548Z"
+generated_at: "2026-11-23T20:27:05.270Z"
+status: "active"
 ---
 
 # § 231r. Automatic benefit eligibility requirement adjustments
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:56.548Z"
   - **(2)** No annuity shall be payable to a person by reason of subsection (a) or (b) of this section unless the individual upon whose compensation and years of service such annuity would be based will have (A) completed ten years of service (or five or more years of service, all of which accrues after December 31, 1995 ), and (B) in the case of a survivor, had a current connection with the railroad industry at the time of his death.
   - **(3)** If the Social Security Act [ 42 U.S.C. 301 et seq.] is amended after December 31, 1974 , to remove any, or all, restriction on the receipt of more than one monthly insurance benefit thereunder, annuity amounts provided a person under section 231b(h), 231c(e), or 231c(h) of this title, or under section 204(a)(3), 204(a)(4), 206(3), or 207(3) of title II of this Act, shall be reduced (but not below zero) by the amount of any annuity provided such person under this subchapter by reason of such amendment.
   - **(4)** If and to the extent that an annuity or other benefit payable to a person by reason of the provisions of subsection (a), (b), or (c) of this section duplicates an annuity or other benefit then payable to such person under other provisions of this subchapter, such annuity or other benefit then payable under other provisions of this subchapter shall be reduced (but not below zero) by the amount of the annuity or other benefit payable by reason of subsection (a), (b), or (c).
+
+## Source Credit
+
+*(Aug. 29, 1935, ch. 812, § 19, as restated June 24, 1937, ch. 382, pt. I, [50 Stat. 307](https://www.govinfo.gov/link/statute/50/307), as restated [Pub. L. 93–445, title I, § 101](https://www.govinfo.gov/link/plaw/93/public/445), Oct. 16, 1974, [88 Stat. 1350](https://www.govinfo.gov/link/statute/88/1350); amended [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695); [Pub. L. 107–90, title I, § 103(h)](https://www.govinfo.gov/link/plaw/107/public/90), Dec. 21, 2001, [115 Stat. 881](https://www.govinfo.gov/link/statute/115/881).)*

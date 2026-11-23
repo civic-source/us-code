@@ -3,9 +3,10 @@ title: "Section 6221 - Determination at partnership level"
 usc_title: 26
 usc_section: "6221"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6221"
-generated_at: "2026-03-30T02:55:27.846Z"
+generated_at: "2026-11-23T20:26:46.599Z"
+status: "active"
 ---
 
 # § 6221. Determination at partnership level
@@ -26,3 +27,15 @@ generated_at: "2026-03-30T02:55:27.846Z"
       - **(ii)** the statements such S corporation is required to so furnish shall be treated as statements furnished by the partnership for purposes of paragraph (1)(B).
     - **(B)** For purposes of paragraph (1)(D)(ii), the Secretary may provide for alternative identification of any foreign partners.
     - **(C)** The Secretary may by regulation or other guidance prescribe rules similar to the rules of subparagraph (A) with respect to any partners not described in such subparagraph or paragraph (1)(C).
+
+In general
+
+Administrative adjustment requests
+
+Adjusted partners statements
+
+Election
+
+## Source Credit
+
+*(Added [Pub. L. 114–74, title XI, § 1101(c)(1)](https://www.govinfo.gov/link/plaw/114/public/74), Nov. 2, 2015, [129 Stat. 625](https://www.govinfo.gov/link/statute/129/625); amended [Pub. L. 115–141, div. U, title II, § 201(c)(2)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1173](https://www.govinfo.gov/link/statute/132/1173).)*

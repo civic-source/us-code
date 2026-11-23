@@ -3,9 +3,10 @@ title: "Section 16372 - Determination of eligibility and project selection"
 usc_title: 42
 usc_section: "16372"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16372"
-generated_at: "2026-03-30T02:56:11.484Z"
+generated_at: "2026-11-23T20:27:23.674Z"
+status: "active"
 ---
 
 # § 16372. Determination of eligibility and project selection
@@ -85,3 +86,7 @@ generated_at: "2026-03-30T02:56:11.484Z"
     - **(B)** additional information or materials are needed to complete the application.
   - **(2)** Not later than 60 days after the date of issuance of a written notice under paragraph (1), the Secretary shall provide to the applicant a written notice informing the applicant whether the Secretary has approved or disapproved the application.
 - **(g)** Any Federal credit instrument provided under the CIFIA program may be used to finance up to 100 percent of the cost of development-phase activities, as described in section 16371(4)(A) of this title .
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 999B](https://www.govinfo.gov/link/plaw/109/public/58), as added [Pub. L. 117–58, div. D, title III, § 40304(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 991](https://www.govinfo.gov/link/statute/135/991).)*

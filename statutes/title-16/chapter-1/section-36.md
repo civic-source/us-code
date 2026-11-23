@@ -3,9 +3,10 @@ title: "Section 36 - Staff of Commission"
 usc_title: 16
 usc_section: "36"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 36"
-generated_at: "2026-03-30T02:54:22.764Z"
+generated_at: "2026-11-23T20:26:19.465Z"
+status: "active"
 ---
 
 # § 410cc–36. Staff of Commission
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:22.764Z"
 - **(e)**
   - **(1)** Upon request of the Commission, the head of any Federal agency represented by members on the Commission may detail, on a reimbursable basis, any of the personnel of such agency to the Commission to assist it in carrying out its duties under this subchapter.
   - **(2)** The Administrator of the General Services Administration shall provide to the Commission on a reimbursable basis such administrative support services as the Commission may request.
+
+## Source Credit
+
+*([Pub. L. 95–290, title III, § 306](https://www.govinfo.gov/link/plaw/95/public/290), June 5, 1978, [92 Stat. 303](https://www.govinfo.gov/link/statute/92/303).)*

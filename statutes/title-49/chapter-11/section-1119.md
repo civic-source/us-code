@@ -3,9 +3,10 @@ title: "Section 1119 - Accident and safety data classification and publication"
 usc_title: 49
 usc_section: "1119"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 1119"
-generated_at: "2026-03-30T02:56:19.304Z"
+generated_at: "2026-11-23T20:27:34.565Z"
+status: "active"
 ---
 
 # § 1119. Accident and safety data classification and publication
@@ -21,3 +22,35 @@ generated_at: "2026-03-30T02:56:19.304Z"
   - **(1)** In any case in which an employee of the Board determines that an occurrence associated with the operation of an aircraft constitutes an accident, the employee shall notify the owner or operator of that aircraft of the right to appeal that determination to the Board.
   - **(2)** The Board shall establish and publish the procedures for appeals under this subsection.
   - **(3)** This subsection shall not apply in the case of an accident that results in a loss of life.
+
+In General
+
+Requirements for Classification System.—
+
+In general
+
+Public comment
+
+Final classification
+
+Publication
+
+Recommendations of the administrator
+
+Appeals.—
+
+Notification of rights
+
+Procedure
+
+Limitation on applicability
+
+Establishment
+
+Purposes
+
+Requirements
+
+## Source Credit
+
+*(Added [Pub. L. 104–264, title IV, § 407(a)(1)](https://www.govinfo.gov/link/plaw/104/public/264), Oct. 9, 1996, [110 Stat. 3257](https://www.govinfo.gov/link/statute/110/3257); amended [Pub. L. 108–168, § 5](https://www.govinfo.gov/link/plaw/108/public/168), Dec. 6, 2003, [117 Stat. 2034](https://www.govinfo.gov/link/statute/117/2034).)*

@@ -3,9 +3,10 @@ title: "Section 1102 - Confidentiality of medical quality assurance records: qua
 usc_title: 10
 usc_section: "1102"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1102"
-generated_at: "2026-03-30T02:53:38.108Z"
+generated_at: "2026-11-23T20:25:51.244Z"
+status: "active"
 ---
 
 # § 1102. Confidentiality of medical quality assurance records: qualified immunity for participants
@@ -38,3 +39,29 @@ generated_at: "2026-03-30T02:53:38.108Z"
   - **(3)** The term “health care provider” means any military or civilian health care professional who, under regulations of a military department, is granted clinical practice privileges to provide health care services in a military medical or dental treatment facility or who is licensed or certified to perform health care services by a governmental board or agency or professional health care society or organization.
   - **(4)** The term “peer review” means any assessment of the quality of medical care carried out by a health care professional, including any such assessment of professional performance, any patient safety program root cause analysis or report, or any similar activity described in regulations prescribed by the Secretary under subsection (i).
 - **(k)** Any person who willfully discloses a medical quality assurance record other than as provided in this section, knowing that such record is a medical quality assurance record, shall be fined not more than $3,000 in the case of a first offense and not more than $20,000 in the case of a subsequent offense.
+
+Confidentiality of Records
+
+Prohibition on Disclosure and Testi­mony
+
+Authorized Disclosure and Testimony
+
+Disclosure for Certain Purposes
+
+Prohibition on Disclosure of Record or Testimony
+
+Exemption From Freedom of Information Act
+
+Limitation on Civil Liability
+
+Application to Information in Certain Other Records
+
+Regulations
+
+Definitions
+
+Penalty
+
+## Source Credit
+
+*(Added [Pub. L. 99–661, div. A, title VII, § 705(a)[(1)]](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 3902](https://www.govinfo.gov/link/statute/100/3902); amended [Pub. L. 100–180, div. A, title XII, § 1231(5)](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1160](https://www.govinfo.gov/link/statute/101/1160); [Pub. L. 101–189, div. A, title VI, § 653(f)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1463](https://www.govinfo.gov/link/statute/103/1463); [Pub. L. 108–375, div. A, title X, § 1084(c)(2)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2061](https://www.govinfo.gov/link/statute/118/2061); [Pub. L. 112–81, div. A, title VII, § 714(a)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1476](https://www.govinfo.gov/link/statute/125/1476).)*

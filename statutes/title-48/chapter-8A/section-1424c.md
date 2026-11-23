@@ -3,9 +3,10 @@ title: "Section 1424c - Review of claims respecting land on Guam"
 usc_title: 48
 usc_section: "1424c"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1424c"
-generated_at: "2026-03-30T02:56:14.586Z"
+generated_at: "2026-11-23T20:27:28.047Z"
+status: "active"
 ---
 
 # § 1424c. Review of claims respecting land on Guam
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:14.586Z"
 - **(e)** Awards made hereunder shall be judgments against the United States.
 - **(f)** Attorney’s fees paid by claimants to counsel representing them may not exceed 5 per centum of any additional award. Any agreement to the contrary shall be unlawful and void. Whoever, in the United States or elsewhere, demands or receives any remuneration in excess of the maximum permitted by this section shall be guilty of a misdemeanor and, upon conviction thereof, shall be fined not more than $5,000 or imprisoned not more than twelve months, or both. A reasonable attorney’s fee may be awarded in appropriate cases.
 - **(g)** All agencies and departments of the United States Government shall, upon request, deliver to the court any documents, records, and writings which are pertinent to any claim under review.
+
+## Source Credit
+
+*([Pub. L. 95–134, title II, § 204](https://www.govinfo.gov/link/plaw/95/public/134), Oct. 15, 1977, [91 Stat. 1162](https://www.govinfo.gov/link/statute/91/1162); [Pub. L. 96–205, title III, § 301(a)](https://www.govinfo.gov/link/plaw/96/public/205), Mar. 12, 1980, [94 Stat. 87](https://www.govinfo.gov/link/statute/94/87).)*

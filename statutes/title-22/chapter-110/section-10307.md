@@ -3,9 +3,10 @@ title: "Section 10307 - Digital Connectivity and Cybersecurity Partnership"
 usc_title: 22
 usc_section: "10307"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 10307"
-generated_at: "2026-03-30T02:55:05.476Z"
+generated_at: "2026-11-23T20:26:32.820Z"
+status: "active"
 ---
 
 # § 10307. Digital Connectivity and Cybersecurity Partnership
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:05.476Z"
   - **(4)** representatives from relevant United States Government agencies; and
   - **(5)** representatives from like-minded allies and partners.
 - **(e)** For the purposes of carrying out this section, funds authorized to be appropriated to carry out chapter 4 of part II of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2346 et seq.) may be made available, notwithstanding any other provision of law to strengthen civilian cybersecurity and information and communications technology capacity, including for participation of foreign law enforcement and military personnel in non-military activities, and for contributions to international organizations and international financial institutions of which the United States is a member. Such funds shall remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 118–31, div. F, title LXIII, § 6306](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 989](https://www.govinfo.gov/link/statute/137/989).)*

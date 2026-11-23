@@ -3,9 +3,10 @@ title: "Section 10461 - Grants"
 usc_title: 34
 usc_section: "10461"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10461"
-generated_at: "2026-03-30T02:55:33.269Z"
+generated_at: "2026-11-23T20:26:50.474Z"
+status: "active"
 ---
 
 # § 10461. Grants
@@ -73,3 +74,7 @@ generated_at: "2026-03-30T02:55:33.269Z"
   - **(2)** The requirements of this subchapter shall not apply to funds allocated for the program described in paragraph (1).
 - **(f)** Of the amounts appropriated for purposes of this subchapter for each fiscal year, not less than 5 percent shall be available for grants under section 10441 of this title .
 - **(g)** Of the amounts appropriated for purposes of this subchapter for each fiscal year, not less than 25 percent shall be available for projects that address sexual assault, including stranger rape, acquaintance rape, alcohol or drug-facilitated rape, and rape within the context of an intimate partner relationship.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 2101](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 103–322, title IV, § 40231(a)(3)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1932](https://www.govinfo.gov/link/statute/108/1932); amended [Pub. L. 106–386, div. B, title I](https://www.govinfo.gov/link/plaw/106/public/386), §§ 1101(a)(2), (b)(2), 1102(b), 1109(c), title II, § 1209(b), title V, § 1512(b), Oct. 28, 2000, [114 Stat. 1492](https://www.govinfo.gov/link/statute/114/1492), 1493, 1495, 1503, 1509, 1533; [Pub. L. 109–162, title I, § 102(b)](https://www.govinfo.gov/link/plaw/109/public/162), title IX, § 906(c), Jan. 5, 2006, [119 Stat. 2975](https://www.govinfo.gov/link/statute/119/2975), 3081; [Pub. L. 109–271, § 7(a)(5)](https://www.govinfo.gov/link/plaw/109/public/271), Aug. 12, 2006, [120 Stat. 764](https://www.govinfo.gov/link/statute/120/764); [Pub. L. 113–4, title I, § 102(a)(1)](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 70](https://www.govinfo.gov/link/statute/127/70); [Pub. L. 116–165, § 7(a)](https://www.govinfo.gov/link/plaw/116/public/165), Oct. 10, 2020, [134 Stat. 764](https://www.govinfo.gov/link/statute/134/764); [Pub. L. 117–103, div. W, title I, § 102(b)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 848](https://www.govinfo.gov/link/statute/136/848).)*

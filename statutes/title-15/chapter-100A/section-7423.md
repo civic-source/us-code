@@ -3,12 +3,17 @@ title: "Section 7423 - No additional funds authorized"
 usc_title: 15
 usc_section: "7423"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 7423"
-generated_at: "2026-03-30T02:54:08.223Z"
+generated_at: "2026-11-23T20:26:04.454Z"
+status: "active"
 ---
 
 # § 7423. No additional funds authorized
 
 No additional funds are authorized to carry out this Act, and the amendments made by this Act. This Act, and the amendments made by this Act, shall be carried out using amounts otherwise authorized or appropriated.
 
+
+## Source Credit
+
+*([Pub. L. 113–274, § 4](https://www.govinfo.gov/link/plaw/113/public/274), Dec. 18, 2014, [128 Stat. 2972](https://www.govinfo.gov/link/statute/128/2972).)*

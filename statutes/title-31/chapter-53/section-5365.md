@@ -3,9 +3,10 @@ title: "Section 5365 - Civil remedies"
 usc_title: 31
 usc_section: "5365"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 5365"
-generated_at: "2026-03-30T02:55:34.072Z"
+generated_at: "2026-11-23T20:26:51.889Z"
+status: "active"
 ---
 
 # § 5365. Civil remedies
@@ -34,3 +35,37 @@ generated_at: "2026-03-30T02:55:34.072Z"
     - **(A)** operates, manages, supervises, or directs an Internet website at which unlawful bets or wagers may be placed, received, or otherwise made or at which unlawful bets or wagers are offered to be placed, received, or otherwise made; or
     - **(B)** owns or controls, or is owned or controlled by, any person who operates, manages, supervises, or directs an Internet website at which unlawful bets or wagers may be placed, received, or otherwise made, or at which unlawful bets or wagers are offered to be placed, received, or otherwise made.
 - **(d)** Notwithstanding any other provision of this section, and subject to section 5367, no provision of this subchapter shall be construed as authorizing the Attorney General of the United States, or the attorney general (or other appropriate State official) of any State to institute proceedings to prevent or restrain a restricted transaction against any financial transaction provider, to the extent that the person is acting as a financial transaction provider.
+
+Jurisdiction
+
+Proceedings.—
+
+Institution by federal government.—
+
+In general
+
+Relief
+
+Institution by state attorney general.—
+
+In general
+
+Relief
+
+Indian lands.—
+
+In general
+
+Rule of construction
+
+Limitation Relating to Interactive Computer Services.—
+
+In general
+
+Coordination with other law
+
+Limitation on Injunctions Against Regulated Persons
+
+## Source Credit
+
+*(Added [Pub. L. 109–347, title VIII, § 802(a)](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1959](https://www.govinfo.gov/link/statute/120/1959).)*

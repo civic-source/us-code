@@ -3,9 +3,10 @@ title: "Section 47117 - Use of apportioned amounts"
 usc_title: 49
 usc_section: "47117"
 chapter: 471
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 47117"
-generated_at: "2026-03-30T02:56:19.403Z"
+generated_at: "2026-11-23T20:27:35.300Z"
+status: "active"
 ---
 
 # § 47117. Use of apportioned amounts
@@ -42,3 +43,221 @@ generated_at: "2026-03-30T02:56:19.403Z"
     - **(B)** Subparagraph (A) does not impair the Secretary’s authority under paragraph (1), after a restoration under paragraph (2), to apply all or part of a restored amount that is not required to fund a grant under an apportionment to fund discretionary grants.
   - **(4)** Nothing in this subsection shall be construed to authorize the Secretary to incur grant obligations under section 47104 for a fiscal year in an amount greater than the amount made available under section 48103 for such obligations for such fiscal year.
 - **(g)** The authority of the Secretary to make grants during a fiscal year from amounts that were apportioned for a prior fiscal year and remain available for approved airport development project grants under subsection (b) of this section may be impaired only by a law enacted after September 3, 1982 , that expressly limits that authority.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 47117(a) | 49 App.:2207(b)(1) (related to purposes for which funds may be used). | Sept. 3, 1982 , Pub. L. 97–248 , §§ 506(e)(4), 508(b), 96 Stat. 679 , 681. |
+|  | 49 App.:2207(c) (1st sentence related to purposes for which funds are available). | Sept. 3, 1982 , Pub. L. 97–248, § 508(c) , 96 Stat. 682 ; Dec. 30, 1987 , Pub. L. 100–223, § 106(b)(2)(C) , 101 Stat. 1498 . |
+| 47117(b) | 49 App.:2207(a). | Sept. 3, 1982 , Pub. L. 97–248, § 508(a) , 96 Stat. 681 ; Dec. 30, 1987 , Pub. L. 100–223, § 106(b)(2)(A) , (B), 101 Stat. 1497 . |
+| 47117(c)(1) | 49 App.:2207(b)(1) (related to airports at which funds may be used). |  |
+| 47117(c)(2) | 49 App.:2207(b)(2). |  |
+| 47117(d) | 49 App.:2207(c) (1st sentence related to airports at which funds are available, last sentence). |  |
+| 47117(e) | 49 App.:2202(a)(11). | Sept. 3, 1982 , Pub. L. 97–248, § 503(a)(11) , 96 Stat. 673 ; Dec. 30, 1987 , Pub. L. 100–223, § 103(c)(1) , 101 Stat. 1488 . |
+|  | 49 App.:2207(d). | Sept. 3, 1982 , Pub. L. 97–248, § 508(d) , 96 Stat. 682 ; Dec. 30, 1987 , Pub. L. 100–223 , §§ 106(b)(2)(D), 107, 101 Stat. 1498 ; Nov. 5, 1990 , Pub. L. 101–508, § 9109(b) , 104 Stat. 1388–356 ; Oct. 31, 1992 , Pub. L. 102–581 , §§ 107(a), 108, 106 Stat. 4878 , 4879. |
+| 47117(f) | 49 App.:2206(b)(5)(D). | Sept. 3, 1982 , Pub. L. 97–248, § 507(b)(5)(D) , 96 Stat. 679 ; Jan. 6, 1983 , Pub. L. 97–424, § 426(a) , (d), 96 Stat. 2167 , 2168; restated Dec. 30, 1987 , Pub. L. 100–223, § 106(a) , 101 Stat. 1496 . |
+| 47117(g) | 49 App.:2207(e)(1). | Sept. 3, 1982 , Pub. L. 97–248 , 96 Stat. 324 , § 508(e)(1); added Oct. 2, 1982 , Pub. L. 97–276, § 167 , 96 Stat. 1204 ; Dec. 30, 1987 , Pub. L. 100–223, § 106(b)(2)(E) , 101 Stat. 1498 . |
+|  | 49 App.:2207(e)(2). | Sept. 3, 1982 , Pub. L. 97–248 , 96 Stat. 324 , § 508(e)(2); added Oct. 2, 1982 , Pub. L. 97–276, § 167 , 96 Stat. 1205 . |
+| 47117(h) | 49 App.:2205(e)(4). |  |
+
+| Pub. L . 103–429 | Col 2 | Col 3 |
+| --- | --- | --- |
+| 47117(e) | 49 App.:2207(d). | Sept. 3, 1982 , Pub. L. 97–248, § 508(d) , as amended May 26, 1994 , Pub. L. 103–260, § 105 , 108 Stat. 699 . |
+
+
+Grant Purpose
+
+Period of Availability.—
+
+In general
+
+Expired amounts apportioned for general aviation airports.—
+
+In general
+
+State block grant program
+
+Primary Airports
+
+Waiver
+
+State Use
+
+Special Apportionment Categories
+
+Special rule
+
+Discretionary Use of Apportionments.—
+
+In general
+
+Restoration of apportionments.—
+
+In general
+
+Period of availability
+
+Newly available amounts.—
+
+Restored amounts to be unavailable for discretionary grants
+
+Use of remaining amounts
+
+Limitations on obligations apply
+
+Limiting Authority of Secretary
+
+Historical and Revision Notes
+
+Pub. L
+
+47117(a)
+
+Sept. 3, 1982
+
+Pub. L. 97–248
+
+96 Stat. 679
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 508(c)
+
+96 Stat. 682
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 106(b)(2)(C)
+
+101 Stat. 1498
+
+47117(b)
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 508(a)
+
+96 Stat. 681
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 106(b)(2)(A)
+
+101 Stat. 1497
+
+47117(c)(1)
+
+47117(c)(2)
+
+47117(d)
+
+47117(e)
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 503(a)(11)
+
+96 Stat. 673
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 103(c)(1)
+
+101 Stat. 1488
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 508(d)
+
+96 Stat. 682
+
+Dec. 30, 1987
+
+Pub. L. 100–223
+
+101 Stat. 1498
+
+Nov. 5, 1990
+
+Pub. L. 101–508, § 9109(b)
+
+104 Stat. 1388–356
+
+Oct. 31, 1992
+
+Pub. L. 102–581
+
+106 Stat. 4878
+
+47117(f)
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 507(b)(5)(D)
+
+96 Stat. 679
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 426(a)
+
+96 Stat. 2167
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 106(a)
+
+101 Stat. 1496
+
+47117(g)
+
+Sept. 3, 1982
+
+Pub. L. 97–248
+
+96 Stat. 324
+
+Oct. 2, 1982
+
+Pub. L. 97–276, § 167
+
+96 Stat. 1204
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 106(b)(2)(E)
+
+101 Stat. 1498
+
+Sept. 3, 1982
+
+Pub. L. 97–248
+
+96 Stat. 324
+
+Oct. 2, 1982
+
+Pub. L. 97–276, § 167
+
+96 Stat. 1205
+
+47117(h)
+
+Pub. L
+
+47117(e)
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 508(d)
+
+May 26, 1994
+
+Pub. L. 103–260, § 105
+
+108 Stat. 699
+
+Discretionary Use of Apportionments
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1271](https://www.govinfo.gov/link/statute/108/1271); [Pub. L. 103–305, title I, § 116(a)](https://www.govinfo.gov/link/plaw/103/public/305), Aug. 23, 1994, [108 Stat. 1579](https://www.govinfo.gov/link/statute/108/1579); [Pub. L. 103–429, § 6(68)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4387](https://www.govinfo.gov/link/statute/108/4387); [Pub. L. 104–264, title I](https://www.govinfo.gov/link/plaw/104/public/264), §§ 123, 124(d), Oct. 9, 1996, [110 Stat. 3219](https://www.govinfo.gov/link/statute/110/3219), 3220; [Pub. L. 104–287, § 5(82)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3397](https://www.govinfo.gov/link/statute/110/3397); [Pub. L. 105–102, § 3(c)(1)](https://www.govinfo.gov/link/plaw/105/public/102), (2), Nov. 20, 1997, [111 Stat. 2215](https://www.govinfo.gov/link/statute/111/2215); [Pub. L. 106–6, § 7](https://www.govinfo.gov/link/plaw/106/public/6), Mar. 31, 1999, [113 Stat. 10](https://www.govinfo.gov/link/statute/113/10); [Pub. L. 106–31, title VI, § 6002(d)](https://www.govinfo.gov/link/plaw/106/public/31), May 21, 1999, [113 Stat. 113](https://www.govinfo.gov/link/statute/113/113); [Pub. L. 106–181, title I](https://www.govinfo.gov/link/plaw/106/public/181), §§ 104(e)–(g), 129, title II, § 231(f), Apr. 5, 2000, [114 Stat. 70](https://www.govinfo.gov/link/statute/114/70), 77, 114; [Pub. L. 108–176, title I](https://www.govinfo.gov/link/plaw/108/public/176), §§ 149(c), 150, 151, Dec. 12, 2003, [117 Stat. 2505](https://www.govinfo.gov/link/statute/117/2505), 2506; [Pub. L. 112–95, title I, § 145](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 30](https://www.govinfo.gov/link/statute/126/30); [Pub. L. 115–254, div. B, title I](https://www.govinfo.gov/link/plaw/115/public/254), §§ 155, 192(b), title V, § 539(p), Oct. 5, 2018, [132 Stat. 3217](https://www.govinfo.gov/link/statute/132/3217), 3241, 3371; [Pub. L. 118–63, title VII, § 717](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1259](https://www.govinfo.gov/link/statute/138/1259).)*

@@ -3,9 +3,10 @@ title: "Section 544i - Economic development"
 usc_title: 16
 usc_section: "544i"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 544i"
-generated_at: "2026-03-30T02:54:22.871Z"
+generated_at: "2026-11-23T20:26:20.135Z"
+status: "active"
 ---
 
 # § 544i. Economic development
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:22.871Z"
   - **(1)** prepare and provide the Secretary with an annual report to the Secretary on the use of the funds made available under this section;
   - **(2)** make available to the Secretary and to the Commission, upon request, all accounts, financial records, and other information related to grants and loans made available pursuant to this section; and
   - **(3)** as loans are repaid, make additional grants and loans with the money made available for obligation by such repayments.
+
+## Source Credit
+
+*([Pub. L. 99–663, § 11](https://www.govinfo.gov/link/plaw/99/public/663), Nov. 17, 1986, [100 Stat. 4292](https://www.govinfo.gov/link/statute/100/4292).)*

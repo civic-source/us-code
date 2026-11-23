@@ -3,9 +3,10 @@ title: "Section 2154 - Joint professional military education: three-phase approa
 usc_title: 10
 usc_section: "2154"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2154"
-generated_at: "2026-03-30T02:53:38.144Z"
+generated_at: "2026-11-23T20:25:51.461Z"
+status: "active"
 ---
 
 # § 2154. Joint professional military education: three-phase approach
@@ -20,3 +21,13 @@ generated_at: "2026-03-30T02:53:38.144Z"
 - **(c)**
   - **(1)** Any distance education program offered to satisfy Phase I or Phase II instruction under paragraph (1) or (2) of subsection (a) shall include a pathway for a student who is a member of a reserve component to fully complete the course of instruction asynchronously and while physically separated from the course instructors and without any in-person attendance required to graduate from such program.
   - **(2)** In this subsection, the term “distance education” has the meaning given such term in section 103 of the Higher Education Act of 1965 ( 20 U.S.C. 1003 ).
+
+Three-Phase Approach
+
+Sequenced Approach
+
+Distance Education
+
+## Source Credit
+
+*(Added [Pub. L. 108–375, div. A, title V, § 532(a)(2)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1898](https://www.govinfo.gov/link/statute/118/1898); amended [Pub. L. 112–81, div. A, title V, § 552(a)(1)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1412](https://www.govinfo.gov/link/statute/125/1412); [Pub. L. 113–291, div. A, title V, § 506](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3356](https://www.govinfo.gov/link/statute/128/3356); [Pub. L. 114–92, div. A, title V, § 554](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 824](https://www.govinfo.gov/link/statute/129/824); [Pub. L. 118–159, div. A, title V, § 555](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1896](https://www.govinfo.gov/link/statute/138/1896); [Pub. L. 119–60, div. A, title V, § 553](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 877](https://www.govinfo.gov/link/statute/139/877).)*

@@ -3,12 +3,17 @@ title: "Section 1765c - Performance of functions in foreign localities"
 usc_title: 7
 usc_section: "1765c"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1765c"
-generated_at: "2026-03-30T02:53:42.342Z"
+generated_at: "2026-11-23T20:25:41.304Z"
+status: "active"
 ---
 
 # § 1765c. Performance of functions in foreign localities
 
 Each United States Agricultural Trade Office shall carry out its functions under section 1765b of this title in the nation where the United States Agricultural Trade Office is located and in such other nations as the Secretary of Agriculture, in consultation with the Secretary of State, may prescribe in order to carry out the purposes of this subchapter.
 
+
+## Source Credit
+
+*(Aug. 28, 1954, ch. 1041, title VI, § 605C, as added [Pub. L. 95–501, title IV, § 401(1)](https://www.govinfo.gov/link/plaw/95/public/501), Oct. 21, 1978, [92 Stat. 1690](https://www.govinfo.gov/link/statute/92/1690).)*

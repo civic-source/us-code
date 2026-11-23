@@ -3,9 +3,10 @@ title: "Section 6205 - Establishment of the International Broadcasting Advisory 
 usc_title: 22
 usc_section: "6205"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6205"
-generated_at: "2026-03-30T02:55:05.425Z"
+generated_at: "2026-11-23T20:26:32.598Z"
+status: "active"
 ---
 
 # § 6205. Establishment of the International Broadcasting Advisory Board
@@ -65,3 +66,7 @@ generated_at: "2026-03-30T02:55:05.425Z"
   - **(2)** While away from their homes or regular places of business, members of the Board may be allowed travel expenses, including per diem in lieu of subsistence, as authorized under section 5703 of such title for persons in the Government service employed intermittently.
   - **(3)** The Secretary of State is not entitled to any compensation under this chapter, but may be allowed travel expenses in accordance with paragraph (2).
 - **(h)** The Chief Executive Officer shall, from within existing United States Agency for Global Media personnel, provide the Advisory Board with an Executive Secretary and such administrative staff and support as may be necessary to enable the Advisory Board to carry out subsections (d) and (e).
+
+## Source Credit
+
+*([Pub. L. 103–236, title III, § 306](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 436](https://www.govinfo.gov/link/statute/108/436); [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XIII, § 1323(j), Oct. 21, 1998, [112 Stat. 2681–780](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 114–328, div. A, title XII, § 1288(3)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2551](https://www.govinfo.gov/link/statute/130/2551); [Pub. L. 116–283, div. A, title XII, § 1299Q(d)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4022](https://www.govinfo.gov/link/statute/134/4022); [Pub. L. 118–159, div. G, title LXXIV, § 7401](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2543](https://www.govinfo.gov/link/statute/138/2543).)*

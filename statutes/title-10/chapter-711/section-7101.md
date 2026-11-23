@@ -3,9 +3,10 @@ title: "Section 7101 - Officers on active duty: minimum strength based on requir
 usc_title: 10
 usc_section: "7101"
 chapter: 711
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 7101"
-generated_at: "2026-03-30T02:53:38.229Z"
+generated_at: "2026-11-23T20:25:52.046Z"
+status: "active"
 ---
 
 # § 7101. Officers on active duty: minimum strength based on requirements
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:38.229Z"
 - **(c)** In this section:
   - **(1)** The term “programmed manpower structure” means the aggregation of billets describing the full manpower requirements for units and organizations in the programmed force structure.
   - **(2)** The term “programmed force structure” means the set of units and organizations that exist in the current year and that is planned to exist in each future year under the then-current Future-Years Defense Program.
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. A, title V, § 505(a)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 295](https://www.govinfo.gov/link/statute/110/295), § 3201; amended [Pub. L. 112–239, div. A, title X, § 1076(f)(37)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1954](https://www.govinfo.gov/link/statute/126/1954); renumbered § 7101, [Pub. L. 115–232, div. A, title VIII, § 808(b)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1838](https://www.govinfo.gov/link/statute/132/1838).)*

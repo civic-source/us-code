@@ -3,9 +3,10 @@ title: "Section 1021 - Duty of disclosure and reporting"
 usc_title: 29
 usc_section: "1021"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1021"
-generated_at: "2026-03-30T02:55:18.703Z"
+generated_at: "2026-11-23T20:26:37.906Z"
+status: "active"
 ---
 
 # § 1021. Duty of disclosure and reporting
@@ -170,3 +171,29 @@ generated_at: "2026-03-30T02:55:18.703Z"
   - **(2)** describing the importance of diversifying the investment of retirement account assets.
 - **(n)** Nothing in this section shall preclude the Secretary from providing, by regulations or otherwise, simplified reporting procedures or requirements regarding such a pension-linked emergency savings account.
 - **(o)** For regulations relating to coordination of reports to the Secretaries of Labor and the Treasury, see section 1204 of this title .
+
+(aa) a statement of the value of the plan’s assets and liabilities for the plan year to which the notice relates as of the last day of the plan year to which the notice relates, and for the preceding 2 plan years as of the last day of each such plan year, determined using the asset valuation under subclause (II) of section 1306(a)(3)(E)(iii) of this title and the interest rate under section 1306(a)(3)(E)(iv) of this title ,
+
+(bb) for purposes of the statement in subparagraph (B)(i)(I), the percentage of plan liabilities funded, calculated as the ratio between the value of the plan’s assets and liabilities, as determined under item (aa), for the plan year to which the notice relates and for the 2 preceding plan years, and
+
+(cc) if the information in (aa) and (bb) is presented in tabular form, a statement that describes that in the event of a plan termination the corporation’s calculation of plan liabilities may be greater and that references the section of the notice with the information required under clause (x), and
+
+In general
+
+Collective bargaining exception
+
+In general
+
+Transition rule
+
+In general
+
+Transition rule
+
+In general
+
+Plan amendments not required until january 1, 1994
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 101](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 840](https://www.govinfo.gov/link/statute/88/840); [Pub. L. 100–203, title IX, § 9304(d)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–348](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7881(b)(5)(A), 7894(b)(2), Dec. 19, 1989, [103 Stat. 2438](https://www.govinfo.gov/link/statute/103/2438), 2448; [Pub. L. 101–508, title XII, § 12012(d)(1)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–572](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–66, title IV, § 4301(b)(1)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 375](https://www.govinfo.gov/link/statute/107/375); [Pub. L. 103–465, title VII, § 731(c)(4)(A)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 5004](https://www.govinfo.gov/link/statute/108/5004); [Pub. L. 104–188, title I, § 1421(d)(1)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1799](https://www.govinfo.gov/link/statute/110/1799); [Pub. L. 104–191, title I, § 101(e)(1)](https://www.govinfo.gov/link/plaw/104/public/191), Aug. 21, 1996, [110 Stat. 1952](https://www.govinfo.gov/link/statute/110/1952); [Pub. L. 104–204, title VI, § 603(b)(3)(B)](https://www.govinfo.gov/link/plaw/104/public/204), Sept. 26, 1996, [110 Stat. 2938](https://www.govinfo.gov/link/statute/110/2938); [Pub. L. 105–34, title XV, § 1503(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1061](https://www.govinfo.gov/link/statute/111/1061); [Pub. L. 105–200, title IV, § 401(h)(1)(A)](https://www.govinfo.gov/link/plaw/105/public/200), July 16, 1998, [112 Stat. 668](https://www.govinfo.gov/link/statute/112/668); [Pub. L. 106–170, title V, § 535(a)(2)(A)](https://www.govinfo.gov/link/plaw/106/public/170), Dec. 17, 1999, [113 Stat. 1934](https://www.govinfo.gov/link/statute/113/1934); [Pub. L. 107–204, title III, § 306(b)(1)](https://www.govinfo.gov/link/plaw/107/public/204), July 30, 2002, [116 Stat. 780](https://www.govinfo.gov/link/statute/116/780); [Pub. L. 108–218, title I, § 103(a)](https://www.govinfo.gov/link/plaw/108/public/218), title II, § 204(b)(1), Apr. 10, 2004, [118 Stat. 602](https://www.govinfo.gov/link/statute/118/602), 609; [Pub. L. 108–357, title VII, § 709(a)(1)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1551](https://www.govinfo.gov/link/statute/118/1551); [Pub. L. 109–280, title I](https://www.govinfo.gov/link/plaw/109/public/280), §§ 103(b)(1), 108(a)(1), (11), formerly § 107(a)(1), (11), title V, §§ 501(a), 502(a)(1), (b)(1), 503(c)(2), 507(a), 509(a), Aug. 17, 2006, [120 Stat. 815](https://www.govinfo.gov/link/statute/120/815), 818, 819, 936, 939, 940, 944, 948, 952, renumbered [Pub. L. 111–192, title II, § 202(a)](https://www.govinfo.gov/link/plaw/111/public/192), June 25, 2010, [124 Stat. 1297](https://www.govinfo.gov/link/statute/124/1297); [Pub. L. 110–458, title I](https://www.govinfo.gov/link/plaw/110/public/458), §§ 101(c)(1)(A), 105(a), (b)(1), (g), Dec. 23, 2008, [122 Stat. 5097](https://www.govinfo.gov/link/statute/122/5097), 5104, 5105; [Pub. L. 111–148, title VI, § 6606](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 781](https://www.govinfo.gov/link/statute/124/781); [Pub. L. 112–141, div. D, title II](https://www.govinfo.gov/link/plaw/112/public/141), §§ 40211(b)(2)(A), 40241(b)(1), 40242(e)(14), July 6, 2012, [126 Stat. 848](https://www.govinfo.gov/link/statute/126/848), 859, 863; [Pub. L. 113–97, title I, § 104(a)(1)](https://www.govinfo.gov/link/plaw/113/public/97), (b), Apr. 7, 2014, [128 Stat. 1120](https://www.govinfo.gov/link/statute/128/1120); [Pub. L. 113–159, title II, § 2003(b)(2)(A)](https://www.govinfo.gov/link/plaw/113/public/159), Aug. 8, 2014, [128 Stat. 1849](https://www.govinfo.gov/link/statute/128/1849); [Pub. L. 113–235, div. O, title I, § 111(a)](https://www.govinfo.gov/link/plaw/113/public/235), (b), title II, § 201(a)(4), Dec. 16, 2014, [128 Stat. 2792](https://www.govinfo.gov/link/statute/128/2792), 2793, 2799; [Pub. L. 114–41, title II, § 2007(b)(1)](https://www.govinfo.gov/link/plaw/114/public/41), July 31, 2015, [129 Stat. 459](https://www.govinfo.gov/link/statute/129/459); [Pub. L. 114–74, title V, § 504(b)(2)(A)](https://www.govinfo.gov/link/plaw/114/public/74), Nov. 2, 2015, [129 Stat. 594](https://www.govinfo.gov/link/statute/129/594); [Pub. L. 117–2, title IX, § 9706(b)(3)(A)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 201](https://www.govinfo.gov/link/statute/135/201); [Pub. L. 117–58, div. H, title VI, § 80602(b)(2)(A)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1339](https://www.govinfo.gov/link/statute/135/1339); [Pub. L. 117–328, div. T, title I, § 127(c)(2)](https://www.govinfo.gov/link/plaw/117/public/328), title III, § 343(a), title VI, § 606(b)(1), Dec. 29, 2022, [136 Stat. 5324](https://www.govinfo.gov/link/statute/136/5324), 5378, 5397.)*

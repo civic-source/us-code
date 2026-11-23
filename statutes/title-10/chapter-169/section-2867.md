@@ -3,9 +3,10 @@ title: "Section 2867 - Energy monitoring and utility control system specificatio
 usc_title: 10
 usc_section: "2867"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2867"
-generated_at: "2026-03-30T02:53:38.181Z"
+generated_at: "2026-11-23T20:25:51.745Z"
+status: "active"
 ---
 
 # § 2867. Energy monitoring and utility control system specification for military construction and military family housing activities
@@ -23,3 +24,17 @@ generated_at: "2026-03-30T02:53:38.181Z"
 - **(b)**
   - **(1)** The energy monitoring and utility control system specification required by subsection (a) is not required to apply to projects carried out under the authority provided in subchapter IV of chapter 169 of this title.
   - **(2)** The Secretary concerned may waive the application of the energy monitoring and utility control system specification required by subsection (a) with respect to a specific military construction project, military family housing activity, or other activity under this chapter if the Secretary determines that the application of the specification to the project or activity is not life cycle cost-effective. The Secretary concerned shall notify the congressional defense committees of any waiver granted under this paragraph.
+
+Adoption of Department-wide, Open Protocol, Energy Monitoring and Utility Control System Specification
+
+Exclusion
+
+Suspension Required
+
+Term of Suspension
+
+Termination
+
+## Source Credit
+
+*(Added [Pub. L. 111–84, div. B, title XXVIII, § 2841(a)(1)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2679](https://www.govinfo.gov/link/statute/123/2679).)*

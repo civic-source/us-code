@@ -3,9 +3,10 @@ title: "Section 1217 - Transmittal of information to Congress"
 usc_title: 5
 usc_section: "1217"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 1217"
-generated_at: "2026-03-30T02:52:55.996Z"
+generated_at: "2026-11-23T20:25:31.775Z"
+status: "active"
 ---
 
 # § 1217. Transmittal of information to Congress
@@ -19,3 +20,15 @@ generated_at: "2026-03-30T02:52:55.996Z"
     - **(C)** the position and employment location of any employee alleged by an employee described in subparagraph (B) to have committed a prohibited personnel practice, as defined in section 2302(a)(1);
     - **(D)** a description of the allegation described in subparagraph (B); and
     - **(E)** whether the agency that entered into the agreement has agreed to pursue any disciplinary action as a result of the allegation described in subparagraph (B).
+
+In General
+
+Additional Report Required.—
+
+In general
+
+Contents
+
+## Source Credit
+
+*(Added [Pub. L. 101–12, § 3(a)(13)](https://www.govinfo.gov/link/plaw/101/public/12), Apr. 10, 1989, [103 Stat. 28](https://www.govinfo.gov/link/statute/103/28); [Pub. L. 115–91, div. A, title X, § 1097(h)(3)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1625](https://www.govinfo.gov/link/statute/131/1625).)*

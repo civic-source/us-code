@@ -3,9 +3,10 @@ title: "Section 3098 - Repealed. Pub. L. 119–60, div. F, title LXVIII, § 6801
 usc_title: 50
 usc_section: "3098"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3098"
-generated_at: "2026-03-30T02:56:26.235Z"
+generated_at: "2026-11-23T20:27:30.915Z"
+status: "repealed"
 ---
 
 # § 3098. Repealed. Pub. L. 119–60, div. F, title LXVIII, § 6801(a)(3) , Dec. 18, 2025 , 139 Stat. 1652

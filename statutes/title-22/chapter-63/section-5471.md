@@ -3,9 +3,10 @@ title: "Section 5471 - Report on initial steps taken by United States and on Pol
 usc_title: 22
 usc_section: "5471"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 5471"
-generated_at: "2026-03-30T02:55:05.418Z"
+generated_at: "2026-11-23T20:26:32.568Z"
+status: "active"
 ---
 
 # § 5471. Report on initial steps taken by United States and on Poland’s requirement for agricultural assistance
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.418Z"
   - **(2)** assessing Poland’s requirements for additional agricultural assistance during fiscal year 1990 and its requirements for agricultural assistance during fiscal years 1991 and 1992; and
   - **(3)** specifying how much agricultural assistance the President proposes be provided by the United States to meet those requirements.
 - **(b)** As additional information becomes available, the President shall provide to the Congress revised assessments of Poland’s requirements for agricultural assistance during fiscal years 1991 and 1992, specifying how much agricultural assistance the President proposes be provided by the United States to meet those requirements.
+
+## Source Credit
+
+*([Pub. L. 101–179, title VII, § 701](https://www.govinfo.gov/link/plaw/101/public/179), Nov. 28, 1989, [103 Stat. 1320](https://www.govinfo.gov/link/statute/103/1320).)*

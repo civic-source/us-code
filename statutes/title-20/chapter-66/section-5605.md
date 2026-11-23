@@ -3,9 +3,10 @@ title: "Section 5605 - Authority of Foundation"
 usc_title: 20
 usc_section: "5605"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 5605"
-generated_at: "2026-03-30T02:54:48.188Z"
+generated_at: "2026-11-23T20:26:14.793Z"
+status: "active"
 ---
 
 # § 5605. Authority of Foundation
@@ -51,3 +52,11 @@ generated_at: "2026-03-30T02:54:48.188Z"
 - **(d)** Any funds received by the Foundation in the form of donations or grants, as well as any unexpended earnings on interest from the Trust Fund that is carried forward from prior years—
   - **(1)** shall not be included in the calculation of the funds available for allocations pursuant to subsection (c); and
   - **(2)** shall be available to carry out the provisions of this chapter as the Board determines to be necessary and appropriate.
+
+(aa) environmental disputes; and
+
+(bb) Federal, State, or tribal environmental or natural resource decision-making processes or procedures that may result in a dispute or conflict that may cause or result in disputes.
+
+## Source Credit
+
+*([Pub. L. 102–259, § 7](https://www.govinfo.gov/link/plaw/102/public/259), Mar. 19, 1992, [106 Stat. 81](https://www.govinfo.gov/link/statute/106/81); [Pub. L. 105–156](https://www.govinfo.gov/link/plaw/105/public/156), §§ 5, 9(b), Feb. 11, 1998, [112 Stat. 9](https://www.govinfo.gov/link/statute/112/9), 12; [Pub. L. 111–90, § 6](https://www.govinfo.gov/link/plaw/111/public/90), Nov. 3, 2009, [123 Stat. 2977](https://www.govinfo.gov/link/statute/123/2977); [Pub. L. 116–94, div. P, title III, § 305](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3188](https://www.govinfo.gov/link/statute/133/3188).)*

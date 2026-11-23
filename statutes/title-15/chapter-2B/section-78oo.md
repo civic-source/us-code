@@ -3,9 +3,10 @@ title: "Section 78oo - Federal National Mortgage Association, Federal Home Loan 
 usc_title: 15
 usc_section: "78oo"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 78oo"
-generated_at: "2026-03-30T02:54:08.061Z"
+generated_at: "2026-11-23T20:26:03.571Z"
+status: "active"
 ---
 
 # § 78oo. Federal National Mortgage Association, Federal Home Loan Mortgage Corporation, Federal Home Loan Banks
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:08.061Z"
   - **(1)** The terms “Federal Home Loan Bank” and “member”, have the same meanings as in section 1422 of title 12 .
   - **(2)** The term “Federal National Mortgage Association” means the corporation created by the Federal National Mortgage Association Charter Act [ 12 U.S.C. 1716 et seq.].
   - **(3)** The term “Federal Home Loan Mortgage Corporation” means the corporation created by the Federal Home Loan Mortgage Corporation Act [ 12 U.S.C. 1451 et seq.].
+
+## Source Credit
+
+*(June 6, 1934, ch. 404, title I, § 38, as added [Pub. L. 110–289, div. A, title I, § 1112](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2677](https://www.govinfo.gov/link/statute/122/2677).)*

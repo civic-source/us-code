@@ -3,9 +3,10 @@ title: "Section 18771 - Definitions"
 usc_title: 42
 usc_section: "18771"
 chapter: 162
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18771"
-generated_at: "2026-03-30T02:56:11.529Z"
+generated_at: "2026-11-23T20:27:23.828Z"
+status: "active"
 ---
 
 # § 18771. Definitions
@@ -30,3 +31,7 @@ In this subchapter:
     - **(B)** is not used for heating, ventilation, air conditioning, lighting, water heating, or refrigeration.
   - **(9)** The term “Regional Transmission Organization” has the meaning given the term in section 796 of title 16 .
   - **(10)** The term “rural area” has the meaning given the term in section 918c(a) of title 7 .
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title IV, § 40411](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1038](https://www.govinfo.gov/link/statute/135/1038).)*

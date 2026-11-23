@@ -3,9 +3,10 @@ title: "Section 41720 - Joint venture agreements"
 usc_title: 49
 usc_section: "41720"
 chapter: 417
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 41720"
-generated_at: "2026-03-30T02:56:19.377Z"
+generated_at: "2026-11-23T20:27:35.105Z"
+status: "active"
 ---
 
 # § 41720. Joint venture agreements
@@ -28,3 +29,31 @@ generated_at: "2026-03-30T02:56:19.377Z"
   - **(1)** the parties submitted the agreement to the Secretary before such date of enactment; and
   - **(2)** the parties submitted all information on the agreement requested by the Secretary,
 - **(h)** The authority granted to the Secretary under this section shall not in any way limit the authority of the Attorney General to enforce the antitrust laws as defined in the first section of the Clayton Act ( 15 U.S.C. 12 ).
+
+Definitions
+
+Joint venture agreement
+
+Major air carrier
+
+Submission of Joint Venture Agreement
+
+Extension of Waiting Period.—
+
+In general
+
+Publication of reasons for extension
+
+Termination of Waiting Period
+
+Regulations
+
+Memorandum To Prevent Duplicative Reviews
+
+Prior Agreements
+
+Limitation on Statutory Construction
+
+## Source Credit
+
+*(Added [Pub. L. 105–277, div. C, title I, § 110(f)(1)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–588](https://www.govinfo.gov/link/statute/112/2681), § 41716; renumbered § 41720 and amended [Pub. L. 106–181, title II, § 231(b)(1)](https://www.govinfo.gov/link/plaw/106/public/181), title VII, § 709, Apr. 5, 2000, [114 Stat. 108](https://www.govinfo.gov/link/statute/114/108), 159.)*

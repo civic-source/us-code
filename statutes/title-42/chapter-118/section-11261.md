@@ -3,9 +3,10 @@ title: "Section 11261 - Research program"
 usc_title: 42
 usc_section: "11261"
 chapter: 118
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11261"
-generated_at: "2026-03-30T02:56:11.396Z"
+generated_at: "2026-11-23T20:27:23.279Z"
+status: "active"
 ---
 
 # § 11261. Research program
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.396Z"
   - **(3)** concerning the costs, cost-effectiveness, and effectiveness of various interventions to provide services for individuals with Alzheimer’s disease and related dementias and for their families;
   - **(4)** conducted in consultation with the Director of the National Institute on Aging and the Commissioner of the Administration on Aging, concerning the role of physicians in caring for persons with Alzheimer’s disease and related dementias and for their families, including the role of a physician in connecting such persons with appropriate health care and supportive services, including those supported through State and area agencies on aging designated under section 3025(a)(1) and (2)(A) of this title; and
   - **(5)** conducted in consultation with the Director of the National Institute on Aging and the Commissioner of the Administration on Aging, concerning legal and ethical issues, including issues associated with special care units, facing individuals with Alzheimer’s disease and related dementias and facing their families.
+
+## Source Credit
+
+*([Pub. L. 99–660, title IX, § 934](https://www.govinfo.gov/link/plaw/99/public/660), as added [Pub. L. 102–507, § 7(b)(1)(B)](https://www.govinfo.gov/link/plaw/102/public/507), Oct. 24, 1992, [106 Stat. 3285](https://www.govinfo.gov/link/statute/106/3285); amended [Pub. L. 106–129, § 2(b)(2)](https://www.govinfo.gov/link/plaw/106/public/129), Dec. 6, 1999, [113 Stat. 1670](https://www.govinfo.gov/link/statute/113/1670).)*

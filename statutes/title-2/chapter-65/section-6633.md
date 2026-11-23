@@ -3,9 +3,10 @@ title: "Section 6633 - Media support services"
 usc_title: 2
 usc_section: "6633"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 6633"
-generated_at: "2026-03-30T02:53:04.844Z"
+generated_at: "2026-11-23T20:25:29.084Z"
+status: "active"
 ---
 
 # § 6633. Media support services
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:04.844Z"
 - **(b)** The official duties of employees of the Sergeant at Arms and Doorkeeper of the Senate under the Senate Daily Press Gallery, the Senate Periodical Press Gallery, the Senate Press Photographers Gallery, and the Senate Radio and Television Correspondents Gallery may include providing media support services with respect to the presidential nominating conventions of the national committees of political parties.
 - **(c)** The terms and conditions under which employees perform official duties under subsection (b) shall be subject to the approval of the Sergeant at Arms and Doorkeeper of the Senate.
 - **(d)** This section shall apply to fiscal year 2008 and each fiscal year thereafter.
+
+## Source Credit
+
+*([Pub. L. 110–161, div. H, title I, § 7](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2222](https://www.govinfo.gov/link/statute/121/2222).)*

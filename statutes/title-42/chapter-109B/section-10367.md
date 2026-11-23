@@ -3,9 +3,10 @@ title: "Section 10367 - Water data enhancement by United States Geological Surve
 usc_title: 42
 usc_section: "10367"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10367"
-generated_at: "2026-03-30T02:56:11.387Z"
+generated_at: "2026-11-23T20:27:23.241Z"
+status: "active"
 ---
 
 # § 10367. Water data enhancement by United States Geological Survey
@@ -68,3 +69,7 @@ generated_at: "2026-03-30T02:56:11.387Z"
     - **(E)** water withdrawals, return flows, and consumptive use.
   - **(3)** In recognition of the value of collaboration to foster innovation and enhance research and development efforts, the Secretary shall encourage partnerships, including public-private partnerships, between and among Federal agencies, academic institutions, and private entities to promote the objectives described in paragraph (1).
   - **(4)** There is authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2009 through 2028.
+
+## Source Credit
+
+*([Pub. L. 111–11, title IX, § 9507](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1339](https://www.govinfo.gov/link/statute/123/1339); [Pub. L. 118–174, § 2](https://www.govinfo.gov/link/plaw/118/public/174), Dec. 23, 2024, [138 Stat. 2602](https://www.govinfo.gov/link/statute/138/2602).)*

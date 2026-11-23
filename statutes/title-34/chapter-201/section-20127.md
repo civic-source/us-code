@@ -3,9 +3,10 @@ title: "Section 20127 - Emergency and transitional pet shelter and housing assis
 usc_title: 34
 usc_section: "20127"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 20127"
-generated_at: "2026-03-30T02:55:33.294Z"
+generated_at: "2026-11-23T20:26:50.582Z"
+status: "active"
 ---
 
 # § 20127. Emergency and transitional pet shelter and housing assistance grant program
@@ -77,3 +78,11 @@ generated_at: "2026-03-30T02:55:33.294Z"
     - **(D)** The term “pet” means a domesticated animal, such as a dog, cat, bird, rodent, fish, turtle, or other animal that is kept for pleasure rather than for commercial purposes.
     - **(E)** The term “service animal” has the meaning given the term in section 36.104 of title 28, Code of Federal Regulations (or a successor regulation).
     - **(F)** Except as otherwise provided in this section, terms used in this section 2 shall have the meaning given such terms in section 12291(a) of this title .
+
+(aa) an animal shelter; and
+
+(bb) an animal welfare organization.
+
+## Source Credit
+
+*([Pub. L. 115–334, title XII, § 12502(b)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4983](https://www.govinfo.gov/link/statute/132/4983).)*

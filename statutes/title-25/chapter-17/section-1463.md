@@ -3,12 +3,17 @@ title: "Section 1463 - Repayment of loan; financing from other sources"
 usc_title: 25
 usc_section: "1463"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1463"
-generated_at: "2026-03-30T02:54:52.817Z"
+generated_at: "2026-11-23T20:26:25.465Z"
+status: "active"
 ---
 
 # § 1463. Repayment of loan; financing from other sources
 
 Loans may be made only when, in the judgment of the Secretary, there is a reasonable prospect of repayment, and only to applicants who in the opinion of the Secretary are unable to obtain financing from other sources on reasonable terms and conditions.
 
+
+## Source Credit
+
+*([Pub. L. 93–262, title I, § 103](https://www.govinfo.gov/link/plaw/93/public/262), Apr. 12, 1974, [88 Stat. 78](https://www.govinfo.gov/link/statute/88/78).)*

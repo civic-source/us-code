@@ -3,9 +3,10 @@ title: "Section 6105 - Referenda"
 usc_title: 7
 usc_section: "6105"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6105"
-generated_at: "2026-03-30T02:53:42.425Z"
+generated_at: "2026-11-23T20:25:41.684Z"
+status: "active"
 ---
 
 # § 6105. Referenda
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:42.425Z"
     - **(A)** within 6 months after making such determination, suspend or terminate, as appropriate, collection of assessments under the order; and
     - **(B)** suspend or terminate, as appropriate, activities under the order in an orderly manner as soon as practicable.
 - **(c)** Referenda conducted pursuant to this section shall be conducted in such a manner as is determined by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XIX, § 1926](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3861](https://www.govinfo.gov/link/statute/104/3861).)*

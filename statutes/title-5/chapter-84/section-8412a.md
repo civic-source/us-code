@@ -3,9 +3,10 @@ title: "Section 8412a - Phased retirement"
 usc_title: 5
 usc_section: "8412a"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8412a"
-generated_at: "2026-03-30T02:52:56.054Z"
+generated_at: "2026-11-23T20:25:32.187Z"
+status: "active"
 ---
 
 # § 8412a. Phased retirement
@@ -84,3 +85,7 @@ generated_at: "2026-03-30T02:52:56.054Z"
 - **(m)** A phased retiree is not eligible to apply for an annuity under subchapter V.
 - **(n)** A phased retiree is not subject to section 8468.
 - **(o)** For purposes of chapter 87, a phased retiree shall be deemed to be receiving basic pay at the rate of a full-time employee in the position to which the phased retiree is appointed.
+
+## Source Credit
+
+*(Added [Pub. L. 112–141, div. F, title I, § 100121(b)(1)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 910](https://www.govinfo.gov/link/statute/126/910).)*

@@ -3,9 +3,10 @@ title: "Section 549 - Competitive availability of navigation devices"
 usc_title: 47
 usc_section: "549"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 549"
-generated_at: "2026-03-30T02:56:24.520Z"
+generated_at: "2026-11-23T20:27:28.931Z"
+status: "active"
 ---
 
 # § 549. Competitive availability of navigation devices
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:24.520Z"
   - **(2)** the market for converter boxes, and interactive communications equipment, used in conjunction with that service is fully competitive; and
   - **(3)** elimination of the regulations would promote competition and the public interest.
 - **(f)** Nothing in this section shall be construed as expanding or limiting any authority that the Commission may have under law in effect before February 8, 1996 .
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title VI, § 629, as added [Pub. L. 104–104, title III, § 304](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 125](https://www.govinfo.gov/link/statute/110/125).)*

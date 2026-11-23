@@ -3,9 +3,10 @@ title: "Section 2113a - Good neighbor authority"
 usc_title: 16
 usc_section: "2113a"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 2113a"
-generated_at: "2026-03-30T02:54:23.000Z"
+generated_at: "2026-11-23T20:26:20.600Z"
+status: "active"
 ---
 
 # § 2113a. Good neighbor authority
@@ -59,3 +60,15 @@ generated_at: "2026-03-30T02:54:23.000Z"
       - **(ii)** The authority provided under this subparagraph terminates effective October 1, 2028 .
   - **(3)** Any decision required to be made under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.) with respect to any authorized restoration services to be provided under this section on Federal land shall not be delegated to a Governor or county.
   - **(4)** Notwithstanding any other provision of law, any payment made by a county to the Secretary under a project conducted under a good neighbor agreement shall not be considered to be monies received from National Forest System, Bureau of Land Management, National Park System, or U.S. Fish and Wildlife Service land, as applicable.
+
+(aa) in a manner that is consistent with the applicable travel management plan; and
+
+(bb) not later than 3 years after the date on which the applicable authorized restoration services project is completed; or
+
+(aa) authorized restoration services under other good neighbor agreements; or
+
+(bb) authorized recreation services under the Good Neighbor Authority for Recreation Act.
+
+## Source Credit
+
+*([Pub. L. 113–79, title VIII, § 8206](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 921](https://www.govinfo.gov/link/statute/128/921); [Pub. L. 115–141, div. O, title II, § 212](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1073](https://www.govinfo.gov/link/statute/132/1073); [Pub. L. 115–334, title VIII](https://www.govinfo.gov/link/plaw/115/public/334), §§ 8624, 8704(b), Dec. 20, 2018, [132 Stat. 4857](https://www.govinfo.gov/link/statute/132/4857), 4877; [Pub. L. 117–328, div. G, title IV, § 439](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 4832](https://www.govinfo.gov/link/statute/136/4832); [Pub. L. 118–42, div. E, title IV, § 443](https://www.govinfo.gov/link/plaw/118/public/42), Mar. 9, 2024, [138 Stat. 297](https://www.govinfo.gov/link/statute/138/297); [Pub. L. 118–234, title III, § 351(b)(3)(B)](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2916](https://www.govinfo.gov/link/statute/138/2916).)*

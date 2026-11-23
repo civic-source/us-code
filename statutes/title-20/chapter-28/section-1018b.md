@@ -3,9 +3,10 @@ title: "Section 1018b - Administrative simplification of student aid delivery"
 usc_title: 20
 usc_section: "1018b"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1018b"
-generated_at: "2026-03-30T02:54:48.096Z"
+generated_at: "2026-11-23T20:26:14.315Z"
+status: "active"
 ---
 
 # § 1018b. Administrative simplification of student aid delivery
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:48.096Z"
     - **(B)** develops standards for information transactions, data elements, or any other standard that is necessary to, or will facilitate, the implementation of this section; and
     - **(C)** is open to the participation of the various entities engaged in the delivery of Federal student financial assistance.
   - **(3)** The term “voluntary consensus standard” means a standard developed or used by a standard setting organization described in paragraph (2).
+
+## Source Credit
+
+*([Pub. L. 89–329, title I, § 143](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title I, § 101(a)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1615](https://www.govinfo.gov/link/statute/112/1615).)*

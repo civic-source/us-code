@@ -3,12 +3,17 @@ title: "Section 4906 - Application of State laws"
 usc_title: 26
 usc_section: "4906"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 4906"
-generated_at: "2026-03-30T02:55:27.805Z"
+generated_at: "2026-11-23T20:26:46.340Z"
+status: "active"
 ---
 
 # § 4906. Application of State laws
 
 The payment of any special tax imposed by this subtitle for carrying on any trade or business shall not be held to exempt any person from any penalty or punishment provided by the laws of any State for carrying on the same within such State, or in any manner to authorize the commencement or continuance of such trade or business contrary to the laws of such State or in places prohibited by municipal law; nor shall the payment of any such tax be held to prohibit any State from placing a duty or tax on the same trade or business, for State or other purposes.
 
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 594.)*

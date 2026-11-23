@@ -3,9 +3,10 @@ title: "Section 3821 - Certificates"
 usc_title: 33
 usc_section: "3821"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 3821"
-generated_at: "2026-03-30T02:55:41.144Z"
+generated_at: "2026-11-23T20:26:54.278Z"
+status: "active"
 ---
 
 # § 3821. Certificates
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:41.144Z"
 - **(c)** The Certificate required by this section shall be maintained as required by the Secretary.
 - **(d)** A Certificate issued by any country that is a party to the Convention has the same validity as a Certificate issued by the Secretary under this section.
 - **(e)** Notwithstanding subsection (a), a vessel of at least 400 gross tons, having the nationality of or entitled to fly the flag of a country that is not a party to the Convention, may demonstrate compliance with this chapter through other appropriate documentation considered acceptable by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 111–281, title X, § 1021](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 3025](https://www.govinfo.gov/link/statute/124/3025).)*

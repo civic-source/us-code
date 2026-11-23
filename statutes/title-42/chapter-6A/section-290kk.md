@@ -3,9 +3,10 @@ title: "Section 290kk - Applicability to designated programs"
 usc_title: 42
 usc_section: "290kk"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 290kk"
-generated_at: "2026-03-30T02:56:10.770Z"
+generated_at: "2026-11-23T20:27:20.348Z"
+status: "active"
 ---
 
 # § 290kk. Applicability to designated programs
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:10.770Z"
   - **(4)** The term “program participant” means a public or private entity that has received financial assistance under a designated program.
   - **(5)** The term “program services” means treatment for substance abuse, or preventive services regarding such abuse, provided pursuant to an award of financial assistance under a designated program.
   - **(6)** The term “religious organization” means a nonprofit religious organization.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title V, § 596, formerly § 581, as added [Pub. L. 106–554, § 1(a)(7) [title I, § 144]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–619; renumbered § 596, [Pub. L. 119–44, title I, § 107(a)(2)](https://www.govinfo.gov/link/plaw/119/public/44), Dec. 1, 2025, [139 Stat. 674](https://www.govinfo.gov/link/statute/139/674).)*

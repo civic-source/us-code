@@ -3,9 +3,10 @@ title: "Section 17233 - Energy storage technology and microgrid assistance progr
 usc_title: 42
 usc_section: "17233"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17233"
-generated_at: "2026-03-30T02:56:11.503Z"
+generated_at: "2026-11-23T20:27:23.744Z"
+status: "active"
 ---
 
 # § 17233. Energy storage technology and microgrid assistance program
@@ -59,3 +60,7 @@ generated_at: "2026-03-30T02:56:11.503Z"
 - **(f)**
   - **(1)** There is authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2021 through 2025.
   - **(2)** Not more than 5 percent of the amount appropriated under paragraph (1) for each fiscal year shall be used for administrative expenses.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. Z, title III, § 3202](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2525](https://www.govinfo.gov/link/statute/134/2525).)*

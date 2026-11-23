@@ -3,9 +3,10 @@ title: "Section 6823 - Administration"
 usc_title: 22
 usc_section: "6823"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6823"
-generated_at: "2026-03-30T02:55:05.433Z"
+generated_at: "2026-11-23T20:26:32.634Z"
+status: "active"
 ---
 
 # § 6823. Administration
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:05.433Z"
   - **(3)** such rules and procedures as may be necessary for cost-effective management of the Trust Fund; and
   - **(4)** such rules and procedures as may be necessary to ensure transparency and accountability in the grant-making process.
 - **(e)** The Board of Trustees should ensure full and prompt public disclosure of the proposed objectives, financial organization, and operations of the Trust Fund.
+
+## Source Credit
+
+*([Pub. L. 106–264, title I, § 123](https://www.govinfo.gov/link/plaw/106/public/264), Aug. 19, 2000, [114 Stat. 756](https://www.govinfo.gov/link/statute/114/756).)*

@@ -3,9 +3,10 @@ title: "Section 801 - Coronavirus relief fund"
 usc_title: 42
 usc_section: "801"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 801"
-generated_at: "2026-03-30T02:56:10.897Z"
+generated_at: "2026-11-23T20:27:20.946Z"
+status: "active"
 ---
 
 # § 801. Coronavirus relief fund
@@ -55,3 +56,7 @@ generated_at: "2026-03-30T02:56:10.897Z"
   - **(3)** The term “Secretary” means the Secretary of the Treasury.
   - **(4)** The term “State” means the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, and American Samoa.
   - **(5)** The term “Tribal government” means the recognized governing body of an Indian Tribe.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title VI, § 601, as added [Pub. L. 116–136, div. A, title V, § 5001(a)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 501](https://www.govinfo.gov/link/statute/134/501); amended [Pub. L. 116–260, div. N, title X, § 1001](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2145](https://www.govinfo.gov/link/statute/134/2145); [Pub. L. 117–328, div. LL, § 104](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 6105](https://www.govinfo.gov/link/statute/136/6105).)*

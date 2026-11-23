@@ -3,12 +3,17 @@ title: "Section 1494 - Purposes"
 usc_title: 48
 usc_section: "1494"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1494"
-generated_at: "2026-03-30T02:56:14.587Z"
+generated_at: "2026-11-23T20:27:28.056Z"
+status: "active"
 ---
 
 # § 1494. Purposes
 
 The purposes of sections 1494 to 1494c of this title are to improve enforcement of drug laws and enhance interdiction of illicit drug shipments in the Caribbean and Pacific territories and commonwealths of the United States and the Trust Territory of the Pacific Islands (or successor governments) and to assist public and private sector drug abuse and other substance prevention and treatment programs in United States associated insular areas.
 
+
+## Source Credit
+
+*([Pub. L. 99–570, title V, § 5002](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–154](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 100–690, title IX, § 9308](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4538](https://www.govinfo.gov/link/statute/102/4538).)*

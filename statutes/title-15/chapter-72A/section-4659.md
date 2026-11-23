@@ -3,9 +3,10 @@ title: "Section 4659 - Additional authorities"
 usc_title: 15
 usc_section: "4659"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 4659"
-generated_at: "2026-03-30T02:54:08.202Z"
+generated_at: "2026-11-23T20:26:04.351Z"
+status: "active"
 ---
 
 # § 4659. Additional authorities
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:54:08.202Z"
 - **(f)** In this section:
   - **(1)** The term “covered activity” means any activity relating to the construction, expansion, or modernization of a facility, the investment in which is eligible for Federal financial assistance under section 4652 or 4656 of this title.
   - **(2)** The term “NEPA” means the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.).
+
+## Source Credit
+
+*([Pub. L. 116–283, div. H, title XCIX, § 9909](https://www.govinfo.gov/link/plaw/116/public/283), as added [Pub. L. 117–167, div. A, § 103(d)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1389](https://www.govinfo.gov/link/statute/136/1389); amended [Pub. L. 118–105, § 2(2)](https://www.govinfo.gov/link/plaw/118/public/105), Oct. 2, 2024, [138 Stat. 1588](https://www.govinfo.gov/link/statute/138/1588).)*

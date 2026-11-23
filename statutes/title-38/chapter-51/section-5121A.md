@@ -3,9 +3,10 @@ title: "Section 5121A - Substitution in case of death of claimant"
 usc_title: 38
 usc_section: "5121A"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 5121A"
-generated_at: "2026-03-30T02:55:53.520Z"
+generated_at: "2026-11-23T20:27:01.951Z"
+status: "active"
 ---
 
 # § 5121A. Substitution in case of death of claimant
@@ -15,3 +16,11 @@ generated_at: "2026-03-30T02:55:53.520Z"
   - **(2)** Any person seeking to be substituted for the claimant shall present evidence of the right to claim such status within such time as prescribed by the Secretary in regulations.
   - **(3)** Substitution under this subsection shall be in accordance with such regulations as the Secretary may prescribe.
 - **(b)** Those who are eligible to make a claim under this section shall be determined in accordance with section 5121 of this title .
+
+Substitution
+
+Limitation
+
+## Source Credit
+
+*(Added [Pub. L. 110–389, title II, § 212(a)](https://www.govinfo.gov/link/plaw/110/public/389), Oct. 10, 2008, [122 Stat. 4151](https://www.govinfo.gov/link/statute/122/4151).)*

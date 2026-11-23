@@ -3,9 +3,10 @@ title: "Section 4112 - Employees represented"
 usc_title: 22
 usc_section: "4112"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4112"
-generated_at: "2026-03-30T02:55:05.407Z"
+generated_at: "2026-11-23T20:26:32.520Z"
+status: "active"
 ---
 
 # § 4112. Employees represented
@@ -14,3 +15,7 @@ The employees of the Department shall constitute a single and separate worldwide
 
   - **(1)** employees engaged in personnel work in other than a purely clerical capacity; and
   - **(2)** employees engaged in criminal or national security investigations or who audit the work of individuals to insure that their functions are discharged honestly and with integrity.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 1012](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2135](https://www.govinfo.gov/link/statute/94/2135).)*

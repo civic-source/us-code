@@ -3,9 +3,10 @@ title: "Section 9605 - National contingency plan"
 usc_title: 42
 usc_section: "9605"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9605"
-generated_at: "2026-03-30T02:56:11.356Z"
+generated_at: "2026-11-23T20:27:23.100Z"
+status: "active"
 ---
 
 # § 9605. National contingency plan
@@ -56,3 +57,7 @@ generated_at: "2026-03-30T02:56:11.356Z"
     - **(A)** deferral would not be appropriate because the State, as an owner or operator or a significant contributor of hazardous substances to the facility, is a potentially responsible party;
     - **(B)** the criteria under the National Contingency Plan for issuance of a health advisory have been met; or
     - **(C)** the conditions in paragraphs (1) through (3), as applicable, are no longer being met.
+
+## Source Credit
+
+*([Pub. L. 96–510, title I, § 105](https://www.govinfo.gov/link/plaw/96/public/510), Dec. 11, 1980, [94 Stat. 2779](https://www.govinfo.gov/link/statute/94/2779); [Pub. L. 99–499, title I, § 105](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1625](https://www.govinfo.gov/link/statute/100/1625); [Pub. L. 107–118, title II, § 232](https://www.govinfo.gov/link/plaw/107/public/118), Jan. 11, 2002, [115 Stat. 2379](https://www.govinfo.gov/link/statute/115/2379).)*

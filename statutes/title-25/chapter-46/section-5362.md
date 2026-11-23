@@ -3,9 +3,10 @@ title: "Section 5362 - Tribal Self-Governance Program"
 usc_title: 25
 usc_section: "5362"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 5362"
-generated_at: "2026-03-30T02:54:52.868Z"
+generated_at: "2026-11-23T20:26:25.737Z"
+status: "active"
 ---
 
 # § 5362. Tribal Self-Governance Program
@@ -51,3 +52,11 @@ generated_at: "2026-03-30T02:54:52.868Z"
     - **(A)** to plan for participation in self-governance; and
     - **(B)** to negotiate the terms of participation by the Indian Tribe or Tribal organization in self-governance, as set forth in a compact and a funding agreement.
   - **(2)** Receipt of a grant under paragraph (1) shall not be a requirement of participation in self-governance.
+
+(aa) the earlier of— (AA) 1 year after the date of submission of the request; and (BB) the date on which the funding agreement expires; or
+
+(bb) such date as may be mutually agreed upon by the Secretary, the withdrawing Indian Tribe, and the Tribal organization that signed the compact and funding agreement on behalf of the withdrawing Indian Tribe or Tribal organization.
+
+## Source Credit
+
+*([Pub. L. 93–638, title IV, § 402](https://www.govinfo.gov/link/plaw/93/public/638), as added [Pub. L. 103–413, title II, § 204](https://www.govinfo.gov/link/plaw/103/public/413), Oct. 25, 1994, [108 Stat. 4272](https://www.govinfo.gov/link/statute/108/4272); amended [Pub. L. 104–208, div. A, title I, § 101(d) [title I, § 117]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–181](https://www.govinfo.gov/link/statute/110/3009), 3009–201; [Pub. L. 116–180, title I, § 101(c)](https://www.govinfo.gov/link/plaw/116/public/180), Oct. 21, 2020, [134 Stat. 859](https://www.govinfo.gov/link/statute/134/859).)*

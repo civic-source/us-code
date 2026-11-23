@@ -3,9 +3,10 @@ title: "Section 3304 - Transporting individuals in addition to crew"
 usc_title: 46
 usc_section: "3304"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 3304"
-generated_at: "2026-03-30T02:56:15.543Z"
+generated_at: "2026-11-23T20:27:27.068Z"
+status: "active"
 ---
 
 # § 3304. Transporting individuals in addition to crew
@@ -15,3 +16,16 @@ generated_at: "2026-03-30T02:56:15.543Z"
 - **(c)** A privilege authorized by this section applies to a vessel of a foreign country that affords a similar privilege to vessels of the United States in trades not restricted to vessels under its own flag.
 - **(d)** A fishing, fish processing, or fish tender vessel that transports not more than 12 individuals employed in the fishing industry in addition to the crew is not subject to inspection as a passenger or small passenger vessel.
 - **(e)** The Secretary may by regulation allow individuals in addition to the crew to be transported in an emergency or under section 2304 of this title .
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 3304 | 46:390–393 46:882 |
+
+
+Historical and Revision Notes
+
+3304
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 513](https://www.govinfo.gov/link/statute/97/513); [Pub. L. 98–364, title IV, § 402(4)](https://www.govinfo.gov/link/plaw/98/public/364), July 17, 1984, [98 Stat. 446](https://www.govinfo.gov/link/statute/98/446); [Pub. L. 99–307, § 1(5)(A)](https://www.govinfo.gov/link/plaw/99/public/307), May 19, 1986, [100 Stat. 444](https://www.govinfo.gov/link/statute/100/444).)*

@@ -3,9 +3,10 @@ title: "Section 2202 - Non-Federal engagement and review"
 usc_title: 33
 usc_section: "2202"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2202"
-generated_at: "2026-03-30T02:55:41.112Z"
+generated_at: "2026-11-23T20:26:54.116Z"
+status: "active"
 ---
 
 # § 2202. Non-Federal engagement and review
@@ -30,3 +31,33 @@ generated_at: "2026-03-30T02:55:41.112Z"
     - **(B)** the Water Resources Development Act of 2016;
     - **(C)** this Act; and
     - **(D)** any Federal water resources development law enacted after October 23, 2018 .
+
+In General
+
+Membership.—
+
+In general
+
+Representatives
+
+Duties.—
+
+Recommendations
+
+Meetings
+
+Report
+
+Independent Judgment
+
+Administration.—
+
+Compensation
+
+Travel expenses
+
+Treatment
+
+## Source Credit
+
+*([Pub. L. 115–270, title I, § 1105](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3772](https://www.govinfo.gov/link/statute/132/3772).)*

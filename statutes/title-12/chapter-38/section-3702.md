@@ -3,9 +3,10 @@ title: "Section 3702 - Definitions"
 usc_title: 12
 usc_section: "3702"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 3702"
-generated_at: "2026-03-30T02:53:53.496Z"
+generated_at: "2026-11-23T20:25:59.345Z"
+status: "active"
 ---
 
 # § 3702. Definitions
@@ -28,3 +29,7 @@ As used in this chapter—
   - **(8)** “State” means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the territories and possessions of the United States, and the Trust Territory of the Pacific Islands, and Indian tribes as defined by the Secretary;
   - **(9)** “county” means county as defined in section 2 of title 1 ; and
   - **(10)** “Secretary” means the Secretary of Housing and Urban Development and the Secretary of Agriculture.
+
+## Source Credit
+
+*([Pub. L. 97–35, title III, § 363](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 422](https://www.govinfo.gov/link/statute/95/422); [Pub. L. 102–550, title V, § 517(b)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3792](https://www.govinfo.gov/link/statute/106/3792); [Pub. L. 118–42, div. B, title VII, § 762](https://www.govinfo.gov/link/plaw/118/public/42), Mar. 9, 2024, [138 Stat. 115](https://www.govinfo.gov/link/statute/138/115); [Pub. L. 119–37, div. B, title VII, § 765](https://www.govinfo.gov/link/plaw/119/public/37), Nov. 12, 2025, [139 Stat. 554](https://www.govinfo.gov/link/statute/139/554).)*

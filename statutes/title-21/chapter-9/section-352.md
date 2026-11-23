@@ -3,9 +3,10 @@ title: "Section 352 - Misbranded drugs and devices"
 usc_title: 21
 usc_section: "352"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 352"
-generated_at: "2026-03-30T02:54:54.229Z"
+generated_at: "2026-11-23T20:26:27.553Z"
+status: "active"
 ---
 
 # § 352. Misbranded drugs and devices
@@ -90,3 +91,27 @@ A drug or device shall be deemed to be misbranded—
     - **(E)** patient utilization projections;
     - **(F)** product-related programs or services; and
     - **(G)** factual presentations of results from studies that do not characterize or make conclusions regarding safety or efficacy.
+
+In general
+
+Misbranding
+
+“Section 502(u) of the Federal Food, Drug, and Cosmetic Act [ 21 U.S.C. 352(u) ] (as amended by section 2(c) of the Medical Device User Fee Stabilization Act of 2005 [ Pub. L. 109–43 ])—
+
+In General
+
+Review and Consultation
+
+Report
+
+Authority
+
+Clarification
+
+In general
+
+Content
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 502, [52 Stat. 1050](https://www.govinfo.gov/link/statute/52/1050); June 23, 1939, ch. 242, § 3, [53 Stat. 854](https://www.govinfo.gov/link/statute/53/854); Dec. 22, 1941, ch. 613, § 2, [55 Stat. 851](https://www.govinfo.gov/link/statute/55/851); July 6, 1945, ch. 281, § 2, [59 Stat. 463](https://www.govinfo.gov/link/statute/59/463); Mar. 10, 1947, ch. 16, § 2, [61 Stat. 11](https://www.govinfo.gov/link/statute/61/11); July 13, 1949, ch. 305, § 1, [63 Stat. 409](https://www.govinfo.gov/link/statute/63/409); Aug. 5, 1953, ch. 334, § 1, [67 Stat. 389](https://www.govinfo.gov/link/statute/67/389); [Pub. L. 86–618, title I, § 102(b)(2)](https://www.govinfo.gov/link/plaw/86/public/618), July 12, 1960, [74 Stat. 398](https://www.govinfo.gov/link/statute/74/398); [Pub. L. 87–781, title I](https://www.govinfo.gov/link/plaw/87/public/781), §§ 105(c), 112(a), (b), 131(a), title III, § 305, Oct. 10, 1962, [76 Stat. 785](https://www.govinfo.gov/link/statute/76/785), 790, 791, 795; [Pub. L. 90–399, § 105(a)](https://www.govinfo.gov/link/plaw/90/public/399), July 13, 1968, [82 Stat. 352](https://www.govinfo.gov/link/statute/82/352); [Pub. L. 91–601, § 6(d)](https://www.govinfo.gov/link/plaw/91/public/601), formerly § 7(d), Dec. 30, 1970, [84 Stat. 1673](https://www.govinfo.gov/link/statute/84/1673), renumbered [Pub. L. 97–35, title XII, § 1205(c)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 716](https://www.govinfo.gov/link/statute/95/716); [Pub. L. 94–295](https://www.govinfo.gov/link/plaw/94/public/295), §§ 3(e), 4(b)(2), 5(a), 9(b)(2), May 28, 1976, [90 Stat. 577](https://www.govinfo.gov/link/statute/90/577), 580, 583; [Pub. L. 95–633, title I, § 111](https://www.govinfo.gov/link/plaw/95/public/633), Nov. 10, 1978, [92 Stat. 3773](https://www.govinfo.gov/link/statute/92/3773); [Pub. L. 102–300, § 3(a)(2)](https://www.govinfo.gov/link/plaw/102/public/300), June 16, 1992, [106 Stat. 239](https://www.govinfo.gov/link/statute/106/239); [Pub. L. 102–571, title I, § 107(9)](https://www.govinfo.gov/link/plaw/102/public/571), Oct. 29, 1992, [106 Stat. 4499](https://www.govinfo.gov/link/statute/106/4499); [Pub. L. 103–80, § 3(m)](https://www.govinfo.gov/link/plaw/103/public/80), Aug. 13, 1993, [107 Stat. 777](https://www.govinfo.gov/link/statute/107/777); [Pub. L. 105–115, title I](https://www.govinfo.gov/link/plaw/105/public/115), §§ 114(a), 125(a)(2)(B), (b)(2)(D), 126(b), title IV, § 412(c), Nov. 21, 1997, [111 Stat. 2312](https://www.govinfo.gov/link/statute/111/2312), 2325, 2327, 2375; [Pub. L. 107–250, title II, § 206](https://www.govinfo.gov/link/plaw/107/public/250), title III, §§ 301(a), 302(a)(1), Oct. 26, 2002, [116 Stat. 1613](https://www.govinfo.gov/link/statute/116/1613), 1616; [Pub. L. 108–214, § 2(b)(2)(B)](https://www.govinfo.gov/link/plaw/108/public/214), Apr. 1, 2004, [118 Stat. 575](https://www.govinfo.gov/link/statute/118/575); [Pub. L. 108–282, title I, § 102(b)(5)(E)](https://www.govinfo.gov/link/plaw/108/public/282), Aug. 2, 2004, [118 Stat. 902](https://www.govinfo.gov/link/statute/118/902); [Pub. L. 109–43, § 2(c)(1)](https://www.govinfo.gov/link/plaw/109/public/43), Aug. 1, 2005, [119 Stat. 441](https://www.govinfo.gov/link/statute/119/441); [Pub. L. 109–462, § 2(d)](https://www.govinfo.gov/link/plaw/109/public/462), Dec. 22, 2006, [120 Stat. 3472](https://www.govinfo.gov/link/statute/120/3472); [Pub. L. 110–85, title IX](https://www.govinfo.gov/link/plaw/110/public/85), §§ 901(d)(3)(A), (6), 902(a), 906(a), Sept. 27, 2007, [121 Stat. 940](https://www.govinfo.gov/link/statute/121/940), 942, 943, 949; [Pub. L. 112–144, title III, § 306](https://www.govinfo.gov/link/plaw/112/public/144), title VII, §§ 702(a), 714(c), July 9, 2012, [126 Stat. 1024](https://www.govinfo.gov/link/statute/126/1024), 1065, 1074; [Pub. L. 112–193, § 2(a)](https://www.govinfo.gov/link/plaw/112/public/193), Oct. 5, 2012, [126 Stat. 1443](https://www.govinfo.gov/link/statute/126/1443); [Pub. L. 113–54, title I, § 103(b)](https://www.govinfo.gov/link/plaw/113/public/54), title II, § 206(b), Nov. 27, 2013, [127 Stat. 597](https://www.govinfo.gov/link/statute/127/597), 639; [Pub. L. 114–255, div. A, title III](https://www.govinfo.gov/link/plaw/114/public/255), §§ 3037, 3044(b)(2), Dec. 13, 2016, [130 Stat. 1105](https://www.govinfo.gov/link/statute/130/1105), 1121; [Pub. L. 115–234, title III, § 303(a)](https://www.govinfo.gov/link/plaw/115/public/234), Aug. 14, 2018, [132 Stat. 2436](https://www.govinfo.gov/link/statute/132/2436); [Pub. L. 116–136, div. A, title III, § 3852](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 454](https://www.govinfo.gov/link/statute/134/454); [Pub. L. 117–328, div. FF, title III, § 3630(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5893](https://www.govinfo.gov/link/statute/136/5893).)*

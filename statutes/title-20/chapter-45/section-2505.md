@@ -3,9 +3,10 @@ title: "Section 2505 - Grants or contracts"
 usc_title: 20
 usc_section: "2505"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 2505"
-generated_at: "2026-03-30T02:54:48.176Z"
+generated_at: "2026-11-23T20:26:14.713Z"
+status: "active"
 ---
 
 # § 2505. Grants or contracts
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:48.176Z"
   - **(3)** the publication of periodic reports and reference works using analysis prepared pursuant to this section and containing exemplary materials from the career education field, including research findings, results, and techniques from successful projects and programs, and highlights of ongoing analyses of career trends in the United States; and
   - **(4)** the conduct of seminars, workshops, and career information sessions for the purpose of disseminating to teachers, guidance counselors, other career educators, administrators, other education personnel, and the general public information compiled and analyzed under this section.
 - **(b)** In carrying out the provisions of this subchapter, and to the extent practicable, the Secretary of Education shall (1) make use of existing offices, centers, clearinghouses, and research capabilities, (2) coordinate among the offices, centers, clearinghouses, and research capabilities in carrying out his career information responsibilities, and (3) use the career information capabilities of the Department of Education.
+
+## Source Credit
+
+*([Pub. L. 94–482, title III, § 335](https://www.govinfo.gov/link/plaw/94/public/482), Oct. 12, 1976, [90 Stat. 2223](https://www.govinfo.gov/link/statute/90/2223); [Pub. L. 96–88, title III, § 301(a)(1)](https://www.govinfo.gov/link/plaw/96/public/88), (b)(2), title V, § 507, Oct. 17, 1979, [93 Stat. 677](https://www.govinfo.gov/link/statute/93/677), 678, 692.)*

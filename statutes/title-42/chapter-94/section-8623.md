@@ -3,9 +3,10 @@ title: "Section 8623 - State allotments"
 usc_title: 42
 usc_section: "8623"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8623"
-generated_at: "2026-03-30T02:56:11.346Z"
+generated_at: "2026-11-23T20:27:23.052Z"
+status: "active"
 ---
 
 # § 8623. State allotments
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:56:11.346Z"
     - **(B)** in any case where there is no tribal organization serving an individual for whom such a determination has been made, such other entity as the Secretary determines has the capacity to provide assistance pursuant to this subchapter.
   - **(4)** In order for a tribal organization or other entity to be eligible for an amount under this subsection for a fiscal year, it shall submit to the Secretary a plan (in lieu of being under the State’s plan) for such fiscal year which meets such criteria as the Secretary may by regulations prescribe.
 - **(e)** Notwithstanding subsections (a) through (d), the Secretary may allot amounts appropriated pursuant to section 8621(e) of this title to one or more than one State. In determining whether to make such an allotment to a State, the Secretary shall take into account the extent to which the State was affected by the natural disaster or other emergency involved, the availability to the State of other resources under the program carried out under this subchapter or any other program, and such other factors as the Secretary may find to be relevant. Not later than 30 days after making the determination, but prior to releasing an allotted amount to a State, the Secretary shall notify Congress of the allotments made pursuant to this subsection.
+
+## Source Credit
+
+*([Pub. L. 97–35, title XXVI, § 2604](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 894](https://www.govinfo.gov/link/statute/95/894); [Pub. L. 98–558, title VI](https://www.govinfo.gov/link/plaw/98/public/558), §§ 603, 604, Oct. 30, 1984, [98 Stat. 2890](https://www.govinfo.gov/link/statute/98/2890); [Pub. L. 99–425, title V](https://www.govinfo.gov/link/plaw/99/public/425), §§ 502(a), 503, 505(b), Sept. 30, 1986, [100 Stat. 973–975](https://www.govinfo.gov/link/statute/100/973); [Pub. L. 101–501, title VII, § 703](https://www.govinfo.gov/link/plaw/101/public/501), Nov. 3, 1990, [104 Stat. 1258](https://www.govinfo.gov/link/statute/104/1258); [Pub. L. 103–252, title III](https://www.govinfo.gov/link/plaw/103/public/252), §§ 304(c), 311(c)(3), May 18, 1994, [108 Stat. 659](https://www.govinfo.gov/link/statute/108/659), 662; [Pub. L. 105–285, title III](https://www.govinfo.gov/link/plaw/105/public/285), §§ 304(b), 305, Oct. 27, 1998, [112 Stat. 2757](https://www.govinfo.gov/link/statute/112/2757).)*

@@ -3,9 +3,10 @@ title: "Section 1334 - Administration of leasing"
 usc_title: 43
 usc_section: "1334"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1334"
-generated_at: "2026-03-30T02:55:57.469Z"
+generated_at: "2026-11-23T20:27:06.276Z"
+status: "active"
 ---
 
 # § 1334. Administration of leasing
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:55:57.469Z"
       - **(ii)** the physical waste of hydrocarbons and an unnecessary reduction in the amounts of hydrocarbons that can be produced from certain hydrocarbon-bearing areas; and
       - **(iii)** the loss of correlative rights which can result in the reduced value of national hydrocarbon resources and disorders in the leasing of Federal and State resources.
   - **(2)** The Secretary shall prevent, through the cooperative development of an area, the harmful effects of unrestrained competitive production of hydrocarbons from a common hydrocarbon-bearing area underlying the Federal and State boundary.
+
+## Source Credit
+
+*(Aug. 7, 1953, ch. 345, § 5, [67 Stat. 464](https://www.govinfo.gov/link/statute/67/464); [Pub. L. 95–372, title II, § 204](https://www.govinfo.gov/link/plaw/95/public/372), Sept. 18, 1978, [92 Stat. 636](https://www.govinfo.gov/link/statute/92/636); [Pub. L. 101–380, title VI, § 6004(a)](https://www.govinfo.gov/link/plaw/101/public/380), Aug. 18, 1990, [104 Stat. 558](https://www.govinfo.gov/link/statute/104/558); [Pub. L. 109–58, title III, § 321(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 694](https://www.govinfo.gov/link/statute/119/694).)*

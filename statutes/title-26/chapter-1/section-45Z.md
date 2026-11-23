@@ -3,9 +3,10 @@ title: "Section 45Z - Clean fuel production credit"
 usc_title: 26
 usc_section: "45Z"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 45Z"
-generated_at: "2026-03-30T02:55:27.607Z"
+generated_at: "2026-11-23T20:26:45.235Z"
+status: "active"
 ---
 
 # § 45Z. Clean fuel production credit
@@ -99,3 +100,19 @@ generated_at: "2026-03-30T02:55:27.607Z"
     - **(A)** No credit shall be determined under subsection (a) for any taxable year beginning after the date of enactment of this paragraph if the taxpayer is a specified foreign entity (as defined in section 7701(a)(51)(B)).
     - **(B)** No credit shall be determined under subsection (a) for any taxable year beginning after the date which is 2 years after the date of enactment of this paragraph if the taxpayer is a foreign-influenced entity (as defined in section 7701(a)(51)(D), without regard to clause (i)(II) thereof).
 - **(g)** This section shall not apply to transportation fuel sold after December 31, 2029 .
+
+(aa) 50 kilograms of CO 2 e per mmBTU, minus
+
+(bb) the emissions rate for such fuel, divided by
+
+(aa) certification (in such form and manner as the Secretary shall prescribe) from an unrelated party demonstrating compliance with— (AA) any general requirements, supply chain traceability requirements, and information transmission requirements established under the Carbon Offsetting and Reduction Scheme for International Aviation described in subclause (I) of subsection (b)(1)(B)(iii), or (BB) in the case of any methodology described in subclause (II) of such subsection, requirements similar to the requirements described in subitem (AA), and
+
+(bb) such other information with respect to such fuel as the Secretary may require for purposes of carrying out this section,
+
+In general
+
+Exception
+
+## Source Credit
+
+*(Added [Pub. L. 117–169, title I, § 13704(a)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 1997](https://www.govinfo.gov/link/statute/136/1997); amended [Pub. L. 119–21, title VII, § 70521(a)(1)](https://www.govinfo.gov/link/plaw/119/public/21), (b)(1), (c)(1), (2), (d)–(f), (g)(2)(A), (B), (k)(1), July 4, 2025, [139 Stat. 276–279](https://www.govinfo.gov/link/statute/139/276).)*

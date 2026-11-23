@@ -3,9 +3,10 @@ title: "Section 573 - Establishment of open video systems"
 usc_title: 47
 usc_section: "573"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 573"
-generated_at: "2026-03-30T02:56:24.521Z"
+generated_at: "2026-11-23T20:27:28.937Z"
+status: "active"
 ---
 
 # § 573. Establishment of open video systems
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:24.521Z"
   - **(3)** With respect to the establishment and operation of an open video system, the requirements of this section shall apply in lieu of, and not in addition to, the requirements of subchapter II.
   - **(4)** Nothing in this chapter precludes a video programming provider making use of an open video system from being treated as an operator of a cable system for purposes of section 111 of title 17 .
 - **(d)** For purposes of this section, the term “telephone service area” when used in connection with a common carrier subject in whole or in part to subchapter II of this chapter means the area within which such carrier is offering telephone exchange service.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title VI, § 653, as added [Pub. L. 104–104, title III, § 302(a)](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 121](https://www.govinfo.gov/link/statute/110/121).)*

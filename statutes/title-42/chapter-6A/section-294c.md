@@ -3,9 +3,10 @@ title: "Section 294c - Education and training relating to geriatrics"
 usc_title: 42
 usc_section: "294c"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 294c"
-generated_at: "2026-03-30T02:56:10.776Z"
+generated_at: "2026-11-23T20:27:20.382Z"
+status: "active"
 ---
 
 # § 294c. Education and training relating to geriatrics
@@ -64,3 +65,7 @@ generated_at: "2026-03-30T02:56:10.776Z"
   - **(6)** An individual who receives an award under this subsection shall provide training in clinical geriatrics, including the training of interprofessional teams of health care professionals. The provision of such training shall constitute at least 75 percent of the obligations of such individual under the award.
 - **(c)** Notwithstanding any other provision of this subchapter, section 295j(a) of this title shall not apply to awards made under this section.
 - **(d)** There is authorized to be appropriated $40,737,000 for each of fiscal years 2021 through 2025 for purposes of carrying out this section.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 753, as added [Pub. L. 105–392, title I, § 103](https://www.govinfo.gov/link/plaw/105/public/392), Nov. 13, 1998, [112 Stat. 3544](https://www.govinfo.gov/link/statute/112/3544); amended [Pub. L. 107–205, title II, § 202(b)](https://www.govinfo.gov/link/plaw/107/public/205), Aug. 1, 2002, [116 Stat. 817](https://www.govinfo.gov/link/statute/116/817); [Pub. L. 111–148, title V, § 5305(a)](https://www.govinfo.gov/link/plaw/111/public/148), (b), Mar. 23, 2010, [124 Stat. 622](https://www.govinfo.gov/link/statute/124/622), 624; [Pub. L. 111–256, § 2(f)(5)](https://www.govinfo.gov/link/plaw/111/public/256), Oct. 5, 2010, [124 Stat. 2644](https://www.govinfo.gov/link/statute/124/2644); [Pub. L. 116–136, div. A, title III, § 3403](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 388](https://www.govinfo.gov/link/statute/134/388); [Pub. L. 116–260, div. BB, title III, § 331(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2938](https://www.govinfo.gov/link/statute/134/2938).)*

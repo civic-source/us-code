@@ -3,9 +3,10 @@ title: "Section 6132 - Prohibition of coercion"
 usc_title: 5
 usc_section: "6132"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 6132"
-generated_at: "2026-03-30T02:52:56.029Z"
+generated_at: "2026-11-23T20:25:32.020Z"
+status: "active"
 ---
 
 # § 6132. Prohibition of coercion
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:52:56.029Z"
   - **(1)** such employee’s rights under sections 6122 through 6126 of this title to elect a time of arrival or departure, to work or not to work credit hours, or to request or not to request compensatory time off in lieu of payment for overtime hours; or
   - **(2)** such employee’s right under section 6127(b)(1) of this title to vote whether or not to be included within a compressed schedule program or such employee’s right to request an agency determination under section 6127(b)(2) of this title .
 - **(b)** For the purpose of subsection (a), the term “intimidate, threaten, or coerce” includes, but is not limited to, promising to confer or conferring any benefit (such as appointment, promotion, or compensation), or effecting or threatening to effect any reprisal (such as deprivation of appointment, promotion, or compensation).
+
+## Source Credit
+
+*(Added [Pub. L. 97–221, § 2(a)(2)](https://www.govinfo.gov/link/plaw/97/public/221), July 23, 1982, [96 Stat. 232](https://www.govinfo.gov/link/statute/96/232).)*

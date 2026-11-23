@@ -3,12 +3,17 @@ title: "Section 2213 - Loans"
 usc_title: 43
 usc_section: "2213"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 2213"
-generated_at: "2026-03-30T02:55:57.495Z"
+generated_at: "2026-11-23T20:27:06.397Z"
+status: "active"
 ---
 
 # § 2213. Loans
 
 The Secretary of the Interior is authorized to make loans to water users for the purposes of undertaking construction, management, conservation activities, or the acquisition and transportation of water consistent with State law, that can be expected to have an effect in mitigating losses and damages, including those suffered by fish and wildlife, resulting from drought conditions. Such loans shall be made available under such terms and conditions as the Secretary deems appropriate: Provided , That the Secretary shall not approve any loan unless the applicant can demonstrate an ability to repay such loan within the term of the loan: Provided further , That for all loans approved by the Secretary under the authority of this section, the interest rate shall be the rate determined by the Secretary of the Treasury based on average market yields on outstanding marketable obligations of the United States with periods to maturity comparable to the repayment period of the loan. The repayment period for loans issued under this section shall not exceed fifteen years. The repayment period for such loans shall begin when the loan is executed. Sections 390cc(a) and 390tt of this title and sections 105 and 106 of Public Law 99–546 shall not apply to any contract to repay such loan. The Secretary shall notify the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives in writing of any loan which the Secretary intends to approve not less than thirty days prior to granting final approval.
 
+
+## Source Credit
+
+*([Pub. L. 102–250, title I, § 103](https://www.govinfo.gov/link/plaw/102/public/250), Mar. 5, 1992, [106 Stat. 55](https://www.govinfo.gov/link/statute/106/55); [Pub. L. 103–437, § 16(a)(6)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4594](https://www.govinfo.gov/link/statute/108/4594).)*

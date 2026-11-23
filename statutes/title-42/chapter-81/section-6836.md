@@ -3,9 +3,10 @@ title: "Section 6836 - Support for voluntary building energy codes"
 usc_title: 42
 usc_section: "6836"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6836"
-generated_at: "2026-03-30T02:56:11.266Z"
+generated_at: "2026-11-23T20:27:22.712Z"
+status: "active"
 ---
 
 # § 6836. Support for voluntary building energy codes
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.266Z"
   - **(1)** recommend amendments to such codes including measures with regard to radon and other indoor air pollutants;
   - **(2)** seek adoption of all technologically feasible and economically justified energy efficiency measures; and
   - **(3)** otherwise participate in any industry process for review and modification of such codes.
+
+## Source Credit
+
+*([Pub. L. 94–385, title III, § 307](https://www.govinfo.gov/link/plaw/94/public/385), as added [Pub. L. 102–486, title I, § 101(a)(2)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2785](https://www.govinfo.gov/link/statute/106/2785).)*

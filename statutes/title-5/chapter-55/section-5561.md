@@ -3,9 +3,10 @@ title: "Section 5561 - Definitions"
 usc_title: 5
 usc_section: "5561"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 5561"
-generated_at: "2026-03-30T02:52:56.021Z"
+generated_at: "2026-11-23T20:25:31.950Z"
+status: "active"
 ---
 
 # § 5561. Definitions
@@ -36,3 +37,85 @@ For the purpose of this subchapter—
     - **(D)** basic allowance for housing;
     - **(E)** basic allowance for subsistence; and
     - **(F)** station per diem allowances for not more than 90 days.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| (1)–(4) | 50A U.S.C. 1001. | Mar. 7, 1942, ch. 166, § 1 , 56 Stat. 143 . |
+|  |  | July 1, 1944, ch. 371, § 1 , 58 Stat. 679 . |
+|  |  | May 16, 1947, ch. 70, § 1 , 61 Stat. 96 . |
+|  |  | Aug. 29, 1957 , Pub. L. 85–217, § 1(a) , 71 Stat. 491 . |
+|  |  | Aug. 14, 1964 , Pub. L. 88–428, § 1(1) , (2), 78 Stat. 437 . |
+| (5) | 50A U.S.C. 1002(a) (3d through 66th words of 1st sentence, and 1st 28 words of 3d sentence, for definition purposes). | Mar. 7, 1942, ch. 166, § 2(a) (3d through 66th words and 96th through 120th words of 1st sentence, and 1st 28 words of 3d sentence, for definition purposes); added July 1, 1944, ch. 371, § 2 , 58 Stat. 679 . Apr. 4, 1953, ch. 17, § 1(a) , 67 Stat. 21 . |
+|  |  | Aug. 29, 1957 , Pub. L. 85–217, § 1(b) (1st par.), 71 Stat. 491 . |
+|  |  | Aug. 14, 1964 , Pub. L. 88–428, § 1(3)(A) , (C), 78 Stat. 437 . |
+| (5) | 50A U.S.C. 1014 (as applicable to § 1002(a) (1st sentence)). | Mar. 7, 1942, ch. 166, § 14 (as applicable to § 2(a) (1st sentence)), 56 Stat. 147 . Apr. 4, 1953, ch. 17, § 1(e) , 67 Stat. 21 . |
+| (6) | 50A U.S.C. 1002(a) (96th through 120th words of 1st sentence, for definition purposes). |  |
+
+
+Historical and Revision Notes
+
+(1)–(4)
+
+Mar. 7, 1942, ch. 166, § 1
+
+56 Stat. 143
+
+July 1, 1944, ch. 371, § 1
+
+58 Stat. 679
+
+May 16, 1947, ch. 70, § 1
+
+61 Stat. 96
+
+Aug. 29, 1957
+
+Pub. L. 85–217, § 1(a)
+
+71 Stat. 491
+
+Aug. 14, 1964
+
+Pub. L. 88–428, § 1(1)
+
+78 Stat. 437
+
+(5)
+
+Mar. 7, 1942, ch. 166, § 2(a)
+
+July 1, 1944, ch. 371, § 2
+
+58 Stat. 679
+
+Apr. 4, 1953, ch. 17, § 1(a)
+
+67 Stat. 21
+
+Aug. 29, 1957
+
+Pub. L. 85–217, § 1(b)
+
+71 Stat. 491
+
+Aug. 14, 1964
+
+Pub. L. 88–428, § 1(3)(A)
+
+78 Stat. 437
+
+(5)
+
+Mar. 7, 1942, ch. 166, § 14
+
+56 Stat. 147
+
+Apr. 4, 1953, ch. 17, § 1(e)
+
+67 Stat. 21
+
+(6)
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 489](https://www.govinfo.gov/link/statute/80/489); [Pub. L. 105–85, div. A, title VI, § 603(d)(3)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1783](https://www.govinfo.gov/link/statute/111/1783).)*

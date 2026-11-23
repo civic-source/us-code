@@ -3,9 +3,10 @@ title: "Section 9512 - Functions"
 usc_title: 20
 usc_section: "9512"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 9512"
-generated_at: "2026-03-30T02:54:48.226Z"
+generated_at: "2026-11-23T20:26:14.986Z"
+status: "active"
 ---
 
 # § 9512. Functions
@@ -18,3 +19,7 @@ From funds appropriated under section 9584 of this title , the Institute, direct
   - **(4)** strengthen the national capacity to conduct, develop, and widely disseminate scientifically valid research in education;
   - **(5)** promote the coordination, development, and dissemination of scientifically valid research in education within the Department and the Federal Government; and
   - **(6)** promote the use and application of research and development to improve practice in the classroom.
+
+## Source Credit
+
+*([Pub. L. 107–279, title I, § 112](https://www.govinfo.gov/link/plaw/107/public/279), Nov. 5, 2002, [116 Stat. 1945](https://www.govinfo.gov/link/statute/116/1945).)*

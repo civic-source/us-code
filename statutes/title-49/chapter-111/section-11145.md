@@ -3,9 +3,10 @@ title: "Section 11145 - Reports by rail carriers, lessors, and associations"
 usc_title: 49
 usc_section: "11145"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 11145"
-generated_at: "2026-03-30T02:56:19.325Z"
+generated_at: "2026-11-23T20:27:34.724Z"
+status: "active"
 ---
 
 # § 11145. Reports by rail carriers, lessors, and associations
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:19.325Z"
 - **(b)**
   - **(1)** An annual report shall contain an account, in as much detail as the Board may require, of the affairs of the rail carrier, lessor, or association for the 12-month period ending on December 31 of each year.
   - **(2)** An annual report shall be filed with the Board by the end of the third month after the end of the year for which the report is made unless the Board extends the filing date or changes the period covered by the report. The annual report and, if the Board requires, any other report made under this section, shall be made under oath.
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 102(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 835](https://www.govinfo.gov/link/statute/109/835).)*

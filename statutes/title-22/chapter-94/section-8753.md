@@ -3,9 +3,10 @@ title: "Section 8753 - Expedited consideration of requests for authorization of 
 usc_title: 22
 usc_section: "8753"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8753"
-generated_at: "2026-03-30T02:55:05.456Z"
+generated_at: "2026-11-23T20:26:32.734Z"
+status: "active"
 ---
 
 # § 8753. Expedited consideration of requests for authorization of certain human rights-, humanitarian-, and democracy-related activities with respect to Iran
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:05.456Z"
   - **(1)** Any requests involving the exportation or reexportation to Iran of goods, technology, or software listed on the Commerce Control List maintained pursuant to part 774 of title 15, Code of Federal Regulations, shall be processed in a manner consistent with the Iran-Iraq Arms Non-Proliferation Act of 1992 (title XVI of Public Law 102–484 ) and other applicable provisions of law.
   - **(2)** Any other requests presenting unusual or extraordinary circumstances.
 - **(e)** The Secretary of the Treasury may prescribe such regulations as are appropriate to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 112–158, title IV, § 413](https://www.govinfo.gov/link/plaw/112/public/158), Aug. 10, 2012, [126 Stat. 1256](https://www.govinfo.gov/link/statute/126/1256).)*

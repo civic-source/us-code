@@ -3,9 +3,10 @@ title: "Section 3213 - Annual report to Congress"
 usc_title: 42
 usc_section: "3213"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3213"
-generated_at: "2026-03-30T02:56:11.184Z"
+generated_at: "2026-11-23T20:27:22.271Z"
+status: "active"
 ---
 
 # § 3213. Annual report to Congress
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:11.184Z"
 - **(e)** To ensure that projects are meeting expected timelines, not later than 1 year after January 4, 2025 , the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that, at a minimum—
   - **(1)** includes an analysis of Economic Development Administration construction project timeline estimates and actual project durations; and
   - **(2)** describes the frequency with which project timelines are delayed and the sources of those delays, including cases in which a project scope or schedule requires an award amendment.
+
+## Source Credit
+
+*([Pub. L. 89–136, title VI, § 603](https://www.govinfo.gov/link/plaw/89/public/136), as added [Pub. L. 105–393, title I, § 102(a)](https://www.govinfo.gov/link/plaw/105/public/393), Nov. 13, 1998, [112 Stat. 3614](https://www.govinfo.gov/link/statute/112/3614); amended [Pub. L. 108–373, title VI, § 601](https://www.govinfo.gov/link/plaw/108/public/373), Oct. 27, 2004, [118 Stat. 1769](https://www.govinfo.gov/link/statute/118/1769); [Pub. L. 118–272, div. B, title II, § 2230](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3196](https://www.govinfo.gov/link/statute/138/3196).)*

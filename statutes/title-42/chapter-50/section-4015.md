@@ -3,9 +3,10 @@ title: "Section 4015 - Chargeable premium rates"
 usc_title: 42
 usc_section: "4015"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4015"
-generated_at: "2026-03-30T02:56:11.196Z"
+generated_at: "2026-11-23T20:27:22.337Z"
+status: "active"
 ---
 
 # § 4015. Chargeable premium rates
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:56:11.196Z"
     - **(C)** houses of worship; and
     - **(D)** residences with a value equal to or less than 25 percent of the median home value of properties in the State in which the property is located.
   - **(2)** If the Administrator determines that the rate increases or surcharges described in paragraph (1) are having a detrimental effect on affordability, including resulting in lapsed policies, late payments, or other criteria related to affordability as identified by the Administrator, for any of the properties identified in subparagraphs (A) through (D) of such paragraph, the Administrator shall, not later than 3 months after making such a determination, make such recommendations as the Administrator considers appropriate to improve affordability to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+
+## Source Credit
+
+*([Pub. L. 90–448, title XIII, § 1308](https://www.govinfo.gov/link/plaw/90/public/448), Aug. 1, 1968, [82 Stat. 576](https://www.govinfo.gov/link/statute/82/576); [Pub. L. 93–234, title I, § 103](https://www.govinfo.gov/link/plaw/93/public/234), Dec. 31, 1973, [87 Stat. 978](https://www.govinfo.gov/link/statute/87/978); [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title IV, § 451(d)(1)], Nov. 30, 1983, [97 Stat. 1229](https://www.govinfo.gov/link/statute/97/1229); [Pub. L. 101–508, title II, § 2302(e)(2)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–24](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–325, title V, § 572(a)](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2277](https://www.govinfo.gov/link/statute/108/2277); [Pub. L. 108–264, title I, § 106](https://www.govinfo.gov/link/plaw/108/public/264), title II, § 209, June 30, 2004, [118 Stat. 724](https://www.govinfo.gov/link/statute/118/724), 727; [Pub. L. 112–123, § 2(b)](https://www.govinfo.gov/link/plaw/112/public/123), May 31, 2012, [126 Stat. 365](https://www.govinfo.gov/link/statute/126/365); [Pub. L. 112–141, div. F, title II](https://www.govinfo.gov/link/plaw/112/public/141), §§ 100205(c), (d), 100207, 100211, 100238(b)(1), July 6, 2012, [126 Stat. 918](https://www.govinfo.gov/link/statute/126/918), 919, 921, 958; [Pub. L. 113–89](https://www.govinfo.gov/link/plaw/113/public/89), §§ 4(a), 5–7, 11(a), 26(b), 28, 29, Mar. 21, 2014, [128 Stat. 1022](https://www.govinfo.gov/link/statute/128/1022), 1023, 1025, 1033.)*

@@ -3,9 +3,10 @@ title: "Section 2538 - Inclusion and command review of information on covered mi
 usc_title: 14
 usc_section: "2538"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 2538"
-generated_at: "2026-03-30T02:53:51.501Z"
+generated_at: "2026-11-23T20:25:54.616Z"
+status: "active"
 ---
 
 # § 2538. Inclusion and command review of information on covered misconduct in personnel service records
@@ -21,3 +22,25 @@ generated_at: "2026-03-30T02:53:51.501Z"
   - **(1)** Under policy to be prescribed by the Secretary, the commanding officer of a unit or facility to which a covered member is assigned or transferred shall review the history of covered misconduct as documented in the personnel service record of a covered member in order to become familiar with such history of the covered member.
   - **(2)** In this subsection, the term “covered member” means a member of the Coast Guard who, at the time of assignment or transfer as described in paragraph (1), has a history of 1 or more covered misconduct offenses as documented in the personnel service record of such member or such other records or files as the Commandant shall specify in the policy prescribed under subparagraph (A). 1 1 So in original. Probably should be “paragraph (1).”.
 - **(c)** Under policy to be prescribed by the Secretary, the Commandant shall establish procedures that are consistent with the law, policies, and practices of the Department of Defense in effect on the date of enactment of the Coast Guard Authorization Act of 2025 to consider and review the personnel service record of a former member of the Armed Forces to determine the suitability of the individual for civilian employment in the Coast Guard.
+
+Information on Reports on Covered Misconduct.—
+
+In general
+
+Purpose
+
+Limitation on placement
+
+Construction
+
+Command Review of History of Covered Misconduct.—
+
+In general
+
+Covered member defined
+
+Review of Personnel Service Record to Determine Suitability for Civilian Employment
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. G, title LXXV, § 7511(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1806](https://www.govinfo.gov/link/statute/139/1806).)*

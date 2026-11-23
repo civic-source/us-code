@@ -3,9 +3,10 @@ title: "Section 2282 - Feasibility reports"
 usc_title: 33
 usc_section: "2282"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2282"
-generated_at: "2026-03-30T02:55:41.118Z"
+generated_at: "2026-11-23T20:26:54.153Z"
+status: "active"
 ---
 
 # § 2282. Feasibility reports
@@ -62,3 +63,37 @@ generated_at: "2026-03-30T02:55:41.118Z"
       - **(i)** why the District Engineer failed to meet the deadline; and
       - **(ii)** a revised project schedule reflecting amended deadlines for the feasibility study; and
     - **(B)** not later than 30 days after each missed deadline, make publicly available, including on the Internet, a copy of the amended project schedule described in subparagraph (A)(ii).
+
+“The Secretary [of the Army] shall—
+
+Definitions
+
+Academy
+
+Method
+
+Feasibility report
+
+Water resources project
+
+Independent Peer Review of Projects.—
+
+In general
+
+Study elements
+
+Academy report
+
+Authorization of appropriations
+
+Independent Peer Review of Methods for Project Analysis.—
+
+In general
+
+Academy report
+
+Authorization of appropriations
+
+## Source Credit
+
+*([Pub. L. 99–662, title IX, § 905](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4185](https://www.govinfo.gov/link/statute/100/4185); [Pub. L. 106–541, title II, § 222(a)](https://www.govinfo.gov/link/plaw/106/public/541), Dec. 11, 2000, [114 Stat. 2597](https://www.govinfo.gov/link/statute/114/2597); [Pub. L. 110–114, title II, § 2043(b)](https://www.govinfo.gov/link/plaw/110/public/114), Nov. 8, 2007, [121 Stat. 1101](https://www.govinfo.gov/link/statute/121/1101); [Pub. L. 113–121, title I, § 1002(a)](https://www.govinfo.gov/link/plaw/113/public/121) –(c), June 10, 2014, [128 Stat. 1198](https://www.govinfo.gov/link/statute/128/1198); [Pub. L. 116–260, div. AA, title I, § 117](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2628](https://www.govinfo.gov/link/statute/134/2628); [Pub. L. 117–263, div. H, title LXXXI, § 8156](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3738](https://www.govinfo.gov/link/statute/136/3738); [Pub. L. 118–272, div. A, title I, § 1142](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3033](https://www.govinfo.gov/link/statute/138/3033).)*

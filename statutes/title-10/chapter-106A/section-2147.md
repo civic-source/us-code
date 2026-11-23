@@ -3,9 +3,10 @@ title: "Section 2147 - Right of member after reenlisting to transfer entitlement
 usc_title: 10
 usc_section: "2147"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2147"
-generated_at: "2026-03-30T02:53:38.143Z"
+generated_at: "2026-11-23T20:25:51.460Z"
+status: "active"
 ---
 
 # § 2147. Right of member after reenlisting to transfer entitlement to spouse or dependent children
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:38.143Z"
 - **(d)** In this section:
   - **(1)** The term “dependent child” has the meaning given the term “dependent” in section 1072(2)(D) of this title .
   - **(2)** The term “surviving spouse” means a widow or widower who is not remarried.
+
+## Source Credit
+
+*(Added [Pub. L. 96–342, title IX, § 901(a)](https://www.govinfo.gov/link/plaw/96/public/342), Sept. 8, 1980, [94 Stat. 1113](https://www.govinfo.gov/link/statute/94/1113); amended [Pub. L. 97–22, § 10(b)(3)](https://www.govinfo.gov/link/plaw/97/public/22), July 10, 1981, [95 Stat. 137](https://www.govinfo.gov/link/statute/95/137); [Pub. L. 99–145, title VI, § 673](https://www.govinfo.gov/link/plaw/99/public/145), Nov. 8, 1985, [99 Stat. 664](https://www.govinfo.gov/link/statute/99/664); [Pub. L. 100–180, div. A, title XII, § 1231(17)](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1161](https://www.govinfo.gov/link/statute/101/1161).)*

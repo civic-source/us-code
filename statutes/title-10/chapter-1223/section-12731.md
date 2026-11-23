@@ -3,9 +3,10 @@ title: "Section 12731 - Age and service requirements"
 usc_title: 10
 usc_section: "12731"
 chapter: 1223
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 12731"
-generated_at: "2026-03-30T02:53:38.271Z"
+generated_at: "2026-11-23T20:25:52.452Z"
+status: "active"
 ---
 
 # § 12731. Age and service requirements
@@ -39,3 +40,36 @@ generated_at: "2026-03-30T02:53:38.271Z"
       - **(iv)** Service on active duty described in this subparagraph is also service on active duty pursuant to a call or order to active duty authorized by the Secretary of Homeland Security under section 712 1 1 See References in Text note below. of title 14 for purposes of emergency augmentation of the Regular Coast Guard forces.
     - **(C)** The eligibility age for purposes of subsection (a)(1) may not be reduced below 50 years of age for any person under subparagraph (A).
   - **(3)** The Secretary concerned shall periodically notify each member of the Ready Reserve described by paragraph (2) of the current eligibility age for retired pay of such member under this section, including any reduced eligibility age by reason of the operation of that paragraph. Notice shall be provided by such means as the Secretary considers appropriate taking into account the cost of provision of notice and the convenience of members.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1331(a) | 10:1036a(a) (less last proviso). 10:1036d (1st sentence). 34:440i(a) (less last proviso). 34:440 l (1st sentence). | June 29, 1948, ch. 708 , §§ 302(a), (d), 305 (1st sentence), 62 Stat. 1087–1089 ; July 12, 1952, ch. 698 , 66 Stat. 590 . |
+| 1331(b) | 10:1036a(d). |  |
+|  | 34:440i(d). |  |
+| 1331(c) | 10:1036a(a) (last proviso). |  |
+|  | 34:440i(a) (last proviso). |  |
+
+
+Historical and Revision Notes
+
+Act
+
+1331(a)
+
+June 29, 1948, ch. 708
+
+62 Stat. 1087–1089
+
+July 12, 1952, ch. 698
+
+66 Stat. 590
+
+1331(b)
+
+1331(c)
+
+Act
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 102, § 1331; [Pub. L. 85–704](https://www.govinfo.gov/link/plaw/85/public/704), Aug. 21, 1958, [72 Stat. 702](https://www.govinfo.gov/link/statute/72/702); [Pub. L. 85–861, § 33(a)(8)](https://www.govinfo.gov/link/plaw/85/public/861), Sept. 2, 1958, [72 Stat. 1564](https://www.govinfo.gov/link/statute/72/1564); [Pub. L. 89–652, § 1](https://www.govinfo.gov/link/plaw/89/public/652), Oct. 14, 1966, [80 Stat. 902](https://www.govinfo.gov/link/statute/80/902); [Pub. L. 90–485, § 2](https://www.govinfo.gov/link/plaw/90/public/485), Aug. 13, 1968, [82 Stat. 754](https://www.govinfo.gov/link/statute/82/754); [Pub. L. 95–397, title II, § 206](https://www.govinfo.gov/link/plaw/95/public/397), Sept. 30, 1978, [92 Stat. 847](https://www.govinfo.gov/link/statute/92/847); [Pub. L. 96–513, title V, § 511(47)](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2924](https://www.govinfo.gov/link/statute/94/2924); [Pub. L. 98–94, title IX, § 924(a)](https://www.govinfo.gov/link/plaw/98/public/94), Sept. 24, 1983, [97 Stat. 644](https://www.govinfo.gov/link/statute/97/644); [Pub. L. 101–189, div. A, title XIV, § 1404(b)(1)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1586](https://www.govinfo.gov/link/statute/103/1586); renumbered § 12731 and amended [Pub. L. 103–337, div. A, title VI, § 636](https://www.govinfo.gov/link/plaw/103/public/337), title XVI, § 1662(j)(1), Oct. 5, 1994, [108 Stat. 2790](https://www.govinfo.gov/link/statute/108/2790), 2999; [Pub. L. 104–106, div. A, title XV, § 1501(b)(20)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 497](https://www.govinfo.gov/link/statute/110/497); [Pub. L. 105–261, div. A, title V, § 561(n)(1)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2026](https://www.govinfo.gov/link/statute/112/2026); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title V, § 571(n)(1)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–135; [Pub. L. 107–296, title XVII, § 1704(b)(1)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314); [Pub. L. 107–314, div. A, title VI, § 631(a)](https://www.govinfo.gov/link/plaw/107/public/314), (b), Dec. 2, 2002, [116 Stat. 2571](https://www.govinfo.gov/link/statute/116/2571), 2572; [Pub. L. 108–375, div. A, title V, § 501(f)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1874](https://www.govinfo.gov/link/statute/118/1874); [Pub. L. 109–364, div. A, title X, § 1071(a)(40)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2400](https://www.govinfo.gov/link/statute/120/2400); [Pub. L. 110–181, div. A, title VI, § 647(a)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 160](https://www.govinfo.gov/link/statute/122/160); [Pub. L. 111–84, div. A, title X, § 1073(a)(35)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2474](https://www.govinfo.gov/link/statute/123/2474); [Pub. L. 111–383, div. A, title VI, § 633](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4240](https://www.govinfo.gov/link/statute/124/4240); [Pub. L. 112–239, div. A, title VI, § 681(b)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1795](https://www.govinfo.gov/link/statute/126/1795); [Pub. L. 113–66, div. A, title VI, § 632](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 785](https://www.govinfo.gov/link/statute/127/785); [Pub. L. 113–291, div. A, title VI, § 625](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3405](https://www.govinfo.gov/link/statute/128/3405); [Pub. L. 116–92, div. A, title VI, § 604](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1424](https://www.govinfo.gov/link/statute/133/1424).)*

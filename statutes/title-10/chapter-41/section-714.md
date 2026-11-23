@@ -3,9 +3,10 @@ title: "Section 714 - Senior leaders of the Department of Defense and other spec
 usc_title: 10
 usc_section: "714"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 714"
-generated_at: "2026-03-30T02:53:38.075Z"
+generated_at: "2026-11-23T20:25:51.049Z"
+status: "active"
 ---
 
 # § 714. Senior leaders of the Department of Defense and other specified persons: authority to provide protection
@@ -69,3 +70,55 @@ generated_at: "2026-03-30T02:53:38.075Z"
   - **(2)** Nothing in this section shall be construed to abridge section 1385 of title 18 .
   - **(3)** Nothing in this section may be construed to preclude or limit, in any way, the express or implied powers of the Secretary of Defense or other Department of Defense officials, or the duties and authorities of the Secretary of State, the Director of the United States Secret Service, the Director of the United States Marshals Service, or any other Federal law enforcement agency.
 - **(j)** The Secretary of Defense may reimburse a former or retired official who faces serious and credible threats arising from duties performed while employed by the Department for security services and equipment procured at the personal expense of the official, not to exceed an aggregate of $15,000,000 in any fiscal year for all former and retired officials authorized by the Secretary of Defense for such reimbursement.
+
+Protection for Department Leadership
+
+Protection for Former or Retired Department Leadership
+
+Protection for Additional Personnel.—
+
+Authority to provide
+
+Personnel
+
+Limitation on delegation
+
+Temporary protection
+
+Requirement for Written Determination
+
+Duration of Protection
+
+Submissions to Congress.—
+
+In general
+
+Form of report
+
+Regulations and guidelines
+
+Exceptions
+
+Notification to Certain Protected Personnel
+
+Definitions
+
+Construction.—
+
+No additional law enforcement or arrest authority
+
+Posse comitatus
+
+Authorities of other departments
+
+Reimbursement
+
+within the united states
+
+Congressional defense committees
+
+Qualified members of the armed forces and qualified civilian employees of the department of defense
+
+## Source Credit
+
+*(Added and amended [Pub. L. 114–328, div. A, title IX, § 952(c)(1)](https://www.govinfo.gov/link/plaw/114/public/328), (4)–(6), Dec. 23, 2016, [130 Stat. 2375](https://www.govinfo.gov/link/statute/130/2375), 2376; [Pub. L. 118–31, div. A, title V, § 529A](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 256](https://www.govinfo.gov/link/statute/137/256); [Pub. L. 118–159, div. A, title V, § 522](https://www.govinfo.gov/link/plaw/118/public/159), title XVII, § 1701(a)(16), Dec. 23, 2024, [138 Stat. 1883](https://www.govinfo.gov/link/statute/138/1883), 2204; [Pub. L. 119–60, div. A, title X, § 1042](https://www.govinfo.gov/link/plaw/119/public/60), title XVII, § 1701(a)(12), Dec. 18, 2025, [139 Stat. 1035](https://www.govinfo.gov/link/statute/139/1035), 1208.)*

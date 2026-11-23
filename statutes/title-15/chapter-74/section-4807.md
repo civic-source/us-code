@@ -3,9 +3,10 @@ title: "Section 4807 - Annual report"
 usc_title: 15
 usc_section: "4807"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 4807"
-generated_at: "2026-03-30T02:54:08.204Z"
+generated_at: "2026-11-23T20:26:04.360Z"
+status: "active"
 ---
 
 # § 4807. Annual report
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:08.204Z"
   - **(2)** specify the industry sectors affected by the developments described in the report under paragraph (1); and
   - **(3)** contain a statement of the findings and recommendations of the Council during the previous fiscal year, including any recommendations of the Council for (a) such legislative or administrative actions as the Council considers appropriate, and (b) including the elimination, consolidation, reorganization of government agencies especially such agencies that specifically deal with research, science, technology, and international trade.
 - **(c)** The Council shall consult with each committee to which a report is submitted under this section and after such consultation, each such committee shall submit to its respective House a report setting forth the views and recommendations of such committee with respect to the report of the Council.
+
+## Source Credit
+
+*([Pub. L. 100–418, title V, § 5208](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1461](https://www.govinfo.gov/link/statute/102/1461); [Pub. L. 101–382, title I, § 133(d)](https://www.govinfo.gov/link/plaw/101/public/382), Aug. 20, 1990, [104 Stat. 649](https://www.govinfo.gov/link/statute/104/649).)*

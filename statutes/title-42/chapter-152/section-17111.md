@@ -3,9 +3,10 @@ title: "Section 17111 - Future of industry program"
 usc_title: 42
 usc_section: "17111"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17111"
-generated_at: "2026-03-30T02:56:11.496Z"
+generated_at: "2026-11-23T20:27:23.725Z"
+status: "active"
 ---
 
 # § 17111. Future of industry program
@@ -70,3 +71,7 @@ generated_at: "2026-03-30T02:56:11.496Z"
     - **(F)** such sums as are necessary for fiscal year 2013 and each fiscal year thereafter.
   - **(2)** Of the amounts made available under paragraph (1), not less than 50 percent shall be used to pay the Federal share of partnership activities under subsection (c).
   - **(3)** The Secretary shall coordinate efforts under this section with other programs of the Department and other Federal agencies to avoid duplication of effort.
+
+## Source Credit
+
+*([Pub. L. 110–140, title IV, § 452](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1634](https://www.govinfo.gov/link/statute/121/1634); [Pub. L. 117–58, div. D, title V, § 40521(a)(1)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1062](https://www.govinfo.gov/link/statute/135/1062).)*

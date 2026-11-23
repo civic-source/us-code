@@ -3,9 +3,10 @@ title: "Section 2446 - Treatment of contractors who engage in improper program m
 usc_title: 50
 usc_section: "2446"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 2446"
-generated_at: "2026-03-30T02:56:26.225Z"
+generated_at: "2026-11-23T20:27:30.851Z"
+status: "active"
 ---
 
 # § 2446. Treatment of contractors who engage in improper program management
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:26.225Z"
   - **(2)** The term “covered contractor” means—
     - **(A)** a contractor of the Administration; or
     - **(B)** a contractor of an element of the Department of Energy (other than the Administration) involved in nuclear security.
+
+## Source Credit
+
+*([Pub. L. 106–65, div. C, title XXXII, § 3247](https://www.govinfo.gov/link/plaw/106/public/65), as added [Pub. L. 114–92, div. C, title XXXI, § 3111(c)(1)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 1188](https://www.govinfo.gov/link/statute/129/1188).)*

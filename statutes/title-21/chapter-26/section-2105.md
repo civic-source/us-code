@@ -3,9 +3,10 @@ title: "Section 2105 - Enhanced aquaculture and seafood inspection"
 usc_title: 21
 usc_section: "2105"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 2105"
-generated_at: "2026-03-30T02:54:54.308Z"
+generated_at: "2026-11-23T20:26:27.902Z"
+status: "active"
 ---
 
 # § 2105. Enhanced aquaculture and seafood inspection
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:54.308Z"
   - **(2)** describes the feasibility of developing a traceability system for all catfish and seafood products, both domestic and imported, for the purpose of identifying the processing plant of origin of such products; and
   - **(3)** provides for an assessment of the risks associated with particular contaminants and banned substances.
 - **(d)** Upon the request by any State, the Secretary may enter into partnership agreements, as soon as practicable after the request is made, to implement inspection programs to Federal standards regarding the importation of aquaculture and seafood.
+
+## Source Credit
+
+*([Pub. L. 110–85, title X, § 1006](https://www.govinfo.gov/link/plaw/110/public/85), Sept. 27, 2007, [121 Stat. 969](https://www.govinfo.gov/link/statute/121/969).)*

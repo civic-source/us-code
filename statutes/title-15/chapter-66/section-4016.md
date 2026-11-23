@@ -3,9 +3,10 @@ title: "Section 4016 - Protection conferred by certificate of review"
 usc_title: 15
 usc_section: "4016"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 4016"
-generated_at: "2026-03-30T02:54:08.197Z"
+generated_at: "2026-11-23T20:26:04.323Z"
+status: "active"
 ---
 
 # § 4016. Protection conferred by certificate of review
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.197Z"
   - **(3)** In any action brought under paragraph (1), there shall be a presumption that conduct which is specified in and complies with a certificate of review does comply with the standards of section 4013(a) of this title .
   - **(4)** In any action brought under paragraph (1), if the court finds that the conduct does comply with the standards of section 4013(a) of this title , the court shall award to the person against whom the claim is brought the cost of suit attributable to defending against the claim (including a reasonable attorney’s fee).
   - **(5)** The Attorney General may file suit pursuant to section 25 of this title to enjoin conduct threatening clear and irreparable harm to the national interest.
+
+## Source Credit
+
+*([Pub. L. 97–290, title III, § 306](https://www.govinfo.gov/link/plaw/97/public/290), Oct. 8, 1982, [96 Stat. 1243](https://www.govinfo.gov/link/statute/96/1243).)*

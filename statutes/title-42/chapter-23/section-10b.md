@@ -3,9 +3,10 @@ title: "Section 10b - Secretarial determinations; congressional notification"
 usc_title: 42
 usc_section: "10b"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10b"
-generated_at: "2026-03-30T02:56:11.163Z"
+generated_at: "2026-11-23T20:27:22.141Z"
+status: "active"
 ---
 
 # § 2297h–10b. Secretarial determinations; congressional notification
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.163Z"
   - **(5)** the recipient of the uranium;
   - **(6)** the value the Secretary of Energy expects to receive in exchange for the uranium, including any adjustments to the gross fair market value of the uranium; and
   - **(7)** whether the uranium to be provided is encumbered by any restriction on use under an international agreement or otherwise.
+
+## Source Credit
+
+*([Pub. L. 113–235, div. D, title III, § 306](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2324](https://www.govinfo.gov/link/statute/128/2324).)*

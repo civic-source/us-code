@@ -3,9 +3,10 @@ title: "Section 4505 - Voluntary separation incentive payments"
 usc_title: 2
 usc_section: "4505"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 4505"
-generated_at: "2026-03-30T02:53:04.831Z"
+generated_at: "2026-11-23T20:25:29.032Z"
+status: "active"
 ---
 
 # § 4505. Voluntary separation incentive payments
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:53:04.831Z"
     - **(C)** If the employment is with the judicial branch, the Director of the Administrative Office of the United States Courts may waive the repayment required under this subsection if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
   - **(3)** For purposes of paragraph (1) (but not paragraph (2)), the term “employment” includes employment under a personal services contract with the United States.
 - **(g)** This section shall take effect on December 8, 2004 , and shall apply with respect to the portion of fiscal year 2005 occurring on and after December 8, 2004 , and to each succeeding fiscal year.
+
+## Source Credit
+
+*([Pub. L. 108–447, div. G, title II, § 210](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3194](https://www.govinfo.gov/link/statute/118/3194); [Pub. L. 112–74, div. G, title I, § 1401(a)](https://www.govinfo.gov/link/plaw/112/public/74), Dec. 23, 2011, [125 Stat. 1134](https://www.govinfo.gov/link/statute/125/1134).)*

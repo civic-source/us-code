@@ -3,9 +3,10 @@ title: "Section 1831j - Depository institution employee protection remedy"
 usc_title: 12
 usc_section: "1831j"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1831j"
-generated_at: "2026-03-30T02:53:53.458Z"
+generated_at: "2026-11-23T20:25:59.166Z"
+status: "active"
 ---
 
 # § 1831j. Depository institution employee protection remedy
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:53.458Z"
   - **(2)** knowingly or recklessly provides substantially false information to such an agency or the Attorney General.
 - **(e)** For purposes of subsections (a) and (c), the term “Federal banking agency” means the Corporation, the Board of Governors of the Federal Reserve System, the Federal Housing Finance Agency and the Comptroller of the Currency.
 - **(f)** The legal burdens of proof that prevail under subchapter III of chapter 12 of title 5 shall govern adjudication of protected activities under this section.
+
+## Source Credit
+
+*(Sept. 21, 1950, ch. 967, § 2 [33], as added [Pub. L. 101–73, title IX, § 932(a)](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 494](https://www.govinfo.gov/link/statute/103/494); amended [Pub. L. 102–242, title II, § 251(a)(1)](https://www.govinfo.gov/link/plaw/102/public/242) –(3), Dec. 19, 1991, [105 Stat. 2331](https://www.govinfo.gov/link/statute/105/2331), 2332; [Pub. L. 103–204, § 21(a)](https://www.govinfo.gov/link/plaw/103/public/204), Dec. 17, 1993, [107 Stat. 2406](https://www.govinfo.gov/link/statute/107/2406); [Pub. L. 103–325, title VI, § 602(a)(61)](https://www.govinfo.gov/link/plaw/103/public/325), (c), Sept. 23, 1994, [108 Stat. 2291](https://www.govinfo.gov/link/statute/108/2291); [Pub. L. 111–203, title III, § 363(10)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1555](https://www.govinfo.gov/link/statute/124/1555).)*

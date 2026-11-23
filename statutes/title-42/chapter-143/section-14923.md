@@ -3,9 +3,10 @@ title: "Section 14923 - Standards and procedures for providing accreditation or 
 usc_title: 42
 usc_section: "14923"
 chapter: 143
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 14923"
-generated_at: "2026-03-30T02:56:11.453Z"
+generated_at: "2026-11-23T20:27:23.538Z"
+status: "active"
 ---
 
 # § 14923. Standards and procedures for providing accreditation or approval
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:56:11.453Z"
     - **(C)** The agency has demonstrated that it will be able to provide the United States Government with all information related to the elements described in section 14914(b) of this title and provides such information.
     - **(D)** The agency has initiated the process of becoming accredited under the provisions of this chapter and is actively taking steps to become an accredited agency.
     - **(E)** The agency has not been found to be involved in any improper conduct relating to intercountry adoptions.
+
+## Source Credit
+
+*([Pub. L. 106–279, title II, § 203](https://www.govinfo.gov/link/plaw/106/public/279), Oct. 6, 2000, [114 Stat. 832](https://www.govinfo.gov/link/statute/114/832).)*

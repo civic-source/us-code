@@ -3,9 +3,10 @@ title: "Section 338 - Certain stock purchases treated as asset acquisitions"
 usc_title: 26
 usc_section: "338"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 338"
-generated_at: "2026-03-30T02:55:27.666Z"
+generated_at: "2026-11-23T20:26:45.575Z"
+status: "active"
 ---
 
 # § 338. Certain stock purchases treated as asset acquisitions
@@ -100,3 +101,35 @@ generated_at: "2026-03-30T02:55:27.666Z"
 - **(i)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including—
   - **(1)** regulations to ensure that the purpose of this section to require consistency of treatment of stock and asset sales and purchases may not be circumvented through the use of any provision of law or regulations (including the consolidated return regulations) and
   - **(2)** regulations providing for the coordination of the provisions of this section with the provision of this title relating to foreign corporations and their shareholders.
+
+Additional percentage must be attributable to purchase, etc
+
+In general
+
+Binding contract exception
+
+In general
+
+Extension of time for making election
+
+In general
+
+Certain acquisitions before september 1, 1982
+
+Certain acquisitions of financial institutions
+
+Extension of time for making elections; revocation of elections.—
+
+Extension
+
+Revocation
+
+Rules for acquisitions described in paragraph (2).—
+
+In general
+
+Selection of acquisition date by purchasing corporation
+
+## Source Credit
+
+*(Added [Pub. L. 97–248, title II, § 224(a)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 485](https://www.govinfo.gov/link/statute/96/485); amended [Pub. L. 97–448, title III, § 306(a)(8)(A)(i)](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2402](https://www.govinfo.gov/link/statute/96/2402); [Pub. L. 98–369, div. A, title VII, § 712(k)(1)](https://www.govinfo.gov/link/plaw/98/public/369) –(5)(D), (6), (7), July 18, 1984, [98 Stat. 948–952](https://www.govinfo.gov/link/statute/98/948); [Pub. L. 99–514, title VI, § 631(b)](https://www.govinfo.gov/link/plaw/99/public/514), (e)(5), title XII, § 1275(c)(6), title XVIII, §§ 1804(e)(8)(A), 1899A(7), Oct. 22, 1986, [100 Stat. 2272](https://www.govinfo.gov/link/statute/100/2272), 2273, 2599, 2804, 2958; [Pub. L. 100–647, title I](https://www.govinfo.gov/link/plaw/100/public/647), §§ 1006(e)(20), 1012(bb)(5)(A), 1018(d)(9), Nov. 10, 1988, [102 Stat. 3403](https://www.govinfo.gov/link/statute/102/3403), 3535, 3581; [Pub. L. 101–508, title XI, § 11323(c)(1)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–465](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 108–27, title III, § 302(e)(4)(B)(i)](https://www.govinfo.gov/link/plaw/108/public/27), May 28, 2003, [117 Stat. 763](https://www.govinfo.gov/link/statute/117/763); [Pub. L. 108–357, title VIII, § 839(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1597](https://www.govinfo.gov/link/statute/118/1597); [Pub. L. 115–141, div. U, title IV, § 401(a)(64)](https://www.govinfo.gov/link/plaw/115/public/141), (d)(1)(D)(vii), Mar. 23, 2018, [132 Stat. 1187](https://www.govinfo.gov/link/statute/132/1187), 1207.)*

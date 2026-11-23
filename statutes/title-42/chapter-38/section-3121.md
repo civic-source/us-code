@@ -3,9 +3,10 @@ title: "Section 3121 - Findings and declarations"
 usc_title: 42
 usc_section: "3121"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3121"
-generated_at: "2026-03-30T02:56:11.181Z"
+generated_at: "2026-11-23T20:27:22.254Z"
+status: "active"
 ---
 
 # § 3121. Findings and declarations
@@ -25,3 +26,271 @@ generated_at: "2026-03-30T02:56:11.181Z"
   - **(2)** local communities should work in partnership with neighboring communities, the States, Indian tribes, and the Federal Government to increase the capacity of the local communities to develop and implement comprehensive economic development strategies to alleviate economic distress and enhance competitiveness in the global economy;
   - **(3)** whether suffering from long-term distress or a sudden dislocation, distressed communities should be encouraged to support entrepreneurship to take advantage of the development opportunities afforded by technological innovation and expanding newly opened global markets; and
   - **(4)** assistance under this chapter should be made available to promote the productive reuse of abandoned industrial facilities and the redevelopment of brownfields.
+
+Definitions
+
+Eligible entity
+
+Federal cochair
+
+Fund
+
+Low-income
+
+Moderate-income
+
+Secretary
+
+Denali Housing Fund.—
+
+Establishment
+
+Source and use of amounts in fund.—
+
+In general
+
+Uses
+
+Investment
+
+General expenses
+
+Authorization of appropriations
+
+Purposes
+
+Loans and Grants.—
+
+In general
+
+Purpose
+
+Providing Amounts to States for Grants and Loans
+
+Loans.—
+
+Limitation on available amounts
+
+Interest
+
+Payment.—
+
+In general
+
+Cancellation
+
+Grants.—
+
+In general
+
+Site development costs and offsite improvements.—
+
+In general
+
+Maximum amounts
+
+Information, Advice, and Technical Assistance
+
+Existing Rights, Duties, and Obligations
+
+Continuation of Suits
+
+Liquidating Account
+
+Administration
+
+Establishment
+
+Membership.—
+
+Composition
+
+Federal cochairperson.—
+
+In general
+
+Appointment
+
+Federal cochairperson vote
+
+Date
+
+Period of Appointment; Vacancies.—
+
+Term of federal cochairperson
+
+Interim federal cochairperson
+
+Term of all other members
+
+Vacancies
+
+Meetings.—
+
+In general
+
+Notification
+
+Quorum
+
+No Federal Employee Status
+
+Conflicts of Interest.—
+
+In general
+
+Disclosure
+
+Annual disclosures
+
+Training
+
+Clarification
+
+Violation
+
+Work Plan.—
+
+In general
+
+Work plan
+
+Report
+
+Review by Federal Cochairperson.—
+
+In general
+
+Criteria for review
+
+Approval
+
+Review of disapproval or partial approval
+
+Information From Federal Agencies
+
+Postal Services
+
+Gifts.—
+
+In general
+
+Conditional
+
+Use of Funds Toward Non-Federal Share of Certain Projects
+
+Compensation of Members
+
+Travel Expenses
+
+Staff.—
+
+In general
+
+Compensation
+
+Detail of Government Employees
+
+Procurement of Temporary and Intermittent Services
+
+Offices
+
+Administrative Expenses and Records
+
+Inspector General
+
+Bulk Fuels
+
+Demonstration Health Projects
+
+Solid Waste
+
+Docks, Waterfront Transportation Development, and Related Infrastructure Projects
+
+Establishment of the Denali Access System Program
+
+Denali Access System Program Advisory Committee.—
+
+Establishment
+
+Membership
+
+Terms.—
+
+In general
+
+Initial members
+
+Responsibilities
+
+Chapter
+
+of title
+
+, united states code, exemption
+
+Allocation of Funds.—
+
+In general
+
+Distribution of funding
+
+Preference to Alaska Materials and Products
+
+Design Standards
+
+Maintenance
+
+Lead Agency Designation
+
+Non-Federal Share
+
+Surface Transportation Program Transferability.—
+
+Transferability
+
+No effect on set-aside
+
+Authorization of Appropriations.—
+
+In general
+
+Applicability of title 23
+
+In General
+
+Transfers
+
+Treatment
+
+In General
+
+Availability
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+J.R. Biden, Jr.
+
+## Source Credit
+
+*([Pub. L. 89–136, § 2](https://www.govinfo.gov/link/plaw/89/public/136), as added [Pub. L. 105–393, title I, § 102(a)](https://www.govinfo.gov/link/plaw/105/public/393), Nov. 13, 1998, [112 Stat. 3598](https://www.govinfo.gov/link/statute/112/3598); amended [Pub. L. 108–373, title I, § 101](https://www.govinfo.gov/link/plaw/108/public/373), Oct. 27, 2004, [118 Stat. 1757](https://www.govinfo.gov/link/statute/118/1757).)*

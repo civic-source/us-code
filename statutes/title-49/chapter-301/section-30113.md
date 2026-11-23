@@ -3,9 +3,10 @@ title: "Section 30113 - General exemptions"
 usc_title: 49
 usc_section: "30113"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 30113"
-generated_at: "2026-03-30T02:56:19.350Z"
+generated_at: "2026-11-23T20:27:34.892Z"
+status: "active"
 ---
 
 # § 30113. General exemptions
@@ -31,3 +32,71 @@ generated_at: "2026-03-30T02:56:19.350Z"
 - **(f)** The Secretary may make public, by the 10th day after an application is filed, information contained in the application or relevant to the application unless the information concerns or is related to a trade secret or other confidential information not relevant to the application.
 - **(g)** The Secretary shall publish in the Federal Register a notice of each decision granting an exemption under this section and the reasons for granting it.
 - **(h)** The Secretary shall require a permanent label to be fixed to a motor vehicle granted an exemption under this section. The label shall either name or describe each motor vehicle safety standard prescribed under this chapter or bumper standard prescribed under chapter 325 of this title from which the vehicle is exempt. The Secretary may require that written notice of an exemption be delivered by appropriate means to the dealer and the first purchaser of the vehicle other than for resale.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30113(a) | 15:1410(g). | Sept. 9, 1966 , Pub. L. 89–563 , 80 Stat. 718 , § 123; added Apr. 10, 1968 , Pub. L. 90–283 , 82 Stat. 72 ; restated Oct. 25, 1972 , Pub. L. 92–548, § 3 , 86 Stat. 1159 . |
+| 30113(b) | 15:1410(a) (1st sentence), (c)(1) (23d–last words), (2) (23d–last words). |  |
+| 30113(c) | 15:1410(e). |  |
+| 30113(d) | 15:1410(d). |  |
+| 30113(e) | 15:1410(c)(1) (1st–22d words), (2) (1st–22d words). |  |
+| 30113(f) | 15:1410(f). |  |
+| 30113(g) | 15:1410(a) (last sentence). |  |
+| 30113(h) | 15:1410(b). |  |
+
+
+Definition
+
+Authority To Exempt and Procedures
+
+Contents of Applications
+
+Eligibility
+
+Maximum Period
+
+Disclosure
+
+Notice of Decision
+
+Permanent Label Requirement
+
+Historical and Revision Notes
+
+30113(a)
+
+Sept. 9, 1966
+
+Pub. L. 89–563
+
+80 Stat. 718
+
+Apr. 10, 1968
+
+Pub. L. 90–283
+
+82 Stat. 72
+
+Oct. 25, 1972
+
+Pub. L. 92–548, § 3
+
+86 Stat. 1159
+
+30113(b)
+
+30113(c)
+
+30113(d)
+
+30113(e)
+
+30113(f)
+
+30113(g)
+
+30113(h)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 945](https://www.govinfo.gov/link/statute/108/945); [Pub. L. 105–277, div. A, § 101(g) [title III, § 351(a)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–439](https://www.govinfo.gov/link/statute/112/2681), 2681–475.)*

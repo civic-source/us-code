@@ -3,9 +3,10 @@ title: "Section 200503 - Rehabilitation grants and innovation grants"
 usc_title: 54
 usc_section: "200503"
 chapter: 2005
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "54 U.S.C. § 200503"
-generated_at: "2026-03-30T02:56:28.422Z"
+generated_at: "2026-11-23T20:27:38.072Z"
+status: "active"
 ---
 
 # § 200503. Rehabilitation grants and innovation grants
@@ -15,3 +16,34 @@ generated_at: "2026-03-30T02:56:28.422Z"
 - **(c)** If consistent with an approved application, a grant recipient may transfer a rehabilitation grant or innovation grant in whole or in part to an independent special purpose local government, private nonprofit agency, or county or regional park authority if the assisted recreation area or facility owned or managed by the transferree 1 1 So in original. Probably should be “transferee”. offers recreation opportunities to the general population within the jurisdictional boundaries of the grant recipient.
 - **(d)** Payments may be made only for a rehabilitation project or innovation project that has been approved by the Secretary. Payments may be made from time to time in keeping with the rate of progress toward the satisfactory completion of the project, except that the Secretary, when appropriate, may make advance payments on an approved rehabilitation project or innovation project in an amount not to exceed 20 percent of the total project cost.
 - **(e)** The Secretary may authorize modification of an approved project only when a grant recipient adequately demonstrates that the modification is necessary because of circumstances not foreseeable at the time at which the project was proposed.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 200503 | 16 U.S.C. 2505 . | Pub. L. 95–625, title X, § 1006 , Nov. 10, 1978 , 92 Stat. 3541 . |
+
+
+Matching Grants
+
+Special Considerations
+
+Transfer
+
+Payments
+
+Modification of Project
+
+Historical and Revision Notes
+
+200503
+
+16 U.S.C. 2505
+
+Pub. L. 95–625, title X, § 1006
+
+Nov. 10, 1978
+
+92 Stat. 3541
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3183](https://www.govinfo.gov/link/statute/128/3183).)*

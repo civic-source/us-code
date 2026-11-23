@@ -3,9 +3,10 @@ title: "Section 6541 - Congressional findings and declaration of purpose"
 usc_title: 22
 usc_section: "6541"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6541"
-generated_at: "2026-03-30T02:55:05.430Z"
+generated_at: "2026-11-23T20:26:32.621Z"
+status: "active"
 ---
 
 # § 6541. Congressional findings and declaration of purpose
@@ -16,3 +17,7 @@ Congress finds that—
   - **(2)** open communication of information and ideas among the peoples of the world contributes to international peace and stability, and the promotion of such communication is in the interests of the United States;
   - **(3)** it is in the interest of the United States to support broadcasting to other nations consistent with the requirements of this part and the United States International Broadcasting Act of 1994 [ 22 U.S.C. 6201 et seq.]; and
   - **(4)** international broadcasting is, and should remain, an essential instrument of United States foreign policy.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XIII, § 1321, Oct. 21, 1998, [112 Stat. 2681–777](https://www.govinfo.gov/link/statute/112/2681).)*

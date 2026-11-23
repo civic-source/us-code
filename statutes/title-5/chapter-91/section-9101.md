@@ -3,9 +3,10 @@ title: "Section 9101 - Access to criminal history records for national security 
 usc_title: 5
 usc_section: "9101"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 9101"
-generated_at: "2026-03-30T02:52:56.072Z"
+generated_at: "2026-11-23T20:25:32.258Z"
+status: "active"
 ---
 
 # § 9101. Access to criminal history records for national security and other purposes
@@ -68,3 +69,7 @@ generated_at: "2026-03-30T02:52:56.072Z"
   - **(4)** provides a description of limitations on the sharing of information relevant to a background investigation, other than criminal history record information, between—
     - **(A)** investigators working for or on behalf of a covered agency; and
     - **(B)** State and local law enforcement agencies.
+
+## Source Credit
+
+*(Added [Pub. L. 99–169, title VIII, § 801(a)](https://www.govinfo.gov/link/plaw/99/public/169), Dec. 4, 1985, [99 Stat. 1009](https://www.govinfo.gov/link/statute/99/1009); amended [Pub. L. 99–569, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/99/public/569), Oct. 27, 1986, [100 Stat. 3196](https://www.govinfo.gov/link/statute/100/3196); [Pub. L. 101–246, title I, § 114](https://www.govinfo.gov/link/plaw/101/public/246), Feb. 16, 1990, [104 Stat. 22](https://www.govinfo.gov/link/statute/104/22); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title X, § 1076(a)–(e), (f)(2)(A)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–280 to 1654A–282; [Pub. L. 114–92, div. A, title X, § 1086(f)(1)](https://www.govinfo.gov/link/plaw/114/public/92) –(6)(A), (7), (8), (10), Nov. 25, 2015, [129 Stat. 1008–1011](https://www.govinfo.gov/link/statute/129/1008).)*

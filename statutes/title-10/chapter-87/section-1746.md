@@ -3,9 +3,10 @@ title: "Section 1746 - Defense Acquisition University"
 usc_title: 10
 usc_section: "1746"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1746"
-generated_at: "2026-03-30T02:53:38.136Z"
+generated_at: "2026-11-23T20:25:51.418Z"
+status: "active"
 ---
 
 # § 1746. Defense Acquisition University
@@ -29,3 +30,53 @@ generated_at: "2026-03-30T02:53:38.136Z"
     - **(B)** Experience using leading practices to develop talent in the private sector.
     - **(C)** Other qualifying factors, including experience with and an understanding of the defense acquisition system (as defined in section 3001 of this title ), an understanding of emerging technologies and the defense applications of such technologies, experience partnering with States, national associations, and academia, and experience with learning technologies.
   - **(3)** The tenure of the President of the Defense Acquisition University shall be not more than five years, unless the Under Secretary of Defense for Acquisition and Sustainment determines it necessary to extend the tenure for up to an additional five years. The preceding sentence does not apply to the President of the Defense Acquisition University serving on January 1, 2025 , who shall serve a maximum tenure of three years beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2025 without an option for extension of such tenure.
+
+Defense Acquisition University Structure
+
+Civilian Faculty Members
+
+Curriculum Development
+
+Cooperative Research and Development Agreements
+
+President Appointment
+
+Curricula
+
+Elements
+
+Plan
+
+Implementation
+
+Report
+
+Covered Individuals Defined
+
+Training
+
+Enrollments Goals
+
+Supporting Activities
+
+Funding
+
+In General
+
+Course Elements.—
+
+In general
+
+Course updates
+
+Course Attendance
+
+Agile Acquisition Support
+
+Agile Research Program
+
+Agile or Iterative Development Defined
+
+## Source Credit
+
+*(Added [Pub. L. 101–510, div. A, title XII, § 1202(a)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1653](https://www.govinfo.gov/link/statute/104/1653); amended [Pub. L. 103–160, div. A, title IX, § 904(d)(1)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1728](https://www.govinfo.gov/link/statute/107/1728); [Pub. L. 104–106, div. A, title XV, § 1503(a)(16)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 512](https://www.govinfo.gov/link/statute/110/512); [Pub. L. 107–107, div. A, title X, § 1048(b)(2)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1225](https://www.govinfo.gov/link/statute/115/1225); [Pub. L. 111–383, div. A, title VIII, § 877(c)(1)](https://www.govinfo.gov/link/plaw/111/public/383), (2)(A), Jan. 7, 2011, [124 Stat. 4306](https://www.govinfo.gov/link/statute/124/4306); [Pub. L. 114–328, div. A, title II, § 214(b)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2048](https://www.govinfo.gov/link/statute/130/2048); [Pub. L. 116–92, div. A, title VIII, § 861(c)](https://www.govinfo.gov/link/plaw/116/public/92), title IX, § 902(23), Dec. 20, 2019, [133 Stat. 1516](https://www.govinfo.gov/link/statute/133/1516), 1545; [Pub. L. 116–283, div. A, title X, § 1081(a)(32)](https://www.govinfo.gov/link/plaw/116/public/283), title XVIII, § 1841(e)(1), Jan. 1, 2021, [134 Stat. 3872](https://www.govinfo.gov/link/statute/134/3872), 4244; [Pub. L. 117–263, div. A, title VIII, § 832(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2712](https://www.govinfo.gov/link/statute/136/2712); [Pub. L. 118–159, div. A, title VIII, § 831](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1984](https://www.govinfo.gov/link/statute/138/1984); [Pub. L. 119–60, div. A, title VIII, § 822](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 954](https://www.govinfo.gov/link/statute/139/954).)*

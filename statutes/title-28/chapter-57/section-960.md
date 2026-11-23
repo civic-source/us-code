@@ -3,9 +3,10 @@ title: "Section 960 - Tax liability"
 usc_title: 28
 usc_section: "960"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 960"
-generated_at: "2026-03-30T02:55:30.137Z"
+generated_at: "2026-11-23T20:26:36.422Z"
+status: "active"
 ---
 
 # § 960. Tax liability
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:30.137Z"
 - **(c)** In a case pending under chapter 7 of title 11, payment of a tax may be deferred until final distribution is made under section 726 of title 11 , if—
   - **(1)** the tax was not incurred by a trustee duly appointed or elected under chapter 7 of title 11; or
   - **(2)** before the due date of the tax, an order of the court makes a finding of probable insufficiency of funds of the estate to pay in full the administrative expenses allowed under section 503(b) of title 11 that have the same priority in distribution under section 726(b) of title 11 as the priority of that tax.
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 927](https://www.govinfo.gov/link/statute/62/927); [Pub. L. 109–8, title VII, § 712(a)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 127](https://www.govinfo.gov/link/statute/119/127).)*

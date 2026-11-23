@@ -3,9 +3,10 @@ title: "Section 1397h - Program for early detection of certain medical condition
 usc_title: 42
 usc_section: "1397h"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1397h"
-generated_at: "2026-03-30T02:56:11.066Z"
+generated_at: "2026-11-23T20:27:21.657Z"
+status: "active"
 ---
 
 # § 1397h. Program for early detection of certain medical conditions related to environmental health hazards
@@ -55,3 +56,7 @@ generated_at: "2026-03-30T02:56:11.066Z"
 - **(f)**
   - **(1)** Except as provided in paragraph (2), the preceding sections of this subchapter shall not apply to grants awarded under this section.
   - **(2)** Section 1397d(a) of this title shall apply to a grant awarded under this section to the same extent and in the same manner as such section applies to payments to States under this subchapter, except that paragraph (4) of such section shall not be construed to prohibit grantees from conducting screening for environmental health conditions as authorized under this section.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XX, § 2009, as added [Pub. L. 111–148, title X, § 10323(b)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 957](https://www.govinfo.gov/link/statute/124/957).)*

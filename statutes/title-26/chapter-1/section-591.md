@@ -3,9 +3,10 @@ title: "Section 591 - Deduction for dividends paid on deposits"
 usc_title: 26
 usc_section: "591"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 591"
-generated_at: "2026-03-30T02:55:27.720Z"
+generated_at: "2026-11-23T20:26:45.830Z"
+status: "active"
 ---
 
 # § 591. Deduction for dividends paid on deposits
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:27.720Z"
 - **(b)** For purposes of this part, the term “mutual savings bank” includes any bank—
   - **(1)** which has capital stock represented by shares, and
   - **(2)** which is subject to, and operates under, Federal or State laws relating to mutual savings bank.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 204; [Pub. L. 87–834, § 6(f)](https://www.govinfo.gov/link/plaw/87/public/834), Oct. 16, 1962, [76 Stat. 984](https://www.govinfo.gov/link/statute/76/984); [Pub. L. 97–34, title II, § 245(a)](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 255](https://www.govinfo.gov/link/statute/95/255).)*

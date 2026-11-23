@@ -3,9 +3,10 @@ title: "Section 7286 - Commodity certificates"
 usc_title: 7
 usc_section: "7286"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7286"
-generated_at: "2026-03-30T02:53:42.449Z"
+generated_at: "2026-11-23T20:25:41.769Z"
+status: "active"
 ---
 
 # § 7286. Commodity certificates
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:42.449Z"
   - **(1)** At the option of a producer, the Commodity Credit Corporation shall make negotiable certificates authorized under subsection (b)(3) available to the producer, in the form of program payments or by sale, in a manner that the Corporation determines will encourage the orderly marketing of commodities pledged as collateral for loans made to producers under subchapter III of this chapter, title I of the Farm Security and Rural Investment Act of 2002 [ 7 U.S.C. 7901 et seq.], title I of the Food, Conservation, and Energy Act of 2008 [ 7 U.S.C. 8701 et seq.], and Subtitle 1 B of title I of the Agricultural Act of 2014 [ 7 U.S.C. 9031 et seq.].
   - **(2)** A negotiable certificate issued in accordance with this subsection may be transferred to another person in accordance with regulations promulgated by the Secretary.
   - **(3)** Beginning with the 2015 crop marketing year, the Secretary shall carry out paragraph (1) under the same terms and conditions as were in effect for the 2008 crop year for loans made to producers under subtitle B [ 7 U.S.C. 8731 et seq.] of title I of the Food, Conservation, and Energy Act of 2008 ( 7 U.S.C. 8701 et seq.).
+
+## Source Credit
+
+*([Pub. L. 104–127, title I, § 166](https://www.govinfo.gov/link/plaw/104/public/127), as added [Pub. L. 106–78, title VIII, § 812](https://www.govinfo.gov/link/plaw/106/public/78), Oct. 22, 1999, [113 Stat. 1181](https://www.govinfo.gov/link/statute/113/1181); amended [Pub. L. 107–171, title I, § 1608](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 218](https://www.govinfo.gov/link/statute/116/218); [Pub. L. 110–234, title I, § 1607](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1018](https://www.govinfo.gov/link/statute/122/1018); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1607, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1746, [Pub. L. 114–113, div. A, title VII, § 740](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2281](https://www.govinfo.gov/link/statute/129/2281).)*

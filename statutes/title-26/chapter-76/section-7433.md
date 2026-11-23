@@ -3,9 +3,10 @@ title: "Section 7433 - Civil damages for certain unauthorized collection actions
 usc_title: 26
 usc_section: "7433"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 7433"
-generated_at: "2026-03-30T02:55:27.872Z"
+generated_at: "2026-11-23T20:26:46.768Z"
+status: "active"
 ---
 
 # § 7433. Civil damages for certain unauthorized collection actions
@@ -26,3 +27,9 @@ generated_at: "2026-03-30T02:55:27.872Z"
     - **(B)** Subparagraph (A) shall not apply to an action under section 362(h) of such title 11 for a violation of a stay provided by section 362 of such title; except that—
       - **(i)** administrative and litigation costs in connection with such an action may only be awarded under section 7430; and
       - **(ii)** administrative costs may be awarded only if incurred on or after the date that the bankruptcy petition is filed.
+
+Requirement that administrative remedies be exhausted
+
+## Source Credit
+
+*(Added [Pub. L. 100–647, title VI, § 6241(a)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3747](https://www.govinfo.gov/link/statute/102/3747); amended [Pub. L. 104–168, title VIII](https://www.govinfo.gov/link/plaw/104/public/168), §§ 801(a), 802(a), July 30, 1996, [110 Stat. 1465](https://www.govinfo.gov/link/statute/110/1465); [Pub. L. 105–206, title III, § 3102(a)](https://www.govinfo.gov/link/plaw/105/public/206), (c), July 22, 1998, [112 Stat. 730](https://www.govinfo.gov/link/statute/112/730).)*

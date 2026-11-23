@@ -3,9 +3,10 @@ title: "Section 1909 - Inspector General for the United States Capitol Police"
 usc_title: 2
 usc_section: "1909"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1909"
-generated_at: "2026-03-30T02:53:04.820Z"
+generated_at: "2026-11-23T20:25:28.992Z"
+status: "active"
 ---
 
 # § 1909. Inspector General for the United States Capitol Police
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:53:04.820Z"
   - **(1)** To the extent that any office or entity in the Capitol Police prior to the appointment of the first Inspector General under this section carried out any of the duties and responsibilities assigned to the Inspector General under this section, the functions of such office or entity shall be transferred to the Office upon the appointment of the first Inspector General under this section.
   - **(2)** The transfer of the functions of an office or entity to the Office under paragraph (1) may not result in a reduction in the pay or benefits of any employee of the office or entity, except to the extent required under subsection (d)(2)(A).
 - **(f)** This section shall be effective on August 2, 2005 .
+
+## Source Credit
+
+*([Pub. L. 109–55, title I, § 1004](https://www.govinfo.gov/link/plaw/109/public/55), Aug. 2, 2005, [119 Stat. 572](https://www.govinfo.gov/link/statute/119/572); [Pub. L. 113–235, div. H, title I, § 1301(b)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537); [Pub. L. 117–286, § 4(b)(4)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4342](https://www.govinfo.gov/link/statute/136/4342).)*

@@ -3,9 +3,10 @@ title: "Section 3702 - Statement of policy"
 usc_title: 19
 usc_section: "3702"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3702"
-generated_at: "2026-03-30T02:54:24.694Z"
+generated_at: "2026-11-23T20:26:11.067Z"
+status: "active"
 ---
 
 # § 3702. Statement of policy
@@ -22,3 +23,7 @@ Congress supports—
   - **(8)** establishing a United States-Sub-Saharan Africa Trade and Economic Cooperation Forum;
   - **(9)** the accession of the countries in sub-Saharan Africa to the Organization for Economic Cooperation and Development (OECD) Convention on Combating Bribery of Foreign Public Officials in International Business Transactions; and
   - **(10)** promoting the role of women in social, political, and economic development in sub-Saharan Africa.
+
+## Source Credit
+
+*([Pub. L. 106–200, title I, § 103](https://www.govinfo.gov/link/plaw/106/public/200), May 18, 2000, [114 Stat. 253](https://www.govinfo.gov/link/statute/114/253); [Pub. L. 114–27, title I, § 106(a)](https://www.govinfo.gov/link/plaw/114/public/27), June 29, 2015, [129 Stat. 368](https://www.govinfo.gov/link/statute/129/368).)*

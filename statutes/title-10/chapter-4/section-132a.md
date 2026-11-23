@@ -3,9 +3,10 @@ title: "Section 132a - Performance Improvement Officer"
 usc_title: 10
 usc_section: "132a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 132a"
-generated_at: "2026-03-30T02:53:38.036Z"
+generated_at: "2026-11-23T20:25:50.823Z"
+status: "active"
 ---
 
 # § 132a. Performance Improvement Officer
@@ -27,3 +28,15 @@ generated_at: "2026-03-30T02:53:38.036Z"
   - **(8)** Oversight and management of the Defense Management Institute (as established pursuant to the memorandum of the Director of Administration and Management of the Department dated January 13, 2023 ), or any successor organization.
   - **(9)** Serving as co-chair of the Defense Business Council in accordance with section 2222(f)(1) of this title .
   - **(10)** Maintaining authority for convening meetings of personnel and organizations of the Department on matters relating to the duties and responsibilities described in this subsection.
+
+Establishment.—
+
+Deputy
+
+Duties and Responsibilities
+
+“Not later than 180 days after the date of the enactment of this Act [ Dec. 23, 2024 ], the Secretary of Defense shall issue rules, regulations, policies, or other guidance (as appropriate)—
+
+## Source Credit
+
+*(Added [Pub. L. 118–159, div. A, title IX, § 902(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2025](https://www.govinfo.gov/link/statute/138/2025); amended [Pub. L. 119–60, div. A, title XVII, § 1701(a)(3)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1207](https://www.govinfo.gov/link/statute/139/1207).)*

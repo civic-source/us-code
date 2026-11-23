@@ -3,9 +3,10 @@ title: "Section 130g - Notification requirements for waivers issued under Depart
 usc_title: 10
 usc_section: "130g"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 130g"
-generated_at: "2026-03-30T02:53:38.035Z"
+generated_at: "2026-11-23T20:25:50.820Z"
+status: "active"
 ---
 
 # § 130g. 1 1 Another section 130g is set out preceding this section. Notification requirements for waivers issued under Department of Defense guidance related to autonomy in weapon systems
@@ -16,3 +17,13 @@ generated_at: "2026-03-30T02:53:38.035Z"
   - **(2)** A description of the autonomous weapon system or technology covered by the waiver.
   - **(3)** The anticipated duration of the waiver.
 - **(c)** A notification under subsection (a) shall be submitted in unclassified form, but may include a classified annex, as the Secretary determines necessary.
+
+In General
+
+Elements
+
+Form
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. A, title X, § 1061(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1045](https://www.govinfo.gov/link/statute/139/1045).)*

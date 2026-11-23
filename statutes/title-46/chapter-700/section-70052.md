@@ -3,9 +3,10 @@ title: "Section 70052 - Seizure and forfeiture of vessel; fine and imprisonment"
 usc_title: 46
 usc_section: "70052"
 chapter: 700
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 70052"
-generated_at: "2026-03-30T02:56:15.585Z"
+generated_at: "2026-11-23T20:27:27.435Z"
+status: "active"
 ---
 
 # § 70052. Seizure and forfeiture of vessel; fine and imprisonment
@@ -17,3 +18,21 @@ generated_at: "2026-03-30T02:56:15.585Z"
 - **(e)**
   - **(1)** If any owner, agent, master, officer, or person in charge of a vessel is liable for a penalty or fine under subsection (c), or if reasonable cause exists to believe that the owner, agent, master, officer, or person in charge may be subject to a penalty or fine under this section, the Secretary of the department in which the Coast Guard is operating may, with respect to such vessel, refuse or revoke any clearance required by section 60105.
   - **(2)** The Secretary of the department in which the Coast Guard is operating may require the filing of a bond or other surety as a condition of granting clearance refused or revoked under this subsection.
+
+In General
+
+Application to Others
+
+Civil Penalty
+
+In Rem Liability
+
+Withholding of Clearance.—
+
+In general
+
+Clearance upon filing of bond or other surety
+
+## Source Credit
+
+*(Added [Pub. L. 115–282, title IV, § 407(c)(3)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4267](https://www.govinfo.gov/link/statute/132/4267); amended [Pub. L. 116–283, div. G, title LVXXXV](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXV], § 8507(a)(11), Jan. 1, 2021, [134 Stat. 4754](https://www.govinfo.gov/link/statute/134/4754); [Pub. L. 119–60, div. G, title LXXVII, § 7701(f)(7)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1836](https://www.govinfo.gov/link/statute/139/1836).)*

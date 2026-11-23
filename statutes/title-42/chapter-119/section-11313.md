@@ -3,9 +3,10 @@ title: "Section 11313 - Functions"
 usc_title: 42
 usc_section: "11313"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11313"
-generated_at: "2026-03-30T02:56:11.397Z"
+generated_at: "2026-11-23T20:27:23.284Z"
+status: "active"
 ---
 
 # § 11313. Functions
@@ -47,3 +48,11 @@ generated_at: "2026-03-30T02:56:11.397Z"
     - **(E)** specifies any recommendations of the Council for appropriate and necessary legislative and administrative actions to resolve such problems and meet such needs.
 - **(d)** If, in monitoring and evaluating programs and activities to assist homeless individuals conducted by other Federal agencies, the Council determines that any significant problem, abuse, or deficiency exists in the administration of the program or activity of any Federal agency, the Council shall submit a notice of the determination of the Council to the Inspector General of the Federal agency (or the head of the Federal agency, in the case of a Federal agency that has no Inspector General).
 - **(e)** Not later than 90 days after November 7, 1988 , the head of each Federal agency that is a member of the Council and responsible for administering a program under this chapter shall provide to the Council a timetable regarding program funding availability and application deadlines. The Council shall furnish such information to each State (including the State contact person).
+
+In General
+
+Committees
+
+## Source Credit
+
+*([Pub. L. 100–77, title II, § 203](https://www.govinfo.gov/link/plaw/100/public/77), July 22, 1987, [101 Stat. 487](https://www.govinfo.gov/link/statute/101/487); [Pub. L. 100–628, title II](https://www.govinfo.gov/link/plaw/100/public/628), §§ 201–203, Nov. 7, 1988, [102 Stat. 3227](https://www.govinfo.gov/link/statute/102/3227), 3228; [Pub. L. 111–22, div. B, § 1004(a)(3)](https://www.govinfo.gov/link/plaw/111/public/22), (4), May 20, 2009, [123 Stat. 1666](https://www.govinfo.gov/link/statute/123/1666), 1668.)*

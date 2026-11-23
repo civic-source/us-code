@@ -3,9 +3,10 @@ title: "Section 332 - Judicial councils of circuits"
 usc_title: 28
 usc_section: "332"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 332"
-generated_at: "2026-03-30T02:55:30.127Z"
+generated_at: "2026-11-23T20:26:36.336Z"
+status: "active"
 ---
 
 # § 332. Judicial councils of circuits
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:55:30.127Z"
   - **(3)** The circuit executive may appoint, with the approval of the court, necessary employees in such number as may be approved by the Director of the Administrative Office of the United States Courts.
   - **(4)** The circuit executive and staff shall be deemed to be officers and employees of the United States within the meaning of the statutes specified in subsection (f)(4).
   - **(5)** The court may appoint either a circuit executive under this subsection or a clerk under section 711 of this title , but not both, or may appoint a combined circuit executive/clerk who shall be paid the salary of a circuit executive.
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 902](https://www.govinfo.gov/link/statute/62/902); [Pub. L. 88–176, § 3](https://www.govinfo.gov/link/plaw/88/public/176), Nov. 13, 1963, [77 Stat. 331](https://www.govinfo.gov/link/statute/77/331); [Pub. L. 91–647](https://www.govinfo.gov/link/plaw/91/public/647), Jan. 5, 1971, [84 Stat. 1907](https://www.govinfo.gov/link/statute/84/1907); [Pub. L. 95–598, title II, § 209](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2661](https://www.govinfo.gov/link/statute/92/2661); [Pub. L. 96–458, § 2(a)](https://www.govinfo.gov/link/plaw/96/public/458) –(d)(1), Oct. 15, 1980, [94 Stat. 2035](https://www.govinfo.gov/link/statute/94/2035), 2036; [Pub. L. 100–459, title IV, § 407](https://www.govinfo.gov/link/plaw/100/public/459), Oct. 1, 1988, [102 Stat. 2213](https://www.govinfo.gov/link/statute/102/2213); [Pub. L. 100–702, title IV, § 403(a)(2)](https://www.govinfo.gov/link/plaw/100/public/702), (b), title X, §§ 1018, 1020(a)(1), Nov. 19, 1988, [102 Stat. 4651](https://www.govinfo.gov/link/statute/102/4651), 4670, 4671; [Pub. L. 101–650, title III](https://www.govinfo.gov/link/plaw/101/public/650), §§ 323, 325(b)(1), title IV, § 403, Dec. 1, 1990, [104 Stat. 5120](https://www.govinfo.gov/link/statute/104/5120), 5121, 5124; [Pub. L. 102–198, § 1](https://www.govinfo.gov/link/plaw/102/public/198), Dec. 9, 1991, [105 Stat. 1623](https://www.govinfo.gov/link/statute/105/1623); [Pub. L. 104–317, title II, § 208](https://www.govinfo.gov/link/plaw/104/public/317), Oct. 19, 1996, [110 Stat. 3851](https://www.govinfo.gov/link/statute/110/3851); [Pub. L. 106–518, title II, § 205](https://www.govinfo.gov/link/plaw/106/public/518), title III, § 306, Nov. 13, 2000, [114 Stat. 2414](https://www.govinfo.gov/link/statute/114/2414), 2418; [Pub. L. 106–553, § 1(a)(2) [title III, § 306]](https://www.govinfo.gov/link/plaw/106/public/553), Dec. 21, 2000, [114 Stat. 2762](https://www.govinfo.gov/link/statute/114/2762), 2762A–85; [Pub. L. 107–273, div. C, title I, § 11043(c)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1855](https://www.govinfo.gov/link/statute/116/1855).)*

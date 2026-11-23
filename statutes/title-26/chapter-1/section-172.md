@@ -3,9 +3,10 @@ title: "Section 172 - Net operating loss deduction"
 usc_title: 26
 usc_section: "172"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 172"
-generated_at: "2026-03-30T02:55:27.647Z"
+generated_at: "2026-11-23T20:26:45.478Z"
+status: "active"
 ---
 
 # § 172. Net operating loss deduction
@@ -83,3 +84,177 @@ generated_at: "2026-03-30T02:55:27.647Z"
 - **(g)**
   - **(1)** For treatment of net operating loss carryovers in certain corporate acquisitions, see section 381.
   - **(2)** For special limitation on net operating loss carryovers in case of a corporate change of ownership, see section 382.
+
+In general
+
+Special rule
+
+REIT year
+
+Application for adjustment
+
+Special rules relating to refund
+
+Net operating loss limitation
+
+Carryovers and carrybacks
+
+Technical amendments
+
+Special rule
+
+Net operating loss limitation
+
+Carryovers and carrybacks
+
+In general
+
+Transitional rule
+
+In general
+
+Binding contract exception
+
+In general
+
+Exceptions
+
+In general
+
+Additional carryforward period for losses of thrift institutions
+
+In general
+
+Adjusted basis of assets.—
+
+In general
+
+Special rule for tangible depreciable property
+
+Treatment of participation certificates.—
+
+In general
+
+Treatment of certain sales after march 15, 1984 , and before january 1, 1985
+
+Clarification of earnings and profits of federal home loan mortgage corporation.—
+
+Treatment of distribution of preferred stock, etc
+
+Section 246
+
+not to apply to distributions out of earnings and profits accumulated during 1985
+
+Adjusted basis
+
+No carrybacks for years before 1985
+
+No deduction allowed for interest on replacement obligations.—
+
+In general
+
+Replacement obligation defined
+
+Election to disregard application of amendments made by subsections (
+
+) and (
+
+In general
+
+Election.—
+
+In general
+
+Time for making election.—
+
+In general
+
+Previously filed returns
+
+Regulations
+
+Revocation of election to waive carryback
+
+“In the case of a net operating loss for a taxable year ending during 2001 or 2002—
+
+Elective Carryback.—
+
+In general
+
+Conditions.—
+
+In general
+
+Repayment.—
+
+In general
+
+Special rules
+
+Amount
+
+In general
+
+Dollar limit
+
+Existing Qualified Carryovers; Net Tax Liability
+
+Existing qualified carryovers
+
+Net tax liability for carryback period.—
+
+In general
+
+Net tax liability
+
+Carryback period
+
+Railroad predecessor.—
+
+In general
+
+Consolidated returns
+
+Payments to Non-Amtrak States.—
+
+In general
+
+Use of payment
+
+Repayment
+
+Tax Consequences.—
+
+Reduction in carryovers
+
+Reduction in tax paid by railroad predecessors.—
+
+In general
+
+FIFO ordering rule
+
+No effect on other taxpayers
+
+Waiver of limitations
+
+Tax treatment of expenditures
+
+Payments to a non-amtrak state
+
+Definitions
+
+Qualified expenses
+
+Non-amtrak state
+
+Authorizing Reform Required.—
+
+In general
+
+No interest
+
+Estimate of revenue
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 63; [Pub. L. 85–866, title I](https://www.govinfo.gov/link/plaw/85/public/866), §§ 14(a), (b), 64(b), title II, § 203(a), (b), Sept. 2, 1958, [72 Stat. 1611](https://www.govinfo.gov/link/statute/72/1611), 1656, 1678; [Pub. L. 87–710, § 1](https://www.govinfo.gov/link/plaw/87/public/710), Sept. 27, 1962, [76 Stat. 648](https://www.govinfo.gov/link/statute/76/648); [Pub. L. 87–792, § 7(f)](https://www.govinfo.gov/link/plaw/87/public/792), Oct. 10, 1962, [76 Stat. 829](https://www.govinfo.gov/link/statute/76/829); [Pub. L. 87–794, title III, § 317(b)](https://www.govinfo.gov/link/plaw/87/public/794), Oct. 11, 1962, [76 Stat. 889](https://www.govinfo.gov/link/statute/76/889); [Pub. L. 88–272, title II](https://www.govinfo.gov/link/plaw/88/public/272), §§ 210(a), (b), 234(b)(5), Feb. 26, 1964, [78 Stat. 47](https://www.govinfo.gov/link/statute/78/47), 48, 115; [Pub. L. 90–225, § 3(a)](https://www.govinfo.gov/link/plaw/90/public/225), Dec. 27, 1967, [81 Stat. 732](https://www.govinfo.gov/link/statute/81/732); [Pub. L. 91–172, title IV, § 431(b)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 619](https://www.govinfo.gov/link/statute/83/619); [Pub. L. 91–677, § 2(a)](https://www.govinfo.gov/link/plaw/91/public/677) –(c), Jan. 12, 1971, [84 Stat. 2061](https://www.govinfo.gov/link/statute/84/2061); [Pub. L. 94–455, title VIII, § 806(a)](https://www.govinfo.gov/link/plaw/94/public/455) –(c), title X, § 1052(c)(3), title XVI, § 1606(b), (c), title XIX, §§ 1901(a)(29), 1906(b)(13)(A), title XXI, § 2126, Oct. 4, 1976, [90 Stat. 1598](https://www.govinfo.gov/link/statute/90/1598), 1648, 1755, 1756, 1769, 1834, 1920; [Pub. L. 95–30, title I, § 102(b)(2)](https://www.govinfo.gov/link/plaw/95/public/30), May 23, 1977, [91 Stat. 137](https://www.govinfo.gov/link/statute/91/137); [Pub. L. 95–600, title III, § 371(a)](https://www.govinfo.gov/link/plaw/95/public/600), (b), title VI, § 601(b)(1), title VII, §§ 701(d)(1), 703(p)(1), Nov. 6, 1978, [92 Stat. 2859](https://www.govinfo.gov/link/statute/92/2859), 2896, 2900, 2943; [Pub. L. 96–222, title I](https://www.govinfo.gov/link/plaw/96/public/222), §§ 103(a)(15), 106(a)(1), (6), (7), Apr. 1, 1980, [94 Stat. 214](https://www.govinfo.gov/link/statute/94/214), 221; [Pub. L. 96–595, § 1(a)](https://www.govinfo.gov/link/plaw/96/public/595), Dec. 24, 1980, [94 Stat. 3464](https://www.govinfo.gov/link/statute/94/3464); [Pub. L. 97–34, title II, § 207(a)](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 225](https://www.govinfo.gov/link/statute/95/225); [Pub. L. 97–354, § 5(a)(22)](https://www.govinfo.gov/link/plaw/97/public/354), Oct. 19, 1982, [96 Stat. 1694](https://www.govinfo.gov/link/statute/96/1694); [Pub. L. 97–362, title I, § 102(a)](https://www.govinfo.gov/link/plaw/97/public/362) –(c), Oct. 25, 1982, [96 Stat. 1727](https://www.govinfo.gov/link/statute/96/1727), 1728; [Pub. L. 98–369, div. A, title I](https://www.govinfo.gov/link/plaw/98/public/369), §§ 91(d), 177(c), title IV, § 491(d)(5), title VII, § 722(a)(4), July 18, 1984, [98 Stat. 606](https://www.govinfo.gov/link/statute/98/606), 710, 849, 973; [Pub. L. 99–514, title I, § 104(b)(4)](https://www.govinfo.gov/link/plaw/99/public/514), title III, § 301(b)(3), title IX, §§ 901(d)(4)(B), 903(a), (b), title XIII, § 1303(b)(1), (2), title XVIII, § 1899A(6), Oct. 22, 1986, [100 Stat. 2105](https://www.govinfo.gov/link/statute/100/2105), 2217, 2380, 2383, 2658, 2958; [Pub. L. 100–647, title I](https://www.govinfo.gov/link/plaw/100/public/647), §§ 1003(a)(1), 1009(c), Nov. 10, 1988, [102 Stat. 3382](https://www.govinfo.gov/link/statute/102/3382), 3449; [Pub. L. 101–239, title VII, § 7211(a)](https://www.govinfo.gov/link/plaw/101/public/239), (b), Dec. 19, 1989, [103 Stat. 2342](https://www.govinfo.gov/link/statute/103/2342), 2343; [Pub. L. 101–508, title XI](https://www.govinfo.gov/link/plaw/101/public/508), §§ 11324(a), 11701(d), 11704(a)(2), 11811(a)–(b)(2)(A), (3), (4), Nov. 5, 1990, [104 Stat. 1388–465](https://www.govinfo.gov/link/statute/104/1388), 1388–507, 1388–518, 1388–530, 1388–532 to 1388–534; [Pub. L. 103–66, title XIII, § 13113(d)(1)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 429](https://www.govinfo.gov/link/statute/107/429); [Pub. L. 104–188, title I](https://www.govinfo.gov/link/plaw/104/public/188), §§ 1702(h)(2), (16), 1704(t)(5), (30), Aug. 20, 1996, [110 Stat. 1873](https://www.govinfo.gov/link/statute/110/1873), 1874, 1887, 1889; [Pub. L. 105–34, title X, § 1082(a)](https://www.govinfo.gov/link/plaw/105/public/34), (b), Aug. 5, 1997, [111 Stat. 950](https://www.govinfo.gov/link/statute/111/950); [Pub. L. 105–277, div. J, title II, § 2013(a)](https://www.govinfo.gov/link/plaw/105/public/277) –(c), title III, § 3004(a), title IV, §§ 4003(h), 4004(a), Oct. 21, 1998, [112 Stat. 2681–902](https://www.govinfo.gov/link/statute/112/2681), 2681–905, 2681–910; [Pub. L. 107–147, title I, § 102(a)](https://www.govinfo.gov/link/plaw/107/public/147), (b), title IV, § 417(8), Mar. 9, 2002, [116 Stat. 25](https://www.govinfo.gov/link/statute/116/25), 56; [Pub. L. 108–311, title IV, § 403(b)(1)](https://www.govinfo.gov/link/plaw/108/public/311), Oct. 4, 2004, [118 Stat. 1187](https://www.govinfo.gov/link/statute/118/1187); [Pub. L. 109–58, title XIII, § 1311](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 1009](https://www.govinfo.gov/link/statute/119/1009); [Pub. L. 109–135, title IV](https://www.govinfo.gov/link/plaw/109/public/135), §§ 402(f), 403(a)(17), Dec. 21, 2005, [119 Stat. 2611](https://www.govinfo.gov/link/statute/119/2611), 2619; [Pub. L. 110–343, div. C, title VII](https://www.govinfo.gov/link/plaw/110/public/343), §§ 706(a)(2)(D)(v), (vi), 708(a), (b), (d), Oct. 3, 2008, [122 Stat. 3922](https://www.govinfo.gov/link/statute/122/3922), 3924, 3925; [Pub. L. 111–5, div. B, title I, § 1211(a)](https://www.govinfo.gov/link/plaw/111/public/5), (b), Feb. 17, 2009, [123 Stat. 335](https://www.govinfo.gov/link/statute/123/335), 336; [Pub. L. 111–92, § 13(a)](https://www.govinfo.gov/link/plaw/111/public/92), Nov. 6, 2009, [123 Stat. 2992](https://www.govinfo.gov/link/statute/123/2992); [Pub. L. 113–295, div. A, title II](https://www.govinfo.gov/link/plaw/113/public/295), §§ 211(c)(1)(B), 221(a)(30)(A), (B), (41)(B), Dec. 19, 2014, [128 Stat. 4033](https://www.govinfo.gov/link/statute/128/4033), 4041, 4044; [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 11011(d)(1), 13302(a)–(c)(2)(A), (d), 13305(b)(3), 14202(b)(1), Dec. 22, 2017, [131 Stat. 2071](https://www.govinfo.gov/link/statute/131/2071), 2121–2123, 2126, 2216; [Pub. L. 115–141, div. T, § 101(a)(2)(B)](https://www.govinfo.gov/link/plaw/115/public/141), div. U, title IV, § 401(a)(53), Mar. 23, 2018, [132 Stat. 1155](https://www.govinfo.gov/link/statute/132/1155), 1186; [Pub. L. 116–136, div. A, title II, § 2303(a)(1)](https://www.govinfo.gov/link/plaw/116/public/136) –(2)(B), (b), (c)(2), Mar. 27, 2020, [134 Stat. 352](https://www.govinfo.gov/link/statute/134/352), 353, 355; [Pub. L. 119–21, title VII, § 70323(b)(2)(C)(ii)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 206](https://www.govinfo.gov/link/statute/139/206).)*

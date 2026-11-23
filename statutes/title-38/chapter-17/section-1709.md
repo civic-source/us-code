@@ -3,9 +3,10 @@ title: "Section 1709 - Comprehensive policy on reporting and tracking sexual ass
 usc_title: 38
 usc_section: "1709"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 1709"
-generated_at: "2026-03-30T02:55:53.482Z"
+generated_at: "2026-11-23T20:27:01.665Z"
+status: "active"
 ---
 
 # § 1709. Comprehensive policy on reporting and tracking sexual assault incidents and other safety incidents
@@ -50,3 +51,15 @@ generated_at: "2026-03-30T02:55:53.482Z"
     - **(A)** the number and type of sexual assault incidents and other safety incidents reported by each medical facility of the Department;
     - **(B)** a detailed description of the implementation of the policy required by subsection (a), including any revisions made to such policy from the previous year; and
     - **(C)** the effectiveness of such policy on improving the safety and security of the medical facilities of the Department, including the performance measures used to evaluate such effectiveness.
+
+Policy Required
+
+Scope
+
+Updates to Policy
+
+Annual Report
+
+## Source Credit
+
+*(Added [Pub. L. 112–154, title I, § 106(a)](https://www.govinfo.gov/link/plaw/112/public/154), Aug. 6, 2012, [126 Stat. 1171](https://www.govinfo.gov/link/statute/126/1171).)*

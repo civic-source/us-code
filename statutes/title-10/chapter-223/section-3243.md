@@ -3,9 +3,10 @@ title: "Section 3243 - Encouragement of new competitors: qualification requireme
 usc_title: 10
 usc_section: "3243"
 chapter: 223
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 3243"
-generated_at: "2026-03-30T02:53:38.191Z"
+generated_at: "2026-11-23T20:25:51.819Z"
+status: "active"
 ---
 
 # § 3243. Encouragement of new competitors: qualification requirement
@@ -40,3 +41,47 @@ generated_at: "2026-03-30T02:53:38.191Z"
   - **(1)** The term “aviation critical safety item” means a part, an assembly, installation equipment, launch equipment, recovery equipment, or support equipment for an aircraft or aviation weapon system if the part, assembly, or equipment contains a characteristic any failure, malfunction, or absence of which could cause a catastrophic or critical failure resulting in the loss of or serious damage to the aircraft or weapon system, an unacceptable risk of personal injury or loss of life, or an uncommanded engine shutdown that jeopardizes safety.
   - **(2)** The term “ship critical safety item” means any ship part, assembly, or support equipment containing a characteristic the failure, malfunction, or absence of which could cause a catastrophic or critical failure resulting in loss of or serious damage to the ship or unacceptable risk of personal injury or loss of life.
   - **(3)** The term “design control activity”, with respect to an aviation critical safety item or ship critical safety item, means the systems command of a military department that is specifically responsible for ensuring the airworthiness of an aviation system or equipment, or the seaworthiness of a ship or ship equipment, in which such item is to be used.
+
+Qualification Requirement Defined
+
+Actions Before Establishing Qualification Requirement
+
+Applicability, Waiver Authority, and Referral of Offers.—
+
+Applicability
+
+Waiver Authority.—
+
+Submission of determination of unreasonableness
+
+Authority to grant waiver
+
+Inapplicability to qualified products list
+
+Submission and consideration of offer not to be denied in certain cases
+
+Referral to small business administration
+
+Delay of procurement not required
+
+Requirements before enforcement of certain lists
+
+Fewer Than
+
+Actual Manufacturers.—
+
+Solicitation and testing of additional sources or products
+
+Certification required
+
+Advanced Manufacturing Crisis Qualification Frameworks
+
+Examination and Revalidation of Qualification Requirement
+
+Restriction on Enforcement
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 98–525, title XII, § 1216(a)](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2593](https://www.govinfo.gov/link/statute/98/2593), § 2319; amended [Pub. L. 100–26, § 7(d)(5)](https://www.govinfo.gov/link/plaw/100/public/26), (i)(4), (k)(3), Apr. 21, 1987, [101 Stat. 281](https://www.govinfo.gov/link/statute/101/281), 282, 284; [Pub. L. 108–136, div. A, title VIII, § 802(d)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1541](https://www.govinfo.gov/link/statute/117/1541); [Pub. L. 109–364, div. A, title I, § 130(d)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2110](https://www.govinfo.gov/link/statute/120/2110); renumbered § 3243 and amended [Pub. L. 116–283, div. A, title XVIII, § 1813(d)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4179](https://www.govinfo.gov/link/statute/134/4179); [Pub. L. 119–60, div. A, title VIII, § 812(a)(6)](https://www.govinfo.gov/link/plaw/119/public/60), title XVIII, § 1841(f)(2), Dec. 18, 2025, [139 Stat. 952](https://www.govinfo.gov/link/statute/139/952), 1257.)*

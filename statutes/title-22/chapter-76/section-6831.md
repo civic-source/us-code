@@ -3,9 +3,10 @@ title: "Section 6831 - Reports to Congress"
 usc_title: 22
 usc_section: "6831"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6831"
-generated_at: "2026-03-30T02:55:05.433Z"
+generated_at: "2026-11-23T20:26:32.634Z"
+status: "active"
 ---
 
 # § 6831. Reports to Congress
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:05.433Z"
   - **(1)** the effectiveness of the programs, projects, and activities described in subsection (a)(2)(B) in reducing the worldwide spread of AIDS; and
   - **(2)** an assessment of the merits of continued United States financial contributions to the Trust Fund.
 - **(c)** In subsection (a), the term “appropriate committees” means the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on International Relations, the Committee on Banking and Financial Services, and the Committee on Appropriations of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 106–264, title I, § 131](https://www.govinfo.gov/link/plaw/106/public/264), Aug. 19, 2000, [114 Stat. 757](https://www.govinfo.gov/link/statute/114/757).)*

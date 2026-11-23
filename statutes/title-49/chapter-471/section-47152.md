@@ -3,9 +3,10 @@ title: "Section 47152 - Terms of conveyances"
 usc_title: 49
 usc_section: "47152"
 chapter: 471
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 47152"
-generated_at: "2026-03-30T02:56:19.406Z"
+generated_at: "2026-11-23T20:27:35.321Z"
+status: "active"
 ---
 
 # § 47152. Terms of conveyances
@@ -27,3 +28,47 @@ Except as provided in section 47153 of this title , the following terms apply to
     - **(B)** pay for damages caused by its use of the landing area if its use of the landing area is substantial.
   - **(7)** The State, political subdivision, or tax-supported organization accepting the interest shall release the Government from all liability for damages arising under an agreement that provides for Government use of any part of an airport owned, controlled, or operated by the State, political subdivision, or tax-supported organization on which, adjacent to which, or in connection with which, the property is located.
   - **(8)** When a term under this section is not satisfied, any part of the interest in the property reverts to the Government, at the option of the Government, as the property then exists.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 47152 | 49 App.:1655(c)(1). | Oct. 15, 1966 , Pub. L. 89–670, § 6(c)(1) , 80 Stat. 938 ; Jan. 12, 1983 , Pub. L. 97–449, § 7(b) , 96 Stat. 2444 . |
+|  | 50 App.:1622(g)(2). | Oct. 3, 1944, ch. 479 , 58 Stat. 765 , § 13(g)(2); added July 30, 1947, ch. 404, § 2 , 61 Stat. 678 ; Oct. 1, 1949, ch. 589, § 1 , 63 Stat. 700 ; Aug. 23, 1958 , Pub. L. 85–726, § 1402(c) , 72 Stat. 807 . |
+
+
+Historical and Revision Notes
+
+47152
+
+Oct. 15, 1966
+
+Pub. L. 89–670, § 6(c)(1)
+
+80 Stat. 938
+
+Jan. 12, 1983
+
+Pub. L. 97–449, § 7(b)
+
+96 Stat. 2444
+
+Oct. 3, 1944, ch. 479
+
+58 Stat. 765
+
+July 30, 1947, ch. 404, § 2
+
+61 Stat. 678
+
+Oct. 1, 1949, ch. 589, § 1
+
+63 Stat. 700
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 1402(c)
+
+72 Stat. 807
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1279](https://www.govinfo.gov/link/statute/108/1279); [Pub. L. 106–181, title I, § 135(d)(2)](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 85](https://www.govinfo.gov/link/statute/114/85).)*

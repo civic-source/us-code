@@ -3,9 +3,10 @@ title: "Section 1831f - Brokered deposits"
 usc_title: 12
 usc_section: "1831f"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1831f"
-generated_at: "2026-03-30T02:53:53.458Z"
+generated_at: "2026-11-23T20:25:59.164Z"
+status: "active"
 ---
 
 # § 1831f. Brokered deposits
@@ -69,3 +70,7 @@ generated_at: "2026-03-30T02:53:53.458Z"
     - **(D)** The term “network member bank” means an insured depository institution that is a member of a deposit placement network.
     - **(E)** The term “reciprocal deposits” means deposits received by an agent institution through a deposit placement network with the same maturity (if any) and in the same aggregate amount as covered deposits placed by the agent institution in other network member banks.
     - **(F)** The term “well capitalized” has the meaning given the term in section 1831 o (b)(1) of this title.
+
+## Source Credit
+
+*(Sept. 21, 1950, ch. 967, § 2 [29], as added [Pub. L. 101–73, title II, § 224(a)](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 273](https://www.govinfo.gov/link/statute/103/273); amended [Pub. L. 102–242, title III, § 301(a)](https://www.govinfo.gov/link/plaw/102/public/242), (c), Dec. 19, 1991, [105 Stat. 2343](https://www.govinfo.gov/link/statute/105/2343), 2345; [Pub. L. 102–550, title XVI, § 1605(a)(1)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 4084](https://www.govinfo.gov/link/statute/106/4084); [Pub. L. 103–325, title III, § 337](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2235](https://www.govinfo.gov/link/statute/108/2235); [Pub. L. 115–174, title II, § 202](https://www.govinfo.gov/link/plaw/115/public/174), May 24, 2018, [132 Stat. 1307](https://www.govinfo.gov/link/statute/132/1307).)*

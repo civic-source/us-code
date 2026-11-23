@@ -3,9 +3,10 @@ title: "Section 1185 - Standards relating to benefits for mothers and newborns"
 usc_title: 29
 usc_section: "1185"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1185"
-generated_at: "2026-03-30T02:55:18.723Z"
+generated_at: "2026-11-23T20:26:37.991Z"
+status: "active"
 ---
 
 # § 1185. Standards relating to benefits for mothers and newborns
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:18.723Z"
     - **(B)** Such State law requires such coverage to provide for maternity and pediatric care in accordance with guidelines established by the American College of Obstetricians and Gynecologists, the American Academy of Pediatrics, or other established professional medical associations.
     - **(C)** Such State law requires, in connection with such coverage for maternity care, that the hospital length of stay for such care is left to the decision of (or required to be made by) the attending provider in consultation with the mother.
   - **(2)** Section 1191(a)(1) of this title shall not be construed as superseding a State law described in paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 711](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 104–204, title VI, § 603(a)(5)](https://www.govinfo.gov/link/plaw/104/public/204), Sept. 26, 1996, [110 Stat. 2935](https://www.govinfo.gov/link/statute/110/2935).)*

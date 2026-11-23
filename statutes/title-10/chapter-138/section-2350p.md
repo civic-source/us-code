@@ -3,9 +3,10 @@ title: "Section 2350p - Reciprocal patient movement agreements"
 usc_title: 10
 usc_section: "2350p"
 chapter: 138
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2350p"
-generated_at: "2026-03-30T02:53:38.157Z"
+generated_at: "2026-11-23T20:25:51.555Z"
+status: "active"
 ---
 
 # § 2350p. Reciprocal patient movement agreements
@@ -36,3 +37,21 @@ generated_at: "2026-03-30T02:53:38.157Z"
     - **(E)** The Republic of Korea.
     - **(F)** Any other country designated as a partner country by the Secretary of Defense, with the concurrence of the Secretary of State, for purposes of this section.
   - **(3)** The term “patient movement” means the act or process of moving wounded, ill, injured, or other persons (including contaminated, contagious, and potentially exposed patients) to obtain medical, surgical, mental health, or dental care or treatment.
+
+Authority
+
+Certification
+
+Suspension
+
+Definitions
+
+Appropriate committees of congress
+
+Partner country
+
+Patient movement
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. A, title XII, § 1204(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3911](https://www.govinfo.gov/link/statute/134/3911).)*

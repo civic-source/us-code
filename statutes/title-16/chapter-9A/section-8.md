@@ -3,12 +3,17 @@ title: "Section 8 - West Virginia fish hatchery; authorization of appropriations
 usc_title: 16
 usc_section: "8"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 8"
-generated_at: "2026-03-30T02:54:22.906Z"
+generated_at: "2026-11-23T20:26:20.264Z"
+status: "active"
 ---
 
 # § 760–8. West Virginia fish hatchery; authorization of appropriations
 
 There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of section 760–7 of this title .
 
+
+## Source Credit
+
+*(Aug. 6, 1956, ch. 978, § 2, [70 Stat. 1057](https://www.govinfo.gov/link/statute/70/1057).)*

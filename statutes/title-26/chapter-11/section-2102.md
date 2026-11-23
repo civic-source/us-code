@@ -3,9 +3,10 @@ title: "Section 2102 - Credits against tax"
 usc_title: 26
 usc_section: "2102"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 2102"
-generated_at: "2026-03-30T02:55:27.783Z"
+generated_at: "2026-11-23T20:26:46.162Z"
+status: "active"
 ---
 
 # § 2102. Credits against tax
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:27.783Z"
     - **(B)** If a credit has been allowed under section 2505 with respect to any gift made by the decedent, each dollar amount contained in paragraph (1) or (2) or subparagraph (A) of this paragraph (whichever applies) shall be reduced by the amount so allowed.
   - **(4)** The credit allowed under this subsection shall not exceed the amount of the tax imposed by section 2101.
   - **(5)** For purposes of subsection (a), sections 2012 and 2013 shall be applied as if the credit allowed under this subsection were allowed under section 2010.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 397; [Pub. L. 89–809, title I, § 108(b)](https://www.govinfo.gov/link/plaw/89/public/809), Nov. 13, 1966, [80 Stat. 1572](https://www.govinfo.gov/link/statute/80/1572); [Pub. L. 94–455, title XX, § 2001(c)(1)(E)(i)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1851](https://www.govinfo.gov/link/statute/90/1851); [Pub. L. 100–647, title V, § 5032(b)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3669](https://www.govinfo.gov/link/statute/102/3669); [Pub. L. 104–188, title I, § 1704(f)(1)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1879](https://www.govinfo.gov/link/statute/110/1879); [Pub. L. 105–34, title V, § 501(a)(1)(E)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 845](https://www.govinfo.gov/link/statute/111/845); [Pub. L. 107–16, title V, § 532(c)(7)](https://www.govinfo.gov/link/plaw/107/public/16), June 7, 2001, [115 Stat. 75](https://www.govinfo.gov/link/statute/115/75).)*

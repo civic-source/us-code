@@ -3,9 +3,10 @@ title: "Section 2334 - Jurisdiction and venue"
 usc_title: 18
 usc_section: "2334"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2334"
-generated_at: "2026-03-30T02:54:16.503Z"
+generated_at: "2026-11-23T20:26:08.604Z"
+status: "active"
 ---
 
 # § 2334. Jurisdiction and venue
@@ -45,3 +46,27 @@ generated_at: "2026-03-30T02:54:16.503Z"
     - **(D)** any organization or other entity that—
       - **(i)** is identified in subparagraph (A), (B), or (C); and
       - **(ii)** self identifies as, holds itself out to be, or carries out conduct in the name of, the “State of Palestine” or “Palestine” in connection with official business of the United Nations.
+
+General Venue
+
+Special Maritime or Territorial Jurisdiction
+
+Service on Witnesses
+
+Convenience of the Forum
+
+Consent of Certain Parties to Personal Jurisdiction.—
+
+In general
+
+Applicability
+
+Exception for certain activities and locations
+
+Rule of construction
+
+Defined term
+
+## Source Credit
+
+*(Added [Pub. L. 102–572, title X, § 1003(a)(4)](https://www.govinfo.gov/link/plaw/102/public/572), Oct. 29, 1992, [106 Stat. 4522](https://www.govinfo.gov/link/statute/106/4522); amended [Pub. L. 115–253, § 4(a)](https://www.govinfo.gov/link/plaw/115/public/253), Oct. 3, 2018, [132 Stat. 3184](https://www.govinfo.gov/link/statute/132/3184); [Pub. L. 116–94, div. J, title IX, § 903(c)(1)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3083](https://www.govinfo.gov/link/statute/133/3083).)*

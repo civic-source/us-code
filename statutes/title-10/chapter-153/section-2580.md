@@ -3,9 +3,10 @@ title: "Section 2580 - Donation of excess chapel property"
 usc_title: 10
 usc_section: "2580"
 chapter: 153
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2580"
-generated_at: "2026-03-30T02:53:38.165Z"
+generated_at: "2026-11-23T20:25:51.617Z"
+status: "active"
 ---
 
 # § 2580. Donation of excess chapel property
@@ -17,3 +18,13 @@ generated_at: "2026-03-30T02:53:38.165Z"
     - **(B)** is determined by the Secretary to be excess to the requirements of the armed forces.
   - **(2)** No real property may be donated under this section.
 - **(c)** No charge may be imposed by the Secretary of a military department on a donee of property under this section in connection with the donation. However, the donee shall agree to defray any expense for shipping or other transportation of property donated under this section from the location of the property when donated to any other location.
+
+Authority To Donate
+
+Property Covered
+
+Donees Not To Be Charged
+
+## Source Credit
+
+*(Added [Pub. L. 105–85, div. A, title X, § 1063(a)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1892](https://www.govinfo.gov/link/statute/111/1892).)*

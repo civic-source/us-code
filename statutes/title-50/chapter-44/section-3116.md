@@ -3,9 +3,10 @@ title: "Section 3116 - Notice of impact of diplomatic and consular post closings
 usc_title: 50
 usc_section: "3116"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3116"
-generated_at: "2026-03-30T02:56:26.236Z"
+generated_at: "2026-11-23T20:27:30.923Z"
+status: "active"
 ---
 
 # § 3116. Notice of impact of diplomatic and consular post closings on intelligence community
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:26.236Z"
     - **(C)** the Committees on Armed Services of the Senate and the House of Representatives; and
     - **(D)** the Committees on Appropriations of the Senate and the House of Representatives.
   - **(2)** The term “covered closure of a diplomatic or consular post” means the closure of a United States diplomatic or consular post abroad that is anticipated to last for 60 days or more.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title V, § 517, as added [Pub. L. 119–60, div. F, title LXIII, § 6303](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1610](https://www.govinfo.gov/link/statute/139/1610).)*

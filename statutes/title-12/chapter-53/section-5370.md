@@ -3,9 +3,10 @@ title: "Section 5370 - Safe harbor"
 usc_title: 12
 usc_section: "5370"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5370"
-generated_at: "2026-03-30T02:53:53.532Z"
+generated_at: "2026-11-23T20:25:59.477Z"
+status: "active"
 ---
 
 # § 5370. Safe harbor
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:53.532Z"
   - **(1)** The Board of Governors shall, in consultation with the Council, review the regulations promulgated under subsection (a), not less frequently than every 5 years, and based upon the review, the Board of Governors may revise such regulations on behalf of, and in consultation with, the Council to update as necessary the criteria set forth in such regulations.
   - **(2)** No revisions under paragraph (1) shall take effect before the end of the 2-year period after the date of publication of such revisions in final form.
 - **(e)** The Chairman of the Board of Governors and the Chairperson of the Council shall submit a joint report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives not later than 30 days after the date of the issuance in final form of regulations under subsection (a), or any subsequent revision to such regulations under subsection (d), as applicable. Such report shall include, at a minimum, the rationale for exemption and empirical evidence to support the criteria for exemption.
+
+## Source Credit
+
+*([Pub. L. 111–203, title I, § 170](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1435](https://www.govinfo.gov/link/statute/124/1435).)*

@@ -3,9 +3,10 @@ title: "Section 15977 - Department of Energy transportation fuels from Illinois 
 usc_title: 42
 usc_section: "15977"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 15977"
-generated_at: "2026-03-30T02:56:11.466Z"
+generated_at: "2026-11-23T20:27:23.594Z"
+status: "active"
 ---
 
 # § 15977. Department of Energy transportation fuels from Illinois basin coal
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.466Z"
     - **(B)** The Secretary may make grants or enter into agreements or contracts with the institutions of higher education described in subsection (b).
 - **(e)** The cost of making grants under this section shall be shared in accordance with section 16352 of this title .
 - **(f)** There is authorized to be appropriated to carry out this section $85,000,000 for the period of fiscal years 2006 through 2010.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IV, § 417](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 756](https://www.govinfo.gov/link/statute/119/756).)*

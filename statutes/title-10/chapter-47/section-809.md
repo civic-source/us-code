@@ -3,9 +3,10 @@ title: "Section 809 - Art. 9. Imposition of restraint"
 usc_title: 10
 usc_section: "809"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 809"
-generated_at: "2026-03-30T02:53:38.077Z"
+generated_at: "2026-11-23T20:25:51.060Z"
+status: "active"
 ---
 
 # § 809. Art. 9. Imposition of restraint
@@ -15,3 +16,31 @@ generated_at: "2026-03-30T02:53:38.077Z"
 - **(c)** A commissioned officer, a warrant officer, or a civilian subject to this chapter or to trial thereunder may be ordered into arrest or confinement only by a commanding officer to whose authority he is subject, by an order, oral or written, delivered in person or by another commissioned officer. The authority to order such persons into arrest or confinement may not be delegated.
 - **(d)** No person may be ordered into arrest or confinement except for probable cause.
 - **(e)** Nothing in this article limits the authority of persons authorized to apprehend offenders to secure the custody of an alleged offender until proper authority may be notified.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 809(a) 809(b) | 50:563(a). 50:563(b). | May 5, 1950, ch. 169, § 1 (Art. 9), 64 Stat. 111 . |
+| 809(c) | 50:563(c). |  |
+| 809(d) | 50:563(d). |  |
+| 809(e) | 50:563(e). |  |
+
+
+Historical and Revision Notes
+
+809(a)
+
+809(b)
+
+May 5, 1950, ch. 169, § 1
+
+64 Stat. 111
+
+809(c)
+
+809(d)
+
+809(e)
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 40.)*

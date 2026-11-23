@@ -3,9 +3,10 @@ title: "Section 3113 - Definitions"
 usc_title: 16
 usc_section: "3113"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3113"
-generated_at: "2026-03-30T02:54:23.008Z"
+generated_at: "2026-11-23T20:26:20.627Z"
+status: "active"
 ---
 
 # § 3113. Definitions
@@ -16,3 +17,7 @@ As used in this Act, the term “subsistence uses” means the customary and tra
   - **(2)** “barter” means the exchange of fish or wildlife or their parts, taken for subsistence uses—
     - **(A)** for other fish or game or their parts; or
     - **(B)** for other food or for nonedible items other than money if the exchange is of a limited and noncommercial nature.
+
+## Source Credit
+
+*([Pub. L. 96–487, title VIII, § 803](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2423](https://www.govinfo.gov/link/statute/94/2423); [Pub. L. 105–83, title III, § 316(b)(4)](https://www.govinfo.gov/link/plaw/105/public/83), (d), Nov. 14, 1997, [111 Stat. 1593](https://www.govinfo.gov/link/statute/111/1593), 1595.)*

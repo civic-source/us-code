@@ -3,9 +3,10 @@ title: "Section 5363 - Funding agreements"
 usc_title: 25
 usc_section: "5363"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 5363"
-generated_at: "2026-03-30T02:54:52.868Z"
+generated_at: "2026-11-23T20:26:25.738Z"
+status: "active"
 ---
 
 # § 5363. Funding agreements
@@ -71,3 +72,7 @@ generated_at: "2026-03-30T02:54:52.868Z"
     - **(A)** to retain its existing funding agreement (in whole or in part) to the extent that the provisions of that funding agreement are not directly contrary to any express provision of this subchapter; or
     - **(B)** to negotiate a new funding agreement in a manner consistent with this subchapter.
   - **(4)** An Indian Tribe may, at the discretion of the Indian Tribe, negotiate with the Secretary for a funding agreement with a term that exceeds 1 year.
+
+## Source Credit
+
+*([Pub. L. 93–638, title IV, § 403](https://www.govinfo.gov/link/plaw/93/public/638), as added [Pub. L. 103–413, title II, § 204](https://www.govinfo.gov/link/plaw/103/public/413), Oct. 25, 1994, [108 Stat. 4272](https://www.govinfo.gov/link/statute/108/4272); amended [Pub. L. 104–109, § 19](https://www.govinfo.gov/link/plaw/104/public/109), Feb. 12, 1996, [110 Stat. 766](https://www.govinfo.gov/link/statute/110/766); [Pub. L. 105–244, title IX, § 901(d)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1828](https://www.govinfo.gov/link/statute/112/1828); [Pub. L. 106–568, title VIII, § 812(b)](https://www.govinfo.gov/link/plaw/106/public/568), Dec. 27, 2000, [114 Stat. 2917](https://www.govinfo.gov/link/statute/114/2917); [Pub. L. 110–315, title IX, § 941(k)(2)(H)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3467](https://www.govinfo.gov/link/statute/122/3467); [Pub. L. 116–180, title I, § 101(d)](https://www.govinfo.gov/link/plaw/116/public/180), Oct. 21, 2020, [134 Stat. 862](https://www.govinfo.gov/link/statute/134/862); [Pub. L. 116–260, div. DD, § 13(a)(3)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3033](https://www.govinfo.gov/link/statute/134/3033).)*

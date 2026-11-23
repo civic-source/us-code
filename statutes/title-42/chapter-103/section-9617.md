@@ -3,9 +3,10 @@ title: "Section 9617 - Public participation"
 usc_title: 42
 usc_section: "9617"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9617"
-generated_at: "2026-03-30T02:56:11.359Z"
+generated_at: "2026-11-23T20:27:23.112Z"
+status: "active"
 ---
 
 # § 9617. Public participation
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.359Z"
 - **(e)**
   - **(1)** Subject to such amounts as are provided in appropriations Acts and in accordance with rules promulgated by the President, the President may make grants available to any group of individuals which may be affected by a release or threatened release at any facility which is listed on the National Priorities List under the National Contingency Plan. Such grants may be used to obtain technical assistance in interpreting information with regard to the nature of the hazard, remedial investigation and feasibility study, record of decision, remedial design, selection and construction of remedial action, operation and maintenance, or removal action at such facility.
   - **(2)** The amount of any grant under this subsection may not exceed $50,000 for a single grant recipient. The President may waive the $50,000 limitation in any case where such waiver is necessary to carry out the purposes of this subsection. Each grant recipient shall be required, as a condition of the grant, to contribute at least 20 percent of the total of costs of the technical assistance for which such grant is made. The President may waive the 20 percent contribution requirement if the grant recipient demonstrates financial need and such waiver is necessary to facilitate public participation in the selection of remedial action at the facility. Not more than one grant may be made under this subsection with respect to a single facility, but the grant may be renewed to facilitate public participation at all stages of remedial action.
+
+## Source Credit
+
+*([Pub. L. 96–510, title I, § 117](https://www.govinfo.gov/link/plaw/96/public/510), as added [Pub. L. 99–499, title I, § 117](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1654](https://www.govinfo.gov/link/statute/100/1654).)*

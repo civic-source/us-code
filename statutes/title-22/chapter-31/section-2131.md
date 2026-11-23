@@ -3,9 +3,10 @@ title: "Section 2131 - Travel Promotion Act of 2009"
 usc_title: 22
 usc_section: "2131"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2131"
-generated_at: "2026-03-30T02:55:05.343Z"
+generated_at: "2026-11-23T20:26:32.157Z"
+status: "active"
 ---
 
 # § 2131. Travel Promotion Act of 2009
@@ -120,3 +121,7 @@ generated_at: "2026-03-30T02:55:05.343Z"
   - **(1)** establish a competitive procurement process; and
   - **(2)** certify in its annual report to Congress under subsection (c)(3) that any contracts entered into were in compliance with the established competitive procurement process.
 - **(h)**
+
+## Source Credit
+
+*([Pub. L. 111–145, § 9](https://www.govinfo.gov/link/plaw/111/public/145), Mar. 4, 2010, [124 Stat. 56](https://www.govinfo.gov/link/statute/124/56); [Pub. L. 111–198, § 5(b)](https://www.govinfo.gov/link/plaw/111/public/198), July 2, 2010, [124 Stat. 1357](https://www.govinfo.gov/link/statute/124/1357); [Pub. L. 113–235, div. B, title VI](https://www.govinfo.gov/link/plaw/113/public/235), §§ 602–605(a), 606, 607, Dec. 16, 2014, [128 Stat. 2218–2220](https://www.govinfo.gov/link/statute/128/2218); [Pub. L. 116–94, div. I, title VIII](https://www.govinfo.gov/link/plaw/116/public/94), §§ 802–804, Dec. 20, 2019, [133 Stat. 3028](https://www.govinfo.gov/link/statute/133/3028), 3029; [Pub. L. 119–21, title IV, § 40009](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 136](https://www.govinfo.gov/link/statute/139/136).)*

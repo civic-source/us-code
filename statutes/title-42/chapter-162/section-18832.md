@@ -3,9 +3,10 @@ title: "Section 18832 - Energy efficiency materials pilot program"
 usc_title: 42
 usc_section: "18832"
 chapter: 162
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18832"
-generated_at: "2026-03-30T02:56:11.532Z"
+generated_at: "2026-11-23T20:27:23.834Z"
+status: "active"
 ---
 
 # § 18832. Energy efficiency materials pilot program
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:11.532Z"
     - **(D)** the financial need of the applicant.
   - **(4)** Each grant awarded under this section shall not exceed $200,000.
 - **(d)** There is authorized to be appropriated to the Secretary to carry out this section $50,000,000 for the period of fiscal years 2022 through 2026, to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title V, § 40542](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1074](https://www.govinfo.gov/link/statute/135/1074).)*

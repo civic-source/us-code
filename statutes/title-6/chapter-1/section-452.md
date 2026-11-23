@@ -3,9 +3,10 @@ title: "Section 452 - Reorganization"
 usc_title: 6
 usc_section: "452"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 452"
-generated_at: "2026-03-30T02:53:09.464Z"
+generated_at: "2026-11-23T20:25:34.744Z"
+status: "active"
 ---
 
 # § 452. Reorganization
@@ -16,3 +17,15 @@ generated_at: "2026-03-30T02:53:09.464Z"
 - **(b)**
   - **(1)** Authority under subsection (a)(1) does not extend to the abolition of any agency, entity, organizational unit, program, or function established or required to be maintained by this chapter.
   - **(2)** Authority under subsection (a)(2) does not extend to the abolition of any agency, entity, organizational unit, program, or function established or required to be maintained by statute.
+
+Office of Biometric Identity Management
+
+Federal Protective Service.—
+
+In general
+
+Exception
+
+## Source Credit
+
+*([Pub. L. 107–296, title VIII, § 872](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2243](https://www.govinfo.gov/link/statute/116/2243).)*

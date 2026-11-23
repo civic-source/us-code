@@ -3,9 +3,10 @@ title: "Section 60501 - Vessels allowed to import"
 usc_title: 46
 usc_section: "60501"
 chapter: 605
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 60501"
-generated_at: "2026-03-30T02:56:15.584Z"
+generated_at: "2026-11-23T20:27:27.424Z"
+status: "active"
 ---
 
 # § 60501. Vessels allowed to import
@@ -20,3 +21,47 @@ generated_at: "2026-03-30T02:56:15.584Z"
   - **(1)** is owned only by citizens of the United States; and
   - **(2)** after entering a port of the United States, becomes documented as a vessel of the United States before leaving that port.
 - **(d)** If goods are imported in violation of this section, the goods and the vessel in which they are imported, along with its equipment and other cargo, may be seized by and forfeited to the United States Government.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 60501(a) | 19:130 (1st sentence). | Oct. 3, 1913, ch. 16 , § IV(J)(2), (3), 38 Stat. 196 ; Mar. 15, 1915, ch. 171, § 1 , 38 Stat. 1193 ; Pub. L. 103–182, title VI, § 689(a)(2) , Dec. 8, 1993 , 107 Stat. 2222 . |
+| 60501(b) | 19:131 (words before “nor”). |  |
+| 60501(c) | 19:131 (words beginning with “nor”). |  |
+| 60501(d) | 19:130 (last sentence related to 19:130). |  |
+
+
+In General
+
+Exception for Vessels of Countries Not Maintaining Similar Restrictions
+
+Exception for Vessels Becoming Documented
+
+Seizure and Forfeiture
+
+Historical and Revision Notes
+
+60501(a)
+
+Oct. 3, 1913, ch. 16
+
+38 Stat. 196
+
+Mar. 15, 1915, ch. 171, § 1
+
+38 Stat. 1193
+
+Pub. L. 103–182, title VI, § 689(a)(2)
+
+Dec. 8, 1993
+
+107 Stat. 2222
+
+60501(b)
+
+60501(c)
+
+60501(d)
+
+## Source Credit
+
+*([Pub. L. 109–304, § 9(b)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1679](https://www.govinfo.gov/link/statute/120/1679).)*

@@ -3,9 +3,10 @@ title: "Section 2701 - Definitions"
 usc_title: 33
 usc_section: "2701"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2701"
-generated_at: "2026-03-30T02:55:41.129Z"
+generated_at: "2026-11-23T20:26:54.209Z"
+status: "active"
 ---
 
 # § 2701. Definitions
@@ -105,3 +106,25 @@ For the purposes of this Act, the term—
   - **(42)** “lender” has the meaning provided in section 101(20)(H)(iv) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ( 42 U.S.C. 9601(20)(G)(iv) ); 1
   - **(43)** “operational function” has the meaning provided in section 101(20)(H)(v) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ( 42 U.S.C. 9601(20)(G)(v) ); 1 and
   - **(44)** “security interest” has the meaning provided in ection 101(20)(H)(vi) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ( 42 U.S.C. 9601(20)(G)(vi) ). 1
+
+(aa) for the overall management of the vessel or facility encompassing day-to-day decision making with respect to environmental compliance; or
+
+(bb) over all or substantially all of the operational functions (as distinguished from financial or administrative functions) of the vessel or facility other than the function of environmental compliance; and
+
+Vessels
+
+Onshore facilities
+
+Offshore facilities
+
+Foreign facilities
+
+Deepwater ports
+
+Pipelines
+
+Abandonment
+
+## Source Credit
+
+*([Pub. L. 101–380, title I, § 1001](https://www.govinfo.gov/link/plaw/101/public/380), Aug. 18, 1990, [104 Stat. 486](https://www.govinfo.gov/link/statute/104/486); [Pub. L. 105–383, title III, § 307(a)](https://www.govinfo.gov/link/plaw/105/public/383), Nov. 13, 1998, [112 Stat. 3421](https://www.govinfo.gov/link/statute/112/3421); [Pub. L. 108–293, title VII, § 703(a)](https://www.govinfo.gov/link/plaw/108/public/293), (b), Aug. 9, 2004, [118 Stat. 1069](https://www.govinfo.gov/link/statute/118/1069), 1071; [Pub. L. 111–281, title VII, § 713](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2988](https://www.govinfo.gov/link/statute/124/2988); [Pub. L. 115–91, div. C, title XXXV, § 3508(b)(1)(A)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1915](https://www.govinfo.gov/link/statute/131/1915); [Pub. L. 115–232, div. C, title XXXV, § 3544(d)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2325](https://www.govinfo.gov/link/statute/132/2325); [Pub. L. 119–60, div. G, title LXXVII, § 7701(g)(1)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1836](https://www.govinfo.gov/link/statute/139/1836).)*

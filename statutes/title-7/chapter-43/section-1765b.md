@@ -3,9 +3,10 @@ title: "Section 1765b - Functions"
 usc_title: 7
 usc_section: "1765b"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1765b"
-generated_at: "2026-03-30T02:53:42.342Z"
+generated_at: "2026-11-23T20:25:41.303Z"
+status: "active"
 ---
 
 # § 1765b. Functions
@@ -22,3 +23,7 @@ The functions of each United States Agricultural Trade Office shall be to—
   - **(8)** supervise project agreements with United States cooperators, coordinate the activities of the United States Agricultural Trade Office with those of the cooperators, and submit annual recommendations to the Secretary of Agriculture on the efficacy of cooperator programs;
   - **(9)** publicize the services offered by the United States Agricultural Trade Office through advertisements in trade journals or by other appropriate means; and
   - **(10)** perform such other functions as the Secretary of Agriculture, in consultation with the Secretary of State, determines to be necessary and proper for achieving the purposes of this subchapter.
+
+## Source Credit
+
+*(Aug. 28, 1954, ch. 1041, title VI, § 605B, as added [Pub. L. 95–501, title IV, § 401(1)](https://www.govinfo.gov/link/plaw/95/public/501), Oct. 21, 1978, [92 Stat. 1689](https://www.govinfo.gov/link/statute/92/1689); amended [Pub. L. 110–246, title III, § 3001(b)(1)(A)](https://www.govinfo.gov/link/plaw/110/public/246), (2)(H), June 18, 2008, [122 Stat. 1820](https://www.govinfo.gov/link/statute/122/1820).)*

@@ -3,9 +3,10 @@ title: "Section 1218 - Discharge or release from active duty: claims for compens
 usc_title: 10
 usc_section: "1218"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1218"
-generated_at: "2026-03-30T02:53:38.116Z"
+generated_at: "2026-11-23T20:25:51.297Z"
+status: "active"
 ---
 
 # § 1218. Discharge or release from active duty: claims for compensation, pension, or hospitalization
@@ -24,3 +25,9 @@ generated_at: "2026-03-30T02:53:38.116Z"
     - **(B)** Upon a request under subparagraph (A), a member described in paragraph (1) shall only be released from active duty after the member receives counseling about the consequences of termination of active duty.
     - **(C)** Each release from active duty under subparagraph (B) shall be thoroughly documented.
   - **(3)** The requirements in paragraph (1) shall expire on October 28, 2014 .
+
+Act
+
+## Source Credit
+
+*(Added [Pub. L. 85–56, title XXII, § 2201(31)(A)](https://www.govinfo.gov/link/plaw/85/public/56), June 17, 1957, [71 Stat. 160](https://www.govinfo.gov/link/statute/71/160); amended [Pub. L. 87–651, title I, § 107(c)](https://www.govinfo.gov/link/plaw/87/public/651), Sept. 7, 1962, [76 Stat. 508](https://www.govinfo.gov/link/statute/76/508); [Pub. L. 101–189, div. A, title XVI, § 1621(a)(1)](https://www.govinfo.gov/link/plaw/101/public/189), (4), Nov. 29, 1989, [103 Stat. 1602](https://www.govinfo.gov/link/statute/103/1602), 1603; [Pub. L. 111–84, div. A, title V, § 511](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2280](https://www.govinfo.gov/link/statute/123/2280); [Pub. L. 113–291, div. A, title X, § 1071(e)(1)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3509](https://www.govinfo.gov/link/statute/128/3509); [Pub. L. 114–328, div. A, title VI, § 618(c)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2160](https://www.govinfo.gov/link/statute/130/2160).)*

@@ -3,9 +3,10 @@ title: "Section 360nn - Inspection, records, and reports"
 usc_title: 21
 usc_section: "360nn"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 360nn"
-generated_at: "2026-03-30T02:54:54.254Z"
+generated_at: "2026-11-23T20:26:27.665Z"
+status: "active"
 ---
 
 # § 360nn. Inspection, records, and reports
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:54.254Z"
 - **(d)** Accident and investigation reports made under this part by any officer, employee, or agent of the Secretary shall be available for use in any civil, criminal, or other judicial proceeding arising out of such accident. Any such officer, employee, or agent may be required to testify in such proceedings as to the facts developed in such investigations. Any such report shall be made available to the public in a manner which need not identify individuals. All reports on research projects, demonstration projects, and other related activities shall be public information.
 - **(e)** The Secretary or his representative shall not disclose any information reported to or otherwise obtained by him, pursuant to subsection (a) or (b) of this section, which concerns any information which contains or relates to a trade secret or other matter referred to in section 1905 of title 18 , except that such information may be disclosed to other officers or employees of the Department and of other agencies concerned with carrying out this part or when relevant in any proceeding under this part. Nothing in this section shall authorize the withholding of information by the Secretary, or by any officers or employees under his control, from the duly authorized committees of the Congress.
 - **(f)** The Secretary may by regulation (1) require dealers and distributors of electronic products, to which there are applicable standards prescribed under this part and the retail prices of which is not less than $50, to furnish manufacturers of such products such information as may be necessary to identify and locate, for purposes of section 360 ll of this title, the first purchasers of such products for purposes other than resale, and (2) require manufacturers to preserve such information. Any regulation establishing a requirement pursuant to clause (1) of the preceding sentence shall (A) authorize such dealers and distributors to elect, in lieu of immediately furnishing such information to the manufacturer, to hold and preserve such information until advised by the manufacturer or Secretary that such information is needed by the manufacturer for purposes of section 360 ll of this title, and (B) provide that the dealer or distributor shall, upon making such election, give prompt notice of such election (together with information identifying the notifier and the product) to the manufacturer and shall, when advised by the manufacturer or Secretary, of the need therefor for the purposes of section 360 ll of this title, immediately furnish the manufacturer with the required information. If a dealer or distributor discontinues the dealing in or distribution of electronic products, he shall turn the information over to the manufacturer. Any manufacturer receiving information pursuant to this subsection concerning first purchasers of products for purposes other than resale shall treat it as confidential and may use it only if necessary for the purpose of notifying persons pursuant to section 360 ll (a) of this title.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 537, formerly act July 1, 1944, ch. 373, title III, § 537, formerly § 360A, as added [Pub. L. 90–602, § 2(3)](https://www.govinfo.gov/link/plaw/90/public/602), Oct. 18, 1968, [82 Stat. 1182](https://www.govinfo.gov/link/statute/82/1182); renumbered § 537 and amended [Pub. L. 101–629, § 19(a)(1)(B)](https://www.govinfo.gov/link/plaw/101/public/629), (2)(E), (3), (4), Nov. 28, 1990, [104 Stat. 4529](https://www.govinfo.gov/link/statute/104/4529), 4530; [Pub. L. 103–80, § 4(a)(2)](https://www.govinfo.gov/link/plaw/103/public/80), Aug. 13, 1993, [107 Stat. 779](https://www.govinfo.gov/link/statute/107/779).)*

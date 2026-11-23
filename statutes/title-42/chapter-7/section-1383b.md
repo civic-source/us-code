@@ -3,9 +3,10 @@ title: "Section 1383b - Administration"
 usc_title: 42
 usc_section: "1383b"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1383b"
-generated_at: "2026-03-30T02:56:10.932Z"
+generated_at: "2026-11-23T20:27:21.079Z"
+status: "active"
 ---
 
 # § 1383b. Administration
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:10.932Z"
       - **(ii)** at least 40 percent of all such determinations that are made in fiscal year 2007; and
       - **(iii)** at least 50 percent of all such determinations that are made in fiscal year 2008 or thereafter.
     - **(B)** In carrying out subparagraph (A), the Commissioner of Social Security shall, to the extent feasible, select for review the determinations which the Commissioner of Social Security identifies as being the most likely to be incorrect.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVI, § 1633, as added [Pub. L. 92–603, title III, § 301](https://www.govinfo.gov/link/plaw/92/public/603), Oct. 30, 1972, [86 Stat. 1478](https://www.govinfo.gov/link/statute/86/1478); amended [Pub. L. 93–66, title II, § 214](https://www.govinfo.gov/link/plaw/93/public/66), July 9, 1973, [87 Stat. 158](https://www.govinfo.gov/link/statute/87/158); [Pub. L. 98–460, § 6(b)](https://www.govinfo.gov/link/plaw/98/public/460), Oct. 9, 1984, [98 Stat. 1802](https://www.govinfo.gov/link/statute/98/1802); [Pub. L. 103–296, title I, § 107(a)(4)](https://www.govinfo.gov/link/plaw/103/public/296), title II, § 203(a), Aug. 15, 1994, [108 Stat. 1478](https://www.govinfo.gov/link/statute/108/1478), 1508; [Pub. L. 106–170, title I, § 101(b)(2)(D)](https://www.govinfo.gov/link/plaw/106/public/170), Dec. 17, 1999, [113 Stat. 1874](https://www.govinfo.gov/link/statute/113/1874); [Pub. L. 109–171, title VII, § 7501](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 154](https://www.govinfo.gov/link/statute/120/154).)*

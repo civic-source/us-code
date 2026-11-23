@@ -3,9 +3,10 @@ title: "Section 2025 - Effect of employment on retirement, insurance, and other 
 usc_title: 22
 usc_section: "2025"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2025"
-generated_at: "2026-03-30T02:55:05.341Z"
+generated_at: "2026-11-23T20:26:32.153Z"
+status: "active"
 ---
 
 # § 2025. Effect of employment on retirement, insurance, and other civil service rights and privileges
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:05.341Z"
 - **(a)** Notwithstanding any other provision of law, Executive order or regulation, a Federal employee who, with the approval of the Federal agency or the head of the department by which he is employed, leaves his position to enter the employ of the Agency shall not be considered for the purposes of subchapter III of chapter 83 of title 5, and chapter 87 of title 5, as separated from his Federal position during such employment with the Agency but not to extend beyond the first three consecutive years of his entering the employ of the Agency: Provided , (1) That he shall pay to the Director of the Office of Personnel Management within ninety days from the date he is separated without prejudice from the Agency all necessary deductions and agency contributions for coverage under subchapter III of chapter 83 of title 5 for the period of his employment by the Agency, and (2) That all deductions and agency contributions necessary for continued coverage under chapter 87 of title 5, shall be made during the term of his employment with the International Atomic Energy Agency. If such employee, within three years from the date of his employment with the Agency, and within ninety days from the date he is separated without prejudice from the Agency, applies to be restored to his Federal position, he shall within thirty days of such application be restored to such position or to a position of like seniority, status and pay.
 - **(b)** Notwithstanding any other provision of law, Executive order or regulation, any Presidential appointee or elected officer who leaves his position to enter, or who within ninety days after the termination of his position enters, the employ of the Agency, shall be entitled to the coverage and benefits of subchapter III of chapter 83 of title 5, and chapter 87 of title 5, but not beyond the earlier of either the termination of his employment with the Agency or the expiration of three years from the date he entered employment with the Agency: Provided , (1) That he shall pay to the Director of the Office of Personnel Management within ninety days from the date he is separated without prejudice from the Agency all necessary deductions and agency contributions for coverage under subchapter III of chapter 83 of title 5 for the period of his employment by the Agency, and (2) That all deductions and agency contributions necessary for continued coverage under chapter 87 of title 5, shall be made during the term of his employment with the Agency.
 - **(c)** The President is authorized to prescribe such regulations as may be necessary to carry out the provisions of this section and to protect the retirement, insurance and such other civil service rights and privileges as the President may find appropriate.
+
+## Source Credit
+
+*([Pub. L. 85–177, § 6](https://www.govinfo.gov/link/plaw/85/public/177), Aug. 28, 1957, [71 Stat. 454](https://www.govinfo.gov/link/statute/71/454); 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783](https://www.govinfo.gov/link/statute/92/3783).)*

@@ -3,9 +3,10 @@ title: "Section 2402 - Right to plant variety protection; plant varieties protec
 usc_title: 7
 usc_section: "2402"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2402"
-generated_at: "2026-03-30T02:53:42.387Z"
+generated_at: "2026-11-23T20:25:41.530Z"
+status: "active"
 ---
 
 # § 2402. Right to plant variety protection; plant varieties protectable
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:42.387Z"
   - **(2)**
     - **(A)** Except as provided in subparagraph (B), if 2 or more applicants comply with all requirements for protection on the same date, a certificate shall be issued for each variety.
     - **(B)** If the varieties that are the subject of the applications cannot be distinguished in any manner, a single certificate shall be issued jointly to the applicants.
+
+## Source Credit
+
+*([Pub. L. 91–577, title II, § 42](https://www.govinfo.gov/link/plaw/91/public/577), Dec. 24, 1970, [84 Stat. 1547](https://www.govinfo.gov/link/statute/84/1547); [Pub. L. 103–349, § 3](https://www.govinfo.gov/link/plaw/103/public/349), Oct. 6, 1994, [108 Stat. 3138](https://www.govinfo.gov/link/statute/108/3138); [Pub. L. 104–127, title IX, § 913(a)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1186](https://www.govinfo.gov/link/statute/110/1186); [Pub. L. 115–334, title X, § 10108(b)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4906](https://www.govinfo.gov/link/statute/132/4906).)*

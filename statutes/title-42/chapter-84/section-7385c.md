@@ -3,9 +3,10 @@ title: "Section 7385c - Exclusivity of remedy against the United States and agai
 usc_title: 42
 usc_section: "7385c"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7385c"
-generated_at: "2026-03-30T02:56:11.292Z"
+generated_at: "2026-11-23T20:27:22.824Z"
+status: "active"
 ---
 
 # § 7385c. Exclusivity of remedy against the United States and against contractors and subcontractors
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.292Z"
 - **(b)** This section applies to all cases filed on or after October 30, 2000 .
 - **(c)** This section does not apply to an administrative or judicial proceeding under a Federal or State workers’ compensation law.
 - **(d)** This section applies with respect to part E to the covered medical condition or covered illness or death of a covered DOE contractor employee on the same basis as it applies with respect to part B to the cancer (including a specified cancer), chronic silicosis, covered beryllium illness, or death of a covered employee.
+
+## Source Credit
+
+*([Pub. L. 106–398, § 1 [div. C, title XXXVI, § 3644]](https://www.govinfo.gov/link/plaw/106/public/398), Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–509; [Pub. L. 108–375, div. C, title XXXI, § 3162(d)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2186](https://www.govinfo.gov/link/statute/118/2186).)*

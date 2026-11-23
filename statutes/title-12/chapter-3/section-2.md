@@ -3,9 +3,10 @@ title: "Section 2 - Interbank liabilities"
 usc_title: 12
 usc_section: "2"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 2"
-generated_at: "2026-03-30T02:53:53.380Z"
+generated_at: "2026-11-23T20:25:58.749Z"
+status: "active"
 ---
 
 # § 371b–2. Interbank liabilities
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:53.380Z"
   - **(3)** For purposes of this section, any transaction by an insured depository institution with any person is a transaction with another depository institution to the extent that the proceeds of the transaction are used for the benefit of, or transferred to, that other depository institution.
 - **(d)** For purposes of this section, the term “insured depository institution” has the same meaning as in section 1813 of this title .
 - **(e)** The Board may issue such regulations and orders, including definitions consistent with this section, as may be necessary to administer and carry out the purpose of this section. The appropriate Federal banking agency shall enforce compliance with those regulations under section 1818 of this title .
+
+## Source Credit
+
+*(Dec. 23, 1913, ch. 6, § 23, as added [Pub. L. 102–242, title III, § 308(a)](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2362](https://www.govinfo.gov/link/statute/105/2362).)*

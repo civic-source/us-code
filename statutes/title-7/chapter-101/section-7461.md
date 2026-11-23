@@ -3,9 +3,10 @@ title: "Section 7461 - Findings and purposes"
 usc_title: 7
 usc_section: "7461"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7461"
-generated_at: "2026-03-30T02:53:42.453Z"
+generated_at: "2026-11-23T20:25:41.787Z"
+status: "active"
 ---
 
 # § 7461. Findings and purposes
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:42.453Z"
   - **(1)** to authorize the establishment of an orderly procedure for the development and financing (through an assessment) of an effective and coordinated program of research, promotion, and consumer information regarding kiwifruit;
   - **(2)** to use the program to strengthen the position of the kiwifruit industry in domestic and foreign markets and maintain, develop, and expand markets for kiwifruit; and
   - **(3)** to treat domestically produced kiwifruit and imported kiwifruit equitably.
+
+## Source Credit
+
+*([Pub. L. 104–127, title V, § 552](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1064](https://www.govinfo.gov/link/statute/110/1064).)*

@@ -3,9 +3,10 @@ title: "Section 4412 - Grants to the Endowment"
 usc_title: 22
 usc_section: "4412"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4412"
-generated_at: "2026-03-30T02:55:05.411Z"
+generated_at: "2026-11-23T20:26:32.537Z"
+status: "active"
 ---
 
 # § 4412. Grants to the Endowment
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.411Z"
   - **(1)** not less than $13,800,000 shall be for the Free Trade Union Institute; and
   - **(2)** not less than $2,500,000 shall be to support private enterprise development programs of the National Chamber Foundation.
 - **(f)** Nothing in this subchapter shall preclude the Endowment from making grants to independent labor unions.
+
+## Source Credit
+
+*([Pub. L. 98–164, title V, § 503](https://www.govinfo.gov/link/plaw/98/public/164), Nov. 22, 1983, [97 Stat. 1040](https://www.govinfo.gov/link/statute/97/1040); [Pub. L. 100–204, title II, § 212](https://www.govinfo.gov/link/plaw/100/public/204), Dec. 22, 1987, [101 Stat. 1376](https://www.govinfo.gov/link/statute/101/1376).)*

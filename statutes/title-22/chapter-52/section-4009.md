@@ -3,9 +3,10 @@ title: "Section 4009 - Retirement benefits"
 usc_title: 22
 usc_section: "4009"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4009"
-generated_at: "2026-03-30T02:55:05.401Z"
+generated_at: "2026-11-23T20:26:32.495Z"
+status: "active"
 ---
 
 # § 4009. Retirement benefits
@@ -19,3 +20,11 @@ generated_at: "2026-03-30T02:55:05.401Z"
   - **(1)** one-twelfth of a year’s salary at his or her then current salary rate for each year of service and proportionately for a fraction of a year, but not exceeding a total of one year’s salary at his or her then current salary rate, payable without interest from the Foreign Service Retirement and Disability Fund in 3 equal installments, such installments to be paid on January 1 of each of the first 3 calendar years beginning after the retirement of the member (except that in special cases, the Secretary of State may accelerate or combine such installments); and
   - **(2)**
     - **(A)** for those participants in the Foreign Service Retirement and Disability System, a refund as provided in section 4055 of this title of the contributions made by the member to the Foreign Service Retirement and Disability Fund, except that in lieu of such refund a member who has at least 5 years of service credit toward retirement under the Foreign Service Retirement and Disability System (excluding military and naval service) may elect to receive an annuity, computed under section 4046 of this title , commencing at age 60; and (B) for those participants in the Foreign Service Pension System, benefits as provided in section 4071 of this title .
+
+In general
+
+Exceptions
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 609](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2098](https://www.govinfo.gov/link/statute/94/2098); [Pub. L. 103–236, title I, § 181(a)(3)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 417](https://www.govinfo.gov/link/statute/108/417); [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. B, title XXIII, § 2312(a), Oct. 21, 1998, [112 Stat. 2681–827](https://www.govinfo.gov/link/statute/112/2681).)*

@@ -3,9 +3,10 @@ title: "Section 16536 - Protecting America’s Competitive Edge (PACE) graduate 
 usc_title: 42
 usc_section: "16536"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16536"
-generated_at: "2026-03-30T02:56:11.489Z"
+generated_at: "2026-11-23T20:27:23.699Z"
+status: "active"
 ---
 
 # § 16536. Protecting America’s Competitive Edge (PACE) graduate fellowship program
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:56:11.489Z"
   - **(4)** $20,600,000 for fiscal year 2011;
   - **(5)** $21,200,000 for fiscal year 2012; and
   - **(6)** $21,900,000 for fiscal year 2013.
+
+## Source Credit
+
+*([Pub. L. 110–69, title V, § 5009](https://www.govinfo.gov/link/plaw/110/public/69), Aug. 9, 2007, [121 Stat. 618](https://www.govinfo.gov/link/statute/121/618); [Pub. L. 111–358, title IX, § 902(d)](https://www.govinfo.gov/link/plaw/111/public/358), Jan. 4, 2011, [124 Stat. 4045](https://www.govinfo.gov/link/statute/124/4045).)*

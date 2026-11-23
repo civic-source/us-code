@@ -3,9 +3,10 @@ title: "Section 36c - National Suicide Prevention Lifeline program"
 usc_title: 42
 usc_section: "36c"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 36c"
-generated_at: "2026-03-30T02:56:10.763Z"
+generated_at: "2026-11-23T20:27:20.314Z"
+status: "active"
 ---
 
 # § 290bb–36c. National Suicide Prevention Lifeline program
@@ -48,3 +49,13 @@ generated_at: "2026-03-30T02:56:10.763Z"
       - **(ii)** The program’s network administrator receiving Federal funding pursuant to subsection (a) shall oversee the technology each crisis center employs in the provision of services as a participant in the program if such oversight responsibilities are established in the applicable network participation agreement.
     - **(B)** The cybersecurity incident reporting requirements under this subsection shall supplement, and not supplant, cybersecurity incident reporting requirements under other provisions of applicable Federal law that are in effect on December 1, 2025 .
 - **(g)** To carry out this section, there are authorized to be appropriated $101,621,000 for each of fiscal years 2023 through 2027.
+
+In general
+
+Report
+
+Definition
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title V, § 520E–3, as added [Pub. L. 114–255, div. B, title IX, § 9005](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1239](https://www.govinfo.gov/link/statute/130/1239); amended [Pub. L. 117–328, div. FF, title I, § 1103(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5637](https://www.govinfo.gov/link/statute/136/5637); [Pub. L. 119–44, title I, § 108(a)](https://www.govinfo.gov/link/plaw/119/public/44), (b), Dec. 1, 2025, [139 Stat. 675](https://www.govinfo.gov/link/statute/139/675), 676.)*

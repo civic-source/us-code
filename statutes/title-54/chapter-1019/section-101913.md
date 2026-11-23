@@ -3,9 +3,10 @@ title: "Section 101913 - Award of concession contracts"
 usc_title: 54
 usc_section: "101913"
 chapter: 1019
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "54 U.S.C. § 101913"
-generated_at: "2026-03-30T02:56:28.415Z"
+generated_at: "2026-11-23T20:27:38.021Z"
+status: "active"
 ---
 
 # § 101913. Award of concession contracts
@@ -72,3 +73,88 @@ In furtherance of the findings and policy stated in section 101912 of this title
     - **(B)** The Secretary may award a concession contract in extraordinary circumstances where compelling and equitable considerations require the award of a concession contract to a particular party in the public interest. Award of a concession contract under this subparagraph shall not be made by the Secretary until at least 30 days after—
       - **(i)** publication in the Federal Register of notice of the Secretary’s intention to award the contract and the reasons for the action; and
       - **(ii)** submission of notice to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 101913 | 16 U.S.C. 5952 (less (7)(C)). | Pub. L. 105–391, title IV, § 403 (less (7)(C)), Nov. 13, 1998 , 112 Stat. 3504 . |
+
+
+Competitive selection process
+
+Solicitation of proposals
+
+Information to be included in prospectus
+
+Consideration of proposals.—
+
+Minimum requirements
+
+Rejection of proposal
+
+All proposals fail to meet mimimum
+
+minimum
+
+requirements or are rejected
+
+Terms and conditions materially amended or not incorporated in contract
+
+Selection of the best proposal.—
+
+Factors in selection
+
+Secondary factors
+
+Development of regulations
+
+Congressional notification.—
+
+In general
+
+Waiting period
+
+Preferential right of renewal.—
+
+In general
+
+Exception
+
+Entitlement to award of new contract
+
+Outfitter and guide services and small contracts.—
+
+Application
+
+Outfitting and guide concessioners.—
+
+Description
+
+When entitled to preferential right
+
+Contract with estimated gross receipts of less than $500,000
+
+New or additional services
+
+Authority of secretary not limited
+
+Exceptions
+
+Temporary contract
+
+Contract in extraordinary circumstances
+
+Historical and Revision Notes
+
+101913
+
+16 U.S.C. 5952
+
+Pub. L. 105–391, title IV, § 403
+
+Nov. 13, 1998
+
+112 Stat. 3504
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3138](https://www.govinfo.gov/link/statute/128/3138); [Pub. L. 114–289, title V, § 502](https://www.govinfo.gov/link/plaw/114/public/289), Dec. 16, 2016, [130 Stat. 1490](https://www.govinfo.gov/link/statute/130/1490).)*

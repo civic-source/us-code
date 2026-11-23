@@ -3,9 +3,10 @@ title: "Section 1831n - Accounting objectives, standards, and requirements"
 usc_title: 12
 usc_section: "1831n"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1831n"
-generated_at: "2026-03-30T02:53:53.459Z"
+generated_at: "2026-11-23T20:25:59.169Z"
+status: "active"
 ---
 
 # § 1831n. Accounting objectives, standards, and requirements
@@ -32,3 +33,31 @@ generated_at: "2026-03-30T02:53:53.459Z"
   - **(1)** The Federal banking agencies shall jointly submit an annual report to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate containing a description of any difference between any accounting or capital standard used by any such agency and any accounting or capital standard used by any other agency.
   - **(2)** Each report submitted under paragraph (1) shall contain an explanation of the reasons for any discrepancy between any accounting or capital standard used by any such agency and any accounting or capital standard used by any other agency.
   - **(3)** Each report under this subsection shall be published in the Federal Register.
+
+Single Family Housing Loans.—
+
+percent risk-weighted classification.—
+
+“(a)[(A)] In general .— To provide consistent regulatory treatment of loans made for the construction of single family housing, not later than the expiration of the 120-day period beginning on the date of this Act [probably means date of enactment, Dec. 12, 1991 ] each Federal banking agency shall amend the regulations and guidelines of the agency establishing minimum acceptable capital levels to provide that any single family residence construction loan described under subparagraph (B) shall be considered as a loan within the 50 percent risk-weighted category.
+
+Requirements
+
+percent risk-weighted classification
+
+Multifamily Housing Loans.—
+
+percent risk-weighted classification.—
+
+In general
+
+Requirements
+
+Sale pursuant to pro rata loss sharing arrangements
+
+Sale pursuant to other arrangements for loss
+
+Appropriate Federal Banking Agency
+
+## Source Credit
+
+*(Sept. 21, 1950, ch. 967, § 2 [37], as added [Pub. L. 102–242, title I, § 121(a)](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2250](https://www.govinfo.gov/link/statute/105/2250); amended [Pub. L. 106–569, title XII](https://www.govinfo.gov/link/plaw/106/public/569), §§ 1221, 1223, Dec. 27, 2000, [114 Stat. 3036](https://www.govinfo.gov/link/statute/114/3036); [Pub. L. 109–173, § 8(a)(35)](https://www.govinfo.gov/link/plaw/109/public/173), Feb. 15, 2006, [119 Stat. 3615](https://www.govinfo.gov/link/statute/119/3615).)*

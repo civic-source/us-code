@@ -3,9 +3,10 @@ title: "Section 1513 - Impact on local governments"
 usc_title: 2
 usc_section: "1513"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1513"
-generated_at: "2026-03-30T02:53:04.814Z"
+generated_at: "2026-11-23T20:25:28.976Z"
+status: "active"
 ---
 
 # § 1513. Impact on local governments
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:04.814Z"
   - **(1)** the Federal Government should not shift certain costs to the State, and States should end the practice of shifting costs to local governments, which forces many local governments to increase property taxes;
   - **(2)** States should end the imposition, in the absence of full consideration by their legislatures, of State issued mandates on local governments without adequate State funding, in a manner that may displace other essential government priorities; and
   - **(3)** one primary objective of this chapter and other efforts to change the relationship among Federal, State, and local governments should be to reduce taxes and spending at all levels and to end the practice of shifting costs from one level of government to another with little or no benefit to taxpayers.
+
+## Source Credit
+
+*([Pub. L. 104–4, title I, § 106](https://www.govinfo.gov/link/plaw/104/public/4), Mar. 22, 1995, [109 Stat. 63](https://www.govinfo.gov/link/statute/109/63).)*

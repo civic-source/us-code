@@ -3,9 +3,10 @@ title: "Section 3198 - Program activities"
 usc_title: 29
 usc_section: "3198"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3198"
-generated_at: "2026-03-30T02:55:18.755Z"
+generated_at: "2026-11-23T20:26:38.111Z"
+status: "active"
 ---
 
 # § 3198. Program activities
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:18.755Z"
     - **(B)** for the most recently preceding 2 program years, such operator has, on average, met or exceeded the expected levels of performance under section 3209(c)(1) of this title for each of the primary indicators of performance for eligible youth described in section 3141(b)(2)(A)(ii) of this title .
 - **(d)** In order to promote the retention of graduates in employment or postsecondary education, the Secretary shall arrange for the provision of job placement and support services to graduates for up to 12 months after the date of graduation. Multiple resources, including one-stop partners, may support the provision of these services, including services from the State vocational rehabilitation agency, to supplement job placement and job development efforts for Job Corps graduates who are individuals with disabilities.
 - **(e)** The Secretary shall, to the extent practicable, provide child care at or near Job Corps centers, for individuals who require child care for their children in order to participate in the Job Corps.
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 148](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1547](https://www.govinfo.gov/link/statute/128/1547).)*

@@ -3,9 +3,10 @@ title: "Section 3192 - Definitions"
 usc_title: 29
 usc_section: "3192"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3192"
-generated_at: "2026-03-30T02:55:18.754Z"
+generated_at: "2026-11-23T20:26:38.108Z"
+status: "active"
 ---
 
 # § 3192. Definitions
@@ -24,3 +25,7 @@ In this part:
   - **(8)** The term “operator” means an entity selected under this part to operate a Job Corps center.
   - **(9)** The term “region” means an area defined by the Secretary.
   - **(10)** The term “service provider” means an entity selected under this part to provide services described in this part to a Job Corps center.
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 142](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1538](https://www.govinfo.gov/link/statute/128/1538).)*

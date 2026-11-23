@@ -3,9 +3,10 @@ title: "Section 2707 - Required terms and conditions in orders"
 usc_title: 7
 usc_section: "2707"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2707"
-generated_at: "2026-03-30T02:53:42.391Z"
+generated_at: "2026-11-23T20:25:41.546Z"
+status: "active"
 ---
 
 # § 2707. Required terms and conditions in orders
@@ -28,3 +29,7 @@ Orders issued pursuant to this chapter shall contain the following conditions:
 - **(h)** Providing that no funds collected by the Egg Board under the order shall in any manner be used for the purpose of influencing governmental policy or action, except as provided by subsection (a)(4) of this section.
 - **(i)** Providing that the Board members, and alternates therefor, shall serve without compensation, but shall be reimbursed for their reasonable expenses incurred in performing their duties as members of the Board.
 - **(j)** Providing that the total costs incurred by the Egg Board for a fiscal year in collecting producer assessments and having an administrative staff shall not exceed an amount of the projected total assessments to be collected by the Egg Board for such fiscal year that the Secretary determines to be reasonable.
+
+## Source Credit
+
+*([Pub. L. 93–428, § 8](https://www.govinfo.gov/link/plaw/93/public/428), Oct. 1, 1974, [88 Stat. 1174](https://www.govinfo.gov/link/statute/88/1174); [Pub. L. 96–276](https://www.govinfo.gov/link/plaw/96/public/276), §§ 2–4, June 17, 1980, [94 Stat. 541](https://www.govinfo.gov/link/statute/94/541); [Pub. L. 100–575, § 2](https://www.govinfo.gov/link/plaw/100/public/575), Oct. 31, 1988, [102 Stat. 2895](https://www.govinfo.gov/link/statute/102/2895); [Pub. L. 103–188](https://www.govinfo.gov/link/plaw/103/public/188), §§ 2(a), 3, Dec. 14, 1993, [107 Stat. 2256](https://www.govinfo.gov/link/statute/107/2256), 2257.)*

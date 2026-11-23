@@ -3,9 +3,10 @@ title: "Section 80506 - Delegation of authority"
 usc_title: 46
 usc_section: "80506"
 chapter: 805
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 80506"
-generated_at: "2026-03-30T02:56:15.589Z"
+generated_at: "2026-11-23T20:27:27.466Z"
+status: "active"
 ---
 
 # § 80506. Delegation of authority
@@ -24,3 +25,34 @@ generated_at: "2026-03-30T02:56:15.589Z"
   - **(2)** the duties and powers delegated; and
   - **(3)** the period of the delegation.
 - **(f)** The Secretary may revoke a delegation of authority under this section at any time.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 80506 | 46 App.:1503(c)(2), (d). | Pub. L. 95–208, § 4(c)(2) , (d), Dec. 13, 1977 , 91 Stat. 1477 . |
+
+
+In General
+
+Regulations
+
+Inspection of Records
+
+Penalties and Orders
+
+Publication
+
+Revocation
+
+Historical and Revision Notes
+
+80506
+
+Pub. L. 95–208, § 4(c)(2)
+
+Dec. 13, 1977
+
+91 Stat. 1477
+
+## Source Credit
+
+*([Pub. L. 109–304, § 11](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1696](https://www.govinfo.gov/link/statute/120/1696).)*

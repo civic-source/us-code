@@ -3,9 +3,10 @@ title: "Section 10111 - Consolidation of financial management systems of Office 
 usc_title: 34
 usc_section: "10111"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10111"
-generated_at: "2026-03-30T02:55:33.260Z"
+generated_at: "2026-11-23T20:26:50.429Z"
+status: "active"
 ---
 
 # § 10111. Consolidation of financial management systems of Office of Justice Programs
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:33.260Z"
   - **(2)** With respect to achieving compliance with the requirements of—
     - **(A)** subsection (a), the consolidation of operations shall be initiated not later than 90 days after January 5, 2006 ; and
     - **(B)** subsections (b) and (c), the consolidation of operations shall be initiated not later than September 30, 2006 , and shall be carried out by the Office of Administration, in consultation with the Chief Information Officer and the Office of Audit, Assessment, and Management.
+
+## Source Credit
+
+*([Pub. L. 109–162, title XI, § 1162](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3118](https://www.govinfo.gov/link/statute/119/3118).)*

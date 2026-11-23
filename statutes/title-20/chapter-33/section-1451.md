@@ -3,9 +3,10 @@ title: "Section 1451 - Purpose; definition of personnel; program authority"
 usc_title: 20
 usc_section: "1451"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1451"
-generated_at: "2026-03-30T02:54:48.167Z"
+generated_at: "2026-11-23T20:26:14.658Z"
+status: "active"
 ---
 
 # § 1451. Purpose; definition of personnel; program authority
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:54:48.167Z"
 - **(e)**
   - **(1)** Notwithstanding any other provision of this part, from funds appropriated under section 1455 of this title for each fiscal year, the Secretary shall reserve the amount that is necessary to make a continuation award to any State educational agency (at the request of the State educational agency) that received a multi-year award under this subchapter (as this subchapter was in effect on the day before December 3, 2004 ), to enable the State educational agency to carry out activities in accordance with the terms of the multi-year award.
   - **(2)** A State educational agency that receives a continuation award under paragraph (1) for any fiscal year may not receive any other award under this part for that fiscal year.
+
+## Source Credit
+
+*([Pub. L. 91–230, title VI, § 651](https://www.govinfo.gov/link/plaw/91/public/230), as added [Pub. L. 108–446, title I, § 101](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2765](https://www.govinfo.gov/link/statute/118/2765); amended [Pub. L. 114–95, title IX, § 9215(ss)(6)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2183](https://www.govinfo.gov/link/statute/129/2183).)*

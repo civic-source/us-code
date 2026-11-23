@@ -3,9 +3,10 @@ title: "Section 3523 - Authority to provide voluntary separation incentive payme
 usc_title: 5
 usc_section: "3523"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 3523"
-generated_at: "2026-03-30T02:52:56.006Z"
+generated_at: "2026-11-23T20:25:31.843Z"
+status: "active"
 ---
 
 # § 3523. Authority to provide voluntary separation incentive payments
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:52:56.006Z"
   - **(5)** shall not be a basis for payment, and shall not be included in the computation, of any other type of Government benefit;
   - **(6)** shall not be taken into account in determining the amount of any severance pay to which the employee may be entitled under section 5595, based on another other 1 1 So in original. separation; and
   - **(7)** shall be paid from appropriations or funds available for the payment of the basic pay of the employee.
+
+## Source Credit
+
+*(Added [Pub. L. 107–296, title XIII, § 1313(a)(1)(A)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2293](https://www.govinfo.gov/link/statute/116/2293).)*

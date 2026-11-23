@@ -3,9 +3,10 @@ title: "Section 4913 - Quiet communities, research, and public information"
 usc_title: 42
 usc_section: "4913"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4913"
-generated_at: "2026-03-30T02:56:11.210Z"
+generated_at: "2026-11-23T20:27:22.427Z"
+status: "active"
 ---
 
 # § 4913. Quiet communities, research, and public information
@@ -33,3 +34,7 @@ To promote the development of effective State and local noise control programs, 
 - **(e)** establish regional technical assistance centers which use the capabilities of university and private organizations to assist State and local noise control programs;
 - **(f)** provide technical assistance to State and local governments to facilitate their development and enforcement of noise control, including direct onsite assistance of agency or other personnel with technical expertise, and preparation of model State or local legislation for noise control; and
 - **(g)** provide for the maximum use in programs assisted under this section of senior citizens and persons eligible for participation in programs under the Older Americans Act [ 42 U.S.C. 3001 et seq.].
+
+## Source Credit
+
+*([Pub. L. 92–574, § 14](https://www.govinfo.gov/link/plaw/92/public/574), Oct. 27, 1972, [86 Stat. 1244](https://www.govinfo.gov/link/statute/86/1244); [Pub. L. 95–609, § 2](https://www.govinfo.gov/link/plaw/95/public/609), Nov. 8, 1978, [92 Stat. 3079](https://www.govinfo.gov/link/statute/92/3079).)*

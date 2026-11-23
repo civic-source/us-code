@@ -3,9 +3,10 @@ title: "Section 544n - Authorization of appropriations"
 usc_title: 16
 usc_section: "544n"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 544n"
-generated_at: "2026-03-30T02:54:22.873Z"
+generated_at: "2026-11-23T20:26:20.137Z"
+status: "active"
 ---
 
 # § 544n. Authorization of appropriations
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:22.873Z"
   - **(3)** For the purpose of preparing a program and restoring and reconstructing the Old Columbia River Scenic Highway, Oregon pursuant to section 544j of this title : $2,800,000.
   - **(4)** For the purpose of providing economic development grants pursuant to section 544i of this title : $5,000,000 for each State: Provided , That funds authorized to be appropriated pursuant to this paragraph shall be available for the acquisition of lands and interests therein pursuant to section 544h of this title if, at the expiration of three years, the States have failed to carry out their respective function pursuant to section 544c of this title .
 - **(c)** Funds appropriated under subsections (a)(2) and (b) shall not be made available for any county which does not have in effect a land use ordinance which has been found to be consistent by the Commission, and concurred on by the Secretary as consistent with the management plan pursuant to section 544f of this title .
+
+## Source Credit
+
+*([Pub. L. 99–663, § 16](https://www.govinfo.gov/link/plaw/99/public/663), Nov. 17, 1986, [100 Stat. 4300](https://www.govinfo.gov/link/statute/100/4300); [Pub. L. 113–287, § 5(d)(17)](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3265](https://www.govinfo.gov/link/statute/128/3265).)*

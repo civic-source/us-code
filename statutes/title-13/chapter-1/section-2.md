@@ -3,12 +3,17 @@ title: "Section 2 - Bureau of the Census"
 usc_title: 13
 usc_section: "2"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "13 U.S.C. § 2"
-generated_at: "2026-03-30T02:54:03.337Z"
+generated_at: "2026-11-23T20:25:53.896Z"
+status: "active"
 ---
 
 # § 2. Bureau of the Census
 
 The Bureau is continued as an agency within, and under the jurisdiction of, the Department of Commerce.
 
+
+## Source Credit
+
+*(Aug. 31, 1954, ch. 1158, [68 Stat. 1012](https://www.govinfo.gov/link/statute/68/1012).)*

@@ -3,9 +3,10 @@ title: "Section 1665b - Memoranda of agreement with the Department of the Interi
 usc_title: 25
 usc_section: "1665b"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1665b"
-generated_at: "2026-03-30T02:54:52.825Z"
+generated_at: "2026-11-23T20:26:25.516Z"
+status: "active"
 ---
 
 # § 1665b. Memoranda of agreement with the Department of the Interior
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:52.825Z"
   - **(2)** an assessment of the existing and needed resources necessary for the prevention of alcohol and substance abuse and the treatment of Indians affected by alcohol and substance abuse; and
   - **(3)** an estimate of the funding necessary to adequately support a program of prevention of alcohol and substance abuse and treatment of Indians affected by alcohol and substance abuse.
 - **(c)** Each memorandum of agreement entered into or renewed (and amendments or modifications thereto) under subsection (a) shall be published in the Federal Register. At the same time as publication in the Federal Register, the Secretary shall provide a copy of such memoranda, amendment, or modification to each Indian tribe, tribal organization, and urban Indian organization.
+
+## Source Credit
+
+*([Pub. L. 94–437, title VII, § 703](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

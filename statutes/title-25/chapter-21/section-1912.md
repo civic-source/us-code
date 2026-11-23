@@ -3,9 +3,10 @@ title: "Section 1912 - Pending court proceedings"
 usc_title: 25
 usc_section: "1912"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1912"
-generated_at: "2026-03-30T02:54:52.830Z"
+generated_at: "2026-11-23T20:26:25.551Z"
+status: "active"
 ---
 
 # § 1912. Pending court proceedings
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:52.830Z"
 - **(d)** Any party seeking to effect a foster care placement of, or termination of parental rights to, an Indian child under State law shall satisfy the court that active efforts have been made to provide remedial services and rehabilitative programs designed to prevent the breakup of the Indian family and that these efforts have proved unsuccessful.
 - **(e)** No foster care placement may be ordered in such proceeding in the absence of a determination, supported by clear and convincing evidence, including testimony of qualified expert witnesses, that the continued custody of the child by the parent or Indian custodian is likely to result in serious emotional or physical damage to the child.
 - **(f)** No termination of parental rights may be ordered in such proceeding in the absence of a determination, supported by evidence beyond a reasonable doubt, including testimony of qualified expert witnesses, that the continued custody of the child by the parent or Indian custodian is likely to result in serious emotional or physical damage to the child.
+
+## Source Credit
+
+*([Pub. L. 95–608, title I, § 102](https://www.govinfo.gov/link/plaw/95/public/608), Nov. 8, 1978, [92 Stat. 3071](https://www.govinfo.gov/link/statute/92/3071).)*

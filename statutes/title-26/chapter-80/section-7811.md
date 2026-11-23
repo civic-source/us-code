@@ -3,9 +3,10 @@ title: "Section 7811 - Taxpayer Assistance Orders"
 usc_title: 26
 usc_section: "7811"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 7811"
-generated_at: "2026-03-30T02:55:27.887Z"
+generated_at: "2026-11-23T20:26:46.853Z"
+status: "active"
 ---
 
 # § 7811. Taxpayer Assistance Orders
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:55:27.887Z"
 - **(e)** Nothing in this section shall prevent the National Taxpayer Advocate from taking any action in the absence of an application under subsection (a).
 - **(f)** For purposes of this section, the term “National Taxpayer Advocate” includes any designee of the National Taxpayer Advocate.
 - **(g)** Any order issued or action taken by the National Taxpayer Advocate pursuant to this section shall apply to persons performing services under a qualified tax collection contract (as defined in section 6306(b)) to the same extent and in the same manner as such order or action applies to the Secretary.
+
+## Source Credit
+
+*(Added [Pub. L. 100–647, title VI, § 6230(a)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3733](https://www.govinfo.gov/link/statute/102/3733); amended [Pub. L. 104–168, title I](https://www.govinfo.gov/link/plaw/104/public/168), §§ 101(b)(1), 102(a), (b), July 30, 1996, [110 Stat. 1455](https://www.govinfo.gov/link/statute/110/1455), 1456; [Pub. L. 105–206, title I, § 1102(c)](https://www.govinfo.gov/link/plaw/105/public/206), (d)(1)(C)–(G), (2), (3), July 22, 1998, [112 Stat. 703](https://www.govinfo.gov/link/statute/112/703), 704; [Pub. L. 106–554, § 1(a)(7) [title III, § 319(28), (29)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–648; [Pub. L. 108–357, title VIII, § 881(c)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1626](https://www.govinfo.gov/link/statute/118/1626).)*

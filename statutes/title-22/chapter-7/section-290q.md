@@ -3,9 +3,10 @@ title: "Section 290q - Organization of American States revitalization and reform
 usc_title: 22
 usc_section: "290q"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 290q"
-generated_at: "2026-03-30T02:55:05.326Z"
+generated_at: "2026-11-23T20:26:32.052Z"
+status: "active"
 ---
 
 # § 290q. Organization of American States revitalization and reform strategy
@@ -29,3 +30,23 @@ generated_at: "2026-03-30T02:55:05.326Z"
   - **(3)** analyzes the progress made by the OAS to adopt and effectively implement transparent and merit-based human resource standards and practices and transparent hiring, firing, and promotion standards and processes, including with respect to factors such as gender and national origin;
   - **(4)** analyzes the progress made by the OAS to adopt and effectively implement a practice of soliciting member quotas to be paid on a schedule that will improve the consistency of its operating budget; and
   - **(5)** analyzes the progress made by the OAS to review, streamline, and prioritize mandates to focus on core missions and make efficient and effective use of available funding.
+
+In General
+
+Expenses
+
+Sense of Congress
+
+Anti-corruption and Human Rights Promotion Strategy
+
+In General
+
+Briefings
+
+“Congress makes the following findings:
+
+“It is the policy of the United States—
+
+## Source Credit
+
+*([Pub. L. 113–41, § 5](https://www.govinfo.gov/link/plaw/113/public/41), Oct. 2, 2013, [127 Stat. 550](https://www.govinfo.gov/link/statute/127/550).)*

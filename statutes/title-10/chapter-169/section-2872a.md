@@ -3,9 +3,10 @@ title: "Section 2872a - Utilities and services"
 usc_title: 10
 usc_section: "2872a"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2872a"
-generated_at: "2026-03-30T02:53:38.181Z"
+generated_at: "2026-11-23T20:25:51.748Z"
+status: "active"
 ---
 
 # § 2872a. Utilities and services
@@ -32,3 +33,13 @@ generated_at: "2026-03-30T02:53:38.181Z"
     - **(A)** in the case of a cost paid using funds appropriated or otherwise made available before October 1, 2014 , be credited to the appropriation or working capital account from which the cost of furnishing utilities or services concerned was paid; or
     - **(B)** in the case of a cost paid using funds appropriated or otherwise made available on or after October 1, 2014 , be credited to the appropriation or working capital account currently available for the purpose of furnishing utilities or services under subsection (a).
   - **(3)** Amounts credited under paragraph (2) to an appropriation or account shall be merged with funds in such appropriation or account, and shall be available to the same extent, and subject to the same terms and conditions, as such funds.
+
+Authority To Furnish
+
+Covered Utilities and Services
+
+Reimbursement
+
+## Source Credit
+
+*(Added [Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2805(a)]](https://www.govinfo.gov/link/plaw/106/public/398), Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–414; amended [Pub. L. 107–314, div. B, title XXVIII, § 2802(a)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2703](https://www.govinfo.gov/link/statute/116/2703); [Pub. L. 113–66, div. B, title XXVIII, § 2804](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 1007](https://www.govinfo.gov/link/statute/127/1007); [Pub. L. 116–92, div. B, title XXX, § 3032](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1936](https://www.govinfo.gov/link/statute/133/1936).)*

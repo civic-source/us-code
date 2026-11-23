@@ -3,9 +3,10 @@ title: "Section 2357 - Managed aquifer recharge study and working group"
 usc_title: 33
 usc_section: "2357"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2357"
-generated_at: "2026-03-30T02:55:41.129Z"
+generated_at: "2026-11-23T20:26:54.205Z"
+status: "active"
 ---
 
 # § 2357. Managed aquifer recharge study and working group
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:55:41.129Z"
 - **(f)** In this section:
   - **(1)** The term “managed aquifer recharge” means the intentional banking and treatment of water in aquifers for storage and future use.
   - **(2)** The term “managed aquifer recharge project” means a project to incorporate managed aquifer recharge features into a water resources development project.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. H, title LXXXI, § 8108](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3700](https://www.govinfo.gov/link/statute/136/3700).)*

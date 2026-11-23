@@ -3,9 +3,10 @@ title: "Section 3862 - Requests for equitable adjustment or other relief"
 usc_title: 10
 usc_section: "3862"
 chapter: 281
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 3862"
-generated_at: "2026-03-30T02:53:38.199Z"
+generated_at: "2026-11-23T20:25:51.872Z"
+status: "active"
 ---
 
 # § 3862. Requests for equitable adjustment or other relief
@@ -21,3 +22,15 @@ generated_at: "2026-03-30T02:53:38.199Z"
   - **(1)** The term “simplified acquisition threshold” has the meaning given that term in section 134 of title 41 .
   - **(2)** The term “Changes clause” means the clause described in part 52.243–4 of the Federal Acquisition Regulation or any successor regulation.
   - **(3)** The term “covered clause” means any clause implementing the requirements of an Executive order issued by the President.
+
+Certification Requirement
+
+Restriction on Legislative Payment of Claims
+
+Treatment of Certain Clauses Implementing Executive Orders
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 103–355, title II, § 2301(a)](https://www.govinfo.gov/link/plaw/103/public/355), Oct. 13, 1994, [108 Stat. 3320](https://www.govinfo.gov/link/statute/108/3320), § 2410; amended [Pub. L. 111–350, § 5(b)(27)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3845](https://www.govinfo.gov/link/statute/124/3845); renumbered § 3862 and amended [Pub. L. 116–283, div. A, title XVIII](https://www.govinfo.gov/link/plaw/116/public/283), §§ 1836(b), 1883(b)(2), Jan. 1, 2021, [134 Stat. 4241](https://www.govinfo.gov/link/statute/134/4241), 4294; [Pub. L. 117–81, div. A, title XVII, § 1701(d)(6)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2136](https://www.govinfo.gov/link/statute/135/2136); [Pub. L. 117–263, div. A, title VIII, § 805(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2701](https://www.govinfo.gov/link/statute/136/2701).)*

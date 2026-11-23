@@ -3,9 +3,10 @@ title: "Section 5104C - Options following decision by agency of original jurisdi
 usc_title: 38
 usc_section: "5104C"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 5104C"
-generated_at: "2026-03-30T02:55:53.519Z"
+generated_at: "2026-11-23T20:27:01.945Z"
+status: "active"
 ---
 
 # § 5104C. Options following decision by agency of original jurisdiction
@@ -26,3 +27,11 @@ generated_at: "2026-03-30T02:55:53.519Z"
       - **(ii)** wish to withdraw the action before the higher-level review, supplemental claim, or notice of disagreement is adjudicated; and
       - **(iii)** in lieu of such action take a different action under paragraph (1).
 - **(b)** In any case in which the Secretary renders a decision on a claim and more than one year has passed since the date on which the agency of original jurisdiction issues a decision with respect to that claim, the claimant may file a supplemental claim under section 5108 of this title .
+
+Within One Year of Decision
+
+More Than One Year After Decision
+
+## Source Credit
+
+*(Added [Pub. L. 115–55, § 2(h)(1)](https://www.govinfo.gov/link/plaw/115/public/55), Aug. 23, 2017, [131 Stat. 1108](https://www.govinfo.gov/link/statute/131/1108).)*

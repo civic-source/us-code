@@ -3,9 +3,10 @@ title: "Section 3604 - Program to accelerate the procurement and fielding of inn
 usc_title: 10
 usc_section: "3604"
 chapter: 253
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 3604"
-generated_at: "2026-03-30T02:53:38.195Z"
+generated_at: "2026-11-23T20:25:51.842Z"
+status: "active"
 ---
 
 # § 3604. Program to accelerate the procurement and fielding of innovative technologies
@@ -35,3 +36,27 @@ generated_at: "2026-03-30T02:53:38.195Z"
     - **(C)** reporting to the congressional defense committees as required under subsection (e).
 - **(e)** Not later than March 1 and September 1 of each year beginning after the date of the enactment of this section, the Secretary of Defense shall submit to the congressional defense committees a report on the program established under this section.
 - **(f)** The Secretary of Defense shall notify the congressional defense committees within 30 days after funding has been provided for a proposal selected for an award under the program established under this section.
+
+Program
+
+Guidelines.—
+
+In general
+
+Contents
+
+Amount
+
+Data Collection.—
+
+Plan required before implementation
+
+Data collection required
+
+Biannual Report
+
+Congressional Notification
+
+## Source Credit
+
+*(Added [Pub. L. 118–159, div. A, title VIII, § 861(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1999](https://www.govinfo.gov/link/statute/138/1999); amended [Pub. L. 119–60, div. A, title VIII, § 813](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 952](https://www.govinfo.gov/link/statute/139/952).)*

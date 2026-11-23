@@ -3,9 +3,10 @@ title: "Section 4309 - Administrative enforcement"
 usc_title: 12
 usc_section: "4309"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4309"
-generated_at: "2026-03-30T02:53:53.504Z"
+generated_at: "2026-11-23T20:25:59.377Z"
+status: "active"
 ---
 
 # § 4309. Administrative enforcement
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:53.504Z"
   - **(1)** For purposes of the exercise by any agency referred to in subsection (a) of such agency’s powers under any Act referred to in such subsection, a violation of a requirement imposed under this chapter shall be deemed to be a violation of a requirement imposed under that Act.
   - **(2)** In addition to the powers of any agency referred to in subsection (a) under any provision of law specifically referred to in such subsection, each such agency may exercise, for purposes of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on such agency by law.
 - **(c)** The authority of the Bureau to issue regulations under this chapter does not impair the authority of any other agency referred to in subsection (a) to make rules regarding its own procedures in enforcing compliance with the requirements imposed under this chapter.
+
+## Source Credit
+
+*([Pub. L. 102–242, title II, § 270](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2339](https://www.govinfo.gov/link/statute/105/2339); [Pub. L. 102–550, title XVI, § 1604(e)(2)(I)](https://www.govinfo.gov/link/plaw/102/public/550) –(K), (3), (4), Oct. 28, 1992, [106 Stat. 4084](https://www.govinfo.gov/link/statute/106/4084); [Pub. L. 111–203, title X, § 1100B(1)](https://www.govinfo.gov/link/plaw/111/public/203), (2), July 21, 2010, [124 Stat. 2109](https://www.govinfo.gov/link/statute/124/2109), 2110.)*

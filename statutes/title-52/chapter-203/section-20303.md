@@ -3,9 +3,10 @@ title: "Section 20303 - Federal write-in absentee ballot in general elections fo
 usc_title: 52
 usc_section: "20303"
 chapter: 203
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "52 U.S.C. § 20303"
-generated_at: "2026-03-30T02:56:30.162Z"
+generated_at: "2026-11-23T20:27:36.963Z"
+status: "active"
 ---
 
 # § 20303. Federal write-in absentee ballot in general elections for Federal office for absent uniformed services voters and overseas voters
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:56:30.162Z"
 - **(g)** A State is not required to permit use of the Federal write-in absentee ballot, if, on and after August 28, 1986 , the State has in effect a law providing that—
   - **(1)** a State absentee ballot is required to be available to any voter described in section 20310(5)(A) of this title at least 90 days before the general, special, primary, or runoff election for Federal office involved; and
   - **(2)** a State absentee ballot is required to be available to any voter described in section 20310(5)(B) or (C) of this title, as soon as the official list of candidates in the general, special, primary, or runoff election for Federal office is complete.
+
+## Source Credit
+
+*([Pub. L. 99–410, title I, § 103](https://www.govinfo.gov/link/plaw/99/public/410), Aug. 28, 1986, [100 Stat. 925](https://www.govinfo.gov/link/statute/100/925); [Pub. L. 108–375, div. A, title V, § 566(c)](https://www.govinfo.gov/link/plaw/108/public/375), (d), Oct. 28, 2004, [118 Stat. 1919](https://www.govinfo.gov/link/statute/118/1919); [Pub. L. 111–84, div. A, title V](https://www.govinfo.gov/link/plaw/111/public/84), §§ 581(a)(1), (b), 582(b), Oct. 28, 2009, [123 Stat. 2326](https://www.govinfo.gov/link/statute/123/2326), 2327; [Pub. L. 111–383, div. A, title X, § 1075(d)(3)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4372](https://www.govinfo.gov/link/statute/124/4372).)*

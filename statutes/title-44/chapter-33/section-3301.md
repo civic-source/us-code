@@ -3,9 +3,10 @@ title: "Section 3301 - Definition of records"
 usc_title: 44
 usc_section: "3301"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "44 U.S.C. § 3301"
-generated_at: "2026-03-30T02:55:56.295Z"
+generated_at: "2026-11-23T20:27:03.818Z"
+status: "active"
 ---
 
 # § 3301. Definition of records
@@ -18,3 +19,15 @@ generated_at: "2026-03-30T02:55:56.295Z"
       - **(ii)** duplicate copies of records preserved only for convenience.
   - **(2)** For purposes of paragraph (1), the term “recorded information” includes all traditional forms of records, regardless of physical form or characteristics, including information created, manipulated, communicated, or stored in digital or electronic form.
 - **(b)** The Archivist’s determination whether recorded information, regardless of whether it exists in physical, digital, or electronic form, is a record as defined in subsection (a) shall be binding on all Federal agencies.
+
+Records Defined.—
+
+In general
+
+Recorded information defined
+
+Determination of Definition
+
+## Source Credit
+
+*([Pub. L. 90–620](https://www.govinfo.gov/link/plaw/90/public/620), Oct. 22, 1968, [82 Stat. 1299](https://www.govinfo.gov/link/statute/82/1299); [Pub. L. 94–575, § 4(c)(2)](https://www.govinfo.gov/link/plaw/94/public/575), Oct. 21, 1976, [90 Stat. 2727](https://www.govinfo.gov/link/statute/90/2727); [Pub. L. 113–187, § 5(a)](https://www.govinfo.gov/link/plaw/113/public/187), Nov. 26, 2014, [128 Stat. 2009](https://www.govinfo.gov/link/statute/128/2009).)*

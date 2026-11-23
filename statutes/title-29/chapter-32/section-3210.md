@@ -3,9 +3,10 @@ title: "Section 3210 - General provisions"
 usc_title: 29
 usc_section: "3210"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3210"
-generated_at: "2026-03-30T02:55:18.757Z"
+generated_at: "2026-11-23T20:26:38.113Z"
+status: "active"
 ---
 
 # § 3210. General provisions
@@ -19,3 +20,7 @@ The Secretary is authorized to—
     - **(B)** without regard to any other law (including regulation), for rent of buildings and space in buildings and for repair, alteration, and improvement of buildings and space in buildings rented by the Secretary, except that the Secretary shall not expend funds under the authority of this subparagraph—
       - **(i)** except when necessary to obtain an item, service, or facility, that is required in the proper administration of this part, and that otherwise could not be obtained, or could not be obtained in the quantity or quality needed, or at the time, in the form, or under the conditions in which the item, service, or facility is needed; and
       - **(ii)** prior to having given written notification to the Administrator of General Services (if the expenditure would affect an activity that otherwise would be under the jurisdiction of the General Services Administration) of the intention of the Secretary to make the expenditure, and the reasons and justifications for the expenditure.
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 160](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1558](https://www.govinfo.gov/link/statute/128/1558).)*

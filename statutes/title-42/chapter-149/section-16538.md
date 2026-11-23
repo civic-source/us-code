@@ -3,9 +3,10 @@ title: "Section 16538 - Advanced Research Projects Agency—Energy"
 usc_title: 42
 usc_section: "16538"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16538"
-generated_at: "2026-03-30T02:56:11.489Z"
+generated_at: "2026-11-23T20:27:23.700Z"
+status: "active"
 ---
 
 # § 16538. Advanced Research Projects Agency—Energy
@@ -128,3 +129,11 @@ generated_at: "2026-03-30T02:56:11.489Z"
     - **(A)** not more than 50 percent of the amount shall be used to carry out subsection (e)(3)(D);
     - **(B)** at least 5 percent of the amount shall be used for technology transfer and outreach activities, consistent with the goal described in subsection (c)(2)(C) and within the responsibilities of program directors described in subsection (g)(2)(B)(vii); and
     - **(C)** no funds may be used for construction of new buildings or facilities during the 5-year period beginning on August 9, 2007 .
+
+Annual report
+
+Strategic vision roadmap
+
+## Source Credit
+
+*([Pub. L. 110–69, title V, § 5012](https://www.govinfo.gov/link/plaw/110/public/69), Aug. 9, 2007, [121 Stat. 621](https://www.govinfo.gov/link/statute/121/621); [Pub. L. 111–358, title IX, § 904](https://www.govinfo.gov/link/plaw/111/public/358), Jan. 4, 2011, [124 Stat. 4045](https://www.govinfo.gov/link/statute/124/4045); [Pub. L. 115–246, title II, § 202](https://www.govinfo.gov/link/plaw/115/public/246), Sept. 28, 2018, [132 Stat. 3134](https://www.govinfo.gov/link/statute/132/3134); [Pub. L. 116–260, div. Z, title X, § 10001](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2609](https://www.govinfo.gov/link/statute/134/2609).)*

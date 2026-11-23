@@ -3,9 +3,10 @@ title: "Section 88 - Definitions"
 usc_title: 42
 usc_section: "88"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 88"
-generated_at: "2026-03-30T02:56:10.829Z"
+generated_at: "2026-11-23T20:27:20.631Z"
+status: "active"
 ---
 
 # § 300ff–88. Definitions
@@ -31,3 +32,7 @@ For purposes of this subchapter:
     - **(A)** The term “State” means each of the 50 States, the District of Columbia, and each of the territories.
     - **(B)** The term “territory” means each of American Samoa, Guam, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the Virgin Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, and Palau.
   - **(12)** The term “youth with HIV” means individuals who are 13 through 24 years old and who have HIV/AIDS.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXVI, § 2689, formerly § 2688, as added and amended [Pub. L. 109–415, title V, § 501](https://www.govinfo.gov/link/plaw/109/public/415), title VII, § 703, Dec. 19, 2006, [120 Stat. 2815](https://www.govinfo.gov/link/statute/120/2815), 2820; renumbered § 2689 and amended [Pub. L. 111–87](https://www.govinfo.gov/link/plaw/111/public/87), §§ 2(a)(1), (3)(A), 12(1), Oct. 30, 2009, [123 Stat. 2885](https://www.govinfo.gov/link/statute/123/2885), 2896.)*

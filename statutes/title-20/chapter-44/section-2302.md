@@ -3,9 +3,10 @@ title: "Section 2302 - Definitions"
 usc_title: 20
 usc_section: "2302"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 2302"
-generated_at: "2026-03-30T02:54:48.172Z"
+generated_at: "2026-11-23T20:26:14.688Z"
+status: "active"
 ---
 
 # § 2302. Definitions
@@ -197,3 +198,7 @@ Unless otherwise specified, in this chapter:
   - **(53)** The term “Tribal organization” has the meaning given the term “tribal organization” in section 4 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5304 ).
   - **(54)** The term “universal design for learning” has the meaning given the term in section 7801 of this title .
   - **(55)** The term “work-based learning” means sustained interactions with industry or community professionals in real workplace settings, to the extent practicable, or simulated environments at an educational institution that foster in-depth, firsthand engagement with the tasks required in a given career field, that are aligned to curriculum and instruction.
+
+## Source Credit
+
+*([Pub. L. 88–210, § 3](https://www.govinfo.gov/link/plaw/88/public/210), as added [Pub. L. 109–270, § 1(b)](https://www.govinfo.gov/link/plaw/109/public/270), Aug. 12, 2006, [120 Stat. 685](https://www.govinfo.gov/link/statute/120/685); amended [Pub. L. 110–315, title IX, § 941(k)(2)(D)(i)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3466](https://www.govinfo.gov/link/statute/122/3466); [Pub. L. 114–95, title IX, § 9215(n)(1)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2168](https://www.govinfo.gov/link/statute/129/2168); [Pub. L. 115–224, § 7](https://www.govinfo.gov/link/plaw/115/public/224), July 31, 2018, [132 Stat. 1565](https://www.govinfo.gov/link/statute/132/1565); [Pub. L. 116–6, div. H, title II, § 201(a)](https://www.govinfo.gov/link/plaw/116/public/6), Feb. 15, 2019, [133 Stat. 475](https://www.govinfo.gov/link/statute/133/475).)*

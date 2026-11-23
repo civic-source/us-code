@@ -3,9 +3,10 @@ title: "Section 1902 - Humane methods"
 usc_title: 7
 usc_section: "1902"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1902"
-generated_at: "2026-03-30T02:53:42.343Z"
+generated_at: "2026-11-23T20:25:41.310Z"
+status: "active"
 ---
 
 # § 1902. Humane methods
@@ -14,3 +15,7 @@ No method of slaughtering or handling in connection with slaughtering shall be d
 
 - **(a)** in the case of cattle, calves, horses, mules, sheep, swine, and other livestock, all animals are rendered insensible to pain by a single blow or gunshot or an electrical, chemical or other means that is rapid and effective, before being shackled, hoisted, thrown, cast, or cut; or
 - **(b)** by slaughtering in accordance with the ritual requirements of the Jewish faith or any other religious faith that prescribes a method of slaughter whereby the animal suffers loss of consciousness by anemia of the brain caused by the simultaneous and instantaneous severance of the carotid arteries with a sharp instrument and handling in connection with such slaughtering.
+
+## Source Credit
+
+*([Pub. L. 85–765, § 2](https://www.govinfo.gov/link/plaw/85/public/765), Aug. 27, 1958, [72 Stat. 862](https://www.govinfo.gov/link/statute/72/862); [Pub. L. 95–445, § 5(a)](https://www.govinfo.gov/link/plaw/95/public/445), Oct. 10, 1978, [92 Stat. 1069](https://www.govinfo.gov/link/statute/92/1069).)*

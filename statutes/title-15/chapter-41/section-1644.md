@@ -3,9 +3,10 @@ title: "Section 1644 - Fraudulent use of credit cards; penalties"
 usc_title: 15
 usc_section: "1644"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1644"
-generated_at: "2026-03-30T02:54:08.144Z"
+generated_at: "2026-11-23T20:26:04.057Z"
+status: "active"
 ---
 
 # § 1644. Fraudulent use of credit cards; penalties
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.144Z"
 - **(d)** Whoever knowingly receives, conceals, uses, or transports money, goods, services, or anything else of value (except tickets for interstate or foreign transportation) which (1) within any one-year period has a value aggregating $1,000 or more, (2) has moved in or is part of, or which constitutes interstate or foreign commerce, and (3) has been obtained with a counterfeit, fictitious, altered, forged, lost, stolen, or fraudulently obtained credit card; or
 - **(e)** Whoever knowingly receives, conceals, uses, sells, or transports in interstate or foreign commerce one or more tickets for interstate or foreign transportation, which (1) within any one-year period have a value aggregating $500 or more, and (2) have been purchased or obtained with one or more counterfeit, fictitious, altered, forged, lost, stolen, or fraudulently obtained credit cards; or
 - **(f)** Whoever in a transaction affecting interstate or foreign commerce furnishes money, property, services, or anything else of value, which within any one-year period has a value aggregating $1,000 or more, through the use of any counterfeit, fictitious, altered, forged, lost, stolen, or fraudulently obtained credit card knowing the same to be counterfeit, fictitious, altered, forged, lost, stolen, or fraudulently obtained— shall be fined not more than $10,000 or imprisoned not more than ten years, or both.
+
+## Source Credit
+
+*([Pub. L. 90–321, title I, § 134](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 91–508, title V, § 502(a)](https://www.govinfo.gov/link/plaw/91/public/508), Oct. 26, 1970, [84 Stat. 1127](https://www.govinfo.gov/link/statute/84/1127); amended [Pub. L. 93–495, title IV, § 414](https://www.govinfo.gov/link/plaw/93/public/495), Oct. 28, 1974, [88 Stat. 1520](https://www.govinfo.gov/link/statute/88/1520).)*

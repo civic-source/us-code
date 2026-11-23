@@ -3,12 +3,17 @@ title: "Section 601 - Interstate Commerce Commission and Postmaster General; dut
 usc_title: 47
 usc_section: "601"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 601"
-generated_at: "2026-03-30T02:56:24.521Z"
+generated_at: "2026-11-23T20:27:28.937Z"
+status: "active"
 ---
 
 # § 601. Interstate Commerce Commission and Postmaster General; duties, powers, and functions transferred to Commission
 
 - **(a)** All duties, powers, and functions of the Interstate Commerce Commission under sections 9 to 15 of this title, relating to operation of telegraph lines by railroad and telegraph companies granted Government aid in the construction of their lines, are imposed upon and vested in the Commission: Provided , That such transfer of duties, powers, and functions shall not be construed to affect the duties, powers, functions, or jurisdiction of the Interstate Commerce Commission under, or to interfere with or prevent the enforcement of, subtitle IV of title 49.
 - **(b)** All duties, powers, and functions of the Postmaster General with respect to telegraph companies and telegraph lines under any existing provision of law are imposed upon and vested in the Commission.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title VII, § 701, formerly title VI, § 601, [48 Stat. 1101](https://www.govinfo.gov/link/statute/48/1101); renumbered title VII, § 701, [Pub. L. 98–549, § 6(a)](https://www.govinfo.gov/link/plaw/98/public/549), Oct. 30, 1984, [98 Stat. 2804](https://www.govinfo.gov/link/statute/98/2804).)*

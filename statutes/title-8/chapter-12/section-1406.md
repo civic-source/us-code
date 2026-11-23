@@ -3,9 +3,10 @@ title: "Section 1406 - Persons living in and born in the Virgin Islands"
 usc_title: 8
 usc_section: "1406"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1406"
-generated_at: "2026-03-30T02:53:10.500Z"
+generated_at: "2026-11-23T20:25:36.224Z"
+status: "active"
 ---
 
 # § 1406. Persons living in and born in the Virgin Islands
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:10.500Z"
   - **(3)** All natives of the Virgin Islands of the United States who, on January 17, 1917 , resided in the United States, and were residing in those islands on February 25, 1927 , and who were not on February 25, 1927 , citizens or subjects of any foreign country; and
   - **(4)** All natives of the Virgin Islands of the United States who, on June 28, 1932 , were residing in continental United States, the Virgin Islands of the United States, Puerto Rico, the Canal Zone, or any other insular possession or territory of the United States, and who, on June 28, 1932 , were not citizens or subjects of any foreign country, regardless of their place of residence on January 17, 1917 .
 - **(b)** All persons born in the Virgin Islands of the United States on or after January 17, 1917 , and prior to February 25, 1927 , and subject to the jurisdiction of the United States are declared to be citizens of the United States as of February 25, 1927 ; and all persons born in those islands on or after February 25, 1927 , and subject to the jurisdiction of the United States, are declared to be citizens of the United States at birth.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title III, ch. 1, § 306, [66 Stat. 237](https://www.govinfo.gov/link/statute/66/237).)*

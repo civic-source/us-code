@@ -3,9 +3,10 @@ title: "Section 6512 - Authorized hazardous fuel reduction projects"
 usc_title: 16
 usc_section: "6512"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6512"
-generated_at: "2026-03-30T02:54:23.060Z"
+generated_at: "2026-11-23T20:26:20.799Z"
+status: "active"
 ---
 
 # § 6512. Authorized hazardous fuel reduction projects
@@ -72,3 +73,7 @@ generated_at: "2026-03-30T02:54:23.060Z"
   - **(6)** The Secretary may collect monitoring data by entering into cooperative agreements or contracts with, or providing grants to, small or micro-businesses, cooperatives, nonprofit organizations, Youth Conservation Corps work crews, or related State, local, and other non-Federal conservation corps.
   - **(7)** For each administrative unit, the Secretary shall track acres burned, by the degree of severity, by large wildfires (as defined by the Secretary).
   - **(8)** The Secretary shall, to the maximum extent practicable, develop a process for monitoring the need for maintenance of treated areas, over time, in order to preserve the forest health benefits achieved.
+
+## Source Credit
+
+*([Pub. L. 108–148, title I, § 102](https://www.govinfo.gov/link/plaw/108/public/148), Dec. 3, 2003, [117 Stat. 1892](https://www.govinfo.gov/link/statute/117/1892).)*

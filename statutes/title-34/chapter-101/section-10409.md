@@ -3,9 +3,10 @@ title: "Section 10409 - Assessment reports"
 usc_title: 34
 usc_section: "10409"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10409"
-generated_at: "2026-03-30T02:55:33.267Z"
+generated_at: "2026-11-23T20:26:50.467Z"
+status: "active"
 ---
 
 # § 10409. Assessment reports
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:33.267Z"
   - **(1)** a summary of the information provided under subsection (a);
   - **(2)** an assessment by the Attorney General of the grant program carried out under this subchapter; and
   - **(3)** such other information as the Attorney General considers appropriate.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 1808](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 107–273, div. C, title II, § 12102(a)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1867](https://www.govinfo.gov/link/statute/116/1867).)*

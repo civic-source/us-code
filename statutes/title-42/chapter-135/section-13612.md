@@ -3,9 +3,10 @@ title: "Section 13612 - Reservation of units for disabled families"
 usc_title: 42
 usc_section: "13612"
 chapter: 135
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13612"
-generated_at: "2026-03-30T02:56:11.449Z"
+generated_at: "2026-11-23T20:27:23.512Z"
+status: "active"
 ---
 
 # § 13612. Reservation of units for disabled families
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.449Z"
     - **(A)** the percentage of units in the project that were occupied by such disabled families upon October 28, 1992 ; or
     - **(B)** the percentage of units in the project that were occupied by such families upon January 1, 1992 ; or
   - **(2)** 10 percent of the number of units in the project.
+
+## Source Credit
+
+*([Pub. L. 102–550, title VI, § 652](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3823](https://www.govinfo.gov/link/statute/106/3823).)*

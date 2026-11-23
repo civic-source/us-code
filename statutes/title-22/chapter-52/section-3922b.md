@@ -3,9 +3,10 @@ title: "Section 3922b - Public diplomacy training"
 usc_title: 22
 usc_section: "3922b"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3922b"
-generated_at: "2026-03-30T02:55:05.398Z"
+generated_at: "2026-11-23T20:26:32.481Z"
+status: "active"
 ---
 
 # § 3922b. Public diplomacy training
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:05.398Z"
     - **(B)** should consider the priority recruitment into the Foreign Service, including at middle-level entry, of individuals with expertise and professional experience in public diplomacy, mass communications, or journalism; and
     - **(C)** shall give special consideration to individuals with language facility and experience in particular countries and regions.
   - **(2)** The Secretary of State shall seek to increase the number of Foreign Service officers proficient in languages spoken in countries with predominantly Muslim populations. Such increase should be accomplished through the recruitment of new officers and incentives for officers in service.
+
+## Source Credit
+
+*([Pub. L. 108–458, title VII, § 7110](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3793](https://www.govinfo.gov/link/statute/118/3793).)*

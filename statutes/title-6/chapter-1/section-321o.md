@@ -3,9 +3,10 @@ title: "Section 321o - Integrated public alert and warning system modernization"
 usc_title: 6
 usc_section: "321o"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 321o"
-generated_at: "2026-03-30T02:53:09.459Z"
+generated_at: "2026-11-23T20:25:34.703Z"
+status: "active"
 ---
 
 # § 321o. Integrated public alert and warning system modernization
@@ -47,3 +48,11 @@ generated_at: "2026-03-30T02:53:09.459Z"
     - **(D)** identify other necessary improvements to the system; and
     - **(E)** provide an analysis comparing the performance of the public alert and warning system with the performance goals established under subparagraph (A).
   - **(2)** The Administrator shall submit to the Committee on Homeland Security and Governmental Affairs and the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure and the Committee on Homeland Security of the House of Representatives each report required under paragraph (1).
+
+Definition
+
+Limitations
+
+## Source Credit
+
+*([Pub. L. 107–296, title V, § 526](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 114–143, § 2(a)](https://www.govinfo.gov/link/plaw/114/public/143), Apr. 11, 2016, [130 Stat. 327](https://www.govinfo.gov/link/statute/130/327).)*

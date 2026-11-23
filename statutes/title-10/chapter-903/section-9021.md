@@ -3,9 +3,10 @@ title: "Section 9021 - Space Acquisition Council"
 usc_title: 10
 usc_section: "9021"
 chapter: 903
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 9021"
-generated_at: "2026-03-30T02:53:38.255Z"
+generated_at: "2026-11-23T20:25:52.272Z"
+status: "active"
 ---
 
 # § 9021. Space Acquisition Council
@@ -33,3 +34,17 @@ generated_at: "2026-03-30T02:53:38.255Z"
       - **(ii)** The Secretary of Defense shall submit to the congressional defense committees a notification of any waiver granted under clause (i), including a justification for the waiver.
 - **(d)** The Council shall meet not less frequently than monthly.
 - **(e)** Not later than 30 days after the end of each calendar year quarter through the first calendar year quarter of 2025, the Council shall submit to the congressional defense committees a report on the activities of the Council during the calendar year quarter preceding the calendar year quarter in which such report is submitted.
+
+Establishment
+
+Members
+
+Duties
+
+Meetings
+
+Reports
+
+## Source Credit
+
+*(Added [Pub. L. 116–92, div. A, title IX, § 954(a)(2)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1564](https://www.govinfo.gov/link/statute/133/1564); amended [Pub. L. 117–81, div. A, title XVI, § 1602(a)(1)](https://www.govinfo.gov/link/plaw/117/public/81), (b)(1), Dec. 27, 2021, [135 Stat. 2075](https://www.govinfo.gov/link/statute/135/2075), 2076.)*

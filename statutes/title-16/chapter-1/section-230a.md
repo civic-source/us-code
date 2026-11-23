@@ -3,9 +3,10 @@ title: "Section 230a - Acquisition of property"
 usc_title: 16
 usc_section: "230a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 230a"
-generated_at: "2026-03-30T02:54:22.743Z"
+generated_at: "2026-11-23T20:26:19.390Z"
+status: "active"
 ---
 
 # § 230a. Acquisition of property
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:22.743Z"
   - **(1)** acquire land, water, and interests in land and water, by any of the methods referred to in subsection (a)(1)(A) (including use of appropriations from the Land and Water Conservation Fund); and
   - **(2)** revise the boundaries of the Barataria Preserve Unit to include adjacent land and water.
 - **(d)** The Secretary is authorized to acquire lands or interests in lands by donation, purchase with donated or appropriated funds or exchange, not to exceed approximately 20 acres, in Acadian villages and towns. Any lands so acquired shall be developed, maintained and operated as part of the Jean Lafitte National Historical Park and Preserve.
+
+## Source Credit
+
+*([Pub. L. 95–625, title IX, § 902](https://www.govinfo.gov/link/plaw/95/public/625), Nov. 10, 1978, [92 Stat. 3535](https://www.govinfo.gov/link/statute/92/3535); [Pub. L. 96–87, title IV, § 401(q)(1)](https://www.govinfo.gov/link/plaw/96/public/87), Oct. 12, 1979, [93 Stat. 666](https://www.govinfo.gov/link/statute/93/666); [Pub. L. 100–250, § 1(b)](https://www.govinfo.gov/link/plaw/100/public/250), Feb. 16, 1988, [102 Stat. 16](https://www.govinfo.gov/link/statute/102/16); [Pub. L. 111–11, title VII, § 7105(b)](https://www.govinfo.gov/link/plaw/111/public/11), (f)(2)(B), Mar. 30, 2009, [123 Stat. 1191](https://www.govinfo.gov/link/statute/123/1191), 1193.)*

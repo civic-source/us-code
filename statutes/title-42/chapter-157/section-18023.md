@@ -3,9 +3,10 @@ title: "Section 18023 - Special rules"
 usc_title: 42
 usc_section: "18023"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18023"
-generated_at: "2026-03-30T02:56:11.512Z"
+generated_at: "2026-11-23T20:27:23.774Z"
+status: "active"
 ---
 
 # § 18023. Special rules
@@ -57,3 +58,17 @@ generated_at: "2026-03-30T02:56:11.512Z"
       - **(iii)** discrimination on the basis of the willingness or refusal to provide, pay for, cover, or refer for abortion or to provide or participate in training to provide abortion.
   - **(3)** Nothing in this subsection shall alter the rights and obligations of employees and employers under title VII of the Civil Rights Act of 1964 [ 42 U.S.C. 2000e et seq.].
 - **(d)** Nothing in this Act shall be construed to relieve any health care provider from providing emergency services as required by State or Federal law, including section 1395dd of this title (popularly known as “EMTALA”).
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 111–148, title I, § 1303](https://www.govinfo.gov/link/plaw/111/public/148), title X, § 10104(c), Mar. 23, 2010, [124 Stat. 168](https://www.govinfo.gov/link/statute/124/168), 896.)*

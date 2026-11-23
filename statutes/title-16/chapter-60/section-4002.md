@@ -3,9 +3,10 @@ title: "Section 4002 - Congressional statement of purpose"
 usc_title: 16
 usc_section: "4002"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 4002"
-generated_at: "2026-03-30T02:54:23.039Z"
+generated_at: "2026-11-23T20:26:20.728Z"
+status: "active"
 ---
 
 # § 4002. Congressional statement of purpose
@@ -19,3 +20,7 @@ The purpose of this chapter is to—
   - **(5)** educate and inform consumers on the use of fish;
   - **(6)** develop better coordination of fisheries marketing and promotion activities with commercial fisheries research and development programs; and
   - **(7)** educate and inform the public about the nutritional value of fish in the diet.
+
+## Source Credit
+
+*([Pub. L. 99–659, title II, § 203](https://www.govinfo.gov/link/plaw/99/public/659), Nov. 14, 1986, [100 Stat. 3716](https://www.govinfo.gov/link/statute/100/3716).)*

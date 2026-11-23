@@ -3,9 +3,10 @@ title: "Section 1374 - Tax imposed on certain built-in gains"
 usc_title: 26
 usc_section: "1374"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1374"
-generated_at: "2026-03-30T02:55:27.771Z"
+generated_at: "2026-11-23T20:26:46.099Z"
+status: "active"
 ---
 
 # § 1374. Tax imposed on certain built-in gains
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:55:27.771Z"
       - **(ii)** Subsection (c)(1) shall not apply.
   - **(9)** Any reference in this section to the 1st taxable year for which the corporation was an S corporation shall be treated as a reference to the 1st taxable year for which the corporation was an S corporation pursuant to its most recent election under section 1362.
 - **(e)** The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section including regulations providing for the appropriate treatment of successor corporations.
+
+## Source Credit
+
+*(Added [Pub. L. 97–354, § 2](https://www.govinfo.gov/link/plaw/97/public/354), Oct. 19, 1982, [96 Stat. 1683](https://www.govinfo.gov/link/statute/96/1683); amended [Pub. L. 97–448, title III, § 305(d)(3)](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2400](https://www.govinfo.gov/link/statute/96/2400); [Pub. L. 98–369, div. A, title I, § 102(d)(1)](https://www.govinfo.gov/link/plaw/98/public/369), title IV, § 474(r)(27), title VII, § 721(u), July 18, 1984, [98 Stat. 623](https://www.govinfo.gov/link/statute/98/623), 844, 971; [Pub. L. 99–514, title VI, § 632(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2275](https://www.govinfo.gov/link/statute/100/2275); [Pub. L. 100–647, title I, § 1006(f)(1)](https://www.govinfo.gov/link/plaw/100/public/647) –(5)(A), Nov. 10, 1988, [102 Stat. 3403](https://www.govinfo.gov/link/statute/102/3403), 3404; [Pub. L. 101–239, title VII, § 7811(c)(4)](https://www.govinfo.gov/link/plaw/101/public/239), (5)(B), (8), Dec. 19, 1989, [103 Stat. 2407](https://www.govinfo.gov/link/statute/103/2407), 2408; [Pub. L. 105–34, title XVI, § 1601(f)(5)(B)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1091](https://www.govinfo.gov/link/statute/111/1091); [Pub. L. 111–5, div. B, title I, § 1251(a)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 342](https://www.govinfo.gov/link/statute/123/342); [Pub. L. 111–240, title II, § 2014(a)](https://www.govinfo.gov/link/plaw/111/public/240), Sept. 27, 2010, [124 Stat. 2556](https://www.govinfo.gov/link/statute/124/2556); [Pub. L. 112–240, title III, § 326(a)](https://www.govinfo.gov/link/plaw/112/public/240), (b), Jan. 2, 2013, [126 Stat. 2334](https://www.govinfo.gov/link/statute/126/2334); [Pub. L. 113–295, div. A, title I, § 138(a)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4020](https://www.govinfo.gov/link/statute/128/4020); [Pub. L. 114–113, div. Q, title I, § 127(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3054](https://www.govinfo.gov/link/statute/129/3054); [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 12002(c), 13001(b)(2)(N), Dec. 22, 2017, [131 Stat. 2095](https://www.govinfo.gov/link/statute/131/2095), 2097; [Pub. L. 115–141, div. U, title IV, § 401(b)(33)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1204](https://www.govinfo.gov/link/statute/132/1204).)*

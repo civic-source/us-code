@@ -3,9 +3,10 @@ title: "Section 1855 - Other requirements and authority"
 usc_title: 16
 usc_section: "1855"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1855"
-generated_at: "2026-03-30T02:54:22.990Z"
+generated_at: "2026-11-23T20:26:20.566Z"
+status: "active"
 ---
 
 # § 1855. Other requirements and authority
@@ -158,3 +159,9 @@ generated_at: "2026-03-30T02:54:22.990Z"
     - **(A)** without a New England multispecies groundfish fishery permit on regulated species within the multispecies complex is not consistent with the applicable Federal fishery management plan; or
     - **(B)** without a Federal bottomfish and seamount groundfish permit in the Hawaiian archipelago on regulated species within the complex is not consistent with the applicable Federal fishery management plan or State data are not sufficient to make such a determination.
   - **(2)** If the Secretary makes a determination that such actions are not consistent with the plan, the Secretary shall, in consultation with the Council, and after notifying the affected State, develop and implement measures to cure the inconsistency pursuant to section 1856(b) of this title .
+
+“A community shall be eligible to participate in the western Alaska community development quota program established under section 305(i) of the Magnuson-Stevens Fishery Conservation and Management Act ( 16 U.S.C. 1855(i) ) if the community—
+
+## Source Credit
+
+*([Pub. L. 94–265, title III, § 305](https://www.govinfo.gov/link/plaw/94/public/265), Apr. 13, 1976, [90 Stat. 354](https://www.govinfo.gov/link/statute/90/354); [Pub. L. 96–561, title II, § 235](https://www.govinfo.gov/link/plaw/96/public/561), Dec. 22, 1980, [94 Stat. 3299](https://www.govinfo.gov/link/statute/94/3299); [Pub. L. 97–453, § 8](https://www.govinfo.gov/link/plaw/97/public/453), Jan. 12, 1983, [96 Stat. 2490](https://www.govinfo.gov/link/statute/96/2490); [Pub. L. 101–627, title I](https://www.govinfo.gov/link/plaw/101/public/627), §§ 110(b)(2), 111(a)(1), (b), Nov. 28, 1990, [104 Stat. 4451](https://www.govinfo.gov/link/statute/104/4451), 4452; [Pub. L. 104–297, title I](https://www.govinfo.gov/link/plaw/104/public/297), §§ 110(a)–(d), 111(a), Oct. 11, 1996, [110 Stat. 3587–3590](https://www.govinfo.gov/link/statute/110/3587), 3592; [Pub. L. 109–241, title IV, § 416(a)](https://www.govinfo.gov/link/plaw/109/public/241), July 11, 2006, [120 Stat. 540](https://www.govinfo.gov/link/statute/120/540); [Pub. L. 109–479, § 3(d)(3)](https://www.govinfo.gov/link/plaw/109/public/479), title I, §§ 108–110, 116(b)(1), Jan. 12, 2007, [120 Stat. 3578](https://www.govinfo.gov/link/statute/120/3578), 3594–3596, 3606; [Pub. L. 116–283, div. G, title LVXXXIV](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXIV], § 8423, Jan. 1, 2021, [134 Stat. 4729](https://www.govinfo.gov/link/statute/134/4729).)*

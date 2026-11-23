@@ -3,9 +3,10 @@ title: "Section 6943 - Authorization of appropriations"
 usc_title: 22
 usc_section: "6943"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6943"
-generated_at: "2026-03-30T02:55:05.434Z"
+generated_at: "2026-11-23T20:26:32.637Z"
+status: "active"
 ---
 
 # § 6943. Authorization of appropriations
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:05.434Z"
   - **(3)** the geographic office for the People’s Republic of China; and
   - **(4)** offices relating to the WTO and to different sectors of the economy, including agriculture, industry, services, and intellectual property rights protection, to monitor and enforce the trade agreement obligations of the People’s Republic of China in those sectors.
 - **(d)** There are authorized to be appropriated to the Department of Agriculture, in addition to amounts otherwise available for such purposes, such sums as may be necessary for fiscal year 2001, and each fiscal year thereafter, for additional staff to increase legal and technical expertise in areas covered by trade agreements and United States trade law, including food safety and biotechnology, for purposes of monitoring compliance by the People’s Republic of China with its trade agreement obligations.
+
+## Source Credit
+
+*([Pub. L. 106–286, div. B, title IV, § 413](https://www.govinfo.gov/link/plaw/106/public/286), Oct. 10, 2000, [114 Stat. 901](https://www.govinfo.gov/link/statute/114/901).)*

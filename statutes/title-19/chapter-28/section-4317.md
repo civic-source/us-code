@@ -3,9 +3,10 @@ title: "Section 4317 - Centers of Excellence and Expertise"
 usc_title: 19
 usc_section: "4317"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 4317"
-generated_at: "2026-03-30T02:54:24.706Z"
+generated_at: "2026-11-23T20:26:11.134Z"
+status: "active"
 ---
 
 # § 4317. Centers of Excellence and Expertise
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:24.706Z"
   - **(4)** all applicable performance measurements with respect to each such Center of Excellence and Expertise, including performance measures with respect to meeting internal efficiency and effectiveness goals;
   - **(5)** the performance of each such Center of Excellence and Expertise in increasing the accuracy and completeness of data with respect to international trade and facilitating a more efficient flow of information between Federal agencies; and
   - **(6)** any planned changes in the number, scope, functions, or any other aspect of the Centers of Excellence and Expertise developed and implemented under subsection (a).
+
+## Source Credit
+
+*([Pub. L. 114–125, title I, § 110](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 138](https://www.govinfo.gov/link/statute/130/138).)*

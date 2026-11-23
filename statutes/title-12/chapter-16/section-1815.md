@@ -3,9 +3,10 @@ title: "Section 1815 - Deposit insurance"
 usc_title: 12
 usc_section: "1815"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1815"
-generated_at: "2026-03-30T02:53:53.444Z"
+generated_at: "2026-11-23T20:25:59.100Z"
+status: "active"
 ---
 
 # § 1815. Deposit insurance
@@ -90,3 +91,9 @@ generated_at: "2026-03-30T02:53:53.444Z"
   - **(8)** For purposes of this subsection, depository institutions are commonly controlled if—
     - **(A)** such institutions are controlled by the same company; or
     - **(B)** 1 depository institution is controlled by another depository institution.
+
+“In the event of the enactment of H.R. 5334 (An Act to amend and extend certain laws relating to housing and community development, and for other purposes) [enacted as Pub. L. 102–550 ], the following provisions of that Act, and the amendments made by such provisions, are repealed, effective on the date of enactment of this Act [ Oct. 28, 1992 ]:
+
+## Source Credit
+
+*(Sept. 21, 1950, ch. 967, § 2 [5], [64 Stat. 876](https://www.govinfo.gov/link/statute/64/876); [Pub. L. 95–369, § 6(c)(7)](https://www.govinfo.gov/link/plaw/95/public/369), Sept. 17, 1978, [92 Stat. 616](https://www.govinfo.gov/link/statute/92/616); [Pub. L. 97–320, title VII, § 703(c)](https://www.govinfo.gov/link/plaw/97/public/320), Oct. 15, 1982, [96 Stat. 1539](https://www.govinfo.gov/link/statute/96/1539); [Pub. L. 101–73, title II](https://www.govinfo.gov/link/plaw/101/public/73), §§ 201(a), 206(a), Aug. 9, 1989, [103 Stat. 187](https://www.govinfo.gov/link/statute/103/187), 195; [Pub. L. 102–242, title I, § 115(a)](https://www.govinfo.gov/link/plaw/102/public/242), title III, § 302(e)(1), (2), title V, § 501(a), Dec. 19, 1991, [105 Stat. 2249](https://www.govinfo.gov/link/statute/105/2249), 2349, 2388; [Pub. L. 102–550, title XVI](https://www.govinfo.gov/link/plaw/102/public/550), §§ 1605(a)(5)(B), 1607(a), Oct. 28, 1992, [106 Stat. 4085](https://www.govinfo.gov/link/statute/106/4085), 4089; [Pub. L. 102–558, title III](https://www.govinfo.gov/link/plaw/102/public/558), §§ 303(b)(6)(B), 305, Oct. 28, 1992, [106 Stat. 4225](https://www.govinfo.gov/link/statute/106/4225), 4226; [Pub. L. 103–204, § 9](https://www.govinfo.gov/link/plaw/103/public/204), Dec. 17, 1993, [107 Stat. 2388](https://www.govinfo.gov/link/statute/107/2388); [Pub. L. 103–325, title III, § 319(b)](https://www.govinfo.gov/link/plaw/103/public/325), title VI, § 602(a)(2), (3), Sept. 23, 1994, [108 Stat. 2225](https://www.govinfo.gov/link/statute/108/2225), 2288; [Pub. L. 104–208, div. A, title II](https://www.govinfo.gov/link/plaw/104/public/208), §§ 2201(a), 2702(i), 2704(d)(14)(B)–(E), Sept. 30, 1996, [110 Stat. 3009–403](https://www.govinfo.gov/link/statute/110/3009), 3009–483, 3009–491; [Pub. L. 109–171, title II, § 2102(b)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 9](https://www.govinfo.gov/link/statute/120/9); [Pub. L. 109–173, § 8(a)(2)](https://www.govinfo.gov/link/plaw/109/public/173) –(6), Feb. 15, 2006, [119 Stat. 3610](https://www.govinfo.gov/link/statute/119/3610), 3611; [Pub. L. 109–351, title VII, § 703](https://www.govinfo.gov/link/plaw/109/public/351), Oct. 13, 2006, [120 Stat. 1986](https://www.govinfo.gov/link/statute/120/1986).)*

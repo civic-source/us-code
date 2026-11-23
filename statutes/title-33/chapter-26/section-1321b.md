@@ -3,9 +3,10 @@ title: "Section 1321b - Improved coordination with tribal governments"
 usc_title: 33
 usc_section: "1321b"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1321b"
-generated_at: "2026-03-30T02:55:41.096Z"
+generated_at: "2026-11-23T20:26:54.029Z"
+status: "active"
 ---
 
 # § 1321b. Improved coordination with tribal governments
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:41.096Z"
   - **(5)** demonstration projects to assist tribal governments in building the capacity to protect tribal treaty rights and trust assets from oil spills; and
   - **(6)** such additional measures the Coast Guard determines to be necessary for oil pollution prevention, preparedness, and response.
 - **(d)** Subject to the availability of appropriations, the Commandant of the Coast Guard shall provide assistance to participating tribal governments in order to facilitate the implementation of cooperative arrangements under subsection (c) and ensure the participation of tribal governments in such arrangements. There are authorized to be appropriated to the Commandant $500,000 for each of fiscal years 2010 through 2014 to be used to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 111–281, title VII, § 706](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2983](https://www.govinfo.gov/link/statute/124/2983).)*

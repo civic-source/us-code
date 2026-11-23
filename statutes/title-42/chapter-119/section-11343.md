@@ -3,9 +3,10 @@ title: "Section 11343 - Purposes of grants"
 usc_title: 42
 usc_section: "11343"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11343"
-generated_at: "2026-03-30T02:56:11.397Z"
+generated_at: "2026-11-23T20:27:23.288Z"
+status: "active"
 ---
 
 # § 11343. Purposes of grants
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.397Z"
     - **(A)** programs undertaken by private nonprofit organizations and local governments; and
     - **(B)** programs that are consistent with the purposes of this subchapter.
   - **(2)** The National Board may not carry out programs directly.
+
+## Source Credit
+
+*([Pub. L. 100–77, title III, § 313](https://www.govinfo.gov/link/plaw/100/public/77), July 22, 1987, [101 Stat. 492](https://www.govinfo.gov/link/statute/101/492).)*

@@ -3,9 +3,10 @@ title: "Section 3104 - Insurance of deposits"
 usc_title: 12
 usc_section: "3104"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 3104"
-generated_at: "2026-03-30T02:53:53.491Z"
+generated_at: "2026-11-23T20:25:59.322Z"
+status: "active"
 ---
 
 # § 3104. Insurance of deposits
@@ -22,3 +23,19 @@ generated_at: "2026-03-30T02:53:53.491Z"
   - **(2)** Domestic retail deposit accounts with balances of less than an amount equal to the standard maximum deposit insurance amount that require deposit insurance protection may be accepted or maintained in a branch of a foreign bank only if such branch was an insured branch on December 19, 1991 .
   - **(3)** For purposes of this subsection, the term “foreign bank” does not include any bank organized under the laws of any territory of the United States, Puerto Rico, Guam, American Samoa, or the Virgin Islands the deposits of which are insured by the Federal Deposit Insurance Corporation pursuant to the Federal Deposit Insurance Act [ 12 U.S.C. 1811 et seq.].
 - **(e)** For purposes of this section, the term “standard maximum deposit insurance amount” means the amount of the maximum amount of deposit insurance as determined under section 11(a)(1) of the Federal Deposit Insurance Act [ 12 U.S.C. 1821(a)(1) ].
+
+In general
+
+Specific factors
+
+Reduction in regulatory de minimis exemption
+
+Additional relevant considerations
+
+Deadline for prescribing revised regulations
+
+Definitions
+
+## Source Credit
+
+*([Pub. L. 95–369, § 6](https://www.govinfo.gov/link/plaw/95/public/369), Sept. 17, 1978, [92 Stat. 614](https://www.govinfo.gov/link/statute/92/614); [Pub. L. 96–64](https://www.govinfo.gov/link/plaw/96/public/64), Sept. 14, 1979, [93 Stat. 412](https://www.govinfo.gov/link/statute/93/412); [Pub. L. 102–242, title II, § 214(a)](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2303](https://www.govinfo.gov/link/statute/105/2303); [Pub. L. 102–550, title XVI, § 1604(a)(10)](https://www.govinfo.gov/link/plaw/102/public/550), (11), Oct. 28, 1992, [106 Stat. 4082](https://www.govinfo.gov/link/statute/106/4082), 4083; [Pub. L. 102–558, title III](https://www.govinfo.gov/link/plaw/102/public/558), §§ 302(a), 305, Oct. 28, 1992, [106 Stat. 4224](https://www.govinfo.gov/link/statute/106/4224), 4226; [Pub. L. 103–328, title I, § 107(a)](https://www.govinfo.gov/link/plaw/103/public/328), (d), Sept. 29, 1994, [108 Stat. 2358](https://www.govinfo.gov/link/statute/108/2358), 2360; [Pub. L. 109–173, § 2(c)(4)](https://www.govinfo.gov/link/plaw/109/public/173), Feb. 15, 2006, [119 Stat. 3602](https://www.govinfo.gov/link/statute/119/3602).)*

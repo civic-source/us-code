@@ -3,9 +3,10 @@ title: "Section 233 - Civil actions or proceedings against commissioned officers
 usc_title: 42
 usc_section: "233"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 233"
-generated_at: "2026-03-30T02:56:10.685Z"
+generated_at: "2026-11-23T20:27:19.960Z"
+status: "active"
 ---
 
 # § 233. Civil actions or proceedings against commissioned officers or employees
@@ -234,3 +235,7 @@ generated_at: "2026-03-30T02:56:10.685Z"
     - **(B)** Effective on December 13, 2016 —
       - **(i)** the Secretary may issue regulations for carrying out this subsection, and the Secretary may accept and consider applications submitted pursuant to paragraph (3)(B); and
       - **(ii)** reports under paragraph (4)(B) may be submitted to Congress.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title II, § 224, formerly § 223, as added [Pub. L. 91–623, § 4](https://www.govinfo.gov/link/plaw/91/public/623), Dec. 31, 1970, [84 Stat. 1870](https://www.govinfo.gov/link/statute/84/1870); renumbered § 224, [Pub. L. 92–157, title III, § 301(c)](https://www.govinfo.gov/link/plaw/92/public/157), Nov. 18, 1971, [85 Stat. 463](https://www.govinfo.gov/link/statute/85/463); amended [Pub. L. 102–501](https://www.govinfo.gov/link/plaw/102/public/501), §§ 2–4, Oct. 24, 1992, [106 Stat. 3268–3270](https://www.govinfo.gov/link/statute/106/3268); [Pub. L. 103–183, title VII, § 706(a)](https://www.govinfo.gov/link/plaw/103/public/183), Dec. 14, 1993, [107 Stat. 2241](https://www.govinfo.gov/link/statute/107/2241); [Pub. L. 104–73](https://www.govinfo.gov/link/plaw/104/public/73), §§ 2–5(b), 6–11, Dec. 26, 1995, [109 Stat. 777–781](https://www.govinfo.gov/link/statute/109/777); [Pub. L. 104–191, title I, § 194](https://www.govinfo.gov/link/plaw/104/public/191), Aug. 21, 1996, [110 Stat. 1988](https://www.govinfo.gov/link/statute/110/1988); [Pub. L. 104–299, § 4(a)(1)](https://www.govinfo.gov/link/plaw/104/public/299), Oct. 11, 1996, [110 Stat. 3644](https://www.govinfo.gov/link/statute/110/3644); [Pub. L. 107–251, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/107/public/251), Oct. 26, 2002, [116 Stat. 1664](https://www.govinfo.gov/link/statute/116/1664); [Pub. L. 107–296, title III, § 304(c)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2165](https://www.govinfo.gov/link/statute/116/2165); [Pub. L. 108–20, § 3(a)](https://www.govinfo.gov/link/plaw/108/public/20) –(i), Apr. 30, 2003, [117 Stat. 646–648](https://www.govinfo.gov/link/statute/117/646); [Pub. L. 108–163, § 2(m)(1)](https://www.govinfo.gov/link/plaw/108/public/163), Dec. 6, 2003, [117 Stat. 2023](https://www.govinfo.gov/link/statute/117/2023); [Pub. L. 111–148, title X, § 10608(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 1014](https://www.govinfo.gov/link/statute/124/1014); [Pub. L. 114–255, div. B, title IX, § 9025](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1254](https://www.govinfo.gov/link/statute/130/1254); [Pub. L. 117–180, div. D, title III, § 301](https://www.govinfo.gov/link/plaw/117/public/180), Sept. 30, 2022, [136 Stat. 2136](https://www.govinfo.gov/link/statute/136/2136).)*

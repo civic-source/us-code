@@ -3,9 +3,10 @@ title: "Section 8541 - Administration"
 usc_title: 42
 usc_section: "8541"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8541"
-generated_at: "2026-03-30T02:56:11.345Z"
+generated_at: "2026-11-23T20:27:23.050Z"
+status: "active"
 ---
 
 # § 8541. Administration
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.345Z"
 - **(c)**
   - **(1)** The provisions of subchapters I, II, III, and IV of this chapter, including any actions taken thereunder, shall cease to have effect on July 1, 1983 .
   - **(2)** Such expiration shall not affect any action or pending proceeding, administrative or civil, not finally determined on such date, nor any administrative or civil action or proceeding, whether or not pending, based upon any act committed or liability incurred prior to such expiration date.
+
+## Source Credit
+
+*([Pub. L. 96–102, title II, § 251](https://www.govinfo.gov/link/plaw/96/public/102), Nov. 5, 1979, [93 Stat. 769](https://www.govinfo.gov/link/statute/93/769).)*

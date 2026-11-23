@@ -3,9 +3,10 @@ title: "Section 2021b - Definitions"
 usc_title: 42
 usc_section: "2021b"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2021b"
-generated_at: "2026-03-30T02:56:11.146Z"
+generated_at: "2026-11-23T20:27:22.049Z"
+status: "active"
 ---
 
 # § 2021b. Definitions
@@ -32,3 +33,7 @@ For purposes of sections 2021b to 2021j of this title:
   - **(12)** The term “Secretary” means the Secretary of Energy.
   - **(13)** The term “sited compact region” means a compact region in which there is located one of the regional disposal facilities at Barnwell, in the State of South Carolina; Richland, in the State of Washington; or Beatty, in the State of Nevada.
   - **(14)** The term “State” means any State of the United States, the District of Columbia, and the Commonwealth of Puerto Rico.
+
+## Source Credit
+
+*([Pub. L. 96–573, § 2](https://www.govinfo.gov/link/plaw/96/public/573), as added [Pub. L. 99–240, title I, § 102](https://www.govinfo.gov/link/plaw/99/public/240), Jan. 15, 1986, [99 Stat. 1842](https://www.govinfo.gov/link/statute/99/1842); amended [Pub. L. 109–58, title VI, § 651(e)(3)(B)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 808](https://www.govinfo.gov/link/statute/119/808).)*

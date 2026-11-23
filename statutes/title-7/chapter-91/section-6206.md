@@ -3,9 +3,10 @@ title: "Section 6206 - Petition and review"
 usc_title: 7
 usc_section: "6206"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6206"
-generated_at: "2026-03-30T02:53:42.425Z"
+generated_at: "2026-11-23T20:25:41.687Z"
+status: "active"
 ---
 
 # § 6206. Petition and review
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:42.425Z"
     - **(A)** to make such ruling as the court shall determine to be in accordance with law; or
     - **(B)** to take such further action as, in the opinion of the court, the law requires.
   - **(4)** The pendency of proceedings instituted pursuant to subsection (a) shall not impede, hinder, or delay the Attorney General or the Secretary from obtaining relief pursuant to section 6207 of this title .
+
+## Source Credit
+
+*([Pub. L. 101–624, title XIX, § 1957](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3876](https://www.govinfo.gov/link/statute/104/3876).)*

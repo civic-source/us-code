@@ -3,9 +3,10 @@ title: "Section 2373 - Eastern Mediterranean policy requirements"
 usc_title: 22
 usc_section: "2373"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2373"
-generated_at: "2026-03-30T02:55:05.361Z"
+generated_at: "2026-11-23T20:26:32.268Z"
+status: "active"
 ---
 
 # § 2373. Eastern Mediterranean policy requirements
@@ -29,3 +30,89 @@ generated_at: "2026-03-30T02:55:05.361Z"
   - **(1)** Except as provided in paragraph (3), any agreement for the sale or provision of any article on the United States Munitions List (established pursuant to section 38 of the Arms Export Control Act [ 22 U.S.C. 2778 ]) entered into by the United States after December 22, 1987 , shall expressly state that the article is being provided by the United States only with the understanding that it will not be transferred to Cyprus or otherwise used to further the severance or division of Cyprus.
   - **(2)** The President shall report to Congress any substantial evidence that equipment provided under any such agreement has been used in a manner inconsistent with the purposes of this subsection.
   - **(3)** The requirement under paragraph (1) shall not apply to any sale or other provision of any defense article or defense service to Cyprus if the end-user of such defense article or defense service is the Government of the Republic of Cyprus.
+
+In General
+
+Report
+
+In General
+
+Annual Reports
+
+United States-Eastern Mediterranean Energy Center
+
+Sense of Congress
+
+Modification of Prohibition
+
+Exclusion of the Government of the Republic of Cyprus From Certain Related Regulations.—
+
+In general
+
+Exception
+
+Limitations on the Transfer of Articles on the United States Munitions List to the Republic of Cyprus.—
+
+In general
+
+Waiver
+
+Appropriate congressional committees defined
+
+Authorization of Appropriations
+
+Sense of Congress
+
+In General
+
+Elements
+
+Form
+
+In General
+
+Elements
+
+Form
+
+In General
+
+Form
+
+In General
+
+Form
+
+Sense of Congress
+
+Modification of Prohibition
+
+Exclusion of the Government of the Republic of Cyprus From Certain Related Regulations.—
+
+In general
+
+Exception
+
+Limitations on the Transfer of Articles on the United States Munitions List to the Republic of Cyprus.—
+
+In general
+
+Waiver
+
+Appropriate congressional committees defined
+
+Findings
+
+Appointment of Special Ambassador
+
+Report
+
+Funding
+
+“In this subtitle [subtitle B (§§ 1311–1317) of title XIII of div. A of Pub. L. 117–81 , enacting provisions set out as a note above and as a note preceding section 261 of this title ], the term ‘appropriate congressional committees’ means—
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. III, § 620C, as added [Pub. L. 95–384, § 13(b)](https://www.govinfo.gov/link/plaw/95/public/384), Sept. 26, 1978, [92 Stat. 737](https://www.govinfo.gov/link/statute/92/737); amended [Pub. L. 100–202, § 101(e) [title V, § 562]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–131](https://www.govinfo.gov/link/statute/101/1329), 1329–171; [Pub. L. 116–92, div. A, title XII, § 1250A(b)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1665](https://www.govinfo.gov/link/statute/133/1665); [Pub. L. 116–94, div. J, title II, § 205(b)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3052](https://www.govinfo.gov/link/statute/133/3052).)*

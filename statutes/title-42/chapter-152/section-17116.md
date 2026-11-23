@@ -3,9 +3,10 @@ title: "Section 17116 - Industrial research and assessment centers"
 usc_title: 42
 usc_section: "17116"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17116"
-generated_at: "2026-03-30T02:56:11.497Z"
+generated_at: "2026-11-23T20:27:23.728Z"
+status: "active"
 ---
 
 # § 17116. Industrial research and assessment centers
@@ -106,3 +107,7 @@ generated_at: "2026-03-30T02:56:11.497Z"
 - **(j)** There are authorized to be appropriated to the Secretary for the period of fiscal years 2022 through 2026—
   - **(1)** $150,000,000 to carry out subsections (a) through (h); and
   - **(2)** $400,000,000 to carry out subsection (i).
+
+## Source Credit
+
+*([Pub. L. 110–140, title IV, § 457](https://www.govinfo.gov/link/plaw/110/public/140), as added [Pub. L. 117–58, div. D, title V, § 40521(b)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1062](https://www.govinfo.gov/link/statute/135/1062).)*

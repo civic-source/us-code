@@ -3,9 +3,10 @@ title: "Section 3396 - Development for and within the Senior Executive Service"
 usc_title: 5
 usc_section: "3396"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 3396"
-generated_at: "2026-03-30T02:52:56.006Z"
+generated_at: "2026-11-23T20:25:31.838Z"
+status: "active"
 ---
 
 # § 3396. Development for and within the Senior Executive Service
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:52:56.006Z"
     - **(A)** sabbaticals;
     - **(B)** training; or
     - **(C)** details or other temporary assignments in other agencies, State or local governments, or the private sector.
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1163](https://www.govinfo.gov/link/statute/92/1163); amended [Pub. L. 102–175, § 4](https://www.govinfo.gov/link/plaw/102/public/175), Dec. 2, 1991, [105 Stat. 1223](https://www.govinfo.gov/link/statute/105/1223).)*

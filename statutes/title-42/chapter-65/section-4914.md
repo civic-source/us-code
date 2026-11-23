@@ -3,9 +3,10 @@ title: "Section 4914 - Development of low-noise-emission products"
 usc_title: 42
 usc_section: "4914"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4914"
-generated_at: "2026-03-30T02:56:11.210Z"
+generated_at: "2026-11-23T20:27:22.427Z"
+status: "active"
 ---
 
 # § 4914. Development of low-noise-emission products
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:56:11.210Z"
 - **(f)** The Administrator shall, from time to time as he deems appropriate, test the emissions of noise from certified low-noise-emission products purchased by the Federal Government. If at any time he finds that the noise-emission levels exceed the levels on which certification under this section was based, the Administrator shall give the supplier of such product written notice of this finding, issue public notice of it, and give the supplier an opportunity to make necessary repairs, adjustments, or replacements. If no such repairs, adjustments, or replacements are made within a period to be set by the Administrator, he may order the supplier to show cause why the product involved should be eligible for recertification.
 - **(g)** There are authorized to be appropriated for paying additional amounts for products pursuant to, and for carrying out the provisions of, this section, $1,000,000 for the fiscal year ending June 30, 1973 , and $2,000,000 for each of the two succeeding fiscal years, $2,200,000 for the fiscal year ending June 30, 1976 , $550,000 for the transition period of July 1, 1976 , through September 30, 1976 , and $2,420,000 for the fiscal year ending September 30, 1977 .
 - **(h)** The Administrator shall promulgate the procedures required to implement this section within one hundred and eighty days after October 27, 1972 .
+
+## Source Credit
+
+*([Pub. L. 92–574, § 15](https://www.govinfo.gov/link/plaw/92/public/574), Oct. 27, 1972, [86 Stat. 1245](https://www.govinfo.gov/link/statute/86/1245); [Pub. L. 94–301, § 1](https://www.govinfo.gov/link/plaw/94/public/301), May 31, 1976, [90 Stat. 590](https://www.govinfo.gov/link/statute/90/590); [Pub. L. 100–418, title V, § 5115(c)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1433](https://www.govinfo.gov/link/statute/102/1433).)*

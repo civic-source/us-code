@@ -3,9 +3,10 @@ title: "Section 7608 - Authority of internal revenue enforcement officers"
 usc_title: 26
 usc_section: "7608"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 7608"
-generated_at: "2026-03-30T02:55:27.879Z"
+generated_at: "2026-11-23T20:26:46.808Z"
+status: "active"
 ---
 
 # § 7608. Authority of internal revenue enforcement officers
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:55:27.879Z"
       - **(ii)** covert activities are concluded, whichever occurs later.
     - **(B)** The term “employees” has the meaning given such term by section 2105 of title 5 , United States Code.
     - **(C)** The term “undercover investigative operation” means any undercover investigative operation of the Service; except that, for purposes of subparagraphs (A) and (C) of paragraph (4), such term only includes an operation which is exempt from section 3302 or 9102 of title 31, United States Code.
+
+## Source Credit
+
+*(Added [Pub. L. 85–859, title II, § 204(14)](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1429](https://www.govinfo.gov/link/statute/72/1429); amended [Pub. L. 87–863, § 6(a)](https://www.govinfo.gov/link/plaw/87/public/863), Oct. 23, 1962, [76 Stat. 1143](https://www.govinfo.gov/link/statute/76/1143); [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 100–690, title VII, § 7601(c)(1)](https://www.govinfo.gov/link/plaw/100/public/690), (2), Nov. 18, 1988, [102 Stat. 4504](https://www.govinfo.gov/link/statute/102/4504); [Pub. L. 101–508, title XI, § 11704(a)(32)](https://www.govinfo.gov/link/plaw/101/public/508), (33), Nov. 5, 1990, [104 Stat. 1388–519](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 104–168, title XII, § 1205(b)](https://www.govinfo.gov/link/plaw/104/public/168) –(c)(2), July 30, 1996, [110 Stat. 1471](https://www.govinfo.gov/link/statute/110/1471), 1472; [Pub. L. 104–316, title I, § 113](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3833](https://www.govinfo.gov/link/statute/110/3833); [Pub. L. 105–206, title I, § 1103(e)(4)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 710](https://www.govinfo.gov/link/statute/112/710); [Pub. L. 106–554, § 1(a)(7) [title III, § 303]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–632; [Pub. L. 107–217, § 3(f)](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1299](https://www.govinfo.gov/link/statute/116/1299); [Pub. L. 108–178, § 4(e)](https://www.govinfo.gov/link/plaw/108/public/178), Dec. 15, 2003, [117 Stat. 2641](https://www.govinfo.gov/link/statute/117/2641); [Pub. L. 109–135, title III, § 304](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2609](https://www.govinfo.gov/link/statute/119/2609); [Pub. L. 109–432, div. A, title I, § 121](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 2944](https://www.govinfo.gov/link/statute/120/2944); [Pub. L. 110–343, div. C, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3875](https://www.govinfo.gov/link/statute/122/3875); [Pub. L. 111–350, § 5(f)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3848](https://www.govinfo.gov/link/statute/124/3848).)*

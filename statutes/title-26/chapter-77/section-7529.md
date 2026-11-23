@@ -3,9 +3,10 @@ title: "Section 7529 - Notification of suspected identity theft"
 usc_title: 26
 usc_section: "7529"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 7529"
-generated_at: "2026-03-30T02:55:27.879Z"
+generated_at: "2026-11-23T20:26:46.803Z"
+status: "active"
 ---
 
 # § 7529. Notification of suspected identity theft
@@ -28,3 +29,23 @@ generated_at: "2026-03-30T02:55:27.879Z"
   - **(2)** For purposes of this section, in making a determination as to whether there has been or may have been an unauthorized use of the identity of an individual to obtain employment, the Secretary shall review any information—
     - **(A)** obtained from a statement described in section 6051 or an information return relating to compensation for services rendered other than as an employee, or
     - **(B)** provided to the Internal Revenue Service by the Social Security Administration regarding any statement described in section 6051,
+
+In General
+
+Development of Performance Metrics
+
+In General
+
+Single Point of Contact.—
+
+In general
+
+Team or subset
+
+In General
+
+Standards and Procedures To Be Considered
+
+## Source Credit
+
+*(Added [Pub. L. 116–25, title II, § 2007(a)](https://www.govinfo.gov/link/plaw/116/public/25), July 1, 2019, [133 Stat. 1005](https://www.govinfo.gov/link/statute/133/1005).)*

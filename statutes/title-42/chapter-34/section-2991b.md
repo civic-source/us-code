@@ -3,9 +3,10 @@ title: "Section 2991b - Financial assistance for Native American projects"
 usc_title: 42
 usc_section: "2991b"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2991b"
-generated_at: "2026-03-30T02:56:11.167Z"
+generated_at: "2026-11-23T20:27:22.170Z"
+status: "active"
 ---
 
 # § 2991b. Financial assistance for Native American projects
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:11.167Z"
     - **(C)** the enforcement and monitoring of environmental quality laws.
   - **(3)** The 20 percent of the costs of planning, developing, and implementing a program for which a grant is awarded under paragraph (1) that are not to be paid from such grant may be paid by the grant recipient in cash or through the provision of property or services, but only to the extent that such cash or property is from any source (including any Federal agency) other than a program, contract, or grant authorized under this subchapter.
   - **(4)** Grants shall be awarded under paragraph (1) on the basis of applications that are submitted by Indian Tribes to the Commissioner in such form as the Commissioner shall prescribe.
+
+## Source Credit
+
+*([Pub. L. 88–452, title VIII, § 803](https://www.govinfo.gov/link/plaw/88/public/452), as added [Pub. L. 93–644, § 11](https://www.govinfo.gov/link/plaw/93/public/644), Jan. 4, 1975, [88 Stat. 2324](https://www.govinfo.gov/link/statute/88/2324); amended [Pub. L. 95–568, § 17(a)(39)](https://www.govinfo.gov/link/plaw/95/public/568), Nov. 2, 1978, [92 Stat. 2443](https://www.govinfo.gov/link/statute/92/2443); [Pub. L. 98–558, title X, § 1002](https://www.govinfo.gov/link/plaw/98/public/558), Oct. 30, 1984, [98 Stat. 2905](https://www.govinfo.gov/link/statute/98/2905); [Pub. L. 100–175, title V](https://www.govinfo.gov/link/plaw/100/public/175), §§ 502(1), 504(a), 506(c)(2), Nov. 29, 1987, [101 Stat. 973](https://www.govinfo.gov/link/statute/101/973), 975, 978; [Pub. L. 101–408, § 2](https://www.govinfo.gov/link/plaw/101/public/408), Oct. 4, 1990, [104 Stat. 883](https://www.govinfo.gov/link/statute/104/883); [Pub. L. 102–375, title VIII, § 822(1)](https://www.govinfo.gov/link/plaw/102/public/375), (21), Sept. 30, 1992, [106 Stat. 1295](https://www.govinfo.gov/link/statute/106/1295), 1300; [Pub. L. 102–497, § 9(a)](https://www.govinfo.gov/link/plaw/102/public/497), Oct. 24, 1992, [106 Stat. 3257](https://www.govinfo.gov/link/statute/106/3257); [Pub. L. 103–171, § 5(2)](https://www.govinfo.gov/link/plaw/103/public/171), Dec. 2, 1993, [107 Stat. 1991](https://www.govinfo.gov/link/statute/107/1991); [Pub. L. 116–261, § 5(a)](https://www.govinfo.gov/link/plaw/116/public/261), (d), Dec. 30, 2020, [134 Stat. 3313](https://www.govinfo.gov/link/statute/134/3313), 3314.)*

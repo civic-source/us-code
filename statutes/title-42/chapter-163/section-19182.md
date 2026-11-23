@@ -3,9 +3,10 @@ title: "Section 19182 - Research at the National Science Foundation"
 usc_title: 42
 usc_section: "19182"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 19182"
-generated_at: "2026-03-30T02:56:11.542Z"
+generated_at: "2026-11-23T20:27:23.864Z"
+status: "active"
 ---
 
 # § 19182. Research at the National Science Foundation
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.542Z"
   - **(6)** Models of STEM curriculum, learning, and teaching successful at HBCUs, TCUs, and MSIs for increasing participation, retention, and success of underrepresented minority students.
   - **(7)** Successful or promising partnerships between HBCUs, TCUs, and MSIs and other institutions of higher education, private sector and nonprofit organizations, Federal laboratories, and international research institutions.
 - **(c)** Awards under this section may fund the development or expansion of opportunities for the exchange of students and faculty to conduct research, facilitate professional development, and provide mentorship, including through partnerships with institutions of higher education that are not HBCUs, TCUs, or MSIs, private sector and nonprofit organizations, Federal laboratories, and international research institutions.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title V, § 10523](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1622](https://www.govinfo.gov/link/statute/136/1622).)*

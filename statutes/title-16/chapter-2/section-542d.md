@@ -3,9 +3,10 @@ title: "Section 542d - Comprehensive management plan"
 usc_title: 16
 usc_section: "542d"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 542d"
-generated_at: "2026-03-30T02:54:22.869Z"
+generated_at: "2026-11-23T20:26:20.125Z"
+status: "active"
 ---
 
 # § 542d. Comprehensive management plan
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:22.869Z"
   - **(2)** The research site shall be managed to enhance scientific research objectives. Scientific research activities and associated research equipment and structures shall be permitted within the research site in accordance with the plan.
   - **(3)** Roads shall be limited to those necessary for scientific research activities and other reasonable activities as determined by the Secretary. Motor vehicle use shall be restricted to roads designated in the plan.
   - **(4)** The landing of small instrumented research rockets shall be permitted to continue in portions of the research site designated for such purposes in the plan.
+
+## Source Credit
+
+*([Pub. L. 96–550, title II, § 205](https://www.govinfo.gov/link/plaw/96/public/550), Dec. 19, 1980, [94 Stat. 3225](https://www.govinfo.gov/link/statute/94/3225); [Pub. L. 103–437, § 6(d)(32)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4584](https://www.govinfo.gov/link/statute/108/4584).)*

@@ -3,9 +3,10 @@ title: "Section 6103 - Minimum standards for State one-call notification program
 usc_title: 49
 usc_section: "6103"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 6103"
-generated_at: "2026-03-30T02:56:19.321Z"
+generated_at: "2026-11-23T20:27:34.697Z"
+status: "active"
 ---
 
 # § 6103. Minimum standards for State one-call notification programs
@@ -29,3 +30,19 @@ generated_at: "2026-03-30T02:56:19.321Z"
   - **(3)** reduced or waived penalties for a violation of a requirement of a State one-call notification program that results in, or could result in, damage that is promptly reported by the violator;
   - **(4)** equitable relief; and
   - **(5)** citation of violations.
+
+Minimum Standards.—
+
+In general
+
+Exemptions prohibited
+
+Appropriate Participation
+
+Implementation
+
+Penalties
+
+## Source Credit
+
+*(Added [Pub. L. 105–178, title VII, § 7302(a)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 479](https://www.govinfo.gov/link/statute/112/479); amended [Pub. L. 107–355, § 2(a)](https://www.govinfo.gov/link/plaw/107/public/355), Dec. 17, 2002, [116 Stat. 2985](https://www.govinfo.gov/link/statute/116/2985); [Pub. L. 112–90, § 3(a)](https://www.govinfo.gov/link/plaw/112/public/90), Jan. 3, 2012, [125 Stat. 1906](https://www.govinfo.gov/link/statute/125/1906).)*

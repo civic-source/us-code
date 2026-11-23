@@ -3,9 +3,10 @@ title: "Section 7817 - Special Envoy on North Korean human rights issues"
 usc_title: 22
 usc_section: "7817"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7817"
-generated_at: "2026-03-30T02:55:05.446Z"
+generated_at: "2026-11-23T20:26:32.688Z"
+status: "active"
 ---
 
 # § 7817. Special Envoy on North Korean human rights issues
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:05.446Z"
   - **(6)** review strategies for improving protection of human rights in North Korea, including technical training and exchange programs; and
   - **(7)** develop an action plan for supporting implementation of the United Nations Commission on Human Rights Resolution 2004/13.
 - **(d)** Not later than 180 days after October 18, 2004 , and annually thereafter through 2022, the Special Envoy shall submit to the appropriate congressional committees a report on the activities undertaken in the preceding 12 months under subsection (c).
+
+## Source Credit
+
+*([Pub. L. 108–333, title I, § 107](https://www.govinfo.gov/link/plaw/108/public/333), Oct. 18, 2004, [118 Stat. 1292](https://www.govinfo.gov/link/statute/118/1292); [Pub. L. 110–346, § 8](https://www.govinfo.gov/link/plaw/110/public/346), Oct. 7, 2008, [122 Stat. 3941](https://www.govinfo.gov/link/statute/122/3941); [Pub. L. 112–172, § 7](https://www.govinfo.gov/link/plaw/112/public/172), Aug. 16, 2012, [126 Stat. 1309](https://www.govinfo.gov/link/statute/126/1309); [Pub. L. 115–198, § 7(c)](https://www.govinfo.gov/link/plaw/115/public/198), July 20, 2018, [132 Stat. 1523](https://www.govinfo.gov/link/statute/132/1523).)*

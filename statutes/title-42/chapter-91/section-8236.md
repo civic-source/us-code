@@ -3,9 +3,10 @@ title: "Section 8236 - Voluntary rating guidelines"
 usc_title: 42
 usc_section: "8236"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8236"
-generated_at: "2026-03-30T02:56:11.337Z"
+generated_at: "2026-11-23T20:27:23.011Z"
+status: "active"
 ---
 
 # § 8236. Voluntary rating guidelines
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.337Z"
   - **(3)** encourage consistency with, and support for, the uniform plan for Federal energy efficient mortgages, including that developed under section 946 of the Cranston-Gonzalez National Affordable Housing Act ( 42 U.S.C. 12712 note) and pursuant to sections 105 and 106 of the Energy Policy Act of 1992;
   - **(4)** provide that rating systems take into account local climate conditions and construction practices, solar energy collected on-site, and the benefits of peak load shifting construction practices, and not discriminate among fuel types; and
   - **(5)** establish procedures to ensure that residential buildings can receive an energy efficiency rating at the time of sale and that such rating is communicated to potential buyers.
+
+## Source Credit
+
+*([Pub. L. 95–619, title II, § 271](https://www.govinfo.gov/link/plaw/95/public/619), as added [Pub. L. 102–486, title I, § 102(a)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2787](https://www.govinfo.gov/link/statute/106/2787).)*

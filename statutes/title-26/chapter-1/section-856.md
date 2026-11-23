@@ -3,9 +3,10 @@ title: "Section 856 - Definition of real estate investment trust"
 usc_title: 26
 usc_section: "856"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 856"
-generated_at: "2026-03-30T02:55:27.734Z"
+generated_at: "2026-11-23T20:26:45.905Z"
+status: "active"
 ---
 
 # § 856. Definition of real estate investment trust
@@ -361,3 +362,111 @@ generated_at: "2026-03-30T02:55:27.734Z"
       - **(iii)** becoming or being the obligor under obligations (other than foreign currency gain attributable to any item of income or gain described in clause (i)), and
     - **(C)** any other foreign currency gain as determined by the Secretary.
   - **(4)** Notwithstanding this subsection or any other provision of this part, any section 988 gain derived by a corporation, trust, or association from dealing, or engaging in substantial and regular trading, in securities (as defined in section 475(c)(2)) shall constitute gross income which does not qualify under paragraph (2) or (3) of subsection (c). This paragraph shall not apply to income which does not constitute gross income by reason of subsection (c)(5)(G).
+
+Qualified temporary investment income.—
+
+In general
+
+New capital
+
+Treatment of certain hedging instruments
+
+Treatment of timber gains.—
+
+In general
+
+Special rules.—
+
+Termination
+
+Timber real estate investment trust
+
+Secretarial authority to exclude other items of income
+
+Cash
+
+Definitions related to debt instruments of publicly offered reits.—
+
+Publicly offered reit
+
+Nonqualified publicly offered reit debt instrument
+
+Rules of application for failure to satisfy paragraph (4).—
+
+In general
+
+Rule for certain de minimis failures
+
+Tax.—
+
+Tax imposed
+
+Period
+
+Administrative provisions
+
+Election after tax-free reorganization
+
+Special rules for certain personal property which is ancillary to real property.—
+
+Certain personal property leased in connection with real property
+
+In general
+
+Treatment of gain on disposition
+
+Certain personal property mortgaged in connection with real property.—
+
+In general
+
+Determination of fair market value.—
+
+In general
+
+Gain on disposition
+
+Termination date
+
+In General
+
+Income Tests.—
+
+Conforming Foreign Currency Revisions.—
+
+Dealer Sales
+
+Subsections
+
+and
+
+Subsections
+
+and
+
+Subsection
+
+Subsection
+
+In General
+
+Transitional Rules Related to Section
+
+Existing arrangements.—
+
+In general
+
+New trade or business or substantial new assets
+
+Limitation on transition rules
+
+Tax-free conversion
+
+General Rule
+
+Section
+
+Retention of Existing Transitional Rule
+
+## Source Credit
+
+*(Added [Pub. L. 86–779, § 10(a)](https://www.govinfo.gov/link/plaw/86/public/779), Sept. 14, 1960, [74 Stat. 1004](https://www.govinfo.gov/link/statute/74/1004); amended [Pub. L. 88–272, title II, § 225(k)(4)](https://www.govinfo.gov/link/plaw/88/public/272), Feb. 26, 1964, [78 Stat. 94](https://www.govinfo.gov/link/statute/78/94); [Pub. L. 88–554, § 4(b)(4)](https://www.govinfo.gov/link/plaw/88/public/554), Aug. 31, 1964, [78 Stat. 763](https://www.govinfo.gov/link/statute/78/763); [Pub. L. 93–625, § 6(a)](https://www.govinfo.gov/link/plaw/93/public/625), (b), (d)(1), Jan. 3, 1975, [88 Stat. 2112–2114](https://www.govinfo.gov/link/statute/88/2112); [Pub. L. 94–455, title XIV, § 1402(b)(1)(O)](https://www.govinfo.gov/link/plaw/94/public/455), (2), title XVI, §§ 1602(a), 1603(a), (c)(1)–(4), 1604(a)–(c)(1), (d)–(f)(3)(A), (g), (k)(1), (2)(A), title XIX, §§ 1901(a)(111), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1732](https://www.govinfo.gov/link/statute/90/1732), 1746, 1748–1753, 1783, 1834; [Pub. L. 95–600, title III, § 363(a)](https://www.govinfo.gov/link/plaw/95/public/600), (c), title VII, § 701(t)(2), Nov. 6, 1978, [92 Stat. 2852](https://www.govinfo.gov/link/statute/92/2852), 2853, 2912; [Pub. L. 98–369, div. A, title X, § 1001(b)(12)](https://www.govinfo.gov/link/plaw/98/public/369), (e), July 18, 1984, [98 Stat. 1011](https://www.govinfo.gov/link/statute/98/1011), 1012; [Pub. L. 99–514, title VI](https://www.govinfo.gov/link/plaw/99/public/514), §§ 661(a), 662, 663, 671(b)(1), title IX, § 901(d)(4)(E), Oct. 22, 1986, [100 Stat. 2299](https://www.govinfo.gov/link/statute/100/2299), 2300, 2302, 2317, 2380; [Pub. L. 100–647, title I, § 1006(p)(1)](https://www.govinfo.gov/link/plaw/100/public/647), (3), (4)(A), (5), (q), (t)(11), Nov. 10, 1988, [102 Stat. 3416](https://www.govinfo.gov/link/statute/102/3416), 3417, 3422; [Pub. L. 103–66, title XIII, § 13149(a)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 445](https://www.govinfo.gov/link/statute/107/445); [Pub. L. 104–188, title I](https://www.govinfo.gov/link/plaw/104/public/188), §§ 1621(b)(5), 1704(t)(35), Aug. 20, 1996, [110 Stat. 1867](https://www.govinfo.gov/link/statute/110/1867), 1889; [Pub. L. 105–34, title XII](https://www.govinfo.gov/link/plaw/105/public/34), §§ 1251(b)–1253, 1255(a), (b)(1), 1257, 1258, 1261, 1262, Aug. 5, 1997, [111 Stat. 1031–1036](https://www.govinfo.gov/link/statute/111/1031); [Pub. L. 106–170, title V](https://www.govinfo.gov/link/plaw/106/public/170), §§ 532(c)(2)(H)–(K), 541–542(b)(3)(A)(i), (B)(i), 543, 551(a), 561(a), Dec. 17, 1999, [113 Stat. 1930](https://www.govinfo.gov/link/statute/113/1930), 1940–1943, 1948, 1949; [Pub. L. 106–554, § 1(a)(7) [title III, § 319(9), (10)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–646; [Pub. L. 108–357, title II, § 243(a)](https://www.govinfo.gov/link/plaw/108/public/357), (b), (d), (f)(1)–(3), title VIII, § 835(b)(4), Oct. 22, 2004, [118 Stat. 1439](https://www.govinfo.gov/link/statute/118/1439), 1441–1444, 1593; [Pub. L. 109–135, title IV](https://www.govinfo.gov/link/plaw/109/public/135), §§ 403(d)(1), (2), 412(hh), Dec. 21, 2005, [119 Stat. 2620](https://www.govinfo.gov/link/statute/119/2620), 2622, 2639; [Pub. L. 110–172](https://www.govinfo.gov/link/plaw/110/public/172), §§ 9(b), 11(a)(18), Dec. 29, 2007, [121 Stat. 2484](https://www.govinfo.gov/link/statute/121/2484), 2486; [Pub. L. 110–234, title XV](https://www.govinfo.gov/link/plaw/110/public/234), §§ 15312(a), (b), 15313(a), (b), 15314(a), May 22, 2008, [122 Stat. 1503](https://www.govinfo.gov/link/statute/122/1503), 1504; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XV, §§ 15312(a), (b), 15313(a), (b), 15314(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2265, 2266; [Pub. L. 110–289, div. C, title II](https://www.govinfo.gov/link/plaw/110/public/289), §§ 3031, 3032, 3041, 3061, July 30, 2008, [122 Stat. 2897](https://www.govinfo.gov/link/statute/122/2897), 2899–2901; [Pub. L. 114–113, div. Q, title III](https://www.govinfo.gov/link/plaw/114/public/113), §§ 311(b), 312(a), 317(a), (b), 318(a), 319(a), (b), 321(a)(3), Dec. 18, 2015, [129 Stat. 3090](https://www.govinfo.gov/link/statute/129/3090), 3091, 3094–3097; [Pub. L. 115–141, div. U, title I, § 101(n)](https://www.govinfo.gov/link/plaw/115/public/141), title IV, § 401(a)(146), (147), (b)(28), Mar. 23, 2018, [132 Stat. 1165](https://www.govinfo.gov/link/statute/132/1165), 1191, 1203; [Pub. L. 119–21, title VII, § 70439(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 250](https://www.govinfo.gov/link/statute/139/250).)*

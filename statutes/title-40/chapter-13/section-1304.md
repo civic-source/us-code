@@ -3,9 +3,10 @@ title: "Section 1304 - Transfer of federal property to States"
 usc_title: 40
 usc_section: "1304"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 1304"
-generated_at: "2026-03-30T02:55:43.377Z"
+generated_at: "2026-11-23T20:26:56.568Z"
+status: "active"
 ---
 
 # § 1304. Transfer of federal property to States
@@ -22,3 +23,76 @@ generated_at: "2026-03-30T02:55:43.377Z"
   - **(2)** When a State or a political subdivision of a State applies for a conveyance or transfer of real property of the Government in connection with an authorized widening of a public highway, street, or alley, the head of the executive agency that controls the affected real property may convey or transfer to the State or political subdivision, with or without consideration, an interest in the real property that the agency head determines is not adverse to the interests of the Government. A conveyance or transfer under this subsection is subject to terms and conditions the agency head considers necessary to protect the interests of the Government.
   - **(3)** An interest in real property which can be transferred to a State or a political subdivision of a State for highway purposes under title 23 may not be conveyed or transferred under this subsection.
   - **(4)** Rights of way over, under, and through public lands and lands in the National Forest System may not be granted under this subsection.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1304(a) | 40:345b. | Aug. 26, 1935, ch. 684, § 1 , 49 Stat. 800 ; Pub. L. 86–608 , July 7, 1960 , 74 Stat. 363 . |
+| 1304(b)(1)– (3) | 40:345c. | Aug. 26, 1935, ch. 684, § 2 , as added Pub. L. 86–608 , July 7, 1960 , 74 Stat. 363 . |
+| 1304(b)(4) | 40:345c note. | Pub. L. 94–579, title VII, § 706(a) (related to the Act of July 7, 1960 ( Pub. L. 86–608 , 74 Stat. 363 )), Oct. 21, 1976 , 90 Stat. 2793 . |
+
+
+Obsolete Buildings and Sites.—
+
+In general
+
+Applicable property
+
+Price
+
+Proceeds of sale
+
+Payment terms
+
+Conveyance
+
+Widening of Public Roads.—
+
+Definition
+
+In general
+
+Limitation on transfers for highway purposes
+
+Limitation on issuance of rights of way
+
+Historical and Revision Notes
+
+1304(a)
+
+Aug. 26, 1935, ch. 684, § 1
+
+49 Stat. 800
+
+Pub. L. 86–608
+
+July 7, 1960
+
+74 Stat. 363
+
+1304(b)(1)– (3)
+
+Aug. 26, 1935, ch. 684, § 2
+
+Pub. L. 86–608
+
+July 7, 1960
+
+74 Stat. 363
+
+1304(b)(4)
+
+Pub. L. 94–579, title VII, § 706(a)
+
+July 7, 1960
+
+Pub. L. 86–608
+
+74 Stat. 363
+
+Oct. 21, 1976
+
+90 Stat. 2793
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1133](https://www.govinfo.gov/link/statute/116/1133).)*

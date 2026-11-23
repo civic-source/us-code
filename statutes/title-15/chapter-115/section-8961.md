@@ -3,9 +3,10 @@ title: "Section 8961 - PFAS destruction and disposal guidance"
 usc_title: 15
 usc_section: "8961"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 8961"
-generated_at: "2026-03-30T02:54:08.236Z"
+generated_at: "2026-11-23T20:26:04.513Z"
+status: "active"
 ---
 
 # § 8961. PFAS destruction and disposal guidance
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:08.236Z"
     - **(B)** potentially vulnerable populations living near likely destruction or disposal sites; and
   - **(2)** provide guidance on testing and monitoring air, effluent, and soil near potential destruction or disposal sites for releases described in paragraph (1)(A).
 - **(c)** The Administrator shall publish revisions to the interim guidance under subsection (a) as the Administrator determines to be appropriate, but not less frequently than once every 3 years.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. F, title LXXIII, § 7361](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2289](https://www.govinfo.gov/link/statute/133/2289).)*

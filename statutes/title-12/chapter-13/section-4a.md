@@ -3,9 +3,10 @@ title: "Section 4a - Double damages remedy for unauthorized use of multifamily h
 usc_title: 12
 usc_section: "4a"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4a"
-generated_at: "2026-03-30T02:53:53.420Z"
+generated_at: "2026-11-23T20:25:58.972Z"
+status: "active"
 ---
 
 # § 1715z–4a. Double damages remedy for unauthorized use of multifamily housing project assets and income
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:53.420Z"
 - **(c)** In any judgment favorable to the United States entered under this section, the Attorney General may recover double the value of the assets and income of the property that the court determines to have been used in violation of the regulatory agreement, or such other form of regulatory control as may be imposed by the Secretary, or any applicable regulation, plus all costs relating to the action, including but not limited to reasonable attorney and auditing fees. Notwithstanding any other provision of law, the Secretary may apply the recovery, or any portion of the recovery, to the property or to the applicable insurance fund under the National Housing Act [ 12 U.S.C. 1701 et seq.] or, in the case of any project for which the mortgage is held by the Secretary under section 1701q of this title (including property subject to section 1701q of this title as it existed before November 28, 1990 ), to the project or to the Department for use by the appropriate office within the Department for administrative costs related to enforcement of the requirements of the various programs administered by the Secretary, as appropriate.
 - **(d)** Notwithstanding any other statute of limitations, the Secretary may request the Attorney General to bring an action under this section at any time up to and including 6 years after the latest date that the Secretary discovers any use of a property’s assets and income in violation of the regulatory agreement, or such other form of regulatory control as may be imposed by the Secretary, or any applicable regulation.
 - **(e)** The remedy provided by this section is in addition to any other remedies available to the Secretary or the United States.
+
+## Source Credit
+
+*([Pub. L. 100–242, title IV, § 421](https://www.govinfo.gov/link/plaw/100/public/242), Feb. 5, 1988, [101 Stat. 1913](https://www.govinfo.gov/link/statute/101/1913); [Pub. L. 105–65, title V, § 563](https://www.govinfo.gov/link/plaw/105/public/65), Oct. 27, 1997, [111 Stat. 1419](https://www.govinfo.gov/link/statute/111/1419); [Pub. L. 108–447, div. I, title II, § 220](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3319](https://www.govinfo.gov/link/statute/118/3319); [Pub. L. 109–115, div. A, title III, § 324](https://www.govinfo.gov/link/plaw/109/public/115), Nov. 30, 2005, [119 Stat. 2466](https://www.govinfo.gov/link/statute/119/2466).)*

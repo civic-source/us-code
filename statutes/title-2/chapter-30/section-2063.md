@@ -3,9 +3,10 @@ title: "Section 2063 - Senate Employee Child Care Center"
 usc_title: 2
 usc_section: "2063"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 2063"
-generated_at: "2026-03-30T02:53:04.824Z"
+generated_at: "2026-11-23T20:25:29.009Z"
+status: "active"
 ---
 
 # § 2063. Senate Employee Child Care Center
@@ -20,3 +21,11 @@ generated_at: "2026-03-30T02:53:04.824Z"
     - **(B)** transmit such deductions to the Secretary of the Senate for deposit and remittance to the Office of Personnel Management.
 - **(e)** Government contributions for individuals receiving benefits under this section, as computed under section 8906 of title 5 , shall be made by the Secretary of the Senate from the appropriations account, within the contingent fund of the Senate, “miscellaneous items”.
 - **(f)** The Office of Personnel Management may prescribe regulations to carry out the provisions of this section.
+
+Reimbursements
+
+Amount
+
+## Source Credit
+
+*([Pub. L. 102–90, title III, § 311](https://www.govinfo.gov/link/plaw/102/public/90), Aug. 14, 1991, [105 Stat. 467](https://www.govinfo.gov/link/statute/105/467).)*

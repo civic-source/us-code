@@ -3,9 +3,10 @@ title: "Section 3001 - Definitions"
 usc_title: 43
 usc_section: "3001"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 3001"
-generated_at: "2026-03-30T02:55:57.500Z"
+generated_at: "2026-11-23T20:27:06.424Z"
+status: "active"
 ---
 
 # § 3001. Definitions
@@ -25,3 +26,7 @@ In this chapter:
     - **(B)** for National Forest System land, a land management plan approved, amended, or revised under section 1604 of title 16 .
   - **(4)** The term “eligible project” means a project carried out on covered land that uses wind, solar, or geothermal energy to generate energy.
   - **(5)** The term “Secretary” means the Secretary of the Interior.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. Z, title III, § 3101](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2513](https://www.govinfo.gov/link/statute/134/2513).)*

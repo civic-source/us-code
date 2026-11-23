@@ -3,9 +3,10 @@ title: "Section 11903 - Eligible activities"
 usc_title: 42
 usc_section: "11903"
 chapter: 124
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11903"
-generated_at: "2026-03-30T02:56:11.406Z"
+generated_at: "2026-11-23T20:27:23.329Z"
+status: "active"
 ---
 
 # § 11903. Eligible activities
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.406Z"
 - **(b)** Notwithstanding any other provision of this subchapter, grants under this subchapter may be used to eliminate drug-related crime in and around housing owned by public housing agencies that is not public housing assisted under the United States Housing Act of 1937 [ 42 U.S.C. 1437 et seq.] and is not otherwise federally assisted, for the activities described in paragraphs (1) through (7) of subsection (a), but only if—
   - **(1)** the housing is located in a high intensity drug trafficking area designated pursuant to section 1504 1 1 See References in Text note below. of title 21; and
   - **(2)** the public housing agency owning the housing demonstrates, to the satisfaction of the Secretary, that drug-related or violent activity in or around the housing has a detrimental effect on or about the real property comprising any public or other federally assisted low-income housing.
+
+## Source Credit
+
+*([Pub. L. 100–690, title V, § 5124](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4301](https://www.govinfo.gov/link/statute/102/4301); [Pub. L. 101–625, title V, § 581(a)](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4246](https://www.govinfo.gov/link/statute/104/4246); [Pub. L. 102–550, title I, § 161(c)](https://www.govinfo.gov/link/plaw/102/public/550), (d)(2), Oct. 28, 1992, [106 Stat. 3718](https://www.govinfo.gov/link/statute/106/3718), 3719; [Pub. L. 104–330, title VII, § 704(2)](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4051](https://www.govinfo.gov/link/statute/110/4051); [Pub. L. 105–276, title II, § 220(2)](https://www.govinfo.gov/link/plaw/105/public/276), title V, § 586(d), Oct. 21, 1998, [112 Stat. 2488](https://www.govinfo.gov/link/statute/112/2488), 2647.)*

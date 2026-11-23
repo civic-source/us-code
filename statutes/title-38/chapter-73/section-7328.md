@@ -3,9 +3,10 @@ title: "Section 7328 - Medical preparedness centers"
 usc_title: 38
 usc_section: "7328"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7328"
-generated_at: "2026-03-30T02:55:53.528Z"
+generated_at: "2026-11-23T20:27:02.002Z"
+status: "active"
 ---
 
 # § 7328. Medical preparedness centers
@@ -40,3 +41,29 @@ generated_at: "2026-03-30T02:55:53.528Z"
 - **(i)**
   - **(1)** There are authorized to be appropriated for the centers under this section $10,000,000 for each of fiscal years 2005 through 2007.
   - **(2)** In addition to any amounts appropriated for a fiscal year specifically for the activities of the centers pursuant to paragraph (1), the Under Secretary for Health shall allocate to the centers from other funds appropriated for that fiscal year generally for the Department medical services account and the Department medical and prosthetic research account such amounts as the Under Secretary determines necessary in order to carry out the purposes of this section.
+
+Establishment of Centers
+
+Mission
+
+Selection of Centers
+
+Research Activities
+
+Dissemination of Research Products
+
+Coordination of Activities
+
+Assistance to Other Agencies
+
+Detail of Employees From Other Agencies
+
+Funding
+
+Peer Review Panel
+
+Proposals
+
+## Source Credit
+
+*(Added [Pub. L. 108–422, title III, § 303(c)(1)](https://www.govinfo.gov/link/plaw/108/public/422), Nov. 30, 2004, [118 Stat. 2386](https://www.govinfo.gov/link/statute/118/2386); amended [Pub. L. 110–387, title IX, § 901(a)(8)](https://www.govinfo.gov/link/plaw/110/public/387), Oct. 10, 2008, [122 Stat. 4142](https://www.govinfo.gov/link/statute/122/4142).)*

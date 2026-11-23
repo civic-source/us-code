@@ -3,9 +3,10 @@ title: "Section 1622 - Duties of Secretary relating to agricultural products"
 usc_title: 7
 usc_section: "1622"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1622"
-generated_at: "2026-03-30T02:53:42.328Z"
+generated_at: "2026-11-23T20:25:41.218Z"
+status: "active"
 ---
 
 # § 1622. Duties of Secretary relating to agricultural products
@@ -47,3 +48,59 @@ The Secretary of Agriculture is directed and authorized:
     - **(A)** for which the Secretary receives a petition requesting such voluntary fee based grading; and
     - **(B)** that the Secretary considers appropriate.
 - **(o)** To conduct such other research and services and to perform such other activities as will facilitate the marketing, distribution, processing, and utilization of agricultural products through commercial channels.
+
+Identification of honey.—
+
+In general
+
+Violation
+
+In General
+
+Location
+
+Administration
+
+Training Program
+
+Coordination of Resources
+
+Prohibition on Construction
+
+“Hereafter, none of the funds appropriated by this Act or any other Act may be used to:
+
+Report
+
+Price Discovery and Reporting System
+
+System required
+
+Implementation
+
+Authorization of appropriations
+
+Consultation
+
+Requirement
+
+Scope of Research
+
+Field Research.—
+
+Length of projects
+
+Scope of field research
+
+Dissemination of Results
+
+Advisory Committee.—
+
+Establishment
+
+Membership
+
+Report
+
+## Source Credit
+
+*(Aug. 14, 1946, ch. 966, title II, § 203, [60 Stat. 1087](https://www.govinfo.gov/link/statute/60/1087); Aug. 9, 1955, ch. 632, § 1, [69 Stat. 553](https://www.govinfo.gov/link/statute/69/553); [Pub. L. 95–113, title II, § 206](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 920](https://www.govinfo.gov/link/statute/91/920); [Pub. L. 97–31, § 12(2)](https://www.govinfo.gov/link/plaw/97/public/31), Aug. 6, 1981, [95 Stat. 153](https://www.govinfo.gov/link/statute/95/153); [Pub. L. 98–403, § 2](https://www.govinfo.gov/link/plaw/98/public/403), Aug. 28, 1984, [98 Stat. 1480](https://www.govinfo.gov/link/statute/98/1480); [Pub. L. 98–443, § 9(j)](https://www.govinfo.gov/link/plaw/98/public/443), Oct. 4, 1984, [98 Stat. 1708](https://www.govinfo.gov/link/statute/98/1708); [Pub. L. 105–277, div. A, § 101(a) [title VII, § 755(a)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681](https://www.govinfo.gov/link/statute/112/2681), 2681–34; [Pub. L. 106–472, title III, § 303](https://www.govinfo.gov/link/plaw/106/public/472), Nov. 9, 2000, [114 Stat. 2069](https://www.govinfo.gov/link/statute/114/2069); [Pub. L. 110–234, title X, § 10402(a)](https://www.govinfo.gov/link/plaw/110/public/234), title XI, § 11016(a), May 22, 2008, [122 Stat. 1349](https://www.govinfo.gov/link/statute/122/1349), 1368; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title X, § 10402(a), title XI, § 11016(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2110, 2130; [Pub. L. 113–79, title VI, § 6202](https://www.govinfo.gov/link/plaw/113/public/79), title XII, § 12106(a)(4), Feb. 7, 2014, [128 Stat. 856](https://www.govinfo.gov/link/statute/128/856), 981.)*

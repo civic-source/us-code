@@ -3,9 +3,10 @@ title: "Section 151 - National electric vehicle charging and hydrogen, propane, 
 usc_title: 23
 usc_section: "151"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 151"
-generated_at: "2026-03-30T02:55:12.559Z"
+generated_at: "2026-11-23T20:26:23.810Z"
+status: "active"
 ---
 
 # § 151. National electric vehicle charging and hydrogen, propane, and natural gas fueling corridors
@@ -130,3 +131,199 @@ generated_at: "2026-03-30T02:55:12.559Z"
     - **(A)** The Federal share of the cost of a project carried out with a grant under this subsection shall not exceed 80 percent of the total project cost.
     - **(B)** As a condition of contracting with an eligible entity under paragraph (6) or (8), a private entity shall agree to pay the share of the cost of a project carried out with a grant under this subsection that is not paid by the Federal Government under subparagraph (A).
   - **(11)** Not later than 3 years after the date of enactment of this subsection, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a report on the progress and implementation of this subsection.
+
+In General
+
+Designation of Corridors
+
+Stakeholders
+
+Redesignation.—
+
+Initial redesignation
+
+Subsequent redesignation
+
+Report
+
+Grant Program.—
+
+Definition of private entity
+
+Establishment
+
+Eligible entities
+
+Applications
+
+Considerations
+
+(aa) to meet excess demand for charging or fueling infrastructure; or
+
+(bb) to reduce congestion at existing charging or fueling infrastructure in high-traffic locations;
+
+Use of funds.—
+
+In general
+
+Location of infrastructure
+
+Operating assistance.—
+
+In general
+
+Inclusions
+
+Limitation
+
+Traffic control devices.—
+
+In general
+
+Applicability
+
+Limitation on amount
+
+No new authority created
+
+Revenue.—
+
+In general
+
+Uses of revenue
+
+Certain fuels
+
+Community grants.—
+
+In general
+
+Applications
+
+Eligible entities
+
+Eligible projects
+
+Project locations
+
+Priority
+
+Additional considerations
+
+Partnering with private entities
+
+Maximum grant amount
+
+Technical assistance
+
+Additional activities
+
+Requirements.—
+
+Project treatment
+
+Signs
+
+Federal share.—
+
+In general
+
+Responsibility of private entity
+
+Report
+
+Definitions
+
+Secretaries
+
+Working group
+
+Establishment.—
+
+In general
+
+Membership.—
+
+In general
+
+Federal stakeholders
+
+Non-federal stakeholders.—
+
+In general
+
+“(aa) a manufacturer of light-duty electric vehicles or the relevant components of light-duty electric vehicles;
+
+“(bb) a manufacturer of medium- and heavy-duty vehicles or the relevant components of medium- and heavy-duty electric vehicles;
+
+“(cc) a manufacturer of electric vehicle batteries;
+
+“(dd) an owner, operator, or manufacturer of electric vehicle charging equipment;
+
+“(ee) the public utility industry;
+
+“(ff) a public utility regulator or association of public utility regulators;
+
+“(gg) the transportation fueling distribution industry;
+
+“(hh) the energy provider industry;
+
+“(ii) the automotive dealing industry;
+
+“(jj) the for-hire passenger transportation industry;
+
+“(kk) an organization representing units of local government;
+
+“(ll) an organization representing regional transportation or planning agencies;
+
+“(mm) an organization representing State departments of transportation;
+
+“(nn) an organization representing State departments of energy or State energy planners;
+
+“(oo) the intelligent transportation systems and technologies industry;
+
+“(pp) labor organizations representing workers in transportation manufacturing, construction, or operations;
+
+“(qq) the trucking industry;
+
+“(rr) Tribal governments; and
+
+“(ss) the property development industry; and
+
+Requirement
+
+Compensation
+
+Meetings.—
+
+In general
+
+Remote participation
+
+Coordination
+
+Reports and Strategy on Electric Vehicle Adoption.—
+
+Working group reports
+
+Deadlines
+
+Strategy.—
+
+In general
+
+Notice and comment
+
+Information.—
+
+In general
+
+Use of existing information
+
+Coordination
+
+Termination
+
+## Source Credit
+
+*(Added [Pub. L. 114–94, div. A, title I, § 1413(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1417](https://www.govinfo.gov/link/statute/129/1417); amended [Pub. L. 117–58, div. A, title I, § 11401(b)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 546](https://www.govinfo.gov/link/statute/135/546).)*

@@ -3,9 +3,10 @@ title: "Section 6841 - Reporting"
 usc_title: 20
 usc_section: "6841"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 6841"
-generated_at: "2026-03-30T02:54:48.204Z"
+generated_at: "2026-11-23T20:26:14.866Z"
+status: "active"
 ---
 
 # § 6841. Reporting
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:48.204Z"
   - **(7)** any other information that the State educational agency may require.
 - **(b)** A report provided by an eligible entity under subsection (a) shall be used by the entity and the State educational agency for improvement of programs and activities under this part.
 - **(c)** Each specially qualified agency receiving a grant under subpart 1 shall provide the reports described in subsection (a) to the Secretary subject to the same requirements as apply to eligible entities providing such evaluations to State educational agencies under such subsection.
+
+## Source Credit
+
+*([Pub. L. 89–10, title III, § 3121](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 107–110, title III, § 301](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1701](https://www.govinfo.gov/link/statute/115/1701); amended [Pub. L. 114–95, title III, § 3003(h)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1962](https://www.govinfo.gov/link/statute/129/1962).)*

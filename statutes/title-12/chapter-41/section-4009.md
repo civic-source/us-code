@@ -3,9 +3,10 @@ title: "Section 4009 - Administrative enforcement"
 usc_title: 12
 usc_section: "4009"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4009"
-generated_at: "2026-03-30T02:53:53.500Z"
+generated_at: "2026-11-23T20:25:59.360Z"
+status: "active"
 ---
 
 # § 4009. Administrative enforcement
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:53.500Z"
     - **(A)** any depository institution which is not a depository institution described in subsection (a), or
     - **(B)** any other person subject to the authority of the Board under this chapter, including any person subject to the authority of the Board under section 4004(d)(2) or 4008(c) of this title,
 - **(d)** The authority of the Board to prescribe regulations under this chapter does not impair the authority of any other agency designated in this section to make rules regarding its own procedures in enforcing compliance with requirements imposed under this chapter.
+
+## Source Credit
+
+*([Pub. L. 100–86, title VI, § 610](https://www.govinfo.gov/link/plaw/100/public/86), Aug. 10, 1987, [101 Stat. 649](https://www.govinfo.gov/link/statute/101/649); [Pub. L. 101–73, title VII, § 744(d)](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 438](https://www.govinfo.gov/link/statute/103/438); [Pub. L. 102–242, title II, § 212(h)](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2303](https://www.govinfo.gov/link/statute/105/2303).)*

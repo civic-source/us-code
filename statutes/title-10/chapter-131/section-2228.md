@@ -3,9 +3,10 @@ title: "Section 2228 - Office of Corrosion Policy and Oversight"
 usc_title: 10
 usc_section: "2228"
 chapter: 131
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2228"
-generated_at: "2026-03-30T02:53:38.150Z"
+generated_at: "2026-11-23T20:25:51.512Z"
+status: "active"
 ---
 
 # § 2228. Office of Corrosion Policy and Oversight
@@ -66,3 +67,37 @@ generated_at: "2026-03-30T02:53:38.150Z"
   - **(6)** The term “qualified training program” means a training program in corrosion control, mitigation, and prevention that is—
     - **(A)** offered or accredited by an organization that sets industry corrosion standards; or
     - **(B)** an industrial coatings applicator training program registered under the Act of August 16, 1937 (popularly known as the “National Apprenticeship Act”; 29 U.S.C. 50 et seq.).
+
+Office and Director
+
+Duties
+
+Additional Authorities for Director
+
+Long-Term Strategy
+
+Report
+
+Definitions
+
+Implementation; Congressional Briefing
+
+Recommended Actions
+
+Deadline for Compliance
+
+Corrosion Study
+
+In General
+
+Corrosion Control and Prevention Executive Defined
+
+Requirement to Designate Corrosion Control and Prevention Executive
+
+Qualifications
+
+Duties
+
+## Source Credit
+
+*(Added [Pub. L. 107–314, div. A, title X, § 1067(a)(1)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2657](https://www.govinfo.gov/link/statute/116/2657); amended [Pub. L. 110–181, div. A, title III, § 371(a)](https://www.govinfo.gov/link/plaw/110/public/181) –(e), Jan. 28, 2008, [122 Stat. 79–81](https://www.govinfo.gov/link/statute/122/79); [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title X, § 1061(b)(1), Oct. 14, 2008, [122 Stat. 4612](https://www.govinfo.gov/link/statute/122/4612); [Pub. L. 111–383, div. A, title III, § 331](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4185](https://www.govinfo.gov/link/statute/124/4185); [Pub. L. 112–239, div. A, title III, § 341](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1699](https://www.govinfo.gov/link/statute/126/1699); [Pub. L. 114–328, div. A, title IX, § 954(a)](https://www.govinfo.gov/link/plaw/114/public/328), (b), Dec. 23, 2016, [130 Stat. 2376](https://www.govinfo.gov/link/statute/130/2376), 2377; [Pub. L. 115–232, div. A, title VIII, § 811(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1845](https://www.govinfo.gov/link/statute/132/1845); [Pub. L. 116–92, div. A, title VIII, § 861(j)(13)](https://www.govinfo.gov/link/plaw/116/public/92), title XVII, § 1731(a)(32), Dec. 20, 2019, [133 Stat. 1520](https://www.govinfo.gov/link/statute/133/1520), 1814; [Pub. L. 117–81, div. A, title VIII, § 813](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1823](https://www.govinfo.gov/link/statute/135/1823); [Pub. L. 118–31, div. A, title XVIII, § 1801(a)(19)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 684](https://www.govinfo.gov/link/statute/137/684).)*

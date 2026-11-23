@@ -3,9 +3,10 @@ title: "Section 2001 - Human relations training"
 usc_title: 10
 usc_section: "2001"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2001"
-generated_at: "2026-03-30T02:53:38.138Z"
+generated_at: "2026-11-23T20:25:51.431Z"
+status: "active"
 ---
 
 # § 2001. Human relations training
@@ -19,3 +20,11 @@ generated_at: "2026-03-30T02:53:38.138Z"
 - **(b)** The Secretary of Defense shall ensure that—
   - **(1)** each individual preparing to enter an officer accession program or to execute an original enlistment agreement is provided information concerning the meaning of the oath of office or oath of enlistment for service in the armed forces in terms of the equal protection and civil liberties guarantees of the Constitution; and
   - **(2)** each such individual is informed that if supporting such guarantees is not possible personally for that individual, then that individual should decline to enter the armed forces.
+
+Human Relations Training
+
+Information Provided to Prospective Recruits
+
+## Source Credit
+
+*(Added [Pub. L. 117–81, div. A, title V, § 552(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1735](https://www.govinfo.gov/link/statute/135/1735).)*

@@ -3,9 +3,10 @@ title: "Section 111 - Limitations on exclusive rights: Secondary transmissions o
 usc_title: 17
 usc_section: "111"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 111"
-generated_at: "2026-03-30T02:54:15.345Z"
+generated_at: "2026-11-23T20:26:06.482Z"
+status: "active"
 ---
 
 # § 111. Limitations on exclusive rights: Secondary transmissions of broadcast programming by cable
@@ -115,3 +116,103 @@ generated_at: "2026-03-30T02:54:15.345Z"
   - **(13)**
     - **(A)** The term “subscriber” means a person or entity that receives a secondary transmission service from a cable system and pays a fee for the service, directly or indirectly, to the cable system.
     - **(B)** The term “subscribe” means to elect to become a subscriber.
+
+Certain Secondary Transmissions Exempted
+
+Secondary Transmission of Primary Transmission to Controlled Group
+
+Secondary Transmissions by Cable Systems.—
+
+Statutory License for Secondary Transmissions by Cable Systems.—
+
+Statement of account and royalty fees
+
+Handling of fees
+
+Distribution of royalty fees to copyright owners
+
+Procedures for royalty fee distribution
+
+percent rate and syndicated exclusivity surcharge not applicable to multicast streams
+
+Verification of accounts and fee payments
+
+Acceptance of additional deposits
+
+Nonsimultaneous Secondary Transmissions by Cable Systems.—
+
+Definitions
+
+Primary transmission
+
+Secondary transmission
+
+Cable system
+
+Local service area of a primary transmitter
+
+Distant signal equivalent.—
+
+In general
+
+Exceptions
+
+Network station.—
+
+Treatment of primary stream
+
+Treatment of multicast streams
+
+Independent station
+
+Noncommercial educational station
+
+Primary stream
+
+Primary transmitter
+
+Multicast stream
+
+Simulcast
+
+Subscriber; subscribe.—
+
+Subscriber
+
+Subscribe
+
+In general
+
+Delayed applicability.—
+
+Secondary transmissions of a multicast stream beyond the local service area of its primary transmitter before
+
+act
+
+Multicast streams subject to preexisting written agreements for the secondary transmission of such streams
+
+No refunds or offsets for prior statements of account
+
+Definitions
+
+Effective Date
+
+Noninfringement of Copyright
+
+In General
+
+Partial Distribution of Royalty Fees
+
+In General
+
+Effectiveness of Existing Rates and Distributions
+
+Transfer of Appropriations
+
+In General
+
+Limitation
+
+## Source Credit
+
+*([Pub. L. 94–553, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/553), Oct. 19, 1976, [90 Stat. 2550](https://www.govinfo.gov/link/statute/90/2550); [Pub. L. 99–397](https://www.govinfo.gov/link/plaw/99/public/397), §§ 1, 2(a), (b), Aug. 27, 1986, [100 Stat. 848](https://www.govinfo.gov/link/statute/100/848); [Pub. L. 100–667, title II, § 202(1)](https://www.govinfo.gov/link/plaw/100/public/667), Nov. 16, 1988, [102 Stat. 3949](https://www.govinfo.gov/link/statute/102/3949); [Pub. L. 101–318, § 3(a)](https://www.govinfo.gov/link/plaw/101/public/318), July 3, 1990, [104 Stat. 288](https://www.govinfo.gov/link/statute/104/288); [Pub. L. 103–198, § 6(a)](https://www.govinfo.gov/link/plaw/103/public/198), Dec. 17, 1993, [107 Stat. 2311](https://www.govinfo.gov/link/statute/107/2311); [Pub. L. 103–369, § 3](https://www.govinfo.gov/link/plaw/103/public/369), Oct. 18, 1994, [108 Stat. 3480](https://www.govinfo.gov/link/statute/108/3480); [Pub. L. 104–39, § 5(b)](https://www.govinfo.gov/link/plaw/104/public/39), Nov. 1, 1995, [109 Stat. 348](https://www.govinfo.gov/link/statute/109/348); [Pub. L. 106–113, div. B, § 1000(a)(9) [title I, § 1011(a)(1), (2), (b)(1)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–543; [Pub. L. 108–419, § 5(a)](https://www.govinfo.gov/link/plaw/108/public/419), Nov. 30, 2004, [118 Stat. 2361](https://www.govinfo.gov/link/statute/118/2361); [Pub. L. 108–447, div. J, title IX](https://www.govinfo.gov/link/plaw/108/public/447) [title I, § 107(b)], Dec. 8, 2004, [118 Stat. 3406](https://www.govinfo.gov/link/statute/118/3406); [Pub. L. 109–303, § 4(a)](https://www.govinfo.gov/link/plaw/109/public/303), Oct. 6, 2006, [120 Stat. 1481](https://www.govinfo.gov/link/statute/120/1481); [Pub. L. 110–229, title VIII, § 807](https://www.govinfo.gov/link/plaw/110/public/229), May 8, 2008, [122 Stat. 874](https://www.govinfo.gov/link/statute/122/874); [Pub. L. 110–403, title II, § 209(a)(2)](https://www.govinfo.gov/link/plaw/110/public/403), Oct. 13, 2008, [122 Stat. 4264](https://www.govinfo.gov/link/statute/122/4264); [Pub. L. 111–175, title I, § 104(a)(1)](https://www.govinfo.gov/link/plaw/111/public/175), (b), (c), (e), (g), May 27, 2010, [124 Stat. 1231](https://www.govinfo.gov/link/statute/124/1231), 1235, 1238; [Pub. L. 113–200, title II](https://www.govinfo.gov/link/plaw/113/public/200), §§ 201(1), 203, Dec. 4, 2014, [128 Stat. 2066](https://www.govinfo.gov/link/statute/128/2066), 2067.)*

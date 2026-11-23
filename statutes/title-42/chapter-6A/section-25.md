@@ -3,9 +3,10 @@ title: "Section 25 - Standards relating to benefits for mothers and newborns"
 usc_title: 42
 usc_section: "25"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 25"
-generated_at: "2026-03-30T02:56:10.834Z"
+generated_at: "2026-11-23T20:27:20.655Z"
+status: "active"
 ---
 
 # § 300gg–25. Standards relating to benefits for mothers and newborns
@@ -37,3 +38,9 @@ generated_at: "2026-03-30T02:56:10.834Z"
     - **(B)** Such State law requires such coverage to provide for maternity and pediatric care in accordance with guidelines established by the American College of Obstetricians and Gynecologists, the American Academy of Pediatrics, or other established professional medical associations.
     - **(C)** Such State law requires, in connection with such coverage for maternity care, that the hospital length of stay for such care is left to the decision of (or required to be made by) the attending provider in consultation with the mother.
   - **(2)** Section 300gg–23(a)(1) 1 of this title shall not be construed as superseding a State law described in paragraph (1).
+
+“Congress finds that—
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXVII, § 2725, formerly § 2704, as added [Pub. L. 104–204, title VI, § 604(a)(3)](https://www.govinfo.gov/link/plaw/104/public/204), Sept. 26, 1996, [110 Stat. 2939](https://www.govinfo.gov/link/statute/110/2939); renumbered § 2725 and amended [Pub. L. 111–148, title I](https://www.govinfo.gov/link/plaw/111/public/148), §§ 1001(2), 1563(c)(3), formerly § 1562(c)(3), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 130](https://www.govinfo.gov/link/statute/124/130), 265, 911.)*

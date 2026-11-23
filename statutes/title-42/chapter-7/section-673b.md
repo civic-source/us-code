@@ -3,9 +3,10 @@ title: "Section 673b - Adoption and legal guardianship incentive payments"
 usc_title: 42
 usc_section: "673b"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 673b"
-generated_at: "2026-03-30T02:56:10.890Z"
+generated_at: "2026-11-23T20:27:20.919Z"
+status: "active"
 ---
 
 # § 673b. Adoption and legal guardianship incentive payments
@@ -110,3 +111,13 @@ generated_at: "2026-03-30T02:56:10.890Z"
     - **(F)** Development of programs that place children into pre-adoptive families without waiting for termination of parental rights.
   - **(3)** Not less than 50 percent of any amount appropriated pursuant to paragraph (4) shall be used to provide technical assistance to the courts.
   - **(4)** To carry out this subsection, there are authorized to be appropriated to the Secretary of Health and Human Services not to exceed $10,000,000 for each of fiscal years 2004 through 2006.
+
+Determinations based on afcars data
+
+Alternative data sources permitted for fiscal years 1995 through 1997
+
+“The Congress finds the following:
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 473A, as added [Pub. L. 105–89, title II, § 201(a)](https://www.govinfo.gov/link/plaw/105/public/89), Nov. 19, 1997, [111 Stat. 2122](https://www.govinfo.gov/link/statute/111/2122); amended [Pub. L. 105–200, title IV, § 410(f)](https://www.govinfo.gov/link/plaw/105/public/200), July 16, 1998, [112 Stat. 673](https://www.govinfo.gov/link/statute/112/673); [Pub. L. 106–169, title I, § 131](https://www.govinfo.gov/link/plaw/106/public/169), Dec. 14, 1999, [113 Stat. 1830](https://www.govinfo.gov/link/statute/113/1830); [Pub. L. 108–145, § 3(a)](https://www.govinfo.gov/link/plaw/108/public/145), Dec. 2, 2003, [117 Stat. 1879](https://www.govinfo.gov/link/statute/117/1879); [Pub. L. 109–288, § 6(f)(7)](https://www.govinfo.gov/link/plaw/109/public/288), Sept. 28, 2006, [120 Stat. 1248](https://www.govinfo.gov/link/statute/120/1248); [Pub. L. 110–351, title IV, § 401](https://www.govinfo.gov/link/plaw/110/public/351), Oct. 7, 2008, [122 Stat. 3973](https://www.govinfo.gov/link/statute/122/3973); [Pub. L. 113–183, title II](https://www.govinfo.gov/link/plaw/113/public/183), §§ 201–205, Sept. 29, 2014, [128 Stat. 1935–1939](https://www.govinfo.gov/link/statute/128/1935); [Pub. L. 115–123, div. E, title VII, § 50761(a)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 267](https://www.govinfo.gov/link/statute/132/267).)*

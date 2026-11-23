@@ -3,9 +3,10 @@ title: "Section 1182f - Denial of entry into United States of Chinese and other 
 usc_title: 8
 usc_section: "1182f"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1182f"
-generated_at: "2026-03-30T02:53:10.480Z"
+generated_at: "2026-11-23T20:25:36.047Z"
+status: "active"
 ---
 
 # § 1182f. Denial of entry into United States of Chinese and other nationals engaged in coerced organ or bodily tissue transplantation
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:10.480Z"
 - **(c)** The Secretary may waive the prohibitions in subsection (a) with respect to a foreign national if the Secretary—
   - **(1)** determines that it is important to the national interest of the United States to do so; and
   - **(2)** not later than 30 days after the issuance of a visa, provides written notification to the appropriate congressional committees containing a justification for the waiver.
+
+## Source Credit
+
+*([Pub. L. 107–228, div. A, title II, § 232](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1372](https://www.govinfo.gov/link/statute/116/1372).)*

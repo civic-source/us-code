@@ -3,9 +3,10 @@ title: "Section 2905 - Estuary habitat restoration strategy"
 usc_title: 33
 usc_section: "2905"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2905"
-generated_at: "2026-03-30T02:55:41.135Z"
+generated_at: "2026-11-23T20:26:54.232Z"
+status: "active"
 ---
 
 # § 2905. Estuary habitat restoration strategy
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:41.135Z"
   - **(7)** ensuring equitable geographic distribution of projects funded under this chapter.
 - **(e)** Before the Council adopts a final or revised estuary habitat restoration strategy, the Secretary shall publish in the Federal Register a draft of the estuary habitat restoration strategy and provide an opportunity for public review and comment.
 - **(f)** Using data and information developed through project monitoring and management, and other relevant information, the Council may periodically review and update, as necessary, the estuary habitat restoration strategy.
+
+## Source Credit
+
+*([Pub. L. 106–457, title I, § 106](https://www.govinfo.gov/link/plaw/106/public/457), Nov. 7, 2000, [114 Stat. 1963](https://www.govinfo.gov/link/statute/114/1963).)*

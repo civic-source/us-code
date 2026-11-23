@@ -3,12 +3,17 @@ title: "Section 2257 - Interchangeability of funds for miscellaneous expenses an
 usc_title: 7
 usc_section: "2257"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2257"
-generated_at: "2026-03-30T02:53:42.382Z"
+generated_at: "2026-11-23T20:25:41.508Z"
+status: "active"
 ---
 
 # § 2257. Interchangeability of funds for miscellaneous expenses and general expenses
 
 Not to exceed 7 per centum of the amounts appropriated for any fiscal year for the miscellaneous expenses of the work of any bureau, division, or office of the Department of Agriculture shall be available interchangeably for expenditures on the objects included within the general expenses of such bureau, division, or office, but no more than 7 per centum shall be added to any one item of appropriation except in cases of extraordinary emergency.
 
+
+## Source Credit
+
+*(Sept. 21, 1944, ch. 412, title VII, § 702(b), [58 Stat. 741](https://www.govinfo.gov/link/statute/58/741).)*

@@ -3,9 +3,10 @@ title: "Section 12681 - Authorization of appropriations"
 usc_title: 42
 usc_section: "12681"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12681"
-generated_at: "2026-03-30T02:56:11.429Z"
+generated_at: "2026-11-23T20:27:23.424Z"
+status: "active"
 ---
 
 # § 12681. Authorization of appropriations
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:56:11.429Z"
     - **(B)** Of the amounts appropriated under subparagraph (A) for a fiscal year, a portion shall be made available to provide financial assistance under section 12576(a) of this title .
   - **(6)** Notwithstanding paragraphs (1), (2), and (4) and any other provision of law, of the amounts appropriated for a fiscal year under divisions B, C, and H of subchapter I of this chapter and under titles I and II of the Domestic Volunteer Service Act of 1973 [ 42 U.S.C. 4951 et seq., 5000 et seq.], the Corporation shall reserve not more than 2.5 percent to carry out sections 12523(e) and 12639a of this title and division K of subchapter I, 1 1 See References in Text note below. of which $1,000,000 shall be used by the Corporation to carry out section 12639a of this title . Notwithstanding subsection (b), amounts so reserved shall be available only for the fiscal year for which the amounts are reserved.
 - **(b)** Funds appropriated under this section shall remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 101–610, title V, § 501](https://www.govinfo.gov/link/plaw/101/public/610), Nov. 16, 1990, [104 Stat. 3185](https://www.govinfo.gov/link/statute/104/3185); [Pub. L. 102–384, § 11](https://www.govinfo.gov/link/plaw/102/public/384), Oct. 5, 1992, [106 Stat. 1459](https://www.govinfo.gov/link/statute/106/1459); [Pub. L. 103–82, title III, § 301(a)](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 897](https://www.govinfo.gov/link/statute/107/897); [Pub. L. 111–13, title I, § 1841](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1579](https://www.govinfo.gov/link/statute/123/1579).)*

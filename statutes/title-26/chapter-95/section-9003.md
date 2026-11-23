@@ -3,9 +3,10 @@ title: "Section 9003 - Condition for eligibility for payments"
 usc_title: 26
 usc_section: "9003"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 9003"
-generated_at: "2026-03-30T02:55:27.889Z"
+generated_at: "2026-11-23T20:26:46.864Z"
+status: "active"
 ---
 
 # § 9003. Condition for eligibility for payments
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:27.889Z"
   - **(1)** shall no longer be eligible to receive any payments under section 9006, except that such individual shall be eligible to receive payments under such section to defray qualified campaign expenses incurred while actively seeking election to the office of President of the United States or to the office of Vice President of the United States in more than one State; and
   - **(2)** shall pay to the Secretary, as soon as practicable after the date upon which such individual ceases to be a candidate, an amount equal to the amount of payments received by such individual under section 9006 which are not used to defray qualified campaign expenses.
 - **(e)** No candidate for the office of President or Vice President may receive amounts from the Presidential Election Campaign Fund under this chapter or chapter 96 unless such candidate has certified that any television commercial prepared or distributed by the candidate will be prepared in a manner which ensures that the commercial contains or is accompanied by closed captioning of the oral content of the commercial to be broadcast in line 21 of the vertical blanking interval, or is capable of being viewed by deaf and hearing impaired individuals via any comparable successor technology to line 21 of the vertical blanking interval.
+
+## Source Credit
+
+*(Added [Pub. L. 92–178, title VIII, § 801](https://www.govinfo.gov/link/plaw/92/public/178), Dec. 10, 1971, [85 Stat. 564](https://www.govinfo.gov/link/statute/85/564); amended [Pub. L. 93–53, § 6(c)](https://www.govinfo.gov/link/plaw/93/public/53), July 1, 1973, [87 Stat. 139](https://www.govinfo.gov/link/statute/87/139); [Pub. L. 93–443, title IV](https://www.govinfo.gov/link/plaw/93/public/443), §§ 404(c)(4), (5), 405(b), Oct. 15, 1974, [88 Stat. 1292](https://www.govinfo.gov/link/statute/88/1292), 1294; [Pub. L. 94–283, title III, § 306(a)(2)](https://www.govinfo.gov/link/plaw/94/public/283), May 11, 1976, [90 Stat. 500](https://www.govinfo.gov/link/statute/90/500); [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 102–393, title V, § 534(a)](https://www.govinfo.gov/link/plaw/102/public/393), Oct. 6, 1992, [106 Stat. 1764](https://www.govinfo.gov/link/statute/106/1764); [Pub. L. 115–141, div. U, title IV, § 401(a)(338)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1200](https://www.govinfo.gov/link/statute/132/1200).)*

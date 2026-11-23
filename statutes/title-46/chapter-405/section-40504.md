@@ -3,9 +3,10 @@ title: "Section 40504 - Shipping exchange registry"
 usc_title: 46
 usc_section: "40504"
 chapter: 405
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 40504"
-generated_at: "2026-03-30T02:56:15.564Z"
+generated_at: "2026-11-23T20:27:27.230Z"
+status: "active"
 ---
 
 # § 40504. Shipping exchange registry
@@ -15,3 +16,17 @@ generated_at: "2026-03-30T02:56:15.564Z"
 - **(c)** The Commission may exempt, conditionally or unconditionally, a shipping exchange from registration under this section if the Commission finds that the shipping exchange is subject to comparable, comprehensive supervision and regulation by the appropriate governmental authorities in a foreign country where the shipping exchange is headquartered.
 - **(d)** Not later than 3 years after the date of enactment of the Ocean Shipping Reform Act of 2022, the Commission shall issue regulations pursuant to subsection (a), which shall set standards necessary to carry out subtitle IV of this title for registered national shipping exchanges. For consideration of a service contract entered into by a shipping exchange, the Commission shall be limited to the minimum essential terms for service contracts established under section 40502 of this title .
 - **(e)** In this section, the term “shipping exchange” means a platform (digital, over-the-counter, or otherwise) that connects shippers with common carriers for the purpose of entering into underlying agreements or contracts for the transport of cargo, by vessel or other modes of transportation.
+
+In General
+
+Registration
+
+Exemption
+
+Regulations
+
+Definition of Shipping Exchange
+
+## Source Credit
+
+*(Added [Pub. L. 117–146, § 4(a)](https://www.govinfo.gov/link/plaw/117/public/146), June 16, 2022, [136 Stat. 1272](https://www.govinfo.gov/link/statute/136/1272).)*

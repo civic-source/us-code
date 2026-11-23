@@ -3,9 +3,10 @@ title: "Section 1102b - Authorized activities"
 usc_title: 20
 usc_section: "1102b"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1102b"
-generated_at: "2026-03-30T02:54:48.141Z"
+generated_at: "2026-11-23T20:26:14.547Z"
+status: "active"
 ---
 
 # § 1102b. Authorized activities
@@ -22,3 +23,7 @@ Grants awarded under this part shall be used for one or more of the following ac
   - **(8)** Other activities proposed in the application submitted pursuant to section 1102c of this title that—
     - **(A)** contribute to carrying out the purposes of this part; and
     - **(B)** are approved by the Secretary as part of the review and acceptance of such application.
+
+## Source Credit
+
+*([Pub. L. 89–329, title V, § 513](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title V, § 502(a)(3)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3332](https://www.govinfo.gov/link/statute/122/3332).)*

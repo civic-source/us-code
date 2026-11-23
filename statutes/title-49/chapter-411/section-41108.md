@@ -3,9 +3,10 @@ title: "Section 41108 - Applications for certificates"
 usc_title: 49
 usc_section: "41108"
 chapter: 411
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 41108"
-generated_at: "2026-03-30T02:56:19.372Z"
+generated_at: "2026-11-23T20:27:35.078Z"
+status: "active"
 ---
 
 # § 41108. Applications for certificates
@@ -27,3 +28,85 @@ generated_at: "2026-03-30T02:56:19.372Z"
 - **(c)**
   - **(1)** A citizen applying for a certificate must prove that the citizen is fit, willing, and able to provide the transportation referred to in section 41102 of this title and to comply with this part.
   - **(2)** A person opposing a citizen applying for a certificate must prove that the transportation referred to in section 41102(b)(2) of this title is not consistent with the public convenience and necessity. The transportation is deemed to be consistent with the public convenience and necessity unless the Secretary finds, by a preponderance of the evidence, that the transportation is not consistent with the public convenience and necessity.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 41108(a) | 49 App.:1371(b). | Aug. 23, 1958 , Pub. L. 85–726, § 401(b) , 72 Stat. 754 ; Oct. 24, 1978 , Pub. L. 95–504, § 6 , 92 Stat. 1710 . |
+|  | 49 App.:1551(b)(1)(E). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 1601(b)(1)(E); added Oct. 4, 1984 , Pub. L. 98–443, § 3(e) , 98 Stat. 1704 . |
+| 41108(b) | 49 App.:1371(c). | Aug. 23, 1958 , Pub. L. 85–726 , 401(c), 72 Stat. 754 ; restated Oct. 24, 1978 , Pub. L. 95–504, § 7(a) , 92 Stat. 1711 . |
+|  | 49 App.:1551(b)(1)(E). |  |
+| 41108(c) | 49 App.:1371(d)(9). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 401(d)(9); added Oct. 24, 1978 , Pub. L. 95–504, § 14 , 92 Stat. 1719 . |
+|  | 49 App.:1551(b)(1)(E). |  |
+
+
+Form, Contents, and Proof of Service
+
+Notice, Response, and Actions on Applications
+
+Proof Requirements
+
+Historical and Revision Notes
+
+41108(a)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 401(b)
+
+72 Stat. 754
+
+Oct. 24, 1978
+
+Pub. L. 95–504, § 6
+
+92 Stat. 1710
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Oct. 4, 1984
+
+Pub. L. 98–443, § 3(e)
+
+98 Stat. 1704
+
+41108(b)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 754
+
+Oct. 24, 1978
+
+Pub. L. 95–504, § 7(a)
+
+92 Stat. 1711
+
+41108(c)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Oct. 24, 1978
+
+Pub. L. 95–504, § 14
+
+92 Stat. 1719
+
+In General
+
+Measures
+
+Congressional Briefing
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1121](https://www.govinfo.gov/link/statute/108/1121).)*

@@ -3,9 +3,10 @@ title: "Section 36a - Suicide prevention for youth"
 usc_title: 42
 usc_section: "36a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 36a"
-generated_at: "2026-03-30T02:56:10.763Z"
+generated_at: "2026-11-23T20:27:20.313Z"
+status: "active"
 ---
 
 # § 290bb–36a. Suicide prevention for youth
@@ -39,3 +40,17 @@ generated_at: "2026-03-30T02:56:10.763Z"
   - **(3)** a profile of services available to these groups and the use of these services by children and youths from paragraphs (1) and (2).
 - **(m)** In this section, the terms “early intervention”, “educational institution”, “institution of higher education”, “prevention”, “school”, and “youth” have the meanings given to those terms in section 290bb–36 of this title .
 - **(n)** For purposes of carrying out this section, there is authorized to be appropriated $75,000,000 for fiscal year 2001 and such sums as may be necessary for each of the fiscal years 2002 through 2003.
+
+Short Title
+
+Findings
+
+Purpose
+
+Study
+
+Authorization of Appropriations
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title V, § 520E–1, formerly § 520E, as added [Pub. L. 106–310, div. B, title XXXI, § 3111](https://www.govinfo.gov/link/plaw/106/public/310), Oct. 17, 2000, [114 Stat. 1186](https://www.govinfo.gov/link/statute/114/1186); renumbered § 520E–1 and amended [Pub. L. 108–355, § 3(b)](https://www.govinfo.gov/link/plaw/108/public/355), Oct. 21, 2004, [118 Stat. 1407](https://www.govinfo.gov/link/statute/118/1407).)*

@@ -3,9 +3,10 @@ title: "Section 839d - Conservation and resource acquisition"
 usc_title: 16
 usc_section: "839d"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 839d"
-generated_at: "2026-03-30T02:54:22.932Z"
+generated_at: "2026-11-23T20:26:20.328Z"
+status: "active"
 ---
 
 # § 839d. Conservation and resource acquisition
@@ -87,3 +88,7 @@ generated_at: "2026-03-30T02:54:22.932Z"
   - **(4)** The Administrator shall conduct the investigations and the acquisitions, if any, authorized under this subsection with the assistance of other Federal agencies as may be appropriate.
   - **(5)** No later than July 1, 1981 , the Administrator shall submit to the Congress a report of the results of the investigations undertaken pursuant to this subsection, together with the prospects for obtaining additional resources under the authority granted by this subsection and for reductions in generation or generating capacity through exchanges.
 - **(m)** Except as to resources under construction on December 5, 1980 , the Administrator shall determine in each case of a major resource acquisition that a reasonable share of the particular resource, or a reasonable equivalent, has been offered to each Pacific Northwest electric utility for ownership, participation, or other sponsorship, but not in excess of the amounts needed to meet such utility’s Regional load.
+
+## Source Credit
+
+*([Pub. L. 96–501, § 6](https://www.govinfo.gov/link/plaw/96/public/501), Dec. 5, 1980, [94 Stat. 2717](https://www.govinfo.gov/link/statute/94/2717).)*

@@ -3,9 +3,10 @@ title: "Section 10741 - Grant program to evaluate and improve educational method
 usc_title: 34
 usc_section: "10741"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10741"
-generated_at: "2026-03-30T02:55:33.276Z"
+generated_at: "2026-11-23T20:26:50.502Z"
+status: "active"
 ---
 
 # § 10741. Grant program to evaluate and improve educational methods at prisons, jails, and juvenile facilities
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:33.276Z"
 - **(b)** To be eligible for a grant under this subchapter, a State or other entity described in subsection (a) shall submit to the Attorney General an application in such form and manner, at such time, and accompanied by such information as the Attorney General specifies.
 - **(c)** Not later than 180 days after December 21, 2018 , the Attorney General shall identify and publish best practices relating to academic and vocational education for offenders in prisons, jails, and juvenile facilities. The best practices shall consider the evaluations performed and recommendations made under grants made under subsection (a) before December 21, 2018 .
 - **(d)** Not later than 90 days after the last day of the final fiscal year of a grant under this subchapter, each entity described in subsection (a) receiving such a grant shall submit to the Attorney General a detailed report of the progress made by the entity using such grant, to permit the Attorney General to evaluate and improve academic and vocational education methods carried out with grants under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 3041](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 115–391, title V, § 502(c)(2)](https://www.govinfo.gov/link/plaw/115/public/391), Dec. 21, 2018, [132 Stat. 5228](https://www.govinfo.gov/link/statute/132/5228).)*

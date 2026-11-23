@@ -3,9 +3,10 @@ title: "Section 420 - Disposition of effects of deceased persons; unclaimed prop
 usc_title: 24
 usc_section: "420"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "24 U.S.C. § 420"
-generated_at: "2026-03-30T02:54:50.791Z"
+generated_at: "2026-11-23T20:26:22.704Z"
+status: "active"
 ---
 
 # § 420. Disposition of effects of deceased persons; unclaimed property
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:54:50.791Z"
   - **(2)** A claim referred to in paragraph (1) may not be considered by a court or the Secretary unless the claim is filed within the time period prescribed in such paragraph.
   - **(3)** A claim allowed by the Secretary under paragraph (1) shall be certified to the Secretary of the Treasury for payment from the Fund in the amount found due, including any interest relating to the amount. No claim may be allowed or paid in excess of the net proceeds of the estate deposited in the Fund under subsection (c) plus interest.
 - **(e)** In the case of property delivered to the Retirement Home under section 2575 of title 10 , the Administrator of the facility shall deliver the property to the owner, the heirs or next of kin of the owner, or the legal representative of the owner, if a right to the property is established to the satisfaction of the Administrator of the facility within two years after the delivery.
+
+## Source Credit
+
+*([Pub. L. 101–510, div. A, title XV, § 1520](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1731](https://www.govinfo.gov/link/statute/104/1731); [Pub. L. 103–160, div. A, title III, § 366(d)](https://www.govinfo.gov/link/plaw/103/public/160), (e), Nov. 30, 1993, [107 Stat. 1631](https://www.govinfo.gov/link/statute/107/1631); [Pub. L. 104–316, title II, § 202(j)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3843](https://www.govinfo.gov/link/statute/110/3843); [Pub. L. 107–107, div. A, title XIV](https://www.govinfo.gov/link/plaw/107/public/107), §§ 1408, 1410(a)(3), Dec. 28, 2001, [115 Stat. 1265](https://www.govinfo.gov/link/statute/115/1265), 1266; [Pub. L. 107–314, div. A, title X, § 1062(f)(3)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2651](https://www.govinfo.gov/link/statute/116/2651); [Pub. L. 108–136, div. A, title X, § 1045(g)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1613](https://www.govinfo.gov/link/statute/117/1613); [Pub. L. 112–81, div. A, title V](https://www.govinfo.gov/link/plaw/112/public/81), §§ 564(b), 567(c)(6), Dec. 31, 2011, [125 Stat. 1424](https://www.govinfo.gov/link/statute/125/1424), 1426; [Pub. L. 115–232, div. A, title VIII, § 809(g)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1842](https://www.govinfo.gov/link/statute/132/1842).)*

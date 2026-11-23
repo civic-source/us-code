@@ -3,9 +3,10 @@ title: "Section 44736 - Organization designation authorizations"
 usc_title: 49
 usc_section: "44736"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44736"
-generated_at: "2026-03-30T02:56:19.387Z"
+generated_at: "2026-11-23T20:27:35.189Z"
+status: "active"
 ---
 
 # § 44736. Organization designation authorizations
@@ -74,3 +75,153 @@ generated_at: "2026-03-30T02:56:19.387Z"
     - **(B)** Such Office may require changes to the training program considered necessary to maintain ethical and professional standards across all ODA holders and unit members.
   - **(3)** As part of the recurrent training program required under paragraph (1), not later than 60 business days after being designated as an ODA unit member, and annually thereafter, each ODA unit member shall complete the ethics training required by the ODA holder of the respective ODA unit member in order to exercise the functions delegated under the ODA.
   - **(4)** The Administrator shall establish such processes or requirements as are necessary to ensure compliance with paragraph (3).
+
+Delegations of Functions.—
+
+In general
+
+Duties of oda holders
+
+Existing oda holders
+
+ODA Office.—
+
+Establishment
+
+Purpose
+
+Functions
+
+Definitions
+
+FAA
+
+ODA holder
+
+ODA unit
+
+Organization
+
+Organization designation authorization; oda
+
+Audits.—
+
+In general
+
+Duration
+
+Records
+
+Federal Aviation Safety Advisors.—
+
+In general
+
+Applicability
+
+Communication With the FAA
+
+Ethics Training Requirement for ODA Holders.—
+
+In general
+
+FAA review.—
+
+Review of training program
+
+Changes to program
+
+Training
+
+Accountability
+
+Expert Review.—
+
+Establishment
+
+Contents of review
+
+Composition of review panel
+
+Recommendations
+
+Report.—
+
+Submission
+
+Dissenting views
+
+Publication
+
+Termination
+
+Administrative provisions.—
+
+Access to information
+
+Disclosure of financial interests
+
+Protection of proprietary information; trade secrets.—
+
+Marking
+
+Nondisclosure for non-federal government participants.—
+
+Non-federal government participants
+
+Federal employee participants
+
+Protection of voluntarily submitted safety information
+
+Protection of proprietary information and trade secrets
+
+Resolving classification of information
+
+Applicable law
+
+Financial interest defined
+
+FAA Authority.—
+
+In general
+
+Reinstatement
+
+Rule of construction
+
+Organization Designation Authorization Process Improvements
+
+Non-concurrence With Recommendations
+
+Establishment of Expert Review Panel.—
+
+Expert panel
+
+Composition of panel.—
+
+Appointment of members
+
+Qualifications
+
+Survey
+
+Best Practices Review
+
+Assessment and Recommendations
+
+Report
+
+Definitions
+
+Applicable Law
+
+Best Practices Adoption.—
+
+In general
+
+Notice and comment period
+
+Sunset
+
+## Source Credit
+
+*(Added [Pub. L. 115–254, div. B, title II, § 212(a)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3247](https://www.govinfo.gov/link/statute/132/3247); amended [Pub. L. 116–260, div. V, title I](https://www.govinfo.gov/link/plaw/116/public/260), §§ 107(b)(1), (c), 125(b), Dec. 27, 2020, [134 Stat. 2324](https://www.govinfo.gov/link/statute/134/2324), 2325, 2347; [Pub. L. 118–63, title III](https://www.govinfo.gov/link/plaw/118/public/63), §§ 303, 304(a), May 16, 2024, [138 Stat. 1069](https://www.govinfo.gov/link/statute/138/1069), 1070.)*

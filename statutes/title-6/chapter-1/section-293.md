@@ -3,9 +3,10 @@ title: "Section 293 - Authority to conduct a demonstration project relating to d
 usc_title: 6
 usc_section: "293"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 293"
-generated_at: "2026-03-30T02:53:09.455Z"
+generated_at: "2026-11-23T20:25:34.690Z"
+status: "active"
 ---
 
 # § 293. Authority to conduct a demonstration project relating to disciplinary action
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:09.455Z"
   - **(2)** within a unit with respect to which a labor organization is accorded exclusive recognition under chapter 71 of title 5.
 - **(f)** The Government Accountability Office shall prepare and submit to the Committees on Government Reform and the Judiciary of the House of Representatives and the Committees on Governmental Affairs and the Judiciary of the Senate periodic reports on any demonstration project conducted under this section, such reports to be submitted after the second and fourth years of its operation. Upon request, the Attorney General or the Secretary shall furnish such information as the Government Accountability Office may require to carry out this subsection.
 - **(g)** In this section, the term “covered entity” has the meaning given such term in section 292(a)(2) of this title .
+
+## Source Credit
+
+*([Pub. L. 107–296, title IV, § 473](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2208](https://www.govinfo.gov/link/statute/116/2208); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814).)*

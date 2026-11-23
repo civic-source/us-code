@@ -3,9 +3,10 @@ title: "Section 2134 - Two-year residual authority to negotiate duties"
 usc_title: 19
 usc_section: "2134"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2134"
-generated_at: "2026-03-30T02:54:24.665Z"
+generated_at: "2026-11-23T20:26:10.910Z"
+status: "active"
 ---
 
 # § 2134. Two-year residual authority to negotiate duties
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:24.665Z"
     - **(A)** the difference between such limitation and the next lower whole number, or
     - **(B)** one-half of 1 percent ad valorem.
 - **(d)** Agreements may be entered into under this section only during the 2-year period which immediately follows the close of the period during which agreements may be entered into under section 2111 of this title .
+
+## Source Credit
+
+*([Pub. L. 93–618, title I, § 124](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 1990](https://www.govinfo.gov/link/statute/88/1990).)*

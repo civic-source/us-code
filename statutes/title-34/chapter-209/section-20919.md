@@ -3,9 +3,10 @@ title: "Section 20919 - Duty to notify sex offenders of registration requirement
 usc_title: 34
 usc_section: "20919"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 20919"
-generated_at: "2026-03-30T02:55:33.300Z"
+generated_at: "2026-11-23T20:26:50.608Z"
+status: "active"
 ---
 
 # § 20919. Duty to notify sex offenders of registration requirements and to register
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:33.300Z"
   - **(2)** require the sex offender to read and sign a form stating that the duty to register has been explained and that the sex offender understands the registration requirement; and
   - **(3)** ensure that the sex offender is registered.
 - **(b)** The Attorney General shall prescribe rules for the notification of sex offenders who cannot be registered in accordance with subsection (a).
+
+## Source Credit
+
+*([Pub. L. 109–248, title I, § 117](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 595](https://www.govinfo.gov/link/statute/120/595).)*

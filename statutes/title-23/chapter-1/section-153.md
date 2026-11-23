@@ -3,9 +3,10 @@ title: "Section 153 - Use of safety belts and motorcycle helmets"
 usc_title: 23
 usc_section: "153"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 153"
-generated_at: "2026-03-30T02:55:12.560Z"
+generated_at: "2026-11-23T20:26:23.823Z"
+status: "active"
 ---
 
 # § 153. Use of safety belts and motorcycle helmets
@@ -50,3 +51,75 @@ generated_at: "2026-03-30T02:55:12.560Z"
     - **(B)** with respect to other passenger vehicles, an occupant restraint system consisting of integrated lap shoulder belts.
 - **(j)** There is authorized to be appropriated out of the Highway Trust Fund (other than the Mass Transit Account) to carry out this section $17,000,000 for fiscal year 1992. From sums made available to carry out section 402 of this title , the Secretary shall make available $17,000,000 for fiscal year 1992 and $24,000,000 for each of fiscal years 1993 and 1994 to carry out this section.
 - **(k)** All provisions of this chapter that are applicable to National Highway System funds, other than provisions relating to the apportionment formula and provisions limiting the expenditures of such funds to Federal-aid systems, shall apply to funds authorized to be appropriated to carry out this section, except as determined by the Secretary to be inconsistent with this section and except that sums authorized by this section shall remain available until ex­pended.
+
+Authority To Make Grants
+
+Use of Grants
+
+Education
+
+Training
+
+Monitoring
+
+Enforcement
+
+Maintenance of Effort
+
+Federal Share
+
+Maximum Aggregate Amount of Grants
+
+Eligibility for Grants.—
+
+General rule
+
+Second-year grants
+
+Third-year grants
+
+Measurements of Rates of Compliance
+
+Penalty.—
+
+Prior to fiscal year 2012
+
+Fiscal year 2012 and thereafter
+
+Federal share
+
+Transfer of obligation authority
+
+Limitation on applicability of highway safety obligations
+
+Definitions
+
+Motorcycle
+
+Motor vehicle
+
+Passenger vehicle
+
+Safety belt
+
+Authorization of Appropriations
+
+Applicability of Chapter
+
+Provisions
+
+Prior to fiscal year 2012
+
+Thereafter
+
+“Notwithstanding section 153 of title 23 , United States Code, the Secretary [of Transportation] may not provide a grant or any funds to a State, county, town, township, Indian tribe, municipality, or other local government that may be used for any program—
+
+In general
+
+Report
+
+Funding
+
+## Source Credit
+
+*(Added [Pub. L. 102–240, title I, § 1031(a)(1)](https://www.govinfo.gov/link/plaw/102/public/240), Dec. 18, 1991, [105 Stat. 1970](https://www.govinfo.gov/link/statute/105/1970); amended [Pub. L. 104–59, title II, § 205(e)](https://www.govinfo.gov/link/plaw/104/public/59), Nov. 28, 1995, [109 Stat. 577](https://www.govinfo.gov/link/statute/109/577); [Pub. L. 112–141, div. A, title I, § 1404(e)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 558](https://www.govinfo.gov/link/statute/126/558); [Pub. L. 114–94, div. A, title I, § 1446(a)(7)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1437](https://www.govinfo.gov/link/statute/129/1437).)*

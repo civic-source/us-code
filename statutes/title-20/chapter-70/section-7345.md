@@ -3,9 +3,10 @@ title: "Section 7345 - Use of applicable funding"
 usc_title: 20
 usc_section: "7345"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 7345"
-generated_at: "2026-03-30T02:54:48.210Z"
+generated_at: "2026-11-23T20:26:14.902Z"
+status: "active"
 ---
 
 # § 7345. Use of applicable funding
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:48.210Z"
   - **(2)** Part A of subchapter IV.
 - **(d)** Each State educational agency that receives applicable funding for a fiscal year shall disburse the applicable funding to local educational agencies for alternative uses under this section for the fiscal year at the same time as the State educational agency disburses the applicable funding to local educational agencies that do not intend to use the applicable funding for such alternative uses for the fiscal year.
 - **(e)** Applicable funding under this section shall be available to carry out local activities authorized under subsection (a).
+
+## Source Credit
+
+*([Pub. L. 89–10, title V, § 5211](https://www.govinfo.gov/link/plaw/89/public/10), formerly title VI, § 6211, as added [Pub. L. 107–110, title VI, § 601](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1891](https://www.govinfo.gov/link/statute/115/1891); renumbered title V, § 5211, and amended [Pub. L. 114–95, title V](https://www.govinfo.gov/link/plaw/114/public/95), §§ 5001(a)(3), 5003(1), Dec. 10, 2015, [129 Stat. 2039–2041](https://www.govinfo.gov/link/statute/129/2039).)*

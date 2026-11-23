@@ -3,9 +3,10 @@ title: "Section 6082 - Definitions"
 usc_title: 20
 usc_section: "6082"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 6082"
-generated_at: "2026-03-30T02:54:48.191Z"
+generated_at: "2026-11-23T20:26:14.807Z"
+status: "active"
 ---
 
 # § 6082. Definitions
@@ -21,3 +22,7 @@ As used in this part:
   - **(3)** The term “person” means any State or local subdivision thereof, agency of such State or subdivision, corporation, or partnership that owns or operates or otherwise controls and provides children’s services or any individual who owns or operates or otherwise controls and provides such services.
   - **(4)** The term “indoor facility” means a building that is enclosed.
   - **(5)** The term “Secretary” means the Secretary of Health and Human Services.
+
+## Source Credit
+
+*([Pub. L. 103–227, title X, § 1042](https://www.govinfo.gov/link/plaw/103/public/227), Mar. 31, 1994, [108 Stat. 271](https://www.govinfo.gov/link/statute/108/271).)*

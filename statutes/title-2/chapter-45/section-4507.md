@@ -3,9 +3,10 @@ title: "Section 4507 - Longevity compensation"
 usc_title: 2
 usc_section: "4507"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 4507"
-generated_at: "2026-03-30T02:53:04.831Z"
+generated_at: "2026-11-23T20:25:29.033Z"
+status: "active"
 ---
 
 # § 4507. Longevity compensation
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:04.831Z"
     - **(B)** in computing length of continuous creditable service, only creditable service performed subsequent to August 31, 1957 , shall be taken into account, except that, in the case of service as an employee employed under authority of section 6538 of this title , only creditable service performed subsequent to January 2, 1971 , shall be taken into account; and
     - **(C)** continuity of creditable service shall not be deemed to be broken by separations from service of not more than thirty days, by the performance of service as an employee (other than an employee subject to the provisions of this section) whose compensation is disbursed by the Secretary of the Senate or the Clerk of the House of Representatives, or by the performance of active military service in the armed forces of the United States, but periods of such separations and service shall not be creditable service.
   - **(4)** Longevity compensation shall be payable on and after the first day of the first month following completion of each period of creditable service upon which such compensation is based.
+
+## Source Credit
+
+*([Pub. L. 87–730, § 106(a)](https://www.govinfo.gov/link/plaw/87/public/730), (b), (d), Oct. 2, 1962, [76 Stat. 694](https://www.govinfo.gov/link/statute/76/694), 695; [Pub. L. 88–454, § 104(b)](https://www.govinfo.gov/link/plaw/88/public/454), Aug. 20, 1964, [78 Stat. 550](https://www.govinfo.gov/link/statute/78/550); [Pub. L. 90–57, § 105(g)](https://www.govinfo.gov/link/plaw/90/public/57), July 28, 1967, [81 Stat. 143](https://www.govinfo.gov/link/statute/81/143); [Pub. L. 90–206, title II, § 214(n)](https://www.govinfo.gov/link/plaw/90/public/206), Dec. 16, 1967, [81 Stat. 637](https://www.govinfo.gov/link/statute/81/637); [Pub. L. 91–656, § 4](https://www.govinfo.gov/link/plaw/91/public/656), Jan. 8, 1971, [84 Stat. 1952](https://www.govinfo.gov/link/statute/84/1952); [Pub. L. 93–371](https://www.govinfo.gov/link/plaw/93/public/371), Aug. 13, 1974, [88 Stat. 436](https://www.govinfo.gov/link/statute/88/436); [Pub. L. 95–240, title II, § 205](https://www.govinfo.gov/link/plaw/95/public/240), Mar. 7, 1978, [92 Stat. 117](https://www.govinfo.gov/link/statute/92/117); [Pub. L. 95–391, title I, § 110(a)](https://www.govinfo.gov/link/plaw/95/public/391), Sept. 30, 1978, [92 Stat. 774](https://www.govinfo.gov/link/statute/92/774); [Pub. L. 96–304, title I, § 107(b)](https://www.govinfo.gov/link/plaw/96/public/304), July 8, 1980, [94 Stat. 890](https://www.govinfo.gov/link/statute/94/890).)*

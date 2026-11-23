@@ -3,9 +3,10 @@ title: "Section 541 - Advisory Committee on Former Prisoners of War"
 usc_title: 38
 usc_section: "541"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 541"
-generated_at: "2026-03-30T02:55:53.473Z"
+generated_at: "2026-11-23T20:27:01.571Z"
+status: "active"
 ---
 
 # § 541. Advisory Committee on Former Prisoners of War
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:53.473Z"
   - **(2)** The Secretary shall, within 60 days after receiving each report under paragraph (1), submit to the Congress a copy of the report, together with any comments concerning the report that the Secretary considers appropriate.
   - **(3)** The Committee may also submit to the Secretary such other reports and recommendations as the Committee considers appropriate.
   - **(4)** The Secretary shall submit with each annual report submitted to the Congress pursuant to section 529 of this title a summary of all reports and recommendations of the Committee submitted to the Secretary since the previous annual report of the Secretary submitted to the Congress pursuant to that section.
+
+## Source Credit
+
+*(Added [Pub. L. 102–83, § 2(a)](https://www.govinfo.gov/link/plaw/102/public/83), Aug. 6, 1991, [105 Stat. 392](https://www.govinfo.gov/link/statute/105/392); amended [Pub. L. 102–405, title III, § 302(c)(1)](https://www.govinfo.gov/link/plaw/102/public/405), Oct. 9, 1992, [106 Stat. 1984](https://www.govinfo.gov/link/statute/106/1984); [Pub. L. 106–419, title IV, § 403(c)(2)](https://www.govinfo.gov/link/plaw/106/public/419), Nov. 1, 2000, [114 Stat. 1864](https://www.govinfo.gov/link/statute/114/1864); [Pub. L. 108–454, title VIII, § 803](https://www.govinfo.gov/link/plaw/108/public/454), Dec. 10, 2004, [118 Stat. 3626](https://www.govinfo.gov/link/statute/118/3626).)*

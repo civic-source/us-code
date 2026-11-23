@@ -3,9 +3,10 @@ title: "Section 1974 - Connecting Oceania’s Nations With Vanguard Exercises an
 usc_title: 48
 usc_section: "1974"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1974"
-generated_at: "2026-03-30T02:56:14.598Z"
+generated_at: "2026-11-23T20:27:28.184Z"
+status: "active"
 ---
 
 # § 1974. Connecting Oceania’s Nations With Vanguard Exercises and National Empowerment
@@ -58,3 +59,11 @@ generated_at: "2026-03-30T02:56:14.598Z"
       - **(iv)** efforts to combat illegal, unreported, or unregulated fishing.
     - **(B)** Coordination with United States Government officials on humanitarian response, military exercises, law enforcement, and other issues of security concern.
     - **(C)** Identification and development of an existing governmental entity to support homeland defense and civil support activities.
+
+National security council
+
+Specified country
+
+## Source Credit
+
+*([Pub. L. 118–31, div. E, title LIV, § 5412](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 949](https://www.govinfo.gov/link/statute/137/949).)*

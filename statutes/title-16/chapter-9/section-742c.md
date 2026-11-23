@@ -3,9 +3,10 @@ title: "Section 742c - Loans for financing or refinancing of cost of purchasing,
 usc_title: 16
 usc_section: "742c"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 742c"
-generated_at: "2026-03-30T02:54:22.903Z"
+generated_at: "2026-11-23T20:26:20.257Z"
+status: "active"
 ---
 
 # § 742c. Loans for financing or refinancing of cost of purchasing, constructing, equipping, maintaining, repairing, or operating commercial fishing vessels or gear
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:22.903Z"
 - **(c)** There is created a fisheries loan fund, which shall be used by the Secretary as a revolving fund to make loans for financing and refinancing under this section. Any funds received by the Secretary on or before September 30, 1986 , in payment of principal or interest on any loans so made shall be deposited in the fund and be available for making additional loans under this section. Any funds received in the fisheries loan fund after September 30, 1986 , shall be covered into the Treasury as miscellaneous receipts. There is authorized to be appropriated to the fisheries loan fund the sum of $20,000,000 to provide initial capital.
 - **(d)** The Secretary, subject to the specific limitations in this section, may consent to the modification, with respect to the rate of interest, time of payment of any installment of principal, or security, of any loan contract to which he is a party.
 - **(e)** The Secretary is authorized under such terms and conditions and pursuant to regulations prescribed by him to use the funds appropriated under this section to make loans to commercial fishermen for the purpose of chartering fishing vessels pending the construction or repair of vessels lost, destroyed, or damaged by the earthquake of March 27, 1964 , and subsequent tidal waves related thereto: Provided , That any loans made under this subsection shall only be repaid from the net profits of the operations of such chartered vessels, which profits shall be reduced by such reasonable amount as determined by the Secretary for the salary of the fishermen chartering such vessels. The funds authorized herein shall not be available for such loans after June 30, 1966 .
+
+## Source Credit
+
+*(Aug. 8, 1956, ch. 1036, § 4, [70 Stat. 1121](https://www.govinfo.gov/link/statute/70/1121); [Pub. L. 85–888](https://www.govinfo.gov/link/plaw/85/public/888), Sept. 2, 1958, [72 Stat. 1710](https://www.govinfo.gov/link/statute/72/1710); [Pub. L. 88–309, § 9](https://www.govinfo.gov/link/plaw/88/public/309), May 20, 1964, [78 Stat. 199](https://www.govinfo.gov/link/statute/78/199); [Pub. L. 89–85](https://www.govinfo.gov/link/plaw/89/public/85), §§ 1–4, July 24, 1965, [79 Stat. 262](https://www.govinfo.gov/link/statute/79/262); [Pub. L. 91–279, § 9](https://www.govinfo.gov/link/plaw/91/public/279), June 12, 1970, [84 Stat. 309](https://www.govinfo.gov/link/statute/84/309); [Pub. L. 91–387](https://www.govinfo.gov/link/plaw/91/public/387), §§ 1, 2, Aug. 24, 1970, [84 Stat. 829](https://www.govinfo.gov/link/statute/84/829); [Pub. L. 94–273, § 2(8)](https://www.govinfo.gov/link/plaw/94/public/273), Apr. 21, 1976, [90 Stat. 375](https://www.govinfo.gov/link/statute/90/375); [Pub. L. 96–478, § 16(a)](https://www.govinfo.gov/link/plaw/96/public/478), Oct. 21, 1980, [94 Stat. 2303](https://www.govinfo.gov/link/statute/94/2303); [Pub. L. 97–347, § 1](https://www.govinfo.gov/link/plaw/97/public/347), Oct. 18, 1982, [96 Stat. 1652](https://www.govinfo.gov/link/statute/96/1652); [Pub. L. 98–44, title I, § 103(a)(1)](https://www.govinfo.gov/link/plaw/98/public/44), July 12, 1983, [97 Stat. 216](https://www.govinfo.gov/link/statute/97/216); [Pub. L. 98–498, title IV, § 430(1)](https://www.govinfo.gov/link/plaw/98/public/498), Oct. 19, 1984, [98 Stat. 2310](https://www.govinfo.gov/link/statute/98/2310); [Pub. L. 99–659, title IV, § 409](https://www.govinfo.gov/link/plaw/99/public/659), Nov. 14, 1986, [100 Stat. 3740](https://www.govinfo.gov/link/statute/100/3740).)*

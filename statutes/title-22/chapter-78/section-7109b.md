@@ -3,9 +3,10 @@ title: "Section 7109b - Presidential Award for Extraordinary Efforts To Combat T
 usc_title: 22
 usc_section: "7109b"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7109b"
-generated_at: "2026-03-30T02:55:05.438Z"
+generated_at: "2026-11-23T20:26:32.656Z"
+status: "active"
 ---
 
 # § 7109b. Presidential Award for Extraordinary Efforts To Combat Trafficking in Persons
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:05.438Z"
 - **(b)** The President shall establish procedures for selecting recipients of the award authorized under subsection (a).
 - **(c)** The Secretary of State shall host an annual ceremony for recipients of the award authorized under subsection (a) as soon as practicable after the date on which the Secretary submits to Congress the report required under section 7107(b)(1) of this title . The Secretary of State may pay the travel costs of each recipient and a guest of each recipient who attends the ceremony.
 - **(d)** There are authorized to be appropriated, for each of the fiscal years 2022 through 2027, such sums as may be necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 106–386, div. A, § 112B](https://www.govinfo.gov/link/plaw/106/public/386), as added [Pub. L. 110–457, title I, § 109](https://www.govinfo.gov/link/plaw/110/public/457), Dec. 23, 2008, [122 Stat. 5051](https://www.govinfo.gov/link/statute/122/5051); amended [Pub. L. 117–347, title I, § 105(d)(2)](https://www.govinfo.gov/link/plaw/117/public/347), Jan. 5, 2023, [136 Stat. 6204](https://www.govinfo.gov/link/statute/136/6204).)*

@@ -3,9 +3,10 @@ title: "Section 1635j - Mandatory reporting for swine"
 usc_title: 7
 usc_section: "1635j"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1635j"
-generated_at: "2026-03-30T02:53:42.332Z"
+generated_at: "2026-11-23T20:25:41.236Z"
+status: "active"
 ---
 
 # § 1635j. Mandatory reporting for swine
@@ -101,3 +102,23 @@ generated_at: "2026-03-30T02:53:42.332Z"
   - **(2)** A packer shall maintain and make available to a producer, on request, a current listing of the dollar values (per hundred pounds of carcass weight) of each noncarcass merit premium used by the packer during the current or the prior slaughter week.
   - **(3)** A packer shall not be required to pay a listed noncarcass merit premium to a producer that meets the requirements for the premium if the need for swine in a given category is filled at a particular point in time.
   - **(4)** The Secretary shall publish the information obtained under this subsection as soon as practicable, but not later than 5:00 p.m. Central Time, on the first reporting day of each week.
+
+(aa) barrows and gilts purchased; and
+
+(bb) barrows and gilts scheduled for delivery; and
+
+(aa) including any sum deducted from the price per hundredweight paid to a producer that reflects the repayment of a balance owed by the producer to the packer or the accumulation of a balance to later be repaid by the packer to the producer; and
+
+(bb) excluding any sum earlier paid to a producer that must later be repaid to the packer;
+
+(aa) the total amount paid for the barrows and gilts slaughtered at a packing plant during the applicable reporting period, including all premiums and discounts, and including any sum deducted from the price per hundredweight paid to a producer that reflects the repayment of a balance owed by the producer to the packer, or the accumulation of a balance to later be repaid by the packer to the producer, less all discounts; by
+
+(bb) the total carcass weight (in hundred pound increments) of the barrows and gilts;
+
+(aa) the total carcass weight of the barrows and gilts slaughtered at the packing plant during the applicable reporting period, by
+
+(bb) the number of the barrows and gilts described in item (aa),
+
+## Source Credit
+
+*(Aug. 14, 1946, ch. 966, title II, § 232, as added [Pub. L. 106–78, title IX, § 911(2)](https://www.govinfo.gov/link/plaw/106/public/78), Oct. 22, 1999, [113 Stat. 1195](https://www.govinfo.gov/link/statute/113/1195); amended [Pub. L. 109–296](https://www.govinfo.gov/link/plaw/109/public/296), §§ 3, 4, Oct. 5, 2006, [120 Stat. 1465](https://www.govinfo.gov/link/statute/120/1465), 1468; [Pub. L. 114–54, title I, § 102(b)](https://www.govinfo.gov/link/plaw/114/public/54), Sept. 30, 2015, [129 Stat. 514](https://www.govinfo.gov/link/statute/129/514).)*

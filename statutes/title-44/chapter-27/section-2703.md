@@ -3,9 +3,10 @@ title: "Section 2703 - Functions of the Committee"
 usc_title: 44
 usc_section: "2703"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "44 U.S.C. § 2703"
-generated_at: "2026-03-30T02:55:56.294Z"
+generated_at: "2026-11-23T20:27:03.812Z"
+status: "active"
 ---
 
 # § 2703. Functions of the Committee
@@ -19,3 +20,7 @@ The Committee shall—
       - **(i)** the effect any transfer of records of the National Archives and Records Administration from facilities located in Washington, D.C., to any location outside of Washington, D.C., shall have on the management and preservation of the records of Congress; and
       - **(ii)** the five year plan for the management and preservation of the records of Congress; and
     - **(B)** no later than December 31, 1995 , conduct a study to update the report submitted under subparagraph (A)(ii), and submit a report to the Congress.
+
+## Source Credit
+
+*(Added [Pub. L. 101–509, title IV, § 1(d)(1)](https://www.govinfo.gov/link/plaw/101/public/509), Nov. 5, 1990, [104 Stat. 1418](https://www.govinfo.gov/link/statute/104/1418).)*

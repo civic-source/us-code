@@ -3,9 +3,10 @@ title: "Section 802 - Copyright Royalty Judgeships; staff"
 usc_title: 17
 usc_section: "802"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 802"
-generated_at: "2026-03-30T02:54:15.354Z"
+generated_at: "2026-11-23T20:26:06.533Z"
+status: "active"
 ---
 
 # § 802. Copyright Royalty Judgeships; staff
@@ -39,3 +40,57 @@ generated_at: "2026-03-30T02:54:15.354Z"
 - **(g)** No Copyright Royalty Judge may undertake duties that conflict with his or her duties and responsibilities as a Copyright Royalty Judge.
 - **(h)** The Librarian of Congress shall adopt regulations regarding the standards of conduct, including financial conflict of interest and restrictions against ex parte communications, which shall govern the Copyright Royalty Judges and the proceedings under this chapter.
 - **(i)** The Librarian of Congress may sanction or remove a Copyright Royalty Judge for violation of the standards of conduct adopted under subsection (h), misconduct, neglect of duty, or any disqualifying physical or mental disability. Any such sanction or removal may be made only after notice and opportunity for a hearing, but the Librarian of Congress may suspend the Copyright Royalty Judge during the pendency of such hearing. The Librarian shall appoint an interim Copyright Royalty Judge during the period of any such suspension.
+
+Qualifications of Copyright Royalty Judges.—
+
+In general
+
+Definition
+
+Staff
+
+Terms
+
+Vacancies or Incapacity.—
+
+Vacancies
+
+Incapacity
+
+Compensation.—
+
+Judges
+
+Staff members
+
+Locality pay
+
+Independence of Copyright Royalty Judge.—
+
+In making determinations.—
+
+In general
+
+Novel questions
+
+Consultation
+
+Review of legal conclusions by the register of copyrights
+
+Effect on judicial review
+
+Performance appraisals.—
+
+In general
+
+Relating to sanction or removal
+
+Inconsistent Duties Barred
+
+Standards of Conduct
+
+Removal or Sanction
+
+## Source Credit
+
+*(Added [Pub. L. 108–419, § 3(a)](https://www.govinfo.gov/link/plaw/108/public/419), Nov. 30, 2004, [118 Stat. 2345](https://www.govinfo.gov/link/statute/118/2345); amended [Pub. L. 109–303, § 3(3)](https://www.govinfo.gov/link/plaw/109/public/303), (4), Oct. 6, 2006, [120 Stat. 1478](https://www.govinfo.gov/link/statute/120/1478), 1479; [Pub. L. 116–94, div. P, title XIV, § 1405(a)(1)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3208](https://www.govinfo.gov/link/statute/133/3208).)*

@@ -3,9 +3,10 @@ title: "Section 14 - Membership"
 usc_title: 33
 usc_section: "14"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 14"
-generated_at: "2026-03-30T02:55:41.073Z"
+generated_at: "2026-11-23T20:26:53.915Z"
+status: "active"
 ---
 
 # § 857–14. Membership
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:41.073Z"
 - **(d)** The Committee shall—
   - **(1)** undertake a continuing review, on a selective basis, of national ocean policy, coastal zone management, and the status of the marine and atmospheric science and service programs of the United States; and
   - **(2)** advise the Secretary of Commerce with respect to the carrying out of the programs administered by the National Oceanic and Atmospheric Administration.
+
+## Source Credit
+
+*([Pub. L. 95–63, § 3](https://www.govinfo.gov/link/plaw/95/public/63), July 5, 1977, [91 Stat. 265](https://www.govinfo.gov/link/statute/91/265); [Pub. L. 95–304, § 1(1)](https://www.govinfo.gov/link/plaw/95/public/304), June 29, 1978, [92 Stat. 347](https://www.govinfo.gov/link/statute/92/347); [Pub. L. 97–87, § 1(1)](https://www.govinfo.gov/link/plaw/97/public/87), Dec. 1, 1981, [95 Stat. 1134](https://www.govinfo.gov/link/statute/95/1134).)*

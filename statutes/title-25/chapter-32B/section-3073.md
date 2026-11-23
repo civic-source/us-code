@@ -3,9 +3,10 @@ title: "Section 3073 - Export prohibitions; export certification system; interna
 usc_title: 25
 usc_section: "3073"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3073"
-generated_at: "2026-03-30T02:54:52.847Z"
+generated_at: "2026-11-23T20:26:25.629Z"
+status: "active"
 ---
 
 # § 3073. Export prohibitions; export certification system; international agreements
@@ -122,3 +123,27 @@ generated_at: "2026-03-30T02:54:52.847Z"
   - **(1)** to discourage commerce in, and collection of, Items Prohibited from Exportation;
   - **(2)** to encourage the voluntary return of tangible cultural heritage; and
   - **(3)** to expand the market for the products of Indian art and craftsmanship in accordance with section 305a of this title .
+
+(aa) “cultural items” in section 2 of the Native American Graves Protection and Repatriation Act ( 25 U.S.C. 3001 ); and
+
+(bb) “archaeological resource” in section 3 of the Archaeological Resources Protection Act of 1979 ( 16 U.S.C. 470bb );
+
+(aa) cultural items under section 1170(b) of title 18 ; and
+
+(bb) archaeological resources under subsections (b) and (c) of section 6 of Archaeological Resources Protection Act of 1979 ( 16 U.S.C. 470ee );
+
+(aa) include the definitions of the terms “Native American” and “Native Hawaiian” in section 2 of the Native American Graves Protection and Repatriation Act ( 25 U.S.C. 3001 ); and
+
+(bb) describe how those terms apply to archaeological resources under this chapter; and
+
+(aa) an export certification is required only for Items Requiring Export Certification; and
+
+(bb) fair notice is given to exporters and other persons regarding which items require an export certification under this subsection; and
+
+(aa) delayed pursuant to the examination by the Secretary of the eligibility of the Item Requiring Export Certification for an export certification; or
+
+(bb) denied by the Secretary because the Secretary determined that the Item Requiring Export Certification is not eligible for an export certification under this subsection.
+
+## Source Credit
+
+*([Pub. L. 117–258, § 5](https://www.govinfo.gov/link/plaw/117/public/258), Dec. 21, 2022, [136 Stat. 2374](https://www.govinfo.gov/link/statute/136/2374).)*

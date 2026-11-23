@@ -3,12 +3,37 @@ title: "Section 450hh - Saint Croix Island International Historic Site; establis
 usc_title: 16
 usc_section: "450hh"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 450hh"
-generated_at: "2026-03-30T02:54:22.802Z"
+generated_at: "2026-11-23T20:26:19.861Z"
+status: "active"
 ---
 
 # § 450hh. Saint Croix Island International Historic Site; establishment; acceptance of land; size
 
 For the purpose of establishing a Federal area of national historical importance for the benefit of the people of the United States, the Secretary of the Interior is authorized to accept, for national monument purposes, on behalf of the United States, the donation of all non-Federal lands and interests in land situated on Saint Croix (Dochet) Island, located in the Saint Croix River, in the State of Maine. The Secretary is authorized to acquire, in such manner as he may consider to be in the public interest, not to exceed fifty acres of land or interests therein situated on the mainland, such property to be used for general administrative purposes and for a landing dock in order to provide a suitable approach and ready access to the island.
 
+
+Findings
+
+Purpose
+
+Island
+
+Secretary
+
+In General
+
+Cooperative Agreements
+
+Design and Construction.—
+
+In general
+
+Expenditure
+
+Operation and Maintenance
+
+## Source Credit
+
+*(June 8, 1949, ch. 180, § 1, [63 Stat. 158](https://www.govinfo.gov/link/statute/63/158).)*

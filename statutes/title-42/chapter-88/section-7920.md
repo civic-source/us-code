@@ -3,9 +3,10 @@ title: "Section 7920 - Enforcement"
 usc_title: 42
 usc_section: "7920"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7920"
-generated_at: "2026-03-30T02:56:11.331Z"
+generated_at: "2026-11-23T20:27:22.987Z"
+status: "active"
 ---
 
 # § 7920. Enforcement
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.331Z"
   - **(4)** No civil penalty may be assessed against the United States or any State or political subdivision of a State or any official or employee of the foregoing.
   - **(5)** Nothing in this section shall prevent the Secretary from enforcing any provision of this subchapter or any cooperative agreement or any such rule by injunction or other equitable remedy.
 - **(b)** Subsection (a) shall not apply to any licensing requirement under the Atomic Energy Act of 1954 [ 42 U.S.C. 2011 et seq.]. Such licensing requirements shall be enforced by the Commission as provided in such Act.
+
+## Source Credit
+
+*([Pub. L. 95–604, title I, § 110](https://www.govinfo.gov/link/plaw/95/public/604), Nov. 8, 1978, [92 Stat. 3030](https://www.govinfo.gov/link/statute/92/3030).)*

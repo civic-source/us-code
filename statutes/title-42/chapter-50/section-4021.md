@@ -3,9 +3,10 @@ title: "Section 4021 - Participation in State disaster claims mediation programs
 usc_title: 42
 usc_section: "4021"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4021"
-generated_at: "2026-03-30T02:56:11.197Z"
+generated_at: "2026-11-23T20:27:22.342Z"
+status: "active"
 ---
 
 # § 4021. Participation in State disaster claims mediation programs
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:56:11.197Z"
   - **(1)** this section shall not apply; and
   - **(2)** the provisions of the standard flood insurance policy under the national flood insurance program and the appeals process established under section 205 of the Bunning-Bereuter-Blumenauer Flood Insurance Reform Act of 2004 ( 42 U.S.C. 4011 note) and the regulations issued pursuant to such section shall apply exclusively.
 - **(j)** For purposes of this section, the term “representatives of the Administrator” means representatives of the national flood insurance program who participate in the appeals process established under section 205 of the Bunning-Bereuter-Blumenauer Flood Insurance Reform Act of 2004 ( 42 U.S.C. 4011 note).
+
+## Source Credit
+
+*([Pub. L. 90–448, title XIII, § 1314](https://www.govinfo.gov/link/plaw/90/public/448), as added [Pub. L. 112–141, div. F, title II, § 100223](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 934](https://www.govinfo.gov/link/statute/126/934).)*

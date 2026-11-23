@@ -3,9 +3,10 @@ title: "Section 9843 - Technical assistance and training"
 usc_title: 42
 usc_section: "9843"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9843"
-generated_at: "2026-03-30T02:56:11.370Z"
+generated_at: "2026-11-23T20:27:23.158Z"
+status: "active"
 ---
 
 # § 9843. Technical assistance and training
@@ -108,3 +109,9 @@ generated_at: "2026-03-30T02:56:11.370Z"
     - **(B)** The term “historically Black college or university” has the meaning given the term “part B institution” in section 1061(2) of title 20 .
     - **(C)** The term “Tribal College or University” has the meaning given such term in section 1059c(b) of title 20 .
   - **(5)** A student at an institution receiving a grant under this subsection who receives assistance under a program funded under this subsection shall teach in a center-based Head Start program for a period of time equivalent to the period for which they received assistance or shall repay such assistance.
+
+“It is the purpose of this section—
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 648](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 505](https://www.govinfo.gov/link/statute/95/505); [Pub. L. 98–558, title I, § 106](https://www.govinfo.gov/link/plaw/98/public/558), Oct. 30, 1984, [98 Stat. 2879](https://www.govinfo.gov/link/statute/98/2879); [Pub. L. 101–501, title I, § 116(a)](https://www.govinfo.gov/link/plaw/101/public/501), Nov. 3, 1990, [104 Stat. 1232](https://www.govinfo.gov/link/statute/104/1232); [Pub. L. 102–586, § 7(b)](https://www.govinfo.gov/link/plaw/102/public/586), Nov. 4, 1992, [106 Stat. 5035](https://www.govinfo.gov/link/statute/106/5035); [Pub. L. 103–252, title I, § 114](https://www.govinfo.gov/link/plaw/103/public/252), May 18, 1994, [108 Stat. 642](https://www.govinfo.gov/link/statute/108/642); [Pub. L. 105–285, title I, § 114](https://www.govinfo.gov/link/plaw/105/public/285), Oct. 27, 1998, [112 Stat. 2721](https://www.govinfo.gov/link/statute/112/2721); [Pub. L. 110–134, § 18](https://www.govinfo.gov/link/plaw/110/public/134), Dec. 12, 2007, [121 Stat. 1423](https://www.govinfo.gov/link/statute/121/1423); [Pub. L. 114–95, title IX, § 9215(nn)(5)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2177](https://www.govinfo.gov/link/statute/129/2177).)*

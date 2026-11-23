@@ -3,9 +3,10 @@ title: "Section 3150 - Alaska mineral resource assessment program"
 usc_title: 16
 usc_section: "3150"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3150"
-generated_at: "2026-03-30T02:54:23.010Z"
+generated_at: "2026-11-23T20:26:20.633Z"
+status: "active"
 ---
 
 # § 3150. Alaska mineral resource assessment program
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:23.010Z"
 - **(b)** Activities carried out in conservation system units under subsection (a) shall be subject to regulations promulgated by the Secretary. Such regulations shall ensure that such activities are carried out in an environmentally sound manner—
   - **(1)** which does not result in lasting environmental impacts which appreciably alter the natural character of the units or biological or ecological systems in the units; and
   - **(2)** which is compatible with the purposes for which such units are established.
+
+## Source Credit
+
+*([Pub. L. 96–487, title X, § 1010](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2456](https://www.govinfo.gov/link/statute/94/2456).)*

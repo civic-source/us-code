@@ -3,9 +3,10 @@ title: "Section 269 - Acquisitions made to evade or avoid income tax"
 usc_title: 26
 usc_section: "269"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 269"
-generated_at: "2026-03-30T02:55:27.659Z"
+generated_at: "2026-11-23T20:26:45.538Z"
+status: "active"
 ---
 
 # § 269. Acquisitions made to evade or avoid income tax
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:27.659Z"
   - **(1)** to allow as a deduction, credit, or allowance any part of any amount disallowed by such subsection, if he determines that such allowance will not result in the evasion or avoidance of Federal income tax for which the acquisition was made; or
   - **(2)** to distribute, apportion, or allocate gross income, and distribute, apportion, or allocate the deductions, credits, or allowances the benefit of which was sought to be secured, between or among the corporations, or properties, or parts thereof, involved, and to allow such deductions, credits, or allowances so distributed, apportioned, or allocated, but to give effect to such allowance only to such extent as he determines will not result in the evasion or avoidance of Federal income tax for which the acquisition was made; or
   - **(3)** to exercise his powers in part under paragraph (1) and in part under paragraph (2).
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 80; [Pub. L. 88–272, title II, § 235(c)(2)](https://www.govinfo.gov/link/plaw/88/public/272), Feb. 26, 1964, [78 Stat. 126](https://www.govinfo.gov/link/statute/78/126); [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1901(a)(38), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1771](https://www.govinfo.gov/link/statute/90/1771), 1834; [Pub. L. 98–369, div. A, title VII, § 712(k)(8)(A)](https://www.govinfo.gov/link/plaw/98/public/369), (B), July 18, 1984, [98 Stat. 952](https://www.govinfo.gov/link/statute/98/952); [Pub. L. 113–295, div. A, title II, § 221(a)(45)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4045](https://www.govinfo.gov/link/statute/128/4045).)*

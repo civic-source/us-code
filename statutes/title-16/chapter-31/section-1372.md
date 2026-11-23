@@ -3,9 +3,10 @@ title: "Section 1372 - Prohibitions"
 usc_title: 16
 usc_section: "1372"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1372"
-generated_at: "2026-03-30T02:54:22.958Z"
+generated_at: "2026-11-23T20:26:20.457Z"
+status: "active"
 ---
 
 # § 1372. Prohibitions
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:54:22.958Z"
   - **(2)** in the case of marine mammals or marine mammal products to which subsection (c)(1)(B) or (c)(2)(B) of this section applies, to articles imported into the United States before the effective date of the foreign law making the taking or sale, as the case may be, of such marine mammals or marine mammal products unlawful.
 - **(e)** This chapter shall not apply with respect to any marine mammal taken before the effective date of this chapter, or to any marine mammal product consisting of, or composed in whole or in part of, any marine mammal taken before such date.
 - **(f)** It is unlawful for any person or vessel or other conveyance to take any species of whale incident to commercial whaling in waters subject to the jurisdiction of the United States.
+
+## Source Credit
+
+*([Pub. L. 92–522, title I, § 102](https://www.govinfo.gov/link/plaw/92/public/522), Oct. 21, 1972, [86 Stat. 1032](https://www.govinfo.gov/link/statute/86/1032); [Pub. L. 93–205, § 13(e)(3)](https://www.govinfo.gov/link/plaw/93/public/205), Dec. 28, 1973, [87 Stat. 903](https://www.govinfo.gov/link/statute/87/903); [Pub. L. 95–136, § 4](https://www.govinfo.gov/link/plaw/95/public/136), Oct. 18, 1977, [91 Stat. 1167](https://www.govinfo.gov/link/statute/91/1167); [Pub. L. 97–58, § 3(a)](https://www.govinfo.gov/link/plaw/97/public/58), Oct. 9, 1981, [95 Stat. 981](https://www.govinfo.gov/link/statute/95/981); [Pub. L. 100–711](https://www.govinfo.gov/link/plaw/100/public/711), §§ 2(b), 5(b), (e)(2), Nov. 23, 1988, [102 Stat. 4763](https://www.govinfo.gov/link/statute/102/4763), 4769, 4771; [Pub. L. 102–587, title III, § 3004(a)(1)](https://www.govinfo.gov/link/plaw/102/public/587), Nov. 4, 1992, [106 Stat. 5067](https://www.govinfo.gov/link/statute/106/5067); [Pub. L. 103–238](https://www.govinfo.gov/link/plaw/103/public/238), §§ 5(a), 13(c), 24(c)(9), Apr. 30, 1994, [108 Stat. 536](https://www.govinfo.gov/link/statute/108/536), 558, 566.)*

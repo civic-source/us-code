@@ -3,9 +3,10 @@ title: "Section 2421 - Definitions"
 usc_title: 43
 usc_section: "2421"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 2421"
-generated_at: "2026-03-30T02:55:57.497Z"
+generated_at: "2026-11-23T20:27:06.407Z"
+status: "active"
 ---
 
 # § 2421. Definitions
@@ -30,3 +31,7 @@ In this subchapter:
       - **(i)** improves water management; and
       - **(ii)** fulfills other Federal goals.
   - **(7)** The term “Secretary” means the Secretary of the Interior.
+
+## Source Credit
+
+*([Pub. L. 109–451, title II, § 202](https://www.govinfo.gov/link/plaw/109/public/451), Dec. 22, 2006, [120 Stat. 3356](https://www.govinfo.gov/link/statute/120/3356).)*

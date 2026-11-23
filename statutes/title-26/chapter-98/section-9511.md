@@ -3,9 +3,10 @@ title: "Section 9511 - Patient-Centered Outcomes Research Trust Fund"
 usc_title: 26
 usc_section: "9511"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 9511"
-generated_at: "2026-03-30T02:55:27.893Z"
+generated_at: "2026-11-23T20:26:46.887Z"
+status: "active"
 ---
 
 # § 9511. Patient-Centered Outcomes Research Trust Fund
@@ -53,3 +54,7 @@ generated_at: "2026-03-30T02:55:27.893Z"
   - **(1)** the fees received in the Treasury under subchapter B of chapter 34, over
   - **(2)** the decrease in the tax imposed by chapter 1 resulting from the fees imposed by such subchapter.
 - **(f)** No amounts shall be available for expenditure from the PCORTF after September 30, 2029 , and any amounts in such Trust Fund after such date shall be transferred to the general fund of the Treasury.
+
+## Source Credit
+
+*(Added [Pub. L. 111–148, title VI, § 6301(e)(1)(A)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 742](https://www.govinfo.gov/link/statute/124/742); amended [Pub. L. 116–59, div. B, title IV, § 1403](https://www.govinfo.gov/link/plaw/116/public/59), Sept. 27, 2019, [133 Stat. 1107](https://www.govinfo.gov/link/statute/133/1107); [Pub. L. 116–69, div. B, title IV, § 1403](https://www.govinfo.gov/link/plaw/116/public/69), Nov. 21, 2019, [133 Stat. 1139](https://www.govinfo.gov/link/statute/133/1139); [Pub. L. 116–94, div. N, title I, § 104(a)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3097](https://www.govinfo.gov/link/statute/133/3097).)*

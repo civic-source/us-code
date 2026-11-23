@@ -3,9 +3,10 @@ title: "Section 32308 - General prohibitions, civil penalty, and enforcement"
 usc_title: 49
 usc_section: "32308"
 chapter: 323
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 32308"
-generated_at: "2026-03-30T02:56:19.363Z"
+generated_at: "2026-11-23T20:27:34.988Z"
+status: "active"
 ---
 
 # § 32308. General prohibitions, civil penalty, and enforcement
@@ -27,3 +28,43 @@ generated_at: "2026-03-30T02:56:19.363Z"
     - **(C)** give the person a reasonable opportunity to comply.
   - **(3)** The failure of the Secretary to comply with paragraph (2) of this subsection does not prevent a court from granting appropriate relief.
 - **(e)** A civil action under this section may be brought in the judicial district in which the violation occurred or the defendant is found, resides, or does business. Process in the action may be served in any other judicial district in which the defendant resides or is found. A subpena for a witness in the action may be served in any judicial district.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 32308(a) | 15:1946. | Oct. 20, 1972 , Pub. L. 92–513 , §§ 206–208, 86 Stat. 959 . |
+| 32308(b)(1) | 15:1948(a). |  |
+| 32308(b) (2)–(4) | 15:1948(b). |  |
+| 32308(c) | 15:1947 (1st–3d sentences). |  |
+| 32308(d) | 15:1947 (last sentence). |  |
+|  | 15:1948(c). |  |
+
+
+Prohibitions
+
+Civil Penalty
+
+Section
+
+Civil Actions To Enforce
+
+Venue and Service
+
+Historical and Revision Notes
+
+32308(a)
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 959
+
+32308(b)(1)
+
+32308(c)
+
+32308(d)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1041](https://www.govinfo.gov/link/statute/108/1041); [Pub. L. 110–140, title I, § 111(b)](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1507](https://www.govinfo.gov/link/statute/121/1507).)*

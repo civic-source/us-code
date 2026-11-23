@@ -3,9 +3,10 @@ title: "Section 2633 - Judicial review and enforcement"
 usc_title: 16
 usc_section: "2633"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 2633"
-generated_at: "2026-03-30T02:54:23.005Z"
+generated_at: "2026-11-23T20:26:20.616Z"
+status: "active"
 ---
 
 # § 2633. Judicial review and enforcement
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:23.005Z"
 - **(d)** Nothing in this section prohibits the Secretary from—
   - **(1)** intervening and participating in any proceeding, or
   - **(2)** intervening and participating in any review by any court of any action
+
+## Source Credit
+
+*([Pub. L. 95–617, title I, § 123](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3130](https://www.govinfo.gov/link/statute/92/3130).)*

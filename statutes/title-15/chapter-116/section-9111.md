@@ -3,9 +3,10 @@ title: "Section 9111 - Assistance for providers of transportation services affec
 usc_title: 15
 usc_section: "9111"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 9111"
-generated_at: "2026-03-30T02:54:08.245Z"
+generated_at: "2026-11-23T20:26:04.558Z"
+status: "active"
 ---
 
 # § 9111. Assistance for providers of transportation services affected by COVID–19
@@ -132,3 +133,17 @@ generated_at: "2026-03-30T02:54:08.245Z"
     - **(C)** issuing such regulations and other guidance as may be necessary or appropriate to carry out the purposes of this section.
   - **(2)** Of the funds made available under this section, not more than $50,000,000 may be used by the Secretary for administrative expenses to carry out this section.
   - **(3)** The funds made available under this section shall remain available for obligation until the date that is 3 years after December 27, 2020 .
+
+(aa) a wage;
+
+(bb) a commission;
+
+(cc) income;
+
+(dd) net earnings from self-employment; or
+
+(ee) similar compensation; and
+
+## Source Credit
+
+*([Pub. L. 116–260, div. N, title IV, § 421](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2061](https://www.govinfo.gov/link/statute/134/2061).)*

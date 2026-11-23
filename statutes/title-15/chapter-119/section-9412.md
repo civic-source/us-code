@@ -3,9 +3,10 @@ title: "Section 9412 - National Artificial Intelligence Initiative Office"
 usc_title: 15
 usc_section: "9412"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 9412"
-generated_at: "2026-03-30T02:54:08.246Z"
+generated_at: "2026-11-23T20:26:04.567Z"
+status: "active"
 ---
 
 # § 9412. National Artificial Intelligence Initiative Office
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.246Z"
   - **(3)** conduct regular public outreach to diverse stakeholders, including civil rights and disability rights organizations; and
   - **(4)** promote access to the technologies, innovations, best practices, and expertise derived from Initiative activities to agency missions and systems across the Federal Government.
 - **(c)** The Director of the Office of Science and Technology Policy, in coordination with each participating Federal department and agency, as appropriate, shall develop and annually update an estimate of the funds necessary to carry out the activities of the Initiative Coordination Office and submit such estimate with an agreed summary of contributions from each agency to Congress as part of the President’s annual budget request to Congress.
+
+## Source Credit
+
+*([Pub. L. 116–283, div. E, title LI, § 5102](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4526](https://www.govinfo.gov/link/statute/134/4526).)*

@@ -3,9 +3,10 @@ title: "Section 3756 - Commencement of foreclosure"
 usc_title: 12
 usc_section: "3756"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 3756"
-generated_at: "2026-03-30T02:53:53.497Z"
+generated_at: "2026-11-23T20:25:59.349Z"
+status: "active"
 ---
 
 # § 3756. Commencement of foreclosure
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:53.497Z"
 - **(c)** Upon designation of a substitute foreclosure commissioner, a copy of the written notice of such designation described in section 3754 of this title shall be served—
   - **(1)** by mail, as provided in section 3758 of this title (except that the minimum time periods between mailing and the date of foreclosure sale prescribed in such section shall not apply); or
   - **(2)** in any other manner which, in the substitute commissioner’s sole discretion, is conducive to achieving timely notice of such substitution.
+
+## Source Credit
+
+*([Pub. L. 103–327, title II](https://www.govinfo.gov/link/plaw/103/public/327), Sept. 28, 1994, [108 Stat. 2316](https://www.govinfo.gov/link/statute/108/2316).)*

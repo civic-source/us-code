@@ -3,9 +3,10 @@ title: "Section 2593a - Annual report to Congress"
 usc_title: 22
 usc_section: "2593a"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2593a"
-generated_at: "2026-03-30T02:55:05.373Z"
+generated_at: "2026-11-23T20:26:32.339Z"
+status: "active"
 ---
 
 # § 2593a. Annual report to Congress
@@ -33,3 +34,67 @@ generated_at: "2026-03-30T02:55:05.373Z"
 - **(f)** In this section, the term “appropriate congressional committees” means—
   - **(1)** the Committee on Foreign Relations, the Committee on Armed Services, and the Select Committee on Intelligence of the Senate; and
   - **(2)** the Committee on Foreign Affairs, the Committee on Armed Services, and the Permanent Select Committee on Intelligence of the House of Representatives.
+
+Notification Required
+
+Definition of Open Skies Treaty; Treaty
+
+Notification by Director of National Intelligence.—
+
+In general
+
+Deadline
+
+Sunset
+
+Appropriate congressional committees
+
+INF treaty
+
+Intelligence community
+
+New start treaty
+
+Open skies treaty
+
+Findings
+
+Sense of Congress
+
+Report Required.—
+
+In general
+
+Elements
+
+Form
+
+Briefings Required.—
+
+In general
+
+Sunset
+
+Notification
+
+Definitions
+
+Appropriate congressional committees
+
+INF treaty
+
+Notice to President
+
+Referral to Secretary of State
+
+Notice to Congress
+
+Definition
+
+Reporting Requirement
+
+Contents of Reports
+
+## Source Credit
+
+*([Pub. L. 87–297, title IV, § 403](https://www.govinfo.gov/link/plaw/87/public/297), formerly § 51, as added and amended [Pub. L. 103–236, title VII, § 717(a)(3)](https://www.govinfo.gov/link/plaw/103/public/236), title VIII, § 828(a), Apr. 30, 1994, [108 Stat. 498](https://www.govinfo.gov/link/statute/108/498), 520; renumbered § 403 and amended, [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XII, § 1223(15), (21), Oct. 21, 1998, [112 Stat. 2681–771](https://www.govinfo.gov/link/statute/112/2681), 2681–772; [Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XI, § 1113]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–487; [Pub. L. 107–228, div. B, title XI, § 1103](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1426](https://www.govinfo.gov/link/statute/116/1426); [Pub. L. 113–66, div. A, title XII, § 1247](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 924](https://www.govinfo.gov/link/statute/127/924); [Pub. L. 114–92, div. A, title XII, § 1272](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 1076](https://www.govinfo.gov/link/statute/129/1076).)*

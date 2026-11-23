@@ -3,9 +3,10 @@ title: "Section 53405 - Obligations and rights under operating agreements"
 usc_title: 46
 usc_section: "53405"
 chapter: 534
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 53405"
-generated_at: "2026-03-30T02:56:15.575Z"
+generated_at: "2026-11-23T20:27:27.319Z"
+status: "active"
 ---
 
 # § 53405. Obligations and rights under operating agreements
@@ -23,3 +24,27 @@ generated_at: "2026-03-30T02:56:15.575Z"
   - **(2)** All terms and conditions of an Emergency Preparedness Agreement entered into under section 53407 shall remain in effect until the date the operating agreement would terminate according to its terms, except that the terms of such Emergency Preparedness Agreement may be modified by the mutual consent of the program participant, the Secretary of Transportation, and the Secretary of Defense.
 - **(e)** A program participant may transfer an operating agreement (including all rights and obligations under the agreement) to any person that is eligible to enter into that operating agreement under this chapter, if the Secretary of Transportation and the Secretary of Defense determine that the transfer is in the best interests of the United States.
 - **(f)** A program participant may replace the vessel with another vessel that is eligible to be included in the Fleet under section 53402(b), if the Secretary of Transportation, in coordination with the Secretary of Defense, approves the replacement of the vessel. No court shall have jurisdiction to review a decision by the Secretary of Transportation or the Secretary of Defense pertaining to the replacement of a vessel under this section.
+
+Operation of Vessel
+
+Annual Payments by the Secretary.—
+
+In general
+
+Operating agreement is an obligation of the united states government
+
+Documentation Requirement
+
+National Security Requirements.—
+
+In general
+
+Emergency preparedness agreement
+
+Transfer of Operating Agreements
+
+Replacement of Vessels Covered by Agreements
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. C, title XXXV, § 3511(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4414](https://www.govinfo.gov/link/statute/134/4414).)*

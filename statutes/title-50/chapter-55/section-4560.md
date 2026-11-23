@@ -3,9 +3,10 @@ title: "Section 4560 - Employment of personnel; appointment policies; nucleus ex
 usc_title: 50
 usc_section: "4560"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4560"
-generated_at: "2026-03-30T02:56:26.276Z"
+generated_at: "2026-11-23T20:27:31.115Z"
+status: "active"
 ---
 
 # § 4560. Employment of personnel; appointment policies; nucleus executive reserve; use of confidential information by employees; printing and distribution of reports
@@ -32,3 +33,13 @@ generated_at: "2026-03-30T02:56:26.276Z"
 - **(e)** The President is further authorized to provide for the establishment and training of a nucleus executive reserve for employment in executive positions in Government during periods of national defense emergency, as determined by the President. Members of this executive reserve who are not full-time Government employees may be allowed transportation and per diem in lieu of subsistence, in accordance with title 5 (with respect to individuals serving without pay, while away from their homes or regular places of business), for the purpose of participating in the executive reserve training program.
 - **(f)** Whoever, being an officer or employee of the United States or any department or agency thereof (including any Member of the Senate or House of Representatives), receives, by virtue of his office or employment, confidential information, and (1) uses such information in speculating directly or indirectly on any commodity exchange, or (2) discloses such information for the purpose of aiding any other person so to speculate, shall be fined not more than $10,000 or imprisoned not more than one year, or both. As used in this section, the term “speculate” shall not include a legitimate hedging transaction, or a purchase or sale which is accompanied by actual delivery of the commodity.
 - **(g)** The President, when he deems such action necessary, may make provision for the printing and distribution of reports, in such number and in such manner as he deems appropriate, concerning the actions taken to carry out the objectives of this chapter.
+
+Notice and financial disclosure requirements.—
+
+Public notice of appointment
+
+Financial disclosure
+
+## Source Credit
+
+*(Sept. 8, 1950, ch. 932, title VII, § 710, [64 Stat. 819](https://www.govinfo.gov/link/statute/64/819); July 31, 1951, ch. 275, title I, § 109(f), [65 Stat. 139](https://www.govinfo.gov/link/statute/65/139); June 28, 1955, ch. 189, § 12(c)(1), [69 Stat. 180](https://www.govinfo.gov/link/statute/69/180); Aug. 9, 1955, ch. 655, §§ 7, 8, [69 Stat. 582](https://www.govinfo.gov/link/statute/69/582), 583; [Pub. L. 94–152, § 5](https://www.govinfo.gov/link/plaw/94/public/152), Dec. 16, 1975, [89 Stat. 820](https://www.govinfo.gov/link/statute/89/820); [Pub. L. 102–558, title I, § 143](https://www.govinfo.gov/link/plaw/102/public/558), Oct. 28, 1992, [106 Stat. 4217](https://www.govinfo.gov/link/statute/106/4217); [Pub. L. 111–67, § 10](https://www.govinfo.gov/link/plaw/111/public/67), Sept. 30, 2009, [123 Stat. 2019](https://www.govinfo.gov/link/statute/123/2019); [Pub. L. 117–286, § 4(c)(47)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4359](https://www.govinfo.gov/link/statute/136/4359).)*

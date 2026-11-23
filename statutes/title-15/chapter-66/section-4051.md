@@ -3,9 +3,10 @@ title: "Section 4051 - Requirement of prior authorization"
 usc_title: 15
 usc_section: "4051"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 4051"
-generated_at: "2026-03-30T02:54:08.197Z"
+generated_at: "2026-11-23T20:26:04.324Z"
+status: "active"
 ---
 
 # § 4051. Requirement of prior authorization
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:08.197Z"
     - **(A)** the printing, distribution, and sale of documents outside the contiguous United States, if the Secretary finds that the implementation of such export promotion program would be more efficient, and if such documents will be distributed primarily and sold exclusively outside the United States; and
     - **(B)** the acceptance of private notices and advertisements in connection with the printing and distribution of such documents.
   - **(2)** Any fees received by the Secretary pursuant to paragraph (1) shall be deposited in a separate account or accounts which may be used to defray directly the costs incurred in conducting activities authorized by paragraph (1) or to repay or make advances to appropriations or other funds available for such activities.
+
+## Source Credit
+
+*([Pub. L. 99–64, title II, § 201](https://www.govinfo.gov/link/plaw/99/public/64), July 12, 1985, [99 Stat. 157](https://www.govinfo.gov/link/statute/99/157); [Pub. L. 100–418, title II](https://www.govinfo.gov/link/plaw/100/public/418), §§ 2305(a), 2308(a), Aug. 23, 1988, [102 Stat. 1344](https://www.govinfo.gov/link/statute/102/1344), 1346.)*

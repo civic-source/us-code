@@ -3,9 +3,10 @@ title: "Section 8853 - Department of Energy quantum network infrastructure resea
 usc_title: 15
 usc_section: "8853"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 8853"
-generated_at: "2026-03-30T02:54:08.234Z"
+generated_at: "2026-11-23T20:26:04.508Z"
+status: "active"
 ---
 
 # § 8853. Department of Energy quantum network infrastructure research and development program
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:54:08.234Z"
 - **(d)** Not later than 180 days after August 9, 2022 , the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a 4-year research plan that identifies and prioritizes basic research needs relating to quantum network infrastructure.
 - **(e)** The Secretary shall review activities carried out under this section to determine the achievement of technical milestones.
 - **(f)** Of the funds authorized to be appropriated for the Department of Energy’s Office of Science, there is authorized to be appropriated to the Secretary to carry out the activities under this section $100,000,000 for each of fiscal years 2023 through 2027.
+
+## Source Credit
+
+*([Pub. L. 115–368, title IV, § 403](https://www.govinfo.gov/link/plaw/115/public/368), as added [Pub. L. 117–167, div. B, title I, § 10104(b)(2)(A)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1438](https://www.govinfo.gov/link/statute/136/1438).)*

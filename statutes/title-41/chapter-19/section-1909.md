@@ -3,9 +3,10 @@ title: "Section 1909 - Management of purchase cards"
 usc_title: 41
 usc_section: "1909"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 1909"
-generated_at: "2026-03-30T02:55:55.803Z"
+generated_at: "2026-11-23T20:27:04.407Z"
+status: "active"
 ---
 
 # § 1909. Management of purchase cards
@@ -44,3 +45,23 @@ generated_at: "2026-03-30T02:55:55.803Z"
   - **(3)** report to the head of the executive agency concerned on the results of such analysis or audits; and
   - **(4)** report to the Director of the Office of Management and Budget on the implementation of recommendations made to the head of the executive agency to address findings of any analysis or audit of purchase card and convenience check transactions or programs for compilation and transmission by the Director to Congress and the Comptroller General.
 - **(e)** The requirements of this section shall not apply to the Department of Defense. See section 4754 of title 10 for provisions relating to management of purchase cards in the Department.
+
+Required Safeguards and Internal Controls
+
+Guidance
+
+Penalties for Violations.—
+
+In general
+
+Dismissal
+
+Reports on violations
+
+Risk Assessments and Audits
+
+Relationship to Department of Defense Purchase Card Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 112–194, § 2(a)(1)](https://www.govinfo.gov/link/plaw/112/public/194), Oct. 5, 2012, [126 Stat. 1445](https://www.govinfo.gov/link/statute/126/1445); [Pub. L. 117–81, div. A, title XVII, § 1702(h)(9)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2158](https://www.govinfo.gov/link/statute/135/2158).)*

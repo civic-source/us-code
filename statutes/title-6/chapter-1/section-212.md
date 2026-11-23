@@ -3,9 +3,10 @@ title: "Section 212 - Retention of Customs revenue functions by Secretary of the
 usc_title: 6
 usc_section: "212"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 212"
-generated_at: "2026-03-30T02:53:09.451Z"
+generated_at: "2026-11-23T20:25:34.668Z"
+status: "active"
 ---
 
 # § 212. Retention of Customs revenue functions by Secretary of the Treasury
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:09.451Z"
   - **(1)** Notwithstanding any other provision of this chapter, the Secretary may not consolidate, discontinue, or diminish those functions described in paragraph (2) performed by U.S. Customs and Border Protection (as established under section 211 of this title ) on or after the effective date of this chapter, reduce the staffing level, or reduce the resources attributable to such functions, and the Secretary shall ensure that an appropriate management structure is implemented to carry out such functions.
   - **(2)** The functions referred to in paragraph (1) are those functions performed by the following personnel, and associated support staff, of U.S. Customs and Border Protection on the day before the effective date of this chapter: Import Specialists, Entry Specialists, Drawback Specialists, National Import Specialist, Fines and Penalties Specialists, attorneys of the Office of Regulations and Rulings, Customs Auditors, International Trade Specialists, Financial Systems Specialists.
 - **(c)** The Secretary of the Treasury is authorized to appoint up to 20 new personnel to work with personnel of the Department in performing customs revenue functions.
+
+## Source Credit
+
+*([Pub. L. 107–296, title IV, § 412](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2179](https://www.govinfo.gov/link/statute/116/2179); [Pub. L. 114–125, title VIII, § 802(g)(1)(B)(iii)(II)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 211](https://www.govinfo.gov/link/statute/130/211).)*

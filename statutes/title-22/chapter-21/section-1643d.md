@@ -3,9 +3,10 @@ title: "Section 1643d - Claims based on ownership interest in or debt or other o
 usc_title: 22
 usc_section: "1643d"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 1643d"
-generated_at: "2026-03-30T02:55:05.337Z"
+generated_at: "2026-11-23T20:26:32.137Z"
+status: "active"
 ---
 
 # § 1643d. Claims based on ownership interest in or debt or other obligations owing by corporations or other legal entities
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:05.337Z"
 - **(b)** A claim under section 1643b(a) of this title based upon a direct ownership interest in a corporation, association, or other entity for loss shall be considered, subject to the other provisions of this subchapter, if such corporation, association, or other entity on the date of the loss was not a national of the United States, without regard to the per centum of ownership vested in the claimant.
 - **(c)** A claim under section 1643b(a) of this title based upon an indirect ownership interest in a corporation, association, or other entity for loss shall be considered, subject to the other provisions of this subchapter, only if at least 25 per centum of the entire ownership interest thereof at the time of such loss was vested in nationals of the United States.
 - **(d)** The amount of any claim covered by subsection (b) or (c) of this section shall be calculated on the basis of the total loss suffered by such corporation, association, or other entity, and shall bear the same proportion to such loss as the ownership interest of the claimant at the time of loss bears to the entire ownership interest thereof.
+
+## Source Credit
+
+*(Mar. 10, 1950, ch. 54, title V, § 505, as added [Pub. L. 88–666](https://www.govinfo.gov/link/plaw/88/public/666), Oct. 16, 1964, [78 Stat. 1111](https://www.govinfo.gov/link/statute/78/1111); amended [Pub. L. 89–262, § 3](https://www.govinfo.gov/link/plaw/89/public/262), Oct. 19, 1965, [79 Stat. 988](https://www.govinfo.gov/link/statute/79/988); [Pub. L. 89–780, § 4](https://www.govinfo.gov/link/plaw/89/public/780), Nov. 6, 1966, [80 Stat. 1365](https://www.govinfo.gov/link/statute/80/1365).)*

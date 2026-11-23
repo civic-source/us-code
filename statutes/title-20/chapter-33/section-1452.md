@@ -3,9 +3,10 @@ title: "Section 1452 - Eligibility and collaborative process"
 usc_title: 20
 usc_section: "1452"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1452"
-generated_at: "2026-03-30T02:54:48.167Z"
+generated_at: "2026-11-23T20:26:14.658Z"
+status: "active"
 ---
 
 # § 1452. Eligibility and collaborative process
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:54:48.167Z"
   - **(3)** If State law assigns responsibility for teacher preparation and certification to an individual, entity, or agency other than the State educational agency, the State educational agency shall—
     - **(A)** include that individual, entity, or agency as a partner in the partnership under this subsection; and
     - **(B)** ensure that any activities the State educational agency will carry out under this part that are within that partner’s jurisdiction (which may include activities described in section 1454(b) of this title ) are carried out by that partner.
+
+## Source Credit
+
+*([Pub. L. 91–230, title VI, § 652](https://www.govinfo.gov/link/plaw/91/public/230), as added [Pub. L. 108–446, title I, § 101](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2767](https://www.govinfo.gov/link/statute/118/2767).)*

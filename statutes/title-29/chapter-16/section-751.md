@@ -3,9 +3,10 @@ title: "Section 751 - Data sharing"
 usc_title: 29
 usc_section: "751"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 751"
-generated_at: "2026-03-30T02:55:18.694Z"
+generated_at: "2026-11-23T20:26:37.857Z"
+status: "active"
 ---
 
 # § 751. Data sharing
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:18.694Z"
       - **(ii)** the Social Security Administration, from its Summary Earnings and Records and Master Beneficiary Records.
   - **(2)** The Secretary of Labor shall provide the Commissioner with employment statistics specified in section 49 l –2 of this title, that facilitate evaluation by the Commissioner of the program carried out under part B, and allow the Commissioner to compare the progress of individuals with disabilities who are assisted under the program in securing, retaining, regaining, and advancing in employment with the progress made by individuals who are assisted under title I of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3111 et seq.].
 - **(b)** For purposes of the exchange described in subsection (a)(1), the data described in subsection (a)(1)(B)(ii) shall not be considered return information (as defined in section 6103(b)(2) of title 26 ) and, as appropriate, the confidentiality of all client information shall be maintained by the Rehabilitation Services Administration and the Social Security Administration.
+
+## Source Credit
+
+*([Pub. L. 93–112, title I, § 131](https://www.govinfo.gov/link/plaw/93/public/112), as added [Pub. L. 105–220, title IV, § 404](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1167](https://www.govinfo.gov/link/statute/112/1167); amended [Pub. L. 113–128, title IV, § 424](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1660](https://www.govinfo.gov/link/statute/128/1660).)*

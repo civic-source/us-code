@@ -3,9 +3,10 @@ title: "Section 5411a - Certification and accreditation"
 usc_title: 15
 usc_section: "5411a"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 5411a"
-generated_at: "2026-03-30T02:54:08.207Z"
+generated_at: "2026-11-23T20:26:04.371Z"
+status: "active"
 ---
 
 # § 5411a. Certification and accreditation
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:08.207Z"
   - **(1)** An accreditation body accrediting third parties who certify manufacturing systems as fastener quality assurance systems as described in section 5402(7)(B)(iii)(I) of this title shall affirm to the Director that it meets the requirements of ISO/IEC Guide 61 (or another document approved by the Director under subsection (b)), including revisions from time-to-time.
   - **(2)** An accreditation body accrediting laboratories as described in section 5402(1)(B) of this title shall affirm to the Director that it meets the requirements of ISO/IEC Guide 58 (or another document approved by the Director under subsection (d)), including revisions from time-to-time.
   - **(3)** An affirmation required under paragraph (1) or (2) shall take the form of a self-declaration that the accreditation body meets the requirements of the applicable Guide, signed by an authorized representative of the accreditation body, without requirement for accompanying documentation. Any such affirmation shall be considered to be a continuous affirmation that the accreditation body meets the requirements of the applicable Guide, unless and until the affirmation is withdrawn by the accreditation body.
+
+## Source Credit
+
+*([Pub. L. 101–592, § 10](https://www.govinfo.gov/link/plaw/101/public/592), as added [Pub. L. 106–34, § 10](https://www.govinfo.gov/link/plaw/106/public/34), June 8, 1999, [113 Stat. 123](https://www.govinfo.gov/link/statute/113/123).)*

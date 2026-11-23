@@ -3,9 +3,10 @@ title: "Section 9121 - Purpose"
 usc_title: 20
 usc_section: "9121"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 9121"
-generated_at: "2026-03-30T02:54:48.224Z"
+generated_at: "2026-11-23T20:26:14.970Z"
+status: "active"
 ---
 
 # § 9121. Purpose
@@ -24,3 +25,7 @@ It is the purpose of this subchapter—
   - **(10)** to enhance the role of libraries within the information infrastructure of the United States in order to support research, education, and innovation;
   - **(11)** to promote library services that provide users with access to information through national, State, local, regional, and international collaborations and networks; and
   - **(12)** to encourage, support, and disseminate model programs of library and museum collaboration.
+
+## Source Credit
+
+*([Pub. L. 94–462, title II, § 212](https://www.govinfo.gov/link/plaw/94/public/462), as added [Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–233](https://www.govinfo.gov/link/statute/110/3009), 3009–295; amended [Pub. L. 108–81, title II, § 201](https://www.govinfo.gov/link/plaw/108/public/81), Sept. 25, 2003, [117 Stat. 997](https://www.govinfo.gov/link/statute/117/997); [Pub. L. 111–340, title II, § 201](https://www.govinfo.gov/link/plaw/111/public/340), Dec. 22, 2010, [124 Stat. 3599](https://www.govinfo.gov/link/statute/124/3599); [Pub. L. 115–410, § 7](https://www.govinfo.gov/link/plaw/115/public/410), Dec. 31, 2018, [132 Stat. 5415](https://www.govinfo.gov/link/statute/132/5415).)*

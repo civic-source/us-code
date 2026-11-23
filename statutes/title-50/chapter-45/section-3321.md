@@ -3,9 +3,10 @@ title: "Section 3321 - National Intelligence Reserve Corps"
 usc_title: 50
 usc_section: "3321"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3321"
-generated_at: "2026-03-30T02:56:26.243Z"
+generated_at: "2026-11-23T20:27:30.954Z"
+status: "active"
 ---
 
 # § 3321. National Intelligence Reserve Corps
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:26.243Z"
   - **(1)** If an annuitant receiving an annuity from the Civil Service Retirement and Disability Fund becomes temporarily reemployed pursuant to this section, such annuity shall not be discontinued thereby.
   - **(2)** An annuitant so reemployed shall not be considered an employee for the purposes of chapter 83 or 84 of title 5.
 - **(f)** A member of the National Intelligence Reserve Corps who is reemployed on a temporary basis pursuant to this section shall not count against any personnel ceiling applicable to the Office of the Director of National Intelligence.
+
+## Source Credit
+
+*([Pub. L. 108–458, title I, § 1053](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3683](https://www.govinfo.gov/link/statute/118/3683).)*

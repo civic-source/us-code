@@ -3,9 +3,10 @@ title: "Section 546 - Limitations on avoiding powers"
 usc_title: 11
 usc_section: "546"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 546"
-generated_at: "2026-03-30T02:53:53.879Z"
+generated_at: "2026-11-23T20:25:55.369Z"
+status: "active"
 ---
 
 # § 546. Limitations on avoiding powers
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:53:53.879Z"
   - **(1)** Notwithstanding paragraphs (2) and (3) of section 545, the trustee may not avoid a warehouseman’s lien for storage, transportation, or other costs incidental to the storage and handling of goods.
   - **(2)** The prohibition under paragraph (1) shall be applied in a manner consistent with any State statute applicable to such lien that is similar to section 7–209 of the Uniform Commercial Code, as in effect on the date of enactment of the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005, or any successor to such section 7–209.
 - **(j)** Notwithstanding sections 544, 545, 547, 548(a)(1)(B), and 548(b) the trustee may not avoid a transfer made by or to (or for the benefit of) a master netting agreement participant under or in connection with any master netting agreement or any individual contract covered thereby that is made before the commencement of the case, except under section 548(a)(1)(A) and except to the extent that the trustee could otherwise avoid such a transfer made under an individual contract covered by such master netting agreement.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2597](https://www.govinfo.gov/link/statute/92/2597); [Pub. L. 97–222, § 4](https://www.govinfo.gov/link/plaw/97/public/222), July 27, 1982, [96 Stat. 236](https://www.govinfo.gov/link/statute/96/236); [Pub. L. 98–353, title III](https://www.govinfo.gov/link/plaw/98/public/353), §§ 351, 393, 461, July 10, 1984, [98 Stat. 358](https://www.govinfo.gov/link/statute/98/358), 365, 377; [Pub. L. 99–554, title II](https://www.govinfo.gov/link/plaw/99/public/554), §§ 257(d), 283(l), Oct. 27, 1986, [100 Stat. 3114](https://www.govinfo.gov/link/statute/100/3114), 3117; [Pub. L. 101–311, title I, § 103](https://www.govinfo.gov/link/plaw/101/public/311), title II, § 203, June 25, 1990, [104 Stat. 268](https://www.govinfo.gov/link/statute/104/268), 269; [Pub. L. 103–394, title II](https://www.govinfo.gov/link/plaw/103/public/394), §§ 204(b), 209, 216, 222(a), title V, § 501(b)(4), Oct. 22, 1994, [108 Stat. 4122](https://www.govinfo.gov/link/statute/108/4122), 4125, 4126, 4129, 4142; [Pub. L. 105–183, § 3(c)](https://www.govinfo.gov/link/plaw/105/public/183), June 19, 1998, [112 Stat. 518](https://www.govinfo.gov/link/statute/112/518); [Pub. L. 109–8, title IV, § 406](https://www.govinfo.gov/link/plaw/109/public/8), title IX, § 907(e), (o)(2), (3), title XII, § 1227(a), Apr. 20, 2005, [119 Stat. 105](https://www.govinfo.gov/link/statute/119/105), 177, 182, 199; [Pub. L. 109–390, § 5(b)](https://www.govinfo.gov/link/plaw/109/public/390), Dec. 12, 2006, [120 Stat. 2697](https://www.govinfo.gov/link/statute/120/2697).)*

@@ -3,9 +3,10 @@ title: "Section 5362 - Grade retention following a change of positions or reclas
 usc_title: 5
 usc_section: "5362"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 5362"
-generated_at: "2026-03-30T02:52:56.015Z"
+generated_at: "2026-11-23T20:25:31.913Z"
+status: "active"
 ---
 
 # § 5362. Grade retention following a change of positions or reclassification
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:52:56.015Z"
   - **(2)** is demoted (determined without regard to this section) for personal cause or at the employee’s request;
   - **(3)** is placed in, or declines a reasonable offer of, a position the grade of which is equal to or higher than the retained grade; or
   - **(4)** elects in writing to have the benefits of this section terminate.
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title VIII, § 801(a)(1)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1219](https://www.govinfo.gov/link/statute/92/1219); amended [Pub. L. 98–615, title II, § 204(a)(1)](https://www.govinfo.gov/link/plaw/98/public/615), Nov. 8, 1984, [98 Stat. 3216](https://www.govinfo.gov/link/statute/98/3216); [Pub. L. 103–89, § 3(b)(1)(K)](https://www.govinfo.gov/link/plaw/103/public/89), Sept. 30, 1993, [107 Stat. 982](https://www.govinfo.gov/link/statute/107/982).)*

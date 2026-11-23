@@ -3,9 +3,10 @@ title: "Section 274e - Prohibition of organ purchases"
 usc_title: 42
 usc_section: "274e"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 274e"
-generated_at: "2026-03-30T02:56:10.724Z"
+generated_at: "2026-11-23T20:27:20.135Z"
+status: "active"
 ---
 
 # § 274e. Prohibition of organ purchases
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:10.724Z"
     - **(D)** If there is any additional donor-patient pair as described in subparagraph (A) or (B), each donor in the group of donor-patient pairs is biologically compatible as a donor of a human organ for a patient in such group.
     - **(E)** All donors and patients in the group of donor-patient pairs (whether 2 pairs or more than 2 pairs) enter into a single agreement to donate and receive such human organs, respectively, according to such biological compatibility in the group.
     - **(F)** Other than as described in subparagraph (E), no valuable consideration is knowingly acquired, received, or otherwise transferred with respect to the human organs referred to in such subparagraph.
+
+## Source Credit
+
+*([Pub. L. 98–507, title III, § 301](https://www.govinfo.gov/link/plaw/98/public/507), Oct. 19, 1984, [98 Stat. 2346](https://www.govinfo.gov/link/statute/98/2346); [Pub. L. 100–607, title IV, § 407](https://www.govinfo.gov/link/plaw/100/public/607), Nov. 4, 1988, [102 Stat. 3116](https://www.govinfo.gov/link/statute/102/3116); [Pub. L. 110–144, § 2](https://www.govinfo.gov/link/plaw/110/public/144), Dec. 21, 2007, [121 Stat. 1813](https://www.govinfo.gov/link/statute/121/1813).)*

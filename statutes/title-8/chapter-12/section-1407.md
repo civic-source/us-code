@@ -3,9 +3,10 @@ title: "Section 1407 - Persons living in and born in Guam"
 usc_title: 8
 usc_section: "1407"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1407"
-generated_at: "2026-03-30T02:53:10.500Z"
+generated_at: "2026-11-23T20:25:36.225Z"
+status: "active"
 ---
 
 # § 1407. Persons living in and born in Guam
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:10.500Z"
   - **(2)** All persons born in the island of Guam who resided in Guam on April 11, 1899 , including those temporarily absent from the island on that date, who after that date continued to reside in Guam or other territory over which the United States exercises sovereignty, and who have taken no affirmative steps to preserve or acquire foreign nationality.
 - **(b)** All persons born in the island of Guam on or after April 11, 1899 (whether before or after August 1, 1950 ) subject to the jurisdiction of the United States, are declared to be citizens of the United States: Provided , That in the case of any person born before August 1, 1950 , he has taken no affirmative steps to preserve or acquire foreign nationality.
 - **(c)** Any person hereinbefore described who is a citizen or national of a country other than the United States and desires to retain his present political status shall have made, prior to August 1, 1952 , a declaration under oath of such desire, said declaration to be in form and executed in the manner prescribed by regulations. From and after the making of such a declaration any such person shall be held not to be a national of the United States by virtue of this chapter.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title III, ch. 1, § 307, [66 Stat. 237](https://www.govinfo.gov/link/statute/66/237).)*

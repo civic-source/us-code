@@ -3,9 +3,10 @@ title: "Section 2349 - Categorical exclusions in emergencies"
 usc_title: 33
 usc_section: "2349"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2349"
-generated_at: "2026-03-30T02:55:41.128Z"
+generated_at: "2026-11-23T20:26:54.202Z"
+status: "active"
 ---
 
 # § 2349. Categorical exclusions in emergencies
@@ -14,3 +15,7 @@ For the repair, reconstruction, or rehabilitation of a water resources project t
 
   - **(1)** in the same location with the same capacity, dimensions, and design as the original water resources project as before the declaration described in this section; 1 1 See References in Text note below. and
   - **(2)** commenced within a 2-year period beginning on the date of a declaration described in this section.
+
+## Source Credit
+
+*([Pub. L. 113–121, title I, § 1005(b)](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1212](https://www.govinfo.gov/link/statute/128/1212).)*

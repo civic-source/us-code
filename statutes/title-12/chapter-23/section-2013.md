@@ -3,9 +3,10 @@ title: "Section 2013 - General corporate powers"
 usc_title: 12
 usc_section: "2013"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 2013"
-generated_at: "2026-03-30T02:53:53.471Z"
+generated_at: "2026-11-23T20:25:59.222Z"
+status: "active"
 ---
 
 # § 2013. General corporate powers
@@ -49,3 +50,7 @@ Each Farm Credit Bank shall be a body corporate and, subject to regulation by th
   - **(22)** accept contributions to the capital of the bank from associations and account for such in accordance with generally accepted accounting principles, except as may be authorized by the Farm Credit Administration;
   - **(23)** as may be authorized by the board of directors of the bank, agree with other Farm Credit System institutions to share loan and other losses, whether to protect against capital impairment or for any other purpose; and
   - **(24)** operate as an originator and become certified as a certified facility under subchapter VIII.
+
+## Source Credit
+
+*([Pub. L. 92–181, title I, § 1](https://www.govinfo.gov/link/plaw/92/public/181).5, as added [Pub. L. 100–233, title IV, § 401](https://www.govinfo.gov/link/plaw/100/public/233), Jan. 6, 1988, [101 Stat. 1623](https://www.govinfo.gov/link/statute/101/1623); amended [Pub. L. 100–399, title IV, § 401(d)](https://www.govinfo.gov/link/plaw/100/public/399), Aug. 17, 1988, [102 Stat. 995](https://www.govinfo.gov/link/statute/102/995); [Pub. L. 104–105, title II, § 201](https://www.govinfo.gov/link/plaw/104/public/105), Feb. 10, 1996, [110 Stat. 172](https://www.govinfo.gov/link/statute/110/172).)*

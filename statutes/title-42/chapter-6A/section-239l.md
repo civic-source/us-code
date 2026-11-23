@@ -3,9 +3,10 @@ title: "Section 239l - Establishment"
 usc_title: 42
 usc_section: "239l"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 239l"
-generated_at: "2026-03-30T02:56:10.690Z"
+generated_at: "2026-11-23T20:27:19.977Z"
+status: "active"
 ---
 
 # § 239l. Establishment
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:10.690Z"
 - **(c)** The development of the Track may be by such phases as the Secretary may prescribe subject to the requirements of subsection (a).
 - **(d)** The Surgeon General shall develop an integrated longitudinal plan for health professions continuing education throughout the continuum of health-related education, training, and practice. Training under such plan shall emphasize patient-centered, interdisciplinary, and care coordination skills. Experience with deployment of emergency response teams shall be included during the clinical experiences.
 - **(e)** The Surgeon General shall develop faculty development programs and curricula in decentralized venues of health care, to balance urban, tertiary, and inpatient venues.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title II, § 271, as added [Pub. L. 111–148, title V, § 5315](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 637](https://www.govinfo.gov/link/statute/124/637).)*

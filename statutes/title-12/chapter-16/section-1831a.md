@@ -3,9 +3,10 @@ title: "Section 1831a - Activities of insured State banks"
 usc_title: 12
 usc_section: "1831a"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1831a"
-generated_at: "2026-03-30T02:53:53.457Z"
+generated_at: "2026-11-23T20:25:59.160Z"
+status: "active"
 ---
 
 # § 1831a. Activities of insured State banks
@@ -88,3 +89,7 @@ generated_at: "2026-03-30T02:53:53.457Z"
     - **(A)** any State law of any home State under subsection (b), (c), or (d) of section 1831u of this title ; or
     - **(B)** Federal law to State banks and State bank branches in the home State or the host State.
   - **(4)** The terms “host State”, “home State”, and “out-of-State bank” have the same meanings as in section 1831u(f) 1 1 See References in Text note below. of this title.
+
+## Source Credit
+
+*(Sept. 21, 1950, ch. 967, § 2 [24], as added [Pub. L. 102–242, title III, § 303(a)](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2349](https://www.govinfo.gov/link/statute/105/2349); amended [Pub. L. 102–550, title XVI, § 1605(a)(8)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 4086](https://www.govinfo.gov/link/statute/106/4086); [Pub. L. 103–328, title I, § 102(b)(3)(B)](https://www.govinfo.gov/link/plaw/103/public/328), Sept. 29, 1994, [108 Stat. 2351](https://www.govinfo.gov/link/statute/108/2351); [Pub. L. 104–208, div. A, title II](https://www.govinfo.gov/link/plaw/104/public/208), §§ 2217, 2704(d)(14)(W), Sept. 30, 1996, [110 Stat. 3009–414](https://www.govinfo.gov/link/statute/110/3009), 3009–494; [Pub. L. 105–24, § 2(a)](https://www.govinfo.gov/link/plaw/105/public/24), July 3, 1997, [111 Stat. 238](https://www.govinfo.gov/link/statute/111/238); [Pub. L. 109–171, title II, § 2102(b)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 9](https://www.govinfo.gov/link/statute/120/9); [Pub. L. 109–173, § 8(a)(31)](https://www.govinfo.gov/link/plaw/109/public/173), Feb. 15, 2006, [119 Stat. 3615](https://www.govinfo.gov/link/statute/119/3615).)*

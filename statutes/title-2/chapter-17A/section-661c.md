@@ -3,9 +3,10 @@ title: "Section 661c - Budgetary treatment"
 usc_title: 2
 usc_section: "661c"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 661c"
-generated_at: "2026-03-30T02:53:04.802Z"
+generated_at: "2026-11-23T20:25:28.915Z"
+status: "active"
 ---
 
 # § 661c. Budgetary treatment
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:04.802Z"
 - **(e)** An outstanding direct loan (or direct loan obligation) or loan guarantee (or loan guarantee commitment) shall not be modified in a manner that increases its costs unless budget authority for the additional cost has been provided in advance in an appropriations Act.
 - **(f)** When the estimated cost for a group of direct loans or loan guarantees for a given credit program made in a single fiscal year is reestimated in a subsequent year, the difference between the reestimated cost and the previous cost estimate shall be displayed as a distinct and separately identified subaccount in the credit program account as a change in program costs and a change in net interest. There is hereby provided permanent indefinite authority for these reestimates.
 - **(g)** All funding for an agency’s administration of a direct loan or loan guarantee program shall be displayed as distinct and separately identified subaccounts within the same budget account as the program’s cost.
+
+## Source Credit
+
+*([Pub. L. 93–344, title V, § 504](https://www.govinfo.gov/link/plaw/93/public/344), as added [Pub. L. 101–508, title XIII, § 13201(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–612](https://www.govinfo.gov/link/statute/104/1388); amended [Pub. L. 105–33, title X, § 10117(b)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 693](https://www.govinfo.gov/link/statute/111/693).)*

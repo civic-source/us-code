@@ -3,12 +3,17 @@ title: "Section 7807 - Sense of Congress"
 usc_title: 15
 usc_section: "7807"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 7807"
-generated_at: "2026-03-30T02:54:08.226Z"
+generated_at: "2026-11-23T20:26:04.471Z"
+status: "active"
 ---
 
 # § 7807. Sense of Congress
 
 It is the sense of Congress that States should enact the Uniform Athlete Agents Act of 2000 drafted by the National Conference of Commissioners on Uniform State Laws, to protect student athletes and the integrity of amateur sports from unscrupulous sports agents. In particular, it is the sense of Congress that States should enact the provisions relating to the registration of sports agents, the required form of contract, the right of the student athlete to cancel an agency contract, the disclosure requirements relating to record maintenance, reporting, renewal, notice, warning, and security, and the provisions for reciprocity among the States.
 
+
+## Source Credit
+
+*([Pub. L. 108–304, § 8](https://www.govinfo.gov/link/plaw/108/public/304), Sept. 24, 2004, [118 Stat. 1129](https://www.govinfo.gov/link/statute/118/1129).)*

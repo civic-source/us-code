@@ -3,9 +3,10 @@ title: "Section 317 - Special pay: officers in critical acquisition positions ex
 usc_title: 37
 usc_section: "317"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "37 U.S.C. § 317"
-generated_at: "2026-03-30T02:55:44.053Z"
+generated_at: "2026-11-23T20:26:57.361Z"
+status: "active"
 ---
 
 # § 317. Special pay: officers in critical acquisition positions extending period of active duty
@@ -20,3 +21,23 @@ generated_at: "2026-03-30T02:55:44.053Z"
 - **(f)** An officer who, having entered into a written agreement under subsection (a) and having received all or part of a bonus under this section, does not complete the period of active duty as specified in the agreement shall be subject to the repayment provisions of section 303a(e) of this title .
 - **(g)** The period of active duty agreed upon by an officer in a written agreement under this section is in addition to any other service commitment of the officer, except that any period of active duty agreed upon in a written agreement under subsection (a)(2) or (b)(2) of section 1734 of title 10 by the officer may be counted concurrently with the commitment under this section.
 - **(h)** The Secretaries concerned shall prescribe regulations to carry out this section. Regulations prescribed by the Secretary of a military department shall be subject to the approval of the Secretary of Defense.
+
+Bonus Authorized
+
+Covered Officers
+
+Amount of Bonus
+
+Payment of Bonus
+
+Additional Pay
+
+Repayment
+
+Period of Commitment
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 101–510, div. A, title XII, § 1203(a)(1)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1656](https://www.govinfo.gov/link/statute/104/1656); amended [Pub. L. 109–163, div. A, title VI, § 687(b)(26)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3331](https://www.govinfo.gov/link/statute/119/3331); [Pub. L. 116–92, div. A, title VIII, § 861(j)(17)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1520](https://www.govinfo.gov/link/statute/133/1520).)*

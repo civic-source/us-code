@@ -3,9 +3,10 @@ title: "Section 4315 - Use of foreign mission in manner incompatible with its st
 usc_title: 22
 usc_section: "4315"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4315"
-generated_at: "2026-03-30T02:55:05.410Z"
+generated_at: "2026-11-23T20:26:32.534Z"
+status: "active"
 ---
 
 # § 4315. Use of foreign mission in manner incompatible with its status as foreign mission
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.410Z"
   - **(2)** the term “unaffiliated alien” means, with respect to a foreign country, an alien who—
     - **(A)** is admitted to the United States as a nonimmigrant, and
     - **(B)** is not a member, or a family member of a member, of a foreign mission of that foreign country.
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title II, § 215, as added [Pub. L. 100–204, title I, § 128(a)](https://www.govinfo.gov/link/plaw/100/public/204), Dec. 22, 1987, [101 Stat. 1343](https://www.govinfo.gov/link/statute/101/1343).)*

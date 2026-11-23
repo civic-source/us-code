@@ -3,12 +3,17 @@ title: "Section 306 - Applicable rules of Inter-American Commercial Arbitration 
 usc_title: 9
 usc_section: "306"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "9 U.S.C. § 306"
-generated_at: "2026-03-30T02:53:06.639Z"
+generated_at: "2026-11-23T20:25:33.665Z"
+status: "active"
 ---
 
 # § 306. Applicable rules of Inter-American Commercial Arbitration Commission
 
 - **(a)** For the purposes of this chapter the rules of procedure of the Inter-American Commercial Arbitration Commission referred to in Article 3 of the Inter-American Convention shall, subject to subsection (b) of this section, be those rules as promulgated by the Commission on July 1, 1988 .
 - **(b)** In the event the rules of procedure of the Inter-American Commercial Arbitration Commission are modified or amended in accordance with the procedures for amendment of the rules of that Commission, the Secretary of State, by regulation in accordance with section 553 of title 5 , consistent with the aims and purposes of this Convention, may prescribe that such modifications or amendments shall be effective for purposes of this chapter.
+
+## Source Credit
+
+*(Added [Pub. L. 101–369, § 1](https://www.govinfo.gov/link/plaw/101/public/369), Aug. 15, 1990, [104 Stat. 449](https://www.govinfo.gov/link/statute/104/449).)*

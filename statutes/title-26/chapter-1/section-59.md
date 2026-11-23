@@ -3,9 +3,10 @@ title: "Section 59 - Other definitions and special rules"
 usc_title: 26
 usc_section: "59"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 59"
-generated_at: "2026-03-30T02:55:27.615Z"
+generated_at: "2026-11-23T20:26:45.285Z"
+status: "active"
 ---
 
 # § 59. Other definitions and special rules
@@ -107,3 +108,19 @@ generated_at: "2026-03-30T02:55:27.615Z"
       - **(ii)** paid or accrued (for Federal income tax purposes) by the applicable corporation.
   - **(2)** For any taxable year for which an applicable corporation chooses to have the benefits of subpart A of part III of subchapter N, the excess of the amount described in paragraph (1)(A)(i) over the amount described in paragraph (1)(A)(ii) shall increase the amount described in paragraph (1)(A)(i) in any of the first 5 succeeding taxable years to the extent not taken into account in a prior taxable year.
   - **(3)** The Secretary shall provide for such regulations or other guidance as is necessary to carry out the purposes of this subsection.
+
+In general
+
+Modifications
+
+Component member
+
+Exception
+
+In general
+
+Special rule for year which includes march 31, 1990
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title VII, § 701(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2336](https://www.govinfo.gov/link/statute/100/2336); amended [Pub. L. 100–647, title I](https://www.govinfo.gov/link/plaw/100/public/647), §§ 1007(e), 1014(e)(5)(A), Nov. 10, 1988, [102 Stat. 3432](https://www.govinfo.gov/link/statute/102/3432), 3561; [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7611(f)(5)(B), (6), 7612(e)(1), 7811(d)(1)(A), (j)(7), Dec. 19, 1989, [103 Stat. 2373](https://www.govinfo.gov/link/statute/103/2373), 2374, 2408, 2412; [Pub. L. 101–508, title XI](https://www.govinfo.gov/link/plaw/101/public/508), §§ 11101(d)(3), 11531(b)(2), 11702(d), 11801(c)(2)(D), Nov. 5, 1990, [104 Stat. 1388–405](https://www.govinfo.gov/link/statute/104/1388), 1388–490, 1388–514, 1388–523; [Pub. L. 102–486, title XIX, § 1915(c)(3)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3024](https://www.govinfo.gov/link/statute/106/3024); [Pub. L. 104–188, title I](https://www.govinfo.gov/link/plaw/104/public/188), §§ 1601(b)(2)(D), 1702(a)(1), 1703(e), 1704(m)(3), Aug. 20, 1996, [110 Stat. 1833](https://www.govinfo.gov/link/statute/110/1833), 1868, 1875, 1883; [Pub. L. 105–34, title X, § 1057(a)](https://www.govinfo.gov/link/plaw/105/public/34), title XI, § 1103(a), title XII, § 1201(b)(1), Aug. 5, 1997, [111 Stat. 945](https://www.govinfo.gov/link/statute/111/945), 966, 994; [Pub. L. 105–206, title VI](https://www.govinfo.gov/link/plaw/105/public/206), §§ 6011(a), 6023(2), July 22, 1998, [112 Stat. 817](https://www.govinfo.gov/link/statute/112/817), 824; [Pub. L. 108–357, title IV, § 421(a)(1)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1514](https://www.govinfo.gov/link/statute/118/1514); [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 11002(d)(4), 12001(b)(3)(C), (10), Dec. 22, 2017, [131 Stat. 2061](https://www.govinfo.gov/link/statute/131/2061), 2093; [Pub. L. 115–141, div. U, title IV, § 401(d)(1)(D)(ii)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1206](https://www.govinfo.gov/link/statute/132/1206); [Pub. L. 117–169, title I](https://www.govinfo.gov/link/plaw/117/public/169), §§ 10101(a)(2), (c), 13904(a), Aug. 16, 2022, [136 Stat. 1818](https://www.govinfo.gov/link/statute/136/1818), 1827, 2014; [Pub. L. 119–21, title VII, § 70302(b)(4)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 192](https://www.govinfo.gov/link/statute/139/192).)*

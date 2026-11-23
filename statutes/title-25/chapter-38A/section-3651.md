@@ -3,9 +3,10 @@ title: "Section 3651 - Findings"
 usc_title: 25
 usc_section: "3651"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3651"
-generated_at: "2026-03-30T02:54:52.855Z"
+generated_at: "2026-11-23T20:26:25.659Z"
+status: "active"
 ---
 
 # § 3651. Findings
@@ -23,3 +24,7 @@ The Congress finds and declares that—
   - **(9)** tribal court membership organizations have served a critical role in providing training and technical assistance for development and enhancement of tribal justice systems;
   - **(10)** Indian legal services programs, as funded partially through the Legal Services Corporation, have an established record of providing cost effective legal assistance to Indian people in tribal court forums, and also contribute significantly to the development of tribal courts and tribal jurisprudence; and
   - **(11)** the provision of adequate technical assistance to tribal courts and legal assistance to both individuals and tribal courts is an essential element in the development of strong tribal court systems.
+
+## Source Credit
+
+*([Pub. L. 106–559, § 2](https://www.govinfo.gov/link/plaw/106/public/559), Dec. 21, 2000, [114 Stat. 2778](https://www.govinfo.gov/link/statute/114/2778).)*

@@ -3,9 +3,10 @@ title: "Section 6417 - Elective payment of applicable credits"
 usc_title: 26
 usc_section: "6417"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6417"
-generated_at: "2026-03-30T02:55:27.852Z"
+generated_at: "2026-11-23T20:26:46.648Z"
+status: "active"
 ---
 
 # § 6417. Elective payment of applicable credits
@@ -99,3 +100,15 @@ generated_at: "2026-03-30T02:55:27.852Z"
 - **(f)** In the case of any possession of the United States with a mirror code tax system (as defined in section 24(k)), this section shall not be treated as part of the income tax laws of the United States for purposes of determining the income tax law of such possession unless such possession elects to have this section be so treated.
 - **(g)** Except as otherwise provided in subsection (c)(2)(A), rules similar to the rules of section 50 shall apply for purposes of this section.
 - **(h)** The Secretary shall issue such regulations or other guidance as may be necessary to carry out the purposes of this section, including guidance to ensure that the amount of the payment or deemed payment made under this section is commensurate with the amount of the credit that would be otherwise allowable (determined without regard to section 38(c)).
+
+(aa) in the case of a taxpayer who makes an election described in paragraph (1)(C), apply to the taxable year in which such equipment is placed in service and the 4 subsequent taxable years with respect to such equipment which end before January 1, 2033 , and
+
+(bb) in any other case, apply to such taxable year and to any subsequent taxable year which is within the period described in section 45Q(a)(3)(A) with respect to such equipment.
+
+(aa) in the case of a taxpayer who makes an election described in paragraph (1)(B), apply to such taxable year and the 4 subsequent taxable years with respect to such facility which end before January 1, 2033 , and
+
+(bb) in any other case, apply to such taxable year and all subsequent taxable years with respect to such facility.
+
+## Source Credit
+
+*(Added [Pub. L. 117–169, title I, § 13801(a)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 2003](https://www.govinfo.gov/link/statute/136/2003); amended [Pub. L. 119–21, title VII](https://www.govinfo.gov/link/plaw/119/public/21), §§ 70512(j)(2), 70522(c), July 4, 2025, [139 Stat. 268](https://www.govinfo.gov/link/statute/139/268), 280.)*

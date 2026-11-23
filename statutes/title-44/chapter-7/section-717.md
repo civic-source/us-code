@@ -3,12 +3,17 @@ title: "Section 717 - Appropriation chargeable for printing of document or repor
 usc_title: 44
 usc_section: "717"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "44 U.S.C. § 717"
-generated_at: "2026-03-30T02:55:56.288Z"
+generated_at: "2026-11-23T20:27:03.760Z"
+status: "active"
 ---
 
 # § 717. Appropriation chargeable for printing of document or report by order of Congress
 
 The cost of the printing of a document or report printed by order of Congress which, under section 1107 of this title , cannot be properly charged to another appropriation or allotment of appropriation already made, upon order of the Joint Committee on Printing, shall be charged to the allotment of appropriation for printing and binding for Congress.
 
+
+## Source Credit
+
+*([Pub. L. 90–620](https://www.govinfo.gov/link/plaw/90/public/620), Oct. 22, 1968, [82 Stat. 1250](https://www.govinfo.gov/link/statute/82/1250).)*

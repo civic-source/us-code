@@ -3,9 +3,10 @@ title: "Section 2108 - Application of pre-1967 estate tax provisions"
 usc_title: 26
 usc_section: "2108"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 2108"
-generated_at: "2026-03-30T02:55:27.783Z"
+generated_at: "2026-11-23T20:26:46.165Z"
+status: "active"
 ---
 
 # § 2108. Application of pre-1967 estate tax provisions
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:27.783Z"
 - **(b)** Whenever the President finds that the laws of any foreign country with respect to which the President has made a proclamation under subsection (a) have been modified so that the tax on the transfer of estates of decedents who were citizens of the United States and not residents of such foreign country is no longer more burdensome than the tax imposed by this subchapter on the transfer of estates of decedents who were residents of such foreign country, he shall proclaim that the tax on the transfer of the estate of every decedent who was a resident of such foreign country at the time of his death shall, in the case of decedents dying after the date of such proclamation, be determined under this subchapter without regard to subsection (a).
 - **(c)** No proclamation shall be issued by the President pursuant to this section unless, at least 30 days prior to such proclamation, he has notified the Senate and the House of Representatives of his intention to issue such proclamation.
 - **(d)** The Secretary shall prescribe such regulations as may be necessary or appropriate to implement this section.
+
+## Source Credit
+
+*(Added [Pub. L. 89–809, title I, § 108(f)](https://www.govinfo.gov/link/plaw/89/public/809), Nov. 13, 1966, [80 Stat. 1573](https://www.govinfo.gov/link/statute/80/1573); amended [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1902(a)(6), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1805](https://www.govinfo.gov/link/statute/90/1805), 1834.)*

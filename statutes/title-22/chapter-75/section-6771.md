@@ -3,9 +3,10 @@ title: "Section 6771 - Prohibition"
 usc_title: 22
 usc_section: "6771"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6771"
-generated_at: "2026-03-30T02:55:05.433Z"
+generated_at: "2026-11-23T20:26:32.632Z"
+status: "active"
 ---
 
 # § 6771. Prohibition
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.433Z"
   - **(1)** death, disease, or other biological malfunction in a human, an animal, a plant, or another living organism;
   - **(2)** deterioration of food, water, equipment, supplies, or materials of any kind; or
   - **(3)** deleterious alteration of the environment.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. I, title VI, § 602](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–886](https://www.govinfo.gov/link/statute/112/2681).)*

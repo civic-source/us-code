@@ -3,9 +3,10 @@ title: "Section 8002 - Purposes"
 usc_title: 16
 usc_section: "8002"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 8002"
-generated_at: "2026-03-30T02:54:23.080Z"
+generated_at: "2026-11-23T20:26:20.865Z"
+status: "active"
 ---
 
 # § 8002. Purposes
@@ -20,3 +21,7 @@ The purposes of this chapter are—
     - **(B)** a tool for strengthening fisheries management and food security;
   - **(5)** to improve global enforcement operations against IUU fishing through a whole-of-government approach by the United States; and
   - **(6)** to prevent the use of IUU fishing as a financing source for transnational organized groups that undermine United States and global security interests.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. C, title XXXV, § 3533](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1999](https://www.govinfo.gov/link/statute/133/1999).)*

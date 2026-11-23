@@ -3,9 +3,10 @@ title: "Section 1183 - Over-the-road bus exercises"
 usc_title: 6
 usc_section: "1183"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 1183"
-generated_at: "2026-03-30T02:53:09.508Z"
+generated_at: "2026-11-23T20:25:34.947Z"
+status: "active"
 ---
 
 # § 1183. Over-the-road bus exercises
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:53:09.508Z"
   - **(4)** allows for proper advanced notification of communities and local governments in which exercises are held, as appropriate; and
   - **(5)** assists State, local, and tribal governments and over-the-road bus operators and terminal owners and operators in designing, implementing, and evaluating additional exercises that conform to the requirements of paragraph (2).
 - **(d)** The Secretary shall ensure that the exercise program developed under subsection (c) is consistent with the National Exercise Program established under section 748 of this title .
+
+## Source Credit
+
+*([Pub. L. 110–53, title XV, § 1533](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 460](https://www.govinfo.gov/link/statute/121/460).)*

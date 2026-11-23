@@ -3,9 +3,10 @@ title: "Section 710 - Career flexibility to enhance retention of members"
 usc_title: 10
 usc_section: "710"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 710"
-generated_at: "2026-03-30T02:53:38.074Z"
+generated_at: "2026-11-23T20:25:51.047Z"
+status: "active"
 ---
 
 # § 710. Career flexibility to enhance retention of members
@@ -62,3 +63,23 @@ generated_at: "2026-03-30T02:53:38.074Z"
   - **(3)** the entitlement of the member and of the survivors of the member to all death benefits under the provisions of chapter 75 of this title;
   - **(4)** the provision of all travel and transportation allowances for the survivors of deceased members to attend burial ceremonies under section 453(f) of title 37 ; and
   - **(5)** the eligibility of the member for general benefits as provided in part II of title 38.
+
+Programs Authorized
+
+Period of Inactivation From Active Service; Effect of Inactivation
+
+Agreement
+
+Conditions of Release
+
+Order to Active Service
+
+Pay and Allowances
+
+Promotion
+
+Continued Entitlements
+
+## Source Credit
+
+*(Added [Pub. L. 115–232, div. A, title V, § 551(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1766](https://www.govinfo.gov/link/statute/132/1766); amended [Pub. L. 116–92, div. A, title VI, § 602](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1423](https://www.govinfo.gov/link/statute/133/1423); [Pub. L. 116–283, div. A, title IX, § 924(b)(18)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3823](https://www.govinfo.gov/link/statute/134/3823); [Pub. L. 117–81, div. A, title V, § 521](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1686](https://www.govinfo.gov/link/statute/135/1686); [Pub. L. 117–263, div. A, title VI, § 626(c)(1)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2628](https://www.govinfo.gov/link/statute/136/2628); [Pub. L. 118–31, div. A, title XVII, § 1722(d)(3)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 670](https://www.govinfo.gov/link/statute/137/670); [Pub. L. 119–60, div. A, title V, § 504(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 855](https://www.govinfo.gov/link/statute/139/855).)*

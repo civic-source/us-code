@@ -3,12 +3,17 @@ title: "Section 75 - Retaliation against country prohibiting importations"
 usc_title: 15
 usc_section: "75"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 75"
-generated_at: "2026-03-30T02:54:08.030Z"
+generated_at: "2026-11-23T20:26:03.428Z"
+status: "active"
 ---
 
 # § 75. Retaliation against country prohibiting importations
 
 Whenever any country, dependency, or colony shall prohibit the importation of any article the product of the soil or industry of the United States and not injurious to health or morals, the President shall have power to prohibit, during the period such prohibition is in force, the importation into the United States of similar articles, or in case the United States does not import similar articles from that country, then other articles, the products of such country, dependency, or colony. And the Secretary of the Treasury, with the approval of the President, shall make such rules and regulations as are necessary for the execution of the provisions of this section.
 
+
+## Source Credit
+
+*(Sept. 8, 1916, ch. 463, title VIII, § 804, [39 Stat. 799](https://www.govinfo.gov/link/statute/39/799).)*

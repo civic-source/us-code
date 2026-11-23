@@ -3,9 +3,10 @@ title: "Section 530A - Trump accounts"
 usc_title: 26
 usc_section: "530A"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 530A"
-generated_at: "2026-03-30T02:55:27.716Z"
+generated_at: "2026-11-23T20:26:45.813Z"
+status: "active"
 ---
 
 # § 530A. Trump accounts
@@ -122,3 +123,7 @@ generated_at: "2026-03-30T02:55:27.716Z"
     - **(D)** the routing number of the trustee, and
     - **(E)** such other information as the Secretary may require.
   - **(3)** This subsection shall not apply to any period after the calendar year in which the beneficiary attains age 17.
+
+## Source Credit
+
+*(Added [Pub. L. 119–21, title VII, § 70204(a)(1)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 179](https://www.govinfo.gov/link/statute/139/179).)*

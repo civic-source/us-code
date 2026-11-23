@@ -3,9 +3,10 @@ title: "Section 12705 - State and local housing strategies"
 usc_title: 42
 usc_section: "12705"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12705"
-generated_at: "2026-03-30T02:56:11.429Z"
+generated_at: "2026-11-23T20:27:23.427Z"
+status: "active"
 ---
 
 # § 12705. State and local housing strategies
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:56:11.429Z"
 - **(g)**
   - **(1)** The comprehensive housing affordability strategy (or any consolidated plan incorporating such strategy) for the State or unit of general local government in which any troubled public housing agency is located shall not be considered to comply with the requirements under this section unless such plan includes a description of the manner in which the State or unit will provide financial or other assistance to such troubled agency in improving its operations to remove such designation.
   - **(2)** For purposes of this subsection, the term “troubled public housing agency” means a public housing agency that, upon the effective date of the Quality Housing and Work Responsibility Act of 1998, is designated under section 6(j)(2) of the United States Housing Act of 1937 [ 42 U.S.C. 1437d(j)(2) ] as a troubled public housing agency.
+
+## Source Credit
+
+*([Pub. L. 101–625, title I, § 105](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4088](https://www.govinfo.gov/link/statute/104/4088); [Pub. L. 102–550, title II, § 220](https://www.govinfo.gov/link/plaw/102/public/550), title VI, § 681, title X, § 1014, title XII, § 1206, Oct. 28, 1992, [106 Stat. 3761](https://www.govinfo.gov/link/statute/106/3761), 3830, 3908, 3940; [Pub. L. 105–276, title V](https://www.govinfo.gov/link/plaw/105/public/276), §§ 568, 583, Oct. 21, 1998, [112 Stat. 2634](https://www.govinfo.gov/link/statute/112/2634), 2644; [Pub. L. 106–400, § 2](https://www.govinfo.gov/link/plaw/106/public/400), Oct. 30, 2000, [114 Stat. 1675](https://www.govinfo.gov/link/statute/114/1675); [Pub. L. 109–162, title VI, § 604](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3040](https://www.govinfo.gov/link/statute/119/3040).)*

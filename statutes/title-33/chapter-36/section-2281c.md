@@ -3,9 +3,10 @@ title: "Section 2281c - Continuing authority programs"
 usc_title: 33
 usc_section: "2281c"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2281c"
-generated_at: "2026-03-30T02:55:41.118Z"
+generated_at: "2026-11-23T20:26:54.152Z"
+status: "active"
 ---
 
 # § 2281c. Continuing authority programs
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:41.118Z"
   - **(6)** Notwithstanding section 2330(f) of this title , there is authorized to be appropriated to carry out such section $63,000,000 for each of fiscal years 2021 through 2024.
   - **(7)** Notwithstanding section 701g of this title , there is authorized to be appropriated to carry out such section $8,000,000 for each of fiscal years 2021 through 2024.
   - **(8)** Notwithstanding section 2309a(h) of this title , there is authorized to be appropriated to carry out such section $50,500,000 for each of fiscal years 2021 through 2024.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. AA, title I, § 165](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2668](https://www.govinfo.gov/link/statute/134/2668); [Pub. L. 117–263, div. H, title LXXXI, § 8118(b)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3711](https://www.govinfo.gov/link/statute/136/3711); [Pub. L. 118–272, div. A, title I, § 1107(k)](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3006](https://www.govinfo.gov/link/statute/138/3006).)*

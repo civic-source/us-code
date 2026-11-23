@@ -3,9 +3,10 @@ title: "Section 3502 - Planned public works"
 usc_title: 40
 usc_section: "3502"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 3502"
-generated_at: "2026-03-30T02:55:43.380Z"
+generated_at: "2026-11-23T20:26:56.597Z"
+status: "active"
 ---
 
 # § 3502. Planned public works
@@ -20,3 +21,64 @@ generated_at: "2026-03-30T02:55:43.380Z"
   - **(2)** the project conforms to an overall state, local, or regional plan approved by a competent state, local, or regional authority; and
   - **(3)** the public agency or Indian tribe formally contracts with the Federal Government to complete the plan preparation promptly and to repay part or all of the advance when due.
 - **(e)** The Secretary may prescribe regulations to carry out this chapter.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3502 | 40:462(a), (b), (d). | Aug. 2, 1954, ch. 649 , title VII, § 702(a), (b), (d), 68 Stat. 641 ; Aug. 11, 1955, ch. 783 , title I, § 112, 69 Stat. 641 ; Pub. L. 87–70, title V, § 502(1) , (2), June 30, 1961 , 75 Stat. 175 ; Pub. L. 88–560, title VI, § 602(a) –(c), (e), (f), Sept. 2, 1964 , 78 Stat. 799 ; Pub. L. 90–19, § 10(a) (related to 40:462), May 25, 1967 , 81 Stat. 22 ; Pub. L. 90–448, title VI, § 607 , Aug. 1, 1968 , 82 Stat. 534 ; Pub. L. 100–242, title V, § 524(1) , Feb. 5, 1988 , 101 Stat. 1939 . |
+
+
+Advances To Ensure Planning
+
+Uses of Advances
+
+No Future Commitment
+
+Requirements for Advances
+
+Regulations
+
+Historical and Revision Notes
+
+3502
+
+Aug. 2, 1954, ch. 649
+
+68 Stat. 641
+
+Aug. 11, 1955, ch. 783
+
+69 Stat. 641
+
+Pub. L. 87–70, title V, § 502(1)
+
+June 30, 1961
+
+75 Stat. 175
+
+Pub. L. 88–560, title VI, § 602(a)
+
+Sept. 2, 1964
+
+78 Stat. 799
+
+Pub. L. 90–19, § 10(a)
+
+May 25, 1967
+
+81 Stat. 22
+
+Pub. L. 90–448, title VI, § 607
+
+Aug. 1, 1968
+
+82 Stat. 534
+
+Pub. L. 100–242, title V, § 524(1)
+
+Feb. 5, 1988
+
+101 Stat. 1939
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1167](https://www.govinfo.gov/link/statute/116/1167).)*

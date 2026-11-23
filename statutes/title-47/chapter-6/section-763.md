@@ -3,9 +3,10 @@ title: "Section 763 - General criteria to ensure a pro-competitive privatization
 usc_title: 47
 usc_section: "763"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 763"
-generated_at: "2026-03-30T02:56:24.526Z"
+generated_at: "2026-11-23T20:27:28.954Z"
+status: "active"
 ---
 
 # § 763. General criteria to ensure a pro-competitive privatization of INTELSAT and Inmarsat
@@ -47,3 +48,7 @@ The President and the Commission shall secure a pro-competitive privatization of
     - **(A)** have effective laws and regulations that secure competition in telecommunications services;
     - **(B)** are signatories of the World Trade Organization Basic Telecommunications Services Agreement; and
     - **(C)** have a schedule of commitments in such Agreement that includes non-discriminatory market access to their satellite markets.
+
+## Source Credit
+
+*([Pub. L. 87–624, title VI, § 621](https://www.govinfo.gov/link/plaw/87/public/624), as added [Pub. L. 106–180, § 3](https://www.govinfo.gov/link/plaw/106/public/180), Mar. 17, 2000, [114 Stat. 51](https://www.govinfo.gov/link/statute/114/51); amended [Pub. L. 107–77, title VI, § 628](https://www.govinfo.gov/link/plaw/107/public/77), Nov. 28, 2001, [115 Stat. 804](https://www.govinfo.gov/link/statute/115/804); [Pub. L. 107–233, § 1](https://www.govinfo.gov/link/plaw/107/public/233), Oct. 1, 2002, [116 Stat. 1480](https://www.govinfo.gov/link/statute/116/1480); [Pub. L. 108–39, § 2](https://www.govinfo.gov/link/plaw/108/public/39), June 30, 2003, [117 Stat. 835](https://www.govinfo.gov/link/statute/117/835); [Pub. L. 108–228, § 1](https://www.govinfo.gov/link/plaw/108/public/228), May 18, 2004, [118 Stat. 644](https://www.govinfo.gov/link/statute/118/644); [Pub. L. 108–371, § 1](https://www.govinfo.gov/link/plaw/108/public/371), Oct. 25, 2004, [118 Stat. 1752](https://www.govinfo.gov/link/statute/118/1752); [Pub. L. 109–34, § 1](https://www.govinfo.gov/link/plaw/109/public/34), July 12, 2005, [119 Stat. 377](https://www.govinfo.gov/link/statute/119/377).)*

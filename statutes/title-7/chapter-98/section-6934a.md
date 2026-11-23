@@ -3,9 +3,10 @@ title: "Section 6934a - Beginning farmer and rancher coordination"
 usc_title: 7
 usc_section: "6934a"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6934a"
-generated_at: "2026-03-30T02:53:42.440Z"
+generated_at: "2026-11-23T20:25:41.738Z"
+status: "active"
 ---
 
 # § 6934a. Beginning farmer and rancher coordination
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:53:42.440Z"
     - **(C)** oversee implementation of an approved State plan described in subparagraph (B);
     - **(D)** work with outreach coordinators in the State offices to ensure appropriate information about technical assistance is available at outreach events and activities; and
     - **(E)** coordinate partnerships and joint outreach efforts with other organizations and government agencies serving beginning farmers and ranchers.
+
+## Source Credit
+
+*([Pub. L. 107–171, title VII, § 7404](https://www.govinfo.gov/link/plaw/107/public/171), as added [Pub. L. 115–334, title XII, § 12304](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4965](https://www.govinfo.gov/link/statute/132/4965).)*

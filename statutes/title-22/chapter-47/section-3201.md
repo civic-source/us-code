@@ -3,9 +3,10 @@ title: "Section 3201 - Congressional declaration of policy"
 usc_title: 22
 usc_section: "3201"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3201"
-generated_at: "2026-03-30T02:55:05.390Z"
+generated_at: "2026-11-23T20:26:32.444Z"
+status: "active"
 ---
 
 # § 3201. Congressional declaration of policy
@@ -16,3 +17,19 @@ The Congress finds and declares that the proliferation of nuclear explosive devi
 - **(b)** take such actions as are required to confirm the reliability of the United States in meeting its commitments to supply nuclear reactors and fuel to nations which adhere to effective non-proliferation policies by establishing procedures to facilitate the timely processing of requests for subsequent arrangements and export licenses;
 - **(c)** strongly encourage nations which have not ratified the Treaty on the Non-Proliferation of Nuclear Weapons to do so at the earliest possible date; and
 - **(d)** cooperate with foreign nations in identifying and adapting suitable technologies for energy production and, in particular, to identify alternative options to nuclear power in aiding such nations to meet their energy needs, consistent with the economic and material resources of those nations and environmental protection.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Jimmy Carter.
+
+## Source Credit
+
+*([Pub. L. 95–242, § 2](https://www.govinfo.gov/link/plaw/95/public/242), Mar. 10, 1978, [92 Stat. 120](https://www.govinfo.gov/link/statute/92/120).)*

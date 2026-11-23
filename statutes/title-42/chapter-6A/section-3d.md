@@ -3,9 +3,10 @@ title: "Section 3d - Water supply cost savings"
 usc_title: 42
 usc_section: "3d"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3d"
-generated_at: "2026-03-30T02:56:10.801Z"
+generated_at: "2026-11-23T20:27:20.496Z"
+status: "active"
 ---
 
 # § 300j–3d. Water supply cost savings
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:10.801Z"
   - **(1)** the use of innovative and alternative drinking water delivery systems described in this section;
   - **(2)** the range of cost savings for communities using innovative and alternative drinking water delivery systems described in this section; and
   - **(3)** the use of drinking water technical assistance programs operated by the Administrator and the Secretary of Agriculture.
+
+## Source Credit
+
+*([Pub. L. 114–322, title II, § 2108](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1728](https://www.govinfo.gov/link/statute/130/1728).)*

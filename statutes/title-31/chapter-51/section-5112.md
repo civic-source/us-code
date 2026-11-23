@@ -3,9 +3,10 @@ title: "Section 5112 - Denominations, specifications, and design of coins"
 usc_title: 31
 usc_section: "5112"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 5112"
-generated_at: "2026-03-30T02:55:34.063Z"
+generated_at: "2026-11-23T20:26:51.831Z"
+status: "active"
 ---
 
 # § 5112. Denominations, specifications, and design of coins
@@ -477,3 +478,895 @@ generated_at: "2026-03-30T02:55:34.063Z"
   - **(4)** The coins minted under subsections (x), (y), and (z) shall be legal tender, as provided in section 5103.
   - **(5)** In an effort to advance the collecting of the coins and medals authorized under subsections (x), (y), and (z), and numismatics in general, the Secretary may develop and execute a marketing, advertising, promotional, and educational program to promote the collecting of the coins and medals authorized under subsections (x), (y), and (z). As part of this program, the Secretary is encouraged to seek out appropriate cooperative marketing opportunities, and to develop ancillary derivative products beyond traditional numismatic products such as sports, women, and youth oriented products appropriate to the particular coin and medal program.
   - **(6)** It is the sense of Congress that the medals authorized under subsection (z) be produced in high relief and, if feasible and cost effective, with surface treatments such as frosting and colorization.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5112(a) | 31:317(a)(1st, last sentences). | R.S. § 3515(a); Sept. 26, 1890, ch. 945, § 1 , 26 Stat. 485 ; Sept. 5, 1962 , Pub. L. 87–643, § 1 , 76 Stat. 440 ; Oct. 11, 1974 , Pub. L. 93–441, § 1 , 88 Stat. 1261 . |
+|  | 31:391(c). | July 23, 1965 , Pub. L. 89–81, § 101(c) , 79 Stat. 255 ; restated Dec. 31, 1970 , Pub. L. 91–607, § 201 , 84 Stat. 1768 ; Oct. 10, 1978 , Pub. L. 95–447, § 2 , 92 Stat. 1072 . |
+| 5112(b) | 31:317(a)(2d, 3d sentences). |  |
+|  | 31:346. | R.S. § 3533; June 14, 1947, ch. 104, § 1 , 61 Stat. 132 . |
+|  | 31:391(b). | July 23, 1965 , Pub. L. 89–81, § 101(b) , (d), 79 Stat. 254 ; restated Dec. 31, 1970 , Pub. L. 91–607, § 201 , 84 Stat. 1768 . |
+|  | 31:398(1)–(4), (6). | July 23, 1965 , Pub. L. 89–81, § 108(1) –(4), (6), 79 Stat. 255 . |
+| 5112(c) | 31:317(b). | R.S. § 3515(b); added Oct. 11, 1974 , Pub. L. 93–441, § 1 , 88 Stat. 1261 . |
+| 5112(d)(1) | 31:324. | R.S. § 3517; Mar. 3, 1887, ch. 396, § 3 , 24 Stat. 635 ; Sept. 26, 1890, ch. 945, § 1 , 26 Stat. 485 ; May 18, 1908, ch. 173 , 35 Stat. 164 ; restated July 23, 1965 , Pub. L. 89–81, § 204(a) , 79 Stat. 256 ; Dec. 31, 1970 , Pub. L. 91–607, § 206 , 84 Stat. 1769 . |
+|  | 31:324b–1. | Oct. 10, 1978 , Pub. L. 95–447, § 3 , 92 Stat. 1072 . |
+| 5112(d)(2) | 31:276. | R.S. § 3510; restated Sept. 26, 1890, ch. 944 , 26 Stat. 484 . |
+| 5112(e) | 31:324b. | Dec. 31, 1970 , Pub. L. 91–607, § 203 , 84 Stat. 1769 ; Oct. 10, 1978 , Pub. L. 95–447, § 4 , 92 Stat. 1072 . |
+|  | 31:324c. | Dec. 31, 1970 , Pub. L. 91–607, § 209 , 84 Stat. 1769 . |
+|  | 31:391(d). |  |
+|  | 31:398(3), (4). |  |
+| 5112(f) | 31:321. | R.S. § 3514; Jan. 30, 1934, ch. 6, § 5 , 48 Stat. 340 . |
+|  | 31:399. | July 23, 1965 , Pub. L. 89–81 , 79 Stat. 254 , § 109; added Dec. 23, 1981 , Pub. L. 97–104, § 2 , 95 Stat. 1491 . |
+
+
+Silver Coins.—
+
+Sale price
+
+Bulk sales
+
+Numismatic items
+
+General Waiver of Procurement Regulations.—
+
+In general
+
+Equal employment opportunity
+
+Redesign and Issuance of Quarter Dollar in Commemoration of Each of the
+
+States.—
+
+Redesign beginning in 1999.—
+
+In general
+
+Transition provision
+
+Flexibility with regard to placement of inscriptions
+
+Single state designs
+
+Issuance of coins commemorating 5 states during each of the 10 years.—
+
+In general
+
+Number of each of 5 coin designs in each year
+
+Selection of design.—
+
+In general
+
+Selection and approval process
+
+Participation
+
+Standards
+
+Prohibition on certain representations
+
+Treatment as numismatic items
+
+Issuance.—
+
+Quality of coins
+
+Silver coins
+
+Sources of bullion
+
+Application in event of the admission of additional states
+
+Commemorative Coin Program Restrictions.—
+
+Maximum number
+
+Mintage levels.—
+
+In general
+
+Exception
+
+Designated recipient organization defined
+
+Redesign and Issuance of Circulating
+
+Coins Honoring Each of the Presidents of the United States.—
+
+Redesign beginning in 2007
+
+Design requirements
+
+Coin reverse
+
+Coin obverse
+
+Edge-incused inscriptions.—
+
+In general
+
+Preservation of distinctive edge
+
+Inscriptions of “liberty”
+
+Limitation in series to deceased presidents
+
+Inscription of “in god we trust”
+
+Issuance of coins commemorating presidents.—
+
+Order of issuance
+
+Treatment of period of service.—
+
+In general
+
+Nonconsecutive terms
+
+Issuance of coins commemorating 4 presidents during each year of the period.—
+
+In general
+
+Number of 4 circulating coin designs in each year
+
+Legal tender
+
+Treatment as numismatic items
+
+Issuance of numismatic coins
+
+Termination of program
+
+Reversion to preceding design
+
+First Spouse Bullion Coin Program.—
+
+In general
+
+Specifications
+
+Design requirements.—
+
+Coin obverse
+
+Coin reverse
+
+Designated denomination
+
+Design in case of no first spouse
+
+Design and coin for each spouse
+
+Inscriptions
+
+Sale of bullion coins
+
+Issuance of coins commemorating first spouses.—
+
+In general
+
+Maximum number of bullion coins for each design
+
+Termination of program
+
+Quality of coins
+
+Source of gold bullion.—
+
+In general
+
+Price of gold
+
+Bronze medals
+
+Legal tender
+
+Treatment as numismatic items
+
+Removal of Barriers to Circulation of
+
+Coin.—
+
+Acceptance by agencies and instrumentalities
+
+Publicity
+
+Coordination
+
+Bullion dealers
+
+Review of co-circulation
+
+Gold Bullion Coins.—
+
+In general
+
+Initial design.—
+
+In general
+
+Variations
+
+Source of gold bullion.—
+
+In general
+
+Price of gold
+
+Sale of coins
+
+Legal tender
+
+Treatment as numismatic items
+
+Redesign and Issuance of Circulating
+
+Coins Honoring Native Americans and the Important Contributions Made by Indian Tribes and Individual Native Americans in United States History.—
+
+Redesign beginning in 2008.—
+
+In general
+
+Delayed date
+
+Design requirements
+
+Coin reverse
+
+Coin obverse
+
+Edge-incused inscriptions.—
+
+In general
+
+Preservation of distinctive edge
+
+Reverse design selection
+
+Inscription of “in god we trust”
+
+Issuance of coins commemorating 1 native american event during each year.—
+
+In general
+
+Issuance period
+
+Order of issuance of designs
+
+Issuance of numismatic coins
+
+Quantity
+
+Redesign and Issuance of Circulating Quarter Dollar Honoring the District of Columbia and Each of the Territories.—
+
+Redesign in 2009.—
+
+In general
+
+Flexibility with regard to placement of inscriptions
+
+Single district or territory design
+
+Selection of design.—
+
+In general
+
+Selection and approval process
+
+Participation
+
+Standards
+
+Prohibition on certain representations
+
+Treatment as numismatic items
+
+Issuance.—
+
+Quality of coins
+
+Silver coins
+
+Timing and order of issuance
+
+Other provisions.—
+
+Application in event of admission as a state
+
+Application in event of independence
+
+Territory defined
+
+Redesign and Issuance of Quarter Dollars Emblematic of National Sites in Each State, the District of Columbia, and Each Territory.—
+
+Redesign beginning upon completion of prior program.—
+
+In general
+
+Flexibility with regard to placement of inscriptions
+
+Inclusion of district of columbia, and territories
+
+Single site in each state
+
+Selection of site and design.—
+
+Site.—
+
+In general
+
+Timing
+
+Design
+
+Selection and approval process
+
+Participation in design
+
+Standards
+
+Prohibition on certain representations
+
+Issuance of coins.—
+
+Order of issuance
+
+Rate of issuance
+
+Number of each of 5 coin designs in each year
+
+Treatment as numismatic items
+
+Issuance.—
+
+Quality of coins
+
+Silver coins
+
+Period of issuance.—
+
+In general
+
+Second round at discretion of secretary.—
+
+Determination
+
+Notice and report
+
+Applicability of provisions
+
+Continuation until all states are honored
+
+Designs after end of program
+
+National site
+
+Application in event of independence
+
+Silver Bullion Investment Product.—
+
+In general
+
+Fractionals
+
+Availability for sale
+
+Continuity
+
+Palladium Bullion Investment Coins.—
+
+In general
+
+Source of bullion.—
+
+In general
+
+Price of bullion
+
+Sale of coins
+
+Treatment
+
+Quality
+
+Design
+
+Mint facility
+
+Redesign and Issuance of
+
+Coins Honoring Innovation and Innovators From Each State, the District of Columbia, and Each Territory.—
+
+Redesign beginning in 2019.—
+
+In general
+
+Continuity provisions.—
+
+In general
+
+First coin
+
+Definition of territory
+
+Design requirements
+
+Coin obverse
+
+Coin reverse
+
+Edge-incused inscriptions.—
+
+In general
+
+Preservation of distinctive edge
+
+Issuance of coins commemorating innovation or innovators.—
+
+Order of issuance.—
+
+In general
+
+State
+
+District of columbia and territories
+
+Application in event of the admission of additional states
+
+Application in the event of independence or adding of a territory
+
+Issuance of coins commemorating four innovations or innovators during each of 14 years.—
+
+In general
+
+Number of coins of each design
+
+Selection of concept and design.—
+
+Concept
+
+Design
+
+Selection and approval process
+
+Standards
+
+Prohibition on certain representations
+
+Treatment as numismatic items
+
+Issuance of numismatic coins
+
+Termination of program
+
+Redesign and Issuance of Quarter Dollars Emblematic of Prominent American Women and Commemorating the
+
+th Amendment.—
+
+Redesign of quarter dollars beginning in 2022.—
+
+In general
+
+Flexibility with regard to placement of inscriptions
+
+Single prominent american woman on each quarter dollar
+
+Issuance of quarter dollars emblematic of up to five prominent american women each year
+
+Selection of prominent american women generally
+
+Design generally
+
+In general
+
+Obverse
+
+Issuance of coins
+
+Period of issuance.—
+
+In general
+
+Continuity
+
+Redesign and Issuance of Coins Emblematic of the United States Semiquincentennial.—
+
+Redesign beginning in 2026.—
+
+In general.—
+
+Quarter dollars
+
+Dollars
+
+Designs after end of the program
+
+Redesign definition
+
+Selection of designs.—
+
+In general
+
+Design selection process
+
+Redesign and Issuance of Quarter Dollars and Half Dollars Emblematic of Sports Played by American Youth.—
+
+Redesign of quarter dollars beginning in 2027.—
+
+In general
+
+Flexibility with regard to placement of inscriptions
+
+Single sport on each quarter dollar
+
+Issuance of quarter dollars emblematic of up to five sports each year
+
+Selection of sports generally
+
+Redesign of half dollars beginning in 2027.—
+
+In general
+
+Flexibility with regard to placement of inscriptions
+
+Single paralympic sport on each half dollar
+
+Selection of sports
+
+Design generally
+
+In general
+
+Quarter dollar obverse
+
+Half dollar obverse
+
+Issuance of coins.—
+
+Quarter dollar
+
+Half dollar
+
+Period of issuance.—
+
+In general
+
+Continuity
+
+Accompanying sports medals
+
+Olympic medals.—
+
+In general
+
+Working stock
+
+Olympic & paralympic committees
+
+Cooperative marketing and promotion opportunities
+
+Designs after end of program
+
+Quarter dollar.—
+
+Obverse
+
+Reverse
+
+Half dollar.—
+
+Obverse
+
+Reverse
+
+Standards and General Provisions for Circulating Collectible Coins Under Subsections (x), (y), and (z).—
+
+Prohibition on certain representations
+
+Treatment as numismatic items
+
+Issuance.—
+
+Quality of coins
+
+Coordination
+
+Number of each coin designs in each year
+
+Special inscriptions or symbol across the coins
+
+Legal tender
+
+Marketing and educational campaign
+
+Quality of medals
+
+Historical and Revision Notes
+
+Act
+
+5112(a)
+
+Sept. 26, 1890, ch. 945, § 1
+
+26 Stat. 485
+
+Sept. 5, 1962
+
+Pub. L. 87–643, § 1
+
+76 Stat. 440
+
+Oct. 11, 1974
+
+Pub. L. 93–441, § 1
+
+88 Stat. 1261
+
+July 23, 1965
+
+Pub. L. 89–81, § 101(c)
+
+79 Stat. 255
+
+Dec. 31, 1970
+
+Pub. L. 91–607, § 201
+
+84 Stat. 1768
+
+Oct. 10, 1978
+
+Pub. L. 95–447, § 2
+
+92 Stat. 1072
+
+5112(b)
+
+June 14, 1947, ch. 104, § 1
+
+61 Stat. 132
+
+July 23, 1965
+
+Pub. L. 89–81, § 101(b)
+
+79 Stat. 254
+
+Dec. 31, 1970
+
+Pub. L. 91–607, § 201
+
+84 Stat. 1768
+
+July 23, 1965
+
+Pub. L. 89–81, § 108(1)
+
+79 Stat. 255
+
+5112(c)
+
+Oct. 11, 1974
+
+Pub. L. 93–441, § 1
+
+88 Stat. 1261
+
+5112(d)(1)
+
+Mar. 3, 1887, ch. 396, § 3
+
+24 Stat. 635
+
+Sept. 26, 1890, ch. 945, § 1
+
+26 Stat. 485
+
+May 18, 1908, ch. 173
+
+35 Stat. 164
+
+July 23, 1965
+
+Pub. L. 89–81, § 204(a)
+
+79 Stat. 256
+
+Dec. 31, 1970
+
+Pub. L. 91–607, § 206
+
+84 Stat. 1769
+
+Oct. 10, 1978
+
+Pub. L. 95–447, § 3
+
+92 Stat. 1072
+
+5112(d)(2)
+
+Sept. 26, 1890, ch. 944
+
+26 Stat. 484
+
+5112(e)
+
+Dec. 31, 1970
+
+Pub. L. 91–607, § 203
+
+84 Stat. 1769
+
+Oct. 10, 1978
+
+Pub. L. 95–447, § 4
+
+92 Stat. 1072
+
+Dec. 31, 1970
+
+Pub. L. 91–607, § 209
+
+84 Stat. 1769
+
+5112(f)
+
+Jan. 30, 1934, ch. 6, § 5
+
+48 Stat. 340
+
+July 23, 1965
+
+Pub. L. 89–81
+
+79 Stat. 254
+
+Dec. 23, 1981
+
+Pub. L. 97–104, § 2
+
+95 Stat. 1491
+
+Act
+
+Silver Coins
+
+Legal Tender
+
+Numismatic Items
+
+Design Requirements.—
+
+In general
+
+Morgan dollar
+
+Peace dollar
+
+Designation and inscriptions
+
+Selection
+
+Sale Price
+
+Bulk Sales
+
+Circulating $1 Coins Honoring President George H.W. Bush
+
+Bullion Coins Honoring First Spouse Barbara Bush
+
+In General
+
+Factors to Be Considered
+
+Report Required
+
+Detailed Recommendations
+
+Improved Production Efficiency
+
+Minimizing Conversion Costs
+
+Fraud Prevention
+
+Rule of Construction
+
+“The Congress finds as follows:
+
+In General
+
+Report
+
+“Congress finds the following:
+
+In General
+
+Obverse
+
+Reverse
+
+Issuance of Redesigned Lincoln Cents in
+
+Order
+
+Number
+
+Design Selection
+
+In General
+
+Design Specifications.—
+
+Obverse
+
+Reverse
+
+Other inscriptions
+
+Study
+
+Report
+
+“The Congress finds that—
+
+Production of New Dollar Coins.—
+
+In general
+
+Authority of secretary to continue production
+
+Numismatic sets
+
+Marketing Program.—
+
+In general
+
+Study required
+
+Report
+
+Study
+
+Report
+
+State Commemorative Coin Program
+
+Design
+
+Order of issuance
+
+Number of coins
+
+Selection of design
+
+Treatment as numismatic items
+
+Numismatic items.—
+
+Quality of coins
+
+Silver coins
+
+Sources of bullion
+
+Funding
+
+Findings
+
+Declaration
+
+Quarterly Financial Report.—
+
+In general
+
+Information to be included
+
+Due dates
+
+Final Report
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 981](https://www.govinfo.gov/link/statute/96/981); [Pub. L. 97–452, § 1(20)](https://www.govinfo.gov/link/plaw/97/public/452), Jan. 12, 1983, [96 Stat. 2477](https://www.govinfo.gov/link/statute/96/2477); [Pub. L. 99–61, title II, § 202](https://www.govinfo.gov/link/plaw/99/public/61), July 9, 1985, [99 Stat. 115](https://www.govinfo.gov/link/statute/99/115); [Pub. L. 99–185, § 2(a)](https://www.govinfo.gov/link/plaw/99/public/185), (b), Dec. 17, 1985, [99 Stat. 1177](https://www.govinfo.gov/link/statute/99/1177); [Pub. L. 100–274](https://www.govinfo.gov/link/plaw/100/public/274), §§ 4(a), 6, Mar. 31, 1988, [102 Stat. 50](https://www.govinfo.gov/link/statute/102/50); [Pub. L. 102–390, title II](https://www.govinfo.gov/link/plaw/102/public/390), §§ 226(a), 227, 228, Oct. 6, 1992, [106 Stat. 1630](https://www.govinfo.gov/link/statute/106/1630); [Pub. L. 103–272, § 4(f)(1)(R)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1362](https://www.govinfo.gov/link/statute/108/1362); [Pub. L. 104–208, div. A, title I, § 101(f) [title V, §§ 523, 524, 529(a)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–314](https://www.govinfo.gov/link/statute/110/3009), 3009–347 to 3009–349; [Pub. L. 105–124](https://www.govinfo.gov/link/plaw/105/public/124), §§ 3, 4(b)–(d), Dec. 1, 1997, [111 Stat. 2534](https://www.govinfo.gov/link/statute/111/2534), 2536; [Pub. L. 105–176](https://www.govinfo.gov/link/plaw/105/public/176), May 29, 1998, [112 Stat. 104](https://www.govinfo.gov/link/statute/112/104); [Pub. L. 106–445, § 2(b)](https://www.govinfo.gov/link/plaw/106/public/445), Nov. 6, 2000, [114 Stat. 1931](https://www.govinfo.gov/link/statute/114/1931); [Pub. L. 108–15, title I](https://www.govinfo.gov/link/plaw/108/public/15), §§ 102, 103(d)(1), Apr. 23, 2003, [117 Stat. 615](https://www.govinfo.gov/link/statute/117/615), 619; [Pub. L. 109–145, title I](https://www.govinfo.gov/link/plaw/109/public/145), §§ 102–104, title II, § 201, Dec. 22, 2005, [119 Stat. 2665–2669](https://www.govinfo.gov/link/statute/119/2665), 2672; [Pub. L. 110–82](https://www.govinfo.gov/link/plaw/110/public/82), §§ 2, 3, Sept. 20, 2007, [121 Stat. 777](https://www.govinfo.gov/link/statute/121/777), 779; [Pub. L. 110–147](https://www.govinfo.gov/link/plaw/110/public/147), Dec. 21, 2007, [121 Stat. 1817](https://www.govinfo.gov/link/statute/121/1817); [Pub. L. 110–161, div. D, title VI](https://www.govinfo.gov/link/plaw/110/public/161), §§ 622–623(b), Dec. 26, 2007, [121 Stat. 2016](https://www.govinfo.gov/link/statute/121/2016), 2018; [Pub. L. 110–456, title I, § 102](https://www.govinfo.gov/link/plaw/110/public/456), title II, § 201, Dec. 23, 2008, [122 Stat. 5039](https://www.govinfo.gov/link/statute/122/5039), 5042; [Pub. L. 111–8, div. D, title VI, § 616](https://www.govinfo.gov/link/plaw/111/public/8), Mar. 11, 2009, [123 Stat. 677](https://www.govinfo.gov/link/statute/123/677); [Pub. L. 111–302](https://www.govinfo.gov/link/plaw/111/public/302), §§ 4, 5, Dec. 14, 2010, [124 Stat. 3273](https://www.govinfo.gov/link/statute/124/3273); [Pub. L. 111–303, § 2](https://www.govinfo.gov/link/plaw/111/public/303), Dec. 14, 2010, [124 Stat. 3275](https://www.govinfo.gov/link/statute/124/3275); [Pub. L. 114–94, div. G, title LXXIII, § 73001(1)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1785](https://www.govinfo.gov/link/statute/129/1785); [Pub. L. 115–91, div. A, title VIII, § 885](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1505](https://www.govinfo.gov/link/statute/131/1505); [Pub. L. 115–197, § 2](https://www.govinfo.gov/link/plaw/115/public/197), July 20, 2018, [132 Stat. 1515](https://www.govinfo.gov/link/statute/132/1515); [Pub. L. 115–232, div. A, title X, § 1081(e)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1986](https://www.govinfo.gov/link/statute/132/1986); [Pub. L. 116–330](https://www.govinfo.gov/link/plaw/116/public/330), §§ 2–6, Jan. 13, 2021, [134 Stat. 5101–5106](https://www.govinfo.gov/link/statute/134/5101).)*

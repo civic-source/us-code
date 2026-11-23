@@ -3,9 +3,10 @@ title: "Section 1186a - Conditional permanent resident status for certain alien 
 usc_title: 8
 usc_section: "1186a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1186a"
-generated_at: "2026-03-30T02:53:10.482Z"
+generated_at: "2026-11-23T20:25:36.094Z"
+status: "active"
 ---
 
 # § 1186a. Conditional permanent resident status for certain alien spouses and sons and daughters
@@ -73,3 +74,7 @@ generated_at: "2026-03-30T02:53:10.482Z"
   - **(2)** The term “alien son or daughter” means an alien who obtains the status of an alien lawfully admitted for permanent residence (whether on a conditional basis or otherwise) by virtue of being the son or daughter of an individual through a qualifying marriage.
   - **(3)** The term “qualifying marriage” means the marriage described to in paragraph (1).
   - **(4)** The term “petitioning spouse” means the spouse of a qualifying marriage, other than the alien.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 2, § 216, as added [Pub. L. 99–639, § 2(a)](https://www.govinfo.gov/link/plaw/99/public/639), Nov. 10, 1986, [100 Stat. 3537](https://www.govinfo.gov/link/statute/100/3537); amended [Pub. L. 100–525, § 7(a)](https://www.govinfo.gov/link/plaw/100/public/525), Oct. 24, 1988, [102 Stat. 2616](https://www.govinfo.gov/link/statute/102/2616); [Pub. L. 101–649, title VII, § 701(a)](https://www.govinfo.gov/link/plaw/101/public/649), Nov. 29, 1990, [104 Stat. 5085](https://www.govinfo.gov/link/statute/104/5085); [Pub. L. 102–232, title III, § 302(e)(8)(B)](https://www.govinfo.gov/link/plaw/102/public/232), Dec. 12, 1991, [105 Stat. 1746](https://www.govinfo.gov/link/statute/105/1746); [Pub. L. 103–322, title IV, § 40702(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1955](https://www.govinfo.gov/link/statute/108/1955); [Pub. L. 104–208, div. C, title III, § 308(d)(4)(E)](https://www.govinfo.gov/link/plaw/104/public/208), (e)(7), (f)(1)(I), (J), Sept. 30, 1996, [110 Stat. 3009–618](https://www.govinfo.gov/link/statute/110/3009), 3009–620, 3009–621; [Pub. L. 106–553, § 1(a)(2) [title XI, § 1103(c)(2)]](https://www.govinfo.gov/link/plaw/106/public/553), Dec. 21, 2000, [114 Stat. 2762](https://www.govinfo.gov/link/statute/114/2762), 2762A–145; [Pub. L. 112–58, § 1](https://www.govinfo.gov/link/plaw/112/public/58), Nov. 23, 2011, [125 Stat. 747](https://www.govinfo.gov/link/statute/125/747); [Pub. L. 113–4, title VIII, § 806](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 112](https://www.govinfo.gov/link/statute/127/112).)*

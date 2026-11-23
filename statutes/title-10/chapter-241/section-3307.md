@@ -3,12 +3,17 @@ title: "Section 3307 - Antitrust violations"
 usc_title: 10
 usc_section: "3307"
 chapter: 241
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 3307"
-generated_at: "2026-03-30T02:53:38.191Z"
+generated_at: "2026-11-23T20:25:51.824Z"
+status: "active"
 ---
 
 # § 3307. Antitrust violations
 
 If the head of an agency considers that a bid or proposal evidences a violation of the antitrust laws, he shall refer the bid or proposal to the Attorney General for appropriate action.
 
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1816(c)(2)(G)](https://www.govinfo.gov/link/plaw/116/public/283), (9), Jan. 1, 2021, [134 Stat. 4182](https://www.govinfo.gov/link/statute/134/4182), 4185.)*

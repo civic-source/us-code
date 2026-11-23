@@ -3,9 +3,10 @@ title: "Section 2101A - Eligibility for benefits and assistance: members of the 
 usc_title: 38
 usc_section: "2101A"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 2101A"
-generated_at: "2026-03-30T02:55:53.495Z"
+generated_at: "2026-11-23T20:27:01.778Z"
+status: "active"
 ---
 
 # § 2101A. Eligibility for benefits and assistance: members of the Armed Forces with service-connected disabilities; individuals residing outside the United States
@@ -20,3 +21,15 @@ generated_at: "2026-03-30T02:55:53.495Z"
     - **(B)** the individual has or will acquire a beneficial property interest (as so determined) in such housing or residence.
 - **(c)** Notwithstanding subsections (a) and (b), this section shall not apply to the provision of assistance under section 2102B of this title .
 - **(d)** Benefits and assistance under this chapter by reason of this section shall be provided in accordance with such regulations as the Secretary may prescribe.
+
+Members With Service-Connected Disabilities
+
+Benefits and Assistance for Individuals Residing Outside the United States
+
+Limitation
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 110–289, div. B, title VI, § 2602(a)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2858](https://www.govinfo.gov/link/statute/122/2858); amended [Pub. L. 115–177, § 1(c)(2)](https://www.govinfo.gov/link/plaw/115/public/177), June 1, 2018, [132 Stat. 1377](https://www.govinfo.gov/link/statute/132/1377); [Pub. L. 116–283, div. A, title IX, § 926(a)(34)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3830](https://www.govinfo.gov/link/statute/134/3830).)*

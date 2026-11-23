@@ -3,9 +3,10 @@ title: "Section 6612 - Transfer and allocation of appropriations"
 usc_title: 22
 usc_section: "6612"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6612"
-generated_at: "2026-03-30T02:55:05.431Z"
+generated_at: "2026-11-23T20:26:32.624Z"
+status: "active"
 ---
 
 # § 6612. Transfer and allocation of appropriations
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.431Z"
 - **(c)**
   - **(1)** Funds transferred pursuant to subsection (a) may be available for the purposes of reorganization subject to notification of the appropriate congressional committees in accordance with the procedures applicable to a reprogramming of funds under section 2706 of this title .
   - **(2)** Funds in any account appropriated to the Department of State may be transferred to another such account for the purposes of reorganization, subject to notification of the appropriate congressional committees in accordance with the procedures applicable to a reprogramming of funds under section 2706 of this title . The authority in this paragraph is in addition to any other transfer authority available to the Secretary of State and shall expire September 30, 2000 .
+
+## Source Credit
+
+*([Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XVI, § 1612, Oct. 21, 1998, [112 Stat. 2681–798](https://www.govinfo.gov/link/statute/112/2681).)*

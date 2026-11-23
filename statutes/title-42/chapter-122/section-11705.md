@@ -3,9 +3,10 @@ title: "Section 11705 - Native Hawaiian health care systems"
 usc_title: 42
 usc_section: "11705"
 chapter: 122
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11705"
-generated_at: "2026-03-30T02:56:11.404Z"
+generated_at: "2026-11-23T20:27:23.321Z"
+status: "active"
 ---
 
 # § 11705. Native Hawaiian health care systems
@@ -53,3 +54,9 @@ generated_at: "2026-03-30T02:56:11.404Z"
 - **(h)**
   - **(1)** There are authorized to be appropriated such sums as may be necessary for fiscal years 1993 through 2019 to carry out subsection (a)(1).
   - **(2)** There are authorized to be appropriated such sums as may be necessary to carry out subsection (a)(2).
+
+Health and education
+
+## Source Credit
+
+*([Pub. L. 100–579, § 6](https://www.govinfo.gov/link/plaw/100/public/579), Oct. 31, 1988, [102 Stat. 2919](https://www.govinfo.gov/link/statute/102/2919); [Pub. L. 100–690, title II, § 2306](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4226](https://www.govinfo.gov/link/statute/102/4226); [Pub. L. 102–396, title IX, § 9168](https://www.govinfo.gov/link/plaw/102/public/396), Oct. 6, 1992, [106 Stat. 1948](https://www.govinfo.gov/link/statute/106/1948); [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935); [Pub. L. 114–95, title IX, § 9215(jjj)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2187](https://www.govinfo.gov/link/statute/129/2187).)*

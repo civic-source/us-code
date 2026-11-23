@@ -3,9 +3,10 @@ title: "Section 852 - Exemption from registration"
 usc_title: 50
 usc_section: "852"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 852"
-generated_at: "2026-03-30T02:56:26.202Z"
+generated_at: "2026-11-23T20:27:30.727Z"
+status: "active"
 ---
 
 # § 852. Exemption from registration
@@ -22,3 +23,7 @@ The registration requirements of section 851 of this title do not apply to any p
 - **(h)** Who 1 1 So in original. Probably should not be capitalized. is an officially acknowledged and sponsored representative of a foreign government and is in the United States on an official mission for the purpose of conferring or otherwise cooperating with United States intelligence or security personnel;
 - **(i)** who is a civilian or one of the military personnel of a foreign armed service coming to the United States pursuant to arrangements made under a mutual defense treaty or agreement, or who has been invited to the United States at the request of an agency of the United States Government; or
 - **(j)** who is a person designated by a foreign government to serve as its representative in or to an international organization in which the United States participates or is an officer or employee of such an organization or who is a member of the immediate family of, and resides with, such a representative, officer, or employee.
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 849, § 3, [70 Stat. 899](https://www.govinfo.gov/link/statute/70/899).)*

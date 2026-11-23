@@ -3,9 +3,10 @@ title: "Section 2274 - Space situational awareness services and information: pro
 usc_title: 10
 usc_section: "2274"
 chapter: 135
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2274"
-generated_at: "2026-03-30T02:53:38.152Z"
+generated_at: "2026-11-23T20:25:51.524Z"
+status: "active"
 ---
 
 # § 2274. Space situational awareness services and information: provision to non-United States Government entities
@@ -34,3 +35,33 @@ generated_at: "2026-03-30T02:53:38.152Z"
 - **(f)** The Secretary shall establish procedures by which the authority under this section shall be carried out. As part of those procedures, the Secretary may allow space situational awareness services or information to be provided through a contractor of the Department of Defense.
 - **(g)** The United States, any agencies and instrumentalities thereof, and any individuals, firms, corporations, and other persons acting for the United States, shall be immune from any suit in any court for any cause of action arising from the provision or receipt of space situational awareness services or information, whether or not provided in accordance with this section, or any related action or omission.
 - **(h)** If the Secretary determines that a commercial or foreign entity has declined or is reluctant to provide data or information to the Secretary in accordance with this section due to the concerns of such entity about the potential disclosure of such data or information, the Secretary shall, not later than 60 days after the Secretary makes that determination, provide notice to the congressional defense committees of the declination or reluctance of such entity.
+
+Authority
+
+Eligible Entities
+
+Agreement
+
+Charges
+
+Crediting of Funds Received
+
+Procedures
+
+Immunity
+
+Notice of Concerns of Disclosure of Information
+
+In General
+
+Report
+
+Limitation
+
+Plan
+
+Waiver
+
+## Source Credit
+
+*(Added [Pub. L. 108–136, div. A, title IX, § 913(a)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1565](https://www.govinfo.gov/link/statute/117/1565); amended [Pub. L. 109–364, div. A, title IX, § 912](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2355](https://www.govinfo.gov/link/statute/120/2355); [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title IX, § 911, Oct. 14, 2008, [122 Stat. 4571](https://www.govinfo.gov/link/statute/122/4571); [Pub. L. 111–84, div. A, title IX, § 912(a)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2429](https://www.govinfo.gov/link/statute/123/2429); [Pub. L. 115–232, div. A, title XVI, § 1604(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2106](https://www.govinfo.gov/link/statute/132/2106).)*

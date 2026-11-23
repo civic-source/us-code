@@ -3,9 +3,10 @@ title: "Section 3901 - Definitions"
 usc_title: 33
 usc_section: "3901"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 3901"
-generated_at: "2026-03-30T02:55:41.144Z"
+generated_at: "2026-11-23T20:26:54.281Z"
+status: "active"
 ---
 
 # § 3901. Definitions
@@ -37,3 +38,7 @@ In this chapter:
   - **(13)** The term “subsidy amount” means the amount of budget authority sufficient to cover the estimated long-term cost to the Federal Government of a Federal credit instrument, as calculated on a net present value basis, excluding administrative costs and any incidental effects on governmental receipts or outlays in accordance with the Federal Credit Reform Act of 1990 ( 2 U.S.C. 661 et seq.).
   - **(14)** The term “substantial completion”, with respect to a project, means the earliest date on which a project is considered to perform the functions for which the project is designed.
   - **(15)** The term “treatment works” has the meaning given the term in section 212 of the Federal Water Pollution Control Act ( 33 U.S.C. 1292 ).
+
+## Source Credit
+
+*([Pub. L. 113–121, title V, § 5022](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1332](https://www.govinfo.gov/link/statute/128/1332).)*

@@ -3,9 +3,10 @@ title: "Section 5811 - Research and extension projects"
 usc_title: 7
 usc_section: "5811"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 5811"
-generated_at: "2026-03-30T02:53:42.418Z"
+generated_at: "2026-11-23T20:25:41.658Z"
+status: "active"
 ---
 
 # § 5811. Research and extension projects
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:53:42.418Z"
 - **(i)**
   - **(1)** Subject to paragraph (2), the Secretary may indemnify the operator of a project conducted under this section for damage incurred or undue losses sustained as a result of a rigid requirement of research or demonstration under such project that is not experienced in normal farming operations.
   - **(2)** An indemnity payment under paragraph (1) shall be subject to any agreement between a project grantee and operator entered into prior to the initiation of such project.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XVI, § 1621](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3734](https://www.govinfo.gov/link/statute/104/3734); [Pub. L. 104–127, title VIII, § 860(c)(2)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1173](https://www.govinfo.gov/link/statute/110/1173).)*

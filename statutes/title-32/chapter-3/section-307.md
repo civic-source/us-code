@@ -3,9 +3,10 @@ title: "Section 307 - Federal recognition of officers: examination; certificate 
 usc_title: 32
 usc_section: "307"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "32 U.S.C. § 307"
-generated_at: "2026-03-30T02:55:31.865Z"
+generated_at: "2026-11-23T20:26:48.786Z"
+status: "active"
 ---
 
 # § 307. Federal recognition of officers: examination; certificate of eligibility
@@ -21,3 +22,62 @@ generated_at: "2026-03-30T02:55:31.865Z"
 - **(d)** Subject to subsection (a)(1) and (2) and to such physical examination as may be prescribed, Federal recognition shall be extended to each officer of the Army Reserve who has qualified for appointment as an officer of the Army National Guard in his reserve grade. Similarly, Federal recognition shall be extended to each officer of the Air Force Reserve who has qualified for appointment as an officer of the Air National Guard. Federal recognition extended under this subsection is effective from the date of appointment in the Army National Guard or the Air National Guard, as the case may be.
 - **(e)** Subject to subsection (a)(1) and (2), Federal recognition shall be extended to each officer of the Air Force Reserve who is appointed in a commissioned grade in the Air National Guard to fill a vacancy, if on the date on which he is appointed his reserve grade is the same as the grade in which he is appointed or his name is on a recommended list for promotion to that reserve grade.
 - **(f)** Federal recognition extended under subsection (d) or (e) is effective from the date of appointment in the Army National Guard or the Air National Guard, as the case may be.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 307(a) 307(b) 307(c) 307(d) | 32:113 (1st sentence). 32:111 (37th through 54th words). 50:1113(a) (as applicable to officers). 32:113 (2d sentence and 1st 24 words of 3d sentence). 32:113 (3d sentence, less 1st 24 words). 50:1115(a) (less last 39 words). | June 3, 1916, ch. 134, § 74 (39th through 56th words); restated June 4, 1920, ch. 227 , subch. I, § 41 (39th through 56th words), 41 Stat. 781 . June 3, 1916, ch. 134, § 75 ; restated June 15, 1933, ch. 87, § 12 , 48 Stat. 158 ; July 9, 1952, ch. 608, § 803 (10th par.), 66 Stat. 505 . |
+|  |  | July 9, 1952, ch. 608 , §§ 703(a) (as applicable to officers), 705(a) (less last 39 words), 66 Stat. 502 . |
+
+| 1958 Act | Col 2 | Col 3 |
+| --- | --- | --- |
+| 307(a) 307(e) | 50:1349(b) (1st sentence). 50:1349(b) (less 1st sentence, and less 36th through 58th words of 2d sentence). | Sept. 3, 1954, ch. 1257, § 519(b) , 68 Stat. 1179 . |
+| 307(f) | 50:1349(b) (36th through 58th words of 2d sentence). |  |
+
+
+Historical and Revision Notes
+
+Act
+
+307(a)
+
+307(b)
+
+307(c)
+
+307(d)
+
+June 3, 1916, ch. 134, § 74
+
+June 4, 1920, ch. 227
+
+41 Stat. 781
+
+June 3, 1916, ch. 134, § 75
+
+June 15, 1933, ch. 87, § 12
+
+48 Stat. 158
+
+July 9, 1952, ch. 608, § 803
+
+66 Stat. 505
+
+July 9, 1952, ch. 608
+
+66 Stat. 502
+
+Act
+
+307(a)
+
+307(e)
+
+Sept. 3, 1954, ch. 1257, § 519(b)
+
+68 Stat. 1179
+
+307(f)
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 602; [Pub. L. 85–861, § 2(6)](https://www.govinfo.gov/link/plaw/85/public/861), Sept. 2, 1958, [72 Stat. 1543](https://www.govinfo.gov/link/statute/72/1543); [Pub. L. 92–492, § 2(b)](https://www.govinfo.gov/link/plaw/92/public/492), Oct. 13, 1972, [86 Stat. 810](https://www.govinfo.gov/link/statute/86/810); [Pub. L. 96–535](https://www.govinfo.gov/link/plaw/96/public/535), Dec. 16, 1980, [94 Stat. 3165](https://www.govinfo.gov/link/statute/94/3165); [Pub. L. 103–337, div. A, title XVI, § 1676(a)(2)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 3019](https://www.govinfo.gov/link/statute/108/3019).)*

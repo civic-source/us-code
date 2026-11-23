@@ -3,9 +3,10 @@ title: "Section 1203 - Transfer authorization"
 usc_title: 45
 usc_section: "1203"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 1203"
-generated_at: "2026-03-30T02:55:56.560Z"
+generated_at: "2026-11-23T20:27:05.337Z"
+status: "active"
 ---
 
 # § 1203. Transfer authorization
@@ -48,3 +49,35 @@ generated_at: "2026-03-30T02:55:56.560Z"
     - **(E)** Prior to the date of transfer, the Secretary shall also certify that the State-owned railroad has agreed to the retention, for at least one year from the date of transfer, of the offices of the Alaska Railroad, except in cases of separation for cause, resignation, retirement, or lack of work, at or above their base salaries in effect on the date of transfer, in such positions as the State-owned railroad may determine; or to the payment of lump-sum severance pay in an amount equal to such base salary for one year to officers not retained by the State-owned railroad upon transfer or, for officers separated within one year on or after the date of transfer, of a portion of such lump-sum severance payment (diminished pro rata for employment by the State-owned railroad within one year of the date of transfer prior to separation).
   - **(4)** Prior to the date of transfer, the Secretary shall also certify that the State has agreed to allow representatives of the Secretary adequate access to employees and records of the Alaska Railroad when needed for the performance of functions related to the period of Federal ownership.
   - **(5)** Prior to the date of transfer, the Secretary shall also certify that the State has agreed to compensate the United States at the value, if any, determined pursuant to section 1204(d) of this title .
+
+Definitions
+
+Corporation
+
+Secretary
+
+Exchange.—
+
+In general.—
+
+Easement expanded
+
+Easement relinquished
+
+Conditions of the exchange.—
+
+Equal exchange
+
+Total acres
+
+Interests conveyed
+
+Costs
+
+Land to be part of wilderness
+
+Other terms and conditions
+
+## Source Credit
+
+*([Pub. L. 97–468, title VI, § 604](https://www.govinfo.gov/link/plaw/97/public/468), Jan. 14, 1983, [96 Stat. 2559](https://www.govinfo.gov/link/statute/96/2559); [Pub. L. 108–7, div. I, title III, § 345(5)](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 418](https://www.govinfo.gov/link/statute/117/418); [Pub. L. 108–447, div. H, title I, § 152(3)](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3222](https://www.govinfo.gov/link/statute/118/3222).)*

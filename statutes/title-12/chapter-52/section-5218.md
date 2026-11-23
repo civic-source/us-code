@@ -3,9 +3,10 @@ title: "Section 5218 - Conflicts of interest"
 usc_title: 12
 usc_section: "5218"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5218"
-generated_at: "2026-03-30T02:53:53.525Z"
+generated_at: "2026-11-23T20:25:59.451Z"
+status: "active"
 ---
 
 # § 5218. Conflicts of interest
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:53.525Z"
   - **(4)** post-employment restrictions on employees; and
   - **(5)** any other potential conflict of interest, as the Secretary deems necessary or appropriate in the public interest.
 - **(b)** Regulations or guidelines required by this section shall be issued as soon as practicable after October 3, 2008 .
+
+## Source Credit
+
+*([Pub. L. 110–343, div. A, title I, § 108](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3774](https://www.govinfo.gov/link/statute/122/3774).)*

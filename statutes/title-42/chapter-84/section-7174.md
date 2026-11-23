@@ -3,9 +3,10 @@ title: "Section 7174 - Referral of other rulemaking proceedings to Commission"
 usc_title: 42
 usc_section: "7174"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7174"
-generated_at: "2026-03-30T02:56:11.284Z"
+generated_at: "2026-11-23T20:27:22.785Z"
+status: "active"
 ---
 
 # § 7174. Referral of other rulemaking proceedings to Commission
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.284Z"
   - **(1)** issuing a final rule or statement in the form initially proposed by the Secretary if the Commission has concurred in such rule pursuant to subsection (b)(1);
   - **(2)** issuing a final rule or statement in amended form so that the rule conforms in all respects with the changes proposed by the Commission if the Commission has concurred in such rule or statement pursuant to subsection (b)(2); or
   - **(3)** ordering that the rule shall not be issued.
+
+## Source Credit
+
+*([Pub. L. 95–91, title IV, § 404](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 586](https://www.govinfo.gov/link/statute/91/586).)*

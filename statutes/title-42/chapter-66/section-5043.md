@@ -3,9 +3,10 @@ title: "Section 5043 - Political activities"
 usc_title: 42
 usc_section: "5043"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5043"
-generated_at: "2026-03-30T02:56:11.214Z"
+generated_at: "2026-11-23T20:27:22.439Z"
+status: "active"
 ---
 
 # § 5043. Political activities
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.214Z"
   - **(1)** in any case in which a legislative body, a committee of a legislative body, or a member of a legislative body requests any volunteer in, or employee of, such a program to draft, review, or testify regarding measures or to make representations to such legislative body, committee, or member; or
   - **(2)** in connection with an authorization or appropriations measure directly affecting the operation of the program.
 - **(d)** The Director, after consultation with the Office of Personnel Management, shall issue rules and regulations to provide for the enforcement of this section, which shall include provisions for summary suspension of assistance for no more than thirty days until notice and an opportunity to be heard can be provided or other action necessary to permit enforcement on an emergency basis.
+
+## Source Credit
+
+*([Pub. L. 93–113, title IV, § 403](https://www.govinfo.gov/link/plaw/93/public/113), Oct. 1, 1973, [87 Stat. 408](https://www.govinfo.gov/link/statute/87/408); [Pub. L. 96–143](https://www.govinfo.gov/link/plaw/96/public/143), §§ 8, 18(c)(1), Dec. 13, 1979, [93 Stat. 1077](https://www.govinfo.gov/link/statute/93/1077), 1083; [Pub. L. 96–187, title I, § 112(e)(1)](https://www.govinfo.gov/link/plaw/96/public/187), Jan. 8, 1980, [93 Stat. 1366](https://www.govinfo.gov/link/statute/93/1366); [Pub. L. 99–551, § 10(i)(6)](https://www.govinfo.gov/link/plaw/99/public/551), Oct. 27, 1986, [100 Stat. 3078](https://www.govinfo.gov/link/statute/100/3078); [Pub. L. 103–82, title III, § 363](https://www.govinfo.gov/link/plaw/103/public/82), title IV, § 405(a)(7), Sept. 21, 1993, [107 Stat. 907](https://www.govinfo.gov/link/statute/107/907), 920.)*

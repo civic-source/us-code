@@ -3,9 +3,10 @@ title: "Section 1328 - Research, development projects, etc., relating to alterna
 usc_title: 30
 usc_section: "1328"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1328"
-generated_at: "2026-03-30T02:55:29.404Z"
+generated_at: "2026-11-23T20:26:35.039Z"
+status: "active"
 ---
 
 # § 1328. Research, development projects, etc., relating to alternative coal mining technologies
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:29.404Z"
 - **(c)** There are authorized to be appropriated to the Secretary of the Interior, to carry out the purposes of this section, $35,000,000 for each fiscal year beginning with the fiscal year 1979, and for each year thereafter for the next four years.
 - **(d)** At least sixty days before any funds are obligated for any research studies, surveys, experiments or demonstration projects to be conducted or financed under this chapter in any fiscal year, the Secretary of the Interior in consultation with the heads of other Federal agencies having the authority to conduct or finance such projects, shall determine and publish such determinations in the Federal Register that such projects are not being conducted or financed by any other Federal agency. On December 31 of each calendar year, the Secretary shall report to the Congress on the research studies, surveys, experiments or demonstration projects, conducted or financed under this chapter, including, but not limited to, a statement of the nature and purpose of each project, the Federal cost thereof, the identity and affiliation of the persons engaged in such projects, the expected completion date of the projects and the relationship of the projects to other such projects of a similar nature.
 - **(e)** Subject to the patent provisions of section 306(d) of this Act, 1 1 See References in Text note below. all information and data resulting from any research studies, surveys, experiments, or demonstration projects conducted or financed under this chapter shall be promptly made available to the public.
+
+## Source Credit
+
+*([Pub. L. 95–87, title IX, § 908](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 531](https://www.govinfo.gov/link/statute/91/531); [Pub. L. 95–91, title III, § 301(a)](https://www.govinfo.gov/link/plaw/95/public/91), title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577](https://www.govinfo.gov/link/statute/91/577), 606, 607; [Pub. L. 97–257, title I, § 100](https://www.govinfo.gov/link/plaw/97/public/257), Sept. 10, 1982, [96 Stat. 841](https://www.govinfo.gov/link/statute/96/841).)*

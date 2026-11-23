@@ -3,9 +3,10 @@ title: "Section 2602 - Vessel permits and numbers"
 usc_title: 33
 usc_section: "2602"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2602"
-generated_at: "2026-03-30T02:55:41.129Z"
+generated_at: "2026-11-23T20:26:54.207Z"
+status: "active"
 ---
 
 # § 2602. Vessel permits and numbers
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:55:41.129Z"
   - **(1)** The permit issued for a vessel under this chapter shall be maintained in a manner prescribed by the Secretary.
   - **(2)** If a vessel is a documented vessel, the Secretary may endorse a permit on the vessel’s certificate of documentation.
 - **(g)** The Secretary may include information in a permit in the vessel information system maintained under chapter 125 of title 46.
+
+## Source Credit
+
+*([Pub. L. 100–688, title IV, § 4102](https://www.govinfo.gov/link/plaw/100/public/688), Nov. 18, 1988, [102 Stat. 4155](https://www.govinfo.gov/link/statute/102/4155).)*

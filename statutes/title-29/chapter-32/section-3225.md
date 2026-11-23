@@ -3,9 +3,10 @@ title: "Section 3225 - National dislocated worker grants"
 usc_title: 29
 usc_section: "3225"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3225"
-generated_at: "2026-03-30T02:55:18.758Z"
+generated_at: "2026-11-23T20:26:38.117Z"
+status: "active"
 ---
 
 # § 3225. National dislocated worker grants
@@ -58,3 +59,11 @@ generated_at: "2026-03-30T02:55:18.758Z"
     - **(B)** At the request of a State, the Secretary may extend such employment, related to recovery from a single emergency or disaster involving the State, for not more than an additional 12 months.
   - **(4)** Funds made available under subsection (b)(1)(B) shall be available to assist workers described in paragraph (2) who are affected by an emergency or disaster, including workers who have relocated from an area in which an emergency or disaster has been declared or otherwise recognized, as appropriate. Under conditions determined by the Secretary and following notification to the Secretary, a State may use such funds, that are appropriated for any fiscal year and available for expenditure under any grant awarded to the State under this section, to provide any assistance authorized under this subsection. Funds used pursuant to the authority provided under this paragraph shall be subject to the liability and reimbursement requirements described in paragraph (5).
   - **(5)** Nothing in this Act shall be construed to relieve liability, by a responsible party that is liable under Federal law, for any costs incurred by the United States under subsection (b)(1)(B) or this subsection, including the responsibility to provide reimbursement for such costs to the United States.
+
+(aa) is involuntarily separated (as defined in section 1141 of title 10 ) from active duty or full-time National Guard duty; or
+
+(bb) is separated from active duty or full-time National Guard duty pursuant to a special separation benefits program under section 1174a of title 10 , or the voluntary separation incentive program under section 1175 of that title;
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 170](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1573](https://www.govinfo.gov/link/statute/128/1573).)*

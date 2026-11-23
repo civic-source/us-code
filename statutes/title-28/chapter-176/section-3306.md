@@ -3,9 +3,10 @@ title: "Section 3306 - Remedies of the United States"
 usc_title: 28
 usc_section: "3306"
 chapter: 176
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 3306"
-generated_at: "2026-03-30T02:55:30.154Z"
+generated_at: "2026-11-23T20:26:36.549Z"
+status: "active"
 ---
 
 # § 3306. Remedies of the United States
@@ -18,3 +19,11 @@ generated_at: "2026-03-30T02:55:30.154Z"
   - **(1)** under section 3304(b)(1)(A) within 6 years after the transfer was made or the obligation was incurred or, if later, within 2 years after the transfer or obligation was or could reasonably have been discovered by the claimant;
   - **(2)** under subsection (a)(1) or (b)(1)(B) of section 3304 within 6 years after the transfer was made or the obligation was incurred; or
   - **(3)** under section 3304(a)(2) within 2 years after the transfer was made or the obligation was incurred.
+
+In General
+
+Limitation
+
+## Source Credit
+
+*(Added [Pub. L. 101–647, title XXXVI, § 3611](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4963](https://www.govinfo.gov/link/statute/104/4963).)*

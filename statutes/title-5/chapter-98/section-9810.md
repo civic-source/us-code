@@ -3,9 +3,10 @@ title: "Section 9810 - Distinguished scholar appointment authority"
 usc_title: 5
 usc_section: "9810"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 9810"
-generated_at: "2026-03-30T02:52:56.074Z"
+generated_at: "2026-11-23T20:25:32.264Z"
+status: "active"
 ---
 
 # § 9810. Distinguished scholar appointment authority
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:52:56.074Z"
     - **(B)** achieved a cumulative grade point average of 3.5 or higher on a 4.0 scale in graduate coursework in the field of study required for the position.
 - **(c)** In making any selections under this section, preference eligibles who meet the criteria for distinguished scholar appointments shall be considered ahead of nonpreference eligibles.
 - **(d)** An appointment made under this authority shall be a career-conditional appointment in the competitive civil service.
+
+## Source Credit
+
+*(Added [Pub. L. 108–201, § 3(a)](https://www.govinfo.gov/link/plaw/108/public/201), Feb. 24, 2004, [118 Stat. 470](https://www.govinfo.gov/link/statute/118/470); amended [Pub. L. 118–188, § 2(a)(2)(A)(ii)](https://www.govinfo.gov/link/plaw/118/public/188), Dec. 23, 2024, [138 Stat. 2645](https://www.govinfo.gov/link/statute/138/2645).)*

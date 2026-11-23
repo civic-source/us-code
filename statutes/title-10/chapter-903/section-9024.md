@@ -3,9 +3,10 @@ title: "Section 9024 - Director of Small Business Programs"
 usc_title: 10
 usc_section: "9024"
 chapter: 903
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 9024"
-generated_at: "2026-03-30T02:53:38.255Z"
+generated_at: "2026-11-23T20:25:52.273Z"
+status: "active"
 ---
 
 # § 9024. Director of Small Business Programs
@@ -15,3 +16,13 @@ generated_at: "2026-03-30T02:53:38.255Z"
 - **(c)**
   - **(1)** The Director of Small Business Programs shall, subject to paragraph (2), perform such duties regarding small business programs of the Department of the Air Force, and shall exercise such powers regarding those programs, as the Secretary of the Air Force may prescribe.
   - **(2)** Section 15(k) of the Small Business Act ( 15 U.S.C. 644(k) ), except for the designations of the Director and the Office, applies to the Director of Small Business Programs.
+
+Director
+
+Office of Small Business Programs
+
+Duties and Powers
+
+## Source Credit
+
+*(Added [Pub. L. 109–163, div. A, title IX, § 904(e)(1)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3401](https://www.govinfo.gov/link/statute/119/3401), § 8024; renumbered § 9024, [Pub. L. 115–232, div. A, title VIII, § 806(c)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1833](https://www.govinfo.gov/link/statute/132/1833).)*

@@ -3,9 +3,10 @@ title: "Section 387r - Drug products used to treat tobacco dependence"
 usc_title: 21
 usc_section: "387r"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 387r"
-generated_at: "2026-03-30T02:54:54.282Z"
+generated_at: "2026-11-23T20:26:27.779Z"
+status: "active"
 ---
 
 # § 387r. Drug products used to treat tobacco dependence
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:54.282Z"
     - **(B)** reductions in consumption of tobacco; and
     - **(C)** reductions in the harm associated with continued tobacco use.
   - **(2)** The report under paragraph (1) shall include the recommendations of the Secretary on how the Food and Drug Administration should coordinate and facilitate the exchange of information on such innovative products and treatments among relevant offices and centers within the Administration and within the National Institutes of Health, the Centers for Disease Control and Prevention, and other relevant agencies.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 918, as added [Pub. L. 111–31, div. A, title I, § 101(b)(3)](https://www.govinfo.gov/link/plaw/111/public/31), June 22, 2009, [123 Stat. 1825](https://www.govinfo.gov/link/statute/123/1825).)*

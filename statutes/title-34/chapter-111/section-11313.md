@@ -3,9 +3,10 @@ title: "Section 11313 - Grants for local delinquency prevention programs"
 usc_title: 34
 usc_section: "11313"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 11313"
-generated_at: "2026-03-30T02:55:33.281Z"
+generated_at: "2026-11-23T20:26:50.531Z"
+status: "active"
 ---
 
 # § 11313. Grants for local delinquency prevention programs
@@ -70,3 +71,109 @@ generated_at: "2026-03-30T02:55:33.281Z"
     - **(D)** a description of the performance evaluation process of the delinquency prevention programs to be implemented under the plan, which shall include performance measures to assess efforts to address the unmet needs of youth in the community analyzed under subparagraph (A);
     - **(E)** the evidence or promising evaluation on which such delinquency prevention programs are based; and
     - **(F)** if such delinquency prevention programs are proven successful according to the performance evaluation process under subparagraph (D), a strategy to continue such programs after the subgrant period with non-Federal funds, including a description of how any estimated savings or efficiencies created by the implementation of the plan may be used to continue such programs.
+
+Establishment of Youth Violence Reduction Demonstration Projects.—
+
+In general
+
+Eligible entities
+
+Selection of Grant Recipients.—
+
+Awards
+
+Amount of awards
+
+Application
+
+Distribution
+
+Criteria
+
+Authorized Activities
+
+Evaluation and Reports.—
+
+Independent evaluation
+
+Reports to congress
+
+Federal Share.—
+
+In general
+
+Non-federal share
+
+Definitions
+
+Unit of local government
+
+Juvenile
+
+Young adult
+
+Authorization of Appropriations
+
+Assistant attorney general
+
+Distressed area
+
+PAL chapter
+
+Police Athletic/activities league
+
+Public housing; project
+
+In General
+
+Application.—
+
+Submission
+
+Review
+
+In General.—
+
+Assistance for new and expanded chapters
+
+Program requirements
+
+Additional Requirements
+
+Report to Assistant Attorney General
+
+Report to Congress
+
+In General
+
+Funding for Program Administration
+
+Short Title
+
+Findings
+
+After-School Technology Grants to the Boys and Girls Clubs of America.—
+
+Purposes
+
+Subawards
+
+Applications.—
+
+Eligibility
+
+Application requirements
+
+Grant Awards
+
+Authorization of Appropriations.—
+
+In general
+
+Source of funds
+
+Continued availability
+
+## Source Credit
+
+*([Pub. L. 93–415, title V, § 504](https://www.govinfo.gov/link/plaw/93/public/415), as added [Pub. L. 107–273, div. C, title II, § 12222(a)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1895](https://www.govinfo.gov/link/statute/116/1895); amended [Pub. L. 111–211, title II, § 246(a)](https://www.govinfo.gov/link/plaw/111/public/211), July 29, 2010, [124 Stat. 2295](https://www.govinfo.gov/link/statute/124/2295); [Pub. L. 115–385, title III, § 304](https://www.govinfo.gov/link/plaw/115/public/385), Dec. 21, 2018, [132 Stat. 5147](https://www.govinfo.gov/link/statute/132/5147).)*

@@ -3,9 +3,10 @@ title: "Section 1831t - Depository institutions lacking Federal deposit insuranc
 usc_title: 12
 usc_section: "1831t"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1831t"
-generated_at: "2026-03-30T02:53:53.462Z"
+generated_at: "2026-11-23T20:25:59.179Z"
+status: "active"
 ---
 
 # § 1831t. Depository institutions lacking Federal deposit insurance
@@ -67,3 +68,15 @@ generated_at: "2026-03-30T02:53:53.462Z"
     - **(A)** Subject to subparagraph (C), an appropriate State supervisor of a depository institution lacking Federal deposit insurance may examine and enforce compliance with the requirements of this section, and any regulation prescribed under this section.
     - **(B)** For purposes of bringing any action to enforce compliance with this section, no provision of this section shall be construed as preventing an appropriate State supervisor of a depository institution lacking Federal deposit insurance from exercising any powers conferred on such official by the laws of such State.
     - **(C)** If the Bureau or Federal Trade Commission has instituted an enforcement action for a violation of this section, no appropriate State supervisory agency may, during the pendency of such action, bring an action under this section against any defendant named in the complaint of the Bureau or Federal Trade Commission for any violation of this section that is alleged in that complaint.
+
+“Section 40 of the Federal Deposit Insurance Act [ 12 U.S.C. 1831t ] (as added by paragraph (1)) shall become effective on the date of enactment of this Act [ Dec. 19, 1991 ], except that—
+
+Deadline for initial independent audit
+
+Business plan required
+
+Definitions
+
+## Source Credit
+
+*(Sept. 21, 1950, ch. 967, § 2 [43], formerly § 2[40], as added [Pub. L. 102–242, title I, § 151(a)(1)](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2282](https://www.govinfo.gov/link/statute/105/2282); renumbered § 2[43], [Pub. L. 102–550, title XVI](https://www.govinfo.gov/link/plaw/102/public/550) § 1602(b), Oct. 28, 1992, [106 Stat. 4078](https://www.govinfo.gov/link/statute/106/4078); amended [Pub. L. 103–325, title III, § 340(a)](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2237](https://www.govinfo.gov/link/statute/108/2237); [Pub. L. 109–173, § 2(c)(3)](https://www.govinfo.gov/link/plaw/109/public/173), Feb. 15, 2006, [119 Stat. 3602](https://www.govinfo.gov/link/statute/119/3602); [Pub. L. 109–351, title V, § 505](https://www.govinfo.gov/link/plaw/109/public/351), Oct. 13, 2006, [120 Stat. 1975](https://www.govinfo.gov/link/statute/120/1975); [Pub. L. 111–203, title X, § 1090(2)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2094](https://www.govinfo.gov/link/statute/124/2094); [Pub. L. 114–94, div. G, title LXXXII, § 82001(b)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1796](https://www.govinfo.gov/link/statute/129/1796).)*

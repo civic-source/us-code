@@ -3,9 +3,10 @@ title: "Section 4612 - Missile proliferation control violations"
 usc_title: 50
 usc_section: "4612"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4612"
-generated_at: "2026-03-30T02:56:26.282Z"
+generated_at: "2026-11-23T20:27:31.137Z"
+status: "active"
 ---
 
 # § 4612. Missile proliferation control violations
@@ -68,3 +69,9 @@ generated_at: "2026-03-30T02:56:26.282Z"
       - **(i)** all activities of that government relating to the development or production of any missile equipment or technology; and
       - **(ii)** all activities of that government affecting the development or production of aircraft, electronics, and space systems or equipment; and
   - **(8)** the term “otherwise engaged in the trade of” means, with respect to a particular export or transfer, to be a freight forwarder or designated exporting agent, or a consignee or end user of the item to be exported or transferred.
+
+“It should be the policy of the United States to take all appropriate measures—
+
+## Source Credit
+
+*([Pub. L. 96–72, § 11B](https://www.govinfo.gov/link/plaw/96/public/72), as added [Pub. L. 101–510, div. A, title XVII, § 1702(b)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1741](https://www.govinfo.gov/link/statute/104/1741).)*

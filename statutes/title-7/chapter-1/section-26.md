@@ -3,9 +3,10 @@ title: "Section 26 - Commodity whistleblower incentives and protection"
 usc_title: 7
 usc_section: "26"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 26"
-generated_at: "2026-03-30T02:53:42.250Z"
+generated_at: "2026-11-23T20:25:40.892Z"
+status: "active"
 ---
 
 # § 26. Commodity whistleblower incentives and protection
@@ -119,3 +120,17 @@ generated_at: "2026-03-30T02:53:42.250Z"
 - **(n)**
   - **(1)** The rights and remedies provided for in this section may not be waived by any agreement, policy form, or condition of employment including by a predispute arbitration agreement.
   - **(2)** No predispute arbitration agreement shall be valid or enforceable, if the agreement requires arbitration of a dispute arising under this section.
+
+(aa) on whether the exemption under section 552(b)(3) of title 5 (known as the Freedom of Information Act) established in paragraph (2)(A) aids whistleblowers in disclosing information to the Commission;
+
+(bb) on what impact the exemption has had on the public’s ability to access information about the Commission’s regulation of commodity futures and option markets; and
+
+(cc) to make any recommendations on whether the Commission should continue to use the exemption.
+
+(aa) submit a report on the findings of the study required under this clause to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives; and
+
+(bb) make the report available to the public through publication of a report on the website of the Commission.
+
+## Source Credit
+
+*(Sept. 21, 1922, ch. 369, § 23, as added [Pub. L. 111–203, title VII, § 748](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1739](https://www.govinfo.gov/link/statute/124/1739).)*

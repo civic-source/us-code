@@ -3,9 +3,10 @@ title: "Section 158 - Designation of United States attorneys and agents of the F
 usc_title: 18
 usc_section: "158"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 158"
-generated_at: "2026-03-30T02:54:16.458Z"
+generated_at: "2026-11-23T20:26:08.336Z"
+status: "active"
 ---
 
 # § 158. Designation of United States attorneys and agents of the Federal Bureau of Investigation to address abusive reaffirmations of debt and materially fraudulent statements in bankruptcy schedules
@@ -16,3 +17,15 @@ generated_at: "2026-03-30T02:54:16.458Z"
   - **(2)** an agent of the Federal Bureau of Investigation for each field office of the Federal Bureau of Investigation.
 - **(c)** Each United States attorney designated under this section shall, in addition to any other responsibilities, have primary responsibility for carrying out the duties of a United States attorney under section 3057.
 - **(d)** The bankruptcy courts shall establish procedures for referring any case that may contain a materially fraudulent statement in a bankruptcy schedule to the individuals designated under this section.
+
+In General
+
+United States Attorneys and Agents of the Federal Bureau of Investigation
+
+Bankruptcy Investigations
+
+Bankruptcy Procedures
+
+## Source Credit
+
+*(Added [Pub. L. 109–8, title II, § 203(b)(1)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 49](https://www.govinfo.gov/link/statute/119/49).)*

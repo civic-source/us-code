@@ -3,9 +3,10 @@ title: "Section 150706 - Powers"
 usc_title: 36
 usc_section: "150706"
 chapter: 1507
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 150706"
-generated_at: "2026-03-30T02:55:44.702Z"
+generated_at: "2026-11-23T20:26:58.971Z"
+status: "active"
 ---
 
 # § 150706. Powers
@@ -23,3 +24,20 @@ The corporation may—
   - **(9)** publish a magazine and other publications consistent with the purposes of the corporation;
   - **(10)** sue and be sued; and
   - **(11)** do any other act necessary and proper to carry out the purposes of the corporation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 150706 | 36:434. | Aug. 13, 1953, ch. 427, § 4 , 67 Stat. 562 . |
+
+
+Historical and Revision Notes
+
+150706
+
+Aug. 13, 1953, ch. 427, § 4
+
+67 Stat. 562
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1393](https://www.govinfo.gov/link/statute/112/1393).)*

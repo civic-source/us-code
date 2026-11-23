@@ -3,9 +3,10 @@ title: "Section 294b - Continuing educational support for health professionals s
 usc_title: 42
 usc_section: "294b"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 294b"
-generated_at: "2026-03-30T02:56:10.776Z"
+generated_at: "2026-11-23T20:27:20.382Z"
+status: "active"
 ---
 
 # § 294b. Continuing educational support for health professionals serving in rural and underserved communities
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:10.776Z"
 - **(e)** An entity that revives a grant or contract under this section shall use not more than 5 percent of the amounts received under the grant or contract under this section for administrative expenses.
 - **(f)** The Secretary shall ensure that activities under this section do not unnecessarily duplicate efforts of other programs overseen by the Health Resources and Services Administration, including activities described in section 254c–20 of this title .
 - **(g)** There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2023 through 2025.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 752, as added [Pub. L. 111–148, title V, § 5403(b)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 648](https://www.govinfo.gov/link/statute/124/648); amended [Pub. L. 117–328, div. FF, title II, § 2227](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5751](https://www.govinfo.gov/link/statute/136/5751).)*

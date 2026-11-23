@@ -3,9 +3,10 @@ title: "Section 175 - Carbon reduction program"
 usc_title: 23
 usc_section: "175"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 175"
-generated_at: "2026-03-30T02:55:12.563Z"
+generated_at: "2026-11-23T20:26:23.839Z"
+status: "active"
 ---
 
 # § 175. Carbon reduction program
@@ -78,3 +79,61 @@ generated_at: "2026-03-30T02:55:12.563Z"
     - **(B)** Each State, each affected metropolitan planning organization, and the Secretary shall jointly ensure compliance with subparagraph (A).
 - **(f)** The Federal share of the cost of a project carried out using funds apportioned to a State under section 104(b)(7) shall be determined in accordance with section 120.
 - **(g)** Notwithstanding any other provision of law, a project assisted under this section shall be treated as a project on a Federal-aid highway under this chapter.
+
+Definitions
+
+Metropolitan planning organization; urbanized area
+
+Transportation emissions
+
+Transportation management area
+
+Establishment
+
+Eligible Projects.—
+
+In general
+
+Flexibility
+
+Carbon Reduction Strategy.—
+
+In general
+
+Requirements
+
+Updates
+
+Review
+
+Technical assistance
+
+Suballocation.—
+
+In general
+
+Metropolitan areas
+
+Distribution among urbanized areas of over 50,000 population.—
+
+In general
+
+Other factors
+
+Coordination in urbanized areas
+
+Consultation in rural areas
+
+Obligation authority.—
+
+In general
+
+Joint responsibility
+
+Federal Share
+
+Treatment of Projects
+
+## Source Credit
+
+*(Added [Pub. L. 117–58, div. A, title I, § 11403(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 555](https://www.govinfo.gov/link/statute/135/555).)*

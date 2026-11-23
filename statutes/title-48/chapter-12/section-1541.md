@@ -3,9 +3,10 @@ title: "Section 1541 - Organization and status"
 usc_title: 48
 usc_section: "1541"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1541"
-generated_at: "2026-03-30T02:56:14.587Z"
+generated_at: "2026-11-23T20:27:28.057Z"
+status: "active"
 ---
 
 # § 1541. Organization and status
@@ -13,3 +14,53 @@ generated_at: "2026-03-30T02:56:14.587Z"
 - **(a)** The provisions of this chapter and the name “Virgin Islands” as used in this chapter, shall apply to and include the territorial domain, islands, cays, and waters acquired by the United States through cession of the Danish West Indian Islands by the convention between the United States of America and His Majesty the King of Denmark entered into August 4, 1916 , and ratified by the Senate on September 7, 1916 ( 39 Stat. 1706 ). The Virgin Islands as above described are declared an unincorporated territory of the United States of America.
 - **(b)** The government of the Virgin Islands shall have the powers set forth in this chapter and shall have the right to sue by such name and in cases arising out of contract, to be sued: Provided , That no tort action shall be brought against the government of the Virgin Islands or against any officer or employee thereof in his official capacity without the consent of the legislature constituted by this chapter. The capital and seat of government of the Virgin Islands shall be located at the city of Charlotte Amalie, in the island of Saint Thomas.
 - **(c)** The relations between such government and the Federal Government in all matters not the program responsibility of another Federal department or agency shall be under the general administrative supervision of the Secretary of the Interior.
+
+Number and Appointment
+
+Terms
+
+Deadline for Appointment
+
+Vacancies
+
+Rates of Pay
+
+Travel Expenses
+
+Quorum
+
+Chairperson
+
+Director and Staff
+
+Applicability of Certain Civil Service Laws
+
+Detail of Federal Employees
+
+Experts and Consultants
+
+Volunteer and Uncompensated Services
+
+Hearings
+
+Mails
+
+Obtaining Official Data
+
+Gifts, Bequests, Devises
+
+Available Space
+
+Contract Authority
+
+Annual Reports
+
+Final Report
+
+Federal agency
+
+State
+
+## Source Credit
+
+*(July 22, 1954, ch. 558, § 2, [68 Stat. 497](https://www.govinfo.gov/link/statute/68/497); [Pub. L. 90–496, § 13](https://www.govinfo.gov/link/plaw/90/public/496), Aug. 23, 1968, [82 Stat. 842](https://www.govinfo.gov/link/statute/82/842).)*

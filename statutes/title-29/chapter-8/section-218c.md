@@ -3,9 +3,10 @@ title: "Section 218c - Protections for employees"
 usc_title: 29
 usc_section: "218c"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 218c"
-generated_at: "2026-03-30T02:55:18.682Z"
+generated_at: "2026-11-23T20:26:37.810Z"
+status: "active"
 ---
 
 # § 218c. Protections for employees
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:18.682Z"
 - **(b)**
   - **(1)** An employee who believes that he or she has been discharged or otherwise discriminated against by any employer in violation of this section may seek relief in accordance with the procedures, notifications, burdens of proof, remedies, and statutes of limitation set forth in section 2087(b) of title 15 .
   - **(2)** Nothing in this section shall be deemed to diminish the rights, privileges, or remedies of any employee under any Federal or State law or under any collective bargaining agreement. The rights and remedies in this section may not be waived by any agreement, policy, form, or condition of employment.
+
+## Source Credit
+
+*(June 25, 1938, ch. 676, § 18C, as added [Pub. L. 111–148, title I, § 1558](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 261](https://www.govinfo.gov/link/statute/124/261).)*

@@ -3,9 +3,10 @@ title: "Section 3206 - Gas utility rate design proposals"
 usc_title: 15
 usc_section: "3206"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 3206"
-generated_at: "2026-03-30T02:54:08.188Z"
+generated_at: "2026-11-23T20:26:04.277Z"
+status: "active"
 ---
 
 # § 3206. Gas utility rate design proposals
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:08.188Z"
   - **(2)** changes (if any) in the cost of natural gas to consumers, which are likely to result from the implementation nationally of each of such proposals, and
   - **(3)** the effects of the proposals on other provisions of this Act on gas utility rate structures.
 - **(d)** The Secretary shall provide for public participation in the conduct of the study under subsection (a), and the preparation of proposals under subsection (b).
+
+## Source Credit
+
+*([Pub. L. 95–617, title III, § 306](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3152](https://www.govinfo.gov/link/statute/92/3152).)*

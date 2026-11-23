@@ -3,9 +3,10 @@ title: "Section 32904 - Calculation of average fuel economy"
 usc_title: 49
 usc_section: "32904"
 chapter: 329
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 32904"
-generated_at: "2026-03-30T02:56:19.367Z"
+generated_at: "2026-11-23T20:27:35.005Z"
+status: "active"
 ---
 
 # § 32904. Calculation of average fuel economy
@@ -52,3 +53,144 @@ generated_at: "2026-03-30T02:56:19.367Z"
 - **(c)** The Administrator shall measure fuel economy for each model and calculate average fuel economy for a manufacturer under testing and calculation procedures prescribed by the Administrator. However, except under section 32908 of this title , the Administrator shall use the same procedures for passenger automobiles the Administrator used for model year 1975 (weighted 55 percent urban cycle and 45 percent highway cycle), or procedures that give comparable results. A measurement of fuel economy or a calculation of average fuel economy (except under section 32908) shall be rounded off to the nearest .1 of a mile a gallon. The Administrator shall decide on the quantity of other fuel that is equivalent to one gallon of gasoline. To the extent practicable, fuel economy tests shall be carried out with emissions tests under section 206 of the Clean Air Act ( 42 U.S.C. 7525 ).
 - **(d)** The Administrator shall prescribe a procedure under this section, or an amendment (except a technical or clerical amendment) in a procedure, at least 12 months before the beginning of the model year to which the procedure or amendment applies.
 - **(e)** The Administrator shall report measurements and calculations under this section to the Secretary of Transportation and shall consult and coordinate with the Secretary in carrying out this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 32904(a)(1) | 15:2003(a)(1), (2). | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , § 503(a)(1), (2), (d)–(f); added Dec. 22, 1975 , Pub. L. 94–163, § 301 , 89 Stat. 906 , 907. |
+| 32904(a)(2) | 15:2003(a)(3). | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , § 503(a)(3); added Jan. 7, 1980 , Pub. L. 96–185, § 18 (related to § 503(a)(3) of Motor Vehicle Information and Cost Savings Act), 93 Stat. 1336 . |
+| 32904(b)(1) | 15:2003(b)(2). | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , § 503(b)(1), (2); added Dec. 22, 1975 , Pub. L. 94–163, § 301 , 89 Stat. 906 ; Oct. 10, 1980 , Pub. L. 96–425 , §§ 4(c)(2), (3), 8(e), 94 Stat. 1824 , 1829. |
+| 32904(b)(2) | 15:2003(b)(1). |  |
+| 32904(b)(3) | 15:2003(b)(4). | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , § 503(b)(4); added Oct. 10, 1980 , Pub. L. 96–425, § 4(b) , 94 Stat. 1824 . |
+| 32904(b) (4)–(6) | 15:2003(b)(3). | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , § 503(b)(3); added Oct. 10, 1980 , Pub. L. 96–425, § 4(a)(1) , 94 Stat. 1822 ; Nov. 8, 1984 , Pub. L. 98–620, § 402(18) , 98 Stat. 3358 . |
+| 32904(c) | 15:2003(d)(1) (1st–3d sentences), (2), (e). |  |
+| 32904(d) | 15:2003(d)(3). |  |
+| 32904(e) | 15:2003(d)(1) (last sentence), (f). |  |
+
+| Pub. L . 103–429, § 6(36)(B) | Col 2 | Col 3 |
+| --- | --- | --- |
+| 32904(b) | 15:2003(b)(2)(E), (G). | Oct. 20, 1972 , Public Law 92–513, § 503(b)(2)(E) , (G), as amended Dec. 8, 1993 , Pub. L. 103–182, § 371 , 107 Stat. 2127 . |
+
+
+Method of Calculation
+
+Separate Calculations for Passenger Automobiles Manufactured Domestically and Not Domestically
+
+Testing and Calculation Procedures
+
+Effective Date of Procedure or Amendment
+
+Reports and Consultation
+
+Historical and Revision Notes
+
+Pub. L
+
+32904(a)(1)
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+Dec. 22, 1975
+
+Pub. L. 94–163, § 301
+
+89 Stat. 906
+
+32904(a)(2)
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+Jan. 7, 1980
+
+Pub. L. 96–185, § 18
+
+93 Stat. 1336
+
+32904(b)(1)
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+Dec. 22, 1975
+
+Pub. L. 94–163, § 301
+
+89 Stat. 906
+
+Oct. 10, 1980
+
+Pub. L. 96–425
+
+94 Stat. 1824
+
+32904(b)(2)
+
+32904(b)(3)
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+Oct. 10, 1980
+
+Pub. L. 96–425, § 4(b)
+
+94 Stat. 1824
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+Oct. 10, 1980
+
+Pub. L. 96–425, § 4(a)(1)
+
+94 Stat. 1822
+
+Nov. 8, 1984
+
+Pub. L. 98–620, § 402(18)
+
+98 Stat. 3358
+
+32904(c)
+
+32904(d)
+
+32904(e)
+
+Pub. L
+
+32904(b)
+
+Oct. 20, 1972
+
+Public Law 92–513, § 503(b)(2)(E)
+
+Dec. 8, 1993
+
+Pub. L. 103–182, § 371
+
+107 Stat. 2127
+
+Effect of Repeal on Existing Exemptions
+
+Accrual and Use of Credits
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1062](https://www.govinfo.gov/link/statute/108/1062); [Pub. L. 103–429, § 6(36)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4380](https://www.govinfo.gov/link/statute/108/4380); [Pub. L. 104–287, § 5(63)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3395](https://www.govinfo.gov/link/statute/110/3395); [Pub. L. 110–140, title I](https://www.govinfo.gov/link/plaw/110/public/140), §§ 104(b)(2), 113(a), Dec. 19, 2007, [121 Stat. 1503](https://www.govinfo.gov/link/statute/121/1503), 1508.)*

@@ -3,9 +3,10 @@ title: "Section 12705d - Regulatory barriers clearinghouse"
 usc_title: 42
 usc_section: "12705d"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12705d"
-generated_at: "2026-03-30T02:56:11.429Z"
+generated_at: "2026-11-23T20:27:23.429Z"
+status: "active"
 ---
 
 # § 12705d. Regulatory barriers clearinghouse
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.429Z"
     - **(B)** shall, not later than 30 days after submission to the clearinghouse of any new strategy or plan, be updated to include the new strategy or plan submitted.
 - **(c)** The clearinghouse under this section shall be established within the Office of Policy Development of the Department of Housing and Urban Development and shall be under the direction of the Assistant Secretary for Policy Development and Research.
 - **(d)** The clearinghouse under this section (as amended by section 103 of the Housing Affordability Barrier Removal Act of 2000) shall be established and commence carrying out the functions of the clearinghouse under this section not later than 1 year after December 27, 2000 . The Secretary of Housing and Urban Development may comply with the requirements under this section by reestablishing the clearinghouse that was originally established to comply with this section and updating and improving such clearinghouse to the extent necessary to comply with the requirements of this section as in effect pursuant to the enactment of such Act.
+
+## Source Credit
+
+*([Pub. L. 102–550, title XII, § 1205](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3940](https://www.govinfo.gov/link/statute/106/3940); [Pub. L. 106–569, title I, § 103](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 2947](https://www.govinfo.gov/link/statute/114/2947).)*

@@ -3,9 +3,10 @@ title: "Section 352 - Benefits"
 usc_title: 45
 usc_section: "352"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 352"
-generated_at: "2026-03-30T02:55:56.548Z"
+generated_at: "2026-11-23T20:27:05.274Z"
+status: "active"
 ---
 
 # § 352. Benefits
@@ -63,3 +64,73 @@ generated_at: "2026-03-30T02:55:56.548Z"
 - **(e)** Notwithstanding any other law of the United States, or of any State, Territory, or the District of Columbia, no benefits shall be assignable or be subject to any tax or to garnishment, attachment, or other legal process under any circumstances whatsoever, nor shall the payment thereof be anticipated.
 - **(f)** If (i) benefits are paid to any employee with respect to unemployment or sickness in any registration period, and it is later determined that remuneration is payable to such employee with respect to any period which includes days in such registration period which had been determined to be days of unemployment or sickness, and (ii) the person or company from which such remuneration is payable has, before payment thereof, notice of the payment of benefits upon the basis of days of unemployment or sickness included in such period, the remuneration so payable shall not be reduced by reason of such benefits but the remuneration so payable, to the extent to which benefits were paid upon the basis of days which had been determined to be days of unemployment or sickness and which are included in the period for which such remuneration is payable, shall be held to be a special fund in trust for the Board. The amount of such special fund shall be paid to the Board and in the collection thereof the Board shall have the same authority, and the same penalties shall apply, as are provided in section 358 of this title with respect to contributions. The proceeds of such special fund shall be credited to the account. Such benefits, to the extent that they are represented in such a special fund which has been collected by the Board, shall be disregarded for the purposes of subsection (c) of this section.
 - **(g)** Benefits accrued to an individual but not yet paid at death shall, upon certification by the Board, be paid, without necessity of filing further claims therefor, to the same individual or individuals to whom any accrued annuities under section 231e(a)(1) of this title are paid. In the event that no such accrued annuities are paid, and if application for such accrued benefits is filed prior to the expiration of two years after the death of the individual to whom such benefits accrued, such accrued benefits shall be paid, upon certification by the Board, to the individual or individuals who would be entitled thereto under section 231e(a)(1) of this title if such accrued benefits were accrued annuities. If there is no individual to whom all or any part of such accrued benefits can be paid in accordance with the foregoing provisions, such benefits or part thereof shall escheat to the credit of the account.
+
+Payment of Unemployment Benefits.—
+
+Generally
+
+Waiting period for first registration period
+
+Strikes.—
+
+Initial 14-day waiting period
+
+Subsequent days of unemployment
+
+Subsequent periods of continuing unemployment
+
+Definition of period of continuing unemployment
+
+Special rule regarding end of period
+
+Limit on amount of benefits
+
+Payment of Sickness Benefits.—
+
+Generally
+
+Waiting period for first registration period
+
+Definition of period of continuing sickness
+
+Special rule regarding end of period
+
+(A) subparagraph (A) were applied by substituting “265 days of unemployment” for “65 days of unemployment”; and
+
+(B) subparagraph (B) were applied by inserting “(or, in the case of unemployment benefits, 27 consecutive 14-day periods, except that no extended benefit period shall end before 20 consecutive 14-day periods after the date of enactment of the Continued Assistance for Unemployed Workers Act of 2020 1 have elapsed)” after “7 consecutive 14-day periods”.
+
+Clarification on Authority to Use Funds
+
+Funding for Administration
+
+In General
+
+Effective Dates.—
+
+In general
+
+Transition
+
+Reachback Provisions
+
+Limitation on Payment
+
+Enlargement of Benefits.—
+
+Generally
+
+Phase-out.—
+
+Benefits on or after june 14, 1992
+
+Reductions under emergency compensation extension provisions.—
+
+Limitations on reductions
+
+Termination of Benefits
+
+“The Comptroller General shall study the frequency of fraud and payment errors in the railroad unemployment compensation program. Not later than 1 year after the date of the enactment of this Act [ Nov. 10, 1988 ], the Comptroller General shall report to Congress the results of such study. Such report shall include—
+
+## Source Credit
+
+*(June 25, 1938, ch. 680, § 2, [52 Stat. 1096](https://www.govinfo.gov/link/statute/52/1096); June 20, 1939, ch. 227, §§ 7–9, 21, [53 Stat. 845](https://www.govinfo.gov/link/statute/53/845), 848; Oct. 10, 1940, ch. 842, §§ 9–12, [54 Stat. 1095](https://www.govinfo.gov/link/statute/54/1095), 1096; July 31, 1946, ch. 709, §§ 305–307, [60 Stat. 736](https://www.govinfo.gov/link/statute/60/736), 737; May 15, 1952, ch. 290, § 1, [66 Stat. 73](https://www.govinfo.gov/link/statute/66/73); Aug. 31, 1954, ch. 1164, pt. III, § 304, [68 Stat. 1041](https://www.govinfo.gov/link/statute/68/1041); Aug. 12, 1955, ch. 869, § 4, [69 Stat. 716](https://www.govinfo.gov/link/statute/69/716); [Pub. L. 86–28](https://www.govinfo.gov/link/plaw/86/public/28), pt. III, §§ 302, 303(a), May 19, 1959, [73 Stat. 30](https://www.govinfo.gov/link/statute/73/30); [Pub. L. 89–700, title II, § 202](https://www.govinfo.gov/link/plaw/89/public/700), Oct. 30, 1966, [80 Stat. 1087](https://www.govinfo.gov/link/statute/80/1087); [Pub. L. 90–257, title II, § 202](https://www.govinfo.gov/link/plaw/90/public/257), Feb. 15, 1968, [82 Stat. 23](https://www.govinfo.gov/link/statute/82/23); [Pub. L. 93–445, title IV, § 401](https://www.govinfo.gov/link/plaw/93/public/445), Oct. 16, 1974, [88 Stat. 1359](https://www.govinfo.gov/link/statute/88/1359); [Pub. L. 94–92, title I, § 1(c)](https://www.govinfo.gov/link/plaw/94/public/92) –(e), Aug. 9, 1975, [89 Stat. 461](https://www.govinfo.gov/link/statute/89/461), 462; [Pub. L. 98–76, title IV, § 412(a)](https://www.govinfo.gov/link/plaw/98/public/76), Aug. 12, 1983, [97 Stat. 436](https://www.govinfo.gov/link/statute/97/436); [Pub. L. 100–647, title VII](https://www.govinfo.gov/link/plaw/100/public/647), §§ 7101(c), 7201(a), Nov. 10, 1988, [102 Stat. 3758](https://www.govinfo.gov/link/statute/102/3758), 3774; [Pub. L. 104–88, title III, § 324(3)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 950](https://www.govinfo.gov/link/statute/109/950); [Pub. L. 104–251](https://www.govinfo.gov/link/plaw/104/public/251), §§ 2–5(b), Oct. 9, 1996, [110 Stat. 3161–3165](https://www.govinfo.gov/link/statute/110/3161); [Pub. L. 111–5, div. B, title II, § 2006(a)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 445](https://www.govinfo.gov/link/statute/123/445); [Pub. L. 111–92, § 9(a)](https://www.govinfo.gov/link/plaw/111/public/92), Nov. 6, 2009, [123 Stat. 2988](https://www.govinfo.gov/link/statute/123/2988); [Pub. L. 111–312, title V, § 505(a)](https://www.govinfo.gov/link/plaw/111/public/312), Dec. 17, 2010, [124 Stat. 3308](https://www.govinfo.gov/link/statute/124/3308); [Pub. L. 112–78, title II, § 202(a)](https://www.govinfo.gov/link/plaw/112/public/78), Dec. 23, 2011, [125 Stat. 1283](https://www.govinfo.gov/link/statute/125/1283); [Pub. L. 112–96, title II, § 2124(a)](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 167](https://www.govinfo.gov/link/statute/126/167); [Pub. L. 112–240, title V, § 504(a)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2344](https://www.govinfo.gov/link/statute/126/2344); [Pub. L. 116–136, div. A, title II](https://www.govinfo.gov/link/plaw/116/public/136), §§ 2113, 2114(a), Mar. 27, 2020, [134 Stat. 334](https://www.govinfo.gov/link/statute/134/334); [Pub. L. 116–260, div. N, title II](https://www.govinfo.gov/link/plaw/116/public/260), §§ 232(a), 233(a), Dec. 27, 2020, [134 Stat. 1957](https://www.govinfo.gov/link/statute/134/1957); [Pub. L. 117–2, title II](https://www.govinfo.gov/link/plaw/117/public/2), §§ 2901(a), 2902(a), Mar. 11, 2021, [135 Stat. 49](https://www.govinfo.gov/link/statute/135/49).)*

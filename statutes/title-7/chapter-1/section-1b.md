@@ -3,9 +3,10 @@ title: "Section 1b - Requirements of Secretary of the Treasury regarding exempti
 usc_title: 7
 usc_section: "1b"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1b"
-generated_at: "2026-03-30T02:53:42.234Z"
+generated_at: "2026-11-23T20:25:40.786Z"
+status: "active"
 ---
 
 # § 1b. Requirements of Secretary of the Treasury regarding exemption of foreign exchange swaps and foreign exchange forwards from definition of the term “swap”
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:42.234Z"
   - **(1)** an explanation regarding why foreign exchange swaps and foreign exchange forwards are qualitatively different from other classes of swaps in a way that would make the foreign exchange swaps and foreign exchange forwards ill-suited for regulation as swaps; and
   - **(2)** an identification of the objective differences of foreign exchange swaps and foreign exchange forwards with respect to standard swaps that warrant an exempted status.
 - **(c)** A determination by the Secretary under subsection (b) shall not exempt any foreign exchange swaps and foreign exchange forwards traded on a designated contract market or swap execution facility from any applicable antifraud and antimanipulation provision under this chapter. 1 1 See References in Text note below.
+
+## Source Credit
+
+*(Sept. 21, 1922, ch. 369, § 1b, as added [Pub. L. 111–203, title VII, § 722(h)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1674](https://www.govinfo.gov/link/statute/124/1674).)*

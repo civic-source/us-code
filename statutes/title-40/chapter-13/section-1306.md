@@ -3,9 +3,10 @@ title: "Section 1306 - Disposition of abandoned or forfeited personal property"
 usc_title: 40
 usc_section: "1306"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 1306"
-generated_at: "2026-03-30T02:55:43.377Z"
+generated_at: "2026-11-23T20:26:56.569Z"
+status: "active"
 ---
 
 # § 1306. Disposition of abandoned or forfeited personal property
@@ -48,3 +49,104 @@ generated_at: "2026-03-30T02:55:43.377Z"
     - **(A)** narcotic drugs, as defined in the Controlled Substances Act ( 21 U.S.C. 801 et seq.).
     - **(B)** firearms, as defined in section 5845 of the Internal Revenue Code of 1986 ( 26 U.S.C. 5845 ).
     - **(C)** other classes or kinds of property the disposal of which the Administrator, with the approval of the Secretary, may consider in the public interest, and may by regulation provide.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1306(a) | 40:304f. | Aug. 27, 1935, ch. 740 , title III, §§ 301–307, 49 Stat. 879 . |
+| 1306(b) | 40:304g. |  |
+| 1306(c) | 40:304h. |  |
+| 1306(d) | 40:304i. |  |
+| 1306(e) | 40:304k. |  |
+| 1306(f) | 40:304j. |  |
+| 1306(g) | 40:304 l (related to report). |  |
+| 1306(h)(1) | 40:304 l (related to regulations). |  |
+| 1306(h)(2), (3) | 40:304m. | Aug. 27, 1935, ch. 740 , title III, § 308, 49 Stat. 880 ; Pub. L. 91–513, title III, § 1102 ( o ), Oct. 27, 1970 , 84 Stat. 1293 . |
+
+
+Definitions
+
+Agency
+
+Property
+
+Voluntarily Abandoned Property
+
+Forfeited Property.—
+
+Agency retains property
+
+Agency does not desire to retain property
+
+Property Subject to Court Proceeding for Forfeiture.—
+
+Notification of administrator
+
+Application for court order to deliver property.—
+
+In general
+
+Delivery to seizing agency
+
+Delivery to other requesting agency
+
+Delivery to seizing agency for temporary holding
+
+Forfeiture decreed
+
+When no application made
+
+Retention or Delivery of Property Deemed Sale
+
+Payment of Costs Related to Property.—
+
+Availability of appropriations
+
+Payment and reimbursement of certain costs
+
+Report
+
+Administrative.—
+
+Regulations
+
+Other laws not repealed
+
+Property not subject to allocation under this section
+
+Historical and Revision Notes
+
+1306(a)
+
+Aug. 27, 1935, ch. 740
+
+49 Stat. 879
+
+1306(b)
+
+1306(c)
+
+1306(d)
+
+1306(e)
+
+1306(f)
+
+1306(g)
+
+1306(h)(1)
+
+1306(h)(2), (3)
+
+Aug. 27, 1935, ch. 740
+
+49 Stat. 880
+
+Pub. L. 91–513, title III, § 1102
+
+Oct. 27, 1970
+
+84 Stat. 1293
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1134](https://www.govinfo.gov/link/statute/116/1134).)*

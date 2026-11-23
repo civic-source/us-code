@@ -3,9 +3,10 @@ title: "Section 47 - Rehabilitation credit"
 usc_title: 26
 usc_section: "47"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 47"
-generated_at: "2026-03-30T02:55:27.607Z"
+generated_at: "2026-11-23T20:26:45.240Z"
+status: "active"
 ---
 
 # § 47. Rehabilitation credit
@@ -86,3 +87,11 @@ generated_at: "2026-03-30T02:55:27.607Z"
       - **(ii)** the first taxable year for which recapture is required under section 50(a)(2) with respect to such property,
   - **(4)** For purposes of this subsection, the term “self-rehabilitated building” means any building if it is reasonable to believe that more than half of the qualified rehabilitation expenditures for such building will be made directly by the taxpayer.
   - **(5)** This subsection shall apply to any taxpayer only if such taxpayer has made an election under this paragraph. Such an election shall apply to the taxable year for which made and all subsequent taxable years. Such an election, once made, may be revoked only with the consent of the Secretary.
+
+In general
+
+Transition rule
+
+## Source Credit
+
+*(Added [Pub. L. 87–834, § 2(b)](https://www.govinfo.gov/link/plaw/87/public/834), Oct. 16, 1962, [76 Stat. 966](https://www.govinfo.gov/link/statute/76/966); amended [Pub. L. 91–172, title VII, § 703(c)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 666](https://www.govinfo.gov/link/statute/83/666); [Pub. L. 91–676, § 1](https://www.govinfo.gov/link/plaw/91/public/676), Jan. 12, 1971, [84 Stat. 2060](https://www.govinfo.gov/link/statute/84/2060); [Pub. L. 92–178, title I](https://www.govinfo.gov/link/plaw/92/public/178), §§ 102(c), 107(a)(1), (b)(1), Dec. 10, 1971, [85 Stat. 500](https://www.govinfo.gov/link/statute/85/500), 507; Mar. 29, 1975, [Pub. L. 94–12, title III, § 302(b)(2)(A)](https://www.govinfo.gov/link/plaw/94/public/12), (c)(1), (2), [89 Stat. 43](https://www.govinfo.gov/link/statute/89/43), 44; [Pub. L. 94–455, title VIII, § 804(b)](https://www.govinfo.gov/link/plaw/94/public/455), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1594](https://www.govinfo.gov/link/statute/90/1594), 1834; [Pub. L. 95–600, title III, § 317(a)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2830](https://www.govinfo.gov/link/statute/92/2830); [Pub. L. 95–618, title II, § 241(b)](https://www.govinfo.gov/link/plaw/95/public/618), Nov. 9, 1978, [92 Stat. 3193](https://www.govinfo.gov/link/statute/92/3193); [Pub. L. 97–34, title II, § 211(f)(2)](https://www.govinfo.gov/link/plaw/97/public/34), (g), Aug. 13, 1981, [95 Stat. 231](https://www.govinfo.gov/link/statute/95/231), 233; [Pub. L. 97–248, title II, § 208(a)(2)(B)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 435](https://www.govinfo.gov/link/statute/96/435); [Pub. L. 97–448, title I, § 102(e)(3)](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2371](https://www.govinfo.gov/link/statute/96/2371); [Pub. L. 98–369, div. A, title IV](https://www.govinfo.gov/link/plaw/98/public/369), §§ 421(b)(7), 431(b)(2), (d)(4), (5), 474(o)(8), (9), July 18, 1984, [98 Stat. 794](https://www.govinfo.gov/link/statute/98/794), 807, 810, 836; [Pub. L. 98–443, § 9(p)](https://www.govinfo.gov/link/plaw/98/public/443), Oct. 4, 1984, [98 Stat. 1708](https://www.govinfo.gov/link/statute/98/1708); [Pub. L. 99–121, title I, § 103(b)(6)](https://www.govinfo.gov/link/plaw/99/public/121), Oct. 11, 1985, [99 Stat. 510](https://www.govinfo.gov/link/statute/99/510); [Pub. L. 99–514, title XV, § 1511(c)(2)](https://www.govinfo.gov/link/plaw/99/public/514), title XVIII, §§ 1802(a)(5)(A), 1844(b)(1), (2), (4), Oct. 22, 1986, [100 Stat. 2744](https://www.govinfo.gov/link/statute/100/2744), 2788, 2855; [Pub. L. 100–647, title I](https://www.govinfo.gov/link/plaw/100/public/647), §§ 1002(a)(18), (26)–(28), 1007(g)(3)(A), Nov. 10, 1988, [102 Stat. 3356](https://www.govinfo.gov/link/statute/102/3356), 3357, 3435; [Pub. L. 101–508, title XI, § 11801(c)(8)(A)](https://www.govinfo.gov/link/plaw/101/public/508), 11813(a), Nov. 5, 1990, [104 Stat. 1388–524](https://www.govinfo.gov/link/statute/104/1388), 1388–536; [Pub. L. 110–289, div. C, title I, § 3025(a)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2897](https://www.govinfo.gov/link/statute/122/2897); [Pub. L. 115–97, title I, § 13402(a)](https://www.govinfo.gov/link/plaw/115/public/97), (b)(1), Dec. 22, 2017, [131 Stat. 2134](https://www.govinfo.gov/link/statute/131/2134).)*

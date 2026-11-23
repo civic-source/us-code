@@ -3,9 +3,10 @@ title: "Section 47529 - Nonaddition rule"
 usc_title: 49
 usc_section: "47529"
 chapter: 475
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 47529"
-generated_at: "2026-03-30T02:56:19.408Z"
+generated_at: "2026-11-23T20:27:35.338Z"
+status: "active"
 ---
 
 # § 47529. Nonaddition rule
@@ -20,3 +21,34 @@ generated_at: "2026-03-30T02:56:19.408Z"
     - **(B)** an individual who is a citizen of the United States; or
     - **(C)** an entity that is owned or controlled by a corporation, trust, partnership, or individual described in subclause (A) or (B) of this clause; and
   - **(2)** enters the United States not later than 6 months after the expiration of a lease agreement (including any extension) between an owner described in clause (1) of this subsection and a foreign carrier.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 47529 | 49 App.:2158. | Nov. 5, 1990 , Pub. L. 101–508, § 9309 , 104 Stat. 1388–384 ; Oct. 31, 1992 , Pub. L. 102–581, § 136(b) , 106 Stat. 4889 . |
+
+
+General Limitations
+
+Exemptions
+
+Aircraft Deemed Not Imported
+
+Historical and Revision Notes
+
+47529
+
+Nov. 5, 1990
+
+Pub. L. 101–508, § 9309
+
+104 Stat. 1388–384
+
+Oct. 31, 1992
+
+Pub. L. 102–581, § 136(b)
+
+106 Stat. 4889
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1292](https://www.govinfo.gov/link/statute/108/1292).)*

@@ -3,9 +3,10 @@ title: "Section 17054 - Biofuels distribution and advanced biofuels infrastructu
 usc_title: 42
 usc_section: "17054"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17054"
-generated_at: "2026-03-30T02:56:11.494Z"
+generated_at: "2026-11-23T20:27:23.719Z"
+status: "active"
 ---
 
 # § 17054. Biofuels distribution and advanced biofuels infrastructure
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.494Z"
   - **(7)** microbial contamination;
   - **(8)** problems associated with electrical conductivity; and
   - **(9)** such other areas as the Secretary considers appropriate.
+
+## Source Credit
+
+*([Pub. L. 110–140, title II, § 248](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1548](https://www.govinfo.gov/link/statute/121/1548).)*

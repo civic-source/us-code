@@ -3,9 +3,10 @@ title: "Section 502 - Surface transportation research, development, and technolo
 usc_title: 23
 usc_section: "502"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 502"
-generated_at: "2026-03-30T02:55:12.571Z"
+generated_at: "2026-11-23T20:26:23.888Z"
+status: "active"
 ---
 
 # § 502. Surface transportation research, development, and technology
@@ -126,3 +127,627 @@ generated_at: "2026-03-30T02:55:12.571Z"
     - **(B)** All costs directly incurred by the non-Federal partners, including personnel, travel, and hardware development costs, shall be credited toward the non-Federal share of the cost of the activities described in subparagraph (A).
   - **(4)** The research, development, or use of a technology under a cooperative research and development agreement entered into under this chapter, including the terms under which the technology may be licensed and the resulting royalties may be distributed, shall be subject to the Stevenson-Wydler Technology Innovation Act of 1980 ( 15 U.S.C. 3701 et seq.).
   - **(5)** Section 6101(b) to (d) of title 41 shall not apply to a contract or agreement entered into under this chapter.
+
+Basic Principles Governing Research and Technology Investments.—
+
+Applicability
+
+Coverage
+
+Federal responsibility
+
+Role
+
+Program content
+
+Stakeholder input
+
+Competition and peer review
+
+Performance review and evaluation
+
+In general
+
+Performance measures
+
+Program plan
+
+Availability of evaluations
+
+Technological innovation
+
+General Authority.—
+
+Research, development, and technology transfer activities
+
+Tests and development
+
+Cooperation, grants, and contracts
+
+Technological innovation
+
+Funds.—
+
+Special account
+
+Use of funds
+
+Pooled funding.—
+
+Cooperation
+
+Secretary as agent
+
+Transfer of amounts among states or to federal highway administration
+
+Transfer of obligation authority
+
+Prize competitions
+
+In general
+
+Topics
+
+Advertising
+
+Requirements and registration
+
+Eligibility
+
+Liability
+
+Assumption of risk
+
+In general
+
+Related entity
+
+Financial responsibility
+
+Judges
+
+Selection
+
+Selection
+
+Limitations
+
+Administering the competition
+
+Funding
+
+In general
+
+Private sector funding
+
+Government funding
+
+No special consideration
+
+Availability of funds
+
+Savings provision
+
+Prize announcement
+
+Prize increases
+
+Congressional notification
+
+Award limit
+
+Compliance with existing law
+
+Notice and annual report
+
+In general
+
+Reports
+
+In general
+
+Information included
+
+(aa) a description of the proposed goals of the prize competition;
+
+(bb) an analysis of why the use of the authority under subparagraph (A) was the preferable method of achieving the goals described in item (aa) as opposed to other authorities available to the Secretary, such as contracts, grants, and cooperative agreements;
+
+(cc) the total amount of cash prizes awarded for each prize competition, including a description of the amount of private funds contributed to the program, the source of such funds, and the manner in which the amounts of cash prizes awarded and claimed were allocated among the accounts of the Department for recording as obligations and expenditures;
+
+(dd) the methods used for the solicitation and evaluation of submissions under each prize competition, together with an assessment of the effectiveness of such methods and lessons learned for future prize competitions;
+
+(ee) a description of the resources, including personnel and funding, used in the execution of each prize competition together with a detailed description of the activities for which such resources were used and an accounting of how funding for execution was allocated among the accounts of the agency for recording as obligations and expenditures; and
+
+(ff) a description of how each prize competition advanced the mission of the Department.
+
+Collaborative Research and Development.—
+
+In general
+
+Cooperation, grants, contracts, and agreements
+
+Federal share.—
+
+In general
+
+Non-federal share
+
+Use of technology
+
+Waiver of advertising requirements
+
+Definitions
+
+Resource center
+
+Smart community
+
+Establishment
+
+Inclusions
+
+Deadline
+
+Updates
+
+Definitions
+
+Eligible entity
+
+Eligible project
+
+Large community
+
+Midsized community
+
+Regional partnership
+
+Rural community
+
+SMART grant
+
+Establishment of Program
+
+Distribution
+
+Applications.—
+
+In general
+
+Transparency
+
+Selection criteria.—
+
+In general
+
+Priority
+
+Technical assistance
+
+Use of Grant Funds.—
+
+Eligible projects.—
+
+In general
+
+Coordinated automation
+
+Connected vehicles
+
+Intelligent, sensor-based infrastructure
+
+Systems integration
+
+Commerce delivery and logistics
+
+Leveraging use of innovative aviation technology
+
+Smart grid
+
+Smart technology traffic signals
+
+Eligible project costs
+
+Prohibited uses
+
+Reports.—
+
+Eligible entities
+
+GAO
+
+Secretary.—
+
+Report to congress
+
+Best practices
+
+Authorization of Appropriations.—
+
+In general
+
+Administrative costs
+
+Limitation
+
+Availability
+
+In General
+
+Purposes
+
+Funding.—
+
+Federal funding
+
+State contribution
+
+Establishment
+
+Surface Transportation Congestion Solutions Research Program.—
+
+Improved surface transportation congestion management system measures
+
+Analytical techniques for action on surface transportation congestion
+
+Technical Assistance and Training
+
+Funding
+
+In general
+
+Use of funds
+
+Funding
+
+Study
+
+Consultation
+
+Report
+
+In General
+
+Program.—
+
+National policy
+
+Policy implementation
+
+Cooperation
+
+Funding
+
+In General
+
+Program Stages.—
+
+First stage
+
+Second stage
+
+Cooperation
+
+Authorization of Appropriations
+
+Fundamental properties of asphalts and modified asphalts
+
+Transportation, economic, and land use system
+
+Funding
+
+In General
+
+Contents of Program.—
+
+Motor vehicle safety warning system.—
+
+In general
+
+Grants
+
+Funding
+
+Motor carrier advanced sensor control system.—
+
+In general
+
+Funding
+
+Intelligent transportation infrastructure.—
+
+Definitions
+
+Congested area
+
+Deployment area
+
+Metropolitan area
+
+Original contract
+
+Program
+
+State transportation department
+
+Uncommitted funds
+
+Intelligent transportation infrastructure program.—
+
+In general
+
+Objectives
+
+Part I.—
+
+In general
+
+Applicable conditions
+
+Deployment in congested areas
+
+Part II.—
+
+In general
+
+Requirements
+
+Provisions in contracts
+
+Use of funds for undeployed systems.—
+
+In general
+
+No inclusion in cost limitation
+
+Federal share; limits on costs of systems for metropolitan areas.—
+
+Federal share
+
+Limit on costs of system for each metropolitan area.—
+
+In general
+
+Funding under each part
+
+Use of rights-of-way.—
+
+In general
+
+Effect of subparagraph
+
+Authorization of appropriations
+
+Corrosion control and prevention.—
+
+In general
+
+Funding
+
+Fundamental properties of asphalts and modified asphalts.—
+
+In general
+
+Funding
+
+Advanced Traffic Monitoring and Response Center.—
+
+In general
+
+Funding.—
+
+Eligibility under section 5208
+
+Allocation
+
+Transportation economic and land use system.—
+
+In general
+
+Funding
+
+Recycled materials resource center.—
+
+Establishment
+
+Activities.—
+
+In general
+
+Sites and projects under actual field conditions
+
+Review and Evaluation.—
+
+In general
+
+Notification of deficiencies
+
+Disqualification
+
+Funding
+
+In General
+
+Implementation
+
+Savings Provision
+
+Goals
+
+Purposes
+
+Scope
+
+Policy
+
+Cooperation With Governmental, Private, and Educational Entities
+
+Consultation With Federal Officials
+
+Technical Assistance, Training, and Information
+
+Transportation Planning
+
+Information Clearinghouse.—
+
+In general
+
+Delegation of authority.—
+
+In general
+
+Federal assistance
+
+Advisory Committees.—
+
+In general
+
+Applicability of chapter
+
+of title
+
+, united states code
+
+Procurement Methods.—
+
+Technical assistance
+
+Intelligent transportation system software
+
+Evaluations.—
+
+Guidelines and requirements.—
+
+In general
+
+Objectivity and independence
+
+Funding
+
+Special rule
+
+Use of Rights-of-Way
+
+In General.—
+
+Updates
+
+Scope
+
+Reporting
+
+In General.—
+
+Development, implementation, and maintenance
+
+Interoperability and efficiency
+
+Use of standards development organizations
+
+Report on Critical Standards
+
+Provisional Standards.—
+
+In general
+
+Critical standards
+
+Period of effectiveness
+
+Waiver of Requirement To Establish Provisional Standard.—
+
+In general
+
+Notice
+
+Withdrawal of waiver
+
+Conformity With National Architecture.—
+
+In general
+
+Secretary’s discretion
+
+Exceptions
+
+Spectrum
+
+In General
+
+Priority Areas
+
+Operational Tests
+
+Federal Share
+
+Outreach and Public Relations Limitation.—
+
+In general
+
+Applicability
+
+Infrastructure Development
+
+Life Cycle Cost Analysis and Financing and Operations Plan
+
+Use of Innovative Financing.—
+
+In general
+
+Consistency with other law
+
+Commercial vehicle information systems and networks
+
+Commercial vehicle operations
+
+Corridor
+
+Intelligent transportation infrastructure
+
+Intelligent transportation system
+
+National architecture
+
+Standard
+
+State
+
+Use of Hazardous Materials Monitoring Systems.—
+
+In general
+
+Funding
+
+Outreach and Technology Transfer Activities.—
+
+In general
+
+Funding
+
+Translink.—
+
+In general
+
+Funding
+
+Establishment
+
+Purposes
+
+Membership
+
+Chairman
+
+Pay and Expenses
+
+Subordinate Committees
+
+Assistance of Secretary
+
+Reports
+
+Termination
+
+## Source Credit
+
+*(Added [Pub. L. 105–178, title V, § 5102](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 422](https://www.govinfo.gov/link/statute/112/422); amended [Pub. L. 109–59, title V](https://www.govinfo.gov/link/plaw/109/public/59), §§ 5201(b)–(g), (i)(1), (j)(1), (k), (l), 5202(a)(1), Aug. 10, 2005, [119 Stat. 1781–1785](https://www.govinfo.gov/link/statute/119/1781); [Pub. L. 110–244, title I, § 111(g)(1)](https://www.govinfo.gov/link/plaw/110/public/244), June 6, 2008, [122 Stat. 1605](https://www.govinfo.gov/link/statute/122/1605); [Pub. L. 111–350, § 5(e)(2)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3847](https://www.govinfo.gov/link/statute/124/3847); [Pub. L. 112–141, div. E, title II, § 52002(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 866](https://www.govinfo.gov/link/statute/126/866); [Pub. L. 114–94, div. A, title VI, § 6019(d)(1)(C)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1581](https://www.govinfo.gov/link/statute/129/1581).)*

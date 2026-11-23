@@ -3,9 +3,10 @@ title: "Section 81c - Exemption from customs laws of merchandise brought into fo
 usc_title: 19
 usc_section: "81c"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 81c"
-generated_at: "2026-03-30T02:54:24.625Z"
+generated_at: "2026-11-23T20:26:10.718Z"
+status: "active"
 ---
 
 # § 81c. Exemption from customs laws of merchandise brought into foreign trade zone
@@ -23,3 +24,45 @@ generated_at: "2026-03-30T02:54:24.625Z"
   - **(2)** The person who admits the merchandise described in paragraph (1) into the zone shall, at the time of such admission, certify to the Customs Service that the merchandise is admitted into the zone pursuant to this subsection for use within the zone as production equipment or as parts for such equipment and that the merchandise will be entered and estimated duties deposited when use of the merchandise in production begins.
   - **(3)** At the time use of the merchandise in production begins, the merchandise shall be entered, as provided for in section 484 of the Tariff Act of 1930 [ 19 U.S.C. 1484 ], and estimated duties shall be deposited with the Customs Service. The merchandise shall be subject to tariff classification according to its character, condition, and quantity, and at the rate of duty applicable, at the time use of the merchandise in production begins.
   - **(4)** For purposes of this subsection, the term “foreign trade zone” includes a subzone.
+
+| I.R.C. 1939 | I.R.C. 1986 |
+| --- | --- |
+| § 1807 | Omitted |
+| Chapter 15 | § 5701 et seq. |
+| Chapter 16 | § 4591 et seq., § 4811 et seq. |
+| Chapter 17 | § 4831 et seq. |
+| Chapter 21 | Omitted |
+| Chapter 23 | § 4701 et seq. |
+| Chapter 24 | § 4801 et seq. |
+| Chapter 25 | §§ 4181, 4182, and 5811 et seq. |
+| Chapter 26 | § 5001 et seq. |
+| Chapter 32 | § 4501 et seq. |
+
+
+§ 1807
+
+Chapter 15
+
+Chapter 16
+
+Chapter 17
+
+Chapter 21
+
+Chapter 23
+
+Chapter 24
+
+Chapter 25
+
+Chapter 26
+
+Chapter 32
+
+In general
+
+Transition from nafta treatment
+
+## Source Credit
+
+*(June 18, 1934, ch. 590, § 3, [48 Stat. 999](https://www.govinfo.gov/link/statute/48/999); June 17, 1950, ch. 296, § 1, [64 Stat. 246](https://www.govinfo.gov/link/statute/64/246); [Pub. L. 91–271, title III, § 309](https://www.govinfo.gov/link/plaw/91/public/271), June 2, 1970, [84 Stat. 292](https://www.govinfo.gov/link/statute/84/292); [Pub. L. 98–573, title II, § 231(a)(2)](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 2990](https://www.govinfo.gov/link/statute/98/2990); [Pub. L. 99–514, title XVIII, § 1894](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2931](https://www.govinfo.gov/link/statute/100/2931); [Pub. L. 100–418, title I, § 1783(f)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1300](https://www.govinfo.gov/link/statute/102/1300); [Pub. L. 100–449, title II, § 204(c)(5)](https://www.govinfo.gov/link/plaw/100/public/449), Sept. 28, 1988, [102 Stat. 1863](https://www.govinfo.gov/link/statute/102/1863); [Pub. L. 100–647, title IX, § 9002](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3808](https://www.govinfo.gov/link/statute/102/3808); [Pub. L. 101–382, title III](https://www.govinfo.gov/link/plaw/101/public/382), §§ 481, 484F, Aug. 20, 1990, [104 Stat. 706](https://www.govinfo.gov/link/statute/104/706), 710; [Pub. L. 103–182, title II, § 203(b)(5)](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2091](https://www.govinfo.gov/link/statute/107/2091); [Pub. L. 104–295, § 31(a)](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3536](https://www.govinfo.gov/link/statute/110/3536); [Pub. L. 106–36, title I, § 1001(b)(2)](https://www.govinfo.gov/link/plaw/106/public/36), June 25, 1999, [113 Stat. 131](https://www.govinfo.gov/link/statute/113/131); [Pub. L. 108–77, title II, § 203(b)(5)](https://www.govinfo.gov/link/plaw/108/public/77), Sept. 3, 2003, [117 Stat. 929](https://www.govinfo.gov/link/statute/117/929); [Pub. L. 116–113, title V, § 501(e)(5)](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 69](https://www.govinfo.gov/link/statute/134/69); [Pub. L. 116–260, div. O, title VI, § 601(c)(2)(B)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2150](https://www.govinfo.gov/link/statute/134/2150).)*

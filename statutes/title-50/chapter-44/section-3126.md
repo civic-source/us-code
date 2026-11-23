@@ -3,9 +3,10 @@ title: "Section 3126 - Definitions"
 usc_title: 50
 usc_section: "3126"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3126"
-generated_at: "2026-03-30T02:56:26.237Z"
+generated_at: "2026-11-23T20:27:30.925Z"
+status: "active"
 ---
 
 # § 3126. Definitions
@@ -27,3 +28,7 @@ For the purposes of this subchapter:
   - **(8)** The term “Armed Forces” means the Army, Navy, Air Force, Marine Corps, and Coast Guard.
   - **(9)** The term “United States”, when used in a geographic sense, means all areas under the territorial sovereignty of the United States and the Trust Territory of the Pacific Islands.
   - **(10)** The term “pattern of activities” requires a series of acts with a common purpose or objective.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title VI, § 605, formerly § 606, as added [Pub. L. 97–200, § 2(a)](https://www.govinfo.gov/link/plaw/97/public/200), June 23, 1982, [96 Stat. 123](https://www.govinfo.gov/link/statute/96/123); amended [Pub. L. 106–120, title III, § 304(a)](https://www.govinfo.gov/link/plaw/106/public/120), Dec. 3, 1999, [113 Stat. 1611](https://www.govinfo.gov/link/statute/113/1611); renumbered § 605 and amended [Pub. L. 112–277, title III, § 310(a)(4)(B)](https://www.govinfo.gov/link/plaw/112/public/277), title V, § 506, Jan. 14, 2013, [126 Stat. 2475](https://www.govinfo.gov/link/statute/126/2475), 2478; [Pub. L. 113–126, title VII, § 703(a)](https://www.govinfo.gov/link/plaw/113/public/126), July 7, 2014, [128 Stat. 1422](https://www.govinfo.gov/link/statute/128/1422); [Pub. L. 116–92, div. E, title LIII, § 5303](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2119](https://www.govinfo.gov/link/statute/133/2119).)*

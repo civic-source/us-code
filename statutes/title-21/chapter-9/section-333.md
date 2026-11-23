@@ -3,9 +3,10 @@ title: "Section 333 - Penalties"
 usc_title: 21
 usc_section: "333"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 333"
-generated_at: "2026-03-30T02:54:54.217Z"
+generated_at: "2026-11-23T20:26:27.506Z"
+status: "active"
 ---
 
 # § 333. Penalties
@@ -55,7 +56,7 @@ generated_at: "2026-03-30T02:54:54.217Z"
     - **(A)** Any person who violates section 331(jj) of this title shall be subject to a civil monetary penalty of not more than $10,000 for all violations adjudicated in a single proceeding.
     - **(B)** If a violation of section 331(jj) of this title is not corrected within the 30-day period following notification under section 282(j)(5)(C)(ii) 2 2 See References in Text note below. of title 42, the person shall, in addition to any penalty under subparagraph (A), be subject to a civil monetary penalty of not more than $10,000 for each day of the violation after such period until the violation is corrected.
   - **(4)**
-    - **(A)** Any responsible person (as such term is used in section 355–1 of this title ) that violates a requirement of section 355( o ), 355(p), or 355–1 of this title shall be subject to a civil monetary penalty of—
+    - **(A)** Any responsible person (as such term is used in section 355–1 of this title ) that violates a requirement of section 355( o ), 355(p), 355–1, or 355c of this title shall be subject to a civil monetary penalty of—
       - **(i)** not more than $250,000 per violation, and not to exceed $1,000,000 for all such violations adjudicated in a single proceeding; or
       - **(ii)** in the case of a violation that continues after the Secretary provides written notice to the responsible person, the responsible person shall be subject to a civil monetary penalty of $250,000 for the first 30-day period (or any portion thereof) that the responsible person continues to be in violation, and such amount shall double for every 30-day period thereafter that the violation continues, not to exceed $1,000,000 for any 30-day period, and not to exceed $10,000,000 for all such violations adjudicated in a single proceeding.
     - **(B)** In determining the amount of a civil penalty under subparagraph (A)(ii), the Secretary shall take into consideration whether the responsible person is making efforts toward correcting the violation of the requirement of section 355( o ), 355(p), or 355–1 of this title for which the responsible person is subject to such civil penalty.
@@ -102,3 +103,29 @@ generated_at: "2026-03-30T02:54:54.217Z"
   - **(7)** If any person fails to pay an assessment of a civil penalty under paragraph (1)—
     - **(A)** after the order making the assessment becomes final, and if such person does not file a petition for judicial review of the order in accordance with paragraph (6), or
     - **(B)** after a court in an action brought under paragraph (6) has entered a final judgment in favor of the Secretary,
+
+Civil Monetary Penalties for Violation of Tobacco Product Requirements.—
+
+In general
+
+Enhanced penalties.—
+
+General effective date
+
+Special effective date
+
+Effective Date of Application to Device User Facilities.—
+
+In general
+
+Penalties for violations.—
+
+In general
+
+Training program
+
+Consideration of state penalties
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 303, [52 Stat. 1043](https://www.govinfo.gov/link/statute/52/1043); Oct. 26, 1951, ch. 578, § 2, [65 Stat. 649](https://www.govinfo.gov/link/statute/65/649); [Pub. L. 86–618, title I, § 105(b)](https://www.govinfo.gov/link/plaw/86/public/618), July 12, 1960, [74 Stat. 403](https://www.govinfo.gov/link/statute/74/403); [Pub. L. 89–74](https://www.govinfo.gov/link/plaw/89/public/74), §§ 7, 9(d), July 15, 1965, [79 Stat. 233](https://www.govinfo.gov/link/statute/79/233), 235; [Pub. L. 90–639, § 3](https://www.govinfo.gov/link/plaw/90/public/639), Oct. 24, 1968, [82 Stat. 1361](https://www.govinfo.gov/link/statute/82/1361); [Pub. L. 91–513, title II, § 701(b)](https://www.govinfo.gov/link/plaw/91/public/513), Oct. 27, 1970, [84 Stat. 1281](https://www.govinfo.gov/link/statute/84/1281); [Pub. L. 94–278, title V, § 502(a)(2)(B)](https://www.govinfo.gov/link/plaw/94/public/278), Apr. 22, 1976, [90 Stat. 411](https://www.govinfo.gov/link/statute/90/411); [Pub. L. 100–293, § 7(b)](https://www.govinfo.gov/link/plaw/100/public/293), Apr. 22, 1988, [102 Stat. 99](https://www.govinfo.gov/link/statute/102/99); [Pub. L. 100–690, title II, § 2403](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4230](https://www.govinfo.gov/link/statute/102/4230); [Pub. L. 101–629, § 17(a)](https://www.govinfo.gov/link/plaw/101/public/629), Nov. 28, 1990, [104 Stat. 4526](https://www.govinfo.gov/link/statute/104/4526); [Pub. L. 101–647, title XIX, § 1904](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4853](https://www.govinfo.gov/link/statute/104/4853); [Pub. L. 102–353, § 3](https://www.govinfo.gov/link/plaw/102/public/353), Aug. 26, 1992, [106 Stat. 941](https://www.govinfo.gov/link/statute/106/941); [Pub. L. 103–80, § 3(e)](https://www.govinfo.gov/link/plaw/103/public/80), Aug. 13, 1993, [107 Stat. 775](https://www.govinfo.gov/link/statute/107/775); [Pub. L. 103–322, title XXXIII, § 330015](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2146](https://www.govinfo.gov/link/statute/108/2146); [Pub. L. 104–170, title IV, § 407](https://www.govinfo.gov/link/plaw/104/public/170), Aug. 3, 1996, [110 Stat. 1535](https://www.govinfo.gov/link/statute/110/1535); [Pub. L. 106–387, § 1(a) [title VII, § 745(d)(2)]](https://www.govinfo.gov/link/plaw/106/public/387), Oct. 28, 2000, [114 Stat. 1549](https://www.govinfo.gov/link/statute/114/1549), 1549A–40; [Pub. L. 107–250, title II, § 201(c)](https://www.govinfo.gov/link/plaw/107/public/250), Oct. 26, 2002, [116 Stat. 1609](https://www.govinfo.gov/link/statute/116/1609); [Pub. L. 108–173, title XI, § 1121(b)(2)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2469](https://www.govinfo.gov/link/statute/117/2469); [Pub. L. 110–85, title II, § 226(b)](https://www.govinfo.gov/link/plaw/110/public/85), title VIII, § 801(b)(2), title IX, §§ 901(d)(4), 902(b), Sept. 27, 2007, [121 Stat. 854](https://www.govinfo.gov/link/statute/121/854), 920, 940, 943; [Pub. L. 111–31, div. A, title I, § 103(c)](https://www.govinfo.gov/link/plaw/111/public/31), June 22, 2009, [123 Stat. 1835](https://www.govinfo.gov/link/statute/123/1835); [Pub. L. 111–353, title II, § 206(c)](https://www.govinfo.gov/link/plaw/111/public/353), Jan. 4, 2011, [124 Stat. 3943](https://www.govinfo.gov/link/statute/124/3943); [Pub. L. 112–144, title VII, § 716](https://www.govinfo.gov/link/plaw/112/public/144), July 9, 2012, [126 Stat. 1075](https://www.govinfo.gov/link/statute/126/1075); [Pub. L. 113–54, title II, § 207(a)](https://www.govinfo.gov/link/plaw/113/public/54), Nov. 27, 2013, [127 Stat. 640](https://www.govinfo.gov/link/statute/127/640); [Pub. L. 115–52, title VI, § 604(b)](https://www.govinfo.gov/link/plaw/115/public/52), Aug. 18, 2017, [131 Stat. 1048](https://www.govinfo.gov/link/statute/131/1048); [Pub. L. 116–94, div. N, title I, § 603(d)(2)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3124](https://www.govinfo.gov/link/statute/133/3124); [Pub. L. 117–328, div. FF, title II, § 2513(b)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5805](https://www.govinfo.gov/link/statute/136/5805); [Pub. L. 119–75, div. J, title VI, § 6602(c)](https://www.govinfo.gov/link/plaw/119/public/75), Feb. 3, 2026, [140 Stat. 698](https://www.govinfo.gov/link/statute/140/698).)*

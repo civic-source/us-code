@@ -3,9 +3,10 @@ title: "Section 350j - Targeting of inspection resources for domestic facilities
 usc_title: 21
 usc_section: "350j"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 350j"
-generated_at: "2026-03-30T02:54:54.228Z"
+generated_at: "2026-11-23T20:26:27.549Z"
+status: "active"
 ---
 
 # § 350j. Targeting of inspection resources for domestic facilities, foreign facilities, and ports of entry; annual report
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:54:54.228Z"
     - **(H)** outreach on Federal efforts to enhance seafood safety and compliance with Federal food safety requirements.
 - **(d)** The Secretary shall improve coordination and cooperation with the Secretary of Agriculture and the Secretary of Homeland Security to target food inspection resources.
 - **(e)** For purposes of this section, the term “facility” means a domestic facility or a foreign facility that is required to register under section 350d of this title .
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 421, as added [Pub. L. 111–353, title II, § 201(a)](https://www.govinfo.gov/link/plaw/111/public/353), Jan. 4, 2011, [124 Stat. 3923](https://www.govinfo.gov/link/statute/124/3923).)*

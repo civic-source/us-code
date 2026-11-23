@@ -3,9 +3,10 @@ title: "Section 7507 - New motor vehicle emission standards in nonattainment are
 usc_title: 42
 usc_section: "7507"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7507"
-generated_at: "2026-03-30T02:56:11.305Z"
+generated_at: "2026-11-23T20:27:22.879Z"
+status: "active"
 ---
 
 # § 7507. New motor vehicle emission standards in nonattainment areas
@@ -14,3 +15,7 @@ Notwithstanding section 7543(a) of this title , any State which has plan provisi
 
   - **(1)** such standards are identical to the California standards for which a waiver has been granted for such model year, and
   - **(2)** California and such State adopt such standards at least two years before commencement of such model year (as determined by regulations of the Administrator).
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 177, as added [Pub. L. 95–95, title I, § 129(b)](https://www.govinfo.gov/link/plaw/95/public/95), Aug. 7, 1977, [91 Stat. 750](https://www.govinfo.gov/link/statute/91/750); amended [Pub. L. 101–549, title II, § 232](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2529](https://www.govinfo.gov/link/statute/104/2529).)*

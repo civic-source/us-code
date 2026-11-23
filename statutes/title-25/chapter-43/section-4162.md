@@ -3,9 +3,10 @@ title: "Section 4162 - Replacement of recipient"
 usc_title: 25
 usc_section: "4162"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 4162"
-generated_at: "2026-03-30T02:54:52.860Z"
+generated_at: "2026-11-23T20:26:25.688Z"
+status: "active"
 ---
 
 # § 4162. Replacement of recipient
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:52.860Z"
   - **(2)** the replacement entity (or the Secretary, as provided in paragraph (1)) shall act as the tribally designated housing entity for the tribe (or tribes) for a period that expires upon—
     - **(A)** a date certain, which shall be specified by the Secretary upon making the determination under subsection (b); or
     - **(B)** the occurrence of specific conditions, which conditions shall be specified in written notice provided by the Secretary to the tribe upon making the determination under subsection (b).
+
+## Source Credit
+
+*([Pub. L. 104–330, title IV, § 402](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4039](https://www.govinfo.gov/link/statute/110/4039).)*

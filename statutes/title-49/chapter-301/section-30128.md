@@ -3,9 +3,10 @@ title: "Section 30128 - Vehicle rollover prevention and crash mitigation"
 usc_title: 49
 usc_section: "30128"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 30128"
-generated_at: "2026-03-30T02:56:19.352Z"
+generated_at: "2026-11-23T20:27:34.904Z"
+status: "active"
 ---
 
 # § 30128. Vehicle rollover prevention and crash mitigation
@@ -19,3 +20,21 @@ generated_at: "2026-03-30T02:56:19.352Z"
 - **(e)** If the Secretary determines that the deadline for a final rule under this section cannot be met, the Secretary shall—
   - **(1)** notify the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Energy and Commerce and explain why that deadline cannot be met; and
   - **(2)** establish a new deadline.
+
+In General
+
+Rollover Prevention
+
+Occupant Ejection Prevention.—
+
+In general
+
+Door locks and door retention
+
+Protection of Occupants
+
+Deadlines
+
+## Source Credit
+
+*(Added [Pub. L. 109–59, title X, § 10301(a)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1939](https://www.govinfo.gov/link/statute/119/1939).)*

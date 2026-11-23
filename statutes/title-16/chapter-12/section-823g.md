@@ -3,9 +3,10 @@ title: "Section 823g - Considerations for relicensing terms"
 usc_title: 16
 usc_section: "823g"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 823g"
-generated_at: "2026-03-30T02:54:22.914Z"
+generated_at: "2026-11-23T20:26:20.287Z"
+status: "active"
 ---
 
 # § 823g. Considerations for relicensing terms
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:22.914Z"
     - **(A)** resulted in redevelopment, new construction, new capacity, efficiency, modernization, rehabilitation or replacement of major equipment, safety improvements, or environmental, recreation, or other protection, mitigation, or enhancement measures conducted over the term of the existing license; and
     - **(B)** were not expressly considered by the Commission as contributing to the length of the existing license term in any order establishing or extending the existing license term.
 - **(c)** At the request of the licensee, the Commission shall make a determination as to whether any planned, ongoing, or completed investment meets the criteria under subsection (b)(2). Any determination under this subsection shall be issued within 60 days following receipt of the licensee’s request. When issuing its determination under this subsection, the Commission shall not assess the incremental number of years that the investment may add to the new license term. All such assessment shall occur only as provided in subsection (a).
+
+## Source Credit
+
+*(June 10, 1920, ch. 285, pt. I, § 36, as added [Pub. L. 115–270, title III, § 3005](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3867](https://www.govinfo.gov/link/statute/132/3867).)*

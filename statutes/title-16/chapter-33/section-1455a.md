@@ -3,9 +3,10 @@ title: "Section 1455a - Coastal resource improvement program"
 usc_title: 16
 usc_section: "1455a"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1455a"
-generated_at: "2026-03-30T02:54:22.970Z"
+generated_at: "2026-11-23T20:26:20.495Z"
+status: "active"
 ---
 
 # § 1455a. Coastal resource improvement program
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:54:22.970Z"
   - **(3)** The total amount of grants made under this section to any eligible coastal state for any fiscal year may not exceed an amount equal to 10 per centum of the total amount appropriated to carry out this section for such fiscal year.
 - **(e)** With the approval of the Secretary, an eligible coastal state may allocate to a local government, an areawide agency designated under section 3334 of title 42 , a regional agency, or an interstate agency, a portion of any grant made under this section for the purpose of carrying out this section; except that such an allocation shall not relieve that state of the responsibility for ensuring that any funds so allocated are applied in furtherance of the state’s approved management program.
 - **(f)** In addition to providing grants under this section, the Secretary shall assist eligible coastal states and their local governments in identifying and obtaining other sources of available Federal technical and financial assistance regarding the objectives of this section.
+
+## Source Credit
+
+*([Pub. L. 89–454, title II, § 306A](https://www.govinfo.gov/link/plaw/89/public/454), as added [Pub. L. 96–464, § 6](https://www.govinfo.gov/link/plaw/96/public/464), Oct. 17, 1980, [94 Stat. 2062](https://www.govinfo.gov/link/statute/94/2062); amended [Pub. L. 99–272, title VI, § 6043(b)(2)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 124](https://www.govinfo.gov/link/statute/100/124); [Pub. L. 101–508, title VI](https://www.govinfo.gov/link/plaw/101/public/508), §§ 6207, 6216(a), Nov. 5, 1990, [104 Stat. 1388–307](https://www.govinfo.gov/link/statute/104/1388), 1388–314; [Pub. L. 102–587, title II, § 2205(b)(9)](https://www.govinfo.gov/link/plaw/102/public/587) –(12), Nov. 4, 1992, [106 Stat. 5051](https://www.govinfo.gov/link/statute/106/5051); [Pub. L. 104–150, § 7(1)](https://www.govinfo.gov/link/plaw/104/public/150), June 3, 1996, [110 Stat. 1381](https://www.govinfo.gov/link/statute/110/1381).)*

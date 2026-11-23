@@ -3,9 +3,10 @@ title: "Section 5107 - Bureau of Consumer Financial Protection backup authority 
 usc_title: 12
 usc_section: "5107"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5107"
-generated_at: "2026-03-30T02:53:53.523Z"
+generated_at: "2026-11-23T20:25:59.445Z"
+status: "active"
 ---
 
 # § 5107. Bureau of Consumer Financial Protection backup authority to establish loan originator licensing system
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:53.523Z"
 - **(f)**
   - **(1)** The Bureau is authorized to promulgate regulations setting minimum net worth or surety bond requirements for residential mortgage loan originators and minimum requirements for recovery funds paid into by loan originators.
   - **(2)** In issuing regulations under paragraph (1), the Bureau shall take into account the need to provide originators adequate incentives to originate affordable and sustainable mortgage loans, as well as the need to ensure a competitive origination market that maximizes consumer access to affordable and sustainable mortgage loans.
+
+## Source Credit
+
+*([Pub. L. 110–289, div. A, title V, § 1508](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2818](https://www.govinfo.gov/link/statute/122/2818); [Pub. L. 111–203, title X, § 1100(3)](https://www.govinfo.gov/link/plaw/111/public/203), (6), July 21, 2010, [124 Stat. 2106](https://www.govinfo.gov/link/statute/124/2106).)*

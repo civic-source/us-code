@@ -3,9 +3,10 @@ title: "Section 707 - Payment upon disapproval of certain court-martial sentence
 usc_title: 10
 usc_section: "707"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 707"
-generated_at: "2026-03-30T02:53:38.074Z"
+generated_at: "2026-11-23T20:25:51.046Z"
+status: "active"
 ---
 
 # § 707. Payment upon disapproval of certain court-martial sentences for excess leave required to be taken
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:38.074Z"
     - **(D)** If a rehearing or new trial has been ordered and a dismissal or a dishonorable or bad-conduct discharge is included in the result of such rehearing or new trial, but such dismissal or discharge is not later executed, payment shall be made within 60 days of the date of the order which set aside, disapproved, or otherwise vacated such dismissal or discharge.
   - **(3)** If a member is entitled to be paid under this section but fails to provide sufficient information in a timely manner regarding his income when such information is requested under regulations prescribed under subsection (c), the periods of time prescribed in paragraph (2) shall be extended until 30 days after the date on which the member provides the information requested.
 - **(c)** This section shall be administered under uniform regulations prescribed by the Secretaries concerned. Such regulations may provide for the method of determining a member’s income during any period the member is deemed to have accrued pay and allowances, including a requirement that the member provide income tax returns and other documentation to verify the amount of his income.
+
+## Source Credit
+
+*(Added [Pub. L. 97–81, § 2(b)(1)](https://www.govinfo.gov/link/plaw/97/public/81), Nov. 20, 1981, [95 Stat. 1086](https://www.govinfo.gov/link/statute/95/1086); amended [Pub. L. 103–337, div. A, title IX, § 924(c)(1)](https://www.govinfo.gov/link/plaw/103/public/337), (2), Oct. 5, 1994, [108 Stat. 2831](https://www.govinfo.gov/link/statute/108/2831).)*

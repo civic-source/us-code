@@ -3,9 +3,10 @@ title: "Section 1829a - Participation by State nonmember insured banks in lotter
 usc_title: 12
 usc_section: "1829a"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1829a"
-generated_at: "2026-03-30T02:53:53.456Z"
+generated_at: "2026-11-23T20:25:59.158Z"
+status: "active"
 ---
 
 # § 1829a. Participation by State nonmember insured banks in lotteries and related activities
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:53.456Z"
   - **(4)** The term “savings promotion raffle” means a contest in which the sole consideration required for a chance of winning designated prizes is obtained by the deposit of a specified amount of money in a savings account or other savings program, where each ticket or entry has an equal chance of being drawn, such contest being subject to regulations that may from time to time be promulgated by the appropriate prudential regulator (as defined in section 5481 of this title ).
 - **(d)** Nothing contained in this section prohibits a State nonmember insured bank from accepting deposits or cashing or otherwise handling checks or other negotiable instruments, or performing other lawful banking services for a State operating a lottery, or for an officer or employee of that State who is charged with the administration of the lottery.
 - **(e)** The Board of Directors shall prescribe such regulations as may be necessary to the strict enforcement of this section and the prevention of evasions thereof.
+
+## Source Credit
+
+*(Sept. 21, 1950, ch. 967, § 2 [20], as added [Pub. L. 90–203, § 3](https://www.govinfo.gov/link/plaw/90/public/203), Dec. 15, 1967, [81 Stat. 610](https://www.govinfo.gov/link/statute/81/610); amended [Pub. L. 103–325, title VI, § 602(a)(51)](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2290](https://www.govinfo.gov/link/statute/108/2290); [Pub. L. 113–251, § 3(c)](https://www.govinfo.gov/link/plaw/113/public/251), Dec. 18, 2014, [128 Stat. 2889](https://www.govinfo.gov/link/statute/128/2889).)*

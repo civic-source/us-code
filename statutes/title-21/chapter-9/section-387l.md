@@ -3,9 +3,10 @@ title: "Section 387l - Judicial review"
 usc_title: 21
 usc_section: "387l"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 387l"
-generated_at: "2026-03-30T02:54:54.281Z"
+generated_at: "2026-11-23T20:26:27.777Z"
+status: "active"
 ---
 
 # § 387l. Judicial review
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:54.281Z"
 - **(c)** The judgment of the court affirming or setting aside, in whole or in part, any regulation or order shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification, as provided in section 1254 of title 28 .
 - **(d)** The remedies provided for in this section shall be in addition to, and not in lieu of, any other remedies provided by law.
 - **(e)** To facilitate judicial review, a regulation or order issued under section 387f, 387g, 387h, 387i, 387j, or 387p of this title shall contain a statement of the reasons for the issuance of such regulation or order in the record of the proceedings held in connection with its issuance.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 912, as added [Pub. L. 111–31, div. A, title I, § 101(b)(3)](https://www.govinfo.gov/link/plaw/111/public/31), June 22, 2009, [123 Stat. 1819](https://www.govinfo.gov/link/statute/123/1819).)*

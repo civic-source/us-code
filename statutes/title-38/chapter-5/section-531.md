@@ -3,9 +3,10 @@ title: "Section 531 - Requirements relating to naming of Department property"
 usc_title: 38
 usc_section: "531"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 531"
-generated_at: "2026-03-30T02:55:53.472Z"
+generated_at: "2026-11-23T20:27:01.570Z"
+status: "active"
 ---
 
 # § 531. Requirements relating to naming of Department property
@@ -20,3 +21,17 @@ generated_at: "2026-03-30T02:55:53.472Z"
     - **(E)** such transfer occurs not less than 30 days after the Secretary notifies the Committee on Veterans’ Affairs of the Senate, the Committee on Veterans’ Affairs of the House of Representatives, and each member of Congress representing the State in which the original covered property and other covered property are located of the intent of the Secretary to transfer the name of the original covered property to the other covered property.
   - **(2)** If the Secretary transfers the name of covered property under paragraph (1), any reference in a law, regulation, map, document, paper, or other record of the United States to the covered property originally named by law shall be deemed to be a reference to the covered property to which the name has been transferred under such paragraph.
   - **(3)** In this subsection, the term “covered property” means a facility, structure, or real property of the Department or a major portion (such as a wing or floor) of any such facility, structure, or real property.
+
+Naming Limitation
+
+Transfer of Names.—
+
+In general
+
+References
+
+Covered property
+
+## Source Credit
+
+*(Added [Pub. L. 105–368, title X, § 1001(a)(1)](https://www.govinfo.gov/link/plaw/105/public/368), Nov. 11, 1998, [112 Stat. 3363](https://www.govinfo.gov/link/statute/112/3363); amended [Pub. L. 117–137, § 1(a)](https://www.govinfo.gov/link/plaw/117/public/137), June 7, 2022, [136 Stat. 1254](https://www.govinfo.gov/link/statute/136/1254).)*

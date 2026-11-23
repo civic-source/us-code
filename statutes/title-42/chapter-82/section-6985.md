@@ -3,9 +3,10 @@ title: "Section 6985 - Special study and demonstration projects on recovery of u
 usc_title: 42
 usc_section: "6985"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6985"
-generated_at: "2026-03-30T02:56:11.279Z"
+generated_at: "2026-11-23T20:27:22.762Z"
+status: "active"
 ---
 
 # § 6985. Special study and demonstration projects on recovery of useful energy and materials
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.279Z"
   - **(10)** in consultation with the Secretary of the Interior, mining waste management problems, and practices, including an assessment of existing authorities, technologies, and economics, and the environmental and public health consequences of such practices.
 - **(b)** The Administrator is also authorized to carry out demonstration projects to test and demonstrate methods and techniques developed pursuant to subsection (a).
 - **(c)** Section 6981(b) and (c) of this title shall be applicable to investigations, studies, and projects carried out under this section.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 8005](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 94–580, § 2](https://www.govinfo.gov/link/plaw/94/public/580), Oct. 21, 1976, [90 Stat. 2837](https://www.govinfo.gov/link/statute/90/2837).)*

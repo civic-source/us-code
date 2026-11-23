@@ -3,9 +3,10 @@ title: "Section 1732 - Contracts and grants to provide for the care and treatmen
 usc_title: 38
 usc_section: "1732"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 1732"
-generated_at: "2026-03-30T02:55:53.487Z"
+generated_at: "2026-11-23T20:27:01.717Z"
+status: "active"
 ---
 
 # § 1732. Contracts and grants to provide for the care and treatment of United States veterans by the Veterans Memorial Medical Center
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:53.487Z"
 - **(d)**
   - **(1)** The authority of the Secretary to enter into contracts and to make grants under this section is effective for any fiscal year only to the extent that appropriations are available for that purpose.
   - **(2)** Appropriations made for the purpose of this section shall remain available until expended.
+
+## Source Credit
+
+*(Added [Pub. L. 93–82, title I, § 107(a)](https://www.govinfo.gov/link/plaw/93/public/82), Aug. 2, 1973, [87 Stat. 184](https://www.govinfo.gov/link/statute/87/184), § 632; amended [Pub. L. 94–581, title II, § 210(a)(14)](https://www.govinfo.gov/link/plaw/94/public/581), Oct. 21, 1976, [90 Stat. 2863](https://www.govinfo.gov/link/statute/90/2863); [Pub. L. 95–520, § 3(b)](https://www.govinfo.gov/link/plaw/95/public/520), Oct. 26, 1978, [92 Stat. 1820](https://www.govinfo.gov/link/statute/92/1820); [Pub. L. 97–72, title I, § 107(c)(1)](https://www.govinfo.gov/link/plaw/97/public/72), Nov. 3, 1981, [95 Stat. 1052](https://www.govinfo.gov/link/statute/95/1052); [Pub. L. 99–576, title II, § 206(a)(1)](https://www.govinfo.gov/link/plaw/99/public/576), Oct. 28, 1986, [100 Stat. 3256](https://www.govinfo.gov/link/statute/100/3256); [Pub. L. 100–687, div. B, title XV, § 1502(a)](https://www.govinfo.gov/link/plaw/100/public/687), (b), Nov. 18, 1988, [102 Stat. 4132](https://www.govinfo.gov/link/statute/102/4132); [Pub. L. 102–40, title IV, § 402(d)(1)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 239](https://www.govinfo.gov/link/statute/105/239); renumbered § 1732 and amended [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406](https://www.govinfo.gov/link/statute/105/404); [Pub. L. 102–86, title III, § 304(a)](https://www.govinfo.gov/link/plaw/102/public/86), Aug. 14, 1991, [105 Stat. 416](https://www.govinfo.gov/link/statute/105/416); [Pub. L. 102–585, title V, § 503](https://www.govinfo.gov/link/plaw/102/public/585), Nov. 4, 1992, [106 Stat. 4955](https://www.govinfo.gov/link/statute/106/4955).)*

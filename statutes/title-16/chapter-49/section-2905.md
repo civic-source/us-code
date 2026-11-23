@@ -3,9 +3,10 @@ title: "Section 2905 - Reimbursement of State costs for developing, revising, an
 usc_title: 16
 usc_section: "2905"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 2905"
-generated_at: "2026-03-30T02:54:23.007Z"
+generated_at: "2026-11-23T20:26:20.623Z"
+status: "active"
 ---
 
 # § 2905. Reimbursement of State costs for developing, revising, and implementing conservation plans and implementing certain nongame fish and wildlife conservation actions
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:54:23.007Z"
       - **(ii)** not include any other Federal moneys received by such State and applied by it, directly or indirectly, for such purposes.
     - **(B)** For purposes of subparagraph (A), inkind contributions may be in the form of, but are not limited to, personal services rendered by volunteers in carrying out surveys, censuses, and other scientific studies regarding fish and wildlife. The Secretary shall by regulation establish (i) the training, experience, and other qualifications which such volunteers must have in order for their services to be considered as inkind contributions; and (ii) the standards under which the Secretary will determine the value of inkind contributions and real and personal property for purposes of subparagraph (A).
     - **(C)** Any valuation determination made by the Secretary for purposes of this paragraph shall be final and conclusive.
+
+## Source Credit
+
+*([Pub. L. 96–366, § 6](https://www.govinfo.gov/link/plaw/96/public/366), Sept. 29, 1980, [94 Stat. 1325](https://www.govinfo.gov/link/statute/94/1325).)*

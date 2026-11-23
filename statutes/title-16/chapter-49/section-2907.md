@@ -3,9 +3,10 @@ title: "Section 2907 - Allocation of funds for administration and reimbursement 
 usc_title: 16
 usc_section: "2907"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 2907"
-generated_at: "2026-03-30T02:54:23.007Z"
+generated_at: "2026-11-23T20:26:20.624Z"
+status: "active"
 ---
 
 # § 2907. Allocation of funds for administration and reimbursement of States
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:23.007Z"
 - **(c)**
   - **(1)** That portion of any amount deducted by the Secretary under subsection (b)(1) for administrative purposes for any fiscal year and not expended during such fiscal year shall remain available for administrative purposes until the close of the next succeeding fiscal year and if not obligated or expended by the close of such succeeding fiscal year shall be available for disbursement by the Secretary without regard to subsection (b), to the States to carry out the purposes of this chapter.
   - **(2)** That portion of any amount allocated to any State under subsection (b)(2) or (3) for any fiscal year and not disbursed to the State for such fiscal years under section 2905 of this title shall remain available for disbursement to the State under such section for the next succeeding fiscal year and if not disbursed for such succeeding fiscal year shall be available for disbursement by the Secretary, without regard to subsection (b), to the States to carry out the purposes of this chapter.
+
+## Source Credit
+
+*([Pub. L. 96–366, § 8](https://www.govinfo.gov/link/plaw/96/public/366), Sept. 29, 1980, [94 Stat. 1328](https://www.govinfo.gov/link/statute/94/1328).)*

@@ -3,9 +3,10 @@ title: "Section 12653a - Presidential awards for service"
 usc_title: 42
 usc_section: "12653a"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12653a"
-generated_at: "2026-03-30T02:56:11.425Z"
+generated_at: "2026-11-23T20:27:23.412Z"
+status: "active"
 ---
 
 # § 12653a. Presidential awards for service
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.425Z"
     - **(A)** is authorized to incur necessary expenses for the honorary recognition of the individual or program; and
     - **(B)** is not authorized to make a cash award to such individual or program.
 - **(b)** The President, acting through the Corporation, shall ensure that information concerning individuals and programs receiving awards under this section is widely disseminated.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 198A](https://www.govinfo.gov/link/plaw/101/public/610), formerly § 198B, as added [Pub. L. 103–82, title I, § 104(c)](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 843](https://www.govinfo.gov/link/statute/107/843); renumbered § 198A and amended [Pub. L. 111–13, title I](https://www.govinfo.gov/link/plaw/111/public/13), §§ 1803(b), 1804, Apr. 21, 2009, [123 Stat. 1554](https://www.govinfo.gov/link/statute/123/1554).)*

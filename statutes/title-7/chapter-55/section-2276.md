@@ -3,9 +3,10 @@ title: "Section 2276 - Confidentiality of information"
 usc_title: 7
 usc_section: "2276"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2276"
-generated_at: "2026-03-30T02:53:42.383Z"
+generated_at: "2026-11-23T20:25:41.512Z"
+status: "active"
 ---
 
 # § 2276. Confidentiality of information
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:53:42.383Z"
   - **(12)** section 302 of the Rural Development Act of 1972 ( 7 U.S.C. 1010a ) regarding the authority to collect data for the National Resources Inventory; or
   - **(13)** section 10109 of the Agriculture Improvement Act of 2018.
 - **(e)** This section shall not prohibit the release of information under section 2204g(f)(2) of this title .
+
+## Source Credit
+
+*([Pub. L. 99–198, title XVII, § 1770](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1657](https://www.govinfo.gov/link/statute/99/1657); [Pub. L. 105–113, § 4(a)(2)](https://www.govinfo.gov/link/plaw/105/public/113), (b), Nov. 21, 1997, [111 Stat. 2276](https://www.govinfo.gov/link/statute/111/2276); [Pub. L. 106–113, div. B, § 1000(a)(3) [title III, § 348]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1535](https://www.govinfo.gov/link/statute/113/1535), 1501A–207; [Pub. L. 107–171, title II, § 2004(b)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 236](https://www.govinfo.gov/link/statute/116/236); [Pub. L. 115–334, title X, § 10109(d)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4907](https://www.govinfo.gov/link/statute/132/4907).)*

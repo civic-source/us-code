@@ -3,9 +3,10 @@ title: "Section 3423 - United States contributions to costs"
 usc_title: 22
 usc_section: "3423"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3423"
-generated_at: "2026-03-30T02:55:05.394Z"
+generated_at: "2026-11-23T20:26:32.461Z"
+status: "active"
 ---
 
 # § 3423. United States contributions to costs
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.394Z"
   - **(1)** There are authorized to be appropriated to the President to carry out chapter 6 of part II of the Foreign Assistance Act of 1961 [ 22 U.S.C. 2348 et seq.], in addition to amounts otherwise available to carry out that chapter, $125,000,000 for the fiscal year 1982 for use in paying the United States contribution to the budget of the Multinational Force and Observers. Amounts appropriated under this subsection are authorized to remain available until expended.
   - **(2)** Expenditures made pursuant to section 138 of the joint resolution entitled “Joint resolution making continuing appropriations for the fiscal year 1982, and for other purposes”, approved October 1, 1981 ( Public Law 97–51 ), or pursuant to any subsequent corresponding provision applicable to the fiscal year 1982, shall be charged to the appropriation authorized by this subsection.
 - **(c)** Unless required by law, reimbursements to the United States by the Multinational Force and Observers shall be on the basis of identifiable costs actually incurred as a result of requirements imposed by the Multinational Force and Observers, and shall not include administrative surcharges.
+
+## Source Credit
+
+*([Pub. L. 97–132, § 4](https://www.govinfo.gov/link/plaw/97/public/132), Dec. 29, 1981, [95 Stat. 1694](https://www.govinfo.gov/link/statute/95/1694).)*

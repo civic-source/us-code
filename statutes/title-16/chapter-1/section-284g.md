@@ -3,12 +3,17 @@ title: "Section 284g - Cooperation of government agencies"
 usc_title: 16
 usc_section: "284g"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 284g"
-generated_at: "2026-03-30T02:54:22.748Z"
+generated_at: "2026-11-23T20:26:19.404Z"
+status: "active"
 ---
 
 # § 284g. Cooperation of government agencies
 
 - **(a)** The Secretary shall cooperate with, and seek cooperation from, other Federal, State, and local agencies (including the Federal Aviation Administration) to protect the park from undue noise intrusions, air pollution, and visual degradation.
 - **(b)** The Secretary shall monitor noise pollution which is associated with the Dulles road corridor (including the airport access and toll roads) and shall notify the Federal Aviation Administration, the Commonwealth of Virginia, and the appropriate committees of Congress if, after conferring with the Administrator of the Federal Aviation Administration, the Secretary finds that such noise pollution is exceeding the standards set forth in section 284c(e) of this title . Within sixty days after any such notification, the Administrator of the Federal Aviation Administration shall take steps to reduce noise pollution so as to conform to such standards. The Secretary or the Foundation may bring an action in the United States District Court for the District of Columbia to enjoin any violation by the Commonwealth of Virginia of the easement referred to in section 284c(e) of this title .
+
+## Source Credit
+
+*([Pub. L. 89–671, § 8](https://www.govinfo.gov/link/plaw/89/public/671), as added [Pub. L. 97–310](https://www.govinfo.gov/link/plaw/97/public/310), Oct. 14, 1982, [96 Stat. 1457](https://www.govinfo.gov/link/statute/96/1457).)*

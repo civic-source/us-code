@@ -3,9 +3,10 @@ title: "Section 3905 - Cost contracts"
 usc_title: 41
 usc_section: "3905"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 3905"
-generated_at: "2026-03-30T02:55:55.807Z"
+generated_at: "2026-11-23T20:27:04.446Z"
+status: "active"
 ---
 
 # § 3905. Cost contracts
@@ -17,3 +18,53 @@ generated_at: "2026-03-30T02:55:55.807Z"
   - **(3)** The fee in a cost-plus-a-fixed-fee contract for architectural or engineering services relating to any public works or utility project may include the contractor’s costs and shall not exceed 6 percent of the estimated cost, not including the fee, as determined by the agency head at the time of entering into the contract, of the project to which the fee applies.
 - **(c)** All cost and cost-plus-a-fixed-fee contracts shall provide for advance notification by the contractor to the procuring agency of any subcontract on a cost-plus-a-fixed-fee basis and of any fixed-price subcontract or purchase order which exceeds in dollar amount either the simplified acquisition threshold or 5 percent of the total estimated cost of the prime contract.
 - **(d)** A procuring agency, through any authorized representative thereof, has the right to inspect the plans and to audit the books and records of a prime contractor or subcontractor engaged in the performance of a cost or cost-plus-a-fixed-fee contract.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3905(a) | 41:254(b) (1st sentence words before 1st comma). | June 30, 1949, ch. 288 , title III, § 304(b), 63 Stat. 395 ; July 12, 1952, ch. 703, § 1(m) , 66 Stat. 594 ; Pub. L. 103–355, title I, § 1071 , title IV, § 4402(c), title X, § 10005(e), Oct. 13, 1994 , 108 Stat. 3270 , 3349, 3408. |
+| 3905(b) | 41:254(b) (1st sentence words after 1st comma). |  |
+| 3905(c) | 41:254(b) (last sentence words before semicolon). |  |
+| 3905(d) | 41:254(b) (last sentence words after semicolon). |  |
+
+
+Cost-Plus-A-Percentage-Of-Cost Contracts Disallowed
+
+Cost-Plus-A-Fixed-Fee Contracts.—
+
+In general
+
+Experimental, developmental, or research work
+
+Architectural or engineering services
+
+Notification
+
+Right To Audit
+
+Historical and Revision Notes
+
+3905(a)
+
+June 30, 1949, ch. 288
+
+63 Stat. 395
+
+July 12, 1952, ch. 703, § 1(m)
+
+66 Stat. 594
+
+Pub. L. 103–355, title I, § 1071
+
+Oct. 13, 1994
+
+108 Stat. 3270
+
+3905(b)
+
+3905(c)
+
+3905(d)
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3776](https://www.govinfo.gov/link/statute/124/3776).)*

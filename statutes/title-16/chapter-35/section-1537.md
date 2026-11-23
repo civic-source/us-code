@@ -3,9 +3,10 @@ title: "Section 1537 - International cooperation"
 usc_title: 16
 usc_section: "1537"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1537"
-generated_at: "2026-03-30T02:54:22.975Z"
+generated_at: "2026-11-23T20:26:20.523Z"
+status: "active"
 ---
 
 # § 1537. International cooperation
@@ -19,3 +20,13 @@ generated_at: "2026-03-30T02:54:22.975Z"
   - **(1)** assign or otherwise make available any officer or employee of his department for the purpose of cooperating with foreign countries and international organizations in developing personnel resources and programs which promote the conservation of fish or wildlife or plants; and
   - **(2)** conduct or provide financial assistance for the educational training of foreign personnel, in this country or abroad, in fish, wildlife, or plant management, research and law enforcement and to render professional assistance abroad in such matters.
 - **(d)** After consultation with the Secretary of State and the Secretary of the Treasury, as appropriate, the Secretary may conduct or cause to be conducted such law enforcement investigations and research abroad as he deems necessary to carry out the purposes of this chapter.
+
+In General
+
+Certification Procedure
+
+George Bush.
+
+## Source Credit
+
+*([Pub. L. 93–205, § 8](https://www.govinfo.gov/link/plaw/93/public/205), Dec. 28, 1973, [87 Stat. 892](https://www.govinfo.gov/link/statute/87/892); [Pub. L. 96–159, § 5](https://www.govinfo.gov/link/plaw/96/public/159), Dec. 28, 1979, [93 Stat. 1228](https://www.govinfo.gov/link/statute/93/1228); [Pub. L. 110–246, title III, § 3001(b)(1)(A)](https://www.govinfo.gov/link/plaw/110/public/246), (2)(N), June 18, 2008, [122 Stat. 1820](https://www.govinfo.gov/link/statute/122/1820).)*

@@ -3,9 +3,10 @@ title: "Section 18831 - Grants for energy efficiency improvements and renewable 
 usc_title: 42
 usc_section: "18831"
 chapter: 162
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18831"
-generated_at: "2026-03-30T02:56:11.531Z"
+generated_at: "2026-11-23T20:27:23.834Z"
+status: "active"
 ---
 
 # § 18831. Grants for energy efficiency improvements and renewable energy improvements at public school facilities
@@ -81,3 +82,7 @@ generated_at: "2026-03-30T02:56:11.531Z"
     - **(A)** the Energy Star program established under section 6294a of this title ; or
     - **(B)** the United States Green Building Council Leadership in Energy and Environmental Design (LEED) green building rating system for existing buildings.
 - **(j)** There is authorized to be appropriated to the Secretary to carry out this section $500,000,000 for the period of fiscal years 2022 through 2026.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title V, § 40541](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1071](https://www.govinfo.gov/link/statute/135/1071).)*

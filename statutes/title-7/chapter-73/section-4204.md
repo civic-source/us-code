@@ -3,12 +3,17 @@ title: "Section 4204 - Technical assistance"
 usc_title: 7
 usc_section: "4204"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 4204"
-generated_at: "2026-03-30T02:53:42.405Z"
+generated_at: "2026-11-23T20:25:41.614Z"
+status: "active"
 ---
 
 # § 4204. Technical assistance
 
 The Secretary is encouraged to provide technical assistance to any State or unit of local government, or any nonprofit organization, as determined by the Secretary, that desires to develop programs or policies to limit the conversion of productive farmland to nonagricultural uses.
 
+
+## Source Credit
+
+*([Pub. L. 97–98, title XV, § 1543](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1343](https://www.govinfo.gov/link/statute/95/1343).)*

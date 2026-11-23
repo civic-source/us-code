@@ -3,9 +3,10 @@ title: "Section 5754 - Restriction on importation of previously exported tobacco
 usc_title: 26
 usc_section: "5754"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 5754"
-generated_at: "2026-03-30T02:55:27.826Z"
+generated_at: "2026-11-23T20:26:46.465Z"
+status: "active"
 ---
 
 # § 5754. Restriction on importation of previously exported tobacco products
@@ -23,3 +24,11 @@ generated_at: "2026-03-30T02:55:27.826Z"
   - **(2)** For civil penalties related to violations of this section, see section 5761(c).
   - **(3)** For a criminal penalty applicable to any violation of this section, see section 5762(b).
   - **(4)** For forfeiture provisions related to violations of this section, see section 5761(c).
+
+In General
+
+Cross Reference.—
+
+## Source Credit
+
+*(Added [Pub. L. 105–33, title IX, § 9302(h)(1)(E)(i)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 673](https://www.govinfo.gov/link/statute/111/673); amended [Pub. L. 106–476, title IV, § 4002(a)](https://www.govinfo.gov/link/plaw/106/public/476), Nov. 9, 2000, [114 Stat. 2176](https://www.govinfo.gov/link/statute/114/2176); [Pub. L. 109–432, div. C, title IV, § 401(f)(2)(B)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 3050](https://www.govinfo.gov/link/statute/120/3050).)*

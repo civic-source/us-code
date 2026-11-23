@@ -3,12 +3,17 @@ title: "Section 1074 - Flight to avoid prosecution for damaging or destroying an
 usc_title: 18
 usc_section: "1074"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 1074"
-generated_at: "2026-03-30T02:54:16.481Z"
+generated_at: "2026-11-23T20:26:08.462Z"
+status: "active"
 ---
 
 # § 1074. Flight to avoid prosecution for damaging or destroying any building or other real or personal property
 
 - **(a)** Whoever moves or travels in interstate or foreign commerce with intent either (1) to avoid prosecution, or custody, or confinement after conviction, under the laws of the place from which he flees, for willfully attempting to or damaging or destroying by fire or explosive any building, structure, facility, vehicle, dwelling house, synagogue, church, religious center or educational institution, public or private, or (2) to avoid giving testimony in any criminal proceeding relating to any such offense shall be fined under this title or imprisoned not more than five years, or both.
 - **(b)** Violations of this section may be prosecuted in the Federal judicial district in which the original crime was alleged to have been committed or in which the person was held in custody or confinement: Provided, however , That this section shall not be construed as indicating an intent on the part of Congress to prevent any State, Territory, Commonwealth, or possession of the United States of any jurisdiction over any offense over which they would have jurisdiction in the absence of such section.
+
+## Source Credit
+
+*(Added [Pub. L. 86–449, title II, § 201](https://www.govinfo.gov/link/plaw/86/public/449), May 6, 1960, [74 Stat. 86](https://www.govinfo.gov/link/statute/74/86); amended [Pub. L. 103–322, title XXXIII, § 330016(1)(K)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2147](https://www.govinfo.gov/link/statute/108/2147).)*

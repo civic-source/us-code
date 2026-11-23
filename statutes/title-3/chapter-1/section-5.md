@@ -3,9 +3,10 @@ title: "Section 5 - Certificate of ascertainment of appointment of electors"
 usc_title: 3
 usc_section: "5"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "3 U.S.C. § 5"
-generated_at: "2026-03-30T02:52:49.877Z"
+generated_at: "2026-11-23T20:25:27.386Z"
+status: "active"
 ---
 
 # § 5. Certificate of ascertainment of appointment of electors
@@ -35,3 +36,39 @@ generated_at: "2026-03-30T02:52:49.877Z"
   - **(2)** This subsection—
     - **(A)** shall be construed solely to establish venue and expedited procedures in any action brought by an aggrieved candidate for President or Vice President as specified in this subsection that arises under the Constitution or laws of the United States; and
     - **(B)** shall not be construed to preempt or displace any existing State or Federal cause of action.
+
+In General.—
+
+Certification
+
+Form of certificate
+
+Transmission
+
+Treatment of Certificate as Conclusive
+
+In general.—
+
+Certificate issued by executive
+
+Certificates issued pursuant to court orders
+
+Determination of federal questions
+
+Venue and Expedited Procedure.—
+
+In general
+
+Venue
+
+-judge panel
+
+Expedited procedure
+
+Appeals
+
+Rule of construction
+
+## Source Credit
+
+*(June 25, 1948, ch. 644, [62 Stat. 673](https://www.govinfo.gov/link/statute/62/673); [Pub. L. 117–328, div. P, title I, § 104(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5234](https://www.govinfo.gov/link/statute/136/5234).)*

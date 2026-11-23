@@ -3,9 +3,10 @@ title: "Section 3108 - Secretarial recognition of tribal laws"
 usc_title: 25
 usc_section: "3108"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3108"
-generated_at: "2026-03-30T02:54:52.848Z"
+generated_at: "2026-11-23T20:26:25.635Z"
+status: "active"
 ---
 
 # § 3108. Secretarial recognition of tribal laws
@@ -15,3 +16,7 @@ Subject to the Secretary’s responsibilities as reflected in sections 3101(2) a
   - **(1)** assistance in the enforcement of such laws;
   - **(2)** provision of notice of such laws to persons or entities undertaking activities on Indian forest lands; and
   - **(3)** upon the request of an Indian tribe, the appearance in tribal forums.
+
+## Source Credit
+
+*([Pub. L. 101–630, title III, § 309](https://www.govinfo.gov/link/plaw/101/public/630), Nov. 28, 1990, [104 Stat. 4538](https://www.govinfo.gov/link/statute/104/4538).)*

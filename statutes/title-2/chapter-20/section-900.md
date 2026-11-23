@@ -3,9 +3,10 @@ title: "Section 900 - Statement of budget enforcement through sequestration; def
 usc_title: 2
 usc_section: "900"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 900"
-generated_at: "2026-03-30T02:53:04.804Z"
+generated_at: "2026-11-23T20:25:28.923Z"
+status: "active"
 ---
 
 # § 900. Statement of budget enforcement through sequestration; definitions
@@ -49,3 +50,159 @@ generated_at: "2026-03-30T02:53:04.804Z"
     - **(B)** urgent, which means a pressing and compelling need requiring immediate action;
     - **(C)** unforeseen, which means not predicted or anticipated as an emerging need; and
     - **(D)** temporary, which means not of a permanent duration.
+
+Definitions
+
+Joint committee
+
+Joint committee bill
+
+Establishment of Joint Select Committee.—
+
+Establishment
+
+Goal
+
+Duties.—
+
+In general.—
+
+Improving the short-term and long-term fiscal imbalance
+
+Recommendations of committees
+
+Report, recommendations, and legislative language.—
+
+In general
+
+Approval of report and legislative language
+
+Additional views
+
+Transmission of report and legislative language
+
+Report and legislative language to be made public
+
+Membership.—
+
+In general
+
+Appointment
+
+Co-chairs.—
+
+In general
+
+Staff director
+
+Date
+
+Period of appointment
+
+Administration.—
+
+In general
+
+Expenses
+
+Quorum
+
+Voting.—
+
+Proxy voting
+
+Congressional budget office estimates
+
+Meetings.—
+
+Initial meeting
+
+Agenda
+
+Hearings.—
+
+In general
+
+Hearing procedures and responsibilities of co-chairs.—
+
+Announcement
+
+Written statement
+
+Technical assistance
+
+Staff of Joint Committee.—
+
+In general
+
+Ethical standards
+
+Termination
+
+Introduction
+
+Consideration in the House of Representatives.—
+
+Referral and reporting
+
+Proceeding to consideration
+
+Consideration
+
+Vote on passage
+
+Expedited Procedure in the Senate.—
+
+Committee consideration
+
+Motion to proceed
+
+Consideration
+
+No amendments
+
+Vote on passage
+
+Rulings of the chair on procedure
+
+Amendment
+
+Consideration by the Other House.—
+
+In general
+
+Revenue measure
+
+Rules to Coordinate Action With Other House.—
+
+Treatment of joint committee bill of other house
+
+Treatment of companion measures in the senate
+
+Vetoes
+
+Loss of Privilege
+
+“The Congress enacts the provisions of this part [probably should be “this title”, amending sections 665, 901, 902, and 904 of this title, enacting provisions set out as notes under this section and section 902 of this title , and amending provisions set out as notes under section 665 of this title ]—
+
+“This title and the amendments made by it [see Short Title of 1990 Amendment note above] are enacted by the Congress—
+
+“This Act and the amendments made by this Act [enacting sections 908 and 909 of this title, amending sections 622, 632, 635, 636, 642, 683, 684, 687, 901 to 907, and 922 of this title and sections 1105 and 3101 of Title 31, Money and Finance, enacting provisions set out as notes under sections 602, 621, 686, and 901 of this title and section 1395ww of Title 42 , The Public Health and Welfare, amending provisions set out as notes under section 901 of this title and sections 1320b–8 and 1395ww of Title 42, and repealing provisions set out as a note under section 653 of this title ], other than those relating to the activities of the executive and judicial branches of the Government, are enacted by Congress—
+
+“The provisions of this title [see Short Title note above], other than those relating to the activities of the executive and judicial branches of the Government, are enacted by the Congress—
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+William J. Clinton.
+
+## Source Credit
+
+*([Pub. L. 99–177, title II, § 250](https://www.govinfo.gov/link/plaw/99/public/177), as added [Pub. L. 101–508, title XIII, § 13101(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–574](https://www.govinfo.gov/link/statute/104/1388), and [Pub. L. 99–177, title II, § 250(c)(21)](https://www.govinfo.gov/link/plaw/99/public/177), formerly § 257(12), as added [Pub. L. 100–119, title I, § 102(b)(7)](https://www.govinfo.gov/link/plaw/100/public/119), Sept. 29, 1987, [101 Stat. 774](https://www.govinfo.gov/link/statute/101/774), renumbered § 250(c)(21), [Pub. L. 101–508, title XIII, § 13101(b)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–589](https://www.govinfo.gov/link/statute/104/1388); amended [Pub. L. 105–33, title X](https://www.govinfo.gov/link/plaw/105/public/33), §§ 10202, 10204(a)(2), 10208(a)(2), Aug. 5, 1997, [111 Stat. 697](https://www.govinfo.gov/link/statute/111/697), 702, 708; [Pub. L. 105–178, title VIII, § 8101(c)](https://www.govinfo.gov/link/plaw/105/public/178), (f), June 9, 1998, [112 Stat. 489](https://www.govinfo.gov/link/statute/112/489); [Pub. L. 105–206, title IX, § 9013(b)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 865](https://www.govinfo.gov/link/statute/112/865); [Pub. L. 106–291, title VIII, § 801(c)](https://www.govinfo.gov/link/plaw/106/public/291), Oct. 11, 2000, [114 Stat. 1028](https://www.govinfo.gov/link/statute/114/1028); [Pub. L. 108–88, § 10(c)](https://www.govinfo.gov/link/plaw/108/public/88), Sept. 30, 2003, [117 Stat. 1127](https://www.govinfo.gov/link/statute/117/1127); [Pub. L. 108–310, § 10(c)](https://www.govinfo.gov/link/plaw/108/public/310), Sept. 30, 2004, [118 Stat. 1160](https://www.govinfo.gov/link/statute/118/1160); [Pub. L. 109–59, title VIII, § 8001(b)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1915](https://www.govinfo.gov/link/statute/119/1915); [Pub. L. 111–139, title I, § 9(a)](https://www.govinfo.gov/link/plaw/111/public/139), Feb. 12, 2010, [124 Stat. 21](https://www.govinfo.gov/link/statute/124/21); [Pub. L. 112–25, title I, § 102](https://www.govinfo.gov/link/plaw/112/public/25), Aug. 2, 2011, [125 Stat. 245](https://www.govinfo.gov/link/statute/125/245); [Pub. L. 113–67, div. A, title I, § 101(d)(1)](https://www.govinfo.gov/link/plaw/113/public/67), Dec. 26, 2013, [127 Stat. 1168](https://www.govinfo.gov/link/statute/127/1168).)*

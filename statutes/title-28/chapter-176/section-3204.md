@@ -3,9 +3,10 @@ title: "Section 3204 - Installment payment order"
 usc_title: 28
 usc_section: "3204"
 chapter: 176
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 3204"
-generated_at: "2026-03-30T02:55:30.153Z"
+generated_at: "2026-11-23T20:26:36.546Z"
+status: "active"
 ---
 
 # § 3204. Installment payment order
@@ -17,3 +18,13 @@ generated_at: "2026-03-30T02:55:30.153Z"
 - **(c)**
   - **(1)** An order may not be issued under subsection (a), and if so issued shall have no force or effect, against a judgment debtor with respect to whom there is in effect a writ of garnishment of earnings issued under this chapter and based on the same debt.
   - **(2)** An order may not be issued under subsection (a) with respect to any earnings of the debtor except nonexempt disposable earnings.
+
+Authority To Issue Order
+
+Modification of Order
+
+Limitation
+
+## Source Credit
+
+*(Added [Pub. L. 101–647, title XXXVI, § 3611](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4955](https://www.govinfo.gov/link/statute/104/4955).)*

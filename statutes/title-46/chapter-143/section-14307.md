@@ -3,9 +3,10 @@ title: "Section 14307 - Inspection of foreign vessels"
 usc_title: 46
 usc_section: "14307"
 chapter: 143
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 14307"
-generated_at: "2026-03-30T02:56:15.560Z"
+generated_at: "2026-11-23T20:27:27.192Z"
+status: "active"
 ---
 
 # § 14307. Inspection of foreign vessels
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:15.560Z"
   - **(1)** if the vessel has been measured under laws and regulations that the Secretary finds are similar to those of this chapter and the regulations prescribed under this chapter, the vessel shall be deemed to have been issued an International Tonnage Certificate (1969); and
   - **(2)** if the vessel has not been measured as described in clause (1) of this subsection, the Secretary may measure the vessel.
 - **(d)** An inspection under this section shall be conducted in a way that does not delay a vessel of a country that is a party to the Convention.
+
+## Source Credit
+
+*([Pub. L. 99–509, title V, § 5101(3)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1922](https://www.govinfo.gov/link/statute/100/1922).)*

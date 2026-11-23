@@ -3,9 +3,10 @@ title: "Section 2761 - Oil pollution research and development program"
 usc_title: 33
 usc_section: "2761"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2761"
-generated_at: "2026-03-30T02:55:41.134Z"
+generated_at: "2026-11-23T20:26:54.225Z"
+status: "active"
 ---
 
 # § 2761. Oil pollution research and development program
@@ -125,3 +126,9 @@ generated_at: "2026-03-30T02:55:41.134Z"
 - **(h)** Not to exceed $22,000,000 of amounts in the Fund shall be available annually to carry out this section except for subsection (e)(8). Of such sums—
   - **(1)** funds authorized to be appropriated to carry out the activities under subsection (e)(4) shall not exceed $5,000,000 for fiscal year 1991 or $3,500,000 for any subsequent fiscal year; and
   - **(2)** not less than $3,000,000 shall be available for carrying out the activities in subsection (c)(6) 1 1 See References in Text note below. for fiscal years 1992, 1993, 1994, and 1995.
+
+“Membership
+
+## Source Credit
+
+*([Pub. L. 101–380, title VII, § 7001](https://www.govinfo.gov/link/plaw/101/public/380), Aug. 18, 1990, [104 Stat. 559](https://www.govinfo.gov/link/statute/104/559); [Pub. L. 101–537, title II, § 2002](https://www.govinfo.gov/link/plaw/101/public/537), Nov. 8, 1990, [104 Stat. 2375](https://www.govinfo.gov/link/statute/104/2375); [Pub. L. 101–646, title IV, § 4002](https://www.govinfo.gov/link/plaw/101/public/646), Nov. 29, 1990, [104 Stat. 4788](https://www.govinfo.gov/link/statute/104/4788); [Pub. L. 104–324, title XI](https://www.govinfo.gov/link/plaw/104/public/324), §§ 1102(c)(2), 1108, Oct. 19, 1996, [110 Stat. 3966](https://www.govinfo.gov/link/statute/110/3966), 3968; [Pub. L. 104–332, § 2(h)(1)](https://www.govinfo.gov/link/plaw/104/public/332), (2), Oct. 26, 1996, [110 Stat. 4091](https://www.govinfo.gov/link/statute/110/4091); [Pub. L. 108–426, § 2(c)(5)](https://www.govinfo.gov/link/plaw/108/public/426), Nov. 30, 2004, [118 Stat. 2424](https://www.govinfo.gov/link/statute/118/2424); [Pub. L. 109–241, title VI, § 605(a)(1)](https://www.govinfo.gov/link/plaw/109/public/241), title IX, § 902(l)(3), (4), July 11, 2006, [120 Stat. 555](https://www.govinfo.gov/link/statute/120/555), 568; [Pub. L. 114–120, title III, § 319](https://www.govinfo.gov/link/plaw/114/public/120), Feb. 8, 2016, [130 Stat. 66](https://www.govinfo.gov/link/statute/130/66); [Pub. L. 116–283, div. G, title LVXXXIII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXIII], § 8304, Jan. 1, 2021, [134 Stat. 4693](https://www.govinfo.gov/link/statute/134/4693); [Pub. L. 119–60, div. G, title LXXVII, § 7701(g)(7)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1836](https://www.govinfo.gov/link/statute/139/1836).)*

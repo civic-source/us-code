@@ -3,9 +3,10 @@ title: "Section 30113 - Statements filed with State officers; “appropriate Sta
 usc_title: 52
 usc_section: "30113"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "52 U.S.C. § 30113"
-generated_at: "2026-03-30T02:56:30.171Z"
+generated_at: "2026-11-23T20:27:37.004Z"
+status: "active"
 ---
 
 # § 30113. Statements filed with State officers; “appropriate State” defined; duties of State officers; waiver of duplicate filing requirement for States with electronic access
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:30.171Z"
   - **(3)** make each report and statement filed therewith available as soon as practicable (but within 48 hours of receipt) for public inspection and copying during regular business hours, and permit copying of any such report or statement by hand or by duplicating machine at the request of any person, except that such copying shall be at the expense of the person making the request; and
   - **(4)** compile and maintain a current list of all reports and statements pertaining to each candidate.
 - **(c)** Subsections (a) and (b) shall not apply with respect to any State that, as determined by the Commission, has a system that permits electronic access to, and duplication of, reports and statements that are filed with the Commission.
+
+## Source Credit
+
+*([Pub. L. 92–225, title III, § 312](https://www.govinfo.gov/link/plaw/92/public/225), formerly § 309, Feb. 7, 1972, [86 Stat. 18](https://www.govinfo.gov/link/statute/86/18); renumbered § 317 and amended [Pub. L. 93–443, title II, § 208(a)](https://www.govinfo.gov/link/plaw/93/public/443), (c)(11), Oct. 15, 1974, [88 Stat. 1279](https://www.govinfo.gov/link/statute/88/1279), 1287; renumbered § 316, [Pub. L. 94–283, title I, § 105](https://www.govinfo.gov/link/plaw/94/public/283), May 11, 1976, [90 Stat. 481](https://www.govinfo.gov/link/statute/90/481); renumbered § 312 and amended [Pub. L. 96–187, title I](https://www.govinfo.gov/link/plaw/96/public/187), §§ 105(4), 110, Jan. 8, 1980, [93 Stat. 1354](https://www.govinfo.gov/link/statute/93/1354), 1364; [Pub. L. 104–79, § 2](https://www.govinfo.gov/link/plaw/104/public/79), Dec. 28, 1995, [109 Stat. 791](https://www.govinfo.gov/link/statute/109/791).)*

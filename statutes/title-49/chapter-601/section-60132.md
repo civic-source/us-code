@@ -3,9 +3,10 @@ title: "Section 60132 - National pipeline mapping system"
 usc_title: 49
 usc_section: "60132"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 60132"
-generated_at: "2026-03-30T02:56:19.416Z"
+generated_at: "2026-11-23T20:27:35.428Z"
+status: "active"
 ---
 
 # § 60132. National pipeline mapping system
@@ -22,3 +23,23 @@ generated_at: "2026-03-30T02:56:19.416Z"
   - **(2)** update the map biennially.
 - **(e)** Not later than 1 year after the date of enactment of this subsection, the Secretary shall develop and implement a program promoting greater awareness of the existence of the National Pipeline Mapping System to State and local emergency responders and other interested parties. The program shall include guidance on how to use the National Pipeline Mapping System to locate pipelines in communities and local jurisdictions.
 - **(f)** The Secretary may not disclose information collected pursuant to subsection (a) except to the extent permitted by section 552 of title 5 .
+
+Information To Be Provided
+
+Updates
+
+Technical Assistance To Improve Local Response Capabilities
+
+Map of High-consequence Areas
+
+Program To Promote Awareness of National Pipeline Mapping System
+
+Public Disclosure Limited
+
+Guidance
+
+Consultation
+
+## Source Credit
+
+*(Added [Pub. L. 107–355, § 15(a)](https://www.govinfo.gov/link/plaw/107/public/355), Dec. 17, 2002, [116 Stat. 3005](https://www.govinfo.gov/link/statute/116/3005); amended [Pub. L. 112–90](https://www.govinfo.gov/link/plaw/112/public/90), §§ 6(a), 11, Jan. 3, 2012, [125 Stat. 1909](https://www.govinfo.gov/link/statute/125/1909), 1913.)*

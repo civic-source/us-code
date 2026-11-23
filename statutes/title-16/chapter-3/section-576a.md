@@ -3,12 +3,17 @@ title: "Section 576a - Authorization of appropriation for reforestation"
 usc_title: 16
 usc_section: "576a"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 576a"
-generated_at: "2026-03-30T02:54:22.877Z"
+generated_at: "2026-11-23T20:26:20.156Z"
+status: "active"
 ---
 
 # § 576a. Authorization of appropriation for reforestation
 
 There is authorized to be appropriated for each fiscal year after year ending June 30, 1934 , not to exceed $400,000, to enable the Secretary of Agriculture to establish and operate nurseries, to collect or to purchase tree seed or young trees, to plant trees, and to do all other things necessary for reforestation by planting or seeding national forests and for the additional protection, care, and improvement of the resulting plantations or young growth.
 
+
+## Source Credit
+
+*(June 9, 1930, ch. 416, § 2, [46 Stat. 527](https://www.govinfo.gov/link/statute/46/527).)*

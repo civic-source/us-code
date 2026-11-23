@@ -3,9 +3,10 @@ title: "Section 78fff - General provisions of a liquidation proceeding"
 usc_title: 15
 usc_section: "78fff"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 78fff"
-generated_at: "2026-03-30T02:54:08.062Z"
+generated_at: "2026-11-23T20:26:03.577Z"
+status: "active"
 ---
 
 # § 78fff. General provisions of a liquidation proceeding
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:08.062Z"
 - **(c)** In a liquidation proceeding under this chapter, whenever a person has acted with respect to cash or securities with the debtor after the filing date and in a manner which would have given him the status of a customer with respect to such cash or securities had the action occurred prior to the filing date, and the trustee is satisfied that such action was taken by the customer in good faith and prior to the appointment of the trustee, the date on which such action was taken shall be deemed to be the filing date for purposes of determining the net equity of such customer with respect to such cash or securities.
 - **(d)** In a liquidation proceeding under this chapter, any cash or securities remaining after the liquidation of a lien or pledge made by a debtor shall be apportioned between his general estate and customer property in the proportion in which the general property of the debtor and the cash and securities of the customers of such debtor contributed to such lien or pledge. Securities apportioned to the general estate under this subsection shall be subject to the provisions of section 78 lll (5)(A) of this title.
 - **(e)** All costs and expenses of administration of the estate of the debtor and of the liquidation proceeding shall be borne by the general estate of the debtor to the extent it is sufficient therefor, and the priorities of distribution from the general estate shall be as provided in section 726 of title 11 . Costs and expenses of administration shall include payments pursuant to section 78fff–2(e) of this title and section 78fff–3(c)(1) of this title (to the extent such payments recovered securities which were apportioned to the general estate pursuant to subsection (d)) and costs and expenses of SIPC employees utilized by the trustee pursuant to section 78fff–1(a)(2) of this title . All funds advanced by SIPC to a trustee for such costs and expenses of administration shall be recouped from the general estate under section 507(a)(2) of title 11 .
+
+## Source Credit
+
+*([Pub. L. 91–598, § 6](https://www.govinfo.gov/link/plaw/91/public/598), Dec. 30, 1970, [84 Stat. 1646](https://www.govinfo.gov/link/statute/84/1646); [Pub. L. 95–283, § 8](https://www.govinfo.gov/link/plaw/95/public/283), May 21, 1978, [92 Stat. 259](https://www.govinfo.gov/link/statute/92/259); [Pub. L. 95–598, title III, § 308(g)](https://www.govinfo.gov/link/plaw/95/public/598), (h), Nov. 6, 1978, [92 Stat. 2675](https://www.govinfo.gov/link/statute/92/2675); [Pub. L. 109–8, title XV, § 1502(b)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 217](https://www.govinfo.gov/link/statute/119/217).)*

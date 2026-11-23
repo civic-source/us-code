@@ -3,9 +3,10 @@ title: "Section 9224 - Procurement sanctions"
 usc_title: 22
 usc_section: "9224"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9224"
-generated_at: "2026-03-30T02:55:05.463Z"
+generated_at: "2026-11-23T20:26:32.761Z"
+status: "active"
 ---
 
 # § 9224. Procurement sanctions
@@ -23,3 +24,21 @@ generated_at: "2026-03-30T02:55:05.463Z"
 - **(d)** The remedies specified in subsection (c) shall not apply with respect to the procurement of any eligible product (as defined in section 2518(4) of title 19 of any foreign country or instrumentality designated under section 2511(b) of title 19 .
 - **(e)** Nothing in this subsection may be construed to limit the use of other remedies available to the head of an executive agency or any other official of the Federal Government on the basis of a determination of a false certification under subsection (b).
 - **(f)** In this section, the term “executive agency” has the meaning given such term in section 133 of title 41 .
+
+Assessment Required.—
+
+In general
+
+Elements
+
+Report
+
+Authority
+
+Notification
+
+Appropriate Committees of Congress Defined
+
+## Source Credit
+
+*([Pub. L. 114–122, title II, § 204](https://www.govinfo.gov/link/plaw/114/public/122), Feb. 18, 2016, [130 Stat. 107](https://www.govinfo.gov/link/statute/130/107); [Pub. L. 116–92, div. F, title LXXI, § 7122(b)(3)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2248](https://www.govinfo.gov/link/statute/133/2248).)*

@@ -3,9 +3,10 @@ title: "Section 4402 - Requirement to address modular open system approach in pr
 usc_title: 10
 usc_section: "4402"
 chapter: 327
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 4402"
-generated_at: "2026-03-30T02:53:38.207Z"
+generated_at: "2026-11-23T20:25:51.953Z"
+status: "active"
 ---
 
 # § 4402. Requirement to address modular open system approach in program capabilities development and acquisition weapon system design
@@ -29,3 +30,19 @@ generated_at: "2026-03-30T02:53:38.207Z"
     - **(C)** the Government has arranged to obtain appropriate and necessary intellectual property rights with respect to such major system interfaces upon completion of the development of the major system platform; or
   - **(2)** in the case of a program that does not use a modular open system approach, that the use of a modular open system approach is not practicable.
 - **(f)** The Secretaries of the military departments shall issue guidance to implement the requirements of this section.
+
+Program Capability Document
+
+Analysis of Alternatives
+
+Acquisition Strategy
+
+Request for Proposals
+
+Milestone B
+
+Implementation Guidance
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. A, title VIII, § 805(a)(1)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2253](https://www.govinfo.gov/link/statute/130/2253), § 2446b; amended [Pub. L. 115–91, div. A, title X, § 1081(a)(40)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1596](https://www.govinfo.gov/link/statute/131/1596); [Pub. L. 116–92, div. A, title VIII, § 840(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1499](https://www.govinfo.gov/link/statute/133/1499); renumbered § 4402 and amended [Pub. L. 116–283, div. A, title XVIII, § 1851(b)(1)](https://www.govinfo.gov/link/plaw/116/public/283), (3), Jan. 1, 2021, [134 Stat. 4272](https://www.govinfo.gov/link/statute/134/4272); [Pub. L. 119–60, div. A, title XVIII, § 1832(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1253](https://www.govinfo.gov/link/statute/139/1253).)*

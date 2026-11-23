@@ -3,12 +3,17 @@ title: "Section 2404 - Death of defendant in damage action"
 usc_title: 28
 usc_section: "2404"
 chapter: 161
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 2404"
-generated_at: "2026-03-30T02:55:30.148Z"
+generated_at: "2026-11-23T20:26:36.517Z"
+status: "active"
 ---
 
 # § 2404. Death of defendant in damage action
 
 A civil action for damages commenced by or on behalf of the United States or in which it is interested shall not abate on the death of a defendant but shall survive and be enforceable against his estate as well as against surviving defendants.
 
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 971](https://www.govinfo.gov/link/statute/62/971).)*

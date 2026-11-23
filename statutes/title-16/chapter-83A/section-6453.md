@@ -3,9 +3,10 @@ title: "Section 6453 - Membership"
 usc_title: 16
 usc_section: "6453"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6453"
-generated_at: "2026-03-30T02:54:23.059Z"
+generated_at: "2026-11-23T20:26:20.796Z"
+status: "active"
 ---
 
 # § 6453. Membership
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:23.059Z"
   - **(5)** A member appointed by the President of the Federated States of Micronesia.
   - **(6)** A member appointed by the President of the Republic of the Marshall Islands.
   - **(7)** A member appointed by the President of the Republic of Palau.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. J, title C, § 10013](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3952](https://www.govinfo.gov/link/statute/136/3952).)*

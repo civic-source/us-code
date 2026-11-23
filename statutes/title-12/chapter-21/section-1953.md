@@ -3,9 +3,10 @@ title: "Section 1953 - Recordkeeping and procedures"
 usc_title: 12
 usc_section: "1953"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1953"
-generated_at: "2026-03-30T02:53:53.470Z"
+generated_at: "2026-11-23T20:25:59.217Z"
+status: "active"
 ---
 
 # § 1953. Recordkeeping and procedures
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:53.470Z"
   - **(2)** to maintain procedures to assure compliance with requirements imposed under this chapter. For the purposes of any civil or criminal penalty, a separate violation of any requirement under this paragraph occurs with respect to each day and each separate office, branch, or place of business in which the violation occurs or continues.
 - **(b)** The authority of the Secretary of the Treasury under subsection (a) extends to any financial institution (as defined in section 5312(a)(2) of title 31 ), other than any insured bank (as defined in section 1813(h) of this title ) and any insured institution (as defined in section 1724(a) 1 1 See References in Text note below. of this title), and any partner, officer, director, or employee of any such financial institution.
 - **(c)** The Secretary shall permit an uninsured bank or financial institution to retain or maintain records referred to in subsection (a) in electronic or automated form, subject to terms and conditions established by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 91–508, title I, § 123](https://www.govinfo.gov/link/plaw/91/public/508), Oct. 26, 1970, [84 Stat. 1116](https://www.govinfo.gov/link/statute/84/1116); [Pub. L. 100–690, title VI, § 6185(d)(3)(A)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4357](https://www.govinfo.gov/link/statute/102/4357); [Pub. L. 103–325, title III, § 310](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2221](https://www.govinfo.gov/link/statute/108/2221); [Pub. L. 107–56, title III, § 358(e)](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 327](https://www.govinfo.gov/link/statute/115/327); [Pub. L. 108–458, title VI, § 6202(k)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3746](https://www.govinfo.gov/link/statute/118/3746).)*

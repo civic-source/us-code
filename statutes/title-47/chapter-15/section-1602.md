@@ -3,9 +3,10 @@ title: "Section 1602 - Prohibition on use of certain Federal subsidies"
 usc_title: 47
 usc_section: "1602"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 1602"
-generated_at: "2026-03-30T02:56:24.536Z"
+generated_at: "2026-11-23T20:27:29.007Z"
+status: "active"
 ---
 
 # § 1602. Prohibition on use of certain Federal subsidies
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:24.536Z"
     - **(B)** maintain any covered communications equipment or service previously purchased, rented, leased, or otherwise obtained.
   - **(2)** Paragraph (1) shall apply with respect to any covered communications equipment or service beginning on the date that is 60 days after the date on which the Commission places such equipment or service on the list required by section 1601(a) of this title . In the case of any covered communications equipment or service that is on the initial list published under such section, such equipment or service shall be treated as being placed on the list on the date on which such list is published.
 - **(b)** Not later than 180 days after March 12, 2020 , the Commission shall adopt a Report and Order to implement subsection (a). If the Commission has, before March 12, 2020 , taken action that in whole or in part implements subsection (a), the Commission is not required to revisit such action, but only to the extent such action is consistent with this section.
+
+## Source Credit
+
+*([Pub. L. 116–124, § 3](https://www.govinfo.gov/link/plaw/116/public/124), Mar. 12, 2020, [134 Stat. 159](https://www.govinfo.gov/link/statute/134/159).)*

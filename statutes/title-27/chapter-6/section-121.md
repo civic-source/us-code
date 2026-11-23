@@ -3,12 +3,17 @@ title: "Section 121 - State statutes as operative on termination of transportati
 usc_title: 27
 usc_section: "121"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "27 U.S.C. § 121"
-generated_at: "2026-03-30T02:55:15.104Z"
+generated_at: "2026-11-23T20:26:34.220Z"
+status: "active"
 ---
 
 # § 121. State statutes as operative on termination of transportation; original packages
 
 All fermented, distilled, or other intoxicating liquors or liquids transported into any State or Territory or remaining therein for use, consumption, sale, or storage therein, shall upon arrival in such State or Territory be subject to the operation and effect of the laws of such State or Territory enacted in the exercise of its police powers, to the same extent and in the same manner as though such liquids or liquors had been produced in such State or Territory, and shall not be exempt therefrom by reason of being introduced therein in original packages or otherwise.
 
+
+## Source Credit
+
+*(Aug. 8, 1890, ch. 728, [26 Stat. 313](https://www.govinfo.gov/link/statute/26/313).)*

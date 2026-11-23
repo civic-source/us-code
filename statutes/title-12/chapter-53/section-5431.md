@@ -3,9 +3,10 @@ title: "Section 5431 - Interim use of funds, personnel, and property of the Offi
 usc_title: 12
 usc_section: "5431"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5431"
-generated_at: "2026-03-30T02:53:53.538Z"
+generated_at: "2026-11-23T20:25:59.499Z"
+status: "active"
 ---
 
 # § 5431. Interim use of funds, personnel, and property of the Office of Thrift Supervision
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:53.538Z"
   - **(2)** detail to the Office of the Comptroller of the Currency, the Corporation, or the Board of Governors, as applicable, such personnel as the Office of the Comptroller of the Currency, the Corporation, and the Board of Governors jointly determine to be appropriate under subsection (a); and
   - **(3)** make available to the Office of the Comptroller of the Currency, the Corporation, or the Board of Governors, as applicable, such property and provide to the Office of the Comptroller of the Currency, the Corporation, or the Board of Governors, as applicable, such administrative services as the Office of the Comptroller of the Currency, the Corporation, and the Board of Governors jointly determine to be necessary under subsection (a).
 - **(c)** The Office of the Comptroller of the Currency, the Corporation, and the Board of Governors shall jointly give the Office of Thrift Supervision reasonable prior notice of any request that the Office of the Comptroller of the Currency, the Corporation, and the Board of Governors jointly intend to make under subsection (b).
+
+## Source Credit
+
+*([Pub. L. 111–203, title III, § 321](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1528](https://www.govinfo.gov/link/statute/124/1528).)*

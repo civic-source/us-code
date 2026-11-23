@@ -3,9 +3,10 @@ title: "Section 1144 - Limitation on fines and civil penalties"
 usc_title: 6
 usc_section: "1144"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 1144"
-generated_at: "2026-03-30T02:53:09.506Z"
+generated_at: "2026-11-23T20:25:34.920Z"
+status: "active"
 ---
 
 # § 1144. Limitation on fines and civil penalties
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:09.506Z"
   - **(1)** In the case of a public transportation agency that is found to be in violation of a regulation or order issued by the Secretary, the Secretary shall seek correction of the violation through a written notice to the public transportation agency and shall give the public transportation agency reasonable opportunity to correct the violation or propose an alternative means of compliance acceptable to the Secretary.
   - **(2)** If the public transportation agency does not correct the violation or propose an alternative means of compliance acceptable to the Secretary within a reasonable time period that is specified in the written notice, the Secretary may take any action authorized in section 114 of title 49 .
 - **(c)** The Secretary shall not initiate civil enforcement actions for violations of administrative and procedural requirements pertaining to the application for and expenditure of funds awarded under transportation security grant programs under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XIV, § 1415](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 422](https://www.govinfo.gov/link/statute/121/422).)*

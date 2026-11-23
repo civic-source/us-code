@@ -3,9 +3,10 @@ title: "Section 2326i - Beneficial use of dredged material"
 usc_title: 33
 usc_section: "2326i"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2326i"
-generated_at: "2026-03-30T02:55:41.124Z"
+generated_at: "2026-11-23T20:26:54.183Z"
+status: "active"
 ---
 
 # § 2326i. Beneficial use of dredged material
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:55:41.124Z"
 - **(g)** The projects carried out under this section shall be carried out notwithstanding the definition of the term “Federal standard” in section 335.7 of title 33, Code of Federal Regulations.
 - **(h)**
 - **(i)**
+
+## Source Credit
+
+*([Pub. L. 114–322, title I, § 1122](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1645](https://www.govinfo.gov/link/statute/130/1645); [Pub. L. 115–270, title I, § 1130](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3780](https://www.govinfo.gov/link/statute/132/3780); [Pub. L. 116–260, div. AA, title I, § 125(b)(1)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2638](https://www.govinfo.gov/link/statute/134/2638); [Pub. L. 118–272, div. A, title I, § 1130(a)](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3018](https://www.govinfo.gov/link/statute/138/3018).)*

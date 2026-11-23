@@ -3,9 +3,10 @@ title: "Section 3001 - Congressional findings and policy"
 usc_title: 15
 usc_section: "3001"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 3001"
-generated_at: "2026-03-30T02:54:08.185Z"
+generated_at: "2026-11-23T20:26:04.263Z"
+status: "active"
 ---
 
 # § 3001. Congressional findings and policy
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:08.185Z"
   - **(2)** the Federal Government should prevent interference by one State with the gambling policies of another, and should act to protect identifiable national interests; and
   - **(3)** in the limited area of interstate off-track wagering on horseraces, there is a need for Federal action to ensure States will continue to cooperate with one another in the acceptance of legal interstate wagers.
 - **(b)** It is the policy of the Congress in this chapter to regulate interstate commerce with respect to wagering on horseracing, in order to further the horseracing and legal off-track betting industries in the United States.
+
+## Source Credit
+
+*([Pub. L. 95–515, § 2](https://www.govinfo.gov/link/plaw/95/public/515), Oct. 25, 1978, [92 Stat. 1811](https://www.govinfo.gov/link/statute/92/1811).)*

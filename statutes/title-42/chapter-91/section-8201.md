@@ -3,9 +3,10 @@ title: "Section 8201 - Findings and statement of purposes"
 usc_title: 42
 usc_section: "8201"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8201"
-generated_at: "2026-03-30T02:56:11.336Z"
+generated_at: "2026-11-23T20:27:23.006Z"
+status: "active"
 ---
 
 # § 8201. Findings and statement of purposes
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.336Z"
   - **(3)** the continuation of this effort will permit the United States to become increasingly independent of the world oil market, less vulnerable to interruption of foreign oil supplies, and more able to provide energy to meet future needs; and
   - **(4)** all sectors of the economy of the United States should continue to reduce significantly the demand for nonrenewable energy resources such as oil and natural gas by implementing and maintaining effective conservation measures for the efficient use of these and other energy sources.
 - **(b)** The purposes of this chapter are to provide for the regulation of interstate commerce, to reduce the growth in demand for energy in the United States, and to conserve nonrenewable energy resources produced in this Nation and elsewhere, without inhibiting beneficial economic growth.
+
+## Source Credit
+
+*([Pub. L. 95–619, title I, § 102](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3208](https://www.govinfo.gov/link/statute/92/3208); [Pub. L. 99–412, title I, § 101](https://www.govinfo.gov/link/plaw/99/public/412), Aug. 28, 1986, [100 Stat. 932](https://www.govinfo.gov/link/statute/100/932).)*

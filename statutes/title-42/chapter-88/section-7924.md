@@ -3,9 +3,10 @@ title: "Section 7924 - Reports to Congress"
 usc_title: 42
 usc_section: "7924"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7924"
-generated_at: "2026-03-30T02:56:11.331Z"
+generated_at: "2026-11-23T20:27:22.987Z"
+status: "active"
 ---
 
 # § 7924. Reports to Congress
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.331Z"
 - **(c)** Not later than January 1, 1980 , the Administrator, in consultation with the Commission, shall provide a report to the Congress which identifies the location and potential health, safety, and environmental hazards of uranium mine wastes together with recommendations, if any, for a program to eliminate these hazards.
 - **(d)** Copies of the reports required by this section to be submitted to the Congress shall be separately submitted to the Committees on Interior and Insular Affairs and on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
 - **(e)** The Commission, in cooperation with the Secretary, shall ensure that any relevant information, other than trade secrets and other proprietary information otherwise exempted from mandatory disclosure under any other provision of law, obtained from the conduct of each of the remedial actions authorized by this subchapter and the subsequent perpetual care of those residual radioactive materials is documented systematically, and made publicly available conveniently for use.
+
+## Source Credit
+
+*([Pub. L. 95–604, title I, § 114](https://www.govinfo.gov/link/plaw/95/public/604), Nov. 8, 1978, [92 Stat. 3032](https://www.govinfo.gov/link/statute/92/3032); H. Res. 549, Mar. 25, 1980.)*

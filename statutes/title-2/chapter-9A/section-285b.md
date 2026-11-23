@@ -3,9 +3,10 @@ title: "Section 285b - Functions"
 usc_title: 2
 usc_section: "285b"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 285b"
-generated_at: "2026-03-30T02:53:04.794Z"
+generated_at: "2026-11-23T20:25:28.867Z"
+status: "active"
 ---
 
 # § 285b. Functions
@@ -19,3 +20,7 @@ The functions of the Office shall be as follows:
   - **(5)** To prepare and submit periodically such revisions in the titles of the Code which have been enacted into positive law as may be necessary to keep such titles current.
   - **(6)** To prepare and publish periodically new editions of the District of Columbia Code, with annual cumulative supplements reflecting newly enacted laws, through publication of the fifth annual cumulative supplement to the 1973 edition of such Code.
   - **(7)** To provide the Committee on the Judiciary with such advice and assistance as the committee may request in carrying out its functions with respect to the revision and codification of the Federal statutes.
+
+## Source Credit
+
+*([Pub. L. 93–554, title I](https://www.govinfo.gov/link/plaw/93/public/554), ch. III, § 101, Dec. 27, 1974, [88 Stat. 1777](https://www.govinfo.gov/link/statute/88/1777); [Pub. L. 94–386, § 1](https://www.govinfo.gov/link/plaw/94/public/386), Aug. 14, 1976, [90 Stat. 1170](https://www.govinfo.gov/link/statute/90/1170).)*

@@ -3,9 +3,10 @@ title: "Section 3030 - Director of Science and Technology"
 usc_title: 50
 usc_section: "3030"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3030"
-generated_at: "2026-03-30T02:56:26.228Z"
+generated_at: "2026-11-23T20:27:30.883Z"
+status: "active"
 ---
 
 # § 3030. Director of Science and Technology
@@ -24,3 +25,9 @@ generated_at: "2026-03-30T02:56:26.228Z"
   - **(3)** The Committee shall—
     - **(A)** coordinate advances in research and development related to intelligence; and
     - **(B)** perform such other functions as the Director of Science and Technology shall prescribe.
+
+“The Director of Science and Technology may—
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title I, § 103E, as added [Pub. L. 108–458, title I, § 1011(a)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3659](https://www.govinfo.gov/link/statute/118/3659); amended [Pub. L. 117–263, div. F, title LXVII, § 6703(b)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3562](https://www.govinfo.gov/link/statute/136/3562).)*

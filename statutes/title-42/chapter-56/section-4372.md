@@ -3,9 +3,10 @@ title: "Section 4372 - Office of Environmental Quality"
 usc_title: 42
 usc_section: "4372"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4372"
-generated_at: "2026-03-30T02:56:11.205Z"
+generated_at: "2026-11-23T20:27:22.391Z"
+status: "active"
 ---
 
 # § 4372. Office of Environmental Quality
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.205Z"
   - **(6)** assisting the Federal departments and agencies in the development and interrelationship of environmental quality criteria and standards established through the Federal Government;
   - **(7)** collecting, collating, analyzing, and interpreting data and information on environmental quality, ecological research, and evaluation.
 - **(e)** The Director is authorized to contract with public or private agencies, institutions, and organizations and with individuals without regard to section 3324(a) and (b) of title 31 and section 6101 of title 41 in carrying out his functions.
+
+## Source Credit
+
+*([Pub. L. 91–224, title II, § 203](https://www.govinfo.gov/link/plaw/91/public/224), Apr. 3, 1970, [84 Stat. 114](https://www.govinfo.gov/link/statute/84/114); 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, [84 Stat. 2085](https://www.govinfo.gov/link/statute/84/2085).)*

@@ -3,9 +3,10 @@ title: "Section 17083 - Public outreach"
 usc_title: 42
 usc_section: "17083"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17083"
-generated_at: "2026-03-30T02:56:11.495Z"
+generated_at: "2026-11-23T20:27:23.722Z"
+status: "active"
 ---
 
 # § 17083. Public outreach
@@ -26,3 +27,7 @@ The Commercial Director and Federal Director, in coordination with the Consortiu
   - **(6)** using such additional methods as are determined by the Commercial Director to be appropriate to conduct public outreach;
   - **(7)** surveying existing research and studies relating to high-performance green buildings; and
   - **(8)** coordinating activities of common interest.
+
+## Source Credit
+
+*([Pub. L. 110–140, title IV, § 423](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1606](https://www.govinfo.gov/link/statute/121/1606).)*

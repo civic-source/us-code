@@ -3,9 +3,10 @@ title: "Section 20148 - Railroad car visibility"
 usc_title: 49
 usc_section: "20148"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 20148"
-generated_at: "2026-03-30T02:56:19.335Z"
+generated_at: "2026-11-23T20:27:34.794Z"
+status: "active"
 ---
 
 # § 20148. Railroad car visibility
@@ -19,3 +20,13 @@ generated_at: "2026-03-30T02:56:19.335Z"
   - **(5)** the effect of any enhanced visibility measures on the health and safety of train crew members; and
   - **(6)** the cost/benefit ratio of any new regulations.
 - **(c)** In prescribing regulations under subsection (b), the Secretary may exclude from any specific visibility requirement any category of trains or railroad operations if the Secretary determines that such an exclusion is in the public interest and is consistent with railroad safety.
+
+Review of Rules
+
+Regulations
+
+Exclusions
+
+## Source Credit
+
+*(Added [Pub. L. 103–440, title II, § 212(a)](https://www.govinfo.gov/link/plaw/103/public/440), Nov. 2, 1994, [108 Stat. 4622](https://www.govinfo.gov/link/statute/108/4622).)*

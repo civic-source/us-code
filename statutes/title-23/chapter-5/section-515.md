@@ -3,9 +3,10 @@ title: "Section 515 - General authorities and requirements"
 usc_title: 23
 usc_section: "515"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 515"
-generated_at: "2026-03-30T02:55:12.573Z"
+generated_at: "2026-11-23T20:26:23.903Z"
+status: "active"
 ---
 
 # § 515. General authorities and requirements
@@ -77,3 +78,67 @@ generated_at: "2026-03-30T02:55:12.573Z"
     - **(B)** The guidelines and requirements issued under subparagraph (A) shall include provisions to ensure the objectivity and independence of the reporting entity so as to avoid any real or apparent conflict of interest or potential influence on the outcome by parties to any such test or deployment project or by any other formal evaluation carried out under sections 512 through 518.
     - **(C)** The guidelines and requirements issued under subparagraph (A) shall establish reporting funding levels based on the size and scope of each test or project that ensure adequate reporting of the results of the test or project.
   - **(2)** Any survey, questionnaire, or interview that the Secretary considers necessary to carry out the reporting of any test, deployment project, or program assessment activity under sections 512 through 518 shall not be subject to chapter 35 of title 44, United States Code.
+
+Scope
+
+Policy
+
+Cooperation With Governmental, Private, and Educational Entities
+
+Consultation With Federal Officials
+
+Technical Assistance, Training, and Information
+
+Transportation Planning
+
+Information Clearinghouse.—
+
+In general
+
+Agreement.—
+
+In general
+
+Federal financial assistance
+
+Availability of information
+
+Advisory Committee.—
+
+In general
+
+Membership
+
+Term.—
+
+In general
+
+Renewal
+
+Meetings
+
+Duties
+
+Report
+
+Applicability of chapter 10 of title 5, united states code
+
+Reporting.—
+
+Guidelines and requirements.—
+
+In general
+
+Objectivity and independence
+
+Funding
+
+Special rule
+
+chapter 10 of title 5, united states code
+
+federal advisory committee act
+
+## Source Credit
+
+*(Added [Pub. L. 112–141, div. E, title III, § 53003(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 899](https://www.govinfo.gov/link/statute/126/899); amended [Pub. L. 114–94, div. A, title I, § 1446(a)(14)](https://www.govinfo.gov/link/plaw/114/public/94), title VI, § 6007, Dec. 4, 2015, [129 Stat. 1438](https://www.govinfo.gov/link/statute/129/1438), 1567; [Pub. L. 117–58, div. A, title III, § 13008(a)](https://www.govinfo.gov/link/plaw/117/public/58), div. B, title V, § 25001, Nov. 15, 2021, [135 Stat. 641](https://www.govinfo.gov/link/statute/135/641), 836; [Pub. L. 117–286, § 4(a)(178)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4325](https://www.govinfo.gov/link/statute/136/4325).)*

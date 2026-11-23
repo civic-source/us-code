@@ -3,9 +3,10 @@ title: "Section 8696 - Navy shipbuilding workforce development special incentive
 usc_title: 10
 usc_section: "8696"
 chapter: 863
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 8696"
-generated_at: "2026-03-30T02:53:38.249Z"
+generated_at: "2026-11-23T20:25:52.230Z"
+status: "active"
 ---
 
 # § 8696. Navy shipbuilding workforce development special incentive
@@ -52,3 +53,39 @@ generated_at: "2026-03-30T02:53:38.249Z"
 - **(e)** In this section:
   - **(1)** The term “covered contract” means a prime contract for the construction of a naval vessel funded using amounts appropriated or otherwise made available for Shipbuilding and Conversion, Navy.
   - **(2)** The term “qualified subcontractor” means a subcontractor that will deliver the vessel or vessels awarded under a covered contract to the Navy.
+
+Requirement.—
+
+In general
+
+Amount of special incentive
+
+Waiver.—
+
+In general
+
+Notice to congress
+
+Matching Contribution Requirement.—
+
+In general
+
+Entities described
+
+Special rule
+
+Authorized Activities.—
+
+In general
+
+Activities described
+
+Approval Requirement
+
+Definitions
+
+“ Section 8696 of title 10 , United States Code, as added by subsection (a), shall apply with respect to—
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. A, title I, § 122(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2441](https://www.govinfo.gov/link/statute/136/2441).)*

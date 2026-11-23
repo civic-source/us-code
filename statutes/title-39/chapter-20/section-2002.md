@@ -3,9 +3,10 @@ title: "Section 2002 - Capital of the Postal Service"
 usc_title: 39
 usc_section: "2002"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "39 U.S.C. § 2002"
-generated_at: "2026-03-30T02:55:43.690Z"
+generated_at: "2026-11-23T20:26:57.729Z"
+status: "active"
 ---
 
 # § 2002. Capital of the Postal Service
@@ -22,3 +23,19 @@ generated_at: "2026-03-30T02:55:43.690Z"
   - **(5)** all contracts, records, and documents relating to the operation of the departmental service and the postal field service of the former Post Office Department; and
   - **(6)** all other property and assets of the former Post Office Department.
 - **(d)** After the commencement of operations of the Postal Service, the President is authorized to transfer to the Postal Service, and the Postal Service is authorized to transfer to other departments, agencies, or independent establishments of the Government of the United States, with or without reimbursement, any property of that department, agency, or independent establishment and the Postal Service, respectively, when the public interest would be served by such transfer.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Richard Nixon.
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 738](https://www.govinfo.gov/link/statute/84/738); [Pub. L. 109–435, title IV, § 401(b)(2)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3225](https://www.govinfo.gov/link/statute/120/3225).)*

@@ -3,9 +3,10 @@ title: "Section 4107 - Plan of action"
 usc_title: 12
 usc_section: "4107"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4107"
-generated_at: "2026-03-30T02:53:53.500Z"
+generated_at: "2026-11-23T20:25:59.362Z"
+status: "active"
 ---
 
 # § 4107. Plan of action
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:53.500Z"
     - **(D)** a description of any transfer of the property, including the identity of the transferee and a copy of any documents of sale; and
     - **(E)** any other information that the Secretary determines is necessary to achieve the purposes of this title. 1
 - **(c)** An owner may from time to time revise and amend the plan of action as may be necessary to obtain approval of the plan under this subchapter. The owner shall submit any revision to the Secretary and to the tenants of the housing and make available to the Secretary and tenants all documentation supporting any revision, but not including any information that the Secretary determines is proprietary information.
+
+## Source Credit
+
+*([Pub. L. 100–242, title II, § 217](https://www.govinfo.gov/link/plaw/100/public/242), as added [Pub. L. 101–625, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4254](https://www.govinfo.gov/link/statute/104/4254); amended [Pub. L. 102–550, title III, § 304](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3763](https://www.govinfo.gov/link/statute/106/3763).)*

@@ -3,9 +3,10 @@ title: "Section 419A - Qualified asset account; limitation on additions to accou
 usc_title: 26
 usc_section: "419A"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 419A"
-generated_at: "2026-03-30T02:55:27.691Z"
+generated_at: "2026-11-23T20:26:45.696Z"
+status: "active"
 ---
 
 # § 419A. Qualified asset account; limitation on additions to account
@@ -88,3 +89,25 @@ generated_at: "2026-03-30T02:55:27.691Z"
     - **(B)** For purposes of this section (other than the provisions specified in subparagraph (A)), at the election of the employer, 2 or more welfare benefit funds of such employer may (to the extent not inconsistent with the purposes of this subpart and section 512) be treated as 1 fund.
   - **(2)** Rules similar to the rules of subsections (b), (c), (m), and (n) of section 414 shall apply.
 - **(i)** The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this subpart. Such regulations may provide that the plan administrator of any welfare benefit fund which is part of a plan to which more than 1 employer contributes shall submit such information to the employers contributing to the fund as may be necessary to enable the employers to comply with the provisions of this section.
+
+| In the case of: | The applicable percentage is: |
+| --- | --- |
+| The first taxable year to which this section applies | 80 |
+| The second taxable year to which this section applies | 60 |
+| The third taxable year to which this section applies | 40 |
+| The fourth taxable year to which this section applies | 20. |
+
+
+The first taxable year to which this section applies
+
+The second taxable year to which this section applies
+
+The third taxable year to which this section applies
+
+The fourth taxable year to which this section applies
+
+Higher limit in case of collectively bargained plans
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title V, § 511(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 856](https://www.govinfo.gov/link/statute/98/856); amended [Pub. L. 99–514, title XVIII, § 1851(a)(2)](https://www.govinfo.gov/link/plaw/99/public/514), (3)(A), (4)–(7), (9), (13), Oct. 22, 1986, [100 Stat. 2858–2860](https://www.govinfo.gov/link/statute/100/2858), 2862; [Pub. L. 100–647, title I, § 1018(t)(1)(C)](https://www.govinfo.gov/link/plaw/100/public/647), (2)(A), (u)(12), Nov. 10, 1988, [102 Stat. 3587](https://www.govinfo.gov/link/statute/102/3587), 3590; [Pub. L. 104–188, title I, § 1704(t)(60)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1890](https://www.govinfo.gov/link/statute/110/1890); [Pub. L. 109–280, title VIII, § 843(a)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1010](https://www.govinfo.gov/link/statute/120/1010); [Pub. L. 115–141, div. U, title IV, § 401(a)(96)](https://www.govinfo.gov/link/plaw/115/public/141), (b)(21)(B), (C), Mar. 23, 2018, [132 Stat. 1188](https://www.govinfo.gov/link/statute/132/1188), 1202, 1203.)*

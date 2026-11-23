@@ -3,9 +3,10 @@ title: "Section 10206 - Technician positions"
 usc_title: 5
 usc_section: "10206"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 10206"
-generated_at: "2026-03-30T02:52:56.076Z"
+generated_at: "2026-11-23T20:25:32.269Z"
+status: "active"
 ---
 
 # § 10206. Technician positions
@@ -20,3 +21,11 @@ generated_at: "2026-03-30T02:52:56.076Z"
     - **(A)** section 5304; or
     - **(B)** section 7511(a)(4).
   - **(3)** The loss of the additional compensation authorized by subsection (a)(1) shall not constitute an adverse action for the purposes of section 7512.
+
+In General
+
+Exceptions
+
+## Source Credit
+
+*(Added [Pub. L. 111–282, § 2(a)](https://www.govinfo.gov/link/plaw/111/public/282), Oct. 15, 2010, [124 Stat. 3037](https://www.govinfo.gov/link/statute/124/3037).)*

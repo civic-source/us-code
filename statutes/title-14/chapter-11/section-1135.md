@@ -3,9 +3,10 @@ title: "Section 1135 - Acquisition program baseline breach"
 usc_title: 14
 usc_section: "1135"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 1135"
-generated_at: "2026-03-30T02:53:51.493Z"
+generated_at: "2026-11-23T20:25:54.558Z"
+status: "active"
 ---
 
 # § 1135. Acquisition program baseline breach
@@ -30,3 +31,15 @@ generated_at: "2026-03-30T02:53:51.493Z"
 - **(d)** Not later than 48 hours after the Commandant becomes aware that a major acquisition contract cannot be carried out under the terms specified in the contract, the Commandant shall provide a written notification to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives that includes—
   - **(1)** a description of the terms of the contract that cannot be met; and
   - **(2)** an assessment of whether the applicable contract officer has issued a cease and desist order to the contractor based on the breach of such terms of the contract.
+
+In General
+
+Content
+
+Substantial Variances in Costs or Schedule
+
+Notice to Congress With Respect to Breach of Contract
+
+## Source Credit
+
+*(Added [Pub. L. 111–281, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2947](https://www.govinfo.gov/link/statute/124/2947), § 575; amended [Pub. L. 115–232, div. C, title XXXV, § 3533(g)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2321](https://www.govinfo.gov/link/statute/132/2321); renumbered § 1135, [Pub. L. 115–282, title I, § 108(b)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4208](https://www.govinfo.gov/link/statute/132/4208); [Pub. L. 116–283, div. G, title LVXXXII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXII], § 8221(b), Jan. 1, 2021, [134 Stat. 4657](https://www.govinfo.gov/link/statute/134/4657).)*

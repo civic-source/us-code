@@ -3,9 +3,10 @@ title: "Section 1323 - Unlawful bringing of aliens into United States"
 usc_title: 8
 usc_section: "1323"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1323"
-generated_at: "2026-03-30T02:53:10.493Z"
+generated_at: "2026-11-23T20:25:36.188Z"
+status: "active"
 ---
 
 # § 1323. Unlawful bringing of aliens into United States
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:10.493Z"
 - **(e)** A fine under this section may be reduced, refunded, or waived under such regulations as the Attorney General shall prescribe in cases in which—
   - **(1)** the carrier demonstrates that it had screened all passengers on the vessel or aircraft in accordance with procedures prescribed by the Attorney General, or
   - **(2)** circumstances exist that the Attorney General determines would justify such reduction, refund, or waiver.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 8, § 273, [66 Stat. 227](https://www.govinfo.gov/link/statute/66/227); [Pub. L. 101–649, title II, § 201(b)](https://www.govinfo.gov/link/plaw/101/public/649), title V, § 543(a)(10), Nov. 29, 1990, [104 Stat. 5014](https://www.govinfo.gov/link/statute/104/5014), 5058; [Pub. L. 102–232, title III, § 306(c)(4)(D)](https://www.govinfo.gov/link/plaw/102/public/232), Dec. 12, 1991, [105 Stat. 1752](https://www.govinfo.gov/link/statute/105/1752); [Pub. L. 103–416, title II](https://www.govinfo.gov/link/plaw/103/public/416), §§ 209(a), 216, 219(p), Oct. 25, 1994, [108 Stat. 4312](https://www.govinfo.gov/link/statute/108/4312), 4315, 4317; [Pub. L. 104–208, div. C, title III](https://www.govinfo.gov/link/plaw/104/public/208), §§ 308(c)(3), (e)(13), 371(b)(8), title VI, § 671(b)(6), (7), Sept. 30, 1996, [110 Stat. 3009–616](https://www.govinfo.gov/link/statute/110/3009), 3009–620, 3009–645, 3009–722.)*

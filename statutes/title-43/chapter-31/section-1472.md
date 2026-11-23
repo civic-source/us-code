@@ -3,9 +3,10 @@ title: "Section 1472 - Bureau of Reclamation working capital fund"
 usc_title: 43
 usc_section: "1472"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1472"
-generated_at: "2026-03-30T02:55:57.474Z"
+generated_at: "2026-11-23T20:27:06.293Z"
+status: "active"
 ---
 
 # § 1472. Bureau of Reclamation working capital fund
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:57.474Z"
 - **(d)** Charges to users will be at rates approximately equal to the costs of furnishing the materials, supplies, equipment, facilities, and services (including such items as depreciation of equipment and accrued annual leave).
 - **(e)** There are hereby authorized to be appropriated such sums as are necessary to carry out the purposes of this section.
 - **(f)** Funds that are not necessary to carry out the activities to be financed by the fund, as determined by the Secretary, shall be covered into miscellaneous receipts of the Treasury.
+
+## Source Credit
+
+*([Pub. L. 99–141, title II, § 205](https://www.govinfo.gov/link/plaw/99/public/141), Nov. 1, 1985, [99 Stat. 571](https://www.govinfo.gov/link/statute/99/571).)*

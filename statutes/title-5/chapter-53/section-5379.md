@@ -3,9 +3,10 @@ title: "Section 5379 - Student loan repayments"
 usc_title: 5
 usc_section: "5379"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 5379"
-generated_at: "2026-03-30T02:52:56.016Z"
+generated_at: "2026-11-23T20:25:31.918Z"
+status: "active"
 ---
 
 # § 5379. Student loan repayments
@@ -45,3 +46,9 @@ generated_at: "2026-03-30T02:52:56.016Z"
     - **(B)** the job classifications for the recipients; and
     - **(C)** the cost to the Federal Government of providing the benefits.
   - **(2)** The Director of the Office of Personnel Management shall prepare, and annually submit to Congress, a report containing the information submitted under paragraph (1), and information identifying the agencies that have provided benefits under this section.
+
+“Notwithstanding any other provision of law—
+
+## Source Credit
+
+*(Added [Pub. L. 101–510, div. A, title XII, § 1206(b)(1)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1659](https://www.govinfo.gov/link/statute/104/1659); amended [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title XI, § 1122(a), (b), (d)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–316; [Pub. L. 108–123, § 2](https://www.govinfo.gov/link/plaw/108/public/123), Nov. 11, 2003, [117 Stat. 1345](https://www.govinfo.gov/link/statute/117/1345); [Pub. L. 108–136, div. A, title XI, § 1123(a)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1637](https://www.govinfo.gov/link/statute/117/1637); [Pub. L. 110–437, title V, § 502](https://www.govinfo.gov/link/plaw/110/public/437), Oct. 20, 2008, [122 Stat. 4997](https://www.govinfo.gov/link/statute/122/4997).)*

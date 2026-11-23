@@ -3,9 +3,10 @@ title: "Section 8547 - Adjustment of allocated visitor-use days"
 usc_title: 16
 usc_section: "8547"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 8547"
-generated_at: "2026-03-30T02:54:23.088Z"
+generated_at: "2026-11-23T20:26:20.896Z"
+status: "active"
 ---
 
 # § 8547. Adjustment of allocated visitor-use days
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:23.088Z"
   - **(1)** any other existing or potential recreation service provider, notwithstanding the number of visitor-use days allocated to the special recreation permit holder under the special recreation permit held or to be held by the recreation service provider; or
   - **(2)** any existing or potential holder of a special recreation permit described in clause (i) or (iii) of paragraph (13)(A) of section 6801 of this title (as amended by this title), including the public.
 - **(c)** If unallocated visitor-use days are available, the Secretary concerned may, at any time, amend a special recreation permit to allocate additional visitor-use days to a qualified recreation service provider.
+
+## Source Credit
+
+*([Pub. L. 118–234, title III, § 318](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2906](https://www.govinfo.gov/link/statute/138/2906).)*

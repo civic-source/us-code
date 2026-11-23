@@ -3,9 +3,10 @@ title: "Section 6905 - Enforcement"
 usc_title: 16
 usc_section: "6905"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6905"
-generated_at: "2026-03-30T02:54:23.071Z"
+generated_at: "2026-11-23T20:26:20.825Z"
+status: "active"
 ---
 
 # § 6905. Enforcement
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:23.071Z"
     - **(D)** when required by court order; or
     - **(E)** when the Secretary has obtained written authorization from the person submitting such information to release such information to persons for reasons not otherwise provided for in this subsection, and such release does not violate other requirements of this Act.
   - **(2)** The Secretary shall, by regulation, prescribe such procedures as may be necessary to preserve the confidentiality of information submitted in compliance with any requirement or regulation under this Act, except that the Secretary may release or make public any such information in any aggregate or summary form that does not directly or indirectly disclose the identity or business of any person. Nothing in this subsection shall be interpreted or construed to prevent the use for conservation and management purposes by the Secretary of any information submitted in compliance with any requirement or regulation under this Act.
+
+## Source Credit
+
+*([Pub. L. 109–479, title V, § 506](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3640](https://www.govinfo.gov/link/statute/120/3640); [Pub. L. 114–81, title I, § 105(1)](https://www.govinfo.gov/link/plaw/114/public/81), Nov. 5, 2015, [129 Stat. 657](https://www.govinfo.gov/link/statute/129/657).)*

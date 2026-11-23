@@ -3,9 +3,10 @@ title: "Section 976 - Membership in military unions, organizing of military unio
 usc_title: 10
 usc_section: "976"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 976"
-generated_at: "2026-03-30T02:53:38.092Z"
+generated_at: "2026-11-23T20:25:51.161Z"
+status: "active"
 ---
 
 # § 976. Membership in military unions, organizing of military unions, and recognition of military unions prohibited
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:53:38.092Z"
   - **(4)** to be represented by counsel in any legal or quasi-legal proceeding, in accordance with applicable laws and regulations;
   - **(5)** to petition the Congress for redress of grievances; or
   - **(6)** to take such other administrative action to seek such administrative or judicial relief, as is authorized by applicable laws and regulations.
+
+## Source Credit
+
+*(Added [Pub. L. 95–610, § 2(a)](https://www.govinfo.gov/link/plaw/95/public/610), Nov. 8, 1978, [92 Stat. 3085](https://www.govinfo.gov/link/statute/92/3085), § 975; renumbered § 976, [Pub. L. 96–107, title VIII, § 821(a)](https://www.govinfo.gov/link/plaw/96/public/107), Nov. 9, 1979, [93 Stat. 820](https://www.govinfo.gov/link/statute/93/820); amended [Pub. L. 98–525, title IV, § 414(a)(6)](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2519](https://www.govinfo.gov/link/statute/98/2519); [Pub. L. 99–661, div. A, title XIII, § 1343(a)(2)](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 3992](https://www.govinfo.gov/link/statute/100/3992); [Pub. L. 100–26, § 7(k)(2)](https://www.govinfo.gov/link/plaw/100/public/26), Apr. 21, 1987, [101 Stat. 284](https://www.govinfo.gov/link/statute/101/284); [Pub. L. 105–85, div. A, title X, § 1073(a)(15)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1900](https://www.govinfo.gov/link/statute/111/1900); [Pub. L. 118–31, div. A, title XVII, § 1741(b)(3)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 680](https://www.govinfo.gov/link/statute/137/680).)*

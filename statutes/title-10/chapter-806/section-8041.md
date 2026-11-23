@@ -3,9 +3,10 @@ title: "Section 8041 - Headquarters, Marine Corps: function; composition"
 usc_title: 10
 usc_section: "8041"
 chapter: 806
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 8041"
-generated_at: "2026-03-30T02:53:38.238Z"
+generated_at: "2026-11-23T20:25:52.135Z"
+status: "active"
 ---
 
 # § 8041. Headquarters, Marine Corps: function; composition
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:38.238Z"
   - **(5)** Other members of the Navy and Marine Corps assigned or detailed to the Headquarters, Marine Corps.
   - **(6)** Civilian employees in the Department of the Navy assigned or detailed to the Headquarters, Marine Corps.
 - **(c)** Except as otherwise specifically prescribed by law, the Headquarters, Marine Corps, shall be organized in such manner, and its members shall perform such duties and have such titles, as the Secretary may prescribe.
+
+## Source Credit
+
+*(Added [Pub. L. 99–433, title V, § 513(b)](https://www.govinfo.gov/link/plaw/99/public/433), Oct. 1, 1986, [100 Stat. 1052](https://www.govinfo.gov/link/statute/100/1052), § 5041; amended [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title IX, § 902(a)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–224; [Pub. L. 112–239, div. A, title V, § 531(c)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1726](https://www.govinfo.gov/link/statute/126/1726); renumbered § 8041, [Pub. L. 115–232, div. A, title VIII, § 807(a)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1834](https://www.govinfo.gov/link/statute/132/1834).)*

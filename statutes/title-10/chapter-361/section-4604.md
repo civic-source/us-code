@@ -3,9 +3,10 @@ title: "Section 4604 - Changes to certain documents"
 usc_title: 10
 usc_section: "4604"
 chapter: 361
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 4604"
-generated_at: "2026-03-30T02:53:38.209Z"
+generated_at: "2026-11-23T20:25:51.960Z"
+status: "active"
 ---
 
 # § 4604. Changes to certain documents
@@ -14,3 +15,11 @@ generated_at: "2026-03-30T02:53:38.209Z"
   - **(1)** provides the version of such document that is applicable to such contract or other agreement; and
   - **(2)** indicates whether any changes have been made to such document after the issuance of the solicitation pursuant to which such contract or other agreement was entered into.
 - **(b)** With respect to a document referred to in a contract or other agreement described in subsection (a) that does not include the notation required under such subsection, the version of the document that shall apply with respect to such contract or other agreement is the version in effect at the time of the issuance of the solicitation pursuant to which such contract or other agreement was entered into.
+
+In General
+
+Unnotated Documents
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. A, title VIII, § 802(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 940](https://www.govinfo.gov/link/statute/139/940).)*

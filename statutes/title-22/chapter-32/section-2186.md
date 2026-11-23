@@ -3,9 +3,10 @@ title: "Section 2186 - Loan guarantees to Israel program"
 usc_title: 22
 usc_section: "2186"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2186"
-generated_at: "2026-03-30T02:55:05.350Z"
+generated_at: "2026-11-23T20:26:32.192Z"
+status: "active"
 ---
 
 # § 2186. Loan guarantees to Israel program
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:55:05.350Z"
   - **(2)** The standard terms of any loan or increment guaranteed under this section shall be 30 years with semiannual payments of interest only over the first 10 years, and with semiannual payments of principal and interest on a level payment basis, over the last 20 years thereof, except that the guaranteed loan or any increments issued in a single transaction may include obligations having different maturities, interest rates, and payment terms if the aggregate scheduled debt service for all obligations issued in a single transaction equals the debt service for a single loan or increment of like amount having the standard terms described in this sentence. The guarantor shall not have the right to accelerate any guaranteed loan or increment or to pay any amounts in respect of the guarantees issued other than in accordance with the original payment terms of the loan. For purposes of determining the maximum principal amount of any loan or increment to be guaranteed under this section, the principal amount of each such loan or increment shall be—
     - **(A)** in the case of any loan issued on a discount basis, the original issue price (excluding any transaction costs) thereof; or
     - **(B)** in the case of any loan issue 2 2 So in original. Probably should be “issued”. on an interest-bearing basis, the stated principal amount thereof.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 226, as added [Pub. L. 102–391, title VI, § 601](https://www.govinfo.gov/link/plaw/102/public/391), Oct. 6, 1992, [106 Stat. 1699](https://www.govinfo.gov/link/statute/106/1699).)*

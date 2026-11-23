@@ -3,9 +3,10 @@ title: "Section 1553a - Review of a request for upgrade of discharge or dismissa
 usc_title: 10
 usc_section: "1553a"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1553a"
-generated_at: "2026-03-30T02:53:38.128Z"
+generated_at: "2026-11-23T20:25:51.367Z"
+status: "active"
 ---
 
 # § 1553a. Review of a request for upgrade of discharge or dismissal
@@ -19,3 +20,23 @@ generated_at: "2026-03-30T02:53:38.128Z"
     - **(A)** that was not granted under sections 1552 and 1553 of this title; and
     - **(B)** regarding which the Secretary of Defense determines the petitioner has exhausted all remedies available to the petitioner under sections 1552 and 1553 of this title.
   - **(2)** The term “petitioner” means a member or former member of the armed forces (or if the member or former member is dead, the surviving spouse, next of kin, or legal representative of the member or former member) whose request for an upgrade to the characterization of a discharge or dismissal was not granted under sections 1552 and 1553 of this title.
+
+Establishment
+
+Consideration; Recommendation
+
+Definitions
+
+Deadline
+
+Resources
+
+Reporting.—
+
+Report
+
+Online publication
+
+## Source Credit
+
+*(Added [Pub. L. 116–92, div. A, title V, § 523(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1354](https://www.govinfo.gov/link/statute/133/1354).)*

@@ -3,9 +3,10 @@ title: "Section 835 - Election by reciprocal"
 usc_title: 26
 usc_section: "835"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 835"
-generated_at: "2026-03-30T02:55:27.731Z"
+generated_at: "2026-11-23T20:26:45.893Z"
+status: "active"
 ---
 
 # § 835. Election by reciprocal
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:27.731Z"
 - **(e)** Any increase in the taxable income of a reciprocal attributable to the limits provided in subsection (b) shall be taxed at the highest rate of tax specified in section 11(b).
 - **(f)** If for any taxable year an attorney-in-fact is allowed a credit or refund for taxes paid with respect to which credit or refund to the reciprocal resulted under subsection (d), the taxes of such reciprocal for such taxable year shall be properly adjusted under regulations prescribed by the Secretary.
 - **(g)** Nothing in this section shall increase or decrease the taxes imposed by this chapter on the income of the attorney-in-fact.
+
+## Source Credit
+
+*(Added [Pub. L. 87–834, § 8(c)](https://www.govinfo.gov/link/plaw/87/public/834), Oct. 16, 1962, [76 Stat. 996](https://www.govinfo.gov/link/statute/76/996), § 826; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 95–600, title III, § 301(b)(10)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2822](https://www.govinfo.gov/link/statute/92/2822); renumbered § 835 and amended [Pub. L. 99–514, title X, § 1024(a)(3)](https://www.govinfo.gov/link/plaw/99/public/514), (c)(9), Oct. 22, 1986, [100 Stat. 2405](https://www.govinfo.gov/link/statute/100/2405), 2407; [Pub. L. 100–647, title I, § 1010(f)(2)](https://www.govinfo.gov/link/plaw/100/public/647), (3), Nov. 10, 1988, [102 Stat. 3454](https://www.govinfo.gov/link/statute/102/3454).)*

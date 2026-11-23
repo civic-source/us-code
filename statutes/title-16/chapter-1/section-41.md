@@ -3,9 +3,10 @@ title: "Section 41 - Cooperative management agreements"
 usc_title: 16
 usc_section: "41"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 41"
-generated_at: "2026-03-30T02:54:22.844Z"
+generated_at: "2026-11-23T20:26:20.028Z"
+status: "active"
 ---
 
 # § 460nnn–41. Cooperative management agreements
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:22.844Z"
 - **(b)** The Secretary may enter into a cooperative management agreement with any party to provide for the cooperative conservation and management of the Federal and non-Federal lands subject to the agreement.
 - **(c)** With the consent of the landowners involved, the Secretary may permit permittees, special-use permit holders, other Federal and State agencies, and interested members of the public to participate in a cooperative management agreement as appropriate to achieve the resource or land use management objectives of the agreement.
 - **(d)** The Secretary may enter into agreements with the Burns Paiute Tribe to protect cultural sites in the Cooperative Management and Protection Area of importance to the tribe.
+
+## Source Credit
+
+*([Pub. L. 106–399, title I, § 121](https://www.govinfo.gov/link/plaw/106/public/399), Oct. 30, 2000, [114 Stat. 1663](https://www.govinfo.gov/link/statute/114/1663).)*

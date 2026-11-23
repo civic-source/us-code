@@ -3,9 +3,10 @@ title: "Section 397 - Requirements to buy certain items related to national secu
 usc_title: 6
 usc_section: "397"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 397"
-generated_at: "2026-03-30T02:53:09.463Z"
+generated_at: "2026-11-23T20:25:34.731Z"
+status: "active"
 ---
 
 # § 397. Requirements to buy certain items related to national security interests
@@ -55,3 +56,7 @@ generated_at: "2026-03-30T02:53:09.463Z"
 - **(c)** The Secretary shall ensure that covered items are purchased at a fair and reasonable price, consistent with the procedures and guidelines specified in the Federal Acquisition Regulation.
 - **(d)** Not later than one year after December 23, 2022 , and annually thereafter, the Secretary shall provide to the Committee on Homeland Security, the Committee on Oversight and Reform, the Committee on Small Business, and the Committee on Appropriations of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs, the Committee on Small Business and Entrepreneurship, and the Committee on Appropriations of the Senate a briefing on instances in which vendors have failed to meet deadlines for delivery of covered items and corrective actions taken by the Department in response to such instances.
 - **(e)** This section applies with respect to a contract entered into by the Department or any frontline operational component on or after the date that is 180 days after December 23, 2022 .
+
+## Source Credit
+
+*([Pub. L. 107–296, title VIII, § 836](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 117–263, div. G, title LXXI, § 7112(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3628](https://www.govinfo.gov/link/statute/136/3628).)*

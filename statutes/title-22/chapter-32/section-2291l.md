@@ -3,9 +3,10 @@ title: "Section 2291l - Prioritization of efforts of the Department of State to 
 usc_title: 22
 usc_section: "2291l"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2291l"
-generated_at: "2026-03-30T02:55:05.354Z"
+generated_at: "2026-11-23T20:26:32.216Z"
+status: "active"
 ---
 
 # § 2291l. Prioritization of efforts of the Department of State to combat international trafficking in covered synthetic drugs
@@ -20,3 +21,15 @@ generated_at: "2026-03-30T02:55:05.354Z"
   - **(2)** In this subsection, the term “appropriate congressional committees” means—
     - **(A)** the Committee on Foreign Relations, the Committee on Appropriations, and the Committee on the Judiciary of the Senate; and
     - **(B)** the Committee on Foreign Affairs, the Committee on Appropriations, and the Committee on the Judiciary of the House of Representatives.
+
+“In this subtitle [subtitle C (§§ 5551–5558) of title LV of div. E of Pub. L. 117–263 , see Short Title of 2022 Amendment note set out under section 2151 of this title ]:
+
+Controlled substance; controlled substance analogue
+
+Covered synthetic drug
+
+New psychoactive substance
+
+## Source Credit
+
+*([Pub. L. 117–263, div. E, title LV, § 5552](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3341](https://www.govinfo.gov/link/statute/136/3341).)*

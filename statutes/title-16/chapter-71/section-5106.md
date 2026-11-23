@@ -3,9 +3,10 @@ title: "Section 5106 - Secretarial action"
 usc_title: 16
 usc_section: "5106"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 5106"
-generated_at: "2026-03-30T02:54:23.050Z"
+generated_at: "2026-11-23T20:26:20.763Z"
+status: "active"
 ---
 
 # § 5106. Secretarial action
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:54:23.050Z"
   - **(1)** Any vessel (including its gear, equipment, appurtenances, stores, and cargo) used, and any fish (or the fair market value thereof) taken or retained, in any manner, in connection with, or as the result of, the commission of any act that is unlawful under subsection (e), shall be subject to forfeiture to the United States as provided in section 310 of the Magnuson-Stevens Fishery Conservation and Management Act ( 16 U.S.C. 1860 ).
   - **(2)** Any fish seized pursuant to this chapter may be disposed of pursuant to the order of a court of competent jurisdiction or, if perishable, in a manner prescribed in regulation.
 - **(h)** A person authorized by the Secretary or the Secretary of the department in which the Coast Guard is operating may take any action to enforce a moratorium declared under subsection (c) of this section that an officer authorized by the Secretary under section 311(b) of the Magnuson-Stevens Fishery Conservation and Management Act ( 16 U.S.C. 1861(b) ) may take to enforce that Act [ 16 U.S.C. 1801 et seq.]. The Secretary may, by agreement, on a reimbursable basis or otherwise, utilize the personnel, services, equipment (including aircraft and vessels), and facilities of any other Federal department or agency and of any agency of a State in carrying out that enforcement.
+
+## Source Credit
+
+*([Pub. L. 103–206, title VIII, § 807](https://www.govinfo.gov/link/plaw/103/public/206), Dec. 20, 1993, [107 Stat. 2451](https://www.govinfo.gov/link/statute/107/2451); [Pub. L. 106–555, title I, § 122(b)(3)](https://www.govinfo.gov/link/plaw/106/public/555), Dec. 21, 2000, [114 Stat. 2766](https://www.govinfo.gov/link/statute/114/2766).)*

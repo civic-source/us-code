@@ -3,9 +3,10 @@ title: "Section 16157 - Demonstration"
 usc_title: 42
 usc_section: "16157"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16157"
-generated_at: "2026-03-30T02:56:11.470Z"
+generated_at: "2026-11-23T20:27:23.618Z"
+status: "active"
 ---
 
 # § 16157. Demonstration
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:56:11.470Z"
   - **(4)** $300,000,000 for fiscal year 2009;
   - **(5)** $375,000,000 for fiscal year 2010; and
   - **(6)** such sums as are necessary for each of fiscal years 2011 through 2020.
+
+## Source Credit
+
+*([Pub. L. 109–58, title VIII, § 808](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 850](https://www.govinfo.gov/link/statute/119/850).)*

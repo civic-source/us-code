@@ -3,9 +3,10 @@ title: "Section 1119 - Foreign murder of United States nationals"
 usc_title: 18
 usc_section: "1119"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 1119"
-generated_at: "2026-03-30T02:54:16.482Z"
+generated_at: "2026-11-23T20:26:08.467Z"
+status: "active"
 ---
 
 # § 1119. Foreign murder of United States nationals
@@ -15,3 +16,13 @@ generated_at: "2026-03-30T02:54:16.482Z"
 - **(c)**
   - **(1)** No prosecution may be instituted against any person under this section except upon the written approval of the Attorney General, the Deputy Attorney General, or an Assistant Attorney General, which function of approving prosecutions may not be delegated. No prosecution shall be approved if prosecution has been previously undertaken by a foreign country for the same conduct.
   - **(2)** No prosecution shall be approved under this section unless the Attorney General, in consultation with the Secretary of State, determines that the conduct took place in a country in which the person is no longer present, and the country lacks the ability to lawfully secure the person’s return. A determination by the Attorney General under this paragraph is not subject to judicial review.
+
+Definition
+
+Offense
+
+Limitations on Prosecution
+
+## Source Credit
+
+*(Added [Pub. L. 103–322, title VI, § 60009(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1972](https://www.govinfo.gov/link/statute/108/1972).)*

@@ -3,9 +3,10 @@ title: "Section 2507d - Establishment of Sexual Assault Advisory Council"
 usc_title: 22
 usc_section: "2507d"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2507d"
-generated_at: "2026-03-30T02:55:05.371Z"
+generated_at: "2026-11-23T20:26:32.317Z"
+status: "active"
 ---
 
 # § 2507d. Establishment of Sexual Assault Advisory Council
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.371Z"
 - **(e)** Members of the Council shall not be considered employees of the United States Government for any purpose and shall not receive compensation other than reimbursement of travel expenses and per diem allowance in accordance with section 5703 of title 5 .
 - **(f)** Chapter 10 of title 5 shall not apply to the Council.
 - **(g)** This section shall cease to be effective on October 1, 2023 .
+
+## Source Credit
+
+*([Pub. L. 87–293, title I, § 8D](https://www.govinfo.gov/link/plaw/87/public/293), as added [Pub. L. 112–57, § 2](https://www.govinfo.gov/link/plaw/112/public/57), Nov. 21, 2011, [125 Stat. 740](https://www.govinfo.gov/link/statute/125/740); amended [Pub. L. 115–256, title III, § 305](https://www.govinfo.gov/link/plaw/115/public/256), Oct. 9, 2018, [132 Stat. 3658](https://www.govinfo.gov/link/statute/132/3658); [Pub. L. 117–286, § 4(a)(168)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4324](https://www.govinfo.gov/link/statute/136/4324).)*

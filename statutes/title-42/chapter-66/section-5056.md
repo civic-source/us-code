@@ -3,9 +3,10 @@ title: "Section 5056 - Evaluation of programs and projects"
 usc_title: 42
 usc_section: "5056"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5056"
-generated_at: "2026-03-30T02:56:11.214Z"
+generated_at: "2026-11-23T20:27:22.442Z"
+status: "active"
 ---
 
 # § 5056. Evaluation of programs and projects
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.214Z"
     - **(C)** a review of the effect that participation by volunteers who do not receive such stipend have on the administration of such programs; and
   - **(3)** submit to the authorizing committees a report summarizing in detail the results of the evaluations made under paragraphs (1) and (2).
 - **(g)** The Director is authorized to use such sums as are required, but not to exceed 1 per centum of the funds appropriated under this chapter, to conduct program and project evaluations (directly, or by grants or contracts) as required by this chapter. In the case of allotments from such an appropriation, the amount available for such allotments (and the amount deemed appropriate therefor) shall be reduced accordingly.
+
+## Source Credit
+
+*([Pub. L. 93–113, title IV, § 416](https://www.govinfo.gov/link/plaw/93/public/113), Oct. 1, 1973, [87 Stat. 412](https://www.govinfo.gov/link/statute/87/412); [Pub. L. 98–288, § 23](https://www.govinfo.gov/link/plaw/98/public/288), May 21, 1984, [98 Stat. 195](https://www.govinfo.gov/link/statute/98/195); [Pub. L. 99–551, § 8](https://www.govinfo.gov/link/plaw/99/public/551), Oct. 27, 1986, [100 Stat. 3075](https://www.govinfo.gov/link/statute/100/3075); [Pub. L. 101–204, title IV, § 402](https://www.govinfo.gov/link/plaw/101/public/204), Dec. 7, 1989, [103 Stat. 1815](https://www.govinfo.gov/link/statute/103/1815); [Pub. L. 103–82, title IV, § 405(a)(9)](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 920](https://www.govinfo.gov/link/statute/107/920); [Pub. L. 111–13, title II, § 2153](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1591](https://www.govinfo.gov/link/statute/123/1591).)*

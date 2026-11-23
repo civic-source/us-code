@@ -3,9 +3,10 @@ title: "Section 273 - Professional responsibility and quality review"
 usc_title: 6
 usc_section: "273"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 273"
-generated_at: "2026-03-30T02:53:09.455Z"
+generated_at: "2026-11-23T20:25:34.687Z"
+status: "active"
 ---
 
 # § 273. Professional responsibility and quality review
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:09.455Z"
   - **(1)** the accuracy of the findings of fact and conclusions of law used in rendering the decision;
   - **(2)** any fraud or misrepresentation associated with the decision; and
   - **(3)** the efficiency with which the decision was rendered.
+
+## Source Credit
+
+*([Pub. L. 107–296, title IV, § 453](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2199](https://www.govinfo.gov/link/statute/116/2199).)*

@@ -3,9 +3,10 @@ title: "Section 4662 - Definitions and special rules"
 usc_title: 26
 usc_section: "4662"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 4662"
-generated_at: "2026-03-30T02:55:27.804Z"
+generated_at: "2026-11-23T20:26:46.332Z"
+status: "active"
 ---
 
 # § 4662. Definitions and special rules
@@ -118,3 +119,11 @@ generated_at: "2026-03-30T02:55:27.804Z"
     - **(B)** the person exporting the taxable chemical or taxable substance provides such information as the Secretary may require in such regulations.
   - **(4)** The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection.
 - **(f)** The provisions of subsections (a)(3) and (b)(3) of section 7652 shall not apply to any tax imposed by section 4661.
+
+In general
+
+Waiver of limitation
+
+## Source Credit
+
+*(Added [Pub. L. 96–510, title II, § 211(a)](https://www.govinfo.gov/link/plaw/96/public/510), Dec. 11, 1980, [94 Stat. 2799](https://www.govinfo.gov/link/statute/94/2799); amended [Pub. L. 98–369, div. A, title X, § 1019(a)](https://www.govinfo.gov/link/plaw/98/public/369) –(c), July 18, 1984, [98 Stat. 1022–1024](https://www.govinfo.gov/link/statute/98/1022); [Pub. L. 99–499, title V, § 513(b)](https://www.govinfo.gov/link/plaw/99/public/499) –(g), Oct. 17, 1986, [100 Stat. 1762–1765](https://www.govinfo.gov/link/statute/100/1762); [Pub. L. 100–647, title II, § 2001(a)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3593](https://www.govinfo.gov/link/statute/102/3593); [Pub. L. 106–170, title V, § 532(c)(2)(U)](https://www.govinfo.gov/link/plaw/106/public/170), Dec. 17, 1999, [113 Stat. 1931](https://www.govinfo.gov/link/statute/113/1931).)*

@@ -3,9 +3,10 @@ title: "Section 28 - Coverage of dependent students on medically necessary leave
 usc_title: 42
 usc_section: "28"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 28"
-generated_at: "2026-03-30T02:56:10.835Z"
+generated_at: "2026-11-23T20:27:20.658Z"
+status: "active"
 ---
 
 # § 300gg–28. Coverage of dependent students on medically necessary leave of absence
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:10.835Z"
   - **(1)** a dependent child of a participant or beneficiary is in a period of coverage under a group health plan or individual health insurance coverage, pursuant to a medically necessary leave of absence of the child described in subsection (b);
   - **(2)** the manner in which the participant or beneficiary is covered under the plan changes, whether through a change in health insurance coverage or health insurance issuer, a change between health insurance coverage and self-insured coverage, or otherwise; and
   - **(3)** the coverage as so changed continues to provide coverage of beneficiaries as dependent children,
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXVII, § 2728, formerly § 2707, as added [Pub. L. 110–381, § 2(b)(1)](https://www.govinfo.gov/link/plaw/110/public/381), Oct. 9, 2008, [122 Stat. 4083](https://www.govinfo.gov/link/statute/122/4083); renumbered § 2728 and amended [Pub. L. 111–148, title I](https://www.govinfo.gov/link/plaw/111/public/148), §§ 1001(2), 1563(c)(6), formerly § 1562(c)(6), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 130](https://www.govinfo.gov/link/statute/124/130), 266, 911.)*

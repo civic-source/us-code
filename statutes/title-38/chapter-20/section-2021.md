@@ -3,9 +3,10 @@ title: "Section 2021 - Homeless veterans reintegration programs"
 usc_title: 38
 usc_section: "2021"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 2021"
-generated_at: "2026-03-30T02:55:53.493Z"
+generated_at: "2026-11-23T20:27:01.764Z"
+status: "active"
 ---
 
 # § 2021. Homeless veterans reintegration programs
@@ -74,3 +75,25 @@ generated_at: "2026-03-30T02:55:53.493Z"
     - **(F)** $50,000,000 for each of fiscal years 2007 through 2023.
     - **(G)** $60,000,000 for fiscal year 2024 and each fiscal year thereafter.
   - **(2)** Funds appropriated to carry out this section shall remain available until expended. Funds obligated in any fiscal year to carry out this section may be expended in that fiscal year and the succeeding fiscal year.
+
+In General
+
+Grants
+
+Training and Technical Assistance
+
+Requirement to Monitor Expenditures of Funds
+
+Administration Through Assistant Secretary of Labor for Veterans’ Employment and Training
+
+Provision of Services to Veterans in Certain Institutions
+
+Report on Services Provided
+
+Reports to Congress
+
+Authorization of Appropriations
+
+## Source Credit
+
+*(Added [Pub. L. 107–95, § 5(a)(1)](https://www.govinfo.gov/link/plaw/107/public/95), Dec. 21, 2001, [115 Stat. 909](https://www.govinfo.gov/link/statute/115/909); amended [Pub. L. 109–233, title II, § 203](https://www.govinfo.gov/link/plaw/109/public/233), June 15, 2006, [120 Stat. 404](https://www.govinfo.gov/link/statute/120/404); [Pub. L. 111–275, title II, § 201](https://www.govinfo.gov/link/plaw/111/public/275), Oct. 13, 2010, [124 Stat. 2873](https://www.govinfo.gov/link/statute/124/2873); [Pub. L. 112–37, § 10(b)](https://www.govinfo.gov/link/plaw/112/public/37), Oct. 5, 2011, [125 Stat. 396](https://www.govinfo.gov/link/statute/125/396); [Pub. L. 112–154, title III, § 305(b)](https://www.govinfo.gov/link/plaw/112/public/154), Aug. 6, 2012, [126 Stat. 1187](https://www.govinfo.gov/link/statute/126/1187); [Pub. L. 113–37, § 2(e)(1)](https://www.govinfo.gov/link/plaw/113/public/37), Sept. 30, 2013, [127 Stat. 524](https://www.govinfo.gov/link/statute/127/524); [Pub. L. 113–175, title II, § 202](https://www.govinfo.gov/link/plaw/113/public/175), Sept. 26, 2014, [128 Stat. 1904](https://www.govinfo.gov/link/statute/128/1904); [Pub. L. 114–58, title III, § 301](https://www.govinfo.gov/link/plaw/114/public/58), Sept. 30, 2015, [129 Stat. 533](https://www.govinfo.gov/link/statute/129/533); [Pub. L. 114–228, title III, § 301](https://www.govinfo.gov/link/plaw/114/public/228), Sept. 29, 2016, [130 Stat. 938](https://www.govinfo.gov/link/statute/130/938); [Pub. L. 115–62, title III, § 301](https://www.govinfo.gov/link/plaw/115/public/62), Sept. 29, 2017, [131 Stat. 1163](https://www.govinfo.gov/link/statute/131/1163); [Pub. L. 115–251, title I, § 141](https://www.govinfo.gov/link/plaw/115/public/251), Sept. 29, 2018, [132 Stat. 3170](https://www.govinfo.gov/link/statute/132/3170); [Pub. L. 115–407, title VII, § 701](https://www.govinfo.gov/link/plaw/115/public/407), Dec. 31, 2018, [132 Stat. 5381](https://www.govinfo.gov/link/statute/132/5381); [Pub. L. 116–159, div. E, title III, § 5301](https://www.govinfo.gov/link/plaw/116/public/159), Oct. 1, 2020, [134 Stat. 750](https://www.govinfo.gov/link/statute/134/750); [Pub. L. 116–315, title IV, § 4205(b)](https://www.govinfo.gov/link/plaw/116/public/315), Jan. 5, 2021, [134 Stat. 5014](https://www.govinfo.gov/link/statute/134/5014); [Pub. L. 117–180, div. E, title III, § 301](https://www.govinfo.gov/link/plaw/117/public/180), Sept. 30, 2022, [136 Stat. 2138](https://www.govinfo.gov/link/statute/136/2138); [Pub. L. 117–328, div. U, title III, § 303(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5467](https://www.govinfo.gov/link/statute/136/5467).)*

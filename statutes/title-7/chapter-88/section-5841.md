@@ -3,9 +3,10 @@ title: "Section 5841 - Establishment, purpose, and functions of National Genetic
 usc_title: 7
 usc_section: "5841"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 5841"
-generated_at: "2026-03-30T02:53:42.419Z"
+generated_at: "2026-11-23T20:25:41.661Z"
+status: "active"
 ---
 
 # § 5841. Establishment, purpose, and functions of National Genetic Resources Program
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:42.419Z"
   - **(5)** expand the types of genetic resources included in the program to develop a comprehensive genetic resources program which includes plants (including silvicultural species), animal, aquatic, insect, microbiological, and other types of genetic resources of importance to food and agriculture, as resources permit;
   - **(6)** develop and implement a national strategic germplasm and cultivar collection assessment and utilization plan that takes into consideration the resources and research necessary to address the significant backlog of characterization and maintenance of existing accessions considered to be critical to preserve the viability of, and public access to, germplasm and cultivars; and
   - **(7)** engage in such other activities as the Secretary determines appropriate and as the resources of the program permit.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XVI, § 1632](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3744](https://www.govinfo.gov/link/statute/104/3744); [Pub. L. 104–127, title VIII, § 832(a)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1168](https://www.govinfo.gov/link/statute/110/1168); [Pub. L. 115–334, title VII, § 7205(a)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4803](https://www.govinfo.gov/link/statute/132/4803).)*

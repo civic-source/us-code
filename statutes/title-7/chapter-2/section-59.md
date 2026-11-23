@@ -3,9 +3,10 @@ title: "Section 59 - Offenses in relation to cotton standards"
 usc_title: 7
 usc_section: "59"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 59"
-generated_at: "2026-03-30T02:53:42.252Z"
+generated_at: "2026-11-23T20:25:40.897Z"
+status: "active"
 ---
 
 # § 59. Offenses in relation to cotton standards
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:42.252Z"
 - **(b)** without the written authority of the Secretary of Agriculture, to make, alter, tamper with, or in any respect change any practical form or copy of any standard established under this chapter; or
 - **(c)** to display or use any such practical form or copy after the Secretary of Agriculture shall have caused it to be condemned.
 
+
+## Source Credit
+
+*(Mar. 4, 1923, ch. 288, § 8, [42 Stat. 1519](https://www.govinfo.gov/link/statute/42/1519).)*

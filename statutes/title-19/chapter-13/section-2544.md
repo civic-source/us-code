@@ -3,9 +3,10 @@ title: "Section 2544 - Standards information center"
 usc_title: 19
 usc_section: "2544"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2544"
-generated_at: "2026-03-30T02:54:24.679Z"
+generated_at: "2026-11-23T20:26:10.994Z"
+status: "active"
 ---
 
 # § 2544. Standards information center
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:24.679Z"
     - **(C)** the determination of the levels of protection that a Federal agency or an agency of a State or local government considers appropriate; and
     - **(D)** the membership and participation of the Federal Government and State and local governments in international and regional sanitary and phytosanitary organizations and systems, and in bilateral and multilateral arrangements regarding sanitary and phytosanitary measures, and the provisions of those systems and arrangements.
   - **(2)** The definitions in section 2575b of this title apply for purposes of this subsection.
+
+## Source Credit
+
+*([Pub. L. 96–39, title IV, § 414](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 245](https://www.govinfo.gov/link/statute/93/245); [Pub. L. 103–465, title III, § 351(d)](https://www.govinfo.gov/link/plaw/103/public/465), title IV, § 431(a), Dec. 8, 1994, [108 Stat. 4956](https://www.govinfo.gov/link/statute/108/4956), 4966; [Pub. L. 104–295, § 20(c)(15)](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3529](https://www.govinfo.gov/link/statute/110/3529).)*

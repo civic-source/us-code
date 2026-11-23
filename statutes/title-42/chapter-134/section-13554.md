@@ -3,9 +3,10 @@ title: "Section 13554 - Tar sands"
 usc_title: 42
 usc_section: "13554"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13554"
-generated_at: "2026-03-30T02:56:11.448Z"
+generated_at: "2026-11-23T20:27:23.508Z"
+status: "active"
 ---
 
 # § 13554. Tar sands
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.448Z"
   - **(2)** Nothing in this section is intended or shall be construed to affect in any way the definition of the term tar sands under any other provision of Federal law.
 - **(c)** The Secretary, in consultation with the Secretary of the Interior, shall submit a study to the House of Representatives and the Committee on Energy and Natural Resources of the Senate within one year after October 24, 1992 . Such study shall identify and evaluate the development potential of sources of tar sands in the United States. The study shall also identify and evaluate processes for extracting oil from the identified tar sand sources, including existing tar sands waste tailings, and evaluate the environmental benefits of, and the potential for co-production of minerals and metals from, such processes.
 - **(d)** There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1993 and 1994 to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XXX, § 3016](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3129](https://www.govinfo.gov/link/statute/106/3129).)*

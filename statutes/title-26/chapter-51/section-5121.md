@@ -3,9 +3,10 @@ title: "Section 5121 - Recordkeeping by wholesale dealers"
 usc_title: 26
 usc_section: "5121"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 5121"
-generated_at: "2026-03-30T02:55:27.820Z"
+generated_at: "2026-11-23T20:26:46.412Z"
+status: "active"
 ---
 
 # § 5121. Recordkeeping by wholesale dealers
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:27.820Z"
   - **(1)** For provisions requiring proprietors of distilled spirits plants to keep records and submit reports of receipts and dispositions of distilled spirits, see section 5207.
   - **(2)** For penalty for violation of subsection (a), see section 5603.
   - **(3)** For provisions relating to the preservation and inspection of records, and entry of premises for inspection, see section 5123.
+
+## Source Credit
+
+*(Added [Pub. L. 85–859, title II, § 201](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1342](https://www.govinfo.gov/link/statute/72/1342), § 5114; amended [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1905(c)(1), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1823](https://www.govinfo.gov/link/statute/90/1823), 1834; renumbered § 5121 and amended [Pub. L. 109–59, title XI, § 11125(b)(5)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1954](https://www.govinfo.gov/link/statute/119/1954); [Pub. L. 110–172, § 11(a)(31)](https://www.govinfo.gov/link/plaw/110/public/172), Dec. 29, 2007, [121 Stat. 2487](https://www.govinfo.gov/link/statute/121/2487).)*

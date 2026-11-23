@@ -3,9 +3,10 @@ title: "Section 16298 - Carbon utilization program"
 usc_title: 42
 usc_section: "16298"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16298"
-generated_at: "2026-03-30T02:56:11.480Z"
+generated_at: "2026-11-23T20:27:23.660Z"
+status: "active"
 ---
 
 # § 16298. Carbon utilization program
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:11.480Z"
   - **(3)** have 1 or more existing partnerships with a National Laboratory, an institution of higher education, a private company, or a State or other government entity.
 - **(d)** The Secretary shall coordinate the activities authorized under this section with the activities authorized in section 16298a of this title as part of a single consolidated program of the Department.
 - **(e)** There is authorized to be appropriated to the Secretary to carry out this section $50,000,000, to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 969](https://www.govinfo.gov/link/plaw/109/public/58), as added [Pub. L. 116–260, div. S, § 102(c)(1)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2248](https://www.govinfo.gov/link/statute/134/2248).)*

@@ -3,9 +3,10 @@ title: "Section 1107 - Notice of use of an investigational new drug or a drug un
 usc_title: 10
 usc_section: "1107"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1107"
-generated_at: "2026-03-30T02:53:38.108Z"
+generated_at: "2026-11-23T20:25:51.246Z"
+status: "active"
 ---
 
 # § 1107. Notice of use of an investigational new drug or a drug unapproved for its applied use
@@ -35,3 +36,37 @@ generated_at: "2026-03-30T02:53:38.108Z"
 - **(g)** In this section:
   - **(1)** The term “investigational new drug” means a drug covered by section 505(i) of the Federal Food, Drug, and Cosmetic Act ( 21 U.S.C. 355(i) ).
   - **(2)** The term “drug unapproved for its applied use” means a drug administered for a use not described in the approved labeling of the drug under section 505 of the Federal Food, Drug, and Cosmetic Act ( 21 U.S.C. 355 ).
+
+Notice Required
+
+Time of Notice
+
+Form of Notice
+
+Content of Notice
+
+Records of Use
+
+Limitation and Waiver
+
+Definitions
+
+“A waiver of the requirement for prior consent imposed under the regulations required under paragraph (4) of section 505(i) of the Federal Food, Drug, and Cosmetic Act [ 21 U.S.C. 355(i)(4) ] (or under any antecedent provision of law or regulations) that has been granted under that section (or antecedent provision of law or regulations) before the date of the enactment of this Act [ Oct. 17, 1998 ] for the administration of a drug to a member of the Armed Forces in connection with the member’s participation in a particular military operation may be applied in that case after that date only if—
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+William J. Clinton.
+
+## Source Credit
+
+*(Added [Pub. L. 105–85, div. A, title VII, § 766(a)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1827](https://www.govinfo.gov/link/statute/111/1827); amended [Pub. L. 105–261, div. A, title VII, § 731(a)(1)](https://www.govinfo.gov/link/plaw/105/public/261), (b), Oct. 17, 1998, [112 Stat. 2070](https://www.govinfo.gov/link/statute/112/2070), 2071; [Pub. L. 106–65, div. A, title X, § 1067(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 774](https://www.govinfo.gov/link/statute/113/774); [Pub. L. 108–136, div. A, title X, § 1043(b)(7)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1611](https://www.govinfo.gov/link/statute/117/1611); [Pub. L. 108–375, div. A, title VII, § 726(a)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1992](https://www.govinfo.gov/link/statute/118/1992).)*

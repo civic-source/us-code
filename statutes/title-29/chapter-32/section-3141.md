@@ -3,9 +3,10 @@ title: "Section 3141 - Performance accountability system"
 usc_title: 29
 usc_section: "3141"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3141"
-generated_at: "2026-03-30T02:55:18.751Z"
+generated_at: "2026-11-23T20:26:38.091Z"
+status: "active"
 ---
 
 # § 3141. Performance accountability system
@@ -126,3 +127,11 @@ generated_at: "2026-03-30T02:55:18.751Z"
   - **(1)** Using funds authorized under a core program and made available to carry out this subpart, the Governor, in coordination with the State board, the State agencies administering the core programs, local boards, and chief elected officials in the State, shall establish and operate a fiscal and management accountability information system based on guidelines established by the Secretary of Labor and the Secretary of Education after consultation with the Governors of States, chief elected officials, and one-stop partners. Such guidelines shall promote efficient collection and use of fiscal and management information for reporting and monitoring the use of funds authorized under the core programs and for preparing the annual report described in subsection (d).
   - **(2)** In measuring the progress of the State on State and local performance accountability measures, a State shall utilize quarterly wage records, consistent with State law. The Secretary of Labor shall make arrangements, consistent with State law, to ensure that the wage records of any State are available to any other State to the extent that such wage records are required by the State in carrying out the State plan of the State or completing the annual report described in subsection (d).
   - **(3)** In carrying out the requirements of this Act, the State shall comply with section 1232g of title 20 .
+
+(aa) the differences among States in actual economic conditions (including differences in unemployment rates and job losses or gains in particular industries); and
+
+(bb) the characteristics of participants when the participants entered the program involved, including indicators of poor work history, lack of work experience, lack of educational or occupational skills attainment, dislocation from high-wage and high-benefit employment, low levels of literacy or English proficiency, disability status, homelessness, ex-offender status, and welfare dependency;
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 116](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1471](https://www.govinfo.gov/link/statute/128/1471); [Pub. L. 114–18, § 2(c)](https://www.govinfo.gov/link/plaw/114/public/18), May 22, 2015, [129 Stat. 213](https://www.govinfo.gov/link/statute/129/213).)*

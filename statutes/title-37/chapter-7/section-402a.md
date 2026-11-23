@@ -3,9 +3,10 @@ title: "Section 402a - Supplemental subsistence allowance for low-income members
 usc_title: 37
 usc_section: "402a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "37 U.S.C. § 402a"
-generated_at: "2026-03-30T02:55:44.056Z"
+generated_at: "2026-11-23T20:26:57.383Z"
+status: "active"
 ---
 
 # § 402a. Supplemental subsistence allowance for low-income members with dependents
@@ -44,3 +45,21 @@ generated_at: "2026-03-30T02:55:44.056Z"
     - **(B)** the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy.
   - **(2)** The terms “allotment” and “household” have the meanings given those terms in section 3 of the Food and Nutrition Act of 2008 ( 7 U.S.C. 2012 ).
   - **(3)** The term “supplemental nutrition assistance program” means the program established pursuant to section 4 of the Food and Nutrition Act of 2008 ( 7 U.S.C. 2013 ).
+
+Supplemental Allowance Required
+
+Members Entitled to Allowance
+
+Application for Allowance
+
+Effective Period
+
+Reapplication
+
+Eligibility for Other Federal Assistance
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title VI, § 604(a)(1)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–145; amended [Pub. L. 107–107, div. A, title VI, § 604(d)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1134](https://www.govinfo.gov/link/statute/115/1134); [Pub. L. 107–296, title XVII, § 1704(c)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314); [Pub. L. 108–375, div. A, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/108/public/375), (b), Oct. 28, 2004, [118 Stat. 1943](https://www.govinfo.gov/link/statute/118/1943); [Pub. L. 109–163, div. A, title VI, § 608](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3289](https://www.govinfo.gov/link/statute/119/3289); [Pub. L. 109–364, div. A, title X, § 1071(c)(6)](https://www.govinfo.gov/link/plaw/109/public/364), (e)(4), Oct. 17, 2006, [120 Stat. 2401](https://www.govinfo.gov/link/statute/120/2401); [Pub. L. 110–234, title IV, § 4002(b)(1)(A)](https://www.govinfo.gov/link/plaw/110/public/234), (B), (2)(T), May 22, 2008, [122 Stat. 1095–1097](https://www.govinfo.gov/link/statute/122/1095); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, § 4002(b)(1)(A), (B), (2)(T), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1857, 1858; [Pub. L. 111–84, div. A, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2347](https://www.govinfo.gov/link/statute/123/2347); [Pub. L. 112–81, div. A, title X, § 1063(a)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1586](https://www.govinfo.gov/link/statute/125/1586); [Pub. L. 114–92, div. A, title VI, § 602](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 836](https://www.govinfo.gov/link/statute/129/836); [Pub. L. 114–328, div. A, title VI, § 618(h)(2)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2160](https://www.govinfo.gov/link/statute/130/2160).)*

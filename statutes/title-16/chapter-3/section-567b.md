@@ -3,9 +3,10 @@ title: "Section 567b - Conditions and requirements for cooperation in acquisitio
 usc_title: 16
 usc_section: "567b"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 567b"
-generated_at: "2026-03-30T02:54:22.877Z"
+generated_at: "2026-11-23T20:26:20.153Z"
+status: "active"
 ---
 
 # § 567b. Conditions and requirements for cooperation in acquisition and management of State forests
@@ -23,3 +24,7 @@ No cooperative agreement shall be entered into or continued in force under the a
 - **(i)** Upon the request of the State concerned, any agreement made pursuant to sections 567a to 567c of this title may be terminated by the Secretary of Agriculture. The Secretary of Agriculture may, with the consent and approval of the National Forest Reservation Commission, after due notice given the State and an opportunity for hearing by said Commission, terminate any such agreement for violations of its terms and/or the provisions of said sections of this title. If such agreement is terminated, the United States shall reimburse the State for so much of the State funds as have been expended in the administration, development, and management of the lands involved as the Secretary of Agriculture may decide to be fair and equitable.
 - **(j)** The State shall furnish the Secretary of Agriculture with such annual, periodic, or special reports as he may require respecting the State’s operations under its agreement with him.
 - **(k)** When a State or political unit thereof acquires under tax delinquency laws title to forest lands without cost to the United States and which lands are included within a State or other public forest, the Secretary of Agriculture, on behalf of the Federal Government, may contribute annually out of any funds made available under sections 567a to 567c of this title not to exceed one-half the cost of administering, developing, and managing said lands.
+
+## Source Credit
+
+*(Aug. 29, 1935, ch. 808, § 2, [49 Stat. 963](https://www.govinfo.gov/link/statute/49/963).)*

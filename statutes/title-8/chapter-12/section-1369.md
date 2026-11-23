@@ -3,9 +3,10 @@ title: "Section 1369 - Treatment of expenses subject to emergency medical servic
 usc_title: 8
 usc_section: "1369"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1369"
-generated_at: "2026-03-30T02:53:10.498Z"
+generated_at: "2026-11-23T20:25:36.210Z"
+status: "active"
 ---
 
 # § 1369. Treatment of expenses subject to emergency medical services exception
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:10.498Z"
   - **(2)** serious impairment to bodily functions, or
   - **(3)** serious dysfunction of any bodily organ or part.
 - **(e)** Subsection (a) shall apply to medical assistance for care and treatment of an emergency medical condition furnished on or after January 1, 1997 .
+
+## Source Credit
+
+*([Pub. L. 104–208, div. C, title V, § 562](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–682](https://www.govinfo.gov/link/statute/110/3009).)*

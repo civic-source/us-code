@@ -3,9 +3,10 @@ title: "Section 2773a - Departmental accountable officials"
 usc_title: 10
 usc_section: "2773a"
 chapter: 165
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2773a"
-generated_at: "2026-03-30T02:53:38.175Z"
+generated_at: "2026-11-23T20:25:51.700Z"
+status: "active"
 ---
 
 # § 2773a. Departmental accountable officials
@@ -21,3 +22,15 @@ generated_at: "2026-03-30T02:53:38.175Z"
   - **(2)** Pecuniary liability under this subsection shall apply in the same manner and to the same extent as applies to an official accountable under subtitle III of title 31.
   - **(3)** Any pecuniary liability of a departmental accountable official under this subsection for a loss to the United States resulting from an illegal, improper, or incorrect payment is joint and several with that of any other officer or employee of the United States or member of the uniformed services who is pecuniarily liable for such loss.
 - **(d)** In this section, the term “certifying official” means an employee who has the responsibilities specified in section 3528(a) of title 31 .
+
+Designation by Secretary of Defense
+
+Covered Employees and Members
+
+Pecuniary Liability
+
+Certifying Official Defined
+
+## Source Credit
+
+*(Added [Pub. L. 107–314, div. A, title X, § 1005(a)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2631](https://www.govinfo.gov/link/statute/116/2631); amended [Pub. L. 109–163, div. A, title X, § 1056(c)(8)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3440](https://www.govinfo.gov/link/statute/119/3440).)*

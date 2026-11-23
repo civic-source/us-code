@@ -3,9 +3,10 @@ title: "Section 239e - Nuclear command, control, and communications: major force
 usc_title: 10
 usc_section: "239e"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 239e"
-generated_at: "2026-03-30T02:53:38.048Z"
+generated_at: "2026-11-23T20:25:50.888Z"
+status: "active"
 ---
 
 # § 239e. Nuclear command, control, and communications: major force program and budget assessment
@@ -24,3 +25,13 @@ generated_at: "2026-03-30T02:53:38.048Z"
   - **(1)** The term “budget”, with respect to a fiscal year, means the budget for that fiscal year that is submitted to Congress by the President under section 1105(a) of title 31 .
   - **(2)** The term “defense budget materials”, with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
   - **(3)** The term “nuclear command, control, and communications programs” means programs through which presidential authority and operational command and control of nuclear weapons is conducted, including programs that facilitate senior-level decisions on nuclear weapons employment.
+
+Establishment of Major Force Program
+
+Budget Assessment
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title XVI, § 1631](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 591](https://www.govinfo.gov/link/statute/137/591).)*

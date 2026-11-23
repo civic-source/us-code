@@ -3,9 +3,10 @@ title: "Section 727 - Discharge"
 usc_title: 11
 usc_section: "727"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 727"
-generated_at: "2026-03-30T02:53:53.882Z"
+generated_at: "2026-11-23T20:25:55.383Z"
+status: "active"
 ---
 
 # § 727. Discharge
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:53:53.882Z"
   - **(2)** under subsection (d)(2) or (d)(3) of this section before the later of—
     - **(A)** one year after the granting of such discharge; and
     - **(B)** the date the case is closed.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2609](https://www.govinfo.gov/link/statute/92/2609); [Pub. L. 98–353, title III, § 480](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 382](https://www.govinfo.gov/link/statute/98/382); [Pub. L. 99–554, title II](https://www.govinfo.gov/link/plaw/99/public/554), §§ 220, 257(s), Oct. 27, 1986, [100 Stat. 3101](https://www.govinfo.gov/link/statute/100/3101), 3116; [Pub. L. 109–8, title I, § 106(b)](https://www.govinfo.gov/link/plaw/109/public/8), title III, §§ 312(1), 330(a), title VI, § 603(d), Apr. 20, 2005, [119 Stat. 38](https://www.govinfo.gov/link/statute/119/38), 86, 101, 123.)*

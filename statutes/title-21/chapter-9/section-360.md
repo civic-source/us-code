@@ -3,9 +3,10 @@ title: "Section 360 - Registration of producers of drugs or devices"
 usc_title: 21
 usc_section: "360"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 360"
-generated_at: "2026-03-30T02:54:54.244Z"
+generated_at: "2026-11-23T20:26:27.623Z"
+status: "active"
 ---
 
 # § 360. Registration of producers of drugs or devices
@@ -138,3 +139,25 @@ generated_at: "2026-03-30T02:54:54.244Z"
     - **(B)** validation data, the types of which shall be specified by the Secretary;
   - **(2)** The Secretary shall revise the list under paragraph (2), 3 3 So in original. Probably should be “paragraph (1),”. as the Secretary determines appropriate, with notice in the Federal Register.
   - **(3)** Reports under subsection (k) that are submitted after the publication of the list described in paragraph (1), for devices or types of devices included on such list, shall include such instructions for use and validation data.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 510, as added [Pub. L. 87–781, title III, § 302](https://www.govinfo.gov/link/plaw/87/public/781), Oct. 10, 1962, [76 Stat. 794](https://www.govinfo.gov/link/statute/76/794); amended [Pub. L. 89–74, § 4](https://www.govinfo.gov/link/plaw/89/public/74), July 15, 1965, [79 Stat. 231](https://www.govinfo.gov/link/statute/79/231); [Pub. L. 91–513, title II, § 701(e)](https://www.govinfo.gov/link/plaw/91/public/513), Oct. 27, 1970, [84 Stat. 1282](https://www.govinfo.gov/link/statute/84/1282); [Pub. L. 92–387](https://www.govinfo.gov/link/plaw/92/public/387), §§ 3, 4(a)–(c), Aug. 16, 1972, [86 Stat. 560–562](https://www.govinfo.gov/link/statute/86/560); [Pub. L. 94–295, § 4(a)](https://www.govinfo.gov/link/plaw/94/public/295), May 28, 1976, [90 Stat. 579](https://www.govinfo.gov/link/statute/90/579); [Pub. L. 105–115, title I, § 125(a)(2)(C)](https://www.govinfo.gov/link/plaw/105/public/115), title II, §§ 206(a), 209(a), 213(b), title IV, § 417, Nov. 21, 1997, [111 Stat. 2325](https://www.govinfo.gov/link/statute/111/2325), 2338, 2341, 2347, 2379; [Pub. L. 107–188, title III, § 321(a)](https://www.govinfo.gov/link/plaw/107/public/188), June 12, 2002, [116 Stat. 675](https://www.govinfo.gov/link/statute/116/675); [Pub. L. 107–250, title II](https://www.govinfo.gov/link/plaw/107/public/250), §§ 201(e), 207, 211, title III, § 302(b), Oct. 26, 2002, [116 Stat. 1609](https://www.govinfo.gov/link/statute/116/1609), 1613, 1614, 1616; [Pub. L. 108–214, § 2(c)(2)](https://www.govinfo.gov/link/plaw/108/public/214), Apr. 1, 2004, [118 Stat. 576](https://www.govinfo.gov/link/statute/118/576); [Pub. L. 110–85, title II](https://www.govinfo.gov/link/plaw/110/public/85), §§ 222–224, title VIII, § 801(b)(3)(C), Sept. 27, 2007, [121 Stat. 853](https://www.govinfo.gov/link/statute/121/853), 921; [Pub. L. 112–144, title VI, § 604](https://www.govinfo.gov/link/plaw/112/public/144), title VII, §§ 701, 702(b)–705, July 9, 2012, [126 Stat. 1052](https://www.govinfo.gov/link/statute/126/1052), 1064–1066; [Pub. L. 114–255, div. A, title III](https://www.govinfo.gov/link/plaw/114/public/255), §§ 3054, 3059(a), 3101(a)(2)(H), Dec. 13, 2016, [130 Stat. 1126](https://www.govinfo.gov/link/statute/130/1126), 1130, 1154; [Pub. L. 115–52, title VII, § 701(a)](https://www.govinfo.gov/link/plaw/115/public/52), title IX, § 901(e), Aug. 18, 2017, [131 Stat. 1054](https://www.govinfo.gov/link/statute/131/1054), 1076; [Pub. L. 116–136, div. A, title III, § 3112(e)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 363](https://www.govinfo.gov/link/statute/134/363); [Pub. L. 117–328, div. FF, title II](https://www.govinfo.gov/link/plaw/117/public/328), §§ 2511(a), 2515(a)(3), title III, §§ 3308(b)(1), 3613(a), 3616(c), Dec. 29, 2022, [136 Stat. 5803](https://www.govinfo.gov/link/statute/136/5803), 5806, 5836, 5872, 5875.)*

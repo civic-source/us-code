@@ -3,9 +3,10 @@ title: "Section 5305b - Educational outreach program"
 usc_title: 16
 usc_section: "5305b"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 5305b"
-generated_at: "2026-03-30T02:54:23.051Z"
+generated_at: "2026-11-23T20:26:20.774Z"
+status: "active"
 ---
 
 # § 5305b. Educational outreach program
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:23.051Z"
   - **(1)** laws protecting rhinoceros and tiger species, in particular laws prohibiting trade in products containing, or labeled or advertised as containing, their parts;
   - **(2)** use of traditional medicines that contain parts or products of rhinoceros and tiger species, health risks associated with their use, and available alternatives to the medicines; and
   - **(3)** the status of rhinoceros and tiger species and the reasons for protecting the species.
+
+## Source Credit
+
+*([Pub. L. 103–391, § 8](https://www.govinfo.gov/link/plaw/103/public/391), as added [Pub. L. 105–312, title IV, § 406](https://www.govinfo.gov/link/plaw/105/public/312), Oct. 30, 1998, [112 Stat. 2961](https://www.govinfo.gov/link/statute/112/2961).)*

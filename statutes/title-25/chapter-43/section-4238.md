@@ -3,9 +3,10 @@ title: "Section 4238 - Monitoring of compliance"
 usc_title: 25
 usc_section: "4238"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 4238"
-generated_at: "2026-03-30T02:54:52.862Z"
+generated_at: "2026-11-23T20:26:25.699Z"
+status: "active"
 ---
 
 # § 4238. Monitoring of compliance
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:52.862Z"
     - **(A)** included in a performance report of the Director submitted to the Secretary under section 4239 of this title ; and
     - **(B)** made available to the public.
 - **(c)** The Secretary shall establish such performance measures as may be necessary to assess compliance with the requirements of this subchapter.
+
+## Source Credit
+
+*([Pub. L. 104–330, title VIII, § 819](https://www.govinfo.gov/link/plaw/104/public/330), as added [Pub. L. 106–568, title II, § 203](https://www.govinfo.gov/link/plaw/106/public/568), Dec. 27, 2000, [114 Stat. 2893](https://www.govinfo.gov/link/statute/114/2893), and [Pub. L. 106–569, title V, § 513](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 2987](https://www.govinfo.gov/link/statute/114/2987).)*

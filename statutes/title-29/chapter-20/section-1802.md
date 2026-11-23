@@ -3,9 +3,10 @@ title: "Section 1802 - Definitions"
 usc_title: 29
 usc_section: "1802"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1802"
-generated_at: "2026-03-30T02:55:18.739Z"
+generated_at: "2026-11-23T20:26:38.047Z"
+status: "active"
 ---
 
 # § 1802. Definitions
@@ -35,3 +36,7 @@ As used in this chapter—
       - **(iii)** any temporary nonimmigrant alien who is authorized to work in agricultural employment in the United States under sections 1101(a)(15)(H)(ii)(a) and 1184(c) of title 8.
   - **(11)** The term “Secretary” means the Secretary of Labor or the Secretary’s authorized representative.
   - **(12)** The term “State” means any of the States of the United States, the District of Columbia, the Virgin Islands, the Commonwealth of Puerto Rico, and Guam.
+
+## Source Credit
+
+*([Pub. L. 97–470, § 3](https://www.govinfo.gov/link/plaw/97/public/470), Jan. 14, 1983, [96 Stat. 2584](https://www.govinfo.gov/link/statute/96/2584); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 99–603, title I, § 101(b)(1)(A)](https://www.govinfo.gov/link/plaw/99/public/603), Nov. 6, 1986, [100 Stat. 3372](https://www.govinfo.gov/link/statute/100/3372).)*

@@ -3,9 +3,10 @@ title: "Section 6314 - Test procedures"
 usc_title: 42
 usc_section: "6314"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6314"
-generated_at: "2026-03-30T02:56:11.254Z"
+generated_at: "2026-11-23T20:27:22.650Z"
+status: "active"
 ---
 
 # § 6314. Test procedures
@@ -73,3 +74,21 @@ generated_at: "2026-03-30T02:56:11.254Z"
     - **(B)** in any broadcast advertisement,
   - **(2)** On the petition of any manufacturer, distributor, retailer, or private labeler, filed not later than the 60th day before the expiration of the period involved, the 180-day period referred to in paragraph (1) may be extended by the Secretary with respect to the petitioner (but in no event for more than an additional 180 days) if he finds that the requirements of paragraph (1) would impose on such petitioner an undue hardship (as determined by the Secretary).
 - **(e)** The Secretary may direct the National Institute of Standards and Technology to provide such assistance as the Secretary deems necessary to carry out his responsibilities under this part, including the development of test procedures.
+
+Test procedures.—
+
+Amendment
+
+Walk-in coolers and walk-in freezers.—
+
+In general
+
+Test procedure.—
+
+In general
+
+Computer modeling
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 343](https://www.govinfo.gov/link/plaw/94/public/163), as added [Pub. L. 95–619, title IV, § 441(a)](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3270](https://www.govinfo.gov/link/statute/92/3270); amended [Pub. L. 100–418, title V, § 5115(c)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1433](https://www.govinfo.gov/link/statute/102/1433); [Pub. L. 102–486, title I, § 122(b)](https://www.govinfo.gov/link/plaw/102/public/486), (f)(2), Oct. 24, 1992, [106 Stat. 2808](https://www.govinfo.gov/link/statute/106/2808), 2817; [Pub. L. 109–58, title I, § 136(f)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 641](https://www.govinfo.gov/link/statute/119/641); [Pub. L. 110–140, title III](https://www.govinfo.gov/link/plaw/110/public/140), §§ 302(b), 312(c), Dec. 19, 2007, [121 Stat. 1552](https://www.govinfo.gov/link/statute/121/1552), 1566; [Pub. L. 112–210, § 10(a)(2)](https://www.govinfo.gov/link/plaw/112/public/210), (c)(2), Dec. 18, 2012, [126 Stat. 1522](https://www.govinfo.gov/link/statute/126/1522), 1525.)*

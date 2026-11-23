@@ -3,9 +3,10 @@ title: "Section 4138 - Certain awards prohibited"
 usc_title: 50
 usc_section: "4138"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4138"
-generated_at: "2026-03-30T02:56:26.267Z"
+generated_at: "2026-11-23T20:27:31.075Z"
+status: "active"
 ---
 
 # § 4138. Certain awards prohibited
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:26.267Z"
   - **(2)** any claimant whose claim under this subchapter is within the scope of title III of the International Claims Settlement Act of 1949, as amended ( 69 Stat. 570 ) [ 22 U.S.C. 1641 et seq.], except any claimant whose award under section 303(1) of title III of the International Claims Settlement Act of 1949, as amended [ 22 U.S.C. 1641b(1) ], is recertified pursuant to subsection
 - **(b)** of section 4139 of this title .
 
+
+## Source Credit
+
+*(July 3, 1948, ch. 826, title II, § 208, as added [Pub. L. 87–846, title I, § 103](https://www.govinfo.gov/link/plaw/87/public/846), Oct. 22, 1962, [76 Stat. 1110](https://www.govinfo.gov/link/statute/76/1110).)*

@@ -3,9 +3,10 @@ title: "Section 7509 - Medical certification by trusted agents"
 usc_title: 46
 usc_section: "7509"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 7509"
-generated_at: "2026-03-30T02:56:15.550Z"
+generated_at: "2026-11-23T20:27:27.119Z"
+status: "active"
 ---
 
 # § 7509. Medical certification by trusted agents
@@ -17,3 +18,13 @@ generated_at: "2026-03-30T02:56:15.550Z"
   - **(1)** the Secretary of the department in which the Coast Guard is operating to issue medical certificates to mariners who submit applications for such certificates to the Secretary; and
   - **(2)** a trusted agent to defer to the Secretary the issuance of a medical certificate.
 - **(c)** In this section the term “trusted agent” means a medical practitioner certified by the Secretary to perform physical examinations of an individual for purposes of a license, certificate of registry, or merchant mariner’s document under this part.
+
+In General
+
+Process for Issuance of Certificates by Secretary
+
+Trusted Agent Defined
+
+## Source Credit
+
+*(Added [Pub. L. 114–120, title III, § 309(a)](https://www.govinfo.gov/link/plaw/114/public/120), Feb. 8, 2016, [130 Stat. 56](https://www.govinfo.gov/link/statute/130/56).)*

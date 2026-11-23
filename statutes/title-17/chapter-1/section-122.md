@@ -3,9 +3,10 @@ title: "Section 122 - Limitations on exclusive rights: Secondary transmissions o
 usc_title: 17
 usc_section: "122"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 122"
-generated_at: "2026-03-30T02:54:15.350Z"
+generated_at: "2026-11-23T20:26:06.507Z"
+status: "active"
 ---
 
 # § 122. Limitations on exclusive rights: Secondary transmissions of local television programming by satellite
@@ -78,3 +79,93 @@ generated_at: "2026-03-30T02:54:15.350Z"
   - **(7)** The term “television broadcast station”—
     - **(A)** means an over-the-air, commercial or noncommercial television broadcast station licensed by the Federal Communications Commission under subpart E of part 73 of title 47, Code of Federal Regulations, except that such term does not include a low-power or translator television station; and
     - **(B)** includes a television broadcast station licensed by an appropriate governmental authority of Canada or Mexico if the station broadcasts primarily in the English language and is a network station as defined in section 119(d)(2)(A).
+
+Secondary Transmissions Into Local Markets.—
+
+Secondary transmissions of television broadcast stations within a local market
+
+Significantly viewed stations.—
+
+In general
+
+Waiver
+
+Secondary transmission of low power programming.—
+
+In general
+
+No applicability to repeaters and translators
+
+No impact on other secondary transmissions obligations
+
+Special exceptions
+
+States with single full-power network station
+
+States with all network stations and non-network stations in same local market
+
+Additional stations
+
+Certain additional stations
+
+Networks of noncommercial educational broadcast stations
+
+Applicability of royalty rates and procedures
+
+Reporting Requirements.—
+
+Initial lists
+
+Subsequent lists
+
+Use of subscriber information
+
+Requirements of networks
+
+No Royalty Fee Required for Certain Secondary Transmissions
+
+Noncompliance With Reporting and Regulatory Requirements
+
+Willful Alterations
+
+Violation of Territorial Restrictions on Statutory License for Television Broadcast Stations.—
+
+Individual violations
+
+Pattern of violations
+
+Burden of Proof
+
+Geographic Limitations on Secondary Transmissions
+
+Exclusivity With Respect to Secondary Transmissions of Broadcast Stations by Satellite to Members of the Public
+
+Definitions
+
+Distributor
+
+Local market.—
+
+In general
+
+County of license
+
+Designated market area
+
+Certain areas outside of any designated market area
+
+Market determinations
+
+Low power television station
+
+Network station; non-network station; satellite carrier; secondary transmission
+
+Noncommercial educational broadcast station
+
+Subscriber
+
+Television broadcast station
+
+## Source Credit
+
+*(Added [Pub. L. 106–113, div. B, § 1000(a)(9) [title I, § 1002(a)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–523; amended [Pub. L. 107–273, div. C, title III, § 13210(2)(A)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1909](https://www.govinfo.gov/link/statute/116/1909); [Pub. L. 108–447, div. J, title IX](https://www.govinfo.gov/link/plaw/108/public/447) [title I, § 111(b)], Dec. 8, 2004, [118 Stat. 3409](https://www.govinfo.gov/link/statute/118/3409); [Pub. L. 110–403, title II, § 209(a)(5)](https://www.govinfo.gov/link/plaw/110/public/403), Oct. 13, 2008, [122 Stat. 4264](https://www.govinfo.gov/link/statute/122/4264); [Pub. L. 111–175, title I, § 103(a)(1)](https://www.govinfo.gov/link/plaw/111/public/175), (b)–(f), May 27, 2010, [124 Stat. 1227–1230](https://www.govinfo.gov/link/statute/124/1227); [Pub. L. 113–200, title II, § 204](https://www.govinfo.gov/link/plaw/113/public/200), Dec. 4, 2014, [128 Stat. 2067](https://www.govinfo.gov/link/statute/128/2067).)*

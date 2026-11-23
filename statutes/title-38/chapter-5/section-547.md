@@ -3,9 +3,10 @@ title: "Section 547 - Advisory Committee on Tribal and Indian Affairs"
 usc_title: 38
 usc_section: "547"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 547"
-generated_at: "2026-03-30T02:55:53.474Z"
+generated_at: "2026-11-23T20:27:01.574Z"
+status: "active"
 ---
 
 # § 547. Advisory Committee on Tribal and Indian Affairs
@@ -75,3 +76,33 @@ generated_at: "2026-03-30T02:55:53.474Z"
   - **(5)** The term “Office of Hawaiian Affairs” means the Office of Hawaiian Affairs established by the constitution of the State of Hawaii.
   - **(6)** The term “tribal organization” has the meaning given such term in section 3765 of this title .
   - **(7)** The term “urban Indian organization” has the meaning given such term in section 4 of the Indian Health Care Improvement Act ( 25 U.S.C. 1603 ).
+
+Establishment
+
+Membership
+
+Terms; Vacancies
+
+Meetings
+
+Subcommittees
+
+Duties
+
+Reports
+
+Committee Personnel Matters
+
+Federal Advisory Committee Act Exemption
+
+Definitions
+
+Deadline for Establishment
+
+Deadline for Initial Appointments
+
+Initial Meeting
+
+## Source Credit
+
+*(Added [Pub. L. 116–315, title VII, § 7002(a)(1)](https://www.govinfo.gov/link/plaw/116/public/315), Jan. 5, 2021, [134 Stat. 5054](https://www.govinfo.gov/link/statute/134/5054).)*

@@ -3,9 +3,10 @@ title: "Section 1120 - Presumption of service connection for certain diseases as
 usc_title: 38
 usc_section: "1120"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 1120"
-generated_at: "2026-03-30T02:55:53.477Z"
+generated_at: "2026-11-23T20:27:01.602Z"
+status: "active"
 ---
 
 # § 1120. Presumption of service connection for certain diseases associated with exposure to burn pits and other toxins
@@ -38,3 +39,15 @@ generated_at: "2026-03-30T02:55:53.477Z"
   - **(14)** Glioblastoma.
   - **(15)** Any other disease for which the Secretary determines, pursuant to regulations prescribed under subchapter VII that a presumption of service connection is warranted based on a positive association with a substance, chemical, or airborne hazard identified in the list under section 1119(b)(2) of this title .
 - **(c)** In this section, the term “covered veteran” has the meaning given that term in section 1119(c) of this title .
+
+Presumption of Service Connection
+
+Diseases Specified
+
+Covered Veteran Defined
+
+“The amendments made by this section [enacting this section and amending section 1113 of this title ] shall take effect on the date of the enactment of this Act [ Aug. 10, 2022 ] and shall apply as follows:
+
+## Source Credit
+
+*(Added [Pub. L. 117–168, title IV, § 406(b)](https://www.govinfo.gov/link/plaw/117/public/168), Aug. 10, 2022, [136 Stat. 1784](https://www.govinfo.gov/link/statute/136/1784); amended [Pub. L. 117–263, div. E, title LI, § 5124(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3211](https://www.govinfo.gov/link/statute/136/3211).)*

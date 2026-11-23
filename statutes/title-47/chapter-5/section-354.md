@@ -3,9 +3,10 @@ title: "Section 354 - Technical requirements of equipment on radiotelegraph equi
 usc_title: 47
 usc_section: "354"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 354"
-generated_at: "2026-03-30T02:56:24.512Z"
+generated_at: "2026-11-23T20:27:28.900Z"
+status: "active"
 ---
 
 # § 354. Technical requirements of equipment on radiotelegraph equipped ships
@@ -21,3 +22,7 @@ The radiotelegraph station and the radio direction finding apparatus required by
 - **(g)** The reserve installation shall include a source of electrical energy independent of the propelling power of the ship and of any other electrical system and shall be capable of being put into operation rapidly and of working for at least six continuous hours. The reserve source of energy and its switchboard shall be as high as practicable in the ship and readily accessible to the radio officer.
 - **(h)** There shall be provided between the bridge of the ship and the radiotelegraph operating room, and between the bridge and the location of the radio direction finding apparatus, when such apparatus is not located on the bridge, an efficient two-way system for calling and voice communication which shall be independent of any other communication system in the ship.
 - **(i)** The radio direction finding apparatus shall be efficient and capable of receiving signals with the minimum of receiver noise and of taking bearings from which the true bearing and direction may be determined. It shall be capable of receiving signals on the radio­telegraph frequencies assigned by the radio regulations annexed to the International Telecommunication Convention in force for the purposes of distress, direction finding, and maritime radio beacons, and, in installations made after May 26, 1965 , such other frequencies as the Commission may for safety purposes designate.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title III, § 355, formerly § 354, as added May 20, 1937, ch. 229, § 10(b), [50 Stat. 193](https://www.govinfo.gov/link/statute/50/193); amended 1946 Reorg. Plan No. 3, §§ 101–104, eff. July 16, 1946, 11 F.R. 7875, [60 Stat. 1097](https://www.govinfo.gov/link/statute/60/1097); renumbered § 355 and amended Aug. 13, 1954, ch. 729, § 2(a)(1), (c), [68 Stat. 706](https://www.govinfo.gov/link/statute/68/706); [Pub. L. 89–121, § 6](https://www.govinfo.gov/link/plaw/89/public/121), Aug. 13, 1965, [79 Stat. 514](https://www.govinfo.gov/link/statute/79/514).)*

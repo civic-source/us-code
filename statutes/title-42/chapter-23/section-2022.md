@@ -3,9 +3,10 @@ title: "Section 2022 - Health and environmental standards for uranium mill taili
 usc_title: 42
 usc_section: "2022"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2022"
-generated_at: "2026-03-30T02:56:11.147Z"
+generated_at: "2026-11-23T20:27:22.053Z"
+status: "active"
 ---
 
 # § 2022. Health and environmental standards for uranium mill tailings
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.147Z"
     - **(B)** the Commission’s requirements are modified to conform to such standards.
   - **(3)** Not later than 6 months after the date on which the Administrator promulgates final standards pursuant to subsection (b) of this section, the Commission shall, after notice and opportunity for public comment, amend the October 3 regulations, and adopt such modifications, as the Commission deems necessary to conform to such final standards of the Administrator.
   - **(4)** Nothing in this subsection may be construed as affecting the authority or responsibility of the Commission under section 2114 of this title to promulgate regulations to protect the public health and safety and the environment.
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 275, as added [Pub. L. 95–604, title II, § 206(a)](https://www.govinfo.gov/link/plaw/95/public/604), Nov. 8, 1978, [92 Stat. 3039](https://www.govinfo.gov/link/statute/92/3039); amended [Pub. L. 97–415](https://www.govinfo.gov/link/plaw/97/public/415), §§ 18(a), 22(b), Jan. 4, 1983, [96 Stat. 2077](https://www.govinfo.gov/link/statute/96/2077), 2080; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944).)*

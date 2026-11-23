@@ -3,9 +3,10 @@ title: "Section 283m - Sanctuary system for surplus chimpanzees"
 usc_title: 42
 usc_section: "283m"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 283m"
-generated_at: "2026-03-30T02:56:10.739Z"
+generated_at: "2026-11-23T20:27:20.206Z"
+status: "active"
 ---
 
 # § 283m. Sanctuary system for surplus chimpanzees
@@ -88,3 +89,7 @@ generated_at: "2026-03-30T02:56:10.739Z"
     - **(A)** the care, maintenance, and transportation of the chimpanzees under the ownership or control of the National Institutes of Health;
     - **(B)** costs related to such care, maintenance, and transportation, and any other related costs; and
     - **(C)** the research status of such chimpanzees.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title IV, § 404K, formerly § 481C, as added [Pub. L. 106–551, § 2](https://www.govinfo.gov/link/plaw/106/public/551), Dec. 20, 2000, [114 Stat. 2752](https://www.govinfo.gov/link/statute/114/2752); amended [Pub. L. 110–170, § 2(a)](https://www.govinfo.gov/link/plaw/110/public/170), Dec. 26, 2007, [121 Stat. 2465](https://www.govinfo.gov/link/statute/121/2465); renumbered § 404K and amended [Pub. L. 112–74, div. F, title II, § 221(b)(3)](https://www.govinfo.gov/link/plaw/112/public/74), Dec. 23, 2011, [125 Stat. 1088](https://www.govinfo.gov/link/statute/125/1088); [Pub. L. 113–55, title III, § 302(a)](https://www.govinfo.gov/link/plaw/113/public/55), (c), Nov. 27, 2013, [127 Stat. 646](https://www.govinfo.gov/link/statute/127/646), 647.)*

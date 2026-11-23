@@ -3,9 +3,10 @@ title: "Section 1607 - NTIA program for preventing future vulnerabilities"
 usc_title: 47
 usc_section: "1607"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 1607"
-generated_at: "2026-03-30T02:56:24.537Z"
+generated_at: "2026-11-23T20:27:29.010Z"
+status: "active"
 ---
 
 # § 1607. NTIA program for preventing future vulnerabilities
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:24.537Z"
   - **(2)** The term “foreign adversary” means any foreign government or foreign nongovernment person engaged in a long-term pattern or serious instances of conduct significantly adverse to the national security of the United States or security and safety of United States persons.
   - **(3)** The term “supply chain security risk” includes specific risk and vulnerability information related to equipment and software.
   - **(4)** The term “trusted” means, with respect to a provider of advanced communications service or a supplier of communications equipment or service, that the Assistant Secretary has determined that such provider or supplier is not owned by, controlled by, or subject to the influence of a foreign adversary.
+
+## Source Credit
+
+*([Pub. L. 116–124, § 8](https://www.govinfo.gov/link/plaw/116/public/124), Mar. 12, 2020, [134 Stat. 168](https://www.govinfo.gov/link/statute/134/168).)*

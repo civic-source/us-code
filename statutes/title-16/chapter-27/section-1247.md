@@ -3,9 +3,10 @@ title: "Section 1247 - State and local area recreation and historic trails"
 usc_title: 16
 usc_section: "1247"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1247"
-generated_at: "2026-03-30T02:54:22.947Z"
+generated_at: "2026-11-23T20:26:20.422Z"
+status: "active"
 ---
 
 # § 1247. State and local area recreation and historic trails
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:22.947Z"
 - **(c)** The Secretary of Agriculture is directed, in accordance with authority vested in him, to encourage States and local agencies and private interests to establish such trails.
 - **(d)** The Secretary of Transportation, the Chairman of the Surface Transportation Board, and the Secretary of the Interior, in administering the Railroad Revitalization and Regulatory Reform Act of 1976 ( 45 U.S.C. 801 et seq.) and chapter 224 of title 49, shall encourage State and local agencies and private interests to establish appropriate trails using the provisions of such programs. Consistent with the purposes of that Act, and in furtherance of the national policy to preserve established railroad rights-of-way for future reactivation of rail service, to protect rail transportation corridors, and to encourage energy efficient transportation use, in the case of interim use of any established railroad rights-of-way pursuant to donation, transfer, lease, sale, or otherwise in a manner consistent with this chapter, if such interim use is subject to restoration or reconstruction for railroad purposes, such interim use shall not be treated, for purposes of any law or rule of law, as an abandonment of the use of such rights-of-way for railroad purposes. If a State, political subdivision, or qualified private organization is prepared to assume full responsibility for management of such rights-of-way and for any legal liability arising out of such transfer or use, and for the payment of any and all taxes that may be levied or assessed against such rights-of-way, then the Board shall impose such terms and conditions as a requirement of any transfer or conveyance for interim use in a manner consistent with this chapter, and shall not permit abandonment or discontinuance inconsistent or disruptive of such use.
 - **(e)** Such trails may be designated and suitably marked as parts of the nationwide system of trails by the States, their political subdivisions, or other appropriate administering agencies with the approval of the Secretary of the Interior.
+
+## Source Credit
+
+*([Pub. L. 90–543, § 8](https://www.govinfo.gov/link/plaw/90/public/543), Oct. 2, 1968, [82 Stat. 925](https://www.govinfo.gov/link/statute/82/925); [Pub. L. 95–625, title V, § 551(22)](https://www.govinfo.gov/link/plaw/95/public/625), Nov. 10, 1978, [92 Stat. 3516](https://www.govinfo.gov/link/statute/92/3516); [Pub. L. 98–11, title II, § 208](https://www.govinfo.gov/link/plaw/98/public/11), Mar. 28, 1983, [97 Stat. 48](https://www.govinfo.gov/link/statute/97/48); [Pub. L. 104–88, title III, § 317(1)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 949](https://www.govinfo.gov/link/statute/109/949); [Pub. L. 113–287, § 5(d)(24)](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3266](https://www.govinfo.gov/link/statute/128/3266); [Pub. L. 117–58, div. B, title I, § 21301(j)(1)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 691](https://www.govinfo.gov/link/statute/135/691).)*

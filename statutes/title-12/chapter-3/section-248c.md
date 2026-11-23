@@ -3,9 +3,10 @@ title: "Section 248c - Master account and services database"
 usc_title: 12
 usc_section: "248c"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 248c"
-generated_at: "2026-03-30T02:53:53.377Z"
+generated_at: "2026-11-23T20:25:58.729Z"
+status: "active"
 ---
 
 # § 248c. Master account and services database
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:53:53.377Z"
       - **(iii)** a depository institution that is not an insured depository institution or an insured credit union.
   - **(2)** Not less frequently than once every quarter, the Board shall update the database to add any new information required under paragraph (1).
   - **(3)** Not later than 180 days after December 23, 2022 , the Board shall publish the database with the information required under paragraph (1).
+
+## Source Credit
+
+*(Dec. 23, 1913, ch. 6, § 11C, as added [Pub. L. 117–263, div. E, title LVII, § 5708](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3419](https://www.govinfo.gov/link/statute/136/3419).)*

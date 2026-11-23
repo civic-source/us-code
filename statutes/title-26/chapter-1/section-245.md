@@ -3,9 +3,10 @@ title: "Section 245 - Dividends received from certain foreign corporations"
 usc_title: 26
 usc_section: "245"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 245"
-generated_at: "2026-03-30T02:55:27.656Z"
+generated_at: "2026-11-23T20:26:45.521Z"
+status: "active"
 ---
 
 # § 245. Dividends received from certain foreign corporations
@@ -53,3 +54,19 @@ generated_at: "2026-03-30T02:55:27.656Z"
     - **(B)** The term “effectively connected income” means any income which is effectively connected (or treated as effectively connected) with the conduct of a trade or business in the United States and is subject to tax under this chapter. Such term shall not include any foreign trade income.
     - **(C)** The term “FSC” has the meaning given such term by section 922.
   - **(5)** Any reference in this subsection to section 922, 923, or 927 shall be treated as a reference to such section as in effect before its repeal by the FSC Repeal and Extraterritorial Income Exclusion Act of 2000.
+
+Property distributions
+
+In general.—
+
+Special rule for certain contracts
+
+Section
+
+Section
+
+“In the case of dividends received or accrued during 1987—
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 73; [Pub. L. 87–834, § 5(c)](https://www.govinfo.gov/link/plaw/87/public/834), Oct. 16, 1962, [76 Stat. 977](https://www.govinfo.gov/link/statute/76/977); [Pub. L. 89–809, title I, § 104(d)](https://www.govinfo.gov/link/plaw/89/public/809), (e), Nov. 13, 1966, [80 Stat. 1558](https://www.govinfo.gov/link/statute/80/1558); [Pub. L. 98–369, div. A, title VIII, § 801(b)(1)](https://www.govinfo.gov/link/plaw/98/public/369), (2)(B), July 18, 1984, [98 Stat. 994](https://www.govinfo.gov/link/statute/98/994), 995; [Pub. L. 99–514, title XII, § 1226(a)](https://www.govinfo.gov/link/plaw/99/public/514), title XVIII, § 1876(d)(1), (j), Oct. 22, 1986, [100 Stat. 2559](https://www.govinfo.gov/link/statute/100/2559), 2898, 2900; [Pub. L. 100–203, title X, § 10221(d)(1)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–409](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–647, title I](https://www.govinfo.gov/link/plaw/100/public/647), §§ 1006(e)(16), 1012(l)(2), (3), (bb)(9)(A), Nov. 10, 1988, [102 Stat. 3403](https://www.govinfo.gov/link/statute/102/3403), 3513, 3537; [Pub. L. 101–239, title VII, § 7811(i)(14)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2411](https://www.govinfo.gov/link/statute/103/2411); [Pub. L. 108–357, title IV, § 413(c)(3)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1507](https://www.govinfo.gov/link/statute/118/1507); [Pub. L. 110–172, § 11(g)(3)](https://www.govinfo.gov/link/plaw/110/public/172), (4), Dec. 29, 2007, [121 Stat. 2490](https://www.govinfo.gov/link/statute/121/2490); [Pub. L. 114–113, div. Q, title III, § 326(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3103](https://www.govinfo.gov/link/statute/129/3103); [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 13002(b), 14301(c)(2), (3), Dec. 22, 2017, [131 Stat. 2100](https://www.govinfo.gov/link/statute/131/2100), 2222.)*

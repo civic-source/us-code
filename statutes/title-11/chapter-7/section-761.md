@@ -3,9 +3,10 @@ title: "Section 761 - Definitions for this subchapter"
 usc_title: 11
 usc_section: "761"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 761"
-generated_at: "2026-03-30T02:53:53.882Z"
+generated_at: "2026-11-23T20:25:55.388Z"
+status: "active"
 ---
 
 # § 761. Definitions for this subchapter
@@ -83,3 +84,7 @@ In this subchapter—
     - **(C)** the value, as of the date of transfer, of—
       - **(i)** any commodity contract to which such customer is entitled that is transferred to another person under section 766 of this title ; and
       - **(ii)** any cash, security, or other property of such customer transferred to such other person under section 766 of this title to margin or secure such transferred commodity contract.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2615](https://www.govinfo.gov/link/statute/92/2615); [Pub. L. 97–222, § 16](https://www.govinfo.gov/link/plaw/97/public/222), July 27, 1982, [96 Stat. 238](https://www.govinfo.gov/link/statute/96/238); [Pub. L. 98–353, title III, § 485](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 383](https://www.govinfo.gov/link/statute/98/383); [Pub. L. 103–394, title V, § 501(d)(29)](https://www.govinfo.gov/link/plaw/103/public/394), Oct. 22, 1994, [108 Stat. 4146](https://www.govinfo.gov/link/statute/108/4146); [Pub. L. 106–554, § 1(a)(5) [title I, § 112(c)(6)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–395; [Pub. L. 109–8, title IX, § 907(a)(3)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 174](https://www.govinfo.gov/link/statute/119/174); [Pub. L. 111–203, title VII, § 724(b)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1684](https://www.govinfo.gov/link/statute/124/1684).)*

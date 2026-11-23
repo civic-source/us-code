@@ -3,9 +3,10 @@ title: "Section 6916 - General authorization"
 usc_title: 42
 usc_section: "6916"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6916"
-generated_at: "2026-03-30T02:56:11.270Z"
+generated_at: "2026-11-23T20:27:22.727Z"
+status: "active"
 ---
 
 # § 6916. General authorization
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.270Z"
 - **(f)**
   - **(1)** There are authorized to be appropriated to the Administrator for the purpose of carrying out the provisions of subchapter IX (relating to regulation of underground storage tanks), $10,000,000 for each of the fiscal years 1985 through 1988.
   - **(2)** There is authorized to be appropriated $25,000,000 for each of the fiscal years 1985 through 1988 to be used to make grants to the States for purposes of assisting the States in the development and implementation of approved State underground storage tank release detection, prevention, and correction programs under subchapter IX.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 2007](https://www.govinfo.gov/link/plaw/89/public/272), formerly § 2006, as added [Pub. L. 94–580, § 2](https://www.govinfo.gov/link/plaw/94/public/580), Oct. 21, 1976, [90 Stat. 2805](https://www.govinfo.gov/link/statute/90/2805), renumbered [Pub. L. 96–463, § 4(a)](https://www.govinfo.gov/link/plaw/96/public/463), Oct. 15, 1980, [94 Stat. 2055](https://www.govinfo.gov/link/statute/94/2055); amended [Pub. L. 96–482](https://www.govinfo.gov/link/plaw/96/public/482), §§ 6, 31(a), Oct. 21, 1980, [94 Stat. 2336](https://www.govinfo.gov/link/statute/94/2336), 2352; [Pub. L. 98–616, § 2(a)](https://www.govinfo.gov/link/plaw/98/public/616), (i), Nov. 8, 1984, [98 Stat. 3222](https://www.govinfo.gov/link/statute/98/3222), 3223.)*

@@ -3,9 +3,10 @@ title: "Section 6417 - Prisoner lists and issue briefs on religious freedom conc
 usc_title: 22
 usc_section: "6417"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6417"
-generated_at: "2026-03-30T02:55:05.428Z"
+generated_at: "2026-11-23T20:26:32.610Z"
+status: "active"
 ---
 
 # § 6417. Prisoner lists and issue briefs on religious freedom concerns
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:05.428Z"
 - **(d)**
   - **(1)** The Commission shall make publicly available, to the extent practicable, online and in official publications, lists of persons it determines are imprisoned or detained, have disappeared, been placed under house arrest, been tortured, or subjected to forced renunciations of faith for their religious activity or religious freedom advocacy by the government of a foreign country that the Commission recommends for designation as a country of particular concern for religious freedom under section 6442(b)(1)(A)(ii) of this title or by a non-state actor that the Commission recommends for designation as an entity of particular concern for religious freedom under section 6442a of this title and include as much publicly available information as practicable on the conditions and circumstances of such persons.
   - **(2)** In compiling lists under paragraph (1), the Commission shall exercise all appropriate discretion, including consideration of the safety and security of, and benefit to, the persons who may be included on the lists and the families of such persons.
+
+## Source Credit
+
+*([Pub. L. 105–292, title I, § 108](https://www.govinfo.gov/link/plaw/105/public/292), Oct. 27, 1998, [112 Stat. 2796](https://www.govinfo.gov/link/statute/112/2796); [Pub. L. 114–281, title I, § 104](https://www.govinfo.gov/link/plaw/114/public/281), Dec. 16, 2016, [130 Stat. 1432](https://www.govinfo.gov/link/statute/130/1432).)*

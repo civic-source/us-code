@@ -3,9 +3,10 @@ title: "Section 44735 - Limitation on disclosure of safety information"
 usc_title: 49
 usc_section: "44735"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44735"
-generated_at: "2026-03-30T02:56:19.387Z"
+generated_at: "2026-11-23T20:27:35.189Z"
+status: "active"
 ---
 
 # § 44735. Limitation on disclosure of safety information
@@ -26,3 +27,23 @@ generated_at: "2026-03-30T02:56:19.387Z"
 - **(d)**
   - **(1)** The limitation established under subsection (a) shall apply to the head of any other Federal agency who receives reports, data, or other information described in such subsection from the Administrator.
   - **(2)** This section shall not be construed to limit the accident or incident investigation authority of the National Transportation Safety Board under chapter 11, including the requirement to not disclose voluntarily provided safety-related information under section 1114.
+
+In General
+
+Applicability
+
+Exception for De-identified Information.—
+
+In general
+
+De-identified defined
+
+Other Agencies.—
+
+In general
+
+Rule of construction
+
+## Source Credit
+
+*(Added [Pub. L. 112–95, title III, § 310(a)](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 64](https://www.govinfo.gov/link/statute/126/64); amended [Pub. L. 116–260, div. V, title I, § 102(g)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2311](https://www.govinfo.gov/link/statute/134/2311); [Pub. L. 118–63, title III, § 305](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1071](https://www.govinfo.gov/link/statute/138/1071).)*

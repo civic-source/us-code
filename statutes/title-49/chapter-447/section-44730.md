@@ -3,9 +3,10 @@ title: "Section 44730 - Helicopter air ambulance operations"
 usc_title: 49
 usc_section: "44730"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44730"
-generated_at: "2026-03-30T02:56:19.386Z"
+generated_at: "2026-11-23T20:27:35.188Z"
+status: "active"
 ---
 
 # § 44730. Helicopter air ambulance operations
@@ -45,3 +46,35 @@ generated_at: "2026-03-30T02:56:19.386Z"
 - **(f)** In this section, the following definitions apply:
   - **(1)** The term “part 135” means part 135 of title 14, Code of Federal Regulations.
   - **(2)** The term “part 135 certificate holder” means a person holding an operating certificate issued under part 119 of title 14, Code of Federal Regulations, that is authorized to conduct civil helicopter air ambulance operations under part 135.
+
+Compliance Regulations.—
+
+In general
+
+Exception
+
+Final Rule
+
+Matters To Be Addressed
+
+Minimum Requirements
+
+Flight risk evaluation program
+
+Operational control center
+
+Subsequent Actions.—
+
+In general
+
+Limitation on construction
+
+Definitions
+
+Part 135
+
+Part 135 certificate holder
+
+## Source Credit
+
+*(Added [Pub. L. 112–95, title III, § 306(a)](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 58](https://www.govinfo.gov/link/statute/126/58); amended [Pub. L. 118–63, title III, § 301(a)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1066](https://www.govinfo.gov/link/statute/138/1066).)*

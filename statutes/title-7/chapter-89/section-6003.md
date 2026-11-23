@@ -3,9 +3,10 @@ title: "Section 6003 - Issuance of plans"
 usc_title: 7
 usc_section: "6003"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6003"
-generated_at: "2026-03-30T02:53:42.423Z"
+generated_at: "2026-11-23T20:25:41.678Z"
+status: "active"
 ---
 
 # § 6003. Issuance of plans
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:42.423Z"
   - **(3)** After notice and opportunity for public comment are given, as provided in paragraph (2), the Secretary shall issue a plan, taking into consideration the comments received and including in the plan provisions necessary to ensure that the plan is in conformity with the requirements of this chapter.
   - **(4)** Such plan shall be issued and become effective not later than 150 days following publication of the proposed plan.
 - **(c)** The Secretary, from time to time, may amend any plan issued under this section. The provisions of this chapter applicable to a plan shall be applicable to amendments to a plan.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XIX, § 1908](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3841](https://www.govinfo.gov/link/statute/104/3841).)*

@@ -3,9 +3,10 @@ title: "Section 8908 - Sanctions on persons in the Russian Federation complicit 
 usc_title: 22
 usc_section: "8908"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8908"
-generated_at: "2026-03-30T02:55:05.458Z"
+generated_at: "2026-11-23T20:26:32.742Z"
+status: "active"
 ---
 
 # § 8908. Sanctions on persons in the Russian Federation complicit in or responsible for significant corruption
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:05.458Z"
     - **(B)** will further the enforcement of this chapter; and
   - **(2)** a certification that the Government of the Russian Federation is taking steps to implement the Minsk Agreement to address the ongoing conflict in eastern Ukraine, signed in Minsk, Belarus, on February 11, 2015 , by the leaders of Ukraine, Russia, France, and Germany, the Minsk Protocol, which was agreed to on September 5, 2014 , and any successor agreements that are agreed to by the Government of Ukraine.
 - **(e)** The President shall issue such regulations, licenses, and orders as are necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 113–95, § 9](https://www.govinfo.gov/link/plaw/113/public/95), Apr. 3, 2014, [128 Stat. 1094](https://www.govinfo.gov/link/statute/128/1094); [Pub. L. 115–44, title II](https://www.govinfo.gov/link/plaw/115/public/44), §§ 227, 230(b), Aug. 2, 2017, [131 Stat. 910](https://www.govinfo.gov/link/statute/131/910), 916.)*

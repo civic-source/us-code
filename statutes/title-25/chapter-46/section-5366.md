@@ -3,9 +3,10 @@ title: "Section 5366 - Provisions relating to the Secretary"
 usc_title: 25
 usc_section: "5366"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 5366"
-generated_at: "2026-03-30T02:54:52.868Z"
+generated_at: "2026-11-23T20:26:25.740Z"
+status: "active"
 ---
 
 # § 5366. Provisions relating to the Secretary
@@ -62,3 +63,7 @@ generated_at: "2026-03-30T02:54:52.868Z"
   - **(1)** an official of the Department who holds a position at a higher organizational level within the Department than the level of the departmental agency in which the decision that is the subject of the appeal was made; or
   - **(2)** an administrative law judge.
 - **(i)** Subject to section 101(a) of the PROGRESS for Indian Tribes Act, each provision of this subchapter and each provision of a compact or funding agreement shall be liberally construed for the benefit of the Indian Tribe participating in self-governance, and any ambiguity shall be resolved in favor of the Indian Tribe.
+
+## Source Credit
+
+*([Pub. L. 93–638, title IV, § 406](https://www.govinfo.gov/link/plaw/93/public/638), as added [Pub. L. 116–180, title I, § 101(e)](https://www.govinfo.gov/link/plaw/116/public/180), Oct. 21, 2020, [134 Stat. 866](https://www.govinfo.gov/link/statute/134/866).)*

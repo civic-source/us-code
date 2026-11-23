@@ -3,9 +3,10 @@ title: "Section 7208 - Offenses relating to stamps"
 usc_title: 26
 usc_section: "7208"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 7208"
-generated_at: "2026-03-30T02:55:27.868Z"
+generated_at: "2026-11-23T20:26:46.746Z"
+status: "active"
 ---
 
 # § 7208. Offenses relating to stamps
@@ -23,3 +24,7 @@ Any person who—
     - **(B)** Knowingly or willfully buys, sells, offers for sale, or gives away, any such washed or restored stamp to any person for use, or knowingly uses the same; or
     - **(C)** Knowingly and without lawful excuse (the burden of proof of such excuse being on the accused) has in possession any washed, restored, altered stamp, which has been removed from any vellum, parchment, paper, instrument, writing, package, or article; or
   - **(5)** Commits the offense described in section 7271 (relating to disposal and receipt of stamped packages) with intent to defraud the revenue, or to defraud any person;
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 853.)*

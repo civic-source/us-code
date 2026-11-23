@@ -3,9 +3,10 @@ title: "Section 347 - Quadrennial homeland security review"
 usc_title: 6
 usc_section: "347"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 347"
-generated_at: "2026-03-30T02:53:09.461Z"
+generated_at: "2026-11-23T20:25:34.714Z"
+status: "active"
 ---
 
 # § 347. Quadrennial homeland security review
@@ -48,3 +49,11 @@ generated_at: "2026-03-30T02:53:09.461Z"
   - **(4)** The Secretary shall, consistent with the protection of national security and other sensitive matters, make each report submitted under paragraph (1) publicly available on the Internet website of the Department.
 - **(d)** Not later than 90 days after the submission of each report required under subsection (c)(1), the Secretary shall provide to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate information on the degree to which the findings and recommendations developed in the quadrennial homeland security review that is the subject of such report were integrated into the acquisition strategy and expenditure plans for the Department.
 - **(e)** There are authorized to be appropriated such sums as may be necessary to carry out this section.
+
+In general
+
+Report
+
+## Source Credit
+
+*([Pub. L. 107–296, title VII, § 707](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 110–53, title XXIV, § 2401(a)](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 543](https://www.govinfo.gov/link/statute/121/543); amended [Pub. L. 114–328, div. A, title XIX, § 1902(b)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2672](https://www.govinfo.gov/link/statute/130/2672); [Pub. L. 116–92, div. A, title XVII, § 1740(b)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1824](https://www.govinfo.gov/link/statute/133/1824); [Pub. L. 117–263, div. G, title LXXI, § 7141(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3652](https://www.govinfo.gov/link/statute/136/3652).)*

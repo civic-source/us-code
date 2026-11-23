@@ -3,9 +3,10 @@ title: "Section 12632 - Reports"
 usc_title: 42
 usc_section: "12632"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12632"
-generated_at: "2026-03-30T02:56:11.421Z"
+generated_at: "2026-11-23T20:27:23.394Z"
+status: "active"
 ---
 
 # § 12632. Reports
@@ -20,3 +21,11 @@ generated_at: "2026-03-30T02:56:11.421Z"
 - **(b)**
   - **(1)** Not later than 120 days after the end of each fiscal year, the Corporation shall prepare and submit, to the authorizing committees, the Committee on Appropriations of the House of Representatives, and the Committee on Appropriations of the Senate, a report concerning the programs that receive assistance under the national service laws.
   - **(2)** Reports submitted under paragraph (1) shall contain a summary of the information contained in the State reports submitted under subsection (a), and shall reflect the findings and actions taken as a result of any evaluation conducted by the Corporation.
+
+Study
+
+Report
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 172](https://www.govinfo.gov/link/plaw/101/public/610), Nov. 16, 1990, [104 Stat. 3159](https://www.govinfo.gov/link/statute/104/3159); [Pub. L. 103–82, title I, § 114](https://www.govinfo.gov/link/plaw/103/public/82), title IV, § 402(b)(1), Sept. 21, 1993, [107 Stat. 861](https://www.govinfo.gov/link/statute/107/861), 918; [Pub. L. 111–13, title I, § 1602](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1529](https://www.govinfo.gov/link/statute/123/1529); [Pub. L. 112–81, div. A, title X, § 1063(c)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1586](https://www.govinfo.gov/link/statute/125/1586).)*

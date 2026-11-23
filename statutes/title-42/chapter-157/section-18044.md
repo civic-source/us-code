@@ -3,9 +3,10 @@ title: "Section 18044 - Level playing field"
 usc_title: 42
 usc_section: "18044"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18044"
-generated_at: "2026-03-30T02:56:11.514Z"
+generated_at: "2026-11-23T20:27:23.780Z"
+status: "active"
 ---
 
 # § 18044. Level playing field
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.514Z"
   - **(11)** privacy and confidentiality;
   - **(12)** licensure; and
   - **(13)** benefit plan material or information.
+
+## Source Credit
+
+*([Pub. L. 111–148, title I, § 1324](https://www.govinfo.gov/link/plaw/111/public/148), title X, § 10104(n), Mar. 23, 2010, [124 Stat. 199](https://www.govinfo.gov/link/statute/124/199), 902.)*

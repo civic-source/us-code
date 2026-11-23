@@ -3,9 +3,10 @@ title: "Section 411 - Rights and protections under title VII of the Civil Rights
 usc_title: 3
 usc_section: "411"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "3 U.S.C. § 411"
-generated_at: "2026-03-30T02:52:49.879Z"
+generated_at: "2026-11-23T20:25:27.439Z"
+status: "active"
 ---
 
 # § 411. Rights and protections under title VII of the Civil Rights Act of 1964, the Age Discrimination in Employment Act of 1967, the Rehabilitation Act of 1973, and title I of the Americans with Disabilities Act of 1990
@@ -39,3 +40,33 @@ generated_at: "2026-03-30T02:52:49.879Z"
       - **(ii)** would promote uniformity in the application of Federal law to employees in the executive branch of the Federal Government.
 - **(e)** Subsections (a) through (c), and section 417 (to the extent that it relates to any matter under this section), shall apply with respect to violations occurring on or after the effective date of this chapter.
 - **(f)** This section shall take effect on October 1, 1997 .
+
+Discriminatory Practices Prohibited
+
+Remedy.—
+
+Civil rights
+
+Age discrimination
+
+Disabilities discrimination
+
+Definitions
+
+Covered employee
+
+Employing office
+
+Regulations To Implement Section.—
+
+In general
+
+Agency regulations
+
+Applicability
+
+Effective Date
+
+## Source Credit
+
+*(Added [Pub. L. 104–331, § 2(a)](https://www.govinfo.gov/link/plaw/104/public/331), Oct. 26, 1996, [110 Stat. 4055](https://www.govinfo.gov/link/statute/110/4055); amended [Pub. L. 117–286, § 4(a)(3)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4305](https://www.govinfo.gov/link/statute/136/4305).)*

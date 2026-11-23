@@ -3,9 +3,10 @@ title: "Section 5505 - Repealed. Pub. L. 103–446, title XII, § 1201(g)(4)(A) 
 usc_title: 38
 usc_section: "5505"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 5505"
-generated_at: "2026-03-30T02:55:53.521Z"
+generated_at: "2026-11-23T20:27:01.966Z"
+status: "repealed"
 ---
 
 # [§ 5505. Repealed. Pub. L. 103–446, title XII, § 1201(g)(4)(A) , Nov. 2, 1994 , 108 Stat. 4687 ]

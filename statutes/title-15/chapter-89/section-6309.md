@@ -3,9 +3,10 @@ title: "Section 6309 - Enforcement"
 usc_title: 15
 usc_section: "6309"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 6309"
-generated_at: "2026-03-30T02:54:08.210Z"
+generated_at: "2026-11-23T20:26:04.392Z"
+status: "active"
 ---
 
 # § 6309. Enforcement
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:08.210Z"
   - **(1)** any provision of this chapter against the Federal Trade Commission, the United States Attorney General, or the chief legal officer of any State for acting or failing to act in an official capacity;
   - **(2)** subsection (d) of this section against a State or political subdivision of a State, or any agency or instrumentality thereof; or
   - **(3)** section 6307b of this title against a boxer acting in his capacity as a boxer.
+
+## Source Credit
+
+*([Pub. L. 104–272, § 18](https://www.govinfo.gov/link/plaw/104/public/272), formerly § 10, Oct. 9, 1996, [110 Stat. 3312](https://www.govinfo.gov/link/statute/110/3312); renumbered § 18 and amended [Pub. L. 106–210](https://www.govinfo.gov/link/plaw/106/public/210), §§ 4(1), 6, May 26, 2000, [114 Stat. 322](https://www.govinfo.gov/link/statute/114/322), 326.)*

@@ -3,9 +3,10 @@ title: "Section 9705 - Department of the Treasury Forfeiture Fund"
 usc_title: 31
 usc_section: "9705"
 chapter: 97
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 9705"
-generated_at: "2026-03-30T02:55:34.077Z"
+generated_at: "2026-11-23T20:26:51.945Z"
+status: "active"
 ---
 
 # § 9705. Department of the Treasury Forfeiture Fund
@@ -135,3 +136,39 @@ generated_at: "2026-03-30T02:55:34.077Z"
 - **(n)** For purposes of this section—
   - **(1)** The term “Department of the Treasury law enforcement organization” means the United States Coast Guard, the United States Customs Service, the United States Secret Service, the Tax and Trade Bureau, the Internal Revenue Service, the Federal Law Enforcement Training Center, the Financial Crimes Enforcement Network, and any other law enforcement component of the Department of the Treasury so designated by the Secretary.
   - **(2)** The term “Secretary” means the Secretary of the Treasury.
+
+In General
+
+Limitations.—
+
+Deposits and Credits.—
+
+Investments
+
+Reports to Congress
+
+Appropriations.—
+
+Retention or Transfer of Property.—
+
+Regulations
+
+Customs Forfeiture Fund
+
+Limitation of Liability
+
+Authority To Warrant Title
+
+Forfeited Property
+
+Transfers to Attorney General and Postmaster General.—
+
+Definitions
+
+Department of the treasury law enforcement organization
+
+Secretary
+
+## Source Credit
+
+*(Added [Pub. L. 102–393, title VI, § 638(b)(1)](https://www.govinfo.gov/link/plaw/102/public/393), Oct. 6, 1992, [106 Stat. 1779](https://www.govinfo.gov/link/statute/106/1779), § 9703; amended [Pub. L. 103–182, title VI, § 685](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2220](https://www.govinfo.gov/link/statute/107/2220); [Pub. L. 103–322, title IX, § 90205(c)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1994](https://www.govinfo.gov/link/statute/108/1994); [Pub. L. 103–329, title I, § 112](https://www.govinfo.gov/link/plaw/103/public/329), Sept. 30, 1994, [108 Stat. 2391](https://www.govinfo.gov/link/statute/108/2391); [Pub. L. 104–208, div. A, title I, § 101(f) [title I, § 116]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–314](https://www.govinfo.gov/link/statute/110/3009), 3009–325; [Pub. L. 105–61, title I, § 122(b)](https://www.govinfo.gov/link/plaw/105/public/61), (c), Oct. 10, 1997, [111 Stat. 1289](https://www.govinfo.gov/link/statute/111/1289); [Pub. L. 107–296, title XI, § 1112(n)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2278](https://www.govinfo.gov/link/statute/116/2278); [Pub. L. 111–350, § 5(h)(10)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3849](https://www.govinfo.gov/link/statute/124/3849); renumbered § 9705 and amended [Pub. L. 114–22, title I, § 105(c)(1)](https://www.govinfo.gov/link/plaw/114/public/22), May 29, 2015, [129 Stat. 237](https://www.govinfo.gov/link/statute/129/237); [Pub. L. 115–392, § 4(b)](https://www.govinfo.gov/link/plaw/115/public/392), Dec. 21, 2018, [132 Stat. 5251](https://www.govinfo.gov/link/statute/132/5251); [Pub. L. 119–60, div. G, title LXXII, § 7207(a)](https://www.govinfo.gov/link/plaw/119/public/60) –(c), Dec. 18, 2025, [139 Stat. 1692](https://www.govinfo.gov/link/statute/139/1692), 1693.)*

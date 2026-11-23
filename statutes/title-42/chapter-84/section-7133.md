@@ -3,9 +3,10 @@ title: "Section 7133 - Assistant Secretaries; appointment and confirmation; iden
 usc_title: 42
 usc_section: "7133"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7133"
-generated_at: "2026-03-30T02:56:11.282Z"
+generated_at: "2026-11-23T20:27:22.775Z"
+status: "active"
 ---
 
 # § 7133. Assistant Secretaries; appointment and confirmation; identification of responsibilities
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:56:11.282Z"
   - **(10)** Power marketing functions, including responsibility for marketing and transmission of Federal power.
   - **(11)** Public and congressional relations functions, including responsibilities for providing a continuing liaison between the Department and the Congress and the Department and the public.
 - **(b)** At the time the name of any individual is submitted for confirmation to the position of Assistant Secretary, the President shall identify with particularity the function or functions described in subsection (a) (or any portion thereof) for which such individual will be responsible.
+
+## Source Credit
+
+*([Pub. L. 95–91, title II, § 203](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 570](https://www.govinfo.gov/link/statute/91/570); [Pub. L. 106–65, div. C, title XXXII, § 3294(a)(2)](https://www.govinfo.gov/link/plaw/106/public/65), (b), Oct. 5, 1999, [113 Stat. 970](https://www.govinfo.gov/link/statute/113/970); [Pub. L. 109–58, title X, § 1006(b)(1)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 931](https://www.govinfo.gov/link/statute/119/931); [Pub. L. 111–11, title XIII, § 13004(a)](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1449](https://www.govinfo.gov/link/statute/123/1449).)*

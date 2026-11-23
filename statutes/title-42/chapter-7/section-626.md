@@ -3,9 +3,10 @@ title: "Section 626 - Research, training, or demonstration projects"
 usc_title: 42
 usc_section: "626"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 626"
-generated_at: "2026-03-30T02:56:10.876Z"
+generated_at: "2026-11-23T20:27:20.855Z"
+status: "active"
 ---
 
 # § 626. Research, training, or demonstration projects
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:10.876Z"
     - **(A)** enter into agreements with child welfare agencies for onsite training of recipients;
     - **(B)** permit an individual who is employed in the field of child welfare services to apply for a traineeship with a stipend if the traineeship furthers the progress of the individual toward the completion of degree requirements; and
     - **(C)** develop and implement a system that, for the 3-year period that begins on the date any recipient completes a child welfare services program of study, tracks the employment record of the recipient, for the purpose of determining the percentage of recipients who secure employment in the field of child welfare services and remain employed in the field.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 426, as added [Pub. L. 90–248, title II, § 240(c)](https://www.govinfo.gov/link/plaw/90/public/248), Jan. 2, 1968, [81 Stat. 915](https://www.govinfo.gov/link/statute/81/915); amended [Pub. L. 100–203, title IX, § 9137](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–319](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 103–432, title II, § 205(b)](https://www.govinfo.gov/link/plaw/103/public/432), Oct. 31, 1994, [108 Stat. 4457](https://www.govinfo.gov/link/statute/108/4457); [Pub. L. 109–288](https://www.govinfo.gov/link/plaw/109/public/288), §§ 6(f)(2), 11(b), Sept. 28, 2006, [120 Stat. 1247](https://www.govinfo.gov/link/statute/120/1247), 1255.)*

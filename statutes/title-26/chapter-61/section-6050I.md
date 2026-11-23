@@ -3,9 +3,10 @@ title: "Section 6050I - Returns relating to cash received in trade or business, 
 usc_title: 26
 usc_section: "6050I"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6050I"
-generated_at: "2026-03-30T02:55:27.834Z"
+generated_at: "2026-11-23T20:26:46.532Z"
+status: "active"
 ---
 
 # § 6050I. Returns relating to cash received in trade or business, etc.
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:55:27.834Z"
   - **(5)** Each clerk required to make a return under paragraph (1) shall furnish (at such time as the Secretary may by regulations prescribe) to each person whose name is required to be set forth in such return by reason of paragraph (2)(B)(i)(II) a written statement showing—
     - **(A)** the name and address of the clerk’s office required to make the return, and
     - **(B)** the aggregate amount of cash described in paragraph (1) received by such clerk.
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title I, § 146(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 685](https://www.govinfo.gov/link/statute/98/685); amended [Pub. L. 99–514, title XV, § 1501(c)(12)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2739](https://www.govinfo.gov/link/statute/100/2739); [Pub. L. 100–690, title VII, § 7601(a)(1)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4503](https://www.govinfo.gov/link/statute/102/4503); [Pub. L. 101–508, title XI, § 11318(a)](https://www.govinfo.gov/link/plaw/101/public/508), (c), Nov. 5, 1990, [104 Stat. 1388–458](https://www.govinfo.gov/link/statute/104/1388), 1388–459; [Pub. L. 103–322, title II, § 20415(a)](https://www.govinfo.gov/link/plaw/103/public/322), (b)(3), Sept. 13, 1994, [108 Stat. 1832](https://www.govinfo.gov/link/statute/108/1832), 1833; [Pub. L. 104–168, title XII, § 1201(a)(9)](https://www.govinfo.gov/link/plaw/104/public/168), July 30, 1996, [110 Stat. 1469](https://www.govinfo.gov/link/statute/110/1469); [Pub. L. 117–58, div. H, title VI, § 80603(b)(3)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1341](https://www.govinfo.gov/link/statute/135/1341).)*

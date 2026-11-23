@@ -3,9 +3,10 @@ title: "Section 629g - Discretionary and targeted grants"
 usc_title: 42
 usc_section: "629g"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 629g"
-generated_at: "2026-03-30T02:56:10.879Z"
+generated_at: "2026-11-23T20:27:20.863Z"
+status: "active"
 ---
 
 # § 629g. Discretionary and targeted grants
@@ -131,3 +132,7 @@ generated_at: "2026-03-30T02:56:10.879Z"
     - **(A)** connecting the system with other data systems (such as systems operated by State law enforcement and judicial agencies, systems operated by the Federal Bureau of Investigation for the purposes of the Innocence Lost National Initiative, and other systems);
     - **(B)** simplifying and improving reporting related to paragraphs (34) and (35) of section 671(a) of this title regarding children or youth who have been identified as being a sex trafficking victim 2 2 So in original. Probably should be “being sex trafficking victims”. or children missing from foster care; and
     - **(C)** improving the ability of States to quickly comply with background check requirements of section 671(a)(20) of this title , including checks of child abuse and neglect registries as required by section 671(a)(20)(B) of this title .
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 437, as added [Pub. L. 107–133, title I, § 106(b)](https://www.govinfo.gov/link/plaw/107/public/133), Jan. 17, 2002, [115 Stat. 2417](https://www.govinfo.gov/link/statute/115/2417); amended [Pub. L. 109–288](https://www.govinfo.gov/link/plaw/109/public/288), §§ 3(b), 4(b)(2), 5(a)(2), (b)(2), 6(f)(5), Sept. 28, 2006, [120 Stat. 1234](https://www.govinfo.gov/link/statute/120/1234), 1238, 1242, 1243, 1247; [Pub. L. 110–234, title IV, § 4002(b)(1)(D)](https://www.govinfo.gov/link/plaw/110/public/234), (2)(V), May 22, 2008, [122 Stat. 1096](https://www.govinfo.gov/link/statute/122/1096), 1097; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, § 4002(b)(1)(D), (2)(V), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1857, 1858; [Pub. L. 112–34, title I](https://www.govinfo.gov/link/plaw/112/public/34), §§ 102(a)(2), 103(c)(1), (2), Sept. 30, 2011, [125 Stat. 371](https://www.govinfo.gov/link/statute/125/371), 373; [Pub. L. 115–123, div. E, title VII](https://www.govinfo.gov/link/plaw/115/public/123), §§ 50722(c), (d), 50723, 50752(b)(2), Feb. 9, 2018, [132 Stat. 246–248](https://www.govinfo.gov/link/statute/132/246), 263; [Pub. L. 117–328, div. FF, title VI, § 6103(b)(2)](https://www.govinfo.gov/link/plaw/117/public/328) –(4), Dec. 29, 2022, [136 Stat. 5965](https://www.govinfo.gov/link/statute/136/5965); [Pub. L. 118–258, title I](https://www.govinfo.gov/link/plaw/118/public/258), §§ 103(c), 105(b)–(d), (f)–(l), 108(b), 110(b)(2), 115(b)(2)(D), (E), Jan. 4, 2025, [138 Stat. 2948–2951](https://www.govinfo.gov/link/statute/138/2948), 2958, 2961, 2969.)*

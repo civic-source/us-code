@@ -3,9 +3,10 @@ title: "Section 1395vv - Withholding payments from certain medicaid providers"
 usc_title: 42
 usc_section: "1395vv"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1395vv"
-generated_at: "2026-03-30T02:56:11.014Z"
+generated_at: "2026-11-23T20:27:21.423Z"
+status: "active"
 ---
 
 # § 1395vv. Withholding payments from certain medicaid providers
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.014Z"
   - **(2)** determine the amount of the payment to which the institution or person would otherwise be entitled under this subchapter which shall be treated as a setoff against overpayments under subchapter XIX, and
   - **(3)** assure the restoration to the institution or person of amounts withheld under this section which are ultimately determined to be in excess of overpayments under subchapter XIX and to which the institution or person would otherwise be entitled under this subchapter.
 - **(c)** Notwithstanding any other provision of this chapter, from the trust funds established under sections 1395i and 1395t of this title, as appropriate, the Secretary shall pay to the appropriate State agency amounts recovered under this section to offset the State agency’s overpayment under subchapter XIX. Such payments shall be accounted for by the State agency as recoveries of overpayments under the State plan.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1885, as added [Pub. L. 97–35, title XXI, § 2104](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 788](https://www.govinfo.gov/link/statute/95/788).)*

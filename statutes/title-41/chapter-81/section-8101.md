@@ -3,9 +3,10 @@ title: "Section 8101 - Definitions and construction"
 usc_title: 41
 usc_section: "8101"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 8101"
-generated_at: "2026-03-30T02:55:55.811Z"
+generated_at: "2026-11-23T20:27:04.481Z"
+status: "active"
 ---
 
 # § 8101. Definitions and construction
@@ -22,3 +23,66 @@ generated_at: "2026-03-30T02:55:55.811Z"
   - **(7)** The term “Federal agency” means an agency as defined in section 552(f) of title 5 .
   - **(8)** The term “grantee” means the department, division, or other unit of a person responsible for the performance under the grant.
 - **(b)** This chapter does not require law enforcement agencies to comply with this chapter if the head of the agency determines it would be inappropriate in connection with the agency’s undercover operations.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 8101(a)(1) | 41:706(7). | Pub. L. 100–690, title V , §§ 5157, 5158, Nov. 18, 1988 , 102 Stat. 4308 . |
+| 8101(a)(2) | 41:706(3). |  |
+| 8101(a)(3) | 41:706(4). |  |
+| 8101(a)(4) | 41:706(5). |  |
+| 8101(a)(5) | 41:706(1). |  |
+| 8101(a)(6) | 41:706(2). |  |
+| 8101(a)(7) | 41:706(8). |  |
+| 8101(a)(8) | 41:706(6). |  |
+| 8101(b) | 41:707. |  |
+
+
+Definitions
+
+Contractor
+
+Controlled substance
+
+Conviction
+
+Criminal drug statute
+
+Drug-free workplace
+
+Employee
+
+Federal agency
+
+Grantee
+
+Construction
+
+Historical and Revision Notes
+
+8101(a)(1)
+
+Pub. L. 100–690, title V
+
+Nov. 18, 1988
+
+102 Stat. 4308
+
+8101(a)(2)
+
+8101(a)(3)
+
+8101(a)(4)
+
+8101(a)(5)
+
+8101(a)(6)
+
+8101(a)(7)
+
+8101(a)(8)
+
+8101(b)
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3826](https://www.govinfo.gov/link/statute/124/3826).)*

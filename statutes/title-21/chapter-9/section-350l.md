@@ -3,9 +3,10 @@ title: "Section 350l - Mandatory recall authority"
 usc_title: 21
 usc_section: "350l"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 350l"
-generated_at: "2026-03-30T02:54:54.228Z"
+generated_at: "2026-11-23T20:26:27.551Z"
+status: "active"
 ---
 
 # § 350l. Mandatory recall authority
@@ -53,3 +54,9 @@ generated_at: "2026-03-30T02:54:54.228Z"
     - **(D)** coordinate with Federal, State, local, and tribal authorities, as appropriate, that have responsibilities related to the recall of a food or a foodborne illness outbreak associated with a food that is subject to the recall, including notification of the Secretary of Agriculture and the Secretary of Education in the event such recalled food is a commodity intended for use in a child nutrition program (as identified in section 1769f(b) of title 42 ); and
     - **(E)** conclude operations at such time as the Secretary determines appropriate.
   - **(3)** The Secretary may establish multiple or concurrent incident command operations or similar operations in the event of multiple recalls or foodborne illness outbreaks necessitating such action by the Department of Health and Human Services.
+
+“Not later than 90 days after the date of enactment of this Act [ Jan. 4, 2011 ], the Secretary shall modify the Internet Web site of the Food and Drug Administration to include a search engine that—
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 423, as added [Pub. L. 111–353, title II, § 206(a)](https://www.govinfo.gov/link/plaw/111/public/353), Jan. 4, 2011, [124 Stat. 3939](https://www.govinfo.gov/link/statute/124/3939).)*

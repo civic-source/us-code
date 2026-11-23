@@ -3,9 +3,10 @@ title: "Section 5334 - Rate on change of position or type of appointment; regula
 usc_title: 5
 usc_section: "5334"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 5334"
-generated_at: "2026-03-30T02:52:56.013Z"
+generated_at: "2026-11-23T20:25:31.900Z"
+status: "active"
 ---
 
 # § 5334. Rate on change of position or type of appointment; regulations
@@ -42,3 +43,59 @@ generated_at: "2026-03-30T02:52:56.013Z"
   - **(2)** by virtue of such move, becomes subject to a different pay schedule,
     - **(A)** first, by determining the rate of pay to which such employee would be entitled at the new official duty station based on such employee’s position, grade, and step (or relative position in the rate range) before the move, and
     - **(B)** then, by applying the provisions of this section that would otherwise apply (if any), treating the rate determined under subparagraph (A) as if it were the rate last received by the employee before the rate adjustment.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| (a)–(d) | 5 U.S.C. 1132 . | Oct. 28, 1949, ch. 782, § 802 , 63 Stat. 969 . |
+|  |  | Sept. 1, 1954, ch. 1208, § 112 (as applicable to § 802(b)), 68 Stat. 1108 . |
+|  |  | May 29, 1958 , Pub. L. 85–432, § 4(a) , (b), 72 Stat. 151 . |
+|  |  | July 31, 1959 , Pub. L. 86–122, § 2(a) , 73 Stat. 268 . |
+|  |  | Oct. 11, 1962 , Pub. L. 87–793, § 604(a) , (b), 76 Stat. 847 . |
+| (e) | 5 U.S.C. 2357 . | July 17, 1959 , Pub. L. 86–91 . § 9, 73 Stat. 216 . |
+
+
+Historical and Revision Notes
+
+(a)–(d)
+
+5 U.S.C. 1132
+
+Oct. 28, 1949, ch. 782, § 802
+
+63 Stat. 969
+
+Sept. 1, 1954, ch. 1208, § 112
+
+68 Stat. 1108
+
+May 29, 1958
+
+Pub. L. 85–432, § 4(a)
+
+72 Stat. 151
+
+July 31, 1959
+
+Pub. L. 86–122, § 2(a)
+
+73 Stat. 268
+
+Oct. 11, 1962
+
+Pub. L. 87–793, § 604(a)
+
+76 Stat. 847
+
+(e)
+
+5 U.S.C. 2357
+
+July 17, 1959
+
+Pub. L. 86–91
+
+73 Stat. 216
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 468](https://www.govinfo.gov/link/statute/80/468); [Pub. L. 90–103, title I, § 105](https://www.govinfo.gov/link/plaw/90/public/103), Oct. 11, 1967, [81 Stat. 257](https://www.govinfo.gov/link/statute/81/257); [Pub. L. 90–367, § 1](https://www.govinfo.gov/link/plaw/90/public/367), June 29, 1968, [82 Stat. 277](https://www.govinfo.gov/link/statute/82/277); [Pub. L. 90–623, § 1(6)](https://www.govinfo.gov/link/plaw/90/public/623), (24), Oct. 22, 1968, [82 Stat. 1312](https://www.govinfo.gov/link/statute/82/1312), 1314; [Pub. L. 95–454, title V, § 503(f)](https://www.govinfo.gov/link/plaw/95/public/454), title VIII, § 801(a)(2), (3)(F), (G), title IX, § 906(a)(2), Oct. 13, 1978, [92 Stat. 1184](https://www.govinfo.gov/link/statute/92/1184), 1221, 1222, 1224; [Pub. L. 96–54, § 2(a)(27)](https://www.govinfo.gov/link/plaw/96/public/54), Aug. 14, 1979, [93 Stat. 383](https://www.govinfo.gov/link/statute/93/383); [Pub. L. 98–615, title II, § 204(a)(1)](https://www.govinfo.gov/link/plaw/98/public/615), Nov. 8, 1984, [98 Stat. 3216](https://www.govinfo.gov/link/statute/98/3216); [Pub. L. 99–251, title III, § 306(b)](https://www.govinfo.gov/link/plaw/99/public/251), Feb. 27, 1986, [100 Stat. 27](https://www.govinfo.gov/link/statute/100/27); [Pub. L. 101–508, title VII, § 7202(d)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–335](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–89, § 3(b)(1)(G)](https://www.govinfo.gov/link/plaw/103/public/89), Sept. 30, 1993, [107 Stat. 982](https://www.govinfo.gov/link/statute/107/982); [Pub. L. 104–186, title II, § 215(4)](https://www.govinfo.gov/link/plaw/104/public/186), Aug. 20, 1996, [110 Stat. 1745](https://www.govinfo.gov/link/statute/110/1745); [Pub. L. 105–85, div. A, title XI, § 1104(a)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1923](https://www.govinfo.gov/link/statute/111/1923); [Pub. L. 105–393, title II, § 223](https://www.govinfo.gov/link/plaw/105/public/393), Nov. 13, 1998, [112 Stat. 3626](https://www.govinfo.gov/link/statute/112/3626); [Pub. L. 107–171, title X, § 10701](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 515](https://www.govinfo.gov/link/statute/116/515); [Pub. L. 108–178, § 4(a)](https://www.govinfo.gov/link/plaw/108/public/178), Dec. 15, 2003, [117 Stat. 2640](https://www.govinfo.gov/link/statute/117/2640); [Pub. L. 108–411, title III, § 301(a)(3)](https://www.govinfo.gov/link/plaw/108/public/411), Oct. 30, 2004, [118 Stat. 2315](https://www.govinfo.gov/link/statute/118/2315); [Pub. L. 110–181, div. A, title XI, § 1114](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 360](https://www.govinfo.gov/link/statute/122/360).)*

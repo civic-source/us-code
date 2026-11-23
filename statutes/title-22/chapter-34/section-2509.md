@@ -3,9 +3,10 @@ title: "Section 2509 - Presidential powers and authorities"
 usc_title: 22
 usc_section: "2509"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2509"
-generated_at: "2026-03-30T02:55:05.371Z"
+generated_at: "2026-11-23T20:26:32.319Z"
+status: "active"
 ---
 
 # § 2509. Presidential powers and authorities
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:05.371Z"
   - **(3)** For the purposes of this subsection, the term “appropriate congressional committees” means—
     - **(A)** the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives; and
     - **(B)** the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
+
+## Source Credit
+
+*([Pub. L. 87–293, title I, § 10](https://www.govinfo.gov/link/plaw/87/public/293), Sept. 22, 1961, [75 Stat. 617](https://www.govinfo.gov/link/statute/75/617); [Pub. L. 88–200, § 5](https://www.govinfo.gov/link/plaw/88/public/200), Dec. 13, 1963, [77 Stat. 360](https://www.govinfo.gov/link/statute/77/360); [Pub. L. 89–134, § 6](https://www.govinfo.gov/link/plaw/89/public/134), Aug. 24, 1965, [79 Stat. 551](https://www.govinfo.gov/link/statute/79/551); [Pub. L. 89–572, § 6](https://www.govinfo.gov/link/plaw/89/public/572), Sept. 13, 1966, [80 Stat. 765](https://www.govinfo.gov/link/statute/80/765); [Pub. L. 93–49, § 2](https://www.govinfo.gov/link/plaw/93/public/49), June 25, 1973, [87 Stat. 99](https://www.govinfo.gov/link/statute/87/99); [Pub. L. 95–331, § 5(a)](https://www.govinfo.gov/link/plaw/95/public/331), (c), Aug. 2, 1978, [92 Stat. 414](https://www.govinfo.gov/link/statute/92/414), 415; [Pub. L. 97–113, title VI, § 604(a)](https://www.govinfo.gov/link/plaw/97/public/113), Dec. 29, 1981, [95 Stat. 1543](https://www.govinfo.gov/link/statute/95/1543); [Pub. L. 103–236, title VI, § 602](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 491](https://www.govinfo.gov/link/statute/108/491); [Pub. L. 106–30, § 2(b)(4)](https://www.govinfo.gov/link/plaw/106/public/30), May 21, 1999, [113 Stat. 56](https://www.govinfo.gov/link/statute/113/56); [Pub. L. 112–57, § 5(2)](https://www.govinfo.gov/link/plaw/112/public/57), Nov. 21, 2011, [125 Stat. 744](https://www.govinfo.gov/link/statute/125/744); [Pub. L. 115–256, title II, § 203](https://www.govinfo.gov/link/plaw/115/public/256), Oct. 9, 2018, [132 Stat. 3655](https://www.govinfo.gov/link/statute/132/3655).)*

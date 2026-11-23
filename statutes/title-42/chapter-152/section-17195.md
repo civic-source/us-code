@@ -3,9 +3,10 @@ title: "Section 17195 - Geothermal energy production from oil and gas fields and
 usc_title: 42
 usc_section: "17195"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17195"
-generated_at: "2026-03-30T02:56:11.500Z"
+generated_at: "2026-11-23T20:27:23.735Z"
+status: "active"
 ---
 
 # § 17195. Geothermal energy production from oil and gas fields and recovery and production of geopressured gas resources
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:56:11.500Z"
   - **(4)** Based upon a review of the final design plans above, the Secretary shall award cost-shared development and construction grants for demonstration geopressured production facilities that show potential for economic recovery of the heat, kinetic energy and gas resources from geopressured resources.
 - **(e)** Not less than 90 days after December 19, 2007 , the Secretary shall conduct a national solicitation for applications for grants under the programs outlined in subsections (b) and (d). Grant recipients shall be selected on a competitive basis based on criteria in the respective subsection.
 - **(f)** No funds may be used under this section for the purpose of drilling new wells.
+
+## Source Credit
+
+*([Pub. L. 110–140, title VI, § 616](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1681](https://www.govinfo.gov/link/statute/121/1681).)*

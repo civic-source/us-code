@@ -3,12 +3,17 @@ title: "Section 4 - Accounting and use of appropriations"
 usc_title: 16
 usc_section: "4"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 4"
-generated_at: "2026-03-30T02:54:22.901Z"
+generated_at: "2026-11-23T20:26:20.248Z"
+status: "active"
 ---
 
 # § 715k–4. Accounting and use of appropriations
 
 Funds appropriated each fiscal year pursuant to sections 715k–3 to 715k–5 of this title shall be accounted for, added to, and used for purposes of the migratory bird conservation fund 1 1 So in original. Probably should be capitalized. established pursuant to section 718d of this title .
 
+
+## Source Credit
+
+*([Pub. L. 87–383, § 2](https://www.govinfo.gov/link/plaw/87/public/383), Oct. 4, 1961, [75 Stat. 813](https://www.govinfo.gov/link/statute/75/813).)*

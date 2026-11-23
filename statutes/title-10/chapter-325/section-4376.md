@@ -3,9 +3,10 @@ title: "Section 4376 - Breach of critical cost growth threshold: reassessment of
 usc_title: 10
 usc_section: "4376"
 chapter: 325
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 4376"
-generated_at: "2026-03-30T02:53:38.207Z"
+generated_at: "2026-11-23T20:25:51.950Z"
+status: "active"
 ---
 
 # § 4376. Breach of critical cost growth threshold: reassessment of program; presumption of program termination
@@ -30,3 +31,19 @@ generated_at: "2026-03-30T02:53:38.207Z"
   - **(1)** an explanation of the reasons for terminating the program;
   - **(2)** the alternatives considered to address any problems in the program; and
   - **(3)** the course the Department plans to pursue to meet any continuing military requirements otherwise intended to be met by the program.
+
+Reassessment of Program
+
+Presumption of Termination.—
+
+Termination unless secretary submits certification and report
+
+Certification
+
+Report
+
+Actions if Program Terminated
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1850(a)](https://www.govinfo.gov/link/plaw/116/public/283), (j), Jan. 1, 2021, [134 Stat. 4265](https://www.govinfo.gov/link/statute/134/4265), 4269; [Pub. L. 117–81, div. A, title XVII, § 1701](https://www.govinfo.gov/link/plaw/117/public/81) (o)(6)(E)(v), Dec. 27, 2021, [135 Stat. 2148](https://www.govinfo.gov/link/statute/135/2148); [Pub. L. 119–60, div. A, title XVIII, § 1811(g)(4)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1243](https://www.govinfo.gov/link/statute/139/1243).)*

@@ -3,9 +3,10 @@ title: "Section 6633 - Federal science, engineering, and technology survey; repo
 usc_title: 42
 usc_section: "6633"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6633"
-generated_at: "2026-03-30T02:56:11.264Z"
+generated_at: "2026-11-23T20:27:22.695Z"
+status: "active"
 ---
 
 # § 6633. Federal science, engineering, and technology survey; reports
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.264Z"
 - **(b)**
   - **(1)** Within twelve months from the time the Committee is activated in accordance with section 6632(a) of this title , the Committee shall issue an interim report of its activities and operations to date. Not more than twenty-four months from the time the Committee is activated, the Committee shall submit a final report of its activities, findings, conclusions, and recommendations, including such supporting data and material as may be necessary, to the President.
   - **(2)** The President, within sixty days of receipt thereof, shall transmit each such report to each House of Congress together with such comments, observations, and recommendations thereon as he deems appropriate.
+
+## Source Credit
+
+*([Pub. L. 94–282, title III, § 303](https://www.govinfo.gov/link/plaw/94/public/282), May 11, 1976, [90 Stat. 469](https://www.govinfo.gov/link/statute/90/469).)*

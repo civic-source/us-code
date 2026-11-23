@@ -3,9 +3,10 @@ title: "Section 935 - Calculating a sequestration"
 usc_title: 2
 usc_section: "935"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 935"
-generated_at: "2026-03-30T02:53:04.808Z"
+generated_at: "2026-11-23T20:25:28.944Z"
+status: "active"
 ---
 
 # § 935. Calculating a sequestration
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:04.808Z"
   - **(1)** the amount by which the sequestration in a crop year of crop support payments, pursuant to section 906(j) of this title , reduces outlays in the budget year and the subsequent fiscal year;
   - **(2)** the amount by which the sequestration of Medicare payments in the 12-month period following the sequestration order, pursuant to section 906(d) of this title , reduces outlays in the budget year and the subsequent fiscal year; and
   - **(3)** the amount by which the sequestration in the budget year of the budgetary resources of other nonexempt mandatory programs reduces outlays in the budget year and in the subsequent fiscal year.
+
+## Source Credit
+
+*([Pub. L. 111–139, title I, § 6](https://www.govinfo.gov/link/plaw/111/public/139), Feb. 12, 2010, [124 Stat. 16](https://www.govinfo.gov/link/statute/124/16).)*

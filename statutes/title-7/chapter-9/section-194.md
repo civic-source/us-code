@@ -3,9 +3,10 @@ title: "Section 194 - Conclusiveness of order; appeal and review"
 usc_title: 7
 usc_section: "194"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 194"
-generated_at: "2026-03-30T02:53:42.277Z"
+generated_at: "2026-11-23T20:25:40.994Z"
+status: "active"
 ---
 
 # § 194. Conclusiveness of order; appeal and review
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:42.277Z"
 - **(f)** If the court determines that the just and proper disposition of the case requires the taking of additional evidence, the court shall order the hearing to be reopened for the taking of such evidence, in such manner and upon such terms and conditions as the court may deem proper. The Secretary may modify his findings as to the facts, or make new findings, by reason of the additional evidence so taken, and he shall file such modified or new findings and his recommendations, if any, for the modifications or setting aside of his order, with the return of such additional evidence.
 - **(g)** If the court of appeals affirms or modifies the order of the Secretary, its decree shall operate as an injunction to restrain the packer or swine contractor, and his officers, directors, agents, and employees from violating the provisions of such order or such order as modified.
 - **(h)** The court of appeals shall have jurisdiction, which upon the filing of the record with it shall be exclusive, to review, and to affirm, set aside, or modify, such orders of the Secretary, and the decree of such court shall be final except that it shall be subject to review by the Supreme Court of the United States upon certiorari, as provided in section 1254 of title 28 , if such writ is duly applied for within sixty days after entry of the decree. The issue of such writ shall not operate as a stay of the decree of the court of appeals, insofar as such decree operates as an injunction unless so ordered by the Supreme Court.
+
+## Source Credit
+
+*(Aug. 15, 1921, ch. 64, title II, § 204, [42 Stat. 162](https://www.govinfo.gov/link/statute/42/162); June 7, 1934, ch. 426, [48 Stat. 926](https://www.govinfo.gov/link/statute/48/926); June 25, 1948, ch. 646, § 32(a), [62 Stat. 991](https://www.govinfo.gov/link/statute/62/991); May 24, 1949, ch. 139, § 127, [63 Stat. 107](https://www.govinfo.gov/link/statute/63/107); [Pub. L. 85–791, § 6(b)](https://www.govinfo.gov/link/plaw/85/public/791), (c), Aug. 28, 1958, [72 Stat. 944](https://www.govinfo.gov/link/statute/72/944); [Pub. L. 98–620, title IV, § 402(5)](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3357](https://www.govinfo.gov/link/statute/98/3357); [Pub. L. 107–171, title X, § 10502(b)(1)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 509](https://www.govinfo.gov/link/statute/116/509).)*

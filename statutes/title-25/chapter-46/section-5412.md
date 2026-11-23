@@ -3,9 +3,10 @@ title: "Section 5412 - Indian Law Enforcement Foundation"
 usc_title: 25
 usc_section: "5412"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 5412"
-generated_at: "2026-03-30T02:54:52.871Z"
+generated_at: "2026-11-23T20:26:25.752Z"
+status: "active"
 ---
 
 # § 5412. Indian Law Enforcement Foundation
@@ -76,3 +77,7 @@ generated_at: "2026-03-30T02:54:52.871Z"
   - **(4)** A member of the Board or officer, employee, or agent of the Foundation shall not by reason of association with the Foundation be considered to be an officer, employee, or agent of the United States.
 - **(m)** The Foundation shall comply with section 10101 of title 36 as if the Foundation were a corporation under part B of subtitle II of that title.
 - **(n)** For each of fiscal years 2011 through 2015, out of any unobligated amounts available to the Secretary, the Secretary may use to carry out this section not more than $500,000.
+
+## Source Credit
+
+*([Pub. L. 93–638, title VII, § 702](https://www.govinfo.gov/link/plaw/93/public/638), as added [Pub. L. 111–211, title II, § 231(c)](https://www.govinfo.gov/link/plaw/111/public/211), July 29, 2010, [124 Stat. 2274](https://www.govinfo.gov/link/statute/124/2274).)*

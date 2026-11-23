@@ -3,9 +3,10 @@ title: "Section 385c - Appropriation and disposition of power revenues"
 usc_title: 25
 usc_section: "385c"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 385c"
-generated_at: "2026-03-30T02:54:52.806Z"
+generated_at: "2026-11-23T20:26:25.389Z"
+status: "active"
 ---
 
 # § 385c. Appropriation and disposition of power revenues
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:52.806Z"
   - **(3)** amortization, in accordance with the repayment provisions of the applicable statutes or contracts, of construction costs allocated to be returned from power revenues; and
   - **(4)** payment of other expenses and obligations chargeable to power revenues to the extent required or permitted by law.
 
+
+## Source Credit
+
+*(Aug. 7, 1946, ch. 802, § 3, [60 Stat. 895](https://www.govinfo.gov/link/statute/60/895); 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, [84 Stat. 2085](https://www.govinfo.gov/link/statute/84/2085).)*

@@ -3,9 +3,10 @@ title: "Section 2411 - Actions by United States Trade Representative"
 usc_title: 19
 usc_section: "2411"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2411"
-generated_at: "2026-03-30T02:54:24.673Z"
+generated_at: "2026-11-23T20:26:10.956Z"
+status: "active"
 ---
 
 # § 2411. Actions by United States Trade Representative
@@ -102,3 +103,17 @@ generated_at: "2026-03-30T02:54:24.673Z"
   - **(7)** The term “foreign country” includes any foreign instrumentality. Any possession or territory of a foreign country that is administered separately for customs purposes shall be treated as a separate foreign country.
   - **(8)** The term “Trade Representative” means the United States Trade Representative.
   - **(9)** The term “interested persons”, only for purposes of sections 2412(a)(4)(B), 2414(b)(1)(A), 2416(c)(2), 1 1 See References in Text note below. and 2417(a)(2) of this title, includes, but is not limited to, domestic firms and workers, representatives of consumer interests, United States product exporters, and any industrial user of any goods or services that may be affected by actions taken under subsection (a) or (b).
+
+“The amendments made by this section [enacting sections 2417 to 2419 of this title and amending this section and sections 2412 to 2416 of this title] shall apply to—
+
+Section
+
+Sec
+
+Sec
+
+William J. Clinton.
+
+## Source Credit
+
+*([Pub. L. 93–618, title III, § 301](https://www.govinfo.gov/link/plaw/93/public/618), as added [Pub. L. 96–39, title IX, § 901](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 295](https://www.govinfo.gov/link/statute/93/295); amended [Pub. L. 98–573, title III, § 304(a)](https://www.govinfo.gov/link/plaw/98/public/573) –(c), (f), Oct. 30, 1984, [98 Stat. 3002](https://www.govinfo.gov/link/statute/98/3002), 3005; [Pub. L. 100–418, title I, § 1301(a)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1164](https://www.govinfo.gov/link/statute/102/1164); [Pub. L. 103–465, title III, § 314(a)](https://www.govinfo.gov/link/plaw/103/public/465) –(c), title VI, § 621(a)(9), Dec. 8, 1994, [108 Stat. 4939](https://www.govinfo.gov/link/statute/108/4939), 4940, 4993; [Pub. L. 104–295, § 20(c)(4)](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3528](https://www.govinfo.gov/link/statute/110/3528); [Pub. L. 114–125, title VI](https://www.govinfo.gov/link/plaw/114/public/125), §§ 602(b)(1), 607, Feb. 24, 2016, [130 Stat. 184](https://www.govinfo.gov/link/statute/130/184), 189.)*

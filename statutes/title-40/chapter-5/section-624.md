@@ -3,9 +3,10 @@ title: "Section 624 - Information on certain leasing authorities"
 usc_title: 40
 usc_section: "624"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 624"
-generated_at: "2026-03-30T02:55:43.377Z"
+generated_at: "2026-11-23T20:26:56.560Z"
+status: "active"
 ---
 
 # § 624. Information on certain leasing authorities
@@ -21,3 +22,11 @@ generated_at: "2026-03-30T02:55:43.377Z"
 - **(b)** Subsection (a) shall not apply to—
   - **(1)** the United States Postal Service; or
   - **(2)** any other property the Director excludes from subsection (a) for reasons of national security.
+
+In General
+
+Exception
+
+## Source Credit
+
+*(Added [Pub. L. 114–318, § 3(a)](https://www.govinfo.gov/link/plaw/114/public/318), Dec. 16, 2016, [130 Stat. 1612](https://www.govinfo.gov/link/statute/130/1612).)*

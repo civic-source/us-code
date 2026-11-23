@@ -3,9 +3,10 @@ title: "Section 5711 - Bilateral ties between United States and Hong Kong"
 usc_title: 22
 usc_section: "5711"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 5711"
-generated_at: "2026-03-30T02:55:05.419Z"
+generated_at: "2026-11-23T20:26:32.574Z"
+status: "active"
 ---
 
 # § 5711. Bilateral ties between United States and Hong Kong
@@ -18,3 +19,7 @@ It is the sense of the Congress that the following, which are based in part on t
   - **(4)** The United States should invite Hong Kong to maintain, after June 30, 1997 , its official and semi-official missions in the United States, such as the Hong Kong Economic & Trade Office, the Office of the Hong Kong Trade Development Council, and the Hong Kong Tourist Association. The United States should invite Hong Kong to open and maintain other official or semi-official missions to represent Hong Kong in those areas in which Hong Kong is entitled to maintain relations on its own, including economic, trade, financial, monetary, aviation, shipping, communications, tourism, cultural, and sport areas.
   - **(5)** The United States should recognize passports and travel documents issued after June 30, 1997 , by the Hong Kong Special Administrative Region.
   - **(6)** The resumption by the People’s Republic of China of the exercise of sovereignty over Hong Kong after June 30, 1997 , should not affect treatment of Hong Kong residents who apply for visas to visit or reside permanently in the United States, so long as such treatment is consistent with the Immigration and Nationality Act [ 8 U.S.C. 1101 et seq.].
+
+## Source Credit
+
+*([Pub. L. 102–383, title I, § 101](https://www.govinfo.gov/link/plaw/102/public/383), Oct. 5, 1992, [106 Stat. 1449](https://www.govinfo.gov/link/statute/106/1449).)*

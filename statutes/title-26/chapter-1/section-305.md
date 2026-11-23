@@ -3,9 +3,10 @@ title: "Section 305 - Distributions of stock and stock rights"
 usc_title: 26
 usc_section: "305"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 305"
-generated_at: "2026-03-30T02:55:27.664Z"
+generated_at: "2026-11-23T20:26:45.565Z"
+status: "active"
 ---
 
 # § 305. Distributions of stock and stock rights
@@ -50,3 +51,11 @@ generated_at: "2026-03-30T02:55:27.664Z"
   - **(1)** Relating to the receipt of stock and stock rights in corporate organizations and reorganizations, see part III (sec. 351 and following).
   - **(2)** In the case of a distribution which results in a gift, see section 2501 and following.
   - **(3)** In the case of a distribution which has the effect of the payment of compensation, see section 61(a)(1).
+
+In general
+
+Exception
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 90; [Pub. L. 91–172, title IV, § 421(a)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 614](https://www.govinfo.gov/link/statute/83/614); [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 97–34, title III, § 321(a)](https://www.govinfo.gov/link/plaw/97/public/34), (b), Aug. 13, 1981, [95 Stat. 287](https://www.govinfo.gov/link/statute/95/287), 289; [Pub. L. 97–448, title I, § 103(f)](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2378](https://www.govinfo.gov/link/statute/96/2378); [Pub. L. 101–508, title XI](https://www.govinfo.gov/link/plaw/101/public/508), §§ 11322(a), 11801(a)(17), (c)(7), Nov. 5, 1990, [104 Stat. 1388–463](https://www.govinfo.gov/link/statute/104/1388), 1388–521, 1388–524; [Pub. L. 103–66, title XIII, § 13206(c)(1)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 465](https://www.govinfo.gov/link/statute/107/465); [Pub. L. 108–357, title VIII, § 831(b)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1587](https://www.govinfo.gov/link/statute/118/1587); [Pub. L. 115–141, div. U, title IV, § 401(c)(2)(D)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1206](https://www.govinfo.gov/link/statute/132/1206).)*

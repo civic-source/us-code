@@ -3,9 +3,10 @@ title: "Section 1378 - Collection of data on other detained aliens"
 usc_title: 8
 usc_section: "1378"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1378"
-generated_at: "2026-03-30T02:53:10.499Z"
+generated_at: "2026-11-23T20:25:36.222Z"
+status: "active"
 ---
 
 # § 1378. Collection of data on other detained aliens
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:10.499Z"
   - **(2)** a list of crimes committed by criminal aliens after the decision was made not to detain them, to the extent this information can be derived by cross-checking the list of criminal aliens not detained with other databases accessible to the Attorney General.
 - **(d)** Beginning on October 1, 1999 , and not later than October 1 of each year thereafter, the Attorney General shall submit to the Committee on the Judiciary of each House of Congress a report setting forth the data collected under subsections (a), (b), and (c) for the fiscal year ending September 30 of that year.
 - **(e)** Copies of the data collected under subsections (a), (b), and (c) shall be made available to members of the public upon request pursuant to such regulations as the Attorney General shall prescribe.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. A, § 101(h) [title IX, § 904]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–480](https://www.govinfo.gov/link/statute/112/2681), 2681–542.)*

@@ -3,9 +3,10 @@ title: "Section 2158 - Conduct resulting in termination of nuclear exports"
 usc_title: 42
 usc_section: "2158"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2158"
-generated_at: "2026-03-30T02:56:11.152Z"
+generated_at: "2026-11-23T20:27:22.079Z"
+status: "active"
 ---
 
 # § 2158. Conduct resulting in termination of nuclear exports
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:11.152Z"
     - **(B)** in the judgment of the President, the government of such country has provided adequate, verifiable assurances that it will cease its support for acts of international terrorism;
     - **(C)** the waiver of that paragraph is in the vital national security interest of the United States; or
     - **(D)** such a waiver is essential to prevent or respond to a serious radiological hazard in the country receiving the waiver that may or does threaten public health and safety.
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 129, as added [Pub. L. 95–242, title III, § 307](https://www.govinfo.gov/link/plaw/95/public/242), Mar. 10, 1978, [92 Stat. 138](https://www.govinfo.gov/link/statute/92/138); renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944); amended [Pub. L. 103–437, § 15(f)(5)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4592](https://www.govinfo.gov/link/statute/108/4592); [Pub. L. 109–58, title VI, § 632(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 788](https://www.govinfo.gov/link/statute/119/788); [Pub. L. 110–369, title II, § 203](https://www.govinfo.gov/link/plaw/110/public/369), Oct. 8, 2008, [122 Stat. 4033](https://www.govinfo.gov/link/statute/122/4033).)*

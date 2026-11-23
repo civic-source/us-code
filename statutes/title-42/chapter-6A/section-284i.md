@@ -3,9 +3,10 @@ title: "Section 284i - Autoimmune diseases"
 usc_title: 42
 usc_section: "284i"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 284i"
-generated_at: "2026-03-30T02:56:10.742Z"
+generated_at: "2026-11-23T20:27:20.214Z"
+status: "active"
 ---
 
 # § 284i. Autoimmune diseases
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:10.742Z"
     - **(E)** Clinical research for the development and evaluation of new treatments, including new biological agents.
     - **(F)** Information and education programs for health care professionals and the public.
   - **(3)** The Director of NIH shall ensure that programs and activities of the National Institutes of Health regarding autoimmune diseases are implemented in accordance with the plan under paragraph (1).
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title IV, § 409E, as added [Pub. L. 106–310, div. A, title XIX, § 1901](https://www.govinfo.gov/link/plaw/106/public/310), Oct. 17, 2000, [114 Stat. 1153](https://www.govinfo.gov/link/statute/114/1153); amended [Pub. L. 109–482, title I](https://www.govinfo.gov/link/plaw/109/public/482), §§ 103(b)(11), 104(b)(1)(E), Jan. 15, 2007, [120 Stat. 3687](https://www.govinfo.gov/link/statute/120/3687), 3693.)*

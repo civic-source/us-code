@@ -3,9 +3,10 @@ title: "Section 892c - Hydrographic Services Review Panel"
 usc_title: 33
 usc_section: "892c"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 892c"
-generated_at: "2026-03-30T02:55:41.074Z"
+generated_at: "2026-11-23T20:26:53.926Z"
+status: "active"
 ---
 
 # § 892c. Hydrographic Services Review Panel
@@ -31,3 +32,11 @@ generated_at: "2026-03-30T02:55:41.074Z"
   - **(2)** be reimbursed for actual and reasonable expenses incurred in the performance of such duties.
 - **(e)** The panel shall meet on a biannual basis and, at any other time, at the call of the Chairman or upon the request of a majority of the voting members or of the Secretary.
 - **(f)** The panel may exercise such powers as are reasonably necessary in order to carry out its duties under subsection (b).
+
+Ports
+
+“Subsections (b) and (c) [amending this section and section 892d of this title ] shall take effect immediately after the later of—
+
+## Source Credit
+
+*([Pub. L. 105–384, title III, § 305](https://www.govinfo.gov/link/plaw/105/public/384), Nov. 13, 1998, [112 Stat. 3456](https://www.govinfo.gov/link/statute/112/3456); [Pub. L. 105–383, title IV, § 432(c)](https://www.govinfo.gov/link/plaw/105/public/383), Nov. 13, 1998, [112 Stat. 3445](https://www.govinfo.gov/link/statute/112/3445); [Pub. L. 107–372, title I, § 105](https://www.govinfo.gov/link/plaw/107/public/372), Dec. 19, 2002, [116 Stat. 3080](https://www.govinfo.gov/link/statute/116/3080); [Pub. L. 110–386, § 4](https://www.govinfo.gov/link/plaw/110/public/386), Oct. 10, 2008, [122 Stat. 4107](https://www.govinfo.gov/link/statute/122/4107).)*

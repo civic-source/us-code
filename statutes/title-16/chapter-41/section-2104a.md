@@ -3,9 +3,10 @@ title: "Section 2104a - Pest and Disease Revolving Loan Fund"
 usc_title: 16
 usc_section: "2104a"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 2104a"
-generated_at: "2026-03-30T02:54:22.998Z"
+generated_at: "2026-11-23T20:26:20.593Z"
+status: "active"
 ---
 
 # § 2104a. Pest and Disease Revolving Loan Fund
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:54:22.998Z"
         - **(II)** the total quantity of payments that the eligible unit of local government is required to make during the repayment period of the loan; and
       - **(ii)** not later than 20 years after the date on which the eligible unit of local government receives a loan under paragraph (1), to complete repayment to the Secretary of the Treasury of the loan made under this section (including interest).
 - **(f)** There are authorized to be appropriated to the Fund such sums as are necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 110–234, title X, § 10205](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1344](https://www.govinfo.gov/link/statute/122/1344); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title X, § 10205, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2106.)*

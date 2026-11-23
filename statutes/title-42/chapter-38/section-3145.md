@@ -3,9 +3,10 @@ title: "Section 3145 - Supplementary grants"
 usc_title: 42
 usc_section: "3145"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3145"
-generated_at: "2026-03-30T02:56:11.182Z"
+generated_at: "2026-11-23T20:27:22.259Z"
+status: "active"
 ---
 
 # § 3145. Supplementary grants
@@ -23,3 +24,19 @@ generated_at: "2026-03-30T02:56:11.182Z"
     - **(A)** the payment of funds made available under this chapter to the heads of the Federal agencies responsible for carrying out the applicable Federal programs; or
     - **(B)** the award of funds under this chapter, which will be combined with funds transferred from other Federal agencies in projects administered by the Secretary.
   - **(3)** Notwithstanding any requirement as to the amount or source of non-Federal funds that may be applicable to a Federal program, funds provided under this section may be used to increase the Federal share for specific projects under the program that are carried out in areas described in section 3161(a) of this title above the Federal share of the cost of the project authorized by the law governing the program.
+
+In general
+
+Purposes of grants
+
+Amount of supplementary grants
+
+Form of supplementary grants
+
+Indian tribes
+
+Certain States, political subdivisions, and nonprofit organizations
+
+## Source Credit
+
+*([Pub. L. 89–136, title II, § 205](https://www.govinfo.gov/link/plaw/89/public/136), as added [Pub. L. 105–393, title I, § 102(a)](https://www.govinfo.gov/link/plaw/105/public/393), Nov. 13, 1998, [112 Stat. 3603](https://www.govinfo.gov/link/statute/112/3603); amended [Pub. L. 108–373, title II, § 203](https://www.govinfo.gov/link/plaw/108/public/373), Oct. 27, 2004, [118 Stat. 1760](https://www.govinfo.gov/link/statute/118/1760).)*

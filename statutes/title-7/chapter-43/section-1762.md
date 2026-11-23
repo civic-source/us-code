@@ -3,9 +3,10 @@ title: "Section 1762 - Personnel"
 usc_title: 7
 usc_section: "1762"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1762"
-generated_at: "2026-03-30T02:53:42.342Z"
+generated_at: "2026-11-23T20:25:41.302Z"
+status: "active"
 ---
 
 # § 1762. Personnel
@@ -18,3 +19,13 @@ generated_at: "2026-03-30T02:53:42.342Z"
     - **(B)** competition with other nations for existing and potential agricultural markets is extremely intense.
 - **(c)** Upon the request of the Secretary of Agriculture, the Secretary of State shall regularly and officially attach the officers or employees of the United States Department of Agriculture to the diplomatic mission of the United States in the country in which such officers or employees are to be assigned by the Secretary of Agriculture, and shall obtain for them diplomatic privileges and immunities equivalent to those enjoyed by Foreign Service personnel of comparable rank and salary.
 - **(d)** Any officer or employee appointed and assigned to a post abroad pursuant to this subchapter may, in the discretion of the Secretary of Agriculture, be assigned for duty in the continental United States, without regard to the civil service laws (and without reduction in grade if an appropriate position at the employee’s grade is not available in any agency of the Department of Agriculture), for a period of not more than three years: Provided, That the total number of such employees assigned for duty in the continental United States under this provision shall not exceed fifteen at any one time: Provided further, That this Act shall not increase the number of persons employed at grade GS–16, GS–17, or GS–18.
+
+Section
+
+Sec
+
+Sec
+
+## Source Credit
+
+*(Aug. 28, 1954, ch. 1041, title VI, § 602(a)–(d), formerly § 602(a)–(c), (e), [68 Stat. 908](https://www.govinfo.gov/link/statute/68/908), 909; amended June 28, 1955, ch. 189, § 12(c)(13), [69 Stat. 182](https://www.govinfo.gov/link/statute/69/182); [Pub. L. 89–106, § 4](https://www.govinfo.gov/link/plaw/89/public/106), Aug. 4, 1965, [79 Stat. 431](https://www.govinfo.gov/link/statute/79/431); [Pub. L. 94–449](https://www.govinfo.gov/link/plaw/94/public/449), Oct. 1, 1976, [90 Stat. 1500](https://www.govinfo.gov/link/statute/90/1500); renumbered § 602(a)–(d) and amended [Pub. L. 95–501, title III, § 301(4)](https://www.govinfo.gov/link/plaw/95/public/501), (5), title IV, § 401(3), (5), Oct. 21, 1978, [92 Stat. 1688](https://www.govinfo.gov/link/statute/92/1688), 1691.)*

@@ -3,9 +3,10 @@ title: "Section 658 - Definitions"
 usc_title: 2
 usc_section: "658"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 658"
-generated_at: "2026-03-30T02:53:04.801Z"
+generated_at: "2026-11-23T20:25:28.911Z"
+status: "active"
 ---
 
 # § 658. Definitions
@@ -57,3 +58,7 @@ For purposes of this part:
   - **(11)** The term “small government” means any small governmental jurisdictions defined in section 601(5) of title 5 and any tribal government.
   - **(12)** The term “State” has the same meaning as defined in section 6501(9) of title 31 .
   - **(13)** The term “tribal government” means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act ( 85 Stat. 688 ; 43 U.S.C. 1601 et seq.) which is recognized as eligible for the special programs and services provided by the United States to Indians because of their special status as Indians.
+
+## Source Credit
+
+*([Pub. L. 93–344, title IV, § 421](https://www.govinfo.gov/link/plaw/93/public/344), as added [Pub. L. 104–4, title I, § 101(a)(2)](https://www.govinfo.gov/link/plaw/104/public/4), Mar. 22, 1995, [109 Stat. 50](https://www.govinfo.gov/link/statute/109/50); amended [Pub. L. 113–67, div. A, title I, § 122(14)](https://www.govinfo.gov/link/plaw/113/public/67), Dec. 26, 2013, [127 Stat. 1176](https://www.govinfo.gov/link/statute/127/1176).)*

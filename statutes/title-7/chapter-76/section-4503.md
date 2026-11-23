@@ -3,9 +3,10 @@ title: "Section 4503 - Issuance of orders"
 usc_title: 7
 usc_section: "4503"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 4503"
-generated_at: "2026-03-30T02:53:42.408Z"
+generated_at: "2026-11-23T20:25:41.619Z"
+status: "active"
 ---
 
 # § 4503. Issuance of orders
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:42.408Z"
 - **(b)** After notice and opportunity for public comment are given, as provided for in subsection (a) of this section, the Secretary shall issue a dairy products promotion and research order. Such order shall become effective not later than ninety days following publication of the pro­posal.
 - **(c)** The Secretary may, from time to time, amend a dairy products promotion and research order.
 - **(d)** The Secretary, in consultation with the United States Trade Representative, shall ensure that the order is implemented in a manner consistent with the international trade obligations of the Federal Government.
+
+## Source Credit
+
+*([Pub. L. 98–180, title I, § 112](https://www.govinfo.gov/link/plaw/98/public/180), Nov. 29, 1983, [97 Stat. 1137](https://www.govinfo.gov/link/statute/97/1137); [Pub. L. 107–171, title I, § 1505(g)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 209](https://www.govinfo.gov/link/statute/116/209).)*

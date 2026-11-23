@@ -3,9 +3,10 @@ title: "Section 20124 - Enhancing culturally specific services for victims of do
 usc_title: 34
 usc_section: "20124"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 20124"
-generated_at: "2026-03-30T02:55:33.294Z"
+generated_at: "2026-11-23T20:26:50.580Z"
+status: "active"
 ---
 
 # § 20124. Enhancing culturally specific services for victims of domestic violence, dating violence, sexual assault, and stalking
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:55:33.294Z"
 - **(e)** The Director shall award a contract or cooperative agreement to evaluate programs under this section to an entity with the demonstrated expertise in and primary goal of providing enhanced cultural access to services and resources for victims of domestic violence, dating violence, sexual assault, and stalking who face obstacles to using more traditional services and resources.
 - **(f)** Nothing in this Section 3 shall be interpreted to exclude culturally specific community-based programs from applying to other grant programs authorized under this Act.
 - **(g)** In this section the definitions and grant conditions in section 12291 of this title shall apply.
+
+## Source Credit
+
+*([Pub. L. 109–162, title I, § 121](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 2991](https://www.govinfo.gov/link/statute/119/2991); [Pub. L. 109–271](https://www.govinfo.gov/link/plaw/109/public/271), §§ 1(c)(3), 2(k), Aug. 12, 2006, [120 Stat. 751](https://www.govinfo.gov/link/statute/120/751), 753; [Pub. L. 113–4, title I, § 109](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 80](https://www.govinfo.gov/link/statute/127/80); [Pub. L. 117–103, div. W, title I, § 108](https://www.govinfo.gov/link/plaw/117/public/103), title IX, § 901(e), Mar. 15, 2022, [136 Stat. 852](https://www.govinfo.gov/link/statute/136/852), 911.)*

@@ -3,12 +3,17 @@ title: "Section 853 - Selections in Utah to supply deficiencies of school lands"
 usc_title: 43
 usc_section: "853"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 853"
-generated_at: "2026-03-30T02:55:57.461Z"
+generated_at: "2026-11-23T20:27:06.256Z"
+status: "active"
 ---
 
 # § 853. Selections in Utah to supply deficiencies of school lands
 
 All the provisions of sections 851 and 852 of this title, which provide for the selection of lands for educational purposes in lieu of those appropriated for other purposes, are made applicable to the State of Utah, and the grant of school lands to said State, including sections 2 and 32 in each township, and indemnity therefor, shall be administered and adjusted in accordance with the provisions of said sections, anything in the Act approved July 16, 1894 , providing for the admission of said State into the Union, to the contrary notwithstanding. Wherever the words “sections 16 and 36” occur in said sections, the same as applicable to the State of Utah shall read: “sections 2, 16, 32, and 36”, and wherever the words “sixteenth and thirty-sixth sections” occur the same shall read: “second, sixteenth, thirty-second, and thirty-sixth sections”, and wherever the words “sections 16 or 36” occur the same shall read: “sections 2, 16, 32, or 36”, and wherever the words “two sections” occur the same shall read “four sections.”
 
+
+## Source Credit
+
+*(May 3, 1902, ch. 683, §§ 1, 2, [32 Stat. 188](https://www.govinfo.gov/link/statute/32/188), 189.)*

@@ -3,9 +3,10 @@ title: "Section 152 - General duties"
 usc_title: 45
 usc_section: "152"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 152"
-generated_at: "2026-03-30T02:55:56.542Z"
+generated_at: "2026-11-23T20:27:05.216Z"
+status: "active"
 ---
 
 # § 152. General duties
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:56.542Z"
 - **(b)** of this paragraph shall provide for deductions from his wages for periodic dues, initiation fees, or assessments payable to any labor organization other than that in which he holds membership: Provided, however , That as to an employee in any of said services on a particular carrier at the effective date of any such agreement on a carrier, who is not a member of any one of the labor organizations, national in scope, organized in accordance with this chapter and admitting to membership employees of a craft or class in any of said services, such employee, as a condition of continuing his employment, may be required to become a member of the organization representing the craft in which he is employed on the effective date of the first agreement applicable to him: Provided, further , That nothing herein or in any such agreement or agreements shall prevent an employee from changing membership from one organization to another organization admitting to membership employees of a craft or class in any of said services.
 - **(d)** Any provisions in paragraphs Fourth and Fifth of this section in conflict herewith are to the extent of such conflict amended. Twelfth. Showing of interest for representation elections The Mediation Board, upon receipt of an application requesting that an organization or individual be certified as the representative of any craft or class of employees, shall not direct an election or use any other method to determine who shall be the representative of such craft or class unless the Mediation Board determines that the application is supported by a showing of interest from not less than 50 percent of the employees in the craft or class.
 
+
+## Source Credit
+
+*(May 20, 1926, ch. 347, § 2, [44 Stat. 577](https://www.govinfo.gov/link/statute/44/577); June 21, 1934, ch. 691, § 2, [48 Stat. 1186](https://www.govinfo.gov/link/statute/48/1186); June 25, 1948, ch. 646, § 1, [62 Stat. 909](https://www.govinfo.gov/link/statute/62/909); Jan. 10, 1951, ch. 1220, [64 Stat. 1238](https://www.govinfo.gov/link/statute/64/1238); [Pub. L. 112–95, title X](https://www.govinfo.gov/link/plaw/112/public/95), §§ 1002, 1003, Feb. 14, 2012, [126 Stat. 146](https://www.govinfo.gov/link/statute/126/146), 147.)*

@@ -3,9 +3,10 @@ title: "Section 3115 - Local and regional participation"
 usc_title: 16
 usc_section: "3115"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3115"
-generated_at: "2026-03-30T02:54:23.008Z"
+generated_at: "2026-11-23T20:26:20.627Z"
+status: "active"
 ---
 
 # § 3115. Local and regional participation
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:23.008Z"
 - **(e)**
   - **(1)** The Secretary shall reimburse the State, from funds appropriated to the Department of the Interior for such purposes, for reasonable costs relating to the establishment and operation of the regional advisory councils established by the State in accordance with subsection (d) and the operation of the State fish and game advisory committees so long as such committees are not superseded by the Secretary pursuant to paragraph (2) of subsection (a). Such reimbursement may not exceed 50 per centum of such costs in any fiscal year. Such costs shall be verified in a statement which the Secretary determines to be adequate and accurate. Sums paid under this subsection shall be in addition to any grants, payments, or other sums to which the State is entitled from appropriations to the Department of the Interior.
   - **(2)** Total payments to the State under this subsection shall not exceed the sum of $5,000,000 in any one fiscal year. The Secretary shall advise the Congress at least once in every five years as to whether or not the maximum payments specified in this subsection are adequate to ensure the effectiveness of the program established by the State to provide the preference for subsistence uses of fish and wildlife set forth in section 3114 of this title .
+
+## Source Credit
+
+*([Pub. L. 96–487, title VIII, § 805](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2424](https://www.govinfo.gov/link/statute/94/2424); [Pub. L. 105–83, title III, § 316(b)(6)](https://www.govinfo.gov/link/plaw/105/public/83), (d), Nov. 14, 1997, [111 Stat. 1593](https://www.govinfo.gov/link/statute/111/1593), 1595; [Pub. L. 105–277, div. A, § 101(e) [title III, § 339(c)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–231](https://www.govinfo.gov/link/statute/112/2681), 2681–296.)*

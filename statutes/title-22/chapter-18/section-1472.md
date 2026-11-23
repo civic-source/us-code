@@ -3,9 +3,10 @@ title: "Section 1472 - Department of State and other Government agencies"
 usc_title: 22
 usc_section: "1472"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 1472"
-generated_at: "2026-03-30T02:55:05.333Z"
+generated_at: "2026-11-23T20:26:32.114Z"
+status: "active"
 ---
 
 # § 1472. Department of State and other Government agencies
@@ -27,3 +28,15 @@ generated_at: "2026-03-30T02:55:05.333Z"
   - **(4)**
     - **(A)** Notwithstanding the other provisions of this subsection, the Broadcasting Board of Governors is authorized to enter into contracts for periods not to exceed 7 years for circuit capacity to distribute radio and television programs and is authorized to enter into contracts for periods not to exceed ten years to acquire local broadcasting services outside the United States.
     - **(B)** The authority of this paragraph may be exercised for a fiscal year only to such extent or in such amounts as are provided in advance in appropriations Acts.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+## Source Credit
+
+*(Jan. 27, 1948, ch. 36, title VIII, § 802, [62 Stat. 12](https://www.govinfo.gov/link/statute/62/12); [Pub. L. 97–241, title III, § 304(b)](https://www.govinfo.gov/link/plaw/97/public/241), Aug. 24, 1982, [96 Stat. 292](https://www.govinfo.gov/link/statute/96/292); [Pub. L. 103–236, title II, § 225](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 423](https://www.govinfo.gov/link/statute/108/423); [Pub. L. 107–228, div. A, title V, § 503](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1392](https://www.govinfo.gov/link/statute/116/1392).)*

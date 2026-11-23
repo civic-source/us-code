@@ -3,9 +3,10 @@ title: "Section 719f - Congressional review"
 usc_title: 15
 usc_section: "719f"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 719f"
-generated_at: "2026-03-30T02:54:08.119Z"
+generated_at: "2026-11-23T20:26:03.912Z"
+status: "active"
 ---
 
 # § 719f. Congressional review
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:54:08.119Z"
   - **(2)** Such provision shall be waived with respect to actions to be taken under subsection (a) or (c) of section 719g of this title upon enactment of a joint resolution pursuant to the procedures specified in subsections (c) and (d) of this section (other than subsection (d)(2) thereof) within the first period of 60 calendar days of continuous session of Congress beginning on the date after the date of receipt by the Senate and House of Representatives of such proposal.
   - **(3)** The resolving clause of the joint resolution referred to in this subsection is as follows: “That the House of Representatives and Senate approve the waiver of the provision of law ( ) as proposed by the President, submitted to the Congress on , 19 .” The first blank space therein being filled with the citation to the provision of law and the second blank space therein being filled with the date on which the President submits his decision to the House of Representatives and the Senate.
   - **(4)** In the case of action with respect to a joint resolution described in this subsection, the phrase “a waiver of a provision of law” shall be substituted in subsection (d) for the phrase “the Alaska natural gas transportation system.”.
+
+## Source Credit
+
+*([Pub. L. 94–586, § 8](https://www.govinfo.gov/link/plaw/94/public/586), Oct. 22, 1976, [90 Stat. 2909](https://www.govinfo.gov/link/statute/90/2909).)*

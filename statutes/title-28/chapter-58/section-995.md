@@ -3,9 +3,10 @@ title: "Section 995 - Powers of the Commission"
 usc_title: 28
 usc_section: "995"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 995"
-generated_at: "2026-03-30T02:55:30.138Z"
+generated_at: "2026-11-23T20:26:36.426Z"
+status: "active"
 ---
 
 # § 995. Powers of the Commission
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:55:30.138Z"
 - **(c)** Upon the request of the Commission, each Federal agency is authorized and directed to make its services, equipment, personnel, facilities, and information available to the greatest practicable extent to the Commission in the execution of its functions.
 - **(d)** A simple majority of the membership then serving shall constitute a quorum for the conduct of business. Other than for the promulgation of guidelines and policy statements pursuant to section 994, the Commission may exercise its powers and fulfill its duties by the vote of a simple majority of the members present.
 - **(e)** Except as otherwise provided by law, the Commission shall maintain and make available for public inspection a record of the final vote of each member on any action taken by it.
+
+## Source Credit
+
+*(Added [Pub. L. 98–473, title II, § 217(a)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2024](https://www.govinfo.gov/link/statute/98/2024); amended [Pub. L. 100–690, title VII](https://www.govinfo.gov/link/plaw/100/public/690), §§ 7104, 7105, 7106(b), Nov. 18, 1988, [102 Stat. 4418](https://www.govinfo.gov/link/statute/102/4418); [Pub. L. 101–650, title III, § 325(b)(5)](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5121](https://www.govinfo.gov/link/statute/104/5121); [Pub. L. 103–322, title XXVIII, § 280005(c)(1)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2097](https://www.govinfo.gov/link/statute/108/2097); [Pub. L. 110–177, title V, § 501(a)](https://www.govinfo.gov/link/plaw/110/public/177), Jan. 7, 2008, [121 Stat. 2541](https://www.govinfo.gov/link/statute/121/2541).)*

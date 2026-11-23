@@ -3,9 +3,10 @@ title: "Section 1790d - Prompt corrective action"
 usc_title: 12
 usc_section: "1790d"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1790d"
-generated_at: "2026-03-30T02:53:53.442Z"
+generated_at: "2026-11-23T20:25:59.088Z"
+status: "active"
 ---
 
 # § 1790d. Prompt corrective action
@@ -169,3 +170,27 @@ generated_at: "2026-03-30T02:53:53.442Z"
   - **(4)** The term “new credit union” means an insured credit union that—
     - **(A)** has been in operation for less than 10 years; and
     - **(B)** has not more than $10,000,000 in total assets.
+
+(aa) fails to submit an acceptable net worth restoration plan within the time allowed under subsection (f); or
+
+(bb) materially fails to implement a net worth restoration plan accepted by the Board.
+
+In general
+
+Risk-based net worth requirement
+
+In general
+
+Risk-based net worth requirement.—
+
+Advance notice of proposed rulemaking
+
+Final regulations
+
+“When the Board publishes proposed regulations pursuant to subsection (d)(1)(A) [set out above], or promulgates final regulations pursuant to subsection (d)(1)(B) [set out above], the Board shall submit to the Congress a report that specifically explains—
+
+“As used in this Act [see Short Title of 1998 Amendment note set out under section 1751 of this title ]—
+
+## Source Credit
+
+*(June 26, 1934, ch. 750, title II, § 216, as added [Pub. L. 105–219, title III, § 301(a)](https://www.govinfo.gov/link/plaw/105/public/219), Aug. 7, 1998, [112 Stat. 923](https://www.govinfo.gov/link/statute/112/923); amended [Pub. L. 109–351, title V, § 504](https://www.govinfo.gov/link/plaw/109/public/351), title VII, § 726(25), Oct. 13, 2006, [120 Stat. 1975](https://www.govinfo.gov/link/statute/120/1975), 2003; [Pub. L. 111–203, title IX, § 988(a)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1938](https://www.govinfo.gov/link/statute/124/1938); [Pub. L. 111–382, § 3](https://www.govinfo.gov/link/plaw/111/public/382), Jan. 4, 2011, [124 Stat. 4135](https://www.govinfo.gov/link/statute/124/4135); [Pub. L. 117–286, § 4(b)(33)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4346](https://www.govinfo.gov/link/statute/136/4346).)*

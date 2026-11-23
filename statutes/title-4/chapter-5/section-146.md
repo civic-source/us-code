@@ -3,12 +3,17 @@ title: "Section 146 - Authorization of appropriations"
 usc_title: 4
 usc_section: "146"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "4 U.S.C. § 146"
-generated_at: "2026-03-30T02:52:51.499Z"
+generated_at: "2026-11-23T20:25:27.040Z"
+status: "active"
 ---
 
 # § 146. Authorization of appropriations
 
 For the purposes of this chapter, there are authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, sums of not more than $50,000 for any one fiscal year.
 
+
+## Source Credit
+
+*(Added Oct. 31, 1951, ch. 655, § 12, [65 Stat. 715](https://www.govinfo.gov/link/statute/65/715).)*

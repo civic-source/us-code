@@ -3,9 +3,10 @@ title: "Section 12109 - Payments for incarceration on tribal lands"
 usc_title: 34
 usc_section: "12109"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12109"
-generated_at: "2026-03-30T02:55:33.282Z"
+generated_at: "2026-11-23T20:26:50.535Z"
+status: "active"
 ---
 
 # § 12109. Payments for incarceration on tribal lands
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:33.282Z"
     - **(C)** alternatives to incarceration, developed in cooperation with tribal court systems;
   - **(2)** an assessment and consideration of the construction of Federal detention facilities in Indian country; and
   - **(3)** any other alternatives as the Attorney General, in coordination with the Bureau of Indian Affairs and in consultation with Indian tribes, determines to be necessary.
+
+## Source Credit
+
+*([Pub. L. 103–322, title II, § 20109](https://www.govinfo.gov/link/plaw/103/public/322), as added [Pub. L. 104–134, title I, § 101[(a)]](https://www.govinfo.gov/link/plaw/104/public/134) [title I, § 114(a)], Apr. 26, 1996, [110 Stat. 1321](https://www.govinfo.gov/link/statute/110/1321), 1321–20; renumbered title I, [Pub. L. 104–140, § 1(a)](https://www.govinfo.gov/link/plaw/104/public/140), May 2, 1996, [110 Stat. 1327](https://www.govinfo.gov/link/statute/110/1327); amended [Pub. L. 111–211, title II, § 244](https://www.govinfo.gov/link/plaw/111/public/211), July 29, 2010, [124 Stat. 2294](https://www.govinfo.gov/link/statute/124/2294).)*

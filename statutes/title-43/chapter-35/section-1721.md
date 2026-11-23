@@ -3,9 +3,10 @@ title: "Section 1721 - Conveyances of public lands to States, local governments,
 usc_title: 43
 usc_section: "1721"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1721"
-generated_at: "2026-03-30T02:55:57.487Z"
+generated_at: "2026-11-23T20:27:06.357Z"
+status: "active"
 ---
 
 # § 1721. Conveyances of public lands to States, local governments, etc.
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:57.487Z"
 - **(e)** No conveyance pursuant to this section shall be used as the basis for determining the baseline between Federal and State ownership, the boundary of any State for purposes of determining the extent of a State’s submerged lands or the line of demarcation of Federal jurisdiction, or any similar or related purpose.
 - **(f)** The provisions of this section shall not apply to any lands within the National Forest System, defined in the Act of August 17, 1974 ( 88 Stat. 476 ; 16 U.S.C. 1601 ), the National Park System, the National Wildlife Refuge System, and the National Wild and Scenic Rivers System.
 - **(g)** Nothing in this section shall supersede the provisions of the Act of December 22, 1928 ( 45 Stat. 1069 ; 43 U.S.C. 1068 ), as amended, and the Act of May 31, 1962 ( 76 Stat. 89 ), or any other Act authorizing the sale of specific omitted lands.
+
+## Source Credit
+
+*([Pub. L. 94–579, title II, § 211](https://www.govinfo.gov/link/plaw/94/public/579), Oct. 21, 1976, [90 Stat. 2758](https://www.govinfo.gov/link/statute/90/2758).)*

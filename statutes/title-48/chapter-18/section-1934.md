@@ -3,9 +3,10 @@ title: "Section 1934 - Jurisdiction"
 usc_title: 48
 usc_section: "1934"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1934"
-generated_at: "2026-03-30T02:56:14.598Z"
+generated_at: "2026-11-23T20:27:28.183Z"
+status: "active"
 ---
 
 # § 1934. Jurisdiction
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:14.598Z"
   - **(1)** Any person referred to in subsection (a) of this section who within or upon such defense sites is guilty of any act or omission which, although not made punishable by any enactment of Congress, would be punishable if committed or omitted within the jurisdiction of the territory of Guam by the laws thereof, in force at the time of such act or omission, shall be guilty of a like offense and subject to a like punishment.
   - **(2)** The District Court of Guam shall have jurisdiction to try all criminal offenses against the United States, including the laws of Guam made applicable to the defense sites in Palau by virtue of subsection (c)(1) of this section, committed by any person referred to in subsection (a) of this section.
   - **(3)** The District Court of Guam may appoint one or more magistrate judges for the defense sites in Palau. Such Magistrate Judges shall have the power and the status of Magistrate Judges appointed pursuant to chapter 43, title 28: Provided however, That such Magistrate Judges shall have the power to try persons accused of, and sentence persons convicted of, petty offenses, as defined in section 1(3), 1 1 See References in Text note below. title 18, including violations of regulations for the maintenance of peace, order, and health issued by the Commanding Officer on such defense sites, without being subject to the restrictions provided for in section 3401(b), title 18.
+
+## Source Credit
+
+*([Pub. L. 99–658, title II, § 202](https://www.govinfo.gov/link/plaw/99/public/658), Nov. 14, 1986, [100 Stat. 3704](https://www.govinfo.gov/link/statute/100/3704); [Pub. L. 101–650, title III, § 321](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5117](https://www.govinfo.gov/link/statute/104/5117).)*

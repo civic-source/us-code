@@ -3,9 +3,10 @@ title: "Section 2625 - Administration"
 usc_title: 15
 usc_section: "2625"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2625"
-generated_at: "2026-03-30T02:54:08.178Z"
+generated_at: "2026-11-23T20:26:04.229Z"
+status: "active"
 ---
 
 # § 2625. Administration
@@ -113,3 +114,39 @@ generated_at: "2026-03-30T02:54:08.178Z"
   - **(1)** Nothing in the Frank R. Lautenberg Chemical Safety for the 21st Century Act eliminates, modifies, or withdraws any rule promulgated, order issued, or exemption established pursuant to this chapter before June 22, 2016 .
   - **(2)** Nothing in this chapter prevents the Administrator from initiating a risk evaluation regarding a chemical substance, or from continuing or completing such risk evaluation, prior to the effective date of the policies, procedures, and guidance required to be developed by the Administrator pursuant to the amendments made by the Frank R. Lautenberg Chemical Safety for the 21st Century Act.
   - **(3)** Nothing in this chapter requires the Administrator to revise or withdraw a completed risk evaluation, determination, or rule under this chapter solely because the action was completed prior to the development of a policy, procedure, or guidance pursuant to the amendments made by the Frank R. Lautenberg Chemical Safety for the 21st Century Act.
+
+Fund.—
+
+Establishment
+
+Collection and deposit of fees
+
+Use of funds by administrator
+
+Accounting and auditing.—
+
+Accounting
+
+Auditing.—
+
+In general
+
+Components of audit
+
+(aa) the fees collected and amounts disbursed under this subsection;
+
+(bb) the reasonableness of the fees in place as of the date of the audit to meet current and projected costs of administering the provisions of this subchapter for which the fees may be used; and
+
+(cc) the number of requests for a risk evaluation made by manufacturers under section 2605(b)(4)(C)(ii) of this title .
+
+Federal responsibility
+
+Amount and Adjustment of Fees; Refunds
+
+Minimum Amount of Appropriations
+
+Termination
+
+## Source Credit
+
+*([Pub. L. 94–469, title I, § 26](https://www.govinfo.gov/link/plaw/94/public/469), Oct. 11, 1976, [90 Stat. 2046](https://www.govinfo.gov/link/statute/90/2046); [Pub. L. 98–80, § 2(c)(2)(A)](https://www.govinfo.gov/link/plaw/98/public/80), Aug. 23, 1983, [97 Stat. 485](https://www.govinfo.gov/link/statute/97/485); renumbered title I, [Pub. L. 99–519, § 3(c)(1)](https://www.govinfo.gov/link/plaw/99/public/519), Oct. 22, 1986, [100 Stat. 2989](https://www.govinfo.gov/link/statute/100/2989); amended [Pub. L. 114–182, title I](https://www.govinfo.gov/link/plaw/114/public/182), §§ 17, 19(q), June 22, 2016, [130 Stat. 499](https://www.govinfo.gov/link/statute/130/499), 510; [Pub. L. 117–286, § 4(a)(69)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4313](https://www.govinfo.gov/link/statute/136/4313).)*

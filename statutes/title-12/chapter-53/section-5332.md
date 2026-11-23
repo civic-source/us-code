@@ -3,9 +3,10 @@ title: "Section 5332 - GAO audit of Council"
 usc_title: 12
 usc_section: "5332"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5332"
-generated_at: "2026-03-30T02:53:53.529Z"
+generated_at: "2026-11-23T20:25:59.470Z"
+status: "active"
 ---
 
 # § 5332. GAO audit of Council
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:53.529Z"
     - **(B)** any records or other information under the control of a person or entity acting on behalf of or under the authority of the Council, to the extent that such records or other information is relevant to an audit under subsection (a); and
     - **(C)** the officers, directors, employees, financial advisors, staff, working groups, and agents and representatives of the Council (as related to the activities on behalf of the Council of such agent or representative), at such reasonable times as the Comptroller General may request.
   - **(2)** The Comptroller General may make and retain copies of such books, accounts, and other records, access to which is granted under this section, as the Comptroller General considers appropriate.
+
+## Source Credit
+
+*([Pub. L. 111–203, title I, § 122](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1411](https://www.govinfo.gov/link/statute/124/1411).)*

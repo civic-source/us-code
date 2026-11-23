@@ -3,9 +3,10 @@ title: "Section 5303A - Minimum active-duty service requirement"
 usc_title: 38
 usc_section: "5303A"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 5303A"
-generated_at: "2026-03-30T02:55:53.520Z"
+generated_at: "2026-11-23T20:27:01.955Z"
+status: "active"
 ---
 
 # § 5303A. Minimum active-duty service requirement
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:55:53.520Z"
     - **(B)** with respect to a benefit under (i) the Social Security Act other than additional wages deemed to have been paid, under section 229(a) 1 1 See References in Text note below. of the Social Security Act ( 42 U.S.C. 429(a) ), for any calendar quarter beginning after October 13, 1982 , or (ii) title 5 other than a benefit based on meeting the definition of preference eligible in section 2108(3) of such title.
 - **(e)** For the purposes of this section, the term “benefit” includes a right or privilege, but does not include a refund of a participant’s contributions to the educational benefits program provided by chapter 32 of this title.
 - **(f)** Nothing in this section shall be construed to deprive any person of any procedural rights, including any rights to assistance in applying for or claiming a benefit.
+
+## Source Credit
+
+*(Added [Pub. L. 97–66, title VI, § 604(a)(1)](https://www.govinfo.gov/link/plaw/97/public/66), Oct. 17, 1981, [95 Stat. 1035](https://www.govinfo.gov/link/statute/95/1035), § 3103A; amended [Pub. L. 97–306, title IV, § 408(a)](https://www.govinfo.gov/link/plaw/97/public/306), Oct. 14, 1982, [96 Stat. 1445](https://www.govinfo.gov/link/statute/96/1445); [Pub. L. 99–576, title III, § 321(11)](https://www.govinfo.gov/link/plaw/99/public/576), Oct. 28, 1986, [100 Stat. 3278](https://www.govinfo.gov/link/statute/100/3278); [Pub. L. 100–689, title I, § 102(b)(3)](https://www.govinfo.gov/link/plaw/100/public/689), Nov. 18, 1988, [102 Stat. 4163](https://www.govinfo.gov/link/statute/102/4163); [Pub. L. 101–510, div. A, title V, § 562(a)(4)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1574](https://www.govinfo.gov/link/statute/104/1574); renumbered § 5303A, [Pub. L. 102–40, title IV, § 402(b)(1)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238); [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(a)(1), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, [105 Stat. 403–406](https://www.govinfo.gov/link/statute/105/403); [Pub. L. 103–353, § 3](https://www.govinfo.gov/link/plaw/103/public/353), Oct. 13, 1994, [108 Stat. 3169](https://www.govinfo.gov/link/statute/108/3169); [Pub. L. 103–446, title IX, § 908](https://www.govinfo.gov/link/plaw/103/public/446), Nov. 2, 1994, [108 Stat. 4678](https://www.govinfo.gov/link/statute/108/4678); [Pub. L. 105–368, title X, § 1005(b)(15)](https://www.govinfo.gov/link/plaw/105/public/368), Nov. 11, 1998, [112 Stat. 3365](https://www.govinfo.gov/link/statute/112/3365); [Pub. L. 114–315, title VII, § 703](https://www.govinfo.gov/link/plaw/114/public/315), Dec. 16, 2016, [130 Stat. 1585](https://www.govinfo.gov/link/statute/130/1585).)*

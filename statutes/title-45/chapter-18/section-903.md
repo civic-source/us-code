@@ -3,9 +3,10 @@ title: "Section 903 - Sales and transfers"
 usc_title: 45
 usc_section: "903"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 903"
-generated_at: "2026-03-30T02:55:56.558Z"
+generated_at: "2026-11-23T20:27:05.326Z"
+status: "active"
 ---
 
 # § 903. Sales and transfers
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:56.558Z"
 - **(b)**
   - **(1)** The Secretary of Transportation, under the authority of section 333 of title 49 , may develop plans, participate in negotiations, and recommend to the trustee proposals for the sale or transfer of any rail properties of the Milwaukee Railroad which are used in rail operations as of October 15, 1979 . In taking action under this paragraph, the Secretary shall give preference to financially responsible persons, including governmental entities, negotiating for the purchase of any lines with the intent of providing common carrier service.
   - **(2)** Any sale or transfer proposal developed under paragraph (1) of this subsection shall be submitted to the bankruptcy court. Such a proposal may in no event become final or effective until the occurrence of an event described in section 920(b) of this title , or April 1, 1980 , whichever first occurs.
+
+## Source Credit
+
+*([Pub. L. 96–101, § 4](https://www.govinfo.gov/link/plaw/96/public/101), Nov. 4, 1979, [93 Stat. 737](https://www.govinfo.gov/link/statute/93/737).)*

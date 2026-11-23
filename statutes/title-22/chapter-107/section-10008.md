@@ -3,9 +3,10 @@ title: "Section 10008 - Multilateral assistance"
 usc_title: 22
 usc_section: "10008"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 10008"
-generated_at: "2026-03-30T02:55:05.474Z"
+generated_at: "2026-11-23T20:26:32.806Z"
+status: "active"
 ---
 
 # § 10008. Multilateral assistance
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:55:05.474Z"
   - **(3)** Committee on Foreign Affairs of the House of Representatives;
   - **(4)** the Committee on Appropriations of the House of Representatives; and
   - **(5)** the Committee on Financial Services of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 116–283, div. A, title XII, § 1269](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3972](https://www.govinfo.gov/link/statute/134/3972).)*

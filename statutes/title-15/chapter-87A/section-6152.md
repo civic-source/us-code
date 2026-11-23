@@ -3,9 +3,10 @@ title: "Section 6152 - Telemarketing Sales Rule; do-not-call registry fees"
 usc_title: 15
 usc_section: "6152"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 6152"
-generated_at: "2026-03-30T02:54:08.209Z"
+generated_at: "2026-11-23T20:26:04.384Z"
+status: "active"
 ---
 
 # § 6152. Telemarketing Sales Rule; do-not-call registry fees
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:54:08.209Z"
 - **(f)**
   - **(1)** The Commission shall deposit and credit as offsetting collections any fee collected under this section in the account “Federal Trade Commission—Salaries and Expenses”, and such sums shall remain available until expended.
   - **(2)** No amount shall be collected as a fee under this section for any fiscal year except to the extent provided in advance by appropriations Acts.
+
+## Source Credit
+
+*([Pub. L. 108–10, § 2](https://www.govinfo.gov/link/plaw/108/public/10), Mar. 11, 2003, [117 Stat. 557](https://www.govinfo.gov/link/statute/117/557); [Pub. L. 110–188, § 2](https://www.govinfo.gov/link/plaw/110/public/188), Feb. 15, 2008, [122 Stat. 635](https://www.govinfo.gov/link/statute/122/635).)*

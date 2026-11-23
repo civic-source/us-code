@@ -3,9 +3,10 @@ title: "Section 1153a - Transparency"
 usc_title: 8
 usc_section: "1153a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1153a"
-generated_at: "2026-03-30T02:53:10.474Z"
+generated_at: "2026-11-23T20:25:36.009Z"
+status: "active"
 ---
 
 # § 1153a. Transparency
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:53:10.474Z"
 - **(g)** Nothing in this section may be construed to modify any law, regulation, or policy regarding the handling or disclosure of classified information.
 - **(h)** Nothing in this section may be construed to create or authorize a private right of action to challenge a decision of an employee of the Department of Homeland Security.
 - **(i)** This section, and the amendments made by this section, shall take effect on March 15, 2022 .
+
+## Source Credit
+
+*([Pub. L. 117–103, div. BB, § 107](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 1105](https://www.govinfo.gov/link/statute/136/1105).)*

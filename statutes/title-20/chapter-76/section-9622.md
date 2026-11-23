@@ -3,9 +3,10 @@ title: "Section 9622 - National Assessment of Educational Progress"
 usc_title: 20
 usc_section: "9622"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 9622"
-generated_at: "2026-03-30T02:54:48.231Z"
+generated_at: "2026-11-23T20:26:15.001Z"
+status: "active"
 ---
 
 # § 9622. National Assessment of Educational Progress
@@ -95,3 +96,11 @@ generated_at: "2026-03-30T02:54:48.231Z"
 - **(g)**
   - **(1)** The Secretary and the Secretary of Defense may enter into an agreement, including such terms as are mutually satisfactory, to include in the National Assessment elementary schools and secondary schools operated by the Department of Defense.
   - **(2)** The Secretary and the Secretary of the Interior may enter into an agreement, including such terms as are mutually satisfactory, to include in the National Assessment schools for Indian children operated or supported by the Bureau of Indian Affairs.
+
+Current Assessment Administration Rescheduling
+
+Future Assessment Administration
+
+## Source Credit
+
+*([Pub. L. 107–279, title III, § 303](https://www.govinfo.gov/link/plaw/107/public/279), formerly [Pub. L. 103–382, title IV, § 411](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 4036](https://www.govinfo.gov/link/statute/108/4036); [Pub. L. 107–110, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1898](https://www.govinfo.gov/link/statute/115/1898); renumbered [Pub. L. 107–279, title III, § 303](https://www.govinfo.gov/link/plaw/107/public/279), and amended [Pub. L. 107–279, title IV, § 401(d)](https://www.govinfo.gov/link/plaw/107/public/279), Nov. 5, 2002, [116 Stat. 1984](https://www.govinfo.gov/link/statute/116/1984).)*

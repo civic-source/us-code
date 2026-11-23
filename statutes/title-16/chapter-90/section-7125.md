@@ -3,9 +3,10 @@ title: "Section 7125 - Resource advisory committees"
 usc_title: 16
 usc_section: "7125"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 7125"
-generated_at: "2026-03-30T02:54:23.073Z"
+generated_at: "2026-11-23T20:26:20.833Z"
+status: "active"
 ---
 
 # § 7125. Resource advisory committees
@@ -102,3 +103,7 @@ generated_at: "2026-03-30T02:54:23.073Z"
       - **(ii)** the State of Arizona.
     - **(E)** Nothing in this paragraph relieves the Secretary concerned from any requirement relating to an appointment to a resource advisory committee, including any requirement with respect to civil rights or advertising a vacancy.
   - **(5)** The authority provided under this subsection terminates on October 1, 2026 .
+
+## Source Credit
+
+*([Pub. L. 106–393, title II, § 205](https://www.govinfo.gov/link/plaw/106/public/393), as added [Pub. L. 110–343, div. C, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3905](https://www.govinfo.gov/link/statute/122/3905); amended [Pub. L. 112–141, div. F, title I, § 100101(a)(7)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 906](https://www.govinfo.gov/link/statute/126/906); [Pub. L. 113–40, § 10(a)(2)(C)](https://www.govinfo.gov/link/plaw/113/public/40), Oct. 2, 2013, [127 Stat. 545](https://www.govinfo.gov/link/statute/127/545); [Pub. L. 115–141, div. O, title IV, § 401(b)(2)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1079](https://www.govinfo.gov/link/statute/132/1079); [Pub. L. 115–334, title VIII, § 8702](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4875](https://www.govinfo.gov/link/statute/132/4875); [Pub. L. 116–94, div. I, title III, § 301(b)(1)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3021](https://www.govinfo.gov/link/statute/133/3021); [Pub. L. 117–58, div. D, title XII, § 41202(c)](https://www.govinfo.gov/link/plaw/117/public/58), (d)(1), Nov. 15, 2021, [135 Stat. 1132](https://www.govinfo.gov/link/statute/135/1132), 1134; [Pub. L. 119–58](https://www.govinfo.gov/link/plaw/119/public/58), §§ 2(c)(1), 3, 4(a), Dec. 18, 2025, [139 Stat. 715](https://www.govinfo.gov/link/statute/139/715).)*

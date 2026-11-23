@@ -3,9 +3,10 @@ title: "Section 2618 - Special rules concerning employees of local educational a
 usc_title: 29
 usc_section: "2618"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 2618"
-generated_at: "2026-03-30T02:55:18.745Z"
+generated_at: "2026-11-23T20:26:38.070Z"
+status: "active"
 ---
 
 # § 2618. Special rules concerning employees of local educational agencies
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:55:18.745Z"
   - **(3)** If the eligible employee begins leave under subparagraph (A), (B), or (C) of section 2612(a)(1) of this title or under section 2612(a)(3) of this title during the period that commences 3 weeks prior to the end of the academic term and the duration of the leave is greater than 5 working days, the agency or school may require the employee to continue to take leave until the end of such term.
 - **(e)** For purposes of determinations under section 2614(a)(1)(B) of this title (relating to the restoration of an eligible employee to an equivalent position), in the case of a local educational agency or a private elementary or secondary school, such determination shall be made on the basis of established school board policies and practices, private school policies and practices, and collective bargaining agreements.
 - **(f)** If a local educational agency or a private elementary or secondary school that has violated this subchapter proves to the satisfaction of the court that the agency, school, or department had reasonable grounds for believing that the underlying act or omission was not a violation of this subchapter, such court may, in the discretion of the court, reduce the amount of the liability provided for under section 2617(a)(1)(A) of this title to the amount and interest determined under clauses (i) and (ii), respectively, of such section.
+
+## Source Credit
+
+*([Pub. L. 103–3, title I, § 108](https://www.govinfo.gov/link/plaw/103/public/3), Feb. 5, 1993, [107 Stat. 17](https://www.govinfo.gov/link/statute/107/17); [Pub. L. 103–382, title III, § 394(e)](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 4027](https://www.govinfo.gov/link/statute/108/4027); [Pub. L. 107–110, title X, § 1076(v)](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2093](https://www.govinfo.gov/link/statute/115/2093); [Pub. L. 110–181, div. A, title V, § 585(a)(3)(H)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 131](https://www.govinfo.gov/link/statute/122/131); [Pub. L. 114–95, title IX, § 9215(hh)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2175](https://www.govinfo.gov/link/statute/129/2175).)*

@@ -3,9 +3,10 @@ title: "Section 1523 - Pilot programs"
 usc_title: 7
 usc_section: "1523"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1523"
-generated_at: "2026-03-30T02:53:42.323Z"
+generated_at: "2026-11-23T20:25:41.191Z"
+status: "active"
 ---
 
 # § 1523. Pilot programs
@@ -139,3 +140,7 @@ generated_at: "2026-03-30T02:53:42.323Z"
   - **(4)** Notwithstanding section 1508( l ) of this title, the Board shall approve a policy or plan of insurance based on the pilot program under paragraph (1)—
     - **(A)** in accordance with section 1508(h) of this title ; and
     - **(B)** not later than 2 years after July 4, 2025 .
+
+## Source Credit
+
+*(Feb. 16, 1938, ch. 30, title V, § 523, as added [Pub. L. 106–224, title I, § 132(a)](https://www.govinfo.gov/link/plaw/106/public/224), June 20, 2000, [114 Stat. 383](https://www.govinfo.gov/link/statute/114/383); amended [Pub. L. 107–171, title X, § 10004](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 487](https://www.govinfo.gov/link/statute/116/487); [Pub. L. 110–234, title XII](https://www.govinfo.gov/link/plaw/110/public/234), §§ 12025(a), 12033(c)(2)(B), May 22, 2008, [122 Stat. 1389](https://www.govinfo.gov/link/statute/122/1389), 1405; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XII, §§ 12025(a), 12033(c)(2)(B), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2151, 2167; [Pub. L. 113–79, title XI](https://www.govinfo.gov/link/plaw/113/public/79), §§ 11025, 11026, Feb. 7, 2014, [128 Stat. 974](https://www.govinfo.gov/link/statute/128/974); [Pub. L. 115–123, div. F, § 60101(c)(1)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 312](https://www.govinfo.gov/link/statute/132/312); [Pub. L. 115–334, title XI, § 11124](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4935](https://www.govinfo.gov/link/statute/132/4935); [Pub. L. 119–21, title I, § 10507](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 106](https://www.govinfo.gov/link/statute/139/106).)*

@@ -3,9 +3,10 @@ title: "Section 3595 - Review of a sentence of death"
 usc_title: 18
 usc_section: "3595"
 chapter: 228
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 3595"
-generated_at: "2026-03-30T02:54:16.521Z"
+generated_at: "2026-11-23T20:26:08.746Z"
+status: "active"
 ---
 
 # § 3595. Review of a sentence of death
@@ -23,3 +24,13 @@ generated_at: "2026-03-30T02:54:16.521Z"
     - **(B)** the admissible evidence and information adduced does not support the special finding of the existence of the required aggravating factor; or
     - **(C)** the proceedings involved any other legal error requiring reversal of the sentence that was properly preserved for appeal under the rules of criminal procedure,
   - **(3)** The court of appeals shall state in writing the reasons for its disposition of an appeal of a sentence of death under this section.
+
+Appeal
+
+Review
+
+Decision and Disposition.—
+
+## Source Credit
+
+*(Added [Pub. L. 103–322, title VI, § 60002(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1967](https://www.govinfo.gov/link/statute/108/1967).)*

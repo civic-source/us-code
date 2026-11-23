@@ -3,9 +3,10 @@ title: "Section 1511 - Cost of regulations"
 usc_title: 2
 usc_section: "1511"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1511"
-generated_at: "2026-03-30T02:53:04.814Z"
+generated_at: "2026-11-23T20:25:28.976Z"
+status: "active"
 ---
 
 # § 1511. Cost of regulations
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:04.814Z"
   - **(1)** an estimate by the relevant agency, prepared under section 1532 of this title , of the costs of regulations implementing an Act containing a Federal mandate; and
   - **(2)** the cost estimate prepared by the Congressional Budget Office for such Act when it was enacted by the Congress.
 - **(c)** At the request of the Director of the Congressional Budget Office, the Director of the Office of Management and Budget shall provide data and cost estimates for regulations implementing an Act containing a Federal mandate covered by part B of title IV of the Congressional Budget and Impoundment Control Act of 1974 [ 2 U.S.C. 658 et seq.].
+
+## Source Credit
+
+*([Pub. L. 104–4, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/4), Mar. 22, 1995, [109 Stat. 62](https://www.govinfo.gov/link/statute/109/62).)*

@@ -3,9 +3,10 @@ title: "Section 9511 - Grants for sex offense prevention and control"
 usc_title: 42
 usc_section: "9511"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9511"
-generated_at: "2026-03-30T02:56:11.352Z"
+generated_at: "2026-11-23T20:27:23.085Z"
+status: "active"
 ---
 
 # § 9511. Grants for sex offense prevention and control
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:11.352Z"
 - **(c)** No grant may be made under subsection (a) unless an application therefor is submitted to and approved by the Secretary. The application shall be submitted in such form and manner and contain such information as the Secretary may prescribe.
 - **(d)** For the purpose of carrying out subsection (a), there are authorized to be appropriated $6,000,000 for the fiscal year ending September 30, 1981 , $1,500,000 for the fiscal year ending September 30, 1982 , $1,500,000 for the fiscal year ending September 30, 1983 .
 - **(e)** For purposes of subsection (a), the term “sex offense” includes statutory and attempted rape and any other criminal sexual assault (whether homosexual or heterosexual) which involves force or the threat of force.
+
+## Source Credit
+
+*([Pub. L. 96–398, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/96/public/398) –(e), Oct. 7, 1980, [94 Stat. 1602](https://www.govinfo.gov/link/statute/94/1602), 1603; [Pub. L. 97–35, title IX, § 902(f)(20)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 560](https://www.govinfo.gov/link/statute/95/560); [Pub. L. 99–646, § 87(d)(3)](https://www.govinfo.gov/link/plaw/99/public/646) –(7), Nov. 10, 1986, [100 Stat. 3624](https://www.govinfo.gov/link/statute/100/3624); [Pub. L. 99–654, § 3(b)(3)](https://www.govinfo.gov/link/plaw/99/public/654) –(7), Nov. 14, 1986, [100 Stat. 3663](https://www.govinfo.gov/link/statute/100/3663), 3664.)*

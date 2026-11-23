@@ -3,9 +3,10 @@ title: "Section 3582 - Rights of transferring employees"
 usc_title: 5
 usc_section: "3582"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 3582"
-generated_at: "2026-03-30T02:52:56.007Z"
+generated_at: "2026-11-23T20:25:31.845Z"
+status: "active"
 ---
 
 # § 3582. Rights of transferring employees
@@ -22,3 +23,22 @@ generated_at: "2026-03-30T02:52:56.007Z"
   - **(1)** an employee, except a Congressional employee, is properly exercising or could exercise the reemployment right established by subsection (b) of this section; or
   - **(2)** a Congressional employee is effecting or could effect a reemployment.
 - **(d)** During the employee’s period of service with the international organization, the agency from which the employee is transferred shall make contributions for retirement and insurance purposes from the appropriations or funds of that agency so long as contributions are made by the employee.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 2333 (less (c)). | Aug. 28, 1958 , Pub. L. 85–795 § 4 (less (c)), 72 Stat. 960 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 2333
+
+Aug. 28, 1958
+
+Pub. L. 85–795
+
+72 Stat. 960
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 430](https://www.govinfo.gov/link/statute/80/430); [Pub. L. 91–175](https://www.govinfo.gov/link/plaw/91/public/175), pt. V, § 502(c)–(f), Dec. 30, 1969, [83 Stat. 825](https://www.govinfo.gov/link/statute/83/825), 826; [Pub. L. 94–183, § 2(10)](https://www.govinfo.gov/link/plaw/94/public/183), Dec. 31, 1975, [89 Stat. 1057](https://www.govinfo.gov/link/statute/89/1057); [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. B, title XXV, § 2504(a), Oct. 21, 1998, [112 Stat. 2681–837](https://www.govinfo.gov/link/statute/112/2681).)*

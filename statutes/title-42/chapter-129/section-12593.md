@@ -3,9 +3,10 @@ title: "Section 12593 - Terms of service"
 usc_title: 42
 usc_section: "12593"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12593"
-generated_at: "2026-03-30T02:56:11.419Z"
+generated_at: "2026-11-23T20:27:23.378Z"
+status: "active"
 ---
 
 # § 12593. Terms of service
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.419Z"
     - **(A)** to grant such release and certify the participant’s eligibility for that portion of the national service educational award corresponding to the portion of the term of service actually completed, as provided in section 12603(c) of this title ; or
     - **(B)** to permit the participant to temporarily suspend performance of the term of service for a period of up to 2 years (and such additional period as the Corporation may allow for extenuating circumstances) and, upon completion of such period, to complete the remainder of the term of service and obtain the entire national service educational award.
   - **(3)** A participant released for cause may not receive any portion of the national service educational award.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 139](https://www.govinfo.gov/link/plaw/101/public/610), as added [Pub. L. 103–82, title I, § 101(b)](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 810](https://www.govinfo.gov/link/statute/107/810); amended [Pub. L. 111–13, title I, § 1314](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1510](https://www.govinfo.gov/link/statute/123/1510).)*

@@ -3,9 +3,10 @@ title: "Section 1738r - “Qualified debt” defined"
 usc_title: 7
 usc_section: "1738r"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1738r"
-generated_at: "2026-03-30T02:53:42.342Z"
+generated_at: "2026-11-23T20:25:41.300Z"
+status: "active"
 ---
 
 # § 1738r. “Qualified debt” defined
@@ -14,3 +15,7 @@ As used in sections 1738 o , 1738p, and 1738q of this title, the term “qualifi
 
   - **(1)** in which the Commodity Credit Corporation obtained a legal right or interest, as a result of assignment or subrogation, not later than September 1, 1992 ; and
   - **(2)** the payment of which obligation has been, not later than September 1, 1992 , rescheduled in accordance with principles set forth in an Agreed Minute of the Paris Club.
+
+## Source Credit
+
+*(July 10, 1954, ch. 469, title VI, § 619, as added [Pub. L. 102–532, § 2](https://www.govinfo.gov/link/plaw/102/public/532), Oct. 27, 1992, [106 Stat. 3511](https://www.govinfo.gov/link/statute/106/3511).)*

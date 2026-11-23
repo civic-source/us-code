@@ -3,9 +3,10 @@ title: "Section 1268 - Great Lakes"
 usc_title: 33
 usc_section: "1268"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1268"
-generated_at: "2026-03-30T02:55:41.083Z"
+generated_at: "2026-11-23T20:26:53.976Z"
+status: "active"
 ---
 
 # § 1268. Great Lakes
@@ -197,3 +198,83 @@ generated_at: "2026-03-30T02:55:41.083Z"
   - **(1)** $11,000,000 per fiscal year for the fiscal years 1987, 1988, 1989, and 1990, and $25,000,000 for fiscal year 1991;
   - **(2)** such sums as are necessary for each of fiscal years 1992 through 2003; and
   - **(3)** $25,000,000 for each of fiscal years 2004 through 2008.
+
+Report
+
+(aa) prompt implementation;
+
+(bb) timely achievement of results; and
+
+(cc) resource leveraging; and
+
+(aa) shall not exceed the non-Federal share of the cost of the project; and
+
+(bb) shall not exceed the actual and reasonable costs of the materials and services provided by the non-Federal sponsor, as determined by the Administrator.
+
+Definitions
+
+Administrator
+
+Affected state
+
+Discharge
+
+Great lakes
+
+Treatment works
+
+Requirements.—
+
+In general
+
+Notice requirements
+
+Minimum requirements.—
+
+In general
+
+Consistency
+
+Additional requirements
+
+Timing.—
+
+State action
+
+Great Lakes Remedial Action Plans.—
+
+In general
+
+Non-federal share.—
+
+In general
+
+Contributions by entities
+
+Sediment Remediation Projects.—
+
+In general
+
+Site selection for projects
+
+Non-federal share
+
+Authorization of Appropriations
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+George W. Bush.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title I, § 118, as added [Pub. L. 100–4, title I, § 104](https://www.govinfo.gov/link/plaw/100/public/4), Feb. 4, 1987, [101 Stat. 11](https://www.govinfo.gov/link/statute/101/11); amended [Pub. L. 100–688, title I, § 1008](https://www.govinfo.gov/link/plaw/100/public/688), Nov. 18, 1988, [102 Stat. 4151](https://www.govinfo.gov/link/statute/102/4151); [Pub. L. 101–596, title I](https://www.govinfo.gov/link/plaw/101/public/596), §§ 101–106, Nov. 16, 1990, [104 Stat. 3000–3004](https://www.govinfo.gov/link/statute/104/3000); [Pub. L. 107–303, title I](https://www.govinfo.gov/link/plaw/107/public/303), §§ 102–105, Nov. 27, 2002, [116 Stat. 2355–2358](https://www.govinfo.gov/link/statute/116/2355); [Pub. L. 110–365](https://www.govinfo.gov/link/plaw/110/public/365), §§ 2, 3, Oct. 8, 2008, [122 Stat. 4021](https://www.govinfo.gov/link/statute/122/4021); [Pub. L. 113–188, title VII, § 701](https://www.govinfo.gov/link/plaw/113/public/188), Nov. 26, 2014, [128 Stat. 2019](https://www.govinfo.gov/link/statute/128/2019); [Pub. L. 114–113, div. G, title IV, § 426](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2581](https://www.govinfo.gov/link/statute/129/2581); [Pub. L. 114–322, title IV, § 5005](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1889](https://www.govinfo.gov/link/statute/130/1889); [Pub. L. 116–294, § 2](https://www.govinfo.gov/link/plaw/116/public/294), Jan. 5, 2021, [134 Stat. 4899](https://www.govinfo.gov/link/statute/134/4899).)*

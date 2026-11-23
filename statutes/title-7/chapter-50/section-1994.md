@@ -3,9 +3,10 @@ title: "Section 1994 - Maximum amounts for loans authorized; long-term cost proj
 usc_title: 7
 usc_section: "1994"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1994"
-generated_at: "2026-03-30T02:53:42.353Z"
+generated_at: "2026-11-23T20:25:41.378Z"
+status: "active"
 ---
 
 # § 1994. Maximum amounts for loans authorized; long-term cost projections
@@ -55,3 +56,7 @@ generated_at: "2026-03-30T02:53:42.353Z"
 - **(d)**
   - **(1)** Notwithstanding any other provision of law, not less than 25 per centum of the loans for farm ownership purposes under subchapter I of this chapter, and not less than 25 per centum of the loans for farm operating purposes under subchapter II of this chapter, authorized to be insured, or made to be sold and insured, from the Agricultural Credit Insurance Fund during each fiscal year shall be for low-income, limited-resource borrowers.
   - **(2)** The Secretary shall provide notification to farm borrowers under this chapter, as soon as practicable after April 10, 1984 , and in the normal course of loan making and loan servicing operations, of the provisions of this chapter relating to low-income, limited-resource borrowers and the procedures by which persons may apply for loans under the low-income, limited-resource borrower program.
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 346](https://www.govinfo.gov/link/plaw/87/public/128), as added [Pub. L. 95–334, title I, § 125](https://www.govinfo.gov/link/plaw/95/public/334), Aug. 4, 1978, [92 Stat. 428](https://www.govinfo.gov/link/statute/92/428); amended [Pub. L. 96–438, § 4](https://www.govinfo.gov/link/plaw/96/public/438), Oct. 13, 1980, [94 Stat. 1876](https://www.govinfo.gov/link/statute/94/1876); [Pub. L. 97–35, title I, § 164](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 379](https://www.govinfo.gov/link/statute/95/379); [Pub. L. 98–258, title VI, § 607](https://www.govinfo.gov/link/plaw/98/public/258), Apr. 10, 1984, [98 Stat. 140](https://www.govinfo.gov/link/statute/98/140); [Pub. L. 99–198, title XIII, § 1317](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1529](https://www.govinfo.gov/link/statute/99/1529); [Pub. L. 101–508, title I, § 1202(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–9](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 101–624, title XXIII, § 2388(i)](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 4053](https://www.govinfo.gov/link/statute/104/4053); [Pub. L. 102–237, title VII](https://www.govinfo.gov/link/plaw/102/public/237), §§ 701(h)(1)(F), 702(i), Dec. 13, 1991, [105 Stat. 1880](https://www.govinfo.gov/link/statute/105/1880), 1881; [Pub. L. 102–554, § 20](https://www.govinfo.gov/link/plaw/102/public/554), Oct. 28, 1992, [106 Stat. 4159](https://www.govinfo.gov/link/statute/106/4159); [Pub. L. 104–127, title VI, § 641](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1098](https://www.govinfo.gov/link/statute/110/1098); [Pub. L. 107–171, title V](https://www.govinfo.gov/link/plaw/107/public/171), §§ 5311, 5312, May 13, 2002, [116 Stat. 346](https://www.govinfo.gov/link/statute/116/346), 347; [Pub. L. 110–234, title V](https://www.govinfo.gov/link/plaw/110/public/234), §§ 5302(b), 5303, May 22, 2008, [122 Stat. 1152](https://www.govinfo.gov/link/statute/122/1152); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title V, §§ 5302(b), 5303, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1913, 1914; [Pub. L. 113–79, title V](https://www.govinfo.gov/link/plaw/113/public/79), §§ 5304, 5305, Feb. 7, 2014, [128 Stat. 840](https://www.govinfo.gov/link/statute/128/840); [Pub. L. 115–334, title V](https://www.govinfo.gov/link/plaw/115/public/334), §§ 5302–5304, 5401(g), Dec. 20, 2018, [132 Stat. 4671](https://www.govinfo.gov/link/statute/132/4671), 4672, 4674.)*

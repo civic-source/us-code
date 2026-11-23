@@ -3,9 +3,10 @@ title: "Section 17032 - Grants for biofuel production research and development i
 usc_title: 42
 usc_section: "17032"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17032"
-generated_at: "2026-03-30T02:56:11.493Z"
+generated_at: "2026-11-23T20:27:23.716Z"
+status: "active"
 ---
 
 # § 17032. Grants for biofuel production research and development in certain States
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.493Z"
     - **(B)** be a consortium including at least 1 such institution of higher education and industry, State agencies, Indian tribal agencies, National Laboratories, or local government agencies located in the State; and
   - **(2)** have proven experience and capabilities with relevant technologies.
 - **(c)** There are authorized to be appropriated to the Secretary to carry out this section $25,000,000 for each of fiscal years 2008 through 2010.
+
+## Source Credit
+
+*([Pub. L. 110–140, title II, § 223](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1533](https://www.govinfo.gov/link/statute/121/1533).)*

@@ -3,9 +3,10 @@ title: "Section 166 - Congressional Research Service"
 usc_title: 2
 usc_section: "166"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 166"
-generated_at: "2026-03-30T02:53:04.790Z"
+generated_at: "2026-11-23T20:25:28.849Z"
+status: "active"
 ---
 
 # § 166. Congressional Research Service
@@ -74,3 +75,7 @@ generated_at: "2026-03-30T02:53:04.790Z"
   - **(2)** The Director of the Congressional Research Service may procure by contract, without regard to any provision of law requiring advertising for contract bids, the temporary (for respective periods not in excess of one year) or intermittent assistance of educational, research, or other organizations of experts and consultants (including stenographic reporters) and of educational, research, and other organizations of persons learned in particular or specialized fields of knowledge.
 - **(i)** The Director of the Congressional Research Service shall prepare and file with the Joint Committee on the Library at the beginning of each regular session of Congress a separate and special report covering, in summary and in detail, all phases of activity of the Congressional Research Service for the immediately preceding fiscal year, and shall include in the report a description of the efforts made by the Director to make additional Congressional Research Service products that are not confidential products or services available to the Librarian of Congress for publication on the website established and maintained under section 124 1 of the Legislative Branch Appropriations Act, 2018.
 - **(j)** There are hereby authorized to be appropriated to the Congressional Research Service each fiscal year such sums as may be necessary to carry on the work of the Service.
+
+## Source Credit
+
+*(Aug. 2, 1946, ch. 753, title II, § 203, [60 Stat. 836](https://www.govinfo.gov/link/statute/60/836); Oct. 28, 1949, ch. 782, title XI, § 1106(a), [63 Stat. 972](https://www.govinfo.gov/link/statute/63/972); [Pub. L. 91–510, title III, § 321(a)](https://www.govinfo.gov/link/plaw/91/public/510), Oct. 26, 1970, [84 Stat. 1181](https://www.govinfo.gov/link/statute/84/1181); [Pub. L. 99–190, § 133](https://www.govinfo.gov/link/plaw/99/public/190), Dec. 19, 1985, [99 Stat. 1322](https://www.govinfo.gov/link/statute/99/1322); [Pub. L. 106–57, title II, § 209(b)](https://www.govinfo.gov/link/plaw/106/public/57), Sept. 29, 1999, [113 Stat. 424](https://www.govinfo.gov/link/statute/113/424); [Pub. L. 115–141, div. I, title I, § 154(b)(7)](https://www.govinfo.gov/link/plaw/115/public/141), (d), Mar. 23, 2018, [132 Stat. 789](https://www.govinfo.gov/link/statute/132/789), 790; [Pub. L. 116–94, div. P, title XIV, § 1404(a)(2)](https://www.govinfo.gov/link/plaw/116/public/94), (b)(1), Dec. 20, 2019, [133 Stat. 3208](https://www.govinfo.gov/link/statute/133/3208).)*

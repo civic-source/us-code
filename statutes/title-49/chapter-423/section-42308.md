@@ -3,9 +3,10 @@ title: "Section 42308 - DOT airline customer service dashboards"
 usc_title: 49
 usc_section: "42308"
 chapter: 423
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 42308"
-generated_at: "2026-03-30T02:56:19.379Z"
+generated_at: "2026-11-23T20:27:35.126Z"
+status: "active"
 ---
 
 # § 42308. DOT airline customer service dashboards
@@ -20,3 +21,27 @@ generated_at: "2026-03-30T02:56:19.379Z"
 - **(c)** After the rule required in section 516 of the FAA Reauthorization Act of 2024 is effective, the Secretary may not establish or maintain more than 4 different customer service dashboards at any given time.
 - **(d)** Each large air carrier shall provide to the Secretary such information as the Secretary requires to carry out this section.
 - **(e)** This section shall cease to be effective on October 1, 2028 .
+
+Requirement To Establish and Maintain Publicly Available Dashboards
+
+Delay and cancellation dashboard
+
+Explanation of circumstances
+
+Family seating dashboard
+
+Seat size dashboard
+
+Family seating sunset
+
+Accessibility Requirement
+
+Limitation on Dashboards
+
+Provision of Information
+
+Sunset
+
+## Source Credit
+
+*(Added [Pub. L. 118–63, title V, § 506(a)(1)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1192](https://www.govinfo.gov/link/statute/138/1192).)*

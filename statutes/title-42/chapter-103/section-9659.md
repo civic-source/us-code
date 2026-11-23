@@ -3,9 +3,10 @@ title: "Section 9659 - Citizens suits"
 usc_title: 42
 usc_section: "9659"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9659"
-generated_at: "2026-03-30T02:56:11.364Z"
+generated_at: "2026-11-23T20:27:23.126Z"
+status: "active"
 ---
 
 # § 9659. Citizens suits
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:11.364Z"
 - **(g)** In any action under this section, the United States or the State, or both, if not a party may intervene as a matter of right. For other provisions regarding intervention, see section 9613 of this title .
 - **(h)** This chapter does not affect or otherwise impair the rights of any person under Federal, State, or common law, except with respect to the timing of review as provided in section 9613(h) of this title or as otherwise provided in section 9658 of this title (relating to actions under State law).
 - **(i)** The terms used in this section shall have the same meanings as when used in subchapter I.
+
+## Source Credit
+
+*([Pub. L. 96–510, title III, § 310](https://www.govinfo.gov/link/plaw/96/public/510), as added [Pub. L. 99–499, title II, § 206](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1703](https://www.govinfo.gov/link/statute/100/1703).)*

@@ -3,9 +3,10 @@ title: "Section 12103 - General eligibility requirements"
 usc_title: 46
 usc_section: "12103"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 12103"
-generated_at: "2026-03-30T02:56:15.558Z"
+generated_at: "2026-11-23T20:27:27.169Z"
+status: "active"
 ---
 
 # § 12103. General eligibility requirements
@@ -29,3 +30,28 @@ generated_at: "2026-03-30T02:56:15.558Z"
   - **(5)** The United States Government.
   - **(6)** The government of a State.
 - **(c)** Notwithstanding subsection (a)(2), the Secretary may issue a temporary certificate of documentation for a vessel before it is measured.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 12103(a) | 46:12102(a) (less ownership), (b) (1st sentence). |  |
+| 12103(b) | 46:12102(a) (related to ownership) |  |
+| 12103(c) | 46:12102(b) (last sentence). |  |
+
+
+In General
+
+Eligible Owners
+
+Temporary Certificates Prior to Measurement
+
+Historical and Revision Notes
+
+12103(a)
+
+12103(b)
+
+12103(c)
+
+## Source Credit
+
+*([Pub. L. 109–304, § 5](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1492](https://www.govinfo.gov/link/statute/120/1492).)*

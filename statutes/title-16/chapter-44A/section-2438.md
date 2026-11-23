@@ -3,9 +3,10 @@ title: "Section 2438 - Criminal offenses"
 usc_title: 16
 usc_section: "2438"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 2438"
-generated_at: "2026-03-30T02:54:23.003Z"
+generated_at: "2026-11-23T20:26:20.608Z"
+status: "active"
 ---
 
 # § 2438. Criminal offenses
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:23.003Z"
 - **(a)** A person is guilty of an offense if that person commits any act prohibited by paragraph (4), (5), (6), or (7) of section 2435 of this title .
 - **(b)** Any offense described in subsection (a) is punishable by a fine of $50,000, or imprisonment for not more than ten years, or both.
 - **(c)** A conviction under subsection (a) for any act shall not be deemed to preclude a conviction for such act under any other law.
+
+## Source Credit
+
+*([Pub. L. 98–623, title III, § 309](https://www.govinfo.gov/link/plaw/98/public/623), Nov. 8, 1984, [98 Stat. 3403](https://www.govinfo.gov/link/statute/98/3403).)*

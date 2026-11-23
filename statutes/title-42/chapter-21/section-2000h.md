@@ -3,12 +3,17 @@ title: "Section 2000h - Criminal contempt proceedings: trial by jury, criminal p
 usc_title: 42
 usc_section: "2000h"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2000h"
-generated_at: "2026-03-30T02:56:11.140Z"
+generated_at: "2026-11-23T20:27:22.024Z"
+status: "active"
 ---
 
 # § 2000h. Criminal contempt proceedings: trial by jury, criminal practice, penalties, exceptions, intent; civil contempt proceedings
 
 In any proceeding for criminal contempt arising under title II, III, IV, V, VI, or VII of this Act, the accused, upon demand therefor, shall be entitled to a trial by jury, which shall conform as near as may be to the practice in criminal cases. Upon conviction, the accused shall not be fined more than $1,000 or imprisoned for more than six months. This section shall not apply to contempts committed in the presence of the court, or so near thereto as to obstruct the administration of justice, nor to the misbehavior, misconduct, or disobedience of any officer of the court in respect to writs, orders, or process of the court. No person shall be convicted of criminal contempt hereunder unless the act or omission constituting such contempt shall have been intentional, as required in other cases of criminal contempt. Nor shall anything herein be construed to deprive courts of their power, by civil contempt proceedings, without a jury, to secure compliance with or to prevent obstruction of, as distinguished from punishment for violations of, any lawful writ, process, order, rule, decree, or command of the court in accordance with the prevailing usages of law and equity, including the power of detention.
 
+
+## Source Credit
+
+*([Pub. L. 88–352, title XI, § 1101](https://www.govinfo.gov/link/plaw/88/public/352), July 2, 1964, [78 Stat. 268](https://www.govinfo.gov/link/statute/78/268).)*

@@ -3,9 +3,10 @@ title: "Section 741 - Definitions for this subchapter"
 usc_title: 11
 usc_section: "741"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 741"
-generated_at: "2026-03-30T02:53:53.882Z"
+generated_at: "2026-11-23T20:25:55.384Z"
+status: "active"
 ---
 
 # § 741. Definitions for this subchapter
@@ -59,3 +60,7 @@ In this subchapter—
     - **(B)** does not include any purchase, sale, or repurchase obligation under a participation in a commercial mortgage loan;
   - **(8)** “settlement payment” means a preliminary settlement payment, a partial settlement payment, an interim settlement payment, a settlement payment on account, a final settlement payment, or any other similar payment commonly used in the securities trade; and
   - **(9)** “SIPC” means Securities Investor Protection Corporation.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2611](https://www.govinfo.gov/link/statute/92/2611); [Pub. L. 97–222, § 8](https://www.govinfo.gov/link/plaw/97/public/222), July 27, 1982, [96 Stat. 237](https://www.govinfo.gov/link/statute/96/237); [Pub. L. 98–353, title III, § 482](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 382](https://www.govinfo.gov/link/statute/98/382); [Pub. L. 103–394, title V, § 501(d)(25)](https://www.govinfo.gov/link/plaw/103/public/394), Oct. 22, 1994, [108 Stat. 4146](https://www.govinfo.gov/link/statute/108/4146); [Pub. L. 109–8, title IX, § 907(a)(2)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 173](https://www.govinfo.gov/link/statute/119/173); [Pub. L. 109–390, § 5(a)(3)](https://www.govinfo.gov/link/plaw/109/public/390), Dec. 12, 2006, [120 Stat. 2697](https://www.govinfo.gov/link/statute/120/2697).)*

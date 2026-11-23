@@ -3,9 +3,10 @@ title: "Section 2313 - Description of sanctions"
 usc_title: 21
 usc_section: "2313"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 2313"
-generated_at: "2026-03-30T02:54:54.311Z"
+generated_at: "2026-11-23T20:26:27.911Z"
+status: "active"
 ---
 
 # § 2313. Description of sanctions
@@ -32,3 +33,13 @@ generated_at: "2026-03-30T02:54:54.311Z"
     - **(B)** any authorized intelligence or law enforcement activities of the United States.
   - **(2)** Sanctions under subsection (a)(8) shall not apply to an alien if admitting the alien into the United States is necessary to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947 , and entered into force November 21, 1947 , between the United Nations and the United States, the Convention on Consular Relations, done at Vienna April 24, 1963 , and entered into force March 19, 1967 , or other applicable international obligations.
 - **(d)** The President may exercise all authorities provided under sections 1702 and 1704 of title 50 to carry out this section.
+
+Definitions
+
+In General
+
+Sunset
+
+## Source Credit
+
+*([Pub. L. 116–92, div. F, title LXXII, § 7213](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2266](https://www.govinfo.gov/link/statute/133/2266).)*

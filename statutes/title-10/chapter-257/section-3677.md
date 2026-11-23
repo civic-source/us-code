@@ -3,9 +3,10 @@ title: "Section 3677 - Contracts for lease or use of vessels for a term of great
 usc_title: 10
 usc_section: "3677"
 chapter: 257
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 3677"
-generated_at: "2026-03-30T02:53:38.196Z"
+generated_at: "2026-11-23T20:25:51.845Z"
+status: "active"
 ---
 
 # § 3677. Contracts for lease or use of vessels for a term of greater than two years but less than five years: prior notice to congressional committees
@@ -17,3 +18,7 @@ The Secretary of a military department may make a contract for the lease of a ve
     - **(B)** a determination that entering into the proposed contract as a means of obtaining the vessel is the most cost-effective means of obtaining such vessel; and
     - **(C)** a plan for meeting the requirement provided by the proposed contract upon completion of the term of the lease contract; and
   - **(2)** a period of 60 days has expired following the date on which notice was received by such committees.
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1825(a)](https://www.govinfo.gov/link/plaw/116/public/283), (i), Jan. 1, 2021, [134 Stat. 4206](https://www.govinfo.gov/link/statute/134/4206), 4208.)*

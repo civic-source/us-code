@@ -3,9 +3,10 @@ title: "Section 8111 - Biomass Crop Assistance Program"
 usc_title: 7
 usc_section: "8111"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 8111"
-generated_at: "2026-03-30T02:53:42.472Z"
+generated_at: "2026-11-23T20:25:41.873Z"
+status: "active"
 ---
 
 # § 8111. Biomass Crop Assistance Program
@@ -141,3 +142,21 @@ generated_at: "2026-03-30T02:53:42.472Z"
   - **(1)** There is authorized to be appropriated to carry out this section $25,000,000 for each of fiscal years 2019 through 2023.
   - **(2)** Of the amount made available under paragraph (1) for each fiscal year, the Secretary shall use not less than 10 percent, nor more than 50 percent, of the amount to make collection, harvest, transportation, and storage payments under subsection (d)(2).
   - **(3)** Effective for fiscal year 2014 and each subsequent fiscal year, funds made available under this subsection shall be available for the provision of technical assistance with respect to activities authorized under this section.
+
+(aa) National Forest System;
+
+(bb) Bureau of Land Management land;
+
+(cc) non-Federal land; or
+
+(dd) land owned by an individual Indian or Indian tribe that is held in trust by the United States for the benefit of the individual Indian or Indian tribe or subject to a restriction against alienation imposed by the United States;
+
+(aa) a conservation plan;
+
+(bb) a forest stewardship plan; or
+
+(cc) a plan that the Secretary determines is equivalent to a plan described in item (aa) or (bb) and consistent with Executive Order 13112 ( 42 U.S.C. 4321 note; relating to invasive species);
+
+## Source Credit
+
+*([Pub. L. 107–171, title IX, § 9011](https://www.govinfo.gov/link/plaw/107/public/171), as added [Pub. L. 110–234, title IX, § 9001(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1327](https://www.govinfo.gov/link/statute/122/1327), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IX, § 9001(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2089; amended [Pub. L. 112–240, title VII, § 701(f)(10)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2365](https://www.govinfo.gov/link/statute/126/2365); [Pub. L. 113–79, title IX, § 9010](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 932](https://www.govinfo.gov/link/statute/128/932); [Pub. L. 115–334, title IX, § 9010](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4887](https://www.govinfo.gov/link/statute/132/4887).)*

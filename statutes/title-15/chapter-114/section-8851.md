@@ -3,9 +3,10 @@ title: "Section 8851 - Quantum information science research program"
 usc_title: 15
 usc_section: "8851"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 8851"
-generated_at: "2026-03-30T02:54:08.234Z"
+generated_at: "2026-11-23T20:26:04.507Z"
+status: "active"
 ---
 
 # § 8851. Quantum information science research program
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:08.234Z"
     - **(E)** the Advanced Research Projects Agency; and
     - **(F)** the National Quantum Information Science Research Centers; and
   - **(5)** coordinate with other Federal departments and agencies, research communities, and potential users of information produced under this section.
+
+## Source Credit
+
+*([Pub. L. 115–368, title IV, § 401](https://www.govinfo.gov/link/plaw/115/public/368), Dec. 21, 2018, [132 Stat. 5101](https://www.govinfo.gov/link/statute/132/5101).)*

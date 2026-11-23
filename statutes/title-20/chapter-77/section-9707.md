@@ -3,9 +3,10 @@ title: "Section 9707 - The national public service multimedia campaign to enhanc
 usc_title: 20
 usc_section: "9707"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 9707"
-generated_at: "2026-03-30T02:54:48.232Z"
+generated_at: "2026-11-23T20:26:15.007Z"
+status: "active"
 ---
 
 # § 9707. The national public service multimedia campaign to enhance the state of financial literacy
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:48.232Z"
 - **(d)** The Secretary shall develop measures to evaluate the effectiveness of the pilot national public service multimedia campaign, as measured by improved financial decision making among individuals.
 - **(e)** For each fiscal year for which there are appropriations pursuant to the authorization in subsection (e), 1 1 So in original. Probably should be subsection “(f),”. the Secretary shall submit a report to the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Financial Services and the Committee on Appropriations of the House of Representatives, describing the status and implementation of the provisions of this section and the state of financial literacy and education in the United States.
 - **(f)** There are authorized to be appropriated to the Secretary, not to exceed $3,000,000 for fiscal years 2004, 2005, and 2006, for the development, production, and distribution of a pilot national public service multimedia campaign under this section.
+
+## Source Credit
+
+*([Pub. L. 108–159, title V, § 518](https://www.govinfo.gov/link/plaw/108/public/159), Dec. 4, 2003, [117 Stat. 2009](https://www.govinfo.gov/link/statute/117/2009).)*

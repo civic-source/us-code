@@ -3,9 +3,10 @@ title: "Section 2804 - Notification of termination or nonrenewal of franchise re
 usc_title: 15
 usc_section: "2804"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2804"
-generated_at: "2026-03-30T02:54:08.183Z"
+generated_at: "2026-11-23T20:26:04.255Z"
+status: "active"
 ---
 
 # § 2804. Notification of termination or nonrenewal of franchise relationship
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:08.183Z"
 - **(d)**
   - **(1)** Not later than 30 days after June 19, 1978 , the Secretary of Energy shall prepare and publish in the Federal Register a simple and concise summary of the provisions of this subchapter, including a statement of the respective responsibilities of, and the remedies and relief available to, any franchisor and franchisee under this subchapter.
   - **(2)** In the case of summaries required to be furnished under the provisions of section 2802(b)(2)(D) of this title or subsection (c)(3)(C) of this section before the date of publication of such summary in the Federal Register, such summary may be furnished not later than 5 days after it is so published rather than at the time required under such provisions.
+
+## Source Credit
+
+*([Pub. L. 95–297, title I, § 104](https://www.govinfo.gov/link/plaw/95/public/297), June 19, 1978, [92 Stat. 329](https://www.govinfo.gov/link/statute/92/329).)*

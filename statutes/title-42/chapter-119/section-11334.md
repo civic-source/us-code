@@ -3,9 +3,10 @@ title: "Section 11334 - Records and audit of National Board and recipients of as
 usc_title: 42
 usc_section: "11334"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11334"
-generated_at: "2026-03-30T02:56:11.397Z"
+generated_at: "2026-11-23T20:27:23.287Z"
+status: "active"
 ---
 
 # § 11334. Records and audit of National Board and recipients of assistance
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.397Z"
   - **(1)** Each recipient of assistance under this subchapter shall keep such records as may be reasonably necessary to fully disclose the amount and the disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance is given or used, and the amount and nature of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
   - **(2)** The National Board, or any of its duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient that are pertinent to assistance received under this subchapter.
 - **(c)** The Comptroller General of the United States, or any of the duly authorized representatives of the Comptroller General, shall also have access to any books, documents, papers, and records of the National Board and recipients for such purpose.
+
+## Source Credit
+
+*([Pub. L. 100–77, title III, § 304](https://www.govinfo.gov/link/plaw/100/public/77), July 22, 1987, [101 Stat. 491](https://www.govinfo.gov/link/statute/101/491).)*

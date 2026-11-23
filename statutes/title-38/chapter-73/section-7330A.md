@@ -3,9 +3,10 @@ title: "Section 7330A - Epilepsy centers of excellence"
 usc_title: 38
 usc_section: "7330A"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7330A"
-generated_at: "2026-03-30T02:55:53.529Z"
+generated_at: "2026-11-23T20:27:02.004Z"
+status: "active"
 ---
 
 # § 7330A. Epilepsy centers of excellence
@@ -51,3 +52,19 @@ generated_at: "2026-03-30T02:55:53.529Z"
   - **(3)** The Secretary shall ensure that funds for such centers are designated for the first three years of operation as a special purpose program for which funds are not allocated through the Veterans Equitable Resource Allocation system.
   - **(4)** In addition to amounts authorized to be appropriated under paragraphs (1) and (2) for a fiscal year, the Under Secretary for Health shall allocate to such centers from other funds appropriated generally for the Department medical services account and medical and prosthetics research account, as appropriate, such amounts as the Under Secretary for Health determines appropriate.
   - **(5)** In addition to amounts authorized to be appropriated under paragraphs (1) and (2) for a fiscal year, there are authorized to be appropriated such sums as may be necessary to fund the national coordinator established by subsection (e).
+
+Establishment of Centers
+
+Designation of Facilities
+
+Peer Review Panel
+
+Epilepsy Center of Excellence Defined
+
+National Coordinator for Epilepsy Programs
+
+Authorization of Appropriations
+
+## Source Credit
+
+*(Added [Pub. L. 110–387, title IV, § 404(a)](https://www.govinfo.gov/link/plaw/110/public/387), Oct. 10, 2008, [122 Stat. 4126](https://www.govinfo.gov/link/statute/122/4126); amended [Pub. L. 117–286, § 4(a)(225)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4330](https://www.govinfo.gov/link/statute/136/4330).)*

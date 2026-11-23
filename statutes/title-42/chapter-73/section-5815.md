@@ -3,9 +3,10 @@ title: "Section 5815 - Administrative provisions"
 usc_title: 42
 usc_section: "5815"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5815"
-generated_at: "2026-03-30T02:56:11.238Z"
+generated_at: "2026-11-23T20:27:22.558Z"
+status: "active"
 ---
 
 # § 5815. Administrative provisions
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.238Z"
 - **(f)** The Administrator shall cause a seal of office to be made for the Administration of such device as he shall approve, and judicial notice shall be taken of such seal.
 - **(g)** The Administrator is authorized to establish a working capital fund, to be available without fiscal year limitation, for expenses necessary for the maintenance and operation of such common administrative services as he shall find to be desirable in the interests of economy and efficiency. There shall be transferred to the fund the stocks of supplies, equipment, assets other than real property, liabilities, and unpaid obligations relating to the services which he determines will be performed through the fund. Appropriations to the fund, in such amounts as may be necessary to provide additional working capital, are authorized. The working capital fund shall recover, from the appropriations and funds for which services are performed, either in advance or by way of reimbursement, amounts which will approximate the costs incurred, including the accrual or annual leave and the depreciation of equipment. The fund shall also be credited with receipts from the sale or exchange of its property, and receipts in payment for loss or damage to property owned by the fund.
 - **(h)** Each department, agency, and instrumentality of the executive branch of the Government is authorized to furnish to the Administrator, upon his request, any information or other data which the Administrator deems necessary to carry out his duties under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 93–438, title I, § 105](https://www.govinfo.gov/link/plaw/93/public/438), Oct. 11, 1974, [88 Stat. 1238](https://www.govinfo.gov/link/statute/88/1238).)*

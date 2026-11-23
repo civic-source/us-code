@@ -3,9 +3,10 @@ title: "Section 6925 - Food Access Liaison"
 usc_title: 7
 usc_section: "6925"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6925"
-generated_at: "2026-03-30T02:53:42.439Z"
+generated_at: "2026-11-23T20:25:41.735Z"
+status: "active"
 ---
 
 # § 6925. Food Access Liaison
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:42.439Z"
   - **(4)** raise awareness of food access issues in interactions with employees of the Department;
   - **(5)** make recommendations to the Secretary with respect to efforts to reduce barriers to food access; and
   - **(6)** submit to Congress an annual report with respect to the efforts of the Department to reduce barriers to food access.
+
+## Source Credit
+
+*([Pub. L. 103–354, title II, § 225](https://www.govinfo.gov/link/plaw/103/public/354), as added [Pub. L. 115–334, title XII, § 12614(a)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 5014](https://www.govinfo.gov/link/statute/132/5014).)*

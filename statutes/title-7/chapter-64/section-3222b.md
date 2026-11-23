@@ -3,9 +3,10 @@ title: "Section 3222b - Grants to upgrade agricultural and food sciences facilit
 usc_title: 7
 usc_section: "3222b"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 3222b"
-generated_at: "2026-03-30T02:53:42.399Z"
+generated_at: "2026-11-23T20:25:41.580Z"
+status: "active"
 ---
 
 # § 3222b. Grants to upgrade agricultural and food sciences facilities at 1890 land-grant colleges, including Tuskegee University
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:42.399Z"
 - **(d)** Grants awarded pursuant to this section shall be made in such amounts and under such terms and conditions as the Secretary shall determine necessary for carrying out the purposes of this section.
 - **(e)** Federal funds provided under this section may not be utilized for the payment of any overhead costs of the eligible institutions.
 - **(f)** The Secretary may promulgate such rules and regulations as the Secretary may consider necessary to carry out the provisions of this section.
+
+## Source Credit
+
+*([Pub. L. 95–113, title XIV, § 1447](https://www.govinfo.gov/link/plaw/95/public/113), as added [Pub. L. 101–624, title XVI, § 1612(b)](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3722](https://www.govinfo.gov/link/statute/104/3722); amended [Pub. L. 104–127, title VIII, § 813](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1166](https://www.govinfo.gov/link/statute/110/1166); [Pub. L. 105–185, title III, § 301(a)(9)](https://www.govinfo.gov/link/plaw/105/public/185), June 23, 1998, [112 Stat. 562](https://www.govinfo.gov/link/statute/112/562); [Pub. L. 107–171, title VII, § 7109](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 432](https://www.govinfo.gov/link/statute/116/432); [Pub. L. 110–234, title VII, § 7123](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1222](https://www.govinfo.gov/link/statute/122/1222); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, § 7123, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1983; [Pub. L. 113–79, title VII, § 7112](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 874](https://www.govinfo.gov/link/statute/128/874); [Pub. L. 115–334, title VII, § 7118](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4790](https://www.govinfo.gov/link/statute/132/4790).)*

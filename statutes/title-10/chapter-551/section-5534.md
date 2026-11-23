@@ -3,9 +3,10 @@ title: "Section 5534 - Integration and interoperability of air and missile defen
 usc_title: 10
 usc_section: "5534"
 chapter: 551
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 5534"
-generated_at: "2026-03-30T02:53:38.217Z"
+generated_at: "2026-11-23T20:25:52.003Z"
+status: "active"
 ---
 
 # § 5534. Integration and interoperability of air and missile defense capabilities
@@ -17,3 +18,13 @@ generated_at: "2026-03-30T02:53:38.217Z"
     - **(A)** determines that such waiver is necessary for such year; and
     - **(B)** submits to the congressional defense committees notification of such waiver, including an explanation for how such waiver will not negatively affect demonstrating the interoperability and integration among the covered air and missile defense capabilities of the United States.
 - **(c)** In this section, the term “covered air and missile defense capabilities” means Patriot air and missile defense batteries and associated interceptors and systems, Aegis ships and associated ballistic missile interceptors (including Aegis Ashore capability), AN/TPY–2 radars, or terminal high altitude area defense batteries and interceptors.
+
+Interoperability of Missile Defense Systems
+
+Annual Demonstration
+
+Definition of Covered Air and Missile Defense Capabilities
+
+## Source Credit
+
+*(Added [Pub. L. 118–159, div. A, title XVI, § 1649(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2196](https://www.govinfo.gov/link/statute/138/2196).)*

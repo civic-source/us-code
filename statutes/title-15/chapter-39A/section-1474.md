@@ -3,9 +3,10 @@ title: "Section 1474 - Regulations for special packaging standards"
 usc_title: 15
 usc_section: "1474"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1474"
-generated_at: "2026-03-30T02:54:08.135Z"
+generated_at: "2026-11-23T20:26:04.009Z"
+status: "active"
 ---
 
 # § 1474. Regulations for special packaging standards
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.135Z"
   - **(3)** Upon the filing of the petition under paragraph (1) of this subsection the court shall have jurisdiction to review the standard of the Commission in accordance with subparagraphs (A), (B), (C), and (D) of paragraph (2) of section 706 of title 5 . If the court ordered additional evidence to be taken under paragraph (2) of this subsection, the court shall also review the Commission’s standard to determine if, on the basis of the entire record before the court pursuant to paragraphs (1) and (2) of this subsection, it is supported by substantial evidence. If the court finds the standard is not so supported, the court may set it aside.
   - **(4)** With respect to any standard reviewed under this subsection, the court may grant appropriate relief pending conclusion of the review proceedings, as provided in section 705 of such title 5.
   - **(5)** The judgment of the court affirming or setting aside, in whole or in part, any such standard of the Commission shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification, as provided in section 1254 of title 28 .
+
+## Source Credit
+
+*([Pub. L. 91–601, § 5](https://www.govinfo.gov/link/plaw/91/public/601), Dec. 30, 1970, [84 Stat. 1671](https://www.govinfo.gov/link/statute/84/1671); [Pub. L. 92–573, § 30(a)](https://www.govinfo.gov/link/plaw/92/public/573), Oct. 27, 1972, [86 Stat. 1231](https://www.govinfo.gov/link/statute/86/1231).)*

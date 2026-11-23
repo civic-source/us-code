@@ -3,9 +3,10 @@ title: "Section 6262 - Safety oversight and enforcement at defense nuclear facil
 usc_title: 10
 usc_section: "6262"
 chapter: 606
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6262"
-generated_at: "2026-03-30T02:53:38.224Z"
+generated_at: "2026-11-23T20:25:52.025Z"
+status: "active"
 ---
 
 # § 6262. Safety oversight and enforcement at defense nuclear facilities
@@ -22,3 +23,7 @@ The Secretary of Energy shall take appropriate actions to ensure that—
     - **(D)** the development of clear performance standards to be used in assessing the adequacy of the programs referred to in subparagraph (C)(ii);
   - **(3)** the Department has a system for bringing issues relating to nuclear safety at defense nuclear facilities to the attention of the officials of the Department (including the Secretary of Energy) who have authority to resolve such issues in an adequate and timely manner; and
   - **(4)** an adequate number of qualified personnel of the Department are assigned to oversee matters relating to nuclear safety at defense nuclear facilities and enforce nuclear safety standards at such facilities.
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1420](https://www.govinfo.gov/link/statute/139/1420).)*

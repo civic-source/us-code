@@ -3,9 +3,10 @@ title: "Section 1547 - Interpretation of joint resolution"
 usc_title: 50
 usc_section: "1547"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 1547"
-generated_at: "2026-03-30T02:56:26.206Z"
+generated_at: "2026-11-23T20:27:30.745Z"
+status: "active"
 ---
 
 # § 1547. Interpretation of joint resolution
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:26.206Z"
 - **(d)** Nothing in this chapter—
   - **(1)** is intended to alter the constitutional authority of the Congress or of the President, or the provisions of existing treaties; or
   - **(2)** shall be construed as granting any authority to the President with respect to the introduction of United States Armed Forces into hostilities or into situations wherein involvement in hostilities is clearly indicated by the circumstances which authority he would not have had in the absence of this chapter.
+
+## Source Credit
+
+*([Pub. L. 93–148, § 8](https://www.govinfo.gov/link/plaw/93/public/148), Nov. 7, 1973, [87 Stat. 558](https://www.govinfo.gov/link/statute/87/558).)*

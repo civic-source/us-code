@@ -3,9 +3,10 @@ title: "Section 8324 - Terms and conditions; compliance plans"
 usc_title: 42
 usc_section: "8324"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8324"
-generated_at: "2026-03-30T02:56:11.341Z"
+generated_at: "2026-11-23T20:27:23.035Z"
+status: "active"
 ---
 
 # § 8324. Terms and conditions; compliance plans
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.341Z"
 - **(b)** A compliance plan meets the requirements of this subsection if it is approved by the Secretary and—
   - **(1)** contains (A) a schedule indicating how compliance with applicable prohibitions of this chapter will occur and (B) evidence of binding contracts for fuel, or facilities for the production of fuel, which would allow or 1 1 So in original. Probably should be “for”. such compliance; and
   - **(2)** is revised at such times and to such extent as the Secretary may require to reflect changes in circumstances.
+
+## Source Credit
+
+*([Pub. L. 95–620, title II, § 214](https://www.govinfo.gov/link/plaw/95/public/620), Nov. 9, 1978, [92 Stat. 3304](https://www.govinfo.gov/link/statute/92/3304); [Pub. L. 100–42, § 1(c)(8)](https://www.govinfo.gov/link/plaw/100/public/42), May 21, 1987, [101 Stat. 312](https://www.govinfo.gov/link/statute/101/312).)*

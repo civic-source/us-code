@@ -3,9 +3,10 @@ title: "Section 7422 - Listing of certain unregulated pollutants"
 usc_title: 42
 usc_section: "7422"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7422"
-generated_at: "2026-03-30T02:56:11.302Z"
+generated_at: "2026-11-23T20:27:22.863Z"
+status: "active"
 ---
 
 # § 7422. Listing of certain unregulated pollutants
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.302Z"
   - **(1)** Before listing any source material, special nuclear, 2 2 So in original. The word “material” probably should precede the comma. or byproduct material (or component or derivative thereof) as provided in subsection (a), the Administrator shall consult with the Nuclear Regulatory Commission.
   - **(2)** Not later than six months after listing any such material (or component or derivative thereof) the Administrator and the Nuclear Regulatory Commission shall enter into an interagency agreement with respect to those sources or facilities which are under the jurisdiction of the Commission. This agreement shall, to the maximum extent practicable consistent with this chapter, minimize duplication of effort and conserve administrative resources in the establishment, implementation, and enforcement of emission limitations, standards of performance, and other requirements and authorities (substantive and procedural) under this chapter respecting the emission of such material (or component or derivative thereof) from such sources or facilities.
   - **(3)** In case of any standard or emission limitation promulgated by the Administrator, under this chapter or by any State (or the Administrator) under any applicable implementation plan under this chapter, if the Nuclear Regulatory Commission determines, after notice and opportunity for public hearing that the application of such standard or limitation to a source or facility within the jurisdiction of the Commission would endanger public health or safety, such standard or limitation shall not apply to such facilities or sources unless the President determines otherwise within ninety days from the date of such finding.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 122, as added [Pub. L. 95–95, title I, § 120(a)](https://www.govinfo.gov/link/plaw/95/public/95), Aug. 7, 1977, [91 Stat. 720](https://www.govinfo.gov/link/statute/91/720).)*

@@ -3,9 +3,10 @@ title: "Section 9001 - Findings and declarations"
 usc_title: 22
 usc_section: "9001"
 chapter: 97
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9001"
-generated_at: "2026-03-30T02:55:05.460Z"
+generated_at: "2026-11-23T20:26:32.749Z"
+status: "active"
 ---
 
 # § 9001. Findings and declarations
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:05.460Z"
     - **(A)** the international character of the Convention; and
     - **(B)** the need for uniform international interpretation of the Convention.
   - **(4)** The Convention and this chapter empower courts in the United States to determine only rights under the Convention and not the merits of any underlying child custody claims.
+
+## Source Credit
+
+*([Pub. L. 100–300, § 2](https://www.govinfo.gov/link/plaw/100/public/300), Apr. 29, 1988, [102 Stat. 437](https://www.govinfo.gov/link/statute/102/437).)*

@@ -3,9 +3,10 @@ title: "Section 60105 - State pipeline safety program certifications"
 usc_title: 49
 usc_section: "60105"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 60105"
-generated_at: "2026-03-30T02:56:19.413Z"
+generated_at: "2026-11-23T20:27:35.390Z"
+status: "active"
 ---
 
 # § 60105. State pipeline safety program certifications
@@ -35,3 +36,145 @@ generated_at: "2026-03-30T02:56:19.413Z"
 - **(d)** A certification in effect under this section does not apply to safety standards prescribed under this chapter after the date of certification. This chapter applies to each applicable safety standard prescribed after the date of certification until the State authority adopts the standard and submits the appropriate certification to the Secretary under subsection (a) of this section.
 - **(e)** The Secretary may monitor a safety program established under this section to ensure that the program complies with the certification. A State authority shall cooperate with the Secretary under this subsection.
 - **(f)** If after receiving a certification the Secretary decides the State authority is not enforcing satisfactorily compliance with applicable safety standards prescribed under this chapter, the Secretary may reject the certification, assert United States Government jurisdiction, or take other appropriate action to achieve adequate enforcement. The Secretary shall give the authority notice and an opportunity for a hearing before taking final action under this subsection. When notice is given, the burden of proof is on the authority to demonstrate that it is enforcing satisfactorily compliance with the prescribed standards.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 60105(a) | 49 App.:1674(a) (1st sentence words before “that such State agency”). | Aug. 12, 1968 , Pub. L. 90–481, § 5(a) , 82 Stat. 722 ; Aug. 22, 1972 , Pub. L. 92–401, § 1 , 86 Stat. 616 ; Oct. 11, 1976 , Pub. L. 94–477, § 5(a) , 90 Stat. 2073 ; Nov. 30, 1979 , Pub. L. 96–129 , §§ 101(b), 103(a), (b)(3), 109(g), (h)(1), 93 Stat. 990 , 991, 996; Jan. 14, 1983 , Pub. L. 97–468, § 104 , 96 Stat. 2543 ; Oct. 31, 1988 , Pub. L. 100–561 , §§ 103, 303(b)(1), 102 Stat. 2807 , 2816; Oct. 24, 1992 , Pub. L. 102–508 , §§ 110(a), 111, 106 Stat. 3295 . |
+|  | 49 App.:2004(a) (1st sentence words before “that such State agency”). | Nov. 30, 1979 , Pub. L. 96–129, § 205(a) , 93 Stat. 1006 ; Oct. 31, 1988 , Pub. L. 100–561, § 203 , 102 Stat. 2810 ; Oct. 24, 1992 , Pub. L. 102–508 , §§ 209(a), 210, 106 Stat. 3304 . |
+| 60105(b) | 49 App.:1674(a) (1st sentence words after “an annual certification”). |  |
+|  | 49 App.:2004(a) (1st sentence words after “an annual certification”). |  |
+| 60105(c) | 49 App.:1674(a) (2d, 3d sentences). |  |
+|  | 49 App.:2004(a) (2d, last sentences). |  |
+| 60105(d) | 49 App.:1674(e). | Aug. 12, 1968 , Pub. L. 90–481, § 5(e) , 82 Stat. 724 ; Oct. 11, 1976 , Pub. L. 94–477, § 5(c) , 90 Stat. 2074 ; Nov. 30, 1979 , Pub. L. 96–129, § 103(b)(2)(B) , 93 Stat. 991 . |
+|  | 49 App.:2004(e). | Nov. 30, 1979 , Pub. L. 96–129, § 205(c) (related to certification), (e), (f), 93 Stat. 1007 , 1008. |
+| 60105(e) | 49 App.:1674(c) (related to certification). | Aug. 12, 1968 , Pub. L. 90–481 , 82 Stat. 720 , § 5(c) (related to certification); added Nov. 30, 1979 , Pub. L. 96–129, § 103(b)(2)(C) , 93 Stat. 991 . |
+|  | 49 App.:2004(c) (related to certification). |  |
+| 60105(f) | 49 App.:1674(a) (4th, last sentences). |  |
+|  | 49 App.:2004(f). |  |
+
+
+General Requirements and Submission
+
+Contents
+
+Reports
+
+Application
+
+Monitoring
+
+Rejections of Certification
+
+Historical and Revision Notes
+
+60105(a)
+
+Aug. 12, 1968
+
+Pub. L. 90–481, § 5(a)
+
+82 Stat. 722
+
+Aug. 22, 1972
+
+Pub. L. 92–401, § 1
+
+86 Stat. 616
+
+Oct. 11, 1976
+
+Pub. L. 94–477, § 5(a)
+
+90 Stat. 2073
+
+Nov. 30, 1979
+
+Pub. L. 96–129
+
+93 Stat. 990
+
+Jan. 14, 1983
+
+Pub. L. 97–468, § 104
+
+96 Stat. 2543
+
+Oct. 31, 1988
+
+Pub. L. 100–561
+
+102 Stat. 2807
+
+Oct. 24, 1992
+
+Pub. L. 102–508
+
+106 Stat. 3295
+
+Nov. 30, 1979
+
+Pub. L. 96–129, § 205(a)
+
+93 Stat. 1006
+
+Oct. 31, 1988
+
+Pub. L. 100–561, § 203
+
+102 Stat. 2810
+
+Oct. 24, 1992
+
+Pub. L. 102–508
+
+106 Stat. 3304
+
+60105(b)
+
+60105(c)
+
+60105(d)
+
+Aug. 12, 1968
+
+Pub. L. 90–481, § 5(e)
+
+82 Stat. 724
+
+Oct. 11, 1976
+
+Pub. L. 94–477, § 5(c)
+
+90 Stat. 2074
+
+Nov. 30, 1979
+
+Pub. L. 96–129, § 103(b)(2)(B)
+
+93 Stat. 991
+
+Nov. 30, 1979
+
+Pub. L. 96–129, § 205(c)
+
+93 Stat. 1007
+
+60105(e)
+
+Aug. 12, 1968
+
+Pub. L. 90–481
+
+82 Stat. 720
+
+Nov. 30, 1979
+
+Pub. L. 96–129, § 103(b)(2)(C)
+
+93 Stat. 991
+
+60105(f)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1309](https://www.govinfo.gov/link/statute/108/1309); [Pub. L. 104–304, § 20(a)](https://www.govinfo.gov/link/plaw/104/public/304), Oct. 12, 1996, [110 Stat. 3804](https://www.govinfo.gov/link/statute/110/3804); [Pub. L. 109–468, § 2(b)(1)](https://www.govinfo.gov/link/plaw/109/public/468), Dec. 29, 2006, [120 Stat. 3487](https://www.govinfo.gov/link/statute/120/3487); [Pub. L. 116–260, div. R, title II, § 202(b)(1)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2239](https://www.govinfo.gov/link/statute/134/2239).)*

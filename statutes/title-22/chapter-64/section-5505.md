@@ -3,9 +3,10 @@ title: "Section 5505 - Disaster training for State Department personnel"
 usc_title: 22
 usc_section: "5505"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 5505"
-generated_at: "2026-03-30T02:55:05.418Z"
+generated_at: "2026-11-23T20:26:32.570Z"
+status: "active"
 ---
 
 # § 5505. Disaster training for State Department personnel
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:05.418Z"
   - **(2)** In providing such additional training under subsection (a) the Secretary of State shall consider supplementing the current training program through—
     - **(A)** providing specialized training to create a team of “disaster specialists” to deploy immediately in a crisis; or
     - **(B)** securing outside experts to be brought in during the initial phases to assist consular personnel.
+
+## Source Credit
+
+*([Pub. L. 101–604, title II, § 206](https://www.govinfo.gov/link/plaw/101/public/604), Nov. 16, 1990, [104 Stat. 3084](https://www.govinfo.gov/link/statute/104/3084).)*

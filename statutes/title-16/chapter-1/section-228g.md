@@ -3,12 +3,17 @@ title: "Section 228g - Aircraft or helicopter regulation within enlarged boundar
 usc_title: 16
 usc_section: "228g"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 228g"
-generated_at: "2026-03-30T02:54:22.743Z"
+generated_at: "2026-11-23T20:26:19.389Z"
+status: "active"
 ---
 
 # § 228g. Aircraft or helicopter regulation within enlarged boundaries; procedure for promulgation of administrative rules and regulations
 
 Whenever the Secretary has reason to believe that any aircraft or helicopter activity or operation may be occurring or about to occur within the Grand Canyon National Park, as enlarged by sections 228a to 228j of this title, including the airspace below the rims of the canyon, which is likely to cause an injury to the health, welfare, or safety of visitors to the park or to cause a significant adverse effect on the natural quiet and experience of the park, the Secretary shall submit to the Federal Aviation Administration, the Environmental Protection Agency pursuant to the Noise Control Act of 1972 [ 42 U.S.C. 4901 et seq.], or any other responsible agency or agencies such complaints, information, or recommendations for rules and regulations or other actions as he believes appropriate to protect the public health, welfare, and safety or the natural environment within the park. After reviewing the submission of the Secretary, the responsible agency shall consider the matter, and after consultation with the Secretary, shall take appropriate action to protect the park and visitors.
 
+
+## Source Credit
+
+*([Pub. L. 93–620, § 8](https://www.govinfo.gov/link/plaw/93/public/620), Jan. 3, 1975, [88 Stat. 2091](https://www.govinfo.gov/link/statute/88/2091).)*

@@ -3,9 +3,10 @@ title: "Section 2091 - Estimate of appropriations needed"
 usc_title: 50
 usc_section: "2091"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 2091"
-generated_at: "2026-03-30T02:56:26.218Z"
+generated_at: "2026-11-23T20:27:30.826Z"
+status: "active"
 ---
 
 # § 2091. Estimate of appropriations needed
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:26.218Z"
 - **(e)** There is hereby authorized to be appropriated to the fund for each fiscal year such sums as may be necessary to provide the amount equivalent to—
   - **(1)** interest on the unfunded liability computed for that year at the interest rate used in the then most recent valuation of the system; and
   - **(2)** that portion of disbursement for annuities for that year that the Director estimates is attributable to credit allowed for military service,
+
+## Source Credit
+
+*([Pub. L. 88–643, title II, § 261](https://www.govinfo.gov/link/plaw/88/public/643), as added [Pub. L. 102–496, title VIII, § 802](https://www.govinfo.gov/link/plaw/102/public/496), Oct. 24, 1992, [106 Stat. 3234](https://www.govinfo.gov/link/statute/106/3234).)*

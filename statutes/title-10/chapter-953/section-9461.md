@@ -3,9 +3,10 @@ title: "Section 9461 - Policy on sexual harassment and sexual violence"
 usc_title: 10
 usc_section: "9461"
 chapter: 953
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 9461"
-generated_at: "2026-03-30T02:53:38.260Z"
+generated_at: "2026-11-23T20:25:52.343Z"
+status: "active"
 ---
 
 # § 9461. Policy on sexual harassment and sexual violence
@@ -60,3 +61,17 @@ generated_at: "2026-03-30T02:53:38.260Z"
   - **(3)** If the Superintendent of the United States Air Force Academy denies a request for transfer under this subsection, the cadet may request review of the denial by the Secretary of the Air Force, who shall take action on such request not later than 72 hours after receipt of the formal request for review.
   - **(4)** The Secretary concerned shall ensure that all records of any request, determination, transfer, or other action under this subsection remain confidential, consistent with applicable law and regulation.
   - **(5)** A cadet who transfers under this subsection may retain the cadet’s appointment to the United States Air Force Academy or may be appointed to the military service academy to which the cadet transfers without regard to the limitations and requirements set forth in sections 7442, 8454, and 9442 of this title.
+
+Required Policy
+
+Matters to Be Specified in Policy
+
+Annual Assessment
+
+Annual Report
+
+Consideration of Request for Transfer of a Cadet Who Is the Victim of a Sexual Assault or Related Offense
+
+## Source Credit
+
+*(Added [Pub. L. 109–364, div. A, title V, § 532(a)(3)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2203](https://www.govinfo.gov/link/statute/120/2203), § 9361; renumbered § 9461, [Pub. L. 115–232, div. A, title VIII, § 806(a)(3)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1832](https://www.govinfo.gov/link/statute/132/1832); amended [Pub. L. 116–92, div. A, title V, § 555(c)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1390](https://www.govinfo.gov/link/statute/133/1390); [Pub. L. 116–283, div. A, title V, § 552(b)(3)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3632](https://www.govinfo.gov/link/statute/134/3632).)*

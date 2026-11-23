@@ -3,9 +3,10 @@ title: "Section 1621h - Mental health prevention and treatment services"
 usc_title: 25
 usc_section: "1621h"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1621h"
-generated_at: "2026-03-30T02:54:52.821Z"
+generated_at: "2026-11-23T20:26:25.485Z"
+status: "active"
 ---
 
 # § 1621h. Mental health prevention and treatment services
@@ -105,3 +106,9 @@ generated_at: "2026-03-30T02:54:52.821Z"
   - **(3)** Funds provided under this subsection may not be used for the purposes described in section 1621 o (b)(1) of this title.
   - **(4)** An Indian tribe or tribal organization receiving a grant under this subsection shall ensure that intermediate adolescent mental health services are coordinated with other tribal, Service, and Bureau of Indian Affairs mental health, alcohol and substance abuse, and social services programs on the reservation of such tribe or tribal organization.
   - **(5)** The Secretary shall establish criteria for the review and approval of applications for grants made pursuant to this subsection.
+
+“The purposes of this section [enacting this section] are to—
+
+## Source Credit
+
+*([Pub. L. 94–437, title II, § 209](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 101–630, title V, § 503(b)](https://www.govinfo.gov/link/plaw/101/public/630), Nov. 28, 1990, [104 Stat. 4557](https://www.govinfo.gov/link/statute/104/4557); amended [Pub. L. 102–573, title II](https://www.govinfo.gov/link/plaw/102/public/573), §§ 205, 217(b)(4), title IX, § 902(3), Oct. 29, 1992, [106 Stat. 4547](https://www.govinfo.gov/link/statute/106/4547), 4559, 4591; [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

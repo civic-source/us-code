@@ -3,9 +3,10 @@ title: "Section 2327 - Tribally controlled postsecondary career and technical in
 usc_title: 20
 usc_section: "2327"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 2327"
-generated_at: "2026-03-30T02:54:48.174Z"
+generated_at: "2026-11-23T20:26:14.700Z"
+status: "active"
 ---
 
 # § 2327. Tribally controlled postsecondary career and technical institutions
@@ -55,3 +56,11 @@ generated_at: "2026-03-30T02:54:48.174Z"
   - **(4)** $10,178,333 for fiscal year 2022;
   - **(5)** $10,320,829 for fiscal year 2023; and
   - **(6)** $10,465,321 for fiscal year 2024.
+
+Indian tribe
+
+indian tribe
+
+## Source Credit
+
+*([Pub. L. 88–210, title I, § 117](https://www.govinfo.gov/link/plaw/88/public/210), as added [Pub. L. 109–270, § 1(b)](https://www.govinfo.gov/link/plaw/109/public/270), Aug. 12, 2006, [120 Stat. 710](https://www.govinfo.gov/link/statute/120/710); amended [Pub. L. 110–315, title IX, § 941(j)(2)](https://www.govinfo.gov/link/plaw/110/public/315), (k)(2)(D)(ii), Aug. 14, 2008, [122 Stat. 3465](https://www.govinfo.gov/link/statute/122/3465), 3466; [Pub. L. 115–224, title I, § 116](https://www.govinfo.gov/link/plaw/115/public/224), July 31, 2018, [132 Stat. 1599](https://www.govinfo.gov/link/statute/132/1599).)*

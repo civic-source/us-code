@@ -3,9 +3,10 @@ title: "Section 1278a - Children’s products containing lead; lead paint rule"
 usc_title: 15
 usc_section: "1278a"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1278a"
-generated_at: "2026-03-30T02:54:08.132Z"
+generated_at: "2026-11-23T20:26:03.991Z"
+status: "active"
 ---
 
 # § 1278a. Children’s products containing lead; lead paint rule
@@ -81,3 +82,11 @@ generated_at: "2026-03-30T02:54:08.132Z"
   - **(6)** Nothing in paragraph (3), nor reliance by the Commission on any alternative method of measurement pursuant to such paragraph, nor any rule prescribed pursuant to paragraph (4), nor any method established pursuant to paragraph (5) shall be construed to alter the limit set forth in section 1303 of title 16 , Code of Federal Regulations, as modified pursuant to this subsection, or provide any exemption from such limit.
   - **(7)** Nothing in this subsection shall be construed to affect the authority of the Commission or any other person to use alternative methods for detecting lead as a screening method to determine whether further testing or action is needed.
 - **(g)** Any ban imposed by subsection (a) or rule promulgated under subsection (a) or (b) of this section, and section 1303.1 of title 16, Code of Federal Regulations (as modified pursuant to subsection (f)(1) or (2)), or any successor regulation, shall be considered a regulation of the Commission promulgated under or for the enforcement of section 2(q) of the Federal Hazardous Substances Act ( 15 U.S.C. 1261(q) ).
+
+(aa) a seat designed to be straddled by the operator and handlebars for steering control; or
+
+(bb) a nonstraddle seat, steering wheel, seat belts, and roll-over protective structure; and
+
+## Source Credit
+
+*([Pub. L. 110–314, title I, § 101](https://www.govinfo.gov/link/plaw/110/public/314), Aug. 14, 2008, [122 Stat. 3017](https://www.govinfo.gov/link/statute/122/3017); [Pub. L. 112–28](https://www.govinfo.gov/link/plaw/112/public/28), §§ 1, 10(b), Aug. 12, 2011, [125 Stat. 273](https://www.govinfo.gov/link/statute/125/273), 283.)*

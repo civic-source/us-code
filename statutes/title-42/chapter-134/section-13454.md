@@ -3,9 +3,10 @@ title: "Section 13454 - Advanced buildings for 2005"
 usc_title: 42
 usc_section: "13454"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13454"
-generated_at: "2026-03-30T02:56:11.445Z"
+generated_at: "2026-11-23T20:27:23.498Z"
+status: "active"
 ---
 
 # § 13454. Advanced buildings for 2005
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.445Z"
     - **(C)** evidence of consideration of collaboration with Department of Energy national laboratories;
     - **(D)** evidence of collaboration with relevant industry or other groups or organizations; and
     - **(E)** a demonstration of the ability of the proposers to undertake and complete the project proposed.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XXI, § 2104](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3069](https://www.govinfo.gov/link/statute/106/3069).)*

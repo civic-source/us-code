@@ -3,9 +3,10 @@ title: "Section 15106 - National Offshore Safety Advisory Committee"
 usc_title: 46
 usc_section: "15106"
 chapter: 151
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 15106"
-generated_at: "2026-03-30T02:56:15.561Z"
+generated_at: "2026-11-23T20:27:27.195Z"
+status: "active"
 ---
 
 # § 15106. National Offshore Safety Advisory Committee
@@ -27,3 +28,19 @@ generated_at: "2026-03-30T02:56:15.561Z"
     - **(I)** 1 member shall represent national environmental entities and entities providing environmental protection, compliance, or response services to the offshore industry.
     - **(J)** 1 member shall represent entities engaged in offshore oil exploration and production on the Outer Continental Shelf adjacent to Alaska.
     - **(K)** 1 member shall represent the general public (but not a specific environmental group).
+
+Establishment
+
+Function
+
+Membership.—
+
+In general
+
+Expertise
+
+Representation
+
+## Source Credit
+
+*(Added [Pub. L. 115–282, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4284](https://www.govinfo.gov/link/statute/132/4284); amended [Pub. L. 116–283, div. G, title LVXXXIII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXIII], § 8331(a), Jan. 1, 2021, [134 Stat. 4702](https://www.govinfo.gov/link/statute/134/4702).)*

@@ -3,9 +3,10 @@ title: "Section 4003 - Definitions"
 usc_title: 16
 usc_section: "4003"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 4003"
-generated_at: "2026-03-30T02:54:23.039Z"
+generated_at: "2026-11-23T20:26:20.729Z"
+status: "active"
 ---
 
 # § 4003. Definitions
@@ -35,3 +36,7 @@ As used in this chapter, the term—
     - **(F)** the consumer sector consisting of persons professionally engaged in the dissemination of information pertaining to the nutritional benefits and preparation of fish and fish products;
   - **(16)** “Secretary” means the Secretary of Commerce, or the Secretary’s designee; and
   - **(17)** “United States” means the several States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands and any other territory, possession, or commonwealth of the United States.
+
+## Source Credit
+
+*([Pub. L. 99–659, title II, § 204](https://www.govinfo.gov/link/plaw/99/public/659), Nov. 14, 1986, [100 Stat. 3716](https://www.govinfo.gov/link/statute/100/3716).)*

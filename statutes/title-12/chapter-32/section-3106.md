@@ -3,9 +3,10 @@ title: "Section 3106 - Nonbanking activities of foreign banks"
 usc_title: 12
 usc_section: "3106"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 3106"
-generated_at: "2026-03-30T02:53:53.491Z"
+generated_at: "2026-11-23T20:25:59.324Z"
+status: "active"
 ---
 
 # § 3106. Nonbanking activities of foreign banks
@@ -19,3 +20,13 @@ generated_at: "2026-03-30T02:53:53.491Z"
     - **(A)** If any foreign bank or foreign company files a declaration under section 4( l )(1)(C) 1 1 See References in Text note below. of the Bank Holding Company Act of 1956 [ 12 U.S.C. 1843 ( l )(1)(C)], any authority conferred by this subsection on any foreign bank or company to engage in any activity that the Board has determined to be permissible for financial holding companies under section 4(k) of such Act [ 12 U.S.C. 1843(k) ] shall terminate immediately.
     - **(B)** If a foreign bank or company that engages, directly or through an affiliate pursuant to paragraph (1), in an activity that the Board has determined to be permissible for financial holding companies under section 4(k) of the Bank Holding Company Act of 1956 [ 12 U.S.C. 1843(k) ] has not filed a declaration with the Board of its status as a financial holding company under such section by the end of the 2-year period beginning on November 12, 1999 , the Board, giving due regard to the principle of national treatment and equality of competitive opportunity, may impose such restrictions and requirements on the conduct of such activities by such foreign bank or company as are comparable to those imposed on a financial holding company organized under the laws of the United States, including a requirement to conduct such activities in compliance with any prudential safeguards established under section 1828a of this title .
 - **(d)** Nothing in this section shall be construed to define a branch or agency of a foreign bank or a commercial lending company controlled by a foreign bank or foreign company that controls a foreign bank as a “bank” for the purposes of any provisions of the Bank Holding Company Act of 1956 [ 12 U.S.C. 1841 et seq.], or section 1850 of this title , except that any such branch, agency or commercial lending company subsidiary shall be deemed a “bank” or “banking subsidiary”, as the case may be, for the purposes of applying the prohibitions of chapter 22 of this title and the exemptions provided in sections 4(c)(1), 4(c)(2), 4(c)(3), and 4(c)(4) of the Bank Holding Company Act of 1956 ( 12 U.S.C. 1843(c)(1) , (2), (3), and (4)) to any foreign bank or other company to which subsection (a) applies.
+
+Termination of grandfathered rights.—
+
+In general
+
+Restrictions and requirements authorized
+
+## Source Credit
+
+*([Pub. L. 95–369, § 8(a)](https://www.govinfo.gov/link/plaw/95/public/369) –(d), Sept. 17, 1978, [92 Stat. 622](https://www.govinfo.gov/link/statute/92/622), 623; [Pub. L. 97–320, title VII](https://www.govinfo.gov/link/plaw/97/public/320), §§ 704, 705, Oct. 15, 1982, [96 Stat. 1539](https://www.govinfo.gov/link/statute/96/1539); [Pub. L. 100–86, title II, § 204](https://www.govinfo.gov/link/plaw/100/public/86), Aug. 10, 1987, [101 Stat. 584](https://www.govinfo.gov/link/statute/101/584); [Pub. L. 102–242, title II, § 207](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2295](https://www.govinfo.gov/link/statute/105/2295); [Pub. L. 106–102, title I, § 141](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1383](https://www.govinfo.gov/link/statute/113/1383).)*

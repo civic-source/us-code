@@ -3,9 +3,10 @@ title: "Section 2797b - Transfers of missile equipment or technology by foreign 
 usc_title: 22
 usc_section: "2797b"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2797b"
-generated_at: "2026-03-30T02:55:05.388Z"
+generated_at: "2026-11-23T20:26:32.433Z"
+status: "active"
 ---
 
 # § 2797b. Transfers of missile equipment or technology by foreign persons
@@ -52,3 +53,35 @@ generated_at: "2026-03-30T02:55:05.388Z"
     - **(B)** component parts, but not finished products, essential to United States products or production,
     - **(C)** routine services and maintenance of products, to the extent that alternative sources are not readily or reasonably available, or
     - **(D)** information and technology essential to United States products or production.
+
+Annual Certification.—
+
+Requirement
+
+Applicability
+
+Exemption
+
+Commencement and termination of requirement.—
+
+Times for submission
+
+Termination of requirement
+
+Termination of Existing Licenses
+
+Report on Export Licensing of MTCR Items Under
+
+Definitions
+
+Foreign person
+
+equipment or technology
+
+Person
+
+United states person
+
+## Source Credit
+
+*([Pub. L. 90–629](https://www.govinfo.gov/link/plaw/90/public/629), ch. 7, § 73, as added [Pub. L. 101–510, div. A, title XVII, § 1703](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1746](https://www.govinfo.gov/link/statute/104/1746); amended [Pub. L. 102–138, title III, § 323(a)](https://www.govinfo.gov/link/plaw/102/public/138), Oct. 28, 1991, [105 Stat. 711](https://www.govinfo.gov/link/statute/105/711); [Pub. L. 103–236, title VII](https://www.govinfo.gov/link/plaw/103/public/236), §§ 714(a)(7), 734(b), Apr. 30, 1994, [108 Stat. 497](https://www.govinfo.gov/link/statute/108/497), 505; [Pub. L. 104–106, div. A, title XIV, § 1408(d)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 494](https://www.govinfo.gov/link/statute/110/494); [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XII, § 1225(a)(8), Oct. 21, 1998, [112 Stat. 2681–773](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XI, § 1136(b), (c)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–495; [Pub. L. 113–276, title II, § 208(a)(5)](https://www.govinfo.gov/link/plaw/113/public/276), Dec. 18, 2014, [128 Stat. 2993](https://www.govinfo.gov/link/statute/128/2993).)*

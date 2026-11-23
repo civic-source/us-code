@@ -3,9 +3,10 @@ title: "Section 9501 - Definitions"
 usc_title: 20
 usc_section: "9501"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 9501"
-generated_at: "2026-03-30T02:54:48.226Z"
+generated_at: "2026-11-23T20:26:14.984Z"
+status: "active"
 ---
 
 # § 9501. Definitions
@@ -68,3 +69,7 @@ In this subchapter:
       - **(ii)** improved planning, design, and administration of programs;
     - **(B)** assistance in interpreting, analyzing, and utilizing statistics and evaluations; and
     - **(C)** other assistance necessary to encourage the improvement of teaching and learning through the applications of techniques supported by scientifically valid research.
+
+## Source Credit
+
+*([Pub. L. 107–279, title I, § 102](https://www.govinfo.gov/link/plaw/107/public/279), Nov. 5, 2002, [116 Stat. 1941](https://www.govinfo.gov/link/statute/116/1941); [Pub. L. 114–95, title IX, § 9215(ff)(1)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2174](https://www.govinfo.gov/link/statute/129/2174).)*

@@ -3,9 +3,10 @@ title: "Section 32701 - Findings and purposes"
 usc_title: 49
 usc_section: "32701"
 chapter: 327
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 32701"
-generated_at: "2026-03-30T02:56:19.364Z"
+generated_at: "2026-11-23T20:27:34.994Z"
+status: "active"
 ---
 
 # § 32701. Findings and purposes
@@ -18,3 +19,29 @@ generated_at: "2026-03-30T02:56:19.364Z"
 - **(b)** The purposes of this chapter are—
   - **(1)** to prohibit tampering with motor vehicle odometers; and
   - **(2)** to provide safeguards to protect purchasers in the sale of motor vehicles with altered or reset odometers.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 32701(a) | 15:1981 (1st sentence). | Oct. 20, 1972 , Pub. L. 92–513, § 401 , 86 Stat. 961 . |
+| 32701(b) | 15:1981 (last sentence). |  |
+
+
+Findings
+
+Purposes
+
+Historical and Revision Notes
+
+32701(a)
+
+Oct. 20, 1972
+
+Pub. L. 92–513, § 401
+
+86 Stat. 961
+
+32701(b)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1048](https://www.govinfo.gov/link/statute/108/1048).)*

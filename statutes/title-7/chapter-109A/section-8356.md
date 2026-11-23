@@ -3,9 +3,10 @@ title: "Section 8356 - Depredation permits for black vultures and common ravens;
 usc_title: 7
 usc_section: "8356"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 8356"
-generated_at: "2026-03-30T02:53:42.475Z"
+generated_at: "2026-11-23T20:25:41.888Z"
+status: "active"
 ---
 
 # § 8356. Depredation permits for black vultures and common ravens; black vulture livestock protection program
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:42.475Z"
     - **(B)** may subpermit to livestock producers to take black vultures for the purposes of livestock protection.
   - **(3)** The Secretary, in consultation with the Secretary of Agriculture, acting through the Administrator of the Animal and Plant Health Inspection Service, shall carry out a study on whether prescribed take levels of black vultures may be increased for subpermittees within a biologically sustainable take level for the population.
   - **(4)** Not later than 1 year after December 23, 2024 , the Secretary, in consultation with the Secretary of Agriculture, acting through the Administrator of the Animal and Plant Health Inspection Service, shall submit to the Chair and Ranking Member of the Committee on Environment and Public Works of the Senate and the Chair and Ranking Member of the Committee on Natural Resources of the House of Representatives a report on the status of the program, including the results of the study required under paragraph (3).
+
+## Source Credit
+
+*([Pub. L. 116–188, title I, § 103](https://www.govinfo.gov/link/plaw/116/public/188), Oct. 30, 2020, [134 Stat. 911](https://www.govinfo.gov/link/statute/134/911); [Pub. L. 118–198, title I, § 102](https://www.govinfo.gov/link/plaw/118/public/198), Dec. 23, 2024, [138 Stat. 2678](https://www.govinfo.gov/link/statute/138/2678).)*

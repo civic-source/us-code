@@ -3,9 +3,10 @@ title: "Section 9 - Prohibition regarding manipulation and false information"
 usc_title: 7
 usc_section: "9"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 9"
-generated_at: "2026-03-30T02:53:42.244Z"
+generated_at: "2026-11-23T20:25:40.874Z"
+status: "active"
 ---
 
 # § 9. Prohibition regarding manipulation and false information
@@ -59,3 +60,11 @@ generated_at: "2026-03-30T02:53:42.244Z"
       - **(i)** The clerk of the appropriate court under subparagraph (B)(ii) shall transmit to the Commission a copy of a petition filed under subparagraph (B)(ii).
       - **(ii)** In accordance with section 2112 of title 28 , the Commission shall file in the appropriate court described in subparagraph (B)(ii) the record theretofore made.
       - **(iii)** Upon the filing of a petition under subparagraph (B)(ii), the appropriate court described in subparagraph (B)(ii) may affirm, set aside, or modify the order of the Commission.
+
+(aa) to prohibit the person from trading on, or subject to the rules of, any registered entity; and
+
+(bb) to direct all registered entities to refuse all privileges to the person until further notice of the Commission; and
+
+## Source Credit
+
+*(Sept. 21, 1922, ch. 369, § 6(c), formerly § 6(b), [42 Stat. 1002](https://www.govinfo.gov/link/statute/42/1002); June 15, 1936, ch. 545, § 8, [49 Stat. 1498](https://www.govinfo.gov/link/statute/49/1498); June 25, 1948, ch. 646, § 32(a), [62 Stat. 991](https://www.govinfo.gov/link/statute/62/991); May 24, 1949, ch. 139, § 127, [63 Stat. 107](https://www.govinfo.gov/link/statute/63/107); June 16, 1955, ch. 151, [69 Stat. 160](https://www.govinfo.gov/link/statute/69/160); [Pub. L. 85–791, § 7(b)](https://www.govinfo.gov/link/plaw/85/public/791), Aug. 28, 1958, [72 Stat. 944](https://www.govinfo.gov/link/statute/72/944); [Pub. L. 86–507, § 1(2)](https://www.govinfo.gov/link/plaw/86/public/507), June 11, 1960, [74 Stat. 200](https://www.govinfo.gov/link/statute/74/200); [Pub. L. 90–258, § 16](https://www.govinfo.gov/link/plaw/90/public/258), Feb. 19, 1968, [82 Stat. 30](https://www.govinfo.gov/link/statute/82/30); [Pub. L. 91–452, title II, § 202](https://www.govinfo.gov/link/plaw/91/public/452), Oct. 15, 1970, [84 Stat. 928](https://www.govinfo.gov/link/statute/84/928); [Pub. L. 93–463, title I, § 103(a)](https://www.govinfo.gov/link/plaw/93/public/463), (b), (d), (e), title II, §§ 204(b), 205(b), 212(a)(1), (2), title IV, § 408, Oct. 23, 1974, [88 Stat. 1392](https://www.govinfo.gov/link/statute/88/1392), 1397, 1400, 1403, 1414; [Pub. L. 95–405, § 13(3)](https://www.govinfo.gov/link/plaw/95/public/405), Sept. 30, 1978, [92 Stat. 871](https://www.govinfo.gov/link/statute/92/871); [Pub. L. 97–444, title II, § 219](https://www.govinfo.gov/link/plaw/97/public/444), Jan. 11, 1983, [96 Stat. 2308](https://www.govinfo.gov/link/statute/96/2308); [Pub. L. 99–641, title I, § 103](https://www.govinfo.gov/link/plaw/99/public/641), Nov. 10, 1986, [100 Stat. 3557](https://www.govinfo.gov/link/statute/100/3557); renumbered § 6(c) and amended [Pub. L. 102–546, title II](https://www.govinfo.gov/link/plaw/102/public/546), §§ 209(a)(1), 212(b), 223, title III, § 301, title IV, § 402(1)(C), (6), (7), (9)(B), Oct. 28, 1992, [106 Stat. 3606](https://www.govinfo.gov/link/statute/106/3606), 3609, 3617, 3622, 3624, 3625; [Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(12)(C)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–409; [Pub. L. 110–234, title XIII, § 13103(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1433](https://www.govinfo.gov/link/statute/122/1433); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIII, § 13103(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2195; [Pub. L. 111–203, title VII](https://www.govinfo.gov/link/plaw/111/public/203), §§ 741(b)(3), 753(a), July 21, 2010, [124 Stat. 1731](https://www.govinfo.gov/link/statute/124/1731), 1750.)*

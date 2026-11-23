@@ -3,9 +3,10 @@ title: "Section 1606 - Defense Intelligence Senior Executive Service"
 usc_title: 10
 usc_section: "1606"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1606"
-generated_at: "2026-03-30T02:53:38.133Z"
+generated_at: "2026-11-23T20:25:51.403Z"
+status: "active"
 ---
 
 # § 1606. Defense Intelligence Senior Executive Service
@@ -16,3 +17,17 @@ generated_at: "2026-03-30T02:53:38.133Z"
 - **(d)**
   - **(1)** The Defense Intelligence Senior Executive Service shall be subject to a performance appraisal system which, as designed and applied, is certified by the Secretary of Defense under section 5307 of title 5 as making meaningful distinctions based on relative performance.
   - **(2)** The performance appraisal system applicable to the Defense Intelligence Senior Executive Service under paragraph (1) may be the same performance appraisal system that is established and implemented within the Department of Defense for members of the Senior Executive Service.
+
+Establishment
+
+Regulations Consistent With Title
+
+Provisions
+
+Award of Rank to Members of the Defense Intelligence Senior Executive Service
+
+Performance Appraisals
+
+## Source Credit
+
+*(Added [Pub. L. 104–201, div. A, title XVI, § 1632(b)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2747](https://www.govinfo.gov/link/statute/110/2747); amended [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title XI, § 1142], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–319; [Pub. L. 107–107, div. A, title XI, § 1121](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1242](https://www.govinfo.gov/link/statute/115/1242); [Pub. L. 108–375, div. A, title XI, § 1103(b)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2073](https://www.govinfo.gov/link/statute/118/2073); [Pub. L. 109–163, div. A, title XI, § 1125](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3454](https://www.govinfo.gov/link/statute/119/3454).)*

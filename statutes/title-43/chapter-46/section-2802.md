@@ -3,9 +3,10 @@ title: "Section 2802 - Federal Geographic Data Committee"
 usc_title: 43
 usc_section: "2802"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 2802"
-generated_at: "2026-03-30T02:55:57.498Z"
+generated_at: "2026-11-23T20:27:06.419Z"
+status: "active"
 ---
 
 # § 2802. Federal Geographic Data Committee
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:55:57.498Z"
     - **(B)** not less than once every 2 years, submit to Congress a report that includes the comments of the covered agencies and the responses of the Committee to the comments; and
   - **(13)** support and promote the infrastructure of networks, systems, services, and standards that provide a digital representation of the Earth to users for many applications.
 - **(d)** The Committee shall establish an Office of the Secretariat within the Department of the Interior to provide administrative support, strategic planning, funding, and technical support to the Committee.
+
+## Source Credit
+
+*([Pub. L. 115–254, div. B, title VII, § 753](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3415](https://www.govinfo.gov/link/statute/132/3415).)*

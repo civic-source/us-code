@@ -3,9 +3,10 @@ title: "Section 78n - Proxies"
 usc_title: 15
 usc_section: "78n"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 78n"
-generated_at: "2026-03-30T02:54:08.047Z"
+generated_at: "2026-11-23T20:26:03.505Z"
+status: "active"
 ---
 
 # § 78n. Proxies
@@ -99,3 +100,19 @@ generated_at: "2026-03-30T02:54:08.047Z"
 - **(k)**
   - **(1)** The Commission shall, by rule, adopt data standards for all information contained in any proxy or consent solicitation material prepared by an issuer for an annual meeting of the shareholders of the issuer, except that the Commission may exempt exhibits, signatures, and certifications from those data standards.
   - **(2)** The data standards required under paragraph (1) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under section 5334 of title 12 , including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
+
+Annual adjustment
+
+Fee collection
+
+Review; effective date; publication
+
+Pro rata application
+
+Regulations
+
+Exemptions
+
+## Source Credit
+
+*(June 6, 1934, ch. 404, title I, § 14, [48 Stat. 895](https://www.govinfo.gov/link/statute/48/895); [Pub. L. 88–467, § 5](https://www.govinfo.gov/link/plaw/88/public/467), Aug. 20, 1964, [78 Stat. 569](https://www.govinfo.gov/link/statute/78/569); [Pub. L. 90–439, § 3](https://www.govinfo.gov/link/plaw/90/public/439), July 29, 1968, [82 Stat. 455](https://www.govinfo.gov/link/statute/82/455); [Pub. L. 91–567](https://www.govinfo.gov/link/plaw/91/public/567), §§ 3–5, Dec. 22, 1970, [84 Stat. 1497](https://www.govinfo.gov/link/statute/84/1497); [Pub. L. 98–38, § 2(b)](https://www.govinfo.gov/link/plaw/98/public/38), June 6, 1983, [97 Stat. 205](https://www.govinfo.gov/link/statute/97/205); [Pub. L. 99–222, § 2](https://www.govinfo.gov/link/plaw/99/public/222), Dec. 28, 1985, [99 Stat. 1737](https://www.govinfo.gov/link/statute/99/1737); [Pub. L. 101–550, title III, § 302](https://www.govinfo.gov/link/plaw/101/public/550), Nov. 15, 1990, [104 Stat. 2721](https://www.govinfo.gov/link/statute/104/2721); [Pub. L. 103–202, title III, § 302(a)](https://www.govinfo.gov/link/plaw/103/public/202), Dec. 17, 1993, [107 Stat. 2359](https://www.govinfo.gov/link/statute/107/2359); [Pub. L. 105–353, title III, § 301(b)(7)](https://www.govinfo.gov/link/plaw/105/public/353), Nov. 3, 1998, [112 Stat. 3236](https://www.govinfo.gov/link/statute/112/3236); [Pub. L. 107–123, § 6](https://www.govinfo.gov/link/plaw/107/public/123), Jan. 16, 2002, [115 Stat. 2396](https://www.govinfo.gov/link/statute/115/2396); [Pub. L. 111–203, title IX](https://www.govinfo.gov/link/plaw/111/public/203), §§ 953(a), 955, 971(a), 991(b)(3), July 21, 2010, [124 Stat. 1903](https://www.govinfo.gov/link/statute/124/1903), 1904, 1915, 1953; [Pub. L. 112–106, title I, § 102(a)(2)](https://www.govinfo.gov/link/plaw/112/public/106), Apr. 5, 2012, [126 Stat. 309](https://www.govinfo.gov/link/statute/126/309); [Pub. L. 117–263, div. E, title LVIII, § 5821(g)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3426](https://www.govinfo.gov/link/statute/136/3426).)*

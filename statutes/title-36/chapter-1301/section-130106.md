@@ -3,12 +3,32 @@ title: "Section 130106 - Exclusive right to name, seals, emblems, and badges"
 usc_title: 36
 usc_section: "130106"
 chapter: 1301
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 130106"
-generated_at: "2026-03-30T02:55:44.701Z"
+generated_at: "2026-11-23T20:26:58.941Z"
+status: "active"
 ---
 
 # § 130106. Exclusive right to name, seals, emblems, and badges
 
 The corporation and its subordinate divisions have the exclusive right to use the name “Ladies of the Grand Army of the Republic”. The corporation has the exclusive right to use and to allow others to use seals, emblems, and badges the corporation adopts.
 
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 130106 | 36:78 o . | June 17, 1959 , Pub. L. 86–47, § 16 , 73 Stat. 79 . |
+
+
+Historical and Revision Notes
+
+130106
+
+June 17, 1959
+
+Pub. L. 86–47, § 16
+
+73 Stat. 79
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1372](https://www.govinfo.gov/link/statute/112/1372).)*

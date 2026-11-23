@@ -3,9 +3,10 @@ title: "Section 1465 - Interim alternative educational settings, behavioral supp
 usc_title: 20
 usc_section: "1465"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1465"
-generated_at: "2026-03-30T02:54:48.168Z"
+generated_at: "2026-11-23T20:26:14.664Z"
+status: "active"
 ---
 
 # § 1465. Interim alternative educational settings, behavioral supports, and systemic school interventions
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:54:48.168Z"
   - **(1)** submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require; and
   - **(2)** involve parents of participating students in the design and implementation of the activities funded under this section.
 - **(e)** Each eligible entity receiving a grant under this section shall prepare and submit annually to the Secretary a report on the outcomes of the activities assisted under the grant.
+
+## Source Credit
+
+*([Pub. L. 91–230, title VI, § 665](https://www.govinfo.gov/link/plaw/91/public/230), as added [Pub. L. 108–446, title I, § 101](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2786](https://www.govinfo.gov/link/statute/118/2786).)*

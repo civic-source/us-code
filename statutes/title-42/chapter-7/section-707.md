@@ -3,9 +3,10 @@ title: "Section 707 - Criminal penalty for false statements"
 usc_title: 42
 usc_section: "707"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 707"
-generated_at: "2026-03-30T02:56:10.893Z"
+generated_at: "2026-11-23T20:27:20.938Z"
+status: "active"
 ---
 
 # § 707. Criminal penalty for false statements
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:10.893Z"
   - **(1)** knowingly and willfully makes or causes to be made any false statement or representation of a material fact in connection with the furnishing of items or services for which payment may be made by a State from funds allotted to the State under this subchapter, or
   - **(2)** having knowledge of the occurrence of any event affecting his initial or continued right to any such payment conceals or fails to disclose such event with an intent fraudulently to secure such payment either in a greater amount than is due or when no such payment is authorized,
 - **(b)** For civil monetary penalties for certain submissions of false claims, see section 1320a–7a of this title .
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title V, § 507, as added [Pub. L. 97–35, title XXI, § 2192(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 824](https://www.govinfo.gov/link/statute/95/824).)*

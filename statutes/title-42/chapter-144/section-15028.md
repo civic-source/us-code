@@ -3,9 +3,10 @@ title: "Section 15028 - Appeals by States"
 usc_title: 42
 usc_section: "15028"
 chapter: 144
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 15028"
-generated_at: "2026-03-30T02:56:11.457Z"
+generated_at: "2026-11-23T20:27:23.551Z"
+status: "active"
 ---
 
 # § 15028. Appeals by States
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.457Z"
 - **(d)** The findings of the Secretary about the facts, if supported by substantial evidence, shall be conclusive, but the court, for good cause shown, may remand the case involved to the Secretary for further proceedings to take further evidence. On remand, the Secretary may make new or modified findings of fact and may modify the previous action of the Secretary, and shall file with the court the record of the further proceedings. Such new or modified findings of fact shall likewise be conclusive if supported by substantial evidence.
 - **(e)** The judgment of the court affirming or setting aside, in whole or in part, any action of the Secretary shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28 .
 - **(f)** The commencement of proceedings under this section shall not, unless so specifically ordered by a court, operate as a stay of the Secretary’s action.
+
+## Source Credit
+
+*([Pub. L. 106–402, title I, § 128](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1711](https://www.govinfo.gov/link/statute/114/1711).)*

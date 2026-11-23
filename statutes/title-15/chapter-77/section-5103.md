@@ -3,9 +3,10 @@ title: "Section 5103 - Establishment of scientific research and development prog
 usc_title: 15
 usc_section: "5103"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 5103"
-generated_at: "2026-03-30T02:54:08.205Z"
+generated_at: "2026-11-23T20:26:04.364Z"
+status: "active"
 ---
 
 # § 5103. Establishment of scientific research and development program to develop competitive manufacturing technologies and increase energy efficiency in steel and aluminum industries
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:54:08.205Z"
     - **(F)** The development of technologies and equipment related to the production of aluminum that enhance the protection of the environment and the safety and health of workers.
     - **(G)** Aluminum, copper, and other metals technologies which, in the judgment of the Secretary, further the purposes of this chapter.
 - **(d)** The Secretary shall arrange for participation and review by representatives of each affected industry and by labor in the updating of the management and research plans and in the evaluation of the progress of research and development activities for their industry conducted under this chapter.
+
+## Source Credit
+
+*([Pub. L. 100–680, § 4](https://www.govinfo.gov/link/plaw/100/public/680), Nov. 17, 1988, [102 Stat. 4074](https://www.govinfo.gov/link/statute/102/4074); [Pub. L. 102–486, title XXI, § 2106(a)(1)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3070](https://www.govinfo.gov/link/statute/106/3070); [Pub. L. 110–229, title VI, § 602(b)](https://www.govinfo.gov/link/plaw/110/public/229), May 8, 2008, [122 Stat. 853](https://www.govinfo.gov/link/statute/122/853).)*

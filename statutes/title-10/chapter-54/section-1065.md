@@ -3,9 +3,10 @@ title: "Section 1065 - Use of commissary stores and MWR facilities: certain vete
 usc_title: 10
 usc_section: "1065"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1065"
-generated_at: "2026-03-30T02:53:38.098Z"
+generated_at: "2026-11-23T20:25:51.185Z"
+status: "active"
 ---
 
 # § 1065. Use of commissary stores and MWR facilities: certain veterans, caregivers for veterans, and Foreign Service officers
@@ -30,3 +31,23 @@ generated_at: "2026-03-30T02:53:38.098Z"
   - **(4)** The terms “caregiver” and “family caregiver” have the meanings given those terms in section in section 1720G(d) of title 38 .
   - **(5)** The term “Foreign Service officer” has the meaning given that term in section 103 of the Foreign Service Act of 1980 ( 22 U.S.C. 3903 ).
   - **(6)** The term “mandatory home leave” means leave under section 903 of the Foreign Service Act of 1980 ( 22 U.S.C. 4083 ).
+
+Eligibility of Veterans Awarded the Purple Heart
+
+Eligibility of Veterans Who Are Medal of Honor Recipients
+
+Eligibility of Veterans Who Are Former Prisoners of War
+
+Eligibility of Veterans With Service-Connected Disabilities
+
+Eligibility of Caregivers for Veterans
+
+Eligibility of Foreign Service Officers on Mandatory Home Leave
+
+User Fee Authority
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 115–232, div. A, title VI, § 621(b)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1798](https://www.govinfo.gov/link/statute/132/1798); amended [Pub. L. 116–92, div. A, title VI, § 641(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1430](https://www.govinfo.gov/link/statute/133/1430).)*

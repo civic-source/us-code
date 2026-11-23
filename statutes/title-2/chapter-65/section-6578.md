@@ -3,9 +3,10 @@ title: "Section 6578 - Senate Leader’s Lecture Series"
 usc_title: 2
 usc_section: "6578"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 6578"
-generated_at: "2026-03-30T02:53:04.842Z"
+generated_at: "2026-11-23T20:25:29.078Z"
+status: "active"
 ---
 
 # § 6578. Senate Leader’s Lecture Series
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:04.842Z"
 - **(b)** Payments for expenses in connection with the lecture series may cover expenses incurred by speakers, including travel, subsistence, and per diem, and the cost of receptions, including food, food related items, and hospitality.
 - **(c)** Payments for expenses of the lecture series shall be made on vouchers approved by the Secretary of the Senate.
 - **(d)** This section is effective on and after October 1, 1997 .
+
+## Source Credit
+
+*([Pub. L. 105–275, title I, § 5](https://www.govinfo.gov/link/plaw/105/public/275), Oct. 21, 1998, [112 Stat. 2433](https://www.govinfo.gov/link/statute/112/2433).)*

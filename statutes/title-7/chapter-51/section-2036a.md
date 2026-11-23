@@ -3,9 +3,10 @@ title: "Section 2036a - Nutrition education and obesity prevention grant program
 usc_title: 7
 usc_section: "2036a"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2036a"
-generated_at: "2026-03-30T02:53:42.374Z"
+generated_at: "2026-11-23T20:25:41.474Z"
+status: "active"
 ---
 
 # § 2036a. Nutrition education and obesity prevention grant program
@@ -90,3 +91,45 @@ generated_at: "2026-03-30T02:53:42.374Z"
     - **(A)** Grants awarded under this section shall be the only source of Federal financial participation under this chapter in nutrition education and obesity prevention.
     - **(B)** Any costs of nutrition education and obesity prevention in excess of the grants authorized under this section shall not be eligible for reimbursement under section 2025(a) of this title .
 - **(e)** Not later than January 1, 2012 , the Secretary shall publish in the Federal Register a description of the requirements for the receipt of a grant under this section.
+
+(aa) salaries and benefits of State agency personnel;
+
+(bb) office supplies and equipment;
+
+(cc) travel costs;
+
+(dd) development and production of nutrition education materials;
+
+(ee) memberships, subscriptions, and professional activities;
+
+(ff) lease or rental costs;
+
+(gg) maintenance and repair expenses;
+
+(hh) indirect costs; and
+
+(ii) cost of using publicly-owned building space; and
+
+(aa) 90 percent shall be allocated to State agencies in accordance with clause (i); and
+
+(bb) 10 percent shall be allocated to State agencies based on the respective share of each State of the number of individuals participating in the supplemental nutrition assistance program during the 12-month period ending the preceding January 31;
+
+(aa) 80 percent shall be allocated to State agencies in accordance with clause (i); and
+
+(bb) 20 percent shall be allocated in accordance with subclause (I)(bb);
+
+(aa) 70 percent shall be allocated to State agencies in accordance with clause (i); and
+
+(bb) 30 percent shall be allocated in accordance with subclause (I)(bb);
+
+(aa) 60 percent shall be allocated to State agencies in accordance with clause (i); and
+
+(bb) 40 percent shall be allocated in accordance with subclause (I)(bb); and
+
+(aa) 50 percent shall be allocated to State agencies in accordance with clause (i); and
+
+(bb) 50 percent shall be allocated in accordance with subclause (I)(bb).
+
+## Source Credit
+
+*([Pub. L. 88–525, § 28](https://www.govinfo.gov/link/plaw/88/public/525), as added [Pub. L. 111–296, title II, § 241(a)](https://www.govinfo.gov/link/plaw/111/public/296), Dec. 13, 2010, [124 Stat. 3232](https://www.govinfo.gov/link/statute/124/3232); amended [Pub. L. 112–240, title VII, § 701(d)(2)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2363](https://www.govinfo.gov/link/statute/126/2363); [Pub. L. 113–79, title IV, § 4028](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 813](https://www.govinfo.gov/link/statute/128/813); [Pub. L. 115–334, title IV, § 4019](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4650](https://www.govinfo.gov/link/statute/132/4650); [Pub. L. 119–21, title I, § 10107](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 85](https://www.govinfo.gov/link/statute/139/85).)*

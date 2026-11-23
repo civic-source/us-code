@@ -3,9 +3,10 @@ title: "Section 276m - United States Delegation to Parliamentary Assembly of Con
 usc_title: 22
 usc_section: "276m"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 276m"
-generated_at: "2026-03-30T02:55:05.310Z"
+generated_at: "2026-11-23T20:26:31.961Z"
+status: "active"
 ---
 
 # § 276m. United States Delegation to Parliamentary Assembly of Conference on Security and Cooperation in Europe (CSCE)
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:05.310Z"
   - **(1)** There is authorized to be appropriated for each fiscal year $80,000 to assist in meeting the expenses of the United States delegation. 2 2 So in original. Probably should be capitalized. For each fiscal year for which an appropriation is made under this subsection, half of such appropriation may be disbursed on voucher to be approved by the Chairman and half of such appropriation may be disbursed on voucher to be approved by the Vice Chairman.
   - **(2)** Amounts appropriated pursuant to this subsection are authorized to be available until expended.
 - **(e)** The United States Delegation shall, for each fiscal year for which an appropriation is made, submit to the Congress a report including its expenditures under such appropriation. The certificate of the Chairman and Vice Chairman of the United States Delegation shall be final and conclusive upon the accounting officers in the auditing of the accounts of the United States Delegation.
+
+## Source Credit
+
+*([Pub. L. 102–138, title I, § 169](https://www.govinfo.gov/link/plaw/102/public/138), Oct. 28, 1991, [105 Stat. 677](https://www.govinfo.gov/link/statute/105/677).)*

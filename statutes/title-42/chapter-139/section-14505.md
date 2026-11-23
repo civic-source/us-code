@@ -3,9 +3,10 @@ title: "Section 14505 - Definitions"
 usc_title: 42
 usc_section: "14505"
 chapter: 139
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 14505"
-generated_at: "2026-03-30T02:56:11.452Z"
+generated_at: "2026-11-23T20:27:23.533Z"
+status: "active"
 ---
 
 # § 14505. Definitions
@@ -22,3 +23,7 @@ For purposes of this chapter:
   - **(6)** The term “volunteer” means an individual performing services for a nonprofit organization or a governmental entity who does not receive—
     - **(A)** compensation (other than reasonable reimbursement or allowance for expenses actually incurred); or
     - **(B)** any other thing of value in lieu of compensation,
+
+## Source Credit
+
+*([Pub. L. 105–19, § 6](https://www.govinfo.gov/link/plaw/105/public/19), June 18, 1997, [111 Stat. 221](https://www.govinfo.gov/link/statute/111/221).)*

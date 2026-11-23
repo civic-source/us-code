@@ -3,9 +3,10 @@ title: "Section 40914 - Penalties for noncompliance"
 usc_title: 34
 usc_section: "40914"
 chapter: 409
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 40914"
-generated_at: "2026-03-30T02:55:33.312Z"
+generated_at: "2026-11-23T20:26:50.656Z"
+status: "active"
 ---
 
 # § 40914. Penalties for noncompliance
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:33.312Z"
   - **(3)** The Attorney General may waive the applicability of paragraph (2) to a State if the State provides substantial evidence, as determined by the Attorney General, that the State is making a reasonable effort to comply with the requirements of sections 40912 and 40913 of this title, including an inability to comply due to court order or other legal restriction.
 - **(c)** Any funds that are not allocated to a State because of the failure of the State to comply with the requirements of this chapter shall be reallocated to States that meet such requirements.
 - **(d)** The method established to calculate the number of records to be reported, as set forth in section 40912(b)(1)(A) of this title , and State compliance with the required level of reporting under sections 40912 and 40913 of this title shall be determined by the Attorney General. The Attorney General shall calculate the methodology based on the total number of records to be reported from all subcategories of records, as described in section 40912(b)(1)(C) of this title .
+
+## Source Credit
+
+*([Pub. L. 110–180, title I, § 104](https://www.govinfo.gov/link/plaw/110/public/180), Jan. 8, 2008, [121 Stat. 2568](https://www.govinfo.gov/link/statute/121/2568).)*

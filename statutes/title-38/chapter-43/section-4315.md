@@ -3,9 +3,10 @@ title: "Section 4315 - Reemployment by certain Federal agencies"
 usc_title: 38
 usc_section: "4315"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 4315"
-generated_at: "2026-03-30T02:55:53.518Z"
+generated_at: "2026-11-23T20:27:01.936Z"
+status: "active"
 ---
 
 # § 4315. Reemployment by certain Federal agencies
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:53.518Z"
   - **(1)** the person was an employee of an agency referred to in section 2302(a)(2)(C)(ii) of title 5 at the time the person entered the service from which the person seeks reemployment under this section;
   - **(2)** the appropriate officer of the agency determines under subsection (c) that reemployment of the person by the agency is impossible or unreasonable; and
   - **(3)** the person submits an application to the Director for an offer of employment under this subsection.
+
+## Source Credit
+
+*(Added [Pub. L. 103–353, § 2(a)](https://www.govinfo.gov/link/plaw/103/public/353), Oct. 13, 1994, [108 Stat. 3159](https://www.govinfo.gov/link/statute/108/3159).)*

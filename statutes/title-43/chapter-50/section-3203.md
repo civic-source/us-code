@@ -3,9 +3,10 @@ title: "Section 3203 - Small water storage and groundwater storage projects"
 usc_title: 43
 usc_section: "3203"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 3203"
-generated_at: "2026-03-30T02:55:57.502Z"
+generated_at: "2026-11-23T20:27:06.431Z"
+status: "active"
 ---
 
 # § 3203. Small water storage and groundwater storage projects
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:55:57.502Z"
   - **(2)** $30,000,000.
 - **(d)** In providing funding for a grant for a project under this section, the Secretary shall comply with all applicable environmental laws, including the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.).
 - **(e)** The authority to carry out this section terminates on the date that is 5 years after November 15, 2021 .
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title IX, § 40903](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1119](https://www.govinfo.gov/link/statute/135/1119); [Pub. L. 117–328, div. CC, § 105](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5574](https://www.govinfo.gov/link/statute/136/5574).)*

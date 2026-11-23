@@ -3,9 +3,10 @@ title: "Section 15963 - Report"
 usc_title: 42
 usc_section: "15963"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 15963"
-generated_at: "2026-03-30T02:56:11.466Z"
+generated_at: "2026-11-23T20:27:23.592Z"
+status: "active"
 ---
 
 # § 15963. Report
@@ -14,3 +15,7 @@ Not later than 1 year after August 8, 2005 , and once every 2 years thereafter t
 
   - **(1)** the technical milestones set forth in section 15962 of this title and how those milestones ensure progress toward meeting the requirements of subsections (b)(1)(B) and (b)(2) of section 15962 of this title ; and
   - **(2)** the status of projects funded under this part.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IV, § 403](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 753](https://www.govinfo.gov/link/statute/119/753).)*

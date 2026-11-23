@@ -3,9 +3,10 @@ title: "Section 7m - Use of predictive modeling and other analytics technologies
 usc_title: 42
 usc_section: "7m"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7m"
-generated_at: "2026-03-30T02:56:10.912Z"
+generated_at: "2026-11-23T20:27:21.003Z"
+status: "active"
 ---
 
 # § 1320a–7m. Use of predictive modeling and other analytics technologies to identify and prevent waste, fraud, and abuse in the Medicare fee-for-service program
@@ -80,3 +81,7 @@ generated_at: "2026-03-30T02:56:10.912Z"
   - **(6)** The term “Medicare provider” means a provider of services (as defined in subsection (u) of section 1861 of the Social Security Act ( 42 U.S.C. 1395x )) and a supplier (as defined in subsection (d) of such section).
   - **(7)** The term “Secretary” means the Secretary of Health and Human Services, acting through the Administrator of the Centers for Medicare & Medicaid Services.
   - **(8)** The term “State” means each of the 50 States and the District of Columbia.
+
+## Source Credit
+
+*([Pub. L. 111–240, title IV, § 4241](https://www.govinfo.gov/link/plaw/111/public/240), Sept. 27, 2010, [124 Stat. 2599](https://www.govinfo.gov/link/statute/124/2599).)*

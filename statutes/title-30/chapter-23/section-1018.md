@@ -3,12 +3,17 @@ title: "Section 1018 - Data from Federal agencies"
 usc_title: 30
 usc_section: "1018"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1018"
-generated_at: "2026-03-30T02:55:29.395Z"
+generated_at: "2026-11-23T20:26:34.990Z"
+status: "active"
 ---
 
 # § 1018. Data from Federal agencies
 
 Upon request of the Secretary, other Federal departments and agencies shall furnish him with any relevant data then in their possession or knowledge concerning or having bearing upon fair and adequate charges to be made for geothermal steam produced or to be produced for conversion to electric power or other purposes. Data given to any department or agency as confidential under law shall not be furnished in any fashion which identifies or tends to identify the business entity whose activities are the subject of such data or the person or persons who furnished such information.
 
+
+## Source Credit
+
+*([Pub. L. 91–581, § 19](https://www.govinfo.gov/link/plaw/91/public/581), Dec. 24, 1970, [84 Stat. 1572](https://www.govinfo.gov/link/statute/84/1572); [Pub. L. 109–58, title II, § 236(18)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 673](https://www.govinfo.gov/link/statute/119/673).)*

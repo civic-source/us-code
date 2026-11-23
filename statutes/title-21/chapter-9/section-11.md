@@ -3,9 +3,10 @@ title: "Section 11 - Definitions"
 usc_title: 21
 usc_section: "11"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 11"
-generated_at: "2026-03-30T02:54:54.269Z"
+generated_at: "2026-11-23T20:26:27.728Z"
+status: "active"
 ---
 
 # § 379j–11. Definitions
@@ -45,3 +46,17 @@ For purposes of this subpart:
   - **(10)** The term “adjustment factor” applicable to a fiscal year refers to the formula set forth in section 379g(8) of this title with the base or comparator month being October 2002.
   - **(11)** The term “person” includes an affiliate thereof.
   - **(12)** The term “affiliate” refers to the definition set forth in section 379g(11) of this title .
+
+Public Accountability.—
+
+Consultation
+
+Recommendations
+
+Performance Reports
+
+Fiscal Report
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 739, as added [Pub. L. 108–130, § 3](https://www.govinfo.gov/link/plaw/108/public/130), Nov. 18, 2003, [117 Stat. 1361](https://www.govinfo.gov/link/statute/117/1361); amended [Pub. L. 110–85, title I, § 109](https://www.govinfo.gov/link/plaw/110/public/85), Sept. 27, 2007, [121 Stat. 842](https://www.govinfo.gov/link/statute/121/842); [Pub. L. 110–316, title I, § 102](https://www.govinfo.gov/link/plaw/110/public/316), Aug. 14, 2008, [122 Stat. 3510](https://www.govinfo.gov/link/statute/122/3510); [Pub. L. 113–14, title I, § 102](https://www.govinfo.gov/link/plaw/113/public/14), June 13, 2013, [127 Stat. 452](https://www.govinfo.gov/link/statute/127/452); [Pub. L. 115–234, title I, § 102](https://www.govinfo.gov/link/plaw/115/public/234), Aug. 14, 2018, [132 Stat. 2428](https://www.govinfo.gov/link/statute/132/2428); [Pub. L. 118–15, div. B, title III, § 2302](https://www.govinfo.gov/link/plaw/118/public/15), Sept. 30, 2023, [137 Stat. 86](https://www.govinfo.gov/link/statute/137/86).)*

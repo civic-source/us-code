@@ -3,9 +3,10 @@ title: "Section 1932 - Assistance for rural entities"
 usc_title: 7
 usc_section: "1932"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1932"
-generated_at: "2026-03-30T02:53:42.347Z"
+generated_at: "2026-11-23T20:25:41.351Z"
+status: "active"
 ---
 
 # § 1932. Assistance for rural entities
@@ -170,3 +171,19 @@ generated_at: "2026-03-30T02:53:42.347Z"
     - **(B)** A grant made, or cooperative agreement entered into, under subparagraph (A) shall provide 100 percent of the cost of providing information described in paragraph (2).
   - **(4)** There are authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2008 through 2023.
 - **(j)** Effective beginning on the date of enactment of this subsection through September 30, 2023 , the Secretary shall carry out those rural economic area partnership zones administratively in effect on the date of enactment of this subsection in accordance with the terms and conditions contained in the memorandums of agreement entered into by the Secretary for the rural economic area partnership zones, except as otherwise provided in this subsection.
+
+(aa) is in a rural area; and
+
+(bb) provides for the value-added processing of agricultural commodities; or
+
+Definition of farmer
+
+Loan guarantees
+
+Eligibility
+
+“The purposes of this chapter [chapter 2 (§§ 2336, 2337) of subtitle D of title XXIII of Pub. L. 101–624 , amending this section] are to—
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 310B](https://www.govinfo.gov/link/plaw/87/public/128), as added [Pub. L. 92–419, title I, § 118(a)](https://www.govinfo.gov/link/plaw/92/public/419), Aug. 30, 1972, [86 Stat. 663](https://www.govinfo.gov/link/statute/86/663); amended [Pub. L. 91–524, title VIII, § 817](https://www.govinfo.gov/link/plaw/91/public/524), as added [Pub. L. 93–86, § 1(27)(B)](https://www.govinfo.gov/link/plaw/93/public/86), Aug. 10, 1973, [87 Stat. 241](https://www.govinfo.gov/link/statute/87/241); [Pub. L. 95–113, title XV, § 1503(b)](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 1021](https://www.govinfo.gov/link/statute/91/1021); [Pub. L. 95–334, title I, § 112](https://www.govinfo.gov/link/plaw/95/public/334), Aug. 4, 1978, [92 Stat. 424](https://www.govinfo.gov/link/statute/92/424); [Pub. L. 96–358, § 5](https://www.govinfo.gov/link/plaw/96/public/358), Sept. 25, 1980, [94 Stat. 1187](https://www.govinfo.gov/link/statute/94/1187); [Pub. L. 96–438, § 1(2)](https://www.govinfo.gov/link/plaw/96/public/438), Oct. 13, 1980, [94 Stat. 1871](https://www.govinfo.gov/link/statute/94/1871); [Pub. L. 99–409, § 2](https://www.govinfo.gov/link/plaw/99/public/409), Aug. 28, 1986, [100 Stat. 923](https://www.govinfo.gov/link/statute/100/923); [Pub. L. 100–203, title I, § 1504](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–28](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 101–624, title XXIII](https://www.govinfo.gov/link/plaw/101/public/624), §§ 2325, 2337, 2347, formerly 2347(a), 2386, 2388(b), (c), Nov. 28, 1990, [104 Stat. 4013](https://www.govinfo.gov/link/statute/104/4013), 4022, 4034, 4051, 4052; [Pub. L. 102–237, title VII, § 701(c)](https://www.govinfo.gov/link/plaw/102/public/237), (h)(1)(C), (D), Dec. 13, 1991, [105 Stat. 1879](https://www.govinfo.gov/link/statute/105/1879), 1880; [Pub. L. 102–552, title V, § 516(d)](https://www.govinfo.gov/link/plaw/102/public/552), Oct. 28, 1992, [106 Stat. 4137](https://www.govinfo.gov/link/statute/106/4137); [Pub. L. 102–554, § 6](https://www.govinfo.gov/link/plaw/102/public/554), Oct. 28, 1992, [106 Stat. 4144](https://www.govinfo.gov/link/statute/106/4144); [Pub. L. 104–127, title VI](https://www.govinfo.gov/link/plaw/104/public/127), §§ 635(b), 661(d), title VII, §§ 705(1), 747(a), 759B, Apr. 4, 1996, [110 Stat. 1093](https://www.govinfo.gov/link/statute/110/1093), 1107, 1112, 1125, 1138; [Pub. L. 104–180, title VII, § 731](https://www.govinfo.gov/link/plaw/104/public/180), Aug. 6, 1996, [110 Stat. 1600](https://www.govinfo.gov/link/statute/110/1600); [Pub. L. 107–171, title VI](https://www.govinfo.gov/link/plaw/107/public/171), §§ 6007(b), 6013–6017, May 13, 2002, [116 Stat. 355](https://www.govinfo.gov/link/statute/116/355), 358, 359; [Pub. L. 110–234, title VI](https://www.govinfo.gov/link/plaw/110/public/234), §§ 6012(a), (b)(2), 6013–6017, May 22, 2008, [122 Stat. 1164–1169](https://www.govinfo.gov/link/statute/122/1164); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VI, §§ 6012(a), (b)(2), 6013–6017, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1925, 1927–1931; [Pub. L. 113–79, title VI](https://www.govinfo.gov/link/plaw/113/public/79), §§ 6010(a), (b), 6011, 6012(a), 6013–6016, Feb. 7, 2014, [128 Stat. 843–845](https://www.govinfo.gov/link/statute/128/843); [Pub. L. 113–188, title I, § 101(c)](https://www.govinfo.gov/link/plaw/113/public/188), Nov. 26, 2014, [128 Stat. 2017](https://www.govinfo.gov/link/statute/128/2017); [Pub. L. 115–334, title VI](https://www.govinfo.gov/link/plaw/115/public/334), §§ 6410–6415, 6601(a)(1)(B), 6701(c), (d)(1), Dec. 20, 2018, [132 Stat. 4762](https://www.govinfo.gov/link/statute/132/4762), 4775, 4778.)*

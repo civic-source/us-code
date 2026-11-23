@@ -3,9 +3,10 @@ title: "Section 4341 - Cultural experiences grants"
 usc_title: 20
 usc_section: "4341"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 4341"
-generated_at: "2026-03-30T02:54:48.183Z"
+generated_at: "2026-11-23T20:26:14.759Z"
+status: "active"
 ---
 
 # § 4341. Cultural experiences grants
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:48.183Z"
   - **(3)** promote the integration of hearing, deaf, and hard-of-hearing persons through shared cultural, educational, and social experiences.
 - **(c)** An eligible entity that desires to receive a grant, or enter into a contract or cooperative agreement, under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
 - **(d)** There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
+
+## Source Credit
+
+*([Pub. L. 99–371, title I, § 121](https://www.govinfo.gov/link/plaw/99/public/371), as added [Pub. L. 110–315, title IX, § 904(a)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3452](https://www.govinfo.gov/link/statute/122/3452).)*

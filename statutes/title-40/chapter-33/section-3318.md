@@ -3,9 +3,10 @@ title: "Section 3318 - Availability of Federal building project information"
 usc_title: 40
 usc_section: "3318"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 3318"
-generated_at: "2026-03-30T02:55:43.379Z"
+generated_at: "2026-11-23T20:26:56.596Z"
+status: "active"
 ---
 
 # § 3318. 1 1 Another section 3318 is set out preceding this section. Availability of Federal building project information
@@ -24,3 +25,17 @@ generated_at: "2026-03-30T02:55:43.379Z"
   - **(1)** The term “prospectus” means prospectuses, building surveys, and factsheets submitted to the committees of jurisdiction pursuant to sections 3307 and 3316.
   - **(2)** The term “committees of jurisdiction” means the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate.
   - **(3)** The term “associated information” means resolutions approved by the committees of jurisdiction and other information as required pursuant to subsection (a).
+
+In General
+
+Definitions
+
+Prospectus
+
+Committees of jurisdiction
+
+Associated information
+
+## Source Credit
+
+*(Added [Pub. L. 116–333, § 2(a)](https://www.govinfo.gov/link/plaw/116/public/333), Jan. 13, 2021, [134 Stat. 5113](https://www.govinfo.gov/link/statute/134/5113).)*

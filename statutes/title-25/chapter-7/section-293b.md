@@ -3,12 +3,17 @@ title: "Section 293b - Conveyance of abandoned school properties in Alaska to lo
 usc_title: 25
 usc_section: "293b"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 293b"
-generated_at: "2026-03-30T02:54:52.802Z"
+generated_at: "2026-11-23T20:26:25.369Z"
+status: "active"
 ---
 
 # § 293b. Conveyance of abandoned school properties in Alaska to local town or city officials or school authorities; reservation of rights and claims by United States and use conditions; violations and forfeiture of grant; determinations; reversion to United States
 
 The Secretary of the Interior be, and he is hereby, directed to convey to local town or city officials or to school authorities in the Territory of Alaska, all the right, title, and interest of the United States in and to any parcel or tract of land and the improvements thereon for school or other public purposes whenever he shall determine that such land and improvements are no longer required by the Alaska Native Service for school purposes: Provided , That any conveyance made pursuant to this section shall be subject to all valid existing rights and claims, shall reserve to the United States all mineral deposits in the lands and the right to prospect for and remove the deposits under such rules and regulations as the Secretary of the Interior may prescribe, and shall provide that the lands and improvements conveyed shall be used for school or other public purposes only and that the school facilities maintained thereon or therein shall be available to all of the native children of the town, city, or other school district concerned on the same terms as to other children of such town, city, or district. The Secretary of the Interior, if at any time he determines that the grantee of any such lands and improvements has violated or failed to observe the foregoing provisions and that such violation or failure has continued for a period of at least one year, may declare a forfeiture of the grant. Such determination by the Secretary shall be final, and thereupon the lands and improvements covered thereby shall revert to the United States and become a part of the public domain subject to administration and disposal under the public land laws.
 
+
+## Source Credit
+
+*(Aug. 23, 1950, ch. 778, [64 Stat. 470](https://www.govinfo.gov/link/statute/64/470).)*

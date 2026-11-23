@@ -3,9 +3,10 @@ title: "Section 6261 - Worker protection at nuclear weapons facilities"
 usc_title: 10
 usc_section: "6261"
 chapter: 606
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6261"
-generated_at: "2026-03-30T02:53:38.224Z"
+generated_at: "2026-11-23T20:25:52.025Z"
+status: "active"
 ---
 
 # § 6261. Worker protection at nuclear weapons facilities
@@ -27,3 +28,15 @@ generated_at: "2026-03-30T02:53:38.224Z"
   - **(2)** Civil penalties assessed under this subsection may not exceed $5,000 for each day in which a failure referred to in paragraph (1)(B) occurs.
 - **(c)** The Secretary shall prescribe regulations to carry out this section.
 - **(d)** For the purposes of this section, the term “hazardous substance” includes radioactive waste and mixed radioactive and hazardous waste.
+
+Training Grant Program
+
+Enforcement of Employee Safety Standards
+
+Regulations
+
+Definitions
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2)(B), Dec. 18, 2025, [139 Stat. 1419](https://www.govinfo.gov/link/statute/139/1419), 1462.)*

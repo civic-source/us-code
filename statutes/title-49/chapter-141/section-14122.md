@@ -3,9 +3,10 @@ title: "Section 14122 - Records: form; inspection; preservation"
 usc_title: 49
 usc_section: "14122"
 chapter: 141
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 14122"
-generated_at: "2026-03-30T02:56:19.331Z"
+generated_at: "2026-11-23T20:27:34.754Z"
+status: "active"
 ---
 
 # § 14122. Records: form; inspection; preservation
@@ -17,3 +18,13 @@ generated_at: "2026-03-30T02:56:19.331Z"
     - **(A)** a carrier, broker, or association; and
     - **(B)** a person controlling, controlled by, or under common control with a carrier if the Secretary or Board, as applicable, considers inspection relevant to that person’s relation to, or transaction with, that carrier.
 - **(c)** The Secretary or Board, as applicable, may prescribe the time period during which operating, accounting, and financial records must be preserved by carriers and brokers.
+
+Form of Records
+
+Right of Inspection
+
+Period for Preservation of Records
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 893](https://www.govinfo.gov/link/statute/109/893); amended [Pub. L. 112–141, div. C, title II, § 32501(d)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 803](https://www.govinfo.gov/link/statute/126/803).)*

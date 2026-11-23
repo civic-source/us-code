@@ -3,9 +3,10 @@ title: "Section 25D - Residential clean energy credit"
 usc_title: 26
 usc_section: "25D"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 25D"
-generated_at: "2026-03-30T02:55:27.588Z"
+generated_at: "2026-11-23T20:26:45.135Z"
+status: "active"
 ---
 
 # § 25D. Residential clean energy credit
@@ -59,3 +60,15 @@ generated_at: "2026-03-30T02:55:27.588Z"
   - **(2)** in the case of property placed in service after December 31, 2019 , and before January 1, 2022 , 26 percent, and
   - **(3)** in the case of property placed in service after December 31, 2021 , 30 percent.
 - **(h)** The credit allowed under this section shall not apply with respect to any expenditures made after December 31, 2025 .
+
+In general
+
+Biomass fuel
+
+In general
+
+Residential clean energy credit for battery storage technology; certain expenditures disallowed
+
+## Source Credit
+
+*(Added [Pub. L. 109–58, title XIII, § 1335(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 1033](https://www.govinfo.gov/link/statute/119/1033); amended [Pub. L. 109–135, title IV, § 402(i)(1)](https://www.govinfo.gov/link/plaw/109/public/135), (2), (3)(E), Dec. 21, 2005, [119 Stat. 2612](https://www.govinfo.gov/link/statute/119/2612), 2614; [Pub. L. 109–432, div. A, title II, § 206](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 2945](https://www.govinfo.gov/link/statute/120/2945); [Pub. L. 110–343, div. B, title I, § 106(a)](https://www.govinfo.gov/link/plaw/110/public/343) –(c)(3)(A), (c)(4)–(e)(1), Oct. 3, 2008, [122 Stat. 3814–3816](https://www.govinfo.gov/link/statute/122/3814); [Pub. L. 111–5, div. B, title I](https://www.govinfo.gov/link/plaw/111/public/5), §§ 1103(b)(2)(B), 1122(a), Feb. 17, 2009, [123 Stat. 320](https://www.govinfo.gov/link/statute/123/320), 324; [Pub. L. 112–240, title I, § 104(c)(2)(F)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2322](https://www.govinfo.gov/link/statute/126/2322); [Pub. L. 114–113, div. P, title III, § 304(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3039](https://www.govinfo.gov/link/statute/129/3039); [Pub. L. 115–123, div. D, title I, § 40402(a)](https://www.govinfo.gov/link/plaw/115/public/123), (b), Feb. 9, 2018, [132 Stat. 148](https://www.govinfo.gov/link/statute/132/148); [Pub. L. 116–260, div. EE, title I, § 148(a)](https://www.govinfo.gov/link/plaw/116/public/260) –(b)(2), Dec. 27, 2020, [134 Stat. 3055](https://www.govinfo.gov/link/statute/134/3055); [Pub. L. 117–169, title I, § 13302(a)](https://www.govinfo.gov/link/plaw/117/public/169) –(c)(2), Aug. 16, 2022, [136 Stat. 1946](https://www.govinfo.gov/link/statute/136/1946), 1947; [Pub. L. 119–21, title VII, § 70506](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 251](https://www.govinfo.gov/link/statute/139/251).)*

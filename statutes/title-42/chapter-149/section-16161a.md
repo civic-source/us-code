@@ -3,9 +3,10 @@ title: "Section 16161a - Regional clean hydrogen hubs"
 usc_title: 42
 usc_section: "16161a"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16161a"
-generated_at: "2026-03-30T02:56:11.470Z"
+generated_at: "2026-11-23T20:27:23.619Z"
+status: "active"
 ---
 
 # § 16161a. Regional clean hydrogen hubs
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:11.470Z"
     - **(F)** The Secretary may take into consideration other criteria that, in the judgment of the Secretary, are necessary or appropriate to carry out this subchapter 1 1 So in original. Probably should be followed by a period.
   - **(4)** The Secretary may make grants to each regional clean hydrogen hub selected under paragraph (2) to accelerate commercialization of, and demonstrate the production, processing, delivery, storage, and end-use of, clean hydrogen.
 - **(d)** There is authorized to be appropriated to the Secretary to carry out this section $8,000,000,000 for the period of fiscal years 2022 through 2026.
+
+## Source Credit
+
+*([Pub. L. 109–58, title VIII, § 813](https://www.govinfo.gov/link/plaw/109/public/58), as added [Pub. L. 117–58, div. D, title III, § 40314(2)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1008](https://www.govinfo.gov/link/statute/135/1008).)*

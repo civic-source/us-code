@@ -3,12 +3,17 @@ title: "Section 119 - Puerto Rico"
 usc_title: 28
 usc_section: "119"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 119"
-generated_at: "2026-03-30T02:55:30.123Z"
+generated_at: "2026-11-23T20:26:36.288Z"
+status: "active"
 ---
 
 # § 119. Puerto Rico
 
 Puerto Rico constitutes one judicial district. Court shall be held at Mayaguez, Ponce, and San Juan.
 
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 889](https://www.govinfo.gov/link/statute/62/889).)*

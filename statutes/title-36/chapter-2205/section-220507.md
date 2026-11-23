@@ -3,9 +3,10 @@ title: "Section 220507 - Restrictions"
 usc_title: 36
 usc_section: "220507"
 chapter: 2205
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 220507"
-generated_at: "2026-03-30T02:55:44.709Z"
+generated_at: "2026-11-23T20:26:59.083Z"
+status: "active"
 ---
 
 # § 220507. Restrictions
@@ -20,3 +21,35 @@ generated_at: "2026-03-30T02:55:44.709Z"
       - **(i)** the individual is no longer entitled to bonus or severance pay previously withheld; and
       - **(ii)** the compensation committee of the corporation may reduce or cancel the withheld bonus or severance pay; and
     - **(B)** in the case of an individual who is the subject of a criminal investigation, the ethics committee shall investigate the individual.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 220507(a) | 36:378. | Sept. 21, 1950, ch. 975 , title I, §§ 107, 108, as added Nov. 8, 1978 , Pub. L. 95–606, § 1(b) , 92 Stat. 3048 . |
+| 220507(b) | 36:377. |  |
+
+
+Profit and Stock
+
+Political Activities
+
+Policy With Respect to Assisting Members or Former Members in Obtaining Jobs
+
+Policy Regarding Terms and Conditions of Employment
+
+Historical and Revision Notes
+
+220507(a)
+
+Sept. 21, 1950, ch. 975
+
+Nov. 8, 1978
+
+Pub. L. 95–606, § 1(b)
+
+92 Stat. 3048
+
+220507(b)
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1470](https://www.govinfo.gov/link/statute/112/1470); [Pub. L. 116–189, § 6(d)(1)](https://www.govinfo.gov/link/plaw/116/public/189), (2)(A), Oct. 30, 2020, [134 Stat. 949](https://www.govinfo.gov/link/statute/134/949).)*

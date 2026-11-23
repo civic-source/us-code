@@ -3,9 +3,10 @@ title: "Section 8901 - Definitions"
 usc_title: 5
 usc_section: "8901"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8901"
-generated_at: "2026-03-30T02:52:56.066Z"
+generated_at: "2026-11-23T20:25:32.239Z"
+status: "active"
 ---
 
 # § 8901. Definitions
@@ -61,3 +62,109 @@ For the purpose of this chapter—
     - **(B)** who, if such State does not provide for the licensing or certification of clinical social workers—
       - **(i)** is certified by a national professional organization offering certification of clinical social workers; or
       - **(ii)** meets equivalent requirements (as prescribed by the Office).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 3001 . | Sept. 28, 1959 , Pub. L. 86–382, § 2 , 73 Stat. 709 . July 8, 1963 , Pub. L. 88–59, § 1 , 77 Stat. 76 . |
+|  |  | Mar. 17, 1964 , Pub. L. 88–284, § 1(1) –(4), 78 Stat. 164 . |
+|  |  | Aug. 31, 1964 , Pub. L. 88–531, § 1 , 78 Stat. 737 . |
+|  | 5 U.S.C. 3002(f) (1st sentence, less words between 1st and 2d commas). | July 1, 1960 , Pub. L. 86–568, § 115(d) “(f) (1st sentence, less words between 1st and 2d commas)”, 74 Stat. 303 . |
+
+| 1967 Act | Col 2 | Col 3 |
+| --- | --- | --- |
+| 8901(5) | 5 App.: 3001(d). | July 18, 1966 , Pub. L. 89–504, § 601 , 80 Stat. 303 . |
+
+
+Historical and Revision Notes
+
+Act
+
+5 U.S.C. 3001
+
+Sept. 28, 1959
+
+Pub. L. 86–382, § 2
+
+73 Stat. 709
+
+July 8, 1963
+
+Pub. L. 88–59, § 1
+
+77 Stat. 76
+
+Mar. 17, 1964
+
+Pub. L. 88–284, § 1(1)
+
+78 Stat. 164
+
+Aug. 31, 1964
+
+Pub. L. 88–531, § 1
+
+78 Stat. 737
+
+5 U.S.C. 3002(f)
+
+July 1, 1960
+
+Pub. L. 86–568, § 115(d)
+
+74 Stat. 303
+
+Act
+
+8901(5)
+
+July 18, 1966
+
+Pub. L. 89–504, § 601
+
+80 Stat. 303
+
+Enrollment in Chapter
+
+Continued Coverage.—
+
+In general
+
+Individuals currently under continued coverage
+
+Unmarried dependent children
+
+Transfers to the Employees Health Benefits Fund.—
+
+In general
+
+Availability of funds
+
+Administration and Regulations
+
+Enrollment Eligibility Date
+
+Enrollment in Chapter
+
+Plan
+
+Continued Coverage
+
+Eligibility for FEHBP Limited to Individuals Losing Eligibility Under Former Health Plan
+
+Transfers to the Employees Health Benefits Fund
+
+Administration and Regulations
+
+Enrollment in Chapter
+
+Plan
+
+Continued Coverage
+
+Transfers to the Employees Health Benefits Fund
+
+Administration and Regulations
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 600](https://www.govinfo.gov/link/statute/80/600); [Pub. L. 90–83, § 1(95)](https://www.govinfo.gov/link/plaw/90/public/83), Sept. 11, 1967, [81 Stat. 219](https://www.govinfo.gov/link/statute/81/219); [Pub. L. 91–418](https://www.govinfo.gov/link/plaw/91/public/418), §§ 2, 3(b), Sept. 25, 1970, [84 Stat. 869](https://www.govinfo.gov/link/statute/84/869); [Pub. L. 93–160, § 1(b)](https://www.govinfo.gov/link/plaw/93/public/160), Nov. 27, 1973, [87 Stat. 635](https://www.govinfo.gov/link/statute/87/635); [Pub. L. 95–368, § 2](https://www.govinfo.gov/link/plaw/95/public/368), Sept. 17, 1978, [92 Stat. 606](https://www.govinfo.gov/link/statute/92/606); [Pub. L. 95–454, title IX, § 906(a)(2)](https://www.govinfo.gov/link/plaw/95/public/454), (3), Oct. 13, 1978, [92 Stat. 1224](https://www.govinfo.gov/link/statute/92/1224); [Pub. L. 95–583, § 2](https://www.govinfo.gov/link/plaw/95/public/583), Nov. 2, 1978, [92 Stat. 2482](https://www.govinfo.gov/link/statute/92/2482); [Pub. L. 96–54, § 2(a)(52)](https://www.govinfo.gov/link/plaw/96/public/54), Aug. 14, 1979, [93 Stat. 384](https://www.govinfo.gov/link/statute/93/384); [Pub. L. 96–70, title I, § 1209(c)](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 463](https://www.govinfo.gov/link/statute/93/463); [Pub. L. 96–179, § 2](https://www.govinfo.gov/link/plaw/96/public/179), Jan. 2, 1980, [93 Stat. 1299](https://www.govinfo.gov/link/statute/93/1299); [Pub. L. 98–615, § 3(1)](https://www.govinfo.gov/link/plaw/98/public/615), Nov. 8, 1984, [98 Stat. 3202](https://www.govinfo.gov/link/statute/98/3202); [Pub. L. 99–53, § 1(a)](https://www.govinfo.gov/link/plaw/99/public/53), June 17, 1985, [99 Stat. 93](https://www.govinfo.gov/link/statute/99/93); [Pub. L. 99–251, title I, § 105(a)](https://www.govinfo.gov/link/plaw/99/public/251), Feb. 27, 1986, [100 Stat. 15](https://www.govinfo.gov/link/statute/100/15); [Pub. L. 99–335, title II, § 207](https://www.govinfo.gov/link/plaw/99/public/335) (l), June 6, 1986, [100 Stat. 598](https://www.govinfo.gov/link/statute/100/598); [Pub. L. 99–556, title V, § 503](https://www.govinfo.gov/link/plaw/99/public/556), Oct. 27, 1986, [100 Stat. 3141](https://www.govinfo.gov/link/statute/100/3141); [Pub. L. 100–679, § 13(c)](https://www.govinfo.gov/link/plaw/100/public/679), Nov. 17, 1988, [102 Stat. 4071](https://www.govinfo.gov/link/statute/102/4071); [Pub. L. 101–508, title VII, § 7202](https://www.govinfo.gov/link/plaw/101/public/508) (l), Nov. 5, 1990, [104 Stat. 1388–339](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 102–378, § 2(75)](https://www.govinfo.gov/link/plaw/102/public/378), Oct. 2, 1992, [106 Stat. 1355](https://www.govinfo.gov/link/statute/106/1355); [Pub. L. 105–266, § 3(a)](https://www.govinfo.gov/link/plaw/105/public/266), Oct. 19, 1998, [112 Stat. 2366](https://www.govinfo.gov/link/statute/112/2366); [Pub. L. 110–74, § 1](https://www.govinfo.gov/link/plaw/110/public/74), Aug. 9, 2007, [121 Stat. 723](https://www.govinfo.gov/link/statute/121/723); [Pub. L. 114–136, § 2(c)(5)](https://www.govinfo.gov/link/plaw/114/public/136), Mar. 18, 2016, [130 Stat. 305](https://www.govinfo.gov/link/statute/130/305).)*

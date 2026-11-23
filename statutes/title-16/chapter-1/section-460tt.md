@@ -3,9 +3,10 @@ title: "Section 460tt - Cross Florida Barge Canal"
 usc_title: 16
 usc_section: "460tt"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 460tt"
-generated_at: "2026-03-30T02:54:22.830Z"
+generated_at: "2026-11-23T20:26:19.974Z"
+status: "active"
 ---
 
 # § 460tt. Cross Florida Barge Canal
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:22.830Z"
   - **(1)** During the period beginning on November 28, 1992 , and ending on September 30, 1993 , the Secretary is authorized and directed to offer to enter into a contract with the St. Johns River Water Management District and the Southwest Florida Water Management District of the State of Florida for the continued operation and maintenance by the Secretary of the portions of the project described in subsection (d). The maintenance shall be performed at a level of service that is necessary to ensure safe operating conditions and to prevent deterioration of the structures. No major rehabilitations or renovations shall be performed by the Secretary in such portions of the project during such period.
   - **(2)** Funding for the continued operation and maintenance of the barge canal project by the Secretary under this subsection shall not exceed $300,000. The State of Florida shall pay a non-Federal share of $600,000 to fund the continued maintenance of the portions of the project described in subsection (d) in accordance with paragraph (1).
 - **(g)** The exact acreage and legal description of the real property to be transferred pursuant to this section shall be determined by a survey which is satisfactory to the Secretary and to the State. The cost of such survey shall be borne by the State.
+
+## Source Credit
+
+*([Pub. L. 99–662, title XI, § 1114](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4232](https://www.govinfo.gov/link/statute/100/4232); [Pub. L. 101–640, title IV, § 402](https://www.govinfo.gov/link/plaw/101/public/640), Nov. 28, 1990, [104 Stat. 4644](https://www.govinfo.gov/link/statute/104/4644); [Pub. L. 102–580, title I, § 102(e)](https://www.govinfo.gov/link/plaw/102/public/580), Oct. 31, 1992, [106 Stat. 4805](https://www.govinfo.gov/link/statute/106/4805).)*

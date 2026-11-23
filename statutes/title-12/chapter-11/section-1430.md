@@ -3,9 +3,10 @@ title: "Section 1430 - Advances to members"
 usc_title: 12
 usc_section: "1430"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1430"
-generated_at: "2026-03-30T02:53:53.391Z"
+generated_at: "2026-11-23T20:25:58.811Z"
+status: "active"
 ---
 
 # § 1430. Advances to members
@@ -99,3 +100,11 @@ generated_at: "2026-03-30T02:53:53.391Z"
   - **(2)**
     - **(A)** The Director shall make available to the public, in a form that is useful to the public (including forms accessible electronically), and to the extent practicable, the data provided to the Director under paragraph (1).
     - **(B)** Not withstanding subparagraph (A), the Director may not provide public access to, or disclose to the public, any information required to be submitted under this subsection that the Director determines is proprietary or that would provide personally identifiable information and that is not otherwise publicly accessible through other forms, unless the Director determines that it is in the public interest to provide such information.
+
+Reports
+
+Submission to congress
+
+## Source Credit
+
+*(July 22, 1932, ch. 522, § 10, [47 Stat. 731](https://www.govinfo.gov/link/statute/47/731); Apr. 27, 1934, ch. 168, § 10, [48 Stat. 646](https://www.govinfo.gov/link/statute/48/646); June 27, 1934, ch. 847, § 501, [48 Stat. 1261](https://www.govinfo.gov/link/statute/48/1261); May 28, 1935, ch. 150, §§ 5, 6, [49 Stat. 294](https://www.govinfo.gov/link/statute/49/294), 295; Mar. 28, 1941, ch. 31, § 7, [55 Stat. 62](https://www.govinfo.gov/link/statute/55/62); Aug. 1, 1947, ch. 431, [61 Stat. 714](https://www.govinfo.gov/link/statute/61/714); Apr. 20, 1950, ch. 94, title V, § 501, [64 Stat. 80](https://www.govinfo.gov/link/statute/64/80); Sept. 1, 1951, ch. 378, title II, § 208, [65 Stat. 303](https://www.govinfo.gov/link/statute/65/303); Aug. 2, 1954, ch. 649, title V, § 502, [68 Stat. 634](https://www.govinfo.gov/link/statute/68/634); [Pub. L. 85–857, § 13(e)](https://www.govinfo.gov/link/plaw/85/public/857), Sept. 2, 1958, [72 Stat. 1264](https://www.govinfo.gov/link/statute/72/1264); [Pub. L. 87–779, § 2(b)](https://www.govinfo.gov/link/plaw/87/public/779), Oct. 9, 1962, [76 Stat. 779](https://www.govinfo.gov/link/statute/76/779); [Pub. L. 88–560, title IX, § 906](https://www.govinfo.gov/link/plaw/88/public/560), Sept. 2, 1964, [78 Stat. 805](https://www.govinfo.gov/link/statute/78/805); [Pub. L. 93–449, § 4(c)](https://www.govinfo.gov/link/plaw/93/public/449), Oct. 18, 1974, [88 Stat. 1367](https://www.govinfo.gov/link/statute/88/1367); [Pub. L. 95–128, title IV, § 406](https://www.govinfo.gov/link/plaw/95/public/128), Oct. 12, 1977, [91 Stat. 1137](https://www.govinfo.gov/link/statute/91/1137); [Pub. L. 97–320, title III, § 352](https://www.govinfo.gov/link/plaw/97/public/320), Oct. 15, 1982, [96 Stat. 1507](https://www.govinfo.gov/link/statute/96/1507); [Pub. L. 97–457, § 15](https://www.govinfo.gov/link/plaw/97/public/457), Jan. 12, 1983, [96 Stat. 2509](https://www.govinfo.gov/link/statute/96/2509); [Pub. L. 100–86, title I, § 105](https://www.govinfo.gov/link/plaw/100/public/86), title III, § 306(d), Aug. 10, 1987, [101 Stat. 575](https://www.govinfo.gov/link/statute/101/575), 601; [Pub. L. 101–73, title VII](https://www.govinfo.gov/link/plaw/101/public/73), §§ 701(b)(1), (3)(A), 710(b)(4), (5), (c), 714, 721, Aug. 9, 1989, [103 Stat. 412](https://www.govinfo.gov/link/statute/103/412), 418, 419, 423; [Pub. L. 102–550, title XIII, § 1392(a)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 4009](https://www.govinfo.gov/link/statute/106/4009); [Pub. L. 106–102, title VI](https://www.govinfo.gov/link/plaw/106/public/102), §§ 604(a)–(c), 606(f)(2), Nov. 12, 1999, [113 Stat. 1451](https://www.govinfo.gov/link/statute/113/1451), 1452, 1455; [Pub. L. 110–289, div. A, title II](https://www.govinfo.gov/link/plaw/110/public/289), §§ 1204(5), (8)–(10), (12), 1211(b), 1212, 1218, July 30, 2008, [122 Stat. 2786](https://www.govinfo.gov/link/statute/122/2786), 2790, 2793.)*

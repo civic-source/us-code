@@ -3,9 +3,10 @@ title: "Section 1642 - Enforcement by President"
 usc_title: 7
 usc_section: "1642"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1642"
-generated_at: "2026-03-30T02:53:42.336Z"
+generated_at: "2026-11-23T20:25:41.258Z"
+status: "active"
 ---
 
 # § 1642. Enforcement by President
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:42.336Z"
 - **(h)** Funds appropriated under authority of this chapter may be used for the purchase or hire of passenger motor vehicles, for printing and binding, for rent and personal services in the District of Columbia and elsewhere without regard to the limitation contained in section 607(g) of the Federal Employees Pay Act of 1945, as amended [ 5 U.S.C. 947(g) ], 1 1 See References in Text note below. and for the employment of experts or consultants or organization thereof, on a temporary basis, by contract or otherwise, without regard to chapter 51 and subchapter III of chapter 53 of title 5, at rates not in excess of $50 per diem.
 - **(i)** The functions exercised under authority of this chapter shall be excluded from the operation of the Administrative Procedure Act ( 60 Stat. 237 ) except as to the requirements of sections 3 and 10 thereof.
 - **(j)** The term “person” as used in this section shall include the singular and the plural and any individual, partnership, corporation, association, or any other organized group of persons.
+
+## Source Credit
+
+*(Oct. 27, 1949, ch. 772, § 3, [63 Stat. 946](https://www.govinfo.gov/link/statute/63/946); Oct. 28, 1949, ch. 782, title II, § 202(27), title XI, § 1106(a), [63 Stat. 956](https://www.govinfo.gov/link/statute/63/956), 972.)*

@@ -3,9 +3,10 @@ title: "Section 3751 - Payments to Republic of Panama"
 usc_title: 22
 usc_section: "3751"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3751"
-generated_at: "2026-03-30T02:55:05.397Z"
+generated_at: "2026-11-23T20:26:32.474Z"
+status: "active"
 ---
 
 # § 3751. Payments to Republic of Panama
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.397Z"
 - **(e)** As provided in section 3792(b) of this title , tolls shall not be prescribed at rates calculated to cover payments to the Republic of Panama pursuant to paragraph 4(c) of Article XIII of the Panama Canal Treaty of 1977. Moreover, no payments may be made to the Republic of Panama under paragraph 4(c) of Article XIII of the Panama Canal Treaty of 1977 unless unexpended funds are used to pay all costs of operation and maintenance of the canal, including but not limited to (1) operating expenses determined in accordance with generally accepted accounting principles, (2) payments to the Republic of Panama under paragraphs 4(a) and 4(b) of such Article XIII and under paragraph (5) of Article III of such Treaty, (3) amounts in excess of depreciation and amortization which are programed for plant replacement, expansion, and improvements, (4) payments to the Treasury of the United States under section 3793 of this title , (5) reimbursement to the Treasury of the United States for costs incurred by other departments and agencies of the United States in providing educational, health, and other services to the Commission, its employees and their dependents, and other categories of persons in accordance with section 3731 of this title , (6) any costs of Treaty implementation associated with the maintenance and operation of the Panama Canal, and (7) amounts programmed to meet working capital requirements.
 - **(f)** The prohibitions contained in this section and in sections 3712(b) and 3783 of this title shall apply notwithstanding any other provision of law authorizing transfers of funds between accounts, reprograming of funds, use of funds for contingency purposes, or waivers of prohibitions.
 - **(g)** Notwithstanding any other provision of law, no reduction under any order issued pursuant to the Balanced Budget and Emergency Deficit Control Act of 1985 shall apply to the Commission if the implementation of such an order would result in a payment to the Republic of Panama under paragraph 4(c) of article XIII of the Panama Canal Treaty of 1977 and this section.
+
+## Source Credit
+
+*([Pub. L. 96–70, title I, § 1341](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 482](https://www.govinfo.gov/link/statute/93/482); [Pub. L. 99–368, § 6](https://www.govinfo.gov/link/plaw/99/public/368), Aug. 1, 1986, [100 Stat. 776](https://www.govinfo.gov/link/statute/100/776); [Pub. L. 100–203, title V, § 5426](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–274](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 104–201, div. C, title XXXV, § 3548(b)(3)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2869](https://www.govinfo.gov/link/statute/110/2869); [Pub. L. 105–85, div. C, title XXXV, § 3550(d)(7)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 2074](https://www.govinfo.gov/link/statute/111/2074); [Pub. L. 105–261, div. C, title XXXV, § 3512(b)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2271](https://www.govinfo.gov/link/statute/112/2271).)*

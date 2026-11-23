@@ -3,9 +3,10 @@ title: "Section 1116 - Duties of trustee or debtor in possession in small busine
 usc_title: 11
 usc_section: "1116"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 1116"
-generated_at: "2026-03-30T02:53:53.884Z"
+generated_at: "2026-11-23T20:25:55.404Z"
+status: "active"
 ---
 
 # § 1116. Duties of trustee or debtor in possession in small business cases
@@ -23,3 +24,7 @@ In a small business case, a trustee or the debtor in possession, in addition to 
     - **(A)** timely file tax returns and other required government filings; and
     - **(B)** subject to section 363(c)(2), timely pay all taxes entitled to administrative expense priority except those being contested by appropriate proceedings being diligently prosecuted; and
   - **(7)** allow the United States trustee, or a designated representative of the United States trustee, to inspect the debtor’s business premises, books, and records at reasonable times, after reasonable prior written notice, unless notice is waived by the debtor.
+
+## Source Credit
+
+*(Added [Pub. L. 109–8, title IV, § 436(a)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 112](https://www.govinfo.gov/link/statute/119/112).)*

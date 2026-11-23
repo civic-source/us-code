@@ -3,9 +3,10 @@ title: "Section 4138 - Access to records"
 usc_title: 22
 usc_section: "4138"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4138"
-generated_at: "2026-03-30T02:55:05.408Z"
+generated_at: "2026-11-23T20:26:32.524Z"
+status: "active"
 ---
 
 # § 4138. Access to records
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.408Z"
 - **(c)** If the Board determines that an agency record, or a summary or extract of a record, made available to the Board under subsection (b) is relevant and material to the grievance, the agency concerned shall make such record, summary, or extract, as the case may be, available to the grievant.
 - **(d)** In considering a grievance, the Board may take into account the fact that the grievant or the Board was denied access to an agency record which the Board determines is or may be relevant and material to the grievance.
 - **(e)** The grievant in any case decided by the Board shall have access to the record of the proceedings and the decision of the Board.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 1108](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2147](https://www.govinfo.gov/link/statute/94/2147).)*

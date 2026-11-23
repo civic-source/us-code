@@ -3,9 +3,10 @@ title: "Section 8791 - Information gathering"
 usc_title: 7
 usc_section: "8791"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 8791"
-generated_at: "2026-03-30T02:53:42.481Z"
+generated_at: "2026-11-23T20:25:41.924Z"
+status: "active"
 ---
 
 # § 8791. Information gathering
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:42.481Z"
     - **(C)** the disclosure of information described in paragraph (2) pursuant to the consent of the agricultural producer or owner of agricultural land.
   - **(5)** The participation of the agricultural producer or owner of agricultural land in, or receipt of any benefit under, any program administered by the Secretary may not be conditioned on the consent of the agricultural producer or owner of agricultural land under paragraph (4)(C).
   - **(6)** The disclosure of information under paragraph (2) shall not constitute a waiver of any applicable privilege or protection under Federal law, including trade secret protection.
+
+## Source Credit
+
+*([Pub. L. 110–234, title I, § 1619](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1022](https://www.govinfo.gov/link/statute/122/1022); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1619, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1750.)*

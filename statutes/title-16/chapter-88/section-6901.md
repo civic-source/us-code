@@ -3,9 +3,10 @@ title: "Section 6901 - Definitions"
 usc_title: 16
 usc_section: "6901"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6901"
-generated_at: "2026-03-30T02:54:23.070Z"
+generated_at: "2026-11-23T20:26:20.824Z"
+status: "active"
 ---
 
 # § 6901. Definitions
@@ -30,3 +31,7 @@ In this chapter:
   - **(10)** The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, and any other commonwealth, territory, or possession of the United States.
   - **(11)** The term “transshipment” means the unloading of all or any of the fish on board a fishing vessel to another fishing vessel either at sea or in port.
   - **(12)** The terms “WCPFC Convention” and “Western and Central Pacific Convention” means the Convention on the Conservation and Management of the Highly Migratory Fish Stocks in the Western and Central Pacific Ocean, (including any annexes, amendments, or protocols which are in force, or have come into force, for the United States) which was adopted at Honolulu, Hawaii, on September 5, 2000 , by the Multilateral High Level Conference on the Highly Migratory Fish Stocks in the Western and Central Pacific Ocean.
+
+## Source Credit
+
+*([Pub. L. 109–479, title V, § 502](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3635](https://www.govinfo.gov/link/statute/120/3635).)*

@@ -3,9 +3,10 @@ title: "Section 1126 - Technological innovation and cooperation for foreign info
 usc_title: 20
 usc_section: "1126"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1126"
-generated_at: "2026-03-30T02:54:48.143Z"
+generated_at: "2026-11-23T20:26:14.554Z"
+status: "active"
 ---
 
 # § 1126. Technological innovation and cooperation for foreign information access
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:54:48.143Z"
   - **(9)** to carry out other activities that the Secretary determines are consistent with the purpose of the grants awarded under this section.
 - **(c)** Each institution of higher education, library, or partnership desiring a grant under this section shall submit an application to the Secretary at such time, in such manner, and accompanied by such information and assurances as the Secretary may reasonably require.
 - **(d)** The Federal share of the total cost of carrying out a program supported by a grant under this section shall not be more than 66⅔ percent. The non-Federal share of such cost may be provided either in-kind or in cash, and may include contributions from private sector corporations or foundations.
+
+## Source Credit
+
+*([Pub. L. 89–329, title VI, § 606](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title VI, § 601](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1781](https://www.govinfo.gov/link/statute/112/1781); amended [Pub. L. 110–315, title VI, § 606](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3337](https://www.govinfo.gov/link/statute/122/3337).)*

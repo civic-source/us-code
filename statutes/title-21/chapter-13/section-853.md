@@ -3,9 +3,10 @@ title: "Section 853 - Criminal forfeitures"
 usc_title: 21
 usc_section: "853"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 853"
-generated_at: "2026-03-30T02:54:54.296Z"
+generated_at: "2026-11-23T20:26:27.842Z"
+status: "active"
 ---
 
 # § 853. Criminal forfeitures
@@ -71,3 +72,13 @@ generated_at: "2026-03-30T02:54:54.296Z"
   - **(1)** order restitution as provided in sections 3612 and 3664 of title 18;
   - **(2)** order the defendant to reimburse the United States, the State or local government concerned, or both the United States and the State or local government concerned for the costs incurred by the United States or the State or local government concerned, as the case may be, for the cleanup associated with the manufacture of amphetamine or methamphetamine by the defendant, or on premises or in property that the defendant owns, resides, or does business in; and
   - **(3)** order restitution to any person injured as a result of the offense as provided in section 3663A of title 18 .
+
+Order to repatriate and deposit.—
+
+In general
+
+Failure to comply
+
+## Source Credit
+
+*([Pub. L. 91–513, title II, § 413](https://www.govinfo.gov/link/plaw/91/public/513), as added and amended [Pub. L. 98–473, title II](https://www.govinfo.gov/link/plaw/98/public/473), §§ 303, 2301(d)–(f), Oct. 12, 1984, [98 Stat. 2044](https://www.govinfo.gov/link/statute/98/2044), 2192, 2193; [Pub. L. 99–570, title I](https://www.govinfo.gov/link/plaw/99/public/570), §§ 1153(b), 1864, Oct. 27, 1986, [100 Stat. 3207–13](https://www.govinfo.gov/link/statute/100/3207), 3207–54; [Pub. L. 104–237, title II, § 207](https://www.govinfo.gov/link/plaw/104/public/237), Oct. 3, 1996, [110 Stat. 3104](https://www.govinfo.gov/link/statute/110/3104); [Pub. L. 106–310, div. B, title XXXVI, § 3613(a)](https://www.govinfo.gov/link/plaw/106/public/310), Oct. 17, 2000, [114 Stat. 1229](https://www.govinfo.gov/link/statute/114/1229); [Pub. L. 107–56, title III, § 319(d)](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 314](https://www.govinfo.gov/link/statute/115/314); [Pub. L. 109–177, title VII, § 743(a)](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 272](https://www.govinfo.gov/link/statute/120/272); [Pub. L. 111–16, § 5](https://www.govinfo.gov/link/plaw/111/public/16), May 7, 2009, [123 Stat. 1608](https://www.govinfo.gov/link/statute/123/1608).)*

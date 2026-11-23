@@ -3,9 +3,10 @@ title: "Section 40102 - Background checks"
 usc_title: 34
 usc_section: "40102"
 chapter: 401
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 40102"
-generated_at: "2026-03-30T02:55:33.308Z"
+generated_at: "2026-11-23T20:26:50.637Z"
+status: "active"
 ---
 
 # § 40102. Background checks
@@ -49,3 +50,69 @@ generated_at: "2026-03-30T02:55:33.308Z"
     - **(A)** The Attorney General shall designate, and enter into an agreement with, one or more entities to make determinations described in subparagraph (B). The Attorney General may not designate and enter into an agreement with a Federal agency under this subparagraph.
     - **(B)** A designated entity shall, upon the receipt of the information described in paragraph (1), make a determination of fitness described in subsection (b)(4), using the criteria described in subparagraph (C).
     - **(C)** The Attorney General shall, by rule, establish the criteria for use by designated entities in making a determination of fitness described in subsection (b)(4). Such criteria shall be based on the criteria established pursuant to section 108(a)(3)(G)(i) of the Prosecutorial Remedies and Other Tools to end the Exploitation of Children Today Act of 2003 ( 34 U.S.C. 40102 note) and section 9858f of title 42 .
+
+Establishment of Pilot Program.—
+
+In general
+
+State pilot program.—
+
+In general
+
+Volunteer organization requests
+
+State check
+
+Information provided
+
+Costs
+
+Timing
+
+Child safety pilot program.—
+
+In general
+
+Participating organizations.—
+
+Eligible organizations
+
+Pilot program
+
+Applicants from participating organizations
+
+Procedures
+
+Volunteer information required
+
+Timing
+
+Determinations of fitness.—
+
+In general
+
+Child safety pilot program
+
+Fees collected by attorney general
+
+Rights of Volunteers
+
+Authorization of Appropriations.—
+
+In general
+
+State program
+
+Feasibility Study for a System of Background Checks for Employees and Volunteers.—
+
+Study required
+
+Interim report
+
+Final report
+
+Limitation on Liability
+
+## Source Credit
+
+*([Pub. L. 103–209, § 3](https://www.govinfo.gov/link/plaw/103/public/209), Dec. 20, 1993, [107 Stat. 2491](https://www.govinfo.gov/link/statute/107/2491); [Pub. L. 103–322, title XXXII, § 320928(a)(1)](https://www.govinfo.gov/link/plaw/103/public/322), (2), (c), (e), Sept. 13, 1994, [108 Stat. 2131](https://www.govinfo.gov/link/statute/108/2131), 2132; [Pub. L. 105–251, title II, § 222(a)](https://www.govinfo.gov/link/plaw/105/public/251), (b), Oct. 9, 1998, [112 Stat. 1885](https://www.govinfo.gov/link/statute/112/1885); [Pub. L. 115–141, div. S, title I, § 101(a)(1)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1123](https://www.govinfo.gov/link/statute/132/1123).)*

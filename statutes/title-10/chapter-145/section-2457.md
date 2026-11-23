@@ -3,9 +3,10 @@ title: "Section 2457 - Standardization of equipment with North Atlantic Treaty O
 usc_title: 10
 usc_section: "2457"
 chapter: 145
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2457"
-generated_at: "2026-03-30T02:53:38.159Z"
+generated_at: "2026-11-23T20:25:51.583Z"
+status: "active"
 ---
 
 # § 2457. Standardization of equipment with North Atlantic Treaty Organization members
@@ -23,3 +24,141 @@ generated_at: "2026-03-30T02:53:38.159Z"
 - **[(d)** Repealed. Pub. L. 108–136, div. A, title X, § 1031(a)(22) , Nov. 24, 2003 , 117 Stat. 1598 .]
 - **(e)** If the Secretary decides that procurement of equipment manufactured outside the United States is necessary to carry out the policy of subsection (a), the Secretary may determine under section 8302 of title 41 that acquiring that equipment manufactured in the United States is inconsistent with the public interest.
 - **(f)** The Secretary shall submit the results of each assessment and evaluation made under subsection (a)(1) and (2) to the appropriate North Atlantic Treaty Organization body to become an integral part of the overall Organization review of force goals and development of force plans.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 2457(a) | 10:2451 (note). | Aug. 5, 1974 , Pub. L. 93–365, § 302(c) (1st–3d sentences), 88 Stat. 402 . |
+|  |  | Oct. 7, 1975 , Pub. L. 94–106, § 814(a)(1) , 89 Stat. 540 ; restated July 14, 1976 , Pub. L. 94–361, § 802 , 90 Stat. 930 . |
+| 2457(b) | 10:2451 (note). | July 14, 1976 , Pub. L. 94–361, § 803(b) (1st–4th sentences), 90 Stat. 931 . |
+| 2457(c) | 10:2451 (note). | July 14, 1976 , Pub. L. 94–361, § 803(a) (1st, 2d sentences), (c), 90 Stat. 930 , 931. |
+| 2457(d) (words before (1)), (1) (related to (a)(1) and (2)) | 10:2451 (note). | Aug. 5, 1974 , Pub. L. 93–365, § 302(c) (5th sentence), 88 Stat. 402 ; Oct. 7, 1975 , Pub. L. 94–106, § 814(c) , 89 Stat. 540 . |
+| 2457(d)(1) (related to (a)(3)) | 10:2451 (note). | July 14, 1976 , Pub. L. 94–361, § 803(b) (last sentence), 90 Stat. 931 . |
+| 2457(d)(2) | 10:2451 (note). | Oct. 7, 1975 , Pub. L. 94–106, § 814(b) , 89 Stat. 540 . |
+| 2457(d)(3) | 10:2451 (note). | Oct. 7, 1975 , Pub. L. 94–106, § 814(a)(3) , 89 Stat. 540 ; restated July 14, 1976 , Pub. L. 94–361, § 802 , 90 Stat. 930 . |
+| 2457(d) (4)–(6) | 10:2451 (note). | July 14, 1976 , Pub. L. 94–361, § 803(a) (3d–last sentences), 90 Stat. 930 . |
+| 2457(d)(7), (8) | 10:2451 (note). | Aug. 5, 1974 , Pub. L. 93–365 , 88 Stat. 399 , § 302(c) (6th, last sentences); added Sept. 8, 1982 , Pub. L. 97–252, § 1121 , 96 Stat. 754 . |
+| 2457(e) | 10:2451 (note). | Oct. 7, 1975 , Pub. L. 94–106, § 814(a)(2) , 89 Stat. 540 ; restated July 14, 1976 , Pub. L. 94–361, § 802 , 90 Stat. 930 . |
+| 2457(f) | 10:2451 (note). | Aug. 5, 1974 , Pub. L. 93–365, § 302(c) (4th sentence), 88 Stat. 402 . |
+
+
+Historical and Revision Notes
+
+2457(a)
+
+Aug. 5, 1974
+
+Pub. L. 93–365, § 302(c)
+
+88 Stat. 402
+
+Oct. 7, 1975
+
+Pub. L. 94–106, § 814(a)(1)
+
+89 Stat. 540
+
+July 14, 1976
+
+Pub. L. 94–361, § 802
+
+90 Stat. 930
+
+2457(b)
+
+July 14, 1976
+
+Pub. L. 94–361, § 803(b)
+
+90 Stat. 931
+
+2457(c)
+
+July 14, 1976
+
+Pub. L. 94–361, § 803(a)
+
+90 Stat. 930
+
+Aug. 5, 1974
+
+Pub. L. 93–365, § 302(c)
+
+88 Stat. 402
+
+Oct. 7, 1975
+
+Pub. L. 94–106, § 814(c)
+
+89 Stat. 540
+
+July 14, 1976
+
+Pub. L. 94–361, § 803(b)
+
+90 Stat. 931
+
+2457(d)(2)
+
+Oct. 7, 1975
+
+Pub. L. 94–106, § 814(b)
+
+89 Stat. 540
+
+2457(d)(3)
+
+Oct. 7, 1975
+
+Pub. L. 94–106, § 814(a)(3)
+
+89 Stat. 540
+
+July 14, 1976
+
+Pub. L. 94–361, § 802
+
+90 Stat. 930
+
+July 14, 1976
+
+Pub. L. 94–361, § 803(a)
+
+90 Stat. 930
+
+Aug. 5, 1974
+
+Pub. L. 93–365
+
+88 Stat. 399
+
+Sept. 8, 1982
+
+Pub. L. 97–252, § 1121
+
+96 Stat. 754
+
+2457(e)
+
+Oct. 7, 1975
+
+Pub. L. 94–106, § 814(a)(2)
+
+89 Stat. 540
+
+July 14, 1976
+
+Pub. L. 94–361, § 802
+
+90 Stat. 930
+
+2457(f)
+
+Aug. 5, 1974
+
+Pub. L. 93–365, § 302(c)
+
+88 Stat. 402
+
+## Source Credit
+
+*(Added [Pub. L. 97–295, § 1(30)(A)](https://www.govinfo.gov/link/plaw/97/public/295), Oct. 12, 1982, [96 Stat. 1294](https://www.govinfo.gov/link/statute/96/1294); amended [Pub. L. 101–510, div. A, title XIII, § 1311(5)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1670](https://www.govinfo.gov/link/statute/104/1670); [Pub. L. 104–106, div. A, title XV, § 1503(a)(24)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 512](https://www.govinfo.gov/link/statute/110/512); [Pub. L. 108–136, div. A, title X, § 1031(a)(22)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1598](https://www.govinfo.gov/link/statute/117/1598); [Pub. L. 111–350, § 5(b)(33)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3845](https://www.govinfo.gov/link/statute/124/3845).)*

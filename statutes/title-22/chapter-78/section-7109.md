@@ -3,9 +3,10 @@ title: "Section 7109 - Strengthening prosecution and punishment of traffickers"
 usc_title: 22
 usc_section: "7109"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7109"
-generated_at: "2026-03-30T02:55:05.438Z"
+generated_at: "2026-11-23T20:26:32.655Z"
+status: "active"
 ---
 
 # § 7109. Strengthening prosecution and punishment of traffickers
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:05.438Z"
       - **(iii)** involve the use or threatened use of a dangerous weapon; or
       - **(iv)** result in the death or bodily injury of any person.
   - **(3)** The Commission may promulgate the guidelines or amendments under this subsection in accordance with the procedures set forth in section 21(a) of the Sentencing Act of 1987, as though the authority under that Act had not expired.
+
+## Source Credit
+
+*([Pub. L. 106–386, div. A, § 112](https://www.govinfo.gov/link/plaw/106/public/386), Oct. 28, 2000, [114 Stat. 1486](https://www.govinfo.gov/link/statute/114/1486).)*

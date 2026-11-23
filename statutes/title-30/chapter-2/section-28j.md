@@ -3,9 +3,10 @@ title: "Section 28j - Other requirements"
 usc_title: 30
 usc_section: "28j"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 28j"
-generated_at: "2026-03-30T02:55:29.375Z"
+generated_at: "2026-11-23T20:26:34.900Z"
+status: "active"
 ---
 
 # § 28j. Other requirements
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:29.375Z"
   - **(1)** The Secretary of the Interior shall adjust the fees required by sections 28f to 28k of this title to reflect changes in the Consumer Price Index published by the Bureau of Labor Statistics of the Department of Labor every 5 years after August 10, 1993 , or more frequently if the Secretary determines an adjustment to be reasonable.
   - **(2)** The Secretary shall provide claimants notice of any adjustment made under this subsection not later than July 1 of any year in which the adjustment is made.
   - **(3)** A fee adjustment under this subsection shall begin to apply the first assessment year which begins after adjustment is made.
+
+## Source Credit
+
+*([Pub. L. 103–66, title X, § 10105](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 406](https://www.govinfo.gov/link/statute/107/406).)*

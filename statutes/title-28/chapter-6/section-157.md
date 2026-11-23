@@ -3,9 +3,10 @@ title: "Section 157 - Procedures"
 usc_title: 28
 usc_section: "157"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 157"
-generated_at: "2026-03-30T02:55:30.125Z"
+generated_at: "2026-11-23T20:26:36.326Z"
+status: "active"
 ---
 
 # § 157. Procedures
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:30.125Z"
   - **(2)** Notwithstanding the provisions of paragraph (1) of this subsection, the district court, with the consent of all the parties to the proceeding, may refer a proceeding related to a case under title 11 to a bankruptcy judge to hear and determine and to enter appropriate orders and judgments, subject to review under section 158 of this title .
 - **(d)** The district court may withdraw, in whole or in part, any case or proceeding referred under this section, on its own motion or on timely motion of any party, for cause shown. The district court shall, on timely motion of a party, so withdraw a proceeding if the court determines that resolution of the proceeding requires consideration of both title 11 and other laws of the United States regulating organizations or activities affecting interstate commerce.
 - **(e)** If the right to a jury trial applies in a proceeding that may be heard under this section by a bankruptcy judge, the bankruptcy judge may conduct the jury trial if specially designated to exercise such jurisdiction by the district court and with the express consent of all the parties.
+
+## Source Credit
+
+*(Added [Pub. L. 98–353, title I, § 104(a)](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 340](https://www.govinfo.gov/link/statute/98/340); amended [Pub. L. 99–554, title I](https://www.govinfo.gov/link/plaw/99/public/554), §§ 143, 144(b), Oct. 27, 1986, [100 Stat. 3096](https://www.govinfo.gov/link/statute/100/3096); [Pub. L. 103–394, title I, § 112](https://www.govinfo.gov/link/plaw/103/public/394), Oct. 22, 1994, [108 Stat. 4117](https://www.govinfo.gov/link/statute/108/4117); [Pub. L. 109–8, title VIII, § 802(c)(1)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 145](https://www.govinfo.gov/link/statute/119/145).)*

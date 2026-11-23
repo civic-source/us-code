@@ -3,9 +3,10 @@ title: "Section 2006 - Department of Defense Education Benefits Fund"
 usc_title: 10
 usc_section: "2006"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2006"
-generated_at: "2026-03-30T02:53:38.139Z"
+generated_at: "2026-11-23T20:25:51.435Z"
+status: "active"
 ---
 
 # § 2006. Department of Defense Education Benefits Fund
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:53:38.139Z"
     - **(B)** The amount of the payment for that year, if any, for the amortization of any actuarial gain or loss to the Fund, as determined by the Secretary of Defense under subsection (e)(4).
   - **(3)** Amounts paid into the Fund under this subsection shall be paid from appropriations available for the pay of members of the armed forces under the jurisdiction of the Secretary concerned.
 - **(g)** The Secretary of the Treasury shall invest such portion of the Fund as is not in the judgment of the Secretary required to meet current withdrawals. Such investments shall be in public debt securities with maturities suitable to the needs of the Fund, as determined by the Secretary, and bearing interest at rates determined by the Secretary, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. The income on such investments shall be credited to and form a part of the Fund.
+
+## Source Credit
+
+*(Added [Pub. L. 98–525, title VII, § 706(a)(1)](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2568](https://www.govinfo.gov/link/statute/98/2568); amended [Pub. L. 100–26, § 7(k)(2)](https://www.govinfo.gov/link/plaw/100/public/26), Apr. 21, 1987, [101 Stat. 284](https://www.govinfo.gov/link/statute/101/284); [Pub. L. 101–189, div. A, title XVI, § 1621(a)(2)](https://www.govinfo.gov/link/plaw/101/public/189), (6), Nov. 29, 1989, [103 Stat. 1603](https://www.govinfo.gov/link/statute/103/1603); [Pub. L. 101–510, div. A, title XIII, § 1322(a)(2)](https://www.govinfo.gov/link/plaw/101/public/510), title XIV, § 1484(j)(2), Nov. 5, 1990, [104 Stat. 1671](https://www.govinfo.gov/link/statute/104/1671), 1718; [Pub. L. 103–337, div. A, title X, § 1070(e)(6)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2859](https://www.govinfo.gov/link/statute/108/2859); [Pub. L. 104–106, div. A, title XV](https://www.govinfo.gov/link/plaw/104/public/106), §§ 1501(c)(21), 1503(a)(17), Feb. 10, 1996, [110 Stat. 499](https://www.govinfo.gov/link/statute/110/499), 512; [Pub. L. 106–65, div. A, title V, § 550](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 611](https://www.govinfo.gov/link/statute/113/611); [Pub. L. 107–107, div. A, title VI, § 654(b)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1157](https://www.govinfo.gov/link/statute/115/1157); [Pub. L. 108–136, div. A, title V, § 535(b)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1474](https://www.govinfo.gov/link/statute/117/1474); [Pub. L. 108–375, div. A, title V, § 527(b)(1)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1894](https://www.govinfo.gov/link/statute/118/1894); [Pub. L. 109–364, div. A, title X, § 1071(a)(9)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2398](https://www.govinfo.gov/link/statute/120/2398); [Pub. L. 110–181, div. A, title IX, § 906(b)(2)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 277](https://www.govinfo.gov/link/statute/122/277); [Pub. L. 111–377, title I, § 109(b)(2)](https://www.govinfo.gov/link/plaw/111/public/377), Jan. 4, 2011, [124 Stat. 4120](https://www.govinfo.gov/link/statute/124/4120); [Pub. L. 112–239, div. A, title X, § 1076(f)(23)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1953](https://www.govinfo.gov/link/statute/126/1953).)*

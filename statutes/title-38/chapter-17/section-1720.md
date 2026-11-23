@@ -3,9 +3,10 @@ title: "Section 1720 - Transfers for nursing home care; adult day health care"
 usc_title: 38
 usc_section: "1720"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 1720"
-generated_at: "2026-03-30T02:55:53.484Z"
+generated_at: "2026-11-23T20:27:01.687Z"
+status: "active"
 ---
 
 # § 1720. Transfers for nursing home care; adult day health care
@@ -63,3 +64,17 @@ generated_at: "2026-03-30T02:55:53.484Z"
   - **(3)** In any year, not more than a daily average of 900 veterans receiving care in a medical foster home, whether placed before, on, or after the date of the enactment of the Joseph Maxwell Cleland and Robert Joseph Dole Memorial Veterans Benefits and Health Care Improvement Act of 2022, may have their care covered at the expense of the United States under paragraph (1).
   - **(4)** The prohibition under section 1730(b)(3) of this title shall not apply to a veteran whose care is covered at the expense of the United States under paragraph (1).
   - **(5)** In this subsection, the term “medical foster home” means a home designed to provide non-institutional, long-term, supportive care for veterans who are unable to live independently and prefer a family setting.
+
+In general
+
+Maintenance of prior methodology of reimbursement for certain state homes
+
+In general
+
+Report
+
+Medical foster home defined
+
+## Source Credit
+
+*(Added [Pub. L. 88–450, § 2(a)](https://www.govinfo.gov/link/plaw/88/public/450), Aug. 19, 1964, [78 Stat. 500](https://www.govinfo.gov/link/statute/78/500), § 620; amended [Pub. L. 90–429](https://www.govinfo.gov/link/plaw/90/public/429), July 26, 1968, [82 Stat. 446](https://www.govinfo.gov/link/statute/82/446); [Pub. L. 90–612](https://www.govinfo.gov/link/plaw/90/public/612), §§ 1, 3, Oct. 21, 1968, [82 Stat. 1202](https://www.govinfo.gov/link/statute/82/1202); [Pub. L. 91–101](https://www.govinfo.gov/link/plaw/91/public/101), Oct. 30, 1969, [83 Stat. 167](https://www.govinfo.gov/link/statute/83/167); [Pub. L. 93–82, title I, § 104](https://www.govinfo.gov/link/plaw/93/public/82), Aug. 2, 1973, [87 Stat. 182](https://www.govinfo.gov/link/statute/87/182); [Pub. L. 94–581, title I, § 106](https://www.govinfo.gov/link/plaw/94/public/581), title II, §§ 202(h), 210(a)(7), Oct. 21, 1976, [90 Stat. 2847](https://www.govinfo.gov/link/statute/90/2847), 2856, 2863; [Pub. L. 97–295, § 4(19)](https://www.govinfo.gov/link/plaw/97/public/295), Oct. 12, 1982, [96 Stat. 1306](https://www.govinfo.gov/link/statute/96/1306); [Pub. L. 98–160, title I, § 103(a)(1)](https://www.govinfo.gov/link/plaw/98/public/160), (2), Nov. 21, 1983, [97 Stat. 995](https://www.govinfo.gov/link/statute/97/995); [Pub. L. 99–166, title I, § 108(a)](https://www.govinfo.gov/link/plaw/99/public/166) –(c), Dec. 3, 1985, [99 Stat. 946](https://www.govinfo.gov/link/statute/99/946), 947; [Pub. L. 99–272, title XIX, § 19011(d)(5)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 379](https://www.govinfo.gov/link/statute/100/379); [Pub. L. 100–322, title I](https://www.govinfo.gov/link/plaw/100/public/322), §§ 103(b), 111(a), May 20, 1988, [102 Stat. 493](https://www.govinfo.gov/link/statute/102/493), 499; renumbered § 1720 and amended [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(a)(2)(A)(ii), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 403–406](https://www.govinfo.gov/link/statute/105/403); [Pub. L. 102–405, title III, § 302(c)(1)](https://www.govinfo.gov/link/plaw/102/public/405), Oct. 9, 1992, [106 Stat. 1984](https://www.govinfo.gov/link/statute/106/1984); [Pub. L. 104–262, title I, § 101(d)(8)](https://www.govinfo.gov/link/plaw/104/public/262), Oct. 9, 1996, [110 Stat. 3180](https://www.govinfo.gov/link/statute/110/3180); [Pub. L. 105–114, title IV, § 402(c)](https://www.govinfo.gov/link/plaw/105/public/114), Nov. 21, 1997, [111 Stat. 2294](https://www.govinfo.gov/link/statute/111/2294); [Pub. L. 106–117, title I, § 101(d)](https://www.govinfo.gov/link/plaw/106/public/117), Nov. 30, 1999, [113 Stat. 1549](https://www.govinfo.gov/link/statute/113/1549); [Pub. L. 108–170, title I, § 105](https://www.govinfo.gov/link/plaw/108/public/170), Dec. 6, 2003, [117 Stat. 2045](https://www.govinfo.gov/link/statute/117/2045); [Pub. L. 111–163, title V, § 507](https://www.govinfo.gov/link/plaw/111/public/163), May 5, 2010, [124 Stat. 1161](https://www.govinfo.gov/link/statute/124/1161); [Pub. L. 111–350, § 5(j)(1)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3850](https://www.govinfo.gov/link/statute/124/3850); [Pub. L. 112–154, title I, § 105(b)](https://www.govinfo.gov/link/plaw/112/public/154), Aug. 6, 2012, [126 Stat. 1170](https://www.govinfo.gov/link/statute/126/1170); [Pub. L. 117–328, div. U, title I, § 165(a)(1)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5431](https://www.govinfo.gov/link/statute/136/5431).)*

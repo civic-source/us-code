@@ -3,9 +3,10 @@ title: "Section 657n - Immediate Disaster Assistance program"
 usc_title: 15
 usc_section: "657n"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 657n"
-generated_at: "2026-03-30T02:54:08.107Z"
+generated_at: "2026-11-23T20:26:03.846Z"
+status: "active"
 ---
 
 # § 657n. Immediate Disaster Assistance program
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.107Z"
   - **(1)** There shall be no prepayment penalty on a loan guaranteed under subsection (a).
   - **(2)** A person who receives a loan guaranteed under subsection (a) and who is disapproved for a loan under subsection (b) or (c) of section 636 of this title , as the case may be, shall repay the loan guaranteed under subsection (a) not later than the date established by the Administrator, which may not be earlier than 10 years after the date on which the loan guaranteed under subsection 1 1 So in original. Probably should be “subsection (a)”. is disbursed.
 - **(e)** The Administrator shall ensure that each applicant for a loan under the program receives a decision approving or disapproving of the application within 36 hours after the Administration receives the application.
+
+## Source Credit
+
+*([Pub. L. 85–536, § 2[42]](https://www.govinfo.gov/link/plaw/85/public/536), as added [Pub. L. 110–234, title XII, § 12084](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1420](https://www.govinfo.gov/link/statute/122/1420), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XII, § 12084, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2182.)*

@@ -3,9 +3,10 @@ title: "Section 36 - Branch banks"
 usc_title: 12
 usc_section: "36"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 36"
-generated_at: "2026-03-30T02:53:53.371Z"
+generated_at: "2026-11-23T20:25:58.684Z"
+status: "active"
 ---
 
 # § 36. Branch banks
@@ -61,3 +62,7 @@ The conditions upon which a national banking association may retain or establish
 - **(j)** The term “branch” as used in this section shall be held to include any branch bank, branch office, branch agency, additional office, or any branch place of business located in any State or Territory of the United States or in the District of Columbia at which deposits are received, or checks paid, or money lent. The term “branch”, as used in this section, does not include an automated teller machine or a remote service unit.
 - **(k)** This section shall not be construed to amend or repeal section 25 of the Federal Reserve Act, as amended [ 12 U.S.C. 601 et seq.], authorizing the establishment by national banking associations of branches in foreign countries, or dependencies, or insular possessions of the United States.
 - **(l)** The words “State bank,” “State banks,” “bank,” or “banks,” as used in this section, shall be held to include trust companies, savings banks, or other such corporations or institutions carrying on the banking business under the authority of State laws.
+
+## Source Credit
+
+*(R.S. § 5155; Feb. 25, 1927, ch. 191, § 7, [44 Stat. 1228](https://www.govinfo.gov/link/statute/44/1228); June 16, 1933, ch. 89, § 23, [48 Stat. 189](https://www.govinfo.gov/link/statute/48/189); Aug. 23, 1935, ch. 614, title III, § 305, [49 Stat. 708](https://www.govinfo.gov/link/statute/49/708); July 15, 1952, ch. 753, § 2(b), [66 Stat. 633](https://www.govinfo.gov/link/statute/66/633); [Pub. L. 87–721](https://www.govinfo.gov/link/plaw/87/public/721), Sept. 28, 1962, [76 Stat. 667](https://www.govinfo.gov/link/statute/76/667); [Pub. L. 103–328, title I](https://www.govinfo.gov/link/plaw/103/public/328), §§ 102(b)(1), 103(a), Sept. 29, 1994, [108 Stat. 2349](https://www.govinfo.gov/link/statute/108/2349), 2352; [Pub. L. 104–208, div. A, title II](https://www.govinfo.gov/link/plaw/104/public/208), §§ 2204, 2205(a), Sept. 30, 1996, [110 Stat. 3009–405](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 105–24, § 2(b)](https://www.govinfo.gov/link/plaw/105/public/24), July 3, 1997, [111 Stat. 239](https://www.govinfo.gov/link/statute/111/239); [Pub. L. 111–203, title VI, § 613(a)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1614](https://www.govinfo.gov/link/statute/124/1614).)*

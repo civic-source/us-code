@@ -3,9 +3,10 @@ title: "Section 7214 - Determination of contract payments under contracts"
 usc_title: 7
 usc_section: "7214"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7214"
-generated_at: "2026-03-30T02:53:42.445Z"
+generated_at: "2026-11-23T20:25:41.759Z"
+status: "active"
 ---
 
 # § 7214. Determination of contract payments under contracts
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:42.445Z"
 - **(e)** The contract payment determined under subsection (d) for an owner or producer for a fiscal year shall be immediately reduced by the amount of any repayment of deficiency payments that is required under section 114(a)(2) of the Agricultural Act of 1949 ( 7 U.S.C. 1445j(a)(2) ) and is not repaid as of the date the contract payment is determined. The Secretary shall be required to collect the required repayment, or any claim based on the required repayment, as soon as the contract payment is determined.
 - **(f)** The provisions of section 590h(g) of title 16 (relating to assignment of payments) shall apply to contract payments under this section. The owner or producer making the assignment, or the assignee, shall provide the Secretary with notice, in such manner as the Secretary may require in the contract, of any assignment made under this subsection.
 - **(g)** The Secretary shall provide for the sharing of contract payments among the owners and producers subject to the contract on a fair and equitable basis.
+
+## Source Credit
+
+*([Pub. L. 104–127, title I, § 114](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 901](https://www.govinfo.gov/link/statute/110/901).)*

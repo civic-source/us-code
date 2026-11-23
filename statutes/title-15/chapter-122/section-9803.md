@@ -3,9 +3,10 @@ title: "Section 9803 - Responsibilities of the Assistant Secretary of Commerce f
 usc_title: 15
 usc_section: "9803"
 chapter: 122
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 9803"
-generated_at: "2026-03-30T02:54:08.250Z"
+generated_at: "2026-11-23T20:26:04.586Z"
+status: "active"
 ---
 
 # § 9803. Responsibilities of the Assistant Secretary of Commerce for Travel and Tourism
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:54:08.250Z"
       - **(i)** the Travel and Tourism Advisory Board; and
       - **(ii)** the public through a publicly accessible website; and
     - **(B)** shall include questions in the Survey of International Air Travelers regarding wait-times, visits to public lands, and State data, to the extent applicable.
+
+## Source Credit
+
+*([Pub. L. 117–328, div. BB, title VI, § 605](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5567](https://www.govinfo.gov/link/statute/136/5567).)*

@@ -3,9 +3,10 @@ title: "Section 1480 - Administrative powers of Secretary"
 usc_title: 42
 usc_section: "1480"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1480"
-generated_at: "2026-03-30T02:56:11.095Z"
+generated_at: "2026-11-23T20:27:21.783Z"
+status: "active"
 ---
 
 # § 1480. Administrative powers of Secretary
@@ -30,3 +31,7 @@ In carrying out the provisions of this subchapter, the Secretary shall have the 
 - **(i)** utilize with respect to the indebtedness arising from loans and payments made under this subchapter, all the powers and authorities given to him under sections 1150 to 1150b of title 12;
 - **(j)** utilize the services of fee inspectors and fee appraisers to expedite the processing of applications for loans and grants under this subchapter, which services shall be utilized in any case in which a county or district office is unable to expeditiously process such loan and grant applications, and to include the cost of such services in the amount of such loans and grants; and
 - **(k)** make such rules and regulations as he deems necessary to carry out the purposes of this subchapter.
+
+## Source Credit
+
+*(July 15, 1949, ch. 338, title V, § 510, [63 Stat. 437](https://www.govinfo.gov/link/statute/63/437); [Pub. L. 94–375, § 25(c)](https://www.govinfo.gov/link/plaw/94/public/375), Aug. 3, 1976, [90 Stat. 1078](https://www.govinfo.gov/link/statute/90/1078); [Pub. L. 95–557, title V, § 503](https://www.govinfo.gov/link/plaw/95/public/557), Oct. 31, 1978, [92 Stat. 2112](https://www.govinfo.gov/link/statute/92/2112); [Pub. L. 96–153, title V, § 507](https://www.govinfo.gov/link/plaw/96/public/153), Dec. 21, 1979, [93 Stat. 1136](https://www.govinfo.gov/link/statute/93/1136); [Pub. L. 96–399, title V](https://www.govinfo.gov/link/plaw/96/public/399), §§ 508, 510, Oct. 8, 1980, [94 Stat. 1670](https://www.govinfo.gov/link/statute/94/1670), 1671; [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title V, § 507], Nov. 30, 1983, [97 Stat. 1243](https://www.govinfo.gov/link/statute/97/1243); [Pub. L. 98–479, title I, § 105(c)](https://www.govinfo.gov/link/plaw/98/public/479), Oct. 17, 1984, [98 Stat. 2227](https://www.govinfo.gov/link/statute/98/2227); [Pub. L. 100–242, title III, § 313](https://www.govinfo.gov/link/plaw/100/public/242), Feb. 5, 1988, [101 Stat. 1897](https://www.govinfo.gov/link/statute/101/1897); [Pub. L. 100–628, title X, § 1045](https://www.govinfo.gov/link/plaw/100/public/628), Nov. 7, 1988, [102 Stat. 3273](https://www.govinfo.gov/link/statute/102/3273); [Pub. L. 101–625, title VII](https://www.govinfo.gov/link/plaw/101/public/625), §§ 710, 711, Nov. 28, 1990, [104 Stat. 4291](https://www.govinfo.gov/link/statute/104/4291).)*

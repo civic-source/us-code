@@ -3,9 +3,10 @@ title: "Section 2174 - Interest payment program: members on active duty"
 usc_title: 10
 usc_section: "2174"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2174"
-generated_at: "2026-03-30T02:53:38.146Z"
+generated_at: "2026-11-23T20:25:51.479Z"
+status: "active"
 ---
 
 # § 2174. Interest payment program: members on active duty
@@ -29,3 +30,21 @@ generated_at: "2026-03-30T02:53:38.146Z"
     - **(A)** to pay interest and special allowances on student loans under this section (in accordance with sections 428( o ), 455( l ), and 464(j) of the Higher Education Act of 1965 ( 20 U.S.C. 1078 ( o ), 1087e( l ), and 1087dd(j)); and
     - **(B)** to reimburse the Secretary of Education for any reasonable administrative costs incurred by the Secretary in coordinating the program under this section with the administration of the student loan programs under parts B, D, and E of title IV of the Higher Education Act of 1965.
 - **(g)** In this section, the term “special allowance” means a special allowance that is payable under section 438 of the Higher Education Act of 1965 ( 20 U.S.C. 1087–1 ).
+
+Authority
+
+Eligible Members
+
+Student Loans
+
+Maximum Benefit
+
+Funds for Payments
+
+Coordination
+
+Special Allowance Defined
+
+## Source Credit
+
+*(Added [Pub. L. 107–314, div. A, title VI, § 651(a)(1)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2578](https://www.govinfo.gov/link/statute/116/2578).)*

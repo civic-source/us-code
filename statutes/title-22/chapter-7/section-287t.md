@@ -3,12 +3,17 @@ title: "Section 287t - Prohibition against disclosure of information or knowledg
 usc_title: 22
 usc_section: "287t"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 287t"
-generated_at: "2026-03-30T02:55:05.322Z"
+generated_at: "2026-11-23T20:26:32.027Z"
+status: "active"
 ---
 
 # § 287t. Prohibition against disclosure of information or knowledge
 
 In adopting this subchapter, it is the understanding of the Congress that the constitution of the Organization does not require, nor does this subchapter authorize, the disclosure of any information or knowledge in any case in which such disclosure is prohibited by any law of the United States.
 
+
+## Source Credit
+
+*(July 30, 1946, ch. 700, § 8, [60 Stat. 714](https://www.govinfo.gov/link/statute/60/714).)*

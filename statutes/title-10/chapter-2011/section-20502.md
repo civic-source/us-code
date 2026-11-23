@@ -3,9 +3,10 @@ title: "Section 20502 - Retention boards"
 usc_title: 10
 usc_section: "20502"
 chapter: 2011
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 20502"
-generated_at: "2026-03-30T02:53:38.282Z"
+generated_at: "2026-11-23T20:25:52.517Z"
+status: "active"
 ---
 
 # § 20502. Retention boards
@@ -25,3 +26,15 @@ generated_at: "2026-03-30T02:53:38.282Z"
     - **(A)** Subject to subparagraph (B), an officer who is required to show cause for retention in a space force active status under subsection (b) of section 20501 of this title and who is determined under paragraph (1) to have established that the officer should be retained in a space force active status may again be required to show cause for retention at any time.
     - **(B)** An officer who has been required to show cause for retention in a space force active status under subsection (b) of section 20501 of this title and who is thereafter retained in an active status may not again be required to show cause for retention in a space force active status under such subsection solely because of conduct which was the subject of the previous proceedings, unless the findings or recommendations of the retention board that considered the officer’s previous case are determined to have been obtained by fraud or collusion.
   - **(4)** In the case of an officer described in paragraph (2) or paragraph (3)(A), the retention board may recommend that the officer be required to complete additional training, professional education, or such other developmental programs as may be available to correct any identified deficiencies and improve the officer’s performance within the Space Force.
+
+Convening of Boards to Consider Officers Required to Show Cause
+
+Fair and Impartial Hearing
+
+Effect of Board Determination That an Officer Has Failed to Establish That the Officer Should Be Retained.—
+
+Effect of Board Determination That an Officer Has Established That the Officer Should Be Retained.—
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title XVII, § 1719](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 659](https://www.govinfo.gov/link/statute/137/659); amended [Pub. L. 118–159, div. A, title V, § 521(x)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1883](https://www.govinfo.gov/link/statute/138/1883).)*

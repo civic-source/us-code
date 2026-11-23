@@ -3,9 +3,10 @@ title: "Section 1126 - Sea grant colleges and sea grant institutes"
 usc_title: 33
 usc_section: "1126"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1126"
-generated_at: "2026-03-30T02:55:41.080Z"
+generated_at: "2026-11-23T20:26:53.960Z"
+status: "active"
 ---
 
 # § 1126. Sea grant colleges and sea grant institutes
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:55:41.080Z"
 - **(d)** Subject to any regulations prescribed or guidelines established by the Secretary, it shall be the responsibility of each sea grant college and sea grant institute—
   - **(1)** to develop and implement, in consultation with the Secretary and the Board, a program that is consistent with the guidelines and priorities established under section 1123(c) of this title ; and
   - **(2)** to conduct a merit review of all proposals for grants and contracts to be awarded under section 1124 of this title .
+
+## Source Credit
+
+*([Pub. L. 89–454, title II, § 207](https://www.govinfo.gov/link/plaw/89/public/454), as added [Pub. L. 94–461, § 2](https://www.govinfo.gov/link/plaw/94/public/461), Oct. 8, 1976, [90 Stat. 1966](https://www.govinfo.gov/link/statute/90/1966); amended [Pub. L. 100–220, title III, § 3104(b)(1)(E)](https://www.govinfo.gov/link/plaw/100/public/220), Dec. 29, 1987, [101 Stat. 1470](https://www.govinfo.gov/link/statute/101/1470); [Pub. L. 105–160, § 7](https://www.govinfo.gov/link/plaw/105/public/160), Mar. 6, 1998, [112 Stat. 24](https://www.govinfo.gov/link/statute/112/24); [Pub. L. 107–299, § 8](https://www.govinfo.gov/link/plaw/107/public/299), Nov. 26, 2002, [116 Stat. 2348](https://www.govinfo.gov/link/statute/116/2348); [Pub. L. 110–394](https://www.govinfo.gov/link/plaw/110/public/394), §§ 7, 9(a)(4)(C)(ii), Oct. 13, 2008, [122 Stat. 4207](https://www.govinfo.gov/link/statute/122/4207), 4208; [Pub. L. 113–188, title II, § 201(a)](https://www.govinfo.gov/link/plaw/113/public/188), Nov. 26, 2014, [128 Stat. 2018](https://www.govinfo.gov/link/statute/128/2018); [Pub. L. 116–221, § 7](https://www.govinfo.gov/link/plaw/116/public/221), Dec. 18, 2020, [134 Stat. 1059](https://www.govinfo.gov/link/statute/134/1059).)*

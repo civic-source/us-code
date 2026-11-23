@@ -3,9 +3,10 @@ title: "Section 2b - Protection for voluntary provision of information"
 usc_title: 15
 usc_section: "2b"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2b"
-generated_at: "2026-03-30T02:54:08.028Z"
+generated_at: "2026-11-23T20:26:03.416Z"
+status: "active"
 ---
 
 # § 57b–2b. Protection for voluntary provision of information
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:08.028Z"
   - **(2)** To the extent not included in paragraph (1), a bank or thrift institution, a commercial bank or trust company, an investment company, a credit card issuer, an operator of a credit card system, and an issuer, redeemer, or cashier of travelers’ checks, money orders, or similar instruments.
   - **(3)** A courier service, a commercial mail receiving agency, an industry membership organization, a payment system provider, a consumer reporting agency, a domain name registrar or registry acting as such, and a provider of alternative dispute resolution services.
   - **(4)** An Internet service provider or provider of telephone services.
+
+## Source Credit
+
+*(Sept. 26, 1914, ch. 311, § 21B, as added [Pub. L. 109–455, § 8](https://www.govinfo.gov/link/plaw/109/public/455), Dec. 22, 2006, [120 Stat. 3380](https://www.govinfo.gov/link/statute/120/3380).)*

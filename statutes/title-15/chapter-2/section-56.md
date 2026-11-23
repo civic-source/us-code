@@ -3,9 +3,10 @@ title: "Section 56 - Commencement, defense, intervention and supervision of liti
 usc_title: 15
 usc_section: "56"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 56"
-generated_at: "2026-03-30T02:54:08.026Z"
+generated_at: "2026-11-23T20:26:03.401Z"
+status: "active"
 ---
 
 # § 56. Commencement, defense, intervention and supervision of litigation and appeal by Commission or Attorney General
@@ -34,3 +35,11 @@ generated_at: "2026-03-30T02:54:08.026Z"
   - **(2)** The Commission is authorized to expend appropriated funds, upon agreement with the Attorney General, to reimburse the Attorney General for the retention of foreign counsel for litigation in foreign courts and for expenses related to litigation in foreign courts in which the Commission has an interest.
   - **(3)** Nothing in this subsection authorizes the payment of claims or judgments from any source other than the permanent and indefinite appropriation authorized by section 1304 of title 31 .
   - **(4)** The authority provided by this subsection is in addition to any other authority of the Commission or the Attorney General.
+
+(a) refuses to appeal or file a petition for writ of certiorari with respect to such civil action, in which case he shall give written notification to the Commission of the reasons for such refusal within such 60-day period; or
+
+(b) the Attorney General fails to take any action with respect to the Commission’s request.
+
+## Source Credit
+
+*(Sept. 26, 1914, ch. 311, § 16, as added Mar. 21, 1938, ch. 49, § 4, [52 Stat. 114](https://www.govinfo.gov/link/statute/52/114); amended [Pub. L. 93–153, title IV, § 408(g)](https://www.govinfo.gov/link/plaw/93/public/153), Nov. 16, 1973, [87 Stat. 592](https://www.govinfo.gov/link/statute/87/592); [Pub. L. 93–637, title II, § 204(a)](https://www.govinfo.gov/link/plaw/93/public/637), Jan. 4, 1975, [88 Stat. 2199](https://www.govinfo.gov/link/statute/88/2199); [Pub. L. 109–455](https://www.govinfo.gov/link/plaw/109/public/455), §§ 5, 7(b), 13, Dec. 22, 2006, [120 Stat. 3375](https://www.govinfo.gov/link/statute/120/3375), 3379, 3382; [Pub. L. 112–203, § 1](https://www.govinfo.gov/link/plaw/112/public/203), Dec. 4, 2012, [126 Stat. 1484](https://www.govinfo.gov/link/statute/126/1484).)*

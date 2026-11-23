@@ -3,9 +3,10 @@ title: "Section 657 - Cyber Security Enhancement Act of 2002"
 usc_title: 6
 usc_section: "657"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 657"
-generated_at: "2026-03-30T02:53:09.474Z"
+generated_at: "2026-11-23T20:25:34.818Z"
+status: "active"
 ---
 
 # § 657. Cyber Security Enhancement Act of 2002
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:53:09.474Z"
 - **(d)**
   - **(1)**
   - **(2)** A government entity that receives a disclosure under section 2702(b) of title 18 shall file, not later than 90 days after such disclosure, a report to the Attorney General stating the paragraph of that section under which the disclosure was made, the date of the disclosure, the entity to which the disclosure was made, the number of customers or subscribers to whom the information disclosed pertained, and the number of communications, if any, that were disclosed. The Attorney General shall publish all such reports into a single report to be submitted to Congress 1 year after November 25, 2002 .
+
+## Source Credit
+
+*([Pub. L. 107–296, title XXII, § 2207](https://www.govinfo.gov/link/plaw/107/public/296), formerly title II, § 225, Nov. 25, 2002, [116 Stat. 2156](https://www.govinfo.gov/link/statute/116/2156); renumbered title XXII, § 2207, [Pub. L. 115–278, § 2(g)(2)(I)](https://www.govinfo.gov/link/plaw/115/public/278), Nov. 16, 2018, [132 Stat. 4178](https://www.govinfo.gov/link/statute/132/4178).)*

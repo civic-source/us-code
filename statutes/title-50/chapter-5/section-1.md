@@ -3,9 +3,10 @@ title: "Section 1 - Strategic and Critical Materials Board of Directors"
 usc_title: 50
 usc_section: "1"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 1"
-generated_at: "2026-03-30T02:56:26.197Z"
+generated_at: "2026-11-23T20:27:30.696Z"
+status: "active"
 ---
 
 # § 98h–1. Strategic and Critical Materials Board of Directors
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:56:26.197Z"
     - **(B)** the supply of which could be restricted by actions or events outside the control of the Government of the United States.
   - **(2)** The term “military equipment” means equipment used directly by the Armed Forces to carry out military operations.
   - **(3)** The term “secure supply”, with respect to a material, means the availability of a source or sources for the material, including the full supply chain for the material and components containing the material.
+
+## Source Credit
+
+*(June 7, 1939, ch. 190, § 10, as added [Pub. L. 96–41, § 2(a)](https://www.govinfo.gov/link/plaw/96/public/41), July 30, 1979, [93 Stat. 323](https://www.govinfo.gov/link/statute/93/323); amended [Pub. L. 102–484, div. C, title XXXIII, § 3314](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2654](https://www.govinfo.gov/link/statute/106/2654); [Pub. L. 117–263, div. A, title XIV, § 1411(b)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2869](https://www.govinfo.gov/link/statute/136/2869); [Pub. L. 118–31, div. A, title XIV, § 1411(c)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 524](https://www.govinfo.gov/link/statute/137/524).)*

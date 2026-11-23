@@ -3,9 +3,10 @@ title: "Section 15104 - National Merchant Mariner Medical Advisory Committee"
 usc_title: 46
 usc_section: "15104"
 chapter: 151
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 15104"
-generated_at: "2026-03-30T02:56:15.561Z"
+generated_at: "2026-11-23T20:27:27.195Z"
+status: "active"
 ---
 
 # § 15104. National Merchant Mariner Medical Advisory Committee
@@ -22,3 +23,19 @@ generated_at: "2026-03-30T02:56:15.561Z"
   - **(3)** Members of the Committee shall be appointed as follows:
     - **(A)** 9 shall represent health-care professionals and have particular expertise, knowledge, and experience regarding the medical examinations of merchant mariners or occupational medicine.
     - **(B)** 5 shall represent professional mariners and have particular expertise, knowledge, and experience in occupational requirements for mariners.
+
+Establishment
+
+Function
+
+Membership.—
+
+In general
+
+Expertise
+
+Representation
+
+## Source Credit
+
+*(Added [Pub. L. 115–282, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4283](https://www.govinfo.gov/link/statute/132/4283).)*

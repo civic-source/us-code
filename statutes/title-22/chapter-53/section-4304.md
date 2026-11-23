@@ -3,9 +3,10 @@ title: "Section 4304 - Provision of benefits"
 usc_title: 22
 usc_section: "4304"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4304"
-generated_at: "2026-03-30T02:55:05.410Z"
+generated_at: "2026-11-23T20:26:32.530Z"
+status: "active"
 ---
 
 # § 4304. Provision of benefits
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:05.410Z"
   - **(5)**
     - **(A)** Proceeds from the disposition of properties acquired pursuant to this subsection shall be credited to the Foreign Service Buildings Fund (referred to in section 9 of the Foreign Service Buildings Act, 1926 [ 22 U.S.C. 300 ]).
     - **(B)** The authority to spend proceeds received under subparagraph (A) may be exercised only to such extent or in such amounts as are provided in advance in an appropriation Act.
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title II, § 204, as added [Pub. L. 97–241, title II, § 202(b)](https://www.govinfo.gov/link/plaw/97/public/241), Aug. 24, 1982, [96 Stat. 284](https://www.govinfo.gov/link/statute/96/284); amended [Pub. L. 99–93, title I](https://www.govinfo.gov/link/plaw/99/public/93), §§ 126(b), 127(c), Aug. 16, 1985, [99 Stat. 418](https://www.govinfo.gov/link/statute/99/418); [Pub. L. 101–246, title I, § 116(b)](https://www.govinfo.gov/link/plaw/101/public/246), Feb. 16, 1990, [104 Stat. 24](https://www.govinfo.gov/link/statute/104/24); [Pub. L. 103–236, title I, § 162](https://www.govinfo.gov/link/plaw/103/public/236) (o)(3), Apr. 30, 1994, [108 Stat. 410](https://www.govinfo.gov/link/statute/108/410); [Pub. L. 103–415, § 1(cc)](https://www.govinfo.gov/link/plaw/103/public/415), Oct. 25, 1994, [108 Stat. 4302](https://www.govinfo.gov/link/statute/108/4302); [Pub. L. 109–177, title VI, § 605(d)(2)](https://www.govinfo.gov/link/plaw/109/public/177), (e)(2)(B), Mar. 9, 2006, [120 Stat. 255](https://www.govinfo.gov/link/statute/120/255).)*

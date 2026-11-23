@@ -3,9 +3,10 @@ title: "Section 4804 - Briefings on embassy security"
 usc_title: 22
 usc_section: "4804"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4804"
-generated_at: "2026-03-30T02:55:05.413Z"
+generated_at: "2026-11-23T20:26:32.546Z"
+status: "active"
 ---
 
 # § 4804. Briefings on embassy security
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:05.413Z"
 - **(c)** In this section, the term “appropriate congressional committees” means—
   - **(1)** the Committee on Foreign Affairs, the Committee on Armed Services, the Permanent Select Committee on Intelligence, and the Committee on Appropriations of the House of Representatives; and
   - **(2)** the Committee on Foreign Relations, the Committee on Armed Services, the Select Committee on Intelligence, and the Committee on Appropriations of the Senate.
+
+## Source Credit
+
+*([Pub. L. 99–399, title I, § 105](https://www.govinfo.gov/link/plaw/99/public/399), as added [Pub. L. 114–323, title I, § 101(a)](https://www.govinfo.gov/link/plaw/114/public/323), Dec. 16, 2016, [130 Stat. 1908](https://www.govinfo.gov/link/statute/130/1908); amended [Pub. L. 117–263, div. I, title XCIII, § 9302(c)(2)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3884](https://www.govinfo.gov/link/statute/136/3884); [Pub. L. 119–60, div. E, title V, § 5503](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1600](https://www.govinfo.gov/link/statute/139/1600).)*

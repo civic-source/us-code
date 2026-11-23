@@ -3,9 +3,10 @@ title: "Section 2642 - Definitions"
 usc_title: 15
 usc_section: "2642"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2642"
-generated_at: "2026-03-30T02:54:08.178Z"
+generated_at: "2026-11-23T20:26:04.232Z"
+status: "active"
 ---
 
 # § 2642. Definitions
@@ -39,3 +40,7 @@ For purposes of this subchapter—
     - **(C)** any other facility used for the instruction of students or for the administration of educational or research programs, and
     - **(D)** any maintenance, storage, or utility facility, including any hallway, essential to the operation of any facility described in subparagraphs (A), (B), or (C).
   - **(14)** The term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Northern Marianas, the Trust Territory of the Pacific Islands, and the Virgin Islands.
+
+## Source Credit
+
+*([Pub. L. 94–469, title II, § 202](https://www.govinfo.gov/link/plaw/94/public/469), as added [Pub. L. 99–519, § 2](https://www.govinfo.gov/link/plaw/99/public/519), Oct. 22, 1986, [100 Stat. 2971](https://www.govinfo.gov/link/statute/100/2971); amended [Pub. L. 103–382, title III, § 391(c)(1)](https://www.govinfo.gov/link/plaw/103/public/382) –(3), Oct. 20, 1994, [108 Stat. 4022](https://www.govinfo.gov/link/statute/108/4022); [Pub. L. 107–110, title X, § 1076(f)(1)](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2091](https://www.govinfo.gov/link/statute/115/2091); [Pub. L. 114–95, title IX, § 9215(xxx)(1)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2191](https://www.govinfo.gov/link/statute/129/2191).)*

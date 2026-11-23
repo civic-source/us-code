@@ -3,9 +3,10 @@ title: "Section 16161b - National clean hydrogen strategy and roadmap"
 usc_title: 42
 usc_section: "16161b"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16161b"
-generated_at: "2026-03-30T02:56:11.471Z"
+generated_at: "2026-11-23T20:27:23.620Z"
+status: "active"
 ---
 
 # § 16161b. National clean hydrogen strategy and roadmap
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:56:11.471Z"
 - **(b)**
   - **(1)** Not later than 180 days after November 15, 2021 , the Secretary shall submit to Congress the clean hydrogen strategy and roadmap developed under subsection (a).
   - **(2)** The Secretary shall submit to Congress updates to the clean hydrogen strategy and roadmap under paragraph (1) not less frequently than once every 3 years after the date on which the Secretary initially submits the report and roadmap.
+
+## Source Credit
+
+*([Pub. L. 109–58, title VIII, § 814](https://www.govinfo.gov/link/plaw/109/public/58), as added [Pub. L. 117–58, div. D, title III, § 40314(2)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1010](https://www.govinfo.gov/link/statute/135/1010).)*

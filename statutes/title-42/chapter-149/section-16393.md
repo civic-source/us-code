@@ -3,9 +3,10 @@ title: "Section 16393 - Small business advocacy and assistance"
 usc_title: 42
 usc_section: "16393"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16393"
-generated_at: "2026-03-30T02:56:11.485Z"
+generated_at: "2026-11-23T20:27:23.680Z"
+status: "active"
 ---
 
 # § 16393. Small business advocacy and assistance
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:56:11.485Z"
   - **(6)** In accordance with section 16391a of this title , the Secretary shall report annually on the progress and implementation of the small business voucher program established under this section, including the number and locations of small businesses that received grants under this program.
 - **(d)** None of the funds expended under subsection (b) may be used for direct grants to small business concerns.
 - **(e)** There is authorized to be appropriated to the Secretary for activities under subsection (b) $5,000,000 for each of fiscal years 2006 through 2008 and for activities under subsection (c) $25,000,000 for each of fiscal years 2023 through 2027.
+
+## Source Credit
+
+*([Pub. L. 109–58, title X, § 1003](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 929](https://www.govinfo.gov/link/statute/119/929); [Pub. L. 117–167, div. B, title VI, § 10718](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1705](https://www.govinfo.gov/link/statute/136/1705).)*

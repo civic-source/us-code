@@ -3,9 +3,10 @@ title: "Section 6231 - Notice of proceedings and adjustment"
 usc_title: 26
 usc_section: "6231"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6231"
-generated_at: "2026-03-30T02:55:27.846Z"
+generated_at: "2026-11-23T20:26:46.602Z"
+status: "active"
 ---
 
 # § 6231. Notice of proceedings and adjustment
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:27.846Z"
     - **(B)** For the period of limitations on making adjustments, see section 6235.
 - **(c)** If the Secretary mails a notice of a final partnership adjustment to any partnership for any partnership taxable year and the partnership files a petition under section 6234 with respect to such notice, in the absence of a showing of fraud, malfeasance, or misrepresentation of a material fact, the Secretary shall not mail another such notice to such partnership with respect to such taxable year.
 - **(d)** The Secretary may, with the consent of the partnership, rescind any notice of a partnership adjustment mailed to such partnership. Any notice so rescinded shall not be treated as a notice of a partnership adjustment for purposes of this subchapter, and the taxpayer shall have no right to bring a proceeding under section 6234 with respect to such notice.
+
+## Source Credit
+
+*(Added [Pub. L. 114–74, title XI, § 1101(c)(1)](https://www.govinfo.gov/link/plaw/114/public/74), Nov. 2, 2015, [129 Stat. 632](https://www.govinfo.gov/link/statute/129/632); amended [Pub. L. 115–141, div. U, title II](https://www.govinfo.gov/link/plaw/115/public/141), §§ 201(c)(6), 206(h), Mar. 23, 2018, [132 Stat. 1173](https://www.govinfo.gov/link/statute/132/1173), 1179.)*

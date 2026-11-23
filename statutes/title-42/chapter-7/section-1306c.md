@@ -3,9 +3,10 @@ title: "Section 1306c - Restriction on access to the Death Master File"
 usc_title: 42
 usc_section: "1306c"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1306c"
-generated_at: "2026-03-30T02:56:10.902Z"
+generated_at: "2026-11-23T20:27:20.969Z"
+status: "active"
 ---
 
 # § 1306c. Restriction on access to the Death Master File
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:56:10.902Z"
 - **(f)**
   - **(1)** Except as provided in paragraph (2), this section shall take effect on the date that is 90 days after December 26, 2013 .
   - **(2)** Subsection (e) shall take effect on December 26, 2013 .
+
+## Source Credit
+
+*([Pub. L. 113–67, div. A, title II, § 203](https://www.govinfo.gov/link/plaw/113/public/67), Dec. 26, 2013, [127 Stat. 1177](https://www.govinfo.gov/link/statute/127/1177).)*

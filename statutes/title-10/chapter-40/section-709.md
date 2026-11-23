@@ -3,9 +3,10 @@ title: "Section 709 - Emergency leave of absence"
 usc_title: 10
 usc_section: "709"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 709"
-generated_at: "2026-03-30T02:53:38.074Z"
+generated_at: "2026-11-23T20:25:51.047Z"
+status: "active"
 ---
 
 # § 709. Emergency leave of absence
@@ -24,3 +25,17 @@ generated_at: "2026-03-30T02:53:38.074Z"
 - **(e)** In this section:
   - **(1)** The term “unearned leave status” means leave approved to be used by a member of the armed forces that exceeds the amount of leave credit that has been accrued as a result of the member’s active service and that has not been previously used by the member.
   - **(2)** The term “excess leave status” means leave approved to be used by a member of the armed forces that is unearned leave for which a member is unable to accrue leave credit during the member’s current term of service before the member’s separation.
+
+Emergency Leave of Absence
+
+Limitations
+
+Qualifying Emergency
+
+Military Department Regulations
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 107–314, div. A, title V, § 572(a)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2557](https://www.govinfo.gov/link/statute/116/2557).)*

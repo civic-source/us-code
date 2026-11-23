@@ -3,9 +3,10 @@ title: "Section 1001 - Appointment and status"
 usc_title: 39
 usc_section: "1001"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "39 U.S.C. § 1001"
-generated_at: "2026-03-30T02:55:43.689Z"
+generated_at: "2026-11-23T20:26:57.724Z"
+status: "active"
 ---
 
 # § 1001. Appointment and status
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:43.689Z"
   - **(5)** to determine the methods, means, and personnel by which such operations are to be conducted;
   - **(6)** to prescribe a uniform dress to be worn by letter carriers and other designated employees; and
   - **(7)** to take whatever actions may be necessary to carry out its mission in emergency situations.
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 728](https://www.govinfo.gov/link/statute/84/728); [Pub. L. 109–435, title VI, § 604(a)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3241](https://www.govinfo.gov/link/statute/120/3241).)*

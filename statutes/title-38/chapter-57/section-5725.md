@@ -3,9 +3,10 @@ title: "Section 5725 - Contracts for data processing or maintenance"
 usc_title: 38
 usc_section: "5725"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 5725"
-generated_at: "2026-03-30T02:55:53.522Z"
+generated_at: "2026-11-23T20:27:01.969Z"
+status: "active"
 ---
 
 # § 5725. Contracts for data processing or maintenance
@@ -15,3 +16,13 @@ generated_at: "2026-03-30T02:55:53.522Z"
   - **(2)** the contractor, or any subcontractor for a subcontract of the contract, shall promptly notify the Secretary of any data breach that occurs with respect to such information.
 - **(b)** Each contract subject to the requirements of subsection (a) shall provide for liquidated damages to be paid by the contractor to the Secretary in the event of a data breach with respect to any sensitive personal information processed or maintained by the contractor or any subcontractor under that contract.
 - **(c)** Any amount collected by the Secretary under subsection (b) shall be deposited in or credited to the Department account from which the contractor was paid and shall remain available for obligation without fiscal year limitation exclusively for the purpose of providing credit protection services pursuant to section 5724(b) of this title .
+
+Contract Requirements
+
+Liquidated Damages
+
+Provision of Credit Protection Services
+
+## Source Credit
+
+*(Added [Pub. L. 109–461, title IX, § 902(a)](https://www.govinfo.gov/link/plaw/109/public/461), Dec. 22, 2006, [120 Stat. 3456](https://www.govinfo.gov/link/statute/120/3456).)*

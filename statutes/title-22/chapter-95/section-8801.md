@@ -3,9 +3,10 @@ title: "Section 8801 - Definitions"
 usc_title: 22
 usc_section: "8801"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8801"
-generated_at: "2026-03-30T02:55:05.457Z"
+generated_at: "2026-11-23T20:26:32.737Z"
+status: "active"
 ---
 
 # § 8801. Definitions
@@ -30,3 +31,9 @@ generated_at: "2026-03-30T02:55:05.457Z"
   - **(13)** The term “United States person” has the meaning given that term in section 8511 of this title .
   - **(14)** The term “vessel” has the meaning given that term in section 3 of title 1 .
 - **(b)** For purposes of this chapter, in determining if financial transactions or financial services are significant, the President may consider the totality of the facts and circumstances, including factors similar to the factors set forth in section 561.404 of title 31, Code of Federal Regulations (or any corresponding similar regulation or ruling).
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 112–239, div. A, title XII, § 1242](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2004](https://www.govinfo.gov/link/statute/126/2004).)*

@@ -3,9 +3,10 @@ title: "Section 70103 - Maritime transportation security plans"
 usc_title: 46
 usc_section: "70103"
 chapter: 701
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 70103"
-generated_at: "2026-03-30T02:56:15.586Z"
+generated_at: "2026-11-23T20:27:27.437Z"
+status: "active"
 ---
 
 # § 70103. Maritime transportation security plans
@@ -99,3 +100,27 @@ generated_at: "2026-03-30T02:56:15.586Z"
   - **(1)** Consistent with other provisions of Federal law, the Coast Guard shall coordinate and be responsible for the enforcement of any Federal security zone established by the Coast Guard around a vessel containing especially hazardous cargo. The Coast Guard shall allocate available resources so as to deter and respond to a transportation security incident, to the maximum extent practicable, and to protect lives or protect property in danger.
   - **(2)** In this subsection, the term “especially hazardous cargo” means anhydrous ammonia, ammonium nitrate, chlorine, liquefied natural gas, liquefied petroleum gas, and any other substance, material, or group or class of material, in a particular amount and form that the Secretary determines by regulation poses a significant risk of creating a transportation security incident while being transported in maritime commerce.
 - **(f)** Notwithstanding any other provision of law, information related to security plans, procedures, or programs for passenger vessels or passenger terminals authorized under this chapter is not required to be disclosed to the public.
+
+National Maritime Transportation Security Plan
+
+Area Maritime Transportation Security Plans
+
+Vessel and Facility Security Plans
+
+Nondisclosure of Information.—
+
+In general
+
+Limitations
+
+Especially Hazardous Cargo.—
+
+Enforcement of security zones
+
+Especially hazardous cargo defined
+
+Nondisclosure of Port Security Plans
+
+## Source Credit
+
+*(Added [Pub. L. 107–295, title I, § 102(a)](https://www.govinfo.gov/link/plaw/107/public/295), Nov. 25, 2002, [116 Stat. 2069](https://www.govinfo.gov/link/statute/116/2069); amended [Pub. L. 108–458, title IV, § 4072(a)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3730](https://www.govinfo.gov/link/statute/118/3730); [Pub. L. 109–347, title I](https://www.govinfo.gov/link/plaw/109/public/347), §§ 101–103, 113(c), Oct. 13, 2006, [120 Stat. 1887](https://www.govinfo.gov/link/statute/120/1887), 1888, 1896; [Pub. L. 111–83, title V, § 561(b)](https://www.govinfo.gov/link/plaw/111/public/83), Oct. 28, 2009, [123 Stat. 2182](https://www.govinfo.gov/link/statute/123/2182); [Pub. L. 111–281, title VIII](https://www.govinfo.gov/link/plaw/111/public/281), §§ 812(c), 826, Oct. 15, 2010, [124 Stat. 2997](https://www.govinfo.gov/link/statute/124/2997), 3004; [Pub. L. 115–254, div. J](https://www.govinfo.gov/link/plaw/115/public/254), §§ 1805(d)(2), 1806, Oct. 5, 2018, [132 Stat. 3535](https://www.govinfo.gov/link/statute/132/3535), 3536; [Pub. L. 115–282, title IV](https://www.govinfo.gov/link/plaw/115/public/282), §§ 402(c), 408(d), Dec. 4, 2018, [132 Stat. 4264](https://www.govinfo.gov/link/statute/132/4264), 4268; [Pub. L. 116–283, div. G, title LVXXXII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXII], § 8240(a), title LVXXXIII [LXXXIII], § 8344, title LVXXXV [LXXXV], § 8507(d)(1), Jan. 1, 2021, [134 Stat. 4666](https://www.govinfo.gov/link/statute/134/4666), 4710, 4754; [Pub. L. 119–60, div. G, title LXXIII, § 7325](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1770](https://www.govinfo.gov/link/statute/139/1770).)*

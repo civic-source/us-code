@@ -3,9 +3,10 @@ title: "Section 2414 - Presidential findings and determinations"
 usc_title: 22
 usc_section: "2414"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2414"
-generated_at: "2026-03-30T02:55:05.365Z"
+generated_at: "2026-11-23T20:26:32.290Z"
+status: "active"
 ---
 
 # § 2414. Presidential findings and determinations
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:05.365Z"
 - **(b)** No action shall be taken pursuant to any such finding or determination prior to the date on which that finding or determination has been reduced to writing and signed by the President.
 - **(c)** Each such finding or determination shall be published in the Federal Register as soon as practicable after it has been reduced to writing and signed by the President. In any case in which the President concludes that such publication would be harmful to the national security of the United States, only a statement that a determination or finding has been made by the President, including the name and section of the Act under which it was made, shall be published.
 - **(d)** No committee or officer of either House of Congress shall be denied any requested information relating to any finding or determination which the President is required to report to the Congress, or to any committee or officer of either House of Congress, under any provision of this chapter, the Foreign Military Sales Act [ 22 U.S.C. 2751 et seq.], or the Foreign Assistance and Related Programs Appropriation Act for each fiscal year, even though such report has not yet been transmitted to the appropriate committee or officer of either House of Congress.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. III, § 654, as added [Pub. L. 92–226](https://www.govinfo.gov/link/plaw/92/public/226), pt. III, § 304(b), Feb. 7, 1972, [86 Stat. 29](https://www.govinfo.gov/link/statute/86/29).)*

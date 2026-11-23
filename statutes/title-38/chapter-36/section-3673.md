@@ -3,9 +3,10 @@ title: "Section 3673 - Approval activities: cooperation and coordination of acti
 usc_title: 38
 usc_section: "3673"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 3673"
-generated_at: "2026-03-30T02:55:53.507Z"
+generated_at: "2026-11-23T20:27:01.865Z"
+status: "active"
 ---
 
 # § 3673. Approval activities: cooperation and coordination of activities
@@ -49,3 +50,19 @@ generated_at: "2026-03-30T02:55:53.507Z"
     - **(A)** met fulfilled 1 1 So in original. its requirements pursuant to the applicable cooperative agreements between the State approving agency and the Department relating to the oversight and approval of courses and programs of education under this chapter; and
     - **(B)** completed a risk-based survey of any course or program of education determined to be of questionable quality or at risk by any Federal or State agency or any accrediting agency.
   - **(3)** Outreach activities conducted under paragraph (1) shall be carried out using amounts derived from amounts not specifically appropriated to carry out this subsection.
+
+Cooperation in Activities
+
+Coordination of Activities
+
+Availability of Information Material
+
+Use of State Approving Agencies for Oversight Activities
+
+Notice of Government Action
+
+Outreach Activities
+
+## Source Credit
+
+*(Added [Pub. L. 88–126, § 1](https://www.govinfo.gov/link/plaw/88/public/126), Sept. 23, 1963, [77 Stat. 158](https://www.govinfo.gov/link/statute/77/158), § 1773; amended [Pub. L. 89–358, § 3(a)(7)](https://www.govinfo.gov/link/plaw/89/public/358), (11), Mar. 3, 1966, [80 Stat. 20](https://www.govinfo.gov/link/statute/80/20), 21; [Pub. L. 92–540, title IV, § 403(6)](https://www.govinfo.gov/link/plaw/92/public/540), Oct. 24, 1972, [86 Stat. 1090](https://www.govinfo.gov/link/statute/86/1090); [Pub. L. 97–295, § 4(51)](https://www.govinfo.gov/link/plaw/97/public/295), Oct. 12, 1982, [96 Stat. 1308](https://www.govinfo.gov/link/statute/96/1308); [Pub. L. 101–237, title IV, § 423(b)(1)](https://www.govinfo.gov/link/plaw/101/public/237), Dec. 18, 1989, [103 Stat. 2092](https://www.govinfo.gov/link/statute/103/2092); renumbered § 3673, [Pub. L. 102–83, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/83), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 110–389, title III, § 326(a)(1)](https://www.govinfo.gov/link/plaw/110/public/389), (2)(A), (3), Oct. 10, 2008, [122 Stat. 4169](https://www.govinfo.gov/link/statute/122/4169); [Pub. L. 111–377, title II, § 203(b)](https://www.govinfo.gov/link/plaw/111/public/377), Jan. 4, 2011, [124 Stat. 4125](https://www.govinfo.gov/link/statute/124/4125); [Pub. L. 115–48, title III, § 310](https://www.govinfo.gov/link/plaw/115/public/48), Aug. 16, 2017, [131 Stat. 994](https://www.govinfo.gov/link/statute/131/994); [Pub. L. 115–62, title V, § 501(a)](https://www.govinfo.gov/link/plaw/115/public/62), Sept. 29, 2017, [131 Stat. 1165](https://www.govinfo.gov/link/statute/131/1165); [Pub. L. 116–315, title I](https://www.govinfo.gov/link/plaw/116/public/315), §§ 1013(b)(1), 1014(a), 1023, Jan. 5, 2021, [134 Stat. 4943](https://www.govinfo.gov/link/statute/134/4943), 4959.)*

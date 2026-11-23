@@ -3,9 +3,10 @@ title: "Section 2201a - Use of firearms by security personnel"
 usc_title: 42
 usc_section: "2201a"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2201a"
-generated_at: "2026-03-30T02:56:11.155Z"
+generated_at: "2026-11-23T20:27:22.094Z"
+status: "active"
 ---
 
 # § 2201a. Use of firearms by security personnel
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.155Z"
     - **(D)** are discharging the official duties of the security personnel in transferring, receiving, possessing, transporting, or importing the weapons, ammunition, or devices.
 - **(c)** A person that receives, possesses, transports, imports, or uses a weapon, ammunition, or a device under subsection (b) shall be subject to a background check by the Attorney General, based on fingerprints and including a background check under section 103(b) of the Brady Handgun Violence Prevention Act ( Public Law 103–159 ; 18 U.S.C. 922 note) 1 1 See References in Text note below. to determine whether the person is prohibited from possessing or receiving a firearm under Federal or State law.
 - **(d)** This section takes effect on the date on which guidelines are issued by the Commission, with the approval of the Attorney General, to carry out this section.
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 161A, as added [Pub. L. 109–58, title VI, § 653](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 811](https://www.govinfo.gov/link/statute/119/811).)*

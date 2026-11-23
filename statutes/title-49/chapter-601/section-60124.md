@@ -3,9 +3,10 @@ title: "Section 60124 - Biennial reports"
 usc_title: 49
 usc_section: "60124"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 60124"
-generated_at: "2026-03-30T02:56:19.415Z"
+generated_at: "2026-11-23T20:27:35.419Z"
+status: "active"
 ---
 
 # § 60124. Biennial reports
@@ -35,3 +36,92 @@ generated_at: "2026-03-30T02:56:19.415Z"
       - **(ii)** hazardous liquid pipeline safety programs; and
     - **(B)** to strengthen the national gas pipeline safety program.
 - **(b)** The Secretary may submit one report to carry out subsection (a) of this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 60124(a) | 49 App.:1683(a). | Aug. 12, 1968 , Pub. L. 90–481, § 16(a) , 82 Stat. 728 ; Oct. 11, 1976 , Pub. L. 94–477, § 7 , 90 Stat. 2075 ; Nov. 30, 1979 , Pub. L. 96–129 , §§ 104(b), 107, 109( l ), (m), 93 Stat. 992 , 995, 997; Oct. 11, 1984 , Pub. L. 98–464, § 3(a) , 98 Stat. 1821 ; Oct. 24, 1992 , Pub. L. 102–508, § 110(b) , 106 Stat. 3295 . |
+|  | 49 App.:1683(b). | Aug. 12, 1968 , Pub. L. 90–481, § 16(b) , 82 Stat. 728 ; Nov. 30, 1979 , Pub. L. 96–129, § 104(b) , 93 Stat. 992 . |
+|  | 49 App.:2012(a). | Nov. 30, 1979 , Pub. L. 96–129, § 213(a) , 93 Stat. 1013 ; Oct. 11, 1984 , Pub. L. 98–464, § 3(b) , 98 Stat. 1821 ; Oct. 24, 1992 , Pub. L. 102–508, § 209(b) , 106 Stat. 3304 . |
+|  | 49 App.:2012(b). | Nov. 30, 1979 , Pub. L. 96–129, § 213(b) , (c), 93 Stat. 1014 . |
+| 60124(b) | 49 App.:2012(c). |  |
+
+
+Submission and Contents
+
+Submission of One Report
+
+Historical and Revision Notes
+
+60124(a)
+
+Aug. 12, 1968
+
+Pub. L. 90–481, § 16(a)
+
+82 Stat. 728
+
+Oct. 11, 1976
+
+Pub. L. 94–477, § 7
+
+90 Stat. 2075
+
+Nov. 30, 1979
+
+Pub. L. 96–129
+
+93 Stat. 992
+
+Oct. 11, 1984
+
+Pub. L. 98–464, § 3(a)
+
+98 Stat. 1821
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 110(b)
+
+106 Stat. 3295
+
+Aug. 12, 1968
+
+Pub. L. 90–481, § 16(b)
+
+82 Stat. 728
+
+Nov. 30, 1979
+
+Pub. L. 96–129, § 104(b)
+
+93 Stat. 992
+
+Nov. 30, 1979
+
+Pub. L. 96–129, § 213(a)
+
+93 Stat. 1013
+
+Oct. 11, 1984
+
+Pub. L. 98–464, § 3(b)
+
+98 Stat. 1821
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 209(b)
+
+106 Stat. 3304
+
+Nov. 30, 1979
+
+Pub. L. 96–129, § 213(b)
+
+93 Stat. 1014
+
+60124(b)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1326](https://www.govinfo.gov/link/statute/108/1326); [Pub. L. 104–66, title I, § 1121](https://www.govinfo.gov/link/plaw/104/public/66) (l), Dec. 21, 1995, [109 Stat. 724](https://www.govinfo.gov/link/statute/109/724); [Pub. L. 104–304, § 15(a)](https://www.govinfo.gov/link/plaw/104/public/304), Oct. 12, 1996, [110 Stat. 3803](https://www.govinfo.gov/link/statute/110/3803); [Pub. L. 114–183, § 22(b)(1)](https://www.govinfo.gov/link/plaw/114/public/183), June 22, 2016, [130 Stat. 529](https://www.govinfo.gov/link/statute/130/529).)*

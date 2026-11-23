@@ -3,9 +3,10 @@ title: "Section 7276c - Miscellaneous provisions"
 usc_title: 42
 usc_section: "7276c"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7276c"
-generated_at: "2026-03-30T02:56:11.287Z"
+generated_at: "2026-11-23T20:27:22.801Z"
+status: "active"
 ---
 
 # § 7276c. Miscellaneous provisions
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.287Z"
 - **(b)** The Administrator shall include in the annual report submitted by the Western Area Power Administration (1) a description of the activities undertaken by the Administrator and by customers under sections 7275 to 7276c of this title and (2) an estimate of the energy savings and renewable resource benefits achieved as a result of such activities.
 - **(c)** Any State regulated electric utility (as defined in section 2602(18) of title 16 ) shall be exempt from the provisions of sections 7275 to 7276c of this title.
 - **(d)** Nothing in sections 7275 to 7276c of this title shall require a customer to take any action inconsistent with a requirement imposed by the Rural Electrification Administration 1 1 So in original. Probably should be followed by a period.
+
+## Source Credit
+
+*([Pub. L. 98–381, title II, § 205](https://www.govinfo.gov/link/plaw/98/public/381), as added [Pub. L. 102–486, title I, § 114](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2803](https://www.govinfo.gov/link/statute/106/2803).)*

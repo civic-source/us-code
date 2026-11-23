@@ -3,9 +3,10 @@ title: "Section 20511 - Criminal penalties"
 usc_title: 52
 usc_section: "20511"
 chapter: 205
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "52 U.S.C. § 20511"
-generated_at: "2026-03-30T02:56:30.165Z"
+generated_at: "2026-11-23T20:27:36.970Z"
+status: "active"
 ---
 
 # § 20511. Criminal penalties
@@ -19,3 +20,7 @@ A person, including an election official, who in any election for Federal office
   - **(2)** knowingly and willfully deprives, defrauds, or attempts to deprive or defraud the residents of a State of a fair and impartially conducted election process, by—
     - **(A)** the procurement or submission of voter registration applications that are known by the person to be materially false, fictitious, or fraudulent under the laws of the State in which the election is held; or
     - **(B)** the procurement, casting, or tabulation of ballots that are known by the person to be materially false, fictitious, or fraudulent under the laws of the State in which the election is held,
+
+## Source Credit
+
+*([Pub. L. 103–31, § 12](https://www.govinfo.gov/link/plaw/103/public/31), May 20, 1993, [107 Stat. 88](https://www.govinfo.gov/link/statute/107/88).)*

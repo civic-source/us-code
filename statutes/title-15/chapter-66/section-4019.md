@@ -3,9 +3,10 @@ title: "Section 4019 - Disclosure of information"
 usc_title: 15
 usc_section: "4019"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 4019"
-generated_at: "2026-03-30T02:54:08.197Z"
+generated_at: "2026-11-23T20:26:04.323Z"
+status: "active"
 ---
 
 # § 4019. Disclosure of information
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:08.197Z"
     - **(D)** in the course of making a determination with respect to the issuance, amendment, or revocation of a certificate of review, if the Secretary deems disclosure of the information to be necessary in connection with making the determination,
     - **(E)** in accordance with any requirement imposed by a statute of the United States, or
     - **(F)** in accordance with any rule or regulation promulgated under section 4020 of this title permitting the disclosure of the information to an agency of the United States or of a State on the condition that the agency will disclose the information only under the circumstances specified in subparagraphs (A) through (E).
+
+## Source Credit
+
+*([Pub. L. 97–290, title III, § 309](https://www.govinfo.gov/link/plaw/97/public/290), Oct. 8, 1982, [96 Stat. 1244](https://www.govinfo.gov/link/statute/96/1244).)*

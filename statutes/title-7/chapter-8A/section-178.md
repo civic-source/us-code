@@ -3,9 +3,10 @@ title: "Section 178 - Congressional findings and declaration of policy"
 usc_title: 7
 usc_section: "178"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 178"
-generated_at: "2026-03-30T02:53:42.276Z"
+generated_at: "2026-11-23T20:25:40.987Z"
+status: "active"
 ---
 
 # § 178. Congressional findings and declaration of policy
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:42.276Z"
   - **(5)** Congress further recognizes that ongoing research into the development and commercialization of native latex has been conducted by the Department of Agriculture, the Department of Commerce, the National Science Foundation, and other public as well as private and industrial research groups, and that these research efforts should be continued and expanded.
 - **(b)** In addition, Congress recognizes that the development of a domestic industry or industries for the production and manufacture from native agricultural crops of products other than rubber which are of strategic and industrial importance but for which the Nation is now dependent upon foreign sources, would benefit the economy, the defense, and the general well-being of the Nation, and that additional research efforts in this area should be undertaken or continued and expanded.
 - **(c)** It is therefore the policy of the United States to provide for the development and demonstration of economically feasible means of culturing and manufacturing Parthenium and other hydrocarbon-containing plants, along with other native agricultural crops, for the production of critical agricultural materials to benefit the Nation and promote economic development.
+
+## Source Credit
+
+*([Pub. L. 95–592, § 2](https://www.govinfo.gov/link/plaw/95/public/592), Nov. 4, 1978, [92 Stat. 2529](https://www.govinfo.gov/link/statute/92/2529); [Pub. L. 98–284, § 2](https://www.govinfo.gov/link/plaw/98/public/284), May 16, 1984, [98 Stat. 181](https://www.govinfo.gov/link/statute/98/181).)*

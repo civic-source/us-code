@@ -3,9 +3,10 @@ title: "Section 10156 - Formula"
 usc_title: 34
 usc_section: "10156"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10156"
-generated_at: "2026-03-30T02:55:33.261Z"
+generated_at: "2026-11-23T20:26:50.434Z"
+status: "active"
 ---
 
 # § 10156. Formula
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:55:33.261Z"
   - **(2)** Subsections (c) and (d) shall not apply to Puerto Rico.
 - **(h)** In carrying out this section with respect to the State of Louisiana, the term “unit of local government” means a district attorney or a parish sheriff.
 - **(i)** For purposes of this section, the term “part 1 violent crimes” shall include severe forms of trafficking in persons (as defined in section 7102 of title 22 ).
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 505](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 109–162, title XI, § 1111(a)(2)(C)](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3097](https://www.govinfo.gov/link/statute/119/3097); amended [Pub. L. 114–22, title I, § 107](https://www.govinfo.gov/link/plaw/114/public/22), May 29, 2015, [129 Stat. 238](https://www.govinfo.gov/link/statute/129/238).)*

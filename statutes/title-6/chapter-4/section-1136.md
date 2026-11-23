@@ -3,9 +3,10 @@ title: "Section 1136 - Security exercises"
 usc_title: 6
 usc_section: "1136"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 1136"
-generated_at: "2026-03-30T02:53:09.504Z"
+generated_at: "2026-11-23T20:25:34.913Z"
+status: "active"
 ---
 
 # § 1136. Security exercises
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:53:09.504Z"
   - **(4)** assists State, local, and tribal governments and public transportation agencies in designing, implementing, and evaluating exercises that conform to the requirements of paragraph (2).
 - **(d)** The Secretary shall ensure that the exercise program developed under subsection (a) is a component of the National Exercise Program established under section 748 of this title .
 - **(e)** This section does not apply to any ferry system for which drills are required to be conducted pursuant to section 70103 of title 46 .
+
+## Source Credit
+
+*([Pub. L. 110–53, title XIV, § 1407](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 408](https://www.govinfo.gov/link/statute/121/408).)*

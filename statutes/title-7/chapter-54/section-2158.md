@@ -3,9 +3,10 @@ title: "Section 2158 - Protection of pets"
 usc_title: 7
 usc_section: "2158"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2158"
-generated_at: "2026-03-30T02:53:42.378Z"
+generated_at: "2026-11-23T20:25:41.489Z"
+status: "active"
 ---
 
 # § 2158. Protection of pets
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:53:42.378Z"
   - **(2)** Any dealer who violates this section more than one time shall be subject to a fine of $5,000 per dog or cat acquired or sold in violation of this section.
   - **(3)** Any dealer who violates this section three or more times shall have such dealers license permanently revoked.
 - **(d)** Not later than 180 days after November 28, 1990 , the Secretary shall promulgate regulations to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 89–544, § 28](https://www.govinfo.gov/link/plaw/89/public/544), as added [Pub. L. 101–624, title XXV, § 2503(2)](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 4066](https://www.govinfo.gov/link/statute/104/4066); amended [Pub. L. 102–237, title X, § 1004](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1894](https://www.govinfo.gov/link/statute/105/1894).)*

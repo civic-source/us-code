@@ -3,9 +3,10 @@ title: "Section 415 - Requirements for Federal entities and designated Federal e
 usc_title: 5
 usc_section: "415"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 415"
-generated_at: "2026-03-30T02:52:55.981Z"
+generated_at: "2026-11-23T20:25:31.688Z"
+status: "active"
 ---
 
 # § 415. Requirements for Federal entities and designated Federal entities
@@ -90,3 +91,416 @@ generated_at: "2026-03-30T02:52:55.981Z"
     - **(A)** states whether there has been established in the Federal entity an office that meets the requirements of this section;
     - **(B)** specifies the actions taken by the Federal entity otherwise to ensure that audits are conducted of its programs and operations in accordance with the standards for audit of governmental organizations, programs, activities, and functions issued by the Comptroller General of the United States, and includes a list of each audit report completed by a Federal or non-Federal auditor during the reporting period and a summary of any particularly significant findings; and
     - **(C)** summarizes any matters relating to the personnel, programs, and operations of the Federal entity referred to prosecutive authorities, including a summary description of any preliminary investigation conducted by or at the request of the Federal entity concerning these matters, and the prosecutions and convictions which have resulted.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 415 | 5 U.S.C. App. (IGA § 8G) | Pub. L. 95–452, § 8G , formerly § 8E, as added Pub. L. 100–504, title I, § 104(a) , Oct. 18, 1988 , 102 Stat. 2522 ; amended Pub. L. 101–73, title VII, § 702(c) , Aug. 9, 1989 , 103 Stat. 415 ; renumbered § 8F and amended Pub. L. 103–82, title II, § 202(g)(1) , (2)(A), Sept. 21, 1993 , 107 Stat. 889 , 890; renumbered § 8G and amended Pub. L. 103–204, § 23(a)(3) , (4), Dec. 17, 1993 , 107 Stat. 2408 ; Pub. L. 104–88, title III, § 319 , Dec. 29, 1995 , 109 Stat. 949 ; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 662(b)(1), (2)] , Sept. 30, 1996 , 110 Stat. 3009–314 , 3009–379; Pub. L. 105–134, title IV, § 409(a)(1) , Dec. 2, 1997 , 111 Stat. 2586 ; Pub. L. 105–277, div. C, title III, § 306(h) , as added Pub. L. 106–31, title I, § 105(a)(5) , May 21, 1999 , 113 Stat. 63 ; Pub. L. 106–422, § 1(b)(1) , Nov. 1, 2000 , 114 Stat. 1872 ; Pub. L. 107–252, title VIII, § 812(a) , Oct. 29, 2002 , 116 Stat. 1727 ; Pub. L. 108–271, § 8(b) , July 7, 2004 , 118 Stat. 814 ; Pub. L. 109–435, title VI , §§ 603(b), 605(a), Dec. 20, 2006 , 120 Stat. 3240 , 3242; Pub. L. 110–409 , §§ 2, 3(b), 6(b), 7(d)(1), Oct. 14, 2008 , 122 Stat. 4302 , 4305, 4313; Pub. L. 111–203, title IX , §§ 989B, 989D, title X, § 1081, July 21, 2010 , 124 Stat. 1945 , 1946, 2080; Pub. L. 111–259, title IV, § 431(a) , (c), Oct. 7, 2010 , 124 Stat. 2731 ; Pub. L. 113–126, title IV , §§ 402(1), 412(1), July 7, 2014 , 128 Stat. 1408 , 1409; Pub. L. 114–113, div. H, title IV, § 401(a) , Dec. 18, 2015 , 129 Stat. 2639 ; Pub. L. 114–317 , §§ 6(4), 7(d)(2)(F), (3)(E), Dec. 16, 2016 , 130 Stat. 1604 , 1606; Pub. L. 115–141, div. P, title V, § 501(a)(1) , Mar. 23, 2018 , 132 Stat. 1090 ; Pub. L. 115–254, div. F, title I, § 1414 , Oct. 5, 2018 , 132 Stat. 3492 . |
+
+
+Definitions
+
+Designated federal entity.—
+
+In general
+
+Amtrak
+
+Federal entity
+
+Head of the designated federal entity
+
+Head of the federal entity
+
+Inspector general
+
+Office of inspector general
+
+Office of Inspector General in Each Designated Federal Entity
+
+Appointment of Inspector General
+
+Supervision.—
+
+In general
+
+Exception relating to intelligence community.—
+
+In general
+
+Statement of reasons for exercise of authority
+
+Notification to inspector general
+
+Elements of the intelligence community
+
+Committees of congress
+
+Removal.—
+
+Board, chairman of committee, or commission is head of designated federal entity
+
+Inspector general removed or transferred
+
+United States Postal Service.—
+
+Appointment
+
+Oversight responsibility of inspector general for activities of postal inspection service
+
+Audits and investigations.—
+
+Authority, direction, and control of governors.—
+
+Access to sensitive information
+
+Authority to prohibit inspector general from carrying out or completing audit or investigation
+
+Notification of reasons for exercise of power
+
+Initiating, conducting, and supervising audits and investigations
+
+Reporting serious problems, abuses, or deficiencies
+
+Limitation
+
+Definition of governors
+
+Authorization of appropriations
+
+Special Application.—
+
+Sections 404, 405, 406, and 407
+
+Personnel
+
+Application of section
+
+Counsel
+
+Annual Listing and Report.—
+
+Listing
+
+Report
+
+Historical and Revision Notes
+
+415
+
+Pub. L. 95–452, § 8G
+
+Pub. L. 100–504, title I, § 104(a)
+
+Oct. 18, 1988
+
+102 Stat. 2522
+
+Pub. L. 101–73, title VII, § 702(c)
+
+Aug. 9, 1989
+
+103 Stat. 415
+
+Pub. L. 103–82, title II, § 202(g)(1)
+
+Sept. 21, 1993
+
+107 Stat. 889
+
+Pub. L. 103–204, § 23(a)(3)
+
+Dec. 17, 1993
+
+107 Stat. 2408
+
+Pub. L. 104–88, title III, § 319
+
+Dec. 29, 1995
+
+109 Stat. 949
+
+Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 662(b)(1), (2)]
+
+Sept. 30, 1996
+
+110 Stat. 3009–314
+
+Pub. L. 105–134, title IV, § 409(a)(1)
+
+Dec. 2, 1997
+
+111 Stat. 2586
+
+Pub. L. 105–277, div. C, title III, § 306(h)
+
+Pub. L. 106–31, title I, § 105(a)(5)
+
+May 21, 1999
+
+113 Stat. 63
+
+Pub. L. 106–422, § 1(b)(1)
+
+Nov. 1, 2000
+
+114 Stat. 1872
+
+Pub. L. 107–252, title VIII, § 812(a)
+
+Oct. 29, 2002
+
+116 Stat. 1727
+
+Pub. L. 108–271, § 8(b)
+
+July 7, 2004
+
+118 Stat. 814
+
+Pub. L. 109–435, title VI
+
+Dec. 20, 2006
+
+120 Stat. 3240
+
+Pub. L. 110–409
+
+Oct. 14, 2008
+
+122 Stat. 4302
+
+Pub. L. 111–203, title IX
+
+July 21, 2010
+
+124 Stat. 1945
+
+Pub. L. 111–259, title IV, § 431(a)
+
+Oct. 7, 2010
+
+124 Stat. 2731
+
+Pub. L. 113–126, title IV
+
+July 7, 2014
+
+128 Stat. 1408
+
+Pub. L. 114–113, div. H, title IV, § 401(a)
+
+Dec. 18, 2015
+
+129 Stat. 2639
+
+Pub. L. 114–317
+
+Dec. 16, 2016
+
+130 Stat. 1604
+
+Pub. L. 115–141, div. P, title V, § 501(a)(1)
+
+Mar. 23, 2018
+
+132 Stat. 1090
+
+Pub. L. 115–254, div. F, title I, § 1414
+
+Oct. 5, 2018
+
+132 Stat. 3492
+
+Personnel, documents, assets
+
+Legal documents
+
+Proceedings
+
+Suits
+
+References
+
+Quality standards for ig products
+
+Specification of quality standards followed
+
+Waiver
+
+Authority.—
+
+In general
+
+Agency
+
+Assessment
+
+Limitation
+
+Eligibility for ICTAP
+
+Appointment to the Competitive Service
+
+Regulations
+
+Use of Unobligated Funds
+
+Purposes
+
+Office of Inspector General
+
+Appointment of Inspector General; Removal.—
+
+Appointment
+
+Qualifications
+
+Deadline for appointment
+
+Compensation
+
+Prohibition on political activities
+
+Removal
+
+Assistant Inspectors General
+
+Supervision.—
+
+In general
+
+Independence to conduct investigations and audits
+
+Duties.—
+
+Oversight of afghanistan reconstruction
+
+Other duties related to oversight
+
+Duties and responsibilities under chapter 4 of title 5, united states code
+
+Coordination of efforts
+
+Powers and Authorities.—
+
+Authorities under chapter 4 of title 5, united states code
+
+Audit standards
+
+Personnel, Facilities, and Other Resources.—
+
+Personnel.—
+
+In general
+
+Additional authorities.—
+
+In general
+
+Periods of appointments
+
+Employment of experts and consultants
+
+Contracting authority
+
+Resources
+
+Assistance from federal agencies.—
+
+In general
+
+Reporting of refused assistance
+
+Use of personnel, facilities, and other resources of the office of the special inspector general for iraq reconstruction
+
+Reports.—
+
+Quarterly reports
+
+Covered contracts, grants, agreements, and funding mechanisms
+
+Public availability
+
+Form
+
+Rule of construction
+
+Report Coordination.—
+
+Submission to secretaries of state and defense
+
+Submission to congress
+
+Transparency.—
+
+Report
+
+Comments on matters covered by report
+
+Waiver.—
+
+Authority
+
+Notice of waiver
+
+Definitions
+
+Amounts appropriated or otherwise made available for the reconstruction of afghanistan
+
+Appropriate congressional committees
+
+Authorization of Appropriations.—
+
+In general
+
+Offset
+
+Termination.—
+
+In general
+
+Final report
+
+Purposes
+
+Office of Inspector General
+
+Appointment of Inspector General; Removal
+
+Assistant Inspectors General
+
+Supervision
+
+Duties
+
+Powers and Authorities
+
+Personnel, Facilities, and Other Resources
+
+Reports
+
+Report Coordination
+
+Transparency
+
+Waiver
+
+Definitions
+
+Funding
+
+Termination
+
+Amtrak Not Federal Entity
+
+Federal Subsidy.—
+
+Assessment
+
+Report
+
+Special effective date
+
+## Source Credit
+
+*([Pub. L. 117–286, § 3(b)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4235](https://www.govinfo.gov/link/statute/136/4235).)*

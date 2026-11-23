@@ -3,9 +3,10 @@ title: "Section 45V - Credit for production of clean hydrogen"
 usc_title: 26
 usc_section: "45V"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 45V"
-generated_at: "2026-03-30T02:55:27.605Z"
+generated_at: "2026-11-23T20:26:45.228Z"
+status: "active"
 ---
 
 # § 45V. Credit for production of clean hydrogen
@@ -68,3 +69,13 @@ generated_at: "2026-03-30T02:55:27.605Z"
   - **(4)** Rules similar to the rules of section 45(b)(8) shall apply.
   - **(5)** The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.
 - **(f)** Not later than 1 year after the date of enactment of this section, the Secretary shall issue regulations or other guidance to carry out the purposes of this section, including regulations or other guidance for determining lifecycle greenhouse gas emissions.
+
+In general
+
+Credit reduced for tax-exempt bonds
+
+Modification of existing facilities
+
+## Source Credit
+
+*(Added and amended [Pub. L. 117–169, title I, § 13204(a)(1)](https://www.govinfo.gov/link/plaw/117/public/169) –(3), Aug. 16, 2022, [136 Stat. 1936](https://www.govinfo.gov/link/statute/136/1936), 1938, 1939; [Pub. L. 119–21, title VII, § 70511](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 252](https://www.govinfo.gov/link/statute/139/252).)*

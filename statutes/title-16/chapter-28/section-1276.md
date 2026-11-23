@@ -3,9 +3,10 @@ title: "Section 1276 - Rivers constituting potential additions to national wild 
 usc_title: 16
 usc_section: "1276"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1276"
-generated_at: "2026-03-30T02:54:22.953Z"
+generated_at: "2026-11-23T20:26:20.441Z"
+status: "active"
 ---
 
 # § 1276. Rivers constituting potential additions to national wild and scenic rivers system
@@ -257,3 +258,145 @@ generated_at: "2026-03-30T02:54:22.953Z"
 - **(d)**
   - **(1)** In all planning for the use and development of water and related land resources, consideration shall be given by all Federal agencies involved to potential national wild, scenic and recreational river areas, and all river basin and project plan reports submitted to the Congress shall consider and discuss any such potentials. The Secretary of the Interior and the Secretary of Agriculture shall make specific studies and investigations to determine which additional wild, scenic and recreational river areas within the United States shall be evaluated in planning reports by all Federal agencies as potential alternative uses of the water and related land resources involved.
   - **(2)** The Congress finds that the Secretary of the Interior, in preparing the Nationwide Rivers Inventory as a specific study for possible additions to the National Wild and Scenic Rivers System, identified the Upper Klamath River from below the John Boyle Dam to the Oregon-California State line. The Secretary, acting through the Bureau of Land Management, is authorized under this subsection to complete a study of the eligibility and suitability of such segment for potential addition to the National Wild and Scenic Rivers System. Such study shall be completed, and a report containing the results of the study shall be submitted to Congress by April 1, 1990 . Nothing in this paragraph shall affect the authority or responsibilities of any other Federal agency with respect to activities or actions on this segment and its immediate environment.
+
+Klickitat, Washington
+
+White Salmon, Washington
+
+Maurice, New Jersey
+
+Manumuskin, New Jersey
+
+Menantico Creek, New Jersey
+
+Merced, California
+
+Blue, Oregon
+
+Chewaucan, Oregon
+
+North Fork Malheur, Oregon
+
+South Fork McKenzie, Oregon
+
+Steamboat Creek, Oregon
+
+Wallowa, Oregon
+
+Merrimack River, New Hampshire
+
+Pemigewasset, New Hampshire
+
+St. Marys River, Florida and Georgia
+
+Mills River, North Carolina
+
+Sudbury, Assabet, and Concord, Massachussets
+
+Massachusetts
+
+Niobrara, Nebraska
+
+Lamprey, New Hampshire
+
+White Clay Creek, Delaware and Pennsylvania
+
+Brule, Michigan and Wisconsin
+
+Carp, Michigan
+
+Little Manistee, Michigan
+
+White, Michigan
+
+Ontonagon, Michigan
+
+Paint, Michigan
+
+Presque Isle, Michigan
+
+Sturgeon, Ottawa National Forest, Michigan
+
+Sturgeon, Hiawatha National Forest, Michigan
+
+Tahquamenon, Michigan
+
+Whitefish, Michigan
+
+Clarion, Pennsylvania
+
+Mill Creek, Jefferson and Clarion Counties, Pennsylvania
+
+Piru Creek, California
+
+Little Sur River, California
+
+Matilija Creek, California
+
+Lopez Creek, California
+
+Sespe Creek, California
+
+North Fork Merced, California
+
+Delaware River, Pennsylvania and New Jersey
+
+New River, West Virginia and Virginia
+
+Rio Grande, New Mexico
+
+Wekiva River, Florida
+
+Taunton River, Massachusetts
+
+Eightmile River, Connecticut
+
+Lower Farmington River and Salmon Brook, Connecticut
+
+Missisquoi and trout rivers, vermont
+
+Oregon caves national monument and preserve, oregon.—
+
+Cave creek, oregon
+
+Lake creek, oregon
+
+No name creek, oregon
+
+Panther creek
+
+Upper cave creek
+
+Beaver, chipuxet, queen, wood, and pawcatuck rivers, rhode island and connecticut
+
+Nashua river, massachusetts
+
+York river, maine
+
+Little manatee river, florida
+
+Kissimmee river, florida
+
+Taunton River, Massachusetts
+
+Missisquoi and trout rivers, vermont
+
+Oregon caves national monument and preserve, oregon
+
+Beaver, chipuxet, queen, wood, and pawcatuck rivers, rhode island and connecticut; nashua river, massachusetts; york river, maine.—
+
+In general
+
+Report requirements
+
+(aa) to influence local land use decisions, such as zoning; or
+
+(bb) to place restrictions on non-Federal land if designated under this chapter; and
+
+Little manatee river, florida
+
+Kissimmee river, florida
+
+## Source Credit
+
+*([Pub. L. 90–542, § 5](https://www.govinfo.gov/link/plaw/90/public/542), Oct. 2, 1968, [82 Stat. 910](https://www.govinfo.gov/link/statute/82/910); [Pub. L. 93–279, § 1(b)(2)](https://www.govinfo.gov/link/plaw/93/public/279), May 10, 1974, [88 Stat. 123](https://www.govinfo.gov/link/statute/88/123); [Pub. L. 93–621, § 1(a)](https://www.govinfo.gov/link/plaw/93/public/621), (b), Jan. 3, 1975, [88 Stat. 2094](https://www.govinfo.gov/link/statute/88/2094), 2095; [Pub. L. 94–199, § 5(a)](https://www.govinfo.gov/link/plaw/94/public/199), Dec. 31, 1975, [89 Stat. 1118](https://www.govinfo.gov/link/statute/89/1118); [Pub. L. 94–486, title IV, § 401](https://www.govinfo.gov/link/plaw/94/public/486), title VII, § 701, Oct. 12, 1976, [90 Stat. 2330](https://www.govinfo.gov/link/statute/90/2330); [Pub. L. 95–625, title VII](https://www.govinfo.gov/link/plaw/95/public/625), §§ 721–736, title XI, § 1108, Nov. 10, 1978, [92 Stat. 3530–3532](https://www.govinfo.gov/link/statute/92/3530), 3547; [Pub. L. 96–87, title IV, § 404](https://www.govinfo.gov/link/plaw/96/public/87), Oct. 12, 1979, [93 Stat. 667](https://www.govinfo.gov/link/statute/93/667); [Pub. L. 96–199, title I, § 102](https://www.govinfo.gov/link/plaw/96/public/199), Mar. 5, 1980, [94 Stat. 68](https://www.govinfo.gov/link/statute/94/68); [Pub. L. 96–487, title VI, § 604](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2415](https://www.govinfo.gov/link/statute/94/2415); [Pub. L. 98–323, title II, § 201](https://www.govinfo.gov/link/plaw/98/public/323), June 19, 1984, [98 Stat. 261](https://www.govinfo.gov/link/statute/98/261); [Pub. L. 98–484, § 5](https://www.govinfo.gov/link/plaw/98/public/484), Oct. 17, 1984, [98 Stat. 2259](https://www.govinfo.gov/link/statute/98/2259); [Pub. L. 98–494, § 2](https://www.govinfo.gov/link/plaw/98/public/494), Oct. 19, 1984, [98 Stat. 2274](https://www.govinfo.gov/link/statute/98/2274); [Pub. L. 99–590, title II, § 202(b)](https://www.govinfo.gov/link/plaw/99/public/590), (c), title III, § 301, title V, § 503, Oct. 30, 1986, [100 Stat. 3332–3335](https://www.govinfo.gov/link/statute/100/3332); [Pub. L. 99–663, § 13(d)](https://www.govinfo.gov/link/plaw/99/public/663), Nov. 17, 1986, [100 Stat. 4294](https://www.govinfo.gov/link/statute/100/4294); [Pub. L. 100–33, § 1](https://www.govinfo.gov/link/plaw/100/public/33), May 7, 1987, [101 Stat. 299](https://www.govinfo.gov/link/statute/101/299); [Pub. L. 100–149, § 2](https://www.govinfo.gov/link/plaw/100/public/149), Nov. 2, 1987, [101 Stat. 879](https://www.govinfo.gov/link/statute/101/879); [Pub. L. 100–557, title I](https://www.govinfo.gov/link/plaw/100/public/557), §§ 103, 104, Oct. 28, 1988, [102 Stat. 2790](https://www.govinfo.gov/link/statute/102/2790); [Pub. L. 101–40, § 2(b)](https://www.govinfo.gov/link/plaw/101/public/40), June 20, 1989, [103 Stat. 82](https://www.govinfo.gov/link/statute/103/82); [Pub. L. 101–356](https://www.govinfo.gov/link/plaw/101/public/356), §§ 2, 3, Aug. 10, 1990, [104 Stat. 417](https://www.govinfo.gov/link/statute/104/417); [Pub. L. 101–357](https://www.govinfo.gov/link/plaw/101/public/357), §§ 2, 3, Aug. 10, 1990, [104 Stat. 418](https://www.govinfo.gov/link/statute/104/418); [Pub. L. 101–364, § 1](https://www.govinfo.gov/link/plaw/101/public/364), Aug. 15, 1990, [104 Stat. 428](https://www.govinfo.gov/link/statute/104/428); [Pub. L. 101–538, § 1](https://www.govinfo.gov/link/plaw/101/public/538), Nov. 8, 1990, [104 Stat. 2376](https://www.govinfo.gov/link/statute/104/2376); [Pub. L. 101–628, title VII, § 703](https://www.govinfo.gov/link/plaw/101/public/628), Nov. 28, 1990, [104 Stat. 4497](https://www.govinfo.gov/link/statute/104/4497); [Pub. L. 102–50, § 3(a)](https://www.govinfo.gov/link/plaw/102/public/50), May 24, 1991, [105 Stat. 254](https://www.govinfo.gov/link/statute/105/254); [Pub. L. 102–214](https://www.govinfo.gov/link/plaw/102/public/214), §§ 2, 3, Dec. 11, 1991, [105 Stat. 1663](https://www.govinfo.gov/link/statute/105/1663); [Pub. L. 102–215](https://www.govinfo.gov/link/plaw/102/public/215), §§ 3, 4, Dec. 11, 1991, [105 Stat. 1664](https://www.govinfo.gov/link/statute/105/1664); [Pub. L. 102–249, § 4](https://www.govinfo.gov/link/plaw/102/public/249), Mar. 3, 1992, [106 Stat. 48](https://www.govinfo.gov/link/statute/106/48); [Pub. L. 102–271, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/271), Apr. 20, 1992, [106 Stat. 110](https://www.govinfo.gov/link/statute/106/110); [Pub. L. 102–301, § 7(a)](https://www.govinfo.gov/link/plaw/102/public/301), June 19, 1992, [106 Stat. 245](https://www.govinfo.gov/link/statute/106/245); [Pub. L. 102–432, § 2](https://www.govinfo.gov/link/plaw/102/public/432), Oct. 23, 1992, [106 Stat. 2213](https://www.govinfo.gov/link/statute/106/2213); [Pub. L. 102–460, § 1(a)](https://www.govinfo.gov/link/plaw/102/public/460), (b), Oct. 23, 1992, [106 Stat. 2270](https://www.govinfo.gov/link/statute/106/2270); [Pub. L. 102–525, title IV, § 401](https://www.govinfo.gov/link/plaw/102/public/525), Oct. 26, 1992, [106 Stat. 3441](https://www.govinfo.gov/link/statute/106/3441); [Pub. L. 103–242, § 3](https://www.govinfo.gov/link/plaw/103/public/242), May 4, 1994, [108 Stat. 611](https://www.govinfo.gov/link/statute/108/611); [Pub. L. 104–311](https://www.govinfo.gov/link/plaw/104/public/311), Oct. 19, 1996, [110 Stat. 3818](https://www.govinfo.gov/link/statute/110/3818); [Pub. L. 104–333, div. I, title IV, § 407(b)](https://www.govinfo.gov/link/plaw/104/public/333), Nov. 12, 1996, [110 Stat. 4152](https://www.govinfo.gov/link/statute/110/4152); [Pub. L. 106–318](https://www.govinfo.gov/link/plaw/106/public/318), §§ 3, 4, Oct. 19, 2000, [114 Stat. 1278](https://www.govinfo.gov/link/statute/114/1278); [Pub. L. 107–65](https://www.govinfo.gov/link/plaw/107/public/65), §§ 3, 4, Nov. 6, 2001, [115 Stat. 484](https://www.govinfo.gov/link/statute/115/484); [Pub. L. 109–370, § 2(a)](https://www.govinfo.gov/link/plaw/109/public/370), Nov. 27, 2006, [120 Stat. 2643](https://www.govinfo.gov/link/statute/120/2643); [Pub. L. 111–11, title V, § 5101(a)](https://www.govinfo.gov/link/plaw/111/public/11), (b), Mar. 30, 2009, [123 Stat. 1153](https://www.govinfo.gov/link/statute/123/1153); [Pub. L. 113–291, div. B, title XXX](https://www.govinfo.gov/link/plaw/113/public/291), §§ 3041(e)(2), 3074, Dec. 19, 2014, [128 Stat. 3791](https://www.govinfo.gov/link/statute/128/3791), 3847; [Pub. L. 117–328, div. DD, title IV](https://www.govinfo.gov/link/plaw/117/public/328), §§ 403(a), (b), 404(a), (b), Dec. 29, 2022, [136 Stat. 5598](https://www.govinfo.gov/link/statute/136/5598), 5599.)*

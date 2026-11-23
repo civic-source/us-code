@@ -3,12 +3,17 @@ title: "Section 4532 - Establishment of National Dairy Research Endowment Instit
 usc_title: 7
 usc_section: "4532"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 4532"
-generated_at: "2026-03-30T02:53:42.408Z"
+generated_at: "2026-11-23T20:25:41.622Z"
+status: "active"
 ---
 
 # § 4532. Establishment of National Dairy Research Endowment Institute
 
 The Secretary of Agriculture may establish in the Department of Agriculture a National Dairy Research Endowment Institute whose function shall be to aid the dairy industry through the implementation of the dairy products research order, which its board of trustees shall administer, and the use of monies made available to its board of trustees from the Dairy Research Trust Fund to implement the order. In implementing the order, the Institute shall provide a permanent system for funding scientific research activities designed to facilitate the expansion of markets for milk and dairy products marketed in the United States. The Institute shall be headed by a board of trustees composed of the members of the National Dairy Promotion and Research Board. The board may appoint from among its members an executive committee whose membership shall reflect equally each of the different regions in the United States in which milk is produced. The executive committee shall have such duties and powers as are delegated to it by the board. The members of the board shall serve without compensation. While away from their homes or regular places of business in the performance of services for the board, members of the board shall be allowed reasonable travel expenses, including a per diem allowance in lieu of subsistence, as recommended by the board and approved by the Secretary, except that there shall be no duplication of payment for such expenses.
 
+
+## Source Credit
+
+*([Pub. L. 98–180, title I, § 131](https://www.govinfo.gov/link/plaw/98/public/180), as added [Pub. L. 99–198, title I, § 121](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1368](https://www.govinfo.gov/link/statute/99/1368).)*

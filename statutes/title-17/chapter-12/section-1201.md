@@ -3,9 +3,10 @@ title: "Section 1201 - Circumvention of copyright protection systems"
 usc_title: 17
 usc_section: "1201"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 1201"
-generated_at: "2026-03-30T02:54:15.356Z"
+generated_at: "2026-11-23T20:26:06.543Z"
+status: "active"
 ---
 
 # § 1201. Circumvention of copyright protection systems
@@ -126,3 +127,81 @@ generated_at: "2026-03-30T02:54:15.356Z"
     - **(D)** The term “professional analog video cassette recorder” means an analog video cassette recorder that is designed, manufactured, marketed, and intended for use by a person who regularly employs such a device for a lawful business or industrial use, including making, performing, displaying, distributing, or transmitting copies of motion pictures on a commercial scale.
     - **(E)** The terms “VHS format”, “8mm format”, “Beta format”, “automatic gain control copy control technology”, “colorstripe copy control technology”, “four-line version of the colorstripe copy control technology”, and “NTSC” have the meanings that are commonly understood in the consumer electronics and motion picture industries as of the date of the enactment of this chapter.
   - **(5)** Any violation of paragraph (1) of this subsection shall be treated as a violation of subsection (b)(1) of this section. Any violation of paragraph (2) of this subsection shall be deemed an “act of circumvention” for the purposes of section 1203(c)(3)(A) of this chapter.
+
+Violations Regarding Circumvention of Technological Measures
+
+Additional Violations
+
+Other Rights, Etc., Not Affected
+
+Exemption for Nonprofit Libraries, Archives, and Educational Institutions
+
+Law Enforcement, Intelligence, and Other Government Activities
+
+Reverse Engineering
+
+Encryption Research.—
+
+Definitions
+
+Permissible acts of encryption research
+
+Factors in determining exemption
+
+Use of technological means for research activities
+
+Report to congress
+
+Exceptions Regarding Minors
+
+Protection of Personally Identifying Information.—
+
+Circumvention permitted
+
+Inapplicability to certain technological measures
+
+Security Testing.—
+
+Definition
+
+Permissible acts of security testing
+
+Factors in determining exemption
+
+Use of technological means for security testing
+
+Certain Analog Devices and Certain Technological Measures.—
+
+Certain analog devices.—
+
+Certain encoding restrictions
+
+Inapplicability
+
+Definitions
+
+Violations
+
+Repeal and Replace
+
+Rulemaking
+
+Unlocking at Direction of Owner
+
+Rule of Construction.—
+
+In general
+
+Librarian of congress
+
+Definitions
+
+Commercial mobile data service; commercial mobile radio service
+
+Wireless telecommunications network
+
+Wireless telephone handsets; wireless devices
+
+## Source Credit
+
+*(Added [Pub. L. 105–304, title I, § 103(a)](https://www.govinfo.gov/link/plaw/105/public/304), Oct. 28, 1998, [112 Stat. 2863](https://www.govinfo.gov/link/statute/112/2863); amended [Pub. L. 106–113, div. B, § 1000(a)(9) [title V, § 5006]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–594.)*

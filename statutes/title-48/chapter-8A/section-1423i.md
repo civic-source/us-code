@@ -3,12 +3,17 @@ title: "Section 1423i - Approval of bills"
 usc_title: 48
 usc_section: "1423i"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1423i"
-generated_at: "2026-03-30T02:56:14.585Z"
+generated_at: "2026-11-23T20:27:28.046Z"
+status: "active"
 ---
 
 # § 1423i. Approval of bills
 
 Every bill passed by the legislature shall, before it becomes a law, be entered upon the journal and presented to the Governor. If he approves it, he shall sign it, but if not he shall, except as hereinafter provided, return it, with his objections, to the legislature within ten days (Sundays excepted) after it shall have been presented to him. If he does not return it within such period, it shall be a law in like manner as if he had signed it, unless the legislature by adjournment prevents its return, in which case it shall be a law if signed by the Governor within thirty days after it shall have been presented to him; otherwise it shall not be a law. When a bill is returned by the Governor to the legislature with his objections, the legislature shall enter his objections at large on its journal and, upon motion of a member of the legislature, proceed to reconsider the bill. If, after such reconsideration, two-thirds of all the members of the legislature pass the bill, it shall be a law. If any bill presented to the Governor contains several items of appropriation of money, he may object to one or more of such items, or any part or parts, portion or portions thereof, while approving the other items, parts, or portions of the bill. In such a case he shall append to the bill at the time of signing it, a statement of the items, or parts or portions thereof, to which he objects, and the items, or parts or portions thereof, so objected to shall not take effect. All laws enacted by the legislature shall be reported by the Governor to the head of the department or agency designated by the President under section 1421a of this title . The Congress of the United States reserves the power and authority to annul the same.
 
+
+## Source Credit
+
+*(Aug. 1, 1950, ch. 512, § 19, [64 Stat. 389](https://www.govinfo.gov/link/statute/64/389); [Pub. L. 90–497, § 8](https://www.govinfo.gov/link/plaw/90/public/497), Sept. 11, 1968, [82 Stat. 847](https://www.govinfo.gov/link/statute/82/847); [Pub. L. 93–608, § 1(14)](https://www.govinfo.gov/link/plaw/93/public/608), Jan. 2, 1975, [88 Stat. 1969](https://www.govinfo.gov/link/statute/88/1969).)*

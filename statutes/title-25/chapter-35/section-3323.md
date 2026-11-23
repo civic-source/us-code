@@ -3,12 +3,17 @@ title: "Section 3323 - Service conditions permitted"
 usc_title: 25
 usc_section: "3323"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3323"
-generated_at: "2026-03-30T02:54:52.851Z"
+generated_at: "2026-11-23T20:26:25.646Z"
+status: "active"
 ---
 
 # § 3323. Service conditions permitted
 
 - **(a)** An eligible Indian tribe or tribal organization may, in accordance with the requirements of this subchapter, require any applicant for federally funded higher education assistance, as a condition of receipt of such assistance, to enter into a critical area service agreement in accordance with section 3324 of this title .
 - **(b)** Any eligible Indian tribe or tribal organization that intends to require critical area service agreements shall, by a formal action of the tribal council or its delegate, designate particular occupational areas as critical areas for the economic or human development needs of the tribe or its members. The tribe or organization shall notify the Secretary of the Interior in writing of such designated critical areas. Such designations shall be applicable to federally funded higher education assistance for any fiscal year following the fiscal year in which the designation is made until such designation is withdrawn by the tribe or organization by formal action. The tribe or organization shall notify the Secretary of the Interior in writing of any designations that are withdrawn.
+
+## Source Credit
+
+*([Pub. L. 102–325, title XIII, § 1323](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 803](https://www.govinfo.gov/link/statute/106/803).)*

@@ -3,9 +3,10 @@ title: "Section 1959 - Violent crimes in aid of racketeering activity"
 usc_title: 18
 usc_section: "1959"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 1959"
-generated_at: "2026-03-30T02:54:16.493Z"
+generated_at: "2026-11-23T20:26:08.546Z"
+status: "active"
 ---
 
 # § 1959. Violent crimes in aid of racketeering activity
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:16.493Z"
 - **(b)** As used in this section—
   - **(1)** “racketeering activity” has the meaning set forth in section 1961 of this title ; and
   - **(2)** “enterprise” includes any partnership, corporation, association, or other legal entity, and any union or group of individuals associated in fact although not a legal entity, which is engaged in, or the activities of which affect, interstate or foreign commerce.
+
+## Source Credit
+
+*(Added [Pub. L. 98–473, title II, § 1002(a)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2137](https://www.govinfo.gov/link/statute/98/2137), § 1952B; renumbered § 1959, [Pub. L. 100–690, title VII, § 7053(b)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4402](https://www.govinfo.gov/link/statute/102/4402); [Pub. L. 103–322, title VI, § 60003(a)(12)](https://www.govinfo.gov/link/plaw/103/public/322), title XXXIII, §§ 330016(1)(J), (2)(C), 330021(1), Sept. 13, 1994, [108 Stat. 1969](https://www.govinfo.gov/link/statute/108/1969), 2147, 2148, 2150.)*

@@ -3,9 +3,10 @@ title: "Section 7904 - Trade-related barriers to export of greenhouse gas intens
 usc_title: 22
 usc_section: "7904"
 chapter: 86
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7904"
-generated_at: "2026-03-30T02:55:05.447Z"
+generated_at: "2026-11-23T20:26:32.692Z"
+status: "active"
 ---
 
 # § 7904. Trade-related barriers to export of greenhouse gas intensity reducing technologies
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:05.447Z"
   - **(1)** identify trade-relations barriers maintained by foreign countries to the export of greenhouse gas intensity reducing technologies and practices from the United States to the developing countries identified in the report submitted under section 7902(a)(2)(A) of this title ; and
   - **(2)** negotiate with foreign countries for the removal of those barriers.
 - **(b)** Not later than 1 year after the date on which a report is submitted under subsection (a)(1) and annually thereafter, the United States Trade Representative shall submit to Congress a report that describes any progress made with respect to removing the barriers identified by the United States Trade Representative under subsection (a)(1).
+
+## Source Credit
+
+*([Pub. L. 101–240, title VII, § 734](https://www.govinfo.gov/link/plaw/101/public/240), as added [Pub. L. 109–58, title XVI, § 1611](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 1115](https://www.govinfo.gov/link/statute/119/1115).)*

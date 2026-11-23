@@ -3,9 +3,10 @@ title: "Section 1936a - Use of rural development loans and grants for other purp
 usc_title: 7
 usc_section: "1936a"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1936a"
-generated_at: "2026-03-30T02:53:42.348Z"
+generated_at: "2026-11-23T20:25:41.356Z"
+status: "active"
 ---
 
 # § 1936a. Use of rural development loans and grants for other purposes
@@ -15,3 +16,7 @@ If, after making a loan or a grant described in section 2009d(d) of this title ,
   - **(1)** will be carried out in the same area as the original project or activity;
   - **(2)** meets the criteria for a loan or a grant described in section 2009d(d) of this title ; and
   - **(3)** satisfies such additional requirements as are established by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 310G](https://www.govinfo.gov/link/plaw/87/public/128), as added [Pub. L. 107–171, title VI, § 6018](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 361](https://www.govinfo.gov/link/statute/116/361).)*

@@ -3,9 +3,10 @@ title: "Section 2702 - Malpractice protection"
 usc_title: 22
 usc_section: "2702"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2702"
-generated_at: "2026-03-30T02:55:05.379Z"
+generated_at: "2026-11-23T20:26:32.378Z"
+status: "active"
 ---
 
 # § 2702. Malpractice protection
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.379Z"
 - **(e)** For purposes of this section, the provisions of section 2680(h) of title 28 , shall not apply to any tort enumerated therein arising out of negligence in the furnishing of medical care or related services, including the conducting of clinical studies or investigations.
 - **(f)** The Secretary may, to the extent he deems appropriate, hold harmless or provide liability insurance for any person to whom the immunity provisions of subsection (a) of this section apply, for damages for personal injury, including death, negligently caused by any such person while acting within the scope of his or her office or employment and as a result of the furnishing of medical care or related services, including the conducting of clinical studies or investigations, if such person is assigned to a foreign area or detailed for service with other than a Federal agency or institution, or if the circumstances are such as are likely to preclude the remedies of third persons against the United States provided by sections 1346(b) and 2672 of title 28, for such damage or injury.
 - **(g)** For purposes of this section, any medical care or related service covered by this section and performed abroad by a covered person at the direction or with the approval of the United States chief of mission or other principal representative of the United States in the area shall be deemed to be within the scope of employment of the individual performing the service.
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title I, § 30, as added [Pub. L. 96–465, title II, § 2201(a)](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2155](https://www.govinfo.gov/link/statute/94/2155); renumbered title I, [Pub. L. 97–241, title II, § 202(a)](https://www.govinfo.gov/link/plaw/97/public/241), Aug. 24, 1982, [96 Stat. 282](https://www.govinfo.gov/link/statute/96/282).)*

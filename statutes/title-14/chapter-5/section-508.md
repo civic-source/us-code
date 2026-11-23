@@ -3,9 +3,10 @@ title: "Section 508 - Coast Guard health-care professionals; licensure portabili
 usc_title: 14
 usc_section: "508"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 508"
-generated_at: "2026-03-30T02:53:51.489Z"
+generated_at: "2026-11-23T20:25:54.526Z"
+status: "active"
 ---
 
 # § 508. Coast Guard health-care professionals; licensure portability
@@ -21,3 +22,13 @@ generated_at: "2026-03-30T02:53:51.489Z"
     - **(A)** has a current license to practice medicine, osteopathic medicine, dentistry, or another health profession; and
     - **(B)** is performing authorized duties for the Coast Guard.
 - **(c)** In this section, the terms “license” and “health-care professional” have the meanings given those terms in section 1094(e) of title 10 .
+
+In General
+
+Described Individuals
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 115–282, title III, § 305(a)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4245](https://www.govinfo.gov/link/statute/132/4245).)*

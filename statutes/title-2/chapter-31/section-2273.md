@@ -3,9 +3,10 @@ title: "Section 2273 - Coins treated as gifts"
 usc_title: 2
 usc_section: "2273"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 2273"
-generated_at: "2026-03-30T02:53:04.827Z"
+generated_at: "2026-11-23T20:25:29.023Z"
+status: "active"
 ---
 
 # § 2273. Coins treated as gifts
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:04.827Z"
 - **(c)** Any amount collected under this section shall first be used to reimburse the Architect of the Capitol for any costs incurred in the collection and processing of the coins, and maintaining fountains under the jurisdiction of the Architect of the Capitol. The amount of any such reimbursement is appropriated to the account from which such costs were paid and may be used for any authorized purpose of that account.
 - **(d)** The Architect of the Capitol shall deposit coins collected under this section in the Miscellaneous Receipts Account of the Capitol Visitor Center Revolving Fund established under section 2231 of this title .
 - **(e)** Amounts deposited in the Miscellaneous Receipts Account of the Capitol Visitor Center Revolving Fund under this section shall be available as provided under section 2233(b) of this title .
+
+## Source Credit
+
+*([Pub. L. 110–437, title V, § 504](https://www.govinfo.gov/link/plaw/110/public/437), Oct. 20, 2008, [122 Stat. 4998](https://www.govinfo.gov/link/statute/122/4998); [Pub. L. 117–103, div. I, title I, § 131](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 516](https://www.govinfo.gov/link/statute/136/516).)*

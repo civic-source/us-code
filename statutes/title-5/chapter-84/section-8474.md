@@ -3,9 +3,10 @@ title: "Section 8474 - Executive Director"
 usc_title: 5
 usc_section: "8474"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8474"
-generated_at: "2026-03-30T02:52:56.063Z"
+generated_at: "2026-11-23T20:25:32.226Z"
+status: "active"
 ---
 
 # § 8474. Executive Director
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:52:56.063Z"
   - **(7)** accept and use the services of individuals employed intermittently in the Government service and reimburse such individuals for travel expenses, as authorized by section 5703 of this title , including per diem as authorized by section 5702 of this title ;
   - **(8)** except as otherwise expressly prohibited by law or the policies of the Board, delegate any of the Executive Director’s functions to such employees under the Board as the Executive Director may designate and authorize such successive redelegations of such functions to such employees under the Board as the Executive Director may consider to be necessary or appropriate; and
   - **(9)** take such other actions as are appropriate to carry out the functions of the Executive Director.
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 580](https://www.govinfo.gov/link/statute/100/580); amended [Pub. L. 109–435, title VI, § 604(b)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3241](https://www.govinfo.gov/link/statute/120/3241).)*

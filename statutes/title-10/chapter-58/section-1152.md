@@ -3,9 +3,10 @@ title: "Section 1152 - Assistance to eligible members and former members to obta
 usc_title: 10
 usc_section: "1152"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1152"
-generated_at: "2026-03-30T02:53:38.111Z"
+generated_at: "2026-11-23T20:25:51.264Z"
+status: "active"
 ---
 
 # § 1152. Assistance to eligible members and former members to obtain employment with law enforcement agencies
@@ -26,3 +27,21 @@ generated_at: "2026-03-30T02:53:38.111Z"
   - **(1)** The Secretary may expand the placement activities authorized by subsection (a) to include the placement of eligible members and former members and eligible civilian employees of the Department of Defense as firefighters or members of rescue squads or ambulance crews with public fire departments.
   - **(2)** The expansion authorized by this subsection may be made through a program covered by an agreement referred to in subsection (a), if feasible, or in such other manner as the Secretary considers appropriate.
   - **(3)** A civilian employee of the Department of Defense shall be eligible to participate in the expanded placement activities authorized under this subsection if the employee, during the six-year period beginning October 1, 1993 , is terminated from such employment as a result of reductions in defense spending or the closure or realignment of a military installation, as determined by the Secretary of Defense.
+
+Placement Program
+
+Eligible Members
+
+Selection
+
+Grants To Facilitate Employment
+
+Administrative Expenses
+
+Requirement for Appropriation
+
+Authority To Expand Placement To Include Firefighters
+
+## Source Credit
+
+*(Added [Pub. L. 103–160, div. A, title XIII, § 1332(a)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1793](https://www.govinfo.gov/link/statute/107/1793); amended [Pub. L. 103–337, div. A, title V, § 543(d)](https://www.govinfo.gov/link/plaw/103/public/337), title XI, § 1132(a)(1), Oct. 5, 1994, [108 Stat. 2771](https://www.govinfo.gov/link/statute/108/2771), 2872; [Pub. L. 104–106, div. A, title XV, § 1503(a)(11)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 511](https://www.govinfo.gov/link/statute/110/511); [Pub. L. 104–201, div. A, title V, § 575](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2535](https://www.govinfo.gov/link/statute/110/2535); [Pub. L. 105–85, div. A, title X, § 1073(a)(20)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1901](https://www.govinfo.gov/link/statute/111/1901); [Pub. L. 107–296, title XVII, § 1704(b)(1)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314).)*

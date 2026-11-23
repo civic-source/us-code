@@ -3,9 +3,10 @@ title: "Section 907 - Limitation on exclusive rights: innocent infringement"
 usc_title: 17
 usc_section: "907"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 907"
-generated_at: "2026-03-30T02:54:15.355Z"
+generated_at: "2026-11-23T20:26:06.537Z"
+status: "active"
 ---
 
 # § 907. Limitation on exclusive rights: innocent infringement
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:15.355Z"
 - **(b)** The amount of the royalty referred to in subsection (a)(2) shall be determined by the court in a civil action for infringement unless the parties resolve the issue by voluntary negotiation, mediation, or binding arbitration.
 - **(c)** The immunity of an innocent purchaser from liability referred to in subsection (a)(1) and the limitation of remedies with respect to an innocent purchaser referred to in subsection (a)(2) shall extend to any person who directly or indirectly purchases an infringing semi­conductor chip product from an innocent purchaser.
 - **(d)** The provisions of subsections (a), (b), and (c) apply only with respect to those units of an infringing semiconductor chip product that an innocent purchaser purchased before having notice of protection with respect to the mask work embodied in the semiconductor chip product.
+
+## Source Credit
+
+*(Added [Pub. L. 98–620, title III, § 302](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3350](https://www.govinfo.gov/link/statute/98/3350).)*

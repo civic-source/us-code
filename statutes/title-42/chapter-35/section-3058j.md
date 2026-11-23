@@ -3,9 +3,10 @@ title: "Section 3058j - State legal assistance development"
 usc_title: 42
 usc_section: "3058j"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3058j"
-generated_at: "2026-03-30T02:56:11.181Z"
+generated_at: "2026-11-23T20:27:22.251Z"
+status: "active"
 ---
 
 # § 3058j. State legal assistance development
@@ -18,3 +19,7 @@ A State agency shall provide the services of an individual who shall be known as
   - **(4)** State capacity to promote financial management services to older individuals at risk of conservatorship;
   - **(5)** State capacity to assist older individuals in understanding their rights, exercising choices, benefiting from services and opportunities authorized by law, and maintaining the rights of older individuals at risk of guardianship; and
   - **(6)** State capacity to improve the quality and quantity of legal services provided to older individuals.
+
+## Source Credit
+
+*([Pub. L. 89–73, title VII, § 731](https://www.govinfo.gov/link/plaw/89/public/73), as added [Pub. L. 106–501, title VII, § 706](https://www.govinfo.gov/link/plaw/106/public/501), Nov. 13, 2000, [114 Stat. 2291](https://www.govinfo.gov/link/statute/114/2291).)*

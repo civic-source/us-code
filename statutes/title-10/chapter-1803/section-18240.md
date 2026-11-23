@@ -3,9 +3,10 @@ title: "Section 18240 - Acquisition of facilities by exchange"
 usc_title: 10
 usc_section: "18240"
 chapter: 1803
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 18240"
-generated_at: "2026-03-30T02:53:38.279Z"
+generated_at: "2026-11-23T20:25:52.501Z"
+status: "active"
 ---
 
 # § 18240. Acquisition of facilities by exchange
@@ -30,3 +31,21 @@ generated_at: "2026-03-30T02:53:38.279Z"
   - **(2)** The agreement described in a report prepared under paragraph (1) may be entered into, and the exchange covered by the agreement made, only after the end of the 21-day period beginning on the date the report is received by the congressional defense committees in an electronic medium pursuant to section 480 of this title .
   - **(3)** Section 2662 of this title shall not apply to an exchange carried out using the authority provided by this section.
 - **(g)** The acquisition of a facility, or an addition to an existing facility, using the authority provided by this section shall not be treated as a military construction project for which an authorization is required by section 2802 of this title .
+
+Exchange Authority
+
+Facilities Eligible for Exchange
+
+Equal Value Exchange
+
+Requirements for Replacement Facilities
+
+Consultation Requirements
+
+Advance Notice of Proposed Exchange
+
+Relation to Other Military Construction Requirements
+
+## Source Credit
+
+*(Added [Pub. L. 108–375, div. B, title XXVIII, § 2809(a)(1)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2125](https://www.govinfo.gov/link/statute/118/2125); amended [Pub. L. 109–163, div. B, title XXVIII, § 2808(a)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3508](https://www.govinfo.gov/link/statute/119/3508); [Pub. L. 110–181, div. B, title XXVIII, § 2807](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 541](https://www.govinfo.gov/link/statute/122/541); [Pub. L. 115–91, div. B, title XXVIII, § 2801(g)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1845](https://www.govinfo.gov/link/statute/131/1845).)*

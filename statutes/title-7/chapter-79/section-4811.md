@@ -3,9 +3,10 @@ title: "Section 4811 - Referendum"
 usc_title: 7
 usc_section: "4811"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 4811"
-generated_at: "2026-03-30T02:53:42.412Z"
+generated_at: "2026-11-23T20:25:41.635Z"
+status: "active"
 ---
 
 # § 4811. Referendum
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:42.412Z"
 - **(c)** The Secretary shall be reimbursed from assessments collected by the Board for any expenses incurred in connection with a referendum conducted under this section or section 4812 of this title .
 - **(d)** A referendum shall be conducted in such manner as prescribed by the Secretary.
 - **(e)** A referendum to amend the initial order shall be conducted pursuant to this section.
+
+## Source Credit
+
+*([Pub. L. 99–198, title XVI, § 1622](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1618](https://www.govinfo.gov/link/statute/99/1618).)*

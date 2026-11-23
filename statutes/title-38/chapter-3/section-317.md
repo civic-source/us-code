@@ -3,9 +3,10 @@ title: "Section 317 - Center for Minority Veterans"
 usc_title: 38
 usc_section: "317"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 317"
-generated_at: "2026-03-30T02:55:53.470Z"
+generated_at: "2026-11-23T20:27:01.559Z"
+status: "active"
 ---
 
 # § 317. Center for Minority Veterans
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:53.470Z"
 - **(g)** In this section—
   - **(1)** The term “veterans who are minorities” means veterans who are minority group members.
   - **(2)** The term “minority group member” has the meaning given such term in section 544(d) of this title .
+
+## Source Credit
+
+*(Added [Pub. L. 103–446, title V, § 509(a)](https://www.govinfo.gov/link/plaw/103/public/446), Nov. 2, 1994, [108 Stat. 4665](https://www.govinfo.gov/link/statute/108/4665); amended [Pub. L. 104–275, title V, § 501(a)](https://www.govinfo.gov/link/plaw/104/public/275) –(c), Oct. 9, 1996, [110 Stat. 3340](https://www.govinfo.gov/link/statute/110/3340).)*

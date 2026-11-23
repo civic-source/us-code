@@ -3,9 +3,10 @@ title: "Section 1141h - Examination of and opposition to request for extension o
 usc_title: 15
 usc_section: "1141h"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1141h"
-generated_at: "2026-03-30T02:54:08.128Z"
+generated_at: "2026-11-23T20:26:03.969Z"
+status: "active"
 ---
 
 # § 1141h. Examination of and opposition to request for extension of protection; notification of refusal
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:08.128Z"
   - **(3)** If a notification of refusal of a request for extension of protection is transmitted under paragraph (1) or (2), no grounds for refusal of such request other than those set forth in such notification may be transmitted to the International Bureau by the Director after the expiration of the time periods set forth in paragraph (1) or (2), as the case may be.
   - **(4)** If a notification specified in paragraph (1) or (2) is not sent to the International Bureau within the time period set forth in such paragraph, with respect to a request for extension of protection, the request for extension of protection shall not be refused and the Director shall issue a certificate of extension of protection pursuant to the request.
 - **(d)** In responding to a notification of refusal with respect to a mark, the holder of the international registration of the mark may designate, by a document filed in the United States Patent and Trademark Office, the name and address of a person residing in the United States on whom notices or process in proceedings affecting the mark may be served. Such notices or process may be served upon the person designated by leaving with that person, or mailing to that person, a copy thereof at the address specified in the last designation filed. If the person designated cannot be found at the address given in the last designation, or if the holder does not designate by a document filed in the United States Patent and Trademark Office the name and address of a person residing in the United States for service of notices or process in proceedings affecting the mark, the notice or process may be served on the Director.
+
+## Source Credit
+
+*(July 5, 1946, ch. 540, title XII, § 68, as added [Pub. L. 107–273, div. C, title III, § 13402](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1917](https://www.govinfo.gov/link/statute/116/1917).)*

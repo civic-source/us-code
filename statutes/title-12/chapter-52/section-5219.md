@@ -3,9 +3,10 @@ title: "Section 5219 - Foreclosure mitigation efforts"
 usc_title: 12
 usc_section: "5219"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5219"
-generated_at: "2026-03-30T02:53:53.525Z"
+generated_at: "2026-11-23T20:25:59.451Z"
+status: "active"
 ---
 
 # § 5219. Foreclosure mitigation efforts
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:53.525Z"
   - **(2)** The Secretary shall not be required to apply executive compensation restrictions under section 5221 of this title , or to receive warrants or debt instruments under section 5223 of this title , solely in connection with any loan modification under this section.
 - **(b)** The Secretary shall coordinate with the Corporation, the Board (with respect to any mortgage or mortgage-backed securities or pool of securities held, owned, or controlled by or on behalf of a Federal reserve bank, as provided in section 5220(a)(1)(C) of this title ), the Federal Housing Finance Agency, the Secretary of Housing and Urban Development, and other Federal Government entities that hold troubled assets to attempt to identify opportunities for the acquisition of classes of troubled assets that will improve the ability of the Secretary to improve the loan modification and restructuring process and, where permissible, to permit bona fide tenants who are current on their rent to remain in their homes under the terms of the lease. In the case of a mortgage on a residential rental property, the plan required under this section shall include protecting Federal, State, and local rental subsidies and protections, and ensuring any modification takes into account the need for operating funds to maintain decent and safe conditions at the property.
 - **(c)** Upon any request arising under existing investment contracts, the Secretary shall consent, where appropriate, and considering net present value to the taxpayer, to reasonable requests for loss mitigation measures, including term extensions, rate reductions, principal write downs, increases in the proportion of loans within a trust or other structure allowed to be modified, or removal of other limitation on modifications.
+
+## Source Credit
+
+*([Pub. L. 110–343, div. A, title I, § 109](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3774](https://www.govinfo.gov/link/statute/122/3774); [Pub. L. 111–5, div. B, title VII, § 7002](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 521](https://www.govinfo.gov/link/statute/123/521); [Pub. L. 115–174, title III, § 305](https://www.govinfo.gov/link/plaw/115/public/174), May 24, 2018, [132 Stat. 1339](https://www.govinfo.gov/link/statute/132/1339).)*

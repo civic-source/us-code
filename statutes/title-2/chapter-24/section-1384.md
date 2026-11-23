@@ -3,9 +3,10 @@ title: "Section 1384 - Substantive regulations"
 usc_title: 2
 usc_section: "1384"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1384"
-generated_at: "2026-03-30T02:53:04.812Z"
+generated_at: "2026-11-23T20:25:28.962Z"
+status: "active"
 ---
 
 # § 1384. Substantive regulations
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:53:04.812Z"
     - **(C)** the Federal Labor Relations Authority; and
     - **(D)** the Director of the Office of Personnel Management; and
   - **(2)** may consult with any other persons with whom consultation, in the opinion of the Board, the Executive Director, or Deputy Directors, may be helpful.
+
+## Source Credit
+
+*([Pub. L. 104–1, title III, § 304](https://www.govinfo.gov/link/plaw/104/public/1), Jan. 23, 1995, [109 Stat. 29](https://www.govinfo.gov/link/statute/109/29); [Pub. L. 115–397, title III, § 308(b)(12)](https://www.govinfo.gov/link/plaw/115/public/397), (13), Dec. 21, 2018, [132 Stat. 5326](https://www.govinfo.gov/link/statute/132/5326).)*

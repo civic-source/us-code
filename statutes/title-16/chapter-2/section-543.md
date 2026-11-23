@@ -3,12 +3,17 @@ title: "Section 543 - Mono Basin National Forest Scenic Area; establishment"
 usc_title: 16
 usc_section: "543"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 543"
-generated_at: "2026-03-30T02:54:22.869Z"
+generated_at: "2026-11-23T20:26:20.125Z"
+status: "active"
 ---
 
 # § 543. Mono Basin National Forest Scenic Area; establishment
 
 The area in the Mono Basin within and adjacent to the Inyo National Forest in the State of California, as generally depicted on a map entitled “Mono Basin National Forest Scenic Area” dated June 1983, and numbered 1983–3, is hereby designated as the Mono Basin National Forest Scenic Area (hereafter in sections 543 to 543h of this title referred to as the “Scenic Area”). Such map shall be on file and available for public inspection in the office of the Forest Supervisor, Inyo National Forest and in the office of the Chief of the Forest Service, Department of Agriculture. The Secretary of Agriculture (hereinafter in sections 543 to 543h of this title referred to as the “Secretary”) may make minor revisions in the boundary of the Scenic Area after publication of notice to that effect in the Federal Register and submission of notice thereof to the Committee on Natural Resources of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate. Such notice shall be published and submitted at least sixty days before the revision is made.
 
+
+## Source Credit
+
+*([Pub. L. 98–425, title III, § 301](https://www.govinfo.gov/link/plaw/98/public/425), Sept. 28, 1984, [98 Stat. 1632](https://www.govinfo.gov/link/statute/98/1632); [Pub. L. 103–437, § 6(d)(33)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4584](https://www.govinfo.gov/link/statute/108/4584).)*

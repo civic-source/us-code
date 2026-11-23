@@ -3,9 +3,10 @@ title: "Section 213 - Declaration of policy and purpose"
 usc_title: 27
 usc_section: "213"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "27 U.S.C. § 213"
-generated_at: "2026-03-30T02:55:15.105Z"
+generated_at: "2026-11-23T20:26:34.227Z"
+status: "active"
 ---
 
 # § 213. Declaration of policy and purpose
@@ -17,3 +18,7 @@ The Congress finds that the American public should be informed about the health 
     - **(A)** protected to the maximum extent consistent with this declared policy,
     - **(B)** not impeded by diverse, nonuniform, and confusing requirements for warnings or other information on alcoholic beverage containers with respect to any relationship between the consumption or abuse of alcoholic beverages and health, and
     - **(C)** protected from the adverse effects that would result from a noncomprehensive program covering alcoholic beverage containers sold in interstate commerce, but not alcoholic beverage containers manufactured and sold within a single State.
+
+## Source Credit
+
+*(Aug. 29, 1935, ch. 814, title II, § 202, as added [Pub. L. 100–690, title VIII, § 8001(a)(3)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4518](https://www.govinfo.gov/link/statute/102/4518).)*

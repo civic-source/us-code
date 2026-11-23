@@ -3,9 +3,10 @@ title: "Section 390a - Review process"
 usc_title: 7
 usc_section: "390a"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 390a"
-generated_at: "2026-03-30T02:53:42.283Z"
+generated_at: "2026-11-23T20:25:41.025Z"
+status: "active"
 ---
 
 # § 390a. Review process
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:42.283Z"
   - **(1)** evaluate and assess the merits of the proposal, including the extent to which the proposal meets the criteria set forth in subsection (c); and
   - **(2)** report to the congressional agriculture committees on the results of the evaluation and assessment.
 - **(e)** The Secretary shall ensure that each research activity conducted by a facility of the Agricultural Research Service serves a national or multistate need.
+
+## Source Credit
+
+*([Pub. L. 88–74, § 3](https://www.govinfo.gov/link/plaw/88/public/74), as added [Pub. L. 104–127, title VIII, § 884(a)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1177](https://www.govinfo.gov/link/statute/110/1177); amended [Pub. L. 105–185, title I, § 106(a)](https://www.govinfo.gov/link/plaw/105/public/185), (b), June 23, 1998, [112 Stat. 530](https://www.govinfo.gov/link/statute/112/530); [Pub. L. 115–334, title VII, § 7503(a)(2)](https://www.govinfo.gov/link/plaw/115/public/334), (b), Dec. 20, 2018, [132 Stat. 4821](https://www.govinfo.gov/link/statute/132/4821).)*

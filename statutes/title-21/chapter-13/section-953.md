@@ -3,9 +3,10 @@ title: "Section 953 - Exportation of controlled substances"
 usc_title: 21
 usc_section: "953"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 953"
-generated_at: "2026-03-30T02:54:54.298Z"
+generated_at: "2026-11-23T20:26:27.856Z"
+status: "active"
 ---
 
 # § 953. Exportation of controlled substances
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:54:54.298Z"
 - **(g)** Subject to paragraphs (5) and (6) of subsection (f) in the case of any controlled substance in schedule I or II or any narcotic drug in schedule III or IV, the Attorney General shall not promulgate nor enforce any regulation, subregulatory guidance, or enforcement policy which impedes re-exportation of any controlled substance among European Economic Area countries, including by promulgating or enforcing any requirement that—
   - **(1)** re-exportation from the first country to the second country or re-exportation from the second country to another country occur within a specified period of time; or
   - **(2)** information concerning the consignee, country, and product be provided prior to exportation of the controlled substance from the United States or prior to each re-exportation among members of the European Economic Area.
+
+## Source Credit
+
+*([Pub. L. 91–513, title III, § 1003](https://www.govinfo.gov/link/plaw/91/public/513), Oct. 27, 1970, [84 Stat. 1286](https://www.govinfo.gov/link/statute/84/1286); [Pub. L. 95–633, title I, § 106](https://www.govinfo.gov/link/plaw/95/public/633), Nov. 10, 1978, [92 Stat. 3772](https://www.govinfo.gov/link/statute/92/3772); [Pub. L. 98–473, title II, § 522](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2076](https://www.govinfo.gov/link/statute/98/2076); [Pub. L. 109–57, § 1(b)](https://www.govinfo.gov/link/plaw/109/public/57), Aug. 2, 2005, [119 Stat. 592](https://www.govinfo.gov/link/statute/119/592); [Pub. L. 114–89, § 4](https://www.govinfo.gov/link/plaw/114/public/89), Nov. 25, 2015, [129 Stat. 701](https://www.govinfo.gov/link/statute/129/701).)*

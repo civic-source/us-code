@@ -3,9 +3,10 @@ title: "Section 812 - Schedules of controlled substances"
 usc_title: 21
 usc_section: "812"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 812"
-generated_at: "2026-03-30T02:54:54.291Z"
+generated_at: "2026-11-23T20:26:27.818Z"
+status: "active"
 ---
 
 # § 812. Schedules of controlled substances
@@ -233,3 +234,57 @@ generated_at: "2026-03-30T02:54:54.291Z"
   - **(9)** Paraldehyde.
   - **(10)** Petrichloral.
   - **(11)** Phenobarbital.
+
+Schedule I.—
+
+Schedule II.—
+
+Schedule III.—
+
+Schedule IV.—
+
+Schedule V.—
+
+Schedule I
+
+Schedule II
+
+Schedule III
+
+Schedule V
+
+(1) Not more than 200 milligrams of codeine per 100 milliliters or per 100 grams.
+
+(2) Not more than 100 milligrams of dihydrocodeine per 100 milliliters or per 100 grams.
+
+(3) Not more than 100 milligrams of ethylmorphine per 100 milliliters or per 100 grams.
+
+(4) Not more than 2.5 milligrams of diphenoxylate and not less than 25 micrograms of atropine sulfate per dosage unit.
+
+(5) Not more than 100 milligrams of opium per 100 milliliters or per 100 grams.
+
+Schedule IV
+
+Interim Final Rules
+
+Procedure for Final Rule.—
+
+Effectiveness of interim final rules
+
+Opportunity for comment and hearing
+
+Final rule
+
+Secretary of HHS
+
+Attorney General
+
+Emergency Scheduling of GHB.—
+
+In general
+
+Failure to issue order
+
+## Source Credit
+
+*([Pub. L. 91–513, title II, § 202](https://www.govinfo.gov/link/plaw/91/public/513), Oct. 27, 1970, [84 Stat. 1247](https://www.govinfo.gov/link/statute/84/1247); [Pub. L. 95–633, title I, § 103](https://www.govinfo.gov/link/plaw/95/public/633), Nov. 10, 1978, [92 Stat. 3772](https://www.govinfo.gov/link/statute/92/3772); [Pub. L. 98–473, title II](https://www.govinfo.gov/link/plaw/98/public/473), §§ 507(c), 509(b), Oct. 12, 1984, [98 Stat. 2071](https://www.govinfo.gov/link/statute/98/2071), 2072; [Pub. L. 99–570, title I, § 1867](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–55](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 99–646, § 84](https://www.govinfo.gov/link/plaw/99/public/646), Nov. 10, 1986, [100 Stat. 3619](https://www.govinfo.gov/link/statute/100/3619); [Pub. L. 101–647, title XIX, § 1902(a)](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4851](https://www.govinfo.gov/link/statute/104/4851); [Pub. L. 112–144, title XI, § 1152](https://www.govinfo.gov/link/plaw/112/public/144), July 9, 2012, [126 Stat. 1130](https://www.govinfo.gov/link/statute/126/1130); [Pub. L. 115–334, title XII, § 12619(b)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 5018](https://www.govinfo.gov/link/statute/132/5018); [Pub. L. 119–26, § 2](https://www.govinfo.gov/link/plaw/119/public/26), July 16, 2025, [139 Stat. 410](https://www.govinfo.gov/link/statute/139/410).)*

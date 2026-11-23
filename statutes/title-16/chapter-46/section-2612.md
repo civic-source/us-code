@@ -3,9 +3,10 @@ title: "Section 2612 - Coverage"
 usc_title: 16
 usc_section: "2612"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 2612"
-generated_at: "2026-03-30T02:54:23.004Z"
+generated_at: "2026-11-23T20:26:20.611Z"
+status: "active"
 ---
 
 # § 2612. Coverage
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:23.004Z"
 - **(a)** This chapter applies to each electric utility in any calendar year, and to each proceeding relating to each electric utility in such year, if the total sales of electric energy by such utility for purposes other than resale exceeded 500 million kilowatt-hours during any calendar year beginning after December 31, 1975 , and before the immediately preceding calendar year.
 - **(b)** The requirements of this chapter do not apply to the operations of an electric utility, or to proceedings respecting such operations, to the extent that such operations or proceedings relate to sales of electric energy for purposes of resale.
 - **(c)** Before the beginning of each calendar year, the Secretary shall publish a list identifying each electric utility to which this chapter applies during such calendar year. Promptly after publication of such list each State regulatory authority shall notify the Secretary of each electric utility on the list for which such State regulatory authority has ratemaking authority.
+
+## Source Credit
+
+*([Pub. L. 95–617, title I, § 102](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3121](https://www.govinfo.gov/link/statute/92/3121).)*

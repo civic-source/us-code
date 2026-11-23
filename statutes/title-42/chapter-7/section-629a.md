@@ -3,9 +3,10 @@ title: "Section 629a - Definitions"
 usc_title: 42
 usc_section: "629a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 629a"
-generated_at: "2026-03-30T02:56:10.877Z"
+generated_at: "2026-11-23T20:27:20.857Z"
+status: "active"
 ---
 
 # § 629a. Definitions
@@ -66,3 +67,11 @@ generated_at: "2026-03-30T02:56:10.877Z"
 - **(c)**
   - **(1)** The services referred to in subsection (a) may include the means of access to and use of an electronic or digital portal to facilitate the provision of community support to care for and meet specific needs of families and children.
   - **(2)** Such a portal shall not retain or share personally identifiable information about a beneficiary without consent or for any purpose other than referral.
+
+Tribal organization
+
+Indian tribe
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 431, as added [Pub. L. 103–66, title XIII, § 13711(a)(2)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 650](https://www.govinfo.gov/link/statute/107/650); amended [Pub. L. 105–89, title III, § 305(b)(2)](https://www.govinfo.gov/link/plaw/105/public/89), (c)(2), (d)(1), Nov. 19, 1997, [111 Stat. 2131](https://www.govinfo.gov/link/statute/111/2131), 2132; [Pub. L. 106–169, title IV, § 401(e)](https://www.govinfo.gov/link/plaw/106/public/169), Dec. 14, 1999, [113 Stat. 1858](https://www.govinfo.gov/link/statute/113/1858); [Pub. L. 107–133, title I, § 102](https://www.govinfo.gov/link/plaw/107/public/133), Jan. 17, 2002, [115 Stat. 2415](https://www.govinfo.gov/link/statute/115/2415); [Pub. L. 109–288, § 11(c)](https://www.govinfo.gov/link/plaw/109/public/288), Sept. 28, 2006, [120 Stat. 1255](https://www.govinfo.gov/link/statute/120/1255); [Pub. L. 112–34, title I, § 102(c)](https://www.govinfo.gov/link/plaw/112/public/34), (d), Sept. 30, 2011, [125 Stat. 371](https://www.govinfo.gov/link/statute/125/371), 372; [Pub. L. 115–123, div. E, title VII](https://www.govinfo.gov/link/plaw/115/public/123), §§ 50721(a), 50751(a), Feb. 9, 2018, [132 Stat. 245](https://www.govinfo.gov/link/statute/132/245), 262; [Pub. L. 118–258, title I](https://www.govinfo.gov/link/plaw/118/public/258), §§ 106(a), (b), 107(a)(3)(B), 110(a), 111(a), 113(b), Jan. 4, 2025, [138 Stat. 2951](https://www.govinfo.gov/link/statute/138/2951), 2955, 2959, 2961, 2967.)*

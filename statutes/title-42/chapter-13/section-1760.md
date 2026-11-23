@@ -3,9 +3,10 @@ title: "Section 1760 - Miscellaneous provisions"
 usc_title: 42
 usc_section: "1760"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1760"
-generated_at: "2026-03-30T02:56:11.110Z"
+generated_at: "2026-11-23T20:27:21.861Z"
+status: "active"
 ---
 
 # § 1760. Miscellaneous provisions
@@ -142,3 +143,75 @@ generated_at: "2026-03-30T02:56:11.110Z"
     - **(B)** All revenue from the sale of nonprogram foods shall accrue to the nonprofit school food service account of a participating school food authority.
     - **(C)** This subsection shall be effective beginning on July 1, 2011 .
 - **(r)** Any school, institution, service institution, facility, or individual that has been terminated from any program authorized under this chapter or the Child Nutrition Act of 1966 ( 42 U.S.C. 1771 et seq.) and is on a list of disqualified institutions and individuals under section 1761 of this title or section 1766(d)(5)(E) of this title may not be approved to participate in or administer any program authorized under this chapter or the Child Nutrition Act of 1966 ( 42 U.S.C. 1771 et seq.).
+
+Child.—
+
+In general
+
+Relationship to child and adult care food program
+
+Disability
+
+Local educational agency.—
+
+In general
+
+Inclusion
+
+In general
+
+Sunset
+
+In General
+
+Allowable Increase in Federal Costs
+
+Termination After Periodic Review
+
+Qualified COVID–
+
+Waiver
+
+Nationwide Waiver.—
+
+In general
+
+State election
+
+Child and Adult Care Food Program Waiver
+
+Meal Pattern Waiver
+
+Reports
+
+Sunset
+
+Nationwide waivers
+
+Waiver restriction
+
+Other waivers
+
+Child and adult care food program waiver
+
+Meal pattern waiver
+
+Limitations
+
+Definitions
+
+Qualified program
+
+Secretary
+
+State
+
+Enforcement
+
+Requirement
+
+Report
+
+## Source Credit
+
+*(June 4, 1946, ch. 281, § 12, formerly § 11, [60 Stat. 233](https://www.govinfo.gov/link/statute/60/233); July 12, 1952, ch. 699, § 1(c), [66 Stat. 591](https://www.govinfo.gov/link/statute/66/591); [Pub. L. 87–688, § 3(a)](https://www.govinfo.gov/link/plaw/87/public/688), Sept. 25, 1962, [76 Stat. 587](https://www.govinfo.gov/link/statute/76/587); renumbered § 12 and amended [Pub. L. 87–823, § 5](https://www.govinfo.gov/link/plaw/87/public/823), Oct. 15, 1962, [76 Stat. 945](https://www.govinfo.gov/link/statute/76/945); [Pub. L. 91–248, § 1(b)](https://www.govinfo.gov/link/plaw/91/public/248), May 14, 1970, [84 Stat. 208](https://www.govinfo.gov/link/statute/84/208); [Pub. L. 94–105, § 9](https://www.govinfo.gov/link/plaw/94/public/105), Oct. 7, 1975, [89 Stat. 514](https://www.govinfo.gov/link/statute/89/514); [Pub. L. 95–166](https://www.govinfo.gov/link/plaw/95/public/166), §§ 3, 19(c), Nov. 10, 1977, [91 Stat. 1332](https://www.govinfo.gov/link/statute/91/1332), 1345; [Pub. L. 95–627](https://www.govinfo.gov/link/plaw/95/public/627), §§ 6(a), 10(a), (b), Nov. 10, 1978, [92 Stat. 3620](https://www.govinfo.gov/link/statute/92/3620), 3623; [Pub. L. 96–499, title II, § 205](https://www.govinfo.gov/link/plaw/96/public/499), Dec. 5, 1980, [94 Stat. 2601](https://www.govinfo.gov/link/statute/94/2601); [Pub. L. 97–35, title VIII](https://www.govinfo.gov/link/plaw/97/public/35), §§ 808(a), 813(d), 819(c), Aug. 13, 1981, [95 Stat. 527](https://www.govinfo.gov/link/statute/95/527), 530, 533; [Pub. L. 99–500, title III](https://www.govinfo.gov/link/plaw/99/public/500), §§ 325(a), 326, 373(a), Oct. 18, 1986, [100 Stat. 1783–361](https://www.govinfo.gov/link/statute/100/1783), 1783–369, and [Pub. L. 99–591, title III](https://www.govinfo.gov/link/plaw/99/public/591), §§ 325(a), 326, 373(a), Oct. 30, 1986, [100 Stat. 3341–364](https://www.govinfo.gov/link/statute/100/3341), 3341–365, 3341–372; [Pub. L. 99–661, div. D, title II](https://www.govinfo.gov/link/plaw/99/public/661), §§ 4205(a), 4206, title V, § 4503(a), Nov. 14, 1986, [100 Stat. 4072](https://www.govinfo.gov/link/statute/100/4072), 4073, 4081; [Pub. L. 100–71, title I, § 101(a)](https://www.govinfo.gov/link/plaw/100/public/71), July 11, 1987, [101 Stat. 429](https://www.govinfo.gov/link/statute/101/429); [Pub. L. 101–147, title III](https://www.govinfo.gov/link/plaw/101/public/147), §§ 306, 312(1), Nov. 10, 1989, [103 Stat. 914](https://www.govinfo.gov/link/statute/103/914), 916; [Pub. L. 103–448, title I](https://www.govinfo.gov/link/plaw/103/public/448), §§ 112(a)(1), (b)–(d), 113, Nov. 2, 1994, [108 Stat. 4708–4712](https://www.govinfo.gov/link/statute/108/4708); [Pub. L. 104–193, title VII](https://www.govinfo.gov/link/plaw/104/public/193), §§ 701(b), 705, Aug. 22, 1996, [110 Stat. 2288](https://www.govinfo.gov/link/statute/110/2288), 2290; [Pub. L. 105–336, title I](https://www.govinfo.gov/link/plaw/105/public/336), §§ 104, 107(j)(3)(A), Oct. 31, 1998, [112 Stat. 3147](https://www.govinfo.gov/link/statute/112/3147), 3153; [Pub. L. 106–224, title II, § 242(b)(3)](https://www.govinfo.gov/link/plaw/106/public/224), June 20, 2000, [114 Stat. 412](https://www.govinfo.gov/link/statute/114/412); [Pub. L. 107–171, title IV, § 4304](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 331](https://www.govinfo.gov/link/statute/116/331); [Pub. L. 108–265, title I](https://www.govinfo.gov/link/plaw/108/public/265), §§ 108(b), 114, 115, title II, § 203(i)(2), June 30, 2004, [118 Stat. 746](https://www.govinfo.gov/link/statute/118/746), 748, 780; [Pub. L. 111–296, title II](https://www.govinfo.gov/link/plaw/111/public/296), §§ 205, 206, title III, §§ 361, 362, title IV, §§ 403, 441(a)(4), Dec. 13, 2010, [124 Stat. 3218](https://www.govinfo.gov/link/statute/124/3218), 3220, 3258, 3259, 3261; [Pub. L. 114–95, title IX, § 9215(nnn)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2188](https://www.govinfo.gov/link/statute/129/2188); [Pub. L. 117–328, div. HH, title IV, § 502(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5988](https://www.govinfo.gov/link/statute/136/5988).)*

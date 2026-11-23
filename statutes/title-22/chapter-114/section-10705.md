@@ -3,9 +3,10 @@ title: "Section 10705 - Democratic and economic development and prosperity initi
 usc_title: 22
 usc_section: "10705"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 10705"
-generated_at: "2026-03-30T02:55:05.480Z"
+generated_at: "2026-11-23T20:26:32.833Z"
+status: "active"
 ---
 
 # § 10705. Democratic and economic development and prosperity initiatives
@@ -82,3 +83,7 @@ generated_at: "2026-03-30T02:55:05.480Z"
     - **(A)** an assessment of the benefits of providing sovereign loan guarantees to countries in the Western Balkans to support infrastructure and energy diversification projects;
     - **(B)** an outline of additional resources, such as tools, funding, and personnel, which may be required to offer sovereign loan guarantees in the Western Balkans; and
     - **(C)** an assessment of how the United States International Development Finance Corporation, in coordination with the United States Trade and Development Agency and the Export-Import Bank of the United States, can deploy its insurance products in support of bonds or other instruments issued to raise capital through United States financial markets in the Western Balkans.
+
+## Source Credit
+
+*([Pub. L. 119–60, div. H, title LXXXIII, § 8336](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1870](https://www.govinfo.gov/link/statute/139/1870).)*

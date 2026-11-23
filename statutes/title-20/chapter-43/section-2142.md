@@ -3,9 +3,10 @@ title: "Section 2142 - Establishment of program at American Folklife Center to c
 usc_title: 20
 usc_section: "2142"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 2142"
-generated_at: "2026-03-30T02:54:48.172Z"
+generated_at: "2026-11-23T20:26:14.687Z"
+status: "active"
 ---
 
 # § 2142. Establishment of program at American Folklife Center to collect video and audio recordings of histories of veterans
@@ -19,3 +20,13 @@ generated_at: "2026-03-30T02:54:48.172Z"
 - **(b)** The Director may carry out the activities described in paragraphs (1) and (3) of subsection (a) through agreements and partnerships entered into with other government and private entities, and may otherwise consult with interested persons (within the limits of available resources) and develop appropriate guidelines and arrangements for soliciting, acquiring, and making available recordings under the program under this subchapter.
 - **(c)** As soon as practicable after October 27, 2000 , the Director shall begin collecting video and audio recordings under subsection (a)(1), and shall attempt to collect the first such recordings from the oldest veterans.
 - **(d)** For purposes of subsection (a), the term “immediate family member” means a parent, spouse, sibling, or child.
+
+In General
+
+Coordination and Cooperation
+
+Veterans Service Organization Defined
+
+## Source Credit
+
+*([Pub. L. 106–380, § 3](https://www.govinfo.gov/link/plaw/106/public/380), Oct. 27, 2000, [114 Stat. 1448](https://www.govinfo.gov/link/statute/114/1448); [Pub. L. 114–246, § 2](https://www.govinfo.gov/link/plaw/114/public/246), Nov. 28, 2016, [130 Stat. 995](https://www.govinfo.gov/link/statute/130/995).)*

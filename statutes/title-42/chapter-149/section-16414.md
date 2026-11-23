@@ -3,9 +3,10 @@ title: "Section 16414 - National Power Plant Operations Technology and Education
 usc_title: 42
 usc_section: "16414"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16414"
-generated_at: "2026-03-30T02:56:11.486Z"
+generated_at: "2026-11-23T20:27:23.683Z"
+status: "active"
 ---
 
 # § 16414. National Power Plant Operations Technology and Educational Center
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.486Z"
   - **(2)** The Center shall carry out training and education activities under paragraph (1)—
     - **(A)** at the Center; and
     - **(B)** through Internet-based information technologies that allow for learning at remote sites.
+
+## Source Credit
+
+*([Pub. L. 109–58, title XI, § 1106](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 940](https://www.govinfo.gov/link/statute/119/940).)*

@@ -3,9 +3,10 @@ title: "Section 4f - Assistance to countries to develop statistical assessment o
 usc_title: 22
 usc_section: "4f"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4f"
-generated_at: "2026-03-30T02:55:05.307Z"
+generated_at: "2026-11-23T20:26:31.929Z"
+status: "active"
 ---
 
 # § 262p–4f. Assistance to countries to develop statistical assessment of well-being of poor
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.307Z"
   - **(5)** availability of social indicator data is also essential to the work of such institutions, particularly in monitoring the impact of structural adjustment lending on the poor; and
   - **(6)** availability of such indicators will also facilitate the measurement of progress in the alleviation of poverty by other donor agencies, public and private.
 - **(b)** The Secretary of the Treasury shall instruct the United States Executive Director of the International Bank for Reconstruction and Development and the International Development Association to advocate and support, as an immediate priority, assistance by such institutions to borrowing country governments to develop appropriate statistical measures for assessing the physical well-being of the poor, by sex and age, by using such indicators as mortality, health, education, and nutrition, as well as wealth and income, and maintain and publish such indicators on an ongoing basis.
+
+## Source Credit
+
+*([Pub. L. 95–118, title XVI, § 1611](https://www.govinfo.gov/link/plaw/95/public/118), as added [Pub. L. 100–461, title V, § 555](https://www.govinfo.gov/link/plaw/100/public/461), Oct. 1, 1988, [102 Stat. 2268–36](https://www.govinfo.gov/link/statute/102/2268).)*

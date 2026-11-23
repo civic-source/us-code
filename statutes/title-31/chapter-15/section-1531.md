@@ -3,9 +3,10 @@ title: "Section 1531 - Transfers of functions and activities"
 usc_title: 31
 usc_section: "1531"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 1531"
-generated_at: "2026-03-30T02:55:34.053Z"
+generated_at: "2026-11-23T20:26:51.734Z"
+status: "active"
 ---
 
 # § 1531. Transfers of functions and activities
@@ -19,3 +20,23 @@ generated_at: "2026-03-30T02:55:34.053Z"
   - **(2)** merged with the amount in an account to which the balance is credited; and
   - **(3)** with the amount with which the balance is merged, accounted for as one amount.
 - **(d)** New appropriation accounts may be established to carry out subsection (c)(1) of this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1531(a), (b) | 31:581c(a)(1st sentence), (b)(1st sentence). | Sept. 12, 1950, ch. 946, § 202 , 64 Stat. 838 . |
+| 1531(c), (d) | 31:581c(a)(last sentence), (b)(last sentence). |  |
+
+
+Historical and Revision Notes
+
+1531(a), (b)
+
+Sept. 12, 1950, ch. 946, § 202
+
+64 Stat. 838
+
+1531(c), (d)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 932](https://www.govinfo.gov/link/statute/96/932).)*

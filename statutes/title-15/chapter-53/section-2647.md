@@ -3,9 +3,10 @@ title: "Section 2647 - Enforcement"
 usc_title: 15
 usc_section: "2647"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2647"
-generated_at: "2026-03-30T02:54:08.179Z"
+generated_at: "2026-11-23T20:26:04.237Z"
+status: "active"
 ---
 
 # § 2647. Enforcement
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:54:08.179Z"
   - **(1)** inspects for asbestos-containing material in a school, public or commercial building;
   - **(2)** designs or conducts response actions with respect to friable asbestos-containing material in a school, public or commercial building; or
   - **(3)** employs individuals to conduct response actions with respect to friable asbestos-containing material in a school, public or commercial building;
+
+## Source Credit
+
+*([Pub. L. 94–469, title II, § 207](https://www.govinfo.gov/link/plaw/94/public/469), as added [Pub. L. 99–519, § 2](https://www.govinfo.gov/link/plaw/99/public/519), Oct. 22, 1986, [100 Stat. 2983](https://www.govinfo.gov/link/statute/100/2983); amended [Pub. L. 100–368, § 5](https://www.govinfo.gov/link/plaw/100/public/368), July 18, 1988, [102 Stat. 833](https://www.govinfo.gov/link/statute/102/833); [Pub. L. 101–637, § 15(a)(4)](https://www.govinfo.gov/link/plaw/101/public/637), Nov. 28, 1990, [104 Stat. 4596](https://www.govinfo.gov/link/statute/104/4596).)*

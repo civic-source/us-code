@@ -3,9 +3,10 @@ title: "Section 334 - Institutes and joint councils on sentencing"
 usc_title: 28
 usc_section: "334"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 334"
-generated_at: "2026-03-30T02:55:30.127Z"
+generated_at: "2026-11-23T20:26:36.337Z"
+status: "active"
 ---
 
 # § 334. Institutes and joint councils on sentencing
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:30.127Z"
 - **(b)** After the Judicial Conference has approved the time, place, participants, agenda, and other arrangements for such institutes and joint councils, the chief judge of each circuit is authorized to invite the attendance of district judges under conditions which he thinks proper and which will not unduly delay the work of the courts.
 - **(c)** The Attorney General is authorized to select and direct the attendance at such institutes and meetings of United States attorneys and other officials of the Department of Justice and may invite the participation of other interested Federal officers. He may also invite specialists in sentencing methods, criminologists, psychiatrists, penologists, and others to participate in the proceedings.
 - **(d)** The expenses of attendance of judges shall be paid from applicable appropriations for the judiciary of the United States. The expenses connected with the preparation of the plans and agenda for the conference and for the travel and other expenses incident to the attendance of officials and other participants invited by the Attorney General shall be paid from applicable appropriations of the Department of Justice.
+
+## Source Credit
+
+*(Added [Pub. L. 85–752, § 1](https://www.govinfo.gov/link/plaw/85/public/752), Aug. 25, 1958, [72 Stat. 845](https://www.govinfo.gov/link/statute/72/845).)*

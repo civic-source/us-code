@@ -3,9 +3,10 @@ title: "Section 1975 - Establishment of Commission"
 usc_title: 42
 usc_section: "1975"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1975"
-generated_at: "2026-03-30T02:56:11.136Z"
+generated_at: "2026-11-23T20:27:21.994Z"
+status: "active"
 ---
 
 # § 1975. Establishment of Commission
@@ -23,3 +24,43 @@ generated_at: "2026-03-30T02:56:11.136Z"
   - **(4)** The Vice Chairperson shall act in place of the Chairperson in the absence of the Chairperson.
 - **(e)** The President may remove a member of the Commission only for neglect of duty or malfeasance in office.
 - **(f)** 5 members of the Commission constitute a quorum of the Commission.
+
+Establishment
+
+Membership
+
+Membership by Political Party
+
+Timing of Initial Appointments
+
+Terms
+
+Removal
+
+Vacancies
+
+Study.—
+
+In general
+
+Trends
+
+Proposal of Measures
+
+Suggestions and Comments
+
+Staff and Administrative Support
+
+First Meeting
+
+Quarterly Meetings
+
+Quorum; Rule for Voting on Final Actions
+
+Expectations for Attendance by Members
+
+Minutes
+
+## Source Credit
+
+*([Pub. L. 98–183, § 2](https://www.govinfo.gov/link/plaw/98/public/183), Nov. 30, 1983, [97 Stat. 1301](https://www.govinfo.gov/link/statute/97/1301); [Pub. L. 102–167, § 5](https://www.govinfo.gov/link/plaw/102/public/167), Nov. 26, 1991, [105 Stat. 1101](https://www.govinfo.gov/link/statute/105/1101); [Pub. L. 103–419, § 2](https://www.govinfo.gov/link/plaw/103/public/419), Oct. 25, 1994, [108 Stat. 4338](https://www.govinfo.gov/link/statute/108/4338).)*

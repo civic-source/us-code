@@ -3,9 +3,10 @@ title: "Section 3333 - Integrated English literacy and civics education"
 usc_title: 29
 usc_section: "3333"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3333"
-generated_at: "2026-03-30T02:55:18.762Z"
+generated_at: "2026-11-23T20:26:38.151Z"
+status: "active"
 ---
 
 # § 3333. Integrated English literacy and civics education
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:18.762Z"
   - **(1)** prepare adults who are English language learners for, and place such adults in, unsubsidized employment in in-demand industries and occupations that lead to economic self-sufficiency; and
   - **(2)** integrate with the local workforce development system and its functions to carry out the activities of the program.
 - **(d)** The Secretary shall prepare and submit to the Committee on Education and the Workforce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate and make available to the public, a report on the activities carried out under this section.
+
+## Source Credit
+
+*([Pub. L. 113–128, title II, § 243](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1623](https://www.govinfo.gov/link/statute/128/1623).)*

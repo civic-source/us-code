@@ -3,9 +3,10 @@ title: "Section 5 - Biennial report on stockpile requirements"
 usc_title: 50
 usc_section: "5"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 5"
-generated_at: "2026-03-30T02:56:26.197Z"
+generated_at: "2026-11-23T20:27:30.698Z"
+status: "active"
 ---
 
 # § 98h–5. Biennial report on stockpile requirements
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:56:26.197Z"
     - **(D)** a list of such materials that are the highest priority to be acquired for the stockpile in the near term;
     - **(E)** verification that the National Defense Stockpile Manager manages and evaluates the stockpile using the most complete and accurate data provided by the military departments (as defined under section 101(a) of title 10 ), including a one-time description of the risks resulting from the inability of the armed services to provide the National Defense Stockpile Manager comprehensive data for all of its required strategic and critical materials; and
     - **(F)** the amounts appropriated by Congress to the stockpile for both the current fiscal year and the previous fiscal year; 1 1 So in original. The semicolon probably should be a period.
+
+## Source Credit
+
+*(June 7, 1939, ch. 190, § 14, as added [Pub. L. 100–180, div. C, title II, § 3202(c)](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1246](https://www.govinfo.gov/link/statute/101/1246); amended [Pub. L. 102–190, div. C, title XXXIII, § 3313(b)(1)](https://www.govinfo.gov/link/plaw/102/public/190), (2), Dec. 5, 1991, [105 Stat. 1585](https://www.govinfo.gov/link/statute/105/1585); [Pub. L. 103–160, div. C, title XXXIII, § 3314](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1962](https://www.govinfo.gov/link/statute/107/1962); [Pub. L. 104–201, div. C, title XXXIII, § 3311(a)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2856](https://www.govinfo.gov/link/statute/110/2856); [Pub. L. 117–263, div. A, title XIV, § 1413](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2872](https://www.govinfo.gov/link/statute/136/2872); [Pub. L. 119–60, div. A, title XIV, § 1411(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1134](https://www.govinfo.gov/link/statute/139/1134).)*

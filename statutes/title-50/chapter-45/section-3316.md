@@ -3,9 +3,10 @@ title: "Section 3316 - Submission of intelligence community policies"
 usc_title: 50
 usc_section: "3316"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3316"
-generated_at: "2026-03-30T02:56:26.243Z"
+generated_at: "2026-11-23T20:27:30.953Z"
+status: "active"
 ---
 
 # § 3316. Submission of intelligence community policies
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:26.243Z"
   - **(2)** Not later than 15 days after the date on which the Director of National Intelligence issues, modifies, or rescinds a policy of the intelligence community, the Director shall—
     - **(A)** notify the congressional intelligence committees of such addition, modification, or removal; and
     - **(B)** update the electronic repository with respect to such addition, modification, or removal.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. E, title LXIII, § 6315](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2194](https://www.govinfo.gov/link/statute/133/2194).)*

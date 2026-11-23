@@ -3,9 +3,10 @@ title: "Section 1531 - Supplemental agricultural disaster assistance"
 usc_title: 7
 usc_section: "1531"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1531"
-generated_at: "2026-03-30T02:53:42.324Z"
+generated_at: "2026-11-23T20:25:41.201Z"
+status: "active"
 ---
 
 # § 1531. Supplemental agricultural disaster assistance
@@ -284,3 +285,31 @@ generated_at: "2026-03-30T02:53:42.324Z"
 - **(k)**
   - **(1)** Subject to paragraph (2) and notwithstanding any provision of subchapter I, subchapter I shall not apply to this subchapter.
   - **(2)** Paragraph (1) shall not apply to a specific reference in this subchapter to a provision of subchapter I.
+
+(aa) the adjusted actual production history yield; or
+
+(bb) the counter-cyclical program payment yield for each crop; and
+
+(aa) the adjusted noninsured crop assistance program yield; or
+
+(bb) the counter-cyclical program payment yield for each crop.
+
+(aa) the current production year; or
+
+(bb) subject to paragraph (3)(B)(ii), 1 or both of the 2 production years immediately preceding the current production year.
+
+(aa) the national average corn price per bushel for the 12-month period immediately preceding March 1 of the year for which the disaster assistance is calculated; or
+
+(bb) the national average corn price per bushel for the 24-month period immediately preceding that March 1; by
+
+(aa) in an amount equal to 2 monthly payments using the monthly payment rate determined under subparagraph (B); or
+
+(bb) if the county is rated as having a D3 (extreme drought) intensity in any area of the county for at least 4 weeks during the normal grazing period for the county, or is rated as having a D4 (exceptional drought) intensity in any area of the county at any time during the normal grazing period, in an amount equal to 3 monthly payments using the monthly payment rate determined under subparagraph (B).
+
+(aa) except as provided in item (bb), lack access to a policy or plan of insurance under subchapter I; or
+
+(bb) do not qualify for a written agreement because 1 or more farming practices, which the Secretary has determined are good farming practices, of the eligible producers on the farm differ significantly from the farming practices used by producers of the same crop in other regions of the United States; and
+
+## Source Credit
+
+*(Feb. 16, 1938, ch. 30, title V, § 531, as added [Pub. L. 110–234, title XII, § 12033(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1392](https://www.govinfo.gov/link/statute/122/1392), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XII, § 12033(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2154; amended [Pub. L. 110–398, § 2(a)](https://www.govinfo.gov/link/plaw/110/public/398), Oct. 13, 2008, [122 Stat. 4214](https://www.govinfo.gov/link/statute/122/4214); [Pub. L. 111–5, div. A, title I, § 102(a)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 121](https://www.govinfo.gov/link/statute/123/121); [Pub. L. 111–80, title VII, § 745(a)](https://www.govinfo.gov/link/plaw/111/public/80), Oct. 21, 2009, [123 Stat. 2129](https://www.govinfo.gov/link/statute/123/2129); [Pub. L. 112–240, title VII, § 702(a)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2368](https://www.govinfo.gov/link/statute/126/2368); [Pub. L. 113–79, title XI, § 11028(c)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 978](https://www.govinfo.gov/link/statute/128/978).)*

@@ -3,9 +3,10 @@ title: "Section 2151u - Private and voluntary organizations and cooperatives in 
 usc_title: 22
 usc_section: "2151u"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2151u"
-generated_at: "2026-03-30T02:55:05.347Z"
+generated_at: "2026-11-23T20:26:32.176Z"
+status: "active"
 ---
 
 # § 2151u. Private and voluntary organizations and cooperatives in overseas development
@@ -18,3 +19,11 @@ generated_at: "2026-03-30T02:55:05.347Z"
 - **(f)** For each of the fiscal years 1986 through 1989, funds in an amount not less than thirteen and one half percent of the aggregate amount appropriated for that fiscal year to carry out sections 2151a(a), 2151b(b), 2151b(c), 2151c, 2151d, 2151s, 1 1 See References in Text note below. and 2292 of this title shall be made available for the activities of private and voluntary organizations, and the President shall seek to channel funds in an amount not less than 16 percent of such aggregate amount for the activities of private and voluntary organizations. Funds made available under part IV of subchapter II of this chapter for the activities of private and voluntary organizations may be considered in determining compliance with the requirements of this subsection.
 - **(g)**
 - **(h)** The Congress recognizes that, in addition to their role in social and economic development, cooperatives provide an opportunity for people to participate directly in democratic decisionmaking. Therefore, assistance under this part shall be provided to rural and urban cooperatives which offer large numbers of low- and middle-income people in developing countries an opportunity to participate directly in democratic decisionmaking. Such assistance shall be designed to encourage the adoption of self-help, private sector cooperative techniques and practices which have been successful in the United States.
+
+Study
+
+Report
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 123, as added [Pub. L. 95–424, title I, § 102(e)](https://www.govinfo.gov/link/plaw/95/public/424), Oct. 6, 1978, [92 Stat. 941](https://www.govinfo.gov/link/statute/92/941); amended [Pub. L. 96–53, title I, § 121](https://www.govinfo.gov/link/plaw/96/public/53), Aug. 14, 1979, [93 Stat. 366](https://www.govinfo.gov/link/statute/93/366); [Pub. L. 96–533, title III, § 307](https://www.govinfo.gov/link/plaw/96/public/533), Dec. 16, 1980, [94 Stat. 3147](https://www.govinfo.gov/link/statute/94/3147); [Pub. L. 97–113, title III, § 309](https://www.govinfo.gov/link/plaw/97/public/113), Dec. 29, 1981, [95 Stat. 1535](https://www.govinfo.gov/link/statute/95/1535); [Pub. L. 99–83, title III](https://www.govinfo.gov/link/plaw/99/public/83), §§ 309, 310, Aug. 8, 1985, [99 Stat. 215](https://www.govinfo.gov/link/statute/99/215); [Pub. L. 101–513, title V, § 562(d)(6)](https://www.govinfo.gov/link/plaw/101/public/513), Nov. 5, 1990, [104 Stat. 2031](https://www.govinfo.gov/link/statute/104/2031); [Pub. L. 105–277, div. A, § 101(d) [title II]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–150](https://www.govinfo.gov/link/statute/112/2681), 2681–156.)*

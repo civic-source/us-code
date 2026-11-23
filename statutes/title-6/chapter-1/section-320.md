@@ -3,9 +3,10 @@ title: "Section 320 - Credentialing and typing"
 usc_title: 6
 usc_section: "320"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 320"
-generated_at: "2026-03-30T02:53:09.457Z"
+generated_at: "2026-11-23T20:25:34.699Z"
+status: "active"
 ---
 
 # § 320. Credentialing and typing
@@ -18,3 +19,9 @@ generated_at: "2026-03-30T02:53:09.457Z"
   - **(2)** The Administrator shall provide expertise and technical assistance to aid Federal, State, local, and tribal government agencies with credentialing and typing incident management personnel, emergency response providers, and other personnel (including temporary personnel) and resources likely needed to respond to a natural disaster, act of terrorism, or other man-made disaster.
 - **(c)** Not later than 6 months after receiving the standards provided under subsection (b), each Federal agency with responsibilities under the National Response Plan shall ensure that incident management personnel, emergency response providers, and other personnel (including temporary personnel) and resources likely needed to respond to a natural disaster, act of terrorism, or other manmade disaster are credentialed and typed in accordance with this section.
 - **(d)** In developing standards for credentialing health care professionals under this section, the Administrator shall consult with the Secretary of Health and Human Services.
+
+Definition
+
+## Source Credit
+
+*([Pub. L. 107–296, title V, § 510](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 109–295, title VI, § 611(13)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1406](https://www.govinfo.gov/link/statute/120/1406); amended [Pub. L. 110–53, title IV, § 408](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 304](https://www.govinfo.gov/link/statute/121/304).)*

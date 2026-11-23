@@ -3,9 +3,10 @@ title: "Section 4102 - Coordination regarding assessment and acquisition by Nati
 usc_title: 33
 usc_section: "4102"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 4102"
-generated_at: "2026-03-30T02:55:41.147Z"
+generated_at: "2026-11-23T20:26:54.292Z"
+status: "active"
 ---
 
 # § 4102. Coordination regarding assessment and acquisition by National Oceanic and Atmospheric Administration of unmanned maritime systems
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:55:41.147Z"
 - **(f)** Other than as described in subsection (e), the Administrator, in consultation with the Secretary of the Navy, may, in carrying out this chapter, to the extent practicable, coordinate and consult with the private sector—
   - **(1)** to support the commercialization of unmanned maritime systems; and
   - **(2)** to assist with their assessment of commercially available unmanned maritime systems to support the missions and goals of the Navy, the Administration, and cooperative activities of the Administration.
+
+## Source Credit
+
+*([Pub. L. 115–394, § 3](https://www.govinfo.gov/link/plaw/115/public/394), Dec. 21, 2018, [132 Stat. 5282](https://www.govinfo.gov/link/statute/132/5282).)*

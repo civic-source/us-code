@@ -3,9 +3,10 @@ title: "Section 2704 - Grants"
 usc_title: 29
 usc_section: "2704"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 2704"
-generated_at: "2026-03-30T02:55:18.746Z"
+generated_at: "2026-11-23T20:26:38.073Z"
+status: "active"
 ---
 
 # § 2704. Grants
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:18.746Z"
     - **(D)** an amount equal to 40 percent of the amount provided under the grant in the fourth year for which the grant is awarded; and
     - **(E)** an amount equal to 50 percent of the amount provided under the grant in the fifth and sixth years for which the grant is awarded.
 - **(e)** The Department shall develop mechanisms for evaluating the effectiveness of the use of a grant awarded under this section in carrying out the purposes under section 2702 of this title and, not later than two years after October 20, 1994 , and every two years thereafter, prepare and submit a report to Congress concerning such evaluation.
+
+## Source Credit
+
+*([Pub. L. 103–382, title V, § 545](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 4053](https://www.govinfo.gov/link/statute/108/4053).)*

@@ -3,9 +3,10 @@ title: "Section 4843 - Enforcement"
 usc_title: 50
 usc_section: "4843"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4843"
-generated_at: "2026-03-30T02:56:26.285Z"
+generated_at: "2026-11-23T20:27:31.150Z"
+status: "active"
 ---
 
 # § 4843. Enforcement
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:26.285Z"
   - **(3)** A prohibition on the person’s ability to export, reexport, or in-country transfer any items controlled under subchapter I.
 - **(c)** Any civil penalty or administrative sanction (including any suspension or revocation of authority to export) under this section may be imposed only after notice and opportunity for an agency hearing on the record in accordance with sections 554 through 557 of title 5 and shall be subject to judicial review in accordance with chapter 7 of such title.
 - **(d)** The President may by regulation provide standards for establishing levels of civil penalty under this section based upon factors such as the seriousness of the violation, the culpability of the violator, and the violator’s record of cooperation with the Government in disclosing the violation.
+
+## Source Credit
+
+*([Pub. L. 115–232, div. A, title XVII, § 1774](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2237](https://www.govinfo.gov/link/statute/132/2237); [Pub. L. 116–283, div. A, title X, § 1081(d)(11)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3874](https://www.govinfo.gov/link/statute/134/3874).)*

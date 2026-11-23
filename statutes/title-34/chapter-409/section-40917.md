@@ -3,9 +3,10 @@ title: "Section 40917 - Implementation plan"
 usc_title: 34
 usc_section: "40917"
 chapter: 409
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 40917"
-generated_at: "2026-03-30T02:55:33.313Z"
+generated_at: "2026-11-23T20:26:50.656Z"
+status: "active"
 ---
 
 # § 40917. Implementation plan
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:33.313Z"
     - **(A)** immediately correct the applicable record; and
     - **(B)** not later than 3 days after the determination, remove the record from the website of the Department of Justice and any other location where the record was published.
 - **(e)** For each of fiscal years 2018 through 2022, the Attorney General shall give affirmative preference to all Bureau of Justice Assistance discretionary grant applications of a State or Indian tribal government that received a determination of substantial compliance under subsection (c) for the fiscal year in which the grant was solicited.
+
+## Source Credit
+
+*([Pub. L. 110–180, title I, § 107](https://www.govinfo.gov/link/plaw/110/public/180), as added [Pub. L. 115–141, div. S, title VI, § 605(a)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1137](https://www.govinfo.gov/link/statute/132/1137).)*

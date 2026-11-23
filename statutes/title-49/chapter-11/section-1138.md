@@ -3,9 +3,10 @@ title: "Section 1138 - Evaluation and audit of National Transportation Safety Bo
 usc_title: 49
 usc_section: "1138"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 1138"
-generated_at: "2026-03-30T02:56:19.304Z"
+generated_at: "2026-11-23T20:27:34.571Z"
+status: "active"
 ---
 
 # § 1138. Evaluation and audit of National Transportation Safety Board
@@ -20,3 +21,13 @@ generated_at: "2026-03-30T02:56:19.304Z"
   - **(6)** the extent to which the Board follows leading practices in selected management areas; and
   - **(7)** the extent to which the Board addresses management challenges in completing accident investigations.
 - **(c)** For purposes of this section the term “appropriate congressional committees” means the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+
+In General
+
+Responsibility of Comptroller General
+
+Appropriate Congressional Committees
+
+## Source Credit
+
+*(Added [Pub. L. 109–443, § 5(a)](https://www.govinfo.gov/link/plaw/109/public/443), Dec. 21, 2006, [120 Stat. 3299](https://www.govinfo.gov/link/statute/120/3299); amended [Pub. L. 113–188, title XV, § 1502](https://www.govinfo.gov/link/plaw/113/public/188), Nov. 26, 2014, [128 Stat. 2025](https://www.govinfo.gov/link/statute/128/2025); [Pub. L. 115–254, div. C, § 1110](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3435](https://www.govinfo.gov/link/statute/132/3435); [Pub. L. 118–63, title XII, § 1221(a)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1432](https://www.govinfo.gov/link/statute/138/1432).)*

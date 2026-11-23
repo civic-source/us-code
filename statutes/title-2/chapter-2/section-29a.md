@@ -3,9 +3,10 @@ title: "Section 29a - Early organization of House of Representatives"
 usc_title: 2
 usc_section: "29a"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 29a"
-generated_at: "2026-03-30T02:53:04.785Z"
+generated_at: "2026-11-23T20:25:28.811Z"
+status: "active"
 ---
 
 # § 29a. Early organization of House of Representatives
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:04.785Z"
   - **(2)** Payments and reimbursements to Members-elect under paragraph (1) shall be made as provided (with respect to Members) in the regulations prescribed by the Committee on House Oversight with respect to travel and other expenses of committees and Members. Reimbursements shall be paid on special voucher forms prescribed by the Committee on House Oversight.
 - **(c)** The applicable accounts of the House of Representatives are made available to carry out the purposes of this section.
 - **(d)** With the approval of the majority leader (in the case of a Member or Member-elect of the majority party) or the minority leader (in the case of a Member or Member-elect of the minority party), subsections (b) and (c) shall apply with respect to the attendance of a Member or Member-elect at a program conducted by the Committee on House Administration for the orientation of new members 1 1 So in original. Probably should be capitalized. in the same manner as such provisions apply to the attendance of the Member or Member-elect at the organizational caucus or conference.
+
+## Source Credit
+
+*([Pub. L. 93–554, title I](https://www.govinfo.gov/link/plaw/93/public/554), ch. III, Dec. 27, 1974, [88 Stat. 1777](https://www.govinfo.gov/link/statute/88/1777); [Pub. L. 104–186, title II, § 202(4)](https://www.govinfo.gov/link/plaw/104/public/186), Aug. 20, 1996, [110 Stat. 1725](https://www.govinfo.gov/link/statute/110/1725); [Pub. L. 108–447, div. G, title I, § 107(a)](https://www.govinfo.gov/link/plaw/108/public/447), (b)(1), (c)(1), Dec. 8, 2004, [118 Stat. 3176](https://www.govinfo.gov/link/statute/118/3176).)*

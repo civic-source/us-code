@@ -3,9 +3,10 @@ title: "Section 697g - Foreclosure and liquidation of loans"
 usc_title: 15
 usc_section: "697g"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 697g"
-generated_at: "2026-03-30T02:54:08.114Z"
+generated_at: "2026-11-23T20:26:03.884Z"
+status: "active"
 ---
 
 # § 697g. Foreclosure and liquidation of loans
@@ -77,3 +78,11 @@ generated_at: "2026-03-30T02:54:08.114Z"
       - **(i)** the information provided under subparagraph (C) with respect to the 12-month period preceding the date on which the report is submitted; and
       - **(ii)** the same information with respect to loans foreclosed and liquidated, or otherwise treated, by the Administration during the same period.
     - **(E)** The number of times that the Administration has failed to approve or reject a liquidation plan in accordance with subparagraph (A)(i), a workout plan in accordance with subparagraph (C)(i), or to approve or deny a request for purchase of indebtedness under subparagraph (B)(i), including specific information regarding the reasons for the Administration’s failure and any delays that resulted.
+
+In general
+
+Termination of pilot program
+
+## Source Credit
+
+*([Pub. L. 85–699, title V, § 510](https://www.govinfo.gov/link/plaw/85/public/699), as added [Pub. L. 106–554, § 1(a)(9) [title III, § 307(a)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–685.)*

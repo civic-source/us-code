@@ -3,9 +3,10 @@ title: "Section 60101 - Definitions"
 usc_title: 49
 usc_section: "60101"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 60101"
-generated_at: "2026-03-30T02:56:19.410Z"
+generated_at: "2026-11-23T20:27:35.378Z"
+status: "active"
 ---
 
 # § 60101. Definitions
@@ -79,3 +80,301 @@ generated_at: "2026-03-30T02:56:19.410Z"
     - **(B)**
       - **(i)** The Secretary also shall consider diameter when defining “regulated gathering line” for hazardous liquid.
       - **(ii)** The definition of “regulated gathering line” for hazardous liquid may not include a crude oil gathering line that has a nominal diameter of not more than 6 inches, is operated at low pressure, and is located in a rural area that is not unusually sensitive to environmental damage.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 60101(a)(1) | 49 App.:1671(10). | Aug. 12, 1968 , Pub. L. 90–481, § 2(10) , 82 Stat. 720 ; Oct. 11, 1976 , Pub. L. 94–477, § 3(2) , 90 Stat. 2073 ; Nov. 30, 1979 , Pub. L. 96–129, § 151 , 93 Stat. 998 . |
+|  | 49 App.:1671(14). | Aug. 12, 1968 , Pub. L. 90–481 , 82 Stat. 720 , § 2(11)–(17); added Nov. 30, 1979 , Pub. L. 96–129, § 151 , 93 Stat. 998 . |
+|  | 49 App.:2001(11). | Nov. 30, 1979 , Pub. L. 96–129, § 202(1) –(4) (1st–27th words), (5)–(9), (11), 93 Stat. 1003 , 1004. |
+| 60101(a)(2) | 49 App.:1671(2). | Aug. 12, 1968 , Pub. L. 90–481, § 2(1) , (2), (4) (1st–32d words), (5), (6), 82 Stat. 720 . |
+| 60101(a)(3) | 49 App.:1671(4) (1st–32d words). |  |
+| 60101(a)(4) | 49 App.:2001(2). |  |
+| 60101(a)(5) | 49 App.:2001(4) (1st–27th words). |  |
+| 60101(a)(6) | 49 App.:1671(8). | Aug. 12, 1968 , Pub. L. 90–481, § 2(8) , 82 Stat. 720 ; Oct. 11, 1976 , Pub. L. 94–477, § 3(1) , 90 Stat. 2073 ; Nov. 30, 1979 , Pub. L. 96–129, § 109(b) (related to § 2(8)), 93 Stat. 996 . |
+| 60101(a)(7) | 49 App.:2001(5). |  |
+| 60101(a) (8)(A) | 49 App.:1671(17). |  |
+| 60101(a) (8)(B) | 49 App.:2001(7). |  |
+| 60101(a)(9) | 49 App.:1671(9). | Aug. 12, 1968 , Pub. L. 90–481 , 82 Stat. 720 , § 2(9); added Oct. 11, 1976 , Pub. L. 94–477, § 3(2) , 90 Stat. 2073 ; Nov. 30, 1979 , Pub. L. 96–129 , §§ 109(b) (related to § 2(9)), 151, 93 Stat. 996 , 998. |
+| 60101(a)(10) | 49 App.:2001(6). |  |
+| 60101(a)(11) | 49 App.:1671(11). |  |
+| 60101(a)(12) | 49 App.:1671(16). |  |
+| 60101(a)(13) | 49 App.:1671(13). |  |
+| 60101(a)(14) | 49 App.:1671(12). |  |
+| 60101(a)(15) | 49 App.:1671(6). |  |
+|  | 49 App.:2001(9). |  |
+| 60101(a)(16) | 49 App.:1671(15). |  |
+| 60101(a)(17) | 49 App.:1671(1). |  |
+|  | 49 App.:2001(1). |  |
+| 60101(a)(18), (19) | (no source). |  |
+| 60101(a)(20) | 49 App.:1671(5). |  |
+|  | 49 App.:2001(8). |  |
+| 60101(a)(21) | 49 App.:1671(3). | Aug. 12, 1968 , Pub. L. 90–481, § 2(3) , 82 Stat. 720 ; Nov. 30, 1979 , Pub. L. 96–129, § 152(b)(1) , 93 Stat. 1001 . |
+| 60101(a)(22) | 49 App.:2001(3). |  |
+| 60101(b) | 49 App.:1688. | Aug. 12, 1968 , Pub. L. 90–481 , 82 Stat. 720 , § 21; added Oct. 24, 1992 , Pub. L. 102–508, § 109(b) , 106 Stat. 3295 . |
+|  | 49 App.:2016. | Nov. 30, 1979 , Pub. L. 96–129 , 93 Stat. 989 , § 220; added Oct. 24, 1992 , Pub. L. 102–508, § 208(b) , 106 Stat. 3303 . |
+
+| Pub. L . 103–272, § 4(s) | Col 2 | Col 3 |
+| --- | --- | --- |
+| 60101(a)(21), (22) | 49 App.:1671 (note). | Oct. 24, 1992 , Pub. L. 102–508, § 109(a) , 106 Stat. 3294 . |
+|  | 49 App.:2001 (note). | Oct. 24, 1992 , Pub. L. 102–508, § 208(a) , 106 Stat. 3303 . |
+
+
+General
+
+Gathering Lines
+
+Historical and Revision Notes
+
+Pub. L
+
+60101(a)(1)
+
+Aug. 12, 1968
+
+Pub. L. 90–481, § 2(10)
+
+82 Stat. 720
+
+Oct. 11, 1976
+
+Pub. L. 94–477, § 3(2)
+
+90 Stat. 2073
+
+Nov. 30, 1979
+
+Pub. L. 96–129, § 151
+
+93 Stat. 998
+
+Aug. 12, 1968
+
+Pub. L. 90–481
+
+82 Stat. 720
+
+Nov. 30, 1979
+
+Pub. L. 96–129, § 151
+
+93 Stat. 998
+
+Nov. 30, 1979
+
+Pub. L. 96–129, § 202(1)
+
+93 Stat. 1003
+
+60101(a)(2)
+
+Aug. 12, 1968
+
+Pub. L. 90–481, § 2(1)
+
+82 Stat. 720
+
+60101(a)(3)
+
+60101(a)(4)
+
+60101(a)(5)
+
+60101(a)(6)
+
+Aug. 12, 1968
+
+Pub. L. 90–481, § 2(8)
+
+82 Stat. 720
+
+Oct. 11, 1976
+
+Pub. L. 94–477, § 3(1)
+
+90 Stat. 2073
+
+Nov. 30, 1979
+
+Pub. L. 96–129, § 109(b)
+
+93 Stat. 996
+
+60101(a)(7)
+
+60101(a) (8)(A)
+
+60101(a) (8)(B)
+
+60101(a)(9)
+
+Aug. 12, 1968
+
+Pub. L. 90–481
+
+82 Stat. 720
+
+Oct. 11, 1976
+
+Pub. L. 94–477, § 3(2)
+
+90 Stat. 2073
+
+Nov. 30, 1979
+
+Pub. L. 96–129
+
+93 Stat. 996
+
+60101(a)(10)
+
+60101(a)(11)
+
+60101(a)(12)
+
+60101(a)(13)
+
+60101(a)(14)
+
+60101(a)(15)
+
+60101(a)(16)
+
+60101(a)(17)
+
+60101(a)(20)
+
+60101(a)(21)
+
+Aug. 12, 1968
+
+Pub. L. 90–481, § 2(3)
+
+82 Stat. 720
+
+Nov. 30, 1979
+
+Pub. L. 96–129, § 152(b)(1)
+
+93 Stat. 1001
+
+60101(a)(22)
+
+60101(b)
+
+Aug. 12, 1968
+
+Pub. L. 90–481
+
+82 Stat. 720
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 109(b)
+
+106 Stat. 3295
+
+Nov. 30, 1979
+
+Pub. L. 96–129
+
+93 Stat. 989
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 208(b)
+
+106 Stat. 3303
+
+Pub. L
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 109(a)
+
+106 Stat. 3294
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 208(a)
+
+106 Stat. 3303
+
+Inspector Training
+
+Staffing.—
+
+In general
+
+Pipeline inspection and enforcement personnel
+
+Recruitment and Retention Incentives.—
+
+In general
+
+Continued service agreement
+
+Approval
+
+In General
+
+Duties
+
+Training and Educational Materials
+
+Reports.—
+
+University
+
+Secretary
+
+Authorization of Appropriations
+
+In General
+
+Memorandum of Understanding.—
+
+In general
+
+Areas of expertise
+
+Program Elements
+
+Program Plan.—
+
+In general
+
+Consultation
+
+Ongoing pipeline transportation research and development.—
+
+In general
+
+Consultation
+
+Funding from non-federal sources
+
+Reports to Congress
+
+Pipeline Integrity Program
+
+Participating Agencies Defined
+
+Independent Experts
+
+Conflict of Interest
+
+“In this Act [div. R of Pub. L. 116–260 , see Short Title of 2020 Amendment note above]:
+
+Administration
+
+Administrator
+
+Secretary
+
+Applicability of chapter 601 definitions
+
+High-consequence area
+
+## Source Credit
+
+*([Pub. L. 103–272](https://www.govinfo.gov/link/plaw/103/public/272), §§ 1(e), 4(s), July 5, 1994, [108 Stat. 1301](https://www.govinfo.gov/link/statute/108/1301), 1371; [Pub. L. 104–287, § 5(90)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3398](https://www.govinfo.gov/link/statute/110/3398); [Pub. L. 104–304](https://www.govinfo.gov/link/plaw/104/public/304), §§ 3, 20(f), Oct. 12, 1996, [110 Stat. 3793](https://www.govinfo.gov/link/statute/110/3793), 3805; [Pub. L. 109–468, § 7](https://www.govinfo.gov/link/plaw/109/public/468), Dec. 29, 2006, [120 Stat. 3491](https://www.govinfo.gov/link/statute/120/3491); [Pub. L. 112–90, § 14](https://www.govinfo.gov/link/plaw/112/public/90), Jan. 3, 2012, [125 Stat. 1914](https://www.govinfo.gov/link/statute/125/1914); [Pub. L. 114–183, § 12(a)](https://www.govinfo.gov/link/plaw/114/public/183), June 22, 2016, [130 Stat. 522](https://www.govinfo.gov/link/statute/130/522).)*

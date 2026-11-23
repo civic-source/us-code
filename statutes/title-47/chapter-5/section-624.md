@@ -3,9 +3,10 @@ title: "Section 624 - Disclosure requirements for United States-based foreign me
 usc_title: 47
 usc_section: "624"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 624"
-generated_at: "2026-03-30T02:56:24.525Z"
+generated_at: "2026-11-23T20:27:28.949Z"
+status: "active"
 ---
 
 # § 624. Disclosure requirements for United States-based foreign media outlets
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:24.525Z"
   - **(2)** The term “United States-based foreign media outlet” means an entity that—
     - **(A)** produces or distributes video programming (as defined in section 522 of this title ) that is transmitted, or intended for transmission, by a multichannel video programming distributor (as defined in such section) to consumers in the United States; and
     - **(B)** would be an agent of a foreign principal (as defined in paragraph (1)) for purposes of the Foreign Agents Registration Act of 1938 ( 22 U.S.C. 611 et seq.) but for section 1(d) of such Act ( 22 U.S.C. 611(d) ).
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title VII, § 722, as added [Pub. L. 115–232, div. A, title X, § 1085](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1991](https://www.govinfo.gov/link/statute/132/1991).)*

@@ -3,9 +3,10 @@ title: "Section 8854 - Department of Energy Quantum User Expansion for Science a
 usc_title: 15
 usc_section: "8854"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 8854"
-generated_at: "2026-03-30T02:54:08.235Z"
+generated_at: "2026-11-23T20:26:04.508Z"
+status: "active"
 ---
 
 # § 8854. Department of Energy Quantum User Expansion for Science and Technology program
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:54:08.235Z"
   - **(3)** $33,075,000 for fiscal year 2025;
   - **(4)** $34,728,750 for fiscal year 2026; and
   - **(5)** $36,465,188 for fiscal year 2027.
+
+## Source Credit
+
+*([Pub. L. 115–368, title IV, § 404](https://www.govinfo.gov/link/plaw/115/public/368), as added [Pub. L. 117–167, div. B, title I, § 10104(b)(2)(A)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1440](https://www.govinfo.gov/link/statute/136/1440).)*

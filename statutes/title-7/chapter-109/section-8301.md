@@ -3,9 +3,10 @@ title: "Section 8301 - Findings"
 usc_title: 7
 usc_section: "8301"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 8301"
-generated_at: "2026-03-30T02:53:42.473Z"
+generated_at: "2026-11-23T20:25:41.878Z"
+status: "active"
 ---
 
 # § 8301. Findings
@@ -27,3 +28,7 @@ Congress finds that—
       - **(i)** to prevent and eliminate burdens on interstate commerce and foreign commerce;
       - **(ii)** to regulate effectively interstate commerce and foreign commerce; and
       - **(iii)** to protect the agriculture, environment, economy, and health and welfare of the people of the United States.
+
+## Source Credit
+
+*([Pub. L. 107–171, title X, § 10402](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 494](https://www.govinfo.gov/link/statute/116/494).)*

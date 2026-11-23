@@ -3,9 +3,10 @@ title: "Section 1309 - Infringement"
 usc_title: 17
 usc_section: "1309"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 1309"
-generated_at: "2026-03-30T02:54:15.357Z"
+generated_at: "2026-11-23T20:26:06.548Z"
+status: "active"
 ---
 
 # § 1309. Infringement
@@ -21,3 +22,21 @@ generated_at: "2026-03-30T02:54:15.357Z"
 - **(e)** As used in this section, an “infringing article” is any article the design of which has been copied from a design protected under this chapter, without the consent of the owner of the protected design. An infringing article is not an illustration or picture of a protected design in an advertisement, book, periodical, newspaper, photograph, broadcast, motion picture, or similar medium. A design shall not be deemed to have been copied from a protected design if it is original and not substantially similar in appearance to a protected design.
 - **(f)** The party to any action or proceeding under this chapter who alleges rights under this chapter in a design shall have the burden of establishing the design’s originality whenever the opposing party introduces an earlier work which is identical to such design, or so similar as to make prima facie showing that such design was copied from such work.
 - **(g)** It is not an infringement of the exclusive rights of a design owner for a person to reproduce the design in a useful article or in any other form solely for the purpose of teaching, analyzing, or evaluating the appearance, concepts, or techniques embodied in the design, or the function of the useful article embodying the design.
+
+Acts of Infringement
+
+Acts of Sellers and Distributors
+
+Acts Without Knowledge
+
+Acts in Ordinary Course of Business
+
+Infringing Article Defined
+
+Establishing Originality
+
+Reproduction for Teaching or Analysis
+
+## Source Credit
+
+*(Added [Pub. L. 105–304, title V, § 502](https://www.govinfo.gov/link/plaw/105/public/304), Oct. 28, 1998, [112 Stat. 2908](https://www.govinfo.gov/link/statute/112/2908).)*

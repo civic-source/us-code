@@ -3,9 +3,10 @@ title: "Section 390ii - Disposition of excess lands"
 usc_title: 43
 usc_section: "390ii"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 390ii"
-generated_at: "2026-03-30T02:55:57.445Z"
+generated_at: "2026-11-23T20:27:06.199Z"
+status: "active"
 ---
 
 # § 390ii. Disposition of excess lands
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:57.445Z"
 - **(f)** Excess lands which have been or may be disposed of in compliance with Federal reclamation law, including this subchapter, shall not be considered eligible to receive irrigation water unless—
   - **(1)** they are held by nonexcess owners; and
   - **(2)** in the case of disposals made after October 12, 1982 , their title is burdened by a covenant prohibiting their sale, for a period of ten years after their original disposal to comply with Federal reclamation law, including this subchapter, for values exceeding the sum of the value of newly added improvements and the value of the land as increased by market appreciation unrelated to the delivery of irrigation water. Upon expiration of the terms of such covenant, the title to such lands shall be freed of the burden of any limitations on subsequent sale values which might otherwise be imposed by the operation of section 423e of this title .
+
+## Source Credit
+
+*([Pub. L. 97–293, title II, § 209](https://www.govinfo.gov/link/plaw/97/public/293), Oct. 12, 1982, [96 Stat. 1267](https://www.govinfo.gov/link/statute/96/1267).)*

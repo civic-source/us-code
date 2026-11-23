@@ -3,9 +3,10 @@ title: "Section 4742 - Definitions"
 usc_title: 12
 usc_section: "4742"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4742"
-generated_at: "2026-03-30T02:53:53.518Z"
+generated_at: "2026-11-23T20:25:59.429Z"
+status: "active"
 ---
 
 # § 4742. Definitions
@@ -34,3 +35,7 @@ For purposes of this subchapter—
     - **(B)** the District of Columbia;
     - **(C)** any political subdivision of a State of the United States, which subdivision has a population in excess of the population of the least populated State of the United States; and
     - **(D)** any other political subdivision of a State of the United States that the Fund determines has the capacity to participate in the program. 1 1 So in original. Probably should be capitalized.
+
+## Source Credit
+
+*([Pub. L. 103–325, title II, § 252](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2204](https://www.govinfo.gov/link/statute/108/2204).)*

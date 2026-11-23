@@ -3,9 +3,10 @@ title: "Section 2009g - Guarantee and commitment to guarantee loans"
 usc_title: 7
 usc_section: "2009g"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2009g"
-generated_at: "2026-03-30T02:53:42.358Z"
+generated_at: "2026-11-23T20:25:41.396Z"
+status: "active"
 ---
 
 # § 2009g. Guarantee and commitment to guarantee loans
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:42.358Z"
 - **(g)** The total amount of outstanding obligations guaranteed on a cumulative basis by the Secretary pursuant to subsection (b) shall not at any time exceed such amount as may be authorized to be appropriated for such purpose for any fiscal year.
 - **(h)** Notes or other obligations guaranteed under this section may not be purchased by the Federal Financing Bank.
 - **(i)** The full faith and credit of the United States is pledged to the payment of all guarantees made under this section. Any such guarantee made by the Secretary shall be conclusive evidence of the eligibility of the obligations for the guarantee with respect to principal and interest. The validity of the guarantee shall be incontestable in the hands of a holder of the guaranteed obligations.
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 381H](https://www.govinfo.gov/link/plaw/87/public/128), as added [Pub. L. 104–127, title VII, § 761](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1145](https://www.govinfo.gov/link/statute/110/1145).)*

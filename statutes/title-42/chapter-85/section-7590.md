@@ -3,9 +3,10 @@ title: "Section 7590 - General provisions"
 usc_title: 42
 usc_section: "7590"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7590"
-generated_at: "2026-03-30T02:56:11.318Z"
+generated_at: "2026-11-23T20:27:22.929Z"
+status: "active"
 ---
 
 # § 7590. General provisions
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.318Z"
 - **(b)** The Administrator shall have no authority under this part to mandate the production of clean-fuel vehicles except as provided in the California pilot test program or to specify as applicable the models, lines, or types of, or marketing or price practices, policies, or strategies for, vehicles subject to this part. Nothing in this part shall be construed to give the Administrator authority to mandate marketing or pricing practices, policies, or strategies for fuels.
 - **(c)** The Secretary of Transportation shall, in accordance with chapter 301 of title 49, promulgate applicable regulations regarding the safety and use of fuel storage cylinders and fuel systems, including appropriate testing and retesting, in conversions of motor vehicles.
 - **(d)** The Administrator shall coordinate with the Secretaries of the Department of Energy and the Department of Transportation in carrying out the Administrator’s duties under this part.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title II, § 250, as added [Pub. L. 101–549, title II, § 229(a)](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2528](https://www.govinfo.gov/link/statute/104/2528).)*

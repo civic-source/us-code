@@ -3,9 +3,10 @@ title: "Section 16423 - Advanced Power System Technology Incentive Program"
 usc_title: 42
 usc_section: "16423"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16423"
-generated_at: "2026-03-30T02:56:11.486Z"
+generated_at: "2026-11-23T20:27:23.685Z"
+status: "active"
 ---
 
 # § 16423. Advanced Power System Technology Incentive Program
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.486Z"
   - **(1)** The term “qualifying advanced power system technology facility” means a facility using an advanced fuel cell, turbine, or hybrid power system or power storage system to generate or store electric energy.
   - **(2)** The term “qualifying security and assured power facility” means a qualifying advanced power system technology facility determined by the Secretary, in consultation with the Secretary of Homeland Security, to be in critical need of secure, reliable, rapidly available, high-quality power for critical governmental, industrial, or commercial applications.
 - **(d)** There are authorized to be appropriated to the Secretary for the purposes of this section, $10,000,000 for each of the fiscal years 2006 through 2012.
+
+## Source Credit
+
+*([Pub. L. 109–58, title XII, § 1224](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 954](https://www.govinfo.gov/link/statute/119/954).)*

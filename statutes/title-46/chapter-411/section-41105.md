@@ -3,9 +3,10 @@ title: "Section 41105 - Concerted action"
 usc_title: 46
 usc_section: "41105"
 chapter: 411
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 41105"
-generated_at: "2026-03-30T02:56:15.564Z"
+generated_at: "2026-11-23T20:27:27.243Z"
+status: "active"
 ---
 
 # § 41105. Concerted action
@@ -25,3 +26,34 @@ A conference or group of two or more common carriers may not—
     - **(C)** agreed to by a shipper in a service contract;
   - **(9)** for service pursuant to a service contract, engage in any unjustly discriminatory practice in the matter of rates or charges with respect to any locality, port, or person due to the person’s status as a shippers’ association or ocean transportation intermediary; or
   - **(10)** for service pursuant to a service contract, give any undue or unreasonable preference or advantage or impose any undue or unreasonable prejudice or disadvantage with respect to any locality, port, or person due to the person’s status as a shippers’ association or ocean transportation intermediary.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 41105 | 46 App.:1709(c). | Pub. L. 98–237, § 10(c) , Mar. 20, 1984 , 98 Stat. 77 ; Pub. L. 105–258, title I, § 109(b) , Oct. 14, 1998 , 112 Stat. 1910 ; Pub. L. 105–383, title IV, § 424(b) , Nov. 13, 1998 , 112 Stat. 3441 . |
+
+
+Historical and Revision Notes
+
+41105
+
+Pub. L. 98–237, § 10(c)
+
+Mar. 20, 1984
+
+98 Stat. 77
+
+Pub. L. 105–258, title I, § 109(b)
+
+Oct. 14, 1998
+
+112 Stat. 1910
+
+Pub. L. 105–383, title IV, § 424(b)
+
+Nov. 13, 1998
+
+112 Stat. 3441
+
+## Source Credit
+
+*([Pub. L. 109–304, § 7](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1542](https://www.govinfo.gov/link/statute/120/1542); [Pub. L. 115–282, title VII, § 709(a)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4296](https://www.govinfo.gov/link/statute/132/4296).)*

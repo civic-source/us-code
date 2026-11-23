@@ -3,9 +3,10 @@ title: "Section 8172 - Management of major information technology projects"
 usc_title: 38
 usc_section: "8172"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 8172"
-generated_at: "2026-03-30T02:55:53.540Z"
+generated_at: "2026-11-23T20:27:02.087Z"
+status: "active"
 ---
 
 # § 8172. Management of major information technology projects
@@ -40,3 +41,19 @@ generated_at: "2026-03-30T02:55:53.540Z"
   - **(3)** A technical lead who is an employee of the Office of Information and Technology of the Department.
   - **(4)** A contracting officer.
   - **(5)** Sufficient other project management, functional, technical, and procurement personnel as the Secretary determines appropriate.
+
+Cost, Schedule, and Performance Information
+
+Baseline
+
+Changes and Variances
+
+Management
+
+Current and new major projects
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 117–328, div. U, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5486](https://www.govinfo.gov/link/statute/136/5486).)*

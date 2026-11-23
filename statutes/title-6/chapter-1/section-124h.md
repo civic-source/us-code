@@ -3,9 +3,10 @@ title: "Section 124h - Department of Homeland Security State, Local, and Regiona
 usc_title: 6
 usc_section: "124h"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 124h"
-generated_at: "2026-03-30T02:53:09.444Z"
+generated_at: "2026-11-23T20:25:34.643Z"
+status: "active"
 ---
 
 # § 124h. Department of Homeland Security State, Local, and Regional Fusion Center Initiative
@@ -101,3 +102,13 @@ generated_at: "2026-03-30T02:53:09.444Z"
   - **(4)** the term “intelligence-led policing” means the collection and analysis of information to produce an intelligence end product designed to inform law enforcement decision making at the tactical and strategic levels; and
   - **(5)** the term “terrorism information” has the meaning given that term in section 485 of this title .
 - **(l)** There is authorized to be appropriated $10,000,000 for each of fiscal years 2008 through 2012, to carry out this section, except for subsection (i), including for hiring officers and intelligence analysts to replace officers and intelligence analysts who are assigned to fusion centers under this section.
+
+Performance Metrics
+
+Training
+
+Fusion Center Defined
+
+## Source Credit
+
+*([Pub. L. 107–296, title II, § 210A](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 110–53, title V, § 511(a)](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 317](https://www.govinfo.gov/link/statute/121/317); amended [Pub. L. 115–278, § 2(g)(2)(F)](https://www.govinfo.gov/link/plaw/115/public/278), Nov. 16, 2018, [132 Stat. 4177](https://www.govinfo.gov/link/statute/132/4177); [Pub. L. 116–116, § 2](https://www.govinfo.gov/link/plaw/116/public/116), Mar. 2, 2020, [134 Stat. 110](https://www.govinfo.gov/link/statute/134/110).)*

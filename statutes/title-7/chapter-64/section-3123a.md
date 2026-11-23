@@ -3,9 +3,10 @@ title: "Section 3123a - Specialty crop committee"
 usc_title: 7
 usc_section: "3123a"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 3123a"
-generated_at: "2026-03-30T02:53:42.393Z"
+generated_at: "2026-11-23T20:25:41.558Z"
+status: "active"
 ---
 
 # § 3123a. Specialty crop committee
@@ -53,3 +54,7 @@ generated_at: "2026-03-30T02:53:42.393Z"
     - **(B)** hastening the development of useful treatments;
     - **(C)** avoiding duplicative and wasteful expenditures; and
     - **(D)** providing the Secretary with such information and advice as the Secretary may request.
+
+## Source Credit
+
+*([Pub. L. 95–113, title XIV, § 1408A](https://www.govinfo.gov/link/plaw/95/public/113), as added [Pub. L. 108–465, title III, § 303](https://www.govinfo.gov/link/plaw/108/public/465), Dec. 21, 2004, [118 Stat. 3885](https://www.govinfo.gov/link/statute/118/3885); amended [Pub. L. 110–234, title VII, § 7103](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1215](https://www.govinfo.gov/link/statute/122/1215); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, § 7103, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1976; [Pub. L. 113–79, title VII, § 7103](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 864](https://www.govinfo.gov/link/statute/128/864); [Pub. L. 115–334, title VII, § 7104](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4783](https://www.govinfo.gov/link/statute/132/4783); [Pub. L. 117–286, § 4(a)(32)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4308](https://www.govinfo.gov/link/statute/136/4308).)*

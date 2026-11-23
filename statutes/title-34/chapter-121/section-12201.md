@@ -3,9 +3,10 @@ title: "Section 12201 - Community development corporation improvement grants"
 usc_title: 34
 usc_section: "12201"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12201"
-generated_at: "2026-03-30T02:55:33.284Z"
+generated_at: "2026-11-23T20:26:50.539Z"
+status: "active"
 ---
 
 # § 12201. Community development corporation improvement grants
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:33.284Z"
     - **(C)** to mobilize resources to be contributed to a planned low-income community economic development project or strategy.
 - **(d)** A community development corporation that desires to receive a grant under this section shall prepare and submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
 - **(e)** Amounts provided under this section to a community development corporation shall not exceed $75,000 per year. Such corporations may apply for grants under this section for up to 3 consecutive years, except that such corporations shall be required to submit a new application for each grant for which such corporation desires to receive and compete on the basis of such applications in the selection process.
+
+## Source Credit
+
+*([Pub. L. 103–322, title III, § 31121](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1885](https://www.govinfo.gov/link/statute/108/1885).)*

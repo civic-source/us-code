@@ -3,9 +3,10 @@ title: "Section 636 - Additional powers"
 usc_title: 15
 usc_section: "636"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 636"
-generated_at: "2026-03-30T02:54:08.087Z"
+generated_at: "2026-11-23T20:26:03.735Z"
+status: "active"
 ---
 
 # § 636. Additional powers
@@ -1097,3 +1098,953 @@ generated_at: "2026-03-30T02:54:08.087Z"
     - **(B)** not later than 30 days after August 17, 1999 , establish guidelines to—
       - **(i)** encourage lenders and other intermediaries to defer repayment of, or provide other relief relating to, loan guarantees under subsection (a) and financings under section 697a of this title that were incurred by small business concerns that are eligible to apply for assistance under subsection (b)(3), and loan guarantees provided under subsection (m) if the intermediary provides relief to a small business concern under this paragraph; and
       - **(ii)** implement a program to provide for the deferral of repayment or other relief to any intermediary providing relief to a small business borrower under this paragraph.
+
+In general.—
+
+Credit elsewhere
+
+In general
+
+Liquidity
+
+Background checks
+
+Lending limits of lenders
+
+Level of participation in guaranteed loans.—
+
+In general
+
+Reduced participation upon request.—
+
+In general
+
+Prohibition
+
+Interest rate under preferred lenders program.—
+
+In general
+
+Export-import bank lenders
+
+Preferred lenders program defined
+
+Participation under export working capital program
+
+Participation in international trade loan
+
+Participation in the paycheck protection program
+
+Interest rates and prepayment charges.—
+
+Interest rates
+
+Payment of accrued interest.—
+
+In general
+
+Loans sold on secondary market
+
+Applicability
+
+Prepayment charges
+
+In general
+
+Subsidy recoupment fee
+
+In general
+
+Deferral requirements
+
+Secondary market.—
+
+In general
+
+Exception
+
+Export working capital program.—
+
+In general
+
+Terms.—
+
+Loan amount
+
+Fees.—
+
+In general
+
+Untapped credit
+
+Considerations
+
+Marketing
+
+International trade.—
+
+In general
+
+Security.—
+
+In general
+
+Exception
+
+Engaged in international trade
+
+Adversely affected by international trade
+
+Findings by certain federal agencies
+
+List of export finance lenders.—
+
+Publication of list required
+
+Availability of list
+
+Guarantee fees.—
+
+In general
+
+Retention of certain fees
+
+Authority to liquidate loans.—
+
+In general
+
+Automatic approval
+
+Job creation and community benefit
+
+Yearly fee.—
+
+In general
+
+Payer
+
+Lowering of borrower fees
+
+Notification requirement
+
+Limitation on conducting pilot projects.—
+
+In general
+
+“Pilot program” defined
+
+Low documentation loan program
+
+Calculation of subsidy rate
+
+Leasing
+
+Real estate appraisals
+
+In general
+
+Federal banking regulator appraisal threshold defined
+
+Ownership requirements
+
+Express loans.—
+
+Definitions
+
+Restriction to express lender
+
+Grandfathering of existing lenders
+
+Maximum loan amount
+
+Option to participate
+
+Express loans for renewable energy and energy efficiency.—
+
+Definitions
+
+(aa) means any organic material that is available on a renewable or recurring basis, including— (AA) agricultural crops; (BB) trees grown for energy production; (CC) wood waste and wood residues; (DD) plants (including aquatic plants and grasses); (EE) residues; (FF) fibers; (GG) animal wastes and other waste materials; and (HH) fats, oils, and greases (including recycled fats, oils, and greases); and
+
+(bb) does not include— (AA) paper that is commonly recycled; or (BB) unsegregated solid waste;
+
+(aa) a wind, solar, biomass (including biodiesel), or geothermal source; or
+
+(bb) hydrogen derived from biomass or water using an energy source described in item (aa).
+
+Loans
+
+Guarantee fee waiver for veterans.—
+
+Guarantee fee waiver
+
+Definition
+
+Recovery opportunity loans.—
+
+In general
+
+Maximums
+
+Overall cap
+
+Operations
+
+Repayment ability
+
+Timing of payment of guarantees.—
+
+In general
+
+Recapture
+
+Fees.—
+
+In general
+
+Exception
+
+Rules
+
+Loans for energy efficient technologies.—
+
+Definitions
+
+Establishment
+
+Duration
+
+Maximum participation
+
+Fees.—
+
+In general
+
+Waiver
+
+Effect of waiver
+
+No increase of fees
+
+report.—
+
+In general
+
+Contents
+
+Increased veteran participation program.—
+
+Definitions
+
+Establishment
+
+Duration
+
+Maximum participation
+
+Fees.—
+
+In general
+
+Waiver
+
+Effect of waiver
+
+No increase of fees
+
+report.—
+
+In general
+
+Contents
+
+Export express program.—
+
+Definitions
+
+Authority
+
+Level of participation.—
+
+Maximum amount
+
+Percentage
+
+Loans to cooperatives.—
+
+Definition
+
+Authority
+
+Paycheck protection program.—
+
+Definitions
+
+(aa) the sum of payments of any compensation with respect to employees that is a— (AA) salary, wage, commission, or similar compensation; (BB) payment of cash tip or equivalent; (CC) payment for vacation, parental, family, medical, or sick leave; (DD) allowance for dismissal or separation; (EE) payment required for the provisions of group health care or group life, disability, vision, or dental insurance benefits, including insurance premiums; (FF) payment of any retirement benefit; or (GG) payment of State or local tax assessed on the compensation of employees; and
+
+(bb) the sum of payments of any compensation to or income of a sole proprietor or independent contractor that is a wage, commission, income, net earnings from self-employment, or similar compensation and that is in an amount that is not more than $100,000 on an annualized basis, as prorated for the period during which the payments are made or the obligation to make the payments is incurred; and
+
+(aa) the compensation of an individual employee in excess of $100,000 on an annualized basis, as prorated for the period during which the compensation is paid or the obligation to pay the compensation is incurred;
+
+(bb) taxes imposed or withheld under chapters 21, 22, or 24 of title 26 during the applicable period;
+
+(cc) any compensation of an employee whose principal place of residence is outside of the United States;
+
+(dd) qualified sick leave wages for which a credit is allowed under section 7001 of the Families First Coronavirus Response Act ( Public Law 116–127 ); or
+
+(ee) qualified family leave wages for which a credit is allowed under section 7003 of the Families First Coronavirus Response Act ( Public Law 116–127 );
+
+(aa) engaged in marketing and promoting communities and facilities to businesses and leisure travelers through a range of activities, including— (AA) assisting with the location of meeting and convention sites; (BB) providing travel information on area attractions, lodging accommodations, and restaurants; (CC) providing maps; and (DD) organizing group tours of local historical, recreational, and cultural attractions; or
+
+(bb) that is engaged in, and derives the majority of the operating budget of the entity from revenue attributable to, providing live events;
+
+Paycheck protection loans
+
+Registration of loans
+
+Increased eligibility for certain small businesses and organizations.—
+
+In general
+
+Inclusion of sole proprietors, independent contractors, and eligible self-employed individuals.—
+
+In general
+
+Documentation
+
+Business concerns with more than 1 physical location.—
+
+In general
+
+Eligibility of news organizations.—
+
+(aa) Definition .— In this subclause, the term “included business concern” means a business concern, including any station which broadcasts pursuant to a license granted by the Federal Communications Commission under title III of the Communications Act of 1934 ( 47 U.S.C. 301 et seq.) without regard for whether such a station is a concern as defined in section 121.105 of title 13, Code of Federal Regulations, or any successor thereto— (AA) that employs not more than 500 employees, or the size standard established by the Administrator for the North American Industry Classification System code applicable to the business concern, per physical location of such business concern; or (BB) any nonprofit organization or any organization otherwise subject to section 511(a)(2)(B) of title 26 that is a public broadcasting entity (as defined in section 397(11) of the Communications Act of 1934 ( 47 U.S.C. 397(11) )).
+
+(bb) Eligibility .— During the covered period, an included business concern shall be eligible to receive a covered loan if— (AA) the included business concern is majority owned or controlled by a business concern that is assigned a North American Industry Classification System code beginning with 511110 or 5151 or, with respect to a public broadcasting entity (as defined in section 397(11) of the Communications Act of 1934 ( 47 U.S.C. 397(11) )), has a trade or business that falls under such a code; and (BB) the included business concern makes a good faith certification that proceeds of the loan will be used to support expenses at the component of the included business concern that produces or distributes locally focused or emergency information.
+
+Eligibility of certain organizations
+
+(aa) a nonprofit organization shall be eligible to receive a covered loan if the nonprofit organization employs not more than 500 employees per physical location of the organization; and
+
+(bb) an additional covered nonprofit entity and an organization that, but for subclauses (I)(dd) and (II)(dd) of clause (vii), would be eligible for a covered loan under clause (vii) shall be eligible to receive a covered loan if the entity or organization employs not more than 300 employees per physical location of the entity or organization.
+
+Eligibility of internet publishing organizations
+
+(aa) the business concern or organization employs not more than 500 employees, or the size standard established by the Administrator for that North American Industry Classification code, per physical location of the business concern or organization; and
+
+(bb) the business concern or organization makes a good faith certification that proceeds of the loan will be used to support expenses at the component of the business concern or organization that supports local or regional news.
+
+Waiver of affiliation rules
+
+(aa) any business concern (including any station which broadcasts pursuant to a license granted by the Federal Communications Commission under title III of the Communications Act of 1934 ( 47 U.S.C. 301 et seq.) without regard for whether such a station is a concern as defined in section 121.105 of title 13, Code of Federal Regulations, or any successor thereto) that employs not more than 500 employees, or the size standard established by the Administrator for the North American Industry Classification System code applicable to the business concern, per physical location of such business concern and is majority owned or controlled by a business concern that is assigned a North American Industry Classification System code beginning with 511110 or 5151; or
+
+(bb) any nonprofit organization that is assigned a North American Industry Classification System code beginning with 5151; and
+
+(aa) employs not more than 500 employees, or the size standard established by the Administrator for that North American Industry Classification code, per physical location of the business concern or organization; and
+
+(bb) is majority owned or controlled by a business concern or organization that is assigned a North American Industry Classification System code of 519130.
+
+Employee
+
+Affiliation
+
+Eligibility for certain
+
+organizations.—
+
+In general
+
+(aa) the organization does not receive more than 15 percent of its receipts from lobbying activities;
+
+(bb) the lobbying activities of the organization do not comprise more than 15 percent of the total activities of the organization;
+
+(cc) the cost of the lobbying activities of the organization did not exceed $1,000,000 during the most recent tax year of the organization that ended prior to February 15, 2020 ; and
+
+(dd) the organization employs not more than 300 employees.
+
+Destination marketing organizations
+
+(aa) the destination marketing organization does not receive more than 15 percent of its receipts from lobbying activities;
+
+(bb) the lobbying activities of the destination marketing organization do not comprise more than 15 percent of the total activities of the organization;
+
+(cc) the cost of the lobbying activities of the destination marketing organization did not exceed $1,000,000 during the most recent tax year of the destination marketing organization that ended prior to February 15, 2020 ; and 6 6 So in original. The word “and” probably should not appear.
+
+(dd) the destination marketing organization employs not more than 300 employees; and
+
+(ee) the destination marketing organization— (AA) is described in section 501(c) of title 26 and is exempt from taxation under section 501(a) of such title; or (BB) is a quasi-governmental entity or is a political subdivision of a State or local government, including any instrumentality of those entities.
+
+Ineligibility of publicly-traded entities.—
+
+In general
+
+Rule for affiliated entities
+
+Eligibility of additional covered nonprofit entities
+
+Maximum loan amount
+
+(aa) the product obtained by multiplying— (AA) the average total monthly payments by the applicant for payroll costs incurred during the 1-year period before the date on which the loan is made, except that an applicant that is a seasonal employer shall use the average total monthly payments for payroll for any 12-week period selected by the seasonal employer between February 15, 2019 , and February 15, 2020 ; by (BB) 2.5; and
+
+(bb) the outstanding amount of a loan under subsection (b)(2) that was made during the period beginning on January 31, 2020 and ending on the date on which covered loans are made available to be refinanced under the covered loan; or
+
+(aa) the product obtained by multiplying— (AA) the average total monthly payments by the applicant for payroll costs incurred during the period beginning on January 1, 2020 and ending on February 29, 2020 ; by (BB) 2.5; and
+
+(bb) the outstanding amount of a loan under subsection (b)(2) that was made during the period beginning on January 31, 2020 and ending on the date on which covered loans are made available to be refinanced under the covered loan; or
+
+Allowable uses of covered loans.—
+
+In general
+
+Delegated authority.—
+
+In general
+
+Considerations
+
+(aa) was in operation on February 15, 2020 ; and
+
+(bb) (AA) had employees for whom the borrower paid salaries and payroll taxes; or (BB) paid independent contractors, as reported on a Form 1099–MISC.
+
+Additional lenders
+
+Refinance
+
+Nonrecourse
+
+Prohibition
+
+Borrower requirements.—
+
+Certification
+
+Fee waiver
+
+Credit elsewhere
+
+Waiver of personal guarantee requirement
+
+Maturity for loans with remaining balance after application of forgiveness
+
+Interest rate requirements
+
+Loan deferment.—
+
+Definition of impacted borrower.—
+
+In general
+
+(aa) is in operation on February 15, 2020 ; and
+
+(bb) has an application for a covered loan that is approved or pending approval on or after March 27, 2020 .
+
+Presumption
+
+Deferral
+
+Secondary market
+
+Guidance
+
+Rule of construction
+
+Secondary market sales
+
+Regulatory capital requirements.—
+
+Risk weight
+
+Temporary relief from tdr disclosures
+
+Reimbursement for processing.—
+
+In general
+
+(aa) 5 percent for loans of not more than $350,000;
+
+(bb) 3 percent for loans of more than $350,000 and less than $2,000,000; and
+
+(cc) 1 percent for loans of not less than $2,000,000.
+
+(aa) for a covered loan of not more than $50,000, in an amount equal to the lesser of— (AA) 50 percent of the balance of the financing outstanding at the time of disbursement of the covered loan; or (BB) $2,500; and
+
+(bb) at a rate, based on the balance of the financing outstanding at the time of disbursement of the covered loan, of— (AA) 5 percent for a covered loan of more than $50,000 and not more than $350,000; (BB) 3 percent for a covered loan of more than $350,000 and less than $2,000,000; and (CC) 1 percent for a covered loan of not less than $2,000,000.
+
+Fee limits
+
+Timing
+
+Sense of the senate
+
+Duplication
+
+Waiver of prepayment penalty
+
+Set-aside for insured depository institutions, credit unions, and community financial institutions.—
+
+Insured depository institutions and credit unions
+
+Community financial institutions, small insured depository institutions, and credit unions
+
+Requirement for date in operation
+
+Exclusion of entities receiving shuttered venue operator grants
+
+Calculation of maximum loan amount for farmers and ranchers.—
+
+Definition
+
+No employees
+
+(aa) the product obtained by multiplying— (AA) the gross income of the covered recipient in 2019, as reported on a Schedule F (or any equivalent successor schedule), that is not more than $100,000, divided by 12; and (BB) 2.5; and
+
+(bb) the outstanding amount of a loan under subsection (b)(2) that was made during the period beginning on January 31, 2020 and ending on April 3, 2020 that the borrower intends to refinance under the covered loan, not including any amount of any advance under the loan that is not required to be repaid; or
+
+With employees
+
+Recalculation
+
+Fraud enforcement harmonization
+
+Paycheck protection program second draw loans.—
+
+Definitions
+
+(aa) employs not more than 300 employees; and
+
+(bb) (AA) except as provided in subitems (BB), (CC), and (DD), had gross receipts during the first, second, third, or, only with respect to an application submitted on or after January 1, 2021 , fourth quarter in 2020 that demonstrate not less than a 25 percent reduction from the gross receipts of the entity during the same quarter in 2019; (BB) if the entity was not in business during the first or second quarter of 2019, but was in business during the third and fourth quarter of 2019, had gross receipts during the first, second, third, or, only with respect to an application submitted on or after January 1, 2021 , fourth quarter of 2020 that demonstrate not less than a 25 percent reduction from the gross receipts of the entity during the third or fourth quarter of 2019; (CC) if the entity was not in business during the first, second, or third quarter of 2019, but was in business during the fourth quarter of 2019, had gross receipts during the first, second, third, or, only with respect to an application submitted on or after January 1, 2021 , fourth quarter of 2020 that demonstrate not less than a 25 percent reduction from the gross receipts of the entity during the fourth quarter of 2019; or (DD) if the entity was not in business during 2019, but was in operation on February 15, 2020 , had gross receipts during the second, third, or, only with respect to an application submitted on or after January 1, 2021 , fourth quarter of 2020 that demonstrate not less than a 25 percent reduction from the gross receipts of the entity during the first quarter of 2020;
+
+(aa) any entity that is a type of business concern (or would be, if such entity were a business concern) described in section 120.110 of title 13, Code of Federal Regulations (or in any successor regulation or other related guidance or rule that may be issued by the Administrator) other than a business concern described in subsection (a) or (k) of such section; or
+
+(bb) any business concern or entity primarily engaged in political or lobbying activities, which shall include any entity that is organized for research or for engaging in advocacy in areas such as public policy or political strategy or otherwise describes itself as a think tank in any public documents;
+
+(cc) any business concern or entity— (AA) for which an entity created in or organized under the laws of the People’s Republic of China or the Special Administrative Region of Hong Kong, or that has significant operations in the People’s Republic of China or the Special Administrative Region of Hong Kong, owns or holds, directly or indirectly, not less than 20 percent of the economic interest of the business concern or entity, including as equity shares or a capital or profit interest in a limited liability company or partnership; or (BB) that retains, as a member of the board of directors of the business concern, a person who is a resident of the People’s Republic of China;
+
+(dd) any person required to submit a registration statement under section 612 of title 22 ; or
+
+(ee) an eligible person or entity (as defined under section 9009a of this title ) that receives a grant under such section 9009a; and
+
+Loans
+
+Maximum loan amount.—
+
+In general
+
+(aa) at the election of the eligible entity, the average total monthly payment for payroll costs incurred or paid by the eligible entity during— (AA) the 1-year period before the date on which the loan is made; or (BB) calendar year 2019; by
+
+(bb) 2.5; or
+
+Seasonal employers
+
+(aa) at the election of the eligible entity, the average total monthly payments for payroll costs incurred or paid by the eligible entity for any 12-week period between February 15, 2019 and February 15, 2020 ; by
+
+(bb) 2.5; or
+
+New entities
+
+(aa) the quotient obtained by dividing— (AA) the sum of the total monthly payments by the eligible entity for payroll costs paid or incurred by the eligible entity as of the date on which the eligible entity applies for the covered loan; by (BB) the number of months in which those payroll costs were paid or incurred; by
+
+(bb) 2.5; or
+
+NAICS 72 entities
+
+(aa) at the election of the eligible entity, the average total monthly payment for payroll costs incurred or paid by the eligible entity during— (AA) the 1-year period before the date on which the loan is made; or (BB) calendar year 2019; by
+
+(bb) 3.5; or
+
+Business concerns with more than 1 physical location.—
+
+In general
+
+Size limit
+
+Waiver of affiliation rules.—
+
+In general
+
+Size limit
+
+Loan number limitation
+
+Exception from certain certification requirements
+
+Fee waiver
+
+Gross receipts and simplified certification of revenue test.—
+
+Loans of up to $150,000
+
+For nonprofit and veterans organizations
+
+Loan forgiveness.—
+
+Definition of covered period
+
+Forgiveness generally
+
+Forgiveness amount
+
+(aa) qualified wages, as defined in subsection (c)(3) of section 2301 of the CARES Act ( 26 U.S.C. 3111 note), taken into account in determining the credit allowed under such section;
+
+(bb) qualified wages taken into account in determining the credit allowed under subsection (a) or (d) of section 303 of the Taxpayer Certainty and Disaster Relief Act of 2020; or
+
+(cc) premiums taken into account in determining the credit allowed under section 6432 of title 26 .
+
+Limitation on forgiveness for all eligible entities
+
+(aa) the amount of the covered loan used for payroll costs during the covered period; and
+
+(bb) 0.60.
+
+Submission of materials for forgiveness
+
+Lender eligibility
+
+Reimbursement for loan processing and servicing
+
+Publication of guidance
+
+Standard operating procedure
+
+Supplemental covered loans
+
+Fraud enforcement harmonization
+
+Coordination with fema.—
+
+In general
+
+Deadlines
+
+Public awareness of disasters
+
+Authority for qualified private contractors.—
+
+Disaster loan processing
+
+Loan loss verification services
+
+Disaster assistance employees.—
+
+In general
+
+Report
+
+Increased loan caps.—
+
+Aggregate loan amounts
+
+Waiver authority
+
+Declaration of eligibility for additional disaster assistance.—
+
+In general
+
+Threshold
+
+Additional economic injury disaster loan assistance.—
+
+In general
+
+Processing time.—
+
+In general
+
+Suspension of applications from outside disaster area
+
+Loan terms
+
+Definitions
+
+(aa) for which not less than 25 percent of the market share of that small business concern is from business transacted in the disaster area;
+
+(bb) for which not less than 25 percent of an input into a production process of that small business concern is from the disaster area; or
+
+(cc) that relies on a provider located in the disaster area for a service that is not readily available elsewhere.
+
+Reducing closing and disbursement delays
+
+Increasing transparency in loan approvals
+
+Additional awards to small business development centers, women’s business centers, and score for disaster recovery.—
+
+In general
+
+Form of financial assistance
+
+No matching funds required
+
+Requirements
+
+Performance.—
+
+In general
+
+Use of estimates
+
+Term.—
+
+In general
+
+Extension
+
+Exemption from other program requirements
+
+Competitive basis
+
+Supplemental assistance for contractor malfeasance.—
+
+In general
+
+Requirements
+
+Business recovery centers.—
+
+In general
+
+Requirements for identification
+
+Increased oversight of economic injury disaster loans
+
+Disaster declaration in rural areas.—
+
+Definitions
+
+Disaster declaration
+
+SBA report
+
+Statute of limitations
+
+Disaster loans for superstorm sandy.—
+
+In general
+
+Timing
+
+Inspector general review
+
+(aa) the term “covered period” means the 2-year period beginning on the date on which the President declared the applicable major disaster; and
+
+(bb) the term “disaster area” means the area for which the President has declared a major disaster, during the covered period.
+
+(aa) the small business concern meets the requirements for such a transfer, without regard to whether the small business concern is a Program Participant; and
+
+(bb) for a small business concern that is a Program Participant, on and after the date on which the President declared the applicable major disaster, the small business concern has not received property under this subparagraph on the basis of the status of the small business concern as a Program Participant.
+
+(aa) in the case of a Puerto Rico business, the period beginning on August 13, 2018 , and ending on the date on which the Oversight Board established under section 2121 of title 48 terminates; and
+
+(bb) in the case of a covered territory business, the period beginning on January 1, 2021 , and ending on the date that is 4 years after such date.
+
+(aa) the average annual loss rate for the intermediary during the preceding 5-year period is less than 15 percent; and
+
+(bb) that 20 20 So in original. The word “that” probably should not appear. no other factors exist that may impair the ability of the intermediary to repay all obligations owed to the Administration under this subsection.
+
+(aa) that averages not more than $10,000 during the period of the intermediary’s participation in the program; or
+
+(bb) of which not less than 25 percent is serving rural areas during the period of the intermediary’s participation in the program.
+
+(aa) to pay or reimburse a portion of child care and transportation costs of recipients of assistance described in clause (i), to the extent such costs are not otherwise paid by State block grants under the Child Care Development Block Grant Act of 1990 ( 42 U.S.C. 9858 2 et seq.) or under part A of title IV of the Social Security Act ( 42 U.S.C. 601 et seq.); and
+
+(bb) for marketing, management, and technical assistance to recipients of assistance described in clause (i).
+
+(aa) $800,000; or
+
+(bb) 1 ⁄ 55 of the total amount of new loan funds made available for award under this subsection for that fiscal year; and
+
+In general
+
+Exclusion of loans already forgiven
+
+In general
+
+Exclusion of loans already forgiven
+
+In general
+
+Exclusion of loans already forgiven
+
+Definitions
+
+Applicability
+
+In general
+
+Disaster loans
+
+“The Small Business Administration shall—
+
+“For purposes of the Internal Revenue Code of 1986 [ 26 U.S.C. 1 et seq.], in the case of any taxable year ending after the date of the enactment of this Act [ Dec. 27, 2020 ]—
+
+Sense of congress
+
+Applicability of prohibition
+
+Definitions
+
+Rules or Guidance
+
+Interim Final Rules
+
+Definition of Farm Credit System Institution
+
+Facilitation of Participation in PPP and Second Draw Loans.—
+
+Applicable rules
+
+Applicability of certain loan requirements
+
+Risk weight.—
+
+In general
+
+Loans described
+
+Effective Date; Applicability
+
+Definitions
+
+Controlling interest
+
+Covered entity.—
+
+Definition
+
+Treatment of securities
+
+Covered individual
+
+Executive department
+
+Member of congress
+
+Equity interest
+
+Requirement for Disclosure Regarding Existing Loans
+
+Ban on New Loans
+
+In general
+
+Application of fee eliminations or reductions
+
+“During the period beginning on the date of enactment of this Act [ Dec. 27, 2020 ] and ending on September 30, 2021 , the [Small Business] Administration shall waive—
+
+In general
+
+Reversion
+
+“Congress finds the following:
+
+“Not later than 90 days after the date of enactment of this Act [ June 18, 2008 ], the Administrator shall create a marketing and outreach plan that—
+
+“In this Act [see Short Title of 2008 Amendment note set out under section 631 of this title ]—
+
+Pre-Consideration Process.—
+
+Definition
+
+Establishment
+
+Outreach and Technical Assistance Program.—
+
+In general
+
+Components
+
+Report.—
+
+In general
+
+Contents
+
+In General
+
+Marketing
+
+“Congress finds that—
+
+In general
+
+Limitation on amounts
+
+DELTA Program Authorized.—
+
+In general
+
+Expiration of authority
+
+DELTA program defined
+
+Assistance.—
+
+Authority
+
+Forms of assistance
+
+Loan guarantees
+
+Nonfinancial assistance
+
+Administration of Program
+
+Selection and Eligibility Requirements for DELTA Loan Guarantees.—
+
+In general
+
+Selection criteria
+
+Eligibility requirements
+
+Maximum Amount of Loan Principal
+
+Loan Guaranty Rate
+
+Funding.—
+
+In general
+
+Continued availability of existing funds
+
+Research, Development, Test and Evaluation, Defense-Wide
+
+In general.—
+
+Demonstration program required
+
+Initiation date
+
+Demonstration program parameters.—
+
+Loan sample
+
+Contract and options
+
+Term of demonstration program
+
+Reports.—
+
+Interim reports
+
+Final report
+
+“The Congress finds that—
+
+Publication of Decisions
+
+Precedential Value of Prior Decisions
+
+“For the purposes of this Act [see Short Title of 1988 Amendment note set out under section 631 of this title ]—
+
+Findings
+
+Purposes
+
+Training Requirements for Business Opportunity Specialists
+
+Pilot Program
+
+Report and Pilot Program Termination
+
+## Source Credit
+
+*([Pub. L. 85–536, § 2[7]](https://www.govinfo.gov/link/plaw/85/public/536), July 18, 1958, [72 Stat. 387](https://www.govinfo.gov/link/statute/72/387); [Pub. L. 85–699, title VI, § 602(c)](https://www.govinfo.gov/link/plaw/85/public/699), Aug. 21, 1958, [72 Stat. 698](https://www.govinfo.gov/link/statute/72/698); [Pub. L. 86–367, § 2](https://www.govinfo.gov/link/plaw/86/public/367), Sept. 22, 1959, [73 Stat. 647](https://www.govinfo.gov/link/statute/73/647); [Pub. L. 87–70, title III, § 305[a]](https://www.govinfo.gov/link/plaw/87/public/70), June 30, 1961, [75 Stat. 167](https://www.govinfo.gov/link/statute/75/167); [Pub. L. 87–305, § 9](https://www.govinfo.gov/link/plaw/87/public/305), Sept. 26, 1961, [75 Stat. 668](https://www.govinfo.gov/link/statute/75/668); [Pub. L. 88–264, § 1](https://www.govinfo.gov/link/plaw/88/public/264), Feb. 5, 1964, [78 Stat. 7](https://www.govinfo.gov/link/statute/78/7); [Pub. L. 88–560, title III, § 319](https://www.govinfo.gov/link/plaw/88/public/560), Sept. 2, 1964, [78 Stat. 794](https://www.govinfo.gov/link/statute/78/794); [Pub. L. 89–59, § 1(a)](https://www.govinfo.gov/link/plaw/89/public/59), (b), June 30, 1965, [79 Stat. 206](https://www.govinfo.gov/link/statute/79/206); [Pub. L. 89–409, § 3(a)](https://www.govinfo.gov/link/plaw/89/public/409), May 2, 1966, [80 Stat. 133](https://www.govinfo.gov/link/statute/80/133); [Pub. L. 89–769, § 7(b)](https://www.govinfo.gov/link/plaw/89/public/769), Nov. 6, 1966, [80 Stat. 1319](https://www.govinfo.gov/link/statute/80/1319); [Pub. L. 90–104, title I](https://www.govinfo.gov/link/plaw/90/public/104), §§ 103, 104, Oct. 11, 1967, [81 Stat. 268](https://www.govinfo.gov/link/statute/81/268); [Pub. L. 90–448, title XI, § 1106(a)](https://www.govinfo.gov/link/plaw/90/public/448), Aug. 1, 1968, [82 Stat. 567](https://www.govinfo.gov/link/statute/82/567); [Pub. L. 90–495, § 31](https://www.govinfo.gov/link/plaw/90/public/495), Aug. 23, 1968, [82 Stat. 835](https://www.govinfo.gov/link/statute/82/835); [Pub. L. 91–173, title V, § 504(a)](https://www.govinfo.gov/link/plaw/91/public/173), (b), Dec. 30, 1969, [83 Stat. 802](https://www.govinfo.gov/link/statute/83/802); [Pub. L. 91–596, § 28(a)](https://www.govinfo.gov/link/plaw/91/public/596), (b), Dec. 29, 1970, [84 Stat. 1618](https://www.govinfo.gov/link/statute/84/1618); [Pub. L. 91–597, § 25(a)](https://www.govinfo.gov/link/plaw/91/public/597), (b), Dec. 29, 1970, [84 Stat. 1633](https://www.govinfo.gov/link/statute/84/1633), 1634; [Pub. L. 92–385](https://www.govinfo.gov/link/plaw/92/public/385), §§ 1(a), 2(a), Aug. 16, 1972, [86 Stat. 554](https://www.govinfo.gov/link/statute/86/554), 555; [Pub. L. 92–500, § 8(a)](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 898](https://www.govinfo.gov/link/statute/86/898); [Pub. L. 92–595, § 3(b)](https://www.govinfo.gov/link/plaw/92/public/595), Oct. 27, 1972, [86 Stat. 1316](https://www.govinfo.gov/link/statute/86/1316); [Pub. L. 93–237](https://www.govinfo.gov/link/plaw/93/public/237), §§ 2(a), (b), 3(a), 5, 6, Jan. 2, 1974, [87 Stat. 1023](https://www.govinfo.gov/link/statute/87/1023), 1024; [Pub. L. 93–386](https://www.govinfo.gov/link/plaw/93/public/386), §§ 2(a)(4), 3(2), 8, 9, 12, Aug. 23, 1974, [88 Stat. 742](https://www.govinfo.gov/link/statute/88/742), 746, 748, 749; [Pub. L. 94–305, title I](https://www.govinfo.gov/link/plaw/94/public/305), §§ 108(b), 109, 111, 112(c), (d), 114, June 4, 1976, [90 Stat. 666](https://www.govinfo.gov/link/statute/90/666), 667; [Pub. L. 95–89, title I, § 101(d)](https://www.govinfo.gov/link/plaw/95/public/89), (e), title III, §§ 301, 302, title IV, §§ 402–405, Aug. 4, 1977, [91 Stat. 553](https://www.govinfo.gov/link/statute/91/553), 558–560; [Pub. L. 95–315](https://www.govinfo.gov/link/plaw/95/public/315), §§ 2, 3, July 4, 1978, [92 Stat. 377](https://www.govinfo.gov/link/statute/92/377), 378; [Pub. L. 95–507, title II](https://www.govinfo.gov/link/plaw/95/public/507), §§ 204, 205, 231, Oct. 24, 1978, [92 Stat. 1764](https://www.govinfo.gov/link/statute/92/1764), 1766, 1772; [Pub. L. 95–510, § 104](https://www.govinfo.gov/link/plaw/95/public/510), Oct. 24, 1978, [92 Stat. 1782](https://www.govinfo.gov/link/statute/92/1782); [Pub. L. 96–38, title I, § 101(a)](https://www.govinfo.gov/link/plaw/96/public/38), (b), July 25, 1979, [93 Stat. 118](https://www.govinfo.gov/link/statute/93/118); [Pub. L. 96–302, title I](https://www.govinfo.gov/link/plaw/96/public/302), §§ 119(a), (b), 122–124, title II, § 203, title V, § 505, July 2, 1980, [94 Stat. 840](https://www.govinfo.gov/link/statute/94/840), 841, 843, 848, 852; [Pub. L. 96–481, title I](https://www.govinfo.gov/link/plaw/96/public/481), §§ 104, 106(a), 107, 112, Oct. 21, 1980, [94 Stat. 2322](https://www.govinfo.gov/link/statute/94/2322), 2323; [Pub. L. 97–35, title XIX](https://www.govinfo.gov/link/plaw/97/public/35), §§ 1902, 1910–1912, 1913(a), (c), 1914, Aug. 13, 1981, [95 Stat. 767](https://www.govinfo.gov/link/statute/95/767), 778–780; [Pub. L. 98–270, title III](https://www.govinfo.gov/link/plaw/98/public/270), §§ 301, 304, 308, 309, 311, Apr. 18, 1984, [98 Stat. 159–161](https://www.govinfo.gov/link/statute/98/159); [Pub. L. 98–395, § 5](https://www.govinfo.gov/link/plaw/98/public/395), Aug. 21, 1984, [98 Stat. 1368](https://www.govinfo.gov/link/statute/98/1368); [Pub. L. 99–272, title XVIII](https://www.govinfo.gov/link/plaw/99/public/272), §§ 18006(a)(1), (2), 18007, 18013, Apr. 7, 1986, [100 Stat. 366](https://www.govinfo.gov/link/statute/100/366), 370; [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 100–418, title VIII](https://www.govinfo.gov/link/plaw/100/public/418), §§ 8005, 8007(a), Aug. 23, 1988, [102 Stat. 1557](https://www.govinfo.gov/link/statute/102/1557), 1559; [Pub. L. 100–533, title III, § 302(a)](https://www.govinfo.gov/link/plaw/100/public/533), Oct. 25, 1988, [102 Stat. 2693](https://www.govinfo.gov/link/statute/102/2693); [Pub. L. 100–590, title I](https://www.govinfo.gov/link/plaw/100/public/590), §§ 102(a), 103, 111(c), 119(a), 120–122, Nov. 3, 1988, [102 Stat. 2992](https://www.govinfo.gov/link/statute/102/2992), 2995, 2999, 3000; [Pub. L. 100–656, title II](https://www.govinfo.gov/link/plaw/100/public/656), §§ 201(a), 202, 203, 205, 206, 208, title III, §§ 301–303(a), title IV, § 408, title V, § 505(h), Nov. 15, 1988, [102 Stat. 3856](https://www.govinfo.gov/link/statute/102/3856), 3858, 3859, 3861, 3862, 3865–3868, 3877, 3887; [Pub. L. 100–707, title I, § 109(f)](https://www.govinfo.gov/link/plaw/100/public/707), Nov. 23, 1988, [102 Stat. 4708](https://www.govinfo.gov/link/statute/102/4708); [Pub. L. 101–37](https://www.govinfo.gov/link/plaw/101/public/37), §§ 4–6(a), 7(a), 8–10(b), June 15, 1989, [103 Stat. 70–73](https://www.govinfo.gov/link/statute/103/70); [Pub. L. 101–162, title V](https://www.govinfo.gov/link/plaw/101/public/162), (1), (2), Nov. 21, 1989, [103 Stat. 1024](https://www.govinfo.gov/link/statute/103/1024), 1025; [Pub. L. 101–574, title II](https://www.govinfo.gov/link/plaw/101/public/574), §§ 202, 204(a), 206, 242, 245, title III, § 307, Nov. 15, 1990, [104 Stat. 2818–2820](https://www.govinfo.gov/link/statute/104/2818), 2827, 2830; [Pub. L. 102–140, title VI, § 609(b)](https://www.govinfo.gov/link/plaw/102/public/140), (h), Oct. 28, 1991, [105 Stat. 825](https://www.govinfo.gov/link/statute/105/825), 827; [Pub. L. 102–191, § 4](https://www.govinfo.gov/link/plaw/102/public/191), Dec. 5, 1991, [105 Stat. 1591](https://www.govinfo.gov/link/statute/105/1591); [Pub. L. 102–366, title I](https://www.govinfo.gov/link/plaw/102/public/366), §§ 104, 113(a), title II, § 211, Sept. 4, 1992, [106 Stat. 988](https://www.govinfo.gov/link/statute/106/988), 989, 997; [Pub. L. 102–564, title III, § 307(b)](https://www.govinfo.gov/link/plaw/102/public/564), (c), Oct. 28, 1992, [106 Stat. 4263](https://www.govinfo.gov/link/statute/106/4263), 4264; [Pub. L. 103–81](https://www.govinfo.gov/link/plaw/103/public/81), §§ 4, 5(a), 8, Aug. 13, 1993, [107 Stat. 781](https://www.govinfo.gov/link/statute/107/781), 782; [Pub. L. 103–403, title II](https://www.govinfo.gov/link/plaw/103/public/403), §§ 201, 202, 204–208(b), 209–211, title VI, §§ 603–605(a), Oct. 22, 1994, [108 Stat. 4180–4183](https://www.govinfo.gov/link/statute/108/4180), 4202, 4203; [Pub. L. 104–36](https://www.govinfo.gov/link/plaw/104/public/36), §§ 2–4(a), 5, Oct. 12, 1995, [109 Stat. 295–297](https://www.govinfo.gov/link/statute/109/295); [Pub. L. 104–208, div. D, title I](https://www.govinfo.gov/link/plaw/104/public/208), §§ 103(a)–(d), (f), 105, 107, 111, Sept. 30, 1996, [110 Stat. 3009–726](https://www.govinfo.gov/link/statute/110/3009), 3009–727, 3009–731 to 3009–733; [Pub. L. 105–135, title II](https://www.govinfo.gov/link/plaw/105/public/135), §§ 201, 202(a), 231, title VII, § 706, Dec. 2, 1997, [111 Stat. 2597](https://www.govinfo.gov/link/statute/111/2597), 2598, 2606, 2637; [Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(10), (f)(9)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–420, 2681–430; [Pub. L. 106–8, § 3(a)](https://www.govinfo.gov/link/plaw/106/public/8), (c), Apr. 2, 1999, [113 Stat. 13](https://www.govinfo.gov/link/statute/113/13), 16; [Pub. L. 106–22](https://www.govinfo.gov/link/plaw/106/public/22), §§ 2, 3, Apr. 27, 1999, [113 Stat. 36](https://www.govinfo.gov/link/statute/113/36), 37; [Pub. L. 106–24, § 1(a)](https://www.govinfo.gov/link/plaw/106/public/24), Apr. 27, 1999, [113 Stat. 39](https://www.govinfo.gov/link/statute/113/39); [Pub. L. 106–50, title IV](https://www.govinfo.gov/link/plaw/106/public/50), §§ 401(b), 402(a), (b), 403, 404, Aug. 17, 1999, [113 Stat. 244–246](https://www.govinfo.gov/link/statute/113/244); [Pub. L. 106–554, § 1(a)(9) [title II, §§ 202–208(a), 210, title VIII, § 802(a)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–681 to 2763A–684, 2763A–702; [Pub. L. 107–100, § 6(a)](https://www.govinfo.gov/link/plaw/107/public/100), Dec. 21, 2001, [115 Stat. 970](https://www.govinfo.gov/link/statute/115/970); [Pub. L. 108–447, div. K, title I](https://www.govinfo.gov/link/plaw/108/public/447), §§ 101(a), 102, 103(a), 107(a), (b), Dec. 8, 2004, [118 Stat. 3442–3446](https://www.govinfo.gov/link/statute/118/3442); [Pub. L. 109–163, div. A, title VIII, § 845(a)(2)](https://www.govinfo.gov/link/plaw/109/public/163), (c), Jan. 6, 2006, [119 Stat. 3390](https://www.govinfo.gov/link/statute/119/3390), 3391; [Pub. L. 110–140, title XII](https://www.govinfo.gov/link/plaw/110/public/140), §§ 1201, 1202, Dec. 19, 2007, [121 Stat. 1764](https://www.govinfo.gov/link/statute/121/1764), 1765; [Pub. L. 110–186, title II](https://www.govinfo.gov/link/plaw/110/public/186), §§ 201(a), 203, 204, 208, Feb. 14, 2008, [122 Stat. 627](https://www.govinfo.gov/link/statute/122/627), 629, 631; [Pub. L. 110–234, title XII](https://www.govinfo.gov/link/plaw/110/public/234), §§ 12061, 12063(a), (c)(2), 12065, 12066(a), 12068(a), (b)(2), 12070, 12074(a), 12077–12078(b)(1), (c), 12081–12083(a), May 22, 2008, [122 Stat. 1406](https://www.govinfo.gov/link/statute/122/1406), 1407, 1409–1411, 1414–1418; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XII, §§ 12061, 12063(a), (c)(2), 12065, 12066(a), 12068(a), (b)(2), 12070, 12074(a), 12077–12078(b)(1), (c), 12081–12083(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2168, 2169, 2171–2173, 2176–2180; [Pub. L. 111–240, title I](https://www.govinfo.gov/link/plaw/111/public/240), §§ 1111, 1113, 1131(a), 1133, 1135, 1206(a)–(g), 1401(a), (c)(1), Sept. 27, 2010, [124 Stat. 2507](https://www.govinfo.gov/link/statute/124/2507), 2508, 2512, 2514, 2520, 2530–2532, 2547, 2549; [Pub. L. 112–74, div. C, title V, § 531](https://www.govinfo.gov/link/plaw/112/public/74), Dec. 23, 2011, [125 Stat. 922](https://www.govinfo.gov/link/statute/125/922); [Pub. L. 112–239, div. A, title XVI, § 1622(c)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2069](https://www.govinfo.gov/link/statute/126/2069); [Pub. L. 113–128, title V, § 512(cc)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1717](https://www.govinfo.gov/link/statute/128/1717); [Pub. L. 114–38](https://www.govinfo.gov/link/plaw/114/public/38), §§ 2, 4(b), July 28, 2015, [129 Stat. 437](https://www.govinfo.gov/link/statute/129/437), 438; [Pub. L. 114–88, div. A, title I](https://www.govinfo.gov/link/plaw/114/public/88), §§ 1101–1104, div. B, title I, §§ 2101, 2102(a), (b), 2105–2107, 2109, title II, § 2201, title III, § 2301(a), Nov. 25, 2015, [129 Stat. 687–690](https://www.govinfo.gov/link/statute/129/687), 692, 694, 695; [Pub. L. 114–92, div. A, title VIII, § 865(a)(2)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 928](https://www.govinfo.gov/link/statute/129/928); [Pub. L. 115–141, div. E, title V, § 532](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 581](https://www.govinfo.gov/link/statute/132/581); [Pub. L. 115–189, § 4(a)(2)](https://www.govinfo.gov/link/plaw/115/public/189), June 21, 2018, [132 Stat. 1497](https://www.govinfo.gov/link/statute/132/1497); [Pub. L. 115–232, div. A, title VIII](https://www.govinfo.gov/link/plaw/115/public/232), §§ 853(b), 861(c), 862(b)(1), (f), Aug. 13, 2018, [132 Stat. 1885](https://www.govinfo.gov/link/statute/132/1885), 1896, 1897, 1900; [Pub. L. 115–370, § 2](https://www.govinfo.gov/link/plaw/115/public/370), Dec. 21, 2018, [132 Stat. 5105](https://www.govinfo.gov/link/statute/132/5105); [Pub. L. 116–92, div. A, title VIII, § 877(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1529](https://www.govinfo.gov/link/statute/133/1529); [Pub. L. 116–136, div. A, title I](https://www.govinfo.gov/link/plaw/116/public/136), §§ 1102(a), (c), (d), 1110(f), Mar. 27, 2020, [134 Stat. 286](https://www.govinfo.gov/link/statute/134/286), 294, 308; [Pub. L. 116–139, div. A, § 101(d)](https://www.govinfo.gov/link/plaw/116/public/139), Apr. 24, 2020, [134 Stat. 621](https://www.govinfo.gov/link/statute/134/621); [Pub. L. 116–142](https://www.govinfo.gov/link/plaw/116/public/142), §§ 2(a), 3(a), (c), June 5, 2020, [134 Stat. 641](https://www.govinfo.gov/link/statute/134/641), 642; [Pub. L. 116–260, div. N, title III](https://www.govinfo.gov/link/plaw/116/public/260), §§ 304(a), (b)(1)(C)(ii), 308(a), 310(a)(1), (b), 311(a), 313(a), 315(a), 316–319, 326, 329(a), 334, 335(a), 336(a), 337(a), 338(a), 339(b), 340(a), (b)(1), 341–343(a), 344, Dec. 27, 2020, [134 Stat. 1993](https://www.govinfo.gov/link/statute/134/1993), 1994, 2000, 2001, 2008, 2011–2015, 2036, 2037, 2041, 2042, 2047, 2048, 2049–2051; [Pub. L. 116–283, div. A, title VIII, § 866(b)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3785](https://www.govinfo.gov/link/statute/134/3785); [Pub. L. 117–2, title V, § 5001(a)](https://www.govinfo.gov/link/plaw/117/public/2), (b), (c)(2), Mar. 11, 2021, [135 Stat. 81–84](https://www.govinfo.gov/link/statute/135/81); [Pub. L. 117–6, § 2(a)](https://www.govinfo.gov/link/plaw/117/public/6), Mar. 30, 2021, [135 Stat. 250](https://www.govinfo.gov/link/statute/135/250); [Pub. L. 117–165, § 2(a)](https://www.govinfo.gov/link/plaw/117/public/165), Aug. 5, 2022, [136 Stat. 1363](https://www.govinfo.gov/link/statute/136/1363); [Pub. L. 117–166, § 2](https://www.govinfo.gov/link/plaw/117/public/166), Aug. 5, 2022, [136 Stat. 1365](https://www.govinfo.gov/link/statute/136/1365); [Pub. L. 117–249, § 2(a)](https://www.govinfo.gov/link/plaw/117/public/249), Dec. 20, 2022, [136 Stat. 2350](https://www.govinfo.gov/link/statute/136/2350).)*

@@ -3,9 +3,10 @@ title: "Section 1490a - Loans to provide occupant owned, rental, and cooperative
 usc_title: 42
 usc_section: "1490a"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1490a"
-generated_at: "2026-03-30T02:56:11.097Z"
+generated_at: "2026-11-23T20:27:21.796Z"
+status: "active"
 ---
 
 # § 1490a. Loans to provide occupant owned, rental, and cooperative housing for low and moderate income, elderly or handicapped persons or families
@@ -51,3 +52,17 @@ generated_at: "2026-03-30T02:56:11.097Z"
     - **(C)** any such authority remaining after carrying out subparagraphs (A) and (B) may be used to provide further assistance to existing projects under section 1484, 1485, or 1486 of this title.
   - **(2)** The Secretary shall transfer rental assistance contract authority under this section from projects where such authority is unused after initial rentup and not needed because of a lack of eligible tenants in the area to projects where such authority is needed.
 - **(e)** Any rent or contribution of any recipient or any tenant in a project assisted under subsection (a)(5) shall not increase as a result of this section, any amendment thereto, or any other provision of Federal law or regulation by more than 10 per centum during any twelve-month period, unless the increase above 10 per centum is attributable to increases in income which are unrelated to this subsection or other law or regulation.
+
+Operating assistance for migrant farmworker projects.—
+
+Authority
+
+Amount
+
+Submission of information
+
+Definitions
+
+## Source Credit
+
+*(July 15, 1949, ch. 338, title V, § 521, as added [Pub. L. 90–448, title X, § 1001](https://www.govinfo.gov/link/plaw/90/public/448), Aug. 1, 1968, [82 Stat. 551](https://www.govinfo.gov/link/statute/82/551); amended [Pub. L. 93–383, title V](https://www.govinfo.gov/link/plaw/93/public/383), §§ 514(a), (b), 516(c), Aug. 22, 1974, [88 Stat. 696](https://www.govinfo.gov/link/statute/88/696), 698; [Pub. L. 94–375, § 25(a)](https://www.govinfo.gov/link/plaw/94/public/375), Aug. 3, 1976, [90 Stat. 1078](https://www.govinfo.gov/link/statute/90/1078); [Pub. L. 95–128, title V](https://www.govinfo.gov/link/plaw/95/public/128), §§ 502(d), 507(a)(4), (5), 511, Oct. 12, 1977, [91 Stat. 1139](https://www.govinfo.gov/link/statute/91/1139), 1140, 1142; [Pub. L. 95–557, title V](https://www.govinfo.gov/link/plaw/95/public/557), §§ 506(a), 507, Oct. 31, 1978, [92 Stat. 2112](https://www.govinfo.gov/link/statute/92/2112), 2113; [Pub. L. 96–153, title V](https://www.govinfo.gov/link/plaw/96/public/153), §§ 501(c), 502(a), 504, Dec. 21, 1979, [93 Stat. 1133–1135](https://www.govinfo.gov/link/statute/93/1133); [Pub. L. 96–372, § 6(d)](https://www.govinfo.gov/link/plaw/96/public/372), Oct. 3, 1980, [94 Stat. 1364](https://www.govinfo.gov/link/statute/94/1364); [Pub. L. 96–399, title V](https://www.govinfo.gov/link/plaw/96/public/399), §§ 501(e), (f), 505, Oct. 8, 1980, [94 Stat. 1668](https://www.govinfo.gov/link/statute/94/1668), 1669; [Pub. L. 97–35, title III](https://www.govinfo.gov/link/plaw/97/public/35), §§ 351(d), 352, Aug. 13, 1981, [95 Stat. 421](https://www.govinfo.gov/link/statute/95/421); [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title V, §§ 516, 517(a)–(c), (e)], Nov. 30, 1983, [97 Stat. 1247–1249](https://www.govinfo.gov/link/statute/97/1247); [Pub. L. 98–479, title I, § 105(h)](https://www.govinfo.gov/link/plaw/98/public/479), Oct. 17, 1984, [98 Stat. 2227](https://www.govinfo.gov/link/statute/98/2227); [Pub. L. 100–242, title III](https://www.govinfo.gov/link/plaw/100/public/242), §§ 309, 316(d), Feb. 5, 1988, [101 Stat. 1896](https://www.govinfo.gov/link/statute/101/1896), 1898; [Pub. L. 101–625, title VII, § 716](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4296](https://www.govinfo.gov/link/statute/104/4296); [Pub. L. 102–550, title VII, § 702(b)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3834](https://www.govinfo.gov/link/statute/106/3834); [Pub. L. 105–276, title V, § 599C(e)(1)](https://www.govinfo.gov/link/plaw/105/public/276), (e)(2)(D)–(F), Oct. 21, 1998, [112 Stat. 2661](https://www.govinfo.gov/link/statute/112/2661), 2663; [Pub. L. 106–569, title VII, § 706](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 3015](https://www.govinfo.gov/link/statute/114/3015).)*

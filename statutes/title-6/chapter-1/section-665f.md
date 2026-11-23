@@ -3,9 +3,10 @@ title: "Section 665f - Cybersecurity education and training programs"
 usc_title: 6
 usc_section: "665f"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 665f"
-generated_at: "2026-03-30T02:53:09.479Z"
+generated_at: "2026-11-23T20:25:34.834Z"
+status: "active"
 ---
 
 # § 665f. Cybersecurity education and training programs
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:53:09.479Z"
 - **(e)** The Director may award financial assistance in the form of grants or cooperative agreements to States, local governments, institutions of higher education (as such term is defined in section 1001 of title 20 ), nonprofit organizations, and other non-Federal entities as determined appropriate by the Director for the purpose of funding cybersecurity and infrastructure security education and training programs and initiatives to—
   - **(1)** carry out the purposes of CETAP; and
   - **(2)** enhance CETAP to address the national shortfall of cybersecurity professionals.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XXII, § 2220](https://www.govinfo.gov/link/plaw/107/public/296), formerly § 2217, as added [Pub. L. 116–283, div. A, title XVII, § 1719(c)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4106](https://www.govinfo.gov/link/statute/134/4106); renumbered § 2220 and amended [Pub. L. 117–81, div. A, title XV, § 1547(b)(1)(A)(vii)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2061](https://www.govinfo.gov/link/statute/135/2061); [Pub. L. 117–263, div. G, title LXXI, § 7104](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3622](https://www.govinfo.gov/link/statute/136/3622).)*

@@ -3,9 +3,10 @@ title: "Section 4712 - Posting of travel and financial disclosure reports on pub
 usc_title: 2
 usc_section: "4712"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 4712"
-generated_at: "2026-03-30T02:53:04.834Z"
+generated_at: "2026-11-23T20:25:29.049Z"
+status: "active"
 ---
 
 # § 4712. Posting of travel and financial disclosure reports on public website of Clerk of the House of Representatives
@@ -21,3 +22,11 @@ generated_at: "2026-03-30T02:53:04.834Z"
   - **(3)** Members of the House of Representatives (including Delegates and Resident Commissioners to the Congress) shall be permitted to omit personally identifiable information not required to be disclosed on the reports posted on the public Internet site under this section (such as home address, Social Security numbers, personal bank account numbers, home telephone, and names of children) prior to the posting of such reports on such public Internet site.
   - **(4)** The Clerk of the House of Representatives, in consultation with the Committee on Standards of Official Conduct, shall include in any informational materials concerning any disclosure that will be posted on the public Internet site under this section an explanation of the procedures for protecting personally identifiable information as described in this section.
 - **(c)** The Clerk shall maintain the information posted on the public Internet site of the Office of the Clerk under this section for a period of 6 years after receiving the information, or, in the case of reports filed under section 13105(h)(1) of title 5 , until the expiration of the 6-year period which begins on the date the individual is no longer a Member of Congress.
+
+“Nothing in this Act [see Tables for classification], the amendments made by this Act, or the interpretive guidance to be issued pursuant to sections 3 and 9[(a)] of this Act [set out as notes preceding section 13101 of Title 5 , Government Organization and Employees], shall be construed to—
+
+“The provisions of this title [enacting this section] are adopted by the House of Representatives—
+
+## Source Credit
+
+*([Pub. L. 110–81, title III, § 304](https://www.govinfo.gov/link/plaw/110/public/81), Sept. 14, 2007, [121 Stat. 752](https://www.govinfo.gov/link/statute/121/752); [Pub. L. 112–105, § 19(b)(1)](https://www.govinfo.gov/link/plaw/112/public/105), Apr. 4, 2012, [126 Stat. 304](https://www.govinfo.gov/link/statute/126/304); [Pub. L. 117–286, § 4(c)(4)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4353](https://www.govinfo.gov/link/statute/136/4353).)*

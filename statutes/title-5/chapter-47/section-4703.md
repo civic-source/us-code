@@ -3,9 +3,10 @@ title: "Section 4703 - Demonstration projects"
 usc_title: 5
 usc_section: "4703"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 4703"
-generated_at: "2026-03-30T02:52:56.010Z"
+generated_at: "2026-11-23T20:25:31.866Z"
+status: "active"
 ---
 
 # § 4703. Demonstration projects
@@ -66,3 +67,7 @@ generated_at: "2026-03-30T02:52:56.010Z"
   - **(1)** the aggregate performance appraisal ratings and compensation costs for employees under a demonstration project;
   - **(2)** an assessment of the results of the demonstration project, including its impact on mission goals, employee recruitment, retention, and satisfaction, and which may include the results of the survey authorized under section 1128 of the National Defense Authorization Act for Fiscal Year 2004 ( Public Law 108–136 ; 5 U.S.C. 7101 note), commonly referred to as the Federal Employee Viewpoint Survey, and performance management for employees; and
   - **(3)** a comparison of the items listed in (1) and (2) with employees not covered by the demonstration project.
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1186](https://www.govinfo.gov/link/statute/92/1186); amended [Pub. L. 115–232, div. A, title XI, § 1106](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2001](https://www.govinfo.gov/link/statute/132/2001).)*

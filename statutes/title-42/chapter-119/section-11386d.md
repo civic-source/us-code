@@ -3,9 +3,10 @@ title: "Section 11386d - Matching funding"
 usc_title: 42
 usc_section: "11386d"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11386d"
-generated_at: "2026-03-30T02:56:11.401Z"
+generated_at: "2026-11-23T20:27:23.305Z"
+status: "active"
 ---
 
 # § 11386d. Matching funding
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.401Z"
 - **(c)** The contributions required under subsection (a) may consist of—
   - **(1)** funding for any eligible activity described under section 11383 of this title ; and
   - **(2)** subject to subsection (b), in-kind provision of services of any eligible activity described under section 11383 of this title .
+
+## Source Credit
+
+*([Pub. L. 100–77, title IV, § 430](https://www.govinfo.gov/link/plaw/100/public/77), as added [Pub. L. 111–22, div. B, title III, § 1305(3)](https://www.govinfo.gov/link/plaw/111/public/22), May 20, 2009, [123 Stat. 1695](https://www.govinfo.gov/link/statute/123/1695).)*

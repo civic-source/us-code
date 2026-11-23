@@ -3,9 +3,10 @@ title: "Section 2467 - Definitions"
 usc_title: 19
 usc_section: "2467"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2467"
-generated_at: "2026-03-30T02:54:24.676Z"
+generated_at: "2026-11-23T20:26:10.978Z"
+status: "active"
 ---
 
 # § 2467. Definitions
@@ -27,3 +28,7 @@ For purposes of this subchapter:
     - **(B)** the use, procuring, or offering of a child for prostitution, for the production of pornography or for pornographic purposes;
     - **(C)** the use, procuring, or offering of a child for illicit activities in particular for the production and trafficking of drugs; and
     - **(D)** work which, by its nature or the circumstances in which it is carried out, is likely to harm the health, safety, or morals of children.
+
+## Source Credit
+
+*([Pub. L. 93–618, title V, § 507](https://www.govinfo.gov/link/plaw/93/public/618), as added [Pub. L. 104–188, title I, § 1952(a)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1926](https://www.govinfo.gov/link/statute/110/1926); amended [Pub. L. 106–200, title IV, § 412(b)](https://www.govinfo.gov/link/plaw/106/public/200), May 18, 2000, [114 Stat. 298](https://www.govinfo.gov/link/statute/114/298); [Pub. L. 107–210, div. D, title XLI, § 4102(b)](https://www.govinfo.gov/link/plaw/107/public/210), Aug. 6, 2002, [116 Stat. 1041](https://www.govinfo.gov/link/statute/116/1041).)*

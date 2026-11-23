@@ -3,9 +3,10 @@ title: "Section 43 - Definitions"
 usc_title: 22
 usc_section: "43"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 43"
-generated_at: "2026-03-30T02:55:05.312Z"
+generated_at: "2026-11-23T20:26:31.972Z"
+status: "active"
 ---
 
 # § 277d–43. Definitions
@@ -19,3 +20,7 @@ In sections 277d–43 to 277d–46 of this title, the following definitions appl
   - **(5)** The term “Secretary” means the Secretary of State.
   - **(6)** The term “Mexican facility” means a proposed public-private wastewater treatment facility to be constructed and operated under sections 277d–43 to 277d–46 of this title within Mexico for the purpose of treating sewage flows generated within Mexico, which flows impact the surface waters, health, and safety of the United States and Mexico.
   - **(7)** The term “mgd” means million gallons per day.
+
+## Source Credit
+
+*([Pub. L. 106–457, title VIII, § 803](https://www.govinfo.gov/link/plaw/106/public/457), Nov. 7, 2000, [114 Stat. 1977](https://www.govinfo.gov/link/statute/114/1977).)*

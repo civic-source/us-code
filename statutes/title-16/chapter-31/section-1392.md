@@ -3,9 +3,10 @@ title: "Section 1392 - Monitoring ocean soundscapes"
 usc_title: 16
 usc_section: "1392"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1392"
-generated_at: "2026-03-30T02:54:22.963Z"
+generated_at: "2026-11-23T20:26:20.473Z"
+status: "active"
 ---
 
 # § 1392. Monitoring ocean soundscapes
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:22.963Z"
 - **(c)** In awarding grants under subsection (a), the Under Secretary shall consider the geographic diversity of the recipients of such grants.
 - **(d)** An activity may not be carried out under this section if the Secretary of Defense, in consultation with the Under Secretary, determines that the activity would negatively impact the defense readiness or the national security of the United States.
 - **(e)** From funds otherwise appropriated to the Under Secretary, $1,500,000 is authorized for each of fiscal years 2023 through 2028 to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. K, title CXIII, § 11305](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4077](https://www.govinfo.gov/link/statute/136/4077).)*

@@ -3,9 +3,10 @@ title: "Section 8515 - Weather research and development planning"
 usc_title: 15
 usc_section: "8515"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 8515"
-generated_at: "2026-03-30T02:54:08.230Z"
+generated_at: "2026-11-23T20:26:04.489Z"
+status: "active"
 ---
 
 # § 8515. Weather research and development planning
@@ -16,3 +17,7 @@ Not later than 1 year after April 18, 2017 , and not less frequently than once e
   - **(2)** identifies and prioritizes specific research and development activities, and performance metrics, weighted to meet the operational weather and flood-event mission of the National Weather Service to achieve a weather-ready Nation;
   - **(3)** describes how the program will collaborate with stakeholders, including the United States weather industry and academic partners; and
   - **(4)** identifies, through consultation with the National Science Foundation, the United States weather industry, and academic partners, research necessary to enhance the integration of social science knowledge into weather forecast and warning processes, including to improve the communication of threat information necessary to enable improved severe weather planning and decisionmaking on the part of individuals and communities.
+
+## Source Credit
+
+*([Pub. L. 115–25, title I, § 105](https://www.govinfo.gov/link/plaw/115/public/25), Apr. 18, 2017, [131 Stat. 95](https://www.govinfo.gov/link/statute/131/95); [Pub. L. 117–316, § 10](https://www.govinfo.gov/link/plaw/117/public/316), Dec. 27, 2022, [136 Stat. 4413](https://www.govinfo.gov/link/statute/136/4413).)*

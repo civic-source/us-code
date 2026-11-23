@@ -3,9 +3,10 @@ title: "Section 30127 - Automatic occupant crash protection and seat belt use"
 usc_title: 49
 usc_section: "30127"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 30127"
-generated_at: "2026-03-30T02:56:19.352Z"
+generated_at: "2026-11-23T20:27:34.902Z"
+status: "active"
 ---
 
 # § 30127. Automatic occupant crash protection and seat belt use
@@ -53,3 +54,203 @@ generated_at: "2026-03-30T02:56:19.352Z"
 - **(h)** In cooperation with the Administrator of General Services and the heads of appropriate departments, agencies, and instrumentalities of the Government, the Secretary of Transportation shall establish a program, consistent with applicable procurement laws of the Government and available appropriations, requiring that all passenger cars acquired—
   - **(1)** after September 30, 1994 , for use by the Government be equipped, to the maximum extent practicable, with driver-side inflatable restraints; and
   - **(2)** after September 30, 1996 , for use by the Government be equipped, to the maximum extent practicable, with inflatable restraints for both front outboard seating positions.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30127(a) | 15:1392 (note). | Dec. 18, 1991 , Pub. L. 102–240, § 2502(a) , 105 Stat. 2081 . |
+| 30127(b) | 15:1392 (note). | Dec. 18, 1991 , Pub. L. 102–240, § 2508(a)(1) (1st sentence), (b), 105 Stat. 2084 , 2085. |
+| 30127(c) | 15:1392 (note). | Dec. 18, 1991 , Pub. L. 102–240, § 2508(a)(2) , 105 Stat. 2085 . |
+| 30127(d) | 15:1392 (note). | Dec. 18, 1991 , Pub. L. 102–240, § 2508(a)(3) , 105 Stat. 2085 . |
+| 30127(e) | 15:1392 (note). | Dec. 18, 1991 , Pub. L. 102–240, § 2508(c) , 105 Stat. 2086 . |
+| 30127(f) | 15:1392 (note). | Dec. 18, 1991 , Pub. L. 102–240, § 2508(a)(1) (last sentence), (d), 105 Stat. 2085 , 2086. |
+| 30127(g) | 15:1392 (note). | Dec. 18, 1991 , Pub. L. 102–240, § 2508(e) , 105 Stat. 2086 . |
+| 30127(h) | 15:1392 (note). | Dec. 18, 1991 , Pub. L. 102–240, § 2508(f) , 105 Stat. 2087 . |
+
+
+Definitions
+
+Inflatable Restraint Requirements
+
+Owner Manual Requirements
+
+Seat Belt Use Laws
+
+Temporary Exemptions
+
+Application
+
+Report
+
+Airbags for Government Cars
+
+Historical and Revision Notes
+
+30127(a)
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 2502(a)
+
+105 Stat. 2081
+
+30127(b)
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 2508(a)(1)
+
+105 Stat. 2084
+
+30127(c)
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 2508(a)(2)
+
+105 Stat. 2085
+
+30127(d)
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 2508(a)(3)
+
+105 Stat. 2085
+
+30127(e)
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 2508(c)
+
+105 Stat. 2086
+
+30127(f)
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 2508(a)(1)
+
+105 Stat. 2085
+
+30127(g)
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 2508(e)
+
+105 Stat. 2086
+
+30127(h)
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 2508(f)
+
+105 Stat. 2087
+
+Limousine Standards.—
+
+Safety belt and seating system standards for limousines
+
+Report on retrofit assessment for limousines
+
+Modifications of Certain Vehicles
+
+Application
+
+In General
+
+Consultation
+
+Report
+
+Side Impact Crashes
+
+Frontal Impact Test Parameters.—
+
+Commencement
+
+Final rule
+
+Initiation of Rulemaking Proceeding
+
+Final Rule.—
+
+In general
+
+Report
+
+Initiation of Rulemaking Proceeding
+
+Final Rule.—
+
+In general
+
+Report
+
+“If the Secretary [of Transportation] determines that any deadline for issuing a final rule under this Act [probably should be “this title”, see Tables for classification] cannot be met, the Secretary shall—
+
+In General
+
+Elements for Consideration
+
+Completion
+
+Development and Evaluation
+
+Adoption by Rulemaking
+
+In General
+
+Implementation Schedule
+
+Evaluation
+
+Report
+
+Child restraint
+
+Production year
+
+Passenger motor vehicle
+
+In General
+
+Limitation
+
+In General
+
+Elements for Consideration
+
+Report to Congress
+
+Completion
+
+Child Restraint Defined
+
+Funding
+
+Child Restraint Safety Ratings Program
+
+Booster Seat Study
+
+Booster Seat Education Program
+
+Rulemaking To Improve Air Bags.—
+
+Notice of proposed rulemaking
+
+Final rule
+
+Effective date
+
+Coordination of effective dates
+
+Credit for early compliance
+
+Advisory Committees
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 958](https://www.govinfo.gov/link/statute/108/958); [Pub. L. 105–178, title VII, § 7106(c)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 467](https://www.govinfo.gov/link/statute/112/467).)*

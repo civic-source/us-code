@@ -3,9 +3,10 @@ title: "Section 1703C - Standards for quality"
 usc_title: 38
 usc_section: "1703C"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 1703C"
-generated_at: "2026-03-30T02:55:53.481Z"
+generated_at: "2026-11-23T20:27:01.658Z"
+status: "active"
 ---
 
 # § 1703C. Standards for quality
@@ -41,3 +42,17 @@ generated_at: "2026-03-30T02:55:53.481Z"
     - **(A)** the Committee on Veterans’ Affairs and the Committee on Appropriations of the Senate; and
     - **(B)** the Committee on Veterans’ Affairs and the Committee on Appropriations of the House of Representatives.
   - **(2)** The term “covered veterans” means veterans described in section 1703(b) of this title .
+
+In General
+
+Publication and Consideration of Public Comments
+
+Definitions
+
+Initial report
+
+Deadline; summary report
+
+## Source Credit
+
+*(Added [Pub. L. 115–182, title I, § 104(a)](https://www.govinfo.gov/link/plaw/115/public/182), June 6, 2018, [132 Stat. 1410](https://www.govinfo.gov/link/statute/132/1410); amended [Pub. L. 115–251, title II, § 211(a)(4)](https://www.govinfo.gov/link/plaw/115/public/251), Sept. 29, 2018, [132 Stat. 3174](https://www.govinfo.gov/link/statute/132/3174); [Pub. L. 118–210, title I, § 104(a)](https://www.govinfo.gov/link/plaw/118/public/210), Jan. 2, 2025, [138 Stat. 2711](https://www.govinfo.gov/link/statute/138/2711).)*

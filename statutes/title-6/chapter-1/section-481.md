@@ -3,9 +3,10 @@ title: "Section 481 - Short title; findings; and sense of Congress"
 usc_title: 6
 usc_section: "481"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 481"
-generated_at: "2026-03-30T02:53:09.467Z"
+generated_at: "2026-11-23T20:25:34.768Z"
+status: "active"
 ---
 
 # § 481. Short title; findings; and sense of Congress
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:09.467Z"
   - **(11)** Information systems, including the National Law Enforcement Telecommunications System and the Terrorist Threat Warning System, have been established for rapid sharing of classified and sensitive but unclassified information among Federal, State, and local entities.
   - **(12)** Increased efforts to share homeland security information should avoid duplicating existing information systems.
 - **(c)** It is the sense of Congress that Federal, State, and local entities should share homeland security information to the maximum extent practicable, with special emphasis on hard-to-reach urban and rural communities.
+
+## Source Credit
+
+*([Pub. L. 107–296, title VIII, § 891](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2252](https://www.govinfo.gov/link/statute/116/2252).)*

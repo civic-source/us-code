@@ -3,9 +3,10 @@ title: "Section 1631 - Consultation; closure of facilities; reports"
 usc_title: 25
 usc_section: "1631"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1631"
-generated_at: "2026-03-30T02:54:52.822Z"
+generated_at: "2026-11-23T20:26:25.491Z"
+status: "active"
 ---
 
 # § 1631. Consultation; closure of facilities; reports
@@ -93,3 +94,19 @@ generated_at: "2026-03-30T02:54:52.822Z"
   - **(3)** is not included in clause (i) or (ii) 4 4 So in original. Probably should be “paragraph (1) or (2)”. and is selected, as determined by the Secretary—
     - **(A)** on the initiative of the Secretary; or
     - **(B)** pursuant to a request of an Indian tribe or tribal organization.
+
+(aa) to provide advice and recommendations for policies and procedures of the programs funded pursuant to facilities appropriations; and
+
+(bb) to address other facilities issues.
+
+(aa) to review the health care facilities construction priority system; and
+
+(bb) to make recommendations to the Facilities Appropriation Advisory Board for revising the priority system.
+
+(aa) the methodology and criteria used by the Service in determining the needs and establishing the ranking of the facilities needs; and
+
+(bb) such other information as the Secretary determines to be appropriate.
+
+## Source Credit
+
+*([Pub. L. 94–437, title III, § 301](https://www.govinfo.gov/link/plaw/94/public/437), Sept. 30, 1976, [90 Stat. 1406](https://www.govinfo.gov/link/statute/90/1406); [Pub. L. 100–713, title III, § 301](https://www.govinfo.gov/link/plaw/100/public/713), Nov. 23, 1988, [102 Stat. 4812](https://www.govinfo.gov/link/statute/102/4812); [Pub. L. 102–573, title III, § 301](https://www.govinfo.gov/link/plaw/102/public/573), title IX, § 902(4)(B), Oct. 29, 1992, [106 Stat. 4560](https://www.govinfo.gov/link/statute/106/4560), 4591; [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

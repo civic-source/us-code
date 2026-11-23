@@ -3,9 +3,10 @@ title: "Section 9304 - Comprehensive program management plan; submittal to Congr
 usc_title: 42
 usc_section: "9304"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9304"
-generated_at: "2026-03-30T02:56:11.352Z"
+generated_at: "2026-11-23T20:27:23.082Z"
+status: "active"
 ---
 
 # § 9304. Comprehensive program management plan; submittal to Congressional committees
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.352Z"
   - **(4)** supporting research and development needed to solve problems which may inhibit or limit development of magnetic fusion energy systems; and
   - **(5)** an analysis of institutional, environmental, and economic considerations which are limiting the national magnetic fusion program.
 - **(b)** The Secretary shall transmit the comprehensive program management plan to the Committee on Science and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate not later than January 1, 1982 .
+
+## Source Credit
+
+*([Pub. L. 96–386, § 5](https://www.govinfo.gov/link/plaw/96/public/386), Oct. 7, 1980, [94 Stat. 1541](https://www.govinfo.gov/link/statute/94/1541).)*

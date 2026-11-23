@@ -3,9 +3,10 @@ title: "Section 101 - Definitions"
 usc_title: 10
 usc_section: "101"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 101"
-generated_at: "2026-03-30T02:53:38.028Z"
+generated_at: "2026-11-23T20:25:50.788Z"
+status: "active"
 ---
 
 # § 101. Definitions
@@ -146,3 +147,249 @@ generated_at: "2026-03-30T02:53:38.028Z"
   - **(4)** “includes” means “includes but is not limited to”; and
   - **(5)** “spouse” means husband or wife, as the case may be.
 - **(h)** For other definitions applicable to this title, see sections 1 through 5 of title 1.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 101(1) 101(2) 101(3) 101(4) 101(5) 101(6) 101(7) | 50:351 (clause (b)). 32:4c (1st 33 words). [No source]. 50:901(e). 5:181–1(c) (for definition purposes); 5:411a(a) (for definition purposes); 5:626(c) (for definition purposes). [No source]. 5:171(b) (last 23 words of clause (1), for definition purposes). | Sept. 16, 1942, ch. 561, § 401 (clause (b)); added Apr. 1, 1944, ch. 150, § 401 (clause (b)); restated Apr. 19, 1946, ch. 142, § 401 (clause (b)), 60 Stat. 102 . July 9, 1952, ch. 608, § 101(d) (less 2d sentence), (e), (g), § 702 (for definition purposes), 66 Stat. 481 , 482, 501. |
+| 101(8) 101(9) 101(10) 101(11) | 10:600(a); 34:135(a). [No source]. 32:2 (for definition purposes); 32:4b (for definition purposes). 50:1112(a) (for definition purposes). | July 26, 1947, ch. 343 , §§ 205(c) (for definition purposes), 206(a) (for definition purposes), 207(c) (for definition purposes), 61 Stat. 501 , 502. |
+| 101(12) 101(13) 101(14) | 10:1835 (less last 16 words, for definition purposes); 32:2 (for definition purposes); 32:4b (for definition purposes). 50:1112(b) (for definition purposes). 5:181–3(b) (less last sentence); 10:1a(b) (less last sentence); 10:1801(b) (less last sentence); 37:231(c) (1st sentence, for definition purposes); 50:901(g). | July 26, 1947, ch. 343, § 201(b) (last 31 words of clause (1), for definition purposes); restated Aug. 10, 1949, ch. 412, § 4 (last 31 words of clause (1) of 201(b), for definition purposes), 63 Stat. 579 . June 3, 1916, ch. 134, § 62 (1st 36 words of last proviso), 39 Stat. 198 . June 3, 1916, ch. 134, § 117 (for definition purposes), 39 Stat. 212 . |
+| 101(15) | [No source]. |  |
+| 101(16) 101(17) 101(18) 101(19) 101(20) 101(21) 101(22) | 10:600(b); 34:135(b). 5:181–3(b) (last sentence); 10:1a(b) (last sentence); 10:1801(b) (last sentence); 50:551(9). [No source]. [No source]. [No source]. [No source]. 10:1036e(d) (for definition purposes); 34: 440m(d) (for definition purposes). | June 3, 1916, ch. 134, § 71 (for definition purposes); added June 15, 1933, ch. 87, § 9 (for definition purposes), 48 Stat. 157 ; Oct. 12, 1949, ch. 681, § 530 (for definition purposes), 63 Stat. 837 ; July 9, 1952, ch. 608, § 803 (9th par., for definition purposes), 66 Stat. 505 . |
+| 101(23) 101(24) 101(26) 101(27) 101(28) | [No source]. [No source]. [No source]. [No source]. [No source]. | Sept. 19, 1951, ch. 407 , §§ 2(b), 305 (less last 16 words, for definition purposes), 65 Stat. 326 , 330. |
+| 101(29) 101(30) 101(31) | [No source]. [No source]. 50:901(d) (less 2d sentence). | June 28, 1950, ch. 383, § 2(b) , 64 Stat. 263 ; July 9, 1952, ch. 608, § 807(a) , 66 Stat. 508 . |
+| 101(32) 101(33) 101(34) | [No source]. [No source]. [No source]. | Oct. 12, 1949, ch. 681, § 102(c) (1st sentence, for definition purposes), 63 Stat. 804 . |
+|  |  | May 5, 1950, ch. 169, § 1 (Art. 1 (clause (9))), 64 Stat. 108 . |
+|  |  | May 29, 1954, ch. 249, § 2(a) , (b), 68 Stat. 157 . |
+|  |  | June 29, 1948, ch. 708, § 306(d) (for definition purposes), 62 Stat. 1089 . |
+
+| 1958 Act | Col 2 | Col 3 |
+| --- | --- | --- |
+| 101(25) | 50:1181(6). | Sept. 3, 1954, ch. 1257, § 102(6) , 68 Stat. 1150 . |
+
+| “ Section 101(c) of Public Law 99–500 | Section 101(c) of Public Law 99–591 | Division A of Public Law 99–661 |
+| --- | --- | --- |
+| “Title X | Title X | Title IX |
+| “Sec. 9122 | Sec. 9122 | Sec. 522 |
+| “Sec. 9036(b) | Sec. 9036(b) | Sec. 1203 |
+| “Sec. 9115 | Sec. 9115 | Sec. 1311 |
+
+
+In General
+
+Personnel Generally
+
+Reserve Components
+
+Duty Status
+
+Space Force
+
+Facilities and Operations
+
+Range
+
+Range activities
+
+Operational range
+
+Military munitions
+
+Unexploded ordnance
+
+Energy resilience
+
+Energy security
+
+Military installation resilience
+
+Rules of Construction
+
+Reference to Title
+
+Definitions
+
+Historical and Revision Notes
+
+Act
+
+101(1)
+
+101(2)
+
+101(3)
+
+101(4)
+
+101(5)
+
+101(6)
+
+101(7)
+
+Sept. 16, 1942, ch. 561, § 401
+
+Apr. 1, 1944, ch. 150, § 401
+
+Apr. 19, 1946, ch. 142, § 401
+
+60 Stat. 102
+
+July 9, 1952, ch. 608, § 101(d)
+
+66 Stat. 481
+
+101(8)
+
+101(9)
+
+101(10)
+
+101(11)
+
+July 26, 1947, ch. 343
+
+61 Stat. 501
+
+101(12)
+
+101(13)
+
+101(14)
+
+July 26, 1947, ch. 343, § 201(b)
+
+Aug. 10, 1949, ch. 412, § 4
+
+63 Stat. 579
+
+June 3, 1916, ch. 134, § 62
+
+39 Stat. 198
+
+June 3, 1916, ch. 134, § 117
+
+39 Stat. 212
+
+101(15)
+
+101(16)
+
+101(17)
+
+101(18)
+
+101(19)
+
+101(20)
+
+101(21)
+
+101(22)
+
+June 3, 1916, ch. 134, § 71
+
+June 15, 1933, ch. 87, § 9
+
+48 Stat. 157
+
+Oct. 12, 1949, ch. 681, § 530
+
+63 Stat. 837
+
+July 9, 1952, ch. 608, § 803
+
+66 Stat. 505
+
+101(23)
+
+101(24)
+
+101(26)
+
+101(27)
+
+101(28)
+
+Sept. 19, 1951, ch. 407
+
+65 Stat. 326
+
+101(29)
+
+101(30)
+
+101(31)
+
+June 28, 1950, ch. 383, § 2(b)
+
+64 Stat. 263
+
+July 9, 1952, ch. 608, § 807(a)
+
+66 Stat. 508
+
+101(32)
+
+101(33)
+
+101(34)
+
+Oct. 12, 1949, ch. 681, § 102(c)
+
+63 Stat. 804
+
+May 5, 1950, ch. 169, § 1
+
+64 Stat. 108
+
+May 29, 1954, ch. 249, § 2(a)
+
+68 Stat. 157
+
+June 29, 1948, ch. 708, § 306(d)
+
+62 Stat. 1089
+
+Act
+
+101(25)
+
+Sept. 3, 1954, ch. 1257, § 102(6)
+
+68 Stat. 1150
+
+Inclusion of prior orders
+
+Credit for prior service
+
+Rule for Construction of Duplicate Provisions
+
+Section 101(c) of Public Law 99–500
+
+Section 101(c) of Public Law 99–591
+
+Public Law 99–661
+
+Rule for Date of Enactment
+
+Standardization of Definition
+
+Notification Required
+
+Briefing
+
+Coordination Required
+
+Secretary Concerned Defined
+
+Standardization of Definitions
+
+Required Use of Standardized Definitions
+
+Briefing
+
+“For the purposes of this Act [see Short Title of 1991 Amendment note above]:
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 3; [Pub. L. 85–861](https://www.govinfo.gov/link/plaw/85/public/861), §§ 1(1), 33(a)(1), Sept. 2, 1958, [72 Stat. 1437](https://www.govinfo.gov/link/statute/72/1437), 1564; [Pub. L. 86–70, § 6(a)](https://www.govinfo.gov/link/plaw/86/public/70), June 25, 1959, [73 Stat. 142](https://www.govinfo.gov/link/statute/73/142); [Pub. L. 86–624, § 4(a)](https://www.govinfo.gov/link/plaw/86/public/624), July 12, 1960, [74 Stat. 411](https://www.govinfo.gov/link/statute/74/411); [Pub. L. 87–649, § 6(f)(1)](https://www.govinfo.gov/link/plaw/87/public/649), Sept. 7, 1962, [76 Stat. 494](https://www.govinfo.gov/link/statute/76/494); [Pub. L. 90–235, § 7(a)(1)](https://www.govinfo.gov/link/plaw/90/public/235), Jan. 2, 1968, [81 Stat. 762](https://www.govinfo.gov/link/statute/81/762); [Pub. L. 90–623, § 2(1)](https://www.govinfo.gov/link/plaw/90/public/623), Oct. 22, 1968, [82 Stat. 1314](https://www.govinfo.gov/link/statute/82/1314); [Pub. L. 92–492, § 1](https://www.govinfo.gov/link/plaw/92/public/492), Oct. 13, 1972, [86 Stat. 810](https://www.govinfo.gov/link/statute/86/810); [Pub. L. 96–513, title I](https://www.govinfo.gov/link/plaw/96/public/513), §§ 101, 115(a), title V, § 501(2), Dec. 12, 1980, [94 Stat. 2839](https://www.govinfo.gov/link/statute/94/2839), 2877, 2907; [Pub. L. 97–22, § 2(a)](https://www.govinfo.gov/link/plaw/97/public/22), July 10, 1981, [95 Stat. 124](https://www.govinfo.gov/link/statute/95/124); [Pub. L. 97–86, title IV, § 405(b)(1)](https://www.govinfo.gov/link/plaw/97/public/86), Dec. 1, 1981, [95 Stat. 1105](https://www.govinfo.gov/link/statute/95/1105); [Pub. L. 98–525, title IV, § 414(a)(1)](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2518](https://www.govinfo.gov/link/statute/98/2518); [Pub. L. 99–145, title V, § 514(b)(1)](https://www.govinfo.gov/link/plaw/99/public/145), Nov. 8, 1985, [99 Stat. 628](https://www.govinfo.gov/link/statute/99/628); [Pub. L. 99–348, title III, § 303](https://www.govinfo.gov/link/plaw/99/public/348), July 1, 1986, [100 Stat. 703](https://www.govinfo.gov/link/statute/100/703); [Pub. L. 99–433, title III, § 302](https://www.govinfo.gov/link/plaw/99/public/433), Oct. 1, 1986, [100 Stat. 1022](https://www.govinfo.gov/link/statute/100/1022); [Pub. L. 100–26, § 7(i)](https://www.govinfo.gov/link/plaw/100/public/26), (k)(1), Apr. 21, 1987, [101 Stat. 282](https://www.govinfo.gov/link/statute/101/282), 283; [Pub. L. 100–180, div. A, title XII](https://www.govinfo.gov/link/plaw/100/public/180), §§ 1231(1), (20), 1233(a)(2), Dec. 4, 1987, [101 Stat. 1160](https://www.govinfo.gov/link/statute/101/1160), 1161; [Pub. L. 100–456, div. A, title XII, § 1234(a)(1)](https://www.govinfo.gov/link/plaw/100/public/456), Sept. 29, 1988, [102 Stat. 2059](https://www.govinfo.gov/link/statute/102/2059); [Pub. L. 101–510, div. A, title XII, § 1204](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1658](https://www.govinfo.gov/link/statute/104/1658); [Pub. L. 102–190, div. A, title VI, § 631(a)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1380](https://www.govinfo.gov/link/statute/105/1380); [Pub. L. 102–484, div. A, title X, § 1051(a)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2494](https://www.govinfo.gov/link/statute/106/2494); [Pub. L. 103–337, div. A, title V, § 514](https://www.govinfo.gov/link/plaw/103/public/337), title XVI, §§ 1621, 1671(c)(1), Oct. 5, 1994, [108 Stat. 2753](https://www.govinfo.gov/link/statute/108/2753), 2960, 3014; [Pub. L. 104–106, div. A, title XV, § 1501(c)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 498](https://www.govinfo.gov/link/statute/110/498); [Pub. L. 104–201, div. A, title V, § 522](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2517](https://www.govinfo.gov/link/statute/110/2517); [Pub. L. 107–296, title XVII, § 1704(b)(1)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314); [Pub. L. 108–136, div. A, title X](https://www.govinfo.gov/link/plaw/108/public/136), §§ 1042(a), 1043(a), 1045(a)(2), Nov. 24, 2003, [117 Stat. 1608](https://www.govinfo.gov/link/statute/117/1608), 1610, 1612; [Pub. L. 108–375, div. A, title X, § 1084(a)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2060](https://www.govinfo.gov/link/statute/118/2060); [Pub. L. 109–163, div. A, title X](https://www.govinfo.gov/link/plaw/109/public/163), §§ 1056(c)(1), 1057(a)(1), (2), Jan. 6, 2006, [119 Stat. 3439](https://www.govinfo.gov/link/statute/119/3439), 3440; [Pub. L. 109–364, div. A, title V, § 524](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2193](https://www.govinfo.gov/link/statute/120/2193); [Pub. L. 111–383, div. A, title VIII, § 876](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4305](https://www.govinfo.gov/link/statute/124/4305); [Pub. L. 112–81, div. A, title V, § 515(b)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1395](https://www.govinfo.gov/link/statute/125/1395); [Pub. L. 112–239, div. A, title VI, § 681(a)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1795](https://www.govinfo.gov/link/statute/126/1795); [Pub. L. 114–328, div. A, title X, § 1081(b)(1)(A)(i)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2417](https://www.govinfo.gov/link/statute/130/2417); [Pub. L. 115–91, div. B, title XXVIII, § 2831(d)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1858](https://www.govinfo.gov/link/statute/131/1858); [Pub. L. 115–232, div. A, title III, § 312(f)](https://www.govinfo.gov/link/plaw/115/public/232), title XII, § 1204(a)(3), div. B, title XXVIII, § 2805(e), Aug. 13, 2018, [132 Stat. 1711](https://www.govinfo.gov/link/statute/132/1711), 2017, 2263; [Pub. L. 116–92, div. A, title IX](https://www.govinfo.gov/link/plaw/116/public/92), §§ 952(c), 958(a)(1), Dec. 20, 2019, [133 Stat. 1562](https://www.govinfo.gov/link/statute/133/1562), 1567; [Pub. L. 116–283, div. A, title IX, § 924(a)](https://www.govinfo.gov/link/plaw/116/public/283), title X, § 1081(a)(5), Jan. 1, 2021, [134 Stat. 3820](https://www.govinfo.gov/link/statute/134/3820), 3871; [Pub. L. 117–81, div. A, title III, § 332(c)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1638](https://www.govinfo.gov/link/statute/135/1638); [Pub. L. 118–31, div. A, title XVII](https://www.govinfo.gov/link/plaw/118/public/31), §§ 1713, 1716(b)(1), 1741(a)(3), Dec. 22, 2023, [137 Stat. 625](https://www.govinfo.gov/link/statute/137/625), 633, 679; [Pub. L. 119–60, div. A, title VIII, § 811(c)(1)](https://www.govinfo.gov/link/plaw/119/public/60), div. B, title XXVIII, § 2801, Dec. 18, 2025, [139 Stat. 950](https://www.govinfo.gov/link/statute/139/950), 1291.)*

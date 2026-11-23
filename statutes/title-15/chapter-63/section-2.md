@@ -3,9 +3,10 @@ title: "Section 2 - Transfer of Federal scientific and technical information"
 usc_title: 15
 usc_section: "2"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2"
-generated_at: "2026-03-30T02:54:08.192Z"
+generated_at: "2026-11-23T20:26:04.296Z"
+status: "active"
 ---
 
 # § 3704b–2. Transfer of Federal scientific and technical information
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.192Z"
   - **(2)** a description of the use of Federal scientific and technical information;
   - **(3)** plans for improving public access to Federal scientific and technical information; and
   - **(4)** recommendations for legislation necessary to improve public access to Federal scientific and technical information.
+
+## Source Credit
+
+*([Pub. L. 102–245, title I, § 108](https://www.govinfo.gov/link/plaw/102/public/245), Feb. 14, 1992, [106 Stat. 13](https://www.govinfo.gov/link/statute/106/13).)*

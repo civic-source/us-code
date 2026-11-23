@@ -3,12 +3,17 @@ title: "Section 1997h - Notice to Federal departments"
 usc_title: 42
 usc_section: "1997h"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1997h"
-generated_at: "2026-03-30T02:56:11.137Z"
+generated_at: "2026-11-23T20:27:22.004Z"
+status: "active"
 ---
 
 # § 1997h. Notice to Federal departments
 
 At the time of notification of the commencement of an investigation of an institution under section 1997a of this title or of the notification of an intention to file a motion to intervene under section 1997c of this title , and if the relevant institution receives Federal financial assistance from the Department of Health and Human Services or the Department of Education, the Attorney General shall notify the appropriate Secretary of the action and the reasons for such action and shall consult with such officials. Following such consultation, the Attorney General may proceed with an action under this subchapter if the Attorney General is satisfied that such action is consistent with the policies and goals of the executive branch.
 
+
+## Source Credit
+
+*([Pub. L. 96–247, § 10](https://www.govinfo.gov/link/plaw/96/public/247), May 23, 1980, [94 Stat. 354](https://www.govinfo.gov/link/statute/94/354); [Pub. L. 104–134, title I, § 101[(a)]](https://www.govinfo.gov/link/plaw/104/public/134) [title VIII, § 803(f)], Apr. 26, 1996, [110 Stat. 1321](https://www.govinfo.gov/link/statute/110/1321), 1321–73; renumbered title I, [Pub. L. 104–140, § 1(a)](https://www.govinfo.gov/link/plaw/104/public/140), May 2, 1996, [110 Stat. 1327](https://www.govinfo.gov/link/statute/110/1327).)*

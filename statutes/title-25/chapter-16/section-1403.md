@@ -3,9 +3,10 @@ title: "Section 1403 - Preparation of plan"
 usc_title: 25
 usc_section: "1403"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1403"
-generated_at: "2026-03-30T02:54:52.816Z"
+generated_at: "2026-11-23T20:26:25.463Z"
+status: "active"
 ---
 
 # § 1403. Preparation of plan
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:52.816Z"
   - **(4)** any provision, including enrollment provisions, of the constitution, bylaws, rules, and procedures of such tribe which may affect the distribution or other use of such funds are in full accord with the principles of fairness and equity;
   - **(5)** a significant portion of such funds shall be set aside and programed to serve common tribal needs, educational requirements, and such other purposes as the circumstances of the affected Indian tribe may justify, except not less than 20 per centum of such funds shall be so set aside and programed unless the Secretary determines that the particular circumstances of the pertinent Indian tribe clearly warrant otherwise: Provided , That in the development of such plan the Secretary shall survey past and present plans of the tribe for economic development, shall consider long range benefits which might accrue to the tribe from such plans, and shall encourage programing of funds for economic development purposes where appropriate; and
   - **(6)** methods exist and will be employed to insure the proper performance of the plan once it becomes effective under section 1405 of this title .
+
+## Source Credit
+
+*([Pub. L. 93–134, § 3](https://www.govinfo.gov/link/plaw/93/public/134), Oct. 19, 1973, [87 Stat. 467](https://www.govinfo.gov/link/statute/87/467); [Pub. L. 97–458, § 2](https://www.govinfo.gov/link/plaw/97/public/458), Jan. 12, 1983, [96 Stat. 2512](https://www.govinfo.gov/link/statute/96/2512).)*

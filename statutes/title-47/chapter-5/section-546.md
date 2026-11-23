@@ -3,9 +3,10 @@ title: "Section 546 - Renewal"
 usc_title: 47
 usc_section: "546"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 546"
-generated_at: "2026-03-30T02:56:24.519Z"
+generated_at: "2026-11-23T20:27:28.929Z"
+status: "active"
 ---
 
 # § 546. Renewal
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:56:24.519Z"
 - **(g)** For purposes of this section, the term “franchise expiration” means the date of the expiration of the term of the franchise, as provided under the franchise, as it was in effect on October 30, 1984 .
 - **(h)** Notwithstanding the provisions of subsections (a) through (g) of this section, a cable operator may submit a proposal for the renewal of a franchise pursuant to this subsection at any time, and a franchising authority may, after affording the public adequate notice and opportunity for comment, grant or deny such proposal at any time (including after proceedings pursuant to this section have commenced). The provisions of subsections (a) through (g) of this section shall not apply to a decision to grant or deny a proposal under this subsection. The denial of a renewal pursuant to this subsection shall not affect action on a renewal proposal that is submitted in accordance with subsections (a) through (g).
 - **(i)** Notwithstanding the provisions of subsections (a) through (h), any lawful action to revoke a cable operator’s franchise for cause shall not be negated by the subsequent initiation of renewal proceedings by the cable operator under this section.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title VI, § 626, as added [Pub. L. 98–549, § 2](https://www.govinfo.gov/link/plaw/98/public/549), Oct. 30, 1984, [98 Stat. 2791](https://www.govinfo.gov/link/statute/98/2791); amended [Pub. L. 102–385, § 18](https://www.govinfo.gov/link/plaw/102/public/385), Oct. 5, 1992, [106 Stat. 1493](https://www.govinfo.gov/link/statute/106/1493).)*

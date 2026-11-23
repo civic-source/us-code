@@ -3,9 +3,10 @@ title: "Section 2884 - Reports"
 usc_title: 10
 usc_section: "2884"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2884"
-generated_at: "2026-03-30T02:53:38.182Z"
+generated_at: "2026-11-23T20:25:51.753Z"
+status: "active"
 ---
 
 # § 2884. Reports
@@ -73,3 +74,15 @@ generated_at: "2026-03-30T02:53:38.182Z"
   - **(2)** A review of any such project that is expected to require the restructuring of a loan, including any public or private loan.
   - **(3)** For any such project expected to require restructuring, a timeline for when such restructuring is expected to occur.
   - **(4)** Such other information as the Secretary determines appropriate.
+
+Project Reports
+
+Annual Reports to Accompany Budget Materials
+
+Semi-annual Report on Privatization Projects
+
+Annual Briefings
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 550](https://www.govinfo.gov/link/statute/110/550); amended [Pub. L. 108–136, div. B, title XXVIII, § 2807](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1722](https://www.govinfo.gov/link/statute/117/1722); [Pub. L. 108–375, div. B, title XXVIII, § 2806](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2122](https://www.govinfo.gov/link/statute/118/2122); [Pub. L. 109–163, div. B, title XXVIII, § 2806(c)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3507](https://www.govinfo.gov/link/statute/119/3507); [Pub. L. 110–417, div. B, title XXVIII, § 2805(b)](https://www.govinfo.gov/link/plaw/110/public/417), (f), Oct. 14, 2008, [122 Stat. 4723](https://www.govinfo.gov/link/statute/122/4723), 4724; [Pub. L. 111–383, div. A, title X, § 1075(h)(6)](https://www.govinfo.gov/link/plaw/111/public/383), div. B, title XXVIII, § 2803(g), Jan. 7, 2011, [124 Stat. 4377](https://www.govinfo.gov/link/statute/124/4377), 4459; [Pub. L. 112–239, div. B, title XXVIII, § 2803(b)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2148](https://www.govinfo.gov/link/statute/126/2148); [Pub. L. 113–66, div. B, title XXVIII, § 2806](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 1008](https://www.govinfo.gov/link/statute/127/1008); [Pub. L. 113–291, div. A, title X, § 1071(f)(26)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3511](https://www.govinfo.gov/link/statute/128/3511); [Pub. L. 115–91, div. B, title XXVIII, § 2801(d)(3)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1844](https://www.govinfo.gov/link/statute/131/1844); [Pub. L. 116–92, div. B, title XXX, § 3016(d)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1929](https://www.govinfo.gov/link/statute/133/1929); [Pub. L. 116–283, div. B, title XXVIII](https://www.govinfo.gov/link/plaw/116/public/283), §§ 2803(c), 2811(h), Jan. 1, 2021, [134 Stat. 4320](https://www.govinfo.gov/link/statute/134/4320), 4326; [Pub. L. 117–263, div. B, title XXVIII, § 2823](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3001](https://www.govinfo.gov/link/statute/136/3001); [Pub. L. 119–60, div. B, title XXVIII, § 2823(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1306](https://www.govinfo.gov/link/statute/139/1306).)*

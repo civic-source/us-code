@@ -3,9 +3,10 @@ title: "Section 12351 - Transitional housing assistance grants for victims of do
 usc_title: 34
 usc_section: "12351"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12351"
-generated_at: "2026-03-30T02:55:33.286Z"
+generated_at: "2026-11-23T20:26:50.545Z"
+status: "active"
 ---
 
 # § 12351. Transitional housing assistance grants for victims of domestic violence, dating violence, sexual assault, or stalking
@@ -68,3 +69,13 @@ generated_at: "2026-03-30T02:55:33.286Z"
         - **(II)** clinical evaluations to determine eligibility for services;
       - **(iii)** reflects an understanding of the dynamics of domestic violence, dating violence, sexual assault, or stalking; and
       - **(iv)** does not propose prohibited activities, including mandatory services for victims.
+
+Indian tribes.—
+
+In general
+
+Applicability of part
+
+## Source Credit
+
+*([Pub. L. 103–322, title IV, § 40299](https://www.govinfo.gov/link/plaw/103/public/322), as added [Pub. L. 108–21, title VI, § 611](https://www.govinfo.gov/link/plaw/108/public/21), Apr. 30, 2003, [117 Stat. 693](https://www.govinfo.gov/link/statute/117/693); amended [Pub. L. 109–162, § 3(b)(4)](https://www.govinfo.gov/link/plaw/109/public/162), title VI, § 602(a), title IX, § 906(e), formerly § 906(f), title XI, § 1135(e), Jan. 5, 2006, [119 Stat. 2971](https://www.govinfo.gov/link/statute/119/2971), 3038, 3081, 3109, renumbered § 906(e), [Pub. L. 109–271, § 7(b)(2)(B)](https://www.govinfo.gov/link/plaw/109/public/271), Aug. 12, 2006, [120 Stat. 764](https://www.govinfo.gov/link/statute/120/764); [Pub. L. 109–271](https://www.govinfo.gov/link/plaw/109/public/271), §§ 2(d), 7(c)(1), 8(b), Aug. 12, 2006, [120 Stat. 752](https://www.govinfo.gov/link/statute/120/752), 764–766; [Pub. L. 113–4, title VI, § 602(2)](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 109](https://www.govinfo.gov/link/statute/127/109); [Pub. L. 117–103, div. W, title VI, § 604](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 886](https://www.govinfo.gov/link/statute/136/886).)*

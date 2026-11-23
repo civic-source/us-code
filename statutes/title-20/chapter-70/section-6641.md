@@ -3,9 +3,10 @@ title: "Section 6641 - Purposes; definitions"
 usc_title: 20
 usc_section: "6641"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 6641"
-generated_at: "2026-03-30T02:54:48.201Z"
+generated_at: "2026-11-23T20:26:14.855Z"
+status: "active"
 ---
 
 # § 6641. Purposes; definitions
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:54:48.201Z"
       - **(i)** in which the children are eligible for a free or reduced-price lunch under the Richard B. Russell National School Lunch Act ( 42 U.S.C. 1751 et seq.);
       - **(ii)** receiving assistance under the program of block grants to States for temporary assistance for needy families established under part A of title IV of the Social Security Act ( 42 U.S.C. 601 et seq.); or
       - **(iii)** in which the children are eligible to receive medical assistance under the Medicaid program under title XIX of the Social Security Act ( 42 U.S.C. 1396 et seq.).
+
+## Source Credit
+
+*([Pub. L. 89–10, title II, § 2221](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title II, § 2002](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1936](https://www.govinfo.gov/link/statute/129/1936).)*

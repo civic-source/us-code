@@ -3,9 +3,10 @@ title: "Section 1395m - Special payment rules for particular items and services"
 usc_title: 42
 usc_section: "1395m"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1395m"
-generated_at: "2026-03-30T02:56:10.948Z"
+generated_at: "2026-11-23T20:27:21.156Z"
+status: "active"
 ---
 
 # § 1395m. Special payment rules for particular items and services
@@ -256,6 +257,9 @@ generated_at: "2026-03-30T02:56:10.948Z"
     - **(B)** For purposes of subparagraph (A), a specified item or supply means oxygen and oxygen equipment, standard wheelchairs (including standard power wheelchairs), nebulizers, diabetic supplies consisting of lancets and testing strips, hospital beds, and air mattresses, but only if the HCPCS code for the item or supply is identified in a table referred to in subparagraph (A)(ii).
     - **(C)** The covered item update under paragraph (14) for specified items and supplies for 2006 and each subsequent year shall be applied to the payment amount under subparagraph (A) unless payment is made for such items and supplies under section 1395w–3 of this title .
   - **(22)** Notwithstanding the preceding provisions of this subsection, for purposes of determining the payment amount under this subsection for diabetic supplies furnished on or after the first day of the calendar quarter during 2013 that is at least 30 days after January 2, 2013 , and before the date described in paragraph (1)(H)(ii), the Secretary shall recalculate and apply the covered item update under paragraph (14) as if subparagraph (J)(i) of such paragraph was amended by striking “but only if furnished through mail order”.
+  - **(23)**
+    - **(A)** Beginning January 1, 2029 , for purposes of the Master List described in section 414.234(b) of title 42, Code of Federal Regulations (or any successor regulation), in determining which items have aberrant billing patterns (as such term is used for purposes of such section), the Secretary shall also treat an item for which payment may be made under this subsection as having such an aberrant billing pattern if the Secretary determines that, without explanatory contributing factors (such as furnishing emergent care services), a substantial number of claims for such items under this subsection are for such items ordered by a physician or practitioner who has not previously (during a period of not less than 24 months, as established by the Secretary) furnished to the individual involved any item or service for which payment may be made under this subchapter.
+    - **(B)** With respect to items furnished on or after January 1, 2029 , that are included on the Master List pursuant to subparagraph (A), if such an item is not subject to a determination of coverage in advance pursuant to paragraph (15)(C), the Secretary may conduct prepayment review of claims for payment for such item.
 - **(b)**
   - **(1)** The Secretary shall develop—
     - **(A)** a relative value scale to serve as the basis for the payment for radiologist services under this part, and
@@ -425,7 +429,7 @@ generated_at: "2026-03-30T02:56:10.948Z"
     - **(D)** The amount that is recognized under subparagraph (C) as the purchase price for an item furnished—
       - **(i)** in 1992, may not exceed 125 percent, and may not be lower than 85 percent, of the average of the purchase prices recognized under such subparagraph for all the carrier service areas in the United States in that year; and
       - **(ii)** in a subsequent year, may not exceed 120 percent, and may not be lower than 90 percent, of the average of the purchase prices recognized under such subparagraph for all the carrier service areas in the United States in that year.
-  - **(3)** Paragraphs (12), (15), and (17) and subparagraphs (A) and (B) of paragraph (10) and paragraph (11) of subsection (a) shall apply to prosthetic devices, orthotics, and prosthetics in the same manner as such provisions apply to covered items under such subsection.
+  - **(3)** Paragraphs (12), (15), and (17) and subparagraphs (A) and (B) of paragraph (10) and paragraph (11) of subsection (a) shall apply to prosthetic devices, orthotics, and prosthetics in the same manner as such provisions apply to covered items under such subsection, and paragraph (23) of subsection (a) shall apply to prosthetic devices, orthotics, and prosthetics in the same manner as such provision applies to items for which payment may be made under such subsection.
   - **(4)** In this subsection—
     - **(A)** the term “applicable percentage increase” means—
       - **(i)** for 1991, 0 percent;
@@ -535,7 +539,7 @@ generated_at: "2026-03-30T02:56:10.948Z"
     - **(E)** For 2010 and each succeeding year, the blended rate shall be based 100 percent on the fee schedule under paragraph (1).
   - **(11)** In the case of ground ambulance services furnished on or after July 1, 2004 , and before January 1, 2009 , regardless of where the transportation originates, the fee schedule established under this subsection shall provide that, with respect to the payment rate for mileage for a trip above 50 miles the per mile rate otherwise established shall be increased by ¼ of the payment per mile otherwise applicable to miles in excess of 50 miles in such trip.
   - **(12)**
-    - **(A)** In the case of ground ambulance services furnished on or after July 1, 2004 , and before January 31, 2026 , for which the transportation originates in a qualified rural area (identified under subparagraph (B)(iii)), the Secretary shall provide for a percent increase in the base rate of the fee schedule for a trip established under this subsection. In establishing such percent increase, the Secretary shall estimate the average cost per trip for such services (not taking into account mileage) in the lowest quartile as compared to the average cost per trip for such services (not taking into account mileage) in the highest quartile of all rural county populations.
+    - **(A)** In the case of ground ambulance services furnished on or after July 1, 2004 , and before January 1, 2028 , for which the transportation originates in a qualified rural area (identified under subparagraph (B)(iii)), the Secretary shall provide for a percent increase in the base rate of the fee schedule for a trip established under this subsection. In establishing such percent increase, the Secretary shall estimate the average cost per trip for such services (not taking into account mileage) in the lowest quartile as compared to the average cost per trip for such services (not taking into account mileage) in the highest quartile of all rural county populations.
     - **(B)**
       - **(i)** Based upon data from the United States decennial census for the year 2000, the Secretary shall determine, for each rural area, the population density for that area.
       - **(ii)** The Secretary shall rank each such area based on such population density.
@@ -543,9 +547,9 @@ generated_at: "2026-03-30T02:56:10.948Z"
       - **(iv)** For purposes of this paragraph, the term “rural area” has the meaning given such term in section 1395ww(d)(2)(D) of this title . If feasible, the Secretary shall treat a rural census tract of a metropolitan statistical area (as determined under the most recent modification of the Goldsmith Modification, originally published in the Federal Register on February 27, 1992 (57 Fed. Reg. 6725) as a rural area for purposes of this paragraph.
       - **(v)** There shall be no administrative or judicial review under section 1395ff, 1395 oo of this title, or otherwise, respecting the identification of an area under this subparagraph.
   - **(13)**
-    - **(A)** After computing the rates with respect to ground ambulance services under the other applicable provisions of this subsection, in the case of such services furnished on or after July 1, 2004 , and before January 1, 2007 , and for such services furnished on or after July 1, 2008 , and before January 31, 2026 ,, 4 for which the transportation originates in—
-      - **(i)** a rural area described in paragraph (9) or in a rural census tract described in such paragraph, the fee schedule established under this section shall provide that the rate for the service otherwise established, after the application of any increase under paragraphs (11) and (12), shall be increased by 2 percent (or 3 percent if such service is furnished on or after July 1, 2008 , and before January 31, 2026 ); and
-      - **(ii)** an area not described in clause (i), the fee schedule established under this subsection shall provide that the rate for the service otherwise established, after the application of any increase under paragraph (11), shall be increased by 1 percent (or 2 percent if such service is furnished on or after July 1, 2008 , and before January 31, 2026 ).
+    - **(A)** After computing the rates with respect to ground ambulance services under the other applicable provisions of this subsection, in the case of such services furnished on or after July 1, 2004 , and before January 1, 2007 , and for such services furnished on or after July 1, 2008 , and before January 1, 2028 ,, 4 for which the transportation originates in—
+      - **(i)** a rural area described in paragraph (9) or in a rural census tract described in such paragraph, the fee schedule established under this section shall provide that the rate for the service otherwise established, after the application of any increase under paragraphs (11) and (12), shall be increased by 2 percent (or 3 percent if such service is furnished on or after July 1, 2008 , and before January 1, 2028 ); and
+      - **(ii)** an area not described in clause (i), the fee schedule established under this subsection shall provide that the rate for the service otherwise established, after the application of any increase under paragraph (11), shall be increased by 1 percent (or 2 percent if such service is furnished on or after July 1, 2008 , and before January 1, 2028 ).
     - **(B)** The increased payments under subparagraph (A) shall not be taken into account in calculating payments for services furnished after the applicable period specified in such subparagraph.
   - **(14)**
     - **(A)** The regulations described in section 1395x(s)(7) of this title shall provide, to the extent that any ambulance services (whether ground or air) may be covered under such section, that a rural air ambulance service (as defined in subparagraph (C)) is reimbursed under this subsection at the air ambulance rate if the air ambulance service—
@@ -608,7 +612,7 @@ generated_at: "2026-03-30T02:56:10.948Z"
         - **(I)** for the period beginning on October 1, 2001 , and ending on December 31, 2001 , and for 2002, $20; and
         - **(II)** for a subsequent year, the facility fee specified in subclause (I) or this subclause for the preceding year increased by the percentage increase in the MEI (as defined in section 1395u(i)(3) of this title ) for such subsequent year.
       - **(ii)** No facility fee shall be paid under this subparagraph to an originating site described in paragraph (4)(C)(ii)(X).
-      - **(iii)** In the case that the emergency period described in section 1320b–5(g)(1)(B) of this title ends before December 31, 2024 , with respect to telehealth services identified in paragraph (4)(F)(i) as of March 15, 2022 , that are furnished during the period beginning on the first day after the end of such emergency period and ending January 30, 2026 , a facility fee shall only be paid under this subparagraph to an originating site that is described in paragraph (4)(C)(ii) (other than subclause (X) of such paragraph).
+      - **(iii)** In the case that the emergency period described in section 1320b–5(g)(1)(B) of this title ends before December 31, 2024 , with respect to telehealth services identified in paragraph (4)(F)(i) as of March 15, 2022 , that are furnished during the period beginning on the first day after the end of such emergency period and ending December 31, 2027 , a facility fee shall only be paid under this subparagraph to an originating site that is described in paragraph (4)(C)(ii) (other than subclause (X) of such paragraph).
     - **(C)** Nothing in this subsection shall be construed as requiring an eligible telehealth individual to be presented by a physician or practitioner at the originating site for the furnishing of a service via a telecommunications system, unless it is medically necessary (as determined by the physician or practitioner at the distant site).
   - **(3)**
     - **(A)** The provisions of section 1395w–4(g) of this title and subparagraphs (A) and (B) of section 1395u(b)(18) of this title shall apply to a physician or practitioner receiving payment under this subsection in the same manner as they apply to physicians or practitioners under such sections.
@@ -633,9 +637,9 @@ generated_at: "2026-03-30T02:56:10.948Z"
         - **(IX)** A renal dialysis facility, but only for purposes of section 1395rr(b)(3)(B) of this title .
         - **(X)** The home of an individual, but only for purposes of section 1395rr(b)(3)(B) of this title or telehealth services described in paragraph (7).
         - **(XI)** A rural emergency hospital (as defined in section 1395x(kkk)(2) of this title ).
-      - **(iii)** In the case that the emergency period described in section 1320b–5(g)(1)(B) of this title ends before December 31, 2024 , with respect to telehealth services identified in subparagraph (F)(i) as of March 15, 2022 , that are furnished during the period beginning on the first day after the end of such emergency period and ending on January 30, 2026 , the term “originating site” means any site in the United States at which the eligible telehealth individual is located at the time the service is furnished via a telecommunications system, including the home of an individual.
+      - **(iii)** In the case that the emergency period described in section 1320b–5(g)(1)(B) of this title ends before December 31, 2024 , with respect to telehealth services identified in subparagraph (F)(i) as of March 15, 2022 , that are furnished during the period beginning on the first day after the end of such emergency period and ending on December 31, 2027 , the term “originating site” means any site in the United States at which the eligible telehealth individual is located at the time the service is furnished via a telecommunications system, including the home of an individual.
     - **(D)** The term “physician” has the meaning given that term in section 1395x(r) of this title .
-    - **(E)** The term “practitioner” has the meaning given that term in section 1395u(b)(18)(C) of this title and, in the case that the emergency period described in section 1320b–5(g)(1)(B) of this title ends before December 31, 2024 , for the period beginning on the first day after the end of such emergency period and ending on January 30, 2026 , shall include a qualified occupational therapist (as such term is used in section 1395x(g) of this title ), a qualified physical therapist (as such term is used in section 1395x(p) of this title ), a qualified speech-language pathologist (as defined in section 1395x( ll )(4)(A) of this title), and a qualified audiologist (as defined in section 1395x( ll )(4)(B) of this title).
+    - **(E)** The term “practitioner” has the meaning given that term in section 1395u(b)(18)(C) of this title and, in the case that the emergency period described in section 1320b–5(g)(1)(B) of this title ends before December 31, 2024 , for the period beginning on the first day after the end of such emergency period and ending on December 31, 2027 , shall include a qualified occupational therapist (as such term is used in section 1395x(g) of this title ), a qualified physical therapist (as such term is used in section 1395x(p) of this title ), a qualified speech-language pathologist (as defined in section 1395x( ll )(4)(A) of this title), and a qualified audiologist (as defined in section 1395x( ll )(4)(B) of this title).
     - **(F)**
       - **(i)** Subject to paragraph (8), the term “telehealth service” means professional consultations, office visits, and office psychiatry services (identified as of July 1, 2000 , by HCPCS codes 99241–99275, 99201–99215, 90804–90809, and 90862 (and as subsequently modified by the Secretary)), and any additional service specified by the Secretary.
       - **(ii)** The Secretary shall establish a process that provides, on an annual basis, for the addition or deletion of services (and HCPCS codes), as appropriate, to those specified in clause (i) for authorized payment under paragraph (1).
@@ -647,14 +651,14 @@ generated_at: "2026-03-30T02:56:10.948Z"
   - **(7)**
     - **(A)** The geographic requirements described in paragraph (4)(C)(i) shall not apply with respect to telehealth services furnished on or after July 1, 2019 , to an eligible telehealth individual with a substance use disorder diagnosis for purposes of treatment of such disorder or co-occurring mental health disorder, as determined by the Secretary, or, on or after the first day after the end of the emergency period described in section 1320b–5(g)(1)(B) of this title , subject to subparagraph (B), to an eligible telehealth individual for purposes of diagnosis, evaluation, or treatment of a mental health disorder, as determined by the Secretary, at an originating site described in paragraph (4)(C)(ii) (other than an originating site described in subclause (IX) of such paragraph) or, for the period for which clause (iii) of paragraph (4)(C) applies, at any site described in such clause.
     - **(B)**
-      - **(i)** Payment may not be made under this paragraph for telehealth services furnished on or after January 31, 2026 , by a physician or practitioner to an eligible telehealth individual for purposes of diagnosis, evaluation, or treatment of a mental health disorder unless such physician or practitioner furnishes an item or service in person, without the use of telehealth, for which payment is made under this subchapter (or would have been made under this subchapter if such individual were entitled to, or enrolled for, benefits under this subchapter at the time such item or service is furnished)—
+      - **(i)** Payment may not be made under this paragraph for telehealth services furnished on or after January 1, 2028 , by a physician or practitioner to an eligible telehealth individual for purposes of diagnosis, evaluation, or treatment of a mental health disorder unless such physician or practitioner furnishes an item or service in person, without the use of telehealth, for which payment is made under this subchapter (or would have been made under this subchapter if such individual were entitled to, or enrolled for, benefits under this subchapter at the time such item or service is furnished)—
         - **(I)** within the 6-month period prior to the first time such physician or practitioner furnishes such a telehealth service to the eligible telehealth individual; and
         - **(II)** during subsequent periods in which such physician or practitioner furnishes such telehealth services to the eligible telehealth individual, at such times as the Secretary determines appropriate.
       - **(ii)** This subparagraph shall not apply if payment would otherwise be allowed—
         - **(I)** under this paragraph (with respect to telehealth services furnished to an eligible telehealth individual with a substance use disorder diagnosis for purposes of treatment of such disorder or co-occurring mental health disorder); or
         - **(II)** under this subsection without application of this paragraph.
   - **(8)**
-    - **(A)** During the emergency period described in section 1320b–5(g)(1)(B) of this title and, in the case that such emergency period ends before December 31, 2024 , during the period beginning on the first day after the end of such emergency period and ending on January 30, 2026 —
+    - **(A)** During the emergency period described in section 1320b–5(g)(1)(B) of this title and, in the case that such emergency period ends before December 31, 2024 , during the period beginning on the first day after the end of such emergency period and ending on December 31, 2027 —
       - **(i)** the Secretary shall pay for telehealth services that are furnished via a telecommunications system by a Federally qualified health center or a rural health clinic to an eligible telehealth individual enrolled under this part notwithstanding that the Federally qualified health center or rural clinic providing the telehealth service is not at the same location as the beneficiary;
       - **(ii)** the amount of payment to a Federally qualified health center or rural health clinic that serves as a distant site for such a telehealth service shall be determined under subparagraph (B); and
       - **(iii)** for purposes of this subsection—
@@ -663,7 +667,12 @@ generated_at: "2026-03-30T02:56:10.948Z"
     - **(B)**
       - **(i)** The Secretary shall develop and implement payment methods that apply under this subsection to a Federally qualified health center or rural health clinic that serves as a distant site that furnishes a telehealth service to an eligible telehealth individual during the periods for which subparagraph (A) applies. Such payment methods shall be based on payment rates that are similar to the national average payment rates for comparable telehealth services under the physician fee schedule under section 1395w–4 of this title . Notwithstanding any other provision of law, the Secretary may implement such payment methods through program instruction or otherwise.
       - **(ii)** Costs associated with telehealth services shall not be used to determine the amount of payment for Federally qualified health center services under the prospective payment system under subsection ( o ) or for rural health clinic services under the methodology for all-inclusive rates (established by the Secretary) under section 1395 l (a)(3) of this title.
-  - **(9)** In the case that the emergency period described in section 1320b–5(g)(1)(B) of this title ends before December 31, 2024 , the Secretary shall continue to provide coverage and payment under this part for telehealth services identified in paragraph (4)(F)(i) as of March 15, 2022 , that are furnished via an audio-only communications system during the period beginning on the first day after the end of such emergency period and ending on January 30, 2026 . For purposes of the previous sentence, the term “telehealth service” means a telehealth service identified as of March 15, 2022 , by a HCPCS code (and any succeeding codes) for which the Secretary has not applied the requirements of paragraph (1) and the first sentence of section 410.78(a)(3) of title 42, Code of Federal Regulations, during such emergency period.
+  - **(9)** In the case that the emergency period described in section 1320b–5(g)(1)(B) of this title ends before December 31, 2024 , the Secretary shall continue to provide coverage and payment under this part for telehealth services identified in paragraph (4)(F)(i) as of March 15, 2022 , that are furnished via an audio-only communications system during the period beginning on the first day after the end of such emergency period and ending on December 31, 2027 . For purposes of the previous sentence, the term “telehealth service” means a telehealth service identified as of March 15, 2022 , by a HCPCS code (and any succeeding codes) for which the Secretary has not applied the requirements of paragraph (1) and the first sentence of section 410.78(a)(3) of title 42, Code of Federal Regulations, during such emergency period.
+  - **(10)** Not later than January 1, 2027 , the Secretary shall establish requirements to include one or more codes or modifiers, as determined appropriate by the Secretary, in the case of—
+    - **(A)** claims for telehealth services under this subsection that are furnished through a telehealth virtual platform—
+      - **(i)** by a physician or practitioner that contracts with an entity that owns such virtual platform; or
+      - **(ii)** for which a physician or practitioner has a payment arrangement with an entity for use of such virtual platform; and
+    - **(B)** claims for telehealth services under this subsection that are furnished incident to a physician’s or practitioner’s professional service.
 - **(n)** Notwithstanding any other provision of this subchapter, effective beginning on January 1, 2010 , if the Secretary determines appropriate, the Secretary may—
   - **(1)** modify—
     - **(A)** the coverage of any preventive service described in subparagraph (A) of section 1395x(ddd)(3) of this title to the extent that such modification is consistent with the recommendations of the United States Preventive Services Task Force; and
@@ -690,7 +699,7 @@ generated_at: "2026-03-30T02:56:10.948Z"
     - **(D)** For purposes of making payments under this paragraph, there are appropriated, out of amounts in the Treasury not otherwise appropriated, $6,000,000, which shall remain available until expended.
   - **(4)**
     - **(A)** In the case of services described in section 1395d(d)(2)(A)(ii) of this title furnished on or after January 1, 2022 , by an attending physician (as defined in section 1395x(dd)(3)(B) of this title , other than a physician or practitioner who is employed by a hospice program) who is employed by or working under contract with a Federally qualified health center, a Federally qualified health center shall be paid for such services under the prospective payment system under this subsection.
-    - **(B)** In the case of mental health visits furnished via interactive, real-time, audio and video telecommunications technology or audio-only interactions, the in-person mental health visit requirements established under section 405.2463(b)(3) of title 42 of the Code of Federal Regulations (or a successor regulation) shall not apply prior to January 31, 2026 .
+    - **(B)** In the case of mental health visits furnished via interactive, real-time, audio and video telecommunications technology or audio-only interactions, the in-person mental health visit requirements established under section 405.2463(b)(3) of title 42 of the Code of Federal Regulations (or a successor regulation) shall not apply prior to January 1, 2028 .
   - **(5)**
     - **(A)** In the case of intensive outpatient services furnished by a Federally qualified health center, the payment amount for such services shall be equal to the amount that would have been paid under this subchapter for such services had such services been covered OPD services furnished by a hospital.
     - **(B)** Costs associated with intensive outpatient services shall not be used to determine the amount of payment for Federally qualified health center services under the prospective payment system under this subsection.
@@ -894,7 +903,7 @@ generated_at: "2026-03-30T02:56:10.948Z"
     - **(B)** Payments under paragraph (2) shall be made from the Federal Hospital Insurance Trust Fund under section 1395i of this title .
 - **(y)**
   - **(1)** In the case of services described in section 1395d(d)(2)(A)(ii) of this title furnished on or after January 1, 2022 , by an attending physician (as defined in section 1395x(dd)(3)(B) of this title , other than a physician or practitioner who is employed by a hospice program) who is employed by or working under contract with a rural health clinic, a rural health clinic shall be paid for such services under the methodology for all-inclusive rates (established by the Secretary) under section 1395 l (a)(3) of this title, subject to the limits described in section 1395 l (f) of this title.
-  - **(2)** In the case of mental health visits furnished via interactive, real-time, audio and video telecommunications technology or audio-only interactions, the in-person mental health visit requirements established under section 405.2463(b)(3) of title 42 of the Code of Federal Regulations (or a successor regulation) shall not apply prior to January 31, 2026 .
+  - **(2)** In the case of mental health visits furnished via interactive, real-time, audio and video telecommunications technology or audio-only interactions, the in-person mental health visit requirements established under section 405.2463(b)(3) of title 42 of the Code of Federal Regulations (or a successor regulation) shall not apply prior to January 1, 2028 .
   - **(3)**
     - **(A)** In the case of intensive outpatient services furnished by a rural health clinic, the payment amount for such services shall be equal to the amount that would have been paid under this subchapter for such services had such services been covered OPD services furnished by a hospital.
     - **(B)** Costs associated with intensive outpatient services shall not be used to determine the amount of payment for rural health clinic services under the methodology for all-inclusive rates (established by the Secretary) under section 1395 l (a)(3) of this title.
@@ -904,3 +913,235 @@ generated_at: "2026-03-30T02:56:10.948Z"
   - **(3)** In the case of lymphedema compression treatment items that are included in a competitive acquisition program in a competitive acquisition area under section 1395w–3(a) of this title —
     - **(A)** the payment basis under this subsection for such items furnished in such area shall be the payment basis determined under such competitive acquisition program; and
     - **(B)** the Secretary may use information on the payment determined under such competitive acquisition programs to adjust the payment amount otherwise determined under this subsection for an area that is not a competitive acquisition area under section 1395w–3 of this title , and in the case of such adjustment, paragraphs (8) and (9) of section 1395u(b) of this title shall not be applied.
+- **(aa)**
+  - **(1)** The payment amount for a multi-cancer early detection screening test (as defined in section 1395x(nnn) of this title ) is—
+    - **(A)** with respect to such a test furnished before January 1, 2031 , equal to the payment amount in effect on February 3, 2026 , for a multi-target stool screening DNA test covered pursuant to section 1395x(pp)(1)(D) of this title ; and
+    - **(B)** with respect to such a test furnished on or after January 1, 2031 , equal to the lesser of—
+      - **(i)** the amount described in subparagraph (A); or
+      - **(ii)** the payment amount determined for such test under section 1395m–1 of this title .
+  - **(2)**
+    - **(A)** No payment may be made under this part for a multi-cancer early detection screening test furnished during a year to an individual if—
+      - **(i)** such individual—
+        - **(I)** is under 50 years of age; or
+        - **(II)** as of January 1 of such year, has attained the age specified in subparagraph (B) for such year; or
+      - **(ii)** such a test was furnished to the individual during the previous 11 months.
+    - **(B)** For purposes of subparagraph (A)(i)(II), the age specified in this subparagraph is—
+      - **(i)** for 2029, 65 years of age; and
+      - **(ii)** for a succeeding year, the age specified in this subparagraph for the preceding year, increased by 1 year.
+    - **(C)** In the case of a multi-cancer early detection screening test that is recommended with a grade of A or B by the United States Preventive Services Task Force, beginning on the date on which coverage for such test is provided pursuant to section 1395x(ddd)(1) of this title , the preceding provisions of this paragraph shall not apply.
+
+Development of list of items by secretary
+
+Determinations of coverage in advance
+
+In general
+
+Penalty
+
+In general
+
+Application to competitive bidding
+
+In general
+
+Application to certain individuals
+
+In general
+
+Rule of application
+
+In general
+
+Testing strips
+
+Oxygen
+
+Other provisions
+
+“Nothing in this section [amending this section and sections 1395 l , 1395x and 1395y of this title], including the amendments made by this section, shall be construed—
+
+In General
+
+Definitions
+
+MDPP
+
+Regulatory terms
+
+Secretary
+
+Implementation
+
+Areas Other Than Rural and Noncontiguous Areas
+
+All Areas
+
+Implementation
+
+Rural and Noncontiguous Areas
+
+Areas Other Than Rural and Noncontiguous Areas
+
+Conduct of demonstration project.—
+
+In general
+
+Advanced diagnostic imaging services
+
+Authority to focus demonstration project
+
+Implementation and design of demonstration project.—
+
+Implementation and duration.—
+
+Implementation
+
+Duration
+
+Application and selection of participating physicians.—
+
+Application
+
+Selection
+
+Administrative costs and incentives
+
+Use of appropriateness criteria.—
+
+In general
+
+Criteria selected
+
+Models for collecting data regarding physician compliance with selected criteria
+
+Point of service model described
+
+Point of order model described
+
+Limitation
+
+Required contracts and performance standards for certain entities.—
+
+In general
+
+Performance standards
+
+Comparison of utilization of advanced diagnostic imaging services and feedback reports.—
+
+Comparison of utilization of advanced diagnostic imaging services
+
+Feedback reports
+
+Conduct of demonstration project and waiver.—
+
+Conduct of demonstration project
+
+Waiver
+
+Evaluation and report.—
+
+Evaluation
+
+Report
+
+Funding
+
+Evaluation
+
+Report
+
+Authority To Expand Originating Telehealth Sites To Include Skilled Nursing Facilities
+
+Tests furnished in 2001.—
+
+Screening
+
+Bilateral diagnostic mammography
+
+Allocation of amounts
+
+Implementation of provision
+
+Consideration of new hcpcs code for new technologies after 2001
+
+New technology described
+
+HCPCS code defined
+
+Study.—
+
+In general
+
+Focus
+
+Report
+
+Study
+
+Matters described
+
+Report
+
+Study
+
+Report
+
+“Notwithstanding the amendment made by paragraph (1) [amending this section], for purposes of making payments for ambulance services under part B of title XVIII of the Social Security Act [ 42 U.S.C. 1395j et seq.], for services furnished during 2001, the ‘percentage increase in the consumer price index’ specified in section 1834( l )(3)(B) of such Act ( 42 U.S.C. 1395m ( l )(3)(B))—
+
+“Notwithstanding the amendments made by subsection (a) [amending this section], for purposes of making payments for durable medical equipment under section 1834(a) of the Social Security Act ( 42 U.S.C. 1395m(a) ), other than for oxygen and oxygen equipment specified in paragraph (9) of such section, the payment basis recognized for 2001 under such section—
+
+“Notwithstanding the amendments made by subsection (a) [amending this section], for purposes of making payments for prosthetic devices and orthotics and prosthetics (as defined in subparagraphs (B) and (C) of paragraph (4) of section 1834(h) of the Social Security Act ( 42 U.S.C. 1395m(h) ) under such section, the payment basis recognized for 2001 under paragraph (2) of such section—
+
+Study
+
+Report
+
+“The payment increase provided under the following sections shall not apply after calendar year 2001 and shall not be taken into account in calculating the payment amounts applicable for items and services furnished after such year:
+
+In General
+
+Limiting Application to Specified Years
+
+Demonstration Project Contracts with Local Governments
+
+Amount of Payment.—
+
+In general
+
+Capitated payment rate defined
+
+Other Terms of Contract
+
+Contract Payments in Lieu of Other Benefits
+
+Report on Effects of Capitated Contracts.—
+
+Study
+
+Report
+
+Study
+
+Peer review evaluation
+
+In general
+
+Report
+
+In general
+
+Items described
+
+In general
+
+Exception
+
+“For radiologist services furnished during 1991 for which payment is made under section 1834(b) of the Social Security Act [ 42 U.S.C. 1395m(b) ]—
+
+In general
+
+Cap on Rental Payments, Servicing, and Repairs
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1834, as added and amended [Pub. L. 100–203, title IV](https://www.govinfo.gov/link/plaw/100/public/203), §§ 4049(a)(2), 4062(b), Dec. 22, 1987, [101 Stat. 1330–91](https://www.govinfo.gov/link/statute/101/1330), 1330–100; [Pub. L. 100–360, title II](https://www.govinfo.gov/link/plaw/100/public/360), §§ 202(b)(4), 203(c)(1)(F), 204(b), title IV, § 411(a)(3)(A), (B)(ii), (C)(ii), (f)(8)(A), (B)(ii), (D), (g)(1)(A), (B), July 1, 1988, [102 Stat. 704](https://www.govinfo.gov/link/statute/102/704), 722, 726, 768, 779, 781; [Pub. L. 100–485, title VI, § 608(d)(21)(C)](https://www.govinfo.gov/link/plaw/100/public/485), (22)(A), Oct. 13, 1988, [102 Stat. 2420](https://www.govinfo.gov/link/statute/102/2420); [Pub. L. 101–234, title II, § 201(a)](https://www.govinfo.gov/link/plaw/101/public/234), title III, § 301(b)(1), (c)(1), Dec. 13, 1989, [103 Stat. 1981](https://www.govinfo.gov/link/statute/103/1981), 1985; [Pub. L. 101–239, title VI](https://www.govinfo.gov/link/plaw/101/public/239), §§ 6102(f)(1), 6105(a), 6112(a), (c), (d)(1), (e)(2), 6116(b)(2), 6140, Dec. 19, 1989, [103 Stat. 2188](https://www.govinfo.gov/link/statute/103/2188), 2210, 2214–2216, 2220, 2224; [Pub. L. 101–508, title IV](https://www.govinfo.gov/link/plaw/101/public/508), §§ 4102(a), (d), (f), 4104(a), 4152(a)(1), (b), (c)(1)–(4)(B)(i), (e), (f)(1), (g)(1), 4153(a)(1), (2)(D), 4163(b), Nov. 5, 1990, [104 Stat. 1388–55](https://www.govinfo.gov/link/statute/104/1388), 1388–57, 1388–59, 1388–74, 1388–77 to 1388–81, 1388–83, 1388–97; [Pub. L. 103–66, title XIII](https://www.govinfo.gov/link/plaw/103/public/66), §§ 13542(a), 13543(a), (b), 13544(a)(1), (2), (b)(1), 13545(a), 13546, Aug. 10, 1993, [107 Stat. 587](https://www.govinfo.gov/link/statute/107/587), 589, 590; [Pub. L. 103–432, title I](https://www.govinfo.gov/link/plaw/103/public/432), §§ 102(e), 126(b)(1), (2), (4), (5), (g)(1), (10)(B), 131(a), 132(a), (b), 133(a)(1), 134(a)(1), 135(a)(1), (b)(1), (3), (d)(1), (e)(2)–(5), 145(a), 156(a)(2)(C), Oct. 31, 1994, [108 Stat. 4403](https://www.govinfo.gov/link/statute/108/4403), 4414–4416, 4419, 4421–4424, 4427, 4440; [Pub. L. 105–33, title IV](https://www.govinfo.gov/link/plaw/105/public/33), §§ 4101(a), (c), 4104(b)(1), 4105(b)(2), 4201(c)(5), 4312(a), (c), 4316(b), 4531(b)(2), 4541(a)(2), 4551(a), (c)(1), 4552(a), (b), Aug. 5, 1997, [111 Stat. 360](https://www.govinfo.gov/link/statute/111/360), 363, 367, 374, 386, 387, 392, 451, 455, 457–459; [Pub. L. 106–113, div. B, § 1000(a)(6) [title II, § 201(e)(2), title III, § 321(k)(3), title IV, § 403(d)(1)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–340, 1501A–366, 1501A–371; [Pub. L. 106–554, § 1(a)(6) [title I, §§ 103(b), 104(b), title II, §§ 201(a), 202(a), 204(a), 205(a), 221(a), 223(b), title IV, §§ 423(a)(1), (b)(1), 425(a), 426(a), 427(a), 428(a)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–468, 2763A–469, 2763A–481, 2763A–482, 2763A–486, 2763A–487, 2763A–518 to 2763A–520, 2763A–522; [Pub. L. 108–173, title III, § 302(a)](https://www.govinfo.gov/link/plaw/108/public/173), (c)(1)(A), (2), (3), (d)(1), (2), title IV, §§ 405(a)(1), (b)(1), (d)(1), 414(a)–(c)(1), (d), 415(a), title VI, § 627(b)(1), title VII, § 736(b)(4), (5), Dec. 8, 2003, [117 Stat. 2223](https://www.govinfo.gov/link/statute/117/2223), 2230–2232, 2266, 2267, 2278–2281, 2321, 2356; [Pub. L. 109–171, title V](https://www.govinfo.gov/link/plaw/109/public/171), §§ 5101(a)(1), (b)(1), 5113(b), Feb. 8, 2006, [120 Stat. 37](https://www.govinfo.gov/link/statute/120/37), 38, 44; [Pub. L. 110–275, title I](https://www.govinfo.gov/link/plaw/110/public/275), §§ 125(b)(5), 135(a)(1), 144(b)(1), 146(a), (b)(2)(A), 148(a), 149(a), 154(a)(2)(A), (3), (4), (b)(1)(A), (d)(2), July 15, 2008, [122 Stat. 2519](https://www.govinfo.gov/link/statute/122/2519), 2532, 2547–2549, 2563, 2564, 2567; [Pub. L. 111–72, § 1(a)](https://www.govinfo.gov/link/plaw/111/public/72), Oct. 13, 2009, [123 Stat. 2059](https://www.govinfo.gov/link/statute/123/2059); [Pub. L. 111–148, title III](https://www.govinfo.gov/link/plaw/111/public/148), §§ 3105(a), (c), 3109(a), 3128(a), 3136(a), (b), 3401(j), (m), (n), title IV, § 4105(a), title V, §§ 5501(a)(2), (b)(2), 5502(b), title VI, §§ 6402(g)(1), 6405(a), 6407(b), 6410(b), title X, §§ 10311(a), (c), 10501(i)(1), (3)(A), Mar. 23, 2010, [124 Stat. 417](https://www.govinfo.gov/link/statute/124/417), 418, 426, 437, 438, 486, 487, 558, 653, 654, 759, 768, 770, 773, 942, 943, 997; [Pub. L. 111–309, title I, § 106(a)](https://www.govinfo.gov/link/plaw/111/public/309), (c), Dec. 15, 2010, [124 Stat. 3287](https://www.govinfo.gov/link/statute/124/3287); [Pub. L. 112–78, title III, § 306(a)](https://www.govinfo.gov/link/plaw/112/public/78), (c), Dec. 23, 2011, [125 Stat. 1285](https://www.govinfo.gov/link/statute/125/1285); [Pub. L. 112–96, title III, § 3007(a)](https://www.govinfo.gov/link/plaw/112/public/96), (c), Feb. 22, 2012, [126 Stat. 190](https://www.govinfo.gov/link/statute/126/190); [Pub. L. 112–240, title VI](https://www.govinfo.gov/link/plaw/112/public/240), §§ 604(a), (c), 633(b), 636, 637, Jan. 2, 2013, [126 Stat. 2347](https://www.govinfo.gov/link/statute/126/2347), 2348, 2355–2357; [Pub. L. 113–67, div. B, title I, § 1104](https://www.govinfo.gov/link/plaw/113/public/67), Dec. 26, 2013, [127 Stat. 1196](https://www.govinfo.gov/link/statute/127/1196); [Pub. L. 113–93, title I, § 104](https://www.govinfo.gov/link/plaw/113/public/93), title II, § 218(a)(1), (b)(1), Apr. 1, 2014, [128 Stat. 1042](https://www.govinfo.gov/link/statute/128/1042), 1063, 1065; [Pub. L. 113–295, div. B, title II, § 203](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4065](https://www.govinfo.gov/link/statute/128/4065); [Pub. L. 114–10, title II, § 203](https://www.govinfo.gov/link/plaw/114/public/10), title V, §§ 504(a), 515(b), Apr. 16, 2015, [129 Stat. 144](https://www.govinfo.gov/link/statute/129/144), 165, 174; [Pub. L. 114–27, title VIII, § 808(b)](https://www.govinfo.gov/link/plaw/114/public/27), June 29, 2015, [129 Stat. 418](https://www.govinfo.gov/link/statute/129/418); [Pub. L. 114–40, § 3](https://www.govinfo.gov/link/plaw/114/public/40), July 30, 2015, [129 Stat. 441](https://www.govinfo.gov/link/statute/129/441); [Pub. L. 114–113, div. O, title V, § 504(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3021](https://www.govinfo.gov/link/statute/129/3021); [Pub. L. 114–255, div. A, title IV, § 4011](https://www.govinfo.gov/link/plaw/114/public/255), title V, § 5012(b), div. C, title XVI, § 16008(a), (b)(1), Dec. 13, 2016, [130 Stat. 1186](https://www.govinfo.gov/link/statute/130/1186), 1199, 1329; [Pub. L. 115–123, div. E, title II, § 50203](https://www.govinfo.gov/link/plaw/115/public/123), title III, §§ 50302(b), 50325, title IV, §§ 50401(a), 50402, 50411, title XII, §§ 53107, 53108, Feb. 9, 2018, [132 Stat. 178](https://www.govinfo.gov/link/statute/132/178), 191, 205, 214, 217, 220, 303; [Pub. L. 115–271, title II](https://www.govinfo.gov/link/plaw/115/public/271), §§ 2001(a), 2005(c)(2), title VI, § 6083(a), Oct. 24, 2018, [132 Stat. 3924](https://www.govinfo.gov/link/statute/132/3924), 3929, 3994; [Pub. L. 116–136, div. A, title III, § 3704](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 416](https://www.govinfo.gov/link/statute/134/416); [Pub. L. 116–260, div. CC, title I](https://www.govinfo.gov/link/plaw/116/public/260), §§ 121(a), (b)(1), 122(c), 123(a), 125(a)(2)(B), (c), 132, Dec. 27, 2020, [134 Stat. 2955](https://www.govinfo.gov/link/statute/134/2955), 2956, 2964, 2966, 2976; [Pub. L. 117–103, div. P, title III](https://www.govinfo.gov/link/plaw/117/public/103), §§ 301–305, 311, Mar. 15, 2022, [136 Stat. 804–806](https://www.govinfo.gov/link/statute/136/804), 808; [Pub. L. 117–215, title I, § 103(b)(4)(B)](https://www.govinfo.gov/link/plaw/117/public/215), Dec. 2, 2022, [136 Stat. 2263](https://www.govinfo.gov/link/statute/136/2263); [Pub. L. 117–328, div. FF, title I, § 1262(b)(6)](https://www.govinfo.gov/link/plaw/117/public/328), title IV, §§ 4103, 4113(a)–(e), 4124(c), 4133(a)(2)(B), (b), 4134(c), 4136(a), Dec. 29, 2022, [136 Stat. 5682](https://www.govinfo.gov/link/statute/136/5682), 5896, 5898, 5899, 5909, 5919–5921, 5924; [Pub. L. 118–158, div. C, title II](https://www.govinfo.gov/link/plaw/118/public/158), §§ 3203, 3207(a)–(e), Dec. 21, 2024, [138 Stat. 1765](https://www.govinfo.gov/link/statute/138/1765), 1766; [Pub. L. 119–4, div. B, title II](https://www.govinfo.gov/link/plaw/119/public/4), §§ 2203, 2207(a)–(e), Mar. 15, 2025, [139 Stat. 43](https://www.govinfo.gov/link/statute/139/43), 44; [Pub. L. 119–26, § 4(2)(B)(vi)](https://www.govinfo.gov/link/plaw/119/public/26), July 16, 2025, [139 Stat. 417](https://www.govinfo.gov/link/statute/139/417); [Pub. L. 119–37, div. F, title II](https://www.govinfo.gov/link/plaw/119/public/37), §§ 6206, 6208(a)–(e), Nov. 12, 2025, [139 Stat. 632](https://www.govinfo.gov/link/statute/139/632), 633; [Pub. L. 119–75, div. J, title II](https://www.govinfo.gov/link/plaw/119/public/75), §§ 6203, 6209(a)–(e), (g), 6212(a), 6221(b)(1), Feb. 3, 2026, [140 Stat. 646](https://www.govinfo.gov/link/statute/140/646), 648, 649, 652, 662.)*

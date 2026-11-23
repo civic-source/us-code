@@ -3,9 +3,10 @@ title: "Section 7511 - Definitions; application"
 usc_title: 5
 usc_section: "7511"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 7511"
-generated_at: "2026-03-30T02:52:56.038Z"
+generated_at: "2026-11-23T20:25:32.068Z"
+status: "active"
 ---
 
 # § 7511. Definitions; application
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:52:56.038Z"
   - **(9)** who is described in section 5102(c)(11) of this title ; or
   - **(10)** who holds a position within the Veterans Health Administration which has been excluded from the competitive service by or under a provision of title 38, unless such employee was appointed to such position under section 7401(3) of such title.
 - **(c)** The Office may provide for the application of this subchapter to any position or group of positions excepted from the competitive service by regulation of the Office which is not otherwise covered by this subchapter.
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title II, § 204(a)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1135](https://www.govinfo.gov/link/statute/92/1135); amended [Pub. L. 101–376, § 2(a)](https://www.govinfo.gov/link/plaw/101/public/376), Aug. 17, 1990, [104 Stat. 461](https://www.govinfo.gov/link/statute/104/461); [Pub. L. 102–378, § 6(a)](https://www.govinfo.gov/link/plaw/102/public/378), Oct. 2, 1992, [106 Stat. 1358](https://www.govinfo.gov/link/statute/106/1358); [Pub. L. 103–359, title V, § 501](https://www.govinfo.gov/link/plaw/103/public/359) (l), Oct. 14, 1994, [108 Stat. 3430](https://www.govinfo.gov/link/statute/108/3430); [Pub. L. 104–201, div. A, title XVI, § 1634(b)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2752](https://www.govinfo.gov/link/statute/110/2752); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 109–435, title VI, § 604(b)](https://www.govinfo.gov/link/plaw/109/public/435), (f), Dec. 20, 2006, [120 Stat. 3241](https://www.govinfo.gov/link/statute/120/3241), 3242; [Pub. L. 114–92, div. A, title XI, § 1105(c)(4)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 1024](https://www.govinfo.gov/link/statute/129/1024); [Pub. L. 114–328, div. A, title V, § 512(c)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2112](https://www.govinfo.gov/link/statute/130/2112); [Pub. L. 117–81, div. A, title XI, § 1106(b)(2)(D)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1950](https://www.govinfo.gov/link/statute/135/1950).)*

@@ -3,9 +3,10 @@ title: "Section 7243 - Forfeiture of certain bonuses and profits"
 usc_title: 15
 usc_section: "7243"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 7243"
-generated_at: "2026-03-30T02:54:08.220Z"
+generated_at: "2026-11-23T20:26:04.445Z"
+status: "active"
 ---
 
 # § 7243. Forfeiture of certain bonuses and profits
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:08.220Z"
   - **(1)** any bonus or other incentive-based or equity-based compensation received by that person from the issuer during the 12-month period following the first public issuance or filing with the Commission (whichever first occurs) of the financial document embodying such financial reporting requirement; and
   - **(2)** any profits realized from the sale of securities of the issuer during that 12-month period.
 - **(b)** The Commission may exempt any person from the application of subsection (a), as it deems necessary and appropriate.
+
+## Source Credit
+
+*([Pub. L. 107–204, title III, § 304](https://www.govinfo.gov/link/plaw/107/public/204), July 30, 2002, [116 Stat. 778](https://www.govinfo.gov/link/statute/116/778).)*

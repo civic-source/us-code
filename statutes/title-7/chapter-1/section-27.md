@@ -3,9 +3,10 @@ title: "Section 27 - Definitions"
 usc_title: 7
 usc_section: "27"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 27"
-generated_at: "2026-03-30T02:53:42.251Z"
+generated_at: "2026-11-23T20:25:40.894Z"
+status: "active"
 ---
 
 # § 27. Definitions
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:42.251Z"
   - **(1)** the term “bank” shall have the meaning given in subsection (a) of this section; and
   - **(2)** the term “qualified investor” means eligible contract participant (as defined in section 1a of this title , as in effect on December 21, 2000 ).
 - **(c)** In sections 27 to 27f of this title, the term “hybrid instrument” means an identified banking product not excluded by section 27a of this title , offered by a bank, having one or more payments indexed to the value, level, or rate of, or providing for the delivery of, one or more commodities (as defined in section 1a of this title ).
+
+## Source Credit
+
+*([Pub. L. 106–554, § 1(a)(5) [title IV, § 402]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–457; [Pub. L. 111–203, title VII](https://www.govinfo.gov/link/plaw/111/public/203), §§ 721(e)(9), 725(g)(1)(B), July 21, 2010, [124 Stat. 1672](https://www.govinfo.gov/link/statute/124/1672), 1694.)*

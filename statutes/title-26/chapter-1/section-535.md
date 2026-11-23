@@ -3,9 +3,10 @@ title: "Section 535 - Accumulated taxable income"
 usc_title: 26
 usc_section: "535"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 535"
-generated_at: "2026-03-30T02:55:27.717Z"
+generated_at: "2026-11-23T20:26:45.816Z"
+status: "active"
 ---
 
 # § 535. Accumulated taxable income
@@ -53,3 +54,11 @@ generated_at: "2026-03-30T02:55:27.717Z"
     - **(A)** is derived from sources within the United States, or
     - **(B)** is effectively connected with the conduct of a trade or business within the United States,
   - **(2)** The term “United States-owned foreign corporation” has the meaning given to such term by section 904(h)(6).
+
+In general
+
+Corporations in existence on may 23, 1983
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 180; [Pub. L. 85–866, title I, § 31](https://www.govinfo.gov/link/plaw/85/public/866), title II, § 205(a), Sept. 2, 1958, [72 Stat. 1631](https://www.govinfo.gov/link/statute/72/1631), 1680; [Pub. L. 87–403, § 3(b)](https://www.govinfo.gov/link/plaw/87/public/403), Feb. 2, 1962, [76 Stat. 6](https://www.govinfo.gov/link/statute/76/6); [Pub. L. 87–834, § 9(d)(2)](https://www.govinfo.gov/link/plaw/87/public/834), Oct. 16, 1962, [76 Stat. 1001](https://www.govinfo.gov/link/statute/76/1001); [Pub. L. 88–272, title II, § 207(b)(4)](https://www.govinfo.gov/link/plaw/88/public/272), Feb. 26, 1964, [78 Stat. 42](https://www.govinfo.gov/link/statute/78/42); [Pub. L. 91–172, title IV, § 401(b)(2)(C)](https://www.govinfo.gov/link/plaw/91/public/172), title V, § 512(f)(5), (6), Dec. 30, 1969, [83 Stat. 602](https://www.govinfo.gov/link/statute/83/602), 641; [Pub. L. 94–12, title III, § 304(a)](https://www.govinfo.gov/link/plaw/94/public/12), Mar. 29, 1975, [89 Stat. 45](https://www.govinfo.gov/link/statute/89/45); [Pub. L. 94–455, title X, § 1033(b)(3)](https://www.govinfo.gov/link/plaw/94/public/455), title XIX, §§ 1901(a)(74), (b)(20)(A), (32)(C), (33)(D), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1628](https://www.govinfo.gov/link/statute/90/1628), 1777, 1797, 1800, 1801, 1834; [Pub. L. 97–34, title II, § 232(a)](https://www.govinfo.gov/link/plaw/97/public/34), (b)(1), Aug. 13, 1981, [95 Stat. 250](https://www.govinfo.gov/link/statute/95/250); [Pub. L. 98–369, div. A, title I](https://www.govinfo.gov/link/plaw/98/public/369), §§ 58(b), 125(a), July 18, 1984, [98 Stat. 575](https://www.govinfo.gov/link/statute/98/575), 647; [Pub. L. 99–514, title XII, § 1225(a)](https://www.govinfo.gov/link/plaw/99/public/514), title XVIII, § 1899A(17), Oct. 22, 1986, [100 Stat. 2558](https://www.govinfo.gov/link/statute/100/2558), 2959; [Pub. L. 101–508, title XI, § 11801(c)(18)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–528](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 108–357, title IV, § 402(b)(1)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1492](https://www.govinfo.gov/link/statute/118/1492); [Pub. L. 109–135, title IV, § 403(n)(2)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2626](https://www.govinfo.gov/link/statute/119/2626); [Pub. L. 113–295, div. A, title II, § 221(a)(64)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4048](https://www.govinfo.gov/link/statute/128/4048); [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 13001(b)(5)(B), 14301(c)(4), Dec. 22, 2017, [131 Stat. 2098](https://www.govinfo.gov/link/statute/131/2098), 2222.)*

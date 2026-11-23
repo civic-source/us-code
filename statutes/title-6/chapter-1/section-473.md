@@ -3,9 +3,10 @@ title: "Section 473 - Cyber Crimes Center, Child Exploitation Investigations Uni
 usc_title: 6
 usc_section: "473"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 473"
-generated_at: "2026-03-30T02:53:09.465Z"
+generated_at: "2026-11-23T20:25:34.762Z"
+status: "active"
 ---
 
 # § 473. Cyber Crimes Center, Child Exploitation Investigations Unit, Computer Forensics Unit, and Cyber Crimes Unit
@@ -110,3 +111,9 @@ generated_at: "2026-03-30T02:53:09.465Z"
 - **(g)**
   - **(1)** There are authorized to be appropriated to the Secretary such sums as are necessary to carry out this section.
   - **(2)** Of the amount made available pursuant to paragraph (1) in each of fiscal years 2022 through 2027, not more than $10,000,000 shall be used to carry out subsection (e) and not less than $2,000,000 shall be used to carry out subsection (f).
+
+“Congress finds the following:
+
+## Source Credit
+
+*([Pub. L. 107–296, title VIII, § 890A](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 114–22, title III, § 302(b)(1)](https://www.govinfo.gov/link/plaw/114/public/22), May 29, 2015, [129 Stat. 251](https://www.govinfo.gov/link/statute/129/251); amended [Pub. L. 115–392, § 23(a)](https://www.govinfo.gov/link/plaw/115/public/392), (b), Dec. 21, 2018, [132 Stat. 5261](https://www.govinfo.gov/link/statute/132/5261), 5262; [Pub. L. 117–347, title I, § 105(b)](https://www.govinfo.gov/link/plaw/117/public/347), Jan. 5, 2023, [136 Stat. 6203](https://www.govinfo.gov/link/statute/136/6203).)*

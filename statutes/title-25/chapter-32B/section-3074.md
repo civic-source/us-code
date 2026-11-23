@@ -3,9 +3,10 @@ title: "Section 3074 - Voluntary return of tangible cultural heritage"
 usc_title: 25
 usc_section: "3074"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3074"
-generated_at: "2026-03-30T02:54:52.847Z"
+generated_at: "2026-11-23T20:26:25.631Z"
+status: "active"
 ---
 
 # § 3074. Voluntary return of tangible cultural heritage
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:52.847Z"
 - **(d)** Nothing in this section imposes on any individual or entity any additional penalties or legal liability.
 - **(e)** In facilitating the voluntary return of tangible cultural heritage under this section, the Secretary shall include provision of tax documentation for a deductible gift to an Indian Tribe or Native Hawaiian organization, if the recipient Indian Tribe or Native Hawaiian organization consents to the provision of tax documentation.
 - **(f)** The voluntary return provisions of this section shall apply to a specific item of tangible cultural heritage only to the extent that the repatriation provisions under section 3005 of this title do not apply to the item of tangible cultural heritage.
+
+## Source Credit
+
+*([Pub. L. 117–258, § 6](https://www.govinfo.gov/link/plaw/117/public/258), Dec. 21, 2022, [136 Stat. 2382](https://www.govinfo.gov/link/statute/136/2382).)*

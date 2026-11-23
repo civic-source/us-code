@@ -3,9 +3,10 @@ title: "Section 31113 - Width limitations"
 usc_title: 49
 usc_section: "31113"
 chapter: 311
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 31113"
-generated_at: "2026-03-30T02:56:19.358Z"
+generated_at: "2026-11-23T20:27:34.945Z"
+status: "active"
 ---
 
 # § 31113. Width limitations
@@ -28,3 +29,80 @@ generated_at: "2026-03-30T02:56:19.358Z"
     - **(A)** If the Secretary decides, on request of a chief executive officer or on the Secretary’s own initiative, a segment of the Dwight D. Eisenhower System of Interstate and Defense Highways is not capable of safely accommodating a commercial motor vehicle having a width provided in subsection (a) of this section, the Secretary shall exempt the segment from subsection (a) to allow the State to impose a width limitation of less than 102 inches for a vehicle (except a bus) on that segment. Before making a decision under this paragraph, the Secretary shall consider any possible alternative route that serves the area in which the segment is located.
     - **(B)** The Secretary shall make a decision about a specific segment not later than 120 days after the date of receipt of notification from a chief executive officer under paragraph (1) of this subsection or the date on which the Secretary initiates action under subparagraph (A) of this paragraph, whichever is applicable. If the Secretary finds the decision will not be made in time, the Secretary immediately shall notify Congress, giving the reasons for the delay, information about the resources assigned, and the projected date for the decision.
     - **(C)** Before making a decision, the Secretary shall give an interested person notice and an opportunity for comment. If the Secretary exempts a segment under this subsection before the final regulations under subsection (a) of this section are prescribed, the Secretary shall include the exemption as part of the final regulations. If the Secretary exempts the segment after the final regulations are prescribed, the Secretary shall publish the exemption as an amendment to the final regulations.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 31113(a) | 49 App.:2316(a), (f). | Jan. 6, 1983 , Pub. L. 97–424 , 96 Stat. 2097 , § 416(a), (d), (f); added Apr. 5, 1983 , Pub. L. 98–17, § 1(a) , 97 Stat. 59 ; Oct. 30, 1984 , Pub. L. 98–554 , §§ 103(1), 104(d), (e), 105, 98 Stat. 2830 , 2831. |
+| 31113(b) | 49 App.:2316(b). | Jan. 6, 1983 , Pub. L. 97–424 , 96 Stat. 2097 , § 416(b), (c); added Apr. 5, 1983 , Pub. L. 98–17, § 1(a) , 97 Stat. 59 . |
+| 31113(c) | 49 App.:2316(c). |  |
+| 31113(d) | 49 App.:2316(d). |  |
+| 31113(e) | 49 App.:2316(e). | Jan. 6, 1983 , Pub. L. 97–424 , 96 Stat. 2097 , § 416(e); added Oct. 30, 1984 , Pub. L. 98–554, § 103(2) , 98 Stat. 2830 . |
+
+
+General Limitations
+
+Exclusion of Safety and Energy Conservation Devices
+
+Special Use Permits
+
+State Enforcement
+
+Exemptions
+
+Historical and Revision Notes
+
+31113(a)
+
+Jan. 6, 1983
+
+Pub. L. 97–424
+
+96 Stat. 2097
+
+Apr. 5, 1983
+
+Pub. L. 98–17, § 1(a)
+
+97 Stat. 59
+
+Oct. 30, 1984
+
+Pub. L. 98–554
+
+98 Stat. 2830
+
+31113(b)
+
+Jan. 6, 1983
+
+Pub. L. 97–424
+
+96 Stat. 2097
+
+Apr. 5, 1983
+
+Pub. L. 98–17, § 1(a)
+
+97 Stat. 59
+
+31113(c)
+
+31113(d)
+
+31113(e)
+
+Jan. 6, 1983
+
+Pub. L. 97–424
+
+96 Stat. 2097
+
+Oct. 30, 1984
+
+Pub. L. 98–554, § 103(2)
+
+98 Stat. 2830
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 997](https://www.govinfo.gov/link/statute/108/997).)*

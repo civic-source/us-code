@@ -3,9 +3,10 @@ title: "Section 4913 - Exotic bird conservation assistance"
 usc_title: 16
 usc_section: "4913"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 4913"
-generated_at: "2026-03-30T02:54:23.049Z"
+generated_at: "2026-11-23T20:26:20.758Z"
+status: "active"
 ---
 
 # § 4913. Exotic bird conservation assistance
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:23.049Z"
 - **(c)** The Secretary, in consultation with appropriate representatives of industry, the conservation community, the Secretariat of the Convention, and other national and international bodies, shall—
   - **(1)** review opportunities for a voluntary program of labeling exotic birds, certification of exotic bird breeding facilities and retail outlets, and provision of privately organized or funded technical assistance to other nations; and
   - **(2)** report to the Congress the results of this review within 2 years after October 23, 1992 .
+
+## Source Credit
+
+*([Pub. L. 102–440, title I, § 114](https://www.govinfo.gov/link/plaw/102/public/440), Oct. 23, 1992, [106 Stat. 2232](https://www.govinfo.gov/link/statute/106/2232).)*

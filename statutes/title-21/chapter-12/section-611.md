@@ -3,9 +3,10 @@ title: "Section 611 - Devices, marks, labels, and certificates; simulations"
 usc_title: 21
 usc_section: "611"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 611"
-generated_at: "2026-03-30T02:54:54.287Z"
+generated_at: "2026-11-23T20:26:27.801Z"
+status: "active"
 ---
 
 # § 611. Devices, marks, labels, and certificates; simulations
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:54.287Z"
   - **(4)** knowingly possess, without promptly notifying the Secretary or his representative, any official device or any counterfeit, simulated, forged, or improperly altered official certificate or any device or label or any carcass of any animal, or part or product thereof, bearing any counterfeit, simulated, forged, or improperly altered official mark;
   - **(5)** knowingly make any false statement in any shipper’s certificate or other nonofficial or official certificate provided for in the regulations prescribed by the Secretary; or
   - **(6)** knowingly represent that any article has been inspected and passed, or exempted, under this chapter when, in fact, it has, respectively, not been so inspected and passed, or exempted.
+
+## Source Credit
+
+*(Mar. 4, 1907, ch. 2907, title I, § 11, formerly 9th par., [34 Stat. 1263](https://www.govinfo.gov/link/statute/34/1263); renumbered § 11 and amended [Pub. L. 90–201](https://www.govinfo.gov/link/plaw/90/public/201), §§ 1, 8, Dec. 15, 1967, [81 Stat. 584](https://www.govinfo.gov/link/statute/81/584), 589.)*

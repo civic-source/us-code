@@ -3,9 +3,10 @@ title: "Section 2906 - Management of the Friendship Trust Fund"
 usc_title: 22
 usc_section: "2906"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2906"
-generated_at: "2026-03-30T02:55:05.389Z"
+generated_at: "2026-11-23T20:26:32.440Z"
+status: "active"
 ---
 
 # § 2906. Management of the Friendship Trust Fund
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.389Z"
 - **(c)** Any obligation acquired by the Fund (except special obligations issued exclusively to the Fund) may be sold by the Secretary at the market price, and such special obligations may be redeemed at par plus accrued interest.
 - **(d)** The interest on, and the proceeds from the sale or redemption of, any obligations held in the Fund shall be credited to and form a part of the Fund.
 - **(e)** In accordance with section 2905(4) of this title , the Secretary shall pay out of the Fund such amounts, including expenses of the Commission, as the Commission considers necessary to carry out the provisions of this chapter; except that amounts in the Fund, other than amounts which have been appropriated and amounts received (including amounts earned as interest on, and proceeds from the sale or redemption of, obligations purchased with amounts received) by the Commission pursuant to sections 2905(2) and (3) of this title, shall be subject to the appropriation process.
+
+## Source Credit
+
+*([Pub. L. 94–118, § 7](https://www.govinfo.gov/link/plaw/94/public/118), Oct. 20, 1975, [89 Stat. 606](https://www.govinfo.gov/link/statute/89/606); [Pub. L. 94–350, title IV, § 401(3)(B)](https://www.govinfo.gov/link/plaw/94/public/350), July 12, 1976, [90 Stat. 833](https://www.govinfo.gov/link/statute/90/833); [Pub. L. 97–241, title V, § 503(b)](https://www.govinfo.gov/link/plaw/97/public/241), Aug. 24, 1982, [96 Stat. 298](https://www.govinfo.gov/link/statute/96/298); [Pub. L. 105–277, div. A, § 101(b) [title IV, § 404(b)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–50](https://www.govinfo.gov/link/statute/112/2681), 2681–101.)*

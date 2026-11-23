@@ -3,9 +3,10 @@ title: "Section 3602 - Special agricultural safeguard authority"
 usc_title: 19
 usc_section: "3602"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3602"
-generated_at: "2026-03-30T02:54:24.694Z"
+generated_at: "2026-11-23T20:26:11.065Z"
+status: "active"
 ---
 
 # § 3602. Special agricultural safeguard authority
@@ -30,3 +31,11 @@ generated_at: "2026-03-30T02:54:24.694Z"
   - **(1)** the term “Article 5” means Article 5 of the Agreement on Agriculture described in section 3511(d)(2) of this title ;
   - **(2)** the term “relevant period” means the period determined by the President to be applicable to a special safeguard agricultural good for purposes of applying this section; and
   - **(3)** the term “special safeguard agricultural good” means an agricultural good on which an additional duty may be imposed pursuant to the special safeguard provisions of Article 5.
+
+In general
+
+Transition from nafta treatment
+
+## Source Credit
+
+*([Pub. L. 103–465, title IV, § 405](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4961](https://www.govinfo.gov/link/statute/108/4961); [Pub. L. 104–295, § 11](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3520](https://www.govinfo.gov/link/statute/110/3520); [Pub. L. 116–113, title II, § 201(a)](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 19](https://www.govinfo.gov/link/statute/134/19).)*

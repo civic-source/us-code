@@ -3,9 +3,10 @@ title: "Section 837 - Art. 37. Command influence"
 usc_title: 10
 usc_section: "837"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 837"
-generated_at: "2026-03-30T02:53:38.080Z"
+generated_at: "2026-11-23T20:25:51.068Z"
+status: "active"
 ---
 
 # § 837. Art. 37. Command influence
@@ -28,3 +29,20 @@ generated_at: "2026-03-30T02:53:38.080Z"
 - **(d)**
   - **(1)** A superior convening authority or commanding officer may withhold the authority of a subordinate convening authority or officer to dispose of offenses in individual cases, types of cases, or generally.
   - **(2)** Except as provided in paragraph (1) or as otherwise authorized by this chapter, a superior convening authority or commanding officer may not limit the discretion of a subordinate convening authority or officer to act with respect to a case for which the subordinate convening authority or officer has authority to dispose of the offenses.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 837 | 50:612. | May 5, 1950, ch. 169, § 1 (Art. 37), 64 Stat. 120 . |
+
+
+Historical and Revision Notes
+
+837
+
+May 5, 1950, ch. 169, § 1
+
+64 Stat. 120
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 50; [Pub. L. 90–632, § 2(13)](https://www.govinfo.gov/link/plaw/90/public/632), Oct. 24, 1968, [82 Stat. 1338](https://www.govinfo.gov/link/statute/82/1338); [Pub. L. 116–92, div. A, title V, § 532(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1359](https://www.govinfo.gov/link/statute/133/1359).)*

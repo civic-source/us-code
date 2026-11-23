@@ -3,9 +3,10 @@ title: "Section 2503 - Approval of trade agreements"
 usc_title: 19
 usc_section: "2503"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2503"
-generated_at: "2026-03-30T02:54:24.678Z"
+generated_at: "2026-11-23T20:26:10.987Z"
+status: "active"
 ---
 
 # § 2503. Approval of trade agreements
@@ -40,3 +41,25 @@ generated_at: "2026-03-30T02:54:24.678Z"
     - **(B)** to Provide Duty-Free Treatment for Agricultural and Horticultural Machinery, Equipment, Implements, and Parts Thereof, and
     - **(C)** to Modify United States Tariff Nomenclature and Rates of Duty for Ceramic Tableware.
   - **(14)** The Agreement with the Hungarian People’s Republic.
+
+Approval of Protocol.—
+
+Acceptance of Protocol by the President.—
+
+In general.—
+
+Limitation on acceptance of protocol
+
+Application of Protocol.—
+
+Relationship of Protocol to United States Law.—
+
+Jimmy Carter.
+
+Presidential Determination Regarding the Acceptance and Application of Certain International Trade Agreements
+
+Jimmy Carter.
+
+## Source Credit
+
+*([Pub. L. 96–39, § 2](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 147](https://www.govinfo.gov/link/statute/93/147).)*

@@ -3,9 +3,10 @@ title: "Section 695i - Authorization of Secretary of the Interior to contract fo
 usc_title: 16
 usc_section: "695i"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 695i"
-generated_at: "2026-03-30T02:54:22.896Z"
+generated_at: "2026-11-23T20:26:20.230Z"
+status: "active"
 ---
 
 # § 695i. Authorization of Secretary of the Interior to contract for water delivery; nonreimbursable or nonreturnable basis of delivery
@@ -16,3 +17,7 @@ The Secretary of the Interior is authorized to contract for the delivery of wate
 - **(b)** the public organizations or agencies, excluding the State of California, shall construct, operate, and maintain any water conveyance facilities necessary to deliver the water referred to in subsection (a) of this section to a point or points within the boundaries of such public organization or agency as designated by the Service, or to such points as may be mutually agreed upon by the public organization or agency and the Service. The Service shall be responsible for delivering the water from such point or points to appropriate locations within lands under its jurisdiction;
 - **(c)** any contract entered into by the Secretary of the Interior and any public organization or agency pursuant to sections 695d to 695j–1 of this title shall provide that in the event the public organization or agency for any reason fails to carry out the obligations imposed upon it by said contract or by sections 695d to 695j–1 of this title, the rights of use of any facilities referred to in subsection (b), and the rights to all water contracted for by the organization or agency pursuant to sections 695d to 695j–1 of this title shall revert to the Secretary of the Interior for migratory waterfowl purposes in accordance with the laws of the State of California; and
 - **(d)** in accordance with existing or future contracts, the use of lands located within the boundaries of the public organizations or agencies shall be restricted by covenants requiring that such lands be used only for the purpose of waterfowl and wildlife habitat conservation or other uses as may be mutually agreed upon by the public organizations or agencies and the Service.
+
+## Source Credit
+
+*(Aug. 27, 1954, ch. 1012, § 6, [68 Stat. 879](https://www.govinfo.gov/link/statute/68/879); [Pub. L. 95–616, § 10(a)](https://www.govinfo.gov/link/plaw/95/public/616), Nov. 8, 1978, [92 Stat. 3115](https://www.govinfo.gov/link/statute/92/3115).)*

@@ -3,9 +3,10 @@ title: "Section 952 - Commissioners"
 usc_title: 16
 usc_section: "952"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 952"
-generated_at: "2026-03-30T02:54:22.935Z"
+generated_at: "2026-11-23T20:26:20.346Z"
+status: "active"
 ---
 
 # § 952. Commissioners
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:22.935Z"
   - **(3)**
     - **(A)** The Secretary of State shall pay the necessary travel expenses of United States Commissioners and Alternate United States Commissioners to meetings of the Inter-American Tropical Tuna Commission and other meetings the Secretary of State deems necessary to fulfill their duties, in accordance with the Federal Travel Regulations and sections 5701, 5702, 5704 through 5708, and 5731 of title 5.
     - **(B)** The Secretary may reimburse the Secretary of State for amounts expended by the Secretary of State under this subsection.
+
+## Source Credit
+
+*(Sept. 7, 1950, ch. 907, § 3, [64 Stat. 777](https://www.govinfo.gov/link/statute/64/777); 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090](https://www.govinfo.gov/link/statute/84/2090); [Pub. L. 102–523, § 3(a)(1)](https://www.govinfo.gov/link/plaw/102/public/523), Oct. 26, 1992, [106 Stat. 3433](https://www.govinfo.gov/link/statute/106/3433); [Pub. L. 105–42, § 7(a)](https://www.govinfo.gov/link/plaw/105/public/42), Aug. 15, 1997, [111 Stat. 1137](https://www.govinfo.gov/link/statute/111/1137); [Pub. L. 106–562, title III, § 302](https://www.govinfo.gov/link/plaw/106/public/562), Dec. 23, 2000, [114 Stat. 2806](https://www.govinfo.gov/link/statute/114/2806); [Pub. L. 114–81, title II, § 204](https://www.govinfo.gov/link/plaw/114/public/81), Nov. 5, 2015, [129 Stat. 660](https://www.govinfo.gov/link/statute/129/660).)*

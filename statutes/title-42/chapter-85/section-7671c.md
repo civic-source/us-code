@@ -3,9 +3,10 @@ title: "Section 7671c - Phase-out of production and consumption of class I subst
 usc_title: 42
 usc_section: "7671c"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7671c"
-generated_at: "2026-03-30T02:56:11.327Z"
+generated_at: "2026-11-23T20:27:22.965Z"
+status: "active"
 ---
 
 # § 7671c. Phase-out of production and consumption of class I substances
@@ -35,3 +36,86 @@ generated_at: "2026-03-30T02:56:11.327Z"
   - **(2)** The Administrator shall periodically monitor and assess the status of efforts to obtain substitutes for the substances referred to in paragraph (1) for purposes of fire suppression or explosion prevention and the probability of such substitutes being available by December 31, 1999 . The Administrator, as part of such assessment, shall consider any relevant assessments under the Montreal Protocol and the actions of the Parties pursuant to Article 2B of the Montreal Protocol in identifying essential uses and in permitting a level of production or consumption that is necessary to satisfy such uses for which no adequate alternatives are available after December 31, 1999 . The Administrator shall report to Congress the results of such assessment in 1994 and again in 1998.
   - **(3)** Notwithstanding the termination of production set forth in subsection (b), the Administrator, after notice and opportunity for public comment, may, to the extent consistent with the Montreal Protocol, authorize the production of limited quantities of halon-1211, halon-1301, and halon-2402 in the period after December 31, 1999 , and before December 31, 2004 , solely for purposes of fire suppression or explosion prevention in association with domestic production of crude oil and natural gas energy supplies on the North Slope of Alaska, if the Administrator, in consultation with the Administrator of the United States Fire Administration, determines that no safe and effective substitute has been developed and that such authorization is necessary for fire suppression and explosion prevention purposes. The Administrator shall not authorize production under the paragraph for purposes of fire safety or explosion prevention training or testing of fire suppression or explosion prevention equipment. In no event shall the Administrator authorize under this paragraph any person to produce any such halon in an amount greater than 3 percent of that produced by such person during the baseline year.
 - **(h)** Notwithstanding subsections (b) and (d), the Administrator shall not terminate production of methyl bromide prior to January 1, 2005 . The Administrator shall promulgate rules for reductions in, and terminate the production, importation, and consumption of, methyl bromide under a schedule that is in accordance with, but not more stringent than, the phaseout schedule of the Montreal Protocol Treaty as in effect on October 21, 1998 .
+
+| Table 2 | Col 2 | Col 3 | Col 4 |
+| --- | --- | --- | --- |
+| 1991 | 100% | 100% | 85% |
+| 1992 | 90% | 100% | 80% |
+| 1993 | 80% | 90% | 75% |
+| 1994 | 70% | 85% | 65% |
+| 1995 | 15% | 70% | 50% |
+| 1996 | 15% | 50% | 40% |
+| 1997 | 15% | 50% | 15% |
+| 1998 | 15% | 50% | 15% |
+| 1999 | 15% | 50% | 15% |
+| 2000 |  | 20% |  |
+| 2001 |  | 20% |  |
+
+
+Table
+
+1991
+
+100%
+
+100%
+
+1992
+
+90%
+
+100%
+
+1993
+
+80%
+
+90%
+
+1994
+
+70%
+
+85%
+
+1995
+
+15%
+
+70%
+
+1996
+
+15%
+
+50%
+
+1997
+
+15%
+
+50%
+
+1998
+
+15%
+
+50%
+
+1999
+
+15%
+
+50%
+
+2000
+
+20%
+
+2001
+
+20%
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title VI, § 604, as added [Pub. L. 101–549, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2655](https://www.govinfo.gov/link/statute/104/2655); amended [Pub. L. 105–277, div. A, § 101(a) [title VII, § 764]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681](https://www.govinfo.gov/link/statute/112/2681), 2681–36.)*

@@ -3,9 +3,10 @@ title: "Section 5105 - State noncompliance with coastal fishery management plans
 usc_title: 16
 usc_section: "5105"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 5105"
-generated_at: "2026-03-30T02:54:23.050Z"
+generated_at: "2026-11-23T20:26:20.762Z"
+status: "active"
 ---
 
 # § 5105. State noncompliance with coastal fishery management plans
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:23.050Z"
 - **(a)** The Commission shall determine that a State is not in compliance with the provisions of a coastal fishery management plan if it finds that the State has not implemented and enforced such plan within the timeframes established under the plan or under section 5104 of this title .
 - **(b)** Upon making any determination under subsection (a), the Commission shall within 10 working days notify the Secretaries of such determination. Such notification shall include the reasons for making the determination and an explicit list of actions that the affected State must take to comply with the coastal fishery management plan. The Commission shall provide a copy of the notification to the affected State.
 - **(c)** After making a determination under subsection (a), the Commission shall continue to monitor State implementation and enforcement. Upon finding that a State has complied with the actions required under subsection (b), the Commission shall immediately withdraw its determination of noncompliance. The Commission shall promptly notify the Secretaries of such withdrawal.
+
+## Source Credit
+
+*([Pub. L. 103–206, title VIII, § 806](https://www.govinfo.gov/link/plaw/103/public/206), Dec. 20, 1993, [107 Stat. 2451](https://www.govinfo.gov/link/statute/107/2451).)*

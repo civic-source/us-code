@@ -3,9 +3,10 @@ title: "Section 1964 - Terms of loans"
 usc_title: 7
 usc_section: "1964"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1964"
-generated_at: "2026-03-30T02:53:42.350Z"
+generated_at: "2026-11-23T20:25:41.363Z"
+status: "active"
 ---
 
 # § 1964. Terms of loans
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:42.350Z"
     - **(A)** Subject to subparagraph (B), the Secretary shall not deny a loan under this subchapter to a borrower by reason of the fact that the borrower lacks a particular amount of collateral for the loan if the Secretary is reasonably certain that the borrower will be able to repay the loan.
     - **(B)** The Secretary may deny or cancel a loan under this subchapter if a borrower refuses to pledge available collateral on request by the Secretary.
 - **(e)** Any political subdivision of a State with a population of less than ten thousand inhabitants that, if such subdivision had a population of ten thousand or more inhabitants, would be eligible for a grant under the first title of the Community Emergency Drought Relief Act of 1977 shall be eligible for a grant under this chapter during any period in which the Community Emergency Drought Relief Act of 1977 is or has been in effect.
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 324](https://www.govinfo.gov/link/plaw/87/public/128), Aug. 8, 1961, [75 Stat. 311](https://www.govinfo.gov/link/statute/75/311); [Pub. L. 93–24, § 4](https://www.govinfo.gov/link/plaw/93/public/24), Apr. 20, 1973, [87 Stat. 25](https://www.govinfo.gov/link/statute/87/25); [Pub. L. 94–68, § 5](https://www.govinfo.gov/link/plaw/94/public/68), Aug. 5, 1975, [89 Stat. 381](https://www.govinfo.gov/link/statute/89/381); [Pub. L. 95–89, title IV, § 406](https://www.govinfo.gov/link/plaw/95/public/89), Aug. 4, 1977, [91 Stat. 561](https://www.govinfo.gov/link/statute/91/561); [Pub. L. 95–334, title I, § 119](https://www.govinfo.gov/link/plaw/95/public/334), Aug. 4, 1978, [92 Stat. 427](https://www.govinfo.gov/link/statute/92/427); [Pub. L. 96–302, title I, § 120(b)](https://www.govinfo.gov/link/plaw/96/public/302), July 2, 1980, [94 Stat. 841](https://www.govinfo.gov/link/statute/94/841); [Pub. L. 96–438, § 3(a)](https://www.govinfo.gov/link/plaw/96/public/438), (b)(1), Oct. 13, 1980, [94 Stat. 1872](https://www.govinfo.gov/link/statute/94/1872), 1873; [Pub. L. 97–35, title I, § 162(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 378](https://www.govinfo.gov/link/statute/95/378); [Pub. L. 98–258, title VI, § 602(b)](https://www.govinfo.gov/link/plaw/98/public/258), Apr. 10, 1984, [98 Stat. 138](https://www.govinfo.gov/link/statute/98/138); [Pub. L. 99–198, title XIII, § 1308(b)(3)](https://www.govinfo.gov/link/plaw/99/public/198), (c), Dec. 23, 1985, [99 Stat. 1523](https://www.govinfo.gov/link/statute/99/1523); [Pub. L. 100–707, title I, § 109(c)(2)](https://www.govinfo.gov/link/plaw/100/public/707), Nov. 23, 1988, [102 Stat. 4708](https://www.govinfo.gov/link/statute/102/4708); [Pub. L. 104–127, title VI](https://www.govinfo.gov/link/plaw/104/public/127), §§ 624, 625, Apr. 4, 1996, [110 Stat. 1091](https://www.govinfo.gov/link/statute/110/1091); [Pub. L. 105–277, div. A, § 101(a) [title VIII, § 802]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681](https://www.govinfo.gov/link/statute/112/2681), 2681–38.)*

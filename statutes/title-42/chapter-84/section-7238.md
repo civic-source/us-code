@@ -3,12 +3,19 @@ title: "Section 7238 - Temporary appointments for scientific and technical exper
 usc_title: 42
 usc_section: "7238"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7238"
-generated_at: "2026-03-30T02:56:11.285Z"
+generated_at: "2026-11-23T20:27:22.789Z"
+status: "active"
 ---
 
 # § 7238. Temporary appointments for scientific and technical experts in Department of Energy research and development programs
 
 - **(a)** The Secretary, utilizing authority under other applicable law and the authority of this section, may appoint for a limited term, or on a temporary basis, scientists, engineers, and other technical and professional personnel on leave of absence from academic, industrial, or research institutions to work for the Department.
 - **(b)** The Department may pay, to the extent authorized for certain other Federal employees by section 5723 of title 5 , travel expenses for any individual appointed for a limited term or on a temporary basis and transportation expenses of his or her immediate family and his or her household goods and personal effects from that individual’s residence at the time of selection or assignment to his or her duty station. The Department may pay such travel expenses to the same extent for such an individual’s return to the former place of residence from his or her duty station, upon separation from the Federal service following an agreed period of service. The Department may also pay a per diem allowance at a rate not to exceed the daily amounts prescribed under section 5702 of title 5 to such an individual, in lieu of transportation expenses of the immediate family and household goods and personal effects, for the period of his or her employment with the Department. Notwithstanding any other provision of law, the employer’s contribution to any retirement, life insurance, or health benefit plan for an individual appointed for a term of one year or less, which could be extended for no more than one additional year, may be made or reimbursed from appropriations available to the Department.
+
+“For purposes of titles II and III [enacting this section and provisions set out as a note under section 12403 of this title ]—
+
+## Source Credit
+
+*([Pub. L. 104–271, title III, § 301](https://www.govinfo.gov/link/plaw/104/public/271), Oct. 9, 1996, [110 Stat. 3307](https://www.govinfo.gov/link/statute/110/3307).)*

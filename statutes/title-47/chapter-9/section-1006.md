@@ -3,9 +3,10 @@ title: "Section 1006 - Technical requirements and standards; extension of compli
 usc_title: 47
 usc_section: "1006"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 1006"
-generated_at: "2026-03-30T02:56:24.529Z"
+generated_at: "2026-11-23T20:27:28.980Z"
+status: "active"
 ---
 
 # § 1006. Technical requirements and standards; extension of compliance date
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:24.529Z"
     - **(A)** the date determined by the Commission as necessary for the carrier to comply with the assistance capability requirements under section 1002 of this title ; or
     - **(B)** the date that is 2 years after the date on which the extension is granted.
   - **(4)** An extension under this subsection shall apply to only that part of the carrier’s business on which the new equipment, facility, or service is used.
+
+## Source Credit
+
+*([Pub. L. 103–414, title I, § 107](https://www.govinfo.gov/link/plaw/103/public/414), Oct. 25, 1994, [108 Stat. 4284](https://www.govinfo.gov/link/statute/108/4284).)*

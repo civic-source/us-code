@@ -3,9 +3,10 @@ title: "Section 1621b - Health promotion and disease prevention services"
 usc_title: 25
 usc_section: "1621b"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1621b"
-generated_at: "2026-03-30T02:54:52.820Z"
+generated_at: "2026-11-23T20:26:25.482Z"
+status: "active"
 ---
 
 # § 1621b. Health promotion and disease prevention services
@@ -16,3 +17,9 @@ generated_at: "2026-03-30T02:54:52.820Z"
   - **(2)** the health promotion and disease prevention activities which would best meet such needs,
   - **(3)** the internal capacity of the Service to meet such needs, and
   - **(4)** the resources which would be required to enable the Service to undertake the health promotion and disease prevention activities necessary to meet such needs.
+
+“The Congress finds that health promotion and disease prevention activities will—
+
+## Source Credit
+
+*([Pub. L. 94–437, title II, § 203](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 100–713, title II, § 203(c)](https://www.govinfo.gov/link/plaw/100/public/713), Nov. 23, 1988, [102 Stat. 4805](https://www.govinfo.gov/link/statute/102/4805); amended [Pub. L. 102–573, title II, § 203](https://www.govinfo.gov/link/plaw/102/public/573), Oct. 29, 1992, [106 Stat. 4546](https://www.govinfo.gov/link/statute/106/4546).)*

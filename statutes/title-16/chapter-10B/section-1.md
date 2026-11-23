@@ -3,9 +3,10 @@ title: "Section 1 - Boating infrastructure"
 usc_title: 16
 usc_section: "1"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T02:54:22.909Z"
+generated_at: "2026-11-23T20:26:20.275Z"
+status: "active"
 ---
 
 # § 777g–1. Boating infrastructure
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:22.909Z"
     - **(B)** leased, rented, or chartered to another for the latter’s pleasure;
   - **(2)** “facilities for transient nontrailerable recreational vessels” includes mooring buoys, day-docks, navigational aids, seasonal slips, safe harbors, or similar structures located on navigable waters, that are available to the general public (as determined by the Secretary of the Interior) and designed for temporary use by nontrailerable recreational vessels; and
   - **(3)** “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
+
+## Source Credit
+
+*([Pub. L. 105–178, title VII, § 7404](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 486](https://www.govinfo.gov/link/statute/112/486); [Pub. L. 105–206, title IX, § 9012(c)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 864](https://www.govinfo.gov/link/statute/112/864); [Pub. L. 109–59, title X, § 10115](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1928](https://www.govinfo.gov/link/statute/119/1928).)*

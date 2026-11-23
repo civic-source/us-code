@@ -3,9 +3,10 @@ title: "Section 1379 - Transfer of management authority"
 usc_title: 16
 usc_section: "1379"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1379"
-generated_at: "2026-03-30T02:54:22.959Z"
+generated_at: "2026-11-23T20:26:20.461Z"
+status: "active"
 ---
 
 # § 1379. Transfer of management authority
@@ -86,3 +87,7 @@ generated_at: "2026-03-30T02:54:22.959Z"
 - **(l)**
   - **(1)** There are authorized to be appropriated to the Department of the Interior, for the purposes of carrying out this section, not to exceed $400,000 for each of the fiscal years ending September 30, 1979 , September 30, 1980 , and September 30, 1981 .
   - **(2)** There are authorized to be appropriated to the Department of Commerce, for the purposes of carrying out this section, not to exceed $225,000 for each of the fiscal years ending September 30, 1979 , September 30, 1980 , and September 30, 1981 .
+
+## Source Credit
+
+*([Pub. L. 92–522, title I, § 109](https://www.govinfo.gov/link/plaw/92/public/522), Oct. 21, 1972, [86 Stat. 1040](https://www.govinfo.gov/link/statute/86/1040); [Pub. L. 95–316, § 1](https://www.govinfo.gov/link/plaw/95/public/316), July 10, 1978, [92 Stat. 380](https://www.govinfo.gov/link/statute/92/380); [Pub. L. 97–58, § 4(a)](https://www.govinfo.gov/link/plaw/97/public/58), Oct. 9, 1981, [95 Stat. 982](https://www.govinfo.gov/link/statute/95/982); [Pub. L. 100–711, § 5(a)](https://www.govinfo.gov/link/plaw/100/public/711), (e)(3), Nov. 23, 1988, [102 Stat. 4769](https://www.govinfo.gov/link/statute/102/4769), 4771; [Pub. L. 102–587, title III, § 3004(a)(2)](https://www.govinfo.gov/link/plaw/102/public/587), Nov. 4, 1992, [106 Stat. 5067](https://www.govinfo.gov/link/statute/106/5067); [Pub. L. 103–238, § 24(c)(10)](https://www.govinfo.gov/link/plaw/103/public/238), Apr. 30, 1994, [108 Stat. 566](https://www.govinfo.gov/link/statute/108/566).)*

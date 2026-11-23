@@ -3,9 +3,10 @@ title: "Section 1210 - Members on temporary disability retired list: periodic ph
 usc_title: 10
 usc_section: "1210"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1210"
-generated_at: "2026-03-30T02:53:38.115Z"
+generated_at: "2026-11-23T20:25:51.283Z"
+status: "active"
 ---
 
 # § 1210. Members on temporary disability retired list: periodic physical examination; final determination of status
@@ -26,3 +27,43 @@ generated_at: "2026-03-30T02:53:38.115Z"
     - **(B)** The grade of a member retired, transferred, discharged, or eliminated from an active status pursuant to paragraph (1)(B) shall be determined under the provisions of law under which the member is retired, transferred, discharged, or eliminated. The member’s retired, retainer, severance, readjustment, or separation pay shall be computed as if the member had been reappointed or reenlisted upon removal from the temporary disability retired list and before the retirement, transfer, discharge, or elimination. Notwithstanding section 8301 of title 5 , a member who is retired shall be entitled to retired pay effective on the day after the last day on which the member is entitled to disability retired pay.
 - **(g)** Any member of the armed forces whose name is on the temporary disability retired list, and who is required to travel to submit to a physical examination under subsection (a), is entitled to the travel and transportation allowances authorized for members in his retired grade traveling in connection with temporary duty while on active duty.
 - **(h)** If his name is not sooner removed, the disability retired pay of a member whose name is on the temporary disability retired list terminates upon the expiration of three years after the date when his name was placed on that list.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1210(a) | 37:272(e) (less last sentence). 37:274(a). 37:274(b) (less 1st sentence). | Oct. 12, 1949, ch. 681 , §§ 402(d) (30th through 55th words), (e) (less 1st proviso of last sentence), (f) (as applicable to § 402(e)), 404, 63 Stat. 818–821 . |
+| 1210(b) | 37:272(e) (1st 37 words of last proviso of last sentence). |  |
+| 1210(c) | 37:272(e) (last sentence, less provisos and less clause (2)). |  |
+|  | 37:272(e) (38th through 45th words of last proviso of last sentence). |  |
+| 1210(d) | 37:272(f) (as applicable to 37:272(e)). |  |
+| 1210(e) | 37:272(e) (clause (2) of last sentence). |  |
+|  | 37:272(e) (46th word of last proviso of last sentence). |  |
+| 1210(f) | 37:272(e) (47th through 56th words of last proviso of last sentence). |  |
+| 1210(g) | 37:274(b) (1st sentence). |  |
+| 1210(h) | 37:272(d) (30th through 55th words). |  |
+
+
+Historical and Revision Notes
+
+1210(a)
+
+Oct. 12, 1949, ch. 681
+
+63 Stat. 818–821
+
+1210(b)
+
+1210(c)
+
+1210(d)
+
+1210(e)
+
+1210(f)
+
+1210(g)
+
+1210(h)
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 95; [Pub. L. 99–145, title V, § 513(a)(2)](https://www.govinfo.gov/link/plaw/99/public/145), Nov. 8, 1985, [99 Stat. 627](https://www.govinfo.gov/link/statute/99/627); [Pub. L. 101–189, div. A, title XVI, § 1621(a)(1)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1602](https://www.govinfo.gov/link/statute/103/1602); [Pub. L. 114–328, div. A, title V, § 525(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2117](https://www.govinfo.gov/link/statute/130/2117).)*

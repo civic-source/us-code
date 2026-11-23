@@ -3,9 +3,10 @@ title: "Section 1344 - Permits for dredged or fill material"
 usc_title: 33
 usc_section: "1344"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1344"
-generated_at: "2026-03-30T02:55:41.101Z"
+generated_at: "2026-11-23T20:26:54.057Z"
+status: "active"
 ---
 
 # § 1344. Permits for dredged or fill material
@@ -68,3 +69,11 @@ generated_at: "2026-03-30T02:55:41.101Z"
   - **(3)** The Secretary is authorized to commence a civil action for appropriate relief, including a permanent or temporary injunction for any violation for which he is authorized to issue a compliance order under paragraph (1) of this subsection. Any action under this paragraph may be brought in the district court of the United States for the district in which the defendant is located or resides or is doing business, and such court shall have jurisdiction to restrain such violation and to require compliance. Notice of the commencement of such acton 1 1 So in original. Probably should be “action”. shall be given immediately to the appropriate State.
   - **(4)** Any person who violates any condition or limitation in a permit issued by the Secretary under this section, and any person who violates any order issued by the Secretary under paragraph (1) of this subsection, shall be subject to a civil penalty not to exceed $25,000 per day for each violation. In determining the amount of a civil penalty the court shall consider the seriousness of the violation or violations, the economic benefit (if any) resulting from the violation, any history of such violations, any good-faith efforts to comply with the applicable requirements, the economic impact of the penalty on the violator, and such other matters as justice may require.
 - **(t)** Nothing in this section shall preclude or deny the right of any State or interstate agency to control the discharge of dredged or fill material in any portion of the navigable waters within the jurisdiction of such State, including any activity of any Federal agency, and each such agency shall comply with such State or interstate requirements both substantive and procedural to control the discharge of dredged or fill material to the same extent that any person is subject to such requirements. This section shall not be construed as affecting or impairing the authority of the Secretary to maintain navigation.
+
+In General
+
+Savings Provision
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title IV, § 404, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 884](https://www.govinfo.gov/link/statute/86/884); amended [Pub. L. 95–217, § 67(a)](https://www.govinfo.gov/link/plaw/95/public/217), (b), Dec. 27, 1977, [91 Stat. 1600](https://www.govinfo.gov/link/statute/91/1600); [Pub. L. 100–4, title III, § 313(d)](https://www.govinfo.gov/link/plaw/100/public/4), Feb. 4, 1987, [101 Stat. 45](https://www.govinfo.gov/link/statute/101/45).)*

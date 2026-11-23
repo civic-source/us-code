@@ -3,9 +3,10 @@ title: "Section 9604 - Response authorities"
 usc_title: 42
 usc_section: "9604"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9604"
-generated_at: "2026-03-30T02:56:11.355Z"
+generated_at: "2026-11-23T20:27:23.092Z"
+status: "active"
 ---
 
 # § 9604. Response authorities
@@ -286,3 +287,45 @@ generated_at: "2026-03-30T02:56:11.355Z"
     - **(D)** the Toxic Substances Control Act ( 15 U.S.C. 2601 et seq.); and
     - **(E)** the Safe Drinking Water Act ( 42 U.S.C. 300f et seq.).
   - **(13)** There is authorized to be appropriated to carry out this subsection $200,000,000 for each of fiscal years 2019 through 2023.
+
+Removal Action
+
+Limitations on Response
+
+Exception to Limitations
+
+Selection of Remedial Action
+
+State Credits.—
+
+Granting of credit
+
+Expenses before listing or agreement
+
+Response actions between 1978 and 1980
+
+State expenses after december 11, 1980 , in excess of 10 percent of costs
+
+Item-by-item approval
+
+Use of credits
+
+Operation and Maintenance
+
+Limitation on Source of Funds for
+
+Recontracting
+
+Siting
+
+Cooperative Agreements.—
+
+State applications
+
+Terms and conditions
+
+Reimbursements
+
+## Source Credit
+
+*([Pub. L. 96–510, title I, § 104](https://www.govinfo.gov/link/plaw/96/public/510), Dec. 11, 1980, [94 Stat. 2774](https://www.govinfo.gov/link/statute/94/2774); [Pub. L. 99–499, title I](https://www.govinfo.gov/link/plaw/99/public/499), §§ 104, 110, title II, § 207(b), Oct. 17, 1986, [100 Stat. 1617](https://www.govinfo.gov/link/statute/100/1617), 1636, 1705; [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 102–531, title III, § 312(h)](https://www.govinfo.gov/link/plaw/102/public/531), Oct. 27, 1992, [106 Stat. 3506](https://www.govinfo.gov/link/statute/106/3506); [Pub. L. 107–118, title II, § 211(b)](https://www.govinfo.gov/link/plaw/107/public/118), Jan. 11, 2002, [115 Stat. 2362](https://www.govinfo.gov/link/statute/115/2362); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 109–59, title I, § 1956](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1515](https://www.govinfo.gov/link/statute/119/1515); [Pub. L. 115–141, div. N](https://www.govinfo.gov/link/plaw/115/public/141), §§ 6–13, 14(b), Mar. 23, 2018, [132 Stat. 1054–1058](https://www.govinfo.gov/link/statute/132/1054).)*

@@ -3,9 +3,10 @@ title: "Section 122a - Injunctive relief in Federal district court"
 usc_title: 27
 usc_section: "122a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "27 U.S.C. § 122a"
-generated_at: "2026-03-30T02:55:15.104Z"
+generated_at: "2026-11-23T20:26:34.221Z"
+status: "active"
 ---
 
 # § 122a. Injunctive relief in Federal district court
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:55:15.104Z"
 - **(f)**
   - **(1)** A remedy under this section is in addition to any other remedies provided by law.
   - **(2)** Nothing in this section may be construed to prohibit an authorized State official from proceeding in State court on the basis of an alleged violation of any State law.
+
+## Source Credit
+
+*(Mar. 1, 1913, ch. 90, § 2, as added [Pub. L. 106–386, div. C, § 2004(a)](https://www.govinfo.gov/link/plaw/106/public/386), Oct. 28, 2000, [114 Stat. 1546](https://www.govinfo.gov/link/statute/114/1546).)*

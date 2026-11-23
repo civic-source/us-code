@@ -3,9 +3,10 @@ title: "Section 2685 - Lead abatement and measurement"
 usc_title: 15
 usc_section: "2685"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2685"
-generated_at: "2026-03-30T02:54:08.181Z"
+generated_at: "2026-11-23T20:26:04.245Z"
+status: "active"
 ---
 
 # § 2685. Lead abatement and measurement
@@ -57,3 +58,7 @@ generated_at: "2026-03-30T02:54:08.181Z"
     - **(C)** perform any other duty that the Administrator determines necessary to achieve the purposes of this chapter.
   - **(2)** Not later than 6 months after October 28, 1992 , the Administrator, in cooperation with other Federal agencies and with State and local governments, shall establish a single lead-based paint hazard hotline to provide the public with answers to questions about lead poisoning prevention and referrals to the Clearinghouse for technical information.
 - **(f)** Not later than 30 months after October 28, 1992 , the President shall, after notice and opportunity for comment, establish by rule appropriate criteria, testing protocols, and performance characteristics as are necessary to ensure, to the greatest extent possible and consistent with the purposes and policy of this subchapter, that lead-based paint hazard evaluation and reduction products introduced into commerce after a period specified in the rule are effective for the intended use described by the manufacturer. The rule shall identify the types or classes of products that are subject to such rule. The President, in implementation of the rule, shall, to the maximum extent possible, utilize independent testing laboratories, as appropriate, and consult with such entities and others in developing the rules. The President may delegate the authorities under this subsection to the Environmental Protection Agency or the Secretary of Commerce or such other appropriate agency.
+
+## Source Credit
+
+*([Pub. L. 94–469, title IV, § 405](https://www.govinfo.gov/link/plaw/94/public/469), as added [Pub. L. 102–550, title X, § 1021(a)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3917](https://www.govinfo.gov/link/statute/106/3917).)*

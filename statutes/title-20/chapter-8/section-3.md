@@ -3,9 +3,10 @@ title: "Section 3 - Withdrawals and expenditures"
 usc_title: 20
 usc_section: "3"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 3"
-generated_at: "2026-03-30T02:54:48.084Z"
+generated_at: "2026-11-23T20:26:14.252Z"
+status: "active"
 ---
 
 # § 130aa–3. Withdrawals and expenditures
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:48.084Z"
 - **(c)**
   - **(1)** If the University withdraws or expends more than the endowment fund income authorized by this section, the University shall repay the Secretary an amount equal to 50 per centum of the amount improperly expended (representing the Federal share thereof).
   - **(2)** The University shall not withdraw or expend any endowment fund corpus. If the University withdraws or expends any endowment fund corpus, the University shall repay the Secretary an amount equal to 50 per centum of the amount withdrawn or expended (representing the Federal share thereof) plus any income earned thereon.
+
+## Source Credit
+
+*([Pub. L. 98–480, title II, § 205](https://www.govinfo.gov/link/plaw/98/public/480), Oct. 17, 1984, [98 Stat. 2246](https://www.govinfo.gov/link/statute/98/2246).)*

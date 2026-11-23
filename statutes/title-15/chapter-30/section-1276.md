@@ -3,9 +3,10 @@ title: "Section 1276 - Congressional veto of hazardous substances regulations"
 usc_title: 15
 usc_section: "1276"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1276"
-generated_at: "2026-03-30T02:54:08.131Z"
+generated_at: "2026-11-23T20:26:03.990Z"
+status: "active"
 ---
 
 # § 1276. Congressional veto of hazardous substances regulations
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:08.131Z"
 - **(d)** For purposes of this section—
   - **(1)** continuity of session is broken only by an adjournment of the Congress sine die; and
   - **(2)** the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of the periods of continuous session of the Congress specified in subsection (b).
+
+## Source Credit
+
+*([Pub. L. 86–613, § 21](https://www.govinfo.gov/link/plaw/86/public/613), as added [Pub. L. 97–35, title XII, § 1207(c)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 718](https://www.govinfo.gov/link/statute/95/718); amended [Pub. L. 110–314, title II, § 204(b)(4)(H)](https://www.govinfo.gov/link/plaw/110/public/314), Aug. 14, 2008, [122 Stat. 3042](https://www.govinfo.gov/link/statute/122/3042).)*

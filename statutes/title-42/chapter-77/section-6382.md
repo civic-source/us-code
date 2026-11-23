@@ -3,9 +3,10 @@ title: "Section 6382 - Powers and duties of Comptroller General"
 usc_title: 42
 usc_section: "6382"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6382"
-generated_at: "2026-03-30T02:56:11.261Z"
+generated_at: "2026-11-23T20:27:22.677Z"
+status: "active"
 ---
 
 # § 6382. Powers and duties of Comptroller General
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.261Z"
 - **(e)**
   - **(1)** Any information obtained by the Comptroller General or any officer or employee of the Government Accountability Office pursuant to the exercise of responsibilities or authorities under this section which relates to geological or geophysical information, or any estimate or interpretation thereof, the disclosure of which would result in significant competitive disadvantage or significant loss to the owner thereof shall not be disclosed except to a committee of Congress. Any such information so furnished to a committee of the Congress shall be deemed the property of such committee and may not be disclosed except in accordance with the rules of the committee and the rules of the House of Representatives or the Senate and as permitted by law.
   - **(2)** Any person who knowingly discloses information in violation of paragraph (1) shall be subject to the penalties specified in section 754(a)(3)(B) and (4) 1 1 See References in Text note below. of title 15.
+
+## Source Credit
+
+*([Pub. L. 94–163, title V, § 502](https://www.govinfo.gov/link/plaw/94/public/163), Dec. 22, 1975, [89 Stat. 957](https://www.govinfo.gov/link/statute/89/957); [Pub. L. 104–316, title I, § 122(p)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3838](https://www.govinfo.gov/link/statute/110/3838); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814).)*

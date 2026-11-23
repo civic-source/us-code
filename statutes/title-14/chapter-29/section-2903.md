@@ -3,9 +3,10 @@ title: "Section 2903 - Reimbursement for adoption expenses"
 usc_title: 14
 usc_section: "2903"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 2903"
-generated_at: "2026-03-30T02:53:51.502Z"
+generated_at: "2026-11-23T20:25:54.628Z"
+status: "active"
 ---
 
 # § 2903. Reimbursement for adoption expenses
@@ -31,3 +32,21 @@ generated_at: "2026-03-30T02:53:51.502Z"
     - **(A)** A State or local government agency which has responsibility under State or local law for child placement through adoption.
     - **(B)** A nonprofit, voluntary adoption agency which is authorized by State or local law to place children for adoption.
     - **(C)** Any other source authorized by a State to provide adoption placement if the adoption is supervised by a court under State or local law.
+
+Authorization To Reimburse
+
+Adoptions Covered
+
+Benefits Paid After Adoption Is Final
+
+Treatment of Other Benefits
+
+Limitations
+
+Regulations
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 102–190, div. A, title VI, § 651(b)(1)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1386](https://www.govinfo.gov/link/statute/105/1386), § 514; amended [Pub. L. 102–484, div. A, title X, § 1054(g)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2503](https://www.govinfo.gov/link/statute/106/2503); [Pub. L. 104–201, div. A, title VI, § 652(b)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2582](https://www.govinfo.gov/link/statute/110/2582); renumbered § 541, [Pub. L. 113–281, title II, § 214(b)(1)(A)](https://www.govinfo.gov/link/plaw/113/public/281), Dec. 18, 2014, [128 Stat. 3033](https://www.govinfo.gov/link/statute/128/3033); renumbered § 2903, [Pub. L. 115–282, title I, § 117(b)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4230](https://www.govinfo.gov/link/statute/132/4230); [Pub. L. 116–283, div. G, title LVXXXV](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXV], § 8505(a)(48), Jan. 1, 2021, [134 Stat. 4750](https://www.govinfo.gov/link/statute/134/4750).)*

@@ -3,9 +3,10 @@ title: "Section 1842 - Acquisition of bank shares or assets"
 usc_title: 12
 usc_section: "1842"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1842"
-generated_at: "2026-03-30T02:53:53.465Z"
+generated_at: "2026-11-23T20:25:59.195Z"
+status: "active"
 ---
 
 # § 1842. Acquisition of bank shares or assets
@@ -68,3 +69,7 @@ generated_at: "2026-03-30T02:53:53.465Z"
 - **(g)**
   - **(1)** Notwithstanding any provision of Federal law other than this chapter, a savings bank or cooperative bank operating in mutual form may reorganize so as to form a holding company.
   - **(2)** A bank holding company organized as a mutual holding company shall be regulated on terms, and shall be subject to limitations, comparable to those applicable to any other bank holding company.
+
+## Source Credit
+
+*(May 9, 1956, ch. 240, § 3, [70 Stat. 134](https://www.govinfo.gov/link/statute/70/134); [Pub. L. 89–485, § 7](https://www.govinfo.gov/link/plaw/89/public/485), July 1, 1966, [80 Stat. 237](https://www.govinfo.gov/link/statute/80/237); [Pub. L. 91–607, title I, § 102](https://www.govinfo.gov/link/plaw/91/public/607), Dec. 31, 1970, [84 Stat. 1763](https://www.govinfo.gov/link/statute/84/1763); [Pub. L. 95–188, title III](https://www.govinfo.gov/link/plaw/95/public/188), §§ 301(a), 302, Nov. 16, 1977, [91 Stat. 1388](https://www.govinfo.gov/link/statute/91/1388), 1389; [Pub. L. 96–221, title VII](https://www.govinfo.gov/link/plaw/96/public/221), §§ 712(b), (c), 713, Mar. 31, 1980, [94 Stat. 189](https://www.govinfo.gov/link/statute/94/189), 190; [Pub. L. 97–320, title I](https://www.govinfo.gov/link/plaw/97/public/320), §§ 118(c), 141(a)(4), title IV, § 404(d)(2), Oct. 15, 1982, [96 Stat. 1479](https://www.govinfo.gov/link/statute/96/1479), 1489, 1512; [Pub. L. 100–86, title I](https://www.govinfo.gov/link/plaw/100/public/86), §§ 101(d), 107(b), title V, §§ 502(h)(1), 509(a), Aug. 10, 1987, [101 Stat. 561](https://www.govinfo.gov/link/statute/101/561), 579, 628, 635; [Pub. L. 101–73, title VI, § 602(b)](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 409](https://www.govinfo.gov/link/statute/103/409); [Pub. L. 102–242, title II](https://www.govinfo.gov/link/plaw/102/public/242), §§ 202(d), 210, Dec. 19, 1991, [105 Stat. 2290](https://www.govinfo.gov/link/statute/105/2290), 2298; [Pub. L. 103–325, title III](https://www.govinfo.gov/link/plaw/103/public/325), §§ 319(a), 322(c)(1), Sept. 23, 1994, [108 Stat. 2224](https://www.govinfo.gov/link/statute/108/2224), 2227; [Pub. L. 103–328, title I, § 101(a)](https://www.govinfo.gov/link/plaw/103/public/328), Sept. 29, 1994, [108 Stat. 2339](https://www.govinfo.gov/link/statute/108/2339); [Pub. L. 106–102, title I](https://www.govinfo.gov/link/plaw/106/public/102), §§ 105, 118, Nov. 12, 1999, [113 Stat. 1359](https://www.govinfo.gov/link/statute/113/1359), 1373; [Pub. L. 107–56, title III, § 327(a)(1)](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 318](https://www.govinfo.gov/link/statute/115/318); [Pub. L. 108–386, § 8(c)(2)](https://www.govinfo.gov/link/plaw/108/public/386), Oct. 30, 2004, [118 Stat. 2232](https://www.govinfo.gov/link/statute/118/2232); [Pub. L. 109–173, § 9(h)(2)](https://www.govinfo.gov/link/plaw/109/public/173), Feb. 15, 2006, [119 Stat. 3618](https://www.govinfo.gov/link/statute/119/3618); [Pub. L. 111–203, title VI](https://www.govinfo.gov/link/plaw/111/public/203), §§ 604(d), 607(a), July 21, 2010, [124 Stat. 1601](https://www.govinfo.gov/link/statute/124/1601), 1607.)*

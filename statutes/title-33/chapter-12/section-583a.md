@@ -3,9 +3,10 @@ title: "Section 583a - Payment of pay and allowances of officers of Corps of Eng
 usc_title: 33
 usc_section: "583a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 583a"
-generated_at: "2026-03-30T02:55:41.063Z"
+generated_at: "2026-11-23T20:26:53.866Z"
+status: "active"
 ---
 
 # § 583a. Payment of pay and allowances of officers of Corps of Engineers from appropriation for improvements
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:41.063Z"
     - **(A)** Reserve component officers.
     - **(B)** Warrant officers (whether regular or reserve component).
     - **(C)** Enlisted members (whether regular or reserve component).
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, § 36, 70A Stat. 634; [Pub. L. 117–263, div. H, title LXXXI, § 8125](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3715](https://www.govinfo.gov/link/statute/136/3715).)*

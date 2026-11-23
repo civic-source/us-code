@@ -3,9 +3,10 @@ title: "Section 11002 - Substances and facilities covered and notification"
 usc_title: 42
 usc_section: "11002"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11002"
-generated_at: "2026-03-30T02:56:11.393Z"
+generated_at: "2026-11-23T20:27:23.265Z"
+status: "active"
 ---
 
 # § 11002. Substances and facilities covered and notification
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.393Z"
 - **(d)** The State emergency response commission shall notify the Administrator of facilities subject to the requirements of this subchapter by notifying the Administrator of—
   - **(1)** each notification received from a facility under subsection (c), and
   - **(2)** each facility designated by the Governor or State emergency response commission under subsection (b)(2).
+
+## Source Credit
+
+*([Pub. L. 99–499, title III, § 302](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1730](https://www.govinfo.gov/link/statute/100/1730).)*

@@ -3,9 +3,10 @@ title: "Section 77ee - Directors of Corporation, powers and duties generally"
 usc_title: 15
 usc_section: "77ee"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 77ee"
-generated_at: "2026-03-30T02:54:08.035Z"
+generated_at: "2026-11-23T20:26:03.452Z"
+status: "active"
 ---
 
 # § 77ee. Directors of Corporation, powers and duties generally
@@ -20,3 +21,7 @@ The board of directors may—
   - **(6)** Collect, preserve, publish, circulate, and render available in readily accessible form, when deemed essential or necessary, documents, statistics, reports, and information of all kinds in respect of foreign securities, including particularly records of foreign external securities in default and records of the progress made toward the payment of past-due obligations.
   - **(7)** Take such steps as it may deem expedient with the view of securing the adoption of clear and simple forms of foreign securities and just and sound principles in the conditions and terms thereof.
   - **(8)** Generally, act in the name and on behalf of the holders of foreign securities the care or representation of whose interests may be entrusted to the Corporation; conserve and protect the rights and interests of holders of foreign securities issued, sold, or owned in the United States; adopt measures for the protection, vindication, and preservation or reservation of the rights and interests of holders of foreign securities either on any default in or on breach or contemplated breach of the conditions on which such foreign securities may have been issued, or otherwise; obtain for such holders such legal and other assistance and advice as the board of directors may deem expedient; and do all such other things as are incident or conducive to the attainment of the above objects.
+
+## Source Credit
+
+*(May 27, 1933, ch. 38, title II, § 204, [48 Stat. 94](https://www.govinfo.gov/link/statute/48/94).)*

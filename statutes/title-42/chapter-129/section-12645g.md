@@ -3,9 +3,10 @@ title: "Section 12645g - Criminal history checks"
 usc_title: 42
 usc_section: "12645g"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12645g"
-generated_at: "2026-03-30T02:56:11.423Z"
+generated_at: "2026-11-23T20:27:23.403Z"
+status: "active"
 ---
 
 # § 12645g. Criminal history checks
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:56:11.423Z"
     - **(C)** where the entity is not authorized, or is otherwise unable, under State law, to access the national criminal history background check system of the Federal Bureau of Investigation;
     - **(D)** where the entity is not authorized, or is otherwise unable, under Federal law, to access the national criminal history background check system of the Federal Bureau of Investigation; or
     - **(E)** to which the Corporation otherwise provides an exemption from this subsection for good cause.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 189D](https://www.govinfo.gov/link/plaw/101/public/610), as added and amended [Pub. L. 111–13, title I](https://www.govinfo.gov/link/plaw/111/public/13), §§ 1612, 1614(a), Apr. 21, 2009, [123 Stat. 1540](https://www.govinfo.gov/link/statute/123/1540), 1541.)*

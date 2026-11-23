@@ -3,9 +3,10 @@ title: "Section 3519a - Separation pay program for voluntary separation from ser
 usc_title: 50
 usc_section: "3519a"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3519a"
-generated_at: "2026-03-30T02:56:26.255Z"
+generated_at: "2026-11-23T20:27:31.018Z"
+status: "active"
 ---
 
 # § 3519a. Separation pay program for voluntary separation from service
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:56:26.255Z"
 - **(g)**
   - **(1)** The Director may not make an offering of voluntary separation pay pursuant to this section until 30 days after submitting to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate a report describing the occupational groups or geographic locations, or other similar limitations or conditions, required by the Director under subsection (d).
   - **(2)** At the end of each of the fiscal years 1993 through 1997, the Director shall submit to the President and the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate a report on the effectiveness and costs of carrying out this section.
+
+## Source Credit
+
+*([Pub. L. 103–36, § 2](https://www.govinfo.gov/link/plaw/103/public/36), June 8, 1993, [107 Stat. 104](https://www.govinfo.gov/link/statute/107/104); [Pub. L. 103–226, § 8(b)](https://www.govinfo.gov/link/plaw/103/public/226), Mar. 30, 1994, [108 Stat. 118](https://www.govinfo.gov/link/statute/108/118); [Pub. L. 104–93, title IV, § 401](https://www.govinfo.gov/link/plaw/104/public/93), Jan. 6, 1996, [109 Stat. 968](https://www.govinfo.gov/link/statute/109/968); [Pub. L. 104–293, title IV, § 401](https://www.govinfo.gov/link/plaw/104/public/293), Oct. 11, 1996, [110 Stat. 3468](https://www.govinfo.gov/link/statute/110/3468); [Pub. L. 106–120, title IV, § 402](https://www.govinfo.gov/link/plaw/106/public/120), Dec. 3, 1999, [113 Stat. 1616](https://www.govinfo.gov/link/statute/113/1616); [Pub. L. 107–108, title IV, § 402](https://www.govinfo.gov/link/plaw/107/public/108), Dec. 28, 2001, [115 Stat. 1403](https://www.govinfo.gov/link/statute/115/1403); [Pub. L. 107–306, title IV, § 401](https://www.govinfo.gov/link/plaw/107/public/306), Nov. 27, 2002, [116 Stat. 2403](https://www.govinfo.gov/link/statute/116/2403); [Pub. L. 108–458, title I, § 1071(d)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3691](https://www.govinfo.gov/link/statute/118/3691); [Pub. L. 108–487, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/108/public/487), (b)(1), Dec. 23, 2004, [118 Stat. 3945](https://www.govinfo.gov/link/statute/118/3945), 3946; [Pub. L. 118–31, div. G, title IX, § 7901(h)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1107](https://www.govinfo.gov/link/statute/137/1107).)*

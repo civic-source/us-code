@@ -3,9 +3,10 @@ title: "Section 3592 - Rules of origin for textile and apparel products"
 usc_title: 19
 usc_section: "3592"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3592"
-generated_at: "2026-03-30T02:54:24.694Z"
+generated_at: "2026-11-23T20:26:11.064Z"
+status: "active"
 ---
 
 # § 3592. Rules of origin for textile and apparel products
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:54:24.694Z"
   - **(2)** all of the material terms of sale in such contract, including the price and quantity of the goods, are fixed and determinable before July 20, 1994 ;
   - **(3)** a copy of the contract is filed with the Commissioner of Customs within 60 days after December 8, 1994 , together with a certification that the contract meets the requirements of paragraphs (1) and (2); and
   - **(4)** the goods are entered, or withdrawn from warehouse, for consumption on or before January 1, 1998 .
+
+## Source Credit
+
+*([Pub. L. 103–465, title III, § 334](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4949](https://www.govinfo.gov/link/statute/108/4949); [Pub. L. 104–295, § 20(c)(9)](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3528](https://www.govinfo.gov/link/statute/110/3528); [Pub. L. 106–200, title IV, § 405(a)](https://www.govinfo.gov/link/plaw/106/public/200), May 18, 2000, [114 Stat. 292](https://www.govinfo.gov/link/statute/114/292).)*

@@ -3,9 +3,10 @@ title: "Section 5343 - Purpose and duties of the Office"
 usc_title: 12
 usc_section: "5343"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5343"
-generated_at: "2026-03-30T02:53:53.530Z"
+generated_at: "2026-11-23T20:25:59.472Z"
+status: "active"
 ---
 
 # § 5343. Purpose and duties of the Office
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:53:53.530Z"
     - **(B)** the Office has coordinated with the relevant primary financial regulatory agency, as required under section 5344(b)(1)(B)(ii) of this title .
   - **(2)** Subpoenas under paragraph (1) shall bear the signature of the Director, and shall be served by any person or class of persons designated by the Director for that purpose.
   - **(3)** In the case of contumacy or failure to obey a subpoena, the subpoena shall be enforceable by order of any appropriate district court of the United States. Any failure to obey the order of the court may be punished by the court as a contempt of court.
+
+## Source Credit
+
+*([Pub. L. 111–203, title I, § 153](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1415](https://www.govinfo.gov/link/statute/124/1415).)*

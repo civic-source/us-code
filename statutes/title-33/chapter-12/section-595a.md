@@ -3,12 +3,17 @@ title: "Section 595a - Compensation for taking or condemnation of property for p
 usc_title: 33
 usc_section: "595a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 595a"
-generated_at: "2026-03-30T02:55:41.064Z"
+generated_at: "2026-11-23T20:26:53.867Z"
+status: "active"
 ---
 
 # § 595a. Compensation for taking or condemnation of property for public improvements; fair market value; partial taking; effective date
 
 In all cases where real property shall be taken by the United States for the public use in connection with any improvement of rivers, harbors, canals, or waterways of the United States, and in all condemnation proceedings by the United States to acquire lands or easements for such improvements, the compensation to be paid for real property taken by the United States above the normal high water mark of navigable waters of the United States shall be the fair market value of such real property based upon all uses to which such real property may reasonably be put, including its highest and best use, any of which uses may be dependent upon access to or utilization of such navigable waters. In cases of partial takings of real property, no depreciation in the value of any remaining real property shall be recognized and no compensation shall be paid for any damages to such remaining real property which result from loss of or reduction of access from such remaining real property to such navigable waters because of the taking of real property or the purposes for which such real property is taken. The compensation defined herein shall apply to all acquisitions of real property after December 31, 1970 , and to the determination of just compensation in any condemnation suit pending on December 31, 1970 .
 
+
+## Source Credit
+
+*([Pub. L. 91–611, title I, § 111](https://www.govinfo.gov/link/plaw/91/public/611), Dec. 31, 1970, [84 Stat. 1821](https://www.govinfo.gov/link/statute/84/1821).)*

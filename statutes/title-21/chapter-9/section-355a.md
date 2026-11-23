@@ -3,9 +3,10 @@ title: "Section 355a - Pediatric studies of drugs"
 usc_title: 21
 usc_section: "355a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 355a"
-generated_at: "2026-03-30T02:54:54.237Z"
+generated_at: "2026-11-23T20:26:27.595Z"
+status: "active"
 ---
 
 # § 355a. Pediatric studies of drugs
@@ -128,3 +129,17 @@ generated_at: "2026-03-30T02:54:54.237Z"
       - **(ii)** clause (iii) or (iv) of section 355(c)(3)(E) of this title ; or
       - **(iii)** section 360cc(a) of this title ; or
     - **(D)** except as expressly provided in paragraphs (1) and (2), the operation of section 355 of this title or section 360cc of this title .
+
+Application
+
+Transitional rule for adverse event reporting
+
+In general
+
+Certain written requests
+
+“The Secretary of Health and Human Services, acting through the internal review committee established under section 505C of the Federal Food, Drug, and Cosmetic Act ( 21 U.S.C. 355d ) shall, not later than one year after the date of enactment of this Act [ Aug. 18, 2017 ], develop and implement a plan to achieve, when appropriate, earlier submission of pediatric studies under section 505A of the Federal Food, Drug, and Cosmetic Act ( 21 U.S.C. 355a ) or section 351(m) of the Public Health Service Act ( 42 U.S.C. 262(m) ). Such plan shall include recommendations to achieve—
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 505A, as added [Pub. L. 105–115, title I, § 111](https://www.govinfo.gov/link/plaw/105/public/115), Nov. 21, 1997, [111 Stat. 2305](https://www.govinfo.gov/link/statute/111/2305); amended [Pub. L. 107–109](https://www.govinfo.gov/link/plaw/107/public/109), §§ 2, 4, 5(b)(2), 7–11(a), 18(a), 19, Jan. 4, 2002, [115 Stat. 1408](https://www.govinfo.gov/link/statute/115/1408), 1411, 1413–1415, 1423, 1424; [Pub. L. 108–155](https://www.govinfo.gov/link/plaw/108/public/155), §§ 2(b)(2), 3(a), (b)(1), Dec. 3, 2003, [117 Stat. 1941](https://www.govinfo.gov/link/statute/117/1941); [Pub. L. 108–173, title XI, § 1104](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2461](https://www.govinfo.gov/link/statute/117/2461); [Pub. L. 110–85, title V, § 502(a)(1)](https://www.govinfo.gov/link/plaw/110/public/85), Sept. 27, 2007, [121 Stat. 876](https://www.govinfo.gov/link/statute/121/876); [Pub. L. 111–148, title VII, § 7002(g)(2)(B)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 820](https://www.govinfo.gov/link/statute/124/820); [Pub. L. 112–144, title V](https://www.govinfo.gov/link/plaw/112/public/144), §§ 501(a), 502(a)(1), (b), 509(a), July 9, 2012, [126 Stat. 1039](https://www.govinfo.gov/link/statute/126/1039), 1040, 1047; [Pub. L. 113–5, title III, § 307(a)](https://www.govinfo.gov/link/plaw/113/public/5), Mar. 13, 2013, [127 Stat. 191](https://www.govinfo.gov/link/statute/127/191); [Pub. L. 114–255, div. A, title III, § 3102(2)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1156](https://www.govinfo.gov/link/statute/130/1156); [Pub. L. 115–52, title V, § 505(a)](https://www.govinfo.gov/link/plaw/115/public/52) –(b)(2)(A), title VI, § 608, Aug. 18, 2017, [131 Stat. 1046](https://www.govinfo.gov/link/statute/131/1046), 1050; [Pub. L. 117–9, § 1(b)(2)](https://www.govinfo.gov/link/plaw/117/public/9), Apr. 23, 2021, [135 Stat. 258](https://www.govinfo.gov/link/statute/135/258).)*

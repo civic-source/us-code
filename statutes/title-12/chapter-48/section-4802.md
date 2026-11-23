@@ -3,9 +3,10 @@ title: "Section 4802 - Administrative consideration of burden with new regulatio
 usc_title: 12
 usc_section: "4802"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4802"
-generated_at: "2026-03-30T02:53:53.519Z"
+generated_at: "2026-11-23T20:25:59.432Z"
+status: "active"
 ---
 
 # § 4802. Administrative consideration of burden with new regulations
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:53.519Z"
     - **(B)** the regulation is issued by the Board of Governors of the Federal Reserve System in connection with the implementation of monetary policy; or
     - **(C)** the regulation is required to take effect on a date other than the date determined under this paragraph pursuant to any other Act of Congress.
   - **(2)** Any person who is subject to a regulation described in paragraph (1) may comply with the regulation before the effective date of the regulation.
+
+## Source Credit
+
+*([Pub. L. 103–325, title III, § 302](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2214](https://www.govinfo.gov/link/statute/108/2214).)*

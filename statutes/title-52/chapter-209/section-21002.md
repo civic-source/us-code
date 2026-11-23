@@ -3,9 +3,10 @@ title: "Section 21002 - Allocation of funds"
 usc_title: 52
 usc_section: "21002"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "52 U.S.C. § 21002"
-generated_at: "2026-03-30T02:56:30.167Z"
+generated_at: "2026-11-23T20:27:36.981Z"
+status: "active"
 ---
 
 # § 21002. Allocation of funds
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:30.167Z"
   - **(2)** in the case of the Commonwealth of Puerto Rico, Guam, American Samoa, or the United States Virgin Islands, one-tenth of 1 percent of such total amount.
 - **(d)** The Administrator 1 1 So in original. Probably should be “Commission”. shall make such pro rata reductions to the allocations determined under subsection (a) as are necessary to comply with the requirements of subsection (c).
 - **(e)** A requirements payment made to a State under this subpart shall be available to the State without fiscal year limitation.
+
+## Source Credit
+
+*([Pub. L. 107–252, title II, § 252](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1693](https://www.govinfo.gov/link/statute/116/1693).)*

@@ -3,9 +3,10 @@ title: "Section 4572 - Investigations and determinations by Commission"
 usc_title: 19
 usc_section: "4572"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 4572"
-generated_at: "2026-03-30T02:54:24.713Z"
+generated_at: "2026-11-23T20:26:11.168Z"
+status: "active"
 ---
 
 # § 4572. Investigations and determinations by Commission
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:54:24.713Z"
   - **(1)** Not later than 120 days after the date on which an investigation is initiated under subsection (a) with respect to a petition, request, or resolution, the Commission shall make a determination with respect to the petition, request, or resolution.
   - **(2)** If, before the 100th day after an investigation is initiated under subsection (a), the Commission determines that the investigation is extraordinarily complicated, the Commission shall make its determination with respect to the investigation not later than 150 days after the date referred to in paragraph (1).
 - **(h)** For purposes of this part, the provisions of paragraphs (1), (2), and (3) of section 1330(d) of this title shall be applied with respect to determinations and findings made under this section as if such determinations and findings were made under section 2252 of this title .
+
+## Source Credit
+
+*([Pub. L. 116–113, title III, § 322](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 55](https://www.govinfo.gov/link/statute/134/55).)*

@@ -3,9 +3,10 @@ title: "Section 5321 - Financial Stability Oversight Council established"
 usc_title: 12
 usc_section: "5321"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5321"
-generated_at: "2026-03-30T02:53:53.528Z"
+generated_at: "2026-11-23T20:25:59.463Z"
+status: "active"
 ---
 
 # § 5321. Financial Stability Oversight Council established
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:53:53.528Z"
   - **(1)** All members of the Council who are officers or employees of the United States shall serve without compensation in addition to that received for their services as officers or employees of the United States.
   - **(2)**
 - **(j)** Any employee of the Federal Government may be detailed to the Council without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege. An employee of the Federal Government detailed to the Council shall report to and be subject to oversight by the Council during the assignment to the Council, and shall be compensated by the department or agency from which the employee was detailed.
+
+## Source Credit
+
+*([Pub. L. 111–203, title I, § 111](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1392](https://www.govinfo.gov/link/statute/124/1392); [Pub. L. 115–61, § 2](https://www.govinfo.gov/link/plaw/115/public/61), Sept. 27, 2017, [131 Stat. 1158](https://www.govinfo.gov/link/statute/131/1158); [Pub. L. 117–286, § 4(a)(58)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4311](https://www.govinfo.gov/link/statute/136/4311).)*

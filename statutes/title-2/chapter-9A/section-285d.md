@@ -3,9 +3,10 @@ title: "Section 285d - Staff; Deputy Law Revision Counsel; delegation of functio
 usc_title: 2
 usc_section: "285d"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 285d"
-generated_at: "2026-03-30T02:53:04.794Z"
+generated_at: "2026-11-23T20:25:28.867Z"
+status: "active"
 ---
 
 # § 285d. Staff; Deputy Law Revision Counsel; delegation of functions
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:04.794Z"
   - **(2)**
     - **(A)** One of the employees appointed under paragraph (1) shall be designated by the Law Revision Counsel as Deputy Law Revision Counsel. During the absence or disability of the Law Revision Counsel, or when the office is vacant, the Deputy Law Revision Counsel shall perform the functions of the Law Revision Counsel.
     - **(B)** The Law Revision Counsel may delegate to the Deputy Law Revision Counsel and to other employees appointed under paragraph (1) such of his or her functions as he or she considers necessary or appropriate.
+
+## Source Credit
+
+*([Pub. L. 93–554, title I](https://www.govinfo.gov/link/plaw/93/public/554), ch. III, § 101, Dec. 27, 1974, [88 Stat. 1777](https://www.govinfo.gov/link/statute/88/1777).)*

@@ -3,12 +3,17 @@ title: "Section 1553 - Assistant Commissioners and one District Director; compen
 usc_title: 8
 usc_section: "1553"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1553"
-generated_at: "2026-03-30T02:53:10.505Z"
+generated_at: "2026-11-23T20:25:36.267Z"
+status: "active"
 ---
 
 # § 1553. Assistant Commissioners and one District Director; compensation and salary grade
 
 The compensation of the five assistant commissioners and one district director shall be at the rate of grade GS–16.
 
+
+## Source Credit
+
+*(June 20, 1956, ch. 414, title II, § 201, [70 Stat. 307](https://www.govinfo.gov/link/statute/70/307).)*

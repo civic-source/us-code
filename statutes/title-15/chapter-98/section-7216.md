@@ -3,9 +3,10 @@ title: "Section 7216 - Foreign public accounting firms"
 usc_title: 15
 usc_section: "7216"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 7216"
-generated_at: "2026-03-30T02:54:08.220Z"
+generated_at: "2026-11-23T20:26:04.441Z"
+status: "active"
 ---
 
 # § 7216. Foreign public accounting firms
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:08.220Z"
 - **(e)** A willful refusal to comply, in whole in or in part, with any request by the Commission or the Board under this section, shall be deemed a violation of this Act.
 - **(f)** Notwithstanding any other provisions of this section, the staff of the Commission or the Board may allow a foreign public accounting firm that is subject to this section to meet production obligations under this section through alternate means, such as through foreign counterparts of the Commission or the Board.
 - **(g)** In this section, the term “foreign public accounting firm” means a public accounting firm that is organized and operates under the laws of a foreign government or political subdivision thereof.
+
+## Source Credit
+
+*([Pub. L. 107–204, title I, § 106](https://www.govinfo.gov/link/plaw/107/public/204), July 30, 2002, [116 Stat. 764](https://www.govinfo.gov/link/statute/116/764); [Pub. L. 111–203, title IX](https://www.govinfo.gov/link/plaw/111/public/203), §§ 929J, 982(g), July 21, 2010, [124 Stat. 1859](https://www.govinfo.gov/link/statute/124/1859), 1930.)*

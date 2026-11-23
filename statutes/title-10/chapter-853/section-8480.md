@@ -3,9 +3,10 @@ title: "Section 8480 - Policy on sexual harassment and sexual violence"
 usc_title: 10
 usc_section: "8480"
 chapter: 853
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 8480"
-generated_at: "2026-03-30T02:53:38.244Z"
+generated_at: "2026-11-23T20:25:52.209Z"
+status: "active"
 ---
 
 # § 8480. Policy on sexual harassment and sexual violence
@@ -60,3 +61,17 @@ generated_at: "2026-03-30T02:53:38.244Z"
   - **(3)** If the Superintendent of the United States Naval Academy denies a request for transfer under this subsection, the midshipman may request review of the denial by the Secretary of the Navy, who shall take action on such request not later than 72 hours after receipt of the formal request for review.
   - **(4)** The Secretary concerned shall ensure that all records of any request, determination, transfer, or other action under this subsection remain confidential, consistent with applicable law and regulation.
   - **(5)** A midshipman who transfers under this subsection may retain the midshipman’s appointment to the United States Naval Academy or may be appointed to the military service academy to which the midshipman transfers without regard to the limitations and requirements set forth in sections 7442, 8454, and 9442 of this title.
+
+Required Policy
+
+Matters To Be Specified in Policy
+
+Annual Assessment
+
+Annual Report
+
+Consideration of Request for Transfer of a Midshipman Who Is the Victim of a Sexual Assault or Related Offense
+
+## Source Credit
+
+*(Added [Pub. L. 109–364, div. A, title V, § 532(a)(2)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2201](https://www.govinfo.gov/link/statute/120/2201), § 6980; renumbered § 8480, [Pub. L. 115–232, div. A, title VIII, § 807(c)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1836](https://www.govinfo.gov/link/statute/132/1836); amended [Pub. L. 116–92, div. A, title V, § 555(b)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1389](https://www.govinfo.gov/link/statute/133/1389); [Pub. L. 116–283, div. A, title V, § 552(b)(2)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3632](https://www.govinfo.gov/link/statute/134/3632).)*

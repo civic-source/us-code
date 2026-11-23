@@ -3,9 +3,10 @@ title: "Section 3071 - Purposes"
 usc_title: 25
 usc_section: "3071"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3071"
-generated_at: "2026-03-30T02:54:52.846Z"
+generated_at: "2026-11-23T20:26:25.628Z"
+status: "active"
 ---
 
 # § 3071. Purposes
@@ -25,3 +26,7 @@ The purposes of this chapter are—
     - **(A)** information submitted by Indian Tribes or Native Hawaiian organizations pursuant to this chapter; and
     - **(B)** information relating to an Item Requiring Export Certification for which an export certification was denied pursuant to this chapter; and
   - **(8)** to encourage buyers to purchase legal contemporary art made by Native artists for commercial purposes.
+
+## Source Credit
+
+*([Pub. L. 117–258, § 2](https://www.govinfo.gov/link/plaw/117/public/258), Dec. 21, 2022, [136 Stat. 2372](https://www.govinfo.gov/link/statute/136/2372).)*

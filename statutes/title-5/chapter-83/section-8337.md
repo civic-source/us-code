@@ -3,9 +3,10 @@ title: "Section 8337 - Disability retirement"
 usc_title: 5
 usc_section: "8337"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8337"
-generated_at: "2026-03-30T02:52:56.048Z"
+generated_at: "2026-11-23T20:25:32.155Z"
+status: "active"
 ---
 
 # § 8337. Disability retirement
@@ -44,3 +45,34 @@ generated_at: "2026-03-30T02:52:56.048Z"
     - **(A)** the position is located within the commuting area of the individual’s former position;
     - **(B)** the individual is qualified to serve in such position, as determined by the head of the agency; and
     - **(C)** the position is at the same grade or equivalent level as the position from which the individual was separated under section 709(e)(1) of title 32 or section 10216 of title 10 .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 2257 . | July 31, 1956, ch. 804, § 401 “Sec. 7”, 70 Stat. 750 . Oct. 4, 1961 , Pub. L. 87–350, § 4(a) , 75 Stat. 771 . |
+
+
+Historical and Revision Notes
+
+Act
+
+5 U.S.C. 2257
+
+July 31, 1956, ch. 804, § 401
+
+70 Stat. 750
+
+Oct. 4, 1961
+
+Pub. L. 87–350, § 4(a)
+
+75 Stat. 771
+
+Act
+
+In general
+
+Exception
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 572](https://www.govinfo.gov/link/statute/80/572); [Pub. L. 90–83, § 1(76)](https://www.govinfo.gov/link/plaw/90/public/83), Sept. 11, 1967, [81 Stat. 214](https://www.govinfo.gov/link/statute/81/214); [Pub. L. 95–454, title IX, § 906(a)(2)](https://www.govinfo.gov/link/plaw/95/public/454), (3), Oct. 13, 1978, [92 Stat. 1224](https://www.govinfo.gov/link/statute/92/1224); [Pub. L. 96–499, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/96/public/499), Dec. 5, 1980, [94 Stat. 2605](https://www.govinfo.gov/link/statute/94/2605); [Pub. L. 97–253, title III, § 302(a)](https://www.govinfo.gov/link/plaw/97/public/253), Sept. 8, 1982, [96 Stat. 792](https://www.govinfo.gov/link/statute/96/792); [Pub. L. 98–94, title XII, § 1256(c)](https://www.govinfo.gov/link/plaw/98/public/94), Sept. 24, 1983, [97 Stat. 701](https://www.govinfo.gov/link/statute/97/701); [Pub. L. 100–238, title I, § 124(a)(1)(A)](https://www.govinfo.gov/link/plaw/100/public/238), Jan. 8, 1988, [101 Stat. 1755](https://www.govinfo.gov/link/statute/101/1755); [Pub. L. 101–189, div. A, title XIII, § 1304(b)(2)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1577](https://www.govinfo.gov/link/statute/103/1577); [Pub. L. 101–428, § 2(d)(1)](https://www.govinfo.gov/link/plaw/101/public/428), Oct. 15, 1990, [104 Stat. 929](https://www.govinfo.gov/link/statute/104/929); [Pub. L. 102–378, § 2(61)](https://www.govinfo.gov/link/plaw/102/public/378), Oct. 2, 1992, [106 Stat. 1354](https://www.govinfo.gov/link/statute/106/1354); [Pub. L. 103–337, div. A, title IX, § 924(d)(1)(A)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2832](https://www.govinfo.gov/link/statute/108/2832); [Pub. L. 105–61, title V, § 516(a)(2)](https://www.govinfo.gov/link/plaw/105/public/61), Oct. 10, 1997, [111 Stat. 1306](https://www.govinfo.gov/link/statute/111/1306); [Pub. L. 106–65, div. A, title V, § 522(d)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 597](https://www.govinfo.gov/link/statute/113/597); [Pub. L. 106–553, § 1(a)(2) [title III, § 308(h)(1)]](https://www.govinfo.gov/link/plaw/106/public/553), Dec. 21, 2000, [114 Stat. 2762](https://www.govinfo.gov/link/statute/114/2762), 2762A–88.)*

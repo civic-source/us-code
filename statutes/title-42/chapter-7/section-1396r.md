@@ -3,9 +3,10 @@ title: "Section 1396r - Requirements for nursing facilities"
 usc_title: 42
 usc_section: "1396r"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1396r"
-generated_at: "2026-03-30T02:56:11.048Z"
+generated_at: "2026-11-23T20:27:21.581Z"
+status: "active"
 ---
 
 # § 1396r. Requirements for nursing facilities
@@ -466,3 +467,45 @@ generated_at: "2026-03-30T02:56:11.048Z"
       - **(v)** any other representatives of programs or groups the Secretary determines appropriate.
 - **(j)** Where requirements or obligations under this section are identical to those provided under section 1395i–3 of this title , the fulfillment of those requirements or obligations under section 1395i–3 of this title shall be considered to be the fulfillment of the corresponding requirements or obligations under this section.
 - **(k)** In addition to amounts otherwise available, there is appropriated to the Secretary, out of any monies in the Treasury not otherwise appropriated, $250,000,000, to remain available until expended, for purposes of allocating such amount among the States (including the District of Columbia and each territory of the United States) for such a State to establish and implement a strike team that will be deployed to a nursing facility in the State with diagnosed or suspected cases of COVID–19 among residents or staff for the purposes of assisting with clinical care, infection control, or staffing during the emergency period described in section 1320b–5(g)(1)(B) of this title and the 1-year period immediately following the end of such emergency period.
+
+(a) has operated under a waiver under subsection (b)(4)(C)(ii) that was granted on the basis of a demonstration that the facility is unable to provide the nursing care required under subsection (b)(4)(C)(i) for a period in excess of 48 hours during a week;
+
+(b) has been subject to an extended (or partial extended) survey under section 1395i–3(g)(2)(B)(i) of this title or subsection (g)(2)(B)(i); or
+
+(c) has been assessed a civil money penalty described in section 1395i–3(h)(2)(B)(ii) of this title or subsection (h)(2)(A)(ii) of not less than $5,000, or has been subject to a remedy described in subsection (h)(1)(B)(i), clauses 4 4 So in original. Probably should be “clause”. (i), (iii), or (iv) of subsection (h)(2)(A), clauses 4 (i) or (iii) of section 1395i–3(h)(2)(B) of this title , or section 1395i–3(h)(4) of this title , or
+
+(aa) Repeat deficiencies The Secretary may not reduce the amount of a penalty under subclause (II) if the Secretary had reduced a penalty imposed on the facility in the preceding year under such subclause with respect to a repeat deficiency.
+
+(bb) Certain other deficiencies The Secretary may not reduce the amount of a penalty under subclause (II) if the penalty is imposed on the facility for a deficiency that is found to result in a pattern of harm or widespread harm, immediately jeopardizes the health or safety of a resident or residents of the facility, or results in the death of a resident of the facility.
+
+(aa) subject to item (cc), not later than 30 days after the imposition of the penalty, provide for the facility to have the opportunity to participate in an independent informal dispute resolution process which generates a written record prior to the collection of such penalty;
+
+(bb) in the case where the penalty is imposed for each day of noncompliance, provide that a penalty may not be imposed for any day during the period beginning on the initial day of the imposition of the penalty and ending on the day on which the informal dispute resolution process under item (aa) is completed;
+
+(cc) may provide for the collection of such civil money penalty and the placement of such amounts collected in an escrow account under the direction of the Secretary on the earlier of the date on which the informal dispute resolution process under item (aa) is completed or the date that is 90 days after the date of the imposition of the penalty;
+
+(dd) may provide that such amounts collected are kept in such account pending the resolution of any subsequent appeals;
+
+(ee) in the case where the facility successfully appeals the penalty, may provide for the return of such amounts collected (plus interest) to the facility; and
+
+(ff) in the case where all such appeals are unsuccessful, may provide that some portion of such amounts collected may be used to support activities that benefit residents, including assistance to support and protect residents of a facility that closes (voluntarily or involuntarily) or is decertified (including offsetting costs of relocating residents to home and community-based settings or another facility), projects that support resident and family councils and other consumer involvement in assuring quality care in facilities, and facility improvement initiatives approved by the Secretary (including joint training of facility staff and surveyors, technical assistance for facilities implementing quality assurance programs, the appointment of temporary management firms, and other activities approved by the Secretary).
+
+“The amendments made by subparagraph (A) [amending this section] shall take effect as if included in the enactment of the Omnibus Budget Reconciliation Act of 1987 [ Pub. L. 100–203 ], except that a State may not approve a training and competency evaluation program or a competency evaluation program offered by or in a nursing facility which, pursuant to any Federal or State law within the 2-year period beginning on October 1, 1988 —
+
+In general
+
+Exception
+
+New Requirements and Survey and Certification Process
+
+Enforcement
+
+Waiver of Paperwork Reduction
+
+Maintaining regulatory standards for certain services
+
+Study on staffing requirements in nursing facilities
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XIX, § 1919, as added and amended [Pub. L. 100–203, title IV](https://www.govinfo.gov/link/plaw/100/public/203), §§ 4211(a)(3), (c), 4212(a), (b), 4213(a), 4216, Dec. 22, 1987, [101 Stat. 1330–182](https://www.govinfo.gov/link/statute/101/1330), 1330–196, 1330–207, 1330–213, 1330–220, as amended [Pub. L. 100–360, title IV, § 411](https://www.govinfo.gov/link/plaw/100/public/360) (l)(3)(C)(ii), (6)(B), (8)(A), July 1, 1988, [102 Stat. 803–805](https://www.govinfo.gov/link/statute/102/803); [Pub. L. 100–360, title III, § 303(a)(2)](https://www.govinfo.gov/link/plaw/100/public/360), title IV, § 411(l)(2)(A)–(D), (F)–(K), (L)(ii), (3)(A), (B), (C)(iii), (D), (5), (6)(A), (7), (8)(B), July 1, 1988, [102 Stat. 760](https://www.govinfo.gov/link/statute/102/760), 801–805, as amended [Pub. L. 100–485, title VI, § 608(d)(27)(C)](https://www.govinfo.gov/link/plaw/100/public/485) –(E), (I), Oct. 13, 1988, [102 Stat. 2423](https://www.govinfo.gov/link/statute/102/2423); [Pub. L. 101–239, title VI, § 6901(b)(1)](https://www.govinfo.gov/link/plaw/101/public/239), (3), (4)(A), (d)(1), (4), Dec. 19, 1989, [103 Stat. 2298–2301](https://www.govinfo.gov/link/statute/103/2298); [Pub. L. 101–508, title IV](https://www.govinfo.gov/link/plaw/101/public/508), §§ 4751(b)(2), 4801(a)(2)–(6)(A), (7), (b)(2)–(5)(A), (6)–(8), (d)(1), (e)(2)–(7)(A), (8)–(10), (12)–(15), (18), Nov. 5, 1990, [104 Stat. 1388–205](https://www.govinfo.gov/link/statute/104/1388), 1388–211 to 1388–219; [Pub. L. 102–375, title VII, § 708(a)(1)(B)](https://www.govinfo.gov/link/plaw/102/public/375), Sept. 30, 1992, [106 Stat. 1292](https://www.govinfo.gov/link/statute/106/1292); [Pub. L. 104–315](https://www.govinfo.gov/link/plaw/104/public/315), §§ 1(a), 2(a), (b), Oct. 19, 1996, [110 Stat. 3824](https://www.govinfo.gov/link/statute/110/3824); [Pub. L. 105–15, § 1](https://www.govinfo.gov/link/plaw/105/public/15), May 15, 1997, [111 Stat. 34](https://www.govinfo.gov/link/statute/111/34); [Pub. L. 105–33, title IV](https://www.govinfo.gov/link/plaw/105/public/33), §§ 4754(a), 4755(b), Aug. 5, 1997, [111 Stat. 526](https://www.govinfo.gov/link/statute/111/526); [Pub. L. 106–4, § 2(a)](https://www.govinfo.gov/link/plaw/106/public/4), Mar. 25, 1999, [113 Stat. 7](https://www.govinfo.gov/link/statute/113/7); [Pub. L. 106–113, div. B, § 1000(a)(6) [title VI, § 608(p)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–397; [Pub. L. 106–402, title IV, § 401(b)(6)(A)](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1738](https://www.govinfo.gov/link/statute/114/1738); [Pub. L. 106–554, § 1(a)(6) [title IX, § 941(b)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–586; [Pub. L. 108–173, title IX, § 932(c)(2)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2401](https://www.govinfo.gov/link/statute/117/2401); [Pub. L. 109–171, title VI, § 6015(a)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 65](https://www.govinfo.gov/link/statute/120/65); [Pub. L. 109–432, div. B, title IV, § 405(c)(2)(B)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 3000](https://www.govinfo.gov/link/statute/120/3000); [Pub. L. 111–148, title VI](https://www.govinfo.gov/link/plaw/111/public/148), §§ 6101(c)(1)(B), 6103(b)(1), (2)(A), (3), (c)(2), 6111(b), 6121(b), Mar. 23, 2010, [124 Stat. 702](https://www.govinfo.gov/link/statute/124/702), 707–709, 715, 721; [Pub. L. 117–2, title IX, § 9818](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 218](https://www.govinfo.gov/link/statute/135/218).)*

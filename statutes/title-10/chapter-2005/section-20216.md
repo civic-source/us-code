@@ -3,9 +3,10 @@ title: "Section 20216 - Reports of selection boards"
 usc_title: 10
 usc_section: "20216"
 chapter: 2005
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 20216"
-generated_at: "2026-03-30T02:53:38.280Z"
+generated_at: "2026-11-23T20:25:52.507Z"
+status: "active"
 ---
 
 # § 20216. Reports of selection boards
@@ -16,3 +17,15 @@ generated_at: "2026-03-30T02:53:38.280Z"
 - **(b)** A selection board convened under section 20211 of this title shall include in its report the name of any officer before it for consideration for promotion whose record, in the opinion of a majority of the members of the board, indicates that the officer should be required under section 20503 of this title to show cause for the officer’s retention in a space force active status.
 - **(c)** A selection board convened under section 20211 of this title shall, when authorized under section 20215(g) of this title , include in its report the names of those officers recommended by the board to be placed higher on the promotion list and the order in which the board recommends that those officers should be placed on the list.
 - **(d)** A selection board convened under section 20211 of this title may include in its report a recommendation that an officer considered by the board be excluded from future consideration for promotion under this chapter.
+
+In General
+
+Officers Who Should Be Required to Show Cause for Retention
+
+Officers Recommended to Be Placed Higher on the Promotion List
+
+Recommendation for Officers to Be Excluded From Future Consideration for Promotion
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title XVII, § 1716(c)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 637](https://www.govinfo.gov/link/statute/137/637); amended [Pub. L. 118–159, div. A, title V, § 521(p)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1882](https://www.govinfo.gov/link/statute/138/1882).)*

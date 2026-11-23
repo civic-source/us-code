@@ -3,9 +3,10 @@ title: "Section 6664 - Definitions and special rules"
 usc_title: 26
 usc_section: "6664"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6664"
-generated_at: "2026-03-30T02:55:27.862Z"
+generated_at: "2026-11-23T20:26:46.706Z"
+status: "active"
 ---
 
 # § 6664. Definitions and special rules
@@ -51,3 +52,13 @@ generated_at: "2026-03-30T02:55:27.862Z"
         - **(II)** unreasonably relies on representations, statements, findings, or agreements of the taxpayer or any other person,
         - **(III)** does not identify and consider all relevant facts, or
         - **(IV)** fails to meet any other requirement as the Secretary may prescribe.
+
+Qualified appraiser
+
+Qualified appraisal
+
+“The amendment made by subsection (a) [amending this section] shall apply to—
+
+## Source Credit
+
+*(Added [Pub. L. 101–239, title VII, § 7721(a)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2398](https://www.govinfo.gov/link/statute/103/2398); amended [Pub. L. 108–357, title VIII, § 812(c)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1579](https://www.govinfo.gov/link/statute/118/1579); [Pub. L. 109–280, title XII, § 1219(a)(3)](https://www.govinfo.gov/link/plaw/109/public/280), (c)(2), Aug. 17, 2006, [120 Stat. 1084](https://www.govinfo.gov/link/statute/120/1084), 1085; [Pub. L. 111–152, title I, § 1409(c)](https://www.govinfo.gov/link/plaw/111/public/152), Mar. 30, 2010, [124 Stat. 1069](https://www.govinfo.gov/link/statute/124/1069); [Pub. L. 114–113, div. Q, title II, § 209(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3084](https://www.govinfo.gov/link/statute/129/3084); [Pub. L. 117–328, div. T, title VI, § 605(a)(2)(C)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5394](https://www.govinfo.gov/link/statute/136/5394).)*

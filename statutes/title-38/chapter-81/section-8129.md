@@ -3,9 +3,10 @@ title: "Section 8129 - Preference for offerors employing veterans"
 usc_title: 38
 usc_section: "8129"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 8129"
-generated_at: "2026-03-30T02:55:53.538Z"
+generated_at: "2026-11-23T20:27:02.077Z"
+status: "active"
 ---
 
 # § 8129. Preference for offerors employing veterans
@@ -19,3 +20,11 @@ generated_at: "2026-03-30T02:55:53.538Z"
     - **(A)** commence debarment action against the offeror by not later than 30 days after determining that the offeror willfully and intentionally misrepresented the veteran status of the employees of the offeror as described in paragraph (1); and
     - **(B)** complete debarment actions against such offeror by not later than 90 days after such determination.
   - **(3)** The debarment of an offeror under paragraph (1) includes the debarment of all principals in the offeror for a period of not less than five years.
+
+Preference
+
+Enforcement Penalties for Misrepresentation
+
+## Source Credit
+
+*(Added [Pub. L. 116–315, title VII, § 7003(a)](https://www.govinfo.gov/link/plaw/116/public/315), Jan. 5, 2021, [134 Stat. 5058](https://www.govinfo.gov/link/statute/134/5058).)*

@@ -3,9 +3,10 @@ title: "Section 23 - National arrangement for benefits for eligible individuals 
 usc_title: 42
 usc_section: "23"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 23"
-generated_at: "2026-03-30T02:56:10.851Z"
+generated_at: "2026-11-23T20:27:20.718Z"
+status: "active"
 ---
 
 # § 300mm–23. National arrangement for benefits for eligible individuals outside New York
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:10.851Z"
 - **(d)**
   - **(1)** The WTC Program Administrator may enter into an agreement with the Secretary of Veterans Affairs for the Secretary to provide services under this section through facilities of the Department of Veterans Affairs.
   - **(2)** Not later than July 1, 2011 , the Comptroller General of the United States shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on whether the Department of Veterans Affairs can provide monitoring and treatment services to individuals under this section more efficiently and effectively than through the nationwide network to be established under subsection (a).
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXXIII, § 3313, as added [Pub. L. 111–347, title I, § 101](https://www.govinfo.gov/link/plaw/111/public/347), Jan. 2, 2011, [124 Stat. 3647](https://www.govinfo.gov/link/statute/124/3647).)*

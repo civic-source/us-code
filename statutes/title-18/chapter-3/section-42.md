@@ -3,9 +3,10 @@ title: "Section 42 - Importation or shipment of injurious mammals, birds, fish (
 usc_title: 18
 usc_section: "42"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 42"
-generated_at: "2026-03-30T02:54:16.457Z"
+generated_at: "2026-11-23T20:26:08.328Z"
+status: "active"
 ---
 
 # § 42. Importation or shipment of injurious mammals, birds, fish (including mollusks and crustacea), amphibia, and reptiles; permits, specimens for museums; regulations
@@ -20,3 +21,11 @@ generated_at: "2026-03-30T02:54:16.457Z"
 - **(c)** The Secretary of the Interior within one hundred and eighty days of the enactment of the Lacey Act Amendments of 1981 shall prescribe such requirements and issue such permits as he may deem necessary for the transportation of wild animals and birds under humane and healthful conditions, and it shall be unlawful for any person, including any importer, knowingly to cause or permit any wild animal or bird to be transported to the United States, or any Territory or district thereof, under inhumane or unhealthful conditions or in violation of such requirements. In any criminal prosecution for violation of this subsection and in any administrative proceeding for the suspension of the issuance of further permits—
   - **(1)** the condition of any vessel or conveyance, or the enclosures in which wild animals or birds are confined therein, upon its arrival in the United States, or any Territory or district thereof, shall constitute relevant evidence in determining whether the provisions of this subsection have been violated; and
   - **(2)** the presence in such vessel or conveyance at such time of a substantial ratio of dead, crippled, diseased, or starving wild animals or birds shall be deemed prima facie evidence of the violation of the provisions of this subsection.
+
+Act
+
+Act
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 687](https://www.govinfo.gov/link/statute/62/687); May 24, 1949, ch. 139, § 2, [63 Stat. 89](https://www.govinfo.gov/link/statute/63/89); [Pub. L. 86–702, § 1](https://www.govinfo.gov/link/plaw/86/public/702), Sept. 2, 1960, [74 Stat. 753](https://www.govinfo.gov/link/statute/74/753); [Pub. L. 97–79, § 9(d)](https://www.govinfo.gov/link/plaw/97/public/79), Nov. 16, 1981, [95 Stat. 1079](https://www.govinfo.gov/link/statute/95/1079); [Pub. L. 101–646, title I, § 1208](https://www.govinfo.gov/link/plaw/101/public/646), Nov. 29, 1990, [104 Stat. 4772](https://www.govinfo.gov/link/statute/104/4772); [Pub. L. 102–237, title X, § 1013(e)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1901](https://www.govinfo.gov/link/statute/105/1901); [Pub. L. 103–322, title XXXIII, § 330016(1)(G)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2147](https://www.govinfo.gov/link/statute/108/2147); [Pub. L. 104–332, § 2(h)(1)](https://www.govinfo.gov/link/plaw/104/public/332), Oct. 26, 1996, [110 Stat. 4091](https://www.govinfo.gov/link/statute/110/4091); [Pub. L. 111–307, § 2](https://www.govinfo.gov/link/plaw/111/public/307), Dec. 14, 2010, [124 Stat. 3282](https://www.govinfo.gov/link/statute/124/3282); [Pub. L. 115–282, title IX, § 903(e)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4357](https://www.govinfo.gov/link/statute/132/4357).)*

@@ -3,9 +3,10 @@ title: "Section 6715A - Tampering with or failing to maintain security requireme
 usc_title: 26
 usc_section: "6715A"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6715A"
-generated_at: "2026-03-30T02:55:27.866Z"
+generated_at: "2026-11-23T20:26:46.728Z"
+status: "active"
 ---
 
 # § 6715A. Tampering with or failing to maintain security requirements for mechanical dye injection systems
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:27.866Z"
 - **(c)**
   - **(1)** If a penalty is imposed under this section on any business entity, each officer, employee, or agent of such entity or other contracting party who willfully participated in any act giving rise to such penalty shall be jointly and severally liable with such entity for such penalty.
   - **(2)** If a business entity described in paragraph (1) is part of an affiliated group (as defined in section 1504(a)), the parent corporation of such entity shall be jointly and severally liable with such entity for the penalty imposed under this section.
+
+## Source Credit
+
+*(Added [Pub. L. 108–357, title VIII, § 854(c)(1)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1615](https://www.govinfo.gov/link/statute/118/1615).)*

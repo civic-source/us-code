@@ -3,9 +3,10 @@ title: "Section 31311 - Requirements for State participation"
 usc_title: 49
 usc_section: "31311"
 chapter: 313
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 31311"
-generated_at: "2026-03-30T02:56:19.361Z"
+generated_at: "2026-11-23T20:27:34.972Z"
+status: "active"
 ---
 
 # § 31311. Requirements for State participation
@@ -88,3 +89,58 @@ generated_at: "2026-03-30T02:56:19.361Z"
 - **(e)** The Secretary shall annually—
   - **(1)** compare the relative levels of compliance by States with the requirements under subsection (a); and
   - **(2)** make the results of the comparison available to the public.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 31311 | 49 App.:2708. | Oct. 27, 1986 , Pub. L. 99–570, § 12009 , 100 Stat. 3207–179 ; Dec. 18, 1991 , Pub. L. 102–240, § 4009(b) , 105 Stat. 2156 . |
+
+
+General
+
+State Satisfaction of Requirements
+
+Notification
+
+State Commercial Driver’s License Program Plan.—
+
+In general
+
+Contents
+
+Priority.—
+
+Implementation schedule
+
+Deadline for compliance with requirements
+
+Approval and disapproval
+
+Modification of disapproved plans
+
+Plan updates
+
+Annual Comparison of State Levels of Compliance
+
+Historical and Revision Notes
+
+31311
+
+Oct. 27, 1986
+
+Pub. L. 99–570, § 12009
+
+100 Stat. 3207–179
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 4009(b)
+
+105 Stat. 2156
+
+Development
+
+Status Report
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1023](https://www.govinfo.gov/link/statute/108/1023); [Pub. L. 104–88, title IV, § 403(c)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 956](https://www.govinfo.gov/link/statute/109/956); [Pub. L. 105–178, title IV, § 4011(e)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 408](https://www.govinfo.gov/link/statute/112/408); [Pub. L. 106–159, title II, § 202](https://www.govinfo.gov/link/plaw/106/public/159), Dec. 9, 1999, [113 Stat. 1760](https://www.govinfo.gov/link/statute/113/1760); [Pub. L. 109–59, title IV, § 4123(b)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1735](https://www.govinfo.gov/link/statute/119/1735); [Pub. L. 112–141, div. C, title II](https://www.govinfo.gov/link/plaw/112/public/141), §§ 32203(b), 32302(d), 32305(b), July 6, 2012, [126 Stat. 784](https://www.govinfo.gov/link/statute/126/784), 790, 792; [Pub. L. 112–196, § 2](https://www.govinfo.gov/link/plaw/112/public/196), Oct. 19, 2012, [126 Stat. 1459](https://www.govinfo.gov/link/statute/126/1459); [Pub. L. 114–94, div. A, title V, § 5401(d)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1547](https://www.govinfo.gov/link/statute/129/1547); [Pub. L. 118–156, § 2(b)](https://www.govinfo.gov/link/plaw/118/public/156), Dec. 17, 2024, [138 Stat. 1718](https://www.govinfo.gov/link/statute/138/1718).)*

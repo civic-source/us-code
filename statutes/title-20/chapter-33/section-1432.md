@@ -3,9 +3,10 @@ title: "Section 1432 - Definitions"
 usc_title: 20
 usc_section: "1432"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1432"
-generated_at: "2026-03-30T02:54:48.165Z"
+generated_at: "2026-11-23T20:26:14.652Z"
+status: "active"
 ---
 
 # § 1432. Definitions
@@ -64,3 +65,7 @@ In this subchapter:
       - **(ii)** children with disabilities who are eligible for services under section 1419 of this title and who previously received services under this subchapter until such children enter, or are eligible under State law to enter, kindergarten or elementary school, as appropriate, provided that any programs under this subchapter serving such children shall include—
         - **(I)** an educational component that promotes school readiness and incorporates pre-literacy, language, and numeracy skills; and
         - **(II)** a written notification to parents of their rights and responsibilities in determining whether their child will continue to receive services under this subchapter or participate in preschool programs under section 1419 of this title .
+
+## Source Credit
+
+*([Pub. L. 91–230, title VI, § 632](https://www.govinfo.gov/link/plaw/91/public/230), as added [Pub. L. 108–446, title I, § 101](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2744](https://www.govinfo.gov/link/statute/118/2744).)*

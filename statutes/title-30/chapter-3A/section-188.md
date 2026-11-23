@@ -3,9 +3,10 @@ title: "Section 188 - Failure to comply with provisions of lease"
 usc_title: 30
 usc_section: "188"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 188"
-generated_at: "2026-03-30T02:55:29.378Z"
+generated_at: "2026-11-23T20:26:34.911Z"
+status: "active"
 ---
 
 # § 188. Failure to comply with provisions of lease
@@ -49,3 +50,11 @@ generated_at: "2026-03-30T02:55:29.378Z"
   - **(1)** In acting on a petition to issue a noncompetitive oil and gas lease, under subsection (f) of this section or in response to a request filed after issuance of such a lease, or both, the Secretary is authorized to reduce the royalty on such lease if in his judgment it is equitable to do so or the circumstances warrant such relief due to uneconomic or other circumstances which could cause undue hardship or premature termination of production.
   - **(2)** In acting on a petition for reinstatement pursuant to subsection (d) of this section or in response to a request filed after reinstatement, or both, the Secretary is authorized to reduce the royalty in that reinstated lease on the entire leasehold or any tract or portion thereof segregated for royalty purposes if, in his judgment, there are uneconomic or other circumstances which could cause undue hardship or premature termination of production; or because of any written action of the United States, its agents or employees, which preceded, and was a major consideration in, the lessee’s expenditure of funds to develop the property under the lease after the rent had become due and had not been paid; or if in the judgment of the Secretary it is equitable to do so for any reason.
 - **(j)** Where, in the judgment of the Secretary of the Interior, drilling operations were being diligently conducted on the last day of the primary term of the lease, and, except for nonpayment of rental, the lessee would have been entitled to extension of his lease, pursuant to section 226–1(d) of this title , the Secretary of the Interior may reinstate such lease notwithstanding the failure of the lessee to have made payment of the next year’s rental, provided the conditions of subparagraphs (1) and (2) of section 2 2 So in original. Probably should be “subsection”. (c) are satisfied.
+
+Onshore oil and gas royalty rates
+
+Noncompetitive leasing
+
+## Source Credit
+
+*(Feb. 25, 1920, ch. 85, § 31, [41 Stat. 450](https://www.govinfo.gov/link/statute/41/450); Aug. 8, 1946, ch. 916, § 9, [60 Stat. 956](https://www.govinfo.gov/link/statute/60/956); July 29, 1954, ch. 644, § 1(7), [68 Stat. 585](https://www.govinfo.gov/link/statute/68/585); [Pub. L. 87–822, § 1](https://www.govinfo.gov/link/plaw/87/public/822), Oct. 15, 1962, [76 Stat. 943](https://www.govinfo.gov/link/statute/76/943); [Pub. L. 91–245](https://www.govinfo.gov/link/plaw/91/public/245), §§ 1, 2, May 12, 1970, [84 Stat. 206](https://www.govinfo.gov/link/statute/84/206); [Pub. L. 97–451, title IV, § 401](https://www.govinfo.gov/link/plaw/97/public/451), Jan. 12, 1983, [96 Stat. 2462](https://www.govinfo.gov/link/statute/96/2462); [Pub. L. 100–203, title V](https://www.govinfo.gov/link/plaw/100/public/203), §§ 5102(d)(2), 5104, Dec. 22, 1987, [101 Stat. 1330–258](https://www.govinfo.gov/link/statute/101/1330), 1330–259; [Pub. L. 101–567, § 1](https://www.govinfo.gov/link/plaw/101/public/567), Nov. 15, 1990, [104 Stat. 2802](https://www.govinfo.gov/link/statute/104/2802); [Pub. L. 103–437, § 11(a)(1)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4589](https://www.govinfo.gov/link/statute/108/4589); [Pub. L. 109–58, title III, § 371(b)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 734](https://www.govinfo.gov/link/statute/119/734); [Pub. L. 117–169, title V, § 50262(a)(2)](https://www.govinfo.gov/link/plaw/117/public/169), (c)(2), (e)(2), Aug. 16, 2022, [136 Stat. 2056–2058](https://www.govinfo.gov/link/statute/136/2056); [Pub. L. 119–21, title V, § 50101(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 137](https://www.govinfo.gov/link/statute/139/137).)*

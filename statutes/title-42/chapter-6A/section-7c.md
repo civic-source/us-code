@@ -3,9 +3,10 @@ title: "Section 7c - Tuberculosis"
 usc_title: 42
 usc_section: "7c"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7c"
-generated_at: "2026-03-30T02:56:10.744Z"
+generated_at: "2026-11-23T20:27:20.230Z"
+status: "active"
 ---
 
 # § 285b–7c. Tuberculosis
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:10.744Z"
   - **(1)** enhancing basic and clinical research on tuberculosis, including drug resistant tuberculosis;
   - **(2)** expanding research on the relationship between such disease and the human immunodeficiency virus; and
   - **(3)** developing new tools for the elimination of tuberculosis, including public health interventions and methods to enhance detection and response to outbreaks of tuberculosis, including multidrug resistant tuberculosis.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title IV, § 424C, as added [Pub. L. 110–392, title II, § 201](https://www.govinfo.gov/link/plaw/110/public/392), Oct. 13, 2008, [122 Stat. 4201](https://www.govinfo.gov/link/statute/122/4201).)*

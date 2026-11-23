@@ -3,9 +3,10 @@ title: "Section 1802 - Definitions"
 usc_title: 16
 usc_section: "1802"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1802"
-generated_at: "2026-03-30T02:54:22.983Z"
+generated_at: "2026-11-23T20:26:20.546Z"
+status: "active"
 ---
 
 # § 1802. Definitions
@@ -22,6 +23,8 @@ As used in this chapter, unless the context otherwise requires—
       - **(iii)** there will be a multiplicity of options available with respect to future uses of these resources.
   - **(6)** The term “Continental Shelf” means the seabed and subsoil of the submarine areas adjacent to the coast, but outside the area of the territorial sea, of the United States, to a depth of 200 meters or, beyond that limit, to where the depth of the superjacent waters admits of the exploitation of the natural resources of such areas.
   - **(7)** The term “Continental Shelf fishery resources” means the following:
+    - **(A)** immobile on or under the seabed, or
+    - **(B)** unable to move except in constant physical contact with the seabed or subsoil,
   - **(8)** The term “Council” means any Regional Fishery Management Council established under section 1852 of this title .
   - **(9)** The term “economic discards” means fish which are the target of a fishery, but which are not retained because they are of an undesirable size, sex, or quality, or for other economic reasons.
   - **(10)** The term “essential fish habitat” means those waters and substrate necessary to fish for spawning, breeding, feeding or growth to maturity.
@@ -87,5 +90,21 @@ As used in this chapter, unless the context otherwise requires—
     - **(D)** any vessel not equipped with propulsion machinery of any kind and used exclusively for pleasure.
   - **(49)** The term “vessel subject to the jurisdiction of the United States” has the same meaning such term has in section 70502(c) of title 46 .
   - **(50)** The term “waters of a foreign nation” means any part of the territorial sea or exclusive economic zone (or the equivalent) of a foreign nation, to the extent such territorial sea or exclusive economic zone is recognized by the United States.
-    - **(A)** immobile on or under the seabed, or
-    - **(B)** unable to move except in constant physical contact with the seabed or subsoil,
+
+Cnidaria
+
+Crustacea
+
+Mollusks
+
+Sponges
+
+In General
+
+Amendment Described
+
+References
+
+## Source Credit
+
+*([Pub. L. 94–265, § 3](https://www.govinfo.gov/link/plaw/94/public/265), Apr. 13, 1976, [90 Stat. 333](https://www.govinfo.gov/link/statute/90/333); [Pub. L. 95–354, § 3](https://www.govinfo.gov/link/plaw/95/public/354), Aug. 28, 1978, [92 Stat. 519](https://www.govinfo.gov/link/statute/92/519); [Pub. L. 97–453, § 15(a)](https://www.govinfo.gov/link/plaw/97/public/453), Jan. 12, 1983, [96 Stat. 2492](https://www.govinfo.gov/link/statute/96/2492); [Pub. L. 99–659, title I](https://www.govinfo.gov/link/plaw/99/public/659), §§ 101(a), 112, Nov. 14, 1986, [100 Stat. 3706](https://www.govinfo.gov/link/statute/100/3706), 3715; [Pub. L. 100–239, § 2](https://www.govinfo.gov/link/plaw/100/public/239), Jan. 11, 1988, [101 Stat. 1778](https://www.govinfo.gov/link/statute/101/1778); [Pub. L. 101–627, title I, § 102(a)](https://www.govinfo.gov/link/plaw/101/public/627), title X, § 1001(c), Nov. 28, 1990, [104 Stat. 4438](https://www.govinfo.gov/link/statute/104/4438), 4468; [Pub. L. 102–251, title III, § 301(b)](https://www.govinfo.gov/link/plaw/102/public/251), Mar. 9, 1992, [106 Stat. 62](https://www.govinfo.gov/link/statute/106/62); [Pub. L. 104–297, title I, § 102](https://www.govinfo.gov/link/plaw/104/public/297), Oct. 11, 1996, [110 Stat. 3561](https://www.govinfo.gov/link/statute/110/3561); [Pub. L. 109–479, § 3(b)](https://www.govinfo.gov/link/plaw/109/public/479), (c), Jan. 12, 2007, [120 Stat. 3577](https://www.govinfo.gov/link/statute/120/3577), 3578; [Pub. L. 115–232, div. C, title XXXV, § 3541(b)(2)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2323](https://www.govinfo.gov/link/statute/132/2323); [Pub. L. 117–328, div. S, title I, § 102](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5259](https://www.govinfo.gov/link/statute/136/5259); [Pub. L. 119–60, div. G, title LXXIII, § 7301(k)(2)(A)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1759](https://www.govinfo.gov/link/statute/139/1759).)*

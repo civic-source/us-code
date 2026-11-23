@@ -3,9 +3,10 @@ title: "Section 1231 - Definitions"
 usc_title: 15
 usc_section: "1231"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1231"
-generated_at: "2026-03-30T02:54:08.130Z"
+generated_at: "2026-11-23T20:26:03.980Z"
+status: "active"
 ---
 
 # § 1231. Definitions
@@ -22,3 +23,7 @@ For purposes of this chapter—
   - **(2)** in the case of a new automobile imported into the United States, the port of importation.
 - **(g)** The term “ultimate purchaser” means, with respect to any new automobile, the first person, other than a dealer purchasing in his capacity as a dealer, who in good faith purchases such new automobile for purposes other than resale.
 - **(h)** The term “commerce” shall mean commerce among the several States of the United States or with foreign nations, or in any Territory of the United States or in the District of Columbia, or among the Territories or between any Territory and any State or foreign nation, or between the District of Columbia and any State or Territory or foreign nation. New automobiles delivered to, or for further delivery to, ultimate purchasers within the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, Virgin Islands, American Samoa, the Trust Territories of the Pacific, the Canal Zone, Wake Island, Midway Island, Kingman Reef, Johnson Island, or within any other place under the jurisdiction of the United States shall be deemed to have been distributed in commerce.
+
+## Source Credit
+
+*([Pub. L. 85–506, § 2](https://www.govinfo.gov/link/plaw/85/public/506), July 7, 1958, [72 Stat. 325](https://www.govinfo.gov/link/statute/72/325); [Pub. L. 92–359](https://www.govinfo.gov/link/plaw/92/public/359), July 28, 1972, [86 Stat. 502](https://www.govinfo.gov/link/statute/86/502).)*

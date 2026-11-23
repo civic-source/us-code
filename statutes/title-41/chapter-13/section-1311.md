@@ -3,9 +3,10 @@ title: "Section 1311 - Establishment and membership"
 usc_title: 41
 usc_section: "1311"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 1311"
-generated_at: "2026-03-30T02:55:55.799Z"
+generated_at: "2026-11-23T20:27:04.386Z"
+status: "active"
 ---
 
 # § 1311. Establishment and membership
@@ -22,3 +23,53 @@ generated_at: "2026-03-30T02:55:55.799Z"
   - **(2)** The Vice Chairman of the Council shall be selected by the Council from among its members. The Vice Chairman serves for one year and may serve multiple terms.
   - **(3)** The Administrator shall lead the activities of the Council on behalf of the Deputy Director for Management.
   - **(4)** The Administrator of General Services shall provide administrative and other support for the Council.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1311(a) | 41:414b(a). | Pub. L. 93–400, § 16A(a) –(c), as added Pub. L. 108–136, title XIV, § 1422(a) , Nov. 24, 2003 , 117 Stat. 1668 . |
+| 1311(b) | 41:414b(b)(1) (words before comma), (2)–(5). |  |
+| 1311(c)(1) | 41:414b(b)(1) (words after comma). |  |
+| 1311(c)(2) | 41:414b(c)(2). |  |
+| 1311(c)(3) | 41:414b(c)(1). |  |
+| 1311(c)(4) | 41:414b(c)(3). |  |
+
+
+Establishment
+
+Membership
+
+Leadership and Support.—
+
+Chairman
+
+Vice chairman
+
+Leader of activities
+
+Support
+
+Historical and Revision Notes
+
+1311(a)
+
+Pub. L. 93–400, § 16A(a)
+
+Pub. L. 108–136, title XIV, § 1422(a)
+
+Nov. 24, 2003
+
+117 Stat. 1668
+
+1311(b)
+
+1311(c)(1)
+
+1311(c)(2)
+
+1311(c)(3)
+
+1311(c)(4)
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3694](https://www.govinfo.gov/link/statute/124/3694); [Pub. L. 116–92, div. A, title IX, § 902(89)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1554](https://www.govinfo.gov/link/statute/133/1554).)*

@@ -3,9 +3,10 @@ title: "Section 2443 - Authorization of appropriations"
 usc_title: 16
 usc_section: "2443"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 2443"
-generated_at: "2026-03-30T02:54:23.003Z"
+generated_at: "2026-11-23T20:26:20.609Z"
+status: "active"
 ---
 
 # § 2443. Authorization of appropriations
@@ -15,3 +16,7 @@ There are authorized to be appropriated, out of any moneys in the Treasury not o
   - **(1)** necessary travel expenses of the United States representatives referred to in section 2433 of this title , alternate United States representatives, and authorized advisers and experts, in accordance with sections 5701 through 5708, 5731, and 5733 of title 5 and the regulations issued under those sections;
   - **(2)** the United States contribution to the budget of the Commission as provided in article XIX of the Convention; and
   - **(3)** the directed research program and the furnishing of facilities and personnel to the Commission referred to in section 2441 of this title .
+
+## Source Credit
+
+*([Pub. L. 98–623, title III, § 314](https://www.govinfo.gov/link/plaw/98/public/623), Nov. 8, 1984, [98 Stat. 3406](https://www.govinfo.gov/link/statute/98/3406).)*

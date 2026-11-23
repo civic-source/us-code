@@ -3,9 +3,10 @@ title: "Section 796c - State plan"
 usc_title: 29
 usc_section: "796c"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 796c"
-generated_at: "2026-03-30T02:55:18.699Z"
+generated_at: "2026-11-23T20:26:37.880Z"
+status: "active"
 ---
 
 # § 796c. State plan
@@ -67,3 +68,7 @@ generated_at: "2026-03-30T02:55:18.699Z"
   - **(6)** provide for public hearings regarding the contents of the plan during both the formulation and review of the plan.
 - **(n)** The plan shall establish a method for the periodic evaluation of the effectiveness of the plan in meeting the objectives established in subsection (d), including evaluation of satisfaction by individuals with disabilities.
 - **(o)** The plan shall describe how the State will provide independent living services described in section 705(18) of this title that promote full access to community life for individuals with significant disabilities.
+
+## Source Credit
+
+*([Pub. L. 93–112, title VII, § 704](https://www.govinfo.gov/link/plaw/93/public/112), as added [Pub. L. 105–220, title IV, § 410](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1218](https://www.govinfo.gov/link/statute/112/1218); amended [Pub. L. 113–128, title IV, § 474](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1686](https://www.govinfo.gov/link/statute/128/1686).)*

@@ -3,9 +3,10 @@ title: "Section 2816 - Consideration of energy security and energy resilience in
 usc_title: 10
 usc_section: "2816"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2816"
-generated_at: "2026-03-30T02:53:38.178Z"
+generated_at: "2026-11-23T20:25:51.725Z"
+status: "active"
 ---
 
 # § 2816. Consideration of energy security and energy resilience in life-cycle cost for military construction
@@ -27,3 +28,13 @@ generated_at: "2026-03-30T02:53:38.178Z"
     - **(H)** Armories and readiness centers of the National Guard.
     - **(I)** Communications facilities.
     - **(J)** Satellite and missile launch and control facilities.
+
+In General
+
+Inclusion in the Building Life-cycle Cost Program
+
+Covered Military Construction Project Defined
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. B, title XXVIII, § 2804(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4320](https://www.govinfo.gov/link/statute/134/4320).)*

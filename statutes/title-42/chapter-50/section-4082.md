@@ -3,9 +3,10 @@ title: "Section 4082 - Use of insurance pool, companies, or other private organi
 usc_title: 42
 usc_section: "4082"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4082"
-generated_at: "2026-03-30T02:56:11.198Z"
+generated_at: "2026-11-23T20:27:22.353Z"
+status: "active"
 ---
 
 # § 4082. Use of insurance pool, companies, or other private organizations for certain payments
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.198Z"
   - **(2)** No individual designated pursuant to a contract under this section to certify payments shall, in the absence of gross negligence or intent to defraud the United States, be liable with respect to any payment certified by him under this section.
   - **(3)** No officer disbursing funds shall in the absence of gross negligence or intent to defraud the United States, be liable with respect to any payment by him under this section if it was based upon a voucher signed by an individual designated to certify payments as provided in paragraph (2) of this subsection.
 - **(f)** Any contract entered into under this section shall be for a term of one year, and may be made automatically renewable from term to term in the absence of notice by either party of an intention to terminate at the end of the current term; except that the Administrator may terminate any such contract at any time (after reasonable notice to the pool, company, or organization involved) if he finds that the pool, company, or organization has failed substantially to carry out the contract, or is carrying out the contract in a manner inconsistent with the efficient and effective administration of the flood insurance program authorized under this chapter.
+
+## Source Credit
+
+*([Pub. L. 90–448, title XIII, § 1346](https://www.govinfo.gov/link/plaw/90/public/448), Aug. 1, 1968, [82 Stat. 585](https://www.govinfo.gov/link/statute/82/585); [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title IV, § 451(d)(1)], Nov. 30, 1983, [97 Stat. 1229](https://www.govinfo.gov/link/statute/97/1229); [Pub. L. 112–141, div. F, title II](https://www.govinfo.gov/link/plaw/112/public/141), §§ 100232(d)(4), 100238(b)(1), July 6, 2012, [126 Stat. 954](https://www.govinfo.gov/link/statute/126/954), 958.)*

@@ -3,9 +3,10 @@ title: "Section 1587 - Disposition of other permanent war housing"
 usc_title: 42
 usc_section: "1587"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1587"
-generated_at: "2026-03-30T02:56:11.104Z"
+generated_at: "2026-11-23T20:27:21.826Z"
+status: "active"
 ---
 
 # § 1587. Disposition of other permanent war housing
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.104Z"
 - **(e)** Any housing disposed of in accordance with this section shall after such disposal be deemed to be housing accommodations the construction of which was completed after June 30, 1947 , within the meaning of section 4 of the Housing and Rent Act of 1947, as amended, relating to preference or priority to veterans of World War II or their families.
 - **(f)** Sales pursuant to this section shall be upon such terms as the Secretary of Housing and Urban Development shall determine: Provided , That full payment to the Government for the property sold shall be required within a period not exceeding twenty-five years with interest on unpaid balances at not less than 4 per centum per annum, except that in the case of projects initially programmed as mutual housing communities under the defense housing program, the terms of sale shall not require a down payment and shall provide for full payment to the United States over a period of forty-five years with interest on unpaid balances at not more than 3 per centum per annum.
 - **(g)** The Secretary of Housing and Urban Development may dispose of any permanent war housing without regard to the preferences in subsections (b) and (c) of this section when the Secretary determines that (1) such housing, because of design or lack of amenities, is unsuitable for family dwelling use, or (2) it is being used at the time of disposition for other than dwelling purposes, or (3) it was offered, with preferences substantially similar to those provided in the Housing Act of 1950, to veterans and occupants prior to April 20, 1950 .
+
+## Source Credit
+
+*(Oct. 14, 1940, ch. 862, title VI, § 607, as added June 28, 1948, ch. 688, § 7, as added Apr. 20, 1950, ch. 94, title II, § 201, [64 Stat. 59](https://www.govinfo.gov/link/statute/64/59); amended Mar. 10, 1954, ch. 61, [68 Stat. 26](https://www.govinfo.gov/link/statute/68/26); Aug. 2, 1954, ch. 649, title VIII, § 805(2), [68 Stat. 644](https://www.govinfo.gov/link/statute/68/644); [Pub. L. 89–174, § 5(a)](https://www.govinfo.gov/link/plaw/89/public/174), Sept. 9, 1965, [79 Stat. 669](https://www.govinfo.gov/link/statute/79/669); [Pub. L. 102–54, § 13(q)(6)(B)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 281](https://www.govinfo.gov/link/statute/105/281).)*

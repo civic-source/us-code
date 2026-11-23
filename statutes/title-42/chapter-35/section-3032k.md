@@ -3,9 +3,10 @@ title: "Section 3032k - Community innovations for aging in place"
 usc_title: 42
 usc_section: "3032k"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3032k"
-generated_at: "2026-03-30T02:56:11.176Z"
+generated_at: "2026-11-23T20:27:22.229Z"
+status: "active"
 ---
 
 # § 3032k. Community innovations for aging in place
@@ -66,3 +67,7 @@ generated_at: "2026-03-30T02:56:11.176Z"
   - **(1)** the findings resulting from the evaluations of the model projects conducted under this section;
   - **(2)** a description of recommended best practices regarding carrying out health and social service projects for older individuals aging in place; and
   - **(3)** recommendations for legislative or administrative action, as the Assistant Secretary determines appropriate.
+
+## Source Credit
+
+*([Pub. L. 89–73, title IV, § 422](https://www.govinfo.gov/link/plaw/89/public/73), as added [Pub. L. 109–365, title IV, § 409](https://www.govinfo.gov/link/plaw/109/public/365), Oct. 17, 2006, [120 Stat. 2559](https://www.govinfo.gov/link/statute/120/2559).)*

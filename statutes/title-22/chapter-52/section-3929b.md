@@ -3,9 +3,10 @@ title: "Section 3929b - Cooperation with Office of the Inspector General"
 usc_title: 22
 usc_section: "3929b"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3929b"
-generated_at: "2026-03-30T02:55:05.399Z"
+generated_at: "2026-11-23T20:26:32.483Z"
+status: "active"
 ---
 
 # § 3929b. Cooperation with Office of the Inspector General
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.399Z"
     - **(C)** Any extension of time that was voluntarily granted to such individual by the Office of the Inspector General.
     - **(D)** The general subject matters regarding which the Office of the Inspector General has requested of such individuals.
   - **(2)** Additional information pertaining solely to the subject matter of a request described in paragraph (1) may be provided in a supplemental classified annex, if necessary, but all other information required by the reports required under such paragraph shall be provided in unclassified form.
+
+## Source Credit
+
+*([Pub. L. 117–81, div. E, title LIII, § 5323](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2369](https://www.govinfo.gov/link/statute/135/2369).)*

@@ -3,9 +3,10 @@ title: "Section 1611 - Aliens who are not qualified aliens ineligible for Federa
 usc_title: 8
 usc_section: "1611"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1611"
-generated_at: "2026-03-30T02:53:10.505Z"
+generated_at: "2026-11-23T20:25:36.270Z"
+status: "active"
 ---
 
 # § 1611. Aliens who are not qualified aliens ineligible for Federal public benefits
@@ -30,3 +31,21 @@ generated_at: "2026-03-30T02:53:10.505Z"
     - **(A)** to any contract, professional license, or commercial license for a nonimmigrant whose visa for entry is related to such employment in the United States, or to a citizen of a freely associated state, if section 141 of the applicable compact of free association approved in Public Law 99–239 or 99–658 (or a successor provision) is in effect;
     - **(B)** with respect to benefits for an alien who as a work authorized nonimmigrant or as an alien lawfully admitted for permanent residence under the Immigration and Nationality Act [ 8 U.S.C. 1101 et seq.] qualified for such benefits and for whom the United States under reciprocal treaty agreements is required to pay benefits, as determined by the Attorney General, after consultation with the Secretary of State; or
     - **(C)** to the issuance of a professional license to, or the renewal of a professional license by, a foreign national not physically present in the United States.
+
+Total Amount Available for Allotment
+
+State Allotment Amount.—
+
+In general
+
+Determination
+
+Use of Funds
+
+State Defined
+
+State Entitlement
+
+## Source Credit
+
+*([Pub. L. 104–193, title IV, § 401](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2261](https://www.govinfo.gov/link/statute/110/2261); [Pub. L. 105–33, title V](https://www.govinfo.gov/link/plaw/105/public/33), §§ 5561, 5565, Aug. 5, 1997, [111 Stat. 638](https://www.govinfo.gov/link/statute/111/638), 639; [Pub. L. 105–306](https://www.govinfo.gov/link/plaw/105/public/306), §§ 2, 5(a), Oct. 28, 1998, [112 Stat. 2926](https://www.govinfo.gov/link/statute/112/2926), 2927.)*

@@ -3,9 +3,10 @@ title: "Section 7687 - Sale of excess, obsolete, or unserviceable ammunition and
 usc_title: 10
 usc_section: "7687"
 chapter: 773
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 7687"
-generated_at: "2026-03-30T02:53:38.236Z"
+generated_at: "2026-11-23T20:25:52.115Z"
+status: "active"
 ---
 
 # § 7687. Sale of excess, obsolete, or unserviceable ammunition and ammunition components
@@ -26,3 +27,23 @@ generated_at: "2026-03-30T02:53:38.236Z"
   - **(2)** The term “demilitarize”, with respect to ammunition or ammunition components—
     - **(A)** means to destroy the military offensive or defensive advantages inherent in the ammunition or ammunition components; and
     - **(B)** includes any mutilation, scrapping, melting, burning, or alteration that prevents the use of the ammunition or ammunition components for the military purposes for which the ammunition or ammunition components was designed or for a lethal purpose.
+
+Authority To Sell Outside DoD
+
+Method of Sale
+
+Eligible Purchasers
+
+Hold Harmless Agreement
+
+Verification of Demilitarization
+
+Consideration
+
+Relationship to Arms Export Control Act
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 105–85, div. A, title X, § 1065(a)(1)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1893](https://www.govinfo.gov/link/statute/111/1893), § 4687; amended [Pub. L. 109–364, div. A, title X, § 1071(a)(30)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2399](https://www.govinfo.gov/link/statute/120/2399); renumbered § 7687, [Pub. L. 115–232, div. A, title VIII, § 808(d)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1839](https://www.govinfo.gov/link/statute/132/1839).)*

@@ -3,9 +3,10 @@ title: "Section 19f - Operational sustainability of small public water systems"
 usc_title: 42
 usc_section: "19f"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 19f"
-generated_at: "2026-03-30T02:56:10.806Z"
+generated_at: "2026-11-23T20:27:20.511Z"
+status: "active"
 ---
 
 # § 300j–19f. Operational sustainability of small public water systems
@@ -57,3 +58,7 @@ generated_at: "2026-03-30T02:56:10.806Z"
   - **(2)** The Administrator may increase the Federal share under paragraph (1) to 100 percent.
 - **(g)** Not later than 2 years after November 15, 2021 , the Administrator shall submit to Congress a report that describes the implementation of the program, which shall include a description of the use and deployment of amounts made available under the program.
 - **(h)** There is authorized to be appropriated to carry out this section $50,000,000 for each of fiscal years 2022 through 2026.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XIV, § 1459E, as added [Pub. L. 117–58, div. E, title I, § 50106](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1142](https://www.govinfo.gov/link/statute/135/1142).)*

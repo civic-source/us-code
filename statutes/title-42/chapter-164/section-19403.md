@@ -3,9 +3,10 @@ title: "Section 19403 - Limitation on judicial enforceability of nondisclosure a
 usc_title: 42
 usc_section: "19403"
 chapter: 164
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 19403"
-generated_at: "2026-03-30T02:56:11.548Z"
+generated_at: "2026-11-23T20:27:23.878Z"
+status: "active"
 ---
 
 # § 19403. Limitation on judicial enforceability of nondisclosure and nondisparagement contract clauses relating to sexual assault disputes and sexual harassment disputes
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.548Z"
 - **(b)** Nothing in this chapter shall prohibit a State or locality from enforcing a provision of State law governing nondisclosure or nondisparagement clauses that is at least as protective of the right of an individual to speak freely, as provided by this chapter.
 - **(c)** This chapter shall not be construed to supersede a provision of Federal, State, or Tribal Law 1 1 So in original. Probably should not be capitalized. that governs the use of pseudonyms in the filing of claims involving sexual assault or sexual harassment disputes.
 - **(d)** Nothing in this chapter shall prohibit an employer and an employee from protecting trade secrets or proprietary information.
+
+## Source Credit
+
+*([Pub. L. 117–224, § 4](https://www.govinfo.gov/link/plaw/117/public/224), Dec. 7, 2022, [136 Stat. 2291](https://www.govinfo.gov/link/statute/136/2291).)*

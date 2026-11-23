@@ -3,9 +3,10 @@ title: "Section 137 - Adoption assistance programs"
 usc_title: 26
 usc_section: "137"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 137"
-generated_at: "2026-03-30T02:55:27.628Z"
+generated_at: "2026-11-23T20:26:45.369Z"
+status: "active"
 ---
 
 # § 137. Adoption assistance programs
@@ -29,3 +30,9 @@ generated_at: "2026-03-30T02:55:27.628Z"
 - **(f)** In the case of a taxable year beginning after December 31, 2002 , each of the dollar amounts in subsection (a)(2) and paragraphs (1) and (2)(A) of subsection (b) shall be increased by an amount equal to—
   - **(1)** such dollar amount, multiplied by
   - **(2)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2001” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+
+Adjustments for inflation
+
+## Source Credit
+
+*(Added [Pub. L. 104–188, title I, § 1807(b)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1901](https://www.govinfo.gov/link/statute/110/1901); amended [Pub. L. 105–34, title XVI, § 1601(h)(2)(C)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1092](https://www.govinfo.gov/link/statute/111/1092); [Pub. L. 105–277, div. J, title IV, § 4003(a)(2)(C)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–908](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 107–16, title II, § 202(a)(2)](https://www.govinfo.gov/link/plaw/107/public/16), (b)(1)(B), (2)(B), (d)(2), (e)(2), title IV, § 431(c)(1), June 7, 2001, [115 Stat. 47](https://www.govinfo.gov/link/statute/115/47), 48, 68; [Pub. L. 107–147, title IV](https://www.govinfo.gov/link/plaw/107/public/147), §§ 411(c)(2), 418(a)(2), Mar. 9, 2002, [116 Stat. 45](https://www.govinfo.gov/link/statute/116/45), 57; [Pub. L. 108–311, title IV, § 403(e)](https://www.govinfo.gov/link/plaw/108/public/311), Oct. 4, 2004, [118 Stat. 1188](https://www.govinfo.gov/link/statute/118/1188); [Pub. L. 108–357, title I, § 102(d)(1)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1428](https://www.govinfo.gov/link/statute/118/1428); [Pub. L. 111–148, title X, § 10909(a)(2)](https://www.govinfo.gov/link/plaw/111/public/148), (b)(2)(J), (c), Mar. 23, 2010, [124 Stat. 1022](https://www.govinfo.gov/link/statute/124/1022), 1023; [Pub. L. 111–312, title I, § 101(b)(1)](https://www.govinfo.gov/link/plaw/111/public/312), Dec. 17, 2010, [124 Stat. 3298](https://www.govinfo.gov/link/statute/124/3298); [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 11002(d)(1)(N), 13305(b)(1), Dec. 22, 2017, [131 Stat. 2060](https://www.govinfo.gov/link/statute/131/2060), 2126; [Pub. L. 115–141, div. U, title IV, § 401(a)(40)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1186](https://www.govinfo.gov/link/statute/132/1186); [Pub. L. 116–260, div. EE, title I, § 104(b)(2)(E)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3041](https://www.govinfo.gov/link/statute/134/3041); [Pub. L. 117–2, title IX, § 9042(b)(4)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 122](https://www.govinfo.gov/link/statute/135/122).)*

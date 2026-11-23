@@ -3,9 +3,10 @@ title: "Section 226 - Bribery affecting port security"
 usc_title: 18
 usc_section: "226"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 226"
-generated_at: "2026-03-30T02:54:16.460Z"
+generated_at: "2026-11-23T20:26:08.350Z"
+status: "active"
 ---
 
 # § 226. Bribery affecting port security
@@ -18,3 +19,11 @@ generated_at: "2026-03-30T02:54:16.460Z"
     - **(A)** being influenced in the performance of any official act affecting any secure or restricted area or seaport; and
     - **(B)** knowing that such influence will be used to commit, or plan to commit, international or domestic terrorism,
 - **(b)** In this section, the term “secure or restricted area” means an area of a vessel or facility designated as secure in an approved security plan, as required under section 70103 of title 46 , United States Code, and the rules and regulations promulgated under that section.
+
+In General
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 109–177, title III, § 309(a)](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 241](https://www.govinfo.gov/link/statute/120/241).)*

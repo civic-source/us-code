@@ -3,9 +3,10 @@ title: "Section 4854a - Testing technologies"
 usc_title: 42
 usc_section: "4854a"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4854a"
-generated_at: "2026-03-30T02:56:11.210Z"
+generated_at: "2026-11-23T20:27:22.423Z"
+status: "active"
 ---
 
 # § 4854a. Testing technologies
@@ -22,3 +23,7 @@ The Secretary, in cooperation with other Federal agencies, shall conduct researc
   - **(8)** evaluate the relative performance of various abatement techniques;
   - **(9)** evaluate the long-term cost-effectiveness of interim control and abatement strategies; and
   - **(10)** assess the effectiveness of hazard evaluation and reduction activities funded by this chapter.
+
+## Source Credit
+
+*([Pub. L. 102–550, title X, § 1052](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3925](https://www.govinfo.gov/link/statute/106/3925).)*

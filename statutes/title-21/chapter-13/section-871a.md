@@ -3,9 +3,10 @@ title: "Section 871a - Semiannual reports to Congress"
 usc_title: 21
 usc_section: "871a"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 871a"
-generated_at: "2026-03-30T02:54:54.297Z"
+generated_at: "2026-11-23T20:26:27.848Z"
+status: "active"
 ---
 
 # § 871a. Semiannual reports to Congress
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:54.297Z"
 - **(b)** The congressional committees and organizations referred to in subsection (a) are—
   - **(1)** in the House of Representatives, the Committee on the Judiciary, the Committee on Energy and Commerce, and the Committee on Government Reform; and
   - **(2)** in the Senate, the Committee on the Judiciary, the Committee on Commerce, Science, and Transportation, and the Caucus on International Narcotics Control.
+
+## Source Credit
+
+*([Pub. L. 109–177, title VII, § 736](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 271](https://www.govinfo.gov/link/statute/120/271).)*

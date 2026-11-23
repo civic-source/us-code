@@ -3,9 +3,10 @@ title: "Section 5726 - Yukon River salmon stock restoration and enhancement proj
 usc_title: 16
 usc_section: "5726"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 5726"
-generated_at: "2026-03-30T02:54:23.054Z"
+generated_at: "2026-11-23T20:26:20.783Z"
+status: "active"
 ---
 
 # § 5726. Yukon River salmon stock restoration and enhancement projects
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:23.054Z"
   - **(2)** amounts available for projects under this section—
     - **(A)** shall be expended in accordance with the agreement; and
     - **(B)** may be deposited in any joint account established by the agreement to fund such projects.
+
+## Source Credit
+
+*([Pub. L. 106–450, title II, § 207](https://www.govinfo.gov/link/plaw/106/public/450), Nov. 7, 2000, [114 Stat. 1944](https://www.govinfo.gov/link/statute/114/1944).)*

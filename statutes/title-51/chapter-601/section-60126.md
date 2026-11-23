@@ -3,9 +3,10 @@ title: "Section 60126 - Annual reports"
 usc_title: 51
 usc_section: "60126"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 60126"
-generated_at: "2026-03-30T02:56:28.712Z"
+generated_at: "2026-11-23T20:27:37.522Z"
+status: "active"
 ---
 
 # § 60126. Annual reports
@@ -21,3 +22,13 @@ generated_at: "2026-03-30T02:56:28.712Z"
   - **(3)** a description of all actions taken by the Secretary under the administrative authority granted by paragraphs (4), (5), and (6) of section 60123(a).
 - **(b)** Each report under subsection (a) may include classified annexes as necessary to protect the disclosure of sensitive or classified information.
 - **(c)** The reporting requirement under this section terminates effective September 30, 2020 .
+
+In General
+
+Classified Annexes
+
+Sunset
+
+## Source Credit
+
+*(Added [Pub. L. 114–90, title II, § 201(a)](https://www.govinfo.gov/link/plaw/114/public/90), Nov. 25, 2015, [129 Stat. 719](https://www.govinfo.gov/link/statute/129/719).)*

@@ -3,9 +3,10 @@ title: "Section 5331 - Mitigation of risks to financial stability"
 usc_title: 12
 usc_section: "5331"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5331"
-generated_at: "2026-03-30T02:53:53.529Z"
+generated_at: "2026-11-23T20:25:59.470Z"
+status: "active"
 ---
 
 # § 5331. Mitigation of risks to financial stability
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:53.529Z"
 - **(d)** The Board of Governors may prescribe regulations regarding the application of this section to foreign nonbank financial companies supervised by the Board of Governors and foreign-based bank holding companies—
   - **(1)** giving due regard to the principle of national treatment and equality of competitive opportunity; and
   - **(2)** taking into account the extent to which the foreign nonbank financial company or foreign-based bank holding company is subject on a consolidated basis to home country standards that are comparable to those applied to financial companies in the United States.
+
+## Source Credit
+
+*([Pub. L. 111–203, title I, § 121](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1410](https://www.govinfo.gov/link/statute/124/1410); [Pub. L. 115–174, title IV, § 401(c)(1)(C)](https://www.govinfo.gov/link/plaw/115/public/174), May 24, 2018, [132 Stat. 1358](https://www.govinfo.gov/link/statute/132/1358).)*

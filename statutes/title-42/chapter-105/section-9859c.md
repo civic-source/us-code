@@ -3,9 +3,10 @@ title: "Section 9859c - Amounts reserved; allotments"
 usc_title: 42
 usc_section: "9859c"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9859c"
-generated_at: "2026-03-30T02:56:11.375Z"
+generated_at: "2026-11-23T20:27:23.182Z"
+status: "active"
 ---
 
 # § 9859c. Amounts reserved; allotments
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:11.375Z"
       - **(iii)** equal to the average of the annual per capita incomes for the most recent period of 3 consecutive years for which satisfactory data are available from the Department of Commerce on the date such determination is made.
 - **(c)** The Secretary shall obtain from each appropriate Federal agency, the most recent data and information necessary to determine the allotments provided for in subsection (b).
 - **(d)** In this section, the term “State” includes only the several States of the United States, the District of Columbia, and the Commonwealth of Puerto Rico.
+
+## Source Credit
+
+*([Pub. L. 106–310, div. A, title XIV, § 1404](https://www.govinfo.gov/link/plaw/106/public/310), Oct. 17, 2000, [114 Stat. 1143](https://www.govinfo.gov/link/statute/114/1143).)*

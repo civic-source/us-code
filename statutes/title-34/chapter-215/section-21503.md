@@ -3,9 +3,10 @@ title: "Section 21503 - Angel Watch Center"
 usc_title: 34
 usc_section: "21503"
 chapter: 215
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 21503"
-generated_at: "2026-03-30T02:55:33.304Z"
+generated_at: "2026-11-23T20:26:50.619Z"
+status: "active"
 ---
 
 # § 21503. Angel Watch Center
@@ -70,3 +71,7 @@ generated_at: "2026-03-30T02:55:33.304Z"
 - **(f)** In this section, the term “sex offender” means—
   - **(1)** a covered sex offender; or
   - **(2)** an individual required to register under the sex offender registration program of any jurisdiction or included in the National Sex Offender Registry, on the basis of an offense against a minor.
+
+## Source Credit
+
+*([Pub. L. 114–119, § 4](https://www.govinfo.gov/link/plaw/114/public/119), Feb. 8, 2016, [130 Stat. 17](https://www.govinfo.gov/link/statute/130/17).)*

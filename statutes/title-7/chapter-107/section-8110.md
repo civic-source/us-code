@@ -3,9 +3,10 @@ title: "Section 8110 - Feedstock flexibility program for bioenergy producers"
 usc_title: 7
 usc_section: "8110"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 8110"
-generated_at: "2026-03-30T02:53:42.472Z"
+generated_at: "2026-11-23T20:25:41.872Z"
+status: "active"
 ---
 
 # § 8110. Feedstock flexibility program for bioenergy producers
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:53:42.472Z"
       - **(ii)** If the Secretary makes a sale and purchase referred to in clause (i), the Secretary shall ensure that the bioenergy producer that purchased eligible commodities takes possession of such commodities within 30 calendar days of the date the Commodity Credit Corporation purchases the eligible commodities.
   - **(5)** If sugar that is subject to a marketing allotment under part VII of subtitle B of title III of the Agricultural Adjustment Act of 1938 ( 7 U.S.C. 1359aa et seq.) is the subject of a payment under this section, the sugar shall be considered marketed and shall count against a processor’s allocation of an allotment under such part, as applicable.
   - **(6)** The Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation, including the use of such sums as are necessary, to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 107–171, title IX, § 9010](https://www.govinfo.gov/link/plaw/107/public/171), as added [Pub. L. 110–234, title IX, § 9001(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1325](https://www.govinfo.gov/link/statute/122/1325), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IX, § 9001(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2086; amended [Pub. L. 112–240, title VII, § 701(f)(9)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2365](https://www.govinfo.gov/link/statute/126/2365); [Pub. L. 113–79, title IX, § 9009](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 931](https://www.govinfo.gov/link/statute/128/931); [Pub. L. 115–334, title IX, § 9009](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4887](https://www.govinfo.gov/link/statute/132/4887); [Pub. L. 118–22, div. B, title I, § 102(d)(6)(C)](https://www.govinfo.gov/link/plaw/118/public/22), Nov. 17, 2023, [137 Stat. 118](https://www.govinfo.gov/link/statute/137/118); [Pub. L. 118–158, div. D, § 4101(d)(3)](https://www.govinfo.gov/link/plaw/118/public/158), Dec. 21, 2024, [138 Stat. 1769](https://www.govinfo.gov/link/statute/138/1769); [Pub. L. 119–37, div. E, § 5002(d)(3)](https://www.govinfo.gov/link/plaw/119/public/37), Nov. 12, 2025, [139 Stat. 627](https://www.govinfo.gov/link/statute/139/627).)*

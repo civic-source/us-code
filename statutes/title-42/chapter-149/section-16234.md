@@ -3,9 +3,10 @@ title: "Section 16234 - Concentrating solar power research program"
 usc_title: 42
 usc_section: "16234"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16234"
-generated_at: "2026-03-30T02:56:11.474Z"
+generated_at: "2026-11-23T20:27:23.631Z"
+status: "active"
 ---
 
 # § 16234. Concentrating solar power research program
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.474Z"
   - **(1)** assess conflicting guidance on the economic potential of concentrating solar power for electricity production received from the National Research Council in the report entitled “Renewable Power Pathways: A Review of the U.S. Department of Energy’s Renewable Energy Programs” and dated 2000 and subsequent reviews of that report funded by the Department; and
   - **(2)** provide an assessment of the potential impact of technology used to concentrate solar power for electricity before, or concurrent with, submission of the budget for fiscal year 2008.
 - **(d)** Not later than 5 years after August 8, 2005 , the Secretary shall provide to Congress a report on the economic and technical potential for electricity or hydrogen production, with or without cogeneration, with concentrating solar power, including the economic and technical feasibility of potential construction of a pilot demonstration facility suitable for commercial production of electricity or hydrogen from concentrating solar power.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 934](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 872](https://www.govinfo.gov/link/statute/119/872).)*

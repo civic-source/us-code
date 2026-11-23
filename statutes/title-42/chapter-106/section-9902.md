@@ -3,9 +3,10 @@ title: "Section 9902 - Definitions"
 usc_title: 42
 usc_section: "9902"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9902"
-generated_at: "2026-03-30T02:56:11.376Z"
+generated_at: "2026-11-23T20:27:23.186Z"
+status: "active"
 ---
 
 # § 9902. Definitions
@@ -21,3 +22,7 @@ In this chapter:
   - **(3)** The term “private, nonprofit organization” includes a religious organization, to which the provisions of section 9920 of this title shall apply.
   - **(4)** The term “Secretary” means the Secretary of Health and Human Services.
   - **(5)** The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the United States Virgin Islands, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 673](https://www.govinfo.gov/link/plaw/97/public/35), as added [Pub. L. 105–285, title II, § 201](https://www.govinfo.gov/link/plaw/105/public/285), Oct. 27, 1998, [112 Stat. 2729](https://www.govinfo.gov/link/statute/112/2729).)*

@@ -3,9 +3,10 @@ title: "Section 20502 - Minimum standards for issuance and dissemination of aler
 usc_title: 34
 usc_section: "20502"
 chapter: 205
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 20502"
-generated_at: "2026-03-30T02:55:33.298Z"
+generated_at: "2026-11-23T20:26:50.596Z"
+status: "active"
 ---
 
 # § 20502. Minimum standards for issuance and dissemination of alerts through AMBER Alert communications network
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:33.298Z"
 - **(c)**
   - **(1)** The Coordinator shall cooperate with the Secretary of Transportation, the Secretary of Homeland Security, and the Federal Communications Commission in carrying out activities under this section.
   - **(2)** The Coordinator shall also cooperate with local broadcasters and State, territorial, tribal, and local law enforcement agencies in establishing minimum standards under this section.
+
+## Source Credit
+
+*([Pub. L. 108–21, title III, § 302](https://www.govinfo.gov/link/plaw/108/public/21), Apr. 30, 2003, [117 Stat. 661](https://www.govinfo.gov/link/statute/117/661); [Pub. L. 116–283, div. H, title C, § 10001(a)(2)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4861](https://www.govinfo.gov/link/statute/134/4861).)*

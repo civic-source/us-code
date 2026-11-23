@@ -3,9 +3,10 @@ title: "Section 7491 - Visibility protection for Federal class I areas"
 usc_title: 42
 usc_section: "7491"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7491"
-generated_at: "2026-03-30T02:56:11.304Z"
+generated_at: "2026-11-23T20:27:22.874Z"
+status: "active"
 ---
 
 # § 7491. Visibility protection for Federal class I areas
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:56:11.304Z"
   - **(5)** the term “mandatory class I Federal areas” means Federal areas which may not be designated as other than class I under this part;
   - **(6)** the terms “visibility impairment” and “impairment of visibility” shall include reduction in visual range and atmospheric discoloration; and
   - **(7)** the term “major stationary source” means the following types of stationary sources with the potential to emit 250 tons or more of any pollutant: fossil-fuel fired steam electric plants of more than 250 million British thermal units per hour heat input, coal cleaning plants (thermal dryers), kraft pulp mills, Portland Cement plants, primary zinc smelters, iron and steel mill plants, primary aluminum ore reduction plants, primary copper smelters, municipal incinerators capable of charging more than 250 tons of refuse per day, hydrofluoric, sulfuric, and nitric acid plants, petroleum refineries, lime plants, phosphate rock processing plants, coke oven batteries, sulfur recovery plants, carbon black plants (furnace process), primary lead smelters, fuel conversion plants, sintering plants, secondary metal production facilities, chemical process plants, fossil-fuel boilers of more than 250 million British thermal units per hour heat input, petroleum storage and transfer facilities with a capacity exceeding 300,000 barrels, taconite ore processing facilities, glass fiber processing plants, charcoal production facilities.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 169A, as added [Pub. L. 95–95, title I, § 128](https://www.govinfo.gov/link/plaw/95/public/95), Aug. 7, 1977, [91 Stat. 742](https://www.govinfo.gov/link/statute/91/742).)*

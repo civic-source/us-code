@@ -3,9 +3,10 @@ title: "Section 1201 - Federal Acquisition Institute"
 usc_title: 41
 usc_section: "1201"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 1201"
-generated_at: "2026-03-30T02:55:55.799Z"
+generated_at: "2026-11-23T20:27:04.383Z"
+status: "active"
 ---
 
 # § 1201. Federal Acquisition Institute
@@ -39,3 +40,29 @@ generated_at: "2026-03-30T02:55:55.799Z"
   - **(4)** The Board shall make recommendations to the Administrator regarding the development and execution of the annual budget of the Federal Acquisition Institute.
 - **(d)** The Director of the Federal Acquisition Institute shall be appointed by, be subject to the direction and control of, and report directly to the Administrator.
 - **(e)** The Administrator shall submit to the Committee on Homeland Security and Governmental Affairs and the Committee on Appropriations of the Senate and the Committee on Oversight and Government Reform and the Committee on Appropriations of the House of Representatives an annual report on the projected budget needs and expense plans of the Federal Acquisition Institute to fulfill its mandate.
+
+In General
+
+Budget Resources and Authority.—
+
+In general
+
+Acquisition workforce training fund
+
+Federal Acquisition Institute Board of Directors.—
+
+Reporting to administrator
+
+Composition
+
+Duties
+
+Recommendations
+
+Director
+
+Annual Report
+
+## Source Credit
+
+*(Added [Pub. L. 112–81, div. A, title VIII, § 864(b)(1)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1523](https://www.govinfo.gov/link/statute/125/1523).)*

@@ -3,9 +3,10 @@ title: "Section 12495 - Right to report crime and emergencies from one’s home"
 usc_title: 34
 usc_section: "12495"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12495"
-generated_at: "2026-03-30T02:55:33.289Z"
+generated_at: "2026-11-23T20:26:50.555Z"
+status: "active"
 ---
 
 # § 12495. Right to report crime and emergencies from one’s home
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:33.289Z"
   - **(2)** certify that they are in compliance with the protections under this part or describe the steps the covered governmental entities will take within 180 days to come into compliance, or to ensure compliance among subgrantees.
 - **(d)** The Secretary of Housing and Urban Development and the Attorney General shall implement and enforce this subpart consistent with, and in a manner that provides, the same rights and remedies as those provided for in title VIII of the Civil Rights Act of 1968 ( 42 U.S.C. 3601 et seq.).
 - **(e)** For those covered governmental entities that distribute funds to subgrantees, compliance with subsection (c)(1) includes inquiring about the existence of laws and policies adopted by subgrantees that impose penalties on landlords, homeowners, tenants, residents, occupants, guests, or housing applicants based on requests for law enforcement or emergency assistance or based on criminal activity that occurred at a property.
+
+## Source Credit
+
+*([Pub. L. 103–322, title IV, § 41415](https://www.govinfo.gov/link/plaw/103/public/322), as added [Pub. L. 117–103, div. W, title VI, § 603](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 885](https://www.govinfo.gov/link/statute/136/885).)*

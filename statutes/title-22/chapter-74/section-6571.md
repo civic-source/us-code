@@ -3,9 +3,10 @@ title: "Section 6571 - References"
 usc_title: 22
 usc_section: "6571"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6571"
-generated_at: "2026-03-30T02:55:05.430Z"
+generated_at: "2026-11-23T20:26:32.623Z"
+status: "active"
 ---
 
 # § 6571. References
@@ -16,3 +17,7 @@ Except as otherwise provided in this chapter, any reference in any statute, reor
   - **(2)** insofar as such reference relates to any function or authority transferred under section 6562(b) of this title , shall be deemed to refer to the Administrator of the Agency for International Development;
   - **(3)** insofar as such reference relates to any function or authority transferred under section 6562(c) of this title , shall be deemed to refer to the head of the agency to which such function or authority is transferred under such section; and
   - **(4)** insofar as such reference relates to any function or authority not transferred by this subchapter, shall be deemed to refer to the President or such agency or agencies as may be specified by Executive order.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XIV, § 1421, Oct. 21, 1998, [112 Stat. 2681–791](https://www.govinfo.gov/link/statute/112/2681).)*

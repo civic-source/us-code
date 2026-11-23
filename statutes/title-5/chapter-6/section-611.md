@@ -3,9 +3,10 @@ title: "Section 611 - Judicial review"
 usc_title: 5
 usc_section: "611"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 611"
-generated_at: "2026-03-30T02:52:55.991Z"
+generated_at: "2026-11-23T20:25:31.746Z"
+status: "active"
 ---
 
 # § 611. Judicial review
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:52:55.991Z"
 - **(b)** In an action for the judicial review of a rule, the regulatory flexibility analysis for such rule, including an analysis prepared or corrected pursuant to paragraph (a)(4), shall constitute part of the entire record of agency action in connection with such review.
 - **(c)** Compliance or noncompliance by an agency with the provisions of this chapter shall be subject to judicial review only in accordance with this section.
 - **(d)** Nothing in this section bars judicial review of any other impact statement or similar analysis required by any other law if judicial review of such statement or analysis is otherwise permitted by law.
+
+## Source Credit
+
+*(Added [Pub. L. 96–354, § 3(a)](https://www.govinfo.gov/link/plaw/96/public/354), Sept. 19, 1980, [94 Stat. 1169](https://www.govinfo.gov/link/statute/94/1169); amended [Pub. L. 104–121, title II, § 242](https://www.govinfo.gov/link/plaw/104/public/121), Mar. 29, 1996, [110 Stat. 865](https://www.govinfo.gov/link/statute/110/865).)*

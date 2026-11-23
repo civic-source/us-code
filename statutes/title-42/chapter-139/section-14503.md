@@ -3,9 +3,10 @@ title: "Section 14503 - Limitation on liability for volunteers"
 usc_title: 42
 usc_section: "14503"
 chapter: 139
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 14503"
-generated_at: "2026-03-30T02:56:11.452Z"
+generated_at: "2026-11-23T20:27:23.533Z"
+status: "active"
 ---
 
 # § 14503. Limitation on liability for volunteers
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:56:11.452Z"
     - **(D)** involves misconduct for which the defendant has been found to have violated a Federal or State civil rights law; or
     - **(E)** where the defendant was under the influence (as determined pursuant to applicable State law) of intoxicating alcohol or any drug at the time of the misconduct.
   - **(2)** Nothing in this subsection shall be construed to effect subsection (a)(3) or (f).
+
+## Source Credit
+
+*([Pub. L. 105–19, § 4](https://www.govinfo.gov/link/plaw/105/public/19), June 18, 1997, [111 Stat. 219](https://www.govinfo.gov/link/statute/111/219); [Pub. L. 115–254, div. B, title V, § 584](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3399](https://www.govinfo.gov/link/statute/132/3399).)*

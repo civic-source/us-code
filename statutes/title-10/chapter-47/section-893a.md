@@ -3,9 +3,10 @@ title: "Section 893a - Art. 93a. Prohibited activities with military recruit or 
 usc_title: 10
 usc_section: "893a"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 893a"
-generated_at: "2026-03-30T02:53:38.085Z"
+generated_at: "2026-11-23T20:25:51.104Z"
+status: "active"
 ---
 
 # § 893a. Art. 93a. Prohibited activities with military recruit or trainee by person in position of special trust
@@ -29,3 +30,25 @@ generated_at: "2026-03-30T02:53:38.085Z"
   - **(3)** The term “applicant for military service” means a person who, under regulations prescribed by the Secretary concerned, is an applicant for original enlistment or appointment in the armed forces.
   - **(4)** The term “military recruiter” means a person who, under regulations prescribed by the Secretary concerned, has the primary duty to recruit persons for military service.
   - **(5)** The term “prohibited sexual activity” means, as specified in regulations prescribed by the Secretary concerned, inappropriate physical intimacy under circumstances described in such regulations.
+
+Abuse of Training Leadership Position
+
+Abuse of Position as Military Recruiter
+
+Consent
+
+Definitions
+
+Specially protected junior member of the armed forces
+
+Training leadership position
+
+Applicant for military service
+
+Military recruiter
+
+Prohibited sexual activity
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. E, title LX, § 5410](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2942](https://www.govinfo.gov/link/statute/130/2942).)*

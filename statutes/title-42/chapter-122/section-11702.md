@@ -3,9 +3,10 @@ title: "Section 11702 - Declaration of policy"
 usc_title: 42
 usc_section: "11702"
 chapter: 122
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11702"
-generated_at: "2026-03-30T02:56:11.404Z"
+generated_at: "2026-11-23T20:27:23.319Z"
+status: "active"
 ---
 
 # § 11702. Declaration of policy
@@ -68,3 +69,7 @@ generated_at: "2026-03-30T02:56:11.404Z"
     - **(H)** Pertussis to 1,000; and 3 3 So in original. The “; and” probably should be a period.
   - **(40)** Reduce significant visual impairment to a prevalence of no more than 30 per 1,000.
 - **(c)** The Secretary shall submit to the President, for inclusion in each report required to be transmitted to the Congress under section 11710 of this title , a report on the progress made in each area toward meeting each of the objectives described in subsection (b).
+
+## Source Credit
+
+*([Pub. L. 100–579, § 3](https://www.govinfo.gov/link/plaw/100/public/579), Oct. 31, 1988, [102 Stat. 2916](https://www.govinfo.gov/link/statute/102/2916); [Pub. L. 100–690, title II, § 2303](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4223](https://www.govinfo.gov/link/statute/102/4223); [Pub. L. 102–396, title IX, § 9168](https://www.govinfo.gov/link/plaw/102/public/396), Oct. 6, 1992, [106 Stat. 1948](https://www.govinfo.gov/link/statute/106/1948).)*

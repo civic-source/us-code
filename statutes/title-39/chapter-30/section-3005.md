@@ -3,9 +3,10 @@ title: "Section 3005 - False representations; lotteries"
 usc_title: 39
 usc_section: "3005"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "39 U.S.C. § 3005"
-generated_at: "2026-03-30T02:55:43.692Z"
+generated_at: "2026-11-23T20:26:57.740Z"
+status: "active"
 ---
 
 # § 3005. False representations; lotteries
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:43.692Z"
     - **(A)** identify himself as an employee or authorized agent of the Postal Service, as the case may be;
     - **(B)** state the nature of the conduct under investigation; and
     - **(C)** inform such person that the failure to complete the transaction may be considered in a proceeding under section 3007 of this title to determine probable cause, in accordance with paragraph (2) of this subsection.
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 747](https://www.govinfo.gov/link/statute/84/747); [Pub. L. 93–583, § 4](https://www.govinfo.gov/link/plaw/93/public/583), Jan. 2, 1975, [88 Stat. 1916](https://www.govinfo.gov/link/statute/88/1916); [Pub. L. 94–525, § 2](https://www.govinfo.gov/link/plaw/94/public/525), Oct. 17, 1976, [90 Stat. 2478](https://www.govinfo.gov/link/statute/90/2478); [Pub. L. 95–360](https://www.govinfo.gov/link/plaw/95/public/360), Sept. 9, 1978, [92 Stat. 594](https://www.govinfo.gov/link/statute/92/594); [Pub. L. 98–186, § 2](https://www.govinfo.gov/link/plaw/98/public/186), Nov. 30, 1983, [97 Stat. 1315](https://www.govinfo.gov/link/statute/97/1315); [Pub. L. 100–625, § 2(c)](https://www.govinfo.gov/link/plaw/100/public/625), Nov. 7, 1988, [102 Stat. 3205](https://www.govinfo.gov/link/statute/102/3205); [Pub. L. 101–524, § 2(b)](https://www.govinfo.gov/link/plaw/101/public/524), Nov. 6, 1990, [104 Stat. 2302](https://www.govinfo.gov/link/statute/104/2302); [Pub. L. 102–71, § 2(2)](https://www.govinfo.gov/link/plaw/102/public/71), July 10, 1991, [105 Stat. 330](https://www.govinfo.gov/link/statute/105/330); [Pub. L. 106–168, title I](https://www.govinfo.gov/link/plaw/106/public/168), §§ 104, 105(b)(2)(A), Dec. 12, 1999, [113 Stat. 1810](https://www.govinfo.gov/link/statute/113/1810), 1811; [Pub. L. 109–435, title X, § 1010(g)(3)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3262](https://www.govinfo.gov/link/statute/120/3262).)*

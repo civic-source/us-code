@@ -3,9 +3,10 @@ title: "Section 3632 - United States Section"
 usc_title: 16
 usc_section: "3632"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3632"
-generated_at: "2026-03-30T02:54:23.018Z"
+generated_at: "2026-11-23T20:26:20.664Z"
+status: "active"
 ---
 
 # § 3632. United States Section
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:54:23.018Z"
   - **(7)** In any matter where the Fraser River Panel is unable to act because the United States Fraser River Panel members have been unable to reach a decision in accordance with paragraph (3) of this subsection, and upon a determination by the Chairman of the United States Section that an action of the Panel is required, the United States Section shall act for the United States Panel members in the Fraser River Panel.
   - **(8)** In any matter where the Secretary of State determines that the United States is in jeopardy of not fulfilling its international obligations under the Treaty, the Secretary of State shall so certify to the United States Section. Such certification shall include the reasons for such determination and shall specify the date by which a decision by the United States Section is desired. If the United States Section has not reached a decision by the date specified, the Secretary of State, after consultation with the Secretary and the Secretary of the Interior, shall report on the matter to the President.
 - **(i)** In carrying out their functions under the Treaty, the Commissioners and Panel members may consult with such other interested parties as they consider appropriate. Chapter 10 of title 5 shall not apply.
+
+## Source Credit
+
+*([Pub. L. 99–5, § 3](https://www.govinfo.gov/link/plaw/99/public/5), Mar. 15, 1985, [99 Stat. 8](https://www.govinfo.gov/link/statute/99/8); [Pub. L. 99–5, § 16(c)](https://www.govinfo.gov/link/plaw/99/public/5), formerly [Pub. L. 106–113, div. B, § 1000(a)(1) [title VI, § 623(c)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1535](https://www.govinfo.gov/link/statute/113/1535), 1501A–59, renumbered [Pub. L. 109–479, title III, § 302(d)(1)](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3623](https://www.govinfo.gov/link/statute/120/3623); [Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(c)(5)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–239; [Pub. L. 117–286, § 4(a)(118)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4318](https://www.govinfo.gov/link/statute/136/4318).)*

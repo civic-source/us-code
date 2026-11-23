@@ -3,12 +3,17 @@ title: "Section 470 - When work increasing construction charge may be undertaken
 usc_title: 43
 usc_section: "470"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 470"
-generated_at: "2026-03-30T02:55:57.450Z"
+generated_at: "2026-11-23T20:27:06.216Z"
+status: "active"
 ---
 
 # § 470. When work increasing construction charge may be undertaken
 
 No work shall be undertaken or expenditure made for any lands, for which the construction charge has been fixed by public notice, which work or expenditure shall, in the opinion of the Secretary of the Interior, increase the construction cost above the construction charge so fixed; unless and until valid and binding agreement to repay the cost thereof shall have been entered into between the Secretary of the Interior and the water-right applicants and entrymen affected by such increased cost, as provided by section 469 of this title .
 
+
+## Source Credit
+
+*(Mar. 3, 1915, ch. 75, § 1, [38 Stat. 861](https://www.govinfo.gov/link/statute/38/861).)*

@@ -3,9 +3,10 @@ title: "Section 711 - Clerks and employees"
 usc_title: 28
 usc_section: "711"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 711"
-generated_at: "2026-03-30T02:55:30.137Z"
+generated_at: "2026-11-23T20:26:36.415Z"
+status: "active"
 ---
 
 # § 711. Clerks and employees
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:30.137Z"
 - **(a)** Each court of appeals may appoint a clerk who shall be subject to removal by the court.
 - **(b)** The clerk, with the approval of the court, may appoint necessary deputies, clerical assistants and employees in such number as may be approved by the Director of the Administrative Office of the United States Courts. Such deputies, clerical assistants and employees shall be subject to removal by the clerk with the approval of the court.
 - **(c)** The clerk shall pay into the Treasury all fees, costs and other moneys collected by him and make returns thereof to the Director of the Administrative Office of the United States Courts under regulations prescribed by him.
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 920](https://www.govinfo.gov/link/statute/62/920).)*

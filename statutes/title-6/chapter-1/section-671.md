@@ -3,9 +3,10 @@ title: "Section 671 - Definitions"
 usc_title: 6
 usc_section: "671"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 671"
-generated_at: "2026-03-30T02:53:09.481Z"
+generated_at: "2026-11-23T20:25:34.844Z"
+status: "active"
 ---
 
 # § 671. Definitions
@@ -26,3 +27,19 @@ In this part:
         - **(I)** does not include information or statements contained in any documents or materials filed with the Securities and Exchange Commission, or with Federal banking regulators, pursuant to section 78 l (i) of title 15; and
         - **(II)** with respect to the submittal of critical infrastructure information, does not include any disclosure or writing that when made accompanied the solicitation of an offer or a sale of securities; and
       - **(ii)** does not include information or statements submitted or relied upon as a basis for making licensing or permitting determinations, or during regulatory proceedings.
+
+“In this subtitle [subtitle A (§§ 201–211) of title II of div. N of Pub. L. 114–113 , see Short Title of 2015 Amendment note set out under section 101 of this title ]:
+
+Appropriate congressional committees
+
+Cybersecurity risk; incident
+
+Cyber threat indicator; defensive measure
+
+Department
+
+Secretary
+
+## Source Credit
+
+*([Pub. L. 107–296, title XXII, § 2222](https://www.govinfo.gov/link/plaw/107/public/296), formerly title II, § 212, Nov. 25, 2002, [116 Stat. 2150](https://www.govinfo.gov/link/statute/116/2150); [Pub. L. 114–113, div. N, title II, § 204](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2961](https://www.govinfo.gov/link/statute/129/2961); renumbered title XXII, § 2222, and amended [Pub. L. 115–278, § 2(g)(2)(H)](https://www.govinfo.gov/link/plaw/115/public/278), (9)(B)(i), Nov. 16, 2018, [132 Stat. 4178](https://www.govinfo.gov/link/statute/132/4178), 4181; [Pub. L. 117–263, div. G, title LXXI, § 7143(b)(2)(M)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3661](https://www.govinfo.gov/link/statute/136/3661).)*

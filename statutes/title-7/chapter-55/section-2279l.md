@@ -3,9 +3,10 @@ title: "Section 2279l - National Detector Dog Training Center"
 usc_title: 7
 usc_section: "2279l"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2279l"
-generated_at: "2026-03-30T02:53:42.385Z"
+generated_at: "2026-11-23T20:25:41.525Z"
+status: "active"
 ---
 
 # § 2279l. National Detector Dog Training Center
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:42.385Z"
   - **(5)** Ensuring the health and welfare of all dogs under the care of the Center, including by ensuring access to necessary veterinary care, adequate shelter, and proper nutrition.
   - **(6)** Providing opportunities for private adoption of retirement-age trained dogs and dogs that do not complete training.
   - **(7)** Any other duties necessary to safeguard domestic agricultural and natural resources from foreign and invasive pests and diseases, as determined by the Secretary of Agriculture, acting through the Administrator of the Animal and Plant Health Inspection Service.
+
+## Source Credit
+
+*([Pub. L. 118–191, § 2](https://www.govinfo.gov/link/plaw/118/public/191), Dec. 23, 2024, [138 Stat. 2658](https://www.govinfo.gov/link/statute/138/2658).)*

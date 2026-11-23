@@ -3,9 +3,10 @@ title: "Section 3401 - Misdemeanors; application of probation laws"
 usc_title: 18
 usc_section: "3401"
 chapter: 219
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 3401"
-generated_at: "2026-03-30T02:54:16.516Z"
+generated_at: "2026-11-23T20:26:08.713Z"
+status: "active"
 ---
 
 # § 3401. Misdemeanors; application of probation laws
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:16.516Z"
 - **(g)** The magistrate judge may, in a petty offense case involving a juvenile, exercise all powers granted to the district court under chapter 403 of this title. The magistrate judge may, in the case of any misdemeanor, other than a petty offense, involving a juvenile in which consent to trial before a magistrate judge has been filed under subsection (b), exercise all powers granted to the district court under chapter 403 of this title. For purposes of this subsection, proceedings under chapter 403 of this title may be instituted against a juvenile by a violation notice or complaint, except that no such case may proceed unless the certification referred to in section 5032 of this title has been filed in open court at the arraignment.
 - **(h)** The magistrate judge shall have power to modify, revoke, or terminate supervised release of any person sentenced to a term of supervised release by a magistrate judge.
 - **(i)** A district judge may designate a magistrate judge to conduct hearings to modify, revoke, or terminate supervised release, including evidentiary hearings, and to submit to the judge proposed findings of fact and recommendations for such modification, revocation, or termination by the judge, including, in the case of revocation, a recommended disposition under section 3583(e) of this title . The magistrate judge shall file his or her proposed findings and recommendations.
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 830](https://www.govinfo.gov/link/statute/62/830); [Pub. L. 85–508, § 12(j)](https://www.govinfo.gov/link/plaw/85/public/508), July 7, 1958, [72 Stat. 348](https://www.govinfo.gov/link/statute/72/348); [Pub. L. 90–578, title III, § 302(a)](https://www.govinfo.gov/link/plaw/90/public/578), Oct. 17, 1968, [82 Stat. 1115](https://www.govinfo.gov/link/statute/82/1115); [Pub. L. 96–82, § 7(a)](https://www.govinfo.gov/link/plaw/96/public/82), (b), Oct. 10, 1979, [93 Stat. 645](https://www.govinfo.gov/link/statute/93/645), 646; [Pub. L. 98–473, title II, § 223(j)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2029](https://www.govinfo.gov/link/statute/98/2029); [Pub. L. 100–690, title VII, § 7072(a)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4405](https://www.govinfo.gov/link/statute/102/4405); [Pub. L. 101–650, title III, § 321](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5117](https://www.govinfo.gov/link/statute/104/5117); [Pub. L. 102–572, title I, § 103](https://www.govinfo.gov/link/plaw/102/public/572), Oct. 29, 1992, [106 Stat. 4507](https://www.govinfo.gov/link/statute/106/4507); [Pub. L. 104–317, title II, § 202(a)](https://www.govinfo.gov/link/plaw/104/public/317), Oct. 19, 1996, [110 Stat. 3848](https://www.govinfo.gov/link/statute/110/3848); [Pub. L. 106–518, title II, § 203(a)](https://www.govinfo.gov/link/plaw/106/public/518), Nov. 13, 2000, [114 Stat. 2414](https://www.govinfo.gov/link/statute/114/2414).)*

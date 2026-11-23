@@ -3,9 +3,10 @@ title: "Section 4416 - Staff of Institute"
 usc_title: 20
 usc_section: "4416"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 4416"
-generated_at: "2026-03-30T02:54:48.184Z"
+generated_at: "2026-11-23T20:26:14.766Z"
+status: "active"
 ---
 
 # § 4416. Staff of Institute
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:54:48.184Z"
   - **(2)** Any individual who makes an election under paragraph (1) to continue to be subject to subchapter III of chapter 83 of title 5 or chapter 84 of such title shall, so long as continually employed by the Institute without a break in service subject to such subchapter or such chapter 84, as the case may be, continue to be treated as an employee subject to such subchapter or such chapter 84, as the case may be. Employment by the Institute without a break of continuity in service shall be considered to be employment by the United States Government for the purpose of such subchapter or such chapter 84, as the case may be. The Institute shall be responsible for making the contributions required to be made by an employing agency under such subchapter or such chapter 84, as the case may be.
 - **(h)** The Institute shall be considered an agency for the purpose of chapter 71 of title 5.
 - **(i)** Employees of the Institute shall receive compensation for work injuries and illnesses in accordance with chapter 81 of title 5.
+
+## Source Credit
+
+*([Pub. L. 99–498, title XV, § 1509](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1604](https://www.govinfo.gov/link/statute/100/1604); [Pub. L. 100–297, title V, § 5406(a)](https://www.govinfo.gov/link/plaw/100/public/297), Apr. 28, 1988, [102 Stat. 417](https://www.govinfo.gov/link/statute/102/417); [Pub. L. 102–325, title XIII, § 1331(c)](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 806](https://www.govinfo.gov/link/statute/106/806); [Pub. L. 103–382, title III, § 386(a)](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 4020](https://www.govinfo.gov/link/statute/108/4020).)*

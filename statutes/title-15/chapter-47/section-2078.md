@@ -3,9 +3,10 @@ title: "Section 2078 - Cooperation with States and other Federal agencies"
 usc_title: 15
 usc_section: "2078"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2078"
-generated_at: "2026-03-30T02:54:08.165Z"
+generated_at: "2026-11-23T20:26:04.166Z"
+status: "active"
 ---
 
 # § 2078. Cooperation with States and other Federal agencies
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:54:08.165Z"
     - **(A)** any agency or judicial authority of a foreign government, including a foreign state, a political subdivision of a foreign state, or a multinational organization constituted by and comprised of foreign states, that is vested with law enforcement or investigative authority in civil, criminal, or administrative matters; and
     - **(B)** any multinational organization, to the extent that it is acting on behalf of an entity described in subparagraph (A).
 - **(g)** Whenever the Commission is notified of any voluntary corrective action taken by a manufacturer (or a retailer in the case of a retailer selling a product under its own label) in consultation with the Commission, or issues an order under section 2064(c) or (d) of this title with respect to any product, the Commission shall notify each State’s health department (or other agency designated by the State) of such voluntary corrective action or order.
+
+## Source Credit
+
+*([Pub. L. 92–573, § 29](https://www.govinfo.gov/link/plaw/92/public/573), Oct. 27, 1972, [86 Stat. 1230](https://www.govinfo.gov/link/statute/86/1230); [Pub. L. 94–284, § 15](https://www.govinfo.gov/link/plaw/94/public/284), May 11, 1976, [90 Stat. 510](https://www.govinfo.gov/link/statute/90/510); [Pub. L. 100–418, title V, § 5115(c)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1433](https://www.govinfo.gov/link/statute/102/1433); [Pub. L. 110–314, title II](https://www.govinfo.gov/link/plaw/110/public/314), §§ 207, 235(c)(7), Aug. 14, 2008, [122 Stat. 3044](https://www.govinfo.gov/link/statute/122/3044), 3075.)*

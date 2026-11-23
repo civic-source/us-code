@@ -3,9 +3,10 @@ title: "Section 1382b - Resources"
 usc_title: 42
 usc_section: "1382b"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1382b"
-generated_at: "2026-03-30T02:56:10.928Z"
+generated_at: "2026-11-23T20:27:21.059Z"
+status: "active"
 ---
 
 # § 1382b. Resources
@@ -110,3 +111,7 @@ generated_at: "2026-03-30T02:56:10.928Z"
         - **(I)** the individual or spouse;
         - **(II)** a person or entity (including a court) with legal authority to act in place of, or on behalf of, the individual or spouse; or
         - **(III)** a person or entity (including a court) acting at the direction of, or on the request of, the individual or spouse.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVI, § 1613, as added [Pub. L. 92–603, title III, § 301](https://www.govinfo.gov/link/plaw/92/public/603), Oct. 30, 1972, [86 Stat. 1470](https://www.govinfo.gov/link/statute/86/1470); amended [Pub. L. 94–569, § 5](https://www.govinfo.gov/link/plaw/94/public/569), Oct. 20, 1976, [90 Stat. 2700](https://www.govinfo.gov/link/statute/90/2700); [Pub. L. 95–171, § 9(a)](https://www.govinfo.gov/link/plaw/95/public/171), Nov. 12, 1977, [91 Stat. 1355](https://www.govinfo.gov/link/statute/91/1355); [Pub. L. 96–611, § 5(a)](https://www.govinfo.gov/link/plaw/96/public/611), Dec. 28, 1980, [94 Stat. 3567](https://www.govinfo.gov/link/statute/94/3567); [Pub. L. 97–248, title I, § 185(a)](https://www.govinfo.gov/link/plaw/97/public/248), (b), Sept. 3, 1982, [96 Stat. 406](https://www.govinfo.gov/link/statute/96/406); [Pub. L. 98–369, div. B, title VI](https://www.govinfo.gov/link/plaw/98/public/369), §§ 2614, 2663(g)(5), July 18, 1984, [98 Stat. 1132](https://www.govinfo.gov/link/statute/98/1132), 1168; [Pub. L. 100–203, title IX](https://www.govinfo.gov/link/plaw/100/public/203), §§ 9103(a), 9104(a), 9105(a), 9114(a), Dec. 22, 1987, [101 Stat. 1330–301](https://www.govinfo.gov/link/statute/101/1330), 1330–304; [Pub. L. 100–360, title III, § 303(c)(1)](https://www.govinfo.gov/link/plaw/100/public/360), July 1, 1988, [102 Stat. 762](https://www.govinfo.gov/link/statute/102/762); [Pub. L. 100–647, title VIII, § 8103(b)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3795](https://www.govinfo.gov/link/statute/102/3795); [Pub. L. 101–239, title VIII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 8013(b), 8014(a), Dec. 19, 1989, [103 Stat. 2465](https://www.govinfo.gov/link/statute/103/2465); [Pub. L. 101–508, title V](https://www.govinfo.gov/link/plaw/101/public/508), §§ 5031(b), 5035(b), title XI, § 11115(b)(2), Nov. 5, 1990, [104 Stat. 1388–224](https://www.govinfo.gov/link/statute/104/1388), 1388–225, 1388–414; [Pub. L. 103–296, title I, § 107(a)(4)](https://www.govinfo.gov/link/plaw/103/public/296), title III, § 321(h)(2), Aug. 15, 1994, [108 Stat. 1478](https://www.govinfo.gov/link/statute/108/1478), 1544; [Pub. L. 104–193, title II, § 213(b)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2195](https://www.govinfo.gov/link/statute/110/2195); [Pub. L. 105–306, § 7(b)](https://www.govinfo.gov/link/plaw/105/public/306), Oct. 28, 1998, [112 Stat. 2928](https://www.govinfo.gov/link/statute/112/2928); [Pub. L. 106–169, title II](https://www.govinfo.gov/link/plaw/106/public/169), §§ 205(a), 206(a), Dec. 14, 1999, [113 Stat. 1833](https://www.govinfo.gov/link/statute/113/1833), 1834; [Pub. L. 108–203, title I, § 101(c)(2)](https://www.govinfo.gov/link/plaw/108/public/203), title IV, §§ 431(a), (b), 435(b), Mar. 2, 2004, [118 Stat. 496](https://www.govinfo.gov/link/statute/118/496), 539, 540; [Pub. L. 110–245, title II, § 202(b)](https://www.govinfo.gov/link/plaw/110/public/245), June 17, 2008, [122 Stat. 1637](https://www.govinfo.gov/link/statute/122/1637); [Pub. L. 111–255, § 3(b)](https://www.govinfo.gov/link/plaw/111/public/255), (e), Oct. 5, 2010, [124 Stat. 2641](https://www.govinfo.gov/link/statute/124/2641); [Pub. L. 114–63, § 2](https://www.govinfo.gov/link/plaw/114/public/63), Oct. 7, 2015, [129 Stat. 549](https://www.govinfo.gov/link/statute/129/549).)*

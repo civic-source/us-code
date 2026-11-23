@@ -3,9 +3,10 @@ title: "Section 12708 - Compliance"
 usc_title: 42
 usc_section: "12708"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12708"
-generated_at: "2026-03-30T02:56:11.430Z"
+generated_at: "2026-11-23T20:27:23.429Z"
+status: "active"
 ---
 
 # § 12708. Compliance
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.430Z"
     - **(D)** efforts to ensure that housing assisted under programs administered by the Secretary are in compliance with contractual agreements and the requirements of law.
   - **(2)** The Secretary shall report on the performance review in writing. The Secretary shall give the jurisdiction not less than 30 days to review and comment on the report. After taking into consideration the comments of the jurisdiction, the Secretary may revise the report and shall make the jurisdiction’s comments and the report, with any revisions, readily available to the public within 30 days after receipt of the jurisdiction’s comments.
 - **(c)** The adequacy of information submitted under section 12705(b)(4) of this title shall not be reviewable by any Federal, State, or other court. Review of a housing strategy by any Federal, State, or other court shall be limited to determining whether the process of development and the content of the strategy are in substantial compliance with the requirements of this Act. During the pendency of any action challenging the adequacy of a housing strategy or the action of the Secretary in approving a strategy, the court shall not have the authority to enjoin activities taken by the jurisdiction to implement an approved housing strategy. Any housing assisted during the pendency of such action shall not be subject to any order of the court resulting from such action.
+
+## Source Credit
+
+*([Pub. L. 101–625, title I, § 108](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4092](https://www.govinfo.gov/link/statute/104/4092).)*

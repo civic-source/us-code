@@ -3,9 +3,10 @@ title: "Section 3108 - Consultations"
 usc_title: 19
 usc_section: "3108"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3108"
-generated_at: "2026-03-30T02:54:24.688Z"
+generated_at: "2026-11-23T20:26:11.033Z"
+status: "active"
 ---
 
 # § 3108. Consultations
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:24.688Z"
   - **(2)** the assessment of negotiating prospects, both bilateral and multilateral; and
   - **(3)** any United States concessions which might be included in negotiations to achieve the objectives described in subsections (c) and (d) of section 3104 of this title .
 - **(d)** Before the President takes any action under section 3104(b)(2)(A) of this title to refine or modify specific negotiating objectives, the President shall consult with the Congress and with members of the industry, and representatives of labor, affected by the proposed refinement or modification.
+
+## Source Credit
+
+*([Pub. L. 100–418, title I, § 1379](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1223](https://www.govinfo.gov/link/statute/102/1223).)*

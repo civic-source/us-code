@@ -3,12 +3,17 @@ title: "Section 2604 - Rules and regulations generally; consultation and agreeme
 usc_title: 43
 usc_section: "2604"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 2604"
-generated_at: "2026-03-30T02:55:57.498Z"
+generated_at: "2026-11-23T20:27:06.415Z"
+status: "active"
 ---
 
 # § 2604. Rules and regulations generally; consultation and agreements with other agencies regarding fire regulations
 
 The Secretary of the Interior is authorized to perform any and all acts and to make such rules and regulations as may be necessary and proper for the purpose of carrying the provisions of this subchapter into full force and effect. The Secretary of the Interior is further authorized, in formulating forest-practice rules and regulations, to consult with the Oregon State Board of Forestry, representatives of timber owners and operators on or contiguous to said revested and reconveyed lands, and other persons or agencies interested in the use of such lands. In formulating regulations for the protection of such timberlands against fire, the Secretary is authorized, in his discretion, to consult and advise with Federal, State, and county agencies engaged in forest-fire-protection work, and to make agreements with such agencies for the cooperative administration of fire regulations therein: Provided , That rules and regulations for the protection of the revested lands from fire shall conform with the requirements and practices of the State of Oregon insofar as the same are consistent with the interests of the United States.
 
+
+## Source Credit
+
+*(Aug. 28, 1937, ch. 876, title I, § 5, [50 Stat. 875](https://www.govinfo.gov/link/statute/50/875).)*

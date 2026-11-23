@@ -3,9 +3,10 @@ title: "Section 3702 - Definitions"
 usc_title: 39
 usc_section: "3702"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "39 U.S.C. § 3702"
-generated_at: "2026-03-30T02:55:43.695Z"
+generated_at: "2026-11-23T20:26:57.762Z"
+status: "active"
 ---
 
 # § 3702. Definitions
@@ -19,3 +20,7 @@ In this chapter—
   - **(5)** the term “State government” includes the government of the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States;
   - **(6)** the term “tribal government” means the government of an Indian tribe, as that term is defined in section 4 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5304 ); and
   - **(7)** the term “United States”, when used in a geographical sense, means the States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States.
+
+## Source Credit
+
+*(Added [Pub. L. 117–108, title I, § 103(a)(1)](https://www.govinfo.gov/link/plaw/117/public/108), Apr. 6, 2022, [136 Stat. 1140](https://www.govinfo.gov/link/statute/136/1140).)*

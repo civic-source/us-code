@@ -3,9 +3,10 @@ title: "Section 2780 - Transactions with countries supporting acts of internatio
 usc_title: 22
 usc_section: "2780"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2780"
-generated_at: "2026-03-30T02:55:05.387Z"
+generated_at: "2026-11-23T20:26:32.426Z"
+status: "active"
 ---
 
 # § 2780. Transactions with countries supporting acts of international terrorism
@@ -74,3 +75,11 @@ generated_at: "2026-03-30T02:55:05.387Z"
       - **(ii)** is otherwise subject to the jurisdiction of the United States,
   - **(4)** the term “nuclear explosive device” has the meaning given that term in section 6305(4) of this title ; and
   - **(5)** the term “unsafeguarded special nuclear material” has the meaning given that term in section 6305(8) of this title .
+
+Prohibition
+
+Waiver
+
+## Source Credit
+
+*([Pub. L. 90–629](https://www.govinfo.gov/link/plaw/90/public/629), ch. 3, § 40, as added [Pub. L. 99–399, title V, § 509(a)](https://www.govinfo.gov/link/plaw/99/public/399), Aug. 27, 1986, [100 Stat. 874](https://www.govinfo.gov/link/statute/100/874); amended [Pub. L. 101–222, § 2(a)](https://www.govinfo.gov/link/plaw/101/public/222), Dec. 12, 1989, [103 Stat. 1892](https://www.govinfo.gov/link/statute/103/1892); [Pub. L. 102–138, title III, § 321](https://www.govinfo.gov/link/plaw/102/public/138), Oct. 28, 1991, [105 Stat. 710](https://www.govinfo.gov/link/statute/105/710); [Pub. L. 103–236, title VIII, § 822(a)(2)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 511](https://www.govinfo.gov/link/statute/108/511); [Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XIII, § 1303]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–511; [Pub. L. 107–228, div. B, title XII, § 1204](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1427](https://www.govinfo.gov/link/statute/116/1427); [Pub. L. 111–195, title I, § 107(a)(3)](https://www.govinfo.gov/link/plaw/111/public/195), July 1, 2010, [124 Stat. 1337](https://www.govinfo.gov/link/statute/124/1337); [Pub. L. 113–276, title II, § 208(a)(1)](https://www.govinfo.gov/link/plaw/113/public/276), Dec. 18, 2014, [128 Stat. 2992](https://www.govinfo.gov/link/statute/128/2992).)*

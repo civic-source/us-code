@@ -3,9 +3,10 @@ title: "Section 954 - National Endowment for the Arts"
 usc_title: 20
 usc_section: "954"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 954"
-generated_at: "2026-03-30T02:54:48.087Z"
+generated_at: "2026-11-23T20:26:14.276Z"
+status: "active"
 ---
 
 # § 954. National Endowment for the Arts
@@ -111,3 +112,7 @@ generated_at: "2026-03-30T02:54:48.087Z"
   - **(3)** The total amount of any payment made under this subsection for a program or project may not exceed 50 per centum of the cost of such program or project.
   - **(4)** In carrying out the program authorized by this subsection, the Chairperson of the National Endowment for the Arts shall have the same authority as is established in subsection (c) and section 959 of this title .
 - **(q)** The Chairperson of the National Endowment for the Arts shall, in ongoing consultation with State and local agencies, relevant organizations, and relevant Federal agencies, continue to develop and implement a practical system of national information and data collection and public dissemination on the arts, artists and arts groups, and their audiences. Such system shall include artistic and financial trends in the various artistic fields, trends in audience participation, and trends in arts education on national, regional, and State levels. Such system shall also include information regarding the availability of the arts to various audience segments, including rural communities. Such system shall be used, along with a summary of the data submitted with State plans under subsection (g), to prepare a periodic report on the state of the arts in the Nation. The state of the arts report shall include a description of the availability of the Endowment’s programs to emerging, rural, and culturally diverse artists, arts organizations, and communities and of the participation by such artists, organizations, and communities in such programs. The state of the arts report shall be submitted to the President and the Congress, and provided to the States, not later than October 1, 1992 , and quadrennially thereafter.
+
+## Source Credit
+
+*([Pub. L. 89–209, § 5](https://www.govinfo.gov/link/plaw/89/public/209), Sept. 29, 1965, [79 Stat. 846](https://www.govinfo.gov/link/statute/79/846); [Pub. L. 90–83, § 10(b)](https://www.govinfo.gov/link/plaw/90/public/83), Sept. 11, 1967, [81 Stat. 223](https://www.govinfo.gov/link/statute/81/223); [Pub. L. 90–348](https://www.govinfo.gov/link/plaw/90/public/348), §§ 2, 3, June 18, 1968, [82 Stat. 185](https://www.govinfo.gov/link/statute/82/185); [Pub. L. 91–346](https://www.govinfo.gov/link/plaw/91/public/346), §§ 4, 5(a)(1), (2), 6, 7, July 20, 1970, [84 Stat. 443](https://www.govinfo.gov/link/statute/84/443), 445; [Pub. L. 93–133, § 2(a)(3)](https://www.govinfo.gov/link/plaw/93/public/133), (4), Oct. 19, 1973, [87 Stat. 462](https://www.govinfo.gov/link/statute/87/462); [Pub. L. 94–462, title I](https://www.govinfo.gov/link/plaw/94/public/462), §§ 101, 102, title III, § 301(a), title IV, § 401(a), Oct. 8, 1976, [90 Stat. 1971](https://www.govinfo.gov/link/statute/90/1971), 1978, 1980; [Pub. L. 96–496, title I](https://www.govinfo.gov/link/plaw/96/public/496), §§ 102, 109(a), (b), Dec. 4, 1980, [94 Stat. 2583](https://www.govinfo.gov/link/statute/94/2583), 2591; renumbered title I, § 5, [Pub. L. 98–306, § 2](https://www.govinfo.gov/link/plaw/98/public/306), May 31, 1984, [98 Stat. 223](https://www.govinfo.gov/link/statute/98/223); renumbered § 5 and amended [Pub. L. 99–194, title I](https://www.govinfo.gov/link/plaw/99/public/194), §§ 101(1), 105, Dec. 20, 1985, [99 Stat. 1332](https://www.govinfo.gov/link/statute/99/1332), 1333; [Pub. L. 101–512, title III, § 318 [title I, §§ 103(a)–(i)(1), 104]](https://www.govinfo.gov/link/plaw/101/public/512), Nov. 5, 1990, [104 Stat. 1960](https://www.govinfo.gov/link/statute/104/1960), 1963–1966; [Pub. L. 113–76, div. G, title IV, § 416](https://www.govinfo.gov/link/plaw/113/public/76), Jan. 17, 2014, [128 Stat. 341](https://www.govinfo.gov/link/statute/128/341).)*

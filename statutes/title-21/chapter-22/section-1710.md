@@ -3,9 +3,10 @@ title: "Section 1710 - Drug Interdiction Coordinator and Committee"
 usc_title: 21
 usc_section: "1710"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 1710"
-generated_at: "2026-03-30T02:54:54.307Z"
+generated_at: "2026-11-23T20:26:27.895Z"
+status: "active"
 ---
 
 # § 1710. Drug Interdiction Coordinator and Committee
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:54:54.307Z"
   - **(3)** The members of the Interdiction Committee shall meet, in person and not through any delegate or representative, at least once per calendar year, before June 1. At the call of the Director or the Chairperson, the Interdiction Committee may hold additional meetings, which shall be attended by the members in person, or through such delegates or representatives as the members may choose.
   - **(4)** Not later than September 30 of each year, the Chairperson of the Interdiction Committee shall submit to the Director and to the appropriate congressional committees a report describing the results of the meetings and any significant findings of the Committee during the previous 12 months. The report required under this paragraph shall be in unclassified form, but may include a classified annex.
 - **(c)** The Director may facilitate international drug control coordination efforts.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. C, title VII, § 711](https://www.govinfo.gov/link/plaw/105/public/277), as added [Pub. L. 109–469, title I, § 103(f)(1)](https://www.govinfo.gov/link/plaw/109/public/469), Dec. 29, 2006, [120 Stat. 3507](https://www.govinfo.gov/link/statute/120/3507); amended [Pub. L. 105–277, div. C, title VII, § 715](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–693](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 109–469, title VI, § 602](https://www.govinfo.gov/link/plaw/109/public/469), Dec. 29, 2006, [120 Stat. 3533](https://www.govinfo.gov/link/statute/120/3533); [Pub. L. 115–271, title VIII](https://www.govinfo.gov/link/plaw/115/public/271), §§ 8202(a), (b)(2), 8219, Oct. 24, 2018, [132 Stat. 4110](https://www.govinfo.gov/link/statute/132/4110), 4132.)*

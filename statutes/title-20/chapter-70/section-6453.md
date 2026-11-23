@@ -3,9 +3,10 @@ title: "Section 6453 - Local educational agency applications"
 usc_title: 20
 usc_section: "6453"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 6453"
-generated_at: "2026-03-30T02:54:48.199Z"
+generated_at: "2026-11-23T20:26:14.845Z"
+status: "active"
 ---
 
 # § 6453. Local educational agency applications
@@ -27,3 +28,7 @@ Each local educational agency desiring assistance under this subpart shall submi
   - **(11)** as appropriate, a description of how schools will work with probation officers to assist in meeting the needs of children and youth returning from correctional facilities;
   - **(12)** a description of the efforts participating schools will make to ensure correctional facilities working with children and youth are aware of a child’s or youth’s existing individualized education program; and
   - **(13)** as appropriate, a description of the steps participating schools will take to find alternative placements for children and youth interested in continuing their education but unable to participate in a traditional public school program.
+
+## Source Credit
+
+*([Pub. L. 89–10, title I, § 1423](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 107–110, title I, § 101](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1588](https://www.govinfo.gov/link/statute/115/1588); amended [Pub. L. 113–128, title V, § 512(i)(3)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1708](https://www.govinfo.gov/link/statute/128/1708); [Pub. L. 114–95, title I, § 1401(10)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1903](https://www.govinfo.gov/link/statute/129/1903).)*

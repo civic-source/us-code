@@ -3,9 +3,10 @@ title: "Section 818 - Art. 18. Jurisdiction of general courts-martial"
 usc_title: 10
 usc_section: "818"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 818"
-generated_at: "2026-03-30T02:53:38.078Z"
+generated_at: "2026-11-23T20:25:51.062Z"
+status: "active"
 ---
 
 # § 818. Art. 18. Jurisdiction of general courts-martial
@@ -16,3 +17,20 @@ generated_at: "2026-03-30T02:53:38.078Z"
   - **(1)** A violation of subsection (a) or (b) of section 920 of this title (article 120).
   - **(2)** A violation of subsection (a) or (b) of section 920b of this title (article 120b).
   - **(3)** An attempt to commit an offense specified in paragraph (1) or (2) that is punishable under section 880 of this title (article 80).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 818 | 50:578. | May 5, 1950, ch. 169, § 1 (Art. 18), 64 Stat. 114 . |
+
+
+Historical and Revision Notes
+
+818
+
+May 5, 1950, ch. 169, § 1
+
+64 Stat. 114
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 43; [Pub. L. 90–632, § 2(4)](https://www.govinfo.gov/link/plaw/90/public/632), Oct. 24, 1968, [82 Stat. 1335](https://www.govinfo.gov/link/statute/82/1335); [Pub. L. 113–66, div. A, title XVII, § 1705(b)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 959](https://www.govinfo.gov/link/statute/127/959); [Pub. L. 114–328, div. E, title LIV, § 5162](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2898](https://www.govinfo.gov/link/statute/130/2898).)*

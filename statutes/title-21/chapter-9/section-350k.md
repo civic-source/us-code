@@ -3,9 +3,10 @@ title: "Section 350k - Laboratory accreditation for analyses of foods"
 usc_title: 21
 usc_section: "350k"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 350k"
-generated_at: "2026-03-30T02:54:54.228Z"
+generated_at: "2026-11-23T20:26:27.550Z"
+status: "active"
 ---
 
 # § 350k. Laboratory accreditation for analyses of foods
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:54:54.228Z"
     - **(B)** the use of such methodology or methodologies are necessary to prevent, control, or mitigate a food emergency or foodborne illness outbreak.
 - **(c)** If food sampling and testing performed by a laboratory run and operated by a State or locality that is accredited by a recognized accreditation body on the registry established by the Secretary under subsection (a) result in a State recalling a food, the Secretary shall review the sampling and testing results for the purpose of determining the need for a national recall or other compliance and enforcement activities.
 - **(d)** Nothing in this section shall be construed to limit the ability of the Secretary to review and act upon information from food testing, including determining the sufficiency of such information and testing.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 422, as added [Pub. L. 111–353, title II, § 202(a)](https://www.govinfo.gov/link/plaw/111/public/353), Jan. 4, 2011, [124 Stat. 3926](https://www.govinfo.gov/link/statute/124/3926).)*

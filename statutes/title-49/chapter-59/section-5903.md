@@ -3,9 +3,10 @@ title: "Section 5903 - Prohibitions"
 usc_title: 49
 usc_section: "5903"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 5903"
-generated_at: "2026-03-30T02:56:19.320Z"
+generated_at: "2026-11-23T20:27:34.695Z"
+status: "active"
 ---
 
 # § 5903. Prohibitions
@@ -24,3 +25,40 @@ generated_at: "2026-03-30T02:56:19.320Z"
     - **(C)** the notice required by this subsection shall be in writing, but may be transmitted electronically; and
     - **(D)** the motor carrier shall bear the burden of proof to establish that it tendered the required notice to the operator.
   - **(2)** If the operator of a leased vehicle transporting a container or trailer subject to this chapter is fined because of a violation of a State’s gross vehicle weight laws or regulations and the lessee motor carrier cannot establish that it tendered to the operator the notice required by paragraph (1) of this subsection, then the operator shall be entitled to reimbursement from the motor carrier in the amount of any fine and court costs resulting from the failure of the motor carrier to tender the notice to the operator.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5903(a) | 49:508(a)(3) (related to violations). |  |
+| 5903(b) | 49:508(d). |  |
+| 5903(c) | 49:508(c). |  |
+
+
+Providing Erroneous Information
+
+Transporting Prior to Receiving Certification.—
+
+Presumption
+
+Copy of certification not required to accompany container or trailer
+
+Unlawful Coercion
+
+Notice to Leased Operators.—
+
+In general
+
+Reimbursement
+
+Historical and Revision Notes
+
+5903(a)
+
+5903(b)
+
+5903(c)
+
+Transporting Prior To Receiving Certification
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 860](https://www.govinfo.gov/link/statute/108/860); [Pub. L. 104–291, title II, § 205](https://www.govinfo.gov/link/plaw/104/public/291), Oct. 11, 1996, [110 Stat. 3456](https://www.govinfo.gov/link/statute/110/3456).)*

@@ -3,9 +3,10 @@ title: "Section 160c - Acquisition of improved property"
 usc_title: 16
 usc_section: "160c"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 160c"
-generated_at: "2026-03-30T02:54:22.736Z"
+generated_at: "2026-11-23T20:26:19.375Z"
+status: "active"
 ---
 
 # § 160c. Acquisition of improved property
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:22.736Z"
 - **(b)** If the State of Minnesota donates to the United States any lands within the boundaries of the park subject to an outstanding lease on which the lessee began construction of a noncommercial or recreational residential dwelling prior to January 1, 1969 , the Secretary may grant to such lessee a right of use and occupancy for such period of time as the Secretary, in his discretion, shall determine: Provided , That no such right of use and occupancy shall be granted, extended, or continue after ten years from the date of the establishment of the park.
 - **(c)** Any right of use and occupancy retained or granted pursuant to this section shall be subject to termination by the Secretary upon his determination that such use and occupancy is being exercised in a manner not consistent with the purposes of this subchapter or upon his determination that the property is required for the proper administration of the park. The Secretary shall tender to the holder of the right so terminated an amount equal to the fair market value of that portion of the right which remains unexpired on the date of termination.
 - **(d)** The term “improved property”, as used in this section, shall mean a detached, noncommercial residential dwelling, the construction of which was begun before January 1, 1969 , together with so much of the land on which the dwelling is situated, the said land being in the same ownership as the dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated.
+
+## Source Credit
+
+*([Pub. L. 91–661, § 202](https://www.govinfo.gov/link/plaw/91/public/661), Jan. 8, 1971, [84 Stat. 1971](https://www.govinfo.gov/link/statute/84/1971).)*

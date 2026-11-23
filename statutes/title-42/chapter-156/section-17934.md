@@ -3,9 +3,10 @@ title: "Section 17934 - Application of privacy provisions and penalties to busin
 usc_title: 42
 usc_section: "17934"
 chapter: 156
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17934"
-generated_at: "2026-03-30T02:56:11.510Z"
+generated_at: "2026-11-23T20:27:23.766Z"
+status: "active"
 ---
 
 # § 17934. Application of privacy provisions and penalties to business associates of covered entities
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:56:11.510Z"
 - **(a)** In the case of a business associate of a covered entity that obtains or creates protected health information pursuant to a written contract (or other written arrangement) described in section 164.502(e)(2) of title 45, Code of Federal Regulations, with such covered entity, the business associate may use and disclose such protected health information only if such use or disclosure, respectively, is in compliance with each applicable requirement of section 164.504(e) of such title. The additional requirements of this subchapter that relate to privacy and that are made applicable with respect to covered entities shall also be applicable to such a business associate and shall be incorporated into the business associate agreement between the business associate and the covered entity.
 - **(b)** Section 164.504(e)(1)(ii) of title 45, Code of Federal Regulations, shall apply to a business associate described in subsection (a), with respect to compliance with such subsection, in the same manner that such section applies to a covered entity, with respect to compliance with the standards in sections 164.502(e) and 164.504(e) of such title, except that in applying such section 164.504(e)(1)(ii) each reference to the business associate, with respect to a contract, shall be treated as a reference to the covered entity involved in such contract.
 - **(c)** In the case of a business associate that violates any provision of subsection (a) or (b), the provisions of sections 1176 and 1177 of the Social Security Act ( 42 U.S.C. 1320d–5 , 1320d–6) shall apply to the business associate with respect to such violation in the same manner as such provisions apply to a person who violates a provision of part C of title XI of such Act [ 42 U.S.C. 1320d et seq.].
+
+## Source Credit
+
+*([Pub. L. 111–5, div. A, title XIII, § 13404](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 264](https://www.govinfo.gov/link/statute/123/264).)*

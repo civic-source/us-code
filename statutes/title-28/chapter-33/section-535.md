@@ -3,9 +3,10 @@ title: "Section 535 - Investigation of crimes involving Government officers and 
 usc_title: 28
 usc_section: "535"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 535"
-generated_at: "2026-03-30T02:55:30.131Z"
+generated_at: "2026-11-23T20:26:36.374Z"
+status: "active"
 ---
 
 # § 535. Investigation of crimes involving Government officers and employees; limitations
@@ -19,3 +20,20 @@ generated_at: "2026-03-30T02:55:30.131Z"
 - **(c)** This section does not limit—
   - **(1)** the authority of the military departments to investigate persons or offenses over which the armed forces have jurisdiction under the Uniform Code of Military Justice (chapter 47 of title 10); or
   - **(2)** the primary authority of the Postmaster General to investigate postal offenses.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 311a . | Aug. 31, 1954, ch. 1143, § 1 , 68 Stat. 998 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 311a
+
+Aug. 31, 1954, ch. 1143, § 1
+
+68 Stat. 998
+
+## Source Credit
+
+*(Added [Pub. L. 89–554, § 4(c)](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 616](https://www.govinfo.gov/link/statute/80/616); amended [Pub. L. 107–273, div. A, title II, § 206](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1779](https://www.govinfo.gov/link/statute/116/1779).)*

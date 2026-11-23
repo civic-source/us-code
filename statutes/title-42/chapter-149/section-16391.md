@@ -3,9 +3,10 @@ title: "Section 16391 - Improved technology transfer of energy technologies"
 usc_title: 42
 usc_section: "16391"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16391"
-generated_at: "2026-03-30T02:56:11.485Z"
+generated_at: "2026-11-23T20:27:23.678Z"
+status: "active"
 ---
 
 # § 16391. Improved technology transfer of energy technologies
@@ -70,3 +71,29 @@ generated_at: "2026-03-30T02:56:11.485Z"
   - **(5)** encourage students, energy researchers, and national laboratory employees to develop entrepreneurial skillsets and engage in entrepreneurial opportunities;
   - **(6)** support private companies and individuals in partnering with National Laboratories; and
   - **(7)** further support the mission and goals of the Office.
+
+Pilot Program.—
+
+In general
+
+Purposes
+
+Activities
+
+Metrics
+
+Coordination
+
+Funding Employee Partnering Activities
+
+Duration
+
+Evaluation
+
+Definition
+
+Authorization of Appropriations
+
+## Source Credit
+
+*([Pub. L. 109–58, title X, § 1001](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 926](https://www.govinfo.gov/link/statute/119/926); [Pub. L. 113–291, div. C, title XXXI, § 3144](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3902](https://www.govinfo.gov/link/statute/128/3902); [Pub. L. 115–246, title I, § 102](https://www.govinfo.gov/link/plaw/115/public/246), Sept. 28, 2018, [132 Stat. 3131](https://www.govinfo.gov/link/statute/132/3131); [Pub. L. 116–260, div. Z, title IX](https://www.govinfo.gov/link/plaw/116/public/260), §§ 9001, 9003, Dec. 27, 2020, [134 Stat. 2595](https://www.govinfo.gov/link/statute/134/2595), 2597; [Pub. L. 117–58, div. D, title XII, § 41201(i)](https://www.govinfo.gov/link/plaw/117/public/58), formerly § 41201(g), Nov. 15, 2021, [135 Stat. 1131](https://www.govinfo.gov/link/statute/135/1131), renumbered § 41201(i), [Pub. L. 117–167, div. B, title VI, § 10723(3)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1709](https://www.govinfo.gov/link/statute/136/1709); [Pub. L. 117–167, div. B, title VI, § 10722](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1708](https://www.govinfo.gov/link/statute/136/1708).)*

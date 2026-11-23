@@ -3,9 +3,10 @@ title: "Section 1605 - Alaska Native Fund"
 usc_title: 43
 usc_section: "1605"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1605"
-generated_at: "2026-03-30T02:55:57.478Z"
+generated_at: "2026-11-23T20:27:06.318Z"
+status: "active"
 ---
 
 # § 1605. Alaska Native Fund
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:57.478Z"
   - **(3)** $500,000,000 pursuant to the revenue sharing provisions of section 1608 of this title .
 - **(b)** None of the funds paid or distributed pursuant to this section to any of the Regional and Village Corporations established pursuant to this chapter shall be expended, donated, or otherwise used for the purpose of carrying on propaganda, or intervening in (including the publishing and distributing of statements) any political campaign on behalf of any candidate for public office. Any person who willfully violates the foregoing provision shall be guilty of a misdemeanor and, upon conviction thereof, shall be fined not more than $1,000 or imprisoned not more than twelve months, or both.
 - **(c)** After completion of the roll prepared pursuant to section 1604 of this title , all money in the Fund, except money reserved as provided in section 1619 of this title for the payment of attorney and other fees, shall be distributed at the end of each three months of the fiscal year among the Regional Corporations organized pursuant to section 1606 of this title on the basis of the relative numbers of Natives enrolled in each region. The share of a Regional Corporation that has not been organized shall be retained in the Fund until the Regional Corporation is organized.
+
+## Source Credit
+
+*([Pub. L. 92–203, § 6](https://www.govinfo.gov/link/plaw/92/public/203), Dec. 18, 1971, [85 Stat. 690](https://www.govinfo.gov/link/statute/85/690); [Pub. L. 94–273, § 38](https://www.govinfo.gov/link/plaw/94/public/273), Apr. 21, 1976, [90 Stat. 380](https://www.govinfo.gov/link/statute/90/380).)*

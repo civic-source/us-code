@@ -3,9 +3,10 @@ title: "Section 6117 - Annual assessments and reports to the President and Congr
 usc_title: 10
 usc_section: "6117"
 chapter: 602
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6117"
-generated_at: "2026-03-30T02:53:38.218Z"
+generated_at: "2026-11-23T20:25:52.011Z"
+status: "active"
 ---
 
 # § 6117. Annual assessments and reports to the President and Congress regarding the condition of the United States nuclear weapons stockpile
@@ -54,3 +55,23 @@ generated_at: "2026-03-30T02:53:38.218Z"
 - **(h)** In this section, the term “Secretary concerned” means—
   - **(1)** the Secretary of Energy, with respect to matters concerning the Department of Energy; and
   - **(2)** the Secretary of Defense, with respect to matters concerning the Department of Defense.
+
+Annual Assessments Required
+
+Covered Officials
+
+Dual Validation Teams in Support of Assessments
+
+Use of Teams of Experts for Assessments
+
+Report on Assessments
+
+Submittals to the President and Congress
+
+Classified Form
+
+Definition
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2)(B), Dec. 18, 2025, [139 Stat. 1353](https://www.govinfo.gov/link/statute/139/1353), 1462.)*

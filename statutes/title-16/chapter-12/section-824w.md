@@ -3,9 +3,10 @@ title: "Section 824w - Joint boards on economic dispatch"
 usc_title: 16
 usc_section: "824w"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 824w"
-generated_at: "2026-03-30T02:54:22.920Z"
+generated_at: "2026-11-23T20:26:20.296Z"
+status: "active"
 ---
 
 # § 824w. Joint boards on economic dispatch
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:22.920Z"
 - **(b)** The Commission shall request each State to nominate a representative for the appropriate regional joint board, and shall designate a member of the Commission to chair and participate as a member of each such board.
 - **(c)** The sole authority of each joint board convened under this section shall be to consider issues relevant to what constitutes “security constrained economic dispatch” and how such a mode of operating an electric energy system affects or enhances the reliability and affordability of service to customers in the region concerned and to make recommendations to the Commission regarding such issues.
 - **(d)** Within 1 year after August 8, 2005 , the Commission shall issue a report and submit such report to the Congress regarding the recommendations of the joint boards under this section and the Commission may consolidate the recommendations of more than one such regional joint board, including any consensus recommendations for statutory or regulatory reform.
+
+## Source Credit
+
+*(June 10, 1920, ch. 285, pt. II, § 223, as added [Pub. L. 109–58, title XII, § 1298](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 986](https://www.govinfo.gov/link/statute/119/986).)*

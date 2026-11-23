@@ -3,9 +3,10 @@ title: "Section 503 - Forfeitures"
 usc_title: 47
 usc_section: "503"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 503"
-generated_at: "2026-03-30T02:56:24.517Z"
+generated_at: "2026-11-23T20:27:28.916Z"
+status: "active"
 ---
 
 # § 503. Forfeitures
@@ -41,3 +42,9 @@ generated_at: "2026-03-30T02:56:24.517Z"
       - **(i)** more than 1 year prior to the date of issuance of the required notice or notice of apparent liability; or
       - **(ii)** prior to the date of commencement of the current term of such license,
     - **(B)** such person does not hold a broadcast station license issued under subchapter III of this chapter and if the violation charged occurred more than 1 year prior to the date of issuance of the required notice or notice of apparent liability.
+
+“The Commission [Federal Communications Commission] shall include in any press release regarding the issuance of a notice of apparent liability under section 503(b)(4) of the Communications Act of 1934 ( 47 U.S.C. 503(b)(4) ) a disclaimer informing consumers that—
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title V, § 503, [48 Stat. 1101](https://www.govinfo.gov/link/statute/48/1101); [Pub. L. 86–752, § 7(a)](https://www.govinfo.gov/link/plaw/86/public/752), Sept. 13, 1960, [74 Stat. 894](https://www.govinfo.gov/link/statute/74/894); [Pub. L. 95–234, § 2](https://www.govinfo.gov/link/plaw/95/public/234), Feb. 21, 1978, [92 Stat. 33](https://www.govinfo.gov/link/statute/92/33); [Pub. L. 96–507, § 2(b)](https://www.govinfo.gov/link/plaw/96/public/507), Dec. 8, 1980, [94 Stat. 2747](https://www.govinfo.gov/link/statute/94/2747); [Pub. L. 97–259, title I, § 124](https://www.govinfo.gov/link/plaw/97/public/259), Sept. 13, 1982, [96 Stat. 1098](https://www.govinfo.gov/link/statute/96/1098); [Pub. L. 98–214, § 4(b)](https://www.govinfo.gov/link/plaw/98/public/214), Dec. 8, 1983, [97 Stat. 1468](https://www.govinfo.gov/link/statute/97/1468); [Pub. L. 101–239, title III, § 3002(i)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2131](https://www.govinfo.gov/link/statute/103/2131); [Pub. L. 101–396, § 10](https://www.govinfo.gov/link/plaw/101/public/396), Sept. 28, 1990, [104 Stat. 851](https://www.govinfo.gov/link/statute/104/851); [Pub. L. 102–538, title II](https://www.govinfo.gov/link/plaw/102/public/538), §§ 206, 210(b), Oct. 27, 1992, [106 Stat. 3543](https://www.govinfo.gov/link/statute/106/3543), 3544; [Pub. L. 109–235, § 2](https://www.govinfo.gov/link/plaw/109/public/235), June 15, 2006, [120 Stat. 491](https://www.govinfo.gov/link/statute/120/491); [Pub. L. 110–385, title II, § 221](https://www.govinfo.gov/link/plaw/110/public/385), Oct. 10, 2008, [122 Stat. 4105](https://www.govinfo.gov/link/statute/122/4105); [Pub. L. 111–260, title I, § 104(c)](https://www.govinfo.gov/link/plaw/111/public/260), Oct. 8, 2010, [124 Stat. 2761](https://www.govinfo.gov/link/statute/124/2761).)*

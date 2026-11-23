@@ -3,9 +3,10 @@ title: "Section 3b - Contaminant standards or treatment technique guidelines"
 usc_title: 42
 usc_section: "3b"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3b"
-generated_at: "2026-03-30T02:56:10.801Z"
+generated_at: "2026-11-23T20:27:20.495Z"
+status: "active"
 ---
 
 # § 300j–3b. Contaminant standards or treatment technique guidelines
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:10.801Z"
     - **(C)** be established and applicable on a proj­ect-by-project basis; or
     - **(D)** any combination of the above.
   - **(4)** Nothing in this section shall be construed to prohibit or delay the award of any grant referred to in paragraph (1) prior to the date of promulgation of such guidelines.
+
+## Source Credit
+
+*([Pub. L. 95–477, § 7(b)](https://www.govinfo.gov/link/plaw/95/public/477), Oct. 18, 1978, [92 Stat. 1511](https://www.govinfo.gov/link/statute/92/1511).)*

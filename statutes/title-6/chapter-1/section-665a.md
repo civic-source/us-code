@@ -3,9 +3,10 @@ title: "Section 665a - Intelligence and cybersecurity diversity fellowship progr
 usc_title: 6
 usc_section: "665a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 665a"
-generated_at: "2026-03-30T02:53:09.478Z"
+generated_at: "2026-11-23T20:25:34.831Z"
+status: "active"
 ---
 
 # § 665a. Intelligence and cybersecurity diversity fellowship program
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:53:09.478Z"
     - **(B)** Information on specific recruiting efforts conducted by the Secretary to increase participation in the Program.
     - **(C)** The number of individuals participating in the Program, listed by the institution of higher education in which the individual is enrolled at the time of participation, and information on the nature of such participation, including on whether the duties of the individual under the Program relate primarily to intelligence or to cybersecurity.
     - **(D)** The number of individuals who accepted an offer of employment under the Program and an identification of the element within the Department to which each individual was appointed.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XIII, § 1333](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 116–260, div. W, title IV, § 404(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2378](https://www.govinfo.gov/link/statute/134/2378).)*

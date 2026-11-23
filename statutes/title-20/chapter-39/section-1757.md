@@ -3,9 +3,10 @@ title: "Section 1757 - Prohibition of forced busing during school year"
 usc_title: 20
 usc_section: "1757"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1757"
-generated_at: "2026-03-30T02:54:48.171Z"
+generated_at: "2026-11-23T20:26:14.675Z"
+status: "active"
 ---
 
 # § 1757. Prohibition of forced busing during school year
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:48.171Z"
 - **(b)** Notwithstanding any other provisions of law, no order of a court, department, or agency of the United States, requiring the transportation of any student incident to the transfer of that student from one elementary or secondary school to another such school in a local educational agency pursuant to a plan requiring such transportation for the racial desegregation of any school in that agency, shall be effective until the beginning of an academic school year.
 - **(c)** For the purpose of this section, the term “academic school year” means, pursuant to regulations promulgated by the Secretary, the customary beginning of classes for the school year at an elementary or secondary school of a local educational agency for a school year that occurs not more often than once in any twelve-month period.
 - **(d)** The provisions of this section apply to any order which was not implemented at the beginning of the 1974–1975 academic year.
+
+## Source Credit
+
+*([Pub. L. 93–380, title II, § 258](https://www.govinfo.gov/link/plaw/93/public/380), Aug. 21, 1974, [88 Stat. 520](https://www.govinfo.gov/link/statute/88/520); [Pub. L. 96–88, title III, § 301(a)(1)](https://www.govinfo.gov/link/plaw/96/public/88), title V, § 507, Oct. 17, 1979, [93 Stat. 677](https://www.govinfo.gov/link/statute/93/677), 692.)*

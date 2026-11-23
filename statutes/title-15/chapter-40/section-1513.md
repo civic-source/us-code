@@ -3,12 +3,17 @@ title: "Section 1513 - Duties and powers vested in Department"
 usc_title: 15
 usc_section: "1513"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1513"
-generated_at: "2026-03-30T02:54:08.136Z"
+generated_at: "2026-11-23T20:26:04.015Z"
+status: "active"
 ---
 
 # § 1513. Duties and powers vested in Department
 
 All duties performed and all power and authority possessed or exercised by the head of any executive department in and over any bureau, office, officer, board, branch, or division of the public service transferred to the Department of Commerce, or any business arising therefrom or pertaining thereto, or in relation to the duties performed by and authority conferred by law upon such bureau, officer, office, board, branch, or division of the public service, whether of an appellate or revisory character or otherwise, shall be vested in and exercised by the Secretary of Commerce.
 
+
+## Source Credit
+
+*(Feb. 14, 1903, ch. 552, § 10, [32 Stat. 829](https://www.govinfo.gov/link/statute/32/829).)*

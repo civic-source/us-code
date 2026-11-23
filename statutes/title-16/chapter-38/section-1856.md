@@ -3,9 +3,10 @@ title: "Section 1856 - State jurisdiction"
 usc_title: 16
 usc_section: "1856"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1856"
-generated_at: "2026-03-30T02:54:22.991Z"
+generated_at: "2026-11-23T20:26:20.568Z"
+status: "active"
 ---
 
 # § 1856. State jurisdiction
@@ -43,3 +44,23 @@ generated_at: "2026-03-30T02:54:22.991Z"
     - **(A)** The term “fish processing” includes, in addition to processing, the performance of any other activity relating to fishing, including, but not limited to, preparation, supply, storage, refrigeration, or transportation.
     - **(B)** The phrase “internal waters of a State” means all waters within the boundaries of a State except those seaward of the baseline from which the territorial sea is measured.
     - **(C)** A foreign fishing vessel shall be treated as qualified for purposes of paragraph (1) if the foreign nation under which it is flagged will be a party to (i) a governing international fishery agreement or (ii) a treaty described in section 1821(b) of this title during the time the vessel will engage in the fish processing for which permission is sought under paragraph (1)(B).
+
+In General
+
+Requirements for State Management
+
+Limitation on Enforcement of State Limited Access Systems
+
+State Permit or Treaty Right Required
+
+State Authority Otherwise Preserved
+
+Termination of Authority
+
+Repeal
+
+Definitions
+
+## Source Credit
+
+*([Pub. L. 94–265, title III, § 306](https://www.govinfo.gov/link/plaw/94/public/265), Apr. 13, 1976, [90 Stat. 355](https://www.govinfo.gov/link/statute/90/355); [Pub. L. 97–191, § 1](https://www.govinfo.gov/link/plaw/97/public/191), June 1, 1982, [96 Stat. 107](https://www.govinfo.gov/link/statute/96/107); [Pub. L. 97–453, § 9](https://www.govinfo.gov/link/plaw/97/public/453), Jan. 12, 1983, [96 Stat. 2491](https://www.govinfo.gov/link/statute/96/2491); [Pub. L. 98–623, title IV, § 404(4)](https://www.govinfo.gov/link/plaw/98/public/623), Nov. 8, 1984, [98 Stat. 3408](https://www.govinfo.gov/link/statute/98/3408); [Pub. L. 99–659, title I, § 101(c)(2)](https://www.govinfo.gov/link/plaw/99/public/659), Nov. 14, 1986, [100 Stat. 3707](https://www.govinfo.gov/link/statute/100/3707); [Pub. L. 101–627, title I, § 112](https://www.govinfo.gov/link/plaw/101/public/627), Nov. 28, 1990, [104 Stat. 4453](https://www.govinfo.gov/link/statute/104/4453); [Pub. L. 104–297, title I, § 112(a)](https://www.govinfo.gov/link/plaw/104/public/297) –(c), Oct. 11, 1996, [110 Stat. 3595](https://www.govinfo.gov/link/statute/110/3595), 3596.)*

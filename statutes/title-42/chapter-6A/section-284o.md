@@ -3,9 +3,10 @@ title: "Section 284o - Activities of the National Institutes of Health with resp
 usc_title: 42
 usc_section: "284o"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 284o"
-generated_at: "2026-03-30T02:56:10.742Z"
+generated_at: "2026-11-23T20:27:20.218Z"
+status: "active"
 ---
 
 # § 284o. Activities of the National Institutes of Health with respect to research on paralysis
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:10.742Z"
   - **(3)** The Director may, as appropriate, provide for the coordination of information among consortia under paragraph (1) and ensure regular communication among members of the consortia, and may require the periodic preparation of reports on the activities of the consortia and the submission of the reports to the Director.
   - **(4)** Each consortium under paragraph (1) may use the facilities of a single lead institution, or be formed from several cooperating institutions, meeting such requirements as may be prescribed by the Director.
 - **(c)** The Director may provide for a mechanism to educate and disseminate information on the existing and planned programs and research activities of the National Institutes of Health with respect to paralysis and through which the Director can receive comments from the public regarding such programs and activities.
+
+## Source Credit
+
+*([Pub. L. 111–11, title XIV, § 14101](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1452](https://www.govinfo.gov/link/statute/123/1452).)*

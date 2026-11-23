@@ -3,12 +3,17 @@ title: "Section 1406h - Taxes, duties and fees as funds for benefit of municipal
 usc_title: 48
 usc_section: "1406h"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1406h"
-generated_at: "2026-03-30T02:56:14.583Z"
+generated_at: "2026-11-23T20:27:28.040Z"
+status: "active"
 ---
 
 # § 1406h. Taxes, duties and fees as funds for benefit of municipalities; appropriations
 
 All taxes, duties, fees, and public revenues collected in the municipality of Saint Croix shall be covered into the treasury of the Virgin Islands and held in account for said municipality and all taxes, duties, fees, and public revenues collected in the municipality of Saint Thomas and Saint John shall be covered into said treasury of the Virgin Islands and held in account for said municipality: Provided , That the proceeds of customs duties, less the cost of collection, and the proceeds of the United States income tax, and the proceeds of any taxes levied by the Congress on the inhabitants of the Virgin Islands, and all quarantine, passport, immigration, and naturalization fees collected in the Virgin Islands shall be covered into the treasury of the Virgin Islands and held in account for the respective municipalities, and shall be expended for the benefit and government of said municipalities in accordance with the annual municipal budgets. The Municipal Council of Saint Croix may make appropriations for the purposes of said municipality from, and to be paid out of, the funds credited to its account in the treasury of the Virgin Islands; and the Municipal Council of Saint Thomas and Saint John may make appropriations for the purposes of said municipality from, and to be paid out of, the funds credited to its account in said treasury.
 
+
+## Source Credit
+
+*(June 22, 1936, ch. 699, § 35, [49 Stat. 1816](https://www.govinfo.gov/link/statute/49/1816).)*

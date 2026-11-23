@@ -3,9 +3,10 @@ title: "Section 2905 - Evaluations"
 usc_title: 25
 usc_section: "2905"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 2905"
-generated_at: "2026-03-30T02:54:52.845Z"
+generated_at: "2026-11-23T20:26:25.621Z"
+status: "active"
 ---
 
 # § 2905. Evaluations
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:52.845Z"
       - **(i)** to bring the Federal laws into compliance with this chapter;
       - **(ii)** to improve interagency coordination for purposes of supporting revitalization, maintenance, and use of Native American languages; and
       - **(iii)** to reduce duplication, inefficiencies, and barriers Native American language communities face in accessing Federal programs to support efforts to revitalize, maintain, or increase the use of Native American languages.
+
+## Source Credit
+
+*([Pub. L. 101–477, title I, § 106](https://www.govinfo.gov/link/plaw/101/public/477), Oct. 30, 1990, [104 Stat. 1156](https://www.govinfo.gov/link/statute/104/1156); [Pub. L. 117–337, § 2(a)](https://www.govinfo.gov/link/plaw/117/public/337), Jan. 5, 2023, [136 Stat. 6153](https://www.govinfo.gov/link/statute/136/6153).)*

@@ -3,9 +3,10 @@ title: "Section 6194 - Plan for deactivation and decommissioning of nonoperation
 usc_title: 10
 usc_section: "6194"
 chapter: 604
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6194"
-generated_at: "2026-03-30T02:53:38.222Z"
+generated_at: "2026-11-23T20:25:52.021Z"
+status: "active"
 ---
 
 # § 6194. Plan for deactivation and decommissioning of nonoperational defense nuclear facilities
@@ -36,3 +37,19 @@ generated_at: "2026-03-30T02:53:38.222Z"
     - **(A)** the present and future costs of all resources and associated cost elements required to develop, produce, deploy, or sustain the facility; and
     - **(B)** the present and future costs to deactivate, decommission, and deconstruct the facility.
   - **(3)** The term “nonoperational defense nuclear facility” means a production facility or utilization facility (as those terms are defined in section 11 of the Atomic Energy Act of 1954 ( 42 U.S.C. 2014 )) under the control or jurisdiction of the Secretary of Energy and operated for national security purposes that is no longer needed for the mission of the Department of Energy, including the National Nuclear Security Administration.
+
+In General
+
+Elements
+
+Plan for Transfer of Responsibility for Certain Facilities
+
+Submission to Congress
+
+Termination
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1397](https://www.govinfo.gov/link/statute/139/1397).)*

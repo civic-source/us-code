@@ -3,9 +3,10 @@ title: "Section 2377 - Prohibition on assistance to countries that aid terrorist
 usc_title: 22
 usc_section: "2377"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2377"
-generated_at: "2026-03-30T02:55:05.362Z"
+generated_at: "2026-11-23T20:26:32.271Z"
+status: "active"
 ---
 
 # § 2377. Prohibition on assistance to countries that aid terrorist states
@@ -16,3 +17,9 @@ generated_at: "2026-03-30T02:55:05.362Z"
   - **(2)** a detailed explanation of the assistance to be provided;
   - **(3)** the estimated dollar amount of the assistance; and
   - **(4)** an explanation of how the assistance furthers United States national interests.
+
+“The Congress finds that—
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. III, § 620G, as added [Pub. L. 104–132, title III, § 325](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1256](https://www.govinfo.gov/link/statute/110/1256).)*

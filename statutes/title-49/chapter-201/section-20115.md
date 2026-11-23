@@ -3,9 +3,10 @@ title: "Section 20115 - User fees"
 usc_title: 49
 usc_section: "20115"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 20115"
-generated_at: "2026-03-30T02:56:19.334Z"
+generated_at: "2026-11-23T20:27:34.784Z"
+status: "active"
 ---
 
 # § 20115. User fees
@@ -28,3 +29,50 @@ generated_at: "2026-03-30T02:56:19.334Z"
     - **(A)** there has been an impact from the fees on the financial health of the railroad industry or its competitive position relative to each competing mode of transportation; or
     - **(B)** there is a significant difference in the burden of Government user fees on the railroad industry and other competing modes of transportation.
 - **(e)** This section expires on September 30, 1995 .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 20115(a) | 45:447(a)(1), (3). | Oct. 16, 1970 , Pub. L. 91–458 , 84 Stat. 971 , § 216; added Nov. 5, 1990 , Pub. L. 101–508, § 10501(a) , 104 Stat. 1388–399 . |
+| 20115(b) | 45:447(a)(2). |  |
+| 20115(c) | 45:447(b)–(d). |  |
+| 20115(d) | 45:447(e). |  |
+| 20115(e) | 45:447(f). |  |
+
+
+Schedule of Fees
+
+Collection Procedures
+
+Collection, Deposit, and Use
+
+Annual Report
+
+Expiration
+
+Historical and Revision Notes
+
+20115(a)
+
+Oct. 16, 1970
+
+Pub. L. 91–458
+
+84 Stat. 971
+
+Nov. 5, 1990
+
+Pub. L. 101–508, § 10501(a)
+
+104 Stat. 1388–399
+
+20115(b)
+
+20115(c)
+
+20115(d)
+
+20115(e)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 870](https://www.govinfo.gov/link/statute/108/870).)*

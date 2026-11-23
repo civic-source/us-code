@@ -3,9 +3,10 @@ title: "Section 2679 - Exclusiveness of remedy"
 usc_title: 28
 usc_section: "2679"
 chapter: 171
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 2679"
-generated_at: "2026-03-30T02:55:30.151Z"
+generated_at: "2026-11-23T20:26:36.537Z"
+status: "active"
 ---
 
 # § 2679. Exclusiveness of remedy
@@ -26,3 +27,15 @@ generated_at: "2026-03-30T02:55:30.151Z"
     - **(A)** the claim would have been timely had it been filed on the date the underlying civil action was commenced, and
     - **(B)** the claim is presented to the appropriate Federal agency within 60 days after dismissal of the civil action.
 - **(e)** The Attorney General may compromise or settle any claim asserted in such civil action or proceeding in the manner provided in section 2677, and with the same effect.
+
+General Rule
+
+Applicability to Proceedings
+
+Pending State Proceedings
+
+Claims Accruing Before Enactment
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 984](https://www.govinfo.gov/link/statute/62/984); [Pub. L. 87–258, § 1](https://www.govinfo.gov/link/plaw/87/public/258), Sept. 21, 1961, [75 Stat. 539](https://www.govinfo.gov/link/statute/75/539); [Pub. L. 89–506, § 5(a)](https://www.govinfo.gov/link/plaw/89/public/506), July 18, 1966, [80 Stat. 307](https://www.govinfo.gov/link/statute/80/307); [Pub. L. 100–694](https://www.govinfo.gov/link/plaw/100/public/694), §§ 5, 6, Nov. 18, 1988, [102 Stat. 4564](https://www.govinfo.gov/link/statute/102/4564).)*

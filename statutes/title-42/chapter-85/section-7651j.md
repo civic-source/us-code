@@ -3,9 +3,10 @@ title: "Section 7651j - Excess emissions penalty"
 usc_title: 42
 usc_section: "7651j"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7651j"
-generated_at: "2026-03-30T02:56:11.323Z"
+generated_at: "2026-11-23T20:27:22.956Z"
+status: "active"
 ---
 
 # § 7651j. Excess emissions penalty
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.323Z"
 - **(c)** The Administrator shall, by regulation, adjust the penalty specified in subsection (a) for inflation, based on the Consumer Price Index, on November 15, 1990 , and annually thereafter.
 - **(d)** It shall be unlawful for the owner or operator of any source liable for a penalty and offset under this section to fail (1) to pay the penalty under subsection (a), (2) to provide, and thereafter comply with, a compliance plan as required by subsection (b), or (3) to offset excess emissions as required by subsection (b).
 - **(e)** Nothing in this subchapter shall limit or otherwise affect the application of section 7413, 7414, 7420, or 7604 of this title except as otherwise explicitly provided in this subchapter.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title IV, § 411, as added [Pub. L. 101–549, title IV, § 401](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2623](https://www.govinfo.gov/link/statute/104/2623).)*

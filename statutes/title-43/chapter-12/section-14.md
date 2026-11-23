@@ -3,9 +3,10 @@ title: "Section 14 - Groundwater study"
 usc_title: 43
 usc_section: "14"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 14"
-generated_at: "2026-03-30T02:55:57.444Z"
+generated_at: "2026-11-23T20:27:06.195Z"
+status: "active"
 ---
 
 # § 390h–14. Groundwater study
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:57.444Z"
   - **(3)** the Secretary’s recommendations, along with the recommendations of the Governors of the affected States, concerning the establishment of a groundwater management and technical assistance program in the Department of the Interior in order to assist Federal and non-Federal entity development and implementation of groundwater management plans and activities.
 - **(b)** In conducting the investigation and analysis, and in preparation of the report referred to in this section, the Secretary shall consult with the Governors of the affected States.
 - **(c)** The report shall be submitted to the Committees on Appropriations and Natural Resources of the House of Representatives and the Committees on Appropriations and Energy and Natural Resources of the Senate within three years of the appropriation of funds authorized by section 390h–15 of this title .
+
+## Source Credit
+
+*([Pub. L. 102–575, title XVI, § 1632](https://www.govinfo.gov/link/plaw/102/public/575), formerly § 1616, Oct. 30, 1992, [106 Stat. 4668](https://www.govinfo.gov/link/statute/106/4668); [Pub. L. 103–437, § 16(a)(2)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4594](https://www.govinfo.gov/link/statute/108/4594); renumbered § 1632 and amended [Pub. L. 104–266, § 2(a)(1)](https://www.govinfo.gov/link/plaw/104/public/266), (b)(2), Oct. 9, 1996, [110 Stat. 3290](https://www.govinfo.gov/link/statute/110/3290), 3294.)*

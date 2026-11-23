@@ -3,12 +3,17 @@ title: "Section 335 - Judicial Conference of the Court of International Trade"
 usc_title: 28
 usc_section: "335"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 335"
-generated_at: "2026-03-30T02:55:30.127Z"
+generated_at: "2026-11-23T20:26:36.338Z"
+status: "active"
 ---
 
 # § 335. Judicial Conference of the Court of International Trade
 
 - **(a)** The chief judge of the Court of International Trade is authorized to summon annually the judges of such court to a judicial conference, at a time and place that such chief judge designates, for the purpose of considering the business of such court and improvements in the administration of justice in such court.
 - **(b)** The Court of International Trade shall provide by its rules for representation and active participation at such conference by members of the bar.
+
+## Source Credit
+
+*(Added [Pub. L. 99–466, § 2(a)](https://www.govinfo.gov/link/plaw/99/public/466), Oct. 14, 1986, [100 Stat. 1190](https://www.govinfo.gov/link/statute/100/1190).)*

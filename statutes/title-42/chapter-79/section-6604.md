@@ -3,9 +3,10 @@ title: "Section 6604 - Interagency working group on research regulation"
 usc_title: 42
 usc_section: "6604"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6604"
-generated_at: "2026-03-30T02:56:11.263Z"
+generated_at: "2026-11-23T20:27:22.687Z"
+status: "active"
 ---
 
 # § 6604. Interagency working group on research regulation
@@ -62,3 +63,7 @@ generated_at: "2026-03-30T02:56:11.263Z"
   - **(7)** federally funded research and development centers; and
   - **(8)** members of the public with a stake in ensuring effectiveness, efficiency, and accountability in the performance of scientific research.
 - **(g)** Not later than 1 year after January 6, 2017 , and annually thereafter for 3 years, the Working Group shall submit to the appropriate committees of Congress a report on its responsibilities under this section, including a discussion of the considerations described in paragraphs (2)(B), (3)(B), and (5)(B) of subsection (e) and recommendations made under subsection (e)(1).
+
+## Source Credit
+
+*([Pub. L. 114–329, title II, § 201](https://www.govinfo.gov/link/plaw/114/public/329), Jan. 6, 2017, [130 Stat. 2995](https://www.govinfo.gov/link/statute/130/2995).)*

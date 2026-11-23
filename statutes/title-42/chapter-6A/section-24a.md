@@ -3,9 +3,10 @@ title: "Section 24a - Activities regarding women’s health"
 usc_title: 42
 usc_section: "24a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 24a"
-generated_at: "2026-03-30T02:56:10.786Z"
+generated_at: "2026-11-23T20:27:20.425Z"
+status: "active"
 ---
 
 # § 299b–24a. Activities regarding women’s health
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:10.786Z"
   - **(4)** consult with health professionals, nongovernmental organizations, consumer organizations, women’s health professionals, and other individuals and groups, as appropriate, on Agency policy with regard to women; and
   - **(5)** serve as a member of the Department of Health and Human Services Coordinating Committee on Women’s Health (established under section 237a(b)(4) of this title ).
 - **(c)** For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2010 through 2014.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title IX, § 925, as added [Pub. L. 111–148, title III, § 3509(e)(2)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 534](https://www.govinfo.gov/link/statute/124/534).)*

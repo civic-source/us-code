@@ -3,9 +3,10 @@ title: "Section 7905 - Programs to encourage commuting by means other than singl
 usc_title: 5
 usc_section: "7905"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 7905"
-generated_at: "2026-03-30T02:52:56.040Z"
+generated_at: "2026-11-23T20:25:32.077Z"
+status: "active"
 ---
 
 # § 7905. Programs to encourage commuting by means other than single-occupancy motor vehicles
@@ -37,3 +38,27 @@ generated_at: "2026-03-30T02:52:56.040Z"
     - **(C)** the extent of employee participation in, and the costs to the Government associated with, each of the various programs;
     - **(D)** an assessment of any environmental or other benefits realized as a result of programs established under this section; and
     - **(E)** any other matter which may be appropriate.
+
+In general
+
+Benefits described
+
+Definitions
+
+Rule of construction
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+William J. Clinton.
+
+## Source Credit
+
+*(Added [Pub. L. 103–172, § 2(a)](https://www.govinfo.gov/link/plaw/103/public/172), Dec. 2, 1993, [107 Stat. 1995](https://www.govinfo.gov/link/statute/107/1995); amended [Pub. L. 107–296, title XIII, § 1314(a)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2296](https://www.govinfo.gov/link/statute/116/2296); [Pub. L. 113–235, div. H, title I, § 1301(b)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537).)*

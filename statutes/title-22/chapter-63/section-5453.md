@@ -3,9 +3,10 @@ title: "Section 5453 - Medical supplies, hospital equipment, and medical trainin
 usc_title: 22
 usc_section: "5453"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 5453"
-generated_at: "2026-03-30T02:55:05.418Z"
+generated_at: "2026-11-23T20:26:32.567Z"
+status: "active"
 ---
 
 # § 5453. Medical supplies, hospital equipment, and medical training for Poland
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:05.418Z"
 - **(b)** Assistance may be provided under this section notwithstanding any other provision of law, other than—
   - **(1)** section 104(f) of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2151b(f) ; relating to the prohibition on the use of funds for abortions and involuntary sterilizations), and
   - **(2)** any provision of the annual Foreign Operations, Export Financing, and Related Programs Appropriations Act that relates to abortion.
+
+## Source Credit
+
+*([Pub. L. 101–179, title V, § 503](https://www.govinfo.gov/link/plaw/101/public/179), Nov. 28, 1989, [103 Stat. 1318](https://www.govinfo.gov/link/statute/103/1318).)*

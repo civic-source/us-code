@@ -3,9 +3,10 @@ title: "Section 32507 - Penalties and enforcement"
 usc_title: 49
 usc_section: "32507"
 chapter: 325
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 32507"
-generated_at: "2026-03-30T02:56:19.364Z"
+generated_at: "2026-11-23T20:27:34.992Z"
+status: "active"
 ---
 
 # § 32507. Penalties and enforcement
@@ -26,3 +27,44 @@ generated_at: "2026-03-30T02:56:19.364Z"
   - **(3)** The failure of the Secretary to comply with paragraph (2) of this subsection does not prevent a court from granting appropriate relief.
 - **(d)** In a trial for criminal contempt for violating an injunction or restraining order issued under subsection (c) of this section, the violation of which is also a violation of this chapter, the defendant may demand a jury trial. The defendant shall be tried as provided in rule 42(b) of the Federal Rules of Criminal Procedure (18 App. U.S.C.).
 - **(e)** A civil action under subsection (a) or (c) of this section may be brought in the judicial district in which the violation occurred or the defendant is found, resides, or does business. Process in the action may be served in any other judicial district in which the defendant resides or is found. A subpena for a witness in the action may be served in any judicial district.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 32507(a) | 15:1917(a). | Oct. 20, 1972 , Pub. L. 92–513 , § 107, 86 Stat. 953 . |
+| 32507(b) | 15:1917(b). |  |
+| 32507(c) | 15:1917(c)(1). |  |
+| 32507(d) | 15:1917(c)(2). |  |
+| 32507(e) | 15:1917(c)(3), (4). |  |
+
+
+Civil Penalty
+
+Criminal Penalty
+
+Civil Actions To Enforce
+
+Jury Trial Demand
+
+Venue
+
+Historical and Revision Notes
+
+32507(a)
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 953
+
+32507(b)
+
+32507(c)
+
+32507(d)
+
+32507(e)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1046](https://www.govinfo.gov/link/statute/108/1046).)*

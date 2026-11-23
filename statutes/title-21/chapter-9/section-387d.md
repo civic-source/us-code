@@ -3,9 +3,10 @@ title: "Section 387d - Submission of health information to the Secretary"
 usc_title: 21
 usc_section: "387d"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 387d"
-generated_at: "2026-03-30T02:54:54.280Z"
+generated_at: "2026-11-23T20:26:27.768Z"
+status: "active"
 ---
 
 # § 387d. Submission of health information to the Secretary
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:54.280Z"
   - **(1)** Not later than 3 years after June 22, 2009 , and annually thereafter, the Secretary shall publish in a format that is understandable and not misleading to a lay person, and place on public display (in a manner determined by the Secretary) the list established under subsection (e).
   - **(2)** The Secretary shall conduct periodic consumer research to ensure that the list published under paragraph (1) is not misleading to lay persons. Not later than 5 years after June 22, 2009 , the Secretary shall submit to the appropriate committees of Congress a report on the results of such research, together with recommendations on whether such publication should be continued or modified.
 - **(e)** Not later than 24 months after June 22, 2009 , the Secretary shall establish, and periodically revise as appropriate, a list of harmful and potentially harmful constituents, including smoke constituents, to health in each tobacco product by brand and by quantity in each brand and subbrand. The Secretary shall publish a public notice requesting the submission by interested persons of scientific and other information concerning the harmful and potentially harmful constituents in tobacco products and tobacco smoke.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 904, as added [Pub. L. 111–31, div. A, title I, § 101(b)(3)](https://www.govinfo.gov/link/plaw/111/public/31), June 22, 2009, [123 Stat. 1790](https://www.govinfo.gov/link/statute/123/1790).)*

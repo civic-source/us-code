@@ -3,9 +3,10 @@ title: "Section 2071 - Injunctive enforcement and seizure"
 usc_title: 15
 usc_section: "2071"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2071"
-generated_at: "2026-03-30T02:54:08.165Z"
+generated_at: "2026-11-23T20:26:04.162Z"
+status: "active"
 ---
 
 # § 2071. Injunctive enforcement and seizure
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.165Z"
 - **(b)** Any consumer product—
   - **(1)** which fails to conform with an applicable consumer product safety rule, or
   - **(2)** the manufacture for sale, offering for sale, distribution in commerce, or the importation into the United States of which has been prohibited by an order in effect under section 2064(d) of this title ,
+
+## Source Credit
+
+*([Pub. L. 92–573, § 22](https://www.govinfo.gov/link/plaw/92/public/573), Oct. 27, 1972, [86 Stat. 1225](https://www.govinfo.gov/link/statute/86/1225); [Pub. L. 94–284](https://www.govinfo.gov/link/plaw/94/public/284), §§ 11(b), 12(c), May 11, 1976, [90 Stat. 507](https://www.govinfo.gov/link/statute/90/507), 508.)*

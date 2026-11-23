@@ -3,9 +3,10 @@ title: "Section 9171 - Purpose"
 usc_title: 20
 usc_section: "9171"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 9171"
-generated_at: "2026-03-30T02:54:48.225Z"
+generated_at: "2026-11-23T20:26:14.978Z"
+status: "active"
 ---
 
 # § 9171. Purpose
@@ -22,3 +23,7 @@ It is the purpose of this subchapter—
   - **(8)** to ensure museums of various types and sizes in diverse geographic regions of the United States are afforded attention and support;
   - **(9)** to support efforts at the State and regional levels to leverage museum resources and maximize museum services; and
   - **(10)** to assist museums in their civic engagement efforts to ensure that every person in the United States has access to high-quality museum services.
+
+## Source Credit
+
+*([Pub. L. 94–462, title II, § 272](https://www.govinfo.gov/link/plaw/94/public/462), formerly § 271, as added [Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–233](https://www.govinfo.gov/link/statute/110/3009), 3009–302; renumbered § 272 and amended [Pub. L. 108–81, title III](https://www.govinfo.gov/link/plaw/108/public/81), §§ 301, 306(1), Sept. 25, 2003, [117 Stat. 1000](https://www.govinfo.gov/link/statute/117/1000), 1002; [Pub. L. 111–340, title III, § 301](https://www.govinfo.gov/link/plaw/111/public/340), Dec. 22, 2010, [124 Stat. 3603](https://www.govinfo.gov/link/statute/124/3603); [Pub. L. 115–410, § 16](https://www.govinfo.gov/link/plaw/115/public/410), Dec. 31, 2018, [132 Stat. 5419](https://www.govinfo.gov/link/statute/132/5419).)*

@@ -3,9 +3,10 @@ title: "Section 749 - Harbors and navigable waters transferred; definitions"
 usc_title: 48
 usc_section: "749"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 749"
-generated_at: "2026-03-30T02:56:14.582Z"
+generated_at: "2026-11-23T20:27:28.031Z"
+status: "active"
 ---
 
 # § 749. Harbors and navigable waters transferred; definitions
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:14.582Z"
   - **(2)** “navigable bodies of water and submerged lands underlying the same in and around the island of Puerto Rico and the adjacent islands and waters” extend from the coastline of the island of Puerto Rico and the adjacent islands as heretofore or hereafter modified by accretion, erosion, or reliction, seaward to a distance of three marine leagues;
   - **(3)** “control” includes all right, title, and interest in and to and jurisdiction and authority over the submerged lands underlying the harbor areas and navigable streams and bodies of water in and around the island of Puerto Rico and the adjacent islands and waters, and the natural resources underlying such submerged lands and waters, and includes proprietary rights of ownership, and the rights of management, administration, leasing, use, and development of such natural resources and submerged lands beneath such waters.
 
+
+## Source Credit
+
+*(Mar. 2, 1917, ch. 145, § 8, [39 Stat. 954](https://www.govinfo.gov/link/statute/39/954); May 17, 1932, ch. 190, [47 Stat. 158](https://www.govinfo.gov/link/statute/47/158); July 26, 1947, ch. 343, title II, § 205(a), [61 Stat. 501](https://www.govinfo.gov/link/statute/61/501); [Pub. L. 96–205, title VI, § 606(a)](https://www.govinfo.gov/link/plaw/96/public/205), Mar. 12, 1980, [94 Stat. 91](https://www.govinfo.gov/link/statute/94/91).)*

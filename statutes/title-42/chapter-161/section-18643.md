@@ -3,9 +3,10 @@ title: "Section 18643 - High-energy physics"
 usc_title: 42
 usc_section: "18643"
 chapter: 161
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18643"
-generated_at: "2026-03-30T02:56:11.522Z"
+generated_at: "2026-11-23T20:27:23.808Z"
+status: "active"
 ---
 
 # § 18643. High-energy physics
@@ -82,3 +83,7 @@ generated_at: "2026-03-30T02:56:11.522Z"
   - **(3)** $1,428,284,672 for fiscal year 2025;
   - **(4)** $1,499,881,752 for fiscal year 2026; and
   - **(5)** $1,554,874,657 for fiscal year 2027.
+
+## Source Credit
+
+*([Pub. L. 115–246, title III, § 305](https://www.govinfo.gov/link/plaw/115/public/246), Sept. 28, 2018, [132 Stat. 3147](https://www.govinfo.gov/link/statute/132/3147); [Pub. L. 117–167, div. B, title I, § 10106](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1445](https://www.govinfo.gov/link/statute/136/1445).)*

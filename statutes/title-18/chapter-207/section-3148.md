@@ -3,9 +3,10 @@ title: "Section 3148 - Sanctions for violation of a release condition"
 usc_title: 18
 usc_section: "3148"
 chapter: 207
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 3148"
-generated_at: "2026-03-30T02:54:16.512Z"
+generated_at: "2026-11-23T20:26:08.661Z"
+status: "active"
 ---
 
 # § 3148. Sanctions for violation of a release condition
@@ -19,3 +20,13 @@ generated_at: "2026-03-30T02:54:16.512Z"
     - **(A)** based on the factors set forth in section 3142(g) of this title , there is no condition or combination of conditions of release that will assure that the person will not flee or pose a danger to the safety of any other person or the community; or
     - **(B)** the person is unlikely to abide by any condition or combination of conditions of release.
 - **(c)** The judicial officer may commence a prosecution for contempt, under section 401 of this title , if the person has violated a condition of release.
+
+Available Sanctions
+
+Revocation of Release
+
+Prosecution for Contempt
+
+## Source Credit
+
+*(Added [Pub. L. 98–473, title II, § 203(a)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 1983](https://www.govinfo.gov/link/statute/98/1983); amended [Pub. L. 99–646, § 55(a)](https://www.govinfo.gov/link/plaw/99/public/646), (h), Nov. 10, 1986, [100 Stat. 3607](https://www.govinfo.gov/link/statute/100/3607), 3610.)*

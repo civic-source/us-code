@@ -3,9 +3,10 @@ title: "Section 3951 - Evictions and distress"
 usc_title: 50
 usc_section: "3951"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3951"
-generated_at: "2026-03-30T02:56:26.263Z"
+generated_at: "2026-11-23T20:27:31.055Z"
+status: "active"
 ---
 
 # § 3951. Evictions and distress
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:26.263Z"
 - **(c)** Except as provided in subsection (a), a person who knowingly takes part in an eviction or distress described in subsection (a), or who knowingly attempts to do so, shall be fined as provided in title 18, or imprisoned for not more than one year, or both.
 - **(d)** To the extent required by a court order related to property which is the subject of a court action under this section, the Secretary concerned shall make an allotment from the pay of a servicemember to satisfy the terms of such order, except that any such allotment shall be subject to regulations prescribed by the Secretary concerned establishing the maximum amount of pay of servicemembers that may be allotted under this subsection.
 - **(e)** Section 3932 of this title is not applicable to this section.
+
+## Source Credit
+
+*(Oct. 17, 1940, ch. 888, title III, § 301, as added [Pub. L. 108–189, § 1](https://www.govinfo.gov/link/plaw/108/public/189), Dec. 19, 2003, [117 Stat. 2845](https://www.govinfo.gov/link/statute/117/2845); amended [Pub. L. 111–275, title III, § 303(b)(2)](https://www.govinfo.gov/link/plaw/111/public/275), Oct. 13, 2010, [124 Stat. 2877](https://www.govinfo.gov/link/statute/124/2877).)*

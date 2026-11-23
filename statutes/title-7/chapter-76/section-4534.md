@@ -3,9 +3,10 @@ title: "Section 4534 - Required terms of order; agreements under order; records"
 usc_title: 7
 usc_section: "4534"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 4534"
-generated_at: "2026-03-30T02:53:42.409Z"
+generated_at: "2026-11-23T20:25:41.622Z"
+status: "active"
 ---
 
 # § 4534. Required terms of order; agreements under order; records
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:53:42.409Z"
     - **(A)** the issuance of general statements, based on such information, books, records, and reports, of the number of persons subject to the order or of statistical data collected from such persons if such statements do not specifically identify the data furnished by any one of such persons; or
     - **(B)** the publication, at the direction of the Secretary, of the name of any person violating the order, together with a statement of the particular provisions of the order violated by the person.
   - **(3)** No information obtained under the authority of this section may be made available to any agency, officer, or employee of the United States for any purpose other than the implementation of this subchapter and any investigatory or enforcement action necessary to implement this subchapter. Any person who violates this paragraph shall be subject to a fine of not more than $1,000, or to imprisonment for not more than one year, or both, and, if such person is employed by the board or the Department, shall be terminated from such employment.
+
+## Source Credit
+
+*([Pub. L. 98–180, title I, § 133](https://www.govinfo.gov/link/plaw/98/public/180), as added [Pub. L. 99–198, title I, § 121](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1369](https://www.govinfo.gov/link/statute/99/1369).)*

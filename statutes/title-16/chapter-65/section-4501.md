@@ -3,9 +3,10 @@ title: "Section 4501 - Forestry and related natural resource assistance"
 usc_title: 16
 usc_section: "4501"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 4501"
-generated_at: "2026-03-30T02:54:23.044Z"
+generated_at: "2026-11-23T20:26:20.744Z"
+status: "active"
 ---
 
 # § 4501. Forestry and related natural resource assistance
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:23.044Z"
   - **(4)** engage in scientific exchange and cooperative research with foreign governmental, educational, technical and research institutions; and
   - **(5)** cooperate with domestic and international organizations that further international programs for the management and protection of forests, rangelands, wildlife and fisheries, and related natural resource activities.
 - **(c)** The Secretary shall undertake the activities described in subsection (b), in countries that receive assistance from the Agency for International Development only at the request, or with the concurrence, of the Administrator of the Agency for International Development.
+
+## Source Credit
+
+*([Pub. L. 101–513, title VI, § 602](https://www.govinfo.gov/link/plaw/101/public/513), Nov. 5, 1990, [104 Stat. 2070](https://www.govinfo.gov/link/statute/104/2070); [Pub. L. 102–574, § 2(b)(1)](https://www.govinfo.gov/link/plaw/102/public/574), Oct. 29, 1992, [106 Stat. 4596](https://www.govinfo.gov/link/statute/106/4596).)*

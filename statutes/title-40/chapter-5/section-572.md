@@ -3,9 +3,10 @@ title: "Section 572 - Real property"
 usc_title: 40
 usc_section: "572"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 572"
-generated_at: "2026-03-30T02:55:43.375Z"
+generated_at: "2026-11-23T20:26:56.544Z"
+status: "active"
 ---
 
 # § 572. Real property
@@ -42,3 +43,121 @@ generated_at: "2026-03-30T02:55:43.375Z"
         - **(I)** 50 percent of the amount is available for facility maintenance and repair or environmental restoration at the military installation where the property was located before it was disposed of or transferred; and
         - **(II)** 50 percent of the amount is available for facility maintenance and repair and for environmental restoration by the military department that had jurisdiction over the property before it was disposed of or transferred.
   - **(6)** As part of the annual request for authorizations of appropriations to the Committees on Armed Services of the Senate and the House of Representatives, the Secretary of Defense shall include an accounting of each transfer and disposal made in accordance with this subsection during the fiscal year preceding the fiscal year in which the request is made. The accounting shall include a detailed explanation of each transfer and disposal and of the use of the proceeds received from it by the Department of Defense.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 572(a) | 40:485(b). | June 30, 1949, ch. 288 , title II, § 204(b), as added Aug. 31, 1954, ch. 1178, § 1(b) , 68 Stat. 1051 ; Pub. L. 86–215 , Sept. 1, 1959 , 73 Stat. 446 ; Pub. L. 100–612, § 6 , Nov. 5, 1988 , 102 Stat. 3181 ; Pub. L. 101–510, div. B, title XXVIII, § 2805(2) , Nov. 5, 1990 , 104 Stat. 1786 ; Pub. L. 107–107, § 2812 , Dec. 28, 2001 , 115 Stat. 1307 . |
+| 572(b) | 40:485(h). | June 30, 1949, ch. 288 , title II, § 204(h), as added Pub. L. 101–510, div. B, title XXVIII, § 2805(3) , Nov. 5, 1990 , 104 Stat. 1786 ; Pub. L. 104–106, div. A, title XV, § 1502(f)(7) , div. B, title XXVIII, § 2818(b), Feb. 10, 1996 , 110 Stat. 510 , 555; Pub. L. 106–65, title X, § 1067(18) , Oct. 5, 1999 , 113 Stat. 775 ; Pub. L. 107–107, § 2812 , Dec. 28, 2001 , 115 Stat. 1307 . |
+
+
+In General.—
+
+Separate fund
+
+Payment of expenses from the fund.—
+
+Authority
+
+Limitations.—
+
+Percentage limitation
+
+Determination of maximum amount
+
+Direct payment or reimbursement
+
+Transfer to miscellaneous receipts
+
+Report
+
+Real Property Under Control of a Military Department.—
+
+Definitions
+
+Military installation
+
+Base closure law
+
+Application.—
+
+In general
+
+Exceptions
+
+Transfer between military departments
+
+Alternative disposition by administrator of general services
+
+Proceeds.—
+
+Deposit in special account
+
+Availability of amount deposited
+
+Report
+
+Historical and Revision Notes
+
+572(a)
+
+June 30, 1949, ch. 288
+
+Aug. 31, 1954, ch. 1178, § 1(b)
+
+68 Stat. 1051
+
+Pub. L. 86–215
+
+Sept. 1, 1959
+
+73 Stat. 446
+
+Pub. L. 100–612, § 6
+
+Nov. 5, 1988
+
+102 Stat. 3181
+
+Pub. L. 101–510, div. B, title XXVIII, § 2805(2)
+
+Nov. 5, 1990
+
+104 Stat. 1786
+
+Pub. L. 107–107, § 2812
+
+Dec. 28, 2001
+
+115 Stat. 1307
+
+572(b)
+
+June 30, 1949, ch. 288
+
+Pub. L. 101–510, div. B, title XXVIII, § 2805(3)
+
+Nov. 5, 1990
+
+104 Stat. 1786
+
+Pub. L. 104–106, div. A, title XV, § 1502(f)(7)
+
+Feb. 10, 1996
+
+110 Stat. 510
+
+Pub. L. 106–65, title X, § 1067(18)
+
+Oct. 5, 1999
+
+113 Stat. 775
+
+Pub. L. 107–107, § 2812
+
+Dec. 28, 2001
+
+115 Stat. 1307
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1105](https://www.govinfo.gov/link/statute/116/1105); [Pub. L. 108–447, div. H, title IV, § 408](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3258](https://www.govinfo.gov/link/statute/118/3258); [Pub. L. 109–13, div. A, title VI, § 6068](https://www.govinfo.gov/link/plaw/109/public/13), May 11, 2005, [119 Stat. 299](https://www.govinfo.gov/link/statute/119/299); [Pub. L. 109–163, div. A, title X, § 1056(a)(5)(B)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3439](https://www.govinfo.gov/link/statute/119/3439).)*

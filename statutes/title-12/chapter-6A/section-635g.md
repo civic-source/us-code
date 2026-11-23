@@ -3,9 +3,10 @@ title: "Section 635g - Report to Congress; time for submission; contents"
 usc_title: 12
 usc_section: "635g"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 635g"
-generated_at: "2026-03-30T02:53:53.387Z"
+generated_at: "2026-11-23T20:25:58.792Z"
+status: "active"
 ---
 
 # § 635g. Report to Congress; time for submission; contents
@@ -67,3 +68,7 @@ generated_at: "2026-03-30T02:53:53.387Z"
 - **(j)** The Bank shall include in its annual report to the Congress under subsection (a) of this section a description of the success of the Bank in providing effective and reasonably priced financing to the United States textile and apparel industry for exports of goods manufactured in the United States that are used as components in global textile and apparel supply chains in the year covered by the report, and steps the Bank has taken to increase the use of Bank products by such firms.
 - **(k)** The Bank shall include in its annual report to Congress under subsection (a) a report on the programs of the Bank for United States businesses with less than $250,000,000 in annual sales.
 - **(l)** The Bank shall include in its annual report to Congress under subsection (a) a narrative and financial summary of the authorizations made under the Program on China and Transformational Exports.
+
+## Source Credit
+
+*(July 31, 1945, ch. 341, § 8, formerly § 9, [59 Stat. 529](https://www.govinfo.gov/link/statute/59/529); [Pub. L. 90–267, § 1(a)](https://www.govinfo.gov/link/plaw/90/public/267), Mar. 13, 1968, [82 Stat. 47](https://www.govinfo.gov/link/statute/82/47); [Pub. L. 93–646, § 10](https://www.govinfo.gov/link/plaw/93/public/646), Jan. 4, 1975, [88 Stat. 2336](https://www.govinfo.gov/link/statute/88/2336); [Pub. L. 95–630, title XIX, § 1907(b)](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3725](https://www.govinfo.gov/link/statute/92/3725); [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title VI, §§ 618(b), 623], Nov. 30, 1983, [97 Stat. 1259](https://www.govinfo.gov/link/statute/97/1259), 1262; [Pub. L. 99–472, § 20(b)](https://www.govinfo.gov/link/plaw/99/public/472), (c), Oct. 15, 1986, [100 Stat. 1209](https://www.govinfo.gov/link/statute/100/1209), 1210; renumbered § 8, [Pub. L. 102–429, title I, § 121(c)(2)](https://www.govinfo.gov/link/plaw/102/public/429), Oct. 21, 1992, [106 Stat. 2199](https://www.govinfo.gov/link/statute/106/2199); [Pub. L. 106–569, title XI, § 1104(a)(4)](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 3032](https://www.govinfo.gov/link/statute/114/3032); [Pub. L. 107–189, § 12](https://www.govinfo.gov/link/plaw/107/public/189), June 14, 2002, [116 Stat. 704](https://www.govinfo.gov/link/statute/116/704); [Pub. L. 109–438, § 20](https://www.govinfo.gov/link/plaw/109/public/438), Dec. 20, 2006, [120 Stat. 3282](https://www.govinfo.gov/link/statute/120/3282); [Pub. L. 112–122](https://www.govinfo.gov/link/plaw/112/public/122), §§ 6, 10, 20(b)(2), 21(c), May 30, 2012, [126 Stat. 353](https://www.govinfo.gov/link/statute/126/353), 356, 362, 363; [Pub. L. 114–94, div. E, title LII, § 52002(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1767](https://www.govinfo.gov/link/statute/129/1767); [Pub. L. 116–94, div. I, title IV, § 402(b)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3023](https://www.govinfo.gov/link/statute/133/3023).)*

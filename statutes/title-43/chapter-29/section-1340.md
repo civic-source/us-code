@@ -3,9 +3,10 @@ title: "Section 1340 - Geological and geophysical explorations"
 usc_title: 43
 usc_section: "1340"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1340"
-generated_at: "2026-03-30T02:55:57.470Z"
+generated_at: "2026-11-23T20:27:06.280Z"
+status: "active"
 ---
 
 # § 1340. Geological and geophysical explorations
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:55:57.470Z"
   - **(2)** the exploration will not interfere with or endanger operations under any lease issued or maintained pursuant to this subchapter; and
   - **(3)** such exploration will not be unduly harmful to aquatic life in the area, result in pollution, create hazardous or unsafe conditions, unreasonably interfere with other uses of the area, or disturb any site, structure, or object of historical or archeological significance.
 - **(h)** The Secretary shall not issue a lease or permit for, or otherwise allow, exploration, development, or production activities within fifteen miles of the boundaries of the Phillip Burton Wilderness as depicted on a map entitled “Wilderness Plan, Point Reyes National Seashore”, numbered 612–90,000–B and dated September 1976, unless the State of California issues a lease or permit for, or otherwise allows, exploration, development, or production activities on lands beneath navigable waters (as such term is defined in section 1301 of this title ) of such State which are adjacent to such Wilderness.
+
+## Source Credit
+
+*(Aug. 7, 1953, ch. 345, § 11, [67 Stat. 469](https://www.govinfo.gov/link/statute/67/469); [Pub. L. 95–372, title II, § 206](https://www.govinfo.gov/link/plaw/95/public/372), Sept. 18, 1978, [92 Stat. 647](https://www.govinfo.gov/link/statute/92/647); [Pub. L. 99–68, § 1(c)](https://www.govinfo.gov/link/plaw/99/public/68), July 19, 1985, [99 Stat. 166](https://www.govinfo.gov/link/statute/99/166).)*

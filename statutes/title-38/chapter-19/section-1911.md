@@ -3,12 +3,17 @@ title: "Section 1911 - Forfeiture"
 usc_title: 38
 usc_section: "1911"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 1911"
-generated_at: "2026-03-30T02:55:53.489Z"
+generated_at: "2026-11-23T20:27:01.734Z"
+status: "active"
 ---
 
 # § 1911. Forfeiture
 
 Any person guilty of mutiny, treason, spying, or desertion, or who, because of conscientious objections, refuses to perform service in the Armed Forces of the United States or refuses to wear the uniform of such force, shall forfeit all rights to National Service Life Insurance. No insurance shall be payable for death inflicted as a lawful punishment for crime or for military or naval offense, except when inflicted by an enemy of the United States; but the cash surrender value, if any, of such insurance on the date of such death shall be paid to the designated beneficiary, if living, or otherwise to the beneficiary or beneficiaries within the permitted class in accordance with the order specified in section 1916(b) of this title .
 
+
+## Source Credit
+
+*([Pub. L. 85–857](https://www.govinfo.gov/link/plaw/85/public/857), Sept. 2, 1958, [72 Stat. 1150](https://www.govinfo.gov/link/statute/72/1150), § 711; renumbered § 1911 and amended [Pub. L. 102–83, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/83), (c)(1), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406).)*

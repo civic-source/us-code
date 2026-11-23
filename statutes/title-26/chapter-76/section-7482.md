@@ -3,9 +3,10 @@ title: "Section 7482 - Courts of review"
 usc_title: 26
 usc_section: "7482"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 7482"
-generated_at: "2026-03-30T02:55:27.876Z"
+generated_at: "2026-11-23T20:26:46.785Z"
+status: "active"
 ---
 
 # § 7482. Courts of review
@@ -35,3 +36,11 @@ generated_at: "2026-03-30T02:55:27.876Z"
   - **(2)** Rules for review of decisions of the Tax Court shall be those prescribed by the Supreme Court under section 2072 of title 28 of the United States Code.
   - **(3)** Nothing in section 7483 shall be construed as relieving the petitioner from making or filing such undertakings as the court may require as a condition of or in connection with the review.
   - **(4)** The United States Court of Appeals and the Supreme Court shall have the power to require the taxpayer to pay to the United States a penalty in any case where the decision of the Tax Court is affirmed and it appears that the appeal was instituted or maintained primarily for delay or that the taxpayer’s position in the appeal is frivolous or groundless.
+
+In general
+
+Effect on existing proceedings
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 890; [Pub. L. 89–713, § 3(c)](https://www.govinfo.gov/link/plaw/89/public/713), Nov. 2, 1966, [80 Stat. 1109](https://www.govinfo.gov/link/statute/80/1109); [Pub. L. 91–172, title IX, § 960(h)(2)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, 83 Stat 735; [Pub. L. 93–406, title II, § 1041(b)(3)](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 950](https://www.govinfo.gov/link/statute/88/950); [Pub. L. 94–455, title X, § 1042(d)(2)(A)](https://www.govinfo.gov/link/plaw/94/public/455), (B), title XIII, § 1306(b)(4), (5), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1638](https://www.govinfo.gov/link/statute/90/1638), 1639, 1719, 1834; [Pub. L. 95–600, title III, § 336(c)(1)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2842](https://www.govinfo.gov/link/statute/92/2842); [Pub. L. 97–164, title I, § 154](https://www.govinfo.gov/link/plaw/97/public/164), Apr. 2, 1982, [96 Stat. 47](https://www.govinfo.gov/link/statute/96/47); [Pub. L. 97–248, title IV, § 402(c)(15)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 668](https://www.govinfo.gov/link/statute/96/668); [Pub. L. 98–369, div. A, title I, § 131(e)(2)(A)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 665](https://www.govinfo.gov/link/statute/98/665); [Pub. L. 99–514, title XV, § 1558(a)](https://www.govinfo.gov/link/plaw/99/public/514), (b), title XVIII, §§ 1810(g)(2), 1899A(60), Oct. 22, 1986, [100 Stat. 2757](https://www.govinfo.gov/link/statute/100/2757), 2758, 2828, 2962; [Pub. L. 100–647, title VI, § 6243(b)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3750](https://www.govinfo.gov/link/statute/102/3750); [Pub. L. 101–239, title VII, § 7731(b)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2401](https://www.govinfo.gov/link/statute/103/2401); [Pub. L. 105–34, title XII](https://www.govinfo.gov/link/plaw/105/public/34), §§ 1222(b)(3), 1239(d), Aug. 5, 1997, [111 Stat. 1019](https://www.govinfo.gov/link/statute/111/1019), 1028; [Pub. L. 114–74, title XI, § 1101(f)(13)](https://www.govinfo.gov/link/plaw/114/public/74), Nov. 2, 2015, [129 Stat. 638](https://www.govinfo.gov/link/statute/129/638); [Pub. L. 114–113, div. Q, title IV, § 423(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3123](https://www.govinfo.gov/link/statute/129/3123).)*

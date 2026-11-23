@@ -3,9 +3,10 @@ title: "Section 43 - Interpretations concerning preemption of certain State laws
 usc_title: 12
 usc_section: "43"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 43"
-generated_at: "2026-03-30T02:53:53.372Z"
+generated_at: "2026-11-23T20:25:58.686Z"
+status: "active"
 ---
 
 # § 43. Interpretations concerning preemption of certain State laws
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:53.372Z"
     - **(B)** the opinion letter or interpretive rule is issued in connection with—
       - **(i)** an acquisition of 1 or more banks in default or in danger of default (as such terms are defined in section 1813 of this title ); or
       - **(ii)** an acquisition with respect to which the Federal Deposit Insurance Corporation provides assistance under section 1823(c) of this title .
+
+## Source Credit
+
+*(R.S. § 5244, as added [Pub. L. 103–328, title I, § 114](https://www.govinfo.gov/link/plaw/103/public/328), Sept. 29, 1994, [108 Stat. 2366](https://www.govinfo.gov/link/statute/108/2366).)*

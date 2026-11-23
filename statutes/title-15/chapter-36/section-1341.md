@@ -3,9 +3,10 @@ title: "Section 1341 - Smoking, research, education and information"
 usc_title: 15
 usc_section: "1341"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1341"
-generated_at: "2026-03-30T02:54:08.134Z"
+generated_at: "2026-11-23T20:26:04.000Z"
+status: "active"
 ---
 
 # § 1341. Smoking, research, education and information
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:08.134Z"
   - **(2)** a description of the Secretary’s and Committee’s activities under subsection (a),
   - **(3)** information regarding the activities of the private sector taken in response to the effects of smoking on health, and
   - **(4)** such recommendations as the Secretary may consider appropriate.
+
+## Source Credit
+
+*([Pub. L. 98–474, § 3](https://www.govinfo.gov/link/plaw/98/public/474), Oct. 12, 1984, [98 Stat. 2200](https://www.govinfo.gov/link/statute/98/2200); [Pub. L. 99–92, § 13](https://www.govinfo.gov/link/plaw/99/public/92), Aug. 16, 1985, [99 Stat. 404](https://www.govinfo.gov/link/statute/99/404); [Pub. L. 102–531, title III, § 312(a)](https://www.govinfo.gov/link/plaw/102/public/531), Oct. 27, 1992, [106 Stat. 3504](https://www.govinfo.gov/link/statute/106/3504); [Pub. L. 110–154, § 1(c)(1)](https://www.govinfo.gov/link/plaw/110/public/154), Dec. 21, 2007, [121 Stat. 1827](https://www.govinfo.gov/link/statute/121/1827).)*

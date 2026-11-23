@@ -3,9 +3,10 @@ title: "Section 306 - Definitions"
 usc_title: 42
 usc_section: "306"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 306"
-generated_at: "2026-03-30T02:56:10.852Z"
+generated_at: "2026-11-23T20:27:20.726Z"
+status: "active"
 ---
 
 # § 306. Definitions
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:10.852Z"
   - **(4)** periodic review by such State agency of the determination under paragraph (1) of this subsection to ascertain whether conditions justifying such determination still exist, with provision for termination of such payments if they do not and for seeking judicial appointment of a guardian or other legal representative, as described in section 1311 of this title , if and when it appears that such action will best serve the interests of such needy individual; and
   - **(5)** opportunity for a fair hearing before the State agency on the determination referred to in paragraph (1) of this subsection for any individual with respect to whom it is made.
 - **(b)** , (c) Repealed. Pub. L. 97–35, title XXI, § 2184(a)(5) , Aug. 13, 1981 , 95 Stat. 817 .
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title I, § 6, [49 Stat. 622](https://www.govinfo.gov/link/statute/49/622); Aug. 10, 1939, ch. 666, title I, § 103, [53 Stat. 1362](https://www.govinfo.gov/link/statute/53/1362); Aug. 28, 1950, ch. 809, title III, pt. 1, § 303(a), [64 Stat. 549](https://www.govinfo.gov/link/statute/64/549); [Pub. L. 86–778, title VI, § 601(f)](https://www.govinfo.gov/link/plaw/86/public/778), Sept. 13, 1960, [74 Stat. 991](https://www.govinfo.gov/link/statute/74/991); [Pub. L. 87–543, title I, § 156(a)](https://www.govinfo.gov/link/plaw/87/public/543), July 25, 1962, [76 Stat. 207](https://www.govinfo.gov/link/statute/76/207); [Pub. L. 89–97, title II](https://www.govinfo.gov/link/plaw/89/public/97), §§ 221(a)(1), (2), 222(a), title IV, § 402(a), July 30, 1965, [79 Stat. 356](https://www.govinfo.gov/link/statute/79/356), 360, 415; [Pub. L. 92–603, title IV](https://www.govinfo.gov/link/plaw/92/public/603), §§ 408(a), 409(a), Oct. 30, 1972, [86 Stat. 1489](https://www.govinfo.gov/link/statute/86/1489), 1490; [Pub. L. 97–35, title XXI, § 2184(a)(5)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 817](https://www.govinfo.gov/link/statute/95/817).)*

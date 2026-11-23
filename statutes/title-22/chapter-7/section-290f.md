@@ -3,9 +3,10 @@ title: "Section 290f - Inter-American Foundation"
 usc_title: 22
 usc_section: "290f"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 290f"
-generated_at: "2026-03-30T02:55:05.323Z"
+generated_at: "2026-11-23T20:26:32.033Z"
+status: "active"
 ---
 
 # § 290f. Inter-American Foundation
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:55:05.323Z"
 - **(u)** When, with the permission of the Foundation, funds made available to a grantee under this section are invested pending disbursement, the resulting interest is not required to be deposited in the United States Treasury if the grantee uses the resulting interest for the purposes for which the grant was made. This subsection applies with respect to both interest earned before and interest earned after August 24, 1982 .
 - **(v)** Funds made available to the Foundation may be used for the expenses described in section 1345 of title 31 (relating to travel, transportation, and subsistence expenses for meetings).
 - **(w)** Funds made available to the Foundation may be used for printing and binding without regard to section 501 of title 44 .
+
+## Source Credit
+
+*([Pub. L. 91–175](https://www.govinfo.gov/link/plaw/91/public/175), pt. IV, § 401, Dec. 30, 1969, [83 Stat. 821](https://www.govinfo.gov/link/statute/83/821); [Pub. L. 92–226](https://www.govinfo.gov/link/plaw/92/public/226), pt. IV, § 406(2)–(5), Feb. 7, 1972, [86 Stat. 34](https://www.govinfo.gov/link/statute/86/34); [Pub. L. 95–105, title V, § 508](https://www.govinfo.gov/link/plaw/95/public/105), Aug. 17, 1977, [91 Stat. 859](https://www.govinfo.gov/link/statute/91/859); [Pub. L. 97–241, title V, § 501](https://www.govinfo.gov/link/plaw/97/public/241), Aug. 24, 1982, [96 Stat. 297](https://www.govinfo.gov/link/statute/96/297); [Pub. L. 98–164, title X, § 1001](https://www.govinfo.gov/link/plaw/98/public/164), Nov. 22, 1983, [97 Stat. 1051](https://www.govinfo.gov/link/statute/97/1051); [Pub. L. 99–83, title VII, § 708](https://www.govinfo.gov/link/plaw/99/public/83), Aug. 8, 1985, [99 Stat. 243](https://www.govinfo.gov/link/statute/99/243); [Pub. L. 99–529, title II, § 202(e)](https://www.govinfo.gov/link/plaw/99/public/529), title IV, § 403(a), Oct. 24, 1986, [100 Stat. 3012](https://www.govinfo.gov/link/statute/100/3012), 3019; [Pub. L. 101–246, title VI, § 601](https://www.govinfo.gov/link/plaw/101/public/246), Feb. 16, 1990, [104 Stat. 73](https://www.govinfo.gov/link/statute/104/73); [Pub. L. 102–138, title I, § 173(a)](https://www.govinfo.gov/link/plaw/102/public/138), (b)(1), (c), (d), Oct. 28, 1991, [105 Stat. 679](https://www.govinfo.gov/link/statute/105/679), 680; [Pub. L. 110–38, § 1](https://www.govinfo.gov/link/plaw/110/public/38), June 21, 2007, [121 Stat. 230](https://www.govinfo.gov/link/statute/121/230).)*

@@ -3,9 +3,10 @@ title: "Section 2609 - Seizure and forfeiture"
 usc_title: 19
 usc_section: "2609"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2609"
-generated_at: "2026-03-30T02:54:24.681Z"
+generated_at: "2026-11-23T20:26:11.003Z"
+status: "active"
 ---
 
 # § 2609. Seizure and forfeiture
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:24.681Z"
   - **(2)** Any article of cultural property which is imported into the United States in violation of section 2607 of this title and which is forfeited to the United States under this chapter shall—
     - **(A)** first be offered for return to the State Party in whose territory is situated the institution referred to in section 2607 of this title and shall be returned if that State Party bears the expenses incident to such return and delivery and complies with such other requirements relating to the return as the Secretary prescribes; or
     - **(B)** if not returned to such State Party, be disposed of in the manner prescribed by law for articles forfeited for violation of the customs laws.
+
+## Source Credit
+
+*([Pub. L. 97–446, title III, § 310](https://www.govinfo.gov/link/plaw/97/public/446), Jan. 12, 1983, [96 Stat. 2360](https://www.govinfo.gov/link/statute/96/2360).)*

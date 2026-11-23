@@ -3,9 +3,10 @@ title: "Section 639 - Reports, summaries, and projections of Congressional budge
 usc_title: 2
 usc_section: "639"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 639"
-generated_at: "2026-03-30T02:53:04.800Z"
+generated_at: "2026-11-23T20:25:28.903Z"
+status: "active"
 ---
 
 # § 639. Reports, summaries, and projections of Congressional budget actions
@@ -32,3 +33,9 @@ generated_at: "2026-03-30T02:53:04.800Z"
   - **(3)** tax expenditures for each fiscal year in such period; and
   - **(4)** entitlement authority for each fiscal year in such period.
 - **(d)** Estimates under this section shall be provided in accordance with the scorekeeping guidelines determined under section 902(d)(5) of this title .
+
+paygo
+
+## Source Credit
+
+*([Pub. L. 93–344, title III, § 308](https://www.govinfo.gov/link/plaw/93/public/344), July 12, 1974, [88 Stat. 313](https://www.govinfo.gov/link/statute/88/313); [Pub. L. 99–177, title II, § 201(b)](https://www.govinfo.gov/link/plaw/99/public/177), Dec. 12, 1985, [99 Stat. 1051](https://www.govinfo.gov/link/statute/99/1051); [Pub. L. 101–508, title XIII, § 13206](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–617](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 105–33, title X, § 10110](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 685](https://www.govinfo.gov/link/statute/111/685); [Pub. L. 111–139, title I, § 4(b)](https://www.govinfo.gov/link/plaw/111/public/139), Feb. 12, 2010, [124 Stat. 11](https://www.govinfo.gov/link/statute/124/11); [Pub. L. 113–67, div. A, title I, § 122(8)](https://www.govinfo.gov/link/plaw/113/public/67), Dec. 26, 2013, [127 Stat. 1175](https://www.govinfo.gov/link/statute/127/1175).)*

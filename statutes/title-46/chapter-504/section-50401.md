@@ -3,9 +3,10 @@ title: "Section 50401 - United States Committee on the Marine Transportation Sys
 usc_title: 46
 usc_section: "50401"
 chapter: 504
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 50401"
-generated_at: "2026-03-30T02:56:15.568Z"
+generated_at: "2026-11-23T20:27:27.274Z"
+status: "active"
 ---
 
 # § 50401. United States Committee on the Marine Transportation System
@@ -49,3 +50,33 @@ generated_at: "2026-03-30T02:56:15.568Z"
   - **(5)** steps taken to implement actions recommended in previous reports required under this subsection; and
   - **(6)** a compendium of the Federal programs engaged in the maritime transportation system.
 - **(f)** In carrying out its purpose and activities, the Committee may consult with marine transportation system-related advisory committees, interested parties, and the public.
+
+Establishment
+
+Purpose
+
+Membership.—
+
+In general
+
+Nonvoting members
+
+Support.—
+
+Coordinating board.—
+
+In general
+
+Chair
+
+Executive director
+
+Transfers
+
+Marine Transportation System Assessment and Strategy
+
+Consultation
+
+## Source Credit
+
+*(Added [Pub. L. 112–213, title III, § 310(a)](https://www.govinfo.gov/link/plaw/112/public/213), Dec. 20, 2012, [126 Stat. 1567](https://www.govinfo.gov/link/statute/126/1567), § 55502; renumbered § 55501, [Pub. L. 113–281, title III, § 301(2)](https://www.govinfo.gov/link/plaw/113/public/281), Dec. 18, 2014, [128 Stat. 3042](https://www.govinfo.gov/link/statute/128/3042); amended [Pub. L. 116–283, div. G, title LVXXXIII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXIII], § 8315, Jan. 1, 2021, [134 Stat. 4699](https://www.govinfo.gov/link/statute/134/4699); renumbered § 50401 and amended, [Pub. L. 117–81, div. C, title XXXV, § 3512(a)(3)](https://www.govinfo.gov/link/plaw/117/public/81), (4), Dec. 27, 2021, [135 Stat. 2239](https://www.govinfo.gov/link/statute/135/2239).)*

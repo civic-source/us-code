@@ -3,9 +3,10 @@ title: "Section 2254 - Assessment of operation and maintenance needs of the Atla
 usc_title: 33
 usc_section: "2254"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2254"
-generated_at: "2026-03-30T02:55:41.117Z"
+generated_at: "2026-11-23T20:26:54.138Z"
+status: "active"
 ---
 
 # § 2254. Assessment of operation and maintenance needs of the Atlantic Intracoastal Waterway and the Gulf Intracoastal Waterway
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:41.117Z"
   - **(1)** identifies the operation and maintenance costs required to achieve the authorized length, width, and depth;
   - **(2)** identifies the amount of funding requested in the President’s budget for operation and maintenance costs; and
   - **(3)** identifies the unmet operation and maintenance needs of the Atlantic Intracoastal Waterway and the Gulf Intracoastal Waterway.
+
+## Source Credit
+
+*([Pub. L. 113–121, title II, § 2008](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1268](https://www.govinfo.gov/link/statute/128/1268).)*

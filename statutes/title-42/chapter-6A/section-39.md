@@ -3,9 +3,10 @@ title: "Section 39 - Peer-supported mental health services"
 usc_title: 42
 usc_section: "39"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 39"
-generated_at: "2026-03-30T02:56:10.763Z"
+generated_at: "2026-11-23T20:27:20.317Z"
+status: "active"
 ---
 
 # § 290bb–39. Peer-supported mental health services
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:10.763Z"
     - **(B)** mobilizes resources within and outside of the mental health community, which may include through peer-support networks, to increase the prevalence and quality of long-term wellness of individuals living with a mental health condition, including those with a co-occurring substance use disorder; or
   - **(2)** an Indian Tribe, Tribal organization, Urban Indian organization, or consortium of Tribes or Tribal organizations.
 - **(e)** There is authorized to be appropriated to carry out this section $13,000,000 for each of fiscal years 2023 through 2027.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title V, § 520H, as added [Pub. L. 117–328, div. FF, title I, § 1151](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5658](https://www.govinfo.gov/link/statute/136/5658).)*

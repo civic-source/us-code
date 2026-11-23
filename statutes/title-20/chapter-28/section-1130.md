@@ -3,9 +3,10 @@ title: "Section 1130 - Findings and purposes"
 usc_title: 20
 usc_section: "1130"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1130"
-generated_at: "2026-03-30T02:54:48.143Z"
+generated_at: "2026-11-23T20:26:14.555Z"
+status: "active"
 ---
 
 # § 1130. Findings and purposes
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:48.143Z"
 - **(b)** It is the purpose of this part—
   - **(1)** to enhance the broad objective of this chapter by increasing and promoting the Nation’s capacity for international understanding and economic enterprise through the provision of suitable international education and training for business personnel in various stages of professional development; and
   - **(2)** to promote institutional and noninstitutional educational and training activities that will contribute to the ability of United States business to prosper in an international economy.
+
+## Source Credit
+
+*([Pub. L. 89–329, title VI, § 611](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 96–374, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/96/public/374), Oct. 3, 1980, [94 Stat. 1467](https://www.govinfo.gov/link/statute/94/1467); amended [Pub. L. 99–498, title VI, § 610](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1519](https://www.govinfo.gov/link/statute/100/1519); [Pub. L. 102–325, title VI, § 601](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 728](https://www.govinfo.gov/link/statute/106/728); [Pub. L. 105–244, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1783](https://www.govinfo.gov/link/statute/112/1783).)*

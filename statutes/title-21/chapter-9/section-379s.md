@@ -3,9 +3,10 @@ title: "Section 379s - Preemption for labeling or packaging of cosmetics"
 usc_title: 21
 usc_section: "379s"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 379s"
-generated_at: "2026-03-30T02:54:54.275Z"
+generated_at: "2026-11-23T20:26:27.751Z"
+status: "active"
 ---
 
 # § 379s. Preemption for labeling or packaging of cosmetics
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:54.275Z"
 - **(c)** For purposes of subsection (a), a reference to a State requirement that relates to the packaging or labeling of a cosmetic means any specific requirement relating to the same aspect of such cosmetic as a requirement specifically applicable to that particular cosmetic or class of cosmetics under this chapter for packaging or labeling, including any State requirement relating to public information or any other form of public communication.
 - **(d)** Nothing in this section shall be construed to modify or otherwise affect any action or the liability of any person under the product liability law of any State.
 - **(e)** This section shall not apply to a State requirement adopted by a State public initiative or referendum enacted prior to September 1, 1997 .
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 752, as added [Pub. L. 105–115, title IV, § 412(d)](https://www.govinfo.gov/link/plaw/105/public/115), Nov. 21, 1997, [111 Stat. 2376](https://www.govinfo.gov/link/statute/111/2376).)*

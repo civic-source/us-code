@@ -3,9 +3,10 @@ title: "Section 167j - Area comprising Library of Congress grounds; “buildings
 usc_title: 2
 usc_section: "167j"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 167j"
-generated_at: "2026-03-30T02:53:04.790Z"
+generated_at: "2026-11-23T20:25:28.852Z"
+status: "active"
 ---
 
 # § 167j. Area comprising Library of Congress grounds; “buildings and grounds” defined
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:04.790Z"
 - **(d)** The term “Library of Congress buildings and grounds” shall include the following property:
   - **(1)** Three parcels totaling approximately 45 acres, more or less, located in Culpeper County, Virginia, and identified as Culpeper County Tax Parcel Numbers 51–80B, 51–80C, and 51–80D, further described as real estate (consisting of 40.949 acres) conveyed to David and Lucile Packard Foundation by deed from Federal Reserve Bank of Richmond, dated May 15, 1998 , and recorded May 19, 1998 , in the Clerk’s Office, Circuit Court of Culpeper County, Virginia, in Deed Book 644, page 372; and real estate (consisting of 4.181 acres) conveyed to Packard Humanities Institute by deed from Russell H. Inskeep, dated February 13, 2002 , and recorded February 13, 2002 , in the Clerk’s Office, Circuit Court of Culpeper County, Virginia, as instrument number 020001299.
   - **(2)** Improvements to such real property.
+
+## Source Credit
+
+*(Aug. 4, 1950, ch. 561, § 11, [64 Stat. 412](https://www.govinfo.gov/link/statute/64/412); [Pub. L. 91–281](https://www.govinfo.gov/link/plaw/91/public/281), June 17, 1970, [84 Stat. 309](https://www.govinfo.gov/link/statute/84/309); [Pub. L. 101–520, title II, § 205(d)](https://www.govinfo.gov/link/plaw/101/public/520), Nov. 5, 1990, [104 Stat. 2272](https://www.govinfo.gov/link/statute/104/2272); [Pub. L. 101–562, § 2(c)](https://www.govinfo.gov/link/plaw/101/public/562), Nov. 15, 1990, [104 Stat. 2780](https://www.govinfo.gov/link/statute/104/2780); [Pub. L. 105–144, § 2](https://www.govinfo.gov/link/plaw/105/public/144), Dec. 15, 1997, [111 Stat. 2667](https://www.govinfo.gov/link/statute/111/2667); [Pub. L. 108–83, title I, § 1203(b)](https://www.govinfo.gov/link/plaw/108/public/83), Sept. 30, 2003, [117 Stat. 1031](https://www.govinfo.gov/link/statute/117/1031); [Pub. L. 110–161, div. H, title I, § 1004(d)(2)(D)](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2234](https://www.govinfo.gov/link/statute/121/2234); [Pub. L. 110–178, § 4(b)(4)](https://www.govinfo.gov/link/plaw/110/public/178), Jan. 7, 2008, [121 Stat. 2552](https://www.govinfo.gov/link/statute/121/2552); [Pub. L. 111–145, § 6(d)(1)](https://www.govinfo.gov/link/plaw/111/public/145), Mar. 4, 2010, [124 Stat. 54](https://www.govinfo.gov/link/statute/124/54).)*

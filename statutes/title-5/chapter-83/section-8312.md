@@ -3,9 +3,10 @@ title: "Section 8312 - Conviction of certain offenses"
 usc_title: 5
 usc_section: "8312"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8312"
-generated_at: "2026-03-30T02:52:56.044Z"
+generated_at: "2026-11-23T20:25:32.110Z"
+status: "active"
 ---
 
 # § 8312. Conviction of certain offenses
@@ -47,3 +48,22 @@ generated_at: "2026-03-30T02:52:56.044Z"
     - **(B)** that such conviction was obtained in accordance with procedures that provided the defendant due process rights comparable to such rights provided by the United States Constitution, and such conviction was based upon evidence which would have been admissible in the courts of the United States; and
     - **(C)** that such conviction occurred after the date of enactment of this subsection.
   - **(2)** Any certification made pursuant to this subsection shall be subject to review by the United States Court of Claims based upon the application of the individual concerned, or his or her attorney, alleging that any of the conditions set forth in subparagraphs 2 2 So in original. Probably should be “subparagraph”. (A), (B), or (C) of paragraph (1), as certified by the Attorney General, have not been satisfied in his or her particular circumstances. Should the court determine that any of these conditions has not been satisfied in such case, the court shall order any annuity or retirement benefit to which the person concerned is entitled to be restored and shall order that any payments which may have been previously denied or withheld to be paid by the department or agency concerned.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 2282 . | Sept. 26, 1961 , Pub. L. 87–299, § 1 “Sec. 1”, 75 Stat. 640 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 2282
+
+Sept. 26, 1961
+
+Pub. L. 87–299, § 1
+
+75 Stat. 640
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 559](https://www.govinfo.gov/link/statute/80/559); [Pub. L. 92–128, § 2(b)](https://www.govinfo.gov/link/plaw/92/public/128), Sept. 25, 1971, [85 Stat. 348](https://www.govinfo.gov/link/statute/85/348); [Pub. L. 99–569, title VI, § 603](https://www.govinfo.gov/link/plaw/99/public/569), Oct. 27, 1986, [100 Stat. 3204](https://www.govinfo.gov/link/statute/100/3204); [Pub. L. 103–337, div. A, title VI, § 639(a)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2791](https://www.govinfo.gov/link/statute/108/2791); [Pub. L. 103–359, title VIII, § 805](https://www.govinfo.gov/link/plaw/103/public/359), Oct. 14, 1994, [108 Stat. 3441](https://www.govinfo.gov/link/statute/108/3441); [Pub. L. 115–91, div. A, title X, § 1081(c)(3)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1599](https://www.govinfo.gov/link/statute/131/1599).)*

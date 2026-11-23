@@ -3,9 +3,10 @@ title: "Section 9901 - Prohibition on transfer of personally identifiable sensit
 usc_title: 15
 usc_section: "9901"
 chapter: 123
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 9901"
-generated_at: "2026-03-30T02:54:08.251Z"
+generated_at: "2026-11-23T20:26:04.587Z"
+status: "active"
 ---
 
 # § 9901. Prohibition on transfer of personally identifiable sensitive data of United States individuals to foreign adversaries
@@ -65,3 +66,87 @@ generated_at: "2026-03-30T02:54:08.251Z"
     - **(B)** receives data from or on behalf of an individual or entity described in subparagraph (A)(i) or a Federal, State, Tribal, territorial, or local government entity.
   - **(9)** The term “United States individual” means a natural person residing in the United States.
 - **(d)** This section shall take effect on the date that is 60 days after April 24, 2024 .
+
+(aa) a book, magazine, telephone book, or online directory;
+
+(bb) a motion picture;
+
+(cc) a television, internet, or radio program;
+
+(dd) the news media; or
+
+(ee) an internet site that is available to the general public on an unrestricted basis; and
+
+In General.—
+
+Prohibition of foreign adversary controlled applications
+
+Applicability
+
+Extension
+
+Data and Information Portability to Alternative Applications
+
+Exemptions.—
+
+Exemptions for qualified divestitures
+
+Exemptions for certain necessary services
+
+Enforcement.—
+
+Civil penalties.—
+
+Foreign adversary controlled application violations
+
+Data and information violations
+
+Actions by attorney general
+
+Severability.—
+
+In general
+
+Subsequent determinations
+
+Rule of Construction
+
+Definitions
+
+Controlled by a foreign adversary
+
+Covered company.—
+
+In general
+
+Exclusion
+
+Foreign adversary controlled application
+
+Foreign adversary country
+
+Internet hosting service
+
+Qualified divestiture
+
+Source code
+
+United states
+
+Right of Action
+
+Exclusive Jurisdiction
+
+Statute of Limitations
+
+Section
+
+Sec.
+
+Sec.
+
+J.R. Biden, Jr.
+
+## Source Credit
+
+*([Pub. L. 118–50, div. I, § 2](https://www.govinfo.gov/link/plaw/118/public/50), Apr. 24, 2024, [138 Stat. 960](https://www.govinfo.gov/link/statute/138/960).)*

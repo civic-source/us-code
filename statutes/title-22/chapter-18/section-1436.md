@@ -3,9 +3,10 @@ title: "Section 1436 - Restriction on disclosure of information"
 usc_title: 22
 usc_section: "1436"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 1436"
-generated_at: "2026-03-30T02:55:05.331Z"
+generated_at: "2026-11-23T20:26:32.104Z"
+status: "active"
 ---
 
 # § 1436. Restriction on disclosure of information
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:05.331Z"
   - **(1)** is prohibited by any other law of the United States, or
   - **(2)** is inconsistent with the security of the United States.
 
+
+## Source Credit
+
+*(Jan. 27, 1948, ch. 36, title X, § 1003, [62 Stat. 13](https://www.govinfo.gov/link/statute/62/13).)*

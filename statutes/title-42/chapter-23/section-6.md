@@ -3,9 +3,10 @@ title: "Section 6 - Transfer of contracts"
 usc_title: 42
 usc_section: "6"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6"
-generated_at: "2026-03-30T02:56:11.162Z"
+generated_at: "2026-11-23T20:27:22.137Z"
+status: "active"
 ---
 
 # § 2297h–6. Transfer of contracts
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.162Z"
     - **(A)** arises out of an obligation under a contract, agreement, or lease transferred under subsection (a), and
     - **(B)** arises out of actions of the private corporation between the privatization date and the date of a termination, extension, or material amendment of such contract, agreement, or lease.
 - **(d)** The Corporation may establish prices for its products, materials, and services provided to customers on a basis that will allow it to attain the normal business objectives of a profit making corporation.
+
+## Source Credit
+
+*([Pub. L. 104–134, title III, § 3108](https://www.govinfo.gov/link/plaw/104/public/134), Apr. 26, 1996, [110 Stat. 1321–339](https://www.govinfo.gov/link/statute/110/1321).)*

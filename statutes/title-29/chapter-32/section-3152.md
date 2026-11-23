@@ -3,9 +3,10 @@ title: "Section 3152 - Identification of eligible providers of training services
 usc_title: 29
 usc_section: "3152"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3152"
-generated_at: "2026-03-30T02:55:18.752Z"
+generated_at: "2026-11-23T20:26:38.094Z"
+status: "active"
 ---
 
 # § 3152. Identification of eligible providers of training services
@@ -76,3 +77,7 @@ generated_at: "2026-03-30T02:55:18.752Z"
   - **(1)** Providers of on-the-job training, customized training, incumbent worker training, internships, and paid or unpaid work experience opportunities, or transitional employment shall not be subject to the requirements of subsections (a) through (f).
   - **(2)** A one-stop operator in a local area shall collect such performance information from providers of on-the-job training, customized training, incumbent worker training, internships, paid or unpaid work experience opportunities, and transitional employment as the Governor may require, and use the information to determine whether the providers meet such performance criteria as the Governor may require. The one-stop operator shall disseminate information identifying such providers that meet the criteria as eligible providers, and the performance information, through the one-stop delivery system. Providers determined to meet the criteria shall be considered to be identified as eligible providers of training services.
 - **(i)** The Governor and local boards shall implement the requirements of this section not later than 12 months after July 22, 2014 . In order to facilitate early implementation of this section, the Governor may establish transition procedures under which providers eligible to provide training services under chapter 5 of subtitle B of title I of the Workforce Investment Act of 1998 [ 29 U.S.C. 2861 et seq.], as such chapter was in effect on the day before July 22, 2014 , may continue to be eligible to provide such services until December 31, 2015 , or until such earlier date as the Governor determines to be appropriate.
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 122](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1492](https://www.govinfo.gov/link/statute/128/1492).)*

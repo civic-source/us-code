@@ -3,9 +3,10 @@ title: "Section 3718 - Contracts for collection services"
 usc_title: 31
 usc_section: "3718"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 3718"
-generated_at: "2026-03-30T02:55:34.060Z"
+generated_at: "2026-11-23T20:26:51.806Z"
+status: "active"
 ---
 
 # § 3718. Contracts for collection services
@@ -42,3 +43,45 @@ generated_at: "2026-03-30T02:55:34.060Z"
 - **(e)** A contract under subsection (a) or (b) of this section is effective only to the extent and in the amount provided in an appropriation law. This limitation does not apply in the case of a contract that authorizes a person to collect a fee as provided in subsection (d) of this section.
 - **(f)** This section does not apply to the collection of debts under the Internal Revenue Code of 1986 ( 26 U.S.C. 1 et seq.).
 - **(g)** In order to assist Congress in determining whether use of private counsel is a cost-effective method of collecting Government debts, the Attorney General shall, following consultation with the Government Accountability Office, maintain and make available to the Inspector General of the Department of Justice, statistical data relating to the comparative costs of debt collection by participating United States Attorneys’ Offices and by private counsel.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3718(a) | 31 App.:952(f)(1) (1st sentence words after 2d comma, last sentence). | July 19, 1966 , Pub. L. 89–508 , 80 Stat. 308 , § 3(f); added Oct. 25, 1982 , Pub. L. 97–365, § 13(b) , 96 Stat. 1757 . |
+| 3718(b) | 31 App.:952(f)(2). |  |
+| 3718(c) | 31 App.:952(f)(3). |  |
+| 3718(d) | 31 App.:952(f)(1) (1st sentence words before 2d comma). |  |
+
+
+Historical and Revision Notes
+
+3718(a)
+
+July 19, 1966
+
+Pub. L. 89–508
+
+80 Stat. 308
+
+Oct. 25, 1982
+
+Pub. L. 97–365, § 13(b)
+
+96 Stat. 1757
+
+3718(b)
+
+3718(c)
+
+3718(d)
+
+Contents of Audit
+
+Report to Congress
+
+Contents of Audit
+
+Report to Congress
+
+## Source Credit
+
+*(Added [Pub. L. 97–452, § 1(16)(A)](https://www.govinfo.gov/link/plaw/97/public/452), Jan. 12, 1983, [96 Stat. 2473](https://www.govinfo.gov/link/statute/96/2473); amended [Pub. L. 98–167](https://www.govinfo.gov/link/plaw/98/public/167), Nov. 29, 1983, [97 Stat. 1104](https://www.govinfo.gov/link/statute/97/1104); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 99–578, § 1](https://www.govinfo.gov/link/plaw/99/public/578), Oct. 28, 1986, [100 Stat. 3305](https://www.govinfo.gov/link/statute/100/3305); [Pub. L. 102–589, § 6](https://www.govinfo.gov/link/plaw/102/public/589), Nov. 10, 1992, [106 Stat. 5135](https://www.govinfo.gov/link/statute/106/5135); [Pub. L. 103–272, § 4(f)(1)(M)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1362](https://www.govinfo.gov/link/statute/108/1362); [Pub. L. 104–134, title III, § 31001(c)(1)](https://www.govinfo.gov/link/plaw/104/public/134), (l), (cc)(1), Apr. 26, 1996, [110 Stat. 1321–359](https://www.govinfo.gov/link/statute/110/1321), 1321–366, 1321–380; [Pub. L. 105–135, title VI, § 604(e)(1)](https://www.govinfo.gov/link/plaw/105/public/135), Dec. 2, 1997, [111 Stat. 2633](https://www.govinfo.gov/link/statute/111/2633); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 111–350, § 5(h)(6)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3849](https://www.govinfo.gov/link/statute/124/3849); [Pub. L. 115–91, div. A, title XVII, § 1701(a)(4)(E)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1796](https://www.govinfo.gov/link/statute/131/1796).)*

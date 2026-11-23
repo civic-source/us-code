@@ -3,9 +3,10 @@ title: "Section 1885d - Biennial reports"
 usc_title: 42
 usc_section: "1885d"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1885d"
-generated_at: "2026-03-30T02:56:11.131Z"
+generated_at: "2026-11-23T20:27:21.972Z"
+status: "active"
 ---
 
 # § 1885d. Biennial reports
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.131Z"
     - **(E)** the unemployment rate of individuals seeking scientific and engineering positions;
   - **(2)** an assessment, including quantitative and other data, of the proportion of women and minorities studying scientific and engineering fields, including mathematics and computer skills, at all educational levels; and
   - **(3)** such other data, analyses, and evaluations as the Director, acting on the advice of the Committee on Equal Opportunities in Science and Engineering, determines appropriate to carry out the Foundation’s functions as well as the policies and programs of sections 1885 to 1885d of this title.
+
+## Source Credit
+
+*([Pub. L. 96–516, § 37](https://www.govinfo.gov/link/plaw/96/public/516), Dec. 12, 1980, [94 Stat. 3013](https://www.govinfo.gov/link/statute/94/3013); [Pub. L. 99–159, title I, § 111(b)(9)](https://www.govinfo.gov/link/plaw/99/public/159), Nov. 22, 1985, [99 Stat. 893](https://www.govinfo.gov/link/statute/99/893); [Pub. L. 108–360, title II, § 208](https://www.govinfo.gov/link/plaw/108/public/360), Oct. 25, 2004, [118 Stat. 1679](https://www.govinfo.gov/link/statute/118/1679).)*

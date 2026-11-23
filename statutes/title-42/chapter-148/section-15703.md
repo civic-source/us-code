@@ -3,9 +3,10 @@ title: "Section 15703 - National Windstorm Impact Reduction Program"
 usc_title: 42
 usc_section: "15703"
 chapter: 148
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 15703"
-generated_at: "2026-03-30T02:56:11.460Z"
+generated_at: "2026-11-23T20:27:23.568Z"
+status: "active"
 ---
 
 # § 15703. National Windstorm Impact Reduction Program
@@ -66,3 +67,7 @@ generated_at: "2026-03-30T02:56:11.460Z"
     - **(C)** a description of any recommendations made to change existing building codes that were the result of Program activities; and
     - **(D)** a description of the extent to which the Program has incorporated recommendations from the Advisory Committee on Windstorm Impact Reduction.
   - **(7)** The Committee shall develop a coordinated budget for the Program, which shall be submitted to the Congress not later than 60 days after the date of the President’s budget submission for each fiscal year.
+
+## Source Credit
+
+*([Pub. L. 108–360, title II, § 204](https://www.govinfo.gov/link/plaw/108/public/360), Oct. 25, 2004, [118 Stat. 1676](https://www.govinfo.gov/link/statute/118/1676); [Pub. L. 114–52, § 3](https://www.govinfo.gov/link/plaw/114/public/52), Sept. 30, 2015, [129 Stat. 496](https://www.govinfo.gov/link/statute/129/496).)*

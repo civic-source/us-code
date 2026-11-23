@@ -3,9 +3,10 @@ title: "Section 1535 - Supplemental grants for coalition mentoring activities"
 usc_title: 21
 usc_section: "1535"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 1535"
-generated_at: "2026-03-30T02:54:54.303Z"
+generated_at: "2026-11-23T20:26:27.881Z"
+status: "active"
 ---
 
 # § 1535. Supplemental grants for coalition mentoring activities
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:54.303Z"
   - **(3)** The total amount of renewal grants awarded to a coalition under subsection (f) for any fiscal year may not exceed $75,000.
 - **(h)** The total amount available for grants under this section, including renewal grants under subsection (f), in any fiscal year may not exceed the amount equal to five percent of the amount authorized to be appropriated by section 1524(a) of this title for that fiscal year.
 - **(i)** In awarding initial grants under this section, priority shall be given to a coalition that expressly proposes to provide mentorship to a coalition or aspiring coalition serving economically disadvantaged areas.
+
+## Source Credit
+
+*([Pub. L. 100–690, title I, § 1035](https://www.govinfo.gov/link/plaw/100/public/690), as added [Pub. L. 107–82, § 2](https://www.govinfo.gov/link/plaw/107/public/82), Dec. 14, 2001, [115 Stat. 819](https://www.govinfo.gov/link/statute/115/819); amended [Pub. L. 115–271, title VIII, § 8203(b)(4)(A)](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 4111](https://www.govinfo.gov/link/statute/132/4111); [Pub. L. 116–74, § 2(c)(1)(A)(ii)(II)](https://www.govinfo.gov/link/plaw/116/public/74), Nov. 27, 2019, [133 Stat. 1157](https://www.govinfo.gov/link/statute/133/1157).)*

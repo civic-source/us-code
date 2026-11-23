@@ -3,9 +3,10 @@ title: "Section 5324 - Public transportation emergency relief program"
 usc_title: 49
 usc_section: "5324"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 5324"
-generated_at: "2026-03-30T02:56:19.315Z"
+generated_at: "2026-11-23T20:27:34.658Z"
+status: "active"
 ---
 
 # § 5324. Public transportation emergency relief program
@@ -40,3 +41,138 @@ generated_at: "2026-03-30T02:56:19.315Z"
 - **(f)** Before receiving a grant under this section following an emergency, an applicant shall—
   - **(1)** submit to the Secretary documentation demonstrating proof of insurance required under Federal law for all structures related to the grant application; and
   - **(2)** certify to the Secretary that the applicant has insurance required under State law for all structures related to the grant application.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5324(a) | 49 App.:1606(a). | July 9, 1964 , Pub. L. 88–365, § 7(a) , 78 Stat. 305 ; May 25, 1967 , Pub. L. 90–19, § 20(a) , 81 Stat. 25 . |
+| 5324(b)(1) | 49 App.:1610(a) (last sentence). | July 9, 1964 , Pub. L. 88–365, § 14(a) (last sentence)–(c), 78 Stat. 308 ; Sept. 8, 1966 , Pub. L. 89–562, § 2(a)(1) , 80 Stat. 715 ; May 25, 1967 , Pub. L. 90–19, § 20(a) , 81 Stat. 25 ; restated Oct. 15, 1970 , Pub. L. 91–453, § 6 , 84 Stat. 966 . |
+| 5324(b)(2) | 49 App.:1610(b). |  |
+| 5324(b)(3) | 49 App.:1610(c). |  |
+| 5324(c) | 49 App.:1608(d). | July 9, 1964 , Pub. L. 88–365, § 12(d) , 78 Stat. 307 ; Aug. 10, 1965 , Pub. L. 89–117, § 1109 , 79 Stat. 507 ; Sept. 8, 1966 , Pub. L. 89–562, § 2(a)(1) , 80 Stat. 715 ; May 25, 1967 , Pub. L. 90–19, § 20(a) , 81 Stat. 25 ; Nov. 6, 1978 , Pub. L. 95–599, § 308(c) , 92 Stat. 2747 . |
+
+
+Definition
+
+Eligible operating costs
+
+Emergency
+
+General Authority
+
+Coordination of Emergency Funds.—
+
+Use of funds
+
+No effect on other government activity
+
+Notification
+
+Grant Requirements
+
+Government Share of Costs.—
+
+Capital projects and operating assistance
+
+Non-federal share
+
+Waiver
+
+Insurance
+
+Historical and Revision Notes
+
+5324(a)
+
+July 9, 1964
+
+Pub. L. 88–365, § 7(a)
+
+78 Stat. 305
+
+May 25, 1967
+
+Pub. L. 90–19, § 20(a)
+
+81 Stat. 25
+
+5324(b)(1)
+
+July 9, 1964
+
+Pub. L. 88–365, § 14(a)
+
+78 Stat. 308
+
+Sept. 8, 1966
+
+Pub. L. 89–562, § 2(a)(1)
+
+80 Stat. 715
+
+May 25, 1967
+
+Pub. L. 90–19, § 20(a)
+
+81 Stat. 25
+
+Oct. 15, 1970
+
+Pub. L. 91–453, § 6
+
+84 Stat. 966
+
+5324(b)(2)
+
+5324(b)(3)
+
+5324(c)
+
+July 9, 1964
+
+Pub. L. 88–365, § 12(d)
+
+78 Stat. 307
+
+Aug. 10, 1965
+
+Pub. L. 89–117, § 1109
+
+79 Stat. 507
+
+Sept. 8, 1966
+
+Pub. L. 89–562, § 2(a)(1)
+
+80 Stat. 715
+
+May 25, 1967
+
+Pub. L. 90–19, § 20(a)
+
+81 Stat. 25
+
+Nov. 6, 1978
+
+Pub. L. 95–599, § 308(c)
+
+92 Stat. 2747
+
+Purposes
+
+Agreement
+
+Contents of agreement
+
+After action review
+
+Factors for declarations of major disasters and emergencies
+
+Briefings.—
+
+Initial briefing
+
+Quarterly briefings
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 824](https://www.govinfo.gov/link/statute/108/824); [Pub. L. 109–59, title III, § 3024(a)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1619](https://www.govinfo.gov/link/statute/119/1619); [Pub. L. 112–141, div. B, § 20017(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 703](https://www.govinfo.gov/link/statute/126/703); [Pub. L. 117–58, div. C, § 30011](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 904](https://www.govinfo.gov/link/statute/135/904).)*

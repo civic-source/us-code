@@ -3,9 +3,10 @@ title: "Section 582 - Management of buildings by Administrator of General Servic
 usc_title: 40
 usc_section: "582"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 582"
-generated_at: "2026-03-30T02:55:43.375Z"
+generated_at: "2026-11-23T20:26:56.548Z"
+status: "active"
 ---
 
 # § 582. Management of buildings by Administrator of General Services
@@ -21,3 +22,47 @@ generated_at: "2026-03-30T02:55:43.375Z"
     - **(B)** used wholly or predominantly for the special purposes of the agency with custody of the buildings; and
     - **(C)** not generally suitable for use by another agency.
   - **(6)** A transfer of functions shall not be made under this subsection for the Treasury Building, the Bureau of Engraving and Printing Building, the buildings occupied by the National Institute of Standards and Technology, and the buildings under the jurisdiction of the regents of the Smithsonian Institution.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 582(a) | 40:490(b). | June 30, 1949, ch. 288 , title II, § 210(b), (d), as added Sept. 5, 1950, ch. 849, § 5(c) , 64 Stat. 581 , 582; Pub. L. 100–418, title V, § 5115(c) , Aug. 23, 1988 , 102 Stat. 1433 . |
+| 582(b) | 40:490(d). |  |
+
+
+Request by Federal Agency or Instrumentality
+
+Transfer of Functions by Director of the Office of Management and Budget.—
+
+In general
+
+Exception for post-office buildings
+
+Exception for buildings in a foreign country
+
+Exception for department of defense buildings
+
+Exception for groups of special purpose buildings
+
+Exception for certain government buildings
+
+Historical and Revision Notes
+
+582(a)
+
+June 30, 1949, ch. 288
+
+Sept. 5, 1950, ch. 849, § 5(c)
+
+64 Stat. 581
+
+Pub. L. 100–418, title V, § 5115(c)
+
+Aug. 23, 1988
+
+102 Stat. 1433
+
+582(b)
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1110](https://www.govinfo.gov/link/statute/116/1110).)*

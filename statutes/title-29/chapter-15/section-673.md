@@ -3,9 +3,10 @@ title: "Section 673 - Statistics"
 usc_title: 29
 usc_section: "673"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 673"
-generated_at: "2026-03-30T02:55:18.690Z"
+generated_at: "2026-11-23T20:26:37.841Z"
+status: "active"
 ---
 
 # § 673. Statistics
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:18.690Z"
 - **(d)** The Secretary may, with the consent of any State or political subdivision thereof, accept and use the services, facilities, and employees of the agencies of such State or political subdivision, with or without reimbursement, in order to assist him in carrying out his functions under this section.
 - **(e)** On the basis of the records made and kept pursuant to section 657(c) of this title , employers shall file such reports with the Secretary as he shall prescribe by regulation, as necessary to carry out his functions under this chapter.
 - **(f)** Agreements between the Department of Labor and States pertaining to the collection of occupational safety and health statistics already in effect on the effective date of this chapter shall remain in effect until superseded by grants or contracts made under this chapter.
+
+## Source Credit
+
+*([Pub. L. 91–596, § 24](https://www.govinfo.gov/link/plaw/91/public/596), Dec. 29, 1970, [84 Stat. 1614](https://www.govinfo.gov/link/statute/84/1614); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695).)*

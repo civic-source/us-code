@@ -3,9 +3,10 @@ title: "Section 4055 - Reinsurance coverage"
 usc_title: 42
 usc_section: "4055"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4055"
-generated_at: "2026-03-30T02:56:11.197Z"
+generated_at: "2026-11-23T20:27:22.349Z"
+status: "active"
 ---
 
 # § 4055. Reinsurance coverage
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.197Z"
 - **(b)** Such reinsurance shall be made available pursuant to contract, agreement, or any other arrangement, in consideration of such payment of a premium, fee, or other charge as the Administrator finds necessary to cover anticipated losses and other costs of providing such reinsurance.
 - **(c)** The Administrator is authorized to negotiate an excess loss agreement, from time to time, under which the amount of flood insurance retained by the pool, after ceding reinsurance, shall be adequate to further the purposes of this chapter, consistent with the objective of maintaining appropriate financial participation and risk sharing to the maximum extent practicable on the part of participating insurance companies and other insurers.
 - **(d)** All reinsurance claims for losses in excess of losses assumed by the pool shall be submitted on a portfolio basis by such pool in accordance with terms and conditions established by the Administrator.
+
+## Source Credit
+
+*([Pub. L. 90–448, title XIII, § 1335](https://www.govinfo.gov/link/plaw/90/public/448), Aug. 1, 1968, [82 Stat. 583](https://www.govinfo.gov/link/statute/82/583); [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title IV, § 451(d)(1)], Nov. 30, 1983, [97 Stat. 1229](https://www.govinfo.gov/link/statute/97/1229); [Pub. L. 112–141, div. F, title II](https://www.govinfo.gov/link/plaw/112/public/141), §§ 100232(d)(3), 100238(b)(1), July 6, 2012, [126 Stat. 954](https://www.govinfo.gov/link/statute/126/954), 958.)*

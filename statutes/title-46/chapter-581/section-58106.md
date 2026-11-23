@@ -3,9 +3,10 @@ title: "Section 58106 - Concerted discriminatory activities"
 usc_title: 46
 usc_section: "58106"
 chapter: 581
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 58106"
-generated_at: "2026-03-30T02:56:15.582Z"
+generated_at: "2026-11-23T20:27:27.417Z"
+status: "active"
 ---
 
 # § 58106. Concerted discriminatory activities
@@ -15,3 +16,26 @@ generated_at: "2026-03-30T02:56:15.582Z"
 - **(c)** A person whose business or property is injured by a violation of subsection (a) may bring a civil action in the district court of the United States for the district in which the defendant resides, is found, or has an agent. If the person prevails, the person shall be awarded—
   - **(1)** 3 times the damages; and
   - **(2)** costs, including reasonable attorney fees.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 58106 | 46 App.:1227. | June 29, 1936, ch. 858 , title VIII, § 810, 49 Stat. 2015 . |
+
+
+Prohibition
+
+Government Payment Prohibited
+
+Civil Action
+
+Historical and Revision Notes
+
+58106
+
+June 29, 1936, ch. 858
+
+49 Stat. 2015
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(c)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1672](https://www.govinfo.gov/link/statute/120/1672).)*

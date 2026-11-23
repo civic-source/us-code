@@ -3,9 +3,10 @@ title: "Section 2767 - Authority of President to enter into cooperative projects
 usc_title: 22
 usc_section: "2767"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2767"
-generated_at: "2026-03-30T02:55:05.385Z"
+generated_at: "2026-11-23T20:26:32.409Z"
+status: "active"
 ---
 
 # § 2767. Authority of President to enter into cooperative projects with friendly foreign countries
@@ -42,3 +43,17 @@ generated_at: "2026-03-30T02:55:05.385Z"
 - **(j)**
   - **(1)** The President may enter into a cooperative project agreement with any friendly foreign country not a member of the North Atlantic Treaty Organization under the same general terms and conditions as the President is authorized to enter into such an agreement with one or more member countries of the North Atlantic Treaty Organization if the President determines that the cooperative project agreement with such country would be in the foreign policy or national security interests of the United States.
   - **(2)** Omitted.
+
+Assessment of Risk Required.—
+
+In general
+
+Preparation
+
+Elements
+
+Definitions
+
+## Source Credit
+
+*([Pub. L. 90–629](https://www.govinfo.gov/link/plaw/90/public/629), ch. 2, § 27, as added [Pub. L. 96–92, § 15](https://www.govinfo.gov/link/plaw/96/public/92), Oct. 29, 1979, [93 Stat. 706](https://www.govinfo.gov/link/statute/93/706); amended [Pub. L. 99–83, title I, § 115(a)](https://www.govinfo.gov/link/plaw/99/public/83), Aug. 8, 1985, [99 Stat. 199](https://www.govinfo.gov/link/statute/99/199); [Pub. L. 99–145, title XI, § 1102(a)(1)](https://www.govinfo.gov/link/plaw/99/public/145), (5), Nov. 8, 1985, [99 Stat. 708](https://www.govinfo.gov/link/statute/99/708), 710; [Pub. L. 99–661, div. A, title XI, § 1103(a)](https://www.govinfo.gov/link/plaw/99/public/661), title XIII, § 1342(e), Nov. 14, 1986, [100 Stat. 3962](https://www.govinfo.gov/link/statute/100/3962), 3991; [Pub. L. 100–180, div. A, title X, § 1022](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1144](https://www.govinfo.gov/link/statute/101/1144); [Pub. L. 102–484, div. A, title VIII, § 843(a)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2468](https://www.govinfo.gov/link/statute/106/2468); [Pub. L. 113–276, title II, § 208(a)(4)](https://www.govinfo.gov/link/plaw/113/public/276), Dec. 18, 2014, [128 Stat. 2993](https://www.govinfo.gov/link/statute/128/2993).)*

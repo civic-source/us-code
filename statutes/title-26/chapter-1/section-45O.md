@@ -3,9 +3,10 @@ title: "Section 45O - Agricultural chemicals security credit"
 usc_title: 26
 usc_section: "45O"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 45O"
-generated_at: "2026-03-30T02:55:27.603Z"
+generated_at: "2026-11-23T20:26:45.221Z"
+status: "active"
 ---
 
 # § 45O. Agricultural chemicals security credit
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:55:27.603Z"
   - **(1)** provide for the proper treatment of amounts which are paid or incurred for purpose of protecting any specified agricultural chemical and for other purposes, and
   - **(2)** provide for the treatment of related properties as one facility for purposes of subsection (b).
 - **(i)** This section shall not apply to any amount paid or incurred after December 31, 2012 .
+
+## Source Credit
+
+*(Added [Pub. L. 110–234, title XV, § 15343(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1518](https://www.govinfo.gov/link/statute/122/1518), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XV, § 15343(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2280.)*

@@ -3,9 +3,10 @@ title: "Section 18203 - Permissible uses of Fund"
 usc_title: 42
 usc_section: "18203"
 chapter: 158
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18203"
-generated_at: "2026-03-30T02:56:11.518Z"
+generated_at: "2026-11-23T20:27:23.792Z"
+status: "active"
 ---
 
 # § 18203. Permissible uses of Fund
@@ -63,3 +64,7 @@ generated_at: "2026-03-30T02:56:11.518Z"
     - **(D)** the identification and referral of the pregnant woman to appropriate public and private nonprofit entities that provide intervention services, accompaniment, and supportive social services.
   - **(4)** In this subsection, the term “eligible pregnant woman” means any woman who is pregnant on the date on which such woman becomes a victim of domestic violence, sexual violence, sexual assault, or stalking or who was pregnant during the one-year period before such date.
 - **(e)** A State may use amounts received under a grant under section 18202 of this title to make funding available to increase public awareness and education concerning any services available to pregnant and parenting teens and women under this chapter, or any other resources available to pregnant and parenting women in keeping with the intent and purposes of this chapter. The State shall be responsible for setting guidelines or limits as to how much of funding may be utilized for public awareness and education in any funding award.
+
+## Source Credit
+
+*([Pub. L. 111–148, title X, § 10213](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 932](https://www.govinfo.gov/link/statute/124/932).)*

@@ -3,9 +3,10 @@ title: "Section 2341a - Prioritization"
 usc_title: 33
 usc_section: "2341a"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2341a"
-generated_at: "2026-03-30T02:55:41.126Z"
+generated_at: "2026-11-23T20:26:54.193Z"
+status: "active"
 ---
 
 # § 2341a. Prioritization
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:41.126Z"
       - **(i)** were authorized or modified in the Water Resources Development Act of 2007 ( Public Law 110–114 ; 121 Stat. 1041 ) or any subsequent Act; and
       - **(ii)** that meet the criteria described in paragraph (1); and
     - **(B)** a plan for expeditiously completing the projects under the authorities described in subparagraph (A), subject to available funding.
+
+## Source Credit
+
+*([Pub. L. 113–121, title I, § 1011](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1217](https://www.govinfo.gov/link/statute/128/1217); [Pub. L. 114–322, title I, § 1322(a)](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1706](https://www.govinfo.gov/link/statute/130/1706).)*

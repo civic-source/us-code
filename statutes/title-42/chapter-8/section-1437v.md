@@ -3,9 +3,10 @@ title: "Section 1437v - Demolition, site revitalization, replacement housing, an
 usc_title: 42
 usc_section: "1437v"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1437v"
-generated_at: "2026-03-30T02:56:11.088Z"
+generated_at: "2026-11-23T20:27:21.751Z"
+status: "active"
 ---
 
 # § 1437v. Demolition, site revitalization, replacement housing, and tenant-based assistance grants for projects
@@ -123,3 +124,11 @@ generated_at: "2026-03-30T02:56:11.088Z"
         - **(I)** is not served by a public housing agency; or
         - **(II)** is served by a single public housing agency, which agency administers 100 or fewer public housing dwelling units.
 - **(o)** No assistance may be provided under this section after September 30, 2017 .
+
+Long-term viability
+
+Selection of tenants
+
+## Source Credit
+
+*(Sept. 1, 1937, ch. 896, title I, § 24, as added [Pub. L. 102–550, title I, § 120](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3695](https://www.govinfo.gov/link/statute/106/3695); amended [Pub. L. 104–99, title IV, § 402(d)(6)(A)(vi)](https://www.govinfo.gov/link/plaw/104/public/99), Jan. 26, 1996, [110 Stat. 43](https://www.govinfo.gov/link/statute/110/43); [Pub. L. 104–330, title V, § 501(b)(9)](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4042](https://www.govinfo.gov/link/statute/110/4042); [Pub. L. 105–276, title V, § 535(a)](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2581](https://www.govinfo.gov/link/statute/112/2581); [Pub. L. 106–377, § 1(a)(1) [title II, § 214(b)]](https://www.govinfo.gov/link/plaw/106/public/377), Oct. 27, 2000, [114 Stat. 1441](https://www.govinfo.gov/link/statute/114/1441), 1441A–27; [Pub. L. 108–7, div. K, title II, § 215](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 504](https://www.govinfo.gov/link/statute/117/504); [Pub. L. 108–186, title IV](https://www.govinfo.gov/link/plaw/108/public/186), §§ 402(a), (b), (d), (e), 403, Dec. 16, 2003, [117 Stat. 2693](https://www.govinfo.gov/link/statute/117/2693), 2694; [Pub. L. 109–289, div. B, title II, § 21045](https://www.govinfo.gov/link/plaw/109/public/289), as added [Pub. L. 110–5, § 2](https://www.govinfo.gov/link/plaw/110/public/5), Feb. 15, 2007, [121 Stat. 54](https://www.govinfo.gov/link/statute/121/54); [Pub. L. 110–161, div. K, title II, § 224](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2437](https://www.govinfo.gov/link/statute/121/2437); [Pub. L. 111–8, div. I, title II, § 223](https://www.govinfo.gov/link/plaw/111/public/8), Mar. 11, 2009, [123 Stat. 976](https://www.govinfo.gov/link/statute/123/976); [Pub. L. 111–117, div. A, title II, § 222](https://www.govinfo.gov/link/plaw/111/public/117), Dec. 16, 2009, [123 Stat. 3101](https://www.govinfo.gov/link/statute/123/3101); [Pub. L. 112–55, div. C, title II, § 222](https://www.govinfo.gov/link/plaw/112/public/55), Nov. 18, 2011, [125 Stat. 699](https://www.govinfo.gov/link/statute/125/699); [Pub. L. 113–76, div. L, title II, § 234](https://www.govinfo.gov/link/plaw/113/public/76), Jan. 17, 2014, [128 Stat. 634](https://www.govinfo.gov/link/statute/128/634); [Pub. L. 113–235, div. K, title II, § 229](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2756](https://www.govinfo.gov/link/statute/128/2756); [Pub. L. 114–113, div. L, title II, § 228](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2895](https://www.govinfo.gov/link/statute/129/2895); [Pub. L. 115–31, div. K, title II, § 226](https://www.govinfo.gov/link/plaw/115/public/31), May 5, 2017, [131 Stat. 787](https://www.govinfo.gov/link/statute/131/787).)*

@@ -3,9 +3,10 @@ title: "Section 12805 - Sweat equity model program"
 usc_title: 42
 usc_section: "12805"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12805"
-generated_at: "2026-03-30T02:56:11.432Z"
+generated_at: "2026-11-23T20:27:23.442Z"
+status: "active"
 ---
 
 # § 12805. Sweat equity model program
@@ -20,3 +21,69 @@ generated_at: "2026-03-30T02:56:11.432Z"
   - **(2)** The use of the tenant’s skilled or unskilled labor shall be encouraged in lieu of or as a supplement to rent payments by the tenant.
 - **(e)** The term “self-help housing” means the same as in section 1490c of this title .
 - **(f)** The guidelines for the model program shall generally comport with the additional protections and restrictions specified under section 1490c of this title .
+
+Grant Authority
+
+Goals and Accountability
+
+National Competition
+
+Use.—
+
+Purpose
+
+Eligible expenses
+
+Land acquisition
+
+Infrastructure improvement
+
+Establishment of Grant Fund.—
+
+In general
+
+Assistance to affiliates
+
+Requirements for Assistance
+
+Energy Efficiency Requirements
+
+Geographical Diversity
+
+Grant Agreement
+
+Fulfillment of Grant Agreement
+
+Records and Audits
+
+Close-Out
+
+Environmental Review
+
+Report to Congress
+
+Definitions
+
+Applicable committees
+
+Secretary
+
+United states
+
+Authorization of Appropriations
+
+Regulations
+
+Authority to Use Assisted Housing Amounts
+
+Fiscal Year
+
+Self-help housing assistance
+
+National cities in schools community development program
+
+Capacity building through national community development initiative
+
+## Source Credit
+
+*([Pub. L. 101–625, title II, § 255](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4121](https://www.govinfo.gov/link/statute/104/4121).)*

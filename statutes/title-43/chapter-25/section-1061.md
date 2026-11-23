@@ -3,12 +3,17 @@ title: "Section 1061 - Inclosure of or assertion of right to public lands withou
 usc_title: 43
 usc_section: "1061"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1061"
-generated_at: "2026-03-30T02:55:57.467Z"
+generated_at: "2026-11-23T20:27:06.270Z"
+status: "active"
 ---
 
 # § 1061. Inclosure of or assertion of right to public lands without title
 
 All inclosures of any public lands in any State or Territory of the United States, heretofore or to be hereafter made, erected, or constructed by any person, party, association, or corporation, to any of which land included within the inclosure the person, party, association, or corporation making or controlling the inclosure had no claim or color of title made or acquired in good faith, or an asserted right thereto by or under claim, made in good faith with a view to entry thereof at the proper land office under the general laws of the United States at the time any such inclosure was or shall be made, are declared to be unlawful, and the maintenance, erection, construction, or control of any such inclosure is forbidden and prohibited; and the assertion of a right to the exclusive use and occupancy of any part of the public lands of the United States in any State or any of the Territories of the United States, without claim, color of title, or asserted right as above specified as to inclosure, is likewise declared unlawful, and prohibited.
 
+
+## Source Credit
+
+*(Feb. 25, 1885, ch. 149, § 1, [23 Stat. 321](https://www.govinfo.gov/link/statute/23/321).)*

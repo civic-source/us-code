@@ -3,9 +3,10 @@ title: "Section 14905 - Officer considered for removal: retirement or discharge"
 usc_title: 10
 usc_section: "14905"
 chapter: 1411
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 14905"
-generated_at: "2026-03-30T02:53:38.276Z"
+generated_at: "2026-11-23T20:25:52.480Z"
+status: "active"
 ---
 
 # § 14905. Officer considered for removal: retirement or discharge
@@ -21,3 +22,13 @@ generated_at: "2026-03-30T02:53:38.276Z"
     - **(A)** be honorably discharged in the grade then held, in the case of an officer whose case was brought under subsection (a) of section 14902 of this title ; or
     - **(B)** be discharged in the grade then held, in the case of an officer whose case was brought under subsection (b) of section 14902 of this title .
 - **(c)** An officer who is discharged under subsection (b)(3) is entitled, if eligible therefor, to separation pay under section 1174(c) of this title .
+
+Voluntary Retirement or Discharge
+
+Required Retirement or Discharge
+
+Separation Pay
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1611](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2959](https://www.govinfo.gov/link/statute/108/2959).)*

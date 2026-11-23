@@ -3,9 +3,10 @@ title: "Section 629c - Allotments to States"
 usc_title: 42
 usc_section: "629c"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 629c"
-generated_at: "2026-03-30T02:56:10.878Z"
+generated_at: "2026-11-23T20:27:20.859Z"
+status: "active"
 ---
 
 # § 629c. Allotments to States
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:10.878Z"
   - **(1)** From the amount reserved pursuant to section 629f(b)(3)(A) of this title for any fiscal year, the Secretary shall first allot to each State (other than an Indian tribe) that has provided to the Secretary such documentation as may be necessary to verify that the jurisdiction has complied with section 629f(b)(4)(B)(ii) 1 1 See References in Text note below. of this title during the fiscal year, a base allotment of $100,000, and shall then allot to each of those States an amount determined in paragraph (2) or (3) of this subsection, as applicable.
   - **(2)** From the amount reserved pursuant to section 629f(b)(3)(A) of this title for any fiscal year that remains after applying paragraph (1) of this subsection for the fiscal year, the Secretary shall allot to each jurisdiction specified in subsection (b) of this section to which a base allotment is made under such paragraph (1) an amount determined in the same manner as the allotment to each of such jurisdictions is determined under section 623 of this title (without regard to the initial allotment of $70,000 to each State).
   - **(3)** From the amount reserved pursuant to section 629f(b)(3)(A) of this title for any fiscal year that remains after applying paragraphs (1) and (2) of this subsection for the fiscal year, the Secretary shall allot to each State (other than an Indian tribe) not specified in subsection (b) of this section to which a base allotment was made under paragraph (1) of this subsection an amount equal to such remaining amount multiplied by the supplemental nutrition assistance program benefits percentage of the State (as defined in subsection (c)(2) of this section) for the fiscal year, except that in applying subsection (c)(2)(A) of this section, “subsection (e)(3)” shall be substituted for “such paragraph (1)”.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 433, as added [Pub. L. 103–66, title XIII, § 13711(a)(2)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 653](https://www.govinfo.gov/link/statute/107/653); amended [Pub. L. 107–133, title I](https://www.govinfo.gov/link/plaw/107/public/133), §§ 103, 106(a)(2), Jan. 17, 2002, [115 Stat. 2415](https://www.govinfo.gov/link/statute/115/2415), 2417; [Pub. L. 109–288](https://www.govinfo.gov/link/plaw/109/public/288), §§ 4(a)(2), 5(b)(1)(A), 6(f)(4), Sept. 28, 2006, [120 Stat. 1237](https://www.govinfo.gov/link/statute/120/1237), 1242, 1247; [Pub. L. 110–234, title IV, § 4002(b)(1)(B)](https://www.govinfo.gov/link/plaw/110/public/234), (D), (2)(V), May 22, 2008, [122 Stat. 1096](https://www.govinfo.gov/link/statute/122/1096), 1097; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, § 4002(b)(1)(B), (D), (2)(V), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1857, 1858; [Pub. L. 112–34, title I, § 102(g)(2)](https://www.govinfo.gov/link/plaw/112/public/34), Sept. 30, 2011, [125 Stat. 372](https://www.govinfo.gov/link/statute/125/372); [Pub. L. 118–258, title I](https://www.govinfo.gov/link/plaw/118/public/258), §§ 112(b), 115(b)(2)(A), (B), Jan. 4, 2025, [138 Stat. 2962](https://www.govinfo.gov/link/statute/138/2962), 2968, 2969.)*

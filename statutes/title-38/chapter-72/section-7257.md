@@ -3,9 +3,10 @@ title: "Section 7257 - Recall of retired judges"
 usc_title: 38
 usc_section: "7257"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7257"
-generated_at: "2026-03-30T02:55:53.524Z"
+generated_at: "2026-11-23T20:27:01.983Z"
+status: "active"
 ---
 
 # § 7257. Recall of retired judges
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:53.524Z"
 - **(e)**
   - **(1)** Except as provided in subsection (d), a judge who is recalled under this section who retired under chapter 83 or 84 of title 5 shall be considered to be a reemployed annuitant under that chapter.
   - **(2)** Nothing in this section affects the right of a judge who retired under chapter 83 or 84 of title 5 to serve as a reemployed annuitant in accordance with the provisions of title 5.
+
+## Source Credit
+
+*(Added [Pub. L. 106–117, title X, § 1021(a)](https://www.govinfo.gov/link/plaw/106/public/117), Nov. 30, 1999, [113 Stat. 1590](https://www.govinfo.gov/link/statute/113/1590); amended [Pub. L. 110–389, title VI, § 603(a)](https://www.govinfo.gov/link/plaw/110/public/389), (b)(3)–(c), Oct. 10, 2008, [122 Stat. 4177](https://www.govinfo.gov/link/statute/122/4177), 4178.)*

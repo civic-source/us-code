@@ -3,9 +3,10 @@ title: "Section 31308 - Commercial driver’s license"
 usc_title: 49
 usc_section: "31308"
 chapter: 313
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 31308"
-generated_at: "2026-03-30T02:56:19.361Z"
+generated_at: "2026-11-23T20:27:34.969Z"
+status: "active"
 ---
 
 # § 31308. Commercial driver’s license
@@ -23,3 +24,22 @@ After consultation with the States, the Secretary of Transportation shall prescr
     - **(C)** the class or type of commercial motor vehicle the individual is authorized to operate under the license or learner’s permit;
     - **(D)** the name of the State that issued the license or learner’s permit; and
     - **(E)** the dates between which the license or learner’s permit is valid.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 31308 | 49 App.:2705. | Oct. 27, 1986 , Pub. L. 99–570, § 12006 , 100 Stat. 3207–175 . |
+
+
+Historical and Revision Notes
+
+31308
+
+Oct. 27, 1986
+
+Pub. L. 99–570, § 12006
+
+100 Stat. 3207–175
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1020](https://www.govinfo.gov/link/statute/108/1020); [Pub. L. 105–178, title IV, § 4011(c)(1)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 407](https://www.govinfo.gov/link/statute/112/407); [Pub. L. 109–59, title IV, § 4122(2)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1734](https://www.govinfo.gov/link/statute/119/1734); [Pub. L. 110–244, title III, § 301(g)](https://www.govinfo.gov/link/plaw/110/public/244), June 6, 2008, [122 Stat. 1616](https://www.govinfo.gov/link/statute/122/1616); [Pub. L. 112–141, div. C, title II, § 32304(b)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 791](https://www.govinfo.gov/link/statute/126/791).)*

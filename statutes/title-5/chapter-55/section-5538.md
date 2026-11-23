@@ -3,9 +3,10 @@ title: "Section 5538 - Nonreduction in pay while serving in the uniformed servic
 usc_title: 5
 usc_section: "5538"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 5538"
-generated_at: "2026-03-30T02:52:56.019Z"
+generated_at: "2026-11-23T20:25:31.933Z"
+status: "active"
 ---
 
 # § 5538. Nonreduction in pay while serving in the uniformed services or National Guard
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:52:56.019Z"
   - **(1)** the terms “employee”, “Federal Government”, and “uniformed services” have the same respective meanings as given those terms in section 4303 of title 38 ;
   - **(2)** the term “employing agency”, as used with respect to an employee entitled to any payments under this section, means the agency or other entity of the Government (including an agency referred to in section 2302(a)(2)(C)(ii)) with respect to which such employee has reemployment rights under chapter 43 of title 38; and
   - **(3)** the term “basic pay” includes any amount payable under section 5304.
+
+## Source Credit
+
+*(Added [Pub. L. 111–8, div. D, title VII, § 751(a)](https://www.govinfo.gov/link/plaw/111/public/8), Mar. 11, 2009, [123 Stat. 693](https://www.govinfo.gov/link/statute/123/693); amended [Pub. L. 111–117, div. C, title VII, § 745(a)](https://www.govinfo.gov/link/plaw/111/public/117), Dec. 16, 2009, [123 Stat. 3219](https://www.govinfo.gov/link/statute/123/3219); [Pub. L. 115–232, div. A, title VI, § 605](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1795](https://www.govinfo.gov/link/statute/132/1795).)*

@@ -3,9 +3,10 @@ title: "Section 1232 - Protection for employees under Federal procurement, const
 usc_title: 29
 usc_section: "1232"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1232"
-generated_at: "2026-03-30T02:55:18.727Z"
+generated_at: "2026-11-23T20:26:38.006Z"
+status: "active"
 ---
 
 # § 1232. Protection for employees under Federal procurement, construction, and research contracts and grants
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:18.727Z"
   - **(9)** This subsection is enacted by the Congress—
     - **(A)** as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they are deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of resolutions of disapproval described in paragraph (2); and they supersede other rules only to the extent that they are inconsistent therewith; and
     - **(B)** with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedures of that House) at any time, in the same manner and to the same extent as in the case of any other rule of that House.
+
+## Source Credit
+
+*([Pub. L. 93–406, title III, § 3032](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 1000](https://www.govinfo.gov/link/statute/88/1000).)*

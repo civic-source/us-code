@@ -3,9 +3,10 @@ title: "Section 2806 - Relationship of statutory provisions to State and local l
 usc_title: 15
 usc_section: "2806"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2806"
-generated_at: "2026-03-30T02:54:08.184Z"
+generated_at: "2026-11-23T20:26:04.256Z"
+status: "active"
 ---
 
 # § 2806. Relationship of statutory provisions to State and local laws
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.184Z"
 - **(b)**
   - **(1)** Nothing in this subchapter authorizes any transfer or assignment of any franchise or prohibits any transfer or assignment of any franchise as authorized by the provisions of such franchise or by any applicable provision of State law which permits such transfer or assignment without regard to any provision of the franchise.
   - **(2)** Nothing in this subchapter shall prohibit any State from specifying the terms and conditions under which any franchise or franchise relationship may be transferred to the designated successor of a franchisee upon the death of the franchisee.
+
+## Source Credit
+
+*([Pub. L. 95–297, title I, § 106](https://www.govinfo.gov/link/plaw/95/public/297), June 19, 1978, [92 Stat. 332](https://www.govinfo.gov/link/statute/92/332); [Pub. L. 103–371, § 5](https://www.govinfo.gov/link/plaw/103/public/371), Oct. 19, 1994, [108 Stat. 3485](https://www.govinfo.gov/link/statute/108/3485).)*

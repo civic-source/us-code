@@ -3,9 +3,10 @@ title: "Section 6720C - Penalty for failure to notify health plan of cessation o
 usc_title: 26
 usc_section: "6720C"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6720C"
-generated_at: "2026-03-30T02:55:27.866Z"
+generated_at: "2026-11-23T20:26:46.730Z"
+status: "active"
 ---
 
 # § 6720C. Penalty for failure to notify health plan of cessation of eligibility for continuation coverage premium assistance
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:27.866Z"
   - **(1)** $250, or
   - **(2)** 110 percent of the premium assistance provided under section 9501(a)(1)(A) of the American Rescue Plan Act of 2021 after termination of eligibility under such section.
 - **(c)** No penalty shall be imposed under this section with respect to any failure if it is shown that such failure is due to reasonable cause and not to willful neglect.
+
+## Source Credit
+
+*(Added [Pub. L. 117–2, title IX, § 9501(b)(2)(A)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 137](https://www.govinfo.gov/link/statute/135/137).)*

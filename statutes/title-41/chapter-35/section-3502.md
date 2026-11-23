@@ -3,9 +3,10 @@ title: "Section 3502 - Required cost or pricing data and certification"
 usc_title: 41
 usc_section: "3502"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 3502"
-generated_at: "2026-03-30T02:55:55.806Z"
+generated_at: "2026-11-23T20:27:04.428Z"
+status: "active"
 ---
 
 # § 3502. Required cost or pricing data and certification
@@ -33,3 +34,52 @@ generated_at: "2026-03-30T02:55:55.806Z"
 - **(e)** A waiver of requirements for submission of certified cost or pricing data that is granted under section 3503(a)(3) of this title in the case of a contract or subcontract does not waive the requirement under subsection (a)(3) of this section for submission of cost or pricing data in the case of subcontracts under that contract or subcontract unless the head of the procuring activity granting the waiver determines that the requirement under subsection (a)(3) of this section should be waived in the case of those subcontracts and justifies in writing the reason for the determination.
 - **(f)** On the request of a contractor that was required to submit cost or pricing data under subsection (a) in connection with a prime contract entered into on or before June 30, 2018 , the head of the executive agency that entered into the contract shall modify the contract to reflect paragraphs (2)(B) and (3)(B) of subsection (a). All those modifications shall be made without requiring consideration.
 - **(g)** Effective on October 1 of each year that is divisible by 5, each amount set forth in subsection (a) shall be adjusted in accordance with section 1908.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3502 | 41:254b(a). | June 30, 1949, ch. 288 , title III, § 304A(a), as added Pub. L. 103–355, title I, § 1251(a)(2) , Oct. 13, 1994 , 108 Stat. 3278 ; Pub. L. 105–261, div. A, title VIII, § 805(b) , Oct. 17, 1998 , 112 Stat. 2083 . |
+
+
+When Required
+
+Offeror for prime contract
+
+Contractor
+
+Offeror for subcontract
+
+Subcontractor
+
+Certification
+
+To Whom Submitted
+
+Application of Chapter
+
+Subcontracts Not Affected by Waiver
+
+Modifications to Prior Contracts
+
+Adjustment of Amounts
+
+Historical and Revision Notes
+
+3502
+
+June 30, 1949, ch. 288
+
+Pub. L. 103–355, title I, § 1251(a)(2)
+
+Oct. 13, 1994
+
+108 Stat. 3278
+
+Pub. L. 105–261, div. A, title VIII, § 805(b)
+
+Oct. 17, 1998
+
+112 Stat. 2083
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3765](https://www.govinfo.gov/link/statute/124/3765); [Pub. L. 115–91, div. A, title VIII, § 811(a)(2)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1459](https://www.govinfo.gov/link/statute/131/1459).)*

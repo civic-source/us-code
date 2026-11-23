@@ -3,9 +3,10 @@ title: "Section 1791 - Providing or possessing contraband in prison"
 usc_title: 18
 usc_section: "1791"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 1791"
-generated_at: "2026-03-30T02:54:16.491Z"
+generated_at: "2026-11-23T20:26:08.527Z"
+status: "active"
 ---
 
 # § 1791. Providing or possessing contraband in prison
@@ -32,3 +33,21 @@ generated_at: "2026-03-30T02:54:16.491Z"
   - **(2)** the terms “ammunition”, “firearm”, and “destructive device” have, respectively, the meanings given those terms in section 921 of this title ;
   - **(3)** the terms “controlled substance” and “narcotic drug” have, respectively, the meanings given those terms in section 102 of the Controlled Substances Act ( 21 U.S.C. 802 ); and
   - **(4)** the term “prison” means a Federal correctional, detention, or penal facility or any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General.
+
+Offense
+
+Punishment
+
+Consecutive Punishment Required in Certain Cases
+
+Definitions
+
+Offense
+
+Grading
+
+Definitions
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 786](https://www.govinfo.gov/link/statute/62/786); [Pub. L. 98–473, title II, § 1109(a)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2147](https://www.govinfo.gov/link/statute/98/2147); [Pub. L. 99–646, § 52(a)](https://www.govinfo.gov/link/plaw/99/public/646), Nov. 10, 1986, [100 Stat. 3606](https://www.govinfo.gov/link/statute/100/3606); [Pub. L. 100–690, title VI, § 6468(a)](https://www.govinfo.gov/link/plaw/100/public/690), (b), Nov. 18, 1988, [102 Stat. 4376](https://www.govinfo.gov/link/statute/102/4376); [Pub. L. 103–322, title IX, § 90101](https://www.govinfo.gov/link/plaw/103/public/322), title XXXIII, § 330003(a), Sept. 13, 1994, [108 Stat. 1986](https://www.govinfo.gov/link/statute/108/1986), 2140; [Pub. L. 104–294, title VI, § 601(m)](https://www.govinfo.gov/link/plaw/104/public/294), Oct. 11, 1996, [110 Stat. 3502](https://www.govinfo.gov/link/statute/110/3502); [Pub. L. 109–162, title XI, § 1178](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3126](https://www.govinfo.gov/link/statute/119/3126); [Pub. L. 111–225, § 2](https://www.govinfo.gov/link/plaw/111/public/225), Aug. 10, 2010, [124 Stat. 2387](https://www.govinfo.gov/link/statute/124/2387).)*

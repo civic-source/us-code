@@ -3,9 +3,10 @@ title: "Section 3908 - Foreign loan evaluations"
 usc_title: 12
 usc_section: "3908"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 3908"
-generated_at: "2026-03-30T02:53:53.498Z"
+generated_at: "2026-11-23T20:25:59.354Z"
+status: "active"
 ---
 
 # § 3908. Foreign loan evaluations
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:53.498Z"
 - **(c)**
   - **(1)** The authorities of the Federal banking agencies contained in section 1818 of this title and in section 3909 of this title , except those contained in section 3909(d) of this title , shall be applicable to this section.
   - **(2)** No private right of action or claim for relief may be predicated upon this section.
+
+## Source Credit
+
+*([Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title IX, § 909], Nov. 30, 1983, [97 Stat. 1281](https://www.govinfo.gov/link/statute/97/1281).)*

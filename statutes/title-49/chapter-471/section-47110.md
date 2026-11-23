@@ -3,9 +3,10 @@ title: "Section 47110 - Allowable project costs"
 usc_title: 49
 usc_section: "47110"
 chapter: 471
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 47110"
-generated_at: "2026-03-30T02:56:19.400Z"
+generated_at: "2026-11-23T20:27:35.288Z"
+status: "active"
 ---
 
 # § 47110. Allowable project costs
@@ -110,3 +111,170 @@ generated_at: "2026-03-30T02:56:19.400Z"
       - **(i)** the sound insulation treatment for which Federal assistance was previously provided has resulted in structural deterioration that was not caused by failure of the property owner to repair or adequately maintain the residential building or through the negligence of the applicant or the property owner; and
       - **(ii)** the condition of the sound insulation treatment described in subparagraph (A) is not attributed to actions taken by an owner or occupant of the residence.
   - **(3)** Notwithstanding any other provision of law, the Secretary shall consider a cost allowable under this subchapter for an airport to conduct periodic surveys of properties in which repair and replacement of sound insulation treatment was carried out as described in paragraph (1) and for which the airport previously received Federal assistance or Federally authorized airport assistance under this subchapter. The surveys shall be conducted only for those properties for which the airport has identified a property owner who is interested in having a survey be undertaken to assess the current effectiveness of the sound insulation treatment. Such surveys shall be carried out to identify any properties described in the preceding sentence that are eligible for funds under this subsection.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 47110(a) | 49 App.:2212(a) (1st, last sentences). | Sept. 3, 1982 , Pub. L. 97–248, § 513(a) , 96 Stat. 689 ; Aug. 4, 1989 , Pub. L. 101–71, § 3 , 103 Stat. 181 . |
+| 47110(b) | 49 App.:2212(a) (2d sentence cls. (1), (2) (words before period), (3), (4)). |  |
+| 47110(c) | 49 App.:2212(a) (2d sentence cl. (2) (words after period)). |  |
+| 47110(d) | 49 App.:2212(b)(1), (6). | Sept. 3, 1982 , Pub. L. 97–248, § 513(b)(1) , (6), 96 Stat. 691 ; Oct. 31, 1992 , Pub. L. 102–581, § 110(a) , 106 Stat. 4879 . |
+| 47110(e) | 49 App.:2212(d). | Sept. 3, 1982 , Pub. L. 97–248 , 96 Stat. 324 , § 513(d); added Dec. 30, 1987 , Pub. L. 100–223, § 111(c) , 101 Stat. 1503 ; Oct. 31, 1992 , Pub. L. 102–581, § 111 , 106 Stat. 4880 . |
+| 47110(f) | 49 App.:2212(c). | Sept. 3, 1982 , Pub. L. 97–248, § 513(c) , 96 Stat. 691 ; Dec. 30, 1987 , Pub. L. 100–223, § 111(b) , 101 Stat. 1503 ; Oct. 31, 1992 , Pub. L. 102–581, § 107(c)(2) , 106 Stat. 4879 . |
+
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| --- | --- | --- |
+| 47110(b) | 49 App.:2212(a) (2d sentence cls. (1), (2)(A) (words before period), (B), (3), (4)). | Sept. 3, 1982 , Pub. L. 97–248, § 513(a) (2d sentence), as amended May 26, 1994 , Pub. L. 103–260, § 106 , 108 Stat. 699 . |
+| 47110(c) | 49 App.:2212(a) (2d sentence cl. (2)(A) (words after period). |  |
+
+
+General Authority
+
+Allowable Cost Standards
+
+Certain Prior Costs as Allowable Costs
+
+Relocation of Airport-Owned Facilities
+
+Letters of Intent
+
+Letters of intent
+
+Limitation on statutory construction
+
+Partnership program airports
+
+Nonallowable Costs
+
+Use of Discretionary Funds
+
+Nonprimary Airports
+
+Small Airport Letters of Intent.—
+
+In general
+
+Contents
+
+Limitations
+
+Financing
+
+Requirements
+
+Assessment
+
+Prioritization
+
+No obligation or commitment.—
+
+In general
+
+Obligation or commitment
+
+Limitation on statutory construction
+
+Pilot Program for Sound Insulation Repair and Replacements.—
+
+In general
+
+Eligibility determination
+
+Additional authority for surveys
+
+Historical and Revision Notes
+
+Pub. L
+
+47110(a)
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 513(a)
+
+96 Stat. 689
+
+Aug. 4, 1989
+
+Pub. L. 101–71, § 3
+
+103 Stat. 181
+
+47110(b)
+
+47110(c)
+
+47110(d)
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 513(b)(1)
+
+96 Stat. 691
+
+Oct. 31, 1992
+
+Pub. L. 102–581, § 110(a)
+
+106 Stat. 4879
+
+47110(e)
+
+Sept. 3, 1982
+
+Pub. L. 97–248
+
+96 Stat. 324
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 111(c)
+
+101 Stat. 1503
+
+Oct. 31, 1992
+
+Pub. L. 102–581, § 111
+
+106 Stat. 4880
+
+47110(f)
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 513(c)
+
+96 Stat. 691
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 111(b)
+
+101 Stat. 1503
+
+Oct. 31, 1992
+
+Pub. L. 102–581, § 107(c)(2)
+
+106 Stat. 4879
+
+47110(b)
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 513(a)
+
+May 26, 1994
+
+Pub. L. 103–260, § 106
+
+108 Stat. 699
+
+47110(c)
+
+Partnership program airports
+
+Partnership Program Airports
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1264](https://www.govinfo.gov/link/statute/108/1264); [Pub. L. 103–305, title I, § 115](https://www.govinfo.gov/link/plaw/103/public/305), Aug. 23, 1994, [108 Stat. 1579](https://www.govinfo.gov/link/statute/108/1579); [Pub. L. 103–429, § 6(64)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4385](https://www.govinfo.gov/link/statute/108/4385); [Pub. L. 104–264, title I, § 144](https://www.govinfo.gov/link/plaw/104/public/264), Oct. 9, 1996, [110 Stat. 3222](https://www.govinfo.gov/link/statute/110/3222); [Pub. L. 106–181, title I, § 127](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 76](https://www.govinfo.gov/link/statute/114/76); [Pub. L. 107–71, title I, § 119(a)(2)](https://www.govinfo.gov/link/plaw/107/public/71), Nov. 19, 2001, [115 Stat. 628](https://www.govinfo.gov/link/statute/115/628); [Pub. L. 108–176, title I](https://www.govinfo.gov/link/plaw/108/public/176), §§ 145, 149(b), 159(c), Dec. 12, 2003, [117 Stat. 2504](https://www.govinfo.gov/link/statute/117/2504), 2505, 2511; [Pub. L. 109–115, div. A, title I, § 176(b)](https://www.govinfo.gov/link/plaw/109/public/115), Nov. 30, 2005, [119 Stat. 2427](https://www.govinfo.gov/link/statute/119/2427); [Pub. L. 112–95, title I](https://www.govinfo.gov/link/plaw/112/public/95), §§ 111(c)(2)(A)(ii), 138, Feb. 14, 2012, [126 Stat. 18](https://www.govinfo.gov/link/statute/126/18), 25; [Pub. L. 115–254, div. B, title I, § 184(b)](https://www.govinfo.gov/link/plaw/115/public/254), title V, § 539(n), Oct. 5, 2018, [132 Stat. 3234](https://www.govinfo.gov/link/statute/132/3234), 3371; [Pub. L. 117–186, § 2](https://www.govinfo.gov/link/plaw/117/public/186), Oct. 10, 2022, [136 Stat. 2199](https://www.govinfo.gov/link/statute/136/2199); [Pub. L. 118–63, title VII](https://www.govinfo.gov/link/plaw/118/public/63), §§ 709–710(b)(1), May 16, 2024, [138 Stat. 1252](https://www.govinfo.gov/link/statute/138/1252), 1253; [Pub. L. 119–60, div. H, title LXXXVIII, § 8801(b)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1969](https://www.govinfo.gov/link/statute/139/1969).)*

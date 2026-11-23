@@ -3,9 +3,10 @@ title: "Section 1421 - Single public safety wireless network licensee"
 usc_title: 47
 usc_section: "1421"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 1421"
-generated_at: "2026-03-30T02:56:24.533Z"
+generated_at: "2026-11-23T20:27:28.993Z"
+status: "active"
 ---
 
 # § 1421. Single public safety wireless network licensee
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:24.533Z"
   - **(1)** The license granted under subsection (a) shall be for an initial term of 10 years from the date of the initial issuance of the license.
   - **(2)** Prior to expiration of the term of the initial license granted under subsection (a) or the expiration of any subsequent renewal of such license, the First Responder Network Authority shall submit to the Commission an application for the renewal of such license. Such renewal application shall demonstrate that, during the preceding license term, the First Responder Network Authority has met the duties and obligations set forth under this chapter. A renewal license granted under this paragraph shall be for a term of not to exceed 10 years.
 - **(c)** The Commission shall take all actions necessary to facilitate the transition of the existing public safety broadband spectrum to the First Responder Network Authority.
+
+## Source Credit
+
+*([Pub. L. 112–96, title VI, § 6201](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 206](https://www.govinfo.gov/link/statute/126/206).)*

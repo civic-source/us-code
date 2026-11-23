@@ -3,9 +3,10 @@ title: "Section 294d - Quentin N. Burdick program for rural interdisciplinary tr
 usc_title: 42
 usc_section: "294d"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 294d"
-generated_at: "2026-03-30T02:56:10.777Z"
+generated_at: "2026-11-23T20:27:20.383Z"
+status: "active"
 ---
 
 # § 294d. Quentin N. Burdick program for rural interdisciplinary training
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:10.777Z"
   - **(1)** be jointly submitted by at least two eligible applicants with the express purpose of assisting individuals in academic institutions in establishing long-term collaborative relationships with health care providers in rural areas; and
   - **(2)** designate a rural health care agency or agencies for clinical treatment or training, including hospitals, community health centers, migrant health centers, rural health clinics, community behavioral and mental health centers, long-term care facilities, Native Hawaiian health centers, or facilities operated by the Indian Health Service or an Indian tribe or tribal organization or Indian organization under a contract with the Indian Health Service under the Indian Self-Determination Act [ 25 U.S.C. 5321 et seq.].
 - **(d)** For the purposes of this section, the term “rural” means geographic areas that are located outside of standard metropolitan statistical areas.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 754, as added [Pub. L. 105–392, title I, § 103](https://www.govinfo.gov/link/plaw/105/public/392), Nov. 13, 1998, [112 Stat. 3547](https://www.govinfo.gov/link/statute/112/3547); amended [Pub. L. 116–136, div. A, title III, § 3401(7)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 386](https://www.govinfo.gov/link/statute/134/386).)*

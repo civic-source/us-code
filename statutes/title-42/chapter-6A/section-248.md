@@ -3,9 +3,10 @@ title: "Section 248 - Control and management of hospitals; furnishing prosthetic
 usc_title: 42
 usc_section: "248"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 248"
-generated_at: "2026-03-30T02:56:10.708Z"
+generated_at: "2026-11-23T20:27:20.061Z"
+status: "active"
 ---
 
 # § 248. Control and management of hospitals; furnishing prosthetic and orthopedic devices; transfer of patients; disposal of articles produced by patients; disposal of money and effects of deceased patients; payment of burial expenses
@@ -17,3 +18,7 @@ The Surgeon General, pursuant to regulations, shall—
 - **(c)** Provide for the disposal of articles produced by patients in the course of their curative treatment, either by allowing the patient to retain such articles or by selling them and depositing the money received therefor to the credit of the appropriation from which the materials for making the articles were purchased;
 - **(d)** Provide for the disposal of money and effects, in the custody of the hospitals or stations, of deceased patients; and
 - **(e)** Provide, to the extent the Surgeon General determines that other public or private funds are not available therefor, for the payment of expenses of preparing and transporting the remains of, or the payment of reasonable burial expenses for, any patient dying in a hospital or station.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 321, [58 Stat. 695](https://www.govinfo.gov/link/statute/58/695); June 25, 1948, ch. 654, § 2, [62 Stat. 1017](https://www.govinfo.gov/link/statute/62/1017); [Pub. L. 95–622, title II, § 266](https://www.govinfo.gov/link/plaw/95/public/622), Nov. 9, 1978, [92 Stat. 3437](https://www.govinfo.gov/link/statute/92/3437).)*

@@ -3,9 +3,10 @@ title: "Section 1681b - Permissible purposes of consumer reports"
 usc_title: 15
 usc_section: "1681b"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1681b"
-generated_at: "2026-03-30T02:54:08.147Z"
+generated_at: "2026-11-23T20:26:04.076Z"
+status: "active"
 ---
 
 # § 1681b. Permissible purposes of consumer reports
@@ -134,3 +135,11 @@ generated_at: "2026-03-30T02:54:08.147Z"
   - **(5)**
     - **(A)** The Bureau may, after notice and opportunity for comment, prescribe regulations that permit transactions under paragraph (2) that are determined to be necessary and appropriate to protect legitimate operational, transactional, risk, consumer, and other needs (and which shall include permitting actions necessary for administrative verification purposes), consistent with the intent of paragraph (2) to restrict the use of medical information for inappropriate purposes.
   - **(6)** No provision of this subsection shall be construed as altering, affecting, or superseding the applicability of any other provision of Federal law relating to medical confidentiality.
+
+Report to the congress
+
+Reports to congressional intelligence committees
+
+## Source Credit
+
+*([Pub. L. 90–321, title VI, § 604](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 91–508, title VI, § 601](https://www.govinfo.gov/link/plaw/91/public/508), Oct. 26, 1970, [84 Stat. 1129](https://www.govinfo.gov/link/statute/84/1129); amended [Pub. L. 101–73, title IX, § 964(c)](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 506](https://www.govinfo.gov/link/statute/103/506); [Pub. L. 104–193, title III, § 352](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2240](https://www.govinfo.gov/link/statute/110/2240); [Pub. L. 104–208, div. A, title II](https://www.govinfo.gov/link/plaw/104/public/208), §§ 2403, 2404(a), (b), 2405, Sept. 30, 1996, [110 Stat. 3009–430](https://www.govinfo.gov/link/statute/110/3009), 3009–431, 3009–433, 3009–434; [Pub. L. 105–107, title III, § 311(a)](https://www.govinfo.gov/link/plaw/105/public/107), Nov. 20, 1997, [111 Stat. 2255](https://www.govinfo.gov/link/statute/111/2255); [Pub. L. 105–347](https://www.govinfo.gov/link/plaw/105/public/347), §§ 2, 3, 6(4), Nov. 2, 1998, [112 Stat. 3208](https://www.govinfo.gov/link/statute/112/3208), 3210, 3211; [Pub. L. 107–306, title VIII, § 811(b)(8)(A)](https://www.govinfo.gov/link/plaw/107/public/306), Nov. 27, 2002, [116 Stat. 2426](https://www.govinfo.gov/link/statute/116/2426); [Pub. L. 108–159, title II, § 213(c)](https://www.govinfo.gov/link/plaw/108/public/159), title IV, §§ 411(a), 412(f), title VIII, § 811(b), Dec. 4, 2003, [117 Stat. 1979](https://www.govinfo.gov/link/statute/117/1979), 1999, 2003, 2011; [Pub. L. 108–177, title III, § 361(j)](https://www.govinfo.gov/link/plaw/108/public/177), Dec. 13, 2003, [117 Stat. 2625](https://www.govinfo.gov/link/statute/117/2625); [Pub. L. 109–351, title VII, § 719](https://www.govinfo.gov/link/plaw/109/public/351), Oct. 13, 2006, [120 Stat. 1998](https://www.govinfo.gov/link/statute/120/1998); [Pub. L. 110–161, div. D, title VII, § 743](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2033](https://www.govinfo.gov/link/statute/121/2033); [Pub. L. 111–24, title III, § 302](https://www.govinfo.gov/link/plaw/111/public/24), May 22, 2009, [123 Stat. 1748](https://www.govinfo.gov/link/statute/123/1748); [Pub. L. 111–203, title X, § 1088(a)(2)(A)](https://www.govinfo.gov/link/plaw/111/public/203), (4), July 21, 2010, [124 Stat. 2087](https://www.govinfo.gov/link/statute/124/2087); [Pub. L. 114–94, div. G, title LXXX, § 80001](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1792](https://www.govinfo.gov/link/statute/129/1792); [Pub. L. 116–283, div. F, title LXIII, § 6308(b)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4594](https://www.govinfo.gov/link/statute/134/4594); [Pub. L. 119–36, § 2(a)](https://www.govinfo.gov/link/plaw/119/public/36), Sept. 5, 2025, [139 Stat. 493](https://www.govinfo.gov/link/statute/139/493).)*

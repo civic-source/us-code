@@ -3,9 +3,10 @@ title: "Section 3133 - Authorization of positions; authority for appointment"
 usc_title: 5
 usc_section: "3133"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 3133"
-generated_at: "2026-03-30T02:52:56.000Z"
+generated_at: "2026-11-23T20:25:31.801Z"
+status: "active"
 ---
 
 # § 3133. Authorization of positions; authority for appointment
@@ -26,3 +27,27 @@ generated_at: "2026-03-30T02:52:56.000Z"
     - **(A)** involve policymaking responsibilities which require the advocacy or management of programs of the President and support of controversial aspects of such programs;
     - **(B)** involve significant participation in the major political policies of the President; or
     - **(C)** require the senior executives in the positions to serve as personal assistants of, or advisers to, Presidential appointees.
+
+Limitation on Number of DOD SES Positions.—
+
+In general
+
+Highly qualified experts
+
+Exception
+
+Plan to Achieve Required Limitation.—
+
+In general
+
+Submission of plan
+
+Progress reports
+
+Conforming Amendment
+
+Definition of Senior Executive Service Position
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1158](https://www.govinfo.gov/link/statute/92/1158); amended [Pub. L. 114–328, div. A, title XI, § 1109(c)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2449](https://www.govinfo.gov/link/statute/130/2449).)*

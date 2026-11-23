@@ -3,9 +3,10 @@ title: "Section 6119 - Nuclear test ban readiness program"
 usc_title: 10
 usc_section: "6119"
 chapter: 602
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6119"
-generated_at: "2026-03-30T02:53:38.219Z"
+generated_at: "2026-11-23T20:25:52.012Z"
+status: "active"
 ---
 
 # § 6119. Nuclear test ban readiness program
@@ -16,3 +17,13 @@ generated_at: "2026-03-30T02:53:38.219Z"
   - **(2)** To assure that the specific materials, components, processes, and personnel needed for the remanufacture of existing nuclear weapons or the substitution of alternative nuclear warheads are available to support such remanufacture or substitution if such action becomes necessary in order to satisfy reliability and safety requirements under a low-threshold or comprehensive test ban agreement.
   - **(3)** To assure that a vigorous program of research in areas related to nuclear weapons science and engineering is supported so that, if a low-threshold or comprehensive test ban agreement is entered into, the United States is able to maintain a base of technical knowledge about nuclear weapons design and nuclear weapons effects.
 - **(c)** The Secretary of Energy shall carry out the program provided for in subsection (a). The program shall be carried out with the participation of representatives of the Department of Defense, the nuclear weapons production facilities, and the national security laboratories.
+
+Establishment of Program
+
+Purposes of Program
+
+Conduct of Program
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1356](https://www.govinfo.gov/link/statute/139/1356).)*

@@ -3,9 +3,10 @@ title: "Section 2314 - Innovative technology"
 usc_title: 33
 usc_section: "2314"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2314"
-generated_at: "2026-03-30T02:55:41.122Z"
+generated_at: "2026-11-23T20:26:54.171Z"
+status: "active"
 ---
 
 # § 2314. Innovative technology
@@ -23,3 +24,23 @@ generated_at: "2026-03-30T02:55:41.122Z"
   - **(4)** At least 1 of the projects under this subsection shall be conducted in New England by the University of New Hampshire.
 - **(c)** Within 2 years after November 17, 1988 , and thereafter at the Secretary’s discretion, the Secretary shall provide Congress with a report on the results of, and recommendations to increase, the development and use of innovative technology in water resources development projects under the Secretary’s jurisdiction. Such report shall also contain information regarding innovative technologies which the Secretary has considered and rejected for use in water resources development projects under the Secretary’s jurisdiction.
 - **(d)** For the purpose of this section, the term “innovative technology” means designs, methods, or materials, including roller compacted concrete, geosynthetic materials, and advanced composites, that the Secretary determines are appropriate to carry out this section.
+
+In general
+
+Testing.—
+
+Selection of technology
+
+Agreement
+
+Authorization of appropriations
+
+In General
+
+Included Beneficial Uses
+
+Use of Waste Tire Rubber
+
+## Source Credit
+
+*([Pub. L. 100–676, § 8](https://www.govinfo.gov/link/plaw/100/public/676), Nov. 17, 1988, [102 Stat. 4023](https://www.govinfo.gov/link/statute/102/4023); [Pub. L. 106–53, title V, § 503(b)](https://www.govinfo.gov/link/plaw/106/public/53), Aug. 17, 1999, [113 Stat. 337](https://www.govinfo.gov/link/statute/113/337); [Pub. L. 113–121, title III, § 3021](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1301](https://www.govinfo.gov/link/statute/128/1301).)*

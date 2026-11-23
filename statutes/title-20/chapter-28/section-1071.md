@@ -3,9 +3,10 @@ title: "Section 1071 - Statement of purpose; nondiscrimination; and appropriatio
 usc_title: 20
 usc_section: "1071"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1071"
-generated_at: "2026-03-30T02:54:48.110Z"
+generated_at: "2026-11-23T20:26:14.388Z"
+status: "active"
 ---
 
 # § 1071. Statement of purpose; nondiscrimination; and appropriations authorized
@@ -28,3 +29,17 @@ generated_at: "2026-03-30T02:54:48.110Z"
 - **(d)** Notwithstanding paragraphs (1) through (6) of subsection (b) or any other provision of law—
   - **(1)** no new loans (including consolidation loans) may be made or insured under this part after June 30, 2010 ; and
   - **(2)** no funds are authorized to be appropriated, or may be expended, under this chapter or any other Act to make or insure loans under this part (including consolidation loans) for which the first disbursement is after June 30, 2010 ,
+
+General Rule
+
+Special Rules
+
+Effective Dates
+
+Changes Effective Without Regard to Regulations; Republication of Regulations
+
+New Borrowers
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 421](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1353](https://www.govinfo.gov/link/statute/100/1353); amended [Pub. L. 100–297, title II, § 2601(a)](https://www.govinfo.gov/link/plaw/100/public/297), Apr. 28, 1988, [102 Stat. 330](https://www.govinfo.gov/link/statute/102/330); [Pub. L. 100–369, § 8](https://www.govinfo.gov/link/plaw/100/public/369), July 18, 1988, [102 Stat. 837](https://www.govinfo.gov/link/statute/102/837); [Pub. L. 102–325, title IV, § 411(a)(2)](https://www.govinfo.gov/link/plaw/102/public/325), (c), July 23, 1992, [106 Stat. 510](https://www.govinfo.gov/link/statute/106/510), 511; [Pub. L. 105–244, title IV, § 411](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1673](https://www.govinfo.gov/link/statute/112/1673); [Pub. L. 109–171, title VIII, § 8004(a)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 158](https://www.govinfo.gov/link/statute/120/158); [Pub. L. 110–227, § 6(a)](https://www.govinfo.gov/link/plaw/110/public/227), May 7, 2008, [122 Stat. 746](https://www.govinfo.gov/link/statute/122/746); [Pub. L. 111–152, title II, § 2201](https://www.govinfo.gov/link/plaw/111/public/152), Mar. 30, 2010, [124 Stat. 1074](https://www.govinfo.gov/link/statute/124/1074).)*

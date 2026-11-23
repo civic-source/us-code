@@ -3,9 +3,10 @@ title: "Section 2513 - Assignment of personnel to foreign governments or interna
 usc_title: 22
 usc_section: "2513"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2513"
-generated_at: "2026-03-30T02:55:05.372Z"
+generated_at: "2026-11-23T20:26:32.321Z"
+status: "active"
 ---
 
 # § 2513. Assignment of personnel to foreign governments or international organizations
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:05.372Z"
   - **(1)** without reimbursement to the United States Government by the international organization or foreign government;
   - **(2)** upon agreement by the international organization or foreign government to reimburse the United States Government for compensation, travel expenses, and allowances, or any part thereof, payable to such officer or employee during the period of assignment or detail in accordance with subsection (b) of this section; and such reimbursement shall be credited to the appropriation, fund, or account utilized for paying such compensation, travel expenses, or allowances, or to the appropriation, fund, or account currently available for such purpose; or
   - **(3)** upon an advance of funds, property or services to the United States Government accepted with the approval of the President for specified uses in furtherance of the purposes of this chapter; and funds so advanced may be established as a separate fund in the Treasury of the United States Government, to be available for the specified uses, and to be used for reimbursement of appropriations or direct expenditure subject to the provisions of this chapter, any unexpended balance of such account to be returned to the foreign government or international organization.
+
+## Source Credit
+
+*([Pub. L. 87–293, title I, § 14](https://www.govinfo.gov/link/plaw/87/public/293), Sept. 22, 1961, [75 Stat. 620](https://www.govinfo.gov/link/statute/75/620); [Pub. L. 91–352, § 7](https://www.govinfo.gov/link/plaw/91/public/352), July 24, 1970, [84 Stat. 465](https://www.govinfo.gov/link/statute/84/465); [Pub. L. 96–465, title II, § 2202(d)](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2158](https://www.govinfo.gov/link/statute/94/2158).)*

@@ -3,9 +3,10 @@ title: "Section 60106 - Incentives for States"
 usc_title: 34
 usc_section: "60106"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 60106"
-generated_at: "2026-03-30T02:55:33.316Z"
+generated_at: "2026-11-23T20:26:50.668Z"
+status: "active"
 ---
 
 # § 60106. Incentives for States
@@ -29,3 +30,13 @@ generated_at: "2026-03-30T02:55:33.316Z"
   - **(2)** 75 percent of such funds for any of the permissible uses of funds under the grant program described in paragraph (2) of subsection (d).
 - **(g)** There are authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2023 through 2027.
 - **(h)** For purposes of this section, the term “State” means each of the several States and the District of Columbia, Indian Tribes, and the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, and the Northern Mariana Islands.
+
+Report by Attorney General
+
+Report by GAO
+
+Report by Attorney General on Conflicts Between State’s Marriage-age and Age-based Sex Offenses
+
+## Source Credit
+
+*([Pub. L. 117–103, div. W, title XII, § 1203](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 925](https://www.govinfo.gov/link/statute/136/925).)*

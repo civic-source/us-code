@@ -3,9 +3,10 @@ title: "Section 374 - Regulations"
 usc_title: 37
 usc_section: "374"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "37 U.S.C. § 374"
-generated_at: "2026-03-30T02:55:44.056Z"
+generated_at: "2026-11-23T20:26:57.380Z"
+status: "active"
 ---
 
 # § 374. Regulations
@@ -16,3 +17,7 @@ This subchapter and subchapter II shall be administered under regulations prescr
   - **(2)** the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy;
   - **(3)** the Secretary of Health and Human Services, with respect to the commissioned corps of the Public Health Service; and
   - **(4)** the Secretary of Commerce, with respect to the National Oceanic and Atmospheric Administration.
+
+## Source Credit
+
+*(Added [Pub. L. 110–181, div. A, title VI, § 661(a)(2)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 178](https://www.govinfo.gov/link/statute/122/178).)*

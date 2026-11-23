@@ -3,9 +3,10 @@ title: "Section 12101 - Findings and purpose"
 usc_title: 42
 usc_section: "12101"
 chapter: 126
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12101"
-generated_at: "2026-03-30T02:56:11.407Z"
+generated_at: "2026-11-23T20:27:23.335Z"
+status: "active"
 ---
 
 # § 12101. Findings and purpose
@@ -24,3 +25,11 @@ generated_at: "2026-03-30T02:56:11.407Z"
   - **(2)** to provide clear, strong, consistent, enforceable standards addressing discrimination against individuals with disabilities;
   - **(3)** to ensure that the Federal Government plays a central role in enforcing the standards established in this chapter on behalf of individuals with disabilities; and
   - **(4)** to invoke the sweep of congressional authority, including the power to enforce the fourteenth amendment and to regulate commerce, in order to address the major areas of discrimination faced day-to-day by people with disabilities.
+
+Findings
+
+Purposes
+
+## Source Credit
+
+*([Pub. L. 101–336, § 2](https://www.govinfo.gov/link/plaw/101/public/336), July 26, 1990, [104 Stat. 328](https://www.govinfo.gov/link/statute/104/328); [Pub. L. 110–325, § 3](https://www.govinfo.gov/link/plaw/110/public/325), Sept. 25, 2008, [122 Stat. 3554](https://www.govinfo.gov/link/statute/122/3554).)*

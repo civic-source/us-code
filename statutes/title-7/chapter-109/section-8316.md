@@ -3,9 +3,10 @@ title: "Section 8316 - Authorization of appropriations"
 usc_title: 7
 usc_section: "8316"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 8316"
-generated_at: "2026-03-30T02:53:42.475Z"
+generated_at: "2026-11-23T20:25:41.884Z"
+status: "active"
 ---
 
 # § 8316. Authorization of appropriations
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:42.475Z"
 - **(c)** In carrying out this chapter, the Secretary may use funds made available to carry out this chapter for—
   - **(1)** the employment of civilian nationals in foreign countries; and
   - **(2)** the construction and operation of research laboratories, quarantine stations, and other buildings and facilities for special purposes.
+
+## Source Credit
+
+*([Pub. L. 107–171, title X, § 10417](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 507](https://www.govinfo.gov/link/statute/116/507); [Pub. L. 110–234, title XI, § 11011(3)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1360](https://www.govinfo.gov/link/statute/122/1360); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XI, § 11011(3), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2122.)*

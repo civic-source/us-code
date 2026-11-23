@@ -3,12 +3,17 @@ title: "Section 1396 - Duties and taxes covered into Virgin Islands treasury"
 usc_title: 48
 usc_section: "1396"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1396"
-generated_at: "2026-03-30T02:56:14.583Z"
+generated_at: "2026-11-23T20:27:28.038Z"
+status: "active"
 ---
 
 # § 1396. Duties and taxes covered into Virgin Islands treasury
 
 The duties and taxes collected in pursuance of sections 1394 and 1395 of this title shall not be covered into the general fund of the Treasury of the United States, but shall be used and expended for the government and benefit of the Virgin Islands, under such rules and regulations as the President may prescribe.
 
+
+## Source Credit
+
+*(Mar. 3, 1917, ch. 171, § 5, [39 Stat. 1133](https://www.govinfo.gov/link/statute/39/1133).)*

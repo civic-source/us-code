@@ -3,9 +3,10 @@ title: "Section 1508 - Review and confirmation by district court"
 usc_title: 17
 usc_section: "1508"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 1508"
-generated_at: "2026-03-30T02:54:15.359Z"
+generated_at: "2026-11-23T20:26:06.559Z"
+status: "active"
 ---
 
 # § 1508. Review and confirmation by district court
@@ -28,3 +29,25 @@ generated_at: "2026-03-30T02:54:15.359Z"
   - **(2)**
     - **(A)** Notice of the application to challenge a determination of the Copyright Claims Board shall be provided to all parties to the proceeding before the Copyright Claims Board, in accordance with the procedures applicable to service of a motion in the court where the application is made.
     - **(B)** For purposes of an application under this subsection, any judge who is authorized to issue an order to stay the proceedings in another action brought in the same court may issue an order, to be served with the notice of application, staying proceedings to enforce the award while the challenge is pending.
+
+In General
+
+Filing Procedures.—
+
+Application to confirm determination
+
+Contents of application
+
+Challenges to the Determination.—
+
+Bases for challenge
+
+Procedure to challenge.—
+
+Notice of application
+
+Staying of proceedings
+
+## Source Credit
+
+*(Added [Pub. L. 116–260, div. Q, title II, § 212(b)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2196](https://www.govinfo.gov/link/statute/134/2196).)*

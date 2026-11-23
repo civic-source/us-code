@@ -3,9 +3,10 @@ title: "Section 1946 - Liability of borrower"
 usc_title: 7
 usc_section: "1946"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1946"
-generated_at: "2026-03-30T02:53:42.349Z"
+generated_at: "2026-11-23T20:25:41.360Z"
+status: "active"
 ---
 
 # § 1946. Liability of borrower
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:42.349Z"
   - **(5)** A line-of-credit loan may be used to finance the production or marketing of an agricultural commodity that—
     - **(A)** is eligible for a price support program of the Department of Agriculture; or
     - **(B)** was eligible for a price support program of the Department of Agriculture on the day before April 4, 1996 .
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 316](https://www.govinfo.gov/link/plaw/87/public/128), Aug. 8, 1961, [75 Stat. 311](https://www.govinfo.gov/link/statute/75/311); [Pub. L. 90–488, § 10](https://www.govinfo.gov/link/plaw/90/public/488), Aug. 15, 1968, [82 Stat. 771](https://www.govinfo.gov/link/statute/82/771); [Pub. L. 95–334, title I, § 117](https://www.govinfo.gov/link/plaw/95/public/334), Aug. 4, 1978, [92 Stat. 426](https://www.govinfo.gov/link/statute/92/426); [Pub. L. 97–35, title I, § 160(b)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 377](https://www.govinfo.gov/link/statute/95/377); [Pub. L. 98–258, title VI, § 604(b)](https://www.govinfo.gov/link/plaw/98/public/258), Apr. 10, 1984, [98 Stat. 139](https://www.govinfo.gov/link/statute/98/139); [Pub. L. 101–624, title XVIII, § 1803(b)](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3818](https://www.govinfo.gov/link/statute/104/3818); [Pub. L. 104–127, title VI](https://www.govinfo.gov/link/plaw/104/public/127), §§ 614, 661(g), Apr. 4, 1996, [110 Stat. 1089](https://www.govinfo.gov/link/statute/110/1089), 1107; [Pub. L. 113–79, title V, § 5106(b)(3)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 838](https://www.govinfo.gov/link/statute/128/838).)*

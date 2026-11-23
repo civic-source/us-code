@@ -3,9 +3,10 @@ title: "Section 343 - Appropriations; distribution; allotment and apportionment;
 usc_title: 7
 usc_section: "343"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 343"
-generated_at: "2026-03-30T02:53:42.281Z"
+generated_at: "2026-11-23T20:25:41.017Z"
+status: "active"
 ---
 
 # § 343. Appropriations; distribution; allotment and apportionment; Secretary of Agriculture; matching funds; cooperative extension activities
@@ -57,3 +58,65 @@ generated_at: "2026-03-30T02:53:42.281Z"
   - **(1)** Effective October 1, 1999 , extension activity carried out under subsection (h) shall be subject to merit review.
   - **(2)** An extension activity for which merit review is conducted under paragraph (1) shall be considered to have satisfied the requirements for review under section 7613(e) of this title .
 - **(j)** Section 361c(i) of this title shall apply to amounts made available to carry out this subchapter.
+
+Annual appropriation for hispanic-serving agricultural colleges and universities.—
+
+Authorization of appropriations
+
+Additional amount
+
+Administration
+
+Matching Funds.—
+
+Requirement
+
+Failure to provide matching funds
+
+Reapportionment.—
+
+In general
+
+Matching requirement
+
+Exception for insular areas.—
+
+In general
+
+Waivers
+
+Matching Funds Exception for
+
+Institutions and Hispanic-Serving Agricultural Colleges and Universities
+
+Multistate Cooperative Extension Activities.—
+
+In general
+
+Applicable percentages.—
+
+expenditures on multistate activities
+
+Required expenditures on multistate activities
+
+Reduction by secretary
+
+Applicability
+
+Merit Review.—
+
+Review required
+
+Other requirements
+
+Integration of Research and Extension
+
+Institutions
+
+In General
+
+Revisions
+
+## Source Credit
+
+*(May 8, 1914, ch. 79, § 3, [38 Stat. 373](https://www.govinfo.gov/link/statute/38/373); June 26, 1953, ch. 157, § 1, [67 Stat. 84](https://www.govinfo.gov/link/statute/67/84); [Pub. L. 87–749, § 1(b)](https://www.govinfo.gov/link/plaw/87/public/749) –(e), Oct. 5, 1962, [76 Stat. 745](https://www.govinfo.gov/link/statute/76/745); [Pub. L. 92–318, title V, § 506(g)](https://www.govinfo.gov/link/plaw/92/public/318), June 23, 1972, [86 Stat. 351](https://www.govinfo.gov/link/statute/86/351); [Pub. L. 95–113, title XIV, § 1465](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 1018](https://www.govinfo.gov/link/statute/91/1018); [Pub. L. 99–198, title XIV, § 1435(b)](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1557](https://www.govinfo.gov/link/statute/99/1557); [Pub. L. 99–396, § 9(e)](https://www.govinfo.gov/link/plaw/99/public/396), Aug. 27, 1986, [100 Stat. 840](https://www.govinfo.gov/link/statute/100/840); [Pub. L. 103–382, title V, § 534(b)](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 4050](https://www.govinfo.gov/link/statute/108/4050); [Pub. L. 104–127, title VIII, § 883(a)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1176](https://www.govinfo.gov/link/statute/110/1176); [Pub. L. 105–185, title I, § 105](https://www.govinfo.gov/link/plaw/105/public/185), title II, §§ 201, 203(b), (c)(2), 204(b), June 23, 1998, [112 Stat. 529](https://www.govinfo.gov/link/statute/112/529), 531, 534, 536; [Pub. L. 105–277, div. A, § 101(a) [title VII, § 753(e)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681](https://www.govinfo.gov/link/statute/112/2681), 2681–33; [Pub. L. 107–171, title VII](https://www.govinfo.gov/link/plaw/107/public/171), §§ 7213(b), 7215, May 13, 2002, [116 Stat. 448](https://www.govinfo.gov/link/statute/116/448); [Pub. L. 110–234, title VII](https://www.govinfo.gov/link/plaw/110/public/234), §§ 7129(b), 7403(a), May 22, 2008, [122 Stat. 1226](https://www.govinfo.gov/link/statute/122/1226), 1246; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, §§ 7129(b), 7403(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1987, 2007; [Pub. L. 115–334, title VII](https://www.govinfo.gov/link/plaw/115/public/334), §§ 7609(a), 7612(a)(1), Dec. 20, 2018, [132 Stat. 4830](https://www.govinfo.gov/link/statute/132/4830), 4831.)*

@@ -3,9 +3,10 @@ title: "Section 6663 - National activities"
 usc_title: 20
 usc_section: "6663"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 6663"
-generated_at: "2026-03-30T02:54:48.202Z"
+generated_at: "2026-11-23T20:26:14.859Z"
+status: "active"
 ---
 
 # § 6663. National activities
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:48.202Z"
   - **(3)** In awarding grants under this section, the Secretary shall ensure that, to the extent practicable, grants are distributed among eligible entities that will serve geographically diverse areas, including urban, suburban, and rural areas.
 - **(d)** In order to receive a grant under this section, an eligible entity shall submit an application to the Secretary at such time and in such manner as the Secretary may reasonably require.
 - **(e)** In this section, the term “eligible entity” means an institution of higher education or other nonprofit or for-profit organization with demonstrated expertise in the development of evidence-based approaches with the potential to improve the quality of American history, civics and government, or geography learning and teaching.
+
+## Source Credit
+
+*([Pub. L. 89–10, title II, § 2233](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title II, § 2002](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1947](https://www.govinfo.gov/link/statute/129/1947).)*

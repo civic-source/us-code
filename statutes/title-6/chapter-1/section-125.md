@@ -3,9 +3,10 @@ title: "Section 125 - Annual report on intelligence activities of the Department
 usc_title: 6
 usc_section: "125"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 125"
-generated_at: "2026-03-30T02:53:09.446Z"
+generated_at: "2026-11-23T20:25:34.650Z"
+status: "active"
 ---
 
 # § 125. Annual report on intelligence activities of the Department of Homeland Security
@@ -22,3 +23,21 @@ generated_at: "2026-03-30T02:53:09.446Z"
   - **(1)** examines the feasibility and advisability of including the budget request for all intelligence activities of each intelligence component of the Department that predominantly support departmental missions, as designated by the Under Secretary for Intelligence and Analysis, in the Homeland Security Intelligence Program; and
   - **(2)** includes a plan to enhance the coordination of department-wide intelligence activities to achieve greater efficiencies in the performance of the Department of Homeland Security intelligence functions.
 - **(c)** In this section, the term “intelligence component of the Department” has the meaning given that term in section 101 of this title .
+
+Definitions
+
+Appropriate congressional committees
+
+Component of the department of homeland security
+
+Intelligence activity
+
+Briefing on Intelligence Activities
+
+Form
+
+Additional Briefings
+
+## Source Credit
+
+*([Pub. L. 113–293, title III, § 324](https://www.govinfo.gov/link/plaw/113/public/293), Dec. 19, 2014, [128 Stat. 4004](https://www.govinfo.gov/link/statute/128/4004).)*

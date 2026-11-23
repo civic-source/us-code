@@ -3,9 +3,10 @@ title: "Section 390ll - Corps of Engineers projects"
 usc_title: 43
 usc_section: "390ll"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 390ll"
-generated_at: "2026-03-30T02:55:57.445Z"
+generated_at: "2026-11-23T20:27:06.199Z"
+status: "active"
 ---
 
 # § 390ll. Corps of Engineers projects
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:57.445Z"
   - **(1)** the project has, by Federal statute, explicitly been designated, made a part of, or integrated with a Federal reclamation project; or
   - **(2)** the Secretary, pursuant to his authority under Federal reclamation law, has provided project works for the control or conveyance of an agricultural water supply for the lands involved.
 - **(b)** Notwithstanding any other provision of this section to the contrary, obligations that require water users, pursuant to contracts with the Secretary, to repay the share of construction costs and to pay the share of the operation and maintenance and contract administrative costs of a Corps of Engineers project which are allocated to conservation storage or irrigation storage shall remain in effect.
+
+## Source Credit
+
+*([Pub. L. 97–293, title II, § 212](https://www.govinfo.gov/link/plaw/97/public/293), Oct. 12, 1982, [96 Stat. 1269](https://www.govinfo.gov/link/statute/96/1269).)*

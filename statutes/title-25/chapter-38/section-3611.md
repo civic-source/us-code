@@ -3,9 +3,10 @@ title: "Section 3611 - Office of Tribal Justice Support"
 usc_title: 25
 usc_section: "3611"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3611"
-generated_at: "2026-03-30T02:54:52.854Z"
+generated_at: "2026-11-23T20:26:25.658Z"
+status: "active"
 ---
 
 # § 3611. Office of Tribal Justice Support
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:52.854Z"
     - **(F)** long-range plans for the enhancement of tribal justice systems.
   - **(2)** Technical assistance and training provided pursuant to paragraph (1) may be provided through direct services, by contract with independent entities, or through grants to Indian tribes or tribal organizations.
 - **(f)** The Office shall maintain an information clearinghouse (which shall include an electronic data base) on tribal justice systems and Courts of Indian Offenses, including (but not limited to) information on staffing, funding, model tribal codes, tribal justice activities, and tribal judicial decisions. The Office shall take such actions as may be necessary to ensure the confidentiality of records and other matters involving privacy rights.
+
+## Source Credit
+
+*([Pub. L. 103–176, title I, § 101](https://www.govinfo.gov/link/plaw/103/public/176), Dec. 3, 1993, [107 Stat. 2005](https://www.govinfo.gov/link/statute/107/2005).)*

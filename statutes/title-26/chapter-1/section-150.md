@@ -3,9 +3,10 @@ title: "Section 150 - Definitions and special rules"
 usc_title: 26
 usc_section: "150"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 150"
-generated_at: "2026-03-30T02:55:27.636Z"
+generated_at: "2026-11-23T20:26:45.410Z"
+status: "active"
 ---
 
 # § 150. Definitions and special rules
@@ -82,3 +83,7 @@ generated_at: "2026-03-30T02:55:27.636Z"
     - **(A)** which is organized and operated to provide firefighting or emergency medical services for persons in an area (within the jurisdiction of such political subdivision) which is not provided with any other firefighting services, and
     - **(B)** which is required (by written agreement) by the political subdivision to furnish firefighting services in such area.
   - **(3)** Bonds which are part of an issue which meets the requirements of paragraph (1) shall not be treated as private activity bonds except for purposes of sections 147(f) and 149(d).
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title XIII, § 1301(b)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2651](https://www.govinfo.gov/link/statute/100/2651); amended [Pub. L. 100–647, title I, § 1013(a)(23)](https://www.govinfo.gov/link/plaw/100/public/647), (24)(A), (30)–(33), title VI, § 6182(a), (b), Nov. 10, 1988, [102 Stat. 3542](https://www.govinfo.gov/link/statute/102/3542), 3543, 3729; [Pub. L. 104–188, title I, § 1614(a)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1851](https://www.govinfo.gov/link/statute/110/1851).)*

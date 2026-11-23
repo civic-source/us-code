@@ -3,9 +3,10 @@ title: "Section 272b - Livestock grazing"
 usc_title: 16
 usc_section: "272b"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 272b"
-generated_at: "2026-03-30T02:54:22.747Z"
+generated_at: "2026-11-23T20:26:19.400Z"
+status: "active"
 ---
 
 # § 272b. Livestock grazing
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:22.747Z"
   - **(4)** A grazing lease, permit, or license described in paragraph (1) may be sold during the period described in paragraph (1) only on the condition that the purchaser shall, immediately upon acquisition, permanently retire the lease, permit, or license.
   - **(5)** Nothing in this subsection affects other provisions concerning leases, permits, or licenses under the Act of June 28, 1934 (commonly known as the “Taylor Grazing Act”) ( 48 Stat. 1269 , chapter 865; 43 U.S.C. 315 et seq.).
   - **(6)** Any portion of a grazing lease, permit, or license with respect to land in the Lost Spring Canyon Addition shall be administered by the National Park Service.
+
+## Source Credit
+
+*([Pub. L. 92–155, § 3](https://www.govinfo.gov/link/plaw/92/public/155), Nov. 12, 1971, [85 Stat. 422](https://www.govinfo.gov/link/statute/85/422); [Pub. L. 105–329, § 2(c)](https://www.govinfo.gov/link/plaw/105/public/329), Oct. 30, 1998, [112 Stat. 3060](https://www.govinfo.gov/link/statute/112/3060).)*

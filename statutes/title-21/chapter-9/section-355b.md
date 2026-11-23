@@ -3,9 +3,10 @@ title: "Section 355b - Adverse-event reporting"
 usc_title: 21
 usc_section: "355b"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 355b"
-generated_at: "2026-03-30T02:54:54.238Z"
+generated_at: "2026-11-23T20:26:27.597Z"
+status: "active"
 ---
 
 # § 355b. Adverse-event reporting
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:54.238Z"
 - **(b)**
   - **(1)** During the one year beginning on the date on which a drug receives a period of market exclusivity under 505A 1 1 So in original. Probably should be preceded by “section”. of the Federal Food, Drug, and Cosmetic Act [ 21 U.S.C. 355a ], any report of an adverse event regarding the drug that the Secretary of Health and Human Services receives shall be referred to the Office of Pediatric Therapeutics established under section 393a of this title . In considering the report, the Director of such Office shall provide for the review of the report by the Pediatric Advisory Committee, including obtaining any recommendations of such subcommittee 2 2 So in original. Probably should be “Committee”. regarding whether the Secretary should take action under the Federal Food, Drug, and Cosmetic Act [ 21 U.S.C. 301 et seq.] in response to the report.
   - **(2)** Paragraph (1) may not be construed as restricting the authority of the Secretary of Health and Human Services to continue carrying out the activities described in such paragraph regarding a drug after the one-year period described in such paragraph regarding the drug has expired.
+
+## Source Credit
+
+*([Pub. L. 107–109, § 17](https://www.govinfo.gov/link/plaw/107/public/109), Jan. 4, 2002, [115 Stat. 1422](https://www.govinfo.gov/link/statute/115/1422); [Pub. L. 108–155, § 3(b)(5)](https://www.govinfo.gov/link/plaw/108/public/155), Dec. 3, 2003, [117 Stat. 1942](https://www.govinfo.gov/link/statute/117/1942).)*

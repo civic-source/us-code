@@ -3,9 +3,10 @@ title: "Section 5461 - Findings and purposes"
 usc_title: 12
 usc_section: "5461"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5461"
-generated_at: "2026-03-30T02:53:53.539Z"
+generated_at: "2026-11-23T20:25:59.502Z"
+status: "active"
 ---
 
 # § 5461. Findings and purposes
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:53.539Z"
   - **(2)** providing the Board of Governors an enhanced role in the supervision of risk management standards for systemically important financial market utilities;
   - **(3)** strengthening the liquidity of systemically important financial market utilities; and
   - **(4)** providing the Board of Governors an enhanced role in the supervision of risk management standards for systemically important payment, clearing, and settlement activities by financial institutions.
+
+## Source Credit
+
+*([Pub. L. 111–203, title VIII, § 802](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1802](https://www.govinfo.gov/link/statute/124/1802).)*

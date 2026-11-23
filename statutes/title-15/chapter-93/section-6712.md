@@ -3,9 +3,10 @@ title: "Section 6712 - Insurance underwriting in national banks"
 usc_title: 15
 usc_section: "6712"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 6712"
-generated_at: "2026-03-30T02:54:08.213Z"
+generated_at: "2026-11-23T20:26:04.408Z"
+status: "active"
 ---
 
 # § 6712. Insurance underwriting in national banks
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:08.213Z"
         - **(II)** in the event that the product is not a letter of credit or other similar extension of credit, a qualified financial contract, or a financial guaranty, it would qualify for treatment for losses incurred with respect to such product under section 832(b)(5) of title 26 , if the bank were subject to tax as an insurance company under section 831 of that title; or
   - **(3)** any annuity contract, the income on which is subject to tax treatment under section 72 of title 26 .
 - **(d)** For purposes of this section, providing insurance (including reinsurance) outside the United States that insures, guarantees, or indemnifies insurance products provided in a State, or that indemnifies an insurance company with regard to insurance products provided in a State, shall be considered to be providing insurance as principal in that State.
+
+## Source Credit
+
+*([Pub. L. 106–102, title III, § 302](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1407](https://www.govinfo.gov/link/statute/113/1407).)*

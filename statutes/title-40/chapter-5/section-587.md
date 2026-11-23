@@ -3,9 +3,10 @@ title: "Section 587 - Telecommuting and other alternative workplace arrangements
 usc_title: 40
 usc_section: "587"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 587"
-generated_at: "2026-03-30T02:55:43.376Z"
+generated_at: "2026-11-23T20:26:56.551Z"
+status: "active"
 ---
 
 # § 587. Telecommuting and other alternative workplace arrangements
@@ -45,3 +46,75 @@ generated_at: "2026-03-30T02:55:43.376Z"
     - **(R)** Small Business Administration.
     - **(S)** Social Security Administration.
     - **(T)** United States Postal Service.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 587(a), (b)(1)– (4)(A) | 40:490( l )(1)–(3). | June 30, 1949, ch. 288 , title II, § 210( l ), as added Pub. L. 104–208, div. A, title I, § 101(f) [title IV, § 407(a)] , Sept. 30, 1996 , 110 Stat. 3009–337 . |
+| 587(b)(4)(B) | 40:490h. | Pub. L. 104–52, title IV, § 5 , Nov. 19, 1995 , 109 Stat. 486 . |
+| 587(c)(1) | 40:490( l )(4) (words after 3d comma). |  |
+| 587(c)(2) | 40:490( l )(5). |  |
+| 587(c)(3) | 40:490( l )(4) (words before 3d comma). |  |
+| 587(d) | 40:490 note. | Pub. L. 105–277 , div A, § 101(h) [title VI, § 630], Oct. 21, 1998 , 112 Stat. 2681–522 . |
+
+
+Definition
+
+Telecommuting Centers Established by Administrator of General Services.—
+
+Establishment
+
+Use
+
+User fees
+
+Deposit and use of fees
+
+Development of Alternative Workplace Arrangements by Executive Agencies and Others.—
+
+Definition
+
+Consideration by executive agencies
+
+Guidance from administrator
+
+Amounts Available for Flexiplace Work Telecommuting Programs.—
+
+Definition
+
+Minimum funding
+
+Historical and Revision Notes
+
+June 30, 1949, ch. 288
+
+Pub. L. 104–208, div. A, title I, § 101(f) [title IV, § 407(a)]
+
+Sept. 30, 1996
+
+110 Stat. 3009–337
+
+587(b)(4)(B)
+
+Pub. L. 104–52, title IV, § 5
+
+Nov. 19, 1995
+
+109 Stat. 486
+
+587(c)(1)
+
+587(c)(2)
+
+587(c)(3)
+
+587(d)
+
+Pub. L. 105–277
+
+Oct. 21, 1998
+
+112 Stat. 2681–522
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1113](https://www.govinfo.gov/link/statute/116/1113).)*

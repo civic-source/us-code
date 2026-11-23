@@ -3,9 +3,10 @@ title: "Section 4532 - Loans to private business enterprises"
 usc_title: 50
 usc_section: "4532"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4532"
-generated_at: "2026-03-30T02:56:26.275Z"
+generated_at: "2026-11-23T20:27:31.108Z"
+status: "active"
 ---
 
 # § 4532. Loans to private business enterprises
@@ -31,3 +32,19 @@ generated_at: "2026-03-30T02:56:26.275Z"
   - **(2)** The requirements of paragraph (1) may be waived—
     - **(A)** during a period of national emergency declared by the Congress or the President; and
     - **(B)** upon a determination by the President, on a nondelegable basis, that a specific loan is necessary to avert an industrial resource or critical technology shortfall that would severely impair national defense capability.
+
+“Notwithstanding any other provision of law—
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*(Sept. 8, 1950, ch. 932, title III, § 302, as added [Pub. L. 111–67, § 7](https://www.govinfo.gov/link/plaw/111/public/67), Sept. 30, 2009, [123 Stat. 2012](https://www.govinfo.gov/link/statute/123/2012).)*

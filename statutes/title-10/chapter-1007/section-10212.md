@@ -3,9 +3,10 @@ title: "Section 10212 - Gratuitous services of officers: authority to accept"
 usc_title: 10
 usc_section: "10212"
 chapter: 1007
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 10212"
-generated_at: "2026-03-30T02:53:38.265Z"
+generated_at: "2026-11-23T20:25:52.381Z"
+status: "active"
 ---
 
 # § 10212. Gratuitous services of officers: authority to accept
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:38.265Z"
 - **(b)** Notwithstanding section 1342 of title 31 , the Secretary of a military department may accept the gratuitous services of an officer of a reserve component under the Secretary’s jurisdiction (other than an officer of the Army National Guard of the United States or the Air National Guard of the United States)—
   - **(1)** in the furtherance of the enrollment, organization, and training of that officer’s reserve component or the Reserve Officers’ Training Corps; or
   - **(2)** in consultation upon matters relating to the armed forces.
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1661(a)(1)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2978](https://www.govinfo.gov/link/statute/108/2978); amended [Pub. L. 103–355, title III, § 3021(a)](https://www.govinfo.gov/link/plaw/103/public/355), Oct. 13, 1994, [108 Stat. 3333](https://www.govinfo.gov/link/statute/108/3333).)*

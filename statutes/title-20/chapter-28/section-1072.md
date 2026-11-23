@@ -3,9 +3,10 @@ title: "Section 1072 - Advances for reserve funds of State and nonprofit private
 usc_title: 20
 usc_section: "1072"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1072"
-generated_at: "2026-03-30T02:54:48.110Z"
+generated_at: "2026-11-23T20:26:14.389Z"
+status: "active"
 ---
 
 # § 1072. Advances for reserve funds of State and nonprofit private loan insurance programs
@@ -129,3 +130,7 @@ generated_at: "2026-03-30T02:54:48.110Z"
   - **(5)** The term “reserve funds” when used with respect to a guaranty agency—
     - **(A)** includes any reserve funds in cash or liquid assets held by the guaranty agency, or held by, or under the control of, any other entity; and
     - **(B)** does not include buildings, equipment, or other nonliquid assets.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 422](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1354](https://www.govinfo.gov/link/statute/100/1354); amended [Pub. L. 100–203, title III](https://www.govinfo.gov/link/plaw/100/public/203), §§ 3001(a), 3002(a), Dec. 22, 1987, [101 Stat. 1330–36](https://www.govinfo.gov/link/statute/101/1330), 1330–38; [Pub. L. 102–325, title IV](https://www.govinfo.gov/link/plaw/102/public/325), §§ 412, 416(p)(8), July 23, 1992, [106 Stat. 511](https://www.govinfo.gov/link/statute/106/511), 527; [Pub. L. 103–66, title IV](https://www.govinfo.gov/link/plaw/103/public/66), §§ 4041(a), (2)(A), 4042, Aug. 10, 1993, [107 Stat. 354](https://www.govinfo.gov/link/statute/107/354), 357; [Pub. L. 103–208, § 2(c)(1)](https://www.govinfo.gov/link/plaw/103/public/208), Dec. 20, 1993, [107 Stat. 2460](https://www.govinfo.gov/link/statute/107/2460); [Pub. L. 105–33, title VI, § 6101(a)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 648](https://www.govinfo.gov/link/statute/111/648); [Pub. L. 105–244, title IV, § 412](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1673](https://www.govinfo.gov/link/statute/112/1673).)*

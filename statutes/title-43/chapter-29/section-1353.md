@@ -3,9 +3,10 @@ title: "Section 1353 - Federal purchase and disposition of oil and gas"
 usc_title: 43
 usc_section: "1353"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1353"
-generated_at: "2026-03-30T02:55:57.471Z"
+generated_at: "2026-11-23T20:27:06.284Z"
+status: "active"
 ---
 
 # § 1353. Federal purchase and disposition of oil and gas
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:57.471Z"
     - **(C)** at which either Federal oil or gas may be sold under any other provision of law or rule or order thereunder which sets a price (or manner for determining a price) for oil or gas; and
   - **(2)** the term “small refiner” has the meaning given such term by Small Business Administration Standards 128.3–8(d) and (g), as in effect on September 18, 1978 , or as there-after revised or amended.
 - **(f)** Nothing in this section shall prohibit the right of the United States to purchase any oil or gas produced on the outer Continental Shelf as provided by section 1341(b) of this title .
+
+## Source Credit
+
+*(Aug. 7, 1953, ch. 345, § 27, as added [Pub. L. 95–372, title II, § 208](https://www.govinfo.gov/link/plaw/95/public/372), Sept. 18, 1978, [92 Stat. 666](https://www.govinfo.gov/link/statute/92/666).)*

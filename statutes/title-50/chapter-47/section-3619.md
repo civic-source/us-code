@@ -3,12 +3,17 @@ title: "Section 3619 - Senior Chief Petty Officer Shannon Kent Award for Disting
 usc_title: 50
 usc_section: "3619"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3619"
-generated_at: "2026-03-30T02:56:26.258Z"
+generated_at: "2026-11-23T20:27:31.033Z"
+status: "active"
 ---
 
 # § 3619. Senior Chief Petty Officer Shannon Kent Award for Distinguished Female Personnel
 
 - **(a)** The Director of the National Security Agency shall establish an honorary award for the recognition of female personnel of the National Security Agency for distinguished career contributions in support of the mission of the Agency as civilian employees or members of the Armed Forces assigned to the Agency. The award shall be known as the “Senior Chief Petty Officer Shannon Kent Award” and shall consist of a design determined appropriate by the Director.
 - **(b)** The Director shall award the Senior Chief Petty Officer Shannon Kent Award to female civilian employees, members of the Armed Forces, or former civilian employees or members, whom the Director determines meet the criteria under subsection (a).
+
+## Source Credit
+
+*([Pub. L. 86–36, § 21](https://www.govinfo.gov/link/plaw/86/public/36), as added [Pub. L. 116–260, div. W, title IV, § 403](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2378](https://www.govinfo.gov/link/statute/134/2378).)*

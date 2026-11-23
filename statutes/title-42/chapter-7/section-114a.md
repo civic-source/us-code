@@ -3,9 +3,10 @@ title: "Section 114a - Medicare coverage gap discount program"
 usc_title: 42
 usc_section: "114a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 114a"
-generated_at: "2026-03-30T02:56:10.987Z"
+generated_at: "2026-11-23T20:27:21.305Z"
+status: "active"
 ---
 
 # § 1395w–114a. Medicare coverage gap discount program
@@ -94,3 +95,7 @@ generated_at: "2026-03-30T02:56:10.987Z"
 - **(h)**
   - **(1)** The program shall not apply with respect to applicable drugs dispensed on or after January 1, 2025 , and, subject to paragraph (2), agreements under this section shall be terminated as of such date.
   - **(2)** The provisions of this section (including all responsibilities and duties) shall continue to apply on and after January 1, 2025 , with respect to applicable drugs dispensed prior to such date.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1860D–14A, as added [Pub. L. 111–148, title III, § 3301(b)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 462](https://www.govinfo.gov/link/statute/124/462); amended [Pub. L. 111–152, title I, § 1101(b)(2)](https://www.govinfo.gov/link/plaw/111/public/152), Mar. 30, 2010, [124 Stat. 1037](https://www.govinfo.gov/link/statute/124/1037); [Pub. L. 115–123, div. E, title XII](https://www.govinfo.gov/link/plaw/115/public/123), §§ 53113, 53116(b), Feb. 9, 2018, [132 Stat. 305](https://www.govinfo.gov/link/statute/132/305), 307; [Pub. L. 117–169, title I, § 11201(c)(2)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 1888](https://www.govinfo.gov/link/statute/136/1888).)*

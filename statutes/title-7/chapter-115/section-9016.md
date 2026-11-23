@@ -3,9 +3,10 @@ title: "Section 9016 - Price loss coverage"
 usc_title: 7
 usc_section: "9016"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 9016"
-generated_at: "2026-03-30T02:53:42.483Z"
+generated_at: "2026-11-23T20:25:41.934Z"
+status: "active"
 ---
 
 # § 9016. Price loss coverage
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:53:42.483Z"
     - **(B)** the sum obtained by adding—
       - **(i)** the total United States upland cotton lint production, measured in pounds; and
       - **(ii)** the total United States cottonseed production, measured in pounds.
+
+## Source Credit
+
+*([Pub. L. 113–79, title I, § 1116](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 668](https://www.govinfo.gov/link/statute/128/668); [Pub. L. 115–123, div. F, § 60101(a)(8)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 310](https://www.govinfo.gov/link/statute/132/310); [Pub. L. 115–334, title I, § 1106](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4504](https://www.govinfo.gov/link/statute/132/4504); [Pub. L. 118–22, div. B, title I, § 102(c)(3)](https://www.govinfo.gov/link/plaw/118/public/22), Nov. 17, 2023, [137 Stat. 116](https://www.govinfo.gov/link/statute/137/116); [Pub. L. 118–158, div. D, § 4101(c)(3)](https://www.govinfo.gov/link/plaw/118/public/158), Dec. 21, 2024, [138 Stat. 1768](https://www.govinfo.gov/link/statute/138/1768); [Pub. L. 119–21, title I, § 10304](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 90](https://www.govinfo.gov/link/statute/139/90).)*

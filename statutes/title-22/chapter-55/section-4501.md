@@ -3,9 +3,10 @@ title: "Section 4501 - Findings and declarations"
 usc_title: 22
 usc_section: "4501"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4501"
-generated_at: "2026-03-30T02:55:05.411Z"
+generated_at: "2026-11-23T20:26:32.538Z"
+status: "active"
 ---
 
 # § 4501. Findings and declarations
@@ -21,3 +22,7 @@ The Congress finds and declares that—
     - **(D)** contact and collaboration among Government and private specialists; and
     - **(E)** firsthand experience of the countries of Eastern Europe and the independent states of the former Soviet Union by American specialists, including on site conduct of advanced training and research to the extent practicable; and
   - **(4)** it is in the national interest for the United States Government to provide a stable source of financial support for the functions described in this section and to supplement the financial support for those functions which is currently being furnished by Federal, State, local, regional, and private agencies, organizations, and individuals, and thereby to stabilize the conduct of these functions on a national scale, consistently, and on a long range unclassified basis.
+
+## Source Credit
+
+*([Pub. L. 98–164, title VIII, § 802](https://www.govinfo.gov/link/plaw/98/public/164), Nov. 22, 1983, [97 Stat. 1047](https://www.govinfo.gov/link/statute/97/1047); [Pub. L. 103–199, title III, § 302(3)](https://www.govinfo.gov/link/plaw/103/public/199), Dec. 17, 1993, [107 Stat. 2322](https://www.govinfo.gov/link/statute/107/2322).)*

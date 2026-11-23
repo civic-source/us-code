@@ -3,9 +3,10 @@ title: "Section 3101A - Presidential modification of the debt ceiling"
 usc_title: 31
 usc_section: "3101A"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 3101A"
-generated_at: "2026-03-30T02:55:34.053Z"
+generated_at: "2026-11-23T20:26:51.745Z"
+status: "active"
 ---
 
 # § 3101A. Presidential modification of the debt ceiling
@@ -59,3 +60,71 @@ generated_at: "2026-03-30T02:55:34.053Z"
 - **(g)** This subsection and subsections (b), (c), (d), (e), and (f) (other than paragraph (6)) are enacted by Congress—
   - **(1)** as an exercise of the rulemaking power of the Senate and House of Representatives, respectively, and as such it is deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of a joint resolution, and it supersedes other rules only to the extent that it is inconsistent with such rules; and
   - **(2)** with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.
+
+In General.—
+
+billion.—
+
+Certification
+
+Resolution of disapproval
+
+Additional amount.—
+
+Certification
+
+Resolution of disapproval
+
+Joint Resolution of Disapproval.—
+
+In general
+
+Contents of joint resolution
+
+Expedited Consideration in House of Representatives.—
+
+Reconvening
+
+Reporting and discharge
+
+Proceeding to consideration
+
+Consideration
+
+Expedited Procedure in Senate.—
+
+Reconvening
+
+Placement on calendar
+
+Floor consideration.—
+
+In general
+
+Consideration
+
+Vote on passage
+
+Rulings of the chair on procedure
+
+Amendment Not in Order
+
+Coordination With Action by Other House.—
+
+In general
+
+Treatment of joint resolution of other house
+
+Treatment of companion measures
+
+Consideration after passage
+
+Veto override
+
+Sequestration
+
+Rules of House of Representatives and Senate
+
+## Source Credit
+
+*(Added [Pub. L. 112–25, title III, § 301(a)(2)](https://www.govinfo.gov/link/plaw/112/public/25), Aug. 2, 2011, [125 Stat. 251](https://www.govinfo.gov/link/statute/125/251).)*

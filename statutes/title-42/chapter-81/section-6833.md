@@ -3,9 +3,10 @@ title: "Section 6833 - Updating State building energy efficiency codes"
 usc_title: 42
 usc_section: "6833"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6833"
-generated_at: "2026-03-30T02:56:11.266Z"
+generated_at: "2026-11-23T20:27:22.705Z"
+status: "active"
 ---
 
 # § 6833. Updating State building energy efficiency codes
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:56:11.266Z"
       - **(i)** $25,000,000 for each of fiscal years 2006 through 2010; and
       - **(ii)** such sums as are necessary for fiscal year 2011 and each fiscal year thereafter.
     - **(B)** Funding provided to States under paragraph (2) for each fiscal year shall not exceed one-half of the excess of funding under this subsection over $5,000,000 for the fiscal year.
+
+## Source Credit
+
+*([Pub. L. 94–385, title III, § 304](https://www.govinfo.gov/link/plaw/94/public/385), as added [Pub. L. 102–486, title I, § 101(a)(2)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2783](https://www.govinfo.gov/link/statute/106/2783); amended [Pub. L. 109–58, title I, § 128](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 619](https://www.govinfo.gov/link/statute/119/619).)*

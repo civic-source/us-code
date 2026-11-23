@@ -3,9 +3,10 @@ title: "Section 200501 - Definitions"
 usc_title: 54
 usc_section: "200501"
 chapter: 2005
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "54 U.S.C. § 200501"
-generated_at: "2026-03-30T02:56:28.421Z"
+generated_at: "2026-11-23T20:27:38.071Z"
+status: "active"
 ---
 
 # § 200501. Definitions
@@ -39,3 +40,64 @@ In this chapter:
       - **(ii)** a park, conservation, water, or sanitary district; and
       - **(iii)** a school district.
   - **(10)** The term “State” means a State, an instrumentality of a State approved by the Governor of the State, Puerto Rico, Guam, American Samoa, the Virgin Islands, and the Northern Mariana Islands.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 200501 | 16 U.S.C. 2503 . | Pub. L. 95–625, title X, § 1004 , Nov. 10, 1978 , 92 Stat. 3539 ; Pub. L. 103–322, title III, § 31502 , Sept. 13, 1994 , 108 Stat. 1888 . |
+
+
+At-risk youth recreation grant.—
+
+In general
+
+Inclusions
+
+Additional uses of rehabilitation grant
+
+General purpose local government
+
+Innovation grant
+
+Maintenance
+
+Private, nonprofit agency
+
+Recovery action program grant.—
+
+In general
+
+Use
+
+Recreation area or facility
+
+Rehabilitation grant
+
+Special purpose local government.—
+
+In general
+
+Inclusions
+
+State
+
+Historical and Revision Notes
+
+200501
+
+16 U.S.C. 2503
+
+Pub. L. 95–625, title X, § 1004
+
+Nov. 10, 1978
+
+92 Stat. 3539
+
+Pub. L. 103–322, title III, § 31502
+
+Sept. 13, 1994
+
+108 Stat. 1888
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3180](https://www.govinfo.gov/link/statute/128/3180).)*

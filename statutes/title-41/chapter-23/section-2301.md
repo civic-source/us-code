@@ -3,9 +3,10 @@ title: "Section 2301 - Use of electronic commerce in Federal procurement"
 usc_title: 41
 usc_section: "2301"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 2301"
-generated_at: "2026-03-30T02:55:55.804Z"
+generated_at: "2026-11-23T20:27:04.412Z"
+status: "active"
 ---
 
 # § 2301. Use of electronic commerce in Federal procurement
@@ -23,3 +24,62 @@ generated_at: "2026-03-30T02:55:55.804Z"
   - **(2)** ensure that the head of each executive agency complies with the requirements of subsection (d); and
   - **(3)** consult with the heads of appropriate Federal agencies with applicable technical and functional expertise, including the Office of Information and Regulatory Affairs, the National Institute of Standards and Technology, the General Services Administration, and the Department of Defense.
 - **(f)** In this section, the term “executive agency” does not include the Department of Defense.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 2301(a) | 41:426(f). | Pub. L. 93–400, § 30 , as added Pub. L. 103–355, title IX, § 9001(a) , Oct. 13, 1994 , 108 Stat. 3399 ; Pub. L. 105–85, title VIII, § 850(a) , Nov. 18, 1997 , 111 Stat. 1847 ; Pub. L. 106–398, § 1 [[div. A] , title VIII, § 810(d)], Oct. 30, 2000 , 114 Stat. 1654 A–210. |
+| 2301(b) | 41:426(a). |  |
+| 2301(c) | 41:426(b). |  |
+| 2301(d) | 41:426(c). |  |
+| 2301(e) | 41:426(d). |  |
+
+
+Definition
+
+Establishment, Maintenance, and Use of Electronic Commerce Procedures and Processes
+
+Applicable Standards
+
+Requirements of Systems, Technologies, Procedures, and Processes
+
+Implementation
+
+Inapplicability to Department of Defense
+
+Historical and Revision Notes
+
+2301(a)
+
+Pub. L. 93–400, § 30
+
+Pub. L. 103–355, title IX, § 9001(a)
+
+Oct. 13, 1994
+
+108 Stat. 3399
+
+Pub. L. 105–85, title VIII, § 850(a)
+
+Nov. 18, 1997
+
+111 Stat. 1847
+
+Pub. L. 106–398, § 1 [[div. A]
+
+Oct. 30, 2000
+
+114 Stat. 1654
+
+2301(b)
+
+2301(c)
+
+2301(d)
+
+2301(e)
+
+William J. Clinton.
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3732](https://www.govinfo.gov/link/statute/124/3732); [Pub. L. 114–328, div. A, title VIII, § 833(b)(5)(A)(ii)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2285](https://www.govinfo.gov/link/statute/130/2285).)*

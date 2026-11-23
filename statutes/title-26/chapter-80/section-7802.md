@@ -3,9 +3,10 @@ title: "Section 7802 - Internal Revenue Service Oversight Board"
 usc_title: 26
 usc_section: "7802"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 7802"
-generated_at: "2026-03-30T02:55:27.886Z"
+generated_at: "2026-11-23T20:26:46.846Z"
+status: "active"
 ---
 
 # § 7802. Internal Revenue Service Oversight Board
@@ -106,3 +107,13 @@ generated_at: "2026-03-30T02:55:27.886Z"
   - **(3)**
     - **(A)** The Oversight Board shall each year report with respect to the conduct of its responsibilities under this title to the President, the Committees on Ways and Means, Government Reform and Oversight, and Appropriations of the House of Representatives and the Committees on Finance, Governmental Affairs, and Appropriations of the Senate.
     - **(B)** Upon a determination by the Oversight Board under subsection (c)(1)(B) that the organization and operation of the Internal Revenue Service are not allowing it to carry out its mission, the Oversight Board shall report such determination to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
+
+In general
+
+Initial nominations to internal revenue service oversight board
+
+Effect on actions prior to appointment of oversight board
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 915; [Pub. L. 93–406, title II, § 1051(a)](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 951](https://www.govinfo.gov/link/statute/88/951); [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), (B), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 97–258, § 2(f)(2)](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 1059](https://www.govinfo.gov/link/statute/96/1059); [Pub. L. 100–647, title VI, § 6235(a)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3737](https://www.govinfo.gov/link/statute/102/3737); [Pub. L. 104–168, title I, § 101(a)](https://www.govinfo.gov/link/plaw/104/public/168), (b)(2), July 30, 1996, [110 Stat. 1453](https://www.govinfo.gov/link/statute/110/1453), 1455; [Pub. L. 105–206, title I, § 1101(a)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 691](https://www.govinfo.gov/link/statute/112/691); [Pub. L. 106–554, § 1(a)(7) [title III, § 319(27)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–648; [Pub. L. 117–286, § 4(c)(34)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4358](https://www.govinfo.gov/link/statute/136/4358).)*

@@ -3,9 +3,10 @@ title: "Section 14321 - Grants and other assistance"
 usc_title: 40
 usc_section: "14321"
 chapter: 143
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 14321"
-generated_at: "2026-03-30T02:55:43.386Z"
+generated_at: "2026-11-23T20:26:56.686Z"
+status: "active"
 ---
 
 # § 14321. Grants and other assistance
@@ -40,3 +41,105 @@ generated_at: "2026-03-30T02:55:43.386Z"
 - **(c)**
   - **(1)** The Commission, as required by the President, shall maintain accurate and complete records of transactions and activities financed with federal amounts and report to the President on the transactions and activities. The records of the Commission with respect to grants are available for audit by the President and the Comptroller General.
   - **(2)** Recipients of federal assistance under this section, as required by the Commission, shall maintain accurate and complete records of transactions and activities financed with federal amounts and report to the Commission on the transactions and activities. The records are be 1 1 So in original. Probably should be preceded by “to”. available for audit by the President, the Comptroller General, and the Commission.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 14321(a)(1) | 40 App.:302(a)(1)(A)– (C) (1st sentence). | Pub. L. 89–4, title III, § 302 , Mar. 9, 1965 , 79 Stat. 19 ; Pub. L. 90–103, title I, § 120 , Oct. 11, 1967 , 81 Stat. 264 ; Pub. L. 91–123, title I, § 108 , Nov. 25, 1969 , 83 Stat. 215 ; Pub. L. 92–65, title II, § 211 , Aug. 5, 1971 , 85 Stat. 172 ; Pub. L. 94–188, title I, § 119 , Dec. 31, 1975 , 89 Stat. 1085 ; Pub. L. 105–393, title II , §§ 218(d), 220(a)–(c)(1), Nov. 13, 1998 , 112 Stat. 3623 , 3624; Pub. L. 107–149 , §§ 9, 13(c), Mar. 12, 2002 , 116 Stat. 70 , 71. |
+| 14321(a)(2) | 40 App.:302(a)(2). |  |
+| 14321(a)(3) | 40 App.:302(a)(1)(C) (2d sentence). |  |
+| 14321(a)(4) | 40 App.:302(a)(1)(C) (last sentence). |  |
+| 14321(b) | 40 App.:302(b). |  |
+| 14321(c) | 40 App.:302(c). |  |
+
+
+Authorization To Make Grants.—
+
+In general
+
+Limitation on available amounts.—
+
+In general
+
+Discretionary grants.—
+
+Grants to which percentage limitation doesn’t apply
+
+Limitation on aggregate amount
+
+Sources of grants
+
+Federal share
+
+Assistance for Demonstrations of Enterprise Development.—
+
+In general
+
+Cooperation by federal agencies
+
+Available amounts
+
+Records.—
+
+Commission
+
+Recipients of federal assistance
+
+Historical and Revision Notes
+
+14321(a)(1)
+
+Pub. L. 89–4, title III, § 302
+
+Mar. 9, 1965
+
+79 Stat. 19
+
+Pub. L. 90–103, title I, § 120
+
+Oct. 11, 1967
+
+81 Stat. 264
+
+Pub. L. 91–123, title I, § 108
+
+Nov. 25, 1969
+
+83 Stat. 215
+
+Pub. L. 92–65, title II, § 211
+
+Aug. 5, 1971
+
+85 Stat. 172
+
+Pub. L. 94–188, title I, § 119
+
+Dec. 31, 1975
+
+89 Stat. 1085
+
+Pub. L. 105–393, title II
+
+Nov. 13, 1998
+
+112 Stat. 3623
+
+Pub. L. 107–149
+
+Mar. 12, 2002
+
+116 Stat. 70
+
+14321(a)(2)
+
+14321(a)(3)
+
+14321(a)(4)
+
+14321(b)
+
+14321(c)
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1262](https://www.govinfo.gov/link/statute/116/1262); [Pub. L. 110–371, § 2(a)](https://www.govinfo.gov/link/plaw/110/public/371), Oct. 8, 2008, [122 Stat. 4037](https://www.govinfo.gov/link/statute/122/4037); [Pub. L. 116–136, div. B, title IV, § 14004](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 526](https://www.govinfo.gov/link/statute/134/526).)*

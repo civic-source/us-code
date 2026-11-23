@@ -3,9 +3,10 @@ title: "Section 422d - Contents of proposals"
 usc_title: 43
 usc_section: "422d"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 422d"
-generated_at: "2026-03-30T02:55:57.448Z"
+generated_at: "2026-11-23T20:27:06.208Z"
+status: "active"
 ---
 
 # § 422d. Contents of proposals
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:57.448Z"
 - **(d)** At the time of his submitting the project proposal to the Congress, or at any subsequent time prior to completion of construction of the project, including projects heretofore approved, the Secretary may increase the amount of the requested loan and/or grant to an amount within the maximum allowed by section 422e(a) of this title , as amended by Pub. L. 94–181 , to compensate for increases in construction costs due to price escalation.
 - **(e)** No appropriation shall be made for financial participation in any such project prior to sixty calendar days (which sixty days, however, shall not include days on which either the House of Representatives or the Senate is not in session because of an adjournment of more than three calendar days to a day certain) from the date on which the Secretary’s findings and approval are submitted to the Congress and then only if, within said sixty days, neither the Committee on Natural Resources of the House of Representatives nor the Committee on Energy and Natural Resources of the Senate disapproves the project proposal by committee resolution. The provisions of this subsection (e) shall not be applicable to proposals made under section 422f of this title .
 - **(f)** The Secretary shall give due consideration to financial feasibility, emergency, or urgent need for the project. All project works and facilities constructed under this subchapter shall remain under the jurisdiction and control of the local contracting organization subject to the terms of the repayment contract.
+
+## Source Credit
+
+*(Aug. 6, 1956, ch. 972, § 4, [70 Stat. 1044](https://www.govinfo.gov/link/statute/70/1044); [Pub. L. 85–47, § 1(a)](https://www.govinfo.gov/link/plaw/85/public/47), (b), June 5, 1957, [71 Stat. 48](https://www.govinfo.gov/link/statute/71/48); [Pub. L. 89–553, § 1(2)](https://www.govinfo.gov/link/plaw/89/public/553), (3), Sept. 2, 1966, [80 Stat. 376](https://www.govinfo.gov/link/statute/80/376); [Pub. L. 92–167, § 1(2)](https://www.govinfo.gov/link/plaw/92/public/167), Nov. 24, 1971, [85 Stat. 488](https://www.govinfo.gov/link/statute/85/488); [Pub. L. 94–181, § 1(c)](https://www.govinfo.gov/link/plaw/94/public/181) –(e), Dec. 27, 1975, [89 Stat. 1049](https://www.govinfo.gov/link/statute/89/1049), 1050; [Pub. L. 99–546, title III](https://www.govinfo.gov/link/plaw/99/public/546), §§ 304, 305, Oct. 27, 1986, [100 Stat. 3053](https://www.govinfo.gov/link/statute/100/3053), 3054; [Pub. L. 103–437, § 16(b)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4594](https://www.govinfo.gov/link/statute/108/4594).)*

@@ -3,9 +3,10 @@ title: "Section 9162 - National leadership grants, contracts, or cooperative agr
 usc_title: 20
 usc_section: "9162"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 9162"
-generated_at: "2026-03-30T02:54:48.224Z"
+generated_at: "2026-11-23T20:26:14.974Z"
+status: "active"
 ---
 
 # § 9162. National leadership grants, contracts, or cooperative agreements
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:48.224Z"
   - **(2)** reflect and serve a range of library types and geographically diverse areas;
   - **(3)** include evaluation, analysis, and dissemination components; and
   - **(4)** to the extent practicable, actively involve, have direct impact on, or provide future application in, libraries.
+
+## Source Credit
+
+*([Pub. L. 94–462, title II, § 262](https://www.govinfo.gov/link/plaw/94/public/462), as added [Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–233](https://www.govinfo.gov/link/statute/110/3009), 3009–302; amended [Pub. L. 105–128](https://www.govinfo.gov/link/plaw/105/public/128), §§ 7, 8, Dec. 1, 1997, [111 Stat. 2549](https://www.govinfo.gov/link/statute/111/2549), 2550; [Pub. L. 108–81, title II, § 207](https://www.govinfo.gov/link/plaw/108/public/81), title V, § 504(g), Sept. 25, 2003, [117 Stat. 1000](https://www.govinfo.gov/link/statute/117/1000), 1004; [Pub. L. 111–340, title II, § 206](https://www.govinfo.gov/link/plaw/111/public/340), Dec. 22, 2010, [124 Stat. 3601](https://www.govinfo.gov/link/statute/124/3601); [Pub. L. 115–410, § 14](https://www.govinfo.gov/link/plaw/115/public/410), Dec. 31, 2018, [132 Stat. 5418](https://www.govinfo.gov/link/statute/132/5418).)*

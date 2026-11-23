@@ -3,9 +3,10 @@ title: "Section 16123 - Federal procurement of stationary, portable, and micro f
 usc_title: 42
 usc_section: "16123"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16123"
-generated_at: "2026-03-30T02:56:11.469Z"
+generated_at: "2026-11-23T20:27:23.612Z"
+status: "active"
 ---
 
 # § 16123. Federal procurement of stationary, portable, and micro fuel cells
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:56:11.469Z"
   - **(4)** $100,000,000 for fiscal year 2009;
   - **(5)** $100,000,000 for fiscal year 2010; and
   - **(6)** such sums as are necessary for each of fiscal years 2011 through 2015.
+
+## Source Credit
+
+*([Pub. L. 109–58, title VII, § 783](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 837](https://www.govinfo.gov/link/statute/119/837).)*

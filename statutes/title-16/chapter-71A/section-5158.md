@@ -3,9 +3,10 @@ title: "Section 5158 - Protection of striped bass in the exclusive economic zone
 usc_title: 16
 usc_section: "5158"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 5158"
-generated_at: "2026-03-30T02:54:23.051Z"
+generated_at: "2026-11-23T20:26:20.770Z"
+status: "active"
 ---
 
 # § 5158. Protection of striped bass in the exclusive economic zone
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:23.051Z"
   - **(4)** are sufficient to assure the long-term conservation of Atlantic striped bass populations.
 - **(b)** In preparing regulations under subsection (a), the Secretary shall consult with the Atlantic States Marine Fisheries Commission, the appropriate Regional Fishery Management Councils, and each affected Federal, State, and local government entity. The Secretary shall periodically review regulations promulgated under subsection (a), and if necessary to ensure their continued consistency with the requirements of subsection (a), shall amend those regulations.
 - **(c)** The provisions of sections 307, 308, 309, 310, and 311 of the Magnuson Act ( 16 U.S.C. 1857 , 1858, 1859, 1860, and 1861) regarding prohibited acts, civil penalties, criminal offenses, civil forfeitures, and enforcement shall apply with respect to regulations and any plan issued under subsection (a) of this section as if such regulations or plan were issued under the Magnuson Act.
+
+## Source Credit
+
+*([Pub. L. 98–613, § 9](https://www.govinfo.gov/link/plaw/98/public/613), as added [Pub. L. 105–146, § 2](https://www.govinfo.gov/link/plaw/105/public/146), Dec. 16, 1997, [111 Stat. 2676](https://www.govinfo.gov/link/statute/111/2676).)*

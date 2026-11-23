@@ -3,9 +3,10 @@ title: "Section 2152h - Assistance to provide safe water, sanitation, and hygien
 usc_title: 22
 usc_section: "2152h"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2152h"
-generated_at: "2026-03-30T02:55:05.348Z"
+generated_at: "2026-11-23T20:26:32.182Z"
+status: "active"
 ---
 
 # § 2152h. Assistance to provide safe water, sanitation, and hygiene
@@ -134,3 +135,27 @@ generated_at: "2026-03-30T02:55:05.348Z"
     - **(C)** the Committee on Foreign Affairs of the House of Representatives; and
     - **(D)** the Committee on Appropriations of the House of Representatives; and
   - **(2)** the term “long-term sustainability” refers to the ability of a service delivery system, community, partner, or beneficiary to maintain, over time, any water, sanitation, or hygiene project that receives funding pursuant to the amendments made by the Senator Paul Simon Water for the World Act of 2014.
+
+(aa) increasing access to safe water and sanitation;
+
+(bb) conducting hygiene-related activities; and
+
+(cc) ensuring appropriate management of water resources; and
+
+In General
+
+Conforming Amendment
+
+Sense of Congress
+
+Report
+
+In General
+
+Other Amounts
+
+Availability
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 136, formerly § 135, as added [Pub. L. 109–121, § 5(a)](https://www.govinfo.gov/link/plaw/109/public/121), Dec. 1, 2005, [119 Stat. 2536](https://www.govinfo.gov/link/statute/119/2536); amended [Pub. L. 110–246, title III, § 3001(b)(1)(A)](https://www.govinfo.gov/link/plaw/110/public/246), (2)(Q), June 18, 2008, [122 Stat. 1820](https://www.govinfo.gov/link/statute/122/1820); renumbered § 136 and amended [Pub. L. 113–289](https://www.govinfo.gov/link/plaw/113/public/289), §§ 3–6(a), Dec. 19, 2014, [128 Stat. 3283–3288](https://www.govinfo.gov/link/statute/128/3283).)*

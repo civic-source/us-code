@@ -3,9 +3,10 @@ title: "Section 629f - Authorization of appropriations; reservation of certain a
 usc_title: 42
 usc_section: "629f"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 629f"
-generated_at: "2026-03-30T02:56:10.879Z"
+generated_at: "2026-11-23T20:27:20.862Z"
+status: "active"
 ---
 
 # § 629f. Authorization of appropriations; reservation of certain amounts
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:10.879Z"
       - **(ii)** A State to which an amount is paid from amounts reserved pursuant to subparagraph (A) shall not use the amount to supplant any Federal funds paid to the State under part E that could be used as described in clause (i).
   - **(4)** The Secretary shall reserve for awarding grants under section 629g(f) of this title $20,000,000 for fiscal year 2025 and $30,000,000 for fiscal year 2026 and each succeeding fiscal year.
 - **(c)** Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated to the Secretary for fiscal year 2018, $8,000,000 for the Secretary to make competitive grants to States, Indian tribes, or tribal consortia to support the recruitment and retention of high-quality foster families to increase their capacity to place more children in family settings, focused on States, Indian tribes, or tribal consortia with the highest percentage of children in non-family settings. The amount appropriated under this subparagraph shall remain available through fiscal year 2022.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 436, as added [Pub. L. 107–133, title I, § 106(a)(1)](https://www.govinfo.gov/link/plaw/107/public/133), Jan. 17, 2002, [115 Stat. 2416](https://www.govinfo.gov/link/statute/115/2416); amended [Pub. L. 109–171, title VII, § 7402](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 150](https://www.govinfo.gov/link/statute/120/150); [Pub. L. 109–288](https://www.govinfo.gov/link/plaw/109/public/288), §§ 3(a), 4(a)(1), (b)(1), 5(a)(1), (3), (b)(1)(B), Sept. 28, 2006, [120 Stat. 1234](https://www.govinfo.gov/link/statute/120/1234), 1236, 1237, 1242, 1243; [Pub. L. 111–242, § 133(1)](https://www.govinfo.gov/link/plaw/111/public/242), Sept. 30, 2010, [124 Stat. 2613](https://www.govinfo.gov/link/statute/124/2613); [Pub. L. 112–34, title I](https://www.govinfo.gov/link/plaw/112/public/34), §§ 102(a)(1), 103(a), (b), Sept. 30, 2011, [125 Stat. 371](https://www.govinfo.gov/link/statute/125/371), 373; [Pub. L. 115–123, div. E, title VII](https://www.govinfo.gov/link/plaw/115/public/123), §§ 50751(b), 50752(b)(1), (c), Feb. 9, 2018, [132 Stat. 262](https://www.govinfo.gov/link/statute/132/262), 263; [Pub. L. 116–260, div. CC, title III, § 305(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2994](https://www.govinfo.gov/link/statute/134/2994); [Pub. L. 117–328, div. FF, title VI, § 6103(a)(1)](https://www.govinfo.gov/link/plaw/117/public/328) –(3), Dec. 29, 2022, [136 Stat. 5964](https://www.govinfo.gov/link/statute/136/5964), 5965; [Pub. L. 118–258, title I](https://www.govinfo.gov/link/plaw/118/public/258), §§ 103(b), 104(a), 105(a), 107(b)(2), 112(a), (c), 115(b)(1), Jan. 4, 2025, [138 Stat. 2948](https://www.govinfo.gov/link/statute/138/2948), 2949, 2955, 2962, 2968.)*

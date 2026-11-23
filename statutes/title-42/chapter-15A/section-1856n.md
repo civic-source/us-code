@@ -3,9 +3,10 @@ title: "Section 1856n - Implementation"
 usc_title: 42
 usc_section: "1856n"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1856n"
-generated_at: "2026-03-30T02:56:11.124Z"
+generated_at: "2026-11-23T20:27:21.926Z"
+status: "active"
 ---
 
 # § 1856n. Implementation
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.124Z"
 - **(d)**
   - **(1)** Any service performed by any employee of the United States under an agreement or otherwise under this subchapter shall constitute service rendered in the line of duty in such employment.
   - **(2)** Except as provided in section 1856n–1 of this title , the performance of such service by any other individual shall not make such individual an employee of the United States.
+
+## Source Credit
+
+*([Pub. L. 100–428, § 3](https://www.govinfo.gov/link/plaw/100/public/428), Sept. 9, 1988, [102 Stat. 1615](https://www.govinfo.gov/link/statute/102/1615); [Pub. L. 112–74, div. E, title IV, § 411(3)](https://www.govinfo.gov/link/plaw/112/public/74), Dec. 23, 2011, [125 Stat. 1040](https://www.govinfo.gov/link/statute/125/1040).)*

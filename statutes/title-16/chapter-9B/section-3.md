@@ -3,9 +3,10 @@ title: "Section 3 - Community partnership enhancement"
 usc_title: 16
 usc_section: "3"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-30T02:54:22.906Z"
+generated_at: "2026-11-23T20:26:20.269Z"
+status: "active"
 ---
 
 # § 760aa–3. Community partnership enhancement
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:22.906Z"
   - **(4)** advance education concerning the purposes of the hatchery and the mission of the System, through the use of the hatchery as an outdoor classroom and development of other educational programs; or
   - **(5)** contribute financial resources to the hatchery, under the terms that require that the net revenues be used exclusively for the benefit of the hatchery, through donation of net revenues from the sale of educational materials and products and through encouragement of gifts, devises, and bequests.
 - **(b)** Amounts received by the Secretary of the Interior as a result of projects and programs under subsection (a) shall be deposited in a separate account in the Treasury. Amounts in the account that are attributable to activities at a particular facility of the System shall be available to the Secretary of the Interior, without further appropriation, to pay the costs of incidental expenses related to volunteer activities, and to carry out cooperative agreements for the hatchery facility.
+
+## Source Credit
+
+*([Pub. L. 109–360, § 5](https://www.govinfo.gov/link/plaw/109/public/360), Oct. 16, 2006, [120 Stat. 2060](https://www.govinfo.gov/link/statute/120/2060).)*

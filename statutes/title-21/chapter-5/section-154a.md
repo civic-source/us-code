@@ -3,9 +3,10 @@ title: "Section 154a - Special licenses for special circumstances; expedited pro
 usc_title: 21
 usc_section: "154a"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 154a"
-generated_at: "2026-03-30T02:54:54.215Z"
+generated_at: "2026-11-23T20:26:27.494Z"
+status: "active"
 ---
 
 # § 154a. Special licenses for special circumstances; expedited procedure; conditions; exemptions; criteria
@@ -20,3 +21,7 @@ In order to meet an emergency condition, limited market or local situation, or o
     - **(C)** may review product test results to assure compliance with applicable standards for purity, safety, and potency, prior to release to the market;
     - **(D)** may deal effectively with violations of State law regulating virus, serum, toxin, and analogous products; and
     - **(E)** exercises the authority referred to in subclauses (A) through (D) consistent with the intent of this chapter of prohibiting the preparation, sale, barter, exchange, or shipment of worthless, contaminated, dangerous, or harmful virus, serum, toxin, or analogous products.
+
+## Source Credit
+
+*(Mar. 4, 1913, ch. 145, § 1 [part], as added [Pub. L. 99–198, title XVII, § 1768(c)](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1654](https://www.govinfo.gov/link/statute/99/1654).)*

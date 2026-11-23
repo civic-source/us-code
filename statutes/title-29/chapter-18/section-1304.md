@@ -3,9 +3,10 @@ title: "Section 1304 - Participant and Plan Sponsor Advocate"
 usc_title: 29
 usc_section: "1304"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1304"
-generated_at: "2026-03-30T02:55:18.728Z"
+generated_at: "2026-11-23T20:26:38.009Z"
+status: "active"
 ---
 
 # § 1304. Participant and Plan Sponsor Advocate
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:18.728Z"
     - **(C)** include specific legislative and regulatory changes to address the problems; and
     - **(D)** identify any actions taken to correct problems identified in any previous report.
   - **(3)** The Participant and Plan Sponsor Advocate shall submit a copy of each report to the Secretary of Labor, the Director of the corporation, and any other appropriate official at the same time such report is submitted to the committees of Congress under paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4004](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 112–141, div. D, title II, § 40232(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 856](https://www.govinfo.gov/link/statute/126/856).)*

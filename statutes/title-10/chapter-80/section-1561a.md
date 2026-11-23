@@ -3,9 +3,10 @@ title: "Section 1561a - Civilian orders of protection: force and effect on milit
 usc_title: 10
 usc_section: "1561a"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1561a"
-generated_at: "2026-03-30T02:53:38.129Z"
+generated_at: "2026-11-23T20:25:51.374Z"
+status: "active"
 ---
 
 # § 1561a. Civilian orders of protection: force and effect on military installations
@@ -13,3 +14,21 @@ generated_at: "2026-03-30T02:53:38.129Z"
 - **(a)** A civilian order of protection shall have the same force and effect on a military installation as such order has within the jurisdiction of the court that issued such order.
 - **(b)** In this section, the term “civilian order of protection” has the meaning given the term “protection order” in section 2266(5) of title 18 .
 - **(c)** The Secretary of Defense shall prescribe regulations to carry out this section. The regulations shall be designed to further good order and discipline by members of the armed forces and civilians present on military installations.
+
+Force and Effect
+
+Civilian Order of Protection Defined
+
+Regulations
+
+Policies and Procedures Required
+
+Civilian Protective Orders
+
+Particular Elements
+
+Letter
+
+## Source Credit
+
+*(Added [Pub. L. 107–311, § 2(a)](https://www.govinfo.gov/link/plaw/107/public/311), Dec. 2, 2002, [116 Stat. 2455](https://www.govinfo.gov/link/statute/116/2455).)*

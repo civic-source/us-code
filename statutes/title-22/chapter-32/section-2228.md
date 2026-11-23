@@ -3,9 +3,10 @@ title: "Section 2228 - International Muslim Youth Opportunity Fund"
 usc_title: 22
 usc_section: "2228"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2228"
-generated_at: "2026-03-30T02:55:05.352Z"
+generated_at: "2026-11-23T20:26:32.203Z"
+status: "active"
 ---
 
 # § 2228. International Muslim Youth Opportunity Fund
@@ -44,3 +45,13 @@ generated_at: "2026-03-30T02:55:05.352Z"
     - **(C)** Amounts authorized to be appropriated under subsection (a) 1 shall be in addition to amounts otherwise available for such purposes.
   - **(6)** Not later than 180 days after August 3, 2007 , and annually thereafter until January 30, 2010 , the President shall submit to the appropriate congressional committees a report on United States efforts to assist in the improvement of educational opportunities for predominantly Muslim children and youths, including the progress made toward establishing the International Muslim Youth Opportunity Fund.
   - **(7)** In this subsection, the term “appropriate congressional committees” means the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
+
+Findings
+
+Policy
+
+George W. Bush.
+
+## Source Credit
+
+*([Pub. L. 108–458, title VII, § 7114](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3798](https://www.govinfo.gov/link/statute/118/3798); [Pub. L. 110–53, title XX, § 2012](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 509](https://www.govinfo.gov/link/statute/121/509).)*

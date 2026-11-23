@@ -3,9 +3,10 @@ title: "Section 3244 - Annual report on reporting requirements"
 usc_title: 50
 usc_section: "3244"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3244"
-generated_at: "2026-03-30T02:56:26.242Z"
+generated_at: "2026-11-23T20:27:30.949Z"
+status: "active"
 ---
 
 # § 3244. Annual report on reporting requirements
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:26.242Z"
   - **(3)** Whether the reporting requirement is recurring, conditional, or subject to a termination provision.
   - **(4)** Whether the Director recommends repealing or modifying the requirement.
 - **(c)** Each report submitted pursuant to subsection (a) may be submitted in classified form.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title XI, § 1114, as added [Pub. L. 118–31, div. G, title III, § 7314(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1031](https://www.govinfo.gov/link/statute/137/1031); amended [Pub. L. 118–159, div. F, title LXIX, § 6902(a)(5)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2517](https://www.govinfo.gov/link/statute/138/2517).)*

@@ -3,9 +3,10 @@ title: "Section 10152 - Description"
 usc_title: 34
 usc_section: "10152"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10152"
-generated_at: "2026-03-30T02:55:33.260Z"
+generated_at: "2026-11-23T20:26:50.433Z"
+status: "active"
 ---
 
 # § 10152. Description
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:55:33.260Z"
   - **(2)** an evaluation of the effectiveness of the crisis intervention programs or initiatives in preventing violence and suicide;
   - **(3)** measures that have been taken by each grant recipient to safeguard the constitutional rights of an individual subject to a crisis intervention program or initiative; and
   - **(4)** efforts that the Attorney General is making, in coordination with the grant recipients, to protect the constitutional rights of individuals subject to the crisis intervention programs or initiatives.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 501](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 109–162, title XI, § 1111(a)(2)(C)](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3095](https://www.govinfo.gov/link/statute/119/3095); amended [Pub. L. 109–271, § 8(h)](https://www.govinfo.gov/link/plaw/109/public/271), Aug. 12, 2006, [120 Stat. 767](https://www.govinfo.gov/link/statute/120/767); [Pub. L. 114–255, div. B, title XIV, § 14001(a)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1287](https://www.govinfo.gov/link/statute/130/1287); [Pub. L. 117–159, div. A, title II, § 12003](https://www.govinfo.gov/link/plaw/117/public/159), June 25, 2022, [136 Stat. 1325](https://www.govinfo.gov/link/statute/136/1325); [Pub. L. 119–60, div. H, title LXXXVI, § 8603](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1943](https://www.govinfo.gov/link/statute/139/1943).)*

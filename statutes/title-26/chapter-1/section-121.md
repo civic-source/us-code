@@ -3,9 +3,10 @@ title: "Section 121 - Exclusion of gain from sale of principal residence"
 usc_title: 26
 usc_section: "121"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 121"
-generated_at: "2026-03-30T02:55:27.625Z"
+generated_at: "2026-11-23T20:26:45.345Z"
+status: "active"
 ---
 
 # § 121. Exclusion of gain from sale of principal residence
@@ -107,3 +108,27 @@ generated_at: "2026-03-30T02:55:27.625Z"
 - **(e)** This section shall not apply to any sale or exchange by an individual if the treatment provided by section 877(a)(1) applies to such individual.
 - **(f)** This section shall not apply to any sale or exchange with respect to which the taxpayer elects not to have this section apply.
 - **(g)** For purposes of this section, in the case of property the acquisition of which by the taxpayer resulted under section 1034 1 1 See References in Text note below. (as in effect on the day before the date of the enactment of this section) in the nonrecognition of any part of the gain realized on the sale or exchange of another residence, in determining the period for which the taxpayer has owned and used such property as the taxpayer’s principal residence, there shall be included the aggregate periods for which such other residence (and each prior residence taken into account under section 1223(6) 1 in determining the holding period of such property) had been so owned and used.
+
+Property acquired from a decedent
+
+Effective date
+
+Waiver of limitations
+
+In general
+
+Transfers to nonresidents
+
+Section 4947
+
+In general
+
+Sales on or before date of enactment
+
+Certain sales within 2 years after date of enactment
+
+Binding contracts
+
+## Source Credit
+
+*(Added [Pub. L. 88–272, title II, § 206(a)](https://www.govinfo.gov/link/plaw/88/public/272), Feb. 26, 1964, [78 Stat. 38](https://www.govinfo.gov/link/statute/78/38); amended [Pub. L. 94–455, title XIV, § 1404(a)](https://www.govinfo.gov/link/plaw/94/public/455), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1733](https://www.govinfo.gov/link/statute/90/1733), 1834; [Pub. L. 95–600, title IV, § 404(a)](https://www.govinfo.gov/link/plaw/95/public/600) –(c)(2), Nov. 6, 1978, [92 Stat. 2869](https://www.govinfo.gov/link/statute/92/2869), 2870; [Pub. L. 97–34, title I, § 123(a)](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 197](https://www.govinfo.gov/link/statute/95/197); [Pub. L. 100–647, title VI, § 6011(a)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3691](https://www.govinfo.gov/link/statute/102/3691); [Pub. L. 105–34, title III, § 312(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 836](https://www.govinfo.gov/link/statute/111/836); [Pub. L. 105–206, title VI, § 6005(e)(1)](https://www.govinfo.gov/link/plaw/105/public/206), (2), July 22, 1998, [112 Stat. 805](https://www.govinfo.gov/link/statute/112/805); [Pub. L. 107–16, title V, § 542(c)](https://www.govinfo.gov/link/plaw/107/public/16), June 7, 2001, [115 Stat. 84](https://www.govinfo.gov/link/statute/115/84); [Pub. L. 108–121, title I, § 101(a)](https://www.govinfo.gov/link/plaw/108/public/121), Nov. 11, 2003, [117 Stat. 1336](https://www.govinfo.gov/link/statute/117/1336); [Pub. L. 108–357, title VIII, § 840(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1597](https://www.govinfo.gov/link/statute/118/1597); [Pub. L. 109–135, title IV](https://www.govinfo.gov/link/plaw/109/public/135), §§ 402(a)(3), 403(ee), Dec. 21, 2005, [119 Stat. 2610](https://www.govinfo.gov/link/statute/119/2610), 2631; [Pub. L. 109–432, div. A, title IV, § 417(a)](https://www.govinfo.gov/link/plaw/109/public/432) –(d), Dec. 20, 2006, [120 Stat. 2965](https://www.govinfo.gov/link/statute/120/2965), 2966; [Pub. L. 110–142, § 7(a)](https://www.govinfo.gov/link/plaw/110/public/142), Dec. 20, 2007, [121 Stat. 1806](https://www.govinfo.gov/link/statute/121/1806); [Pub. L. 110–172, § 11(a)(11)(A)](https://www.govinfo.gov/link/plaw/110/public/172), Dec. 29, 2007, [121 Stat. 2485](https://www.govinfo.gov/link/statute/121/2485); [Pub. L. 110–245, title I](https://www.govinfo.gov/link/plaw/110/public/245), §§ 110(a), 113(a), (b), June 17, 2008, [122 Stat. 1633](https://www.govinfo.gov/link/statute/122/1633), 1635; [Pub. L. 110–289, div. C, title III, § 3092(a)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2911](https://www.govinfo.gov/link/statute/122/2911); [Pub. L. 111–312, title III, § 301(a)](https://www.govinfo.gov/link/plaw/111/public/312), Dec. 17, 2010, [124 Stat. 3300](https://www.govinfo.gov/link/statute/124/3300); [Pub. L. 113–295, div. A, title II](https://www.govinfo.gov/link/plaw/113/public/295), §§ 212(c), 213(c)(1), 221(a)(20), Dec. 19, 2014, [128 Stat. 4033](https://www.govinfo.gov/link/statute/128/4033), 4040; [Pub. L. 115–97, title I, § 11051(b)(3)(A)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2089](https://www.govinfo.gov/link/statute/131/2089).)*

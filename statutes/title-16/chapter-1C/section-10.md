@@ -3,9 +3,10 @@ title: "Section 10 - Savings provisions"
 usc_title: 16
 usc_section: "10"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 10"
-generated_at: "2026-03-30T02:54:22.855Z"
+generated_at: "2026-11-23T20:26:20.068Z"
+status: "active"
 ---
 
 # § 470aaa–10. Savings provisions
@@ -18,3 +19,11 @@ Nothing in this chapter shall be construed to—
   - **(4)** affect any land other than Federal land or affect the lawful recovery, collection, or sale of paleontological resources from land other than Federal land;
   - **(5)** alter or diminish the authority of a Federal agency under any other law to provide protection for paleontological resources on Federal land in addition to the protection provided under this chapter; or
   - **(6)** create any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in that capacity. No person who is not an officer or employee of the United States acting in that capacity shall have standing to file any civil action in a court of the United States to enforce any provision or amendment made by this chapter.
+
+under the department of the interior
+
+surveying the public lands
+
+## Source Credit
+
+*([Pub. L. 111–11, title VI, § 6311](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1177](https://www.govinfo.gov/link/statute/123/1177); [Pub. L. 113–287, § 5(d)(9)](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3265](https://www.govinfo.gov/link/statute/128/3265).)*

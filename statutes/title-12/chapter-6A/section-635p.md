@@ -3,9 +3,10 @@ title: "Section 635p - Presidential mandate to negotiate; objectives"
 usc_title: 12
 usc_section: "635p"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 635p"
-generated_at: "2026-03-30T02:53:53.388Z"
+generated_at: "2026-11-23T20:25:58.799Z"
+status: "active"
 ---
 
 # § 635p. Presidential mandate to negotiate; objectives
@@ -18,3 +19,7 @@ The President shall vigorously pursue negotiations to limit and set rules for th
   - **(4)** to raise the threshold for notification of the use of tied aid credit to a 50 per centum level of concessionality;
   - **(5)** to improve notification procedures so that advance notification must be given on all uses of tied aid credit; and
   - **(6)** to prohibit the use of tied aid credit for production facilities for goods which are in structural oversupply in the world.
+
+## Source Credit
+
+*([Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title VI, § 643], Nov. 30, 1983, [97 Stat. 1263](https://www.govinfo.gov/link/statute/97/1263).)*

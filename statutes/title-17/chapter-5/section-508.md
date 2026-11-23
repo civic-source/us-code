@@ -3,9 +3,10 @@ title: "Section 508 - Notification of filing and determination of actions"
 usc_title: 17
 usc_section: "508"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 508"
-generated_at: "2026-03-30T02:54:15.353Z"
+generated_at: "2026-11-23T20:26:06.526Z"
+status: "active"
 ---
 
 # § 508. Notification of filing and determination of actions
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:15.353Z"
 - **(a)** Within one month after the filing of any action under this title, the clerks of the courts of the United States shall send written notification to the Register of Copyrights setting forth, as far as is shown by the papers filed in the court, the names and addresses of the parties and the title, author, and registration number of each work involved in the action. If any other copyrighted work is later included in the action by amendment, answer, or other pleading, the clerk shall also send a notification concerning it to the Register within one month after the pleading is filed.
 - **(b)** Within one month after any final order or judgment is issued in the case, the clerk of the court shall notify the Register of it, sending with the notification a copy of the order or judgment together with the written opinion, if any, of the court.
 - **(c)** Upon receiving the notifications specified in this section, the Register shall make them a part of the public records of the Copyright Office.
+
+## Source Credit
+
+*([Pub. L. 94–553, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/553), Oct. 19, 1976, [90 Stat. 2586](https://www.govinfo.gov/link/statute/90/2586).)*

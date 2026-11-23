@@ -3,9 +3,10 @@ title: "Section 2004a - Detail of commissioned officers as students at medical s
 usc_title: 10
 usc_section: "2004a"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2004a"
-generated_at: "2026-03-30T02:53:38.139Z"
+generated_at: "2026-11-23T20:25:51.433Z"
+status: "active"
 ---
 
 # § 2004a. Detail of commissioned officers as students at medical schools
@@ -28,3 +29,25 @@ generated_at: "2026-03-30T02:53:38.139Z"
   - **(1)** An officer who is dropped from a program of medical training to which detailed under subsection (a) for deficiency in conduct or studies, or for other reasons, may be required to perform active duty in an appropriate military capacity in accordance with the active duty obligation imposed on the officer under regulations issued by the Secretary of Defense for purposes of this section.
   - **(2)** In no case shall an officer be required to serve on active duty under paragraph (1) for any period in excess of one year for each year or part thereof the officer participated in the program.
 - **(i)** No agreement detailing an officer of the armed forces to an accredited medical school or school of osteopathy may be entered into during any period in which the President is authorized by law to induct persons into the armed forces involuntarily. Nothing in this subsection shall affect any agreement entered into during any period when the President is not authorized by law to so induct persons into the armed forces.
+
+Detail Authorized
+
+Eligibility for Detail
+
+Service Obligation
+
+Selection of Officers for Detail
+
+Appointment and Treatment of Prior Active Service
+
+Relation of Service Obligations to Other Service Obligations
+
+Expenses
+
+Failure to Complete Program
+
+Limitation on Details
+
+## Source Credit
+
+*(Added [Pub. L. 109–364, div. A, title V, § 536(a)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2207](https://www.govinfo.gov/link/statute/120/2207); amended [Pub. L. 110–181, div. A, title V, § 524(c)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 104](https://www.govinfo.gov/link/statute/122/104); [Pub. L. 111–84, div. A, title X, § 1073(a)(18)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2473](https://www.govinfo.gov/link/statute/123/2473).)*

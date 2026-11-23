@@ -3,9 +3,10 @@ title: "Section 1275 - Review by Secretary"
 usc_title: 30
 usc_section: "1275"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1275"
-generated_at: "2026-03-30T02:55:29.402Z"
+generated_at: "2026-11-23T20:26:35.029Z"
+status: "active"
 ---
 
 # § 1275. Review by Secretary
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:29.402Z"
   - **(3)** such relief will not adversely affect the health or safety of the public or cause significant, imminent environmental harm to land, air, or water resources.
 - **(d)** Following the issuance of an order to show cause as to why a permit should not be suspended or revoked pursuant to section 1271 of this title , the Secretary shall hold a public hearing after giving written notice of the time, place, and date thereof. Any such hearing shall be of record and shall be subject to section 554 of title 5 . Within sixty days following the public hearing, the Secretary shall issue and furnish to the permittee and all other parties to the hearing a written decision, and the reasons therefor, concerning suspension or revocation of the permit. If the Secretary revokes the permit, the permittee shall immediately cease surface coal mining operations on the permit area and shall complete reclamation within a period specified by the Secretary, or the Secretary shall declare as forfeited the performance bonds for the operation.
 - **(e)** Whenever an order is issued under this section, or as a result of any administrative proceeding under this chapter, at the request of any person, a sum equal to the aggregate amount of all costs and expenses (including attorney fees) as determined by the Secretary to have been reasonably incurred by such person for or in connection with his participation in such proceedings, including any judicial review of agency actions, may be assessed against either party as the court, resulting from judicial review or the Secretary, resulting from administrative proceedings, deems proper.
+
+## Source Credit
+
+*([Pub. L. 95–87, title V, § 525](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 511](https://www.govinfo.gov/link/statute/91/511).)*

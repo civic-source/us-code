@@ -3,9 +3,10 @@ title: "Section 279 - Children’s affairs"
 usc_title: 6
 usc_section: "279"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 279"
-generated_at: "2026-03-30T02:53:09.455Z"
+generated_at: "2026-11-23T20:25:34.688Z"
+status: "active"
 ---
 
 # § 279. Children’s affairs
@@ -55,3 +56,9 @@ generated_at: "2026-03-30T02:53:09.455Z"
     - **(C)** with respect to whom—
       - **(i)** there is no parent or legal guardian in the United States; or
       - **(ii)** no parent or legal guardian in the United States is available to provide care and physical custody.
+
+“Not later than 14 days after the date of enactment of this Act [ Feb. 3, 2026 ], and monthly thereafter, the Secretary [of Health and Human Services] shall submit to the Committees on Appropriations of the House of Representatives and the Senate, and make publicly available online, a report with respect to children who were separated from their parents or legal guardians by the Department of Homeland Security (DHS) (regardless of whether or not such separation was pursuant to an option selected by the children, parents, or guardians), subsequently classified as unaccompanied alien children, and transferred to the care and custody of ORR [Office of Refugee Resettlement] during the previous month. Each report shall contain the following information:
+
+## Source Credit
+
+*([Pub. L. 107–296, title IV, § 462](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2202](https://www.govinfo.gov/link/statute/116/2202); [Pub. L. 110–457, title II, § 235(f)](https://www.govinfo.gov/link/plaw/110/public/457), Dec. 23, 2008, [122 Stat. 5081](https://www.govinfo.gov/link/statute/122/5081).)*

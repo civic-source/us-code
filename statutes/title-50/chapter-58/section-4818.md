@@ -3,9 +3,10 @@ title: "Section 4818 - Review relating to countries subject to comprehensive Uni
 usc_title: 50
 usc_section: "4818"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4818"
-generated_at: "2026-03-30T02:56:26.284Z"
+generated_at: "2026-11-23T20:27:31.146Z"
+status: "active"
 ---
 
 # § 4818. Review relating to countries subject to comprehensive United States arms embargo
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:26.284Z"
   - **(1)** the scope of controls under title 15, Code of Federal Regulations, that apply to exports, reexports, and in-country transfers for military end uses and military end users in countries that are subject to a comprehensive United States arms embargo and countries that are subject to a United Nations arms embargo; and
   - **(2)** entries on the Commerce Control List maintained under title 15, Code of Federal Regulations, that are not subject to a license requirement for the export, reexport, or in-country transfer of items to countries subject to a comprehensive United States arms embargo.
 - **(b)** Not later than 270 days after August 13, 2018 , the Secretary shall implement the results of the review conducted under subsection (a).
+
+## Source Credit
+
+*([Pub. L. 115–232, div. A, title XVII, § 1759](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2223](https://www.govinfo.gov/link/statute/132/2223); [Pub. L. 116–283, div. A, title X, § 1081(d)(8)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3874](https://www.govinfo.gov/link/statute/134/3874).)*

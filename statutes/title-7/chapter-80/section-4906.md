@@ -3,9 +3,10 @@ title: "Section 4906 - Required terms in plans"
 usc_title: 7
 usc_section: "4906"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 4906"
-generated_at: "2026-03-30T02:53:42.412Z"
+generated_at: "2026-11-23T20:25:41.637Z"
+status: "active"
 ---
 
 # § 4906. Required terms in plans
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:53:42.412Z"
 - **(j)** The plan shall provide the Board with authority to enter into contracts or agreements, with the approval of the Secretary, for the development and carrying out of research, development, advertising, or promotion programs or projects, and the payment of the cost thereof with funds collected under this chapter.
 - **(k)** The plan shall provide that the Board shall (1) maintain books and records, (2) prepare and submit to the Secretary such reports from time to time as may be prescribed for appropriate accounting with respect to the receipt and disbursement of funds entrusted to it, and (3) cause a complete audit report to be submitted to the Secretary at the end of each fiscal period.
 - **(l)** The plan shall provide that the Board shall have the authority to establish rules for certifying whether a person meets the definition of a producer under section 4902(5) of this title .
+
+## Source Credit
+
+*([Pub. L. 99–198, title XVI, § 1647](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1624](https://www.govinfo.gov/link/statute/99/1624); [Pub. L. 103–189](https://www.govinfo.gov/link/plaw/103/public/189), §§ 4–7, 8(d)–(f), (k)(4), 9(b), Dec. 14, 1993, [107 Stat. 2260–2262](https://www.govinfo.gov/link/statute/107/2260), 2264.)*

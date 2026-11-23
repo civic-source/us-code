@@ -3,9 +3,10 @@ title: "Section 1 - Nondiscrimination with regard to reasonable accommodations r
 usc_title: 42
 usc_section: "1"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T02:56:11.144Z"
+generated_at: "2026-11-23T20:27:22.039Z"
+status: "active"
 ---
 
 # § 2000gg–1. Nondiscrimination with regard to reasonable accommodations related to pregnancy
@@ -17,3 +18,7 @@ It shall be an unlawful employment practice for a covered entity to—
   - **(3)** deny employment opportunities to a qualified employee if such denial is based on the need of the covered entity to make reasonable accommodations to the known limitations related to the pregnancy, childbirth, or related medical conditions of the qualified employee;
   - **(4)** require a qualified employee to take leave, whether paid or unpaid, if another reasonable accommodation can be provided to the known limitations related to the pregnancy, childbirth, or related medical conditions of the qualified employee; or
   - **(5)** take adverse action in terms, conditions, or privileges of employment against a qualified employee on account of the employee requesting or using a reasonable accommodation to the known limitations related to the pregnancy, childbirth, or related medical conditions of the employee.
+
+## Source Credit
+
+*([Pub. L. 117–328, div. II, § 103](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 6085](https://www.govinfo.gov/link/statute/136/6085).)*

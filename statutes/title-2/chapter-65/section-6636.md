@@ -3,9 +3,10 @@ title: "Section 6636 - Senate Computer Center"
 usc_title: 2
 usc_section: "6636"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 6636"
-generated_at: "2026-03-30T02:53:04.844Z"
+generated_at: "2026-11-23T20:25:29.085Z"
+status: "active"
 ---
 
 # § 6636. Senate Computer Center
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:04.844Z"
     - **(B)** a provision requiring refund of a proportionate amount of such advance payment if the total amount of time contracted for is not used.
 - **(c)** To the extent that the personnel of the Senate Computer Center are unable to carry out the contracts entered into under subsection (b) according to their terms and conditions, the Sergeant at Arms and Doorkeeper of the Senate is authorized to employ such additional personnel for the Senate Computer Center as may be necessary to carry out such contracts, and to pay the salaries of such additional personnel, and agency contributions attributable thereto, from the revolving fund. Such additional personnel may temporarily be assigned to perform the regular functions of the Senate Computer Center when their services are not needed to carry out such contracts.
 - **(d)** Disbursements from the revolving fund under subsections (b) and (c) shall be made upon vouchers signed by the Sergeant at Arms and Doorkeeper of the Senate, except that vouchers shall not be required for the disbursement of salaries of employees paid at an annual rate.
+
+## Source Credit
+
+*([Pub. L. 94–303, title I, § 116](https://www.govinfo.gov/link/plaw/94/public/303), June 1, 1976, [90 Stat. 614](https://www.govinfo.gov/link/statute/90/614).)*

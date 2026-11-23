@@ -3,9 +3,10 @@ title: "Section 8256 - Incentives for agencies"
 usc_title: 42
 usc_section: "8256"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8256"
-generated_at: "2026-03-30T02:56:11.338Z"
+generated_at: "2026-11-23T20:27:23.019Z"
+status: "active"
 ---
 
 # § 8256. Incentives for agencies
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:56:11.338Z"
     - **(G)** succeeded in the implementation of the guidelines established under section 8262e 1 1 See References in Text note below. of this title.
   - **(3)** There is authorized to be appropriated to carry out this subsection not more than $250,000 for each of the fiscal years 1993, 1994, and 1995.
 - **(e)** An agency may retain any funds appropriated to that agency for energy expenditures, water expenditures, or wastewater treatment expenditures, at buildings subject to the requirements of section 8253(a) and (b) of this title, that are not made because of energy savings or water savings. Except as otherwise provided by law, such funds may be used only for energy efficiency, water conservation, or unconventional and renewable energy resources projects. Such projects shall be subject to the requirements of section 3307 of title 40 .
+
+## Source Credit
+
+*([Pub. L. 95–619, title V, § 546](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3278](https://www.govinfo.gov/link/statute/92/3278); [Pub. L. 100–615, § 2(a)](https://www.govinfo.gov/link/plaw/100/public/615), Nov. 5, 1988, [102 Stat. 3187](https://www.govinfo.gov/link/statute/102/3187); [Pub. L. 102–486, title I, § 152(f)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2846](https://www.govinfo.gov/link/statute/106/2846); [Pub. L. 109–58, title I, § 102(f)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 607](https://www.govinfo.gov/link/statute/119/607); [Pub. L. 110–140, title V, § 516](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1659](https://www.govinfo.gov/link/statute/121/1659).)*

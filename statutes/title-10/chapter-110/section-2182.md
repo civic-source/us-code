@@ -3,9 +3,10 @@ title: "Section 2182 - Educational assistance: dependents of captives"
 usc_title: 10
 usc_section: "2182"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2182"
-generated_at: "2026-03-30T02:53:38.146Z"
+generated_at: "2026-11-23T20:25:51.480Z"
+status: "active"
 ---
 
 # § 2182. Educational assistance: dependents of captives
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:38.146Z"
     - **(C)** a date specified by the Secretary concerned in order to respond to special circumstances.
 - **(c)** If a person in a captive status or a former captive dies and the death is incident to the captivity, payments shall be available under this section for a dependent of that person for education or training that occurs after the date of the death of that person.
 - **(d)** The provisions of this section shall not apply to any dependent who is eligible for assistance under chapter 35 of title 38 or similar assistance under any other provision of law.
+
+## Source Credit
+
+*(Added [Pub. L. 99–399, title VIII, § 806(d)(1)](https://www.govinfo.gov/link/plaw/99/public/399), Aug. 27, 1986, [100 Stat. 887](https://www.govinfo.gov/link/statute/100/887).)*

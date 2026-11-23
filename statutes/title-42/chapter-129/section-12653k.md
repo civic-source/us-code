@@ -3,9 +3,10 @@ title: "Section 12653k - Funds"
 usc_title: 42
 usc_section: "12653k"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12653k"
-generated_at: "2026-03-30T02:56:11.425Z"
+generated_at: "2026-11-23T20:27:23.415Z"
+status: "active"
 ---
 
 # § 12653k. Funds
@@ -142,3 +143,7 @@ generated_at: "2026-03-30T02:56:11.425Z"
     - **(B)** The Corporation shall, directly or through contract, provide technical assistance to the eligible entities and community organizations that receive grants under subsections (d) and ( l ).
     - **(C)** The Corporation shall, directly or through contract, maintain a clearinghouse for information on best practices resulting from initiatives supported by the eligible entities and community organizations.
     - **(D)** Of the funds appropriated under section 12681(a)(4)(E) of this title for a fiscal year, not more than 5 percent may be used to carry out this subsection.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 198K](https://www.govinfo.gov/link/plaw/101/public/610), as added [Pub. L. 111–13, title I, § 1807](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1564](https://www.govinfo.gov/link/statute/123/1564).)*

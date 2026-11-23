@@ -3,9 +3,10 @@ title: "Section 44717 - Aging aircraft"
 usc_title: 49
 usc_section: "44717"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44717"
-generated_at: "2026-03-30T02:56:19.386Z"
+generated_at: "2026-11-23T20:27:35.181Z"
+status: "active"
 ---
 
 # § 44717. Aging aircraft
@@ -29,3 +30,57 @@ generated_at: "2026-03-30T02:56:19.386Z"
     - **(A)** will ensure the continuing airworthiness of aging aircraft used by foreign air carriers to provide foreign air transportation to and from the United States; and
     - **(B)** will provide passengers of those foreign air carriers with the same level of safety that will be provided passengers of air carriers by carrying out this section.
   - **(2)** Not later than September 30, 1994 , the Administrator shall report to Congress on carrying out this subsection.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 44717(a) | 49 App.:1421 (note). | Oct. 28, 1991 , Pub. L. 102–143 , §§ 402(a), (b)(1), (c)–(e), 405, 105 Stat. 951 , 952. |
+| 44717(b) | 49 App.:1421 (note). | Oct. 28, 1991 , Pub. L. 102–143, § 402(b)(2) , (3), 105 Stat. 951 . |
+| 44717(c) | 49 App.:1421 (note). | Oct. 28, 1991 , Pub. L. 102–143, § 403 , 105 Stat. 952 . |
+| 44717(d) | 49 App.:1421 (note). | Oct. 28, 1991 , Pub. L. 102–143, § 404 , 105 Stat. 952 . |
+
+
+Inspections and Reviews
+
+When and How Inspections and Reviews Shall Be Carried Out
+
+Aircraft Maintenance Safety Programs
+
+Foreign Air Transportation
+
+Historical and Revision Notes
+
+44717(a)
+
+Oct. 28, 1991
+
+Pub. L. 102–143
+
+105 Stat. 951
+
+44717(b)
+
+Oct. 28, 1991
+
+Pub. L. 102–143, § 402(b)(2)
+
+105 Stat. 951
+
+44717(c)
+
+Oct. 28, 1991
+
+Pub. L. 102–143, § 403
+
+105 Stat. 952
+
+44717(d)
+
+Oct. 28, 1991
+
+Pub. L. 102–143, § 404
+
+105 Stat. 952
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1199](https://www.govinfo.gov/link/statute/108/1199).)*

@@ -3,9 +3,10 @@ title: "Section 10164 - Survey"
 usc_title: 42
 usc_section: "10164"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10164"
-generated_at: "2026-03-30T02:56:11.382Z"
+generated_at: "2026-11-23T20:27:23.215Z"
+status: "active"
 ---
 
 # § 10164. Survey
@@ -19,3 +20,7 @@ After the MRS Commission submits its report to the Congress under section 10163 
   - **(5)** provide a high probability that the facility will meet applicable environmental, health, and safety requirements in a timely fashion;
   - **(6)** provide such other benefits to the system for the disposal of spent nuclear fuel and high-level radioactive waste as the Secretary deems appropriate; and
   - **(7)** unduly burden a State in which significant volumes of high-level radioactive waste resulting from atomic energy defense activities are stored.
+
+## Source Credit
+
+*([Pub. L. 97–425, title I, § 144](https://www.govinfo.gov/link/plaw/97/public/425), as added [Pub. L. 100–202, § 101(d) [title III, § 300]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–104](https://www.govinfo.gov/link/statute/101/1329), 1329–121; [Pub. L. 100–203, title V, § 5021](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–234](https://www.govinfo.gov/link/statute/101/1330).)*

@@ -3,9 +3,10 @@ title: "Section 10701 - Definitions"
 usc_title: 42
 usc_section: "10701"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10701"
-generated_at: "2026-03-30T02:56:11.391Z"
+generated_at: "2026-11-23T20:27:23.253Z"
+status: "active"
 ---
 
 # § 10701. Definitions
@@ -26,3 +27,7 @@ As used in this chapter, the term—
       - **(iii)** placing by physical menace another in fear of imminent serious bodily injury; or
       - **(iv)** the infliction of false imprisonment;
     - **(B)** physically or sexually abusing such minor child if such abuse is inflicted by either of such spouses, former spouses, or partners.
+
+## Source Credit
+
+*([Pub. L. 98–620, title II, § 202](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3336](https://www.govinfo.gov/link/statute/98/3336); [Pub. L. 102–528, § 1](https://www.govinfo.gov/link/plaw/102/public/528), Oct. 27, 1992, [106 Stat. 3461](https://www.govinfo.gov/link/statute/106/3461).)*

@@ -3,9 +3,10 @@ title: "Section 5601 - Findings"
 usc_title: 25
 usc_section: "5601"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 5601"
-generated_at: "2026-03-30T02:54:52.872Z"
+generated_at: "2026-11-23T20:26:25.758Z"
+status: "active"
 ---
 
 # § 5601. Findings
@@ -17,3 +18,7 @@ Congress finds that—
   - **(3)** through treaties, statutes, and historical relations with Indian tribes, the United States has undertaken a unique trust responsibility to protect and support Indian tribes and Indians;
   - **(4)** the fiduciary responsibilities of the United States to Indians also are founded in part on specific commitments made through written treaties and agreements securing peace, in exchange for which Indians have surrendered claims to vast tracts of land, which provided legal consideration for permanent, ongoing performance of Federal trust duties; and
   - **(5)** the foregoing historic Federal-tribal relations and understandings have benefitted the people of the United States as a whole for centuries and have established enduring and enforceable Federal obligations to which the national honor has been committed.
+
+## Source Credit
+
+*([Pub. L. 114–178, title I, § 101](https://www.govinfo.gov/link/plaw/114/public/178), June 22, 2016, [130 Stat. 432](https://www.govinfo.gov/link/statute/130/432).)*

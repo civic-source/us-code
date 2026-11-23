@@ -3,12 +3,17 @@ title: "Section 2399d - Shipping differential"
 usc_title: 22
 usc_section: "2399d"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2399d"
-generated_at: "2026-03-30T02:55:05.365Z"
+generated_at: "2026-11-23T20:26:32.288Z"
+status: "active"
 ---
 
 # § 2399d. Shipping differential
 
 For the purpose of facilitating implementation of section 55305 of title 46 , funds made available for the purposes of part I of subchapter I of this chapter or for purposes of part IV of subchapter II of this chapter may be used to make grants to recipients to pay all or any portion of such differential as is determined by the Secretary of Commerce to exist between United States and foreign-flag vessel charter or freight rates. Grants made under this section shall be paid with United States-owned foreign currencies wherever feasible.
 
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. III, § 640C, as added [Pub. L. 93–189, § 21](https://www.govinfo.gov/link/plaw/93/public/189), Dec. 17, 1973, [87 Stat. 726](https://www.govinfo.gov/link/statute/87/726); amended [Pub. L. 96–533, title VII, § 708](https://www.govinfo.gov/link/plaw/96/public/533), Dec. 16, 1980, [94 Stat. 3159](https://www.govinfo.gov/link/statute/94/3159).)*

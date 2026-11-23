@@ -3,9 +3,10 @@ title: "Section 3106 - Forest trespass"
 usc_title: 25
 usc_section: "3106"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3106"
-generated_at: "2026-03-30T02:54:52.848Z"
+generated_at: "2026-11-23T20:26:25.634Z"
+status: "active"
 ---
 
 # § 3106. Forest trespass
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:52.848Z"
   - **(3)** set forth responsibilities and procedures for the assessment and collection of civil penalties.
 - **(b)** The proceeds of civil penalties collected under this section shall be treated as proceeds from the sale of forest products from the Indian forest lands upon which such trespass occurred.
 - **(c)** Indian tribes which adopt the regulations promulgated by the Secretary pursuant to subsection (a) shall have concurrent civil jurisdiction to enforce the provisions of this section and the regulation promulgated thereunder. The Bureau of Indian Affairs and other agencies of the Federal Government shall, at the request of the tribe, defer to tribal prosecutions of forest trespass cases. Tribal court judgments regarding forest trespass shall be entitled to full faith and credit in Federal and State courts to the same extent as a Federal court judgment obtained under this section.
+
+## Source Credit
+
+*([Pub. L. 101–630, title III, § 307](https://www.govinfo.gov/link/plaw/101/public/630), Nov. 28, 1990, [104 Stat. 4537](https://www.govinfo.gov/link/statute/104/4537).)*

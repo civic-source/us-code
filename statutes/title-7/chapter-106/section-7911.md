@@ -3,9 +3,10 @@ title: "Section 7911 - Establishment of base acres and payment acres for a farm"
 usc_title: 7
 usc_section: "7911"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7911"
-generated_at: "2026-03-30T02:53:42.464Z"
+generated_at: "2026-11-23T20:25:41.848Z"
+status: "active"
 ---
 
 # § 7911. Establishment of base acres and payment acres for a farm
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:53:42.464Z"
   - **(4)** In applying paragraph (1), the Secretary shall make an exception in the case of double cropping, as determined by the Secretary.
   - **(5)** The Secretary shall take into account section 7952(f) of this title when applying the requirements of this subsection.
 - **(h)** The owner of a farm may reduce, at any time, the base acres for any covered commodity for the farm. The reduction shall be permanent and made in the manner prescribed by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 107–171, title I, § 1101](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 144](https://www.govinfo.gov/link/statute/116/144).)*

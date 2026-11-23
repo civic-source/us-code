@@ -3,9 +3,10 @@ title: "Section 9611 - Statement of policy"
 usc_title: 22
 usc_section: "9611"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9611"
-generated_at: "2026-03-30T02:55:05.468Z"
+generated_at: "2026-11-23T20:26:32.784Z"
+status: "active"
 ---
 
 # § 9611. Statement of policy
@@ -20,3 +21,7 @@ It is the policy of the United States to facilitate market-based private sector 
   - **(6)** to provide countries a robust alternative to state-directed investments by authoritarian governments and United States strategic competitors using best practices with respect to transparency and environmental and social safeguards, and which take into account the debt sustainability of partner countries;
   - **(7)** to leverage private sector capabilities and innovative development tools to help countries transition from recipients of bilateral development assistance toward increased self-reliance; and
   - **(8)** to complement and be guided by overall United States foreign policy, development, and national security objectives, taking into account the priorities and needs of countries receiving support.
+
+## Source Credit
+
+*([Pub. L. 115–254, div. F, title I, § 1411](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3486](https://www.govinfo.gov/link/statute/132/3486).)*

@@ -3,9 +3,10 @@ title: "Section 3661 - Postal services"
 usc_title: 39
 usc_section: "3661"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "39 U.S.C. § 3661"
-generated_at: "2026-03-30T02:55:43.695Z"
+generated_at: "2026-11-23T20:26:57.759Z"
+status: "active"
 ---
 
 # § 3661. Postal services
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:43.695Z"
 - **(a)** The Postal Service shall develop and promote adequate and efficient postal services.
 - **(b)** When the Postal Service determines that there should be a change in the nature of postal services which will generally affect service on a nationwide or substantially nationwide basis, it shall submit a proposal, within a reasonable time prior to the effective date of such proposal, to the Postal Regulatory Commission requesting an advisory opinion on the change.
 - **(c)** The Commission shall not issue its opinion on any proposal until an opportunity for hearing on the record under sections 556 and 557 of title 5 has been accorded to the Postal Service, users of the mail, and an officer of the Commission who shall be required to represent the interests of the general public. The opinion shall be in writing and shall include a certification by each Commissioner agreeing with the opinion that in his judgment the opinion conforms to the policies established under this title.
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 764](https://www.govinfo.gov/link/statute/84/764); [Pub. L. 109–435, title VI, § 604(f)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3242](https://www.govinfo.gov/link/statute/120/3242).)*

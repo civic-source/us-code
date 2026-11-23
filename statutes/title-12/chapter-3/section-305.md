@@ -3,12 +3,17 @@ title: "Section 305 - Class C directors; selection; “Federal reserve agent”"
 usc_title: 12
 usc_section: "305"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 305"
-generated_at: "2026-03-30T02:53:53.378Z"
+generated_at: "2026-11-23T20:25:58.734Z"
+status: "active"
 ---
 
 # § 305. Class C directors; selection; “Federal reserve agent”
 
 Class C directors shall be appointed by the Board of Governors of the Federal Reserve System. They shall have been for at least two years residents of the district for which they are appointed, one of whom shall be designated by said board as chairman of the board of directors of the Federal reserve bank and as “Federal reserve agent.” He shall be a person of tested banking experience and in addition to his duties as chairman of the board of directors of the Federal reserve bank he shall be required to maintain, under regulations to be established by the Board of Governors of the Federal Reserve System, a local office of said board on the premises of the Federal reserve bank. He shall make regular reports to the Board of Governors of the Federal Reserve System and shall act as its official representative for the performance of the functions conferred upon it by this chapter. He shall receive an annual compensation to be fixed by the Board of Governors of the Federal Reserve System and paid monthly by the Federal reserve bank to which he is designated. One of the directors of class C shall be appointed by the Board of Governors of the Federal Reserve System as deputy chairman to exercise the powers of the chairman of the board when necessary. In case of the absence of the chairman and deputy chairman, the third class C director shall preside at meetings of the board.
 
+
+## Source Credit
+
+*(Dec. 23, 1913, ch. 6, § 4 (par.), [38 Stat. 256](https://www.govinfo.gov/link/statute/38/256); June 21, 1917, ch. 32, § 2, [40 Stat. 232](https://www.govinfo.gov/link/statute/40/232); Aug. 23, 1935, ch. 614, title II, § 203(a), [49 Stat. 704](https://www.govinfo.gov/link/statute/49/704).)*

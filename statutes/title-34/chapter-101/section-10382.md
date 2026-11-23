@@ -3,9 +3,10 @@ title: "Section 10382 - Applications"
 usc_title: 34
 usc_section: "10382"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10382"
-generated_at: "2026-03-30T02:55:33.267Z"
+generated_at: "2026-11-23T20:26:50.463Z"
+status: "active"
 ---
 
 # § 10382. Applications
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:33.267Z"
 - **(d)**
   - **(1)** Notwithstanding any other provision of this subchapter, in relation to applications under this subchapter of units of local government or law enforcement agencies having jurisdiction over areas with populations of less than 50,000, the Attorney General may waive 1 or more of the requirements of subsection (c) and may otherwise make special provisions to facilitate the expedited submission, processing, and approval of such applications.
   - **(2)** Notwithstanding any other provision of this subchapter, in relation to applications under section 10381(b) of this title for grants of less than $1,000,000, the Attorney General may waive 1 or more of the requirements of subsection (c) and may otherwise make special provisions to facilitate the expedited submission, processing, and approval of such applications.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 1702](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 103–322, title I, § 10003(a)(3)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1811](https://www.govinfo.gov/link/statute/108/1811); amended [Pub. L. 109–162, title XI](https://www.govinfo.gov/link/plaw/109/public/162), §§ 1111(c)(2)(I), 1163(b), Jan. 5, 2006, [119 Stat. 3102](https://www.govinfo.gov/link/statute/119/3102), 3120.)*

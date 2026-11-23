@@ -3,9 +3,10 @@ title: "Section 1989 - Additional authorities"
 usc_title: 48
 usc_section: "1989"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1989"
-generated_at: "2026-03-30T02:56:14.602Z"
+generated_at: "2026-11-23T20:27:28.192Z"
+status: "active"
 ---
 
 # § 1989. Additional authorities
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:56:14.602Z"
   - **(3)** funds appropriated by that section and made available for fiscal year 2024 or any fiscal year thereafter as grants to carry out the purposes of section 211(b) of the 2003 U.S.-RMI Amended Compact shall be subject to the provisions of the 2023 U.S.-RMI Fiscal Procedures Agreement on entry into force of the 2023 U.S.-RMI Fiscal Procedures Agreement;
   - **(4)** funds appropriated by that section and made available for fiscal year 2024 or any fiscal year thereafter as grants to carry out the purposes of section 221 of the 2003 U.S.-RMI Amended Compact shall be subject to the provisions of the 2023 U.S.-RMI Fiscal Procedures Agreement on entry into force of the 2023 U.S.-RMI Fiscal Procedures Agreement, except as modified in the Federal Programs and Services Agreement in force between the United States and the Republic of the Marshall Islands; and
   - **(5)** funds appropriated by that section and made available for fiscal year 2024 or any fiscal year thereafter as grants to carry out the purposes of section 221 of the 2003 U.S.-FSM Amended Compact shall be subject to the provisions of the 2023 U.S.-FSM Fiscal Procedures Agreement on entry into force of the 2023 U.S.-FSM Fiscal Procedures Agreement, except as modified in the 2023 U.S.-FSM Federal Programs and Services Agreement.
+
+## Source Credit
+
+*([Pub. L. 118–42, div. G, title II, § 210](https://www.govinfo.gov/link/plaw/118/public/42), Mar. 9, 2024, [138 Stat. 448](https://www.govinfo.gov/link/statute/138/448); [Pub. L. 118–83, div. B, title I, § 110(b)(2)](https://www.govinfo.gov/link/plaw/118/public/83), Sept. 26, 2024, [138 Stat. 1536](https://www.govinfo.gov/link/statute/138/1536).)*

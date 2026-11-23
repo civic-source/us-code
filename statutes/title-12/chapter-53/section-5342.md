@@ -3,9 +3,10 @@ title: "Section 5342 - Office of Financial Research established"
 usc_title: 12
 usc_section: "5342"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5342"
-generated_at: "2026-03-30T02:53:53.529Z"
+generated_at: "2026-11-23T20:25:59.471Z"
+status: "active"
 ---
 
 # § 5342. Office of Financial Research established
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:53.529Z"
 - **(g)** The Secretary, with the concurrence of the Director of the Office of Government Ethics, shall issue regulations prohibiting the Director and any employee of the Office who has had access to the transaction or position data maintained by the Data Center or other business confidential information about financial entities required to report to the Office from being employed by or providing advice or consulting services to a financial company, for a period of 1 year after last having had access in the course of official duties to such transaction or position data or business confidential information, regardless of whether that entity is required to report to the Office. For employees whose access to business confidential information was limited, the regulations may provide, on a case-by-case basis, for a shorter period of post-employment prohibition, provided that the shorter period does not compromise business confidential information.
 - **(h)** The Office, in consultation with the Chairperson, may appoint such special advisory, technical, or professional committees as may be useful in carrying out the functions of the Office, and the members of such committees may be staff of the Office, or other persons, or both.
 - **(i)** The Office, in consultation with the Chairperson, may establish and maintain an academic and professional fellowship program, under which qualified academics and professionals shall be invited to spend not longer than 2 years at the Office, to perform research and to provide advanced training for Office personnel.
+
+## Source Credit
+
+*([Pub. L. 111–203, title I, § 152](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1413](https://www.govinfo.gov/link/statute/124/1413).)*

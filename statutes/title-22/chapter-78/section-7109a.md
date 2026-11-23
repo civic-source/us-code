@@ -3,9 +3,10 @@ title: "Section 7109a - Research on domestic and international trafficking in pe
 usc_title: 22
 usc_section: "7109a"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7109a"
-generated_at: "2026-03-30T02:55:05.438Z"
+generated_at: "2026-11-23T20:26:32.656Z"
+status: "active"
 ---
 
 # § 7109a. Research on domestic and international trafficking in persons
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:05.438Z"
   - **(1)** The term “AIDS” means the acquired immune deficiency syndrome.
   - **(2)** The term “HIV” means the human immunodeficiency virus, the pathogen that causes AIDS.
   - **(3)** The term “HIV/AIDS” means, with respect to an individual, an individual who is infected with HIV or living with AIDS.
+
+## Source Credit
+
+*([Pub. L. 106–386, div. A, § 112A](https://www.govinfo.gov/link/plaw/106/public/386), as added [Pub. L. 108–193, § 6(g)(1)](https://www.govinfo.gov/link/plaw/108/public/193), Dec. 19, 2003, [117 Stat. 2883](https://www.govinfo.gov/link/statute/117/2883); amended [Pub. L. 109–164, title I, § 104(c)(1)](https://www.govinfo.gov/link/plaw/109/public/164), Jan. 10, 2006, [119 Stat. 3564](https://www.govinfo.gov/link/statute/119/3564); [Pub. L. 110–457, title I, § 108(a)](https://www.govinfo.gov/link/plaw/110/public/457), Dec. 23, 2008, [122 Stat. 5050](https://www.govinfo.gov/link/statute/122/5050); [Pub. L. 113–4, title XII, § 1251(1)](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 155](https://www.govinfo.gov/link/statute/127/155); [Pub. L. 115–393, title III, § 301(a)(1)](https://www.govinfo.gov/link/plaw/115/public/393), Dec. 21, 2018, [132 Stat. 5271](https://www.govinfo.gov/link/statute/132/5271); [Pub. L. 117–347, title I, § 105(d)(1)](https://www.govinfo.gov/link/plaw/117/public/347), Jan. 5, 2023, [136 Stat. 6204](https://www.govinfo.gov/link/statute/136/6204).)*

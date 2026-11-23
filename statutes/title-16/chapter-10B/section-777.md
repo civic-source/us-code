@@ -3,9 +3,10 @@ title: "Section 777 - Federal-State relationships"
 usc_title: 16
 usc_section: "777"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 777"
-generated_at: "2026-03-30T02:54:22.908Z"
+generated_at: "2026-11-23T20:26:20.271Z"
+status: "active"
 ---
 
 # § 777. Federal-State relationships
@@ -17,3 +18,85 @@ generated_at: "2026-03-30T02:54:22.908Z"
     - **(A)** Subject to subparagraph (B), the amount allocated by a State pursuant to this subsection to freshwater fish projects for each fiscal year shall not be less than the amount allocated by such State to such projects for fiscal year 1988.
     - **(B)** Subparagraph (A) shall not apply to a State with respect to any fiscal year for which the amount apportioned to the State under this chapter is less than the amount apportioned to the State under this chapter for fiscal year 1988.
   - **(3)** As used in this subsection, the term “coastal State” means any one of the States of Alabama, Alaska, California, Connecticut, Delaware, Florida, Georgia, Hawaii, Louisiana, Maine, Maryland, Massachusetts, Mississippi, New Hampshire, New Jersey, New York, North Carolina, Oregon, Rhode Island, South Carolina, Texas, Virginia, and Washington. The term also includes the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+
+Pacific ocean drainage area
+
+Program
+
+Secretary
+
+Establishment
+
+Goals
+
+Impacts on Fisheries.—
+
+In general
+
+Types of projects
+
+Priority
+
+Non-Federal.—
+
+In general
+
+Federal action
+
+Federal
+
+In General
+
+Determination of Eligibility
+
+Non-Federal Share
+
+Non-Federal Contributions
+
+Credit for Contributions.—
+
+In general
+
+Bonneville Power Administration.—
+
+In general
+
+Non-federal share
+
+Additional Costs.—
+
+Non-federal responsibilities
+
+Federal responsibility
+
+In General
+
+Limitations.—
+
+Single state.—
+
+In general
+
+Waiver
+
+Administrative expenses.—
+
+Definition of administrative expense
+
+Limitation.—
+
+In general
+
+Federal and state shares
+
+State expenses
+
+“(aa) arranging meetings to promote the Program to potential applicants;
+
+“(bb) assisting applicants with the preparation of applications for funding under the Program; and
+
+“(cc) visiting construction sites to provide technical assistance, if requested by the applicant.”
+
+## Source Credit
+
+*(Aug. 9, 1950, ch. 658, § 1, [64 Stat. 430](https://www.govinfo.gov/link/statute/64/430); [Pub. L. 98–369, div. A, title X, § 1014(a)(1)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1015](https://www.govinfo.gov/link/statute/98/1015); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 100–448, § 6(c)(1)](https://www.govinfo.gov/link/plaw/100/public/448), Sept. 28, 1988, [102 Stat. 1840](https://www.govinfo.gov/link/statute/102/1840).)*

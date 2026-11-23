@@ -3,9 +3,10 @@ title: "Section 6605 - Advisory group"
 usc_title: 16
 usc_section: "6605"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6605"
-generated_at: "2026-03-30T02:54:23.066Z"
+generated_at: "2026-11-23T20:26:20.815Z"
+status: "active"
 ---
 
 # § 6605. Advisory group
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:23.066Z"
   - **(2)** The Secretary shall provide to the public timely notice of each meeting of the advisory group.
   - **(3)** Minutes of each meeting of the advisory group shall be kept by the Secretary and shall be made available to the public.
 - **(c)** Chapter 10 of title 5 shall not apply to the advisory group.
+
+## Source Credit
+
+*([Pub. L. 108–266, § 6](https://www.govinfo.gov/link/plaw/108/public/266), July 2, 2004, [118 Stat. 795](https://www.govinfo.gov/link/statute/118/795); [Pub. L. 116–9, title VII, § 7001(c)(3)(E)](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 788](https://www.govinfo.gov/link/statute/133/788); [Pub. L. 117–286, § 4(a)(131)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4320](https://www.govinfo.gov/link/statute/136/4320).)*

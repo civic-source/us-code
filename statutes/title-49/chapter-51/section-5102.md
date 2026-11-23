@@ -3,9 +3,10 @@ title: "Section 5102 - Definitions"
 usc_title: 49
 usc_section: "5102"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 5102"
-generated_at: "2026-03-30T02:56:19.305Z"
+generated_at: "2026-11-23T20:27:34.581Z"
+status: "active"
 ---
 
 # § 5102. Definitions
@@ -63,3 +64,70 @@ In this chapter—
     - **(B)** in section 5119 of this title , a State of the United States and the District of Columbia.
   - **(13)** “transports” or “transportation” means the movement of property and loading, unloading, or storage incidental to the movement.
   - **(14)** “United States” means all of the States.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5102(1) | 49 App.:1802(1)–(3), (13). | Jan. 3, 1975 , Pub. L. 93–633, § 103 , 88 Stat. 2156 ; restated Nov. 16, 1990 , Pub. L. 101–615, § 3(a) , 104 Stat. 3245 ; Oct. 24, 1992 , Pub. L. 102–508 , §§ 501, 502, 106 Stat. 3311 . |
+| 5102(2) | 49 App.:1802(4). |  |
+| 5102(3) | 49 App.:1802(5). |  |
+| 5102(4) | 49 App.:1802(6). |  |
+| 5102(5) | 49 App.:1802(7). |  |
+| 5102(6) | 49 App.:1802(8). |  |
+| 5102(7) | 49 App.:1802(9). |  |
+| 5102(8) | 49 App.:1802(10). |  |
+| 5102(9) | 49 App.:1802(11). |  |
+| 5102(10) | 49 App.:1802(12). |  |
+| 5102(11) | 49 App.:1802(14). |  |
+| 5102(12) | 49 App.:1802(15). |  |
+| 5102(13) | 49 App.:1802(16). |  |
+
+
+Historical and Revision Notes
+
+5102(1)
+
+Jan. 3, 1975
+
+Pub. L. 93–633, § 103
+
+88 Stat. 2156
+
+Nov. 16, 1990
+
+Pub. L. 101–615, § 3(a)
+
+104 Stat. 3245
+
+Oct. 24, 1992
+
+Pub. L. 102–508
+
+106 Stat. 3311
+
+5102(2)
+
+5102(3)
+
+5102(4)
+
+5102(5)
+
+5102(6)
+
+5102(7)
+
+5102(8)
+
+5102(9)
+
+5102(10)
+
+5102(11)
+
+5102(12)
+
+5102(13)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 759](https://www.govinfo.gov/link/statute/108/759); [Pub. L. 103–311, title I, § 117(a)(1)](https://www.govinfo.gov/link/plaw/103/public/311), Aug. 26, 1994, [108 Stat. 1678](https://www.govinfo.gov/link/statute/108/1678); [Pub. L. 104–88, title III, § 308(d)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 947](https://www.govinfo.gov/link/statute/109/947); [Pub. L. 109–59, title VII](https://www.govinfo.gov/link/plaw/109/public/59), §§ 7102, 7126, Aug. 10, 2005, [119 Stat. 1892](https://www.govinfo.gov/link/statute/119/1892), 1909; [Pub. L. 110–244, title III, § 302(a)](https://www.govinfo.gov/link/plaw/110/public/244), June 6, 2008, [122 Stat. 1618](https://www.govinfo.gov/link/statute/122/1618).)*

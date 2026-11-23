@@ -3,9 +3,10 @@ title: "Section 20303 - Regional children’s advocacy centers"
 usc_title: 34
 usc_section: "20303"
 chapter: 203
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 20303"
-generated_at: "2026-03-30T02:55:33.297Z"
+generated_at: "2026-11-23T20:26:50.590Z"
+status: "active"
 ---
 
 # § 20303. Regional children’s advocacy centers
@@ -76,3 +77,7 @@ generated_at: "2026-03-30T02:55:33.297Z"
     - **(A)** describes the progress made in satisfying the purpose of the children’s advocacy program; and
     - **(B)** states whether changes are needed and are being made to carry out the purpose of the children’s advocacy program.
   - **(3)** Upon discontinuation of funding of a grant recipient under this section, the Administrator shall solicit new proposals in accordance with subsection (c).
+
+## Source Credit
+
+*([Pub. L. 101–647, title II, § 213](https://www.govinfo.gov/link/plaw/101/public/647), as added [Pub. L. 102–586, § 6(b)(2)](https://www.govinfo.gov/link/plaw/102/public/586), Nov. 4, 1992, [106 Stat. 5030](https://www.govinfo.gov/link/statute/106/5030); amended [Pub. L. 108–21, title III, § 381(a)](https://www.govinfo.gov/link/plaw/108/public/21), Apr. 30, 2003, [117 Stat. 667](https://www.govinfo.gov/link/statute/117/667); [Pub. L. 115–424, § 2(c)](https://www.govinfo.gov/link/plaw/115/public/424), Jan. 7, 2019, [132 Stat. 5466](https://www.govinfo.gov/link/statute/132/5466); [Pub. L. 117–354, § 3(3)](https://www.govinfo.gov/link/plaw/117/public/354), Jan. 5, 2023, [136 Stat. 6274](https://www.govinfo.gov/link/statute/136/6274).)*

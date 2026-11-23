@@ -3,9 +3,10 @@ title: "Section 240 - Border Enforcement Security Task Force"
 usc_title: 6
 usc_section: "240"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 240"
-generated_at: "2026-03-30T02:53:09.453Z"
+generated_at: "2026-11-23T20:25:34.676Z"
+status: "active"
 ---
 
 # § 240. Border Enforcement Security Task Force
@@ -35,3 +36,9 @@ generated_at: "2026-03-30T02:53:09.453Z"
   - **(1)** direct the assignment of Federal personnel to BEST, subject to the approval of the head of the department or agency that employs such personnel; and
   - **(2)** take other actions to assist Federal, State, local, and tribal entities to participate in BEST, including providing financial assistance, as appropriate, for operational, administrative, salary reimbursement, and technological costs associated with the participation of Federal, State, local, and tribal law enforcement agencies in BEST.
 - **(e)** Not later than 180 days after the date on which BEST is established under this section, and annually thereafter for the following 5 years, the Secretary shall submit a report to Congress that describes the effectiveness of BEST in enhancing border security and reducing the drug trafficking, arms smuggling, illegal alien trafficking and smuggling, violence, and kidnapping along and across the international borders of the United States, as measured by crime statistics, including violent deaths, incidents of violence, and drug-related arrests.
+
+“Congress finds the following:
+
+## Source Credit
+
+*([Pub. L. 107–296, title IV, § 432](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 112–205, § 3(a)](https://www.govinfo.gov/link/plaw/112/public/205), Dec. 7, 2012, [126 Stat. 1488](https://www.govinfo.gov/link/statute/126/1488); amended [Pub. L. 117–159, div. A, title II, § 12004(j)](https://www.govinfo.gov/link/plaw/117/public/159), June 25, 2022, [136 Stat. 1332](https://www.govinfo.gov/link/statute/136/1332).)*

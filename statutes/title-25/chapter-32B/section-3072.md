@@ -3,9 +3,10 @@ title: "Section 3072 - Definitions"
 usc_title: 25
 usc_section: "3072"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3072"
-generated_at: "2026-03-30T02:54:52.846Z"
+generated_at: "2026-11-23T20:26:25.629Z"
+status: "active"
 ---
 
 # § 3072. Definitions
@@ -36,3 +37,7 @@ In this chapter:
   - **(10)** The term “tangible cultural heritage” means—
     - **(A)** Native American human remains; or
     - **(B)** culturally, historically, or archaeologically significant objects, resources, patrimony, or other items that are affiliated with a Native American culture.
+
+## Source Credit
+
+*([Pub. L. 117–258, § 3](https://www.govinfo.gov/link/plaw/117/public/258), Dec. 21, 2022, [136 Stat. 2373](https://www.govinfo.gov/link/statute/136/2373).)*

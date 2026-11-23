@@ -3,9 +3,10 @@ title: "Section 19038 - Plan with respect to controlled information and backgrou
 usc_title: 42
 usc_section: "19038"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 19038"
-generated_at: "2026-03-30T02:56:11.537Z"
+generated_at: "2026-11-23T20:27:23.849Z"
+status: "active"
 ---
 
 # § 19038. Plan with respect to controlled information and background screening
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.537Z"
 - **(b)** In this section:
   - **(1)** The term “classified information” means any information that has been determined pursuant to Executive Order 13526, any predecessor or successor order, or sections 1-274, 275-321, and 1001-3115 of the Atomic Energy Act of 1954 ( 42 U.S.C. 2011 -2021, 2022-2286i, 2296a-2297h-13) 1 1 See References in Text note below. to require protection against unauthorized disclosure and that is so designated.
   - **(2)** The term “controlled unclassified information” or “CUI” means information described as “Controlled Unclassified Information” under Executive Order 13556 or any successor order, to require protection against unauthorized disclosure and that is so designated.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10339](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1554](https://www.govinfo.gov/link/statute/136/1554).)*

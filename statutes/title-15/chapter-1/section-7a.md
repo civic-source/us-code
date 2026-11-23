@@ -3,9 +3,10 @@ title: "Section 7a - Definitions"
 usc_title: 15
 usc_section: "7a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 7a"
-generated_at: "2026-03-30T02:54:08.020Z"
+generated_at: "2026-11-23T20:26:03.352Z"
+status: "active"
 ---
 
 # § 7a. Definitions
@@ -18,3 +19,21 @@ In sections 7a to 7a–3 of this title:
   - **(4)** The term “claimant” means a person or class, that has brought, or on whose behalf has been brought, a civil action alleging a violation of section 1 or 3 of this title or any similar State law, except that the term does not include a State or a subdivision of a State with respect to a civil action brought to recover damages sustained by the State or subdivision.
   - **(5)** The term “cooperating individual” means, with respect to an antitrust leniency agreement, a current or former director, officer, or employee of the antitrust leniency applicant who is covered by the agreement.
   - **(6)** The term “person” has the meaning given it in subsection (a) of section 12 of this title .
+
+Findings
+
+Purpose
+
+Revival and restoration.—
+
+In general
+
+Laws
+
+Markers and agreements before sunset
+
+Markers and agreements after sunset
+
+## Source Credit
+
+*([Pub. L. 108–237, title II, § 212](https://www.govinfo.gov/link/plaw/108/public/237), June 22, 2004, [118 Stat. 666](https://www.govinfo.gov/link/statute/118/666); [Pub. L. 111–190, § 2](https://www.govinfo.gov/link/plaw/111/public/190), June 9, 2010, [124 Stat. 1275](https://www.govinfo.gov/link/statute/124/1275); [Pub. L. 116–159, div. D, title III, § 4303(b)(2)](https://www.govinfo.gov/link/plaw/116/public/159), Oct. 1, 2020, [134 Stat. 742](https://www.govinfo.gov/link/statute/134/742).)*

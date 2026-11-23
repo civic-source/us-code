@@ -3,9 +3,10 @@ title: "Section 950i - Execution of sentence; suspension of sentence"
 usc_title: 10
 usc_section: "950i"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 950i"
-generated_at: "2026-03-30T02:53:38.091Z"
+generated_at: "2026-11-23T20:25:51.155Z"
+status: "active"
 ---
 
 # § 950i. Execution of sentence; suspension of sentence
@@ -21,3 +22,15 @@ generated_at: "2026-03-30T02:53:38.091Z"
       - **(ii)** such a petition is denied by the Supreme Court; or
       - **(iii)** review is otherwise completed in accordance with the judgment of the Supreme Court.
 - **(d)** The Secretary of the Defense, or the convening authority acting on the case (if other than the Secretary), may suspend the execution of any sentence or part thereof in the case, except a sentence of death.
+
+In General
+
+Execution of Sentence of Death Only Upon Approval by the President
+
+Execution of Sentence of Death Only Upon Final Judgment of Legality of Proceedings
+
+Suspension of Sentence
+
+## Source Credit
+
+*(Added [Pub. L. 111–84, div. A, title XVIII, § 1802](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2605](https://www.govinfo.gov/link/statute/123/2605).)*

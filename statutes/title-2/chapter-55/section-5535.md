@@ -3,9 +3,10 @@ title: "Section 5535 - Report of disbursements for House of Representatives"
 usc_title: 2
 usc_section: "5535"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 5535"
-generated_at: "2026-03-30T02:53:04.837Z"
+generated_at: "2026-11-23T20:25:29.062Z"
+status: "active"
 ---
 
 # § 5535. Report of disbursements for House of Representatives
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:04.837Z"
   - **(1)** sections 102, 103, and 104 1 1 See References in Text note below. of this title; and
   - **(2)** section 4108 of this title ;
 - **(f)** This section shall apply to the semiannual periods of January 1 through June 30 and July 1 through December 31 of each year, beginning with the semiannual period in which this section is enacted.
+
+## Source Credit
+
+*([Pub. L. 104–186, title I, § 106](https://www.govinfo.gov/link/plaw/104/public/186), Aug. 20, 1996, [110 Stat. 1722](https://www.govinfo.gov/link/statute/110/1722).)*

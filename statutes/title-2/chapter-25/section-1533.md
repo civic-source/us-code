@@ -3,9 +3,10 @@ title: "Section 1533 - Small government agency plan"
 usc_title: 2
 usc_section: "1533"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1533"
-generated_at: "2026-03-30T02:53:04.815Z"
+generated_at: "2026-11-23T20:25:28.977Z"
+status: "active"
 ---
 
 # § 1533. Small government agency plan
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:04.815Z"
   - **(2)** enable officials of affected small governments to provide meaningful and timely input in the development of regulatory proposals containing significant Federal intergovernmental mandates; and
   - **(3)** inform, educate, and advise small governments on compliance with the requirements.
 - **(b)** There are authorized to be appropriated to each agency to carry out the provisions of this section and for no other purpose, such sums as are necessary.
+
+## Source Credit
+
+*([Pub. L. 104–4, title II, § 203](https://www.govinfo.gov/link/plaw/104/public/4), Mar. 22, 1995, [109 Stat. 65](https://www.govinfo.gov/link/statute/109/65).)*

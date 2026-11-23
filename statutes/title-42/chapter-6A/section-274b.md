@@ -3,9 +3,10 @@ title: "Section 274b - General provisions respecting grants and contracts"
 usc_title: 42
 usc_section: "274b"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 274b"
-generated_at: "2026-03-30T02:56:10.724Z"
+generated_at: "2026-11-23T20:27:20.134Z"
+status: "active"
 ---
 
 # § 274b. General provisions respecting grants and contracts
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:10.724Z"
 - **(d)** For purposes of this part:
   - **(1)** The term “transplant center” means a health care facility in which transplants of organs are performed.
   - **(2)** The term “organ” means the human kidney, liver, heart, lung, pancreas, and any other human organ (other than corneas and eyes) specified by the Secretary by regulation and for purposes of section 274a of this title , such term includes bone marrow.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 374, as added [Pub. L. 98–507, title II, § 201](https://www.govinfo.gov/link/plaw/98/public/507), Oct. 19, 1984, [98 Stat. 2345](https://www.govinfo.gov/link/statute/98/2345); amended [Pub. L. 100–607, title IV, § 402(b)](https://www.govinfo.gov/link/plaw/100/public/607), Nov. 4, 1988, [102 Stat. 3114](https://www.govinfo.gov/link/statute/102/3114); [Pub. L. 101–616, title II, § 203](https://www.govinfo.gov/link/plaw/101/public/616), Nov. 16, 1990, [104 Stat. 3284](https://www.govinfo.gov/link/statute/104/3284); [Pub. L. 118–14, § 3(2)](https://www.govinfo.gov/link/plaw/118/public/14), Sept. 22, 2023, [137 Stat. 69](https://www.govinfo.gov/link/statute/137/69).)*

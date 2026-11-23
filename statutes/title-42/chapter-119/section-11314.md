@@ -3,9 +3,10 @@ title: "Section 11314 - Director and staff"
 usc_title: 42
 usc_section: "11314"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11314"
-generated_at: "2026-03-30T02:56:11.397Z"
+generated_at: "2026-11-23T20:27:23.285Z"
+status: "active"
 ---
 
 # § 11314. Director and staff
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.397Z"
 - **(c)** Upon request of the Council, the head of any Federal agency may detail, on a reimbursable basis, any of the personnel of such agency to the Council to assist the Council in carrying out its duties under this subchapter. Upon request of the Council, the Secretary of Health and Human Services shall detail, on a reimbursable basis, any of the personnel of the Department of Health and Human Services who have served the Federal Task Force on the Homeless of the Department to assist the Council in carrying out its duties under this subchapter.
 - **(d)** The Secretary of Housing and Urban Development shall provide the Council with such administrative and support services as are necessary to ensure that the Council carries out its functions under this subchapter in an efficient and expeditious manner.
 - **(e)** With the approval of the Council, the Executive Director of the Council may procure temporary and intermittent services under section 3109(b) of title 5 .
+
+## Source Credit
+
+*([Pub. L. 100–77, title II, § 204](https://www.govinfo.gov/link/plaw/100/public/77), July 22, 1987, [101 Stat. 488](https://www.govinfo.gov/link/statute/101/488).)*

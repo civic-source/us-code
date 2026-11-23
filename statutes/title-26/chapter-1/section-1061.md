@@ -3,9 +3,10 @@ title: "Section 1061 - Partnership interests held in connection with performance
 usc_title: 26
 usc_section: "1061"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1061"
-generated_at: "2026-03-30T02:55:27.758Z"
+generated_at: "2026-11-23T20:26:46.033Z"
+status: "active"
 ---
 
 # § 1061. Partnership interests held in connection with performance of services
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:55:27.758Z"
     - **(B)** the person performed a service within the current calendar year or the preceding three calendar years in any applicable trade or business in which or for which the taxpayer performed a service.
 - **(e)** The Secretary shall require such reporting (at the time and in the manner prescribed by the Secretary) as is necessary to carry out the purposes of this section.
 - **(f)** The Secretary shall issue such regulations or other guidance as is necessary or appropriate to carry out the purposes of this section 2 2 So in original. Probably should be followed by a period.
+
+## Source Credit
+
+*(Added [Pub. L. 115–97, title I, § 13309(a)(2)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2130](https://www.govinfo.gov/link/statute/131/2130).)*

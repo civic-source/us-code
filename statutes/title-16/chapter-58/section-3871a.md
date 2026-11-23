@@ -3,9 +3,10 @@ title: "Section 3871a - Definitions"
 usc_title: 16
 usc_section: "3871a"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3871a"
-generated_at: "2026-03-30T02:54:23.037Z"
+generated_at: "2026-11-23T20:26:20.720Z"
+status: "active"
 ---
 
 # § 3871a. Definitions
@@ -39,3 +40,7 @@ In this subchapter:
   - **(7)**
     - **(A)** The term “program contract” means the contract between the Secretary and a producer entered into under this subchapter.
     - **(B)** The term “program contract” does not include a contract under a covered program.
+
+## Source Credit
+
+*([Pub. L. 99–198, title XII, § 1271A](https://www.govinfo.gov/link/plaw/99/public/198), as added [Pub. L. 113–79, title II, § 2401](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 745](https://www.govinfo.gov/link/statute/128/745); amended [Pub. L. 115–334, title II, § 2702](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4593](https://www.govinfo.gov/link/statute/132/4593).)*

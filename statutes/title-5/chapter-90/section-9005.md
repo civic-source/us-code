@@ -3,9 +3,10 @@ title: "Section 9005 - Preemption"
 usc_title: 5
 usc_section: "9005"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 9005"
-generated_at: "2026-03-30T02:52:56.072Z"
+generated_at: "2026-11-23T20:25:32.257Z"
+status: "active"
 ---
 
 # § 9005. Preemption
@@ -14,3 +15,15 @@ generated_at: "2026-03-30T02:52:56.072Z"
 - **(b)**
   - **(1)** No tax, fee, or other monetary payment may be imposed or collected, directly or indirectly, by any State, the District of Columbia, or the Commonwealth of Puerto Rico, or by any political subdivision or other governmental authority thereof, on, or with respect to, any premium paid for an insurance policy under this chapter.
   - **(2)** Paragraph (1) shall not be construed to exempt any company or other entity issuing a policy of insurance under this chapter from the imposition, payment, or collection of a tax, fee, or other monetary payment on the net income or profit accruing to or realized by such entity from business conducted under this chapter, if that tax, fee, or payment is applicable to a broad range of business activity.
+
+Contractual Provisions
+
+Premiums.—
+
+In general
+
+Rule of construction
+
+## Source Credit
+
+*(Added [Pub. L. 106–265, title I, § 1002(a)](https://www.govinfo.gov/link/plaw/106/public/265), Sept. 19, 2000, [114 Stat. 768](https://www.govinfo.gov/link/statute/114/768); amended [Pub. L. 107–104, § 2](https://www.govinfo.gov/link/plaw/107/public/104), Dec. 27, 2001, [115 Stat. 1001](https://www.govinfo.gov/link/statute/115/1001).)*

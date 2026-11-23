@@ -3,9 +3,10 @@ title: "Section 3821 - Program ineligibility"
 usc_title: 16
 usc_section: "3821"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3821"
-generated_at: "2026-03-30T02:54:23.023Z"
+generated_at: "2026-11-23T20:26:20.682Z"
+status: "active"
 ---
 
 # § 3821. Program ineligibility
@@ -63,3 +64,11 @@ generated_at: "2026-03-30T02:54:23.023Z"
   - **(2)** No person shall become ineligible under paragraph (1) if the Secretary determines that an exemption under section 3822(b) of this title applies to that person.
 - **(e)** This section shall not apply to a loan described in subsection (b) made before December 23, 1985 .
 - **(f)** The Secretary shall have, and shall not delegate to any private person or entity, authority to determine whether a person has complied with this subchapter.
+
+(aa) determine the amount of an equitable contribution to conservation by the person for the violation; and
+
+(bb) deposit the contribution in the fund described in section 3841(f) of this title .
+
+## Source Credit
+
+*([Pub. L. 99–198, title XII, § 1221](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1507](https://www.govinfo.gov/link/statute/99/1507); [Pub. L. 101–624, title XIV, § 1421(b)](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3572](https://www.govinfo.gov/link/statute/104/3572); [Pub. L. 102–237, title II, § 204(3)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1855](https://www.govinfo.gov/link/statute/105/1855); [Pub. L. 102–552, title III, § 308(a)](https://www.govinfo.gov/link/plaw/102/public/552), Oct. 28, 1992, [106 Stat. 4116](https://www.govinfo.gov/link/statute/106/4116); [Pub. L. 104–127, title III, § 321](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 986](https://www.govinfo.gov/link/statute/110/986); [Pub. L. 107–171, title II, § 2002(b)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 233](https://www.govinfo.gov/link/statute/116/233); [Pub. L. 113–79, title II, § 2611(b)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 763](https://www.govinfo.gov/link/statute/128/763); [Pub. L. 115–334, title II](https://www.govinfo.gov/link/plaw/115/public/334), §§ 2101, 2301(d)(1)(B), Dec. 20, 2018, [132 Stat. 4530](https://www.govinfo.gov/link/statute/132/4530), 4553.)*

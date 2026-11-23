@@ -3,9 +3,10 @@ title: "Section 863 - Drug paraphernalia"
 usc_title: 21
 usc_section: "863"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 863"
-generated_at: "2026-03-30T02:54:54.297Z"
+generated_at: "2026-11-23T20:26:27.847Z"
+status: "active"
 ---
 
 # § 863. Drug paraphernalia
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:54:54.297Z"
 - **(f)** This section shall not apply to—
   - **(1)** any person authorized by local, State, or Federal law to manufacture, possess, or distribute such items; or
   - **(2)** any item that, in the normal lawful course of business, is imported, exported, transported, or sold through the mail or by any other means, and traditionally intended for use with tobacco products, including any pipe, paper, or accessory.
+
+## Source Credit
+
+*([Pub. L. 91–513, title II, § 422](https://www.govinfo.gov/link/plaw/91/public/513), as added and amended [Pub. L. 101–647, title XXIV, § 2401(a)](https://www.govinfo.gov/link/plaw/101/public/647) –(c), Nov. 29, 1990, [104 Stat. 4858](https://www.govinfo.gov/link/statute/104/4858), 4859; [Pub. L. 106–310, div. B, title XXXVI, § 3614](https://www.govinfo.gov/link/plaw/106/public/310), Oct. 17, 2000, [114 Stat. 1230](https://www.govinfo.gov/link/statute/114/1230).)*

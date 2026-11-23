@@ -3,9 +3,10 @@ title: "Section 3056A - Powers, authorities, and duties of United States Secret 
 usc_title: 18
 usc_section: "3056A"
 chapter: 203
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 3056A"
-generated_at: "2026-03-30T02:54:16.510Z"
+generated_at: "2026-11-23T20:26:08.648Z"
+status: "active"
 ---
 
 # § 3056A. Powers, authorities, and duties of United States Secret Service Uniformed Division
@@ -37,3 +38,49 @@ generated_at: "2026-03-30T02:54:16.510Z"
   - **(2)** Members of the United States Secret Service Uniformed Division shall possess privileges and powers similar to those of the members of the Metropolitan Police of the District of Columbia.
 - **(c)** Members of the United States Secret Service Uniformed Division shall be furnished with uniforms and other necessary equipment.
 - **(d)** In carrying out the functions pursuant to paragraphs (7) and (9) of subsection (a), the Secretary of Homeland Security may utilize, with their consent, on a reimbursable basis, the services, personnel, equipment, and facilities of State and local governments, and is authorized to reimburse such State and local governments for the utilization of such services, personnel, equipment, and facilities. The Secretary of Homeland Security may carry out the functions pursuant to paragraphs (7) and (9) of subsection (a) by contract. The authority of this subsection may be transferred by the President to the Secretary of State. In carrying out any duty under paragraphs (7) and (9) of subsection (a), the Secretary of State is authorized to utilize any authority available to the Secretary under title II of the State Department Basic Authorities Act of 1956.
+
+In General.—
+
+Determination of rates of basic pay
+
+Placement on revised salary schedule.—
+
+In general
+
+Credit for increases during transition
+
+Creditable service described
+
+Hold Harmless for Current Total Compensation
+
+Conversion Not Treated as Transfer or Promotion
+
+Transfer of Credit for Satisfactory Service
+
+Adjustment To Take Into Account General Schedule Adjustments During Transition
+
+Conversion Not Treated as Salary Increase for Purposes of Certain Pensions and Allowances
+
+New Rates of Basic Pay
+
+Limitation on Pay Period Earnings
+
+Savings Provision
+
+Conforming Amendment
+
+Effective Date
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Ronald Reagan.
+
+## Source Credit
+
+*(Added [Pub. L. 109–177, title VI, § 605(a)](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 253](https://www.govinfo.gov/link/statute/120/253).)*

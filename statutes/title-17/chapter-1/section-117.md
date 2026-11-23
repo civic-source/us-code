@@ -3,9 +3,10 @@ title: "Section 117 - Limitations on exclusive rights: Computer programs"
 usc_title: 17
 usc_section: "117"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 117"
-generated_at: "2026-03-30T02:54:15.349Z"
+generated_at: "2026-11-23T20:26:06.500Z"
+status: "active"
 ---
 
 # § 117. Limitations on exclusive rights: Computer programs
@@ -20,3 +21,15 @@ generated_at: "2026-03-30T02:54:15.349Z"
 - **(d)** For purposes of this section—
   - **(1)** the “maintenance” of a machine is the servicing of the machine in order to make it work in accordance with its original specifications and any changes to those specifications authorized for that machine; and
   - **(2)** the “repair” of a machine is the restoring of the machine to the state of working in accordance with its original specifications and any changes to those specifications authorized for that machine.
+
+Making of Additional Copy or Adaptation by Owner of Copy
+
+Lease, Sale, or Other Transfer of Additional Copy or Adaptation
+
+Machine Maintenance or Repair
+
+Definitions
+
+## Source Credit
+
+*([Pub. L. 94–553, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/553), Oct. 19, 1976, [90 Stat. 2565](https://www.govinfo.gov/link/statute/90/2565); [Pub. L. 96–517, § 10(b)](https://www.govinfo.gov/link/plaw/96/public/517), Dec. 12, 1980, [94 Stat. 3028](https://www.govinfo.gov/link/statute/94/3028); [Pub. L. 105–304, title III, § 302](https://www.govinfo.gov/link/plaw/105/public/304), Oct. 28, 1998, [112 Stat. 2887](https://www.govinfo.gov/link/statute/112/2887).)*

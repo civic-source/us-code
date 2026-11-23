@@ -3,9 +3,10 @@ title: "Section 8532 - Authority of State and local governments to divest from c
 usc_title: 22
 usc_section: "8532"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8532"
-generated_at: "2026-03-30T02:55:05.453Z"
+generated_at: "2026-11-23T20:26:32.718Z"
+status: "active"
 ---
 
 # § 8532. Authority of State and local governments to divest from certain companies that invest in Iran
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:05.453Z"
   - **(1)** Notwithstanding any other provision of this section or any other provision of law, a State or local government may enforce a measure (without regard to the requirements of subsection (d), except as provided in paragraph (2)) adopted by the State or local government before July 1, 2010 , that provides for the divestment of assets of the State or local government from, or prohibits the investment of the assets of the State or local government in, any person that the State or local government determines, using credible information available to the public, engages in investment activities in Iran (determined without regard to subsection (c)) or other business activities in Iran that are identified in the measure.
   - **(2)** A measure described in paragraph (1) shall be subject to the requirements of paragraphs (1) and (2) and the first sentence of paragraph (3) of subsection (d) on and after the date that is 2 years after July 1, 2010 .
 - **(j)** Nothing in this Act or any other provision of law authorizing sanctions with respect to Iran shall be construed to abridge the authority of a State to issue and enforce rules governing the safety, soundness, and solvency of a financial institution subject to its jurisdiction or the business of insurance pursuant to the Act of March 9, 1945 ( 15 U.S.C. 1011 et seq.) (commonly known as the “McCarran-Ferguson Act”).
+
+## Source Credit
+
+*([Pub. L. 111–195, title II, § 202](https://www.govinfo.gov/link/plaw/111/public/195), July 1, 2010, [124 Stat. 1342](https://www.govinfo.gov/link/statute/124/1342); [Pub. L. 112–158, title II, § 222(b)](https://www.govinfo.gov/link/plaw/112/public/158), Aug. 10, 2012, [126 Stat. 1239](https://www.govinfo.gov/link/statute/126/1239).)*

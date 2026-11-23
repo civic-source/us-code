@@ -3,9 +3,10 @@ title: "Section 2220b - General authority"
 usc_title: 22
 usc_section: "2220b"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2220b"
-generated_at: "2026-03-30T02:55:05.351Z"
+generated_at: "2026-11-23T20:26:32.199Z"
+status: "active"
 ---
 
 # § 2220b. General authority
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:05.351Z"
   - **(5)** emphasize the improvement of local systems for delivering the best available knowledge to the small farmers of such countries.
 - **(d)** The President shall exercise his authority under this section through the Administrator.
 - **(e)** The Administrator shall establish and carry out special programs under this subpart as part of ongoing programs for child survival, democratization, development of free enterprise, environmental and natural resource management, and other related programs.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 297, as added [Pub. L. 94–161, title III, § 312](https://www.govinfo.gov/link/plaw/94/public/161), Dec. 20, 1975, [89 Stat. 863](https://www.govinfo.gov/link/statute/89/863); amended [Pub. L. 96–53, title I, § 113](https://www.govinfo.gov/link/plaw/96/public/53), Aug. 14, 1979, [93 Stat. 364](https://www.govinfo.gov/link/statute/93/364); [Pub. L. 106–373, § 3](https://www.govinfo.gov/link/plaw/106/public/373), Oct. 27, 2000, [114 Stat. 1431](https://www.govinfo.gov/link/statute/114/1431).)*

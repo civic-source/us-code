@@ -3,9 +3,10 @@ title: "Section 3234 - Prohibited personnel practices in the intelligence commun
 usc_title: 50
 usc_section: "3234"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3234"
-generated_at: "2026-03-30T02:56:26.239Z"
+generated_at: "2026-11-23T20:27:30.943Z"
+status: "active"
 ---
 
 # § 3234. Prohibited personnel practices in the intelligence community
@@ -69,3 +70,15 @@ generated_at: "2026-03-30T02:56:26.239Z"
 - **(g)** Nothing in this section shall be construed to—
   - **(1)** preempt or preclude any employee, contractor employee, or applicant for employment, at the Federal Bureau of Investigation from exercising rights provided under any other law, rule, or regulation, including section 2303 of title 5 ; or
   - **(2)** repeal section 2303 of title 5 .
+
+Covered Intelligence Community Element Defined
+
+Regulations
+
+Report on the Status of Implementation of Regulations
+
+Nonapplicability to Certain Terminations
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title XI, § 1104, as added [Pub. L. 113–126, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/113/public/126), July 7, 2014, [128 Stat. 1414](https://www.govinfo.gov/link/statute/128/1414); amended [Pub. L. 115–118, title I, § 110(a)](https://www.govinfo.gov/link/plaw/115/public/118), Jan. 19, 2018, [132 Stat. 15](https://www.govinfo.gov/link/statute/132/15); [Pub. L. 117–103, div. X, title V, § 501(a)](https://www.govinfo.gov/link/plaw/117/public/103), (d)(2), (e)(1), (f), (g), Mar. 15, 2022, [136 Stat. 981–984](https://www.govinfo.gov/link/statute/136/981); [Pub. L. 117–263, div. F, title LXVI, § 6608](https://www.govinfo.gov/link/plaw/117/public/263), title LXVIII, § 6824(a)(8), Dec. 23, 2022, [136 Stat. 3559](https://www.govinfo.gov/link/statute/136/3559), 3615; [Pub. L. 118–159, div. F, title LXVII, § 6703](https://www.govinfo.gov/link/plaw/118/public/159), title LXIX, § 6902(a)(4), Dec. 23, 2024, [138 Stat. 2515](https://www.govinfo.gov/link/statute/138/2515), 2517.)*

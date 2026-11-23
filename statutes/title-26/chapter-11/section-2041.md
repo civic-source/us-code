@@ -3,9 +3,10 @@ title: "Section 2041 - Powers of appointment"
 usc_title: 26
 usc_section: "2041"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 2041"
-generated_at: "2026-03-30T02:55:27.780Z"
+generated_at: "2026-11-23T20:26:46.154Z"
+status: "active"
 ---
 
 # § 2041. Powers of appointment
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:27.780Z"
     - **(A)** $5,000, or
     - **(B)** 5 percent of the aggregate value, at the time of such lapse, of the assets out of which, or the proceeds of which, the exercise of the lapsed powers could have been satisfied.
   - **(3)** For purposes of this section, a power of appointment created by a will executed on or before October 21, 1942 , shall be considered a power created on or before such date if the person executing such will dies before July 1, 1949 , without having republished such will, by codicil or otherwise, after October 21, 1942 .
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 385; [Pub. L. 87–834, § 18(a)(2)(H)](https://www.govinfo.gov/link/plaw/87/public/834), Oct. 16, 1962, [76 Stat. 1052](https://www.govinfo.gov/link/statute/76/1052); [Pub. L. 94–455, title XX, § 2009(b)(4)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1894](https://www.govinfo.gov/link/statute/90/1894).)*

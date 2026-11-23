@@ -3,9 +3,10 @@ title: "Section 6983 - Coordination, collection, and dissemination of informatio
 usc_title: 42
 usc_section: "6983"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6983"
-generated_at: "2026-03-30T02:56:11.279Z"
+generated_at: "2026-11-23T20:27:22.761Z"
+status: "active"
 ---
 
 # § 6983. Coordination, collection, and dissemination of information
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:56:11.279Z"
   - **(2)** The Administrator shall develop and implement educational programs to promote citizen understanding of the need for environmentally sound solid waste management practices.
 - **(f)** In collecting and disseminating information under this section, the Administrator shall coordinate his actions and cooperate to the maximum extent possible with State and local authorities.
 - **(g)** Upon request, the full range of alternative technologies, programs or processes deemed feasible to meet the resource recovery or resource conservation needs of a jurisdiction shall be described in such a manner as to provide a sufficient evaluative basis from which the jurisdiction can make its decisions, but no officer or employee of the Environmental Protection Agency shall, in an official capacity, lobby for or otherwise represent an agency position in favor of resource recovery or resource conservation, as a policy alternative for adoption into ordinances, codes, regulations, or law by any State or political subdivision thereof.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 8003](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 94–580, § 2](https://www.govinfo.gov/link/plaw/94/public/580), Oct. 21, 1976, [90 Stat. 2834](https://www.govinfo.gov/link/statute/90/2834); amended [Pub. L. 95–609, § 7(u)](https://www.govinfo.gov/link/plaw/95/public/609), Nov. 8, 1978, [92 Stat. 3083](https://www.govinfo.gov/link/statute/92/3083).)*

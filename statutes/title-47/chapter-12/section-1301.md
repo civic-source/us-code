@@ -3,9 +3,10 @@ title: "Section 1301 - Findings"
 usc_title: 47
 usc_section: "1301"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 1301"
-generated_at: "2026-03-30T02:56:24.530Z"
+generated_at: "2026-11-23T20:27:28.985Z"
+status: "active"
 ---
 
 # § 1301. Findings
@@ -16,3 +17,47 @@ The Congress finds the following:
   - **(2)** Continued progress in the deployment and adoption of broadband technology is vital to ensuring that our Nation remains competitive and continues to create business and job growth.
   - **(3)** Improving Federal data on the deployment and adoption of broadband service will assist in the development of broadband technology across all regions of the Nation.
   - **(4)** The Federal Government should also recognize and encourage complementary State efforts to improve the quality and usefulness of broadband data and should encourage and support the partnership of the public and private sectors in the continued growth of broadband services and information technology for the residents and businesses of the Nation.
+
+Tribal Broadband Data Report.—
+
+In general
+
+Required assessments
+
+Tribal Broadband Proceeding
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Donald J. Trump.
+
+Section
+
+Sec
+
+Sec
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 110–385, title I, § 102](https://www.govinfo.gov/link/plaw/110/public/385), Oct. 10, 2008, [122 Stat. 4096](https://www.govinfo.gov/link/statute/122/4096).)*

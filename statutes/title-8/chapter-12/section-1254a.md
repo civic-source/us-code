@@ -3,9 +3,10 @@ title: "Section 1254a - Temporary protected status"
 usc_title: 8
 usc_section: "1254a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1254a"
-generated_at: "2026-03-30T02:53:10.490Z"
+generated_at: "2026-11-23T20:25:36.172Z"
+status: "active"
 ---
 
 # § 1254a. Temporary protected status
@@ -103,3 +104,35 @@ generated_at: "2026-03-30T02:53:10.490Z"
     - **(B)** the number of nationals of each such state who have been granted temporary protected status under this section and their immigration status before being granted such status, and
     - **(C)** an explanation of the reasons why foreign states or parts thereof were designated under subsection (b)(1) and, with respect to foreign states or parts thereof previously designated, why the designation was terminated or extended under subsection (b)(3).
   - **(2)** No later than 180 days after the date of receipt of such a report, the Committee on the Judiciary of each House of Congress shall report to its respective House such oversight findings and legislation as it deems appropriate.
+
+Designation.—
+
+In general
+
+Period of designation
+
+Aliens Eligible.—
+
+In general
+
+Registration fee
+
+Application of Certain Provisions.—
+
+In general
+
+Provisions not applicable
+
+month period of registration and work authorization
+
+Reentry permitted after departure for emergency circumstances
+
+Enforcement of Requirement to Depart at Time of Termination of Designation.—
+
+Show cause order at time of final registration
+
+Sanction for failure to appear
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 5, § 244, formerly § 244A, as added and amended [Pub. L. 101–649, title III, § 302(a)](https://www.govinfo.gov/link/plaw/101/public/649), title VI, § 603(a)(24), Nov. 29, 1990, [104 Stat. 5030](https://www.govinfo.gov/link/statute/104/5030), 5084; [Pub. L. 102–232, title III](https://www.govinfo.gov/link/plaw/102/public/232), §§ 304(b), 307(l)(5), Dec. 12, 1991, [105 Stat. 1749](https://www.govinfo.gov/link/statute/105/1749), 1756; [Pub. L. 103–416, title II, § 219(j)](https://www.govinfo.gov/link/plaw/103/public/416), (z)(2), Oct. 25, 1994, [108 Stat. 4317](https://www.govinfo.gov/link/statute/108/4317), 4318; renumbered § 244 and amended [Pub. L. 104–208, div. C, title III, § 308(b)(7)](https://www.govinfo.gov/link/plaw/104/public/208), (e)(1)(G), (11), (g)(7)(E)(i), (8)(A)(i), Sept. 30, 1996, [110 Stat. 3009–615](https://www.govinfo.gov/link/statute/110/3009), 3009–619, 3009–620, 3009–624; [Pub. L. 119–21, title X, § 100006](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 369](https://www.govinfo.gov/link/statute/139/369).)*

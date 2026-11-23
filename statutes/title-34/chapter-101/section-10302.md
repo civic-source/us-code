@@ -3,9 +3,10 @@ title: "Section 10302 - Basic eligibility"
 usc_title: 34
 usc_section: "10302"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10302"
-generated_at: "2026-03-30T02:55:33.266Z"
+generated_at: "2026-11-23T20:26:50.456Z"
+status: "active"
 ---
 
 # § 10302. Basic eligibility
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:33.266Z"
     - **(B)** In addition to an extension under subparagraph (A), if any, for an application for assistance under this part that relates to a claim for benefits under part A that was approved more than 1 year after the date on which the claim was filed with the Attorney General, the age limitation under this subsection shall be extended by the length of the period—
       - **(i)** beginning on the day after the date that is 1 year after the date on which the claim for benefits is submitted; and
       - **(ii)** ending on the date on which the claim for benefits is approved.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 1212](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 104–238, § 2(2)](https://www.govinfo.gov/link/plaw/104/public/238), Oct. 3, 1996, [110 Stat. 3114](https://www.govinfo.gov/link/statute/110/3114); amended [Pub. L. 105–390, § 2(3)](https://www.govinfo.gov/link/plaw/105/public/390), Nov. 13, 1998, [112 Stat. 3495](https://www.govinfo.gov/link/statute/112/3495); [Pub. L. 112–239, div. A, title X, § 1086(b)(1)(G)](https://www.govinfo.gov/link/plaw/112/public/239), (H), Jan. 2, 2013, [126 Stat. 1968](https://www.govinfo.gov/link/statute/126/1968); [Pub. L. 115–36, § 3](https://www.govinfo.gov/link/plaw/115/public/36), June 2, 2017, [131 Stat. 851](https://www.govinfo.gov/link/statute/131/851).)*

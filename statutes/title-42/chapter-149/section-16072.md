@@ -3,9 +3,10 @@ title: "Section 16072 - Reports to Congress"
 usc_title: 42
 usc_section: "16072"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16072"
-generated_at: "2026-03-30T02:56:11.467Z"
+generated_at: "2026-11-23T20:27:23.605Z"
+status: "active"
 ---
 
 # § 16072. Reports to Congress
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.467Z"
 - **(b)** Not later than 3 years after August 8, 2005 , and annually thereafter until the pilot program ends, the Secretary shall submit to Congress a report containing an evaluation of the effectiveness of the pilot program, including—
   - **(1)** an assessment of the benefits to the environment derived from the projects included in the pilot program; and
   - **(2)** an estimate of the potential benefits to the environment to be derived from widespread application of alternative fueled vehicles and ultra-low sulfur diesel vehicles.
+
+## Source Credit
+
+*([Pub. L. 109–58, title VII, § 722](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 820](https://www.govinfo.gov/link/statute/119/820).)*

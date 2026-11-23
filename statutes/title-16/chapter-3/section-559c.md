@@ -3,9 +3,10 @@ title: "Section 559c - Powers of officers and employees of Forest Service"
 usc_title: 16
 usc_section: "559c"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 559c"
-generated_at: "2026-03-30T02:54:22.876Z"
+generated_at: "2026-11-23T20:26:20.150Z"
+status: "active"
 ---
 
 # § 559c. Powers of officers and employees of Forest Service
@@ -18,3 +19,7 @@ For the purposes of sections 559b to 559f of this title, if specifically designa
   - **(4)** serve warrants and other process issued by a court or officer of competent jurisdiction;
   - **(5)** search with or without warrant or process any person, place, or conveyance according to Federal law or rule of law; and
   - **(6)** seize with or without warrant or process any evidentiary item according to Federal law or rule of law.
+
+## Source Credit
+
+*([Pub. L. 99–570, title XV, § 15003](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–191](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 100–690, title VI, § 6254(b)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4363](https://www.govinfo.gov/link/statute/102/4363).)*

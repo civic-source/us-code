@@ -3,9 +3,10 @@ title: "Section 1072b - Agency Operating Fund"
 usc_title: 20
 usc_section: "1072b"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1072b"
-generated_at: "2026-03-30T02:54:48.111Z"
+generated_at: "2026-11-23T20:26:14.392Z"
+status: "active"
 ---
 
 # § 1072b. Agency Operating Fund
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:48.111Z"
   - **(3)** Notwithstanding paragraphs (1) and (2), during any period in which funds are owed to the Federal Fund as a result of transfer under section 1072a(f) of this title —
     - **(A)** moneys in the Operating Fund may only be used for expenses related to the student loan programs authorized under this part; and
     - **(B)** the Secretary may regulate the uses or expenditure of moneys in the Operating Fund.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 422B](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title IV, § 413(b)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1677](https://www.govinfo.gov/link/statute/112/1677).)*

@@ -3,9 +3,10 @@ title: "Section 12185 - Study"
 usc_title: 42
 usc_section: "12185"
 chapter: 126
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12185"
-generated_at: "2026-03-30T02:56:11.411Z"
+generated_at: "2026-11-23T20:27:23.346Z"
+status: "active"
 ---
 
 # § 12185. Study
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.411Z"
   - **(3)** members selected for their technical expertise on issues included in the study, including manufacturers of boarding assistance equipment and devices.
 - **(d)** The study required by subsection (a), along with recommendations by the Office of Technology Assessment, including any policy options for legislative action, shall be submitted to the President and Congress within 36 months after July 26, 1990 . If the President determines that compliance with the regulations issued pursuant to section 12186(a)(2)(B) of this title on or before the applicable deadlines specified in section 12186(a)(2)(B) of this title will result in a significant reduction in intercity over-the-road bus service, the President shall extend each such deadline by 1 year.
 - **(e)** In developing the study required by subsection (a), the Office of Technology Assessment shall provide a preliminary draft of such study to the Architectural and Transportation Barriers Compliance Board established under section 792 of title 29 . The Board shall have an opportunity to comment on such draft study, and any such comments by the Board made in writing within 120 days after the Board’s receipt of the draft study shall be incorporated as part of the final study required to be submitted under subsection (d).
+
+## Source Credit
+
+*([Pub. L. 101–336, title III, § 305](https://www.govinfo.gov/link/plaw/101/public/336), July 26, 1990, [104 Stat. 360](https://www.govinfo.gov/link/statute/104/360).)*

@@ -3,9 +3,10 @@ title: "Section 20213 - Notice of convening of selection boards"
 usc_title: 10
 usc_section: "20213"
 chapter: 2005
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 20213"
-generated_at: "2026-03-30T02:53:38.280Z"
+generated_at: "2026-11-23T20:25:52.506Z"
+status: "active"
 ---
 
 # § 20213. Notice of convening of selection boards
@@ -15,3 +16,13 @@ generated_at: "2026-03-30T02:53:38.280Z"
   - **(2)** issue a general written notice to the Space Force regarding the convening of the board which shall include the convening date of the board and the name and date of rank of the junior officer, and of the senior officer, in the promotion zone as of the date of the notification.
 - **(b)** An officer eligible for consideration by a selection board convened under section 20211 of this title (other than an officer who has been excluded under section 20231(d) of this title from consideration by the board) may send a written communication to the board, to arrive not later than 10 calendar days before the date on which the board convenes, calling attention to any matter concerning the officer that the officer considers important to the officer’s case. The selection board shall give consideration to any timely communication under this subsection.
 - **(c)** An officer on the Space Force officer list in the grade of colonel or brigadier general who receives a notice under subsection (a) shall inform the Secretary of the officer’s preference to serve either on or off sustained duty if promoted to the grade of brigadier general or major general, respectively.
+
+Notice to Eligible Officers
+
+Communication From Officers
+
+Notice of Intent of Certain Officers To Serve on or Off Active Duty
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title XVII, § 1716(c)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 635](https://www.govinfo.gov/link/statute/137/635).)*

@@ -3,9 +3,10 @@ title: "Section 7427 - Student eligibility forms"
 usc_title: 20
 usc_section: "7427"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 7427"
-generated_at: "2026-03-30T02:54:48.212Z"
+generated_at: "2026-11-23T20:26:14.910Z"
+status: "active"
 ---
 
 # § 7427. Student eligibility forms
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:54:48.212Z"
 - **(g)** For purposes of determining the number of children to be counted in calculating the amount of a local educational agency’s grant under this subpart (other than in the case described in subsection (f)(1)), the local educational agency shall—
   - **(1)** establish a date on, or a period not longer than 31 consecutive days during, which the agency counts those children, if that date or period occurs before the deadline established by the Secretary for submitting an application under section 7424 of this title ; and
   - **(2)** determine that each such child was enrolled, and receiving a free public education, in a school of the agency on that date or during that period, as the case may be.
+
+## Source Credit
+
+*([Pub. L. 89–10, title VI, § 6117](https://www.govinfo.gov/link/plaw/89/public/10), formerly title VII, § 7117, as added [Pub. L. 107–110, title VII, § 701](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1916](https://www.govinfo.gov/link/statute/115/1916); renumbered title VI, § 6117, and amended [Pub. L. 114–95, title VI](https://www.govinfo.gov/link/plaw/114/public/95), §§ 6001(a), (b)(1), (7), 6002(i), Dec. 10, 2015, [129 Stat. 2046](https://www.govinfo.gov/link/statute/129/2046), 2047, 2053.)*

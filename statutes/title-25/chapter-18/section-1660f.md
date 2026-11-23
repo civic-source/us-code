@@ -3,12 +3,17 @@ title: "Section 1660f - Community Health Representatives"
 usc_title: 25
 usc_section: "1660f"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1660f"
-generated_at: "2026-03-30T02:54:52.824Z"
+generated_at: "2026-11-23T20:26:25.512Z"
+status: "active"
 ---
 
 # § 1660f. Community Health Representatives
 
 The Secretary, acting through the Service, may enter into contracts with, and make grants to, urban Indian organizations for the employment of Indians trained as health service providers through the Community Health Representative Program under section 1616 of this title in the provision of health care, health promotion, and disease prevention services to urban Indians.
 
+
+## Source Credit
+
+*([Pub. L. 94–437, title V, § 516](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

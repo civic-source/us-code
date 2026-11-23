@@ -3,9 +3,10 @@ title: "Section 6107 - Reissuance of benefits"
 usc_title: 38
 usc_section: "6107"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 6107"
-generated_at: "2026-03-30T02:55:53.523Z"
+generated_at: "2026-11-23T20:27:01.973Z"
+status: "active"
 ---
 
 # § 6107. Reissuance of benefits
@@ -22,3 +23,15 @@ generated_at: "2026-03-30T02:55:53.523Z"
   - **(1)** The Secretary shall establish methods and timing with respect to determining whether an instance of misuse by a fiduciary, of all or part of an individual’s benefit paid to such fiduciary, is the result of negligence by the Secretary.
   - **(2)** The Secretary may not withhold the reissuing of a benefit payment under subsection (a)(1) by reason of a pending determination under paragraph (1).
   - **(3)** The Secretary is not required to make a determination under paragraph (1) for each instance of misuse by a fiduciary, of all or part of an individual’s benefit paid to such fiduciary.
+
+Reissuance of Misused Benefits
+
+Reissuance of Amounts in the Case of a Deceased Beneficiary
+
+Limitation on Total Amount Paid
+
+Oversight of Negligence
+
+## Source Credit
+
+*(Added [Pub. L. 108–454, title V, § 503(a)(1)](https://www.govinfo.gov/link/plaw/108/public/454), Dec. 10, 2004, [118 Stat. 3619](https://www.govinfo.gov/link/statute/118/3619); amended [Pub. L. 116–315, title VII, § 7005(a)](https://www.govinfo.gov/link/plaw/116/public/315), Jan. 5, 2021, [134 Stat. 5059](https://www.govinfo.gov/link/statute/134/5059); [Pub. L. 118–114, § 2](https://www.govinfo.gov/link/plaw/118/public/114), Nov. 25, 2024, [138 Stat. 1605](https://www.govinfo.gov/link/statute/138/1605); [Pub. L. 119–56, § 2](https://www.govinfo.gov/link/plaw/119/public/56), Dec. 12, 2025, [139 Stat. 709](https://www.govinfo.gov/link/statute/139/709).)*

@@ -3,9 +3,10 @@ title: "Section 1705 - Tidelands, submerged lands, or filled lands"
 usc_title: 48
 usc_section: "1705"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1705"
-generated_at: "2026-03-30T02:56:14.590Z"
+generated_at: "2026-11-23T20:27:28.066Z"
+status: "active"
 ---
 
 # § 1705. Tidelands, submerged lands, or filled lands
@@ -27,3 +28,13 @@ generated_at: "2026-03-30T02:56:14.590Z"
 - **(d)**
   - **(1)** The Secretary of the Interior shall, not later than sixty days after the date of enactment of this subsection, convey to the governments of Guam, the Commonwealth of the Northern Mariana Islands, the Virgin Islands, and American Samoa, as the case may be, all right, title, and interest of the United States in deposits of oil, gas, and other minerals in the submerged lands conveyed to the government of such territory by subsection (a) of this section.
   - **(2)** The conveyance of mineral deposits under paragraph (1) of this subsection shall be subject to any existing lease, permit, or other interest granted by the United States prior to the date of such conveyance. All rentals, royalties, or fees which accrue after such date of conveyance in connection with any such lease, permit, or other interest shall be payable to the government of the territory to which such mineral deposits are conveyed.
+
+Gerald R. Ford.
+
+Gerald R. Ford.
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 93–435, § 1](https://www.govinfo.gov/link/plaw/93/public/435), Oct. 5, 1974, [88 Stat. 1210](https://www.govinfo.gov/link/statute/88/1210); [Pub. L. 96–205, title VI, § 607](https://www.govinfo.gov/link/plaw/96/public/205), Mar. 12, 1980, [94 Stat. 91](https://www.govinfo.gov/link/statute/94/91); [Pub. L. 103–437, § 17(b)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4595](https://www.govinfo.gov/link/statute/108/4595); [Pub. L. 113–34, § 1(a)](https://www.govinfo.gov/link/plaw/113/public/34), Sept. 18, 2013, [127 Stat. 518](https://www.govinfo.gov/link/statute/127/518).)*

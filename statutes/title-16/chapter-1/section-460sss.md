@@ -3,9 +3,10 @@ title: "Section 460sss - Cow Mountain Recreation Area, Lake and Mendocino Counti
 usc_title: 16
 usc_section: "460sss"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 460sss"
-generated_at: "2026-03-30T02:54:22.847Z"
+generated_at: "2026-11-23T20:26:20.040Z"
+status: "active"
 ---
 
 # § 460sss. Cow Mountain Recreation Area, Lake and Mendocino Counties, California
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:22.847Z"
     - **(C)** purchase from a willing seller, as expressed in a written agreement between the Secretary and the seller.
   - **(2)** Lands or interests in lands within or adjacent to the boundaries of the recreation area that are acquired by the Bureau of Land Management, and title or possession of which is vested in the United States after October 17, 2006 , shall be managed by the Secretary as part of the recreation area.
 - **(g)** Nothing in this section creates protective perimeters or buffer zones around the recreation area.
+
+## Source Credit
+
+*([Pub. L. 109–362, § 9](https://www.govinfo.gov/link/plaw/109/public/362), Oct. 17, 2006, [120 Stat. 2071](https://www.govinfo.gov/link/statute/120/2071).)*

@@ -3,9 +3,10 @@ title: "Section 13342 - Oil substitution through coal liquefaction"
 usc_title: 42
 usc_section: "13342"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13342"
-generated_at: "2026-03-30T02:56:11.442Z"
+generated_at: "2026-11-23T20:27:23.481Z"
+status: "active"
 ---
 
 # § 13342. Oil substitution through coal liquefaction
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.442Z"
   - **(3)** an increase in overall thermal efficiency; and
   - **(4)** a reduction in capital and operating costs through technology improvements.
 - **(c)** Within 180 days after October 24, 1992 , the Secretary shall solicit proposals for conducting activities under this section.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XIII, § 1312](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2976](https://www.govinfo.gov/link/statute/106/2976).)*

@@ -3,9 +3,10 @@ title: "Section 4132 - Eligible affordable housing activities"
 usc_title: 25
 usc_section: "4132"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 4132"
-generated_at: "2026-03-30T02:54:52.859Z"
+generated_at: "2026-11-23T20:26:25.682Z"
+status: "active"
 ---
 
 # § 4132. Eligible affordable housing activities
@@ -27,3 +28,7 @@ Affordable housing activities under this subchapter are activities, in accordanc
   - **(9)**
     - **(A)** Subject to subparagraph (B), the deposit of amounts, including grant amounts under section 4111 of this title , in a reserve account established for an Indian tribe only for the purpose of accumulating amounts for administration and planning relating to affordable housing activities under this section, in accordance with the Indian housing plan of the Indian tribe.
     - **(B)** A reserve account established under subparagraph (A) shall consist of not more than an amount equal to ¼ of the 5-year average of the annual amount used by a recipient for administration and planning under paragraph (2).
+
+## Source Credit
+
+*([Pub. L. 104–330, title II, § 202](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4032](https://www.govinfo.gov/link/statute/110/4032); [Pub. L. 107–292, § 8](https://www.govinfo.gov/link/plaw/107/public/292), Nov. 13, 2002, [116 Stat. 2055](https://www.govinfo.gov/link/statute/116/2055); [Pub. L. 109–58, title V, § 506(b)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 779](https://www.govinfo.gov/link/statute/119/779); [Pub. L. 110–411, title II, § 202](https://www.govinfo.gov/link/plaw/110/public/411), Oct. 14, 2008, [122 Stat. 4325](https://www.govinfo.gov/link/statute/122/4325).)*

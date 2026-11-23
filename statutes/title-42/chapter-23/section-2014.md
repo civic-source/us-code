@@ -3,9 +3,10 @@ title: "Section 2014 - Definitions"
 usc_title: 42
 usc_section: "2014"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2014"
-generated_at: "2026-03-30T02:56:11.145Z"
+generated_at: "2026-11-23T20:27:22.043Z"
+status: "active"
 ---
 
 # § 2014. Definitions
@@ -62,3 +63,21 @@ The intent of Congress in the definitions as given in this section should be con
   - **(2)** initiated by an official of a State or a political subdivision of a State, who is authorized by State law to initiate such an evacuation and who reasonably determined that such an evacuation was necessary to protect the public health and safety.
 - **(ii)** The term “public liability action”, as used in section 2210 of this title , means any suit asserting public liability. A public liability action shall be deemed to be an action arising under section 2210 of this title , and the substantive rules for decision in such action shall be derived from the law of the State in which the nuclear incident involved occurs, unless such law is inconsistent with the provisions of such section.
 - **(jj)** The term “transuranic waste” means material contaminated with elements that have an atomic number greater than 92, including neptunium, plutonium, americium, and curium, and that are in concentrations greater than 10 nanocuries per gram, or in such other concentrations as the Nuclear Regulatory Commission may prescribe to protect the public health and safety.
+
+Fusion Machine
+
+High-level Radioactive Waste; Spent Nuclear Fuel
+
+Legal Costs
+
+Nuclear Waste Activities
+
+Precautionary Evacuation
+
+Public Liability Action
+
+Transuranic Waste
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 11, as added Aug. 30, 1954, ch. 1073, § 1, [68 Stat. 922](https://www.govinfo.gov/link/statute/68/922); amended Aug. 6, 1956, ch. 1015, § 1, [70 Stat. 1069](https://www.govinfo.gov/link/statute/70/1069); [Pub. L. 85–256, § 3](https://www.govinfo.gov/link/plaw/85/public/256), Sept. 2, 1957, [71 Stat. 576](https://www.govinfo.gov/link/statute/71/576); [Pub. L. 85–602, § 1](https://www.govinfo.gov/link/plaw/85/public/602), Aug. 8, 1958, [72 Stat. 525](https://www.govinfo.gov/link/statute/72/525); [Pub. L. 87–206](https://www.govinfo.gov/link/plaw/87/public/206), §§ 2, 3, Sept. 6, 1961, [75 Stat. 476](https://www.govinfo.gov/link/statute/75/476); [Pub. L. 87–615](https://www.govinfo.gov/link/plaw/87/public/615), §§ 4, 5, Aug. 29, 1962, [76 Stat. 410](https://www.govinfo.gov/link/statute/76/410); [Pub. L. 89–645, § 1(a)](https://www.govinfo.gov/link/plaw/89/public/645), Oct. 13, 1966, [80 Stat. 891](https://www.govinfo.gov/link/statute/80/891); [Pub. L. 94–197, § 1](https://www.govinfo.gov/link/plaw/94/public/197), Dec. 31, 1975, [89 Stat. 1111](https://www.govinfo.gov/link/statute/89/1111); [Pub. L. 95–604, title II, § 201](https://www.govinfo.gov/link/plaw/95/public/604), Nov. 8, 1978, [92 Stat. 3033](https://www.govinfo.gov/link/statute/92/3033); [Pub. L. 100–408](https://www.govinfo.gov/link/plaw/100/public/408), §§ 4(b)–5(b), 11(b), (d)(2), 16(a)(1), (b)(1), (2), (d)(1)–(3), Aug. 20, 1988, [102 Stat. 1069](https://www.govinfo.gov/link/statute/102/1069), 1070, 1076, 1078–1080; [Pub. L. 101–575, § 5(a)](https://www.govinfo.gov/link/plaw/101/public/575), Nov. 15, 1990, [104 Stat. 2835](https://www.govinfo.gov/link/statute/104/2835); renumbered title I and amended [Pub. L. 102–486, title IX, § 902(a)(8)](https://www.govinfo.gov/link/plaw/102/public/486), title XI, § 1102, Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944), 2955; [Pub. L. 103–437, § 15(f)(1)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4592](https://www.govinfo.gov/link/statute/108/4592); [Pub. L. 104–134, title III, § 3116(b)(1)](https://www.govinfo.gov/link/plaw/104/public/134), Apr. 26, 1996, [110 Stat. 1321–349](https://www.govinfo.gov/link/statute/110/1321); [Pub. L. 109–58, title VI, § 651(e)(1)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 806](https://www.govinfo.gov/link/statute/119/806); [Pub. L. 118–47, div. G, title I, § 107(d)](https://www.govinfo.gov/link/plaw/118/public/47), Mar. 23, 2024, [138 Stat. 857](https://www.govinfo.gov/link/statute/138/857); [Pub. L. 118–67, div. B, title II, § 205(a)](https://www.govinfo.gov/link/plaw/118/public/67), July 9, 2024, [138 Stat. 1460](https://www.govinfo.gov/link/statute/138/1460).)*

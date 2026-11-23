@@ -3,9 +3,10 @@ title: "Section 4309 - Suspension and termination of orders"
 usc_title: 7
 usc_section: "4309"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 4309"
-generated_at: "2026-03-30T02:53:42.406Z"
+generated_at: "2026-11-23T20:25:41.616Z"
+status: "active"
 ---
 
 # § 4309. Suspension and termination of orders
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:53:42.406Z"
 - **(a)** Whenever the Secretary finds that any order issued under this chapter, or any provisions thereof, obstructs or does not tend to effectuate the declared policy of this chapter, the Secretary shall terminate or suspend the operation of such order or such provisions thereof.
 - **(b)** The Secretary may conduct a referendum at any time, and shall hold a referendum on request of 10 per centum or more of the number of producers and importers voting in the referendum approving the order, to determine whether such producers and importers favor the termination or suspension of the order, and shall suspend or terminate such order six months after the Secretary determines that suspension or termination of the order is approved or favored by a majority of the producers and importers voting in such referendum who, during a representative period determined by the Secretary, have been engaged in the production or importation of flowers and plants.
 - **(c)** The termination or suspension of any order, or any provision thereof, shall not be considered an order within the meaning of this chapter.
+
+## Source Credit
+
+*([Pub. L. 97–98, title XVII, § 1710](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1354](https://www.govinfo.gov/link/statute/95/1354).)*

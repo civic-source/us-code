@@ -3,9 +3,10 @@ title: "Section 1171 - Procedures to determine presumptions of service connectio
 usc_title: 38
 usc_section: "1171"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 1171"
-generated_at: "2026-03-30T02:55:53.478Z"
+generated_at: "2026-11-23T20:27:01.618Z"
+status: "active"
 ---
 
 # § 1171. Procedures to determine presumptions of service connection based on toxic exposure; definitions
@@ -24,3 +25,25 @@ generated_at: "2026-03-30T02:55:53.478Z"
 - **(b)** In this subchapter:
   - **(1)** The term “illness” includes a disease or other condition affecting the health of an individual, including mental and physical health.
   - **(2)** The term “Individual Longitudinal Exposure Record” means the data system maintained under section 996 of title 10 .
+
+Procedures
+
+Definitions
+
+In General
+
+Evidence.—
+
+Provision of evidence
+
+Regulations
+
+Definitions
+
+Individual longitudinal exposure record
+
+Toxic exposure
+
+## Source Credit
+
+*(Added [Pub. L. 117–168, title II, § 202(a)](https://www.govinfo.gov/link/plaw/117/public/168), Aug. 10, 2022, [136 Stat. 1767](https://www.govinfo.gov/link/statute/136/1767); amended [Pub. L. 119–60, div. A, title V, § 521(b)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 864](https://www.govinfo.gov/link/statute/139/864).)*

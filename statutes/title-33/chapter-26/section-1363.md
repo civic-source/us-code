@@ -3,9 +3,10 @@ title: "Section 1363 - Water Pollution Control Advisory Board"
 usc_title: 33
 usc_section: "1363"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1363"
-generated_at: "2026-03-30T02:55:41.103Z"
+generated_at: "2026-11-23T20:26:54.063Z"
+status: "active"
 ---
 
 # § 1363. Water Pollution Control Advisory Board
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:41.103Z"
     - **(B)** The members of the Board who are not officers or employees of the United States, while attending conferences or meetings of the Board or while serving at the request of the Administrator, shall be entitled to receive compensation at a rate to be fixed by the Administrator, but not exceeding $100 per diem, including travel-time, and while away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons in the Government service employed intermittently.
 - **(b)** The Board shall advise, consult with, and make recommendations to the Administrator on matters of policy relating to the activities and functions of the Administrator under this chapter.
 - **(c)** Such clerical and technical assistance as may be necessary to discharge the duties of the Board shall be provided from the personnel of the Environmental Protection Agency.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title V, § 503, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 887](https://www.govinfo.gov/link/statute/86/887).)*

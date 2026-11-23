@@ -3,9 +3,10 @@ title: "Section 381 - Imposition of net income tax"
 usc_title: 15
 usc_section: "381"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 381"
-generated_at: "2026-03-30T02:54:08.084Z"
+generated_at: "2026-11-23T20:26:03.710Z"
+status: "active"
 ---
 
 # § 381. Imposition of net income tax
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:08.084Z"
 - **(d)** For purposes of this section—
   - **(1)** the term “independent contractor” means a commission agent, broker, or other independent contractor who is engaged in selling, or soliciting orders for the sale of, tangible personal property for more than one principal and who holds himself out as such in the regular course of his business activities; and
   - **(2)** the term “representative” does not include an independent contractor.
+
+## Source Credit
+
+*([Pub. L. 86–272, title I, § 101](https://www.govinfo.gov/link/plaw/86/public/272), Sept. 14, 1959, [73 Stat. 555](https://www.govinfo.gov/link/statute/73/555).)*

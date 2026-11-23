@@ -3,9 +3,10 @@ title: "Section 9591 - Administrative powers"
 usc_title: 15
 usc_section: "9591"
 chapter: 120
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 9591"
-generated_at: "2026-03-30T02:54:08.249Z"
+generated_at: "2026-11-23T20:26:04.580Z"
+status: "active"
 ---
 
 # § 9591. Administrative powers
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:08.249Z"
 - **(b)**
   - **(1)** Subject to paragraph (2), in carrying out this chapter, the Under Secretary may, without cost (except for costs of care and handling), allow any public sector entity, or any recipient nonprofit organization, for the purpose of the development of minority business enterprises, to use any real or tangible personal property acquired by the Agency in carrying out this chapter.
   - **(2)** The Under Secretary may impose reasonable terms, conditions, reservations, and restrictions upon the use of any property under paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 117–58, div. K, title VII, § 100701](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1464](https://www.govinfo.gov/link/statute/135/1464).)*

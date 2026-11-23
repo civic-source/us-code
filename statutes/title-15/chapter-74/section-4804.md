@@ -3,9 +3,10 @@ title: "Section 4804 - Membership"
 usc_title: 15
 usc_section: "4804"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 4804"
-generated_at: "2026-03-30T02:54:08.204Z"
+generated_at: "2026-11-23T20:26:04.359Z"
+status: "active"
 ---
 
 # § 4804. Membership
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:54:08.204Z"
 - **(k)**
   - **(1)** Each member of the Council shall designate one alternate representative to attend any meeting that such member is unable to attend.
   - **(2)** In the course of attending any such meeting, an alternate representative shall be considered a member of the Council for all purposes, except for voting.
+
+## Source Credit
+
+*([Pub. L. 100–418, title V, § 5205](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1457](https://www.govinfo.gov/link/statute/102/1457); [Pub. L. 101–382, title I, § 133(a)](https://www.govinfo.gov/link/plaw/101/public/382), Aug. 20, 1990, [104 Stat. 648](https://www.govinfo.gov/link/statute/104/648); [Pub. L. 104–65, § 12(a)](https://www.govinfo.gov/link/plaw/104/public/65), Dec. 19, 1995, [109 Stat. 701](https://www.govinfo.gov/link/statute/109/701).)*

@@ -3,9 +3,10 @@ title: "Section 6232 - Fees for occupancy and use of National Forest System land
 usc_title: 16
 usc_section: "6232"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6232"
-generated_at: "2026-03-30T02:54:23.055Z"
+generated_at: "2026-11-23T20:26:20.789Z"
+status: "active"
 ---
 
 # § 6232. Fees for occupancy and use of National Forest System lands and facilities by organizational camps
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:23.055Z"
   - **(2)** Notwithstanding subsection (d), the facility use fees determined under paragraph (1) shall not be subject to a reduction or waiver.
 - **(c)** If an organizational camp derives revenue from the use of National Forest System lands or authorized facilities described in subsection (b) for purposes other than to introduce young people or individuals with a disability to activities that they may not otherwise experience and to educate them on natural resource issues, the Secretary shall charge, in addition to the land use fee imposed under subsection (a) and the facility use fee imposed under subsection (b), an additional fee equal to 5 percent of that revenue.
 - **(d)** Subject to subsections (a)(4) and (b)(2), section 539f of this title shall apply to the use fees imposed under this section.
+
+## Source Credit
+
+*([Pub. L. 108–7, div. F, title V, § 503](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 295](https://www.govinfo.gov/link/statute/117/295).)*

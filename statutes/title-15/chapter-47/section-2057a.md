@@ -3,9 +3,10 @@ title: "Section 2057a - Banning of butyl nitrite"
 usc_title: 15
 usc_section: "2057a"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2057a"
-generated_at: "2026-03-30T02:54:08.163Z"
+generated_at: "2026-11-23T20:26:04.152Z"
+status: "active"
 ---
 
 # § 2057a. Banning of butyl nitrite
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.163Z"
   - **(1)** The term “butyl nitrite” includes n-butyl nitrite, isobutyl nitrite, secondary butyl nitrite, tertiary butyl nitrite, and mixtures containing these chemicals.
   - **(2)** The term “commercial purpose” means any commercial purpose other than for the production of consumer products containing butyl nitrite that may be used for inhaling or otherwise introducing butyl nitrite into the human body for euphoric or physical effects.
 - **(d)** This section shall take effect 90 days after November 18, 1988 .
+
+## Source Credit
+
+*([Pub. L. 100–690, title II, § 2404](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4231](https://www.govinfo.gov/link/statute/102/4231).)*

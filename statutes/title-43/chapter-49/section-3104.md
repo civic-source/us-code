@@ -3,9 +3,10 @@ title: "Section 3104 - 3D elevation program"
 usc_title: 43
 usc_section: "3104"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 3104"
-generated_at: "2026-03-30T02:55:57.501Z"
+generated_at: "2026-11-23T20:27:06.429Z"
+status: "active"
 ---
 
 # § 3104. 3D elevation program
@@ -82,3 +83,7 @@ generated_at: "2026-03-30T02:55:57.501Z"
   - **(3)** A grant or cooperative agreement under this subsection shall be subject to such terms and conditions as the Secretary determines to be appropriate, including making data publically available and interoperable with other Federal datasets.
 - **(e)** For each of fiscal years 2021 through 2024, there is authorized to be appropriated to the Secretary $40,000,000 to carry out this section.
 - **(f)** Funds to carry out the activities under this section shall be derived from amounts authorized to be appropriated to the Secretary that are enacted after January 5, 2021 .
+
+## Source Credit
+
+*([Pub. L. 116–323, § 5](https://www.govinfo.gov/link/plaw/116/public/323), Jan. 5, 2021, [134 Stat. 5081](https://www.govinfo.gov/link/statute/134/5081).)*

@@ -3,9 +3,10 @@ title: "Section 10507 - Survey to compile registration and voting statistics"
 usc_title: 52
 usc_section: "10507"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "52 U.S.C. § 10507"
-generated_at: "2026-03-30T02:56:30.161Z"
+generated_at: "2026-11-23T20:27:36.959Z"
+status: "active"
 ---
 
 # § 10507. Survey to compile registration and voting statistics
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:30.161Z"
 - **(b)** In any survey under subsection (a) of this section no person shall be compelled to disclose his race, color, national origin, political party affiliation, or how he voted (or the reasons therefor), nor shall any penalty be imposed for his failure or refusal to make such disclosures. Every person interrogated orally, by written survey or questionnaire, or by any other means with respect to such information shall be fully advised of his right to fail or refuse to furnish such information.
 - **(c)** The Director of the Census shall, at the earliest practicable time, report to the Congress the results of every survey conducted pursuant to the provisions of subsection (a) of this section.
 - **(d)** The provisions of section 9 and chapter 7 of title 13 shall apply to any survey, collection, or compilation of registration and voting statistics carried out under subsection (a) of this section.
+
+## Source Credit
+
+*([Pub. L. 89–110, title II, § 207](https://www.govinfo.gov/link/plaw/89/public/110), as added [Pub. L. 94–73, title IV, § 403](https://www.govinfo.gov/link/plaw/94/public/73), Aug. 6, 1975, [89 Stat. 404](https://www.govinfo.gov/link/statute/89/404).)*

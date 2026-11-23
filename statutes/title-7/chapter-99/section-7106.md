@@ -3,9 +3,10 @@ title: "Section 7106 - Petition and review"
 usc_title: 7
 usc_section: "7106"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7106"
-generated_at: "2026-03-30T02:53:42.444Z"
+generated_at: "2026-11-23T20:25:41.756Z"
+status: "active"
 ---
 
 # § 7106. Petition and review
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:42.444Z"
   - **(3)** If the court determines that the ruling is not in accordance with law, the court shall remand the matter to the Secretary with directions—
     - **(A)** to make such ruling as the court shall determine to be in accordance with law; or
     - **(B)** to take such further action as, in the opinion of the court, the law requires.
+
+## Source Credit
+
+*([Pub. L. 103–407, § 7](https://www.govinfo.gov/link/plaw/103/public/407), Oct. 22, 1994, [108 Stat. 4224](https://www.govinfo.gov/link/statute/108/4224).)*

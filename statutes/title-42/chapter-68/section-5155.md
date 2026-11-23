@@ -3,9 +3,10 @@ title: "Section 5155 - Duplication of benefits"
 usc_title: 42
 usc_section: "5155"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5155"
-generated_at: "2026-03-30T02:56:11.221Z"
+generated_at: "2026-11-23T20:27:22.476Z"
+status: "active"
 ---
 
 # § 5155. Duplication of benefits
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.221Z"
   - **(3)** Receipt of partial benefits for a major disaster or emergency shall not preclude provision of additional Federal assistance for any part of a loss or need for which benefits have not been provided.
 - **(c)** A person receiving Federal assistance for a major disaster or emergency shall be liable to the United States to the extent that such assistance duplicates benefits available to the person for the same purpose from another source. The agency which provided the duplicative assistance shall collect such duplicative assistance from the recipient in accordance with chapter 37 of title 31, relating to debt collection, when the head of such agency considers it to be in the best interest of the Federal Government.
 - **(d)** Federal major disaster and emergency assistance provided to individuals and families under this chapter, and comparable disaster assistance provided by States, local governments, and disaster assistance organizations, shall not be considered as income or a resource when determining eligibility for or benefit levels under federally funded income assistance or resource-tested benefit programs.
+
+## Source Credit
+
+*([Pub. L. 93–288, title III, § 312](https://www.govinfo.gov/link/plaw/93/public/288), as added [Pub. L. 100–707, title I, § 105(i)](https://www.govinfo.gov/link/plaw/100/public/707), Nov. 23, 1988, [102 Stat. 4693](https://www.govinfo.gov/link/statute/102/4693); amended [Pub. L. 115–254, div. D, § 1210(a)(1)](https://www.govinfo.gov/link/plaw/115/public/254), (4), Oct. 5, 2018, [132 Stat. 3442](https://www.govinfo.gov/link/statute/132/3442), 3443.)*

@@ -3,9 +3,10 @@ title: "Section 4253 - Exemptions"
 usc_title: 26
 usc_section: "4253"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 4253"
-generated_at: "2026-03-30T02:55:27.801Z"
+generated_at: "2026-11-23T20:26:46.302Z"
+status: "active"
 ---
 
 # § 4253. Exemptions
@@ -26,3 +27,11 @@ generated_at: "2026-03-30T02:55:27.801Z"
   - **(2)** Any statement provided under paragraph (1) shall remain in effect until—
     - **(A)** the provider of communications services has actual knowledge that the information provided in such statement is false, or
     - **(B)** such provider is notified by the Secretary that the provider of the statement is no longer entitled to an exemption described in paragraph (1).
+
+In general
+
+Duration of existing certificates
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 504; [Pub. L. 85–859, title I, § 133(a)](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1290](https://www.govinfo.gov/link/statute/72/1290); [Pub. L. 86–344, § 4(a)](https://www.govinfo.gov/link/plaw/86/public/344), Sept. 21, 1959, [73 Stat. 619](https://www.govinfo.gov/link/statute/73/619); [Pub. L. 87–508, § 4(b)](https://www.govinfo.gov/link/plaw/87/public/508), June 28, 1962, [76 Stat. 115](https://www.govinfo.gov/link/statute/76/115); [Pub. L. 89–44, title III, § 302](https://www.govinfo.gov/link/plaw/89/public/44), June 21, 1965, [79 Stat. 146](https://www.govinfo.gov/link/statute/79/146); [Pub. L. 89–368, title II, § 202(b)](https://www.govinfo.gov/link/plaw/89/public/368), Mar. 15, 1966, [80 Stat. 66](https://www.govinfo.gov/link/statute/80/66); [Pub. L. 91–172, title I, § 101(j)(27)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 529](https://www.govinfo.gov/link/statute/83/529); [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1904(a)(6), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1811](https://www.govinfo.gov/link/statute/90/1811), 1834; [Pub. L. 101–508, title XI, § 11217(c)(1)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–438](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 109–280, title XII, § 1207(c)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1070](https://www.govinfo.gov/link/statute/120/1070).)*

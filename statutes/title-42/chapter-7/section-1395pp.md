@@ -3,9 +3,10 @@ title: "Section 1395pp - Limitation on liability where claims are disallowed"
 usc_title: 42
 usc_section: "1395pp"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1395pp"
-generated_at: "2026-03-30T02:56:11.009Z"
+generated_at: "2026-11-23T20:27:21.403Z"
+status: "active"
 ---
 
 # § 1395pp. Limitation on liability where claims are disallowed
@@ -40,3 +41,17 @@ generated_at: "2026-03-30T02:56:11.009Z"
   - **(2)** furnishes an item or service to a beneficiary for which payment is denied in advance under section 1395m(a)(15) of this title ; or
   - **(3)** furnishes an item or service to a beneficiary for which no payment may be made by reason of section 1395m(a)(17)(B) of this title ,
 - **(i)** The provisions of this section shall apply with respect to a denial of a payment under this subchapter by reason of section 1395f(a)(7)(E) of this title in the same manner as such provisions apply with respect to a denial of a payment under this subchapter by reason of section 1395y(a)(1) of this title .
+
+Data collection
+
+Outreach and education
+
+report on use of advance beneficiary notices
+
+report on use of prior determination process
+
+Advance beneficiary notice defined
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1879, as added [Pub. L. 92–603, title II, § 213(a)](https://www.govinfo.gov/link/plaw/92/public/603), Oct. 30, 1972, [86 Stat. 1384](https://www.govinfo.gov/link/statute/86/1384); amended [Pub. L. 96–499, title IX, § 956(a)](https://www.govinfo.gov/link/plaw/96/public/499), Dec. 5, 1980, [94 Stat. 2648](https://www.govinfo.gov/link/statute/94/2648); [Pub. L. 97–248, title I](https://www.govinfo.gov/link/plaw/97/public/248), §§ 145, 148(e), Sept. 3, 1982, [96 Stat. 393](https://www.govinfo.gov/link/statute/96/393), 394; [Pub. L. 99–509, title IX](https://www.govinfo.gov/link/plaw/99/public/509), §§ 9305(g)(1), 9341(a)(3), Oct. 21, 1986, [100 Stat. 1991](https://www.govinfo.gov/link/statute/100/1991), 2038; [Pub. L. 100–203, title IV, § 4096(b)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–139](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 101–239, title VI, § 6214(a)](https://www.govinfo.gov/link/plaw/101/public/239), (b), Dec. 19, 1989, [103 Stat. 2252](https://www.govinfo.gov/link/statute/103/2252); [Pub. L. 103–432, title I, § 133(b)](https://www.govinfo.gov/link/plaw/103/public/432), Oct. 31, 1994, [108 Stat. 4421](https://www.govinfo.gov/link/statute/108/4421); [Pub. L. 105–33, title IV, § 4447](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 424](https://www.govinfo.gov/link/statute/111/424); [Pub. L. 112–40, title II, § 261(a)(3)(A)](https://www.govinfo.gov/link/plaw/112/public/40), (B), Oct. 21, 2011, [125 Stat. 423](https://www.govinfo.gov/link/statute/125/423); [Pub. L. 113–185, § 3(b)](https://www.govinfo.gov/link/plaw/113/public/185), Oct. 6, 2014, [128 Stat. 1969](https://www.govinfo.gov/link/statute/128/1969).)*

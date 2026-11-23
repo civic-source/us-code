@@ -3,9 +3,10 @@ title: "Section 16295 - Oil and gas research programs"
 usc_title: 42
 usc_section: "16295"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16295"
-generated_at: "2026-03-30T02:56:11.480Z"
+generated_at: "2026-11-23T20:27:23.659Z"
+status: "active"
 ---
 
 # § 16295. Oil and gas research programs
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:11.480Z"
     - **(D)** Effectively using alternative fuels and renewable energy.
     - **(E)** Development of advanced materials technology for oil and gas exploration and use in harsh environments.
     - **(F)** Education on energy and power generation issues.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 965](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 892](https://www.govinfo.gov/link/statute/119/892).)*

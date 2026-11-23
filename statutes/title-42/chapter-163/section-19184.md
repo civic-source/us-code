@@ -3,9 +3,10 @@ title: "Section 19184 - Definitions"
 usc_title: 42
 usc_section: "19184"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 19184"
-generated_at: "2026-03-30T02:56:11.542Z"
+generated_at: "2026-11-23T20:27:23.865Z"
+status: "active"
 ---
 
 # § 19184. Definitions
@@ -16,3 +17,7 @@ In this part:
   - **(2)** The term “HBCU” has the meaning given the term “part B institution” in section 1061 of title 20 .
   - **(3)** The term “minority serving institution” or “MSI” means Hispanic-Serving Institutions as defined in section 1101a) of title 20; Alaska Native Serving Institutions and Native Hawaiian-Serving Institutions as defined in section 1059d of title 20 ; and Predominantly Black Institutions, Asian American and Native American Pacific Islander-Serving Institutions, and Native American-Serving Nontribal Institutions as defined in section 1067q of title 20 .
   - **(4)** The term “TCU” has the meaning given the term “Tribal College or University” in section 1059c of title 20 .
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title V, § 10526](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1627](https://www.govinfo.gov/link/statute/136/1627).)*

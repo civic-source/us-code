@@ -3,9 +3,10 @@ title: "Section 11022 - Emergency and hazardous chemical inven­tory forms"
 usc_title: 42
 usc_section: "11022"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11022"
-generated_at: "2026-03-30T02:56:11.393Z"
+generated_at: "2026-11-23T20:27:23.267Z"
+status: "active"
 ---
 
 # § 11022. Emergency and hazardous chemical inven­tory forms
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:56:11.393Z"
     - **(B)** In this paragraph, the term “affected community water system” means a community water system (as defined in section 300f(15) of this title ) that receives supplies of drinking water from a source water area, delineated under section 300j–13 of this title , in which a facility that is required to prepare and submit an inventory form under subsection (a)(1) is located.
 - **(f)** Upon request to an owner or operator of a facility which files an inventory form under this section by the fire department with jurisdiction over the facility, the owner or operator of the facility shall allow the fire department to conduct an on-site inspection of the facility and shall provide to the fire department specific location information on hazardous chemicals at the facility.
 - **(g)** The Administrator shall publish a uniform format for inventory forms within three months after October 17, 1986 . If the Administrator does not publish such forms, owners and operators of facilities subject to the requirements of this section shall provide the information required under this section by letter.
+
+## Source Credit
+
+*([Pub. L. 99–499, title III, § 312](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1738](https://www.govinfo.gov/link/statute/100/1738); [Pub. L. 115–270, title II, § 2018(b)](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3858](https://www.govinfo.gov/link/statute/132/3858).)*

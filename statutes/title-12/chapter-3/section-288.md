@@ -3,12 +3,17 @@ title: "Section 288 - Cancellation of stock held by member bank on insolvency or
 usc_title: 12
 usc_section: "288"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 288"
-generated_at: "2026-03-30T02:53:53.377Z"
+generated_at: "2026-11-23T20:25:58.732Z"
+status: "active"
 ---
 
 # § 288. Cancellation of stock held by member bank on insolvency or discontinuance of banking operations for sixty days; repayment of cash-paid subscriptions
 
 If any member bank shall be declared insolvent and a receiver appointed therefor, the stock held by it in said Federal reserve bank shall be canceled, without impairment of its liability, and all cash-paid subscriptions on said stock, with one-half of 1 per centum per month from the period of last dividend, if earned, not to exceed the book value thereof, shall be first applied to all debts of the insolvent member bank to the Federal reserve bank, and the balance, if any, shall be paid to the receiver of the insolvent bank. If any national bank which has not gone into liquidation as provided in section 181 of this title , and for which a receiver has not already been appointed for other lawful cause, shall discontinue its banking operations for a period of sixty days the Comptroller of the Currency may, if he deems it advisable, appoint a receiver for such bank. The stock held by the said national bank in the Federal reserve bank of its district shall thereupon be canceled and said national bank shall receive in payment therefor, under regulations to be prescribed by the Board of Governors of the Federal Reserve System, a sum equal to its cash-paid subscriptions on the shares canceled and one-half of 1 per centum a month from the period of the last dividend, if earned, not to exceed the book value thereof, less any liability of such national bank to the Federal reserve bank.
 
+
+## Source Credit
+
+*(Dec. 23, 1913, ch. 6, § 6, [38 Stat. 258](https://www.govinfo.gov/link/statute/38/258); Apr. 23, 1930, ch. 207, § 1, [46 Stat. 250](https://www.govinfo.gov/link/statute/46/250); Aug. 23, 1935, ch. 614, title II, § 203(a), title III, § 319(b), [49 Stat. 704](https://www.govinfo.gov/link/statute/49/704), 713.)*

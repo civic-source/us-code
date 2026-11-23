@@ -3,9 +3,10 @@ title: "Section 1834 - Reduced assessment rate for deposits attributable to life
 usc_title: 12
 usc_section: "1834"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1834"
-generated_at: "2026-03-30T02:53:53.464Z"
+generated_at: "2026-11-23T20:25:59.188Z"
+status: "active"
 ---
 
 # § 1834. Reduced assessment rate for deposits attributable to lifeline accounts
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:53.464Z"
     - **(D)** The term “lifeline account” means any transaction account (as defined in section 461(b)(1)(C) of this title ) which meets the minimum requirements established by the Corporation under this subsection.
 - **(b)**
 - **(c)** The provisions of this section shall not take effect until appropriations are specifically provided in advance. There are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.
+
+## Source Credit
+
+*([Pub. L. 102–242, title II, § 232](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2308](https://www.govinfo.gov/link/statute/105/2308); [Pub. L. 102–550, title XVI](https://www.govinfo.gov/link/plaw/102/public/550), §§ 1604(b)(1), 1605(a)(3), Oct. 28, 1992, [106 Stat. 4083](https://www.govinfo.gov/link/statute/106/4083), 4085; [Pub. L. 102–558, title III](https://www.govinfo.gov/link/plaw/102/public/558), §§ 303(b)(1), (4), 305, Oct. 28, 1992, [106 Stat. 4224–4226](https://www.govinfo.gov/link/statute/106/4224); [Pub. L. 104–208, div. A, title II, § 2704(d)(16)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–495](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 109–171, title II, § 2102(b)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 9](https://www.govinfo.gov/link/statute/120/9); [Pub. L. 109–173, § 3(a)(9)](https://www.govinfo.gov/link/plaw/109/public/173), Feb. 15, 2006, [119 Stat. 3606](https://www.govinfo.gov/link/statute/119/3606); [Pub. L. 111–203, title III, § 353](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1546](https://www.govinfo.gov/link/statute/124/1546).)*

@@ -3,9 +3,10 @@ title: "Section 53903 - Insurable interests"
 usc_title: 46
 usc_section: "53903"
 chapter: 539
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 53903"
-generated_at: "2026-03-30T02:56:15.578Z"
+generated_at: "2026-11-23T20:27:27.370Z"
+status: "active"
 ---
 
 # § 53903. Insurable interests
@@ -26,3 +27,46 @@ generated_at: "2026-03-30T02:56:15.578Z"
   - **(7)** statutory or contractual obligations or other liabilities of a vessel insurable under this section or of the owner or charterer of such a vessel, of a nature customarily covered by insurance.
 - **(b)** In determining whether to provide insurance or reinsurance for a foreign vessel, the Secretary shall consider the characteristics, employment, and general management of the vessel by the owner or charterer.
 - **(c)** Insurance of a risk under subsection (a)(5)–(7), insofar as it involves a liability related to an individual on the vessel, may include risks other than war risks to the extent the Secretary considers advisable.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 53903(a) | 46 App.:1283(a) (1st sentence), (b) (1st sentence), (c)–(f). | June 29, 1936, ch. 858 , title XII, § 1203(a) (1st, 2d sentences), (b) (1st sentence), (c)–(f), as added Sept. 7, 1950, ch. 906 , 64 Stat. 773 , 774; Pub. L. 94–523 , §§ 1–3, Oct. 17, 1976 , 90 Stat. 2474 . |
+| 53903(b) | 46 App.:1283(a) (2d sentence). |  |
+| 53903(c) | 46 App.:1284. | June 29, 1936, ch. 858 , title XII, § 1204, as added Sept. 7, 1950, ch. 906 , 64 Stat. 774 . |
+
+
+In General
+
+Considerations for Foreign Vessels
+
+Non-War Risks
+
+Historical and Revision Notes
+
+53903(a)
+
+June 29, 1936, ch. 858
+
+Sept. 7, 1950, ch. 906
+
+64 Stat. 773
+
+Pub. L. 94–523
+
+Oct. 17, 1976
+
+90 Stat. 2474
+
+53903(b)
+
+53903(c)
+
+June 29, 1936, ch. 858
+
+Sept. 7, 1950, ch. 906
+
+64 Stat. 774
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(c)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1627](https://www.govinfo.gov/link/statute/120/1627).)*

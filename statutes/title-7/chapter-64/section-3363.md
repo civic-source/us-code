@@ -3,9 +3,10 @@ title: "Section 3363 - Resident instruction grants for insular areas"
 usc_title: 7
 usc_section: "3363"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 3363"
-generated_at: "2026-03-30T02:53:42.403Z"
+generated_at: "2026-11-23T20:25:41.597Z"
+status: "active"
 ---
 
 # § 3363. Resident instruction grants for insular areas
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:42.403Z"
 - **(c)** There are authorized to be appropriated to carry out this section—
   - **(1)** such sums as are necessary for each of fiscal years 2002 through 2013; and
   - **(2)** $2,000,000 for each of fiscal years 2014 through 2023.
+
+## Source Credit
+
+*([Pub. L. 95–113, title XIV, § 1491](https://www.govinfo.gov/link/plaw/95/public/113), as added [Pub. L. 107–171, title VII, § 7503](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 465](https://www.govinfo.gov/link/statute/116/465); amended [Pub. L. 110–234, title VII, § 7143(b)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1233](https://www.govinfo.gov/link/statute/122/1233); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, § 7143(b), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1994; [Pub. L. 113–79, title VII, § 7127(b)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 877](https://www.govinfo.gov/link/statute/128/877); [Pub. L. 115–334, title VII, § 7136(b)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4802](https://www.govinfo.gov/link/statute/132/4802).)*

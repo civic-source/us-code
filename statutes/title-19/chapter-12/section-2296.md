@@ -3,9 +3,10 @@ title: "Section 2296 - Training"
 usc_title: 19
 usc_section: "2296"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2296"
-generated_at: "2026-03-30T02:54:24.669Z"
+generated_at: "2026-11-23T20:26:10.935Z"
+status: "active"
 ---
 
 # § 2296. Training
@@ -70,3 +71,13 @@ generated_at: "2026-03-30T02:54:24.669Z"
   - **(1)** designed to meet the special requirements of an employer or group of employers;
   - **(2)** conducted with a commitment by the employer or group of employers to employ an individual upon successful completion of the training; and
   - **(3)** for which the employer pays for a significant portion (but in no case less than 50 percent) of the cost of such training, as determined by the Secretary.
+
+In general
+
+Consultations
+
+“This section [amending this section] and the amendments made by this section shall take effect upon the expiration of the 90-day period beginning on the date of the enactment of this Act [ Feb. 17, 2009 ], except that—
+
+## Source Credit
+
+*([Pub. L. 93–618, title II, § 236](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 2023](https://www.govinfo.gov/link/statute/88/2023); [Pub. L. 97–35, title XXV, § 2506(2)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 885](https://www.govinfo.gov/link/statute/95/885); [Pub. L. 99–272, title XIII, § 13004(a)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 301](https://www.govinfo.gov/link/statute/100/301); [Pub. L. 100–418, title I, § 1424(a)](https://www.govinfo.gov/link/plaw/100/public/418) –(c), Aug. 23, 1988, [102 Stat. 1248](https://www.govinfo.gov/link/statute/102/1248), 1249; [Pub. L. 100–647, title IX, § 9001(a)(20)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3808](https://www.govinfo.gov/link/statute/102/3808); [Pub. L. 103–66, title XIII, § 13803(b)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 668](https://www.govinfo.gov/link/statute/107/668); [Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(14)(A), (f)(11)(A)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–421, 2681–431; [Pub. L. 107–210, div. A, title I](https://www.govinfo.gov/link/plaw/107/public/210), §§ 117, 118, Aug. 6, 2002, [116 Stat. 941](https://www.govinfo.gov/link/statute/116/941); [Pub. L. 109–270, § 2(b)(2)](https://www.govinfo.gov/link/plaw/109/public/270), Aug. 12, 2006, [120 Stat. 746](https://www.govinfo.gov/link/statute/120/746); [Pub. L. 111–5, div. B, title I](https://www.govinfo.gov/link/plaw/111/public/5), §§ 1828(a)–(c), 1829(a), (c), 1830(a)(1), (b), 1831, 1832, Feb. 17, 2009, [123 Stat. 381–386](https://www.govinfo.gov/link/statute/123/381); [Pub. L. 111–344, title I, § 101(c)(1)](https://www.govinfo.gov/link/plaw/111/public/344), Dec. 29, 2010, [124 Stat. 3613](https://www.govinfo.gov/link/statute/124/3613); [Pub. L. 112–40, title II](https://www.govinfo.gov/link/plaw/112/public/40), §§ 201(b), (c), 214(a), (f), Oct. 21, 2011, [125 Stat. 403](https://www.govinfo.gov/link/statute/125/403), 405, 406; [Pub. L. 113–128, title V, § 512(hh)(3)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1720](https://www.govinfo.gov/link/statute/128/1720); [Pub. L. 114–27, title IV](https://www.govinfo.gov/link/plaw/114/public/27), §§ 402(b), (c), 403(b), June 29, 2015, [129 Stat. 374](https://www.govinfo.gov/link/statute/129/374).)*

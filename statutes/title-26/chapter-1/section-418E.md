@@ -3,9 +3,10 @@ title: "Section 418E - Insolvent plans"
 usc_title: 26
 usc_section: "418E"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 418E"
-generated_at: "2026-03-30T02:55:27.690Z"
+generated_at: "2026-11-23T20:26:45.694Z"
+status: "active"
 ---
 
 # § 418E. Insolvent plans
@@ -55,3 +56,7 @@ generated_at: "2026-03-30T02:55:27.690Z"
   - **(2)** A plan sponsor who has determined a resource benefit level for an insolvency year which is below the level of basic benefits shall apply for financial assistance from the Pension Benefit Guaranty Corporation under section 4261 of the Employee Retirement Income Security Act of 1974.
 - **(g)** Any amount of any financial assistance from the Pension Benefit Guaranty Corporation to any plan, and any repayment of such amount, shall be taken into account under this subpart in such manner as determined by the Secretary.
 - **(h)** Subsections (a) and (c) shall not apply to a plan that, for the plan year, is operating under section 432(e)(9), regarding benefit suspensions by certain multiemployer plans in critical and declining status.
+
+## Source Credit
+
+*(Added [Pub. L. 96–364, title II, § 202(a)](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1282](https://www.govinfo.gov/link/statute/94/1282); amended [Pub. L. 109–280, title II, § 213(a)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 917](https://www.govinfo.gov/link/statute/120/917); [Pub. L. 113–235, div. O, title I, § 108(b)(2)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2787](https://www.govinfo.gov/link/statute/128/2787); [Pub. L. 115–141, div. U, title IV, § 401(a)(92)](https://www.govinfo.gov/link/plaw/115/public/141) –(94), Mar. 23, 2018, [132 Stat. 1188](https://www.govinfo.gov/link/statute/132/1188).)*

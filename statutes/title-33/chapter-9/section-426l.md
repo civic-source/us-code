@@ -3,9 +3,10 @@ title: "Section 426l - Protection of Lake Ontario"
 usc_title: 33
 usc_section: "426l"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 426l"
-generated_at: "2026-03-30T02:55:41.056Z"
+generated_at: "2026-11-23T20:26:53.815Z"
+status: "active"
 ---
 
 # § 426l. Protection of Lake Ontario
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:41.056Z"
 - **(b)** Until the Congress receives and acts upon the report required under subsection (a) of this section, all Federal agencies having responsibilities affecting the level of Lake Ontario shall, consistent with existing authority, make every effort to discharge such responsibilities in a manner so as to minimize damage and erosion to the shoreline of Lake Ontario.
 - **(c)** There is authorized to be appropriated to carry out this section $2,000,000.
 - **(d)** This section may be cited as the “Lake Ontario Protection Act of 1976.”
+
+## Source Credit
+
+*([Pub. L. 94–587, § 180](https://www.govinfo.gov/link/plaw/94/public/587), Oct. 22, 1976, [90 Stat. 2939](https://www.govinfo.gov/link/statute/90/2939).)*

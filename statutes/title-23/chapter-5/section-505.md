@@ -3,9 +3,10 @@ title: "Section 505 - State planning and research"
 usc_title: 23
 usc_section: "505"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 505"
-generated_at: "2026-03-30T02:55:12.573Z"
+generated_at: "2026-11-23T20:26:23.900Z"
+status: "active"
 ---
 
 # § 505. State planning and research
@@ -27,3 +28,27 @@ generated_at: "2026-03-30T02:55:12.573Z"
   - **(2)** Funds expended under paragraph (1) shall not be considered to be part of the extramural budget of the agency for the purpose of section 9 of the Small Business Act ( 15 U.S.C. 638 ).
 - **(d)** The Federal share of the cost of a project carried out using funds subject to subsection (a) shall be 80 percent unless the Secretary determines that the interests of the Federal-aid highway program would be best served by decreasing or eliminating the non-Federal share.
 - **(e)** Funds subject to subsection (a) shall be combined and administered by the Secretary as a single fund and shall be available for obligation for the period described in section 118(b).
+
+General Rule
+
+Minimum Expenditures on Research, Development, and Technology Transfer Activities.—
+
+In general
+
+Waivers
+
+Nonapplicability of assessment
+
+Implementation of Future Strategic Highway Research Program Findings and Results
+
+Funds
+
+Treatment of funds
+
+Federal Share
+
+Administration of Sums
+
+## Source Credit
+
+*(Added [Pub. L. 105–178, title V, § 5105](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 432](https://www.govinfo.gov/link/statute/112/432); amended [Pub. L. 109–59, title V, § 5205](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1795](https://www.govinfo.gov/link/statute/119/1795); [Pub. L. 112–141, div. E, title II, § 52005](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 882](https://www.govinfo.gov/link/statute/126/882); [Pub. L. 114–94, div. A, title I, § 1104(e)(6)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1332](https://www.govinfo.gov/link/statute/129/1332).)*

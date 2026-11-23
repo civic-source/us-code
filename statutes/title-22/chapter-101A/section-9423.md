@@ -3,9 +3,10 @@ title: "Section 9423 - Sanctions to combat the proliferation of Iranian missiles
 usc_title: 22
 usc_section: "9423"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9423"
-generated_at: "2026-03-30T02:55:05.466Z"
+generated_at: "2026-11-23T20:26:32.772Z"
+status: "active"
 ---
 
 # § 9423. Sanctions to combat the proliferation of Iranian missiles
@@ -47,3 +48,9 @@ generated_at: "2026-03-30T02:55:05.466Z"
     - **(C)** section 2780 of this title ; or
     - **(D)** any other provision of law; and
   - **(2)** Iran has ceased the pursuit, acquisition, and development of, and verifiably dismantled its, nuclear, biological, and chemical weapons and ballistic missiles and ballistic missile launch technology.
+
+J.R. Biden, Jr.
+
+## Source Credit
+
+*([Pub. L. 118–50, div. K, § 5](https://www.govinfo.gov/link/plaw/118/public/50), Apr. 24, 2024, [138 Stat. 972](https://www.govinfo.gov/link/statute/138/972).)*

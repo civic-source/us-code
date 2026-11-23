@@ -3,9 +3,10 @@ title: "Section 9009 - Emergency EIDL grants"
 usc_title: 15
 usc_section: "9009"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 9009"
-generated_at: "2026-03-30T02:54:08.236Z"
+generated_at: "2026-11-23T20:26:04.518Z"
+status: "active"
 ---
 
 # § 9009. Emergency EIDL grants
@@ -51,3 +52,19 @@ generated_at: "2026-03-30T02:54:08.236Z"
   - **(7)** There is authorized to be appropriated to the Administration $40,000,000,000 to carry out this subsection.
   - **(8)** The authority to carry out grants under this subsection shall terminate on December 31, 2021 .
   - **(9)** Notwithstanding any other provision of law, any criminal charge or civil enforcement action alleging that a borrower engaged in fraud with respect to the use of an advance received under this subsection shall be filed not later than 10 years after the offense was committed.
+
+Definitions
+
+Appropriations
+
+Definitions
+
+Rulemaking.—
+
+In general
+
+Notice and comment
+
+## Source Credit
+
+*([Pub. L. 116–136, div. A, title I, § 1110](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 306](https://www.govinfo.gov/link/statute/134/306); [Pub. L. 116–139, div. A, § 101(b)](https://www.govinfo.gov/link/plaw/116/public/139), (c), Apr. 24, 2020, [134 Stat. 620](https://www.govinfo.gov/link/statute/134/620), 621; [Pub. L. 116–260, div. N, title III](https://www.govinfo.gov/link/plaw/116/public/260), §§ 332, 333(c), Dec. 27, 2020, [134 Stat. 2045](https://www.govinfo.gov/link/statute/134/2045), 2046; [Pub. L. 117–165, § 2(b)](https://www.govinfo.gov/link/plaw/117/public/165), Aug. 5, 2022, [136 Stat. 1363](https://www.govinfo.gov/link/statute/136/1363).)*

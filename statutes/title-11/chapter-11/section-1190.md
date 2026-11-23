@@ -3,9 +3,10 @@ title: "Section 1190 - Contents of plan"
 usc_title: 11
 usc_section: "1190"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 1190"
-generated_at: "2026-03-30T02:53:53.885Z"
+generated_at: "2026-11-23T20:25:55.416Z"
+status: "active"
 ---
 
 # § 1190. Contents of plan
@@ -20,3 +21,7 @@ A plan filed under this subchapter—
   - **(3)** notwithstanding section 1123(b)(5) of this title , may modify the rights of the holder of a claim secured only by a security interest in real property that is the principal residence of the debtor if the new value received in connection with the granting of the security interest was—
     - **(A)** not used primarily to acquire the real property; and
     - **(B)** used primarily in connection with the small business of the debtor.
+
+## Source Credit
+
+*(Added [Pub. L. 116–54, § 2(a)](https://www.govinfo.gov/link/plaw/116/public/54), Aug. 23, 2019, [133 Stat. 1082](https://www.govinfo.gov/link/statute/133/1082).)*

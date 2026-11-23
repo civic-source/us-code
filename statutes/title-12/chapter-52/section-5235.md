@@ -3,9 +3,10 @@ title: "Section 5235 - Disclosures on exercise of loan authority"
 usc_title: 12
 usc_section: "5235"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5235"
-generated_at: "2026-03-30T02:53:53.527Z"
+generated_at: "2026-11-23T20:25:59.459Z"
+status: "active"
 ---
 
 # § 5235. Disclosures on exercise of loan authority
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:53.527Z"
 - **(c)** The information submitted to the Congress under this section shall be kept confidential, upon the written request of the Chairman of the Board, in which case it shall be made available only to the Chairpersons and Ranking Members of the Committees described in subsection (a).
 - **(d)** The provisions of this section shall be in force for all uses of the authority provided under section 13 of the Federal Reserve Act occurring during the period beginning on March 1, 2008 and ending on the after 1 1 So in original. October 3, 2008 , and reports described in subsection (a) shall be required beginning not later than 30 days after October 3, 2008 , with respect to any such exercise of authority.
 - **(e)** Any reports required under this section shall also be submitted to the Congressional Oversight Panel established under section 5233 of this title .
+
+## Source Credit
+
+*([Pub. L. 110–343, div. A, title I, § 129](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3796](https://www.govinfo.gov/link/statute/122/3796).)*

@@ -3,12 +3,17 @@ title: "Section 162 - Offenses and penalties"
 usc_title: 29
 usc_section: "162"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 162"
-generated_at: "2026-03-30T02:55:18.678Z"
+generated_at: "2026-11-23T20:26:37.784Z"
+status: "active"
 ---
 
 # § 162. Offenses and penalties
 
 Any person who shall willfully resist, prevent, impede, or interfere with any member of the Board or any of its agents or agencies in the performance of duties pursuant to this subchapter shall be punished by a fine of not more than $5,000 or by imprisonment for not more than one year, or both.
 
+
+## Source Credit
+
+*(July 5, 1935, ch. 372, § 12, [49 Stat. 456](https://www.govinfo.gov/link/statute/49/456); June 23, 1947, ch. 120, title I, § 101, [61 Stat. 151](https://www.govinfo.gov/link/statute/61/151).)*

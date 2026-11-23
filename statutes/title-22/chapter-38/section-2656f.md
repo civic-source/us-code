@@ -3,9 +3,10 @@ title: "Section 2656f - Annual country reports on terrorism"
 usc_title: 22
 usc_section: "2656f"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2656f"
-generated_at: "2026-03-30T02:55:05.375Z"
+generated_at: "2026-11-23T20:26:32.359Z"
+status: "active"
 ---
 
 # § 2656f. Annual country reports on terrorism
@@ -72,3 +73,17 @@ generated_at: "2026-03-30T02:55:05.375Z"
 - **(e)**
   - **(1)** The report required under subsection (a) shall cover the events of the calendar year preceding the year in which the report is submitted.
   - **(2)** The report required by subsection (a) to be submitted by March 31, 1988 , may be submitted no later than August 31, 1988 .
+
+Findings
+
+Sense of Congress on United States Policy on Terrorist Sanctuaries
+
+In General
+
+Consultation with Other Departments
+
+Initial Report
+
+## Source Credit
+
+*([Pub. L. 100–204, title I, § 140](https://www.govinfo.gov/link/plaw/100/public/204), Dec. 22, 1987, [101 Stat. 1347](https://www.govinfo.gov/link/statute/101/1347); [Pub. L. 101–246, title I, § 122](https://www.govinfo.gov/link/plaw/101/public/246), Feb. 16, 1990, [104 Stat. 27](https://www.govinfo.gov/link/statute/104/27); [Pub. L. 103–236, title I, § 133(b)(1)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 395](https://www.govinfo.gov/link/statute/108/395); [Pub. L. 104–208, div. A, title I, § 101(c) [title V, § 578]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–121](https://www.govinfo.gov/link/statute/110/3009), 3009–169; [Pub. L. 108–458, title VII, § 7102(d)(1)](https://www.govinfo.gov/link/plaw/108/public/458) –(3), Dec. 17, 2004, [118 Stat. 3777](https://www.govinfo.gov/link/statute/118/3777), 3778; [Pub. L. 108–487, title VII, § 701(a)](https://www.govinfo.gov/link/plaw/108/public/487), Dec. 23, 2004, [118 Stat. 3961](https://www.govinfo.gov/link/statute/118/3961); [Pub. L. 119–60, div. E, title VI, § 5608](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1606](https://www.govinfo.gov/link/statute/139/1606).)*

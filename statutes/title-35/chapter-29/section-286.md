@@ -3,12 +3,17 @@ title: "Section 286 - Time limitation on damages"
 usc_title: 35
 usc_section: "286"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "35 U.S.C. § 286"
-generated_at: "2026-03-30T02:55:34.240Z"
+generated_at: "2026-11-23T20:26:49.142Z"
+status: "active"
 ---
 
 # § 286. Time limitation on damages
 
 Except as otherwise provided by law, no recovery shall be had for any infringement committed more than six years prior to the filing of the complaint or counterclaim for infringement in the action. In the case of claims against the United States Government for use of a patented invention, the period before bringing suit, up to six years, between the date of receipt of a written claim for compensation by the department or agency of the Government having authority to settle such claim, and the date of mailing by the Government of a notice to the claimant that his claim has been denied shall not be counted as part of the period referred to in the preceding paragraph.
 
+
+## Source Credit
+
+*(July 19, 1952, ch. 950, [66 Stat. 813](https://www.govinfo.gov/link/statute/66/813).)*

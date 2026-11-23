@@ -3,9 +3,10 @@ title: "Section 1826k - Equivalent conservation measures"
 usc_title: 16
 usc_section: "1826k"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1826k"
-generated_at: "2026-03-30T02:54:22.986Z"
+generated_at: "2026-11-23T20:26:20.558Z"
+status: "active"
 ---
 
 # § 1826k. Equivalent conservation measures
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:54:22.986Z"
     - **(D)** the Convention on International Trade in Endangered Species of Wild Fauna and Flora, done at Washington March 3, 1973 (27 UST 1087; TIAS 8249); but
   - **(2)** does not include species, except sharks, managed under the Magnuson-Stevens Fishery Conservation and Management Act [ 16 U.S.C. 1801 et seq.], the Atlantic Tunas Convention Act [ 16 U.S.C. 971 et seq.], or any international fishery management agreement.
 - **(f)** There are authorized to be appropriated to the Secretary for fiscal years 2007 through 2013 such sums as are necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 104–43, title VI, § 610](https://www.govinfo.gov/link/plaw/104/public/43), as added [Pub. L. 109–479, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3630](https://www.govinfo.gov/link/statute/120/3630); amended [Pub. L. 111–348, title I, § 102(c)(1)](https://www.govinfo.gov/link/plaw/111/public/348), Jan. 4, 2011, [124 Stat. 3669](https://www.govinfo.gov/link/statute/124/3669); [Pub. L. 114–81, title I, § 101(d)](https://www.govinfo.gov/link/plaw/114/public/81), (f), (g)(3), (i)(5), Nov. 5, 2015, [129 Stat. 654](https://www.govinfo.gov/link/statute/129/654), 655; [Pub. L. 114–327, title IV, § 401(d)](https://www.govinfo.gov/link/plaw/114/public/327), Dec. 16, 2016, [130 Stat. 1995](https://www.govinfo.gov/link/statute/130/1995); [Pub. L. 117–263, div. K, title CXIII, § 11338](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4103](https://www.govinfo.gov/link/statute/136/4103); [Pub. L. 117–328, div. S, title IV, § 401(2)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5274](https://www.govinfo.gov/link/statute/136/5274).)*

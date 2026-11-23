@@ -3,9 +3,10 @@ title: "Section 5312 - Functions of Secretaries"
 usc_title: 7
 usc_section: "5312"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 5312"
-generated_at: "2026-03-30T02:53:42.414Z"
+generated_at: "2026-11-23T20:25:41.644Z"
+status: "active"
 ---
 
 # § 5312. Functions of Secretaries
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:42.414Z"
   - **(3)** describe and evaluate any policy implications of the analytical findings in the scientific reports required under subsection (a)(8), and future priorities for nutrition monitoring and related research;
   - **(4)** include in full the annual reports of the Council provided for in section 5332 of this title ; and
   - **(5)** include an executive summary of the report most recently published by the scientific body, as provided for in subsection (a)(8).
+
+## Source Credit
+
+*([Pub. L. 101–445, title I, § 102](https://www.govinfo.gov/link/plaw/101/public/445), Oct. 22, 1990, [104 Stat. 1036](https://www.govinfo.gov/link/statute/104/1036).)*

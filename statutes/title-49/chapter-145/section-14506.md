@@ -3,9 +3,10 @@ title: "Section 14506 - Identification of vehicles"
 usc_title: 49
 usc_section: "14506"
 chapter: 145
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 14506"
-generated_at: "2026-03-30T02:56:19.332Z"
+generated_at: "2026-11-23T20:27:34.760Z"
+status: "active"
 ---
 
 # § 14506. Identification of vehicles
@@ -17,3 +18,11 @@ generated_at: "2026-03-30T02:56:19.332Z"
   - **(3)** under a State law regarding motor vehicle license plates or other displays that the Secretary determines are appropriate;
   - **(4)** in connection with Federal requirements for hazardous materials transportation under section 5103; or
   - **(5)** in connection with the Federal vehicle inspection standards under section 31136.
+
+Restriction on Requirements
+
+Exception
+
+## Source Credit
+
+*(Added [Pub. L. 109–59, title IV, § 4306(a)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1773](https://www.govinfo.gov/link/statute/119/1773); amended [Pub. L. 110–244, title III, § 301(q)](https://www.govinfo.gov/link/plaw/110/public/244), June 6, 2008, [122 Stat. 1617](https://www.govinfo.gov/link/statute/122/1617).)*

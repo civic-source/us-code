@@ -3,12 +3,17 @@ title: "Section 242 - Studies and investigations on use and misuse of narcotic d
 usc_title: 42
 usc_section: "242"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 242"
-generated_at: "2026-03-30T02:56:10.690Z"
+generated_at: "2026-11-23T20:27:19.980Z"
+status: "active"
 ---
 
 # § 242. Studies and investigations on use and misuse of narcotic drugs and other drugs; annual report to Attorney General; cooperation with States
 
 - **(a)** In carrying out the purposes of section 241 of this title with respect to drugs the use or misuse of which might result in drug abuse or dependency, the studies and investigations authorized therein shall include the use and misuse of narcotic drugs and other drugs. Such studies and investigations shall further include the quantities of crude opium, coca leaves, and their salts, derivatives, and preparations, and other drugs subject to control under the Controlled Substances Act [ 21 U.S.C. 801 et seq.] and Controlled Substances Import and Export Act [ 21 U.S.C. 951 et seq.], together with reserves thereof, necessary to supply the normal and emergency medicinal and scientific requirements of the United States. The results of studies and investigations of the quantities of narcotic drugs or other drugs subject to control under such Acts, together with reserves of such drugs, that are necessary to supply the normal and emergency medicinal and scientific requirements of the United States, shall be reported not later than the first day of April of each year to the Attorney General, to be used at his discretion in determining manufacturing quotas or importation requirements under such Acts.
 - **(b)** The Surgeon General shall cooperate with States for the purpose of aiding them to solve their narcotic drug problems and shall give authorized representatives of the States the benefit of his experience in the care, treatment, and rehabilitation of narcotic addicts to the end that each State may be encouraged to provide adequate facilities and methods for the care and treatment of its narcotic addicts.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 302, [58 Stat. 692](https://www.govinfo.gov/link/statute/58/692); [Pub. L. 91–513, title II, § 701(j)](https://www.govinfo.gov/link/plaw/91/public/513), Oct. 27, 1970, [84 Stat. 1282](https://www.govinfo.gov/link/statute/84/1282).)*

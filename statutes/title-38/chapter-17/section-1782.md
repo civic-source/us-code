@@ -3,9 +3,10 @@ title: "Section 1782 - Counseling, training, and mental health services for imme
 usc_title: 38
 usc_section: "1782"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 1782"
-generated_at: "2026-03-30T02:55:53.488Z"
+generated_at: "2026-11-23T20:27:01.723Z"
+status: "active"
 ---
 
 # § 1782. Counseling, training, and mental health services for immediate family members and caregivers
@@ -19,3 +20,15 @@ generated_at: "2026-03-30T02:55:53.488Z"
 - **(d)** Services provided under subsections (a) and (b) may include, under the terms and conditions set forth in section 111 of this title , travel and incidental expenses of individuals described in subsection (c) in the case of any of the following:
   - **(1)** A veteran who is receiving care for a service-connected disability.
   - **(2)** A dependent or survivor receiving care under the last sentence of section 1783(b) of this title .
+
+Counseling for Family Members of Veterans Receiving Service-Connected Treatment
+
+Counseling for Family Members of Veterans Receiving Non-Service-Connected Treatment
+
+Eligible Individuals
+
+Travel and Transportation Authorized
+
+## Source Credit
+
+*(Added [Pub. L. 107–135, title II, § 208(b)](https://www.govinfo.gov/link/plaw/107/public/135), Jan. 23, 2002, [115 Stat. 2462](https://www.govinfo.gov/link/statute/115/2462); amended [Pub. L. 110–387, title III, § 301(a)(2)](https://www.govinfo.gov/link/plaw/110/public/387), Oct. 10, 2008, [122 Stat. 4120](https://www.govinfo.gov/link/statute/122/4120); [Pub. L. 111–163, title I, § 103(a)](https://www.govinfo.gov/link/plaw/111/public/163), (b), May 5, 2010, [124 Stat. 1139](https://www.govinfo.gov/link/statute/124/1139), 1140.)*

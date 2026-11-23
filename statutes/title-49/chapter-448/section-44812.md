@@ -3,9 +3,10 @@ title: "Section 44812 - Temporary flight restrictions for unmanned aircraft"
 usc_title: 49
 usc_section: "44812"
 chapter: 448
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44812"
-generated_at: "2026-03-30T02:56:19.389Z"
+generated_at: "2026-11-23T20:27:35.202Z"
+status: "active"
 ---
 
 # § 44812. Temporary flight restrictions for unmanned aircraft
@@ -46,3 +47,37 @@ generated_at: "2026-03-30T02:56:19.389Z"
   - **(3)** the aircraft operation is conducted with the approval of the eligible entity.
 - **(h)** Nothing in this section may be construed as prohibiting the Administrator from authorizing the operation of an aircraft, including an unmanned aircraft system, over, under, or within a specified distance from an eligible large public gathering for which a temporary flight restriction has been established under this section or cancelling a temporary flight restriction established under this section.
 - **(i)** Nothing in this section shall be construed to prevent the Administrator from using existing processes or procedures to meet the intent of this section.
+
+In General.—
+
+Temporary flight restrictions
+
+Denial
+
+Requirements.—
+
+Advance notice
+
+Required information
+
+Eligible Large Public Gatherings.—
+
+In general
+
+Additional gatherings
+
+Eligible Entities
+
+Timeliness
+
+Public Information
+
+Prohibition on Operations
+
+Savings Clause
+
+Rule of Construction
+
+## Source Credit
+
+*(Added [Pub. L. 118–63, title IX, § 935(a)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1370](https://www.govinfo.gov/link/statute/138/1370).)*

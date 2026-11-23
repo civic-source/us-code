@@ -3,9 +3,10 @@ title: "Section 1821 - Benefits for children of certain Korea service veterans b
 usc_title: 38
 usc_section: "1821"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 1821"
-generated_at: "2026-03-30T02:55:53.489Z"
+generated_at: "2026-11-23T20:27:01.729Z"
+status: "active"
 ---
 
 # § 1821. Benefits for children of certain Korea service veterans born with spina bifida
@@ -16,3 +17,15 @@ generated_at: "2026-03-30T02:55:53.489Z"
   - **(1)** served in the active military, naval, or air service in or near the Korean demilitarized zone (DMZ), as determined by the Secretary in consultation with the Secretary of Defense, during the period beginning on September 1, 1967 , and ending on August 31, 1971 ; and
   - **(2)** is determined by the Secretary, in consultation with the Secretary of Defense, to have been exposed to a herbicide agent during such service in or near the Korean demilitarized zone.
 - **(d)** For purposes of this section, the term “herbicide agent” means a chemical in a herbicide used in support of United States and allied military operations in or near the Korean demilitarized zone, as determined by the Secretary in consultation with the Secretary of Defense, during the period beginning on September 1, 1967 , and ending on August 31, 1971 .
+
+Benefits Authorized
+
+Spina Bifida Conditions Covered
+
+Veteran of Covered Service in Korea
+
+Herbicide Agent
+
+## Source Credit
+
+*(Added [Pub. L. 108–183, title I, § 102(a)(2)](https://www.govinfo.gov/link/plaw/108/public/183), Dec. 16, 2003, [117 Stat. 2653](https://www.govinfo.gov/link/statute/117/2653).)*

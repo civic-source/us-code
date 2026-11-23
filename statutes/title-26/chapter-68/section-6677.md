@@ -3,9 +3,10 @@ title: "Section 6677 - Failure to file information with respect to certain forei
 usc_title: 26
 usc_section: "6677"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6677"
-generated_at: "2026-03-30T02:55:27.862Z"
+generated_at: "2026-11-23T20:26:46.710Z"
+status: "active"
 ---
 
 # § 6677. Failure to file information with respect to certain foreign trusts
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:27.862Z"
   - **(3)** the gross amount of the distributions in the case of a failure relating to section 6048(c).
 - **(d)** No penalty shall be imposed by this section on any failure which is shown to be due to reasonable cause and not due to willful neglect. The fact that a foreign jurisdiction would impose a civil or criminal penalty on the taxpayer (or any other person) for disclosing the required information is not reasonable cause.
 - **(e)** Subchapter B of chapter 63 (relating to deficiency procedures for income, estate, gift, and certain excise taxes) shall not apply in respect of the assessment or collection of any penalty imposed by subsection (a).
+
+## Source Credit
+
+*(Added [Pub. L. 87–834, § 7(g)](https://www.govinfo.gov/link/plaw/87/public/834), Oct. 16, 1962, [76 Stat. 988](https://www.govinfo.gov/link/statute/76/988); amended [Pub. L. 91–172, title I, § 101(j)(53)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 531](https://www.govinfo.gov/link/statute/83/531); [Pub. L. 93–406, title II, § 1016(a)(21)](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 931](https://www.govinfo.gov/link/statute/88/931); [Pub. L. 94–455, title X, § 1013(d)(2)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1616](https://www.govinfo.gov/link/statute/90/1616); [Pub. L. 104–188, title I, § 1901(b)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1907](https://www.govinfo.gov/link/statute/110/1907); [Pub. L. 111–147, title V, § 535(a)](https://www.govinfo.gov/link/plaw/111/public/147), Mar. 18, 2010, [124 Stat. 115](https://www.govinfo.gov/link/statute/124/115).)*

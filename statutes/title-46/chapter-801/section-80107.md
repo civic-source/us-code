@@ -3,9 +3,10 @@ title: "Section 80107 - Salvors of life to share in remuneration"
 usc_title: 46
 usc_section: "80107"
 chapter: 801
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 80107"
-generated_at: "2026-03-30T02:56:15.588Z"
+generated_at: "2026-11-23T20:27:27.463Z"
+status: "active"
 ---
 
 # § 80107. Salvors of life to share in remuneration
@@ -14,3 +15,43 @@ generated_at: "2026-03-30T02:56:15.588Z"
 - **(b)** The right to remuneration for aid or salvage services is not affected by common ownership of the vessels giving and receiving the aid or salvage services.
 - **(c)** A civil action to recover remuneration for giving aid or salvage services must be brought within 2 years after the date the aid or salvage services were given, unless the court in which the action is brought is satisfied that during that 2-year period there had not been a reasonable opportunity to seize the aided or salvaged vessel within the jurisdiction of the court or within the territorial waters of the country of the plaintiff’s residence or principal place of business.
 - **(d)** This section does not apply to a vessel of war or a vessel owned by the United States Government appropriated only to a public service.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 80107(a) | 46 App.:729. | Aug. 1, 1912, ch. 268 , §§ 1, 3–5, 37 Stat. 242 ; Pub. L. 102–241, § 40 , Dec. 19, 1991 , 105 Stat. 2225 . |
+| 80107(b) | 46 App.:727. |  |
+| 80107(c) | 46 App.:730. |  |
+| 80107(d) | 46 App.:731. |  |
+
+
+Entitlement of Salvors
+
+Common Ownership of Vessels
+
+Time Limit on Bringing Actions
+
+Nonapplication
+
+Historical and Revision Notes
+
+80107(a)
+
+Aug. 1, 1912, ch. 268
+
+37 Stat. 242
+
+Pub. L. 102–241, § 40
+
+Dec. 19, 1991
+
+105 Stat. 2225
+
+80107(b)
+
+80107(c)
+
+80107(d)
+
+## Source Credit
+
+*([Pub. L. 109–304, § 11](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1691](https://www.govinfo.gov/link/statute/120/1691).)*

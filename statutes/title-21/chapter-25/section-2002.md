@@ -3,9 +3,10 @@ title: "Section 2002 - Records, audit, and report"
 usc_title: 21
 usc_section: "2002"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 2002"
-generated_at: "2026-03-30T02:54:54.308Z"
+generated_at: "2026-11-23T20:26:27.901Z"
+status: "active"
 ---
 
 # § 2002. Records, audit, and report
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:54.308Z"
 - **(b)** The United States Anti-Doping Agency shall submit an annual report to Congress which shall include—
   - **(1)** an audit conducted and submitted in accordance with section 10101 of title 36 ; and
   - **(2)** a description of the activities of the agency.
+
+## Source Credit
+
+*([Pub. L. 109–469, title VII, § 702](https://www.govinfo.gov/link/plaw/109/public/469), Dec. 29, 2006, [120 Stat. 3534](https://www.govinfo.gov/link/statute/120/3534).)*

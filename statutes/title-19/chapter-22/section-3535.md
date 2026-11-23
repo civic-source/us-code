@@ -3,9 +3,10 @@ title: "Section 3535 - Review of participation in WTO"
 usc_title: 19
 usc_section: "3535"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3535"
-generated_at: "2026-03-30T02:54:24.692Z"
+generated_at: "2026-11-23T20:26:11.052Z"
+status: "active"
 ---
 
 # § 3535. Review of participation in WTO
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:24.692Z"
 - **(d)** This section is enacted by the Congress—
   - **(1)** as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such is deemed a part of the rules of each House, respectively, and such procedures supersede other rules only to the extent that they are inconsistent with such other rules; and
   - **(2)** with the full recognition of the constitutional right of either House to change the rules (so far as relating to the procedures of that House) at any time, in the same manner, and to the same extent as any other rule of that House.
+
+## Source Credit
+
+*([Pub. L. 103–465, title I, § 125](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4833](https://www.govinfo.gov/link/statute/108/4833).)*

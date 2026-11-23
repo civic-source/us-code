@@ -3,9 +3,10 @@ title: "Section 2797c - Definitions"
 usc_title: 22
 usc_section: "2797c"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2797c"
-generated_at: "2026-03-30T02:55:05.388Z"
+generated_at: "2026-11-23T20:26:32.434Z"
+status: "active"
 ---
 
 # § 2797c. Definitions
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:05.388Z"
 - **(b)** For purposes of subsection (a)(3), as it relates to any international understanding concluded with the United States after January 1, 2000 , the term “international understanding” means—
   - **(1)** any specific agreement by a country not to export, transfer, or otherwise engage in the trade of any MTCR equipment or technology that contributes to the acquisition, design, development, or production of missiles in a country that is not an MTCR adherent and would be, if it were United States-origin equipment or technology, subject to the jurisdiction of the United States under this chapter; or
   - **(2)** any specific understanding by a country that, notwithstanding section 2797b(b) of this title , the United States retains the right to take the actions under section 2797b(a)(2) of this title in the case of any export or transfer of any MTCR equipment or technology that contributes to the acquisition, design, development, or production of missiles in a country that is not an MTCR adherent and would be, if it were United States-origin equipment or technology, subject to the jurisdiction of the United States under this chapter.
+
+## Source Credit
+
+*([Pub. L. 90–629](https://www.govinfo.gov/link/plaw/90/public/629), ch. 7, § 74, as added [Pub. L. 101–510, div. A, title XVII, § 1703](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1748](https://www.govinfo.gov/link/statute/104/1748); amended [Pub. L. 102–138, title III, § 323(b)](https://www.govinfo.gov/link/plaw/102/public/138), (c), Oct. 28, 1991, [105 Stat. 711](https://www.govinfo.gov/link/statute/105/711); [Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XI, § 1136(a)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–495.)*

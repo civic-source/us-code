@@ -3,9 +3,10 @@ title: "Section 3722 - Claims of officers and employees at Government penal and 
 usc_title: 31
 usc_section: "3722"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 3722"
-generated_at: "2026-03-30T02:55:34.060Z"
+generated_at: "2026-11-23T20:26:51.811Z"
+status: "active"
 ---
 
 # § 3722. Claims of officers and employees at Government penal and correctional institutions
@@ -18,3 +19,32 @@ generated_at: "2026-03-30T02:55:34.060Z"
   - **(3)** it is presented in writing within one year after it accrues.
 - **(d)** A claim may be paid under this section only if the claimant accepts the amount of the settlement in complete satisfaction of the claim.
 - **(e)** Necessary amounts are authorized to be appropriated to carry out this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3722(a) | 31:238(1st sentence). | June 10, 1949, ch. 187 , 63 Stat. 167 . |
+| 3722(b) | 31:238(2d sentence last 25 words before last semicolon). |  |
+| 3722(c) | 31:238(2d sentence less last 25 words before last semicolon). |  |
+| 3722(d) | 31:238(last sentence). |  |
+| 3722(e) | 31:238(note). |  |
+
+
+Historical and Revision Notes
+
+3722(a)
+
+June 10, 1949, ch. 187
+
+63 Stat. 167
+
+3722(b)
+
+3722(c)
+
+3722(d)
+
+3722(e)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 974](https://www.govinfo.gov/link/statute/96/974).)*

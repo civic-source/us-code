@@ -3,9 +3,10 @@ title: "Section 5106a - Grants to States for child abuse or neglect prevention a
 usc_title: 42
 usc_section: "5106a"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5106a"
-generated_at: "2026-03-30T02:56:11.217Z"
+generated_at: "2026-11-23T20:27:22.452Z"
+status: "active"
 ---
 
 # § 5106a. Grants to States for child abuse or neglect prevention and treatment programs
@@ -197,3 +198,9 @@ generated_at: "2026-03-30T02:56:11.217Z"
       - **(iii)** $150,000, for a fiscal year in which the grant funds exceed the fiscal year 2009 grant funds by at least $3,000,000.
     - **(B)** In the case of a fiscal year for which subparagraph (A) applies and the grant funds are insufficient to satisfy the requirements of such subparagraph (A), paragraph (2), and paragraph (5), the Secretary shall, subject to paragraph (5), ratably reduce the allotment of each State for which the allotment under paragraph (2) is an amount that exceeds the applicable minimum under subparagraph (A), as necessary to ensure that each State receives the applicable minimum allotment under subparagraph (A).
   - **(5)** Notwithstanding paragraphs (2) and (4), except as provided in paragraph (3), no State or territory shall receive a grant under this section in an amount that is less than the amount such State or territory received under this section for fiscal year 2009.
+
+“The Congress finds that—
+
+## Source Credit
+
+*([Pub. L. 93–247, title I, § 106](https://www.govinfo.gov/link/plaw/93/public/247), formerly § 8, as added [Pub. L. 100–294, title I, § 101](https://www.govinfo.gov/link/plaw/100/public/294), Apr. 25, 1988, [102 Stat. 110](https://www.govinfo.gov/link/statute/102/110); renumbered title I, § 107, [Pub. L. 101–126, § 3(a)(1)](https://www.govinfo.gov/link/plaw/101/public/126), (2), Oct. 25, 1989, [103 Stat. 764](https://www.govinfo.gov/link/statute/103/764); amended [Pub. L. 102–295, title I, § 114(a)](https://www.govinfo.gov/link/plaw/102/public/295) –(c), May 28, 1992, [106 Stat. 192](https://www.govinfo.gov/link/statute/106/192), 195; [Pub. L. 102–586, § 9(b)](https://www.govinfo.gov/link/plaw/102/public/586), Nov. 4, 1992, [106 Stat. 5037](https://www.govinfo.gov/link/statute/106/5037); renumbered § 106 and amended [Pub. L. 104–235, title I](https://www.govinfo.gov/link/plaw/104/public/235), §§ 107, 113(a)(1)(A), Oct. 3, 1996, [110 Stat. 3071](https://www.govinfo.gov/link/statute/110/3071), 3079; [Pub. L. 108–36, title I, § 114(a)](https://www.govinfo.gov/link/plaw/108/public/36) –(d), June 25, 2003, [117 Stat. 808–812](https://www.govinfo.gov/link/statute/117/808); [Pub. L. 111–320, title I, § 115](https://www.govinfo.gov/link/plaw/111/public/320), Dec. 20, 2010, [124 Stat. 3467](https://www.govinfo.gov/link/statute/124/3467); [Pub. L. 114–22, title VIII, § 802(b)](https://www.govinfo.gov/link/plaw/114/public/22), May 29, 2015, [129 Stat. 263](https://www.govinfo.gov/link/statute/129/263); [Pub. L. 114–198, title V, § 503(b)](https://www.govinfo.gov/link/plaw/114/public/198), (c), July 22, 2016, [130 Stat. 729](https://www.govinfo.gov/link/statute/130/729), 730; [Pub. L. 115–424, § 3(a)](https://www.govinfo.gov/link/plaw/115/public/424), Jan. 7, 2019, [132 Stat. 5470](https://www.govinfo.gov/link/statute/132/5470).)*

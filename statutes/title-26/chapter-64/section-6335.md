@@ -3,9 +3,10 @@ title: "Section 6335 - Sale of seized property"
 usc_title: 26
 usc_section: "6335"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6335"
-generated_at: "2026-03-30T02:55:27.850Z"
+generated_at: "2026-11-23T20:26:46.630Z"
+status: "active"
 ---
 
 # § 6335. Sale of seized property
@@ -35,3 +36,9 @@ generated_at: "2026-03-30T02:55:27.850Z"
   - **(4)** For provision providing for civil damages for violation of paragraph (1)(A)(i), see section 7433.
 - **(f)** The owner of any property seized by levy may request that the Secretary sell such property within 60 days after such request (or within such longer period as may be specified by the owner). The Secretary shall comply with such request unless the Secretary determines (and notifies the owner within such period) that such compliance would not be in the best interests of the United States.
 - **(g)** For restrictions on sale of seized property pending Tax Court decision, see section 6863(b)(3).
+
+“The amendment made by subsection (a) [amending this section] shall apply to—
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 785; [Pub. L. 89–719, title I, § 104(d)](https://www.govinfo.gov/link/plaw/89/public/719), Nov. 2, 1966, [80 Stat. 1137](https://www.govinfo.gov/link/statute/80/1137); [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 99–514, title XV, § 1570(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2764](https://www.govinfo.gov/link/statute/100/2764); [Pub. L. 100–647, title VI, § 6236(g)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3740](https://www.govinfo.gov/link/statute/102/3740); [Pub. L. 105–206, title III, § 3441(a)](https://www.govinfo.gov/link/plaw/105/public/206), (b), July 22, 1998, [112 Stat. 761](https://www.govinfo.gov/link/statute/112/761).)*

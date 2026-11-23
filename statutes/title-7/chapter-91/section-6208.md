@@ -3,9 +3,10 @@ title: "Section 6208 - Investigations and power to subpoena"
 usc_title: 7
 usc_section: "6208"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6208"
-generated_at: "2026-03-30T02:53:42.427Z"
+generated_at: "2026-11-23T20:25:41.688Z"
+status: "active"
 ---
 
 # § 6208. Investigations and power to subpoena
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:42.427Z"
 - **(d)** Any failure to obey such order of the court may be punished by such court as a contempt thereof.
 - **(e)** Process in any such case may be served in the judicial district of which such person resides or conducts business or wherever such person may be found.
 - **(f)** The site of any hearings held under section 6206 or 6207 of this title shall be within the judicial district where such person is an inhabitant or has a principal place of business.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XIX, § 1959](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3878](https://www.govinfo.gov/link/statute/104/3878); [Pub. L. 102–237, title VIII, § 805(3)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1882](https://www.govinfo.gov/link/statute/105/1882).)*

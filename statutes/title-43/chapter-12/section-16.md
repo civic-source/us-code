@@ -3,9 +3,10 @@ title: "Section 16 - Willow Lake Natural Treatment System Project"
 usc_title: 43
 usc_section: "16"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 16"
-generated_at: "2026-03-30T02:55:57.444Z"
+generated_at: "2026-11-23T20:27:06.195Z"
+status: "active"
 ---
 
 # § 390h–16. Willow Lake Natural Treatment System Project
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:57.444Z"
 - **(a)** The Secretary, in cooperation with the city of Salem, Oregon, is authorized to participate in the design, planning, and construction of the Willow Lake Natural Treatment System Project to reclaim and reuse wastewater within and without the service area of the city of Salem.
 - **(b)** The Federal share of the cost of the project authorized by this section shall not exceed 25 percent of the total cost of the project.
 - **(c)** The Secretary shall not provide funds for the operation and maintenance of the project authorized by this section.
+
+## Source Credit
+
+*([Pub. L. 102–575, title XVI, § 1634](https://www.govinfo.gov/link/plaw/102/public/575), as added [Pub. L. 105–321, § 6(a)](https://www.govinfo.gov/link/plaw/105/public/321), Oct. 30, 1998, [112 Stat. 3025](https://www.govinfo.gov/link/statute/112/3025).)*

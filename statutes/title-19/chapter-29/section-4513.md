@@ -3,9 +3,10 @@ title: "Section 4513 - Implementing actions in anticipation of entry into force;
 usc_title: 19
 usc_section: "4513"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 4513"
-generated_at: "2026-03-30T02:54:24.709Z"
+generated_at: "2026-11-23T20:26:11.151Z"
+status: "active"
 ---
 
 # § 4513. Implementing actions in anticipation of entry into force; initial regulations; tariff proclamation authority
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:54:24.709Z"
       - **(ii)** Notwithstanding clause (i), and subject to the consultation and layover provisions of section 4514 of this title , the President may proclaim—
         - **(I)** such modifications to the provisions proclaimed under the authority of subparagraph (A) as are necessary to implement an agreement with one or more USMCA countries pursuant to article 6.4 of the USMCA; and
         - **(II)** before the end of the 1-year period beginning on the date on which the USMCA enters into force, modifications to correct any typographical, clerical, or other nonsubstantive technical error regarding the provisions of chapters 50 through 63 of the USMCA.
+
+## Source Credit
+
+*([Pub. L. 116–113, title I, § 103](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 15](https://www.govinfo.gov/link/statute/134/15).)*

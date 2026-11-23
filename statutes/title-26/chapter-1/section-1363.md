@@ -3,9 +3,10 @@ title: "Section 1363 - Effect of election on corporation"
 usc_title: 26
 usc_section: "1363"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1363"
-generated_at: "2026-03-30T02:55:27.770Z"
+generated_at: "2026-11-23T20:26:46.095Z"
+status: "active"
 ---
 
 # § 1363. Effect of election on corporation
@@ -40,3 +41,11 @@ generated_at: "2026-03-30T02:55:27.770Z"
       - **(ii)** if clause (i) does not apply, by using cost or market, whichever is lower.
     - **(D)** Except as provided in regulations, the corporation referred to in paragraph (1) shall not be treated as a member of an affiliated group with respect to the amount included in gross income under paragraph (1).
   - **(5)** Sections 1367(a)(2)(D) and 1371(c)(1) shall not apply with respect to any increase in the tax imposed by reason of this subsection.
+
+In general
+
+Exception
+
+## Source Credit
+
+*(Added [Pub. L. 97–354, § 2](https://www.govinfo.gov/link/plaw/97/public/354), Oct. 19, 1982, [96 Stat. 1676](https://www.govinfo.gov/link/statute/96/1676); amended [Pub. L. 98–369, div. A, title VII, § 721(a)](https://www.govinfo.gov/link/plaw/98/public/369), (b)(1), (p), July 18, 1984, [98 Stat. 966](https://www.govinfo.gov/link/statute/98/966), 970; [Pub. L. 99–514, title V, § 511(d)(2)(C)](https://www.govinfo.gov/link/plaw/99/public/514), title VI, § 632(b), title VII, § 701(e)(4)(J), Oct. 22, 1986, [100 Stat. 2249](https://www.govinfo.gov/link/statute/100/2249), 2277, 2343; [Pub. L. 100–203, title X, § 10227(a)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–416](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–647, title I, § 1006(f)(7)](https://www.govinfo.gov/link/plaw/100/public/647), title II, § 2004(n), Nov. 10, 1988, [102 Stat. 3407](https://www.govinfo.gov/link/statute/102/3407), 3608; [Pub. L. 109–135, title IV, § 411(a)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2636](https://www.govinfo.gov/link/statute/119/2636).)*

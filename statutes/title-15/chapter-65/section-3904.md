@@ -3,9 +3,10 @@ title: "Section 3904 - Securities laws"
 usc_title: 15
 usc_section: "3904"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 3904"
-generated_at: "2026-03-30T02:54:08.196Z"
+generated_at: "2026-11-23T20:26:04.320Z"
+status: "active"
 ---
 
 # § 3904. Securities laws
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:08.196Z"
   - **(2)** considered to be securities for purposes of the provisions of section 17 of the Securities Act of 1933 [ 15 U.S.C. 77q ] and the provisions of section 10 of the Securities Exchange Act of 1934 [ 15 U.S.C. 78j ].
 - **(b)** A risk retention group shall not be considered to be an investment company for purposes of the Investment Company Act of 1940 ( 15 U.S.C. 80a–1 et seq.).
 - **(c)** The ownership interests of members in a risk retention group shall not be considered securities for purposes of any State blue sky law.
+
+## Source Credit
+
+*([Pub. L. 97–45, § 5](https://www.govinfo.gov/link/plaw/97/public/45), Sept. 25, 1981, [95 Stat. 952](https://www.govinfo.gov/link/statute/95/952).)*

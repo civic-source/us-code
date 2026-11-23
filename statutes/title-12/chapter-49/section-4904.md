@@ -3,9 +3,10 @@ title: "Section 4904 - Notification upon cancellation or termination"
 usc_title: 12
 usc_section: "4904"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4904"
-generated_at: "2026-03-30T02:53:53.520Z"
+generated_at: "2026-11-23T20:25:59.436Z"
+status: "active"
 ---
 
 # § 4904. Notification upon cancellation or termination
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:53.520Z"
       - **(i)** the date on which a request is received under section 4902(a)(1) of this title ; or
       - **(ii)** the date on which the mortgagor satisfies any evidence and certification requirements under section 4902(a)(3) 1 1 See References in Text note below. of this title; and
     - **(B)** with respect to termination of private mortgage insurance under section 4902(b) of this title , not later than 30 days after the scheduled termination date.
+
+## Source Credit
+
+*([Pub. L. 105–216, § 5](https://www.govinfo.gov/link/plaw/105/public/216), July 29, 1998, [112 Stat. 903](https://www.govinfo.gov/link/statute/112/903).)*

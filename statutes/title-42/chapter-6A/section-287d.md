@@ -3,9 +3,10 @@ title: "Section 287d - Office of Research on Women’s Health"
 usc_title: 42
 usc_section: "287d"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 287d"
-generated_at: "2026-03-30T02:56:10.752Z"
+generated_at: "2026-11-23T20:27:20.269Z"
+status: "active"
 ---
 
 # § 287d. Office of Research on Women’s Health
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:56:10.752Z"
     - **(B)** for which the factors of medical risk or types of medical intervention are different for women, or for which it is unknown whether such factors or types are different for women; or
     - **(C)** with respect to which there has been insufficient clinical research involving women as subjects or insufficient clinical data on women.
   - **(2)** The term “research on women’s health” means research on women’s health conditions, including research on preventing such conditions.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title IV, § 486, as added [Pub. L. 103–43, title I, § 141(a)(3)](https://www.govinfo.gov/link/plaw/103/public/43), June 10, 1993, [107 Stat. 136](https://www.govinfo.gov/link/statute/107/136); amended [Pub. L. 105–340, title I, § 106](https://www.govinfo.gov/link/plaw/105/public/340), Oct. 31, 1998, [112 Stat. 3193](https://www.govinfo.gov/link/statute/112/3193); [Pub. L. 111–148, title III, § 3509(c)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 534](https://www.govinfo.gov/link/statute/124/534); [Pub. L. 114–255, div. A, title II, § 2038(c)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1065](https://www.govinfo.gov/link/statute/130/1065); [Pub. L. 117–103, div. P, title I, § 141(d)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 798](https://www.govinfo.gov/link/statute/136/798).)*

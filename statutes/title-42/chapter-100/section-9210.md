@@ -3,9 +3,10 @@ title: "Section 9210 - Analysis of applications of wind energy systems"
 usc_title: 42
 usc_section: "9210"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9210"
-generated_at: "2026-03-30T02:56:11.351Z"
+generated_at: "2026-11-23T20:27:23.081Z"
+status: "active"
 ---
 
 # § 9210. Analysis of applications of wind energy systems
@@ -26,3 +27,7 @@ The Secretary shall—
   - **(3)** determine the necessity for, and make recommendations to the Committee on Energy and Natural Resources of the Senate and the Committee on Science and Technology of the House of Representatives within eighteen months after September 8, 1980 , on, the need for any additional incentives for either users or manufacturers, in each of the potential markets for wind energy systems, to accelerate the widespread utilization of wind energy technologies;
   - **(4)** evaluate the actual performance of wind energy systems in various applications, including but not limited to residential, agricultural, large and small scale irrigation pumping, industrial, commercial, remote nonnetwork utility, and other applications, and report thereon to the Congress within two years after September 8, 1980 ; and
   - **(5)** in carrying out his functions under this section, consult with the appropriate government agencies, industry representatives, and members of the scientific and technical community having expertise and interest in this subject.
+
+## Source Credit
+
+*([Pub. L. 96–345, § 11](https://www.govinfo.gov/link/plaw/96/public/345), Sept. 8, 1980, [94 Stat. 1145](https://www.govinfo.gov/link/statute/94/1145); [Pub. L. 99–386, title I, § 104(b)](https://www.govinfo.gov/link/plaw/99/public/386), Aug. 22, 1986, [100 Stat. 821](https://www.govinfo.gov/link/statute/100/821).)*

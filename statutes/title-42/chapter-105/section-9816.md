@@ -3,9 +3,10 @@ title: "Section 9816 - Department of Housing and Urban Development programs"
 usc_title: 42
 usc_section: "9816"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9816"
-generated_at: "2026-03-30T02:56:11.366Z"
+generated_at: "2026-11-23T20:27:23.136Z"
+status: "active"
 ---
 
 # § 9816. Department of Housing and Urban Development programs
@@ -14,3 +15,17 @@ generated_at: "2026-03-30T02:56:11.366Z"
   - **(2)** such land for housing and business location and expansion under title I of the Housing and Community Development Act of 1974 [ 42 U.S.C. 5301 et seq.]; and
   - **(3)** such funds for comprehensive planning under section 701 of the Housing Act of 1954, 1 1 See References in Text note below. as amended by section 401 of the Housing and Community Development Act of 1974, as shall further the purposes of this subchapter.
 
+
+In General
+
+Form of Assistance
+
+Matching Requirement
+
+Implementation
+
+Authorization
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 627](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 497](https://www.govinfo.gov/link/statute/95/497).)*

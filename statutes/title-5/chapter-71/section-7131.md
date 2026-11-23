@@ -3,9 +3,10 @@ title: "Section 7131 - Official time"
 usc_title: 5
 usc_section: "7131"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 7131"
-generated_at: "2026-03-30T02:52:56.036Z"
+generated_at: "2026-11-23T20:25:32.055Z"
+status: "active"
 ---
 
 # § 7131. Official time
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:52:56.036Z"
 - **(d)** Except as provided in the preceding subsections of this section—
   - **(1)** any employee representing an exclusive representative, or
   - **(2)** in connection with any other matter covered by this chapter, any employee in an appropriate unit represented by an exclusive representative,
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title VII, § 701](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1214](https://www.govinfo.gov/link/statute/92/1214).)*

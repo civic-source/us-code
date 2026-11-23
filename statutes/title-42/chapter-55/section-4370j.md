@@ -3,9 +3,10 @@ title: "Section 4370j - Municipal Ombudsman"
 usc_title: 42
 usc_section: "4370j"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4370j"
-generated_at: "2026-03-30T02:56:11.204Z"
+generated_at: "2026-11-23T20:27:22.383Z"
+status: "active"
 ---
 
 # § 4370j. Municipal Ombudsman
@@ -25,3 +26,13 @@ generated_at: "2026-03-30T02:56:11.204Z"
     - **(C)** the flexibility referred to in subsection (c)(2); and
     - **(D)** any resources developed by the Administrator related to integrated plans under section 402(s) of the Federal Water Pollution Control Act [ 33 U.S.C. 1342(s) ]; and
   - **(2)** a copy of each permit, order, or judicial consent decree that implements or incorporates such an integrated plan.
+
+“In this Act [see Short Title of 2019 Amendment note set out under section 1251 of Title 33 , Navigation and Navigable Waters]:
+
+Administrator
+
+Municipality
+
+## Source Credit
+
+*([Pub. L. 115–436, § 4](https://www.govinfo.gov/link/plaw/115/public/436), Jan. 14, 2019, [132 Stat. 5560](https://www.govinfo.gov/link/statute/132/5560).)*

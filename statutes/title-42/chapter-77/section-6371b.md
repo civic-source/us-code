@@ -3,9 +3,10 @@ title: "Section 6371b - Preliminary energy audits and energy audits"
 usc_title: 42
 usc_section: "6371b"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6371b"
-generated_at: "2026-03-30T02:56:11.258Z"
+generated_at: "2026-11-23T20:27:22.668Z"
+status: "active"
 ---
 
 # § 6371b. Preliminary energy audits and energy audits
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.258Z"
 - **(e)**
   - **(1)** Except as provided in paragraph (2), amounts made available under this section (together with any other amounts made available from other Federal sources) may not be used to pay more than 50 percent of the costs of any preliminary energy audit or any energy audit.
   - **(2)** Upon the request of the Governor, the Secretary may make grants to a State for up to 100 percent of the costs of any preliminary energy audits and energy audits, subject to the requirements of section 6371g(a)(3) of this title .
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 393](https://www.govinfo.gov/link/plaw/94/public/163), as added [Pub. L. 95–619, title III, § 302(a)](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3242](https://www.govinfo.gov/link/statute/92/3242).)*

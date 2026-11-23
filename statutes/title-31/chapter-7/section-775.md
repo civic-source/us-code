@@ -3,9 +3,10 @@ title: "Section 775 - Refunds"
 usc_title: 31
 usc_section: "775"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 775"
-generated_at: "2026-03-30T02:55:34.048Z"
+generated_at: "2026-11-23T20:26:51.695Z"
+status: "active"
 ---
 
 # § 775. Refunds
@@ -24,3 +25,46 @@ generated_at: "2026-03-30T02:55:34.048Z"
   - **(6)** to the next of kin that the General Counsel of the Government Accountability Office decides is entitled to the refund under the laws of the domicile of the Comptroller General or retired Comptroller General at the time of death.
 - **(e)** The General Counsel is not subject to section 771(1) and (2) of this title when making a decision about a surviving spouse or child under subsection (c) or (d) of this section.
 - **(f)** If the annuities of all individuals entitled to survivor annuities under this subchapter end before the amount of annuities paid equals the amount deducted under sections 772 and 773 of this title, plus interest of 4 percent before January 1, 1948 , and 3 percent after December 31, 1947 , compounded every December 31 until the date of death, the remainder shall be paid under subsection (d) of this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 775(a) | 31:43(last par. 1st sentence). | June 10, 1921, ch. 18 , 42 Stat. 20 , § 303(last par.); added Oct. 25, 1978 , Pub. L. 95–512, § 4(c) , 92 Stat. 1801 . |
+| 775(b) | 31:43b(i). | June 10, 1921, ch. 18 , 42 Stat. 20 , § 319(i), (j)(less last 13 words before colon), (k); added July 13, 1959 , Pub. L. 86–87 , 73 Stat. 198 . |
+| 775(c)–(e) | 31:43(last par. last sentence). |  |
+|  | 31:43b(j)(less last 13 words before colon). |  |
+| 775(f) | 31:43b(k). |  |
+
+
+Historical and Revision Notes
+
+775(a)
+
+June 10, 1921, ch. 18
+
+42 Stat. 20
+
+Oct. 25, 1978
+
+Pub. L. 95–512, § 4(c)
+
+92 Stat. 1801
+
+775(b)
+
+June 10, 1921, ch. 18
+
+42 Stat. 20
+
+July 13, 1959
+
+Pub. L. 86–87
+
+73 Stat. 198
+
+775(c)–(e)
+
+775(f)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 905](https://www.govinfo.gov/link/statute/96/905); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814).)*

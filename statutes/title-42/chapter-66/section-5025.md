@@ -3,9 +3,10 @@ title: "Section 5025 - Programs of national significance"
 usc_title: 42
 usc_section: "5025"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5025"
-generated_at: "2026-03-30T02:56:11.213Z"
+generated_at: "2026-11-23T20:27:22.438Z"
+status: "active"
 ---
 
 # § 5025. Programs of national significance
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:56:11.213Z"
   - **(1)** Except as provided in paragraph (2), from the amounts appropriated under subsection (a), (b), (c), or (d) of section 5082 of this title , for each fiscal year there shall be available to the Director such sums as may be necessary to make grants under subsection (a).
   - **(2)** No funds shall be available to the Director to make grants under subsection (a) for a fiscal year unless the amounts appropriated under subsections (a), (b), and (c) of section 5082 of this title and available for such fiscal year to carry out parts A, B, and C (without regard to this section) are sufficient to maintain the number of projects and volunteers funded under parts A, B, and C, respectively, in the preceding fiscal year.
 - **(e)** The Director shall widely disseminate information on grants that may be made under subsection (a) to field personnel of the Corporation and to community volunteer organizations that request such information.
+
+## Source Credit
+
+*([Pub. L. 93–113, title II, § 225](https://www.govinfo.gov/link/plaw/93/public/113), as added [Pub. L. 101–204, title V, § 502(a)](https://www.govinfo.gov/link/plaw/101/public/204), Dec. 7, 1989, [103 Stat. 1815](https://www.govinfo.gov/link/statute/103/1815); amended [Pub. L. 103–82, title III, § 349](https://www.govinfo.gov/link/plaw/103/public/82), title IV, § 405(a)(6), Sept. 21, 1993, [107 Stat. 906](https://www.govinfo.gov/link/statute/107/906), 920; [Pub. L. 111–13, title II, § 2146(d)](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1589](https://www.govinfo.gov/link/statute/123/1589).)*

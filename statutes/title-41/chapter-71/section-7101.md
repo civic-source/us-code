@@ -3,9 +3,10 @@ title: "Section 7101 - Definitions"
 usc_title: 41
 usc_section: "7101"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 7101"
-generated_at: "2026-03-30T02:55:55.811Z"
+generated_at: "2026-11-23T20:27:04.475Z"
+status: "active"
 ---
 
 # § 7101. Definitions
@@ -31,3 +32,52 @@ In this chapter:
     - **(C)** an independent establishment as defined in section 104 of title 5 , except that the term does not include the Government Accountability Office; and
     - **(D)** a wholly owned Government corporation as defined in section 9101(3) of title 31 .
   - **(9)** The term “misrepresentation of fact” means a false statement of substantive fact, or conduct that leads to a belief of a substantive fact material to proper understanding of the matter in hand, made with intent to deceive or mislead.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 7101 | 41:601. | Pub. L. 95–563, § 2 , Nov. 1, 1978 , 92 Stat. 2383 ; Pub. L. 104–106, div. D, title XLIII, § 4322(b)(5) , Feb. 10, 1996 , 110 Stat. 677 ; Pub. L. 109–163, div. A, title VIII, § 847(d)(1) , Jan. 6, 2006 , 119 Stat. 3393 . |
+
+
+Administrator
+
+Agency board or agency board of contract appeals
+
+Agency head
+
+Armed services board
+
+Civilian board
+
+Contracting officer
+
+Contractor
+
+Executive agency
+
+Misrepresentation of fact
+
+Historical and Revision Notes
+
+7101
+
+Pub. L. 95–563, § 2
+
+Nov. 1, 1978
+
+92 Stat. 2383
+
+Pub. L. 104–106, div. D, title XLIII, § 4322(b)(5)
+
+Feb. 10, 1996
+
+110 Stat. 677
+
+Pub. L. 109–163, div. A, title VIII, § 847(d)(1)
+
+Jan. 6, 2006
+
+119 Stat. 3393
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3816](https://www.govinfo.gov/link/statute/124/3816).)*

@@ -3,9 +3,10 @@ title: "Section 1790e - Temporary Corporate Credit Union Stabilization Fund"
 usc_title: 12
 usc_section: "1790e"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1790e"
-generated_at: "2026-03-30T02:53:53.443Z"
+generated_at: "2026-11-23T20:25:59.090Z"
+status: "active"
 ---
 
 # § 1790e. Temporary Corporate Credit Union Stabilization Fund
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:53.443Z"
 - **(f)** The Board may request the Secretary of the Treasury to invest such portion of the Stabilization Fund as is not, in the Board’s judgment, required to meet the current needs of the Stabilization Fund. Such investments shall be made by the Secretary of the Treasury in public debt securities, with maturities suitable to the needs of the Stabilization Fund, as determined by the Board, and bearing interest at a rate determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturity.
 - **(g)** The Board shall submit an annual report to Congress on the financial condition and the results of the operation of the Stabilization Fund. The report is due to Congress within 30 days after each anniversary of the first advance made under subsection (c)(1). Because the Fund will use advances from the Treasury to meet corporate stabilization costs with full repayment of borrowings to Treasury at the Board’s discretion not due until 7 years from the initial advance, to the extent operating expenses of the Fund exceed income, the financial condition of the Fund may reflect a deficit. With planned and required future repayments, the Board shall resolve all deficits prior to termination of the Fund.
 - **(h)** Within 90 days following the seventh anniversary of the initial Stabilization Fund advance, or earlier at the Board’s discretion, the Board shall distribute any funds, property, or other assets remaining in the Stabilization Fund to the Insurance Fund and shall close the Stabilization Fund. If the Board extends the final repayment date as permitted under subsection (c)(3), the mandatory date for closing the Stabilization Fund shall be extended by the same number of days.
+
+## Source Credit
+
+*(June 26, 1934, ch. 750, title II, § 217, as added [Pub. L. 111–22, div. A, title II, § 204(f)(1)](https://www.govinfo.gov/link/plaw/111/public/22), May 20, 2009, [123 Stat. 1651](https://www.govinfo.gov/link/statute/123/1651); amended [Pub. L. 111–382, § 1](https://www.govinfo.gov/link/plaw/111/public/382), Jan. 4, 2011, [124 Stat. 4134](https://www.govinfo.gov/link/statute/124/4134).)*

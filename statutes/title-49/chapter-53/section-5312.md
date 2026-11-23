@@ -3,9 +3,10 @@ title: "Section 5312 - Public transportation innovation"
 usc_title: 49
 usc_section: "5312"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 5312"
-generated_at: "2026-03-30T02:56:19.314Z"
+generated_at: "2026-11-23T20:27:34.646Z"
+status: "active"
 ---
 
 # § 5312. Public transportation innovation
@@ -153,3 +154,243 @@ generated_at: "2026-03-30T02:56:19.314Z"
   - **(3)** The Secretary may make grants to, and enter into cooperative agreements with, the National Academy of Sciences to carry out activities under this subsection that the Secretary considers appropriate.
   - **(4)** If there would be a clear and direct financial benefit to an entity under a grant or contract financed under this subsection, the Secretary shall establish a Government share consistent with that benefit.
   - **(5)** Subsections (f) and (g) shall not apply to activities carried out under this subsection.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5312(a) | 49 App.:1605(a). | July 9, 1964 , Pub. L. 88–365, § 6(a) , 78 Stat. 305 ; May 25, 1967 , Pub. L. 90–19, § 20(a) , 81 Stat. 25 ; Oct. 15, 1970 , Pub. L. 91–453, § 13(b) , 84 Stat. 969 . |
+|  | 49 App.:1605(d). | July 9, 1964 , Pub. L. 88–365, § 6(d) , 78 Stat. 305 ; Sept. 8, 1966 , Pub. L. 89–562, § 3 , 80 Stat. 717 ; May 25, 1967 , Pub. L. 90–19, § 20(a) , 81 Stat. 25 . |
+| 5312(b)(1) | 49 App.:1607c(a) (1st, 2d sentences). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 11(a); added Sept. 8, 1966 , Pub. L. 89–562, § 2(a)(2) , 80 Stat. 716 . |
+| 5312(b)(2) | 49 App.:1607c(a) (3d sentence). |  |
+| 5312(b)(3) | 49 App.:1607c(a) (last sentence). |  |
+| 5312(c)(1) | 49 App.:1607b (1st sentence). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 10; added Sept. 8, 1966 , Pub. L. 89–562, § 2(a)(2) , 80 Stat. 716 ; restated Nov. 6, 1978 , Pub. L. 95–599, § 306 , 92 Stat. 2744 . |
+| 5312(c)(2) | 49 App.:1603(c) (1st sentence). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 4(c) (1st sentence); added Nov. 6, 1978 , Pub. L. 95–599, § 303(e) , 92 Stat. 2739 ; Apr. 2, 1987 , Pub. L. 100–17, § 320 , 101 Stat. 235 ; Dec. 18, 1991 , Pub. L. 102–240, § 3006(h)(1) , 105 Stat. 2090 . |
+| 5312(c)(3) | 49 App.:1607b (2d–last sentences). |  |
+
+
+In General
+
+Research, Development, Demonstration, and Deployment Projects.—
+
+In general
+
+Agreements
+
+Application.—
+
+In general
+
+Form and contents
+
+Accelerated implementation and deployment of advanced digital construction management systems.—
+
+In general
+
+Goals
+
+Publication
+
+Research.—
+
+In general
+
+Project eligibility
+
+Innovation and Development.—
+
+In general
+
+Project eligibility
+
+Demonstration, Deployment, and Evaluation.—
+
+In general
+
+Participants
+
+Project eligibility
+
+Evaluation
+
+Prohibition
+
+Definitions
+
+Annual Report on Research.—
+
+In general
+
+Updates
+
+Long-term research plans
+
+Government Share of Costs.—
+
+In general
+
+Non-government share
+
+Financial benefit
+
+Low or No Emission Vehicle Component Assessment.—
+
+Definitions
+
+Assessing low or no emission vehicle components.—
+
+In general
+
+Testing, evaluation, and analysis.—
+
+In general
+
+Requirements
+
+Fees
+
+Availability of amounts to pay for assessment
+
+Voluntary testing
+
+Compliance with section 5318
+
+Separate facility
+
+Capital equipment and directed research
+
+Cost share
+
+Low or no emission vehicle component performance reports
+
+Public availability of assessments
+
+Rule of construction
+
+Transit Cooperative Research Program.—
+
+In general
+
+Independent governing board.—
+
+Establishment
+
+Recommendations
+
+Federal assistance
+
+Government share of costs
+
+Limitation on applicability
+
+Historical and Revision Notes
+
+5312(a)
+
+July 9, 1964
+
+Pub. L. 88–365, § 6(a)
+
+78 Stat. 305
+
+May 25, 1967
+
+Pub. L. 90–19, § 20(a)
+
+81 Stat. 25
+
+Oct. 15, 1970
+
+Pub. L. 91–453, § 13(b)
+
+84 Stat. 969
+
+July 9, 1964
+
+Pub. L. 88–365, § 6(d)
+
+78 Stat. 305
+
+Sept. 8, 1966
+
+Pub. L. 89–562, § 3
+
+80 Stat. 717
+
+May 25, 1967
+
+Pub. L. 90–19, § 20(a)
+
+81 Stat. 25
+
+5312(b)(1)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Sept. 8, 1966
+
+Pub. L. 89–562, § 2(a)(2)
+
+80 Stat. 716
+
+5312(b)(2)
+
+5312(b)(3)
+
+5312(c)(1)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Sept. 8, 1966
+
+Pub. L. 89–562, § 2(a)(2)
+
+80 Stat. 716
+
+Nov. 6, 1978
+
+Pub. L. 95–599, § 306
+
+92 Stat. 2744
+
+5312(c)(2)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Nov. 6, 1978
+
+Pub. L. 95–599, § 303(e)
+
+92 Stat. 2739
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 320
+
+101 Stat. 235
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3006(h)(1)
+
+105 Stat. 2090
+
+5312(c)(3)
+
+In general
+
+Use of funds
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 811](https://www.govinfo.gov/link/statute/108/811); [Pub. L. 105–178, title III, § 3015(a)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 359](https://www.govinfo.gov/link/statute/112/359); [Pub. L. 109–59, title III](https://www.govinfo.gov/link/plaw/109/public/59), §§ 3002(b)(4), 3014(a)–(e)(1), Aug. 10, 2005, [119 Stat. 1545](https://www.govinfo.gov/link/statute/119/1545), 1596, 1597; [Pub. L. 110–244, title II, § 201(f)](https://www.govinfo.gov/link/plaw/110/public/244), June 6, 2008, [122 Stat. 1610](https://www.govinfo.gov/link/statute/122/1610); [Pub. L. 112–141, div. B, § 20011](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 686](https://www.govinfo.gov/link/statute/126/686); [Pub. L. 114–94, div. A, title III, § 3008(a)](https://www.govinfo.gov/link/plaw/114/public/94), (b), Dec. 4, 2015, [129 Stat. 1465](https://www.govinfo.gov/link/statute/129/1465), 1468; [Pub. L. 117–58, div. C, § 30007(a)](https://www.govinfo.gov/link/plaw/117/public/58), (c), Nov. 15, 2021, [135 Stat. 900](https://www.govinfo.gov/link/statute/135/900), 902.)*

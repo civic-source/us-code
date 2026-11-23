@@ -3,9 +3,10 @@ title: "Section 1123 - Contents of plan"
 usc_title: 11
 usc_section: "1123"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 1123"
-generated_at: "2026-03-30T02:53:53.884Z"
+generated_at: "2026-11-23T20:25:55.404Z"
+status: "active"
 ---
 
 # § 1123. Contents of plan
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:53:53.884Z"
   - **(6)** include any other appropriate provision not inconsistent with the applicable provisions of this title.
 - **(c)** In a case concerning an individual, a plan proposed by an entity other than the debtor may not provide for the use, sale, or lease of property exempted under section 522 of this title , unless the debtor consents to such use, sale, or lease.
 - **(d)** Notwithstanding subsection (a) of this section and sections 506(b), 1129(a)(7), and 1129(b) of this title, if it is proposed in a plan to cure a default the amount necessary to cure the default shall be determined in accordance with the underlying agreement and applicable nonbankruptcy law.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2631](https://www.govinfo.gov/link/statute/92/2631); [Pub. L. 98–353, title III, § 507](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 385](https://www.govinfo.gov/link/statute/98/385); [Pub. L. 103–394, title II, § 206](https://www.govinfo.gov/link/plaw/103/public/394), title III, §§ 304(h)(6), 305(a), title V, § 501(d)(31), Oct. 22, 1994, [108 Stat. 4123](https://www.govinfo.gov/link/statute/108/4123), 4134, 4146; [Pub. L. 109–8, title III, § 321(b)](https://www.govinfo.gov/link/plaw/109/public/8), title XV, § 1502(a)(7), Apr. 20, 2005, [119 Stat. 95](https://www.govinfo.gov/link/statute/119/95), 216.)*

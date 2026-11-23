@@ -3,9 +3,10 @@ title: "Section 2388 - Activities affecting armed forces during war"
 usc_title: 18
 usc_section: "2388"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2388"
-generated_at: "2026-03-30T02:54:16.505Z"
+generated_at: "2026-11-23T20:26:08.613Z"
+status: "active"
 ---
 
 # § 2388. Activities affecting armed forces during war
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:16.505Z"
 - **(b)** If two or more persons conspire to violate subsection (a) of this section and one or more such persons do any act to effect the object of the conspiracy, each of the parties to such conspiracy shall be punished as provided in said subsection (a).
 - **(c)** Whoever harbors or conceals any person who he knows, or has reasonable grounds to believe or suspect, has committed, or is about to commit, an offense under this section, shall be fined under this title or imprisoned not more than ten years, or both.
 - **(d)** This section shall apply within the admiralty and maritime jurisdiction of the United States, and on the high seas, as well as within the United States.
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 811](https://www.govinfo.gov/link/statute/62/811); [Pub. L. 103–322, title XXXIII, § 330016(1)(L)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2147](https://www.govinfo.gov/link/statute/108/2147).)*

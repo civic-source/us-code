@@ -3,9 +3,10 @@ title: "Section 5313 - Development of comprehensive plan for National Nutrition 
 usc_title: 7
 usc_section: "5313"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 5313"
-generated_at: "2026-03-30T02:53:42.414Z"
+generated_at: "2026-11-23T20:25:41.644Z"
+status: "active"
 ---
 
 # § 5313. Development of comprehensive plan for National Nutrition Monitoring and Related Research Program
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:53:42.414Z"
 - **(e)** Nothing in this section may be construed as modifying, or as authorizing the Secretaries or the comprehensive plan to modify, any provision of an appropriation Act (or any other provision of law relating to the use of appropriated funds) that specifies—
   - **(1)** the department or agency to which funds are appropriated; or
   - **(2)** the obligations of such department or agency with respect to the use of such funds.
+
+## Source Credit
+
+*([Pub. L. 101–445, title I, § 103](https://www.govinfo.gov/link/plaw/101/public/445), Oct. 22, 1990, [104 Stat. 1037](https://www.govinfo.gov/link/statute/104/1037).)*

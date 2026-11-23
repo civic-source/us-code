@@ -3,9 +3,10 @@ title: "Section 1865 - Bycatch reduction engineering program"
 usc_title: 16
 usc_section: "1865"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1865"
-generated_at: "2026-03-30T02:54:22.994Z"
+generated_at: "2026-11-23T20:26:20.575Z"
+status: "active"
 ---
 
 # § 1865. Bycatch reduction engineering program
@@ -27,3 +28,15 @@ generated_at: "2026-03-30T02:54:22.994Z"
   - **(1)** describes funding provided to implement this section;
   - **(2)** describes developments in gear technology achieved under this section; and
   - **(3)** describes improvements and reduction in bycatch and seabird interactions associated with implementing this section, as well as proposals to address remaining bycatch or seabird interaction problems.
+
+Agreement
+
+Deadlines
+
+Plan
+
+Follow-Up Report
+
+## Source Credit
+
+*([Pub. L. 94–265, title III, § 316](https://www.govinfo.gov/link/plaw/94/public/265), as added [Pub. L. 109–479, title I, § 116(a)](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3605](https://www.govinfo.gov/link/statute/120/3605).)*

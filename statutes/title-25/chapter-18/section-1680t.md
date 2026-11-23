@@ -3,9 +3,10 @@ title: "Section 1680t - Other GAO reports"
 usc_title: 25
 usc_section: "1680t"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1680t"
-generated_at: "2026-03-30T02:54:52.828Z"
+generated_at: "2026-11-23T20:26:25.532Z"
+status: "active"
 ---
 
 # § 1680t. Other GAO reports
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:54:52.828Z"
     - **(B)** how to most efficiently use that funding; and
     - **(C)** the identification of any inequities in the current distribution formula or inequitable results for any Indian tribe under the funding level, and any recommendations for addressing any inequities or inequitable results identified.
   - **(4)** In conducting the study under paragraph (1) and preparing the report under paragraph (3), the Comptroller General shall consult with the Service, Indian tribes, and tribal organizations.
+
+## Source Credit
+
+*([Pub. L. 94–437, title VIII, § 830](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

@@ -3,9 +3,10 @@ title: "Section 1742 - Search, rescue, and protection forces; emergency situatio
 usc_title: 43
 usc_section: "1742"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1742"
-generated_at: "2026-03-30T02:55:57.488Z"
+generated_at: "2026-11-23T20:27:06.366Z"
+status: "active"
 ---
 
 # § 1742. Search, rescue, and protection forces; emergency situations authorizing hiring
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:57.488Z"
 - **(b)** in protecting or rescuing, or in cooperating in the protection and rescue of, persons or animals endangered by an act of God, and
 - **(c)** in transporting deceased persons or persons seriously ill or injured to the nearest place where interested parties or local authorities are located.
 
+
+## Source Credit
+
+*([Pub. L. 94–579, title III, § 312](https://www.govinfo.gov/link/plaw/94/public/579), Oct. 21, 1976, [90 Stat. 2768](https://www.govinfo.gov/link/statute/90/2768).)*

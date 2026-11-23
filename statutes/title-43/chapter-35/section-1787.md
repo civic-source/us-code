@@ -3,9 +3,10 @@ title: "Section 1787 - Jupiter Inlet Lighthouse Outstanding Natural Area"
 usc_title: 43
 usc_section: "1787"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1787"
-generated_at: "2026-03-30T02:55:57.493Z"
+generated_at: "2026-11-23T20:27:06.384Z"
+status: "active"
 ---
 
 # § 1787. Jupiter Inlet Lighthouse Outstanding Natural Area
@@ -87,3 +88,7 @@ generated_at: "2026-03-30T02:55:57.493Z"
   - **(4)** the existing lease of the Jupiter Inlet Lighthouse on lot 18 from the Coast Guard to the Loxahatchee River Historical Society; or
   - **(5)** any easements or other less-than-fee interests in property appurtenant to existing Coast Guard facilities on lots 16 and 18.
 - **(f)** There are authorized to be appropriated such sums as are necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 110–229, title II, § 202](https://www.govinfo.gov/link/plaw/110/public/229), May 8, 2008, [122 Stat. 763](https://www.govinfo.gov/link/statute/122/763).)*

@@ -3,9 +3,10 @@ title: "Section 7614c - Budget submission and funding"
 usc_title: 7
 usc_section: "7614c"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7614c"
-generated_at: "2026-03-30T02:53:42.458Z"
+generated_at: "2026-11-23T20:25:41.813Z"
+status: "active"
 ---
 
 # § 7614c. Budget submission and funding
@@ -59,3 +60,7 @@ generated_at: "2026-03-30T02:53:42.458Z"
       - **(iv)** the private sector; and
   - **(2)** for each report submitted under this section on or after January 1, 2014 , a 5-year projection of national priorities with respect to agricultural research, extension, and education, taking into account domestic needs.
 - **(g)** Nothing in this section shall be construed so as to limit the authority of the Secretary under section 2257 of this title , with respect to the reprogramming or transfer of funds.
+
+## Source Credit
+
+*([Pub. L. 110–234, title VII, § 7506](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1259](https://www.govinfo.gov/link/statute/122/1259); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, § 7506, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2020; [Pub. L. 113–79, title VII, § 7513](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 901](https://www.govinfo.gov/link/statute/128/901); [Pub. L. 115–334, title XII, § 12301(a)(2)(C)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4950](https://www.govinfo.gov/link/statute/132/4950).)*

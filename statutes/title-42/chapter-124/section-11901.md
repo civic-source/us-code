@@ -3,9 +3,10 @@ title: "Section 11901 - Congressional findings"
 usc_title: 42
 usc_section: "11901"
 chapter: 124
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11901"
-generated_at: "2026-03-30T02:56:11.406Z"
+generated_at: "2026-11-23T20:27:23.329Z"
+status: "active"
 ---
 
 # § 11901. Congressional findings
@@ -20,3 +21,7 @@ The Congress finds that—
   - **(6)** the Federal Government should provide support for effective safety and security measures to combat drug-related and violent crime, primarily in and around public housing proj­ects with severe crime problems;
   - **(7)** closer cooperation should be encouraged between public and assisted housing managers, local law enforcement agencies, and residents in developing and implementing anti-crime programs; and
   - **(8)** anti-crime strategies should be improved through the expansion of community-oriented policing initiatives.
+
+## Source Credit
+
+*([Pub. L. 100–690, title V, § 5122](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4301](https://www.govinfo.gov/link/statute/102/4301); [Pub. L. 101–625, title V, § 581(a)](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4245](https://www.govinfo.gov/link/statute/104/4245); [Pub. L. 105–276, title V, § 586(b)](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2646](https://www.govinfo.gov/link/statute/112/2646).)*

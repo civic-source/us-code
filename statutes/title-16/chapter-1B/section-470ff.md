@@ -3,9 +3,10 @@ title: "Section 470ff - Civil penalties"
 usc_title: 16
 usc_section: "470ff"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 470ff"
-generated_at: "2026-03-30T02:54:22.854Z"
+generated_at: "2026-11-23T20:26:20.064Z"
+status: "active"
 ---
 
 # § 470ff. Civil penalties
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:22.854Z"
     - **(A)** after the order making the assessment has become a final order and such person has not filed a petition for judicial review of the order in accordance with paragraph (1), or
     - **(B)** after a court in an action brought under paragraph (1) has entered a final judgment upholding the assessment of a civil penalty,
 - **(c)** Hearings held during proceedings for the assessment of civil penalties authorized by subsection (a) shall be conducted in accordance with section 554 of title 5 . The Federal land manager may issue subpenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents, and administer oaths. Witnesses summoned shall be paid the same fees and mileage that are paid to witnesses in the courts of the United States. In case of contumacy or refusal to obey a subpena served upon any person pursuant to this paragraph, the district court of the United States for any district in which such person is found or resides or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the Federal land manager or to appear and produce documents before the Federal land manager, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
+
+## Source Credit
+
+*([Pub. L. 96–95, § 7](https://www.govinfo.gov/link/plaw/96/public/95), Oct. 31, 1979, [93 Stat. 725](https://www.govinfo.gov/link/statute/93/725).)*

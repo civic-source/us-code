@@ -3,9 +3,10 @@ title: "Section 17131 - Training Federal contracting officers to negotiate energ
 usc_title: 42
 usc_section: "17131"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17131"
-generated_at: "2026-03-30T02:56:11.498Z"
+generated_at: "2026-11-23T20:27:23.730Z"
+status: "active"
 ---
 
 # § 17131. Training Federal contracting officers to negotiate energy efficiency contracts
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.498Z"
   - **(1)** attorneys or contract officers with experience in negotiating and managing contracts described in subsection (c)(7) from any agency, except that the Secretary shall reimburse the related salaries and expenses of the attorneys or contract officers from amounts made available for carrying out this section to the extent the attorneys or contract officers are not employees of the Department; and
   - **(2)** private experts hired by the Secretary for the purposes of this section, except that the Secretary may not hire experts who are simultaneously employed by any company under contract to provide energy efficiency services to the Federal Government.
 - **(e)** There are authorized to be appropriated to the Secretary to carry out this section $750,000 for each of fiscal years 2008 through 2012.
+
+## Source Credit
+
+*([Pub. L. 110–140, title V, § 517](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1659](https://www.govinfo.gov/link/statute/121/1659).)*

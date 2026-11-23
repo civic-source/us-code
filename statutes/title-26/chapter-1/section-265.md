@@ -3,9 +3,10 @@ title: "Section 265 - Expenses and interest relating to tax-exempt income"
 usc_title: 26
 usc_section: "265"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 265"
-generated_at: "2026-03-30T02:55:27.658Z"
+generated_at: "2026-11-23T20:26:45.533Z"
+status: "active"
 ---
 
 # § 265. Expenses and interest relating to tax-exempt income
@@ -89,3 +90,19 @@ generated_at: "2026-03-30T02:55:27.658Z"
     - **(A)** In applying paragraph (2)(A), there shall not be taken into account tax-exempt obligations issued during 2009 or 2010.
     - **(B)** The amount of tax-exempt obligations not taken into account by reason of subparagraph (A) shall not exceed 2 percent of the amount determined under paragraph (2)(B).
     - **(C)** For purposes of this paragraph, a refunding bond (whether a current or advance refunding) shall be treated as issued on the date of the issuance of the refunded bond (or in the case of a series of refundings, the original bond).
+
+In general
+
+Obligations acquired pursuant to certain commitments
+
+Transitional rules
+
+Additional transitional rule
+
+In general.—
+
+Conforming amendments.—
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 78; [Pub. L. 88–272, title II, § 216(a)](https://www.govinfo.gov/link/plaw/88/public/272), Feb. 26, 1964, [78 Stat. 56](https://www.govinfo.gov/link/statute/78/56); [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1901(a)(37), 1906(b)(13)(A), title XXI, § 2137(e), Oct. 4, 1976, [90 Stat. 1770](https://www.govinfo.gov/link/statute/90/1770), 1834, 1931; [Pub. L. 96–223, title IV, § 404(b)(2)](https://www.govinfo.gov/link/plaw/96/public/223), Apr. 2, 1980, [94 Stat. 306](https://www.govinfo.gov/link/statute/94/306); [Pub. L. 97–34, title III](https://www.govinfo.gov/link/plaw/97/public/34), §§ 301(b)(2), 302(c)(2), (d)(1), Aug. 13, 1981, [95 Stat. 270](https://www.govinfo.gov/link/statute/95/270), 272, 274; [Pub. L. 98–369, div. A, title I](https://www.govinfo.gov/link/plaw/98/public/369), §§ 16(a), 56(c), July 18, 1984, [98 Stat. 505](https://www.govinfo.gov/link/statute/98/505), 574; [Pub. L. 99–514, title I, § 144](https://www.govinfo.gov/link/plaw/99/public/514), title IX, § 902(a), (b), (d), Oct. 22, 1986, [100 Stat. 2121](https://www.govinfo.gov/link/statute/100/2121), 2380–2382; [Pub. L. 100–647, title I, § 1009(b)(3)(A)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3446](https://www.govinfo.gov/link/statute/102/3446); [Pub. L. 101–508, title XI, § 11801(c)(4)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–523](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 105–34, title X, § 1084(c)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 955](https://www.govinfo.gov/link/statute/111/955); [Pub. L. 111–5, div. B, title I](https://www.govinfo.gov/link/plaw/111/public/5), §§ 1501(a), 1502(a), Feb. 17, 2009, [123 Stat. 353](https://www.govinfo.gov/link/statute/123/353).)*

@@ -3,9 +3,10 @@ title: "Section 6 - Non-sunscreen time and extent applications"
 usc_title: 21
 usc_section: "6"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 6"
-generated_at: "2026-03-30T02:54:54.262Z"
+generated_at: "2026-11-23T20:26:27.698Z"
+status: "active"
 ---
 
 # § 360fff–6. Non-sunscreen time and extent applications
@@ -48,3 +49,11 @@ generated_at: "2026-03-30T02:54:54.262Z"
   - **(3)** In promulgating regulations under this subsection, the Secretary shall issue a notice of proposed rulemaking that includes a copy of the proposed regulation, provide a period of not less than 60 calendar days for comments on the proposed regulation, and publish the final regulation not less than 30 calendar days before the effective date of the regulation.
   - **(4)** Notwithstanding any other provision of law, the Secretary shall promulgate regulations implementing this section only as described in paragraphs (1), (2), and (3).
   - **(5)** The Secretary shall finalize the regulations under this section not later than 27 months after November 26, 2014 .
+
+In general
+
+Order request
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 586F, as added [Pub. L. 113–195, § 3](https://www.govinfo.gov/link/plaw/113/public/195), Nov. 26, 2014, [128 Stat. 2046](https://www.govinfo.gov/link/statute/128/2046).)*

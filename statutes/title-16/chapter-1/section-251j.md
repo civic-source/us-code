@@ -3,12 +3,17 @@ title: "Section 251j - Property retention rights of landowners; use and occupanc
 usc_title: 16
 usc_section: "251j"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 251j"
-generated_at: "2026-03-30T02:54:22.745Z"
+generated_at: "2026-11-23T20:26:19.396Z"
+status: "active"
 ---
 
 # § 251j. Property retention rights of landowners; use and occupancy improvements; plan to be submitted to Secretary; approval evidenced by issuance of permit and certificate; limitation on acquisition power of Secretary
 
 Notwithstanding the provisions of section 251i of this title , any noncorporate owner or owners, as of January 1, 1976 , of property adjacent to Lake Ozette may retain title to such property: Provided , That such owner or owners consent to acquisition by the Secretary or 1 1 So in original. Probably should be “of”. scenic easements or other interests that allow only those improvements that the Secretary finds to be reasonably necessary for continued use and occupancy. Any such owner or owners who elects to improve his property or a portion thereof shall submit to the Secretary a plan which shall set forth the manner in which the property is to be improved and the use to which it is proposed to be put. If, upon review of such plan, the Secretary determines that it is compatible with the limitations of this section, he in his discretion may issue a permit to such owner and a certificate to that effect. Upon issuance of any such certificate and so long as such property is maintained and used in conformity therewith, the authority of the Secretary to acquire such property or interest therein without the consent of the owner shall be suspended.
 
+
+## Source Credit
+
+*([Pub. L. 94–578, title III, § 320(g)](https://www.govinfo.gov/link/plaw/94/public/578), Oct. 21, 1976, [90 Stat. 2741](https://www.govinfo.gov/link/statute/90/2741).)*

@@ -3,9 +3,10 @@ title: "Section 5123 - Organization of Indian tribes; constitution and bylaws an
 usc_title: 25
 usc_section: "5123"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 5123"
-generated_at: "2026-03-30T02:54:52.864Z"
+generated_at: "2026-11-23T20:26:25.710Z"
+status: "active"
 ---
 
 # § 5123. Organization of Indian tribes; constitution and bylaws and amendment thereof; special election
@@ -31,3 +32,9 @@ generated_at: "2026-03-30T02:54:52.864Z"
 - **(h)** Notwithstanding any other provision of this Act—
   - **(1)** each Indian tribe shall retain inherent sovereign power to adopt governing documents under procedures other than those specified in this section; and
   - **(2)** nothing in this Act invalidates any constitution or other governing document adopted by an Indian tribe after June 18, 1934 , in accordance with the authority described in paragraph (1).
+
+“For the purpose of this Act [probably means title I of Pub. L. 100–581 which amended this section and enacted provisions set out below], the term—
+
+## Source Credit
+
+*(June 18, 1934, ch. 576, § 16, [48 Stat. 987](https://www.govinfo.gov/link/statute/48/987); [Pub. L. 100–581, title I, § 101](https://www.govinfo.gov/link/plaw/100/public/581), Nov. 1, 1988, [102 Stat. 2938](https://www.govinfo.gov/link/statute/102/2938); [Pub. L. 103–263, § 5(b)](https://www.govinfo.gov/link/plaw/103/public/263), May 31, 1994, [108 Stat. 709](https://www.govinfo.gov/link/statute/108/709); [Pub. L. 106–179, § 3](https://www.govinfo.gov/link/plaw/106/public/179), Mar. 14, 2000, [114 Stat. 47](https://www.govinfo.gov/link/statute/114/47); [Pub. L. 108–204, title I, § 103](https://www.govinfo.gov/link/plaw/108/public/204), Mar. 2, 2004, [118 Stat. 543](https://www.govinfo.gov/link/statute/118/543).)*

@@ -3,9 +3,10 @@ title: "Section 9852b - Centers of Excellence in Early Childhood"
 usc_title: 42
 usc_section: "9852b"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9852b"
-generated_at: "2026-03-30T02:56:11.372Z"
+generated_at: "2026-11-23T20:27:23.166Z"
+status: "active"
 ---
 
 # § 9852b. Centers of Excellence in Early Childhood
@@ -56,3 +57,7 @@ generated_at: "2026-03-30T02:56:11.372Z"
   - **(2)** Not later than 48 months after December 12, 2007 , the organization shall prepare and submit to the Secretary and Congress a report containing the results of the research described in paragraph (1).
   - **(3)** Each center of excellence shall submit an annual report to the Secretary, at such time and in such manner as the Secretary may require, that contains a description of the activities the center carried out with funds received under this section, including a description of how such funds improved services for children and families.
 - **(f)** There are authorized to be appropriated such sums as may be necessary for each of fiscal years 2008 through 2012 to make bonus grants to centers of excellence under subsection (b) to carry out activities described in subsection (d) and research and report activities described in subsection (e).
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 657B](https://www.govinfo.gov/link/plaw/97/public/35), as added [Pub. L. 110–134, § 26](https://www.govinfo.gov/link/plaw/110/public/134), Dec. 12, 2007, [121 Stat. 1444](https://www.govinfo.gov/link/statute/121/1444); amended [Pub. L. 114–95, title IX, § 9215(nn)(6)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2177](https://www.govinfo.gov/link/statute/129/2177).)*

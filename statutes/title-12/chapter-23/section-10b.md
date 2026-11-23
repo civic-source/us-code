@@ -3,9 +3,10 @@ title: "Section 10b - Authority to regulate golden parachute and indemnification
 usc_title: 12
 usc_section: "10b"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 10b"
-generated_at: "2026-03-30T02:53:53.479Z"
+generated_at: "2026-11-23T20:25:59.267Z"
+status: "active"
 ---
 
 # § 2277a–10b. Authority to regulate golden parachute and indemnification payments
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:53:53.479Z"
 - **(e)** Nothing in this section—
   - **(1)** prohibits any Farm Credit System institution from purchasing any commercial insurance policy or fidelity bond, so long as the insurance policy or bond does not cover any legal or liability expense of an institution described in subsection (a)(2); or
   - **(2)** limits the powers, functions, or responsibilities of the Farm Credit Administration.
+
+## Source Credit
+
+*([Pub. L. 92–181, title V, § 5](https://www.govinfo.gov/link/plaw/92/public/181).61B, as added [Pub. L. 104–105, title II, § 218](https://www.govinfo.gov/link/plaw/104/public/105), Feb. 10, 1996, [110 Stat. 181](https://www.govinfo.gov/link/statute/110/181).)*

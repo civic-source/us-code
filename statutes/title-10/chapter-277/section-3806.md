@@ -3,9 +3,10 @@ title: "Section 3806 - Action in case of fraud"
 usc_title: 10
 usc_section: "3806"
 chapter: 277
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 3806"
-generated_at: "2026-03-30T02:53:38.198Z"
+generated_at: "2026-11-23T20:25:51.866Z"
+status: "active"
 ---
 
 # § 3806. Action in case of fraud
@@ -22,3 +23,27 @@ generated_at: "2026-03-30T02:53:38.198Z"
 - **(h)** The head of an agency shall prepare for each year a report containing the recommendations made by the remedy coordination official of that agency to reduce or suspend payments under subsection (c), the actions taken on the recommendations and the reasons for such actions, and an assessment of the effects of such actions on the Federal Government. The Secretary of each military department shall transmit the annual report of such department to the Secretary of Defense. Each such report shall be available to any member of Congress upon request.
 - **(i)** The head of an agency may not delegate responsibilities under this section to any person in a position below level IV of the Executive Schedule.
 - **(j)** This section applies to the agencies named in paragraphs (1), (2), (3), (4), and (6) of section 3063 of this title .
+
+Remedy Coordination Official Defined
+
+Recommendation to Reduce or Suspend Payments
+
+Reduction or Suspension of Payments
+
+Extent of Reduction or Suspension
+
+Written Justification
+
+Notice
+
+Review
+
+Annual Report
+
+Restriction on Delegation
+
+Inapplicability to Coast Guard
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1834(a)](https://www.govinfo.gov/link/plaw/116/public/283), (g), Jan. 1, 2021, [134 Stat. 4234](https://www.govinfo.gov/link/statute/134/4234), 4237.)*

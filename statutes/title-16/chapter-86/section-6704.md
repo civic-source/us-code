@@ -3,9 +3,10 @@ title: "Section 6704 - Establishment of Institutes"
 usc_title: 16
 usc_section: "6704"
 chapter: 86
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6704"
-generated_at: "2026-03-30T02:54:23.066Z"
+generated_at: "2026-11-23T20:26:20.815Z"
+status: "active"
 ---
 
 # § 6704. Establishment of Institutes
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:54:23.066Z"
   - **(2)** other organizations and entities in the interior West (such as the Western Governors’ Association).
 - **(f)** As a condition of the receipt of funds made available under this chapter, for each fiscal year, each Institute shall develop in consultation with the Secretary, for review by the Secretary, in consultation with the Secretary of the Interior, an annual work plan that includes assurances, satisfactory to the Secretaries, that the proposed work of the Institute will serve the informational needs of affected entities.
 - **(g)** If after 2 years after October 5, 2004 , the Secretary finds that the Institute model established at the locations named in subsection (b)(2) would be constructive for other interior West States, the Secretary may establish 1 institute in each of those States.
+
+## Source Credit
+
+*([Pub. L. 108–317, § 5](https://www.govinfo.gov/link/plaw/108/public/317), Oct. 5, 2004, [118 Stat. 1207](https://www.govinfo.gov/link/statute/118/1207).)*

@@ -3,9 +3,10 @@ title: "Section 1304 - Surface owner protection"
 usc_title: 30
 usc_section: "1304"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1304"
-generated_at: "2026-03-30T02:55:29.403Z"
+generated_at: "2026-11-23T20:26:35.035Z"
+status: "active"
 ---
 
 # § 1304. Surface owner protection
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:29.403Z"
   - **(3)** have met the conditions of paragraphs (1) and (2) for a period of at least three years prior to the granting of the consent.
 - **(f)** This section shall not apply to Indian lands.
 - **(g)** Nothing in this section shall be construed as increasing or diminishing any property rights by the United States or by any other landowner.
+
+## Source Credit
+
+*([Pub. L. 95–87, title VII, § 714](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 524](https://www.govinfo.gov/link/statute/91/524).)*

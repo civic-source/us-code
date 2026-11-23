@@ -3,9 +3,10 @@ title: "Section 1629d - Dissenters rights"
 usc_title: 43
 usc_section: "1629d"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1629d"
-generated_at: "2026-03-30T02:55:57.483Z"
+generated_at: "2026-11-23T20:27:06.338Z"
+status: "active"
 ---
 
 # § 1629d. Dissenters rights
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:55:57.483Z"
 - **(e)**
   - **(1)** The cash payment made pursuant to subsection (a) or the principal amount of a note issued pursuant to subsection (d) to a dissenting shareholder shall be reduced by the amount of dividends paid to such shareholder with respect to his or her Settlement Common Stock after the date of the vote described in subsection (a)(1).
   - **(2)** Upon receipt of a cash payment pursuant to subsection (a) or a note pursuant to subsection (d), a dissenting shareholder shall no longer have an interest in the shares of Settlement Common Stock or in the Native Corporation.
+
+## Source Credit
+
+*([Pub. L. 92–203, § 38](https://www.govinfo.gov/link/plaw/92/public/203), as added [Pub. L. 100–241, § 9](https://www.govinfo.gov/link/plaw/100/public/241), Feb. 3, 1988, [101 Stat. 1802](https://www.govinfo.gov/link/statute/101/1802).)*

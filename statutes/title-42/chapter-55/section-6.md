@@ -3,9 +3,10 @@ title: "Section 6 - Litigation, judicial review, and savings provision"
 usc_title: 42
 usc_section: "6"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6"
-generated_at: "2026-03-30T02:56:11.205Z"
+generated_at: "2026-11-23T20:27:22.390Z"
+status: "active"
 ---
 
 # § 4370m–6. Litigation, judicial review, and savings provision
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:11.205Z"
 - **(e)** Nothing in this subchapter preempts, limits, or interferes with—
   - **(1)** any practice of seeking, considering, or responding to public comment; or
   - **(2)** any power, jurisdiction, responsibility, or authority that a Federal, State, or local governmental agency, metropolitan planning organization, Indian tribe, or project sponsor has with respect to carrying out a project or any other provisions of law applicable to any project, plan, or program.
+
+## Source Credit
+
+*([Pub. L. 114–94, div. D, title XLI, § 41007](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1758](https://www.govinfo.gov/link/statute/129/1758); [Pub. L. 117–58, div. G, title VIII, § 70801(e)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1293](https://www.govinfo.gov/link/statute/135/1293).)*

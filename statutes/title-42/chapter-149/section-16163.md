@@ -3,9 +3,10 @@ title: "Section 16163 - Miscellaneous provisions"
 usc_title: 42
 usc_section: "16163"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16163"
-generated_at: "2026-03-30T02:56:11.471Z"
+generated_at: "2026-11-23T20:27:23.622Z"
+status: "active"
 ---
 
 # § 16163. Miscellaneous provisions
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.471Z"
   - **(2)** industry and its representatives, including members of the energy and transportation industries; and
   - **(3)** in consultation with the Department of State, foreign governments and their representatives including international organizations.
 - **(b)** Nothing in this subchapter shall be construed to alter the regulatory authority of the Department.
+
+## Source Credit
+
+*([Pub. L. 109–58, title VIII, § 819](https://www.govinfo.gov/link/plaw/109/public/58), formerly § 814, Aug. 8, 2005, [119 Stat. 855](https://www.govinfo.gov/link/statute/119/855); renumbered § 819, [Pub. L. 117–58, div. D, title III, § 40314(1)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1008](https://www.govinfo.gov/link/statute/135/1008).)*

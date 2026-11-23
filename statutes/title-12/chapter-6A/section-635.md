@@ -3,9 +3,10 @@ title: "Section 635 - Powers and functions of Bank"
 usc_title: 12
 usc_section: "635"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 635"
-generated_at: "2026-03-30T02:53:53.385Z"
+generated_at: "2026-11-23T20:25:58.777Z"
+status: "active"
 ---
 
 # § 635. Powers and functions of Bank
@@ -300,3 +301,145 @@ generated_at: "2026-03-30T02:53:53.385Z"
       - **(ii)** The availability of private-sector financing for exports in the areas.
       - **(iii)** The feasibility and advisability of continuing the goal of subparagraph (A) of this paragraph with respect to paragraph (1)(B) after December 31, 2026 .
     - **(D)** The National Advisory Council on International Monetary and Financial Problems shall ensure that Bank authorizations pursuant to the Program on China and Transformational Exports are considered or reviewed expeditiously, consistent with the other credit standards required by law.
+
+Enhancement of Medium-Term Program
+
+Prohibition on Aid to Marxist-Leninist Countries.—
+
+In general
+
+Marxist-Leninist country defined.—
+
+In general
+
+Specific countries deemed to be marxist-leninist
+
+Presidential determination that a country has ceased to be marxist-leninist
+
+Presidential determination relating to financing in the national interest.—
+
+In general
+
+Separate determination for certain transactions
+
+Report of clause
+
+determinations to congress
+
+Report of clause
+
+determinations to congress
+
+(aa) such person has ceased to aid or abet any non-nuclear-weapon state to acquire any nuclear explosive device or to acquire unsafeguarded special nuclear material; and
+
+(bb) steps have been taken to ensure that the activities described in item (aa) will not resume; or
+
+(aa) the defense articles or services are nonlethal; and
+
+(bb) the primary end use of the defense articles or services will be for civilian purposes; and
+
+Prohibition Relating to Angola
+
+Prohibition relating to russian transfers of certain missile systems
+
+Prohibition on assistance to develop or promote certain railway connections and railway-related connections
+
+Transferability of Guarantees.—
+
+In general
+
+Guarantee coverage
+
+Competitive opportunity for insurance companies
+
+Responsive actions
+
+Notice of approval
+
+Definitions
+
+(aa) a change of at least 25 percent in the amount of a loan or guarantee requested in the application; and
+
+(bb) a change in the principal product to be produced as a result of any transaction that would be facilitated by the provision of the loan or guarantee.
+
+In general
+
+Report required
+
+In general
+
+Specific countries deemed to be marxist-leninist
+
+Prohibition Relating to Angola
+
+Authority to make payments subject to minimum amount of direct loan authority
+
+In general
+
+Budget scoring
+
+National Interest Report
+
+Form of Report
+
+Related Policies.—
+
+Definition
+
+Sunset
+
+In General
+
+Limitations on Amount of Risk-Sharing.—
+
+Per contract or other arrangement
+
+Per year
+
+Annual Reports
+
+Rule of Construction
+
+Termination
+
+Prohibition on Financing for Persons That Engage in Certain Sanctionable Activities.—
+
+In general
+
+Certification described
+
+(aa) the President has invoked the special rule described in section 4(e)(3) of that Act with respect to the person that engaged in that activity; or
+
+“(bb) (AA) the person that engaged in that activity determines, based on its best knowledge and belief, that the person meets the criteria described in subparagraph (A) of such section 4(e)(3) and has provided to the President the assurances described in subparagraph (B) of that section; and “(BB) the Secretary of State has issued an advisory opinion to that person that the person meets such criteria and has provided to the President those assurances; or
+
+Prohibition on Financing
+
+Advisory Opinions.—
+
+Authority
+
+Notice to congress
+
+Definitions
+
+Appropriate congressional committees; person
+
+Controlling sponsor
+
+Performance Standards
+
+Assessment of Standards
+
+“The Congress finds that—
+
+Authority to Extend Credit to Poland and Hungary
+
+Private Financial Intermediaries to Facilitate Exports to Poland
+
+Jimmy Carter.
+
+George W. Bush.
+
+## Source Credit
+
+*(July 31, 1945, ch. 341, § 2, [59 Stat. 526](https://www.govinfo.gov/link/statute/59/526); Dec. 28, 1945, ch. 602, [59 Stat. 666](https://www.govinfo.gov/link/statute/59/666); June 9, 1947, ch. 101, § 1, [61 Stat. 130](https://www.govinfo.gov/link/statute/61/130); May 21, 1953, ch. 64, § 1, [67 Stat. 28](https://www.govinfo.gov/link/statute/67/28); [Pub. L. 87–311](https://www.govinfo.gov/link/plaw/87/public/311), Sept. 26, 1961, [75 Stat. 673](https://www.govinfo.gov/link/statute/75/673); [Pub. L. 88–101, § 1(a)](https://www.govinfo.gov/link/plaw/88/public/101), Aug. 20, 1963, [77 Stat. 128](https://www.govinfo.gov/link/statute/77/128); [Pub. L. 90–267, § 1(a)](https://www.govinfo.gov/link/plaw/90/public/267) –(c), Mar. 13, 1968, [82 Stat. 47–49](https://www.govinfo.gov/link/statute/82/47); [Pub. L. 92–126, § 1(b)(1)](https://www.govinfo.gov/link/plaw/92/public/126), (2), (5), (6), Aug. 17, 1971, [85 Stat. 345](https://www.govinfo.gov/link/statute/85/345), 346; [Pub. L. 93–646](https://www.govinfo.gov/link/plaw/93/public/646), §§ 2–6, 13, Jan. 4, 1975, [88 Stat. 2333–2335](https://www.govinfo.gov/link/statute/88/2333), 2337; [Pub. L. 95–143](https://www.govinfo.gov/link/plaw/95/public/143), §§ 1–3, Oct. 26, 1977, [91 Stat. 1210](https://www.govinfo.gov/link/statute/91/1210); [Pub. L. 95–630, title XIX](https://www.govinfo.gov/link/plaw/95/public/630), §§ 1902–1904, 1907(a), 1909, 1910, 1915, 1916, Nov. 10, 1978, [92 Stat. 3724–3727](https://www.govinfo.gov/link/statute/92/3724); [Pub. L. 96–470, title II, § 210](https://www.govinfo.gov/link/plaw/96/public/470), Oct. 19, 1980, [94 Stat. 2245](https://www.govinfo.gov/link/statute/94/2245); [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title VI, §§ 612, 616(a), 617, 618(a), (c), 619(b)–(d), 620(a), 622], Nov. 30, 1983, [97 Stat. 1255](https://www.govinfo.gov/link/statute/97/1255), 1257, 1258, 1260, 1261; [Pub. L. 99–440, title II, § 204](https://www.govinfo.gov/link/plaw/99/public/440), Oct. 2, 1986, [100 Stat. 1096](https://www.govinfo.gov/link/statute/100/1096); [Pub. L. 99–472](https://www.govinfo.gov/link/plaw/99/public/472), §§ 2–11, 20(a), Oct. 15, 1986, [100 Stat. 1200–1203](https://www.govinfo.gov/link/statute/100/1200), 1209; [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 100–418, title III, § 3304](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1384](https://www.govinfo.gov/link/statute/102/1384); [Pub. L. 100–690, title IV, § 4703](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4293](https://www.govinfo.gov/link/statute/102/4293); [Pub. L. 101–240, title I](https://www.govinfo.gov/link/plaw/101/public/240), §§ 101(a), (c), (d), 102, Dec. 19, 1989, [103 Stat. 2493–2495](https://www.govinfo.gov/link/statute/103/2493); [Pub. L. 101–513, title V, § 562](https://www.govinfo.gov/link/plaw/101/public/513) (part), Nov. 5, 1990, [104 Stat. 2031](https://www.govinfo.gov/link/statute/104/2031); [Pub. L. 101–623, § 16](https://www.govinfo.gov/link/plaw/101/public/623), Nov. 21, 1990, [104 Stat. 3357](https://www.govinfo.gov/link/statute/104/3357); [Pub. L. 102–145, § 121(2)](https://www.govinfo.gov/link/plaw/102/public/145), (3), Oct. 28, 1991, as added [Pub. L. 102–266, § 102](https://www.govinfo.gov/link/plaw/102/public/266), Apr. 1, 1992, [106 Stat. 95](https://www.govinfo.gov/link/statute/106/95); [Pub. L. 102–429, title I](https://www.govinfo.gov/link/plaw/102/public/429), §§ 104, 105, 107, 109(a), 110–112(d), 114, 116, 121(a), Oct. 21, 1992, [106 Stat. 2189](https://www.govinfo.gov/link/statute/106/2189), 2190, 2193–2196, 2198; [Pub. L. 102–583](https://www.govinfo.gov/link/plaw/102/public/583), §§ 6(c), 12(a), (c)(1)(A), Nov. 2, 1992, [106 Stat. 4932](https://www.govinfo.gov/link/statute/106/4932), 4935; [Pub. L. 103–149, § 4(b)(5)](https://www.govinfo.gov/link/plaw/103/public/149), Nov. 23, 1993, [107 Stat. 1505](https://www.govinfo.gov/link/statute/107/1505); [Pub. L. 103–236, title VIII, § 825](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 514](https://www.govinfo.gov/link/statute/108/514); [Pub. L. 103–428, § 1(a)](https://www.govinfo.gov/link/plaw/103/public/428), (b), Oct. 31, 1994, [108 Stat. 4375](https://www.govinfo.gov/link/statute/108/4375); [Pub. L. 103–447, title I, § 102(a)](https://www.govinfo.gov/link/plaw/103/public/447), Nov. 2, 1994, [108 Stat. 4693](https://www.govinfo.gov/link/statute/108/4693); [Pub. L. 104–201, div. A, title XIII, § 1303(a)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2702](https://www.govinfo.gov/link/statute/110/2702); [Pub. L. 105–121](https://www.govinfo.gov/link/plaw/105/public/121), §§ 5, 7(a), 9–12, Nov. 26, 1997, [111 Stat. 2529](https://www.govinfo.gov/link/statute/111/2529), 2530; [Pub. L. 106–569, title XI](https://www.govinfo.gov/link/plaw/106/public/569), §§ 1103(d)(1), 1104(a)(1), (2), Dec. 27, 2000, [114 Stat. 3031](https://www.govinfo.gov/link/statute/114/3031); [Pub. L. 107–189](https://www.govinfo.gov/link/plaw/107/public/189), §§ 2, 6(a), (b), 7–8(b), 11, 13, 15–19, 21, 24(a)(1)–(2)(D), (b)(1)–(3), June 14, 2002, [116 Stat. 698](https://www.govinfo.gov/link/statute/116/698), 700, 704–709; [Pub. L. 109–438](https://www.govinfo.gov/link/plaw/109/public/438), §§ 3(a), (b)(2), (c), 5, 6(b)(2), 7, 8, 11, 12, 13(b), (c), 14(b), Dec. 20, 2006, [120 Stat. 3268](https://www.govinfo.gov/link/statute/120/3268), 3269, 3272, 3273, 3276, 3277, 3279, 3280; [Pub. L. 112–122](https://www.govinfo.gov/link/plaw/112/public/122), §§ 7, 8, 12(b), 22, 23, May 30, 2012, [126 Stat. 354](https://www.govinfo.gov/link/statute/126/354), 357, 363; [Pub. L. 114–94, div. E, title LII, § 52001(a)](https://www.govinfo.gov/link/plaw/114/public/94), title LIII, § 53001, title LIV, §§ 54001(c), 54002(a), (b), title LV, § 55001, Dec. 4, 2015, [129 Stat. 1767–1769](https://www.govinfo.gov/link/statute/129/1767); [Pub. L. 116–94, div. I, title IV](https://www.govinfo.gov/link/plaw/116/public/94), §§ 402(a), 403, 404(a), 405–407, Dec. 20, 2019, [133 Stat. 3021](https://www.govinfo.gov/link/statute/133/3021), 3023, 3024.)*

@@ -3,12 +3,17 @@ title: "Section 955 - Amendment, alteration, or repeal"
 usc_title: 43
 usc_section: "955"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 955"
-generated_at: "2026-03-30T02:55:57.466Z"
+generated_at: "2026-11-23T20:27:06.267Z"
+status: "active"
 ---
 
 # § 955. Amendment, alteration, or repeal
 
 Congress may at any time amend, alter, or repeal sections 952 to 955 of this title.
 
+
+## Source Credit
+
+*(Jan. 13, 1897, ch. 11, § 4, [29 Stat. 484](https://www.govinfo.gov/link/statute/29/484).)*

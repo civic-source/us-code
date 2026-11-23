@@ -3,9 +3,10 @@ title: "Section 66 - Treatment of community income"
 usc_title: 26
 usc_section: "66"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 66"
-generated_at: "2026-03-30T02:55:27.617Z"
+generated_at: "2026-11-23T20:26:45.295Z"
+status: "active"
 ---
 
 # § 66. Treatment of community income
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:27.617Z"
   - **(1)** The term “earned income” has the meaning given to such term by section 911(d)(2).
   - **(2)** The term “community income” means income which, under applicable community property laws, is treated as community income.
   - **(3)** The term “community property laws” means the community property laws of a State, a foreign country, or a possession of the United States.
+
+## Source Credit
+
+*(Added [Pub. L. 96–605, title I, § 101(a)](https://www.govinfo.gov/link/plaw/96/public/605), Dec. 28, 1980, [94 Stat. 3521](https://www.govinfo.gov/link/statute/94/3521); amended [Pub. L. 98–369, div. A, title IV, § 424(b)(1)](https://www.govinfo.gov/link/plaw/98/public/369) –(2)(B), July 18, 1984, [98 Stat. 802](https://www.govinfo.gov/link/statute/98/802), 803; [Pub. L. 101–239, title VII, § 7841(d)(8)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2428](https://www.govinfo.gov/link/statute/103/2428); [Pub. L. 105–206, title III, § 3201(b)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 739](https://www.govinfo.gov/link/statute/112/739).)*

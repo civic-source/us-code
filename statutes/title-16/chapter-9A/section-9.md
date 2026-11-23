@@ -3,12 +3,17 @@ title: "Section 9 - Establishment of fish hatchery in Pennsylvania"
 usc_title: 16
 usc_section: "9"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 9"
-generated_at: "2026-03-30T02:54:22.906Z"
+generated_at: "2026-11-23T20:26:20.264Z"
+status: "active"
 ---
 
 # § 760–9. Establishment of fish hatchery in Pennsylvania
 
 The Secretary of the Interior is authorized to establish, construct, equip, operate, and maintain a new fish hatchery in the northwestern part of the State of Pennsylvania.
 
+
+## Source Credit
+
+*([Pub. L. 86–205, § 1](https://www.govinfo.gov/link/plaw/86/public/205), Aug. 25, 1959, [73 Stat. 430](https://www.govinfo.gov/link/statute/73/430).)*

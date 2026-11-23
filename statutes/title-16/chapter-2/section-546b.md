@@ -3,9 +3,10 @@ title: "Section 546b - Seng Mountain and Bear Creek Scenic Areas, Jefferson Nati
 usc_title: 16
 usc_section: "546b"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 546b"
-generated_at: "2026-03-30T02:54:22.874Z"
+generated_at: "2026-11-23T20:26:20.142Z"
+status: "active"
 ---
 
 # § 546b. Seng Mountain and Bear Creek Scenic Areas, Jefferson National Forest, Virginia
@@ -57,3 +58,13 @@ generated_at: "2026-03-30T02:54:22.874Z"
 - **(l)** Subject to valid existing rights, all Federal land in the scenic areas is withdrawn from—
   - **(1)** location, entry, and patent under the mining laws; and
   - **(2)** operation of the mineral leasing and geothermal leasing laws.
+
+“In this subtitle [subtitle B (§§ 1101–1107) of title I of Pub. L. 111–11 , enacting this section and section 546b–1 of this title and enacting and amending provisions listed in a table of Wilderness Areas set out under section 1132 of this title ]:
+
+Scenic areas
+
+Secretary
+
+## Source Credit
+
+*([Pub. L. 111–11, title I, § 1104](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1004](https://www.govinfo.gov/link/statute/123/1004).)*

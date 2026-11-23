@@ -3,9 +3,10 @@ title: "Section 2762 - Procurement for cash sales"
 usc_title: 22
 usc_section: "2762"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2762"
-generated_at: "2026-03-30T02:55:05.384Z"
+generated_at: "2026-11-23T20:26:32.406Z"
+status: "active"
 ---
 
 # § 2762. Procurement for cash sales
@@ -16,3 +17,9 @@ generated_at: "2026-03-30T02:55:05.384Z"
 - **(d)**
   - **(1)** Procurement contracts made in implementation of sales under this section for defense articles and defense services wholly paid for from funds made available on a nonrepayable basis shall be priced on the same costing basis with regard to profit, overhead, independent research and development, bid and proposal, and other costing elements, as is applicable to procurements of like items purchased by the Department of Defense for its own use.
   - **(2)** Direct costs associated with meeting additional or unique requirements of the purchaser shall be allowable under contracts described in paragraph (1). Loadings applicable to such direct costs shall be permitted at the same rates applicable to procurement of like items purchased by the Department of Defense for its own use.
+
+“Section 22(d) of the Arms Export Control Act [subsec. (d) of this section], as added by subsection (a)—
+
+## Source Credit
+
+*([Pub. L. 90–629](https://www.govinfo.gov/link/plaw/90/public/629), ch. 2, § 22, Oct. 22, 1968, [82 Stat. 1323](https://www.govinfo.gov/link/statute/82/1323); [Pub. L. 93–189, § 25(3)](https://www.govinfo.gov/link/plaw/93/public/189), Dec. 17, 1973, [87 Stat. 730](https://www.govinfo.gov/link/statute/87/730); [Pub. L. 94–329, title II, § 207](https://www.govinfo.gov/link/plaw/94/public/329), June 30, 1976, [90 Stat. 738](https://www.govinfo.gov/link/statute/90/738); [Pub. L. 95–384, § 17](https://www.govinfo.gov/link/plaw/95/public/384), Sept. 26, 1978, [92 Stat. 740](https://www.govinfo.gov/link/statute/92/740); [Pub. L. 96–533, title I, § 105(b)(2)](https://www.govinfo.gov/link/plaw/96/public/533), Dec. 16, 1980, [94 Stat. 3134](https://www.govinfo.gov/link/statute/94/3134); [Pub. L. 104–107, title V, § 531A(a)](https://www.govinfo.gov/link/plaw/104/public/107), Feb. 12, 1996, [110 Stat. 731](https://www.govinfo.gov/link/statute/110/731); [Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XII, § 1223]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–498.)*

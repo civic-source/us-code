@@ -3,9 +3,10 @@ title: "Section 1288 - Areawide waste treatment management"
 usc_title: 33
 usc_section: "1288"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1288"
-generated_at: "2026-03-30T02:55:41.089Z"
+generated_at: "2026-11-23T20:26:53.997Z"
+status: "active"
 ---
 
 # § 1288. Areawide waste treatment management
@@ -92,3 +93,7 @@ generated_at: "2026-03-30T02:55:41.089Z"
   - **(7)** The Secretary, in consultation with the Administrator and subject to section 1314(k) of this title , shall, not later than September 30, 1978 , promulgate regulations for carrying out this subsection and for support and cooperation with other Federal and non-Federal agencies for implementation of this subsection.
   - **(8)** This program shall not be used to authorize or finance projects that would otherwise be eligible for assistance under the terms of Public Law 83–566 [ 16 U.S.C. 1001 et seq.].
   - **(9)** There are hereby authorized to be appropriated to the Secretary of Agriculture $200,000,000 for fiscal year 1979, $400,000,000 for fiscal year 1980, $100,000,000 for fiscal year 1981, $100,000,000 for fiscal year 1982, and such sums as may be necessary for fiscal years 1983 through 1990, to carry out this subsection. The program authorized under this subsection shall be in addition to, and not in substitution of, other programs in such area authorized by this or any other public law.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title II, § 208, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 839](https://www.govinfo.gov/link/statute/86/839); amended [Pub. L. 95–217](https://www.govinfo.gov/link/plaw/95/public/217), §§ 4(e), 31, 32, 33(a), 34, 35, Dec. 27, 1977, [91 Stat. 1566](https://www.govinfo.gov/link/statute/91/1566), 1576–1579; [Pub. L. 96–483, § 1(d)](https://www.govinfo.gov/link/plaw/96/public/483), (e), Oct. 21, 1980, [94 Stat. 2360](https://www.govinfo.gov/link/statute/94/2360); [Pub. L. 100–4, title I, § 101(d)](https://www.govinfo.gov/link/plaw/100/public/4), (e), Feb. 4, 1987, [101 Stat. 9](https://www.govinfo.gov/link/statute/101/9).)*

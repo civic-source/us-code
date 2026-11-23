@@ -3,12 +3,21 @@ title: "Section 11204 - Processing fees"
 usc_title: 46
 usc_section: "11204"
 chapter: 112
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 11204"
-generated_at: "2026-03-30T02:56:15.555Z"
+generated_at: "2026-11-23T20:27:27.165Z"
+status: "active"
 ---
 
 # § 11204. Processing fees
 
 - **(a)** The Secretary, or in the case of personnel of the Army Transport Service or the Naval Transport Service, the Secretary of Defense, shall collect a fee of $30 from each applicant for processing an application submitted under section 11203(a) of this title .
 - **(b)** Amounts received by the Secretary under this section shall be deposited in the General Fund of the Treasury as offsetting receipts of the department in which the Coast Guard is operating and ascribed to Coast Guard activities. Amounts received by the Secretary of Defense under this section shall be deposited in the General Fund of the Treasury as offsetting receipts of the Department of Defense. In either case, such amounts shall be available, subject to appropriation, for the administrative costs of processing applications under section 11203 of this title .
+
+Collection of Fees
+
+Treatment of Fees Collected
+
+## Source Credit
+
+*(Added [Pub. L. 105–368, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/105/public/368), Nov. 11, 1998, [112 Stat. 3337](https://www.govinfo.gov/link/statute/112/3337).)*

@@ -3,9 +3,10 @@ title: "Section 5841 - Establishment and transfers"
 usc_title: 42
 usc_section: "5841"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5841"
-generated_at: "2026-03-30T02:56:11.238Z"
+generated_at: "2026-11-23T20:27:22.560Z"
+status: "active"
 ---
 
 # § 5841. Establishment and transfers
@@ -26,3 +27,53 @@ generated_at: "2026-03-30T02:56:11.238Z"
 - **(g)** In addition to other functions and personnel transferred to the Commission, there are also transferred to the Commission—
   - **(1)** the functions of the Atomic Safety and Licensing Board Panel and the Atomic Safety and Licensing Appeal Board;
   - **(2)** such personnel as the Director of the Office of Management and Budget determines are necessary for exercising responsibilities under section 5845 of this title , relating to, research, for the purpose of confirmatory assessment relating to licensing and other regulation under the provisions of the Atomic Energy Act of 1954, as amended [ 42 U.S.C. 2011 et seq.], and of this chapter.
+
+In General
+
+Responsibilities of the Nuclear Regulatory Commission.—
+
+Determination of safety
+
+Testing
+
+Limitation
+
+Evaluation
+
+Content of Certification
+
+Design of Testing Procedures
+
+Testing Results: Reports and Public Disclosure
+
+Alternative Routes and Means of Transportation
+
+Inapplicability to Medical Devices
+
+Inapplicability to Military Uses
+
+Inapplicability to Previously Certified Containers
+
+Payment of Costs
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Jimmy Carter.
+
+The White House
+
+Jimmy Carter.
+
+The White House
+
+## Source Credit
+
+*([Pub. L. 93–438, title II, § 201](https://www.govinfo.gov/link/plaw/93/public/438), Oct. 11, 1974, [88 Stat. 1242](https://www.govinfo.gov/link/statute/88/1242); [Pub. L. 94–79, title II](https://www.govinfo.gov/link/plaw/94/public/79), §§ 201–203, Aug. 9, 1975, [89 Stat. 413](https://www.govinfo.gov/link/statute/89/413), 414; [Pub. L. 95–209, § 2](https://www.govinfo.gov/link/plaw/95/public/209), Dec. 13, 1977, [91 Stat. 1482](https://www.govinfo.gov/link/statute/91/1482); [Pub. L. 99–386, title I, § 109](https://www.govinfo.gov/link/plaw/99/public/386), Aug. 22, 1986, [100 Stat. 822](https://www.govinfo.gov/link/statute/100/822).)*

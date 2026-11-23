@@ -3,9 +3,10 @@ title: "Section 3232 - Duration; limitations"
 usc_title: 38
 usc_section: "3232"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 3232"
-generated_at: "2026-03-30T02:55:53.502Z"
+generated_at: "2026-11-23T20:27:01.837Z"
+status: "active"
 ---
 
 # § 3232. Duration; limitations
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:53.502Z"
   - **(1)** Subject to paragraph (3), the amount of educational assistance payable under this chapter for a national test for admission or national test providing an opportunity for course credit at institutions of higher learning described in section 3452(b) of this title is the amount of the fee charged for the test.
   - **(2)** The number of months of entitlement charged in the case of any individual for a test described in paragraph (1) is equal to the number (including any fraction) determined by dividing the total amount of educational assistance paid such individual for such test by the full-time monthly institutional rate of educational assistance, except for paragraph (1), such individual would otherwise be paid under this chapter.
   - **(3)** In no event shall payment of educational assistance under this subsection for a test described in paragraph (1) exceed the amount of the individual’s available entitlement under this chapter.
+
+## Source Credit
+
+*(Added [Pub. L. 94–502, title IV, § 404](https://www.govinfo.gov/link/plaw/94/public/502), Oct. 15, 1976, [90 Stat. 2396](https://www.govinfo.gov/link/statute/90/2396), § 1632; amended [Pub. L. 97–258, § 3(k)(2)](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 1065](https://www.govinfo.gov/link/statute/96/1065); [Pub. L. 98–160, title VII, § 702(8)](https://www.govinfo.gov/link/plaw/98/public/160), Nov. 21, 1983, 97 Stat 1009; [Pub. L. 99–576, title III, § 311](https://www.govinfo.gov/link/plaw/99/public/576), Oct. 28, 1986, [100 Stat. 3272](https://www.govinfo.gov/link/statute/100/3272); [Pub. L. 101–237, title IV](https://www.govinfo.gov/link/plaw/101/public/237), §§ 420(a)(2), 423(b)(1)(A), Dec. 18, 1989, [103 Stat. 2087](https://www.govinfo.gov/link/statute/103/2087), 2092; [Pub. L. 102–16, § 4](https://www.govinfo.gov/link/plaw/102/public/16), Mar. 22, 1991, [105 Stat. 49](https://www.govinfo.gov/link/statute/105/49); renumbered § 3232 and amended [Pub. L. 102–83, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/83), (c)(1), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 104–275, title I, § 106(c)(1)](https://www.govinfo.gov/link/plaw/104/public/275), Oct. 9, 1996, [110 Stat. 3329](https://www.govinfo.gov/link/statute/110/3329); [Pub. L. 106–419, title I, § 122(b)(2)](https://www.govinfo.gov/link/plaw/106/public/419), Nov. 1, 2000, [114 Stat. 1834](https://www.govinfo.gov/link/statute/114/1834); [Pub. L. 108–454, title I, § 106(b)(2)](https://www.govinfo.gov/link/plaw/108/public/454), Dec. 10, 2004, [118 Stat. 3603](https://www.govinfo.gov/link/statute/118/3603).)*

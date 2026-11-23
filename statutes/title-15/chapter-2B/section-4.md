@@ -3,9 +3,10 @@ title: "Section 4 - Private securities litigation"
 usc_title: 15
 usc_section: "4"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 4"
-generated_at: "2026-03-30T02:54:08.057Z"
+generated_at: "2026-11-23T20:26:03.554Z"
+status: "active"
 ---
 
 # § 78u–4. Private securities litigation
@@ -136,3 +137,17 @@ generated_at: "2026-03-30T02:54:08.057Z"
       - **(i)** a defendant in any private action arising under this chapter; or
       - **(ii)** a defendant in any private action arising under section 77k of this title , who is an outside director of the issuer of the securities that are the subject of the action; and
     - **(D)** the term “outside director” shall have the meaning given such term by rule or regulation of the Commission.
+
+(aa) has either filed the complaint or made a motion in response to a notice under subparagraph (A)(i);
+
+(bb) in the determination of the court, has the largest financial interest in the relief sought by the class; and
+
+(cc) otherwise satisfies the requirements of Rule 23 of the Federal Rules of Civil Procedure.
+
+(aa) will not fairly and adequately protect the interests of the class; or
+
+(bb) is subject to unique defenses that render such plaintiff incapable of adequately representing the class.
+
+## Source Credit
+
+*(June 6, 1934, ch. 404, title I, § 21D, as added and amended [Pub. L. 104–67, title I, § 101(b)](https://www.govinfo.gov/link/plaw/104/public/67), title II, § 201(a), Dec. 22, 1995, [109 Stat. 743](https://www.govinfo.gov/link/statute/109/743), 758; [Pub. L. 105–353, title I, § 101(b)(2)](https://www.govinfo.gov/link/plaw/105/public/353), title III, § 301(b)(13), Nov. 3, 1998, [112 Stat. 3233](https://www.govinfo.gov/link/statute/112/3233), 3236; [Pub. L. 111–203, title IX, § 933(b)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1883](https://www.govinfo.gov/link/statute/124/1883).)*

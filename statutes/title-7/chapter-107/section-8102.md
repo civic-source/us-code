@@ -3,9 +3,10 @@ title: "Section 8102 - Biobased markets program"
 usc_title: 7
 usc_section: "8102"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 8102"
-generated_at: "2026-03-30T02:53:42.470Z"
+generated_at: "2026-11-23T20:25:41.864Z"
+status: "active"
 ---
 
 # § 8102. Biobased markets program
@@ -127,3 +128,29 @@ generated_at: "2026-03-30T02:53:42.470Z"
   - **(2)** There is authorized to be appropriated to carry out this section $3,000,000 for each of fiscal years 2019 through 2023.
 - **(l)** In this section, the term “biobased product” (as defined in section 8101 of this title ) includes, with respect to forestry materials, forest products that meet biobased content requirements, notwithstanding the market share the product holds, the age of the product, or whether the market for the product is new or emerging.
 - **(m)** In carrying out this section, except as provided in subsection (g), the Secretary shall act through the rural development mission area.
+
+(aa) are composed of the highest percentage of biobased products practicable; or
+
+(bb) comply with the regulations issued under section 6914b–1 of title 42 ; and
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 107–171, title IX, § 9002](https://www.govinfo.gov/link/plaw/107/public/171), as added [Pub. L. 110–234, title IX, § 9001(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1305](https://www.govinfo.gov/link/statute/122/1305), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IX, § 9001(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2067; amended [Pub. L. 112–240, title VII, § 701(f)(1)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2364](https://www.govinfo.gov/link/statute/126/2364); [Pub. L. 113–79, title IX, § 9002(a)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 926](https://www.govinfo.gov/link/statute/128/926); [Pub. L. 115–334, title IX, § 9002](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4883](https://www.govinfo.gov/link/statute/132/4883); [Pub. L. 118–22, div. B, title I, § 102(d)(6)(A)](https://www.govinfo.gov/link/plaw/118/public/22), Nov. 17, 2023, [137 Stat. 117](https://www.govinfo.gov/link/statute/137/117).)*

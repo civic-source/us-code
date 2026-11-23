@@ -3,9 +3,10 @@ title: "Section 6949 - Rural communities assistance"
 usc_title: 42
 usc_section: "6949"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6949"
-generated_at: "2026-03-30T02:56:11.275Z"
+generated_at: "2026-11-23T20:27:22.749Z"
+status: "active"
 ---
 
 # § 6949. Rural communities assistance
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.275Z"
   - **(2)** For the purpose of carrying out this subsection, the Denali Commission shall—
     - **(A)** be considered a State; and
     - **(B)** comply with all other requirements and limitations of this section.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 4009](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 94–580, § 2](https://www.govinfo.gov/link/plaw/94/public/580), Oct. 21, 1976, [90 Stat. 2819](https://www.govinfo.gov/link/statute/90/2819); amended [Pub. L. 96–482, § 31(e)](https://www.govinfo.gov/link/plaw/96/public/482), Oct. 21, 1980, [94 Stat. 2353](https://www.govinfo.gov/link/statute/94/2353); [Pub. L. 110–234, title VI, § 6009(b)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1163](https://www.govinfo.gov/link/statute/122/1163); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VI, § 6009(b), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1924.)*

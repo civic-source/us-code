@@ -3,9 +3,10 @@ title: "Section 3533 - Officers of Department"
 usc_title: 42
 usc_section: "3533"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3533"
-generated_at: "2026-03-30T02:56:11.188Z"
+generated_at: "2026-11-23T20:27:22.288Z"
+status: "active"
 ---
 
 # § 3533. Officers of Department
@@ -71,3 +72,11 @@ generated_at: "2026-03-30T02:56:11.188Z"
     - **(F)** coordinating with the Secretary of Housing and Urban Development and the Secretary of Veterans Affairs in carrying out section 404 of the Housing Opportunity Through Modernization Act of 2016;
     - **(G)** collaborating with the Department of Veterans Affairs on making joint recommendations to the Congress, the Secretary of Housing and Urban Development, and the Secretary of Veterans Affairs on how to better coordinate and improve services to veterans under both Department of Housing and Urban Development and Department of Veteran Affairs veterans housing programs, including ways to improve the Independent Living Program of the Department of Veteran Affairs; and
     - **(H)** carrying out such other duties as may be assigned to the Special Assistant by the Secretary or by law.
+
+Transfer of functions
+
+Staff
+
+## Source Credit
+
+*([Pub. L. 89–174, § 4](https://www.govinfo.gov/link/plaw/89/public/174), Sept. 9, 1965, [79 Stat. 668](https://www.govinfo.gov/link/statute/79/668); [Pub. L. 90–83, § 10(b)](https://www.govinfo.gov/link/plaw/90/public/83), Sept. 11, 1967, [81 Stat. 223](https://www.govinfo.gov/link/statute/81/223); [Pub. L. 90–284, title VIII, § 808(b)(1)](https://www.govinfo.gov/link/plaw/90/public/284), Apr. 11, 1968, [82 Stat. 84](https://www.govinfo.gov/link/statute/82/84); [Pub. L. 90–448, title XVII, § 1708(a)](https://www.govinfo.gov/link/plaw/90/public/448), Aug. 1, 1968, [82 Stat. 606](https://www.govinfo.gov/link/statute/82/606); [Pub. L. 91–609, title IX, § 917](https://www.govinfo.gov/link/plaw/91/public/609), Dec. 31, 1970, [84 Stat. 1816](https://www.govinfo.gov/link/statute/84/1816); [Pub. L. 93–383, title VIII, § 818(a)](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 740](https://www.govinfo.gov/link/statute/88/740); [Pub. L. 95–128, title IX, § 901](https://www.govinfo.gov/link/plaw/95/public/128), Oct. 12, 1977, [91 Stat. 1148](https://www.govinfo.gov/link/statute/91/1148); [Pub. L. 101–235, title I](https://www.govinfo.gov/link/plaw/101/public/235), §§ 121, 122, 140, Dec. 15, 1989, [103 Stat. 2021](https://www.govinfo.gov/link/statute/103/2021), 2030; [Pub. L. 101–509, title V, § 529 [title I, § 112(a)(4)]](https://www.govinfo.gov/link/plaw/101/public/509), Nov. 5, 1990, 104 Stat.1427, 1454; [Pub. L. 101–576, title II, § 205(c)(2)](https://www.govinfo.gov/link/plaw/101/public/576), Nov. 15, 1990, [104 Stat. 2845](https://www.govinfo.gov/link/statute/104/2845); [Pub. L. 102–550, title IX, § 902(a)(1)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3866](https://www.govinfo.gov/link/statute/106/3866); [Pub. L. 111–203, title XIV, § 1442](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2163](https://www.govinfo.gov/link/statute/124/2163); [Pub. L. 112–166, § 2(g)](https://www.govinfo.gov/link/plaw/112/public/166), Aug. 10, 2012, [126 Stat. 1285](https://www.govinfo.gov/link/statute/126/1285); [Pub. L. 114–201, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/114/public/201), July 29, 2016, [130 Stat. 808](https://www.govinfo.gov/link/statute/130/808).)*

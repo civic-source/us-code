@@ -3,9 +3,10 @@ title: "Section 10706 - Grant accountability"
 usc_title: 34
 usc_section: "10706"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10706"
-generated_at: "2026-03-30T02:55:33.275Z"
+generated_at: "2026-11-23T20:26:50.501Z"
+status: "active"
 ---
 
 # § 10706. Grant accountability
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:55:33.275Z"
   - **(2)** If the Attorney General awards duplicate grants under this subchapter to the same applicant for the same purpose, the Attorney General shall submit to the applicable committees a report that includes—
     - **(A)** a list of all duplicate grants awarded under this subchapter, including the total dollar amount of any duplicate grants awarded; and
     - **(B)** the reason the Attorney General awarded the duplicate grants.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 3026](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 114–198, title VII, § 701(a)](https://www.govinfo.gov/link/plaw/114/public/198), July 22, 2016, [130 Stat. 735](https://www.govinfo.gov/link/statute/130/735).)*

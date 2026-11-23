@@ -3,9 +3,10 @@ title: "Section 10011 - Reports"
 usc_title: 22
 usc_section: "10011"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 10011"
-generated_at: "2026-03-30T02:55:05.475Z"
+generated_at: "2026-11-23T20:26:32.807Z"
+status: "active"
 ---
 
 # § 10011. Reports
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:05.475Z"
   - **(5)** identifies any information United States Government agencies have obtained since August 2019 regarding individuals or foreign governments that have provided funds to individual members of the Sovereignty Council or the Cabinet outside of the Central Bank of Sudan or the Ministry of Finance.
 - **(c)** Not later than 180 days after January 1, 2021 , the President shall submit a report to the appropriate congressional committees that identifies the senior Sudanese government officials that President determines meet the criteria to be sanctionable pursuant to Executive Order No. 13400 (71 Fed. Reg. 25483; relating to blocking property of persons in connection with the conflict in Sudan’s Darfur region).
 - **(d)** The reports required under subsections (b) and (c) shall be submitted in unclassified form, but may include a classified annex.
+
+## Source Credit
+
+*([Pub. L. 116–283, div. A, title XII, § 1270B](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3975](https://www.govinfo.gov/link/statute/134/3975).)*

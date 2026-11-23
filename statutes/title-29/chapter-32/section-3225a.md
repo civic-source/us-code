@@ -3,9 +3,10 @@ title: "Section 3225a - Addressing economic and workforce impacts of the opioid 
 usc_title: 29
 usc_section: "3225a"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3225a"
-generated_at: "2026-03-30T02:55:18.758Z"
+generated_at: "2026-11-23T20:26:38.118Z"
+status: "active"
 ---
 
 # § 3225a. Addressing economic and workforce impacts of the opioid crisis
@@ -179,3 +180,37 @@ generated_at: "2026-03-30T02:55:18.758Z"
     - **(C)** funds that remain available under section 172(f) of such Act ( 29 U.S.C. 3227(f) ).
   - **(3)** Funds appropriated under section 136(c) of such Act ( 29 U.S.C. 3181(c) ) and made available to carry out section 170 of such Act for a fiscal year shall remain available for use under paragraph (2) for a subsequent fiscal year until expended.
   - **(4)** The Secretary may not use more than $100,000,000 of the funds described in paragraph (2) for any covered fiscal year under this section.
+
+(aa) 1999; and
+
+(bb) 2016 or the latest year for which data are available; and
+
+(aa) primary indicators of performance described in section 116(c)(1)(A)(i) of the Workforce Innovation and Opportunity Act ( 29 U.S.C. 3141(c)(1)(A)(i) , 2 2 So in original. Another closing parenthesis probably should precede the comma. to assess estimated effectiveness of the proposed services and activities, including the estimated number of individuals with a substance use disorder who may be served by the proposed services and activities;
+
+(bb) the record of the local board in serving individuals with a barrier to employment; and
+
+(cc) the ability of the local board to establish a participating partnership; and
+
+(aa) data from the National Center for Health Statistics of the Centers for Disease Control and Prevention;
+
+(bb) data from the Center for Behavioral Health Statistics and Quality of the Substance Abuse and Mental Health Services Administration;
+
+(cc) State vital statistics;
+
+(dd) municipal police department records;
+
+(ee) reports from local coroners; or
+
+(ff) other relevant data; and
+
+(aa) communities affected by opioid abuse or another substance use disorder; and
+
+(bb) facilities or professionals offering services in the professional area; or
+
+(aa) career pathways leading to in-demand, high-wage jobs; and
+
+(bb) job coaching, job matching, and job placement services;
+
+## Source Credit
+
+*([Pub. L. 115–271, title VIII, § 8041](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 4083](https://www.govinfo.gov/link/statute/132/4083); [Pub. L. 119–44, title III, § 306](https://www.govinfo.gov/link/plaw/119/public/44), Dec. 1, 2025, [139 Stat. 689](https://www.govinfo.gov/link/statute/139/689).)*

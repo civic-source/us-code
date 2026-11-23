@@ -3,9 +3,10 @@ title: "Section 3524 - Support for the Associate Director of the Central Intelli
 usc_title: 50
 usc_section: "3524"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3524"
-generated_at: "2026-03-30T02:56:26.256Z"
+generated_at: "2026-11-23T20:27:31.023Z"
+status: "active"
 ---
 
 # § 3524. Support for the Associate Director of the Central Intelligence Agency for Military Affairs
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:26.256Z"
     - **(A)** To facilitate and coordinate Department of Defense support for the Central Intelligence Agency requested by the Director of the Central Intelligence Agency and approved by the Secretary, including oversight of Department of Defense military and civilian personnel detailed or assigned to the Central Intelligence Agency.
     - **(B)** To prioritize, communicate, and coordinate Department of Defense requests for, and the provision of support to, the Department of Defense from the Central Intelligence Agency, including support requested by and provided to the commanders of the combatant commands and subordinate task forces and commands.
   - **(2)** The Under Secretary shall develop and supervise the implementation of policies to integrate and communicate Department of Defense requirements and requests for support from the Central Intelligence Agency that are coordinated by the Associate Director pursuant to paragraph (1)(B).
+
+## Source Credit
+
+*([Pub. L. 114–328, div. A, title X, § 1054](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2398](https://www.govinfo.gov/link/statute/130/2398).)*

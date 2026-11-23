@@ -3,9 +3,10 @@ title: "Section 7409 - Action to enjoin flagrant political expenditures of secti
 usc_title: 26
 usc_section: "7409"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 7409"
-generated_at: "2026-03-30T02:55:27.870Z"
+generated_at: "2026-11-23T20:26:46.759Z"
+status: "active"
 ---
 
 # § 7409. Action to enjoin flagrant political expenditures of section 501(c)(3) organizations
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:27.870Z"
   - **(1)** such organization has flagrantly participated in, or intervened in (including the publication or distribution of statements), any political campaign on behalf of (or in opposition to) any candidate for public office, and
   - **(2)** injunctive relief is appropriate to prevent future political expenditures,
 - **(c)** For purposes of this section, the terms “section 501(c)(3) organization” and “political expenditures” have the respective meanings given to such terms by section 4955.
+
+## Source Credit
+
+*(Added [Pub. L. 100–203, title X, § 10713(a)(1)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–468](https://www.govinfo.gov/link/statute/101/1330).)*

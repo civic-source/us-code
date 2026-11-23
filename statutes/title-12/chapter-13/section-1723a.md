@@ -3,9 +3,10 @@ title: "Section 1723a - General powers of Government National Mortgage Associati
 usc_title: 12
 usc_section: "1723a"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1723a"
-generated_at: "2026-03-30T02:53:53.427Z"
+generated_at: "2026-11-23T20:25:59.004Z"
+status: "active"
 ---
 
 # § 1723a. General powers of Government National Mortgage Association and Federal National Mortgage Association
@@ -83,3 +84,7 @@ generated_at: "2026-03-30T02:53:53.427Z"
 - **(o)**
   - **(1)** Not later than 4 months after October 28, 1992 , the corporation shall appoint an Affordable Housing Advisory Council to advise the corporation regarding possible methods for promoting affordable housing for low- and moderate-income families.
   - **(2)** The Affordable Housing Advisory Council shall consist of 15 individuals, who shall include representatives of community-based and other nonprofit and for-profit organizations and State and local government agencies actively engaged in the promotion, development, or financing of housing for low- and moderate-income families.
+
+## Source Credit
+
+*(June 27, 1934, ch. 847, title III, § 309, as added Aug. 2, 1954, ch. 649, title II, § 201, [68 Stat. 620](https://www.govinfo.gov/link/statute/68/620); amended [Pub. L. 87–70, title VI, § 603(e)](https://www.govinfo.gov/link/plaw/87/public/70), June 30, 1961, [75 Stat. 177](https://www.govinfo.gov/link/statute/75/177); [Pub. L. 90–448, title VIII, § 802(z)](https://www.govinfo.gov/link/plaw/90/public/448) –(ee), Aug. 1, 1968, [82 Stat. 540](https://www.govinfo.gov/link/statute/82/540), 541; [Pub. L. 92–310, title II, § 223(c)](https://www.govinfo.gov/link/plaw/92/public/310), June 6, 1972, [86 Stat. 206](https://www.govinfo.gov/link/statute/86/206); [Pub. L. 93–383, title VIII, § 806(k)](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 728](https://www.govinfo.gov/link/statute/88/728); [Pub. L. 94–375, § 17(b)](https://www.govinfo.gov/link/plaw/94/public/375), Aug. 3, 1976, [90 Stat. 1076](https://www.govinfo.gov/link/statute/90/1076); [Pub. L. 95–128, title IV, § 408(c)](https://www.govinfo.gov/link/plaw/95/public/128), Oct. 12, 1977, [91 Stat. 1138](https://www.govinfo.gov/link/statute/91/1138); 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783](https://www.govinfo.gov/link/statute/92/3783); [Pub. L. 98–440, title II](https://www.govinfo.gov/link/plaw/98/public/440), §§ 208, 209, 213(a), Oct. 3, 1984, [98 Stat. 1696](https://www.govinfo.gov/link/statute/98/1696), 1698; [Pub. L. 98–479, title II, § 203(a)(3)](https://www.govinfo.gov/link/plaw/98/public/479), Oct. 17, 1984, [98 Stat. 2229](https://www.govinfo.gov/link/statute/98/2229); [Pub. L. 100–242, title IV, § 444](https://www.govinfo.gov/link/plaw/100/public/242), Feb. 5, 1988, [101 Stat. 1922](https://www.govinfo.gov/link/statute/101/1922); [Pub. L. 101–73, title VII, § 731(m)(3)](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 436](https://www.govinfo.gov/link/statute/103/436); [Pub. L. 102–550, title XIII, § 1381(j)](https://www.govinfo.gov/link/plaw/102/public/550) –(q), (s)(3), Oct. 28, 1992, [106 Stat. 3996–4001](https://www.govinfo.gov/link/statute/106/3996); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 110–289, div. A, title I](https://www.govinfo.gov/link/plaw/110/public/289), §§ 1113(b)(1), 1161(b), July 30, 2008, [122 Stat. 2678](https://www.govinfo.gov/link/statute/122/2678), 2779.)*

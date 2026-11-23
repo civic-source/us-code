@@ -3,9 +3,10 @@ title: "Section 1389 - Pacific Coast Task Force; Gulf of Maine"
 usc_title: 16
 usc_section: "1389"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1389"
-generated_at: "2026-03-30T02:54:22.962Z"
+generated_at: "2026-11-23T20:26:20.470Z"
+status: "active"
 ---
 
 # § 1389. Pacific Coast Task Force; Gulf of Maine
@@ -83,3 +84,7 @@ generated_at: "2026-03-30T02:54:22.962Z"
 - **(j)**
   - **(1)** Nothing in section 1386 of this title shall prevent the Secretary from publishing a stock assessment for Gulf of Maine harbor porpoise in an expedited fashion.
   - **(2)** In developing and implementing a take reduction plan under section 1387 of this title for Gulf of Maine harbor porpoise, the Secretary shall consider all actions already taken to reduce incidental mortality and serious injury of such stock, and may, based on the recommendations of the take reduction team for such stock, modify the time period required for compliance with section 1387(f)(5)(A) of this title , but in no case may such modification extend the date of compliance beyond April 1, 1997 .
+
+## Source Credit
+
+*([Pub. L. 92–522, title I, § 120](https://www.govinfo.gov/link/plaw/92/public/522), as added [Pub. L. 103–238, § 23](https://www.govinfo.gov/link/plaw/103/public/238), Apr. 30, 1994, [108 Stat. 562](https://www.govinfo.gov/link/statute/108/562); amended [Pub. L. 115–329, § 3](https://www.govinfo.gov/link/plaw/115/public/329), Dec. 18, 2018, [132 Stat. 4475](https://www.govinfo.gov/link/statute/132/4475); [Pub. L. 117–286, § 4(a)(110)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4317](https://www.govinfo.gov/link/statute/136/4317).)*

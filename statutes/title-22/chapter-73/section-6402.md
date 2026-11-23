@@ -3,9 +3,10 @@ title: "Section 6402 - Definitions"
 usc_title: 22
 usc_section: "6402"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6402"
-generated_at: "2026-03-30T02:55:05.427Z"
+generated_at: "2026-11-23T20:26:32.608Z"
+status: "active"
 ---
 
 # § 6402. Definitions
@@ -45,3 +46,7 @@ In this chapter:
       - **(v)** possession and distribution of religious literature, including Bibles; or
       - **(vi)** raising one’s children in the religious teachings and practices of one’s choice; or
     - **(B)** any of the following acts if committed on account of an individual’s conscience, non-theistic views, or religious belief or practice: detention, interrogation, imposition of an onerous financial penalty, forced labor, forced mass resettlement, imprisonment, forced religious conversion, forcibly compelling non-believers or non-theists to recant their beliefs or to convert, beating, torture, mutilation, rape, enslavement, murder, and execution.
+
+## Source Credit
+
+*([Pub. L. 105–292, § 3](https://www.govinfo.gov/link/plaw/105/public/292), Oct. 27, 1998, [112 Stat. 2790](https://www.govinfo.gov/link/statute/112/2790); [Pub. L. 114–281, § 3](https://www.govinfo.gov/link/plaw/114/public/281), Dec. 16, 2016, [130 Stat. 1427](https://www.govinfo.gov/link/statute/130/1427).)*

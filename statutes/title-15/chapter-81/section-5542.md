@@ -3,9 +3,10 @@ title: "Section 5542 - Department of Energy high-end computing research and deve
 usc_title: 15
 usc_section: "5542"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 5542"
-generated_at: "2026-03-30T02:54:08.207Z"
+generated_at: "2026-11-23T20:26:04.376Z"
+status: "active"
 ---
 
 # § 5542. Department of Energy high-end computing research and development program
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:54:08.207Z"
       - **(i)** the results of the review conducted under subparagraph (A); and
       - **(ii)** the coordination and management of the Program to ensure an integrated research program across the Department.
   - **(5)** At the time of the budget submission of the Department for each fiscal year, the Secretary, in consultation with the members of the partnerships established pursuant to paragraph (2), shall submit to Congress a report that describes funding for the Program as a whole by functional element of the Department and critical milestones.
+
+## Source Credit
+
+*([Pub. L. 108–423, § 3](https://www.govinfo.gov/link/plaw/108/public/423), Nov. 30, 2004, [118 Stat. 2400](https://www.govinfo.gov/link/statute/118/2400); [Pub. L. 115–246, title III, § 304(b)(3)](https://www.govinfo.gov/link/plaw/115/public/246), formerly § 304(a)(3), Sept. 28, 2018, [132 Stat. 3145](https://www.govinfo.gov/link/statute/132/3145), renumbered § 304(b)(3), [Pub. L. 117–167, div. B, title I, § 10104(a)(1)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1433](https://www.govinfo.gov/link/statute/136/1433).)*

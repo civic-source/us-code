@@ -3,9 +3,10 @@ title: "Section 657j - Information tracking and follow-up system for disaster as
 usc_title: 15
 usc_section: "657j"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 657j"
-generated_at: "2026-03-30T02:54:08.107Z"
+generated_at: "2026-11-23T20:26:03.844Z"
+status: "active"
 ---
 
 # § 657j. Information tracking and follow-up system for disaster assistance
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:08.107Z"
     - **(D)** information on whether such a web portal can maintain high standards for data privacy and data security;
     - **(E)** information on whether such a web portal will minimize redundancy among Administration disaster programs, improve management of the number of inquiries made by disaster applicants to employees located in the area affected by the disaster and to call centers, and reduce paperwork burdens on disaster victims; and
     - **(F)** such additional information as is determined necessary by the Administrator.
+
+## Source Credit
+
+*([Pub. L. 85–536, § 2[38]](https://www.govinfo.gov/link/plaw/85/public/536), as added [Pub. L. 110–234, title XII, § 12067](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1410](https://www.govinfo.gov/link/statute/122/1410), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XII, § 12067, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2172; [Pub. L. 114–88, div. B, title III, § 2303](https://www.govinfo.gov/link/plaw/114/public/88), Nov. 25, 2015, [129 Stat. 696](https://www.govinfo.gov/link/statute/129/696).)*

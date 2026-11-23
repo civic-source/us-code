@@ -3,9 +3,10 @@ title: "Section 6962 - Federal procurement"
 usc_title: 42
 usc_section: "6962"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6962"
-generated_at: "2026-03-30T02:56:11.276Z"
+generated_at: "2026-11-23T20:27:22.752Z"
+status: "active"
 ---
 
 # § 6962. Federal procurement
@@ -63,3 +64,7 @@ generated_at: "2026-03-30T02:56:11.276Z"
 - **(k)** The Administrator, in consultation with the Administrator of General Services, shall submit to Congress an annual report describing—
   - **(1)** the quantity of federally procured recycled products listed in the guidelines under subsection (e); and
   - **(2)** with respect to the products described in paragraph (1), the percentage of recycled material in each product.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 6002](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 94–580, § 2](https://www.govinfo.gov/link/plaw/94/public/580), Oct. 21, 1976, [90 Stat. 2822](https://www.govinfo.gov/link/statute/90/2822); amended [Pub. L. 95–609, § 7(n)](https://www.govinfo.gov/link/plaw/95/public/609), Nov. 8, 1978, [92 Stat. 3082](https://www.govinfo.gov/link/statute/92/3082); [Pub. L. 96–482, § 22](https://www.govinfo.gov/link/plaw/96/public/482), Oct. 21, 1980, [94 Stat. 2346](https://www.govinfo.gov/link/statute/94/2346); [Pub. L. 97–375, title I, § 102](https://www.govinfo.gov/link/plaw/97/public/375), Dec. 21, 1982, [96 Stat. 1819](https://www.govinfo.gov/link/statute/96/1819); [Pub. L. 98–616, title V, § 501(a)](https://www.govinfo.gov/link/plaw/98/public/616) –(e), Nov. 8, 1984, [98 Stat. 3274–3276](https://www.govinfo.gov/link/statute/98/3274); [Pub. L. 100–418, title V, § 5115(c)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1433](https://www.govinfo.gov/link/statute/102/1433); [Pub. L. 102–393, title VI, § 630](https://www.govinfo.gov/link/plaw/102/public/393), Oct. 6, 1992, [106 Stat. 1773](https://www.govinfo.gov/link/statute/106/1773); [Pub. L. 103–355, title I, § 1554(1)](https://www.govinfo.gov/link/plaw/103/public/355), title IV, § 4104(e), Oct. 13, 1994, [108 Stat. 3300](https://www.govinfo.gov/link/statute/108/3300), 3342; [Pub. L. 113–235, div. H, title I, § 1301(d)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537); [Pub. L. 117–58, div. G, title IV, § 70402(c)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1265](https://www.govinfo.gov/link/statute/135/1265).)*

@@ -3,9 +3,10 @@ title: "Section 1533 - Removal court procedure"
 usc_title: 8
 usc_section: "1533"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1533"
-generated_at: "2026-03-30T02:53:10.504Z"
+generated_at: "2026-11-23T20:25:36.261Z"
+status: "active"
 ---
 
 # § 1533. Removal court procedure
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:10.504Z"
     - **(B)** removal under subchapter II would pose a risk to the national security of the United States.
   - **(3)** If the judge denies the order requested in the application, the judge shall prepare a written statement of the reasons for the denial, taking all necessary precautions not to disclose any classified information contained in the Government’s application.
 - **(d)** If an order is issued under this section granting an application, the rights of the alien regarding removal and expulsion shall be governed solely by this subchapter, and except as they are specifically referenced in this subchapter, no other provisions of this chapter shall be applicable.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title V, § 503, as added [Pub. L. 104–132, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1259](https://www.govinfo.gov/link/statute/110/1259).)*

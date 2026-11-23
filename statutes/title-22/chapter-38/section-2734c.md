@@ -3,9 +3,10 @@ title: "Section 2734c - Employee assignment restrictions"
 usc_title: 22
 usc_section: "2734c"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2734c"
-generated_at: "2026-03-30T02:55:05.382Z"
+generated_at: "2026-11-23T20:26:32.393Z"
+status: "active"
 ---
 
 # § 2734c. Employee assignment restrictions
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.382Z"
 - **(c)** The Secretary shall—
   - **(1)** publish in the Foreign Affairs Manual information relating to the right and process established pursuant to subsection (a); and
   - **(2)** include a reference to such publication in the report required under subsection (b).
+
+## Source Credit
+
+*([Pub. L. 114–323, title IV, § 414](https://www.govinfo.gov/link/plaw/114/public/323), Dec. 16, 2016, [130 Stat. 1932](https://www.govinfo.gov/link/statute/130/1932); [Pub. L. 117–81, div. E, title LIII, § 5311(b)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2364](https://www.govinfo.gov/link/statute/135/2364); [Pub. L. 118–31, div. F, title LXI, § 6115(f)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 970](https://www.govinfo.gov/link/statute/137/970).)*

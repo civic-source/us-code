@@ -3,9 +3,10 @@ title: "Section 3162a - Security Executive Agent"
 usc_title: 50
 usc_section: "3162a"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3162a"
-generated_at: "2026-03-30T02:56:26.238Z"
+generated_at: "2026-11-23T20:27:30.935Z"
+status: "active"
 ---
 
 # § 3162a. Security Executive Agent
@@ -25,3 +26,15 @@ generated_at: "2026-03-30T02:56:26.238Z"
   - **(3)** have the authority to assign, in whole or in part, to the head of any Federal agency (solely or jointly) any of the duties of the Security Executive Agent described in subsection (b) or the authorities described in paragraphs (1) and (2), provided that the exercise of such assigned duties or authorities is subject to the oversight of the Security Executive Agent, including such terms and conditions (including approval by the Security Executive Agent) as the Security Executive Agent determines appropriate;
   - **(4)** define and set standards for continuous vetting for continued access to classified information and for eligibility to hold a sensitive position; and
   - **(5)** issue guidelines and instructions to the heads of Federal agencies to ensure that any individual who was appointed by the President to a position in an element of the intelligence community but is no longer employed by the Federal Government shall maintain a security clearance only in accordance with Executive Order 12968 ( 50 U.S.C. 3161 note; relating to access to classified information), or successor order.
+
+Standards Required.—
+
+In general
+
+Publication
+
+Report Required
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title VIII, § 803, as added [Pub. L. 116–92, div. E, title LXVI, § 6605(a)(2)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2213](https://www.govinfo.gov/link/statute/133/2213); amended [Pub. L. 118–159, div. F, title LXVI, § 6601(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2500](https://www.govinfo.gov/link/statute/138/2500).)*

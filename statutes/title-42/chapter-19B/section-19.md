@@ -3,12 +3,17 @@ title: "Section 19 - Cooperation of Secretary of the Interior with State and loc
 usc_title: 42
 usc_section: "19"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 19"
-generated_at: "2026-03-30T02:56:11.135Z"
+generated_at: "2026-11-23T20:27:21.989Z"
+status: "active"
 ---
 
 # § 1962d–19. Cooperation of Secretary of the Interior with State and local regulatory and law enforcement officials in enforcement of laws or ordinances in connection with Federal resource protection, etc., within Federal water resource development project; funding
 
 The Secretary of the Interior, in connection with Federal resource protection and the Federal administration of the use and occupancy of lands and waters within a water resource development project under his jurisdiction, is authorized to cooperate with the regulatory and law enforcement officials of any State or political subdivision thereof in the enforcement of the laws or ordinances of such State or political subdivision. Such cooperation may include the reimbursement of a State or its political subdivision for expenditures incurred in connection with such resource protection and administration. For purposes of complying with section 651 of title 2 , the authorization provided under this section is subject to the availability of appropriations.
 
+
+## Source Credit
+
+*([Pub. L. 98–552, § 3](https://www.govinfo.gov/link/plaw/98/public/552), Oct. 30, 1984, [98 Stat. 2823](https://www.govinfo.gov/link/statute/98/2823).)*

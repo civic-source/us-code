@@ -3,9 +3,10 @@ title: "Section 203 - Compensation to Members of Congress, officers, and others 
 usc_title: 18
 usc_section: "203"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 203"
-generated_at: "2026-03-30T02:54:16.458Z"
+generated_at: "2026-11-23T20:26:08.340Z"
+status: "active"
 ---
 
 # § 203. Compensation to Members of Congress, officers, and others in matters affecting the Government
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:16.458Z"
   - **(2)** in those matters that are the subject of his official responsibility,
 - **(e)** Nothing in this section prevents a special Government employee from acting as agent or attorney for another person in the performance of work under a grant by, or a contract with or for the benefit of, the United States if the head of the department or agency concerned with the grant or contract certifies in writing that the national interest so requires and publishes such certification in the Federal Register.
 - **(f)** Nothing in this section prevents an individual from giving testimony under oath or from making statements required to be made under penalty of perjury.
+
+## Source Credit
+
+*(Added [Pub. L. 87–849, § 1(a)](https://www.govinfo.gov/link/plaw/87/public/849), Oct. 23, 1962, [76 Stat. 1121](https://www.govinfo.gov/link/statute/76/1121); amended [Pub. L. 91–405, title II, § 204(d)(2)](https://www.govinfo.gov/link/plaw/91/public/405), (3), Sept. 22, 1970, [84 Stat. 853](https://www.govinfo.gov/link/statute/84/853); [Pub. L. 99–646, § 47(a)](https://www.govinfo.gov/link/plaw/99/public/646), Nov. 10, 1986, [100 Stat. 3604](https://www.govinfo.gov/link/statute/100/3604); [Pub. L. 101–194, title IV, § 402](https://www.govinfo.gov/link/plaw/101/public/194), Nov. 30, 1989, [103 Stat. 1748](https://www.govinfo.gov/link/statute/103/1748); [Pub. L. 101–280, § 5(b)](https://www.govinfo.gov/link/plaw/101/public/280), May 4, 1990, [104 Stat. 159](https://www.govinfo.gov/link/statute/104/159).)*

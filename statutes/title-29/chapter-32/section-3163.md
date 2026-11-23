@@ -3,9 +3,10 @@ title: "Section 3163 - Within State allocations"
 usc_title: 29
 usc_section: "3163"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3163"
-generated_at: "2026-03-30T02:55:18.753Z"
+generated_at: "2026-11-23T20:26:38.095Z"
+status: "active"
 ---
 
 # § 3163. Within State allocations
@@ -42,3 +43,17 @@ generated_at: "2026-03-30T02:55:18.753Z"
   - **(2)** The amount available for reallocation for a program year is equal to the amount by which the unobligated balance of the local allocation, at the end of the program year prior to the program year for which the determination under this paragraph is made, exceeds 20 percent of such allocation for the prior program year.
   - **(3)** In making reallocations to eligible local areas of amounts available pursuant to paragraph (2) for a program year, the Governor shall allocate to each eligible local area within the State an amount based on the relative amount of the local allocation for the program year for which the determination is made, as compared to the total amount of the local allocations for all eligible local areas in the State for such program year.
   - **(4)** For purposes of this subsection, an eligible local area means a local area that does not have an amount available for reallocation under paragraph (2) for the program year for which the determination under paragraph (2) is made.
+
+Administrative Costs
+
+Rapid Response Activities.—
+
+Statewide rapid response
+
+Local boards
+
+Definitions
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 128](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1502](https://www.govinfo.gov/link/statute/128/1502).)*

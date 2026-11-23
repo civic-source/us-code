@@ -3,9 +3,10 @@ title: "Section 1426a - Exclusion from certain requirements"
 usc_title: 12
 usc_section: "1426a"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1426a"
-generated_at: "2026-03-30T02:53:53.390Z"
+generated_at: "2026-11-23T20:25:58.809Z"
+status: "active"
 ---
 
 # § 1426a. Exclusion from certain requirements
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:53:53.390Z"
   - **(1)** the terms “Bank”, “Federal Home Loan Bank”, “member”, and “Federal Home Loan Bank System” have the same meanings as in section 1422 of this title ;
   - **(2)** the term “Commission” means the Securities and Exchange Commission; and
   - **(3)** the term “securities laws” has the same meaning as in section 78c(a)(47) of title 15 .
+
+## Source Credit
+
+*([Pub. L. 110–289, div. A, title II, § 1208](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2788](https://www.govinfo.gov/link/statute/122/2788).)*

@@ -3,9 +3,10 @@ title: "Section 4l - Improvement of interaction between International Bank for R
 usc_title: 22
 usc_section: "4l"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4l"
-generated_at: "2026-03-30T02:55:05.307Z"
+generated_at: "2026-11-23T20:26:31.930Z"
+status: "active"
 ---
 
 # § 262p–4l. Improvement of interaction between International Bank for Reconstruction and Development and nongovernmental organizations
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.307Z"
   - **(3)** The establishment of the Grassroots Collaboration Program described in section 262p–1(a) of this title .
   - **(4)** Before a project loan is made to a borrower country, the country is to be required to hold open hearings on the proposed project during project identification and project preparation.
   - **(5)** The establishment of assessment procedures which allow affected parties and nongovernmental organizations to review information describing a prospective project or policy loan design, in a timely manner, before the loan is submitted to the Executive Board for approval.
+
+## Source Credit
+
+*([Pub. L. 95–118, title XVI, § 1617](https://www.govinfo.gov/link/plaw/95/public/118), as added [Pub. L. 101–513, title V, § 562(a)(2)](https://www.govinfo.gov/link/plaw/101/public/513), Nov. 5, 1990, [104 Stat. 2032](https://www.govinfo.gov/link/statute/104/2032).)*

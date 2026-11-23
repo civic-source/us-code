@@ -3,12 +3,17 @@ title: "Section 261 - Policy as to settlement of disputes and disarmament"
 usc_title: 22
 usc_section: "261"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 261"
-generated_at: "2026-03-30T02:55:05.303Z"
+generated_at: "2026-11-23T20:26:31.913Z"
+status: "active"
 ---
 
 # § 261. Policy as to settlement of disputes and disarmament
 
 It is declared to be the policy of the United States to adjust and settle its international disputes through mediation or arbitration, to the end that war may be honorably avoided. It looks with apprehension and disfavor upon a general increase of armament throughout the world, but it realizes that no single nation can disarm, and that without a common agreement upon the subject every considerable power must maintain a relative standing in military strength.
 
+
+## Source Credit
+
+*(Aug. 29, 1916, ch. 417, [39 Stat. 618](https://www.govinfo.gov/link/statute/39/618).)*

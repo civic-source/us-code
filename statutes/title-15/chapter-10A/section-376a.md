@@ -3,9 +3,10 @@ title: "Section 376a - Delivery sales"
 usc_title: 15
 usc_section: "376a"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 376a"
-generated_at: "2026-03-30T02:54:08.083Z"
+generated_at: "2026-11-23T20:26:03.707Z"
+status: "active"
 ---
 
 # § 376a. Delivery sales
@@ -130,3 +131,7 @@ generated_at: "2026-03-30T02:54:08.083Z"
       - **(iii)** delaying or not making a delivery for any person because of reasonable efforts to comply with this chapter.
     - **(D)** Section 376 of this title and subsections (a), (b), (c), and (d) of this section shall not be interpreted to impose any responsibilities, requirements, or liability on common carriers.
 - **(f)** For purposes of this chapter, a delivery sale shall be deemed to have occurred in the State and place where the buyer obtains personal possession of the cigarettes or smokeless tobacco, and a delivery pursuant to a delivery sale is deemed to have been initiated or ordered by the delivery seller.
+
+## Source Credit
+
+*(Oct. 19, 1949, ch. 699, § 2A, as added [Pub. L. 111–154, § 2(c)](https://www.govinfo.gov/link/plaw/111/public/154), Mar. 31, 2010, [124 Stat. 1091](https://www.govinfo.gov/link/statute/124/1091); amended [Pub. L. 116–260, div. FF, title VI, § 602(a)(2)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3137](https://www.govinfo.gov/link/statute/134/3137).)*

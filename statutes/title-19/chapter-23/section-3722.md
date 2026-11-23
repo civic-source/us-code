@@ -3,9 +3,10 @@ title: "Section 3722 - Protections against transshipment"
 usc_title: 19
 usc_section: "3722"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3722"
-generated_at: "2026-03-30T02:54:24.695Z"
+generated_at: "2026-11-23T20:26:11.071Z"
+status: "active"
 ---
 
 # § 3722. Protections against transshipment
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:54:24.695Z"
   - **(2)** send production verification teams to at least four beneficiary sub-Saharan African countries each year; and
   - **(3)** to the extent feasible, place beneficiary sub-Saharan African countries on the Electronic Visa (ELVIS) program.
 - **(d)** There is authorized to be appropriated to carry out subsection (c) the sum of $5,894,913.
+
+## Source Credit
+
+*([Pub. L. 106–200, title I, § 113](https://www.govinfo.gov/link/plaw/106/public/200), May 18, 2000, [114 Stat. 263](https://www.govinfo.gov/link/statute/114/263); [Pub. L. 114–125, title VIII, § 802(d)(2)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 210](https://www.govinfo.gov/link/statute/130/210); [Pub. L. 116–260, div. O, title VI, § 602(a)(2)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2152](https://www.govinfo.gov/link/statute/134/2152).)*

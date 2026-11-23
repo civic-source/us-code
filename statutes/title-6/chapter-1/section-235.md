@@ -3,9 +3,10 @@ title: "Section 235 - Coordination of information and information technology"
 usc_title: 6
 usc_section: "235"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 235"
-generated_at: "2026-03-30T02:53:09.453Z"
+generated_at: "2026-11-23T20:25:34.674Z"
+status: "active"
 ---
 
 # § 235. Coordination of information and information technology
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:09.453Z"
 - **(c)** Not later than 18 months after November 25, 2002 , the Secretary, in consultation with the Secretary of Agriculture, the Secretary of Health and Human Services, and the head of each other department or agency determined to be appropriate by the Secretary, shall submit to Congress—
   - **(1)** a report on the progress made in implementing this section; and
   - **(2)** a plan to complete implementation of this section.
+
+## Source Credit
+
+*([Pub. L. 107–296, title IV, § 427](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2187](https://www.govinfo.gov/link/statute/116/2187).)*

@@ -3,9 +3,10 @@ title: "Section 1562 - Manipulation in warehouse"
 usc_title: 19
 usc_section: "1562"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1562"
-generated_at: "2026-03-30T02:54:24.644Z"
+generated_at: "2026-11-23T20:26:10.808Z"
+status: "active"
 ---
 
 # § 1562. Manipulation in warehouse
@@ -32,3 +33,7 @@ Merchandise shall only be withdrawn from a bonded warehouse in such quantity and
         - **(II)** 75 percent during the 1-year period beginning on January 1, 2012 ,
         - **(III)** 50 percent during the 1-year period beginning on January 1, 2013 , and
         - **(IV)** 25 percent during the 1-year period beginning on January 1, 2014 .
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 562, [46 Stat. 745](https://www.govinfo.gov/link/statute/46/745); June 25, 1938, ch. 679, §§ 2, 25, [52 Stat. 1077](https://www.govinfo.gov/link/statute/52/1077), 1088; Aug. 8, 1953, ch. 397, § 18(f), [67 Stat. 518](https://www.govinfo.gov/link/statute/67/518); June 30, 1955, ch. 258, § 2(a)(5), [69 Stat. 242](https://www.govinfo.gov/link/statute/69/242); [Pub. L. 91–271, title III, § 301(b)](https://www.govinfo.gov/link/plaw/91/public/271), June 2, 1970, [84 Stat. 287](https://www.govinfo.gov/link/statute/84/287); [Pub. L. 100–449, title II, § 204(c)(4)](https://www.govinfo.gov/link/plaw/100/public/449), Sept. 28, 1988, [102 Stat. 1863](https://www.govinfo.gov/link/statute/102/1863); [Pub. L. 103–182, title II, § 203(b)(4)](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2090](https://www.govinfo.gov/link/statute/107/2090); [Pub. L. 108–77, title II, § 203(b)(4)](https://www.govinfo.gov/link/plaw/108/public/77), Sept. 3, 2003, [117 Stat. 928](https://www.govinfo.gov/link/statute/117/928); [Pub. L. 109–280, title XIV, § 1635(e)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1170](https://www.govinfo.gov/link/statute/120/1170); [Pub. L. 116–113, title V, § 501(e)(4)](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 69](https://www.govinfo.gov/link/statute/134/69); [Pub. L. 116–260, div. O, title VI, § 601(c)(2)(A)(iv)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2150](https://www.govinfo.gov/link/statute/134/2150).)*

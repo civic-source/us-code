@@ -3,9 +3,10 @@ title: "Section 12581a - Educational awards only program"
 usc_title: 42
 usc_section: "12581a"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12581a"
-generated_at: "2026-03-30T02:56:11.417Z"
+generated_at: "2026-11-23T20:27:23.374Z"
+status: "active"
 ---
 
 # § 12581a. Educational awards only program
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.417Z"
   - **(1)** The limitation on administrative costs under section 12571(d) of this title .
   - **(2)** The matching funds requirements under section 12571(e) of this title .
   - **(3)** The living allowance and other benefits under sections 12583(e) and 12594 of this title (other than individualized support services for participants with disabilities under section 12594(f) of this title ).
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 129A](https://www.govinfo.gov/link/plaw/101/public/610), as added [Pub. L. 111–13, title I, § 1307](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1505](https://www.govinfo.gov/link/statute/123/1505).)*

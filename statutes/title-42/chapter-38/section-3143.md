@@ -3,9 +3,10 @@ title: "Section 3143 - Grants for planning and grants for administrative expense
 usc_title: 42
 usc_section: "3143"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3143"
-generated_at: "2026-03-30T02:56:11.182Z"
+generated_at: "2026-11-23T20:27:22.258Z"
+status: "active"
 ---
 
 # § 3143. Grants for planning and grants for administrative expenses
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:56:11.182Z"
     - **(F)** address and mitigate economic impacts of extreme weather; and
     - **(G)** balance resources through the sound management of physical development.
   - **(5)** Each State that receives assistance for the development of a plan under this subsection shall submit to the Secretary an annual report on the planning process assisted under this subsection.
+
+## Source Credit
+
+*([Pub. L. 89–136, title II, § 203](https://www.govinfo.gov/link/plaw/89/public/136), as added [Pub. L. 105–393, title I, § 102(a)](https://www.govinfo.gov/link/plaw/105/public/393), Nov. 13, 1998, [112 Stat. 3602](https://www.govinfo.gov/link/statute/112/3602); amended [Pub. L. 108–373, title II, § 201](https://www.govinfo.gov/link/plaw/108/public/373), Oct. 27, 2004, [118 Stat. 1759](https://www.govinfo.gov/link/statute/118/1759); [Pub. L. 118–272, div. B, title II, § 2214](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3180](https://www.govinfo.gov/link/statute/138/3180).)*

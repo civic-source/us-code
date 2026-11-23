@@ -3,9 +3,10 @@ title: "Section 1011a - Protection of student speech and association rights"
 usc_title: 20
 usc_section: "1011a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1011a"
-generated_at: "2026-03-30T02:54:48.092Z"
+generated_at: "2026-11-23T20:26:14.300Z"
+status: "active"
 ---
 
 # § 1011a. Protection of student speech and association rights
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:48.092Z"
     - **(B)** includes an oral or written warning made by an official of an institution of higher education acting in the official capacity of the official.
   - **(2)** The term “protected association” means the joining, assembling, and residing with others that is protected under the first and 14th amendments to the Constitution, or would be protected if the institution of higher education involved were subject to those amendments.
   - **(3)** The term “protected speech” means speech that is protected under the first and 14th amendments to the Constitution, or would be protected if the institution of higher education involved were subject to those amendments.
+
+## Source Credit
+
+*([Pub. L. 89–329, title I, § 112](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title I, § 101(a)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1591](https://www.govinfo.gov/link/statute/112/1591); amended [Pub. L. 110–315, title I, § 104](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3090](https://www.govinfo.gov/link/statute/122/3090).)*

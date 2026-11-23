@@ -3,9 +3,10 @@ title: "Section 2391 - Fiscal requirements"
 usc_title: 20
 usc_section: "2391"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 2391"
-generated_at: "2026-03-30T02:54:48.176Z"
+generated_at: "2026-11-23T20:26:14.708Z"
+status: "active"
 ---
 
 # § 2391. Fiscal requirements
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:48.176Z"
     - **(A)** The Secretary shall reduce the amount of a State’s allotment of funds under this chapter for any fiscal year in the exact proportion by which the State fails to meet the requirement of paragraph (1) by falling below the State’s fiscal effort per student or the State’s aggregate expenditures (using the measure most favorable to the State), if the State failed to meet such requirement (as determined using the measure most favorable to the State) for 1 or more of the 5 immediately preceding fiscal years.
     - **(B)** No such lesser amount shall be used for computing the effort required under paragraph (1) for subsequent years.
   - **(3)** The Secretary may waive paragraph (2) due to exceptional or uncontrollable circumstances affecting the ability of the State to meet the requirement of paragraph (1) such as a natural disaster or an unforeseen and precipitous decline in financial resources. No level of funding permitted under such a waiver may be used as the basis for computing the fiscal effort or aggregate expenditures required under this section for years subsequent to the year covered by such waiver. The fiscal effort or aggregate expenditures for the subsequent years shall be computed on the basis of the level of funding that would, but for such waiver, have been required.
+
+## Source Credit
+
+*([Pub. L. 88–210, title II, § 211](https://www.govinfo.gov/link/plaw/88/public/210), formerly title III, § 311, as added [Pub. L. 109–270, § 1(b)](https://www.govinfo.gov/link/plaw/109/public/270), Aug. 12, 2006, [120 Stat. 742](https://www.govinfo.gov/link/statute/120/742); renumbered title II, § 211, and amended [Pub. L. 115–224, title II, § 201(a)(1)](https://www.govinfo.gov/link/plaw/115/public/224), (5), (6), July 31, 2018, [132 Stat. 1620](https://www.govinfo.gov/link/statute/132/1620), 1621.)*

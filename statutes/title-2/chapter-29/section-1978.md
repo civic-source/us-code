@@ -3,9 +3,10 @@ title: "Section 1978 - Deployment outside of jurisdiction"
 usc_title: 2
 usc_section: "1978"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1978"
-generated_at: "2026-03-30T02:53:04.822Z"
+generated_at: "2026-11-23T20:25:29.002Z"
+status: "active"
 ---
 
 # § 1978. Deployment outside of jurisdiction
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:04.822Z"
   - **(2)** Intelligence gathering.
   - **(3)** Providing protective services.
 - **(c)** This section shall apply with respect to fiscal year 2005 and each succeeding fiscal year.
+
+## Source Credit
+
+*([Pub. L. 108–447, div. G, title I, § 1007](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3182](https://www.govinfo.gov/link/statute/118/3182); [Pub. L. 111–145, § 2(c)](https://www.govinfo.gov/link/plaw/111/public/145), Mar. 4, 2010, [124 Stat. 51](https://www.govinfo.gov/link/statute/124/51).)*

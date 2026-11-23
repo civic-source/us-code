@@ -3,9 +3,10 @@ title: "Section 8143b - Employees in fire protection activities"
 usc_title: 5
 usc_section: "8143b"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8143b"
-generated_at: "2026-03-30T02:52:56.043Z"
+generated_at: "2026-11-23T20:25:32.103Z"
+status: "active"
 ---
 
 # § 8143b. Employees in fire protection activities
@@ -45,3 +46,39 @@ generated_at: "2026-03-30T02:52:56.043Z"
       - **(ii)** A rule issued by the Secretary under clause (i) shall be considered to be a major rule for the purposes of chapter 8.
     - **(B)** The Secretary shall add an illness or disease to the list established under paragraph (2) based on the weight of the best available scientific evidence that there is a significant risk to employees in fire protection activities of developing that illness or disease.
     - **(C)** In determining significant risk for purposes of subparagraph (B), the Secretary may accept as authoritative, and may rely upon, recommendations, risk assessments, and scientific studies (including analyses of National Firefighter Registry data pertaining to Federal firefighters) by the National Institute for Occupational Safety and Health, the National Toxicology Program, the National Academies of Sciences, Engineering, and Medicine, and the International Agency for Research on Cancer.
+
+Definitions
+
+Employee in fire protection activities
+
+Rule
+
+Secretary
+
+Certain Illnesses and Diseased
+
+Diseases
+
+Deemed to Be Proximately Caused by Employment in Fire Protection Activities.—
+
+In general
+
+Establishment of initial list
+
+Additions to the list.—
+
+In general.—
+
+Periodic review
+
+Classification
+
+Basis for determination
+
+Available expertise
+
+“Not later than 3 years after the date of enactment of this Act [ Dec. 23, 2022 ], the Secretary [of Labor] shall—
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. E, title LIII, § 5305(a)(1)(A)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3251](https://www.govinfo.gov/link/statute/136/3251).)*

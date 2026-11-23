@@ -3,9 +3,10 @@ title: "Section 1003 - Leasing procedures"
 usc_title: 30
 usc_section: "1003"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1003"
-generated_at: "2026-03-30T02:55:29.395Z"
+generated_at: "2026-11-23T20:26:34.984Z"
+status: "active"
 ---
 
 # § 1003. Leasing procedures
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:29.395Z"
 - **(g)**
   - **(1)** Subject to paragraph (2), a geothermal lease for the direct use of geothermal resources shall cover not more than the quantity of acreage determined by the Secretary to be reasonably necessary for the proposed use.
   - **(2)** The quantity of acreage covered by the lease shall not exceed the limitations established under section 1006 of this title .
+
+## Source Credit
+
+*([Pub. L. 91–581, § 4](https://www.govinfo.gov/link/plaw/91/public/581), Dec. 24, 1970, [84 Stat. 1566](https://www.govinfo.gov/link/statute/84/1566); [Pub. L. 109–58, title II](https://www.govinfo.gov/link/plaw/109/public/58), §§ 222, 223(b), Aug. 8, 2005, [119 Stat. 660](https://www.govinfo.gov/link/statute/119/660), 662; [Pub. L. 116–260, div. Z, title III, § 3105](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2516](https://www.govinfo.gov/link/statute/134/2516).)*

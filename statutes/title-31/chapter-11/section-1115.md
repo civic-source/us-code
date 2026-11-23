@@ -3,9 +3,10 @@ title: "Section 1115 - Federal Government and agency performance plans"
 usc_title: 31
 usc_section: "1115"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 1115"
-generated_at: "2026-03-30T02:55:34.049Z"
+generated_at: "2026-11-23T20:26:51.715Z"
+status: "active"
 ---
 
 # § 1115. Federal Government and agency performance plans
@@ -74,3 +75,83 @@ generated_at: "2026-03-30T02:55:34.049Z"
   - **(10)** “performance indicator” means a particular value or characteristic used to measure output or outcome;
   - **(11)** “program activity” means a specific activity or project as listed in the program and financing schedules of the annual budget of the United States Government; and
   - **(12)** “program evaluation” means an assessment, through objective measurement and systematic analysis, of the manner and extent to which Federal programs achieve intended objectives.
+
+Federal Government Performance Plans
+
+Agency Performance Plans
+
+Alternative Form
+
+Treatment of Program Activities
+
+Appendix
+
+Inherently Governmental Functions
+
+Preparation of Performance Plan
+
+Definitions
+
+Searchable, Machine-readable Plans and Reports
+
+Web-based Performance Planning and Reporting.—
+
+In general
+
+High-priority goals
+
+Considerations
+
+Interim Planning and Reporting.—
+
+In general
+
+Requirements
+
+Quarterly reviews
+
+Guidance
+
+In General
+
+GAO Reviews.—
+
+Interim planning and reporting evaluation
+
+Implementation evaluations.—
+
+In general
+
+Agency implementation.—
+
+Evaluations
+
+Reports
+
+Federal government planning and reporting implementation.—
+
+Evaluations
+
+Reports
+
+Recommendations
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+George W. Bush.
+
+## Source Credit
+
+*(Added [Pub. L. 111–352, § 3](https://www.govinfo.gov/link/plaw/111/public/352), Jan. 4, 2011, [124 Stat. 3867](https://www.govinfo.gov/link/statute/124/3867); amended [Pub. L. 116–283, div. H, title XCVI, § 9601(c)(2)(A)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4827](https://www.govinfo.gov/link/statute/134/4827); [Pub. L. 117–263, div. E, title LIII, § 5303(b)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3250](https://www.govinfo.gov/link/statute/136/3250); [Pub. L. 118–190, § 5](https://www.govinfo.gov/link/plaw/118/public/190), Dec. 23, 2024, [138 Stat. 2656](https://www.govinfo.gov/link/statute/138/2656).)*

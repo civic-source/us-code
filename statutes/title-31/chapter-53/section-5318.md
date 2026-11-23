@@ -3,9 +3,10 @@ title: "Section 5318 - Compliance, exemptions, and summons authority"
 usc_title: 31
 usc_section: "5318"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 5318"
-generated_at: "2026-03-30T02:55:34.068Z"
+generated_at: "2026-11-23T20:26:51.865Z"
+status: "active"
 ---
 
 # § 5318. Compliance, exemptions, and summons authority
@@ -291,3 +292,413 @@ generated_at: "2026-03-30T02:55:34.068Z"
     - **(C)** The term “Federal credit union” has the meaning given the term in section 101 of the Federal Credit Union Act ( 12 U.S.C. 1752 ).
     - **(D)** The term “Federal depository institution” has the meaning given the term in section 3 of the Federal Deposit Insurance Act ( 12 U.S.C. 1813 ).
     - **(E)** The term “Federal depository institution regulator” means a member of the Financial Institutions Examination Council to which is delegated any authority of the Secretary under subsection (a)(1).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5318 | 31:1054(a), (b)(1st sentence). | Oct. 26, 1970 , Pub. L. 91–508 , §§ 205(a), (b)(1st sentence), 206, 84 Stat. 1120 . |
+|  | 31:1055. |  |
+
+
+General Powers of Secretary
+
+Limitations on Summons Power.—
+
+Scope of power
+
+Authority to issue
+
+Administrative Aspects of Summons.—
+
+Production at designated site
+
+Fees and travel expenses
+
+No liability for expenses
+
+Service of Summons
+
+Contumacy or Refusal.—
+
+Referral to attorney general
+
+Jurisdiction of court
+
+Court order
+
+Failure to comply with order
+
+Service of process
+
+Written and Signed Statement Required
+
+Reporting of Suspicious Transactions.—
+
+In general
+
+Notification prohibited.—
+
+In general
+
+Disclosures in certain employment references.—
+
+Rule of construction
+
+Information not required
+
+Liability for disclosures.—
+
+In general
+
+Rule of construction
+
+Single designee for reporting suspicious transactions.—
+
+In general
+
+Duty of designee
+
+Coordination with other reporting requirements
+
+Considerations in imposing reporting requirements.—
+
+Definitions
+
+Requirements
+
+Compliance program
+
+Streamlined data and real-time reporting.—
+
+Requirement to establish system
+
+(aa) reduce burdens imposed on persons required to report; and
+
+(bb) do not diminish the usefulness of the reporting to Federal law enforcement agencies, national security officials, and the intelligence community in combating financial crime, including the financing of terrorism;
+
+(aa) permit streamlined, including automated, reporting for the categories described in subclause (I); and
+
+(bb) establish the conditions under which the reporting described in item (aa) is permitted; and
+
+Standards
+
+Rule of construction
+
+Sharing of threat pattern and trend information.—
+
+Definitions
+
+Suspicious activity report activity review
+
+Inclusion of typologies
+
+Rules of construction
+
+Pilot program on sharing with foreign branches, subsidiaries, and affiliates.—
+
+In general.—
+
+Issuance of rules
+
+Considerations
+
+Pilot program described
+
+Prohibition involving certain jurisdictions.—
+
+In general
+
+(aa) is a state sponsor of terrorism;
+
+(bb) is subject to sanctions imposed by the Federal Government; or
+
+(cc) the Secretary has determined cannot reasonably protect the security and confidentiality of such information.
+
+Exceptions
+
+Implementation updates
+
+Treatment of foreign jurisdiction-originated reports
+
+No offshoring compliance
+
+Definitions
+
+Affiliate
+
+Bank secrecy act; state bank supervisor; state credit union supervisor
+
+Anti-Money Laundering Programs.—
+
+In general
+
+Regulations
+
+In general
+
+Factors
+
+Concentration accounts
+
+Priorities.—
+
+In general
+
+Updates
+
+Relation to national strategy
+
+Rulemaking
+
+Supervision and examination
+
+Duty
+
+Due Diligence for United States Private Banking and Correspondent Bank Accounts Involving Foreign Persons.—
+
+In general
+
+Additional standards for certain correspondent accounts.—
+
+In general
+
+Policies, procedures, and controls
+
+Minimum standards for private banking accounts
+
+Definitions
+
+Offshore banking license
+
+Private banking account
+
+Prohibition on United States Correspondent Accounts With Foreign Shell Banks.—
+
+In general
+
+Prevention of indirect service to foreign shell banks
+
+Exception
+
+Definitions
+
+Bank Records Related to Anti-Money Laundering Programs.—
+
+Definitions
+
+Appropriate federal banking agency
+
+Covered financial institution
+
+Incorporated term
+
+hour rule
+
+Foreign bank records.—
+
+Subpoena of records.—
+
+In general
+
+Production of records
+
+Issuance and service of subpoena
+
+(aa) a return date; and
+
+(bb) the judicial district in which the related investigation is proceeding; and
+
+(aa) in person;
+
+(bb) by mail or fax in the United States if the foreign bank has a representative in the United States; or
+
+(cc) if applicable, in a foreign country under any mutual legal assistance treaty, multilateral agreement, or other request for international legal or law enforcement assistance.
+
+Relief from subpoena.—
+
+In general
+
+(aa) the subpoena; or
+
+(bb) the prohibition against disclosure described in subparagraph (C).
+
+Conflict with foreign secrecy or confidentiality
+
+Acceptance of service.—
+
+Maintaining records in the united states
+
+(aa) resides in the United States; and
+
+(bb) is authorized to accept service of legal process for records covered under this subsection.
+
+Law enforcement request
+
+Nondisclosure of subpoena.—
+
+In general
+
+Damages
+
+Enforcement.—
+
+In general
+
+Court orders and contempt of court
+
+(aa) certified records, in accordance with— (AA) rule 902(12) of the Federal Rules of Evidence; or (BB) section 3505 of title 18 ; or
+
+(bb) testimony regarding the production of the certified records; and
+
+Service of process
+
+Termination of correspondent relationship.—
+
+Termination upon receipt of notice
+
+(aa) the appropriate district court of the United States after challenging a subpoena described in subclause (I) under subparagraph (A)(iv)(I); or
+
+(bb) a court of appeals of the United States after appealing a decision of a district court of the United States under item (aa).
+
+Limitation on liability
+
+Failure to terminate relationship or failure to comply with a subpoena.—
+
+Failure to terminate relationship
+
+Failure to comply with a subpoena.—
+
+(aa) In general .— Upon failure to comply with a subpoena under subparagraph (A)(i), a foreign bank may be liable for a civil penalty assessed by the issuing agency in an amount that is not more than $50,000 for each day that the foreign bank fails to comply with the terms of a subpoena.
+
+(bb) Additional penalties .— Beginning after the date that is 60 days after a foreign bank fails to comply with a subpoena under subparagraph (A)(i), the Secretary of the Treasury or the Attorney General may seek additional penalties and compel compliance with the subpoena in the appropriate district court of the United States.
+
+(cc) Venue for relief .— A foreign bank may seek review in the appropriate district court of the United States of any penalty assessed under this clause and the issuance of a subpoena under subparagraph (A)(i).
+
+Enforcement of civil penalties
+
+Identification and Verification of Accountholders.—
+
+In general
+
+Minimum requirements
+
+Factors to be considered
+
+Certain financial institutions
+
+Exemptions
+
+Effective date
+
+Applicability of Rules
+
+Reporting of Certain Cross-Border Transmittals of Funds.—
+
+In general
+
+Limitation on reporting requirements
+
+Form and manner of reports
+
+Feasibility report.—
+
+In general
+
+Consultation
+
+Regulations.—
+
+In general
+
+Technological feasibility
+
+Testing.—
+
+In general
+
+Standards
+
+Confidentiality of algorithms.—
+
+In general
+
+Freedom of information act
+
+Definition
+
+Sharing of Compliance Resources.—
+
+Sharing permitted
+
+Outreach
+
+Interagency Coordination and Consultation.—
+
+In general
+
+Rules of construction
+
+Definitions
+
+Appropriate state bank supervisor
+
+Appropriate state credit union supervisor
+
+Federal credit union
+
+Federal depository institution
+
+Federal depository institution regulators
+
+Historical and Revision Notes
+
+5318
+
+Oct. 26, 1970
+
+Pub. L. 91–508
+
+84 Stat. 1120
+
+In general
+
+Regulations
+
+Feedback.—
+
+In general
+
+Coordination with federal functional regulators and state bank supervisors and state credit union supervisors
+
+Disclosure Required.—
+
+In general.—
+
+Periodic disclosure
+
+Rule of construction
+
+Exception for ongoing or closed investigations and to protect national security
+
+Maintenance of statistics
+
+Coordination with department of justice
+
+Deadline for Suspicious Activity Reporting Requirements for Registered Brokers and Dealers
+
+Suspicious Activity Reporting Requirements For Futures Commission Merchants, Commodity Trading Advisors, and Commodity Pool Operators
+
+Reports required
+
+Time for submitting reports
+
+Enhanced Training, Examinations, and Referrals by Banking Agencies
+
+Improved Reporting of Criminal Schemes by Law Enforcement Agencies
+
+Report to Congress
+
+Definition
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 999](https://www.govinfo.gov/link/statute/96/999); [Pub. L. 99–570, title I, § 1356(a)](https://www.govinfo.gov/link/plaw/99/public/570), (b), (c)(2), Oct. 27, 1986, [100 Stat. 3207–23](https://www.govinfo.gov/link/statute/100/3207), 3207–24; [Pub. L. 100–690, title VI](https://www.govinfo.gov/link/plaw/100/public/690), §§ 6185(e), 6469(c), Nov. 18, 1988, [102 Stat. 4357](https://www.govinfo.gov/link/statute/102/4357), 4377; [Pub. L. 102–550, title XV](https://www.govinfo.gov/link/plaw/102/public/550), §§ 1504(d)(1), 1513, 1517(b), Oct. 28, 1992, [106 Stat. 4055](https://www.govinfo.gov/link/statute/106/4055), 4058, 4059; [Pub. L. 103–322, title XXXIII, § 330017(b)(1)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2149](https://www.govinfo.gov/link/statute/108/2149); [Pub. L. 103–325, title IV](https://www.govinfo.gov/link/plaw/103/public/325), §§ 403(a), 410, 413(b)(1), Sept. 23, 1994, [108 Stat. 2245](https://www.govinfo.gov/link/statute/108/2245), 2252, 2254; [Pub. L. 107–56, title III](https://www.govinfo.gov/link/plaw/107/public/56), §§ 312(a), 313(a), 319(b), 325, 326(a), 351, 352(a), 358(b), 359(c), 365(c)(2)(B), Oct. 26, 2001, [115 Stat. 304](https://www.govinfo.gov/link/statute/115/304), 306, 312, 317, 320, 322, 326, 328, 335; [Pub. L. 108–159, title VIII, § 811(g)](https://www.govinfo.gov/link/plaw/108/public/159), Dec. 4, 2003, [117 Stat. 2012](https://www.govinfo.gov/link/statute/117/2012); [Pub. L. 108–458, title VI](https://www.govinfo.gov/link/plaw/108/public/458), §§ 6202(h), 6203(c), (d), 6302, Dec. 17, 2004, [118 Stat. 3746–3748](https://www.govinfo.gov/link/statute/118/3746); [Pub. L. 109–177, title IV, § 407](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 245](https://www.govinfo.gov/link/statute/120/245); [Pub. L. 112–74, div. C, title I, § 118](https://www.govinfo.gov/link/plaw/112/public/74), Dec. 23, 2011, [125 Stat. 891](https://www.govinfo.gov/link/statute/125/891); [Pub. L. 113–156, § 2(a)](https://www.govinfo.gov/link/plaw/113/public/156), Aug. 8, 2014, [128 Stat. 1829](https://www.govinfo.gov/link/statute/128/1829); [Pub. L. 116–283, div. F, title LXI](https://www.govinfo.gov/link/plaw/116/public/283), §§ 6101(b), 6102(c), title LXII, §§ 6202, 6206, 6209(a), 6212, 6213(a), title LXIII, §§ 6301, 6308(a), Jan. 1, 2021, [134 Stat. 4550](https://www.govinfo.gov/link/statute/134/4550), 4553, 4566, 4571, 4573, 4576, 4579, 4584, 4590.)*

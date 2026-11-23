@@ -3,9 +3,10 @@ title: "Section 87k - Standardizing commercial inspections"
 usc_title: 7
 usc_section: "87k"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 87k"
-generated_at: "2026-03-30T02:53:42.255Z"
+generated_at: "2026-11-23T20:25:40.910Z"
+status: "active"
 ---
 
 # § 87k. Standardizing commercial inspections
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:42.255Z"
 - **(d)** The Secretary shall—
   - **(1)** establish uniform standards for testing equipment; and
   - **(2)** establish uniform testing procedures and sampling techniques;
+
+## Source Credit
+
+*(Aug. 11, 1916, ch. 313, pt. B, § 22, as added [Pub. L. 101–624, title XX, § 2009](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3931](https://www.govinfo.gov/link/statute/104/3931); amended [Pub. L. 103–156](https://www.govinfo.gov/link/plaw/103/public/156), §§ 11, 13(b)(2), Nov. 24, 1993, [107 Stat. 1528](https://www.govinfo.gov/link/statute/107/1528), 1529; [Pub. L. 103–354, title II, § 293(a)(7)](https://www.govinfo.gov/link/plaw/103/public/354), (8), Oct. 13, 1994, [108 Stat. 3237](https://www.govinfo.gov/link/statute/108/3237).)*

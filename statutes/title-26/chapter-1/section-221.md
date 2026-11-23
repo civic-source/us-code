@@ -3,9 +3,10 @@ title: "Section 221 - Interest on education loans"
 usc_title: 26
 usc_section: "221"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 221"
-generated_at: "2026-03-30T02:55:27.654Z"
+generated_at: "2026-11-23T20:26:45.513Z"
+status: "active"
 ---
 
 # § 221. Interest on education loans
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:55:27.654Z"
     - **(A)** such dollar amount, multiplied by
     - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2001” for “calendar year 2016” in subparagraph (A)(ii) thereof.
   - **(2)** If any amount as adjusted under paragraph (1) is not a multiple of $5,000, such amount shall be rounded to the next lowest multiple of $5,000.
+
+## Source Credit
+
+*(Added [Pub. L. 105–34, title II, § 202(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 806](https://www.govinfo.gov/link/statute/111/806); amended [Pub. L. 105–206, title VI, § 6004(b)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 792](https://www.govinfo.gov/link/statute/112/792); [Pub. L. 105–277, div. J, title IV, § 4003(a)(2)(A)](https://www.govinfo.gov/link/plaw/105/public/277), (3), Oct. 21, 1998, [112 Stat. 2681–908](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 107–16, title IV](https://www.govinfo.gov/link/plaw/107/public/16), §§ 402(b)(2)(B), 412(a)(1), (b)(1), (2), 431(c)(2), June 7, 2001, [115 Stat. 62–64](https://www.govinfo.gov/link/statute/115/62), 68; [Pub. L. 108–311, title II, § 207(20)](https://www.govinfo.gov/link/plaw/108/public/311), title IV, § 408(b)(5), Oct. 4, 2004, [118 Stat. 1178](https://www.govinfo.gov/link/statute/118/1178), 1192; [Pub. L. 108–357, title I, § 102(d)(2)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1428](https://www.govinfo.gov/link/statute/118/1428); [Pub. L. 109–135, title IV, § 412(t)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2638](https://www.govinfo.gov/link/statute/119/2638); [Pub. L. 113–295, div. A, title II, § 221(a)(40)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4043](https://www.govinfo.gov/link/statute/128/4043); [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 11002(d)(1)(U), 13305(b)(1), Dec. 22, 2017, [131 Stat. 2060](https://www.govinfo.gov/link/statute/131/2060), 2126; [Pub. L. 116–94, div. O, title III, § 302(b)(2)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3176](https://www.govinfo.gov/link/statute/133/3176); [Pub. L. 116–136, div. A, title II, § 2206(b)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 347](https://www.govinfo.gov/link/statute/134/347); [Pub. L. 116–260, div. EE, title I, § 104(b)(2)(G)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3041](https://www.govinfo.gov/link/statute/134/3041); [Pub. L. 117–2, title IX, § 9042(b)(6)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 122](https://www.govinfo.gov/link/statute/135/122).)*

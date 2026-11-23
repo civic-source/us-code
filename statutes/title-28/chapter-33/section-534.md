@@ -3,9 +3,10 @@ title: "Section 534 - Acquisition, preservation, and exchange of identification 
 usc_title: 28
 usc_section: "534"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 534"
-generated_at: "2026-03-30T02:55:30.131Z"
+generated_at: "2026-11-23T20:26:36.373Z"
+status: "active"
 ---
 
 # § 534. Acquisition, preservation, and exchange of identification records and information; appointment of officials
@@ -39,3 +40,45 @@ generated_at: "2026-03-30T02:55:30.131Z"
     - **(B)** the term “protection order” includes—
       - **(i)** any injunction, restraining order, or any other order issued by a civil or criminal court for the purpose of preventing violent or threatening acts or harassment against, sexual violence or contact or communication with or physical proximity to, another person, including any temporary or final orders issued by civil or criminal courts whether obtained by filing an independent action or as a pendente lite order in another proceeding so long as any civil order was issued in response to a complaint, petition, or motion filed by or on behalf of a person seeking protection; and
       - **(ii)** any support, child custody or visitation provisions, orders, remedies, or relief issued as part of a protection order, restraining order, or stay away injunction pursuant to State, tribal, territorial, or local law authorizing the issuance of protection orders, restraining orders, or injunctions for the protection of victims of domestic violence, dating violence, sexual assault, or stalking.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 300 (as applicable to acquisition etc. of identification and other records). | Aug. 31, 1964 , Pub. L. 88–527, § 201 (1st 105 words of 1st par. under “Federal Bureau of Investigation”, as applicable to acquisition etc. of identification and other records), 78 Stat. 717 . |
+|  | 5 U.S.C. 340 . | June 11, 1930, ch. 455 , 46 Stat. 554 . |
+
+
+Indian Law Enforcement Agencies.—
+
+In general
+
+Tribal Access Program.—
+
+In general
+
+Authorization of appropriations
+
+Information sharing
+
+Historical and Revision Notes
+
+5 U.S.C. 300
+
+Aug. 31, 1964
+
+Pub. L. 88–527, § 201
+
+78 Stat. 717
+
+5 U.S.C. 340
+
+June 11, 1930, ch. 455
+
+46 Stat. 554
+
+Statutory construction
+
+Evidence
+
+## Source Credit
+
+*(Added [Pub. L. 89–554, § 4(c)](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 616](https://www.govinfo.gov/link/statute/80/616); amended [Pub. L. 97–292](https://www.govinfo.gov/link/plaw/97/public/292), §§ 2, 3(a), Oct. 12, 1982, [96 Stat. 1259](https://www.govinfo.gov/link/statute/96/1259); [Pub. L. 100–690, title VII, § 7333](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4469](https://www.govinfo.gov/link/statute/102/4469); [Pub. L. 103–322, title IV, § 40601(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1950](https://www.govinfo.gov/link/statute/108/1950); [Pub. L. 107–273, div. A, title II, § 204(c)](https://www.govinfo.gov/link/plaw/107/public/273), div. B, title IV, § 4003(b)(4), div. C, title I, § 11004, Nov. 2, 2002, [116 Stat. 1776](https://www.govinfo.gov/link/statute/116/1776), 1811, 1816; [Pub. L. 109–162, title I, § 118](https://www.govinfo.gov/link/plaw/109/public/162), title IX, § 905(a), Jan. 5, 2006, [119 Stat. 2989](https://www.govinfo.gov/link/statute/119/2989), 3079; [Pub. L. 109–248, title I, § 153(i)](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 611](https://www.govinfo.gov/link/statute/120/611); [Pub. L. 111–211, title II, § 233(a)](https://www.govinfo.gov/link/plaw/111/public/211), July 29, 2010, [124 Stat. 2279](https://www.govinfo.gov/link/statute/124/2279); [Pub. L. 111–369, § 2](https://www.govinfo.gov/link/plaw/111/public/369), Jan. 4, 2011, [124 Stat. 4068](https://www.govinfo.gov/link/statute/124/4068); [Pub. L. 117–103, div. W, title VIII, § 802(b)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 898](https://www.govinfo.gov/link/statute/136/898); [Pub. L. 117–159, div. A, title II, § 12004(h)(2)](https://www.govinfo.gov/link/plaw/117/public/159), June 25, 2022, [136 Stat. 1331](https://www.govinfo.gov/link/statute/136/1331).)*

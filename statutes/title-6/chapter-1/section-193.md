@@ -3,9 +3,10 @@ title: "Section 193 - Technology clearinghouse to encourage and support innovati
 usc_title: 6
 usc_section: "193"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 193"
-generated_at: "2026-03-30T02:53:09.448Z"
+generated_at: "2026-11-23T20:25:34.656Z"
+status: "active"
 ---
 
 # § 193. Technology clearinghouse to encourage and support innovative solutions to enhance homeland security
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:09.448Z"
   - **(1)** Nothing in this section shall be construed as authorizing the Secretary or the technical assistance team established under subsection (b)(3) to set standards for technology to be used by the Department, any other executive agency, any State or local government entity, or any private sector entity.
   - **(2)** The technical assistance team established under subsection (b)(3) shall not consider or evaluate proposals submitted in response to a solicitation for offers for a pending procurement or for a specific agency requirement.
   - **(3)** In carrying out this section, the Secretary shall coordinate with the Technical Support Working Group (organized under the April 1982 National Security Decision Directive Numbered 30).
+
+## Source Credit
+
+*([Pub. L. 107–296, title III, § 313](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2176](https://www.govinfo.gov/link/statute/116/2176).)*

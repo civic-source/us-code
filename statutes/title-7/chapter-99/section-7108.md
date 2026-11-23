@@ -3,9 +3,10 @@ title: "Section 7108 - Investigations and power to subpoena"
 usc_title: 7
 usc_section: "7108"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7108"
-generated_at: "2026-03-30T02:53:42.444Z"
+generated_at: "2026-11-23T20:25:41.756Z"
+status: "active"
 ---
 
 # § 7108. Investigations and power to subpoena
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:42.444Z"
 - **(c)** In the case of contumacy by, or refusal to obey a subpoena issued to, any person, the Secretary may invoke the aid of any court of the United States within the jurisdiction of which the investigation or proceeding is carried on, or where the person resides or carries on business, in order to require the attendance and testimony of the person or the production of records. The court may issue an order requiring the person to appear before the Secretary to produce records or to give testimony regarding the matter under investigation.
 - **(d)** Any failure to obey the order of the court may be punished by the court as a contempt of the court.
 - **(e)** Process in any case under this section may be served in the judicial district in which the person resides or carries on business or wherever the person may be found.
+
+## Source Credit
+
+*([Pub. L. 103–407, § 9](https://www.govinfo.gov/link/plaw/103/public/407), Oct. 22, 1994, [108 Stat. 4226](https://www.govinfo.gov/link/statute/108/4226).)*

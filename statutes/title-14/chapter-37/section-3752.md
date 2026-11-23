@@ -3,9 +3,10 @@ title: "Section 3752 - Retention boards; removal from an active status to provid
 usc_title: 14
 usc_section: "3752"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 3752"
-generated_at: "2026-03-30T02:53:51.505Z"
+generated_at: "2026-11-23T20:25:54.643Z"
+status: "active"
 ---
 
 # § 3752. Retention boards; removal from an active status to provide a flow of promotion
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:51.505Z"
   - **(3)** to the extent practicable, consist of officers who have not served on the last previous retention board which considered officers of the same grade.
 - **(c)** Subject to section 12646 of title 10 , a Reserve officer who is not recommended for retention in an active status under this section shall be given an opportunity to transfer to the Retired Reserve, if qualified, but unless so transferred shall, in the discretion of the Secretary, be transferred to the inactive status list or discharged on June 30 next following the date on which the report of the retention board is approved.
 - **(d)** The provisions of section 2117 of this title shall, to the extent that they are not inconsistent with this subchapter, apply to boards convened under this section.
+
+## Source Credit
+
+*(Added [Pub. L. 96–322, § 1](https://www.govinfo.gov/link/plaw/96/public/322), Aug. 4, 1980, [94 Stat. 1014](https://www.govinfo.gov/link/statute/94/1014), § 741; amended [Pub. L. 101–225, title II, § 203(5)](https://www.govinfo.gov/link/plaw/101/public/225), Dec. 12, 1989, [103 Stat. 1911](https://www.govinfo.gov/link/statute/103/1911); [Pub. L. 103–206, title II, § 203](https://www.govinfo.gov/link/plaw/103/public/206), Dec. 20, 1993, [107 Stat. 2420](https://www.govinfo.gov/link/statute/107/2420); [Pub. L. 103–337, div. A, title XVI, § 1677(b)(5)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 3020](https://www.govinfo.gov/link/statute/108/3020); [Pub. L. 104–106, div. A, title XV, § 1501(e)(1)(B)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 501](https://www.govinfo.gov/link/statute/110/501); renumbered § 3752 and amended [Pub. L. 115–282, title I](https://www.govinfo.gov/link/plaw/115/public/282), §§ 118(b), 123(b)(2), Dec. 4, 2018, [132 Stat. 4233](https://www.govinfo.gov/link/statute/132/4233), 4240.)*

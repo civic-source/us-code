@@ -3,9 +3,10 @@ title: "Section 1831 - Information and recordkeeping requirements"
 usc_title: 29
 usc_section: "1831"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1831"
-generated_at: "2026-03-30T02:55:18.740Z"
+generated_at: "2026-11-23T20:26:38.049Z"
+status: "active"
 ---
 
 # § 1831. Information and recordkeeping requirements
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:55:18.740Z"
   - **(1)** 1 1 So in original. No par. (2) has been enacted. Each farm labor contractor shall provide to any other farm labor contractor and to any agricultural employer and agricultural association to which such farm labor contractor has furnished seasonal agricultural workers, copies of all records with respect to each such worker which such farm labor contractor is required to retain by subsection (c)(1). The recipient of these records shall keep them for a period of three years from the end of the period of employment.
 - **(e)** No farm labor contractor, agricultural employer, or agricultural association shall knowingly provide false or misleading information to any seasonal agricultural worker concerning the terms, conditions, or existence of agricultural employment required to be disclosed by subsection (a), (b), or (c).
 - **(f)** The information required to be disclosed by subsections (a) and (b) of this section to seasonal agricultural workers shall be provided in written form. Such information shall be provided in English or, as necessary and reasonable, in Spanish or other language common to seasonal agricultural workers who are not fluent or literate in English. The Department of Labor shall make forms available in English, Spanish, and other languages, as necessary, which may be used in providing workers with information required under this section.
+
+## Source Credit
+
+*([Pub. L. 97–470, title III, § 301](https://www.govinfo.gov/link/plaw/97/public/470), Jan. 14, 1983, [96 Stat. 2592](https://www.govinfo.gov/link/statute/96/2592); [Pub. L. 104–49, § 4(b)](https://www.govinfo.gov/link/plaw/104/public/49), Nov. 15, 1995, [109 Stat. 434](https://www.govinfo.gov/link/statute/109/434).)*

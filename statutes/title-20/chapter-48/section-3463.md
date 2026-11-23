@@ -3,9 +3,10 @@ title: "Section 3463 - Personnel reduction and annual limitations"
 usc_title: 20
 usc_section: "3463"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 3463"
-generated_at: "2026-03-30T02:54:48.179Z"
+generated_at: "2026-11-23T20:26:14.734Z"
+status: "active"
 ---
 
 # § 3463. Personnel reduction and annual limitations
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:48.179Z"
   - **(4)** an estimate of the personnel costs associated with such reorganization;
   - **(5)** the effects of such reorganization on labor management relations; and
   - **(6)** such legislative and administrative recommendations for improvements in personnel management within the Department as the Director considers necessary.
+
+## Source Credit
+
+*([Pub. L. 96–88, title IV, § 403](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 682](https://www.govinfo.gov/link/statute/93/682); [Pub. L. 104–66, title I, § 1041(a)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 714](https://www.govinfo.gov/link/statute/109/714).)*

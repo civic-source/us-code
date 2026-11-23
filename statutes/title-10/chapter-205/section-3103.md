@@ -3,9 +3,10 @@ title: "Section 3103 - Civilian management of the defense acquisition system"
 usc_title: 10
 usc_section: "3103"
 chapter: 205
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 3103"
-generated_at: "2026-03-30T02:53:38.188Z"
+generated_at: "2026-11-23T20:25:51.802Z"
+status: "active"
 ---
 
 # § 3103. Civilian management of the defense acquisition system
@@ -18,3 +19,11 @@ generated_at: "2026-03-30T02:53:38.188Z"
   - **(4)** notify the Joint Requirements Oversight Council within 30 days after changes to a defense acquisition program that result in a material difference in capability requirements, procurement quantities, or delivery schedules;
   - **(5)** assign personnel to critical acquisition positions (as defined in section 1731 of this title ) to build expertise and accountability, equipping such personnel with strategies to empower teams, delegate authority, and embrace mission-focused risk-taking; and
   - **(6)** foster mutual transparency and cooperation between the Government and private sector entities and require collaboration with such entities to ensure delivery of safe, suitable, and effective systems on relevant timelines and on established cost baselines.
+
+Responsibility of the Under Secretary of Defense for Acquisition and Sustainment
+
+Responsibility of the Service Acquisition Executives
+
+## Source Credit
+
+*(Added [Pub. L. 111–383, div. A, title VIII, § 861(a)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4288](https://www.govinfo.gov/link/statute/124/4288), § 2546; amended [Pub. L. 116–92, div. A, title IX, § 902(78)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1552](https://www.govinfo.gov/link/statute/133/1552); renumbered § 3103, [Pub. L. 116–283, div. A, title XVIII, § 1808(a)(2)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4159](https://www.govinfo.gov/link/statute/134/4159); [Pub. L. 119–60, div. A, title XVIII, § 1801(b)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1222](https://www.govinfo.gov/link/statute/139/1222).)*

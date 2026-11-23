@@ -3,9 +3,10 @@ title: "Section 16298a - Carbon utilization program"
 usc_title: 42
 usc_section: "16298a"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16298a"
-generated_at: "2026-03-30T02:56:11.480Z"
+generated_at: "2026-11-23T20:27:23.660Z"
+status: "active"
 ---
 
 # § 16298a. Carbon utilization program
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:56:11.480Z"
   - **(4)** $67,940,625 for fiscal year 2025; and
   - **(5)** $69,387,656 for fiscal year 2026.
 - **(e)** The Secretary shall coordinate the activities authorized in this section with the activities authorized in section 16298 of this title as part of one consolidated program at the Department. Nothing in section 16298 of this title shall be construed as limiting the authorities provided in this section.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 969A](https://www.govinfo.gov/link/plaw/109/public/58), as added [Pub. L. 116–260, div. Z, title IV, § 4004(a)(1)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2539](https://www.govinfo.gov/link/statute/134/2539); amended [Pub. L. 117–58, div. D, title III, § 40302](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 987](https://www.govinfo.gov/link/statute/135/987).)*

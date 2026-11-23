@@ -3,9 +3,10 @@ title: "Section 60551 - Offender reentry research"
 usc_title: 34
 usc_section: "60551"
 chapter: 605
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 60551"
-generated_at: "2026-03-30T02:55:33.317Z"
+generated_at: "2026-11-23T20:26:50.674Z"
+status: "active"
 ---
 
 # § 60551. Offender reentry research
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:33.317Z"
   - **(4)** a national recidivism study every 3 years;
   - **(5)** a study of parole, probation, or post-incarceration supervision violations and revocations; and
   - **(6)** a study concerning the most appropriate measure to be used when reporting recidivism rates (whether rearrest, reincarceration, or any other valid, evidence-based measure).
+
+## Source Credit
+
+*([Pub. L. 110–199, title II, § 241](https://www.govinfo.gov/link/plaw/110/public/199), Apr. 9, 2008, [122 Stat. 690](https://www.govinfo.gov/link/statute/122/690).)*

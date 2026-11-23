@@ -3,9 +3,10 @@ title: "Section 3737 - Additional authorities and increased flexibility to provi
 usc_title: 19
 usc_section: "3737"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3737"
-generated_at: "2026-03-30T02:54:24.696Z"
+generated_at: "2026-11-23T20:26:11.074Z"
+status: "active"
 ---
 
 # § 3737. Additional authorities and increased flexibility to provide assistance under the Development Fund for Africa
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:24.696Z"
     - **(G)** Increasing the technical and managerial capacity of sub-Saharan African individuals to manage the economy of sub-Saharan Africa.
     - **(H)** Ensuring sustainable economic growth through environmental protection.
   - **(4)** The African Development Foundation has a unique congressional mandate to empower the poor to participate fully in development and to increase opportunities for gainful employment, poverty alleviation, and more equitable income distribution in sub-Saharan Africa. The African Development Foundation has worked successfully to enhance the role of women as agents of change, strengthen the informal sector with an emphasis on supporting micro and small sized enterprises, indigenous technologies, and mobilizing local financing. The African Development Foundation should develop and implement strategies for promoting participation in the socioeconomic development process of grassroots and informal sector groups such as nongovernmental organizations, cooperatives, artisans, and traders into the programs and initiatives established under this chapter.
+
+## Source Credit
+
+*([Pub. L. 106–200, title I, § 127](https://www.govinfo.gov/link/plaw/106/public/200), May 18, 2000, [114 Stat. 272](https://www.govinfo.gov/link/statute/114/272).)*

@@ -3,9 +3,10 @@ title: "Section 573 - Assessments and reports"
 usc_title: 6
 usc_section: "573"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 573"
-generated_at: "2026-03-30T02:53:09.470Z"
+generated_at: "2026-11-23T20:25:34.797Z"
+status: "active"
 ---
 
 # § 573. Assessments and reports
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:53:09.470Z"
     - **(B)** a catastrophic loss of local and regional communications services;
   - **(4)** a list of best practices relating to the ability to continue to communicate and to provide and maintain interoperable emergency communications in the event of natural disasters, acts of terrorism, or other man-made disasters; and
   - **(A)** 1 1 So in original. Probably should be “(5)”. an evaluation of the feasibility and desirability of the Department developing, on its own or in conjunction with the Department of Defense, a mobile communications capability, modeled on the Army Signal Corps, that could be deployed to support emergency communications at the site of natural disasters, acts of terrorism, or other man-made disasters.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XVIII, § 1803](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 109–295, title VI, § 671(b)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1437](https://www.govinfo.gov/link/statute/120/1437); amended [Pub. L. 115–278, § 2(g)(6)(B)](https://www.govinfo.gov/link/plaw/115/public/278), Nov. 16, 2018, [132 Stat. 4179](https://www.govinfo.gov/link/statute/132/4179).)*

@@ -3,9 +3,10 @@ title: "Section 825 - Labeling and packaging"
 usc_title: 21
 usc_section: "825"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 825"
-generated_at: "2026-03-30T02:54:54.293Z"
+generated_at: "2026-11-23T20:26:27.828Z"
+status: "active"
 ---
 
 # § 825. Labeling and packaging
@@ -23,3 +24,11 @@ generated_at: "2026-03-30T02:54:54.293Z"
       - **(ii)** is exempt from the provisions of section 505 of such Act relating to new drugs because—
         - **(I)** it is intended solely for investigational use as described in section 505(i) of such Act; and
         - **(II)** such product is being used exclusively for purposes of a clinical trial that is the subject of an effective investigational new drug application.
+
+In General
+
+Absence From List
+
+## Source Credit
+
+*([Pub. L. 91–513, title II, § 305](https://www.govinfo.gov/link/plaw/91/public/513), Oct. 27, 1970, [84 Stat. 1256](https://www.govinfo.gov/link/statute/84/1256); [Pub. L. 113–260, § 3(a)](https://www.govinfo.gov/link/plaw/113/public/260), Dec. 18, 2014, [128 Stat. 2931](https://www.govinfo.gov/link/statute/128/2931).)*

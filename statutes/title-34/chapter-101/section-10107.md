@@ -3,9 +3,10 @@ title: "Section 10107 - Division of Applied Law Enforcement Technology"
 usc_title: 34
 usc_section: "10107"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10107"
-generated_at: "2026-03-30T02:55:33.259Z"
+generated_at: "2026-11-23T20:26:50.428Z"
+status: "active"
 ---
 
 # § 10107. Division of Applied Law Enforcement Technology
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:33.259Z"
 - **(b)** In carrying out the purpose of the Division, the head of the Division shall—
   - **(1)** establish clear minimum standards for computer systems that can be purchased using amounts awarded under such grants; and
   - **(2)** ensure that recipients of such grants use such systems to participate in crime reporting programs administered by the Department, such as Uniform Crime Reports or the National Incident-Based Reporting System.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 107](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 109–162, title XI, § 1160(a)](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3117](https://www.govinfo.gov/link/statute/119/3117).)*

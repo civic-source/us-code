@@ -3,9 +3,10 @@ title: "Section 8008 - Funding procedures"
 usc_title: 42
 usc_section: "8008"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8008"
-generated_at: "2026-03-30T02:56:11.332Z"
+generated_at: "2026-11-23T20:27:22.990Z"
+status: "active"
 ---
 
 # § 8008. Funding procedures
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.332Z"
   - **(4)** to establish accounting and other standards in order to prevent any fraudulent or inappropriate use of funds under this chapter; and
   - **(5)** to assure that no more than 1 per centum of the funds appropriated under this chapter for any fiscal year may be used by public housing agencies and nonprofit corporations for evaluative purposes as required by section 8007(b)(1) of this title .
 - **(b)** The Secretary shall establish a reserve fund, not to exceed 10 per centum of the funds appropriated in each fiscal year for the provision of services under this chapter, in order to supplement grants awarded to public housing agencies and nonprofit corporations under this chapter when, in the determination of the Secretary, such supplemental adjustments are required to maintain adequate levels of services to eligible project residents.
+
+## Source Credit
+
+*([Pub. L. 95–557, title IV, § 409](https://www.govinfo.gov/link/plaw/95/public/557), Oct. 31, 1978, [92 Stat. 2109](https://www.govinfo.gov/link/statute/92/2109).)*

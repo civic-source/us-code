@@ -3,9 +3,10 @@ title: "Section 1509 - Right of direct access"
 usc_title: 11
 usc_section: "1509"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 1509"
-generated_at: "2026-03-30T02:53:53.888Z"
+generated_at: "2026-11-23T20:25:55.442Z"
+status: "active"
 ---
 
 # § 1509. Right of direct access
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:53.888Z"
 - **(d)** If the court denies recognition under this chapter, the court may issue any appropriate order necessary to prevent the foreign representative from obtaining comity or cooperation from courts in the United States.
 - **(e)** Whether or not the court grants recognition, and subject to sections 306 and 1510, a foreign representative is subject to applicable nonbankruptcy law.
 - **(f)** Notwithstanding any other provision of this section, the failure of a foreign representative to commence a case or to obtain recognition under this chapter does not affect any right the foreign representative may have to sue in a court in the United States to collect or recover a claim which is the property of the debtor.
+
+## Source Credit
+
+*(Added [Pub. L. 109–8, title VIII, § 801(a)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 137](https://www.govinfo.gov/link/statute/119/137).)*

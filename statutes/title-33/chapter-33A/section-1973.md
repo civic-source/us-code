@@ -3,9 +3,10 @@ title: "Section 1973 - Agreement with the Marine Debris Foundation"
 usc_title: 33
 usc_section: "1973"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1973"
-generated_at: "2026-03-30T02:55:41.111Z"
+generated_at: "2026-11-23T20:26:54.110Z"
+status: "active"
 ---
 
 # § 1973. Agreement with the Marine Debris Foundation
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:55:41.111Z"
     - **(A)** may request and accept Federal funds and non-Federal funds for a cash prize or administration of the prize competition;
     - **(B)** may accept a contribution for a cash prize in exchange for the right to name the prize; and
     - **(C)** shall not give special consideration to any Federal agency or non-Federal entity in exchange for a donation for a cash prize awarded under this section.
+
+## Source Credit
+
+*([Pub. L. 109–449, § 123](https://www.govinfo.gov/link/plaw/109/public/449), formerly [Pub. L. 116–224, title I, § 123](https://www.govinfo.gov/link/plaw/116/public/224), Dec. 18, 2020, [134 Stat. 1082](https://www.govinfo.gov/link/statute/134/1082); renumbered [Pub. L. 109–449, § 123](https://www.govinfo.gov/link/plaw/109/public/449), and amended [Pub. L. 119–65](https://www.govinfo.gov/link/plaw/119/public/65), §§ 4(a), 6(c), Dec. 26, 2025, [139 Stat. 1989](https://www.govinfo.gov/link/statute/139/1989), 1990.)*

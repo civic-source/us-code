@@ -3,9 +3,10 @@ title: "Section 3546 - Use of domestic products"
 usc_title: 42
 usc_section: "3546"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3546"
-generated_at: "2026-03-30T02:56:11.190Z"
+generated_at: "2026-11-23T20:27:22.298Z"
+status: "active"
 ---
 
 # § 3546. Use of domestic products
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.190Z"
 - **(c)** For the purposes of this section, the term “domestic product” means a product—
   - **(1)** that is manufactured or produced in the United States; and
   - **(2)** at least 50 percent of the cost of the articles, materials, or supplies of which are mined, produced, or manufactured in the United States.
+
+## Source Credit
+
+*([Pub. L. 102–550, title IX, § 920](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3883](https://www.govinfo.gov/link/statute/106/3883).)*

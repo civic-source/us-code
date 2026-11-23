@@ -3,9 +3,10 @@ title: "Section 3099 - Vulnerability assessments of major systems"
 usc_title: 50
 usc_section: "3099"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3099"
-generated_at: "2026-03-30T02:56:26.235Z"
+generated_at: "2026-11-23T20:27:30.915Z"
+status: "active"
 ---
 
 # § 3099. Vulnerability assessments of major systems
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:56:26.235Z"
   - **(3)** The term “major system” has the meaning given that term in section 3097(e) of this title .
   - **(4)** The term “Milestone B” means a decision to enter into major system development and demonstration pursuant to guidance prescribed by the Director of National Intelligence.
   - **(5)** The term “vulnerability assessment” means the process of identifying and quantifying vulnerabilities in a major system and its significant items of supply.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title V, § 506C, as added [Pub. L. 111–259, title III, § 321(a)(1)](https://www.govinfo.gov/link/plaw/111/public/259), Oct. 7, 2010, [124 Stat. 2667](https://www.govinfo.gov/link/statute/124/2667).)*

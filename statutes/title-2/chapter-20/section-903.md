@@ -3,9 +3,10 @@ title: "Section 903 - Enforcing deficit targets"
 usc_title: 2
 usc_section: "903"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 903"
-generated_at: "2026-03-30T02:53:04.805Z"
+generated_at: "2026-11-23T20:25:28.931Z"
+status: "active"
 ---
 
 # § 903. Enforcing deficit targets
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:53:04.805Z"
 - **(h)**
   - **(1)** The initial estimates of the net costs of federal deposit insurance for fiscal year 1994 and fiscal year 1995 (assuming full funding of, and continuation of, the deposit insurance guarantee commitment in effect on the date of the submission of the budget for fiscal year 1993) shall be set forth in that budget.
   - **(2)** For fiscal year 1994 and fiscal year 1995, the amount of the reestimate of deposit insurance costs shall be calculated by subtracting the amount set forth under paragraph (1) for that year from the current estimate of deposit insurance costs (but assuming full funding of, and continuation of, the deposit insurance guarantee commitment in effect on the date of submission of the budget for fiscal year 1993).
+
+## Source Credit
+
+*([Pub. L. 99–177, title II, § 253](https://www.govinfo.gov/link/plaw/99/public/177), Dec. 12, 1985, [99 Stat. 1078](https://www.govinfo.gov/link/statute/99/1078); [Pub. L. 100–119, title I, § 103](https://www.govinfo.gov/link/plaw/100/public/119), Sept. 29, 1987, [101 Stat. 775](https://www.govinfo.gov/link/statute/101/775); [Pub. L. 101–508, title XIII, § 13101(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–583](https://www.govinfo.gov/link/statute/104/1388).)*

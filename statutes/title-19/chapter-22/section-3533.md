@@ -3,9 +3,10 @@ title: "Section 3533 - Dispute settlement panels and procedures"
 usc_title: 19
 usc_section: "3533"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3533"
-generated_at: "2026-03-30T02:54:24.692Z"
+generated_at: "2026-11-23T20:26:11.052Z"
+status: "active"
 ---
 
 # § 3533. Dispute settlement panels and procedures
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:54:24.692Z"
   - **(3)** During the 60-day period described in paragraph (2), the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate may vote to indicate the agreement or disagreement of the committee with the proposed contents of the final rule or other modification. Any such vote shall not be binding on the department or agency which is implementing the rule or other modification.
   - **(4)** This subsection does not apply to any regulation or practice of the International Trade Commission.
 - **(h)** Before the review is conducted of the dispute settlement rules and procedures of the WTO that is provided for in the Decision on the Application of the Understanding on Rules and Procedures Governing the Settlement of Disputes, as such decision is set forth in the Ministerial Declarations and Decisions adopted on April 15, 1994 , together with the Uruguay Round Agreements, the Trade Representative shall consult with the congressional committees regarding the policy of the United States concerning the review.
+
+## Source Credit
+
+*([Pub. L. 103–465, title I, § 123](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4830](https://www.govinfo.gov/link/statute/108/4830).)*

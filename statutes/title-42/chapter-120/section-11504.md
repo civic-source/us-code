@@ -3,9 +3,10 @@ title: "Section 11504 - Waiver or modification of housing and community developm
 usc_title: 42
 usc_section: "11504"
 chapter: 120
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11504"
-generated_at: "2026-03-30T02:56:11.404Z"
+generated_at: "2026-11-23T20:27:23.318Z"
+status: "active"
 ---
 
 # § 11504. Waiver or modification of housing and community development rules in enterprise zones
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.404Z"
     - **(A)** any rule as defined in section 551(4) of title 5 ; or
     - **(B)** any rulemaking conducted on the record after opportunity for an agency hearing pursuant to sections 556 and 557 of title 5.
   - **(2)** The term “Secretary” means the Secretary of Housing and Urban Development or, with respect to any rule issued under title V of the Housing Act of 1949 [ 42 U.S.C. 1471 et seq.], the Secretary of Agriculture.
+
+## Source Credit
+
+*([Pub. L. 100–242, title VII, § 704](https://www.govinfo.gov/link/plaw/100/public/242), Feb. 5, 1988, [101 Stat. 1962](https://www.govinfo.gov/link/statute/101/1962).)*

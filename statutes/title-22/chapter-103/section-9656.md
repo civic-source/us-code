@@ -3,9 +3,10 @@ title: "Section 9656 - Notifications to be provided by the Corporation"
 usc_title: 22
 usc_section: "9656"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9656"
-generated_at: "2026-03-30T02:55:05.471Z"
+generated_at: "2026-11-23T20:26:32.793Z"
+status: "active"
 ---
 
 # § 9656. Notifications to be provided by the Corporation
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.471Z"
     - **(A)** information relating to whether the Corporation has accepted a creditor status that is subordinate to that of other creditors in the project, activity, or asset; and
     - **(B)** for all projects, activities, or assets that the Corporation has accepted a creditor status that is subordinate to that of other creditors the Corporation shall include a description of the substantive policy rationale required by section 9623(b)(12) of this title that influenced the decision to accept such a creditor status.
 - **(c)** The Chief Executive Officer of the Corporation shall notify the appropriate congressional committees not later than 30 days after entering into a new bilateral agreement described in section 9631(a) of this title .
+
+## Source Credit
+
+*([Pub. L. 115–254, div. F, title IV, § 1446](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3507](https://www.govinfo.gov/link/statute/132/3507); (As amended [Pub. L. 119–60, div. H, title LXXXVII, § 8757](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1967](https://www.govinfo.gov/link/statute/139/1967).)*

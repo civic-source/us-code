@@ -3,12 +3,17 @@ title: "Section 1461 - Administration as single Indian Revolving Loan Fund sums 
 usc_title: 25
 usc_section: "1461"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1461"
-generated_at: "2026-03-30T02:54:52.817Z"
+generated_at: "2026-11-23T20:26:25.465Z"
+status: "active"
 ---
 
 # § 1461. Administration as single Indian Revolving Loan Fund sums from diverse sources; availability of fund for loans to Indians and for administrative expenses
 
 In order to provide credit that is not available from private money markets, or to supplement funds from private lenders, including loans guaranteed by the Secretary pursuant to section 1481 of this title , all funds that are now or hereafter a part of the revolving fund authorized by the Act of June 18, 1934 ( 48 Stat. 986 ) [ 25 U.S.C. 5101 et seq.], the Act of June 26, 1936 ( 49 Stat. 1968 ), 1 1 So in original. Probably should be “( 49 Stat. 1967 ),”. and the Act of April 19, 1950 ( 64 Stat. 44 ), as amended and supplemented, including sums received in settlement of debts of livestock pursuant to sections 1545 and 1546 of this title, and sums collected in repayment of loans heretofore or hereafter made, and as interest or other charges on loans, shall hereafter be administered as a single Indian Revolving Loan Fund. The fund shall be available for loans to Indians having a form of organization that is satisfactory to the Secretary and for loans to individual Indians: Provided , That, where the Secretary determines a rejection of a loan application from a member of an organization making loans to its membership from moneys borrowed from the fund is unwarranted, he may, in his discretion, make a direct loan to such individual from the fund. The fund shall also be available for administrative expenses incurred in connection therewith, or, in the discretion of the Secretary of the Interior, as a contribution to the Indian Loan Guaranty and Insurance Fund authorized by section 1497 of this title , or for the payment of interest subsidies authorized by section 1511 of this title .
 
+
+## Source Credit
+
+*([Pub. L. 93–262, title I, § 101](https://www.govinfo.gov/link/plaw/93/public/262), Apr. 12, 1974, [88 Stat. 78](https://www.govinfo.gov/link/statute/88/78); [Pub. L. 98–449, § 2](https://www.govinfo.gov/link/plaw/98/public/449), Oct. 4, 1984, [98 Stat. 1725](https://www.govinfo.gov/link/statute/98/1725); [Pub. L. 101–644, title III, § 303(a)](https://www.govinfo.gov/link/plaw/101/public/644), Nov. 29, 1990, [104 Stat. 4667](https://www.govinfo.gov/link/statute/104/4667).)*

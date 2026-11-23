@@ -3,9 +3,10 @@ title: "Section 2415 - Time for commencing actions brought by the United States"
 usc_title: 28
 usc_section: "2415"
 chapter: 161
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 2415"
-generated_at: "2026-03-30T02:55:30.149Z"
+generated_at: "2026-11-23T20:26:36.521Z"
+status: "active"
 ---
 
 # § 2415. Time for commencing actions brought by the United States
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:30.149Z"
 - **(g)** Any right of action subject to the provisions of this section which accrued prior to the date of enactment of this Act shall, for purposes of this section, be deemed to have accrued on the date of enactment of this Act.
 - **(h)** Nothing in this Act shall apply to actions brought under the Internal Revenue Code or incidental to the collection of taxes imposed by the United States.
 - **(i)** The provisions of this section shall not prevent the United States or an officer or agency thereof from collecting any claim of the United States by means of administrative offset, in accordance with section 3716 of title 31 .
+
+## Source Credit
+
+*(Added [Pub. L. 89–505, § 1](https://www.govinfo.gov/link/plaw/89/public/505), July 18, 1966, [80 Stat. 304](https://www.govinfo.gov/link/statute/80/304); amended [Pub. L. 92–353](https://www.govinfo.gov/link/plaw/92/public/353), July 18, 1972, [86 Stat. 499](https://www.govinfo.gov/link/statute/86/499); [Pub. L. 92–485](https://www.govinfo.gov/link/plaw/92/public/485), Oct. 13, 1972, [86 Stat. 803](https://www.govinfo.gov/link/statute/86/803); [Pub. L. 95–64](https://www.govinfo.gov/link/plaw/95/public/64), July 11, 1977, [91 Stat. 268](https://www.govinfo.gov/link/statute/91/268); [Pub. L. 95–103](https://www.govinfo.gov/link/plaw/95/public/103), Aug. 15, 1977, [91 Stat. 842](https://www.govinfo.gov/link/statute/91/842); [Pub. L. 96–217, § 1](https://www.govinfo.gov/link/plaw/96/public/217), Mar. 27, 1980, [94 Stat. 126](https://www.govinfo.gov/link/statute/94/126); [Pub. L. 97–365, § 9](https://www.govinfo.gov/link/plaw/97/public/365), Oct. 25, 1982, [96 Stat. 1754](https://www.govinfo.gov/link/statute/96/1754); [Pub. L. 97–394, title I, § 2](https://www.govinfo.gov/link/plaw/97/public/394), Dec. 30, 1982, [96 Stat. 1976](https://www.govinfo.gov/link/statute/96/1976); [Pub. L. 97–452, § 2(d)(2)](https://www.govinfo.gov/link/plaw/97/public/452), Jan. 12, 1983, [96 Stat. 2478](https://www.govinfo.gov/link/statute/96/2478); [Pub. L. 98–250, § 4(a)](https://www.govinfo.gov/link/plaw/98/public/250), Apr. 3, 1984, [98 Stat. 118](https://www.govinfo.gov/link/statute/98/118).)*

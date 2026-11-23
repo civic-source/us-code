@@ -3,9 +3,10 @@ title: "Section 1068 - Applications for assistance"
 usc_title: 20
 usc_section: "1068"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1068"
-generated_at: "2026-03-30T02:54:48.103Z"
+generated_at: "2026-11-23T20:26:14.356Z"
+status: "active"
 ---
 
 # § 1068. Applications for assistance
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:54:48.103Z"
 - **(c)** The Secretary shall publish in the Federal Register, pursuant to chapter 5 of title 5, all policies and procedures required to exercise the authority set forth in subsection (a). No other criteria, policies, or procedures shall apply.
 - **(d)** The Secretary shall use the most recent and relevant data concerning the number and percentage of students receiving need-based assistance under subchapter IV of this chapter in making eligibility determinations under section 1058 of this title and shall advance the base-year forward following each annual grant cycle.
 - **(e)** The Secretary, directly or by grant or contract, may provide technical assistance to eligible institutions to prepare the institutions to qualify, apply for, and maintain a grant, under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 89–329, title III, § 391](https://www.govinfo.gov/link/plaw/89/public/329), formerly § 351, as added [Pub. L. 99–498, title III, § 301(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1302](https://www.govinfo.gov/link/statute/100/1302); amended [Pub. L. 100–50, § 2(a)(13)](https://www.govinfo.gov/link/plaw/100/public/50), June 3, 1987, [101 Stat. 336](https://www.govinfo.gov/link/statute/101/336); [Pub. L. 102–325, title III, § 305(a)](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 478](https://www.govinfo.gov/link/statute/106/478); renumbered § 391 and amended [Pub. L. 105–244, title III](https://www.govinfo.gov/link/plaw/105/public/244), §§ 301(a)(2), (c)(11), 308(a)–(c), Oct. 7, 1998, [112 Stat. 1636](https://www.govinfo.gov/link/statute/112/1636), 1637, 1648, 1649; [Pub. L. 110–315, title III](https://www.govinfo.gov/link/plaw/110/public/315), §§ 317, 320(4), Aug. 14, 2008, [122 Stat. 3185](https://www.govinfo.gov/link/statute/122/3185), 3188.)*

@@ -3,9 +3,10 @@ title: "Section 332 - Pollinator-friendly practices on roadsides and highway rig
 usc_title: 23
 usc_section: "332"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 332"
-generated_at: "2026-03-30T02:55:12.569Z"
+generated_at: "2026-11-23T20:26:23.872Z"
+status: "active"
 ---
 
 # § 332. Pollinator-friendly practices on roadsides and highway rights-of-way
@@ -52,3 +53,45 @@ generated_at: "2026-03-30T02:55:12.569Z"
 - **(l)**
   - **(1)** There is authorized to be appropriated to carry out this section $2,000,000 for each of fiscal years 2022 through 2026.
   - **(2)** Amounts made available under this section shall remain available for a period of 3 years after the last day of the fiscal year for which the funds are authorized.
+
+In General
+
+Eligible Entities
+
+Application
+
+Pollinator-friendly Practices Plan.—
+
+In general
+
+Coordination
+
+Consultation
+
+Award of Grants.—
+
+In general
+
+Amount of grants
+
+Use of Funds
+
+Federal Share
+
+Best Practices
+
+Technical Assistance
+
+Administrative Costs
+
+Report
+
+Authorization of Appropriations.—
+
+In general
+
+Availability
+
+## Source Credit
+
+*(Added [Pub. L. 117–58, div. A, title I, § 11528(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 610](https://www.govinfo.gov/link/statute/135/610).)*

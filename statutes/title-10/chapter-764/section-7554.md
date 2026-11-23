@@ -3,9 +3,10 @@ title: "Section 7554 - Property management contracts and leases"
 usc_title: 10
 usc_section: "7554"
 chapter: 764
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 7554"
-generated_at: "2026-03-30T02:53:38.235Z"
+generated_at: "2026-11-23T20:25:52.104Z"
+status: "active"
 ---
 
 # § 7554. Property management contracts and leases
@@ -26,3 +27,11 @@ generated_at: "2026-03-30T02:53:38.235Z"
     - **(C)** Reductions in product cost.
     - **(D)** The demilitarization and storage of conventional ammunition.
   - **(3)** The authority under paragraph (1) may be exercised without regard to section 3302(b) of title 31 and any other provision of law.
+
+In General
+
+Consideration for Use
+
+## Source Credit
+
+*(Added [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title III, § 344(a)(1)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–69, § 4554; amended [Pub. L. 109–163, div. A, title III, § 323(b)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3194](https://www.govinfo.gov/link/statute/119/3194); renumbered § 7554, [Pub. L. 115–232, div. A, title VIII, § 808(d)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1839](https://www.govinfo.gov/link/statute/132/1839); [Pub. L. 116–283, div. A, title XVIII, § 1883(b)(2)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4294](https://www.govinfo.gov/link/statute/134/4294).)*

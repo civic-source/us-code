@@ -3,9 +3,10 @@ title: "Section 7511 - Declaration of policy"
 usc_title: 22
 usc_section: "7511"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7511"
-generated_at: "2026-03-30T02:55:05.440Z"
+generated_at: "2026-11-23T20:26:32.665Z"
+status: "active"
 ---
 
 # § 7511. Declaration of policy
@@ -18,3 +19,41 @@ Congress makes the following declarations:
   - **(4)** The United States should support the objectives agreed to on December 5, 2001 , in Bonn, Germany, regarding the provisional arrangement for Afghanistan as it moves toward the establishment of permanent institutions and, in particular, should work intensively toward ensuring the future neutrality of Afghanistan, establishing the principle that neighboring countries and other countries in the region do not threaten or interfere in one another’s sovereignty, territorial integrity, or political independence, including supporting diplomatic initiatives to support this goal.
   - **(5)** The special emergency situation in Afghanistan, which from the perspective of the American people combines security, humanitarian, political, law enforcement, and development imperatives, requires that the President should receive maximum flexibility in designing, coordinating, and administering efforts with respect to assistance for Afghanistan and that a temporary special program of such assistance should be established for this purpose.
   - **(6)** To foster stability and democratization and to effectively eliminate the causes of terrorism, the United States and the international community should also support efforts that advance the development of democratic civil authorities and institutions in the broader Central Asia region.
+
+In General
+
+Report
+
+Appropriate Committees of Congress Defined
+
+Consultations Required
+
+Availability of Agreement Text
+
+Termination of Consultations
+
+Appropriate Committees of Congress Defined
+
+Congressional Findings
+
+Statements of Policy
+
+Statement of Congress
+
+Emergency Increase in Effective Police Training and Policing Operations.—
+
+Congressional finding
+
+Assistance authorized
+
+Report
+
+Findings
+
+Sense of congress
+
+“Congress makes the following declarations:
+
+## Source Credit
+
+*([Pub. L. 107–327, title I, § 101](https://www.govinfo.gov/link/plaw/107/public/327), Dec. 4, 2002, [116 Stat. 2798](https://www.govinfo.gov/link/statute/116/2798).)*

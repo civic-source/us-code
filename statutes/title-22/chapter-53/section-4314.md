@@ -3,9 +3,10 @@ title: "Section 4314 - Extraordinary protective services"
 usc_title: 22
 usc_section: "4314"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4314"
-generated_at: "2026-03-30T02:55:05.410Z"
+generated_at: "2026-11-23T20:26:32.534Z"
+status: "active"
 ---
 
 # § 4314. Extraordinary protective services
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.410Z"
 - **(e)** Any agreement with a State or local authority for the provision of protective services under this section shall be for a period of not to exceed 90 days in any calendar year, but such agreements may be renewed after review by the Secretary.
 - **(f)** Contracts may be entered into in carrying out this section only to such extent or in such amounts as are provided in advance in appropriation Acts.
 - **(g)** Amounts used to carry out this section shall not be subject to section 4308(h) of this title .
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title II, § 214, as added [Pub. L. 99–93, title I, § 126(a)](https://www.govinfo.gov/link/plaw/99/public/93), Aug. 16, 1985, [99 Stat. 417](https://www.govinfo.gov/link/statute/99/417); amended [Pub. L. 103–236, title I, § 139(2)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 397](https://www.govinfo.gov/link/statute/108/397); [Pub. L. 109–177, title VI, § 605(d)(3)](https://www.govinfo.gov/link/plaw/109/public/177), (e)(2)(C), Mar. 9, 2006, [120 Stat. 255](https://www.govinfo.gov/link/statute/120/255).)*

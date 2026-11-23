@@ -3,9 +3,10 @@ title: "Section 677a - Definitions"
 usc_title: 6
 usc_section: "677a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 677a"
-generated_at: "2026-03-30T02:53:09.481Z"
+generated_at: "2026-11-23T20:25:34.845Z"
+status: "active"
 ---
 
 # § 677a. Definitions
@@ -31,3 +32,7 @@ For the purposes of this part:
     - **(B)** does not include an incident or a portion of a group of related incidents that occurs on—
       - **(i)** a national security system (as defined in section 3552 of title 44 ); or
       - **(ii)** an information system described in paragraph (2) or (3) of section 3553(e) of title 44 .
+
+## Source Credit
+
+*([Pub. L. 107–296, title XXII, § 2232](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 117–58, div. G, title VI, § 70602(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1267](https://www.govinfo.gov/link/statute/135/1267).)*

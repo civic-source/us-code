@@ -3,9 +3,10 @@ title: "Section 8001 - Congressional findings"
 usc_title: 42
 usc_section: "8001"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8001"
-generated_at: "2026-03-30T02:56:11.332Z"
+generated_at: "2026-11-23T20:27:22.988Z"
+status: "active"
 ---
 
 # § 8001. Congressional findings
@@ -15,3 +16,7 @@ The Congress finds that—
   - **(1)** congregate housing, coordinated with the delivery of supportive services, offers an innovative, proven, and cost-effective means of enabling temporarily disabled or handicapped individuals to maintain their dignity and independence and to avoid costly and unnecessary institutionalization;
   - **(2)** a large and growing number of elderly and handicapped residents of public housing projects and of nonprofit projects for the elderly and handicapped face premature and unnecessary institutionalization because of the absence of or deficiencies in the availability, adequacy, coordination, or delivery of the supportive services required for the successful development of adequate numbers of congregate housing projects; and
   - **(3)** supplemental supportive services, available on a secure and continuing basis, are essential to a successful congregate housing program.
+
+## Source Credit
+
+*([Pub. L. 95–557, title IV, § 402](https://www.govinfo.gov/link/plaw/95/public/557), Oct. 31, 1978, [92 Stat. 2104](https://www.govinfo.gov/link/statute/92/2104).)*

@@ -3,9 +3,10 @@ title: "Section 1117 - Methodology"
 usc_title: 49
 usc_section: "1117"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 1117"
-generated_at: "2026-03-30T02:56:19.303Z"
+generated_at: "2026-11-23T20:27:34.563Z"
+status: "active"
 ---
 
 # § 1117. Methodology
@@ -24,3 +25,34 @@ generated_at: "2026-03-30T02:56:19.303Z"
   - **(1)** to delay publication of the findings, cause, or probable cause of a Board investigation;
   - **(2)** to delay the issuance of an urgent recommendation that the Board has determined must be issued to avoid immediate loss, death, or injury; or
   - **(3)** to limit the number of examples the Board may consider before issuing a recommendation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1117 | 49 App.:1904. | Jan. 3, 1975 , Pub. L. 93–633, § 305 , 88 Stat. 2171 . |
+
+
+In General
+
+Elements
+
+Acceptable Limitation
+
+Exception
+
+Rule of Construction
+
+Savings Clause
+
+Historical and Revision Notes
+
+1117
+
+Jan. 3, 1975
+
+Pub. L. 93–633, § 305
+
+88 Stat. 2171
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 751](https://www.govinfo.gov/link/statute/108/751); [Pub. L. 104–66, title II, § 2151](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 731](https://www.govinfo.gov/link/statute/109/731); [Pub. L. 109–443, § 2(a)(1)](https://www.govinfo.gov/link/plaw/109/public/443), Dec. 21, 2006, [120 Stat. 3297](https://www.govinfo.gov/link/statute/120/3297); [Pub. L. 115–254, div. C, § 1107(b)(1)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3432](https://www.govinfo.gov/link/statute/132/3432).)*

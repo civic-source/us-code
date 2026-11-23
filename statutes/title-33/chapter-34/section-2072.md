@@ -3,9 +3,10 @@ title: "Section 2072 - Violations of Inland Navigational Rules"
 usc_title: 33
 usc_section: "2072"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2072"
-generated_at: "2026-03-30T02:55:41.112Z"
+generated_at: "2026-11-23T20:26:54.113Z"
+status: "active"
 ---
 
 # § 2072. Violations of Inland Navigational Rules
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:41.112Z"
 - **(d)**
   - **(1)** If any owner, operator, or individual in charge of a vessel is liable for a penalty under this section, or if reasonable cause exists to believe that the owner, operator, or individual in charge may be subject to a penalty under this section, the Secretary of the Treasury, upon the request of the Secretary, shall with respect to such vessel refuse or revoke any clearance required by section 60105 of title 46 .
   - **(2)** Clearance or a permit refused or revoked under this subsection may be granted upon filing of a bond or other surety satisfactory to the Secretary.
+
+## Source Credit
+
+*([Pub. L. 96–591, § 4](https://www.govinfo.gov/link/plaw/96/public/591), Dec. 24, 1980, [94 Stat. 3433](https://www.govinfo.gov/link/statute/94/3433); [Pub. L. 104–324, title III, § 312(c)](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3920](https://www.govinfo.gov/link/statute/110/3920).)*

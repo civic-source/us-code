@@ -3,9 +3,10 @@ title: "Section 1704 - Preventive health services: annual report"
 usc_title: 38
 usc_section: "1704"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 1704"
-generated_at: "2026-03-30T02:55:53.482Z"
+generated_at: "2026-11-23T20:27:01.661Z"
+status: "active"
 ---
 
 # § 1704. Preventive health services: annual report
@@ -29,3 +30,7 @@ Not later than October 31 each year, the Secretary shall submit to the Committee
     - **(C)** the Federal, State, or local governmental entity or private entity, if any, with which such activities were carried out; and
     - **(D)** the clinical, research, or staff education projects for which funding applications were submitted (including the source of the funds applied for) and upon which a decision is pending or was denied.
   - **(3)** An accounting of the expenditure of funds during that period by the National Center for Preventive Health under section 7318 of this title .
+
+## Source Credit
+
+*(Added [Pub. L. 102–585, title V, § 512(a)](https://www.govinfo.gov/link/plaw/102/public/585), Nov. 4, 1992, [106 Stat. 4957](https://www.govinfo.gov/link/statute/106/4957); amended [Pub. L. 114–315, title VI, § 602(b)](https://www.govinfo.gov/link/plaw/114/public/315), Dec. 16, 2016, [130 Stat. 1569](https://www.govinfo.gov/link/statute/130/1569).)*

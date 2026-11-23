@@ -3,9 +3,10 @@ title: "Section 10472 - Definitions"
 usc_title: 34
 usc_section: "10472"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10472"
-generated_at: "2026-03-30T02:55:33.270Z"
+generated_at: "2026-11-23T20:26:50.476Z"
+status: "active"
 ---
 
 # § 10472. Definitions
@@ -32,3 +33,7 @@ In this subchapter—
     - **(D)** may be unable, for reasons other than indigence, to provide for any of his or her basic needs, such as food, clothing, shelter, health, or safety;
     - **(E)** has a history of mental illness or a condition that is likely to substantially deteriorate if the person is not provided with timely treatment; or
     - **(F)** due to mental illness, lacks capacity to fully understand or lacks judgment to make informed decisions regarding his or her need for treatment, care, or supervision.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 2202](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 106–515, § 3(a)](https://www.govinfo.gov/link/plaw/106/public/515), Nov. 13, 2000, [114 Stat. 2400](https://www.govinfo.gov/link/statute/114/2400); amended [Pub. L. 114–255, div. B, title XIV, § 14002(b)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1288](https://www.govinfo.gov/link/statute/130/1288).)*

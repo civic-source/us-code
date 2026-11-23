@@ -3,9 +3,10 @@ title: "Section 2164b - Eligibility of certain dependents for enrollment in dome
 usc_title: 10
 usc_section: "2164b"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2164b"
-generated_at: "2026-03-30T02:53:38.145Z"
+generated_at: "2026-11-23T20:25:51.475Z"
+status: "active"
 ---
 
 # § 2164b. Eligibility of certain dependents for enrollment in domestic dependent elementary and secondary schools
@@ -24,3 +25,23 @@ generated_at: "2026-03-30T02:53:38.145Z"
 - **(f)** In this section, the term “covered DODEA school” means a domestic dependent elementary or secondary school operated by the Department of Defense Education Activity that—
   - **(1)** was established on or before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2025; and
   - **(2)** is located in the continental United States.
+
+Program Authorized
+
+Enrollment on Space-available Basis
+
+Locations
+
+Briefings Required.—
+
+In general
+
+Elements
+
+Notifications of Participating Installations
+
+Covered DODEA School Defined
+
+## Source Credit
+
+*(Added [Pub. L. 118–159, div. A, title V, § 595(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1919](https://www.govinfo.gov/link/statute/138/1919).)*

@@ -3,9 +3,10 @@ title: "Section 2711 - Management contracts"
 usc_title: 25
 usc_section: "2711"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 2711"
-generated_at: "2026-03-30T02:54:52.843Z"
+generated_at: "2026-11-23T20:26:25.607Z"
+status: "active"
 ---
 
 # § 2711. Management contracts
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:54:52.843Z"
 - **(g)** No management contract for the operation and management of a gaming activity regulated by this chapter shall transfer or, in any other manner, convey any interest in land or other real property, unless specific statutory authority exists and unless clearly specified in writing in said contract.
 - **(h)** The authority of the Secretary under section 81 of this title , relating to management contracts regulated pursuant to this chapter, is hereby transferred to the Commission.
 - **(i)** The Commission shall require a potential contractor to pay a fee to cover the cost of the investigation necessary to reach a determination required in subsection (e) of this section.
+
+## Source Credit
+
+*([Pub. L. 100–497, § 12](https://www.govinfo.gov/link/plaw/100/public/497), Oct. 17, 1988, [102 Stat. 2479](https://www.govinfo.gov/link/statute/102/2479).)*

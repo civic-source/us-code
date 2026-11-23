@@ -3,9 +3,10 @@ title: "Section 9567 - Establishment"
 usc_title: 20
 usc_section: "9567"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 9567"
-generated_at: "2026-03-30T02:54:48.228Z"
+generated_at: "2026-11-23T20:26:14.994Z"
+status: "active"
 ---
 
 # § 9567. Establishment
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:48.228Z"
   - **(2)** to sponsor research to improve services provided under, and support the implementation of, the Individuals with Disabilities Education Act ( 20 U.S.C. 1400 et seq.); and
   - **(3)** to evaluate the implementation and effectiveness of the Individuals with Disabilities Education Act in coordination with the National Center for Education Evaluation and Regional Assistance.
 - **(c)** Parts A and F, and the standards for peer review of applications and for the conduct and evaluation of research under sections 9533(a) and 9534 of this title, respectively, shall apply to the Secretary, the Director, and the Commissioner in carrying out this part.
+
+## Source Credit
+
+*([Pub. L. 107–279, title I, § 175](https://www.govinfo.gov/link/plaw/107/public/279), as added [Pub. L. 108–446, title II, § 201(a)(2)](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2799](https://www.govinfo.gov/link/statute/118/2799).)*

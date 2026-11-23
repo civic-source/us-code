@@ -3,9 +3,10 @@ title: "Section 997 - Establishment of women’s initiative teams"
 usc_title: 10
 usc_section: "997"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 997"
-generated_at: "2026-03-30T02:53:38.095Z"
+generated_at: "2026-11-23T20:25:51.172Z"
+status: "active"
 ---
 
 # § 997. Establishment of women’s initiative teams
@@ -18,3 +19,15 @@ generated_at: "2026-03-30T02:53:38.095Z"
   - **(4)** foster a sense of community.
 - **(c)** Each women’s initiative team established under subsection (a) shall be composed of members of the armed force in which such team is established of a variety of ranks, backgrounds, and occupational specialities.
 - **(d)** A women’s initiative team established under subsection (a) shall work collaboratively with the leadership of the armed force in which such team is established and other stakeholders to carry out the duties described in subsection (b).
+
+Establishment
+
+Duties
+
+Composition
+
+Collaboration
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. A, title V, § 522(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 864](https://www.govinfo.gov/link/statute/139/864).)*

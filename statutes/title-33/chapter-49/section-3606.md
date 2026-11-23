@@ -3,9 +3,10 @@ title: "Section 3606 - Report to Congress"
 usc_title: 33
 usc_section: "3606"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 3606"
-generated_at: "2026-03-30T02:55:41.142Z"
+generated_at: "2026-11-23T20:26:54.269Z"
+status: "active"
 ---
 
 # § 3606. Report to Congress
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:41.142Z"
     - **(A)** modifications to the System; and
     - **(B)** funding levels for the System in subsequent fiscal years; and
   - **(9)** the results of a periodic external independent programmatic audit of the System.
+
+## Source Credit
+
+*([Pub. L. 111–11, title XII, § 12307](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1435](https://www.govinfo.gov/link/statute/123/1435); [Pub. L. 116–271, title I, § 105](https://www.govinfo.gov/link/plaw/116/public/271), Dec. 31, 2020, [134 Stat. 3339](https://www.govinfo.gov/link/statute/134/3339).)*

@@ -3,9 +3,10 @@ title: "Section 1351 - Application of chapter 71 of title 5 relating to Federal 
 usc_title: 2
 usc_section: "1351"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1351"
-generated_at: "2026-03-30T02:53:04.810Z"
+generated_at: "2026-11-23T20:25:28.958Z"
+status: "active"
 ---
 
 # § 1351. Application of chapter 71 of title 5 relating to Federal service labor-management relations; procedures for remedy of violations
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:53:04.810Z"
 - **(f)**
   - **(1)** Except as provided in paragraph (2), subsections (a) and (b) shall be effective on October 1, 1996 .
   - **(2)** With respect to the offices listed in subsection (e)(2), to the covered employees of such offices, and to representatives of such employees, subsections (a) and (b) shall be effective on the effective date of regulations under subsection (e).
+
+## Source Credit
+
+*([Pub. L. 104–1, title II, § 220](https://www.govinfo.gov/link/plaw/104/public/1), Jan. 23, 1995, [109 Stat. 19](https://www.govinfo.gov/link/statute/109/19); [Pub. L. 115–141, div. I, title I, § 153(a)(1)(C)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 785](https://www.govinfo.gov/link/statute/132/785); [Pub. L. 115–397, title III, § 308(b)(10)](https://www.govinfo.gov/link/plaw/115/public/397), Dec. 21, 2018, [132 Stat. 5326](https://www.govinfo.gov/link/statute/132/5326).)*

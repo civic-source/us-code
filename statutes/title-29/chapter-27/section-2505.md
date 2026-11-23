@@ -3,9 +3,10 @@ title: "Section 2505 - Applications"
 usc_title: 29
 usc_section: "2505"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 2505"
-generated_at: "2026-03-30T02:55:18.743Z"
+generated_at: "2026-11-23T20:26:38.065Z"
+status: "active"
 ---
 
 # § 2505. Applications
@@ -16,3 +17,7 @@ To be eligible to be selected under section 2503(b) of this title to receive tec
   - **(2)** a description of the types of apprenticeable occupations or nontraditional occupations in which the employer or labor union would like to train or employ women;
   - **(3)** assurances that there are or will be suitable and appropriate positions available in the apprenticeable occupations program or in the nontraditional occupations being targeted; and
   - **(4)** commitments that reasonable efforts shall be made to place qualified women in apprenticeable occupations or nontraditional occupations.
+
+## Source Credit
+
+*([Pub. L. 102–530, § 6](https://www.govinfo.gov/link/plaw/102/public/530), Oct. 27, 1992, [106 Stat. 3467](https://www.govinfo.gov/link/statute/106/3467).)*

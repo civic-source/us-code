@@ -3,9 +3,10 @@ title: "Section 471 - General rule for inventories"
 usc_title: 26
 usc_section: "471"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 471"
-generated_at: "2026-03-30T02:55:27.707Z"
+generated_at: "2026-11-23T20:26:45.773Z"
+status: "active"
 ---
 
 # § 471. General rule for inventories
@@ -24,3 +25,9 @@ generated_at: "2026-03-30T02:55:27.707Z"
   - **(3)** In the case of any taxpayer which is not a corporation or a partnership, the gross receipts test of section 448(c) shall be applied in the same manner as if each trade or business of such taxpayer were a corporation or partnership.
   - **(4)** Any change in method of accounting made pursuant to this subsection shall be treated for purposes of section 481 as initiated by the taxpayer and made with the consent of the Secretary.
 - **(d)** For rules relating to capitalization of direct and indirect costs of property, see section 263A.
+
+“In the case of any taxpayer permitted by this section [amending this section and enacting provisions set out as a note above] to change its method of accounting to a permissible method for any taxable year—
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 159; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 99–514, title VIII, § 803(b)(4)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2356](https://www.govinfo.gov/link/statute/100/2356); [Pub. L. 105–34, title IX, § 961(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 891](https://www.govinfo.gov/link/statute/111/891); [Pub. L. 115–97, title I, § 13102(c)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2103](https://www.govinfo.gov/link/statute/131/2103).)*

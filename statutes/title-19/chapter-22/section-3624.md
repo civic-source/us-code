@@ -3,9 +3,10 @@ title: "Section 3624 - Additional program funding"
 usc_title: 19
 usc_section: "3624"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3624"
-generated_at: "2026-03-30T02:54:24.694Z"
+generated_at: "2026-11-23T20:26:11.066Z"
+status: "active"
 ---
 
 # § 3624. Additional program funding
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:24.694Z"
   - **(1)** the fiscal year 1995 Pay-As-You-Go savings; and
   - **(2)** the 5-year Pay-As-You-Go savings;
 - **(c)** This section shall take effect on December 8, 1994 .
+
+## Source Credit
+
+*([Pub. L. 103–465, title IV, § 426](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4966](https://www.govinfo.gov/link/statute/108/4966).)*

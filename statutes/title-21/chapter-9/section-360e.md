@@ -3,9 +3,10 @@ title: "Section 360e - Premarket approval"
 usc_title: 21
 usc_section: "360e"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 360e"
-generated_at: "2026-03-30T02:54:54.248Z"
+generated_at: "2026-11-23T20:26:27.641Z"
+status: "active"
 ---
 
 # § 360e. Premarket approval
@@ -159,3 +160,7 @@ generated_at: "2026-03-30T02:54:54.248Z"
     - **(A)** which the Secretary has classified as a class III device, and
     - **(B)** for which no administrative order has been issued under subsection (b) (or no regulation has been promulgated under such subsection prior to July 9, 2012 ),
   - **(3)** The Secretary shall, as promptly as is reasonably achievable, but not later than 12 months after the effective date of the order requiring a device to remain in class III, establish a schedule for the issuance of an administrative order under subsection (b) for each device which is subject to the order requiring the device to remain in class III.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 515, as added [Pub. L. 94–295, § 2](https://www.govinfo.gov/link/plaw/94/public/295), May 28, 1976, [90 Stat. 552](https://www.govinfo.gov/link/statute/90/552); amended [Pub. L. 101–629](https://www.govinfo.gov/link/plaw/101/public/629), §§ 4(b)(1), 9(a), 18(c), Nov. 28, 1990, [104 Stat. 4515](https://www.govinfo.gov/link/statute/104/4515), 4521, 4528; [Pub. L. 103–80, § 3(t)](https://www.govinfo.gov/link/plaw/103/public/80), Aug. 13, 1993, [107 Stat. 778](https://www.govinfo.gov/link/statute/107/778); [Pub. L. 105–115, title II](https://www.govinfo.gov/link/plaw/105/public/115), §§ 201(b), 202, 205(c), 209(b), 216(b), Nov. 21, 1997, [111 Stat. 2334](https://www.govinfo.gov/link/statute/111/2334), 2338, 2341, 2349; [Pub. L. 107–250, title II](https://www.govinfo.gov/link/plaw/107/public/250), §§ 209, 210, title III, § 302(c), Oct. 26, 2002, [116 Stat. 1613](https://www.govinfo.gov/link/statute/116/1613), 1614, 1618; [Pub. L. 108–214, § 2(d)(1)](https://www.govinfo.gov/link/plaw/108/public/214), Apr. 1, 2004, [118 Stat. 576](https://www.govinfo.gov/link/statute/118/576); [Pub. L. 110–85, title VIII, § 801(b)(3)(D)](https://www.govinfo.gov/link/plaw/110/public/85), Sept. 27, 2007, [121 Stat. 921](https://www.govinfo.gov/link/statute/121/921); [Pub. L. 112–144, title II, § 203(g)](https://www.govinfo.gov/link/plaw/112/public/144), title VI, § 608(b)(1), July 9, 2012, [126 Stat. 1006](https://www.govinfo.gov/link/statute/126/1006), 1056; [Pub. L. 114–255, div. A, title III](https://www.govinfo.gov/link/plaw/114/public/255), §§ 3051(c)(1), 3058(b), 3101(a)(2)(J), Dec. 13, 2016, [130 Stat. 1124](https://www.govinfo.gov/link/statute/130/1124), 1129, 1154; [Pub. L. 115–52, title II, § 203(f)(2)(A)](https://www.govinfo.gov/link/plaw/115/public/52), Aug. 18, 2017, [131 Stat. 1015](https://www.govinfo.gov/link/statute/131/1015); [Pub. L. 117–328, div. FF, title III, § 3308(b)(2)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5836](https://www.govinfo.gov/link/statute/136/5836).)*

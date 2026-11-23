@@ -3,9 +3,10 @@ title: "Section 2509 - Loan guarantees"
 usc_title: 15
 usc_section: "2509"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2509"
-generated_at: "2026-03-30T02:54:08.172Z"
+generated_at: "2026-11-23T20:26:04.203Z"
+status: "active"
 ---
 
 # § 2509. Loan guarantees
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:54:08.172Z"
 - **(h)** No loan guarantee shall be made, or interest assistance contracts entered into, pursuant to this section, after the expiration of the 7-year period following September 17, 1976 .
 - **(i)** An applicant seeking a guarantee under this section must be a citizen or national of the United States. A corporation, partnership, firm, or association shall not be deemed to be a citizen or national of the United States unless the Secretary of Energy determines that it satisfactorily meets all the requirements of section 50501 of title 46 , for determining such citizenship, except that the provisions in subsections (a) and (b) of such section 50501 concerning (1) the citizenship of officers or directors of a corporation, and (2) the interest required to be owned in the case of a corporation, association, or partnership operating a vessel in the coastwise trade, shall not be applicable. The Secretary of Energy, in consultation with the Secretary of State, may waive such requirements in the case of a corporation, partnership, firm, or association, controlling interest in which is owned by citizens of countries which are participants in the International Energy Agreement.
 - **(j)** The full faith and credit of the United States is pledged to the payment of all obligations incurred under this section.
+
+## Source Credit
+
+*([Pub. L. 94–413, § 10](https://www.govinfo.gov/link/plaw/94/public/413), Sept. 17, 1976, [90 Stat. 1267](https://www.govinfo.gov/link/statute/90/1267); [Pub. L. 95–91, title III, § 301(a)](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 577](https://www.govinfo.gov/link/statute/91/577); [Pub. L. 95–238, title VI, § 603](https://www.govinfo.gov/link/plaw/95/public/238), Feb. 25, 1978, [92 Stat. 93](https://www.govinfo.gov/link/statute/92/93); [Pub. L. 103–437, § 5(d)(2)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4582](https://www.govinfo.gov/link/statute/108/4582).)*

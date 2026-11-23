@@ -3,9 +3,10 @@ title: "Section 7481 - Date when Tax Court decision becomes final"
 usc_title: 26
 usc_section: "7481"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 7481"
-generated_at: "2026-03-30T02:55:27.875Z"
+generated_at: "2026-11-23T20:26:46.785Z"
+status: "active"
 ---
 
 # § 7481. Date when Tax Court decision becomes final
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:55:27.875Z"
   - **(2)** there is treated as an administrative expense under section 2053 either—
     - **(A)** any amount of interest which a decedent’s estate pays on any portion of the tax imposed by section 2001 on such estate for which the time of payment is extended under section 6166, or
     - **(B)** interest on any estate, succession, legacy, or inheritance tax imposed by a State on such estate during the period of the extension of time for payment under section 6166,
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 889; [Pub. L. 91–172, title IX, § 960(h)(1)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 734](https://www.govinfo.gov/link/statute/83/734); [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 100–647, title VI](https://www.govinfo.gov/link/plaw/100/public/647), §§ 6246(a), (b)(2), 6247(a), (b)(2), Nov. 10, 1988, [102 Stat. 3751](https://www.govinfo.gov/link/statute/102/3751), 3752; [Pub. L. 105–34, title XIV](https://www.govinfo.gov/link/plaw/105/public/34), §§ 1452(a), 1454(b)(3), Aug. 5, 1997, [111 Stat. 1054](https://www.govinfo.gov/link/statute/111/1054), 1057.)*

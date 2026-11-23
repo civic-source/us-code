@@ -3,9 +3,10 @@ title: "Section 2 - Method of sale"
 usc_title: 42
 usc_section: "2"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T02:56:11.161Z"
+generated_at: "2026-11-23T20:27:22.136Z"
+status: "active"
 ---
 
 # § 2297h–2. Method of sale
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.161Z"
 - **(c)** The Secretary of the Treasury shall not allow the privatization of the Corporation unless before the sale date the Secretary of the Treasury determines that the method of transfer will provide the maximum proceeds to the Treasury consistent with the principles set forth in section 2297h–1(a) of this title .
 - **(d)** Any offering or sale of securities by the private corporation shall be subject to the Securities Act of 1933 ( 15 U.S.C. 77a et seq.), the Securities Exchange Act of 1934 ( 15 U.S.C. 78a et seq.), and the provisions of the Constitution and laws of any State, territory, or possession of the United States relating to transactions in securities.
 - **(e)** Expenses of privatization shall be paid from Corporation revenue accounts in the United States Treasury.
+
+## Source Credit
+
+*([Pub. L. 104–134, title III, § 3104](https://www.govinfo.gov/link/plaw/104/public/134), Apr. 26, 1996, [110 Stat. 1321–336](https://www.govinfo.gov/link/statute/110/1321).)*

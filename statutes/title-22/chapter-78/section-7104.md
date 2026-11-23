@@ -3,9 +3,10 @@ title: "Section 7104 - Prevention of trafficking"
 usc_title: 22
 usc_section: "7104"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7104"
-generated_at: "2026-03-30T02:55:05.436Z"
+generated_at: "2026-11-23T20:26:32.648Z"
+status: "active"
 ---
 
 # § 7104. Prevention of trafficking
@@ -116,3 +117,19 @@ generated_at: "2026-03-30T02:55:05.436Z"
   - **(2)** The Secretary of State shall ensure that decisions regarding the allocation of resources of the Department of State related to combating human trafficking and to law enforcement presence at United States diplomatic and consular posts appropriately take into account—
     - **(A)** the information described in paragraph (1); and
     - **(B)** the information included in the most recent report submitted in accordance with section 7107(b) of this title .
+
+Reports to Congress.—
+
+Initial report
+
+Annual report
+
+Definitions
+
+Location of united states visa denials
+
+Relevant congressional committees
+
+## Source Credit
+
+*([Pub. L. 106–386, div. A, § 106](https://www.govinfo.gov/link/plaw/106/public/386), Oct. 28, 2000, [114 Stat. 1474](https://www.govinfo.gov/link/statute/114/1474); [Pub. L. 108–193, § 3](https://www.govinfo.gov/link/plaw/108/public/193), Dec. 19, 2003, [117 Stat. 2875](https://www.govinfo.gov/link/statute/117/2875); [Pub. L. 109–164, title I, § 101(a)](https://www.govinfo.gov/link/plaw/109/public/164), title II, § 201(b), Jan. 10, 2006, [119 Stat. 3560](https://www.govinfo.gov/link/statute/119/3560), 3569; [Pub. L. 110–457, title I, § 103(a)](https://www.govinfo.gov/link/plaw/110/public/457), Dec. 23, 2008, [122 Stat. 5046](https://www.govinfo.gov/link/statute/122/5046); [Pub. L. 112–239, div. A, title XVII, § 1702](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2093](https://www.govinfo.gov/link/statute/126/2093); [Pub. L. 113–4, title XII, § 1207(a)](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 141](https://www.govinfo.gov/link/statute/127/141); [Pub. L. 115–425, title I](https://www.govinfo.gov/link/plaw/115/public/425), §§ 101(a), 112, Jan. 8, 2019, [132 Stat. 5473](https://www.govinfo.gov/link/statute/132/5473), 5476; [Pub. L. 115–427, § 4](https://www.govinfo.gov/link/plaw/115/public/427), Jan. 9, 2019, [132 Stat. 5504](https://www.govinfo.gov/link/statute/132/5504); [Pub. L. 116–283, div. A, title XII, § 1299R(d)(1)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4027](https://www.govinfo.gov/link/statute/134/4027).)*

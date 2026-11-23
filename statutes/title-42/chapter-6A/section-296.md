@@ -3,9 +3,10 @@ title: "Section 296 - Definitions"
 usc_title: 42
 usc_section: "296"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 296"
-generated_at: "2026-03-30T02:56:10.782Z"
+generated_at: "2026-11-23T20:27:20.404Z"
+status: "active"
 ---
 
 # § 296. Definitions
@@ -34,3 +35,13 @@ As used in this subchapter:
   - **(16)** The term “accelerated nursing degree program” means a program of education in professional nursing offered by an accredited school of nursing in which an individual holding a bachelors degree in another discipline receives a BSN or MSN degree in an accelerated time frame as determined by the accredited school of nursing.
   - **(17)** The term “bridge or degree completion program” means a program of education in professional nursing offered by an accredited school of nursing, as defined in paragraph (2), that leads to a baccalaureate degree in nursing. Such programs may include, Registered Nurse (RN) to Bachelor’s of Science of Nursing (BSN) programs, RN to MSN (Master of Science of Nursing) programs, or BSN to Doctoral programs.
   - **(18)** The term “nurse managed health clinic” means a nurse-practice arrangement, managed by advanced practice nurses, that provides primary care or wellness services to underserved or vulnerable populations and that is associated with a school, college, university or department of nursing, federally qualified health center, or independent nonprofit health or social services agency.
+
+National Variations
+
+Hiring Differences Among Certain Private Entities
+
+Nursing Scholarships
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VIII, § 801, as added [Pub. L. 105–392, title I, § 123(4)](https://www.govinfo.gov/link/plaw/105/public/392), Nov. 13, 1998, [112 Stat. 3562](https://www.govinfo.gov/link/statute/112/3562); amended [Pub. L. 107–205, title I, § 101](https://www.govinfo.gov/link/plaw/107/public/205), Aug. 1, 2002, [116 Stat. 811](https://www.govinfo.gov/link/statute/116/811); [Pub. L. 111–148, title V, § 5002(c)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 591](https://www.govinfo.gov/link/statute/124/591); [Pub. L. 116–136, div. A, title III, § 3404(a)(1)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 391](https://www.govinfo.gov/link/statute/134/391).)*

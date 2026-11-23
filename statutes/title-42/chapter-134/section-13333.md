@@ -3,9 +3,10 @@ title: "Section 13333 - Clean coal, waste-to-energy"
 usc_title: 42
 usc_section: "13333"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13333"
-generated_at: "2026-03-30T02:56:11.441Z"
+generated_at: "2026-11-23T20:27:23.479Z"
+status: "active"
 ---
 
 # § 13333. Clean coal, waste-to-energy
@@ -17,3 +18,7 @@ The Secretary shall establish a program of research, development, demonstration,
   - **(3)** the creation of fuel pellets combining coal and material reclaimed from solid waste;
   - **(4)** the feasibility of cofiring, in fluidized bed combustion units, waste methane from coal mines, including ventilation air, together with coal or coal wastes; and
   - **(5)** other sources of waste and coal mixtures in other applications that the Secretary considers appropriate.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XIII, § 1303](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2972](https://www.govinfo.gov/link/statute/106/2972).)*

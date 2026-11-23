@@ -3,9 +3,10 @@ title: "Section 2403 - Definitions"
 usc_title: 25
 usc_section: "2403"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 2403"
-generated_at: "2026-03-30T02:54:52.840Z"
+generated_at: "2026-11-23T20:26:25.590Z"
+status: "active"
 ---
 
 # § 2403. Definitions
@@ -25,3 +26,7 @@ For purposes of this chapter—
     - **(G)** referral to other sources of assistance or resources.
   - **(5)** The term “service unit” means an administrative entity within the Indian Health Service or a tribe or tribal organization operating health care programs or facilities with funds from the Indian Health Service under the Indian Self-Determination Act [ 25 U.S.C. 5321 et seq.] through which the services are provided, directly or by contract, to the eligible Indian population within a defined geographic area.
   - **(6)** The terms “Urban Indian”, “Urban Center”, and “Urban Indian Organization” shall have the same meaning as provided in section 1603 of this title .
+
+## Source Credit
+
+*([Pub. L. 99–570, title IV, § 4204](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–138](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 100–690, title II, § 2202](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4217](https://www.govinfo.gov/link/statute/102/4217).)*

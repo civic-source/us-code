@@ -3,9 +3,10 @@ title: "Section 5369 - Facilitation"
 usc_title: 25
 usc_section: "5369"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 5369"
-generated_at: "2026-03-30T02:54:52.869Z"
+generated_at: "2026-11-23T20:26:25.742Z"
+status: "active"
 ---
 
 # § 5369. Facilitation
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:52.869Z"
   - **(5)** The Secretary may deny a request under paragraph (1) upon a specific finding by the Secretary that the identified text in the regulation may not be waived because such a waiver is prohibited by Federal law.
   - **(6)** If the Secretary fails to make a determination with respect to a waiver request within the period specified in paragraph (2) (including any extension agreed to under paragraph (3)), the Secretary shall be deemed to have agreed to the request, except that for a waiver request relating to programs eligible under section 5363(b)(2) or section 5363(c) of this title , the Secretary shall be deemed to have denied the request.
   - **(7)** A decision of the Secretary under this section shall be final for the Department.
+
+## Source Credit
+
+*([Pub. L. 93–638, title IV, § 409](https://www.govinfo.gov/link/plaw/93/public/638), as added [Pub. L. 116–180, title I, § 101(e)](https://www.govinfo.gov/link/plaw/116/public/180), Oct. 21, 2020, [134 Stat. 874](https://www.govinfo.gov/link/statute/134/874).)*

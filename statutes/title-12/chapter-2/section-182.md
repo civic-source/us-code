@@ -3,12 +3,17 @@ title: "Section 182 - Notice of intent to dissolve"
 usc_title: 12
 usc_section: "182"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 182"
-generated_at: "2026-03-30T02:53:53.374Z"
+generated_at: "2026-11-23T20:25:58.701Z"
+status: "active"
 ---
 
 # § 182. Notice of intent to dissolve
 
 Whenever a vote is taken to go into liquidation it shall be the duty of the board of directors to cause notice of this fact to be certified, under the seal of the association, by its president or cashier, to the Comptroller of the Currency, and publication thereof to be made for a period of two months in every issue of a newspaper published in the city or town in which the association is located, or if no newspaper is there published, then in the newspaper published nearest thereto, that the association is closing up its affairs, and notifying its creditors to present their claims against the association for payment.
 
+
+## Source Credit
+
+*(R.S. § 5221; Aug. 9, 1955, ch. 626, [69 Stat. 546](https://www.govinfo.gov/link/statute/69/546).)*

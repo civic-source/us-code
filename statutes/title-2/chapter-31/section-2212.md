@@ -3,9 +3,10 @@ title: "Section 2212 - Appointment and supervision of Chief Executive Officer fo
 usc_title: 2
 usc_section: "2212"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 2212"
-generated_at: "2026-03-30T02:53:04.826Z"
+generated_at: "2026-11-23T20:25:29.021Z"
+status: "active"
 ---
 
 # § 2212. Appointment and supervision of Chief Executive Officer for Visitor Services
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:04.826Z"
 - **(e)**
   - **(1)** The individual who serves as the Chief Executive Officer for Visitor Services under section 1806 of this title as of October 20, 2008 , shall be the first Chief Executive Officer for Visitor Services appointed by the Architect under this section.
   - **(2)**
+
+## Source Credit
+
+*([Pub. L. 110–437, title II, § 202](https://www.govinfo.gov/link/plaw/110/public/437), Oct. 20, 2008, [122 Stat. 4986](https://www.govinfo.gov/link/statute/122/4986).)*

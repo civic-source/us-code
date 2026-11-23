@@ -3,9 +3,10 @@ title: "Section 12493 - Department of Housing and Urban Development Gender-based
 usc_title: 34
 usc_section: "12493"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12493"
-generated_at: "2026-03-30T02:55:33.289Z"
+generated_at: "2026-11-23T20:26:50.555Z"
+status: "active"
 ---
 
 # § 12493. Department of Housing and Urban Development Gender-based Violence Prevention Office and Violence Against Women Act Director
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:33.289Z"
   - **(5)** implement internal systems to track, monitor, and address compliance failures; and
   - **(6)** address the housing needs and barriers faced by victims of sexual assault, as well as sexual coercion and sexual harassment by a public housing agency or owner or manager of housing assisted under a covered housing program.
 - **(c)** There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal years 2023 through 2027.
+
+## Source Credit
+
+*([Pub. L. 103–322, title IV, § 41413](https://www.govinfo.gov/link/plaw/103/public/322), as added [Pub. L. 117–103, div. W, title VI, § 602](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 883](https://www.govinfo.gov/link/statute/136/883).)*

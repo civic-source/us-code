@@ -3,9 +3,10 @@ title: "Section 1411 - Prohibited activities by United States citizens"
 usc_title: 30
 usc_section: "1411"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1411"
-generated_at: "2026-03-30T02:55:29.404Z"
+generated_at: "2026-11-23T20:26:35.040Z"
+status: "active"
 ---
 
 # § 1411. Prohibited activities by United States citizens
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:29.404Z"
   - **(2)** Notwithstanding paragraph (1), if the President by Executive order determines that immediate suspension of exploration activities is necessary for the reasons set forth in section 1416(a)(2)(B) of this title or the Administrator determines that immediate suspension of activities is necessary to prevent a significant adverse effect on the environment or to preserve the safety of life and property at sea, the Administrator is authorized, notwithstanding any other requirement of this chapter, to issue an emergency order requiring any United States citizen who is engaged in exploration before June 28, 1980 , to immediately suspend exploration activities. The issuance of such emergency order is subject to judicial review as provided in chapter 7 of title 5.
   - **(3)** The timely filing of any application for a license under paragraph (1)(A) shall entitle the applicant to priority of right for the issuance of such license under section 1413(b) of this title . In any case in which more than one application referred to in paragraph (1) is filed based on exploration plans required by section 1413(a)(2) of this title which refer to all or part of the same deep seabed area, the Administrator shall, in taking action on such applications, apply principles of equity which take into consideration, among other things, the date on which the applicants or predecessors in interest, or component organizations thereof, commenced exploration activities and the continuity and extent of such exploration and amount of funds expended with respect to such exploration.
 - **(c)** No United States citizen may interfere or participate in interference with any activity conducted by any licensee or permittee which is authorized to be undertaken under a license or permit issued by the United States to the licensee or permittee under this chapter or with any activity conducted by the holder of, and authorized to be undertaken under, a license or permit or equivalent authorization issued by a reciprocating state for the exploration or commercial recovery of hard mineral resources. United States citizens shall exercise their rights on the high seas with reasonable regard for the interests of other states in their exercise of the freedoms of the high seas.
+
+## Source Credit
+
+*([Pub. L. 96–283, title I, § 101](https://www.govinfo.gov/link/plaw/96/public/283), June 28, 1980, [94 Stat. 557](https://www.govinfo.gov/link/statute/94/557).)*

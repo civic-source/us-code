@@ -3,9 +3,10 @@ title: "Section 10310 - Produced water research and development"
 usc_title: 42
 usc_section: "10310"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10310"
-generated_at: "2026-03-30T02:56:11.386Z"
+generated_at: "2026-11-23T20:27:23.235Z"
+status: "active"
 ---
 
 # § 10310. Produced water research and development
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.386Z"
   - **(1)** improved efficiency, technologies, and techniques for produced water recycling stations; and
   - **(2)** alternative approaches to treating, reusing, storing, or decontaminating produced water.
 - **(d)** There are authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2021 through 2025.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. Z, title IV, § 4008](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2546](https://www.govinfo.gov/link/statute/134/2546).)*

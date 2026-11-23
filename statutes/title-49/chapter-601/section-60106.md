@@ -3,9 +3,10 @@ title: "Section 60106 - State pipeline safety agreements"
 usc_title: 49
 usc_section: "60106"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 60106"
-generated_at: "2026-03-30T02:56:19.413Z"
+generated_at: "2026-11-23T20:27:35.392Z"
+status: "active"
 ---
 
 # § 60106. State pipeline safety agreements
@@ -40,3 +41,111 @@ generated_at: "2026-03-30T02:56:19.413Z"
     - **(C)** continued participation by the State authority in the oversight of interstate pipeline transportation would not promote pipeline safety.
   - **(3)** The Secretary shall give notice and an opportunity for a hearing to a State authority before ending an agreement under this section. The Secretary may provide a State an opportunity to correct any deficiencies before ending an agreement. The finding and decision to end the agreement shall be published in the Federal Register and may not become effective for at least 15 days after the date of publication unless the Secretary finds that continuation of an agreement poses an imminent hazard.
 - **(f)** At the request of a State authority, the Secretary shall allow for a certified State authority under section 60105 to participate in the inspection of an interstate pipeline facility.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 60106(a) | 49 App.:1674(b) (1st sentence). | Aug. 12, 1968 , Pub. L. 90–481, § 5(b) , 82 Stat. 723 ; Oct. 11, 1976 , Pub. L. 94–477, § 5(b) , 90 Stat. 2074 ; Nov. 30, 1979 , Pub. L. 96–129 , §§ 103(b)(1), 109(h)(2), 93 Stat. 991 , 996. |
+|  | 49 App.:2004(b) (1st sentence). | Nov. 30, 1979 , Pub. L. 96–129, § 205(b) , (c) (related to agreement), (g), 93 Stat. 1007 , 1008. |
+| 60106(b) | 49 App.:1674(b) (last sentence). |  |
+|  | 49 App.:2004(b) (last sentence). |  |
+| 60106(c) | 49 App.:1674(c) (related to agreement). | Aug. 12, 1968 , Pub. L. 90–481 , 82 Stat. 720 , § 5(c) (related to agreement); added Nov. 30, 1979 , Pub. L. 96–129, § 103(b)(2)(C) , 93 Stat. 991 . |
+|  | 49 App.:2004(c) (related to agreement). |  |
+| 60106(d) | 49 App.:1674(f). | Aug. 12, 1968 , Pub. L. 90–481, § 5(f) , 82 Stat. 724 ; Nov. 30, 1979 , Pub. L. 96–129, § 103(b) (2)(B), 93 Stat. 991 . |
+|  | 49 App.:2004(g). |  |
+
+
+Agreements Without Certification
+
+Agreements With Certification.—
+
+In general
+
+Determinations required
+
+Existing agreements
+
+Notice upon denial
+
+Notification.—
+
+In general
+
+Response by secretary
+
+Monitoring
+
+Ending Agreements.—
+
+Permissive termination
+
+Mandatory termination of agreement
+
+Procedural requirements
+
+Joint Inspectors
+
+Historical and Revision Notes
+
+60106(a)
+
+Aug. 12, 1968
+
+Pub. L. 90–481, § 5(b)
+
+82 Stat. 723
+
+Oct. 11, 1976
+
+Pub. L. 94–477, § 5(b)
+
+90 Stat. 2074
+
+Nov. 30, 1979
+
+Pub. L. 96–129
+
+93 Stat. 991
+
+Nov. 30, 1979
+
+Pub. L. 96–129, § 205(b)
+
+93 Stat. 1007
+
+60106(b)
+
+60106(c)
+
+Aug. 12, 1968
+
+Pub. L. 90–481
+
+82 Stat. 720
+
+Nov. 30, 1979
+
+Pub. L. 96–129, § 103(b)(2)(C)
+
+93 Stat. 991
+
+60106(d)
+
+Aug. 12, 1968
+
+Pub. L. 90–481, § 5(f)
+
+82 Stat. 724
+
+Nov. 30, 1979
+
+Pub. L. 96–129, § 103(b)
+
+93 Stat. 991
+
+Agreements Without Certification
+
+General Authority
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1310](https://www.govinfo.gov/link/statute/108/1310); [Pub. L. 104–304, § 20(b)](https://www.govinfo.gov/link/plaw/104/public/304), Oct. 12, 1996, [110 Stat. 3804](https://www.govinfo.gov/link/statute/110/3804); [Pub. L. 107–355, § 4](https://www.govinfo.gov/link/plaw/107/public/355), Dec. 17, 2002, [116 Stat. 2986](https://www.govinfo.gov/link/statute/116/2986); [Pub. L. 114–183](https://www.govinfo.gov/link/plaw/114/public/183), §§ 13, 24(b), June 22, 2016, [130 Stat. 524](https://www.govinfo.gov/link/statute/130/524), 530.)*

@@ -3,9 +3,10 @@ title: "Section 20160 - National crossing inventory"
 usc_title: 49
 usc_section: "20160"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 20160"
-generated_at: "2026-03-30T02:56:19.338Z"
+generated_at: "2026-11-23T20:27:34.799Z"
+status: "active"
 ---
 
 # § 20160. National crossing inventory
@@ -24,3 +25,19 @@ generated_at: "2026-03-30T02:56:19.338Z"
     - **(A)** a public highway, road, or street, or a private roadway, including associated sidewalks and pathways, crosses one or more railroad tracks either at grade or grade-separated; or
     - **(B)** a pathway explicitly authorized by a public authority or a railroad carrier that is dedicated for the use of nonvehicular traffic, including pedestrians, bicyclists, and others, that is not associated with a public highway, road, or street, or a private roadway, crosses one or more railroad tracks either at grade or grade-separated.
   - **(2)** The term “State” means a State of the United States, the District of Columbia, or the Commonwealth of Puerto Rico.
+
+Initial Reporting of Information About Previously Unreported Crossings
+
+Updating of Crossing Information.—
+
+Rulemaking Authority
+
+Definitions
+
+Crossing
+
+State
+
+## Source Credit
+
+*(Added [Pub. L. 110–432, div. A, title II, § 204(a)](https://www.govinfo.gov/link/plaw/110/public/432), Oct. 16, 2008, [122 Stat. 4869](https://www.govinfo.gov/link/statute/122/4869); amended [Pub. L. 114–94, div. A, title XI, § 11316(g)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1676](https://www.govinfo.gov/link/statute/129/1676).)*

@@ -3,9 +3,10 @@ title: "Section 295f - Investment in tomorrow’s pediatric health care workforc
 usc_title: 42
 usc_section: "295f"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 295f"
-generated_at: "2026-03-30T02:56:10.780Z"
+generated_at: "2026-11-23T20:27:20.396Z"
+status: "active"
 ---
 
 # § 295f. Investment in tomorrow’s pediatric health care workforce
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:56:10.780Z"
   - **(2)** have familiarity with evidence-based methods and cultural and linguistic competence health care services; and
   - **(3)** demonstrate financial need.
 - **(e)** There is authorized to be appropriated such sums as may be necessary for each of fiscal years 2021 through 2025.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 775, as added [Pub. L. 111–148, title V, § 5203](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 607](https://www.govinfo.gov/link/statute/124/607); amended [Pub. L. 116–136, div. A, title III, § 3401(13)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 387](https://www.govinfo.gov/link/statute/134/387).)*

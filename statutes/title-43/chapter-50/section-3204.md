@@ -3,9 +3,10 @@ title: "Section 3204 - Critical maintenance and repair"
 usc_title: 43
 usc_section: "3204"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 3204"
-generated_at: "2026-03-30T02:55:57.502Z"
+generated_at: "2026-11-23T20:27:06.432Z"
+status: "active"
 ---
 
 # § 3204. Critical maintenance and repair
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:57.502Z"
     - **(B)** determined the dam poses significant health and safety concerns; and
     - **(C)** requested Federal support; and
   - **(4)** for which the estimated rehabilitation, reconstruction, or replacement, engineering, and permitting costs would exceed $50,000,000.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title IX, § 40904](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1121](https://www.govinfo.gov/link/statute/135/1121).)*

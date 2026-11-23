@@ -3,9 +3,10 @@ title: "Section 1826a - Denial of port privileges and sanctions for high seas la
 usc_title: 16
 usc_section: "1826a"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1826a"
-generated_at: "2026-03-30T02:54:22.985Z"
+generated_at: "2026-11-23T20:26:20.554Z"
+status: "active"
 ---
 
 # § 1826a. Denial of port privileges and sanctions for high seas large-scale driftnet fishing
@@ -40,3 +41,11 @@ generated_at: "2026-03-30T02:54:22.985Z"
       - **(ii)** that nation has retaliated against the United States as a result of that prohibition.
     - **(B)** The Secretary of Commerce shall certify to the President each affirmative determination under subparagraph (A) with respect to a nation.
     - **(C)** Certification by the Secretary of Commerce under subparagraph (B) is deemed to be a certification under section 1978(a) of title 22 .
+
+Findings
+
+Policy
+
+## Source Credit
+
+*([Pub. L. 102–582, title I, § 101](https://www.govinfo.gov/link/plaw/102/public/582), Nov. 2, 1992, [106 Stat. 4901](https://www.govinfo.gov/link/statute/106/4901); [Pub. L. 109–479, title IV, § 403(b)(1)](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3632](https://www.govinfo.gov/link/statute/120/3632); [Pub. L. 114–81, title I, § 102(a)](https://www.govinfo.gov/link/plaw/114/public/81), Nov. 5, 2015, [129 Stat. 656](https://www.govinfo.gov/link/statute/129/656); [Pub. L. 117–263, div. K, title CXIII, § 11336](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4101](https://www.govinfo.gov/link/statute/136/4101).)*

@@ -3,9 +3,10 @@ title: "Section 20109 - Employee protections"
 usc_title: 49
 usc_section: "20109"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 20109"
-generated_at: "2026-03-30T02:56:19.334Z"
+generated_at: "2026-11-23T20:27:34.779Z"
+status: "active"
 ---
 
 # § 20109. Employee protections
@@ -63,3 +64,153 @@ generated_at: "2026-03-30T02:56:19.334Z"
   - **(1)** The Secretary of Homeland Security shall establish through regulations, after an opportunity for notice and comment, a process by which any person may report to the Secretary of Homeland Security regarding railroad security problems, deficiencies, or vulnerabilities.
   - **(2)** If a report submitted under paragraph (1) identifies the person making the report, the Secretary of Homeland Security shall respond promptly to such person and acknowledge receipt of the report.
   - **(3)** The Secretary of Homeland Security shall review and consider the information provided in any report submitted under paragraph (1) and shall take appropriate steps to address any problems or deficiencies identified.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 20109(a) | 45:441(a). | Oct. 16, 1970 , Pub. L. 91–458 , 84 Stat. 971 , § 212(a)–(c)(1), (d); added Oct. 10, 1980 , Pub. L. 96–423, § 10 , 94 Stat. 1815 . |
+|  | 45:441(e). | Oct. 16, 1970 , Pub. L. 91–458 , 84 Stat. 971 , § 212(e); added Oct. 10, 1980 , Pub. L. 96–423, § 10 , 94 Stat. 1815 ; Sept. 3, 1992 , Pub. L. 102–365, § 5(b) , 106 Stat. 975 . |
+| 20109(b) | 45:441(b). |  |
+| 20109(c) | 45:441(c)(1). |  |
+|  | 45:441(c)(2). | Oct. 16, 1970 , Pub. L. 91–458 , 84 Stat. 971 , § 212(c)(2); added Oct. 10, 1980 , Pub. L. 96–423, § 10 , 94 Stat. 1815 ; restated June 22, 1988 , Pub. L. 100–342, § 5(a) , 102 Stat. 627 . |
+| 20109(d) | 45:441(d). |  |
+| 20109(e) | 45:441(e). |  |
+|  | 45:441(f). | Oct. 16, 1970 , Pub. L. 91–458 , 84 Stat. 971 , § 212(f); added June 22, 1988 , Pub. L. 100–342, § 5(b) , 102 Stat. 627 . |
+
+
+In General
+
+Hazardous Safety or Security Conditions
+
+Prompt Medical Attention.—
+
+Prohibition
+
+Discipline
+
+Enforcement Action.—
+
+In general
+
+Procedure.—
+
+In general
+
+Burdens of proof
+
+Statute of limitations
+
+Civil actions to enforce
+
+Exception
+
+De novo review
+
+Appeals
+
+Remedies.—
+
+In general
+
+Damages
+
+Possible relief
+
+Election of Remedies
+
+No Preemption
+
+Rights Retained by Employee
+
+Disclosure of Identity.—
+
+Process for Reporting Security Problems to the Department of Homeland Security.—
+
+Establishment of process
+
+Acknowledgment of receipt
+
+Steps to address problem
+
+Historical and Revision Notes
+
+20109(a)
+
+Oct. 16, 1970
+
+Pub. L. 91–458
+
+84 Stat. 971
+
+Oct. 10, 1980
+
+Pub. L. 96–423, § 10
+
+94 Stat. 1815
+
+Oct. 16, 1970
+
+Pub. L. 91–458
+
+84 Stat. 971
+
+Oct. 10, 1980
+
+Pub. L. 96–423, § 10
+
+94 Stat. 1815
+
+Sept. 3, 1992
+
+Pub. L. 102–365, § 5(b)
+
+106 Stat. 975
+
+20109(b)
+
+20109(c)
+
+Oct. 16, 1970
+
+Pub. L. 91–458
+
+84 Stat. 971
+
+Oct. 10, 1980
+
+Pub. L. 96–423, § 10
+
+94 Stat. 1815
+
+June 22, 1988
+
+Pub. L. 100–342, § 5(a)
+
+102 Stat. 627
+
+20109(d)
+
+20109(e)
+
+Oct. 16, 1970
+
+Pub. L. 91–458
+
+84 Stat. 971
+
+June 22, 1988
+
+Pub. L. 100–342, § 5(b)
+
+102 Stat. 627
+
+“The Secretary [of Transportation] shall amend part 272 of title 49, Code of Federal Regulations, to the extent necessary to ensure that—
+
+In General
+
+Plan Requirements
+
+Secretary To Define What Constitutes A Critical Incident
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 867](https://www.govinfo.gov/link/statute/108/867); [Pub. L. 110–53, title XV, § 1521](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 444](https://www.govinfo.gov/link/statute/121/444); [Pub. L. 110–432, div. A, title IV, § 419](https://www.govinfo.gov/link/plaw/110/public/432), Oct. 16, 2008, [122 Stat. 4892](https://www.govinfo.gov/link/statute/122/4892); [Pub. L. 117–286, § 4(b)(98)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4353](https://www.govinfo.gov/link/statute/136/4353).)*

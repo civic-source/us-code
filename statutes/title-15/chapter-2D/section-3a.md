@@ -3,9 +3,10 @@ title: "Section 3a - State and Federal responsibilities"
 usc_title: 15
 usc_section: "3a"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 3a"
-generated_at: "2026-03-30T02:54:08.072Z"
+generated_at: "2026-11-23T20:26:03.637Z"
+status: "active"
 ---
 
 # § 80b–3a. State and Federal responsibilities
@@ -31,3 +32,17 @@ generated_at: "2026-03-30T02:54:08.072Z"
   - **(2)** Nothing in this subsection shall prohibit the securities commission (or any agency or office performing like functions) of any State from investigating and bringing enforcement actions with respect to fraud or deceit against an investment adviser or person associated with an investment adviser.
 - **(c)** Notwithstanding subsection (a), the Commission, by rule or regulation upon its own motion, or by order upon application, may permit the registration with the Commission of any person or class of persons to which the application of subsection (a) would be unfair, a burden on interstate commerce, or otherwise inconsistent with the purposes of this section.
 - **(d)** Upon request of the securities commissioner (or any agency or officer performing like functions) of any State, the Commission may provide such training, technical assistance, or other reasonable assistance in connection with the regulation of investment advisers by the State.
+
+Preservation of Filing Requirements
+
+Preservation of Fees
+
+Availability of Preemption Contingent on Payment of Fees.—
+
+In general
+
+Delays
+
+## Source Credit
+
+*(Aug. 22, 1940, ch. 686, title II, § 203A, as added [Pub. L. 104–290, title III, § 303(a)](https://www.govinfo.gov/link/plaw/104/public/290), Oct. 11, 1996, [110 Stat. 3437](https://www.govinfo.gov/link/statute/110/3437); amended [Pub. L. 109–290, § 7(b)(1)](https://www.govinfo.gov/link/plaw/109/public/290), Sept. 29, 2006, [120 Stat. 1321](https://www.govinfo.gov/link/statute/120/1321); [Pub. L. 111–203, title IV, § 410](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1576](https://www.govinfo.gov/link/statute/124/1576); [Pub. L. 114–94, div. G, title LXXIV, § 74003](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1786](https://www.govinfo.gov/link/statute/129/1786); [Pub. L. 115–417, § 3](https://www.govinfo.gov/link/plaw/115/public/417), Jan. 3, 2019, [132 Stat. 5439](https://www.govinfo.gov/link/statute/132/5439).)*

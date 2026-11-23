@@ -3,9 +3,10 @@ title: "Section 2124 - Stock of banks for cooperatives"
 usc_title: 12
 usc_section: "2124"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 2124"
-generated_at: "2026-03-30T02:53:53.472Z"
+generated_at: "2026-11-23T20:25:59.234Z"
+status: "active"
 ---
 
 # § 2124. Stock of banks for cooperatives
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:53.472Z"
 - **(d)** Each holder of one or more shares of voting stock which is eligible to borrow from a bank for cooperatives shall be entitled only to one vote and only in the affairs of the bank in the district in which its principal office is located unless otherwise authorized under regulations issued by the Farm Credit Administration, except that if such holder has not been a borrower from the bank in which it holds such stock within a period of two years next preceding the date fixed by the Farm Credit Administration prior to the commencement of voting, it shall not be entitled to vote.
 - **(e)** Nonvoting investment stock may be issued in such series and in such amounts as may be determined by the board and may be exchanged for voting stock or sold or transferred to any person subject to the approval of the issuing bank.
 - **(f)** Participation certificates may be issued to parties to whom voting stock may not be issued.
+
+## Source Credit
+
+*([Pub. L. 92–181, title III, § 3](https://www.govinfo.gov/link/plaw/92/public/181).3, Dec. 10, 1971, [85 Stat. 603](https://www.govinfo.gov/link/statute/85/603); [Pub. L. 96–592, title III, § 302](https://www.govinfo.gov/link/plaw/96/public/592), Dec. 24, 1980, [94 Stat. 3443](https://www.govinfo.gov/link/statute/94/3443); [Pub. L. 99–205, title II, § 205(e)(3)](https://www.govinfo.gov/link/plaw/99/public/205), (4), Dec. 23, 1985, [99 Stat. 1705](https://www.govinfo.gov/link/statute/99/1705); [Pub. L. 100–233, title VIII](https://www.govinfo.gov/link/plaw/100/public/233), §§ 802(o), 805(k), Jan. 6, 1988, [101 Stat. 1712](https://www.govinfo.gov/link/statute/101/1712), 1715; [Pub. L. 110–234, title V](https://www.govinfo.gov/link/plaw/110/public/234), §§ 5402, 5403(a), May 22, 2008, [122 Stat. 1154](https://www.govinfo.gov/link/statute/122/1154); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title V, §§ 5402, 5403(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1915.)*

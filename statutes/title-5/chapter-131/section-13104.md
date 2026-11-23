@@ -3,9 +3,10 @@ title: "Section 13104 - Contents of reports"
 usc_title: 5
 usc_section: "13104"
 chapter: 131
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 13104"
-generated_at: "2026-03-30T02:52:56.077Z"
+generated_at: "2026-11-23T20:25:32.273Z"
+status: "active"
 ---
 
 # § 13104. Contents of reports
@@ -161,3 +162,206 @@ generated_at: "2026-03-30T02:52:56.077Z"
     - **(A)** any retirement system under this title (including the Thrift Savings Plan under subchapter III of chapter 84 of this title); or
     - **(B)** any other retirement system maintained by the United States for officers or employees of the United States, including the President, or for members of the uniformed services; or
   - **(2)** benefits received under the Social Security Act ( 42 U.S.C. 301 et seq.).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 13104 | 5 U.S.C. App. (EGA § 102) | Pub. L. 95–521, title I, § 102 , Oct. 26, 1978 , 92 Stat. 1825 ; Pub. L. 96–19 , §§ 3(a)(1), (b), 6(a), 7(a)–(d)(1), (f), 9(b), (c)(1), (j), June 13, 1979 , 93 Stat. 39–43 ; Pub. L. 97–51, § 130(b) , Oct. 1, 1981 , 95 Stat. 966 ; Pub. L. 98–150, § 10 , Nov. 11, 1983 , 97 Stat. 962 ; Pub. L. 101–194, title II, § 202 , Nov. 30, 1989 , 103 Stat. 1727 ; Pub. L. 101–280, § 3(3) , May 4, 1990 , 104 Stat. 152 ; Pub. L. 102–90, title III, § 314(a) , Aug. 14, 1991 , 105 Stat. 469 ; Pub. L. 104–65 , §§ 20, 22(a), (b), Dec. 19, 1995 , 109 Stat. 704 , 705; Pub. L. 112–105, § 13(a) , Apr. 4, 2012 , 126 Stat. 300 . |
+
+
+Annual and Termination Reports
+
+Income.—
+
+In general
+
+Dividends, rents, interest, and capital gains
+
+Gifts and reimbursements.—
+
+Gifts
+
+Reimbursements
+
+Waiver
+
+Interests in property
+
+Liabilities
+
+(aa) as a Foreign Service Officer below the rank of ambassador; or
+
+(bb) in the uniformed services for which the pay grade prescribed by section 201 of title 37 is O–6 or below; or
+
+(aa) as a Foreign Service Officer below the rank of ambassador; or
+
+(bb) in the uniformed services for which the pay grade prescribed by section 201 of title 37 is O–6 or below; or
+
+Transactions
+
+Positions with outside entities and major sources of compensation.—
+
+Positions with outside entities
+
+Major sources of compensation
+
+Agreements or arrangements relating to other employment
+
+Qualified blind trusts
+
+Reports for New Employees, Nominees, and Candidates.—
+
+In general
+
+Alternatives for reporting.—
+
+Formats
+
+Amounts
+
+Report After Termination of Employment
+
+Categories for Reporting Amounts or Values.—
+
+Paragraphs (3), (4), (5), and (8) of subsection (a)
+
+Valuation of interests in real property
+
+Reporting Information Relating to Spouse or Dependent Child.—
+
+In general
+
+Source of earned income and honoraria
+
+Dividends, rents, interest, and capital gains
+
+Gifts
+
+Reimbursements
+
+Interests in property, liabilities, and transactions
+
+Amounts or values greater than $1,000,000
+
+Separated spouse
+
+Trusts and Other Financial Arrangements.—
+
+In general
+
+Exceptions
+
+Definition of qualified blind trust
+
+Trustee.—
+
+Transferred asset
+
+Trust instrument
+
+Approval by supervising ethics office
+
+Definitions
+
+Trust qualified before effective date of title ii of ethics reform act of 1989
+
+Trust asset considered financial interest.—
+
+In general
+
+Exception.—
+
+Notification.—
+
+Copies
+
+Transfer of asset
+
+Dissolution
+
+Documents available to public
+
+Copy of written communication
+
+Prohibitions.—
+
+Trustees
+
+Reporting individuals
+
+Civil actions for violations.—
+
+Knowing and willful violations
+
+Negligent violations
+
+Trust considered to be qualified blind trust
+
+Excepted investment funds
+
+Political Campaign Funds
+
+Gifts and Reimbursements Received While Individual Not Officer or Employee of Federal Government
+
+Non-Reportable Retirement Benefits
+
+Historical and Revision Notes
+
+13104
+
+Pub. L. 95–521, title I, § 102
+
+Oct. 26, 1978
+
+92 Stat. 1825
+
+Pub. L. 96–19
+
+June 13, 1979
+
+93 Stat. 39–43
+
+Pub. L. 97–51, § 130(b)
+
+Oct. 1, 1981
+
+95 Stat. 966
+
+Pub. L. 98–150, § 10
+
+Nov. 11, 1983
+
+97 Stat. 962
+
+Pub. L. 101–194, title II, § 202
+
+Nov. 30, 1989
+
+103 Stat. 1727
+
+Pub. L. 101–280, § 3(3)
+
+May 4, 1990
+
+104 Stat. 152
+
+Pub. L. 102–90, title III, § 314(a)
+
+Aug. 14, 1991
+
+105 Stat. 469
+
+Pub. L. 104–65
+
+Dec. 19, 1995
+
+109 Stat. 704
+
+Pub. L. 112–105, § 13(a)
+
+Apr. 4, 2012
+
+126 Stat. 300
+
+## Source Credit
+
+*([Pub. L. 117–286, § 3(c)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4273](https://www.govinfo.gov/link/statute/136/4273); [Pub. L. 119–27, § 19](https://www.govinfo.gov/link/plaw/119/public/27), July 18, 2025, [139 Stat. 466](https://www.govinfo.gov/link/statute/139/466).)*

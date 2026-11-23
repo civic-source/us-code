@@ -3,9 +3,10 @@ title: "Section 3704b - National Technical Information Service"
 usc_title: 15
 usc_section: "3704b"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 3704b"
-generated_at: "2026-03-30T02:54:08.191Z"
+generated_at: "2026-11-23T20:26:04.295Z"
+status: "active"
 ---
 
 # § 3704b. National Technical Information Service
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:54:08.191Z"
     - **(A)** any proposed reduction-in-force;
     - **(B)** any joint venture or cooperative agreement which involves a financial incentive to the joint venturer or contractor; and
     - **(C)** any change in the operating plan submitted under paragraph (3)(B) which would result in a variation from such plan with respect to expense levels of more than 10 percent.
+
+## Source Credit
+
+*([Pub. L. 100–519, title II, § 212](https://www.govinfo.gov/link/plaw/100/public/519), Oct. 24, 1988, [102 Stat. 2594](https://www.govinfo.gov/link/statute/102/2594); [Pub. L. 102–140, title II](https://www.govinfo.gov/link/plaw/102/public/140), Oct. 28, 1991, [105 Stat. 804](https://www.govinfo.gov/link/statute/105/804); [Pub. L. 102–245, title V, § 506(c)](https://www.govinfo.gov/link/plaw/102/public/245), Feb. 14, 1992, [106 Stat. 27](https://www.govinfo.gov/link/statute/106/27); [Pub. L. 110–161, div. B, title I, § 109](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 1893](https://www.govinfo.gov/link/statute/121/1893); [Pub. L. 113–235, div. H, title I, § 1301(b)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537).)*

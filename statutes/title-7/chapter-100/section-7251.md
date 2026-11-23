@@ -3,9 +3,10 @@ title: "Section 7251 - Milk price support program"
 usc_title: 7
 usc_section: "7251"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7251"
-generated_at: "2026-03-30T02:53:42.446Z"
+generated_at: "2026-11-23T20:25:41.763Z"
+status: "active"
 ---
 
 # § 7251. Milk price support program
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:42.446Z"
 - **(f)** The Secretary shall carry out the program authorized by this section through the Commodity Credit Corporation.
 - **(g)**
 - **(h)** This section (other than subsection (g)) shall be effective only during the period beginning on the first day of the first month beginning after April 4, 1996 , and ending on May 31, 2002 . The program authorized by this section shall terminate on May 31, 2002 , and shall be considered to have expired notwithstanding section 907 of title 2 .
+
+## Source Credit
+
+*([Pub. L. 104–127, title I, § 141](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 914](https://www.govinfo.gov/link/statute/110/914); [Pub. L. 106–78, title VIII, § 807(a)](https://www.govinfo.gov/link/plaw/106/public/78), Oct. 22, 1999, [113 Stat. 1181](https://www.govinfo.gov/link/statute/113/1181); [Pub. L. 106–387, § 1(a) [title VII, § 742(a)]](https://www.govinfo.gov/link/plaw/106/public/387), Oct. 28, 2000, [114 Stat. 1549](https://www.govinfo.gov/link/statute/114/1549), 1549A–35; [Pub. L. 107–76, title VII, § 772(a)](https://www.govinfo.gov/link/plaw/107/public/76), Nov. 28, 2001, [115 Stat. 745](https://www.govinfo.gov/link/statute/115/745).)*

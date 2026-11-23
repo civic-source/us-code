@@ -3,9 +3,10 @@ title: "Section 3018C - Opportunity for certain VEAP participants to enroll"
 usc_title: 38
 usc_section: "3018C"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 3018C"
-generated_at: "2026-03-30T02:55:53.499Z"
+generated_at: "2026-11-23T20:27:01.817Z"
+status: "active"
 ---
 
 # § 3018C. Opportunity for certain VEAP participants to enroll
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:55:53.499Z"
     - **(A)** the Secretary concerned collects the applicable amount under subclause (I) of such paragraph; or
     - **(B)** the retired or retainer pay of the qualified individual is first reduced under subclause (II) of such paragraph.
   - **(5)** The Secretary, in conjunction with the Secretary of Defense, shall provide for notice to participants in the educational benefits program under chapter 32 of this title of the opportunity under this subsection to elect to become entitled to basic educational assistance under this chapter.
+
+## Source Credit
+
+*(Added [Pub. L. 104–275, title I, § 106(a)](https://www.govinfo.gov/link/plaw/104/public/275), Oct. 9, 1996, [110 Stat. 3327](https://www.govinfo.gov/link/statute/110/3327); amended [Pub. L. 105–114, title IV, § 401(c)](https://www.govinfo.gov/link/plaw/105/public/114), Nov. 21, 1997, [111 Stat. 2293](https://www.govinfo.gov/link/statute/111/2293); [Pub. L. 105–368, title II, § 203(a)](https://www.govinfo.gov/link/plaw/105/public/368), Nov. 11, 1998, [112 Stat. 3326](https://www.govinfo.gov/link/statute/112/3326); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title XVI, § 1601], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–357; [Pub. L. 106–419, title I, § 104(a)](https://www.govinfo.gov/link/plaw/106/public/419) –(c)(1), Nov. 1, 2000, [114 Stat. 1827](https://www.govinfo.gov/link/statute/114/1827), 1828; [Pub. L. 107–14, § 7(e)(1)](https://www.govinfo.gov/link/plaw/107/public/14), June 5, 2001, [115 Stat. 33](https://www.govinfo.gov/link/statute/115/33); [Pub. L. 107–296, title XVII, § 1704(d)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2315](https://www.govinfo.gov/link/statute/116/2315); [Pub. L. 107–330, title III, § 308(g)(9)](https://www.govinfo.gov/link/plaw/107/public/330), Dec. 6, 2002, [116 Stat. 2829](https://www.govinfo.gov/link/statute/116/2829).)*

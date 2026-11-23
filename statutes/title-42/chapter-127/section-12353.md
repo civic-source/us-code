@@ -3,9 +3,10 @@ title: "Section 12353 - Establishment of National Center on Family Resource and 
 usc_title: 42
 usc_section: "12353"
 chapter: 127
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12353"
-generated_at: "2026-03-30T02:56:11.413Z"
+generated_at: "2026-11-23T20:27:23.356Z"
+status: "active"
 ---
 
 # § 12353. Establishment of National Center on Family Resource and Support Programs
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.413Z"
   - **(2)** develop and sponsor a variety of training institutes and curricula for family resource and support program staff;
   - **(3)** identify several programs representing the various types of family resource and support programs to develop technical assistance materials and activities to assist other agencies in establishing family resource and support programs; and
   - **(4)** develop State-wide networks of family resource and support programs for the purpose of sharing and disseminating information.
+
+## Source Credit
+
+*([Pub. L. 101–501, title IX, § 958](https://www.govinfo.gov/link/plaw/101/public/501), Nov. 3, 1990, [104 Stat. 1279](https://www.govinfo.gov/link/statute/104/1279); [Pub. L. 103–252, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/103/public/252), May 18, 1994, [108 Stat. 673](https://www.govinfo.gov/link/statute/108/673).)*

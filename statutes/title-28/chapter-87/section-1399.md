@@ -3,12 +3,17 @@ title: "Section 1399 - Partition action involving United States"
 usc_title: 28
 usc_section: "1399"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 1399"
-generated_at: "2026-03-30T02:55:30.140Z"
+generated_at: "2026-11-23T20:26:36.445Z"
+status: "active"
 ---
 
 # § 1399. Partition action involving United States
 
 Any civil action by any tenant in common or joint tenant for the partition of lands, where the United States is one of the tenants in common or joint tenants, may be brought only in the judicial district where such lands are located or, if located in different districts in the same State, in any of such districts.
 
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 936](https://www.govinfo.gov/link/statute/62/936).)*

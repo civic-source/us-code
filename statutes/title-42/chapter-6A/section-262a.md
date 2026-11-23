@@ -3,9 +3,10 @@ title: "Section 262a - Enhanced control of dangerous biological agents and toxin
 usc_title: 42
 usc_section: "262a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 262a"
-generated_at: "2026-03-30T02:56:10.720Z"
+generated_at: "2026-11-23T20:27:20.117Z"
+status: "active"
 ---
 
 # § 262a. Enhanced control of dangerous biological agents and toxins
@@ -143,3 +144,45 @@ generated_at: "2026-03-30T02:56:10.720Z"
   - **(7)** The term “registered person” means a person registered under regulations under subsection (b) or (c).
   - **(8)** The term “restricted person” has the meaning given such term in section 175b of title 18 .
 - **(m)** For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2023 through 2027.
+
+Sample access
+
+Guidance
+
+Strategy for Federal High-containment Laboratories
+
+Clarification
+
+In General
+
+Report
+
+Date Certain for Notice of Possession
+
+Date Certain for Promulgation; Effective Date Regarding Criminal and Civil Penalties
+
+Transitional Provision Regarding Current Research and Education
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 351A, as added [Pub. L. 107–188, title II, § 201(a)](https://www.govinfo.gov/link/plaw/107/public/188), June 12, 2002, [116 Stat. 637](https://www.govinfo.gov/link/statute/116/637); amended [Pub. L. 107–296, title XVII, § 1709(a)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2318](https://www.govinfo.gov/link/statute/116/2318); [Pub. L. 116–22, title IV, § 405](https://www.govinfo.gov/link/plaw/116/public/22), June 24, 2019, [133 Stat. 949](https://www.govinfo.gov/link/statute/133/949); [Pub. L. 117–286, § 4(b)(75)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4351](https://www.govinfo.gov/link/statute/136/4351); [Pub. L. 117–328, div. FF, title II, § 2311](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5759](https://www.govinfo.gov/link/statute/136/5759).)*

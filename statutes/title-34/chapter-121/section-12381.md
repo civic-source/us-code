@@ -3,9 +3,10 @@ title: "Section 12381 - Authorization of circuit studies; education and training
 usc_title: 34
 usc_section: "12381"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12381"
-generated_at: "2026-03-30T02:55:33.286Z"
+generated_at: "2026-11-23T20:26:50.546Z"
+status: "active"
 ---
 
 # § 12381. Authorization of circuit studies; education and training grants
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:33.286Z"
   - **(12)** the aspects of the topics listed in section 12372 of this title that pertain to issues within the jurisdiction of the Federal courts.
 - **(c)** The Administrative Office of the United States Courts shall act as a clearinghouse to disseminate any reports and materials issued by the gender bias task forces under subsection (a) and to respond to requests for such reports and materials. The gender bias task forces shall provide the Administrative Office of the Courts of the United States 1 1 So in original. Probably should be “Administrative Office of the United States Courts”. with their reports and related material.
 - **(d)** The Federal Judicial Center, in carrying out section 620(b)(3) of title 28 , shall include in the educational programs it prepares, including the training programs for newly appointed judges, information on the aspects of the topics listed in section 12372 of this title that pertain to issues within the jurisdiction of the Federal courts, and shall prepare materials necessary to implement this subsection.
+
+## Source Credit
+
+*([Pub. L. 103–322, title IV, § 40421](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1944](https://www.govinfo.gov/link/statute/108/1944); [Pub. L. 106–386, div. B, title IV, § 1406(b)(1)](https://www.govinfo.gov/link/plaw/106/public/386), Oct. 28, 2000, [114 Stat. 1516](https://www.govinfo.gov/link/statute/114/1516).)*

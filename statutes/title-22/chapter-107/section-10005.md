@@ -3,9 +3,10 @@ title: "Section 10005 - Support for conflict mitigation"
 usc_title: 22
 usc_section: "10005"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 10005"
-generated_at: "2026-03-30T02:55:05.474Z"
+generated_at: "2026-11-23T20:26:32.806Z"
+status: "active"
 ---
 
 # § 10005. Support for conflict mitigation
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:05.474Z"
     - **(B)** between stakeholders in this region and the Government of Sudan to support popular consultations on the status of the states of South Kordofan and Blue Nile; and
   - **(6)** to support other related conflict mitigation programs and activities.
 - **(b)** Of the amounts authorized to be appropriated to carry out part I and chapters 4 and 6 of part II of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2151 et seq., 2346 et seq., and 2348 et seq.) for fiscal years 2021 and 2022, $20,000,000 is authorized to be appropriated for each such fiscal year to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 116–283, div. A, title XII, § 1266](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3970](https://www.govinfo.gov/link/statute/134/3970).)*

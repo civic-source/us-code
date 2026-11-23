@@ -3,9 +3,10 @@ title: "Section 78i - Manipulation of security prices"
 usc_title: 15
 usc_section: "78i"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 78i"
-generated_at: "2026-03-30T02:54:08.043Z"
+generated_at: "2026-11-23T20:26:03.488Z"
+status: "active"
 ---
 
 # § 78i. Manipulation of security prices
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:54:08.043Z"
   - **(2)** to prohibit or constrain, during periods of extraordinary market volatility, any trading practice in connection with the purchase or sale of equity securities that the Commission determines (A) has previously contributed significantly to extraordinary levels of volatility that have threatened the maintenance of fair and orderly markets; and (B) is reasonably certain to engender such levels of volatility if not prohibited or constrained.
 - **(j)** The authority of the Commission under this section with respect to security-based swap agreements shall be subject to the restrictions and limitations of section 78c–1(b) of this title .
 - **(j)** It shall be unlawful for any person, directly or indirectly, by the use of any means or instrumentality of interstate commerce or of the mails, or of any facility of any national securities exchange, to effect any transaction in, or to induce or attempt to induce the purchase or sale of, any security-based swap, in connection with which such person engages in any fraudulent, deceptive, or manipulative act or practice, makes any fictitious quotation, or engages in any transaction, practice, or course of business which operates as a fraud or deceit upon any person. The Commission shall, for the purposes of this subsection, by rules and regulations define, and prescribe means reasonably designed to prevent, such transactions, acts, practices, and courses of business as are fraudulent, deceptive, or manipulative, and such quotations as are fictitious.
+
+## Source Credit
+
+*(June 6, 1934, ch. 404, title I, § 9, [48 Stat. 889](https://www.govinfo.gov/link/statute/48/889); [Pub. L. 97–303, § 3](https://www.govinfo.gov/link/plaw/97/public/303), Oct. 13, 1982, [96 Stat. 1409](https://www.govinfo.gov/link/statute/96/1409); [Pub. L. 101–432, § 6(a)](https://www.govinfo.gov/link/plaw/101/public/432), Oct. 16, 1990, [104 Stat. 975](https://www.govinfo.gov/link/statute/104/975); [Pub. L. 106–554, § 1(a)(5) [title II, § 205(a)(1), (2), title III, § 303(b), (c)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–425, 2763A–426, 2763A–453, 2763A–454; [Pub. L. 111–203, title VII](https://www.govinfo.gov/link/plaw/111/public/203), §§ 762(d)(2), 763(f), (g), title IX, §§ 929L(1), 929X(b), July 21, 2010, [124 Stat. 1760](https://www.govinfo.gov/link/statute/124/1760), 1777, 1861, 1870.)*

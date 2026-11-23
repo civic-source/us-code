@@ -3,12 +3,17 @@ title: "Section 33 - Little River, Arkansas, from Big Lake to Marked Tree"
 usc_title: 33
 usc_section: "33"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 33"
-generated_at: "2026-03-30T02:55:41.050Z"
+generated_at: "2026-11-23T20:26:53.782Z"
+status: "active"
 ---
 
 # § 33. Little River, Arkansas, from Big Lake to Marked Tree
 
 Little River, from Big Lake in Mississippi County to Marked Tree in Poinsett County, Arkansas, is declared to be not a navigable waterway of the United States within the meaning of the laws enacted by Congress for the protection of such waterways.
 
+
+## Source Credit
+
+*(Mar. 2, 1919, ch. 95, § 4, [40 Stat. 1287](https://www.govinfo.gov/link/statute/40/1287).)*

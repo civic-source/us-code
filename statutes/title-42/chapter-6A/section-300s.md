@@ -3,9 +3,10 @@ title: "Section 300s - General regulations"
 usc_title: 42
 usc_section: "300s"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 300s"
-generated_at: "2026-03-30T02:56:10.808Z"
+generated_at: "2026-11-23T20:27:20.523Z"
+status: "active"
 ---
 
 # § 300s. General regulations
@@ -20,3 +21,7 @@ The Secretary shall by regulation—
     - **(E)** to projects for medical facilities which, alone or in conjunction with other facilities, will provide comprehensive health care, including outpatient and preventive care as well as hospitalization;
   - **(2)** prescribe for medical facilities projects assisted under part A or B general standards of construction, modernization, and equipment, which standards may vary on the basis of the class of facilities and their location; and
   - **(3)** prescribe the general manner in which each entity which receives financial assistance under part A or B or has received financial assistance under part A or B or subchapter IV shall be required to comply with the assurances required to be made at the time such assistance was received and the means by which such entity shall be required to demonstrate compliance with such assurances.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XVI, § 1620, as added [Pub. L. 96–79, title II, § 202(b)](https://www.govinfo.gov/link/plaw/96/public/79), Oct. 4, 1979, [93 Stat. 632](https://www.govinfo.gov/link/statute/93/632).)*

@@ -3,9 +3,10 @@ title: "Section 229B - Criminal forfeitures; destruction of weapons"
 usc_title: 18
 usc_section: "229B"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 229B"
-generated_at: "2026-03-30T02:54:16.460Z"
+generated_at: "2026-11-23T20:26:08.351Z"
+status: "active"
 ---
 
 # § 229B. Criminal forfeitures; destruction of weapons
@@ -28,3 +29,29 @@ generated_at: "2026-03-30T02:54:16.460Z"
 - **(d)** The Attorney General shall provide for the destruction or other appropriate disposition of any chemical weapon seized and forfeited pursuant to this section.
 - **(e)** The Attorney General may request the head of any agency of the United States to assist in the handling, storage, transportation, or destruction of property seized under this section.
 - **(f)** The owner or possessor of any property seized under this section shall be liable to the United States for any expenses incurred incident to the seizure, including any expenses relating to the handling, storage, transportation, and destruction or other disposition of the seized property.
+
+Property Subject to Criminal Forfeiture
+
+Procedures.—
+
+General
+
+Temporary restraining orders.—
+
+In general
+
+Warrant of seizure
+
+Applicable procedures
+
+Affirmative Defense
+
+Destruction or Other Disposition
+
+Assistance
+
+Owner Liability
+
+## Source Credit
+
+*(Added [Pub. L. 105–277, div. I, title II, § 201(a)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–868](https://www.govinfo.gov/link/statute/112/2681).)*

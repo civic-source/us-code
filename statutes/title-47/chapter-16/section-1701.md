@@ -3,9 +3,10 @@ title: "Section 1701 - Findings"
 usc_title: 47
 usc_section: "1701"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 1701"
-generated_at: "2026-03-30T02:56:24.537Z"
+generated_at: "2026-11-23T20:27:29.010Z"
+status: "active"
 ---
 
 # § 1701. Findings
@@ -17,3 +18,7 @@ Congress finds the following:
   - **(3)** The digital divide disproportionately affects communities of color, lower-income areas, and rural areas, and the benefits of broadband should be broadly enjoyed by all.
   - **(4)** In many communities across the country, increased competition among broadband providers has the potential to offer consumers more affordable, high-quality options for broadband service.
   - **(5)** The 2019 novel coronavirus pandemic has underscored the critical importance of affordable, high-speed broadband for individuals, families, and communities to be able to work, learn, and connect remotely while supporting social distancing.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. F, title I, § 60101](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1182](https://www.govinfo.gov/link/statute/135/1182).)*

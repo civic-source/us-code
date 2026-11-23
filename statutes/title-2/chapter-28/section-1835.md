@@ -3,9 +3,10 @@ title: "Section 1835 - Interagency details"
 usc_title: 2
 usc_section: "1835"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1835"
-generated_at: "2026-03-30T02:53:04.818Z"
+generated_at: "2026-11-23T20:25:28.986Z"
+status: "active"
 ---
 
 # § 1835. Interagency details
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:04.818Z"
 - **(b)** The detail of an employee under a joint agency agreement under this section shall be for such duration as may be provided in the agreement, except that in the case of a detail made on a non-reimbursable basis, the duration of the detail may not exceed one year unless the Architect of the Capitol and the head of the department, agency, or instrumentality involved each determine that an extension of the detail of the employee is in the public interest.
 - **(c)** For purposes of any law, rule, or regulation, the detail of an employee on a non-reimbursable basis under a joint agency agreement under this section for a fiscal year shall not be treated as an increase or modification of the appropriation for the fiscal year of the office to whom the employee is detailed.
 - **(d)** This section shall apply with respect to fiscal year 2019 and each succeeding fiscal year.
+
+## Source Credit
+
+*([Pub. L. 115–244, div. B, title I, § 134](https://www.govinfo.gov/link/plaw/115/public/244), Sept. 21, 2018, [132 Stat. 2936](https://www.govinfo.gov/link/statute/132/2936).)*

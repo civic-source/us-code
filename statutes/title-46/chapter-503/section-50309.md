@@ -3,9 +3,10 @@ title: "Section 50309 - Securing logistics information data of the United States
 usc_title: 46
 usc_section: "50309"
 chapter: 503
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 50309"
-generated_at: "2026-03-30T02:56:15.568Z"
+generated_at: "2026-11-23T20:27:27.273Z"
+status: "active"
 ---
 
 # § 50309. Securing logistics information data of the United States
@@ -37,3 +38,61 @@ generated_at: "2026-03-30T02:56:15.568Z"
     - **(B)** any marine terminal operator located on property owned by a port authority as described in subparagraph (A) or at a seaport described in subparagraph (D);
     - **(C)** any agency or instrumentality of the United States Government or that of a State; or
     - **(D)** a commercial strategic seaport within the National Port Readiness Network.
+
+In General.—
+
+Prohibition
+
+Eligibility
+
+Guidance
+
+Consultation
+
+Waiver
+
+Definitions
+
+Covered logistics platform
+
+Covered entity
+
+Countering the Spread of Covered Logistics Platforms.—
+
+Contracting prohibition.—
+
+In general
+
+Applicability
+
+Waiver
+
+Report
+
+Policy With Respect to Ports Accepting Federal Grant Money.—
+
+Applicability
+
+Reporting
+
+Negotiations With Allies and Partners.—
+
+Negotiations required
+
+Elements
+
+Allies and partners described
+
+Report
+
+Definitions
+
+Appropriate congressional committees
+
+Covered logistics platform
+
+Foreign adversary
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title VIII, § 825(b)(1)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 332](https://www.govinfo.gov/link/statute/137/332).)*

@@ -3,9 +3,10 @@ title: "Section 40507 - Information sharing"
 usc_title: 34
 usc_section: "40507"
 chapter: 405
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 40507"
-generated_at: "2026-03-30T02:55:33.309Z"
+generated_at: "2026-11-23T20:26:50.644Z"
+status: "active"
 ---
 
 # § 40507. Information sharing
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:33.309Z"
   - **(1)** Not later than 1 year after December 27, 2022 , the Attorney General, in consultation with the Director of the FBI, shall promulgate rules pursuant to notice and comment that specify the information the Attorney General may allow NamUs to access from the NCIC Missing Person and Unidentified Person files or be transmitted from the NCIC database to the NamUs databases for purposes of this Act. Such rules shall—
     - **(A)** provide for the protection of confidential, private, and law enforcement sensitive information contained in the NCIC Missing Person and Unidentified Person files; and
     - **(B)** specify the circumstances in which access to portions of information in the Missing Person and Unidentified Person files may be withheld from the NamUs databases.
+
+## Source Credit
+
+*([Pub. L. 117–327, § 3](https://www.govinfo.gov/link/plaw/117/public/327), Dec. 27, 2022, [136 Stat. 4456](https://www.govinfo.gov/link/statute/136/4456).)*

@@ -3,9 +3,10 @@ title: "Section 1641 - Conveyances to Village Corporations"
 usc_title: 43
 usc_section: "1641"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1641"
-generated_at: "2026-03-30T02:55:57.486Z"
+generated_at: "2026-11-23T20:27:06.349Z"
+status: "active"
 ---
 
 # § 1641. Conveyances to Village Corporations
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:57.486Z"
 - **(e)** All conveyances made by operation of this section shall be subject to the terms and conditions of the Alaska Native Claims Settlement Act [ 43 U.S.C. 1601 et seq.] as if such conveyances or patents had been made or issued pursuant to that Act.
 - **(f)** For a period of one year from December 2, 1980 , the Secretary may identify and issue a decision to reserve in the patent those easements, pursuant to section 17(b)(3) of the Alaska Native Claims Settlement Act [ 43 U.S.C. 1616(b)(3) ], which are described in section 17(b)(1) of such Act [ 43 U.S.C. 1616(b)(1) ] on lands conveyed by this section, but the Secretary shall not reserve a greater number of easements or more land for a particular easement or easements than is reasonably necessary and he shall be guided by the principles of section 1633 of this title . Upon the finality of the decision so issued, such easements shall be reserved in the conveyance document or documents issued by the Secretary as required by this section.
 - **(g)** For purposes of this section, the term “Native Corporation” means Village Corporations and Regional Corporations.
+
+## Source Credit
+
+*([Pub. L. 96–487, title XIV, § 1437](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2546](https://www.govinfo.gov/link/statute/94/2546).)*

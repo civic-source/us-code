@@ -3,9 +3,10 @@ title: "Section 1135c - Awards to graduate students"
 usc_title: 20
 usc_section: "1135c"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1135c"
-generated_at: "2026-03-30T02:54:48.147Z"
+generated_at: "2026-11-23T20:26:14.565Z"
+status: "active"
 ---
 
 # § 1135c. Awards to graduate students
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:48.147Z"
 - **(d)** Notwithstanding the provisions of subsection (a), no student shall receive an award—
   - **(1)** except during periods in which such student is maintaining satisfactory progress in, and devoting essentially full time to, study or research in the field in which such fellowship was awarded; or
   - **(2)** if the student is engaging in gainful employment other than part-time employment involved in teaching, research, or similar activities determined by the institution to be in support of the student’s progress towards a degree.
+
+## Source Credit
+
+*([Pub. L. 89–329, title VII, § 714](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title VII, § 701](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1792](https://www.govinfo.gov/link/statute/112/1792); amended [Pub. L. 110–315, title VII, § 703(b)](https://www.govinfo.gov/link/plaw/110/public/315), (e)(4), Aug. 14, 2008, [122 Stat. 3346](https://www.govinfo.gov/link/statute/122/3346), 3347.)*

@@ -3,9 +3,10 @@ title: "Section 210b - Professional categories"
 usc_title: 42
 usc_section: "210b"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 210b"
-generated_at: "2026-03-30T02:56:10.684Z"
+generated_at: "2026-11-23T20:27:19.938Z"
+status: "active"
 ---
 
 # § 210b. Professional categories
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:10.684Z"
 - **(d)** The excess of the number so fixed for any grade in any category over the number of officers of the Regular Corps on active duty in such grade in such category (including in the case of the director grade, officers holding such grade in accordance with section 207(c) of this title ) shall for the purpose of promotions constitute vacancies in such grade in such category. For purposes of this subsection, an officer who has been temporarily promoted or who is temporarily holding the grade of director in accordance with section 207(c) of this title shall be deemed to hold the grade to which so promoted or which he is temporarily holding; but while he holds such promotion or grade, and while any officer is temporarily assigned to a position pursuant to section 206(c) of this title , the number fixed under subsection (c) of this section for the grade of his permanent rank shall be reduced by one.
 - **(e)** The absence of a vacancy in a grade in a category shall not prevent an appointment to such grade pursuant to section 209 of this title , a permanent length of service promotion, or the recall of a retired officer to active duty; but the making of such an appointment, promotion, or recall shall be deemed to fill a vacancy if one exists.
 - **(f)** Whenever a vacancy exists in any grade in a category the Surgeon General may increase by one the number fixed by him under subsection (c) for the next lower grade in the same category, without regard to the numbers fixed in regulations under section 207(d) of this title ; and in that event the vacancy in the higher grade shall not be filled except by a permanent promotion, and upon the making of such promotion the number for the next lower grade shall be reduced by one.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title II, § 209, as added Feb. 28, 1948, ch. 83, § 5(i), [62 Stat. 41](https://www.govinfo.gov/link/statute/62/41); amended 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631](https://www.govinfo.gov/link/statute/67/631); [Pub. L. 96–76, title III, § 306](https://www.govinfo.gov/link/plaw/96/public/76), Sept. 29, 1979, [93 Stat. 585](https://www.govinfo.gov/link/statute/93/585).)*

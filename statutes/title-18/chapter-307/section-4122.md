@@ -3,9 +3,10 @@ title: "Section 4122 - Administration of Federal Prison Industries"
 usc_title: 18
 usc_section: "4122"
 chapter: 307
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 4122"
-generated_at: "2026-03-30T02:54:16.528Z"
+generated_at: "2026-11-23T20:26:08.786Z"
+status: "active"
 ---
 
 # § 4122. Administration of Federal Prison Industries
@@ -38,3 +39,11 @@ generated_at: "2026-03-30T02:54:16.528Z"
   - **(1)** The provisions of this chapter shall apply to the industrial employment and training of prisoners confined in any penal or correctional institution under the direction of the Commissioner of the District of Columbia to the extent and under terms and conditions agreed upon by the Commissioner, the Attorney General, and the Board of Directors of Federal Prison Industries.
   - **(2)** The Commissioner of the District of Columbia may, without exchange of funds, transfer to the Federal Prison Industries any property or equipment suitable for use in performing the functions and duties covered by an agreement entered into under subsection (e)(1) of this section.
   - **(3)** Nothing in this chapter shall be construed to affect the provisions of the Act approved October 3, 1964 (D.C. Code, sections 24–451 et seq.), entitled “An Act to establish in the Treasury a correctional industries fund for the government of the District of Columbia, and for other purposes.”
+
+Act
+
+Act
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 851](https://www.govinfo.gov/link/statute/62/851); May 24, 1949, ch. 139, § 63, [63 Stat. 98](https://www.govinfo.gov/link/statute/63/98); Oct. 31, 1951, ch. 655, § 31, [65 Stat. 722](https://www.govinfo.gov/link/statute/65/722); [Pub. L. 90–226, title VIII, § 802](https://www.govinfo.gov/link/plaw/90/public/226), Dec. 27, 1967, [81 Stat. 741](https://www.govinfo.gov/link/statute/81/741); [Pub. L. 100–690, title VII, § 7096](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4413](https://www.govinfo.gov/link/statute/102/4413).)*

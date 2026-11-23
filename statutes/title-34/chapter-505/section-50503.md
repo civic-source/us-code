@@ -3,9 +3,10 @@ title: "Section 50503 - Blue Alert Coordinator; guidelines"
 usc_title: 34
 usc_section: "50503"
 chapter: 505
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 50503"
-generated_at: "2026-03-30T02:55:33.315Z"
+generated_at: "2026-11-23T20:26:50.666Z"
+status: "active"
 ---
 
 # § 50503. Blue Alert Coordinator; guidelines
@@ -72,3 +73,11 @@ generated_at: "2026-03-30T02:55:33.315Z"
   - **(2)** lobby any officer of a State regarding the funding or implementation of a Blue Alert plan; or
   - **(3)** host a conference focused solely on the Blue Alert program that requires the expenditure of Federal funds.
 - **(f)** Not later than 1 year after May 19, 2015 , and annually thereafter, the Coordinator shall submit to Congress a report on the activities of the Coordinator and the effectiveness and status of the Blue Alert plans that are in effect or being developed.
+
+(aa) the death or serious injury of the law enforcement officer; or
+
+(bb) the attack on the law enforcement officer and that there is an indication of the death or serious injury of the officer; or
+
+## Source Credit
+
+*([Pub. L. 114–12, § 4](https://www.govinfo.gov/link/plaw/114/public/12), May 19, 2015, [129 Stat. 193](https://www.govinfo.gov/link/statute/129/193).)*

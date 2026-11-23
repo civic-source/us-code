@@ -3,9 +3,10 @@ title: "Section 1781c - Office of Special Needs"
 usc_title: 10
 usc_section: "1781c"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1781c"
-generated_at: "2026-03-30T02:53:38.137Z"
+generated_at: "2026-11-23T20:25:51.422Z"
+status: "active"
 ---
 
 # § 1781c. Office of Special Needs
@@ -64,3 +65,83 @@ generated_at: "2026-03-30T02:53:38.137Z"
       - **(iv)** an assessment of the average wait time for an eligible dependent enrolled in the program to access alternative health coverage for a qualifying condition (as such term is defined in such section), including a discussion of any adverse health outcomes associated with such wait.
     - **(D)** Such recommendations for legislative action as the Secretary considers appropriate to provide for the continuous improvement of support and services for military families with special needs.
 - **(h)** For purposes of this section, a military family with special needs is any military family with one or more members who has a medical or educational special need (as defined by the Secretary in regulations for purposes of this section), including a condition covered by the Extended Health Care Option Program under section 1079f of this title .
+
+Establishment
+
+Purpose
+
+Responsibilities
+
+Policy
+
+Programs
+
+Resources
+
+Reports
+
+Military Family With Special Needs
+
+In General
+
+Elements
+
+Locations
+
+Limitation
+
+Relocation
+
+Family Member Medical Summary
+
+Covered Member Defined
+
+Standardization
+
+Case Management
+
+Report
+
+Definitions
+
+Information on Special Education Disputes.—
+
+In general
+
+Information
+
+Source of information
+
+Annual reports
+
+GAO Study and Report.—
+
+In general
+
+Recommendations
+
+Briefing and report
+
+Definitions
+
+Establishment authorized
+
+Purposes
+
+Department of defense funding
+
+Annual report
+
+Military family with special needs defined
+
+Establishment
+
+Members
+
+Duties
+
+Meetings
+
+## Source Credit
+
+*(Added [Pub. L. 111–84, div. A, title V, § 563(a)(1)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2304](https://www.govinfo.gov/link/statute/123/2304); amended [Pub. L. 111–383, div. A, title V, § 582(a)](https://www.govinfo.gov/link/plaw/111/public/383), (b), title X, § 1075(b)(24), Jan. 7, 2011, [124 Stat. 4226](https://www.govinfo.gov/link/statute/124/4226), 4227, 4370; [Pub. L. 114–328, div. A, title IX, § 933(b)(1)](https://www.govinfo.gov/link/plaw/114/public/328) –(5)(A), Dec. 23, 2016, [130 Stat. 2364](https://www.govinfo.gov/link/statute/130/2364), 2365; [Pub. L. 116–283, div. A, title V, § 582(a)](https://www.govinfo.gov/link/plaw/116/public/283), title VII, § 704(c), Jan. 1, 2021, [134 Stat. 3651](https://www.govinfo.gov/link/statute/134/3651), 3688.)*

@@ -3,9 +3,10 @@ title: "Section 1440 - State housing finance and development agencies"
 usc_title: 42
 usc_section: "1440"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1440"
-generated_at: "2026-03-30T02:56:11.091Z"
+generated_at: "2026-11-23T20:27:21.769Z"
+status: "active"
 ---
 
 # § 1440. State housing finance and development agencies
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:56:11.091Z"
     - **(A)** have the power, notwithstanding any other provision of law, in connection with any guarantee under this section, whether before or after default, to provide by contract for the extinguishment upon default of any redemption, equitable, legal, or other right, title, or interest of a State housing finance or State development agency in any mortgage, deed, trust, or other instrument held by or on behalf of the Secretary for the protection of the security interests of the United States; and
     - **(B)** have the power to foreclose on any property or commence any action to protect or enforce any right conferred upon him by law, contract, or other agreement, and bid for and purchase at any foreclosure or other sale any property in connection with which he has provided a guarantee pursuant to this section. In the event of any such acquisition, the Secretary may, notwithstanding any other provision of law relating to the acquisition, handling, or disposal of real property by the United States, complete, administer, remodel and convert, dispose of, lease, and otherwise deal with, such property. Notwithstanding any other provision of law, the Secretary shall also have power to pursue to final collection by way of compromise or otherwise all claims acquired by him in connection with any security, subrogation, or other rights obtained by him in administering this section.
   - **(2)** With respect to any obligation issued by a State housing finance or State development agency for which the issuer has elected to receive the benefits of the assistance provided under this section, the interest paid on such obligation and received by the purchaser thereof (or his successor in interest) shall be included in gross income for the purposes of chapter 1 of title 26.
+
+## Source Credit
+
+*([Pub. L. 93–383, title VIII, § 802(a)](https://www.govinfo.gov/link/plaw/93/public/383) –(h), Aug. 22, 1974, [88 Stat. 722–724](https://www.govinfo.gov/link/statute/88/722); [Pub. L. 98–479, title II, § 203](https://www.govinfo.gov/link/plaw/98/public/479) (l)(4), Oct. 17, 1984, [98 Stat. 2231](https://www.govinfo.gov/link/statute/98/2231).)*

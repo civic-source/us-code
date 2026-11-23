@@ -3,9 +3,10 @@ title: "Section 1616l - Community health aide program"
 usc_title: 25
 usc_section: "1616l"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1616l"
-generated_at: "2026-03-30T02:54:52.819Z"
+generated_at: "2026-11-23T20:26:25.479Z"
+status: "active"
 ---
 
 # § 1616l. Community health aide program
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:54:52.819Z"
     - **(B)** On an election by an Indian tribe or tribal organization under subparagraph (A), the Secretary, acting through the Service, shall facilitate implementation of the services elected.
   - **(4)** The Secretary shall not fill any vacancy for a certified dentist in a program operated by the Service with a dental health aide therapist.
 - **(e)** Nothing in this section shall restrict the ability of the Service, an Indian tribe, or a tribal organization to participate in any program or to provide any service authorized by any other Federal law.
+
+## Source Credit
+
+*([Pub. L. 94–437, title I, § 119](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 102–573, title I, § 111](https://www.govinfo.gov/link/plaw/102/public/573), Oct. 29, 1992, [106 Stat. 4539](https://www.govinfo.gov/link/statute/106/4539); amended [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), (b)(1), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

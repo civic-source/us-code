@@ -3,9 +3,10 @@ title: "Section 8633 - Auxiliary vessels: extended lease authority"
 usc_title: 10
 usc_section: "8633"
 chapter: 861
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 8633"
-generated_at: "2026-03-30T02:53:38.247Z"
+generated_at: "2026-11-23T20:25:52.219Z"
+status: "active"
 ---
 
 # § 8633. Auxiliary vessels: extended lease authority
@@ -36,3 +37,31 @@ generated_at: "2026-03-30T02:53:38.247Z"
   - **(1)** amounts originally made available for performance of the contract;
   - **(2)** amounts currently available for operation and maintenance of the type of vessels or services concerned and not otherwise obligated; or
   - **(3)** funds appropriated for those costs.
+
+Authorized Contracts
+
+Contracts Required To Be Authorized by Law
+
+Term of Contract
+
+Option To Buy
+
+Domestic Construction
+
+Vessel Operation
+
+Contingent Waiver of Other Provisions of Law
+
+Source of Funds for Termination Liability
+
+Authority
+
+Conditions on Obligation of Funds
+
+Inapplicability of Certain Laws
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 106–65, div. A, title X, § 1014(a)(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 741](https://www.govinfo.gov/link/statute/113/741), § 7233; renumbered § 8633, [Pub. L. 115–232, div. A, title VIII, § 807(d)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1836](https://www.govinfo.gov/link/statute/132/1836); [Pub. L. 116–283, div. A, title XVIII, § 1883(b)(2)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4294](https://www.govinfo.gov/link/statute/134/4294).)*

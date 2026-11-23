@@ -3,9 +3,10 @@ title: "Section 2279c - Student internship programs"
 usc_title: 7
 usc_section: "2279c"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2279c"
-generated_at: "2026-03-30T02:53:42.384Z"
+generated_at: "2026-11-23T20:25:41.523Z"
+status: "active"
 ---
 
 # § 2279c. Student internship programs
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:53:42.384Z"
     - **(A)** may enter into interagency agreements with the lead agency to provide work assignments for students participating in an internship program; and
     - **(B)** shall reimburse the lead agency for the direct and indirect costs of each student assigned to the agency under an internship program.
   - **(8)** A student who participates in an internship program shall not be considered a Federal employee, except for purposes of chapter 81 of title 5, and chapter 171 of title 28.
+
+## Source Credit
+
+*([Pub. L. 104–127, title IX, § 922](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1193](https://www.govinfo.gov/link/statute/110/1193); [Pub. L. 105–244, title I, § 102(a)(1)(A)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1617](https://www.govinfo.gov/link/statute/112/1617).)*

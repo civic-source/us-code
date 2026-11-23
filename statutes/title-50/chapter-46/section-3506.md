@@ -3,9 +3,10 @@ title: "Section 3506 - General authorities"
 usc_title: 50
 usc_section: "3506"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3506"
-generated_at: "2026-03-30T02:56:26.253Z"
+generated_at: "2026-11-23T20:27:31.007Z"
+status: "active"
 ---
 
 # § 3506. General authorities
@@ -43,3 +44,13 @@ generated_at: "2026-03-30T02:56:26.253Z"
 - **(c)**
   - **(1)** Sums appropriated or otherwise made available to the Agency for the acquisition of land that are transferred to another department or agency for that purpose shall remain available for 3 years.
   - **(2)** The Director shall submit to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives a report on the transfer of sums described in paragraph (1) each time that authority is exercised.
+
+Sense of Congress
+
+Reporting Requirement
+
+Historical Advisory Panel Defined
+
+## Source Credit
+
+*(June 20, 1949, ch. 227, § 5, formerly § 6, [63 Stat. 211](https://www.govinfo.gov/link/statute/63/211); June 26, 1951, ch. 151, [65 Stat. 89](https://www.govinfo.gov/link/statute/65/89); renumbered § 5, [Pub. L. 85–507, § 21(b)(2)](https://www.govinfo.gov/link/plaw/85/public/507), July 7, 1958, [72 Stat. 337](https://www.govinfo.gov/link/statute/72/337); amended [Pub. L. 88–448, title IV, § 402(a)(28)](https://www.govinfo.gov/link/plaw/88/public/448), Aug. 19, 1964, [78 Stat. 494](https://www.govinfo.gov/link/statute/78/494); [Pub. L. 97–89, title V, § 502](https://www.govinfo.gov/link/plaw/97/public/89), Dec. 4, 1981, [95 Stat. 1153](https://www.govinfo.gov/link/statute/95/1153); [Pub. L. 98–215, title IV, § 401](https://www.govinfo.gov/link/plaw/98/public/215), Dec. 9, 1983, [97 Stat. 1477](https://www.govinfo.gov/link/statute/97/1477); [Pub. L. 103–178, title V, § 501(1)](https://www.govinfo.gov/link/plaw/103/public/178), Dec. 3, 1993, [107 Stat. 2038](https://www.govinfo.gov/link/statute/107/2038); [Pub. L. 105–107, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/105/public/107), Nov. 20, 1997, [111 Stat. 2257](https://www.govinfo.gov/link/statute/111/2257); [Pub. L. 105–272, title IV](https://www.govinfo.gov/link/plaw/105/public/272), §§ 401, 403(a)(1), Oct. 20, 1998, [112 Stat. 2403](https://www.govinfo.gov/link/statute/112/2403), 2404; [Pub. L. 106–567, title IV, § 405(a)](https://www.govinfo.gov/link/plaw/106/public/567), (b), Dec. 27, 2000, [114 Stat. 2849](https://www.govinfo.gov/link/statute/114/2849); [Pub. L. 107–306, title VIII, § 841(c)](https://www.govinfo.gov/link/plaw/107/public/306), Nov. 27, 2002, [116 Stat. 2431](https://www.govinfo.gov/link/statute/116/2431); [Pub. L. 108–177, title III, § 377(b)(1)](https://www.govinfo.gov/link/plaw/108/public/177), Dec. 13, 2003, [117 Stat. 2630](https://www.govinfo.gov/link/statute/117/2630); [Pub. L. 111–259, title IV, § 421](https://www.govinfo.gov/link/plaw/111/public/259), title VIII, § 802(1), Oct. 7, 2010, [124 Stat. 2727](https://www.govinfo.gov/link/statute/124/2727), 2746; [Pub. L. 116–92, div. E, title LXIV](https://www.govinfo.gov/link/plaw/116/public/92), §§ 6401, 6411, Dec. 20, 2019, [133 Stat. 2195](https://www.govinfo.gov/link/statute/133/2195), 2196; [Pub. L. 117–263, div. F, title LXIII, § 6303(b)](https://www.govinfo.gov/link/plaw/117/public/263), title LXIV, § 6414(a), (c), Dec. 23, 2022, [136 Stat. 3503](https://www.govinfo.gov/link/statute/136/3503), 3527, 3528.)*

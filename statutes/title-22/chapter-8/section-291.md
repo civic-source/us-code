@@ -3,12 +3,17 @@ title: "Section 291 - Lease of buildings, etc., for offices, living quarters, he
 usc_title: 22
 usc_section: "291"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 291"
-generated_at: "2026-03-30T02:55:05.326Z"
+generated_at: "2026-11-23T20:26:32.052Z"
+status: "active"
 ---
 
 # § 291. Lease of buildings, etc., for offices, living quarters, heat, light, and equipment
 
 The Secretary of State may lease or rent, for periods not exceeding ten years, such buildings and grounds for the use of the Foreign Service as may be necessary; and he may, in accordance with existing practice without cost to them, and within the limit of any appropriation made by Congress, furnish the officers and employees in the Foreign Service with living quarters, heat, light, and household equipment in Government-owned or rented buildings, at places where, in his judgment, it would be in the public interest to do so, notwithstanding the provisions of section 5536 of title 5 ; and appropriations for “Contingent expenses, foreign missions,” and “Contingent expenses, consulates,” are made available for such purposes.
 
+
+## Source Credit
+
+*(Apr. 18, 1930, ch. 184, title I, [46 Stat. 177](https://www.govinfo.gov/link/statute/46/177).)*

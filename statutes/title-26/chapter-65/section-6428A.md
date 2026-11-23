@@ -3,9 +3,10 @@ title: "Section 6428A - Additional 2020 recovery rebates for individuals"
 usc_title: 26
 usc_section: "6428A"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6428A"
-generated_at: "2026-03-30T02:55:27.855Z"
+generated_at: "2026-11-23T20:26:46.664Z"
+status: "active"
 ---
 
 # § 6428A. Additional 2020 recovery rebates for individuals
@@ -99,3 +100,65 @@ generated_at: "2026-03-30T02:55:27.855Z"
   - **(6)** In the case of any payment under subsection (f) which is based on information provided under paragraph (5) of such subsection, a valid identification number shall be treated for purposes of this subsection as included on the taxpayer’s return of tax if such valid identification number is provided pursuant to subsection (f)(5).
   - **(7)** Any omission of a correct valid identification number required under this subsection shall be treated as a mathematical or clerical error for purposes of applying section 6213(g)(2) to such omission.
 - **(h)** The Secretary shall prescribe such regulations or other guidance as may be necessary to carry out the purposes of this section, including any such measures as are deemed appropriate to avoid allowing multiple credits or rebates to a taxpayer.
+
+(aa) such date as is determined appropriate by the Secretary, or
+
+(bb) September 30, 2021 .
+
+Payments to possessions.—
+
+Mirror code possession
+
+Other possessions
+
+Coordination with credit allowed against united states income taxes
+
+Definitions and special rules.—
+
+Possession of the united states
+
+Mirror code tax system
+
+Treatment of payments
+
+Exception from reduction or offset
+
+Assignment of benefits.—
+
+In general
+
+Encoding of payments
+
+Garnishment.—
+
+Encoded payments
+
+Other payments
+
+Liability
+
+No reclamation rights
+
+Definitions
+
+Account holder
+
+Account review
+
+Applicable payment
+
+Garnishment
+
+Garnishment order
+
+Lookback period
+
+Agency information sharing and assistance.—
+
+In general
+
+Exchange of information with possessions
+
+## Source Credit
+
+*(Added [Pub. L. 116–260, div. N, title II, § 272(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 1965](https://www.govinfo.gov/link/statute/134/1965).)*

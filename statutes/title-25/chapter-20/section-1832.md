@@ -3,9 +3,10 @@ title: "Section 1832 - Establishment of program; program agreements"
 usc_title: 25
 usc_section: "1832"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1832"
-generated_at: "2026-03-30T02:54:52.830Z"
+generated_at: "2026-11-23T20:26:25.547Z"
+status: "active"
 ---
 
 # § 1832. Establishment of program; program agreements
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:52.830Z"
   - **(4)** provides that, if at any time such college or university withdraws any capital contribution made by that college or university, an amount of Federal capital contribution equal to twice the amount of (or value of) such withdrawal shall be withdrawn and returned to the Secretary for reallocation to other colleges or universities;
   - **(5)** provides that no part of the net earnings of such trust fund will inure to the benefit of any private person; and
   - **(6)** includes such other provisions as may be necessary to protect the financial interest of the United States and promote the purpose of this subchapter and as are agreed to by the Secretary and the college or university, including a description of recordkeeping procedures for the expenditure of accumulated interest which will allow the Secretary to audit and monitor programs and activities conducted with such interest.
+
+## Source Credit
+
+*([Pub. L. 95–471, title III, § 302](https://www.govinfo.gov/link/plaw/95/public/471), as added [Pub. L. 98–192, § 13](https://www.govinfo.gov/link/plaw/98/public/192), Dec. 1, 1983, [97 Stat. 1341](https://www.govinfo.gov/link/statute/97/1341); amended [Pub. L. 101–477, § 1(d)(1)(A)](https://www.govinfo.gov/link/plaw/101/public/477), (B), Oct. 30, 1990, [104 Stat. 1152](https://www.govinfo.gov/link/statute/104/1152), 1153; [Pub. L. 103–382, title III, § 383](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 4018](https://www.govinfo.gov/link/statute/108/4018); [Pub. L. 105–244, title IX, § 901(b)(5)](https://www.govinfo.gov/link/plaw/105/public/244) –(7), (12), (14), (15), Oct. 7, 1998, [112 Stat. 1828](https://www.govinfo.gov/link/statute/112/1828).)*

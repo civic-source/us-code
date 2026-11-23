@@ -3,9 +3,10 @@ title: "Section 73 - Reauthorization; reporting requirements"
 usc_title: 21
 usc_section: "73"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 73"
-generated_at: "2026-03-30T02:54:54.274Z"
+generated_at: "2026-11-23T20:26:27.749Z"
+status: "active"
 ---
 
 # § 379j–73. Reauthorization; reporting requirements
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:54:54.274Z"
   - **(4)**
     - **(A)** The Secretary shall make publicly available, on the public website of the Food and Drug Administration, robust written minutes of all negotiation meetings conducted under this subsection between the Food and Drug Administration and the regulated industry, not later than 30 days after each such negotiation meeting.
     - **(B)** The robust written minutes described under subparagraph (A) shall contain, in detail, any substantive proposal made by any party to the negotiations as well as significant controversies or differences of opinion during the negotiations and their resolution.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 744N, as added [Pub. L. 116–136, div. A, title III, § 3862](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 468](https://www.govinfo.gov/link/statute/134/468); amended [Pub. L. 119–37, div. F, title V, § 6505(a)](https://www.govinfo.gov/link/plaw/119/public/37), Nov. 12, 2025, [139 Stat. 642](https://www.govinfo.gov/link/statute/139/642).)*

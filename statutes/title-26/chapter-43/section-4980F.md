@@ -3,9 +3,10 @@ title: "Section 4980F - Failure of applicable plans reducing benefit accruals to
 usc_title: 26
 usc_section: "4980F"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 4980F"
-generated_at: "2026-03-30T02:55:27.814Z"
+generated_at: "2026-11-23T20:26:46.380Z"
+status: "active"
 ---
 
 # § 4980F. Failure of applicable plans reducing benefit accruals to satisfy notice requirements
@@ -43,3 +44,17 @@ generated_at: "2026-03-30T02:55:27.814Z"
     - **(B)** an individual account plan which is subject to the funding standards of section 412.
   - **(3)** A plan amendment which eliminates or reduces any early retirement benefit or retirement-type subsidy (within the meaning of section 411(d)(6)(B)(i)) shall be treated as having the effect of reducing the rate of future benefit accrual.
 - **(g)** The Secretary may by regulations allow any notice under subsection (e) to be provided by using new technologies.
+
+In general
+
+Transition
+
+Special notice rule.—
+
+In general
+
+Reasonable notice
+
+## Source Credit
+
+*(Added [Pub. L. 107–16, title VI, § 659(a)(1)](https://www.govinfo.gov/link/plaw/107/public/16), June 7, 2001, [115 Stat. 137](https://www.govinfo.gov/link/statute/115/137); amended [Pub. L. 107–147, title IV, § 411(u)(1)](https://www.govinfo.gov/link/plaw/107/public/147), Mar. 9, 2002, [116 Stat. 51](https://www.govinfo.gov/link/statute/116/51); [Pub. L. 109–280, title V, § 502(c)(2)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 941](https://www.govinfo.gov/link/statute/120/941).)*

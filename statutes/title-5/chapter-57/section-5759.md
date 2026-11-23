@@ -3,9 +3,10 @@ title: "Section 5759 - Retention and relocation bonuses for the Federal Bureau o
 usc_title: 5
 usc_section: "5759"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 5759"
-generated_at: "2026-03-30T02:52:56.027Z"
+generated_at: "2026-11-23T20:25:31.986Z"
+status: "active"
 ---
 
 # § 5759. 1 1 So in original. No section 5758 has been enacted. Retention and relocation bonuses for the Federal Bureau of Investigation
@@ -22,3 +23,15 @@ generated_at: "2026-03-30T02:52:56.027Z"
   - **(2)** the conditions under which the agreement may be terminated before the agreed-upon service period has been completed, and the effect of the termination, including requirements for a bonus recipient’s repayment of a bonus in circumstances determined by the Director of the Federal Bureau of Investigation.
 - **(c)** A bonus paid under this section may not exceed 50 percent of the employee’s annual rate of basic pay. The bonus may be paid in a lump sum or installments linked to completion of periods of service.
 - **(d)** A bonus paid under this section is not part of the basic pay of an employee for any purpose.
+
+Authority
+
+Service Agreement
+
+Limitation on Authority
+
+Impact on Basic Pay
+
+## Source Credit
+
+*(Added [Pub. L. 108–447, div. B, title I, § 113(a)](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 2868](https://www.govinfo.gov/link/statute/118/2868); amended [Pub. L. 111–117, div. B, title II, § 217](https://www.govinfo.gov/link/plaw/111/public/117), Dec. 16, 2009, [123 Stat. 3141](https://www.govinfo.gov/link/statute/123/3141); [Pub. L. 111–259, title IV, § 443](https://www.govinfo.gov/link/plaw/111/public/259), Oct. 7, 2010, [124 Stat. 2733](https://www.govinfo.gov/link/statute/124/2733).)*

@@ -3,9 +3,10 @@ title: "Section 7644 - Community conservation"
 usc_title: 16
 usc_section: "7644"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 7644"
-generated_at: "2026-03-30T02:54:23.077Z"
+generated_at: "2026-11-23T20:26:20.850Z"
+status: "active"
 ---
 
 # § 7644. Community conservation
@@ -20,3 +21,7 @@ The Secretary of State, in collaboration with the United State Agency for Intern
   - **(6)** supporting community anti-poaching efforts, including policing and informant networks;
   - **(7)** working with community and national governments to develop relevant policy and regulatory frameworks to enable and promote community conservation programs, including supporting law enforcement engagement with wildlife protection authorities to promote information-sharing; and
   - **(8)** working with national governments to ensure that communities have timely and effective support from national authorities to mitigate risks that communities may face when engaging in anti-poaching and anti-trafficking activities.
+
+## Source Credit
+
+*([Pub. L. 114–231, title IV, § 404](https://www.govinfo.gov/link/plaw/114/public/231), Oct. 7, 2016, [130 Stat. 955](https://www.govinfo.gov/link/statute/130/955).)*

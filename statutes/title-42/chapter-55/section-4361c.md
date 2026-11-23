@@ -3,9 +3,10 @@ title: "Section 4361c - Staff management"
 usc_title: 42
 usc_section: "4361c"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4361c"
-generated_at: "2026-03-30T02:56:11.202Z"
+generated_at: "2026-11-23T20:27:22.377Z"
+status: "active"
 ---
 
 # § 4361c. Staff management
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.202Z"
   - **(1)** The Administrator is authorized and encouraged to utilize research associates from outside the Federal Government in conducting the research, development, and demonstration programs of the Agency.
   - **(2)** These persons shall be selected and shall serve according to rules and criteria promulgated by the Administrator.
 - **(d)** For all programs in this section, the Administrator shall place special emphasis on providing opportunities for education and training of women and minority groups.
+
+## Source Credit
+
+*([Pub. L. 95–477, § 6](https://www.govinfo.gov/link/plaw/95/public/477), Oct. 18, 1978, [92 Stat. 1510](https://www.govinfo.gov/link/statute/92/1510).)*

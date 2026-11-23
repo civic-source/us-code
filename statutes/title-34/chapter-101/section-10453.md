@@ -3,9 +3,10 @@ title: "Section 10453 - Tribal Deputy"
 usc_title: 34
 usc_section: "10453"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10453"
-generated_at: "2026-03-30T02:55:33.269Z"
+generated_at: "2026-11-23T20:26:50.473Z"
+status: "active"
 ---
 
 # § 10453. Tribal Deputy
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:33.269Z"
     - **(C)** development of tribal educational awareness programs and materials;
     - **(D)** support for customary tribal activities to strengthen the intolerance of an Indian tribe to violence against Indian women; and
     - **(E)** development, implementation, and maintenance of tribal electronic databases for tribal protection order registries.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 2016](https://www.govinfo.gov/link/plaw/90/public/351), formerly § 2008, as added [Pub. L. 109–162, title IX, § 907](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3082](https://www.govinfo.gov/link/statute/119/3082); renumbered § 2016 and amended [Pub. L. 109–271, § 7(a)(1)(B)](https://www.govinfo.gov/link/plaw/109/public/271), (C), (4), Aug. 12, 2006, [120 Stat. 763](https://www.govinfo.gov/link/statute/120/763), 764.)*

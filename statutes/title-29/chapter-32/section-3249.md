@@ -3,9 +3,10 @@ title: "Section 3249 - Secretarial administrative authorities and responsibiliti
 usc_title: 29
 usc_section: "3249"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3249"
-generated_at: "2026-03-30T02:55:18.761Z"
+generated_at: "2026-11-23T20:26:38.133Z"
+status: "active"
 ---
 
 # § 3249. Secretarial administrative authorities and responsibilities
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:55:18.761Z"
       - **(i)** the Secretary determines that the requirements requested to be waived impede the ability of the State or local area, as appropriate, to implement the plan described in subparagraph (B); and
       - **(ii)** the State has executed a memorandum of understanding with the Secretary requiring such State to meet, or ensure that the local area for which the waiver is requested meets, agreed-upon outcomes and to implement other appropriate measures to ensure accountability.
     - **(D)** If the Secretary has approved a waiver of statutory or regulatory requirements for a State or local area pursuant to this subsection, the Secretary shall expedite the determination regarding the provision of that waiver, for another State or local area if such waiver is in accordance with the approved State or local plan, as appropriate.
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 189](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1599](https://www.govinfo.gov/link/statute/128/1599).)*

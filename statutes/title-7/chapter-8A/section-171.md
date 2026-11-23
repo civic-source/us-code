@@ -3,9 +3,10 @@ title: "Section 171 - Program for development of guayule and other rubber-bearin
 usc_title: 7
 usc_section: "171"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 171"
-generated_at: "2026-03-30T02:53:42.275Z"
+generated_at: "2026-11-23T20:25:40.986Z"
+status: "active"
 ---
 
 # § 171. Program for development of guayule and other rubber-bearing plants
@@ -21,3 +22,7 @@ The Secretary of Agriculture (hereinafter called the “Secretary”) is authori
   - **(7)** To improve methods of processing guayule shrubs and rubber and to obtain and hold patents on such new processes;
   - **(8)** To sell guayule or rubber processed from guayule and to use funds so obtained in replanting and maintaining an area not in excess of five hundred thousand acres of guayule inside the Western Hemisphere; and
   - **(9)** To exercise with respect to rubber-bearing plants other than guayule the same powers as are granted in the foregoing provisions of this section with respect to guayule.
+
+## Source Credit
+
+*(Mar. 5, 1942, ch. 140, § 1, [56 Stat. 126](https://www.govinfo.gov/link/statute/56/126); Oct. 20, 1942, ch. 617, §§ 1–4, [56 Stat. 796](https://www.govinfo.gov/link/statute/56/796), 797.)*

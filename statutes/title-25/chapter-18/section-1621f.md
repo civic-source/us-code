@@ -3,9 +3,10 @@ title: "Section 1621f - Crediting of reimbursements"
 usc_title: 25
 usc_section: "1621f"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1621f"
-generated_at: "2026-03-30T02:54:52.821Z"
+generated_at: "2026-11-23T20:26:25.484Z"
+status: "active"
 ---
 
 # § 1621f. Crediting of reimbursements
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:52.821Z"
     - **(C)** Public Law 87–693 [ 42 U.S.C. 2651 et seq.].
     - **(D)** Any other provision of law.
 - **(b)** The Service may not offset or limit any amount obligated to any Service Unit or entity receiving funding from the Service because of the receipt of reimbursements under subsection (a).
+
+## Source Credit
+
+*([Pub. L. 94–437, title II, § 207](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 100–713, title II, § 204](https://www.govinfo.gov/link/plaw/100/public/713), Nov. 23, 1988, [102 Stat. 4812](https://www.govinfo.gov/link/statute/102/4812); amended [Pub. L. 102–573, title VII, § 701(c)(1)](https://www.govinfo.gov/link/plaw/102/public/573), Oct. 29, 1992, [106 Stat. 4572](https://www.govinfo.gov/link/statute/106/4572); [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

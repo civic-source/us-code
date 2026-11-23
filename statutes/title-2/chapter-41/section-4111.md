@@ -3,9 +3,10 @@ title: "Section 4111 - Annual report by Comptroller General of the United States
 usc_title: 2
 usc_section: "4111"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 4111"
-generated_at: "2026-03-30T02:53:04.828Z"
+generated_at: "2026-11-23T20:25:29.025Z"
+status: "active"
 ---
 
 # § 4111. Annual report by Comptroller General of the United States on cybersecurity and surveillance threats to Congress
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:04.828Z"
 - **(b)** Each report submitted under subsection (a) shall include statistics on cyber attacks and other incidents of espionage or surveillance targeted against Senators or the immediate families or staff of the Senators, and Representatives, Delegates, and the Resident Commissioner, or the immediate families or staff of the Representatives, Delegates, and the Resident Commissioner, in which the nonpublic communications and other private information of such targeted individuals were lost, stolen, or otherwise subject to unauthorized access.
 - **(c)** In preparing a report to be submitted under subsection (a), the Comptroller General shall consult with the Director of National Intelligence, the Secretary of Homeland Security, the Sergeant at Arms of the House of Representatives, and the Sergeant at Arms and Doorkeeper of the Senate.
 - **(d)** The report under subsection (a), including the contents of the report in subsection (b), shall be submitted in unclassified form, but may include a classified annex to protect sources and methods and any appropriate redactions of personally identifiable information.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. E, title LVII, § 5710](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2170](https://www.govinfo.gov/link/statute/133/2170).)*

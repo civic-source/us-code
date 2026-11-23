@@ -3,9 +3,10 @@ title: "Section 17191 - Definitions"
 usc_title: 42
 usc_section: "17191"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17191"
-generated_at: "2026-03-30T02:56:11.499Z"
+generated_at: "2026-11-23T20:27:23.734Z"
+status: "active"
 ---
 
 # § 17191. Definitions
@@ -30,3 +31,7 @@ For purposes of this part:
   - **(6)** The term “geothermal” refers to heat energy stored in the Earth’s crust that can be accessed for direct use or electric power generation.
   - **(7)** The term “hydrothermal” refers to naturally occurring subsurface reservoirs of hot water or steam.
   - **(8)** The term “systems approach” means an approach to solving problems or designing systems that attempts to optimize the performance of the overall system, rather than a particular component of the system.
+
+## Source Credit
+
+*([Pub. L. 110–140, title VI, § 612](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1679](https://www.govinfo.gov/link/statute/121/1679); [Pub. L. 116–260, div. Z, title III, § 3002(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2487](https://www.govinfo.gov/link/statute/134/2487).)*

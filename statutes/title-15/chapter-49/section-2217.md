@@ -3,9 +3,10 @@ title: "Section 2217 - Public access to information"
 usc_title: 15
 usc_section: "2217"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2217"
-generated_at: "2026-03-30T02:54:08.169Z"
+generated_at: "2026-11-23T20:26:04.181Z"
+status: "active"
 ---
 
 # § 2217. Public access to information
@@ -16,3 +17,7 @@ Copies of any document, report, statement, or information received or sent by th
   - **(2)** upon request, to any committee of Congress having jurisdiction over the subject matter to which the information relates;
   - **(3)** in any judicial proceeding under a court order formulated to preserve the confidentiality of such information without impairing the proceedings; and
   - **(4)** to the public when he determines such disclosure to be necessary in order to protect health and safety after notice and opportunity for comment in writing or for discussion in closed session within fifteen days by the party to which the information pertains (if the delay resulting from such notice and opportunity for comment would not be detrimental to health and safety).
+
+## Source Credit
+
+*([Pub. L. 93–498, § 20](https://www.govinfo.gov/link/plaw/93/public/498), Oct. 29, 1974, [88 Stat. 1547](https://www.govinfo.gov/link/statute/88/1547); [Pub. L. 106–503, title I, § 110(a)(2)(B)(viii)](https://www.govinfo.gov/link/plaw/106/public/503), Nov. 13, 2000, [114 Stat. 2302](https://www.govinfo.gov/link/statute/114/2302); [Pub. L. 112–239, div. A, title XVIII, § 1802(b)(1)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2100](https://www.govinfo.gov/link/statute/126/2100).)*

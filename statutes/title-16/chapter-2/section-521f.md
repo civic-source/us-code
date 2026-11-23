@@ -3,12 +3,17 @@ title: "Section 521f - Costs of conveyance and value of improvements"
 usc_title: 16
 usc_section: "521f"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 521f"
-generated_at: "2026-03-30T02:54:22.861Z"
+generated_at: "2026-11-23T20:26:20.098Z"
+status: "active"
 ---
 
 # § 521f. Costs of conveyance and value of improvements
 
 Any person to whom lands are conveyed under sections 521c to 521i of this title shall bear all reasonable costs of administration, survey, and appraisal incidental to such conveyance, as determined by the Secretary. In determining the value of any lands or interest in lands to be conveyed under sections 521c to 521i of this title, the Secretary may, in those cases in which the Secretary determines it would be in the public interest, exclude from such determination the value of any improvements to the lands made by any person other than the Government. In the case of road rights-of-way conveyed under sections 521c to 521i of this title, the person to whom the right-of-way is conveyed shall reimburse the United States for the value of any improvements to such right-of-way which may have been made by the United States. The Secretary may, in those cases in which the Secretary determines that it would be in the public interest, waive payment by any person of costs incidental to any conveyance authorized by sections 521c to 521i of this title or reimbursement by any person for the value of improvements to rights-of-way otherwise required by this section.
 
+
+## Source Credit
+
+*([Pub. L. 97–465, § 4](https://www.govinfo.gov/link/plaw/97/public/465), Jan. 12, 1983, [96 Stat. 2536](https://www.govinfo.gov/link/statute/96/2536).)*

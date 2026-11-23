@@ -3,12 +3,17 @@ title: "Section 231q - Crediting service under Social Security Act"
 usc_title: 45
 usc_section: "231q"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 231q"
-generated_at: "2026-03-30T02:55:56.548Z"
+generated_at: "2026-11-23T20:27:05.270Z"
+status: "active"
 ---
 
 # § 231q. Crediting service under Social Security Act
 
   - **(1)** Except as provided in subdivision (2), the term “employment” as defined in section 216 of the Social Security Act [ 42 U.S.C. 416 ] shall not include service performed by an individual as an employee as defined in section 231(b) of this title .
   - **(2)** For the purpose of determining (i) monthly insurance benefits under the Social Security Act [ 42 U.S.C. 301 et seq.] to an employee who will have completed less than ten years of service (or less than five years of service, all of which accrues after December 31, 1995 ) and to others deriving from him or her during his or her life and (ii) monthly insurance benefits and lump-sum death benefits under such Act with respect to the death of an employee who (A) will have completed less than ten years of service (or less than five years of service, all of which accrues after December 31, 1995 ) or (B) will have completed ten or more years of service (or five or more years of service, all of which accrues after December 31, 1995 ) but will not have had a current connection with the railroad industry at the time of his death, and for the purposes of section 203 and section 216(i) of that Act [ 42 U.S.C. 403 , 416(i)], section 210(a)(9) of the Social Security Act [ 42 U.S.C. 410(a)(9) ] and subdivision (1) of this section shall not operate to exclude from “employment” under the Social Security Act service which would otherwise be included in such “employment” but for such sections. For such purpose, compensation paid in a calendar year shall, in the absence of evidence to the contrary, be presumed to have been paid in equal proportions with respect to all months in the year in which the employee will have been in service as an employee. In the application of the Social Security Act pursuant to this subdivision to service as an employee, all service as defined in section 231(d) of this title shall be deemed to have been performed within the United States.
+
+## Source Credit
+
+*(Aug. 29, 1935, ch. 812, § 18, as restated June 24, 1937, ch. 382, pt. I, [50 Stat. 307](https://www.govinfo.gov/link/statute/50/307), as restated [Pub. L. 93–445, title I, § 101](https://www.govinfo.gov/link/plaw/93/public/445), Oct. 16, 1974, [88 Stat. 1349](https://www.govinfo.gov/link/statute/88/1349); amended [Pub. L. 97–35, title XI, § 1125](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 639](https://www.govinfo.gov/link/statute/95/639); [Pub. L. 107–90, title I, § 103(g)](https://www.govinfo.gov/link/plaw/107/public/90), Dec. 21, 2001, [115 Stat. 881](https://www.govinfo.gov/link/statute/115/881).)*

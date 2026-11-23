@@ -3,9 +3,10 @@ title: "Section 7402 - Qualifications of appointees"
 usc_title: 38
 usc_section: "7402"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7402"
-generated_at: "2026-03-30T02:55:53.530Z"
+generated_at: "2026-11-23T20:27:02.013Z"
+status: "active"
 ---
 
 # § 7402. Qualifications of appointees
@@ -65,3 +66,45 @@ generated_at: "2026-03-30T02:55:53.530Z"
 - **(g)** The Secretary may enter into contracts with not-for-profit entities to provide—
   - **(1)** peer specialist training to veterans; and
   - **(2)** certification for veterans under subsection (b)(13)(B)(i).
+
+Physician
+
+Dentist
+
+Nurse
+
+Director of a Hospital, Domiciliary, Center, or Outpatient Clinic
+
+Podiatrist
+
+Optometrist
+
+Pharmacist
+
+Psychologist
+
+Social Worker
+
+Marriage and Family Therapist
+
+Licensed Professional Mental Health Counselor
+
+Chiropractor
+
+Other Health-Care Positions
+
+Technical Qualifications.—
+
+In general
+
+Elements for qualifications
+
+Authority to Set and Maintain Duties
+
+Appointment
+
+Report
+
+## Source Credit
+
+*(Added [Pub. L. 102–40, title IV, § 401(b)(2)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 222](https://www.govinfo.gov/link/statute/105/222); amended [Pub. L. 102–86, title III, § 305(a)](https://www.govinfo.gov/link/plaw/102/public/86), Aug. 14, 1991, [105 Stat. 417](https://www.govinfo.gov/link/statute/105/417); [Pub. L. 102–405, title III, § 302(c)(1)](https://www.govinfo.gov/link/plaw/102/public/405), Oct. 9, 1992, [106 Stat. 1984](https://www.govinfo.gov/link/statute/106/1984); [Pub. L. 106–117, title II, § 209](https://www.govinfo.gov/link/plaw/106/public/117), Nov. 30, 1999, [113 Stat. 1569](https://www.govinfo.gov/link/statute/113/1569); [Pub. L. 106–419, title II, § 205](https://www.govinfo.gov/link/plaw/106/public/419), Nov. 1, 2000, [114 Stat. 1842](https://www.govinfo.gov/link/statute/114/1842); [Pub. L. 108–170, title III, § 302(b)](https://www.govinfo.gov/link/plaw/108/public/170), Dec. 6, 2003, [117 Stat. 2058](https://www.govinfo.gov/link/statute/117/2058); [Pub. L. 109–461, title II, § 201(b)](https://www.govinfo.gov/link/plaw/109/public/461), Dec. 22, 2006, [120 Stat. 3409](https://www.govinfo.gov/link/statute/120/3409); [Pub. L. 110–387, title IV, § 405](https://www.govinfo.gov/link/plaw/110/public/387), Oct. 10, 2008, [122 Stat. 4129](https://www.govinfo.gov/link/statute/122/4129); [Pub. L. 114–256, § 4(a)(2)](https://www.govinfo.gov/link/plaw/114/public/256), Dec. 14, 2016, [130 Stat. 1347](https://www.govinfo.gov/link/statute/130/1347); [Pub. L. 114–315, title VI, § 613](https://www.govinfo.gov/link/plaw/114/public/315), Dec. 16, 2016, [130 Stat. 1576](https://www.govinfo.gov/link/statute/130/1576).)*

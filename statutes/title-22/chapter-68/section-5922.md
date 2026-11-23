@@ -3,9 +3,10 @@ title: "Section 5922 - Quarterly reports on programs"
 usc_title: 22
 usc_section: "5922"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 5922"
-generated_at: "2026-03-30T02:55:05.421Z"
+generated_at: "2026-11-23T20:26:32.582Z"
+status: "active"
 ---
 
 # § 5922. Quarterly reports on programs
@@ -17,3 +18,7 @@ Not later than 30 days after the end of the last fiscal year quarter of fiscal y
   - **(3)** A description of the participation of all United States Government departments and agencies and the United States private sector in such activities.
   - **(4)** A description of the activities carried out under this chapter and the forms of assistance provided under this chapter, including, with respect to proposed industrial demilitarization projects, additional information on the progress toward demilitarization of facilities and the conversion of the demilitarized facilities to civilian activities.
   - **(5)** Such other information as the President considers appropriate to fully inform the Congress concerning the operation of the programs authorized under this chapter.
+
+## Source Credit
+
+*([Pub. L. 102–484, div. A, title XIV, § 1432](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2566](https://www.govinfo.gov/link/statute/106/2566).)*

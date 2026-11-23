@@ -3,9 +3,10 @@ title: "Section 1098e - Income-based repayment"
 usc_title: 20
 usc_section: "1098e"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1098e"
-generated_at: "2026-03-30T02:54:48.139Z"
+generated_at: "2026-11-23T20:26:14.535Z"
+status: "active"
 ---
 
 # § 1098e. Income-based repayment
@@ -63,3 +64,7 @@ generated_at: "2026-03-30T02:54:48.139Z"
 - **(e)** With respect to any loan made to a new borrower on or after July 1, 2014 and before July 1, 2026 —
   - **(1)** subsection (a)(3)(B) shall be applied by substituting “10 percent” for “15 percent”; and
   - **(2)** subsection (b)(7)(B) shall be applied by substituting “20 years” for “25 years”.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 493C](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–84, title II, § 203(a)](https://www.govinfo.gov/link/plaw/110/public/84), Sept. 27, 2007, [121 Stat. 792](https://www.govinfo.gov/link/statute/121/792); amended [Pub. L. 110–153, § 2](https://www.govinfo.gov/link/plaw/110/public/153), Dec. 21, 2007, [121 Stat. 1824](https://www.govinfo.gov/link/statute/121/1824); [Pub. L. 110–315, title IV, § 494F](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3324](https://www.govinfo.gov/link/statute/122/3324); [Pub. L. 111–152, title II, § 2213](https://www.govinfo.gov/link/plaw/111/public/152), Mar. 30, 2010, [124 Stat. 1081](https://www.govinfo.gov/link/statute/124/1081); [Pub. L. 116–91, § 4(b)](https://www.govinfo.gov/link/plaw/116/public/91), Dec. 19, 2019, [133 Stat. 1193](https://www.govinfo.gov/link/statute/133/1193); [Pub. L. 119–21, title VIII, § 82001(f)(1)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 345](https://www.govinfo.gov/link/statute/139/345).)*

@@ -3,9 +3,10 @@ title: "Section 4 - Discovery of, and access to, classified information by the a
 usc_title: 10
 usc_section: "4"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 4"
-generated_at: "2026-03-30T02:53:38.090Z"
+generated_at: "2026-11-23T20:25:51.151Z"
+status: "active"
 ---
 
 # § 949p–4. Discovery of, and access to, classified information by the accused
@@ -21,3 +22,23 @@ generated_at: "2026-03-30T02:53:38.090Z"
   - **(2)** The military judge shall permit the trial counsel to make a request for an authorization under paragraph (1) in the form of an ex parte presentation to the extent necessary to protect classified information, in accordance with the practice of the Federal courts under the Classified Information Procedures Act (18 U.S.C. App.). If the military judge enters an order granting relief following such an ex parte showing, the entire presentation (including the text of any written submission, verbatim transcript of the ex parte oral conference or hearing, and any exhibits received by the court as part of the ex parte presentation) shall be sealed and preserved in the records of the military commission to be made available to the appellate court in the event of an appeal.
   - **(3)** The military judge shall grant the request of the trial counsel to substitute a summary or to substitute a statement admitting relevant facts, or to provide other relief in accordance with paragraph (1), if the military judge finds that the summary, statement, or other relief would provide the accused with substantially the same ability to make a defense as would discovery of or access to the specific classified information.
 - **(c)** An order of a military judge authorizing a request of the trial counsel to substitute, summarize, withhold, or prevent access to classified information under this section is not subject to a motion for reconsideration by the accused, if such order was entered pursuant to an ex parte showing under this section.
+
+Limitations on Discovery or Access by the Accused.—
+
+Declarations by the united states of damage to national security
+
+Standard for authorization of discovery or access
+
+Discovery of Classified Information.—
+
+Substitutions and other relief
+
+Ex parte presentations
+
+Action by military judge
+
+Reconsideration
+
+## Source Credit
+
+*(Added [Pub. L. 111–84, div. A, title XVIII, § 1802](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2592](https://www.govinfo.gov/link/statute/123/2592).)*

@@ -3,9 +3,10 @@ title: "Section 5364 - Policies and procedures to identify and prevent restricte
 usc_title: 31
 usc_section: "5364"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 5364"
-generated_at: "2026-03-30T02:55:34.072Z"
+generated_at: "2026-11-23T20:26:51.889Z"
+status: "active"
 ---
 
 # § 5364. Policies and procedures to identify and prevent restricted transactions
@@ -32,3 +33,17 @@ generated_at: "2026-03-30T02:55:34.072Z"
 - **(e)** The requirements under this section shall be enforced exclusively by—
   - **(1)** the Federal functional regulators, with respect to the designated payment systems and financial transaction providers subject to the respective jurisdiction of such regulators under section 505(a) of the Gramm-Leach-Bliley Act and section 5g of the Commodities Exchange Act; and
   - **(2)** the Federal Trade Commission, with respect to designated payment systems and financial transaction providers not otherwise subject to the jurisdiction of any Federal functional regulators (including the Commission) as described in paragraph (1).
+
+Regulations
+
+Requirements for Policies and Procedures
+
+Compliance With Payment System Policies and Procedures
+
+No Liability for Blocking or Refusing To Honor Restricted Transactions
+
+Regulatory Enforcement
+
+## Source Credit
+
+*(Added [Pub. L. 109–347, title VIII, § 802(a)](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1958](https://www.govinfo.gov/link/statute/120/1958).)*

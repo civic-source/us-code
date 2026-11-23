@@ -3,9 +3,10 @@ title: "Section 3771 - Crime victims’ rights"
 usc_title: 18
 usc_section: "3771"
 chapter: 237
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 3771"
-generated_at: "2026-03-30T02:54:16.526Z"
+generated_at: "2026-11-23T20:26:08.771Z"
+status: "active"
 ---
 
 # § 3771. Crime victims’ rights
@@ -59,3 +60,67 @@ generated_at: "2026-03-30T02:54:16.526Z"
     - **(B)** require a course of training for employees and offices of the Department of Justice that fail to comply with provisions of Federal law pertaining to the treatment of crime victims, and otherwise assist such employees and offices in responding more effectively to the needs of crime victims;
     - **(C)** contain disciplinary sanctions, including suspension or termination from employment, for employees of the Department of Justice who willfully or wantonly fail to comply with provisions of Federal law pertaining to the treatment of crime victims; and
     - **(D)** provide that the Attorney General, or the designee of the Attorney General, shall be the final arbiter of the complaint, and that there shall be no judicial review of the final decision of the Attorney General by a complainant.
+
+Rights of Crime Victims
+
+Rights Afforded
+
+In general
+
+Habeas corpus proceedings.—
+
+In general
+
+Enforcement.—
+
+In general
+
+Multiple victims
+
+Limitation
+
+Definition
+
+Best Efforts To Accord Rights.—
+
+Government
+
+Advice of attorney
+
+Notice
+
+Enforcement and Limitations.—
+
+Rights
+
+Multiple crime victims
+
+Motion for relief and writ of mandamus
+
+Error
+
+Limitation on relief
+
+No cause of action
+
+Definitions
+
+Court of appeals
+
+Crime victim.—
+
+In general
+
+Minors and certain other victims
+
+District court; court
+
+Procedures To Promote Compliance.—
+
+Regulations
+
+Contents
+
+## Source Credit
+
+*(Added [Pub. L. 108–405, title I, § 102(a)](https://www.govinfo.gov/link/plaw/108/public/405), Oct. 30, 2004, [118 Stat. 2261](https://www.govinfo.gov/link/statute/118/2261); amended [Pub. L. 109–248, title II, § 212](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 616](https://www.govinfo.gov/link/statute/120/616); [Pub. L. 111–16, § 3(12)](https://www.govinfo.gov/link/plaw/111/public/16), May 7, 2009, [123 Stat. 1608](https://www.govinfo.gov/link/statute/123/1608); [Pub. L. 114–22, title I, § 113(a)](https://www.govinfo.gov/link/plaw/114/public/22), (c)(1), May 29, 2015, [129 Stat. 240](https://www.govinfo.gov/link/statute/129/240), 241.)*

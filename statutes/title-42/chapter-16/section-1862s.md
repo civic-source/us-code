@@ -3,9 +3,10 @@ title: "Section 1862s - Reaffirmation of merit-based peer review"
 usc_title: 42
 usc_section: "1862s"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1862s"
-generated_at: "2026-03-30T02:56:11.128Z"
+generated_at: "2026-11-23T20:27:21.954Z"
+status: "active"
 ---
 
 # § 1862s. Reaffirmation of merit-based peer review
@@ -19,3 +20,23 @@ generated_at: "2026-03-30T02:56:11.128Z"
   - **(4)** as evidenced by the Foundation’s contributions to scientific advancement, economic growth, human health, and national security, its peer review and merit review processes have identified and funded scientifically and societally relevant basic research and should be preserved.
 - **(b)** The Foundation shall maintain the intellectual merit and broader impacts criteria, among other specific criteria as appropriate, as the basis for evaluating grant proposals in the merit review process.
 - **(c)** If after January 6, 2017 , a change is made to the merit-review process, the Director shall submit a report to the appropriate committees of Congress not later than 30 days after the date of the change.
+
+“In this Act [see Short Title of 2017 Amendment note set out under section 1861 of this title and Tables], unless expressly provided otherwise:
+
+Appropriate committees of congress
+
+Federal science agency
+
+Foundation
+
+Institution of higher education
+
+NIST
+
+STEM
+
+STEM education
+
+## Source Credit
+
+*([Pub. L. 114–329, title I, § 101](https://www.govinfo.gov/link/plaw/114/public/329), Jan. 6, 2017, [130 Stat. 2970](https://www.govinfo.gov/link/statute/130/2970).)*

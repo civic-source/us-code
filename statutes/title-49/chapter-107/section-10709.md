@@ -3,9 +3,10 @@ title: "Section 10709 - Contracts"
 usc_title: 49
 usc_section: "10709"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 10709"
-generated_at: "2026-03-30T02:56:19.323Z"
+generated_at: "2026-11-23T20:27:34.715Z"
+status: "active"
 ---
 
 # § 10709. Contracts
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:19.323Z"
   - **(3)**
     - **(A)** Within 30 days after the date a proceeding is commenced under paragraph (1) of this subsection, or within such shorter time period after such date as the Board may establish, the Board shall determine whether the contract that is the subject of such proceeding is in violation of this section.
     - **(B)** If the Board determines, on the basis of a complaint filed under paragraph (2)(B)(i) of this subsection, that the grounds for a complaint described in such paragraph have been established with respect to a rail carrier, the Board shall, subject to the provisions of this section, order such rail carrier to provide rates and service substantially similar to the contract at issue with such differentials in terms and conditions as are justified by the evidence.
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 102(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 817](https://www.govinfo.gov/link/statute/109/817); amended [Pub. L. 104–287, § 5(24)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3390](https://www.govinfo.gov/link/statute/110/3390); [Pub. L. 114–110, § 11(d)](https://www.govinfo.gov/link/plaw/114/public/110), Dec. 18, 2015, [129 Stat. 2234](https://www.govinfo.gov/link/statute/129/2234).)*

@@ -3,12 +3,17 @@ title: "Section 1805 - Failure to meet performance standards; resolution of issu
 usc_title: 48
 usc_section: "1805"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1805"
-generated_at: "2026-03-30T02:56:14.592Z"
+generated_at: "2026-11-23T20:27:28.070Z"
+status: "active"
 ---
 
 # § 1805. Failure to meet performance standards; resolution of issues; withholding of funds
 
 Should the Secretary of the Interior believe that the performance standards of the agreement identified in section 1803 of this title are not being met, he shall notify the Government of the Northern Mariana Islands in writing with the intent to resolve such issue in a mutually agreeable and expeditious manner and notify the Committee on Interior and Insular Affairs of the House of Representatives and the Committee on Energy and Natural Resources of the Senate. Should the issue not be resolved within thirty days after the notification is received by the Government of the Northern Mariana Islands, the Secretary of the Interior may request authority from Congress to withhold payment of an appropriate amount of the operations funds identified in the schedule of payments in paragraph 2 of part II of the Agreement of the Special Representatives for a period of less than one year but no funds shall be withheld except by Act of Congress.
 
+
+## Source Credit
+
+*([Pub. L. 94–241, § 5](https://www.govinfo.gov/link/plaw/94/public/241), as added [Pub. L. 99–396, § 10](https://www.govinfo.gov/link/plaw/99/public/396), Aug. 27, 1986, [100 Stat. 841](https://www.govinfo.gov/link/statute/100/841).)*

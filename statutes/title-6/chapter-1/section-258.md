@@ -3,9 +3,10 @@ title: "Section 258 - Homeland Security Investigations Victim Assistance Program
 usc_title: 6
 usc_section: "258"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 258"
-generated_at: "2026-03-30T02:53:09.454Z"
+generated_at: "2026-11-23T20:25:34.686Z"
+status: "active"
 ---
 
 # § 258. Homeland Security Investigations Victim Assistance Program
@@ -31,3 +32,11 @@ generated_at: "2026-03-30T02:53:09.454Z"
     - **(B)** trauma-informed; and
     - **(C)** linguistically appropriate, to the extent feasible; and
   - **(5)** purchase emergency items that are needed to assist identified victims in Homeland Security Investigations criminal investigations, including food, clothing, hygiene products, transportation, and temporary shelter that is not otherwise provided by a nongovernmental organization.
+
+Establishment
+
+Functions
+
+## Source Credit
+
+*([Pub. L. 107–296, title IV, § 447](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 118–96, § 3(a)](https://www.govinfo.gov/link/plaw/118/public/96), Oct. 1, 2024, [138 Stat. 1570](https://www.govinfo.gov/link/statute/138/1570).)*

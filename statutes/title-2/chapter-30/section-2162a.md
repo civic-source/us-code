@@ -3,9 +3,10 @@ title: "Section 2162a - Promoting maximum efficiency in operation of Capitol Pow
 usc_title: 2
 usc_section: "2162a"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 2162a"
-generated_at: "2026-03-30T02:53:04.825Z"
+generated_at: "2026-11-23T20:25:29.016Z"
+status: "active"
 ---
 
 # § 2162a. Promoting maximum efficiency in operation of Capitol Power Plant
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:04.825Z"
   - **(2)** The Architect shall implement the steps required under paragraph (1) not later than 30 days after December 19, 2007 .
 - **(c)** Not later than 90 days after December 19, 2007 , the Architect of the Capitol shall evaluate the accuracy of the meters in use at the Capitol Power Plant and correct them as necessary.
 - **(d)** Not later than 180 days after December 19, 2007 , the Architect of the Capitol shall complete the implementation of the requirements of this section and submit a report describing the actions taken and the energy efficiencies achieved to the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, the Committee on House Administration of the House of Representatives, and the Committee on Rules and Administration of the Senate.
+
+## Source Credit
+
+*([Pub. L. 110–140, title V, § 504](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1656](https://www.govinfo.gov/link/statute/121/1656).)*

@@ -3,9 +3,10 @@ title: "Section 1602 - Definitions"
 usc_title: 43
 usc_section: "1602"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1602"
-generated_at: "2026-03-30T02:55:57.478Z"
+generated_at: "2026-11-23T20:27:06.317Z"
+status: "active"
 ---
 
 # § 1602. Definitions
@@ -38,3 +39,15 @@ For the purposes of this chapter, the term—
 - **(t)** “Settlement Trust” means a trust—
   - **(1)** established and registered by a Native Corporation under the laws of the State of Alaska pursuant to a resolution of its shareholders, and
   - **(2)** operated for the benefit of shareholders, Natives, and descendants of Natives, in accordance with section 1629e of this title and the laws of the State of Alaska.
+
+“In this Act [see Short Title of 2004 Amendment note set out under section 1601 of this title ]:
+
+Native allotment
+
+Secretary
+
+State
+
+## Source Credit
+
+*([Pub. L. 92–203, § 3](https://www.govinfo.gov/link/plaw/92/public/203), Dec. 18, 1971, [85 Stat. 689](https://www.govinfo.gov/link/statute/85/689); [Pub. L. 96–487, title XIV, § 1401(d)](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2492](https://www.govinfo.gov/link/statute/94/2492); [Pub. L. 100–241, § 3](https://www.govinfo.gov/link/plaw/100/public/241), Feb. 3, 1988, [101 Stat. 1789](https://www.govinfo.gov/link/statute/101/1789); [Pub. L. 106–194, § 3](https://www.govinfo.gov/link/plaw/106/public/194), May 2, 2000, [114 Stat. 243](https://www.govinfo.gov/link/statute/114/243).)*

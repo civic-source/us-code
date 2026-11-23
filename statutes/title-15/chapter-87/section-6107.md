@@ -3,9 +3,10 @@ title: "Section 6107 - Enforcement of orders"
 usc_title: 15
 usc_section: "6107"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 6107"
-generated_at: "2026-03-30T02:54:08.209Z"
+generated_at: "2026-11-23T20:26:04.384Z"
+status: "active"
 ---
 
 # § 6107. Enforcement of orders
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.209Z"
   - **(1)** A special assistant United States Attorney may be appointed under subsection (b) upon the request of the Federal Trade Commission or the court which has entered the order for which contempt is sought or upon the Attorney General’s own motion.
   - **(2)** The Attorney General shall act upon any request made under paragraph (1) within 45 days of the receipt of the request.
 - **(d)** The authority of the Federal Trade Commission to bring a criminal contempt action under subsection (a) expires 2 years after the date of the first promulgation of rules under section 6102 of this title . The expiration of such authority shall have no effect on an action brought before the expiration date.
+
+## Source Credit
+
+*([Pub. L. 103–297, § 9](https://www.govinfo.gov/link/plaw/103/public/297), Aug. 16, 1994, [108 Stat. 1550](https://www.govinfo.gov/link/statute/108/1550).)*

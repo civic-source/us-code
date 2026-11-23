@@ -3,9 +3,10 @@ title: "Section 10007 - Federal radiation guidelines"
 usc_title: 42
 usc_section: "10007"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10007"
-generated_at: "2026-03-30T02:56:11.378Z"
+generated_at: "2026-11-23T20:27:23.201Z"
+status: "active"
 ---
 
 # § 10007. Federal radiation guidelines
@@ -17,3 +18,7 @@ The Secretary shall, in conjunction with the Radiation Policy Council, the Secre
   - **(3)** provide for the elimination of unproductive screening programs;
   - **(4)** provide for the optimum diagnostic information with minimum radiologic exposure; and
   - **(5)** include the therapeutic application of radiation to individuals in the treatment of disease, including nuclear medicine applications.
+
+## Source Credit
+
+*([Pub. L. 97–35, title IX, § 982](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 601](https://www.govinfo.gov/link/statute/95/601); [Pub. L. 102–54, § 13(q)(13)(B)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 281](https://www.govinfo.gov/link/statute/105/281).)*

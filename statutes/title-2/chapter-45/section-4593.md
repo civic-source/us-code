@@ -3,9 +3,10 @@ title: "Section 4593 - Waiver by Secretary of Senate of claims of United States 
 usc_title: 2
 usc_section: "4593"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 4593"
-generated_at: "2026-03-30T02:53:04.834Z"
+generated_at: "2026-11-23T20:25:29.048Z"
+status: "active"
 ---
 
 # § 4593. Waiver by Secretary of Senate of claims of United States arising out of erroneous payments to Vice President, Senator, or Senate employee paid by Secretary of Senate
@@ -18,3 +19,11 @@ generated_at: "2026-03-30T02:53:04.834Z"
 - **(d)** An erroneous payment, the collection of which is waived under this section, is deemed a valid payment for all purposes.
 - **(e)** This section does not affect any authority under any other law to litigate, settle, compromise, or waive any claim of the United States.
 - **(f)** The Secretary of the Senate shall promulgate rules and regulations to carry out the provisions of this section.
+
+In general
+
+Exceptions
+
+## Source Credit
+
+*([Pub. L. 93–359, § 2](https://www.govinfo.gov/link/plaw/93/public/359), July 25, 1974, [88 Stat. 394](https://www.govinfo.gov/link/statute/88/394); [Pub. L. 103–69, title III, § 315](https://www.govinfo.gov/link/plaw/103/public/69), Aug. 11, 1993, [107 Stat. 713](https://www.govinfo.gov/link/statute/107/713); [Pub. L. 104–316, title I, § 102(b)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3828](https://www.govinfo.gov/link/statute/110/3828).)*

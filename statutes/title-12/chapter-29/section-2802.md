@@ -3,9 +3,10 @@ title: "Section 2802 - Definitions"
 usc_title: 12
 usc_section: "2802"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 2802"
-generated_at: "2026-03-30T02:53:53.487Z"
+generated_at: "2026-11-23T20:25:59.307Z"
+status: "active"
 ---
 
 # § 2802. Definitions
@@ -24,3 +25,7 @@ For purposes of this chapter—
   - **(5)** the term “other lending institutions” means any person engaged for profit in the business of mortgage lending;
   - **(6)** the term “Board” means the Board of Governors of the Federal Reserve System; and
   - **(7)** the term “Secretary” means the Secretary of Housing and Urban Development.
+
+## Source Credit
+
+*([Pub. L. 94–200, title III, § 303](https://www.govinfo.gov/link/plaw/94/public/200), Dec. 31, 1975, [89 Stat. 1125](https://www.govinfo.gov/link/statute/89/1125); [Pub. L. 100–242, title V, § 565(a)(1)](https://www.govinfo.gov/link/plaw/100/public/242), Feb. 5, 1988, [101 Stat. 1945](https://www.govinfo.gov/link/statute/101/1945); [Pub. L. 101–73, title XII, § 1211(d)](https://www.govinfo.gov/link/plaw/101/public/73), (e), Aug. 9, 1989, [103 Stat. 525](https://www.govinfo.gov/link/statute/103/525); [Pub. L. 111–203, title X, § 1094(2)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2097](https://www.govinfo.gov/link/statute/124/2097).)*

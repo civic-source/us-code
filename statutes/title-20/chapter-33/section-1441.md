@@ -3,9 +3,10 @@ title: "Section 1441 - State interagency coordinating council"
 usc_title: 20
 usc_section: "1441"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1441"
-generated_at: "2026-03-30T02:54:48.166Z"
+generated_at: "2026-11-23T20:26:14.656Z"
+status: "active"
 ---
 
 # § 1441. State interagency coordinating council
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:54:48.166Z"
     - **(D)** prepare and submit an annual report to the Governor and to the Secretary on the status of early intervention programs for infants and toddlers with disabilities and their families operated within the State.
   - **(2)** The council may advise and assist the lead agency and the State educational agency regarding the provision of appropriate services for children from birth through age 5. The council may advise appropriate agencies in the State with respect to the integration of services for infants and toddlers with disabilities and at-risk infants and toddlers and their families, regardless of whether at-risk infants and toddlers are eligible for early intervention services in the State.
 - **(f)** No member of the council shall cast a vote on any matter that is likely to provide a direct financial benefit to that member or otherwise give the appearance of a conflict of interest under State law.
+
+## Source Credit
+
+*([Pub. L. 91–230, title VI, § 641](https://www.govinfo.gov/link/plaw/91/public/230), as added [Pub. L. 108–446, title I, § 101](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2758](https://www.govinfo.gov/link/statute/118/2758).)*

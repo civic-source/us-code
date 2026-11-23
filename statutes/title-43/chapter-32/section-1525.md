@@ -3,12 +3,17 @@ title: "Section 1525 - Cost of main stream water of Colorado River"
 usc_title: 43
 usc_section: "1525"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1525"
-generated_at: "2026-03-30T02:55:57.476Z"
+generated_at: "2026-11-23T20:27:06.299Z"
+status: "active"
 ---
 
 # § 1525. Cost of main stream water of Colorado River
 
 To the extent that the flow of the main stream of the Colorado River is augmented in order to make sufficient water available for release, as determined by the Secretary pursuant to article II(b)(1) of the decree of the Supreme Court of the United States in Arizona against California (376 U.S. 340), to satisfy annual consumptive use of two million eight hundred thousand acre-feet in Arizona, four million four hundred thousand acre-feet in California, and three hundred thousand acre-feet in Nevada, respectively, the Secretary shall make such water available to users of main stream water in those States at the same costs (to the extent that such costs can be made comparable through the nonreimbursable allocation to the replenishment of the deficiencies occasioned by satisfaction of the Mexican Treaty burden as herein provided and financial assistance from the development fund established by section 1543 of this title ) and on the same terms as would be applicable if main stream water were available for release in the quantities required to supply such consumptive use.
 
+
+## Source Credit
+
+*([Pub. L. 90–537, title III, § 305](https://www.govinfo.gov/link/plaw/90/public/537), Sept. 30, 1968, [82 Stat. 893](https://www.govinfo.gov/link/statute/82/893).)*

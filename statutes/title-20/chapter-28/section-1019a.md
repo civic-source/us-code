@@ -3,9 +3,10 @@ title: "Section 1019a - Responsibilities of covered institutions, institution-af
 usc_title: 20
 usc_section: "1019a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1019a"
-generated_at: "2026-03-30T02:54:48.096Z"
+generated_at: "2026-11-23T20:26:14.316Z"
+status: "active"
 ---
 
 # § 1019a. Responsibilities of covered institutions, institution-affiliated organizations, and lenders
@@ -49,3 +50,11 @@ generated_at: "2026-03-30T02:54:48.096Z"
   - **(2)** Not later than 18 months after August 14, 2008 —
     - **(A)** in addition to any other disclosure required under Federal law, each lender of a loan made, insured, or guaranteed under part B of subchapter IV that participates in one or more preferred lender arrangements shall annually certify the lender’s compliance with the requirements of this chapter; and
     - **(B)** if an audit of a lender is required pursuant to section 1078(b)(1)(U)(iii) of this title , the lender’s compliance with the requirements under this section shall be reported on and attested to annually by the auditor of such lender.
+
+(aa) is employed in the financial aid office of a covered institution; or
+
+(bb) otherwise has responsibilities with respect to education loans or other financial aid of the institution; and
+
+## Source Credit
+
+*([Pub. L. 89–329, title I, § 152](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title I, § 120](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3119](https://www.govinfo.gov/link/statute/122/3119).)*

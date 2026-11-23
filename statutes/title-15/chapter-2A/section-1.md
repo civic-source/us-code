@@ -3,9 +3,10 @@ title: "Section 1 - Private securities litigation"
 usc_title: 15
 usc_section: "1"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1"
-generated_at: "2026-03-30T02:54:08.035Z"
+generated_at: "2026-11-23T20:26:03.448Z"
+status: "active"
 ---
 
 # § 77z–1. Private securities litigation
@@ -68,3 +69,17 @@ generated_at: "2026-03-30T02:54:08.035Z"
       - **(ii)** the violation of Rule 11(b) of the Federal Rules of Civil Procedure was de minimis.
     - **(C)** If the party or attorney against whom sanctions are to be imposed meets its burden under subparagraph (B), the court shall award the sanctions that the court deems appropriate pursuant to Rule 11 of the Federal Rules of Civil Procedure.
 - **(d)** In any private action arising under this subchapter in which the plaintiff may recover money damages only on proof that a defendant acted with a particular state of mind, the court shall, when requested by a defendant, submit to the jury a written interrogatory on the issue of each such defendant’s state of mind at the time the alleged violation occurred.
+
+(aa) has either filed the complaint or made a motion in response to a notice under subparagraph (A)(i);
+
+(bb) in the determination of the court, has the largest financial interest in the relief sought by the class; and
+
+(cc) otherwise satisfies the requirements of Rule 23 of the Federal Rules of Civil Procedure.
+
+(aa) will not fairly and adequately protect the interests of the class; or
+
+(bb) is subject to unique defenses that render such plaintiff incapable of adequately representing the class.
+
+## Source Credit
+
+*(May 27, 1933, ch. 38, title I, § 27, as added [Pub. L. 104–67, title I, § 101(a)](https://www.govinfo.gov/link/plaw/104/public/67), Dec. 22, 1995, [109 Stat. 737](https://www.govinfo.gov/link/statute/109/737); amended [Pub. L. 105–353, title I, § 101(a)(2)](https://www.govinfo.gov/link/plaw/105/public/353), title III, § 301(a)(5), Nov. 3, 1998, [112 Stat. 3230](https://www.govinfo.gov/link/statute/112/3230), 3235.)*

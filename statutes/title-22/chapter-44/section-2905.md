@@ -3,9 +3,10 @@ title: "Section 2905 - Administrative powers of Commission"
 usc_title: 22
 usc_section: "2905"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2905"
-generated_at: "2026-03-30T02:55:05.389Z"
+generated_at: "2026-11-23T20:26:32.440Z"
+status: "active"
 ---
 
 # § 2905. Administrative powers of Commission
@@ -23,3 +24,7 @@ In order to carry out its functions under this chapter, the Commission is author
   - **(9)** make advances, progress, and other payments which the Commission deems necessary under this chapter;
   - **(10)** obtain such administrative support services and personnel as the Commission deems necessary and appropriate to its needs; and
   - **(11)** transmit its official mail as penalty mail in the same manner and upon the same conditions as an officer of the United States other than a Member of Congress is permitted to transmit official mail as penalty mail under section 3202 of title 39 .
+
+## Source Credit
+
+*([Pub. L. 94–118, § 6](https://www.govinfo.gov/link/plaw/94/public/118), Oct. 20, 1975, [89 Stat. 605](https://www.govinfo.gov/link/statute/89/605); [Pub. L. 94–350, title IV, § 401(1)](https://www.govinfo.gov/link/plaw/94/public/350), July 12, 1976, [90 Stat. 833](https://www.govinfo.gov/link/statute/90/833); [Pub. L. 95–426, title VII, § 703(a)](https://www.govinfo.gov/link/plaw/95/public/426), Oct. 7, 1978, [92 Stat. 992](https://www.govinfo.gov/link/statute/92/992); [Pub. L. 97–241, title V, § 503(a)](https://www.govinfo.gov/link/plaw/97/public/241), Aug. 24, 1982, [96 Stat. 298](https://www.govinfo.gov/link/statute/96/298); [Pub. L. 102–138, title I, § 167](https://www.govinfo.gov/link/plaw/102/public/138), Oct. 28, 1991, [105 Stat. 676](https://www.govinfo.gov/link/statute/105/676); [Pub. L. 105–277, div. A, § 101(b) [title IV, § 404(a)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–50](https://www.govinfo.gov/link/statute/112/2681), 2681–101.)*

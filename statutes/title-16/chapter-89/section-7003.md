@@ -3,9 +3,10 @@ title: "Section 7003 - United States representation on the scientific review gro
 usc_title: 16
 usc_section: "7003"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 7003"
-generated_at: "2026-03-30T02:54:23.072Z"
+generated_at: "2026-11-23T20:26:20.827Z"
+status: "active"
 ---
 
 # § 7003. United States representation on the scientific review group
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:23.072Z"
 - **(c)** In addition to individuals appointed under subsection (a), the Secretary, jointly with the Government of Canada, may appoint to the scientific review group, from a list of names provided by the advisory panel—
   - **(1)** up to 2 independent members of the scientific review group; and
   - **(2)** 2 public advisors.
+
+## Source Credit
+
+*([Pub. L. 109–479, title VI, § 604](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3645](https://www.govinfo.gov/link/statute/120/3645).)*

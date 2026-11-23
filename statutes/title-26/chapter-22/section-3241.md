@@ -3,16 +3,37 @@ title: "Section 3241 - Determination of tier 2 tax rate based on average account
 usc_title: 26
 usc_section: "3241"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 3241"
-generated_at: "2026-03-30T02:55:27.792Z"
+generated_at: "2026-11-23T20:26:46.220Z"
+status: "active"
 ---
 
 # § 3241. Determination of tier 2 tax rate based on average account benefits ratio
 
 - **(a)** For purposes of sections 3201(b), 3211(b), and 3221(b), the applicable percentage for any calendar year is the percentage determined in accordance with the table in subsection (b).
-- **(b)** Average account benefits ratio Applicable percentage for sections 3211(b) and 3221(b) Applicable percentage for section 3201(b) At least But less than .............. 2.5 22.1 4.9 2.5 3.0 18.1 4.9 3.0 3.5 15.1 4.9 3.5 4.0 14.1 4.9 4.0 6.1 13.1 4.9 6.1 6.5 12.6 4.4 6.5 7.0 12.1 3.9 7.0 7.5 11.6 3.4 7.5 8.0 11.1 2.9 8.0 8.5 10.1 1.9 8.5 9.0 9.1 0.9 9.0 .............. 8.2 0
+- **(b)**
+
+| Average account benefits ratio | Applicable percentage for sections 3211(b) and 3221(b) | Applicable percentage for section 3201(b) | Col 4 |
+| --- | --- | --- | --- |
+| .............. | 2.5 | 22.1 | 4.9 |
+| 2.5 | 3.0 | 18.1 | 4.9 |
+| 3.0 | 3.5 | 15.1 | 4.9 |
+| 3.5 | 4.0 | 14.1 | 4.9 |
+| 4.0 | 6.1 | 13.1 | 4.9 |
+| 6.1 | 6.5 | 12.6 | 4.4 |
+| 6.5 | 7.0 | 12.1 | 3.9 |
+| 7.0 | 7.5 | 11.6 | 3.4 |
+| 7.5 | 8.0 | 11.1 | 2.9 |
+| 8.0 | 8.5 | 10.1 | 1.9 |
+| 8.5 | 9.0 | 9.1 | 0.9 |
+| 9.0 | .............. | 8.2 | 0 |
+
 - **(c)**
   - **(1)** For purposes of this section, the term “average account benefits ratio” means, with respect to any calendar year, the average determined by the Secretary of the account benefits ratios for the 10 most recent fiscal years ending before such calendar year. If the amount determined under the preceding sentence is not a multiple of 0.1, such amount shall be increased to the next highest multiple of 0.1.
   - **(2)** For purposes of this section, the term “account benefits ratio” means, with respect to any fiscal year, the amount determined by the Railroad Retirement Board by dividing the fair market value of the assets in the Railroad Retirement Account and of the National Railroad Retirement Investment Trust (and for years before 2002, the Social Security Equivalent Benefits Account) as of the close of such fiscal year by the total benefits and administrative expenses paid from the Railroad Retirement Account and the National Railroad Retirement Investment Trust during such fiscal year.
 - **(d)** No later than December 1 of each calendar year, the Secretary shall publish a notice in the Federal Register of the rates of tax determined under this section which are applicable for the following calendar year.
+
+## Source Credit
+
+*(Added [Pub. L. 107–90, title II, § 204(d)](https://www.govinfo.gov/link/plaw/107/public/90), Dec. 21, 2001, [115 Stat. 892](https://www.govinfo.gov/link/statute/115/892).)*

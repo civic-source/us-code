@@ -3,9 +3,10 @@ title: "Section 2227 - Fire safety systems in federally assisted buildings"
 usc_title: 15
 usc_section: "2227"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2227"
-generated_at: "2026-03-30T02:54:08.169Z"
+generated_at: "2026-11-23T20:26:04.185Z"
+status: "active"
 ---
 
 # § 2227. Fire safety systems in federally assisted buildings
@@ -79,3 +80,7 @@ generated_at: "2026-03-30T02:54:08.169Z"
       - **(ii)** include a comparative analysis and compartmentation using fire resistive materials and compartmentation using noncombustible materials.
     - **(B)** The National Institute of Standards and Technology shall obtain funding from non-Federal sources in an amount equal to 25 percent of the cost of the study required by subparagraph (A). Funding for the National Institute of Standards and Technology for carrying out such study shall be derived from amounts otherwise authorized to be appropriated, for the Building and Fire Research Center at the National Institute of Standards and Technology, not to exceed $750,000. The study shall commence until receipt of all matching funds from non-Federal sources. The scope and extent of the study shall be determined by the level of project funding. The Institute shall submit a report to Congress on the study within 30 months after October 26, 1992 .
 - **(h)** In the implementation of this section, the process for meeting space needs in urban areas shall continue to give first consideration to a centralized community business area and adjacent areas of similar character to the extent of any Federal requirement therefor.
+
+## Source Credit
+
+*([Pub. L. 93–498, § 31](https://www.govinfo.gov/link/plaw/93/public/498), as added [Pub. L. 102–522, title I, § 106(a)](https://www.govinfo.gov/link/plaw/102/public/522), Oct. 26, 1992, [106 Stat. 3412](https://www.govinfo.gov/link/statute/106/3412); amended [Pub. L. 103–254, § 6](https://www.govinfo.gov/link/plaw/103/public/254), May 19, 1994, [108 Stat. 682](https://www.govinfo.gov/link/statute/108/682); [Pub. L. 104–316, title I, § 107](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3832](https://www.govinfo.gov/link/statute/110/3832); [Pub. L. 105–108, § 3(4)](https://www.govinfo.gov/link/plaw/105/public/108), (5), Nov. 20, 1997, [111 Stat. 2264](https://www.govinfo.gov/link/statute/111/2264).)*

@@ -3,9 +3,10 @@ title: "Section 2632 - Commencement of a civil action"
 usc_title: 28
 usc_section: "2632"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 2632"
-generated_at: "2026-03-30T02:55:30.150Z"
+generated_at: "2026-11-23T20:26:36.531Z"
+status: "active"
 ---
 
 # § 2632. Commencement of a civil action
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:30.150Z"
 - **(b)** A civil action in the Court of International Trade under section 515 or section 516 of the Tariff Act of 1930 shall be commenced by filing with the clerk of the court a summons, with the content and in the form, manner, and style prescribed by the rules of the court.
 - **(c)** A civil action in the Court of International Trade under section 516A of the Tariff Act of 1930 shall be commenced by filing with the clerk of the court a summons or a summons and a complaint, as prescribed in such section, with the content and in the form, manner, and style prescribed by the rules of the court.
 - **(d)** The Court of International Trade may prescribe by rule that any summons, pleading, or other paper mailed by registered or certified mail properly addressed to the clerk of the court with the proper postage affixed and return receipt requested shall be deemed filed as of the date of mailing.
+
+## Source Credit
+
+*(Added [Pub. L. 96–417, title III, § 301](https://www.govinfo.gov/link/plaw/96/public/417), Oct. 10, 1980, [94 Stat. 1732](https://www.govinfo.gov/link/statute/94/1732).)*

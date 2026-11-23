@@ -3,9 +3,10 @@ title: "Section 616 - Stock on hand when tax takes effect or terminates"
 usc_title: 7
 usc_section: "616"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 616"
-generated_at: "2026-03-30T02:53:42.292Z"
+generated_at: "2026-11-23T20:25:41.072Z"
+status: "active"
 ---
 
 # § 616. Stock on hand when tax takes effect or terminates
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:42.292Z"
   - **(4)** Whenever the Secretary of Agriculture revokes any certification to the Secretary of the Treasury under section 615(a) of this title , the provisions of paragraph (2) of this subsection shall become applicable.
   - **(5)** The provisions of this subsection shall be effective on and after June 1, 1934 .
 - **(f)** The provisions of this section shall not be applicable with respect to rice.
+
+## Source Credit
+
+*(May 12, 1933, ch. 25, title I, § 16, [48 Stat. 40](https://www.govinfo.gov/link/statute/48/40); May 9, 1934, ch. 263, §§ 10, 17, [48 Stat. 676](https://www.govinfo.gov/link/statute/48/676), 678; June 26, 1934, ch. 759, § 1, [48 Stat. 1241](https://www.govinfo.gov/link/statute/48/1241); Mar. 18, 1935, ch. 32, § 10, [49 Stat. 48](https://www.govinfo.gov/link/statute/49/48); Aug. 24, 1935, ch. 641, §§ 20(b), 25–27, [49 Stat. 768](https://www.govinfo.gov/link/statute/49/768), 769; June 4, 1936, ch. 501, [49 Stat. 1464](https://www.govinfo.gov/link/statute/49/1464); June 22, 1936, ch. 690, § 601(a), (c), (g), [49 Stat. 1739](https://www.govinfo.gov/link/statute/49/1739), 1740.)*

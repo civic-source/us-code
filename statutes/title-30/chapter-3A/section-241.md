@@ -3,9 +3,10 @@ title: "Section 241 - Leases of lands"
 usc_title: 30
 usc_section: "241"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 241"
-generated_at: "2026-03-30T02:55:29.381Z"
+generated_at: "2026-11-23T20:26:34.930Z"
+status: "active"
 ---
 
 # § 241. Leases of lands
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:29.381Z"
   - **(1)** In determining whether to offer or issue an offsite lease under subsection (c), the Secretary shall consult with the Governor and appropriate State, local, and tribal officials of the State where the lands to be leased are located, and of any additional State likely to be affected significantly by the social, economic, or environmental effects of development under such lease, in order to coordinate Federal and State planning processes, minimize duplication of permits, avoid delays, and anticipate and mitigate likely impacts of development.
   - **(2)** The Secretary may issue an offsite lease under subsection (d) 2 2 So in original. Probably should be subsection “(c)”. after consideration of (A) the need for leasing, (B) impacts on the environment and other resource values, (C) socioeconomic factors, and (D) information from consultations with the Governors of the affected States.
   - **(3)** Before determining whether to offer an offsite lease under subsection (c), the Secretary shall seek the recommendation of the Governor of the State in which the lands to be leased are located as to whether or not to lease such lands, what alternative actions are available, and what special conditions could be added to the proposed lease to mitigate impacts. The Secretary shall accept the recommendations of the Governor if he determines that they provide for a reasonable balance between the national interest and the State’s interests. The Secretary shall communicate to the Governor, in writing, and publish in the Federal Register the reasons for his determination to accept or reject such Governor’s recommendations.
+
+## Source Credit
+
+*(Feb. 25, 1920, ch. 85, § 21, [41 Stat. 445](https://www.govinfo.gov/link/statute/41/445); [Pub. L. 86–705, § 7](https://www.govinfo.gov/link/plaw/86/public/705), Sept. 2, 1960, [74 Stat. 790](https://www.govinfo.gov/link/statute/74/790); [Pub. L. 97–78, § 1(1)](https://www.govinfo.gov/link/plaw/97/public/78), Nov. 16, 1981, [95 Stat. 1070](https://www.govinfo.gov/link/statute/95/1070); [Pub. L. 97–394, title III, § 318](https://www.govinfo.gov/link/plaw/97/public/394), Dec. 30, 1982, [96 Stat. 1999](https://www.govinfo.gov/link/statute/96/1999); [Pub. L. 109–58, title III, § 369(j)(2)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 731](https://www.govinfo.gov/link/statute/119/731).)*

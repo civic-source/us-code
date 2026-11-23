@@ -3,9 +3,10 @@ title: "Section 549 - Postpetition transactions"
 usc_title: 11
 usc_section: "549"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 549"
-generated_at: "2026-03-30T02:53:53.879Z"
+generated_at: "2026-11-23T20:25:55.373Z"
+status: "active"
 ---
 
 # § 549. Postpetition transactions
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:53.879Z"
 - **(d)** An action or proceeding under this section may not be commenced after the earlier of—
   - **(1)** two years after the date of the transfer sought to be avoided; or
   - **(2)** the time the case is closed or dismissed.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2601](https://www.govinfo.gov/link/statute/92/2601); [Pub. L. 98–353, title III, § 464](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 379](https://www.govinfo.gov/link/statute/98/379); [Pub. L. 99–554, title II, § 283](https://www.govinfo.gov/link/plaw/99/public/554) (o), Oct. 27, 1986, [100 Stat. 3117](https://www.govinfo.gov/link/statute/100/3117); [Pub. L. 103–394, title V, § 501(d)(18)](https://www.govinfo.gov/link/plaw/103/public/394), Oct. 22, 1994, [108 Stat. 4146](https://www.govinfo.gov/link/statute/108/4146); [Pub. L. 109–8, title XII, § 1214](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 195](https://www.govinfo.gov/link/statute/119/195).)*

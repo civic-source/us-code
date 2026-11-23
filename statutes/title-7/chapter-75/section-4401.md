@@ -3,9 +3,10 @@ title: "Section 4401 - Congressional findings and declaration of purpose"
 usc_title: 7
 usc_section: "4401"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 4401"
-generated_at: "2026-03-30T02:53:42.408Z"
+generated_at: "2026-11-23T20:25:41.617Z"
+status: "active"
 ---
 
 # § 4401. Congressional findings and declaration of purpose
@@ -16,3 +17,7 @@ Congress hereby finds and declares that—
   - **(2)** the agreement requires that equipment involved in the international carriage of perishable foodstuffs be inspected, tested, and certified to specified standards;
   - **(3)** this chapter will make it possible for equipment in the United States to be inspected, tested, and certified in accordance with the agreement and the standards specified therein; and
   - **(4)** this chapter will improve the conditions for the movement of perishable foodstuffs in international carriage in equipment owned or operated by United States firms, which will serve to protect existing trade and promote expansion of trade in perishable foodstuffs, and will improve the sale of United States manufactured equipment for use in international carriage.
+
+## Source Credit
+
+*([Pub. L. 97–325, § 2](https://www.govinfo.gov/link/plaw/97/public/325), Oct. 15, 1982, [96 Stat. 1603](https://www.govinfo.gov/link/statute/96/1603).)*

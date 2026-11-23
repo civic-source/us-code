@@ -3,9 +3,10 @@ title: "Section 2485 - Commissary stores: operation"
 usc_title: 10
 usc_section: "2485"
 chapter: 147
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2485"
-generated_at: "2026-03-30T02:53:38.161Z"
+generated_at: "2026-11-23T20:25:51.598Z"
+status: "active"
 ---
 
 # § 2485. Commissary stores: operation
@@ -67,3 +68,42 @@ generated_at: "2026-03-30T02:53:38.161Z"
   - **(4)** Information described in paragraph (2) may not be released, under paragraph (3) or otherwise, in a form that identifies any customer or that provides information making it possible to identify any customer.
   - **(5)** Amounts received by the Secretary under this section shall be credited to funds derived from commissary surcharges applied under section 2484(e) of this title , shall be merged with those funds, and shall be available for the same purposes as the funds with which merged.
 - **(i)** The Secretary of Defense may enter into a contract with an entity to obtain expert commercial advice, commercial assistance, or other similar services not otherwise carried out by the Defense Commissary Agency, to implement section 2481(c), subsections (i) and (j) of section 2484, and section 2487(c) of this title .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 2482 | [Uncodified]. | Aug. 1, 1953, ch. 305, § 624 (last proviso), 67 Stat. 353 . |
+
+
+Private Operation
+
+Contracts With Other Agencies and Instrumentalities
+
+Governing Board
+
+Assignment of Active Duty Members
+
+Reimbursement for Use of Commissary Facilities by Military Departments
+
+Donation of Unusable Food
+
+Collection of Dishonored Checks
+
+Release of Certain Commercially Valuable Information to Public
+
+Expert Commercial Advice
+
+Historical and Revision Notes
+
+2482
+
+Aug. 1, 1953, ch. 305, § 624
+
+67 Stat. 353
+
+In General
+
+Military Star Card Defined
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 141, § 2482; [Pub. L. 100–456, div. A, title III, § 321](https://www.govinfo.gov/link/plaw/100/public/456), Sept. 29, 1988, [102 Stat. 1952](https://www.govinfo.gov/link/statute/102/1952); [Pub. L. 104–106, div. A, title III, § 331(a)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 260](https://www.govinfo.gov/link/statute/110/260); [Pub. L. 104–201, div. A, title III, § 341(b)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2489](https://www.govinfo.gov/link/statute/110/2489); [Pub. L. 105–261, div. A, title III](https://www.govinfo.gov/link/plaw/105/public/261), §§ 361(b), 363(a), Oct. 17, 1998, [112 Stat. 1984](https://www.govinfo.gov/link/statute/112/1984), 1985; [Pub. L. 108–136, div. A, title VI, § 653](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1522](https://www.govinfo.gov/link/statute/117/1522); renumbered § 2485 and amended [Pub. L. 108–375, div. A, title VI, § 651(a)(2)](https://www.govinfo.gov/link/plaw/108/public/375), (6), (7), Oct. 28, 2004, [118 Stat. 1964](https://www.govinfo.gov/link/statute/118/1964), 1968; [Pub. L. 109–163, div. A, title VI, § 672](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3319](https://www.govinfo.gov/link/statute/119/3319); [Pub. L. 111–350, § 5(b)(35)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3845](https://www.govinfo.gov/link/statute/124/3845); [Pub. L. 112–81, div. A, title X, § 1061(16)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1583](https://www.govinfo.gov/link/statute/125/1583); [Pub. L. 114–328, div. A, title VI, § 661(e)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2172](https://www.govinfo.gov/link/statute/130/2172).)*

@@ -3,9 +3,10 @@ title: "Section 4101 - Congressional findings and policy"
 usc_title: 22
 usc_section: "4101"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4101"
-generated_at: "2026-03-30T02:55:05.406Z"
+generated_at: "2026-11-23T20:26:32.517Z"
+status: "active"
 ---
 
 # § 4101. Congressional findings and policy
@@ -18,3 +19,7 @@ The Congress finds that—
     - **(C)** facilitates and encourages the amicable settlement of disputes between workers and their employers involving conditions of employment;
   - **(2)** the public interest demands the highest standards of performance by members of the Service and the continuous development and implementation of modern and progressive work practices to facilitate improved performance and efficiency; and
   - **(3)** the unique conditions of Foreign Service employment require a distinct framework for the development and implementation of modern, constructive, and cooperative relationships between management officials and organizations representing members of the Service.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 1001](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2128](https://www.govinfo.gov/link/statute/94/2128).)*

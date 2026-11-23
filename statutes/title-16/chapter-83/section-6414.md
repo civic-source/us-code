@@ -3,9 +3,10 @@ title: "Section 6414 - Authorization of appropriations"
 usc_title: 16
 usc_section: "6414"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6414"
-generated_at: "2026-03-30T02:54:23.059Z"
+generated_at: "2026-11-23T20:26:20.795Z"
+status: "active"
 ---
 
 # § 6414. Authorization of appropriations
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:23.059Z"
   - **(2)** $3,500,000 for activities authorized under section 6410 of this title ; and
   - **(3)** $4,500,000 to be provided to the cooperative institutes designated under section 6411(a) of this title to carry out the functions described in such section.
 - **(b)** Not more than 10 percent of the amounts appropriated under subsection (a) may be used for program administration or overhead costs incurred by the National Oceanic and Atmospheric Administration or the Department of Commerce.
+
+## Source Credit
+
+*([Pub. L. 106–562, title II, § 215](https://www.govinfo.gov/link/plaw/106/public/562), as added [Pub. L. 117–263, div. J, title C, § 10001(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3947](https://www.govinfo.gov/link/statute/136/3947).)*

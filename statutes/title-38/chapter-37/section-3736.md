@@ -3,9 +3,10 @@ title: "Section 3736 - Reporting requirements"
 usc_title: 38
 usc_section: "3736"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 3736"
-generated_at: "2026-03-30T02:55:53.514Z"
+generated_at: "2026-11-23T20:27:01.911Z"
+status: "active"
 ---
 
 # § 3736. Reporting requirements
@@ -17,3 +18,7 @@ The annual report required by section 529 of this title shall include a discussi
   - **(3)** The determination of reasonable value by lenders pursuant to section 3731(f) of this title .
   - **(4)** Loans that include funds for energy efficiency improvements pursuant to section 3710(a)(10) of this title .
   - **(5)** Direct loans to Native American veterans made pursuant to subchapter V of this chapter.
+
+## Source Credit
+
+*(Added [Pub. L. 104–110, title II, § 201(a)(1)](https://www.govinfo.gov/link/plaw/104/public/110), Feb. 13, 1996, [110 Stat. 770](https://www.govinfo.gov/link/statute/110/770).)*

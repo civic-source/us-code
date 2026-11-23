@@ -3,9 +3,10 @@ title: "Section 1054 - Annual report to Congressional committees"
 usc_title: 21
 usc_section: "1054"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 1054"
-generated_at: "2026-03-30T02:54:54.301Z"
+generated_at: "2026-11-23T20:26:27.872Z"
+status: "active"
 ---
 
 # § 1054. Annual report to Congressional committees
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:54.301Z"
     - **(D)** the number of inspectors that were licensed by each country from which any imports were received and that were assigned, during the calendar year concerned, to inspect such imports and the facilities in which such imports were handled; and the frequency and effectiveness of such inspections;
     - **(E)** the total volume of eggs and egg products which was imported into the United States during the calendar year concerned from each country, including a separate itemization of the volume of each major category of such imports from each country during such year, and a detailed report of rejections of plants and products because of failure to meet appropriate standards prescribed by this chapter; and
     - **(F)** recommendations for legislation to improve such program.
+
+## Source Credit
+
+*([Pub. L. 91–597, § 26](https://www.govinfo.gov/link/plaw/91/public/597), Dec. 29, 1970, [84 Stat. 1634](https://www.govinfo.gov/link/statute/84/1634); [Pub. L. 103–437, § 8(4)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4588](https://www.govinfo.gov/link/statute/108/4588).)*

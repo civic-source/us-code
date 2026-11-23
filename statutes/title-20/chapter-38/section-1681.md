@@ -3,9 +3,10 @@ title: "Section 1681 - Sex"
 usc_title: 20
 usc_section: "1681"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1681"
-generated_at: "2026-03-30T02:54:48.169Z"
+generated_at: "2026-11-23T20:26:14.669Z"
+status: "active"
 ---
 
 # § 1681. Sex
@@ -28,3 +29,19 @@ generated_at: "2026-03-30T02:54:48.169Z"
   - **(9)** this section shall not apply with respect to any scholarship or other financial assistance awarded by an institution of higher education to any individual because such individual has received such award in any pageant in which the attainment of such award is based upon a combination of factors related to the personal appearance, poise, and talent of such individual and in which participation is limited to individuals of one sex only, so long as such pageant is in compliance with other nondiscrimination provisions of Federal law.
 - **(b)** Nothing contained in subsection (a) of this section shall be interpreted to require any educational institution to grant preferential or disparate treatment to the members of one sex on account of an imbalance which may exist with respect to the total number or percentage of persons of that sex participating in or receiving the benefits of any federally supported program or activity, in comparison with the total number or percentage of persons of that sex in any community, State, section, or other area: Provided , That this subsection shall not be construed to prevent the consideration in any hearing or proceeding under this chapter of statistical evidence tending to show that such an imbalance exists with respect to the participation in, or receipt of the benefits of, any such program or activity by the members of one sex.
 - **(c)** For purposes of this chapter an educational institution means any public or private preschool, elementary, or secondary school, or any institution of vocational, professional, or higher education, except that in the case of an educational institution composed of more than one school, college, or department which are administratively separate units, such term means each such school, college, or department.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 92–318, title IX, § 901](https://www.govinfo.gov/link/plaw/92/public/318), June 23, 1972, [86 Stat. 373](https://www.govinfo.gov/link/statute/86/373); [Pub. L. 93–568, § 3(a)](https://www.govinfo.gov/link/plaw/93/public/568), Dec. 31, 1974, [88 Stat. 1862](https://www.govinfo.gov/link/statute/88/1862); [Pub. L. 94–482, title IV, § 412(a)](https://www.govinfo.gov/link/plaw/94/public/482), Oct. 12, 1976, [90 Stat. 2234](https://www.govinfo.gov/link/statute/90/2234); [Pub. L. 96–88, title III, § 301(a)(1)](https://www.govinfo.gov/link/plaw/96/public/88), title V, § 507, Oct. 17, 1979, [93 Stat. 677](https://www.govinfo.gov/link/statute/93/677), 692; [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095).)*

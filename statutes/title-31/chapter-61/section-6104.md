@@ -3,9 +3,10 @@ title: "Section 6104 - Catalog of Federal domestic assistance programs"
 usc_title: 31
 usc_section: "6104"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 6104"
-generated_at: "2026-03-30T02:55:34.072Z"
+generated_at: "2026-11-23T20:26:51.901Z"
+status: "active"
 ---
 
 # § 6104. Catalog of Federal domestic assistance programs
@@ -28,3 +29,31 @@ generated_at: "2026-03-30T02:55:34.072Z"
   - **(5)** Indian tribe recognized by the United States Government;
   - **(6)** depository library of Government publications; and
   - **(7)** depository designated by the Administrator.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 6104(a) | 31:1705(a). | Dec. 28, 1977 , Pub. L. 95–220, § 6 , 91 Stat. 1616 . |
+| 6104(b) | 31:1705(d). |  |
+| 6104(c) | 31:1705(b), (c). |  |
+| 6104(d) | 31:1705(e). |  |
+
+
+Historical and Revision Notes
+
+6104(a)
+
+Dec. 28, 1977
+
+Pub. L. 95–220, § 6
+
+91 Stat. 1616
+
+6104(b)
+
+6104(c)
+
+6104(d)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 1002](https://www.govinfo.gov/link/statute/96/1002); [Pub. L. 98–169, § 1(2)](https://www.govinfo.gov/link/plaw/98/public/169), 3(e), 4, Nov. 29, 1983, [97 Stat. 1113](https://www.govinfo.gov/link/statute/97/1113), 1114.)*

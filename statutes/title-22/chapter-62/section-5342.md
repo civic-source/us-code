@@ -3,9 +3,10 @@ title: "Section 5342 - Requirement of national treatment in underwriting governm
 usc_title: 22
 usc_section: "5342"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 5342"
-generated_at: "2026-03-30T02:55:05.417Z"
+generated_at: "2026-11-23T20:26:32.559Z"
+status: "active"
 ---
 
 # § 5342. Requirement of national treatment in underwriting government debt instruments
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:05.417Z"
   - **(2)** that country has a bilateral free trade area agreement with the United States which entered into force before January 1, 1987 .
 - **(d)** For purposes of this section, a person is a “person of a foreign country” if that person, or any other person which directly or indirectly owns or controls that person, is a resident of that country, is organized under the laws of that country, or has its principal place of business in that country.
 - **(e)** This section shall take effect 12 months after August 23, 1988 .
+
+## Source Credit
+
+*([Pub. L. 100–418, title III, § 3502](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1386](https://www.govinfo.gov/link/statute/102/1386).)*

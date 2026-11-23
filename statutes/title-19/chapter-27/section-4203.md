@@ -3,9 +3,10 @@ title: "Section 4203 - Congressional oversight, consultations, and access to inf
 usc_title: 19
 usc_section: "4203"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 4203"
-generated_at: "2026-03-30T02:54:24.703Z"
+generated_at: "2026-11-23T20:26:11.123Z"
+status: "active"
 ---
 
 # § 4203. Congressional oversight, consultations, and access to information
@@ -77,3 +78,7 @@ generated_at: "2026-03-30T02:54:24.703Z"
     - **(B)** the sharing of detailed and timely information with each member of an advisory committee regarding negotiations and pertinent documents related to the negotiation (including classified information) on matters relevant to the sectors or functional areas the member represents, and with a designee with proper security clearances of each such member as appropriate.
   - **(3)** The United States Trade Representative shall disseminate the guidelines developed under paragraph (1) to all Federal agencies that could have jurisdiction over laws affected by trade negotiations.
 - **(f)**
+
+## Source Credit
+
+*([Pub. L. 114–26, title I, § 104](https://www.govinfo.gov/link/plaw/114/public/26), June 29, 2015, [129 Stat. 337](https://www.govinfo.gov/link/statute/129/337); [Pub. L. 114–125, title IX, § 914(d)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 274](https://www.govinfo.gov/link/statute/130/274).)*

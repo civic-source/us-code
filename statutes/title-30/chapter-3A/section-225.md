@@ -3,12 +3,17 @@ title: "Section 225 - Condition of lease, forfeiture for violation"
 usc_title: 30
 usc_section: "225"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 225"
-generated_at: "2026-03-30T02:55:29.380Z"
+generated_at: "2026-11-23T20:26:34.925Z"
+status: "active"
 ---
 
 # § 225. Condition of lease, forfeiture for violation
 
 All leases of lands containing oil or gas, made or issued under the provisions of this chapter, shall be subject to the condition that the lessee will, in conducting his explorations and mining operations, use all reasonable precautions to prevent waste of oil or gas developed in the land, or the entrance of water through wells drilled by him to the oil sands or oil-bearing strata, to the destruction or injury of the oil deposits. Violations of the provisions of this section shall constitute grounds for the forfeiture of the lease, to be enforced as provided in this chapter.
 
+
+## Source Credit
+
+*(Feb. 25, 1920, ch. 85, § 16, [41 Stat. 443](https://www.govinfo.gov/link/statute/41/443); Aug. 8, 1946, ch. 916, § 2, [60 Stat. 951](https://www.govinfo.gov/link/statute/60/951).)*

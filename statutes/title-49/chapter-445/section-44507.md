@@ -3,9 +3,10 @@ title: "Section 44507 - Regions and centers"
 usc_title: 49
 usc_section: "44507"
 chapter: 445
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44507"
-generated_at: "2026-03-30T02:56:19.381Z"
+generated_at: "2026-11-23T20:27:35.147Z"
+status: "active"
 ---
 
 # § 44507. Regions and centers
@@ -24,3 +25,28 @@ The Civil Aeromedical Institute established by section 106(j) of this title may�
   - **(3)** make comments to the Administrator on human factors aspects of proposed training programs, equipment requirements, standards, and procedures for aviation personnel;
   - **(4)** advise, assist, and represent the Federal Aviation Administration in the human factors aspects of joint projects between the Administration and the National Aeronautics and Space Administration, other departments, agencies, and instrumentalities of the United States Government, industry, and governments of foreign countries; and
   - **(5)** provide medical consultation services to the Administrator about medical certification of airmen.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 44507 | 49 App.:1353(e). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 312(e); added Nov. 3, 1988 , Pub. L. 100–591, § 5(b) , 102 Stat. 3013 . |
+
+
+Historical and Revision Notes
+
+44507
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Nov. 3, 1988
+
+Pub. L. 100–591, § 5(b)
+
+102 Stat. 3013
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1179](https://www.govinfo.gov/link/statute/108/1179); [Pub. L. 115–254, div. B, title V, § 524(a)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3363](https://www.govinfo.gov/link/statute/132/3363); [Pub. L. 118–63, title II, § 206(h)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1046](https://www.govinfo.gov/link/statute/138/1046).)*

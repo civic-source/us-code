@@ -3,9 +3,10 @@ title: "Section 13344 - Rare earth elements"
 usc_title: 42
 usc_section: "13344"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13344"
-generated_at: "2026-03-30T02:56:11.442Z"
+generated_at: "2026-11-23T20:27:23.481Z"
+status: "active"
 ---
 
 # § 13344. Rare earth elements
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:11.442Z"
     - **(D)** provide for separation of rare earth oxides and refining into rare earth metals at a single site.
   - **(3)** There is authorized to be appropriated to the Secretary to carry out this subsection $140,000,000 for fiscal year 2022, to remain available until expended.
 - **(d)** In this section, the term “critical material” has the meaning given the term in section 1606 of title 30 .
+
+## Source Credit
+
+*([Pub. L. 116–260, div. Z, title VII, § 7001](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2561](https://www.govinfo.gov/link/statute/134/2561); [Pub. L. 117–58, div. D, title II, § 40205](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 960](https://www.govinfo.gov/link/statute/135/960).)*

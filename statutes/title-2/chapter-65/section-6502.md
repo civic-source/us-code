@@ -3,9 +3,10 @@ title: "Section 6502 - Procurement of temporary help"
 usc_title: 2
 usc_section: "6502"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 6502"
-generated_at: "2026-03-30T02:53:04.841Z"
+generated_at: "2026-11-23T20:25:29.073Z"
+status: "active"
 ---
 
 # § 6502. Procurement of temporary help
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:04.841Z"
   - **(1)** Subject to regulations that the Committee on Rules and Administration of the Senate may prescribe, the Secretary of the Senate and the Sergeant at Arms and Doorkeeper of the Senate may procure temporary help services from a private sector source that offers such services. Each procurement of services under this subsection shall be for no longer than 30 days.
   - **(2)** A person performing services procured under paragraph (1) shall not, during the period of the performance of the services, be an employee of the United States or be considered to be an employee of the United States for any purpose.
 - **(b)** This section shall take effect on October 1, 2001 , and shall apply in fiscal year 2002 and successive fiscal years.
+
+## Source Credit
+
+*([Pub. L. 107–68, title I, § 109](https://www.govinfo.gov/link/plaw/107/public/68), Nov. 12, 2001, [115 Stat. 569](https://www.govinfo.gov/link/statute/115/569).)*

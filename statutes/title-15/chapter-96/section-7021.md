@@ -3,9 +3,10 @@ title: "Section 7021 - Transferable records"
 usc_title: 15
 usc_section: "7021"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 7021"
-generated_at: "2026-03-30T02:54:08.218Z"
+generated_at: "2026-11-23T20:26:04.432Z"
+status: "active"
 ---
 
 # § 7021. Transferable records
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:08.218Z"
 - **(e)** Except as otherwise agreed, an obligor under a transferable record has the same rights and defenses as an equivalent obligor under equivalent records or writings under the Uniform Commercial Code.
 - **(f)** If requested by a person against which enforcement is sought, the person seeking to enforce the transferable record shall provide reasonable proof that the person is in control of the transferable record. Proof may include access to the authoritative copy of the transferable record and related business records sufficient to review the terms of the transferable record and to establish the identity of the person having control of the transferable record.
 - **(g)** For purposes of this subsection, all references to the Uniform Commercial Code are to the Uniform Commercial Code as in effect in the jurisdiction the law of which governs the transferable record.
+
+## Source Credit
+
+*([Pub. L. 106–229, title II, § 201](https://www.govinfo.gov/link/plaw/106/public/229), June 30, 2000, [114 Stat. 473](https://www.govinfo.gov/link/statute/114/473).)*

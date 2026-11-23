@@ -3,9 +3,10 @@ title: "Section 100801 - Definitions"
 usc_title: 54
 usc_section: "100801"
 chapter: 1008
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "54 U.S.C. § 100801"
-generated_at: "2026-03-30T02:56:28.413Z"
+generated_at: "2026-11-23T20:27:37.999Z"
+status: "active"
 ---
 
 # § 100801. Definitions
@@ -20,3 +21,13 @@ As used in this chapter:
     - **(A)** national wild and scenic rivers and national trails;
     - **(B)** national heritage areas; and
     - **(C)** affiliated areas administered in connection with the System.
+
+Interpretation
+
+Education
+
+Related areas
+
+## Source Credit
+
+*(Added [Pub. L. 114–289, title III, § 301(a)](https://www.govinfo.gov/link/plaw/114/public/289), Dec. 16, 2016, [130 Stat. 1486](https://www.govinfo.gov/link/statute/130/1486).)*

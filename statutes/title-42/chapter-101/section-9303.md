@@ -3,9 +3,10 @@ title: "Section 9303 - Program activities"
 usc_title: 42
 usc_section: "9303"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9303"
-generated_at: "2026-03-30T02:56:11.352Z"
+generated_at: "2026-11-23T20:27:23.082Z"
+status: "active"
 ---
 
 # § 9303. Program activities
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.352Z"
   - **(3)** safety-related design limitations;
   - **(4)** environmental impacts; and
   - **(5)** limitations on the availability of strategic elements, such as helium, lithium, and special metals.
+
+## Source Credit
+
+*([Pub. L. 96–386, § 4](https://www.govinfo.gov/link/plaw/96/public/386), Oct. 7, 1980, [94 Stat. 1540](https://www.govinfo.gov/link/statute/94/1540).)*

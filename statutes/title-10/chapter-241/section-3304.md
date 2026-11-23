@@ -3,9 +3,10 @@ title: "Section 3304 - Post-award debriefings"
 usc_title: 10
 usc_section: "3304"
 chapter: 241
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 3304"
-generated_at: "2026-03-30T02:53:38.191Z"
+generated_at: "2026-11-23T20:25:51.823Z"
+status: "active"
 ---
 
 # § 3304. Post-award debriefings
@@ -28,3 +29,23 @@ generated_at: "2026-03-30T02:53:38.191Z"
   - **(1)** the information provided in debriefings under this paragraph regarding the offer of the contractor awarded the contract; and
   - **(2)** the same information that would have been provided to the original offerors.
 - **(g)** The contracting officer shall include a summary of any debriefing conducted under this section in the contract file.
+
+Request for Debriefing
+
+When Debriefing to Be Conducted
+
+Information to Be Provided
+
+Information Not to Be Included
+
+Inclusion of Statement in Solicitation
+
+After Successful Protest
+
+Summary to Be Included in File
+
+“Not later than 180 days after the date of the enactment of this Act [ Dec. 12, 2017 ], the Secretary of Defense shall revise the Department of Defense Supplement to the Federal Acquisition Regulation to require that all required post-award debriefings, while protecting the confidential and proprietary information of other offerors, include, at a minimum, the following:
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1816(c)(2)(D)](https://www.govinfo.gov/link/plaw/116/public/283), (6), Jan. 1, 2021, [134 Stat. 4182](https://www.govinfo.gov/link/statute/134/4182), 4183; [Pub. L. 118–31, div. A, title XVIII, § 1801(a)(26)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 684](https://www.govinfo.gov/link/statute/137/684).)*

@@ -3,9 +3,10 @@ title: "Section 18951 - International standards development"
 usc_title: 42
 usc_section: "18951"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18951"
-generated_at: "2026-03-30T02:56:11.534Z"
+generated_at: "2026-11-23T20:27:23.840Z"
+status: "active"
 ---
 
 # § 18951. International standards development
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:56:11.534Z"
       - **(ii)** the international standards organizations participated in; and
       - **(iii)** the technical areas covered by the activities.
     - **(B)** If determined effective, a plan for permanent implementation of the pilot program.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title II, § 10245](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1488](https://www.govinfo.gov/link/statute/136/1488).)*

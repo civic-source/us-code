@@ -3,9 +3,10 @@ title: "Section 10606 - Projects and grants"
 usc_title: 22
 usc_section: "10606"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 10606"
-generated_at: "2026-03-30T02:55:05.478Z"
+generated_at: "2026-11-23T20:26:32.829Z"
+status: "active"
 ---
 
 # § 10606. Projects and grants
@@ -77,3 +78,7 @@ generated_at: "2026-03-30T02:55:05.478Z"
     - **(D)** shall be terminated if the Board determines that the project is not—
       - **(i)** meeting applicable requirements under this chapter; or
       - **(ii)** making progress in achieving the key performance indicators defined in the grant agreement.
+
+## Source Credit
+
+*([Pub. L. 118–159, div. E, title LI, § 5106](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2417](https://www.govinfo.gov/link/statute/138/2417).)*

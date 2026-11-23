@@ -3,9 +3,10 @@ title: "Section 7481 - Findings and declaration of policy"
 usc_title: 7
 usc_section: "7481"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7481"
-generated_at: "2026-03-30T02:53:42.454Z"
+generated_at: "2026-11-23T20:25:41.791Z"
+status: "active"
 ---
 
 # § 7481. Findings and declaration of policy
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:42.454Z"
 - **(d)** This subchapter treats processors equitably. Nothing in this subchapter—
   - **(1)** provides for the imposition of a trade barrier to the entry into the United States of imported popcorn for the domestic market; or
   - **(2)** provides for the control of production or otherwise limits the right of any individual processor to produce popcorn.
+
+## Source Credit
+
+*([Pub. L. 104–127, title V, § 572](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1074](https://www.govinfo.gov/link/statute/110/1074).)*

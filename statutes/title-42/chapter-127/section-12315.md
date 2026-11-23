@@ -3,9 +3,10 @@ title: "Section 12315 - Administration"
 usc_title: 42
 usc_section: "12315"
 chapter: 127
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12315"
-generated_at: "2026-03-30T02:56:11.412Z"
+generated_at: "2026-11-23T20:27:23.352Z"
+status: "active"
 ---
 
 # § 12315. Administration
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.412Z"
   - **(1)** Subject to agreements made between the Commissioner and the head of such agency or organization, in carrying out the duties referred to in subsection (a) the Commissioner may utilize the services and facilities of any agency of the Federal Government and of any other public or nonprofit agency or organizations. 1 1 So in original. Probably should be “organization.”
   - **(2)** The Commissioner may pay for such services and facilities, in advance or by way of reimbursement, as may be provided in such agreement.
 - **(c)** Of the aggregate amount appropriated to carry out this chapter in any fiscal year, the Secretary may reserve not more than 10 percent for salaries and expenses of the Administration on Children, Youth, and Families related to the administration of this chapter.
+
+## Source Credit
+
+*([Pub. L. 101–501, title IX, § 919](https://www.govinfo.gov/link/plaw/101/public/501), Nov. 3, 1990, [104 Stat. 1267](https://www.govinfo.gov/link/statute/104/1267).)*

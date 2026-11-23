@@ -3,9 +3,10 @@ title: "Section 4559 - Public participation in rulemaking"
 usc_title: 50
 usc_section: "4559"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4559"
-generated_at: "2026-03-30T02:56:26.276Z"
+generated_at: "2026-11-23T20:27:31.115Z"
+status: "active"
 ---
 
 # § 4559. Public participation in rulemaking
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:26.276Z"
     - **(C)** the publication of such temporary regulation is accompanied by the finding made under subparagraph (A) (and a brief statement of the reasons for such finding) and an opportunity for public comment is provided for not less than 30 days before any regulation becomes final.
   - **(3)** All comments received during the public comment period specified pursuant to paragraph (1) or (2) shall be considered and the publication of the final regulation shall contain written responses to such comments.
 - **(c)** Any procurement policy, regulation, procedure, or form (including any amendment or modification of any such policy, regulation, procedure, or form) issued under this chapter shall be subject to section 1707 of title 41 .
+
+## Source Credit
+
+*(Sept. 8, 1950, ch. 932, title VII, § 709, [64 Stat. 819](https://www.govinfo.gov/link/statute/64/819); [Pub. L. 102–558, title I, § 136(a)](https://www.govinfo.gov/link/plaw/102/public/558), Oct. 28, 1992, [106 Stat. 4216](https://www.govinfo.gov/link/statute/106/4216).)*

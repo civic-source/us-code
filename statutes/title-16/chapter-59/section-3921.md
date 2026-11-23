@@ -3,9 +3,10 @@ title: "Section 3921 - National wetlands priority conservation plan"
 usc_title: 16
 usc_section: "3921"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3921"
-generated_at: "2026-03-30T02:54:23.038Z"
+generated_at: "2026-11-23T20:26:20.724Z"
+status: "active"
 ---
 
 # § 3921. National wetlands priority conservation plan
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:23.038Z"
     - **(C)** surface and ground water quality and quantity, and flood control;
     - **(D)** outdoor recreation; and
     - **(E)** other areas or concerns the Secretary considers appropriate.
+
+## Source Credit
+
+*([Pub. L. 99–645, title III, § 301](https://www.govinfo.gov/link/plaw/99/public/645), Nov. 10, 1986, [100 Stat. 3586](https://www.govinfo.gov/link/statute/100/3586).)*

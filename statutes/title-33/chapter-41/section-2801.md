@@ -3,9 +3,10 @@ title: "Section 2801 - Purposes"
 usc_title: 33
 usc_section: "2801"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2801"
-generated_at: "2026-03-30T02:55:41.134Z"
+generated_at: "2026-11-23T20:26:54.228Z"
+status: "active"
 ---
 
 # § 2801. Purposes
@@ -20,3 +21,7 @@ The purposes of this chapter are to—
   - **(6)** establish a coastal environment information program to distribute coastal monitoring information;
   - **(7)** provide state 1 1 So in original. Probably should be capitalized. programs authorized under the Coastal Zone Management Act of 1972 ( 16 U.S.C. 1451 et seq.) with information necessary to design land use plans and coastal zone regulations that will contribute to the protection of coastal ecosystems; and
   - **(8)** provide certain water pollution control programs authorized under the Federal Water Pollution Control Act ( 33 U.S.C. 1251 et seq.) with information necessary to design and implement effective coastal water pollution controls.
+
+## Source Credit
+
+*([Pub. L. 92–532, title V, § 501](https://www.govinfo.gov/link/plaw/92/public/532), as added [Pub. L. 102–567, title V, § 501](https://www.govinfo.gov/link/plaw/102/public/567), Oct. 29, 1992, [106 Stat. 4293](https://www.govinfo.gov/link/statute/106/4293).)*

@@ -3,12 +3,17 @@ title: "Section 2407 - General Counsel"
 usc_title: 50
 usc_section: "2407"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 2407"
-generated_at: "2026-03-30T02:56:26.224Z"
+generated_at: "2026-11-23T20:27:30.846Z"
+status: "active"
 ---
 
 # § 2407. General Counsel
 
 There is a General Counsel of the Administration. The General Counsel is the chief legal officer of the Administration.
 
+
+## Source Credit
+
+*([Pub. L. 106–65, div. C, title XXXII, § 3217](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 960](https://www.govinfo.gov/link/statute/113/960).)*

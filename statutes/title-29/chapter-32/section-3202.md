@@ -3,9 +3,10 @@ title: "Section 3202 - Standards of conduct"
 usc_title: 29
 usc_section: "3202"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3202"
-generated_at: "2026-03-30T02:55:18.755Z"
+generated_at: "2026-11-23T20:26:38.111Z"
+status: "active"
 ---
 
 # § 3202. Standards of conduct
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:18.755Z"
       - **(i)** The term “controlled substance” has the meaning given the term in section 802 of title 21 .
       - **(ii)** The term “zero tolerance policy” means a policy under which an enrollee shall be automatically dismissed from the Job Corps after a determination by the director that the enrollee has carried out an action described in subparagraph (A).
 - **(c)** A disciplinary measure taken by a director under this section shall be subject to expeditious appeal in accordance with procedures established by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 152](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1549](https://www.govinfo.gov/link/statute/128/1549).)*

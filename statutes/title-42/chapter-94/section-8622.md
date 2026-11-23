@@ -3,9 +3,10 @@ title: "Section 8622 - Definitions"
 usc_title: 42
 usc_section: "8622"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8622"
-generated_at: "2026-03-30T02:56:11.345Z"
+generated_at: "2026-11-23T20:27:23.051Z"
+status: "active"
 ---
 
 # § 8622. Definitions
@@ -30,3 +31,7 @@ As used in this subchapter:
   - **(9)** The term “Secretary” means the Secretary of Health and Human Services.
   - **(10)** The term “State” means each of the several States and the District of Columbia.
   - **(11)** The term “State median income” means the State median income promulgated by the Secretary in accordance with procedures established under section 1397a(a)(6) of this title (as such procedures were in effect on August 12, 1981 ) and adjusted, in accordance with regulations prescribed by the Secretary, to take into account the number of individuals in the household.
+
+## Source Credit
+
+*([Pub. L. 97–35, title XXVI, § 2603](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 894](https://www.govinfo.gov/link/statute/95/894); [Pub. L. 97–115, § 16](https://www.govinfo.gov/link/plaw/97/public/115), Dec. 29, 1981, [95 Stat. 1609](https://www.govinfo.gov/link/statute/95/1609); [Pub. L. 98–558, title VI, § 602](https://www.govinfo.gov/link/plaw/98/public/558), Oct. 30, 1984, [98 Stat. 2890](https://www.govinfo.gov/link/statute/98/2890); [Pub. L. 103–252, title III](https://www.govinfo.gov/link/plaw/103/public/252), §§ 304(b), 311(c)(2), May 18, 1994, [108 Stat. 658](https://www.govinfo.gov/link/statute/108/658), 662; [Pub. L. 105–285, title III](https://www.govinfo.gov/link/plaw/105/public/285), §§ 303, 304(a), Oct. 27, 1998, [112 Stat. 2756](https://www.govinfo.gov/link/statute/112/2756); [Pub. L. 110–234, title IV, § 4002(b)(1)(A)](https://www.govinfo.gov/link/plaw/110/public/234), (B), (2)(EE), May 22, 2008, [122 Stat. 1095–1097](https://www.govinfo.gov/link/statute/122/1095); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, § 4002(b)(1)(A), (B), (2)(EE), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1857, 1859.)*

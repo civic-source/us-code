@@ -3,9 +3,10 @@ title: "Section 3273 - Offenses committed by certain United States personnel sta
 usc_title: 18
 usc_section: "3273"
 chapter: 212
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 3273"
-generated_at: "2026-03-30T02:54:16.515Z"
+generated_at: "2026-11-23T20:26:08.700Z"
+status: "active"
 ---
 
 # § 3273. Offenses committed by certain United States personnel stationed in Canada in furtherance of border security initiatives
@@ -15,3 +16,11 @@ generated_at: "2026-03-30T02:54:16.515Z"
   - **(1)** being employed as a civilian employee, a contractor (including a subcontractor at any tier), or an employee of a contractor (or a subcontractor at any tier) of the Department of Homeland Security or the Department of Justice;
   - **(2)** being present or residing in Canada in connection with such employment; and
   - **(3)** not being a national of or ordinarily resident in Canada.
+
+In General
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 114–316, § 2(a)(2)](https://www.govinfo.gov/link/plaw/114/public/316), Dec. 16, 2016, [130 Stat. 1593](https://www.govinfo.gov/link/statute/130/1593).)*

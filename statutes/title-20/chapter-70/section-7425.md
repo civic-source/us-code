@@ -3,9 +3,10 @@ title: "Section 7425 - Authorized services and activities"
 usc_title: 20
 usc_section: "7425"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 7425"
-generated_at: "2026-03-30T02:54:48.212Z"
+generated_at: "2026-11-23T20:26:14.908Z"
+status: "active"
 ---
 
 # § 7425. Authorized services and activities
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:48.212Z"
   - **(3)** the local educational agency identifies in its application how the use of such funds in a schoolwide program will produce benefits to Indian students that would not be achieved if the funds were not used in a schoolwide program.
 - **(d)** Not more than 5 percent of the funds provided to a grantee under this subpart for any fiscal year may be used for administrative purposes.
 - **(e)** Funds provided to a grantee under this subpart may not be used for long-distance travel expenses for training activities that are available locally or regionally.
+
+## Source Credit
+
+*([Pub. L. 89–10, title VI, § 6115](https://www.govinfo.gov/link/plaw/89/public/10), formerly title VII, § 7115, as added [Pub. L. 107–110, title VII, § 701](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1912](https://www.govinfo.gov/link/statute/115/1912); amended [Pub. L. 109–270, § 2(f)(4)](https://www.govinfo.gov/link/plaw/109/public/270), Aug. 12, 2006, [120 Stat. 747](https://www.govinfo.gov/link/statute/120/747), renumbered title VI, § 6115, and amended [Pub. L. 114–95, title VI](https://www.govinfo.gov/link/plaw/114/public/95), §§ 6001(a), (b)(1), (5), 6002(g), Dec. 10, 2015, [129 Stat. 2046](https://www.govinfo.gov/link/statute/129/2046), 2052; [Pub. L. 115–224, title III, § 302(2)](https://www.govinfo.gov/link/plaw/115/public/224), July 31, 2018, [132 Stat. 1623](https://www.govinfo.gov/link/statute/132/1623).)*

@@ -3,9 +3,10 @@ title: "Section 9652 - Performance measures, evaluation, and learning"
 usc_title: 22
 usc_section: "9652"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9652"
-generated_at: "2026-03-30T02:55:05.470Z"
+generated_at: "2026-11-23T20:26:32.792Z"
+status: "active"
 ---
 
 # § 9652. Performance measures, evaluation, and learning
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:55:05.470Z"
   - **(4)** The Corporation may not reduce the staffing, funding, or organizational independence of the units or personnel responsible for fulfilling the obligations under this section unless—
     - **(A)** the Chief Executive Officer certifies in writing to the appropriate congressional committees that such reductions are necessary due to operational exigency, statutory change, or budgetary shortfall; and
     - **(B)** the Corporation includes in its annual report a detailed explanation of the impact of any such changes on its capacity to analyze and report on portfolio performance.
+
+## Source Credit
+
+*([Pub. L. 115–254, div. F, title IV, § 1442](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3504](https://www.govinfo.gov/link/statute/132/3504); [Pub. L. 119–60, div. H, title LXXXVII, § 8754](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1964](https://www.govinfo.gov/link/statute/139/1964).)*

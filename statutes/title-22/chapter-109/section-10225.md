@@ -3,9 +3,10 @@ title: "Section 10225 - Sunset"
 usc_title: 22
 usc_section: "10225"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 10225"
-generated_at: "2026-03-30T02:55:05.475Z"
+generated_at: "2026-11-23T20:26:32.816Z"
+status: "active"
 ---
 
 # § 10225. Sunset
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:05.475Z"
     - **(A)** a notice of and justification for the termination; and
     - **(B)** a notice that the individual is not engaging in the activity or is no longer occupying the position that was the basis for the sanctions or has taken significant verifiable steps toward stopping the activity.
   - **(2)** The notice required by paragraph (1) shall be submitted in unclassified form but may include a classified annex.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. E, title LV, § 5574](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3368](https://www.govinfo.gov/link/statute/136/3368).)*

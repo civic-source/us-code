@@ -3,9 +3,10 @@ title: "Section 802 - Definitions"
 usc_title: 30
 usc_section: "802"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 802"
-generated_at: "2026-03-30T02:55:29.387Z"
+generated_at: "2026-11-23T20:26:34.949Z"
+status: "active"
 ---
 
 # § 802. Definitions
@@ -29,3 +30,7 @@ For the purpose of this chapter, the term—
 - **(m)** “Panel” means the Interim Compliance Panel established by this chapter; and
 - **(n)** “Administration” means the Mine Safety and Health Administration in the Department of Labor.
 - **(o)** “Commission” means the Federal Mine Safety and Health Review Commission.
+
+## Source Credit
+
+*([Pub. L. 91–173, § 3](https://www.govinfo.gov/link/plaw/91/public/173), Dec. 30, 1969, [83 Stat. 743](https://www.govinfo.gov/link/statute/83/743); [Pub. L. 95–164, title I, § 102(b)](https://www.govinfo.gov/link/plaw/95/public/164), Nov. 9, 1977, [91 Stat. 1290](https://www.govinfo.gov/link/statute/91/1290).)*

@@ -3,9 +3,10 @@ title: "Section 5101 - Purposes and methods for establishing a mortgage licensin
 usc_title: 12
 usc_section: "5101"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5101"
-generated_at: "2026-03-30T02:53:53.523Z"
+generated_at: "2026-11-23T20:25:59.443Z"
+status: "active"
 ---
 
 # § 5101. Purposes and methods for establishing a mortgage licensing system and registry
@@ -22,3 +23,7 @@ In order to increase uniformity, reduce regulatory burden, enhance consumer prot
   - **(8)** Establishes a means by which residential mortgage loan originators would, to the greatest extent possible, be required to act in the best interests of the consumer.
   - **(9)** Facilitates responsible behavior in the subprime mortgage market place and provides comprehensive training and examination requirements related to subprime mortgage lending.
   - **(10)** Facilitates the collection and disbursement of consumer complaints on behalf of State and Federal mortgage regulators.
+
+## Source Credit
+
+*([Pub. L. 110–289, div. A, title V, § 1502](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2810](https://www.govinfo.gov/link/statute/122/2810).)*

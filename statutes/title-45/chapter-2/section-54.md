@@ -3,12 +3,17 @@ title: "Section 54 - Assumption of risks of employment"
 usc_title: 45
 usc_section: "54"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 54"
-generated_at: "2026-03-30T02:55:56.540Z"
+generated_at: "2026-11-23T20:27:05.211Z"
+status: "active"
 ---
 
 # § 54. Assumption of risks of employment
 
 In any action brought against any common carrier under or by virtue of any of the provisions of this chapter to recover damages for injuries to, or the death of, any of its employees, such employee shall not be held to have assumed the risks of his employment in any case where such injury or death resulted in whole or in part from the negligence of any of the officers, agents, or employees of such carrier; and no employee shall be held to have assumed the risks of his employment in any case where the violation by such common carrier of any statute enacted for the safety of employees contributed to the injury or death of such employee.
 
+
+## Source Credit
+
+*(Apr. 22, 1908, ch. 149, § 4, [35 Stat. 66](https://www.govinfo.gov/link/statute/35/66); Aug. 11, 1939, ch. 685, § 1, [53 Stat. 1404](https://www.govinfo.gov/link/statute/53/1404).)*

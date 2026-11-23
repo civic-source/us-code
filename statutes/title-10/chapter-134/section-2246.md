@@ -3,9 +3,10 @@ title: "Section 2246 - Authorization of certain support for military service aca
 usc_title: 10
 usc_section: "2246"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2246"
-generated_at: "2026-03-30T02:53:38.151Z"
+generated_at: "2026-11-23T20:25:51.517Z"
+status: "active"
 ---
 
 # § 2246. Authorization of certain support for military service academy foundations
@@ -27,3 +28,15 @@ generated_at: "2026-03-30T02:53:38.151Z"
     - **(D)** Institutional development.
     - **(E)** Athletics.
   - **(2)** The term “Service Academy” has the meaning given such term in section 347 of this title .
+
+Authority
+
+Limitations
+
+Briefing
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. A, title V, § 551(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2591](https://www.govinfo.gov/link/statute/136/2591).)*

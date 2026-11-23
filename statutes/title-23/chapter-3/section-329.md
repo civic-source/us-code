@@ -3,9 +3,10 @@ title: "Section 329 - Eligibility for control of noxious weeds and aquatic noxio
 usc_title: 23
 usc_section: "329"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 329"
-generated_at: "2026-03-30T02:55:12.568Z"
+generated_at: "2026-11-23T20:26:23.869Z"
+status: "active"
 ---
 
 # § 329. Eligibility for control of noxious weeds and aquatic noxious weeds and establishment of native species
@@ -22,3 +23,55 @@ generated_at: "2026-03-30T02:55:12.568Z"
 - **(c)**
   - **(1)** Subject to paragraph (2), an activity described in subsection (a) may be carried out concurrently with, in advance of, or following the construction of a project funded under this title.
   - **(2)** An activity described in subsection (a) may be carried out in advance of construction of a project only if the activity is carried out in accordance with all applicable requirements of Federal law (including regulations) and State transportation planning processes.
+
+In General
+
+Included Activities
+
+Contributions.—
+
+In general
+
+Condition for activities conducted in advance of project construction
+
+Definitions
+
+Invasive plant
+
+Program
+
+Transportation corridor
+
+Establishment
+
+Application
+
+Eligible Activities.—
+
+In general
+
+Prioritization of projects
+
+Prohibition on certain uses of funds
+
+Limitation
+
+Administrative and indirect costs
+
+Requirements.—
+
+Coordination
+
+Annual report
+
+Federal Share.—
+
+In general
+
+Certain funds counted toward non-federal share
+
+Funding
+
+## Source Credit
+
+*(Added [Pub. L. 109–59, title VI, § 6006(b)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1872](https://www.govinfo.gov/link/statute/119/1872); amended [Pub. L. 114–94, div. A, title I, § 1415(b)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1421](https://www.govinfo.gov/link/statute/129/1421).)*

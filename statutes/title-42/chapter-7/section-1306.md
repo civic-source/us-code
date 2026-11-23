@@ -3,9 +3,10 @@ title: "Section 1306 - Disclosure of information in possession of Social Securit
 usc_title: 42
 usc_section: "1306"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1306"
-generated_at: "2026-03-30T02:56:10.902Z"
+generated_at: "2026-11-23T20:27:20.968Z"
+status: "active"
 ---
 
 # § 1306. Disclosure of information in possession of Social Security Administration or Department of Health and Human Services
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:10.902Z"
   - **(1)** if the Secretary provides the Commissioner with the information described in section 6103(k)(15) of the Internal Revenue Code of 1986 with respect to any individual, the Commissioner shall indicate to the Secretary as to whether such individual receives disability insurance benefits under section 423 of this title or supplemental security income benefits under subchapter XVI of this chapter (including State supplementary payments of the type referred to in section 1382e(a) of this title or payments of the type described in section 212(a) of Public Law 93–66 [ 42 U.S.C. 1382 note]);
   - **(2)** appropriate safeguards are included to assure that the indication described in paragraph (1) will be used solely for the purpose of determining if tax receivables involving such individual are not eligible for collection pursuant to a qualified tax collection contract by reason of section 6306(d)(3)(E) of the Internal Revenue Code of 1986; and
   - **(3)** the Secretary shall pay the Commissioner of Social Security the full costs (including systems and administrative costs) of providing the indication described in paragraph (1).
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XI, § 1106, as added Aug. 10, 1939, ch. 666, title VIII, § 802, [53 Stat. 1398](https://www.govinfo.gov/link/statute/53/1398); amended Aug. 28, 1950, ch. 809, title IV, § 403(d), [64 Stat. 559](https://www.govinfo.gov/link/statute/64/559); [Pub. L. 85–840, title VII, § 701](https://www.govinfo.gov/link/plaw/85/public/840), Aug. 28, 1958, [72 Stat. 1055](https://www.govinfo.gov/link/statute/72/1055); [Pub. L. 89–97, title I, § 108(c)](https://www.govinfo.gov/link/plaw/89/public/97), title III, § 340, July 30, 1965, [79 Stat. 339](https://www.govinfo.gov/link/statute/79/339), 411; [Pub. L. 90–248, title I, § 168](https://www.govinfo.gov/link/plaw/90/public/248), title II, § 241(c)(1), Jan. 2, 1968, [81 Stat. 875](https://www.govinfo.gov/link/statute/81/875), 917; [Pub. L. 92–603, title II, § 249C(a)](https://www.govinfo.gov/link/plaw/92/public/603), Oct. 30, 1972, [86 Stat. 1428](https://www.govinfo.gov/link/statute/86/1428); [Pub. L. 93–647, § 101(d)](https://www.govinfo.gov/link/plaw/93/public/647), Jan. 4, 1975, [88 Stat. 2360](https://www.govinfo.gov/link/statute/88/2360); [Pub. L. 97–35, title XXII, § 2207](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 838](https://www.govinfo.gov/link/statute/95/838); [Pub. L. 98–369, div. B, title VI, § 2663(j)(2)(D)(ii)](https://www.govinfo.gov/link/plaw/98/public/369), (l), July 18, 1984, [98 Stat. 1170](https://www.govinfo.gov/link/statute/98/1170), 1171; [Pub. L. 103–296, title I, § 108(b)(2)](https://www.govinfo.gov/link/plaw/103/public/296) –(5), title III, §§ 311(a), 313(a), Aug. 15, 1994, [108 Stat. 1481](https://www.govinfo.gov/link/statute/108/1481), 1482, 1525, 1530; [Pub. L. 116–260, div. N, title II, § 283(a)](https://www.govinfo.gov/link/plaw/116/public/260), div. FF, title I, § 102(a), Dec. 27, 2020, [134 Stat. 1984](https://www.govinfo.gov/link/statute/134/1984), 3083.)*

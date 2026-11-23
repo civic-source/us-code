@@ -3,9 +3,10 @@ title: "Section 17932 - Notification in the case of breach"
 usc_title: 42
 usc_section: "17932"
 chapter: 156
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17932"
-generated_at: "2026-03-30T02:56:11.510Z"
+generated_at: "2026-11-23T20:27:23.765Z"
+status: "active"
 ---
 
 # § 17932. Notification in the case of breach
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:56:11.510Z"
     - **(A)** the number and nature of such breaches; and
     - **(B)** actions taken in response to such breaches.
 - **(j)** To carry out this section, the Secretary of Health and Human Services shall promulgate interim final regulations by not later than the date that is 180 days after February 17, 2009 . The provisions of this section shall apply to breaches that are discovered on or after the date that is 30 days after the date of publication of such interim final regulations.
+
+## Source Credit
+
+*([Pub. L. 111–5, div. A, title XIII, § 13402](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 260](https://www.govinfo.gov/link/statute/123/260).)*

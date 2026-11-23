@@ -3,9 +3,10 @@ title: "Section 1904 - Certificates"
 usc_title: 33
 usc_section: "1904"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1904"
-generated_at: "2026-03-30T02:55:41.110Z"
+generated_at: "2026-11-23T20:26:54.100Z"
+status: "active"
 ---
 
 # § 1904. Certificates
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:41.110Z"
 - **(f)** If a ship is under a detention order under this section, the Secretary may refuse or revoke the clearance required by section 60105 of title 46 .
 - **(g)** A person whose ship is subject to a detention order under this section may petition the Secretary, in the manner prescribed by regulation, to review the detention order. Upon receipt of a petition under this subsection, the Secretary shall affirm, modify, or withdraw the detention order within the time prescribed by regulation.
 - **(h)** A ship unreasonably detained or delayed by the Secretary acting under the authority of this chapter is entitled to compensation for any loss or damage suffered thereby.
+
+## Source Credit
+
+*([Pub. L. 96–478, § 5](https://www.govinfo.gov/link/plaw/96/public/478), Oct. 21, 1980, [94 Stat. 2298](https://www.govinfo.gov/link/statute/94/2298); [Pub. L. 110–280, § 6](https://www.govinfo.gov/link/plaw/110/public/280), July 21, 2008, [122 Stat. 2614](https://www.govinfo.gov/link/statute/122/2614); [Pub. L. 115–232, div. C, title XXXV, § 3548(c)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2328](https://www.govinfo.gov/link/statute/132/2328).)*

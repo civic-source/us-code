@@ -3,9 +3,10 @@ title: "Section 354 - Veterinary feed directive drugs"
 usc_title: 21
 usc_section: "354"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 354"
-generated_at: "2026-03-30T02:54:54.232Z"
+generated_at: "2026-11-23T20:26:27.564Z"
+status: "active"
 ---
 
 # § 354. Veterinary feed directive drugs
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:54.232Z"
     - **(C)** Any person who distributes animal feed bearing or containing a veterinary feed directive drug shall upon first engaging in such distribution notify the Secretary of that person’s name and place of business. The failure to provide such notification shall be deemed to be an act which results in the drug being misbranded.
 - **(b)** A veterinary feed directive drug and any feed bearing or containing a veterinary feed directive drug shall be deemed to be misbranded if their labeling fails to bear such cautionary statement and such other information as the Secretary may by general regulation or by order prescribe, or their advertising fails to conform to the conditions and indications for use published pursuant to section 360b(i) of this title , or the index listing pursuant to section 360ccc–1(e) of this title or fails to contain the general cautionary statement prescribed by the Secretary.
 - **(c)** Neither a drug subject to this section, nor animal feed bearing or containing such a drug, shall be deemed to be a prescription article under any Federal or State law.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 504, as added [Pub. L. 104–250, § 5(b)](https://www.govinfo.gov/link/plaw/104/public/250), Oct. 9, 1996, [110 Stat. 3155](https://www.govinfo.gov/link/statute/110/3155); amended [Pub. L. 108–282, title I, § 102(b)(5)(G)](https://www.govinfo.gov/link/plaw/108/public/282), (H), Aug. 2, 2004, [118 Stat. 903](https://www.govinfo.gov/link/statute/118/903).)*

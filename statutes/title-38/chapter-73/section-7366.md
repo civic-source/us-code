@@ -3,9 +3,10 @@ title: "Section 7366 - Accountability and oversight"
 usc_title: 38
 usc_section: "7366"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7366"
-generated_at: "2026-03-30T02:55:53.529Z"
+generated_at: "2026-11-23T20:27:02.011Z"
+status: "active"
 ---
 
 # § 7366. Accountability and oversight
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:53.529Z"
     - **(B)** the amount expended for direct support of research and the amount expended for direct support of education; and
     - **(C)** if the amount expended with respect to any payee exceeded $50,000, information that identifies the payee.
   - **(4)** The amount expended by each corporation during the year for travel conducted in conjunction with research and the amount expended for travel in conjunction with education.
+
+## Source Credit
+
+*(Added [Pub. L. 100–322, title II, § 204(a)](https://www.govinfo.gov/link/plaw/100/public/322), May 20, 1988, [102 Stat. 511](https://www.govinfo.gov/link/statute/102/511), § 4166; renumbered § 7366 and amended [Pub. L. 102–40, title IV](https://www.govinfo.gov/link/plaw/102/public/40), §§ 401(a)(4)(B), 403(a)(1), (2), May 7, 1991, [105 Stat. 221](https://www.govinfo.gov/link/statute/105/221), 239; [Pub. L. 104–262, title III, § 343(c)](https://www.govinfo.gov/link/plaw/104/public/262) –(e), Oct. 9, 1996, [110 Stat. 3207](https://www.govinfo.gov/link/statute/110/3207); [Pub. L. 106–117, title II, § 204(e)](https://www.govinfo.gov/link/plaw/106/public/117), Nov. 30, 1999, [113 Stat. 1563](https://www.govinfo.gov/link/statute/113/1563); [Pub. L. 107–103, title V, § 509(f)](https://www.govinfo.gov/link/plaw/107/public/103), Dec. 27, 2001, [115 Stat. 997](https://www.govinfo.gov/link/statute/115/997); [Pub. L. 108–170, title IV, § 402(b)](https://www.govinfo.gov/link/plaw/108/public/170), Dec. 6, 2003, [117 Stat. 2062](https://www.govinfo.gov/link/statute/117/2062); [Pub. L. 111–163, title VIII, § 806](https://www.govinfo.gov/link/plaw/111/public/163), May 5, 2010, [124 Stat. 1179](https://www.govinfo.gov/link/statute/124/1179); [Pub. L. 117–286, § 4(b)(61)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4350](https://www.govinfo.gov/link/statute/136/4350).)*

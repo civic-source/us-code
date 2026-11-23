@@ -3,9 +3,10 @@ title: "Section 6271 - International oil allocations"
 usc_title: 42
 usc_section: "6271"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6271"
-generated_at: "2026-03-30T02:56:11.244Z"
+generated_at: "2026-11-23T20:27:22.592Z"
+status: "active"
 ---
 
 # § 6271. International oil allocations
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.244Z"
 - **(e)** No rule under this section may be put into effect unless—
   - **(1)** an international energy supply emergency, as defined in the first sentence of section 6272(k)(1) of this title , is in effect; and
   - **(2)** the allocation of available oil referred to in chapter III of the international energy program has been activated pursuant to chapter IV of such program.
+
+## Source Credit
+
+*([Pub. L. 94–163, title II, § 251](https://www.govinfo.gov/link/plaw/94/public/163), Dec. 22, 1975, [89 Stat. 894](https://www.govinfo.gov/link/statute/89/894); [Pub. L. 97–229, § 2(b)(1)](https://www.govinfo.gov/link/plaw/97/public/229), Aug. 3, 1982, [96 Stat. 248](https://www.govinfo.gov/link/statute/96/248); [Pub. L. 105–177, § 1(3)](https://www.govinfo.gov/link/plaw/105/public/177), June 1, 1998, [112 Stat. 105](https://www.govinfo.gov/link/statute/112/105).)*

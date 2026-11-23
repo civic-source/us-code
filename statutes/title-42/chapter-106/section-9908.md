@@ -3,9 +3,10 @@ title: "Section 9908 - Application and plan"
 usc_title: 42
 usc_section: "9908"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9908"
-generated_at: "2026-03-30T02:56:11.377Z"
+generated_at: "2026-11-23T20:27:23.189Z"
+status: "active"
 ---
 
 # § 9908. Application and plan
@@ -62,3 +63,7 @@ generated_at: "2026-03-30T02:56:11.377Z"
   - **(1)** The chief executive officer of each State may revise any plan prepared under this section and shall submit the revised plan to the Secretary.
   - **(2)** Each plan or revised plan prepared under this section shall be made available for public inspection within the State in such a manner as will facilitate review of, and comment on, the plan.
 - **(f)** For fiscal year 2000, to be eligible to receive a grant or allotment under section 9905 or 9906 of this title, a State shall prepare and submit to the Secretary an application and State plan in accordance with the provisions of this chapter (as in effect on the day before October 27, 1998 ), rather than the provisions of subsections (a) through (c) relating to applications and plans.
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 676](https://www.govinfo.gov/link/plaw/97/public/35), as added [Pub. L. 105–285, title II, § 201](https://www.govinfo.gov/link/plaw/105/public/285), Oct. 27, 1998, [112 Stat. 2735](https://www.govinfo.gov/link/statute/112/2735); amended [Pub. L. 113–128, title V, § 512(f)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1707](https://www.govinfo.gov/link/statute/128/1707).)*

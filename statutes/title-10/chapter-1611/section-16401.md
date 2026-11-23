@@ -3,9 +3,10 @@ title: "Section 16401 - Marine Corps Platoon Leaders Class: college tuition assi
 usc_title: 10
 usc_section: "16401"
 chapter: 1611
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 16401"
-generated_at: "2026-03-30T02:53:38.279Z"
+generated_at: "2026-11-23T20:25:52.495Z"
+status: "active"
 ---
 
 # § 16401. Marine Corps Platoon Leaders Class: college tuition assistance program
@@ -40,3 +41,21 @@ generated_at: "2026-03-30T02:53:38.279Z"
     - **(B)** is not physically qualified for appointment under section 532 of this title and later is determined by the Secretary of the Navy under section 505 of this title to be unqualified for service as an enlisted member of the Marine Corps due to a physical or medical condition that was not the result of misconduct or grossly negligent conduct; or
     - **(C)** fails to complete the military or academic requirements of the Marine Corps Platoon Leaders Class program due to a circumstance not within the control of the person.
 - **(g)** In this section, the term “institution of higher education” has the meaning given that term in section 101 of the Higher Education Act of 1965 ( 20 U.S.C. 1001 ).
+
+Authority
+
+Eligibility
+
+Covered Expenses
+
+Amount
+
+Limitations
+
+Failure To Complete Program
+
+Institution of Higher Education Defined
+
+## Source Credit
+
+*(Added [Pub. L. 106–65, div. A, title V, § 551(a)(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 612](https://www.govinfo.gov/link/statute/113/612); amended [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title V, § 533(a)–(d), (f)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–110, 1654A–111; [Pub. L. 109–163, div. A, title VI, § 687(c)(15)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3336](https://www.govinfo.gov/link/statute/119/3336); [Pub. L. 115–91, div. A, title VI, § 618(a)(1)(R)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1426](https://www.govinfo.gov/link/statute/131/1426); [Pub. L. 118–159, div. A, title V, § 559](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1899](https://www.govinfo.gov/link/statute/138/1899).)*

@@ -3,9 +3,10 @@ title: "Section 5116a - Eligibility"
 usc_title: 42
 usc_section: "5116a"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5116a"
-generated_at: "2026-03-30T02:56:11.219Z"
+generated_at: "2026-11-23T20:27:22.462Z"
+status: "active"
 ---
 
 # § 5116a. Eligibility
@@ -26,3 +27,7 @@ A State shall be eligible for a grant under this subchapter for a fiscal year if
     - **(B)** has a demonstrated ability to work with State and community-based public and private nonprofit organizations to develop a continuum of preventive, family centered, comprehensive services for children and families through the community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect;
     - **(C)** has the capacity to provide operational support (both financial and programmatic) 1 1 So in original. Probably should be followed by a comma. training, technical assistance, and evaluation assistance, to community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect, through innovative, interagency funding and interdisciplinary service delivery mechanisms; and
     - **(D)** will integrate its efforts with individuals and organizations experienced in working in partnership with families with children with disabilities, parents with disabilities, and with the child abuse and neglect prevention activities of the State, and demonstrate a financial commitment to those activities.
+
+## Source Credit
+
+*([Pub. L. 93–247, title II, § 202](https://www.govinfo.gov/link/plaw/93/public/247), as added [Pub. L. 104–235, title I, § 121](https://www.govinfo.gov/link/plaw/104/public/235), Oct. 3, 1996, [110 Stat. 3081](https://www.govinfo.gov/link/statute/110/3081); amended [Pub. L. 108–36, title I, § 122](https://www.govinfo.gov/link/plaw/108/public/36), June 25, 2003, [117 Stat. 814](https://www.govinfo.gov/link/statute/117/814); [Pub. L. 111–320, title I, § 133](https://www.govinfo.gov/link/plaw/111/public/320), Dec. 20, 2010, [124 Stat. 3479](https://www.govinfo.gov/link/statute/124/3479).)*

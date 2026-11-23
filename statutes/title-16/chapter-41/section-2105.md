@@ -3,9 +3,10 @@ title: "Section 2105 - Urban and community forestry assistance"
 usc_title: 16
 usc_section: "2105"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 2105"
-generated_at: "2026-03-30T02:54:22.998Z"
+generated_at: "2026-11-23T20:26:20.594Z"
+status: "active"
 ---
 
 # § 2105. Urban and community forestry assistance
@@ -97,3 +98,7 @@ generated_at: "2026-03-30T02:54:22.998Z"
   - **(2)** the term “plan” means the National Urban and Community Forestry Action Plan developed under subsection (g)(3); and
   - **(3)** the term “urban and community area” includes cities, their suburbs, and towns.
 - **(i)** There are hereby authorized to be appropriated $30,000,000 for each of the fiscal years 1991 through 1995, and such sums as may be necessary for each fiscal year thereafter, for the implementation of this section.
+
+## Source Credit
+
+*([Pub. L. 95–313, § 9](https://www.govinfo.gov/link/plaw/95/public/313), formerly § 6, July 1, 1978, [92 Stat. 369](https://www.govinfo.gov/link/statute/92/369); renumbered § 9 and amended [Pub. L. 101–624, title XII](https://www.govinfo.gov/link/plaw/101/public/624), §§ 1215(1), 1219(a), Nov. 28, 1990, [104 Stat. 3525](https://www.govinfo.gov/link/statute/104/3525), 3533; [Pub. L. 102–237, title X, § 1018(a)(3)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1905](https://www.govinfo.gov/link/statute/105/1905); [Pub. L. 110–234, title VII, § 7511(c)(36)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1271](https://www.govinfo.gov/link/statute/122/1271); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, § 7511(c)(36), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2032; [Pub. L. 117–58, div. G, title III, § 70302(a)(1)(B)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1260](https://www.govinfo.gov/link/statute/135/1260).)*

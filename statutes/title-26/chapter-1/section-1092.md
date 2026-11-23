@@ -3,9 +3,10 @@ title: "Section 1092 - Straddles"
 usc_title: 26
 usc_section: "1092"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1092"
-generated_at: "2026-03-30T02:55:27.758Z"
+generated_at: "2026-11-23T20:26:46.035Z"
+status: "active"
 ---
 
 # § 1092. Straddles
@@ -131,3 +132,53 @@ generated_at: "2026-03-30T02:55:27.758Z"
   - **(1)** Any loss with respect to such option shall be treated as long-term capital loss if, at the time such loss is realized, gain on the sale or exchange of such stock would be treated as long-term capital gain.
   - **(2)** The holding period of such stock shall not include any period during which the taxpayer is the grantor of such option.
 - **(g)** For provision requiring capitalization of certain interest and carrying charges where there is a straddle, see section 263(g).
+
+In general
+
+Identification requirement of amendment related to section 888 of the american jobs creation act of 2004
+
+In general
+
+Special rule for offsetting position stock
+
+Subsection
+
+Subsection
+
+Requirement That Regulations Be Issued Within
+
+Months After the Date of Enactment
+
+Effective Date of Regulations With Respect to Mixed Straddles
+
+In General
+
+Identification Requirements.—
+
+Under section 1236 of code.—
+
+Under section 1256
+
+(c) of code.—
+
+Election With Respect to Property Held on June
+
+General Rule
+
+Loss Incurred in a Trade or Business
+
+Net Loss Allowed
+
+Other Rules
+
+Straddle
+
+Commodities Dealer
+
+Regulated Futures Contracts
+
+Syndicates
+
+## Source Credit
+
+*(Added [Pub. L. 97–34, title V, § 501(a)](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 323](https://www.govinfo.gov/link/statute/95/323); amended [Pub. L. 97–448, title I, § 105(a)(1)(A)](https://www.govinfo.gov/link/plaw/97/public/448) –(C), (2)–(4), Jan. 12, 1983, [96 Stat. 2384](https://www.govinfo.gov/link/statute/96/2384), 2385; [Pub. L. 98–369, div. A, title I](https://www.govinfo.gov/link/plaw/98/public/369), §§ 101(a)–(d), 102(e)(2), 103(a), 107(a), July 18, 1984, [98 Stat. 616–619](https://www.govinfo.gov/link/statute/98/616), 624, 627, 629; [Pub. L. 99–514, title III, § 331(a)](https://www.govinfo.gov/link/plaw/99/public/514), title XII, § 1261(b), title XVIII, §§ 1808(c), 1899A(66), Oct. 22, 1986, [100 Stat. 2220](https://www.govinfo.gov/link/statute/100/2220), 2591, 2817, 2962; [Pub. L. 100–647, title VI, § 6130(c)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3719](https://www.govinfo.gov/link/statute/102/3719); [Pub. L. 105–34, title XII, § 1271(b)(9)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1037](https://www.govinfo.gov/link/statute/111/1037); [Pub. L. 106–170, title V, § 532(c)(1)(F)](https://www.govinfo.gov/link/plaw/106/public/170), Dec. 17, 1999, [113 Stat. 1930](https://www.govinfo.gov/link/statute/113/1930); [Pub. L. 106–554, § 1(a)(7) [title IV, § 401(e)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–649; [Pub. L. 108–357, title VIII, § 888(a)](https://www.govinfo.gov/link/plaw/108/public/357) –(c)(1), Oct. 22, 2004, [118 Stat. 1642](https://www.govinfo.gov/link/statute/118/1642), 1643; [Pub. L. 109–135, title IV, § 403(ii)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2632](https://www.govinfo.gov/link/statute/119/2632); [Pub. L. 110–172, § 7(d)](https://www.govinfo.gov/link/plaw/110/public/172), Dec. 29, 2007, [121 Stat. 2482](https://www.govinfo.gov/link/statute/121/2482); [Pub. L. 115–141, div. U, title IV, § 401(a)(170)](https://www.govinfo.gov/link/plaw/115/public/141), (171), Mar. 23, 2018, [132 Stat. 1192](https://www.govinfo.gov/link/statute/132/1192).)*

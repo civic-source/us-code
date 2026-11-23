@@ -3,9 +3,10 @@ title: "Section 2534 - Review of discharge characterization"
 usc_title: 14
 usc_section: "2534"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 2534"
-generated_at: "2026-03-30T02:53:51.501Z"
+generated_at: "2026-11-23T20:25:54.615Z"
+status: "active"
 ---
 
 # § 2534. Review of discharge characterization
@@ -20,3 +21,31 @@ generated_at: "2026-03-30T02:53:51.501Z"
   - **(2)** A witness may present evidence to the board in person or by affidavit.
   - **(3)** A person who requests a review under this section may appear before the board in person or by counsel or an accredited representative of an organization recognized by the Secretary of Veterans Affairs under chapter 59 of title 38.
   - **(4)** A former member of the Coast Guard who is subject to a downgrade in discharge characterization review under subsection (a) shall be notified in writing of such proceedings, afforded the right to obtain copies of records and documents relevant to the proceedings, and the right to appear before the board in person or by counsel or an accredited representative of an organization recognized by the Secretary of Veterans Affairs under chapter 59 of title 38.
+
+Downgrade.—
+
+In general
+
+Board of review
+
+Evidence
+
+Limitation
+
+Procedural Rights.—
+
+In general
+
+Evidence by witness
+
+Appearance before board
+
+Notification
+
+In general
+
+Deadline for regulations
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. G, title LXXV, § 7511(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1802](https://www.govinfo.gov/link/statute/139/1802).)*

@@ -3,9 +3,10 @@ title: "Section 40101 - Reporting child abuse crime information"
 usc_title: 34
 usc_section: "40101"
 chapter: 401
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 40101"
-generated_at: "2026-03-30T02:55:33.308Z"
+generated_at: "2026-11-23T20:26:50.636Z"
+status: "active"
 ---
 
 # § 40101. Reporting child abuse crime information
@@ -31,3 +32,13 @@ generated_at: "2026-03-30T02:55:33.308Z"
     - **(B)** the percentage of convicted child abuse offenders who have been convicted of an offense involving child abuse in more than 1 State; and
     - **(C)** the extent to which and the manner in which instances of child abuse form a basis for convictions for crimes other than child abuse crimes.
   - **(2)** Not later than 2 years after December 20, 1993 , the Administrator shall submit a report to the Chairman of the Committee on the Judiciary of the Senate and the Chairman of the Committee on the Judiciary of the House of Representatives containing a description of and a summary of the results of the study conducted pursuant to paragraph (1).
+
+In general
+
+Matters to be addressed
+
+Dissemination
+
+## Source Credit
+
+*([Pub. L. 103–209, § 2](https://www.govinfo.gov/link/plaw/103/public/209), Dec. 20, 1993, [107 Stat. 2490](https://www.govinfo.gov/link/statute/107/2490); [Pub. L. 103–322, title XXXII, § 320928(b)](https://www.govinfo.gov/link/plaw/103/public/322), (h), (i), Sept. 13, 1994, [108 Stat. 2132](https://www.govinfo.gov/link/statute/108/2132), 2133.)*

@@ -3,9 +3,10 @@ title: "Section 332 - Consumer privacy ombudsman"
 usc_title: 11
 usc_section: "332"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 332"
-generated_at: "2026-03-30T02:53:53.874Z"
+generated_at: "2026-11-23T20:25:55.338Z"
+status: "active"
 ---
 
 # § 332. Consumer privacy ombudsman
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:53.874Z"
   - **(3)** the potential costs or benefits to consumers if such sale or such lease is approved by the court; and
   - **(4)** the potential alternatives that would mitigate potential privacy losses or potential costs to consumers.
 - **(c)** A consumer privacy ombudsman shall not disclose any personally identifiable information obtained by the ombudsman under this title.
+
+## Source Credit
+
+*(Added [Pub. L. 109–8, title II, § 232(a)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 73](https://www.govinfo.gov/link/statute/119/73); amended [Pub. L. 111–16, § 2(3)](https://www.govinfo.gov/link/plaw/111/public/16), May 7, 2009, [123 Stat. 1607](https://www.govinfo.gov/link/statute/123/1607).)*

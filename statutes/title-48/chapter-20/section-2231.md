@@ -3,9 +3,10 @@ title: "Section 2231 - Creditor collective action"
 usc_title: 48
 usc_section: "2231"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 2231"
-generated_at: "2026-03-30T02:56:14.606Z"
+generated_at: "2026-11-23T20:27:28.209Z"
+status: "active"
 ---
 
 # § 2231. Creditor collective action
@@ -87,3 +88,7 @@ generated_at: "2026-03-30T02:56:14.606Z"
   - **(1)** The district court for the territory or, for any territory that does not have a district court, the United States District Court for the District of Hawaii shall have original and exclusive jurisdiction over civil actions arising under this section.
   - **(2)** Notwithstanding section 2126(e) of this title , there shall be a cause of action to challenge unlawful application of this section.
   - **(3)** The district court shall nullify a Modification and any effects on the rights of the holders of Bonds resulting from such Modification if and only if the district court determines that such Modification is manifestly inconsistent with this section.
+
+## Source Credit
+
+*([Pub. L. 114–187, title VI, § 601](https://www.govinfo.gov/link/plaw/114/public/187), June 30, 2016, [130 Stat. 603](https://www.govinfo.gov/link/statute/130/603).)*

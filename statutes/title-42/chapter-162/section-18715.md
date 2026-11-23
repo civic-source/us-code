@@ -3,9 +3,10 @@ title: "Section 18715 - Transmission facility financing"
 usc_title: 42
 usc_section: "18715"
 chapter: 162
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18715"
-generated_at: "2026-03-30T02:56:11.525Z"
+generated_at: "2026-11-23T20:27:23.818Z"
+status: "active"
 ---
 
 # § 18715. Transmission facility financing
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.525Z"
   - **(3)** shall, on first issuance, be subject to the condition that the direct loan is not subordinate to other financing.
 - **(d)** A direct loan provided under this section shall bear interest at a rate determined by the Secretary, taking into consideration market yields on outstanding marketable obligations of the United States of comparable maturities as of the date on which the direct loan is made.
 - **(e)** In this section, the term “direct loan” has the meaning given the term in section 661a of title 2 .
+
+## Source Credit
+
+*([Pub. L. 117–169, title V, § 50151](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 2046](https://www.govinfo.gov/link/statute/136/2046).)*

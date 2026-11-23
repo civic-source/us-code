@@ -3,9 +3,10 @@ title: "Section 1841 - Definitions"
 usc_title: 12
 usc_section: "1841"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1841"
-generated_at: "2026-03-30T02:53:53.465Z"
+generated_at: "2026-11-23T20:25:59.193Z"
+status: "active"
 ---
 
 # § 1841. Definitions
@@ -139,3 +140,69 @@ generated_at: "2026-03-30T02:53:53.465Z"
         - **(II)** to section 8 of the Federal Deposit Insurance Act [ 12 U.S.C. 1818 ].
 - **(p)** For purposes of this chapter, the term “financial holding company” means a bank holding company that meets the requirements of section 1843( l )(1) of this title.
 - **(q)** For purposes of sections 1843 and 1844 of this title, the term “insurance company” includes any person engaged in the business of insurance to the extent of such activities.
+
+Bank Defined
+
+In general
+
+Exceptions
+
+Thrift Institution
+
+Definition of Savings Associations and Related Term
+
+Affiliate
+
+Savings Bank Holding Company
+
+Incorporated Definitions
+
+Other Definitions
+
+Capital terms.—
+
+Insured depository institutions
+
+Bank holding company.—
+
+Adequately capitalized
+
+Well capitalized
+
+Other capital terms
+
+Antitrust laws
+
+Branch
+
+Home state
+
+Host state
+
+Out-of-state bank
+
+Out-of-state bank holding company
+
+Lead insured depository institutions.—
+
+In general
+
+Branch or agency
+
+Well managed
+
+Qualified family partnership
+
+Financial Holding Company
+
+Insurance Company
+
+Delay in application of amendment to certain institutions
+
+Requirements for application of subsection
+
+Controlling interest
+
+## Source Credit
+
+*(May 9, 1956, ch. 240, § 2, [70 Stat. 133](https://www.govinfo.gov/link/statute/70/133); [Pub. L. 89–485](https://www.govinfo.gov/link/plaw/89/public/485), §§ 1–6, July 1, 1966, [80 Stat. 236](https://www.govinfo.gov/link/statute/80/236), 237; [Pub. L. 91–607, title I, § 101](https://www.govinfo.gov/link/plaw/91/public/607), Dec. 31, 1970, [84 Stat. 1760](https://www.govinfo.gov/link/statute/84/1760); [Pub. L. 95–188, title III, § 301(b)](https://www.govinfo.gov/link/plaw/95/public/188), Nov. 16, 1977, [91 Stat. 1389](https://www.govinfo.gov/link/statute/91/1389); [Pub. L. 95–369, § 8(e)](https://www.govinfo.gov/link/plaw/95/public/369), Sept. 17, 1978, [92 Stat. 623](https://www.govinfo.gov/link/statute/92/623); [Pub. L. 97–320, title I, § 118(b)](https://www.govinfo.gov/link/plaw/97/public/320), title III, § 333, title IV, § 404(d)(1), Oct. 15, 1982, [96 Stat. 1479](https://www.govinfo.gov/link/statute/96/1479), 1504, 1512; [Pub. L. 100–86, title I, § 101(a)](https://www.govinfo.gov/link/plaw/100/public/86), (e), title II, § 205(a), Aug. 10, 1987, [101 Stat. 554](https://www.govinfo.gov/link/statute/101/554), 562, 584; [Pub. L. 101–73, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 409](https://www.govinfo.gov/link/statute/103/409); [Pub. L. 103–328, title I, § 101(c)](https://www.govinfo.gov/link/plaw/103/public/328), Sept. 29, 1994, [108 Stat. 2341](https://www.govinfo.gov/link/statute/108/2341); [Pub. L. 104–208, div. A, title II](https://www.govinfo.gov/link/plaw/104/public/208), §§ 2207, 2208(b), 2304(b), 2610, 2704(d)(17), Sept. 30, 1996, [110 Stat. 3009–406](https://www.govinfo.gov/link/statute/110/3009), 3009–408, 3009–425, 3009–475, 3009–495; [Pub. L. 106–102, title I](https://www.govinfo.gov/link/plaw/106/public/102), §§ 103(c)(1), 107(c), 119, title VII, § 724, Nov. 12, 1999, [113 Stat. 1351](https://www.govinfo.gov/link/statute/113/1351), 1359, 1373, 1471; [Pub. L. 108–386, § 8(c)(1)](https://www.govinfo.gov/link/plaw/108/public/386), Oct. 30, 2004, [118 Stat. 2231](https://www.govinfo.gov/link/statute/118/2231); [Pub. L. 109–171, title II, § 2102(b)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 9](https://www.govinfo.gov/link/statute/120/9); [Pub. L. 109–173, § 9(h)(1)](https://www.govinfo.gov/link/plaw/109/public/173), Feb. 15, 2006, [119 Stat. 3618](https://www.govinfo.gov/link/statute/119/3618); [Pub. L. 109–351, title VII](https://www.govinfo.gov/link/plaw/109/public/351), §§ 706, 727(a), Oct. 13, 2006, [120 Stat. 1987](https://www.govinfo.gov/link/statute/120/1987), 2003; [Pub. L. 111–203, title III, § 354(1)](https://www.govinfo.gov/link/plaw/111/public/203), title VI, §§ 623(b)(2), 628, July 21, 2010, [124 Stat. 1546](https://www.govinfo.gov/link/statute/124/1546), 1635, 1640.)*

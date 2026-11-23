@@ -3,9 +3,10 @@ title: "Section 2081 - United States Capitol Preservation Commission"
 usc_title: 2
 usc_section: "2081"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 2081"
-generated_at: "2026-03-30T02:53:04.824Z"
+generated_at: "2026-11-23T20:25:29.010Z"
+status: "active"
 ---
 
 # § 2081. United States Capitol Preservation Commission
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:04.824Z"
 - **(c)** Each member of the Commission specified under subsection (b) (other than a member under paragraph (7) or (8) of such subsection) may designate a Senator or Member of the House of Representatives, as the case may be, to serve as a member of the Commission in place of the member so specified.
 - **(d)** In addition to the members under subsection (b), the Architect of the Capitol shall participate in the activities of the Commission, ex officio, and without the right to vote.
 - **(e)** The Senate Commission on Art, the House of Representatives Fine Arts Board, and the Architect of the Capitol shall provide to the Commission such staff support and assistance as the Commission may request.
+
+## Source Credit
+
+*([Pub. L. 100–696, title VIII, § 801](https://www.govinfo.gov/link/plaw/100/public/696), Nov. 18, 1988, [102 Stat. 4608](https://www.govinfo.gov/link/statute/102/4608); [Pub. L. 104–186, title II, § 221(7)](https://www.govinfo.gov/link/plaw/104/public/186), Aug. 20, 1996, [110 Stat. 1749](https://www.govinfo.gov/link/statute/110/1749).)*

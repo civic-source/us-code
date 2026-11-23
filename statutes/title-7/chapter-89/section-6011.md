@@ -3,9 +3,10 @@ title: "Section 6011 - Requirement of referendum"
 usc_title: 7
 usc_section: "6011"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6011"
-generated_at: "2026-03-30T02:53:42.424Z"
+generated_at: "2026-11-23T20:25:41.681Z"
+status: "active"
 ---
 
 # § 6011. Requirement of referendum
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:42.424Z"
   - **(2)** A grower, grower-sheller, or importer who chooses to vote in any referendum conducted under this chapter shall register in person prior to the voting period at the appropriate local office of the Agricultural Stabilization and Conservation Service, as determined by the Secretary, for such grower, grower-sheller, or by mailing such a request to the Secretary on behalf of an importer.
   - **(3)** A grower, grower-sheller, or importer who votes in any referendum conducted under this chapter shall vote in person at the appropriate local office of the Agricultural Stabilization and Conservation Service, as determined by the Secretary or by mail to the Secretary.
   - **(4)** Each Agricultural Stabilization and Conservation Service office shall notify all growers, grower-shellers, and importers in the area of such office, as determined by the Secretary, at least 30 days prior to a referendum conducted under this chapter. Such notice shall explain the registration and voting procedures established under this subsection.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XIX, § 1916](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3853](https://www.govinfo.gov/link/statute/104/3853).)*

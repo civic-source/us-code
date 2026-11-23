@@ -3,9 +3,10 @@ title: "Section 2 - Loan guarantees for multifamily rental housing in rural area
 usc_title: 42
 usc_section: "2"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T02:56:11.099Z"
+generated_at: "2026-11-23T20:27:21.804Z"
+status: "active"
 ---
 
 # § 1490p–2. Loan guarantees for multifamily rental housing in rural areas
@@ -76,3 +77,9 @@ generated_at: "2026-03-30T02:56:11.099Z"
 - **(t)** The Secretary may not deny a guarantee under this section on the basis that the interest on the loan or on an obligation supporting the loan for which a guarantee is sought is exempt from inclusion in gross income for purposes of chapter I 3 3 So in original. Probably should be chapter “1”. of title 26.
 - **(u)** Any amounts collected by the Secretary pursuant to the fees charged to lenders for loan guarantees issued under this section shall be used to offset costs (as defined by section 661a of title 2 ) of loan guarantees made under this section.
 - **(v)** In the event of a default involving a loan to an Indian tribe or tribal corporation made under this section which is secured by an interest in land within such tribe’s reservation (as determined by the Secretary of the Interior), including a community in Alaska incorporated by the Secretary of the Interior pursuant to the Indian Reorganization Act ( 25 U.S.C. 461 et seq.), 2 the lender shall only pursue liquidation after offering to transfer the account to an eligible tribal member, the tribe, or the Indian housing authority serving the tribe. If the lender subsequently proceeds to liquidate the account, the lender shall not sell, transfer, or otherwise dispose of or alienate the property except to one of the entities described in the preceding sentence.
+
+Indian tribe
+
+## Source Credit
+
+*(July 15, 1949, ch. 338, title V, § 538, as added and amended [Pub. L. 104–120, § 5](https://www.govinfo.gov/link/plaw/104/public/120), Mar. 28, 1996, [110 Stat. 835](https://www.govinfo.gov/link/statute/110/835); [Pub. L. 105–86, title VII, § 735(c)](https://www.govinfo.gov/link/plaw/105/public/86), Nov. 18, 1997, [111 Stat. 2111](https://www.govinfo.gov/link/statute/111/2111); [Pub. L. 105–276, title V, § 599C(c)](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2661](https://www.govinfo.gov/link/statute/112/2661); [Pub. L. 106–569, title VII, § 707](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 3015](https://www.govinfo.gov/link/statute/114/3015).)*

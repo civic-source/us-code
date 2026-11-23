@@ -3,9 +3,10 @@ title: "Section 356b - Reports of postmarketing studies"
 usc_title: 21
 usc_section: "356b"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 356b"
-generated_at: "2026-03-30T02:54:54.242Z"
+generated_at: "2026-11-23T20:26:27.612Z"
+status: "active"
 ---
 
 # § 356b. Reports of postmarketing studies
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:54.242Z"
   - **(2)** for which reports have been submitted under subsection (a)(1).
 - **(d)** If a sponsor fails to complete an agreed upon study required by this section by its original or otherwise negotiated deadline, the Secretary shall publish a statement on the Internet site of the Food and Drug Administration stating that the study was not completed and, if the reasons for such failure to complete the study were not satisfactory to the Secretary, a statement that such reasons were not satisfactory to the Secretary.
 - **(e)** With respect to studies of the type required under section 356(c)(2)(A) of this title or under section 314.510 or 601.41 of title 21, Code of Federal Regulations, as each of such sections was in effect on the day before the effective date of this subsection, the Secretary may require that a sponsor who, for reasons not satisfactory to the Secretary, fails to complete by its deadline a study under any of such sections of such type for a drug or biological product (including such a study conducted after such effective date) notify practitioners who prescribe such drug or biological product of the failure to complete such study and the questions of clinical benefit, and, where appropriate, questions of safety, that remain unanswered as a result of the failure to complete such study. Nothing in this subsection shall be construed as altering the requirements of the types of studies required under section 356(c)(2)(A) of this title or under section 314.510 or 601.41 of title 21, Code of Federal Regulations, as so in effect, or as prohibiting the Secretary from modifying such sections of title 21 of such Code to provide for studies in addition to those of such type.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 506B, as added [Pub. L. 105–115, title I, § 130(a)](https://www.govinfo.gov/link/plaw/105/public/115), Nov. 21, 1997, [111 Stat. 2331](https://www.govinfo.gov/link/statute/111/2331); amended [Pub. L. 107–188, title V, § 506](https://www.govinfo.gov/link/plaw/107/public/188), June 12, 2002, [116 Stat. 693](https://www.govinfo.gov/link/statute/116/693); [Pub. L. 112–144, title IX, § 902(c)](https://www.govinfo.gov/link/plaw/112/public/144), July 9, 2012, [126 Stat. 1088](https://www.govinfo.gov/link/statute/126/1088); [Pub. L. 117–328, div. FF, title III, § 3210(b)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5823](https://www.govinfo.gov/link/statute/136/5823).)*

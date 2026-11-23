@@ -3,9 +3,10 @@ title: "Section 7c - Fraud and abuse control program"
 usc_title: 42
 usc_section: "7c"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7c"
-generated_at: "2026-03-30T02:56:10.910Z"
+generated_at: "2026-11-23T20:27:20.994Z"
+status: "active"
 ---
 
 # § 1320a–7c. Fraud and abuse control program
@@ -70,3 +71,7 @@ generated_at: "2026-03-30T02:56:10.910Z"
   - **(1)** a policy of health insurance;
   - **(2)** a contract of a service benefit organization; and
   - **(3)** a membership agreement with a health maintenance organization or other prepaid health plan.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XI, § 1128C, as added [Pub. L. 104–191, title II, § 201(a)](https://www.govinfo.gov/link/plaw/104/public/191), Aug. 21, 1996, [110 Stat. 1992](https://www.govinfo.gov/link/statute/110/1992); amended [Pub. L. 111–148, title VI, § 6403(c)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 766](https://www.govinfo.gov/link/statute/124/766); [Pub. L. 116–260, div. CC, title I, § 124(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2957](https://www.govinfo.gov/link/statute/134/2957); [Pub. L. 117–286, § 4(b)(78)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4351](https://www.govinfo.gov/link/statute/136/4351).)*

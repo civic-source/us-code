@@ -3,9 +3,10 @@ title: "Section 3056l - Competitive requirements relating to grant awards"
 usc_title: 42
 usc_section: "3056l"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3056l"
-generated_at: "2026-03-30T02:56:11.178Z"
+generated_at: "2026-11-23T20:27:22.238Z"
+status: "active"
 ---
 
 # § 3056l. Competitive requirements relating to grant awards
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:56:11.178Z"
   - **(1)** In this subsection, the term “individuals with barriers to employment” means minority individuals, Indian individuals, individuals with greatest economic need, eligible individuals who have been incarcerated or are under supervision following release from prison or jail, and individuals described in subsection (a)(3)(B)(ii) or (b)(2) of section 3056p of this title .
   - **(2)** In areas where a substantial population of individuals with barriers to employment exists, a grantee that receives a national grant in accordance with this section shall, in selecting subgrantees, give special consideration to organizations (including former recipients of such national grants) with demonstrated expertise in serving individuals with barriers to employment.
 - **(f)** The Secretary may not promulgate rules or regulations affecting grantees in areas where a substantial population of minority individuals exists, that would significantly compromise the ability of the grantees to serve their targeted population of minority older individuals.
+
+## Source Credit
+
+*([Pub. L. 89–73, title V, § 514](https://www.govinfo.gov/link/plaw/89/public/73), as added [Pub. L. 109–365, title V, § 501](https://www.govinfo.gov/link/plaw/109/public/365), Oct. 17, 2006, [120 Stat. 2584](https://www.govinfo.gov/link/statute/120/2584); amended [Pub. L. 114–144, § 6(e)](https://www.govinfo.gov/link/plaw/114/public/144), Apr. 19, 2016, [130 Stat. 346](https://www.govinfo.gov/link/statute/130/346); [Pub. L. 116–131, title IV, § 401(a)(2)](https://www.govinfo.gov/link/plaw/116/public/131), Mar. 25, 2020, [134 Stat. 266](https://www.govinfo.gov/link/statute/134/266).)*

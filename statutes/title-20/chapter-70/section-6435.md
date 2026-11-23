@@ -3,9 +3,10 @@ title: "Section 6435 - Use of funds"
 usc_title: 20
 usc_section: "6435"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 6435"
-generated_at: "2026-03-30T02:54:48.199Z"
+generated_at: "2026-11-23T20:26:14.843Z"
+status: "active"
 ---
 
 # § 6435. Use of funds
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:48.199Z"
       - **(iii)** afford such children and youth an opportunity to meet challenging State academic standards; and
     - **(C)** shall be carried out in a manner consistent with section 6321 of this title and part F (as applied to programs and projects under this part).
 - **(b)** A program under this subpart that supplements the number of hours of instruction students receive from State and local sources shall be considered to comply with the supplement, not supplant requirement of section 6321 of this title (as applied to this part) without regard to the subject areas in which instruction is given during those hours.
+
+## Source Credit
+
+*([Pub. L. 89–10, title I, § 1415](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 107–110, title I, § 101](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1585](https://www.govinfo.gov/link/statute/115/1585); amended [Pub. L. 114–95, title I, § 1401(4)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1902](https://www.govinfo.gov/link/statute/129/1902).)*

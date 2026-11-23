@@ -3,9 +3,10 @@ title: "Section 44737 - Helicopter fuel system safety"
 usc_title: 49
 usc_section: "44737"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44737"
-generated_at: "2026-03-30T02:56:19.387Z"
+generated_at: "2026-11-23T20:27:35.191Z"
+status: "active"
 ---
 
 # § 44737. Helicopter fuel system safety
@@ -22,3 +23,27 @@ generated_at: "2026-03-30T02:56:19.387Z"
     - **(B)** urge that such modifications be installed as soon as practicable.
 - **(c)** Nothing in this section may be construed to affect the operation of a helicopter by the Department of Defense.
 - **(d)** A helicopter issued an experimental certificate under section 21.191 of title 14, Code of Federal Regulations (or any successor regulations), or operating under a Special Flight Permit issued under section 21.197 of title 14, Code of Federal Regulations (or any successor regulations), is excepted from the requirements of this section.
+
+Prohibition.—
+
+In general
+
+Covered helicopter defined
+
+Administrative Provisions
+
+Rule of Construction
+
+Exception
+
+In General
+
+Schedule.—
+
+Deadline
+
+Implementation
+
+## Source Credit
+
+*(Added [Pub. L. 115–254, div. B, title III, § 317(a)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3268](https://www.govinfo.gov/link/statute/132/3268); amended [Pub. L. 118–63, title VIII, § 825](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1332](https://www.govinfo.gov/link/statute/138/1332).)*

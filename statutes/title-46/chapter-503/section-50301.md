@@ -3,9 +3,10 @@ title: "Section 50301 - Vessel Operations Revolving Fund"
 usc_title: 46
 usc_section: "50301"
 chapter: 503
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 50301"
-generated_at: "2026-03-30T02:56:15.568Z"
+generated_at: "2026-11-23T20:27:27.269Z"
+status: "active"
 ---
 
 # § 50301. Vessel Operations Revolving Fund
@@ -27,3 +28,91 @@ generated_at: "2026-03-30T02:56:15.568Z"
   - **(3)** the activation, repair, and deactivation of merchant vessels chartered for limited emergency purposes during fiscal year 1957 under the jurisdiction of the Secretary; and
   - **(4)** payment of expenses of custody and maintenance of Government-owned vessels not in the National Defense Reserve Fleet.
 - **(g)** The Fund is available for expenses incurred in activating, repairing, and deactivating merchant vessels chartered under the jurisdiction of the Secretary. Receipts from charter operations of Government-owned vessels under the jurisdiction of the Secretary shall be credited to the Fund.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 50301(a) | 46 App.:1241a (1st sentence). | June 2, 1951, ch. 121 (pars. under heading “Vessel Operations Revolving Fund”), 65 Stat. 59 ; Pub. L. 97–31, § 12(128) , Aug. 6, 1981 , 95 Stat. 165 ; Pub. L. 108–271, § 8(b) , July 7, 2004 , 118 Stat. 814 . |
+| 50301(b) | 46 App.:1241a (2d sentence words before 2d proviso). |  |
+| 50301(c) | 46 App.:1241a (2d sentence 2d proviso). |  |
+| 50301(d) | 46 App.:1241a (2d sentence last proviso). |  |
+| 50301(e) | 46 App.:1241a (last sentence). |  |
+| 50301(f) | 46 App.:1241b. | June 20, 1956, ch. 415 , title I, § 101 (4th complete par. on p. 319), 70 Stat. 319 ; Pub. L. 97–31, § 12(129) , Aug. 6, 1981 , 95 Stat. 165 . |
+|  | 46 App.:1241b note. |  |
+| 50301(g) | 46 App.:1241c. | Aug. 1, 1956, ch. 846 , 70 Stat. 897 ; Pub. L. 97–31, § 12(130) , Aug. 6, 1981 , 95 Stat. 165 . |
+
+
+In General
+
+Relationship to Other Laws
+
+Advancements
+
+Transfers
+
+Limitation
+
+In general
+
+Applicable vessels
+
+Nonapplicable vessels
+
+Availability for Additional Purposes
+
+Expenses and Receipts Related to Charter Operations
+
+Historical and Revision Notes
+
+50301(a)
+
+June 2, 1951, ch. 121
+
+65 Stat. 59
+
+Pub. L. 97–31, § 12(128)
+
+Aug. 6, 1981
+
+95 Stat. 165
+
+Pub. L. 108–271, § 8(b)
+
+July 7, 2004
+
+118 Stat. 814
+
+50301(b)
+
+50301(c)
+
+50301(d)
+
+50301(e)
+
+50301(f)
+
+June 20, 1956, ch. 415
+
+70 Stat. 319
+
+Pub. L. 97–31, § 12(129)
+
+Aug. 6, 1981
+
+95 Stat. 165
+
+50301(g)
+
+Aug. 1, 1956, ch. 846
+
+70 Stat. 897
+
+Pub. L. 97–31, § 12(130)
+
+Aug. 6, 1981
+
+95 Stat. 165
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(b)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1562](https://www.govinfo.gov/link/statute/120/1562); [Pub. L. 118–31, div. C, title XXXV, § 3514(d)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 810](https://www.govinfo.gov/link/statute/137/810).)*

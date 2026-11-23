@@ -3,9 +3,10 @@ title: "Section 40104 - Promotion of civil aeronautics and safety of air commerc
 usc_title: 49
 usc_section: "40104"
 chapter: 401
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 40104"
-generated_at: "2026-03-30T02:56:19.369Z"
+generated_at: "2026-11-23T20:27:35.047Z"
+status: "active"
 ---
 
 # § 40104. Promotion of civil aeronautics and safety of air commerce
@@ -103,3 +104,120 @@ generated_at: "2026-03-30T02:56:19.369Z"
   - **(5)** engaging with regulated entities, including performing site visits;
   - **(6)** activities associated with subsections (c) through (e); and
   - **(7)** other activities as determined by the Administrator.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 40104 | 49 App.:1346. | Aug. 23, 1958 , Pub. L. 85–726, § 305 , 72 Stat. 749 . |
+|  | 49 App.:1346a. | July 12, 1976 , Pub. L. 94–353, § 21 , 90 Stat. 884 . |
+|  | 49 App.:1655(c)(1). | Oct. 15, 1966 , Pub. L. 89–670, § 6(c)(1) , 80 Stat. 938 ; Jan. 12, 1983 , Pub. L. 97–449, § 7(b) , 96 Stat. 2444 . |
+
+| Pub. L . 103–429, § 6(47)(C) | Col 2 | Col 3 |
+| --- | --- | --- |
+| 40104(b) | 49 App.:1655(c)(1) (words after last comma). | Oct. 15, 1966 , Pub. L. 89–670, § 6(c)(1) (words after last comma), 80 Stat. 938 ; Jan. 12, 1983 , Pub. L. 97–449, § 7(b) , 96 Stat. 2444 . |
+
+
+Developing Civil Aeronautics and Safety of Air Commerce
+
+Airport Capacity Enhancement Projects at Congested Airports
+
+Educational and Professional Development.—
+
+In general
+
+Educational materials
+
+Content
+
+International Role and Assistance of the FAA.—
+
+In general
+
+International presence
+
+International offices
+
+Bilateral and multilateral engagement; technical assistance
+
+Bilateral aviation safety agreements.—
+
+In general
+
+Purpose
+
+Scope
+
+Contents
+
+Rule of construction
+
+Strategic plan
+
+Promotion of United States Aerospace Standards, Products, and Services Abroad
+
+Travel
+
+Historical and Revision Notes
+
+Pub. L
+
+40104
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 305
+
+72 Stat. 749
+
+July 12, 1976
+
+Pub. L. 94–353, § 21
+
+90 Stat. 884
+
+Oct. 15, 1966
+
+Pub. L. 89–670, § 6(c)(1)
+
+80 Stat. 938
+
+Jan. 12, 1983
+
+Pub. L. 97–449, § 7(b)
+
+96 Stat. 2444
+
+Pub. L
+
+40104(b)
+
+Oct. 15, 1966
+
+Pub. L. 89–670, § 6(c)(1)
+
+80 Stat. 938
+
+Jan. 12, 1983
+
+Pub. L. 97–449, § 7(b)
+
+96 Stat. 2444
+
+Safety of
+
+Air Commerce
+
+“In developing the methodology required under section 40104(d)(7)(H) of title 49 , United States Code (as added by subsection (d)), the Administrator [of the Federal Aviation Administration] shall—
+
+In general
+
+International leadership
+
+Considerations
+
+Congressional briefing
+
+“The Administrator [of the Federal Aviation Administration] shall exercise leadership on creating a global approach to improving aircraft tracking by working with—
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1102](https://www.govinfo.gov/link/statute/108/1102); [Pub. L. 103–429, § 6(47)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4384](https://www.govinfo.gov/link/statute/108/4384); [Pub. L. 104–264, title IV, § 401(b)(1)](https://www.govinfo.gov/link/plaw/104/public/264), Oct. 9, 1996, [110 Stat. 3255](https://www.govinfo.gov/link/statute/110/3255); [Pub. L. 108–176, title III, § 303](https://www.govinfo.gov/link/plaw/108/public/176), title VIII, § 813, Dec. 12, 2003, [117 Stat. 2533](https://www.govinfo.gov/link/statute/117/2533), 2590; [Pub. L. 115–254, div. B, title II, § 241](https://www.govinfo.gov/link/plaw/115/public/254), title V, § 539(a), Oct. 5, 2018, [132 Stat. 3257](https://www.govinfo.gov/link/statute/132/3257), 3370; [Pub. L. 116–260, div. V, title I, § 119(f)(1)](https://www.govinfo.gov/link/plaw/116/public/260), (2), Dec. 27, 2020, [134 Stat. 2342](https://www.govinfo.gov/link/statute/134/2342); [Pub. L. 118–63, title III](https://www.govinfo.gov/link/plaw/118/public/63), §§ 356, 357(a), 358(a)–(c)(1), (d), 359, May 16, 2024, [138 Stat. 1114–1116](https://www.govinfo.gov/link/statute/138/1114), 1119, 1120.)*

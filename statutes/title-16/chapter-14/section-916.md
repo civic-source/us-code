@@ -3,9 +3,10 @@ title: "Section 916 - Definitions"
 usc_title: 16
 usc_section: "916"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 916"
-generated_at: "2026-03-30T02:54:22.933Z"
+generated_at: "2026-11-23T20:26:20.332Z"
+status: "active"
 ---
 
 # § 916. Definitions
@@ -24,3 +25,7 @@ When used in this subchapter—
 - **(j)** Whaling: The word “whaling” means the scouting for, hunting, killing, taking, towing, holding onto, and flensing of whales, and the possession, treatment, or processing of whales or of whale products.
 - **(k)** Regulations of the Commission: The words “regulations of the Commission” mean the whaling regulations in the schedule annexed to and constituting a part of the convention in their original form or as modified, revised, or amended by the Commission from time to time, in pursuance of article V of the convention.
 - **(l)** Regulations of the Secretary of Commerce: The words “regulations of the Secretary of Commerce” mean such regulations as may be issued by the Secretary of Commerce, from time to time, in accordance with sections 916i and 916j of this title.
+
+## Source Credit
+
+*(Aug. 9, 1950, ch. 653, § 2, [64 Stat. 421](https://www.govinfo.gov/link/statute/64/421); 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090](https://www.govinfo.gov/link/statute/84/2090).)*

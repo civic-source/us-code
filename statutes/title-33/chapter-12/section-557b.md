@@ -3,12 +3,17 @@ title: "Section 557b - Sale of publications, charts, or other material; deposit 
 usc_title: 33
 usc_section: "557b"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 557b"
-generated_at: "2026-03-30T02:55:41.062Z"
+generated_at: "2026-11-23T20:26:53.856Z"
+status: "active"
 ---
 
 # § 557b. Sale of publications, charts, or other material; deposit of proceeds
 
 The Chief of Engineers is authorized to provide for the sale of any of the material prepared under authority of section 557a of this title ; and of publications, charts, or material prepared under his direction pursuant to other legislative authorization or appropriation, and to charge therefor a sum not less than the cost of reproduction. The money received from sales authorized by this section shall be deposited into the Treasury to the credit of miscellaneous receipts, except that in any case in which the cost of reproduction has been paid from the revolving fund established pursuant to the Civil Functions Appropriation Act, 1954, the proceeds shall be deposited to the credit of such fund.
 
+
+## Source Credit
+
+*([Pub. L. 85–480, § 2](https://www.govinfo.gov/link/plaw/85/public/480), July 2, 1958, [72 Stat. 279](https://www.govinfo.gov/link/statute/72/279).)*

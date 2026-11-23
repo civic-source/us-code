@@ -3,9 +3,10 @@ title: "Section 5111 - Report on diversity at Coast Guard Academy"
 usc_title: 14
 usc_section: "5111"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 5111"
-generated_at: "2026-03-30T02:53:51.506Z"
+generated_at: "2026-11-23T20:25:54.655Z"
+status: "active"
 ---
 
 # § 5111. Report on diversity at Coast Guard Academy
@@ -18,3 +19,11 @@ generated_at: "2026-03-30T02:53:51.506Z"
   - **(4)** information on class retention, outcomes, and graduation rates, including the race, gender, ethnicity, religion, socioeconomic background, and State of residence of Coast Guard Academy cadets;
   - **(5)** information on efforts to retain diverse cadets, including through professional development and professional advancement programs for staff and faculty; and
   - **(6)** a summary of reported allegations of discrimination on the basis of race, color, national origin, sex, gender, or religion for the preceding 5 years.
+
+In General
+
+Contents
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. G, title LVXXXII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXII], § 8273, Jan. 1, 2021, [134 Stat. 4683](https://www.govinfo.gov/link/statute/134/4683).)*

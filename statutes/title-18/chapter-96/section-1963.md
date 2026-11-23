@@ -3,9 +3,10 @@ title: "Section 1963 - Criminal penalties"
 usc_title: 18
 usc_section: "1963"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 1963"
-generated_at: "2026-03-30T02:54:16.493Z"
+generated_at: "2026-11-23T20:26:08.548Z"
+status: "active"
 ---
 
 # § 1963. Criminal penalties
@@ -66,3 +67,7 @@ generated_at: "2026-03-30T02:54:16.493Z"
   - **(3)** has been placed beyond the jurisdiction of the court;
   - **(4)** has been substantially diminished in value; or
   - **(5)** has been commingled with other property which cannot be divided without difficulty;
+
+## Source Credit
+
+*(Added [Pub. L. 91–452, title IX, § 901(a)](https://www.govinfo.gov/link/plaw/91/public/452), Oct. 15, 1970, [84 Stat. 943](https://www.govinfo.gov/link/statute/84/943); amended [Pub. L. 98–473, title II](https://www.govinfo.gov/link/plaw/98/public/473), §§ 302, 2301(a)–(c), Oct. 12, 1984, [98 Stat. 2040](https://www.govinfo.gov/link/statute/98/2040), 2192; [Pub. L. 99–570, title I, § 1153(a)](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–13](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 99–646, § 23](https://www.govinfo.gov/link/plaw/99/public/646), Nov. 10, 1986, [100 Stat. 3597](https://www.govinfo.gov/link/statute/100/3597); [Pub. L. 100–690, title VII](https://www.govinfo.gov/link/plaw/100/public/690), §§ 7034, 7058(d), Nov. 18, 1988, [102 Stat. 4398](https://www.govinfo.gov/link/statute/102/4398), 4403; [Pub. L. 101–647, title XXXV, § 3561](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4927](https://www.govinfo.gov/link/statute/104/4927); [Pub. L. 111–16, § 3(4)](https://www.govinfo.gov/link/plaw/111/public/16), May 7, 2009, [123 Stat. 1607](https://www.govinfo.gov/link/statute/123/1607).)*

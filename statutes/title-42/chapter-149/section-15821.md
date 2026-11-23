@@ -3,9 +3,10 @@ title: "Section 15821 - Energy efficient appliance rebate programs"
 usc_title: 42
 usc_section: "15821"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 15821"
-generated_at: "2026-03-30T02:56:11.460Z"
+generated_at: "2026-11-23T20:27:23.571Z"
+status: "active"
 ---
 
 # § 15821. Energy efficient appliance rebate programs
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:11.460Z"
   - **(2)** the amount of any Federal or State tax incentive available for the purchase of the residential Energy Star product or product with improved energy efficiency in a cold climate; and
   - **(3)** the difference between the cost of the residential Energy Star product or product with improved energy efficiency in a cold climate and the cost of an appliance that is not a residential Energy Star product or product with improved energy efficiency in a cold climate, but is of the same type as, and is the nearest capacity, performance, and other relevant characteristics (as determined by the State energy office) to, the residential Energy Star product or product with improved energy efficiency in a cold climate.
 - **(f)** There are authorized to be appropriated to the Secretary to carry out this section $50,000,000 for each of the fiscal years 2006 through 2010.
+
+## Source Credit
+
+*([Pub. L. 109–58, title I, § 124](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 617](https://www.govinfo.gov/link/statute/119/617); [Pub. L. 110–140, title III, § 315(b)](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1572](https://www.govinfo.gov/link/statute/121/1572).)*

@@ -3,9 +3,10 @@ title: "Section 39 - Traffic signal preemption transmitters"
 usc_title: 18
 usc_section: "39"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 39"
-generated_at: "2026-03-30T02:54:16.457Z"
+generated_at: "2026-11-23T20:26:08.327Z"
+status: "active"
 ---
 
 # § 39. Traffic signal preemption transmitters
@@ -16,3 +17,19 @@ generated_at: "2026-03-30T02:54:16.457Z"
 - **(b)** In this section, the following definitions apply:
   - **(1)** The term “traffic signal preemption transmitter” means any mechanism that can change or alter a traffic signal’s phase time or sequence.
   - **(2)** The term “nonqualifying user” means a person who uses a traffic signal preemption transmitter and is not acting on behalf of a public agency or private corporation authorized by law to provide fire protection, law enforcement, emergency medical services, transit services, maintenance, or other services for a Federal, State, or local government entity, but does not include a person using a traffic signal preemption transmitter for classroom or instructional purposes.
+
+Offenses.—
+
+Sale
+
+Use
+
+Definitions
+
+Traffic signal preemption transmitter
+
+Nonqualifying user
+
+## Source Credit
+
+*(Added [Pub. L. 109–59, title II, § 2018(a)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1542](https://www.govinfo.gov/link/statute/119/1542).)*

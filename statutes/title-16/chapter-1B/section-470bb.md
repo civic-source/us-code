@@ -3,9 +3,10 @@ title: "Section 470bb - Definitions"
 usc_title: 16
 usc_section: "470bb"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 470bb"
-generated_at: "2026-03-30T02:54:22.854Z"
+generated_at: "2026-11-23T20:26:20.063Z"
+status: "active"
 ---
 
 # § 470bb. Definitions
@@ -24,3 +25,7 @@ As used in this chapter—
   - **(5)** The term “Indian tribe” means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or regional or village corporation as defined in, or established pursuant to, the Alaska Native Claims Settlement Act ( 85 Stat. 688 ) [ 43 U.S.C. 1601 et seq.].
   - **(6)** The term “person” means an individual, corporation, partnership, trust, institution, association, or any other private entity or any officer, employee, agent, department, or instrumentality of the United States, of any Indian tribe, or of any State or political subdivision thereof.
   - **(7)** The term “State” means any of the fifty States, the District of Columbia, Puerto Rico, Guam, and the Virgin Islands.
+
+## Source Credit
+
+*([Pub. L. 96–95, § 3](https://www.govinfo.gov/link/plaw/96/public/95), Oct. 31, 1979, [93 Stat. 721](https://www.govinfo.gov/link/statute/93/721); [Pub. L. 100–588, § 1(a)](https://www.govinfo.gov/link/plaw/100/public/588), Nov. 3, 1988, [102 Stat. 2983](https://www.govinfo.gov/link/statute/102/2983).)*

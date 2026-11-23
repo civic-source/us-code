@@ -3,9 +3,10 @@ title: "Section 6521a - Organic agricultural product imports interagency working
 usc_title: 7
 usc_section: "6521a"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6521a"
-generated_at: "2026-03-30T02:53:42.432Z"
+generated_at: "2026-11-23T20:25:41.715Z"
+status: "active"
 ---
 
 # § 6521a. Organic agricultural product imports interagency working group
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:53:42.432Z"
     - **(D)** providing information on enforcement activities under this chapter involving overseas investigations and compliance actions taken within that year, including—
       - **(i)** the number of investigations by country; and
       - **(ii)** a descriptive summary of compliance actions taken by certifying agents in each country.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XXI, § 2122A](https://www.govinfo.gov/link/plaw/101/public/624), as added [Pub. L. 115–334, title X, § 10104(i)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4902](https://www.govinfo.gov/link/statute/132/4902).)*

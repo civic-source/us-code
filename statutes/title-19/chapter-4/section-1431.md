@@ -3,9 +3,10 @@ title: "Section 1431 - Manifests"
 usc_title: 19
 usc_section: "1431"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1431"
-generated_at: "2026-03-30T02:54:24.635Z"
+generated_at: "2026-11-23T20:26:10.757Z"
+status: "active"
 ---
 
 # § 1431. Manifests
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:54:24.635Z"
       - **(i)** data described in General Headnote 4(c) of the Harmonized Tariff Schedule of the United States,
       - **(ii)** securities and similar evidences of value described in heading 4907 of such Schedule, but not monetary instruments defined pursuant to chapter 53 of title 31, and
       - **(iii)** personal correspondence, whether on paper, cards, photographs, tapes, or other media.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 431, [46 Stat. 710](https://www.govinfo.gov/link/statute/46/710); Aug. 8, 1953, ch. 397, § 15, [67 Stat. 516](https://www.govinfo.gov/link/statute/67/516); [Pub. L. 98–573, title II, § 203](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 2974](https://www.govinfo.gov/link/statute/98/2974); [Pub. L. 100–690, title VII, § 7367(c)(1)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4479](https://www.govinfo.gov/link/statute/102/4479); [Pub. L. 103–182, title VI, § 635](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2199](https://www.govinfo.gov/link/statute/107/2199); [Pub. L. 104–153, § 11](https://www.govinfo.gov/link/plaw/104/public/153), July 2, 1996, [110 Stat. 1389](https://www.govinfo.gov/link/statute/110/1389); [Pub. L. 104–295, § 3(a)(3)](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3515](https://www.govinfo.gov/link/statute/110/3515); [Pub. L. 118–39, § 2(a)](https://www.govinfo.gov/link/plaw/118/public/39), Feb. 9, 2024, [138 Stat. 16](https://www.govinfo.gov/link/statute/138/16).)*

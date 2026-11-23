@@ -3,9 +3,10 @@ title: "Section 13524 - Costs related to decommissioning and storage and disposa
 usc_title: 42
 usc_section: "13524"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13524"
-generated_at: "2026-03-30T02:56:11.448Z"
+generated_at: "2026-11-23T20:27:23.507Z"
+status: "active"
 ---
 
 # § 13524. Costs related to decommissioning and storage and disposal of nuclear waste
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.448Z"
   - **(2)** the term “costs related to storage and disposal of nuclear waste” means any costs, whether required by regulation or incurred as a matter of prudent business practice, associated with the storage or disposal of nuclear waste;
   - **(3)** the term “nuclear hot cell services” means services related to the examination of, or performance of various operations on, nuclear fuel rods, control assemblies, or other components that are emitting large quantities of ionizing radiation; and
   - **(4)** the term “nuclear waste” means any radioactive waste material subject to regulation by the Nuclear Regulatory Commission or the Department of Energy.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XXIII, § 2305](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3094](https://www.govinfo.gov/link/statute/106/3094).)*

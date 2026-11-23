@@ -3,9 +3,10 @@ title: "Section 47113 - Minority and disadvantaged business participation"
 usc_title: 49
 usc_section: "47113"
 chapter: 471
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 47113"
-generated_at: "2026-03-30T02:56:19.403Z"
+generated_at: "2026-11-23T20:27:35.293Z"
+status: "active"
 ---
 
 # § 47113. Minority and disadvantaged business participation
@@ -35,3 +36,91 @@ generated_at: "2026-03-30T02:56:19.403Z"
     - **(E)** a metropolitan planning organization;
     - **(F)** a group of entities described in subparagraphs (A) through (E); or
     - **(G)** any other organization considered appropriate by the Secretary.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 47113(a) | 49 App.:2204(d)(2). | Sept. 3, 1982 , Pub. L. 97–248 , 96 Stat. 324 , § 505(d); added Dec. 30, 1987 , Pub. L. 100–223, § 105(f) , 101 Stat. 1493 ; Oct. 31, 1992 , Pub. L. 102–581, § 117(c) , 106 Stat. 4883 . |
+| 47113(b) | 49 App.:2204(d)(1). |  |
+| 47113(c) | 49 App.:2204(d)(4). |  |
+| 47113(d) | 49 App.:2204(d)(3). |  |
+
+
+Definitions
+
+General Requirement
+
+Uniform Criteria
+
+Surveys and Lists
+
+Mandatory Training Program.—
+
+In general
+
+Implementation
+
+Participants
+
+Supportive Services.—
+
+In general
+
+Eligible entities
+
+Historical and Revision Notes
+
+Pub. L
+
+47113(a)
+
+Sept. 3, 1982
+
+Pub. L. 97–248
+
+96 Stat. 324
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 105(f)
+
+101 Stat. 1493
+
+Oct. 31, 1992
+
+Pub. L. 102–581, § 117(c)
+
+106 Stat. 4883
+
+47113(b)
+
+47113(c)
+
+47113(d)
+
+Findings
+
+Prompt Payments.—
+
+Reporting of complaints
+
+Improving compliance.—
+
+In general
+
+Contents of assessment
+
+Reporting
+
+Publishing data
+
+Definitions
+
+Covered complaint
+
+Program
+
+“Congress finds the following:
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1268](https://www.govinfo.gov/link/statute/108/1268); [Pub. L. 103–429, § 6(65)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4386](https://www.govinfo.gov/link/statute/108/4386); [Pub. L. 105–135, title VI, § 604(h)(2)](https://www.govinfo.gov/link/plaw/105/public/135), Dec. 2, 1997, [111 Stat. 2635](https://www.govinfo.gov/link/statute/111/2635); [Pub. L. 112–95, title I, § 140(b)](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 27](https://www.govinfo.gov/link/statute/126/27); [Pub. L. 115–91, div. A, title XVII, § 1701(a)(4)(G)(ii)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1796](https://www.govinfo.gov/link/statute/131/1796); [Pub. L. 115–254, div. B, title I, § 150](https://www.govinfo.gov/link/plaw/115/public/254), title V, § 539(o), Oct. 5, 2018, [132 Stat. 3215](https://www.govinfo.gov/link/statute/132/3215), 3371; [Pub. L. 118–63, title VII, § 730(b)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1272](https://www.govinfo.gov/link/statute/138/1272).)*

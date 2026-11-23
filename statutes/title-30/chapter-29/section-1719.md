@@ -3,9 +3,10 @@ title: "Section 1719 - Civil penalties"
 usc_title: 30
 usc_section: "1719"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1719"
-generated_at: "2026-03-30T02:55:29.408Z"
+generated_at: "2026-11-23T20:26:35.059Z"
+status: "active"
 ---
 
 # § 1719. Civil penalties
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:29.408Z"
   - **(1)** after the order making the assessment has become a final order and if such person does not file a petition for judicial review of the order in accordance with subsection (j), or
   - **(2)** after a court in an action brought under subsection (j) has entered a final judgment in favor of the Secretary,
 - **(l)** No person shall be liable for a civil penalty under subsection (a) or (b) for failure to pay any rental for any lease automatically terminated pursuant to section 188 of this title .
+
+## Source Credit
+
+*([Pub. L. 97–451, title I, § 109](https://www.govinfo.gov/link/plaw/97/public/451), Jan. 12, 1983, [96 Stat. 2454](https://www.govinfo.gov/link/statute/96/2454).)*

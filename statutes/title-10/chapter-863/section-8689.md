@@ -3,9 +3,10 @@ title: "Section 8689 - Requirements for availability of funds relating to advanc
 usc_title: 10
 usc_section: "8689"
 chapter: 863
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 8689"
-generated_at: "2026-03-30T02:53:38.249Z"
+generated_at: "2026-11-23T20:25:52.228Z"
+status: "active"
 ---
 
 # § 8689. Requirements for availability of funds relating to advanced naval nuclear fuel systems based on low-enriched uranium
@@ -20,3 +21,13 @@ generated_at: "2026-03-30T02:53:38.249Z"
 - **(c)** In this section, the term “low-enriched uranium activities” means the following:
   - **(1)** Planning or carrying out research and development of an advanced naval nuclear fuel system based on low-enriched uranium.
   - **(2)** Procuring ships that use low-enriched uranium in naval nuclear propulsion reactors.
+
+Authorization
+
+Prohibition Regarding Certain Accounts
+
+Low-enriched Uranium Activities Defined
+
+## Source Credit
+
+*(Added [Pub. L. 115–91, div. C, title XXXI, § 3115(b)(1)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1886](https://www.govinfo.gov/link/statute/131/1886), § 7319; renumbered § 8689, [Pub. L. 115–232, div. A, title VIII, § 807(d)(2)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1836](https://www.govinfo.gov/link/statute/132/1836).)*

@@ -3,9 +3,10 @@ title: "Section 285j - United States Special Resources"
 usc_title: 22
 usc_section: "285j"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 285j"
-generated_at: "2026-03-30T02:55:05.317Z"
+generated_at: "2026-11-23T20:26:31.997Z"
+status: "active"
 ---
 
 # § 285j. United States Special Resources
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.317Z"
   - **(1)** The United States Special Resources may be expended by the Bank only for procurement in the United States of goods produced in, or services supplied from the United States, except that the United States Governor, in consultation with the National Advisory Council on International Monetary and Financial Policies, may allow eligibility for procurement in other member countries from the United States Special Resources if he determines that such procurement eligibility would materially improve the ability of the Bank to carry out the objectives of its special funds resources and would be compatible with the international financial position of the United States.
   - **(2)** The United States Special Resources may be used to pay for administrative expenses arising from the use of the United States Special Resources, but only to the extent such expenses are not covered from the Bank’s service fee or income from use of United States Special Resources.
 - **(d)** All financing of programs and projects by the Bank from the United States Special Resources shall be repayable to the Bank by the borrowers in United States dollars.
+
+## Source Credit
+
+*([Pub. L. 89–369, § 13](https://www.govinfo.gov/link/plaw/89/public/369), as added [Pub. L. 92–245, § 1](https://www.govinfo.gov/link/plaw/92/public/245), Mar. 10, 1972, [86 Stat. 57](https://www.govinfo.gov/link/statute/86/57).)*

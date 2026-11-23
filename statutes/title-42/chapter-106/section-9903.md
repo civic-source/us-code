@@ -3,9 +3,10 @@ title: "Section 9903 - Authorization of appropriations"
 usc_title: 42
 usc_section: "9903"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9903"
-generated_at: "2026-03-30T02:56:11.376Z"
+generated_at: "2026-11-23T20:27:23.187Z"
+status: "active"
 ---
 
 # § 9903. Authorization of appropriations
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.376Z"
     - **(A)** not less than ½ of the amount reserved by the Secretary under this paragraph shall be distributed directly to eligible entities, organizations, or associations described in section 9913(c)(2) of this title for the purpose of carrying out activities described in section 9913(c) of this title ; and
     - **(B)** ½ of the remainder of the amount reserved by the Secretary under this paragraph shall be used by the Secretary to carry out evaluation and to assist States in carrying out corrective action activities and monitoring (to correct programmatic deficiencies of eligible entities), as described in sections 9914(c) and 9913 of this title; and
   - **(3)** 9 percent for carrying out section 9921 of this title (relating to discretionary activities) and section 9917(b)(2) of this title .
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 674](https://www.govinfo.gov/link/plaw/97/public/35), as added [Pub. L. 105–285, title II, § 201](https://www.govinfo.gov/link/plaw/105/public/285), Oct. 27, 1998, [112 Stat. 2730](https://www.govinfo.gov/link/statute/112/2730).)*

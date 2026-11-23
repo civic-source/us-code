@@ -3,9 +3,10 @@ title: "Section 78s - Registration, responsibilities, and oversight of self-regu
 usc_title: 15
 usc_section: "78s"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 78s"
-generated_at: "2026-03-30T02:54:08.055Z"
+generated_at: "2026-11-23T20:26:03.546Z"
+status: "active"
 ---
 
 # § 78s. Registration, responsibilities, and oversight of self-regulatory organizations
@@ -125,3 +126,75 @@ generated_at: "2026-03-30T02:54:08.055Z"
     - **(B)** in the case of a registered securities association, with any such provision or any provision of the rules of the Municipal Securities Rulemaking Board by any member or person associated with a member; or
     - **(C)** in the case of a registered clearing agency, with any provision of the rules of the clearing agency by any participant.
 - **(i)** If a proceeding under subsection (h)(1) of this section results in the suspension or revocation of the registration of a clearing agency, the appropriate regulatory agency for such clearing agency may, upon notice to such clearing agency, apply to any court of competent jurisdiction specified in section 78u(d) or 78aa of this title for the appointment of a trustee. In the event of such an application, the court may, to the extent it deems necessary or appropriate, take exclusive jurisdiction of such clearing agency and the records and assets thereof, wherever located; and the court shall appoint the appropriate regulatory agency for such clearing agency or a person designated by such appropriate regulatory agency as trustee with power to take possession and continue to operate or terminate the operations of such clearing agency in an orderly manner for the protection of participants and investors, subject to such terms and conditions as the court may prescribe.
+
+Approval process.—
+
+Approval process established.—
+
+In general
+
+Extension of time period
+
+Proceedings.—
+
+Notice and hearing
+
+Order of approval or disapproval.—
+
+In general
+
+Extension of time period
+
+(aa) the Commission determines that a longer period is appropriate and publishes the reasons for such determination; or
+
+(bb) the self-regulatory organization that filed the proposed rule change consents to the longer period.
+
+Standards for approval and disapproval.—
+
+Approval
+
+Disapproval
+
+Time for approval
+
+Result of failure to institute or conclude proceedings
+
+Publication date based on federal register publishing
+
+Rulemaking.—
+
+In general
+
+Notice and comment not required
+
+Security futures product rule changes.—
+
+Filing required
+
+Filing with cftc
+
+Abrogation of rule changes
+
+Review of resubmitted abrogated rules.—
+
+Proceedings
+
+Grounds for approval
+
+Decimal pricing
+
+Consultation with cftc.—
+
+Consultation required
+
+Responses to cftc comments and findings
+
+Rule of construction relating to filing date of proposed rule changes.—
+
+In general
+
+Exception
+
+## Source Credit
+
+*(June 6, 1934, ch. 404, title I, § 19, [48 Stat. 898](https://www.govinfo.gov/link/statute/48/898); [Pub. L. 87–196](https://www.govinfo.gov/link/plaw/87/public/196), Sept. 5, 1961, [75 Stat. 465](https://www.govinfo.gov/link/statute/75/465); [Pub. L. 87–561](https://www.govinfo.gov/link/plaw/87/public/561), July 27, 1962, [76 Stat. 247](https://www.govinfo.gov/link/statute/76/247); [Pub. L. 90–438](https://www.govinfo.gov/link/plaw/90/public/438), July 29, 1968, [82 Stat. 453](https://www.govinfo.gov/link/statute/82/453); [Pub. L. 91–94](https://www.govinfo.gov/link/plaw/91/public/94), Oct. 20, 1969, [83 Stat. 141](https://www.govinfo.gov/link/statute/83/141); [Pub. L. 91–410](https://www.govinfo.gov/link/plaw/91/public/410), Sept. 25, 1970, [84 Stat. 862](https://www.govinfo.gov/link/statute/84/862); [Pub. L. 94–29, § 16](https://www.govinfo.gov/link/plaw/94/public/29), June 4, 1975, [89 Stat. 146](https://www.govinfo.gov/link/statute/89/146); [Pub. L. 103–202, title I, § 106(c)](https://www.govinfo.gov/link/plaw/103/public/202), Dec. 17, 1993, [107 Stat. 2350](https://www.govinfo.gov/link/statute/107/2350); [Pub. L. 105–353, title III, § 301(b)(11)](https://www.govinfo.gov/link/plaw/105/public/353), Nov. 3, 1998, [112 Stat. 3236](https://www.govinfo.gov/link/statute/112/3236); [Pub. L. 106–554, § 1(a)(5) [title II, § 202(b), (c)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–418, 2763A–421; [Pub. L. 111–203, title VII, § 717(c)](https://www.govinfo.gov/link/plaw/111/public/203), title IX, §§ 916, 929F(e), July 21, 2010, [124 Stat. 1652](https://www.govinfo.gov/link/statute/124/1652), 1833, 1854.)*

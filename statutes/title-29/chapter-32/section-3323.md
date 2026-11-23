@@ -3,9 +3,10 @@ title: "Section 3323 - Local administrative cost limits"
 usc_title: 29
 usc_section: "3323"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3323"
-generated_at: "2026-03-30T02:55:18.762Z"
+generated_at: "2026-11-23T20:26:38.150Z"
+status: "active"
 ---
 
 # § 3323. Local administrative cost limits
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:18.762Z"
   - **(1)** not less than 95 percent shall be expended for carrying out adult education and literacy activities; and
   - **(2)** the remaining amount, not to exceed 5 percent, shall be used for planning, administration (including carrying out the requirements of section 3141 of this title ), professional development, and the activities described in paragraphs (3) and (5) of section 3322 of this title .
 - **(b)** In cases where the cost limits described in subsection (a) are too restrictive to allow for the activities described in subsection (a)(2), the eligible provider shall negotiate with the eligible agency in order to determine an adequate level of funds to be used for noninstructional purposes.
+
+## Source Credit
+
+*([Pub. L. 113–128, title II, § 233](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1620](https://www.govinfo.gov/link/statute/128/1620).)*

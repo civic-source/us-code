@@ -3,9 +3,10 @@ title: "Section 2150 - No full faith and credit of the United States"
 usc_title: 48
 usc_section: "2150"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 2150"
-generated_at: "2026-03-30T02:56:14.604Z"
+generated_at: "2026-11-23T20:27:28.201Z"
+status: "active"
 ---
 
 # § 2150. No full faith and credit of the United States
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:56:14.604Z"
 - **(a)** The full faith and credit of the United States is not pledged for the payment of any principal of or interest on any bond, note, or other obligation issued by a covered territory or covered territorial instrumentality. The United States is not responsible or liable for the payment of any principal of or interest on any bond, note, or other obligation issued by a covered territory or covered territorial instrumentality.
 - **(b)** Any claim to which the United States is determined to be liable under this chapter shall be subject to appropriations.
 - **(c)** No Federal funds shall be authorized by this chapter for the payment of any liability of the territory or territorial instrumentality.
+
+## Source Credit
+
+*([Pub. L. 114–187, title II, § 210](https://www.govinfo.gov/link/plaw/114/public/187), June 30, 2016, [130 Stat. 576](https://www.govinfo.gov/link/statute/130/576).)*

@@ -3,9 +3,10 @@ title: "Section 15906 - Liability of pipeline carriers under receipts and bills 
 usc_title: 49
 usc_section: "15906"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 15906"
-generated_at: "2026-03-30T02:56:19.333Z"
+generated_at: "2026-11-23T20:27:34.771Z"
+status: "active"
 ---
 
 # § 15906. Liability of pipeline carriers under receipts and bills of lading
@@ -16,3 +17,15 @@ generated_at: "2026-03-30T02:56:19.333Z"
 - **(d)** A pipeline carrier may not provide by rule, contract, or otherwise, a period of less than 9 months for filing a claim against it under this section and a period of less than 2 years for bringing a civil action against it under this section. The period for bringing a civil action is computed from the date the carrier gives a person written notice that the carrier has disallowed any part of the claim specified in the notice. For the purposes of this subsection—
   - **(1)** an offer of compromise shall not constitute a disallowance of any part of the claim unless the carrier, in writing, informs the claimant that such part of the claim is disallowed and provides reasons for such disallowance; and
   - **(2)** communications received from a carrier’s insurer shall not constitute a disallowance of any part of the claim unless the insurer, in writing, informs the claimant that such part of the claim is disallowed, provides reasons for such disallowance, and informs the claimant that the insurer is acting on behalf of the carrier.
+
+General Liability
+
+Apportionment
+
+Civil Actions
+
+Minimum Period for Filing Claims
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 106(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 929](https://www.govinfo.gov/link/statute/109/929).)*

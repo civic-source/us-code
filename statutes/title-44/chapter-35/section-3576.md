@@ -3,9 +3,10 @@ title: "Section 3576 - Designated statistical agencies"
 usc_title: 44
 usc_section: "3576"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "44 U.S.C. § 3576"
-generated_at: "2026-03-30T02:55:56.298Z"
+generated_at: "2026-11-23T20:27:03.842Z"
+status: "active"
 ---
 
 # § 3576. Designated statistical agencies
@@ -42,3 +43,29 @@ generated_at: "2026-03-30T02:55:56.298Z"
   - **(1)** The Census Bureau of the Department of Commerce.
   - **(2)** The Bureau of Economic Analysis of the Department of Commerce.
   - **(3)** The Bureau of Labor Statistics of the Department of Labor.
+
+Purposes
+
+Responsibilities of Designated Statistical Agencies
+
+Sharing of Business Data Among Designated Statistical Agencies.—
+
+In general
+
+Responsibilities of agencies under other laws
+
+Responsibilities of officers, employees, and agents
+
+Notice
+
+Limitations on Use of Business Data Provided by Designated Statistical Agencies.—
+
+General use
+
+Publication
+
+Designated Statistical Agency Defined
+
+## Source Credit
+
+*(Added [Pub. L. 115–435, title III, § 302(a)](https://www.govinfo.gov/link/plaw/115/public/435), Jan. 14, 2019, [132 Stat. 5550](https://www.govinfo.gov/link/statute/132/5550).)*

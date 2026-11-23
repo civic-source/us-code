@@ -3,9 +3,10 @@ title: "Section 295 - Authorization of appropriations; Foreign Service Building 
 usc_title: 22
 usc_section: "295"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 295"
-generated_at: "2026-03-30T02:55:05.326Z"
+generated_at: "2026-11-23T20:26:32.054Z"
+status: "active"
 ---
 
 # § 295. Authorization of appropriations; Foreign Service Building Fund; expenditures; foreign currencies
@@ -61,3 +62,7 @@ generated_at: "2026-03-30T02:55:05.326Z"
     - **(A)** shall 2 2 So in original. not exceed 20 percent of any appropriation made available for fiscal year 2018 for the Department of State under the heading “Administration of Foreign Affairs”, and no such appropriation shall be increased by more than 10 percent by any such transfer; and
     - **(B)** shall 2 be merged with funds in the heading to which transferred, and shall be available subject to the same terms and conditions as the funds with which merged.
   - **(2)** Not later than 15 days before any transfer of funds pursuant to paragraph (1), the Secretary of State shall notify in writing the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives. Any such notification shall include a description of the particular security need necessitating the transfer at issue.
+
+## Source Credit
+
+*(May 7, 1926, ch. 250, § 4, [44 Stat. 404](https://www.govinfo.gov/link/statute/44/404); June 19, 1952, ch. 446, § 2, [66 Stat. 140](https://www.govinfo.gov/link/statute/66/140); [Pub. L. 86–723, § 49](https://www.govinfo.gov/link/plaw/86/public/723), Sept. 8, 1960, [74 Stat. 847](https://www.govinfo.gov/link/statute/74/847); [Pub. L. 88–94](https://www.govinfo.gov/link/plaw/88/public/94), §§ 1, 2(d), Aug. 12, 1963, [77 Stat. 121](https://www.govinfo.gov/link/statute/77/121), 122; [Pub. L. 88–414](https://www.govinfo.gov/link/plaw/88/public/414), Aug. 10, 1964, [78 Stat. 387](https://www.govinfo.gov/link/statute/78/387); [Pub. L. 89–22](https://www.govinfo.gov/link/plaw/89/public/22), May 21, 1965, [79 Stat. 112](https://www.govinfo.gov/link/statute/79/112); [Pub. L. 89–636, § 1](https://www.govinfo.gov/link/plaw/89/public/636), Oct. 10, 1966, [80 Stat. 881](https://www.govinfo.gov/link/statute/80/881); [Pub. L. 90–442](https://www.govinfo.gov/link/plaw/90/public/442), July 30, 1968, [82 Stat. 461](https://www.govinfo.gov/link/statute/82/461); [Pub. L. 91–586](https://www.govinfo.gov/link/plaw/91/public/586), Dec. 24, 1970, [84 Stat. 1578](https://www.govinfo.gov/link/statute/84/1578); [Pub. L. 93–47](https://www.govinfo.gov/link/plaw/93/public/47), June 22, 1973, [87 Stat. 98](https://www.govinfo.gov/link/statute/87/98); [Pub. L. 93–263](https://www.govinfo.gov/link/plaw/93/public/263), Apr. 12, 1974, [88 Stat. 83](https://www.govinfo.gov/link/statute/88/83); [Pub. L. 94–141, title I, § 171](https://www.govinfo.gov/link/plaw/94/public/141), Nov. 29, 1975, [89 Stat. 760](https://www.govinfo.gov/link/statute/89/760); [Pub. L. 94–350, title I, § 109](https://www.govinfo.gov/link/plaw/94/public/350), July 12, 1976, [90 Stat. 824](https://www.govinfo.gov/link/statute/90/824); [Pub. L. 95–45, § 3](https://www.govinfo.gov/link/plaw/95/public/45), June 15, 1977, [91 Stat. 221](https://www.govinfo.gov/link/statute/91/221); [Pub. L. 103–199, title V, § 503](https://www.govinfo.gov/link/plaw/103/public/199), Dec. 17, 1993, [107 Stat. 2327](https://www.govinfo.gov/link/statute/107/2327); [Pub. L. 114–323, title I, § 113](https://www.govinfo.gov/link/plaw/114/public/323), Dec. 16, 2016, [130 Stat. 1911](https://www.govinfo.gov/link/statute/130/1911).)*

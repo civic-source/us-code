@@ -3,9 +3,10 @@ title: "Section 15g - Omitted"
 usc_title: 20
 usc_section: "15g"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 15g"
-generated_at: "2026-03-30T02:54:48.071Z"
+generated_at: "2026-11-23T20:26:14.207Z"
+status: "omitted"
 ---
 
 # §§ 15 to 15g. Omitted

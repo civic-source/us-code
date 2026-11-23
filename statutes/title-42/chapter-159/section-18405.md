@@ -3,9 +3,10 @@ title: "Section 18405 - Commercial Reusable Suborbital Research Program"
 usc_title: 42
 usc_section: "18405"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18405"
-generated_at: "2026-03-30T02:56:11.520Z"
+generated_at: "2026-11-23T20:27:23.801Z"
+status: "active"
 ---
 
 # § 18405. Commercial Reusable Suborbital Research Program
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.520Z"
 - **(c)** The Administrator shall establish a Commercial Reusable Suborbital Research Program within the Space Technology Program that shall fund the development of payloads for scientific research, technology development, and education, and shall provide flight opportunities for those payloads to microgravity environments and suborbital altitudes. The Commercial Reusable Suborbital Research Program may fund engineering and integration demonstrations, proofs of concept, or educational experiments for commercial reusable vehicle flights. The program shall endeavor to work with NASA’s Mission Directorates to help achieve NASA’s research, technology, and education goals.
 - **(d)** The Administrator shall submit a report annually to the appropriate committees of Congress describing progress in carrying out the Commercial Reusable Suborbital Research program, including the number and type of suborbital missions planned in each fiscal year.
 - **(e)** There are authorized to be appropriated to the Administrator $15,000,000 for each of fiscal years 2011 through 2013 to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 111–267, title IX, § 907](https://www.govinfo.gov/link/plaw/111/public/267), Oct. 11, 2010, [124 Stat. 2837](https://www.govinfo.gov/link/statute/124/2837).)*

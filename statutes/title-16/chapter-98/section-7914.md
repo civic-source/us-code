@@ -3,9 +3,10 @@ title: "Section 7914 - Shooting ranges"
 usc_title: 16
 usc_section: "7914"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 7914"
-generated_at: "2026-03-30T02:54:23.079Z"
+generated_at: "2026-11-23T20:26:20.862Z"
+status: "active"
 ---
 
 # § 7914. Shooting ranges
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:23.079Z"
     - **(C)** a primitive or semiprimitive area;
   - **(4)** a national monument, national volcanic monument, or national scenic area; or
   - **(5)** a component of the National Wild and Scenic Rivers System (including areas designated for study for potential addition to the National Wild and Scenic Rivers System).
+
+## Source Credit
+
+*([Pub. L. 116–9, title IV, § 4104](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 759](https://www.govinfo.gov/link/statute/133/759).)*

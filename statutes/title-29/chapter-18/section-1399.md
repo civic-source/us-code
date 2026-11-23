@@ -3,9 +3,10 @@ title: "Section 1399 - Notice, collection, etc., of withdrawal liability"
 usc_title: 29
 usc_section: "1399"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1399"
-generated_at: "2026-03-30T02:55:18.735Z"
+generated_at: "2026-11-23T20:26:38.036Z"
+status: "active"
 ---
 
 # § 1399. Notice, collection, etc., of withdrawal liability
@@ -61,3 +62,7 @@ generated_at: "2026-03-30T02:55:18.735Z"
     - **(B)** are not inconsistent with regulations of the corporation.
   - **(8)** In the case of a terminated multiemployer plan, an employer’s obligation to make payments under this section ceases at the end of the plan year in which the assets of the plan (exclusive of withdrawal liability claims) are sufficient to meet all obligations of the plan, as determined by the corporation.
 - **(d)** The prohibitions provided in section 1106(a) of this title do not apply to any action required or permitted under this part or to any arrangement relating to withdrawal liability involving the plan.
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4219](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 96–364, title I, § 104(2)](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1236](https://www.govinfo.gov/link/statute/94/1236); amended [Pub. L. 98–369, div. A, title V, § 558(b)(1)(B)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 899](https://www.govinfo.gov/link/statute/98/899); [Pub. L. 113–235, div. O, title II, § 201(a)(7)(B)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2810](https://www.govinfo.gov/link/statute/128/2810).)*

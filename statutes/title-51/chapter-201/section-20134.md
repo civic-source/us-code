@@ -3,12 +3,36 @@ title: "Section 20134 - Arrest authority"
 usc_title: 51
 usc_section: "20134"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 20134"
-generated_at: "2026-03-30T02:56:28.703Z"
+generated_at: "2026-11-23T20:27:37.448Z"
+status: "active"
 ---
 
 # § 20134. Arrest authority
 
 Under regulations prescribed by the Administrator and approved by the Attorney General, employees of the Administration and of its contractors and subcontractors authorized to carry firearms under section 20133 of this title may arrest without warrant for any offense against the United States committed in their presence, or for any felony cognizable under the laws of the United States if they have reasonable grounds to believe that the person to be arrested has committed or is committing such felony. Persons granted authority to make arrests by this section may exercise that authority only while guarding and protecting property owned or leased by, or under the control of, the United States under the administration and control of the Administration or one of its contractors or subcontractors, at facilities owned by or contracted to the Administration.
 
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 20134 | 42 U.S.C. 2456a . | Pub. L. 85–568, title III, § 304(f) , as added Pub. L. 100–685, title II, § 206 , Nov. 17, 1988 , 102 Stat. 4090 . |
+
+
+Historical and Revision Notes
+
+20134
+
+42 U.S.C. 2456a
+
+Pub. L. 85–568, title III, § 304(f)
+
+Pub. L. 100–685, title II, § 206
+
+Nov. 17, 1988
+
+102 Stat. 4090
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3339](https://www.govinfo.gov/link/statute/124/3339).)*

@@ -3,9 +3,10 @@ title: "Section 6617 - Suspension of penalties for certain year 2000 failures by
 usc_title: 15
 usc_section: "6617"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 6617"
-generated_at: "2026-03-30T02:54:08.213Z"
+generated_at: "2026-11-23T20:26:04.405Z"
+status: "active"
 ---
 
 # § 6617. Suspension of penalties for certain year 2000 failures by small business concerns
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:08.213Z"
   - **(1)** the small business concern’s failure to comply with Federal rules or regulations resulted in actual harm, or constitutes or creates an imminent threat to public health, safety, or the environment; or
   - **(2)** the small business concern fails to correct the violation not later than 1 month after initial notification to the agency.
 - **(f)** This section shall not apply to first-time violations caused by a Y2K failure occurring after December 31, 2000 .
+
+## Source Credit
+
+*([Pub. L. 106–37, § 18](https://www.govinfo.gov/link/plaw/106/public/37), July 20, 1999, [113 Stat. 202](https://www.govinfo.gov/link/statute/113/202).)*

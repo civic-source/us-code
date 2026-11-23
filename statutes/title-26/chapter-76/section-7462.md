@@ -3,12 +3,17 @@ title: "Section 7462 - Publication of reports"
 usc_title: 26
 usc_section: "7462"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 7462"
-generated_at: "2026-03-30T02:55:27.875Z"
+generated_at: "2026-11-23T20:26:46.780Z"
+status: "active"
 ---
 
 # § 7462. Publication of reports
 
 The Tax Court shall provide for the publication of its reports at the Government Publishing Office in such form and manner as may be best adapted for public information and use, and such authorized publication shall be competent evidence of the reports of the Tax Court therein contained in all courts of the United States and of the several States without any further proof or authentication thereof. Such reports shall be subject to sale in the same manner and upon the same terms as other public documents.
 
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 887; [Pub. L. 113–235, div. H, title I, § 1301(b)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537).)*

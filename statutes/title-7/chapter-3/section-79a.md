@@ -3,9 +3,10 @@ title: "Section 79a - Weighing authority"
 usc_title: 7
 usc_section: "79a"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 79a"
-generated_at: "2026-03-30T02:53:42.253Z"
+generated_at: "2026-11-23T20:25:40.903Z"
+status: "active"
 ---
 
 # § 79a. Weighing authority
@@ -45,4 +46,20 @@ generated_at: "2026-03-30T02:53:42.253Z"
     - **(D)** For an official weighing at an export facility performed by the Secretary, the portion of the fees based on export tonnage shall be based on the rolling 5-year average of export tonnage volumes.
   - **(2)** Each agency to which authority has been delegated under this section and each agency or other person which has been designated to perform functions related to weighing under this section shall pay to the Secretary fees in such amount as the Secretary determines fair and reasonable and as will cover the costs incurred by the Secretary relating to supervision of the agency personnel and supervision by the Secretary of the Secretary’s field office personnel incurred as a result of the functions performed by such agencies, except costs incurred under sections 79(g)(3), 85, 86, and 87c of this title. The fees shall be payable after the services are performed at such times as specified by the Secretary and shall be deposited in the fund created in section 79(j) of this title . Failure to pay the fee within thirty days after it is due shall result in automatic termination of the delegation or designation, which shall be reinstated upon payment, within such period as specified by the Secretary, of the fee currently due plus interest and any further expenses incurred by the Secretary because of such termination. The interest rate on overdue fees shall be as prescribed by the Secretary, but not less than the current average market yield on outstanding marketable obligations of the United States of comparable maturity, plus an additional charge of not to exceed 1 per centum per annum as determined by the Secretary, and adjusted to the nearest one-eighth of 1 per centum.
   - **(3)** In order to maintain an operating reserve of not less than 3 and not more than 6 months, the Secretary shall adjust the fees described in paragraphs (1) and (2) not less frequently than annually.
-  - **(4)** The authority provided to the Secretary by paragraph (1) and the duties imposed by paragraph (2) on agencies and other persons described in such paragraph shall expire on September 30, 2025 . After that date, the Secretary shall, under such regulations as the Secretary may prescribe, charge and collect reasonable fees to cover the estimated costs of official weighing and supervision of weighing except when the official weighing or supervision of weighing is performed by a designated official agency or by a State under a delegation of authority. The fees authorized by this paragraph shall, as nearly as practicable, cover the costs of the Secretary incident to its performance of official weighing and supervision of weighing services in the United States and on United States grain in Canadian ports, excluding administrative and supervisory costs. The fees authorized by this paragraph shall be deposited into a fund which shall be available without fiscal year limitation for the expenses of the Secretary incident to providing services under this chapter.
+  - **(4)** The authority provided to the Secretary by paragraph (1) and the duties imposed by paragraph (2) on agencies and other persons described in such paragraph shall expire on September 30, 2025 . 2 2 See United States Grain Standards Act Extension note below. After that date, the Secretary shall, under such regulations as the Secretary may prescribe, charge and collect reasonable fees to cover the estimated costs of official weighing and supervision of weighing except when the official weighing or supervision of weighing is performed by a designated official agency or by a State under a delegation of authority. The fees authorized by this paragraph shall, as nearly as practicable, cover the costs of the Secretary incident to its performance of official weighing and supervision of weighing services in the United States and on United States grain in Canadian ports, excluding administrative and supervisory costs. The fees authorized by this paragraph shall be deposited into a fund which shall be available without fiscal year limitation for the expenses of the Secretary incident to providing services under this chapter.
+
+Weighing fees.—
+
+In general
+
+Amount of fees
+
+Use of fees
+
+Export tonnage fees
+
+Adjustment of fees
+
+## Source Credit
+
+*(Aug. 11, 1916, ch. 313, pt. B, § 7A, as added [Pub. L. 94–582, § 9](https://www.govinfo.gov/link/plaw/94/public/582), Oct. 21, 1976, [90 Stat. 2875](https://www.govinfo.gov/link/statute/90/2875); amended [Pub. L. 95–113, title XVI](https://www.govinfo.gov/link/plaw/95/public/113), §§ 1602(b), 1604(e), 1606(e), Sept. 29, 1977, [91 Stat. 1025](https://www.govinfo.gov/link/statute/91/1025), 1027, 1030; [Pub. L. 97–35, title I, § 155(2)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 371](https://www.govinfo.gov/link/statute/95/371); [Pub. L. 100–518, § 2(2)](https://www.govinfo.gov/link/plaw/100/public/518), Oct. 24, 1988, [102 Stat. 2585](https://www.govinfo.gov/link/statute/102/2585); [Pub. L. 103–156](https://www.govinfo.gov/link/plaw/103/public/156), §§ 4(b), 5(b), 12(e), 14(b), Nov. 24, 1993, [107 Stat. 1526](https://www.govinfo.gov/link/statute/107/1526), 1528, 1530; [Pub. L. 103–354, title II, § 293(a)(4)](https://www.govinfo.gov/link/plaw/103/public/354), (7), (8), Oct. 13, 1994, [108 Stat. 3237](https://www.govinfo.gov/link/statute/108/3237); [Pub. L. 106–472, title I](https://www.govinfo.gov/link/plaw/106/public/472), §§ 102(b), 103(b), Nov. 9, 2000, [114 Stat. 2059](https://www.govinfo.gov/link/statute/114/2059), 2060; [Pub. L. 109–83, § 1(a)](https://www.govinfo.gov/link/plaw/109/public/83), Sept. 30, 2005, [119 Stat. 2053](https://www.govinfo.gov/link/statute/119/2053); [Pub. L. 114–54, title III, § 301(b)(3)(B)](https://www.govinfo.gov/link/plaw/114/public/54), (c), Sept. 30, 2015, [129 Stat. 518](https://www.govinfo.gov/link/statute/129/518), 519; [Pub. L. 115–334, title XII, § 12610(b)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 5012](https://www.govinfo.gov/link/statute/132/5012); [Pub. L. 116–216, § 3](https://www.govinfo.gov/link/plaw/116/public/216), Dec. 11, 2020, [134 Stat. 1048](https://www.govinfo.gov/link/statute/134/1048).)*

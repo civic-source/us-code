@@ -3,9 +3,10 @@ title: "Section 6010 - Investigations and power to subpoena"
 usc_title: 7
 usc_section: "6010"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6010"
-generated_at: "2026-03-30T02:53:42.424Z"
+generated_at: "2026-11-23T20:25:41.681Z"
+status: "active"
 ---
 
 # § 6010. Investigations and power to subpoena
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:42.424Z"
 - **(d)** Any failure to obey such order of the court may be punished by such court as a contempt thereof.
 - **(e)** Process in any such case may be served in the judicial district in which such person resides or conducts business or wherever such person may be found.
 - **(f)** The site of any hearings held under section 6008 or 6009 of this title shall be within the judicial district where such person resides or has a principal place of business.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XIX, § 1915](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3852](https://www.govinfo.gov/link/statute/104/3852); [Pub. L. 102–237, title VIII, § 802(3)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1882](https://www.govinfo.gov/link/statute/105/1882).)*

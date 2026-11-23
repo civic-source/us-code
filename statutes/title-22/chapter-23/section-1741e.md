@@ -3,9 +3,10 @@ title: "Section 1741e - Definitions"
 usc_title: 22
 usc_section: "1741e"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 1741e"
-generated_at: "2026-03-30T02:55:05.339Z"
+generated_at: "2026-11-23T20:26:32.144Z"
+status: "active"
 ---
 
 # § 1741e. Definitions
@@ -18,3 +19,7 @@ In this subchapter:
   - **(2)** The term “United States national” means—
     - **(A)** a United States national as defined in section 1101(a)(22) or section 1408 of title 8 ; and
     - **(B)** a lawful permanent resident alien with significant ties to the United States.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. FF, title III, § 307](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3098](https://www.govinfo.gov/link/statute/134/3098).)*

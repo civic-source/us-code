@@ -3,9 +3,10 @@ title: "Section 2002 - Transfer of inventory lands"
 usc_title: 7
 usc_section: "2002"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2002"
-generated_at: "2026-03-30T02:53:42.354Z"
+generated_at: "2026-11-23T20:25:41.383Z"
+status: "active"
 ---
 
 # § 2002. Transfer of inventory lands
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:42.354Z"
   - **(1)** at least 2 public notices are given of the transfer;
   - **(2)** if requested, at least 1 public meeting is held prior to the transfer; and
   - **(3)** the Governor and at least 1 elected county official of the State and county where the property is located are consulted prior to the transfer.
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 354](https://www.govinfo.gov/link/plaw/87/public/128), as added [Pub. L. 100–233, title VI, § 616](https://www.govinfo.gov/link/plaw/100/public/233), Jan. 6, 1988, [101 Stat. 1682](https://www.govinfo.gov/link/statute/101/1682); amended [Pub. L. 104–127, title VI, § 646](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1103](https://www.govinfo.gov/link/statute/110/1103).)*

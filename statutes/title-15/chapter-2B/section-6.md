@@ -3,9 +3,10 @@ title: "Section 6 - Securities whistleblower incentives and protection"
 usc_title: 15
 usc_section: "6"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 6"
-generated_at: "2026-03-30T02:54:08.058Z"
+generated_at: "2026-11-23T20:26:03.558Z"
+status: "active"
 ---
 
 # § 78u–6. Securities whistleblower incentives and protection
@@ -118,3 +119,11 @@ generated_at: "2026-03-30T02:54:08.058Z"
   - **(1)** knowingly and willfully makes any false, fictitious, or fraudulent statement or representation; or
   - **(2)** uses any false writing or document knowing the writing or document contains any false, fictitious, or fraudulent statement or entry.
 - **(j)** The Commission shall have the authority to issue such rules and regulations as may be necessary or appropriate to implement the provisions of this section consistent with the purposes of this section.
+
+(aa) more than 6 years after the date on which the violation of subparagraph (A) occurred; or
+
+(bb) more than 3 years after the date when facts material to the right of action are known or reasonably should have been known by the employee alleging a violation of subparagraph (A).
+
+## Source Credit
+
+*(June 6, 1934, ch. 404, title I, § 21F, as added [Pub. L. 111–203, title IX, § 922(a)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1841](https://www.govinfo.gov/link/statute/124/1841); amended [Pub. L. 119–21, title III, § 30003(b)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 126](https://www.govinfo.gov/link/statute/139/126).)*

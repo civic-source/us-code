@@ -3,9 +3,10 @@ title: "Section 2911 - Proliferation Security Initiative improvements and author
 usc_title: 50
 usc_section: "2911"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 2911"
-generated_at: "2026-03-30T02:56:26.226Z"
+generated_at: "2026-11-23T20:27:30.864Z"
+status: "active"
 ---
 
 # § 2911. Proliferation Security Initiative improvements and authorities
@@ -25,3 +26,9 @@ generated_at: "2026-03-30T02:56:26.226Z"
   - **(1)** the steps taken to implement the recommendations described in paragraph (3) of subsection (a); and
   - **(2)** the progress made toward implementing the matters described in paragraphs (1), (2), and (4) of subsection (a).
 - **(d)** The Government Accountability Office shall submit to Congress, for each of fiscal years 2007, 2009, and 2011, a report with its assessment of the progress and effectiveness of the PSI, which shall include an assessment of the measures referred to in subsection (a).
+
+George W. Bush.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XVIII, § 1821](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 493](https://www.govinfo.gov/link/statute/121/493); [Pub. L. 112–81, div. A, title X, § 1067](https://www.govinfo.gov/link/plaw/112/public/81), formerly § 1067(b), Dec. 31, 2011, [125 Stat. 1589](https://www.govinfo.gov/link/statute/125/1589), renumbered § 1067, [Pub. L. 112–239, div. A, title X, § 1076(a)(20)(B)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1949](https://www.govinfo.gov/link/statute/126/1949); [Pub. L. 114–92, div. A, title X, § 1076(b)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 998](https://www.govinfo.gov/link/statute/129/998).)*

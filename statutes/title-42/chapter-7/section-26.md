@@ -3,9 +3,10 @@ title: "Section 26 - Establishment of standards"
 usc_title: 42
 usc_section: "26"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 26"
-generated_at: "2026-03-30T02:56:10.979Z"
+generated_at: "2026-11-23T20:27:21.272Z"
+status: "active"
 ---
 
 # § 1395w–26. Establishment of standards
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:10.979Z"
   - **(2)** Consistent with the requirements of this part, standards established under this subsection shall be based on standards established under section 1395mm of this title to carry out analogous provisions of such section.
   - **(3)** The standards established under this part shall supersede any State law or regulation (other than State licensing laws or State laws relating to plan solvency) with respect to MA plans which are offered by MA organizations under this part.
   - **(4)** The Secretary may not implement, other than at the beginning of a calendar year, regulations under this section that impose new, significant regulatory requirements on a Medicare+Choice organization or plan.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1856, as added [Pub. L. 105–33, title IV, § 4001](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 317](https://www.govinfo.gov/link/statute/111/317); amended [Pub. L. 106–554, § 1(a)(6) [title VI, §§ 612(a), 614(a)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–560; [Pub. L. 108–173, title II, § 232(a)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2208](https://www.govinfo.gov/link/statute/117/2208).)*

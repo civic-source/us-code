@@ -3,12 +3,17 @@ title: "Section 77ff - Accounts and annual balance sheet of Corporation; audits"
 usc_title: 15
 usc_section: "77ff"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 77ff"
-generated_at: "2026-03-30T02:54:08.036Z"
+generated_at: "2026-11-23T20:26:03.452Z"
+status: "active"
 ---
 
 # § 77ff. Accounts and annual balance sheet of Corporation; audits
 
 The board of directors shall cause accounts to be kept of all matters relating to or connected with the transactions and business of the Corporation, and cause a general account and balance sheet of the Corporation to be made out in each year, and cause all accounts to be audited by one or more auditors who shall examine the same and report thereon to the board of directors.
 
+
+## Source Credit
+
+*(May 27, 1933, ch. 38, title II, § 205, [48 Stat. 94](https://www.govinfo.gov/link/statute/48/94).)*

@@ -3,9 +3,10 @@ title: "Section 21081 - Voting systems standards"
 usc_title: 52
 usc_section: "21081"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "52 U.S.C. § 21081"
-generated_at: "2026-03-30T02:56:30.168Z"
+generated_at: "2026-11-23T20:27:36.986Z"
+status: "active"
 ---
 
 # § 21081. Voting systems standards
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:56:30.168Z"
   - **(1)** Nothing in this section shall be construed to prohibit a State or jurisdiction which used a particular type of voting system in the elections for Federal office held in November 2000 from using the same type of system after the effective date of this section, so long as the system meets or is modified to meet the requirements of this section.
   - **(2)** For purposes of subsection (a)(1)(A)(i), the term “verify” may not be defined in a manner that makes it impossible for a paper ballot voting system to meet the requirements of such subsection or to be modified to meet such requirements.
 - **(d)** Each State and jurisdiction shall be required to comply with the requirements of this section on and after January 1, 2006 .
+
+## Source Credit
+
+*([Pub. L. 107–252, title III, § 301](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1704](https://www.govinfo.gov/link/statute/116/1704).)*

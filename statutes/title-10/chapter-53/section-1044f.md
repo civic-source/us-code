@@ -3,9 +3,10 @@ title: "Section 1044f - Policies with respect to special trial counsel"
 usc_title: 10
 usc_section: "1044f"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1044f"
-generated_at: "2026-03-30T02:53:38.096Z"
+generated_at: "2026-11-23T20:25:51.180Z"
+status: "active"
 ---
 
 # § 1044f. Policies with respect to special trial counsel
@@ -26,3 +27,15 @@ generated_at: "2026-03-30T02:53:38.096Z"
   - **(1)** in lieu of providing for separate offices for the Air Force and Space Force under subsection (a)(1), provide for the establishment of a single dedicated office from which office the activities of the special trial counsel of the Department of the Air Force shall be supervised and overseen; and
   - **(2)** in lieu of providing for separate lead special trial counsels for the Air Force and Space Force under subsection (a)(2), provide for the appointment of one lead special trial counsel who shall be responsible for the overall supervision and oversight of the activities of the special trial counsel of the Department of the Air Force.
 - **(d)** In this section, the term “military service” means the Army, Navy, Air Force, Marine Corps, and Space Force.
+
+Policies Required
+
+Uniformity
+
+Special Trial Counsel of Department of the Air Force
+
+Military Service Defined
+
+## Source Credit
+
+*(Added [Pub. L. 117–81, div. A, title V, § 532(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1694](https://www.govinfo.gov/link/statute/135/1694); amended [Pub. L. 117–263, div. A, title V, § 545(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2584](https://www.govinfo.gov/link/statute/136/2584).)*

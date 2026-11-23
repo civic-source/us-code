@@ -3,9 +3,10 @@ title: "Section 3330f - Government policy and supporting position data"
 usc_title: 5
 usc_section: "3330f"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 3330f"
-generated_at: "2026-03-30T02:52:56.003Z"
+generated_at: "2026-11-23T20:25:31.819Z"
+status: "active"
 ---
 
 # § 3330f. Government policy and supporting position data
@@ -105,3 +106,85 @@ generated_at: "2026-03-30T02:52:56.003Z"
     - **(A)** on, or through a link on, the covered website;
     - **(B)** at no cost; and
     - **(C)** in a searchable, sortable, downloadable, and machine-readable format.
+
+Definitions
+
+Agency
+
+Appointee
+
+Covered website
+
+Director
+
+Policy and supporting position
+
+Establishment of Website
+
+Contents
+
+Current Data
+
+Format
+
+Authority of Director.—
+
+Information required
+
+Requirements for agencies
+
+Public accountability
+
+Annual updates.—
+
+In general
+
+Supplement not supplant
+
+Opm help desk
+
+Coordination
+
+Data standards and timing
+
+Regulations
+
+Responsibility of Agencies.—
+
+Provision of information
+
+Ensuring completeness, accuracy, and reliability
+
+Information Verification.—
+
+Confirmation.—
+
+In general
+
+Certification
+
+Authority of director
+
+Public comment
+
+Data Archiving.—
+
+In general
+
+Public availability
+
+Definitions
+
+Gao review and report
+
+Sunset of plum book
+
+Funding.—
+
+In general
+
+Other funding
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. E, title LIII, § 5322(a)(1)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3255](https://www.govinfo.gov/link/statute/136/3255).)*

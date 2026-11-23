@@ -3,14 +3,15 @@ title: "Section 1802 - Asylum fee"
 usc_title: 8
 usc_section: "1802"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1802"
-generated_at: "2026-03-30T02:53:10.508Z"
+generated_at: "2026-11-23T20:25:36.291Z"
+status: "active"
 ---
 
 # § 1802. Asylum fee
 
-- **(a)** In addition to any other fee authorized by law, the Secretary of Homeland Security or the Attorney General, as applicable, shall require the payment of a fee, equal to the amount specified in this section, by any alien who files an application for asylum under section 1158of this title at the time such application is filed.
+- **(a)** In addition to any other fee authorized by law, the Secretary of Homeland Security or the Attorney General, as applicable, shall require the payment of a fee, equal to the amount specified in this section, by any alien who files an application for asylum under section 1158 of this title at the time such application is filed.
 - **(b)** During fiscal year 2025, the amount specified in this section shall be the greater of—
   - **(1)** $100; or
   - **(2)** such amount as the Secretary or the Attorney General, as applicable, may establish, by rule.
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:10.508Z"
     - **(C)** may be retained and expended without further appropriation; and
   - **(3)** any amounts received in fees required under this section that were not credited to the Executive Office for Immigration Review pursuant to paragraph (1) or to U.S. Citizenship and Immigration Services pursuant to paragraph (2) shall be deposited into the general fund of the Treasury.
 - **(e)** Fees required to be paid under this section shall not be waived or reduced.
+
+## Source Credit
+
+*([Pub. L. 119–21, title X, § 100002](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 364](https://www.govinfo.gov/link/statute/139/364).)*

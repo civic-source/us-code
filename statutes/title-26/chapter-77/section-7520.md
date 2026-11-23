@@ -3,9 +3,10 @@ title: "Section 7520 - Valuation tables"
 usc_title: 26
 usc_section: "7520"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 7520"
-generated_at: "2026-03-30T02:55:27.878Z"
+generated_at: "2026-11-23T20:26:46.798Z"
+status: "active"
 ---
 
 # § 7520. Valuation tables
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:27.878Z"
   - **(2)** The Secretary shall revise the initial tables prescribed for purposes of subsection (a) to take into account the most recent mortality experience available as of the time of such revision. Such tables shall be revised not less frequently than once each 10 years to take into account the most recent mortality experience available as of the time of the revision.
 - **(d)** For purposes of this section, the term “valuation date” means the date as of which the valuation is made.
 - **(e)** For purposes of this section, the term “tables” includes formulas.
+
+## Source Credit
+
+*(Added [Pub. L. 100–647, title V, § 5031(a)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3668](https://www.govinfo.gov/link/statute/102/3668); amended [Pub. L. 113–295, div. A, title II, § 221(a)(118)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4054](https://www.govinfo.gov/link/statute/128/4054).)*

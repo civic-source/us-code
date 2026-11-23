@@ -3,9 +3,10 @@ title: "Section 2996 - Congressional findings and declaration of purpose"
 usc_title: 42
 usc_section: "2996"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2996"
-generated_at: "2026-03-30T02:56:11.168Z"
+generated_at: "2026-11-23T20:27:22.179Z"
+status: "active"
 ---
 
 # § 2996. Congressional findings and declaration of purpose
@@ -18,3 +19,7 @@ The Congress finds and declares that—
   - **(4)** for many of our citizens, the availability of legal services has reaffirmed faith in our government of laws;
   - **(5)** to preserve its strength, the legal services program must be kept free from the influence of or use by it of political pressures; and
   - **(6)** attorneys providing legal assistance must have full freedom to protect the best interests of their clients in keeping with the Code of Professional Responsibility, the Canons of Ethics, and the high standards of the legal profession.
+
+## Source Credit
+
+*([Pub. L. 88–452, title X, § 1001](https://www.govinfo.gov/link/plaw/88/public/452), as added [Pub. L. 93–355, § 2](https://www.govinfo.gov/link/plaw/93/public/355), July 25, 1974, [88 Stat. 378](https://www.govinfo.gov/link/statute/88/378); amended [Pub. L. 95–222, § 2](https://www.govinfo.gov/link/plaw/95/public/222), Dec. 28, 1977, [91 Stat. 1619](https://www.govinfo.gov/link/statute/91/1619).)*

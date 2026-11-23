@@ -3,9 +3,10 @@ title: "Section 24316 - Plans to address needs of families of passengers involve
 usc_title: 49
 usc_section: "24316"
 chapter: 243
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 24316"
-generated_at: "2026-03-30T02:56:19.344Z"
+generated_at: "2026-11-23T20:27:34.858Z"
+status: "active"
 ---
 
 # § 24316. Plans to address needs of families of passengers involved in rail passenger accidents
@@ -32,3 +33,25 @@ generated_at: "2026-03-30T02:56:19.344Z"
 - **(e)** A rail passenger carrier shall not be liable for damages in any action brought in a Federal or State court arising out of the performance of the rail passenger carrier in preparing or providing a passenger list, or in providing information concerning a train reservation, pursuant to a plan submitted by the rail passenger carrier under subsection (b), unless such liability was caused by conduct of the rail passenger carrier which was grossly negligent or which constituted intentional misconduct.
 - **(f)** In this section, the terms “passenger” and “rail passenger accident” have the meaning given those terms by section 1139 of this title .
 - **(g)** Out of funds appropriated pursuant to section 20117(a)(1)(A), there shall be made available to the Secretary of Transportation $500,000 for fiscal year 2010 to carry out this section. Amounts made available pursuant to this subsection shall remain available until expended.
+
+Submission of Plan
+
+Contents of Plans
+
+Use of Information
+
+Limitation on Statutory Construction.—
+
+Rail passenger carriers
+
+Investigational authority of board and secretary
+
+Limitation on Liability
+
+Definitions
+
+Funding
+
+## Source Credit
+
+*(Added [Pub. L. 110–432, div. A, title V, § 502(a)](https://www.govinfo.gov/link/plaw/110/public/432), Oct. 16, 2008, [122 Stat. 4897](https://www.govinfo.gov/link/statute/122/4897); amended [Pub. L. 118–63, title XII, § 1215(d)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1430](https://www.govinfo.gov/link/statute/138/1430).)*

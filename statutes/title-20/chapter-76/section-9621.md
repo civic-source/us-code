@@ -3,9 +3,10 @@ title: "Section 9621 - National Assessment Governing Board"
 usc_title: 20
 usc_section: "9621"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 9621"
-generated_at: "2026-03-30T02:54:48.230Z"
+generated_at: "2026-11-23T20:26:15.000Z"
+status: "active"
 ---
 
 # § 9621. National Assessment Governing Board
@@ -66,3 +67,7 @@ generated_at: "2026-03-30T02:54:48.230Z"
   - **(1)** to ensure coordination of their duties and activities relating to the National Assessment; and
   - **(2)** for the Commissioner for Education Statistics to report to the Assessment Board on the Department’s actions to implement the decisions of the Assessment Board.
 - **(h)** Chapter 10 of title 5 shall not apply with respect to the Assessment Board, other than sections 1009, 1010, and 1011 of title 5.
+
+## Source Credit
+
+*([Pub. L. 107–279, title III, § 302](https://www.govinfo.gov/link/plaw/107/public/279), formerly [Pub. L. 103–382, title IV, § 412](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 4039](https://www.govinfo.gov/link/statute/108/4039); [Pub. L. 106–554, § 1(a)(1) [title III, § 307]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–44; [Pub. L. 107–110, title VI, § 602(b)](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1904](https://www.govinfo.gov/link/statute/115/1904); renumbered [Pub. L. 107–279, title III, § 302](https://www.govinfo.gov/link/plaw/107/public/279), and amended [Pub. L. 107–279, title IV, § 401(c)](https://www.govinfo.gov/link/plaw/107/public/279), Nov. 5, 2002, [116 Stat. 1983](https://www.govinfo.gov/link/statute/116/1983); [Pub. L. 117–286, § 4(a)(154)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4322](https://www.govinfo.gov/link/statute/136/4322).)*

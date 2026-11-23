@@ -3,9 +3,10 @@ title: "Section 3532 - Reporting and investigation of allegations of sexual assa
 usc_title: 50
 usc_section: "3532"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3532"
-generated_at: "2026-03-30T02:56:26.257Z"
+generated_at: "2026-11-23T20:27:31.027Z"
+status: "active"
 ---
 
 # § 3532. Reporting and investigation of allegations of sexual assault and sexual harassment
@@ -91,3 +92,7 @@ generated_at: "2026-03-30T02:56:26.257Z"
     - **(C)** to an individual eligible to document an unrestricted or restricted report; and
     - **(D)** that the victim intends to result in formal documentation of an unrestricted or restricted report.
   - **(2)** The term “victim” means a person who alleges they have suffered direct physical or emotional harm because they were subjected to sexual assault or sexual harassment.
+
+## Source Credit
+
+*(June 20, 1949, ch. 227, § 31, as added [Pub. L. 118–31, div. G, title III, § 7339(c)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1054](https://www.govinfo.gov/link/statute/137/1054).)*

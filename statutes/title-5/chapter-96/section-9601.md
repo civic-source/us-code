@@ -3,9 +3,10 @@ title: "Section 9601 - Definitions"
 usc_title: 5
 usc_section: "9601"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 9601"
-generated_at: "2026-03-30T02:52:56.073Z"
+generated_at: "2026-11-23T20:25:32.261Z"
+status: "active"
 ---
 
 # § 9601. Definitions
@@ -20,3 +21,7 @@ For purposes of this chapter—
     - **(E)** the Bureau of Indian Affairs of the Department of the Interior; and
     - **(F)** the Bureau of Reclamation of the Department of the Interior; and
   - **(2)** the term “time-limited appointment” includes a temporary appointment and a term appointment, as defined by the Office of Personnel Management.
+
+## Source Credit
+
+*(Added [Pub. L. 114–47, § 2(a)](https://www.govinfo.gov/link/plaw/114/public/47), Aug. 7, 2015, [129 Stat. 485](https://www.govinfo.gov/link/statute/129/485).)*

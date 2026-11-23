@@ -3,9 +3,10 @@ title: "Section 8695 - Navy battle force ship assessment and requirement reporti
 usc_title: 10
 usc_section: "8695"
 chapter: 863
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 8695"
-generated_at: "2026-03-30T02:53:38.249Z"
+generated_at: "2026-11-23T20:25:52.230Z"
+status: "active"
 ---
 
 # § 8695. Navy battle force ship assessment and requirement reporting
@@ -48,3 +49,17 @@ generated_at: "2026-03-30T02:53:38.249Z"
     - **(C)** Operating concepts, including employment cycles, crewing constructs, or operational tempo limits, that affect peacetime presence or warfighting response timelines.
     - **(D)** Assigned missions that affect the type or quantity of force elements.
 - **(e)** In preparing each assessment and requirement under subsection (a), the Commandant of the Marine Corps shall be specifically responsible for developing the requirements relating to amphibious warfare ships and for naval vessels with the primary mission of transporting Marines.
+
+In General
+
+Assessment
+
+Requirement
+
+Definitions
+
+Responsibilities of Commandant of Marine Corps
+
+## Source Credit
+
+*(Added [Pub. L. 117–81, div. A, title X, § 1017(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1896](https://www.govinfo.gov/link/statute/135/1896); amended [Pub. L. 117–263, div. A, title X, § 1025](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2764](https://www.govinfo.gov/link/statute/136/2764); [Pub. L. 118–31, div. A, title X, § 1019](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 384](https://www.govinfo.gov/link/statute/137/384).)*

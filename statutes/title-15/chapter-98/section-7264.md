@@ -3,9 +3,10 @@ title: "Section 7264 - Code of ethics for senior financial officers"
 usc_title: 15
 usc_section: "7264"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 7264"
-generated_at: "2026-03-30T02:54:08.221Z"
+generated_at: "2026-11-23T20:26:04.446Z"
+status: "active"
 ---
 
 # § 7264. Code of ethics for senior financial officers
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:08.221Z"
 - **(d)** The Commission shall—
   - **(1)** propose rules to implement this section, not later than 90 days after July 30, 2002 ; and
   - **(2)** issue final rules to implement this section, not later than 180 days after July 30, 2002 .
+
+## Source Credit
+
+*([Pub. L. 107–204, title IV, § 406](https://www.govinfo.gov/link/plaw/107/public/204), July 30, 2002, [116 Stat. 789](https://www.govinfo.gov/link/statute/116/789).)*

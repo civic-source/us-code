@@ -3,9 +3,10 @@ title: "Section 1391 - Designation procedure"
 usc_title: 26
 usc_section: "1391"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1391"
-generated_at: "2026-03-30T02:55:27.772Z"
+generated_at: "2026-11-23T20:26:46.105Z"
+status: "active"
 ---
 
 # § 1391. Designation procedure
@@ -70,3 +71,7 @@ generated_at: "2026-03-30T02:55:27.772Z"
   - **(2)** A designation may be made under this subsection after the date of the enactment of this subsection and before January 1, 2002 .
   - **(3)** The rules of subsection (g)(3) shall apply to designations under this subsection.
   - **(4)** The number of areas which may be designated as empowerment zones under this subsection shall be increased by 1 for each area which ceases to be an empowerment zone by reason of section 1400E(e). 1 1 See References in Text note below. Each additional area designated by reason of the preceding sentence shall have the same urban or rural character as the area it is replacing.
+
+## Source Credit
+
+*(Added [Pub. L. 103–66, title XIII, § 13301(a)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 543](https://www.govinfo.gov/link/statute/107/543); amended [Pub. L. 105–34, title IX](https://www.govinfo.gov/link/plaw/105/public/34), §§ 951(a), 952(a), (d), Aug. 5, 1997, [111 Stat. 885–887](https://www.govinfo.gov/link/statute/111/885); [Pub. L. 106–554, § 1(a)(7) [title I, §§ 111, 112, title III, § 319(13)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–600, 2763A–601, 2763A–646; [Pub. L. 111–312, title VII, § 753(a)](https://www.govinfo.gov/link/plaw/111/public/312), Dec. 17, 2010, [124 Stat. 3321](https://www.govinfo.gov/link/statute/124/3321); [Pub. L. 112–240, title III, § 327(a)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2334](https://www.govinfo.gov/link/statute/126/2334); [Pub. L. 113–295, div. A, title I, § 139(a)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4020](https://www.govinfo.gov/link/statute/128/4020); [Pub. L. 114–113, div. Q, title I, § 171(a)(1)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3069](https://www.govinfo.gov/link/statute/129/3069); [Pub. L. 115–123, div. D, title I, § 40311(a)(1)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 147](https://www.govinfo.gov/link/statute/132/147); [Pub. L. 115–141, div. U, title IV, § 401(a)(194)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1193](https://www.govinfo.gov/link/statute/132/1193); [Pub. L. 116–94, div. Q, title I, § 118(a)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3229](https://www.govinfo.gov/link/statute/133/3229); [Pub. L. 116–260, div. EE, title I, § 118(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3051](https://www.govinfo.gov/link/statute/134/3051).)*

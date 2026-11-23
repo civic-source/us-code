@@ -3,9 +3,10 @@ title: "Section 4103 - Apportionment"
 usc_title: 16
 usc_section: "4103"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 4103"
-generated_at: "2026-03-30T02:54:23.041Z"
+generated_at: "2026-11-23T20:26:20.733Z"
+status: "active"
 ---
 
 # § 4103. Apportionment
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:23.041Z"
   - **(1)** that is not obligated during that year;
   - **(2)** with respect to which the State notifies the Secretary that it does not wish to receive that part; or
   - **(3)** that is returned to the Secretary by the State,
+
+## Source Credit
+
+*([Pub. L. 99–659, title III, § 304](https://www.govinfo.gov/link/plaw/99/public/659), Nov. 14, 1986, [100 Stat. 3733](https://www.govinfo.gov/link/statute/100/3733); [Pub. L. 101–627, title V, § 501](https://www.govinfo.gov/link/plaw/101/public/627), Nov. 28, 1990, [104 Stat. 4462](https://www.govinfo.gov/link/statute/104/4462).)*

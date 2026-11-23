@@ -3,9 +3,10 @@ title: "Section 1023 - Council of Economic Advisers"
 usc_title: 15
 usc_section: "1023"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1023"
-generated_at: "2026-03-30T02:54:08.124Z"
+generated_at: "2026-11-23T20:26:03.943Z"
+status: "active"
 ---
 
 # § 1023. Council of Economic Advisers
@@ -29,3 +30,17 @@ generated_at: "2026-03-30T02:54:08.124Z"
   - **(1)** the Council may constitute such advisory committees and may consult with such representatives of industry, agriculture, labor, consumers, State and local governments, and other groups, as it deems advisable, and shall consult with the board or boards established under section 1022f of this title ;
   - **(2)** the Council shall, to the fullest extent possible, utilize the services, facilities, and information (including statistical information) of other Government agencies as well as of private research agencies, in order that duplication of effort and expense may be avoided.
 - **(f)** To enable the Council to exercise its powers, functions, and duties under this chapter, there are authorized to be appropriated such sums as may be necessary.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+## Source Credit
+
+*(Feb. 20, 1946, ch. 33, § 10, formerly § 4, [60 Stat. 24](https://www.govinfo.gov/link/statute/60/24); Oct. 28, 1949, ch. 782, title XI, § 1106(a), [63 Stat. 972](https://www.govinfo.gov/link/statute/63/972); [Pub. L. 87–49](https://www.govinfo.gov/link/plaw/87/public/49), June 16, 1961, [75 Stat. 93](https://www.govinfo.gov/link/statute/75/93); renumbered § 10 and amended [Pub. L. 95–523, title I](https://www.govinfo.gov/link/plaw/95/public/523), §§ 104, 110, Oct. 27, 1978, [92 Stat. 1893](https://www.govinfo.gov/link/statute/92/1893), 1899; [Pub. L. 112–166, § 2](https://www.govinfo.gov/link/plaw/112/public/166) (o), Aug. 10, 2012, [126 Stat. 1287](https://www.govinfo.gov/link/statute/126/1287).)*

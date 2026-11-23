@@ -3,12 +3,17 @@ title: "Section 460y - Establishment; boundaries"
 usc_title: 16
 usc_section: "460y"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 460y"
-generated_at: "2026-03-30T02:54:22.820Z"
+generated_at: "2026-11-23T20:26:19.940Z"
+status: "active"
 ---
 
 # § 460y. Establishment; boundaries
 
 The Secretary of the Interior (hereinafter referred to as the “Secretary”) is hereby authorized and directed, after compliance with sections 460y–2 and 460y–3 of this title, to establish, within the boundaries described in section 460y–8 of this title , the King Range National Conservation Area in the State of California (hereinafter referred to as the “Area”), and to consolidate and manage the public lands in the area with the purpose of conserving and developing, for the use and benefit of the people of the United States, the lands and other resources therein under a program of multiple usage and of sustained yield.
 
+
+## Source Credit
+
+*([Pub. L. 91–476, § 1](https://www.govinfo.gov/link/plaw/91/public/476), Oct. 21, 1970, [84 Stat. 1067](https://www.govinfo.gov/link/statute/84/1067).)*

@@ -3,9 +3,10 @@ title: "Section 1395 - Definitions"
 usc_title: 22
 usc_section: "1395"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 1395"
-generated_at: "2026-03-30T02:55:05.331Z"
+generated_at: "2026-11-23T20:26:32.101Z"
+status: "active"
 ---
 
 # § 1395. Definitions
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:05.331Z"
 - **(b)** As used in subsection (a) of this section:
   - **(1)** The terms “includes” and “including” shall not be deemed to exclude other things otherwise within the meaning of the term defined.
   - **(2)** The term “ordinary customs duty” shall not include any import duty or charge which is imposed to compensate for an internal tax imposed in respect of a like domestic product or in respect of a commodity from which the imported product has been manufactured or produced in whole or in part.
+
+## Source Credit
+
+*(Mar. 24, 1934, ch. 84, § 18, as added Aug. 7, 1939, ch. 502, § 5, [53 Stat. 1231](https://www.govinfo.gov/link/statute/53/1231).)*

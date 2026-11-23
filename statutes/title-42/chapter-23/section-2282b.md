@@ -3,9 +3,10 @@ title: "Section 2282b - Civil monetary penalties for violations of Department of
 usc_title: 42
 usc_section: "2282b"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2282b"
-generated_at: "2026-03-30T02:56:11.158Z"
+generated_at: "2026-11-23T20:27:22.122Z"
+status: "active"
 ---
 
 # § 2282b. Civil monetary penalties for violations of Department of Energy regulations regarding security of classified or sensitive information or data
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.158Z"
 - **(d)** In the case of an entity specified in subsection (d) of section 2282a of this title —
   - **(1)** the assessment of any civil penalty under subsection (a) against that entity may not be made until the entity enters into a new contract with the Department of Energy or an extension of a current contract with the Department; and
   - **(2)** the total amount of civil penalties under subsection (a) in a fiscal year may not exceed the total amount of fees paid by the Department of Energy to that entity in that fiscal year.
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 234B, as added [Pub. L. 106–65, div. C, title XXXI, § 3147(a)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 937](https://www.govinfo.gov/link/statute/113/937).)*

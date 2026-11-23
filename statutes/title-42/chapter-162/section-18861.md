@@ -3,9 +3,10 @@ title: "Section 18861 - Office of Clean Energy Demonstrations"
 usc_title: 42
 usc_section: "18861"
 chapter: 162
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18861"
-generated_at: "2026-03-30T02:56:11.532Z"
+generated_at: "2026-11-23T20:27:23.835Z"
+status: "active"
 ---
 
 # § 18861. Office of Clean Energy Demonstrations
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:56:11.532Z"
       - **(i)** the processes and procedures described in subparagraph (A); and
       - **(ii)** the structure of the program, for the purpose of better carrying out the program.
 - **(i)**
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title XII, § 41201](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1130](https://www.govinfo.gov/link/statute/135/1130); [Pub. L. 117–167, div. B, title VI, § 10723](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1709](https://www.govinfo.gov/link/statute/136/1709).)*

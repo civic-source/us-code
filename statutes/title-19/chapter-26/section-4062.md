@@ -3,9 +3,10 @@ title: "Section 4062 - Commission action on petition"
 usc_title: 19
 usc_section: "4062"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 4062"
-generated_at: "2026-03-30T02:54:24.701Z"
+generated_at: "2026-11-23T20:26:11.116Z"
+status: "active"
 ---
 
 # § 4062. Commission action on petition
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:24.701Z"
   - **(2)** if the determination under subsection (a) is affirmative, any findings and recommendations for import relief made under subsection (c) and an explanation of the basis for each recommendation; and
   - **(3)** any dissenting or separate views by members of the Commission regarding the determination and recommendation referred to in paragraphs (1) and (2).
 - **(e)** Upon submitting a report to the President under subsection (d), the Commission shall promptly make public such report (with the exception of information which the Commission determines to be confidential) and shall cause a summary thereof to be published in the Federal Register.
+
+## Source Credit
+
+*([Pub. L. 109–53, title III, § 312](https://www.govinfo.gov/link/plaw/109/public/53), Aug. 2, 2005, [119 Stat. 489](https://www.govinfo.gov/link/statute/119/489).)*

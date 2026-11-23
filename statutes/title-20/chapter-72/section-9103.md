@@ -3,9 +3,10 @@ title: "Section 9103 - Director of Institute"
 usc_title: 20
 usc_section: "9103"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 9103"
-generated_at: "2026-03-30T02:54:48.223Z"
+generated_at: "2026-11-23T20:26:14.967Z"
+status: "active"
 ---
 
 # § 9103. Director of Institute
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:54:48.223Z"
     - **(A)** The procedures described in paragraph (2) shall include provisions that clearly specify that obscenity is without serious literary, artistic, political, or scientific merit, and is not protected speech.
     - **(B)** No financial assistance may be provided under this chapter with respect to any project that is determined to be obscene.
     - **(C)** The disapproval of an application by the Director shall not be construed to mean, and shall not be considered as evidence that, the project for which the applicant requested financial assistance is or is not obscene.
+
+## Source Credit
+
+*([Pub. L. 94–462, title II, § 204](https://www.govinfo.gov/link/plaw/94/public/462), as added [Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–233](https://www.govinfo.gov/link/statute/110/3009), 3009–294; amended [Pub. L. 108–81, title I, § 103](https://www.govinfo.gov/link/plaw/108/public/81), Sept. 25, 2003, [117 Stat. 992](https://www.govinfo.gov/link/statute/117/992); [Pub. L. 111–340, title I, § 102](https://www.govinfo.gov/link/plaw/111/public/340), Dec. 22, 2010, [124 Stat. 3595](https://www.govinfo.gov/link/statute/124/3595); [Pub. L. 113–128, title V, § 512(t)(1)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1712](https://www.govinfo.gov/link/statute/128/1712); [Pub. L. 114–95, title IX, § 9215(aaa)(1)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2184](https://www.govinfo.gov/link/statute/129/2184); [Pub. L. 115–410, § 3](https://www.govinfo.gov/link/plaw/115/public/410), Dec. 31, 2018, [132 Stat. 5412](https://www.govinfo.gov/link/statute/132/5412).)*

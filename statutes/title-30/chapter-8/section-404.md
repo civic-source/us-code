@@ -3,12 +3,17 @@ title: "Section 404 - Establishment of an advisory committee; composition and ap
 usc_title: 30
 usc_section: "404"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 404"
-generated_at: "2026-03-30T02:55:29.383Z"
+generated_at: "2026-11-23T20:26:34.936Z"
+status: "active"
 ---
 
 # § 404. Establishment of an advisory committee; composition and appointment
 
 The Secretary of the Interior, acting through the United States Bureau of Mines, may, in his discretion, create and establish an advisory committee composed of not more than six members to exercise consultative functions, when required by the Secretary, in connection with the administration of this chapter. The said committee shall be composed of representatives of lignite coal-mine owners, of representatives of lignite coal-mine workers and the public in equal number. The members of said committee shall be appointed by the Secretary of the Interior without regard to the civil-service laws.
 
+
+## Source Credit
+
+*(Mar. 25, 1948, ch. 146, § 4, [62 Stat. 85](https://www.govinfo.gov/link/statute/62/85).)*

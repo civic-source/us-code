@@ -3,9 +3,10 @@ title: "Section 4732 - Detail of personnel to Office of the United States Trade 
 usc_title: 19
 usc_section: "4732"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 4732"
-generated_at: "2026-03-30T02:54:24.716Z"
+generated_at: "2026-11-23T20:26:11.180Z"
+status: "active"
 ---
 
 # § 4732. Detail of personnel to Office of the United States Trade Representative
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:24.716Z"
 - **(b)** The duties described in this subsection are the following:
   - **(1)** Assist the Interagency Environment Committee to carry out monitoring and enforcement actions with respect to the environmental obligations of Mexico.
   - **(2)** Prepare and submit to the Interagency Environment Committee on a quarterly basis a report on efforts of Mexico to comply with its environmental obligations.
+
+## Source Credit
+
+*([Pub. L. 116–113, title VIII, § 822](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 96](https://www.govinfo.gov/link/statute/134/96).)*

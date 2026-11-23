@@ -3,9 +3,10 @@ title: "Section 9753 - Countering Russian influence in Venezuela"
 usc_title: 22
 usc_section: "9753"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9753"
-generated_at: "2026-03-30T02:55:05.473Z"
+generated_at: "2026-11-23T20:26:32.799Z"
+status: "active"
 ---
 
 # § 9753. Countering Russian influence in Venezuela
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:05.473Z"
     - **(A)** determines that such a waiver is in the national interest of the United States; and
     - **(B)** submits a notice of, and justification for, such waiver to the appropriate congressional committees.
   - **(6)** This subsection shall terminate on the date that is 1 year after December 20, 2019 .
+
+## Source Credit
+
+*([Pub. L. 116–94, div. J, title I, § 165](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3043](https://www.govinfo.gov/link/statute/133/3043).)*

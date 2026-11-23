@@ -3,9 +3,10 @@ title: "Section 4 - Evaluations"
 usc_title: 42
 usc_section: "4"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4"
-generated_at: "2026-03-30T02:56:11.068Z"
+generated_at: "2026-11-23T20:27:21.666Z"
+status: "active"
 ---
 
 # § 1397n–4. Evaluations
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.068Z"
   - **(2)** Not later than 30 days after receipt of the written report pursuant to paragraph (1)(B), the Federal Interagency Council on Social Impact Partnerships shall submit the report to the Secretary and each committee of jurisdiction in the House of Representatives and the Senate.
 - **(f)** Of the amount made available under this division for social impact partnership projects, the Secretary may not obligate more than 15 percent to evaluate the implementation and outcomes of the projects.
 - **(g)** The Secretary may transfer to the head of another Federal agency the authorities provided in this section and any funds necessary to exercise the authorities.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XX, § 2055, as added [Pub. L. 115–123, div. E, title VIII, § 50802(2)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 276](https://www.govinfo.gov/link/statute/132/276).)*

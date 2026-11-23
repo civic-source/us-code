@@ -3,9 +3,10 @@ title: "Section 675 - Definitions"
 usc_title: 42
 usc_section: "675"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 675"
-generated_at: "2026-03-30T02:56:10.890Z"
+generated_at: "2026-11-23T20:27:20.923Z"
+status: "active"
 ---
 
 # § 675. Definitions
@@ -93,3 +94,23 @@ As used in this part or part B of this subchapter:
     - **(A)** The individual is considered by State law to be a sibling of the child.
     - **(B)** The individual would have been considered a sibling of the child under State law but for a termination or other disruption of parental rights, such as the death of a parent.
   - **(13)** The term “child who is a candidate for foster care” means, a child who is identified in a prevention plan under section 671(e)(4)(A) of this title as being at imminent risk of entering foster care (without regard to whether the child would be eligible for foster care maintenance payments under section 672 of this title or is or would be eligible for adoption assistance or kinship guardianship assistance payments under section 673 of this title ) but who can remain safely in the child’s home or in a kinship placement as long as services or programs specified in section 671(e)(1) of this title that are necessary to prevent the entry of the child into foster care are provided. The term includes a child whose adoption or guardianship arrangement is at risk of a disruption or dissolution that would result in a foster care placement.
+
+In general
+
+Delay permitted if state legislation required
+
+In general
+
+Delay permitted if state legislation required
+
+New foster children
+
+Current foster children
+
+Treatment of 2-year legislative sessions
+
+Requirements treated as state plan requirements
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 475, as added and amended [Pub. L. 96–272, title I](https://www.govinfo.gov/link/plaw/96/public/272), §§ 101(a)(1), 102(a)(4), June 17, 1980, [94 Stat. 510](https://www.govinfo.gov/link/statute/94/510), 514; [Pub. L. 99–272, title XII](https://www.govinfo.gov/link/plaw/99/public/272), §§ 12305(b)(2), 12307(b), Apr. 7, 1986, [100 Stat. 293](https://www.govinfo.gov/link/statute/100/293), 296; [Pub. L. 99–514, title XVII, § 1711(c)(6)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2784](https://www.govinfo.gov/link/statute/100/2784); [Pub. L. 100–203, title IX, § 9133(a)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–314](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–647, title VIII, § 8104(e)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3797](https://www.govinfo.gov/link/statute/102/3797); [Pub. L. 101–239, title VIII, § 8007(a)](https://www.govinfo.gov/link/plaw/101/public/239), (b), Dec. 19, 1989, [103 Stat. 2462](https://www.govinfo.gov/link/statute/103/2462); [Pub. L. 103–432, title II](https://www.govinfo.gov/link/plaw/103/public/432), §§ 206(a), (b), 209(a), (b), 265(c), Oct. 31, 1994, [108 Stat. 4457](https://www.govinfo.gov/link/statute/108/4457), 4459, 4469; [Pub. L. 105–89, title I](https://www.govinfo.gov/link/plaw/105/public/89), §§ 101(b), 102(2), 103(a), (b), 104, 107, title III, § 302, Nov. 19, 1997, [111 Stat. 2117](https://www.govinfo.gov/link/statute/111/2117), 2118, 2120, 2121, 2128; [Pub. L. 109–239](https://www.govinfo.gov/link/plaw/109/public/239), §§ 6–8(a), 11, 12, July 3, 2006, [120 Stat. 512–514](https://www.govinfo.gov/link/statute/120/512); [Pub. L. 109–288, § 10](https://www.govinfo.gov/link/plaw/109/public/288), Sept. 28, 2006, [120 Stat. 1255](https://www.govinfo.gov/link/statute/120/1255); [Pub. L. 110–351, title I, § 101(c)(4)](https://www.govinfo.gov/link/plaw/110/public/351), title II, §§ 201(a), 202, 204(a), Oct. 7, 2008, [122 Stat. 3952](https://www.govinfo.gov/link/statute/122/3952), 3957, 3959, 3960; [Pub. L. 111–148, title II, § 2955(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 352](https://www.govinfo.gov/link/statute/124/352); [Pub. L. 112–34, title I, § 106(a)](https://www.govinfo.gov/link/plaw/112/public/34), (b), Sept. 30, 2011, [125 Stat. 377](https://www.govinfo.gov/link/statute/125/377); [Pub. L. 113–183, title I](https://www.govinfo.gov/link/plaw/113/public/183), §§ 101(b), 111(a)(1), 112(a)(1), (b)(2)(B), 113(a)–(c), 114(a), title II, § 209(a)(2), Sept. 29, 2014, [128 Stat. 1921](https://www.govinfo.gov/link/statute/128/1921), 1923, 1926–1930, 1941; [Pub. L. 114–95, title IX, § 9215(qqq)(1)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2189](https://www.govinfo.gov/link/statute/129/2189); [Pub. L. 115–123, div. E, title VII](https://www.govinfo.gov/link/plaw/115/public/123), §§ 50711(b), 50753(e), Feb. 9, 2018, [132 Stat. 240](https://www.govinfo.gov/link/statute/132/240), 266.)*

@@ -3,9 +3,10 @@ title: "Section 1968 - Duration and termination of coverage; conversion"
 usc_title: 38
 usc_section: "1968"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 1968"
-generated_at: "2026-03-30T02:55:53.492Z"
+generated_at: "2026-11-23T20:27:01.750Z"
+status: "active"
 ---
 
 # § 1968. Duration and termination of coverage; conversion
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:53.492Z"
   - **(3)**
     - **(A)** In the case of a policy purchased under this subchapter for an insurable dependent who is a spouse, upon election of the spouse, the policy may be converted to an individual policy of insurance under the same conditions as described in section 1977(e) of this title (with respect to conversion of a Veterans’ Group Life Insurance policy to such an individual policy) upon written application for conversion made to the participating company selected by the spouse and payment of the required premiums. Conversion of such policy to Veterans’ Group Life Insurance is prohibited.
     - **(B)** In the case of a policy purchased under this subchapter for an insurable dependent who is a child, such policy may not be converted under this subsection.
+
+## Source Credit
+
+*(Added [Pub. L. 89–214, § 1(a)](https://www.govinfo.gov/link/plaw/89/public/214), Sept. 29, 1965, [79 Stat. 881](https://www.govinfo.gov/link/statute/79/881), § 768; amended [Pub. L. 91–291, § 3](https://www.govinfo.gov/link/plaw/91/public/291), June 25, 1970, [84 Stat. 328](https://www.govinfo.gov/link/statute/84/328); [Pub. L. 93–289, § 5(a)](https://www.govinfo.gov/link/plaw/93/public/289), May 24, 1974, [88 Stat. 166](https://www.govinfo.gov/link/statute/88/166); [Pub. L. 97–295, § 4(30)](https://www.govinfo.gov/link/plaw/97/public/295), Oct. 12, 1982, [96 Stat. 1307](https://www.govinfo.gov/link/statute/96/1307); [Pub. L. 99–576, title VII, § 701(38)](https://www.govinfo.gov/link/plaw/99/public/576), Oct. 28, 1986, [100 Stat. 3293](https://www.govinfo.gov/link/statute/100/3293); renumbered § 1968 and amended [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406](https://www.govinfo.gov/link/statute/105/404); [Pub. L. 103–337, div. A, title VI, § 651(c)](https://www.govinfo.gov/link/plaw/103/public/337), title XVI, § 1677(d)(1), Oct. 5, 1994, [108 Stat. 2792](https://www.govinfo.gov/link/statute/108/2792), 3020; [Pub. L. 104–106, div. A, title VI, § 647(b)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 370](https://www.govinfo.gov/link/statute/110/370); [Pub. L. 104–275, title IV](https://www.govinfo.gov/link/plaw/104/public/275), §§ 402(c), 403(a), 405(b)(1)(B), Oct. 9, 1996, [110 Stat. 3337–3339](https://www.govinfo.gov/link/statute/110/3337); [Pub. L. 106–65, div. A, title X, § 1066(d)(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 773](https://www.govinfo.gov/link/statute/113/773); [Pub. L. 106–419, title III, § 313(b)](https://www.govinfo.gov/link/plaw/106/public/419), Nov. 1, 2000, [114 Stat. 1855](https://www.govinfo.gov/link/statute/114/1855); [Pub. L. 107–14, § 4(c)](https://www.govinfo.gov/link/plaw/107/public/14), (f), June 5, 2001, [115 Stat. 28](https://www.govinfo.gov/link/statute/115/28), 29; [Pub. L. 109–233, title III, § 301](https://www.govinfo.gov/link/plaw/109/public/233), June 15, 2006, [120 Stat. 405](https://www.govinfo.gov/link/statute/120/405); [Pub. L. 110–389, title IV, § 403(b)](https://www.govinfo.gov/link/plaw/110/public/389), Oct. 10, 2008, [122 Stat. 4174](https://www.govinfo.gov/link/statute/122/4174); [Pub. L. 111–275, title IV](https://www.govinfo.gov/link/plaw/111/public/275), §§ 402(a), 403, Oct. 13, 2010, [124 Stat. 2879](https://www.govinfo.gov/link/statute/124/2879).)*

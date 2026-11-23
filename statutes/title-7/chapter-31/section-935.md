@@ -3,9 +3,10 @@ title: "Section 935 - Insured loans; interest rates and lending levels"
 usc_title: 7
 usc_section: "935"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 935"
-generated_at: "2026-03-30T02:53:42.296Z"
+generated_at: "2026-11-23T20:25:41.085Z"
+status: "active"
 ---
 
 # § 935. Insured loans; interest rates and lending levels
@@ -67,3 +68,21 @@ generated_at: "2026-03-30T02:53:42.296Z"
       - **(v)** The plan must provide for uniform deployment schedules to ensure that advanced services are deployed at the same time in rural and nonrural areas.
       - **(vi)** The plan must provide for such additional requirements for service standards as may be required by the Secretary.
     - **(C)** A telecommunications modernization plan approved under subparagraph (A) may not subsequently be disapproved. Notwithstanding paragraphs (1)(A)(iii) and (2)(A)(iii), 1 1 So in original. Probably should be paragraph “(2)(A)(ii)”. and the Secretary may make a loan to a borrower serving a State that does not have a telecommunication modernization plan approved by the Secretary if the loan is made less than 1 year after the Secretary has adopted final regulations implementing this paragraph.
+
+(aa) the interest rate on commercial loans for a similar period that afford the borrower such a right; exceeds
+
+(bb) the interest rate on commercial loans for the period that do not afford the borrower such a right.
+
+(aa) the average revenue per kilowatt-hour sold by the applicant is more than the average revenue per kilowatt-hour sold by all utilities in the State in which the applicant provides service; and
+
+(bb) the average per capita income of the residents receiving electric service from the applicant is less than the average per capita income of the residents of the State in which the applicant provides service, or the median household income of the households receiving electric service from the applicant is less than the median household income of the households in the State.
+
+(aa) conference calling;
+
+(bb) video images; and
+
+(cc) data at a rate of at least 1,000,000 bits of information per second; and
+
+## Source Credit
+
+*(May 20, 1936, ch. 432, title III, § 305, as added [Pub. L. 93–32, § 2](https://www.govinfo.gov/link/plaw/93/public/32), May 11, 1973, [87 Stat. 68](https://www.govinfo.gov/link/statute/87/68); amended [Pub. L. 94–570, § 3](https://www.govinfo.gov/link/plaw/94/public/570), Oct. 20, 1976, [90 Stat. 2701](https://www.govinfo.gov/link/statute/90/2701); [Pub. L. 97–35, title I, § 165(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 379](https://www.govinfo.gov/link/statute/95/379); [Pub. L. 101–624, title XXIII, § 2361](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 4042](https://www.govinfo.gov/link/statute/104/4042); [Pub. L. 103–129, § 2(a)(1)](https://www.govinfo.gov/link/plaw/103/public/129), (c)(6), Nov. 1, 1993, [107 Stat. 1356](https://www.govinfo.gov/link/statute/107/1356), 1364; [Pub. L. 103–354, title II, § 235(a)(8)](https://www.govinfo.gov/link/plaw/103/public/354), (13), Oct. 13, 1994, [108 Stat. 3221](https://www.govinfo.gov/link/statute/108/3221); [Pub. L. 115–334, title VI, § 6602(b)(8)](https://www.govinfo.gov/link/plaw/115/public/334), (9), Dec. 20, 2018, [132 Stat. 4776](https://www.govinfo.gov/link/statute/132/4776), 4777.)*

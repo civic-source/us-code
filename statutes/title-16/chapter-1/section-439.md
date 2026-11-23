@@ -3,12 +3,17 @@ title: "Section 439 - Land for use of Secretary of the Treasury"
 usc_title: 16
 usc_section: "439"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 439"
-generated_at: "2026-03-30T02:54:22.798Z"
+generated_at: "2026-11-23T20:26:19.851Z"
+status: "active"
 ---
 
 # § 439. Land for use of Secretary of the Treasury
 
 Permission is granted the Secretary of the Treasury to use permanently a strip of land sixty feet wide belonging to said fort grounds, beginning at the north corner of the grounds of the fort and extending south sixty-three degrees thirty minutes east, six hundred and eighty feet to the south corner of the site set aside for the immigration station at Baltimore, said strip of land being located along the northwest boundary of the land ceded to the Baltimore Dry Dock Company and the land of the said immigration station, the same to be used, if so desired, in lieu of acquiring, by purchase or condemnation, any of the lands of the dry dock company so that the Secretary of the Treasury may, in connection with land acquired from the Baltimore and Ohio Railroad Company, have access to and from said immigration station and grounds over the right-of-way so acquired to the city streets and railroads beyond, the Secretary of the Treasury to have the same power to construct, contract for, and arrange for railroad and other facilities upon said outlet as fully as provided in the Act approved March 4, 1913 , chapter 147, Thirty-seventh Statutes 889, setting aside a site for an immigration station and providing for an outlet therefrom, but the Interior Department shall have equal use of the railroad track and other roads so constructed, over which to reach the city streets and railroads beyond from the other part of the fort grounds.
 
+
+## Source Credit
+
+*(May 26, 1914, ch. 100, [38 Stat. 382](https://www.govinfo.gov/link/statute/38/382); Mar. 3, 1925, ch. 425, [43 Stat. 1109](https://www.govinfo.gov/link/statute/43/1109); Ex. Ord. No. 6166, § 2, June 10, 1933; Ex. Ord. No. 6228, § 1, July 28, 1933; June 5, 1936, ch. 528, [49 Stat. 1484](https://www.govinfo.gov/link/statute/49/1484).)*

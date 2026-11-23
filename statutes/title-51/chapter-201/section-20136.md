@@ -3,9 +3,10 @@ title: "Section 20136 - Contributions awards"
 usc_title: 51
 usc_section: "20136"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 20136"
-generated_at: "2026-03-30T02:56:28.703Z"
+generated_at: "2026-11-23T20:27:37.449Z"
+status: "active"
 ---
 
 # § 20136. Contributions awards
@@ -18,3 +19,47 @@ generated_at: "2026-03-30T02:56:28.703Z"
 - **(b)** If more than one applicant under subsection (a) claims an interest in the same contribution, the Administrator shall ascertain and determine the respective interests of the applicants, and shall apportion any award to be made among the applicants in amounts the Administrator determines to be equitable.
 - **(c)** No award may be made under subsection (a) unless the applicant surrenders, by means the Administrator determines to be effective, all claims that the applicant may have to receive any compensation (other than the award made under this section) for the use of the contribution or any element thereof at any time by or on behalf of the United States, or by or on behalf of any foreign government pursuant to a treaty or agreement with the United States, within the United States or at any other place.
 - **(d)** No award may be made under subsection (a) in an amount exceeding $100,000 unless the Administrator transmits to the appropriate committees of Congress a full and complete report concerning the amount and terms of, and the basis for, the proposed award, and a period of 30 calendar days of regular session of Congress expires after receipt of the report by the committees.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 20136(a) | 42 U.S.C. 2458(a) . | Pub. L. 85–568, title III, § 306 , July 29, 1958 , 72 Stat. 437 . |
+| 20136(b) | 42 U.S.C. 2458(b) (1st sentence). |  |
+| 20136(c) | 42 U.S.C. 2458(b) (par. (1) of last sentence). |  |
+| 20136(d) | 42 U.S.C. 2458(b) (par. (2) of last sentence). |  |
+
+
+Applications
+
+Apportionment of Awards
+
+Surrender of Other Claims
+
+Report and Waiting Period
+
+Historical and Revision Notes
+
+20136(a)
+
+42 U.S.C. 2458(a)
+
+Pub. L. 85–568, title III, § 306
+
+July 29, 1958
+
+72 Stat. 437
+
+20136(b)
+
+42 U.S.C. 2458(b)
+
+20136(c)
+
+42 U.S.C. 2458(b)
+
+20136(d)
+
+42 U.S.C. 2458(b)
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3342](https://www.govinfo.gov/link/statute/124/3342).)*

@@ -3,9 +3,10 @@ title: "Section 15952 - Federal-State regulatory coordination and assistance"
 usc_title: 42
 usc_section: "15952"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 15952"
-generated_at: "2026-03-30T02:56:11.466Z"
+generated_at: "2026-11-23T20:27:23.591Z"
+status: "active"
 ---
 
 # § 15952. Federal-State regulatory coordination and assistance
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.466Z"
   - **(3)** enter into memoranda of agreement with a State, under which Federal and State review of refinery permit applications will be coordinated and concurrently considered, to the extent practicable.
 - **(c)** The Administrator is authorized to provide financial assistance to State governments to facilitate the hiring of additional personnel with expertise in fields relevant to consideration of refinery permits.
 - **(d)** The Administrator is authorized to provide technical, legal, or other assistance to State governments to facilitate their review of applications to build new refineries.
+
+## Source Credit
+
+*([Pub. L. 109–58, title III, § 392](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 749](https://www.govinfo.gov/link/statute/119/749).)*

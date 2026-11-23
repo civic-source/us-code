@@ -3,9 +3,10 @@ title: "Section 14525 - State development planning process"
 usc_title: 40
 usc_section: "14525"
 chapter: 145
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 14525"
-generated_at: "2026-03-30T02:55:43.387Z"
+generated_at: "2026-11-23T20:26:56.696Z"
+status: "active"
 ---
 
 # § 14525. State development planning process
@@ -25,3 +26,47 @@ generated_at: "2026-03-30T02:55:43.387Z"
   - **(1)** take into account the policies, goals, and objectives the Commission and its member States establish pursuant to this subtitle;
   - **(2)** recognize Appalachian state development strategies approved by the Commission as satisfying requirements for overall economic development planning under the programs or projects; and
   - **(3)** accept the boundaries and organization of any local development district certified under this subtitle that the Governor may designate as the areawide agency required under any of those programs undertaken or assisted by those federal departments, agencies, and instrumentalities.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 14525(a) | 40 App.:225(a). | Pub. L. 89–4, title II, § 225 , as added Pub. L. 94–188, title I, § 118 , Dec. 31, 1975 , 89 Stat. 1084 ; Pub. L. 107–149, § 13(h) , Mar. 12, 2002 , 116 Stat. 72 . |
+| 14525(b) | 40 App.:225(b)(2). |  |
+| 14525(c) | 40 App.:225(b)(1). |  |
+| 14525(d) | 40 App.:225(c). |  |
+
+
+State Development Plan
+
+Areawide Action Programs
+
+Local Development Districts
+
+Federal Responsibilities
+
+Historical and Revision Notes
+
+14525(a)
+
+Pub. L. 89–4, title II, § 225
+
+Pub. L. 94–188, title I, § 118
+
+Dec. 31, 1975
+
+89 Stat. 1084
+
+Pub. L. 107–149, § 13(h)
+
+Mar. 12, 2002
+
+116 Stat. 72
+
+14525(b)
+
+14525(c)
+
+14525(d)
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1275](https://www.govinfo.gov/link/statute/116/1275).)*

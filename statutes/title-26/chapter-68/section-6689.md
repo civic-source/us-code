@@ -3,9 +3,10 @@ title: "Section 6689 - Failure to file notice of redetermination of foreign tax"
 usc_title: 26
 usc_section: "6689"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6689"
-generated_at: "2026-03-30T02:55:27.864Z"
+generated_at: "2026-11-23T20:26:46.712Z"
+status: "active"
 ---
 
 # § 6689. Failure to file notice of redetermination of foreign tax
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:27.864Z"
   - **(1)** 5 percent of the deficiency if the failure is for not more than 1 month, with
   - **(2)** an additional 5 percent of the deficiency for each month (or fraction thereof) during which the failure continues.
 - **(b)** For purposes of this section, the term “foreign tax redetermination” means any redetermination for which a notice is required under subsection (c) of section 905 or paragraph (2) of section 404A(g).
+
+## Source Credit
+
+*(Added [Pub. L. 96–603, § 2(c)(2)](https://www.govinfo.gov/link/plaw/96/public/603), Dec. 28, 1980, [94 Stat. 3509](https://www.govinfo.gov/link/statute/94/3509).)*

@@ -3,9 +3,10 @@ title: "Section 57512 - Competitive bidding"
 usc_title: 46
 usc_section: "57512"
 chapter: 575
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 57512"
-generated_at: "2026-03-30T02:56:15.582Z"
+generated_at: "2026-11-23T20:27:27.411Z"
+status: "active"
 ---
 
 # § 57512. Competitive bidding
@@ -18,3 +19,48 @@ generated_at: "2026-03-30T02:56:15.582Z"
   - **(4)** the right of the Secretary to reject all bids; and
   - **(5)** other information the Secretary considers necessary for the information of prospective bidders.
 - **(c)** Bids required under this section shall be opened at the time and place stated in the advertisement for bids. All interested persons, including representatives of the press, shall be permitted to attend. The results of the bidding shall be publicly announced.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 57512(a) | 46 App.:1196(a) (1st sentence). | June 29, 1936, ch. 858 , title VII, § 706(a), (b) (1st sentence related to announcement), 49 Stat. 2009 ; Pub. L. 97–31, § 12(108) , Aug. 6, 1981 , 95 Stat. 163 . |
+| 57512(b) | 46 App.:1196(a) (last sentence), (b) (1st sentence related to announcement). |  |
+| 57512(c) | 46 App.:1193(c) (related to chartering). | June 29, 1936, ch. 858 , title VII, § 703(c) (related to chartering), 49 Stat. 2008 ; Pub. L. 97–31, § 12(105) , Aug. 6, 1981 , 95 Stat. 163 . |
+
+
+In General
+
+Advertisement for Bids
+
+Opening of Bids
+
+Historical and Revision Notes
+
+57512(a)
+
+June 29, 1936, ch. 858
+
+49 Stat. 2009
+
+Pub. L. 97–31, § 12(108)
+
+Aug. 6, 1981
+
+95 Stat. 163
+
+57512(b)
+
+57512(c)
+
+June 29, 1936, ch. 858
+
+49 Stat. 2008
+
+Pub. L. 97–31, § 12(105)
+
+Aug. 6, 1981
+
+95 Stat. 163
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(c)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1666](https://www.govinfo.gov/link/statute/120/1666).)*

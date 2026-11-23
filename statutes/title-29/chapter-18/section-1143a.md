@@ -3,9 +3,10 @@ title: "Section 1143a - Studies by Comptroller General"
 usc_title: 29
 usc_section: "1143a"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1143a"
-generated_at: "2026-03-30T02:55:18.719Z"
+generated_at: "2026-11-23T20:26:37.973Z"
+status: "active"
 ---
 
 # § 1143a. Studies by Comptroller General
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:18.719Z"
     - **(B)** which the Comptroller General or his representative finds, in his own judgment, pertinent to such study.
   - **(3)** For purposes of this section, the terms “employee benefit plan”, “participant”, “administrator”, “beneficiary”, “plan sponsor”, “employee”, and “employer” are defined in section 1002 of this title .
   - **(4)** The preceding provisions of this section shall be effective on April 7, 1986 .
+
+## Source Credit
+
+*([Pub. L. 99–272, title XI, § 11016(d)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 275](https://www.govinfo.gov/link/statute/100/275).)*

@@ -3,9 +3,10 @@ title: "Section 1768 - Repealed. Pub. L. 87–195 , pt. III, § 642(a)(2), Sept.
 usc_title: 22
 usc_section: "1768"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 1768"
-generated_at: "2026-03-30T02:55:05.339Z"
+generated_at: "2026-11-23T20:26:32.145Z"
+status: "repealed"
 ---
 
 # §§ 1767a, 1768. Repealed. Pub. L. 87–195 , pt. III, § 642(a)(2), Sept. 4, 1961 , 75 Stat. 460

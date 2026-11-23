@@ -3,9 +3,10 @@ title: "Section 1087ee - Cancellation of loans for certain public service"
 usc_title: 20
 usc_section: "1087ee"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1087ee"
-generated_at: "2026-03-30T02:54:48.128Z"
+generated_at: "2026-11-23T20:26:14.476Z"
+status: "active"
 ---
 
 # § 1087ee. Cancellation of loans for certain public service
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:54:48.128Z"
   - **(2)** Any teacher who performs service in a school which—
     - **(A)** meets the requirements of subsection (a)(2)(A) in any year; and
     - **(B)** in a subsequent year fails to meet the requirements of such subsection,
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 465](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title IV, § 405(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1451](https://www.govinfo.gov/link/statute/100/1451); amended [Pub. L. 100–50, § 13(j)](https://www.govinfo.gov/link/plaw/100/public/50), June 3, 1987, [101 Stat. 349](https://www.govinfo.gov/link/statute/101/349); [Pub. L. 100–369, § 7(c)](https://www.govinfo.gov/link/plaw/100/public/369), July 18, 1988, [102 Stat. 837](https://www.govinfo.gov/link/statute/102/837); [Pub. L. 101–476, title IX, § 901(e)](https://www.govinfo.gov/link/plaw/101/public/476), Oct. 30, 1990, [104 Stat. 1151](https://www.govinfo.gov/link/statute/104/1151); [Pub. L. 101–647, title XXI, § 2101(a)](https://www.govinfo.gov/link/plaw/101/public/647), (b), Nov. 29, 1990, [104 Stat. 4856](https://www.govinfo.gov/link/statute/104/4856); [Pub. L. 102–119, § 26(h)](https://www.govinfo.gov/link/plaw/102/public/119), Oct. 7, 1991, [105 Stat. 607](https://www.govinfo.gov/link/statute/105/607); [Pub. L. 102–325, title IV, § 465(a)](https://www.govinfo.gov/link/plaw/102/public/325) –(c), July 23, 1992, [106 Stat. 582](https://www.govinfo.gov/link/statute/106/582), 583; [Pub. L. 103–82, title I, § 102(c)(3)](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 824](https://www.govinfo.gov/link/statute/107/824); [Pub. L. 103–208, § 2(f)(12)](https://www.govinfo.gov/link/plaw/103/public/208) –(14), (k)(7), Dec. 20, 1993, [107 Stat. 2471](https://www.govinfo.gov/link/statute/107/2471), 2486; [Pub. L. 103–382, title III, § 391(e)(3)](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 4022](https://www.govinfo.gov/link/statute/108/4022); [Pub. L. 105–244, title IV, § 465](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1728](https://www.govinfo.gov/link/statute/112/1728); [Pub. L. 108–446, title III, § 305(c)(1)](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2805](https://www.govinfo.gov/link/statute/118/2805); [Pub. L. 110–315, title IV, § 465](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3267](https://www.govinfo.gov/link/statute/122/3267); [Pub. L. 111–39, title IV, § 405(5)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1947](https://www.govinfo.gov/link/statute/123/1947); [Pub. L. 114–328, div. A, title VI, § 618(e)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2160](https://www.govinfo.gov/link/statute/130/2160).)*

@@ -3,9 +3,10 @@ title: "Section 8541 - Definitions"
 usc_title: 22
 usc_section: "8541"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8541"
-generated_at: "2026-03-30T02:55:05.453Z"
+generated_at: "2026-11-23T20:26:32.718Z"
+status: "active"
 ---
 
 # § 8541. Definitions
@@ -31,3 +32,7 @@ In this subchapter:
     - **(B)** section 2780(d) of this title ; or
     - **(C)** section 2371(a) of this title .
   - **(14)** The term “United States Munitions List” means the list maintained pursuant to part 121 of the International Traffic in Arms Regulations (or any corresponding similar regulation or ruling).
+
+## Source Credit
+
+*([Pub. L. 111–195, title III, § 301](https://www.govinfo.gov/link/plaw/111/public/195), July 1, 2010, [124 Stat. 1345](https://www.govinfo.gov/link/statute/124/1345).)*

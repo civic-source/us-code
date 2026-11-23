@@ -3,9 +3,10 @@ title: "Section 3407 - Definitions"
 usc_title: 33
 usc_section: "3407"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 3407"
-generated_at: "2026-03-30T02:55:41.141Z"
+generated_at: "2026-11-23T20:26:54.263Z"
+status: "active"
 ---
 
 # § 3407. Definitions
@@ -17,3 +18,7 @@ In this subchapter:
     - **(A)** a multidisciplinary view of an unknown or poorly understood area of the sea floor, sub-bottom, or water column; and
     - **(B)** an initial assessment of the physical, chemical, geological, biological, archaeological, or other characteristics of such an area.
   - **(3)** The terms “map” and “mapping” mean activities that provide comprehensive data and information needed to understand sea floor characteristics, including depth, topography, bottom type, sediment composition and distribution, underlying geologic structure, and benthic flora and fauna.
+
+## Source Credit
+
+*([Pub. L. 111–11, title XII, § 12007](https://www.govinfo.gov/link/plaw/111/public/11), as added [Pub. L. 117–263, div. J, title CIII, § 10305(h)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3974](https://www.govinfo.gov/link/statute/136/3974).)*

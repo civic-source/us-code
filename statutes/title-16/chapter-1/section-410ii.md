@@ -3,9 +3,10 @@ title: "Section 410ii - Findings and purpose"
 usc_title: 16
 usc_section: "410ii"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 410ii"
-generated_at: "2026-03-30T02:54:22.766Z"
+generated_at: "2026-11-23T20:26:19.474Z"
+status: "active"
 ---
 
 # § 410ii. Findings and purpose
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:22.766Z"
   - **(3)** development of the San Juan Basin’s important natural resources and the valid existing rights of private property owners will not be adversely affected by the preservation of the archeological integrity of the area; and
   - **(4)** in light of the national significance of the Chacoan sites and the urgent need to protect them, continued cooperation between Federal agencies and private corporations is necessary to provide for development in the San Juan Basin in a manner compatible with preservation and archeological research.
 - **(b)** It is the purpose of this subchapter to recognize the unique archeological resources associated with the prehistoric Chacoan culture in the San Juan Basin and surrounding areas; to provide for the preservation and interpretation of these resources; and to facilitate research activities associated with these resources.
+
+## Source Credit
+
+*([Pub. L. 96–550, title V, § 501](https://www.govinfo.gov/link/plaw/96/public/550), Dec. 19, 1980, [94 Stat. 3227](https://www.govinfo.gov/link/statute/94/3227); [Pub. L. 104–11, § 2](https://www.govinfo.gov/link/plaw/104/public/11), May 18, 1995, [109 Stat. 158](https://www.govinfo.gov/link/statute/109/158).)*

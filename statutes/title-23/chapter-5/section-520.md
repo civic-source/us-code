@@ -3,9 +3,10 @@ title: "Section 520 - Transportation Resilience and Adaptation Centers of Excell
 usc_title: 23
 usc_section: "520"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 520"
-generated_at: "2026-03-30T02:55:12.574Z"
+generated_at: "2026-11-23T20:26:23.905Z"
+status: "active"
 ---
 
 # § 520. Transportation Resilience and Adaptation Centers of Excellence
@@ -46,3 +47,29 @@ generated_at: "2026-03-30T02:55:12.574Z"
   - **(9)** education and outreach regarding transportation infrastructure resilience; and
   - **(10)** technology transfer and commercialization.
 - **(h)** The Federal share of the cost of an activity under this section, including the costs of establishing and operating a Center of Excellence, shall be 50 percent.
+
+Definition of Center of Excellence
+
+Designation
+
+Eligibility
+
+Application
+
+Selection.—
+
+Regional centers of excellence
+
+National center of excellence
+
+Criteria
+
+Grants
+
+Activities
+
+Federal Share
+
+## Source Credit
+
+*(Added [Pub. L. 117–58, div. A, title III, § 13009(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 642](https://www.govinfo.gov/link/statute/135/642).)*

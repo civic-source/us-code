@@ -3,9 +3,10 @@ title: "Section 1007 - Responsibilities of agency heads"
 usc_title: 5
 usc_section: "1007"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 1007"
-generated_at: "2026-03-30T02:52:55.992Z"
+generated_at: "2026-11-23T20:25:31.760Z"
+status: "active"
 ---
 
 # § 1007. Responsibilities of agency heads
@@ -15,3 +16,26 @@ generated_at: "2026-03-30T02:52:55.992Z"
   - **(1)** exercise control and supervision over the establishment, procedures, and accomplishments of advisory committees established by the agency;
   - **(2)** assemble and maintain the reports, records, and other papers of any advisory committee established by the agency during the advisory committee’s existence; and
   - **(3)** carry out, on behalf of the agency, the provisions of section 552 of this title with respect to such reports, records, and other papers.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1007 | 5 U.S.C. App. (FACA § 8) | Pub. L. 92–463, § 8 , Oct. 6, 1972 , 86 Stat. 773 . |
+
+
+Administrative Guidelines and Management Controls
+
+Advisory Committee Management Officer
+
+Historical and Revision Notes
+
+1007
+
+Pub. L. 92–463, § 8
+
+Oct. 6, 1972
+
+86 Stat. 773
+
+## Source Credit
+
+*([Pub. L. 117–286, § 3(a)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4201](https://www.govinfo.gov/link/statute/136/4201).)*

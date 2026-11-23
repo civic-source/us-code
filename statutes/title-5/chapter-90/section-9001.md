@@ -3,9 +3,10 @@ title: "Section 9001 - Definitions"
 usc_title: 5
 usc_section: "9001"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 9001"
-generated_at: "2026-03-30T02:52:56.070Z"
+generated_at: "2026-11-23T20:25:32.256Z"
+status: "active"
 ---
 
 # § 9001. Definitions
@@ -43,3 +44,27 @@ For purposes of this chapter:
     - **(B)** with respect to the Coast Guard when it is not operating as a service of the Navy, the Secretary of Homeland Security;
     - **(C)** with respect to the commissioned corps of the National Oceanic and Atmospheric Administration, the Secretary of Commerce; and
     - **(D)** with respect to the commissioned corps of the Public Health Service, the Secretary of Health and Human Services.
+
+Employee
+
+Annuitant
+
+Member of the uniformed services
+
+Retired member of the uniformed services
+
+Qualified relative
+
+Eligible individual
+
+Qualified carrier
+
+State
+
+Qualified long-term care insurance contract
+
+Appropriate secretary
+
+## Source Credit
+
+*(Added [Pub. L. 106–265, title I, § 1002(a)](https://www.govinfo.gov/link/plaw/106/public/265), Sept. 19, 2000, [114 Stat. 762](https://www.govinfo.gov/link/statute/114/762); amended [Pub. L. 107–104, § 1](https://www.govinfo.gov/link/plaw/107/public/104), Dec. 27, 2001, [115 Stat. 1001](https://www.govinfo.gov/link/statute/115/1001); [Pub. L. 107–107, div. A, title X, § 1048(i)(6)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1229](https://www.govinfo.gov/link/statute/115/1229); [Pub. L. 107–314, div. A, title XI, § 1101(a)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2660](https://www.govinfo.gov/link/statute/116/2660); [Pub. L. 108–7, div. C, title III, § 138(a)](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 129](https://www.govinfo.gov/link/statute/117/129); [Pub. L. 108–136, div. A, title V, § 561](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1482](https://www.govinfo.gov/link/statute/117/1482); [Pub. L. 109–241, title IX, § 902(a)(3)](https://www.govinfo.gov/link/plaw/109/public/241), July 11, 2006, [120 Stat. 566](https://www.govinfo.gov/link/statute/120/566); [Pub. L. 109–356, title I, § 117(a)(3)](https://www.govinfo.gov/link/plaw/109/public/356), Oct. 16, 2006, [120 Stat. 2027](https://www.govinfo.gov/link/statute/120/2027).)*

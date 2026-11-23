@@ -3,9 +3,10 @@ title: "Section 5510 - Annual report"
 usc_title: 38
 usc_section: "5510"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 5510"
-generated_at: "2026-03-30T02:55:53.522Z"
+generated_at: "2026-11-23T20:27:01.966Z"
+status: "active"
 ---
 
 # § 5510. Annual report
@@ -22,3 +23,7 @@ The Secretary shall include in the Annual Benefits Report of the Veterans Benefi
   - **(8)** The number of fiduciary cases referred to the Office of the Inspector General and the nature of the actions taken by the Inspector General.
   - **(9)** The total amount of money recovered by the Government in cases arising from the misuse of benefits by a fiduciary.
   - **(10)** Such other information as the Secretary considers appropriate.
+
+## Source Credit
+
+*(Added [Pub. L. 108–454, title V, § 505(a)](https://www.govinfo.gov/link/plaw/108/public/454), Dec. 10, 2004, [118 Stat. 3621](https://www.govinfo.gov/link/statute/118/3621); amended [Pub. L. 111–275, title X, § 1001](https://www.govinfo.gov/link/plaw/111/public/275) (l), Oct. 13, 2010, [124 Stat. 2897](https://www.govinfo.gov/link/statute/124/2897).)*

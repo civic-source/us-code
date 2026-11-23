@@ -3,9 +3,10 @@ title: "Section 1703 - Denial of equal educational opportunity prohibited"
 usc_title: 20
 usc_section: "1703"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1703"
-generated_at: "2026-03-30T02:54:48.169Z"
+generated_at: "2026-11-23T20:26:14.672Z"
+status: "active"
 ---
 
 # § 1703. Denial of equal educational opportunity prohibited
@@ -18,3 +19,7 @@ No State shall deny equal educational opportunity to an individual on account of
 - **(d)** discrimination by an educational agency on the basis of race, color, or national origin in the employment, employment conditions, or assignment to schools of its faculty or staff, except to fulfill the purposes of subsection (f) below;
 - **(e)** the transfer by an educational agency, whether voluntary or otherwise, of a student from one school to another if the purpose and effect of such transfer is to increase segregation of students on the basis of race, color, or national origin among the schools of such agency; or
 - **(f)** the failure by an educational agency to take appropriate action to overcome language barriers that impede equal participation by its students in its instructional programs.
+
+## Source Credit
+
+*([Pub. L. 93–380, title II, § 204](https://www.govinfo.gov/link/plaw/93/public/380), Aug. 21, 1974, [88 Stat. 515](https://www.govinfo.gov/link/statute/88/515).)*

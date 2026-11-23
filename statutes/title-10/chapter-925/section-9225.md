@@ -3,12 +3,34 @@ title: "Section 9225 - Rank: warrant officers"
 usc_title: 10
 usc_section: "9225"
 chapter: 925
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 9225"
-generated_at: "2026-03-30T02:53:38.257Z"
+generated_at: "2026-11-23T20:25:52.292Z"
+status: "active"
 ---
 
 # § 9225. Rank: warrant officers
 
 Warrant officers rank next below second lieutenants and rank among themselves within each warrant officer grade under regulations to be prescribed by the Secretary of the Air Force.
 
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 8575 | 10:593 (less 1st sentence). | Aug. 21, 1941, ch. 384, § 4 (less 1st sentence), 55 Stat. 653 ; May 29, 1954, ch. 249, § 19(e) , 68 Stat. 167 . |
+
+
+Historical and Revision Notes
+
+8575
+
+Aug. 21, 1941, ch. 384, § 4
+
+55 Stat. 653
+
+May 29, 1954, ch. 249, § 19(e)
+
+68 Stat. 167
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 530, § 8575; renumbered § 9225, [Pub. L. 115–232, div. A, title VIII, § 806(b)(7)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1832](https://www.govinfo.gov/link/statute/132/1832).)*

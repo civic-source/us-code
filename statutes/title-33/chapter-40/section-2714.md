@@ -3,9 +3,10 @@ title: "Section 2714 - Designation of source and advertisement"
 usc_title: 33
 usc_section: "2714"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2714"
-generated_at: "2026-03-30T02:55:41.132Z"
+generated_at: "2026-11-23T20:26:54.217Z"
+status: "active"
 ---
 
 # § 2714. Designation of source and advertisement
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:41.132Z"
   - **(1)** the responsible party and the guarantor both deny a designation within 5 days after receiving notification of a designation under subsection (a),
   - **(2)** the source of the discharge or threat was a public vessel, or
   - **(3)** the President is unable to designate the source or sources of the discharge or threat under subsection (a),
+
+## Source Credit
+
+*([Pub. L. 101–380, title I, § 1014](https://www.govinfo.gov/link/plaw/101/public/380), Aug. 18, 1990, [104 Stat. 501](https://www.govinfo.gov/link/statute/104/501); [Pub. L. 104–324, title XI, § 1142(c)](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3991](https://www.govinfo.gov/link/statute/110/3991).)*

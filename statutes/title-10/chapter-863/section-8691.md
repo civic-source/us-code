@@ -3,9 +3,10 @@ title: "Section 8691 - Nuclear-powered aircraft carriers: dismantlement and disp
 usc_title: 10
 usc_section: "8691"
 chapter: 863
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 8691"
-generated_at: "2026-03-30T02:53:38.249Z"
+generated_at: "2026-11-23T20:25:52.229Z"
+status: "active"
 ---
 
 # § 8691. Nuclear-powered aircraft carriers: dismantlement and disposal
@@ -23,3 +24,13 @@ generated_at: "2026-03-30T02:53:38.249Z"
     - **(B)** Any fiscal years before the fiscal years covered by the future-years defense program.
     - **(C)** Any fiscal years after the end of the period of the future-years defense program.
 - **(c)** In this section, the term “future-years defense program” means the future-years defense program required by section 221 of this title .
+
+In General
+
+Supplemental Information With Budgets
+
+Future-years Defense Program Defined
+
+## Source Credit
+
+*(Added § 7321 and renumbered § 8691, [Pub. L. 115–232, div. A, title VIII, § 807(d)(2)](https://www.govinfo.gov/link/plaw/115/public/232), title X, § 1016(a), Aug. 13, 2018, [132 Stat. 1836](https://www.govinfo.gov/link/statute/132/1836), 1950.)*

@@ -3,9 +3,10 @@ title: "Section 12407 - Technical panel"
 usc_title: 42
 usc_section: "12407"
 chapter: 128
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12407"
-generated_at: "2026-03-30T02:56:11.413Z"
+generated_at: "2026-11-23T20:27:23.359Z"
+status: "active"
 ---
 
 # § 12407. Technical panel
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.413Z"
   - **(1)** the implementation and conduct of programs under this chapter; and
   - **(2)** the economic, technological, and environmental consequences of the deployment of hydrogen production and use systems.
 - **(e)** The Secretary shall provide such staff, funds and other support as may be necessary to enable the technical panel to carry out the functions described in this section.
+
+## Source Credit
+
+*([Pub. L. 101–566, § 108](https://www.govinfo.gov/link/plaw/101/public/566), Nov. 15, 1990, [104 Stat. 2800](https://www.govinfo.gov/link/statute/104/2800); [Pub. L. 104–271, title I, § 102(b)](https://www.govinfo.gov/link/plaw/104/public/271), Oct. 9, 1996, [110 Stat. 3305](https://www.govinfo.gov/link/statute/110/3305).)*

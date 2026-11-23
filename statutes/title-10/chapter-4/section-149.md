@@ -3,9 +3,10 @@ title: "Section 149 - Office of Strategic Capital"
 usc_title: 10
 usc_section: "149"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 149"
-generated_at: "2026-03-30T02:53:38.040Z"
+generated_at: "2026-11-23T20:25:50.832Z"
+status: "active"
 ---
 
 # § 149. Office of Strategic Capital
@@ -150,3 +151,71 @@ generated_at: "2026-03-30T02:53:38.040Z"
     - **(A)** is in a covered technology category; and
     - **(B)** is not a technology that solely has defense applications.
   - **(5)** The term “obligor” means a party that is primarily liable for payment of the principal or interest on a loan.
+
+Establishment
+
+Director
+
+Duties
+
+Non-Federal Funding Requirements for Certain Investments
+
+Pilot Program on Capital Assistance to Support Defense Investment in the Industrial Base.—
+
+(aa) Except as provided under item (bb), the interest rate on a loan provided under clause (i) shall be not less than the yield on marketable United States Treasury securities of a similar maturity to the maturity of the loan on the date of execution of the loan agreement.
+
+(bb) The Director may waive the requirement under item (aa) with respect to an investment if the investment is determined by the Secretary of Defense to be vital to the national security of the United States.
+
+(cc) The Director shall establish separate and distinct criteria for interest rates for loan guarantees with private sector lending institutions.
+
+(aa) A loan provided under clause (i) shall not be subordinated to the claims of any holder of investment obligations in the event of bankruptcy, insolvency, or liquidation of the obligor.
+
+(bb) The Director may waive the requirement under item (aa) with respect to the investment in order to mitigate risks to loan repayment.
+
+Fees.—
+
+In general.—
+
+Deposit into credit program account.—
+
+In general
+
+Limitation on use of fees
+
+Termination of authority.—
+
+In general
+
+Treatment of certain assets
+
+Reports required.—
+
+Annual report
+
+Audit
+
+Authority to Accept Services
+
+Definitions
+
+Authorization
+
+Objectives
+
+Matching and Tracking Capabilities
+
+Qualifying Private-sector Organization Defined
+
+In General
+
+Chair
+
+Designation of Executive Agent
+
+Guidance
+
+Inclusion of Certain Officials
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title IX, § 903(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 358](https://www.govinfo.gov/link/statute/137/358); amended [Pub. L. 118–159, div. A, title IX, § 905(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2028](https://www.govinfo.gov/link/statute/138/2028); [Pub. L. 119–60, div. A, title IX](https://www.govinfo.gov/link/plaw/119/public/60), §§ 905, 906, Dec. 18, 2025, [139 Stat. 1010](https://www.govinfo.gov/link/statute/139/1010), 1011.)*

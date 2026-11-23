@@ -3,9 +3,10 @@ title: "Section 657d - Federal and State Technology Partnership Program"
 usc_title: 15
 usc_section: "657d"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 657d"
-generated_at: "2026-03-30T02:54:08.106Z"
+generated_at: "2026-11-23T20:26:03.839Z"
+status: "active"
 ---
 
 # § 657d. Federal and State Technology Partnership Program
@@ -94,3 +95,9 @@ generated_at: "2026-03-30T02:54:08.106Z"
   - **(1)** There is authorized to be appropriated to carry out the FAST program, including Mentoring Networks, under this section and section 657e of this title , $10,000,000 for each of fiscal years 2001 through 2005.
   - **(2)** Of the total amount made available under paragraph (1) for fiscal years 2001 through 2005, a reasonable amount, not to exceed a total of $500,000, may be used by the Administration to carry out section 657e(d) of this title .
 - **(i)** The authority to carry out the FAST program under this section shall terminate on September 30, 2005 .
+
+“Congress finds that—
+
+## Source Credit
+
+*([Pub. L. 85–536, § 2[34]](https://www.govinfo.gov/link/plaw/85/public/536), as added [Pub. L. 106–554, § 1(a)(9) [title I, § 111(b)(2)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–674; amended [Pub. L. 107–50, § 8](https://www.govinfo.gov/link/plaw/107/public/50), Oct. 15, 2001, [115 Stat. 265](https://www.govinfo.gov/link/statute/115/265); [Pub. L. 114–88, div. B, title I, § 2104](https://www.govinfo.gov/link/plaw/114/public/88), Nov. 25, 2015, [129 Stat. 691](https://www.govinfo.gov/link/statute/129/691); [Pub. L. 116–283, div. A, title VIII, § 867(2)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3787](https://www.govinfo.gov/link/statute/134/3787).)*

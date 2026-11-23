@@ -3,12 +3,17 @@ title: "Section 51 - Short title"
 usc_title: 15
 usc_section: "51"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 51"
-generated_at: "2026-03-30T02:54:08.070Z"
+generated_at: "2026-11-23T20:26:03.618Z"
+status: "active"
 ---
 
 # § 80a–51. Short title
 
 This subchapter may be cited as the “Investment Company Act of 1940”.
 
+
+## Source Credit
+
+*(Aug. 22, 1940, ch. 686, title I, § 52, [54 Stat. 847](https://www.govinfo.gov/link/statute/54/847).)*

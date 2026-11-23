@@ -3,9 +3,10 @@ title: "Section 5154 - Moratorium"
 usc_title: 16
 usc_section: "5154"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 5154"
-generated_at: "2026-03-30T02:54:23.050Z"
+generated_at: "2026-11-23T20:26:20.769Z"
+status: "active"
 ---
 
 # § 5154. Moratorium
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:23.050Z"
     - **(B)** Any fish seized pursuant to this chapter may be disposed of pursuant to the order of a court of competent jurisdiction, or, if perishable, in a manner prescribed in regulations.
 - **(d)** A person authorized by the Secretaries or the Secretary of the department in which the Coast Guard is operating may take any action to enforce a moratorium declared under subsection (a) that an officer authorized by the Secretary under section 311(b) of the Magnuson Act ( 16 U.S.C. 1861(b) ) may take to enforce that Act ( 16 U.S.C. 1801 et seq.). The Secretaries may, by agreement, on a reimbursable basis or otherwise, utilize the personnel, services, equipment (including aircraft and vessels), and facilities of any other Federal department or agency and of any agency of a State in carrying out that enforcement.
 - **(e)** The Secretaries may issue regulations to implement this section.
+
+## Source Credit
+
+*([Pub. L. 98–613, § 5](https://www.govinfo.gov/link/plaw/98/public/613), Oct. 31, 1984, [98 Stat. 3189](https://www.govinfo.gov/link/statute/98/3189); [Pub. L. 99–432, § 3](https://www.govinfo.gov/link/plaw/99/public/432), Oct. 1, 1986, [100 Stat. 990](https://www.govinfo.gov/link/statute/100/990); [Pub. L. 100–589, § 6(g)(2)](https://www.govinfo.gov/link/plaw/100/public/589), Nov. 3, 1988, [102 Stat. 2988](https://www.govinfo.gov/link/statute/102/2988); [Pub. L. 102–130, § 2(a)](https://www.govinfo.gov/link/plaw/102/public/130), Oct. 17, 1991, [105 Stat. 626](https://www.govinfo.gov/link/statute/105/626); [Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009](https://www.govinfo.gov/link/statute/110/3009), 3009–41; [Pub. L. 105–146, § 2](https://www.govinfo.gov/link/plaw/105/public/146), Dec. 16, 1997, [111 Stat. 2674](https://www.govinfo.gov/link/statute/111/2674).)*

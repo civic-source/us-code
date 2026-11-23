@@ -3,9 +3,10 @@ title: "Section 2679 - Installation-support services: intergovernmental support 
 usc_title: 10
 usc_section: "2679"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2679"
-generated_at: "2026-03-30T02:53:38.169Z"
+generated_at: "2026-11-23T20:25:51.649Z"
+status: "active"
 ---
 
 # § 2679. Installation-support services: intergovernmental support agreements
@@ -34,3 +35,41 @@ generated_at: "2026-03-30T02:53:38.169Z"
   - **(2)** The term “local government” includes a county, parish, municipality, city, town, township, local public authority, school district, special district, and any agency or instrumentality of a local government.
   - **(3)** The term “State” includes the District of Columbia, the Commonwealths of Puerto Rico and the Northern Mariana Islands, American Samoa, Guam, the United States Virgin Islands, the State of Yap of the Federated States of Micronesia, and the Republic of Palau, and any agency or instrumentality of a State.
   - **(4)** The term “intergovernmental support agreement” means a legal instrument reflecting a relationship between the Secretary concerned and a State, local, or tribal government that contains such terms and conditions as the Secretary concerned considers appropriate for the purposes of this section and necessary to protect the interests of the United States.
+
+In General
+
+Effect on First Responder Arrangements
+
+Availability of Funds
+
+Effect on OMB Circular A-
+
+Pilot Program for Use of Cost Savings Realized
+
+Definitions
+
+Review Required
+
+Matters
+
+Guidance
+
+Briefing
+
+Notification Required
+
+Recommendations.—
+
+In general
+
+Budget request materials defined
+
+Briefing Required
+
+Policy Required
+
+Secretary Concerned Defined
+
+## Source Credit
+
+*(Added [Pub. L. 112–239, div. A, title III, § 331(a)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1696](https://www.govinfo.gov/link/statute/126/1696), § 2336; renumbered § 2679 and amended [Pub. L. 113–291, div. A, title III, § 351(a)](https://www.govinfo.gov/link/plaw/113/public/291), (b), Dec. 19, 2014, [128 Stat. 3346](https://www.govinfo.gov/link/statute/128/3346); [Pub. L. 114–92, div. A, title X, § 1081(a)(9)](https://www.govinfo.gov/link/plaw/114/public/92), (b)(1), Nov. 25, 2015, [129 Stat. 1001](https://www.govinfo.gov/link/statute/129/1001); [Pub. L. 115–91, div. B, title XXVIII, § 2813](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1849](https://www.govinfo.gov/link/statute/131/1849); [Pub. L. 115–232, div. A, title X, § 1081(a)(26)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1985](https://www.govinfo.gov/link/statute/132/1985); [Pub. L. 116–283, div. B, title XXVIII, § 2861(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4356](https://www.govinfo.gov/link/statute/134/4356); [Pub. L. 118–159, div. B, title XXVIII, § 2845](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2264](https://www.govinfo.gov/link/statute/138/2264); [Pub. L. 119–60, div. B, title XXVIII](https://www.govinfo.gov/link/plaw/119/public/60), §§ 2843–2845, Dec. 18, 2025, [139 Stat. 1318](https://www.govinfo.gov/link/statute/139/1318).)*

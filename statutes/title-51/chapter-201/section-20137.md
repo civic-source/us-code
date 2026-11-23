@@ -3,9 +3,10 @@ title: "Section 20137 - Malpractice and negligence suits against United States"
 usc_title: 51
 usc_section: "20137"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 20137"
-generated_at: "2026-03-30T02:56:28.703Z"
+generated_at: "2026-11-23T20:27:37.449Z"
+status: "active"
 ---
 
 # § 20137. Malpractice and negligence suits against United States
@@ -16,3 +17,38 @@ generated_at: "2026-03-30T02:56:28.703Z"
 - **(d)** The Attorney General may compromise or settle any claim asserted in such civil action or proceeding in the manner provided in section 2677 of title 28 , and with the same effect.
 - **(e)** For purposes of this section, the provisions of section 2680(h) of title 28 shall not apply to any cause of action arising out of a negligent or wrongful act or omission in the performance of medical, dental, or related health care functions (including clinical studies and investigations).
 - **(f)** The Administrator or the Administrator’s designee may, to the extent that the Administrator or the designee deems appropriate, hold harmless or provide liability insurance for any person described in subsection (a) for damages for personal injury, including death, caused by such person’s negligent or wrongful act or omission in the performance of medical, dental, or related health care functions (including clinical studies and investigations) while acting within the scope of such person’s duties if such person is assigned to a foreign country or detailed for service with other than a Federal department, agency, or instrumentality or if the circumstances are such as are likely to preclude the remedies of third persons against the United States described in section 2679(b) of title 28 , for such damage or injury.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 20137 | 42 U.S.C. 2458a . | Pub. L. 85–568, title III, § 307 , as added Pub. L. 94–464, § 3 , Oct. 8, 1976 , 90 Stat. 1988 . |
+
+
+Exclusive Remedy
+
+Attorney General To Defend any Civil Action or Proceeding for Malpractice or Negligence
+
+Removal of Actions
+
+Compromise or Settlement of Claims
+
+Applicability of Other Provisions of Law
+
+Liability Insurance for Persons Assigned to Foreign Countries or Non-Federal Agencies
+
+Historical and Revision Notes
+
+20137
+
+42 U.S.C. 2458a
+
+Pub. L. 85–568, title III, § 307
+
+Pub. L. 94–464, § 3
+
+Oct. 8, 1976
+
+90 Stat. 1988
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3343](https://www.govinfo.gov/link/statute/124/3343).)*

@@ -3,9 +3,10 @@ title: "Section 1011c - National Advisory Committee on Institutional Quality and
 usc_title: 20
 usc_section: "1011c"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1011c"
-generated_at: "2026-03-30T02:54:48.092Z"
+generated_at: "2026-11-23T20:26:14.300Z"
+status: "active"
 ---
 
 # § 1011c. National Advisory Committee on Institutional Quality and Integrity
@@ -58,3 +59,9 @@ generated_at: "2026-03-30T02:54:48.092Z"
     - **(C)** a list of the members of the Committee; and
     - **(D)** a list of the functions of the Committee, including any additional functions established by the Secretary through regulation.
 - **(f)** The Committee shall terminate on September 30, 2021 . 1 1 See Termination of Committee note below.
+
+“Notwithstanding section 114 of the Higher Education Act of 1965 ( 20 U.S.C. 1011c ) (as in effect before, during, and after the date of enactment of this Act [ Aug. 14, 2008 ])—
+
+## Source Credit
+
+*([Pub. L. 89–329, title I, § 114](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title I, § 101(a)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1592](https://www.govinfo.gov/link/statute/112/1592); amended [Pub. L. 110–315, title I, § 106(a)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3090](https://www.govinfo.gov/link/statute/122/3090); [Pub. L. 113–174, § 1](https://www.govinfo.gov/link/plaw/113/public/174), Sept. 26, 2014, [128 Stat. 1900](https://www.govinfo.gov/link/statute/128/1900); [Pub. L. 114–113, div. H, title III, § 309](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2638](https://www.govinfo.gov/link/statute/129/2638); [Pub. L. 115–31, div. H, title III, § 308](https://www.govinfo.gov/link/plaw/115/public/31), May 5, 2017, [131 Stat. 552](https://www.govinfo.gov/link/statute/131/552); [Pub. L. 115–141, div. H, title III, § 308](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 750](https://www.govinfo.gov/link/statute/132/750); [Pub. L. 115–245, div. B, title III, § 306](https://www.govinfo.gov/link/plaw/115/public/245), Sept. 28, 2018, [132 Stat. 3105](https://www.govinfo.gov/link/statute/132/3105); [Pub. L. 116–94, div. A, title III, § 305](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 2595](https://www.govinfo.gov/link/statute/133/2595); [Pub. L. 116–260, div. H, title III, § 305](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 1608](https://www.govinfo.gov/link/statute/134/1608); [Pub. L. 117–286, § 4(a)(146)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4322](https://www.govinfo.gov/link/statute/136/4322).)*

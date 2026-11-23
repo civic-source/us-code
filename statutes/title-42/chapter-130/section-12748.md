@@ -3,9 +3,10 @@ title: "Section 12748 - HOME Investment Trust Funds"
 usc_title: 42
 usc_section: "12748"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12748"
-generated_at: "2026-03-30T02:56:11.431Z"
+generated_at: "2026-11-23T20:27:23.436Z"
+status: "active"
 ---
 
 # § 12748. HOME Investment Trust Funds
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.431Z"
 - **(f)** The Secretary shall not charge any interest or levy any other fee with regard to funds in a HOME Investment Trust Fund.
 - **(g)** If any funds becoming available to a participating jurisdiction under this subchapter are not placed under binding commitment to affordable housing within 24 months after the last day of the month in which such funds are deposited in the jurisdiction’s HOME Investment Trust Fund, the jurisdiction’s right to draw such funds from the HOME Investment Trust Fund shall expire. The Secretary shall reduce the line of credit in the participating jurisdiction’s HOME Investment Trust Fund by the expiring amount and shall reallocate the funds by formula in accordance with section 12747(d) of this title .
 - **(h)** The Secretary shall keep each participating jurisdiction informed of the status of its HOME Investment Trust Fund, including the status of amounts under various stages of commitment.
+
+## Source Credit
+
+*([Pub. L. 101–625, title II, § 218](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4109](https://www.govinfo.gov/link/statute/104/4109); [Pub. L. 102–550, title II](https://www.govinfo.gov/link/plaw/102/public/550), §§ 203(c), 221, Oct. 28, 1992, [106 Stat. 3752](https://www.govinfo.gov/link/statute/106/3752), 3762.)*

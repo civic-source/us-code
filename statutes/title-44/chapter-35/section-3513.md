@@ -3,9 +3,10 @@ title: "Section 3513 - Director review of agency activities; reporting; agency r
 usc_title: 44
 usc_section: "3513"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "44 U.S.C. § 3513"
-generated_at: "2026-03-30T02:55:56.297Z"
+generated_at: "2026-11-23T20:27:03.832Z"
+status: "active"
 ---
 
 # § 3513. Director review of agency activities; reporting; agency response
@@ -15,3 +16,9 @@ generated_at: "2026-03-30T02:55:56.297Z"
   - **(1)** be taken to address information resources management problems identified in the report; and
   - **(2)** improve agency performance and the accomplishment of agency missions.
 - **(c)** Notwithstanding any other provision of law, the Director shall treat or review a rule or order prescribed or proposed by the Director of the Bureau of Consumer Financial Protection on the same terms and conditions as apply to any rule or order prescribed or proposed by the Board of Governors of the Federal Reserve System.
+
+Comparable Treatment
+
+## Source Credit
+
+*(Added [Pub. L. 104–13, § 2](https://www.govinfo.gov/link/plaw/104/public/13), May 22, 1995, [109 Stat. 181](https://www.govinfo.gov/link/statute/109/181); amended [Pub. L. 111–203, title X, § 1100D(b)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2111](https://www.govinfo.gov/link/statute/124/2111).)*

@@ -3,9 +3,10 @@ title: "Section 2350c - Cooperative military airlift agreements: allied countrie
 usc_title: 10
 usc_section: "2350c"
 chapter: 138
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2350c"
-generated_at: "2026-03-30T02:53:38.156Z"
+generated_at: "2026-11-23T20:25:51.550Z"
+status: "active"
 ---
 
 # § 2350c. Cooperative military airlift agreements: allied countries
@@ -23,3 +24,25 @@ generated_at: "2026-03-30T02:53:38.156Z"
     - **(B)** Australia, New Zealand, Japan, and the Republic of Korea.
     - **(C)** Any other country designated as an allied country for the purposes of this section by the Secretary of Defense with the concurrence of the Secretary of State.
   - **(2)** The term “North Atlantic Treaty Organization subsidiary bodies” has the meaning given to it by section 2350 of this title .
+
+Authority To Participate in Partnership.—
+
+Memorandum of understanding
+
+Payments
+
+Authorities Under Partnership
+
+Crediting of Receipts
+
+Authority To Transfer Aircraft.—
+
+Transfer authority
+
+Report
+
+Strategic Airlift Capability Partnership Defined
+
+## Source Credit
+
+*(Added [Pub. L. 97–252, title XI, § 1125(a)](https://www.govinfo.gov/link/plaw/97/public/252), Sept. 8, 1982, [96 Stat. 757](https://www.govinfo.gov/link/statute/96/757), § 2213; amended [Pub. L. 99–145, title XIII, § 1304(b)](https://www.govinfo.gov/link/plaw/99/public/145), Nov. 8, 1985, [99 Stat. 742](https://www.govinfo.gov/link/statute/99/742); [Pub. L. 100–26, § 7(k)(2)](https://www.govinfo.gov/link/plaw/100/public/26), Apr. 21, 1987, [101 Stat. 284](https://www.govinfo.gov/link/statute/101/284); renumbered § 2350c and amended [Pub. L. 101–189, div. A, title IX, § 931(b)(2)](https://www.govinfo.gov/link/plaw/101/public/189), (e)(4), Nov. 29, 1989, [103 Stat. 1534](https://www.govinfo.gov/link/statute/103/1534), 1535; [Pub. L. 102–484, div. A, title XIII, § 1311](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2547](https://www.govinfo.gov/link/statute/106/2547); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title XII, § 1222], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–328.)*

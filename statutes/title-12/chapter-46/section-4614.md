@@ -3,9 +3,10 @@ title: "Section 4614 - Capital classifications"
 usc_title: 12
 usc_section: "4614"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4614"
-generated_at: "2026-03-30T02:53:53.510Z"
+generated_at: "2026-11-23T20:25:59.404Z"
+status: "active"
 ---
 
 # § 4614. Capital classifications
@@ -56,3 +57,7 @@ generated_at: "2026-03-30T02:53:53.510Z"
     - **(A)** is made in connection with the issuance of additional shares or obligations of the regulated entity in at least an equivalent amount; and
     - **(B)** will reduce the financial obligations of the regulated entity or otherwise improve the financial condition of the entity.
 - **(f)** Notwithstanding any other provision of this section, during the period beginning on October 28, 1992 , and ending upon the effective date of section 4615 of this title (as provided in section 4615(c) 1 of this title), an enterprise shall be classified as adequately capitalized if the enterprise maintains an amount of core capital that is equal to or exceeds the minimum capital level for the enterprise under section 4612 of this title .
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1364](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3976](https://www.govinfo.gov/link/statute/106/3976); [Pub. L. 110–289, div. A, title I](https://www.govinfo.gov/link/plaw/110/public/289), §§ 1142(a), 1161(a)(3), July 30, 2008, [122 Stat. 2730](https://www.govinfo.gov/link/statute/122/2730), 2779.)*

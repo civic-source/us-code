@@ -3,9 +3,10 @@ title: "Section 1412 - Program goals"
 usc_title: 19
 usc_section: "1412"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1412"
-generated_at: "2026-03-30T02:54:24.634Z"
+generated_at: "2026-11-23T20:26:10.754Z"
+status: "active"
 ---
 
 # § 1412. Program goals
@@ -15,3 +16,7 @@ The goals of the Program are to ensure that all regulations and rulings that are
   - **(1)** is uniform and consistent;
   - **(2)** is as minimally intrusive upon the normal flow of business activity as practicable; and
   - **(3)** improves compliance.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 412, as added [Pub. L. 103–182, title VI, § 631(2)](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2189](https://www.govinfo.gov/link/statute/107/2189).)*

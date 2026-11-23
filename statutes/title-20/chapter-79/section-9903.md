@@ -3,9 +3,10 @@ title: "Section 9903 - Grant program"
 usc_title: 20
 usc_section: "9903"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 9903"
-generated_at: "2026-03-30T02:54:48.233Z"
+generated_at: "2026-11-23T20:26:15.012Z"
+status: "active"
 ---
 
 # § 9903. Grant program
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:54:48.233Z"
   - **(2)** 55 percent of the amount of the grant for the second and third fiscal years of the grant; and
   - **(3)** 75 percent of the amount of the grant for the fourth and fifth fiscal years of the grant.
 - **(g)** Within 90 days after January 4, 2011 , the Director shall initiate a proceeding to promulgate guidance for the administration of the grant program established under subsection (a).
+
+## Source Credit
+
+*([Pub. L. 111–358, title V, § 553](https://www.govinfo.gov/link/plaw/111/public/358), Jan. 4, 2011, [124 Stat. 4022](https://www.govinfo.gov/link/statute/124/4022).)*

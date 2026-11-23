@@ -3,9 +3,10 @@ title: "Section 665j - Ransomware threat mitigation activities"
 usc_title: 6
 usc_section: "665j"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 665j"
-generated_at: "2026-03-30T02:53:09.480Z"
+generated_at: "2026-11-23T20:25:34.838Z"
+status: "active"
 ---
 
 # § 665j. Ransomware threat mitigation activities
@@ -25,3 +26,13 @@ generated_at: "2026-03-30T02:53:09.480Z"
     - **(G)** Creation of after-action reports and other lessons learned from Federal actions that identify successes and failures to improve subsequent actions.
     - **(H)** Any other activities determined appropriate by the Joint Ransomware Task Force to mitigate the threat of ransomware attacks.
 - **(b)** Nothing in this section shall be construed to provide any additional authority to any Federal agency.
+
+“In this division [see Short Title of 2022 Amendment note set out under section 101 of this title ]:
+
+Covered cyber incident; covered entity; cyber incident; information system; ransom payment; ransomware attack; security vulnerability
+
+Director
+
+## Source Credit
+
+*([Pub. L. 117–103, div. Y, § 106](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 1056](https://www.govinfo.gov/link/statute/136/1056).)*

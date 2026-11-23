@@ -3,9 +3,10 @@ title: "Section 6003 - International cooperation"
 usc_title: 22
 usc_section: "6003"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6003"
-generated_at: "2026-03-30T02:55:05.421Z"
+generated_at: "2026-11-23T20:26:32.584Z"
+status: "active"
 ---
 
 # § 6003. International cooperation
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:05.421Z"
       - **(i)** donations of food to nongovernmental organizations or individuals in Cuba, or
       - **(ii)** exports of medicines or medical supplies, instruments, or equipment that would be permitted under section 6004(c) of this title .
   - **(3)** This section, and any sanctions imposed pursuant to this section, shall cease to apply at such time as the President makes and reports to the Congress a determination under section 6007(a) of this title .
+
+## Source Credit
+
+*([Pub. L. 102–484, div. A, title XVII, § 1704](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2576](https://www.govinfo.gov/link/statute/106/2576); [Pub. L. 104–114, title I, § 102(f)](https://www.govinfo.gov/link/plaw/104/public/114), Mar. 12, 1996, [110 Stat. 793](https://www.govinfo.gov/link/statute/110/793).)*

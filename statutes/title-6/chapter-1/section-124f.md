@@ -3,9 +3,10 @@ title: "Section 124f - Intelligence training development for State and local gov
 usc_title: 6
 usc_section: "124f"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 124f"
-generated_at: "2026-03-30T02:53:09.444Z"
+generated_at: "2026-11-23T20:25:34.642Z"
+status: "active"
 ---
 
 # § 124f. Intelligence training development for State and local government officials
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:09.444Z"
   - **(2)** ensure that the curriculum includes executive level training for senior level State, local, and tribal law enforcement officers, intelligence analysts, and other emergency response providers.
 - **(b)** To the extent possible, the Federal Law Enforcement Training Center and other existing Federal entities with the capacity and expertise to train State, local, and tribal government officials based on the curriculum developed under subsection (a) shall be used to carry out the training programs created under this section. If such entities do not have the capacity, resources, or capabilities to conduct such training, the Secretary may approve another entity to conduct such training.
 - **(c)** In carrying out the duties described in subsection (a), the Under Secretary for Intelligence and Analysis shall consult with the Director of the Federal Law Enforcement Training Center, the Attorney General, the Director of National Intelligence, the Administrator of the Federal Emergency Management Agency, and other appropriate parties, such as private industry, institutions of higher education, nonprofit institutions, and other intelligence agencies of the Federal Government.
+
+## Source Credit
+
+*([Pub. L. 107–296, title II, § 209](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 110–53, title V, § 503(a)](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 312](https://www.govinfo.gov/link/statute/121/312).)*

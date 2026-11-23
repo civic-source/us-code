@@ -3,9 +3,10 @@ title: "Section 18761 - Clean energy demonstration program on current and former
 usc_title: 42
 usc_section: "18761"
 chapter: 162
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18761"
-generated_at: "2026-03-30T02:56:11.529Z"
+generated_at: "2026-11-23T20:27:23.827Z"
+status: "active"
 ---
 
 # § 18761. Clean energy demonstration program on current and former mine land
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:56:11.529Z"
 - **(d)** The Secretary shall consult with the Director of the Office of Surface Mining Reclamation and Enforcement and the Administrator of the Environmental Protection Agency, acting through the Office of Brownfields and Land Revitalization, to determine whether it is necessary to promulgate regulations or issue guidance in order to prioritize and expedite the siting of clean energy projects on current and former mine land sites.
 - **(e)** The Secretary shall provide technical assistance to project applicants selected for participation in the program under subsection (c) to assess the needed interconnection, transmission, and other grid components and permitting and siting necessary to interconnect, on current and former mine land where the project will be sited, any generation or storage with the electric grid.
 - **(f)** There is authorized to be appropriated to the Secretary to carry out this section $500,000,000 for the period of fiscal years 2022 through 2026.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title III, § 40342](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1031](https://www.govinfo.gov/link/statute/135/1031).)*

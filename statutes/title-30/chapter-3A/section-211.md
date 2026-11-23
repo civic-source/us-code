@@ -3,9 +3,10 @@ title: "Section 211 - Phosphate deposits"
 usc_title: 30
 usc_section: "211"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 211"
-generated_at: "2026-03-30T02:55:29.380Z"
+generated_at: "2026-11-23T20:26:34.924Z"
+status: "active"
 ---
 
 # § 211. Phosphate deposits
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:29.380Z"
 - **(a)** The Secretary of the Interior is authorized to lease to any applicant qualified under this chapter, through advertisement, competitive bidding, or such other methods as he may by general regulations adopt, any phosphate deposits of the United States, and lands containing such deposits, including associated and related minerals, when in his judgment the public interest will be best served thereby. The lands shall be leased under such terms and conditions as are herein specified, in units reasonably compact in form of not to exceed two thousand five hundred and sixty acres.
 - **(b)** Where prospecting or exploratory work is necessary to determine the existence or workability of phosphate deposits in any unclaimed, undeveloped area, the Secretary of the Interior is authorized to issue, to any applicant qualified under this chapter, a prospecting permit which shall give the exclusive right to prospect for phosphate deposits, including associated minerals, for a period of two years, for not more than two thousand five hundred and sixty acres; and if prior to the expiration of the permit the permittee shows to the Secretary that valuable deposits of phosphate have been discovered within the area covered by his permit, the permittee shall be entitled to a lease for any or all of the land embraced in the prospecting permit.
 - **(c)** Any phosphate permit issued under this section may be extended by the Secretary for such an additional period, not in excess of four years, as he deems advisable, if he finds that the permittee has been unable, with reasonable diligence, to determine the existence or workability of phosphate deposits in the area covered by the permit and desires to prosecute further prospecting or exploration, or for other reasons warranting such an extension in the opinion of the Secretary.
+
+## Source Credit
+
+*(Feb. 25, 1920, ch. 85, § 9, [41 Stat. 440](https://www.govinfo.gov/link/statute/41/440); June 3, 1948, ch. 379, § 2, [62 Stat. 290](https://www.govinfo.gov/link/statute/62/290); [Pub. L. 86–391, § 1(a)](https://www.govinfo.gov/link/plaw/86/public/391), Mar. 18, 1960, [74 Stat. 7](https://www.govinfo.gov/link/statute/74/7).)*

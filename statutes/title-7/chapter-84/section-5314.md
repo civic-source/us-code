@@ -3,9 +3,10 @@ title: "Section 5314 - Implementation of comprehensive plan"
 usc_title: 7
 usc_section: "5314"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 5314"
-generated_at: "2026-03-30T02:53:42.414Z"
+generated_at: "2026-11-23T20:25:41.644Z"
+status: "active"
 ---
 
 # § 5314. Implementation of comprehensive plan
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:42.414Z"
   - **(2)** carried out, by the Federal agencies involved, in accordance with the allocation of functions and activities under section 5313(c) of this title ; and
   - **(3)** funded by appropriations made to such agencies for each fiscal year of the program.
 - **(b)** Nothing in this subchapter may be construed to grant any new regulatory authority or to limit, expand, or otherwise modify any regulatory authority under existing law, or to establish new criteria, standards, or requirements for regulation under existing law.
+
+## Source Credit
+
+*([Pub. L. 101–445, title I, § 104](https://www.govinfo.gov/link/plaw/101/public/445), Oct. 22, 1990, [104 Stat. 1040](https://www.govinfo.gov/link/statute/104/1040).)*

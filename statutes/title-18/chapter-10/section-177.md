@@ -3,9 +3,10 @@ title: "Section 177 - Injunctions"
 usc_title: 18
 usc_section: "177"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 177"
-generated_at: "2026-03-30T02:54:16.458Z"
+generated_at: "2026-11-23T20:26:08.338Z"
+status: "active"
 ---
 
 # § 177. Injunctions
@@ -17,3 +18,11 @@ generated_at: "2026-03-30T02:54:16.458Z"
 - **(b)** It is an affirmative defense against an injunction under subsection (a)(3) of this section that—
   - **(1)** the conduct sought to be enjoined is for a prophylactic, protective, or other peaceful purpose; and
   - **(2)** such biological agent, toxin, or delivery system is of a type and quantity reasonable for that purpose.
+
+In General
+
+Affirmative Defense
+
+## Source Credit
+
+*(Added [Pub. L. 101–298, § 3(a)](https://www.govinfo.gov/link/plaw/101/public/298), May 22, 1990, [104 Stat. 202](https://www.govinfo.gov/link/statute/104/202); amended [Pub. L. 104–132, title V, § 511(b)(2)](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1284](https://www.govinfo.gov/link/statute/110/1284).)*

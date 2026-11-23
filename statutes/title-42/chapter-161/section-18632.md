@@ -3,9 +3,10 @@ title: "Section 18632 - Energy Innovation Hubs"
 usc_title: 42
 usc_section: "18632"
 chapter: 161
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18632"
-generated_at: "2026-03-30T02:56:11.521Z"
+generated_at: "2026-11-23T20:27:23.804Z"
+status: "active"
 ---
 
 # § 18632. Energy Innovation Hubs
@@ -71,3 +72,7 @@ generated_at: "2026-03-30T02:56:11.521Z"
       - **(i)** no funds provided under this section may be used for construction of new buildings or facilities for Hubs; and
       - **(ii)** construction of new buildings or facilities shall not be considered as part of the non-Federal share of a Hub cost-sharing agreement.
     - **(B)** Nothing in this paragraph prohibits the use of funds provided under this section or non-Federal cost share funds for the construction of a test bed or renovations to existing buildings or facilities for the purposes of research if the Secretary determines that the test bed or renovations are limited to a scope and scale necessary for the research to be conducted.
+
+## Source Credit
+
+*([Pub. L. 115–246, title II, § 206](https://www.govinfo.gov/link/plaw/115/public/246), Sept. 28, 2018, [132 Stat. 3137](https://www.govinfo.gov/link/statute/132/3137).)*

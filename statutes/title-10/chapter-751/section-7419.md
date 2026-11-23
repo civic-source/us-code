@@ -3,9 +3,10 @@ title: "Section 7419 - Recruit basic training: separate housing for male and fem
 usc_title: 10
 usc_section: "7419"
 chapter: 751
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 7419"
-generated_at: "2026-03-30T02:53:38.231Z"
+generated_at: "2026-11-23T20:25:52.081Z"
+status: "active"
 ---
 
 # § 7419. Recruit basic training: separate housing for male and female recruits
@@ -17,3 +18,15 @@ generated_at: "2026-03-30T02:53:38.231Z"
 - **(b)** If male recruits and female recruits cannot be housed as provided under subsection (a) by October 1, 2001 , at a particular installation, the Secretary of the Army shall require (on and after that date) that male recruits in basic training at such installation be housed in barracks or other troop housing facilities that are only for males and that female recruits in basic training at such installation be housed in barracks or other troop housing facilities that are only for females.
 - **(c)** In planning for the construction of housing to be used for housing recruits during basic training, the Secretary of the Army shall ensure that the housing is to be constructed in a manner that facilitates the housing of male recruits and female recruits separately and securely from each other.
 - **(d)** In this section, the term ‘basic training’ means the initial entry training program of the Army that constitutes the basic training of new recruits.
+
+Physically Separate Housing
+
+Alternative Separate Housing
+
+Construction Planning
+
+Basic Training Defined
+
+## Source Credit
+
+*(Added [Pub. L. 105–261, div. A, title V, § 521(a)(1)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2009](https://www.govinfo.gov/link/statute/112/2009), § 4319; renumbered § 7419, [Pub. L. 115–232, div. A, title VIII, § 808(c)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1839](https://www.govinfo.gov/link/statute/132/1839).)*

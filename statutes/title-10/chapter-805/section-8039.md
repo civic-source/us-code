@@ -3,9 +3,10 @@ title: "Section 8039 - Deputy Commander of the Naval Sea Systems Command for the
 usc_title: 10
 usc_section: "8039"
 chapter: 805
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 8039"
-generated_at: "2026-03-30T02:53:38.238Z"
+generated_at: "2026-11-23T20:25:52.134Z"
+status: "active"
 ---
 
 # § 8039. Deputy Commander of the Naval Sea Systems Command for the Supervision of Shipbuilding, Conversion, and Repair
@@ -45,3 +46,25 @@ generated_at: "2026-03-30T02:53:38.238Z"
     - **(D)** A summary of any dedicated evaluation, such as a review by a task force or working group, of the organizational structure and resourcing plans and requirements that support the supervision of shipbuilding, conversion, and repair, that—
       - **(i)** includes key findings, recommendations, and implementation plans; and
       - **(ii)** indicates any additional support needed from other organizations of the Department, such as the Defense Contract Audit Agency and the Defense Contract Management Agency, for implementation.
+
+In General
+
+Qualifications
+
+Reporting
+
+General Responsibilities
+
+Non-Contract Administration Services Functions
+
+Comprehensive Contract Management
+
+Subcontractor Audits
+
+Annual Written Assessment
+
+“On the date that is 30 days after the date of enactment of the [James M. Inhofe] National Defense Authorization Act for Fiscal Year 2023 [ Dec. 23, 2022 ]—
+
+## Source Credit
+
+*(Added [Pub. L. 117–81, div. A, title X, § 1012(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1890](https://www.govinfo.gov/link/statute/135/1890).)*

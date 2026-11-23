@@ -3,9 +3,10 @@ title: "Section 1117 - Recovery for violation of rights"
 usc_title: 15
 usc_section: "1117"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1117"
-generated_at: "2026-03-30T02:54:08.127Z"
+generated_at: "2026-11-23T20:26:03.961Z"
+status: "active"
 ---
 
 # § 1117. Recovery for violation of rights
@@ -19,3 +20,13 @@ generated_at: "2026-03-30T02:54:08.127Z"
   - **(2)** if the court finds that the use of the counterfeit mark was willful, not more than $2,000,000 per counterfeit mark per type of goods or services sold, offered for sale, or distributed, as the court considers just.
 - **(d)** In a case involving a violation of section 1125(d)(1) of this title , the plaintiff may elect, at any time before final judgment is rendered by the trial court, to recover, instead of actual damages and profits, an award of statutory damages in the amount of not less than $1,000 and not more than $100,000 per domain name, as the court considers just.
 - **(e)** In the case of a violation referred to in this section, it shall be a rebuttable presumption that the violation is willful for purposes of determining relief if the violator, or a person acting in concert with the violator, knowingly provided or knowingly caused to be provided materially false contact information to a domain name registrar, domain name registry, or other domain name registration authority in registering, maintaining, or renewing a domain name used in connection with the violation. Nothing in this subsection limits what may be considered a willful violation under this section.
+
+Free Speech and Press
+
+Discretion of Courts in Determining Relief
+
+Discretion of Courts in Determining Terms of Imprisonment
+
+## Source Credit
+
+*(July 5, 1946, ch. 540, title VI, § 35, [60 Stat. 439](https://www.govinfo.gov/link/statute/60/439); [Pub. L. 87–772, § 19](https://www.govinfo.gov/link/plaw/87/public/772), Oct. 9, 1962, [76 Stat. 774](https://www.govinfo.gov/link/statute/76/774); [Pub. L. 93–596, § 1](https://www.govinfo.gov/link/plaw/93/public/596), Jan. 2, 1975, [88 Stat. 1949](https://www.govinfo.gov/link/statute/88/1949); [Pub. L. 93–600, § 3](https://www.govinfo.gov/link/plaw/93/public/600), Jan. 2, 1975, [88 Stat. 1955](https://www.govinfo.gov/link/statute/88/1955); [Pub. L. 98–473, title II, § 1503(2)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2182](https://www.govinfo.gov/link/statute/98/2182); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 100–667, title I, § 129](https://www.govinfo.gov/link/plaw/100/public/667), Nov. 16, 1988, [102 Stat. 3945](https://www.govinfo.gov/link/statute/102/3945); [Pub. L. 104–153, § 7](https://www.govinfo.gov/link/plaw/104/public/153), July 2, 1996, [110 Stat. 1388](https://www.govinfo.gov/link/statute/110/1388); [Pub. L. 106–43, § 3(b)](https://www.govinfo.gov/link/plaw/106/public/43), Aug. 5, 1999, [113 Stat. 219](https://www.govinfo.gov/link/statute/113/219); [Pub. L. 106–113, div. B, § 1000(a)(9) [title III, § 3003(a)(2), (b)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–549; [Pub. L. 107–273, div. C, title III, § 13207(a)](https://www.govinfo.gov/link/plaw/107/public/273), (b)(11), Nov. 2, 2002, [116 Stat. 1906](https://www.govinfo.gov/link/statute/116/1906), 1908; [Pub. L. 108–482, title II, § 202](https://www.govinfo.gov/link/plaw/108/public/482), Dec. 23, 2004, [118 Stat. 3916](https://www.govinfo.gov/link/statute/118/3916); [Pub. L. 110–403, title I](https://www.govinfo.gov/link/plaw/110/public/403), §§ 103, 104, Oct. 13, 2008, [122 Stat. 4259](https://www.govinfo.gov/link/statute/122/4259).)*

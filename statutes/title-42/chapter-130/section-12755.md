@@ -3,9 +3,10 @@ title: "Section 12755 - Tenant and participant protections"
 usc_title: 42
 usc_section: "12755"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12755"
-generated_at: "2026-03-30T02:56:11.431Z"
+generated_at: "2026-11-23T20:27:23.438Z"
+status: "active"
 ---
 
 # § 12755. Tenant and participant protections
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.431Z"
   - **(2)** are reasonably related to program eligibility and the applicant’s ability to perform the obligations of the lease,
   - **(3)** give reasonable consideration to the housing needs of families that would have a preference under section 1437d(c)(4)(A) of this title , and
   - **(4)** provide for (A) the selection of tenants from a written waiting list in the chronological order of their application, insofar as is practicable, and (B) for 1 1 So in original. The word “for” probably should not appear. the prompt notification in writing of any rejected applicant of the grounds for any rejection.
+
+## Source Credit
+
+*([Pub. L. 101–625, title II, § 225](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4113](https://www.govinfo.gov/link/statute/104/4113); [Pub. L. 114–113, div. L, title II, § 235](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2896](https://www.govinfo.gov/link/statute/129/2896).)*

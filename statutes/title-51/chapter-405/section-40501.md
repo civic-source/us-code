@@ -3,9 +3,10 @@ title: "Section 40501 - Biomedical research joint working group"
 usc_title: 51
 usc_section: "40501"
 chapter: 405
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 40501"
-generated_at: "2026-03-30T02:56:28.706Z"
+generated_at: "2026-11-23T20:27:37.483Z"
+status: "active"
 ---
 
 # § 40501. Biomedical research joint working group
@@ -14,3 +15,34 @@ generated_at: "2026-03-30T02:56:28.706Z"
 - **(b)** The joint working group shall include equal representation from the Administration and the National Institutes of Health, and shall include representation from National Institutes of Health councils, as selected by the Director of the National Institutes of Health, and from the National Aeronautics and Space Administration Advisory Council.
 - **(c)** The joint working group shall organize annual symposia on biomedical research described in subsection (a) under the joint sponsorship of the Administration and the National Institutes of Health.
 - **(d)** The joint working group shall report annually to Congress on its progress in carrying out this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 40501 | 42 U.S.C. 2487a . | Pub. L. 102–588, title VI, § 602 , Nov. 4, 1992 , 106 Stat. 5130 . |
+
+
+Establishment
+
+Membership
+
+Annual Biomedical Research Symposia
+
+Annual Reporting Requirement
+
+Historical and Revision Notes
+
+40501
+
+42 U.S.C. 2487a
+
+Pub. L. 102–588, title VI, § 602
+
+Nov. 4, 1992
+
+106 Stat. 5130
+
+“The Congress finds that—
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3389](https://www.govinfo.gov/link/statute/124/3389).)*

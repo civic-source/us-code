@@ -3,9 +3,10 @@ title: "Section 1397C - Enterprise zone business defined"
 usc_title: 26
 usc_section: "1397C"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1397C"
-generated_at: "2026-03-30T02:55:27.774Z"
+generated_at: "2026-11-23T20:26:46.111Z"
+status: "active"
 ---
 
 # § 1397C. Enterprise zone business defined
@@ -50,3 +51,11 @@ generated_at: "2026-03-30T02:55:27.774Z"
   - **(2)** the business entity or proprietorship also uses real property located outside the empowerment zone,
   - **(3)** the amount of real property described in paragraph (1) is substantial compared to the amount of real property described in paragraph (2), and
   - **(4)** the real property described in paragraph (2) is contiguous to part or all of the real property described in paragraph (1),
+
+In general
+
+Special rule for enterprise zone facility bonds
+
+## Source Credit
+
+*(Added [Pub. L. 103–66, title XIII, § 13301(a)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 552](https://www.govinfo.gov/link/statute/107/552), § 1397B; amended [Pub. L. 104–188, title I, § 1703(m)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1877](https://www.govinfo.gov/link/statute/110/1877); [Pub. L. 105–34, title IX, § 956(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 890](https://www.govinfo.gov/link/statute/111/890); [Pub. L. 106–170, title V, § 532(c)(4)](https://www.govinfo.gov/link/plaw/106/public/170), Dec. 17, 1999, [113 Stat. 1931](https://www.govinfo.gov/link/statute/113/1931); renumbered § 1397C, [Pub. L. 106–554, § 1(a)(7) [title I, § 116(a)(2)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–602; [Pub. L. 115–141, div. U, title IV, § 401(a)(196)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1193](https://www.govinfo.gov/link/statute/132/1193).)*

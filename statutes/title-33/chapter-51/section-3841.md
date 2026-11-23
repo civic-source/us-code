@@ -3,9 +3,10 @@ title: "Section 3841 - Prohibitions"
 usc_title: 33
 usc_section: "3841"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 3841"
-generated_at: "2026-03-30T02:55:41.144Z"
+generated_at: "2026-11-23T20:26:54.279Z"
+status: "active"
 ---
 
 # § 3841. Prohibitions
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:41.144Z"
   - **(2)** This section does not apply to—
     - **(A)** the sale, distribution, or use pursuant to any agreement between the Administrator and any person that results in an earlier prohibition or cancellation date than specified in this chapter; or
     - **(B)** the manufacture, processing, formulation, sale, distribution, or use of organotin or antifouling systems containing organotin used or intended for use only for sonar domes or in conductivity sensors in oceanographic instruments.
+
+## Source Credit
+
+*([Pub. L. 111–281, title X, § 1031](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 3027](https://www.govinfo.gov/link/statute/124/3027).)*

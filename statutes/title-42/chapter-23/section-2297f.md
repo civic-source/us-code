@@ -3,9 +3,10 @@ title: "Section 2297f - Gaseous diffusion facilities"
 usc_title: 42
 usc_section: "2297f"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2297f"
-generated_at: "2026-03-30T02:56:11.161Z"
+generated_at: "2026-11-23T20:27:22.133Z"
+status: "active"
 ---
 
 # § 2297f. Gaseous diffusion facilities
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.161Z"
     - **(B)** The Corporation and the Department shall cooperate fully with the Nuclear Regulatory Commission and the Environmental Protection Agency and shall provide the Nuclear Regulatory Commission and the Environmental Protection Agency with the ready access to the facilities, personnel, and information the Nuclear Regulatory Commission and the Environmental Protection Agency consider necessary to carry out their responsibilities under this subsection. A contractor operating a Corporation facility for the Corporation shall provide the Nuclear Regulatory Commission and the Environmental Protection Agency with ready access to the facilities, personnel, and information of the contractor as the Nuclear Regulatory Commission and the Environmental Protection Agency consider necessary to carry out their responsibilities under this subsection.
     - **(C)** The Nuclear Regulatory Commission shall limit its finding under subsection (b)(2) to a determination of whether the facilities are in compliance with the standards established under subsection (a).
 - **(d)** The gaseous diffusion uranium enrichment facilities of the Department may not be operated by the Corporation unless the Nuclear Regulatory Commission, in consultation with the Environmental Protection Agency, makes a determination of compliance under subsection (b) or approves a plan prepared by the Department for achieving compliance required under subsection (b).
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title II, § 1701, as added [Pub. L. 102–486, title XI, § 1101](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2951](https://www.govinfo.gov/link/statute/106/2951); amended [Pub. L. 104–134, title III, § 3116(b)(3)](https://www.govinfo.gov/link/plaw/104/public/134), Apr. 26, 1996, [110 Stat. 1321–349](https://www.govinfo.gov/link/statute/110/1321); [Pub. L. 105–362, title XII, § 1202](https://www.govinfo.gov/link/plaw/105/public/362), Nov. 10, 1998, [112 Stat. 3292](https://www.govinfo.gov/link/statute/112/3292).)*

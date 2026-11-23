@@ -3,9 +3,10 @@ title: "Section 8201 - Reporting, payment, and allocation of premium taxes"
 usc_title: 15
 usc_section: "8201"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 8201"
-generated_at: "2026-03-30T02:54:08.227Z"
+generated_at: "2026-11-23T20:26:04.477Z"
+status: "active"
 ---
 
 # § 8201. Reporting, payment, and allocation of premium taxes
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:08.227Z"
   - **(3)** Upon the expiration of the 330-day period referred to in paragraph (2), the NAIC may submit a report to the Committee on Financial Services and the Committee on the Judiciary of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate identifying and describing any compact or other procedures for allocation among the States of premium taxes that have been adopted during such period by any States.
   - **(4)** The Congress intends that each State adopt nationwide uniform requirements, forms, and procedures, such as an interstate compact, that provide for the reporting, payment, collection, and allocation of premium taxes for nonadmitted insurance consistent with this section.
 - **(c)** To facilitate the payment of premium taxes among the States, an insured’s home State may require surplus lines brokers and insureds who have independently procured insurance to annually file tax allocation reports with the insured’s home State detailing the portion of the nonadmitted insurance policy premium or premiums attributable to properties, risks, or exposures located in each State. The filing of a nonadmitted insurance tax allocation report and the payment of tax may be made by a person authorized by the insured to act as its agent.
+
+## Source Credit
+
+*([Pub. L. 111–203, title V, § 521](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1589](https://www.govinfo.gov/link/statute/124/1589).)*

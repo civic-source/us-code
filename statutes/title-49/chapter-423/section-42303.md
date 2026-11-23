@@ -3,9 +3,10 @@ title: "Section 42303 - Use of insecticides in passenger aircraft"
 usc_title: 49
 usc_section: "42303"
 chapter: 423
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 42303"
-generated_at: "2026-03-30T02:56:19.379Z"
+generated_at: "2026-11-23T20:27:35.125Z"
+status: "active"
 ---
 
 # § 42303. Use of insecticides in passenger aircraft
@@ -14,3 +15,11 @@ generated_at: "2026-03-30T02:56:19.379Z"
 - **(b)** An air carrier, foreign air carrier, or ticket agent selling, in the United States, a ticket for a flight in foreign air transportation to a country listed on the internet website established under subsection (a) shall—
   - **(1)** disclose, on its own internet website or through other means, that the destination country may require the air carrier or foreign air carrier to treat an aircraft passenger cabin with insecticides prior to the flight or to apply an aerosol insecticide in an aircraft cabin used for such a flight when the cabin is occupied with passengers; and
   - **(2)** refer the purchaser of the ticket to the internet website established under subsection (a) for additional information.
+
+Information To Be Provided on the Internet
+
+Required Disclosures
+
+## Source Credit
+
+*(Added [Pub. L. 112–95, title IV, § 415(a)](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 95](https://www.govinfo.gov/link/statute/126/95); amended [Pub. L. 115–254, div. B, title IV, § 404](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3329](https://www.govinfo.gov/link/statute/132/3329).)*

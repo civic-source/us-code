@@ -3,9 +3,10 @@ title: "Section 1908 - Penalties for violations"
 usc_title: 33
 usc_section: "1908"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1908"
-generated_at: "2026-03-30T02:55:41.110Z"
+generated_at: "2026-11-23T20:26:54.102Z"
+status: "active"
 ---
 
 # § 1908. Penalties for violations
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:41.110Z"
 - **(e)** If any ship subject to the MARPOL Protocol, Annex IV to the Antarctic Protocol, or this chapter, its owner, operator, or person in charge is liable for a fine or civil penalty under this section, or if reasonable cause exists to believe that the ship, its owner, operator, or person in charge may be subject to a fine or civil penalty under this section, the Secretary of the Treasury, upon the request of the Secretary, shall refuse or revoke the clearance required by section 60105 of title 46 . Clearance may be granted upon the filing of a bond or other surety satisfactory to the Secretary.
 - **(f)** Notwithstanding subsection (a), (b), or (d) of this section, if the violation is by a ship registered in or of the nationality of a country party to the MARPOL Protocol or the Antarctic Protocol, or one operated under the authority of a country party to the MARPOL Protocol or the Antarctic Protocol, the Secretary, or the Administrator as provided for in this chapter acting in coordination with the Secretary of State, may refer the matter to the government of the country of the ship’s registry or nationality, or under whose authority the ship is operating for appropriate action, rather than taking the actions required or authorized by this section.
 - **(g)** Any penalty collected under subsection (a) or (b) that is not paid under that subsection to the person giving information leading to the conviction or assessment of such penalties shall be deposited in the Abandoned Seafarers Fund established under section 11113 of title 46 .
+
+## Source Credit
+
+*([Pub. L. 96–478, § 9](https://www.govinfo.gov/link/plaw/96/public/478), Oct. 21, 1980, [94 Stat. 2301](https://www.govinfo.gov/link/statute/94/2301); [Pub. L. 100–220, title II, § 2105](https://www.govinfo.gov/link/plaw/100/public/220), Dec. 29, 1987, [101 Stat. 1463](https://www.govinfo.gov/link/statute/101/1463); [Pub. L. 101–380, title IV, § 4302(n)](https://www.govinfo.gov/link/plaw/101/public/380), Aug. 18, 1990, [104 Stat. 539](https://www.govinfo.gov/link/statute/104/539); [Pub. L. 103–182, title VI, § 688](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2222](https://www.govinfo.gov/link/statute/107/2222); [Pub. L. 104–227, title II, § 201(f)](https://www.govinfo.gov/link/plaw/104/public/227), Oct. 2, 1996, [110 Stat. 3043](https://www.govinfo.gov/link/statute/110/3043); [Pub. L. 110–280, § 10](https://www.govinfo.gov/link/plaw/110/public/280), July 21, 2008, [122 Stat. 2615](https://www.govinfo.gov/link/statute/122/2615); [Pub. L. 113–281, title III, § 320(c)](https://www.govinfo.gov/link/plaw/113/public/281), Dec. 18, 2014, [128 Stat. 3054](https://www.govinfo.gov/link/statute/128/3054).)*

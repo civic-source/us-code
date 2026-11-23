@@ -3,9 +3,10 @@ title: "Section 6507 - State organic certification program"
 usc_title: 7
 usc_section: "6507"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6507"
-generated_at: "2026-03-30T02:53:42.431Z"
+generated_at: "2026-11-23T20:25:41.709Z"
+status: "active"
 ---
 
 # § 6507. State organic certification program
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:42.431Z"
   - **(1)** The Secretary shall review State organic certification programs not less than once during each 5-year period following the date of the approval of such programs.
   - **(2)** The governing State official, prior to implementing any substantive change to programs approved under this subsection, shall submit such change to the Secretary for approval.
   - **(3)** The Secretary shall make a determination concerning any plan, proposed change to a program, or a review of a program not later than 6 months after receipt of such plan, such proposed change, or the initiation of such review.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XXI, § 2108](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3939](https://www.govinfo.gov/link/statute/104/3939).)*

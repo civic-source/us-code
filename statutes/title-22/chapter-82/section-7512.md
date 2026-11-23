@@ -3,9 +3,10 @@ title: "Section 7512 - Purposes of assistance"
 usc_title: 22
 usc_section: "7512"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7512"
-generated_at: "2026-03-30T02:55:05.440Z"
+generated_at: "2026-11-23T20:26:32.665Z"
+status: "active"
 ---
 
 # § 7512. Purposes of assistance
@@ -21,3 +22,7 @@ The purposes of assistance authorized by this subchapter are—
   - **(7)** to support the reconstruction of Afghanistan through, among other things, programs that create jobs, facilitate clearance of landmines, and rebuild the agriculture sector, the health care system, and the educational system of Afghanistan;
   - **(8)** to provide resources to the Ministry for Women’s Affairs of Afghanistan to carry out its responsibilities for legal advocacy, education, vocational training, and women’s health programs; and
   - **(9)** to foster the growth of a pluralistic society that promotes and respects religious freedom.
+
+## Source Credit
+
+*([Pub. L. 107–327, title I, § 102](https://www.govinfo.gov/link/plaw/107/public/327), Dec. 4, 2002, [116 Stat. 2798](https://www.govinfo.gov/link/statute/116/2798).)*

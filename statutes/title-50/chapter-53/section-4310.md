@@ -3,9 +3,10 @@ title: "Section 4310 - Acts permitted; applications for patents, or registration
 usc_title: 50
 usc_section: "4310"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4310"
-generated_at: "2026-03-30T02:56:26.272Z"
+generated_at: "2026-11-23T20:27:31.094Z"
+status: "active"
 ---
 
 # § 4310. Acts permitted; applications for patents, or registration of trade-marks or copyrights; payment of tax in relation thereto; licenses under enemy owned patent or copyright; statements by licensees; term and cancellation; suits against licensees; restraining infringements; powers of attorney; keeping secret inventions
@@ -21,3 +22,7 @@ Nothing contained in this chapter shall be held to make unlawful any of the foll
 - **(g)** Any enemy, or ally of enemy, may institute and prosecute suits in equity against any person other than a licensee under this chapter to enjoin infringement of letters patent, trade-mark, print, label, and copyrights in the United States owned or controlled by said enemy or ally of enemy, in the same manner and to the extent that he would be entitled so to do if the United States was not at war: Provided , That no final judgment or decree shall be entered in favor of such enemy or ally of enemy by any court except after thirty days’ notice to the alien property custodian. Such notice shall be in writing and shall be served in the same manner as civil process of Federal courts.
 - **(h)** All powers of attorney heretofore or hereafter granted by an enemy or ally of enemy to any person within the United States, in so far as they may be requisite to the performance of acts authorized in subsections (a) and (g) of this section, shall be valid.
 - **(i)** Whenever the publication of an invention by the granting of a patent may, in the opinion of the President, be detrimental to the public safety or defense, or may assist the enemy or endanger the successful prosecution of the war, he may order that the invention be kept secret and withhold the grant of a patent until the end of the war: Provided , That the invention disclosed in the application for said patent may be held abandoned upon it being established before or by the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office that, in violation of said order, said invention has been published or that an application for a patent therefor has been filed in any other country, by the inventor or his assigns or legal representatives, without the consent or approval of the commissioner or under a license of the President. When an applicant whose patent is withheld as herein provided and who faithfully obeys the order of the President above referred to shall tender his invention to the Government of the United States for its use, he shall, if he ultimately receives a patent, have the right to sue for compensation in the United States Court of Federal Claims, such right to compensation to begin from the date of the use of the invention by the Government.
+
+## Source Credit
+
+*(Oct. 6, 1917, ch. 106, § 10, [40 Stat. 420](https://www.govinfo.gov/link/statute/40/420); Mar. 10, 1928, ch. 167, § 19, [45 Stat. 277](https://www.govinfo.gov/link/statute/45/277); Aug. 8, 1946, ch. 910, § 13, [60 Stat. 944](https://www.govinfo.gov/link/statute/60/944); [Pub. L. 97–164, title I, § 160(a)(17)](https://www.govinfo.gov/link/plaw/97/public/164), Apr. 2, 1982, [96 Stat. 48](https://www.govinfo.gov/link/statute/96/48); [Pub. L. 102–572, title IX, § 902(b)(1)](https://www.govinfo.gov/link/plaw/102/public/572), Oct. 29, 1992, [106 Stat. 4516](https://www.govinfo.gov/link/statute/106/4516); [Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(26)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–585.)*

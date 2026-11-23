@@ -3,9 +3,10 @@ title: "Section 9055 - Congressional Oversight Commission"
 usc_title: 15
 usc_section: "9055"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 9055"
-generated_at: "2026-03-30T02:54:08.242Z"
+generated_at: "2026-11-23T20:26:04.545Z"
+status: "active"
 ---
 
 # § 9055. Congressional Oversight Commission
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:54:08.242Z"
 - **(g)**
   - **(1)** There is authorized to be appropriated to the Oversight Commission such sums as may be necessary for any fiscal year, half of which shall be derived from the applicable account of the House of Representatives, and half of which shall be derived from the contingent fund of the Senate.
   - **(2)** An amount equal to the expenses of the Oversight Commission shall be promptly transferred by the Secretary and the Board of Governors of the Federal Reserve System, from time to time upon the presentment of a statement of such expenses by the Chairperson of the Oversight Commission, from funds made available to the Secretary under this part to the applicable fund of the House of Representatives and the contingent fund of the Senate, as appropriate, as reimbursement for amounts expended from such account and fund under paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 116–136, div. A, title IV, § 4020](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 486](https://www.govinfo.gov/link/statute/134/486); [Pub. L. 117–328, div. AA, title VIII, § 801](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5551](https://www.govinfo.gov/link/statute/136/5551).)*

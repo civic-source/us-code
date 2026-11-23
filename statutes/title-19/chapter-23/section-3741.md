@@ -3,9 +3,10 @@ title: "Section 3741 - Sense of the Congress regarding efforts to combat deserti
 usc_title: 19
 usc_section: "3741"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3741"
-generated_at: "2026-03-30T02:54:24.696Z"
+generated_at: "2026-11-23T20:26:11.075Z"
+status: "active"
 ---
 
 # § 3741. Sense of the Congress regarding efforts to combat desertification in Africa and other countries
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:24.696Z"
   - **(2)** promote the development of national and regional strategies to address desertification and increase public awareness of this serious problem and its effects;
   - **(3)** develop and implement national action programs that identify the causes of desertification and measures to address it; and
   - **(4)** recognize the essential role of local governments and nongovernmental organizations in developing and implementing measures to address desertification.
+
+## Source Credit
+
+*([Pub. L. 106–200, title I, § 131](https://www.govinfo.gov/link/plaw/106/public/200), May 18, 2000, [114 Stat. 274](https://www.govinfo.gov/link/statute/114/274).)*

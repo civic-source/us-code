@@ -3,9 +3,10 @@ title: "Section 649b - Grants, contracts and cooperative agreements for internat
 usc_title: 15
 usc_section: "649b"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 649b"
-generated_at: "2026-03-30T02:54:08.104Z"
+generated_at: "2026-11-23T20:26:03.826Z"
+status: "active"
 ---
 
 # § 649b. Grants, contracts and cooperative agreements for international marketing programs
@@ -32,3 +33,49 @@ generated_at: "2026-03-30T02:54:08.104Z"
 - **(f)** For the purpose of the evaluation under subsection (e), the Secretary is authorized to require any small business international marketing program, or party receiving assistance under this section, to furnish such information as is deemed appropriate to complete the required evaluation.
 - **(g)** As used in this section, the term “applicant” means any State government or agency or instrumentality thereof, any Small Business Administration—designated small business development center, any for profit small business, any nonprofit corporation, any regional commission, or any combination of such entities, which will carry out a small business international marketing program.
 - **(h)** The authority to enter into contracts shall be in effect for each fiscal year only to the extent or in the amounts as are provided in advance in appropriation Acts.
+
+Definitions
+
+Establishment of Program
+
+Grants.—
+
+Joint review
+
+Considerations
+
+Limitations.—
+
+Single application
+
+Proportion of amounts
+
+Application
+
+Competitive Basis
+
+Federal Share
+
+Non-Federal Share
+
+Reports.—
+
+Initial report
+
+Annual reports
+
+Reviews by Inspector General.—
+
+In general
+
+Report
+
+Authorization of Appropriations
+
+Termination
+
+“In this subtitle [subtitle B (§§ 1201–1209) of title I of Pub. L. 111–240 , see Short Title of 2010 Amendment note set out under section 631 of this title ]—
+
+## Source Credit
+
+*([Pub. L. 96–481, title III, § 302](https://www.govinfo.gov/link/plaw/96/public/481), Oct. 21, 1980, [94 Stat. 2331](https://www.govinfo.gov/link/statute/94/2331).)*

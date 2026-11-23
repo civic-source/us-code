@@ -3,9 +3,10 @@ title: "Section 1692p - Exception for certain bad check enforcement programs ope
 usc_title: 15
 usc_section: "1692p"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1692p"
-generated_at: "2026-03-30T02:54:08.156Z"
+generated_at: "2026-11-23T20:26:04.112Z"
+status: "active"
 ---
 
 # § 1692p. Exception for certain bad check enforcement programs operated by private entities
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:54:08.156Z"
   - **(1)** The term “State or district attorney” means the chief elected or appointed prosecuting attorney in a district, county (as defined in section 2 of title 1 ), municipality, or comparable jurisdiction, including State attorneys general who act as chief elected or appointed prosecuting attorneys in a district, county (as so defined), municipality or comparable jurisdiction, who may be referred to by a variety of titles such as district attorneys, prosecuting attorneys, commonwealth’s attorneys, solicitors, county attorneys, and state’s attorneys, and who are responsible for the prosecution of State crimes and violations of jurisdiction-specific local ordinances.
   - **(2)** The term “check” has the same meaning as in section 5002(6) of title 12 .
   - **(3)** The term “bad check violation” means a violation of the applicable State criminal law relating to the writing of dishonored checks.
+
+## Source Credit
+
+*([Pub. L. 90–321, title VIII, § 818](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 109–351, title VIII, § 801(a)(2)](https://www.govinfo.gov/link/plaw/109/public/351), Oct. 13, 2006, [120 Stat. 2004](https://www.govinfo.gov/link/statute/120/2004).)*

@@ -3,9 +3,10 @@ title: "Section 4043 - Participants"
 usc_title: 22
 usc_section: "4043"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4043"
-generated_at: "2026-03-30T02:55:05.402Z"
+generated_at: "2026-11-23T20:26:32.500Z"
+status: "active"
 ---
 
 # § 4043. Participants
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:05.402Z"
 - **(b)** Any otherwise eligible member of the Service who is appointed to a position in the executive branch by the President, by and with the advice and consent of the Senate, or by the President alone, shall not by virtue of the acceptance of such appointment cease to be eligible to participate in the System.
 - **(c)** In addition to the individuals who are participants in the System under subsection (a), any individual who was appointed as a Binational Center Grantee and who completed at least 5 years of satisfactory service as such a grantee or under any other appointment under the Foreign Service Act of 1946 may become a participant in the System, and shall receive credit for such service if an appropriate special contribution is made to the Fund in accordance with section 4045(d) or (f) of this title.
 - **(d)** An individual subject to the Foreign Service Pension System (described in part II) is not a participant in this System.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 803](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2102](https://www.govinfo.gov/link/statute/94/2102); [Pub. L. 99–335, title IV](https://www.govinfo.gov/link/plaw/99/public/335), §§ 402(a)(2), 414, June 6, 1986, [100 Stat. 609](https://www.govinfo.gov/link/statute/100/609), 614.)*

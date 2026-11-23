@@ -3,9 +3,10 @@ title: "Section 45306 - Manual surcharge"
 usc_title: 49
 usc_section: "45306"
 chapter: 453
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 45306"
-generated_at: "2026-03-30T02:56:19.396Z"
+generated_at: "2026-11-23T20:27:35.237Z"
+status: "active"
 ---
 
 # § 45306. Manual surcharge
@@ -16,3 +17,13 @@ generated_at: "2026-03-30T02:56:19.396Z"
   - **(3)** is not related to research or other non-commercial activities.
 - **(b)** A surcharge imposed and collected under subsection (a) shall not exceed twice the maximum fee the Administrator is authorized to charge for the registration of an aircraft, not used to provide air transportation, after the transfer of ownership under section 45302(b)(2).
 - **(c)** Monies collected from a surcharge imposed under subsection (a) shall be treated as monies collected under section 45302 and subject to the terms and conditions set forth in section 45302(d).
+
+In General
+
+Maximum Surcharge
+
+Credit to Account and Availability
+
+## Source Credit
+
+*(Added [Pub. L. 115–254, div. B, title V, § 546(d)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3376](https://www.govinfo.gov/link/statute/132/3376).)*

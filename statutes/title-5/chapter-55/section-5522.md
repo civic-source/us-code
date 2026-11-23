@@ -3,9 +3,10 @@ title: "Section 5522 - Advance payments; rates; amounts recoverable"
 usc_title: 5
 usc_section: "5522"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 5522"
-generated_at: "2026-03-30T02:52:56.018Z"
+generated_at: "2026-11-23T20:25:31.928Z"
+status: "active"
 ---
 
 # § 5522. Advance payments; rates; amounts recoverable
@@ -17,3 +18,22 @@ generated_at: "2026-03-30T02:52:56.018Z"
 - **(c)** An advance of funds under subsection (a) of this section is recoverable by the Government of the United States or the government of the District of Columbia, as the case may be, from the employee or his estate by—
   - **(1)** setoff against accrued pay, amount of retirement credit, or other amount due to the employee from the Government of the United States or the government of the District of Columbia; and
   - **(2)** such other method as is provided by law.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 3072 . | Sept. 26, 1961 , Pub. L. 87–304, § 2 , 75 Stat. 662 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 3072
+
+Sept. 26, 1961
+
+Pub. L. 87–304, § 2
+
+75 Stat. 662
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 480](https://www.govinfo.gov/link/statute/80/480); [Pub. L. 96–465, title II](https://www.govinfo.gov/link/plaw/96/public/465) § 2303(a), (b), Oct. 17, 1980, [94 Stat. 2164](https://www.govinfo.gov/link/statute/94/2164), 2165.)*

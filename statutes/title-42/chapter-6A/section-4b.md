@@ -3,9 +3,10 @@ title: "Section 4b - Expanding access to unified care"
 usc_title: 42
 usc_section: "4b"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4b"
-generated_at: "2026-03-30T02:56:10.730Z"
+generated_at: "2026-11-23T20:27:20.166Z"
+status: "active"
 ---
 
 # § 280g–4b. Expanding access to unified care
@@ -25,3 +26,27 @@ generated_at: "2026-03-30T02:56:10.730Z"
 - **(f)**
   - **(1)** There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2023 through 2027.
   - **(2)** Of the amount appropriated under this subsection for a fiscal year, the Secretary shall reserve 15 percent of such amount for purposes of making grants to entities that are affiliated with Indian Tribes or Tribal organizations (as defined in section 5304 of title 25 ), or Urban Indian organizations (as defined in section 1603 of title 25 ). Amounts reserved may be used to support referrals and the delivery of emergency first aid, culturally competent support, and forensic evidence collection training.
+
+Purpose
+
+Establishment.—
+
+In general
+
+Consultation
+
+Functions
+
+Eligibility to Participate in Pilot Programs
+
+Nature of Training
+
+Availability
+
+Effective Date
+
+Authorization
+
+## Source Credit
+
+*([Pub. L. 117–103, div. W, title V, § 506](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 878](https://www.govinfo.gov/link/statute/136/878).)*

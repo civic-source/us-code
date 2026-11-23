@@ -3,9 +3,10 @@ title: "Section 31102 - Drug and alcohol testing"
 usc_title: 51
 usc_section: "31102"
 chapter: 311
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 31102"
-generated_at: "2026-03-30T02:56:28.705Z"
+generated_at: "2026-11-23T20:27:37.471Z"
+status: "active"
 ---
 
 # § 31102. Drug and alcohol testing
@@ -40,3 +41,81 @@ generated_at: "2026-03-30T02:56:28.705Z"
 - **(f)**
   - **(1)** No State or local government shall adopt or have in effect any law, rule, regulation, ordinance, standard, or order that is inconsistent with the regulations promulgated under this section.
   - **(2)** Nothing in this section shall be construed to restrict the discretion of the Administrator to continue in force, amend, or further supplement any regulations issued before December 9, 1991 , that govern the use of alcohol and controlled substances by Administration employees with responsibility for safety-sensitive, security, and national security functions (as determined by the Administrator), or by Administration contractor employees with such responsibility.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 31102(a) | 42 U.S.C. 2473c(h) . | Pub. L. 102–195, § 21(c) –(h), Dec. 9, 1991 , 105 Stat. 1616 . |
+| 31102(b) | 42 U.S.C. 2473c(c) . |  |
+| 31102(c) | 42 U.S.C. 2473c(d) . |  |
+| 31102(d) | 42 U.S.C. 2473c(e) . |  |
+| 31102(e) | 42 U.S.C. 2473c(f) . |  |
+| 31102(f) | 42 U.S.C. 2473c(g) . |  |
+
+
+Definition of Controlled Substance
+
+Testing Program.—
+
+Employees of administration
+
+Employees of contractors
+
+Suspension, disqualification, or dismissal
+
+Prohibition on Service.—
+
+Prohibition unless program of rehabilitation completed
+
+Unconditional prohibition
+
+Program for Rehabilitation.—
+
+Regulations and availability of program for contractor employees
+
+Establishment and maintenance of program for administration employees
+
+Procedures for Testing
+
+Effect on Other Laws and Regulations.—
+
+Consistency with federal regulation
+
+Continuance of regulations issued before december 9, 1991
+
+Historical and Revision Notes
+
+31102(a)
+
+42 U.S.C. 2473c(h)
+
+Pub. L. 102–195, § 21(c)
+
+Dec. 9, 1991
+
+105 Stat. 1616
+
+31102(b)
+
+42 U.S.C. 2473c(c)
+
+31102(c)
+
+42 U.S.C. 2473c(d)
+
+31102(d)
+
+42 U.S.C. 2473c(e)
+
+31102(e)
+
+42 U.S.C. 2473c(f)
+
+31102(f)
+
+42 U.S.C. 2473c(g)
+
+“The Congress finds that—
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3374](https://www.govinfo.gov/link/statute/124/3374).)*

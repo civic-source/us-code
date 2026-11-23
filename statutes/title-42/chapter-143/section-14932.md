@@ -3,9 +3,10 @@ title: "Section 14932 - Adoptions of children emigrating from the United States"
 usc_title: 42
 usc_section: "14932"
 chapter: 143
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 14932"
-generated_at: "2026-03-30T02:56:11.453Z"
+generated_at: "2026-11-23T20:27:23.539Z"
+status: "active"
 ---
 
 # § 14932. Adoptions of children emigrating from the United States
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:56:11.453Z"
   - **(2)** has determined that the adoptive placement is in the best interests of the child.
 - **(c)** In a case described in subsection (a), the Secretary, on receipt and verification as necessary of the material and information described in subsection (a)(3), shall issue, as applicable, an official certification that the child has been adopted or a declaration that custody for purposes of adoption has been granted, in accordance with the Convention and this chapter.
 - **(d)** Accredited agencies, approved persons, and other persons, including governmental authorities, providing adoption services in an intercountry adoption not subject to the Convention that involves the emigration of a child from the United States shall file information required by regulations jointly issued by the Attorney General and the Secretary of State for purposes of implementing section 14912(e) of this title .
+
+## Source Credit
+
+*([Pub. L. 106–279, title III, § 303](https://www.govinfo.gov/link/plaw/106/public/279), Oct. 6, 2000, [114 Stat. 839](https://www.govinfo.gov/link/statute/114/839).)*

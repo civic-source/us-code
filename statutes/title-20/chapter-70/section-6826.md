@@ -3,9 +3,10 @@ title: "Section 6826 - Local plans"
 usc_title: 20
 usc_section: "6826"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 6826"
-generated_at: "2026-03-30T02:54:48.204Z"
+generated_at: "2026-11-23T20:26:14.866Z"
+status: "active"
 ---
 
 # § 6826. Local plans
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:48.204Z"
     - **(C)** the eligible entity consulted with teachers, researchers, school administrators, parents and family members, community members, public or private entities, and institutions of higher education, in developing and implementing such plan; and
     - **(D)** the eligible entity will, if applicable, coordinate activities and share relevant data under the plan with local Head Start and Early Head Start agencies, including migrant and seasonal Head Start agencies, and other early childhood education providers.
 - **(c)** Each eligible entity receiving a subgrant under section 6824 of this title shall include in its plan a certification that all teachers in any language instruction educational program for English learners that is, or will be, funded under this part are fluent in English and any other language used for instruction, including having written and oral communications skills.
+
+## Source Credit
+
+*([Pub. L. 89–10, title III, § 3116](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 107–110, title III, § 301](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1700](https://www.govinfo.gov/link/statute/115/1700); amended [Pub. L. 114–95, title III, § 3003(g)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1961](https://www.govinfo.gov/link/statute/129/1961).)*

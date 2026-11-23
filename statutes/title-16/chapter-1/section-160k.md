@@ -3,9 +3,10 @@ title: "Section 160k - Funding and other requirements"
 usc_title: 16
 usc_section: "160k"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 160k"
-generated_at: "2026-03-30T02:54:22.737Z"
+generated_at: "2026-11-23T20:26:19.376Z"
+status: "active"
 ---
 
 # § 160k. Funding and other requirements
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:22.737Z"
 - **(b)** The Secretary shall, in cooperation with other Federal, State, and local governmental entities and private entities experienced in the fields of outdoor recreation and visitor services, develop and implement a comprehensive plan for visitor use and overnight visitor facilities for the park. The plan shall set forth methods of achieving an appropriate level and type of visitation in order that the resources of the park and its environs may be interpreted for, and used and enjoyed by, the public in a manner consistent with the purposes for which the park was established. Such plan may include appropriate informational and educational messages and materials. In the development and implementation of such plan the Secretary may expend funds donated or appropriated for the purposes of this subsection. Effective October 1, 1983 , there is authorized to be appropriated for the purposes of this subsection not to exceed $250,000, to remain available until expended.
 - **(c)** The Secretary is directed to study existing road access to the park and to report to Congress on the impact of park-related use of those roads and to report specific recommendations on improvements necessary to insure adequate road access to the park. The Secretary is directed to report, within one year of the date of enactment of the Act which appropriates funds authorized under this subsection, to the Committee on Interior and Insular Affairs of the House of Representatives and to the Committee on Energy and Natural Resources of the Senate. Effective October 1, 1983 , there is authorized to be appropriated for the purposes of this subsection not to exceed $75,000.
 - **(d)** For purposes of section 200306(a)(4) of title 54 , the statutory ceilings on appropriations established by this section shall be deemed to be statutory ceilings contained in a provision of law enacted prior to the convening of the Ninety-fifth Congress.
+
+## Source Credit
+
+*([Pub. L. 91–661, § 401](https://www.govinfo.gov/link/plaw/91/public/661), Jan. 8, 1971, [84 Stat. 1973](https://www.govinfo.gov/link/statute/84/1973); [Pub. L. 97–405, § 1(4)](https://www.govinfo.gov/link/plaw/97/public/405), Jan. 3, 1983, [96 Stat. 2029](https://www.govinfo.gov/link/statute/96/2029).)*

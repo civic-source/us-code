@@ -3,9 +3,10 @@ title: "Section 9622 - Terms and conditions"
 usc_title: 22
 usc_section: "9622"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9622"
-generated_at: "2026-03-30T02:55:05.470Z"
+generated_at: "2026-11-23T20:26:32.789Z"
+status: "active"
 ---
 
 # § 9622. Terms and conditions
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:55:05.470Z"
       - **(iv)** information on privacy and personal data protection; and
       - **(v)** any other information that the Corporation determines is needed to inform the borrower of the material terms of the loan.
   - **(4)** The Corporation shall establish appropriate auditing mechanisms to oversee and monitor secondary lending provided through intermediaries in partner countries and include in each annual report to Congress required under paragraph (2) a summary of the results of such audits.
+
+## Source Credit
+
+*([Pub. L. 115–254, div. F, title II, § 1422](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3497](https://www.govinfo.gov/link/statute/132/3497); [Pub. L. 119–60, div. H, title LXXXVII, § 8743](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1962](https://www.govinfo.gov/link/statute/139/1962).)*

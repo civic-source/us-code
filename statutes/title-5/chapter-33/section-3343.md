@@ -3,9 +3,10 @@ title: "Section 3343 - Details; to international organizations"
 usc_title: 5
 usc_section: "3343"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 3343"
-generated_at: "2026-03-30T02:52:56.003Z"
+generated_at: "2026-11-23T20:25:31.821Z"
+status: "active"
 ---
 
 # § 3343. Details; to international organizations
@@ -19,3 +20,35 @@ generated_at: "2026-03-30T02:52:56.003Z"
   - **(1)** without reimbursement to the United States by the international organization; or
   - **(2)** with agreement by the international organization to reimburse the United States for all or part of the pay, travel expenses, and allowances payable during the detail, and the reimbursement shall be credited to the appropriation, fund, or account used for paying the amounts reimbursed.
 - **(e)** An employee detailed under subsection (b) of this section may be paid or reimbursed by an international organization for allowances or expenses incurred in the performance of duties required by the detail, without regard to section 209 of title 18 .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| (a) | 5 U.S.C. 2331 . | Aug. 28, 1958 , Pub. L. 85–795, § 2 , 72 Stat. 959 . |
+| (b)–(e) | 5 U.S.C. 2332 . | Aug. 28, 1958 , Pub. L. 85–795, § 3 , 72 Stat. 959 . |
+
+
+Historical and Revision Notes
+
+(a)
+
+5 U.S.C. 2331
+
+Aug. 28, 1958
+
+Pub. L. 85–795, § 2
+
+72 Stat. 959
+
+(b)–(e)
+
+5 U.S.C. 2332
+
+Aug. 28, 1958
+
+Pub. L. 85–795, § 3
+
+72 Stat. 959
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 425](https://www.govinfo.gov/link/statute/80/425); [Pub. L. 91–175](https://www.govinfo.gov/link/plaw/91/public/175), pt. V, § 502(a), Dec. 30, 1969, [83 Stat. 825](https://www.govinfo.gov/link/statute/83/825).)*

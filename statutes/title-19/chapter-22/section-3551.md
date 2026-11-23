@@ -3,9 +3,10 @@ title: "Section 3551 - Working party on worker rights"
 usc_title: 19
 usc_section: "3551"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3551"
-generated_at: "2026-03-30T02:54:24.693Z"
+generated_at: "2026-11-23T20:26:11.054Z"
+status: "active"
 ---
 
 # § 3551. Working party on worker rights
@@ -17,3 +18,13 @@ generated_at: "2026-03-30T02:54:24.693Z"
   - **(3)** consider ways to address such effects; and
   - **(4)** develop methods to coordinate the work program of the working party with the International Labor Organization.
 - **(c)** The President shall report to the Congress, not later than 1 year after December 8, 1994 , on the progress made in establishing the working party under this section, and on United States objectives with respect to the working party’s work program.
+
+In General
+
+Sections
+
+and
+
+## Source Credit
+
+*([Pub. L. 103–465, title I, § 131](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4839](https://www.govinfo.gov/link/statute/108/4839); [Pub. L. 104–188, title I, § 1954(a)(6)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1928](https://www.govinfo.gov/link/statute/110/1928).)*

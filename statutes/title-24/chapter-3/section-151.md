@@ -3,12 +3,17 @@ title: "Section 151 - Battle Mountain Sanitarium Reserve; establishment; rights 
 usc_title: 24
 usc_section: "151"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "24 U.S.C. § 151"
-generated_at: "2026-03-30T02:54:50.789Z"
+generated_at: "2026-11-23T20:26:22.685Z"
+status: "active"
 ---
 
 # § 151. Battle Mountain Sanitarium Reserve; establishment; rights to lands, not affected
 
 There are reserved from settlement, entry, sale, or other disposal all those certain tracts, pieces, or parcels of land lying and being situated in the State of South Dakota and within the boundaries particularly described as follows: Beginning at the southwest corner of section 18, township 7 south, range 6 east, Black Hills meridian; thence east to the southeast corner of said section 18; thence south to the southwest corner of the northwest quarter of section 20; thence east to the southeast corner of the northeast quarter of section 21; thence north to the northeast corner of the southeast quarter of section 9; thence west to the center of section 7; thence south to the southwest corner of the southeast quarter of section 7; thence west to the northwest corner of section 18; thence south to the place of beginning, all in township 7 south, range 6 east, Black Hills meridian, in Fall River County, South Dakota: Provided , That nothing herein contained shall be construed to affect any valid rights acquired in connection with any of the lands embraced within the limits of said reserve.
 
+
+## Source Credit
+
+*(Mar. 22, 1906, ch. 1127, § 1, [34 Stat. 83](https://www.govinfo.gov/link/statute/34/83).)*

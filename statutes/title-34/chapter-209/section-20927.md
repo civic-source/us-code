@@ -3,9 +3,10 @@ title: "Section 20927 - Failure of jurisdiction to comply"
 usc_title: 34
 usc_section: "20927"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 20927"
-generated_at: "2026-03-30T02:55:33.301Z"
+generated_at: "2026-11-23T20:26:50.609Z"
+status: "active"
 ---
 
 # § 20927. Failure of jurisdiction to comply
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:33.301Z"
   - **(4)** If a jurisdiction does not comply with paragraph (3), then the jurisdiction shall be subject to a funding reduction as specified in subsection (a).
 - **(c)** Amounts not allocated under a program referred to in this section to a jurisdiction for failure to substantially implement this subchapter shall be reallocated under that program to jurisdictions that have not failed to substantially implement this subchapter or may be reallocated to a jurisdiction from which they were withheld to be used solely for the purpose of implementing this subchapter.
 - **(d)** The provisions of this subchapter that are cast as directions to jurisdictions or their officials constitute, in relation to States, only conditions required to avoid the reduction of Federal funding under this section.
+
+## Source Credit
+
+*([Pub. L. 109–248, title I, § 125](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 598](https://www.govinfo.gov/link/statute/120/598).)*

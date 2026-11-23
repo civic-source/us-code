@@ -3,9 +3,10 @@ title: "Section 7447 - Retirement"
 usc_title: 26
 usc_section: "7447"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 7447"
-generated_at: "2026-03-30T02:55:27.873Z"
+generated_at: "2026-11-23T20:26:46.772Z"
+status: "active"
 ---
 
 # § 7447. Retirement
@@ -16,7 +17,17 @@ generated_at: "2026-03-30T02:55:27.873Z"
   - **(3)** In any determination of length of service as judge there shall be included all periods (whether or not consecutive) during which an individual served as judge, as judge of the Tax Court of the United States, or as a member of the Board of Tax Appeals.
 - **(b)**
   - **(1)** Any judge shall retire upon attaining the age of 70.
-  - **(2)** Any judge who meets the age and service requirements set forth in the following table may retire: The judge has attained age: And the years of service as a judge are at least: 65 15 66 14 67 13 68 12 69 11 70 10.
+  - **(2)** Any judge who meets the age and service requirements set forth in the following table may retire:
+
+| The judge has attained age: | And the years of service as a judge are at least: |
+| --- | --- |
+| 65 | 15 |
+| 66 | 14 |
+| 67 | 13 |
+| 68 | 12 |
+| 69 | 11 |
+| 70 | 10. |
+
   - **(3)** Any judge who is not reappointed following the expiration of the term of his office may retire upon the completion of such term, if (A) he has served as a judge of the Tax Court for 15 years or more and (B) not earlier than 9 months preceding the date of the expiration of the term of his office and not later than 6 months preceding such date, he advised the President in writing that he was willing to accept reappointment to the Tax Court.
   - **(4)** Any judge who becomes permanently disabled from performing his duties shall retire.
 - **(c)** At or after his retirement, any individual who has elected to receive retired pay under subsection (d) may be called upon by the chief judge of the Tax Court to perform such judicial duties with the Tax Court as may be requested of him for any period or periods specified by the chief judge; except that in the case of any such individual—
@@ -80,3 +91,23 @@ generated_at: "2026-03-30T02:55:27.873Z"
     - **(E)** Notwithstanding subparagraph (C), if any judge retires under this section, or resigns without having met the age and service requirements set forth under subsection (b)(2), and such judge’s nonforfeitable account balance is less than an amount that the Executive Director of the Federal Retirement Thrift Investment Board prescribes by regulation, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment.
     - **(F)** In the case of a judge who receives a distribution from the Thrift Savings Plan and who later receives retired pay under subsection (d), the retired pay shall be offset by an amount equal to the amount of the distribution which represents the Government’s contribution to the individual’s Thrift Savings Account during years of service as a full-time judicial officer under the Federal Employees Retirement System, without regard to earnings attributable to such amount. Where such an offset would exceed 50 percent of the retired pay to be received in the first year, the offset may be divided equally over the first 2 years in which the individual receives the annuity.
 - **(k)** For purposes of the limitation under section 501(a) of the Ethics in Government Act of 1978 (5 U.S.C. App.), 1 1 See References in Text note below. any compensation for teaching approved under section 502(a)(5) of such Act shall not be treated as outside earned income when received by a judge of the United States Tax Court who has retired under subsection (b) for teaching performed during any calendar year for which such a judge has met the requirements of subsection (c), as certified by the chief judge, or has retired under subsection (b)(4).
+
+65
+
+66
+
+67
+
+68
+
+69
+
+70
+
+In general
+
+Forfeiture of retired pay
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 880; [Pub. L. 89–354, § 1](https://www.govinfo.gov/link/plaw/89/public/354), Feb. 2, 1966, [80 Stat. 5](https://www.govinfo.gov/link/statute/80/5); [Pub. L. 91–172, title IX](https://www.govinfo.gov/link/plaw/91/public/172), §§ 954, 960(c), (d), Dec. 30, 1969, [83 Stat. 730](https://www.govinfo.gov/link/statute/83/730), 734; [Pub. L. 92–41, § 4(a)](https://www.govinfo.gov/link/plaw/92/public/41), July 1, 1971, [85 Stat. 99](https://www.govinfo.gov/link/statute/85/99); [Pub. L. 95–472, § 1](https://www.govinfo.gov/link/plaw/95/public/472), Oct. 17, 1978, [92 Stat. 1332](https://www.govinfo.gov/link/statute/92/1332); [Pub. L. 97–362, title I, § 106(d)](https://www.govinfo.gov/link/plaw/97/public/362), Oct. 25, 1982, [96 Stat. 1730](https://www.govinfo.gov/link/statute/96/1730); [Pub. L. 99–514, title XV, § 1557(a)](https://www.govinfo.gov/link/plaw/99/public/514), (b), (d), Oct. 22, 1986, [100 Stat. 2756](https://www.govinfo.gov/link/statute/100/2756), 2757; [Pub. L. 100–647, title I, § 1015(k)(1)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3571](https://www.govinfo.gov/link/statute/102/3571); [Pub. L. 109–280, title VIII, § 853(a)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1016](https://www.govinfo.gov/link/statute/120/1016); [Pub. L. 113–295, div. A, title II, § 221(a)(115)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4054](https://www.govinfo.gov/link/statute/128/4054); [Pub. L. 117–328, div. T, title VII, § 701(a)(1)](https://www.govinfo.gov/link/plaw/117/public/328), (2), (c)(1), (d)(1), Dec. 29, 2022, [136 Stat. 5398](https://www.govinfo.gov/link/statute/136/5398), 5401.)*

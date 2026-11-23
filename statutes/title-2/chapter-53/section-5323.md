@@ -3,12 +3,17 @@ title: "Section 5323 - Pay of clerical assistants as affected by death of Senato
 usc_title: 2
 usc_section: "5323"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 5323"
-generated_at: "2026-03-30T02:53:04.836Z"
+generated_at: "2026-11-23T20:25:29.058Z"
+status: "active"
 ---
 
 # § 5323. Pay of clerical assistants as affected by death of Senator or Representative
 
 When a Senator 1 1 See Inapplicability to Employees of Senate note below. or Member of the House of Representatives or Delegate or Resident Commissioner dies during his term of office the clerical assistants appointed by him, and then borne upon the pay rolls of the Senate or House of Representatives, shall be continued on such pay rolls in their respective positions and be paid for a period not longer than one month: Provided , That this shall not apply to clerical assistants of standing committees of the Senate or House of Representatives, when their service otherwise would continue beyond such period.
 
+
+## Source Credit
+
+*(Feb. 23, 1927, ch. 168, § 1, [44 Stat. 1148](https://www.govinfo.gov/link/statute/44/1148).)*

@@ -3,9 +3,10 @@ title: "Section 6701 - Definitions"
 usc_title: 41
 usc_section: "6701"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 6701"
-generated_at: "2026-03-30T02:55:55.810Z"
+generated_at: "2026-11-23T20:27:04.472Z"
+status: "active"
 ---
 
 # § 6701. Definitions
@@ -21,3 +22,42 @@ In this chapter:
   - **(4)** The term “United States”—
     - **(A)** includes any State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, the outer Continental Shelf as defined in the Outer Continental Shelf Lands Act (43 U.S.C. § 1331 et seq.), American Samoa, Guam, Wake Island, and Johnston Island; but
     - **(B)** does not include any other territory under the jurisdiction of the United States or any United States base or possession within a foreign country.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 6701 | 41:357. | Pub. L. 89–286, § 8 , Oct. 22, 1965 , 79 Stat. 1036 ; Pub. L. 93–57, § 1 , July 6, 1973 , 87 Stat. 140 ; Pub. L. 94–489, § 3 , Oct. 13, 1976 , 90 Stat. 2358 . |
+
+
+Compensation
+
+Secretary
+
+Service employee
+
+United states
+
+Historical and Revision Notes
+
+6701
+
+Pub. L. 89–286, § 8
+
+Oct. 22, 1965
+
+79 Stat. 1036
+
+Pub. L. 93–57, § 1
+
+July 6, 1973
+
+87 Stat. 140
+
+Pub. L. 94–489, § 3
+
+Oct. 13, 1976
+
+90 Stat. 2358
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3811](https://www.govinfo.gov/link/statute/124/3811).)*

@@ -3,9 +3,10 @@ title: "Section 950p - Definitions; construction of certain offenses; common cir
 usc_title: 10
 usc_section: "950p"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 950p"
-generated_at: "2026-03-30T02:53:38.091Z"
+generated_at: "2026-11-23T20:25:51.155Z"
+status: "active"
 ---
 
 # § 950p. Definitions; construction of certain offenses; common circumstances
@@ -17,3 +18,15 @@ generated_at: "2026-03-30T02:53:38.091Z"
 - **(b)** The intent required for offenses under paragraphs (1), (2), (3), (4), and (12) of section 950t of this title precludes the applicability of such offenses with regard to collateral damage or to death, damage, or injury incident to a lawful attack.
 - **(c)** An offense specified in this subchapter is triable by military commission under this chapter only if the offense is committed in the context of and associated with hostilities.
 - **(d)** The provisions of this subchapter codify offenses that have traditionally been triable by military commission. This chapter does not establish new crimes that did not exist before the date of the enactment of this subchapter, as amended by the National Defense Authorization Act for Fiscal Year 2010, but rather codifies those crimes for trial by military commission. Because the provisions of this subchapter codify offenses that have traditionally been triable under the law of war or otherwise triable by military commission, this subchapter does not preclude trial for offenses that occurred before the date of the enactment of this subchapter, as so amended.
+
+Definitions
+
+Construction of Certain Offenses
+
+Common Circumstances
+
+Effect
+
+## Source Credit
+
+*(Added [Pub. L. 111–84, div. A, title XVIII, § 1802](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2606](https://www.govinfo.gov/link/statute/123/2606).)*

@@ -3,9 +3,10 @@ title: "Section 1128 - Prisoner-of-war medal: issue"
 usc_title: 10
 usc_section: "1128"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1128"
-generated_at: "2026-03-30T02:53:38.110Z"
+generated_at: "2026-11-23T20:25:51.253Z"
+status: "active"
 ---
 
 # § 1128. Prisoner-of-war medal: issue
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:38.110Z"
 - **(g)** If a person dies before the issuance of a prisoner-of-war medal to which he is entitled, the medal may be issued to the person’s representative, as designated by the Secretary concerned.
 - **(h)** Under regulations to be prescribed by the Secretary concerned, a prisoner-of-war medal that is lost, destroyed, or rendered unfit for use without fault or neglect on the part of the person to whom it was issued may be replaced without charge.
 - **(i)** The Secretary of Defense shall ensure that regulations prescribed by the Secretaries of the military departments under this section are uniform so far as practicable.
+
+## Source Credit
+
+*(Added [Pub. L. 99–145, title V, § 532(a)(1)](https://www.govinfo.gov/link/plaw/99/public/145), Nov. 8, 1985, [99 Stat. 633](https://www.govinfo.gov/link/statute/99/633); amended [Pub. L. 101–189, div. A, title V, § 516(a)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1441](https://www.govinfo.gov/link/statute/103/1441); [Pub. L. 112–239, div. A, title V, § 584](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1767](https://www.govinfo.gov/link/statute/126/1767).)*

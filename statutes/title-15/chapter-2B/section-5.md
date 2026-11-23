@@ -3,9 +3,10 @@ title: "Section 5 - Application of safe harbor for forward-looking statements"
 usc_title: 15
 usc_section: "5"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 5"
-generated_at: "2026-03-30T02:54:08.058Z"
+generated_at: "2026-11-23T20:26:03.557Z"
+status: "active"
 ---
 
 # § 78u–5. Application of safe harbor for forward-looking statements
@@ -73,3 +74,7 @@ generated_at: "2026-03-30T02:54:08.058Z"
   - **(3)** The term “going private transaction” has the meaning given that term under the rules or regulations of the Commission issued pursuant to section 78m(e) of this title .
   - **(4)** The term “person acting on behalf of an issuer” means any officer, director, or employee of such issuer.
   - **(5)** The terms “blank check company”, “rollup transaction”, “partnership”, “limited liability company”, “executive officer of an entity” and “direct participation investment program”, have the meanings given those terms by rule or regulation of the Commission.
+
+## Source Credit
+
+*(June 6, 1934, ch. 404, title I, § 21E, as added [Pub. L. 104–67, title I, § 102(b)](https://www.govinfo.gov/link/plaw/104/public/67), Dec. 22, 1995, [109 Stat. 753](https://www.govinfo.gov/link/statute/109/753).)*

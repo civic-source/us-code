@@ -3,9 +3,10 @@ title: "Section 8373 - Conservation in Federal facilities, contracts, and financ
 usc_title: 42
 usc_section: "8373"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8373"
-generated_at: "2026-03-30T02:56:11.341Z"
+generated_at: "2026-11-23T20:27:23.038Z"
+status: "active"
 ---
 
 # § 8373. Conservation in Federal facilities, contracts, and financial assistance programs
@@ -23,3 +24,9 @@ generated_at: "2026-03-30T02:56:11.341Z"
     - **(B)** setting forth procedures, sanctions, penalties, and such other provisions as the President determines necessary to carry out such requirement effectively, including a requirement that each agency annually transmit to the President, and make available to the public, a report on the actions taken and to be taken to implement such order.
   - **(2)** The President may exempt by order any specific grant, loan, contract, or other form of financial assistance from all or part of the provisions of this subsection if he determines such exemption is in the national interest. The President shall notify the Congress in writing of such exemption at least 60 days before it is effective.
   - **(3)** The President or any Federal agency may not use the authority granted under paragraph (1) to require compliance, including the use of coal, by any person or facility with any prohibition under other sections of this chapter if such person or facility has been specifically determined by the Secretary as subject to such prohibition or has been exempted from the application of such prohibition.
+
+Jimmy Carter.
+
+## Source Credit
+
+*([Pub. L. 95–620, title IV, § 403](https://www.govinfo.gov/link/plaw/95/public/620), Nov. 9, 1978, [92 Stat. 3317](https://www.govinfo.gov/link/statute/92/3317); [Pub. L. 100–42, § 1(c)(14)](https://www.govinfo.gov/link/plaw/100/public/42), May 21, 1987, [101 Stat. 313](https://www.govinfo.gov/link/statute/101/313); [Pub. L. 102–486, title XXX, § 3011](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3128](https://www.govinfo.gov/link/statute/106/3128).)*

@@ -3,9 +3,10 @@ title: "Section 1108 - Administrative provisions"
 usc_title: 2
 usc_section: "1108"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1108"
-generated_at: "2026-03-30T02:53:04.808Z"
+generated_at: "2026-11-23T20:25:28.947Z"
+status: "active"
 ---
 
 # § 1108. Administrative provisions
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:04.808Z"
   - **(10)** invest, as specified in section 1105(b) of this title , moneys authorized to be received under this section; and
   - **(11)** make other necessary expenditures.
 - **(b)**
+
+## Source Credit
+
+*([Pub. L. 100–458, title I, § 119](https://www.govinfo.gov/link/plaw/100/public/458), Oct. 1, 1988, [102 Stat. 2176](https://www.govinfo.gov/link/statute/102/2176); [Pub. L. 101–163, title III, § 320](https://www.govinfo.gov/link/plaw/101/public/163), Nov. 21, 1989, [103 Stat. 1068](https://www.govinfo.gov/link/statute/103/1068); [Pub. L. 101–520, title III, § 313(c)](https://www.govinfo.gov/link/plaw/101/public/520), Nov. 5, 1990, [104 Stat. 2282](https://www.govinfo.gov/link/statute/104/2282).)*

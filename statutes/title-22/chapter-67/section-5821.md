@@ -3,9 +3,10 @@ title: "Section 5821 - American Business Centers"
 usc_title: 22
 usc_section: "5821"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 5821"
-generated_at: "2026-03-30T02:55:05.420Z"
+generated_at: "2026-11-23T20:26:32.577Z"
+status: "active"
 ---
 
 # § 5821. American Business Centers
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:05.420Z"
 - **(d)**
   - **(1)** Not later than 90 days after October 24, 1992 , the Administrator of the Agency for International Development shall conclude a reimbursement agreement with the Secretary of Commerce for the Department of Commerce’s services in establishing and operating American Business Centers pursuant to this section.
   - **(2)** Of the amount authorized to be appropriated to carry out chapter 11 of part I of the Foreign Assistance Act of 1961 [ 22 U.S.C. 2295 et seq.], up to $12,000,000 for fiscal year 1993 are authorized to be appropriated to carry out this section, in addition to amounts otherwise available for such purpose.
+
+## Source Credit
+
+*([Pub. L. 102–511, title III, § 301](https://www.govinfo.gov/link/plaw/102/public/511), Oct. 24, 1992, [106 Stat. 3332](https://www.govinfo.gov/link/statute/106/3332).)*

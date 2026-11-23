@@ -3,9 +3,10 @@ title: "Section 2033 - Instructor qualifications"
 usc_title: 10
 usc_section: "2033"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2033"
-generated_at: "2026-03-30T02:53:38.140Z"
+generated_at: "2026-11-23T20:25:51.443Z"
+status: "active"
 ---
 
 # § 2033. Instructor qualifications
@@ -31,3 +32,21 @@ generated_at: "2026-03-30T02:53:38.140Z"
       - **(i)** accumulated points for professional activities, services to the profession, awards, and recognitions;
       - **(ii)** professional development to meet content knowledge and instructional skills; and
       - **(iii)** performance evaluation of competencies and standards within the program through site visits and inspections.
+
+In General
+
+Senior Military Instructors.—
+
+Role
+
+Qualifications
+
+Non-Senior Military Instructors.—
+
+Role
+
+Qualifications
+
+## Source Credit
+
+*(Added [Pub. L. 109–364, div. A, title V, § 539(a)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2210](https://www.govinfo.gov/link/statute/120/2210).)*

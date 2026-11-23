@@ -3,9 +3,10 @@ title: "Section 8715 - Limitations on obligation of funds"
 usc_title: 15
 usc_section: "8715"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 8715"
-generated_at: "2026-03-30T02:54:08.233Z"
+generated_at: "2026-11-23T20:26:04.502Z"
+status: "active"
 ---
 
 # § 8715. Limitations on obligation of funds
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:08.233Z"
   - **(1)** For purposes of subsection (a)(1), the amount of assessments estimated to be collected under section 8705 of this title in a fiscal year specified in paragraph (2) shall be equal to 62 percent of the amount of assessments actually collected under such section in the most recent fiscal year for which an audit report has been submitted under section 8704(f)(2)(B) of this title as of the beginning of the fiscal year for which the amount that may be obligated is being determined.
   - **(2)** The fiscal years specified in this paragraph are the 9th and 10th fiscal years that begin on or after October 5, 2018 .
 - **(f)** In this section, the term “covered period” means the period that begins on October 5, 2018 , and ends on the last day of the 11th fiscal year that begins on or after such date.
+
+## Source Credit
+
+*([Pub. L. 115–254, div. E, § 1316](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3483](https://www.govinfo.gov/link/statute/132/3483).)*

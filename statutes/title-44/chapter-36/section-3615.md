@@ -3,9 +3,10 @@ title: "Section 3615 - Reports to Congress; GAO report"
 usc_title: 44
 usc_section: "3615"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "44 U.S.C. § 3615"
-generated_at: "2026-03-30T02:55:56.299Z"
+generated_at: "2026-11-23T20:27:03.849Z"
+status: "active"
 ---
 
 # § 3615. Reports to Congress; GAO report
@@ -28,3 +29,11 @@ generated_at: "2026-03-30T02:55:56.299Z"
   - **(2)** The extent to which agencies have processes in place to continuously monitor the implementation of cloud computing products and services operating as Federal information systems.
   - **(3)** How often and for which categories of products and services agencies use FedRAMP authorizations.
   - **(4)** The unique costs and potential burdens incurred by cloud computing companies that are small business concerns (as defined in section 3(a) of the Small Business Act ( 15 U.S.C. 632(a) ) as a part of the FedRAMP authorization process.
+
+Reports to Congress
+
+GAO Report
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. E, title LIX, § 5921(b)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3455](https://www.govinfo.gov/link/statute/136/3455).)*

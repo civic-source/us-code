@@ -3,9 +3,10 @@ title: "Section 7673 - Scholarship"
 usc_title: 38
 usc_section: "7673"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7673"
-generated_at: "2026-03-30T02:55:53.535Z"
+generated_at: "2026-11-23T20:27:02.042Z"
+status: "active"
 ---
 
 # § 7673. Scholarship
@@ -21,3 +22,17 @@ generated_at: "2026-03-30T02:55:53.535Z"
 - **(e)** For purposes of this section, full-time coursework shall consist of the following:
   - **(1)** In the case of undergraduate coursework, 30 semester hours per undergraduate school year.
   - **(2)** In the case of graduate coursework, 18 semester hours per graduate school year.
+
+Scholarship
+
+Amounts
+
+Limitations on Period of Payment
+
+Payment of Educational Expenses by Educational Institutions
+
+Full-Time Coursework
+
+## Source Credit
+
+*(Added [Pub. L. 105–368, title VIII, § 802(a)](https://www.govinfo.gov/link/plaw/105/public/368), Nov. 11, 1998, [112 Stat. 3353](https://www.govinfo.gov/link/statute/112/3353); amended [Pub. L. 107–135, title I, § 101(c)](https://www.govinfo.gov/link/plaw/107/public/135) –(e), Jan. 23, 2002, [115 Stat. 2447](https://www.govinfo.gov/link/statute/115/2447), 2448.)*

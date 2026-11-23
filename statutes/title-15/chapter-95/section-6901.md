@@ -3,9 +3,10 @@ title: "Section 6901 - Definitions"
 usc_title: 15
 usc_section: "6901"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 6901"
-generated_at: "2026-03-30T02:54:08.217Z"
+generated_at: "2026-11-23T20:26:04.423Z"
+status: "active"
 ---
 
 # § 6901. Definitions
@@ -30,3 +31,7 @@ For purposes of this chapter, the following definitions shall apply:
   - **(11)** The term “microenterprise development organization or program” means a nonprofit entity, or a program administered by such an entity, including community development corporations or other nonprofit development organizations and social service organizations, that provides services to disadvantaged entrepreneurs.
   - **(12)** The term “training and technical assistance” means services and support provided to disadvantaged entrepreneurs, such as assistance for the purpose of enhancing business planning, marketing, management, financial management skills, and assistance for the purpose of accessing financial services.
   - **(13)** The term “very low-income person” means having an income, adjusted for family size, of not more than 150 percent of the poverty line (as defined in section 9902(2) of title 42 , including any revision required by that section).
+
+## Source Credit
+
+*([Pub. L. 103–325, title I, § 172](https://www.govinfo.gov/link/plaw/103/public/325), as added [Pub. L. 106–102, title VII, § 725](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1472](https://www.govinfo.gov/link/statute/113/1472).)*

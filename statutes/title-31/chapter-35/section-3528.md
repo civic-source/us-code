@@ -3,9 +3,10 @@ title: "Section 3528 - Responsibilities and relief from liability of certifying 
 usc_title: 31
 usc_section: "3528"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 3528"
-generated_at: "2026-03-30T02:55:34.057Z"
+generated_at: "2026-11-23T20:26:51.784Z"
+status: "active"
 ---
 
 # § 3528. Responsibilities and relief from liability of certifying officials
@@ -30,3 +31,53 @@ generated_at: "2026-03-30T02:55:34.057Z"
 - **(c)** The Comptroller General shall relieve a certifying official from liability for an overpayment—
   - **(1)** to a common carrier under section 3726 of this title when the Comptroller General decides the overpayment occurred only because the administrative audit before payment did not verify transportation rates, freight classifications, or land-grant deductions and the Administrator of General Services has determined that verification by a prepayment audit conducted pursuant to section 3726(a) of this title for a particular mode or modes of transportation, or for an agency or subagency, will not adequately protect the interests of the Government; or
   - **(2)** provided under a Government bill of lading or transportation request when the overpayment was the result of using improper transportation rates or classifications or the failure to deduct the proper amount under a land-grant law or agreement and the Administrator of General Services has determined that verification by a prepayment audit conducted pursuant to section 3726(a) of this title for a particular mode or modes of transportation, or for an agency or subagency, will not adequately protect the interests of the Government.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3528(a) | 31:82c(less provisos). | Dec. 29, 1941, ch. 641, § 2 , 55 Stat. 875 ; June 6, 1972 , Pub. L. 92–310, § 231(cc) , 86 Stat. 213 . |
+|  | 31:82f(related to certifying officers). | Apr. 28, 1942, ch. 247, § 301 (1st par. proviso under heading “Bureau of Accounts” related to certifying officers), 56 Stat. 244 . |
+| 3528(b) | 31:82c(1st proviso). |  |
+| 3528(c) | 31:82c(last proviso). |  |
+|  | 31:82g(related to certifying officers). | June 1, 1942, ch. 320 (related to certifying officers), 56 Stat. 306 . |
+| 3528(d) | 31:82e(related to 31:82c). | Dec. 29, 1941, ch. 641, § 4 (related to § 2), 55 Stat. 876 . |
+
+
+Historical and Revision Notes
+
+Act
+
+3528(a)
+
+Dec. 29, 1941, ch. 641, § 2
+
+55 Stat. 875
+
+June 6, 1972
+
+Pub. L. 92–310, § 231(cc)
+
+86 Stat. 213
+
+Apr. 28, 1942, ch. 247, § 301
+
+56 Stat. 244
+
+3528(b)
+
+3528(c)
+
+June 1, 1942, ch. 320
+
+56 Stat. 306
+
+3528(d)
+
+Dec. 29, 1941, ch. 641, § 4
+
+55 Stat. 876
+
+Act
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 966](https://www.govinfo.gov/link/statute/96/966); [Pub. L. 98–216, § 1(4)](https://www.govinfo.gov/link/plaw/98/public/216), Feb. 14, 1984, [98 Stat. 4](https://www.govinfo.gov/link/statute/98/4); [Pub. L. 104–106, div. A, title IX, § 913(c)(5)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 412](https://www.govinfo.gov/link/statute/110/412); [Pub. L. 105–264, § 3(a)(2)](https://www.govinfo.gov/link/plaw/105/public/264), Oct. 19, 1998, [112 Stat. 2352](https://www.govinfo.gov/link/statute/112/2352).)*

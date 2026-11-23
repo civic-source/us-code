@@ -3,9 +3,10 @@ title: "Section 6432a - Powers of the Commission"
 usc_title: 22
 usc_section: "6432a"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6432a"
-generated_at: "2026-03-30T02:55:05.428Z"
+generated_at: "2026-11-23T20:26:32.612Z"
+status: "active"
 ---
 
 # § 6432a. Powers of the Commission
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:05.428Z"
   - **(1)** who paid for or reimbursed the travel;
   - **(2)** a good faith estimate of the cost of the travel, if the travel was funded by a person or entity that does not employ the Member; and
   - **(3)** brief details of the travel and events related to such travel.
+
+## Source Credit
+
+*([Pub. L. 105–292, title II, § 203](https://www.govinfo.gov/link/plaw/105/public/292), as added [Pub. L. 106–55, § 1(b)(3)](https://www.govinfo.gov/link/plaw/106/public/55), Aug. 17, 1999, [113 Stat. 401](https://www.govinfo.gov/link/statute/113/401); amended [Pub. L. 116–94, div. J, title VIII](https://www.govinfo.gov/link/plaw/116/public/94), §§ 804(b), 806(b), (c), Dec. 20, 2019, [133 Stat. 3077](https://www.govinfo.gov/link/statute/133/3077), 3078.)*

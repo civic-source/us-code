@@ -3,9 +3,10 @@ title: "Section 397 - Contracts for expert review"
 usc_title: 21
 usc_section: "397"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 397"
-generated_at: "2026-03-30T02:54:54.283Z"
+generated_at: "2026-11-23T20:26:27.784Z"
+status: "active"
 ---
 
 # § 397. Contracts for expert review
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:54.283Z"
 - **(b)**
   - **(1)** Subject to paragraph (2), the official of the Food and Drug Administration responsible for any matter for which expert review is used pursuant to subsection (a) shall review the recommendations of the organization or individual who conducted the expert review and shall make a final decision regarding the matter in a timely manner.
   - **(2)** A final decision by the Secretary on any such application or submission shall be made within the applicable prescribed time period for review of the matter as set forth in this chapter or in the Public Health Service Act ( 42 U.S.C. 201 et seq.).
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 1007, formerly § 907, as added [Pub. L. 105–115, title IV, § 415](https://www.govinfo.gov/link/plaw/105/public/115), Nov. 21, 1997, [111 Stat. 2377](https://www.govinfo.gov/link/statute/111/2377); renumbered § 1007, [Pub. L. 111–31, div. A, title I, § 101(b)(2)](https://www.govinfo.gov/link/plaw/111/public/31), June 22, 2009, [123 Stat. 1784](https://www.govinfo.gov/link/statute/123/1784).)*

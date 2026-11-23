@@ -3,9 +3,10 @@ title: "Section 1721 - Interim measures for access to and coordination of law en
 usc_title: 8
 usc_section: "1721"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1721"
-generated_at: "2026-03-30T02:53:10.507Z"
+generated_at: "2026-11-23T20:25:36.283Z"
+status: "active"
 ---
 
 # § 1721. Interim measures for access to and coordination of law enforcement and other information
@@ -25,3 +26,11 @@ generated_at: "2026-03-30T02:53:10.507Z"
     - **(E)** to provide data integrity through the timely removal and destruction of obsolete or erroneous names and information; and
     - **(F)** in a manner that protects the sources and methods used to acquire intelligence information as required by section 403–3(c)(7) of title 50 . 1 1 See References in Text note below.
   - **(4)** Any person who obtains information under this subsection without authorization or exceeding authorized access (as defined in section 1030(e) of title 18 ), and who uses such information in the manner described in any of the paragraphs (1) through (7) of section 1030(a) of such title, or attempts to use such information in such manner, shall be subject to the same penalties as are applicable under section 1030(c) of such title for violation of that paragraph.
+
+In General
+
+Report
+
+## Source Credit
+
+*([Pub. L. 107–173, title II, § 201](https://www.govinfo.gov/link/plaw/107/public/173), May 14, 2002, [116 Stat. 547](https://www.govinfo.gov/link/statute/116/547); [Pub. L. 108–177, title III, § 377(f)](https://www.govinfo.gov/link/plaw/108/public/177), Dec. 13, 2003, [117 Stat. 2631](https://www.govinfo.gov/link/statute/117/2631).)*

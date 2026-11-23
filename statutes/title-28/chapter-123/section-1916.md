@@ -3,12 +3,17 @@ title: "Section 1916 - Seamen’s suits"
 usc_title: 28
 usc_section: "1916"
 chapter: 123
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 1916"
-generated_at: "2026-03-30T02:55:30.146Z"
+generated_at: "2026-11-23T20:26:36.484Z"
+status: "active"
 ---
 
 # § 1916. Seamen’s suits
 
 In all courts of the United States, seamen may institute and prosecute suits and appeals in their own names and for their own benefit for wages or salvage or the enforcement of laws enacted for their health or safety without prepaying fees or costs or furnishing security therefor.
 
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 955](https://www.govinfo.gov/link/statute/62/955).)*

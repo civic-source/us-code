@@ -3,9 +3,10 @@ title: "Section 8981 - Definitions"
 usc_title: 5
 usc_section: "8981"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8981"
-generated_at: "2026-03-30T02:52:56.070Z"
+generated_at: "2026-11-23T20:25:32.254Z"
+status: "active"
 ---
 
 # § 8981. Definitions
@@ -24,3 +25,7 @@ In this chapter:
       - **(i)** means an individual entitled to medical care under chapter 55 of title 10, pursuant to section 1076d, 1076e, 1079(a), 1086(c), or 1086(d) of such title, who the Secretary of Defense determines in accordance with an agreement entered into under subparagraph (B) should be an eligible individual for purposes of this chapter; and
       - **(ii)** does not include an individual covered under section 1110b of title 10 .
     - **(B)** The Secretary of Defense shall enter into an agreement with the Director of the Office relating to classes of individuals described in subparagraph (A)(i) who should be eligible individuals for purposes of this chapter.
+
+## Source Credit
+
+*(Added [Pub. L. 108–496, § 3](https://www.govinfo.gov/link/plaw/108/public/496), Dec. 23, 2004, [118 Stat. 4006](https://www.govinfo.gov/link/statute/118/4006); amended [Pub. L. 109–356, title I, § 117(a)(2)](https://www.govinfo.gov/link/plaw/109/public/356), Oct. 16, 2006, [120 Stat. 2027](https://www.govinfo.gov/link/statute/120/2027); [Pub. L. 114–328, div. A, title VII, § 715(a)(2)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2221](https://www.govinfo.gov/link/statute/130/2221).)*

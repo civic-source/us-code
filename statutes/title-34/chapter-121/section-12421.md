@@ -3,9 +3,10 @@ title: "Section 12421 - Training and services to end abuse in later life"
 usc_title: 34
 usc_section: "12421"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12421"
-generated_at: "2026-03-30T02:55:33.287Z"
+generated_at: "2026-11-23T20:26:50.547Z"
+status: "active"
 ---
 
 # § 12421. Training and services to end abuse in later life
@@ -38,3 +39,7 @@ The Attorney General shall make grants to eligible entities in accordance with t
       - **(iv)** a nonprofit program or government agency with demonstrated experience in assisting individuals 50 years of age or over.
   - **(3)** In making grants under this section, the Attorney General shall give priority to proposals providing services to culturally specific and underserved populations.
   - **(4)** There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2023 through 2027.
+
+## Source Credit
+
+*([Pub. L. 103–322, title IV, § 40801](https://www.govinfo.gov/link/plaw/103/public/322), as added [Pub. L. 106–386, div. B, title II, § 1209(a)](https://www.govinfo.gov/link/plaw/106/public/386), Oct. 28, 2000, [114 Stat. 1508](https://www.govinfo.gov/link/statute/114/1508); amended [Pub. L. 113–4, title II, § 204(a)](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 82](https://www.govinfo.gov/link/statute/127/82); [Pub. L. 117–103, div. W, title II, § 204(2)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 857](https://www.govinfo.gov/link/statute/136/857).)*

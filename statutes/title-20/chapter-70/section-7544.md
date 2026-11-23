@@ -3,9 +3,10 @@ title: "Section 7544 - Program authorized"
 usc_title: 20
 usc_section: "7544"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 7544"
-generated_at: "2026-03-30T02:54:48.214Z"
+generated_at: "2026-11-23T20:26:14.921Z"
+status: "active"
 ---
 
 # § 7544. Program authorized
@@ -68,3 +69,7 @@ generated_at: "2026-03-30T02:54:48.214Z"
     - **(M)** Regional leadership academies that demonstrate effectiveness in building respect and understanding, and fostering a sense of Alaska Native identity in Alaska Native students to promote their pursuit of and success in completing higher education or career training.
     - **(N)** Other activities, consistent with the purposes of this part, to meet the educational needs of Alaska Native children and adults.
 - **(b)** There are authorized to be appropriated to carry out this section $31,453,000 for each of fiscal years 2017 through 2020.
+
+## Source Credit
+
+*([Pub. L. 89–10, title VI, § 6304](https://www.govinfo.gov/link/plaw/89/public/10), formerly title VII, § 7304, as added [Pub. L. 107–110, title VII, § 701](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1943](https://www.govinfo.gov/link/statute/115/1943); amended [Pub. L. 108–11, title II, § 2504](https://www.govinfo.gov/link/plaw/108/public/11), Apr. 16, 2003, [117 Stat. 599](https://www.govinfo.gov/link/statute/117/599); renumbered title VI, § 6304, and amended [Pub. L. 114–95, title VI](https://www.govinfo.gov/link/plaw/114/public/95), §§ 6001(a), (b)(1), 6004(c), Dec. 10, 2015, [129 Stat. 2046](https://www.govinfo.gov/link/statute/129/2046), 2068; [Pub. L. 115–224, title III, § 302(3)](https://www.govinfo.gov/link/plaw/115/public/224), July 31, 2018, [132 Stat. 1623](https://www.govinfo.gov/link/statute/132/1623).)*

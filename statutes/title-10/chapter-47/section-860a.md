@@ -3,9 +3,10 @@ title: "Section 860a - Art. 60a. Limited authority to act on sentence in specifi
 usc_title: 10
 usc_section: "860a"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 860a"
-generated_at: "2026-03-30T02:53:38.081Z"
+generated_at: "2026-11-23T20:25:51.086Z"
+status: "active"
 ---
 
 # § 860a. Art. 60a. Limited authority to act on sentence in specified post-trial circumstances
@@ -48,3 +49,19 @@ generated_at: "2026-03-30T02:53:38.081Z"
   - **(1)** The decision of the convening authority under this section shall be forwarded to the military judge, with copies provided to the accused and to any victim of the offense.
   - **(2)** If, under this section, the convening authority reduces, commutes, or suspends the sentence, the decision of the convening authority shall include a written explanation of the reasons for such action.
   - **(3)** If, under subsection (d)(2), the convening authority reduces, commutes, or suspends the sentence, the decision of the convening authority shall be forwarded to the chief trial judge for appropriate modification of the entry of judgment, which shall be transmitted to the Judge Advocate General for appropriate action.
+
+In General
+
+Reduction, Commutation, and Suspension of Sentences Generally
+
+Suspension of Certain Sentences Upon Recommendation of Military Judge
+
+Reduction of Sentence for Substantial Assistance by Accused
+
+Submissions by Accused and Victim
+
+Decision of Convening Authority
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. E, title LIX, § 5322](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2924](https://www.govinfo.gov/link/statute/130/2924).)*

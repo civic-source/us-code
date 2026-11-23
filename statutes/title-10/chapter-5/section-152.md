@@ -3,9 +3,10 @@ title: "Section 152 - Chairman: appointment; grade and rank"
 usc_title: 10
 usc_section: "152"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 152"
-generated_at: "2026-03-30T02:53:38.041Z"
+generated_at: "2026-11-23T20:25:50.835Z"
+status: "active"
 ---
 
 # § 152. Chairman: appointment; grade and rank
@@ -21,3 +22,13 @@ generated_at: "2026-03-30T02:53:38.041Z"
     - **(C)** the commander of a unified or specified combatant command.
   - **(2)** The President may waive paragraph (1) in the case of an officer if the President determines such action is necessary in the national interest.
 - **(c)** The Chairman, while so serving, holds the grade of general or, in the case of the Navy, admiral, and outranks all other officers of the armed forces. However, he may not exercise military command over the Joint Chiefs of Staff or any of the armed forces.
+
+Appointment; Term of Office
+
+Requirement for Appointment
+
+Grade and Rank
+
+## Source Credit
+
+*(Added [Pub. L. 99–433, title II, § 201](https://www.govinfo.gov/link/plaw/99/public/433), Oct. 1, 1986, [100 Stat. 1006](https://www.govinfo.gov/link/statute/100/1006); amended [Pub. L. 100–180, div. A, title XIII, § 1314(b)(1)(A)](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1175](https://www.govinfo.gov/link/statute/101/1175); [Pub. L. 114–328, div. A, title IX, § 921(b)(1)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2351](https://www.govinfo.gov/link/statute/130/2351); [Pub. L. 116–283, div. A, title IX, § 924(b)(7)(A)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3822](https://www.govinfo.gov/link/statute/134/3822); [Pub. L. 118–159, div. A, title V, § 521(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1880](https://www.govinfo.gov/link/statute/138/1880).)*

@@ -3,9 +3,10 @@ title: "Section 633 - Potential liability on foreign accounts"
 usc_title: 12
 usc_section: "633"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 633"
-generated_at: "2026-03-30T02:53:53.385Z"
+generated_at: "2026-11-23T20:25:58.776Z"
+status: "active"
 ---
 
 # § 633. Potential liability on foreign accounts
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:53.385Z"
   - **(1)** an act of war, insurrection, or civil strife; or
   - **(2)** an action by a foreign government or instrumentality (whether de jure or de facto) in the country in which the branch is located;
 - **(b)** The Board and the Comptroller of the Currency may jointly prescribe such regulations as they deem necessary to implement this section.
+
+## Source Credit
+
+*(Dec. 23, 1913, ch. 6, § 25C, as added [Pub. L. 103–325, title III, § 326(a)](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2229](https://www.govinfo.gov/link/statute/108/2229).)*

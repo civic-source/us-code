@@ -3,9 +3,10 @@ title: "Section 4214 - Employment within the Federal Government"
 usc_title: 38
 usc_section: "4214"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 4214"
-generated_at: "2026-03-30T02:55:53.517Z"
+generated_at: "2026-11-23T20:27:01.931Z"
+status: "active"
 ---
 
 # § 4214. Employment within the Federal Government
@@ -39,3 +40,35 @@ generated_at: "2026-03-30T02:55:53.517Z"
     - **(B)** shall be shown separately (i) for veterans who are entitled to disability compensation under the laws administered by the Secretary or whose discharge or release from active duty was for a disability incurred or aggravated in line of duty, and (ii) for other veterans.
 - **(f)** Notwithstanding section 4211 of this title , the terms “veteran” and “disabled veteran” as used in subsection (a) of this section shall have the meaning provided for under generally applicable civil service law and regulations.
 - **(g)** To further the policy stated in subsection (a) of this section, the Secretary may give preference to qualified covered veterans for employment in the Department as veterans’ benefits counselors and veterans’ claims examiners and in positions to provide the outreach services required under section 6303 of this title , to serve as veterans’ representatives at certain educational institutions as provided in section 6305 of this title , or to provide readjustment counseling under section 1712A of this title .
+
+Reports Required.—
+
+Initial report
+
+Annual report
+
+Elements
+
+Best practices
+
+Cost savings
+
+Hiring
+
+Distribution
+
+Definitions
+
+Best Practices for Other Departments
+
+Definitions
+
+Responsibilities of office of personnel management
+
+Elements of program
+
+Other office
+
+## Source Credit
+
+*(Added [Pub. L. 93–508, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/93/public/508), Dec. 3, 1974, [88 Stat. 1593](https://www.govinfo.gov/link/statute/88/1593), § 2014; amended [Pub. L. 95–202, title III, § 308](https://www.govinfo.gov/link/plaw/95/public/202), Nov. 23, 1977, [91 Stat. 1445](https://www.govinfo.gov/link/statute/91/1445); [Pub. L. 95–520, § 6(b)](https://www.govinfo.gov/link/plaw/95/public/520), Oct. 26, 1978, [92 Stat. 1821](https://www.govinfo.gov/link/statute/92/1821); [Pub. L. 96–466, title V, § 510](https://www.govinfo.gov/link/plaw/96/public/466), title VIII, § 801(l), Oct. 17, 1980, [94 Stat. 2207](https://www.govinfo.gov/link/statute/94/2207), 2217; [Pub. L. 97–72, title II, § 202(a)](https://www.govinfo.gov/link/plaw/97/public/72), Nov. 3, 1981, [95 Stat. 1054](https://www.govinfo.gov/link/statute/95/1054); [Pub. L. 97–295, § 4(95)(A)](https://www.govinfo.gov/link/plaw/97/public/295), Oct. 12, 1982, [96 Stat. 1313](https://www.govinfo.gov/link/statute/96/1313); [Pub. L. 98–543, title II, § 211](https://www.govinfo.gov/link/plaw/98/public/543), Oct. 24, 1984, [98 Stat. 2743](https://www.govinfo.gov/link/statute/98/2743); [Pub. L. 99–576, title III, § 332](https://www.govinfo.gov/link/plaw/99/public/576), Oct. 28, 1986, [100 Stat. 3279](https://www.govinfo.gov/link/statute/100/3279); [Pub. L. 101–237, title IV, § 407(a)(1)](https://www.govinfo.gov/link/plaw/101/public/237), (b), Dec. 18, 1989, [103 Stat. 2082](https://www.govinfo.gov/link/statute/103/2082); [Pub. L. 102–16, § 9(a)](https://www.govinfo.gov/link/plaw/102/public/16), (b), Mar. 22, 1991, [105 Stat. 54](https://www.govinfo.gov/link/statute/105/54); renumbered § 4214 and amended [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 2(c)(5), 4(a)(1), (3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 402–406](https://www.govinfo.gov/link/statute/105/402); [Pub. L. 102–127, § 4](https://www.govinfo.gov/link/plaw/102/public/127), Oct. 10, 1991, [105 Stat. 622](https://www.govinfo.gov/link/statute/105/622); [Pub. L. 102–568, title V, § 505](https://www.govinfo.gov/link/plaw/102/public/568), Oct. 29, 1992, [106 Stat. 4340](https://www.govinfo.gov/link/statute/106/4340); [Pub. L. 107–288, § 2(c)(1)](https://www.govinfo.gov/link/plaw/107/public/288) –(3), Nov. 7, 2002, [116 Stat. 2036](https://www.govinfo.gov/link/statute/116/2036); [Pub. L. 109–233, title IV, § 402(e)(3)](https://www.govinfo.gov/link/plaw/109/public/233), June 15, 2006, [120 Stat. 411](https://www.govinfo.gov/link/statute/120/411).)*

@@ -3,9 +3,10 @@ title: "Section 44106 - Revocation of aircraft certificates for controlled subst
 usc_title: 49
 usc_section: "44106"
 chapter: 441
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44106"
-generated_at: "2026-03-30T02:56:19.380Z"
+generated_at: "2026-11-23T20:27:35.128Z"
+status: "active"
 ---
 
 # § 44106. Revocation of aircraft certificates for controlled substance violations
@@ -30,3 +31,50 @@ generated_at: "2026-03-30T02:56:19.380Z"
   - **(2)** If the Administrator has revoked a certificate of registration of a person under this section because of an activity described in subsection (b)(1)(A) of this section, the Administrator shall reissue a certificate to the person if the person—
     - **(A)** subsequently is acquitted of all charges related to a controlled substance in an indictment or information arising from the activity; and
     - **(B)** otherwise meets the requirements of section 44102 of this title .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 44106(a) | 49 App.:1401(e)(2)(C). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 501(e)(2)(A)– (C), (F); added Oct. 19, 1984 , Pub. L. 98–499, § 4(a) , 98 Stat. 2314 , 2315. |
+| 44106(b) | 49 App.:1401(e)(2)(A) (less last sentence). |  |
+| 44106(c) | 49 App.:1401(e)(2)(B) (1st sentence). |  |
+| 44106(d) | 49 App.:1401(e)(2)(B) (2d–last sentences). |  |
+| 44106(e) | 49 App.:1401(e)(2)(A) (last sentence), (F). |  |
+
+
+Definition
+
+Revocations
+
+Advice to Holders and Opportunity To Answer
+
+Appeals
+
+Acquittal
+
+Historical and Revision Notes
+
+44106(a)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Oct. 19, 1984
+
+Pub. L. 98–499, § 4(a)
+
+98 Stat. 2314
+
+44106(b)
+
+44106(c)
+
+44106(d)
+
+44106(e)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1163](https://www.govinfo.gov/link/statute/108/1163).)*

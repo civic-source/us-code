@@ -3,9 +3,10 @@ title: "Section 3422 - Participation of United States personnel in the Multinati
 usc_title: 22
 usc_section: "3422"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3422"
-generated_at: "2026-03-30T02:55:05.394Z"
+generated_at: "2026-11-23T20:26:32.460Z"
+status: "active"
 ---
 
 # § 3422. Participation of United States personnel in the Multinational Force and Observers
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.394Z"
   - **(4)** The number of members of the United States Armed Forces who are assigned or detailed by the United States Government to the Multinational Force and Observers may not exceed one thousand two hundred at any one time.
 - **(b)** Subject to the limitations contained in this subchapter, the President is authorized to provide, under such terms and conditions as he may determine, United States civilian personnel to participate as observers in the Multinational Force and Observers.
 - **(c)** The status of United States Government personnel assigned to the Multinational Force and Observers under subsection (a)(1) or (b) of this section shall be as provided in section 2389 of this title .
+
+## Source Credit
+
+*([Pub. L. 97–132, § 3](https://www.govinfo.gov/link/plaw/97/public/132), Dec. 29, 1981, [95 Stat. 1693](https://www.govinfo.gov/link/statute/95/1693).)*

@@ -3,9 +3,10 @@ title: "Section 2132 - Definitions"
 usc_title: 7
 usc_section: "2132"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2132"
-generated_at: "2026-03-30T02:53:42.377Z"
+generated_at: "2026-11-23T20:25:41.482Z"
+status: "active"
 ---
 
 # § 2132. Definitions
@@ -29,3 +30,11 @@ In this chapter:
 - **(m)** The term “quorum” means a majority of the Committee members.
 - **(n)** The term “Committee” means the Institutional Animal Committee established under section 2143(b) of this title .
 - **(o)** The term “Federal research facility” means each department, agency, or instrumentality of the United States which uses live animals for research or experimentation.
+
+In General
+
+Requirements
+
+## Source Credit
+
+*([Pub. L. 89–544, § 2](https://www.govinfo.gov/link/plaw/89/public/544), Aug. 24, 1966, [80 Stat. 350](https://www.govinfo.gov/link/statute/80/350); [Pub. L. 91–579, § 3](https://www.govinfo.gov/link/plaw/91/public/579), Dec. 24, 1970, [84 Stat. 1560](https://www.govinfo.gov/link/statute/84/1560); [Pub. L. 94–279](https://www.govinfo.gov/link/plaw/94/public/279), §§ 3, 4, Apr. 22, 1976, [90 Stat. 417](https://www.govinfo.gov/link/statute/90/417), 418; [Pub. L. 99–198, title XVII, § 1756(a)](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1650](https://www.govinfo.gov/link/statute/99/1650); [Pub. L. 107–171, title X, § 10301](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 491](https://www.govinfo.gov/link/statute/116/491); [Pub. L. 112–261, § 1](https://www.govinfo.gov/link/plaw/112/public/261), Jan. 10, 2013, [126 Stat. 2428](https://www.govinfo.gov/link/statute/126/2428); [Pub. L. 113–79, title XII, § 12308(a)(1)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 990](https://www.govinfo.gov/link/statute/128/990).)*

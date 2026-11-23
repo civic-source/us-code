@@ -3,9 +3,10 @@ title: "Section 8714c - Optional life insurance on family members"
 usc_title: 5
 usc_section: "8714c"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8714c"
-generated_at: "2026-03-30T02:52:56.066Z"
+generated_at: "2026-11-23T20:25:32.238Z"
+status: "active"
 ---
 
 # § 8714c. Optional life insurance on family members
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:52:56.066Z"
   - **(3)** Notwithstanding paragraph (1), an employee who is subject to withholdings under this subsection and whose pay, annuity, or compensation is insufficient to cover such withholdings may nevertheless continue optional life insurance on family members if the employee arranges to pay currently into the Employees’ Life Insurance Fund, through the agency or retirement system that administers pay, annuity, or compensation, an amount equal to the withholdings that would otherwise be required under this subsection.
 - **(e)** The cost of the optional life insurance on family members shall be determined from time to time by the Office on the basis of the employee’s age relative to such age groups as the Office establishes under section 8714a(e) of this title .
 - **(f)** The amount of optional life insurance which is in force under this section on a family member of an employee or former employee on the date of the death of the family member shall be paid, on the establishment of a valid claim by the employee, to such employee or, in the event of the death of the employee before payment can be made, to the person or persons entitled to the group life insurance in force on the employee under section 8705 of this title .
+
+## Source Credit
+
+*(Added [Pub. L. 96–427, § 8(a)](https://www.govinfo.gov/link/plaw/96/public/427), Oct. 10, 1980, [94 Stat. 1836](https://www.govinfo.gov/link/statute/94/1836); amended [Pub. L. 98–353, title II, § 206](https://www.govinfo.gov/link/plaw/98/public/353), as amended by [Pub. L. 99–336, § 7(1)](https://www.govinfo.gov/link/plaw/99/public/336), June 19, 1986, [100 Stat. 639](https://www.govinfo.gov/link/statute/100/639); [Pub. L. 99–335, title II, § 207(k)(5)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 598](https://www.govinfo.gov/link/statute/100/598); [Pub. L. 99–336, § 7(1)](https://www.govinfo.gov/link/plaw/99/public/336), June 19, 1986, [100 Stat. 639](https://www.govinfo.gov/link/statute/100/639); [Pub. L. 105–311](https://www.govinfo.gov/link/plaw/105/public/311), §§ 6(4), 8, Oct. 30, 1998, [112 Stat. 2951](https://www.govinfo.gov/link/statute/112/2951), 2953; [Pub. L. 111–350, § 5(a)(14)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3842](https://www.govinfo.gov/link/statute/124/3842).)*

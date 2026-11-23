@@ -3,12 +3,17 @@ title: "Section 605 - Searching vessels for letters"
 usc_title: 39
 usc_section: "605"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "39 U.S.C. § 605"
-generated_at: "2026-03-30T02:55:43.689Z"
+generated_at: "2026-11-23T20:26:57.724Z"
+status: "active"
 ---
 
 # § 605. Searching vessels for letters
 
 An officer or employee of the Postal Service performing duties related to the inspection of postal matters, when instructed by the Postal Service to make examinations and seizures, and any customs officer without special instructions shall search vessels for letters which may be on board, or which may have been conveyed contrary to law.
 
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 728](https://www.govinfo.gov/link/statute/84/728).)*

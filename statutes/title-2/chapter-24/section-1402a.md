@@ -3,9 +3,10 @@ title: "Section 1402a - Preliminary review of claims"
 usc_title: 2
 usc_section: "1402a"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1402a"
-generated_at: "2026-03-30T02:53:04.813Z"
+generated_at: "2026-11-23T20:25:28.964Z"
+status: "active"
 ---
 
 # § 1402a. Preliminary review of claims
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:04.813Z"
 - **(e)** In the case of a hearing officer’s report under subsection (c) on the preliminary review of a claim alleging a violation described in section 1415(d)(1)(A) of this title , the hearing officer shall transmit the report to—
   - **(1)** the Committee on Ethics of the House of Representatives, in the case of such an act by a Member of the House of Representatives (including a Delegate or Resident Commissioner to the Congress); or
   - **(2)** the Select Committee on Ethics of the Senate, in the case of such an act by a Senator.
+
+## Source Credit
+
+*([Pub. L. 104–1, title IV, § 403](https://www.govinfo.gov/link/plaw/104/public/1), as added [Pub. L. 115–397, title I, § 103(a)](https://www.govinfo.gov/link/plaw/115/public/397), Dec. 21, 2018, [132 Stat. 5303](https://www.govinfo.gov/link/statute/132/5303).)*

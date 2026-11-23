@@ -3,9 +3,10 @@ title: "Section 1163 - Railroad security assistance"
 usc_title: 6
 usc_section: "1163"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 1163"
-generated_at: "2026-03-30T02:53:09.507Z"
+generated_at: "2026-11-23T20:25:34.933Z"
+status: "active"
 ---
 
 # § 1163. Railroad security assistance
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:53:09.507Z"
     - **(C)** $300,000,000 for fiscal year 2010; and
     - **(D)** $300,000,000 for fiscal year 2011.
   - **(2)** Sums appropriated to carry out this section shall remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XV, § 1513](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 433](https://www.govinfo.gov/link/statute/121/433); [Pub. L. 115–254, div. K, title I, § 1973(a)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3614](https://www.govinfo.gov/link/statute/132/3614).)*

@@ -3,9 +3,10 @@ title: "Section 47129 - Resolution of disputes concerning airport fees"
 usc_title: 49
 usc_section: "47129"
 chapter: 471
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 47129"
-generated_at: "2026-03-30T02:56:19.405Z"
+generated_at: "2026-11-23T20:27:35.312Z"
+status: "active"
 ---
 
 # § 47129. Resolution of disputes concerning airport fees
@@ -42,3 +43,41 @@ generated_at: "2026-03-30T02:56:19.405Z"
   - **(1)** the rights of any party under any existing written agreement between an air carrier or foreign air carrier and the owner or operator of an airport; or
   - **(2)** the ability of an airport to meet its obligations under a financing agreement, or covenant, that is in force as of August 23, 1994 .
 - **(g)** In this section, the term “fee” means any rate, rental charge, landing fee, or other service charge for the use of airport facilities.
+
+Authority To Request Secretary’s Determination.—
+
+In general
+
+Calculation of fee
+
+Secretary not to set fee
+
+Fees imposed by privately-owned airports
+
+Procedural Regulations
+
+Decisions By Secretary
+
+Payment Under Protest; Guarantee of Air Carrier and Foreign Air Carrier Access.—
+
+Payment under protest.—
+
+In general
+
+Referral or credit
+
+Assurance of timely repayment
+
+Deadline
+
+Guarantee of air carrier and foreign air carrier access
+
+Applicability
+
+Effect On Existing Agreements
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 103–305, title I, § 113(a)(2)](https://www.govinfo.gov/link/plaw/103/public/305), Aug. 23, 1994, [108 Stat. 1577](https://www.govinfo.gov/link/statute/108/1577); amended [Pub. L. 104–264, title I, § 149(d)](https://www.govinfo.gov/link/plaw/104/public/264), Oct. 9, 1996, [110 Stat. 3227](https://www.govinfo.gov/link/statute/110/3227); [Pub. L. 104–287, § 5(85)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3397](https://www.govinfo.gov/link/statute/110/3397); [Pub. L. 112–95, title I, § 148(a)](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 31](https://www.govinfo.gov/link/statute/126/31).)*

@@ -3,9 +3,10 @@ title: "Section 824i - Interconnection authority"
 usc_title: 16
 usc_section: "824i"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 824i"
-generated_at: "2026-03-30T02:54:22.916Z"
+generated_at: "2026-11-23T20:26:20.290Z"
+status: "active"
 ---
 
 # § 824i. Interconnection authority
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:22.916Z"
 - **(e)**
   - **(1)** As used in this section, the term “facilities” means only facilities used for the generation or transmission of electric energy.
   - **(2)** With respect to an order issued pursuant to an application of a qualifying cogenerator or qualifying small power producer under subsection (a)(1), the term “facilities of such applicant” means the qualifying cogeneration facilities or qualifying small power production facilities of the applicant, as specified in the application. With respect to an order issued pursuant to an application under subsection (a)(2), the term “facilities of such applicant” means the qualifying cogeneration facilities, qualifying small power production facilities, or the transmission facilities of an electric utility, as specified in the application. With respect to an order issued by the Commission on its own motion under subsection (d), such term means the qualifying cogeneration facilities, qualifying small power production facilities, or the transmission facilities of an electric utility, as specified in the proposed order.
+
+## Source Credit
+
+*(June 10, 1920, ch. 285, pt. II, § 210, as added [Pub. L. 95–617, title II, § 202](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3135](https://www.govinfo.gov/link/statute/92/3135); amended [Pub. L. 96–294, title VI, § 643(a)(2)](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 770](https://www.govinfo.gov/link/statute/94/770).)*

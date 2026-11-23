@@ -3,9 +3,10 @@ title: "Section 11801 - Establishment of drug abuse education and prevention pro
 usc_title: 42
 usc_section: "11801"
 chapter: 123
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11801"
-generated_at: "2026-03-30T02:56:11.405Z"
+generated_at: "2026-11-23T20:27:23.325Z"
+status: "active"
 ---
 
 # § 11801. Establishment of drug abuse education and prevention program relating to youth gangs
@@ -22,3 +23,7 @@ The Secretary of Health and Human Services, through the Administration on Childr
     - **(A)** local education, juvenile justice, employment and social service agencies, and
     - **(B)** drug abuse referral, treatment, and rehabilitation programs,
   - **(8)** to provide technical assistance to eligible organizations in planning and implementing drug abuse education, prevention, rehabilitation, and referral programs for youth who are members of gangs that commit drug-related crimes.
+
+## Source Credit
+
+*([Pub. L. 100–690, title III, § 3501](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4254](https://www.govinfo.gov/link/statute/102/4254); [Pub. L. 102–132, § 1(a)](https://www.govinfo.gov/link/plaw/102/public/132), Oct. 18, 1991, [105 Stat. 630](https://www.govinfo.gov/link/statute/105/630).)*

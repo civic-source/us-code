@@ -3,12 +3,17 @@ title: "Section 1464 - Penalties in connection with sealed vessels and vehicles 
 usc_title: 19
 usc_section: "1464"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1464"
-generated_at: "2026-03-30T02:54:24.636Z"
+generated_at: "2026-11-23T20:26:10.765Z"
+status: "active"
 ---
 
 # § 1464. Penalties in connection with sealed vessels and vehicles 1 1 See Codification note below.
 
 If the master of such 1 vessel or the person in charge of any such vehicle fails to proceed with reasonable promptness to the port of destination and to deliver such vessel or vehicle to the proper officers of the customs, or fails to proceed in accordance with such regulations of the Secretary of the Treasury, or unlades such merchandise or any part thereof at other than such port of destination, or disposes of any such merchandise by sale or otherwise, he shall be guilty of a felony and upon conviction thereof shall be fined not more than $1,000 or imprisoned for not more than five years, or both; and any such vessel or vehicle, with its contents, shall be subject to forfeiture.
 
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 464, [46 Stat. 718](https://www.govinfo.gov/link/statute/46/718).)*

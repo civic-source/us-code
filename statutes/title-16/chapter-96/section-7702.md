@@ -3,9 +3,10 @@ title: "Section 7702 - United States participation in the North Pacific Fisherie
 usc_title: 16
 usc_section: "7702"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 7702"
-generated_at: "2026-03-30T02:54:23.077Z"
+generated_at: "2026-11-23T20:26:20.851Z"
+status: "active"
 ---
 
 # § 7702. United States participation in the North Pacific Fisheries Convention
@@ -57,3 +58,7 @@ generated_at: "2026-03-30T02:54:23.077Z"
     - **(C)**
       - **(i)** The Secretary of State may pay the necessary travel expenses of members of the Advisory Committee in carrying out the duties of the Advisory Committee in accordance with the Federal Travel Regulations and sections 5701, 5702, 5704 through 5708, and 5731 of title 5.
       - **(ii)** The Secretary may reimburse the Secretary of State for amounts expended by the Secretary of State under this subparagraph.
+
+## Source Credit
+
+*([Pub. L. 114–327, title I, § 102](https://www.govinfo.gov/link/plaw/114/public/327), Dec. 16, 2016, [130 Stat. 1976](https://www.govinfo.gov/link/statute/130/1976).)*

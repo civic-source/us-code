@@ -3,9 +3,10 @@ title: "Section 102701 - Law enforcement personnel within System"
 usc_title: 54
 usc_section: "102701"
 chapter: 1027
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "54 U.S.C. § 102701"
-generated_at: "2026-03-30T02:56:28.416Z"
+generated_at: "2026-11-23T20:27:38.033Z"
+status: "active"
 ---
 
 # § 102701. Law enforcement personnel within System
@@ -32,3 +33,60 @@ generated_at: "2026-03-30T02:56:28.416Z"
       - **(i)** a Federal employee for purposes of sections 1346(b) and 2401(b) and chapter 171 of title 28; and
       - **(ii)** a civil service employee of the United States within the meaning of the term “employee” as defined in section 8101 of title 5 , for purposes of subchapter I of chapter 81 of title 5, relating to compensation to Federal employees for work injuries, and the provisions of subchapter I of chapter 81 of title 5 shall apply.
 - **(c)** This section and sections 100101(b), 100502, 100507, 100751(b), 100754, 100901(b) and (c), 100906(a) and (d), 101302(b)(1) and (c) to (e), 101306, 101702(b) and (c), 101901, 102102, and 102702 of this title shall not be construed or applied to limit or restrict the investigative jurisdiction of any Federal law enforcement agency other than the Service, and nothing shall be construed or applied to affect any right of a State or political subdivision of a State to exercise civil and criminal jurisdiction within the System.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 102701 | 16 U.S.C. 1a–6 . | Pub. L. 91–383, § 10 , as added Pub. L. 94–458, § 2 , Oct. 7, 1976 , 90 Stat. 1941 ; Pub. L. 106–437, § 2 , Nov. 6, 2000 , 114 Stat. 1920 ; Pub. L. 108–352, § 11 , Oct. 21, 2004 , 118 Stat. 1397 . |
+
+
+Officers and Employees of the Department of the Interior.—
+
+Designation authority of secretary
+
+Powers and duties of designees
+
+Special Police Officers.—
+
+In general
+
+Cooperation with states and political subdivisions
+
+Supplemental authority; delegation of service law enforcement responsibilities not authorized
+
+Special police officers not deemed federal employees.—
+
+In general
+
+Exceptions
+
+Federal Investigative Jurisdiction and State Civil and Criminal Jurisdiction Not Preempted
+
+Historical and Revision Notes
+
+102701
+
+16 U.S.C. 1a–6
+
+Pub. L. 91–383, § 10
+
+Pub. L. 94–458, § 2
+
+Oct. 7, 1976
+
+90 Stat. 1941
+
+Pub. L. 106–437, § 2
+
+Nov. 6, 2000
+
+114 Stat. 1920
+
+Pub. L. 108–352, § 11
+
+Oct. 21, 2004
+
+118 Stat. 1397
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3159](https://www.govinfo.gov/link/statute/128/3159).)*

@@ -3,9 +3,10 @@ title: "Section 470 - Limitation on deductions allocable to property used by gov
 usc_title: 26
 usc_section: "470"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 470"
-generated_at: "2026-03-30T02:55:27.707Z"
+generated_at: "2026-11-23T20:26:45.772Z"
+status: "active"
 ---
 
 # § 470. Limitation on deductions allocable to property used by governments or other tax-exempt entities
@@ -80,3 +81,19 @@ generated_at: "2026-03-30T02:55:27.707Z"
 - **(g)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations which—
   - **(1)** allow in appropriate cases the aggregation of property subject to the same lease, and
   - **(2)** provide for the determination of the allocation of interest expense for purposes of this section.
+
+In General
+
+Exception.—
+
+In general
+
+Qualified transportation property
+
+Exchanges and conversion of tax-exempt use property
+
+Intangibles and indian tribal governments
+
+## Source Credit
+
+*(Added [Pub. L. 108–357, title VIII, § 848(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1602](https://www.govinfo.gov/link/statute/118/1602); amended [Pub. L. 110–172, § 7(c)](https://www.govinfo.gov/link/plaw/110/public/172), Dec. 29, 2007, [121 Stat. 2482](https://www.govinfo.gov/link/statute/121/2482); [Pub. L. 115–141, div. U, title IV, § 401(a)(120)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1190](https://www.govinfo.gov/link/statute/132/1190).)*

@@ -3,9 +3,10 @@ title: "Section 4502 - Declaration of policy"
 usc_title: 50
 usc_section: "4502"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4502"
-generated_at: "2026-03-30T02:56:26.274Z"
+generated_at: "2026-11-23T20:27:31.104Z"
+status: "active"
 ---
 
 # § 4502. Declaration of policy
@@ -40,3 +41,9 @@ generated_at: "2026-03-30T02:56:26.274Z"
   - **(6)** in order to ensure productive capacity in the event of an attack on the United States, the United States Government should encourage the geographic dispersal of industrial facilities in the United States to discourage the concentration of such productive facilities within limited geographic areas that are vulnerable to attack by an enemy of the United States;
   - **(7)** to ensure that essential national defense requirements are met, consideration should be given to stockpiling strategic materials, to the extent that such stockpiling is economical and feasible; and
   - **(8)** in the construction of any industrial facility owned by the United States Government, in the rendition of any financial assistance by the United States Government for the construction, expansion, or improvement of any industrial facility, and in the production of goods and services, under this chapter or any other provision of law, each department and agency of the United States Government should apply, under the coordination of the Federal Emergency Management Agency, when practicable and consistent with existing law and the desirability for maintaining a sound economy, the principle of geographic dispersal of such facilities in the interest of national defense.
+
+“That this Act may be cited as the ‘Domestic Minerals Program Extension Act of 1953’.
+
+## Source Credit
+
+*(Sept. 8, 1950, ch. 932, § 2, [64 Stat. 798](https://www.govinfo.gov/link/statute/64/798); June 30, 1953, ch. 171, § 2, [67 Stat. 129](https://www.govinfo.gov/link/statute/67/129); Aug. 9, 1955, ch. 655, § 2, [69 Stat. 580](https://www.govinfo.gov/link/statute/69/580); June 29, 1956, ch. 474, § 4, [70 Stat. 408](https://www.govinfo.gov/link/statute/70/408); [Pub. L. 96–294, title I, § 102](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 617](https://www.govinfo.gov/link/statute/94/617); [Pub. L. 102–558, title I, § 101](https://www.govinfo.gov/link/plaw/102/public/558), Oct. 28, 1992, [106 Stat. 4199](https://www.govinfo.gov/link/statute/106/4199); [Pub. L. 111–67, § 3(a)](https://www.govinfo.gov/link/plaw/111/public/67), Sept. 30, 2009, [123 Stat. 2007](https://www.govinfo.gov/link/statute/123/2007).)*

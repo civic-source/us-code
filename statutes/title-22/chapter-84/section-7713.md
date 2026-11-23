@@ -3,9 +3,10 @@ title: "Section 7713 - Powers of the Corporation; related provisions"
 usc_title: 22
 usc_section: "7713"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7713"
-generated_at: "2026-03-30T02:55:05.445Z"
+generated_at: "2026-11-23T20:26:32.681Z"
+status: "active"
 ---
 
 # § 7713. Powers of the Corporation; related provisions
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:55:05.445Z"
 - **(g)**
   - **(1)** The Chief Executive Officer is authorized to contract with any nongovernmental organization (including a university, independent foundation, or other organization) in the United States or in a candidate country, and, where appropriate, directly with a governmental agency of any such country, that is undertaking research aimed at improving data related to eligibility criteria under this chapter with respect to the country.
   - **(2)** Of the amount authorized to be appropriated under section 7718(a) of this title for a fiscal year, up to $5,000,000 is authorized to be made available to carry out paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 108–199, div. D, title VI, § 614](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 222](https://www.govinfo.gov/link/statute/118/222).)*

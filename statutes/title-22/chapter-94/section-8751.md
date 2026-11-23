@@ -3,9 +3,10 @@ title: "Section 8751 - Codification of sanctions with respect to grave human rig
 usc_title: 22
 usc_section: "8751"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8751"
-generated_at: "2026-03-30T02:55:05.456Z"
+generated_at: "2026-11-23T20:26:32.734Z"
+status: "active"
 ---
 
 # § 8751. Codification of sanctions with respect to grave human rights abuses by the Governments of Iran and Syria using information technology
@@ -14,3 +15,7 @@ United States sanctions with respect to Iran and Syria provided for in Executive
 
   - **(1)** with respect to Iran, until the date that is 30 days after the date on which the President submits to Congress the certification described in section 8551(a) of this title ; and
   - **(2)** with respect to Syria, until the date on which the provisions of and sanctions imposed pursuant to subchapter VII terminate pursuant to section 8795 of this title .
+
+## Source Credit
+
+*([Pub. L. 112–158, title IV, § 411](https://www.govinfo.gov/link/plaw/112/public/158), Aug. 10, 2012, [126 Stat. 1255](https://www.govinfo.gov/link/statute/126/1255).)*

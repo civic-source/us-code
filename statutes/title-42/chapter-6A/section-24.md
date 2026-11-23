@@ -3,9 +3,10 @@ title: "Section 24 - Grants for home- and community-based care"
 usc_title: 42
 usc_section: "24"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 24"
-generated_at: "2026-03-30T02:56:10.826Z"
+generated_at: "2026-11-23T20:27:20.612Z"
+status: "active"
 ---
 
 # § 300ff–24. Grants for home- and community-based care
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:10.826Z"
   - **(3)** does not include—
     - **(A)** inpatient hospital services; and
     - **(B)** nursing home and other long term care facilities.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXVI, § 2614, as added [Pub. L. 101–381, title II, § 201](https://www.govinfo.gov/link/plaw/101/public/381), Aug. 18, 1990, [104 Stat. 589](https://www.govinfo.gov/link/statute/104/589); amended [Pub. L. 109–415, title II](https://www.govinfo.gov/link/plaw/109/public/415), §§ 201(c)(2), 204(a), (b), title VII, §§ 702(3), 703, Dec. 19, 2006, [120 Stat. 2788](https://www.govinfo.gov/link/statute/120/2788), 2796, 2820; [Pub. L. 111–87, § 2(a)(1)](https://www.govinfo.gov/link/plaw/111/public/87), (3)(A), Oct. 30, 2009, [123 Stat. 2885](https://www.govinfo.gov/link/statute/123/2885).)*

@@ -3,9 +3,10 @@ title: "Section 41310 - Report on theft of trade secrets occurring abroad"
 usc_title: 34
 usc_section: "41310"
 chapter: 413
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 41310"
-generated_at: "2026-03-30T02:55:33.314Z"
+generated_at: "2026-11-23T20:26:50.660Z"
+status: "active"
 ---
 
 # § 41310. Report on theft of trade secrets occurring abroad
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:33.314Z"
     - **(B)** educate United States companies regarding the threats to their trade secrets when taken outside of the United States;
     - **(C)** provide assistance to United States companies to reduce the risk of loss of their trade secrets when taken outside of the United States; and
     - **(D)** provide a mechanism for United States companies to confidentially or anonymously report the theft of trade secrets occurring outside of the United States.
+
+## Source Credit
+
+*([Pub. L. 114–153, § 4](https://www.govinfo.gov/link/plaw/114/public/153), May 11, 2016, [130 Stat. 382](https://www.govinfo.gov/link/statute/130/382).)*

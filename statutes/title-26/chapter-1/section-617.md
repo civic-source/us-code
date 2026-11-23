@@ -3,9 +3,10 @@ title: "Section 617 - Deduction and recapture of certain mining exploration expe
 usc_title: 26
 usc_section: "617"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 617"
-generated_at: "2026-03-30T02:55:27.721Z"
+generated_at: "2026-11-23T20:26:45.839Z"
+status: "active"
 ---
 
 # § 617. Deduction and recapture of certain mining exploration expenditures
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:55:27.721Z"
     - **(A)** at the election of the taxpayer, be included in adjusted basis for purposes of computing the amount of any deduction allowable under section 611 (without regard to section 613), or
     - **(B)** if subparagraph (A) does not apply, be allowed as a deduction ratably over the 10-taxable year period beginning with the taxable year in which such expenditures were paid or incurred.
 - **(i)** For election of 10-year amortization of expenditures allowable as a deduction under this section, see section 59(e).
+
+## Source Credit
+
+*(Added [Pub. L. 89–570, § 1(a)](https://www.govinfo.gov/link/plaw/89/public/570), Sept. 12, 1966, [80 Stat. 759](https://www.govinfo.gov/link/statute/80/759); amended [Pub. L. 91–172, title V, § 504(b)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 632](https://www.govinfo.gov/link/statute/83/632); [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1901(a)(89), (b)(3)(K), (21)(C)–(E), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1779](https://www.govinfo.gov/link/statute/90/1779), 1793, 1797, 1834; [Pub. L. 97–248, title II, § 201(d)(9)(D)](https://www.govinfo.gov/link/plaw/97/public/248), formerly § 201(c)(9)(D), § 224(c)(8), Sept. 3, 1982, [96 Stat. 420](https://www.govinfo.gov/link/statute/96/420), 489, renumbered § 201(d)(9)(D), [Pub. L. 97–448, title III, § 306(a)(1)(A)(i)](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2400](https://www.govinfo.gov/link/statute/96/2400); [Pub. L. 99–514, title IV](https://www.govinfo.gov/link/plaw/99/public/514), §§ 411(b)(2)(B), 413(b), Oct. 22, 1986, [100 Stat. 2226](https://www.govinfo.gov/link/statute/100/2226), 2228; [Pub. L. 100–647, title I, § 1007(g)(7)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3435](https://www.govinfo.gov/link/statute/102/3435); [Pub. L. 101–508, title XI, § 11801(a)(27)](https://www.govinfo.gov/link/plaw/101/public/508), (c)(13), Nov. 5, 1990, [104 Stat. 1388–521](https://www.govinfo.gov/link/statute/104/1388), 1388–527.)*

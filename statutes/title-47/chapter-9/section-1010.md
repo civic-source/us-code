@@ -3,9 +3,10 @@ title: "Section 1010 - Reports"
 usc_title: 47
 usc_section: "1010"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 1010"
-generated_at: "2026-03-30T02:56:24.529Z"
+generated_at: "2026-11-23T20:27:28.981Z"
+status: "active"
 ---
 
 # § 1010. Reports
@@ -20,3 +21,9 @@ generated_at: "2026-03-30T02:56:24.529Z"
     - **(A)** describing the type of equipment, facilities, and services that have been brought into compliance under this subchapter; and
     - **(B)** reflecting its analysis of the reasonableness and cost-effectiveness of the payments made by the Attorney General to telecommunications carriers for modifications necessary to ensure compliance with this subchapter.
   - **(2)** A report under paragraph (1) shall include findings and conclusions on the costs to be incurred by telecommunications carriers to comply with the assistance capability requirements of section 1002 of this title after the effective date of such section 1002 of this title , including projections of the amounts expected to be incurred and a description of the equipment, facilities, or services for which they are expected to be incurred.
+
+Compliance cost estimates
+
+## Source Credit
+
+*([Pub. L. 103–414, title I, § 112](https://www.govinfo.gov/link/plaw/103/public/414), Oct. 25, 1994, [108 Stat. 4288](https://www.govinfo.gov/link/statute/108/4288); [Pub. L. 104–316, title I, § 126(b)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3840](https://www.govinfo.gov/link/statute/110/3840).)*

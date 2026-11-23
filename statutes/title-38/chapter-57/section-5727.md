@@ -3,9 +3,10 @@ title: "Section 5727 - Definitions"
 usc_title: 38
 usc_section: "5727"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 5727"
-generated_at: "2026-03-30T02:55:53.522Z"
+generated_at: "2026-11-23T20:27:01.970Z"
+status: "active"
 ---
 
 # § 5727. Definitions
@@ -45,3 +46,53 @@ In this subchapter:
   - **(21)** The term “training” means a learning experience in which an individual is taught to execute a specific information security procedure or understand the information security common body of knowledge.
   - **(22)** The term “VA National Rules of Behavior” means a set of Department rules that describes the responsibilities and expected behavior of personnel with regard to information system usage.
   - **(23)** The term “VA sensitive data” means all Department data, on any storage media or in any form or format, which requires protection due to the risk of harm that could result from inadvertent or deliberate disclosure, alteration, or destruction of the information and includes information whose improper use or disclosure could adversely affect the ability of an agency to accomplish its mission, proprietary information, and records about individuals requiring protection under applicable confidentiality provisions.
+
+Availability
+
+Confidentiality
+
+Control techniques
+
+Data breach
+
+Data breach analysis
+
+Fraud resolution systems
+
+Identity theft
+
+Identity theft insurance
+
+Information owner
+
+Information resources
+
+Information security
+
+Information security requirements
+
+Information system
+
+Integrity
+
+National security system
+
+Plan of action and milestones
+
+Principal credit reporting agency
+
+Security incident
+
+Sensitive personal information
+
+Subordinate plan
+
+Training
+
+Va national rules of behavior
+
+Va sensitive data
+
+## Source Credit
+
+*(Added [Pub. L. 109–461, title IX, § 902(a)](https://www.govinfo.gov/link/plaw/109/public/461), Dec. 22, 2006, [120 Stat. 3457](https://www.govinfo.gov/link/statute/120/3457); amended [Pub. L. 111–275, title X, § 1001(m)(2)](https://www.govinfo.gov/link/plaw/111/public/275), Oct. 13, 2010, [124 Stat. 2897](https://www.govinfo.gov/link/statute/124/2897).)*

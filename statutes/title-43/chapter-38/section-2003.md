@@ -3,9 +3,10 @@ title: "Section 2003 - Definitions"
 usc_title: 43
 usc_section: "2003"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 2003"
-generated_at: "2026-03-30T02:55:57.495Z"
+generated_at: "2026-11-23T20:27:06.392Z"
+status: "active"
 ---
 
 # § 2003. Definitions
@@ -17,3 +18,7 @@ As used in this chapter—
   - **(3)** The term “crude oil transportation system” means a crude oil delivery system (including the location of such system) for transporting Alaskan and other crude oil to northern tier States and inland States, but such term does not include the Long Beach-Midland project.
   - **(4)** The term “Long Beach-Midland project” means the crude oil delivery system which was the subject of, and is generally described in, the “Final Environmental Impact Statement, Crude Oil Transportation System: Valdez, Alaska, to Midland, Texas (as proposed by Sohio Transportation Company)”, the availability of which was announced by the Department of the Interior in the Federal Register on June 1, 1977 (42 Fed. Reg. 28008).
   - **(5)** The term “Federal agency” means an Executive agency, as defined in section 105 of title 5 .
+
+## Source Credit
+
+*([Pub. L. 95–617, title V, § 503](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3158](https://www.govinfo.gov/link/statute/92/3158).)*

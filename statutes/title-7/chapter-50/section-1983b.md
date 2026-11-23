@@ -3,9 +3,10 @@ title: "Section 1983b - Beginning farmer and rancher individual development acco
 usc_title: 7
 usc_section: "1983b"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1983b"
-generated_at: "2026-03-30T02:53:42.351Z"
+generated_at: "2026-11-23T20:25:41.369Z"
+status: "active"
 ---
 
 # § 1983b. Beginning farmer and rancher individual development accounts pilot program
@@ -100,3 +101,7 @@ generated_at: "2026-03-30T02:53:42.351Z"
   - **(3)** transfer of demonstration programs to other qualified entities; and
   - **(4)** remissions from a reserve fund to the Secretary in a case in which a demonstration program is terminated without transfer to a new qualified entity.
 - **(h)** There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2008 through 2023.
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 333B](https://www.govinfo.gov/link/plaw/87/public/128), as added [Pub. L. 110–234, title V, § 5301](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1147](https://www.govinfo.gov/link/statute/122/1147), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title V, § 5301, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1908; amended [Pub. L. 113–79, title V, § 5301](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 839](https://www.govinfo.gov/link/statute/128/839); [Pub. L. 115–334, title V, § 5301](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4671](https://www.govinfo.gov/link/statute/132/4671).)*

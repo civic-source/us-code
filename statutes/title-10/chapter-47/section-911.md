@@ -3,9 +3,10 @@ title: "Section 911 - Art. 111. Leaving scene of vehicle accident"
 usc_title: 10
 usc_section: "911"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 911"
-generated_at: "2026-03-30T02:53:38.085Z"
+generated_at: "2026-11-23T20:25:51.110Z"
+status: "active"
 ---
 
 # § 911. Art. 111. Leaving scene of vehicle accident
@@ -21,3 +22,11 @@ generated_at: "2026-03-30T02:53:38.085Z"
   - **(3)** who wrongfully and unlawfully orders, causes, or permits the driver to leave the scene of the accident—
     - **(A)** without providing assistance to an injured person; or
     - **(B)** without providing personal identification to others involved in the accident or to appropriate authorities;
+
+Driver
+
+Senior Passenger
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. E, title LX, § 5423](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2947](https://www.govinfo.gov/link/statute/130/2947).)*

@@ -3,9 +3,10 @@ title: "Section 6573 - State administration"
 usc_title: 20
 usc_section: "6573"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 6573"
-generated_at: "2026-03-30T02:54:48.200Z"
+generated_at: "2026-11-23T20:26:14.849Z"
+status: "active"
 ---
 
 # § 6573. State administration
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:48.200Z"
     - **(I)** representatives of authorized public chartering agencies (if there are charter schools in the State); and
     - **(J)** charter school leaders (if there are charter schools in the State).
   - **(3)** The duties of such committee shall include a review, before publication, of any proposed or final State rule or regulation pursuant to this subchapter. In an emergency situation where such rule or regulation must be issued within a very limited time to assist local educational agencies with the operation of the program under this subchapter, the State educational agency may issue a regulation without prior consultation, but shall immediately thereafter convene the State committee of practitioners to review the emergency regulation before issuance in final form.
+
+## Source Credit
+
+*([Pub. L. 89–10, title I, § 1603](https://www.govinfo.gov/link/plaw/89/public/10), formerly § 1903, as added [Pub. L. 107–110, title I, § 101](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1618](https://www.govinfo.gov/link/statute/115/1618); renumbered § 1603 and amended [Pub. L. 114–95, title I](https://www.govinfo.gov/link/plaw/114/public/95), §§ 1501(a)(4), 1601(c), Dec. 10, 2015, [129 Stat. 1906](https://www.govinfo.gov/link/statute/129/1906), 1912.)*

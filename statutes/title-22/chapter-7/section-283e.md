@@ -3,9 +3,10 @@ title: "Section 283e - Payment of subscription to Bank and Fund by United States
 usc_title: 22
 usc_section: "283e"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 283e"
-generated_at: "2026-03-30T02:55:05.314Z"
+generated_at: "2026-11-23T20:26:31.983Z"
+status: "active"
 ---
 
 # § 283e. Payment of subscription to Bank and Fund by United States
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:05.314Z"
 - **(a)** There is hereby authorized to be appropriated, without fiscal year limitation, for the purchase of thirty-five thousand shares of capital stock in the Bank, $350 million. In addition, there is authorized to be appropriated, without fiscal year limitation, for payment of the subscription of the United States to the Fund for Special Operations, $100 million.
 - **(b)** For the purpose of keeping to a minimum the cost to the United States of participation in the Bank, the Secretary of the Treasury, after paying the requisite part of the subscription and quota of the United States in the Bank required to be made under article II, section 4, and article IV, section 3, respectively, of the agreement, is authorized and directed to issue special notes of the United States from time to time, at par, and to deliver such notes to the Bank in exchange for dollars to the extent permitted by the agreement. The special notes provided for in this subsection shall be issued under the authority and subject to the provisions of chapter 31 of title 31, and the purposes for which securities may be issued under that chapter are extended to include the purposes for which special notes are authorized and directed to be issued under this subsection, but such notes shall bear no interest, shall be nonnegotiable, and shall be payable on demand of the Bank. The face amount of special notes issued to the Bank under the authority of this subsection and outstanding at any one time shall not exceed, in the aggregate, the amount of the subscription and quota of the United States actually paid to the Bank under article II, section 4, and article IV, section 3, respectively, of the agreement.
 - **(c)** Any payment made to the United States by the Bank as a distribution of net income shall be covered into the Treasury as a miscellaneous receipt.
+
+## Source Credit
+
+*([Pub. L. 86–147, § 7](https://www.govinfo.gov/link/plaw/86/public/147), Aug. 7, 1959, [73 Stat. 300](https://www.govinfo.gov/link/statute/73/300).)*

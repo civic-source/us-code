@@ -3,9 +3,10 @@ title: "Section 313 - Federal Emergency Management Agency"
 usc_title: 6
 usc_section: "313"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 313"
-generated_at: "2026-03-30T02:53:09.456Z"
+generated_at: "2026-11-23T20:25:34.695Z"
+status: "active"
 ---
 
 # § 313. Federal Emergency Management Agency
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:53:09.456Z"
   - **(5)**
     - **(A)** The President may designate the Administrator to serve as a member of the Cabinet in the event of natural disasters, acts of terrorism, or other man-made disasters.
     - **(B)** Nothing in this paragraph shall be construed as affecting the authority of the Secretary under this chapter.
+
+## Source Credit
+
+*([Pub. L. 107–296, title V, § 503](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 109–295, title VI, § 611(11)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1396](https://www.govinfo.gov/link/statute/120/1396); amended [Pub. L. 117–130, § 3](https://www.govinfo.gov/link/plaw/117/public/130), June 6, 2022, [136 Stat. 1229](https://www.govinfo.gov/link/statute/136/1229).)*

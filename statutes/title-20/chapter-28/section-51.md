@@ -3,9 +3,10 @@ title: "Section 51 - Purpose; appropriations authorized"
 usc_title: 20
 usc_section: "51"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 51"
-generated_at: "2026-03-30T02:54:48.122Z"
+generated_at: "2026-11-23T20:26:14.451Z"
+status: "active"
 ---
 
 # § 1087–51. Purpose; appropriations authorized
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:48.122Z"
     - **(A)** tutoring;
     - **(B)** supporting educational and recreational activities; and
     - **(C)** counseling, including career counseling.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 441](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1429](https://www.govinfo.gov/link/statute/100/1429); amended [Pub. L. 102–325, title IV, § 441(b)](https://www.govinfo.gov/link/plaw/102/public/325) –(d), July 23, 1992, [106 Stat. 563](https://www.govinfo.gov/link/statute/106/563); [Pub. L. 103–82, title I, § 111(b)(3)](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 860](https://www.govinfo.gov/link/statute/107/860); [Pub. L. 105–244, title IV, § 441](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1711](https://www.govinfo.gov/link/statute/112/1711); [Pub. L. 110–315, title IV, § 441](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3258](https://www.govinfo.gov/link/statute/122/3258).)*

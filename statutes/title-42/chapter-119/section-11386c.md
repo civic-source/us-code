@@ -3,9 +3,10 @@ title: "Section 11386c - Renewal funding and terms of assistance for permanent h
 usc_title: 42
 usc_section: "11386c"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11386c"
-generated_at: "2026-03-30T02:56:11.401Z"
+generated_at: "2026-11-23T20:27:23.304Z"
+status: "active"
 ---
 
 # § 11386c. Renewal funding and terms of assistance for permanent housing
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.401Z"
   - **(1)** there is a demonstrated need for the project; and
   - **(2)** the project complies with program requirements and appropriate standards of housing quality and habitability, as determined by the Secretary.
 - **(c)** Nothing in this section shall be construed as prohibiting the Secretary from renewing contracts under this part in accordance with criteria set forth in a provision of this part other than this section.
+
+## Source Credit
+
+*([Pub. L. 100–77, title IV, § 429](https://www.govinfo.gov/link/plaw/100/public/77), as added [Pub. L. 111–22, div. B, title III, § 1305(3)](https://www.govinfo.gov/link/plaw/111/public/22), May 20, 2009, [123 Stat. 1695](https://www.govinfo.gov/link/statute/123/1695).)*

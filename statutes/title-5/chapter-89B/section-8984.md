@@ -3,9 +3,10 @@ title: "Section 8984 - Benefits"
 usc_title: 5
 usc_section: "8984"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8984"
-generated_at: "2026-03-30T02:52:56.070Z"
+generated_at: "2026-11-23T20:25:32.254Z"
+status: "active"
 ---
 
 # § 8984. Benefits
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:52:56.070Z"
   - **(3)** Eyewear.
 - **(d)** A contract approved under this chapter shall require the qualified company to cover the geographic service delivery area specified by the Office. The Office shall require qualified companies to include visually underserved areas in their service delivery areas.
 - **(e)** If an individual has vision coverage under a health benefits plan under chapter 89 and also has coverage under a plan under this chapter, the health benefits plan under chapter 89 shall be the first payor of any benefit payments.
+
+## Source Credit
+
+*(Added [Pub. L. 108–496, § 3](https://www.govinfo.gov/link/plaw/108/public/496), Dec. 23, 2004, [118 Stat. 4008](https://www.govinfo.gov/link/statute/118/4008).)*

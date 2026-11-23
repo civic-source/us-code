@@ -3,9 +3,10 @@ title: "Section 3901 - Findings and statement of purpose"
 usc_title: 16
 usc_section: "3901"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3901"
-generated_at: "2026-03-30T02:54:23.038Z"
+generated_at: "2026-11-23T20:26:20.723Z"
+status: "active"
 ---
 
 # § 3901. Findings and statement of purpose
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:23.038Z"
 - **(b)** It is the purpose of this chapter to promote, in concert with other Federal and State statutes and programs, the conservation of the wetlands of the Nation in order to maintain the public benefits they provide and to help fulfill international obligations contained in various migratory bird treaties and conventions with Canada, Mexico, Japan, the Union of Soviet Socialist Republics, and with various countries in the Western Hemisphere by—
   - **(1)** intensifying cooperative efforts among private interests and local, State, and Federal governments for the management and conservation of wetlands; and
   - **(2)** intensifying efforts to protect the wetlands of the Nation through acquisition in fee, easements or other interests and methods by local, State, and Federal governments and the private sector.
+
+## Source Credit
+
+*([Pub. L. 99–645, § 2](https://www.govinfo.gov/link/plaw/99/public/645), Nov. 10, 1986, [100 Stat. 3582](https://www.govinfo.gov/link/statute/100/3582).)*

@@ -3,9 +3,10 @@ title: "Section 1712 - Authorization of appropriations for improvements in techn
 usc_title: 8
 usc_section: "1712"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1712"
-generated_at: "2026-03-30T02:53:10.507Z"
+generated_at: "2026-11-23T20:25:36.281Z"
+status: "active"
 ---
 
 # § 1712. Authorization of appropriations for improvements in technology and infrastructure
@@ -18,3 +19,31 @@ generated_at: "2026-03-30T02:53:10.507Z"
   - **(2)** Federal agencies involved in border security may waive all or part of enrollment fees for technology-based programs to encourage participation by United States citizens and aliens in such programs. Any agency that waives any part of any such fee may establish its fees for other services at a level that will ensure the recovery from other users of the amounts waived.
   - **(3)** The Attorney General may, to the extent reasonable, increase land border fees for the issuance of arrival-departure documents to offset technology costs.
 - **(b)** There are authorized to be appropriated to the Immigration and Naturalization Service and the Department of State such sums as may be necessary to improve and expand facilities for use by the personnel of those agencies.
+
+Pilot Program
+
+Additional Requirements.—
+
+In general
+
+Technologies
+
+Implementation
+
+Report
+
+Required Features
+
+Coordination With Other Agencies
+
+Procurement of Advanced Technology
+
+Program Partnerships
+
+Requirement for Report
+
+Content
+
+## Source Credit
+
+*([Pub. L. 107–173, title I, § 102](https://www.govinfo.gov/link/plaw/107/public/173), May 14, 2002, [116 Stat. 546](https://www.govinfo.gov/link/statute/116/546).)*

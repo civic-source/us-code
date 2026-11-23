@@ -3,9 +3,10 @@ title: "Section 15063 - Purpose and scope of activities"
 usc_title: 42
 usc_section: "15063"
 chapter: 144
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 15063"
-generated_at: "2026-03-30T02:56:11.458Z"
+generated_at: "2026-11-23T20:27:23.554Z"
+status: "active"
 ---
 
 # § 15063. Purpose and scope of activities
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:11.458Z"
     - **(B)** facilitate electronic information sharing using state-of-the-art Internet technologies such as real-time online discussions, multipoint video conferencing, and web-based audio/video broadcasts, on emerging topics that impact individuals with disabilities and their families;
   - **(5)** serve as a research-based resource for Federal and State policymakers on information concerning and issues impacting individuals with developmental disabilities and entities that assist or serve those individuals; or
   - **(6)** undertake any other functions that the Secretary determines to be appropriate;
+
+## Source Credit
+
+*([Pub. L. 106–402, title I, § 153](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1720](https://www.govinfo.gov/link/statute/114/1720).)*

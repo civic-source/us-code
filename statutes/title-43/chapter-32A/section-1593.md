@@ -3,9 +3,10 @@ title: "Section 1593 - Planning reports; research and demonstration projects"
 usc_title: 43
 usc_section: "1593"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1593"
-generated_at: "2026-03-30T02:55:57.477Z"
+generated_at: "2026-11-23T20:27:06.311Z"
+status: "active"
 ---
 
 # § 1593. Planning reports; research and demonstration projects
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:57.477Z"
   - **(3)** to develop a comprehensive program for minimizing salt contributions to the Colorado River from lands administered by the Bureau of Land Management and submit a report which describes the program and recommended implementation actions to the Congress and to the members of the advisory council established by section 1594(a) of this title by July 1, 1987 ;
   - **(4)** to undertake feasibility investigations of saline water use and disposal opportunities, including measures and all necessary appurtenant and associated works, to demonstrate saline water use technology and to beneficially use and dispose of saline and brackish waters of the Colorado River Basin in joint ventures with current and future industrial water users, using, but not limited to, the concepts generally described in the Bureau of Reclamation Special Report of September 1981, entitled “Saline water use and disposal opportunities”; and
   - **(5)** to undertake advance planning activities on the Sinbad Valley Unit, Colorado, as described in the Bureau of Land Management Salinity Status Report, covering the period 1978–1979 and dated February 1980.
+
+## Source Credit
+
+*([Pub. L. 93–320, title II, § 203](https://www.govinfo.gov/link/plaw/93/public/320), June 24, 1974, [88 Stat. 271](https://www.govinfo.gov/link/statute/88/271); [Pub. L. 98–569, § 3](https://www.govinfo.gov/link/plaw/98/public/569), Oct. 30, 1984, [98 Stat. 2937](https://www.govinfo.gov/link/statute/98/2937).)*

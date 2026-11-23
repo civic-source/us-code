@@ -3,9 +3,10 @@ title: "Section 4104b - Standard hazard determination forms"
 usc_title: 42
 usc_section: "4104b"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4104b"
-generated_at: "2026-03-30T02:56:11.199Z"
+generated_at: "2026-11-23T20:27:22.360Z"
+status: "active"
 ---
 
 # § 4104b. Standard hazard determination forms
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.199Z"
   - **(1)** map revisions or updates pursuant to section 4101(f) of this title after such previous determination have resulted in the building or mobile home being located in an area having special flood hazards; or
   - **(2)** the person contacts the Administrator to determine when the most recent map revisions or updates affecting such property occurred and such revisions and updates have occurred after such previous determination.
 - **(f)** The regulations under this section requiring use of the form established pursuant to this section shall be issued together with the regulations required under subsection (a) and shall take effect upon the expiration of the 180-day period beginning on such issuance.
+
+## Source Credit
+
+*([Pub. L. 90–448, title XIII, § 1365](https://www.govinfo.gov/link/plaw/90/public/448), as added [Pub. L. 103–325, title V, § 528](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2264](https://www.govinfo.gov/link/statute/108/2264); amended [Pub. L. 112–141, div. F, title II, § 100238(b)(1)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 958](https://www.govinfo.gov/link/statute/126/958).)*

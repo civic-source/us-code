@@ -3,9 +3,10 @@ title: "Section 2214a - Definitions"
 usc_title: 22
 usc_section: "2214a"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2214a"
-generated_at: "2026-03-30T02:55:05.351Z"
+generated_at: "2026-11-23T20:26:32.197Z"
+status: "active"
 ---
 
 # § 2214a. Definitions
@@ -36,3 +37,7 @@ In this subpart:
   - **(13)** The term “very poor” means those individuals—
     - **(A)** living in the bottom 50 percent below the poverty line established by the national government of the country in which those individuals live; or
     - **(B)** living below the international poverty line (as defined by the International Bank for Reconstruction and Development and the International Development Association (collectively referred to as the ‘World Bank’)).
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 259, as added [Pub. L. 108–484, § 6](https://www.govinfo.gov/link/plaw/108/public/484), Dec. 23, 2004, [118 Stat. 3929](https://www.govinfo.gov/link/statute/118/3929); amended [Pub. L. 115–428, § 4(i)](https://www.govinfo.gov/link/plaw/115/public/428), Jan. 9, 2019, [132 Stat. 5515](https://www.govinfo.gov/link/statute/132/5515).)*

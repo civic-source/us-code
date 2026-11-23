@@ -3,9 +3,10 @@ title: "Section 1726b - International food relief partnership"
 usc_title: 7
 usc_section: "1726b"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1726b"
-generated_at: "2026-03-30T02:53:42.337Z"
+generated_at: "2026-11-23T20:25:41.275Z"
+status: "active"
 ---
 
 # § 1726b. International food relief partnership
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:42.337Z"
 - **(d)** Not more than 10 percent of the amount made available to carry out this section may be used by the Administrator for the administration of grants under subsection (a).
 - **(e)** Not later than 180 days after November 9, 2000 , the Administrator, in consultation with the Secretary, shall issue such regulations or guidelines as the Administrator determines to be necessary to carry out this section, including regulations or guidelines that provide to United States nonprofit organizations eligible to receive grants under subsection (a)(1) guidance with respect to the requirements for qualified shelf-stable prepackaged foods and the quantity of the foods to be stockpiled by the organizations.
 - **(f)** There is authorized to be appropriated to the Administrator to carry out this section, in addition to amounts otherwise available to carry out this section, $10,000,000 for each of fiscal years 2014 through 2023, to remain available until expended.
+
+## Source Credit
+
+*(July 10, 1954, ch. 469, title II, § 208, as added [Pub. L. 106–472, title III, § 310(a)](https://www.govinfo.gov/link/plaw/106/public/472), Nov. 9, 2000, [114 Stat. 2075](https://www.govinfo.gov/link/statute/114/2075); amended [Pub. L. 107–171, title III, § 3008](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 283](https://www.govinfo.gov/link/statute/116/283); [Pub. L. 110–246, title III, § 3013](https://www.govinfo.gov/link/plaw/110/public/246), June 18, 2008, [122 Stat. 1826](https://www.govinfo.gov/link/statute/122/1826); [Pub. L. 113–79, title III, § 3007](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 775](https://www.govinfo.gov/link/statute/128/775); [Pub. L. 115–334, title III, § 3108](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4604](https://www.govinfo.gov/link/statute/132/4604).)*

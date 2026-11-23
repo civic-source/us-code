@@ -3,9 +3,10 @@ title: "Section 3785 - Technical data: decision by contracting officer; claims; 
 usc_title: 10
 usc_section: "3785"
 chapter: 275
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 3785"
-generated_at: "2026-03-30T02:53:38.198Z"
+generated_at: "2026-11-23T20:25:51.862Z"
+status: "active"
 ---
 
 # § 3785. Technical data: decision by contracting officer; claims; rights and liability upon final disposition
@@ -21,3 +22,13 @@ generated_at: "2026-03-30T02:53:38.198Z"
   - **(2)** If, upon final disposition, the contracting officer’s challenge to the use or release restriction is not sustained—
     - **(A)** the United States shall continue to be bound by the restriction; and
     - **(B)** the United States shall be liable for payment to the party asserting the restriction for fees and other expenses (as defined in section 2412(d)(2)(A) of title 28 ) incurred by the party asserting the restriction in defending the asserted restriction if the challenge by the United States is found not to be made in good faith.
+
+Decision by Contracting Officer.—
+
+Claims
+
+Rights and Liability Upon Final Disposition.—
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1833(g)](https://www.govinfo.gov/link/plaw/116/public/283), (l), Jan. 1, 2021, [134 Stat. 4231](https://www.govinfo.gov/link/statute/134/4231), 4233.)*

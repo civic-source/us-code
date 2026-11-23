@@ -3,9 +3,10 @@ title: "Section 12371 - Findings"
 usc_title: 42
 usc_section: "12371"
 chapter: 127
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12371"
-generated_at: "2026-03-30T02:56:11.413Z"
+generated_at: "2026-11-23T20:27:23.356Z"
+status: "active"
 ---
 
 # § 12371. Findings
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.413Z"
     - **(G)** genuine participation in decisions concerning the planning and managing of their lives; and
   - **(6)** there is a great need for a comprehensive national policy with respect to young individuals, designed to engage Federal, State, and local government agencies, youth organizations, and other voluntary organizations.
 - **(b)** It is the policy of the Congress that the Federal Government should work jointly with the States and their citizens to develop recommendations and plans for action to meet the challenge and needs of young individuals.
+
+## Source Credit
+
+*([Pub. L. 101–501, title IX, § 982](https://www.govinfo.gov/link/plaw/101/public/501), Nov. 3, 1990, [104 Stat. 1280](https://www.govinfo.gov/link/statute/104/1280).)*

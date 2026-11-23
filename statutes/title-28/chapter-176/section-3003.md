@@ -3,9 +3,10 @@ title: "Section 3003 - Rules of construction"
 usc_title: 28
 usc_section: "3003"
 chapter: 176
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 3003"
-generated_at: "2026-03-30T02:55:30.152Z"
+generated_at: "2026-11-23T20:26:36.540Z"
+status: "active"
 ---
 
 # § 3003. Rules of construction
@@ -36,3 +37,19 @@ generated_at: "2026-03-30T02:55:30.152Z"
 - **(d)** This chapter shall preempt State law to the extent such law is inconsistent with a provision of this chapter.
 - **(e)** This chapter shall not be construed to curtail or limit the rights of the United States under foreign law, under a treaty or an international agreement, or otherwise under international law.
 - **(f)** Except as provided otherwise in this chapter, the Federal Rules of Civil Procedure shall apply with respect to actions and proceedings under this chapter.
+
+Terms
+
+Effect on Rights of the United States
+
+Effect on Other Laws
+
+Preemption
+
+Effect on Rights of the United States Under Foreign and International Law
+
+Applicability of Federal Rules of Civil Procedure
+
+## Source Credit
+
+*(Added [Pub. L. 101–647, title XXXVI, § 3611](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4935](https://www.govinfo.gov/link/statute/104/4935).)*

@@ -3,9 +3,10 @@ title: "Section 13902 - Registration of motor carriers"
 usc_title: 49
 usc_section: "13902"
 chapter: 139
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 13902"
-generated_at: "2026-03-30T02:56:19.330Z"
+generated_at: "2026-11-23T20:27:34.746Z"
+status: "active"
 ---
 
 # § 13902. Registration of motor carriers
@@ -96,3 +97,115 @@ generated_at: "2026-03-30T02:56:19.330Z"
       - **(ii)** retains liability for the cargo and for payment of interchanged carriers; and
   - **(2)** may not arrange transportation except as described in paragraph (1) unless the motor carrier has obtained a separate registration as a freight forwarder or broker for transportation under section 13903 or 13904, as applicable.
 - **(j)** Notwithstanding any other provision of this section, upon an order in accordance with section 324(a) of the United States-Mexico-Canada Agreement Implementation Act, the Secretary shall carry out the relief specified by denying or imposing limitations on a request for registration or capping the number of requests for registration by Mexico-domiciled motor carriers of cargo to operate beyond the municipalities along the United States-Mexico international border and the commercial zones of those municipalities as directed.
+
+Motor Carrier Generally.—
+
+In general
+
+Additional registration requirements for household goods motor carriers
+
+Consideration of evidence; findings
+
+Withholding
+
+Limitation on complaints
+
+Separate registration required
+
+Motor Carriers of Passengers.—
+
+Registration of private recipients of governmental assistance
+
+Registration of public recipients of governmental assistance.—
+
+Charter transportation
+
+Regular-route transportation
+
+Treatment of certain public recipients
+
+Intrastate transportation by interstate carriers
+
+Preemption of state regulation regarding certain service
+
+Jurisdiction over certain intrastate transportation
+
+Special operations
+
+Suspension or revocation
+
+Definitions
+
+Public recipient of governmental assistance
+
+Private recipient of government assistance
+
+Restrictions on Motor Carriers Domiciled in or Owned or Controlled by Nationals of a Contiguous Foreign Country.—
+
+Prevention of discriminatory practices
+
+Equalization of treatment
+
+Removal or modification
+
+Protection of existing operations
+
+Publication; comment
+
+Delegation to secretary
+
+Civil actions
+
+Limitation on statutory construction
+
+Transition Rule.—
+
+In general
+
+Definitions
+
+Termination
+
+Penalties for Failure To Comply With Registration Requirements
+
+Out-of-service orders
+
+Permission for operations
+
+Modification of Carrier Registration.—
+
+In general
+
+Pre-existing certificates and permits
+
+Transition termination date defined
+
+Motor Carrier Defined
+
+Update of Registration.—
+
+In general
+
+Motor carriers of passengers
+
+Registration as Freight Forwarder or Broker Required
+
+Mexico-Domiciled Motor Carriers
+
+Consideration of evidence; findings
+
+Withholding
+
+William J. Clinton.
+
+William J. Clinton.
+
+William J. Clinton.
+
+George W. Bush.
+
+George W. Bush.
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 880](https://www.govinfo.gov/link/statute/109/880); amended [Pub. L. 104–287, § 5(32)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3391](https://www.govinfo.gov/link/statute/110/3391); [Pub. L. 106–159, title II, § 205](https://www.govinfo.gov/link/plaw/106/public/159), Dec. 9, 1999, [113 Stat. 1762](https://www.govinfo.gov/link/statute/113/1762); [Pub. L. 109–59, title IV](https://www.govinfo.gov/link/plaw/109/public/59), §§ 4113(b), 4204, 4303(c), Aug. 10, 2005, [119 Stat. 1725](https://www.govinfo.gov/link/statute/119/1725), 1753, 1762; [Pub. L. 110–291, § 2](https://www.govinfo.gov/link/plaw/110/public/291), July 30, 2008, [122 Stat. 2915](https://www.govinfo.gov/link/statute/122/2915); [Pub. L. 112–141, div. C, title II](https://www.govinfo.gov/link/plaw/112/public/141), §§ 32101(a), 32107(a), 32111, 32915, 32921(a), July 6, 2012, [126 Stat. 777](https://www.govinfo.gov/link/statute/126/777), 781, 783, 820, 827; [Pub. L. 114–94, div. A, title V, § 5508(a)(1)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1554](https://www.govinfo.gov/link/statute/129/1554); [Pub. L. 116–113, title III, § 326(a)](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 60](https://www.govinfo.gov/link/statute/134/60).)*

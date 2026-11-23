@@ -3,9 +3,10 @@ title: "Section 2615 - Military museums and military education programs: coopera
 usc_title: 10
 usc_section: "2615"
 chapter: 155
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2615"
-generated_at: "2026-03-30T02:53:38.166Z"
+generated_at: "2026-11-23T20:25:51.623Z"
+status: "active"
 ---
 
 # § 2615. Military museums and military education programs: cooperative agreement authority
@@ -14,3 +15,11 @@ generated_at: "2026-03-30T02:53:38.166Z"
   - **(1)** a military museum program; or
   - **(2)** the support of a military educational institution program.
 - **(b)** For purposes of subsection (a), an authorized cooperative agreement is described in section 6305 of title 31 , except that the use of a cooperative agreement by the Secretary concerned is limited to nonprofit entities.
+
+Use Authorized
+
+Cooperative Agreement Described
+
+## Source Credit
+
+*(Added [Pub. L. 112–239, div. B, title XXVIII, § 2852(b)(1)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2161](https://www.govinfo.gov/link/statute/126/2161).)*

@@ -3,9 +3,10 @@ title: "Section 4001 - Promotions"
 usc_title: 22
 usc_section: "4001"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4001"
-generated_at: "2026-03-30T02:55:05.400Z"
+generated_at: "2026-11-23T20:26:32.491Z"
+status: "active"
 ---
 
 # § 4001. Promotions
@@ -38,3 +39,9 @@ generated_at: "2026-03-30T02:55:05.400Z"
         - **(V)** the Under Secretary for Public Diplomacy and Public Affairs; or
         - **(VI)** the Under Secretary for Civilian, Security, Democracy, and Human Rights; and
       - **(ii)** the term “global affairs position” means any position funded with amounts appropriated to the Department under the heading “Diplomatic Policy and Support”.
+
+“It is the sense of the Congress that, to the greatest extent possible, Foreign Service promotion panels should—
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 601](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2094](https://www.govinfo.gov/link/statute/94/2094); [Pub. L. 100–204, title I, § 185(b)](https://www.govinfo.gov/link/plaw/100/public/204), Dec. 22, 1987, [101 Stat. 1366](https://www.govinfo.gov/link/statute/101/1366); [Pub. L. 103–236, title I, § 180(a)(6)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 416](https://www.govinfo.gov/link/statute/108/416); [Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 326]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–437; [Pub. L. 114–291, § 6](https://www.govinfo.gov/link/plaw/114/public/291), Dec. 16, 2016, [130 Stat. 1498](https://www.govinfo.gov/link/statute/130/1498); [Pub. L. 114–323, title IV, § 403](https://www.govinfo.gov/link/plaw/114/public/323), title VII, § 715(b)(5), Dec. 16, 2016, [130 Stat. 1927](https://www.govinfo.gov/link/statute/130/1927), 1946; [Pub. L. 117–81, div. E, title LIII, § 5307](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2362](https://www.govinfo.gov/link/statute/135/2362).)*

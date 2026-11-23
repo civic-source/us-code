@@ -3,9 +3,10 @@ title: "Section 2341 - Definitions"
 usc_title: 18
 usc_section: "2341"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2341"
-generated_at: "2026-03-30T02:54:16.505Z"
+generated_at: "2026-11-23T20:26:08.609Z"
+status: "active"
 ---
 
 # § 2341. Definitions
@@ -33,3 +34,7 @@ As used in this chapter—
       - **(i)** is licensed or otherwise authorized by the State where such smokeless tobacco is found to engage in the business of selling or distributing tobacco products; and
       - **(ii)** has complied with the accounting, tax, and payment requirements relating to such license or authorization with respect to such smokeless tobacco; or
     - **(D)** an officer, employee, or agent of the United States or a State, or any department, agency, or instrumentality of the United States or a State (including any political subdivision of a State), having possession of such smokeless tobacco in connection with the performance of official duties; 2 2 So in original. The semicolon probably should be a period.
+
+## Source Credit
+
+*(Added [Pub. L. 95–575, § 1](https://www.govinfo.gov/link/plaw/95/public/575), Nov. 2, 1978, [92 Stat. 2463](https://www.govinfo.gov/link/statute/92/2463); amended [Pub. L. 97–449, § 5(c)](https://www.govinfo.gov/link/plaw/97/public/449), Jan. 12, 1983, [96 Stat. 2442](https://www.govinfo.gov/link/statute/96/2442); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 107–296, title XI, § 1112(i)(1)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2277](https://www.govinfo.gov/link/statute/116/2277); [Pub. L. 109–177, title I, § 121(a)(1)](https://www.govinfo.gov/link/plaw/109/public/177), (b)(1), (6), Mar. 9, 2006, [120 Stat. 221](https://www.govinfo.gov/link/statute/120/221), 222.)*

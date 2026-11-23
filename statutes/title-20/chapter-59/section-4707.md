@@ -3,9 +3,10 @@ title: "Section 4707 - Barry Goldwater Scholarship and Excellence in Education F
 usc_title: 20
 usc_section: "4707"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 4707"
-generated_at: "2026-03-30T02:54:48.186Z"
+generated_at: "2026-11-23T20:26:14.776Z"
+status: "active"
 ---
 
 # § 4707. Barry Goldwater Scholarship and Excellence in Education Fund
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:48.186Z"
 - **(d)** Nothing in this section shall be construed to limit the authority of the Board to increase the number of scholarships provided under section 4704 2 2 See References in Text note below. of this title, or to increase the amount of the stipend authorized by section 4705 2 of this title, as the Board considers appropriate and is otherwise consistent with the requirements of this chapter.
 - **(d)** Any obligation acquired by the fund may be sold by the Secretary at the market price.
 - **(e)** The interest on, and the proceeds from the sale or redemption of, any obligations held in the fund shall be credited to and form a part of the fund.
+
+## Source Credit
+
+*([Pub. L. 99–661, div. A, title XIV, § 1408](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 4010](https://www.govinfo.gov/link/statute/100/4010); [Pub. L. 102–190, div. A, title X, § 1089(2)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1485](https://www.govinfo.gov/link/statute/105/1485); [Pub. L. 102–484, div. A, title X, § 1054(h)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2503](https://www.govinfo.gov/link/statute/106/2503); [Pub. L. 117–81, div. F, title LXIII, § 6306](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2395](https://www.govinfo.gov/link/statute/135/2395).)*

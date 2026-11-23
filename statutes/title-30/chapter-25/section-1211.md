@@ -3,9 +3,10 @@ title: "Section 1211 - Office of Surface Mining Reclamation and Enforcement"
 usc_title: 30
 usc_section: "1211"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1211"
-generated_at: "2026-03-30T02:55:29.396Z"
+generated_at: "2026-11-23T20:26:34.993Z"
+status: "active"
 ---
 
 # § 1211. Office of Surface Mining Reclamation and Enforcement
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:29.396Z"
   - **(2)** Such petitions shall be filed in the principal office of the Director and shall set forth the facts which it is claimed established that it is necessary to issue, amend, or repeal a rule under this chapter.
   - **(3)** The Director may hold a public hearing or may conduct such investigation or proceeding as the Director deems appropriate in order to determine whether or not such petition should be granted.
   - **(4)** Within ninety days after filing of a petition described in paragraph (1), the Director shall either grant or deny the petition. If the Director grants such petition, the Director shall promptly commence an appropriate proceeding in accordance with the provisions of this chapter. If the Director denies such petition, the Director shall so notify the petitioner in writing setting forth the reasons for such denial.
+
+## Source Credit
+
+*([Pub. L. 95–87, title II, § 201](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 449](https://www.govinfo.gov/link/statute/91/449); [Pub. L. 95–240, title I, § 100](https://www.govinfo.gov/link/plaw/95/public/240), Mar. 7, 1978, [92 Stat. 109](https://www.govinfo.gov/link/statute/92/109); 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783](https://www.govinfo.gov/link/statute/92/3783); [Pub. L. 96–511, § 4(b)](https://www.govinfo.gov/link/plaw/96/public/511), Dec. 11, 1980, [94 Stat. 2826](https://www.govinfo.gov/link/statute/94/2826).)*

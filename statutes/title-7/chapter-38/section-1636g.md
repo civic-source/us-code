@@ -3,9 +3,10 @@ title: "Section 1636g - Suspension authority regarding specific terms of price r
 usc_title: 7
 usc_section: "1636g"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1636g"
-generated_at: "2026-03-30T02:53:42.333Z"
+generated_at: "2026-11-23T20:25:41.249Z"
+status: "active"
 ---
 
 # § 1636g. Suspension authority regarding specific terms of price reporting requirements
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:42.333Z"
 - **(b)**
   - **(1)** A suspension under subsection (a) shall be for a period of not more than 240 days.
   - **(2)** If an Act of Congress concerning the requirement that is the subject of the suspension under subsection (a) is not enacted by the end of the period of the suspension established under paragraph (1), the Secretary shall implement the requirement.
+
+## Source Credit
+
+*(Aug. 14, 1946, ch. 966, title II, § 258, as added [Pub. L. 106–78, title IX, § 911(2)](https://www.govinfo.gov/link/plaw/106/public/78), Oct. 22, 1999, [113 Stat. 1205](https://www.govinfo.gov/link/statute/113/1205).)*

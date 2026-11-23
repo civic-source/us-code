@@ -3,9 +3,10 @@ title: "Section 712 - Functions of Association"
 usc_title: 45
 usc_section: "712"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 712"
-generated_at: "2026-03-30T02:55:56.553Z"
+generated_at: "2026-11-23T20:27:05.294Z"
+status: "active"
 ---
 
 # § 712. Functions of Association
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:56.553Z"
 - **(g)** No later than March 1, 1980 , the Association and the Attorney General of the United States shall develop and submit to the Congress a feasibility study for the transfer, to the appropriate department or agency of the Federal Government, of all responsibility for representing the United States in the proceedings before the special court to determine the valuation of rail properties conveyed to the Corporation under section 743 of this title .
 - **(h)** No later than March 1, 1980 , the Association and the Secretary of Transportation shall develop and submit to the Congress a feasibility study for the transfer of all functions of the Association, other than those referred to in subsection (h) 4 4 So in original. Subsec. (h) redesignated (g) by Pub. L. 97–35 . of this section, to the appropriate department or agency of the Federal Government, including the abolition of those functions which will no longer be necessary.
 - **(i)** The Board of Directors of the Association shall adopt procedures to insure (1) that contractors, including law firms, provide reports containing written verification of tasks assigned, work performed, time worked, and costs incurred, including periodic status reports on work performed, (2) that such reports are audited by the Association, (3) that no funds are paid to contractors without written reports complying with the requirements of this subsection, and (4) that the Association applies such procedures uniformly to all contractors.
+
+## Source Credit
+
+*([Pub. L. 93–236, title II, § 202](https://www.govinfo.gov/link/plaw/93/public/236), Jan. 2, 1974, [87 Stat. 990](https://www.govinfo.gov/link/statute/87/990); [Pub. L. 94–5, § 2(a)](https://www.govinfo.gov/link/plaw/94/public/5), Feb. 28, 1975, [89 Stat. 7](https://www.govinfo.gov/link/statute/89/7); [Pub. L. 94–210, title VI](https://www.govinfo.gov/link/plaw/94/public/210), §§ 601(c), 607(b), (c), Feb. 5, 1976, [90 Stat. 84](https://www.govinfo.gov/link/statute/90/84), 96; [Pub. L. 95–199, § 2](https://www.govinfo.gov/link/plaw/95/public/199), Nov. 23, 1977, [91 Stat. 1423](https://www.govinfo.gov/link/statute/91/1423); [Pub. L. 96–73, title II](https://www.govinfo.gov/link/plaw/96/public/73), §§ 202, 203, Sept. 29, 1979, [93 Stat. 555](https://www.govinfo.gov/link/statute/93/555); [Pub. L. 97–35, title XI, § 1148(a)](https://www.govinfo.gov/link/plaw/97/public/35), (b), Aug. 13, 1981, [95 Stat. 674](https://www.govinfo.gov/link/statute/95/674); [Pub. L. 97–468, title VI, § 605(e)](https://www.govinfo.gov/link/plaw/97/public/468), Jan. 14, 1983, [96 Stat. 2564](https://www.govinfo.gov/link/statute/96/2564).)*

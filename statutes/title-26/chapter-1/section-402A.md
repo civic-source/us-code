@@ -3,9 +3,10 @@ title: "Section 402A - Optional treatment of elective deferrals as Roth contribu
 usc_title: 26
 usc_section: "402A"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 402A"
-generated_at: "2026-03-30T02:55:27.675Z"
+generated_at: "2026-11-23T20:26:45.624Z"
+status: "active"
 ---
 
 # § 402A. Optional treatment of elective deferrals as Roth contributions
@@ -140,3 +141,13 @@ generated_at: "2026-03-30T02:55:27.675Z"
   - **(3)** The term “matching contribution” means—
     - **(A)** any matching contribution described in section 401(m)(4)(A), and
     - **(B)** any contribution to an eligible deferred compensation plan (as defined in section 457(b)) by an eligible employer described in section 457(e)(1)(A) on behalf of an employee and on account of such employee’s elective deferral under such plan,
+
+In general
+
+Special rule
+
+“The Secretary of Labor and the Secretary of the Treasury (or a delegate of either such Secretary) shall have authority to issue regulations or other guidance, and to coordinate in developing regulations or other guidance, to carry out the purposes of this Act [div. T of Pub. L. 117–328 , see Tables for classification], including—
+
+## Source Credit
+
+*(Added [Pub. L. 107–16, title VI, § 617(a)](https://www.govinfo.gov/link/plaw/107/public/16), June 7, 2001, [115 Stat. 103](https://www.govinfo.gov/link/statute/115/103); amended [Pub. L. 111–240, title II](https://www.govinfo.gov/link/plaw/111/public/240), §§ 2111(a), (b), 2112(a), Sept. 27, 2010, [124 Stat. 2565](https://www.govinfo.gov/link/statute/124/2565), 2566; [Pub. L. 112–240, title IX, § 902(a)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2371](https://www.govinfo.gov/link/statute/126/2371); [Pub. L. 113–295, div. A, title II, § 220(k)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4036](https://www.govinfo.gov/link/statute/128/4036); [Pub. L. 117–328, div. T, title I, § 127(e)(1)](https://www.govinfo.gov/link/plaw/117/public/328), title III, § 325(a), title VI, § 604(a)–(d), Dec. 29, 2022, [136 Stat. 5324](https://www.govinfo.gov/link/statute/136/5324), 5359, 5392.)*

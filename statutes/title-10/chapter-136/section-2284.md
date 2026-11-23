@@ -3,9 +3,10 @@ title: "Section 2284 - Explosive Ordnance Disposal Defense Program"
 usc_title: 10
 usc_section: "2284"
 chapter: 136
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2284"
-generated_at: "2026-03-30T02:53:38.153Z"
+generated_at: "2026-11-23T20:25:51.534Z"
+status: "active"
 ---
 
 # § 2284. Explosive Ordnance Disposal Defense Program
@@ -27,3 +28,13 @@ generated_at: "2026-03-30T02:53:38.153Z"
 - **(c)** In this section:
   - **(1)** The term “explosive ordnance” has the meaning given such term in section 283(d) of this title .
   - **(2)** The term “explosive ordnance disposal” means the detection, identification, on-site evaluation, rendering safe, exploitation, recovery, and final disposal of explosive ordnance.
+
+In General
+
+Roles, Responsibilities, and Authorities
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 115–232, div. A, title III, § 311(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1708](https://www.govinfo.gov/link/statute/132/1708); amended [Pub. L. 116–92, div. A, title X, § 1052](https://www.govinfo.gov/link/plaw/116/public/92), title XVII, § 1731(a)(36), Dec. 20, 2019, [133 Stat. 1590](https://www.govinfo.gov/link/statute/133/1590), 1814; [Pub. L. 116–283, div. A, title III, § 352(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3544](https://www.govinfo.gov/link/statute/134/3544); [Pub. L. 118–159, div. A, title XVI, § 1621(d)(3)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2171](https://www.govinfo.gov/link/statute/138/2171); [Pub. L. 119–60, div. A, title X, § 1004(a)(1)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1028](https://www.govinfo.gov/link/statute/139/1028).)*

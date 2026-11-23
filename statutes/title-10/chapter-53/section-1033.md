@@ -3,9 +3,10 @@ title: "Section 1033 - Participation in management of specified non-Federal enti
 usc_title: 10
 usc_section: "1033"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1033"
-generated_at: "2026-03-30T02:53:38.095Z"
+generated_at: "2026-11-23T20:25:51.173Z"
+status: "active"
 ---
 
 # § 1033. Participation in management of specified non-Federal entities: authorized activities
@@ -26,3 +27,15 @@ generated_at: "2026-03-30T02:53:38.095Z"
     - **(E)** An entity that, operating in a foreign nation where United States military personnel are serving at United States military activities, promotes understanding and tolerance between such personnel (and their families) and the citizens of that host foreign nation through programs that foster social relations between those persons.
 - **(c)** A designation of an entity under subsection (b), and an authorization under subsection (a) of a member of the armed forces to participate in the management of such an entity, shall be published in the Federal Register.
 - **(d)** The Secretary of Defense, and the Secretary of Homeland Security in the case of the Coast Guard when it is not operating as a service in the Navy, shall prescribe regulations to carry out this section.
+
+Authorization
+
+Designated Entities
+
+Publication of Designated Entities and of Authorized Persons
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 105–85, div. A, title V, § 593(a)(1)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1762](https://www.govinfo.gov/link/statute/111/1762); amended [Pub. L. 106–65, div. A, title V, § 583](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 634](https://www.govinfo.gov/link/statute/113/634); [Pub. L. 107–296, title XVII, § 1704(b)(1)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314).)*

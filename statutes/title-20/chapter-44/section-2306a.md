@@ -3,9 +3,10 @@ title: "Section 2306a - Prohibitions"
 usc_title: 20
 usc_section: "2306a"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 2306a"
-generated_at: "2026-03-30T02:54:48.172Z"
+generated_at: "2026-11-23T20:26:14.692Z"
+status: "active"
 ---
 
 # § 2306a. Prohibitions
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:48.172Z"
     - **(A)** designate the proposed regulation as an emergency with an explanation of the emergency in the notice to Congress under paragraph (1);
     - **(B)** publish the length of the comment and review period in such notice and in the Federal Register; and
     - **(C)** conduct immediately thereafter regional meetings to review such proposed regulation before issuing any final regulation.
+
+## Source Credit
+
+*([Pub. L. 88–210, § 8](https://www.govinfo.gov/link/plaw/88/public/210), as added [Pub. L. 109–270, § 1(b)](https://www.govinfo.gov/link/plaw/109/public/270), Aug. 12, 2006, [120 Stat. 690](https://www.govinfo.gov/link/statute/120/690); amended [Pub. L. 114–95, title IX, § 9215(n)(2)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2169](https://www.govinfo.gov/link/statute/129/2169); [Pub. L. 115–224, § 9](https://www.govinfo.gov/link/plaw/115/public/224), title II, § 201(b), July 31, 2018, [132 Stat. 1574](https://www.govinfo.gov/link/statute/132/1574), 1622.)*

@@ -3,9 +3,10 @@ title: "Section 1677f - Access to information"
 usc_title: 19
 usc_section: "1677f"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1677f"
-generated_at: "2026-03-30T02:54:24.657Z"
+generated_at: "2026-11-23T20:26:10.870Z"
+status: "active"
 ---
 
 # § 1677f. Access to information
@@ -93,3 +94,7 @@ generated_at: "2026-03-30T02:54:24.657Z"
   - **(3)** In addition to the requirements set forth in paragraph (2)—
     - **(A)** the administering authority shall include in a final determination described in paragraph (1) an explanation of the basis for its determination that addresses relevant arguments, made by interested parties who are parties to the investigation or review (as the case may be), concerning the establishment of dumping or a countervailable subsidy, or the suspension of the investigation, with respect to which the determination is made; and
     - **(B)** the Commission shall include in a final determination of injury an explanation of the basis for its determination that addresses relevant arguments that are made by interested parties who are parties to the investigation or review (as the case may be) concerning volume, price effects, and impact on the industry of imports of the subject merchandise.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title VII, § 777, as added [Pub. L. 96–39, title I, § 101](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 187](https://www.govinfo.gov/link/statute/93/187); amended [Pub. L. 98–573, title VI, § 619](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 3038](https://www.govinfo.gov/link/statute/98/3038); [Pub. L. 99–514, title XVIII](https://www.govinfo.gov/link/plaw/99/public/514), §§ 1886(a)(13), 1889(8), Oct. 22, 1986, [100 Stat. 2922](https://www.govinfo.gov/link/statute/100/2922), 2926; [Pub. L. 100–418, title I, § 1332](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1207](https://www.govinfo.gov/link/statute/102/1207); [Pub. L. 100–449, title IV, § 403(c)](https://www.govinfo.gov/link/plaw/100/public/449), Sept. 28, 1988, [102 Stat. 1884](https://www.govinfo.gov/link/statute/102/1884); [Pub. L. 101–382, title I](https://www.govinfo.gov/link/plaw/101/public/382), §§ 134(a)(4), 135(b), Aug. 20, 1990, [104 Stat. 650](https://www.govinfo.gov/link/statute/104/650), 651; [Pub. L. 103–182, title IV, § 412(c)](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2146](https://www.govinfo.gov/link/statute/107/2146); [Pub. L. 103–465, title II](https://www.govinfo.gov/link/plaw/103/public/465), §§ 226–228, 231(b), (d)(1), Dec. 8, 1994, [108 Stat. 4886–4888](https://www.govinfo.gov/link/statute/108/4886), 4896, 4897; [Pub. L. 114–125, title IV, § 413(a)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 159](https://www.govinfo.gov/link/statute/130/159); [Pub. L. 116–113, title IV, § 422(a)](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 64](https://www.govinfo.gov/link/statute/134/64); [Pub. L. 116–260, div. O, title VI, § 601(f)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2151](https://www.govinfo.gov/link/statute/134/2151).)*

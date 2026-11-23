@@ -3,12 +3,17 @@ title: "Section 28d - Performance of deferred work"
 usc_title: 30
 usc_section: "28d"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 28d"
-generated_at: "2026-03-30T02:55:29.375Z"
+generated_at: "2026-11-23T20:26:34.898Z"
+status: "active"
 ---
 
 # § 28d. Performance of deferred work
 
 All deferred assessment work shall be performed not later than the end of the assessment year next subsequent to the removal or cessation of the causes for deferment or the expiration of any deferments granted under sections 28b to 28e of this title and shall be in addition to the annual assessment work required by law in such year.
 
+
+## Source Credit
+
+*(June 21, 1949, ch. 232, § 3, [63 Stat. 215](https://www.govinfo.gov/link/statute/63/215).)*

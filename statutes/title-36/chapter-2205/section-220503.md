@@ -3,9 +3,10 @@ title: "Section 220503 - Purposes"
 usc_title: 36
 usc_section: "220503"
 chapter: 2205
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 220503"
-generated_at: "2026-03-30T02:55:44.709Z"
+generated_at: "2026-11-23T20:26:59.080Z"
+status: "active"
 ---
 
 # § 220503. Purposes
@@ -30,3 +31,24 @@ The purposes of the corporation are—
   - **(14)** to encourage and provide assistance to amateur athletes of racial and ethnic minorities for the purpose of eliciting the participation of those minorities in amateur athletic activities in which they are underrepresented;
   - **(15)** to promote a safe environment in sports that is free from abuse, including emotional, physical, and sexual abuse, of any amateur athlete; and
   - **(16)** to effectively oversee the national governing bodies with respect to compliance with and implementation of the policies and procedures of the corporation, including policies and procedures on the establishment of a safe environment in sports as described in paragraph (15).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 220503 | 36:374. | Sept. 21, 1950, ch. 975 , title I, § 104, as added Nov. 8, 1978 , Pub. L. 95–606, § 1(b) , 92 Stat. 3046 . |
+
+
+Historical and Revision Notes
+
+220503
+
+Sept. 21, 1950, ch. 975
+
+Nov. 8, 1978
+
+Pub. L. 95–606, § 1(b)
+
+92 Stat. 3046
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1466](https://www.govinfo.gov/link/statute/112/1466); [Pub. L. 105–277, div. C, title I, § 142(d)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–603](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 115–126, title II, § 201](https://www.govinfo.gov/link/plaw/115/public/126), Feb. 14, 2018, [132 Stat. 320](https://www.govinfo.gov/link/statute/132/320); [Pub. L. 116–189](https://www.govinfo.gov/link/plaw/116/public/189), §§ 4(a)(3), 6(a), Oct. 30, 2020, [134 Stat. 945](https://www.govinfo.gov/link/statute/134/945), 947.)*

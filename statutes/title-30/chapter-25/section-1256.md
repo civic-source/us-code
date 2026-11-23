@@ -3,9 +3,10 @@ title: "Section 1256 - Permits"
 usc_title: 30
 usc_section: "1256"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1256"
-generated_at: "2026-03-30T02:55:29.399Z"
+generated_at: "2026-11-23T20:26:35.019Z"
+status: "active"
 ---
 
 # § 1256. Permits
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:29.399Z"
     - **(E)** any additional revised or updated information required by the regulatory authority has not been provided. Prior to the approval of any renewal of permit the regulatory authority shall provide notice to the appropriate public authorities.
   - **(2)** If an application for renewal of a valid permit includes a proposal to extend the mining operation beyond the boundaries authorized in the existing permit, the portion of the application for renewal of a valid permit which addresses any new land areas shall be subject to the full standards applicable to new applications under this chapter: Provided, however , That if the surface coal mining operations authorized by a permit issued pursuant to this chapter were not subject to the standards contained in section 1260(b)(5)(A) and (B) of this title by reason of complying with the proviso of section 1260(b)(5) of this title , then the portion of the application for renewal of the permit which addresses any new land areas previously identified in the reclamation plan submitted pursuant to section 1258 of this title shall not be subject to the standards contained in section 1260(b)(5)(A) and (B) of this title.
   - **(3)** Any permit renewal shall be for a term not to exceed the period of the original permit established by this chapter. Application for permit renewal shall be made at least one hundred and twenty days prior to the expiration of the valid permit.
+
+## Source Credit
+
+*([Pub. L. 95–87, title V, § 506](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 473](https://www.govinfo.gov/link/statute/91/473).)*

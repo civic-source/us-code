@@ -3,9 +3,10 @@ title: "Section 4301 - Committee staffs"
 usc_title: 2
 usc_section: "4301"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 4301"
-generated_at: "2026-03-30T02:53:04.828Z"
+generated_at: "2026-11-23T20:25:29.027Z"
+status: "active"
 ---
 
 # § 4301. Committee staffs
@@ -32,3 +33,17 @@ generated_at: "2026-03-30T02:53:04.828Z"
     - **(A)** subchapter III (relating to civil service retirement) of chapter 83 of title 5,
     - **(B)** chapter 87 (relating to Federal employees group life insurance) of title 5, and
     - **(C)** chapter 89 (relating to Federal employees group health insurance) of title 5.
+
+“Nothing in the amendments made by subsections (a) and (b) of this section [amending this section] shall be construed—
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+## Source Credit
+
+*(Aug. 2, 1946, ch. 753, title II, § 202, [60 Stat. 834](https://www.govinfo.gov/link/statute/60/834); July 30, 1947, ch. 361, title I, § 101, [61 Stat. 611](https://www.govinfo.gov/link/statute/61/611); Feb. 24, 1949, ch. 8, [63 Stat. 6](https://www.govinfo.gov/link/statute/63/6); Aug. 5, 1955, ch. 568, § 12, [69 Stat. 509](https://www.govinfo.gov/link/statute/69/509); [Pub. L. 85–462, § 4](https://www.govinfo.gov/link/plaw/85/public/462) (o), June 20, 1958, [72 Stat. 209](https://www.govinfo.gov/link/statute/72/209); [Pub. L. 88–426, title II, § 202(j)](https://www.govinfo.gov/link/plaw/88/public/426), Aug. 14, 1964, [78 Stat. 414](https://www.govinfo.gov/link/statute/78/414); [Pub. L. 91–510, title III](https://www.govinfo.gov/link/plaw/91/public/510), §§ 301(a)–(c), 303, 304, title IV, § 477(a)(3), Oct. 26, 1970, [84 Stat. 1175](https://www.govinfo.gov/link/statute/84/1175), 1176, 1179, 1180, 1195; [Pub. L. 92–136, § 5](https://www.govinfo.gov/link/plaw/92/public/136), Oct. 11, 1971, [85 Stat. 378](https://www.govinfo.gov/link/statute/85/378); [Pub. L. 100–458, title III, § 312](https://www.govinfo.gov/link/plaw/100/public/458), Oct. 1, 1988, [102 Stat. 2184](https://www.govinfo.gov/link/statute/102/2184); [Pub. L. 104–186, title II, § 204(10)](https://www.govinfo.gov/link/plaw/104/public/186), (11), Aug. 20, 1996, [110 Stat. 1731](https://www.govinfo.gov/link/statute/110/1731); [Pub. L. 105–55, title I, § 105(a)](https://www.govinfo.gov/link/plaw/105/public/55), Oct. 7, 1997, [111 Stat. 1184](https://www.govinfo.gov/link/statute/111/1184).)*

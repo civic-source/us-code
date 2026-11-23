@@ -3,9 +3,10 @@ title: "Section 5861 - Prohibited acts"
 usc_title: 26
 usc_section: "5861"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 5861"
-generated_at: "2026-03-30T02:55:27.828Z"
+generated_at: "2026-11-23T20:26:46.478Z"
+status: "active"
 ---
 
 # § 5861. Prohibited acts
@@ -24,3 +25,29 @@ It shall be unlawful for any person—
 - **(j)** to transport, deliver, or receive any firearm in interstate commerce which has not been registered as required by this chapter; or
 - **(k)** to receive or possess a firearm which has been imported or brought into the United States in violation of section 5844; or
 - **(l)** to make, or cause the making of, a false entry on any application, return, or record required by this chapter, knowing such entry to be false.
+
+| Present subsecs.: | Prior sections |
+| --- | --- |
+| (a) | 5854. |
+| (b) | 5851. |
+| (d) | 5854. |
+| (g) | 5852. |
+| (j) | 5855. |
+| (k) | 5853. |
+
+
+(a)
+
+(b)
+
+(d)
+
+(g)
+
+(j)
+
+(k)
+
+## Source Credit
+
+*(Added [Pub. L. 90–618, title II, § 201](https://www.govinfo.gov/link/plaw/90/public/618), Oct. 22, 1968, [82 Stat. 1234](https://www.govinfo.gov/link/statute/82/1234).)*

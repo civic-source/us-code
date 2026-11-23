@@ -3,9 +3,10 @@ title: "Section 6601 - Congressional findings; priority goals"
 usc_title: 42
 usc_section: "6601"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6601"
-generated_at: "2026-03-30T02:56:11.262Z"
+generated_at: "2026-11-23T20:27:22.684Z"
+status: "active"
 ---
 
 # § 6601. Congressional findings; priority goals
@@ -31,3 +32,211 @@ generated_at: "2026-03-30T02:56:11.262Z"
   - **(11)** improving the Nation’s housing, transportation, and communication systems, and assuring the provision of effective public services throughout urban, suburban, and rural areas;
   - **(12)** eliminating air and water pollution, and unnecessary, unhealthful, or ineffective drugs and food additives; and
   - **(13)** advancing the exploration and peaceful uses of outer space.
+
+Short Title
+
+Report on Federal Research and Development Focused on Industries of the Future.—
+
+In general
+
+Contents
+
+Industries of the Future Coordination Council.—
+
+Establishment.—
+
+In general
+
+Designation
+
+Membership.—
+
+Composition
+
+Chairperson
+
+Duties
+
+Coordination
+
+Applicability of faca
+
+Sunset
+
+Interagency Working Group.—
+
+In general
+
+Membership.—
+
+In general
+
+Chair
+
+Responsibilities of the working group
+
+Policy guidance
+
+Coordination with national academies roundtable
+
+Interim report
+
+Biennial reporting
+
+Termination
+
+National Academies Science, Technology and Security Roundtable.—
+
+In general
+
+Participants
+
+Purpose
+
+Report and briefing
+
+Termination
+
+Definitions
+
+High-energy Physics.—
+
+In general
+
+Purposes
+
+Responsibilities
+
+Radiation Biology.—
+
+In general
+
+Responsibilities for radiation biology
+
+Fusion Energy Sciences.—
+
+In general
+
+Responsibilities for fusion energy sciences
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Donald J. Trump.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+William J. Clinton.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+J.R. Biden, Jr.
+
+## Source Credit
+
+*([Pub. L. 94–282, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/282), May 11, 1976, [90 Stat. 459](https://www.govinfo.gov/link/statute/90/459).)*

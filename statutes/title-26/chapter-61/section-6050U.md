@@ -3,9 +3,10 @@ title: "Section 6050U - Charges or payments for qualified long-term care insuran
 usc_title: 26
 usc_section: "6050U"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6050U"
-generated_at: "2026-03-30T02:55:27.835Z"
+generated_at: "2026-11-23T20:26:46.537Z"
+status: "active"
 ---
 
 # § 6050U. Charges or payments for qualified long-term care insurance contracts under combined arrangements
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:27.835Z"
 - **(b)** Every person required to make a return under subsection (a) shall furnish to each individual whose name is required to be set forth in such return a written statement showing—
   - **(1)** the name, address, and phone number of the information contact of the person making the payments, and
   - **(2)** the information required to be shown on the return with respect to such individual.
+
+## Source Credit
+
+*(Added [Pub. L. 109–280, title VIII, § 844(d)(1)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1012](https://www.govinfo.gov/link/statute/120/1012).)*

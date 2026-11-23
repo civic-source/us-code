@@ -3,9 +3,10 @@ title: "Section 384d - Accreditation of third-party auditors"
 usc_title: 21
 usc_section: "384d"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 384d"
-generated_at: "2026-03-30T02:54:54.278Z"
+generated_at: "2026-11-23T20:26:27.763Z"
+status: "active"
 ---
 
 # § 384d. Accreditation of third-party auditors
@@ -104,3 +105,7 @@ generated_at: "2026-03-30T02:54:54.278Z"
 - **(h)**
   - **(1)** The audits performed under this section shall not be considered inspections under section 374 of this title .
   - **(2)** Nothing in this section affects the authority of the Secretary to inspect any eligible entity pursuant to this chapter.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 808, as added [Pub. L. 111–353, title III, § 307](https://www.govinfo.gov/link/plaw/111/public/353), Jan. 4, 2011, [124 Stat. 3959](https://www.govinfo.gov/link/statute/124/3959).)*

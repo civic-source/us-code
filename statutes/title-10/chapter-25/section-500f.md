@@ -3,9 +3,10 @@ title: "Section 500f - Evaluations of abilities of armed forces and combatant co
 usc_title: 10
 usc_section: "500f"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 500f"
-generated_at: "2026-03-30T02:53:38.063Z"
+generated_at: "2026-11-23T20:25:50.978Z"
+status: "active"
 ---
 
 # § 500f. Evaluations of abilities of armed forces and combatant commands to perform electromagnetic spectrum operations missions
@@ -39,3 +40,11 @@ generated_at: "2026-03-30T02:53:38.063Z"
     - **(C)** Mission rehearsal and exercises.
     - **(D)** Force positioning, posture, and readiness.
   - **(3)** Not later than December 31 of each year in which an evaluation is required under paragraph (A), the Chairman of the Joint Chiefs of Staff, acting through the operational lead, shall brief the congressional defense committees on the results of the evaluation.
+
+Evaluations of Armed Forces
+
+Evaluations of Combatant Commands
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title XVI, § 1682(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 616](https://www.govinfo.gov/link/statute/137/616), § 506; renumbered § 500f, [Pub. L. 118–159, div. A, title XVII, § 1701(a)(10)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2203](https://www.govinfo.gov/link/statute/138/2203).)*

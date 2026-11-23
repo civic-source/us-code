@@ -3,9 +3,10 @@ title: "Section 1412 - International Dolphin Conservation Program"
 usc_title: 16
 usc_section: "1412"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1412"
-generated_at: "2026-03-30T02:54:22.964Z"
+generated_at: "2026-11-23T20:26:20.475Z"
+status: "active"
 ---
 
 # § 1412. International Dolphin Conservation Program
@@ -26,3 +27,7 @@ The Secretary of State, in consultation with the Secretary, shall seek to secure
     - **(B)** as appropriate to consider recommendations to further the objectives set under that paragraph;
   - **(7)** the establishment of a per vessel maximum annual dolphin mortality limit consistent with the established per-year mortality limits, as determined under paragraphs (1) through (3); and
   - **(8)** the provision of a system of incentives to vessel captains to continue to reduce dolphin mortality, with the goal of eliminating dolphin mortality.
+
+## Source Credit
+
+*([Pub. L. 92–522, title III, § 302](https://www.govinfo.gov/link/plaw/92/public/522), as added [Pub. L. 105–42, § 6(c)](https://www.govinfo.gov/link/plaw/105/public/42), Aug. 15, 1997, [111 Stat. 1130](https://www.govinfo.gov/link/statute/111/1130).)*

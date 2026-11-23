@@ -3,12 +3,17 @@ title: "Section 4a - Prevention of misuse of nonpublic information"
 usc_title: 15
 usc_section: "4a"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 4a"
-generated_at: "2026-03-30T02:54:08.072Z"
+generated_at: "2026-11-23T20:26:03.639Z"
+status: "active"
 ---
 
 # § 80b–4a. Prevention of misuse of nonpublic information
 
 Every investment adviser subject to section 80b–4 of this title shall establish, maintain, and enforce written policies and procedures reasonably designed, taking into consideration the nature of such investment adviser’s business, to prevent the misuse in violation of this chapter or the Securities Exchange Act of 1934 [ 15 U.S.C. 78a et seq.], or the rules or regulations thereunder, of material, nonpublic information by such investment adviser or any person associated with such investment adviser. The Commission, as it deems necessary or appropriate in the public interest or for the protection of investors, shall adopt rules or regulations to require specific policies or procedures reasonably designed to prevent misuse in violation of this chapter or the Securities Exchange Act of 1934 (or the rules or regulations thereunder) of material, nonpublic information.
 
+
+## Source Credit
+
+*(Aug. 22, 1940, ch. 686, title II, § 204A, as added [Pub. L. 100–704, § 3(b)(2)](https://www.govinfo.gov/link/plaw/100/public/704), Nov. 19, 1988, [102 Stat. 4680](https://www.govinfo.gov/link/statute/102/4680).)*

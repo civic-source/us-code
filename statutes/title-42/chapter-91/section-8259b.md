@@ -3,9 +3,10 @@ title: "Section 8259b - Federal procurement of energy efficient products"
 usc_title: 42
 usc_section: "8259b"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8259b"
-generated_at: "2026-03-30T02:56:11.339Z"
+generated_at: "2026-11-23T20:27:23.022Z"
+status: "active"
 ---
 
 # § 8259b. Federal procurement of energy efficient products
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:56:11.339Z"
     - **(B)** the utility and performance of the eligible product is not compromised by the lower wattage requirement.
   - **(4)** The Secretary, in consultation with the Secretary of Defense, the Administrator of the Environmental Protection Agency, and the Administrator of General Services, shall compile a publicly accessible list of cost-effective eligible products that shall be subject to the purchasing requirements of paragraph (2).
 - **(f)** Not later than 180 days after August 8, 2005 , the Secretary shall issue guidelines to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 95–619, title V, § 553](https://www.govinfo.gov/link/plaw/95/public/619), as added [Pub. L. 109–58, title I, § 104(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 609](https://www.govinfo.gov/link/statute/119/609); amended [Pub. L. 110–140, title V](https://www.govinfo.gov/link/plaw/110/public/140), §§ 524, 525(a), Dec. 19, 2007, [121 Stat. 1662](https://www.govinfo.gov/link/statute/121/1662), 1663.)*

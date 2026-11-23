@@ -3,9 +3,10 @@ title: "Section 4825 - Effect on other acts"
 usc_title: 50
 usc_section: "4825"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4825"
-generated_at: "2026-03-30T02:56:26.285Z"
+generated_at: "2026-11-23T20:27:31.149Z"
+status: "active"
 ---
 
 # § 4825. Effect on other acts
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:26.285Z"
     - **(B)** should regularly work to reduce complexity in the system, including complexity caused merely by the existence of structural, definitional, and other non-policy based differences between and among different export control and sanctions systems; and
     - **(C)** should coordinate controls on items exported, reexported, or in-country transferred in connection with a foreign military sale under chapter 2 of the Arms Export Control Act ( 22 U.S.C. 2761 et seq.) or a commercial sale under section 38 of the Arms Export Control Act [ 22 U.S.C. 2778 ] to reduce as much unnecessary administrative burden as possible that is a result of differences between the exercise of those two authorities.
 - **(c)** Nothing in this subchapter shall be construed to supersede the procedures published by the President pursuant to section 2139a(c) of title 42 .
+
+## Source Credit
+
+*([Pub. L. 115–232, div. A, title XVII, § 1767](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2233](https://www.govinfo.gov/link/statute/132/2233).)*

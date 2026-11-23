@@ -3,12 +3,17 @@ title: "Section 237 - Embedded mental health providers of the reserve components
 usc_title: 10
 usc_section: "237"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 237"
-generated_at: "2026-03-30T02:53:38.048Z"
+generated_at: "2026-11-23T20:25:50.887Z"
+status: "active"
 ---
 
 # § 237. Embedded mental health providers of the reserve components: display of budget information
 
 The Secretary of Defense shall submit to Congress, as a part of the documentation that supports the President’s annual budget for the Department of Defense, a budget justification display with respect to embedded mental health providers within each reserve component, including the amount requested for each such component.
 
+
+## Source Credit
+
+*(Added [Pub. L. 113–66, div. A, title VII, § 721(a)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 799](https://www.govinfo.gov/link/statute/127/799).)*

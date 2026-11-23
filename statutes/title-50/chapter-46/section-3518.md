@@ -3,9 +3,10 @@ title: "Section 3518 - Special annuity computation rules for certain employees�
 usc_title: 50
 usc_section: "3518"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3518"
-generated_at: "2026-03-30T02:56:26.255Z"
+generated_at: "2026-11-23T20:27:31.017Z"
+status: "active"
 ---
 
 # § 3518. Special annuity computation rules for certain employees’ service abroad
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:26.255Z"
   - **(4)** For purposes of this subsection, the term “total service” has the meaning given such term under chapter 83 of title 5.
 - **(c)** For purposes of subsections (f) through (m) of section 8339 of title 5 , an annuity computed under this section shall be deemed to be an annuity computed under subsections (a) and ( o ) 1 1 See References in Text note below. of section 8339 of title 5 .
 - **(d)** The provisions of subsection (a) of this section shall not apply to an officer or employee of the Central Intelligence Agency who would otherwise be entitled to a greater annuity computed under an otherwise applicable subsection of section 8339 of title 5 .
+
+## Source Credit
+
+*(June 20, 1949, ch. 227, § 18, as added [Pub. L. 101–193, title III, § 305](https://www.govinfo.gov/link/plaw/101/public/193), Nov. 30, 1989, [103 Stat. 1704](https://www.govinfo.gov/link/statute/103/1704); amended [Pub. L. 102–496, title VIII, § 803(a)(2)](https://www.govinfo.gov/link/plaw/102/public/496), Oct. 24, 1992, [106 Stat. 3252](https://www.govinfo.gov/link/statute/106/3252).)*

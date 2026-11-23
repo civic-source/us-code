@@ -3,9 +3,10 @@ title: "Section 1293 - Current taxation of income from qualified electing funds"
 usc_title: 26
 usc_section: "1293"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1293"
-generated_at: "2026-03-30T02:55:27.767Z"
+generated_at: "2026-11-23T20:26:46.078Z"
+status: "active"
 ---
 
 # § 1293. Current taxation of income from qualified electing funds
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:27.767Z"
         - **(II)** effectively connected with the conduct by the qualified electing fund of a trade or business in the United States, and
         - **(III)** not exempt from taxation (or subject to a reduced rate of tax) pursuant to a treaty obligation of the United States.
   - **(2)** The Secretary shall prescribe such adjustment to the provisions of this section as may be necessary to prevent the same item of income of a qualified electing fund from being included in the gross income of a United States person more than once.
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title XII, § 1235(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2569](https://www.govinfo.gov/link/statute/100/2569); amended [Pub. L. 100–647, title I, § 1012(p)(15)](https://www.govinfo.gov/link/plaw/100/public/647), (18), (23), (32), Nov. 10, 1988, [102 Stat. 3518](https://www.govinfo.gov/link/statute/102/3518), 3519, 3521; [Pub. L. 103–66, title XIII, § 13231(c)(3)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 498](https://www.govinfo.gov/link/statute/107/498); [Pub. L. 105–34, title XI, § 1122(d)(3)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 977](https://www.govinfo.gov/link/statute/111/977); [Pub. L. 115–97, title I, § 14301(c)(35)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2224](https://www.govinfo.gov/link/statute/131/2224).)*

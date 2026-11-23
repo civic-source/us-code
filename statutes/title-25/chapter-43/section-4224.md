@@ -3,9 +3,10 @@ title: "Section 4224 - Review of plans"
 usc_title: 25
 usc_section: "4224"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 4224"
-generated_at: "2026-03-30T02:54:52.861Z"
+generated_at: "2026-11-23T20:26:25.694Z"
+status: "active"
 ---
 
 # § 4224. Review of plans
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:52.861Z"
   - **(1)** Subject to paragraph (2), after a plan under section 4223 of this title has been submitted for a fiscal year, the Director of the Department of Hawaiian Home Lands may comply with the provisions of that section for any succeeding fiscal year (with respect to information included for the 5-year period under section 4223(b) of this title or for the 1-year period under section 4223(c) of this title ) by submitting only such information regarding such changes as may be necessary to update the plan previously submitted.
   - **(2)** The Director shall submit a complete plan under section 4223 of this title not later than 4 years after submitting an initial plan under that section, and not less frequently than every 4 years thereafter.
 - **(e)** This section and section 4223 of this title shall take effect on the date provided by the Secretary pursuant to section 4227(a) 1 1 So in original. Probably should be section “4227”. of this title to provide for timely submission and review of the housing plan as necessary for the provision of assistance under this subchapter for fiscal year 2001.
+
+## Source Credit
+
+*([Pub. L. 104–330, title VIII, § 804](https://www.govinfo.gov/link/plaw/104/public/330), as added [Pub. L. 106–568, title II, § 203](https://www.govinfo.gov/link/plaw/106/public/568), Dec. 27, 2000, [114 Stat. 2881](https://www.govinfo.gov/link/statute/114/2881), and [Pub. L. 106–569, title V, § 513](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 2975](https://www.govinfo.gov/link/statute/114/2975).)*

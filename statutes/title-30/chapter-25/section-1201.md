@@ -3,9 +3,10 @@ title: "Section 1201 - Congressional findings"
 usc_title: 30
 usc_section: "1201"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1201"
-generated_at: "2026-03-30T02:55:29.396Z"
+generated_at: "2026-11-23T20:26:34.993Z"
+status: "active"
 ---
 
 # § 1201. Congressional findings
@@ -23,3 +24,7 @@ The Congress finds and declares that—
 - **(i)** while there is a need to regulate surface mining operations for minerals other than coal, more data and analyses are needed to serve as a basis for effective and reasonable regulation of such operations;
 - **(j)** surface and underground coal mining operations affect interstate commerce, contribute to the economic well-being, security, and general welfare of the Nation and should be conducted in an environmentally sound manner; and
 - **(k)** the cooperative effort established by this chapter is necessary to prevent or mitigate adverse environmental effects of present and future surface coal mining operations.
+
+## Source Credit
+
+*([Pub. L. 95–87, title I, § 101](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 447](https://www.govinfo.gov/link/statute/91/447).)*

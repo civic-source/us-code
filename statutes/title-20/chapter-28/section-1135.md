@@ -3,9 +3,10 @@ title: "Section 1135 - Grants to academic departments and programs of institutio
 usc_title: 20
 usc_section: "1135"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1135"
-generated_at: "2026-03-30T02:54:48.146Z"
+generated_at: "2026-11-23T20:26:14.564Z"
+status: "active"
 ---
 
 # § 1135. Grants to academic departments and programs of institutions
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:48.146Z"
 - **(c)**
   - **(1)** The Secretary shall make new grant awards under this subpart only to the extent that each previous grant recipient under this subpart has received continued funding in accordance with subsection (b)(2)(A).
   - **(2)** To the extent that appropriations under this subpart are insufficient to comply with paragraph (1), available funds shall be distributed by ratably reducing the amounts required to be awarded under subsection (b)(2)(A).
+
+## Source Credit
+
+*([Pub. L. 89–329, title VII, § 711](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title VII, § 701](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1790](https://www.govinfo.gov/link/statute/112/1790); amended [Pub. L. 110–315, title VII, § 703(e)(1)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3347](https://www.govinfo.gov/link/statute/122/3347).)*

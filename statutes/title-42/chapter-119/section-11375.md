@@ -3,9 +3,10 @@ title: "Section 11375 - Responsibilities of recipients"
 usc_title: 42
 usc_section: "11375"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11375"
-generated_at: "2026-03-30T02:56:11.398Z"
+generated_at: "2026-11-23T20:27:23.298Z"
+status: "active"
 ---
 
 # § 11375. Responsibilities of recipients
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:11.398Z"
 - **(d)** The Secretary shall, by regulation, require each recipient that is not a State to provide for the participation of not less than 1 homeless individual or former homeless individual on the board of directors or other equivalent policymaking entity of such recipient, to the extent that such entity considers and makes policies and decisions regarding any facility, services, or other assistance of the recipient assisted under this part. The Secretary may grant waivers to recipients unable to meet the requirement under the preceding sentence if the recipient agrees to otherwise consult with homeless or formerly homeless individuals in considering and making such policies and decisions.
 - **(e)** If an individual or family who receives assistance under this part from a recipient violates program requirements, the recipient may terminate assistance in accordance with a formal process established by the recipient that recognizes the rights of individuals affected, which may include a hearing.
 - **(f)** The Secretary shall ensure that recipients of funds under this part ensure the consistent participation by emergency shelters and homelessness prevention and rehousing programs in any applicable community-wide homeless management information system.
+
+## Source Credit
+
+*([Pub. L. 100–77, title IV, § 416](https://www.govinfo.gov/link/plaw/100/public/77), formerly § 415, July 22, 1987, [101 Stat. 497](https://www.govinfo.gov/link/statute/101/497); [Pub. L. 100–628, title IV, § 424](https://www.govinfo.gov/link/plaw/100/public/628), Nov. 7, 1988, [102 Stat. 3232](https://www.govinfo.gov/link/statute/102/3232); [Pub. L. 101–625, title VIII, § 832(e)(1)](https://www.govinfo.gov/link/plaw/101/public/625), (2), (h), Nov. 28, 1990, [104 Stat. 4360](https://www.govinfo.gov/link/statute/104/4360), 4362; [Pub. L. 102–550, title XIV, § 1402(b)](https://www.govinfo.gov/link/plaw/102/public/550) –(d), Oct. 28, 1992, [106 Stat. 4012](https://www.govinfo.gov/link/statute/106/4012), 4013; [Pub. L. 104–330, title V, § 506(a)(5)](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4044](https://www.govinfo.gov/link/statute/110/4044); renumbered § 416 and amended [Pub. L. 111–22, div. B, title II](https://www.govinfo.gov/link/plaw/111/public/22), §§ 1201(3), 1203, May 20, 2009, [123 Stat. 1678](https://www.govinfo.gov/link/statute/123/1678), 1680.)*

@@ -3,9 +3,10 @@ title: "Section 1232d - Single State application"
 usc_title: 20
 usc_section: "1232d"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1232d"
-generated_at: "2026-03-30T02:54:48.157Z"
+generated_at: "2026-11-23T20:26:14.617Z"
+status: "active"
 ---
 
 # § 1232d. Single State application
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:48.157Z"
     - **(D)** the State will provide an opportunity for interested agencies, organizations, and individuals to suggest improvements in the administration of the program and to allege that there has been a failure by any entity to comply with applicable statutes and regulations; and
   - **(8)** that none of the funds expended under any applicable program will be used to acquire equipment (including computer software) in any instance in which such acquisition results in a direct financial benefit to any organization representing the interests of the purchasing entity or its employees or any affiliate of such an organization.
 - **(c)** Each general application submitted under this section shall remain in effect for the duration of any program it covers. The Secretary shall not require the resubmission or amendment of that application unless required by changes in Federal or State law or by other significant changes in the circumstances affecting an assurance in that application.
+
+## Source Credit
+
+*([Pub. L. 90–247, title IV, § 441](https://www.govinfo.gov/link/plaw/90/public/247), formerly § 435, as added [Pub. L. 95–561, title XII, § 1231(a)(3)](https://www.govinfo.gov/link/plaw/95/public/561), Nov. 1, 1978, [92 Stat. 2343](https://www.govinfo.gov/link/statute/92/2343); amended [Pub. L. 98–511, title VII, § 706(a)](https://www.govinfo.gov/link/plaw/98/public/511), Oct. 19, 1984, [98 Stat. 2406](https://www.govinfo.gov/link/statute/98/2406); [Pub. L. 100–297, title III, § 3501(c)](https://www.govinfo.gov/link/plaw/100/public/297), Apr. 28, 1988, [102 Stat. 357](https://www.govinfo.gov/link/statute/102/357); renumbered § 441 and amended [Pub. L. 103–382, title II](https://www.govinfo.gov/link/plaw/103/public/382), §§ 212(b)(1), (3)(A), 261(f), Oct. 20, 1994, [108 Stat. 3913](https://www.govinfo.gov/link/statute/108/3913), 3928; [Pub. L. 107–110, title X, § 1062(2)](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2087](https://www.govinfo.gov/link/statute/115/2087); [Pub. L. 114–95, title IX, § 9215(mm)(4)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2176](https://www.govinfo.gov/link/statute/129/2176).)*

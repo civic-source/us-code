@@ -3,9 +3,10 @@ title: "Section 1122 - Transparency of programs, priority goals, and results"
 usc_title: 31
 usc_section: "1122"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 1122"
-generated_at: "2026-03-30T02:55:34.049Z"
+generated_at: "2026-11-23T20:26:51.717Z"
+status: "active"
 ---
 
 # § 1122. Transparency of programs, priority goals, and results
@@ -87,3 +88,35 @@ generated_at: "2026-03-30T02:55:34.049Z"
   - **(8)** an identification of the Federal Government priority goals at risk of not achieving the planned level of performance; and
   - **(9)** any prospects or strategies for performance improvement.
 - **(d)** The information made available under this section shall be readily accessible and easily found on the Internet by the public and members and committees of Congress. Such information shall also be presented in a searchable, machine-readable format. The Director of the Office of Management and Budget shall issue guidance to ensure that such information is provided in a way that presents a coherent picture of all Federal programs, and the performance of the Federal Government as well as individual agencies.
+
+Transparency of Agency Programs.—
+
+Definitions
+
+Website and program inventory
+
+Information
+
+Archiving
+
+Transparency of Agency Priority Goals and Results
+
+Transparency of Federal Government Priority Goals and Results
+
+Information
+
+Definitions
+
+Plan for implementation and reconciling program definitions
+
+Implementation.—
+
+In general
+
+Extensions
+
+Reporting
+
+## Source Credit
+
+*(Added [Pub. L. 111–352, § 7](https://www.govinfo.gov/link/plaw/111/public/352), Jan. 4, 2011, [124 Stat. 3876](https://www.govinfo.gov/link/statute/124/3876); amended [Pub. L. 116–283, div. H, title XCVI, § 9601(a)](https://www.govinfo.gov/link/plaw/116/public/283), (c)(1), Jan. 1, 2021, [134 Stat. 4823](https://www.govinfo.gov/link/statute/134/4823), 4827; [Pub. L. 118–190, § 3](https://www.govinfo.gov/link/plaw/118/public/190), Dec. 23, 2024, [138 Stat. 2654](https://www.govinfo.gov/link/statute/138/2654).)*

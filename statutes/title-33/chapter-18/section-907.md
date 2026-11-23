@@ -3,9 +3,10 @@ title: "Section 907 - Medical services and supplies"
 usc_title: 33
 usc_section: "907"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 907"
-generated_at: "2026-03-30T02:55:41.076Z"
+generated_at: "2026-11-23T20:26:53.933Z"
+status: "active"
 ---
 
 # § 907. Medical services and supplies
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:55:41.076Z"
 - **(k)**
   - **(1)** Nothing in this chapter prevents an employee whose injury or disability has been established under this chapter from relying in good faith on treatment by prayer or spiritual means alone, in accordance with the tenets and practice of a recognized church or religious denomination, by an accredited practitioner of such recognized church or religious denomination, and on nursing services rendered in accordance with such tenets and practice, without suffering loss or diminution of the compensation or benefits under this chapter. Nothing in this subsection shall be construed to except an employee from all physical examinations required by this chapter.
   - **(2)** If an employee refuses to submit to medical or surgical services solely because, in adherence to the tenets and practice of a recognized church or religious denomination, the employee relies upon prayer or spiritual means alone for healing, such employee shall not be considered to have unreasonably refused medical or surgical treatment under subsection (d).
+
+## Source Credit
+
+*(Mar. 4, 1927, ch. 509, § 7, [44 Stat. 1427](https://www.govinfo.gov/link/statute/44/1427); May 26, 1934, ch. 354, § 1, [48 Stat. 806](https://www.govinfo.gov/link/statute/48/806); June 25, 1938, ch. 685, §§ 2, 3, [52 Stat. 1165](https://www.govinfo.gov/link/statute/52/1165); [Pub. L. 86–757](https://www.govinfo.gov/link/plaw/86/public/757), Sept. 13, 1960, [74 Stat. 900](https://www.govinfo.gov/link/statute/74/900); [Pub. L. 92–576, § 6](https://www.govinfo.gov/link/plaw/92/public/576), Oct. 27, 1972, [86 Stat. 1254](https://www.govinfo.gov/link/statute/86/1254); [Pub. L. 98–426, § 7](https://www.govinfo.gov/link/plaw/98/public/426), Sept. 28, 1984, [98 Stat. 1642](https://www.govinfo.gov/link/statute/98/1642).)*

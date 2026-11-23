@@ -3,9 +3,10 @@ title: "Section 122 - Access to information"
 usc_title: 6
 usc_section: "122"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 122"
-generated_at: "2026-03-30T02:53:09.444Z"
+generated_at: "2026-11-23T20:25:34.640Z"
+status: "active"
 ---
 
 # § 122. Access to information
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:09.444Z"
 - **(d)**
   - **(1)** Nothing in this subchapter shall preclude any element of the intelligence community (as that term is defined in section 3003(4) of title 50 , 1 1 So in original. There probably should be a closing parenthesis after “50”. or any other element of the Federal Government with responsibility for analyzing terrorist threat information, from receiving any intelligence or other information relating to terrorism.
   - **(2)** The Secretary, in consultation with the Director of National Intelligence, shall work to ensure that intelligence or other information relating to terrorism to which the Department has access is appropriately shared with the elements of the Federal Government referred to in paragraph (1), as well as with State and local governments, as appropriate.
+
+## Source Credit
+
+*([Pub. L. 107–296, title II, § 202](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2149](https://www.govinfo.gov/link/statute/116/2149); [Pub. L. 115–278, § 2(g)(2)(D)](https://www.govinfo.gov/link/plaw/115/public/278), Nov. 16, 2018, [132 Stat. 4177](https://www.govinfo.gov/link/statute/132/4177).)*

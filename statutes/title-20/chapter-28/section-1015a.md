@@ -3,9 +3,10 @@ title: "Section 1015a - Transparency in college tuition for consumers"
 usc_title: 20
 usc_section: "1015a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1015a"
-generated_at: "2026-03-30T02:54:48.093Z"
+generated_at: "2026-11-23T20:26:14.307Z"
+status: "active"
 ---
 
 # § 1015a. Transparency in college tuition for consumers
@@ -172,3 +173,7 @@ generated_at: "2026-03-30T02:54:48.093Z"
   - **(3)** The survey shall be representative of students from all types of institutions, including full-time and part-time students, undergraduate, graduate, and professional students, and current and former students.
   - **(4)** The Commissioner for Education Statistics shall disseminate to the public, in printed and electronic form, the information resulting from the survey.
 - **(l)** The Secretary is authorized to issue such regulations as may be necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 89–329, title I, § 132](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title I, § 111](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3098](https://www.govinfo.gov/link/statute/122/3098).)*

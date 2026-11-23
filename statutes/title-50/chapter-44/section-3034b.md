@@ -3,9 +3,10 @@ title: "Section 3034b - Intelligence Community Chief Data Officer"
 usc_title: 50
 usc_section: "3034b"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3034b"
-generated_at: "2026-03-30T02:56:26.229Z"
+generated_at: "2026-11-23T20:27:30.892Z"
+status: "active"
 ---
 
 # § 3034b. Intelligence Community Chief Data Officer
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:26.229Z"
   - **(2)** coordinate, to the extent practicable and advisable, with the Chief Data Officer of the Department of Defense to ensure consistent data policies, standards, and procedures between the intelligence community and the Department of Defense;
   - **(3)** assist the Director of National Intelligence regarding data elements of the budget of the Office of the Director of National Intelligence; and
   - **(4)** perform other such duties relating to data as may be prescribed by the Director of National Intelligence or specified in law.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title I, § 103K, as added [Pub. L. 117–263, div. F, title LXVII, § 6704](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3562](https://www.govinfo.gov/link/statute/136/3562); amended [Pub. L. 118–31, div. G, title III, § 7310(b)(1)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1028](https://www.govinfo.gov/link/statute/137/1028).)*

@@ -3,9 +3,10 @@ title: "Section 8168 - Annual reports"
 usc_title: 38
 usc_section: "8168"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 8168"
-generated_at: "2026-03-30T02:55:53.539Z"
+generated_at: "2026-11-23T20:27:02.086Z"
+status: "active"
 ---
 
 # § 8168. Annual reports
@@ -25,3 +26,13 @@ generated_at: "2026-03-30T02:55:53.539Z"
     - **(C)** The amount of any revenues collected by the Secretary relating to the lease not covered by subparagraph (B), including a description of any in-kind assistance or services provided by the lessee to the Secretary or to veterans under an agreement entered into by the Secretary pursuant to any provision of law.
     - **(D)** The costs to the Secretary of carrying out the lease.
     - **(E)** Documents of the Department supporting the contents of the report described in subparagraphs (A) through (D).
+
+Report on Administration of Leases
+
+Report on Lease Consideration
+
+“The first report submitted by the Secretary under section 8168(a) of title 38 , United States Code, as added by paragraph (1) [and prior to amendment by Pub. L. 114–226 ], shall include a summary of those measures the Secretary is taking to address the following recommendations from the February 9, 2012 , audit report of the Department of Veterans Affairs Office of Inspector General on enhanced-use leases under subchapter V of chapter 81 of title 38, United States Code:
+
+## Source Credit
+
+*(Added Pub. L. 112—154, title II, § 211(i)(1), Aug. 6, 2012, [126 Stat. 1181](https://www.govinfo.gov/link/statute/126/1181); amended [Pub. L. 114–226, § 3(c)(2)](https://www.govinfo.gov/link/plaw/114/public/226), Sept. 29, 2016, [130 Stat. 931](https://www.govinfo.gov/link/statute/130/931).)*

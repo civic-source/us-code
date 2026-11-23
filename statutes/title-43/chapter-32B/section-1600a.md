@@ -3,9 +3,10 @@ title: "Section 1600a - Definitions"
 usc_title: 43
 usc_section: "1600a"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1600a"
-generated_at: "2026-03-30T02:55:57.478Z"
+generated_at: "2026-11-23T20:27:06.314Z"
+status: "active"
 ---
 
 # § 1600a. Definitions
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:57.478Z"
 - **(c)** The term “Secretary” means the Secretary of the Interior.
 - **(d)** The term “water district” means any public agency providing water service, including water districts, county water districts, public utility districts, and irrigation districts.
 - **(e)** The term “Floodway” means the Colorado River Floodway established in section 1600c of this title .
+
+## Source Credit
+
+*([Pub. L. 99–450, § 3](https://www.govinfo.gov/link/plaw/99/public/450), Oct. 8, 1986, [100 Stat. 1129](https://www.govinfo.gov/link/statute/100/1129); [Pub. L. 103–437, § 16(a)(4)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4594](https://www.govinfo.gov/link/statute/108/4594).)*

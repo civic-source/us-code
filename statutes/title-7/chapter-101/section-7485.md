@@ -3,9 +3,10 @@ title: "Section 7485 - Referenda"
 usc_title: 7
 usc_section: "7485"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7485"
-generated_at: "2026-03-30T02:53:42.454Z"
+generated_at: "2026-11-23T20:25:41.792Z"
+status: "active"
 ---
 
 # § 7485. Referenda
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:42.454Z"
 - **(e)**
   - **(1)** The ballots and other information or reports that reveal or tend to reveal the vote of any processor, or any business operation of a processor, shall be considered to be strictly confidential and shall not be disclosed.
   - **(2)** An officer or employee of the Department who knowingly violates paragraph (1) shall be subject to the penalties described in section 7484(i)(3)(C)(ii) of this title .
+
+## Source Credit
+
+*([Pub. L. 104–127, title V, § 576](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1081](https://www.govinfo.gov/link/statute/110/1081).)*

@@ -3,9 +3,10 @@ title: "Section 9913 - Training, technical assistance, and other activities"
 usc_title: 42
 usc_section: "9913"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9913"
-generated_at: "2026-03-30T02:56:11.377Z"
+generated_at: "2026-11-23T20:27:23.191Z"
+status: "active"
 ---
 
 # § 9913. Training, technical assistance, and other activities
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.377Z"
 - **(c)**
   - **(1)** The amounts reserved under section 9903(b)(2)(A) of this title for activities to be carried out under this subsection shall be distributed directly to eligible entities, organizations, or associations described in paragraph (2) for the purpose of improving program quality (including quality of financial management practices), management information and reporting systems, and measurement of program results, and for the purpose of ensuring responsiveness to identified local needs.
   - **(2)** Eligible entities, organizations, or associations described in this paragraph shall be eligible entities, or statewide or local organizations or associations, with demonstrated expertise in providing training to individuals and organizations on methods of effectively addressing the needs of low-income families and communities.
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 678A](https://www.govinfo.gov/link/plaw/97/public/35), as added [Pub. L. 105–285, title II, § 201](https://www.govinfo.gov/link/plaw/105/public/285), Oct. 27, 1998, [112 Stat. 2742](https://www.govinfo.gov/link/statute/112/2742).)*

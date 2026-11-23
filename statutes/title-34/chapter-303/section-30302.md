@@ -3,9 +3,10 @@ title: "Section 30302 - Purposes"
 usc_title: 34
 usc_section: "30302"
 chapter: 303
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 30302"
-generated_at: "2026-03-30T02:55:33.306Z"
+generated_at: "2026-11-23T20:26:50.628Z"
+status: "active"
 ---
 
 # § 30302. Purposes
@@ -21,3 +22,7 @@ The purposes of this chapter are to—
   - **(7)** protect the Eighth Amendment rights of Federal, State, and local prisoners;
   - **(8)** increase the efficiency and effectiveness of Federal expenditures through grant programs such as those dealing with health care; mental health care; disease prevention; crime prevention, investigation, and prosecution; prison construction, maintenance, and operation; race relations; poverty; unemployment; and homelessness; and
   - **(9)** reduce the costs that prison rape imposes on interstate commerce.
+
+## Source Credit
+
+*([Pub. L. 108–79, § 3](https://www.govinfo.gov/link/plaw/108/public/79), Sept. 4, 2003, [117 Stat. 974](https://www.govinfo.gov/link/statute/117/974).)*

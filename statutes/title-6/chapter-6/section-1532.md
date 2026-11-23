@@ -3,9 +3,10 @@ title: "Section 1532 - Enhancement of emergency services"
 usc_title: 6
 usc_section: "1532"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 1532"
-generated_at: "2026-03-30T02:53:09.511Z"
+generated_at: "2026-11-23T20:25:34.976Z"
+status: "active"
 ---
 
 # § 1532. Enhancement of emergency services
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:09.511Z"
   - **(2)** require a non-Federal entity (as defined in section 1501 of this title ) to—
     - **(A)** adopt a recommended measure developed under subsection (b); or
     - **(B)** follow the result of the activities carried out under subsection (c), including any methods developed under such subsection.
+
+## Source Credit
+
+*([Pub. L. 114–113, div. N, title IV, § 404](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2980](https://www.govinfo.gov/link/statute/129/2980); [Pub. L. 115–278, § 2(h)(1)(H)](https://www.govinfo.gov/link/plaw/115/public/278), Nov. 16, 2018, [132 Stat. 4183](https://www.govinfo.gov/link/statute/132/4183).)*

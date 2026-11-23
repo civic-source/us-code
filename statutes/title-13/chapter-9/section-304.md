@@ -3,9 +3,10 @@ title: "Section 304 - Filing export information, delayed filings, penalties for 
 usc_title: 13
 usc_section: "304"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "13 U.S.C. § 304"
-generated_at: "2026-03-30T02:54:03.338Z"
+generated_at: "2026-11-23T20:25:53.910Z"
+status: "active"
 ---
 
 # § 304. Filing export information, delayed filings, penalties for failure to file
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:03.338Z"
 - **(a)** The information or reports in connection with the exportation or transportation of cargo required to be filed by carriers with the Secretary of the Treasury under any rule, regulation, or order issued pursuant to this chapter may be filed after the departure of such carrier from the port or place of exportation or transportation, whether such departing carrier is destined directly to a foreign port or place or to a noncontiguous area, or proceeds by way of other ports or places of the United States, provided that a bond in an approved form in a penal sum of $10,000 is filed with the Secretary of the Treasury. The Secretary of Commerce may, by a rule, regulation, or order issued in conformity herewith, prescribe a maximum period after such departure during which the required information or reports may be filed. In the event any such information or report is not filed within such prescribed period, a penalty not to exceed $1,000 for each day’s delinquency beyond the prescribed period, but not more than $10,000 per violation shall be exacted. Civil suit may be instituted in the name of the United States against the principal and surety for the recovery of any penalties that may accrue and be exacted in accordance with the terms of the bond.
 - **(b)** Any person, other than a person described in subsection (a), required to submit export information, shall file such information in accordance with any rule, regulation, or order issued pursuant to this chapter. In the event any such information or reports are not filed within such prescribed period, the Secretary of Commerce (and officers of the Department of Commerce specifically designated by the Secretary) may impose a civil penalty not to exceed $1,000 for each day’s delinquency beyond the prescribed period, but not more than $10,000 per violation.
 - **(c)** The Secretary may remit or mitigate any penalty incurred for violations of this section and regulations issued pursuant thereto if, in his opinion, they were incurred without willful negligence or fraud, or other circumstances justify a remission or mitigation.
+
+## Source Credit
+
+*(Added [Pub. L. 87–826, § 2](https://www.govinfo.gov/link/plaw/87/public/826), Oct. 15, 1962, [76 Stat. 952](https://www.govinfo.gov/link/statute/76/952); amended [Pub. L. 107–228, div. B, title XIV, § 1404(e)](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1454](https://www.govinfo.gov/link/statute/116/1454).)*

@@ -3,9 +3,10 @@ title: "Section 1673c - Termination or suspension of investigation"
 usc_title: 19
 usc_section: "1673c"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1673c"
-generated_at: "2026-03-30T02:54:24.651Z"
+generated_at: "2026-11-23T20:26:10.847Z"
+status: "active"
 ---
 
 # § 1673c. Termination or suspension of investigation
@@ -93,3 +94,7 @@ generated_at: "2026-03-30T02:54:24.651Z"
   - **(1)** If the Commission makes a regional industry determination under section 1677(4)(C) of this title , the administering authority shall offer exporters of the subject merchandise who account for substantially all exports of that merchandise for sale in the region concerned the opportunity to enter into an agreement described in subsection (b), (c), or ( l ).
   - **(2)** Any agreement described in paragraph (1) shall be subject to all the requirements imposed under this section for other agreements under subsection (b), (c), or ( l ), except that if the Commission makes a regional industry determination described in paragraph (1) in the final affirmative determination under section 1673d(b) of this title but not in the preliminary affirmative determination under section 1673b(a) of this title , any agreement described in paragraph (1) may be accepted within 60 days after the antidumping order is published under section 1673e of this title .
   - **(3)** If an agreement described in paragraph (1) is accepted after the antidumping duty order is published, the administering authority shall rescind the order, refund any cash deposit and release any bond or other security deposited under section 1673b(d)(1)(B) of this title , and instruct the Customs Service that entries of the subject merchandise that were made during the period that the order was in effect shall be liquidated without regard to antidumping duties.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title VII, § 734, as added [Pub. L. 96–39, title I, § 101](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 165](https://www.govinfo.gov/link/statute/93/165); amended [Pub. L. 98–573, title VI](https://www.govinfo.gov/link/plaw/98/public/573), §§ 604(b), 612(b)(2), Oct. 30, 1984, [98 Stat. 3026](https://www.govinfo.gov/link/statute/98/3026), 3034; [Pub. L. 100–418, title I](https://www.govinfo.gov/link/plaw/100/public/418), §§ 1316(c), 1326(d)(2), Aug. 23, 1988, [102 Stat. 1187](https://www.govinfo.gov/link/statute/102/1187), 1204; [Pub. L. 103–465, title II](https://www.govinfo.gov/link/plaw/103/public/465), §§ 216(b), 217(b), 218(a)(2), 219(c)(2)–(5), 233(a)(1)(B), (2)(A)(ii), (5)(S)–(U), Dec. 8, 1994, [108 Stat. 4853](https://www.govinfo.gov/link/statute/108/4853), 4854, 4857, 4898, 4900; [Pub. L. 114–125, title VIII, § 802(d)(2)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 210](https://www.govinfo.gov/link/statute/130/210).)*

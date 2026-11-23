@@ -3,9 +3,10 @@ title: "Section 6721 - Congressional findings of fact and declaration of policy"
 usc_title: 42
 usc_section: "6721"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6721"
-generated_at: "2026-03-30T02:56:11.265Z"
+generated_at: "2026-11-23T20:27:22.699Z"
+status: "active"
 ---
 
 # § 6721. Congressional findings of fact and declaration of policy
@@ -19,3 +20,7 @@ The Congress finds—
   - **(5)** that the net effect of Federal Government efforts to reduce unemployment through public service jobs is substantially limited if State and local governments use federally financed public service employees to replace regular employees that they have been forced to lay off;
   - **(6)** that efforts to stimulate the construction industry and reduce unemployment are substantially undermined when State and local governments are forced to cancel or delay the construction of essential capital projects; and
   - **(7)** that efforts by the Federal Government to stimulate the economic recovery will be substantially enhanced by a program of emergency Federal Government assistance to State and local governments to help prevent those governments from taking budget-related actions which undermine the Federal Government efforts to stimulate economic recovery.
+
+## Source Credit
+
+*([Pub. L. 94–369, title II, § 201](https://www.govinfo.gov/link/plaw/94/public/369), July 22, 1976, [90 Stat. 1002](https://www.govinfo.gov/link/statute/90/1002).)*

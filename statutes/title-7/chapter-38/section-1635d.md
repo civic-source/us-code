@@ -3,9 +3,10 @@ title: "Section 1635d - Definitions"
 usc_title: 7
 usc_section: "1635d"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1635d"
-generated_at: "2026-03-30T02:53:42.331Z"
+generated_at: "2026-11-23T20:25:41.234Z"
+status: "active"
 ---
 
 # § 1635d. Definitions
@@ -41,3 +42,7 @@ In this part:
     - **(A)** a negotiated purchase;
     - **(B)** a formula market arrangement; and
     - **(C)** a forward contract.
+
+## Source Credit
+
+*(Aug. 14, 1946, ch. 966, title II, § 221, as added [Pub. L. 106–78, title IX, § 911(2)](https://www.govinfo.gov/link/plaw/106/public/78), Oct. 22, 1999, [113 Stat. 1189](https://www.govinfo.gov/link/statute/113/1189).)*

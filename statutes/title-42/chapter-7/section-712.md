@@ -3,9 +3,10 @@ title: "Section 712 - Services to individuals with a postpartum condition and th
 usc_title: 42
 usc_section: "712"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 712"
-generated_at: "2026-03-30T02:56:10.896Z"
+generated_at: "2026-11-23T20:27:20.943Z"
+status: "active"
 ---
 
 # § 712. Services to individuals with a postpartum condition and their families
@@ -38,3 +39,17 @@ generated_at: "2026-03-30T02:56:10.896Z"
     - **(A)** means a public or nonprofit private entity; and
     - **(B)** includes a State or local government, public-private partnership, recipient of a grant under section 254c–8 of this title (relating to the Healthy Start Initiative), public or nonprofit private hospital, community-based organization, hospice, ambulatory care facility, community health center, migrant health center, public housing primary care center, or homeless health center.
   - **(2)** The term “postpartum condition” means postpartum depression or postpartum psychosis.
+
+Research on Postpartum Conditions.—
+
+Expansion and intensification of activities
+
+Sense of congress regarding longitudinal study of relative mental health consequences for women of resolving a pregnancy.—
+
+Sense of congress
+
+Report
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title V, § 512, as added [Pub. L. 111–148, title II, § 2952(b)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 345](https://www.govinfo.gov/link/statute/124/345).)*

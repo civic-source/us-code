@@ -3,9 +3,10 @@ title: "Section 4103 - Claims of employees of contractors"
 usc_title: 50
 usc_section: "4103"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4103"
-generated_at: "2026-03-30T02:56:26.266Z"
+generated_at: "2026-11-23T20:27:31.068Z"
+status: "active"
 ---
 
 # § 4103. Claims of employees of contractors
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:26.266Z"
   - **(1)** The Secretary of State is authorized and directed to cancel any obligation to the United States of any person specified in section 101(a) of such Act of December 2, 1942 [ 42 U.S.C. 1701(a) ], to pay any sum which may have been advanced to or on behalf of any such person by the Department of State for the purpose of paying the costs of food and medical services furnished to such person during his period of internment by the Imperial Japanese Government or for the purpose of paying transportation or other expenses of repatriation.
   - **(2)** The Secretary of Labor is authorized to receive, adjudicate according to law, and provide for the payment of any claim filed by any person specified in section 101(a) of such Act of December 2, 1942 [ 42 U.S.C. 1701(a) ], for the repayment of any sum which may have been paid by such person to the Department of State in settlement of any obligation of the type referred to in paragraph (1) of this subsection. Any claim allowed under the provisions of this paragraph shall be certified by the Secretary of Labor to the Secretary of the Treasury for payment out of the War Claims Fund established by section 4110 of this title .
 - **(c)**
+
+## Source Credit
+
+*(July 3, 1948, ch. 826, title I, § 4, [62 Stat. 1241](https://www.govinfo.gov/link/statute/62/1241); 1950 Reorg. Plan No. 19, § 1, eff. May 24, 1950, 15 F.R. 3178, [64 Stat. 1271](https://www.govinfo.gov/link/statute/64/1271); [Pub. L. 87–846, title I, § 102](https://www.govinfo.gov/link/plaw/87/public/846), Oct. 22, 1962, [76 Stat. 1107](https://www.govinfo.gov/link/statute/76/1107).)*

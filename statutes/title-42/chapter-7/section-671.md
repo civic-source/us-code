@@ -3,9 +3,10 @@ title: "Section 671 - State plan for foster care and adoption assistance"
 usc_title: 42
 usc_section: "671"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 671"
-generated_at: "2026-03-30T02:56:10.887Z"
+generated_at: "2026-11-23T20:27:20.909Z"
+status: "active"
 ---
 
 # § 671. State plan for foster care and adoption assistance
@@ -222,3 +223,93 @@ generated_at: "2026-03-30T02:56:10.887Z"
     - **(A)** The provision of services or programs under this subsection to or on behalf of a child described in paragraph (2) shall not be considered to be receipt of aid or assistance under the State plan under this part for purposes of eligibility for any other program established under this chapter, nor shall the provision of such services or programs be construed to permit the State to reduce medical or other assistance available to a recipient of such services or programs.
     - **(B)** A child described in paragraph (2) for whom such services or programs under this subsection are provided for more than 6 months while in the home of a kin caregiver, and who would satisfy the AFDC eligibility requirement of section 672(a)(3)(A)(ii)(II) of this title but for residing in the home of the caregiver for more than 6 months, is deemed to satisfy that requirement for purposes of determining whether the child is eligible for foster care maintenance payments under section 672 of this title .
     - **(C)** In carrying out its responsibilities to ensure access to services or programs under this subsection, the State agency shall not be considered to be a legally liable third party for purposes of satisfying a financial commitment for the cost of providing such services or programs with respect to any individual for whom such cost would have been paid for from another public or private source but for the enactment of this subsection (except that whenever considered necessary to prevent a delay in the receipt of appropriate early intervention services by a child or family in a timely fashion, funds provided under section 674(a)(6) of this title may be used to pay the provider of services or programs pending reimbursement from the public or private source that has ultimate responsibility for the payment).
+
+(aa) was rated by an independent systematic review for the quality of the study design and execution and determined to be well-designed and well-executed;
+
+(bb) was a rigorous random-controlled trial (or, if not available, a study using a rigorous quasi-experimental research design); and
+
+(cc) was carried out in a usual care or practice setting; and
+
+(aa) were rated by an independent systematic review for the quality of the study design and execution and determined to be well-designed and well-executed;
+
+(bb) were rigorous random-controlled trials (or, if not available, studies using a rigorous quasi-experimental research design); and
+
+(cc) were carried out in a usual care or practice setting; and
+
+In general
+
+Delay if state legislation required
+
+In general
+
+Delay permitted if state legislation required
+
+In General
+
+Restructuring and Renaming of Program.—
+
+In general
+
+Transition rule.—
+
+In general
+
+Pro rata adjustment if insufficient funds available
+
+Use of Incentive Payments; Eligibility for Kinship Guardianship Assistance Payments With a Successor Guardian; Data Collection
+
+Calculation and Use of Savings Resulting From the Phase-Out of Eligibility Requirements for Adoption Assistance
+
+Notification of Parents of Siblings.—
+
+In general
+
+Delay permitted if state legislation required
+
+In General
+
+Delay Permitted if State Legislation Required
+
+General
+
+Elimination of opt-out
+
+Delay permitted if state legislation required
+
+In General
+
+Special Rules
+
+In general
+
+In-kind expenditures from third-party sources for purposes of determining non-federal share of administrative and training expenditures.—
+
+In general
+
+Effective date
+
+Sense of the congress
+
+“Nothing in the amendments made by this section [enacting section 679c of this title and amending this section and sections 672, 674, and 677 of this title] shall be construed as—
+
+Addressing Foster Care Age Restrictions During the Pandemic
+
+Re-entry to Foster Care for Youth Who Age Out During the Pandemic
+
+Protections for Youth in Foster Care
+
+Authority to Use Additional Funding for Certain Costs Incurred to Prevent Aging Out of, Facilitating Re-entry to, and Protecting Youth in Care During the Pandemic.—
+
+In general
+
+Restrictions.—
+
+Termination of Certain Provisions
+
+In General
+
+Notice Requirement
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 471, as added [Pub. L. 96–272, title I, § 101(a)(1)](https://www.govinfo.gov/link/plaw/96/public/272), June 17, 1980, [94 Stat. 501](https://www.govinfo.gov/link/statute/94/501); amended [Pub. L. 97–35, title XXIII, § 2353(r)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 874](https://www.govinfo.gov/link/statute/95/874); [Pub. L. 97–248, title I, § 160(d)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 400](https://www.govinfo.gov/link/statute/96/400); [Pub. L. 98–378, § 11(c)](https://www.govinfo.gov/link/plaw/98/public/378), Aug. 16, 1984, [98 Stat. 1318](https://www.govinfo.gov/link/statute/98/1318); [Pub. L. 99–514, title XVII, § 1711(c)(2)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2784](https://www.govinfo.gov/link/statute/100/2784); [Pub. L. 100–485, title II, § 202(c)(1)](https://www.govinfo.gov/link/plaw/100/public/485), Oct. 13, 1988, [102 Stat. 2378](https://www.govinfo.gov/link/statute/102/2378); [Pub. L. 101–508, title V, § 5054(b)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–229](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–66, title XIII, § 13711(b)(4)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 655](https://www.govinfo.gov/link/statute/107/655); [Pub. L. 103–432, title II, § 203(b)](https://www.govinfo.gov/link/plaw/103/public/432), Oct. 31, 1994, [108 Stat. 4456](https://www.govinfo.gov/link/statute/108/4456); [Pub. L. 104–188, title I, § 1808(a)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1903](https://www.govinfo.gov/link/statute/110/1903); [Pub. L. 104–193, title I, § 108(d)(2)](https://www.govinfo.gov/link/plaw/104/public/193), title V, § 505, Aug. 22, 1996, [110 Stat. 2166](https://www.govinfo.gov/link/statute/110/2166), 2278; [Pub. L. 105–33, title V, § 5591(b)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 643](https://www.govinfo.gov/link/statute/111/643); [Pub. L. 105–89, title I](https://www.govinfo.gov/link/plaw/105/public/89), §§ 101(a), 106, title III, §§ 306, 308, Nov. 19, 1997, [111 Stat. 2116](https://www.govinfo.gov/link/statute/111/2116), 2120, 2132, 2133; [Pub. L. 105–200, title III, § 301(a)](https://www.govinfo.gov/link/plaw/105/public/200), July 16, 1998, [112 Stat. 658](https://www.govinfo.gov/link/statute/112/658); [Pub. L. 106–169, title I, § 112(a)](https://www.govinfo.gov/link/plaw/106/public/169), title IV, § 401(o), Dec. 14, 1999, [113 Stat. 1829](https://www.govinfo.gov/link/statute/113/1829), 1859; [Pub. L. 109–171, title VII, § 7401(c)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 150](https://www.govinfo.gov/link/statute/120/150); [Pub. L. 109–239](https://www.govinfo.gov/link/plaw/109/public/239), §§ 3, 4(a)(1), 10, July 3, 2006, [120 Stat. 508](https://www.govinfo.gov/link/statute/120/508), 513; [Pub. L. 109–248, title I, § 152(a)](https://www.govinfo.gov/link/plaw/109/public/248), (b), July 27, 2006, [120 Stat. 608](https://www.govinfo.gov/link/statute/120/608), 609; [Pub. L. 109–432, div. B, title IV, § 405(c)(1)(B)(i)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 2999](https://www.govinfo.gov/link/statute/120/2999); [Pub. L. 110–351, title I](https://www.govinfo.gov/link/plaw/110/public/351), §§ 101(a), (c)(2)(A), (B)(i), 103, 104(a), title II, §§ 204(b), 206, title III, § 301(c)(1)(A), title IV, § 403, Oct. 7, 2008, [122 Stat. 3950–3952](https://www.govinfo.gov/link/statute/122/3950), 3956, 3957, 3960, 3962, 3969, 3979; [Pub. L. 111–148, title VI, § 6703(d)(2)(B)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 803](https://www.govinfo.gov/link/statute/124/803); [Pub. L. 113–183, title I](https://www.govinfo.gov/link/plaw/113/public/183), §§ 101(a), 102, 104, 111(a)(2), (b), 112(b)(2)(A)(ii), title II, § 209(a)(1), Sept. 29, 2014, [128 Stat. 1920–1922](https://www.govinfo.gov/link/statute/128/1920), 1924, 1927, 1941; [Pub. L. 115–123, div. E, title VII](https://www.govinfo.gov/link/plaw/115/public/123), §§ 50711(a), 50722(a), 50731(b), 50741(d)(1), 50745, Feb. 9, 2018, [132 Stat. 232](https://www.govinfo.gov/link/statute/132/232), 246, 251, 256, 261; [Pub. L. 115–165, title I, § 103(a)(2)](https://www.govinfo.gov/link/plaw/115/public/165), Apr. 13, 2018, [132 Stat. 1262](https://www.govinfo.gov/link/statute/132/1262); [Pub. L. 115–271, title VIII, § 8082(b)](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 4102](https://www.govinfo.gov/link/statute/132/4102); [Pub. L. 117–348, title I, § 137(a)](https://www.govinfo.gov/link/plaw/117/public/348), Jan. 5, 2023, [136 Stat. 6223](https://www.govinfo.gov/link/statute/136/6223).)*

@@ -3,9 +3,10 @@ title: "Section 3902 - Risk retention groups"
 usc_title: 15
 usc_section: "3902"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 3902"
-generated_at: "2026-03-30T02:54:08.196Z"
+generated_at: "2026-11-23T20:26:04.319Z"
+status: "active"
 ---
 
 # § 3902. Risk retention groups
@@ -56,3 +57,9 @@ generated_at: "2026-03-30T02:54:08.196Z"
   - **(2)** If a State seeks an injunction regarding the conduct described in paragraphs (1) and (2) of subsection (e), such injunction must be obtained from a Federal or State court of competent jurisdiction.
 - **(g)** Nothing in this chapter shall affect the authority of any State to bring an action in any Federal or State court.
 - **(h)** Nothing in this chapter shall be construed to affect the authority of any State to regulate or prohibit the ownership interest in a risk retention group by an insurance company in that State, other than in the case of ownership interest in a risk retention group whose members are insurance companies.
+
+“notice
+
+## Source Credit
+
+*([Pub. L. 97–45, § 3](https://www.govinfo.gov/link/plaw/97/public/45), Sept. 25, 1981, [95 Stat. 950](https://www.govinfo.gov/link/statute/95/950); [Pub. L. 99–563](https://www.govinfo.gov/link/plaw/99/public/563), §§ 5, 7, 8(a), 12(c), Oct. 27, 1986, [100 Stat. 3172](https://www.govinfo.gov/link/statute/100/3172), 3175, 3178.)*

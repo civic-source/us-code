@@ -3,9 +3,10 @@ title: "Section 387b - Adulterated tobacco products"
 usc_title: 21
 usc_section: "387b"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 387b"
-generated_at: "2026-03-30T02:54:54.279Z"
+generated_at: "2026-11-23T20:26:27.767Z"
+status: "active"
 ---
 
 # § 387b. Adulterated tobacco products
@@ -22,3 +23,7 @@ A tobacco product shall be deemed to be adulterated if—
     - **(B)** it is in violation of an order under section 387j(c)(1)(A) of this title ;
   - **(7)** the methods used in, or the facilities or controls used for, its manufacture, packing, or storage are not in conformity with applicable requirements under section 387f(e)(1) of this title or an applicable condition prescribed by an order under section 387f(e)(2) of this title ; or
   - **(8)** it is in violation of section 387k of this title .
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 902, as added [Pub. L. 111–31, div. A, title I, § 101(b)(3)](https://www.govinfo.gov/link/plaw/111/public/31), June 22, 2009, [123 Stat. 1787](https://www.govinfo.gov/link/statute/123/1787).)*

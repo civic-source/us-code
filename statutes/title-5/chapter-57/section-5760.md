@@ -3,9 +3,10 @@ title: "Section 5760 - Travel and transportation allowances: transportation of f
 usc_title: 5
 usc_section: "5760"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 5760"
-generated_at: "2026-03-30T02:52:56.027Z"
+generated_at: "2026-11-23T20:25:31.986Z"
+status: "active"
 ---
 
 # § 5760. Travel and transportation allowances: transportation of family members incident to the repatriation of employees held captive
@@ -26,3 +27,15 @@ generated_at: "2026-03-30T02:52:56.027Z"
   - **(3)** The transportation authorized by subsection (a) may be provided by any of the means described in section 452(d) of title 37 .
   - **(4)** An allowance under this subsection may be paid in advance.
   - **(5)** Reimbursement payable under this subsection may not exceed the cost of government-procured round-trip air travel.
+
+Allowance for Family Members and Certain Others
+
+Covered Employees
+
+Eligible Family Members
+
+Travel and Transportation Authorized
+
+## Source Credit
+
+*(Added [Pub. L. 109–163, div. A, title XI, § 1121(a)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3451](https://www.govinfo.gov/link/statute/119/3451); amended [Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1465](https://www.govinfo.gov/link/statute/125/1465); [Pub. L. 112–239, div. A, title X, § 1076(a)(9)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1948](https://www.govinfo.gov/link/statute/126/1948); [Pub. L. 117–263, div. A, title VI, § 626(b)(3)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2628](https://www.govinfo.gov/link/statute/136/2628).)*

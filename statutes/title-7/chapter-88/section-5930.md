@@ -3,9 +3,10 @@ title: "Section 5930 - Reservation extension agents"
 usc_title: 7
 usc_section: "5930"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 5930"
-generated_at: "2026-03-30T02:53:42.421Z"
+generated_at: "2026-11-23T20:25:41.671Z"
+status: "active"
 ---
 
 # § 5930. Reservation extension agents
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:42.421Z"
 - **(e)** The number of offices and their placement shall be jointly determined by the State Extension Directors and tribal authorities of the respective States by taking into consideration the agricultural acreage within the boundaries of an Indian reservation or tribal jurisdiction, the soil classifications of such acreage, and the population of such reservation or tribal jurisdiction.
 - **(f)** On a determination by the Secretary of Agriculture that a program carried out under this section has been satisfactorily administered for not less than 2 years, the Secretary shall implement a reduced reapplication process for the continued operation of the program in order to reduce regulatory burdens on participating university and tribal entities.
 - **(g)** There are authorized to be appropriated such sums as may be necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XVI, § 1677](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3779](https://www.govinfo.gov/link/statute/104/3779); [Pub. L. 102–237, title IV, § 407(15)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1865](https://www.govinfo.gov/link/statute/105/1865); [Pub. L. 104–127, title VIII, § 840](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1170](https://www.govinfo.gov/link/statute/110/1170); [Pub. L. 110–234, title VII, § 7511(c)(23)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1269](https://www.govinfo.gov/link/statute/122/1269); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, § 7511(c)(23), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2031.)*

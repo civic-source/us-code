@@ -3,9 +3,10 @@ title: "Section 3003 - Increasing economic certainty"
 usc_title: 43
 usc_section: "3003"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 3003"
-generated_at: "2026-03-30T02:55:57.500Z"
+generated_at: "2026-11-23T20:27:06.425Z"
+status: "active"
 ---
 
 # § 3003. Increasing economic certainty
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:57.500Z"
     - **(C)** limit commercial interest in a competitive lease sale or right-of-way grant; or
     - **(D)** are not competitively priced compared to other available land; or
   - **(2)** that a reduced rental rate or capacity fee is necessary to promote the greatest use of wind and solar energy resources.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. Z, title III, § 3103](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2516](https://www.govinfo.gov/link/statute/134/2516).)*

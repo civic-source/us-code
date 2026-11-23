@@ -3,9 +3,10 @@ title: "Section 670i - Public land management area stamps for hunting, trapping,
 usc_title: 16
 usc_section: "670i"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 670i"
-generated_at: "2026-03-30T02:54:22.893Z"
+generated_at: "2026-11-23T20:26:20.221Z"
+status: "active"
 ---
 
 # § 670i. Public land management area stamps for hunting, trapping, and fishing on public lands subject to programs
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:22.893Z"
   - **(5)** The amount of the fee to be charged for such stamps, the age at which the individual is required to acquire such a stamp, and the expiration date for such stamps shall be mutually agreed upon by the State agency and the Secretary or Secretaries concerned; except that each such stamp shall be void not later than one year after the date of issuance.
   - **(6)** Each such stamp must be validated by the purchaser thereof by signing his name across the face of the stamp.
   - **(7)** Any individual to whom a stamp is sold pursuant to this section shall upon request exhibit such stamp for inspection to any officer or employee of the Department of the Interior or the Department of Agriculture, or to any other person who is authorized to enforce section 670j(a) of this title .
+
+## Source Credit
+
+*([Pub. L. 86–797, title II, § 203](https://www.govinfo.gov/link/plaw/86/public/797), as added [Pub. L. 93–452, § 2](https://www.govinfo.gov/link/plaw/93/public/452), Oct. 18, 1974, [88 Stat. 1371](https://www.govinfo.gov/link/statute/88/1371); amended [Pub. L. 100–653, title II, § 201](https://www.govinfo.gov/link/plaw/100/public/653), Nov. 14, 1988, [102 Stat. 3826](https://www.govinfo.gov/link/statute/102/3826); [Pub. L. 112–81, div. A, title III, § 312(b)(9)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1354](https://www.govinfo.gov/link/statute/125/1354).)*

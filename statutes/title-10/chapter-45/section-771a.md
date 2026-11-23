@@ -3,9 +3,10 @@ title: "Section 771a - Disposition on discharge"
 usc_title: 10
 usc_section: "771a"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 771a"
-generated_at: "2026-03-30T02:53:38.076Z"
+generated_at: "2026-11-23T20:25:51.052Z"
+status: "active"
 ---
 
 # § 771a. Disposition on discharge
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:38.076Z"
   - **(2)** under such regulations as the Secretary concerned prescribes, a suit of civilian clothing and an overcoat when necessary, both to cost not more than $30, may be issued to him; and
   - **(3)** if he would be otherwise without funds to meet his immediate needs, he may be paid an amount, fixed by the Secretary concerned, of not more than $25.
 - **(c)** When an enlisted member of the Army National Guard or the Air National Guard who has been called into Federal service is released from that service, the exterior articles of uniform in his possession shall be accounted for as property issued to the Army National Guard or the Air National Guard, as the case may be, of the State or territory, Puerto Rico, or the District of Columbia of whose Army National Guard or Air National Guard he is a member, as prescribed in section 708 of title 32 .
+
+## Source Credit
+
+*(Added [Pub. L. 90–235, § 8(1)(A)](https://www.govinfo.gov/link/plaw/90/public/235), Jan. 2, 1968, [81 Stat. 763](https://www.govinfo.gov/link/statute/81/763); amended [Pub. L. 100–456, div. A, title XII, § 1234(a)(1)](https://www.govinfo.gov/link/plaw/100/public/456), Sept. 29, 1988, [102 Stat. 2059](https://www.govinfo.gov/link/statute/102/2059).)*

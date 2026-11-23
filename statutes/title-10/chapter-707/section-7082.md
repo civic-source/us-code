@@ -3,9 +3,10 @@ title: "Section 7082 - Renumbered § 8582]"
 usc_title: 10
 usc_section: "7082"
 chapter: 707
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 7082"
-generated_at: "2026-03-30T02:53:38.229Z"
+generated_at: "2026-11-23T20:25:52.046Z"
+status: "renumbered"
 ---
 
 # [§ 7082. Renumbered § 8582]

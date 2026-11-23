@@ -3,9 +3,10 @@ title: "Section 547 - Deduction for deficiency dividends"
 usc_title: 26
 usc_section: "547"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 547"
-generated_at: "2026-03-30T02:55:27.719Z"
+generated_at: "2026-11-23T20:26:45.824Z"
+status: "active"
 ---
 
 # § 547. Deduction for deficiency dividends
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:27.719Z"
     - **(A)** the collection of the deficiency and all interest, additional amounts, and assessable penalties shall, except in cases of jeopardy, be stayed until the expiration of 120 days after the date of the determination, and
     - **(B)** if claim for deficiency dividend deduction is filed under subsection (e), the collection of such part of the deficiency as is not reduced by the deduction for deficiency dividends provided in subsection (a) shall be stayed until the date the claim is disallowed (in whole or in part) and if disallowed in part collection shall be made only with respect to the part disallowed.
 - **(g)** No deficiency dividend deduction shall be allowed under subsection (a) if the determination contains a finding that any part of the deficiency is due to fraud with intent to evade tax, or to wilful failure to file an income tax return within the time prescribed by law or prescribed by the Secretary in pursuance of law.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 191; [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1901(a)(78), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1777](https://www.govinfo.gov/link/statute/90/1777), 1834.)*

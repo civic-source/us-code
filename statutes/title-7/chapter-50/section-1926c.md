@@ -3,9 +3,10 @@ title: "Section 1926c - Water and waste facility loans and grants to alleviate h
 usc_title: 7
 usc_section: "1926c"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1926c"
-generated_at: "2026-03-30T02:53:42.345Z"
+generated_at: "2026-11-23T20:25:41.328Z"
+status: "active"
 ---
 
 # § 1926c. Water and waste facility loans and grants to alleviate health risks
@@ -35,3 +36,9 @@ generated_at: "2026-03-30T02:53:42.345Z"
     - **(C)** in addition to grants provided under subparagraph (A), for grants under this section to benefit Indian tribes (as defined in section 5304 of title 25 ), $20,000,000 for each fiscal year.
   - **(2)** An entity eligible to receive funding through a grant made under section 1926d of this title shall not be eligible for a grant from funds made available under paragraph (1)(C).
 - **(f)** Not later than 30 days after October 28, 1992 , the Secretary shall issue interim final regulations, with a request for public comments, implementing this section.
+
+Certain counties targeted
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 306C](https://www.govinfo.gov/link/plaw/87/public/128), as added [Pub. L. 101–624, title XXIII, § 2327](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 4015](https://www.govinfo.gov/link/statute/104/4015); amended [Pub. L. 102–237, title VII, § 701(b)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1879](https://www.govinfo.gov/link/statute/105/1879); [Pub. L. 102–552, title V, § 516](https://www.govinfo.gov/link/plaw/102/public/552) (l), (m), Oct. 28, 1992, [106 Stat. 4139](https://www.govinfo.gov/link/statute/106/4139); [Pub. L. 102–554, § 24](https://www.govinfo.gov/link/plaw/102/public/554), Oct. 28, 1992, [106 Stat. 4161](https://www.govinfo.gov/link/statute/106/4161); [Pub. L. 107–171, title VI, § 6010](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 357](https://www.govinfo.gov/link/statute/116/357).)*

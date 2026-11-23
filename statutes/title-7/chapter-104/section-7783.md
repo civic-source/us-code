@@ -3,9 +3,10 @@ title: "Section 7783 - Grants to weed management entities"
 usc_title: 7
 usc_section: "7783"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7783"
-generated_at: "2026-03-30T02:53:42.462Z"
+generated_at: "2026-11-23T20:25:41.840Z"
+status: "active"
 ---
 
 # § 7783. Grants to weed management entities
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:53:42.462Z"
   - **(1)** rely on technical and merit reviews provided by regional, State, or local weed management experts; and
   - **(2)** give priority to projects that maximize the involvement of State, local and, where applicable, Indian Tribe governments.
 - **(h)** The Secretary shall give special consideration to States with approved weed management entities established by Indian Tribes and may provide an additional allocation to a State to meet the particular needs and projects that the weed management entity plans to address.
+
+## Source Credit
+
+*([Pub. L. 106–224, title IV, § 454](https://www.govinfo.gov/link/plaw/106/public/224), as added [Pub. L. 108–412, § 1](https://www.govinfo.gov/link/plaw/108/public/412), Oct. 30, 2004, [118 Stat. 2321](https://www.govinfo.gov/link/statute/118/2321).)*

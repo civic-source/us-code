@@ -3,9 +3,10 @@ title: "Section 4806 - Regulatory appeals process, ombudsman, and alternative di
 usc_title: 12
 usc_section: "4806"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4806"
-generated_at: "2026-03-30T02:53:53.519Z"
+generated_at: "2026-11-23T20:25:59.433Z"
+status: "active"
 ---
 
 # § 4806. Regulatory appeals process, ombudsman, and alternative dispute resolution
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:53:53.519Z"
     - **(B)** any final action taken by an agency in the agency’s capacity as conservator or receiver for an insured depository institution or by the liquidating agent appointed for an insured credit union; and
     - **(C)** any other issue for which the appropriate Federal banking agency or the National Credit Union Administration Board determines that alternative means of dispute resolution would be appropriate.
 - **(g)** Nothing in this section shall affect the authority of an appropriate Federal banking agency or the National Credit Union Administration Board to take enforcement or supervisory action.
+
+## Source Credit
+
+*([Pub. L. 103–325, title III, § 309](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2218](https://www.govinfo.gov/link/statute/108/2218).)*

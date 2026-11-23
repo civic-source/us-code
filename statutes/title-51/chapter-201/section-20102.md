@@ -3,9 +3,10 @@ title: "Section 20102 - Congressional declaration of policy and purpose"
 usc_title: 51
 usc_section: "20102"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 20102"
-generated_at: "2026-03-30T02:56:28.702Z"
+generated_at: "2026-11-23T20:27:37.430Z"
+status: "active"
 ---
 
 # § 20102. Congressional declaration of policy and purpose
@@ -28,3 +29,120 @@ generated_at: "2026-03-30T02:56:28.702Z"
 - **(f)** Congress declares that the general welfare of the United States requires that the unique competence of the Administration in science and engineering systems be directed to assisting in bioengineering research, development, and demonstration programs designed to alleviate and minimize the effects of disability.
 - **(g)** Congress declares that the general welfare and security of the United States require that the unique competence of the Administration be directed to detecting, tracking, cataloguing, and characterizing near-Earth asteroids and comets in order to provide warning and mitigation of the potential hazard of such near-Earth objects to the Earth.
 - **(h)** It is the purpose of this chapter to carry out and effectuate the policies declared in subsections (a) to (g).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 20102 | 42 U.S.C. 2451 . | Pub. L. 85–568, title I, § 102 , July 29, 1958 , 72 Stat. 426 ; Pub. L. 94–413, § 15(a) , (b), Sept. 17, 1976 , 90 Stat. 1270 ; Pub. L. 95–238, title III, § 311 , Feb. 25, 1978 , 92 Stat. 83 ; Pub. L. 95–401, § 7 , Sept. 30, 1978 , 92 Stat. 860 ; Pub. L. 98–361, title I, § 110 , July 16, 1984 , 98 Stat. 426 ; Pub. L. 100–685, title II, § 214 , Nov. 17, 1988 , 102 Stat. 4093 ; Pub. L. 106–391, title III, § 302(a) , Oct. 30, 2000 , 114 Stat. 1591 ; Pub. L. 109–155, title III, § 321(d)(2) , Dec. 30, 2005 , 119 Stat. 2923 . |
+
+
+Devotion of Space Activities to Peaceful Purposes for Benefit of All Humankind
+
+Aeronautical and Space Activities for Welfare and Security of United States
+
+Commercial Use of Space
+
+Objectives of Aeronautical and Space Activities
+
+Ground Propulsion Systems Research and Development
+
+Bioengineering Research, Development, and Demonstration Programs
+
+Warning and Mitigation of Potential Hazards of Near-Earth Objects
+
+Purpose of Chapter
+
+Historical and Revision Notes
+
+20102
+
+42 U.S.C. 2451
+
+Pub. L. 85–568, title I, § 102
+
+July 29, 1958
+
+72 Stat. 426
+
+Pub. L. 94–413, § 15(a)
+
+Sept. 17, 1976
+
+90 Stat. 1270
+
+Pub. L. 95–238, title III, § 311
+
+Feb. 25, 1978
+
+92 Stat. 83
+
+Pub. L. 95–401, § 7
+
+Sept. 30, 1978
+
+92 Stat. 860
+
+Pub. L. 98–361, title I, § 110
+
+July 16, 1984
+
+98 Stat. 426
+
+Pub. L. 100–685, title II, § 214
+
+Nov. 17, 1988
+
+102 Stat. 4093
+
+Pub. L. 106–391, title III, § 302(a)
+
+Oct. 30, 2000
+
+114 Stat. 1591
+
+Pub. L. 109–155, title III, § 321(d)(2)
+
+Dec. 30, 2005
+
+119 Stat. 2923
+
+Sense of Congress on Science Portfolio
+
+Goal
+
+“The Congress finds, on this, the 50th anniversary of the establishment of the National Aeronautics and Space Administration, the following:
+
+“Congress finds that—
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Maintain and Enhance Space-based Positioning, Navigation, and Timing (PNT) Systems
+
+Sec.
+
+Sector Guidelines
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3330](https://www.govinfo.gov/link/statute/124/3330); [Pub. L. 115–10, title V, § 507](https://www.govinfo.gov/link/plaw/115/public/10), Mar. 21, 2017, [131 Stat. 50](https://www.govinfo.gov/link/statute/131/50).)*

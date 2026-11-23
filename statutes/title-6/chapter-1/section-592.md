@@ -3,9 +3,10 @@ title: "Section 592 - Responsibilities"
 usc_title: 6
 usc_section: "592"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 592"
-generated_at: "2026-03-30T02:53:09.470Z"
+generated_at: "2026-11-23T20:25:34.801Z"
+status: "active"
 ---
 
 # § 592. Responsibilities
@@ -55,3 +56,13 @@ generated_at: "2026-03-30T02:53:09.470Z"
   - **(4)** The term “Hispanic-serving institution” has the meaning given that term in section 1101a of title 20 .
   - **(5)** The term “historically Black college or university” has the meaning given the term “part B institution” in section 1061(2) of title 20 .
   - **(6)** The term “Tribal College or University” has the meaning given that term in section 1059c(b) of title 20 .
+
+(aa) the total amount of the scholarship received by such recipient under this section; and
+
+(bb) the interest on such amounts which would be payable if at the time the scholarship was received such scholarship was a loan bearing interest at the maximum legally prevailing rate;
+
+“Congress finds the following:
+
+## Source Credit
+
+*([Pub. L. 107–296, title XIX, § 1923](https://www.govinfo.gov/link/plaw/107/public/296), formerly title XVIII, § 1802, as added [Pub. L. 109–347, title V, § 501(a)](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1932](https://www.govinfo.gov/link/statute/120/1932); renumbered title XIX, § 1902, [Pub. L. 110–53, title I, § 104(a)(1)](https://www.govinfo.gov/link/plaw/110/public/53), (2), Aug. 3, 2007, [121 Stat. 294](https://www.govinfo.gov/link/statute/121/294); amended [Pub. L. 111–140, § 4(a)](https://www.govinfo.gov/link/plaw/111/public/140), Feb. 16, 2010, [124 Stat. 32](https://www.govinfo.gov/link/statute/124/32); renumbered § 1923 and amended [Pub. L. 115–387, § 2(a)(5)](https://www.govinfo.gov/link/plaw/115/public/387), (6), Dec. 21, 2018, [132 Stat. 5163](https://www.govinfo.gov/link/statute/132/5163), 5164.)*

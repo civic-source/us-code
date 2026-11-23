@@ -3,9 +3,10 @@ title: "Section 6945 - Rural Development Disaster Assistance Fund"
 usc_title: 7
 usc_section: "6945"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6945"
-generated_at: "2026-03-30T02:53:42.440Z"
+generated_at: "2026-11-23T20:25:41.741Z"
+status: "active"
 ---
 
 # § 6945. Rural Development Disaster Assistance Fund
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:42.440Z"
 - **(g)** In addition to any other funds available to the Secretary of Agriculture to cover administrative costs, the Secretary may use up to 3 percent of the amounts allocated from the Rural Development Disaster Assistance Fund for a specific disaster to cover administrative costs of Rural Development’s State and local offices in the areas affected by the disaster to carry out disaster related activities.
 - **(h)** Amounts in the Rural Development Disaster Assistance Fund, except for amounts described in subsection (d) that are appropriated to the Fund and obligated in accordance with that subsection, may not be obligated in excess of $1,000,000 for a disaster until at least 15 days after the date on which the Secretary of Agriculture notifies the Committees on Appropriations of the House of Representatives and the Senate of the Secretary’s determination to obligate additional amounts and the reasons for the determination. The Secretary may not obligate more than 50 percent of the funds contained in the Rural Development Disaster Assistance Fund for any one disaster unless the Secretary declares that there is a specific and extreme need that additional funds must be provided in response to such disaster at time of the obligation.
 - **(i)** The Secretary of Agriculture shall submit, on a quarterly basis, to the Committees on Appropriations of the House of Representatives and the Senate a report describing the status of the Rural Development Disaster Assistance Fund and any transactions that have affected the Fund since the previous report.
+
+## Source Credit
+
+*([Pub. L. 110–329, div. B, title I, § 10101](https://www.govinfo.gov/link/plaw/110/public/329), Sept. 30, 2008, [122 Stat. 3586](https://www.govinfo.gov/link/statute/122/3586); [Pub. L. 111–80, title VII, § 702](https://www.govinfo.gov/link/plaw/111/public/80), Oct. 21, 2009, [123 Stat. 2118](https://www.govinfo.gov/link/statute/123/2118); [Pub. L. 118–158, div. B, § 2101(1)](https://www.govinfo.gov/link/plaw/118/public/158), (2), Dec. 21, 2024, [138 Stat. 1730](https://www.govinfo.gov/link/statute/138/1730), 1731.)*

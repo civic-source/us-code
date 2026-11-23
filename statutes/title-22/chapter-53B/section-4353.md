@@ -3,9 +3,10 @@ title: "Section 4353 - Procedures for identifying records for FRUS series; decla
 usc_title: 22
 usc_section: "4353"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4353"
-generated_at: "2026-03-30T02:55:05.411Z"
+generated_at: "2026-11-23T20:26:32.535Z"
+status: "active"
 ---
 
 # § 4353. Procedures for identifying records for FRUS series; declassification, revisions, and summaries
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:05.411Z"
     - **(A)** The Advisory Committee shall have full and complete access to the original text of any record in which deletions have been made. In the event that the head of any originating agency considers it necessary to deny access by the Advisory Committee to the original text of any record, that agency head shall promptly notify the Advisory Committee in writing, describing the nature of the record in question and the justification for withholding that record.
     - **(B)** The Historian shall provide the Advisory Committee with a complete list of the records described in subparagraph (A).
   - **(6)** If a record is deleted in whole or in part as a result of review under this subsection then a note to that effect shall be inserted at the appropriate place in the FRUS volume.
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title IV, § 403, as added [Pub. L. 102–138, title I, § 198(a)](https://www.govinfo.gov/link/plaw/102/public/138), Oct. 28, 1991, [105 Stat. 686](https://www.govinfo.gov/link/statute/105/686).)*

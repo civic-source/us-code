@@ -3,9 +3,10 @@ title: "Section 15111 - Findings"
 usc_title: 42
 usc_section: "15111"
 chapter: 144
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 15111"
-generated_at: "2026-03-30T02:56:11.459Z"
+generated_at: "2026-11-23T20:27:23.560Z"
+status: "active"
 ---
 
 # § 15111. Findings
@@ -19,3 +20,7 @@ Congress finds that—
     - **(C)** the failure of wages in the human services sector to keep pace with wages in other service sectors; and
     - **(D)** the lack of quality training and career advancement opportunities available to direct support workers; and
   - **(3)** individuals with developmental disabilities benefit from assistance from direct support workers who are well trained, and benefit from receiving services from professionals who have spent time as direct support workers.
+
+## Source Credit
+
+*([Pub. L. 106–402, title III, § 301](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1734](https://www.govinfo.gov/link/statute/114/1734).)*

@@ -3,9 +3,10 @@ title: "Section 2107 - Time for appeal to court of appeals"
 usc_title: 28
 usc_section: "2107"
 chapter: 133
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 2107"
-generated_at: "2026-03-30T02:55:30.147Z"
+generated_at: "2026-11-23T20:26:36.495Z"
+status: "active"
 ---
 
 # § 2107. Time for appeal to court of appeals
@@ -20,3 +21,13 @@ generated_at: "2026-03-30T02:55:30.147Z"
   - **(1)** that a party entitled to notice of the entry of a judgment or order did not receive such notice from the clerk or any party within 21 days of its entry, and
   - **(2)** that no party would be prejudiced,
 - **(d)** This section shall not apply to bankruptcy matters or other proceedings under Title 11.
+
+Act
+
+Act
+
+“Congress finds that—
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 963](https://www.govinfo.gov/link/statute/62/963); May 24, 1949, ch. 139, §§ 107, 108, [63 Stat. 104](https://www.govinfo.gov/link/statute/63/104); [Pub. L. 95–598, title II, § 248](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2672](https://www.govinfo.gov/link/statute/92/2672); [Pub. L. 102–198, § 12](https://www.govinfo.gov/link/plaw/102/public/198), Dec. 9, 1991, [105 Stat. 1627](https://www.govinfo.gov/link/statute/105/1627); [Pub. L. 111–16, § 6(3)](https://www.govinfo.gov/link/plaw/111/public/16), May 7, 2009, [123 Stat. 1608](https://www.govinfo.gov/link/statute/123/1608); [Pub. L. 112–62, § 3](https://www.govinfo.gov/link/plaw/112/public/62), Nov. 29, 2011, [125 Stat. 757](https://www.govinfo.gov/link/statute/125/757).)*

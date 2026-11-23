@@ -3,9 +3,10 @@ title: "Section 6922 - Office of Homeland Security"
 usc_title: 7
 usc_section: "6922"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6922"
-generated_at: "2026-03-30T02:53:42.439Z"
+generated_at: "2026-11-23T20:25:41.733Z"
+status: "active"
 ---
 
 # § 6922. Office of Homeland Security
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:42.439Z"
   - **(2)** To carry out the program established under paragraph (1), the Secretary may—
     - **(A)** enter into 1 or more cooperative agreements or contracts with Federal, State, or local authorities that have analysis and intelligence capabilities and expertise relating to the defense of the food and agriculture critical infrastructure sector; and
     - **(B)** carry out any other activity under any other authority of the Secretary that is appropriate to engage the authorities described in subparagraph (A) for the defense of the food and agriculture critical infrastructure sector, as determined by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 103–354, title II, § 221](https://www.govinfo.gov/link/plaw/103/public/354), as added [Pub. L. 115–334, title XII, § 12202](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4944](https://www.govinfo.gov/link/statute/132/4944).)*

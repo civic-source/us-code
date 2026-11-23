@@ -3,9 +3,10 @@ title: "Section 13491 - Purposes and definitions"
 usc_title: 42
 usc_section: "13491"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13491"
-generated_at: "2026-03-30T02:56:11.447Z"
+generated_at: "2026-11-23T20:27:23.501Z"
+status: "active"
 ---
 
 # § 13491. Purposes and definitions
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.447Z"
   - **(2)** the term “Commission” means the Nuclear Regulatory Commission;
   - **(3)** the term “standardized design” means a design for a nuclear power plant that may be utilized for a multiple number of units or a multiple number of sites; and
   - **(4)** the term “certification” means approval by the Commission of a standardized design.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XXI, § 2121](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3081](https://www.govinfo.gov/link/statute/106/3081).)*

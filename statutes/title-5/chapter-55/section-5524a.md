@@ -3,9 +3,10 @@ title: "Section 5524a - Advance payments for new appointees and employees reloca
 usc_title: 5
 usc_section: "5524a"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 5524a"
-generated_at: "2026-03-30T02:52:56.018Z"
+generated_at: "2026-11-23T20:25:31.929Z"
+status: "active"
 ---
 
 # § 5524a. Advance payments for new appointees and employees relocating within the United States and its territories
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:52:56.018Z"
 - **(c)** An advance payment under this section is recoverable by the Government of the United States or the government of the District of Columbia, as the case may be, from the employee or such employee’s estate by—
   - **(1)** setoff against accrued pay, amount of retirement credit, or other amount due to the employee from the Government of the United States or the government of the District of Columbia; and
   - **(2)** such other method as is provided by law.
+
+## Source Credit
+
+*(Added [Pub. L. 101–509, title V, § 529 [title I, § 107(a)]](https://www.govinfo.gov/link/plaw/101/public/509), Nov. 5, 1990, [104 Stat. 1427](https://www.govinfo.gov/link/statute/104/1427), 1449; amended [Pub. L. 114–328, div. A, title XI, § 1134(a)](https://www.govinfo.gov/link/plaw/114/public/328) –(c)(1), Dec. 23, 2016, [130 Stat. 2459](https://www.govinfo.gov/link/statute/130/2459).)*

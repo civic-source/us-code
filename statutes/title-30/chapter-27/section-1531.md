@@ -3,9 +3,10 @@ title: "Section 1531 - Feasibility study loan program"
 usc_title: 30
 usc_section: "1531"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1531"
-generated_at: "2026-03-30T02:55:29.406Z"
+generated_at: "2026-11-23T20:26:35.050Z"
+status: "active"
 ---
 
 # § 1531. Feasibility study loan program
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:29.406Z"
 - **(e)** Loans pursuant to this section shall be made from funds appropriated (pursuant to this subchapter) to the Geothermal Resources Development Fund established under section 1144 2 2 See References in Text note below. of this title; and amounts repaid on such loans shall be deposited in the Geothermal Resources Development Fund for purposes of this subchapter.
 - **(f)** For loans under clause (A) of subsection (b)(1) for fiscal year 1981, there is authorized to be appropriated to the Geothermal Resources Development Fund not to exceed $5,000,000, which shall remain available until expended. For loans under such clause (A) for subsequent fiscal years, and for loans under clause (B) of subsection (b)(1) or under subsection (c) (for any such subsequent fiscal year), there may be appropriated to such Fund only such sums as are authorized by legislation hereafter enacted.
 - **(g)** As used in this section, the term “person” includes municipalities, cooperatives, industrial development agencies, nonprofit organizations, and Indian tribes, as well as the districts referred to in subsection (a) and the other entities included within such term under section 1 of title 1 .
+
+## Source Credit
+
+*([Pub. L. 96–294, title VI, § 631](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 767](https://www.govinfo.gov/link/statute/94/767).)*

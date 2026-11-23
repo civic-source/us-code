@@ -3,9 +3,10 @@ title: "Section 14223 - Transferred"
 usc_title: 42
 usc_section: "14223"
 chapter: 136
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 14223"
-generated_at: "2026-03-30T02:56:11.451Z"
+generated_at: "2026-11-23T20:27:23.527Z"
+status: "transferred"
 ---
 
 # § 14223. Transferred

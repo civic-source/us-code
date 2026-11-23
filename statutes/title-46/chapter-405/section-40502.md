@@ -3,9 +3,10 @@ title: "Section 40502 - Service contracts"
 usc_title: 46
 usc_section: "40502"
 chapter: 405
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 40502"
-generated_at: "2026-03-30T02:56:15.564Z"
+generated_at: "2026-11-23T20:27:27.229Z"
+status: "active"
 ---
 
 # § 40502. Service contracts
@@ -36,3 +37,69 @@ generated_at: "2026-03-30T02:56:15.564Z"
   - **(4)** This subsection does not require the disclosure of information by an ocean common carrier unless there exists an applicable and otherwise lawful collective bargaining agreement pertaining to that carrier. A disclosure by an ocean common carrier may not be deemed an admission or an agreement that any work is covered by a collective bargaining agreement. A dispute about whether any work is covered by a collective bargaining agreement and the responsibility of an ocean common carrier under a collective bargaining agreement shall be resolved solely in accordance with the dispute resolution procedures contained in the collective bargaining agreement and the National Labor Relations Act ( 29 U.S.C. 151 et seq.), and without reference to this subsection.
   - **(5)** This subsection does not affect the lawfulness or unlawfulness under this part or any other Federal or State law of any collective bargaining agreement or element thereof, including any element that constitutes an essential term of a service contract.
 - **(f)** Unless the parties agree otherwise, the exclusive remedy for a breach of a service contract is an action in an appropriate court. The contract dispute resolution forum may not be controlled by or in any way affiliated with a controlled carrier or by the government that owns or controls the carrier.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 40502(a) | 46 App.:1707(c)(1) (1st sentence). | Pub. L. 98–237, § 8(c) , Mar. 20, 1984 , 98 Stat. 75 ; restated Pub. L. 105–258, title I, § 106(b) , Oct. 14, 1998 , 112 Stat. 1905 . |
+| 40502(b) | 46 App.:1707(c)(2) (1st sentence). |  |
+| 40502(c) | 46 App.:1707(c)(2) (last sentence). |  |
+| 40502(d) | 46 App.:1707(c)(3). |  |
+| 40502(e) | 46 App.:1707(c)(4). |  |
+| 40502(f) | 46 App.:1707(c)(1) (2d, last sentences). |  |
+
+
+In General
+
+Filing Requirements
+
+In general
+
+Exceptions
+
+Essential Terms
+
+Publication of Certain Terms
+
+Disclosure of Certain Terms
+
+Definitions
+
+Disclosure
+
+Within reasonable time
+
+Existence of collective bargaining agreement
+
+Effect under other laws
+
+Remedy for Breach
+
+Historical and Revision Notes
+
+40502(a)
+
+Pub. L. 98–237, § 8(c)
+
+Mar. 20, 1984
+
+98 Stat. 75
+
+Pub. L. 105–258, title I, § 106(b)
+
+Oct. 14, 1998
+
+112 Stat. 1905
+
+40502(b)
+
+40502(c)
+
+40502(d)
+
+40502(e)
+
+40502(f)
+
+## Source Credit
+
+*([Pub. L. 109–304, § 7](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1533](https://www.govinfo.gov/link/statute/120/1533); [Pub. L. 117–146, § 3](https://www.govinfo.gov/link/plaw/117/public/146), June 16, 2022, [136 Stat. 1272](https://www.govinfo.gov/link/statute/136/1272).)*

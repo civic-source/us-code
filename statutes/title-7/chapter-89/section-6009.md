@@ -3,9 +3,10 @@ title: "Section 6009 - Enforcement"
 usc_title: 7
 usc_section: "6009"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6009"
-generated_at: "2026-03-30T02:53:42.424Z"
+generated_at: "2026-11-23T20:25:41.681Z"
+status: "active"
 ---
 
 # § 6009. Enforcement
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:42.424Z"
   - **(3)** A finding of the Secretary shall be set aside only if the finding is found to be unsupported by substantial evidence.
 - **(e)** Any person who fails to obey a cease and desist order after the order has become final and unappealable, or after the appropriate district court has entered a final judgment in favor of the Secretary, shall be subject to a civil penalty assessed by the Secretary, after opportunity for a hearing on the record and for judicial review under the procedures specified in subsections (c) and (d), of not more than $1,000 for each offense. Each day during which the failure continues shall be considered a separate violation of such order.
 - **(f)** If a person fails to pay a civil penalty after it has become a final and unappealable order issued by the Secretary, or after the appropriate district court has entered a final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General for recovery of the amount assessed in the district court of the United States in any district in which the person resides or conducts business. In such action, the validity and appropriateness of such order imposing such civil penalty shall not be subject to review.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XIX, § 1914](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3851](https://www.govinfo.gov/link/statute/104/3851).)*

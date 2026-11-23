@@ -3,9 +3,10 @@ title: "Section 2296b - Development of infrastructure"
 usc_title: 22
 usc_section: "2296b"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2296b"
-generated_at: "2026-03-30T02:55:05.356Z"
+generated_at: "2026-11-23T20:26:32.224Z"
+status: "active"
 ---
 
 # § 2296b. Development of infrastructure
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.356Z"
   - **(2)** The provision of insurance, reinsurance, financing, or other assistance by the United States International Development Finance Corporation.
   - **(3)** Assistance under section 2421 of this title (relating to the Trade and Development Agency).
 - **(c)** Activities that may be supported by programs under subsection (b) include promoting actively the participation of United States companies and investors in the planning, financing, and construction of infrastructure for communications, transportation, including air transportation, and energy and trade including highways, railroads, port facilities, shipping, banking, insurance, telecommunications networks, and gas and oil pipelines.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 499B, as added [Pub. L. 106–113, div. B, § 1000(a)(2) [title V, § 596(b)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1535](https://www.govinfo.gov/link/statute/113/1535), 1501A–124; amended [Pub. L. 115–254, div. F, title VI, § 1470(j)(2)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3517](https://www.govinfo.gov/link/statute/132/3517).)*

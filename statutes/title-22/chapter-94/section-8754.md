@@ -3,9 +3,10 @@ title: "Section 8754 - Comprehensive strategy to promote Internet freedom and ac
 usc_title: 22
 usc_section: "8754"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8754"
-generated_at: "2026-03-30T02:55:05.456Z"
+generated_at: "2026-11-23T20:26:32.734Z"
+status: "active"
 ---
 
 # § 8754. Comprehensive strategy to promote Internet freedom and access to information in Iran
@@ -26,3 +27,7 @@ Not later than 90 days after August 10, 2012 , the Secretary of State, in consul
   - **(10)** expand worldwide United States embassy and consulate programming for and outreach to Iranian dissident communities;
   - **(11)** expand access to proxy servers for democracy activists in Iran; and
   - **(12)** discourage telecommunications and software companies from facilitating Internet censorship by the Government of Iran.
+
+## Source Credit
+
+*([Pub. L. 112–158, title IV, § 414](https://www.govinfo.gov/link/plaw/112/public/158), Aug. 10, 2012, [126 Stat. 1256](https://www.govinfo.gov/link/statute/126/1256).)*

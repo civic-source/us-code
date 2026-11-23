@@ -3,9 +3,10 @@ title: "Section 316 - Special pay: bonus for members with foreign language profi
 usc_title: 37
 usc_section: "316"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "37 U.S.C. § 316"
-generated_at: "2026-03-30T02:55:44.053Z"
+generated_at: "2026-11-23T20:26:57.360Z"
+status: "active"
 ---
 
 # § 316. Special pay: bonus for members with foreign language proficiency
@@ -27,3 +28,19 @@ generated_at: "2026-03-30T02:55:44.053Z"
   - **(4)** If a member fails to obtain the required certification under subsection (c) before the end of the period provided under paragraph (3), the Secretary concerned may require the member to repay all or a portion of the bonus in the manner provided in section 303a(e) of this title .
 - **(e)** A member who receives a bonus under this section, but who does not satisfy an eligibility requirement specified in paragraph (1), (2), (3), or (4) of subsection (a) for the entire certification period, shall be subject to the repayment provisions of section 303a(e) of this title .
 - **(f)** This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under the jurisdiction of the Secretary, by the Secretary of Homeland Security for the Coast Guard when the Coast Guard is not operating as a service in the Navy, by the Secretary of Health and Human Services for the Commissioned Corps of the Public Health Service, and by the Secretary of Commerce for the National Oceanic and Atmospheric Administration.
+
+Availability of Bonus
+
+Bonus Amount; Time for Payment
+
+Certification of Proficiency
+
+Certification Interrupted by Contingency Operation
+
+Repayment
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 99–661, div. A, title VI, § 634(a)(1)](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 3884](https://www.govinfo.gov/link/statute/100/3884); amended [Pub. L. 104–201, div. A, title VI, § 616(a)](https://www.govinfo.gov/link/plaw/104/public/201), (b), Sept. 23, 1996, [110 Stat. 2547](https://www.govinfo.gov/link/statute/110/2547); [Pub. L. 106–65, div. A, title VI, § 625(a)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 654](https://www.govinfo.gov/link/statute/113/654); [Pub. L. 107–296, title XVII, § 1704(c)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314); [Pub. L. 108–375, div. A, title VI, § 620(a)(1)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1952](https://www.govinfo.gov/link/statute/118/1952); [Pub. L. 109–163, div. A, title VI](https://www.govinfo.gov/link/plaw/109/public/163), §§ 639(a)–(e)(1), 687(b)(25), Jan. 6, 2006, [119 Stat. 3301](https://www.govinfo.gov/link/statute/119/3301), 3302, 3331.)*

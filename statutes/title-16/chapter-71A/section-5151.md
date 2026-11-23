@@ -3,9 +3,10 @@ title: "Section 5151 - Findings and purposes"
 usc_title: 16
 usc_section: "5151"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 5151"
-generated_at: "2026-03-30T02:54:23.050Z"
+generated_at: "2026-11-23T20:26:20.768Z"
+status: "active"
 ---
 
 # § 5151. Findings and purposes
@@ -18,3 +19,17 @@ generated_at: "2026-03-30T02:54:23.050Z"
     - **(B)** risks potential depletion in the future without effective monitoring and conservation and management measures.
   - **(4)** It is in the national interest to implement effective procedures and measures to provide for effective interjurisdictional conservation and management of this species.
 - **(b)** It is therefore declared to be the purpose of the Congress in this chapter to support and encourage the development, implementation, and enforcement of effective interstate action regarding the conservation and management of the Atlantic striped bass.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+George W. Bush.
+
+## Source Credit
+
+*([Pub. L. 98–613, § 2](https://www.govinfo.gov/link/plaw/98/public/613), Oct. 31, 1984, [98 Stat. 3187](https://www.govinfo.gov/link/statute/98/3187); [Pub. L. 105–146, § 2](https://www.govinfo.gov/link/plaw/105/public/146), Dec. 16, 1997, [111 Stat. 2672](https://www.govinfo.gov/link/statute/111/2672).)*

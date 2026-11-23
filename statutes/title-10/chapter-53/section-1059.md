@@ -3,9 +3,10 @@ title: "Section 1059 - Dependents of members separated for dependent abuse: tran
 usc_title: 10
 usc_section: "1059"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1059"
-generated_at: "2026-03-30T02:53:38.097Z"
+generated_at: "2026-11-23T20:25:51.183Z"
+status: "active"
 ---
 
 # § 1059. Dependents of members separated for dependent abuse: transitional compensation; commissary and exchange benefits; lodging expenses
@@ -70,3 +71,37 @@ generated_at: "2026-03-30T02:53:38.097Z"
   - **(1)** who is under 18 years of age;
   - **(2)** who is 18 years of age or older and is incapable of self-support because of a mental or physical incapacity that existed before the age of 18 and who is (or, at the time a punitive or other adverse action was executed in the case of the former member as described in subsection (b), was) dependent on the former member for over one-half of the child’s support; or
   - **(3)** who is 18 years of age or older but less than 23 years of age, is enrolled in a full-time course of study in an institution of higher learning approved by the Secretary of Defense and who is (or, at the time a punitive or other adverse action was executed in the case of the former member as described in subsection (b), was) dependent on the former member for over one-half of the child’s support.
+
+Authority To Pay Compensation
+
+Punitive and Other Adverse Actions Covered
+
+Dependent-Abuse Offenses
+
+Recipients of Payments
+
+Commencement and Duration of Payment
+
+Amount of Payment
+
+Spouse and Former Spouse Forfeiture Provisions
+
+Effect of Continuation of Military Pay
+
+Coordination of Benefits
+
+Commissary and Exchange Benefits
+
+Lodging Expenses
+
+Exceptional Eligibility for Dependents of Members or Former Members
+
+Regulations
+
+Dependent Child Defined
+
+Commencement and Duration of Payment
+
+## Source Credit
+
+*(Added [Pub. L. 103–160, div. A, title V, § 554(a)(1)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1663](https://www.govinfo.gov/link/statute/107/1663), § 1058; renumbered § 1059 and amended [Pub. L. 103–337, div. A, title V, § 535(a)](https://www.govinfo.gov/link/plaw/103/public/337) –(c)(1), title X, § 1070(a)(5)(A), Oct. 5, 1994, [108 Stat. 2762](https://www.govinfo.gov/link/statute/108/2762), 2763, 2855; [Pub. L. 104–106, div. A, title VI, § 636(a)](https://www.govinfo.gov/link/plaw/104/public/106), (b), title XV, § 1503(a)(8), Feb. 10, 1996, [110 Stat. 367](https://www.govinfo.gov/link/statute/110/367), 511; [Pub. L. 105–261, div. A, title V, § 570(a)](https://www.govinfo.gov/link/plaw/105/public/261), (b), Oct. 17, 1998, [112 Stat. 2032](https://www.govinfo.gov/link/statute/112/2032); [Pub. L. 107–296, title XVII, § 1704(b)(1)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314); [Pub. L. 108–136, div. A, title V](https://www.govinfo.gov/link/plaw/108/public/136), §§ 572(a), (b)(1), (c), 573(a), 574, Nov. 24, 2003, [117 Stat. 1484–1486](https://www.govinfo.gov/link/statute/117/1484); [Pub. L. 112–239, div. A, title V, § 564(a)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1748](https://www.govinfo.gov/link/statute/126/1748); [Pub. L. 113–291, div. A, title VI, § 621](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3401](https://www.govinfo.gov/link/statute/128/3401); [Pub. L. 115–91, div. A, title V, § 531](https://www.govinfo.gov/link/plaw/115/public/91) (l), Dec. 12, 2017, [131 Stat. 1386](https://www.govinfo.gov/link/statute/131/1386); [Pub. L. 116–92, div. A, title VI, § 621](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1426](https://www.govinfo.gov/link/statute/133/1426); [Pub. L. 117–81, div. A, title V, § 549(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1715](https://www.govinfo.gov/link/statute/135/1715); [Pub. L. 118–31, div. A, title VI](https://www.govinfo.gov/link/plaw/118/public/31), §§ 631, 632, Dec. 22, 2023, [137 Stat. 296](https://www.govinfo.gov/link/statute/137/296).)*

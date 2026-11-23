@@ -3,9 +3,10 @@ title: "Section 44723 - Annual report"
 usc_title: 49
 usc_section: "44723"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44723"
-generated_at: "2026-03-30T02:56:19.386Z"
+generated_at: "2026-11-23T20:27:35.185Z"
+status: "active"
 ---
 
 # § 44723. Annual report
@@ -29,3 +30,29 @@ Not later than January 1 of each year, the Secretary of Transportation shall sub
     - **(A)** the number of inspections performed when deficiencies were identified compared with inspections when no deficiencies were found;
     - **(B)** the frequency of safety deficiencies for each air carrier; and
     - **(C)** an analysis based on data of the general status of air carrier and general aviation compliance with aviation regulations.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 44723 | 49:308 (note). | Dec. 22, 1987 , Pub. L. 100–202, § 317(a) , 101 Stat. 1329–380 . |
+|  |  | Sept. 30, 1988 , Pub. L. 100–457, § 317(a) , 102 Stat. 2148 . |
+
+
+Historical and Revision Notes
+
+44723
+
+Dec. 22, 1987
+
+Pub. L. 100–202, § 317(a)
+
+101 Stat. 1329–380
+
+Sept. 30, 1988
+
+Pub. L. 100–457, § 317(a)
+
+102 Stat. 2148
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1202](https://www.govinfo.gov/link/statute/108/1202).)*

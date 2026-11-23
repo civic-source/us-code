@@ -3,9 +3,10 @@ title: "Section 7425 - Measures to prevent economic disruption or unemployment"
 usc_title: 42
 usc_section: "7425"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7425"
-generated_at: "2026-03-30T02:56:11.302Z"
+generated_at: "2026-11-23T20:27:22.864Z"
+status: "active"
 ---
 
 # § 7425. Measures to prevent economic disruption or unemployment
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:11.302Z"
 - **(f)** For purposes of sections 7413 and 7420 of this title a prohibition under subsection (b), and a corresponding rule or order under subsection (c), shall be treated as a requirement of section 7413 of this title . For purposes of any plan (or portion thereof) promulgated under section 7410(c) of this title , any rule or order under subsection (c) corresponding to a prohibition under subsection (b), shall be treated as a part of such plan. For purposes of section 7413 of this title , a prohibition under subsection (b), applicable to any source, and a corresponding rule or order under subsection (c), shall be treated as part of the applicable implementation plan for the State in which subject source is located.
 - **(g)** The President may delegate his authority under this section to an officer or employee of the United States designated by him on a case-by-case basis or in any other manner he deems suitable.
 - **(h)** For the purpose of this section the term “locally or regionally available coal or coal derivatives” means coal or coal derivatives which is, or can in the judgment of the State or the Administrator feasibly be, mined or produced in the local or regional area (as determined by the Administrator) in which the major fuel burning stationary source is located.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 125, as added [Pub. L. 95–95, title I, § 122](https://www.govinfo.gov/link/plaw/95/public/95), Aug. 7, 1977, [91 Stat. 722](https://www.govinfo.gov/link/statute/91/722).)*

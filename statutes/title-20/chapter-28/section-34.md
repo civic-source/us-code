@@ -3,9 +3,10 @@ title: "Section 34 - Allocation among States"
 usc_title: 20
 usc_section: "34"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 34"
-generated_at: "2026-03-30T02:54:48.108Z"
+generated_at: "2026-11-23T20:26:14.383Z"
+status: "active"
 ---
 
 # § 1070d–34. Allocation among States
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:48.108Z"
     - **(A)** there shall be 10 scholarships in the aggregate awarded to such students for each of the fiscal years 2000 through 2004; and
     - **(B)** the Pacific Regional Educational Laboratory shall administer the program under this subpart in the case of scholarships for students in the Freely Associated States.
   - **(2)** A student from the Freely Associated States shall not be eligible to receive a scholarship under this subpart after September 30, 2004 .
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 419D](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1344](https://www.govinfo.gov/link/statute/100/1344); amended [Pub. L. 102–325, title IV, § 406(c)](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 509](https://www.govinfo.gov/link/statute/106/509); [Pub. L. 103–208, § 2(b)(29)](https://www.govinfo.gov/link/plaw/103/public/208), Dec. 20, 1993, [107 Stat. 2460](https://www.govinfo.gov/link/statute/107/2460); [Pub. L. 105–244, title IV, § 409(a)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1668](https://www.govinfo.gov/link/statute/112/1668); [Pub. L. 111–39, title IV, § 401(a)(8)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1939](https://www.govinfo.gov/link/statute/123/1939).)*

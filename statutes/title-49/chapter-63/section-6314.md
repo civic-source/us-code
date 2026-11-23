@@ -3,9 +3,10 @@ title: "Section 6314 - Port performance freight statistics program"
 usc_title: 49
 usc_section: "6314"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 6314"
-generated_at: "2026-03-30T02:56:19.321Z"
+generated_at: "2026-11-23T20:27:34.703Z"
+status: "active"
 ---
 
 # § 6314. Port performance freight statistics program
@@ -50,3 +51,25 @@ generated_at: "2026-03-30T02:56:19.321Z"
     - **(A)** are readily accessible to the public; and
     - **(B)** are consistent with applicable security constraints and confidentiality interests; and
   - **(2)** the data acquired, regardless of source, shall be protected in accordance with section 3572 of title 44 .
+
+In General
+
+Reports.—
+
+Port capacity and throughput
+
+Port performance measures
+
+Recommendations.—
+
+In general
+
+Working group
+
+Recommendations
+
+Access to Data
+
+## Source Credit
+
+*(Added [Pub. L. 114–94, div. A, title VI, § 6018(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1576](https://www.govinfo.gov/link/statute/129/1576); amended [Pub. L. 115–435, title III, § 302(c)(3)(B)](https://www.govinfo.gov/link/plaw/115/public/435), Jan. 14, 2019, [132 Stat. 5553](https://www.govinfo.gov/link/statute/132/5553); [Pub. L. 116–260, div. AA, title V, § 512(c)(7)(A)(ii)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2757](https://www.govinfo.gov/link/statute/134/2757).)*

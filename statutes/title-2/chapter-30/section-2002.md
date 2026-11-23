@@ -3,9 +3,10 @@ title: "Section 2002 - Acquisition of buildings and facilities for use in emerge
 usc_title: 2
 usc_section: "2002"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 2002"
-generated_at: "2026-03-30T02:53:04.822Z"
+generated_at: "2026-11-23T20:25:29.003Z"
+status: "active"
 ---
 
 # § 2002. Acquisition of buildings and facilities for use in emergency situation
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:04.822Z"
   - **(2)**
 - **(d)** Subject to the approval of the Committee on Appropriations of the House of Representatives, the Architect of the Capitol may transfer to the Chief Administrative Officer amounts made available to the Architect for necessary expenses for the maintenance, care and operation of the House office buildings during a fiscal year in order to cover any portion of the costs incurred by the Chief Administrative Officer during the year in acquiring a building or facility pursuant to subsection (a).
 - **(e)** This section and the amendments made by this section shall apply with respect to fiscal year 2002 and each succeeding fiscal year.
+
+## Source Credit
+
+*([Pub. L. 107–117, div. B, § 903](https://www.govinfo.gov/link/plaw/107/public/117), Jan. 10, 2002, [115 Stat. 2317](https://www.govinfo.gov/link/statute/115/2317); [Pub. L. 107–206, title I, § 903(a)(1)](https://www.govinfo.gov/link/plaw/107/public/206), Aug. 2, 2002, [116 Stat. 876](https://www.govinfo.gov/link/statute/116/876).)*

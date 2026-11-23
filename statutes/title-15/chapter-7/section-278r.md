@@ -3,9 +3,10 @@ title: "Section 278r - Collaborative manufacturing research pilot grants"
 usc_title: 15
 usc_section: "278r"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 278r"
-generated_at: "2026-03-30T02:54:08.080Z"
+generated_at: "2026-11-23T20:26:03.691Z"
+status: "active"
 ---
 
 # § 278r. Collaborative manufacturing research pilot grants
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:08.080Z"
   - **(3)** the demonstrated capabilities of the applicants to successfully carry out the proposed research.
 - **(e)** In selecting applications under this section the Director shall ensure, to the extent practicable, a distribution of overall awards among a variety of manufacturing industry sectors and a range of firm sizes.
 - **(f)** In carrying out this section, the Director shall run a single pilot competition to solicit and make awards. Each award shall be for a 3-year period.
+
+## Source Credit
+
+*(Mar. 3, 1901, ch. 872, § 33, as added [Pub. L. 110–69, title III, § 3007(2)](https://www.govinfo.gov/link/plaw/110/public/69), Aug. 9, 2007, [121 Stat. 591](https://www.govinfo.gov/link/statute/121/591).)*

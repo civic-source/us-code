@@ -3,9 +3,10 @@ title: "Section 13541 - Authority to exempt transportation or services"
 usc_title: 49
 usc_section: "13541"
 chapter: 135
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 13541"
-generated_at: "2026-03-30T02:56:19.327Z"
+generated_at: "2026-11-23T20:27:34.741Z"
+status: "active"
 ---
 
 # § 13541. Authority to exempt transportation or services
@@ -21,3 +22,23 @@ generated_at: "2026-03-30T02:56:19.327Z"
   - **(1)** The exemption authority under this section may not be used to relieve a person from the application of, and compliance with, any law, rule, regulation, standard, or order pertaining to cargo loss and damage, insurance, safety fitness, or activities approved under section 13703 or 14302 or not terminated under section 13907(d)(2).
   - **(2)** The Secretary or Board, as applicable, may not exempt a water carrier from the application of, or compliance with, section 13701 or 13702 for transportation in the non-contiguous domestic trade.
 - **(f)** The Secretary or Board, as applicable, shall not regulate or exercise jurisdiction under this part over the transportation by water carrier in the non-contiguous domestic trade of any cargo or type of cargo or service which was not subject to regulation by, or under the jurisdiction of, either the Federal Maritime Commission or Interstate Commerce Commission under Federal law in effect on November 1, 1995 .
+
+In General
+
+Initiation of Proceeding
+
+Period of Exemption
+
+Revocation
+
+Limitations.—
+
+In general
+
+Water carriers
+
+Continuation of Certain Existing Exemptions for Water Carriers
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 866](https://www.govinfo.gov/link/statute/109/866).)*

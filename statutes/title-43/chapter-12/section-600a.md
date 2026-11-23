@@ -3,9 +3,10 @@ title: "Section 600a - Arch Hurley Conservancy District project, New Mexico"
 usc_title: 43
 usc_section: "600a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 600a"
-generated_at: "2026-03-30T02:55:57.455Z"
+generated_at: "2026-11-23T20:27:06.229Z"
+status: "active"
 ---
 
 # § 600a. Arch Hurley Conservancy District project, New Mexico
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:57.455Z"
 - **(b)** a contract shall have been executed with an irrigation or conservation district embracing the land to be irrigated under said project, which contract shall obligate the contracting district to repay the cost of construction of said project met by expenditure of moneys from the reclamation fund in forty equal annual installments, without interest;
 - **(c)** contracts shall have been made with each owner of more than one hundred and sixty irrigable acres under said project, by which he, his successors, and assigns shall be obligated to sell all of his land in excess of one hundred and sixty irrigable acres at or below prices fixed by the Secretary of the Interior and within the time to be fixed by said Secretary, no water to be furnished to the land of any such large landowner refusing or failing to execute such contract.
 
+
+## Source Credit
+
+*(Aug. 2, 1937, ch. 557, [50 Stat. 557](https://www.govinfo.gov/link/statute/50/557); Apr. 9, 1938, ch. 134, [52 Stat. 211](https://www.govinfo.gov/link/statute/52/211); Aug. 9, 1955, ch. 637, § 1, [69 Stat. 556](https://www.govinfo.gov/link/statute/69/556).)*

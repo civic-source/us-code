@@ -3,12 +3,17 @@ title: "Section 825k - Publication and sale of reports"
 usc_title: 16
 usc_section: "825k"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 825k"
-generated_at: "2026-03-30T02:54:22.920Z"
+generated_at: "2026-11-23T20:26:20.297Z"
+status: "active"
 ---
 
 # § 825k. Publication and sale of reports
 
 The Commission may provide for the publication of its reports and decisions in such form and manner as may be best adapted for public information and use, and is authorized to sell at reasonable prices copies of all maps, atlases, and reports as it may from time to time publish. Such reasonable prices may include the cost of compilation, composition, and reproduction. The Commission is also authorized to make such charges as it deems reasonable for special statistical services and other special or periodic services. The amounts collected under this section shall be deposited in the Treasury to the credit of miscellaneous receipts. All printing for the Federal Power Commission making use of engraving, lithography, and photolithography, together with the plates for the same, shall be contracted for and performed under the direction of the Commission, under such limitations and conditions as the Joint Committee on Printing may from time to time prescribe, and all other printing for the Commission shall be done by the Director of the Government Publishing Office under such limitations and conditions as the Joint Committee on Printing may from time to time prescribe. The entire work may be done at, or ordered through, the Government Publishing Office whenever, in the judgment of the Joint Committee on Printing, the same would be to the interest of the Government: Provided , That when the exigencies of the public service so require, the Joint Committee on Printing may authorize the Commission to make immediate contracts for engraving, lithographing, and photolithographing, without advertisement for proposals: Provided further , That nothing contained in this chapter or any other Act shall prevent the Federal Power Commission from placing orders with other departments or establishments for engraving, lithographing, and photolithographing, in accordance with the provisions of sections 1535 and 1536 of title 31, providing for interdepartmental work.
 
+
+## Source Credit
+
+*(June 10, 1920, ch. 285, pt. III, § 312, as added Aug. 26, 1935, ch. 687, title II, § 213, [49 Stat. 859](https://www.govinfo.gov/link/statute/49/859); amended [Pub. L. 113–235, div. H, title I, § 1301(b)](https://www.govinfo.gov/link/plaw/113/public/235), (d), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537).)*

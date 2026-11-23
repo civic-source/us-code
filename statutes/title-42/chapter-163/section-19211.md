@@ -3,9 +3,10 @@ title: "Section 19211 - Early-career research fellowship program"
 usc_title: 42
 usc_section: "19211"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 19211"
-generated_at: "2026-03-30T02:56:11.542Z"
+generated_at: "2026-11-23T20:27:23.866Z"
+status: "active"
 ---
 
 # § 19211. Early-career research fellowship program
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.542Z"
   - **(1)** A summary of the uses of award funds under this section and the impact of the pilot program under this section.
   - **(2)** Statistical summary data on fellowship awardees disaggregated by race, ethnicity, sex, geography, age, years since completion of doctoral degree, and institution type.
   - **(3)** If determined effective, a plan for permanent implementation of the pilot program.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title VI, § 10601](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1632](https://www.govinfo.gov/link/statute/136/1632).)*

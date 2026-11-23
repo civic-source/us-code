@@ -3,9 +3,10 @@ title: "Section 231 - Transfer of certain agricultural inspection functions of t
 usc_title: 6
 usc_section: "231"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 231"
-generated_at: "2026-03-30T02:53:09.453Z"
+generated_at: "2026-11-23T20:25:34.673Z"
+status: "active"
 ---
 
 # § 231. Transfer of certain agricultural inspection functions of the Department of Agriculture
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:53:09.453Z"
   - **(1)** Out of funds collected by fees authorized under sections 136 and 136a of title 21, the Secretary of Agriculture shall transfer, from time to time in accordance with the agreement under subsection (e), to the Secretary funds for activities carried out by the Secretary for which such fees were collected.
   - **(2)** The proportion of fees collected pursuant to such sections that are transferred to the Secretary under this subsection may not exceed the proportion of the costs incurred by the Secretary to all costs incurred to carry out activities funded by such fees.
 - **(g)** Not later than the completion of the transition period defined under section 541 of this title , the Secretary of Agriculture shall transfer to the Secretary not more than 3,200 full-time equivalent positions of the Department of Agriculture.
+
+## Source Credit
+
+*([Pub. L. 107–296, title IV, § 421](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2182](https://www.govinfo.gov/link/statute/116/2182).)*

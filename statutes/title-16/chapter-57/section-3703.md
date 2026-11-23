@@ -3,9 +3,10 @@ title: "Section 3703 - Rights and obligations of Foundation"
 usc_title: 16
 usc_section: "3703"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3703"
-generated_at: "2026-03-30T02:54:23.019Z"
+generated_at: "2026-11-23T20:26:20.668Z"
+status: "active"
 ---
 
 # § 3703. Rights and obligations of Foundation
@@ -53,3 +54,11 @@ generated_at: "2026-03-30T02:54:23.019Z"
     - **(B)** the purposes of the Foundation would be better served by use of the proceeds of the conveyance for other authorized activities of the Foundation.
 - **(f)** The Foundation shall not make any expenditure of Federal funds in connection with any one transaction for printing services or capital equipment that is greater than $10,000 unless the expenditure is approved by the Federal agency that administers the Federal program under which the funds were provided.
 - **(g)** The Foundation shall not make a grant of Federal funds in an amount greater than $10,000 unless, by not later than 30 days before the grant is made, the Foundation provides notice of the grant to the Member of Congress for the congressional district in which the project to be funded with the grant will be carried out.
+
+Reconveyance of real property
+
+“Congress finds that—
+
+## Source Credit
+
+*([Pub. L. 98–244, § 4](https://www.govinfo.gov/link/plaw/98/public/244), Mar. 26, 1984, [98 Stat. 108](https://www.govinfo.gov/link/statute/98/108); [Pub. L. 100–240](https://www.govinfo.gov/link/plaw/100/public/240), §§ 1(b), 2(a), (b)(1), Jan. 11, 1988, [101 Stat. 1785](https://www.govinfo.gov/link/statute/101/1785), 1786; [Pub. L. 105–277, div. A, § 101(b) [title IX, § 903]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–50](https://www.govinfo.gov/link/statute/112/2681), 2681–120; [Pub. L. 106–408, title II](https://www.govinfo.gov/link/plaw/106/public/408), §§ 203(c)(1), 204(a)–(c), (e)–(g), 206, Nov. 1, 2000, [114 Stat. 1779](https://www.govinfo.gov/link/statute/114/1779), 1780; [Pub. L. 109–363, title II, § 203](https://www.govinfo.gov/link/plaw/109/public/363), Oct. 17, 2006, [120 Stat. 2075](https://www.govinfo.gov/link/statute/120/2075); [Pub. L. 116–188, title I, § 107(b)](https://www.govinfo.gov/link/plaw/116/public/188), Oct. 30, 2020, [134 Stat. 918](https://www.govinfo.gov/link/statute/134/918).)*

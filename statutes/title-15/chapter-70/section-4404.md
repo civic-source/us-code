@@ -3,9 +3,10 @@ title: "Section 4404 - Enforcement, regulations, and construction"
 usc_title: 15
 usc_section: "4404"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 4404"
-generated_at: "2026-03-30T02:54:08.199Z"
+generated_at: "2026-11-23T20:26:04.336Z"
+status: "active"
 ---
 
 # § 4404. Enforcement, regulations, and construction
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.199Z"
   - **(1)** Regulations issued by the Federal Trade Commission under section 4402 of this title shall be issued in accordance with section 553 of title 5 .
   - **(2)** Not later than 180 days after February 27, 1986 , the Federal Trade Commission shall promulgate such regulations as it may require to implement section 4402 of this title .
 - **(c)** Nothing in this chapter (other than the requirements of sections 4402 and 4403 of this title) shall be construed to limit, restrict, or expand the authority of the Federal Trade Commission with respect to unfair or deceptive acts or practices in the advertising of smokeless tobacco products.
+
+## Source Credit
+
+*([Pub. L. 99–252, § 5](https://www.govinfo.gov/link/plaw/99/public/252), Feb. 27, 1986, [100 Stat. 33](https://www.govinfo.gov/link/statute/100/33).)*

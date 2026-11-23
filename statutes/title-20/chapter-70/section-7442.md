@@ -3,9 +3,10 @@ title: "Section 7442 - Professional development for teachers and education profe
 usc_title: 20
 usc_section: "7442"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 7442"
-generated_at: "2026-03-30T02:54:48.213Z"
+generated_at: "2026-11-23T20:26:14.912Z"
+status: "active"
 ---
 
 # § 7442. Professional development for teachers and education professionals
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:54:48.213Z"
       - **(ii)** that benefits Indian students in a local educational agency that serves a high proportion of Indian students; or
     - **(B)** repay all or a prorated part of the assistance received.
   - **(2)** The Secretary shall establish, by regulation, a reporting procedure under which a grant recipient under this section shall, not later than 12 months after the date of completion of the training, and periodically thereafter, provide information concerning compliance with the work requirement under paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 89–10, title VI, § 6122](https://www.govinfo.gov/link/plaw/89/public/10), formerly title VII, § 7122, as added [Pub. L. 107–110, title VII, § 701](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1922](https://www.govinfo.gov/link/statute/115/1922); renumbered title VI, § 6122, and amended [Pub. L. 114–95, title VI](https://www.govinfo.gov/link/plaw/114/public/95), §§ 6001(a), (b)(1), 6002(l), Dec. 10, 2015, [129 Stat. 2046](https://www.govinfo.gov/link/statute/129/2046), 2056.)*

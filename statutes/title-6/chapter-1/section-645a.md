@@ -3,9 +3,10 @@ title: "Section 645a - Human trafficking assessment"
 usc_title: 6
 usc_section: "645a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 645a"
-generated_at: "2026-03-30T02:53:09.473Z"
+generated_at: "2026-11-23T20:25:34.812Z"
+status: "active"
 ---
 
 # § 645a. Human trafficking assessment
@@ -17,3 +18,7 @@ Not later than 1 year after December 21, 2018 , and annually thereafter, the Exe
     - **(A)** whether the victim is a victim of sex trafficking or a victim of labor trafficking; and
     - **(B)** whether the victim is a minor or an adult; and
   - **(3)** an analysis of the data described in paragraphs (1) and (2) and other data available to Homeland Security Investigations that indicates any general human trafficking or investigatory trends.
+
+## Source Credit
+
+*([Pub. L. 115–393, title IV, § 403](https://www.govinfo.gov/link/plaw/115/public/393), Dec. 21, 2018, [132 Stat. 5275](https://www.govinfo.gov/link/statute/132/5275).)*

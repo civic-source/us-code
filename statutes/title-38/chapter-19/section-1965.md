@@ -3,9 +3,10 @@ title: "Section 1965 - Definitions"
 usc_title: 38
 usc_section: "1965"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 1965"
-generated_at: "2026-03-30T02:55:53.491Z"
+generated_at: "2026-11-23T20:27:01.747Z"
+status: "active"
 ---
 
 # § 1965. Definitions
@@ -39,3 +40,7 @@ For the purpose of this subchapter—
     - **(A)** The member’s spouse.
     - **(B)** The member’s child, as defined in the first sentence of section 101(4)(A) of this title .
     - **(C)** The member’s stillborn child.
+
+## Source Credit
+
+*(Added [Pub. L. 89–214, § 1(a)](https://www.govinfo.gov/link/plaw/89/public/214), Sept. 29, 1965, [79 Stat. 880](https://www.govinfo.gov/link/statute/79/880), § 765; amended [Pub. L. 91–291, § 1](https://www.govinfo.gov/link/plaw/91/public/291), June 25, 1970, [84 Stat. 326](https://www.govinfo.gov/link/statute/84/326); [Pub. L. 92–185, § 1](https://www.govinfo.gov/link/plaw/92/public/185), Dec. 15, 1971, [85 Stat. 642](https://www.govinfo.gov/link/statute/85/642); [Pub. L. 92–315](https://www.govinfo.gov/link/plaw/92/public/315), June 20, 1972, [86 Stat. 227](https://www.govinfo.gov/link/statute/86/227); [Pub. L. 93–289](https://www.govinfo.gov/link/plaw/93/public/289), §§ 3, 10(1), May 24, 1974, [88 Stat. 165](https://www.govinfo.gov/link/statute/88/165), 172; [Pub. L. 99–576, title VII, § 701(35)](https://www.govinfo.gov/link/plaw/99/public/576), Oct. 28, 1986, [100 Stat. 3293](https://www.govinfo.gov/link/statute/100/3293); [Pub. L. 102–54, § 14(b)(16)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 284](https://www.govinfo.gov/link/statute/105/284); renumbered § 1965 and amended [Pub. L. 102–83, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/83), (c)(1), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 103–337, div. A, title VI, § 651(a)](https://www.govinfo.gov/link/plaw/103/public/337), title XVI, § 1677(d)(1), Oct. 5, 1994, [108 Stat. 2792](https://www.govinfo.gov/link/statute/108/2792), 3020; [Pub. L. 104–275, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/104/public/275), Oct. 9, 1996, [110 Stat. 3337](https://www.govinfo.gov/link/statute/110/3337); [Pub. L. 106–419, title III, § 313(a)](https://www.govinfo.gov/link/plaw/106/public/419), Nov. 1, 2000, [114 Stat. 1854](https://www.govinfo.gov/link/statute/114/1854); [Pub. L. 107–14, § 4(a)(1)](https://www.govinfo.gov/link/plaw/107/public/14), June 5, 2001, [115 Stat. 26](https://www.govinfo.gov/link/statute/115/26); [Pub. L. 109–13, div. A, title I, § 1032(a)(1)](https://www.govinfo.gov/link/plaw/109/public/13), May 11, 2005, [119 Stat. 257](https://www.govinfo.gov/link/statute/119/257); [Pub. L. 109–233, title V, § 501(c)(1)](https://www.govinfo.gov/link/plaw/109/public/233), June 15, 2006, [120 Stat. 415](https://www.govinfo.gov/link/statute/120/415); [Pub. L. 110–389, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/110/public/389), Oct. 10, 2008, [122 Stat. 4174](https://www.govinfo.gov/link/statute/122/4174); [Pub. L. 118–31, div. A, title XVII, § 1723(a)(2)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 674](https://www.govinfo.gov/link/statute/137/674).)*

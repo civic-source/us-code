@@ -3,9 +3,10 @@ title: "Section 2384 - Statutory officers"
 usc_title: 22
 usc_section: "2384"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2384"
-generated_at: "2026-03-30T02:55:05.363Z"
+generated_at: "2026-11-23T20:26:32.275Z"
+status: "active"
 ---
 
 # § 2384. Statutory officers
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.363Z"
 - **(c)** Any person who was appointed by and with the advice and consent of the Senate, to any statutory position authorized by any provision of law repealed by section 642(a) and who is serving in one of such positions at the time of transfer of functions pursuant to subsections (c) and (d) of section 2381 of this title , may be appointed by the President to a comparable position authorized by subsection (a) of this section on the date of the establishment of the agency primarily responsible for administering subchapter I of this chapter, without further action by the Senate.
 - **(d)**
 - **(e)** In addition to the officers otherwise provided for in this section, the President shall appoint, by and with the advice and consent of the Senate, one officer for the purpose of coordinating security assistance programs.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. III, § 624, Sept. 4, 1961, [75 Stat. 447](https://www.govinfo.gov/link/statute/75/447); [Pub. L. 87–565](https://www.govinfo.gov/link/plaw/87/public/565), pt. III, § 302(b), Aug. 1, 1962, [76 Stat. 262](https://www.govinfo.gov/link/statute/76/262); [Pub. L. 88–205](https://www.govinfo.gov/link/plaw/88/public/205), pt. III, § 302(b), Dec. 16, 1963, [77 Stat. 388](https://www.govinfo.gov/link/statute/77/388); [Pub. L. 88–426, title III, § 305(33)](https://www.govinfo.gov/link/plaw/88/public/426), (42), Aug. 14, 1964, [78 Stat. 426](https://www.govinfo.gov/link/statute/78/426), 428; [Pub. L. 89–171](https://www.govinfo.gov/link/plaw/89/public/171), pt. III, § 302(b), Sept. 6, 1965, [79 Stat. 660](https://www.govinfo.gov/link/statute/79/660); [Pub. L. 89–583](https://www.govinfo.gov/link/plaw/89/public/583), pt. III, § 302(b), Sept. 19, 1966, [80 Stat. 807](https://www.govinfo.gov/link/statute/80/807); [Pub. L. 90–137](https://www.govinfo.gov/link/plaw/90/public/137), pt. III, § 302(a), Nov. 14, 1967, [81 Stat. 460](https://www.govinfo.gov/link/statute/81/460); [Pub. L. 91–175](https://www.govinfo.gov/link/plaw/91/public/175), pt. III, § 304, Dec. 30, 1969, [83 Stat. 821](https://www.govinfo.gov/link/statute/83/821); [Pub. L. 92–226](https://www.govinfo.gov/link/plaw/92/public/226), pt. III, § 302, Feb. 7, 1972, [86 Stat. 28](https://www.govinfo.gov/link/statute/86/28); [Pub. L. 94–329, title III, § 301(b)](https://www.govinfo.gov/link/plaw/94/public/329), June 30, 1976, [90 Stat. 750](https://www.govinfo.gov/link/statute/90/750); [Pub. L. 95–88, title I, § 124(a)(1)](https://www.govinfo.gov/link/plaw/95/public/88), Aug. 3, 1977, [91 Stat. 541](https://www.govinfo.gov/link/statute/91/541); [Pub. L. 95–105, title I, § 109(a)(1)](https://www.govinfo.gov/link/plaw/95/public/105), Aug. 17, 1977, [91 Stat. 846](https://www.govinfo.gov/link/statute/91/846); [Pub. L. 95–424, title V, § 504](https://www.govinfo.gov/link/plaw/95/public/424), Oct. 6, 1978, [92 Stat. 959](https://www.govinfo.gov/link/statute/92/959); [Pub. L. 96–533, title VII, § 706](https://www.govinfo.gov/link/plaw/96/public/533), Dec. 16, 1980, [94 Stat. 3158](https://www.govinfo.gov/link/statute/94/3158); [Pub. L. 97–113, title VII, § 705(b)(1)](https://www.govinfo.gov/link/plaw/97/public/113), Dec. 29, 1981, [95 Stat. 1545](https://www.govinfo.gov/link/statute/95/1545); [Pub. L. 98–164, title X, § 1002(b)](https://www.govinfo.gov/link/plaw/98/public/164), Nov. 22, 1983, [97 Stat. 1052](https://www.govinfo.gov/link/statute/97/1052); [Pub. L. 103–236, title I, § 162(e)(4)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 405](https://www.govinfo.gov/link/statute/108/405).)*

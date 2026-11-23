@@ -3,12 +3,17 @@ title: "Section 1367 - Repayments"
 usc_title: 15
 usc_section: "1367"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1367"
-generated_at: "2026-03-30T02:54:08.135Z"
+generated_at: "2026-11-23T20:26:04.004Z"
+status: "active"
 ---
 
 # § 1367. Repayments
 
 Upon notice by the Secretary to any designated agency or participating institution that no further payments will be made pending substantial compliance, correction, or repayment under section 1366 of this title , any funds which may have been paid to such agency or institution under this chapter and which are not expended by the agency or institution on the date of such notice, shall be repaid to the Secretary and be deposited to the account of the appropriations from which they originally were paid.
 
+
+## Source Credit
+
+*([Pub. L. 89–182, § 17](https://www.govinfo.gov/link/plaw/89/public/182), Sept. 14, 1965, [79 Stat. 684](https://www.govinfo.gov/link/statute/79/684).)*

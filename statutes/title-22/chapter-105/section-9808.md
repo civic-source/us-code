@@ -3,9 +3,10 @@ title: "Section 9808 - Authorization of appropriations"
 usc_title: 22
 usc_section: "9808"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9808"
-generated_at: "2026-03-30T02:55:05.473Z"
+generated_at: "2026-11-23T20:26:32.802Z"
+status: "active"
 ---
 
 # § 9808. Authorization of appropriations
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:05.473Z"
     - **(B)** the appropriate congressional committees—
       - **(i)** are notified as early as practicable but in no event later than three days after an obligation of amounts from the Fund; and
       - **(ii)** are provided with an explanation of the emergency circumstances that necessitated such waiver.
+
+## Source Credit
+
+*([Pub. L. 116–94, div. J, title V, § 509](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3066](https://www.govinfo.gov/link/statute/133/3066).)*

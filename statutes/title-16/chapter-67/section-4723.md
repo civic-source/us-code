@@ -3,9 +3,10 @@ title: "Section 4723 - Regional coordination"
 usc_title: 16
 usc_section: "4723"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 4723"
-generated_at: "2026-03-30T02:54:23.047Z"
+generated_at: "2026-11-23T20:26:20.752Z"
+status: "active"
 ---
 
 # § 4723. Regional coordination
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:23.047Z"
 - **(c)** The Task Force shall—
   - **(1)** encourage the development and use of regional panels and other similar entities in regions in addition to the Great Lakes and Western regions (including providing financial assistance for the development and use of such entities) to carry out, with respect to those regions, activities that are similar to the activities described in subsections (a) and (b); and
   - **(2)** cooperate with regional panels and similar entities that carry out the activities described in paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 101–646, title I, § 1203](https://www.govinfo.gov/link/plaw/101/public/646), Nov. 29, 1990, [104 Stat. 4769](https://www.govinfo.gov/link/statute/104/4769); [Pub. L. 104–332, § 2(e)(5)](https://www.govinfo.gov/link/plaw/104/public/332), (h)(1), Oct. 26, 1996, [110 Stat. 4087](https://www.govinfo.gov/link/statute/110/4087), 4091; [Pub. L. 117–263, div. K, title CXIII, § 11327(e)(3)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4098](https://www.govinfo.gov/link/statute/136/4098).)*

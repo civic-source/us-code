@@ -3,9 +3,10 @@ title: "Section 6329a - Administrative leave"
 usc_title: 5
 usc_section: "6329a"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 6329a"
-generated_at: "2026-03-30T02:52:56.031Z"
+generated_at: "2026-11-23T20:25:32.033Z"
+status: "active"
 ---
 
 # § 6329a. Administrative leave
@@ -37,3 +38,27 @@ generated_at: "2026-03-30T02:52:56.031Z"
         - **(II)** other leave authorized by law.
   - **(2)** Not later than 270 calendar days after the date on which the Director of the Office of Personnel Management prescribes regulations under paragraph (1), each agency shall revise and implement the internal policies of the agency to meet the requirements of this section.
 - **(d)** Notwithstanding subsection (a) of section 7421 of title 38 , this section shall apply to an employee described in subsection (b) of that section.
+
+Definitions
+
+Administrative Leave.—
+
+In general
+
+Records
+
+Regulations.—
+
+OPM regulations
+
+Agency action
+
+Relation to Other Laws
+
+“It is the sense of Congress that—
+
+“Not later than 5 years after the date of enactment of this Act [ Dec. 23, 2016 ], and every 5 years thereafter, the Comptroller General of the United States shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform [now Committee on Oversight and Accountability] of the House of Representatives a report on the results of an evaluation of the implementation of the authority provided under sections 6329a and 6329b of title 5, United States Code, as added by subsection (c)(1) of this section and paragraph (1) of this subsection, respectively, including—
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. A, title XI, § 1138(c)(1)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2461](https://www.govinfo.gov/link/statute/130/2461).)*

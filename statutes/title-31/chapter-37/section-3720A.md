@@ -3,9 +3,10 @@ title: "Section 3720A - Reduction of tax refund by amount of debt"
 usc_title: 31
 usc_section: "3720A"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 3720A"
-generated_at: "2026-03-30T02:55:34.060Z"
+generated_at: "2026-11-23T20:26:51.807Z"
+status: "active"
 ---
 
 # § 3720A. Reduction of tax refund by amount of debt
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:55:34.060Z"
 - **(h)**
   - **(2)** 1 The term “disbursing official” of the Department of the Treasury means the Secretary or his designee.
 - **(i)** An agency subject to section 9 of the Act of May 18, 1933 ( 16 U.S.C. 831h ), may implement this section at its discretion.
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. B, title VI, § 2653(a)(1)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1153](https://www.govinfo.gov/link/statute/98/1153); amended [Pub. L. 101–508, title V, § 5129(b)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–287](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 102–589, § 3](https://www.govinfo.gov/link/plaw/102/public/589), Nov. 10, 1992, [106 Stat. 5133](https://www.govinfo.gov/link/statute/106/5133); [Pub. L. 103–296, title I, § 108(j)(2)](https://www.govinfo.gov/link/plaw/103/public/296), Aug. 15, 1994, [108 Stat. 1488](https://www.govinfo.gov/link/statute/108/1488); [Pub. L. 104–134, title III, § 31001(u)(1)](https://www.govinfo.gov/link/plaw/104/public/134), (v)(1), (w), Apr. 26, 1996, [110 Stat. 1321–375](https://www.govinfo.gov/link/statute/110/1321).)*

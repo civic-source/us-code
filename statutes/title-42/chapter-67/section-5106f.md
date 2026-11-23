@@ -3,9 +3,10 @@ title: "Section 5106f - Reports"
 usc_title: 42
 usc_section: "5106f"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5106f"
-generated_at: "2026-03-30T02:56:11.218Z"
+generated_at: "2026-11-23T20:27:22.457Z"
+status: "active"
 ---
 
 # § 5106f. Reports
@@ -24,3 +25,11 @@ generated_at: "2026-03-30T02:56:11.218Z"
 - **(d)**
   - **(1)** The Secretary shall complete a study, in consultation with experts in the provision of healthcare, law enforcement, education, and local child welfare administration, that examines how provisions for immunity from prosecution under State and local laws and regulations facilitate and inhibit individuals cooperating, consulting, or assisting in making good faith reports, including mandatory reports, of suspected or known instances of child abuse or neglect.
   - **(2)** Not later than 1 year after December 20, 2010 , the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and Labor of the House of Representatives a report that contains the results of the study conducted under paragraph (1) and any recommendations for statutory or regulatory changes the Secretary determines appropriate. Such report may be submitted electronically.
+
+Study
+
+Report
+
+## Source Credit
+
+*([Pub. L. 93–247, title I, § 110](https://www.govinfo.gov/link/plaw/93/public/247), formerly § 13, as added [Pub. L. 100–294, title I, § 101](https://www.govinfo.gov/link/plaw/100/public/294), Apr. 25, 1988, [102 Stat. 116](https://www.govinfo.gov/link/statute/102/116); renumbered title I, § 112, and amended [Pub. L. 101–126, § 3(a)(1)](https://www.govinfo.gov/link/plaw/101/public/126), (2), (b)(6), Oct. 25, 1989, [103 Stat. 764](https://www.govinfo.gov/link/statute/103/764), 765; renumbered § 110 and amended [Pub. L. 104–235, title I, § 113(a)(1)(B)](https://www.govinfo.gov/link/plaw/104/public/235), (3), Oct. 3, 1996, [110 Stat. 3079](https://www.govinfo.gov/link/statute/110/3079); [Pub. L. 108–36, title I, § 118](https://www.govinfo.gov/link/plaw/108/public/36), June 25, 2003, [117 Stat. 813](https://www.govinfo.gov/link/statute/117/813); [Pub. L. 111–320, title I, § 118](https://www.govinfo.gov/link/plaw/111/public/320), Dec. 20, 2010, [124 Stat. 3475](https://www.govinfo.gov/link/statute/124/3475).)*

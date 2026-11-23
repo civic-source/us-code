@@ -3,9 +3,10 @@ title: "Section 609a - Nonprofit Security Grant Program"
 usc_title: 6
 usc_section: "609a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 609a"
-generated_at: "2026-03-30T02:53:09.472Z"
+generated_at: "2026-11-23T20:25:34.809Z"
+status: "active"
 ---
 
 # § 609a. Nonprofit Security Grant Program
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:53:09.472Z"
     - **(A)** $180,000,000 each such fiscal year shall be for recipients in high-risk urban areas that receive funding under section 2003; and
     - **(B)** $180,000,000 each such fiscal year shall be for recipients in jurisdictions that do not so receive such funding.
   - **(2)** There is authorized to be appropriated $18,000,000 for each of fiscal years 2023 through 2028 for Operations and Support at the Federal Emergency Management Agency for costs incurred for the management and administration (including evaluation) of this section.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XX, § 2009](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 116–108, § 2(a)](https://www.govinfo.gov/link/plaw/116/public/108), Jan. 24, 2020, [133 Stat. 3294](https://www.govinfo.gov/link/statute/133/3294); amended [Pub. L. 117–263, div. G, title LXXI, § 7101(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3616](https://www.govinfo.gov/link/statute/136/3616).)*

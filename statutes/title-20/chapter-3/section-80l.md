@@ -3,12 +3,17 @@ title: "Section 80l - Establishment of Museum of African Art; functions"
 usc_title: 20
 usc_section: "80l"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 80l"
-generated_at: "2026-03-30T02:54:48.076Z"
+generated_at: "2026-11-23T20:26:14.228Z"
+status: "active"
 ---
 
 # § 80l. Establishment of Museum of African Art; functions
 
 There is established in the Smithsonian Institution a bureau which shall be known as the “Museum of African Art” (hereinafter in this subchapter referred to as the “Museum”). The functions of such bureau shall be those authorized by section 80m(a) of this title .
 
+
+## Source Credit
+
+*([Pub. L. 95–414, § 2](https://www.govinfo.gov/link/plaw/95/public/414), Oct. 5, 1978, [92 Stat. 911](https://www.govinfo.gov/link/statute/92/911).)*

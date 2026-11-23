@@ -3,9 +3,10 @@ title: "Section 16279b - International nuclear energy cooperation"
 usc_title: 42
 usc_section: "16279b"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16279b"
-generated_at: "2026-03-30T02:56:11.477Z"
+generated_at: "2026-11-23T20:27:23.646Z"
+status: "active"
 ---
 
 # § 16279b. International nuclear energy cooperation
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:56:11.477Z"
     - **(I)** options for multinational cooperation with respect to the disposal of spent nuclear fuel (as defined in section 10101 of this title ); and
   - **(2)** in coordination with any Federal agency that the President determines to be appropriate.
 - **(c)** Of funds authorized to be appropriated or otherwise made available to the Secretary to carry out activities related to international civil nuclear energy cooperation, there is authorized to be appropriated for each of fiscal years 2026 through 2030 up to $15,500,000 to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 959B](https://www.govinfo.gov/link/plaw/109/public/58), as added [Pub. L. 116–260, div. Z, title II, § 2003(h)(1)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2470](https://www.govinfo.gov/link/statute/134/2470); amended [Pub. L. 119–60, div. H, title LXXXIII, § 8366(g)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1894](https://www.govinfo.gov/link/statute/139/1894).)*

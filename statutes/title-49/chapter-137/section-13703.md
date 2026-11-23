@@ -3,9 +3,10 @@ title: "Section 13703 - Certain collective activities; exemption from antitrust 
 usc_title: 49
 usc_section: "13703"
 chapter: 137
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 13703"
-generated_at: "2026-03-30T02:56:19.329Z"
+generated_at: "2026-11-23T20:27:34.742Z"
+status: "active"
 ---
 
 # § 13703. Certain collective activities; exemption from antitrust laws
@@ -51,3 +52,61 @@ generated_at: "2026-03-30T02:56:19.329Z"
     - **(A)** is a participant in a publication of mileages formulated under an agreement approved under this section; or
     - **(B)** uses a publication of mileage (other than a publication described in subparagraph (A)) that can be examined by any interested person upon reasonable request.
 - **(g)** In this section, the term “single line rate” means a rate, charge, or allowance proposed by a single motor carrier that is applicable only over its line and for which the transportation can be provided by that carrier.
+
+Agreements.—
+
+Authority to enter
+
+Submission of agreement to board; approval
+
+Conditions
+
+Independently established rates
+
+Investigations.—
+
+Reasonableness
+
+Actions not in the public interest
+
+Effect of approval
+
+Records
+
+Review.—
+
+In general
+
+Periodic review of approvals
+
+Existing Agreements.—
+
+Agreements existing as of December 31, 1995
+
+Cases pending as of date of the enactment
+
+Limitations on Statutory Construction.—
+
+Undercharge claims
+
+Obligation of shipper
+
+Industry Standard Guides.—
+
+In general
+
+Public availability
+
+Participation of carriers
+
+In general
+
+Power of attorney
+
+Mileage limitation
+
+Single Line Rate Defined
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 869](https://www.govinfo.gov/link/statute/109/869); amended [Pub. L. 104–287, § 5(28)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3391](https://www.govinfo.gov/link/statute/110/3391); [Pub. L. 105–102, § 2(9)](https://www.govinfo.gov/link/plaw/105/public/102), Nov. 20, 1997, [111 Stat. 2204](https://www.govinfo.gov/link/statute/111/2204); [Pub. L. 106–159, title II, § 227](https://www.govinfo.gov/link/plaw/106/public/159), Dec. 9, 1999, [113 Stat. 1772](https://www.govinfo.gov/link/statute/113/1772); [Pub. L. 108–7, div. I, title III, § 354](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 421](https://www.govinfo.gov/link/statute/117/421).)*

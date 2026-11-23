@@ -3,9 +3,10 @@ title: "Section 7801 - Definitions"
 usc_title: 20
 usc_section: "7801"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 7801"
-generated_at: "2026-03-30T02:54:48.218Z"
+generated_at: "2026-11-23T20:26:14.939Z"
+status: "active"
 ---
 
 # § 7801. Definitions
@@ -204,3 +205,15 @@ Except as otherwise provided, in this chapter:
   - **(50)** The term “technology” means modern information, computer and communication technology products, services, or tools, including, the Internet and other communications networks, computer devices and other computer and communications hardware, software applications, data systems, and other electronic content (including multimedia content) and data storage.
   - **(51)** The term “universal design for learning” has the meaning given the term in section 103 of the Higher Education Act of 1965 ( 20 U.S.C. 1003 ).
   - **(52)** The term “well-rounded education” means courses, activities, and programming in subjects such as English, reading or language arts, writing, science, technology, engineering, mathematics, foreign languages, civics and government, economics, arts, history, geography, computer science, music, career and technical education, health, physical education, and any other subject, as determined by the State or local educational agency, with the purpose of providing all students access to an enriched curriculum and educational experience.
+
+(aa) the number of students in the cohort, as adjusted under clause (i), who earned a regular high school diploma before, during, or at the conclusion of— (AA) one or more additional years beyond the fourth year of high school; or (BB) a summer session immediately following the additional year of high school; and
+
+(bb) all students with the most significant cognitive disabilities in the cohort, as adjusted under clause (i), assessed using the alternate assessment aligned to alternate academic achievement standards under section 6311(b)(2)(D) of this title and awarded a State-defined alternate diploma that is— (AA) standards-based; (BB) aligned with the State requirements for the regular high school diploma; and (CC) obtained within the time period for which the State ensures the availability of a free appropriate public education under section 1412(a)(1) of this title ; and
+
+(aa) the number of students in the cohort, as adjusted under clause (i), who earned a regular high school diploma before, during, or at the conclusion of— (AA) the fourth year of high school; or (BB) a summer session immediately following the fourth year of high school; and
+
+(bb) all students with the most significant cognitive disabilities in the cohort, as adjusted under clause (i), assessed using the alternate assessment aligned to alternate academic achievement standards under section 6311(b)(2)(D) of this title and awarded a State-defined alternate diploma that is— (AA) standards-based; (BB) aligned with the State requirements for the regular high school diploma; and (CC) obtained within the time period for which the State ensures the availability of a free appropriate public education under section 1412(a)(1) of this title ; and
+
+## Source Credit
+
+*([Pub. L. 89–10, title VIII, § 8101](https://www.govinfo.gov/link/plaw/89/public/10), formerly title IX, § 9101, as added [Pub. L. 107–110, title IX, § 901](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1956](https://www.govinfo.gov/link/statute/115/1956); renumbered title VIII, § 8101, and amended [Pub. L. 114–95, title VIII](https://www.govinfo.gov/link/plaw/114/public/95), §§ 8001(a)(1), (b)(2), (3), 8002, Dec. 10, 2015, [129 Stat. 2088](https://www.govinfo.gov/link/statute/129/2088), 2089; [Pub. L. 118–42, div. G, title II, § 209(b)(4)(B)](https://www.govinfo.gov/link/plaw/118/public/42), Mar. 9, 2024, [138 Stat. 443](https://www.govinfo.gov/link/statute/138/443).)*

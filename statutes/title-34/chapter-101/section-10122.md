@@ -3,9 +3,10 @@ title: "Section 10122 - National Institute of Justice"
 usc_title: 34
 usc_section: "10122"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10122"
-generated_at: "2026-03-30T02:55:33.260Z"
+generated_at: "2026-11-23T20:26:50.429Z"
+status: "active"
 ---
 
 # § 10122. National Institute of Justice
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:55:33.260Z"
   - **(3)** request such information, data, and reports from any Federal agency as may be required to carry out the purposes of this section, and the agencies shall provide such information to the Institute as required to carry out the purposes of this subchapter;
   - **(4)** seek the cooperation of the judicial branches of Federal and State Government in coordinating civil and criminal justice research and development; and
   - **(5)** exercise the powers and functions set out in subchapter VII.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 202](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 96–157, § 2](https://www.govinfo.gov/link/plaw/96/public/157), Dec. 27, 1979, [93 Stat. 1172](https://www.govinfo.gov/link/statute/93/1172); amended [Pub. L. 98–473, title II, § 604(b)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2078](https://www.govinfo.gov/link/statute/98/2078); [Pub. L. 103–322, title XXXIII, § 330001(h)(1)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2139](https://www.govinfo.gov/link/statute/108/2139); [Pub. L. 107–296, title II, § 237](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2162](https://www.govinfo.gov/link/statute/116/2162); [Pub. L. 112–166, § 2(h)(3)](https://www.govinfo.gov/link/plaw/112/public/166), Aug. 10, 2012, [126 Stat. 1285](https://www.govinfo.gov/link/statute/126/1285).)*

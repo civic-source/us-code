@@ -3,9 +3,10 @@ title: "Section 14305 - Establishment of promotion zones: mandatory consideratio
 usc_title: 10
 usc_section: "14305"
 chapter: 1405
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 14305"
-generated_at: "2026-03-30T02:53:38.274Z"
+generated_at: "2026-11-23T20:25:52.466Z"
+status: "active"
 ---
 
 # § 14305. Establishment of promotion zones: mandatory consideration for promotion
@@ -16,3 +17,13 @@ generated_at: "2026-03-30T02:53:38.274Z"
   - **(1)** The number of officers needed in that competitive category in the next higher grade in each of the next five years.
   - **(2)** In the case of a promotion zone for officers to be promoted to a grade to which the maximum years of in grade criteria established in section 14304 of this title apply, the number of officers in that competitive category who are required to be considered for selection for promotion to the next higher grade under that section.
   - **(3)** The number of officers that should be placed in the promotion zone in each of the next five years to provide to officers in those years relatively similar opportunities for promotion.
+
+Establishment of Zone
+
+Number in the Zone
+
+Factors in Determining Number in the Zone
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1611](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2935](https://www.govinfo.gov/link/statute/108/2935).)*

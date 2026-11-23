@@ -3,9 +3,10 @@ title: "Section 406 - Representation of claimants before Commissioner"
 usc_title: 42
 usc_section: "406"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 406"
-generated_at: "2026-03-30T02:56:10.860Z"
+generated_at: "2026-11-23T20:27:20.765Z"
+status: "active"
 ---
 
 # § 406. Representation of claimants before Commissioner
@@ -68,3 +69,29 @@ generated_at: "2026-03-30T02:56:10.860Z"
     - **(A)** The Commissioner may assess representatives reasonable fees to cover the cost to the Social Security Administration of administering the prerequisites described in paragraph (2).
     - **(B)** Fees collected under subparagraph (A) shall be credited to the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund, or deposited as miscellaneous receipts in the general fund of the Treasury, based on such allocations as the Commissioner determines appropriate.
     - **(C)** The fees authorized under this paragraph shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts. Amounts so appropriated are authorized to remain available until expended for administering the prerequisites described in paragraph (2).
+
+“The amendments made by this section [amending this section and enacting provisions set out as a note under this section] shall apply in the case of any attorney with respect to whom a fee for services is required to be certified for payment from a claimant’s past-due benefits pursuant to subsection (a)(4) or (b)(1) of section 206 of the Social Security Act [ 42 U.S.C. 406 ] after the later of—
+
+In General
+
+Standards for Inclusion in Demonstration Project
+
+Assessment of Fees.—
+
+In general
+
+Disposition of fees
+
+Authorization of appropriations
+
+Notice to Congress and Applicability of Fee Withholding Procedures
+
+Reports by the Commissioner; Termination.—
+
+Interim reports
+
+Termination date
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title II, § 206, [49 Stat. 624](https://www.govinfo.gov/link/statute/49/624); Aug. 10, 1939, ch. 666, title II, § 201, [53 Stat. 1362](https://www.govinfo.gov/link/statute/53/1362), 1372; Aug. 28, 1950, ch. 809, title I, § 109(b)(1), [64 Stat. 523](https://www.govinfo.gov/link/statute/64/523); [Pub. L. 85–840, title III, § 309](https://www.govinfo.gov/link/plaw/85/public/840), Aug. 28, 1958, [72 Stat. 1034](https://www.govinfo.gov/link/statute/72/1034); [Pub. L. 89–97, title III, § 332](https://www.govinfo.gov/link/plaw/89/public/97), July 30, 1965, [79 Stat. 403](https://www.govinfo.gov/link/statute/79/403); [Pub. L. 90–248, title I, § 173](https://www.govinfo.gov/link/plaw/90/public/248), Jan. 2, 1968, [81 Stat. 877](https://www.govinfo.gov/link/statute/81/877); [Pub. L. 98–369, div. B, title VI, § 2663](https://www.govinfo.gov/link/plaw/98/public/369) (l)(1), July 18, 1984, [98 Stat. 1171](https://www.govinfo.gov/link/statute/98/1171); [Pub. L. 101–239, title X, § 10307(a)(1)](https://www.govinfo.gov/link/plaw/101/public/239), (b)(1), Dec. 19, 1989, [103 Stat. 2484](https://www.govinfo.gov/link/statute/103/2484), 2485; [Pub. L. 101–508, title V, § 5106(a)(1)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–266](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–296, title I, § 107(a)(4)](https://www.govinfo.gov/link/plaw/103/public/296), title III, § 321(f)(3)(B)(i), (4), Aug. 15, 1994, [108 Stat. 1478](https://www.govinfo.gov/link/statute/108/1478), 1541, 1542; [Pub. L. 106–170, title IV, § 406(a)](https://www.govinfo.gov/link/plaw/106/public/170), (b), Dec. 17, 1999, [113 Stat. 1911](https://www.govinfo.gov/link/statute/113/1911), 1912; [Pub. L. 108–203, title II, § 205](https://www.govinfo.gov/link/plaw/108/public/203), title III, § 301(a), Mar. 2, 2004, [118 Stat. 512](https://www.govinfo.gov/link/statute/118/512), 519; [Pub. L. 111–142, § 3(a)](https://www.govinfo.gov/link/plaw/111/public/142), Feb. 27, 2010, [124 Stat. 38](https://www.govinfo.gov/link/statute/124/38).)*

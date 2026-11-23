@@ -3,9 +3,10 @@ title: "Section 14502 - Special selection boards: correction of errors"
 usc_title: 10
 usc_section: "14502"
 chapter: 1407
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 14502"
-generated_at: "2026-03-30T02:53:38.275Z"
+generated_at: "2026-11-23T20:25:52.472Z"
+status: "active"
 ---
 
 # § 14502. Special selection boards: correction of errors
@@ -37,3 +38,25 @@ generated_at: "2026-03-30T02:53:38.275Z"
   - **(1)** A court of the United States may review a determination by the Secretary concerned under subsection (a)(1), (b)(1), or (e)(3) not to convene a special selection board. If a court finds the determination to be arbitrary or capricious, not based on substantial evidence, or otherwise contrary to law, it shall remand the case to the Secretary concerned, who shall provide for consideration of the officer or former officer by a special selection board under this section.
   - **(2)** If a court finds that the action of a special selection board which considers an officer or former officer was contrary to law or involved material error of fact or material administrative error, it shall remand the case to the Secretary concerned, who shall provide the officer or former officer reconsideration by a new special selection board.
 - **(i)** The Secretary of the military department concerned may designate a promotion board convened under section 14101(a) of this title as a special selection board convened under this section. A board so designated may function in both capacities.
+
+Officers Not Considered Because of Administrative Error
+
+Officers Considered But Not Selected; Material Error
+
+Report
+
+Applicable Provisions
+
+Appointment of Officers Recommended for Promotion
+
+Time Limits for Consideration
+
+Limitation of Other Jurisdiction
+
+Judicial Review
+
+Designation of Boards
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1611](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2947](https://www.govinfo.gov/link/statute/108/2947); amended [Pub. L. 107–107, div. A, title V, § 505(c)(3)(B)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1088](https://www.govinfo.gov/link/statute/115/1088); [Pub. L. 109–364, div. A, title V, § 514(b)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2185](https://www.govinfo.gov/link/statute/120/2185); [Pub. L. 114–92, div. A, title V](https://www.govinfo.gov/link/plaw/114/public/92), §§ 502(c)(2), 512, Nov. 25, 2015, [129 Stat. 807](https://www.govinfo.gov/link/statute/129/807), 809.)*

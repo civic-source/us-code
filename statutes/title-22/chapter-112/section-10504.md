@@ -3,9 +3,10 @@ title: "Section 10504 - Imposition of sanctions under Global Magnitsky Human Rig
 usc_title: 22
 usc_section: "10504"
 chapter: 112
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 10504"
-generated_at: "2026-03-30T02:55:05.478Z"
+generated_at: "2026-11-23T20:26:32.826Z"
+status: "active"
 ---
 
 # § 10504. Imposition of sanctions under Global Magnitsky Human Rights Accountability Act
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:05.478Z"
 - **(c)** Each report required by subsection (b) shall be submitted in unclassified form but may include a classified annex.
 - **(d)** The Secretary of State, in consultation with the Secretary of the Treasury, may, instead of submitting a written report required under subsection (b) (except with respect to the list required by subsection (b)(4)), provide to the appropriate congressional committees a briefing, together with a written justification, if doing so would better serve the national interests of the United States.
 - **(e)** The requirements under subsections (a)(2) and (b)(4) shall terminate on the date that is 5 years after December 22, 2023 .
+
+## Source Credit
+
+*([Pub. L. 118–31, div. E, title LIV, § 5405](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 947](https://www.govinfo.gov/link/statute/137/947).)*

@@ -3,9 +3,10 @@ title: "Section 502 - General authority"
 usc_title: 49
 usc_section: "502"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 502"
-generated_at: "2026-03-30T02:56:19.302Z"
+generated_at: "2026-11-23T20:27:34.547Z"
+status: "active"
 ---
 
 # § 502. General authority
@@ -27,3 +28,71 @@ generated_at: "2026-03-30T02:56:19.302Z"
   - **(4)** The testimony of a person deposed under this subsection shall be taken under oath. The person taking the deposition shall prepare, or cause to be prepared, a transcript of the testimony taken. The transcript shall be subscribed by the deponent.
   - **(5)** The testimony of a witness who is in a foreign country may be taken by deposition before an officer or person designated by the Secretary or agreed on by the parties by written stipulation filed with the Secretary. The deposition shall be filed with the Secretary promptly.
 - **(f)** Each witness summoned before the Secretary or whose deposition is taken under this section and the individual taking the deposition are entitled to the same fees and mileage paid for those services in the courts of the United States.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 502 | 49:1655(f)(2). | Oct. 15, 1966 , Pub. L. 89–670, § 6(f)(2) , 80 Stat. 940 . |
+| 502(c)–(f) | 49:304(a)(3) (last sentence) (related to “Sec. 305”). | Feb. 4, 1887, ch. 104 , 24 Stat. 379 , § 204(a)(3) (last sentence) (related to “Sec. 205”); added Aug. 9, 1935, ch. 498 , 49 Stat. 546 . |
+|  | 49:304(a)(3a) (last sentence) (related to “Sec. 305”). | Feb. 4, 1887, ch. 104 , 24 Stat. 379 , § 204(a)(3a) (last sentence) (related to “Sec. 205”); added Aug. 3, 1956, ch. 905, § 2 , 70 Stat. 958 . |
+
+| Section 502 | 49 U.S. Code | Revised Section |
+| --- | --- | --- |
+| (a), (b) | 12(1)(a) (1st sentence, 2d sentence, and last sentence words before 1st semicolon). | 10321 |
+|  | 304(a) (matter before (1)), (6), (7) (less words after semicolon). | 10321 |
+| (c) | 305(f). | 11502 |
+| (d) | 12(1)(a) (last sentence words after last semicolon), (2), (3). | 10321 |
+|  | 305(d) (related to Commission subpena power). | 10321 |
+| (e)(1)–(3) | 12(4). | 10321 |
+|  | 305(d) (related to depositions taken by Commission). | 10321 |
+| (e)(4) and (5) | 12(5), (6). | 10321 |
+|  | 305(d) (related to depositions taken by Commission). | 10321 |
+| (f) | 12(7). | 10321 |
+|  | 18(1) (last sentence). | 10321 |
+|  | 305(d) (related to depositions taken by Commission). | 10321 |
+
+
+Historical and Revision Notes
+
+Pub. L
+
+502
+
+Oct. 15, 1966
+
+Pub. L. 89–670, § 6(f)(2)
+
+80 Stat. 940
+
+502(c)–(f)
+
+Feb. 4, 1887, ch. 104
+
+24 Stat. 379
+
+Aug. 9, 1935, ch. 498
+
+49 Stat. 546
+
+Feb. 4, 1887, ch. 104
+
+24 Stat. 379
+
+Aug. 3, 1956, ch. 905, § 2
+
+70 Stat. 958
+
+(a), (b)
+
+(c)
+
+(d)
+
+(e)(1)–(3)
+
+(e)(4) and (5)
+
+(f)
+
+## Source Credit
+
+*([Pub. L. 97–449, § 1(b)](https://www.govinfo.gov/link/plaw/97/public/449), Jan. 12, 1983, [96 Stat. 2431](https://www.govinfo.gov/link/statute/96/2431); [Pub. L. 103–272, § 4(j)(12)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1368](https://www.govinfo.gov/link/statute/108/1368).)*

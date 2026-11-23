@@ -3,9 +3,10 @@ title: "Section 2326 - Regional sediment management"
 usc_title: 33
 usc_section: "2326"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2326"
-generated_at: "2026-03-30T02:55:41.123Z"
+generated_at: "2026-11-23T20:26:54.178Z"
+status: "active"
 ---
 
 # § 2326. Regional sediment management
@@ -59,3 +60,21 @@ generated_at: "2026-03-30T02:55:41.123Z"
   - **(11)** Benson Beach, Washington.
   - **(12)** Osceola County, Florida.
 - **(g)** There is authorized to be appropriated to carry out this section $62,500,000 per fiscal year, of which not more than $5,000,000 per fiscal year may be used for the development of regional sediment management plans authorized by subsection (e) and of which not more than $3,000,000 per fiscal year may be used for construction of projects to which subsection (c)(1)(B)(ii) applies. Such funds shall remain available until expended.
+
+“Each dredged material management plan for a federally authorized water resources development project, and each regional sediment plan developed under section 204 of the Water Resources Development Act of 1992 ( 33 U.S.C. 2326 ), including any such plan under development on the date of enactment of this Act [ Jan. 4, 2025 ], shall—
+
+In General
+
+Scope
+
+Report to Congress
+
+Sunset
+
+In General
+
+Limitation
+
+## Source Credit
+
+*([Pub. L. 102–580, title II, § 204](https://www.govinfo.gov/link/plaw/102/public/580), Oct. 31, 1992, [106 Stat. 4826](https://www.govinfo.gov/link/statute/106/4826); [Pub. L. 104–303, title II, § 207](https://www.govinfo.gov/link/plaw/104/public/303), Oct. 12, 1996, [110 Stat. 3680](https://www.govinfo.gov/link/statute/110/3680); [Pub. L. 106–53, title II, § 209](https://www.govinfo.gov/link/plaw/106/public/53), Aug. 17, 1999, [113 Stat. 287](https://www.govinfo.gov/link/statute/113/287); [Pub. L. 110–114, title II, § 2037(a)](https://www.govinfo.gov/link/plaw/110/public/114), Nov. 8, 2007, [121 Stat. 1094](https://www.govinfo.gov/link/statute/121/1094); [Pub. L. 113–121, title I](https://www.govinfo.gov/link/plaw/113/public/121), §§ 1030(d)(1), 1038, June 10, 2014, [128 Stat. 1232](https://www.govinfo.gov/link/statute/128/1232), 1236; [Pub. L. 114–322, title I, § 1122(i)](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1647](https://www.govinfo.gov/link/statute/130/1647); [Pub. L. 115–270, title I](https://www.govinfo.gov/link/plaw/115/public/270), §§ 1150, 1157(d), Oct. 23, 2018, [132 Stat. 3787](https://www.govinfo.gov/link/statute/132/3787), 3794; [Pub. L. 116–260, div. AA, title I, § 125(a)(2)(C)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2637](https://www.govinfo.gov/link/statute/134/2637); [Pub. L. 118–272, div. A, title I](https://www.govinfo.gov/link/plaw/118/public/272), §§ 1107(i), 1130(b), Jan. 4, 2025, [138 Stat. 3005](https://www.govinfo.gov/link/statute/138/3005), 3019.)*

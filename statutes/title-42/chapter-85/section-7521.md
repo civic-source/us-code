@@ -3,9 +3,10 @@ title: "Section 7521 - Emission standards for new motor vehicles or new motor ve
 usc_title: 42
 usc_section: "7521"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7521"
-generated_at: "2026-03-30T02:56:11.310Z"
+generated_at: "2026-11-23T20:27:22.891Z"
+status: "active"
 ---
 
 # § 7521. Emission standards for new motor vehicles or new motor vehicle engines
@@ -31,7 +32,14 @@ generated_at: "2026-03-30T02:56:11.310Z"
     - **(B)** Regulations prescribing standards under subparagraph (A) shall not become effective until the introduction of the model year for which it would be feasible to implement such standards, taking into consideration the restraints of an adequate leadtime for design and production.
     - **(C)** Nothing in subparagraph (A) shall (i) prevent the Administrator from specifying different nozzle and fill neck sizes for gasoline with additives and gasoline without additives or (ii) permit the Administrator to require a specific location, configuration, modeling, or styling of the motor vehicle body with respect to the fuel tank fill neck or fill nozzle clearance envelope.
     - **(D)** For the purpose of this paragraph, the term “fill pipe” shall include the fuel tank fill pipe, fill neck, fill inlet, and closure.
-  - **(6)** Within 1 year after November 15, 1990 , the Administrator shall, after consultation with the Secretary of Transportation regarding the safety of vehicle-based (“onboard”) systems for the control of vehicle refueling emissions, promulgate standards under this section requiring that new light-duty vehicles manufactured beginning in the fourth model year after the model year in which the standards are promulgated and thereafter shall be equipped with such systems. The standards required under this paragraph shall apply to a percentage of each manufacturer’s fleet of new light-duty vehicles beginning with the fourth model year after the model year in which the standards are promulgated. The percentage shall be as specified in the following table: Implementation Schedule for Onboard Vapor Recovery Requirements Model year commencing after standards promulgated Percentage * *Percentages in the table refer to a percentage of the manufacturer’s sales volume. Fourth 40 Fifth 80 After Fifth 100 The standards shall require that such systems provide a minimum evaporative emission capture efficiency of 95 percent. The requirements of section 7511a(b)(3) of this title (relating to stage II gasoline vapor recovery) for areas classified under section 7511 of this title as moderate for ozone shall not apply after promulgation of such standards and the Administrator may, by rule, revise or waive the application of the requirements of such section 7511a(b)(3) of this title for areas classified under section 7511 of this title as Serious, Severe, or Extreme for ozone, as appropriate, after such time as the Administrator determines that onboard emissions control systems required under this paragraph are in widespread use throughout the motor vehicle fleet.
+  - **(6)** Within 1 year after November 15, 1990 , the Administrator shall, after consultation with the Secretary of Transportation regarding the safety of vehicle-based (“onboard”) systems for the control of vehicle refueling emissions, promulgate standards under this section requiring that new light-duty vehicles manufactured beginning in the fourth model year after the model year in which the standards are promulgated and thereafter shall be equipped with such systems. The standards required under this paragraph shall apply to a percentage of each manufacturer’s fleet of new light-duty vehicles beginning with the fourth model year after the model year in which the standards are promulgated. The percentage shall be as specified in the following table: The standards shall require that such systems provide a minimum evaporative emission capture efficiency of 95 percent. The requirements of section 7511a(b)(3) of this title (relating to stage II gasoline vapor recovery) for areas classified under section 7511 of this title as moderate for ozone shall not apply after promulgation of such standards and the Administrator may, by rule, revise or waive the application of the requirements of such section 7511a(b)(3) of this title for areas classified under section 7511 of this title as Serious, Severe, or Extreme for ozone, as appropriate, after such time as the Administrator determines that onboard emissions control systems required under this paragraph are in widespread use throughout the motor vehicle fleet.
+
+| Implementation Schedule for Onboard Vapor Recovery Requirements | Col 2 |
+| --- | --- |
+| Fourth | 40 |
+| Fifth | 80 |
+| After Fifth | 100 |
+
 - **(b)**
   - **(1)**
     - **(A)** The regulations under subsection (a) applicable to emissions of carbon monoxide and hydrocarbons from light-duty vehicles and engines manufactured during model years 1977 through 1979 shall contain standards which provide that such emissions from such vehicles and engines may not exceed 1.5 grams per vehicle mile of hydrocarbons and 15.0 grams per vehicle mile of carbon monoxide. The regulations under subsection (a) applicable to emissions of carbon monoxide from light-duty vehicles and engines manufactured during the model year 1980 shall contain standards which provide that such emissions may not exceed 7.0 grams per vehicle mile. The regulations under subsection (a) applicable to emissions of hydrocarbons from light-duty vehicles and engines manufactured during or after model year 1980 shall contain standards which require a reduction of at least 90 percent from emissions of such pollutant allowable under the standards under this section applicable to light-duty vehicles and engines manufactured in model year 1970. Unless waived as provided in paragraph (5), 1 regulations under subsection (a) applicable to emissions of carbon monoxide from light-duty vehicles and engines manufactured during or after the model year 1981 shall contain standards which require a reduction of at least 90 percent from emissions of such pollutant allowable under the standards under this section applicable to light-duty vehicles and engines manufactured in model year 1970.
@@ -68,11 +76,33 @@ generated_at: "2026-03-30T02:56:11.310Z"
     - **(B)** the present and future availability of emission control technology capable of meeting the applicable vehicle and engine emission requirements without reducing model availability; and
     - **(C)** the likelihood that the adoption of such a high altitude regulation will result in any significant improvement in air quality in any area to which it shall apply.
 - **(g)**
-  - **(1)** Effective with respect to the model year 1994 and thereafter, the regulations under subsection (a) applicable to emissions of nonmethane hydrocarbons (NMHC), carbon monoxide (CO), and oxides of nitrogen (NO x ) from light-duty trucks (LDTs) of up to 6,000 lbs. gross vehicle weight rating (GVWR) and light-duty vehicles (LDVs) shall contain standards which provide that emissions from a percentage of each manufacturer’s sales volume of such vehicles and trucks shall comply with the levels specified in table G. The percentage shall be as specified in the implementation schedule below: table g—emission standards for nmhc, co, and no x from light-duty trucks of up to 6,000 lbs. gvwr and light-duty vehicles Vehicle type Column A Column B (5 yrs/50,000 mi) (10 yrs/100,000 mi) NMHC CO NO x NMHC CO NO x Standards are expressed in grams per mile (gpm). For standards under column A, for purposes of certification under section 7525 of this title , the applicable useful life shall be 5 years or 50,000 miles (or the equivalent), whichever first occurs. For standards under column B, for purposes of certification under section 7525 of this title , the applicable useful life shall be 10 years or 100,000 miles (or the equivalent), whichever first occurs. *In the case of diesel-fueled LDTs (0–3,750 lvw) and light-duty vehicles, before the model year 2004, in lieu of the 0.4 and 0.6 standards for NO x , the applicable standards for NO x shall be 1.0 gpm for a useful life of 5 years or 50,000 miles (or the equivalent), whichever first occurs, and 1.25 gpm for a useful life of 10 years or 100,000 miles (or the equivalent) whichever first occurs. **This standard does not apply to diesel-fueled LDTs (3,751–5,750 lbs. LVW). LDTs (0–3,750 lbs. LVW) and light-duty vehicles 0.25 3.4 0.4 * 0.31 4.2 0.6 * LDTs (3,751–5,750 lbs. LVW) 0.32 4.4 0.7 ** 0.40 5.5 0.97 Implementation Schedule for Table G Standards Model year Percentage * *Percentages in the table refer to a percentage of each manufacturer’s sales volume. 1994 40 1995 80 after 1995 100
-  - **(2)** Effective with respect to model year 1994 and thereafter in the case of light-duty vehicles, and effective with respect to the model year 1995 and thereafter in the case of light-duty trucks (LDTs) of up to 6,000 lbs. gross vehicle weight rating (GVWR), the regulations under subsection (a) applicable to emissions of particulate matter (PM) from such vehicles and trucks shall contain standards which provide that such emissions from a percentage of each manufacturer’s sales volume of such vehicles and trucks shall not exceed the levels specified in the table below. The percentage shall be as specified in the Implementation Schedule below. PM Standard for LDTs of up to 6,000 lbs. GVWR Useful life period Standard The applicable useful life, for purposes of certification under section 7525 of this title and for purposes of in-use compliance under section 7541 of this title , shall be 5 years or 50,000 miles (or the equivalent), whichever first occurs, in the case of the 5/50,000 standard. The applicable useful life, for purposes of certification under section 7525 of this title and for purposes of in-use compliance under section 7541 of this title , shall be 10 years or 100,000 miles (or the equivalent), whichever first occurs in the case of the 10/100,000 standard. 5/50,000 0.08 gpm 10/100,000 0.10 gpm Implementation Schedule for PM Standards Model year Light-duty vehicles LDTs *Percentages in the table refer to a percentage of each manufacturer’s sales volume. 1994 40% * 1995 80% * 40% * 1996 100% * 80% * after 1996 100% * 100% *
+  - **(1)** Effective with respect to the model year 1994 and thereafter, the regulations under subsection (a) applicable to emissions of nonmethane hydrocarbons (NMHC), carbon monoxide (CO), and oxides of nitrogen (NO x ) from light-duty trucks (LDTs) of up to 6,000 lbs. gross vehicle weight rating (GVWR) and light-duty vehicles (LDVs) shall contain standards which provide that emissions from a percentage of each manufacturer’s sales volume of such vehicles and trucks shall comply with the levels specified in table G. The percentage shall be as specified in the implementation schedule below: table g—emission standards for nmhc, co, and no x from light-duty trucks of up to 6,000 lbs. gvwr and light-duty vehicles Vehicle type Column A Column B (5 yrs/50,000 mi) (10 yrs/100,000 mi) NMHC CO NO x NMHC CO NO x Standards are expressed in grams per mile (gpm). For standards under column A, for purposes of certification under section 7525 of this title , the applicable useful life shall be 5 years or 50,000 miles (or the equivalent), whichever first occurs. For standards under column B, for purposes of certification under section 7525 of this title , the applicable useful life shall be 10 years or 100,000 miles (or the equivalent), whichever first occurs. *In the case of diesel-fueled LDTs (0–3,750 lvw) and light-duty vehicles, before the model year 2004, in lieu of the 0.4 and 0.6 standards for NO x , the applicable standards for NO x shall be 1.0 gpm for a useful life of 5 years or 50,000 miles (or the equivalent), whichever first occurs, and 1.25 gpm for a useful life of 10 years or 100,000 miles (or the equivalent) whichever first occurs. **This standard does not apply to diesel-fueled LDTs (3,751–5,750 lbs. LVW). LDTs (0–3,750 lbs. LVW) and light-duty vehicles 0.25 3.4 0.4 * 0.31 4.2 0.6 * LDTs (3,751–5,750 lbs. LVW) 0.32 4.4 0.7 ** 0.40 5.5 0.97
+
+| Implementation Schedule for Table G Standards | Col 2 |
+| --- | --- |
+| 1994 | 40 |
+| 1995 | 80 |
+| after 1995 | 100 |
+
+  - **(2)** Effective with respect to model year 1994 and thereafter in the case of light-duty vehicles, and effective with respect to the model year 1995 and thereafter in the case of light-duty trucks (LDTs) of up to 6,000 lbs. gross vehicle weight rating (GVWR), the regulations under subsection (a) applicable to emissions of particulate matter (PM) from such vehicles and trucks shall contain standards which provide that such emissions from a percentage of each manufacturer’s sales volume of such vehicles and trucks shall not exceed the levels specified in the table below. The percentage shall be as specified in the Implementation Schedule below. PM Standard for LDTs of up to 6,000 lbs. GVWR Useful life period Standard The applicable useful life, for purposes of certification under section 7525 of this title and for purposes of in-use compliance under section 7541 of this title , shall be 5 years or 50,000 miles (or the equivalent), whichever first occurs, in the case of the 5/50,000 standard. The applicable useful life, for purposes of certification under section 7525 of this title and for purposes of in-use compliance under section 7541 of this title , shall be 10 years or 100,000 miles (or the equivalent), whichever first occurs in the case of the 10/100,000 standard. 5/50,000 0.08 gpm 10/100,000 0.10 gpm
+
+| Implementation Schedule for PM Standards | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1994 | 40% * |  |
+| 1995 | 80% * | 40% * |
+| 1996 | 100% * | 80% * |
+| after 1996 | 100% * | 100% * |
+
 - **(h)** Effective with respect to the model year 1996 and thereafter, the regulations under subsection (a) applicable to emissions of nonmethane hydrocarbons (NMHC), carbon monoxide (CO), oxides of nitrogen (NO x ), and particulate matter (PM) from light-duty trucks (LDTs) of more than 6,000 lbs. gross vehicle weight rating (GVWR) shall contain standards which provide that emissions from a specified percentage of each manufacturer’s sales volume of such trucks shall comply with the levels specified in table H. The specified percentage shall be 50 percent in model year 1996 and 100 percent thereafter. table h—emission standards for nmhc and co from gasoline and diesel fueled light-duty trucks of more than 6,000 lbs. gvwr LDT Test weight Column A Column B (5 yrs/50,000 mi) (11 yrs/120,000 mi) NMHC CO NO x NMHC CO NO x PM Standards are expressed in grams per mile (GPM). For standards under column A, for purposes of certification under section 7525 of this title , the applicable useful life shall be 5 years or 50,000 miles (or the equivalent) whichever first occurs. For standards under column B, for purposes of certification under section 7525 of this title , the applicable useful life shall be 11 years or 120,000 miles (or the equivalent), whichever first occurs. *Not applicable to diesel-fueled LDTs. 3,751–5,750 lbs. TW 0.32 4.4 0.7 * 0.46 6.4 0.98 0.10 Over 5,750 lbs. TW 0.39 5.0 1.1 * 0.56 7.3 1.53 0.12
 - **(i)**
-  - **(1)** The Administrator, with the participation of the Office of Technology Assessment, shall study whether or not further reductions in emissions from light-duty vehicles and light-duty trucks should be required pursuant to this subchapter. The study shall consider whether to establish with respect to model years commencing after January 1, 2003 , the standards and useful life period for gasoline and diesel-fueled light-duty vehicles and light-duty trucks with a loaded vehicle weight (LVW) of 3,750 lbs. or less specified in the following table: table 3—pending emission standards for gasoline and diesel fueled light-duty vehicles and light-duty trucks 3,750 lbs. lvw or less Pollutant Emission level * *Emission levels are expressed in grams per mile (GPM). For vehicles and engines subject to this subsection for purposes of subsection (d) and any reference thereto, the useful life of such vehicles and engines shall be a period of 10 years or 100,000 miles (or the equivalent), whichever first occurs. NMHC 0.125 GPM NO x 0.2 GPM CO 1.7 GPM Such study shall also consider other standards and useful life periods which are more stringent or less stringent than those set forth in table 3 (but more stringent than those referred to in subsections (g) and (h)).
+  - **(1)** The Administrator, with the participation of the Office of Technology Assessment, shall study whether or not further reductions in emissions from light-duty vehicles and light-duty trucks should be required pursuant to this subchapter. The study shall consider whether to establish with respect to model years commencing after January 1, 2003 , the standards and useful life period for gasoline and diesel-fueled light-duty vehicles and light-duty trucks with a loaded vehicle weight (LVW) of 3,750 lbs. or less specified in the following table: Such study shall also consider other standards and useful life periods which are more stringent or less stringent than those set forth in table 3 (but more stringent than those referred to in subsections (g) and (h)).
+
+| table 3—pending emission standards for gasoline and diesel fueled light-duty vehicles and light-duty trucks 3,750 lbs. lvw or less | Col 2 |
+| --- | --- |
+| NMHC | 0.125 GPM |
+| NO x | 0.2 GPM |
+| CO | 1.7 GPM |
+
   - **(2)**
     - **(A)** As part of the study under paragraph (1), the Administrator shall examine the need for further reductions in emissions in order to attain or maintain the national ambient air quality standards, taking into consideration the waiver provisions of section 7543(b) of this title . As part of such study, the Administrator shall also examine—
       - **(i)** the availability of technology (including the costs thereof), in the case of light-duty vehicles and light-duty trucks with a loaded vehicle weight (LVW) of 3,750 lbs. or less, for meeting more stringent emission standards than those provided in subsections (g) and (h) for model years commencing not earlier than after January 1, 2003 , and not later than model year 2006, including the lead time and safety and energy impacts of meeting more stringent emission standards; and
@@ -122,3 +152,179 @@ generated_at: "2026-03-30T02:56:11.310Z"
     - **(C)** that the output of the data from the emission control diagnostics system through such connectors shall be usable without the need for any unique decoding information or device.
   - **(5)** The Administrator, by regulation, shall require (subject to the provisions of section 7542(c) of this title regarding the protection of methods or processes entitled to protection as trade secrets) manufacturers to provide promptly to any person engaged in the repairing or servicing of motor vehicles or motor vehicle engines, and the Administrator for use by any such persons, with any and all information needed to make use of the emission control diagnostics system prescribed under this subsection and such other information including instructions for making emission related diagnosis and repairs. No such information may be withheld under section 7542(c) of this title if that information is provided (directly or indirectly) by the manufacturer to franchised dealers or other persons engaged in the repair, diagnosing, or servicing of motor vehicles or motor vehicle engines. Such information shall also be available to the Administrator, subject to section 7542(c) of this title , in carrying out the Administrator’s responsibilities under this section.
 - **(f)** For model years prior to model year 1994, the regulations under subsection (a) applicable to buses other than those subject to standards under section 7554 of this title shall contain a standard which provides that emissions of particulate matter (PM) from such buses may not exceed the standards set forth in the following table: pm standard for buses Model year Standard * *Standards are expressed in grams per brake horsepower hour (g/bhp/hr). 1991 0.25 1992 0.25 1993 and thereafter 0.10
+
+| table g—emission standards for nmhc, co, and no x from light-duty trucks of up to 6,000 lbs. gvwr and light-duty vehicles | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 |
+| --- | --- | --- | --- | --- | --- | --- |
+| LDTs (0–3,750 lbs. LVW) and light-duty vehicles | 0.25 | 3.4 | 0.4 * | 0.31 | 4.2 | 0.6 * |
+| LDTs (3,751–5,750 lbs. LVW) | 0.32 | 4.4 | 0.7 ** | 0.40 | 5.5 | 0.97 |
+
+| PM Standard for LDTs of up to 6,000 lbs. GVWR | Col 2 |
+| --- | --- |
+| 5/50,000 | 0.08 gpm |
+| 10/100,000 | 0.10 gpm |
+
+| table h—emission standards for nmhc and co from gasoline and diesel fueled light-duty trucks of more than 6,000 lbs. gvwr | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 3,751–5,750 lbs. TW | 0.32 | 4.4 | 0.7 * | 0.46 | 6.4 | 0.98 | 0.10 |
+| Over 5,750 lbs. TW | 0.39 | 5.0 | 1.1 * | 0.56 | 7.3 | 1.53 | 0.12 |
+
+| Phase-In Schedule for Cold Start Standards | Col 2 |
+| --- | --- |
+| 1994 | 40 |
+| 1995 | 80 |
+| 1996 and after | 100 |
+
+| pm standard for buses | Col 2 |
+| --- | --- |
+| 1991 | 0.25 |
+| 1992 | 0.25 |
+| 1993 and thereafter | 0.10 |
+
+
+In general
+
+Revised standards for heavy duty trucks
+
+Lead time and stability
+
+Rebuilding practices
+
+Motorcycles
+
+Onboard vapor recovery
+
+Implementation Schedule for Onboard Vapor Recovery Requirements
+
+*
+
+*Percentages in the table refer to a percentage of the manufacturer’s sales volume.
+
+Fourth
+
+Fifth
+
+After Fifth
+
+table g—emission standards for nmhc, co, and no
+
+from light-duty trucks of up to 6,000 lbs. gvwr and light-duty vehicles
+
+Standards are expressed in grams per mile (gpm). For standards under column A, for purposes of certification under section 7525 of this title , the applicable useful life shall be 5 years or 50,000 miles (or the equivalent), whichever first occurs. For standards under column B, for purposes of certification under section 7525 of this title , the applicable useful life shall be 10 years or 100,000 miles (or the equivalent), whichever first occurs. *In the case of diesel-fueled LDTs (0–3,750 lvw) and light-duty vehicles, before the model year 2004, in lieu of the 0.4 and 0.6 standards for NO x , the applicable standards for NO x shall be 1.0 gpm for a useful life of 5 years or 50,000 miles (or the equivalent), whichever first occurs, and 1.25 gpm for a useful life of 10 years or 100,000 miles (or the equivalent) whichever first occurs. **This standard does not apply to diesel-fueled LDTs (3,751–5,750 lbs. LVW).
+
+LDTs (0–3,750 lbs. LVW) and light-duty vehicles
+
+*
+
+*
+
+LDTs (3,751–5,750 lbs. LVW)
+
+**
+
+Implementation Schedule for Table G Standards
+
+*
+
+*Percentages in the table refer to a percentage of each manufacturer’s sales volume.
+
+1994
+
+1995
+
+after 1995
+
+PM Standard for LDTs of up to
+
+lbs. GVWR
+
+The applicable useful life, for purposes of certification under section 7525 of this title and for purposes of in-use compliance under section 7541 of this title , shall be 5 years or 50,000 miles (or the equivalent), whichever first occurs, in the case of the 5/50,000 standard. The applicable useful life, for purposes of certification under section 7525 of this title and for purposes of in-use compliance under section 7541 of this title , shall be 10 years or 100,000 miles (or the equivalent), whichever first occurs in the case of the 10/100,000 standard.
+
+5/50,000
+
+10/100,000
+
+Implementation Schedule for PM Standards
+
+*Percentages in the table refer to a percentage of each manufacturer’s sales volume.
+
+1994
+
+*
+
+1995
+
+*
+
+*
+
+1996
+
+*
+
+*
+
+after 1996
+
+*
+
+*
+
+table h—emission standards for nmhc and co from gasoline and diesel fueled light-duty trucks of more than 6,000 lbs. gvwr
+
+Standards are expressed in grams per mile (GPM). For standards under column A, for purposes of certification under section 7525 of this title , the applicable useful life shall be 5 years or 50,000 miles (or the equivalent) whichever first occurs. For standards under column B, for purposes of certification under section 7525 of this title , the applicable useful life shall be 11 years or 120,000 miles (or the equivalent), whichever first occurs. *Not applicable to diesel-fueled LDTs.
+
+3,751–5,750 lbs. TW
+
+*
+
+Over 5,750 lbs. TW
+
+*
+
+table 3—pending emission standards for gasoline and diesel fueled light-duty vehicles and light-duty trucks 3,750 lbs. lvw or less
+
+*
+
+*Emission levels are expressed in grams per mile (GPM). For vehicles and engines subject to this subsection for purposes of subsection (d) and any reference thereto, the useful life of such vehicles and engines shall be a period of 10 years or 100,000 miles (or the equivalent), whichever first occurs.
+
+NMHC
+
+NO x
+
+CO
+
+Phase-In Schedule for Cold Start Standards
+
+1994
+
+1995
+
+1996 and after
+
+pm standard for buses
+
+*
+
+*Standards are expressed in grams per brake horsepower hour (g/bhp/hr).
+
+1991
+
+1992
+
+1993 and thereafter
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title II, § 202, as added [Pub. L. 89–272, title I, § 101(8)](https://www.govinfo.gov/link/plaw/89/public/272), Oct. 20, 1965, [79 Stat. 992](https://www.govinfo.gov/link/statute/79/992); amended [Pub. L. 90–148, § 2](https://www.govinfo.gov/link/plaw/90/public/148), Nov. 21, 1967, [81 Stat. 499](https://www.govinfo.gov/link/statute/81/499); [Pub. L. 91–604, § 6(a)](https://www.govinfo.gov/link/plaw/91/public/604), Dec. 31, 1970, [84 Stat. 1690](https://www.govinfo.gov/link/statute/84/1690); [Pub. L. 93–319, § 5](https://www.govinfo.gov/link/plaw/93/public/319), June 22, 1974, [88 Stat. 258](https://www.govinfo.gov/link/statute/88/258); [Pub. L. 95–95, title II](https://www.govinfo.gov/link/plaw/95/public/95), §§ 201, 202(b), 213(b), 214(a), 215–217, 224(a), (b), (g), title IV, § 401(d), Aug. 7, 1977, [91 Stat. 751–753](https://www.govinfo.gov/link/statute/91/751), 758–761, 765, 767, 769, 791; [Pub. L. 95–190, § 14(a)(60)](https://www.govinfo.gov/link/plaw/95/public/190) –(65), (b)(5), Nov. 16, 1977, [91 Stat. 1403](https://www.govinfo.gov/link/statute/91/1403), 1405; [Pub. L. 101–549, title II](https://www.govinfo.gov/link/plaw/101/public/549), §§ 201–207, 227(b), 230(1)–(5), Nov. 15, 1990, [104 Stat. 2472–2481](https://www.govinfo.gov/link/statute/104/2472), 2507, 2529.)*

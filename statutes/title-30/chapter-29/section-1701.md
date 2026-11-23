@@ -3,9 +3,10 @@ title: "Section 1701 - Congressional statement of findings and purposes"
 usc_title: 30
 usc_section: "1701"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1701"
-generated_at: "2026-03-30T02:55:29.408Z"
+generated_at: "2026-11-23T20:26:35.056Z"
+status: "active"
 ---
 
 # § 1701. Congressional statement of findings and purposes
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:29.408Z"
   - **(3)** to require the development of enforcement practices that ensure the prompt and proper collection and disbursement of oil and gas revenues owed to the United States and Indian lessors and those inuring to the benefit of States;
   - **(4)** to fulfill the trust responsibility of the United States for the administration of Indian oil and gas resources; and
   - **(5)** to effectively utilize the capabilities of the States and Indian tribes in developing and maintaining an efficient and effective Federal royalty management system.
+
+## Source Credit
+
+*([Pub. L. 97–451, § 2](https://www.govinfo.gov/link/plaw/97/public/451), Jan. 12, 1983, [96 Stat. 2448](https://www.govinfo.gov/link/statute/96/2448).)*

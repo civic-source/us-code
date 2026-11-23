@@ -3,9 +3,10 @@ title: "Section 316 - Modification by Commission of station licenses or construc
 usc_title: 47
 usc_section: "316"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 316"
-generated_at: "2026-03-30T02:56:24.508Z"
+generated_at: "2026-11-23T20:27:28.879Z"
+status: "active"
 ---
 
 # § 316. Modification by Commission of station licenses or construction permits; burden of proof
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:24.508Z"
   - **(2)** Any other licensee or permittee who believes its license or permit would be modified by the proposed action may also protest the proposed action before its effective date.
   - **(3)** A protest filed pursuant to this subsection shall be subject to the requirements of section 309 of this title for petitions to deny.
 - **(b)** In any case where a hearing is conducted pursuant to the provisions of this section, both the burden of proceeding with the introduction of evidence and the burden of proof shall be upon the Commission; except that, with respect to any issue that addresses the question of whether the proposed action would modify the license or permit of a person described in subsection (a)(2), such burdens shall be as determined by the Commission.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title III, § 316, as added July 16, 1952, ch. 879, § 12, [66 Stat. 717](https://www.govinfo.gov/link/statute/66/717); amended [Pub. L. 98–214, § 4(a)](https://www.govinfo.gov/link/plaw/98/public/214), Dec. 8, 1983, [97 Stat. 1467](https://www.govinfo.gov/link/statute/97/1467).)*

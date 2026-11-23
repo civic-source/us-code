@@ -3,9 +3,10 @@ title: "Section 1175 - Specific jurisdictions within which manufacturing, repair
 usc_title: 15
 usc_section: "1175"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1175"
-generated_at: "2026-03-30T02:54:08.129Z"
+generated_at: "2026-11-23T20:26:03.973Z"
+status: "active"
 ---
 
 # § 1175. Specific jurisdictions within which manufacturing, repairing, selling, possessing, etc., prohibited; exceptions
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:08.129Z"
     - **(A)** includes a stop in Canada or in a State other than the State of Alaska;
     - **(B)** includes stops in at least 2 different ports situated in the State of Alaska; and
     - **(C)** is of at least 60 hours duration.
+
+## Source Credit
+
+*(Jan. 2, 1951, ch. 1194, § 5, [64 Stat. 1135](https://www.govinfo.gov/link/statute/64/1135); [Pub. L. 102–251, title II, § 202(b)](https://www.govinfo.gov/link/plaw/102/public/251), Mar. 9, 1992, [106 Stat. 61](https://www.govinfo.gov/link/statute/106/61); [Pub. L. 104–264, title XII, § 1222](https://www.govinfo.gov/link/plaw/104/public/264), Oct. 9, 1996, [110 Stat. 3286](https://www.govinfo.gov/link/statute/110/3286); [Pub. L. 104–324, title XI, § 1106](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3967](https://www.govinfo.gov/link/statute/110/3967); [Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 147]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–251.)*

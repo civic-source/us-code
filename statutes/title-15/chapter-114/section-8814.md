@@ -3,9 +3,10 @@ title: "Section 8814 - National Quantum Initiative Advisory Committee"
 usc_title: 15
 usc_section: "8814"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 8814"
-generated_at: "2026-03-30T02:54:08.234Z"
+generated_at: "2026-11-23T20:26:04.505Z"
+status: "active"
 ---
 
 # § 8814. National Quantum Initiative Advisory Committee
@@ -26,3 +27,21 @@ generated_at: "2026-03-30T02:54:08.234Z"
 - **(e)** Not later than 180 days after December 21, 2018 , and at least biennially thereafter, the Advisory Committee shall submit to the President, the appropriate committees of Congress, and such other committees of Congress as the Advisory Committee deems appropriate a report on the findings of the independent assessment under subsection (d), including any recommendations for improvements to the Program.
 - **(f)** Non-Federal members of the Advisory Committee, while attending meetings of the Advisory Committee or while otherwise serving at the request of the head of the Advisory Committee away from their homes or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 , for individuals in the Government serving without pay. Nothing in this subsection shall be construed to prohibit members of the Advisory Committee who are officers or employees of the United States from being allowed travel expenses, including per diem in lieu of subsistence, in accordance with existing law.
 - **(g)** The Advisory Committee shall be exempt from section 14 of the Federal Advisory Committee Act (5 U.S.C. App.). 1 1 See References in Text note below.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+J.R. Biden, Jr.
+
+## Source Credit
+
+*([Pub. L. 115–368, title I, § 104](https://www.govinfo.gov/link/plaw/115/public/368), Dec. 21, 2018, [132 Stat. 5096](https://www.govinfo.gov/link/statute/132/5096); [Pub. L. 117–81, div. F, title LXVI, § 6606(c)(3)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2444](https://www.govinfo.gov/link/statute/135/2444).)*

@@ -3,9 +3,10 @@ title: "Section 666 - Requirement of statutorily prescribed procedures to improv
 usc_title: 42
 usc_section: "666"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 666"
-generated_at: "2026-03-30T02:56:10.885Z"
+generated_at: "2026-11-23T20:27:20.897Z"
+status: "active"
 ---
 
 # § 666. Requirement of statutorily prescribed procedures to improve effectiveness of child support enforcement
@@ -214,3 +215,119 @@ generated_at: "2026-03-30T02:56:10.885Z"
   - **(2)** procedures under which, in any case in which the State knows of a transfer by a child support debtor with respect to which such a prima facie case is established, the State must—
     - **(A)** seek to void such transfer; or
     - **(B)** obtain a settlement in the best interests of the child support creditor.
+
+Liens
+
+Procedures concerning paternity establishment.—
+
+Establishment process available from birth until age 18.—
+
+Procedures concerning genetic testing.—
+
+Genetic testing required in certain contested cases
+
+Other requirements
+
+Voluntary paternity acknowledgment.—
+
+Simple civil process
+
+Hospital-based program
+
+Paternity establishment services.—
+
+State-offered services
+
+Regulations.—
+
+(aa) Services offered by hospitals and birth record agencies .— The Secretary shall prescribe regulations governing voluntary paternity establishment services offered by hospitals and birth record agencies.
+
+(bb) Services offered by other entities .— The Secretary shall prescribe regulations specifying the types of other entities that may offer voluntary paternity establishment services, and governing the provision of such services, which shall include a requirement that such an entity must use the same notice provisions used by, use the same materials used by, provide the personnel providing such services with the same training provided by, and evaluate the provision of such services in the same manner as the provision of such services is evaluated by, voluntary paternity establishment programs of hospitals and birth record agencies.
+
+Use of paternity acknowledgment affidavit
+
+Status of signed paternity acknowledgment.—
+
+Inclusion in birth records
+
+Legal finding of paternity
+
+Contest
+
+Bar on acknowledgment ratification proceedings
+
+Admissibility of genetic testing results
+
+Presumption of paternity in certain cases
+
+Default orders
+
+No right to jury trial
+
+Temporary support order based on probable paternity in contested cases
+
+Proof of certain support and paternity establishment costs
+
+Standing of putative fathers
+
+Filing of acknowledgments and adjudications in state registry of birth records
+
+Reporting arrearages to credit bureaus.—
+
+In general
+
+Safeguards
+
+Review and adjustment of support orders upon request.—
+
+year cycle.—
+
+In general
+
+Opportunity to request review of adjustment
+
+No proof of change in circumstances necessary in 3-year cycle review
+
+Proof of substantial change in circumstances necessary in request for review outside 3-year cycle
+
+Notice of right to review
+
+Locator information from interstate networks
+
+Recording of social security numbers in certain family matters
+
+High-volume, automated administrative enforcement in interstate cases.—
+
+In general
+
+(aa) of the amount of support under an order the payment of which is in arrears; and
+
+(bb) that the requesting State has complied with all procedural due process requirements applicable to each case;
+
+High-volume automated administrative enforcement
+
+Procedures to ensure that persons owing overdue support work or have a plan for payment of such support
+
+Authority to withhold or suspend licenses
+
+Financial institution data matches.—
+
+In general
+
+Reasonable fees
+
+Liability
+
+Definitions
+
+Financial institution
+
+Account
+
+Enforcement of orders against paternal or maternal grandparents
+
+Health care coverage
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 466, as added [Pub. L. 98–378, § 3(b)](https://www.govinfo.gov/link/plaw/98/public/378), Aug. 16, 1984, [98 Stat. 1306](https://www.govinfo.gov/link/statute/98/1306); amended [Pub. L. 99–509, title IX, § 9103(a)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1973](https://www.govinfo.gov/link/statute/100/1973); [Pub. L. 100–485, title I](https://www.govinfo.gov/link/plaw/100/public/485), §§ 101(a), (b), 103(c), 111(b), (e), Oct. 13, 1988, [102 Stat. 2344–2346](https://www.govinfo.gov/link/statute/102/2344), 2349, 2350; [Pub. L. 100–647, title VIII, § 8105(4)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3797](https://www.govinfo.gov/link/statute/102/3797); [Pub. L. 103–66, title XIII, § 13721(b)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 659](https://www.govinfo.gov/link/statute/107/659); [Pub. L. 103–432, title II, § 212(a)](https://www.govinfo.gov/link/plaw/103/public/432), Oct. 31, 1994, [108 Stat. 4460](https://www.govinfo.gov/link/statute/108/4460); [Pub. L. 104–193, title I, § 108(c)(14)](https://www.govinfo.gov/link/plaw/104/public/193), (15), title III, §§ 301(c)(3), (4), 314, 315, 317, 321, 323, 325(a), 331(a), 351, 364, 365, 367–369, 372, 373, 382, 395(d)(1)(H), (2)(D), Aug. 22, 1996, [110 Stat. 2166](https://www.govinfo.gov/link/statute/110/2166), 2200, 2212, 2214, 2220–2222, 2224, 2227, 2239, 2249–2251, 2254, 2255, 2257, 2259, 2260; [Pub. L. 105–33, title V](https://www.govinfo.gov/link/plaw/105/public/33), §§ 5532(i)(2), 5536–5539, 5544, 5550(a), 5551, 5556(a), (e), Aug. 5, 1997, [111 Stat. 627](https://www.govinfo.gov/link/statute/111/627), 629–631, 633, 634, 637; [Pub. L. 105–200, title IV](https://www.govinfo.gov/link/plaw/105/public/200), §§ 401(c)(1), 404(a), 406(a), July 16, 1998, [112 Stat. 661](https://www.govinfo.gov/link/statute/112/661), 671; [Pub. L. 106–169, title IV, § 401(f)](https://www.govinfo.gov/link/plaw/106/public/169), (m), (n), Dec. 14, 1999, [113 Stat. 1858](https://www.govinfo.gov/link/statute/113/1858), 1859; [Pub. L. 109–171, title VII](https://www.govinfo.gov/link/plaw/109/public/171), §§ 7301(g), 7302(a), 7307(a)(1), (2)(A)(ii), Feb. 8, 2006, [120 Stat. 145](https://www.govinfo.gov/link/statute/120/145), 146; [Pub. L. 113–183, title III, § 301(f)(1)](https://www.govinfo.gov/link/plaw/113/public/183), Sept. 29, 2014, [128 Stat. 1944](https://www.govinfo.gov/link/statute/128/1944).)*

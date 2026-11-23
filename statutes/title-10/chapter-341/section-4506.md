@@ -3,9 +3,10 @@ title: "Section 4506 - Procurement of services: data analysis and requirements v
 usc_title: 10
 usc_section: "4506"
 chapter: 341
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 4506"
-generated_at: "2026-03-30T02:53:38.208Z"
+generated_at: "2026-11-23T20:25:51.957Z"
+status: "active"
 ---
 
 # § 4506. Procurement of services: data analysis and requirements validation
@@ -46,3 +47,17 @@ generated_at: "2026-03-30T02:53:38.208Z"
 - **(f)** In this section:
   - **(1)** The term “Services Requirements Review Board” has the meaning given in Department of Defense Instruction 5000.74, titled “Defense Acquisition of Services” and dated January 10, 2020 , or a successor instruction.
   - **(2)** The term “acquisition decision authority” means the designated decision authority for each designated special interest services acquisition category, described in such Department of Defense Instruction.
+
+In General
+
+Specification of Amounts Requested in Budget
+
+Data Analysis
+
+Requirements Evaluation
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 115–91, div. A, title VIII, § 851(a)(1)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1489](https://www.govinfo.gov/link/statute/131/1489), § 2329; amended [Pub. L. 115–232, div. A, title VIII, § 818(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1852](https://www.govinfo.gov/link/statute/132/1852); [Pub. L. 116–92, div. A, title VIII, § 817(a)](https://www.govinfo.gov/link/plaw/116/public/92), title XVII, § 1731(a)(42), Dec. 20, 2019, [133 Stat. 1488](https://www.govinfo.gov/link/statute/133/1488), 1814; renumbered § 4506 and amended [Pub. L. 116–283, div. A, title XVIII](https://www.govinfo.gov/link/plaw/116/public/283), §§ 1856(g), 1883(b)(2), Jan. 1, 2021, [134 Stat. 4275](https://www.govinfo.gov/link/statute/134/4275), 4294; [Pub. L. 117–81, div. A, title VIII, § 815(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1824](https://www.govinfo.gov/link/statute/135/1824); [Pub. L. 119–60, div. A, title VIII, § 815](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 953](https://www.govinfo.gov/link/statute/139/953).)*

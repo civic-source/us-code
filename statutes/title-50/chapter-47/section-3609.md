@@ -3,9 +3,10 @@ title: "Section 3609 - Enhancement of security authorities"
 usc_title: 50
 usc_section: "3609"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3609"
-generated_at: "2026-03-30T02:56:26.257Z"
+generated_at: "2026-11-23T20:27:31.031Z"
+status: "active"
 ---
 
 # § 3609. Enhancement of security authorities
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:26.257Z"
     - **(D)** transport an individual pursuant to subsection (a)(2).
   - **(2)** Paragraph (1) shall not affect the authorities of the Attorney General under section 2679 of title 28 .
   - **(3)** In this subsection, the term “crime of violence” has the meaning given that term in section 16 of title 18 .
+
+## Source Credit
+
+*([Pub. L. 86–36, § 11](https://www.govinfo.gov/link/plaw/86/public/36), as added [Pub. L. 96–450, title IV, § 402(a)(1)](https://www.govinfo.gov/link/plaw/96/public/450), Oct. 14, 1980, [94 Stat. 1978](https://www.govinfo.gov/link/statute/94/1978); amended [Pub. L. 107–108, title V, § 506](https://www.govinfo.gov/link/plaw/107/public/108), Dec. 28, 2001, [115 Stat. 1406](https://www.govinfo.gov/link/statute/115/1406); [Pub. L. 107–306, title VIII, § 841(f)](https://www.govinfo.gov/link/plaw/107/public/306), Nov. 27, 2002, [116 Stat. 2432](https://www.govinfo.gov/link/statute/116/2432); [Pub. L. 108–177, title III, § 377(c)](https://www.govinfo.gov/link/plaw/108/public/177), title V, § 501, Dec. 13, 2003, [117 Stat. 2630](https://www.govinfo.gov/link/statute/117/2630), 2633; [Pub. L. 112–87, title IV, § 421](https://www.govinfo.gov/link/plaw/112/public/87), Jan. 3, 2012, [125 Stat. 1893](https://www.govinfo.gov/link/statute/125/1893).)*

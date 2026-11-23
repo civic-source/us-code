@@ -3,9 +3,10 @@ title: "Section 4701 - Contractor employees: protection from reprisal for disclo
 usc_title: 10
 usc_section: "4701"
 chapter: 365
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 4701"
-generated_at: "2026-03-30T02:53:38.209Z"
+generated_at: "2026-11-23T20:25:51.965Z"
+status: "active"
 ---
 
 # § 4701. Contractor employees: protection from reprisal for disclosure of certain information
@@ -66,3 +67,37 @@ generated_at: "2026-03-30T02:53:38.209Z"
     - **(A)** An arbitrary and capricious exercise of authority that is inconsistent with the mission of the Department of Defense or the successful performance of a Department contract or grant.
     - **(B)** An arbitrary and capricious exercise of authority that is inconsistent with the mission of the National Aeronautics and Space Administration or the successful performance of an Administration contract or grant.
   - **(7)** The term “grantee” means a person awarded a grant with an agency.
+
+Prohibition of Reprisals
+
+Investigation of Complaints
+
+Remedy and Enforcement Authority
+
+Notification of Employees
+
+Exceptions
+
+Construction
+
+Definitions
+
+Effective Date
+
+In general
+
+Revision of supplements to the far
+
+Inclusion of contract clause in contracts awarded before effective date
+
+In General
+
+Reliance on Representation
+
+In General
+
+Contractor Defined
+
+## Source Credit
+
+*(Added [Pub. L. 99–500, § 101(c) [title X, § 942(a)(1)]](https://www.govinfo.gov/link/plaw/99/public/500), Oct. 18, 1986, [100 Stat. 1783–82](https://www.govinfo.gov/link/statute/100/1783), 1783–162, and [Pub. L. 99–591, § 101(c) [title X, § 942(a)(1)]](https://www.govinfo.gov/link/plaw/99/public/591), Oct. 30, 1986, [100 Stat. 3341–82](https://www.govinfo.gov/link/statute/100/3341), 3341–162, § 2409; [Pub. L. 99–661, div. A, title IX](https://www.govinfo.gov/link/plaw/99/public/661), formerly title IV, § 942(a)(1), Nov. 14, 1986, [100 Stat. 3942](https://www.govinfo.gov/link/statute/100/3942), renumbered title IX, [Pub. L. 100–26, § 3(5)](https://www.govinfo.gov/link/plaw/100/public/26), Apr. 21, 1987, [101 Stat. 273](https://www.govinfo.gov/link/statute/101/273); amended [Pub. L. 102–25, title VII, § 701(k)(1)](https://www.govinfo.gov/link/plaw/102/public/25), Apr. 6, 1991, [105 Stat. 116](https://www.govinfo.gov/link/statute/105/116); [Pub. L. 102–484, div. A, title X, § 1052(30)(A)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2500](https://www.govinfo.gov/link/statute/106/2500); [Pub. L. 103–355, title VI, § 6005(a)](https://www.govinfo.gov/link/plaw/103/public/355), Oct. 13, 1994, [108 Stat. 3364](https://www.govinfo.gov/link/statute/108/3364); [Pub. L. 104–106, div. D, title XLIII, § 4321(a)(10)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 671](https://www.govinfo.gov/link/statute/110/671); [Pub. L. 110–181, div. A, title VIII, § 846](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 241](https://www.govinfo.gov/link/statute/122/241); [Pub. L. 112–239, div. A, title VIII, § 827(a)](https://www.govinfo.gov/link/plaw/112/public/239) –(f), Jan. 2, 2013, [126 Stat. 1833–1836](https://www.govinfo.gov/link/statute/126/1833); [Pub. L. 113–291, div. A, title VIII, § 856](https://www.govinfo.gov/link/plaw/113/public/291), title X, § 1071(c)(10), Dec. 19, 2014, [128 Stat. 3460](https://www.govinfo.gov/link/statute/128/3460), 3509; [Pub. L. 114–261, § 1(a)(1)](https://www.govinfo.gov/link/plaw/114/public/261), Dec. 14, 2016, [130 Stat. 1362](https://www.govinfo.gov/link/statute/130/1362); renumbered § 4701 and amended [Pub. L. 116–283, div. A, title XVIII, § 1863(b)](https://www.govinfo.gov/link/plaw/116/public/283), (c), Jan. 1, 2021, [134 Stat. 4278](https://www.govinfo.gov/link/statute/134/4278); [Pub. L. 117–263, div. A, title VIII, § 807(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2703](https://www.govinfo.gov/link/statute/136/2703); [Pub. L. 117–286, § 4(b)(28)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4346](https://www.govinfo.gov/link/statute/136/4346); [Pub. L. 118–159, div. A, title VIII, § 837](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1987](https://www.govinfo.gov/link/statute/138/1987).)*

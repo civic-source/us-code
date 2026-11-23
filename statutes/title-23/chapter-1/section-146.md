@@ -3,12 +3,17 @@ title: "Section 146 - Carpool and vanpool projects"
 usc_title: 23
 usc_section: "146"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 146"
-generated_at: "2026-03-30T02:55:12.558Z"
+generated_at: "2026-11-23T20:26:23.802Z"
+status: "active"
 ---
 
 # § 146. Carpool and vanpool projects
 
 - **(a)** In order to conserve fuel, decrease traffic congestion during rush hours, improve air quality, and enhance the use of existing highways and parking facilities, the Secretary may approve for Federal financial assistance from funds apportioned under section 104(b)(2) of this title , projects designed to encourage the use of carpools and vanpools. (As used hereafter in this section, the term “carpool” includes a vanpool.) Such a project may include, but is not limited to, such measures as providing carpooling opportunities to the elderly and handicapped, systems for locating potential riders and informing them of convenient carpool opportunities, acquiring vehicles appropriate for carpool use, designating existing highway lanes as preferential carpool highway lanes, providing related traffic control devices, and designating existing facilities for use as preferential parking for carpools.
 - **(b)** A project authorized by this section shall be subject to and carried out in accordance with all provisions of this title, except those provisions which the Secretary determines are inconsistent with this section.
+
+## Source Credit
+
+*(Added [Pub. L. 95–599, title I, § 126(a)](https://www.govinfo.gov/link/plaw/95/public/599), Nov. 6, 1978, [92 Stat. 2705](https://www.govinfo.gov/link/statute/92/2705); amended [Pub. L. 105–178, title I, § 1103](https://www.govinfo.gov/link/plaw/105/public/178) (l)(1), June 9, 1998, [112 Stat. 125](https://www.govinfo.gov/link/statute/112/125); [Pub. L. 112–141, div. A, title I, § 1105(b)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 432](https://www.govinfo.gov/link/statute/126/432).)*

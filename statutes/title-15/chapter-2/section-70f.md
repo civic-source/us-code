@@ -3,9 +3,10 @@ title: "Section 70f - Injunction proceedings"
 usc_title: 15
 usc_section: "70f"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 70f"
-generated_at: "2026-03-30T02:54:08.030Z"
+generated_at: "2026-11-23T20:26:03.427Z"
+status: "active"
 ---
 
 # § 70f. Injunction proceedings
@@ -14,3 +15,7 @@ Whenever the Commission has reason to believe—
 
 - **(a)** that any person is doing, or is about to do, an act which by section 70a, 70c, 70d, 70g, or 70h(b) of this title is declared to be unlawful; and
 - **(b)** that it would be to the public interest to enjoin the doing of such act until complaint is issued by the Commission under the Federal Trade Commission Act [ 15 U.S.C. 41 et seq.] and such complaint is dismissed by the Commission or set aside by the court on review or until an order to cease and desist made thereon by the Commission has become final within the meaning of the Federal Trade Commission Act,
+
+## Source Credit
+
+*([Pub. L. 85–897, § 8](https://www.govinfo.gov/link/plaw/85/public/897), Sept. 2, 1958, [72 Stat. 1721](https://www.govinfo.gov/link/statute/72/1721).)*

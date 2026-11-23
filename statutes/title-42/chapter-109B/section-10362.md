@@ -3,9 +3,10 @@ title: "Section 10362 - Definitions"
 usc_title: 42
 usc_section: "10362"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10362"
-generated_at: "2026-03-30T02:56:11.386Z"
+generated_at: "2026-11-23T20:27:23.237Z"
+status: "active"
 ---
 
 # § 10362. Definitions
@@ -66,3 +67,7 @@ In this chapter:
       - **(i)** in the case of sections 10363, 10364, and 10369 of this title, the Secretary of the Interior (acting through the Commissioner); and
       - **(ii)** in the case of sections 10367 and 10368 of this title, the Secretary of the Interior (acting through the Director).
   - **(19)** The term “service area” means any area that encompasses a watershed that contains a federally authorized reclamation project that is located in any State or area described in section 391 of title 43 .
+
+## Source Credit
+
+*([Pub. L. 111–11, title IX, § 9502](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1330](https://www.govinfo.gov/link/statute/123/1330); [Pub. L. 116–260, div. FF, title XI, § 1106(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3240](https://www.govinfo.gov/link/statute/134/3240).)*

@@ -3,12 +3,17 @@ title: "Section 20505 - Limitation on liability"
 usc_title: 34
 usc_section: "20505"
 chapter: 205
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 20505"
-generated_at: "2026-03-30T02:55:33.298Z"
+generated_at: "2026-11-23T20:26:50.597Z"
+status: "active"
 ---
 
 # § 20505. Limitation on liability
 
 - **(a)** Except as provided in subsection (b), the National Center for Missing and Exploited Children, including any of its officers, employees, or agents, shall not be liable for damages in any civil action for defamation, libel, slander, or harm to reputation arising out of any action or communication by the National Center for Missing and Exploited Children, its officers, employees, or agents, in connection with any clearinghouse, hotline or complaint intake or forwarding program or in connection with activity that is wholly or partially funded by the United States and undertaken in cooperation with, or at the direction of a Federal law enforcement agency.
 - **(b)** The limitation in subsection (a) does not apply in any action in which the plaintiff proves that the National Center for Missing and Exploited Children, its officers, employees, or agents acted with actual malice, or provided information or took action for a purpose unrelated to an activity mandated by Federal law. For purposes of this subsection, the prevention, or detection of crime, and the safety, recovery, or protection of missing or exploited children shall be deemed, per se, to be an activity mandated by Federal law.
+
+## Source Credit
+
+*([Pub. L. 108–21, title III, § 305](https://www.govinfo.gov/link/plaw/108/public/21), Apr. 30, 2003, [117 Stat. 664](https://www.govinfo.gov/link/statute/117/664).)*

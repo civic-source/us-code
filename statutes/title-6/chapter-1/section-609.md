@@ -3,9 +3,10 @@ title: "Section 609 - Use of funds"
 usc_title: 6
 usc_section: "609"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 609"
-generated_at: "2026-03-30T02:53:09.472Z"
+generated_at: "2026-11-23T20:25:34.808Z"
+status: "active"
 ---
 
 # § 609. Use of funds
@@ -63,3 +64,7 @@ generated_at: "2026-03-30T02:53:09.472Z"
     - **(E)** The degree to which such equipment or systems will serve the needs of the applicant better than equipment or systems that meet or exceed existing consensus standards.
     - **(F)** Any other factor determined appropriate by the Administrator.
 - **(g)** The Administrator shall implement a uniform process for reviewing applications to use grants provided under section 604 or 605 of this title to purchase equipment or systems not included on the Authorized Equipment List maintained by the Administrator.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XX, § 2008](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 110–53, title I, § 101](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 283](https://www.govinfo.gov/link/statute/121/283); amended [Pub. L. 110–412, § 2](https://www.govinfo.gov/link/plaw/110/public/412), Oct. 14, 2008, [122 Stat. 4336](https://www.govinfo.gov/link/statute/122/4336); [Pub. L. 114–113, div. M, title VII, § 711](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2934](https://www.govinfo.gov/link/statute/129/2934); [Pub. L. 114–190, title III, § 3603](https://www.govinfo.gov/link/plaw/114/public/190), July 15, 2016, [130 Stat. 665](https://www.govinfo.gov/link/statute/130/665); [Pub. L. 115–278, § 2(g)(7)(B)](https://www.govinfo.gov/link/plaw/115/public/278), Nov. 16, 2018, [132 Stat. 4180](https://www.govinfo.gov/link/statute/132/4180); [Pub. L. 116–260, div. U, title IX, § 904(c)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2302](https://www.govinfo.gov/link/statute/134/2302); [Pub. L. 117–263, div. G, title LXXI, § 7101(c)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3619](https://www.govinfo.gov/link/statute/136/3619); [Pub. L. 118–165, § 2(a)](https://www.govinfo.gov/link/plaw/118/public/165), Dec. 23, 2024, [138 Stat. 2581](https://www.govinfo.gov/link/statute/138/2581).)*

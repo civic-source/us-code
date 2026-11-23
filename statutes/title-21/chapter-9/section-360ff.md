@@ -3,9 +3,10 @@ title: "Section 360ff - Priority review to encourage treatments for rare pediatr
 usc_title: 21
 usc_section: "360ff"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 360ff"
-generated_at: "2026-03-30T02:54:54.253Z"
+generated_at: "2026-11-23T20:26:27.660Z"
+status: "active"
 ---
 
 # § 360ff. Priority review to encourage treatments for rare pediatric diseases
@@ -44,9 +45,7 @@ generated_at: "2026-03-30T02:54:54.253Z"
     - **(B)**
       - **(i)** The sponsor of a human drug application shall notify the Secretary not later than 90 days prior to submission of the human drug application that is the subject of a priority review voucher of an intent to submit the human drug application, including the date on which the sponsor intends to submit the application. Such notification shall be a legally binding commitment to pay the user fee to be assessed in accordance with this section.
       - **(ii)** The sponsor of a human drug application that provides notification of the intent of such sponsor to use the voucher for the human drug application under clause (i) may transfer the voucher after such notification is provided, if such sponsor has not yet submitted the human drug application described in the notification.
-  - **(5)** The Secretary may not award any priority review vouchers under paragraph (1) after December 20, 2024 , unless the rare pediatric disease product application—
-    - **(A)** is for a drug that, not later than December 20, 2024 , is designated under subsection (d) as a drug for a rare pediatric disease; and
-    - **(B)** is, not later than September 30, 2026 , approved under section 355(b)(1) of this title or section 351(a) of the Public Health Service Act [ 42 U.S.C. 262(a) ].
+  - **(5)** The Secretary may not award any priority review vouchers under paragraph (1) after September 30, 2029 .
 - **(c)**
   - **(1)** The Secretary shall establish a user fee program under which a sponsor of a human drug application that is the subject of a priority review voucher shall pay to the Secretary a fee determined under paragraph (2). Such fee shall be in addition to any fee required to be submitted by the sponsor under subchapter VII.
   - **(2)** The amount of the priority review user fee shall be determined each fiscal year by the Secretary, based on the difference between—
@@ -54,7 +53,7 @@ generated_at: "2026-03-30T02:54:54.253Z"
     - **(B)** the average cost incurred by the Food and Drug Administration in the review of a human drug application that is not subject to priority review in the previous fiscal year.
   - **(3)** The Secretary shall establish, before the beginning of each fiscal year beginning after September 30, 2012 , the amount of the priority review user fee for that fiscal year.
   - **(4)**
-    - **(A)** The priority review user fee required by this subsection shall be due upon the notification by a sponsor of the intent of such sponsor to use the voucher, as specified in subsection (b)(4)(A). 2 2 See References in Text note below. All other user fees associated with the human drug application shall be due as required by the Secretary or under applicable law.
+    - **(A)** The priority review user fee required by this subsection shall be due upon the submission of a human drug application under section 355(b)(1) of this title or section 351(a) of the Public Health Service Act [ 42 U.S.C. 262(a) ] for which the priority review voucher is used. All other user fees associated with the human drug application shall be due as required by the Secretary or under applicable law.
     - **(B)** An application described under subparagraph (A) for which the sponsor requests the use of a priority review voucher shall be considered incomplete if the fee required by this subsection and all other applicable user fees are not paid in accordance with the Secretary’s procedures for paying such fees.
     - **(C)** The Secretary may not grant a waiver, exemption, reduction, or refund of any fees due and payable under this section.
   - **(5)** Fees collected pursuant to this subsection for any fiscal year—
@@ -93,3 +92,15 @@ generated_at: "2026-03-30T02:54:54.253Z"
       - **(iv)** Identification of each drug for which a priority review voucher was used.
       - **(v)** The length of the period of time between the date on which a priority review voucher was awarded and the date on which it was used.
   - **(2)** Not later than 1 year after the date under paragraph (1)(A), the Comptroller General shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, a report containing the results of the study under paragraph (1).
+
+(aa) on or after the date that is 90 days after July 9, 2012 ; and
+
+(bb) on or before September 30, 2016 ; and
+
+In general
+
+Transfer after notice
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 529, as added [Pub. L. 112–144, title IX, § 908](https://www.govinfo.gov/link/plaw/112/public/144), July 9, 2012, [126 Stat. 1094](https://www.govinfo.gov/link/statute/126/1094); amended [Pub. L. 114–113, div. A, title VII, § 765](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2286](https://www.govinfo.gov/link/statute/129/2286); [Pub. L. 114–229, § 2(a)](https://www.govinfo.gov/link/plaw/114/public/229), Sept. 30, 2016, [130 Stat. 943](https://www.govinfo.gov/link/statute/130/943); [Pub. L. 114–255, div. A, title III, § 3013(a)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1093](https://www.govinfo.gov/link/statute/130/1093); [Pub. L. 116–159, div. C, title I, § 2105](https://www.govinfo.gov/link/plaw/116/public/159), Oct. 1, 2020, [134 Stat. 729](https://www.govinfo.gov/link/statute/134/729); [Pub. L. 116–215, div. B, title II, § 1211](https://www.govinfo.gov/link/plaw/116/public/215), Dec. 11, 2020, [134 Stat. 1045](https://www.govinfo.gov/link/statute/134/1045); [Pub. L. 116–260, div. BB, title III, § 321](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2932](https://www.govinfo.gov/link/statute/134/2932); [Pub. L. 117–9, § 1(a)(4)](https://www.govinfo.gov/link/plaw/117/public/9), Apr. 23, 2021, [135 Stat. 257](https://www.govinfo.gov/link/statute/135/257); [Pub. L. 118–83, div. B, title II, § 202](https://www.govinfo.gov/link/plaw/118/public/83), Sept. 26, 2024, [138 Stat. 1538](https://www.govinfo.gov/link/statute/138/1538); [Pub. L. 119–75, div. J, title VI, § 6604(a)](https://www.govinfo.gov/link/plaw/119/public/75), (b), Feb. 3, 2026, [140 Stat. 699](https://www.govinfo.gov/link/statute/140/699).)*

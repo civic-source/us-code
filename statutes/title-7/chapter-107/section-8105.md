@@ -3,9 +3,10 @@ title: "Section 8105 - Bioenergy program for advanced biofuels"
 usc_title: 7
 usc_section: "8105"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 8105"
-generated_at: "2026-03-30T02:53:42.471Z"
+generated_at: "2026-11-23T20:25:41.868Z"
+status: "active"
 ---
 
 # § 8105. Bioenergy program for advanced biofuels
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:53:42.471Z"
     - **(F)** $7,000,000 for each of fiscal years 2019 through 2031.
   - **(2)** In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2019 through 2023.
   - **(3)** Of the funds provided for each fiscal year, not more than 5 percent of the funds shall be made available to eligible producers for production at facilities with a total refining capacity exceeding 150,000,000 gallons per year.
+
+## Source Credit
+
+*([Pub. L. 107–171, title IX, § 9005](https://www.govinfo.gov/link/plaw/107/public/171), as added [Pub. L. 110–234, title IX, § 9001(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1314](https://www.govinfo.gov/link/statute/122/1314), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IX, § 9001(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2075; amended [Pub. L. 112–240, title VII, § 701(f)(4)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2365](https://www.govinfo.gov/link/statute/126/2365); [Pub. L. 113–79, title IX, § 9005](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 930](https://www.govinfo.gov/link/statute/128/930); [Pub. L. 115–334, title IX, § 9005](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4885](https://www.govinfo.gov/link/statute/132/4885); [Pub. L. 118–22, div. B, title I, § 102(d)(6)(B)](https://www.govinfo.gov/link/plaw/118/public/22), Nov. 17, 2023, [137 Stat. 117](https://www.govinfo.gov/link/statute/137/117); [Pub. L. 119–21, title I, § 10605](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 109](https://www.govinfo.gov/link/statute/139/109).)*

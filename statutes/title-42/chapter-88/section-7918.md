@@ -3,9 +3,10 @@ title: "Section 7918 - Remedial action and mineral recovery activities"
 usc_title: 42
 usc_section: "7918"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7918"
-generated_at: "2026-03-30T02:56:11.331Z"
+generated_at: "2026-11-23T20:27:22.986Z"
+status: "active"
 ---
 
 # § 7918. Remedial action and mineral recovery activities
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.331Z"
   - **(2)** The Secretary shall use technology in performing such remedial action as will insure compliance with the general standards promulgated by the Administrator under section 275 a. of the Atomic Energy Act of 1954 [ 42 U.S.C. 2022(a) ] and will assure the safe and environmentally sound stabilization of residual radioactive materials, consistent with existing law.
   - **(3)** Notwithstanding paragraphs (1) and (2) of this subsection, after October 31, 1982 , if the Administrator has not promulgated standards under section 275 a. of the Atomic Energy Act of 1954 [ 42 U.S.C. 2022(a) ] in final form by such date, remedial action taken by the Secretary under this subchapter shall comply with the standards proposed by the Administrator under such section 275 a. until such time as the Administrator promulgates the standards in final form.
 - **(b)** Prior to undertaking any remedial action at a designated site pursuant to this subchapter, the Secretary shall request expressions of interest from private parties regarding the remilling of the residual radioactive materials and the site and, upon receipt of any expression of interest, the Secretary shall evaluate among other things the mineral concentration of the residual radioactive materials at each designated processing site to determine whether, as a part of any remedial action program, recovery of such minerals is practicable. The Secretary, with the concurrence of the Commission, may permit the recovery of such minerals, under such terms and conditions as he may prescribe to carry out the purposes of this subchapter. No such recovery shall be permitted unless such recovery is consistent with remedial action. Any person permitted by the Secretary to recover such mineral shall pay to the Secretary a share of the net profits derived from such recovery, as determined by the Secretary. Such share shall not exceed the total amount paid by the Secretary for carrying out remedial action at such designated site. After payment of such share to the United States under this subsection, such person shall pay to the State in which the residual radioactive materials are located a share of the net profits derived from such recovery, as determined by the Secretary. The person recovering such minerals shall bear all costs of such recovery. Any person carrying out mineral recovery activities under this paragraph shall be required to obtain any necessary license under the Atomic Energy Act of 1954 [ 42 U.S.C. 2011 et seq.] or under State law as permitted under section 274 of such Act [ 42 U.S.C. 2021 ].
+
+## Source Credit
+
+*([Pub. L. 95–604, title I, § 108](https://www.govinfo.gov/link/plaw/95/public/604), Nov. 8, 1978, [92 Stat. 3029](https://www.govinfo.gov/link/statute/92/3029); [Pub. L. 97–415, § 18(b)](https://www.govinfo.gov/link/plaw/97/public/415), Jan. 4, 1983, [96 Stat. 2078](https://www.govinfo.gov/link/statute/96/2078); [Pub. L. 104–259, § 4(b)](https://www.govinfo.gov/link/plaw/104/public/259), Oct. 9, 1996, [110 Stat. 3174](https://www.govinfo.gov/link/statute/110/3174).)*

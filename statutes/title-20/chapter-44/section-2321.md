@@ -3,9 +3,10 @@ title: "Section 2321 - Reservations and State allotment"
 usc_title: 20
 usc_section: "2321"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 2321"
-generated_at: "2026-03-30T02:54:48.173Z"
+generated_at: "2026-11-23T20:26:14.693Z"
+status: "active"
 ---
 
 # § 2321. Reservations and State allotment
@@ -46,3 +47,11 @@ generated_at: "2026-03-30T02:54:48.173Z"
   - **(3)** For the purpose of this section, the term “per capita income” means, with respect to a fiscal year, the total personal income in the calendar year ending in such year, divided by the population of the area concerned in such year.
   - **(4)** For the purposes of this section, population shall be determined by the Secretary on the basis of the latest estimates available to the Department of Education.
 - **(d)** For the purpose of this section, the term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and the United States Virgin Islands.
+
+(aa) the qualifying State’s ratio described in subparagraph (C) for the fiscal year for which the determination is made; divided by
+
+(bb) the sum of all such ratios for all qualifying States for the fiscal year for which the determination is made.
+
+## Source Credit
+
+*([Pub. L. 88–210, title I, § 111](https://www.govinfo.gov/link/plaw/88/public/210), as added [Pub. L. 109–270, § 1(b)](https://www.govinfo.gov/link/plaw/109/public/270), Aug. 12, 2006, [120 Stat. 691](https://www.govinfo.gov/link/statute/120/691); amended [Pub. L. 115–224, title I, § 110](https://www.govinfo.gov/link/plaw/115/public/224), July 31, 2018, [132 Stat. 1576](https://www.govinfo.gov/link/statute/132/1576).)*

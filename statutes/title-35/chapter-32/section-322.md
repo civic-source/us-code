@@ -3,9 +3,10 @@ title: "Section 322 - Petitions"
 usc_title: 35
 usc_section: "322"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "35 U.S.C. § 322"
-generated_at: "2026-03-30T02:55:34.241Z"
+generated_at: "2026-11-23T20:26:49.151Z"
+status: "active"
 ---
 
 # § 322. Petitions
@@ -19,3 +20,11 @@ generated_at: "2026-03-30T02:55:34.241Z"
   - **(4)** the petition provides such other information as the Director may require by regulation; and
   - **(5)** the petitioner provides copies of any of the documents required under paragraphs (2), (3), and (4) to the patent owner or, if applicable, the designated representative of the patent owner.
 - **(b)** As soon as practicable after the receipt of a petition under section 321, the Director shall make the petition available to the public.
+
+Requirements of Petition
+
+Public Availability
+
+## Source Credit
+
+*(Added [Pub. L. 112–29, § 6(d)](https://www.govinfo.gov/link/plaw/112/public/29), Sept. 16, 2011, [125 Stat. 306](https://www.govinfo.gov/link/statute/125/306).)*

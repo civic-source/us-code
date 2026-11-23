@@ -3,12 +3,17 @@ title: "Section 3904 - Authorization of appropriations; restriction"
 usc_title: 7
 usc_section: "3904"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 3904"
-generated_at: "2026-03-30T02:53:42.405Z"
+generated_at: "2026-11-23T20:25:41.606Z"
+status: "active"
 ---
 
 # § 3904. Authorization of appropriations; restriction
 
 - **(a)** There are hereby authorized to be appropriated to administer the program under this chapter $25,000,000 for fiscal year 1982, and $25,000,000 annually thereafter through the end of fiscal year 1986.
 - **(b)** Not more than 30 per centum of any of the amounts appropriated under this section in any fiscal year may be obligated for research under section 3902 of this title at facilities of the Department of Agriculture.
+
+## Source Credit
+
+*([Pub. L. 96–469, § 5](https://www.govinfo.gov/link/plaw/96/public/469), Oct. 17, 1980, [94 Stat. 2235](https://www.govinfo.gov/link/statute/94/2235).)*

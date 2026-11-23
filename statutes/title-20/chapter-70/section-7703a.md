@@ -3,9 +3,10 @@ title: "Section 7703a - Impact aid for children with severe disabilities"
 usc_title: 20
 usc_section: "7703a"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 7703a"
-generated_at: "2026-03-30T02:54:48.216Z"
+generated_at: "2026-11-23T20:26:14.929Z"
+status: "active"
 ---
 
 # § 7703a. Impact aid for children with severe disabilities
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:48.216Z"
   - **(2)** a breakdown of the average cost, by placement (inside or outside the boundaries of the school district of the local educational agency), of providing education and related services to such children.
 - **(f)** Payments shall be made for any period in a fiscal year under this section only to the extent that funds are appropriated specifically for making such payments for that fiscal year.
 - **(g)** In this section, the term “local educational agency” has the meaning given that term in section 7713 of this title .
+
+## Source Credit
+
+*([Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title III, § 363], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–77; [Pub. L. 114–95, title IX, § 9215(kk)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2175](https://www.govinfo.gov/link/statute/129/2175).)*

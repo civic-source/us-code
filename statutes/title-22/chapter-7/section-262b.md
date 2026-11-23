@@ -3,12 +3,17 @@ title: "Section 262b - Commitments for United States contributions to internatio
 usc_title: 22
 usc_section: "262b"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 262b"
-generated_at: "2026-03-30T02:55:05.303Z"
+generated_at: "2026-11-23T20:26:31.913Z"
+status: "active"
 ---
 
 # § 262b. Commitments for United States contributions to international organizations; limitations; consultation with Congressional committees
 
 No representative of the United States Government in any international organization hereafter shall make any commitment requiring the appropriation of funds for a contribution by the United States in excess of 33⅓ per centum of the budget of any international organization for which the appropriation for the United States contribution is contained in this Act: Provided , That in exceptional circumstances necessitating a contribution by the United States in excess of 33⅓ per centum of the budget, a commitment requiring a United States appropriation of a larger proportion may be made after consultation by United States representatives in the organization or other appropriate officials of the Department of State with the Committees on Appropriations of the Senate and House of Representatives: Provided, however , That this section shall not apply to the United States representatives to the Inter-American organizations, Caribbean Commission and the Joint Support program of the International Civil Aviation Organization.
 
+
+## Source Credit
+
+*(Oct. 22, 1951, ch. 533, title VI, § 602, [65 Stat. 599](https://www.govinfo.gov/link/statute/65/599); Aug. 5, 1953, ch. 328, title I, [67 Stat. 368](https://www.govinfo.gov/link/statute/67/368).)*

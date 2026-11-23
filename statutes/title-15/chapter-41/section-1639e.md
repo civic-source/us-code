@@ -3,9 +3,10 @@ title: "Section 1639e - Appraisal independence requirements"
 usc_title: 15
 usc_section: "1639e"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1639e"
-generated_at: "2026-03-30T02:54:08.143Z"
+generated_at: "2026-11-23T20:26:04.053Z"
+status: "active"
 ---
 
 # § 1639e. Appraisal independence requirements
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:54:08.143Z"
   - **(1)** In addition to the enforcement provisions referred to in section 1640 of this title , each person who violates this section shall forfeit and pay a civil penalty of not more than $10,000 for each day any such violation continues.
   - **(2)** In the case of any person on whom a civil penalty has been imposed under paragraph (1), paragraph (1) shall be applied by substituting “$20,000” for “$10,000” with respect to all subsequent violations.
   - **(3)** The agency referred to in subsection (a) or (c) of section 1607 of this title with respect to any person described in paragraph (1) shall assess any penalty under this subsection to which such person is subject.
+
+## Source Credit
+
+*([Pub. L. 90–321, title I, § 129E](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 111–203, title XIV, § 1472(a)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2187](https://www.govinfo.gov/link/statute/124/2187); amended [Pub. L. 115–174, title I, § 102](https://www.govinfo.gov/link/plaw/115/public/174), May 24, 2018, [132 Stat. 1299](https://www.govinfo.gov/link/statute/132/1299).)*

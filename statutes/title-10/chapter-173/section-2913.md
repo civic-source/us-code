@@ -3,9 +3,10 @@ title: "Section 2913 - Energy savings contracts and activities"
 usc_title: 10
 usc_section: "2913"
 chapter: 173
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2913"
-generated_at: "2026-03-30T02:53:38.186Z"
+generated_at: "2026-11-23T20:25:51.770Z"
+status: "active"
 ---
 
 # § 2913. Energy savings contracts and activities
@@ -25,3 +26,15 @@ generated_at: "2026-03-30T02:53:38.186Z"
   - **(2)** If an agreement under this subsection provides for a utility to advance financing costs for the design or implementation of a program referred to in that paragraph to be repaid by the United States, the cost of such advance may be recovered by the utility under terms no less favorable than those applicable to its most favored customer.
   - **(3)** Subject to the availability of appropriations, repayment of costs advanced under paragraph (2) shall be made from funds available to a military department for the purchase of utility services.
   - **(4)** An agreement under this subsection shall provide that title to any energy-saving device or technology installed at a military installation pursuant to the agreement vest in the United States. Such title may vest at such time during the term of the agreement, or upon expiration of the agreement, as determined to be in the best interests of the United States.
+
+Shared Energy Savings Contracts
+
+Participation in Gas or Electric Utility Programs
+
+Acceptance of Financial Incentive, Goods, or Services
+
+Agreements With Gas or Electric Utilities
+
+## Source Credit
+
+*(Added and amended [Pub. L. 109–364, div. B, title XXVIII](https://www.govinfo.gov/link/plaw/109/public/364), §§ 2851(a)(1), 2853, Oct. 17, 2006, [120 Stat. 2491](https://www.govinfo.gov/link/statute/120/2491), 2496; [Pub. L. 110–140, title V, § 511(c)](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1658](https://www.govinfo.gov/link/statute/121/1658); [Pub. L. 110–181, div. B, title XXVIII, § 2861](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 559](https://www.govinfo.gov/link/statute/122/559); [Pub. L. 115–232, div. A, title III, § 312(g)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1711](https://www.govinfo.gov/link/statute/132/1711); [Pub. L. 116–92, div. A, title III, § 320(a)(1)(A)](https://www.govinfo.gov/link/plaw/116/public/92), title XVII, § 1731(a)(58), Dec. 20, 2019, [133 Stat. 1306](https://www.govinfo.gov/link/statute/133/1306), 1815.)*

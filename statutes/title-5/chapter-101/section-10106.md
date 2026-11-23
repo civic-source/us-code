@@ -3,9 +3,10 @@ title: "Section 10106 - Quarterly report on vacancy rate in employee positions"
 usc_title: 5
 usc_section: "10106"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 10106"
-generated_at: "2026-03-30T02:52:56.076Z"
+generated_at: "2026-11-23T20:25:32.268Z"
+status: "active"
 ---
 
 # § 10106. Quarterly report on vacancy rate in employee positions
@@ -19,3 +20,15 @@ generated_at: "2026-03-30T02:52:56.076Z"
     - **(D)** hiring-cycle time for each vacancy that has been filled; and
     - **(E)** a plan for reducing the hiring-cycle time and reducing the current and anticipated vacancies with highly-qualified personnel.
 - **(b)** Not later than 3 months after submission of the initial report, and every 3 months thereafter until 5 years after the date of enactment of this chapter, the Administrator shall submit to the appropriate committees of Congress an update of the report under subsection (a), including an assessment by the Administrator of the progress of the Agency in filling vacant employee positions of the Agency.
+
+Initial Report.—
+
+In general
+
+Contents
+
+Quarterly Updates
+
+## Source Credit
+
+*(Added [Pub. L. 109–295, title VI, § 621(a)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1416](https://www.govinfo.gov/link/statute/120/1416).)*

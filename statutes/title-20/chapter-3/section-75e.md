@@ -3,9 +3,10 @@ title: "Section 75e - Powers of Board"
 usc_title: 20
 usc_section: "75e"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 75e"
-generated_at: "2026-03-30T02:54:48.073Z"
+generated_at: "2026-11-23T20:26:14.215Z"
+status: "active"
 ---
 
 # § 75e. Powers of Board
@@ -16,3 +17,7 @@ For the purpose of carrying out any function authorized by section 75b of this t
   - **(2)** preserve or restore any item acquired pursuant to paragraph (1).
   - **(3)** display, loan, store, or otherwise hold any such item.
   - **(4)** sell, exchange, donate, return, or otherwise dispose of any such item.
+
+## Source Credit
+
+*([Pub. L. 87–443, § 6](https://www.govinfo.gov/link/plaw/87/public/443), Apr. 27, 1962, [76 Stat. 63](https://www.govinfo.gov/link/statute/76/63).)*

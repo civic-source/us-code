@@ -3,9 +3,10 @@ title: "Section 3505 - Submission of other information"
 usc_title: 41
 usc_section: "3505"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 3505"
-generated_at: "2026-03-30T02:55:55.806Z"
+generated_at: "2026-11-23T20:27:04.440Z"
+status: "active"
 ---
 
 # § 3505. Submission of other information
@@ -15,3 +16,46 @@ generated_at: "2026-03-30T02:55:55.806Z"
   - **(1)** Reasonable limitations on requests for sales data relating to commercial products or commercial services.
   - **(2)** A requirement that a contracting officer limit, to the maximum extent practicable, the scope of any request for information relating to commercial products or commercial services from an offeror to only that information that is in the form regularly maintained by the offeror in commercial operations.
   - **(3)** A statement that any information received relating to commercial products or commercial services that is exempt from disclosure under section 552(b) of title 5 shall not be disclosed by the Federal Government.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3505 | 41:254b(d). | June 30, 1949, ch. 288 , title III, § 304A(d), as added Pub. L. 103–355, title I, § 1251(a)(2) , Oct. 13, 1994 , 108 Stat. 3281 ; Pub. L. 104–106, title XLII , §§ 4201(b)(1), 4321(e)(4), Feb. 10, 1996 , 110 Stat. 652 , 675; Pub. L. 105–261, div. A, title VIII, § 808(b) , Oct. 17, 1998 , 112 Stat. 2085 . |
+
+
+Authority To Require Submission
+
+Limitations on Authority
+
+Reasonable limitations
+
+Limitation on scope of request
+
+Information not to be disclosed
+
+Historical and Revision Notes
+
+3505
+
+June 30, 1949, ch. 288
+
+Pub. L. 103–355, title I, § 1251(a)(2)
+
+Oct. 13, 1994
+
+108 Stat. 3281
+
+Pub. L. 104–106, title XLII
+
+Feb. 10, 1996
+
+110 Stat. 652
+
+Pub. L. 105–261, div. A, title VIII, § 808(b)
+
+Oct. 17, 1998
+
+112 Stat. 2085
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3767](https://www.govinfo.gov/link/statute/124/3767); [Pub. L. 115–232, div. A, title VIII, § 836(b)(13)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1863](https://www.govinfo.gov/link/statute/132/1863).)*

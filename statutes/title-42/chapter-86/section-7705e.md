@@ -3,9 +3,10 @@ title: "Section 7705e - Post-earthquake investigations program"
 usc_title: 42
 usc_section: "7705e"
 chapter: 86
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7705e"
-generated_at: "2026-03-30T02:56:11.330Z"
+generated_at: "2026-11-23T20:27:22.980Z"
+status: "active"
 ---
 
 # § 7705e. Post-earthquake investigations program
@@ -15,3 +16,7 @@ There is established within the United States Geological Survey a post-earthquak
   - **(1)** analysis by the National Science Foundation and the United States Geological Survey of the causes of the earthquake and the nature of the resulting ground motion;
   - **(2)** analysis by the National Science Foundation and the National Institute of Standards and Technology of the behavior of structures and lifeline infrastructure, both those that were damaged and those that were undamaged; and
   - **(3)** analysis by each of the Program agencies of the effectiveness of the earthquake hazards mitigation programs and actions relating to its area of responsibility under the Program, and how those programs and actions could be strengthened.
+
+## Source Credit
+
+*([Pub. L. 95–124, § 11](https://www.govinfo.gov/link/plaw/95/public/124), as added [Pub. L. 101–614, § 11(a)](https://www.govinfo.gov/link/plaw/101/public/614), Nov. 16, 1990, [104 Stat. 3239](https://www.govinfo.gov/link/statute/104/3239); amended [Pub. L. 115–307, § 2(c)(1)(B)](https://www.govinfo.gov/link/plaw/115/public/307), Dec. 11, 2018, [132 Stat. 4409](https://www.govinfo.gov/link/statute/132/4409).)*

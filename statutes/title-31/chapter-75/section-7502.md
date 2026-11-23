@@ -3,9 +3,10 @@ title: "Section 7502 - Audit requirements; exemptions"
 usc_title: 31
 usc_section: "7502"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 7502"
-generated_at: "2026-03-30T02:55:34.076Z"
+generated_at: "2026-11-23T20:26:51.932Z"
+status: "active"
 ---
 
 # § 7502. Audit requirements; exemptions
@@ -56,3 +57,7 @@ generated_at: "2026-03-30T02:55:34.076Z"
     - **(B)** for fiscal years beginning after the period specified in subparagraph (A), 9 months after the end of the period audited, or within a longer timeframe authorized by the Federal agency, determined under criteria issued under section 7504, when the 9-month timeframe would place an undue burden on the non-Federal entity.
 - **(i)** If an audit conducted pursuant to this section discloses any audit findings, as defined by the Director, including material noncompliance with individual compliance requirements for a major program by, or reportable conditions in the internal controls of, the non-Federal entity with respect to the matters described in subsection (e), the non-Federal entity shall submit to Federal officials designated by the Director, a plan for corrective action to eliminate such audit findings or reportable conditions or a statement describing the reasons that corrective action is not necessary. Such plan shall be consistent with the audit resolution standard promulgated by the Comptroller General (as part of the standards for internal controls in the Federal Government) pursuant to section 3512(c).
 - **(j)** The Director may authorize pilot projects to test alternative methods of achieving the purposes of this chapter. Such pilot projects may begin only after consultation with the Chair and Ranking Minority Member of the Committee on Governmental Affairs of the Senate and the Chair and Ranking Minority Member of the Committee on Government Reform and Oversight of the House of Representatives.
+
+## Source Credit
+
+*(Added [Pub. L. 98–502, § 2(a)](https://www.govinfo.gov/link/plaw/98/public/502), Oct. 19, 1984, [98 Stat. 2329](https://www.govinfo.gov/link/statute/98/2329); amended [Pub. L. 103–272, § 4(f)(1)(W)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1363](https://www.govinfo.gov/link/statute/108/1363); [Pub. L. 104–156, § 2](https://www.govinfo.gov/link/plaw/104/public/156), July 5, 1996, [110 Stat. 1399](https://www.govinfo.gov/link/statute/110/1399); [Pub. L. 116–103, § 5(a)(1)](https://www.govinfo.gov/link/plaw/116/public/103), Dec. 30, 2019, [133 Stat. 3270](https://www.govinfo.gov/link/statute/133/3270).)*

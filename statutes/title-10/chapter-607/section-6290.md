@@ -3,9 +3,10 @@ title: "Section 6290 - Improvements to cost estimates informing analyses of alte
 usc_title: 10
 usc_section: "6290"
 chapter: 607
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6290"
-generated_at: "2026-03-30T02:53:38.226Z"
+generated_at: "2026-11-23T20:25:52.028Z"
+status: "active"
 ---
 
 # § 6290. Improvements to cost estimates informing analyses of alternatives
@@ -16,3 +17,11 @@ generated_at: "2026-03-30T02:53:38.226Z"
     - **(A)** determines that such use of funds would improve the quality of the cost estimate for the project; and
     - **(B)** notifies the congressional defense committees of that determination; and
   - **(2)** a period of 15 days has elapsed after the date on which such committees receive the notification.
+
+Requirement for Analyses of Alternatives
+
+Use of Project Engineering and Design Funds
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1437](https://www.govinfo.gov/link/statute/139/1437).)*

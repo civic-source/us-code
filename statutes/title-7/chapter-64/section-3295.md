@@ -3,9 +3,10 @@ title: "Section 3295 - International Agricultural Education Fellowship Program"
 usc_title: 7
 usc_section: "3295"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 3295"
-generated_at: "2026-03-30T02:53:42.400Z"
+generated_at: "2026-11-23T20:25:41.586Z"
+status: "active"
 ---
 
 # § 3295. International Agricultural Education Fellowship Program
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:42.400Z"
 - **(g)**
   - **(1)** There are authorized to be appropriated $5,000,000 to carry out this section for each of fiscal years 2019 through 2023.
   - **(2)** Any funds made available under this subsection shall remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 115–334, title III, § 3307](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4620](https://www.govinfo.gov/link/statute/132/4620).)*

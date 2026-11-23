@@ -3,9 +3,10 @@ title: "Section 3371 - Definitions"
 usc_title: 16
 usc_section: "3371"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3371"
-generated_at: "2026-03-30T02:54:23.015Z"
+generated_at: "2026-11-23T20:26:20.651Z"
+status: "active"
 ---
 
 # § 3371. Definitions
@@ -35,3 +36,25 @@ For the purposes of this chapter:
   - **(1)** The term “taken” means captured, killed, or collected and, with respect to a plant, also means harvested, cut, logged, or removed.
   - **(2)** The term “taking” means the act by which fish, wildlife, or plants are taken.
 - **(l)** The term “transport” means to move, convey, carry, or ship by any means, or to deliver or receive for the purpose of movement, conveyance, carriage, or shipment.
+
+Breed
+
+Plant.—
+
+In general
+
+Exclusions
+
+Exceptions to application of exclusions
+
+Prohibited Wildlife Species
+
+Taken and Taking.—
+
+Taken
+
+Taking
+
+## Source Credit
+
+*([Pub. L. 97–79, § 2](https://www.govinfo.gov/link/plaw/97/public/79), Nov. 16, 1981, [95 Stat. 1073](https://www.govinfo.gov/link/statute/95/1073); [Pub. L. 108–191, § 2](https://www.govinfo.gov/link/plaw/108/public/191), Dec. 19, 2003, [117 Stat. 2871](https://www.govinfo.gov/link/statute/117/2871); [Pub. L. 110–234, title VIII, § 8204(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1291](https://www.govinfo.gov/link/statute/122/1291); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VIII, § 8204(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2052; [Pub. L. 117–243, § 2(a)](https://www.govinfo.gov/link/plaw/117/public/243), Dec. 20, 2022, [136 Stat. 2336](https://www.govinfo.gov/link/statute/136/2336).)*

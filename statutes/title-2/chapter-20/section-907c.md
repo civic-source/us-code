@@ -3,9 +3,10 @@ title: "Section 907c - Flexibility among defense programs, projects, and activit
 usc_title: 2
 usc_section: "907c"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 907c"
-generated_at: "2026-03-30T02:53:04.806Z"
+generated_at: "2026-11-23T20:25:28.940Z"
+status: "active"
 ---
 
 # § 907c. Flexibility among defense programs, projects, and activities
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:53:04.806Z"
       - **(ii)** if the joint resolution from the House is not identical to the joint resolution then pending for passage in the Senate and the Senate then passes the Senate joint resolution, the Senate shall be considered to have passed the House joint resolution as amended by the text of the Senate joint resolution.
   - **(3)** Upon disposition of the joint resolution received from the House, it shall no longer be in order to consider the joint resolution originated in the Senate.
 - **(m)** If the Senate receives from the House of Representatives a joint resolution introduced under subsection (d) after the Senate has disposed of a Senate originated joint resolution which is identical to the House passed joint resolution, the action of the Senate with regard to the disposition of the Senate originated joint resolution shall be deemed to be the action of the Senate with regard to the House originated joint resolution. If it is not identical to the House passed joint resolution, then the Senate shall be considered to have passed the joint resolution of the House as amended by the text of the Senate joint resolution.
+
+## Source Credit
+
+*([Pub. L. 99–177, title II, § 258B](https://www.govinfo.gov/link/plaw/99/public/177), as added [Pub. L. 101–508, title XIII, § 13101(g)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–597](https://www.govinfo.gov/link/statute/104/1388).)*

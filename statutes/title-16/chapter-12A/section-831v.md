@@ -3,9 +3,10 @@ title: "Section 831v - Legislation to carry out purposes of chapter; recommendat
 usc_title: 16
 usc_section: "831v"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 831v"
-generated_at: "2026-03-30T02:54:22.925Z"
+generated_at: "2026-11-23T20:26:20.309Z"
+status: "active"
 ---
 
 # § 831v. Legislation to carry out purposes of chapter; recommendation by President
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:22.925Z"
   - **(5)** the proper method of reforestation of all lands in said drainage basin suitable for reforestation; and
   - **(6)** the economic and social well-being of the people living in said river basin.
 
+
+## Source Credit
+
+*(May 18, 1933, ch. 32, § 23, [48 Stat. 69](https://www.govinfo.gov/link/statute/48/69).)*

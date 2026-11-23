@@ -3,9 +3,10 @@ title: "Section 848 - Continuing criminal enterprise"
 usc_title: 21
 usc_section: "848"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 848"
-generated_at: "2026-03-30T02:54:54.296Z"
+generated_at: "2026-11-23T20:26:27.840Z"
+status: "active"
 ---
 
 # § 848. Continuing criminal enterprise
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:54.296Z"
 - **(q)**
 - **(r)**
 - **(s)** For the purposes of subsection (b), in the case of continuing criminal enterprise involving methamphetamine or its salts, isomers, or salts of isomers, paragraph (2)(A) shall be applied by substituting “200” for “300”, and paragraph (2)(B) shall be applied by substituting “$5,000,000” for “$10 million dollars”.
+
+## Source Credit
+
+*([Pub. L. 91–513, title II, § 408](https://www.govinfo.gov/link/plaw/91/public/513), Oct. 27, 1970, [84 Stat. 1265](https://www.govinfo.gov/link/statute/84/1265); [Pub. L. 98–473, title II](https://www.govinfo.gov/link/plaw/98/public/473), §§ 224(b), formerly § 224(c), 305, Oct. 12, 1984, [98 Stat. 2030](https://www.govinfo.gov/link/statute/98/2030), 2050; [Pub. L. 99–570, title I](https://www.govinfo.gov/link/plaw/99/public/570), §§ 1005(b)(2), 1252, 1253, Oct. 27, 1986, [100 Stat. 3207–6](https://www.govinfo.gov/link/statute/100/3207), 3207–14; [Pub. L. 100–690, title VI, § 6481](https://www.govinfo.gov/link/plaw/100/public/690), title VII, § 7001, Nov. 18, 1988, [102 Stat. 4382](https://www.govinfo.gov/link/statute/102/4382), 4387; [Pub. L. 103–322, title XXXIII](https://www.govinfo.gov/link/plaw/103/public/322), §§ 330003(e), 330009(d), 330014, Sept. 13, 1994, [108 Stat. 2141](https://www.govinfo.gov/link/statute/108/2141), 2143, 2146; [Pub. L. 104–132, title I, § 108](https://www.govinfo.gov/link/plaw/104/public/132), title IX, § 903(b), Apr. 24, 1996, [110 Stat. 1226](https://www.govinfo.gov/link/statute/110/1226), 1318; [Pub. L. 109–177, title II](https://www.govinfo.gov/link/plaw/109/public/177), §§ 221, 222(c), title VII, § 733, Mar. 9, 2006, [120 Stat. 231](https://www.govinfo.gov/link/statute/120/231), 232, 270.)*

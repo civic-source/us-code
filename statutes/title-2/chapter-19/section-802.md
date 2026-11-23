@@ -3,9 +3,10 @@ title: "Section 802 - Program"
 usc_title: 2
 usc_section: "802"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 802"
-generated_at: "2026-03-30T02:53:04.803Z"
+generated_at: "2026-11-23T20:25:28.919Z"
+status: "active"
 ---
 
 # § 802. Program
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:04.803Z"
   - **(1)** The Secretary of the Treasury shall strike the medals described in subsection (a) and awarded by the Board under this chapter. The medals shall be of such quantity, design, and specifications as the Secretary of the Treasury may determine, after consultation with the Board.
   - **(2)** The medals struck pursuant to this chapter are National medals for purposes of chapter 51 of title 31.
   - **(3)** There are authorized to be charged against the Numismatic Public Enterprise Fund such amounts as may be necessary to pay for the cost of the medals struck pursuant to this chapter.
+
+## Source Credit
+
+*([Pub. L. 96–114, title I, § 102](https://www.govinfo.gov/link/plaw/96/public/114), formerly § 3, Nov. 16, 1979, [93 Stat. 851](https://www.govinfo.gov/link/statute/93/851); [Pub. L. 99–161, § 4(a)](https://www.govinfo.gov/link/plaw/99/public/161) –(c), Nov. 25, 1985, [99 Stat. 934](https://www.govinfo.gov/link/statute/99/934); [Pub. L. 100–674, § 2(a)](https://www.govinfo.gov/link/plaw/100/public/674), Nov. 17, 1988, [102 Stat. 3996](https://www.govinfo.gov/link/statute/102/3996); [Pub. L. 101–525, § 3](https://www.govinfo.gov/link/plaw/101/public/525), Nov. 6, 1990, [104 Stat. 2305](https://www.govinfo.gov/link/statute/104/2305); [Pub. L. 103–329, title VI, § 637](https://www.govinfo.gov/link/plaw/103/public/329), Sept. 30, 1994, [108 Stat. 2431](https://www.govinfo.gov/link/statute/108/2431); [Pub. L. 106–63, § 1(a)](https://www.govinfo.gov/link/plaw/106/public/63), Oct. 1, 1999, [113 Stat. 510](https://www.govinfo.gov/link/statute/113/510); renumbered title I, § 102, and amended [Pub. L. 106–533, § 1(b)(1)](https://www.govinfo.gov/link/plaw/106/public/533), (2), (4), Nov. 22, 2000, [114 Stat. 2553](https://www.govinfo.gov/link/statute/114/2553); [Pub. L. 111–200, § 2(a)](https://www.govinfo.gov/link/plaw/111/public/200), July 7, 2010, [124 Stat. 1368](https://www.govinfo.gov/link/statute/124/1368); [Pub. L. 119–66, § 3](https://www.govinfo.gov/link/plaw/119/public/66), Dec. 26, 2025, [139 Stat. 1992](https://www.govinfo.gov/link/statute/139/1992).)*

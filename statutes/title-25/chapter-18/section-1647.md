@@ -3,9 +3,10 @@ title: "Section 1647 - Eligible Indian veteran services"
 usc_title: 25
 usc_section: "1647"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1647"
-generated_at: "2026-03-30T02:54:52.823Z"
+generated_at: "2026-11-23T20:26:25.501Z"
+status: "active"
 ---
 
 # § 1647. Eligible Indian veteran services
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:52.823Z"
 - **(e)**
   - **(1)** Expenses incurred by the Secretary in carrying out subsection (c)(1) shall not be considered to be Contract Health Service expenses.
   - **(2)** Of funds made available to the Secretary in appropriations Acts for the Service (excluding funds made available for facilities, Contract Health Services, or contract support costs), the Secretary shall use such sums as are necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 94–437, title IV, § 407](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

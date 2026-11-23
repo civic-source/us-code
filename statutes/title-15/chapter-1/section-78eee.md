@@ -3,9 +3,10 @@ title: "Section 78eee - Protection of customers"
 usc_title: 15
 usc_section: "78eee"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 78eee"
-generated_at: "2026-03-30T02:54:08.062Z"
+generated_at: "2026-11-23T20:26:03.576Z"
+status: "active"
 ---
 
 # § 78eee. Protection of customers
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:54:08.062Z"
     - **(B)** The court shall fix a time for a hearing on disinterestedness, to be held promptly after the appointment of a trustee. Notice of such hearing shall be mailed at least ten days prior thereto to each person who, from the books and records of the debtor, appears to have been a customer of the debtor with an open account within the past twelve months, to the address of such person as it appears from the books and records of the debtor, and to the creditors and stockholders of the debtor, to SIPC, and to such other persons as the court may designate. The court may, in its discretion, also require that notice be given by publication in such newspaper or newspapers of general circulation as it may designate. At such hearing, at any adjournment thereof, or upon application, the court shall hear objections to the retention in office of a trustee or attorney for a trustee on the grounds that such person is not disinterested.
 - **(c)** The Commission may, on its own motion, file notice of its appearance in any proceeding under this chapter and may thereafter participate as a party.
 - **(d)** SIPC shall be deemed to be a party in interest as to all matters arising in a liquidation proceeding, with the right to be heard on all such matters, and shall be deemed to have intervened with respect to all such matters with the same force and effect as if a petition for such purpose had been allowed by the court.
+
+## Source Credit
+
+*([Pub. L. 91–598, § 5](https://www.govinfo.gov/link/plaw/91/public/598), Dec. 30, 1970, [84 Stat. 1644](https://www.govinfo.gov/link/statute/84/1644); [Pub. L. 95–283, § 7](https://www.govinfo.gov/link/plaw/95/public/283), May 21, 1978, [92 Stat. 254](https://www.govinfo.gov/link/statute/92/254); [Pub. L. 95–598, title III, § 308(a)](https://www.govinfo.gov/link/plaw/95/public/598) –(f), Nov. 6, 1978, [92 Stat. 2674](https://www.govinfo.gov/link/statute/92/2674); [Pub. L. 109–8, title IX, § 911](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 185](https://www.govinfo.gov/link/statute/119/185); [Pub. L. 109–390, § 5(c)](https://www.govinfo.gov/link/plaw/109/public/390), Dec. 12, 2006, [120 Stat. 2698](https://www.govinfo.gov/link/statute/120/2698); [Pub. L. 111–203, title IX, § 929H(b)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1857](https://www.govinfo.gov/link/statute/124/1857).)*

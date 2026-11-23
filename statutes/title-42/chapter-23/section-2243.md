@@ -3,9 +3,10 @@ title: "Section 2243 - Licensing of uranium enrichment facilities"
 usc_title: 42
 usc_section: "2243"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2243"
-generated_at: "2026-03-30T02:56:11.158Z"
+generated_at: "2026-11-23T20:27:22.117Z"
+status: "active"
 ---
 
 # § 2243. Licensing of uranium enrichment facilities
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:11.158Z"
   - **(2)** the issuance of such a license or certificate of compliance would be inimical to—
     - **(A)** the common defense and security of the United States; or
     - **(B)** the maintenance of a reliable and economical domestic source of enrichment services.
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 193, as added [Pub. L. 101–575, § 5(e)](https://www.govinfo.gov/link/plaw/101/public/575), Nov. 15, 1990, [104 Stat. 2835](https://www.govinfo.gov/link/statute/104/2835); renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944); amended [Pub. L. 104–134, title III, § 3116(b)(2)](https://www.govinfo.gov/link/plaw/104/public/134), Apr. 26, 1996, [110 Stat. 1321–349](https://www.govinfo.gov/link/statute/110/1321).)*

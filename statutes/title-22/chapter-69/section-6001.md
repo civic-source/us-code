@@ -3,9 +3,10 @@ title: "Section 6001 - Findings"
 usc_title: 22
 usc_section: "6001"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6001"
-generated_at: "2026-03-30T02:55:05.421Z"
+generated_at: "2026-11-23T20:26:32.584Z"
+status: "active"
 ---
 
 # § 6001. Findings
@@ -20,3 +21,23 @@ The Congress makes the following findings:
   - **(6)** The fall of communism in the former Soviet Union and Eastern Europe, the now universal recognition in Latin America and the Caribbean that Cuba provides a failed model of government and development, and the evident inability of Cuba’s economy to survive current trends, provide the United States and the international democratic community with an unprecedented opportunity to promote a peaceful transition to democracy in Cuba.
   - **(7)** However, Castro’s intransigence increases the likelihood that there could be a collapse of the Cuban economy, social upheaval, or widespread suffering. The recently concluded Cuban Communist Party Congress has underscored Castro’s unwillingness to respond positively to increasing pressures for reform either from within the party or without.
   - **(8)** The United States cooperated with its European and other allies to assist the difficult transitions from Communist regimes in Eastern Europe. Therefore, it is appropriate for those allies to cooperate with United States policy to promote a peaceful transition in Cuba.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+William J. Clinton.
+
+## Source Credit
+
+*([Pub. L. 102–484, div. A, title XVII, § 1702](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2575](https://www.govinfo.gov/link/statute/106/2575).)*

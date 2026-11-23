@@ -3,9 +3,10 @@ title: "Section 4612 - Termination or suspension"
 usc_title: 7
 usc_section: "4612"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 4612"
-generated_at: "2026-03-30T02:53:42.410Z"
+generated_at: "2026-11-23T20:25:41.630Z"
+status: "active"
 ---
 
 # § 4612. Termination or suspension
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:42.410Z"
     - **(A)** propose another order to establish a research, promotion, and consumer information program; and
     - **(B)** conduct a referendum on the order among persons that would be subject to assessment under the order.
   - **(3)** Section 4611 of this title shall apply in determining the effectiveness of the subsequent amended order under paragraph (2).
+
+## Source Credit
+
+*([Pub. L. 98–590, § 13](https://www.govinfo.gov/link/plaw/98/public/590), Oct. 30, 1984, [98 Stat. 3123](https://www.govinfo.gov/link/statute/98/3123); [Pub. L. 101–624, title XIX, § 1985](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3907](https://www.govinfo.gov/link/statute/104/3907); [Pub. L. 105–185, title VI, § 605](https://www.govinfo.gov/link/plaw/105/public/185) (l), June 23, 1998, [112 Stat. 601](https://www.govinfo.gov/link/statute/112/601).)*

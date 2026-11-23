@@ -3,9 +3,10 @@ title: "Section 2326e - Non-Federal interest dredging authority"
 usc_title: 33
 usc_section: "2326e"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2326e"
-generated_at: "2026-03-30T02:55:41.124Z"
+generated_at: "2026-11-23T20:26:54.182Z"
+status: "active"
 ---
 
 # § 2326e. Non-Federal interest dredging authority
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:41.124Z"
   - **(1)** improved reliability and safety for navigation; and
   - **(2)** cost savings to the Federal Government.
 - **(g)** The authority of the Secretary under this section terminates on the date that is 10 years after December 16, 2016 .
+
+## Source Credit
+
+*([Pub. L. 114–322, title I, § 1113](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1637](https://www.govinfo.gov/link/statute/130/1637).)*

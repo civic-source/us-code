@@ -3,9 +3,10 @@ title: "Section 7932 - Loan rates for nonrecourse marketing assistance loans"
 usc_title: 7
 usc_section: "7932"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7932"
-generated_at: "2026-03-30T02:53:42.465Z"
+generated_at: "2026-11-23T20:25:41.852Z"
+status: "active"
 ---
 
 # § 7932. Loan rates for nonrecourse marketing assistance loans
@@ -69,3 +70,7 @@ generated_at: "2026-03-30T02:53:42.465Z"
   - **(1)** in the case of dry peas, United States feed peas;
   - **(2)** in the case of lentils, United States number 3 lentils; and
   - **(3)** in the case of small chickpeas, United States number 3 small chickpeas that drop below a 20/64 screen.
+
+## Source Credit
+
+*([Pub. L. 107–171, title I, § 1202](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 155](https://www.govinfo.gov/link/statute/116/155); [Pub. L. 108–7, div. A, title VII, § 763(b)](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 46](https://www.govinfo.gov/link/statute/117/46).)*

@@ -3,9 +3,10 @@ title: "Section 5006 - Determination of tax"
 usc_title: 26
 usc_section: "5006"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 5006"
-generated_at: "2026-03-30T02:55:27.817Z"
+generated_at: "2026-11-23T20:26:46.393Z"
+status: "active"
 ---
 
 # § 5006. Determination of tax
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:27.817Z"
   - **(2)** Except as otherwise provided by law, the tax on any distilled spirits produced in the United States at any place other than a qualified distilled spirits plant shall be due and payable immediately upon production.
 - **(d)** Distilled spirits smuggled or brought into the United States unlawfully shall, for purposes of this chapter, be held to be imported into the United States, and the internal revenue tax shall be due and payable at the time of such importation.
 - **(e)** For provisions relating to removal of distilled spirits from bonded premises on determination of tax, see section 5213.
+
+## Source Credit
+
+*(Added [Pub. L. 85–859, title II, § 201](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1320](https://www.govinfo.gov/link/statute/72/1320); amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 96–39, title VIII](https://www.govinfo.gov/link/plaw/96/public/39), §§ 804(a), 807(a)(4), July 26, 1979, [93 Stat. 274](https://www.govinfo.gov/link/statute/93/274), 280.)*

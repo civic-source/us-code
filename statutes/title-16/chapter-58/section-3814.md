@@ -3,9 +3,10 @@ title: "Section 3814 - Notice and investigation of possible compliance deficienc
 usc_title: 16
 usc_section: "3814"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3814"
-generated_at: "2026-03-30T02:54:23.023Z"
+generated_at: "2026-11-23T20:26:20.682Z"
+status: "active"
 ---
 
 # § 3814. Notice and investigation of possible compliance deficiencies
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:23.023Z"
 - **(a)** An employee of the Department of Agriculture who observes a possible compliance deficiency or other potential violation of a conservation plan or this subchapter while providing on-site technical assistance shall provide to the responsible persons, not later than 45 days after observing the possible violation, information regarding actions needed to comply with the plan and this subchapter. The employee shall provide the information in lieu of reporting the observation as a compliance violation.
 - **(b)** The responsible persons shall attempt to correct the deficiencies as soon as practicable after receiving the information.
 - **(c)** If the corrective action is not fully implemented not later than 1 year after the responsible persons receive the information, the Secretary may conduct a review of the status of compliance of the persons with the conservation plan and this subchapter.
+
+## Source Credit
+
+*([Pub. L. 99–198, title XII, § 1215](https://www.govinfo.gov/link/plaw/99/public/198), as added [Pub. L. 104–127, title III, § 316](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 985](https://www.govinfo.gov/link/statute/110/985).)*

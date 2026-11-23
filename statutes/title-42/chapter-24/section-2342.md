@@ -3,9 +3,10 @@ title: "Section 2342 - Disposal of property"
 usc_title: 42
 usc_section: "2342"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2342"
-generated_at: "2026-03-30T02:56:11.164Z"
+generated_at: "2026-11-23T20:27:22.147Z"
+status: "active"
 ---
 
 # § 2342. Disposal of property
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.164Z"
   - **(3)** property which in the opinion of the Commission should be retained by the Commission for its own use.
 - **(b)** The Commission may, but shall not be required to, dispose of any other real property at the community, whether within or outside of that community.
 - **(c)** Such property shall be disposed of on such terms and conditions, consistent with this subchapter, as the Commission shall prescribe in the national interest, and without regard to any preferences or priorities whatever except those provided for pursuant to this chapter. Transfers by the Commission of such property shall not impair rights under existing leases and covenants, including any purchase rights therein conferred.
+
+## Source Credit
+
+*(Aug. 4, 1955, ch. 543, ch. 5, § 52, [69 Stat. 476](https://www.govinfo.gov/link/statute/69/476); [Pub. L. 87–719, § 9](https://www.govinfo.gov/link/plaw/87/public/719), Sept. 28, 1962, [76 Stat. 665](https://www.govinfo.gov/link/statute/76/665).)*

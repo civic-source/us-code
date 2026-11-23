@@ -3,9 +3,10 @@ title: "Section 1514 - Civil action to restrain harassment of a victim or witnes
 usc_title: 18
 usc_section: "1514"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 1514"
-generated_at: "2026-03-30T02:54:16.487Z"
+generated_at: "2026-11-23T20:26:08.502Z"
+status: "active"
 ---
 
 # § 1514. Civil action to restrain harassment of a victim or witness
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:54:16.487Z"
     - **(F)** the term “serious act” means a single act of threatening, retaliatory, harassing, or violent conduct that is reasonably likely to influence the willingness of a victim or witness to testify or participate in a Federal criminal case or investigation; and
     - **(G)** the term “specific person” means a victim or witness in a Federal criminal case or investigation, and includes an immediate family member of such a victim or witness.
   - **(2)** For purposes of subparagraphs (B)(ii) and (D)(ii) of paragraph (1), a court shall presume, subject to rebuttal by the person, that the distribution or publication using the Internet of a photograph of, or restricted personal information regarding, a specific person serves no legitimate purpose, unless that use is authorized by that specific person, is for news reporting purposes, is designed to locate that specific person (who has been reported to law enforcement as a missing person), or is part of a government-authorized effort to locate a fugitive or person of interest in a criminal, antiterrorism, or national security investigation.
+
+## Source Credit
+
+*(Added [Pub. L. 97–291, § 4(a)](https://www.govinfo.gov/link/plaw/97/public/291), Oct. 12, 1982, [96 Stat. 1250](https://www.govinfo.gov/link/statute/96/1250); amended [Pub. L. 111–16, § 3(2)](https://www.govinfo.gov/link/plaw/111/public/16), (3), May 7, 2009, [123 Stat. 1607](https://www.govinfo.gov/link/statute/123/1607); [Pub. L. 112–206, § 3(a)](https://www.govinfo.gov/link/plaw/112/public/206), Dec. 7, 2012, [126 Stat. 1490](https://www.govinfo.gov/link/statute/126/1490).)*

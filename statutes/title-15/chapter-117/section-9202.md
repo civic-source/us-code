@@ -3,9 +3,10 @@ title: "Section 9202 - NSF support of research on manipulated or synthesized con
 usc_title: 15
 usc_section: "9202"
 chapter: 117
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 9202"
-generated_at: "2026-03-30T02:54:08.246Z"
+generated_at: "2026-11-23T20:26:04.563Z"
+status: "active"
 ---
 
 # § 9202. NSF support of research on manipulated or synthesized content and information security
@@ -17,3 +18,7 @@ The Director of the National Science Foundation, in consultation with other rele
   - **(3)** social and behavioral research related to manipulated or synthesized content, including human engagement with the content;
   - **(4)** research on public understanding and awareness of manipulated and synthesized content, including research on best practices for educating the public to discern authenticity of digital content; and
   - **(5)** research awards coordinated with other federal agencies and programs, including the Defense Advanced Research Projects Agency and the Intelligence Advanced Research Projects Agency, 1 1 So in original. Probably should be “Activity,”. with coordination enabled by the Networking and Information Technology Research and Development Program.
+
+## Source Credit
+
+*([Pub. L. 116–258, § 3](https://www.govinfo.gov/link/plaw/116/public/258), Dec. 23, 2020, [134 Stat. 1151](https://www.govinfo.gov/link/statute/134/1151).)*

@@ -3,9 +3,10 @@ title: "Section 635a - Management of Bank"
 usc_title: 12
 usc_section: "635a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 635a"
-generated_at: "2026-03-30T02:53:53.386Z"
+generated_at: "2026-11-23T20:25:58.784Z"
+status: "active"
 ---
 
 # § 635a. Management of Bank
@@ -177,3 +178,41 @@ generated_at: "2026-03-30T02:53:53.386Z"
       - **(i)** periodic stress testing on the entire Bank portfolio, reflecting different market, industry, and macroeconomic scenarios, and consistent with common practices of commercial and multilateral development banks; and
       - **(ii)** the monitoring of industry, geographic, and obligor exposure levels; and
     - **(B)** to review all required reports on the default rate of the Bank before submission to Congress under section 635g(g) of this title .
+
+Notice and comment requirements.—
+
+In general
+
+Financial threshold determinations
+
+Specific requirements.—
+
+In general
+
+Content of notice
+
+Procedure regarding materially changed applications.—
+
+In general
+
+Material change defined
+
+Requirement to address views of commenters
+
+Publication of conclusions
+
+Rule of interpretation
+
+Negotiations
+
+Report to the congress
+
+Sunset
+
+Report
+
+In General
+
+## Source Credit
+
+*(July 31, 1945, ch. 341, § 3, [59 Stat. 527](https://www.govinfo.gov/link/statute/59/527); Aug. 9, 1954, ch. 660, § 1, [68 Stat. 677](https://www.govinfo.gov/link/statute/68/677); [Pub. L. 90–267, § 1(a)](https://www.govinfo.gov/link/plaw/90/public/267), (d), Mar. 13, 1968, [82 Stat. 47](https://www.govinfo.gov/link/statute/82/47), 49; [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title VI, §§ 613, 614(a), 620(b)], Nov. 30, 1983, [97 Stat. 1255](https://www.govinfo.gov/link/statute/97/1255), 1261; [Pub. L. 99–472, § 18](https://www.govinfo.gov/link/plaw/99/public/472), Oct. 15, 1986, [100 Stat. 1205](https://www.govinfo.gov/link/statute/100/1205); [Pub. L. 102–429, title I, § 113](https://www.govinfo.gov/link/plaw/102/public/429), Oct. 21, 1992, [106 Stat. 2195](https://www.govinfo.gov/link/statute/106/2195); [Pub. L. 105–121](https://www.govinfo.gov/link/plaw/105/public/121), §§ 6, 8, Nov. 26, 1997, [111 Stat. 2529](https://www.govinfo.gov/link/statute/111/2529), 2530; [Pub. L. 106–46, § 1(a)](https://www.govinfo.gov/link/plaw/106/public/46), Aug. 11, 1999, [113 Stat. 227](https://www.govinfo.gov/link/statute/113/227); [Pub. L. 107–189, § 24(b)(4)](https://www.govinfo.gov/link/plaw/107/public/189), June 14, 2002, [116 Stat. 709](https://www.govinfo.gov/link/statute/116/709); [Pub. L. 109–438](https://www.govinfo.gov/link/plaw/109/public/438), §§ 6(a), 14(a), 15, 18(a), Dec. 20, 2006, [120 Stat. 3270](https://www.govinfo.gov/link/statute/120/3270), 3280, 3281; [Pub. L. 112–122](https://www.govinfo.gov/link/plaw/112/public/122), §§ 9(a), 19–20(b)(1), May 30, 2012, [126 Stat. 354](https://www.govinfo.gov/link/statute/126/354), 361, 362; [Pub. L. 114–94, div. E, title LI](https://www.govinfo.gov/link/plaw/114/public/94), §§ 51004–51006(a), title LIII, § 53002, title LIV, § 54002(c), Dec. 4, 2015, [129 Stat. 1764–1766](https://www.govinfo.gov/link/statute/129/1764), 1768, 1769; [Pub. L. 116–94, div. I, title IV, § 409(a)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3025](https://www.govinfo.gov/link/statute/133/3025); [Pub. L. 117–286, § 4(c)(22)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4357](https://www.govinfo.gov/link/statute/136/4357).)*

@@ -3,9 +3,10 @@ title: "Section 3324 - Prohibition on using journalists as agents or assets"
 usc_title: 50
 usc_section: "3324"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3324"
-generated_at: "2026-03-30T02:56:26.243Z"
+generated_at: "2026-11-23T20:27:30.955Z"
+status: "active"
 ---
 
 # § 3324. Prohibition on using journalists as agents or assets
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:26.243Z"
   - **(2)** is officially recognized by a foreign government as a representative of a United States media organization.
 - **(b)** Pursuant to such procedures as the President may prescribe, the President or the Director of Central Intelligence may waive subsection (a) in the case of an individual if the President or the Director, as the case may be, makes a written determination that the waiver is necessary to address the overriding national security interest of the United States. The Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate shall be notified of any waiver under this subsection.
 - **(c)** Subsection (a) shall not be construed to prohibit the voluntary cooperation of any person who is aware that the cooperation is being provided to an element of the United States Intelligence Community.
+
+## Source Credit
+
+*([Pub. L. 104–293, title III, § 309](https://www.govinfo.gov/link/plaw/104/public/293), Oct. 11, 1996, [110 Stat. 3467](https://www.govinfo.gov/link/statute/110/3467).)*

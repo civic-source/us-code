@@ -3,9 +3,10 @@ title: "Section 3699C - High technology program"
 usc_title: 38
 usc_section: "3699C"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 3699C"
-generated_at: "2026-03-30T02:55:53.511Z"
+generated_at: "2026-11-23T20:27:01.890Z"
+status: "active"
 ---
 
 # § 3699C. High technology program
@@ -96,3 +97,25 @@ generated_at: "2026-03-30T02:55:53.511Z"
     - **(D)** that has a term of not less than six and not more than 28 weeks; and
     - **(E)** that provides instruction in computer programming, computer software, media application, data processing, or information sciences.
       - **(i)** The Secretary may not provide educational assistance under this section for a high technology program of education that begins after September 30, 2027 .
+
+Establishment
+
+Amount of Assistance
+
+Contracts
+
+Effect on Other Entitlement
+
+Requirements for Educational Institutions
+
+Annual Reports
+
+Collection of Information; Consultation
+
+Definitions
+
+Termination
+
+## Source Credit
+
+*(Added [Pub. L. 118–210, title II, § 212(a)(1)](https://www.govinfo.gov/link/plaw/118/public/210), Jan. 2, 2025, [138 Stat. 2767](https://www.govinfo.gov/link/statute/138/2767).)*

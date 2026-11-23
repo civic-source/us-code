@@ -3,9 +3,10 @@ title: "Section 3015 - Gifts and donations"
 usc_title: 42
 usc_section: "3015"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3015"
-generated_at: "2026-03-30T02:56:11.171Z"
+generated_at: "2026-11-23T20:27:22.195Z"
+status: "active"
 ---
 
 # § 3015. Gifts and donations
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.171Z"
 - **(c)** The Assistant Secretary shall establish written guidelines setting forth the criteria to be used in determining whether a gift or donation should be declined under this section because the acceptance of the gift or donation would—
   - **(1)** reflect unfavorably upon the ability of the Administration, the Department of Health and Human Services, or any employee of the Administration or Department, to carry out responsibilities or official duties under this chapter in a fair and objective manner; or
   - **(2)** compromise the integrity or the appearance of integrity of programs or services provided under this chapter or of any official involved in those programs or services.
+
+## Source Credit
+
+*([Pub. L. 89–73, title II, § 204](https://www.govinfo.gov/link/plaw/89/public/73), as added [Pub. L. 106–501, title II, § 202(2)](https://www.govinfo.gov/link/plaw/106/public/501), Nov. 13, 2000, [114 Stat. 2230](https://www.govinfo.gov/link/statute/114/2230).)*

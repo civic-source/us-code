@@ -3,9 +3,10 @@ title: "Section 6407 - Coral Reef Stewardship Fund"
 usc_title: 16
 usc_section: "6407"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6407"
-generated_at: "2026-03-30T02:54:23.058Z"
+generated_at: "2026-11-23T20:26:20.793Z"
+status: "active"
 ---
 
 # § 6407. Coral Reef Stewardship Fund
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:23.058Z"
   - **(1)** Pursuant to an agreement entered into under subsection (a), the Foundation may accept, receive, solicit, hold, administer, and use any gift (including, notwithstanding section 1342 of title 31 , donations of services) to further the purposes of this chapter.
   - **(2)** Notwithstanding section 3302 of title 31 , any funds received as a gift shall be deposited and maintained in the Fund.
 - **(d)** Under an agreement entered into pursuant to subsection (a), and subject to the availability of appropriations, the Administrator may transfer funds appropriated for such purposes to carry out this chapter to the Foundation. Amounts received by the Foundation under this subsection may be used for matching, in whole or in part, contributions (whether in money, services, or property) made to the Foundation by private persons, State or local government agencies, or covered Native entities.
+
+## Source Credit
+
+*([Pub. L. 106–562, title II, § 208](https://www.govinfo.gov/link/plaw/106/public/562), as added [Pub. L. 117–263, div. J, title C, § 10001(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3939](https://www.govinfo.gov/link/statute/136/3939).)*

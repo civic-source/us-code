@@ -3,9 +3,10 @@ title: "Section 5403 - Construction and safety standards"
 usc_title: 42
 usc_section: "5403"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5403"
-generated_at: "2026-03-30T02:56:11.234Z"
+generated_at: "2026-11-23T20:27:22.537Z"
+status: "active"
 ---
 
 # § 5403. Construction and safety standards
@@ -131,3 +132,7 @@ generated_at: "2026-03-30T02:56:11.234Z"
   - **(2)** The energy conservation standards established under this subsection shall be cost-effective energy conservation performance standards designed to ensure the lowest total of construction and operating costs.
   - **(3)** The energy conservation standards established under this subsection shall take into consideration the design and factory construction techniques of manufactured homes and shall provide for alternative practices that result in net estimated energy consumption equal to or less than the specified standards.
 - **(h)** The Secretary shall develop a new standard for hardboard panel siding on manufactured housing taking into account durability, longevity, consumer’s costs for maintenance and any other relevant information pursuant to subsection (e). The Secretary shall consult with the National Manufactured Home Advisory Council and the National Commission on Manufactured Housing in establishing the new standard. The new performance standard developed shall ensure the durability of hardboard sidings for at least a normal life of a mortgage with minimum maintenance required. Not later than 180 days from October 28, 1992 , the Secretary shall update the standards for hardboard siding.
+
+## Source Credit
+
+*([Pub. L. 93–383, title VI, § 604](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 701](https://www.govinfo.gov/link/statute/88/701); [Pub. L. 95–128, title IX, § 902(a)](https://www.govinfo.gov/link/plaw/95/public/128), Oct. 12, 1977, [91 Stat. 1149](https://www.govinfo.gov/link/statute/91/1149); [Pub. L. 96–399, title III, § 308(c)(4)](https://www.govinfo.gov/link/plaw/96/public/399), Oct. 8, 1980, [94 Stat. 1641](https://www.govinfo.gov/link/statute/94/1641); [Pub. L. 98–479, title II, § 204](https://www.govinfo.gov/link/plaw/98/public/479) (l), Oct. 17, 1984, [98 Stat. 2233](https://www.govinfo.gov/link/statute/98/2233); [Pub. L. 100–242, title V, § 568](https://www.govinfo.gov/link/plaw/100/public/242), Feb. 5, 1988, [101 Stat. 1948](https://www.govinfo.gov/link/statute/101/1948); [Pub. L. 102–550, title IX, § 907](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3873](https://www.govinfo.gov/link/statute/106/3873); [Pub. L. 106–569, title VI, § 604](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 2999](https://www.govinfo.gov/link/statute/114/2999).)*

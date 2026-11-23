@@ -3,9 +3,10 @@ title: "Section 20305 - Federal Voting Assistance Program Improvements"
 usc_title: 52
 usc_section: "20305"
 chapter: 203
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "52 U.S.C. § 20305"
-generated_at: "2026-03-30T02:56:30.162Z"
+generated_at: "2026-11-23T20:27:36.964Z"
+status: "active"
 ---
 
 # § 20305. Federal Voting Assistance Program Improvements
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:30.162Z"
   - **(2)** Establish a program to notify absent uniformed services voters of voter registration information and resources, the availability of the Federal postcard application, and the availability of the Federal write-in absentee ballot on the military Global Network, and shall use the military Global Network to notify absent uniformed services voters of the foregoing 90, 60, and 30 days prior to each election for Federal office.
 - **(b)** Nothing in this section shall relieve the Presidential designee of their duties and obligations under any directives or regulations issued by the Department of Defense, including the Department of Defense Directive 1000.04 (or any successor directive or regulation) that is not inconsistent or contradictory to the provisions of this section.
 - **(c)** There are authorized to be appropriated to the Federal Voting Assistance Program of the Department of Defense (or a successor program) such sums as are necessary for purposes of carrying out this section.
+
+## Source Credit
+
+*([Pub. L. 99–410, title I, § 103B](https://www.govinfo.gov/link/plaw/99/public/410), as added [Pub. L. 111–84, div. A, title V, § 583(a)(1)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2327](https://www.govinfo.gov/link/statute/123/2327).)*

@@ -3,9 +3,10 @@ title: "Section 120102 - Purposes"
 usc_title: 36
 usc_section: "120102"
 chapter: 1201
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 120102"
-generated_at: "2026-03-30T02:55:44.700Z"
+generated_at: "2026-11-23T20:26:58.938Z"
+status: "active"
 ---
 
 # § 120102. Purposes
@@ -17,3 +18,7 @@ The purposes of the corporation are those provided in the articles of incorporat
   - **(3)** To perpetuate and preserve the comradeship and friendships born on the field of battle and nurtured by the common experience of service to the United States during the time of war and peace.
   - **(4)** To honor the memory of the men and women who gave their lives so that the United States and the world might be free and live by the creation of living memorial, monuments, and other forms of additional educational, cultural, and recreational facilities.
   - **(5)** To preserve for the people of the United States and posterity of such people the great and basic truths and enduring principles upon which the United States was founded.
+
+## Source Credit
+
+*(Added [Pub. L. 110–254, § 1(a)(2)](https://www.govinfo.gov/link/plaw/110/public/254), June 30, 2008, [122 Stat. 2420](https://www.govinfo.gov/link/statute/122/2420).)*

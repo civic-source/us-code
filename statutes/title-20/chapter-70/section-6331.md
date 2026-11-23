@@ -3,9 +3,10 @@ title: "Section 6331 - Grants for the outlying areas and the Secretary of the In
 usc_title: 20
 usc_section: "6331"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 6331"
-generated_at: "2026-03-30T02:54:48.196Z"
+generated_at: "2026-11-23T20:26:14.827Z"
+status: "active"
 ---
 
 # § 6331. Grants for the outlying areas and the Secretary of the Interior
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:48.196Z"
     - **(A)** 40 percent of the average per-pupil expenditure in the State in which the agency is located; or
     - **(B)** 48 percent of such expenditure in the United States.
 - **(e)** If, by reason of the application of subsection (a) for any fiscal year, the total amount available for allocation to all States under this part would be less than the amount allocated to all States for fiscal year 2016 under this part, the Secretary shall provide assistance to the outlying areas and the Secretary of the Interior in accordance with this section, as in effect on the day before December 10, 2015 .
+
+## Source Credit
+
+*([Pub. L. 89–10, title I, § 1121](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 107–110, title I, § 101](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1513](https://www.govinfo.gov/link/statute/115/1513); amended [Pub. L. 114–95, title I, § 1014](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1876](https://www.govinfo.gov/link/statute/129/1876); [Pub. L. 118–42, div. G, title II, § 209(b)(4)(A)](https://www.govinfo.gov/link/plaw/118/public/42), Mar. 9, 2024, [138 Stat. 443](https://www.govinfo.gov/link/statute/138/443).)*

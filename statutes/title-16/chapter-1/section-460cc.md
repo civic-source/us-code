@@ -3,9 +3,10 @@ title: "Section 460cc - Establishment"
 usc_title: 16
 usc_section: "460cc"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 460cc"
-generated_at: "2026-03-30T02:54:22.823Z"
+generated_at: "2026-11-23T20:26:19.949Z"
+status: "active"
 ---
 
 # § 460cc. Establishment
@@ -20,3 +21,7 @@ In order to preserve and protect for the use and enjoyment of present and future
   - **(5)** Hoffman and Swinburne Islands; and
   - **(6)** All submerged lands, islands, and waters within one-fourth of a mile of the mean low water line of any waterfront area included above.
 - **(b)** The map referred to in this section shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior, Washington, District of Columbia. After advising the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate in writing, the Secretary of the Interior (hereinafter referred to as the “Secretary”) is authorized to make minor revisions of the boundaries of the recreation area when necessary by publication of a revised drawing or other boundary description in the Federal Register.
+
+## Source Credit
+
+*([Pub. L. 92–592](https://www.govinfo.gov/link/plaw/92/public/592), §§ 1, 3(b)(2), Oct. 27, 1972, [86 Stat. 1308](https://www.govinfo.gov/link/statute/86/1308); [Pub. L. 103–437, § 6(n)(3)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4586](https://www.govinfo.gov/link/statute/108/4586); [Pub. L. 106–132, § 1(2)](https://www.govinfo.gov/link/plaw/106/public/132), Dec. 7, 1999, [113 Stat. 1681](https://www.govinfo.gov/link/statute/113/1681).)*

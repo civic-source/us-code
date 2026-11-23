@@ -3,9 +3,10 @@ title: "Section 4152 - Allocation formula"
 usc_title: 25
 usc_section: "4152"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 4152"
-generated_at: "2026-03-30T02:54:52.859Z"
+generated_at: "2026-11-23T20:26:25.686Z"
+status: "active"
 ---
 
 # § 4152. Allocation formula
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:54:52.859Z"
     - **(B)** With respect to fiscal year 2001 and each fiscal year thereafter, for any Indian tribe with an Indian housing authority that owns or operates fewer than 250 public housing units, the formula shall provide that if the amount provided for a fiscal year in which the total amount made available for assistance under this chapter is equal to or greater than the amount made available for fiscal year 1996 for assistance for the operation and modernization of the public housing referred to in subparagraph (A), then the amount provided to that Indian tribe as modernization assistance shall be equal to the average annual amount of funds provided to the Indian tribe (other than funds provided as emergency assistance) under the assistance program under section 14 of the United States Housing Act of 1937 ( 42 U.S.C. 1437 l ) for the period beginning with fiscal year 1992 and ending with fiscal year 1997.
   - **(2)** The formula shall provide that, if, in any fiscal year, the total amount made available for assistance under this chapter is less than the total amount made available for fiscal year 1996 for assistance for the operation and modernization of public housing developed or operated pursuant to a contract between the Secretary and an Indian housing authority pursuant to the United States Housing Act of 1937 [ 42 U.S.C. 1437 et seq.], the amount provided for such fiscal year for each Indian tribe for which such operating or modernization assistance was provided for fiscal year 1996 shall not be less than the amount that bears the same ratio to the total amount available for assistance under this chapter for such fiscal year that the amount of operating and modernization assistance provided for the tribe for fiscal year 1996 bears to the total amount made available for fiscal year 1996 for assistance for the operation and modernization of such public housing.
 - **(e)** This section shall take effect on October 26, 1996 .
+
+## Source Credit
+
+*([Pub. L. 104–330, title III, § 302](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4036](https://www.govinfo.gov/link/statute/110/4036); [Pub. L. 106–568, title X, § 1003(g)](https://www.govinfo.gov/link/plaw/106/public/568), Dec. 27, 2000, [114 Stat. 2928](https://www.govinfo.gov/link/statute/114/2928); [Pub. L. 106–569, title V, § 503(f)](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 2964](https://www.govinfo.gov/link/statute/114/2964); [Pub. L. 110–411, title III, § 301](https://www.govinfo.gov/link/plaw/110/public/411), Oct. 14, 2008, [122 Stat. 4329](https://www.govinfo.gov/link/statute/122/4329).)*

@@ -3,9 +3,10 @@ title: "Section 2702 - Beneficiary country"
 usc_title: 19
 usc_section: "2702"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2702"
-generated_at: "2026-03-30T02:54:24.682Z"
+generated_at: "2026-11-23T20:26:11.004Z"
+status: "active"
 ---
 
 # § 2702. Beneficiary country
@@ -70,3 +71,11 @@ generated_at: "2026-03-30T02:54:24.682Z"
     - **(A)** with respect to subsections (b) and (c), the results of a general review of beneficiary countries based on the considerations described in such subsections; and
     - **(B)** the performance of each beneficiary country or CBTPA beneficiary country, as the case may be, under the criteria set forth in section 2703(b)(5)(B) of this title .
   - **(2)** Before submitting the report described in paragraph (1), the United States Trade Representative shall publish a notice in the Federal Register requesting public comments on whether beneficiary countries are meeting the criteria listed in section 2703(b)(5)(B) of this title .
+
+Findings
+
+Intent of the Congress
+
+## Source Credit
+
+*([Pub. L. 98–67, title II, § 212](https://www.govinfo.gov/link/plaw/98/public/67), Aug. 5, 1983, [97 Stat. 384](https://www.govinfo.gov/link/statute/97/384); [Pub. L. 99–570, title IX, § 9002(b)](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–166](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 100–418, title I](https://www.govinfo.gov/link/plaw/100/public/418), §§ 1214(q)(1), 1909(c), Aug. 23, 1988, [102 Stat. 1159](https://www.govinfo.gov/link/statute/102/1159), 1318; [Pub. L. 101–382, title II](https://www.govinfo.gov/link/plaw/101/public/382), §§ 213, 214, Aug. 20, 1990, [104 Stat. 656](https://www.govinfo.gov/link/statute/104/656); [Pub. L. 103–465, title VI, § 621(a)(2)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4992](https://www.govinfo.gov/link/statute/108/4992); [Pub. L. 104–188, title I, § 1954(a)(3)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1927](https://www.govinfo.gov/link/statute/110/1927); [Pub. L. 106–200, title II, § 211(b)](https://www.govinfo.gov/link/plaw/106/public/200), (c)(1), (e)(2), May 18, 2000, [114 Stat. 286](https://www.govinfo.gov/link/statute/114/286), 287; [Pub. L. 109–53, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/109/public/53), (b), Aug. 2, 2005, [119 Stat. 495](https://www.govinfo.gov/link/statute/119/495); [Pub. L. 112–43, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/112/public/43), Oct. 21, 2011, [125 Stat. 530](https://www.govinfo.gov/link/statute/125/530); [Pub. L. 116–260, div. O, title VI, § 602(b)(1)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2152](https://www.govinfo.gov/link/statute/134/2152).)*

@@ -3,9 +3,10 @@ title: "Section 7709 - State consideration of payments in providing State aid"
 usc_title: 20
 usc_section: "7709"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 7709"
-generated_at: "2026-03-30T02:54:48.217Z"
+generated_at: "2026-11-23T20:26:14.935Z"
+status: "active"
 ---
 
 # § 7709. State consideration of payments in providing State aid
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:54:48.217Z"
   - **(1)** The Secretary or any aggrieved local educational agency may, not earlier than 150 days after an adverse determination by the Secretary against a State for violation of subsections (a) or (d)(2) or for failure to carry out an assurance under subsection (b)(3)(B), and if an administrative proceeding has not been concluded within such time, bring an action in a United States district court against such State for such violations or failure.
   - **(2)** A State shall not be immune under the 11th amendment to the Constitution of the United States from an action described in paragraph (1).
   - **(3)** The court shall grant such relief as the court determines is appropriate.
+
+## Source Credit
+
+*([Pub. L. 89–10, title VII, § 7009](https://www.govinfo.gov/link/plaw/89/public/10), formerly title VIII, § 8009, as added [Pub. L. 103–382, title I, § 101](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 3764](https://www.govinfo.gov/link/statute/108/3764); amended [Pub. L. 104–195, § 10](https://www.govinfo.gov/link/plaw/104/public/195), Sept. 16, 1996, [110 Stat. 2384](https://www.govinfo.gov/link/statute/110/2384); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title XVIII, § 1812], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–386; [Pub. L. 107–110, title VIII, § 804](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1956](https://www.govinfo.gov/link/statute/115/1956); renumbered title VII, § 7009, and amended [Pub. L. 114–95, title VII](https://www.govinfo.gov/link/plaw/114/public/95), §§ 7001(c)(2), (d)(1), (7), (8), 7009, Dec. 10, 2015, [129 Stat. 2074](https://www.govinfo.gov/link/statute/129/2074), 2087.)*

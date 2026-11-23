@@ -3,9 +3,10 @@ title: "Section 16022 - Project management"
 usc_title: 42
 usc_section: "16022"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16022"
-generated_at: "2026-03-30T02:56:11.467Z"
+generated_at: "2026-11-23T20:27:23.596Z"
+status: "active"
 ---
 
 # § 16022. Project management
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.467Z"
   - **(3)** The prototype nuclear reactor and associated plant shall be sited at the Idaho National Laboratory in Idaho.
   - **(4)** The Project shall use, if appropriate, reactor test capabilities at the Idaho National Laboratory.
   - **(5)** The Project may use, if appropriate, facilities at other National Laboratories.
+
+## Source Credit
+
+*([Pub. L. 109–58, title VI, § 642](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 795](https://www.govinfo.gov/link/statute/119/795).)*

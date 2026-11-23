@@ -3,9 +3,10 @@ title: "Section 20171 - Requirements for railroad freight cars placed into servi
 usc_title: 49
 usc_section: "20171"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 20171"
-generated_at: "2026-03-30T02:56:19.338Z"
+generated_at: "2026-11-23T20:27:34.802Z"
+status: "active"
 ---
 
 # § 20171. Requirements for railroad freight cars placed into service in the United States
@@ -69,3 +70,65 @@ generated_at: "2026-03-30T02:56:19.338Z"
     - **(B)** The Secretary of Transportation may prohibit a railroad freight car manufacturer with respect to which the Secretary has assessed more than 3 violations under subparagraph (A) from providing additional railroad freight cars for operation on the United States general railroad system of transportation until the Secretary determines—
       - **(i)** such manufacturer is in compliance with this section; and
       - **(ii)** all civil penalties assessed to such manufacturer pursuant to subparagraph (A) have been paid in full.
+
+Definitions
+
+Component
+
+Control
+
+Cost of sensitive technology
+
+Country of concern
+
+Net cost
+
+Qualified facility
+
+Qualified manufacturer
+
+Railroad freight car
+
+Sensitive technology
+
+State-owned enterprise
+
+Substantially transformed
+
+USMCA
+
+Requirements for Railroad Freight Cars.—
+
+Limitation on railroad freight cars
+
+Limitation on railroad freight car content.—
+
+Percentage limitation.—
+
+Initial limitation
+
+Subsequent limitation
+
+Conflict
+
+Regulations and Penalties.—
+
+Regulations required
+
+Certification required
+
+Compliance.—
+
+Valid certification required
+
+Registration of noncompliant cars prohibited
+
+Civil penalties.—
+
+In general
+
+Prohibition on operation for violations
+
+## Source Credit
+
+*(Added [Pub. L. 117–58, div. B, title II, § 22425(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 753](https://www.govinfo.gov/link/statute/135/753).)*

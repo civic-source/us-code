@@ -3,9 +3,10 @@ title: "Section 1472 - Loans for housing and buildings on adequate farms"
 usc_title: 42
 usc_section: "1472"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1472"
-generated_at: "2026-03-30T02:56:11.094Z"
+generated_at: "2026-11-23T20:27:21.774Z"
+status: "active"
 ---
 
 # § 1472. Loans for housing and buildings on adequate farms
@@ -180,3 +181,71 @@ generated_at: "2026-03-30T02:56:11.094Z"
 - **(i)**
   - **(1)** To the extent provided in advance in appropriations Acts, the Secretary may assess and collect a fee for a lender to access the automated underwriting systems of the Department in connection with such lender’s participation in the single family loan program under this section and only in an amount necessary to cover the costs of information technology enhancements, improvements, maintenance, and development for automated underwriting systems used in connection with the single family loan program under this section, except that such fee shall not exceed $50 per loan.
   - **(2)** Any amounts collected from such fees shall be credited to the Rural Development Expense Account as offsetting collections and shall remain available until expended, in the amounts provided in appropriation Acts, solely for expenses described in paragraph (1).
+
+Notice of offer to prepay
+
+Agreement by borrower to extend low income use
+
+Assistance available to borrower to extend low income use
+
+Approval of assistance
+
+Offer to sell to nonprofit organizations and public agencies.—
+
+In general
+
+Period for which requirement applicable
+
+Qualified nonprofit organizations and public agencies.—
+
+Local nonprofit organization or public agency
+
+National or regional nonprofit organization
+
+Selection of qualified purchaser
+
+Financing of sale
+
+Rent limitation and assistance
+
+Restriction on subsequent transfers
+
+General restriction on prepayments and refinancings
+
+Exception
+
+Funding.—
+
+Budget limitation
+
+Reimbursement of rural housing insurance fund
+
+Definitions
+
+Local nonprofit organization
+
+Nonprofit organization
+
+Regulations
+
+Proposed regulations and comment period
+
+Implementation
+
+Applicability
+
+Consultation
+
+In general
+
+Congressional review of agency rulemaking
+
+“The Congress finds that—
+
+Findings
+
+Purpose
+
+## Source Credit
+
+*(July 15, 1949, ch. 338, title V, § 502, [63 Stat. 433](https://www.govinfo.gov/link/statute/63/433); [Pub. L. 87–70, title VIII, § 801(b)](https://www.govinfo.gov/link/plaw/87/public/70), June 30, 1961, [75 Stat. 186](https://www.govinfo.gov/link/statute/75/186); [Pub. L. 87–723, § 4(a)(2)](https://www.govinfo.gov/link/plaw/87/public/723), Sept. 28, 1962, [76 Stat. 671](https://www.govinfo.gov/link/statute/76/671); [Pub. L. 89–117, title X, § 1002](https://www.govinfo.gov/link/plaw/89/public/117), Aug. 10, 1965, [79 Stat. 497](https://www.govinfo.gov/link/statute/79/497); [Pub. L. 89–754, title VIII, § 802](https://www.govinfo.gov/link/plaw/89/public/754), Nov. 3, 1966, [80 Stat. 1282](https://www.govinfo.gov/link/statute/80/1282); [Pub. L. 93–383, title V, § 505(b)](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 693](https://www.govinfo.gov/link/statute/88/693); [Pub. L. 95–128, title V, § 502(a)](https://www.govinfo.gov/link/plaw/95/public/128), Oct. 12, 1977, [91 Stat. 1139](https://www.govinfo.gov/link/statute/91/1139); [Pub. L. 96–153, title V, § 503](https://www.govinfo.gov/link/plaw/96/public/153), Dec. 21, 1979, [93 Stat. 1134](https://www.govinfo.gov/link/statute/93/1134); [Pub. L. 96–399, title V, § 514(a)](https://www.govinfo.gov/link/plaw/96/public/399), Oct. 8, 1980, [94 Stat. 1671](https://www.govinfo.gov/link/statute/94/1671); [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title V, § 503(a), (d)], Nov. 30, 1983, [97 Stat. 1240](https://www.govinfo.gov/link/statute/97/1240), 1241; [Pub. L. 98–479, title I, § 105(b)(1)](https://www.govinfo.gov/link/plaw/98/public/479), Oct. 17, 1984, [98 Stat. 2226](https://www.govinfo.gov/link/statute/98/2226); [Pub. L. 100–242, title II, § 241](https://www.govinfo.gov/link/plaw/100/public/242), title III, § 314, Feb. 5, 1988, [101 Stat. 1886](https://www.govinfo.gov/link/statute/101/1886), 1897; [Pub. L. 100–628, title X, § 1028](https://www.govinfo.gov/link/plaw/100/public/628), Nov. 7, 1988, [102 Stat. 3271](https://www.govinfo.gov/link/statute/102/3271); [Pub. L. 101–235, title II, § 206](https://www.govinfo.gov/link/plaw/101/public/235), Dec. 15, 1989, [103 Stat. 2041](https://www.govinfo.gov/link/statute/103/2041); [Pub. L. 101–625, title VII](https://www.govinfo.gov/link/plaw/101/public/625), §§ 704(a), 705(a), 706(b), 719(b), Nov. 28, 1990, [104 Stat. 4283](https://www.govinfo.gov/link/statute/104/4283), 4284, 4297; [Pub. L. 102–142, title VII, § 743(b)](https://www.govinfo.gov/link/plaw/102/public/142), Oct. 28, 1991, [105 Stat. 915](https://www.govinfo.gov/link/statute/105/915); [Pub. L. 102–550, title VII](https://www.govinfo.gov/link/plaw/102/public/550), §§ 701(g), 702(a), 703, 704, 712(a), (b), Oct. 28, 1992, [106 Stat. 3834](https://www.govinfo.gov/link/statute/106/3834), 3835, 3841; [Pub. L. 104–180, title VII, § 734(c)(3)(A)](https://www.govinfo.gov/link/plaw/104/public/180), (B), Aug. 6, 1996, [110 Stat. 1602](https://www.govinfo.gov/link/statute/110/1602); [Pub. L. 105–276, title V, § 599C(e)(2)(A)](https://www.govinfo.gov/link/plaw/105/public/276), (f), Oct. 21, 1998, [112 Stat. 2662](https://www.govinfo.gov/link/statute/112/2662), 2663; [Pub. L. 106–569, title VII, § 701](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 3013](https://www.govinfo.gov/link/statute/114/3013); [Pub. L. 108–285, § 3(b)](https://www.govinfo.gov/link/plaw/108/public/285), (c), Aug. 2, 2004, [118 Stat. 917](https://www.govinfo.gov/link/statute/118/917), 918; [Pub. L. 108–447, div. A, title VII, § 726(b)](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 2842](https://www.govinfo.gov/link/statute/118/2842); [Pub. L. 111–22, div. A, title I, § 101(a)](https://www.govinfo.gov/link/plaw/111/public/22), (b), May 20, 2009, [123 Stat. 1633](https://www.govinfo.gov/link/statute/123/1633), 1635; [Pub. L. 111–212, title I, § 102(a)](https://www.govinfo.gov/link/plaw/111/public/212), July 29, 2010, [124 Stat. 2303](https://www.govinfo.gov/link/statute/124/2303); [Pub. L. 114–201, title II](https://www.govinfo.gov/link/plaw/114/public/201), §§ 201, 202, July 29, 2016, [130 Stat. 805](https://www.govinfo.gov/link/statute/130/805); [Pub. L. 115–141, div. A, title VII, § 758](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 395](https://www.govinfo.gov/link/statute/132/395).)*

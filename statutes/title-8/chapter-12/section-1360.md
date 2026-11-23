@@ -3,9 +3,10 @@ title: "Section 1360 - Establishment of central file; information from other dep
 usc_title: 8
 usc_section: "1360"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1360"
-generated_at: "2026-03-30T02:53:10.496Z"
+generated_at: "2026-11-23T20:25:36.205Z"
+status: "active"
 ---
 
 # § 1360. Establishment of central file; information from other departments and agencies
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:10.496Z"
   - **(1)** Not later than 3 months after the end of each fiscal year (beginning with fiscal year 1996), the Commissioner of Social Security shall report to the Committees on the Judiciary of the House of Representatives and the Senate on the aggregate quantity of social security account numbers issued to aliens not authorized to be employed, with respect to which, in such fiscal year, earnings were reported to the Social Security Administration.
   - **(2)** If earnings are reported on or after January 1, 1997 , to the Social Security Administration on a social security account number issued to an alien not authorized to work in the United States, the Commissioner of Social Security shall provide the Attorney General with information regarding the name and address of the alien, the name and address of the person reporting the earnings, and the amount of the earnings. The information shall be provided in an electronic form agreed upon by the Commissioner and the Attorney General.
 - **(d)** A written certification signed by the Attorney General or by any officer of the Service designated by the Attorney General to make such certification, that after diligent search no record or entry of a specified nature is found to exist in the records of the Service, shall be admissible as evidence in any proceeding as evidence that the records of the Service contain no such record or entry, and shall have the same effect as the testimony of a witness given in open court.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 9, § 290, [66 Stat. 234](https://www.govinfo.gov/link/statute/66/234); [Pub. L. 100–525, § 9(q)](https://www.govinfo.gov/link/plaw/100/public/525), Oct. 24, 1988, [102 Stat. 2621](https://www.govinfo.gov/link/statute/102/2621); [Pub. L. 104–208, div. C, title III, § 308(d)(4)(M)](https://www.govinfo.gov/link/plaw/104/public/208), title IV, § 414(a), Sept. 30, 1996, [110 Stat. 3009–618](https://www.govinfo.gov/link/statute/110/3009), 3009–669.)*

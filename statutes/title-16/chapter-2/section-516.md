@@ -3,12 +3,17 @@ title: "Section 516 - Exchange of lands in the public interest; equal value; cut
 usc_title: 16
 usc_section: "516"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 516"
-generated_at: "2026-03-30T02:54:22.861Z"
+generated_at: "2026-11-23T20:26:20.095Z"
+status: "active"
 ---
 
 # § 516. Exchange of lands in the public interest; equal value; cutting and removing timber; publication of contemplated exchange
 
 When the public interests will be benefited thereby, the Secretary of Agriculture is hereby authorized, in his discretion, to accept on behalf of the United States title to any lands within the exterior boundaries of national forests which, in his opinion, are chiefly valuable for the purposes of this Act, and in exchange therefor to convey by deed not to exceed an equal value of such national forest land in the same State, or he may authorize the grantor to cut and remove an equal value of timber within such national forests in the same State, the values in each case to be determined by him: Provided , That before any such exchange is effected notice of the contemplated exchange reciting the lands involved shall be published once each week for four successive weeks in some newspaper of general circulation in the county or counties in which may be situated the lands to be accepted, and in some like newspaper published in any county in which may be situated any lands or timber to be given in such exchange. Timber given in such exchanges shall be cut and removed under the laws and regulations relating to such national forests, and under the direction and supervision and in accordance with the requirements of the Secretary of Agriculture. Lands so accepted by the Secretary of Agriculture shall, upon acceptance, become parts of the national forests within whose exterior boundaries they are located, and be subjected to all provisions of this Act.
 
+
+## Source Credit
+
+*(Mar. 1, 1911, ch. 186, § 7, [36 Stat. 962](https://www.govinfo.gov/link/statute/36/962); Mar. 3, 1925, ch. 473, [43 Stat. 1215](https://www.govinfo.gov/link/statute/43/1215); [Pub. L. 94–588, § 17(a)(4)](https://www.govinfo.gov/link/plaw/94/public/588), Oct. 22, 1976, [90 Stat. 2961](https://www.govinfo.gov/link/statute/90/2961).)*

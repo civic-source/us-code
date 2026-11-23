@@ -3,9 +3,10 @@ title: "Section 9 - Authorization of appropriations"
 usc_title: 20
 usc_section: "9"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 9"
-generated_at: "2026-03-30T02:54:48.080Z"
+generated_at: "2026-11-23T20:26:14.236Z"
+status: "active"
 ---
 
 # § 80r–9. Authorization of appropriations
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:48.080Z"
   - **(2)** such sums as are necessary for each fiscal year thereafter.
 - **(b)** Amounts made available under subsection (a) shall remain available until expended.
 - **(c)** Amounts appropriated pursuant to the authorization under this section may be used to conduct fundraising in support of the Museum from private sources.
+
+## Source Credit
+
+*([Pub. L. 108–184, § 11](https://www.govinfo.gov/link/plaw/108/public/184), Dec. 16, 2003, [117 Stat. 2682](https://www.govinfo.gov/link/statute/117/2682).)*

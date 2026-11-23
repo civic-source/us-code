@@ -3,9 +3,10 @@ title: "Section 11705 - Limitation on actions by and against rail carriers"
 usc_title: 49
 usc_section: "11705"
 chapter: 117
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 11705"
-generated_at: "2026-03-30T02:56:19.326Z"
+generated_at: "2026-11-23T20:27:34.733Z"
+status: "active"
 ---
 
 # § 11705. Limitation on actions by and against rail carriers
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:19.326Z"
   - **(2)** subsequent refund for overpayment of that rate; or
   - **(3)** deduction made under section 3726 of title 31 , whichever is later.
 - **(g)** A claim related to a shipment of property accrues under this section on delivery or tender of delivery by the rail carrier.
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 102(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 847](https://www.govinfo.gov/link/statute/109/847).)*

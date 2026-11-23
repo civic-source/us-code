@@ -3,9 +3,10 @@ title: "Section 6572 - Eligibility and enrollment of lands in program"
 usc_title: 16
 usc_section: "6572"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6572"
-generated_at: "2026-03-30T02:54:23.062Z"
+generated_at: "2026-11-23T20:26:20.804Z"
+status: "active"
 ---
 
 # § 6572. Eligibility and enrollment of lands in program
@@ -66,3 +67,7 @@ generated_at: "2026-03-30T02:54:23.062Z"
         - **(I)** the modification will not adversely affect the forest ecosystem functions and values for which the easement or other interest in land was acquired;
         - **(II)** any adverse impacts will be mitigated by enrollment and restoration of other land that provides greater forest ecosystem functions and values at no additional cost to the Federal Government; and
         - **(III)** the modification will result in equal or greater environmental and economic values to the United States.
+
+## Source Credit
+
+*([Pub. L. 108–148, title V, § 502](https://www.govinfo.gov/link/plaw/108/public/148), Dec. 3, 2003, [117 Stat. 1911](https://www.govinfo.gov/link/statute/117/1911); [Pub. L. 110–234, title VIII, § 8205(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1294](https://www.govinfo.gov/link/statute/122/1294); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VIII, § 8205(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2056; [Pub. L. 113–79, title VIII, § 8203(a)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 914](https://www.govinfo.gov/link/statute/128/914); [Pub. L. 115–334, title VIII, § 8407(a)(2)](https://www.govinfo.gov/link/plaw/115/public/334) –(6), Dec. 20, 2018, [132 Stat. 4845](https://www.govinfo.gov/link/statute/132/4845), 4846; [Pub. L. 117–328, div. HH, title III, § 401](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5984](https://www.govinfo.gov/link/statute/136/5984).)*

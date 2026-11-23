@@ -3,9 +3,10 @@ title: "Section 1341a - Termination of multiemployer plans"
 usc_title: 29
 usc_section: "1341a"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1341a"
-generated_at: "2026-03-30T02:55:18.732Z"
+generated_at: "2026-11-23T20:26:38.021Z"
+status: "active"
 ---
 
 # § 1341a. Termination of multiemployer plans
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:18.732Z"
 - **(f)**
   - **(1)** The plan sponsor of a terminated plan may authorize the payment other than in the form of an annuity of a participant’s entire nonforfeitable benefit attributable to employer contributions, other than a death benefit, if the value of the entire nonforfeitable benefit does not exceed $1,750. The corporation may authorize the payment of benefits under the terms of a terminated plan other than nonforfeitable benefits, or the payment other than in the form of an annuity of benefits having a value greater than $1,750, if the corporation determines that such payment is not adverse to the interest of the plan’s participants and beneficiaries generally and does not unreasonably increase the corporation’s risk of loss with respect to the plan.
   - **(2)** The corporation may prescribe reporting requirements for terminated plans, and rules and standards for the administration of such plans, which the corporation considers appropriate to protect the interests of plan participants and beneficiaries or to prevent unreasonable loss to the corporation.
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4041A](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 96–364, title I, § 103](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1216](https://www.govinfo.gov/link/statute/94/1216).)*

@@ -3,9 +3,10 @@ title: "Section 231a - Budgeting for life-cycle costs of aircraft for the Army, 
 usc_title: 10
 usc_section: "231a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 231a"
-generated_at: "2026-03-30T02:53:38.047Z"
+generated_at: "2026-11-23T20:25:50.885Z"
+status: "active"
 ---
 
 # § 231a. Budgeting for life-cycle costs of aircraft for the Army, Navy, and Air Force: annual plan and certification
@@ -60,3 +61,19 @@ generated_at: "2026-03-30T02:53:38.047Z"
     - **(D)** The aircraft inventory requirements approved by the Joint Chiefs of Staff.
   - **(3)** Each report under paragraph (1) shall set forth each item specified in paragraph (2) separately for the regular component of each armed force and for each reserve component of each armed force and, for each such component, shall set forth each type, model, and series of aircraft provided for in the future-years defense program that covers the fiscal year for which the budget accompanying the plan, certification and report is submitted.
 - **(f)** In this section, the term “budget” means the budget of the President for a fiscal year as submitted to Congress pursuant to section 1105 of title 31 .
+
+Annual Aircraft Procurement Plan and Certification
+
+Covered Aircraft
+
+Annual Aircraft Procurement Plan
+
+Assessment When Aircraft Procurement Budget Is Insufficient to Meet Applicable Requirements
+
+Annual Report on Aircraft Inventory
+
+Budget Defined
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title I, § 151(a)](https://www.govinfo.gov/link/plaw/116/public/283), title XVIII, § 1883(b)(2), Jan. 1, 2021, [134 Stat. 3437](https://www.govinfo.gov/link/statute/134/3437), 4294; [Pub. L. 117–81, div. A, title X, § 1081(a)(6)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1919](https://www.govinfo.gov/link/statute/135/1919).)*

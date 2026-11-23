@@ -3,9 +3,10 @@ title: "Section 1785 - Requirements governing insured credit unions"
 usc_title: 12
 usc_section: "1785"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1785"
-generated_at: "2026-03-30T02:53:53.437Z"
+generated_at: "2026-11-23T20:25:59.069Z"
+status: "active"
 ---
 
 # § 1785. Requirements governing insured credit unions
@@ -141,3 +142,35 @@ generated_at: "2026-03-30T02:53:53.437Z"
   - **(2)** No provision of paragraph (1) may be construed as implying or establishing that—
     - **(A)** any person waives any privilege applicable to information that is submitted or transferred under any circumstance to which paragraph (1) does not apply; or
     - **(B)** any person would waive any privilege applicable to any information by submitting the information to the Administration, any State credit union supervisor, or foreign banking authority, but for this subsection.
+
+Conversion of insured credit unions to mutual savings banks.—
+
+In general
+
+Conversion proposal
+
+Notice of proposal to members
+
+Notice of proposal to board
+
+Inapplicability of chapter upon conversion
+
+Limit on compensation of officials.—
+
+In general
+
+Senior management official
+
+Consistent rules.—
+
+In general
+
+Oversight of member vote
+
+Prohibition
+
+Penalty
+
+## Source Credit
+
+*(June 26, 1934, ch. 750, title II, § 205, as added [Pub. L. 91–468, § 1(3)](https://www.govinfo.gov/link/plaw/91/public/468), Oct. 19, 1970, [84 Stat. 1002](https://www.govinfo.gov/link/statute/84/1002); amended [Pub. L. 95–630, title V, § 502(b)](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3681](https://www.govinfo.gov/link/statute/92/3681); [Pub. L. 96–221, title III, § 305(d)](https://www.govinfo.gov/link/plaw/96/public/221), title V, § 523, Mar. 31, 1980, [94 Stat. 147](https://www.govinfo.gov/link/statute/94/147), 166; [Pub. L. 97–320, title I, § 131](https://www.govinfo.gov/link/plaw/97/public/320), 141(a)(8), title VII, § 706(b), Oct. 15, 1982, [96 Stat. 1486](https://www.govinfo.gov/link/statute/96/1486), 1489, 1540; [Pub. L. 100–86, title V, § 509(a)](https://www.govinfo.gov/link/plaw/100/public/86), Aug. 10, 1987, [101 Stat. 635](https://www.govinfo.gov/link/statute/101/635); [Pub. L. 101–73, title IX, § 910(b)](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 478](https://www.govinfo.gov/link/statute/103/478); [Pub. L. 103–322, title XXXII, § 320606](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2119](https://www.govinfo.gov/link/statute/108/2119); [Pub. L. 105–219, title II, § 202](https://www.govinfo.gov/link/plaw/105/public/219), Aug. 7, 1998, [112 Stat. 919](https://www.govinfo.gov/link/statute/112/919); [Pub. L. 109–173, § 2(d)(3)](https://www.govinfo.gov/link/plaw/109/public/173), Feb. 15, 2006, [119 Stat. 3604](https://www.govinfo.gov/link/statute/119/3604); [Pub. L. 109–351, title VI, § 607(b)](https://www.govinfo.gov/link/plaw/109/public/351), Oct. 13, 2006, [120 Stat. 1982](https://www.govinfo.gov/link/statute/120/1982); [Pub. L. 111–203, title III, § 362(2)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1549](https://www.govinfo.gov/link/statute/124/1549); [Pub. L. 117–263, div. E, title LVII, § 5705(b)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3414](https://www.govinfo.gov/link/statute/136/3414).)*

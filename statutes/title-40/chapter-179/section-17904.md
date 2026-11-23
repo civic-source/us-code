@@ -3,9 +3,10 @@ title: "Section 17904 - Implementation powers and limitations"
 usc_title: 40
 usc_section: "17904"
 chapter: 179
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 17904"
-generated_at: "2026-03-30T02:55:43.390Z"
+generated_at: "2026-11-23T20:26:56.726Z"
+status: "active"
 ---
 
 # § 17904. Implementation powers and limitations
@@ -16,3 +17,30 @@ generated_at: "2026-03-30T02:55:43.390Z"
   - **(1)** this chapter; and
   - **(2)** responsibilities of the head of the federal agency under other law.
 - **(d)** A contract or other agreement executed under this chapter shall be negotiated and executed by the head of the federal agency selling or purchasing electric energy under this chapter.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 17904 | 40:795c. | Pub. L. 96–571, § 5 , Dec. 22, 1980 , 94 Stat. 3342 . |
+
+
+Accommodation of Needs for Electric Energy
+
+Availability of Revenue From Sales
+
+Exercise of Authorities
+
+Negotiation and Execution of Contracts and Other Agreements
+
+Historical and Revision Notes
+
+17904
+
+Pub. L. 96–571, § 5
+
+Dec. 22, 1980
+
+94 Stat. 3342
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1290](https://www.govinfo.gov/link/statute/116/1290).)*

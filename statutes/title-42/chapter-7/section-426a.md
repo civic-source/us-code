@@ -3,9 +3,10 @@ title: "Section 426a - Transitional provision on eligibility of uninsured indivi
 usc_title: 42
 usc_section: "426a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 426a"
-generated_at: "2026-03-30T02:56:10.867Z"
+generated_at: "2026-11-23T20:27:20.807Z"
+status: "active"
 ---
 
 # § 426a. Transitional provision on eligibility of uninsured individuals for hospital insurance benefits
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:10.867Z"
   - **(1)** payments made or to be made during such fiscal year from such Trust Fund under part A of subchapter XVIII of this chapter with respect to individuals who are entitled to hospital insurance benefits under section 426 of this title solely by reason of this section,
   - **(2)** the additional administrative expenses resulting or expected to result therefrom, and
   - **(3)** any loss in interest to such Trust Fund resulting from the payment of such amounts,
+
+## Source Credit
+
+*([Pub. L. 89–97, title I, § 103](https://www.govinfo.gov/link/plaw/89/public/97), July 30, 1965, [79 Stat. 333](https://www.govinfo.gov/link/statute/79/333); [Pub. L. 90–248, title I, § 139](https://www.govinfo.gov/link/plaw/90/public/248), title IV, § 403(h), Jan. 2, 1968, [81 Stat. 854](https://www.govinfo.gov/link/statute/81/854), 932.)*

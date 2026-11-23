@@ -3,9 +3,10 @@ title: "Section 3537 - Access to WTO dispute settlement process"
 usc_title: 19
 usc_section: "3537"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3537"
-generated_at: "2026-03-30T02:54:24.692Z"
+generated_at: "2026-11-23T20:26:11.053Z"
+status: "active"
 ---
 
 # § 3537. Access to WTO dispute settlement process
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:24.692Z"
   - **(3)** make each report of the panel or the Appellate Body available to the public promptly after it is circulated to WTO members, and inform the public of such availability.
 - **(d)** In any dispute settlement proceeding conducted pursuant to the Dispute Settlement Understanding, the Trade Representative shall request each party to the dispute to provide nonconfidential summaries of its written submissions, if that party has not made its written submissions public, and shall make those summaries available to the public promptly after receiving them.
 - **(e)** The Trade Representative shall maintain a file accessible to the public on each dispute settlement proceeding to which the United States is a party that is conducted pursuant to the Dispute Settlement Understanding. The file shall include all United States submissions in the proceeding and a listing of any submissions to the Trade Representative from the public with respect to the proceeding, as well as the report of the dispute settlement panel and the report of the Appellate Body.
+
+## Source Credit
+
+*([Pub. L. 103–465, title I, § 127](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4835](https://www.govinfo.gov/link/statute/108/4835).)*

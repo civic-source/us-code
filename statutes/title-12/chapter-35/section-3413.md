@@ -3,9 +3,10 @@ title: "Section 3413 - Exceptions"
 usc_title: 12
 usc_section: "3413"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 3413"
-generated_at: "2026-03-30T02:53:53.494Z"
+generated_at: "2026-11-23T20:25:59.340Z"
+status: "active"
 ---
 
 # § 3413. Exceptions
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:53:53.494Z"
   - **(2)** Notwithstanding any other provision of law, any request authorized by paragraph (1) (and the information contained therein) may be used by the financial institution or its agents solely for the purpose of providing the customer’s name and address to the Department of Veterans Affairs and shall be barred from redisclosure by the financial institution or its agents.
 - **(q)** Nothing in this chapter shall apply to the disclosure of any financial record or information to a Government authority in conjunction with a Federal contractor-issued travel charge card issued for official Government travel.
 - **(r)** Nothing in this chapter shall apply to the examination by or disclosure to the Bureau of Consumer Financial Protection of financial records or information in the exercise of its authority with respect to a financial institution.
+
+## Source Credit
+
+*([Pub. L. 95–630, title XI, § 1113](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3706](https://www.govinfo.gov/link/statute/92/3706); [Pub. L. 98–21, title I, § 121(c)(3)(C)](https://www.govinfo.gov/link/plaw/98/public/21), Apr. 20, 1983, [97 Stat. 83](https://www.govinfo.gov/link/statute/97/83); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 99–570, title I, § 1353(b)](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–22](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 100–690, title VI, § 6186(c)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4358](https://www.govinfo.gov/link/statute/102/4358); [Pub. L. 101–73, title IX, § 942](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 497](https://www.govinfo.gov/link/statute/103/497); [Pub. L. 101–647, title I, § 104](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4791](https://www.govinfo.gov/link/statute/104/4791); [Pub. L. 102–242, title IV, § 411(2)](https://www.govinfo.gov/link/plaw/102/public/242) –(4), Dec. 19, 1991, [105 Stat. 2375](https://www.govinfo.gov/link/statute/105/2375); [Pub. L. 102–568, title VI, § 603(a)](https://www.govinfo.gov/link/plaw/102/public/568), Oct. 29, 1992, [106 Stat. 4342](https://www.govinfo.gov/link/statute/106/4342); [Pub. L. 105–264, § 2(c)(1)](https://www.govinfo.gov/link/plaw/105/public/264), Oct. 19, 1998, [112 Stat. 2351](https://www.govinfo.gov/link/statute/112/2351); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 110–234, title XIV, § 14205](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1459](https://www.govinfo.gov/link/statute/122/1459); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIV, § 14205, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2221; [Pub. L. 110–289, div. A, title II, § 1216(a)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2792](https://www.govinfo.gov/link/statute/122/2792); [Pub. L. 111–203, title X, § 1099(3)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2105](https://www.govinfo.gov/link/statute/124/2105).)*

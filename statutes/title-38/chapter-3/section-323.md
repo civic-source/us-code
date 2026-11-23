@@ -3,9 +3,10 @@ title: "Section 323 - Office of Accountability and Whistleblower Protection"
 usc_title: 38
 usc_section: "323"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 323"
-generated_at: "2026-03-30T02:55:53.471Z"
+generated_at: "2026-11-23T20:27:01.561Z"
+status: "active"
 ---
 
 # § 323. Office of Accountability and Whistleblower Protection
@@ -52,3 +53,21 @@ generated_at: "2026-03-30T02:55:53.471Z"
   - **(3)** The term “whistleblower disclosure” means any disclosure of information by an employee of the Department or individual applying to become an employee of the Department which the employee or individual reasonably believes evidences—
     - **(A)** a violation of a law, rule, or regulation; or
     - **(B)** gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety.
+
+Establishment
+
+Head of Office
+
+Functions
+
+Staff and Resources
+
+Relation to Office of General Counsel
+
+Reports
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 115–41, title I, § 101(a)](https://www.govinfo.gov/link/plaw/115/public/41), June 23, 2017, [131 Stat. 863](https://www.govinfo.gov/link/statute/131/863).)*

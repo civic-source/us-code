@@ -3,9 +3,10 @@ title: "Section 11312 - Capital planning and investment control"
 usc_title: 40
 usc_section: "11312"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 11312"
-generated_at: "2026-03-30T02:55:43.385Z"
+generated_at: "2026-11-23T20:26:56.672Z"
+status: "active"
 ---
 
 # § 11312. Capital planning and investment control
@@ -18,3 +19,26 @@ generated_at: "2026-03-30T02:55:43.385Z"
   - **(4)** identify information systems investments that would result in shared benefits or costs for other federal agencies or state or local governments;
   - **(5)** identify quantifiable measurements for determining the net benefits and risks of a proposed investment; and
   - **(6)** provide the means for senior management personnel of the executive agency to obtain timely information regarding the progress of an investment in an information system, including a system of milestones for measuring progress, on an independently verifiable basis, in terms of cost, capability of the system to meet specified requirements, timeliness, and quality.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 11312 | 40:1422. | Pub. L. 104–106, div. E, title LI, § 5122 , Feb. 10, 1996 , 110 Stat. 683 . |
+
+
+Design of Process
+
+Content of Process
+
+Historical and Revision Notes
+
+11312
+
+Pub. L. 104–106, div. E, title LI, § 5122
+
+Feb. 10, 1996
+
+110 Stat. 683
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1239](https://www.govinfo.gov/link/statute/116/1239); [Pub. L. 108–458, title VIII, § 8401(3)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3869](https://www.govinfo.gov/link/statute/118/3869).)*

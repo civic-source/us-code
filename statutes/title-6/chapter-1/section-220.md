@@ -3,9 +3,10 @@ title: "Section 220 - Methamphetamine and methamphetamine precursor chemicals"
 usc_title: 6
 usc_section: "220"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 220"
-generated_at: "2026-03-30T02:53:09.452Z"
+generated_at: "2026-11-23T20:25:34.670Z"
+status: "active"
 ---
 
 # § 220. Methamphetamine and methamphetamine precursor chemicals
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:09.452Z"
     - **(B)** a description of how the Untied 1 1 So in original. States Customs and Border Protection utilized the analysis described in paragraph (1) to target shipments presenting a high risk for smuggling or circumvention of the Combat Methamphetamine Epidemic Act of 2005 ( Public Law 109–177 ).
   - **(3)** The Commissioner shall ensure that the analysis described in paragraph (1) is made available in a timely manner to the Secretary of State to facilitate the Secretary in fulfilling the Secretary’s reporting requirements in section 722 of the Combat Methamphetamine Epidemic Act of 2005.
 - **(c)** In this section, the term “methamphetamine precursor chemicals” means the chemicals ephedrine, pseudoephedrine, or phenylpropanolamine, including each of the salts, optical isomers, and salts of optical isomers of such chemicals.
+
+## Source Credit
+
+*([Pub. L. 109–347, title VII, § 707](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1946](https://www.govinfo.gov/link/statute/120/1946).)*

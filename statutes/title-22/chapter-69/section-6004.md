@@ -3,9 +3,10 @@ title: "Section 6004 - Support for Cuban people"
 usc_title: 22
 usc_section: "6004"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6004"
-generated_at: "2026-03-30T02:55:05.421Z"
+generated_at: "2026-11-23T20:26:32.585Z"
+status: "active"
 ---
 
 # § 6004. Support for Cuban people
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:55:05.421Z"
   - **(6)** The President shall submit to the Congress on a semiannual basis a report detailing payments made to Cuba by any United States person as a result of the provision of telecommunications services authorized by this subsection.
 - **(f)** The United States Postal Service shall take such actions as are necessary to provide direct mail service to and from Cuba, including, in the absence of common carrier service between the 2 countries, the use of charter service providers.
 - **(g)** The United States Government may provide assistance, through appropriate nongovernmental organizations, for the support of individuals and organizations to promote nonviolent democratic change in Cuba.
+
+## Source Credit
+
+*([Pub. L. 102–484, div. A, title XVII, § 1705](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2577](https://www.govinfo.gov/link/statute/106/2577); [Pub. L. 104–114, title I, § 102(g)](https://www.govinfo.gov/link/plaw/104/public/114), Mar. 12, 1996, [110 Stat. 793](https://www.govinfo.gov/link/statute/110/793).)*

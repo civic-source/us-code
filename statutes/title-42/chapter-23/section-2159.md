@@ -3,9 +3,10 @@ title: "Section 2159 - Congressional review procedures"
 usc_title: 42
 usc_section: "2159"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2159"
-generated_at: "2026-03-30T02:56:11.152Z"
+generated_at: "2026-11-23T20:27:22.079Z"
+status: "active"
 ---
 
 # § 2159. Congressional review procedures
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:56:11.152Z"
   - **(6)** In the case of a joint resolution described in paragraph (1), if prior to the passage by one House of a joint resolution of that House, that House receives a joint resolution with respect to the same matter from the other House, then—
     - **(A)** the procedure in that House shall be the same as if no joint resolution had been received from the other House; but
     - **(B)** the vote on final passage shall be on the joint resolution of the other House.
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 130, as added [Pub. L. 95–242, title III, § 308](https://www.govinfo.gov/link/plaw/95/public/242), Mar. 10, 1978, [92 Stat. 139](https://www.govinfo.gov/link/statute/92/139); amended [Pub. L. 99–64, title III, § 301(c)](https://www.govinfo.gov/link/plaw/99/public/64), July 12, 1985, [99 Stat. 160](https://www.govinfo.gov/link/statute/99/160); renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944); [Pub. L. 103–437, § 15(f)(5)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4592](https://www.govinfo.gov/link/statute/108/4592); [Pub. L. 110–369, title II, § 205](https://www.govinfo.gov/link/plaw/110/public/369), Oct. 8, 2008, [122 Stat. 4033](https://www.govinfo.gov/link/statute/122/4033).)*

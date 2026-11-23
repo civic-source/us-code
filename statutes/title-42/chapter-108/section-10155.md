@@ -3,9 +3,10 @@ title: "Section 10155 - Storage of spent nuclear fuel"
 usc_title: 42
 usc_section: "10155"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10155"
-generated_at: "2026-03-30T02:56:11.382Z"
+generated_at: "2026-11-23T20:27:23.212Z"
+status: "active"
 ---
 
 # § 10155. Storage of spent nuclear fuel
@@ -63,3 +64,7 @@ generated_at: "2026-03-30T02:56:11.382Z"
 - **(g)** Not later than 90 days after January 7, 1983 , the Commission pursuant to section 553 of the Administrative Procedures Act [ 5 U.S.C. 553 ], shall propose, by rule, procedures and criteria for making the determination required by subsection (b) that a person owning and operating a civilian nuclear power reactor cannot reasonably provide adequate spent nuclear fuel storage capacity at the civilian nuclear power reactor site when needed to ensure the continued orderly operation of such reactor. Such criteria shall ensure the maintenance of a full core reserve storage capability at the site of such reactor unless the Commission determines that maintenance of such capability is not necessary for the continued orderly operation of such reactor. Such criteria shall identify the feasibility of reasonably providing such adequate spent nuclear fuel storage capacity, taking into account economic, technical, regulatory, and public health and safety factors, through the use of high-density fuel storage racks, fuel rod compaction, transshipment of spent nuclear fuel to another civilian nuclear power reactor within the same utility system, construction of additional spent nuclear fuel pool capacity, or such other technologies as may be approved by the Commission.
 - **(h)** Notwithstanding any other provision of law, nothing in this chapter shall be construed to encourage, authorize, or require the private or Federal use, purchase, lease, or other acquisition of any storage facility located away from the site of any civilian nuclear power reactor and not owned by the Federal Government on January 7, 1983 .
 - **(i)** To the extent available, and consistent with the provisions of this section, the Secretary shall provide spent nuclear fuel for the research and development program authorized in section 10198 3 3 See References in Text note below. of this title from spent nuclear fuel received by the Secretary for storage under this section. Such spent nuclear fuel shall not be subject to the provisions of subsection (e).
+
+## Source Credit
+
+*([Pub. L. 97–425, title I, § 135](https://www.govinfo.gov/link/plaw/97/public/425), Jan. 7, 1983, [96 Stat. 2232](https://www.govinfo.gov/link/statute/96/2232).)*

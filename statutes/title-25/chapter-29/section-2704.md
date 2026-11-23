@@ -3,9 +3,10 @@ title: "Section 2704 - National Indian Gaming Commission"
 usc_title: 25
 usc_section: "2704"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 2704"
-generated_at: "2026-03-30T02:54:52.842Z"
+generated_at: "2026-11-23T20:26:25.604Z"
+status: "active"
 ---
 
 # § 2704. National Indian Gaming Commission
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:54:52.842Z"
   - **(1)** The Chairman of the Commission shall be paid at a rate equal to that of level IV of the Executive Schedule under section 5315 of title 5 .
   - **(2)** The associate members of the Commission shall each be paid at a rate equal to that of level V of the Executive Schedule under section 5316 of title 5 .
   - **(3)** All members of the Commission shall be reimbursed in accordance with title 5 for travel, subsistence, and other necessary expenses incurred by them in the performance of their duties.
+
+## Source Credit
+
+*([Pub. L. 100–497, § 5](https://www.govinfo.gov/link/plaw/100/public/497), Oct. 17, 1988, [102 Stat. 2469](https://www.govinfo.gov/link/statute/102/2469).)*

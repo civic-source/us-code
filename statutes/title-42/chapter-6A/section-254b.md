@@ -3,9 +3,10 @@ title: "Section 254b - Health centers"
 usc_title: 42
 usc_section: "254b"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 254b"
-generated_at: "2026-03-30T02:56:10.708Z"
+generated_at: "2026-11-23T20:27:20.065Z"
+status: "active"
 ---
 
 # § 254b. Health centers
@@ -271,3 +272,79 @@ generated_at: "2026-03-30T02:56:10.708Z"
       - **(ii)** the establishment of a sliding fee scale for low-income patients.
   - **(5)** In addition to any amounts made available pursuant to paragraph (1) of this subsection, section 282a of this title , or section 254b–2 of this title , there is authorized to be appropriated, and there is appropriated, out of any monies in the Treasury not otherwise appropriated, to the Secretary $25,000,000 for fiscal year 2018 to support the participation of health centers in the All of Us Research Program under the Precision Medicine Initiative under section 289g–5 of this title .
   - **(6)** In addition to any amounts made available pursuant to this subsection, section 282a of this title , or section 254b—2 of this title, there is authorized to be appropriated, and there is appropriated, out of any monies in the Treasury not otherwise appropriated, $1,320,000,000 for fiscal year 2020 for supplemental awards under subsection (d) for the detection of SARS–CoV–2 or the prevention, diagnosis, and treatment of COVID–19.
+
+(aa) prenatal and perinatal services;
+
+(bb) appropriate cancer screening;
+
+(cc) well-child services;
+
+(dd) immunizations against vaccine-preventable diseases;
+
+(ee) screenings for elevated blood lead levels, communicable diseases, and cholesterol;
+
+(ff) pediatric eye, ear, and dental screenings to determine the need for vision and hearing correction and dental care;
+
+(gg) voluntary family planning services; and
+
+(hh) preventive dental services;
+
+Technical Assistance
+
+Establishment.—
+
+In general
+
+Factors to consider
+
+Publication of Notice
+
+Target Date for Publication of Rule
+
+Appointment of Negotiated Rulemaking Committee and Facilitator
+
+Preliminary Committee Report
+
+Final Committee Report
+
+Interim Final Effect
+
+Publication of Rule After Public Comment
+
+In General
+
+Use of Funds
+
+Past Expenditures
+
+Definitions
+
+School-based health center study.—
+
+In general
+
+Content
+
+Health care quality study.—
+
+In general
+
+Content
+
+Dissemination
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+Barack Obama.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 330, as added [Pub. L. 104–299, § 2](https://www.govinfo.gov/link/plaw/104/public/299), Oct. 11, 1996, [110 Stat. 3626](https://www.govinfo.gov/link/statute/110/3626); amended [Pub. L. 107–251, title I, § 101](https://www.govinfo.gov/link/plaw/107/public/251), Oct. 26, 2002, [116 Stat. 1622](https://www.govinfo.gov/link/statute/116/1622); [Pub. L. 108–163, § 2(a)](https://www.govinfo.gov/link/plaw/108/public/163), Dec. 6, 2003, [117 Stat. 2020](https://www.govinfo.gov/link/statute/117/2020); [Pub. L. 110–355, § 2(a)](https://www.govinfo.gov/link/plaw/110/public/355), (c)(1), Oct. 8, 2008, [122 Stat. 3988](https://www.govinfo.gov/link/statute/122/3988), 3992; [Pub. L. 111–148, title IV, § 4206](https://www.govinfo.gov/link/plaw/111/public/148), title V, § 5601, Mar. 23, 2010, [124 Stat. 576](https://www.govinfo.gov/link/statute/124/576), 676; [Pub. L. 115–123, div. E, title IX, § 50901(b)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 283](https://www.govinfo.gov/link/statute/132/283); [Pub. L. 116–136, div. A, title III, § 3211(a)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 368](https://www.govinfo.gov/link/statute/134/368); [Pub. L. 116–260, div. BB, title III, § 311(c)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2925](https://www.govinfo.gov/link/statute/134/2925); [Pub. L. 117–204, § 2(a)](https://www.govinfo.gov/link/plaw/117/public/204), Oct. 17, 2022, [136 Stat. 2231](https://www.govinfo.gov/link/statute/136/2231).)*

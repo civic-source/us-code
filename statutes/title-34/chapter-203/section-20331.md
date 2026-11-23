@@ -3,9 +3,10 @@ title: "Section 20331 - Findings and purpose"
 usc_title: 34
 usc_section: "20331"
 chapter: 203
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 20331"
-generated_at: "2026-03-30T02:55:33.297Z"
+generated_at: "2026-11-23T20:26:50.593Z"
+status: "active"
 ---
 
 # § 20331. Findings and purpose
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:33.297Z"
   - **(5)** compliance with the Adoption 1 and Child Welfare Act of 1980 and overall improvements in the judicial response to abuse and neglect cases can best come about through action by top level court administrators and judges with administrative functions who understand the unique aspects of decisions required in child abuse and neglect cases; and
   - **(6)** the Adoption 1 and Child Welfare Act of 1980 provides financial incentives to train welfare agency staff to meet the requirements, but provides no resources to train judges.
 - **(b)** The purpose of this subchapter is to provide expanded technical assistance and training to judicial personnel and attorneys, particularly personnel and practitioners in juvenile and family courts, to improve the judicial system’s handling of child abuse and neglect cases with specific emphasis on the role of the courts in addressing reasonable efforts that can safely avoid unnecessary and unnecessarily prolonged foster care placement.
+
+## Source Credit
+
+*([Pub. L. 101–647, title II, § 221](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4796](https://www.govinfo.gov/link/statute/104/4796); [Pub. L. 103–322, title IV, § 40156(b)(2)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1923](https://www.govinfo.gov/link/statute/108/1923).)*

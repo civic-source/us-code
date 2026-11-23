@@ -3,9 +3,10 @@ title: "Section 352 - Naval Small Craft Instruction and Technical Training Schoo
 usc_title: 10
 usc_section: "352"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 352"
-generated_at: "2026-03-30T02:53:38.054Z"
+generated_at: "2026-11-23T20:25:50.922Z"
+status: "active"
 ---
 
 # § 352. Naval Small Craft Instruction and Technical Training School
@@ -31,3 +32,23 @@ generated_at: "2026-03-30T02:53:38.054Z"
     - **(B)** The costs of operating, maintaining, and sustaining a dining facility or contracted food services at the School.
   - **(3)** Tuition fees charged for personnel who attend the School may not include any amount for the fixed costs of operating and maintaining the School.
 - **(f)** Not later than March 15 each year, the Secretary of Defense, with the concurrence of the Secretary of State, shall submit to the appropriate congressional committees a detailed report on the activities and operating costs of the School during the preceding fiscal year.
+
+In General
+
+Designation of Executive Agent
+
+Purpose
+
+Limitation on Personnel Eligible To Receive Education and Training
+
+Costs
+
+Annual Report
+
+In general
+
+Purposes
+
+## Source Credit
+
+*(Added [Pub. L. 115–232, div. A, title XII, § 1208(a)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2021](https://www.govinfo.gov/link/statute/132/2021); amended [Pub. L. 118–159, div. A, title XII, § 1202(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2093](https://www.govinfo.gov/link/statute/138/2093); [Pub. L. 119–60, div. A, title XII, § 1205](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1081](https://www.govinfo.gov/link/statute/139/1081).)*

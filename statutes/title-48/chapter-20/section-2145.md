@@ -3,9 +3,10 @@ title: "Section 2145 - Recommendations on financial stability and management res
 usc_title: 48
 usc_section: "2145"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 2145"
-generated_at: "2026-03-30T02:56:14.604Z"
+generated_at: "2026-11-23T20:27:28.200Z"
+status: "active"
 ---
 
 # § 2145. Recommendations on financial stability and management responsibility
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:14.604Z"
     - **(A)** specific performance measures to determine the extent to which the territorial government has adopted the recommendation; and
     - **(B)** a clear and specific timetable pursuant to which the territorial government will implement the recommendation.
   - **(3)** If the Governor or the Legislature (whichever is applicable) notifies the Oversight Board under paragraph (1) that the territorial government will not adopt any recommendation submitted under subsection (a) that the territorial government has authority to adopt, the Governor or the Legislature shall include in the statement explanations for the rejection of the recommendations, and the Governor or the Legislature shall submit such statement of explanations to the President and Congress.
+
+## Source Credit
+
+*([Pub. L. 114–187, title II, § 205](https://www.govinfo.gov/link/plaw/114/public/187), June 30, 2016, [130 Stat. 573](https://www.govinfo.gov/link/statute/130/573).)*

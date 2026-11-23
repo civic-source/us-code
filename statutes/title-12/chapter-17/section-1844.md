@@ -3,9 +3,10 @@ title: "Section 1844 - Administration"
 usc_title: 12
 usc_section: "1844"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1844"
-generated_at: "2026-03-30T02:53:53.467Z"
+generated_at: "2026-11-23T20:25:59.206Z"
+status: "active"
 ---
 
 # § 1844. Administration
@@ -86,3 +87,11 @@ generated_at: "2026-03-30T02:53:53.467Z"
 - **(h)**
   - **(1)** The Board shall adopt data standards for all information that, through a collection of information, is regularly filed with or submitted to the Board by any bank holding company in a report under subsection (c).
   - **(2)** The data standards required under paragraph (1) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under section 5334 of this title , including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
+
+(aa) the safety and soundness of the bank holding company or of any depository institution subsidiary of the bank holding company; or
+
+(bb) the stability of the financial system of the United States; and
+
+## Source Credit
+
+*(May 9, 1956, ch. 240, § 5, [70 Stat. 137](https://www.govinfo.gov/link/statute/70/137); [Pub. L. 95–630, title I](https://www.govinfo.gov/link/plaw/95/public/630), §§ 105(a), 106(b), Nov. 10, 1978, [92 Stat. 3646](https://www.govinfo.gov/link/statute/92/3646), 3648; [Pub. L. 106–102, title I](https://www.govinfo.gov/link/plaw/106/public/102), §§ 111, 112(a), 116, Nov. 12, 1999, [113 Stat. 1362](https://www.govinfo.gov/link/statute/113/1362), 1366, 1372; [Pub. L. 111–203, title III, § 354(3)](https://www.govinfo.gov/link/plaw/111/public/203), title VI, §§ 604(a)–(c)(1), 616(a), July 21, 2010, [124 Stat. 1547](https://www.govinfo.gov/link/statute/124/1547), 1599–1601, 1615; [Pub. L. 117–263, div. E, title LVIII, § 5861(c)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3434](https://www.govinfo.gov/link/statute/136/3434).)*

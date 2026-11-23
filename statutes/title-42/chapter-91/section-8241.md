@@ -3,9 +3,10 @@ title: "Section 8241 - Definitions"
 usc_title: 42
 usc_section: "8241"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8241"
-generated_at: "2026-03-30T02:56:11.337Z"
+generated_at: "2026-11-23T20:27:23.012Z"
+status: "active"
 ---
 
 # § 8241. Definitions
@@ -20,3 +21,7 @@ As used in the part—
   - **(4)** The term “solar heating and cooling” means the use of solar energy to provide all or part of the heating needs of a Federal building (including hot water) and all or part of the cooling needs of such building, or all or part of the needs of such building for hot water.
   - **(5)** The term “solar energy equipment” means equipment for solar heating or solar heating and cooling.
   - **(6)** The term “Secretary” means the Secretary of Energy.
+
+## Source Credit
+
+*([Pub. L. 95–619, title V, § 521](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3275](https://www.govinfo.gov/link/statute/92/3275); [Pub. L. 110–161, div. H, title I, § 1303(b)](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2242](https://www.govinfo.gov/link/statute/121/2242).)*

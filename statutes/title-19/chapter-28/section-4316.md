@@ -3,9 +3,10 @@ title: "Section 4316 - Commercial Customs Operations Advisory Committee"
 usc_title: 19
 usc_section: "4316"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 4316"
-generated_at: "2026-03-30T02:54:24.706Z"
+generated_at: "2026-11-23T20:26:11.133Z"
+status: "active"
 ---
 
 # § 4316. Commercial Customs Operations Advisory Committee
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:54:24.706Z"
 - **(g)**
   - **(1)**
   - **(2)** Any reference in law to the Advisory Committee on Commercial Operations of the United States Customs Service established under section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 ( 19 U.S.C. 2071 note) made on or after the date on which the Advisory Committee is established under subsection (a), shall be deemed a reference to the Commercial Customs Operations Advisory Committee established under subsection (a).
+
+## Source Credit
+
+*([Pub. L. 114–125, title I, § 109](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 136](https://www.govinfo.gov/link/statute/130/136); [Pub. L. 117–286, § 4(a)(143)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4321](https://www.govinfo.gov/link/statute/136/4321).)*

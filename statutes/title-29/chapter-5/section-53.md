@@ -3,12 +3,17 @@ title: "Section 53 - “Person” or “persons” defined"
 usc_title: 29
 usc_section: "53"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 53"
-generated_at: "2026-03-30T02:55:18.677Z"
+generated_at: "2026-11-23T20:26:37.777Z"
+status: "active"
 ---
 
 # § 53. “Person” or “persons” defined
 
 The word “person” or “persons” wherever used in section 52 of this title shall be deemed to include corporations and associations existing under or authorized by the laws of either the United States, the laws of any of the Territories, the laws of any State, or the laws of any foreign country.
 
+
+## Source Credit
+
+*(Oct. 15, 1914, ch. 323, § 1, [38 Stat. 730](https://www.govinfo.gov/link/statute/38/730).)*

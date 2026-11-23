@@ -3,9 +3,10 @@ title: "Section 5005 - Indemnity"
 usc_title: 12
 usc_section: "5005"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5005"
-generated_at: "2026-03-30T02:53:53.521Z"
+generated_at: "2026-11-23T20:25:59.439Z"
+status: "active"
 ---
 
 # § 5005. Indemnity
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:53.521Z"
   - **(1)** Each indemnifying bank shall be subrogated to the rights of any indemnified party to the extent of the indemnity.
   - **(2)** A bank that indemnifies a party under this section may attempt to recover from another party based on a warranty or other claim.
   - **(3)** Each indemnified party shall have a duty to comply with all reasonable requests for assistance from an indemnifying bank in connection with any claim the indemnifying bank brings against a warrantor or other party related to a check that forms the basis for the indemnification.
+
+## Source Credit
+
+*([Pub. L. 108–100, § 6](https://www.govinfo.gov/link/plaw/108/public/100), Oct. 28, 2003, [117 Stat. 1181](https://www.govinfo.gov/link/statute/117/1181).)*

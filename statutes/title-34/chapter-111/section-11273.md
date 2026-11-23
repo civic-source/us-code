@@ -3,9 +3,10 @@ title: "Section 11273 - Reports"
 usc_title: 34
 usc_section: "11273"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 11273"
-generated_at: "2026-03-30T02:55:33.280Z"
+generated_at: "2026-11-23T20:26:50.522Z"
+status: "active"
 ---
 
 # § 11273. Reports
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:33.280Z"
 - **(b)** The Secretary shall include in each report submitted under subsection (a), summaries of—
   - **(1)** the evaluations performed by the Secretary under section 11277 of this title ; and
   - **(2)** descriptions of the qualifications of, and training provided to, individuals involved in carrying out such evaluations.
+
+## Source Credit
+
+*([Pub. L. 93–415, title III, § 382](https://www.govinfo.gov/link/plaw/93/public/415), formerly § 315, Sept. 7, 1974, [88 Stat. 1131](https://www.govinfo.gov/link/statute/88/1131); [Pub. L. 96–509, § 18(f)](https://www.govinfo.gov/link/plaw/96/public/509), Dec. 8, 1980, [94 Stat. 2762](https://www.govinfo.gov/link/statute/94/2762); renumbered § 317, [Pub. L. 98–473, title II, § 655(1)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2124](https://www.govinfo.gov/link/statute/98/2124); renumbered § 361 and amended [Pub. L. 100–690, title VII](https://www.govinfo.gov/link/plaw/100/public/690), §§ 7271(c)(5), 7273(c), (e)(2), 7274, Nov. 18, 1988, [102 Stat. 4453–4455](https://www.govinfo.gov/link/statute/102/4453), 4457; [Pub. L. 101–204, title X, § 1003(1)](https://www.govinfo.gov/link/plaw/101/public/204), (2), Dec. 7, 1989, [103 Stat. 1827](https://www.govinfo.gov/link/statute/103/1827); renumbered § 381 and amended [Pub. L. 102–586, § 3(g)(1)(A)(ii)](https://www.govinfo.gov/link/plaw/102/public/586), (h), Nov. 4, 1992, [106 Stat. 5022](https://www.govinfo.gov/link/statute/106/5022), 5025; renumbered § 382 and amended [Pub. L. 106–71, § 3(k)](https://www.govinfo.gov/link/plaw/106/public/71), (q), Oct. 12, 1999, [113 Stat. 1039](https://www.govinfo.gov/link/statute/113/1039), 1042.)*

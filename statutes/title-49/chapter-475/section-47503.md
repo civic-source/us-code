@@ -3,9 +3,10 @@ title: "Section 47503 - Noise exposure maps"
 usc_title: 49
 usc_section: "47503"
 chapter: 475
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 47503"
-generated_at: "2026-03-30T02:56:19.407Z"
+generated_at: "2026-11-23T20:27:35.330Z"
+status: "active"
 ---
 
 # § 47503. Noise exposure maps
@@ -18,3 +19,39 @@ generated_at: "2026-03-30T02:56:19.407Z"
   - **(2)** A submission under paragraph (1) shall be required only if the relevant change in the operation of the airport occurs during—
     - **(A)** the forecast period of the applicable noise exposure map submitted by an airport operator under subsection (a); or
     - **(B)** the implementation period of the airport operator’s noise compatibility program.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 47503(a) | 49 App.:2103(a)(1). | Feb. 18, 1980 , Pub. L. 96–193, § 103(a) , 94 Stat. 50 . |
+| 47503(b) | 49 App.:2103(a)(2). |  |
+
+
+Submission and Preparation
+
+Revised Maps.—
+
+In general
+
+Timing
+
+Historical and Revision Notes
+
+47503(a)
+
+Feb. 18, 1980
+
+Pub. L. 96–193, § 103(a)
+
+94 Stat. 50
+
+47503(b)
+
+Noise Disclosure System Implementation Study
+
+Public Availability of Noise Exposure Maps
+
+Noise Exposure Map
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1284](https://www.govinfo.gov/link/statute/108/1284); [Pub. L. 108–176, title III, § 324](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2542](https://www.govinfo.gov/link/statute/117/2542); [Pub. L. 115–254, div. B, title I, § 174](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3228](https://www.govinfo.gov/link/statute/132/3228).)*

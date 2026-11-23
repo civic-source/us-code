@@ -3,9 +3,10 @@ title: "Section 8352 - Permanent exemptions"
 usc_title: 42
 usc_section: "8352"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8352"
-generated_at: "2026-03-30T02:56:11.341Z"
+generated_at: "2026-11-23T20:27:23.036Z"
+status: "active"
 ---
 
 # § 8352. Permanent exemptions
@@ -56,3 +57,7 @@ generated_at: "2026-03-30T02:56:11.341Z"
       - **(ii)** substantial reduction in the rated capacity of the unit (as determined by the Secretary).
   - **(2)** An exemption under this subsection may only apply to the prohibitions under section 8341 of this title and prohibitions established by final rules or orders issued before January 1, 1990 .
 - **(i)** After consideration of a petition (and comments thereon) for an exemption from one or more of the prohibitions of part A for a powerplant, the Secretary shall, by order, grant a permanent exemption under this subsection for the use of liquefied natural gas if the Administrator of the Environmental Protection Agency (or the appropriate State air pollution control agency) has certified to the Secretary that the use of coal by such powerplant as a primary energy source will cause or contribute to a concentration, in an air quality control region or any area within such region, of a pollutant for which any national ambient air quality standard is or would be exceeded for such region or area and the use of coal would not comply with applicable environmental requirements.
+
+## Source Credit
+
+*([Pub. L. 95–620, title III, § 312](https://www.govinfo.gov/link/plaw/95/public/620), Nov. 9, 1978, [92 Stat. 3309](https://www.govinfo.gov/link/statute/92/3309); [Pub. L. 100–42, § 1(c)(10)](https://www.govinfo.gov/link/plaw/100/public/42), (12), May 21, 1987, [101 Stat. 313](https://www.govinfo.gov/link/statute/101/313).)*

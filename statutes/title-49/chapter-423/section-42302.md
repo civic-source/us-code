@@ -3,9 +3,10 @@ title: "Section 42302 - Consumer complaints"
 usc_title: 49
 usc_section: "42302"
 chapter: 423
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 42302"
-generated_at: "2026-03-30T02:56:19.379Z"
+generated_at: "2026-11-23T20:27:35.125Z"
+status: "active"
 ---
 
 # § 42302. Consumer complaints
@@ -22,3 +23,31 @@ generated_at: "2026-03-30T02:56:19.379Z"
 - **(d)** Each air ambulance provider shall include the accessible website, or a link to such accessible website, maintained pursuant to subsection (a) and the contact information for the Aviation Consumer Advocate established by section 424 of the FAA Reauthorization Act of 2018 ( 49 U.S.C. 42302 note) on—
   - **(1)** any invoice, bill, or other communication provided to a passenger or customer of such provider; and
   - **(2)** the accessible website and any related mobile device application of such provider.
+
+In General
+
+Notice to Passengers on the Internet
+
+Use of Additional or Alternative Technologies
+
+Air Ambulance Providers
+
+In General
+
+Considerations
+
+Aviation Consumer Advocate.—
+
+In general
+
+Functions
+
+Annual Reports
+
+Sunset on Reporting Requirement
+
+“The Secretary of Transportation may investigate consumer complaints regarding—
+
+## Source Credit
+
+*(Added [Pub. L. 112–95, title IV, § 415(a)](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 95](https://www.govinfo.gov/link/statute/126/95); amended [Pub. L. 115–254, div. B, title IV](https://www.govinfo.gov/link/plaw/115/public/254), §§ 405, 419(a), 423(a), Oct. 5, 2018, [132 Stat. 3329](https://www.govinfo.gov/link/statute/132/3329), 3336, 3337; [Pub. L. 118–63, title V, § 520](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1200](https://www.govinfo.gov/link/statute/138/1200).)*

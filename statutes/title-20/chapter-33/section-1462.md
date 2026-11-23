@@ -3,9 +3,10 @@ title: "Section 1462 - Personnel development to improve services and results for
 usc_title: 20
 usc_section: "1462"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1462"
-generated_at: "2026-03-30T02:54:48.167Z"
+generated_at: "2026-11-23T20:26:14.661Z"
+status: "active"
 ---
 
 # § 1462. Personnel development to improve services and results for children with disabilities
@@ -109,3 +110,7 @@ generated_at: "2026-03-30T02:54:48.167Z"
     - **(A)** shall ensure that individuals described in paragraph (1) comply with the requirements of that paragraph; and
     - **(B)** may use not more than 0.5 percent of the funds appropriated under subsection (i) for each fiscal year, to carry out subparagraph (A), in addition to any other funds that are available for that purpose.
 - **(i)** There are authorized to be appropriated to carry out this section such sums as may be necessary for each of the fiscal years 2005 through 2010.
+
+## Source Credit
+
+*([Pub. L. 91–230, title VI, § 662](https://www.govinfo.gov/link/plaw/91/public/230), as added [Pub. L. 108–446, title I, § 101](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2774](https://www.govinfo.gov/link/statute/118/2774); amended [Pub. L. 114–95, title IX](https://www.govinfo.gov/link/plaw/114/public/95), §§ 9214(d)(4)(C), 9215(ss)(9), Dec. 10, 2015, [129 Stat. 2165](https://www.govinfo.gov/link/statute/129/2165), 2183.)*

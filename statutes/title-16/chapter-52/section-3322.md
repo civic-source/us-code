@@ -3,9 +3,10 @@ title: "Section 3322 - Enhancement project proposals"
 usc_title: 16
 usc_section: "3322"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3322"
-generated_at: "2026-03-30T02:54:23.014Z"
+generated_at: "2026-11-23T20:26:20.649Z"
+status: "active"
 ---
 
 # § 3322. Enhancement project proposals
@@ -21,3 +22,7 @@ After the approval of a comprehensive enhancement plan, the State of Washington,
   - **(4)** an analysis of, and supporting data for, the economic and biological integrity and viability of the project;
   - **(5)** such other information as the Secretary, in consultation with the Secretary of Commerce, determines is necessary to assure that the proposed project is consistent with the approved enhancement plan and the provisions of this chapter; and
   - **(6)** after approval of the Commission’s report pursuant to section 3311 of this title , documentation that the appropriate State or treaty tribe submitting or undertaking the project proposal has adopted and begun all necessary implementation of the Commission’s management program.
+
+## Source Credit
+
+*([Pub. L. 96–561, title I, § 121](https://www.govinfo.gov/link/plaw/96/public/561), Dec. 22, 1980, [94 Stat. 3282](https://www.govinfo.gov/link/statute/94/3282).)*

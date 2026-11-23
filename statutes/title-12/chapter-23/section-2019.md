@@ -3,9 +3,10 @@ title: "Section 2019 - Purposes for extensions of credit"
 usc_title: 12
 usc_section: "2019"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 2019"
-generated_at: "2026-03-30T02:53:53.471Z"
+generated_at: "2026-11-23T20:25:59.224Z"
+status: "active"
 ---
 
 # § 2019. Purposes for extensions of credit
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:53.471Z"
 - **(c)**
   - **(1)** Loans to persons furnishing farm-related services to farmers and ranchers directly related to their on-farm operating needs may be made for the necessary capital structures and equipment and initial working capital for such services.
   - **(2)** The banks may own and lease, or lease with option to purchase, to persons eligible for credit under this subchapter or subchapter II, equipment or facilities needed in the operations of such persons.
+
+## Source Credit
+
+*([Pub. L. 92–181, title I, § 1](https://www.govinfo.gov/link/plaw/92/public/181).11, as added [Pub. L. 100–233, title IV, § 401](https://www.govinfo.gov/link/plaw/100/public/233), Jan. 6, 1988, [101 Stat. 1627](https://www.govinfo.gov/link/statute/101/1627); amended [Pub. L. 100–399, title IV, § 401(j)](https://www.govinfo.gov/link/plaw/100/public/399), Aug. 17, 1988, [102 Stat. 996](https://www.govinfo.gov/link/statute/102/996); [Pub. L. 101–624, title XVIII, § 1832(a)](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3832](https://www.govinfo.gov/link/statute/104/3832); [Pub. L. 102–237, title V, § 502(a)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1868](https://www.govinfo.gov/link/statute/105/1868).)*

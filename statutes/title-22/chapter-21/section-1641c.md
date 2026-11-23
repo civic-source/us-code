@@ -3,9 +3,10 @@ title: "Section 1641c - Claims of nationals of the United States against Italy"
 usc_title: 22
 usc_section: "1641c"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 1641c"
-generated_at: "2026-03-30T02:55:05.335Z"
+generated_at: "2026-11-23T20:26:32.131Z"
+status: "active"
 ---
 
 # § 1641c. Claims of nationals of the United States against Italy
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:05.335Z"
 - **(d)** Within thirty days after July 24, 1968 , or within thirty days after the date of enactment of legislation making appropriations to the Commission for payment of administrative expenses incurred in carrying out its functions under subsections (b) and (c) of this section, whichever date is later, the Commission shall publish in the Federal Register the time when and the limit of time within which claims may be filed with the Commission, which limit shall not be more than six months after such publication.
 - **(e)** The Commission shall certify awards on claims determined pursuant to subsections (b) and (c) of this section to the Secretary of the Treasury for payment out of remaining balances in the Italian Claims Fund in accordance with the provisions of section 1641i of this title , after payment in full of all awards certified pursuant to subsection (a) of this section.
 - **(f)** After payment in full of all awards certified to the Secretary of the Treasury pursuant to subsections (a) and (e) of this section, the Secretary of the Treasury is authorized and directed to transfer the unobligated balance in the Italian Claims Fund into the War Claims Fund created by section 4110 of title 50 .
+
+## Source Credit
+
+*(Mar. 10, 1950, ch. 54, title III, § 304, as added Aug. 9, 1955, ch. 645, § 3, [69 Stat. 572](https://www.govinfo.gov/link/statute/69/572); amended [Pub. L. 85–604, § 2](https://www.govinfo.gov/link/plaw/85/public/604), Aug. 8, 1958, [72 Stat. 531](https://www.govinfo.gov/link/statute/72/531); [Pub. L. 90–421, § 1(11)](https://www.govinfo.gov/link/plaw/90/public/421), July 24, 1968, [82 Stat. 422](https://www.govinfo.gov/link/statute/82/422).)*

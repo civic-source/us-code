@@ -3,9 +3,10 @@ title: "Section 2632 - Transportation to and from certain places of employment a
 usc_title: 10
 usc_section: "2632"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2632"
-generated_at: "2026-03-30T02:53:38.166Z"
+generated_at: "2026-11-23T20:25:51.624Z"
+status: "active"
 ---
 
 # § 2632. Transportation to and from certain places of employment and on military installations
@@ -35,3 +36,49 @@ generated_at: "2026-03-30T02:53:38.166Z"
     - **(C)** private persons under contract; and
   - **(3)** lease or charter the equipment to private or public carriers for operation under terms that are considered necessary by the Secretary or by an officer of the department designated by the Secretary, and that may provide for the pooling of Government-owned and privately owned equipment and facilities and for the reciprocal use of that equipment.
 - **(d)** Fares received under subsection (a), and proceeds of the leasing or chartering of equipment under subsection (c)(3), shall be covered into the Treasury as miscellaneous receipts.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 2632(a) | 5:189c (introductory clause, words of clause 2 before semicolon, and 17 words before proviso of clause 3). | May 28, 1948, ch. 352, § 1 , 62 Stat. 276 . |
+|  | 5:415d (introductory clause, words of clause 2 before semicolon, and 17 words before proviso of clause 3). |  |
+|  | 5:626n (introductory clause, words of clause 2 before semicolon, and 17 words before proviso of clause 3). |  |
+| 2632(b) | 5:189c (clause 4). |  |
+|  | 5:415d (clause 4). |  |
+|  | 5:626n (clause 4). |  |
+| 2632(c) | 5:189c (clause 1; and clause 3, less 17 words before proviso). |  |
+|  | 5:415d (clause 1; and clause 3, less 17 words before proviso). |  |
+|  | 5:626n (clause 1; and clause 3, less 17 words before proviso). |  |
+| 2632(d) | 5:189c (clause 2, less words before semicolon). |  |
+|  | 5:415d (clause 2, less words before semicolon). |  |
+|  | 5:626n (clause 2, less words before semicolon). |  |
+
+
+Historical and Revision Notes
+
+2632(a)
+
+May 28, 1948, ch. 352, § 1
+
+62 Stat. 276
+
+2632(b)
+
+2632(c)
+
+2632(d)
+
+Determination
+
+Authority
+
+Program Elements
+
+Duration
+
+Report
+
+Military Installation Defined
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 146; [Pub. L. 95–362](https://www.govinfo.gov/link/plaw/95/public/362), Sept. 11, 1978, [92 Stat. 596](https://www.govinfo.gov/link/statute/92/596); [Pub. L. 96–125, title VIII, § 807(a)](https://www.govinfo.gov/link/plaw/96/public/125) –(c)(1), Nov. 26, 1979, [93 Stat. 949](https://www.govinfo.gov/link/statute/93/949), 950; [Pub. L. 100–180, div. A, title III, § 318(a)](https://www.govinfo.gov/link/plaw/100/public/180) –(c), Dec. 4, 1987, [101 Stat. 1076](https://www.govinfo.gov/link/statute/101/1076), 1077; [Pub. L. 116–283, div. A, title IX, § 924(b)(2)(A)(vii)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3821](https://www.govinfo.gov/link/statute/134/3821).)*

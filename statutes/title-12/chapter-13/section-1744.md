@@ -3,9 +3,10 @@ title: "Section 1744 - Insurance of loans for manufacture of houses"
 usc_title: 12
 usc_section: "1744"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1744"
-generated_at: "2026-03-30T02:53:53.431Z"
+generated_at: "2026-11-23T20:25:59.031Z"
+status: "active"
 ---
 
 # § 1744. Insurance of loans for manufacture of houses
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:53.431Z"
   - **(3)** The failure of the purchaser to make any payment due under or provided to be paid by the terms of any note or notes executed by the purchaser and accepted and discounted by the lender under the provisions of this subsection, shall be considered as a default under this subsection, and if such default continues for a period of thirty days, the lender shall be entitled to receive the benefits of the insurance, as provided in subsection (d) of this section except that debentures issued pursuant to this subsection shall have a face value equal to the unpaid principal balance of the loan plus interest at the rate of 4 per centum per annum from the date of default to the date the application is filed for the insurance benefits.
   - **(4)** Debentures issued with respect to the insurance granted under this subsection shall be issued in accordance with the provisions of section 1739(d) of this title except that such debentures shall be dated as of the date application is filed for the insurance benefits and shall bear interest from such date.
   - **(5)** The Secretary is authorized to fix a premium charge for the insurance granted under this subsection, in addition to the premium charge authorized under subsection (h) of this section. Such premium charge shall not exceed an amount equivalent to 1 per centum of the original principal of such promissory note or notes and shall be paid at such time and in such manner as may be prescribed by the Secretary.
+
+## Source Credit
+
+*(June 27, 1934, ch. 847, title VI, § 609, as added June 30, 1947, ch. 163, title I, § 3, [61 Stat. 193](https://www.govinfo.gov/link/statute/61/193); amended Aug. 10, 1948, ch. 832, title I, § 101(d), [62 Stat. 1269](https://www.govinfo.gov/link/statute/62/1269); Apr. 20, 1950, ch. 94, title I, § 122, [64 Stat. 59](https://www.govinfo.gov/link/statute/64/59); [Pub. L. 89–117, title XI, § 1108(r)](https://www.govinfo.gov/link/plaw/89/public/117), Aug. 10, 1965, [79 Stat. 506](https://www.govinfo.gov/link/statute/79/506); [Pub. L. 90–19, § 1(a)(3)](https://www.govinfo.gov/link/plaw/90/public/19), May 25, 1967, [81 Stat. 17](https://www.govinfo.gov/link/statute/81/17).)*

@@ -3,9 +3,10 @@ title: "Section 5951 - Findings on cooperative threat reduction"
 usc_title: 22
 usc_section: "5951"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 5951"
-generated_at: "2026-03-30T02:55:05.421Z"
+generated_at: "2026-11-23T20:26:32.582Z"
+status: "active"
 ---
 
 # § 5951. Findings on cooperative threat reduction
@@ -20,3 +21,75 @@ The Congress finds that it is in the national security interest of the United St
   - **(3)** Facilitate, on a priority basis, the prevention of diversion of weapons-related scientific expertise of the independent states of the former Soviet Union to terrorist groups or third world countries.
   - **(4)** Support (A) the demilitarization of the defense-related industry and equipment of the independent states of the former Soviet Union, and (B) the conversion of such industry and equipment to civilian purposes and uses.
   - **(5)** Expand military-to-military and defense contacts between the United States and the independent states of the former Soviet Union.
+
+Notification
+
+Elements of Notification
+
+Form
+
+Appropriate Congressional Committees Defined
+
+Classified United States Ballistic Missile Defense Information Defined
+
+Establishment of Working Group
+
+Purpose of Working Group
+
+Membership
+
+Transfer of Program
+
+Transfer of Assets
+
+Availability of Transferred Funds
+
+Limitation
+
+International Participation in Program
+
+Program on Accelerated Disposition of HEU Authorized
+
+Construction With HEU Disposition Agreement
+
+Limitation on Release for Sale of Blended Uranium
+
+Amount for Activities
+
+Plan for Accelerated Return
+
+Funding and Schedules
+
+Coordination
+
+Plan Required
+
+Content of Plan
+
+Consultation
+
+Annual Report on Implementation of Plan
+
+“It is the sense of Congress that—
+
+Limitation
+
+Presidential Certification
+
+Definitions
+
+In General
+
+Specified Programs
+
+Limitation
+
+Certification of Russia’s Commitment to Halt Chemical Separation of Weapon-Grade Plutonium
+
+Sense of Congress on Plutonium Policy
+
+Report
+
+## Source Credit
+
+*([Pub. L. 103–160, div. A, title XII, § 1202](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1777](https://www.govinfo.gov/link/statute/107/1777).)*

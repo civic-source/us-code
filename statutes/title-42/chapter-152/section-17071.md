@@ -3,9 +3,10 @@ title: "Section 17071 - Energy Code improvements applicable to manufactured hous
 usc_title: 42
 usc_section: "17071"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17071"
-generated_at: "2026-03-30T02:56:11.494Z"
+generated_at: "2026-11-23T20:27:23.721Z"
+status: "active"
 ---
 
 # § 17071. Energy Code improvements applicable to manufactured housing
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.494Z"
     - **(A)** 1 year after December 19, 2007 ; and
     - **(B)** 1 year after any revision to the International Energy Conservation Code.
 - **(c)** Any manufacturer of manufactured housing that violates a provision of the regulations under subsection (a) is liable to the United States for a civil penalty in an amount not exceeding 1 percent of the manufacturer’s retail list price of the manufactured housing.
+
+## Source Credit
+
+*([Pub. L. 110–140, title IV, § 413](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1601](https://www.govinfo.gov/link/statute/121/1601).)*

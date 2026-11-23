@@ -3,9 +3,10 @@ title: "Section 3730 - Civil actions for false claims"
 usc_title: 31
 usc_section: "3730"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 3730"
-generated_at: "2026-03-30T02:55:34.061Z"
+generated_at: "2026-11-23T20:26:51.816Z"
+status: "active"
 ---
 
 # § 3730. Civil actions for false claims
@@ -56,3 +57,69 @@ generated_at: "2026-03-30T02:55:34.061Z"
   - **(1)** Any employee, contractor, or agent shall be entitled to all relief necessary to make that employee, contractor, or agent whole, if that employee, contractor, or agent is discharged, demoted, suspended, threatened, harassed, or in any other manner discriminated against in the terms and conditions of employment because of lawful acts done by the employee, contractor, agent or associated others in furtherance of an action under this section or other efforts to stop 1 or more violations of this subchapter.
   - **(2)** Relief under paragraph (1) shall include reinstatement with the same seniority status that employee, contractor, or agent would have had but for the discrimination, 2 times the amount of back pay, interest on the back pay, and compensation for any special damages sustained as a result of the discrimination, including litigation costs and reasonable attorneys’ fees. An action under this subsection may be brought in the appropriate district court of the United States for the relief provided in this subsection.
   - **(3)** A civil action under this subsection may not be brought more than 3 years after the date when the retaliation occurred.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3730(a) | 31:233. | R.S. § 3492. |
+| 3730(b)(1) | 31:232(A), (B)(less words between 3d and 4th commas). | R.S. § 3491(A)–(E); restated Dec. 23, 1943, ch. 377, § 1 , 57 Stat. 608 ; June 11, 1960 , Pub. L. 86–507, § 1(28) , (29), 74 Stat. 202 . |
+| 3730(b)(2) | 31:232(C)(1st–3d sentences, 5th sentence proviso). |  |
+| 3730(b)(3) | 31:232(C)(4th sentence, 5th sentence less proviso). |  |
+| 3730(b)(4) | 31:232(C)(last sentence), (D). |  |
+| 3730(c)(1) | 31:232(E)(1). |  |
+| 3730(c)(2) | 31:232(E)(2)(less proviso). |  |
+| 3730(d) | 31:232(B)(words between 3d and 4th commas), (E)(2)(proviso). |  |
+
+
+Responsibilities of the Attorney General
+
+Actions by Private Persons
+
+Rights of the Parties to Qui Tam Actions
+
+Award to Qui Tam Plaintiff
+
+Certain Actions Barred
+
+Government Not Liable for Certain Expenses
+
+Fees and Expenses to Prevailing Defendant
+
+Relief From Retaliatory Actions.—
+
+In general
+
+Relief
+
+Limitation on bringing civil action
+
+Historical and Revision Notes
+
+3730(a)
+
+3730(b)(1)
+
+Dec. 23, 1943, ch. 377, § 1
+
+57 Stat. 608
+
+June 11, 1960
+
+Pub. L. 86–507, § 1(28)
+
+74 Stat. 202
+
+3730(b)(2)
+
+3730(b)(3)
+
+3730(b)(4)
+
+3730(c)(1)
+
+3730(c)(2)
+
+3730(d)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 978](https://www.govinfo.gov/link/statute/96/978); [Pub. L. 99–562](https://www.govinfo.gov/link/plaw/99/public/562), §§ 3, 4, Oct. 27, 1986, [100 Stat. 3154](https://www.govinfo.gov/link/statute/100/3154), 3157; [Pub. L. 100–700, § 9](https://www.govinfo.gov/link/plaw/100/public/700), Nov. 19, 1988, [102 Stat. 4638](https://www.govinfo.gov/link/statute/102/4638); [Pub. L. 101–280, § 10(a)](https://www.govinfo.gov/link/plaw/101/public/280), May 4, 1990, [104 Stat. 162](https://www.govinfo.gov/link/statute/104/162); [Pub. L. 103–272, § 4(f)(1)(P)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1362](https://www.govinfo.gov/link/statute/108/1362); [Pub. L. 111–21, § 4(d)](https://www.govinfo.gov/link/plaw/111/public/21), May 20, 2009, [123 Stat. 1624](https://www.govinfo.gov/link/statute/123/1624); [Pub. L. 111–148, title X, § 10104(j)(2)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 901](https://www.govinfo.gov/link/statute/124/901); [Pub. L. 111–203, title X, § 1079A(c)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2079](https://www.govinfo.gov/link/statute/124/2079); [Pub. L. 117–286, § 4(c)(36)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4358](https://www.govinfo.gov/link/statute/136/4358).)*

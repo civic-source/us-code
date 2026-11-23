@@ -3,12 +3,17 @@ title: "Section 546 - Jurisdiction of district court for enforcement of this sub
 usc_title: 43
 usc_section: "546"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 546"
-generated_at: "2026-03-30T02:55:57.454Z"
+generated_at: "2026-11-23T20:27:06.227Z"
+status: "active"
 ---
 
 # § 546. Jurisdiction of district court for enforcement of this subchapter
 
 Jurisdiction of suits by the United States for the enforcement of the provisions of this subchapter is conferred on the United States district courts of the districts in which the lands are situated.
 
+
+## Source Credit
+
+*(Aug. 9, 1912, ch. 278, § 5, [37 Stat. 267](https://www.govinfo.gov/link/statute/37/267).)*

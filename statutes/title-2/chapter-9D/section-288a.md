@@ -3,9 +3,10 @@ title: "Section 288a - Senate Joint Leadership Group"
 usc_title: 2
 usc_section: "288a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 288a"
-generated_at: "2026-03-30T02:53:04.794Z"
+generated_at: "2026-11-23T20:25:28.868Z"
+status: "active"
 ---
 
 # § 288a. Senate Joint Leadership Group
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:04.794Z"
   - **(3)** The Chairman and ranking minority Member of the Committee on the Judiciary of the Senate.
   - **(4)** The Chairman and ranking minority Member of the committee of the Senate which has jurisdiction over the contingent fund of the Senate.
 - **(c)** The Joint Leadership Group shall be assisted in the performance of its duties by the Secretary of the Senate.
+
+## Source Credit
+
+*([Pub. L. 95–521, title VII, § 702](https://www.govinfo.gov/link/plaw/95/public/521), Oct. 26, 1978, [92 Stat. 1877](https://www.govinfo.gov/link/statute/92/1877).)*

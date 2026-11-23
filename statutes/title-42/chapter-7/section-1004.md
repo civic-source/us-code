@@ -3,9 +3,10 @@ title: "Section 1004 - Disqualifications"
 usc_title: 42
 usc_section: "1004"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1004"
-generated_at: "2026-03-30T02:56:10.899Z"
+generated_at: "2026-11-23T20:27:20.956Z"
+status: "active"
 ---
 
 # § 1004. Disqualifications
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:10.899Z"
   - **(3)** during any part of which the individual violates a condition of probation or parole imposed under Federal or State law; or
   - **(4)** during which the individual resides in a foreign country and is not a citizen or national of the United States if payments for such month to individuals residing in such country are withheld by the Treasury Department under section 3329 of title 31 .
 - **(b)** For the purpose of carrying out subsection (a)(1), the Attorney General shall notify the Commissioner of Social Security as soon as practicable after the removal of any individual under section 1227(a) or 1182(a)(6)(A) of title 8.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title VIII, § 804, as added [Pub. L. 106–169, title II, § 251(a)](https://www.govinfo.gov/link/plaw/106/public/169), Dec. 14, 1999, [113 Stat. 1845](https://www.govinfo.gov/link/statute/113/1845); amended [Pub. L. 108–203, title II, § 203(c)](https://www.govinfo.gov/link/plaw/108/public/203), Mar. 2, 2004, [118 Stat. 511](https://www.govinfo.gov/link/statute/118/511).)*

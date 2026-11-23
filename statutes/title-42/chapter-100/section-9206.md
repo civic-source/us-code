@@ -3,9 +3,10 @@ title: "Section 9206 - Wind resource assessment"
 usc_title: 42
 usc_section: "9206"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9206"
-generated_at: "2026-03-30T02:56:11.351Z"
+generated_at: "2026-11-23T20:27:23.080Z"
+status: "active"
 ---
 
 # § 9206. Wind resource assessment
@@ -17,3 +18,7 @@ The Secretary shall initiate a three-year national wind resource assessment prog
   - **(3)** initiate a general site prospecting program;
   - **(4)** establish standard wind data collection and siting techniques; and
   - **(5)** establish, in consultation with the Administrator of the National Oceanic and Atmospheric Administration, the Administrator of the National Aeronautics and Space Administration, and the Administrator of the Environmental Protection Agency, a national wind data center which shall make public information available on the known wind energy resources of various regions throughout the United States.
+
+## Source Credit
+
+*([Pub. L. 96–345, § 7](https://www.govinfo.gov/link/plaw/96/public/345), Sept. 8, 1980, [94 Stat. 1143](https://www.govinfo.gov/link/statute/94/1143).)*

@@ -3,9 +3,10 @@ title: "Section 403b - Cost-of-living allowance in the continental United States
 usc_title: 37
 usc_section: "403b"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "37 U.S.C. § 403b"
-generated_at: "2026-03-30T02:55:44.057Z"
+generated_at: "2026-11-23T20:26:57.401Z"
+status: "active"
 ---
 
 # § 403b. Cost-of-living allowance in the continental United States
@@ -50,3 +51,41 @@ generated_at: "2026-03-30T02:55:44.057Z"
     - **(B)** The Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy.
     - **(C)** The Secretary of Commerce, with respect to the National Oceanic and Atmospheric Administration.
     - **(D)** The Secretary of Health and Human Services, with respect to the Public Health Service.
+
+Payment Authorized
+
+Eligible Members
+
+High Cost Area Defined
+
+Amount of Allowance
+
+Limitation to One Allowance
+
+Service Not Covered
+
+Average Spendable Income
+
+Joint Regulations
+
+Other Definitions
+
+Reductions
+
+Frequency
+
+Maximum reduction
+
+Limitations
+
+Implementation
+
+Increases
+
+Reporting
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title VI, § 602(a)(1)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2779](https://www.govinfo.gov/link/statute/108/2779); amended [Pub. L. 107–296, title XVII, § 1704(c)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314); [Pub. L. 107–314, div. A, title VI, § 654(b)(2)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2582](https://www.govinfo.gov/link/statute/116/2582); [Pub. L. 118–31, div. A, title VI, § 625](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 294](https://www.govinfo.gov/link/statute/137/294).)*

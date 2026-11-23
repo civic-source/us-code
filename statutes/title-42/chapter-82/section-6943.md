@@ -3,9 +3,10 @@ title: "Section 6943 - Requirements for approval of plans"
 usc_title: 42
 usc_section: "6943"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6943"
-generated_at: "2026-03-30T02:56:11.275Z"
+generated_at: "2026-11-23T20:27:22.746Z"
+status: "active"
 ---
 
 # § 6943. Requirements for approval of plans
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:11.275Z"
     - **(E)** comparison of the relative total costs between conserving resources and disposing of or recovering such waste; and
     - **(F)** studies of impediments to resource conservation or recovery, including business practices, transportation requirements, or storage difficulties.
 - **(d)** Notwithstanding any of the above requirements, it is the intention of this chapter and the planning process developed pursuant to this chapter that in determining the size of the waste-to-energy facility, adequate provision shall be given to the present and reasonably anticipated future needs of the recycling and resource recovery interest within the area encompassed by the planning process.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 4003](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 94–580, § 2](https://www.govinfo.gov/link/plaw/94/public/580), Oct. 21, 1976, [90 Stat. 2814](https://www.govinfo.gov/link/statute/90/2814); amended [Pub. L. 96–463, § 5(b)](https://www.govinfo.gov/link/plaw/96/public/463), Oct. 15, 1980, [94 Stat. 2056](https://www.govinfo.gov/link/statute/94/2056); [Pub. L. 96–482](https://www.govinfo.gov/link/plaw/96/public/482), §§ 18, 32(d), Oct. 21, 1980, [94 Stat. 2345](https://www.govinfo.gov/link/statute/94/2345), 2353; [Pub. L. 98–616, title III, § 301(b)](https://www.govinfo.gov/link/plaw/98/public/616), title V, § 502(h), Nov. 8, 1984, [98 Stat. 3267](https://www.govinfo.gov/link/statute/98/3267), 3277.)*

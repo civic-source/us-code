@@ -3,9 +3,10 @@ title: "Section 1873 - Annual reports"
 usc_title: 50
 usc_section: "1873"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 1873"
-generated_at: "2026-03-30T02:56:26.210Z"
+generated_at: "2026-11-23T20:27:30.793Z"
+status: "active"
 ---
 
 # § 1873. Annual reports
@@ -77,3 +78,7 @@ generated_at: "2026-03-30T02:56:26.210Z"
     - **(D)** section 1681v(a) of title 15 .
   - **(4)** The term “United States person” means a citizen of the United States or an alien lawfully admitted for permanent residence (as defined in section 1101(a) of title 8 ).
   - **(5)** The term “wire communication” has the meaning given that term under section 2510 of title 18 .
+
+## Source Credit
+
+*([Pub. L. 95–511, title VI, § 603](https://www.govinfo.gov/link/plaw/95/public/511), as added [Pub. L. 114–23, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/114/public/23), June 2, 2015, [129 Stat. 292](https://www.govinfo.gov/link/statute/129/292); amended [Pub. L. 115–118, title I, § 102(b)](https://www.govinfo.gov/link/plaw/115/public/118), Jan. 19, 2018, [132 Stat. 9](https://www.govinfo.gov/link/statute/132/9); [Pub. L. 118–49](https://www.govinfo.gov/link/plaw/118/public/49), §§ 11(a)(1), 12(a), 14(b), Apr. 20, 2024, [138 Stat. 878](https://www.govinfo.gov/link/statute/138/878), 879, 882.)*

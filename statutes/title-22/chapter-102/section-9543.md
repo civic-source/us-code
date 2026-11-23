@@ -3,9 +3,10 @@ title: "Section 9543 - Coordinating aid and assistance across Europe and Eurasia
 usc_title: 22
 usc_section: "9543"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9543"
-generated_at: "2026-03-30T02:55:05.468Z"
+generated_at: "2026-11-23T20:26:32.780Z"
+status: "active"
 ---
 
 # § 9543. Coordinating aid and assistance across Europe and Eurasia
@@ -49,3 +50,27 @@ generated_at: "2026-03-30T02:55:05.468Z"
     - **(B)** an assessment of whether the funding described in subparagraph (A) is commensurate with funding provided by the United States for those goals.
 - **(f)** Nothing in this section shall be construed to apply to or limit United States foreign assistance not provided using amounts available in the Countering Russian Influence Fund.
 - **(g)** In order to ensure that the United States Government is properly focused on combating corruption, improving rule of law, and building the capacity of civil society, media, and other nongovernmental organizations in countries described in subsection (b)(1), the Secretary of State shall establish a pilot program for Foreign Service officer positions focused on governance and anticorruption activities in such countries.
+
+Establishment
+
+Personnel.—
+
+Composition
+
+Staffing
+
+Director
+
+Deputy director
+
+Appropriate congressional committee defined
+
+Monitoring, Evaluation, and Learning Activities
+
+Definition
+
+Termination
+
+## Source Credit
+
+*([Pub. L. 115–44, title II, § 254](https://www.govinfo.gov/link/plaw/115/public/44), Aug. 2, 2017, [131 Stat. 928](https://www.govinfo.gov/link/statute/131/928); [Pub. L. 116–94, div. P, title XX, § 2004(d)(2)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3225](https://www.govinfo.gov/link/statute/133/3225).)*

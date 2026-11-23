@@ -3,9 +3,10 @@ title: "Section 1092a - Combined payment plan"
 usc_title: 20
 usc_section: "1092a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1092a"
-generated_at: "2026-03-30T02:54:48.136Z"
+generated_at: "2026-11-23T20:26:14.520Z"
+status: "active"
 ---
 
 # § 1092a. Combined payment plan
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:48.136Z"
 - **(g)** The status of an individual as an eligible combined payment plan borrower terminates upon receipt of a combined payment plan.
 - **(h)** No origination fee or insurance premium shall be charged to the borrower on any combined payment plan, and no origination fee or insurance premium shall be payable by the lender to the Secretary of Health and Human Services.
 - **(i)** Repayment of a combined payment plan shall commence within 60 days after the later of the date of acceptance of the lender’s offer to administer a combined payment plan, the making of the consolidation loan or the reissuance of any Health Education Assistance Loans pursuant to subsection (e).
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 485A](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title IV, § 407(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1484](https://www.govinfo.gov/link/statute/100/1484); amended [Pub. L. 100–50, § 15(12)](https://www.govinfo.gov/link/plaw/100/public/50), June 3, 1987, [101 Stat. 357](https://www.govinfo.gov/link/statute/101/357); [Pub. L. 111–39, title IV, § 407(b)(6)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1951](https://www.govinfo.gov/link/statute/123/1951).)*

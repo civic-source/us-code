@@ -3,9 +3,10 @@ title: "Section 8701 - Definitions"
 usc_title: 41
 usc_section: "8701"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 8701"
-generated_at: "2026-03-30T02:55:55.812Z"
+generated_at: "2026-11-23T20:27:04.487Z"
+status: "active"
 ---
 
 # § 8701. Definitions
@@ -23,3 +24,50 @@ In this chapter:
     - **(A)** means a person, other than the prime contractor, that offers to furnish or furnishes supplies, materials, equipment, or services of any kind under a prime contract or a subcontract entered into in connection with the prime contract; and
     - **(B)** includes a person that offers to furnish or furnishes general supplies to the prime contractor or a higher tier subcontractor.
   - **(9)** The term “subcontractor employee” means an officer, partner, employee, or agent of a subcontractor.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 8701 | 41:52. | Mar. 8, 1946, ch. 80, § 2 , 60 Stat. 37 ; Pub. L. 86–695 , Sept. 2, 1960 , 74 Stat. 740 ; Pub. L. 99–634, § 2(a) , Nov. 7, 1986 , 100 Stat. 3523 . |
+
+
+Contracting agency
+
+Kickback
+
+Person
+
+Prime contract
+
+Prime contractor
+
+Prime contractor employee
+
+Subcontract
+
+Subcontractor
+
+Subcontractor employee
+
+Historical and Revision Notes
+
+8701
+
+Mar. 8, 1946, ch. 80, § 2
+
+60 Stat. 37
+
+Pub. L. 86–695
+
+Sept. 2, 1960
+
+74 Stat. 740
+
+Pub. L. 99–634, § 2(a)
+
+Nov. 7, 1986
+
+100 Stat. 3523
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3838](https://www.govinfo.gov/link/statute/124/3838).)*

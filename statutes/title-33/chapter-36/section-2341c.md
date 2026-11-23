@@ -3,9 +3,10 @@ title: "Section 2341c - Criteria for funding environmental infrastructure projec
 usc_title: 33
 usc_section: "2341c"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2341c"
-generated_at: "2026-03-30T02:55:41.126Z"
+generated_at: "2026-11-23T20:26:54.193Z"
+status: "active"
 ---
 
 # § 2341c. Criteria for funding environmental infrastructure projects
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:41.126Z"
   - **(6)** any other criteria that the Secretary considers to be appropriate.
 - **(c)** The Secretary shall include the criteria developed under subsection (a) in the annual Civil Works Direct Program Development Policy Guidance of the Secretary.
 - **(d)** For fiscal year 2022, and biennially thereafter, in conjunction with the President’s annual budget submission to Congress under section 1105(a) of title 31 , the Secretary shall submit to the Committee on Environment and Public Works and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives a report that identifies the Secretary’s ranking of individual environmental assistance projects authorized by Congress for the Secretary to carry out, in accordance with the criteria developed under this section.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. AA, title I, § 137](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2650](https://www.govinfo.gov/link/statute/134/2650).)*

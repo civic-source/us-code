@@ -3,9 +3,10 @@ title: "Section 3911 - Congressional declaration of policy"
 usc_title: 20
 usc_section: "3911"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 3911"
-generated_at: "2026-03-30T02:54:48.181Z"
+generated_at: "2026-11-23T20:26:14.745Z"
+status: "active"
 ---
 
 # § 3911. Congressional declaration of policy
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:48.181Z"
   - **(4)** to encourage partnerships in education between local and State education agencies, business and industry, colleges and universities, and cultural and professional institutions and societies; and
   - **(5)** to improve the quality of education at all levels in the fields of mathematics, science, and engineering.
 - **(b)** In exercising its responsibilities to strengthen scientific and engineering research potential and science and engineering education programs at all levels, the Foundation shall avoid undue concentration of support for research and education activities.
+
+## Source Credit
+
+*([Pub. L. 98–377, title I, § 101](https://www.govinfo.gov/link/plaw/98/public/377), as added [Pub. L. 99–159, title II, § 201](https://www.govinfo.gov/link/plaw/99/public/159), Nov. 22, 1985, [99 Stat. 893](https://www.govinfo.gov/link/statute/99/893).)*

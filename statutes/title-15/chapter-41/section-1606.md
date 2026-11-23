@@ -3,9 +3,10 @@ title: "Section 1606 - Determination of annual percentage rate"
 usc_title: 15
 usc_section: "1606"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1606"
-generated_at: "2026-03-30T02:54:08.138Z"
+generated_at: "2026-11-23T20:26:04.031Z"
+status: "active"
 ---
 
 # § 1606. Determination of annual percentage rate
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:08.138Z"
 - **(c)** The disclosure of an annual percentage rate is accurate for the purpose of this subchapter if the rate disclosed is within a tolerance not greater than one-eighth of 1 per centum more or less than the actual rate or rounded to the nearest one-fourth of 1 per centum. The Bureau may allow a greater tolerance to simplify compliance where irregular payments are involved.
 - **(d)** The Bureau may authorize the use of rate tables or charts which may provide for the disclosure of annual percentage rates which vary from the rate determined in accordance with subsection (a)(1)(A) by not more than such tolerances as the Bureau may allow. The Bureau may not allow a tolerance greater than 8 per centum of that rate except to simplify compliance where irregular payments are involved.
 - **(e)** In the case of creditors determining the annual percentage rate in a manner other than as described in subsection (d), the Bureau may authorize other reasonable tolerances.
+
+## Source Credit
+
+*([Pub. L. 90–321, title I, § 107](https://www.govinfo.gov/link/plaw/90/public/321), May 29, 1968, [82 Stat. 149](https://www.govinfo.gov/link/statute/82/149); [Pub. L. 96–221, title VI, § 607](https://www.govinfo.gov/link/plaw/96/public/221), Mar. 31, 1980, [94 Stat. 170](https://www.govinfo.gov/link/statute/94/170); [Pub. L. 111–203, title X, § 1100A(2)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2107](https://www.govinfo.gov/link/statute/124/2107).)*

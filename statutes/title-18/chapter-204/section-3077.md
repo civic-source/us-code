@@ -3,9 +3,10 @@ title: "Section 3077 - Definitions"
 usc_title: 18
 usc_section: "3077"
 chapter: 204
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 3077"
-generated_at: "2026-03-30T02:54:16.511Z"
+generated_at: "2026-11-23T20:26:08.652Z"
+status: "active"
 ---
 
 # § 3077. Definitions
@@ -28,3 +29,7 @@ As used in this chapter, the term—
   - **(8)** “act of espionage” means an activity that is a violation of—
     - **(A)** section 793, 794, or 798 of this title; or
     - **(B)** section 4 of the Subversive Activities Control Act of 1950.
+
+## Source Credit
+
+*(Added [Pub. L. 98–533, title I, § 101(a)](https://www.govinfo.gov/link/plaw/98/public/533), Oct. 19, 1984, [98 Stat. 2707](https://www.govinfo.gov/link/statute/98/2707); amended [Pub. L. 100–690, title VII, § 7051](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4401](https://www.govinfo.gov/link/statute/102/4401); [Pub. L. 101–647, title XXXV, § 3572](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4929](https://www.govinfo.gov/link/statute/104/4929); [Pub. L. 103–322, title XXXIII, § 330021(1)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2150](https://www.govinfo.gov/link/statute/108/2150); [Pub. L. 103–359, title VIII, § 803(b)](https://www.govinfo.gov/link/plaw/103/public/359), Oct. 14, 1994, [108 Stat. 3439](https://www.govinfo.gov/link/statute/108/3439); [Pub. L. 104–294, title VI, § 605(g)](https://www.govinfo.gov/link/plaw/104/public/294), Oct. 11, 1996, [110 Stat. 3510](https://www.govinfo.gov/link/statute/110/3510); [Pub. L. 107–56, title VIII, § 802(b)](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 376](https://www.govinfo.gov/link/statute/115/376).)*

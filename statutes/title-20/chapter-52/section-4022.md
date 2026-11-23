@@ -3,9 +3,10 @@ title: "Section 4022 - Asbestos Trust Fund"
 usc_title: 20
 usc_section: "4022"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 4022"
-generated_at: "2026-03-30T02:54:48.182Z"
+generated_at: "2026-11-23T20:26:14.754Z"
+status: "active"
 ---
 
 # § 4022. Asbestos Trust Fund
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:48.182Z"
     - **(A)** Advances made under this subsection shall be repaid, and interest on such advances shall be paid, to the general fund of the Treasury when the Secretary determines that moneys are available for such purposes in the Asbestos Trust Fund.
     - **(B)** Interest on advances made under this subsection shall be at a rate determined by the Secretary (as of the close of the calendar month preceding the month in which the advance is made) to be equal to the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the anticipated period during which the advance will be outstanding and shall be compounded annually.
 - **(f)** The amendments made by this section shall take effect on January 1, 1986 .
+
+## Source Credit
+
+*([Pub. L. 99–519, § 5](https://www.govinfo.gov/link/plaw/99/public/519), Oct. 22, 1986, [100 Stat. 2990](https://www.govinfo.gov/link/statute/100/2990); [Pub. L. 101–637, § 12](https://www.govinfo.gov/link/plaw/101/public/637), Nov. 28, 1990, [104 Stat. 4593](https://www.govinfo.gov/link/statute/104/4593); [Pub. L. 104–66, title I, § 1131(c)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 725](https://www.govinfo.gov/link/statute/109/725).)*

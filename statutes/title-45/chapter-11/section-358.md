@@ -3,9 +3,10 @@ title: "Section 358 - Contributions"
 usc_title: 45
 usc_section: "358"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 358"
-generated_at: "2026-03-30T02:55:56.549Z"
+generated_at: "2026-11-23T20:27:05.280Z"
+status: "active"
 ---
 
 # § 358. Contributions
@@ -21,10 +22,24 @@ generated_at: "2026-03-30T02:55:56.549Z"
       - **(i)** Except as provided in clause (vi), with respect to compensation paid in calendar years 1988, 1989, and 1990, the contribution rate shall be 8 percent.
       - **(ii)** With respect to compensation paid in calendar year 1991, the contribution rate shall be the smaller of—
         - **(I)** the maximum contribution limit computed under paragraph (20); or
-        - **(II)** the percentage computed pursuant to the following formula: 2A+B R= ——— 3
+        - **(II)** the percentage computed pursuant to the following formula:
+
+|  | Col 2 | Col 3 | Col 4 |
+| --- | --- | --- | --- |
+|  |  | 2A+B |  |
+|  | R= | ——— |  |
+|  |  | 3 |  |
+
       - **(iii)** With respect to compensation paid in calendar year 1992, the contribution rate shall be the smaller of—
         - **(I)** the maximum contribution limit computed under paragraph (20); or
-        - **(II)** the percentage computed pursuant to the following formula: A+2C R= ——— 3
+        - **(II)** the percentage computed pursuant to the following formula:
+
+|  | Col 2 | Col 3 | Col 4 |
+| --- | --- | --- | --- |
+|  |  | A+2C |  |
+|  | R= | ——— |  |
+|  |  | 3 |  |
+
       - **(iv)** For purposes of the formulas in clauses (ii) and (iii)—
         - **(I)** “R” is the applicable contribution rate expressed as a percentage for months in the calendar year;
         - **(II)** “A” is the contribution rate determined under clause (i);
@@ -49,10 +64,24 @@ generated_at: "2026-03-30T02:55:56.549Z"
         - **(II)** by multiplying the resulting ratio as computed to 4 decimal points by 100.
       - **(ii)** With respect to compensation paid in calendar months in the next calendar year, the contribution rate shall be the smaller of—
         - **(I)** the maximum contribution limit computed under paragraph (20); or
-        - **(II)** the percentage rate computed pursuant to the following formula: 2(A2)+B R= A ————  3
+        - **(II)** the percentage rate computed pursuant to the following formula:
+
+|  | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  | 2(A2)+B |  |  |
+|  | R= | A | ———— |  |  |
+|  |  |  | 3 |  |  |
+
       - **(iii)** With respect to compensation paid in calendar months in the third full calendar year in which the employer is subject to the coverage of this chapter, the contribution rate shall be the smaller of—
         - **(I)** the maximum contribution limit computed under paragraph (20); or
-        - **(II)** the percentage rate computed pursuant to the following formula: A3+2C R= ——— 3
+        - **(II)** the percentage rate computed pursuant to the following formula:
+
+|  | Col 2 | Col 3 | Col 4 |
+| --- | --- | --- | --- |
+|  |  | A3+2C |  |
+|  | R= | ——— |  |
+|  |  | 3 |  |
+
       - **(iv)** With respect to all calendar months in calendar years subsequent to that calendar year, the contribution rate shall be determined under subparagraph (C).
       - **(v)** For purposes of the formulas in clauses (ii) and (iii)—
         - **(I)** “R” is the applicable contribution rate expressed as a percentage for months in the calendar year;
@@ -152,3 +181,42 @@ generated_at: "2026-03-30T02:55:56.549Z"
 - **(i)** The contributions required by this chapter shall be collected by the Board and shall be deposited by it with the Secretary of the Treasury of the United States, such part thereof as equals 0.65 per centum of the total compensation on which such contributions are based to be deposited to the credit of the fund and the balance to be deposited to the credit of the account.
 - **(j)** The contributions required by this chapter shall be collected and paid quarterly or at such other times and in such manner and under such conditions not inconsistent with this chapter as may be prescribed by regulations of the Board, and shall not be deducted, in whole or in part, from the compensation of employees in the employer’s employ. If a contribution required by this chapter is not paid when due, there shall be added to the amount payable (except in the case of adjustments made in accordance with the provisions of this chapter) interest at the rate of 1 per centum per month or fraction of a month from the date the contribution became due until paid. Any interest collected pursuant to this subsection shall be credited to the account.
 - **(k)** All provisions of law, including penalties, applicable with respect to any tax imposed by the provisions of the Railroad Retirement Tax Act [ 26 U.S.C. 3201 et seq.], insofar as applicable and not inconsistent with the provisions of this chapter, shall be applicable with respect to the contributions required by this chapter: Provided , That all authority and functions conferred by or pursuant to such provisions upon any officer or employee of the United States, except the authority to institute and prosecute, and the function of instituting and prosecuting, criminal proceedings, shall, with respect to such contributions, be vested in and exercised by the Board or such officers and employees of the Board as it may designate therefor. The remedies available under the first sentence of this subsection for an employer or employee representative who contests the amount of contributions payable by him shall also apply with respect to a contention that the contribution rate determined by the Board under subsection (a) or (b) to be applicable to such employer or employee representative is inaccurate or otherwise improper.
+
+|  | Col 2 |
+| --- | --- |
+| “$300,000,000 or more | 0.5 |
+| $200,000,000 or more but less than $300,000,000 | 4.0 |
+| $100,000,000 or more but less than $200,000,000 | 5.5 |
+| $50,000,000 or more but less than $100,000,000 | 7.0 |
+| Less than $50,000,000 | 8.0” |
+| for prior provisions reading: |  |
+| “$450,000,000 or more | 1½ |
+| $400,000,000 or more but less than $450,000,000 | 2 |
+| $350,000,000 or more but less than $400,000,000 | 2½ |
+| $300,000,000 or more but less than $350,000,000 | 3 |
+| Less than $300,000,000 | 4” |
+
+
+“$300,000,000 or more
+
+$200,000,000 or more but less than $300,000,000
+
+$100,000,000 or more but less than $200,000,000
+
+$50,000,000 or more but less than $100,000,000
+
+Less than $50,000,000
+
+“$450,000,000 or more
+
+$400,000,000 or more but less than $450,000,000
+
+$350,000,000 or more but less than $400,000,000
+
+$300,000,000 or more but less than $350,000,000
+
+Less than $300,000,000
+
+## Source Credit
+
+*(June 25, 1938, ch. 680, § 8, [52 Stat. 1102](https://www.govinfo.gov/link/statute/52/1102); July 31, 1946, ch. 709, § 318, [60 Stat. 739](https://www.govinfo.gov/link/statute/60/739); June 23, 1948, ch. 608, §§ 4, 5(a), 6, [62 Stat. 577](https://www.govinfo.gov/link/statute/62/577), 578; Aug. 31, 1954, ch. 1164, pt. III, §§ 305, 306, [68 Stat. 1042](https://www.govinfo.gov/link/statute/68/1042); [Pub. L. 85–927](https://www.govinfo.gov/link/plaw/85/public/927), pt. II, § 203, Sept. 6, 1958, [72 Stat. 1782](https://www.govinfo.gov/link/statute/72/1782); [Pub. L. 86–28](https://www.govinfo.gov/link/plaw/86/public/28), pt. III, §§ 306, 307, May 19, 1959, [73 Stat. 32](https://www.govinfo.gov/link/statute/73/32); [Pub. L. 88–133, title III](https://www.govinfo.gov/link/plaw/88/public/133), §§ 303(a), 304, Oct. 5, 1963, [77 Stat. 222](https://www.govinfo.gov/link/statute/77/222), 223; [Pub. L. 89–700, title II, § 204](https://www.govinfo.gov/link/plaw/89/public/700), title III, § 301(i), (ii), Oct. 30, 1966, [80 Stat. 1087](https://www.govinfo.gov/link/statute/80/1087), 1088; [Pub. L. 94–92, title I, § 1(g)](https://www.govinfo.gov/link/plaw/94/public/92), (h), Aug. 9, 1975, [89 Stat. 463](https://www.govinfo.gov/link/statute/89/463); [Pub. L. 97–35, title XI, § 1128(b)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 641](https://www.govinfo.gov/link/statute/95/641); [Pub. L. 98–76, title V, § 503(a)](https://www.govinfo.gov/link/plaw/98/public/76), Aug. 12, 1983, [97 Stat. 440](https://www.govinfo.gov/link/statute/97/440); [Pub. L. 100–647, title VII](https://www.govinfo.gov/link/plaw/100/public/647), §§ 7102(a)–(d), 7103(a), Nov. 10, 1988, [102 Stat. 3759–3770](https://www.govinfo.gov/link/statute/102/3759); [Pub. L. 101–322, § 8(a)](https://www.govinfo.gov/link/plaw/101/public/322), July 6, 1990, [104 Stat. 297](https://www.govinfo.gov/link/statute/104/297).)*

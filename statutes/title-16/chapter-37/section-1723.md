@@ -3,9 +3,10 @@ title: "Section 1723 - Public Lands Corps program"
 usc_title: 16
 usc_section: "1723"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1723"
-generated_at: "2026-03-30T02:54:22.982Z"
+generated_at: "2026-11-23T20:26:20.542Z"
+status: "active"
 ---
 
 # § 1723. Public Lands Corps program
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:22.982Z"
   - **(5)** will provide academic, experiential, or environmental education opportunities.
 - **(f)** Each appropriate conservation project carried out under this subchapter on eligible service lands shall be consistent with the provisions of law and policies relating to the management and administration of such lands, with all other applicable provisions of law, and with all management, operational, and other plans and documents which govern the administration of the area.
 - **(g)** Nothing in this section authorizes the use of the Public Lands Corps for projects on or impacting real property owned by, operated by, or within the custody, control, or administrative jurisdiction of the Administrator of General Services without the express permission of the Administrator of General Services.
+
+## Source Credit
+
+*([Pub. L. 91–378, title II, § 204](https://www.govinfo.gov/link/plaw/91/public/378), as added [Pub. L. 103–82, title I, § 105(6)](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 850](https://www.govinfo.gov/link/statute/107/850); amended [Pub. L. 109–154, § 2(b)](https://www.govinfo.gov/link/plaw/109/public/154), (c), (g)(1), Dec. 30, 2005, [119 Stat. 2891](https://www.govinfo.gov/link/statute/119/2891), 2893; [Pub. L. 114–289, title III, § 302(2)](https://www.govinfo.gov/link/plaw/114/public/289), Dec. 16, 2016, [130 Stat. 1487](https://www.govinfo.gov/link/statute/130/1487); [Pub. L. 116–9, title IX, § 9003(b)](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 833](https://www.govinfo.gov/link/statute/133/833).)*

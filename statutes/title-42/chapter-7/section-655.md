@@ -3,9 +3,10 @@ title: "Section 655 - Payments to States"
 usc_title: 42
 usc_section: "655"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 655"
-generated_at: "2026-03-30T02:56:10.883Z"
+generated_at: "2026-11-23T20:27:20.881Z"
+status: "active"
 ---
 
 # § 655. Payments to States
@@ -79,3 +80,13 @@ generated_at: "2026-03-30T02:56:10.883Z"
   - **(4)** Amounts expended by a State in carrying out a special project assisted under this section shall be considered, for purposes of section 658(b) 2 2 See References in Text note below. of this title (as amended by section 5(a) of the Child Support Enforcement Amendments of 1984), to have been expended for the operation of the State’s plan approved under section 654 of this title .
   - **(5)** There is authorized to be appropriated the sum of $7,000,000 for fiscal year 1985, $12,000,000 for fiscal year 1986, and $15,000,000 for each fiscal year thereafter, to be used by the Secretary in making grants under this subsection.
 - **(f)** The Secretary may make direct payments under this part to an Indian tribe or tribal organization that demonstrates to the satisfaction of the Secretary that it has the capacity to operate a child support enforcement program meeting the objectives of this part, including establishment of paternity, establishment, modification, and enforcement of support orders, and location of absent parents. The Secretary shall promulgate regulations establishing the requirements which must be met by an Indian tribe or tribal organization to be eligible for a grant under this subsection.
+
+In general
+
+Allocation of limitation among states
+
+Allocation formula
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 455, as added [Pub. L. 93–647, § 101(a)](https://www.govinfo.gov/link/plaw/93/public/647), Jan. 4, 1975, [88 Stat. 2355](https://www.govinfo.gov/link/statute/88/2355); amended [Pub. L. 94–88, title II](https://www.govinfo.gov/link/plaw/94/public/88), §§ 201(c), 205, Aug. 9, 1975, [89 Stat. 433](https://www.govinfo.gov/link/statute/89/433), 435; [Pub. L. 94–365, § 3](https://www.govinfo.gov/link/plaw/94/public/365), July 14, 1976, [90 Stat. 990](https://www.govinfo.gov/link/statute/90/990); [Pub. L. 95–59, § 4](https://www.govinfo.gov/link/plaw/95/public/59), June 30, 1977, [91 Stat. 255](https://www.govinfo.gov/link/statute/91/255); [Pub. L. 96–178, § 2(a)](https://www.govinfo.gov/link/plaw/96/public/178), Jan. 2, 1980, [93 Stat. 1295](https://www.govinfo.gov/link/statute/93/1295); [Pub. L. 96–265, title IV](https://www.govinfo.gov/link/plaw/96/public/265), §§ 404(a), 405(a), 407(a), (b), June 9, 1980, [94 Stat. 463](https://www.govinfo.gov/link/statute/94/463), 467; [Pub. L. 96–611](https://www.govinfo.gov/link/plaw/96/public/611), §§ 9(c), 11(c), Dec. 28, 1980, [94 Stat. 3573](https://www.govinfo.gov/link/statute/94/3573), 3574; [Pub. L. 97–35, title XXIII, § 2333(c)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 863](https://www.govinfo.gov/link/statute/95/863); [Pub. L. 97–248, title I](https://www.govinfo.gov/link/plaw/97/public/248), §§ 171(b)(2), 174(a), (b), Sept. 3, 1982, [96 Stat. 401](https://www.govinfo.gov/link/statute/96/401), 403; [Pub. L. 98–378](https://www.govinfo.gov/link/plaw/98/public/378), §§ 4(a), 6(b), 8, Aug. 16, 1984, [98 Stat. 1311](https://www.govinfo.gov/link/statute/98/1311), 1314, 1315; [Pub. L. 100–485, title I](https://www.govinfo.gov/link/plaw/100/public/485), §§ 112(a), 123(c), Oct. 13, 1988, [102 Stat. 2350](https://www.govinfo.gov/link/statute/102/2350), 2352; [Pub. L. 104–193, title III](https://www.govinfo.gov/link/plaw/104/public/193), §§ 344(b)(1), (c), 375(b), 395(d)(1)(E), Aug. 22, 1996, [110 Stat. 2236](https://www.govinfo.gov/link/statute/110/2236), 2237, 2256, 2259; [Pub. L. 105–33, title V](https://www.govinfo.gov/link/plaw/105/public/33), §§ 5546(b), (c), 5555(a), Aug. 5, 1997, [111 Stat. 631](https://www.govinfo.gov/link/statute/111/631), 632, 636; [Pub. L. 105–200, title I](https://www.govinfo.gov/link/plaw/105/public/200), §§ 101(a), 102(b), title II, § 201(f)(2)(B), July 16, 1998, [112 Stat. 646](https://www.govinfo.gov/link/statute/112/646), 648, 658; [Pub. L. 105–306, § 4(a)(1)](https://www.govinfo.gov/link/plaw/105/public/306), Oct. 28, 1998, [112 Stat. 2926](https://www.govinfo.gov/link/statute/112/2926); [Pub. L. 106–113, div. B, § 1000(a)(4) [title VIII, § 807(a)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1535](https://www.govinfo.gov/link/statute/113/1535), 1501A–286; [Pub. L. 106–169, title IV, § 401(i)](https://www.govinfo.gov/link/plaw/106/public/169), Dec. 14, 1999, [113 Stat. 1858](https://www.govinfo.gov/link/statute/113/1858); [Pub. L. 109–171, title VII](https://www.govinfo.gov/link/plaw/109/public/171), §§ 7308(a), 7309(a), Feb. 8, 2006, [120 Stat. 147](https://www.govinfo.gov/link/statute/120/147).)*

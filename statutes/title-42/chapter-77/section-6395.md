@@ -3,9 +3,10 @@ title: "Section 6395 - Enforcement"
 usc_title: 42
 usc_section: "6395"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6395"
-generated_at: "2026-03-30T02:56:11.261Z"
+generated_at: "2026-11-23T20:27:22.679Z"
+status: "active"
 ---
 
 # § 6395. Enforcement
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.261Z"
     - **(D)** Section 6273 of this title (relating to advisory committees).
     - **(E)** Section 6274 of this title (relating to international exchange of information).
     - **(F)** Section 6391 of this title (relating to prohibition on certain actions).
+
+## Source Credit
+
+*([Pub. L. 94–163, title V, § 525](https://www.govinfo.gov/link/plaw/94/public/163), Dec. 22, 1975, [89 Stat. 963](https://www.govinfo.gov/link/statute/89/963).)*

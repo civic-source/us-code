@@ -3,9 +3,10 @@ title: "Section 5515 - Missile defense and defeat programs: major force program 
 usc_title: 10
 usc_section: "5515"
 chapter: 551
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 5515"
-generated_at: "2026-03-30T02:53:38.217Z"
+generated_at: "2026-11-23T20:25:52.002Z"
+status: "active"
 ---
 
 # § 5515. Missile defense and defeat programs: major force program and budget assessment
@@ -24,3 +25,13 @@ generated_at: "2026-03-30T02:53:38.217Z"
   - **(1)** The term “budget”, with respect to a fiscal year, means the budget for that fiscal year that is submitted to Congress by the President under section 1105(a) of title 31 .
   - **(2)** The term “defense budget materials”, with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
   - **(3)** The term “missile defense and defeat programs” means active and passive ballistic missile defense programs, cruise missile defense programs for the homeland, and missile defeat programs.
+
+Establishment of Major Force Program
+
+Budget Assessment
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 118–159, div. A, title XVI, § 1649(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2193](https://www.govinfo.gov/link/statute/138/2193).)*

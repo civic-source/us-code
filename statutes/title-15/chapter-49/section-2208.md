@@ -3,9 +3,10 @@ title: "Section 2208 - National Fire Data Center"
 usc_title: 15
 usc_section: "2208"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2208"
-generated_at: "2026-03-30T02:54:08.168Z"
+generated_at: "2026-11-23T20:26:04.177Z"
+status: "active"
 ---
 
 # § 2208. National Fire Data Center
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:08.168Z"
 - **(e)** The collection, storage, and transfer of any medical data collected under this section shall be conducted in accordance with—
   - **(1)** the privacy regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 ( 42 U.S.C. 1320d–2 note; Public Law 104–191 ); and
   - **(2)** other applicable regulations, including parts 160, 162, and 164 of title 45, Code of Federal Regulations (as in effect on March 12, 2019 ).
+
+## Source Credit
+
+*([Pub. L. 93–498, § 9](https://www.govinfo.gov/link/plaw/93/public/498), Oct. 29, 1974, [88 Stat. 1541](https://www.govinfo.gov/link/statute/88/1541); [Pub. L. 110–376, § 5](https://www.govinfo.gov/link/plaw/110/public/376), Oct. 8, 2008, [122 Stat. 4059](https://www.govinfo.gov/link/statute/122/4059); [Pub. L. 112–239, div. A, title XVIII, § 1815](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2118](https://www.govinfo.gov/link/statute/126/2118); [Pub. L. 116–9, title I, § 1114(g)](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 617](https://www.govinfo.gov/link/statute/133/617).)*

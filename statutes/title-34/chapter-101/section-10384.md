@@ -3,9 +3,10 @@ title: "Section 10384 - Limitation on use of funds"
 usc_title: 34
 usc_section: "10384"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10384"
-generated_at: "2026-03-30T02:55:33.267Z"
+generated_at: "2026-11-23T20:26:50.463Z"
+status: "active"
 ---
 
 # § 10384. Limitation on use of funds
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:33.267Z"
     - **(A)** clarifies that covered applicants remain eligible for funding under this subchapter; and
     - **(B)** enables covered applicants to attest that the funding from a grant awarded under this subchapter is not being used by the law enforcement agency to supplant State or local funds, as described in subsection (a).
   - **(3)** In developing the procedures and guidance under paragraph (2), the Attorney General shall take measures to reduce paperwork requirements for grants to covered applicants.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 1704](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 103–322, title I, § 10003(a)(3)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1812](https://www.govinfo.gov/link/statute/108/1812); amended [Pub. L. 118–64, § 5](https://www.govinfo.gov/link/plaw/118/public/64), May 24, 2024, [138 Stat. 1436](https://www.govinfo.gov/link/statute/138/1436).)*

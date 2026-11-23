@@ -3,9 +3,10 @@ title: "Section 2435 - Unlawful activities"
 usc_title: 16
 usc_section: "2435"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 2435"
-generated_at: "2026-03-30T02:54:23.002Z"
+generated_at: "2026-11-23T20:26:20.608Z"
+status: "active"
 ---
 
 # § 2435. Unlawful activities
@@ -19,3 +20,7 @@ It is unlawful for any person—
   - **(5)** to assault, resist, oppose, impede, intimidate, or interfere with any authorized officer or employee of the United States in the conduct of any search, investigation, or inspection described in paragraph (4);
   - **(6)** to resist a lawful arrest or detention for any act prohibited by this section; or
   - **(7)** to interfere with, delay, or prevent, by any means, the apprehension, arrest, or detention of another person, knowing that such other person has committed any act prohibited by this section.
+
+## Source Credit
+
+*([Pub. L. 98–623, title III, § 306](https://www.govinfo.gov/link/plaw/98/public/623), Nov. 8, 1984, [98 Stat. 3401](https://www.govinfo.gov/link/statute/98/3401); [Pub. L. 114–81, title I, § 106(1)](https://www.govinfo.gov/link/plaw/114/public/81), Nov. 5, 2015, [129 Stat. 657](https://www.govinfo.gov/link/statute/129/657).)*

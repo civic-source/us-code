@@ -3,9 +3,10 @@ title: "Section 1264 - Penalties; exceptions"
 usc_title: 15
 usc_section: "1264"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1264"
-generated_at: "2026-03-30T02:54:08.131Z"
+generated_at: "2026-11-23T20:26:03.985Z"
+status: "active"
 ---
 
 # § 1264. Penalties; exceptions
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:08.131Z"
         - **(I)** the Consumer Price Index for the month of June of the calendar year preceding the adjustment; exceeds
         - **(II)** the Consumer Price Index for the month of June preceding the date on which the maximum authorized penalty was last adjusted.
 - **(d)** In the case of an attorney general of a State alleging a violation that affects or may affect such State or its residents, such attorney general may bring a civil action for an injunction to enforce any requirement of this chapter relating to misbranded or banned hazardous substances. The procedural requirements of section 2073 of this title shall apply to any such action.
+
+## Source Credit
+
+*([Pub. L. 86–613, § 5](https://www.govinfo.gov/link/plaw/86/public/613), July 12, 1960, [74 Stat. 376](https://www.govinfo.gov/link/statute/74/376); [Pub. L. 89–756](https://www.govinfo.gov/link/plaw/89/public/756), §§ 2(g), 3(c), Nov. 3, 1966, [80 Stat. 1304](https://www.govinfo.gov/link/statute/80/1304), 1305; [Pub. L. 95–631, § 7(b)](https://www.govinfo.gov/link/plaw/95/public/631), Nov. 10, 1978, [92 Stat. 3745](https://www.govinfo.gov/link/statute/92/3745); [Pub. L. 101–608, title I](https://www.govinfo.gov/link/plaw/101/public/608), §§ 115(b), 118(a), Nov. 16, 1990, [104 Stat. 3119](https://www.govinfo.gov/link/statute/104/3119), 3121; [Pub. L. 110–314, title II](https://www.govinfo.gov/link/plaw/110/public/314), §§ 204(b)(4)(B), (H), 217(a)(2), (b)(1)(B), (c)(3), Aug. 14, 2008, [122 Stat. 3041](https://www.govinfo.gov/link/statute/122/3041), 3042, 3058, 3059, 3060.)*

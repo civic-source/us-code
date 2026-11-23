@@ -3,9 +3,10 @@ title: "Section 3362 - Emergency purchase authority"
 usc_title: 15
 usc_section: "3362"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 3362"
-generated_at: "2026-03-30T02:54:08.188Z"
+generated_at: "2026-11-23T20:26:04.280Z"
+status: "active"
 ---
 
 # § 3362. Emergency purchase authority
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:08.188Z"
 - **(c)** The President may, by order, require any pipeline to transport natural gas, and to construct and operate such facilities for the transportation of natural gas, as he determines necessary to carry out any contract authorized under subsection (a). The costs of any construction or transportation ordered under this subsection shall be paid by the purchaser of natural gas under the contract with respect to which such order is issued. No order to transport natural gas under this subsection shall require any pipeline to transport natural gas in excess of such pipeline’s available capacity.
 - **(d)** The Commission shall require any interstate pipeline or local distribution company contracting under the authority of this section for natural gas to maintain and make available full and adequate records concerning transactions under this section, including records of the volumes of natural gas purchased under the authority of this section and the rates and charges for purchase and receipt of such natural gas.
 - **(e)** No sale under any emergency purchase contract under this section for emergency supplies of natural gas for sale and delivery from any intrastate pipeline which is operating under court supervision as of January 1, 1977 , may take effect unless the court approves.
+
+## Source Credit
+
+*([Pub. L. 95–621, title III, § 302](https://www.govinfo.gov/link/plaw/95/public/621), Nov. 9, 1978, [92 Stat. 3382](https://www.govinfo.gov/link/statute/92/3382).)*

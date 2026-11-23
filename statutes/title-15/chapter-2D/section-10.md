@@ -3,9 +3,10 @@ title: "Section 10 - Disclosure of information by Commission"
 usc_title: 15
 usc_section: "10"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 10"
-generated_at: "2026-03-30T02:54:08.072Z"
+generated_at: "2026-11-23T20:26:03.644Z"
+status: "active"
 ---
 
 # § 80b–10. Disclosure of information by Commission
@@ -15,3 +16,15 @@ generated_at: "2026-03-30T02:54:08.072Z"
   - **(1)** in the case of any hearing which is public under the provisions of section 80b–12 of this title ; or
   - **(2)** in the case of a resolution or request from either House of Congress.
 - **(c)** No provision of this subchapter shall be construed to require, or to authorize the Commission to require any investment adviser engaged in rendering investment supervisory services to disclose the identity, investments, or affairs of any client of such investment adviser, except insofar as such disclosure may be necessary or appropriate in a particular proceeding or investigation having as its object the enforcement of a provision or provisions of this subchapter or for purposes of assessment of potential systemic risk.
+
+Study.—
+
+In general
+
+Contents
+
+Implementation
+
+## Source Credit
+
+*(Aug. 22, 1940, ch. 686, title II, § 210, [54 Stat. 854](https://www.govinfo.gov/link/statute/54/854); [Pub. L. 86–750, § 13](https://www.govinfo.gov/link/plaw/86/public/750), Sept. 13, 1960, [74 Stat. 887](https://www.govinfo.gov/link/statute/74/887); [Pub. L. 101–550, title II, § 202(b)(2)](https://www.govinfo.gov/link/plaw/101/public/550), Nov. 15, 1990, [104 Stat. 2715](https://www.govinfo.gov/link/statute/104/2715); [Pub. L. 111–203, title IV, § 405](https://www.govinfo.gov/link/plaw/111/public/203), title IX, § 929I(c), July 21, 2010, [124 Stat. 1574](https://www.govinfo.gov/link/statute/124/1574), 1858; [Pub. L. 111–257, § 1(c)](https://www.govinfo.gov/link/plaw/111/public/257), Oct. 5, 2010, [124 Stat. 2646](https://www.govinfo.gov/link/statute/124/2646).)*

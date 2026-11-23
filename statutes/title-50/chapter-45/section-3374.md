@@ -3,9 +3,10 @@ title: "Section 3374 - Requirements with respect to duty to warn former senior o
 usc_title: 50
 usc_section: "3374"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3374"
-generated_at: "2026-03-30T02:56:26.252Z"
+generated_at: "2026-11-23T20:27:31.002Z"
+status: "active"
 ---
 
 # § 3374. Requirements with respect to duty to warn former senior officials and other United States persons
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:26.252Z"
 - **(c)** The Director of the Federal Bureau of Investigation shall establish a process for documenting and maintaining records of each notice of a warning provided to the Director in accordance with subsection (b).
 - **(d)** Nothing in this section shall be construed to limit any duty to warn already in effect, including under Intelligence Community Directive 191 (relating to duty to warn) and any policies or procedures issued in accordance with such directive.
 - **(e)** In this section, the term “United States person” has the meaning given the term in section 3039 of this title .
+
+## Source Credit
+
+*([Pub. L. 119–60, div. F, title LXVII, § 6718](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1651](https://www.govinfo.gov/link/statute/139/1651).)*

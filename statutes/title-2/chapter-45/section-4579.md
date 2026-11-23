@@ -3,9 +3,10 @@ title: "Section 4579 - Student loan repayment program for Senate employees"
 usc_title: 2
 usc_section: "4579"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 4579"
-generated_at: "2026-03-30T02:53:04.833Z"
+generated_at: "2026-11-23T20:25:29.045Z"
+status: "active"
 ---
 
 # § 4579. Student loan repayment program for Senate employees
@@ -120,3 +121,13 @@ generated_at: "2026-03-30T02:53:04.833Z"
     - **(B)** For each other employing office, an amount equal to 2.5 percent of the total sums appropriated for the fiscal year involved for salaries for such office.
   - **(2)** Amounts provided under this section shall be subject to annual appropriations.
 - **(i)** This section shall apply to fiscal year 2002 and each fiscal year thereafter.
+
+Employee of the senate
+
+Employing office
+
+“The amendments made by this section [amending this section] shall—
+
+## Source Credit
+
+*([Pub. L. 107–68, title I, § 102](https://www.govinfo.gov/link/plaw/107/public/68), Nov. 12, 2001, [115 Stat. 563](https://www.govinfo.gov/link/statute/115/563); [Pub. L. 107–117, div. B, § 916](https://www.govinfo.gov/link/plaw/107/public/117), Jan. 10, 2002, [115 Stat. 2324](https://www.govinfo.gov/link/statute/115/2324); [Pub. L. 112–74, div. G, title I, § 1001(a)](https://www.govinfo.gov/link/plaw/112/public/74), (b), Dec. 23, 2011, [125 Stat. 1124](https://www.govinfo.gov/link/statute/125/1124); [Pub. L. 115–141, div. I, title I, § 103(a)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 772](https://www.govinfo.gov/link/statute/132/772); [Pub. L. 116–260, div. I, title I, § 105(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 1632](https://www.govinfo.gov/link/statute/134/1632).)*

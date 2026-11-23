@@ -3,9 +3,10 @@ title: "Section 1318 - Records and reports; inspections"
 usc_title: 33
 usc_section: "1318"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1318"
-generated_at: "2026-03-30T02:55:41.093Z"
+generated_at: "2026-11-23T20:26:54.015Z"
+status: "active"
 ---
 
 # § 1318. Records and reports; inspections
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:41.093Z"
 - **(b)** Any records, reports, or information obtained under this section (1) shall, in the case of effluent data, be related to any applicable effluent limitations, toxic, pretreatment, or new source performance standards, and (2) shall be available to the public, except that upon a showing satisfactory to the Administrator by any person that records, reports, or information, or particular part thereof (other than effluent data), to which the Administrator has access under this section, if made public would divulge methods or processes entitled to protection as trade secrets of such person, the Administrator shall consider such record, report, or information, or particular portion thereof confidential in accordance with the purposes of section 1905 of title 18 . Any authorized representative of the Administrator (including an authorized contractor acting as a representative of the Administrator) who knowingly or willfully publishes, divulges, discloses, or makes known in any manner or to any extent not authorized by law any information which is required to be considered confidential under this subsection shall be fined not more than $1,000 or imprisoned not more than 1 year, or both. Nothing in this subsection shall prohibit the Administrator or an authorized representative of the Administrator (including any authorized contractor acting as a representative of the Administrator) from disclosing records, reports, or information to other officers, employees, or authorized representatives of the United States concerned with carrying out this chapter or when relevant in any proceeding under this chapter.
 - **(c)** Each State may develop and submit to the Administrator procedures under State law for inspection, monitoring, and entry with respect to point sources located in such State. If the Administrator finds that the procedures and the law of any State relating to inspection, monitoring, and entry are applicable to at least the same extent as those required by this section, such State is authorized to apply and enforce its procedures for inspection, monitoring, and entry with respect to point sources located in such State (except with respect to point sources owned or operated by the United States).
 - **(d)** Notwithstanding any limitation contained in this section or any other provision of law, all information reported to or otherwise obtained by the Administrator (or any representative of the Administrator) under this chapter shall be made available, upon written request of any duly authorized committee of Congress, to such committee.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title III, § 308, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 858](https://www.govinfo.gov/link/statute/86/858); amended [Pub. L. 95–217, § 67(c)(1)](https://www.govinfo.gov/link/plaw/95/public/217), Dec. 27, 1977, [91 Stat. 1606](https://www.govinfo.gov/link/statute/91/1606); [Pub. L. 100–4, title III, § 310](https://www.govinfo.gov/link/plaw/100/public/4), title IV, § 406(d)(1), Feb. 4, 1987, [101 Stat. 41](https://www.govinfo.gov/link/statute/101/41), 73.)*

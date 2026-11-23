@@ -3,9 +3,10 @@ title: "Section 6038B - Notice of certain transfers to foreign persons"
 usc_title: 26
 usc_section: "6038B"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6038B"
-generated_at: "2026-03-30T02:55:27.831Z"
+generated_at: "2026-11-23T20:26:46.505Z"
+status: "active"
 ---
 
 # § 6038B. Notice of certain transfers to foreign persons
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:27.831Z"
   - **(1)** If any United States person fails to furnish the information described in subsection (a) at the time and in the manner required by regulations, such person shall pay a penalty equal to 10 percent of the fair market value of the property at the time of the exchange (and, in the case of a contribution described in subsection (a)(1)(B), such person shall recognize gain as if the contributed property had been sold for such value at the time of such contribution).
   - **(2)** Paragraph (1) shall not apply to any failure if the United States person shows such failure is due to reasonable cause and not to willful neglect.
   - **(3)** The penalty under paragraph (1) with respect to any exchange shall not exceed $100,000 unless the failure with respect to such exchange was due to intentional disregard.
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title I, § 131(d)(1)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 664](https://www.govinfo.gov/link/statute/98/664); amended [Pub. L. 105–34, title XI, § 1144(a)](https://www.govinfo.gov/link/plaw/105/public/34) –(c), Aug. 5, 1997, [111 Stat. 984](https://www.govinfo.gov/link/statute/111/984), 985; [Pub. L. 105–206, title VI, § 6011(g)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 818](https://www.govinfo.gov/link/statute/112/818); [Pub. L. 109–135, title IV, § 409(c)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2636](https://www.govinfo.gov/link/statute/119/2636).)*

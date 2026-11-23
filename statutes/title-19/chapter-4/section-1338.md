@@ -3,9 +3,10 @@ title: "Section 1338 - Discrimination by foreign countries"
 usc_title: 19
 usc_section: "1338"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1338"
-generated_at: "2026-03-30T02:54:24.630Z"
+generated_at: "2026-11-23T20:26:10.745Z"
+status: "active"
 ---
 
 # § 1338. Discrimination by foreign countries
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:24.630Z"
 - **(g)** It shall be the duty of the commission to ascertain and at all times to be informed whether any of the discriminations against the commerce of the United States enumerated in subdivisions (a), (b), and (e) of this section are practiced by any country; and if and when such discriminatory acts are disclosed, it shall be the duty of the commission to bring the matter to the attention of the President, together with recommendations.
 - **(h)** The Secretary of the Treasury with the approval of the President shall make such rules and regulations as are necessary for the execution of such proclamations as the President may issue in accordance with the provisions of this section.
 - **(i)** When used in this section the term “foreign country” means any empire, country, dominion, colony or protectorate, or any subdivision or subdivisions thereof (other than the United States and its possessions), within which separate tariff rates or separate regulations of commerce are enforced.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title III, § 338, [46 Stat. 704](https://www.govinfo.gov/link/statute/46/704).)*

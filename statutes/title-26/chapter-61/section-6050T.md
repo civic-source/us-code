@@ -3,9 +3,10 @@ title: "Section 6050T - Returns relating to credit for health insurance costs of
 usc_title: 26
 usc_section: "6050T"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6050T"
-generated_at: "2026-03-30T02:55:27.835Z"
+generated_at: "2026-11-23T20:26:46.536Z"
+status: "active"
 ---
 
 # § 6050T. Returns relating to credit for health insurance costs of eligible individuals
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:27.835Z"
 - **(c)** Every person required to make a return under subsection (a) shall furnish to each individual whose name is required to be set forth in such return a written statement showing—
   - **(1)** the name and address of the person required to make such return and the phone number of the information contact for such person, and
   - **(2)** the information required to be shown on the return with respect to such individual.
+
+## Source Credit
+
+*(Added [Pub. L. 107–210, div. A, title II, § 202(c)(1)](https://www.govinfo.gov/link/plaw/107/public/210), Aug. 6, 2002, [116 Stat. 962](https://www.govinfo.gov/link/statute/116/962).)*

@@ -3,9 +3,10 @@ title: "Section 657a - HUBZone program"
 usc_title: 15
 usc_section: "657a"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 657a"
-generated_at: "2026-03-30T02:54:08.105Z"
+generated_at: "2026-11-23T20:26:03.834Z"
+status: "active"
 ---
 
 # § 657a. HUBZone program
@@ -148,3 +149,23 @@ generated_at: "2026-03-30T02:54:08.105Z"
     - **(A)** the number of HUBZone small business concerns that lost certification as a qualified HUBZone small business concern because of the results of an examination performed under subsection (d)(5); and
     - **(B)** the number of those concerns that did not submit documentation to be recertified under subsection (d)(6).
 - **(f)** There is authorized to be appropriated to carry out the program established by this section $10,000,000 for each of fiscal years 2020 through 2025.
+
+(aa) the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of division B of Public Law 101–510 ; 10 U.S.C. 2687 note);
+
+(bb) title II of the Defense Authorization Amendments and Base Closure and Realignment Act ( Public Law 100–526 ; 10 U.S.C. 2687 note);
+
+(cc) section 2687 of title 10 ; or
+
+(dd) any other provision of law authorizing or directing the Secretary of Defense or the Secretary of a military department to dispose of real property at the military installation for purposes relating to base closures of redevelopment, while retaining the authority to enter into a leaseback of all or a portion of the property for military use;
+
+(aa) that is located outside of an urbanized area, as determined by the Bureau of the Census;
+
+(bb) with a population of not more than 50,000; and
+
+(cc) for which the average unemployment rate is not less than 120 percent of the average unemployment rate of the United States or of the State in which the covered area is located, whichever is less, based on the most recent data available from the American Community Survey conducted by the Bureau of the Census.
+
+“The provisions of this section shall take effect—
+
+## Source Credit
+
+*([Pub. L. 85–536, § 2[31]](https://www.govinfo.gov/link/plaw/85/public/536), as added [Pub. L. 105–135, title VI, § 602(b)(1)(B)](https://www.govinfo.gov/link/plaw/105/public/135), Dec. 2, 1997, [111 Stat. 2629](https://www.govinfo.gov/link/statute/111/2629); amended [Pub. L. 106–554, § 1(a)(9) [title V, § 503(b), title VI, § 612(a)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–695, 2763A–699; [Pub. L. 108–447, div. K, title I](https://www.govinfo.gov/link/plaw/108/public/447), §§ 153, 154, Dec. 8, 2004, [118 Stat. 3458](https://www.govinfo.gov/link/statute/118/3458); [Pub. L. 111–240, title I, § 1347(b)(1)](https://www.govinfo.gov/link/plaw/111/public/240), (c), Sept. 27, 2010, [124 Stat. 2547](https://www.govinfo.gov/link/statute/124/2547); [Pub. L. 114–92, div. A, title VIII, § 866(c)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 932](https://www.govinfo.gov/link/statute/129/932); [Pub. L. 115–91, div. A, title XVII, § 1701(a)(1)](https://www.govinfo.gov/link/plaw/115/public/91), (2), (b)–(e), (g), (h), Dec. 12, 2017, [131 Stat. 1795–1798](https://www.govinfo.gov/link/statute/131/1795), 1800; [Pub. L. 116–283, div. A, title VIII, § 864(2)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3784](https://www.govinfo.gov/link/statute/134/3784).)*

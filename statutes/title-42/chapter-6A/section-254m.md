@@ -3,9 +3,10 @@ title: "Section 254m - Obligated service under contract"
 usc_title: 42
 usc_section: "254m"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 254m"
-generated_at: "2026-03-30T02:56:10.714Z"
+generated_at: "2026-11-23T20:27:20.093Z"
+status: "active"
 ---
 
 # § 254m. Obligated service under contract
@@ -31,3 +32,9 @@ generated_at: "2026-03-30T02:56:10.714Z"
   - **(1)** on the date such individual is appointed as an officer in a Regular or Reserve Corps 1 of the Service or is designated as a member of the Corps under subsection (b)(3) or (b)(4), or
   - **(2)** in the case of an individual who has entered into an agreement with the Secretary under section 254n of this title , on the date specified in such agreement,
 - **(d)** The Secretary shall assign individuals performing obligated service in accordance with a written contract under the Scholarship Program to health professional shortage areas in accordance with sections 254d through 254h and sections 254j and 254k of this title. If the Secretary determines that there is no need in a health professional shortage area (designated under section 254e of this title ) for a member of the profession in which an individual is obligated to provide service under a written contract and if such individual is an officer in the Service or a civilian employee of the United States, the Secretary may detail such individual to serve his period of obligated service as a full-time member of such profession in such unit of the Department as the Secretary may determine.
+
+Towards Service Obligation
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 338C, formerly title VII, § 752, as added [Pub. L. 94–484, title IV, § 408(b)(1)](https://www.govinfo.gov/link/plaw/94/public/484), Oct. 12, 1976, [90 Stat. 2284](https://www.govinfo.gov/link/statute/90/2284); amended [Pub. L. 95–626, title I, § 113(b)](https://www.govinfo.gov/link/plaw/95/public/626), Nov. 10, 1978, [92 Stat. 3563](https://www.govinfo.gov/link/statute/92/3563); [Pub. L. 96–76, title II, § 202(a)](https://www.govinfo.gov/link/plaw/96/public/76), (b), Sept. 29, 1979, [93 Stat. 582](https://www.govinfo.gov/link/statute/93/582); renumbered § 338B and amended [Pub. L. 97–35, title XXVII, § 2709(a)](https://www.govinfo.gov/link/plaw/97/public/35), (c), Aug. 13, 1981, [95 Stat. 908](https://www.govinfo.gov/link/statute/95/908), 909; [Pub. L. 97–414, § 8(g)(1)](https://www.govinfo.gov/link/plaw/97/public/414), Jan. 4, 1983, [96 Stat. 2061](https://www.govinfo.gov/link/statute/96/2061); renumbered § 338C and amended [Pub. L. 100–177, title II, § 201(2)](https://www.govinfo.gov/link/plaw/100/public/177), title III, § 306, Dec. 1, 1987, [101 Stat. 992](https://www.govinfo.gov/link/statute/101/992), 1004; [Pub. L. 100–607, title VI, § 629(a)(2)](https://www.govinfo.gov/link/plaw/100/public/607), Nov. 4, 1988, [102 Stat. 3146](https://www.govinfo.gov/link/statute/102/3146); [Pub. L. 101–597, title IV, § 401(b)[(a)]](https://www.govinfo.gov/link/plaw/101/public/597), Nov. 16, 1990, [104 Stat. 3035](https://www.govinfo.gov/link/statute/104/3035); [Pub. L. 107–251, title III, § 311](https://www.govinfo.gov/link/plaw/107/public/251), Oct. 26, 2002, [116 Stat. 1650](https://www.govinfo.gov/link/statute/116/1650); [Pub. L. 111–148, title V, § 5508(b)](https://www.govinfo.gov/link/plaw/111/public/148), title X, § 10501(n)(5), Mar. 23, 2010, [124 Stat. 670](https://www.govinfo.gov/link/statute/124/670), 1003.)*

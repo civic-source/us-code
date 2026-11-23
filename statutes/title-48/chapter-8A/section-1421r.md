@@ -3,9 +3,10 @@ title: "Section 1421r - Port of Guam Improvement Enterprise Program"
 usc_title: 48
 usc_section: "1421r"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1421r"
-generated_at: "2026-03-30T02:56:14.585Z"
+generated_at: "2026-11-23T20:27:28.044Z"
+status: "active"
 ---
 
 # § 1421r. Port of Guam Improvement Enterprise Program
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:14.585Z"
 - **(d)** Amounts appropriated or otherwise made available for any fiscal year for an intermodal or marine facility comprising a component of the Program shall be transferred to and administered by the Administrator.
 - **(e)** Nothing in this section shall be construed to authorize amounts made available under section 165 of title 23 or any other amounts made available for the construction of highways or amounts otherwise not eligible for making port improvements to be deposited into the Fund.
 - **(f)** There are authorized to be appropriated to the Fund such sums as may be necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 110–417, div. C, title XXXV, § 3512](https://www.govinfo.gov/link/plaw/110/public/417), Oct. 14, 2008, [122 Stat. 4770](https://www.govinfo.gov/link/statute/122/4770); [Pub. L. 111–383, div. A, title X, § 1075(e)(20)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4375](https://www.govinfo.gov/link/statute/124/4375); [Pub. L. 112–141, div. A, title I, § 1114(b)(2)(C)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 468](https://www.govinfo.gov/link/statute/126/468).)*

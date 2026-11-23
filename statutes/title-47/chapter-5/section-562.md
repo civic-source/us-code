@@ -3,9 +3,10 @@ title: "Section 562 - Requirements relating to charges for covered services"
 usc_title: 47
 usc_section: "562"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 562"
-generated_at: "2026-03-30T02:56:24.521Z"
+generated_at: "2026-11-23T20:27:28.935Z"
+status: "active"
 ---
 
 # § 562. Requirements relating to charges for covered services
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:24.521Z"
   - **(1)** The term “broadband internet access service” has the meaning given such term in section 8.1(b) of title 47, Code of Federal Regulations, or any successor regulation.
   - **(2)** The term “covered equipment” means equipment (such as a router) employed on the premises of a person (other than a provider of a covered service or fixed broadband internet access service) to provide a covered service or to provide fixed broadband internet access service.
   - **(3)** The term “covered service” means service provided by a multichannel video programming distributer, 1 1 So in original. Probably should be “distributor,”. to the extent such distributor is acting as a multichannel video programming distributor.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title VI, § 642, as added [Pub. L. 116–94, div. P, title X, § 1004(a)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3200](https://www.govinfo.gov/link/statute/133/3200).)*

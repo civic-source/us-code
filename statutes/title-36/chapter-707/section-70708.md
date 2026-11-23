@@ -3,12 +3,26 @@ title: "Section 70708 - Nonapplication of audit requirements"
 usc_title: 36
 usc_section: "70708"
 chapter: 707
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 70708"
-generated_at: "2026-03-30T02:55:44.699Z"
+generated_at: "2026-11-23T20:26:58.905Z"
+status: "active"
 ---
 
 # § 70708. Nonapplication of audit requirements
 
 The audit requirements of section 10101 of this title do not apply to the corporation.
 
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 70708 | (no source). |  |
+
+
+Historical and Revision Notes
+
+70708
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1355](https://www.govinfo.gov/link/statute/112/1355).)*

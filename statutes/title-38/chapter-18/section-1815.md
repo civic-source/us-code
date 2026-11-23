@@ -3,9 +3,10 @@ title: "Section 1815 - Monetary allowance"
 usc_title: 38
 usc_section: "1815"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 1815"
-generated_at: "2026-03-30T02:55:53.489Z"
+generated_at: "2026-11-23T20:27:01.728Z"
+status: "active"
 ---
 
 # § 1815. Monetary allowance
@@ -26,3 +27,15 @@ generated_at: "2026-03-30T02:55:53.489Z"
     - **(A)** $1,272; or
     - **(B)** the monthly amount payable under section 1805(b)(3) of this title for the highest level of disability prescribed for purposes of that section.
 - **(d)** Amounts under paragraphs (1), (2)(A), (3)(A), and (4)(A) of subsection (c) shall be subject to adjustment from time to time under section 5312 of this title .
+
+Monetary Allowance
+
+Schedule for Rating Disabilities
+
+Amount of Monthly Allowance
+
+Indexing to Social Security Benefit Increases
+
+## Source Credit
+
+*(Added [Pub. L. 106–419, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/106/public/419), Nov. 1, 2000, [114 Stat. 1858](https://www.govinfo.gov/link/statute/114/1858).)*

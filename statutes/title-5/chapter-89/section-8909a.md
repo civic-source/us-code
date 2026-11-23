@@ -3,9 +3,10 @@ title: "Section 8909a - Postal Service Retiree Health Benefits Fund"
 usc_title: 5
 usc_section: "8909a"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8909a"
-generated_at: "2026-03-30T02:52:56.069Z"
+generated_at: "2026-11-23T20:25:32.249Z"
+status: "active"
 ---
 
 # § 8909a. Postal Service Retiree Health Benefits Fund
@@ -30,3 +31,19 @@ generated_at: "2026-03-30T02:52:56.069Z"
     - **(A)** the estimated costs incurred by a carrier in providing health services to, paying for health services provided to, or reimbursing expenses for health services provided to, annuitants of the United States Postal Service and any other persons covered under the enrollment of such annuitants; and
     - **(B)** an amount of indirect expenses reasonably allocable to the provision, payment, or reimbursement described in subparagraph (A), as determined by the Office; and
   - **(2)** the amount withheld from the annuity of or paid by annuitants of the United States Postal Service under section 8906.
+
+Cancellation of payments
+
+Effect of this act
+
+In general.—
+
+Request for review
+
+Report
+
+Reconsideration
+
+## Source Credit
+
+*(Added [Pub. L. 109–435, title VIII, § 803(a)(1)(B)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3251](https://www.govinfo.gov/link/statute/120/3251); amended [Pub. L. 111–68, div. B, § 164(a)](https://www.govinfo.gov/link/plaw/111/public/68), Oct. 1, 2009, [123 Stat. 2053](https://www.govinfo.gov/link/statute/123/2053); [Pub. L. 112–33, § 124](https://www.govinfo.gov/link/plaw/112/public/33), Sept. 30, 2011, [125 Stat. 366](https://www.govinfo.gov/link/statute/125/366); [Pub. L. 112–74, div. C, title VI, § 632](https://www.govinfo.gov/link/plaw/112/public/74), Dec. 23, 2011, [125 Stat. 928](https://www.govinfo.gov/link/statute/125/928); [Pub. L. 117–108, title I, § 102(b)](https://www.govinfo.gov/link/plaw/117/public/108), Apr. 6, 2022, [136 Stat. 1138](https://www.govinfo.gov/link/statute/136/1138).)*

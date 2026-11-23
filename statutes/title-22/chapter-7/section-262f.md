@@ -3,12 +3,17 @@ title: "Section 262f - Promotion of development and utilization of light capital
 usc_title: 22
 usc_section: "262f"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 262f"
-generated_at: "2026-03-30T02:55:05.304Z"
+generated_at: "2026-11-23T20:26:31.915Z"
+status: "active"
 ---
 
 # § 262f. Promotion of development and utilization of light capital technologies and United States assistance policies with international financial institutions
 
 The United States Government, in connection with its voice and vote in the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the African Development Fund, the Asian Development Bank, and the African Development Bank, shall promote the development and utilization of light capital technologies, otherwise known as intermediate, appropriate, or village technologies, by such international institutions as major facets of their development strategies, with major emphasis on the production and conservation of energy through light capital technologies.
 
+
+## Source Credit
+
+*([Pub. L. 95–118, title VIII, § 801](https://www.govinfo.gov/link/plaw/95/public/118), Oct. 3, 1977, [91 Stat. 1071](https://www.govinfo.gov/link/statute/91/1071); [Pub. L. 97–35, title XIII](https://www.govinfo.gov/link/plaw/97/public/35), §§ 1342(c), 1371(b)(1), Aug. 13, 1981, [95 Stat. 743](https://www.govinfo.gov/link/statute/95/743), 746.)*

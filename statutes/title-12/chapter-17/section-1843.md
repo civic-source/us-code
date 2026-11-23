@@ -3,9 +3,10 @@ title: "Section 1843 - Interests in nonbanking organizations"
 usc_title: 12
 usc_section: "1843"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1843"
-generated_at: "2026-03-30T02:53:53.465Z"
+generated_at: "2026-11-23T20:25:59.200Z"
+status: "active"
 ---
 
 # § 1843. Interests in nonbanking organizations
@@ -315,3 +316,23 @@ generated_at: "2026-03-30T02:53:53.465Z"
   - **(3)** the holding company does not permit—
     - **(A)** any company, the shares of which it owns or controls pursuant to this subsection, to offer or market any product or service of an affiliated depository institution; or
     - **(B)** any affiliated depository institution to offer or market any product or service of any company, the shares of which are owned or controlled by such holding company pursuant to this subsection.
+
+Leverage
+
+Determination of status as export trading company.—
+
+Time period requirements
+
+Export revenue requirements
+
+Inventory.—
+
+No general limitation
+
+Specific limitation by order
+
+“The Congress hereby declares that it is the purpose of this title [enacting section 635a–4 of this title , amending sections 372 and 1843 of this title, and enacting provisions set out as notes under section 1843 of this title ] to provide for meaningful and effective participation by bank holding companies, bankers’ banks, and Edge Act [ 12 U.S.C. 611 et seq.] corporations, in the financing and development of export trading companies in the United States. In furtherance of such purpose, the Congress intends that, in implementing its authority under section 4(c)(14) of the Bank Holding Company Act of 1956 [subsec. (c)(14) of this section] the Board of Governors of the Federal Reserve System should pursue regulatory policies that—
+
+## Source Credit
+
+*(May 9, 1956, ch. 240, § 4, [70 Stat. 135](https://www.govinfo.gov/link/statute/70/135); [Pub. L. 89–485, § 8](https://www.govinfo.gov/link/plaw/89/public/485), July 1, 1966, [80 Stat. 238](https://www.govinfo.gov/link/statute/80/238); [Pub. L. 91–607, title I, § 103](https://www.govinfo.gov/link/plaw/91/public/607), Dec. 31, 1970, [84 Stat. 1763](https://www.govinfo.gov/link/statute/84/1763); [Pub. L. 95–188, title III, § 301(c)](https://www.govinfo.gov/link/plaw/95/public/188), Nov. 16, 1977, [91 Stat. 1389](https://www.govinfo.gov/link/statute/91/1389); [Pub. L. 95–630, title I, § 112](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3671](https://www.govinfo.gov/link/statute/92/3671); [Pub. L. 96–221, title VII, § 701(b)](https://www.govinfo.gov/link/plaw/96/public/221), Mar. 31, 1980, [94 Stat. 186](https://www.govinfo.gov/link/statute/94/186); [Pub. L. 97–290, title II, § 203](https://www.govinfo.gov/link/plaw/97/public/290), Oct. 8, 1982, [96 Stat. 1236](https://www.govinfo.gov/link/statute/96/1236); [Pub. L. 97–320, title I](https://www.govinfo.gov/link/plaw/97/public/320), §§ 118(a), 141(a)(4), title IV, § 433(b), title VI, § 601, Oct. 15, 1982, [96 Stat. 1479](https://www.govinfo.gov/link/statute/96/1479), 1489, 1527, 1536; [Pub. L. 97–457, § 30](https://www.govinfo.gov/link/plaw/97/public/457), Jan. 12, 1983, [96 Stat. 2511](https://www.govinfo.gov/link/statute/96/2511); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 100–86, title I, § 101(b)](https://www.govinfo.gov/link/plaw/100/public/86), (c), title V, §§ 502(h)(2), 509(a), Aug. 10, 1987, [101 Stat. 557](https://www.govinfo.gov/link/statute/101/557), 628, 635; [Pub. L. 100–418, title III, § 3402](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1384](https://www.govinfo.gov/link/statute/102/1384); [Pub. L. 101–73, title VI](https://www.govinfo.gov/link/plaw/101/public/73), §§ 601(a), 603, 604(b), title XII, § 1219, Aug. 9, 1989, [103 Stat. 408](https://www.govinfo.gov/link/statute/103/408), 409, 411, 546; [Pub. L. 102–242, title IV, § 461](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2384](https://www.govinfo.gov/link/statute/105/2384); [Pub. L. 102–550, title XVI, § 1606(h)(1)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 4089](https://www.govinfo.gov/link/statute/106/4089); [Pub. L. 103–325, title III, § 346](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2239](https://www.govinfo.gov/link/statute/108/2239); [Pub. L. 104–208, div. A, title II](https://www.govinfo.gov/link/plaw/104/public/208), §§ 2203(d), 2208(a), 2215, 2304(a), 2612, Sept. 30, 1996, [110 Stat. 3009–404](https://www.govinfo.gov/link/statute/110/3009), 3009–406, 3009–413, 3009–425, 3009–476; [Pub. L. 106–102, title I](https://www.govinfo.gov/link/plaw/106/public/102), §§ 102(a), 103(a), (c)(2), 107(a), (b), (d)–(f), Nov. 12, 1999, [113 Stat. 1341](https://www.govinfo.gov/link/statute/113/1341), 1342, 1351, 1359–1361; [Pub. L. 109–351, title VI, § 611](https://www.govinfo.gov/link/plaw/109/public/351), title VII, § 727(b), Oct. 13, 2006, [120 Stat. 1984](https://www.govinfo.gov/link/statute/120/1984), 2003; [Pub. L. 111–203, title III, § 354(2)(A)](https://www.govinfo.gov/link/plaw/111/public/203), title VI, §§ 604(e), 606(a), 623(b)(1), July 21, 2010, [124 Stat. 1546](https://www.govinfo.gov/link/statute/124/1546), 1601, 1607, 1634.)*

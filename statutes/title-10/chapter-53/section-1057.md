@@ -3,9 +3,10 @@ title: "Section 1057 - Use of armed forces insignia on State license plates"
 usc_title: 10
 usc_section: "1057"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1057"
-generated_at: "2026-03-30T02:53:38.097Z"
+generated_at: "2026-11-23T20:25:51.182Z"
+status: "active"
 ---
 
 # § 1057. Use of armed forces insignia on State license plates
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:53:38.097Z"
 - **(a)** The Secretary concerned may approve an application by a State to use or imitate the seal or other insignia of the department (under the jurisdiction of such Secretary) or of armed forces (under the jurisdiction of such Secretary) on motor vehicle license plates issued by the State to an individual who is a member or former member of the armed forces.
 - **(b)** The Secretary concerned may prescribe any regulations necessary regarding the display of the seal or other insignia of the department (under the jurisdiction of such Secretary) or of armed forces (under the jurisdiction of such Secretary) on the license plates described in subsection (a).
 - **(c)** In this section, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, and American Samoa.
+
+## Source Credit
+
+*(Added [Pub. L. 102–484, div. A, title X, § 1080(a)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2514](https://www.govinfo.gov/link/statute/106/2514).)*

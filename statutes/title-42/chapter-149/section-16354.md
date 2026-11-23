@@ -3,9 +3,10 @@ title: "Section 16354 - External technical review of departmental programs"
 usc_title: 42
 usc_section: "16354"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16354"
-generated_at: "2026-03-30T02:56:11.483Z"
+generated_at: "2026-11-23T20:27:23.671Z"
+status: "active"
 ---
 
 # § 16354. External technical review of departmental programs
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.483Z"
     - **(C)** the progress on meeting the goals.
   - **(2)** The reviews and assessments shall be conducted every 5 years or more often as the Secretary considers necessary.
   - **(3)** The Secretary shall submit to Congress reports describing the results of all the reviews and assessments.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 990](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 912](https://www.govinfo.gov/link/statute/119/912); [Pub. L. 117–286, § 4(a)(278)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4336](https://www.govinfo.gov/link/statute/136/4336).)*

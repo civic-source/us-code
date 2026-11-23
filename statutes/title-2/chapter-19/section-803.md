@@ -3,9 +3,10 @@ title: "Section 803 - Board organization"
 usc_title: 2
 usc_section: "803"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 803"
-generated_at: "2026-03-30T02:53:04.803Z"
+generated_at: "2026-11-23T20:25:28.919Z"
+status: "active"
 ---
 
 # § 803. Board organization
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:53:04.803Z"
   - **(2)** Any employee or officer of the Federal Government may serve as a member of a committee created by the Board, but may not receive compensation for services performed for such a committee.
 - **(i)** The Board shall establish such bylaws and other regulations as may be appropriate to enable the Board to carry out its functions under this chapter. Such bylaws and other regulations shall include provisions to prevent any conflict of interest, or the appearance of any conflict of interest, in the procurement and employment actions taken by the Board or by any officer or employee of the Board. Such bylaws shall include appropriate fiscal control, funds accountability, and operating principles to ensure compliance with the provisions of section 806 of this title . A copy of such bylaws shall be transmitted to each House of Congress not later than 90 days after November 25, 1985 , and not later than 10 days after any subsequent amendment or revision of such bylaws.
 - **(j)** Any member of the Board who fails to attend 4 consecutive Board meetings scheduled pursuant to the bylaws of the Board and for which proper notice has been given under such bylaws, or to send a designee of such member (approved in advance by the Board under provisions of its bylaws), is, by operation of this subsection, removed, for cause, from the Board as of the date of the last meeting from which they are absent. The Chairman of the Board shall take such steps as are necessary to inform members who have 3 absences of this subsection. The Chairman shall notify the House and the Senate, including the appropriate committees of each body, whenever there is a vacancy created by the operation of this subsection.
+
+## Source Credit
+
+*([Pub. L. 96–114, title I, § 103](https://www.govinfo.gov/link/plaw/96/public/114), formerly § 4, Nov. 16, 1979, [93 Stat. 852](https://www.govinfo.gov/link/statute/93/852); [Pub. L. 98–33, § 1](https://www.govinfo.gov/link/plaw/98/public/33), May 25, 1983, [97 Stat. 194](https://www.govinfo.gov/link/statute/97/194); [Pub. L. 99–161](https://www.govinfo.gov/link/plaw/99/public/161), §§ 2, 4(d), (e), Nov. 25, 1985, [99 Stat. 934](https://www.govinfo.gov/link/statute/99/934), 935; [Pub. L. 100–674, § 2(b)](https://www.govinfo.gov/link/plaw/100/public/674), Nov. 17, 1988, [102 Stat. 3996](https://www.govinfo.gov/link/statute/102/3996); [Pub. L. 101–525](https://www.govinfo.gov/link/plaw/101/public/525), §§ 4–6, Nov. 6, 1990, [104 Stat. 2305](https://www.govinfo.gov/link/statute/104/2305), 2306; [Pub. L. 106–63, § 1(b)](https://www.govinfo.gov/link/plaw/106/public/63), Oct. 1, 1999, [113 Stat. 510](https://www.govinfo.gov/link/statute/113/510); renumbered title I, § 103, and amended [Pub. L. 106–533, § 1(b)(1)](https://www.govinfo.gov/link/plaw/106/public/533), (2), (5), Nov. 22, 2000, [114 Stat. 2553](https://www.govinfo.gov/link/statute/114/2553), 2554; [Pub. L. 109–143, § 1(c)(1)](https://www.govinfo.gov/link/plaw/109/public/143), Dec. 22, 2005, [119 Stat. 2659](https://www.govinfo.gov/link/statute/119/2659); [Pub. L. 111–200, § 2(b)](https://www.govinfo.gov/link/plaw/111/public/200), July 7, 2010, [124 Stat. 1368](https://www.govinfo.gov/link/statute/124/1368).)*

@@ -3,9 +3,10 @@ title: "Section 1435 - Former citizens regaining citizenship"
 usc_title: 8
 usc_section: "1435"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1435"
-generated_at: "2026-03-30T02:53:10.501Z"
+generated_at: "2026-11-23T20:25:36.231Z"
+status: "active"
 ---
 
 # § 1435. Former citizens regaining citizenship
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:10.501Z"
 - **(d)**
   - **(1)** A person who was a citizen of the United States at birth and lost such citizenship for failure to meet the physical presence retention requirements under section 1401(b) of this title (as in effect before October 10, 1978 ), shall, from and after taking the oath of allegiance required by section 1448 of this title be a citizen of the United States and have the status of a citizen of the United States by birth, without filing an application for naturalization, and notwithstanding any of the other provisions of this subchapter except the provisions of section 1424 of this title . Nothing in this subsection or any other provision of law shall be construed as conferring United States citizenship retroactively upon such person during any period in which such person was not a citizen.
   - **(2)** The provisions of paragraphs (2) and (3) of subsection (c) shall apply to a person regaining citizenship under paragraph (1) in the same manner as they apply under subsection (c)(1).
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title III, ch. 2, § 324, [66 Stat. 246](https://www.govinfo.gov/link/statute/66/246); [Pub. L. 100–525, § 9(x)](https://www.govinfo.gov/link/plaw/100/public/525), Oct. 24, 1988, [102 Stat. 2621](https://www.govinfo.gov/link/statute/102/2621); [Pub. L. 101–649, title IV, § 407(b)(3)](https://www.govinfo.gov/link/plaw/101/public/649), (c)(7), (d)(6), Nov. 29, 1990, [104 Stat. 5040–5042](https://www.govinfo.gov/link/statute/104/5040); [Pub. L. 103–416, title I, § 103(a)](https://www.govinfo.gov/link/plaw/103/public/416), Oct. 25, 1994, [108 Stat. 4307](https://www.govinfo.gov/link/statute/108/4307).)*

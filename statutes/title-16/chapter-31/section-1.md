@@ -3,9 +3,10 @@ title: "Section 1 - Marine Mammal Rescue and Response Grant Program and Rapid Re
 usc_title: 16
 usc_section: "1"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T02:54:22.966Z"
+generated_at: "2026-11-23T20:26:20.480Z"
+status: "active"
 ---
 
 # § 1421f–1. Marine Mammal Rescue and Response Grant Program and Rapid Response Fund
@@ -71,3 +72,7 @@ generated_at: "2026-03-30T02:54:22.966Z"
 - **(f)**
   - **(1)** The non-Federal share of a project conducted with funds awarded under the grant program under this section shall be not less than 25 percent of such project.
   - **(2)** The Secretary may apply to the non-Federal share of a project conducted with a grant under this section the amount of funds, and the fair market value of property and services, provided by non-Federal sources and used for the project.
+
+## Source Credit
+
+*([Pub. L. 92–522, title IV, § 408](https://www.govinfo.gov/link/plaw/92/public/522), as added [Pub. L. 106–555, title II, § 202(a)(2)](https://www.govinfo.gov/link/plaw/106/public/555), Dec. 21, 2000, [114 Stat. 2767](https://www.govinfo.gov/link/statute/114/2767); amended [Pub. L. 117–263, div. J, title CIV, § 10406(a)](https://www.govinfo.gov/link/plaw/117/public/263), (b), Dec. 23, 2022, [136 Stat. 3984](https://www.govinfo.gov/link/statute/136/3984), 3987.)*

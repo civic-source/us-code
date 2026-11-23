@@ -3,9 +3,10 @@ title: "Section 5901 - Demilitarization of independent states of former Soviet U
 usc_title: 22
 usc_section: "5901"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 5901"
-generated_at: "2026-03-30T02:55:05.421Z"
+generated_at: "2026-11-23T20:26:32.581Z"
+status: "active"
 ---
 
 # § 5901. Demilitarization of independent states of former Soviet Union
@@ -19,3 +20,13 @@ The Congress finds that it is in the national security interest of the United St
     - **(D)** other efforts designed to reduce the military threat from the former Soviet Union;
   - **(2)** to support the demilitarization of the massive defense-related industry and equipment of the independent states of the former Soviet Union and conversion of such industry and equipment to civilian purposes and uses; and
   - **(3)** to expand military-to-military contacts between the United States and the independent states of the former Soviet Union.
+
+Findings
+
+United States Policy
+
+Annual Report
+
+## Source Credit
+
+*([Pub. L. 102–484, div. A, title XIV, § 1411](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2563](https://www.govinfo.gov/link/statute/106/2563).)*

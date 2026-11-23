@@ -3,9 +3,10 @@ title: "Section 8531 - National Oceanic and Atmospheric Administration satellite
 usc_title: 15
 usc_section: "8531"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 8531"
-generated_at: "2026-03-30T02:54:08.231Z"
+generated_at: "2026-11-23T20:26:04.492Z"
+status: "active"
 ---
 
 # § 8531. National Oceanic and Atmospheric Administration satellite and data management
@@ -88,3 +89,7 @@ generated_at: "2026-03-30T02:54:08.231Z"
       - **(vi)** the total value received by the Federal Government under that agreement for that fiscal year; and
     - **(B)** a list of all anticipated reimbursable, non-reimbursable, and funded transaction agreements for the upcoming fiscal year.
 - **(g)** Nothing in this section may be construed as limiting the authority of the National Oceanic and Atmospheric Administration to use cooperative research and development agreements, grants, procurement contracts, or cooperative agreements.
+
+## Source Credit
+
+*([Pub. L. 115–25, title III, § 301](https://www.govinfo.gov/link/plaw/115/public/25), Apr. 18, 2017, [131 Stat. 101](https://www.govinfo.gov/link/statute/131/101); [Pub. L. 115–423](https://www.govinfo.gov/link/plaw/115/public/423), §§ 6, 7(a), Jan. 7, 2019, [132 Stat. 5459](https://www.govinfo.gov/link/statute/132/5459), 5461; [Pub. L. 116–259, title V, § 503](https://www.govinfo.gov/link/plaw/116/public/259), Dec. 23, 2020, [134 Stat. 1179](https://www.govinfo.gov/link/statute/134/1179).)*

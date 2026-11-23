@@ -3,9 +3,10 @@ title: "Section 3101 - Reports on the acquisition of major systems"
 usc_title: 50
 usc_section: "3101"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3101"
-generated_at: "2026-03-30T02:56:26.235Z"
+generated_at: "2026-11-23T20:27:30.917Z"
+status: "active"
 ---
 
 # § 3101. Reports on the acquisition of major systems
@@ -89,3 +90,7 @@ generated_at: "2026-03-30T02:56:26.235Z"
   - **(2)** The revised current Baseline Estimate established for a major system under subparagraph (B) or (C) of paragraph (1) shall be the 2010 adjusted total acquisition cost for the major system and may include the estimated cost of conducting any vulnerability assessments for such major system required under section 3099 of this title .
 - **(i)** Any determination of a percentage increase under this section shall be stated in terms of constant base year dollars.
 - **(j)** Any report required to be submitted under this section may be submitted in a classified form.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title V, § 506E, as added [Pub. L. 111–259, title III, § 323(a)(1)](https://www.govinfo.gov/link/plaw/111/public/259), Oct. 7, 2010, [124 Stat. 2674](https://www.govinfo.gov/link/statute/124/2674).)*

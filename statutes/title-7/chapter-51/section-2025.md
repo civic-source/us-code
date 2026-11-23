@@ -3,9 +3,10 @@ title: "Section 2025 - Administrative cost-sharing and quality control"
 usc_title: 7
 usc_section: "2025"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2025"
-generated_at: "2026-03-30T02:53:42.370Z"
+generated_at: "2026-11-23T20:25:41.453Z"
+status: "active"
 ---
 
 # § 2025. Administrative cost-sharing and quality control
@@ -301,3 +302,277 @@ generated_at: "2026-03-30T02:53:42.370Z"
       - **(iv)** any other State funds that are—
         - **(I)** expended as a condition of receiving Federal funds; or
         - **(II)** used to match Federal funds under a Federal program other than the supplemental nutrition assistance program.
+
+(aa) In general If the chief executive officer of the State fails to make the payment under subclause (I) within a reasonable period of time determined by the Secretary, the Secretary may reduce any amount due to the State agency under any other provision of this section by the amount required to be paid under clause (i).
+
+(bb) Accrual of interest During any period of time determined by the Secretary under item (aa), interest on the payment under subclause (I) shall not accrue under section 2022(a)(2) of this title .
+
+In general.—
+
+Amounts
+
+Allocation
+
+Reallocation
+
+In general
+
+Timing
+
+Opportunity
+
+Priority
+
+(aa) Subject to items (bb) and (cc), not less than 50 percent shall be reallocated to State agencies requesting such funds to conduct employment and training programs and activities for which such State agencies had previously received funding under subparagraph (F)(viii) that the Secretary determines have the most demonstrable impact on the ability of participants to find and retain employment that leads to increased household income and reduced reliance on public assistance.
+
+(bb) The Secretary shall base the determination under item (aa) on— (AA) project results from the independent evaluations conducted under subparagraph (F)(vii)(I); or (BB) if the project results from the independent evaluations conducted under subparagraph (F)(vii)(I) are not yet available, the reports under subparagraph (F)(vii)(II) or other information relating to performance of the programs and activities funded under subparagraph (F)(viii).
+
+(cc) Employment and training activities funded under this subclause are not subject to subparagraph (F)(vii), but are subject to monitoring under paragraph (h)(5).
+
+(aa) individuals 50 years of age or older;
+
+(bb) formerly incarcerated individuals;
+
+(cc) individuals participating in a substance abuse treatment program;
+
+(dd) homeless individuals;
+
+(ee) people with disabilities seeking to enter the workforce;
+
+(ff) other individuals with substantial barriers to employment; or
+
+(gg) households facing multi-generational poverty, to support employment and workforce participation through an integrated and family-focused approach in providing supportive services.
+
+Consideration
+
+Minimum allocation
+
+Additional allocations for states that ensure availability of work opportunities.—
+
+In general
+
+Eligibility
+
+Pilot projects to reduce dependency and increase work requirements and work effort under supplemental nutrition assistance program.—
+
+Pilot projects required.—
+
+In general
+
+Requirements
+
+(aa) meet such terms and conditions as the Secretary considers to be appropriate; and
+
+(bb) except as otherwise provided in this subparagraph, be in accordance with the requirements of sections 2015(d) and 2029 of this title.
+
+Selection criteria.—
+
+In general
+
+Qualifying criteria
+
+(aa) agree to participate in the evaluation described in clause (vii), including providing evidence that the State has a robust data collection system for program administration and cooperating to make available State data on the employment activities and post-participation employment, earnings, and public benefit receipt of participants to ensure proper and timely evaluation;
+
+(bb) commit to collaborate with the State workforce board and other job training programs in the State and local area; and
+
+(cc) commit to maintain at least the amount of State funding for employment and training programs and services under paragraphs (2) and (3) and under section 2029 of this title as the State expended for fiscal year 2013.
+
+Selection criteria
+
+(aa) consider the degree to which the pilot project would enhance existing employment and training programs in the State;
+
+(bb) consider the degree to which the pilot project would enhance the employment and earnings of program participants;
+
+(cc) consider whether there is evidence that the pilot project could be replicated easily by other States or political subdivisions;
+
+(dd) consider whether the State agency has a demonstrated capacity to operate high quality employment and training programs; and
+
+(ee) ensure the pilot projects, when considered as a group, test a range of strategies, including strategies that— (AA) target individuals with low skills or limited work experience, individuals subject to the requirements under section 2015( o ) of this title, and individuals who are working; (BB) are located in a range of geographic areas and States, including rural and urban areas; (CC) emphasize education and training, rehabilitative services for individuals with barriers to employment, rapid attachment to employment, and mixed strategies; and (DD) test programs that assign work registrants to mandatory and voluntary participation in employment and training activities.
+
+Accountability.—
+
+In general
+
+Timing
+
+Employment and training activities
+
+(aa) is performed in return for public benefits;
+
+(bb) provides an adult with an opportunity to acquire the general skills, knowledge, and work habits necessary to obtain employment;
+
+(cc) is designed to improve the employability of those who cannot find unsubsidized employment; and
+
+(dd) is supervised by an employer, work site sponsor, or other responsible party on an ongoing basis.
+
+(aa) is given to a paid employee while the employee is engaged in productive work; and
+
+(bb) provides knowledge and skills essential to the full and adequate performance of the job.
+
+(aa) life skills training;
+
+(bb) substance abuse treatment or mental health treatment, determined to be necessary and documented by a qualified medical, substance abuse, or mental health professional; and
+
+(cc) rehabilitation activities, supervised by a public agency or other responsible party on an ongoing basis.
+
+(aa) in which adults perform work for the direct benefit of the community under the auspices of public or nonprofit organizations;
+
+(bb) that are limited to projects that serve useful community purposes in fields such as health, social service, environmental protection, education, urban and rural redevelopment, welfare, recreation, public facilities, public safety, and child care;
+
+(cc) that are designed to improve the employability of adults not otherwise able to obtain unsubsidized employment;
+
+(dd) that are supervised on an ongoing basis; and
+
+(ee) with respect to which a State agency takes into account, to the maximum extent practicable, the prior training, experience, and skills of a recipient in making appropriate community service assignments.
+
+(aa) directly related to the preparation of adults for employment in current or emerging occupations; and
+
+(bb) supervised on an ongoing basis.
+
+(aa) required by an employer to provide an adult with the ability to obtain employment or to advance or adapt to the changing demands of the workplace; and
+
+(bb) supervised on an ongoing basis.
+
+(aa) related to a specific occupation, job, or job offer; and
+
+(bb) supervised on an ongoing basis.
+
+(aa) in accordance with the requirements of the secondary school or course of study, at a secondary school or in a course of study leading to a certificate of general equivalence; and
+
+(bb) supervised on an ongoing basis.
+
+(aa) does not provide compensation for the community service;
+
+(bb) is a structured program designed to improve the employability of adults who participate in the program; and
+
+(cc) is supervised on an ongoing basis.
+
+Sanctions
+
+Standards.—
+
+In general
+
+Standards for certain employment activities
+
+Participation in other programs
+
+(aa) assess whether the work registrant is participating in substantial employment and training activities outside of the pilot project that are expected to result in the work registrant gaining increased skills, training, work, or experience consistent with the objectives of the pilot project; and
+
+(bb) if determined to be acceptable, count hours engaged in the activities toward any minimum participation requirement.
+
+Evaluation and reporting.—
+
+Independent evaluation.—
+
+(aa) In general .— The Secretary shall, under such terms and conditions as the Secretary determines to be appropriate, conduct for each State agency that enters into a cooperative agreement under clause (i) an independent longitudinal evaluation of each pilot project of the State agency under this subparagraph, with results reported not less frequently than in consecutive 12-month increments.
+
+(bb) Purpose .— The purpose of the independent evaluation shall be to measure the impact of employment and training programs and services provided by each State agency under the pilot projects on the ability of adults in each pilot project target population to find and retain employment that leads to increased household income and reduced reliance on public assistance, as well as other measures of household well-being, compared to what would have occurred in the absence of the pilot project.
+
+(cc) Methodology .— The independent evaluation shall use valid statistical methods that can determine, for each pilot project, the difference, if any, between supplemental nutrition assistance and other public benefit receipt expenditures, employment, earnings and other impacts as determined by the Secretary— (AA) as a result of the employment and training programs and services provided by the State agency under the pilot project; as compared to (BB) a control group that is not subject to the employment and training programs and services provided by the State agency under the pilot project.
+
+Reporting
+
+(aa) the status of each pilot project carried out under this subparagraph;
+
+(bb) the results of the evaluation completed during the previous fiscal year;
+
+(cc) to the maximum extent practicable, baseline information relevant to the stated goals and desired outcomes of the pilot project;
+
+(dd) the employment and training programs and services each State tested under the pilot, including— (AA) the system of the State for assessing the ability of work registrants to participate in and meet the requirements of employment and training activities and assigning work registrants to appropriate activities; and (BB) the employment and training activities and services provided under the pilot;
+
+(ee) the impact of the employment and training programs and services on appropriate employment, income, and public benefit receipt as well as other outcomes among households participating in the pilot project, relative to households not participating; and
+
+(ff) the steps and funding necessary to incorporate into State employment and training programs and services the components of the pilot projects that demonstrate increased employment and earnings.
+
+Funding.—
+
+In general
+
+(aa) for fiscal year 2014, $10,000,000; and
+
+(bb) for fiscal year 2015, $190,000,000.
+
+Limitations.—
+
+(aa) In general .— The Secretary shall not fund more than 10 pilot projects under this subparagraph.
+
+(bb) Duration .— Each pilot project shall be in effect for not more than 3 years.
+
+Availability of funds
+
+Use of funds.—
+
+In general
+
+(aa) pilot projects that comply with this chapter;
+
+(bb) the program and administrative costs of carrying out the pilot projects;
+
+(cc) the costs incurred in developing systems and providing information and data for the independent evaluations under clause (vii); and
+
+(dd) the costs of the evaluations under clause (vii).
+
+Maintenance of effort
+
+Other funds
+
+Monitoring.—
+
+In general
+
+Reporting measures.—
+
+In general
+
+Requirements
+
+State requirements
+
+Inclusions
+
+(aa) the percentage and number of program participants who are meeting program requirements in each component of the education and training program of the State agency;
+
+(bb) the percentage and number of program participants who are gaining skills likely to lead to employment as measured through testing, quantitative or qualitative assessment, or other method; and
+
+(cc) the percentage and number of program participants who do not comply with employment and training requirements and who are ineligible under section 2015(b) of this title ; and
+
+State option
+
+Oversight of state employment and training activities
+
+State report
+
+Modifications to the state employment and training plan
+
+Periodic evaluation
+
+Allocation formula
+
+Estimated factors
+
+Reporting requirement
+
+General Effective Date and Implementation
+
+Special Effective Dates and Implementation
+
+In general
+
+Application
+
+Selection
+
+In general
+
+State action
+
+“Not later than 1 year after the date of enactment [ June 23, 1998 ], the Comptroller General of the United States shall—
+
+In General
+
+Application
+
+## Source Credit
+
+*([Pub. L. 88–525, § 16](https://www.govinfo.gov/link/plaw/88/public/525), Aug. 31, 1964, [78 Stat. 709](https://www.govinfo.gov/link/statute/78/709); [Pub. L. 90–91](https://www.govinfo.gov/link/plaw/90/public/91) §§ 1, 2, Sept. 27, 1967, [81 Stat. 228](https://www.govinfo.gov/link/statute/81/228); [Pub. L. 90–552](https://www.govinfo.gov/link/plaw/90/public/552), Oct. 8, 1968, [82 Stat. 958](https://www.govinfo.gov/link/statute/82/958); [Pub. L. 91–116](https://www.govinfo.gov/link/plaw/91/public/116), Nov. 13, 1969, [83 Stat. 191](https://www.govinfo.gov/link/statute/83/191); [Pub. L. 91–671, § 9](https://www.govinfo.gov/link/plaw/91/public/671), Jan. 11, 1971, [84 Stat. 2052](https://www.govinfo.gov/link/statute/84/2052); [Pub. L. 93–86, § 3(j)](https://www.govinfo.gov/link/plaw/93/public/86), Aug. 10, 1973, [87 Stat. 248](https://www.govinfo.gov/link/statute/87/248); [Pub. L. 95–113, title XIII, § 1301](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 976](https://www.govinfo.gov/link/statute/91/976); [Pub. L. 96–58](https://www.govinfo.gov/link/plaw/96/public/58), §§ 4, 6, Aug. 14, 1979, [93 Stat. 391](https://www.govinfo.gov/link/statute/93/391); [Pub. L. 96–249, title I](https://www.govinfo.gov/link/plaw/96/public/249), §§ 121, 125, 126, 128, 129, May 26, 1980, [94 Stat. 363](https://www.govinfo.gov/link/statute/94/363), 364, 367; [Pub. L. 97–35, title I](https://www.govinfo.gov/link/plaw/97/public/35), §§ 111(b), 114, Aug. 13, 1981, [95 Stat. 362](https://www.govinfo.gov/link/statute/95/362), 363; [Pub. L. 97–98, title XIII](https://www.govinfo.gov/link/plaw/97/public/98), §§ 1325–1327, Dec. 22, 1981, [95 Stat. 1289](https://www.govinfo.gov/link/statute/95/1289); [Pub. L. 97–253, title I](https://www.govinfo.gov/link/plaw/97/public/253), §§ 179, 180(a), 189(b)(3), (c), Sept. 8, 1982, [96 Stat. 782](https://www.govinfo.gov/link/statute/96/782), 787; [Pub. L. 99–198, title XV](https://www.govinfo.gov/link/plaw/99/public/198), §§ 1517(c), 1524, 1535(c)(1), 1537(a), 1539, Dec. 23, 1985, [99 Stat. 1577](https://www.govinfo.gov/link/statute/99/1577), 1580, 1585, 1588; [Pub. L. 99–603, title I, § 121(b)(5)](https://www.govinfo.gov/link/plaw/99/public/603), Nov. 6, 1986, [100 Stat. 3391](https://www.govinfo.gov/link/statute/100/3391); [Pub. L. 100–77, title VIII, § 808(b)](https://www.govinfo.gov/link/plaw/100/public/77), July 22, 1987, [101 Stat. 536](https://www.govinfo.gov/link/statute/101/536); [Pub. L. 100–435, title II, § 204(b)](https://www.govinfo.gov/link/plaw/100/public/435), title III, § 321(b), (c), title IV, § 404(e), (g), title VI, § 604, Sept. 19, 1988, [102 Stat. 1657](https://www.govinfo.gov/link/statute/102/1657), 1662, 1668, 1675; [Pub. L. 101–624, title XVII](https://www.govinfo.gov/link/plaw/101/public/624), §§ 1750, 1752(a), 1753, Nov. 28, 1990, [104 Stat. 3797](https://www.govinfo.gov/link/statute/104/3797), 3798; [Pub. L. 102–237, title IX, § 941(7)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1892](https://www.govinfo.gov/link/statute/105/1892); [Pub. L. 103–66, title XIII](https://www.govinfo.gov/link/plaw/103/public/66), §§ 13922(c), 13951(c), 13961, Aug. 10, 1993, [107 Stat. 675](https://www.govinfo.gov/link/statute/107/675), 678, 679; [Pub. L. 103–296, title I, § 108(f)(2)](https://www.govinfo.gov/link/plaw/103/public/296), Aug. 15, 1994, [108 Stat. 1487](https://www.govinfo.gov/link/statute/108/1487); [Pub. L. 104–66, title I, § 1011(j)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 710](https://www.govinfo.gov/link/statute/109/710); [Pub. L. 104–127, title IV, § 401(b)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1026](https://www.govinfo.gov/link/statute/110/1026); [Pub. L. 104–193, title I, § 109(c)](https://www.govinfo.gov/link/plaw/104/public/193), title VIII, §§ 817(b)–(d), 844(c), 847, 848(a), (b)(2), 849, Aug. 22, 1996, [110 Stat. 2169](https://www.govinfo.gov/link/statute/110/2169), 2319, 2320, 2333–2335; [Pub. L. 105–33, title I, § 1002(a)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 252](https://www.govinfo.gov/link/statute/111/252); [Pub. L. 105–185, title V](https://www.govinfo.gov/link/plaw/105/public/185), §§ 501, 502(a), June 23, 1998, [112 Stat. 575](https://www.govinfo.gov/link/statute/112/575); [Pub. L. 106–78, title VII, § 758](https://www.govinfo.gov/link/plaw/106/public/78), Oct. 22, 1999, [113 Stat. 1172](https://www.govinfo.gov/link/statute/113/1172); [Pub. L. 107–171, title IV](https://www.govinfo.gov/link/plaw/107/public/171), §§ 4118(a), 4119(a), 4120(a), 4121(a), (d), 4122(a), May 13, 2002, [116 Stat. 316](https://www.govinfo.gov/link/statute/116/316), 321, 323, 324; [Pub. L. 110–234, title IV](https://www.govinfo.gov/link/plaw/110/public/234), §§ 4001(b), 4002(a)(8), 4115(b)(11), 4121, 4122, 4406(a)(3), (4), May 22, 2008, [122 Stat. 1092](https://www.govinfo.gov/link/statute/122/1092), 1094, 1108, 1113, 1140, 1141; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, §§ 4001(b), 4002(a)(8), 4115(b)(11), 4121, 4122, 4406(a)(3), (4), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1853, 1855, 1869, 1874, 1875, 1902; [Pub. L. 112–240, title VII, § 701(d)(1)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2363](https://www.govinfo.gov/link/statute/126/2363); [Pub. L. 113–76, div. A, title VII, § 717](https://www.govinfo.gov/link/plaw/113/public/76), Jan. 17, 2014, [128 Stat. 36](https://www.govinfo.gov/link/statute/128/36); [Pub. L. 113–79, title IV](https://www.govinfo.gov/link/plaw/113/public/79), §§ 4018(a), 4019, 4020(a), (b)(2), 4021, 4022(a), (b)(2), 4030(i), Feb. 7, 2014, [128 Stat. 797–799](https://www.govinfo.gov/link/statute/128/797), 808, 814; [Pub. L. 115–334, title IV](https://www.govinfo.gov/link/plaw/115/public/334), §§ 4005(d), 4012, 4013(b)–(e), 4015(b), Dec. 20, 2018, [132 Stat. 4632](https://www.govinfo.gov/link/statute/132/4632), 4641–4643, 4648; [Pub. L. 119–21, title I](https://www.govinfo.gov/link/plaw/119/public/21), §§ 10101(b)(1), 10106, July 4, 2025, [139 Stat. 81](https://www.govinfo.gov/link/statute/139/81), 85.)*

@@ -3,9 +3,10 @@ title: "Section 1854 - Action by Secretary"
 usc_title: 16
 usc_section: "1854"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1854"
-generated_at: "2026-03-30T02:54:22.990Z"
+generated_at: "2026-11-23T20:26:20.565Z"
+status: "active"
 ---
 
 # § 1854. Action by Secretary
@@ -107,3 +108,11 @@ generated_at: "2026-03-30T02:54:22.990Z"
   - **(2)** within 1 year after the Secretary’s determination, the appropriate Council, or Secretary, for fisheries under section 1852(a)(3) of this title shall—
     - **(A)** develop recommendations for domestic regulations to address the relative impact of fishing vessels of the United States on the stock and, if developed by a Council, the Council shall submit such recommendations to the Secretary; and
     - **(B)** develop and submit recommendations to the Secretary of State, and to the Congress, for international actions that will end overfishing in the fishery and rebuild the affected stocks, taking into account the relative impact of vessels of other nations and vessels of the United States on the relevant stock.
+
+In General
+
+Special Rule
+
+## Source Credit
+
+*([Pub. L. 94–265, title III, § 304](https://www.govinfo.gov/link/plaw/94/public/265), Apr. 13, 1976, [90 Stat. 352](https://www.govinfo.gov/link/statute/90/352); [Pub. L. 97–453, § 7(a)](https://www.govinfo.gov/link/plaw/97/public/453), Jan. 12, 1983, [96 Stat. 2487](https://www.govinfo.gov/link/statute/96/2487); [Pub. L. 99–659, title I, § 106](https://www.govinfo.gov/link/plaw/99/public/659), Nov. 14, 1986, [100 Stat. 3712](https://www.govinfo.gov/link/statute/100/3712); [Pub. L. 101–627, title I](https://www.govinfo.gov/link/plaw/101/public/627), §§ 110(a), (b)(1), (c), 111(a)(2), 120(d), Nov. 28, 1990, [104 Stat. 4449–4452](https://www.govinfo.gov/link/statute/104/4449), 4459; [Pub. L. 102–567, title III, § 303](https://www.govinfo.gov/link/plaw/102/public/567), Oct. 29, 1992, [106 Stat. 4283](https://www.govinfo.gov/link/statute/106/4283); [Pub. L. 103–206, title VII, § 702](https://www.govinfo.gov/link/plaw/103/public/206), Dec. 20, 1993, [107 Stat. 2446](https://www.govinfo.gov/link/statute/107/2446); [Pub. L. 104–297, title I, § 109(a)](https://www.govinfo.gov/link/plaw/104/public/297) –(c), (e)–(g), (i), Oct. 11, 1996, [110 Stat. 3581–3585](https://www.govinfo.gov/link/statute/110/3581), 3587; [Pub. L. 109–479, § 3(d)(2)](https://www.govinfo.gov/link/plaw/109/public/479), title I, §§ 104(c), 106(b), (d), 107, title IV, § 406, Jan. 12, 2007, [120 Stat. 3578](https://www.govinfo.gov/link/statute/120/3578), 3584, 3593, 3594, 3633.)*

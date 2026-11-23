@@ -3,9 +3,10 @@ title: "Section 3956 - Termination of certain consumer contracts"
 usc_title: 50
 usc_section: "3956"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3956"
-generated_at: "2026-03-30T02:56:26.264Z"
+generated_at: "2026-11-23T20:27:31.058Z"
+status: "active"
 ---
 
 # § 3956. Termination of certain consumer contracts
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:56:26.264Z"
   - **(3)** The term “multichannel video programming service” means a subscription video service offered by a multichannel video programming distributor, as that term is defined in section 522 of title 47 , over a system the distributor owns or controls.
   - **(4)** The term “provider-owned consumer premises equipment” means any equipment that a provider of internet access service or multichannel video programming service rents or loans to a customer during the provision of that service, including gateways, routers, cable modems, voice-capable modems, CableCARDs, converters, digital adapters, remote controls, and any other equipment provided.
   - **(5)** The term “telephone exchange service” has the meaning given that term under section 153 of title 47 .
+
+## Source Credit
+
+*(Oct. 17, 1940, ch. 888, title III, § 305A, as added [Pub. L. 110–389, title VIII, § 805(a)](https://www.govinfo.gov/link/plaw/110/public/389), Oct. 10, 2008, [122 Stat. 4188](https://www.govinfo.gov/link/statute/122/4188); amended [Pub. L. 111–275, title III, § 302(a)](https://www.govinfo.gov/link/plaw/111/public/275), Oct. 13, 2010, [124 Stat. 2875](https://www.govinfo.gov/link/statute/124/2875); [Pub. L. 115–407, title III, § 304(a)](https://www.govinfo.gov/link/plaw/115/public/407), Dec. 31, 2018, [132 Stat. 5374](https://www.govinfo.gov/link/statute/132/5374); [Pub. L. 116–285, § 2](https://www.govinfo.gov/link/plaw/116/public/285), Jan. 5, 2021, [134 Stat. 4878](https://www.govinfo.gov/link/statute/134/4878); [Pub. L. 117–333, § 17(a)](https://www.govinfo.gov/link/plaw/117/public/333), Jan. 5, 2023, [136 Stat. 6136](https://www.govinfo.gov/link/statute/136/6136).)*

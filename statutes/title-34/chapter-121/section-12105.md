@@ -3,9 +3,10 @@ title: "Section 12105 - Special rules"
 usc_title: 34
 usc_section: "12105"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12105"
-generated_at: "2026-03-30T02:55:33.282Z"
+generated_at: "2026-11-23T20:26:50.534Z"
+status: "active"
 ---
 
 # § 12105. Special rules
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:33.282Z"
 - **(c)** Notwithstanding any other provision of this part, if a State, or unit of local government located in a State that otherwise meets the requirements of section 12103 or 12104 of this title, certifies to the Attorney General that exigent circumstances exist that require the State to expend funds to build or expand facilities to confine juvenile offenders other than juvenile offenders adjudicated delinquent for an act which, if committed by an adult, would be a part 1 violent crime, the State may use funds received under this part to build or expand juvenile correctional facilities or pretrial detention facilities for juvenile offenders.
 - **(d)** A State may use funds received under this part for the privatization of facilities to carry out the purposes of section 12102 of this title .
 - **(e)** For purposes of this part, “part 1 violent crime” means a part 1 violent crime as defined in section 12101(3) 1 1 So in original. Probably should be section “12101(2)”. of this title, or a crime in a reasonably comparable class of serious violent crimes as approved by the Attorney General.
+
+## Source Credit
+
+*([Pub. L. 103–322, title II, § 20105](https://www.govinfo.gov/link/plaw/103/public/322), as added [Pub. L. 104–134, title I, § 101[(a)]](https://www.govinfo.gov/link/plaw/104/public/134) [title I, § 114(a)], Apr. 26, 1996, [110 Stat. 1321](https://www.govinfo.gov/link/statute/110/1321), 1321–17; renumbered title I, [Pub. L. 104–140, § 1(a)](https://www.govinfo.gov/link/plaw/104/public/140), May 2, 1996, [110 Stat. 1327](https://www.govinfo.gov/link/statute/110/1327); amended [Pub. L. 105–277, div. E, § 3](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–760](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 107–273, div. A, title III, § 307](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1783](https://www.govinfo.gov/link/statute/116/1783).)*

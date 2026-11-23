@@ -3,9 +3,10 @@ title: "Section 2124 - Tourism Policy Council"
 usc_title: 22
 usc_section: "2124"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2124"
-generated_at: "2026-03-30T02:55:05.342Z"
+generated_at: "2026-11-23T20:26:32.156Z"
+status: "active"
 ---
 
 # § 2124. Tourism Policy Council
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:55:05.342Z"
   - **(3)** an analysis of problems referred to the Council by State and local governments, the tourism industry, the United States National Tourism Organization, the Secretary of Commerce, along with a detailed summary of any action taken or anticipated to resolve such problems; and
   - **(4)** any recommendation as deemed appropriate by the Council.
 - **(h)** The membership of the President of the United States National Tourism Organization on the Council shall not in itself make chapter 10 of title 5 applicable to the Council.
+
+## Source Credit
+
+*([Pub. L. 87–63, title III, § 301](https://www.govinfo.gov/link/plaw/87/public/63), as added [Pub. L. 104–288, § 11](https://www.govinfo.gov/link/plaw/104/public/288), Oct. 11, 1996, [110 Stat. 3408](https://www.govinfo.gov/link/statute/110/3408); amended [Pub. L. 117–286, § 4(a)(165)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4324](https://www.govinfo.gov/link/statute/136/4324).)*

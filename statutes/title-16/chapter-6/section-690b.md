@@ -3,12 +3,17 @@ title: "Section 690b - Consent of Utah to acquisition of lands for Bear River Re
 usc_title: 16
 usc_section: "690b"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 690b"
-generated_at: "2026-03-30T02:54:22.895Z"
+generated_at: "2026-11-23T20:26:20.227Z"
+status: "active"
 ---
 
 # § 690b. Consent of Utah to acquisition of lands for Bear River Refuge; approval of title to lands acquired
 
 No such area shall be acquired by the Secretary of the Interior unless or until the Legislature of the State of Utah has consented to the acquisition of lands by the United States for use as a refuge for migratory wild fowl, and shall have provided for the use as a refuge for migratory wild fowl by the United States of any lands owned or controlled by the State in Bear River Bay, Utah, and vicinity, which the Secretary of the Interior may deem necessary for such purpose, and which the Secretary of the Interior is authorized to accept on behalf of the United States; and, except in the case of a lease, no payments shall be made by the United States for any such area until title thereto is satisfactory to the Attorney General.
 
+
+## Source Credit
+
+*(Apr. 23, 1928, ch. 413, § 3, [45 Stat. 449](https://www.govinfo.gov/link/statute/45/449); 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433](https://www.govinfo.gov/link/statute/53/1433).)*

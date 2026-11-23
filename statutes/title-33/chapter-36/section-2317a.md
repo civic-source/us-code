@@ -3,9 +3,10 @@ title: "Section 2317a - Cooperative agreements"
 usc_title: 33
 usc_section: "2317a"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2317a"
-generated_at: "2026-03-30T02:55:41.122Z"
+generated_at: "2026-11-23T20:26:54.173Z"
+status: "active"
 ---
 
 # § 2317a. Cooperative agreements
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:41.122Z"
 - **(b)**
   - **(1)** A cooperative agreement under this section may not obligate the Secretary to pay the nonprofit organization more than $1,000,000 for any single wetlands restoration project.
   - **(2)** The total value of work carried out under cooperative agreements under this section may not exceed $5,000,000 in any fiscal year.
+
+## Source Credit
+
+*([Pub. L. 110–114, title II, § 2015](https://www.govinfo.gov/link/plaw/110/public/114), Nov. 8, 2007, [121 Stat. 1076](https://www.govinfo.gov/link/statute/121/1076).)*

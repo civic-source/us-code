@@ -3,9 +3,10 @@ title: "Section 5139 - Tribal rights and privileges in connection with loans"
 usc_title: 25
 usc_section: "5139"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 5139"
-generated_at: "2026-03-30T02:54:52.864Z"
+generated_at: "2026-11-23T20:26:25.713Z"
+status: "active"
 ---
 
 # § 5139. Tribal rights and privileges in connection with loans
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:52.864Z"
 - **(b)** approved by the Secretary of the Interior, and
   - **(3)** shall comply with rules and regulations prescribed by the Secretary of Agriculture in connection with such loans.
 
+
+## Source Credit
+
+*([Pub. L. 91–229, § 3](https://www.govinfo.gov/link/plaw/91/public/229), Apr. 11, 1970, [84 Stat. 120](https://www.govinfo.gov/link/statute/84/120).)*

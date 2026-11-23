@@ -3,9 +3,10 @@ title: "Section 1503 - Influencing or injuring officer or juror generally"
 usc_title: 18
 usc_section: "1503"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 1503"
-generated_at: "2026-03-30T02:54:16.486Z"
+generated_at: "2026-11-23T20:26:08.498Z"
+status: "active"
 ---
 
 # § 1503. Influencing or injuring officer or juror generally
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:16.486Z"
   - **(1)** in the case of a killing, the punishment provided in sections 1111 and 1112;
   - **(2)** in the case of an attempted killing, or a case in which the offense was committed against a petit juror and in which a class A or B felony was charged, imprisonment for not more than 20 years, a fine under this title, or both; and
   - **(3)** in any other case, imprisonment for not more than 10 years, a fine under this title, or both.
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 769](https://www.govinfo.gov/link/statute/62/769); [Pub. L. 97–291, § 4(c)](https://www.govinfo.gov/link/plaw/97/public/291), Oct. 12, 1982, [96 Stat. 1253](https://www.govinfo.gov/link/statute/96/1253); [Pub. L. 103–322, title VI, § 60016](https://www.govinfo.gov/link/plaw/103/public/322), title XXXIII, § 330016(1)(K), Sept. 13, 1994, [108 Stat. 1974](https://www.govinfo.gov/link/statute/108/1974), 2147; [Pub. L. 104–214, § 1(3)](https://www.govinfo.gov/link/plaw/104/public/214), Oct. 1, 1996, [110 Stat. 3017](https://www.govinfo.gov/link/statute/110/3017).)*

@@ -3,9 +3,10 @@ title: "Section 278j - Studies by National Research Council"
 usc_title: 15
 usc_section: "278j"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 278j"
-generated_at: "2026-03-30T02:54:08.079Z"
+generated_at: "2026-11-23T20:26:03.685Z"
+status: "active"
 ---
 
 # § 278j. Studies by National Research Council
@@ -15,3 +16,7 @@ The Director may periodically contract with the National Research Council for ad
   - **(1)** the competitive position of the United States in key areas of manufacturing and emerging technologies and research activities which would enhance that competitiveness;
   - **(2)** potential activities of the Institute, in cooperation with industry and the States, to assist in the transfer and dissemination of new technologies for manufacturing and quality assurance; and
   - **(3)** identification and assessment of likely barriers to widespread use of advanced manufacturing technology by the United States workforce, including training and other initiatives which could lead to a higher percentage of manufacturing jobs of United States companies being located within the borders of our country.
+
+## Source Credit
+
+*(Mar. 3, 1901, ch. 872, § 24, as added [Pub. L. 100–418, title V, § 5114(2)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1432](https://www.govinfo.gov/link/statute/102/1432).)*

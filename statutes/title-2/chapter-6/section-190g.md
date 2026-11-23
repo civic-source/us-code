@@ -3,9 +3,10 @@ title: "Section 190g - Nonconsideration of certain private bills and resolutions
 usc_title: 2
 usc_section: "190g"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 190g"
-generated_at: "2026-03-30T02:53:04.792Z"
+generated_at: "2026-11-23T20:25:28.863Z"
+status: "active"
 ---
 
 # § 190g. Nonconsideration of certain private bills and resolutions
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:04.792Z"
   - **(2)** the construction of a bridge across a navigable stream; or
   - **(3)** the correction of a military or naval record, shall be received or considered in either the Senate 1 1 See Partial Repeal note below. or the House of Representatives.
 
+
+## Source Credit
+
+*(Aug. 2, 1946, ch. 753, title I, § 131, [60 Stat. 831](https://www.govinfo.gov/link/statute/60/831).)*

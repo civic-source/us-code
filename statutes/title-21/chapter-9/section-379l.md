@@ -3,9 +3,10 @@ title: "Section 379l - Education"
 usc_title: 21
 usc_section: "379l"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 379l"
-generated_at: "2026-03-30T02:54:54.275Z"
+generated_at: "2026-11-23T20:26:27.751Z"
+status: "active"
 ---
 
 # § 379l. Education
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:54.275Z"
   - **(3)** training to achieve product specialization in such inspections; and
   - **(4)** training in administrative process and procedure and integrity issues.
 - **(b)** The Secretary, acting through the Commissioner, may, through fellowships and other training programs, conduct and support intramural research training for predoctoral and postdoctoral scientists and physicians. Any such fellowships and training programs under this section or under section 379dd(d)(2)(A)(ix) of this title may include provision by such scientists and physicians of services on a voluntary and uncompensated basis, as the Secretary determines appropriate. Such scientists and physicians shall be subject to all legal and ethical requirements otherwise applicable to officers or employees of the Department of Health and Human Services.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 746, formerly § 742, as added [Pub. L. 105–115, title IV, § 408(a)](https://www.govinfo.gov/link/plaw/105/public/115), Nov. 21, 1997, [111 Stat. 2371](https://www.govinfo.gov/link/statute/111/2371); amended [Pub. L. 110–85, title VI, § 601(c)](https://www.govinfo.gov/link/plaw/110/public/85), Sept. 27, 2007, [121 Stat. 897](https://www.govinfo.gov/link/statute/121/897); renumbered § 746, [Pub. L. 110–316, title II, § 202(a)](https://www.govinfo.gov/link/plaw/110/public/316), Aug. 14, 2008, [122 Stat. 3515](https://www.govinfo.gov/link/statute/122/3515).)*

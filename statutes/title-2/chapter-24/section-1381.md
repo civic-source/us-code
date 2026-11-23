@@ -3,9 +3,10 @@ title: "Section 1381 - Establishment of Office of Congressional Workplace Rights
 usc_title: 2
 usc_section: "1381"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1381"
-generated_at: "2026-03-30T02:53:04.811Z"
+generated_at: "2026-11-23T20:25:28.960Z"
+status: "active"
 ---
 
 # § 1381. Establishment of Office of Congressional Workplace Rights
@@ -72,3 +73,15 @@ generated_at: "2026-03-30T02:53:04.811Z"
     - **(B)** The Executive Director shall retain a copy of the report described in paragraph (1), without redactions.
   - **(5)** In this subsection, the term “claimant” means an individual who received an award or settlement, or who made an allegation of a violation against an employing office, under part A of subchapter II.
 - **(m)** The Office shall establish and maintain a program for the permanent retention of its records, including the records of preliminary reviews, mediations, hearings, and other proceedings conducted under subchapter IV.
+
+Appointment of Members.—
+
+Members replacing members whose terms expire in march 2017
+
+Members replacing members whose terms expire in may 2017
+
+Service of Current Members
+
+## Source Credit
+
+*([Pub. L. 104–1, title III, § 301](https://www.govinfo.gov/link/plaw/104/public/1), Jan. 23, 1995, [109 Stat. 24](https://www.govinfo.gov/link/statute/109/24); [Pub. L. 108–349, § 1(a)](https://www.govinfo.gov/link/plaw/108/public/349), Oct. 21, 2004, [118 Stat. 1389](https://www.govinfo.gov/link/statute/118/1389); [Pub. L. 110–161, div. H, title I, § 1101(a)](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2237](https://www.govinfo.gov/link/statute/121/2237); [Pub. L. 110–164, § 1](https://www.govinfo.gov/link/plaw/110/public/164), Dec. 26, 2007, [121 Stat. 2459](https://www.govinfo.gov/link/statute/121/2459); [Pub. L. 113–235, div. H, title I, § 1001](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2530](https://www.govinfo.gov/link/statute/128/2530); [Pub. L. 115–19, § 1(c)](https://www.govinfo.gov/link/plaw/115/public/19), (d), Apr. 3, 2017, [131 Stat. 85](https://www.govinfo.gov/link/statute/131/85); [Pub. L. 115–397, title II](https://www.govinfo.gov/link/plaw/115/public/397), §§ 201(a)(1), 203, title III, § 308(a), Dec. 21, 2018, [132 Stat. 5315](https://www.govinfo.gov/link/statute/132/5315), 5318, 5325; [Pub. L. 117–286, § 4(c)(2)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4353](https://www.govinfo.gov/link/statute/136/4353).)*

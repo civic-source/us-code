@@ -3,9 +3,10 @@ title: "Section 7171 - Purpose; definitions"
 usc_title: 20
 usc_section: "7171"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 7171"
-generated_at: "2026-03-30T02:54:48.206Z"
+generated_at: "2026-11-23T20:26:14.876Z"
+status: "active"
 ---
 
 # § 7171. Purpose; definitions
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:48.206Z"
       - **(ii)** not include any applicant, or representative of an applicant, that has submitted an application under this part for the current application period; and
     - **(C)** the peer reviewers described in subparagraph (B) review and rate the applications to determine the extent to which the applications meet the requirements under sections 7174(b) and 7175 of this title.
   - **(6)** The term “State” means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
+
+## Source Credit
+
+*([Pub. L. 89–10, title IV, § 4201](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 107–110, title IV, § 401](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1765](https://www.govinfo.gov/link/statute/115/1765); amended [Pub. L. 114–95, title IV, § 4201(a)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1982](https://www.govinfo.gov/link/statute/129/1982).)*

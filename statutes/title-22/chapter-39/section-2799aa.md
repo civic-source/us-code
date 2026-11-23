@@ -3,9 +3,10 @@ title: "Section 2799aa - Nuclear enrichment transfers"
 usc_title: 22
 usc_section: "2799aa"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2799aa"
-generated_at: "2026-03-30T02:55:05.388Z"
+generated_at: "2026-11-23T20:26:32.436Z"
+status: "active"
 ---
 
 # § 2799aa. Nuclear enrichment transfers
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:05.388Z"
   - **(2)**
     - **(A)** A certification under paragraph (1) of this subsection shall take effect on the date on which the certification is received by the Congress. However, if, within thirty calendar days after receiving this certification, the Congress enacts a joint resolution stating in substance that the Congress disapproves the furnishing of assistance pursuant to the certification, then upon the enactment of that resolution the certification shall cease to be effective and all deliveries of assistance furnished under the authority of that certification shall be suspended immediately.
     - **(B)** Any joint resolution under this paragraph shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
+
+## Source Credit
+
+*([Pub. L. 90–629](https://www.govinfo.gov/link/plaw/90/public/629), ch. 10, § 101, as added [Pub. L. 103–236, title VIII, § 826(a)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 515](https://www.govinfo.gov/link/statute/108/515); amended [Pub. L. 113–276, title II, § 208(a)(1)](https://www.govinfo.gov/link/plaw/113/public/276), Dec. 18, 2014, [128 Stat. 2992](https://www.govinfo.gov/link/statute/128/2992).)*

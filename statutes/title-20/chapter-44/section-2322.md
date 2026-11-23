@@ -3,9 +3,10 @@ title: "Section 2322 - Within State allocation"
 usc_title: 20
 usc_section: "2322"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 2322"
-generated_at: "2026-03-30T02:54:48.173Z"
+generated_at: "2026-11-23T20:26:14.693Z"
+status: "active"
 ---
 
 # § 2322. Within State allocation
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:48.173Z"
   - **(2)** in order to—
     - **(A)** foster innovation through the identification and promotion of promising and proven career and technical education programs, practices, and strategies, which may include programs, practices, and strategies that prepare individuals for nontraditional fields; or
     - **(B)** promote the development, implementation, and adoption of programs of study or career pathways aligned with State-identified high-skill, high-wage, or in-demand occupations or industries.
+
+## Source Credit
+
+*([Pub. L. 88–210, title I, § 112](https://www.govinfo.gov/link/plaw/88/public/210), as added [Pub. L. 109–270, § 1(b)](https://www.govinfo.gov/link/plaw/109/public/270), Aug. 12, 2006, [120 Stat. 695](https://www.govinfo.gov/link/statute/120/695); amended [Pub. L. 115–224, title I, § 111](https://www.govinfo.gov/link/plaw/115/public/224), July 31, 2018, [132 Stat. 1579](https://www.govinfo.gov/link/statute/132/1579).)*

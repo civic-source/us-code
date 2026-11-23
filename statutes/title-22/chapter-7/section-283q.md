@@ -3,9 +3,10 @@ title: "Section 283q - Articles of agreement; authorization to agree to amendmen
 usc_title: 22
 usc_section: "283q"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 283q"
-generated_at: "2026-03-30T02:55:05.314Z"
+generated_at: "2026-11-23T20:26:31.985Z"
+status: "active"
 ---
 
 # § 283q. Articles of agreement; authorization to agree to amendments
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:05.314Z"
 - **(a)** “Amendment of the Provisions of the Agreement Establishing the Bank with Respect to Membership and to Related Matters” and
 - **(b)** “Amendment of the Provisions of the Agreement Establishing the Bank with Respect to the Election of Executive Directors”.
 
+
+## Source Credit
+
+*([Pub. L. 86–147, § 20](https://www.govinfo.gov/link/plaw/86/public/147), as added [Pub. L. 92–246, § 1](https://www.govinfo.gov/link/plaw/92/public/246), Mar. 10, 1972, [86 Stat. 59](https://www.govinfo.gov/link/statute/86/59).)*

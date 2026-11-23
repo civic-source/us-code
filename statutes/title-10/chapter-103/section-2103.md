@@ -3,9 +3,10 @@ title: "Section 2103 - Eligibility for membership"
 usc_title: 10
 usc_section: "2103"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2103"
-generated_at: "2026-03-30T02:53:38.141Z"
+generated_at: "2026-11-23T20:25:51.445Z"
+status: "active"
 ---
 
 # § 2103. Eligibility for membership
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:38.141Z"
 - **(c)** A medical, dental, pharmacy, veterinary, or sciences allied to medicine, student may be admitted to a unit of the program for a course of training consisting of 90 hours of instruction a year for four academic years.
 - **(d)** Under such conditions as the Secretary of the military department concerned may prescribe, a medical, dental, pharmacy, veterinary, or sciences allied to medicine, student who is a commissioned officer of a reserve component of an armed force may be admitted to and trained in a unit of the program.
 - **(e)** An educational institution at which a unit of the program has been established shall give priority for enrollment in the program to students who are eligible for advanced training under section 2104 of this title .
+
+## Source Credit
+
+*(Added [Pub. L. 88–647, title II, § 201(1)](https://www.govinfo.gov/link/plaw/88/public/647), Oct. 13, 1964, [78 Stat. 1065](https://www.govinfo.gov/link/statute/78/1065); amended [Pub. L. 104–201, div. A, title V, § 551(a)(1)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2525](https://www.govinfo.gov/link/statute/110/2525).)*

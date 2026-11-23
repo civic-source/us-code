@@ -3,9 +3,10 @@ title: "Section 1437 - Payment of annuity"
 usc_title: 10
 usc_section: "1437"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1437"
-generated_at: "2026-03-30T02:53:38.121Z"
+generated_at: "2026-11-23T20:25:51.329Z"
+status: "active"
 ---
 
 # § 1437. Payment of annuity
@@ -26,3 +27,20 @@ generated_at: "2026-03-30T02:53:38.121Z"
       - **(ii)** if the member is entitled to compensation under chapter 11 of title 38, from that compensation; or
       - **(iii)** if the member is entitled to any other payment from the United States, from that payment.
     - **(B)** If the member dies before the full recovery of the amount of annuity payments described in subparagraph (A) has been made by the United States, the remaining amount of such annuity payments may be collected from the member’s beneficiary under this subchapter if that beneficiary was the recipient of the annuity payments made by reason of this subsection.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1437 | 37:379. | Aug. 8, 1953, ch. 393, § 10 , 67 Stat. 504 . |
+
+
+Historical and Revision Notes
+
+1437
+
+Aug. 8, 1953, ch. 393, § 10
+
+67 Stat. 504
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 110; [Pub. L. 90–485, § 1(7)](https://www.govinfo.gov/link/plaw/90/public/485), Aug. 13, 1968, [82 Stat. 753](https://www.govinfo.gov/link/statute/82/753); [Pub. L. 92–425, § 1(2)(A)](https://www.govinfo.gov/link/plaw/92/public/425), Sept. 21, 1972, [86 Stat. 706](https://www.govinfo.gov/link/statute/86/706); [Pub. L. 96–513, title V, § 511(57)](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2925](https://www.govinfo.gov/link/statute/94/2925); [Pub. L. 98–94, title IX, § 922(a)(14)(A)](https://www.govinfo.gov/link/plaw/98/public/94), Sept. 24, 1983, [97 Stat. 642](https://www.govinfo.gov/link/statute/97/642); [Pub. L. 98–525, title VI, § 642(a)(1)](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2545](https://www.govinfo.gov/link/statute/98/2545); [Pub. L. 99–145, title XIII, § 1303(a)(9)](https://www.govinfo.gov/link/plaw/99/public/145), Nov. 8, 1985, [99 Stat. 739](https://www.govinfo.gov/link/statute/99/739).)*

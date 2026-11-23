@@ -3,12 +3,17 @@ title: "Section 384 - Card index of agricultural literature; copies to be furnis
 usc_title: 7
 usc_section: "384"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 384"
-generated_at: "2026-03-30T02:53:42.282Z"
+generated_at: "2026-11-23T20:25:41.024Z"
+status: "active"
 ---
 
 # § 384. Card index of agricultural literature; copies to be furnished by Secretary
 
 The Secretary of Agriculture may furnish to such institutions or individuals as may care to buy them copies of the card index of agricultural literature prepared by the Department of Agriculture in connection with its administration of the Act of March second, eighteen hundred and eighty-seven [ 7 U.S.C. 361a et seq.], and the Act of March sixteenth, nineteen hundred and six, and the Acts amendatory of and supplementary thereto, and charge for the same a price covering the additional expenses involved in the preparation of these copies, the money received from such sales to be deposited in the Treasury of the United States as miscellaneous receipts.
 
+
+## Source Credit
+
+*(Mar. 4, 1915, ch. 144, [38 Stat. 1109](https://www.govinfo.gov/link/statute/38/1109).)*

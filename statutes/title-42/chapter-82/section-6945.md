@@ -3,9 +3,10 @@ title: "Section 6945 - Upgrading of open dumps"
 usc_title: 42
 usc_section: "6945"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6945"
-generated_at: "2026-03-30T02:56:11.275Z"
+generated_at: "2026-11-23T20:27:22.746Z"
+status: "active"
 ---
 
 # § 6945. Upgrading of open dumps
@@ -71,3 +72,7 @@ generated_at: "2026-03-30T02:56:11.275Z"
       - **(ii)** the Administrator pursuant to paragraph (2)(B) or paragraph (5); or
     - **(B)** the applicable criteria for coal combustion residuals units under part 257 of title 40, Code of Federal Regulations (or successor regulations promulgated pursuant to sections 6907(a)(3) and 6944(a) of this title).
   - **(7)** Nothing in this subsection affects any authority, regulatory determination, other law, or legal obligation in effect on the day before December 16, 2016 .
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 4005](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 94–580, § 2](https://www.govinfo.gov/link/plaw/94/public/580), Oct. 21, 1976, [90 Stat. 2815](https://www.govinfo.gov/link/statute/90/2815); amended [Pub. L. 96–482, § 19(a)](https://www.govinfo.gov/link/plaw/96/public/482), (b), Oct. 21, 1980, [94 Stat. 2345](https://www.govinfo.gov/link/statute/94/2345); [Pub. L. 98–616, title III, § 302(c)](https://www.govinfo.gov/link/plaw/98/public/616), title IV, § 403(c), title V, § 502(c), Nov. 8, 1984, [98 Stat. 3268](https://www.govinfo.gov/link/statute/98/3268), 3272, 3276; [Pub. L. 114–322, title II, § 2301](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1736](https://www.govinfo.gov/link/statute/130/1736).)*

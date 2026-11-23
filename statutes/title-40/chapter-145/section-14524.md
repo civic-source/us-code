@@ -3,9 +3,10 @@ title: "Section 14524 - Program development criteria"
 usc_title: 40
 usc_section: "14524"
 chapter: 145
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 14524"
-generated_at: "2026-03-30T02:55:43.387Z"
+generated_at: "2026-11-23T20:26:56.695Z"
+status: "active"
 ---
 
 # § 14524. Program development criteria
@@ -20,3 +21,91 @@ generated_at: "2026-03-30T02:55:43.387Z"
 - **(b)** Financial assistance made available under this subtitle shall not be used to assist establishments relocating from one area to another.
 - **(c)** Amounts may be provided for programs and projects in a State under this subtitle only if the Commission determines that the level of federal and state financial assistance under other laws for the same type of programs or projects in that part of the State within the Appalachian region will not be diminished in order to substitute amounts authorized by this subtitle.
 - **(d)** For each fiscal year, not less than 50 percent of the amount of grant expenditures the Commission approves shall support activities or projects that benefit severely and persistently distressed counties and areas.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 14524(a) | 40 App.:224(a). | Pub. L. 89–4, title II, § 224(a) , Mar. 9, 1965 , 79 Stat. 18 ; Pub. L. 90–103, title I, § 119(a) , Oct. 11, 1967 , 81 Stat. 264 ; Pub. L. 105–393, title II, § 218(a) , (b), Nov. 13, 1998 , 112 Stat. 3622 ; Pub. L. 107–149 , §§ 8(a), 13(g), Mar. 12, 2002 , 116 Stat. 70 , 72. |
+| 14524(b) | 40 App.:224(b). | Pub. L. 89–4, title II, § 224(b) , Mar. 9, 1965 , 79 Stat. 19 ; Pub. L. 90–103, title I, § 119(b) , Oct. 11, 1967 , 81 Stat. 264 ; Pub. L. 105–393, title II, § 218(c) , Nov. 13, 1998 , 112 Stat. 3623 . |
+| 14524(c) | 40 App.:224(c). | Pub. L. 89–4, title II, § 224(c) , as added Pub. L. 94–188, title I, § 117 , Dec. 31, 1975 , 89 Stat. 1084 . |
+| 14524(d) | 40 App.:224(d). | Pub. L. 89–4, title II, § 224(d) , as added Pub. L. 107–149, § 8(b) , Mar. 12, 2002 , 116 Stat. 70 . |
+
+
+Factors To Be Considered
+
+Limitation on Use
+
+Determination Required Before Amounts May Be Provided
+
+Minimum Amount of Assistance to Distressed Counties and Areas
+
+Historical and Revision Notes
+
+14524(a)
+
+Pub. L. 89–4, title II, § 224(a)
+
+Mar. 9, 1965
+
+79 Stat. 18
+
+Pub. L. 90–103, title I, § 119(a)
+
+Oct. 11, 1967
+
+81 Stat. 264
+
+Pub. L. 105–393, title II, § 218(a)
+
+Nov. 13, 1998
+
+112 Stat. 3622
+
+Pub. L. 107–149
+
+Mar. 12, 2002
+
+116 Stat. 70
+
+14524(b)
+
+Pub. L. 89–4, title II, § 224(b)
+
+Mar. 9, 1965
+
+79 Stat. 19
+
+Pub. L. 90–103, title I, § 119(b)
+
+Oct. 11, 1967
+
+81 Stat. 264
+
+Pub. L. 105–393, title II, § 218(c)
+
+Nov. 13, 1998
+
+112 Stat. 3623
+
+14524(c)
+
+Pub. L. 89–4, title II, § 224(c)
+
+Pub. L. 94–188, title I, § 117
+
+Dec. 31, 1975
+
+89 Stat. 1084
+
+14524(d)
+
+Pub. L. 89–4, title II, § 224(d)
+
+Pub. L. 107–149, § 8(b)
+
+Mar. 12, 2002
+
+116 Stat. 70
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1275](https://www.govinfo.gov/link/statute/116/1275).)*

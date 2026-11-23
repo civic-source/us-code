@@ -3,9 +3,10 @@ title: "Section 10543 - National Guard and reserve component equipment procureme
 usc_title: 10
 usc_section: "10543"
 chapter: 1013
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 10543"
-generated_at: "2026-03-30T02:53:38.266Z"
+generated_at: "2026-11-23T20:25:52.391Z"
+status: "active"
 ---
 
 # § 10543. National Guard and reserve component equipment procurement and military construction funding: inclusion in future-years defense program
@@ -20,3 +21,13 @@ generated_at: "2026-03-30T02:53:38.266Z"
     - **(A)** the aggregate of the amounts authorized to be appropriated for the preceding fiscal year for the procurement of items of equipment, and for military construction, for the reserve components; and
     - **(B)** the aggregate of the amounts authorized to be appropriated for the fiscal year preceding the fiscal year referred to in subparagraph (A) for the procurement of items of equipment, and for military construction, for the reserve components.
   - **(3)** A report required under paragraph (1) for a fiscal year shall be submitted not later than 90 days after the date on which the President submits to Congress the budget for such fiscal year under section 1105(a) of title 31 .
+
+In General
+
+Associated Annexes
+
+Report
+
+## Source Credit
+
+*(Added [Pub. L. 104–201, div. A, title XII, § 1257(a)(1)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2699](https://www.govinfo.gov/link/statute/110/2699); amended [Pub. L. 105–85, div. A, title X, § 1009(a)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1872](https://www.govinfo.gov/link/statute/111/1872); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title IX, § 931], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–237; [Pub. L. 112–81, div. A, title X, § 1064(11)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1587](https://www.govinfo.gov/link/statute/125/1587).)*

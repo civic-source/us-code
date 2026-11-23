@@ -3,9 +3,10 @@ title: "Section 4246 - Hospitalization of a person due for release but suffering
 usc_title: 18
 usc_section: "4246"
 chapter: 313
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 4246"
-generated_at: "2026-03-30T02:54:16.529Z"
+generated_at: "2026-11-23T20:26:08.791Z"
+status: "active"
 ---
 
 # § 4246. Hospitalization of a person due for release but suffering from mental disease or defect
@@ -24,3 +25,23 @@ generated_at: "2026-03-30T02:54:16.529Z"
 - **(f)** The director of a medical facility responsible for administering a regimen imposed on a person conditionally discharged under subsection (e) shall notify the Attorney General and the court having jurisdiction over the person of any failure of the person to comply with the regimen. Upon such notice, or upon other probable cause to believe that the person has failed to comply with the prescribed regimen of medical, psychiatric, or psychological care or treatment, the person may be arrested, and, upon arrest, shall be taken without unnecessary delay before the court having jurisdiction over him. The court shall, after a hearing, determine whether the person should be remanded to a suitable facility on the ground that, in light of his failure to comply with the prescribed regimen of medical, psychiatric, or psychological care or treatment, his continued release would create a substantial risk of bodily injury to another person or serious damage to property of another.
 - **(g)** If the director of a facility in which a person is hospitalized pursuant to this chapter certifies to the Attorney General that a person, against whom all charges have been dismissed for reasons not related to the mental condition of the person, is presently suffering from a mental disease or defect as a result of which his release would create a substantial risk of bodily injury to another person or serious damage to property of another, the Attorney General shall release the person to the appropriate official of the State in which the person is domiciled or was tried for the purpose of institution of State proceedings for civil commitment. If neither such State will assume such responsibility, the Attorney General shall release the person upon receipt of notice from the State that it will not assume such responsibility, but not later than ten days after certification by the director of the facility.
 - **(h)** As used in this chapter the term “State” includes the District of Columbia.
+
+Institution of Proceeding
+
+Psychiatric or Psychological Examination and Report
+
+Hearing
+
+Determination and Disposition
+
+Discharge
+
+Revocation of Conditional Discharge
+
+Release to State of Certain Other Persons
+
+Definition
+
+## Source Credit
+
+*(Added Sept. 7, 1949, ch. 535, § 1, [63 Stat. 687](https://www.govinfo.gov/link/statute/63/687); amended [Pub. L. 98–473, title II, § 403(a)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2062](https://www.govinfo.gov/link/statute/98/2062); [Pub. L. 101–647, title XXXV, § 3599D](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4932](https://www.govinfo.gov/link/statute/104/4932); [Pub. L. 105–33, title XI, § 11204(1)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 739](https://www.govinfo.gov/link/statute/111/739).)*

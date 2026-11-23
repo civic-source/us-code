@@ -3,12 +3,17 @@ title: "Section 631a - Congressional declaration of small business economic poli
 usc_title: 15
 usc_section: "631a"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 631a"
-generated_at: "2026-03-30T02:54:08.085Z"
+generated_at: "2026-11-23T20:26:03.717Z"
+status: "active"
 ---
 
 # § 631a. Congressional declaration of small business economic policy
 
 - **(a)** For the purpose of preserving and promoting a competitive free enterprise economic system, Congress hereby declares that it is the continuing policy and responsibility of the Federal Government to use all practical means and to take such actions as are necessary, consistent with its needs and obligations and other essential considerations of national policy, to implement and coordinate all Federal department, agency, and instrumentality policies, programs, and activities in order to: foster the economic interests of small businesses; insure a competitive economic climate conducive to the development, growth and expansion of small businesses; establish incentives to assure that adequate capital and other resources at competitive prices are available to small businesses; reduce the concentration of economic resources and expand competition; and provide an opportunity for entrepreneurship, inventiveness, and the creation and growth of small businesses.
 - **(b)** Congress further declares that the Federal Government is committed to a policy of utilizing all reasonable means, consistent with the overall economic policy goals of the Nation and the preservation of the competitive free enterprise system of the Nation, to establish private sector incentives that will help assure that adequate capital at competitive prices is available to small businesses. To fulfill this policy, departments, agencies, and instrumentalities of the Federal Government shall use all reasonable means to coordinate, create, and sustain policies and programs which promote investment in small businesses, including those investments which expand employment opportunities and which foster the effective and efficient use of human and natural resources in the economy of the Nation.
+
+## Source Credit
+
+*([Pub. L. 96–302, title III, § 302](https://www.govinfo.gov/link/plaw/96/public/302), July 2, 1980, [94 Stat. 848](https://www.govinfo.gov/link/statute/94/848).)*

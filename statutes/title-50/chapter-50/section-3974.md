@@ -3,9 +3,10 @@ title: "Section 3974 - Policies entitled to protection and lapse of policies"
 usc_title: 50
 usc_section: "3974"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3974"
-generated_at: "2026-03-30T02:56:26.264Z"
+generated_at: "2026-11-23T20:27:31.059Z"
+status: "active"
 ---
 
 # § 3974. Policies entitled to protection and lapse of policies
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:56:26.264Z"
 - **(a)** The Secretary of Veterans Affairs shall determine whether a policy is entitled to protection under this subchapter and shall notify the insured and the insurer of that determination.
 - **(b)** A policy that the Secretary determines is entitled to protection under this subchapter shall not lapse or otherwise terminate or be forfeited for the nonpayment of a premium, or interest or indebtedness on a premium, after the date on which the application for protection is received by the Secretary.
 - **(c)** The protection provided by this subchapter applies during the insured’s period of military service and for a period of two years thereafter.
+
+## Source Credit
+
+*(Oct. 17, 1940, ch. 888, title IV, § 404, as added [Pub. L. 108–189, § 1](https://www.govinfo.gov/link/plaw/108/public/189), Dec. 19, 2003, [117 Stat. 2853](https://www.govinfo.gov/link/statute/117/2853).)*

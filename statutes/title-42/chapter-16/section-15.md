@@ -3,9 +3,10 @@ title: "Section 15 - Twenty-first century graduate education"
 usc_title: 42
 usc_section: "15"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 15"
-generated_at: "2026-03-30T02:56:11.128Z"
+generated_at: "2026-11-23T20:27:21.953Z"
+status: "active"
 ---
 
 # § 1862p–15. Twenty-first century graduate education
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:11.128Z"
     - **(B)** the degree to which the proposed reform will contribute to change in institutional culture and policy such that a greater value is placed on preparing graduate students for diverse careers utilizing STEM degrees;
     - **(C)** the likelihood that the institution will sustain or expand the reform beyond the period of the grant; and
     - **(D)** the degree to which scholarly assessment and evaluation plans are included in the design of the reform effort.
+
+## Source Credit
+
+*([Pub. L. 111–358, title V, § 527](https://www.govinfo.gov/link/plaw/111/public/358), Jan. 4, 2011, [124 Stat. 4020](https://www.govinfo.gov/link/statute/124/4020).)*

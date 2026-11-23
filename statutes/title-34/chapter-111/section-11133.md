@@ -3,9 +3,10 @@ title: "Section 11133 - State plans"
 usc_title: 34
 usc_section: "11133"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 11133"
-generated_at: "2026-03-30T02:55:33.277Z"
+generated_at: "2026-11-23T20:26:50.509Z"
+status: "active"
 ---
 
 # § 11133. State plans
@@ -237,3 +238,25 @@ generated_at: "2026-03-30T02:55:33.277Z"
   - **(3)** The Administrator may not—
     - **(A)** determine that a State is “not out of compliance”, or issue any other determination not described in paragraph (1), with respect to any core requirement; or
     - **(B)** otherwise fail to make the compliance determinations required under paragraph (1).
+
+(aa) credible, reasonable grounds exist to believe the detainee presents an immediate and serious threat of hurting herself, staff, or others; or
+
+(bb) reasonable grounds exist to believe the detainee presents an immediate and credible risk of escape that cannot be reasonably minimized through any other method;
+
+(aa) is an alien; or
+
+(bb) is alleged to be dependent, neglected, or abused; and
+
+(aa) identifies the valid court order that has been violated;
+
+(bb) specifies the factual basis for determining that there is reasonable cause to believe that the status offender has violated such order;
+
+(cc) includes findings of fact to support a determination that there is no appropriate less restrictive alternative available to placing the status offender in such a facility, with due consideration to the best interest of the juvenile;
+
+(dd) specifies the length of time, not to exceed 7 days, that the status offender may remain in a secure detention facility or correctional facility, and includes a plan for the status offender’s release from such facility; and
+
+(ee) may not be renewed or extended; and
+
+## Source Credit
+
+*([Pub. L. 93–415, title II, § 223](https://www.govinfo.gov/link/plaw/93/public/415), Sept. 7, 1974, [88 Stat. 1119](https://www.govinfo.gov/link/statute/88/1119); [Pub. L. 94–503, title I, § 130(b)](https://www.govinfo.gov/link/plaw/94/public/503), Oct. 15, 1976, [90 Stat. 2425](https://www.govinfo.gov/link/statute/90/2425); [Pub. L. 95–115](https://www.govinfo.gov/link/plaw/95/public/115), §§ 3(a)(3)(B), 4(c), Oct. 3, 1977, [91 Stat. 1048](https://www.govinfo.gov/link/statute/91/1048), 1051; [Pub. L. 96–509](https://www.govinfo.gov/link/plaw/96/public/509), §§ 11, 19(g), Dec. 8, 1980, [94 Stat. 2755](https://www.govinfo.gov/link/statute/94/2755), 2764; [Pub. L. 98–473, title II, § 626](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2111](https://www.govinfo.gov/link/statute/98/2111); [Pub. L. 100–690, title VII](https://www.govinfo.gov/link/plaw/100/public/690), §§ 7258, 7263(b)(1), Nov. 18, 1988, [102 Stat. 4439](https://www.govinfo.gov/link/statute/102/4439), 4447; [Pub. L. 102–586, § 2(f)(3)(A)](https://www.govinfo.gov/link/plaw/102/public/586), Nov. 4, 1992, [106 Stat. 4987](https://www.govinfo.gov/link/statute/106/4987); [Pub. L. 103–322, title XI, § 110201(d)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2012](https://www.govinfo.gov/link/statute/108/2012); [Pub. L. 104–294, title VI, § 604(b)(28)](https://www.govinfo.gov/link/plaw/104/public/294), Oct. 11, 1996, [110 Stat. 3508](https://www.govinfo.gov/link/statute/110/3508); [Pub. L. 105–277, div. A, § 101(b) [title I, § 129(a)(2)(C)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–50](https://www.govinfo.gov/link/statute/112/2681), 2681–76; [Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 142]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–235; [Pub. L. 107–273, div. C, title II, § 12209](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1873](https://www.govinfo.gov/link/statute/116/1873); [Pub. L. 109–162, title III, § 305](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3016](https://www.govinfo.gov/link/statute/119/3016); [Pub. L. 115–385, title II, § 205](https://www.govinfo.gov/link/plaw/115/public/385), Dec. 21, 2018, [132 Stat. 5131](https://www.govinfo.gov/link/statute/132/5131).)*

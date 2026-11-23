@@ -3,9 +3,10 @@ title: "Section 3680A - Disapproval of enrollment in certain courses"
 usc_title: 38
 usc_section: "3680A"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 3680A"
-generated_at: "2026-03-30T02:55:53.508Z"
+generated_at: "2026-11-23T20:27:01.872Z"
+status: "active"
 ---
 
 # § 3680A. Disapproval of enrollment in certain courses
@@ -92,3 +93,15 @@ generated_at: "2026-03-30T02:55:53.508Z"
       - **(iii)** has not been approved under this chapter.
 - **(g)** Notwithstanding subsections (e) and (f)(1), the Secretary may approve the enrollment of an eligible veteran in a course approved under this chapter if the course is offered by an educational institution under contract with the Department of Defense or the Department of Homeland Security and is given on or immediately adjacent to a military base, Coast Guard station, National Guard facility, or facility of the Selected Reserve.
 - **(h)** In this section, the terms “State or local area”, “recognized postsecondary credential”, “industry or sector partnership”, and “in-demand industry sector or occupation” have the meaning given such terms in section 3 of the Workforce Innovation and Opportunity Act ( 29 U.S.C. 3102 ).
+
+(aa) an area career and technical education school (as defined in subparagraphs (C) and (D) of section 3(3) of the Carl D. Perkins Career and Technical Education Act of 2006 ( 20 U.S.C. 2302(3) )) that provides education at the postsecondary level; or
+
+(bb) a postsecondary vocational institution (as defined in section 102(c) of the Higher Education Act of 1965 ( 20 U.S.C. 1002(c) )) that provides education at the postsecondary level; and
+
+(aa) has been operating for at least one year; and
+
+(bb) offers such commercial driver education program, using the same curriculum as another branch of such educational institution.
+
+## Source Credit
+
+*(Added [Pub. L. 102–568, title III, § 313(a)(2)](https://www.govinfo.gov/link/plaw/102/public/568), Oct. 29, 1992, [106 Stat. 4331](https://www.govinfo.gov/link/statute/106/4331); amended [Pub. L. 104–275, title I](https://www.govinfo.gov/link/plaw/104/public/275), §§ 103(a)(2), (b), 104(c), Oct. 9, 1996, [110 Stat. 3326](https://www.govinfo.gov/link/statute/110/3326), 3327; [Pub. L. 105–114, title IV, § 401(d)](https://www.govinfo.gov/link/plaw/105/public/114), (e), Nov. 21, 1997, [111 Stat. 2293](https://www.govinfo.gov/link/statute/111/2293); [Pub. L. 105–368, title X, § 1005(b)(9)](https://www.govinfo.gov/link/plaw/105/public/368), Nov. 11, 1998, [112 Stat. 3365](https://www.govinfo.gov/link/statute/112/3365); [Pub. L. 107–103, title I, § 111(a)](https://www.govinfo.gov/link/plaw/107/public/103), Dec. 27, 2001, [115 Stat. 986](https://www.govinfo.gov/link/statute/115/986); [Pub. L. 107–296, title XVII, § 1704(d)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2315](https://www.govinfo.gov/link/statute/116/2315); [Pub. L. 115–48, title III, § 302](https://www.govinfo.gov/link/plaw/115/public/48), Aug. 16, 2017, [131 Stat. 990](https://www.govinfo.gov/link/statute/131/990); [Pub. L. 117–174, § 2(a)](https://www.govinfo.gov/link/plaw/117/public/174), Aug. 26, 2022, [136 Stat. 2104](https://www.govinfo.gov/link/statute/136/2104); [Pub. L. 117–333, § 9(a)](https://www.govinfo.gov/link/plaw/117/public/333), Jan. 5, 2023, [136 Stat. 6130](https://www.govinfo.gov/link/statute/136/6130); [Pub. L. 118–95, § 2(a)](https://www.govinfo.gov/link/plaw/118/public/95), Oct. 1, 2024, [138 Stat. 1567](https://www.govinfo.gov/link/statute/138/1567); [Pub. L. 118–210, title II](https://www.govinfo.gov/link/plaw/118/public/210), §§ 206(b)(2)(D), 209(a), 212(c), Jan. 2, 2025, [138 Stat. 2764](https://www.govinfo.gov/link/statute/138/2764), 2765, 2773.)*

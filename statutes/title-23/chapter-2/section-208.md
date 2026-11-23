@@ -3,9 +3,10 @@ title: "Section 208 - Safe routes to school"
 usc_title: 23
 usc_section: "208"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 208"
-generated_at: "2026-03-30T02:55:12.566Z"
+generated_at: "2026-11-23T20:26:23.857Z"
+status: "active"
 ---
 
 # § 208. Safe routes to school
@@ -42,3 +43,55 @@ generated_at: "2026-03-30T02:55:12.566Z"
     - **(C)** to provide technical assistance and disseminate techniques and strategies used for successful safe routes to school programs.
   - **(2)** The Secretary shall carry out this subsection using amounts set aside for administrative expenses under subsection (d)(3).
 - **(i)** Notwithstanding any other provision of law, a project assisted under this section shall be treated as a project on a Federal-aid highway under chapter 1.
+
+Definitions
+
+In the vicinity of schools
+
+Primary, middle, and high schools
+
+Establishment
+
+Purposes
+
+Apportionment of Funds.—
+
+In general
+
+Minimum apportionment
+
+Set-aside for administrative expenses
+
+Determination of student enrollments
+
+Administration of Amounts
+
+Eligible Recipients
+
+Eligible Projects and Activities.—
+
+Infrastructure-related projects.—
+
+In general
+
+Location of projects
+
+Noninfrastructure-related activities.—
+
+In general
+
+Allocation
+
+Safe routes to school coordinator
+
+Clearinghouse.—
+
+In general
+
+Funding
+
+Treatment of Projects
+
+## Source Credit
+
+*(Added [Pub. L. 117–58, div. A, title I, § 11119(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 495](https://www.govinfo.gov/link/statute/135/495).)*

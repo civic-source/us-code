@@ -3,9 +3,10 @@ title: "Section 3108 - Allowances"
 usc_title: 38
 usc_section: "3108"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 3108"
-generated_at: "2026-03-30T02:55:53.501Z"
+generated_at: "2026-11-23T20:27:01.829Z"
+status: "active"
 ---
 
 # § 3108. Allowances
@@ -17,7 +18,24 @@ generated_at: "2026-03-30T02:55:53.501Z"
     - **(B)** In any case in which the Secretary determines that a veteran described in subparagraph (A) has been displaced as the result of a natural or other disaster while being paid a subsistence allowance under that subparagraph, as determined by the Secretary, the Secretary may extend the payment of a subsistence allowance under such subparagraph for up to an additional two months while the veteran is satisfactorily following a program of employment services described in such subparagraph.
   - **(3)** A subsistence allowance may not be paid under this chapter to a veteran for any period during which such veteran is being provided with an initial evaluation under section 3106(a) of this title or during which such veteran is being provided only with counseling or with placement or postplacement services under section 3105(b) of this title .
 - **(b)**
-  - **(1)** Except as otherwise provided in this section, the Secretary shall determine the subsistence allowance to be paid to a veteran under this chapter in accordance with the following table, which shall be the monthly amount shown in column II, III, IV, or V (whichever is applicable as determined by the veteran’s dependency status) opposite the appropriate type of program being pursued as specified in column I: Column I Column II Column III Column IV Column V Type of program No dependents One dependent Two dependents More than two dependents The amount in column IV, plus the following for each dependent in excess of two: Institu­tional training: Full-time $366 $454 $535 $39 Three-quarter time 275 341 400 30 Half-time 184 228 268 20 Farm coop­erative, apprentice, or other on-job training: Full-time 320 387 446 29 Extended evaluation: Full-time 366 454 535 39 Independent living training: Full-time 366 454 535 39 Three-quarter time 275 341 400 30 Half-time 184 228 268 20
+  - **(1)** Except as otherwise provided in this section, the Secretary shall determine the subsistence allowance to be paid to a veteran under this chapter in accordance with the following table, which shall be the monthly amount shown in column II, III, IV, or V (whichever is applicable as determined by the veteran’s dependency status) opposite the appropriate type of program being pursued as specified in column I:
+
+| Column I | Column II | Column III | Column IV | Column V |
+| --- | --- | --- | --- | --- |
+|  |  |  |  | The amount in column IV, plus the following for each dependent in excess of two: |
+| Institu­tional training: |  |  |  |  |
+| Full-time | $366 | $454 | $535 | $39 |
+| Three-quarter time | 275 | 341 | 400 | 30 |
+| Half-time | 184 | 228 | 268 | 20 |
+| Farm coop­erative, apprentice, or other on-job training: |  |  |  |  |
+| Full-time | 320 | 387 | 446 | 29 |
+| Extended evaluation: |  |  |  |  |
+| Full-time | 366 | 454 | 535 | 39 |
+| Independent living training: |  |  |  |  |
+| Full-time | 366 | 454 | 535 | 39 |
+| Three-quarter time | 275 | 341 | 400 | 30 |
+| Half-time | 184 | 228 | 268 | 20 |
+
   - **(2)** With respect to the fiscal year beginning on October 1, 1994 , the Secretary shall provide a percentage increase in the monthly rates payable under paragraph (1) of this subsection equal to the percentage by which the Consumer Price Index (all items, United States city average published by the Bureau of Labor Statistics) for the 12-month period ending June 30, 1994 , exceeds such Consumer Price Index for the 12-month period ending June 30, 1993 .
   - **(3)** With respect to any fiscal year beginning on or after October 1, 1995 , the Secretary shall continue to pay, in lieu of the rates payable under paragraph (1) of this subsection, the monthly rates payable under this subsection for the previous fiscal year and shall provide, for any such fiscal year, a percentage increase in such rates equal to the percentage by which—
     - **(A)** the Consumer Price Index (all items, United States city average) for the 12-month period ending on June 30 preceding the beginning of the fiscal year for which the increase is made, exceeds
@@ -44,3 +62,19 @@ generated_at: "2026-03-30T02:55:53.501Z"
     - **(B)** the amount of monthly compensation that would be paid to such veteran if such veteran were not receiving compensation at such rate as the result of such hospital treatment or observation; or
   - **(2)** the amount of monthly compensation payable under section 1114(j) of this title .
 - **(i)** Payment of a subsistence allowance may be made in advance in accordance with the provisions of section 3680(d) of this title .
+
+Full-time
+
+Half-time
+
+Full-time
+
+Full-time
+
+Full-time
+
+Half-time
+
+## Source Credit
+
+*(Added [Pub. L. 96–466, title I, § 101(a)](https://www.govinfo.gov/link/plaw/96/public/466), Oct. 17, 1980, [94 Stat. 2178](https://www.govinfo.gov/link/statute/94/2178), § 1508; amended [Pub. L. 97–306, title II, § 205(a)](https://www.govinfo.gov/link/plaw/97/public/306), Oct. 14, 1982, [96 Stat. 1434](https://www.govinfo.gov/link/statute/96/1434); [Pub. L. 98–525, title VII, § 703(a)](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2564](https://www.govinfo.gov/link/statute/98/2564); [Pub. L. 98–543, title II, § 201](https://www.govinfo.gov/link/plaw/98/public/543), Oct. 24, 1984, [98 Stat. 2740](https://www.govinfo.gov/link/statute/98/2740); [Pub. L. 101–237, title IV](https://www.govinfo.gov/link/plaw/101/public/237), §§ 402(a), 423(b)(1), Dec. 18, 1989, [103 Stat. 2078](https://www.govinfo.gov/link/statute/103/2078), 2092; [Pub. L. 102–16, § 3(c)](https://www.govinfo.gov/link/plaw/102/public/16), Mar. 22, 1991, [105 Stat. 49](https://www.govinfo.gov/link/statute/105/49); renumbered § 3108 and amended [Pub. L. 102–83, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/83), (c)(1), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 102–568, title IV, § 405(a)](https://www.govinfo.gov/link/plaw/102/public/568), (b), Oct. 29, 1992, [106 Stat. 4338](https://www.govinfo.gov/link/statute/106/4338), 4339; [Pub. L. 103–446, title VI, § 602(b)](https://www.govinfo.gov/link/plaw/103/public/446), Nov. 2, 1994, [108 Stat. 4671](https://www.govinfo.gov/link/statute/108/4671); [Pub. L. 104–275, title I, § 101(g)](https://www.govinfo.gov/link/plaw/104/public/275), Oct. 9, 1996, [110 Stat. 3325](https://www.govinfo.gov/link/statute/110/3325); [Pub. L. 109–461, title X, § 1002(b)](https://www.govinfo.gov/link/plaw/109/public/461), Dec. 22, 2006, [120 Stat. 3465](https://www.govinfo.gov/link/statute/120/3465); [Pub. L. 111–377, title II, § 205(a)](https://www.govinfo.gov/link/plaw/111/public/377), Jan. 4, 2011, [124 Stat. 4126](https://www.govinfo.gov/link/statute/124/4126); [Pub. L. 112–154, title VII, § 701(b)](https://www.govinfo.gov/link/plaw/112/public/154), Aug. 6, 2012, [126 Stat. 1203](https://www.govinfo.gov/link/statute/126/1203); [Pub. L. 114–58, title VI, § 601(15)](https://www.govinfo.gov/link/plaw/114/public/58), Sept. 30, 2015, [129 Stat. 539](https://www.govinfo.gov/link/statute/129/539).)*

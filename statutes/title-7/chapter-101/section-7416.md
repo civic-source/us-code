@@ -3,9 +3,10 @@ title: "Section 7416 - Assessments"
 usc_title: 7
 usc_section: "7416"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7416"
-generated_at: "2026-03-30T02:53:42.451Z"
+generated_at: "2026-11-23T20:25:41.779Z"
+status: "active"
 ---
 
 # § 7416. Assessments
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:53:42.451Z"
   - **(7)** If the order is approved in a referendum conducted under section 7417(b)(1) of this title —
     - **(A)** the escrow account shall be closed; and
     - **(B)** the funds shall be available to the board for disbursement as authorized in the order.
+
+## Source Credit
+
+*([Pub. L. 104–127, title V, § 517](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1042](https://www.govinfo.gov/link/statute/110/1042).)*

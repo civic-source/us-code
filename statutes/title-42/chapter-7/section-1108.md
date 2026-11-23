@@ -3,9 +3,10 @@ title: "Section 1108 - Advisory Council on Unemployment Compensation"
 usc_title: 42
 usc_section: "1108"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1108"
-generated_at: "2026-03-30T02:56:10.902Z"
+generated_at: "2026-11-23T20:27:20.964Z"
+status: "active"
 ---
 
 # § 1108. Advisory Council on Unemployment Compensation
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:10.902Z"
 - **(f)**
   - **(1)** Not later than February 1 of the third year following the year in which any Council is required to be established under subsection (a), the Council shall submit to the President and the Congress a report setting forth the findings and recommendations of the Council as a result of its evaluation of the unemployment compensation program under this section.
   - **(2)** The Council shall include in its report required to be submitted by February 1, 1995 , the Council’s findings and recommendations with respect to determining eligibility for extended unemployment benefits on the basis of unemployment statistics for regions, States, or subdivisions of States.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IX, § 908, as added [Pub. L. 91–373, title I, § 141](https://www.govinfo.gov/link/plaw/91/public/373), Aug. 10, 1970, [84 Stat. 706](https://www.govinfo.gov/link/statute/84/706); amended [Pub. L. 98–369, div. B, title VI, § 2663(d)(4)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1167](https://www.govinfo.gov/link/statute/98/1167); [Pub. L. 102–164, title III, § 303](https://www.govinfo.gov/link/plaw/102/public/164), Nov. 15, 1991, [105 Stat. 1059](https://www.govinfo.gov/link/statute/105/1059); [Pub. L. 103–152, § 6](https://www.govinfo.gov/link/plaw/103/public/152), Nov. 24, 1993, [107 Stat. 1518](https://www.govinfo.gov/link/statute/107/1518).)*

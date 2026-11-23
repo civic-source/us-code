@@ -3,9 +3,10 @@ title: "Section 3620 - Authority of Ambassador; independence of Commission regar
 usc_title: 22
 usc_section: "3620"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3620"
-generated_at: "2026-03-30T02:55:05.395Z"
+generated_at: "2026-11-23T20:26:32.465Z"
+status: "active"
 ---
 
 # § 3620. Authority of Ambassador; independence of Commission regarding its Panama Canal responsibilities
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.395Z"
   - **(2)** The benefits referred to in paragraph (1) are the following:
     - **(A)** Pension, disability, and medical benefits provided by the Panama Canal Commission pursuant to section 3682 of this title .
     - **(B)** Compensation for work injuries covered by chapter 81 of title 5.
+
+## Source Credit
+
+*([Pub. L. 96–70, title I, § 1110](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 459](https://www.govinfo.gov/link/statute/93/459); [Pub. L. 105–85, div. C, title XXXV, § 3550(d)(4)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 2074](https://www.govinfo.gov/link/statute/111/2074); [Pub. L. 105–261, div. C, title XXXV, § 3506](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2269](https://www.govinfo.gov/link/statute/112/2269).)*

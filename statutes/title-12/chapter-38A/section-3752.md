@@ -3,9 +3,10 @@ title: "Section 3752 - Definitions"
 usc_title: 12
 usc_section: "3752"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 3752"
-generated_at: "2026-03-30T02:53:53.497Z"
+generated_at: "2026-11-23T20:25:59.348Z"
+status: "active"
 ---
 
 # § 3752. Definitions
@@ -34,3 +35,7 @@ For purposes of this chapter, the following definitions shall apply:
     - **(G)** the Northern Mariana Islands;
     - **(H)** the Trust Territory of the Pacific Islands; and
     - **(I)** Indian tribes, as defined by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 103–327, title II](https://www.govinfo.gov/link/plaw/103/public/327), Sept. 28, 1994, [108 Stat. 2316](https://www.govinfo.gov/link/statute/108/2316).)*

@@ -3,9 +3,10 @@ title: "Section 1991 - Definitions"
 usc_title: 7
 usc_section: "1991"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1991"
-generated_at: "2026-03-30T02:53:42.352Z"
+generated_at: "2026-11-23T20:25:41.375Z"
+status: "active"
 ---
 
 # § 1991. Definitions
@@ -84,3 +85,73 @@ generated_at: "2026-03-30T02:53:42.352Z"
     - **(C)** loan restructuring, including deferral, set aside, or writing down of the principal or accumulated interest charges, or both, of the loan; or
     - **(D)** any combination of actions described in subparagraphs (A), (B), and (C).
   - **(4)** The term “preservation loan service program” means homestead retention as authorized under section 2000 of this title .
+
+(aa) materially and substantially participates in the operation of the farm or ranch; and
+
+(bb) provides substantial day-to-day labor and management of the farm or ranch, consistent with the practices in the State or county in which the farm or ranch is located; or
+
+(aa) in the case of a loan made to a cooperative, corporation, partnership, joint operation, or such other legal entity as the Secretary considers appropriate, has members, stockholders, partners, joint operators, or owners, materially and substantially participate in the operation of the farm or ranch; and
+
+(bb) in the case of a loan made to a cooperative, corporation, partnership, joint operation, or other such legal entity as the Secretary considers appropriate, has members, stockholders, partners, or joint operators, all of whom are qualified beginning farmers or ranchers; and
+
+(aa) materially and substantially participate in the operation of the farm or ranch; and
+
+(bb) provide substantial day-to-day labor and management of the farm or ranch, consistent with the practices in the State or county in which the farm or ranch is located; or
+
+(aa) in the case of a loan made to a cooperative, corporation, partnership, joint operation, or such other legal entity as the Secretary considers appropriate, will have members, stockholders, partners, joint operators, or owners, materially and substantially participate in the operation of the farm or ranch; and
+
+(bb) in the case of a loan made to a cooperative, corporation, partnership, joint operation, or other such legal entity as the Secretary considers appropriate, has members, stockholders, partners, or joint operators, all of whom are qualified beginning farmers or ranchers;
+
+Debt forgiveness.—
+
+In general
+
+Exceptions
+
+Rural and rural area.—
+
+In general
+
+Water and waste disposal grants and direct loans
+
+Community facility loans and grants
+
+Areas rural in character.—
+
+Application
+
+(aa) has 2 points on its boundary that are at least 40 miles apart; and
+
+(bb) is not contiguous or adjacent to a city or town that has a population of greater than 150,000 inhabitants or an urbanized area of such city or town; and
+
+Determination
+
+Administration
+
+Exclusions
+
+Urban area growth.—
+
+Application
+
+(aa) is a collection of census blocks that are contiguous to each other;
+
+(bb) has a housing density that the Secretary estimates is greater than 200 housing units per square mile; and
+
+(cc) is contiguous or adjacent to an existing boundary of a rural area; and
+
+Adjustments
+
+Appeals
+
+Hawaii and puerto rico
+
+Exclusion of incarcerated populations
+
+Limited exclusion of military base populations
+
+Preservation loan service program
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 343](https://www.govinfo.gov/link/plaw/87/public/128), as added [Pub. L. 87–703, title IV, § 401(5)](https://www.govinfo.gov/link/plaw/87/public/703), Sept. 27, 1962, [76 Stat. 632](https://www.govinfo.gov/link/statute/76/632); amended [Pub. L. 89–586](https://www.govinfo.gov/link/plaw/89/public/586), Sept. 19, 1966, [80 Stat. 809](https://www.govinfo.gov/link/statute/80/809); [Pub. L. 92–419, title I, § 128(a)](https://www.govinfo.gov/link/plaw/92/public/419), Aug. 30, 1972, [86 Stat. 666](https://www.govinfo.gov/link/statute/86/666); [Pub. L. 95–334, title I, § 124](https://www.govinfo.gov/link/plaw/95/public/334), Aug. 4, 1978, [92 Stat. 428](https://www.govinfo.gov/link/statute/92/428); [Pub. L. 96–438, § 2(2)](https://www.govinfo.gov/link/plaw/96/public/438), Oct. 13, 1980, [94 Stat. 1872](https://www.govinfo.gov/link/statute/94/1872); [Pub. L. 99–198, title XIII, § 1301(b)](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1519](https://www.govinfo.gov/link/statute/99/1519); [Pub. L. 100–233, title VI, § 602](https://www.govinfo.gov/link/plaw/100/public/233), Jan. 6, 1988, [101 Stat. 1665](https://www.govinfo.gov/link/statute/101/1665); [Pub. L. 101–624, title XVIII, § 1814](https://www.govinfo.gov/link/plaw/101/public/624), title XXIII, § 2388(h), Nov. 28, 1990, [104 Stat. 3824](https://www.govinfo.gov/link/statute/104/3824), 4053; [Pub. L. 102–237, title VII, § 702(h)(1)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1880](https://www.govinfo.gov/link/statute/105/1880); [Pub. L. 102–554, § 19](https://www.govinfo.gov/link/plaw/102/public/554), Oct. 28, 1992, [106 Stat. 4158](https://www.govinfo.gov/link/statute/106/4158); [Pub. L. 104–127, title VI](https://www.govinfo.gov/link/plaw/104/public/127), §§ 640, 661(h), title VII, § 749(b)(2), Apr. 4, 1996, [110 Stat. 1098](https://www.govinfo.gov/link/statute/110/1098), 1107, 1129; [Pub. L. 105–113, § 3(c)](https://www.govinfo.gov/link/plaw/105/public/113), Nov. 21, 1997, [111 Stat. 2275](https://www.govinfo.gov/link/statute/111/2275); [Pub. L. 107–171, title V, § 5310](https://www.govinfo.gov/link/plaw/107/public/171), title VI, § 6020(a), May 13, 2002, [116 Stat. 346](https://www.govinfo.gov/link/statute/116/346), 362; [Pub. L. 110–234, title VI, § 6018(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1170](https://www.govinfo.gov/link/statute/122/1170); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VI, § 6018(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1931; [Pub. L. 113–79, title V, § 5303](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 839](https://www.govinfo.gov/link/statute/128/839); [Pub. L. 115–334, title V, § 5401(e)(1)](https://www.govinfo.gov/link/plaw/115/public/334), (f)(1), title VI, §§ 6301(a), 6402(a), Dec. 20, 2018, [132 Stat. 4674](https://www.govinfo.gov/link/statute/132/4674), 4748, 4757.)*

@@ -3,9 +3,10 @@ title: "Section 1902 - Scholarship, fellowship, and grant program"
 usc_title: 50
 usc_section: "1902"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 1902"
-generated_at: "2026-03-30T02:56:26.215Z"
+generated_at: "2026-11-23T20:27:30.806Z"
+status: "active"
 ---
 
 # § 1902. Scholarship, fellowship, and grant program
@@ -93,3 +94,7 @@ generated_at: "2026-03-30T02:56:26.215Z"
       - **(i)** under the terms of the agreement for such scholarship or fellowship, owes a service commitment to a Department or Federal agency or office referred to in paragraph (1);
       - **(ii)** is employed by the Federal Government under a non-permanent appointment to a position in the excepted service that has national security responsibilities; or
       - **(iii)** is a former civilian employee of the Federal Government who has less than a one-year break in service from the last period of Federal employment of such individual in a non-permanent appointment in the excepted service with national security responsibilities.
+
+## Source Credit
+
+*([Pub. L. 102–183, title VIII, § 802](https://www.govinfo.gov/link/plaw/102/public/183), Dec. 4, 1991, [105 Stat. 1271](https://www.govinfo.gov/link/statute/105/1271); [Pub. L. 102–496, title IV, § 404(b)](https://www.govinfo.gov/link/plaw/102/public/496), (c), Oct. 24, 1992, [106 Stat. 3185](https://www.govinfo.gov/link/statute/106/3185); [Pub. L. 103–178, title III, § 311(b)(2)](https://www.govinfo.gov/link/plaw/103/public/178), (d), Dec. 3, 1993, [107 Stat. 2037](https://www.govinfo.gov/link/statute/107/2037); [Pub. L. 104–201, div. A, title X, § 1078(b)](https://www.govinfo.gov/link/plaw/104/public/201) –(d), (f)(2), Sept. 23, 1996, [110 Stat. 2664–2666](https://www.govinfo.gov/link/statute/110/2664); [Pub. L. 105–272, title III, § 305(a)(2)](https://www.govinfo.gov/link/plaw/105/public/272), Oct. 20, 1998, [112 Stat. 2400](https://www.govinfo.gov/link/statute/112/2400); [Pub. L. 107–296, title XIII, § 1332(b)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2300](https://www.govinfo.gov/link/statute/116/2300); [Pub. L. 107–306, title III](https://www.govinfo.gov/link/plaw/107/public/306), §§ 332, 333(a)(1)–(3), Nov. 27, 2002, [116 Stat. 2395](https://www.govinfo.gov/link/statute/116/2395), 2396; [Pub. L. 108–136, div. A, title IX, § 925(a)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1578](https://www.govinfo.gov/link/statute/117/1578); [Pub. L. 108–487, title VI](https://www.govinfo.gov/link/plaw/108/public/487), §§ 601(b), 602(a)(1), 603(a)(1), (2), Dec. 23, 2004, [118 Stat. 3952–3954](https://www.govinfo.gov/link/statute/118/3952); [Pub. L. 109–364, div. A, title IX, § 945(a)](https://www.govinfo.gov/link/plaw/109/public/364), (b), Oct. 17, 2006, [120 Stat. 2367](https://www.govinfo.gov/link/statute/120/2367); [Pub. L. 110–181, div. A, title IX, § 953](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 292](https://www.govinfo.gov/link/statute/122/292); [Pub. L. 111–84, div. A, title XI, § 1101](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2484](https://www.govinfo.gov/link/statute/123/2484); [Pub. L. 112–239, div. A, title IX, § 956](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1899](https://www.govinfo.gov/link/statute/126/1899); [Pub. L. 115–91, div. A, title XVI, § 1625](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1733](https://www.govinfo.gov/link/statute/131/1733); [Pub. L. 118–31, div. G, title IX, § 7901(c)(1)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1106](https://www.govinfo.gov/link/statute/137/1106).)*

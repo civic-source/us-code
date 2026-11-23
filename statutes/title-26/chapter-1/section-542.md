@@ -3,9 +3,10 @@ title: "Section 542 - Definition of personal holding company"
 usc_title: 26
 usc_section: "542"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 542"
-generated_at: "2026-03-30T02:55:27.717Z"
+generated_at: "2026-11-23T20:26:45.819Z"
+status: "active"
 ---
 
 # § 542. Definition of personal holding company
@@ -57,3 +58,17 @@ generated_at: "2026-03-30T02:55:27.717Z"
     - **(A)** deductions which are allowable only by reason of section 162 or section 404, except there shall not be included any such deduction in respect of compensation for personal services rendered by shareholders (including members of the shareholder’s family as described in section 544(a)(2)), and
     - **(B)** deductions allowable under section 167, and deductions allowable under section 164 for real property taxes, but in either case only to the extent that the property with respect to which such deductions are allowable is used directly in the active and regular conduct of the lending or finance business.
   - **(3)** For purposes of subsection (c)(6)(B), in the case of a lending or finance company which meets the requirements of subsection (c)(6)(A), there shall not be treated as personal holding company income the lawful income received from a corporation which meets the requirements of subsection (c)(6) and which is a member of the same affiliated group (as defined in section 1504) of which such company is a member.
+
+Subsection
+
+Subsections
+
+and
+
+In general
+
+Effective date
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 182; ch. 871, § 3, Aug. 12, 1955, [69 Stat. 718](https://www.govinfo.gov/link/statute/69/718); [Pub. L. 86–376, § 3(a)](https://www.govinfo.gov/link/plaw/86/public/376), Sept. 23, 1959, [73 Stat. 700](https://www.govinfo.gov/link/statute/73/700); [Pub. L. 87–768, § 1](https://www.govinfo.gov/link/plaw/87/public/768), Oct. 9, 1962, [76 Stat. 766](https://www.govinfo.gov/link/statute/76/766); [Pub. L. 88–272, title II, § 225(b)](https://www.govinfo.gov/link/plaw/88/public/272), (c), (k)(1), Feb. 26, 1964, [78 Stat. 79](https://www.govinfo.gov/link/statute/78/79), 93; [Pub. L. 89–809, title I, § 104(h)(1)](https://www.govinfo.gov/link/plaw/89/public/809), Nov. 13, 1966, [80 Stat. 1559](https://www.govinfo.gov/link/statute/80/1559); [Pub. L. 91–172, title I, § 101(j)(16)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 528](https://www.govinfo.gov/link/statute/83/528); [Pub. L. 93–480, § 3(a)](https://www.govinfo.gov/link/plaw/93/public/480), Oct. 26, 1974, [88 Stat. 1454](https://www.govinfo.gov/link/statute/88/1454); [Pub. L. 94–455, title XIX, § 1901(a)(76)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1777](https://www.govinfo.gov/link/statute/90/1777); [Pub. L. 96–589, § 5(a)](https://www.govinfo.gov/link/plaw/96/public/589), Dec. 24, 1980, [94 Stat. 3405](https://www.govinfo.gov/link/statute/94/3405); [Pub. L. 97–248, title II, § 293(a)](https://www.govinfo.gov/link/plaw/97/public/248) –(c), Sept. 3, 1982, [96 Stat. 575](https://www.govinfo.gov/link/statute/96/575); [Pub. L. 98–369, div. A, title II, § 211(b)(7)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 755](https://www.govinfo.gov/link/statute/98/755); [Pub. L. 99–514, title XII, § 1235(f)(2)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2575](https://www.govinfo.gov/link/statute/100/2575); [Pub. L. 105–34, title XI, § 1122(d)(1)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 977](https://www.govinfo.gov/link/statute/111/977); [Pub. L. 108–357, title IV, § 413(b)(1)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1506](https://www.govinfo.gov/link/statute/118/1506); [Pub. L. 115–141, div. U, title IV, § 401(a)(132)](https://www.govinfo.gov/link/plaw/115/public/141), (133), Mar. 23, 2018, [132 Stat. 1190](https://www.govinfo.gov/link/statute/132/1190).)*

@@ -3,9 +3,10 @@ title: "Section 2577 - Disposal of recyclable materials"
 usc_title: 10
 usc_section: "2577"
 chapter: 153
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2577"
-generated_at: "2026-03-30T02:53:38.164Z"
+generated_at: "2026-11-23T20:25:51.616Z"
+status: "active"
 ---
 
 # § 2577. Disposal of recyclable materials
@@ -19,3 +20,11 @@ generated_at: "2026-03-30T02:53:38.164Z"
   - **(2)** If after such funds are credited a balance remains available to a military installation and such installation has a qualifying recycling program (as determined by the Secretary of the military department concerned or the Secretary of Defense), not more than 50 percent of that balance may be used at the installation for projects for pollution abatement, energy conservation, and occupational safety and health activities. A project may not be carried out under the preceding sentence for an amount greater than 50 percent of the amount established by law as the maximum amount for a minor construction project.
   - **(3)** The remaining balance available to a military installation may be transferred to the nonappropriated morale and welfare account of the installation to be used for any morale or welfare activity.
 - **(c)** If the balance available to a military installation under this section at the end of any fiscal year is in excess of $10,000,000, the amount of that excess shall be covered into the Treasury as miscellaneous receipts.
+
+Policy Required
+
+Considerations
+
+## Source Credit
+
+*(Added [Pub. L. 97–214, § 6(b)(1)](https://www.govinfo.gov/link/plaw/97/public/214), July 12, 1982, [96 Stat. 172](https://www.govinfo.gov/link/statute/96/172); amended [Pub. L. 98–525, title XIV, § 1405(37)](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2624](https://www.govinfo.gov/link/statute/98/2624); [Pub. L. 107–217, § 3(b)(11)](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1296](https://www.govinfo.gov/link/statute/116/1296); [Pub. L. 116–92, div. A, title III](https://www.govinfo.gov/link/plaw/116/public/92), §§ 313, 314, Dec. 20, 2019, [133 Stat. 1303](https://www.govinfo.gov/link/statute/133/1303).)*

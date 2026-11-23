@@ -3,9 +3,10 @@ title: "Section 2645 - Indemnification of Department of Transportation for losse
 usc_title: 10
 usc_section: "2645"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2645"
-generated_at: "2026-03-30T02:53:38.167Z"
+generated_at: "2026-11-23T20:25:51.630Z"
+status: "active"
 ---
 
 # § 2645. Indemnification of Department of Transportation for losses covered by vessel war risk insurance
@@ -27,3 +28,27 @@ generated_at: "2026-03-30T02:53:38.167Z"
   - **(1)** The term “vessel war risk insurance” means insurance and reinsurance provided through policies issued by the Secretary of Transportation under chapter 539 of title 46 that is provided by that Secretary without premium at the request of the Secretary of Defense and is covered by an indemnity agreement between the Secretary of Transportation and the Secretary of Defense.
   - **(2)** The term “Vessel War Risk Insurance Fund” means the insurance fund referred to in section 53909(a) of title 46 .
   - **(3)** The term “loss” includes damage to or destruction of property, personal injury or death, and other liabilities and expenses covered by the vessel war risk insurance.
+
+Prompt Indemnification Required
+
+Source of Funds for Payment of Indemnity
+
+Deposit of Funds
+
+Notice to Congress
+
+Implementing Matters
+
+Construction With Other Transfer Authority
+
+Definitions
+
+Vessel war risk insurance
+
+Vessel war risk insurance fund
+
+Loss
+
+## Source Credit
+
+*(Added [Pub. L. 104–201, div. A, title X, § 1079(b)(1)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2669](https://www.govinfo.gov/link/statute/110/2669); amended [Pub. L. 105–85, div. A, title X, § 1073(a)(57)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1903](https://www.govinfo.gov/link/statute/111/1903); [Pub. L. 108–136, div. A, title X, § 1031(a)(26)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1598](https://www.govinfo.gov/link/statute/117/1598); [Pub. L. 109–304, § 17(a)(4)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1706](https://www.govinfo.gov/link/statute/120/1706); [Pub. L. 112–81, div. A, title X, § 1064(8)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1587](https://www.govinfo.gov/link/statute/125/1587).)*

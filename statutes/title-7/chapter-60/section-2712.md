@@ -3,9 +3,10 @@ title: "Section 2712 - Refund of assessment from Egg Board"
 usc_title: 7
 usc_section: "2712"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2712"
-generated_at: "2026-03-30T02:53:42.391Z"
+generated_at: "2026-11-23T20:25:41.547Z"
+status: "active"
 ---
 
 # § 2712. Refund of assessment from Egg Board
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:42.391Z"
   - **(6)** Such demand shall be made in accordance with regulations, on a form, and within a time period prescribed by the Egg Board.
   - **(7)** Such refund shall be made on submission of proof satisfactory to the Egg Board that such producer paid the assessment for which refund is demanded.
   - **(8)** If the amount in the escrow account required to be established by paragraph (3) is not sufficient to refund the total amount of assessments demanded by all eligible producers under this subsection and the amendment issued pursuant to paragraph (1) is not approved pursuant to a referendum under section 2708 or 2709(b) of this title, the Egg Board shall prorate the amount of such refunds among all eligible producers who demand such refund.
+
+## Source Credit
+
+*([Pub. L. 93–428, § 13](https://www.govinfo.gov/link/plaw/93/public/428), Oct. 1, 1974, [88 Stat. 1177](https://www.govinfo.gov/link/statute/88/1177); [Pub. L. 100–575, § 3](https://www.govinfo.gov/link/plaw/100/public/575), Oct. 31, 1988, [102 Stat. 2895](https://www.govinfo.gov/link/statute/102/2895).)*

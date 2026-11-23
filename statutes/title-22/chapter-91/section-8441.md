@@ -3,9 +3,10 @@ title: "Section 8441 - Strategy reports"
 usc_title: 22
 usc_section: "8441"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8441"
-generated_at: "2026-03-30T02:55:05.451Z"
+generated_at: "2026-11-23T20:26:32.709Z"
+status: "active"
 ---
 
 # § 8441. Strategy reports
@@ -45,3 +46,9 @@ generated_at: "2026-03-30T02:55:05.451Z"
       - **(i)** the Committee on Appropriations, the Committee on Armed Services, the Committee on Foreign Affairs, and the Permanent Select Committee on Intelligence of the House of Representatives; and
       - **(ii)** the Committee on Appropriations, the Committee on Armed Services, the Committee on Foreign Relations, and the Select Committee on Intelligence of the Senate.
 - **(c)** Not later than 180 days after October 15, 2009 , the Secretary of State shall submit to the appropriate congressional committees a plan for the proposed use of amounts authorized for security-related assistance for each of the fiscal years 2010 through 2014. Such plan shall include an assessment of how the use of such amounts complements or otherwise is related to amounts described in section 8424 of this title .
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 111–73, title III, § 301](https://www.govinfo.gov/link/plaw/111/public/73), Oct. 15, 2009, [123 Stat. 2075](https://www.govinfo.gov/link/statute/123/2075).)*

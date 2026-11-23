@@ -3,9 +3,10 @@ title: "Section 6207 - Limits on grants for Radio Free Europe and Radio Liberty"
 usc_title: 22
 usc_section: "6207"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6207"
-generated_at: "2026-03-30T02:55:05.426Z"
+generated_at: "2026-11-23T20:26:32.599Z"
+status: "active"
 ---
 
 # § 6207. Limits on grants for Radio Free Europe and Radio Liberty
@@ -34,3 +35,9 @@ generated_at: "2026-03-30T02:55:05.426Z"
   - **(1)** Such financial transactions of RFE/RL, Incorporated, as relate to functions carried out under this section may be audited by the Government Accountability Office in accordance with such principles and procedures and under such rules and regulations as may be prescribed by the Comptroller General of the United States. Any such audit shall be conducted at the place or places where accounts of RFE/RL, Incorporated, are normally kept.
   - **(2)** Representatives of the Government Accountability Office shall have access to all books, accounts, records, reports, files, papers, and property belonging to or in use by RFE/RL, Incorporated pertaining to such financial transactions and necessary to facilitate an audit. Such representatives shall be afforded full facilities for verifying transactions with any assets held by depositories, fiscal agents, and custodians. All such books, accounts, records, reports, files, papers, and property of RFE/RL, Incorporated, shall remain in the possession and custody of RFE/RL, Incorporated.
   - **(3)** Notwithstanding any other provision of law and upon repeal of the Board for International Broadcasting Act [ 22 U.S.C. 2871 et seq.], the Inspector General of the Department of State and the Foreign Service is authorized to exercise the authorities of chapter 4 of title 5 with respect to RFE/RL, Incorporated.
+
+“The Secretary of State shall—
+
+## Source Credit
+
+*([Pub. L. 103–236, title III, § 308](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 437](https://www.govinfo.gov/link/statute/108/437); [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XIII, §§ 1314(d), 1323(l)(1), Oct. 21, 1998, [112 Stat. 2681–777](https://www.govinfo.gov/link/statute/112/2681), 2681–780; [Pub. L. 107–228, div. A, title V](https://www.govinfo.gov/link/plaw/107/public/228), §§ 501, 502, Sept. 30, 2002, [116 Stat. 1392](https://www.govinfo.gov/link/statute/116/1392); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 114–328, div. A, title XII, § 1288(5)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2552](https://www.govinfo.gov/link/statute/130/2552); [Pub. L. 116–283, div. A, title XII, § 1299Q(e)(3)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4025](https://www.govinfo.gov/link/statute/134/4025); [Pub. L. 117–286, § 4(b)(45)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4348](https://www.govinfo.gov/link/statute/136/4348); [Pub. L. 118–31, div. F, title LXVI, § 6602](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1011](https://www.govinfo.gov/link/statute/137/1011).)*

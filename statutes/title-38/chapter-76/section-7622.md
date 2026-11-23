@@ -3,9 +3,10 @@ title: "Section 7622 - Eligibility; application; agreement"
 usc_title: 38
 usc_section: "7622"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7622"
-generated_at: "2026-03-30T02:55:53.534Z"
+generated_at: "2026-11-23T20:27:02.038Z"
+status: "active"
 ---
 
 # § 7622. Eligibility; application; agreement
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:53.534Z"
     - **(B)** to continue to serve as a full-time employee in the Veterans Health Administration for one year (hereinafter in this subchapter referred to as the “period of obligated service”) after completion of the course for which the participant received tuition reimbursement.
 - **(d)** Tuition reimbursement provided to a participant in the Tuition Reimbursement Program may not exceed $2,000 per year (adjusted in accordance with section 7631 of this title ).
 - **(e)** The Secretary may arrange with an educational institution pursuant to which such an institution would provide a course or courses at a Department health-care facility to participants in the Tuition Reimbursement Program. Under such an arrangement, the Secretary may agree to pay to the institution an amount not in excess of an amount determined by multiplying the number of participants in such a course by the amount of tuition reimbursement each participant would receive for enrolling and successfully completing such course.
+
+## Source Credit
+
+*(Added [Pub. L. 100–322, title II, § 216(b)](https://www.govinfo.gov/link/plaw/100/public/322), May 20, 1988, [102 Stat. 525](https://www.govinfo.gov/link/statute/102/525), § 4322; renumbered § 7622 and amended [Pub. L. 102–40, title IV, § 402(b)(1)](https://www.govinfo.gov/link/plaw/102/public/40), (d)(1), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238), 239; [Pub. L. 102–54, § 14(e)(9)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 287](https://www.govinfo.gov/link/statute/105/287); [Pub. L. 102–83, § 4(a)(3)](https://www.govinfo.gov/link/plaw/102/public/83), (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404](https://www.govinfo.gov/link/statute/105/404), 405; [Pub. L. 103–446, title XII, § 1201(b)](https://www.govinfo.gov/link/plaw/103/public/446), Nov. 2, 1994, [108 Stat. 4682](https://www.govinfo.gov/link/statute/108/4682).)*

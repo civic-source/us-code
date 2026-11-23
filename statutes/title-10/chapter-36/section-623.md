@@ -3,9 +3,10 @@ title: "Section 623 - Establishment of promotion zones"
 usc_title: 10
 usc_section: "623"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 623"
-generated_at: "2026-03-30T02:53:38.069Z"
+generated_at: "2026-11-23T20:25:51.019Z"
+status: "active"
 ---
 
 # § 623. Establishment of promotion zones
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:38.069Z"
   - **(2)** the number of officers to be serving in that competitive category in the next higher grade in each of the next five years;
   - **(3)** in the case of a promotion zone for officers to be promoted to a grade to which section 523 of this title is applicable, the number of officers authorized for such grade under such section to be on active duty on the last day of each of the next five fiscal years; and
   - **(4)** the number of officers that should be placed in that promotion zone in each of the next five years to provide to officers in those years relatively similar opportunity for promotion.
+
+## Source Credit
+
+*(Added [Pub. L. 96–513, title I, § 105](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2856](https://www.govinfo.gov/link/statute/94/2856).)*

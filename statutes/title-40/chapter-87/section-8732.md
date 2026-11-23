@@ -3,9 +3,10 @@ title: "Section 8732 - Acquiring land subject to limited rights reserved to gran
 usc_title: 40
 usc_section: "8732"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 8732"
-generated_at: "2026-03-30T02:55:43.384Z"
+generated_at: "2026-11-23T20:26:56.652Z"
+status: "active"
 ---
 
 # § 8732. Acquiring land subject to limited rights reserved to grantor and limited permanent rights in land adjoining park property
@@ -17,3 +18,36 @@ generated_at: "2026-03-30T02:55:43.384Z"
   - **(1)** The reservation of rights to the grantor shall not continue beyond the life of the grantor of the fee. The Commission must decide that the permanent public park purposes for which control over the land is needed are not essentially impaired by the reserved rights and that there is a substantial saving in cost by acquiring the land subject to the limited rights as compared with the cost of acquiring unencumbered title to the land.
   - **(2)** The Commission must decide that the protection and maintenance of the essential public values of the park can be secured more economically by acquiring the permanent rights than by acquiring the land.
 - **(c)** All contracts to acquire land or rights under this section are subject to the approval of the President.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 8732(a) | 40:72a (1st par., last par. less provisos). | Dec. 22, 1928, ch. 48, § 1 , 45 Stat. 1070 . |
+| 8732(b) | 40:72a (last par. 1st–3d provisos). |  |
+| 8732(c) | 40:72a (last par. last proviso). |  |
+
+
+In General
+
+Prerequisites to Acquisition.—
+
+Fee title to land subject to limited rights
+
+Permanent rights in land adjoining park property
+
+Presidential Approval Required
+
+Historical and Revision Notes
+
+8732(a)
+
+Dec. 22, 1928, ch. 48, § 1
+
+45 Stat. 1070
+
+8732(b)
+
+8732(c)
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1225](https://www.govinfo.gov/link/statute/116/1225).)*

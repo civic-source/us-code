@@ -3,12 +3,17 @@ title: "Section 114d - Selected drug subsidy program"
 usc_title: 42
 usc_section: "114d"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 114d"
-generated_at: "2026-03-30T02:56:10.989Z"
+generated_at: "2026-11-23T20:27:21.311Z"
+status: "active"
 ---
 
 # § 1395w–114d. Selected drug subsidy program
 
 With respect to covered part D drugs that would be applicable drugs (as defined in section 1395w–114c(g)(2) of this title ) but for the application of subparagraph (B) of such section, the Secretary shall provide a process whereby, in the case of an applicable beneficiary (as defined in section 1395w–114c(g)(1) of this title ) who, with respect to a year, is enrolled in a prescription drug plan or is enrolled in an MA–PD plan, has not incurred costs that are equal to or exceed the annual out-of-pocket threshold specified in section 1395w–102(b)(4)(B)(i) of this title , and is dispensed such a drug, the Secretary (periodically and on a timely basis) provides the PDP sponsor or the MA organization offering the plan, a subsidy with respect to such drug that is equal to 10 percent of the negotiated price (as defined in section 1395w–114c(g)(6) of this title ) of such drug.
 
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1860D–14D, as added [Pub. L. 117–169, title I, § 11201(c)(1)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 1888](https://www.govinfo.gov/link/statute/136/1888).)*

@@ -3,9 +3,10 @@ title: "Section 5315 - Interest and administrative cost charges on delinquent pa
 usc_title: 38
 usc_section: "5315"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 5315"
-generated_at: "2026-03-30T02:55:53.521Z"
+generated_at: "2026-11-23T20:27:01.959Z"
+status: "active"
 ---
 
 # § 5315. Interest and administrative cost charges on delinquent payments of certain amounts due the United States
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:53.521Z"
   - **(1)** Interest on the amount of any indebtedness described in subsection (a) of this section shall accrue from the day on which the initial notification of the amount due is mailed to the person who owes such amount (using the most current address of such person that is available to the Secretary), but interest under this section shall not be charged (A) for any period before October 17, 1980 , or (B) if the amount due is paid within a reasonable period of time. The Secretary shall, in the regulations prescribed pursuant to subsection (a) of this section, prescribe what constitutes a reasonable period of time for payment of an indebtedness after the initial notification of indebtedness has been mailed.
   - **(2)** The rate of interest to be charged under this section shall be based on the rate of interest paid by the United States for its borrowing and shall be determined by the Secretary under such regulations.
 - **(c)** The administrative costs to be charged under this section with respect to an amount owed to the United States shall be so much of the costs incurred by the United States in collecting such amount as the Secretary determines, under such regulations, to be reasonable and appropriate.
+
+## Source Credit
+
+*(Added [Pub. L. 96–466, title VI, § 605(a)(1)](https://www.govinfo.gov/link/plaw/96/public/466), Oct. 17, 1980, [94 Stat. 2210](https://www.govinfo.gov/link/statute/94/2210), § 3115; amended [Pub. L. 102–16, § 6(b)(4)](https://www.govinfo.gov/link/plaw/102/public/16), Mar. 22, 1991, [105 Stat. 51](https://www.govinfo.gov/link/statute/105/51); renumbered § 5315 and amended [Pub. L. 102–40, title IV, § 402(b)(1)](https://www.govinfo.gov/link/plaw/102/public/40), (d)(1), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238), 239; [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(a)(1), (b)(1), (2)(E), 5(C)(1), Aug. 6, 1991, [105 Stat. 403–406](https://www.govinfo.gov/link/statute/105/403); [Pub. L. 105–368, title X, § 1005(b)(17)](https://www.govinfo.gov/link/plaw/105/public/368), Nov. 11, 1998, [112 Stat. 3365](https://www.govinfo.gov/link/statute/112/3365); [Pub. L. 117–328, div. U, title II, § 253(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5464](https://www.govinfo.gov/link/statute/136/5464).)*

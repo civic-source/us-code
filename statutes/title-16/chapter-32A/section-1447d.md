@@ -3,9 +3,10 @@ title: "Section 1447d - Research grant program"
 usc_title: 16
 usc_section: "1447d"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1447d"
-generated_at: "2026-03-30T02:54:22.969Z"
+generated_at: "2026-11-23T20:26:20.491Z"
+status: "active"
 ---
 
 # § 1447d. Research grant program
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:54:22.969Z"
   - **(1)** The Administrator of the National Oceanic and Atmospheric Administration shall review the annual grant application and, with the concurrence of the Administrator of the Environmental Protection Agency, approve such grant application with such conditions as are determined to be appropriate based on peer reviews conducted pursuant to paragraph (2).
   - **(2)** The Administrator of the National Oceanic and Atmospheric Administration shall develop a system of peer review of grant applications which shall ensure that only the highest quality research is approved for funding and that each project is reviewed by research scientists outside the region concerned.
 - **(d)** Any recipient of a grant under this section shall report to the appropriate Board, not later than 18 months after award of the grant, on the activities of such recipient conducted pursuant to this subsection. Such report shall include narrative summaries and technical data in such form as the Administrator of the National Oceanic and Atmospheric Administration may require.
+
+## Source Credit
+
+*([Pub. L. 92–532, title IV, § 405](https://www.govinfo.gov/link/plaw/92/public/532), as added [Pub. L. 101–593, title III, § 301](https://www.govinfo.gov/link/plaw/101/public/593), Nov. 16, 1990, [104 Stat. 2967](https://www.govinfo.gov/link/statute/104/2967).)*

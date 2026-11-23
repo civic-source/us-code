@@ -3,12 +3,17 @@ title: "Section 358 - Establishment of accounts for purposes of open-market oper
 usc_title: 12
 usc_section: "358"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 358"
-generated_at: "2026-03-30T02:53:53.380Z"
+generated_at: "2026-11-23T20:25:58.747Z"
+status: "active"
 ---
 
 # § 358. Establishment of accounts for purposes of open-market operations; correspondents and agencies
 
 Every Federal reserve bank shall have power to establish accounts with other Federal reserve banks for exchange purposes and, with the consent or upon the order and direction of the Board of Governors of the Federal Reserve System and under regulations to be prescribed by said Board, to open and maintain accounts in foreign countries, appoint correspondents, and establish agencies in such countries wheresoever it may be deemed best for the purpose of purchasing, selling, and collecting bills of exchange, and to buy and sell, with or without its indorsement, through such correspondents or agencies, bills of exchange (or acceptances) arising out of actual commercial transactions which have not more than ninety days to run, exclusive of days of grace, and which bear the signature of two or more responsible parties, and, with the consent of the Board of Governors of the Federal Reserve System, to open and maintain banking accounts for such foreign correspondents or agencies, or for foreign banks or bankers, or for foreign states as defined in section 632 of this title . Whenever any such account has been opened or agency or correspondent has been appointed by a Federal reserve bank, with the consent of or under the order and direction of the Board of Governors of the Federal Reserve System, any other Federal reserve bank may, with the consent and approval of the Board of Governors of the Federal Reserve System, be permitted to carry on or conduct, through the Federal reserve bank opening such account or appointing such agency or correspondent, any transaction authorized by this section under rules and regulations to be prescribed by the board.
 
+
+## Source Credit
+
+*(Dec. 23, 1913, ch. 6, § 14(e), [38 Stat. 264](https://www.govinfo.gov/link/statute/38/264); Sept. 7, 1916, ch. 461, [39 Stat. 754](https://www.govinfo.gov/link/statute/39/754); June 21, 1917, ch. 32, § 6, [40 Stat. 235](https://www.govinfo.gov/link/statute/40/235); Aug. 23, 1935, ch. 614, title II, § 203(a), [49 Stat. 704](https://www.govinfo.gov/link/statute/49/704); Apr. 7, 1941, ch. 43, § 1, [55 Stat. 131](https://www.govinfo.gov/link/statute/55/131).)*

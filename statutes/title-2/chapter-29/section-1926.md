@@ -3,9 +3,10 @@ title: "Section 1926 - Educational assistance program for employees"
 usc_title: 2
 usc_section: "1926"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1926"
-generated_at: "2026-03-30T02:53:04.820Z"
+generated_at: "2026-11-23T20:25:28.994Z"
+status: "active"
 ---
 
 # § 1926. Educational assistance program for employees
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:04.820Z"
 - **(c)** The total amount paid by the Capitol Police with respect to any individual under the program under this section may not exceed $80,000.
 - **(d)** Any determination made under the program under this section shall not be reviewable or appealable in any manner.
 - **(e)** This section shall apply with respect to fiscal year 2003 and each succeeding fiscal year.
+
+## Source Credit
+
+*([Pub. L. 107–117, div. B, § 908](https://www.govinfo.gov/link/plaw/107/public/117), Jan. 10, 2002, [115 Stat. 2319](https://www.govinfo.gov/link/statute/115/2319); [Pub. L. 108–7, div. H, title I, § 1007](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 358](https://www.govinfo.gov/link/statute/117/358); [Pub. L. 116–94, div. E, title I, § 120](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 2763](https://www.govinfo.gov/link/statute/133/2763); [Pub. L. 116–260, div. I, title I, § 120](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 1643](https://www.govinfo.gov/link/statute/134/1643).)*

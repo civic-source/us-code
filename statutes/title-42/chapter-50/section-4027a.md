@@ -3,9 +3,10 @@ title: "Section 4027a - Report of the Administrator on activities under the Nati
 usc_title: 42
 usc_section: "4027a"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4027a"
-generated_at: "2026-03-30T02:56:11.197Z"
+generated_at: "2026-11-23T20:27:22.346Z"
+status: "active"
 ---
 
 # § 4027a. Report of the Administrator on activities under the National Flood Insurance Program
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:11.197Z"
       - **(ii)** premium per flood insurance policy; and
       - **(iii)** loss per flood insurance policy; and
     - **(I)** the number of claims involving damages in excess of the maximum amount of flood insurance available under the National Flood Insurance Program and the sum of the amount of all damages in excess of such amount.
+
+## Source Credit
+
+*([Pub. L. 112–141, div. F, title II, § 100231(b)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 950](https://www.govinfo.gov/link/statute/126/950).)*

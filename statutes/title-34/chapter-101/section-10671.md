@@ -3,9 +3,10 @@ title: "Section 10671 - Grant authorization"
 usc_title: 34
 usc_section: "10671"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10671"
-generated_at: "2026-03-30T02:55:33.275Z"
+generated_at: "2026-11-23T20:26:50.499Z"
+status: "active"
 ---
 
 # § 10671. Grant authorization
@@ -64,3 +65,7 @@ generated_at: "2026-03-30T02:55:33.275Z"
   - **(2)** the impact of such program on the hiring and retention of prosecutors and public defenders.
 - **(i)** Not later than one year after August 14, 2008 , the Comptroller General shall conduct a study of, and report to Congress on, the impact that law school accreditation requirements and other factors have on the costs of law school and student access to law school, including the impact of such requirements on racial and ethnic minorities.
 - **(j)** There are authorized to be appropriated to carry out this section $25,000,000 for fiscal year 2009 and such sums as may be necessary for each of the five succeeding fiscal years.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 3001](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 110–315, title IX, § 952](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3470](https://www.govinfo.gov/link/statute/122/3470).)*

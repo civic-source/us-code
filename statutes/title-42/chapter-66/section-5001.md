@@ -3,9 +3,10 @@ title: "Section 5001 - Grants and contracts for volunteer service projects"
 usc_title: 42
 usc_section: "5001"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5001"
-generated_at: "2026-03-30T02:56:11.212Z"
+generated_at: "2026-11-23T20:27:22.434Z"
+status: "active"
 ---
 
 # § 5001. Grants and contracts for volunteer service projects
@@ -70,3 +71,7 @@ generated_at: "2026-03-30T02:56:11.212Z"
   - **(1)** examples of high-performing programs assisted under this section;
   - **(2)** corrective actions for underperforming programs; and
   - **(3)** examples of meaningful outcome-based performance measures, outcomes, and criteria that capture a program’s mission and priorities.
+
+## Source Credit
+
+*([Pub. L. 93–113, title II, § 201](https://www.govinfo.gov/link/plaw/93/public/113), Oct. 1, 1973, [87 Stat. 401](https://www.govinfo.gov/link/statute/87/401); [Pub. L. 93–351, § 4](https://www.govinfo.gov/link/plaw/93/public/351), July 12, 1974, [88 Stat. 357](https://www.govinfo.gov/link/statute/88/357); [Pub. L. 95–478, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/95/public/478), Oct. 18, 1978, [92 Stat. 1556](https://www.govinfo.gov/link/statute/92/1556); [Pub. L. 98–288, § 14(a)](https://www.govinfo.gov/link/plaw/98/public/288), (b), May 21, 1984, [98 Stat. 192](https://www.govinfo.gov/link/statute/98/192); [Pub. L. 101–204, title IX, § 902(2)](https://www.govinfo.gov/link/plaw/101/public/204), Dec. 7, 1989, [103 Stat. 1826](https://www.govinfo.gov/link/statute/103/1826); [Pub. L. 103–82, title III, § 343](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 904](https://www.govinfo.gov/link/statute/107/904); [Pub. L. 111–13, title II, § 2143](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1584](https://www.govinfo.gov/link/statute/123/1584).)*

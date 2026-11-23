@@ -3,9 +3,10 @@ title: "Section 1152 - Clearinghouse for technical information; removal of secur
 usc_title: 15
 usc_section: "1152"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1152"
-generated_at: "2026-03-30T02:54:08.128Z"
+generated_at: "2026-11-23T20:26:03.971Z"
+status: "active"
 ---
 
 # § 1152. Clearinghouse for technical information; removal of security classification
@@ -15,3 +16,7 @@ The Secretary of Commerce (hereinafter referred to as the “Secretary”) is di
 - **(a)** To search for, collect, classify, coordinate, integrate, record, and catalog such information from whatever sources, foreign and domestic, that may be available;
 - **(b)** To make such information available to industry and business, to State and local governments, to other agencies of the Federal Government, and to the general public, through the preparation of abstracts, digests, translations, bibliographies, indexes, and microfilm and other reproductions, for distribution either directly or by utilization of business, trade, technical, and scientific publications and services;
 - **(c)** To effect, within the limits of his authority as now or hereafter defined by law, and with the consent of competent authority, the removal of restrictions on the dissemination of scientific and technical data in cases where consideration of national security permit the release of such data for the benefit of industry and business.
+
+## Source Credit
+
+*(Sept. 9, 1950, ch. 936, § 2, [64 Stat. 823](https://www.govinfo.gov/link/statute/64/823).)*

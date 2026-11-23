@@ -3,9 +3,10 @@ title: "Section 9101 - Standards for foreign tank vessels"
 usc_title: 46
 usc_section: "9101"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 9101"
-generated_at: "2026-03-30T02:56:15.552Z"
+generated_at: "2026-11-23T20:27:27.142Z"
+status: "active"
 ---
 
 # § 9101. Standards for foreign tank vessels
@@ -22,3 +23,19 @@ generated_at: "2026-03-30T02:56:15.552Z"
     - **(A)** the owner or operator of the vessel establishes, to the satisfaction of the Secretary, that the vessel is not unsafe or a threat to the marine environment; or
     - **(B)** the entry is necessary for the safety of the vessel or individuals on the vessel.
 - **(b)** A foreign vessel to which chapter 37 of this title applies that has on board oil or hazardous material in bulk as cargo or cargo residue shall have a specified number of personnel certified as tankerman or equivalent, as required by the Secretary, when the vessel transfers oil or hazardous material in a port or place subject to the jurisdiction of the United States. The requirement of this subsection shall be noted in applicable terminal operating procedures. A transfer operation may take place only if the crewmember in charge is capable of clearly understanding instructions in English.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 9101(a) | 46:391a(11) |
+| 9101(b) | 46:391a(10)(B) |
+
+
+Historical and Revision Notes
+
+9101(a)
+
+9101(b)
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 556](https://www.govinfo.gov/link/statute/97/556); [Pub. L. 101–380, title IV, § 4106(a)](https://www.govinfo.gov/link/plaw/101/public/380), Aug. 18, 1990, [104 Stat. 513](https://www.govinfo.gov/link/statute/104/513).)*

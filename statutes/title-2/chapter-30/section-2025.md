@@ -3,12 +3,19 @@ title: "Section 2025 - Senate Garage"
 usc_title: 2
 usc_section: "2025"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 2025"
-generated_at: "2026-03-30T02:53:04.823Z"
+generated_at: "2026-11-23T20:25:29.005Z"
+status: "active"
 ---
 
 # § 2025. Senate Garage
 
 - **(a)** The employees of the Senate garage engaged by the Architect of the Capitol for the primary purpose of servicing official motor vehicles, together with the functions performed by such employees, shall, on October 1, 1980 , be transferred to the jurisdiction of the Sergeant at Arms and Doorkeeper of the Senate: Provided further , That, effective July 1, 1965 , the underground space in the north extension of the Capitol Grounds, known as the Legislative Garage shall hereafter be known as the Senate Garage and shall be under the jurisdiction and control of the Architect of the Capitol, subject to such regulations respecting the use thereof as may be promulgated by the Senate Committee on Rules and Administration: Provided further , That, such regulations shall provide for the continued assignment of space and the continued furnishing of service in such garage for official motor vehicles of the House and the Senate and the Architect of the Capitol and Capitol Grounds maintenance equipment.
 - **(b)** As used in subsection (a), the term “servicing” includes, with respect to an official motor vehicle, the washing and fueling of such vehicle, the checking of its tires and battery, and checking and adding oil.
+
+[senate office buildings]
+
+## Source Credit
+
+*(June 30, 1932, ch. 314, [47 Stat. 391](https://www.govinfo.gov/link/statute/47/391); [Pub. L. 88–454](https://www.govinfo.gov/link/plaw/88/public/454), Aug. 20, 1964, [78 Stat. 545](https://www.govinfo.gov/link/statute/78/545); [Pub. L. 96–444, § 1(a)(1)](https://www.govinfo.gov/link/plaw/96/public/444), (b), Oct. 13, 1980, [94 Stat. 1889](https://www.govinfo.gov/link/statute/94/1889).)*

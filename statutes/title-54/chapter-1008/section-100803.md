@@ -3,9 +3,10 @@ title: "Section 100803 - Interpretation and education evaluation and quality imp
 usc_title: 54
 usc_section: "100803"
 chapter: 1008
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "54 U.S.C. § 100803"
-generated_at: "2026-03-30T02:56:28.413Z"
+generated_at: "2026-11-23T20:27:37.999Z"
+status: "active"
 ---
 
 # § 100803. Interpretation and education evaluation and quality improvement
@@ -16,3 +17,7 @@ The Secretary may undertake a program of regular evaluation of interpretation an
   - **(2)** reflect different cultural backgrounds, ages, education, gender, abilities, ethnicity, and needs;
   - **(3)** demonstrate innovative approaches to management and appropriately incorporate emerging learning and communications technology; and
   - **(4)** reflect current scientific and academic research, content, methods, and audience analysis.
+
+## Source Credit
+
+*(Added [Pub. L. 114–289, title III, § 301(a)](https://www.govinfo.gov/link/plaw/114/public/289), Dec. 16, 2016, [130 Stat. 1487](https://www.govinfo.gov/link/statute/130/1487).)*

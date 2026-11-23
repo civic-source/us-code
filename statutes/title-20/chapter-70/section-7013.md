@@ -3,9 +3,10 @@ title: "Section 7013 - National clearinghouse"
 usc_title: 20
 usc_section: "7013"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 7013"
-generated_at: "2026-03-30T02:54:48.204Z"
+generated_at: "2026-11-23T20:26:14.869Z"
+status: "active"
 ---
 
 # § 7013. National clearinghouse
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:48.204Z"
     - **(B)** accountability systems that monitor the academic progress of English learners in language instruction educational programs, including information on academic content and English proficiency assessments for language instruction educational programs; and
   - **(5)** publish, on an annual basis, a list of grant recipients under this subchapter.
 - **(b)** Nothing in this section shall authorize the Secretary to hire additional personnel to execute subsection (a).
+
+## Source Credit
+
+*([Pub. L. 89–10, title III, § 3202](https://www.govinfo.gov/link/plaw/89/public/10), formerly § 3303, as added [Pub. L. 107–110, title III, § 301](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1733](https://www.govinfo.gov/link/statute/115/1733); amended [Pub. L. 107–279, title IV, § 404(d)(5)(B)](https://www.govinfo.gov/link/plaw/107/public/279), Nov. 5, 2002, [116 Stat. 1986](https://www.govinfo.gov/link/statute/116/1986); renumbered § 3202 and amended [Pub. L. 114–95, title III](https://www.govinfo.gov/link/plaw/114/public/95), §§ 3001(5)(C), 3004(b), Dec. 10, 2015, [129 Stat. 1953](https://www.govinfo.gov/link/statute/129/1953), 1965.)*

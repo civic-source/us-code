@@ -3,9 +3,10 @@ title: "Section 1490f - Loans and insurance of loans for condominium housing in 
 usc_title: 42
 usc_section: "1490f"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1490f"
-generated_at: "2026-03-30T02:56:11.098Z"
+generated_at: "2026-11-23T20:27:21.800Z"
+status: "active"
 ---
 
 # § 1490f. Loans and insurance of loans for condominium housing in rural areas
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.098Z"
 - **(b)** Any loan made or insured under subsection (a) shall cover a one-family dwelling unit in a condominium, and shall be subject to such provisions as the Secretary determines to be necessary for the maintenance of the common areas and facilities of the condominium project and to such additional requirements as the Secretary deems appropriate for the protection of the consumer.
 - **(c)** In addition to individual loans made or insured under subsection (a) the Secretary is authorized, upon such terms and conditions (substantially identical insofar as may be feasible with those specified in section 1485 of this title ) as he may prescribe, to make or insure blanket loans to a borrower who shall certify to the Secretary, as a condition of obtaining such loan or insurance, that upon completion of the multifamily project the ownership of the project will be committed to a plan of family unit ownership under which (1) each family unit will be eligible for a loan or insurance under subsection (a), and (2) the individual dwelling units in the project will be sold only on a condominium basis and only to purchasers eligible for a loan or insurance under subsection (a). The principal obligation of any blanket loan made or insured under this subsection shall in no case exceed the sum of the individual amounts of the loans which could be made or insured with respect to the individual dwelling units in the project under subsection (a).
 - **(d)** As used in this section, the term “condominium” means a multi-unit housing project which is subject to a plan of family unit ownership acceptable to the Secretary under which each dwelling unit is individually owned and each such owner holds an undivided interest in the common areas and facilities which serve the project.
+
+## Source Credit
+
+*(July 15, 1949, ch. 338, title V, § 526, as added [Pub. L. 93–383, title V, § 516(a)](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 698](https://www.govinfo.gov/link/statute/88/698); amended [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title V, § 519(a)], Nov. 30, 1983, [97 Stat. 1249](https://www.govinfo.gov/link/statute/97/1249); [Pub. L. 100–242, title III, § 316(f)](https://www.govinfo.gov/link/plaw/100/public/242), Feb. 5, 1988, [101 Stat. 1898](https://www.govinfo.gov/link/statute/101/1898).)*

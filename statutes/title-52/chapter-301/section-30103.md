@@ -3,9 +3,10 @@ title: "Section 30103 - Registration of political committees"
 usc_title: 52
 usc_section: "30103"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "52 U.S.C. § 30103"
-generated_at: "2026-03-30T02:56:30.169Z"
+generated_at: "2026-11-23T20:27:36.995Z"
+status: "active"
 ---
 
 # § 30103. Registration of political committees
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:30.169Z"
     - **(A)** the determination of insolvency with respect to any political committee;
     - **(B)** the orderly liquidation of an insolvent political committee, and the orderly application of its assets for the reduction of outstanding debts; and
     - **(C)** the termination of an insolvent political committee after such liquidation and application of assets.
+
+## Source Credit
+
+*([Pub. L. 92–225, title III, § 303](https://www.govinfo.gov/link/plaw/92/public/225), Feb. 7, 1972, [86 Stat. 14](https://www.govinfo.gov/link/statute/86/14); [Pub. L. 93–443, title II](https://www.govinfo.gov/link/plaw/93/public/443), §§ 203, 208(c)(3), Oct. 15, 1974, [88 Stat. 1276](https://www.govinfo.gov/link/statute/88/1276), 1286; [Pub. L. 96–187, title I, § 103](https://www.govinfo.gov/link/plaw/96/public/187), Jan. 8, 1980, [93 Stat. 1347](https://www.govinfo.gov/link/statute/93/1347).)*

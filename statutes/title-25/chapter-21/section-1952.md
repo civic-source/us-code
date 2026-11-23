@@ -3,12 +3,17 @@ title: "Section 1952 - Rules and regulations"
 usc_title: 25
 usc_section: "1952"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1952"
-generated_at: "2026-03-30T02:54:52.831Z"
+generated_at: "2026-11-23T20:26:25.554Z"
+status: "active"
 ---
 
 # § 1952. Rules and regulations
 
 Within one hundred and eighty days after November 8, 1978 , the Secretary shall promulgate such rules and regulations as may be necessary to carry out the provisions of this chapter.
 
+
+## Source Credit
+
+*([Pub. L. 95–608, title III, § 302](https://www.govinfo.gov/link/plaw/95/public/608), Nov. 8, 1978, [92 Stat. 3077](https://www.govinfo.gov/link/statute/92/3077).)*

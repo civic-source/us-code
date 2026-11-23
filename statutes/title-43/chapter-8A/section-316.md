@@ -3,9 +3,10 @@ title: "Section 316 - Declaration of policy"
 usc_title: 43
 usc_section: "316"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 316"
-generated_at: "2026-03-30T02:55:57.437Z"
+generated_at: "2026-11-23T20:27:06.179Z"
+status: "active"
 ---
 
 # § 316. Declaration of policy
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:57.437Z"
 - **(d)** to their use for agriculture, and
 - **(e)** to the protection, development, and utilization of such other resources as may be of greater benefit to the public.
 
+
+## Source Credit
+
+*(Mar. 4, 1927, ch. 513, § 1, [44 Stat. 1452](https://www.govinfo.gov/link/statute/44/1452).)*

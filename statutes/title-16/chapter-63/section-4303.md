@@ -3,9 +3,10 @@ title: "Section 4303 - Management actions"
 usc_title: 16
 usc_section: "4303"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 4303"
-generated_at: "2026-03-30T02:54:23.042Z"
+generated_at: "2026-11-23T20:26:20.739Z"
+status: "active"
 ---
 
 # § 4303. Management actions
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:23.042Z"
 - **(c)** The Secretary shall—
   - **(1)** ensure that significant caves are considered in the preparation or implementation of any land management plan if the preparation or revision of the plan began after November 18, 1988 ; and
   - **(2)** foster communication, cooperation, and exchange of information between land managers, those who utilize caves, and the public.
+
+## Source Credit
+
+*([Pub. L. 100–691, § 4](https://www.govinfo.gov/link/plaw/100/public/691), Nov. 18, 1988, [102 Stat. 4547](https://www.govinfo.gov/link/statute/102/4547).)*

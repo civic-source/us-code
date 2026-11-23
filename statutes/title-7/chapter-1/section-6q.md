@@ -3,9 +3,10 @@ title: "Section 6q - Special procedures to encourage and facilitate bona fide he
 usc_title: 7
 usc_section: "6q"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6q"
-generated_at: "2026-03-30T02:53:42.241Z"
+generated_at: "2026-11-23T20:25:40.865Z"
+status: "active"
 ---
 
 # § 6q. Special procedures to encourage and facilitate bona fide hedging by agricultural producers
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:42.241Z"
   - **(3)** provide flexibility in the minimum quantities of such agricultural commodities that may be the subject of a contract for purchase or sale for future delivery that is traded on a contract market, to better allow domestic agricultural producers to hedge such price risk; and
   - **(4)** encourage contract markets to provide information and otherwise facilitate the participation of domestic agricultural producers in contract markets.
 - **(b)** Within 1 year after December 21, 2000 , the Commission shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the steps it has taken to implement this section and on the activities of contract markets pursuant to this section.
+
+## Source Credit
+
+*(Sept. 21, 1922, ch. 369, § 4q, formerly § 4p, as added [Pub. L. 106–554, § 1(a)(5) [title I, § 121]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–404; renumbered § 4q, [Pub. L. 110–234, title XIII, § 13105(d)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1434](https://www.govinfo.gov/link/statute/122/1434), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIII, § 13105(d), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2196; [Pub. L. 111–203, title VII, § 721(e)(3)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1671](https://www.govinfo.gov/link/statute/124/1671).)*

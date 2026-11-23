@@ -3,9 +3,10 @@ title: "Section 220703 - Purposes"
 usc_title: 36
 usc_section: "220703"
 chapter: 2207
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 220703"
-generated_at: "2026-03-30T02:55:44.711Z"
+generated_at: "2026-11-23T20:26:59.097Z"
+status: "active"
 ---
 
 # § 220703. Purposes
@@ -18,3 +19,22 @@ The purposes of the corporation are as provided in its articles of incorporation
   - **(4)** fostering general public awareness of life aboard submarines during World War II, through securing, restoring, and displaying the submarines that were in service at that time;
   - **(5)** sponsoring annual college scholarships; and
   - **(6)** performing acts of charity as provided in the constitution and bylaws of the corporation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 220703 | 36:1803. | Nov. 20, 1981 , Pub. L. 97–83, § 3 , 95 Stat. 1094 . |
+
+
+Historical and Revision Notes
+
+220703
+
+Nov. 20, 1981
+
+Pub. L. 97–83, § 3
+
+95 Stat. 1094
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1479](https://www.govinfo.gov/link/statute/112/1479).)*

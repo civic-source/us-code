@@ -3,9 +3,10 @@ title: "Section 1701x - Assistance with respect to housing for low- and moderate
 usc_title: 12
 usc_section: "1701x"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1701x"
-generated_at: "2026-03-30T02:53:53.404Z"
+generated_at: "2026-11-23T20:25:58.890Z"
+status: "active"
 ---
 
 # § 1701x. Assistance with respect to housing for low- and moderate-income families
@@ -274,3 +275,75 @@ generated_at: "2026-03-30T02:53:53.404Z"
     - **(A)** the Secretary shall require that, within 12 months after the determination of such misuse, the organization or entity shall reimburse the Secretary for such misused amounts and return to the Secretary any such amounts that remain unused or uncommitted for use; and
     - **(B)** such organization or entity shall be ineligible, at any time after such determination, to apply for or receive any further covered assistance.
   - **(3)** For purposes of this subsection, the term “covered assistance” means any grant or other financial assistance provided under this section.
+
+Homeownership and Rental Counseling Assistance.—
+
+In general
+
+Qualified entities
+
+Distribution
+
+Limitation on distribution of assistance.—
+
+In general
+
+Definition of applicable individuals
+
+(aa) employed by the organization in a permanent or temporary capacity;
+
+(bb) contracted or retained by the organization; or
+
+(cc) acting on behalf of, or with the express or apparent authority of, the organization; and
+
+Grantmaking process
+
+Authorization of appropriations
+
+In general
+
+Goals
+
+Grants.—
+
+In general
+
+Selection
+
+Eligible Organizations.—
+
+In general
+
+certification
+
+Authority for Pilot Projects.—
+
+In general
+
+Goal
+
+Authorization of Appropriations
+
+Study and Report on Effectiveness and Impact.—
+
+In general
+
+Content of study
+
+Regulations
+
+Establishment of Program
+
+Forms of Counseling
+
+Size of Program
+
+Incentive To Participate
+
+Eligible Homebuyer Defined
+
+Report to Congress
+
+## Source Credit
+
+*([Pub. L. 90–448, title I, § 106](https://www.govinfo.gov/link/plaw/90/public/448), Aug. 1, 1968, [82 Stat. 490](https://www.govinfo.gov/link/statute/82/490); [Pub. L. 91–609, title IX, § 903(a)](https://www.govinfo.gov/link/plaw/91/public/609), (b), Dec. 31, 1970, [84 Stat. 1808](https://www.govinfo.gov/link/statute/84/1808); [Pub. L. 93–383, title VIII, § 811](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 735](https://www.govinfo.gov/link/statute/88/735); [Pub. L. 95–128, title IX, § 903](https://www.govinfo.gov/link/plaw/95/public/128), Oct. 12, 1977, [91 Stat. 1149](https://www.govinfo.gov/link/statute/91/1149); [Pub. L. 97–35, title III, § 339A](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 417](https://www.govinfo.gov/link/statute/95/417); [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title IV, § 465], Nov. 30, 1983, [97 Stat. 1236](https://www.govinfo.gov/link/statute/97/1236); [Pub. L. 98–479, title II, § 204(f)](https://www.govinfo.gov/link/plaw/98/public/479), Oct. 17, 1984, [98 Stat. 2233](https://www.govinfo.gov/link/statute/98/2233); [Pub. L. 100–242, title I, § 169](https://www.govinfo.gov/link/plaw/100/public/242), Feb. 5, 1988, [101 Stat. 1865](https://www.govinfo.gov/link/statute/101/1865); [Pub. L. 100–628, title X, § 1009](https://www.govinfo.gov/link/plaw/100/public/628), Nov. 7, 1988, [102 Stat. 3266](https://www.govinfo.gov/link/statute/102/3266); [Pub. L. 101–137, § 8](https://www.govinfo.gov/link/plaw/101/public/137), Nov. 3, 1989, [103 Stat. 826](https://www.govinfo.gov/link/statute/103/826); [Pub. L. 101–625, title V, § 577](https://www.govinfo.gov/link/plaw/101/public/625), title VII, § 706(c), Nov. 28, 1990, [104 Stat. 4238](https://www.govinfo.gov/link/statute/104/4238), 4286; [Pub. L. 102–550, title I, § 162(a)](https://www.govinfo.gov/link/plaw/102/public/550) –(d), Oct. 28, 1992, [106 Stat. 3719–3721](https://www.govinfo.gov/link/statute/106/3719); [Pub. L. 104–316, title I, § 106(a)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3830](https://www.govinfo.gov/link/statute/110/3830); [Pub. L. 105–276, title V, § 594(a)](https://www.govinfo.gov/link/plaw/105/public/276), (b), Oct. 21, 1998, [112 Stat. 2655](https://www.govinfo.gov/link/statute/112/2655); [Pub. L. 107–73, title II, § 205](https://www.govinfo.gov/link/plaw/107/public/73), Nov. 26, 2001, [115 Stat. 674](https://www.govinfo.gov/link/statute/115/674); [Pub. L. 109–163, div. A, title VI, § 688(a)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3336](https://www.govinfo.gov/link/statute/119/3336); [Pub. L. 110–289, div. B, title I, § 2127](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2841](https://www.govinfo.gov/link/statute/122/2841); [Pub. L. 111–203, title XIV](https://www.govinfo.gov/link/plaw/111/public/203), §§ 1443–1445, 1448, 1449, July 21, 2010, [124 Stat. 2165–2171](https://www.govinfo.gov/link/statute/124/2165), 2173, 2174.)*

@@ -3,9 +3,10 @@ title: "Section 922 - Unlawful acts"
 usc_title: 18
 usc_section: "922"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 922"
-generated_at: "2026-03-30T02:54:16.472Z"
+generated_at: "2026-11-23T20:26:08.422Z"
+status: "active"
 ---
 
 # § 922. Unlawful acts
@@ -303,3 +304,45 @@ generated_at: "2026-03-30T02:54:16.472Z"
         - **(I)** the handgun was accessed by another person who did not have the permission or authorization of the person having lawful possession and control of the handgun to have access to it; and
         - **(II)** at the time access was gained by the person not so authorized, the handgun had been made inoperable by use of a secure gun storage or safety device; and
       - **(ii)** shall not include an action brought against the person having lawful possession and control of the handgun for negligent entrustment or negligence per se.
+
+Provisions Relating to Aliens Admitted Under Nonimmigrant Visas.—
+
+Definitions
+
+Exceptions
+
+Waiver.—
+
+Conditions for waiver
+
+Petition
+
+Approval of petition
+
+Secure Gun Storage or Safety Device.—
+
+In general
+
+Exceptions
+
+Liability for use.—
+
+In general
+
+Prospective actions
+
+Defined term
+
+Effective date
+
+“The purposes of this section [amending this section and section 924 of this title and enacting provisions set out as notes under this section and section 921 of this title ] are—
+
+Liability
+
+Evidence
+
+Rule of construction
+
+## Source Credit
+
+*(Added [Pub. L. 90–351, title IV, § 902](https://www.govinfo.gov/link/plaw/90/public/351), June 19, 1968, [82 Stat. 228](https://www.govinfo.gov/link/statute/82/228); amended [Pub. L. 90–618, title I, § 102](https://www.govinfo.gov/link/plaw/90/public/618), Oct. 22, 1968, [82 Stat. 1216](https://www.govinfo.gov/link/statute/82/1216); [Pub. L. 97–377, title I, § 165(a)](https://www.govinfo.gov/link/plaw/97/public/377), Dec. 21, 1982, [96 Stat. 1923](https://www.govinfo.gov/link/statute/96/1923); [Pub. L. 99–308, § 102](https://www.govinfo.gov/link/plaw/99/public/308), May 19, 1986, [100 Stat. 451](https://www.govinfo.gov/link/statute/100/451); [Pub. L. 99–408, § 2](https://www.govinfo.gov/link/plaw/99/public/408), Aug. 28, 1986, [100 Stat. 920](https://www.govinfo.gov/link/statute/100/920); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 100–649, § 2(a)](https://www.govinfo.gov/link/plaw/100/public/649), (f)(2)(A), Nov. 10, 1988, [102 Stat. 3816](https://www.govinfo.gov/link/statute/102/3816), 3818; [Pub. L. 100–690, title VII, § 7060(c)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4404](https://www.govinfo.gov/link/statute/102/4404); [Pub. L. 101–647, title XVII, § 1702(b)(1)](https://www.govinfo.gov/link/plaw/101/public/647), title XXII, §§ 2201, 2202, 2204(b), title XXXV, § 3524, Nov. 29, 1990, [104 Stat. 4844](https://www.govinfo.gov/link/statute/104/4844), 4856, 4857, 4924; [Pub. L. 103–159, title I, § 102(a)(1)](https://www.govinfo.gov/link/plaw/103/public/159), (b), title III, § 302(a)–(c), Nov. 30, 1993, [107 Stat. 1536](https://www.govinfo.gov/link/statute/107/1536), 1539, 1545; [Pub. L. 103–322, title XI](https://www.govinfo.gov/link/plaw/103/public/322), §§ 110102(a), 110103(a), 110105(2), 110106, 110201(a), 110401(b), (c), 110511, 110514, title XXXII, §§ 320904, 320927, title XXXIII, § 330011(i), Sept. 13, 1994, [108 Stat. 1996](https://www.govinfo.gov/link/statute/108/1996), 1998, 2000, 2010, 2014, 2019, 2125, 2131, 2145; [Pub. L. 104–208, div. A, title I, § 101(f) [title VI, §§ 657, 658(b)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–314](https://www.govinfo.gov/link/statute/110/3009), 3009–369, 3009–372; [Pub. L. 104–294, title VI, § 603(b)](https://www.govinfo.gov/link/plaw/104/public/294), (c)(1), (d)–(f)(1), (g), Oct. 11, 1996, [110 Stat. 3503](https://www.govinfo.gov/link/statute/110/3503), 3504; [Pub. L. 105–277, div. A, § 101(b) [title I, § 121]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–50](https://www.govinfo.gov/link/statute/112/2681), 2681–71; [Pub. L. 107–273, div. B, title IV, § 4003(a)(1)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1811](https://www.govinfo.gov/link/statute/116/1811); [Pub. L. 107–296, title XI, § 1112(f)(4)](https://www.govinfo.gov/link/plaw/107/public/296), (6), Nov. 25, 2002, [116 Stat. 2276](https://www.govinfo.gov/link/statute/116/2276); [Pub. L. 109–92](https://www.govinfo.gov/link/plaw/109/public/92), §§ 5(c)(1), 6(a), Oct. 26, 2005, [119 Stat. 2099](https://www.govinfo.gov/link/statute/119/2099), 2101; [Pub. L. 114–94, div. A, title XI, § 11412(c)(2)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1688](https://www.govinfo.gov/link/statute/129/1688); [Pub. L. 117–103, div. W, title XI, § 1104(b)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 921](https://www.govinfo.gov/link/statute/136/921); [Pub. L. 117–159, div. A, title II](https://www.govinfo.gov/link/plaw/117/public/159), §§ 12001(a)(1), (3), 12004(b), June 25, 2022, [136 Stat. 1322](https://www.govinfo.gov/link/statute/136/1322), 1324, 1329; [Pub. L. 118–159, div. E, title LII, § 5211(b)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2444](https://www.govinfo.gov/link/statute/138/2444).)*

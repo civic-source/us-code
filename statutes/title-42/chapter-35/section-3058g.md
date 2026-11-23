@@ -3,9 +3,10 @@ title: "Section 3058g - State Long-Term Care Ombudsman program"
 usc_title: 42
 usc_section: "3058g"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3058g"
-generated_at: "2026-03-30T02:56:11.180Z"
+generated_at: "2026-11-23T20:27:22.247Z"
+status: "active"
 ---
 
 # § 3058g. State Long-Term Care Ombudsman program
@@ -176,3 +177,7 @@ generated_at: "2026-03-30T02:56:11.180Z"
   - **(1)** ensure that willful interference with representatives of the Office in the performance of the official duties of the representatives (as defined by the Assistant Secretary) shall be unlawful;
   - **(2)** prohibit retaliation and reprisals by a long-term care facility or other entity with respect to any resident, employee, or other person for filing a complaint with, providing information to, or otherwise cooperating with any representative of, the Office; and
   - **(3)** provide for appropriate sanctions with respect to the interference, retaliation, and reprisals.
+
+## Source Credit
+
+*([Pub. L. 89–73, title VII, § 712](https://www.govinfo.gov/link/plaw/89/public/73), as added [Pub. L. 102–375, title VII, § 702](https://www.govinfo.gov/link/plaw/102/public/375), Sept. 30, 1992, [106 Stat. 1276](https://www.govinfo.gov/link/statute/106/1276); amended [Pub. L. 103–171, § 3(a)(9)](https://www.govinfo.gov/link/plaw/103/public/171), Dec. 2, 1993, [107 Stat. 1990](https://www.govinfo.gov/link/statute/107/1990); [Pub. L. 106–402, title IV, § 401(b)(9)(D)](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1739](https://www.govinfo.gov/link/statute/114/1739); [Pub. L. 106–501, title VII, § 704](https://www.govinfo.gov/link/plaw/106/public/501), title VIII, § 801(e)(2), Nov. 13, 2000, [114 Stat. 2289](https://www.govinfo.gov/link/statute/114/2289), 2293; [Pub. L. 114–144, § 8(c)](https://www.govinfo.gov/link/plaw/114/public/144), Apr. 19, 2016, [130 Stat. 347](https://www.govinfo.gov/link/statute/130/347); [Pub. L. 116–131, title VI, § 602](https://www.govinfo.gov/link/plaw/116/public/131), Mar. 25, 2020, [134 Stat. 268](https://www.govinfo.gov/link/statute/134/268).)*

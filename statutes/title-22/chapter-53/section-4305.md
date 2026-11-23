@@ -3,9 +3,10 @@ title: "Section 4305 - Property of foreign missions"
 usc_title: 22
 usc_section: "4305"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4305"
-generated_at: "2026-03-30T02:55:05.410Z"
+generated_at: "2026-11-23T20:26:32.531Z"
+status: "active"
 ---
 
 # § 4305. Property of foreign missions
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:55:05.410Z"
   - **(5)** As used in this section, the term “substantially improve” shall not be construed to prevent the establishment of a foreign mission by a country which, on December 22, 1987 —
     - **(A)** does not have a mission in the United States, or
     - **(B)** with respect to a city in the United States, did not maintain a mission in that city.
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title II, § 205, as added [Pub. L. 97–241, title II, § 202(b)](https://www.govinfo.gov/link/plaw/97/public/241), Aug. 24, 1982, [96 Stat. 285](https://www.govinfo.gov/link/statute/96/285); amended [Pub. L. 99–93, title I, § 127(d)](https://www.govinfo.gov/link/plaw/99/public/93), (e), Aug. 16, 1985, [99 Stat. 418](https://www.govinfo.gov/link/statute/99/418); [Pub. L. 100–204, title I, § 161](https://www.govinfo.gov/link/plaw/100/public/204), Dec. 22, 1987, [101 Stat. 1356](https://www.govinfo.gov/link/statute/101/1356); [Pub. L. 103–236, title I, § 162](https://www.govinfo.gov/link/plaw/103/public/236) (o)(5), Apr. 30, 1994, [108 Stat. 410](https://www.govinfo.gov/link/statute/108/410).)*

@@ -3,9 +3,10 @@ title: "Section 241 - Prevention of international child abduction"
 usc_title: 6
 usc_section: "241"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 241"
-generated_at: "2026-03-30T02:53:09.454Z"
+generated_at: "2026-11-23T20:25:34.677Z"
+status: "active"
 ---
 
 # § 241. Prevention of international child abduction
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:09.454Z"
   - **(2)** The Secretary of Defense shall designate an official within the Department of Defense—
     - **(A)** to coordinate with the Department of State on international child abduction issues; and
     - **(B)** to oversee activities designed to prevent or resolve international child abduction cases relating to active duty military service members.
+
+## Source Credit
+
+*([Pub. L. 107–296, title IV, § 433](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 113–150, title III, § 301(a)](https://www.govinfo.gov/link/plaw/113/public/150), Aug. 8, 2014, [128 Stat. 1822](https://www.govinfo.gov/link/statute/128/1822).)*

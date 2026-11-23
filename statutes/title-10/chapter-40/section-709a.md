@@ -3,9 +3,10 @@ title: "Section 709a - Expenses incurred in connection with leave canceled due t
 usc_title: 10
 usc_section: "709a"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 709a"
-generated_at: "2026-03-30T02:53:38.074Z"
+generated_at: "2026-11-23T20:25:51.047Z"
+status: "active"
 ---
 
 # § 709a. Expenses incurred in connection with leave canceled due to contingency operations: reimbursement
@@ -15,3 +16,13 @@ generated_at: "2026-03-30T02:53:38.074Z"
   - **(2)** the cancellation occurs within 48 hours of the time the leave would have commenced.
 - **(b)** The Secretary of Defense and, in the case of the Coast Guard when it is not operating as a service in the Navy, the Secretary of Homeland Security shall prescribe regulations to establish the criteria for the applicability of subsection (a).
 - **(c)** The settlement of an application for reimbursement under subsection (a) is final and conclusive.
+
+Authorization To Reimburse
+
+Regulations
+
+Conclusiveness of Settlement
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. A, title V, § 522(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2115](https://www.govinfo.gov/link/statute/130/2115).)*

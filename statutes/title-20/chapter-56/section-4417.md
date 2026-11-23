@@ -3,9 +3,10 @@ title: "Section 4417 - Functions of Institute"
 usc_title: 20
 usc_section: "4417"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 4417"
-generated_at: "2026-03-30T02:54:48.184Z"
+generated_at: "2026-11-23T20:26:14.766Z"
+status: "active"
 ---
 
 # § 4417. Functions of Institute
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:48.184Z"
     - **(C)** grant programs;
   - **(2)** complement existing tribal programs for the advancement of Indian art and culture; and
   - **(3)** coordinate efforts to preserve, support, revitalize, and develop evolving forms of Indian art and culture.
+
+## Source Credit
+
+*([Pub. L. 99–498, title XV, § 1510](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1606](https://www.govinfo.gov/link/statute/100/1606); [Pub. L. 101–644, title V, § 502](https://www.govinfo.gov/link/plaw/101/public/644), Nov. 29, 1990, [104 Stat. 4668](https://www.govinfo.gov/link/statute/104/4668); [Pub. L. 102–325, title XIII, § 1331(d)](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 807](https://www.govinfo.gov/link/statute/106/807).)*

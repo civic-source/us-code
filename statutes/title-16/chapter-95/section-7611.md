@@ -3,9 +3,10 @@ title: "Section 7611 - Purposes"
 usc_title: 16
 usc_section: "7611"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 7611"
-generated_at: "2026-03-30T02:54:23.076Z"
+generated_at: "2026-11-23T20:26:20.845Z"
+status: "active"
 ---
 
 # § 7611. Purposes
@@ -19,3 +20,7 @@ The purposes of this chapter are—
   - **(5)** to support the efforts of, and collaborate with, individuals, communities, local organizations, and foreign governments to combat poaching and wildlife trafficking;
   - **(6)** to assist focus countries in implementation of national wildlife anti-trafficking and poaching laws; and
   - **(7)** to ensure that United States assistance to prevent and suppress illicit wildlife trafficking is carefully planned and coordinated, and that it is systematically and rationally prioritized on the basis of detailed analysis of the nature and severity of threats to wildlife and the willingness and ability of foreign partners to cooperate effectively toward these ends.
+
+## Source Credit
+
+*([Pub. L. 114–231, title I, § 101](https://www.govinfo.gov/link/plaw/114/public/231), Oct. 7, 2016, [130 Stat. 951](https://www.govinfo.gov/link/statute/130/951).)*

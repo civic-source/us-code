@@ -3,9 +3,10 @@ title: "Section 2102 - Definitions"
 usc_title: 43
 usc_section: "2102"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 2102"
-generated_at: "2026-03-30T02:55:57.495Z"
+generated_at: "2026-11-23T20:27:06.394Z"
+status: "active"
 ---
 
 # § 2102. Definitions
@@ -22,3 +23,7 @@ For purposes of this chapter—
   - **(2)** of Puerto Rico, as described in section 749 of title 48 ;
   - **(3)** of Guam, the Virgin Islands and American Samoa, as described in section 1705 of title 48 ; and
   - **(4)** of the Commonwealth of the Northern Mariana Islands, as described in section 801 of Public Law 94–241 . 1
+
+## Source Credit
+
+*([Pub. L. 100–298, § 3](https://www.govinfo.gov/link/plaw/100/public/298), Apr. 28, 1988, [102 Stat. 432](https://www.govinfo.gov/link/statute/102/432).)*

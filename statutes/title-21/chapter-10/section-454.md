@@ -3,9 +3,10 @@ title: "Section 454 - Federal and State cooperation in development and administr
 usc_title: 21
 usc_section: "454"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 454"
-generated_at: "2026-03-30T02:54:54.285Z"
+generated_at: "2026-11-23T20:26:27.790Z"
+status: "active"
 ---
 
 # § 454. Federal and State cooperation in development and administration of State poultry product inspection programs
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:54.285Z"
   - **(3)** Whenever the Secretary determines that any State designated under this paragraph (c) has developed and will enforce State poultry products inspection requirements at least equal to those imposed under the aforesaid sections of this chapter, with respect to the operations and transactions within such State which are regulated under subparagraph (1) of this paragraph (c), he shall terminate the designation of such State under this paragraph (c), but this shall not preclude the subsequent redesignation of the State at any time upon thirty days’ notice to the Governor and publication in the Federal Register in accordance with this paragraph, and any State may be designated upon such notice and publication, at any time after the period specified in this paragraph whether or not the State has theretofore been designated, upon the Secretary determining that it is not effectively enforcing requirements at least equal to those imposed under said sections.
   - **(4)** The Secretary shall promptly upon August 18, 1968 , and periodically thereafter, but at least annually, review the requirements, including the enforcement thereof, of the several States not designated under this paragraph (c), with respect to the slaughter, and the processing, storage, handling, and distribution of poultry products, and inspection of such operations, and annually report thereon to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate in the report required in section 470 1 1 See References in Text note below. of this title.
 - **(d)** As used in this section, the term “State” means any State (including the Commonwealth of Puerto Rico) or organized territory.
+
+## Source Credit
+
+*([Pub. L. 85–172, § 5](https://www.govinfo.gov/link/plaw/85/public/172), Aug. 28, 1957, [71 Stat. 443](https://www.govinfo.gov/link/statute/71/443); [Pub. L. 90–492, § 5](https://www.govinfo.gov/link/plaw/90/public/492), Aug. 18, 1968, [82 Stat. 796](https://www.govinfo.gov/link/statute/82/796); [Pub. L. 98–487, § 2](https://www.govinfo.gov/link/plaw/98/public/487), Oct. 17, 1984, [98 Stat. 2264](https://www.govinfo.gov/link/statute/98/2264); [Pub. L. 103–437, § 8(1)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4588](https://www.govinfo.gov/link/statute/108/4588).)*

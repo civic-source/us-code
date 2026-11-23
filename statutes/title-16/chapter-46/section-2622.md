@@ -3,9 +3,10 @@ title: "Section 2622 - Obligations to consider and determine"
 usc_title: 16
 usc_section: "2622"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 2622"
-generated_at: "2026-03-30T02:54:23.004Z"
+generated_at: "2026-11-23T20:26:20.613Z"
+status: "active"
 ---
 
 # § 2622. Obligations to consider and determine
@@ -57,3 +58,7 @@ generated_at: "2026-03-30T02:54:23.004Z"
   - **(1)** the State has implemented for the electric utility the standard (or a comparable standard);
   - **(2)** the State regulatory authority for the State or the relevant nonregulated electric utility has conducted a proceeding to consider implementation of the standard (or a comparable standard) for the electric utility; or
   - **(3)** the State legislature has voted on the implementation of the standard (or a comparable standard) for the electric utility during the 3-year period ending on November 15, 2021 .
+
+## Source Credit
+
+*([Pub. L. 95–617, title I, § 112](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3122](https://www.govinfo.gov/link/statute/92/3122); [Pub. L. 102–486, title I, § 111(c)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2795](https://www.govinfo.gov/link/statute/106/2795); [Pub. L. 109–58, title XII](https://www.govinfo.gov/link/plaw/109/public/58), §§ 1251(b)(1)–(3)(A), 1252(g)–(i)(1), 1254(b)(1)–(3)(A), Aug. 8, 2005, [119 Stat. 963](https://www.govinfo.gov/link/statute/119/963), 966, 967, 971; [Pub. L. 110–140, title XIII, § 1307(b)](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1793](https://www.govinfo.gov/link/statute/121/1793); [Pub. L. 111–5, div. A, title IV, § 408(b)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 146](https://www.govinfo.gov/link/statute/123/146); [Pub. L. 117–58, div. D, title I, § 40104(a)(2)(A)](https://www.govinfo.gov/link/plaw/117/public/58) –(C)(i), title IV, § 40431(b)(1)–(3)(A), Nov. 15, 2021, [135 Stat. 931](https://www.govinfo.gov/link/statute/135/931), 932, 1048.)*

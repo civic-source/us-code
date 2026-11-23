@@ -3,9 +3,10 @@ title: "Section 12707 - Citizen participation"
 usc_title: 42
 usc_section: "12707"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12707"
-generated_at: "2026-03-30T02:56:11.430Z"
+generated_at: "2026-11-23T20:27:23.429Z"
+status: "active"
 ---
 
 # § 12707. Citizen participation
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.430Z"
 - **(b)** Before submitting any performance report or substantial amendment to a housing strategy under this section, 1 a participating jurisdiction shall provide citizens with reasonable notice of, and opportunity to comment on, such performance report or substantial amendment prior to its submission.
 - **(c)** A participating jurisdiction shall consider any comments or views of citizens in preparing a final housing strategy, amendment to a housing strategy or performance report for submission. A summary of such comments or views shall be attached when a housing strategy, amendment to a housing strategy or performance report is submitted. The submitted housing strategy, amendment, or report shall be made available to the public.
 - **(d)** The Secretary shall by regulation establish procedures appropriate and practicable for providing a fair hearing and timely resolution of citizen complaints related to housing strategies or performance reports.
+
+## Source Credit
+
+*([Pub. L. 101–625, title I, § 107](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4091](https://www.govinfo.gov/link/statute/104/4091).)*

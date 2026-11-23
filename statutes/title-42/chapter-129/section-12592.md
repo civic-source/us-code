@@ -3,9 +3,10 @@ title: "Section 12592 - Selection of national service participants"
 usc_title: 42
 usc_section: "12592"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12592"
-generated_at: "2026-03-30T02:56:11.419Z"
+generated_at: "2026-11-23T20:27:23.378Z"
+status: "active"
 ---
 
 # § 12592. Selection of national service participants
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.419Z"
     - **(E)** as members of the Armed Forces of the United States and who were honorably discharged from such service.
   - **(3)** At the request of a program that receives assistance under the national service laws, the Corporation may assign an individual who receives leadership training under paragraph (1) to work with the program in a leadership position and carry out assignments not otherwise performed by regular participants. An individual assigned to a program shall be considered to be a participant of the program.
 - **(f)** The Corporation shall issue regulations regarding the manner and criteria by which the service of a participant shall be evaluated to determine whether the service is satisfactory and successful for purposes of eligibility for a second term of service or a national service educational award.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 138](https://www.govinfo.gov/link/plaw/101/public/610), as added [Pub. L. 103–82, title I, § 101(b)](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 809](https://www.govinfo.gov/link/statute/107/809); amended [Pub. L. 111–13, title I, § 1313](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1510](https://www.govinfo.gov/link/statute/123/1510).)*

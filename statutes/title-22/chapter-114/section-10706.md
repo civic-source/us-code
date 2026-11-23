@@ -3,9 +3,10 @@ title: "Section 10706 - Promoting cross-cultural and educational engagement"
 usc_title: 22
 usc_section: "10706"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 10706"
-generated_at: "2026-03-30T02:55:05.480Z"
+generated_at: "2026-11-23T20:26:32.834Z"
+status: "active"
 ---
 
 # § 10706. Promoting cross-cultural and educational engagement
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.480Z"
   - **(3)** encouraging knowledge exchanges to help provide individuals, especially those who historically have had reduced access to relevant education, training, and skills for meaningful employment;
   - **(4)** promoting teaching and research exchanges between institutions of higher education in the Western Balkans and in the United States; and
   - **(5)** encouraging alliances and exchanges with like-minded institutions of education within the Western Balkans and the larger European continent.
+
+## Source Credit
+
+*([Pub. L. 119–60, div. H, title LXXXIII, § 8337](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1875](https://www.govinfo.gov/link/statute/139/1875).)*

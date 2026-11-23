@@ -3,9 +3,10 @@ title: "Section 5540 - Disposal of used or surplus furniture and equipment by Ch
 usc_title: 2
 usc_section: "5540"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 5540"
-generated_at: "2026-03-30T02:53:04.837Z"
+generated_at: "2026-11-23T20:25:29.063Z"
+status: "active"
 ---
 
 # § 5540. Disposal of used or surplus furniture and equipment by Chief Administrative Officer of House; procedure; deposit of receipts
@@ -25,3 +26,11 @@ generated_at: "2026-03-30T02:53:04.837Z"
   - **(5)** As used in this section—
     - **(A)** the term “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and a territory or possession of the United States; and
     - **(B)** the term “used equipment” means such used or surplus equipment (including furniture and motor vehicles) as the Committee on House Oversight of the House of Representatives may prescribe by regulation.
+
+allowances and expenses
+
+Contingent Expenses of the House
+
+## Source Credit
+
+*([Pub. L. 99–500, § 101(j)](https://www.govinfo.gov/link/plaw/99/public/500), Oct. 18, 1986, [100 Stat. 1783–287](https://www.govinfo.gov/link/statute/100/1783), and [Pub. L. 99–591, § 101(j)](https://www.govinfo.gov/link/plaw/99/public/591), Oct. 30, 1986, [100 Stat. 3341–287](https://www.govinfo.gov/link/statute/100/3341); [Pub. L. 100–71, title I](https://www.govinfo.gov/link/plaw/100/public/71), July 11, 1987, [101 Stat. 425](https://www.govinfo.gov/link/statute/101/425); [Pub. L. 101–163, title I, § 103(a)](https://www.govinfo.gov/link/plaw/101/public/163), Nov. 21, 1989, [103 Stat. 1049](https://www.govinfo.gov/link/statute/103/1049); [Pub. L. 104–186, title II, § 204(63)](https://www.govinfo.gov/link/plaw/104/public/186), Aug. 20, 1996, [110 Stat. 1739](https://www.govinfo.gov/link/statute/110/1739); [Pub. L. 105–55, title I, § 106](https://www.govinfo.gov/link/plaw/105/public/55), Oct. 7, 1997, [111 Stat. 1184](https://www.govinfo.gov/link/statute/111/1184); [Pub. L. 107–68, title I, § 114(a)](https://www.govinfo.gov/link/plaw/107/public/68), Nov. 12, 2001, [115 Stat. 572](https://www.govinfo.gov/link/statute/115/572); [Pub. L. 107–110, title X, § 1076(b)](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2091](https://www.govinfo.gov/link/statute/115/2091); [Pub. L. 114–95, title IX, § 9215(xx)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2184](https://www.govinfo.gov/link/statute/129/2184).)*

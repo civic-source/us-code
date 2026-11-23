@@ -3,9 +3,10 @@ title: "Section 2734f - Strategic staffing plan for the Department of State"
 usc_title: 22
 usc_section: "2734f"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2734f"
-generated_at: "2026-03-30T02:55:05.382Z"
+generated_at: "2026-11-23T20:26:32.394Z"
+status: "active"
 ---
 
 # § 2734f. Strategic staffing plan for the Department of State
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:05.382Z"
 - **(b)** The dataset required under subsection (a)(1) shall be maintained and updated on a regular basis.
 - **(c)** The Secretary shall lead the development of the plan required under subsection (a) but may consult or partner with private sector entities with expertise in labor economics, management, or human resources, as well as organizations familiar with the demands and needs of the Department’s workforce.
 - **(d)** Not later than 120 days after December 27, 2021 , the Secretary of State shall submit to the appropriate congressional committees a report regarding root causes of Foreign Service and civil service shortages, the effect of such shortages on national security objectives, and the Department’s plan to implement recommendations described in GAO–19–220.
+
+## Source Credit
+
+*([Pub. L. 117–81, div. E, title LIII, § 5313](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2365](https://www.govinfo.gov/link/statute/135/2365).)*

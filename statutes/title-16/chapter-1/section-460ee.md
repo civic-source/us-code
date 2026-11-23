@@ -3,9 +3,10 @@ title: "Section 460ee - Establishment"
 usc_title: 16
 usc_section: "460ee"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 460ee"
-generated_at: "2026-03-30T02:54:22.824Z"
+generated_at: "2026-11-23T20:26:19.953Z"
+status: "active"
 ---
 
 # § 460ee. Establishment
@@ -40,3 +41,9 @@ generated_at: "2026-03-30T02:54:22.824Z"
   - **(1)** Until such time as the transfer of jurisdiction to the Secretary of the Interior authorized by subsection (b) of this section shall take place, for the purpose of financially assisting the States of Tennessee and Kentucky, McCreary County, Kentucky, and Scott, Morgan, Pickett, and Fentress Counties in Tennessee, because of losses which these jurisdictions will sustain by reason of the fact that certain lands and other property within their boundaries may be included within the National Area established by this section and thereafter will no longer be subject to real and personal property taxes levied or imposed by them, payments shall be made to them on an annual basis in an amount equal to those taxes levied or imposed on such property for the last taxable year immediately preceding March 7, 1974 .
   - **(2)** For the purpose of enabling the Secretary to make such payments during the fiscal years ending June 30, 1975 , June 30, 1976 , June 30, 1977 , June 30, 1978 , and June 30, 1979 , there are authorized to be appropriated such sums as may be necessary.
 - **(k)** There are authorized to be appropriated $156,122,000 to carry out the provisions of this section, other than subsection (j) of this section. Costs for the National Area shall be provided in the same manner as costs for national recreation areas administered by the Secretary of the Interior through the National Park Service.
+
+Improvement of charit creek lodge and historic structures
+
+## Source Credit
+
+*([Pub. L. 93–251, title I, § 108](https://www.govinfo.gov/link/plaw/93/public/251), Mar. 7, 1974, [88 Stat. 43](https://www.govinfo.gov/link/statute/88/43); [Pub. L. 94–587, § 184](https://www.govinfo.gov/link/plaw/94/public/587), Oct. 22, 1976, [90 Stat. 2940](https://www.govinfo.gov/link/statute/90/2940); [Pub. L. 95–91, title IV, § 402(a)(1)(A)](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 583](https://www.govinfo.gov/link/statute/91/583); [Pub. L. 99–662, title XI, § 1110](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4231](https://www.govinfo.gov/link/statute/100/4231); [Pub. L. 101–561, § 1](https://www.govinfo.gov/link/plaw/101/public/561), Nov. 15, 1990, [104 Stat. 2778](https://www.govinfo.gov/link/statute/104/2778).)*

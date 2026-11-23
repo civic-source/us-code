@@ -3,9 +3,10 @@ title: "Section 6301 - Imposition of procurement sanction on persons engaging in
 usc_title: 22
 usc_section: "6301"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6301"
-generated_at: "2026-03-30T02:55:05.426Z"
+generated_at: "2026-11-23T20:26:32.604Z"
+status: "active"
 ---
 
 # § 6301. Imposition of procurement sanction on persons engaging in export activities that contribute to proliferation
@@ -44,3 +45,9 @@ generated_at: "2026-03-30T02:55:05.426Z"
 - **(f)**
   - **(1)** The President may waive the application of the sanction imposed on any person pursuant to this section, after the end of the 12-month period beginning on the date on which that sanction was imposed on that person, if the President determines and certifies in writing to the Congress that the continued imposition of the sanction would have a serious adverse effect on vital United States interests.
   - **(2)** If the President decides to exercise the waiver authority provided in paragraph (1), the President shall so notify the Congress not less than 20 days before the waiver takes effect. Such notification shall include a report fully articulating the rationale and circumstances which led the President to exercise the waiver authority.
+
+George W. Bush.
+
+## Source Credit
+
+*([Pub. L. 103–236, title VIII, § 821](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 508](https://www.govinfo.gov/link/statute/108/508).)*

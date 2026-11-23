@@ -3,9 +3,10 @@ title: "Section 390vv - Excess crop restrictions"
 usc_title: 43
 usc_section: "390vv"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 390vv"
-generated_at: "2026-03-30T02:55:57.446Z"
+generated_at: "2026-11-23T20:27:06.200Z"
+status: "active"
 ---
 
 # § 390vv. Excess crop restrictions
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:57.446Z"
   - **(3)** the feasibility and appropriateness of requiring the participation in acreage set-aside programs of farms served by irrigation water and the costs of such a requirement; and
   - **(4)** any recommendations concerning how to coordinate national reclamation policy with agriculture policy to help alleviate recurring problems of surplus crops and low commodity prices.
 - **(b)** In addition, notwithstanding any other provision of law, in the case of any Federal reclamation project authorized before October 12, 1982 , any restriction prohibiting the delivery of irrigation water for the production of excess basic agricultural commodities shall extend for a period no longer than ten years after the date of the initial authorization of such project.
+
+## Source Credit
+
+*([Pub. L. 97–293, title II, § 222](https://www.govinfo.gov/link/plaw/97/public/293), Oct. 12, 1982, [96 Stat. 1272](https://www.govinfo.gov/link/statute/96/1272).)*

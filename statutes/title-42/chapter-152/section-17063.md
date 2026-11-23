@@ -3,9 +3,10 @@ title: "Section 17063 - Energy information for commercial buildings"
 usc_title: 42
 usc_section: "17063"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17063"
-generated_at: "2026-03-30T02:56:11.494Z"
+generated_at: "2026-11-23T20:27:23.720Z"
+status: "active"
 ---
 
 # § 17063. Energy information for commercial buildings
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:56:11.494Z"
   - **(2)** The database maintained pursuant to paragraph (1) shall complement and not duplicate the functions of the Environmental Protection Agency’s Energy Star Portfolio Manager tool.
 - **(d)** The Secretary of Energy shall seek input from stakeholders to maximize the effectiveness of the actions taken under this section.
 - **(e)** Not later than 2 years after April 30, 2015 , and every 2 years thereafter, the Secretary of Energy shall submit to the Committee on Energy and Commerce of the House of Representatives and Committee on Energy and Natural Resources of the Senate a report on the progress made in complying with this section.
+
+## Source Credit
+
+*([Pub. L. 114–11, title III, § 301](https://www.govinfo.gov/link/plaw/114/public/11), Apr. 30, 2015, [129 Stat. 189](https://www.govinfo.gov/link/statute/129/189).)*

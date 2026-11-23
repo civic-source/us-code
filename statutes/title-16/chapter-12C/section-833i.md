@@ -3,12 +3,17 @@ title: "Section 833i - Deposit of receipts; establishment of continuing fund; au
 usc_title: 16
 usc_section: "833i"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 833i"
-generated_at: "2026-03-30T02:54:22.927Z"
+generated_at: "2026-11-23T20:26:20.315Z"
+status: "active"
 ---
 
 # § 833i. Deposit of receipts; establishment of continuing fund; authorization of appropriations
 
 All receipts from transmission and sale of electric energy generated at the Fort Peck project shall be covered into the Treasury of the United States to the credit of miscellaneous receipts, save and except that the Treasury shall set up and maintain from such receipts a continuing fund of $500,000, to the credit of the Bureau and subject to expenditure by it, to defray the operating expense of generation and transmission of power delivered to the Bureau for disposal under this chapter, to defray emergency expenses and to insure continuous operation. There is authorized to be appropriated from time to time, out of moneys in the Treasury not otherwise appropriated, such sums as may be necessary to carry out the provisions of this chapter, including installation of equipment and machinery for the generation of electric energy, and facilities for its transmission and sale.
 
+
+## Source Credit
+
+*(May 18, 1938, ch. 250, § 10, [52 Stat. 406](https://www.govinfo.gov/link/statute/52/406).)*

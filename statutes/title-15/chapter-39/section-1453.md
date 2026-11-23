@@ -3,9 +3,10 @@ title: "Section 1453 - Requirements of labeling; placement, form, and contents o
 usc_title: 15
 usc_section: "1453"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1453"
-generated_at: "2026-03-30T02:54:08.135Z"
+generated_at: "2026-11-23T20:26:04.005Z"
+status: "active"
 ---
 
 # § 1453. Requirements of labeling; placement, form, and contents of statement of quantity; supplemental statement of quantity
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:08.135Z"
   - **(5)** For purposes of paragraph (3)(A)(ii) of this subsection the term “random package” means a package which is one of a lot, shipment, or delivery of packages of the same consumer commodity with varying weights or masses, that is, packages with no fixed weight or mass pattern.
   - **(6)** The requirement of paragraph (2) that the statement of net quantity of contents include a statement in terms of the SI metric system shall not apply to foods that are packaged at the retail store level.
 - **(b)** No person subject to the prohibition contained in section 1452 of this title shall distribute or cause to be distributed in commerce any packaged consumer commodity if any qualifying words or phrases appear in conjunction with the separate statement of the net quantity of contents required by subsection (a), but nothing in this subsection or in paragraph (2) of subsection (a) shall prohibit supplemental statements, at other places on the package, describing in nondeceptive terms the net quantity of contents: Provided , That such supplemental statements of net quantity of contents shall not include any term qualifying a unit of weight or mass, measure, or count that tends to exaggerate the amount of the commodity contained in the package.
+
+## Source Credit
+
+*([Pub. L. 89–755, § 4](https://www.govinfo.gov/link/plaw/89/public/755), Nov. 3, 1966, [80 Stat. 1297](https://www.govinfo.gov/link/statute/80/1297); [Pub. L. 102–245, title I, § 107(a)](https://www.govinfo.gov/link/plaw/102/public/245), Feb. 14, 1992, [106 Stat. 13](https://www.govinfo.gov/link/statute/106/13); [Pub. L. 102–329](https://www.govinfo.gov/link/plaw/102/public/329), §§ 1, 3, Aug. 3, 1992, [106 Stat. 847](https://www.govinfo.gov/link/statute/106/847), 848.)*

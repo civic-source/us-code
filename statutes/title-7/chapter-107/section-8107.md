@@ -3,9 +3,10 @@ title: "Section 8107 - Rural Energy for America Program"
 usc_title: 7
 usc_section: "8107"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 8107"
-generated_at: "2026-03-30T02:53:42.471Z"
+generated_at: "2026-11-23T20:25:41.869Z"
+status: "active"
 ---
 
 # § 8107. Rural Energy for America Program
@@ -84,3 +85,7 @@ generated_at: "2026-03-30T02:53:42.471Z"
     - **(A)** Subject to subparagraph (B), of the funds made available for each fiscal year under paragraph (1), 4 percent shall be available to carry out subsection (b).
     - **(B)** Funds not obligated under subparagraph (A) by April 1 of each fiscal year to carry out subsection (b) shall become available to carry out subsection (c).
   - **(3)** In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2019 through 2023.
+
+## Source Credit
+
+*([Pub. L. 107–171, title IX, § 9007](https://www.govinfo.gov/link/plaw/107/public/171), as added [Pub. L. 110–234, title IX, § 9001(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1315](https://www.govinfo.gov/link/statute/122/1315), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IX, § 9001(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2077; amended [Pub. L. 112–240, title VII, § 701(f)(6)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2365](https://www.govinfo.gov/link/statute/126/2365); [Pub. L. 113–79, title IX, § 9007](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 930](https://www.govinfo.gov/link/statute/128/930); [Pub. L. 115–334, title IX, § 9007](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4886](https://www.govinfo.gov/link/statute/132/4886).)*

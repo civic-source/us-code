@@ -3,9 +3,10 @@ title: "Section 17001 - Definitions"
 usc_title: 42
 usc_section: "17001"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17001"
-generated_at: "2026-03-30T02:56:11.492Z"
+generated_at: "2026-11-23T20:27:23.711Z"
+status: "active"
 ---
 
 # § 17001. Definitions
@@ -15,3 +16,7 @@ In this Act:
   - **(1)** The term “Department” means the Department of Energy.
   - **(2)** The term “institution of higher education” has the meaning given the term in section 1001(a) of title 20 .
   - **(3)** The term “Secretary” means the Secretary of Energy.
+
+## Source Credit
+
+*([Pub. L. 110–140, § 2](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1498](https://www.govinfo.gov/link/statute/121/1498).)*

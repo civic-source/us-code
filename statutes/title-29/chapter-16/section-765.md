@@ -3,9 +3,10 @@ title: "Section 765 - Disability, Independent Living, and Rehabilitation Researc
 usc_title: 29
 usc_section: "765"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 765"
-generated_at: "2026-03-30T02:55:18.696Z"
+generated_at: "2026-11-23T20:26:37.863Z"
+status: "active"
 ---
 
 # § 765. Disability, Independent Living, and Rehabilitation Research Advisory Council
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:18.696Z"
 - **(g)** On the request of the Council, the Secretary may detail, with or without reimbursement, any of the personnel of the Department of Health and Human Services to the Council to assist the Council in carrying out its duties. Any detail shall not interrupt or otherwise affect the civil service status or privileges of the Federal employee.
 - **(h)** On the request of the Council, the Secretary shall provide such technical assistance to the Council as the Council determines to be necessary to carry out its duties.
 - **(i)** Section 1013 of title 5 shall not apply with respect to the Council.
+
+## Source Credit
+
+*([Pub. L. 93–112, title II, § 205](https://www.govinfo.gov/link/plaw/93/public/112), as added [Pub. L. 105–220, title IV, § 405](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1182](https://www.govinfo.gov/link/statute/112/1182); amended [Pub. L. 105–277, div. A, § 101(f) [title VIII, §§ 401(16), 402(b)(11)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–412, 2681–414; [Pub. L. 113–128, title IV, § 436](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1671](https://www.govinfo.gov/link/statute/128/1671); [Pub. L. 117–286, § 4(a)(187)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4326](https://www.govinfo.gov/link/statute/136/4326).)*

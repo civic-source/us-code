@@ -3,9 +3,10 @@ title: "Section 3079c - Eligibility of former officers to compete for certain po
 usc_title: 33
 usc_section: "3079c"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 3079c"
-generated_at: "2026-03-30T02:55:41.138Z"
+generated_at: "2026-11-23T20:26:54.250Z"
+status: "active"
 ---
 
 # § 3079c. Eligibility of former officers to compete for certain positions
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:41.138Z"
   - **(1)** A description of how the Administrator has utilized the authority granted under this section, including the number and locations of individuals hired utilizing the authority granted under this section.
   - **(2)** An overview of the impact to Federal employment for former members of the commissioned officer corps of the Administration as a result of the authority granted under this section.
 - **(g)** This section shall be repealed on the date that is 5 years after December 18, 2025 .
+
+## Source Credit
+
+*([Pub. L. 107–372, title II, § 269C](https://www.govinfo.gov/link/plaw/107/public/372), as added [Pub. L. 119–60, div. H, title LXXXIV, § 8404(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1912](https://www.govinfo.gov/link/statute/139/1912).)*

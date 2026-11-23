@@ -3,9 +3,10 @@ title: "Section 1720L - Home- and community-based services: programs"
 usc_title: 38
 usc_section: "1720L"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 1720L"
-generated_at: "2026-03-30T02:55:53.486Z"
+generated_at: "2026-11-23T20:27:01.700Z"
+status: "active"
 ---
 
 # § 1720L. Home- and community-based services: programs
@@ -55,3 +56,95 @@ generated_at: "2026-03-30T02:55:53.486Z"
   - **(12)** The term “resident eligible caregiver” means an individual who—
     - **(A)** is a caregiver, or a family caregiver, of a veteran and resides with that veteran; and
     - **(B)** has not entered into a contract, agreement, or other arrangement for such individual to act as a caregiver for that veteran unless such individual is a family member of the veteran or is furnishing caregiver services through a medical foster home.
+
+In General
+
+Veteran-Directed Care Program
+
+Homemaker and Home Health Aide Program
+
+Home-Based Primary Care Program
+
+Purchased Skilled Home Care Program
+
+Caregiver Support
+
+Rule of Construction
+
+Definitions
+
+Procedures
+
+Staffing model; report
+
+Pilot Program for Communities With Shortage of Home Health Aides.—
+
+Program
+
+Locations
+
+Nursing assistants.—
+
+In general
+
+Relationship to home-based primary care program
+
+Report to congress
+
+Report on Use of Funds
+
+Updated Guidance on Program
+
+Office of Geriatric and Extended Care.—
+
+Review of programs
+
+Assessment of staffing needs
+
+Goals for geographic alignment of care.—
+
+Establishment of goals
+
+Implementation timeline
+
+Goals for in-home specialty care
+
+Input on goals
+
+Report to congress
+
+Review of Incentives and Efforts Relating to Home- and Community-based Services.—
+
+Review
+
+Report to congress
+
+Review of Respite Care Services
+
+Collaboration to Improve Home- and Community-based Services.—
+
+Recommendations.—
+
+Development
+
+Submission to congress
+
+Consultation with secretary of labor
+
+Feedback and recommendations on caregiver support.—
+
+Feedback and recommendations
+
+Covered entities
+
+Collaboration for certain veterans
+
+Centralized Website
+
+Contents
+
+Updates
+
+## Source Credit
+
+*(Added [Pub. L. 118–210, title I, § 123(a)](https://www.govinfo.gov/link/plaw/118/public/210), Jan. 2, 2025, [138 Stat. 2726](https://www.govinfo.gov/link/statute/138/2726).)*

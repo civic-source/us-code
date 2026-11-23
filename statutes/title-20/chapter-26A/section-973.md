@@ -3,9 +3,10 @@ title: "Section 973 - Application for indemnity agreements"
 usc_title: 20
 usc_section: "973"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 973"
-generated_at: "2026-03-30T02:54:48.090Z"
+generated_at: "2026-11-23T20:26:14.286Z"
+status: "active"
 ---
 
 # § 973. Application for indemnity agreements
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:48.090Z"
   - **(2)** show evidence that the items are eligible under section 972(a) of this title ; and
   - **(3)** set forth policies, procedures, techniques, and methods with respect to preparation for, and conduct of, exhibition of the items, and any transportation related to such items.
 - **(c)** Upon receipt of an application under this section, the Council shall, if such application conforms with the requirements of this chapter, approve the application and make an indemnity agreement with the applicant. Upon such approval, the agreement shall constitute a contract between the Council and the applicant pledging the full faith and credit of the United States to pay any amount for which the Council becomes liable under such agreement. The Council, for such purpose, is hereby authorized to pledge the full faith and credit of the United States.
+
+## Source Credit
+
+*([Pub. L. 94–158, § 4](https://www.govinfo.gov/link/plaw/94/public/158), Dec. 20, 1975, [89 Stat. 845](https://www.govinfo.gov/link/statute/89/845).)*

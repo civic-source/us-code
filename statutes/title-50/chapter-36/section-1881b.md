@@ -3,9 +3,10 @@ title: "Section 1881b - Certain acquisitions inside the United States targeting 
 usc_title: 50
 usc_section: "1881b"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 1881b"
-generated_at: "2026-03-30T02:56:26.214Z"
+generated_at: "2026-11-23T20:27:30.800Z"
+status: "active"
 ---
 
 # § 1881b. Certain acquisitions inside the United States targeting United States persons outside the United States
@@ -79,3 +80,7 @@ generated_at: "2026-03-30T02:56:26.214Z"
   - **(1)** The Government may file a petition with the Foreign Intelligence Surveillance Court of Review for review of an order issued pursuant to subsection (c). The Court of Review shall have jurisdiction to consider such petition and shall provide a written statement for the record of the reasons for a decision under this paragraph.
   - **(2)** The Government may file a petition for a writ of certiorari for review of a decision of the Court of Review issued under paragraph (1). The record for such review shall be transmitted under seal to the Supreme Court of the United States, which shall have jurisdiction to review such decision.
 - **(g)** Except as provided in this section, nothing in this chapter shall be construed to require an application for a court order for an acquisition that is targeted in accordance with this section at a United States person reasonably believed to be located outside the United States.
+
+## Source Credit
+
+*([Pub. L. 95–511, title VII, § 703](https://www.govinfo.gov/link/plaw/95/public/511), as added [Pub. L. 110–261, title I, § 101(a)(2)](https://www.govinfo.gov/link/plaw/110/public/261), July 10, 2008, [122 Stat. 2448](https://www.govinfo.gov/link/statute/122/2448); amended [Pub. L. 118–49](https://www.govinfo.gov/link/plaw/118/public/49), §§ 6(a)(3), 10(a)(5)(A), (b)(5)(A), Apr. 20, 2024, [138 Stat. 870](https://www.govinfo.gov/link/statute/138/870), 876, 878.)*

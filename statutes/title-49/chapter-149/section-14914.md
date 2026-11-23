@@ -3,9 +3,10 @@ title: "Section 14914 - Civil penalty procedures"
 usc_title: 49
 usc_section: "14914"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 14914"
-generated_at: "2026-03-30T02:56:19.333Z"
+generated_at: "2026-11-23T20:27:34.766Z"
+status: "active"
 ---
 
 # § 14914. Civil penalty procedures
@@ -16,3 +17,15 @@ generated_at: "2026-03-30T02:56:19.333Z"
 - **(d)** The Board may refund or remit a civil penalty collected under this section if—
   - **(1)** application has been made for refund or remission of the penalty within 1 year from the date of payment; and
   - **(2)** the Board finds that the penalty was unlawfully, improperly, or excessively imposed.
+
+In General
+
+Compromise
+
+Collection
+
+Refunds
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 918](https://www.govinfo.gov/link/statute/109/918).)*

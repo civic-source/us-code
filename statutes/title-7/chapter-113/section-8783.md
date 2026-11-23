@@ -3,9 +3,10 @@ title: "Section 8783 - Availability of quality incentive payments for covered oi
 usc_title: 7
 usc_section: "8783"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 8783"
-generated_at: "2026-03-30T02:53:42.481Z"
+generated_at: "2026-11-23T20:25:41.916Z"
+status: "active"
 ---
 
 # § 8783. Availability of quality incentive payments for covered oilseed producers
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:53:42.481Z"
       - **(i)** be in an amount determined appropriated by the Secretary; but
       - **(ii)** not to exceed twice the full value of the oilseeds.
 - **(h)** There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2009 through 2012.
+
+## Source Credit
+
+*([Pub. L. 110–234, title I, § 1605](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1016](https://www.govinfo.gov/link/statute/122/1016); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1605, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1744.)*

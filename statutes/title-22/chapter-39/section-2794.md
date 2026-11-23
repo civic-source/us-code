@@ -3,9 +3,10 @@ title: "Section 2794 - Definitions"
 usc_title: 22
 usc_section: "2794"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2794"
-generated_at: "2026-03-30T02:55:05.387Z"
+generated_at: "2026-11-23T20:26:32.429Z"
+status: "active"
 ---
 
 # § 2794. Definitions
@@ -31,3 +32,7 @@ For purposes of this chapter, the term—
     - **(B)** identified on the United States Munitions List;
   - **(10)** “weapons of mass destruction” has the meaning provided by section 2302(1) of title 50 ; and
   - **(11)** “Sales territory” means a country or group of countries to which a defense article or defense service is authorized to be reexported.
+
+## Source Credit
+
+*([Pub. L. 90–629](https://www.govinfo.gov/link/plaw/90/public/629), ch. 4, § 47, as added [Pub. L. 93–189, § 25(12)](https://www.govinfo.gov/link/plaw/93/public/189), Dec. 17, 1973, [87 Stat. 731](https://www.govinfo.gov/link/statute/87/731); amended [Pub. L. 94–329, title II, § 215](https://www.govinfo.gov/link/plaw/94/public/329), June 30, 1976, [90 Stat. 746](https://www.govinfo.gov/link/statute/90/746); [Pub. L. 96–92, § 22](https://www.govinfo.gov/link/plaw/96/public/92), Oct. 29, 1979, [93 Stat. 710](https://www.govinfo.gov/link/statute/93/710); [Pub. L. 96–533, title I, § 105(f)](https://www.govinfo.gov/link/plaw/96/public/533), Dec. 16, 1980, [94 Stat. 3135](https://www.govinfo.gov/link/statute/94/3135); [Pub. L. 99–83, title I, § 107(b)](https://www.govinfo.gov/link/plaw/99/public/83), title XII, § 1211(b)(3), Aug. 8, 1985, [99 Stat. 197](https://www.govinfo.gov/link/statute/99/197), 279; [Pub. L. 104–164, title I, § 144](https://www.govinfo.gov/link/plaw/104/public/164), July 21, 1996, [110 Stat. 1434](https://www.govinfo.gov/link/statute/110/1434); [Pub. L. 107–228, div. B, title XII, § 1202(b)](https://www.govinfo.gov/link/plaw/107/public/228), title XIV, § 1405(a)(4), Sept. 30, 2002, [116 Stat. 1427](https://www.govinfo.gov/link/statute/116/1427), 1458; [Pub. L. 113–276, title II](https://www.govinfo.gov/link/plaw/113/public/276), §§ 207, 208(b)(1)(B), Dec. 18, 2014, [128 Stat. 2992](https://www.govinfo.gov/link/statute/128/2992), 2993.)*

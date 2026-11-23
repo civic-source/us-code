@@ -3,9 +3,10 @@ title: "Section 10401 - Definitions"
 usc_title: 22
 usc_section: "10401"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 10401"
-generated_at: "2026-03-30T02:55:05.476Z"
+generated_at: "2026-11-23T20:26:32.821Z"
+status: "active"
 ---
 
 # § 10401. Definitions
@@ -21,3 +22,7 @@ In this chapter:
       - **(i)** Pillar One is focused on developing a pathway for Australia to acquire conventionally armed, nuclear-powered submarines.
       - **(ii)** Pillar Two is focused on enhancing trilateral collaboration on advanced defense capabilities, including hypersonic and counter hypersonic capabilities, quantum technologies, undersea technologies, and artificial intelligence.
   - **(3)** The term “International Traffic in Arms Regulations” means subchapter M of chapter I of title 22, Code of Federal Regulations (or successor regulations).
+
+## Source Credit
+
+*([Pub. L. 118–31, div. A, title XIII, § 1321](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 501](https://www.govinfo.gov/link/statute/137/501).)*

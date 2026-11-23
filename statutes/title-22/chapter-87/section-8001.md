@@ -3,9 +3,10 @@ title: "Section 8001 - Sense of Congress"
 usc_title: 22
 usc_section: "8001"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8001"
-generated_at: "2026-03-30T02:55:05.447Z"
+generated_at: "2026-11-23T20:26:32.693Z"
+status: "active"
 ---
 
 # § 8001. Sense of Congress
@@ -29,3 +30,51 @@ It is the sense of Congress that—
   - **(11)** such commerce also represents a significant change in United States policy regarding commerce with countries that are not States Party to the NPT, which remains the foundation of the international nonproliferation regime;
   - **(12)** any commerce in civil nuclear energy with India by the United States and other countries must be achieved in a manner that minimizes the risk of nuclear proliferation or regional arms races and maximizes India’s adherence to international nonproliferation regimes, including, in particular, the guidelines of the Nuclear Suppliers Group (NSG); and
   - **(13)** the United States should not seek to facilitate or encourage the continuation of nuclear exports to India by any other party if such exports are terminated under United States law.
+
+Short Title
+
+Table of Contents
+
+Agreement
+
+Appropriate congressional committees
+
+In General
+
+Applicability of Atomic Energy Act of
+
+Hyde Act, and Other Provisions of Law
+
+Sunset of Exemption Authority Under Hyde Act
+
+Declarations of Policy Relating to Meaning and Legal Effect of Agreement
+
+Declarations of Policy Relating to Transfer of Nuclear Equipment, Materials, and Technology to India
+
+Certification Requirement
+
+Rule of Construction
+
+In General
+
+Requirements
+
+Resolution of Disapproval
+
+Certification
+
+Peaceful Use Assurances for Certain By-Product Material
+
+Report.—
+
+In general
+
+Termination
+
+George W. Bush.
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 109–401, title I, § 102](https://www.govinfo.gov/link/plaw/109/public/401), Dec. 18, 2006, [120 Stat. 2726](https://www.govinfo.gov/link/statute/120/2726).)*

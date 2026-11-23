@@ -3,9 +3,10 @@ title: "Section 31342 - Establishing maritime liens"
 usc_title: 46
 usc_section: "31342"
 chapter: 313
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 31342"
-generated_at: "2026-03-30T02:56:15.563Z"
+generated_at: "2026-11-23T20:27:27.222Z"
+status: "active"
 ---
 
 # § 31342. Establishing maritime liens
@@ -15,3 +16,16 @@ generated_at: "2026-03-30T02:56:15.563Z"
   - **(2)** may bring a civil action in rem to enforce the lien; and
   - **(3)** is not required to allege or prove in the action that credit was given to the vessel.
 - **(b)** This section does not apply to a public vessel.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 31342 | 46:971 |
+
+
+Historical and Revision Notes
+
+31342
+
+## Source Credit
+
+*([Pub. L. 100–710, title I, § 102(c)](https://www.govinfo.gov/link/plaw/100/public/710), Nov. 23, 1988, [102 Stat. 4748](https://www.govinfo.gov/link/statute/102/4748); [Pub. L. 101–225, title III, § 303(6)](https://www.govinfo.gov/link/plaw/101/public/225), Dec. 12, 1989, [103 Stat. 1924](https://www.govinfo.gov/link/statute/103/1924).)*

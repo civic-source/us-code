@@ -3,9 +3,10 @@ title: "Section 7102 - Definitions"
 usc_title: 22
 usc_section: "7102"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7102"
-generated_at: "2026-03-30T02:55:05.435Z"
+generated_at: "2026-11-23T20:26:32.640Z"
+status: "active"
 ---
 
 # § 7102. Definitions
@@ -67,3 +68,7 @@ In this chapter:
   - **(16)** The term “victim of a severe form of trafficking” means a person subject to an act or practice described in paragraph (11).
   - **(17)** The term “victim of trafficking” means a person subjected to an act or practice described in paragraph (11) or (12).
   - **(18)** The term “grounds related to human trafficking” means grounds related to the criteria for inadmissibility to the United States described in subsection (a)(2)(H) of section 1182 of title 8 .
+
+## Source Credit
+
+*([Pub. L. 106–386, div. A, § 103](https://www.govinfo.gov/link/plaw/106/public/386), Oct. 28, 2000, [114 Stat. 1469](https://www.govinfo.gov/link/statute/114/1469); [Pub. L. 108–193, § 8(b)(1)](https://www.govinfo.gov/link/plaw/108/public/193), Dec. 19, 2003, [117 Stat. 2887](https://www.govinfo.gov/link/statute/117/2887); [Pub. L. 110–457, title III, § 304(a)](https://www.govinfo.gov/link/plaw/110/public/457), Dec. 23, 2008, [122 Stat. 5087](https://www.govinfo.gov/link/statute/122/5087); [Pub. L. 113–4, title XII, § 1212(b)(1)](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 143](https://www.govinfo.gov/link/statute/127/143); [Pub. L. 114–22, title I, § 108(b)](https://www.govinfo.gov/link/plaw/114/public/22), May 29, 2015, [129 Stat. 239](https://www.govinfo.gov/link/statute/129/239); [Pub. L. 115–254, div. F, title VI, § 1470(p)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3518](https://www.govinfo.gov/link/statute/132/3518); [Pub. L. 115–427, § 2](https://www.govinfo.gov/link/plaw/115/public/427), Jan. 9, 2019, [132 Stat. 5503](https://www.govinfo.gov/link/statute/132/5503); [Pub. L. 116–283, div. A, title XII, § 1299R(d)(2)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4028](https://www.govinfo.gov/link/statute/134/4028); [Pub. L. 119–73, § 7](https://www.govinfo.gov/link/plaw/119/public/73), Jan. 23, 2026, [139 Stat. 2009](https://www.govinfo.gov/link/statute/139/2009).)*

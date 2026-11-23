@@ -3,9 +3,10 @@ title: "Section 4145 - Program for the enhancement of the research, development,
 usc_title: 10
 usc_section: "4145"
 chapter: 305
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 4145"
-generated_at: "2026-03-30T02:53:38.203Z"
+generated_at: "2026-11-23T20:25:51.920Z"
+status: "active"
 ---
 
 # § 4145. Program for the enhancement of the research, development, test, and evaluation centers of the Department of Defense
@@ -33,3 +34,21 @@ generated_at: "2026-03-30T02:53:38.203Z"
     - **(C)** to enable more rapid deployment of warfighter capabilities.
   - **(2)** The head of an eligible center shall implement each method proposed under paragraph (1) unless such method is disapproved in writing by the responsible official concerned within 60 days of receiving the proposal from the eligible center.
 - **(e)** The head of an eligible center may waive any regulation, restriction, requirement, guidance, policy, procedure, or departmental instruction that would affect the implementation of a method proposed under subsection (d)(1), unless such implementation would be prohibited by a provision of a Federal statute or common law.
+
+In General
+
+Eligible Centers
+
+Definition of Responsible Officials Concerned
+
+Participation in Program.—
+
+In general
+
+Implementation
+
+Waiver Authority for Demonstration and Implementation
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. A, title II, § 213(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 773](https://www.govinfo.gov/link/statute/139/773).)*

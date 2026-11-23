@@ -3,9 +3,10 @@ title: "Section 5308 - Guarantee and commitment to guarantee loans for acquisiti
 usc_title: 42
 usc_section: "5308"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5308"
-generated_at: "2026-03-30T02:56:11.230Z"
+generated_at: "2026-11-23T20:27:22.526Z"
+status: "active"
 ---
 
 # § 5308. Guarantee and commitment to guarantee loans for acquisition of property
@@ -56,3 +57,13 @@ generated_at: "2026-03-30T02:56:11.230Z"
     - **(A)** the power to contract with respect to public offerings and other sales of notes, trust certificates, and other obligations guaranteed under this section upon such terms and conditions as the Secretary deems appropriate;
     - **(B)** the right to enforce any such contract by any means deemed appropriate by the Secretary; and
     - **(C)** any ownership rights of the Secretary, as applicable, in notes, certificates, or other obligations guaranteed under this section, or constituting the trust or pool against which trust certificates, or other obligations guaranteed under this section, are offered.
+
+“To carry out the amendments made by this section [amending this section and section 5313 of this title ], the Secretary of Housing and Urban Development shall—
+
+Purposes
+
+Objectives
+
+## Source Credit
+
+*([Pub. L. 93–383, title I, § 108](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 647](https://www.govinfo.gov/link/statute/88/647); [Pub. L. 95–128, title I, § 108](https://www.govinfo.gov/link/plaw/95/public/128), Oct. 12, 1977, [91 Stat. 1123](https://www.govinfo.gov/link/statute/91/1123); [Pub. L. 96–399, title I, § 108](https://www.govinfo.gov/link/plaw/96/public/399), Oct. 8, 1980, [94 Stat. 1619](https://www.govinfo.gov/link/statute/94/1619); [Pub. L. 97–35, title III, § 309(i)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 397](https://www.govinfo.gov/link/statute/95/397); [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title I, § 108], Nov. 30, 1983, [97 Stat. 1168](https://www.govinfo.gov/link/statute/97/1168); [Pub. L. 98–479, title II](https://www.govinfo.gov/link/plaw/98/public/479), §§ 203(l)(2), 204(k)(1), Oct. 17, 1984, [98 Stat. 2231](https://www.govinfo.gov/link/statute/98/2231), 2233; [Pub. L. 99–272, title III, § 3002(a)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 102](https://www.govinfo.gov/link/statute/100/102); [Pub. L. 100–242, title V, § 514](https://www.govinfo.gov/link/plaw/100/public/242), Feb. 5, 1988, [101 Stat. 1930](https://www.govinfo.gov/link/statute/101/1930); [Pub. L. 101–625, title IX](https://www.govinfo.gov/link/plaw/101/public/625), §§ 901(b), 910(b)–(g), Nov. 28, 1990, [104 Stat. 4385](https://www.govinfo.gov/link/statute/104/4385), 4389–4391; [Pub. L. 102–550, title VIII, § 801(b)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3843](https://www.govinfo.gov/link/statute/106/3843); [Pub. L. 103–233, title II](https://www.govinfo.gov/link/plaw/103/public/233), §§ 231, 232(a)(1), 233, Apr. 11, 1994, [108 Stat. 366](https://www.govinfo.gov/link/statute/108/366), 368; [Pub. L. 104–120, § 3(b)](https://www.govinfo.gov/link/plaw/104/public/120), Mar. 28, 1996, [110 Stat. 835](https://www.govinfo.gov/link/statute/110/835).)*

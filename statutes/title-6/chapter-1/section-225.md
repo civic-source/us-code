@@ -3,9 +3,10 @@ title: "Section 225 - Reports, evaluations, and research regarding drug interdic
 usc_title: 6
 usc_section: "225"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 225"
-generated_at: "2026-03-30T02:53:09.453Z"
+generated_at: "2026-11-23T20:25:34.673Z"
+status: "active"
 ---
 
 # § 225. Reports, evaluations, and research regarding drug interdiction at and between ports of entry
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:09.453Z"
       - **(i)** examines and analyzes current technologies, including pilot technologies, deployed at land, air, and sea ports of entry to assess how well such technologies detect, deter, and address illicit fentanyl, fentanyl analogs, and precursor chemicals; and
       - **(ii)** examines and analyzes current technologies, including pilot technologies, deployed between land ports of entry to assess how well and accurately such technologies detect, deter, interdict, and address illicit fentanyl, fentanyl analogs, and precursor chemicals; 1 1 So in original. The semicolon probably should be a period.
     - **(B)** Not later than one year after the submission of each of the first three reports required under subparagraph (A), the Comptroller General of the United States shall submit to the Committee on Homeland Security, the Committee on Energy and Commerce, the Committee on Science, Space, and Technology, and the Committee on the Judiciary of the House of Representatives and the Committee on Homeland Security and Governmental Affairs, the Committee on Commerce, Science, and Transportation, and the Committee on the Judiciary of the Senate a report that evaluates and, as appropriate, makes recommendations to improve, the collection of data under the program established pursuant to paragraph (1) and metrics used in the subsequent reports required under such subparagraph.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. G, title LXXI, § 7136](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3650](https://www.govinfo.gov/link/statute/136/3650).)*

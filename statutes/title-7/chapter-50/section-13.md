@@ -3,9 +3,10 @@ title: "Section 13 - Additional penalties for noncompliance"
 usc_title: 7
 usc_section: "13"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 13"
-generated_at: "2026-03-30T02:53:42.361Z"
+generated_at: "2026-11-23T20:25:41.411Z"
+status: "active"
 ---
 
 # § 2009cc–13. Additional penalties for noncompliance
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:42.361Z"
 - **(b)**
   - **(1)** Before the Secretary may cause a rural business investment company to forfeit rights or privileges under subsection (a), a court of the United States of competent jurisdiction must find that the rural business investment company committed a violation, or failed to comply, in a cause of action brought for that purpose in the district, territory, or other place subject to the jurisdiction of the United States, in which the principal office of the rural business investment company is located.
   - **(2)** Each cause of action brought by the United States under this subsection shall be brought by the Secretary or by the Attorney General.
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 384N](https://www.govinfo.gov/link/plaw/87/public/128), as added [Pub. L. 107–171, title VI, § 6029](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 400](https://www.govinfo.gov/link/statute/116/400).)*

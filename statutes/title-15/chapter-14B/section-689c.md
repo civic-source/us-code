@@ -3,9 +3,10 @@ title: "Section 689c - Selection of New Markets Venture Capital companies"
 usc_title: 15
 usc_section: "689c"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 689c"
-generated_at: "2026-03-30T02:54:08.111Z"
+generated_at: "2026-11-23T20:26:03.864Z"
+status: "active"
 ---
 
 # § 689c. Selection of New Markets Venture Capital companies
@@ -57,3 +58,7 @@ generated_at: "2026-03-30T02:54:08.111Z"
     - **(A)** satisfies the requirements of subsection (d) on or before the expiration of the time period described in that subsection; and
     - **(B)** enters into a participation agreement with the Administrator; or
   - **(2)** if the applicant fails to satisfy the requirements of subsection (d) on or before the expiration of the time period described in that subsection, revoke the conditional approval granted under that subsection.
+
+## Source Credit
+
+*([Pub. L. 85–699, title III, § 354](https://www.govinfo.gov/link/plaw/85/public/699), as added [Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–655.)*

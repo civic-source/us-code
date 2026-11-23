@@ -3,9 +3,10 @@ title: "Section 3704 - United States-Sub-Saharan Africa Trade and Economic Coope
 usc_title: 19
 usc_section: "3704"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3704"
-generated_at: "2026-03-30T02:54:24.694Z"
+generated_at: "2026-11-23T20:26:11.068Z"
+status: "active"
 ---
 
 # § 3704. United States-Sub-Saharan Africa Trade and Economic Cooperation Forum
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:24.694Z"
   - **(3)** The President shall, to the extent practicable, meet with the heads of governments of sub-Saharan African countries eligible under section 3703 of this title , and those sub-Saharan African countries that the President determines are taking substantial positive steps toward meeting the eligibility requirements in section 3703 of this title , not less than once every 2 years for the purpose of discussing the issues described in paragraph (1). The first such meeting should take place not later than 12 months after May 18, 2000 .
 - **(d)** In order to assist in carrying out the purposes of the Forum, the United States Information Service shall disseminate regularly, through multiple media, economic information in support of the free market economic reforms described in this chapter.
 - **(e)** In selecting issues of common interest to the United States-Sub-Saharan Africa Trade and Economic Cooperation Forum, the President shall instruct the United States delegates to the Forum to promote a review by the Forum of the HIV/AIDS epidemic in each sub-Saharan African country and the effect of the HIV/AIDS epidemic on economic development in each country.
+
+## Source Credit
+
+*([Pub. L. 106–200, title I, § 105](https://www.govinfo.gov/link/plaw/106/public/200), May 18, 2000, [114 Stat. 255](https://www.govinfo.gov/link/statute/114/255).)*

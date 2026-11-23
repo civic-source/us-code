@@ -3,9 +3,10 @@ title: "Section 6302 - Prohibited acts"
 usc_title: 42
 usc_section: "6302"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6302"
-generated_at: "2026-03-30T02:56:11.252Z"
+generated_at: "2026-11-23T20:27:22.635Z"
+status: "active"
 ---
 
 # § 6302. Prohibited acts
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.252Z"
     - **(C)** to otherwise enable a grid-enabled water heater to operate at its designed specification and capabilities with knowledge that such water heater is not used as part of an electric thermal storage or demand response program; or
     - **(D)** to knowingly remove or render illegible the label of a grid-enabled water heater described in section 6295(e)(6)(A)(ii)(V) of this title .
 - **(b)** For purposes of this section, the term “new covered product” means a covered product the title of which has not passed to a purchaser who buys such product for purposes other than (1) reselling such product, or (2) leasing such product for a period in excess of one year.
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 332](https://www.govinfo.gov/link/plaw/94/public/163), Dec. 22, 1975, [89 Stat. 928](https://www.govinfo.gov/link/statute/89/928); [Pub. L. 100–12, § 11(a)(3)](https://www.govinfo.gov/link/plaw/100/public/12), (b)(5), Mar. 17, 1987, [101 Stat. 125](https://www.govinfo.gov/link/statute/101/125); [Pub. L. 110–140, title III](https://www.govinfo.gov/link/plaw/110/public/140), §§ 306(b), 321(e), Dec. 19, 2007, [121 Stat. 1559](https://www.govinfo.gov/link/statute/121/1559), 1586; [Pub. L. 114–11, title II, § 201(2)](https://www.govinfo.gov/link/plaw/114/public/11), Apr. 30, 2015, [129 Stat. 188](https://www.govinfo.gov/link/statute/129/188).)*

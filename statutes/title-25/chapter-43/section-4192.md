@@ -3,9 +3,10 @@ title: "Section 4192 - Security and repayment"
 usc_title: 25
 usc_section: "4192"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 4192"
-generated_at: "2026-03-30T02:54:52.860Z"
+generated_at: "2026-11-23T20:26:25.690Z"
+status: "active"
 ---
 
 # § 4192. Security and repayment
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:52.860Z"
   - **(1)** the Secretary may apply grants pledged pursuant to subsection (a)(2) to any repayments due the United States as a result of such guarantees; and
   - **(2)** grants allocated under this chapter for an Indian tribe or housing entity (including program income derived therefrom) may be used to pay principal and interest due (including such servicing, underwriting, and other costs as may be specified in regulations issued by the Secretary) on notes or other obligations guaranteed pursuant to this subchapter.
 - **(c)** The full faith and credit of the United States is pledged to the payment of all guarantees made under this subchapter. Any such guarantee made by the Secretary shall be conclusive evidence of the eligibility of the obligations for such guarantee with respect to principal and interest, and the validity of any such guarantee so made shall be incontestable in the hands of a holder of the guaranteed obligations.
+
+## Source Credit
+
+*([Pub. L. 104–330, title VI, § 602](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4046](https://www.govinfo.gov/link/statute/110/4046).)*

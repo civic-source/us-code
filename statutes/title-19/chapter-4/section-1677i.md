@@ -3,9 +3,10 @@ title: "Section 1677i - Downstream product monitoring"
 usc_title: 19
 usc_section: "1677i"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1677i"
-generated_at: "2026-03-30T02:54:24.658Z"
+generated_at: "2026-11-23T20:26:10.874Z"
+status: "active"
 ---
 
 # § 1677i. Downstream product monitoring
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:54:24.658Z"
   - **(2)** The term “downstream product” means any manufactured article—
     - **(A)** which is imported into the United States, and
     - **(B)** into which is incorporated any component part.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title VII, § 780, as added [Pub. L. 100–418, title I, § 1320(a)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1189](https://www.govinfo.gov/link/statute/102/1189); amended [Pub. L. 103–465, title II](https://www.govinfo.gov/link/plaw/103/public/465), §§ 233(a)(1)(E), (2)(A)(vi), 261(d)(1)(B)(iv), 270(a)(1)(M), Dec. 8, 1994, [108 Stat. 4898](https://www.govinfo.gov/link/statute/108/4898), 4910, 4917.)*

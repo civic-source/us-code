@@ -3,9 +3,10 @@ title: "Section 1722 - Appointment of members"
 usc_title: 2
 usc_section: "1722"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1722"
-generated_at: "2026-03-30T02:53:04.816Z"
+generated_at: "2026-11-23T20:25:28.981Z"
+status: "active"
 ---
 
 # § 1722. Appointment of members
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:53:04.816Z"
   - **(1)** The term of each member of the Board shall be 4 years, except that there shall be no limit to the number of terms that any individual member may serve.
   - **(2)** The Librarian shall have the authority to remove any member of the Board if the member fails, after receiving proper notification, to attend (or send a designated alternate to attend) a regularly scheduled Board meeting, or if the member is determined by the Librarian to have substantially failed to fulfill the member’s responsibilities as a member of the Board.
   - **(3)** A vacancy in the Board shall be filled in the manner in which the original appointment was made under subsection (a), except that the Librarian may fill the vacancy from a list of candidates previously submitted by the organization or organizations involved. Any member appointed to fill a vacancy shall be appointed for the remainder of the term of the member’s predecessor.
+
+## Source Credit
+
+*([Pub. L. 106–474, title I, § 122](https://www.govinfo.gov/link/plaw/106/public/474), Nov. 9, 2000, [114 Stat. 2088](https://www.govinfo.gov/link/statute/114/2088); [Pub. L. 110–336, § 2(a)(2)](https://www.govinfo.gov/link/plaw/110/public/336), Oct. 2, 2008, [122 Stat. 3726](https://www.govinfo.gov/link/statute/122/3726).)*

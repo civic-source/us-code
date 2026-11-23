@@ -3,9 +3,10 @@ title: "Section 1915A - Screening"
 usc_title: 28
 usc_section: "1915A"
 chapter: 123
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 1915A"
-generated_at: "2026-03-30T02:55:30.146Z"
+generated_at: "2026-11-23T20:26:36.484Z"
+status: "active"
 ---
 
 # § 1915A. Screening
@@ -15,3 +16,13 @@ generated_at: "2026-03-30T02:55:30.146Z"
   - **(1)** is frivolous, malicious, or fails to state a claim upon which relief may be granted; or
   - **(2)** seeks monetary relief from a defendant who is immune from such relief.
 - **(c)** As used in this section, the term “prisoner” means any person incarcerated or detained in any facility who is accused of, convicted of, sentenced for, or adjudicated delinquent for, violations of criminal law or the terms and conditions of parole, probation, pretrial release, or diversionary program.
+
+Screening
+
+Grounds for Dismissal
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 104–134, title I, § 101[(a)]](https://www.govinfo.gov/link/plaw/104/public/134) [title VIII, § 805(a)], Apr. 26, 1996, [110 Stat. 1321](https://www.govinfo.gov/link/statute/110/1321), 1321–75; renumbered title I, [Pub. L. 104–140, § 1(a)](https://www.govinfo.gov/link/plaw/104/public/140), May 2, 1996, [110 Stat. 1327](https://www.govinfo.gov/link/statute/110/1327).)*

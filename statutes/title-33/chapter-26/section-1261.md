@@ -3,9 +3,10 @@ title: "Section 1261 - Scholarships"
 usc_title: 33
 usc_section: "1261"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1261"
-generated_at: "2026-03-30T02:55:41.083Z"
+generated_at: "2026-11-23T20:26:53.973Z"
+status: "active"
 ---
 
 # § 1261. Scholarships
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:41.083Z"
     - **(B)** The Administrator shall (in addition to the stipends paid to persons under paragraph (1)) pay to the institution of higher education at which such person is pursuing his course of study such amount as he may determine to be consistent with prevailing practices under comparable federally supported programs.
   - **(5)** A person awarded a scholarship under the provisions of this section shall continue to receive the payments provided in this section only during such periods as the Administrator finds that he is maintaining satisfactory proficiency and devoting full time to study or research in the field in which such scholarship was awarded in an institution of higher education, and is not engaging in gainful employment other than employment approved by the Administrator by or pursuant to regulation.
   - **(6)** The Administrator shall by regulation provide that any person awarded a scholarship under this section shall agree in writing to enter and remain in an occupation involving the design, operation, or maintenance of treatment works for such period after completion of his course of studies as the Administrator determines appropriate.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title I, § 111, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 831](https://www.govinfo.gov/link/statute/86/831).)*

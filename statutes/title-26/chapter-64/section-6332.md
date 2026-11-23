@@ -3,9 +3,10 @@ title: "Section 6332 - Surrender of property subject to levy"
 usc_title: 26
 usc_section: "6332"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6332"
-generated_at: "2026-03-30T02:55:27.850Z"
+generated_at: "2026-11-23T20:26:46.628Z"
+status: "active"
 ---
 
 # § 6332. Surrender of property subject to levy
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:27.850Z"
   - **(2)** In addition to the personal liability imposed by paragraph (1), if any person required to surrender property or rights to property fails or refuses to surrender such property or rights to property without reasonable cause, such person shall be liable for a penalty equal to 50 percent of the amount recoverable under paragraph (1). No part of such penalty shall be credited against the tax liability for the collection of which such levy was made.
 - **(e)** Any person in possession of (or obligated with respect to) property or rights to property subject to levy upon which a levy has been made who, upon demand by the Secretary, surrenders such property or rights to property (or discharges such obligation) to the Secretary (or who pays a liability under subsection (d)(1)) shall be discharged from any obligation or liability to the delinquent taxpayer and any other person with respect to such property or rights to property arising from such surrender or payment.
 - **(f)** The term “person,” as used in subsection (a), includes an officer or employee of a corporation or a member or employee of a partnership, who as such officer, employee, or member is under a duty to surrender the property or rights to property, or to discharge the obligation.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 784; [Pub. L. 89–719, title I, § 104(b)](https://www.govinfo.gov/link/plaw/89/public/719), Nov. 2, 1966, [80 Stat. 1135](https://www.govinfo.gov/link/statute/80/1135); [Pub. L. 93–625, § 7(a)(2)(D)](https://www.govinfo.gov/link/plaw/93/public/625), Jan. 3, 1975, [88 Stat. 2115](https://www.govinfo.gov/link/statute/88/2115); [Pub. L. 94–455, title XII, § 1209(d)(3)](https://www.govinfo.gov/link/plaw/94/public/455), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1710](https://www.govinfo.gov/link/statute/90/1710), 1834; [Pub. L. 99–514, title XV, § 1511(c)(9)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2745](https://www.govinfo.gov/link/statute/100/2745); [Pub. L. 100–647, title I, § 1015(t)(1)](https://www.govinfo.gov/link/plaw/100/public/647), title VI, § 6236(e), Nov. 10, 1988, [102 Stat. 3573](https://www.govinfo.gov/link/statute/102/3573), 3739; [Pub. L. 101–508, title XI, § 11704(a)(27)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–519](https://www.govinfo.gov/link/statute/104/1388).)*

@@ -3,9 +3,10 @@ title: "Section 2192 - Resolutions disapproving certain actions"
 usc_title: 19
 usc_section: "2192"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2192"
-generated_at: "2026-03-30T02:54:24.666Z"
+generated_at: "2026-11-23T20:26:10.917Z"
+status: "active"
 ---
 
 # § 2192. Resolutions disapproving certain actions
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:54:24.666Z"
     - **(A)** the Senate shall vote passage on the resolution introduced in the Senate, and
     - **(B)** the text of the joint resolution passed by the Senate shall, immediately upon its passage (or, if later, upon receipt of the joint resolution passed by the House), be substituted for the text of the joint resolution passed by the House of Representatives, and such resolution, as amended, shall be returned with a request for a conference between the two Houses.
   - **(3)** Consideration in the Senate of any veto message with respect to a joint resolution described in subsection (a)(2)(B) or section 2193(a) of this title , including consideration of all debatable motions and appeals in connection therewith, shall be limited to 10 hours, to be equally divided between, and controlled by, the majority leader and the minority leader or their designees.
+
+## Source Credit
+
+*([Pub. L. 93–618, title I, § 152](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 2004](https://www.govinfo.gov/link/statute/88/2004); [Pub. L. 96–39, title IX, § 902(a)(1)](https://www.govinfo.gov/link/plaw/96/public/39), title XI, § 1106(c)(5), July 26, 1979, [93 Stat. 299](https://www.govinfo.gov/link/statute/93/299), 312; [Pub. L. 98–573, title II, § 248(b)](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 2998](https://www.govinfo.gov/link/statute/98/2998); [Pub. L. 101–382, title I, § 132(c)(2)](https://www.govinfo.gov/link/plaw/101/public/382) –(5), Aug. 20, 1990, [104 Stat. 646](https://www.govinfo.gov/link/statute/104/646), 647; [Pub. L. 103–465, title II, § 261(d)(1)(A)(ii)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4909](https://www.govinfo.gov/link/statute/108/4909); [Pub. L. 104–295, § 20(b)(10)](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3527](https://www.govinfo.gov/link/statute/110/3527).)*

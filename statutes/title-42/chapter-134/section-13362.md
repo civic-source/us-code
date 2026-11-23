@@ -3,9 +3,10 @@ title: "Section 13362 - Innovative clean coal technology transfer program"
 usc_title: 42
 usc_section: "13362"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13362"
-generated_at: "2026-03-30T02:56:11.442Z"
+generated_at: "2026-11-23T20:27:23.482Z"
+status: "active"
 ---
 
 # § 13362. Innovative clean coal technology transfer program
@@ -73,3 +74,7 @@ generated_at: "2026-03-30T02:56:11.442Z"
     - **(A)** classified as a country eligible to participate in development assistance programs of the Agency for International Development pursuant to applicable law or regulation; or
     - **(B)** a developing country or country with an economy in transition from a nonmarket to a market economy.
 - **(m)** There are authorized to be appropriated to the Secretary to carry out the program required by this section, $100,000,000 for each of the fiscal years 1993, 1994, 1995, 1996, 1997, and 1998.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XIII, § 1332](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2979](https://www.govinfo.gov/link/statute/106/2979).)*

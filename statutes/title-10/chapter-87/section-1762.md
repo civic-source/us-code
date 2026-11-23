@@ -3,9 +3,10 @@ title: "Section 1762 - Demonstration project relating to certain acquisition per
 usc_title: 10
 usc_section: "1762"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1762"
-generated_at: "2026-03-30T02:53:38.137Z"
+generated_at: "2026-11-23T20:25:51.419Z"
+status: "active"
 ---
 
 # § 1762. Demonstration project relating to certain acquisition personnel management policies and procedures
@@ -49,3 +50,23 @@ generated_at: "2026-03-30T02:53:38.137Z"
   - **(3)** the Committee on Oversight and Government Reform of the House of Representatives.
 - **(g)** The authority to conduct a demonstration project under this section shall terminate on December 31, 2031 .
 - **(h)** Within 6 months after the authority to conduct a demonstration project under this section is terminated as provided in subsection (g), employees in the project shall convert to the civilian personnel system created pursuant to section 9902 of title 5 .
+
+Commencement
+
+Terms and Conditions
+
+Limitation on Number of Participants
+
+Effect of Reorganizations
+
+Assessments
+
+Covered Congressional Committees
+
+Termination of Authority
+
+Conversion
+
+## Source Credit
+
+*(Added [Pub. L. 111–383, div. A, title VIII, § 872(a)(1)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4300](https://www.govinfo.gov/link/statute/124/4300); amended [Pub. L. 114–92, div. A, title VIII, § 846](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 916](https://www.govinfo.gov/link/statute/129/916); [Pub. L. 114–328, div. A, title VIII, § 867(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2306](https://www.govinfo.gov/link/statute/130/2306); [Pub. L. 115–91, div. A, title VIII, § 844(a)](https://www.govinfo.gov/link/plaw/115/public/91), (b), Dec. 12, 2017, [131 Stat. 1482](https://www.govinfo.gov/link/statute/131/1482); [Pub. L. 116–92, div. A, title XVII, § 1731(a)(27)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1813](https://www.govinfo.gov/link/statute/133/1813); [Pub. L. 117–81, div. A, title VIII, § 812](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1823](https://www.govinfo.gov/link/statute/135/1823); [Pub. L. 118–159, div. A, title VIII, § 833](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1986](https://www.govinfo.gov/link/statute/138/1986).)*

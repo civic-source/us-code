@@ -3,9 +3,10 @@ title: "Section 1516 - Funding"
 usc_title: 7
 usc_section: "1516"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1516"
-generated_at: "2026-03-30T02:53:42.322Z"
+generated_at: "2026-11-23T20:25:41.186Z"
+status: "active"
 ---
 
 # § 1516. Funding
@@ -42,3 +43,11 @@ generated_at: "2026-03-30T02:53:42.322Z"
   - **(2)** If at any time the amounts in the insurance fund are insufficient to enable the Corporation to carry out subsection (b), to the extent the funds of the Commodity Credit Corporation are available—
     - **(A)** the Corporation may request the Secretary to use the funds of the Commodity Credit Corporation to carry out subsection (b); and
     - **(B)** the Secretary may use the funds of the Commodity Credit Corporation to carry out subsection (b).
+
+Administrative and operating expenses
+
+Other expenses
+
+## Source Credit
+
+*(Feb. 16, 1938, ch. 30, title V, § 516, [52 Stat. 77](https://www.govinfo.gov/link/statute/52/77); June 21, 1941, ch. 214, §§ 6, 8, [55 Stat. 255](https://www.govinfo.gov/link/statute/55/255), 256; Aug. 3, 1956, ch. 950, § 10, [70 Stat. 1034](https://www.govinfo.gov/link/statute/70/1034); [Pub. L. 96–365, title I](https://www.govinfo.gov/link/plaw/96/public/365), §§ 109, 110, Sept. 26, 1980, [94 Stat. 1317](https://www.govinfo.gov/link/statute/94/1317), 1318; [Pub. L. 97–11](https://www.govinfo.gov/link/plaw/97/public/11), May 22, 1981, [95 Stat. 13](https://www.govinfo.gov/link/statute/95/13); [Pub. L. 99–198, title X, § 1021](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1459](https://www.govinfo.gov/link/statute/99/1459); [Pub. L. 103–354, title I, § 110](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3198](https://www.govinfo.gov/link/statute/108/3198); [Pub. L. 104–127, title I, § 193(e)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 945](https://www.govinfo.gov/link/statute/110/945); [Pub. L. 105–185, title V, § 531](https://www.govinfo.gov/link/plaw/105/public/185), June 23, 1998, [112 Stat. 580](https://www.govinfo.gov/link/statute/112/580); [Pub. L. 106–224, title I, § 147](https://www.govinfo.gov/link/plaw/106/public/224), June 20, 2000, [114 Stat. 393](https://www.govinfo.gov/link/statute/114/393); [Pub. L. 113–79, title XI, § 11021](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 968](https://www.govinfo.gov/link/statute/128/968); [Pub. L. 115–123, div. F, § 60101(c)(2)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 312](https://www.govinfo.gov/link/statute/132/312); [Pub. L. 115–334, title XI, § 11118](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4926](https://www.govinfo.gov/link/statute/132/4926); [Pub. L. 119–21, title I, § 10506](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 106](https://www.govinfo.gov/link/statute/139/106).)*

@@ -3,9 +3,10 @@ title: "Section 2481 - Definitions"
 usc_title: 19
 usc_section: "2481"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2481"
-generated_at: "2026-03-30T02:54:24.676Z"
+generated_at: "2026-11-23T20:26:10.978Z"
+status: "active"
 ---
 
 # § 2481. Definitions
@@ -22,3 +23,11 @@ For purposes of this chapter—
   - **(8)** A product of a country or area is an article which is the growth, produce, or manufacture of such country or area.
   - **(9)** The term “nondiscriminatory treatment” means trade treatment based on normal trade relations (known under international law as most-favored-nation treatment).
   - **(10)** The term “commerce” includes services associated with international trade.
+
+Findings
+
+Policy
+
+## Source Credit
+
+*([Pub. L. 93–618, title VI, § 601](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 2071](https://www.govinfo.gov/link/statute/88/2071); [Pub. L. 96–39, title II, § 202(c)(1)](https://www.govinfo.gov/link/plaw/96/public/39), title XI, § 1106(h)(1), July 26, 1979, [93 Stat. 202](https://www.govinfo.gov/link/statute/93/202), 313; [Pub. L. 100–418, title I, § 1214(j)(5)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1158](https://www.govinfo.gov/link/statute/102/1158); [Pub. L. 105–206, title V, § 5003(b)(2)(B)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 789](https://www.govinfo.gov/link/statute/112/789).)*

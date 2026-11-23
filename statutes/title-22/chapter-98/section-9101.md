@@ -3,9 +3,10 @@ title: "Section 9101 - Definitions"
 usc_title: 22
 usc_section: "9101"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9101"
-generated_at: "2026-03-30T02:55:05.460Z"
+generated_at: "2026-11-23T20:26:32.751Z"
+status: "active"
 ---
 
 # § 9101. Definitions
@@ -77,3 +78,13 @@ In this chapter:
       - **(iv)** the left-behind parent submits a written withdrawal of the application or the request for assistance to the Department of State;
       - **(v)** the left-behind parent cannot be located for 1 year despite the documented efforts of the Department of State to locate the parent; or
       - **(vi)** the child or left-behind parent is deceased.
+
+Findings
+
+Sense of Congress
+
+Purposes
+
+## Source Credit
+
+*([Pub. L. 113–150, § 3](https://www.govinfo.gov/link/plaw/113/public/150), Aug. 8, 2014, [128 Stat. 1809](https://www.govinfo.gov/link/statute/128/1809); [Pub. L. 118–159, div. G, title LXXV, § 7509(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2550](https://www.govinfo.gov/link/statute/138/2550).)*

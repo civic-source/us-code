@@ -3,9 +3,10 @@ title: "Section 56502 - Adjusting obligations and arranging maintenance"
 usc_title: 46
 usc_section: "56502"
 chapter: 565
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 56502"
-generated_at: "2026-03-30T02:56:15.581Z"
+generated_at: "2026-11-23T20:27:27.400Z"
+status: "active"
 ---
 
 # § 56502. Adjusting obligations and arranging maintenance
@@ -17,3 +18,30 @@ generated_at: "2026-03-30T02:56:15.581Z"
   - **(2)** it is not feasible under existing law to employ the vessel in any other service or operation in foreign or domestic trade (except temporary or emergency operation under section 56503(b)(5) of this title ); and
   - **(3)** the applicant, because of the restrictions of the Neutrality Act of 1939 ( 22 U.S.C. 441 et seq.) or the withdrawal of vessels for national defense under paragraph (1), is not earning or will not earn a reasonable return on the capital necessarily employed in its business.
 - **(b)** Adjustments and arrangements under subsection (a) shall continue in effect only as long as the circumstances described in subsection (a) continue to exist.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 56502 | 46 App.:1242a(b), (e). | June 29, 1940, ch. 442 , subdivs. (b), (e), 54 Stat. 684 , 686; Pub. L. 97–31, § 12(132) , Aug. 6, 1981 , 95 Stat. 165 . |
+
+
+General Authority
+
+Effective Period
+
+Historical and Revision Notes
+
+56502
+
+June 29, 1940, ch. 442
+
+54 Stat. 684
+
+Pub. L. 97–31, § 12(132)
+
+Aug. 6, 1981
+
+95 Stat. 165
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(c)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1657](https://www.govinfo.gov/link/statute/120/1657).)*

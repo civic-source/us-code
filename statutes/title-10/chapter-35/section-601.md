@@ -3,9 +3,10 @@ title: "Section 601 - Positions of importance and responsibility: generals and l
 usc_title: 10
 usc_section: "601"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 601"
-generated_at: "2026-03-30T02:53:38.067Z"
+generated_at: "2026-11-23T20:25:51.004Z"
+status: "active"
 ---
 
 # § 601. Positions of importance and responsibility: generals and lieutenant generals; admirals and vice admirals
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:38.067Z"
   - **(1)** When an officer is recommended to the President for an initial appointment to the grade of lieutenant general or vice admiral, or for an initial appointment to the grade of general or admiral, the Chairman of the Joint Chiefs of Staff shall submit to the Secretary of Defense the Chairman’s evaluation of the performance of that officer as a member of the Joint Staff and in other joint duty assignments. The Secretary of Defense shall submit the Chairman’s evaluation to the President at the same time the recommendation for the appointment is submitted to the President.
   - **(2)** Whenever a vacancy occurs in a position within the Department of Defense that the President has designated as a position of importance and responsibility to carry the grade of general or admiral or lieutenant general or vice admiral or in an office that is designated by law to carry such a grade, the Secretary of Defense shall inform the President of the qualifications needed by an officer serving in that position or office to carry out effectively the duties and responsibilities of that position or office.
 - **(e)** Prior to making a recommendation to the Secretary of Defense for the nomination of an officer for appointment to a position of importance and responsibility under this section, which appointment would result in the initial appointment of the officer concerned in the grade of lieutenant general or general in the Army, Air Force, Marine Corps, or Space Force or vice admiral or admiral in the Navy, the Secretary concerned shall consider all officers determined to be among the best qualified for such position.
+
+## Source Credit
+
+*(Added [Pub. L. 96–513, title I, § 105](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2849](https://www.govinfo.gov/link/statute/94/2849); amended [Pub. L. 97–86, title IV, § 405(b)(1)](https://www.govinfo.gov/link/plaw/97/public/86), Dec. 1, 1981, [95 Stat. 1105](https://www.govinfo.gov/link/statute/95/1105); [Pub. L. 98–525, title V, § 523](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2523](https://www.govinfo.gov/link/statute/98/2523); [Pub. L. 99–145, title V, § 514(b)(1)](https://www.govinfo.gov/link/plaw/99/public/145), Nov. 8, 1985, [99 Stat. 628](https://www.govinfo.gov/link/statute/99/628); [Pub. L. 99–433, title IV, § 403](https://www.govinfo.gov/link/plaw/99/public/433), Oct. 1, 1986, [100 Stat. 1031](https://www.govinfo.gov/link/statute/100/1031); [Pub. L. 102–190, div. A, title V, § 502(a)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1354](https://www.govinfo.gov/link/statute/105/1354); [Pub. L. 104–106, div. A, title IV, § 403(c)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 287](https://www.govinfo.gov/link/statute/110/287); [Pub. L. 110–181, div. A, title V, § 501(a)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 94](https://www.govinfo.gov/link/statute/122/94); [Pub. L. 116–283, div. A, title V, § 551(b)(1)](https://www.govinfo.gov/link/plaw/116/public/283), title IX, § 924(b)(3)(C), Jan. 1, 2021, [134 Stat. 3630](https://www.govinfo.gov/link/statute/134/3630), 3821; [Pub. L. 117–263, div. A, title V, § 505](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2558](https://www.govinfo.gov/link/statute/136/2558); [Pub. L. 118–31, div. A, title XVII, § 1741(a)(4)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 679](https://www.govinfo.gov/link/statute/137/679).)*

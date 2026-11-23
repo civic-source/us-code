@@ -3,9 +3,10 @@ title: "Section 1960 - Safe harbor with respect to keep open directives"
 usc_title: 12
 usc_section: "1960"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1960"
-generated_at: "2026-03-30T02:53:53.470Z"
+generated_at: "2026-11-23T20:25:59.218Z"
+status: "active"
 ---
 
 # § 1960. Safe harbor with respect to keep open directives
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:53.470Z"
 - **(e)** Any Federal, State, Tribal, or local law enforcement agency that submits to a financial institution a keep open request shall, not later than 2 business days after the date on which the request is submitted to the financial institution—
   - **(1)** submit to FinCEN a copy of the request; and
   - **(2)** alert FinCEN as to whether the financial institution has implemented the request.
+
+## Source Credit
+
+*([Pub. L. 91–508, title I, § 130](https://www.govinfo.gov/link/plaw/91/public/508), as added [Pub. L. 116–283, div. F, title LXIII, § 6306(a)(2)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4588](https://www.govinfo.gov/link/statute/134/4588).)*

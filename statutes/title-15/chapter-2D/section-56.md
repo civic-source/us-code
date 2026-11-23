@@ -3,9 +3,10 @@ title: "Section 56 - Transactions with certain affiliates"
 usc_title: 15
 usc_section: "56"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 56"
-generated_at: "2026-03-30T02:54:08.070Z"
+generated_at: "2026-11-23T20:26:03.623Z"
+status: "active"
 ---
 
 # § 80a–56. Transactions with certain affiliates
@@ -68,3 +69,7 @@ generated_at: "2026-03-30T02:54:08.070Z"
     - **(B)** the aggregate amount of benefits which would be paid or accrued under such plan shall not exceed 20 per centum of the business development company’s net income after taxes in any fiscal year.
   - **(2)** This subsection may not be used where the business development company has outstanding any stock option, warrant, or right issued as part of an executive compensation plan, including a plan pursuant to section 80a–60(a)(4)(B) of this title , or has an investment adviser registered or required to be registered under subchapter II of this chapter.
 - **(o)** The term “required majority”, when used with respect to the approval of a proposed transaction, plan, or arrangement, means both a majority of a business development company’s directors or general partners who have no financial interest in such transaction, plan, or arrangement and a majority of such directors or general partners who are not interested persons of such company.
+
+## Source Credit
+
+*(Aug. 22, 1940, ch. 686, title I, § 57, as added [Pub. L. 96–477, title I, § 105](https://www.govinfo.gov/link/plaw/96/public/477), Oct. 21, 1980, [94 Stat. 2280](https://www.govinfo.gov/link/statute/94/2280); amended [Pub. L. 100–181, title VI, § 627](https://www.govinfo.gov/link/plaw/100/public/181), Dec. 4, 1987, [101 Stat. 1263](https://www.govinfo.gov/link/statute/101/1263); [Pub. L. 115–141, div. S, title VIII, § 802(b)(2)(A)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1140](https://www.govinfo.gov/link/statute/132/1140).)*

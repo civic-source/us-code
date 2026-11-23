@@ -3,9 +3,10 @@ title: "Section 6503 - Safe harbors"
 usc_title: 15
 usc_section: "6503"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 6503"
-generated_at: "2026-03-30T02:54:08.211Z"
+generated_at: "2026-11-23T20:26:04.397Z"
+status: "active"
 ---
 
 # § 6503. Safe harbors
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.211Z"
   - **(2)** Such incentives shall include provisions for ensuring that a person will be deemed to be in compliance with the requirements of the regulations under section 6502 of this title if that person complies with guidelines that, after notice and comment, are approved by the Commission upon making a determination that the guidelines meet the requirements of the regulations issued under section 6502 of this title .
   - **(3)** The Commission shall act upon requests for safe harbor treatment within 180 days of the filing of the request, and shall set forth in writing its conclusions with regard to such requests.
 - **(c)** Final action by the Commission on a request for approval of guidelines, or the failure to act within 180 days on a request for approval of guidelines, submitted under subsection (b) may be appealed to a district court of the United States of appropriate jurisdiction as provided for in section 706 of title 5 .
+
+## Source Credit
+
+*([Pub. L. 105–277, div. C, title XIII, § 1304](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–732](https://www.govinfo.gov/link/statute/112/2681).)*

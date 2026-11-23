@@ -3,9 +3,10 @@ title: "Section 1441a - National housing goals"
 usc_title: 42
 usc_section: "1441a"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1441a"
-generated_at: "2026-03-30T02:56:11.093Z"
+generated_at: "2026-11-23T20:27:21.770Z"
+status: "active"
 ---
 
 # § 1441a. National housing goals
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:56:11.093Z"
 - **(a)** The Congress finds that the supply of the Nation’s housing is not increasing rapidly enough to meet the national housing goal, established in the Housing Act of 1949 [ 42 U.S.C. 1441 et seq.], of the “realization as soon as feasible of the goal of a decent home and a suitable living environment for every American family”. The Congress reaffirms this national housing goal and determines that it can be substantially achieved within the next decade by the construction or rehabilitation of twenty-six million housing units, six million of these for low and moderate income families.
 - **(b)** The Congress further finds that policies designed to contribute to the achievement of the national housing goal have not directed sufficient attention and resources to the preservation of existing housing and neighborhoods, that the deterioration and abandonment of housing for the Nation’s lower income families has accelerated over the last decade, and that this acceleration has contributed to neighborhood disintegration and has partially negated the progress toward achieving the national housing goal which has been made primarily through new housing construction.
 - **(c)** The Congress declares that if the national housing goal is to be achieved, a greater effort must be made to encourage the preservation of existing housing and neighborhoods through such measures as housing preservation, moderate rehabilitation, and improvements in housing management and maintenance, in conjunction with the provision of adequate municipal services. Such an effort should concentrate, to a greater extent than it has in the past, on housing and neighborhoods where deterioration is evident but has not yet become acute.
+
+## Source Credit
+
+*([Pub. L. 90–448, title XVI, § 1601](https://www.govinfo.gov/link/plaw/90/public/448), Aug. 1, 1968, [82 Stat. 601](https://www.govinfo.gov/link/statute/82/601); [Pub. L. 93–383, title VIII, § 801(1)](https://www.govinfo.gov/link/plaw/93/public/383), (2), Aug. 22, 1974, [88 Stat. 721](https://www.govinfo.gov/link/statute/88/721).)*

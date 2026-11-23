@@ -3,9 +3,10 @@ title: "Section 1786 - Termination of insured credit union status; cease and des
 usc_title: 12
 usc_section: "1786"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1786"
-generated_at: "2026-03-30T02:53:53.438Z"
+generated_at: "2026-11-23T20:25:59.071Z"
+status: "active"
 ---
 
 # § 1786. Termination of insured credit union status; cease and desist orders; removal or suspension from office; procedure
@@ -336,3 +337,115 @@ generated_at: "2026-03-30T02:53:53.438Z"
         - **(II)** to prohibit any further participation by such person, in any manner, in the conduct of the affairs of any insured credit union for a period of up to 5 years.
       - **(ii)** The Board may, in an administrative proceeding or civil action in an appropriate United States district court, impose on such person a civil monetary penalty of not more than $250,000. Any administrative proceeding under this clause shall be conducted in accordance with subsection (k). In lieu of an action by the Board under this clause, the Attorney General of the United States may bring a civil action under this clause in the appropriate United States district court.
     - **(B)** Any person subject to an order issued under this subparagraph (A)(i) shall be subject to paragraphs (5) and (7) of subsection (g) in the same manner and to the same extent as a person subject to an order issued under subsection (g).
+
+Affirmative action to correct conditions resulting from violations or practices
+
+Authority to limit activities
+
+Incomplete or inaccurate records.—
+
+Temporary order
+
+Effective period
+
+Authority to issue order
+
+Specific violations.—
+
+In general
+
+Factors to be considered
+
+Suspension order.—
+
+Suspension or prohibition authorized
+
+Effective period
+
+Copy of order
+
+Prohibition of certain specific activities
+
+Industrywide Prohibition.—
+
+In general
+
+Exception if agency provides written consent
+
+Violation of paragraph treated as violation of order
+
+“Appropriate federal financial institutions regulatory agency” defined
+
+Consultation between agencies
+
+Applicability
+
+Suspension or prohibition authorized.—
+
+In general
+
+Provisions applicable to notice.—
+
+Copy
+
+Effective period
+
+Removal or prohibition.—
+
+In general
+
+Required for certain offenses
+
+Provisions applicable to order.—
+
+Copy
+
+Effect of acquittal
+
+Effective period
+
+Continuation of authority
+
+Civil money penalty.—
+
+First tier
+
+Second tier
+
+Third tier
+
+Maximum amounts of penalties for any violation described in subparagraph (c)
+
+Assessment.—
+
+Written notice
+
+Finality of assessment
+
+Authority to modify or remit penalty
+
+Mitigating factors
+
+Hearing
+
+Collection.—
+
+Referral
+
+Appropriateness of penalty not reviewable
+
+Disbursement
+
+“Violate” defined
+
+Regulations
+
+Notice under this section after separation from service
+
+In general
+
+Delay of publication under exceptional circumstances
+
+## Source Credit
+
+*(June 26, 1934, ch. 750, title II, § 206, as added [Pub. L. 91–468, § 1(3)](https://www.govinfo.gov/link/plaw/91/public/468), Oct. 19, 1970, [84 Stat. 1003](https://www.govinfo.gov/link/statute/84/1003); amended [Pub. L. 93–383, title VII, § 728](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 720](https://www.govinfo.gov/link/statute/88/720); [Pub. L. 95–22, title III, § 307](https://www.govinfo.gov/link/plaw/95/public/22), Apr. 19, 1977, [91 Stat. 52](https://www.govinfo.gov/link/statute/91/52); [Pub. L. 95–630, title I](https://www.govinfo.gov/link/plaw/95/public/630), §§ 107(a)(4), (c)(4), (d)(4), (e)(4), 111(d), title V, § 502(b), Nov. 10, 1978, [92 Stat. 3652](https://www.govinfo.gov/link/statute/92/3652), 3656, 3659, 3663, 3670, 3681; [Pub. L. 97–320, title I](https://www.govinfo.gov/link/plaw/97/public/320), §§ 132, 141(a)(8), title IV, §§ 424(a), (d)(9), (e), 427(c), Oct. 15, 1982, [96 Stat. 1487](https://www.govinfo.gov/link/statute/96/1487), 1489, 1522, 1523, 1525; [Pub. L. 98–369, div. B, title VIII, § 2812](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1206](https://www.govinfo.gov/link/statute/98/1206); [Pub. L. 99–570, title I, § 1359(d)](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–29](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 100–86, title V, § 509(a)](https://www.govinfo.gov/link/plaw/100/public/86), title VII, §§ 709–713, Aug. 10, 1987, [101 Stat. 635](https://www.govinfo.gov/link/statute/101/635), 653, 654; [Pub. L. 101–73, title IX](https://www.govinfo.gov/link/plaw/101/public/73), §§ 901(a), (b)(2), 902(b), 903(b), 904(b), 905(b), 906(b), 907(b), 908(b), 913(b), 915(b), 920(b), title XII, § 1217(b), Aug. 9, 1989, [103 Stat. 446](https://www.govinfo.gov/link/statute/103/446), 448, 451, 455, 458, 460, 462, 464, 477, 484, 486, 488, 546; [Pub. L. 101–647, title XXV](https://www.govinfo.gov/link/plaw/101/public/647), §§ 2523(b), 2532(c), 2547(b), Nov. 29, 1990, [104 Stat. 4870](https://www.govinfo.gov/link/statute/104/4870), 4881, 4887; [Pub. L. 102–233, title III, § 302(a)](https://www.govinfo.gov/link/plaw/102/public/233), Dec. 12, 1991, [105 Stat. 1767](https://www.govinfo.gov/link/statute/105/1767); [Pub. L. 102–550, title XV](https://www.govinfo.gov/link/plaw/102/public/550), §§ 1501(b), 1503(b), 1504(b), Oct. 28, 1992, [106 Stat. 4044](https://www.govinfo.gov/link/statute/106/4044), 4050, 4053; [Pub. L. 103–325, title IV, § 411(c)(2)(B)](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2253](https://www.govinfo.gov/link/statute/108/2253); [Pub. L. 105–219, title III, § 301(b)(1)](https://www.govinfo.gov/link/plaw/105/public/219), (g)(1), (2), Aug. 7, 1998, [112 Stat. 930](https://www.govinfo.gov/link/statute/112/930), 931; [Pub. L. 108–458, title VI, § 6303(c)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3753](https://www.govinfo.gov/link/statute/118/3753); [Pub. L. 109–351, title VII](https://www.govinfo.gov/link/plaw/109/public/351), §§ 708(b), 715(b), 716(b), 723(b), 726(14)–(19), Oct. 13, 2006, [120 Stat. 1989](https://www.govinfo.gov/link/statute/120/1989), 1995, 1996, 2000, 2002, 2003; [Pub. L. 111–203, title III, § 362(3)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1549](https://www.govinfo.gov/link/statute/124/1549).)*

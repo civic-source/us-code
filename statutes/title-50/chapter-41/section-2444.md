@@ -3,9 +3,10 @@ title: "Section 2444 - Nonproliferation and national security scholarship and fe
 usc_title: 50
 usc_section: "2444"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 2444"
-generated_at: "2026-03-30T02:56:26.224Z"
+generated_at: "2026-11-23T20:27:30.850Z"
+status: "active"
 ---
 
 # § 2444. Nonproliferation and national security scholarship and fellowship program
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:56:26.224Z"
 - **(f)** A scholarship or fellowship awarded under the program established under this section shall be taken into account in determining the eligibility of an individual receiving such scholarship or fellowship for Federal student financial assistance provided under title IV of the Higher Education Act of 1965 ( 20 U.S.C. 1070 et seq.).
 - **(g)** Not later than January 1, 2010 , the Administrator shall submit to the congressional defense committees a report on the activities carried out under the program established under this section, including any recommendations for future activities under such program.
 - **(h)** Of the amounts authorized to be appropriated by section 3101(a)(2) 1 1 See References in Text note below. for defense nuclear nonproliferation activities, $3,000,000 shall be available to carry out the program established under this section.
+
+## Source Credit
+
+*([Pub. L. 110–417, div. C, title XXXI, § 3113](https://www.govinfo.gov/link/plaw/110/public/417), Oct. 14, 2008, [122 Stat. 4754](https://www.govinfo.gov/link/statute/122/4754); [Pub. L. 111–383, div. A, title X, § 1075(e)(19)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4375](https://www.govinfo.gov/link/statute/124/4375); [Pub. L. 118–159, div. C, title XXXI, § 3111(b)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2293](https://www.govinfo.gov/link/statute/138/2293).)*

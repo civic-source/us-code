@@ -3,9 +3,10 @@ title: "Section 50911 - Space advertising"
 usc_title: 51
 usc_section: "50911"
 chapter: 509
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 50911"
-generated_at: "2026-03-30T02:56:28.708Z"
+generated_at: "2026-11-23T20:27:37.506Z"
+status: "active"
 ---
 
 # § 50911. Space advertising
@@ -19,3 +20,13 @@ generated_at: "2026-03-30T02:56:28.708Z"
   - **(2)** space infrastructure payloads;
   - **(3)** space launch facilities; and
   - **(4)** launch support facilities.
+
+Licensing
+
+Launching
+
+Commercial Space Advertising
+
+## Source Credit
+
+*(Added [Pub. L. 106–391, title III, § 322(b)](https://www.govinfo.gov/link/plaw/106/public/391), Oct. 30, 2000, [114 Stat. 1598](https://www.govinfo.gov/link/statute/114/1598), § 70109a of title 49; renumbered § 70109a then § 50911 of title 51, [Pub. L. 111–314, § 4(d)(2)](https://www.govinfo.gov/link/plaw/111/public/314), (3)(K), Dec. 18, 2010, [124 Stat. 3440](https://www.govinfo.gov/link/statute/124/3440), 3441.)*

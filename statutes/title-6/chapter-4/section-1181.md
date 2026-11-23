@@ -3,9 +3,10 @@ title: "Section 1181 - Over-the-road bus security assessments and plans"
 usc_title: 6
 usc_section: "1181"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 1181"
-generated_at: "2026-03-30T02:53:09.508Z"
+generated_at: "2026-11-23T20:25:34.945Z"
+status: "active"
 ---
 
 # § 1181. Over-the-road bus security assessments and plans
@@ -72,3 +73,7 @@ generated_at: "2026-03-30T02:53:09.508Z"
 - **(l)**
   - **(1)** Nothing in this section shall be construed as authorizing the withholding of any information from Congress.
   - **(2)** Nothing in this section shall be construed as affecting any authority or obligation of a Federal agency to disclose any record or information that the Federal agency obtains from an over-the-road bus operator under any other Federal law.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XV, § 1531](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 454](https://www.govinfo.gov/link/statute/121/454).)*

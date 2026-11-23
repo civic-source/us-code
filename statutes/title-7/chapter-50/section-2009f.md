@@ -3,9 +3,10 @@ title: "Section 2009f - Grants to States"
 usc_title: 7
 usc_section: "2009f"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2009f"
-generated_at: "2026-03-30T02:53:42.358Z"
+generated_at: "2026-11-23T20:25:41.395Z"
+status: "active"
 ---
 
 # § 2009f. Grants to States
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:53:42.358Z"
 - **(h)** Nothing in this subchapter—
   - **(1)** entitles any person to assistance or a contract or grant; or
   - **(2)** limits the right of a State to impose additional limitations or conditions on assistance or a contract or grant under this section.
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 381G](https://www.govinfo.gov/link/plaw/87/public/128), as added [Pub. L. 104–127, title VII, § 761](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1143](https://www.govinfo.gov/link/statute/110/1143); amended [Pub. L. 107–171, title VI, § 6026(c)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 372](https://www.govinfo.gov/link/statute/116/372).)*

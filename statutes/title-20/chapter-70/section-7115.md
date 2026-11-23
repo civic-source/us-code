@@ -3,9 +3,10 @@ title: "Section 7115 - Allocations to local educational agencies"
 usc_title: 20
 usc_section: "7115"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 7115"
-generated_at: "2026-03-30T02:54:48.205Z"
+generated_at: "2026-11-23T20:26:14.872Z"
+status: "active"
 ---
 
 # § 7115. Allocations to local educational agencies
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:48.205Z"
   - **(3)** Local educational agencies in a State may form a consortium with other surrounding local educational agencies and combine the funds each such agency in the consortium receives under this section to jointly carry out the local activities described in this subpart.
 - **(b)** If the amount reserved by the State under section 7114(a)(1) of this title is insufficient to make allocations to local educational agencies in an amount equal to the minimum allocation described in subsection (a)(2), such allocations shall be ratably reduced.
 - **(c)** Of the amount received under subsection (a)(2), a local educational agency may reserve not more than 2 percent for the direct administrative costs of carrying out the local educational agency’s responsibilities under this subpart.
+
+## Source Credit
+
+*([Pub. L. 89–10, title IV, § 4105](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title IV, § 4101](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1974](https://www.govinfo.gov/link/statute/129/1974).)*

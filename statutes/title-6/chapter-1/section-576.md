@@ -3,9 +3,10 @@ title: "Section 576 - Emergency Communications Preparedness Center"
 usc_title: 6
 usc_section: "576"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 576"
-generated_at: "2026-03-30T02:53:09.470Z"
+generated_at: "2026-11-23T20:25:34.798Z"
+status: "active"
 ---
 
 # § 576. Emergency Communications Preparedness Center
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:09.470Z"
     - **(B)** interoperable emergency communications;
   - **(3)** consider, in preparing the strategic assessment under paragraph (2), the goals stated in the National Emergency Communications Plan under section 572 of this title ; and
   - **(4)** perform such other functions as are provided in the Emergency Communications Preparedness Center (ECPC) Charter described in subsection (b)(1). 1 1 So in original. Subsection (b) of this section does not contain a paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 107–296, title XVIII, § 1806](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 109–295, title VI, § 671(b)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1440](https://www.govinfo.gov/link/statute/120/1440).)*

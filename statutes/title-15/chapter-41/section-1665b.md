@@ -3,9 +3,10 @@ title: "Section 1665b - Advertising of open end consumer credit plans secured by
 usc_title: 15
 usc_section: "1665b"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1665b"
-generated_at: "2026-03-30T02:54:08.145Z"
+generated_at: "2026-11-23T20:26:04.062Z"
+status: "active"
 ---
 
 # § 1665b. Advertising of open end consumer credit plans secured by consumer’s principal dwelling
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:08.145Z"
 - **(f)** For purposes of this section and section 1637a of this title , the term “balloon payment” means, with respect to any open end consumer credit plan under which extensions of credit are secured by the consumer’s principal dwelling, any repayment option under which—
   - **(1)** the account holder is required to repay the entire amount of any outstanding balance as of a specified date or at the end of a specified period of time, as determined in accordance with the terms of the agreement pursuant to which such credit is extended; and
   - **(2)** the aggregate amount of the minimum periodic payments required would not fully amortize such outstanding balance by such date or at the end of such period.
+
+## Source Credit
+
+*([Pub. L. 90–321, title I, § 147](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 100–709, § 2(c)](https://www.govinfo.gov/link/plaw/100/public/709), Nov. 23, 1988, [102 Stat. 4730](https://www.govinfo.gov/link/statute/102/4730); amended [Pub. L. 109–8, title XIII, § 1302(a)(2)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 208](https://www.govinfo.gov/link/statute/119/208); [Pub. L. 111–203, title X, § 1100A(2)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2107](https://www.govinfo.gov/link/statute/124/2107).)*

@@ -3,9 +3,10 @@ title: "Section 9214 - Designation of persons"
 usc_title: 22
 usc_section: "9214"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9214"
-generated_at: "2026-03-30T02:55:05.462Z"
+generated_at: "2026-11-23T20:26:32.757Z"
+status: "active"
 ---
 
 # § 9214. Designation of persons
@@ -78,3 +79,7 @@ generated_at: "2026-03-30T02:55:05.462Z"
       - **(i)** a significant act of bribery of an official of the Government of North Korea or any person acting for or on behalf of that official;
       - **(ii)** the misappropriation, theft, or embezzlement of a significant amount of public funds by, or for the benefit of, an official of the Government of North Korea or any person acting for or on behalf of that official; or
       - **(iii)** the use of any proceeds of any activity described in subparagraph (A) or (B).
+
+## Source Credit
+
+*([Pub. L. 114–122, title I, § 104](https://www.govinfo.gov/link/plaw/114/public/122), Feb. 18, 2016, [130 Stat. 99](https://www.govinfo.gov/link/statute/130/99); [Pub. L. 115–44, title III, § 311(a)](https://www.govinfo.gov/link/plaw/115/public/44), (b)(1), (c), Aug. 2, 2017, [131 Stat. 942](https://www.govinfo.gov/link/statute/131/942), 944; [Pub. L. 116–92, div. F, title LXXI, § 7122(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2247](https://www.govinfo.gov/link/statute/133/2247).)*

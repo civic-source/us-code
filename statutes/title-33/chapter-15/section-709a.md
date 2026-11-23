@@ -3,9 +3,10 @@ title: "Section 709a - Information on floods and flood damage"
 usc_title: 33
 usc_section: "709a"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 709a"
-generated_at: "2026-03-30T02:55:41.072Z"
+generated_at: "2026-11-23T20:26:53.907Z"
+status: "active"
 ---
 
 # § 709a. Information on floods and flood damage
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:41.072Z"
 - **(c)** The Secretary of the Army is authorized to establish and collect fees from Federal agencies and private persons for the purpose of recovering the cost of providing services pursuant to this section. Funds collected pursuant to this section shall be deposited into the account of the Treasury of the United States entitled “Contributions and Advances, Rivers and Harbor, Corps of Engineers (8862)” and shall be available until expended to carry out this section. No fees shall be collected from State, regional, or local governments or other non-Federal public agencies for services provided pursuant to this section, but the Secretary of the Army may accept funds voluntarily contributed by such entities for the purpose of expanding the scope of the services requested by the entities.
 - **(d)** Notwithstanding section 4141 of title 10 , in carrying out this section, the Secretary may work with an institution of higher education, as determined appropriate by the Secretary.
 - **(e)** The Secretary of the Army is authorized to expend not to exceed $50,000,000 per fiscal year for the compilation and dissemination of information under this section.
+
+## Source Credit
+
+*([Pub. L. 86–645, title II, § 206](https://www.govinfo.gov/link/plaw/86/public/645), July 14, 1960, [74 Stat. 500](https://www.govinfo.gov/link/statute/74/500); [Pub. L. 89–298, title II, § 220](https://www.govinfo.gov/link/plaw/89/public/298), Oct. 27, 1965, [79 Stat. 1089](https://www.govinfo.gov/link/statute/79/1089); [Pub. L. 89–789, title II, § 206](https://www.govinfo.gov/link/plaw/89/public/789), Nov. 7, 1966, [80 Stat. 1422](https://www.govinfo.gov/link/statute/80/1422); [Pub. L. 91–611, title II, § 225](https://www.govinfo.gov/link/plaw/91/public/611), Dec. 31, 1970, [84 Stat. 1832](https://www.govinfo.gov/link/statute/84/1832); [Pub. L. 93–251, title I, § 64](https://www.govinfo.gov/link/plaw/93/public/251), Mar. 7, 1974, [88 Stat. 30](https://www.govinfo.gov/link/statute/88/30); [Pub. L. 101–640, title III, § 321](https://www.govinfo.gov/link/plaw/101/public/640), Nov. 28, 1990, [104 Stat. 4643](https://www.govinfo.gov/link/statute/104/4643); [Pub. L. 106–53, title II](https://www.govinfo.gov/link/plaw/106/public/53), §§ 202, 216, Aug. 17, 1999, [113 Stat. 285](https://www.govinfo.gov/link/statute/113/285), 293; [Pub. L. 109–295, title VI, § 612(c)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1410](https://www.govinfo.gov/link/statute/120/1410); [Pub. L. 113–121, title I, § 1030(h)](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1232](https://www.govinfo.gov/link/statute/128/1232); [Pub. L. 116–260, div. AA, title I, § 111(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2625](https://www.govinfo.gov/link/statute/134/2625); [Pub. L. 117–263, div. H, title LXXXI, § 8104](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3698](https://www.govinfo.gov/link/statute/136/3698).)*

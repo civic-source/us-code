@@ -3,9 +3,10 @@ title: "Section 4356 - Advisory Committee"
 usc_title: 22
 usc_section: "4356"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4356"
-generated_at: "2026-03-30T02:55:05.411Z"
+generated_at: "2026-11-23T20:26:32.536Z"
+status: "active"
 ---
 
 # § 4356. Advisory Committee
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:05.411Z"
     - **(B)** shall be allowed travel expenses, including per diem in lieu of subsistence at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services of the Advisory Committee.
   - **(2)** The Secretary of State is authorized to provide for necessary secretarial and staff assistance for the Advisory Committee.
   - **(3)** Chapter 10 of title 5 shall not apply to the Advisory Committee to the extent that the provisions of this chapter are inconsistent with that chapter.
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title IV, § 406, as added [Pub. L. 102–138, title I, § 198(a)](https://www.govinfo.gov/link/plaw/102/public/138), Oct. 28, 1991, [105 Stat. 688](https://www.govinfo.gov/link/statute/105/688); amended [Pub. L. 117–286, § 4(a)(169)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4324](https://www.govinfo.gov/link/statute/136/4324).)*

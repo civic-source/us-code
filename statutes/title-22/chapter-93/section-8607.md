@@ -3,9 +3,10 @@ title: "Section 8607 - Other matters of cooperation"
 usc_title: 22
 usc_section: "8607"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8607"
-generated_at: "2026-03-30T02:55:05.454Z"
+generated_at: "2026-11-23T20:26:32.729Z"
+status: "active"
 ---
 
 # § 8607. Other matters of cooperation
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:55:05.454Z"
   - **(3)** the Committee on Foreign Affairs of the House of Representatives; and
   - **(4)** the Committee on Natural Resources of the House of Representatives.
 - **(k)** It is the sense of Congress that the Secretary of Veterans Affairs should seek to explore collaboration between the Mental Illness Research, Education and Clinical Centers of Excellence and Israeli institutions with expertise in researching and treating posttraumatic stress disorder.
+
+## Source Credit
+
+*([Pub. L. 116–283, div. A, title XII, § 1280A](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3982](https://www.govinfo.gov/link/statute/134/3982).)*

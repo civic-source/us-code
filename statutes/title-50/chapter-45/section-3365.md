@@ -3,9 +3,10 @@ title: "Section 3365 - Foreign intelligence information"
 usc_title: 50
 usc_section: "3365"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3365"
-generated_at: "2026-03-30T02:56:26.248Z"
+generated_at: "2026-11-23T20:27:30.984Z"
+status: "active"
 ---
 
 # § 3365. Foreign intelligence information
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:26.248Z"
     - **(B)** information, whether or not concerning a United States person, with respect to a foreign power or foreign territory that relates to—
       - **(i)** the national defense or the security of the United States; or
       - **(ii)** the conduct of the foreign affairs of the United States.
+
+## Source Credit
+
+*([Pub. L. 107–56, title II, § 203(d)](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 281](https://www.govinfo.gov/link/statute/115/281); [Pub. L. 107–296, title VIII, § 897(a)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2257](https://www.govinfo.gov/link/statute/116/2257); [Pub. L. 117–347, title III, § 323(a)(1)(A)](https://www.govinfo.gov/link/plaw/117/public/347), Jan. 5, 2023, [136 Stat. 6206](https://www.govinfo.gov/link/statute/136/6206).)*

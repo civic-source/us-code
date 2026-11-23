@@ -3,9 +3,10 @@ title: "Section 227b - Call authentication"
 usc_title: 47
 usc_section: "227b"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 227b"
-generated_at: "2026-03-30T02:56:24.499Z"
+generated_at: "2026-11-23T20:27:28.842Z"
+status: "active"
 ---
 
 # § 227b. Call authentication
@@ -70,3 +71,7 @@ generated_at: "2026-03-30T02:56:24.499Z"
     - **(B)** implemented procedures based, in whole or in part, on the information provided by the call authentication frameworks under subsection (b); and
     - **(C)** used reasonable care, including making all reasonable efforts to avoid blocking emergency public safety calls.
 - **(d)** Nothing in this section shall preclude the Commission from initiating a rulemaking pursuant to its existing statutory authority.
+
+## Source Credit
+
+*([Pub. L. 116–105, § 4](https://www.govinfo.gov/link/plaw/116/public/105), Dec. 30, 2019, [133 Stat. 3276](https://www.govinfo.gov/link/statute/133/3276).)*

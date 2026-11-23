@@ -3,9 +3,10 @@ title: "Section 1631 - Ownership of submerged lands"
 usc_title: 43
 usc_section: "1631"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1631"
-generated_at: "2026-03-30T02:55:57.484Z"
+generated_at: "2026-11-23T20:27:06.342Z"
+status: "active"
 ---
 
 # § 1631. Ownership of submerged lands
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:57.484Z"
   - **(2)** No agency or board of the Department of the Interior other than the Bureau of Land Management shall have authority to determine the navigability of a lake, river, or stream within an area selected by a Native or Native Corporation pursuant to the Alaska Native Claims Settlement Act [ 43 U.S.C. 1601 et seq.] or this Act unless a determination by the Bureau of Land Management that such lake, river, or stream, is or is not navigable, was validly appealed to such agency or board on or before December 2, 1980 .
   - **(3)** If title to land conveyed to a Native Corporation pursuant to the Alaska Native Claims Settlement Act [ 43 U.S.C. 1601 et seq.] or this Act which underlies a lake, river, or stream is challenged in a court of competent jurisdiction and such court determines that such land is owned by the Native Corporation, the Native Corporation shall be awarded a money judgment against the plaintiffs in an amount equal to its costs and attorney’s fees, including costs and attorney’s fees incurred on appeal.
 - **(d)** For the purposes of this section, the terms “navigable” and “navigability” means navigable for the purpose of determining title to lands beneath navigable waters, as between the United States and the several States pursuant to the Submerged Lands Act [ 43 U.S.C. 1301 et seq., 1311 et seq.] and section 6(m) of the Alaska Statehood Act.
+
+## Source Credit
+
+*([Pub. L. 96–487, title IX, § 901](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2430](https://www.govinfo.gov/link/statute/94/2430); [Pub. L. 99–258](https://www.govinfo.gov/link/plaw/99/public/258), Mar. 19, 1986, [100 Stat. 42](https://www.govinfo.gov/link/statute/100/42); [Pub. L. 99–644](https://www.govinfo.gov/link/plaw/99/public/644), Nov. 10, 1986, [100 Stat. 3581](https://www.govinfo.gov/link/statute/100/3581); [Pub. L. 100–395, title I, § 101](https://www.govinfo.gov/link/plaw/100/public/395), Aug. 16, 1988, [102 Stat. 979](https://www.govinfo.gov/link/statute/102/979).)*

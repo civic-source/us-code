@@ -3,9 +3,10 @@ title: "Section 5909 - Relationship to antitrust laws"
 usc_title: 42
 usc_section: "5909"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5909"
-generated_at: "2026-03-30T02:56:11.240Z"
+generated_at: "2026-11-23T20:27:22.572Z"
+status: "active"
 ---
 
 # § 5909. Relationship to antitrust laws
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.240Z"
   - **(3)** the Federal Trade Commission Act ( 15 U.S.C. 41 et seq.), as amended;
   - **(4)** sections 73 and 74 of the Act entitled “An Act to reduce taxation, to provide revenue for the Government, and for other purposes”, approved August 27, 1894 ( 15 U.S.C. 8 and 9), as amended; and
   - **(5)** the Act of June 19, 1936 , chapter 592 ( 15 U.S.C. 13 , 13a, 13b, and 21a).
+
+## Source Credit
+
+*([Pub. L. 93–577, § 10](https://www.govinfo.gov/link/plaw/93/public/577), Dec. 31, 1974, [88 Stat. 1891](https://www.govinfo.gov/link/statute/88/1891).)*

@@ -3,9 +3,10 @@ title: "Section 461 - Reports"
 usc_title: 29
 usc_section: "461"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 461"
-generated_at: "2026-03-30T02:55:18.684Z"
+generated_at: "2026-11-23T20:26:37.817Z"
+status: "active"
 ---
 
 # § 461. Reports
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:18.684Z"
 - **(c)** Any person who willfully violates this section shall be fined not more than $10,000 or imprisoned for not more than one year, or both.
 - **(d)** Any person who makes a false statement or representation of a material fact, knowing it to be false, or who knowingly fails to disclose a material fact, in any report required under the provisions of this section or willfully makes any false entry in or willfully withholds, conceals, or destroys any documents, books, records, reports, or statements upon which such report is based, shall be fined not more than $10,000 or imprisoned for not more than one year, or both.
 - **(e)** Each individual required to sign a report under this section shall be personally responsible for the filing of such report and for any statement contained therein which he knows to be false.
+
+## Source Credit
+
+*([Pub. L. 86–257, title III, § 301](https://www.govinfo.gov/link/plaw/86/public/257), Sept. 14, 1959, [73 Stat. 530](https://www.govinfo.gov/link/statute/73/530).)*

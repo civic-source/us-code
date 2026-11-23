@@ -3,9 +3,10 @@ title: "Section 309 - Land grants in the State of North Dakota"
 usc_title: 7
 usc_section: "309"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 309"
-generated_at: "2026-03-30T02:53:42.280Z"
+generated_at: "2026-11-23T20:25:41.014Z"
+status: "active"
 ---
 
 # § 309. Land grants in the State of North Dakota
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:42.280Z"
     - **(B)** maintain stable distributions to trust fund beneficiaries.
 - **(c)** Notwithstanding section 304 of this title , any distributions from trust funds in the State of North Dakota shall be made in accordance with section 2 of article IX of the Constitution of the State of North Dakota.
 - **(d)** Notwithstanding section 305 of this title , the State of North Dakota shall manage the land granted under section 301 of this title , including any proceeds from the land, in accordance with this section.
+
+## Source Credit
+
+*(July 2, 1862, ch. 130, § 9, as added [Pub. L. 111–11, title XIII, § 13001(b)](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1446](https://www.govinfo.gov/link/statute/123/1446).)*

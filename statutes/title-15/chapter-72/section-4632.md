@@ -3,9 +3,10 @@ title: "Section 4632 - Semiconductor research and development"
 usc_title: 15
 usc_section: "4632"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 4632"
-generated_at: "2026-03-30T02:54:08.200Z"
+generated_at: "2026-11-23T20:26:04.343Z"
+status: "active"
 ---
 
 # § 4632. Semiconductor research and development
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:54:08.200Z"
   - **(4)** The Chairman shall call the first meeting of the Committee not later than 90 days after August 23, 1988 .
   - **(5)** At the close of each fiscal year the Committee shall submit to the President and the Congress a report on its activities conducted during such year and its planned activities for the coming year, including specific findings and recommendations with respect to the national semiconductor strategy devised and promulgated under subsection (b)(2)(B). The first report shall include an analysis of those technical areas, including manufacturing, which are of importance to the United States semiconductor industry, and shall make specific recommendations regarding the appropriate Federal role in correcting any deficiencies identified by the analysis. Each report shall include an estimate of the length of time the Committee must continue before the achievement of its purposes and the issuance of its final report.
 - **(f)** There are authorized to be appropriated to carry out the purposes of this section such sums as may be necessary for the fiscal years 1988, 1989, 1990, 1991, 1992, and 1993.
+
+## Source Credit
+
+*([Pub. L. 100–418, title V, § 5142](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1444](https://www.govinfo.gov/link/statute/102/1444); [Pub. L. 102–245, title I, § 105(f)](https://www.govinfo.gov/link/plaw/102/public/245), Feb. 14, 1992, [106 Stat. 12](https://www.govinfo.gov/link/statute/106/12).)*

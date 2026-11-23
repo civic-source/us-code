@@ -3,12 +3,17 @@ title: "Section 7907 - Termination"
 usc_title: 38
 usc_section: "7907"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7907"
-generated_at: "2026-03-30T02:55:53.536Z"
+generated_at: "2026-11-23T20:27:02.056Z"
+status: "active"
 ---
 
 # § 7907. Termination
 
 The authority of the Secretary to make a payment under this chapter shall terminate on July 31, 2017 .
 
+
+## Source Credit
+
+*(Added [Pub. L. 109–461, title IX, § 903(a)(1)](https://www.govinfo.gov/link/plaw/109/public/461), Dec. 22, 2006, [120 Stat. 3464](https://www.govinfo.gov/link/statute/120/3464).)*

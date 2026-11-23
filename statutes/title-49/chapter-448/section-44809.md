@@ -3,9 +3,10 @@ title: "Section 44809 - Exception for limited recreational operations of unmanne
 usc_title: 49
 usc_section: "44809"
 chapter: 448
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44809"
-generated_at: "2026-03-30T02:56:19.389Z"
+generated_at: "2026-11-23T20:27:35.201Z"
+status: "active"
 ---
 
 # § 44809. Exception for limited recreational operations of unmanned aircraft
@@ -53,3 +54,69 @@ generated_at: "2026-03-30T02:56:19.389Z"
   - **(6)** provides programming and support for any local charter organizations, affiliates, or clubs; and
   - **(7)** provides assistance and support in the development and operation of locally designated model aircraft flying sites.
 - **(i)** In collaboration with aeromodelling stakeholders, the Administrator shall publish an advisory circular within 180 days of the date of enactment of this section that identifies the criteria and process required for recognition of community-based organizations.
+
+In General
+
+Other Operations
+
+Operations at Fixed Sites.—
+
+In general
+
+Operating procedures.—
+
+Controlled airspace
+
+Altitude
+
+Uncontrolled airspace
+
+Unmanned aircraft weighing 55 pounds or greater
+
+FAA-recognized identification areas
+
+Savings clause
+
+Statutory Construction
+
+Exceptions
+
+Aeronautical Knowledge and Safety Test.—
+
+In general
+
+Requirements
+
+Community-based Organization Defined
+
+Recognition of Community-based Organizations
+
+Updates
+
+Savings clause
+
+Educational and Research Purposes
+
+Updates
+
+Deadline for Establishment of Procedures and Standards
+
+Definitions
+
+Institution of higher education
+
+Educational or research purposes
+
+Elementary school
+
+Secondary school
+
+Statutory Construction.—
+
+Enforcement
+
+Regulations and standards
+
+## Source Credit
+
+*(Added [Pub. L. 115–254, div. B, title III, § 349(a)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3298](https://www.govinfo.gov/link/statute/132/3298); amended [Pub. L. 118–63, title IX, § 928(a)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1363](https://www.govinfo.gov/link/statute/138/1363).)*

@@ -3,9 +3,10 @@ title: "Section 130103 - Membership"
 usc_title: 36
 usc_section: "130103"
 chapter: 1301
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 130103"
-generated_at: "2026-03-30T02:55:44.701Z"
+generated_at: "2026-11-23T20:26:58.940Z"
+status: "active"
 ---
 
 # § 130103. Membership
@@ -18,3 +19,26 @@ generated_at: "2026-03-30T02:55:44.701Z"
       - **(ii)** a State regiment that was called into active service and was subject to orders of United States general officers during that period; and
     - **(B)** was honorably discharged from, or died in, that service.
 - **(b)** Each member has one vote on each matter submitted to a vote at a meeting of the members.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 130103 | 36:78d. | June 17, 1959 , Pub. L. 86–47, § 5 , 73 Stat. 78 . |
+
+
+Eligibility
+
+Voting
+
+Historical and Revision Notes
+
+130103
+
+June 17, 1959
+
+Pub. L. 86–47, § 5
+
+73 Stat. 78
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1371](https://www.govinfo.gov/link/statute/112/1371).)*

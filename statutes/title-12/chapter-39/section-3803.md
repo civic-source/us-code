@@ -3,9 +3,10 @@ title: "Section 3803 - Alternative mortgage authority"
 usc_title: 12
 usc_section: "3803"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 3803"
-generated_at: "2026-03-30T02:53:53.498Z"
+generated_at: "2026-11-23T20:25:59.352Z"
+status: "active"
 ---
 
 # § 3803. Alternative mortgage authority
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:53.498Z"
   - **(2)** determine whether such regulations are fair and not deceptive and otherwise meet the objectives of the Consumer Financial Protection Act of 2010; and
   - **(3)** promulgate regulations under subsection (a)(4) after the designated transfer date.
 - **(e)** As used in this section, the term “designated transfer date” means the date determined under section 1062 of the Consumer Financial Protection Act of 2010 [ 12 U.S.C. 5582 ].
+
+## Source Credit
+
+*([Pub. L. 97–320, title VIII, § 804](https://www.govinfo.gov/link/plaw/97/public/320), Oct. 15, 1982, [96 Stat. 1546](https://www.govinfo.gov/link/statute/96/1546); [Pub. L. 101–73, title VII, § 744(c)](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 438](https://www.govinfo.gov/link/statute/103/438); [Pub. L. 111–203, title X, § 1083(a)(2)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2080](https://www.govinfo.gov/link/statute/124/2080).)*

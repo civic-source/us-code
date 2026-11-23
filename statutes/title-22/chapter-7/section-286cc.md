@@ -3,9 +3,10 @@ title: "Section 286cc - Sustaining economic growth"
 usc_title: 22
 usc_section: "286cc"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 286cc"
-generated_at: "2026-03-30T02:55:05.319Z"
+generated_at: "2026-11-23T20:26:32.013Z"
+status: "active"
 ---
 
 # § 286cc. Sustaining economic growth
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:05.319Z"
   - **(1)** an emergency exists in a nation that has applied to the Fund for assistance that requires an immediate short-term loan to avoid disrupting orderly financial markets;
   - **(2)** a sudden decrease in export earnings in the country applying to the Fund for assistance has increased the ratio of annual external debt service to annual export earnings, to greater than 85 per centum for a period projected to be no more than one year; or
   - **(3)** other extraordinary circumstances exist which warrant waiving the provisions of subsection (b)(2).
+
+## Source Credit
+
+*(July 31, 1945, ch. 339, § 45, as added [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title VIII, § 806], Nov. 30, 1983, [97 Stat. 1272](https://www.govinfo.gov/link/statute/97/1272).)*

@@ -3,9 +3,10 @@ title: "Section 5116d - Application"
 usc_title: 42
 usc_section: "5116d"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5116d"
-generated_at: "2026-03-30T02:56:11.219Z"
+generated_at: "2026-11-23T20:27:22.463Z"
+status: "active"
 ---
 
 # § 5116d. Application
@@ -24,3 +25,7 @@ A grant may not be made to a State under this subchapter unless an application t
   - **(10)** a description of how the applicant entity’s activities and those of the network and its members (where appropriate) will be evaluated;
   - **(11)** a description of the actions that the applicant entity will take to advocate systemic changes in State policies, practices, procedures, and regulations to improve the delivery of community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect services to children and families; and
   - **(12)** an assurance that the applicant entity will provide the Secretary with reports at such time and containing such information as the Secretary may require.
+
+## Source Credit
+
+*([Pub. L. 93–247, title II, § 204](https://www.govinfo.gov/link/plaw/93/public/247), formerly § 205, as added [Pub. L. 104–235, title I, § 121](https://www.govinfo.gov/link/plaw/104/public/235), Oct. 3, 1996, [110 Stat. 3083](https://www.govinfo.gov/link/statute/110/3083); amended [Pub. L. 108–36, title I, § 125](https://www.govinfo.gov/link/plaw/108/public/36), June 25, 2003, [117 Stat. 815](https://www.govinfo.gov/link/statute/117/815); renumbered § 204 and amended [Pub. L. 111–320, title I](https://www.govinfo.gov/link/plaw/111/public/320), §§ 135, 141, Dec. 20, 2010, [124 Stat. 3479](https://www.govinfo.gov/link/statute/124/3479), 3482.)*

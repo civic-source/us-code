@@ -3,9 +3,10 @@ title: "Section 499c - Licenses"
 usc_title: 7
 usc_section: "499c"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 499c"
-generated_at: "2026-03-30T02:53:42.285Z"
+generated_at: "2026-11-23T20:25:41.040Z"
+status: "active"
 ---
 
 # § 499c. Licenses
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:42.285Z"
     - **(D)** After the end of the three-year period beginning on November 15, 1995 , the licensee shall not be required to pay any fee if the licensee seeks renewal of the license.
   - **(5)** Such fee, when collected, shall be deposited in the Treasury of the United States as a special fund, without fiscal year limitation, to be designated as the “Perishable Agricultural Commodities Act Fund”, which shall be available for all expenses necessary to the administration of this chapter and the Act approved March 3, 1927 , referred to above. Any reserve funds in the Perishable Agricultural Commodities Act Fund may be invested by the Secretary in insured or fully-collateralized interest-bearing accounts or, at the discretion of the Secretary, by the Secretary of the Treasury in United States Government debt instruments. Any interest earned on such reserve funds shall be credited to the Perishable Agricultural Commodities Act Fund and shall be available for the same purposes as the fees deposited in such fund. Financial statements prescribed by the Director of the Office of Management and Budget for the last completed fiscal year, and as estimated for the current and ensuing fiscal years, shall be included in the budget as submitted to the Congress annually.
 - **(c)** A licensee may conduct business in more than one trade name or change the name under which business is conducted without requiring an additional or new license. The Secretary may disapprove the use of a trade name if, in his opinion, the use of the trade name by the licensee would be deceptive, misleading, or confusing to the trade, and the Secretary may, after notice and opportunity for a hearing, suspend for a period not to exceed ninety days the license of any licensee who continues to use a trade name which the Secretary has disapproved for use by such licensee. The Secretary may refuse to issue a license to an applicant if he finds that the trade name in which the applicant proposes to do business would be deceptive, misleading, or confusing to the trade if used by such applicant.
+
+## Source Credit
+
+*(June 10, 1930, ch. 436, § 3, [46 Stat. 533](https://www.govinfo.gov/link/statute/46/533); Aug. 20, 1937, ch. 719, § 5, [50 Stat. 726](https://www.govinfo.gov/link/statute/50/726); June 15, 1950, ch. 254, § 1, [64 Stat. 217](https://www.govinfo.gov/link/statute/64/217); July 30, 1956, ch. 786, § 2(a), [70 Stat. 726](https://www.govinfo.gov/link/statute/70/726); [Pub. L. 87–725](https://www.govinfo.gov/link/plaw/87/public/725), §§ 3, 4, Oct. 1, 1962, [76 Stat. 673](https://www.govinfo.gov/link/statute/76/673), 674; [Pub. L. 91–107, § 3](https://www.govinfo.gov/link/plaw/91/public/107), Nov. 4, 1969, [83 Stat. 182](https://www.govinfo.gov/link/statute/83/182); 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, [84 Stat. 2085](https://www.govinfo.gov/link/statute/84/2085); [Pub. L. 95–562, § 2](https://www.govinfo.gov/link/plaw/95/public/562), Nov. 1, 1978, [92 Stat. 2381](https://www.govinfo.gov/link/statute/92/2381); [Pub. L. 97–98, title XI, § 1115(b)](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1269](https://www.govinfo.gov/link/statute/95/1269); [Pub. L. 100–414, § 1](https://www.govinfo.gov/link/plaw/100/public/414), Aug. 22, 1988, [102 Stat. 1102](https://www.govinfo.gov/link/statute/102/1102); [Pub. L. 101–624, title XIII, § 1361](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3568](https://www.govinfo.gov/link/statute/104/3568); [Pub. L. 104–48](https://www.govinfo.gov/link/plaw/104/public/48), §§ 3–4(b), 5(a), Nov. 15, 1995, [109 Stat. 425–427](https://www.govinfo.gov/link/statute/109/425).)*

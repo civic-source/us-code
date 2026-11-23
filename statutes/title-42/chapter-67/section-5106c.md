@@ -3,9 +3,10 @@ title: "Section 5106c - Grants to States for programs relating to investigation 
 usc_title: 42
 usc_section: "5106c"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5106c"
-generated_at: "2026-03-30T02:56:11.218Z"
+generated_at: "2026-11-23T20:27:22.456Z"
+status: "active"
 ---
 
 # § 5106c. Grants to States for programs relating to investigation and prosecution of child abuse and neglect cases
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:56:11.218Z"
     - **(A)** the State adopts an alternative to the recommendations of the State task force, which carries out the purpose of this section, in each of the categories under paragraph (1) for which the State task force’s recommendations are not adopted; or
     - **(B)** the State is making substantial progress toward adopting recommendations of the State task force or a comparable alternative to such recommendations.
 - **(f)** For grants under this section, the Secretary shall use the amount authorized by section 20104 of title 34 .
+
+## Source Credit
+
+*([Pub. L. 93–247, title I, § 107](https://www.govinfo.gov/link/plaw/93/public/247), formerly § 10, as added [Pub. L. 100–294, title I, § 101](https://www.govinfo.gov/link/plaw/100/public/294), Apr. 25, 1988, [102 Stat. 113](https://www.govinfo.gov/link/statute/102/113); renumbered title I, § 109, and amended [Pub. L. 101–126, § 3(a)(1)](https://www.govinfo.gov/link/plaw/101/public/126), (2), (b)(5), Oct. 25, 1989, [103 Stat. 764](https://www.govinfo.gov/link/statute/103/764), 765; [Pub. L. 102–295, title I, § 116(a)](https://www.govinfo.gov/link/plaw/102/public/295), May 28, 1992, [106 Stat. 195](https://www.govinfo.gov/link/statute/106/195); renumbered § 107 and amended [Pub. L. 104–235, title I, § 113(a)(1)(B)](https://www.govinfo.gov/link/plaw/104/public/235), (2), Oct. 3, 1996, [110 Stat. 3079](https://www.govinfo.gov/link/statute/110/3079); [Pub. L. 108–36, title I, § 115](https://www.govinfo.gov/link/plaw/108/public/36), June 25, 2003, [117 Stat. 812](https://www.govinfo.gov/link/statute/117/812); [Pub. L. 111–320, title I, § 116](https://www.govinfo.gov/link/plaw/111/public/320), Dec. 20, 2010, [124 Stat. 3474](https://www.govinfo.gov/link/statute/124/3474).)*

@@ -3,9 +3,10 @@ title: "Section 77v - Jurisdiction of offenses and suits"
 usc_title: 15
 usc_section: "77v"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 77v"
-generated_at: "2026-03-30T02:54:08.034Z"
+generated_at: "2026-11-23T20:26:03.447Z"
+status: "active"
 ---
 
 # § 77v. Jurisdiction of offenses and suits
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:08.034Z"
 - **(c)** The district courts of the United States and the United States courts of any Territory shall have jurisdiction of an action or proceeding brought or instituted by the Commission or the United States alleging a violation of section 77q(a) of this title involving—
   - **(1)** conduct within the United States that constitutes significant steps in furtherance of the violation, even if the securities transaction occurs outside the United States and involves only foreign investors; or
   - **(2)** conduct occurring outside the United States that has a foreseeable substantial effect within the United States.
+
+## Source Credit
+
+*(May 27, 1933, ch. 38, title I, § 22, [48 Stat. 86](https://www.govinfo.gov/link/statute/48/86); June 25, 1936, ch. 804, [49 Stat. 1921](https://www.govinfo.gov/link/statute/49/1921); June 25, 1948, ch. 646, § 32(b), [62 Stat. 991](https://www.govinfo.gov/link/statute/62/991); May 24, 1949, ch. 139, § 127, [63 Stat. 107](https://www.govinfo.gov/link/statute/63/107); Aug. 10, 1954, ch. 667, title I, § 11, [68 Stat. 686](https://www.govinfo.gov/link/statute/68/686); [Pub. L. 91–452, title II, § 213](https://www.govinfo.gov/link/plaw/91/public/452), Oct. 15, 1970, [84 Stat. 929](https://www.govinfo.gov/link/statute/84/929); [Pub. L. 100–181, title II, § 209](https://www.govinfo.gov/link/plaw/100/public/181), Dec. 4, 1987, [101 Stat. 1253](https://www.govinfo.gov/link/statute/101/1253); [Pub. L. 105–353, title I, § 101(a)(3)](https://www.govinfo.gov/link/plaw/105/public/353), Nov. 3, 1998, [112 Stat. 3230](https://www.govinfo.gov/link/statute/112/3230); [Pub. L. 111–203, title IX](https://www.govinfo.gov/link/plaw/111/public/203), §§ 929E(a), 929P(b)(1), July 21, 2010, [124 Stat. 1853](https://www.govinfo.gov/link/statute/124/1853), 1864.)*

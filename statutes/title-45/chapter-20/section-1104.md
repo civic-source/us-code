@@ -3,9 +3,10 @@ title: "Section 1104 - Definitions"
 usc_title: 45
 usc_section: "1104"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 1104"
-generated_at: "2026-03-30T02:55:56.559Z"
+generated_at: "2026-11-23T20:27:05.334Z"
+status: "active"
 ---
 
 # § 1104. Definitions
@@ -20,3 +21,7 @@ As used in this subtitle, unless the context otherwise requires, the term:
   - **(6)** “Rail carrier” means a common carrier engaged in interstate or foreign commerce by rail subject to subtitle IV of title 49.
   - **(7)** “Secretary” means the Secretary of Transportation.
   - **(8)** “Special court” means the judicial panel established under section 209(b)(1) of the Regional Rail Reorganization Act of 1973 ( 45 U.S.C. 719(b)(1) ) or, with respect to any proceedings that arise or continue after the panel is abolished pursuant to section 209(b)(2) of such Act [ 45 U.S.C. 719(b)(2) ], the United States District Court for the District of Columbia.
+
+## Source Credit
+
+*([Pub. L. 97–35, title XI, § 1135(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 645](https://www.govinfo.gov/link/statute/95/645); [Pub. L. 104–317, title VI, § 605(c)(3)](https://www.govinfo.gov/link/plaw/104/public/317), Oct. 19, 1996, [110 Stat. 3859](https://www.govinfo.gov/link/statute/110/3859).)*

@@ -3,9 +3,10 @@ title: "Section 49f - Percentage disposition of allotted funds"
 usc_title: 29
 usc_section: "49f"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 49f"
-generated_at: "2026-03-30T02:55:18.674Z"
+generated_at: "2026-11-23T20:26:37.772Z"
+status: "active"
 ---
 
 # § 49f. Percentage disposition of allotted funds
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:18.674Z"
   - **(2)** For purposes of this subsection, the term “applicable program” means any workforce investment activity carried out under the Workforce Innovation and Opportunity Act.
 - **(d)** In addition to the services and activities otherwise authorized by this chapter, the Secretary or any State agency designated under this chapter may perform such other services and activities as shall be specified in contracts for payment or reimbursement of the costs thereof made with the Secretary or with any Federal, State, or local public agency, or administrative entity under the Workforce Innovation and Opportunity Act, or private nonprofit organization.
 - **(e)** All job search, placement, recruitment, workforce and labor market information, and other labor exchange services authorized under subsection (a) shall be provided, consistent with the other requirements of this chapter, as part of the one-stop delivery system established by the State.
+
+## Source Credit
+
+*(June 6, 1933, ch. 49, § 7, as added [Pub. L. 97–300, title VI, § 601(c)](https://www.govinfo.gov/link/plaw/97/public/300), formerly title V, § 501(c), Oct. 13, 1982, [96 Stat. 1394](https://www.govinfo.gov/link/statute/96/1394); renumbered title VI, § 601(c), [Pub. L. 100–628, title VII, § 712(a)(1)](https://www.govinfo.gov/link/plaw/100/public/628), (2), Nov. 7, 1988, [102 Stat. 3248](https://www.govinfo.gov/link/statute/102/3248); amended [Pub. L. 101–392, § 5(b)](https://www.govinfo.gov/link/plaw/101/public/392), Sept. 25, 1990, [104 Stat. 759](https://www.govinfo.gov/link/statute/104/759); [Pub. L. 105–220, title III](https://www.govinfo.gov/link/plaw/105/public/220), §§ 305, 310, Aug. 7, 1998, [112 Stat. 1081](https://www.govinfo.gov/link/statute/112/1081), 1086; [Pub. L. 113–128, title III, § 305](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1626](https://www.govinfo.gov/link/statute/128/1626).)*

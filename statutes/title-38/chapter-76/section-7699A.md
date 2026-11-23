@@ -3,9 +3,10 @@ title: "Section 7699A - Obligated service"
 usc_title: 38
 usc_section: "7699A"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7699A"
-generated_at: "2026-03-30T02:55:53.535Z"
+generated_at: "2026-11-23T20:27:02.051Z"
+status: "active"
 ---
 
 # § 7699A. Obligated service
@@ -14,3 +15,11 @@ generated_at: "2026-03-30T02:55:53.535Z"
 - **(b)**
   - **(1)** Not later than 60 days before the service commencement date of a participant, the Secretary shall notify the participant of that service commencement date.
   - **(2)** The date specified in paragraph (1) with respect to a participant is the date for the beginning of the period of obligated service of the participant.
+
+In General
+
+Determination of Service Commencement Date
+
+## Source Credit
+
+*(Added [Pub. L. 116–171, title V, § 502(a)](https://www.govinfo.gov/link/plaw/116/public/171), Oct. 17, 2020, [134 Stat. 816](https://www.govinfo.gov/link/statute/134/816).)*

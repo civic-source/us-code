@@ -3,9 +3,10 @@ title: "Section 3164 - Procedural requirements"
 usc_title: 16
 usc_section: "3164"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3164"
-generated_at: "2026-03-30T02:54:23.010Z"
+generated_at: "2026-11-23T20:26:20.633Z"
+status: "active"
 ---
 
 # § 3164. Procedural requirements
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:54:23.010Z"
     - **(F)** any impacts that would affect the purposes for which the Federal unit or area concerned was established;
     - **(G)** measures which should be instituted to avoid or minimize negative impacts; and
     - **(H)** the short- and long-term public values which may be adversely affected by approval of the transportation or utility system versus the short- and long-term public benefits which may accrue from such approval.
+
+## Source Credit
+
+*([Pub. L. 96–487, title XI, § 1104](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2459](https://www.govinfo.gov/link/statute/94/2459).)*

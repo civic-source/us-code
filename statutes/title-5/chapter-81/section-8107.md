@@ -3,9 +3,10 @@ title: "Section 8107 - Compensation schedule"
 usc_title: 5
 usc_section: "8107"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8107"
-generated_at: "2026-03-30T02:52:56.041Z"
+generated_at: "2026-11-23T20:25:32.084Z"
+status: "active"
 ---
 
 # § 8107. Compensation schedule
@@ -42,3 +43,46 @@ generated_at: "2026-03-30T02:52:56.041Z"
   - **(20)** In case of loss of use of more than one member or parts of more than one member as enumerated by this schedule, the compensation is for loss of use of each member or part thereof, and the awards run consecutively. However, when the injury affects only two or more digits of the same hand or foot, paragraph (17) of this subsection applies, and when partial bilateral loss of hearing is involved, compensation is computed on the loss as affecting both ears.
   - **(21)** For serious disfigurement of the face, head, or neck of a character likely to handicap an individual in securing or maintaining employment, proper and equitable compensation not to exceed $3,500 shall be awarded in addition to any other compensation payable under this schedule.
   - **(22)** For permanent loss or loss of use of any other important external or internal organ of the body as determined by the Secretary, proper and equitable compensation not to exceed 312 weeks’ compensation for each organ so determined shall be paid in addition to any other compensation payable under this schedule.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 755(a) , (b). | Sept. 7, 1916, ch. 458, § 5 , 39 Stat. 743 . |
+|  |  | Oct. 14, 1949, ch. 691, § 104 “Sec. 5(a), (b)”, 63 Stat. 855 . |
+|  |  | Sept. 13, 1960 , Pub. L. 86–767, § 201 , 74 Stat. 907 . |
+
+| 1967 Act | Col 2 | Col 3 |
+| --- | --- | --- |
+| 8107(a), (b). | 5 App.: 755(a), (b). | July 4, 1966 , Pub. L. 89–488, § 2(a) , (b), 80 Stat. 252 . |
+
+
+Historical and Revision Notes
+
+Act
+
+5 U.S.C. 755(a)
+
+Sept. 7, 1916, ch. 458, § 5
+
+39 Stat. 743
+
+Oct. 14, 1949, ch. 691, § 104
+
+63 Stat. 855
+
+Sept. 13, 1960
+
+Pub. L. 86–767, § 201
+
+74 Stat. 907
+
+Act
+
+July 4, 1966
+
+Pub. L. 89–488, § 2(a)
+
+80 Stat. 252
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 536](https://www.govinfo.gov/link/statute/80/536); [Pub. L. 90–83, § 1(50)](https://www.govinfo.gov/link/plaw/90/public/83), Sept. 11, 1967, [81 Stat. 210](https://www.govinfo.gov/link/statute/81/210); [Pub. L. 93–416](https://www.govinfo.gov/link/plaw/93/public/416), §§ 4, 5, Sept. 7, 1974, [88 Stat. 1144](https://www.govinfo.gov/link/statute/88/1144), 1145.)*

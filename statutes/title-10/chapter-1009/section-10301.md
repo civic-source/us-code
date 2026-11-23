@@ -3,9 +3,10 @@ title: "Section 10301 - Reserve Forces Policy Board"
 usc_title: 10
 usc_section: "10301"
 chapter: 1009
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 10301"
-generated_at: "2026-03-30T02:53:38.265Z"
+generated_at: "2026-11-23T20:25:52.385Z"
+status: "active"
 ---
 
 # § 10301. Reserve Forces Policy Board
@@ -38,3 +39,19 @@ generated_at: "2026-03-30T02:53:38.265Z"
 - **(d)** The Board may act on those matters referred to it by the chair and on any matter raised by a member of the Board or the Secretary of Defense.
 - **(e)** The Board shall be supported by a staff consisting of one full-time officer from each of the reserve components listed in paragraphs (1) through (6) of section 10101 of this title who holds the grade of colonel (or in the case of the Navy, the grade of captain) or who has been selected for promotion to that grade. These officers shall also serve as liaisons between their respective components and the Board. They shall perform their staff and liaison duties under the supervision of the military executive officer of the Board in an independent manner reflecting the independent nature of the Board.
 - **(f)** This section does not affect the committees and boards prescribed within the military departments by sections 10302 through 10305 of this title, and a member of such a committee or board may, if otherwise eligible, be a member of the Board.
+
+In General
+
+Functions
+
+Membership
+
+Matters To Be Acted on
+
+Staff
+
+Relationship to Service Reserve Policy Committees and Boards
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1661(b)(1)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2980](https://www.govinfo.gov/link/statute/108/2980); amended [Pub. L. 107–296, title XVII, § 1704(b)(1)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314); [Pub. L. 109–163, div. A, title V, § 515(b)(1)(CC)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3233](https://www.govinfo.gov/link/statute/119/3233); [Pub. L. 111–383, div. A, title V, § 514(a)(1)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4211](https://www.govinfo.gov/link/statute/124/4211).)*

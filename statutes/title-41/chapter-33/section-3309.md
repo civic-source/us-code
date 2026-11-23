@@ -3,9 +3,10 @@ title: "Section 3309 - Design-build selection procedures"
 usc_title: 41
 usc_section: "3309"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 3309"
-generated_at: "2026-03-30T02:55:55.806Z"
+generated_at: "2026-11-23T20:27:04.426Z"
+status: "active"
 ---
 
 # § 3309. Design-build selection procedures
@@ -43,3 +44,64 @@ generated_at: "2026-03-30T02:55:55.806Z"
   - **(1)** regarding the factors that may be considered in determining whether the two-phase contracting procedures authorized by subsection (a) are appropriate for use in individual contracting situations;
   - **(2)** regarding the factors that may be used in selecting contractors; and
   - **(3)** providing for a uniform approach to be used Government-wide.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3309 | 41:253m. | June 30, 1949, ch. 288 , title III, § 303M, as added Pub. L. 104–106, div. D, title XLI, § 4105(b)(1) , Feb. 10, 1996 , 110 Stat. 647 . |
+
+
+Authorization
+
+Criteria for Use
+
+Procedures Described
+
+Development of scope of work statement
+
+Solicitation of phase-one proposals
+
+Evaluation factors
+
+Selection by contracting officer.—
+
+Number of offerors selected and what is to be evaluated
+
+Separate evaluations
+
+Awarding of contract
+
+Solicitation To State Number of Offerors To Be Selected for Phase-Two Requests for Competitive Proposals
+
+Requirement for Guidance and Regulations
+
+Historical and Revision Notes
+
+3309
+
+June 30, 1949, ch. 288
+
+Pub. L. 104–106, div. D, title XLI, § 4105(b)(1)
+
+Feb. 10, 1996
+
+110 Stat. 647
+
+Findings
+
+Reverse Auction Defined
+
+Prohibition.—
+
+In general
+
+Applicability to acquisitions above the simplified acquisition threshold
+
+Rulemaking for Complex, Specialized, or Substantial Services
+
+Rule of Construction
+
+Report
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3759](https://www.govinfo.gov/link/statute/124/3759).)*

@@ -3,9 +3,10 @@ title: "Section 3672 - Placement"
 usc_title: 22
 usc_section: "3672"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3672"
-generated_at: "2026-03-30T02:55:05.396Z"
+generated_at: "2026-11-23T20:26:32.469Z"
+status: "active"
 ---
 
 # § 3672. Placement
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:05.396Z"
   - **(3)** who is not appointed to another appropriate position in the Government of the United States in the Republic of Panama;
 - **(c)** The Office of Personnel Management shall establish and administer a Government-wide placement program for all eligible employees who request appointment to positions under this section.
 - **(d)** The provisions of this section shall take effect on September 27, 1979 .
+
+## Source Credit
+
+*([Pub. L. 96–70, title I, § 1232](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 470](https://www.govinfo.gov/link/statute/93/470).)*

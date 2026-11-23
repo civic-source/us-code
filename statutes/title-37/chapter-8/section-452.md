@@ -3,9 +3,10 @@ title: "Section 452 - Allowable travel and transportation: general authorities"
 usc_title: 37
 usc_section: "452"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "37 U.S.C. § 452"
-generated_at: "2026-03-30T02:55:44.058Z"
+generated_at: "2026-11-23T20:26:57.415Z"
+status: "active"
 ---
 
 # § 452. Allowable travel and transportation: general authorities
@@ -62,3 +63,27 @@ generated_at: "2026-03-30T02:55:44.058Z"
     - **(A)** shall be established not later than 30 days after the date on which the permanent duty assignment of the member begins; and
     - **(B)** may not be re-established until after the member receives subsequent orders for a permanent change of assignment.
   - **(3)** In the case of a member whose permanent residence changes after the date described in subparagraph (A) of paragraph (2) and before the member receives orders described in subparagraph (B) of such paragraph, the Secretary concerned may provide the member expenses described in paragraph (1) or such other reimbursement as the Secretary determines appropriate if the member travels more than 50 miles from the new permanent residence of the member for training described in paragraph (9) of subsection (b) or duty described in paragraph (10) of such subsection.
+
+In General
+
+Specific Circumstances
+
+Matters Included
+
+Mode of Providing Travel and Transportation Allowances
+
+Travel and Transportation Allowances When Travel Orders Are Modified, etc
+
+Advance Payments
+
+Responsibility for Unauthorized Expenses
+
+Relationship to Other Authorities
+
+Dependent Transportation Incident to Ship Construction, Inactivation, and Overhauling
+
+Travel for Inactive-duty Training and Muster Duty
+
+## Source Credit
+
+*(Added [Pub. L. 112–81, div. A, title VI, § 631(b)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1455](https://www.govinfo.gov/link/statute/125/1455); amended [Pub. L. 116–92, div. A, title VI, § 607(b)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1425](https://www.govinfo.gov/link/statute/133/1425); [Pub. L. 116–283, div. A, title VI, § 605](https://www.govinfo.gov/link/plaw/116/public/283), title XII, § 1299N, Jan. 1, 2021, [134 Stat. 3672](https://www.govinfo.gov/link/statute/134/3672), 4016; [Pub. L. 117–81, div. A, title VI](https://www.govinfo.gov/link/plaw/117/public/81), §§ 603(c)(1), (d)(1), 623, Dec. 27, 2021, [135 Stat. 1766](https://www.govinfo.gov/link/statute/135/1766), 1767, 1772; [Pub. L. 117–263, div. A, title VI, § 621](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2625](https://www.govinfo.gov/link/statute/136/2625); [Pub. L. 118–159, div. A, title VI, § 623(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1933](https://www.govinfo.gov/link/statute/138/1933).)*

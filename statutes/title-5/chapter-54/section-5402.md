@@ -3,9 +3,10 @@ title: "Section 5402 - Definitions"
 usc_title: 5
 usc_section: "5402"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 5402"
-generated_at: "2026-03-30T02:52:56.017Z"
+generated_at: "2026-11-23T20:25:31.919Z"
+status: "active"
 ---
 
 # § 5402. Definitions
@@ -24,3 +25,7 @@ For the purpose of this chapter—
       - **(v)** an administrative appeals judge paid under section 5372b; and
       - **(vi)** an individual in a position which is excepted from the competitive service because of its confidential, policy-determining, policy-making, or policy-advocating character; and
   - **(3)** “Office” means the Office of Personnel Management.
+
+## Source Credit
+
+*(Added [Pub. L. 108–136, div. A, title XI, § 1129(a)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1642](https://www.govinfo.gov/link/statute/117/1642); amended [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814).)*

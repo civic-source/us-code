@@ -3,9 +3,10 @@ title: "Section 5757 - Extended assignment incentive"
 usc_title: 5
 usc_section: "5757"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 5757"
-generated_at: "2026-03-30T02:52:56.026Z"
+generated_at: "2026-11-23T20:25:31.985Z"
+status: "active"
 ---
 
 # § 5757. 1 1 Another section 5757 is set out preceding this section. Extended assignment incentive
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:52:56.026Z"
 - **(d)** An agency may not put an extended assignment incentive into effect during a period in which the employee is fulfilling a recruitment or relocation bonus service agreement under section 5753 or for which an employee is receiving a retention allowance under section 5754.
 - **(e)** Extended assignment incentive payments may not be considered part of the basic pay of an employee.
 - **(f)** The Office of Personnel Management may prescribe regulations for the administration of this section, including regulations on an employee’s entitlement to retain or receive incentive payments when an agreement is canceled. Neither this section nor implementing regulations may impair any agency’s independent authority to administratively determine compensation for a class of its employees.
+
+## Source Credit
+
+*(Added [Pub. L. 107–273, div. A, title II, § 207(a)(1)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1779](https://www.govinfo.gov/link/statute/116/1779).)*

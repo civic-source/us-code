@@ -3,9 +3,10 @@ title: "Section 2151 - Analysis of pensions"
 usc_title: 48
 usc_section: "2151"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 2151"
-generated_at: "2026-03-30T02:56:14.604Z"
+generated_at: "2026-11-23T20:27:28.201Z"
+status: "active"
 ---
 
 # § 2151. Analysis of pensions
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:14.604Z"
   - **(3)** a review of the existing benefits and their sustainability; and
   - **(4)** a review of the system’s legal structure and operational arrangements, and any other studies of the pension system the Oversight Board shall deem necessary.
 - **(c)** In any case, the analysis conducted under subsection (a) shall include information regarding the fair market value and liabilities using an appropriate discount rate as determined by the Oversight Board.
+
+## Source Credit
+
+*([Pub. L. 114–187, title II, § 211](https://www.govinfo.gov/link/plaw/114/public/187), June 30, 2016, [130 Stat. 576](https://www.govinfo.gov/link/statute/130/576).)*

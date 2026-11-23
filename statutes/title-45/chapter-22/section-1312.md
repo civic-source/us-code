@@ -3,9 +3,10 @@ title: "Section 1312 - Public offering"
 usc_title: 45
 usc_section: "1312"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 1312"
-generated_at: "2026-03-30T02:55:56.561Z"
+generated_at: "2026-11-23T20:27:05.343Z"
+status: "active"
 ---
 
 # § 1312. Public offering
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:56.561Z"
   - **(1)** The level of any investment banking firm’s participation in the public offering shall be consistent with that firm’s financial capabilities.
   - **(2)** No investment banking firm which was not in existence on September 1, 1986 , shall participate in the public offering.
 - **(h)** The Government Accountability Office may make such audits as may be deemed appropriate by the Comptroller General of the United States of all accounts, books, records, memoranda, correspondence, and other documents and transactions of the Corporation and the co-lead managers associated with the public offering. The co-lead managers shall agree, in writing, to allow the Government Accountability Office to make such audits. The Government Accountability Office shall report the results of all such audits to the Congress.
+
+## Source Credit
+
+*([Pub. L. 99–509, title IV, § 4012](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1896](https://www.govinfo.gov/link/statute/100/1896); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814).)*

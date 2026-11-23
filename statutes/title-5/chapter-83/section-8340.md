@@ -3,9 +3,10 @@ title: "Section 8340 - Cost-of-living adjustment of annuities"
 usc_title: 5
 usc_section: "8340"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8340"
-generated_at: "2026-03-30T02:52:56.050Z"
+generated_at: "2026-11-23T20:25:32.163Z"
+status: "active"
 ---
 
 # § 8340. Cost-of-living adjustment of annuities
@@ -34,3 +35,69 @@ generated_at: "2026-03-30T02:52:56.050Z"
       - **(i)** beginning on the date the annuity commenced (or, in the case of a survivor of the retired employee or Member, the date the employee’s or Member’s annuity commenced), and
       - **(ii)** ending on the effective date of the adjustment under this section.
   - **(2)** For the purposes of paragraph (1) of this subsection, “pay” means the rate of salary or basic pay as payable under any provision of law, including any provision of law limiting the expenditure of appropriated funds.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 2268 . | July 31, 1956, ch. 804, § 401 “Sec. 18”; added Oct. 11, 1962 , Pub. L. 87–793, § 1102(b) (less so much as redesignated § 18 as 19), 76 Stat. 869 . |
+
+| 1967 Act | Col 2 | Col 3 |
+| --- | --- | --- |
+| 8340(a) 8340(b) 8340(c) 8340(d) | 5 App.: 2268(a), (f). 5 App.: 2268(b). 5 App.: 2268(c). 5 App.: 2268(d). | Sept. 27, 1965 , Pub. L. 89–205, § 1(c) , 79 Stat. 840 . Nov. 1, 1965 , Pub. L. 89–314, § 1 , 79 Stat. 1162 . |
+| 8340(e) 8340(f) | 5 App.: 2268(e). 5 App.: 2268(g). | July 18, 1966 , Pub. L. 89–504, § 507 , 80 Stat. 302 . |
+
+
+Historical and Revision Notes
+
+Act
+
+5 U.S.C. 2268
+
+July 31, 1956, ch. 804, § 401
+
+Oct. 11, 1962
+
+Pub. L. 87–793, § 1102(b)
+
+76 Stat. 869
+
+Act
+
+8340(a)
+
+8340(b)
+
+8340(c)
+
+8340(d)
+
+Sept. 27, 1965
+
+Pub. L. 89–205, § 1(c)
+
+79 Stat. 840
+
+Nov. 1, 1965
+
+Pub. L. 89–314, § 1
+
+79 Stat. 1162
+
+8340(e)
+
+8340(f)
+
+July 18, 1966
+
+Pub. L. 89–504, § 507
+
+80 Stat. 302
+
+Applicability
+
+Delay in Effective Date of Adjustments
+
+Rule of Construction
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 576](https://www.govinfo.gov/link/statute/80/576); [Pub. L. 90–83, § 1(79)](https://www.govinfo.gov/link/plaw/90/public/83), Sept. 11, 1967, [81 Stat. 215](https://www.govinfo.gov/link/statute/81/215); [Pub. L. 91–93, title II, § 204](https://www.govinfo.gov/link/plaw/91/public/93), Oct. 20, 1969, [83 Stat. 139](https://www.govinfo.gov/link/statute/83/139); [Pub. L. 93–136, § 1](https://www.govinfo.gov/link/plaw/93/public/136), Oct. 24, 1973, [87 Stat. 490](https://www.govinfo.gov/link/statute/87/490); [Pub. L. 94–126, § 2(b)](https://www.govinfo.gov/link/plaw/94/public/126), Nov. 12, 1975, [89 Stat. 679](https://www.govinfo.gov/link/statute/89/679); [Pub. L. 94–183, § 2(35)](https://www.govinfo.gov/link/plaw/94/public/183), Dec. 31, 1975, [89 Stat. 1058](https://www.govinfo.gov/link/statute/89/1058); [Pub. L. 94–440, title XIII, § 1306(a)](https://www.govinfo.gov/link/plaw/94/public/440), (c)(1), Oct. 1, 1976, [90 Stat. 1462](https://www.govinfo.gov/link/statute/90/1462); [Pub. L. 95–454, title IX, § 906(a)(2)](https://www.govinfo.gov/link/plaw/95/public/454), (3), Oct. 13, 1978, [92 Stat. 1224](https://www.govinfo.gov/link/statute/92/1224); [Pub. L. 96–499, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/96/public/499), Dec. 5, 1980, [94 Stat. 2605](https://www.govinfo.gov/link/statute/94/2605); [Pub. L. 97–35, title XVII, § 1702(a)](https://www.govinfo.gov/link/plaw/97/public/35), (b), Aug. 13, 1981, [95 Stat. 754](https://www.govinfo.gov/link/statute/95/754); [Pub. L. 97–253, title III](https://www.govinfo.gov/link/plaw/97/public/253), §§ 304(a), 309(a), Sept. 8, 1982, [96 Stat. 795](https://www.govinfo.gov/link/statute/96/795), 798; [Pub. L. 98–270, title II, § 201(a)](https://www.govinfo.gov/link/plaw/98/public/270), Apr. 18, 1984, [98 Stat. 157](https://www.govinfo.gov/link/statute/98/157); [Pub. L. 98–369, div. B, title II, § 2201(b)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1058](https://www.govinfo.gov/link/statute/98/1058); [Pub. L. 99–251, title II, § 204](https://www.govinfo.gov/link/plaw/99/public/251), Feb. 27, 1986, [100 Stat. 25](https://www.govinfo.gov/link/statute/100/25).)*

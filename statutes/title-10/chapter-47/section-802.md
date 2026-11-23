@@ -3,9 +3,10 @@ title: "Section 802 - Art. 2. Persons subject to this chapter"
 usc_title: 10
 usc_section: "802"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 802"
-generated_at: "2026-03-30T02:53:38.076Z"
+generated_at: "2026-11-23T20:25:51.057Z"
+status: "active"
 ---
 
 # § 802. Art. 2. Persons subject to this chapter
@@ -52,3 +53,36 @@ generated_at: "2026-03-30T02:53:38.076Z"
     - **(A)** be sentenced to confinement; or
     - **(B)** be required to serve a punishment consisting of any restriction on liberty during a period other than a period of inactive-duty training or active duty (other than active duty ordered under paragraph (1)).
 - **(e)** The provisions of this section are subject to section 876b(d)(2) of this title (article 76b(d)(2)).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 802 | 50:552. | May 5, 1950, ch. 169, § 1 (Art. 2), 64 Stat. 109 . |
+
+| 1962 Act | Col 2 | Col 3 |
+| --- | --- | --- |
+| 802(11), (12) | 50:552(11) and (12). | Aug. 1, 1956, ch. 852, § 23 , 70 Stat. 911 . |
+
+
+Historical and Revision Notes
+
+Act
+
+802
+
+May 5, 1950, ch. 169, § 1
+
+64 Stat. 109
+
+Act
+
+802(11), (12)
+
+Aug. 1, 1956, ch. 852, § 23
+
+70 Stat. 911
+
+“Except as provided in sections 802(b), 805(c), and 807(b) [set out as notes under sections 850a, 843, and 806, respectively, of this title], this title and the amendments made by this title [enacting section 850a of this title , amending this section and sections 803, 806, 825, 843, 860, 936, and 937 of this title, and enacting provisions set out as notes under this section and sections 801, 806, 825, 843, 850a, and 860 of this title] shall take effect on the earlier of—
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 37; [Pub. L. 86–70, § 6(b)](https://www.govinfo.gov/link/plaw/86/public/70), June 25, 1959, [73 Stat. 142](https://www.govinfo.gov/link/statute/73/142); [Pub. L. 86–624, § 4(b)](https://www.govinfo.gov/link/plaw/86/public/624), July 12, 1960, [74 Stat. 411](https://www.govinfo.gov/link/statute/74/411); [Pub. L. 87–651, title I, § 104](https://www.govinfo.gov/link/plaw/87/public/651), Sept. 7, 1962, [76 Stat. 508](https://www.govinfo.gov/link/statute/76/508); [Pub. L. 89–718, § 8(a)](https://www.govinfo.gov/link/plaw/89/public/718), Nov. 2, 1966, [80 Stat. 1117](https://www.govinfo.gov/link/statute/80/1117); [Pub. L. 96–107, title VIII, § 801(a)](https://www.govinfo.gov/link/plaw/96/public/107), Nov. 9, 1979, [93 Stat. 810](https://www.govinfo.gov/link/statute/93/810); [Pub. L. 96–513, title V, § 511(24)](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2922](https://www.govinfo.gov/link/statute/94/2922); [Pub. L. 98–209, § 13(a)](https://www.govinfo.gov/link/plaw/98/public/209), Dec. 6, 1983, [97 Stat. 1408](https://www.govinfo.gov/link/statute/97/1408); [Pub. L. 99–661, div. A, title VIII, § 804(a)](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 3906](https://www.govinfo.gov/link/statute/100/3906); [Pub. L. 100–456, div. A, title XII, § 1234(a)(1)](https://www.govinfo.gov/link/plaw/100/public/456), Sept. 29, 1988, [102 Stat. 2059](https://www.govinfo.gov/link/statute/102/2059); [Pub. L. 104–106, div. A, title XI, § 1133(b)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 466](https://www.govinfo.gov/link/statute/110/466); [Pub. L. 109–364, div. A, title V, § 552](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2217](https://www.govinfo.gov/link/statute/120/2217); [Pub. L. 109–366, § 4(a)(1)](https://www.govinfo.gov/link/plaw/109/public/366), Oct. 17, 2006, [120 Stat. 2631](https://www.govinfo.gov/link/statute/120/2631); [Pub. L. 111–84, div. A, title XVIII, § 1803(a)(1)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2612](https://www.govinfo.gov/link/statute/123/2612); [Pub. L. 113–66, div. A, title XVII, § 1702(c)(3)(A)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 957](https://www.govinfo.gov/link/statute/127/957); [Pub. L. 114–328, div. E, title LI, § 5102](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2894](https://www.govinfo.gov/link/statute/130/2894); [Pub. L. 118–31, div. A, title XVII, § 1722(f)(1)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 671](https://www.govinfo.gov/link/statute/137/671); [Pub. L. 118–159, div. A, title V, § 561](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1903](https://www.govinfo.gov/link/statute/138/1903).)*

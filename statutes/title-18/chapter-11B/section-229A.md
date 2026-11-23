@@ -3,9 +3,10 @@ title: "Section 229A - Penalties"
 usc_title: 18
 usc_section: "229A"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 229A"
-generated_at: "2026-03-30T02:54:16.460Z"
+generated_at: "2026-11-23T20:26:08.351Z"
+status: "active"
 ---
 
 # § 229A. Penalties
@@ -17,3 +18,21 @@ generated_at: "2026-03-30T02:54:16.460Z"
   - **(1)** The Attorney General may bring a civil action in the appropriate United States district court against any person who violates section 229 of this title and, upon proof of such violation by a preponderance of the evidence, such person shall be subject to pay a civil penalty in an amount not to exceed $100,000 for each such violation.
   - **(2)** The imposition of a civil penalty under this subsection does not preclude any other criminal or civil statutory, common law, or administrative remedy, which is available by law to the United States or any other person.
 - **(c)** The court shall order any person convicted of an offense under subsection (a) to reimburse the United States for any expenses incurred by the United States incident to the seizure, storage, handling, transportation, and destruction or other disposition of any property that was seized in connection with an investigation of the commission of the offense by that person. A person ordered to reimburse the United States for expenses under this subsection shall be jointly and severally liable for such expenses with each other person, if any, who is ordered under this subsection to reimburse the United States for the same expenses.
+
+Criminal Penalties.—
+
+In general
+
+Death penalty
+
+Civil Penalties.—
+
+In general
+
+Relation to other proceedings
+
+Reimbursement of Costs
+
+## Source Credit
+
+*(Added [Pub. L. 105–277, div. I, title II, § 201(a)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–867](https://www.govinfo.gov/link/statute/112/2681).)*

@@ -3,9 +3,10 @@ title: "Section 8243 - Duties of Secretary"
 usc_title: 42
 usc_section: "8243"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8243"
-generated_at: "2026-03-30T02:56:11.337Z"
+generated_at: "2026-11-23T20:27:23.012Z"
+status: "active"
 ---
 
 # § 8243. Duties of Secretary
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.337Z"
 - **(b)** Proposals under paragraph (1)(A) of subsection (a) shall include a list of the specific Federal buildings proposed to be provided with solar energy equipment, the funds necessary for the acquisition and installation of such equipment, the proposed implementation schedule, maintenance costs, the estimated savings in fossil fuels and electricity, the estimated payback time, and such other information as may be required by the Secretary.
 - **(c)** Under the requirements established under subsection (a)(1)(A), initial proposals for the installation of solar energy equipment in Federal buildings selected under subsection (a)(1)(A) shall be submitted not later than 180 days after the date of promulgation of the rule under subsection (a)(1).
 - **(d)** In order to more widely disseminate information about the program under this part and under part B and the benefits of renewable energy and energy efficiency technology, the Secretary shall establish a program which includes site visits and technical briefings, to disseminate such information to Federal procurement officers and Federal loan officers. The Secretary shall utilize available funds for the program under this subsection.
+
+## Source Credit
+
+*([Pub. L. 95–619, title V, § 523](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3276](https://www.govinfo.gov/link/statute/92/3276); [Pub. L. 101–218, § 8(a)](https://www.govinfo.gov/link/plaw/101/public/218), Dec. 11, 1989, [103 Stat. 1868](https://www.govinfo.gov/link/statute/103/1868).)*

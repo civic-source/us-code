@@ -3,9 +3,10 @@ title: "Section 14305 - Optional regulatory measurement"
 usc_title: 46
 usc_section: "14305"
 chapter: 143
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 14305"
-generated_at: "2026-03-30T02:56:15.560Z"
+generated_at: "2026-11-23T20:27:27.191Z"
+status: "active"
 ---
 
 # § 14305. Optional regulatory measurement
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:15.560Z"
   - **(14)** provisions of law establishing the threshold tonnage levels at which evidence of financial responsibility must be demonstrated; or
   - **(15)** unless otherwise provided by law, any other law of the United States in effect before July 19, 1994 , and not listed by the Secretary under section 14302(c) of this title .
 - **(b)** As long as the owner of a vessel has a request in effect under subsection (a) of this section, the tonnages determined under that request shall be used in applying the other provisions of law described in subsection (a) to that vessel.
+
+## Source Credit
+
+*([Pub. L. 99–509, title V, § 5101(3)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1921](https://www.govinfo.gov/link/statute/100/1921); [Pub. L. 109–304, § 15(26)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1704](https://www.govinfo.gov/link/statute/120/1704); [Pub. L. 111–281, title III, § 303(f)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2925](https://www.govinfo.gov/link/statute/124/2925); [Pub. L. 116–283, div. G, title LVXXXV](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXV], § 8503(a)(2), Jan. 1, 2021, [134 Stat. 4747](https://www.govinfo.gov/link/statute/134/4747); [Pub. L. 117–263, div. K, title CXV, § 11503(f)(1)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4131](https://www.govinfo.gov/link/statute/136/4131).)*

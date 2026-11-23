@@ -3,9 +3,10 @@ title: "Section 6813 - Relation to other laws and fee collection authorities"
 usc_title: 16
 usc_section: "6813"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6813"
-generated_at: "2026-03-30T02:54:23.070Z"
+generated_at: "2026-11-23T20:26:20.821Z"
+status: "active"
 ---
 
 # § 6813. Relation to other laws and fee collection authorities
@@ -32,3 +33,11 @@ generated_at: "2026-03-30T02:54:23.070Z"
 - **(d)** Recreation fees charged under this chapter shall be in lieu of fees charged for the same purposes under any other provision of law.
 - **(e)** Notwithstanding any other provision of this chapter, a third party may charge a fee for providing a good or service to a visitor of a unit or area of the Federal land management agencies in accordance with any other applicable law or regulation.
 - **(f)** Revenues from the stamp established under the Act of March 16, 1934 ( 16 U.S.C. 718 et seq.; commonly known as the Migratory Bird Hunting Stamp Act or Duck Stamp Act), shall not be covered by this chapter.
+
+Forest service
+
+Forest service
+
+## Source Credit
+
+*([Pub. L. 108–447, div. J, title VIII, § 814](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3392](https://www.govinfo.gov/link/statute/118/3392).)*

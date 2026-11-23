@@ -3,9 +3,10 @@ title: "Section 118 - Scope of exclusive rights: Use of certain works in connect
 usc_title: 17
 usc_section: "118"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 118"
-generated_at: "2026-03-30T02:54:15.349Z"
+generated_at: "2026-11-23T20:26:06.501Z"
+status: "active"
 ---
 
 # § 118. Scope of exclusive rights: Use of certain works in connection with noncommercial broadcasting
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:15.349Z"
 - **(d)** Except as expressly provided in this subsection, this section shall have no applicability to works other than those specified in subsection (b). Owners of copyright in nondramatic literary works and public broadcasting entities may, during the course of voluntary negotiations, agree among themselves, respectively, as to the terms and rates of royalty payments without liability under the antitrust laws. Any such terms and rates of royalty payments shall be effective upon filing with the Copyright Royalty Judges, in accordance with regulations that the Copyright Royalty Judges shall prescribe as provided in section 803(b)(6).
 - **(e)** Nothing in this section shall be construed to permit, beyond the limits of fair use as provided by section 107, the unauthorized dramatization of a nondramatic musical work, the production of a transmission program drawn to any substantial extent from a published compilation of pictorial, graphic, or sculptural works, or the unauthorized use of any portion of an audiovisual work.
 - **(f)** As used in this section, the term “public broadcasting entity” means a noncommercial educational broadcast station as defined in section 397 of title 47 and any nonprofit institution or organization engaged in the activities described in paragraph (2) of subsection (c).
+
+## Source Credit
+
+*([Pub. L. 94–553, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/553), Oct. 19, 1976, [90 Stat. 2565](https://www.govinfo.gov/link/statute/90/2565); [Pub. L. 103–198, § 4](https://www.govinfo.gov/link/plaw/103/public/198), Dec. 17, 1993, [107 Stat. 2309](https://www.govinfo.gov/link/statute/107/2309); [Pub. L. 106–44, § 1(g)(3)](https://www.govinfo.gov/link/plaw/106/public/44), Aug. 5, 1999, [113 Stat. 222](https://www.govinfo.gov/link/statute/113/222); [Pub. L. 107–273, div. C, title III, § 13210(7)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1909](https://www.govinfo.gov/link/statute/116/1909); [Pub. L. 108–419, § 5(f)](https://www.govinfo.gov/link/plaw/108/public/419), Nov. 30, 2004, [118 Stat. 2365](https://www.govinfo.gov/link/statute/118/2365); [Pub. L. 109–303, § 4(d)](https://www.govinfo.gov/link/plaw/109/public/303), Oct. 6, 2006, [120 Stat. 1482](https://www.govinfo.gov/link/statute/120/1482).)*

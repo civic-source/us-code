@@ -3,9 +3,10 @@ title: "Section 2739 - Amounts recovered from third parties for loss or damage t
 usc_title: 10
 usc_section: "2739"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2739"
-generated_at: "2026-03-30T02:53:38.175Z"
+generated_at: "2026-11-23T20:25:51.698Z"
+status: "active"
 ---
 
 # § 2739. Amounts recovered from third parties for loss or damage to personal property shipped or stored at Government expense: crediting to appropriations
@@ -13,3 +14,13 @@ generated_at: "2026-03-30T02:53:38.175Z"
 - **(a)** Any qualifying military department third-party collection shall be credited to the appropriate current appropriation. Amounts so credited shall be merged with the funds in that appropriation and shall be available for the same period and purposes as the funds with which merged.
 - **(b)** For purposes of subsection (a), the appropriate current appropriation with respect to a qualifying military department third-party collection is the appropriation currently available, as of the date of the collection, for the payment of claims by that military department for loss or damage of personal property shipped or stored at Government expense.
 - **(c)** For purposes of subsection (a), a qualifying military department third-party collection is any amount that a military department collects under sections 3711, 3716, 3717, and 3721 of title 31 from a third party for a loss or damage to personal property that occurred during shipment or storage of the property at Government expense and for which the Secretary of the military department paid the owner in settlement of a claim.
+
+Crediting of Collections
+
+Appropriate Current Appropriation
+
+Qualifying Military Department Third-Party Collections
+
+## Source Credit
+
+*(Added [Pub. L. 105–261, div. A, title X, § 1010(a)(1)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2117](https://www.govinfo.gov/link/statute/112/2117).)*

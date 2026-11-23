@@ -3,9 +3,10 @@ title: "Section 2292a - National coastal mapping program"
 usc_title: 33
 usc_section: "2292a"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2292a"
-generated_at: "2026-03-30T02:55:41.120Z"
+generated_at: "2026-11-23T20:26:54.164Z"
+status: "active"
 ---
 
 # § 2292a. National coastal mapping program
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:41.120Z"
   - **(8)** may maintain the panel of senior leaders established under section 8110(e) of the Water Resources Development Act of 2022; and
   - **(9)** may convene an annual coastal mapping community of practice meeting to discuss and identify technical topics and challenges to inform such panel in carrying out the duties of such panel.
 - **(c)** There is authorized to be appropriated to carry out this section for each fiscal year $15,000,000, to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 118–272, div. A, title I, § 1123](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3015](https://www.govinfo.gov/link/statute/138/3015).)*

@@ -3,9 +3,10 @@ title: "Section 1821 - Basic authority for trade agreements"
 usc_title: 19
 usc_section: "1821"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1821"
-generated_at: "2026-03-30T02:54:24.660Z"
+generated_at: "2026-11-23T20:26:10.885Z"
+status: "active"
 ---
 
 # § 1821. Basic authority for trade agreements
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:24.660Z"
 - **(b)** Except as otherwise provided in this subchapter, no proclamation pursuant to subsection (a) shall be made—
   - **(1)** decreasing any rate of duty to a rate below 50 percent of the rate existing on July 1, 1962 ; or
   - **(2)** increasing any rate of duty to (or imposing) a rate more than 50 percent above the rate existing on July 1, 1934 .
+
+## Source Credit
+
+*([Pub. L. 87–794, title II, § 201](https://www.govinfo.gov/link/plaw/87/public/794), Oct. 11, 1962, [76 Stat. 872](https://www.govinfo.gov/link/statute/76/872).)*

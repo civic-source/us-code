@@ -3,9 +3,10 @@ title: "Section 669a - Nonliability for financial institutions providing financi
 usc_title: 42
 usc_section: "669a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 669a"
-generated_at: "2026-03-30T02:56:10.887Z"
+generated_at: "2026-11-23T20:27:20.907Z"
+status: "active"
 ---
 
 # § 669a. Nonliability for financial institutions providing financial records to State child support enforcement agencies in child support cases
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:10.887Z"
     - **(C)** any Federal credit union or State credit union, as defined in section 1752 of title 12 , including an institution-affiliated party of such a credit union, as defined in section 1786(r) of title 12 ; and
     - **(D)** any benefit association, insurance company, safe deposit company, money-market mutual fund, or similar entity authorized to do business in the State.
   - **(2)** The term “financial record” has the meaning given such term in section 3401 of title 12 .
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 469A, as added [Pub. L. 104–193, title III, § 353](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2240](https://www.govinfo.gov/link/statute/110/2240); amended [Pub. L. 105–200, title IV, § 406(c)](https://www.govinfo.gov/link/plaw/105/public/200), July 16, 1998, [112 Stat. 672](https://www.govinfo.gov/link/statute/112/672).)*

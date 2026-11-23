@@ -3,9 +3,10 @@ title: "Section 2371 - Plant variety protection fees"
 usc_title: 7
 usc_section: "2371"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2371"
-generated_at: "2026-03-30T02:53:42.387Z"
+generated_at: "2026-11-23T20:25:41.529Z"
+status: "active"
 ---
 
 # § 2371. Plant variety protection fees
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:42.387Z"
 - **(c)** Such fees, late payment penalties, and accrued interest collected shall be credited to the account that incurs the cost and shall remain available without fiscal year limitation to pay the expenses incurred by the Secretary in carrying out this chapter. Such funds collected (including late payment penalties and any interest earned) may be invested by the Secretary in insured or fully collateralized, interest-bearing accounts or, at the discretion of the Secretary, by the Secretary of the Treasury in United States Government debt instruments.
 - **(d)** The Attorney General may bring an action for the recovery of charges that have not been paid in accordance with this chapter against any person obligated for payment of such charges under this chapter in any United States district court or other United States court for any territory or possession in any jurisdiction in which the person is found, resides, or transacts business. The court shall have jurisdiction to hear and decide the action.
 - **(e)** There are authorized to be appropriated such sums as are necessary to carry out this chapter.
+
+## Source Credit
+
+*([Pub. L. 91–577, title I, § 31](https://www.govinfo.gov/link/plaw/91/public/577), Dec. 24, 1970, [84 Stat. 1545](https://www.govinfo.gov/link/statute/84/1545); [Pub. L. 96–574, § 10](https://www.govinfo.gov/link/plaw/96/public/574), Dec. 22, 1980, [94 Stat. 3350](https://www.govinfo.gov/link/statute/94/3350); [Pub. L. 100–203, title I, § 1505](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–28](https://www.govinfo.gov/link/statute/101/1330).)*

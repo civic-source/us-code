@@ -3,9 +3,10 @@ title: "Section 3202 - Congressional statement of purpose"
 usc_title: 22
 usc_section: "3202"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3202"
-generated_at: "2026-03-30T02:55:05.390Z"
+generated_at: "2026-11-23T20:26:32.445Z"
+status: "active"
 ---
 
 # § 3202. Congressional statement of purpose
@@ -16,3 +17,7 @@ It is the purpose of this chapter to promote the policies set forth above by—
 - **(b)** authorizing the United States to take such actions as are required to ensure that it will act reliably in meeting its commitment to supply nuclear reactors and fuel to nations which adhere to effective non-proliferation policies;
 - **(c)** providing incentives to the other nations of the world to join in such international cooperative efforts and to ratify the Treaty; and
 - **(d)** ensuring effective controls by the United States over its exports of nuclear materials and equipment and of nuclear technology.
+
+## Source Credit
+
+*([Pub. L. 95–242, § 3](https://www.govinfo.gov/link/plaw/95/public/242), Mar. 10, 1978, [92 Stat. 120](https://www.govinfo.gov/link/statute/92/120).)*

@@ -3,9 +3,10 @@ title: "Section 1423 - Requirements as to understanding the English language, hi
 usc_title: 8
 usc_section: "1423"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1423"
-generated_at: "2026-03-30T02:53:10.500Z"
+generated_at: "2026-11-23T20:25:36.226Z"
+status: "active"
 ---
 
 # § 1423. Requirements as to understanding the English language, history, principles and form of government of the United States
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:10.500Z"
     - **(A)** is over fifty years of age and has been living in the United States for periods totaling at least twenty years subsequent to a lawful admission for permanent residence, or
     - **(B)** is over fifty-five years of age and has been living in the United States for periods totaling at least fifteen years subsequent to a lawful admission for permanent residence.
   - **(3)** The Attorney General, pursuant to regulations, shall provide for special consideration, as determined by the Attorney General, concerning the requirement of subsection (a)(2) with respect to any person who, on the date of the filing of the person’s application for naturalization as provided in section 1445 of this title , is over sixty-five years of age and has been living in the United States for periods totaling at least twenty years subsequent to a lawful admission for permanent residence.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title III, ch. 2, § 312, [66 Stat. 239](https://www.govinfo.gov/link/statute/66/239); [Pub. L. 95–579, § 3](https://www.govinfo.gov/link/plaw/95/public/579), Nov. 2, 1978, [92 Stat. 2474](https://www.govinfo.gov/link/statute/92/2474); [Pub. L. 101–649, title IV, § 403](https://www.govinfo.gov/link/plaw/101/public/649), Nov. 29, 1990, [104 Stat. 5039](https://www.govinfo.gov/link/statute/104/5039); [Pub. L. 102–232, title III, § 305(m)(2)](https://www.govinfo.gov/link/plaw/102/public/232), Dec. 12, 1991, [105 Stat. 1750](https://www.govinfo.gov/link/statute/105/1750); [Pub. L. 103–416, title I, § 108(a)](https://www.govinfo.gov/link/plaw/103/public/416), Oct. 25, 1994, [108 Stat. 4309](https://www.govinfo.gov/link/statute/108/4309).)*

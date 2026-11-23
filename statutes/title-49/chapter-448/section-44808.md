@@ -3,9 +3,10 @@ title: "Section 44808 - Carriage of property by small unmanned aircraft systems 
 usc_title: 49
 usc_section: "44808"
 chapter: 448
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44808"
-generated_at: "2026-03-30T02:56:19.389Z"
+generated_at: "2026-11-23T20:27:35.200Z"
+status: "active"
 ---
 
 # § 44808. Carriage of property by small unmanned aircraft systems for compensation or hire
@@ -25,3 +26,15 @@ generated_at: "2026-03-30T02:56:19.389Z"
     - **(B)** authorization from the Federal Aviation Administration to conduct operations; and
     - **(C)** compliance with chapters 401, 411, and 417.
   - **(6)** Pending completion of the rulemaking required in subsection (a) of this section, a person may seek an air carrier operating certificate and certificate of public convenience and necessity, or an exemption from such certificate, using existing processes.
+
+In General
+
+Contents
+
+Small uas
+
+Availability of current certification processes
+
+## Source Credit
+
+*(Added [Pub. L. 115–254, div. B, title III, § 348(a)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3297](https://www.govinfo.gov/link/statute/132/3297).)*

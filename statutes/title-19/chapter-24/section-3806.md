@@ -3,9 +3,10 @@ title: "Section 3806 - Treatment of certain trade agreements for which negotiati
 usc_title: 19
 usc_section: "3806"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3806"
-generated_at: "2026-03-30T02:54:24.698Z"
+generated_at: "2026-11-23T20:26:11.103Z"
+status: "active"
 ---
 
 # § 3806. Treatment of certain trade agreements for which negotiations have already begun
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:24.698Z"
   - **(2)** the President shall, as soon as feasible after August 6, 2002 —
     - **(A)** notify the Congress of the negotiations described in subsection (a), the specific United States objectives in the negotiations, and whether the President is seeking a new agreement or changes to an existing agreement; and
     - **(B)** before and after submission of the notice, consult regarding the negotiations with the committees referred to in section 3804(a)(2) of this title and the Congressional Oversight Group convened under section 3807 of this title .
+
+## Source Credit
+
+*([Pub. L. 107–210, div. B, title XXI, § 2106](https://www.govinfo.gov/link/plaw/107/public/210), Aug. 6, 2002, [116 Stat. 1016](https://www.govinfo.gov/link/statute/116/1016).)*

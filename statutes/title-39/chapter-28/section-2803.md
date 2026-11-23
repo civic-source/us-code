@@ -3,9 +3,10 @@ title: "Section 2803 - Performance plans"
 usc_title: 39
 usc_section: "2803"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "39 U.S.C. § 2803"
-generated_at: "2026-03-30T02:55:43.691Z"
+generated_at: "2026-11-23T20:26:57.736Z"
+status: "active"
 ---
 
 # § 2803. Performance plans
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:43.691Z"
 - **(d)** The Postal Service may prepare a non-public annex to its plan covering program activities or parts of program activities relating to—
   - **(1)** the avoidance of interference with criminal prosecution; or
   - **(2)** matters otherwise exempt from public disclosure under section 410(c) of this title .
+
+## Source Credit
+
+*(Added [Pub. L. 103–62, § 7](https://www.govinfo.gov/link/plaw/103/public/62), Aug. 3, 1993, [107 Stat. 293](https://www.govinfo.gov/link/statute/107/293); amended [Pub. L. 109–435, title X, § 1010(d)(2)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3261](https://www.govinfo.gov/link/statute/120/3261).)*

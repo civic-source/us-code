@@ -3,9 +3,10 @@ title: "Section 10216 - Military technicians (dual status)"
 usc_title: 10
 usc_section: "10216"
 chapter: 1007
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 10216"
-generated_at: "2026-03-30T02:53:38.265Z"
+generated_at: "2026-11-23T20:25:52.382Z"
+status: "active"
 ---
 
 # § 10216. Military technicians (dual status)
@@ -60,3 +61,35 @@ generated_at: "2026-03-30T02:53:38.265Z"
     - **(B)** the person, while a non-dual status technician, is not disqualified from performing the non-dual status functions or position because of performance, medical, or other reasons.
   - **(2)** A person so retained shall be removed not later than 30 days after becoming eligible for an unreduced annuity and becoming 60 years of age.
   - **(3)** Persons retained under the authority of this subsection do not count against the limitations of section 10217(c) of this title .
+
+In General
+
+Priority for Management of Military Technicians (Dual Status)
+
+Information Required To Be Submitted With Annual End Strength Authorization Request
+
+Unit Membership Requirement
+
+Dual Status Requirement
+
+Authority for Deferral of Mandatory Separation
+
+Retention of Military Technicians Who Lose Dual Status Due to Combat-Related Disability
+
+In General
+
+dual status
+
+military technicians
+
+Dual-Status Requirement
+
+In general
+
+Covered positions
+
+Treatment of incumbents
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. A, title V, § 513(c)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 306](https://www.govinfo.gov/link/statute/110/306); amended [Pub. L. 104–201, div. A, title IV, § 413(b)](https://www.govinfo.gov/link/plaw/104/public/201), (c), title XII, § 1214, Sept. 23, 1996, [110 Stat. 2507](https://www.govinfo.gov/link/statute/110/2507), 2508, 2695; [Pub. L. 105–85, div. A, title V, § 522(a)](https://www.govinfo.gov/link/plaw/105/public/85), (b), (f)–(h)(1), Nov. 18, 1997, [111 Stat. 1734–1736](https://www.govinfo.gov/link/statute/111/1734); [Pub. L. 106–65, div. A, title V, § 521](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 595](https://www.govinfo.gov/link/statute/113/595); [Pub. L. 108–136, div. A, title IV, § 403(c)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1452](https://www.govinfo.gov/link/statute/117/1452); [Pub. L. 109–163, div. A, title V, § 513(a)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3232](https://www.govinfo.gov/link/statute/119/3232); [Pub. L. 109–364, div. A, title V, § 525(b)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2194](https://www.govinfo.gov/link/statute/120/2194); [Pub. L. 110–181, div. A, title V, § 511](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 98](https://www.govinfo.gov/link/statute/122/98); [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title V, § 511, Oct. 14, 2008, [122 Stat. 4439](https://www.govinfo.gov/link/statute/122/4439); [Pub. L. 111–383, div. A, title V, § 512](https://www.govinfo.gov/link/plaw/111/public/383), title X, § 1075(b)(52), Jan. 7, 2011, [124 Stat. 4210](https://www.govinfo.gov/link/statute/124/4210), 4372; [Pub. L. 112–81, div. A, title V, § 514(a)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1394](https://www.govinfo.gov/link/statute/125/1394); [Pub. L. 118–159, div. A, title V, § 511(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1875](https://www.govinfo.gov/link/statute/138/1875); [Pub. L. 119–60, div. A, title XVII, § 1701(a)(40)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1210](https://www.govinfo.gov/link/statute/139/1210).)*

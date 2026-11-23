@@ -3,9 +3,10 @@ title: "Section 5507 - Transportation workforce outreach program"
 usc_title: 49
 usc_section: "5507"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 5507"
-generated_at: "2026-03-30T02:56:19.320Z"
+generated_at: "2026-11-23T20:27:34.690Z"
+status: "active"
 ---
 
 # § 5507. Transportation workforce outreach program
@@ -16,3 +17,15 @@ generated_at: "2026-03-30T02:56:19.320Z"
   - **(2)** to target awareness of professional opportunities in the transportation sector to diverse segments of the population, including with respect to race, sex, ethnicity, ability (including physical and mental ability), veteran status, and socioeconomic status.
 - **(c)** The Secretary may use, or authorize the use of, amounts made available to carry out the program under this section for the development, production, and use of broadcast, digital, and print media advertising and outreach in carrying out a campaign under this section.
 - **(d)** The Secretary may use to carry out this section any amounts otherwise made available to the Secretary, not to exceed $5,000,000, for each of fiscal years 2022 through 2026.
+
+In General
+
+Purposes
+
+Advertising
+
+Funding
+
+## Source Credit
+
+*(Added [Pub. L. 117–58, div. B, title V, § 25020(c)(1)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 877](https://www.govinfo.gov/link/statute/135/877).)*

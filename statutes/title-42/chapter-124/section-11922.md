@@ -3,9 +3,10 @@ title: "Section 11922 - Clearinghouse on drug abuse in public housing"
 usc_title: 42
 usc_section: "11922"
 chapter: 124
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11922"
-generated_at: "2026-03-30T02:56:11.406Z"
+generated_at: "2026-11-23T20:27:23.332Z"
+status: "active"
 ---
 
 # § 11922. Clearinghouse on drug abuse in public housing
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.406Z"
 - **(b)** The clearinghouse established under subsection (a) shall—
   - **(1)** respond to inquiries by members of the public requesting assistance in investigating, studying, and working on the problem of the abuse of controlled substances; and
   - **(2)** receive, collect, process, assemble, and provide information on programs, authorities, institutions, and agencies, that may further assist members of the public requesting information from the clearinghouse.
+
+## Source Credit
+
+*([Pub. L. 100–690, title V, § 5143](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4303](https://www.govinfo.gov/link/statute/102/4303).)*

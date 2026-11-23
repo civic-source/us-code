@@ -3,9 +3,10 @@ title: "Section 220530 - Other amateur sports organizations"
 usc_title: 36
 usc_section: "220530"
 chapter: 2205
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 220530"
-generated_at: "2026-03-30T02:55:44.710Z"
+generated_at: "2026-11-23T20:26:59.092Z"
+status: "active"
 ---
 
 # § 220530. Other amateur sports organizations
@@ -21,3 +22,11 @@ generated_at: "2026-03-30T02:55:44.710Z"
   - **(1)** that is not otherwise subject to the requirements under subchapter III;
   - **(2)** that participates in an interstate or international amateur athletic competition; and
   - **(3)** whose membership includes any adult who is in regular contact with an amateur athlete who is a minor.
+
+In General
+
+Definition of Applicable Amateur Sports Organization
+
+## Source Credit
+
+*(Added [Pub. L. 115–126, title II, § 204(a)](https://www.govinfo.gov/link/plaw/115/public/126), Feb. 14, 2018, [132 Stat. 324](https://www.govinfo.gov/link/statute/132/324); amended [Pub. L. 116–189, § 7(f)](https://www.govinfo.gov/link/plaw/116/public/189), Oct. 30, 2020, [134 Stat. 960](https://www.govinfo.gov/link/statute/134/960).)*

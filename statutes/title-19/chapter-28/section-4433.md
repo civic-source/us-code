@@ -3,9 +3,10 @@ title: "Section 4433 - Notification and certification to Congress"
 usc_title: 19
 usc_section: "4433"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 4433"
-generated_at: "2026-03-30T02:54:24.708Z"
+generated_at: "2026-11-23T20:26:11.145Z"
+status: "active"
 ---
 
 # § 4433. Notification and certification to Congress
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:54:24.708Z"
   - **(2)** If the Commissioner has not filled the positions of U.S. Customs and Border Protection officers that were reassigned to preclearance operations and determines that U.S. Customs and Border Protection processing times at domestic ports of entry from which U.S. Customs and Border Protection officers were reassigned to preclearance operations have significantly increased, the Commissioner, not later than 60 days after making such a determination, shall submit to the appropriate congressional committees an implementation plan for reducing processing times at the domestic ports of entry with such increased processing times.
   - **(3)** If the Commissioner does not submit the implementation plan described in paragraph (2) to the appropriate congressional committees before the deadline set forth in such paragraph, the Commissioner may not commence preclearance operations at an additional port of entry in any country until such implementation plan is submitted.
 - **(f)** The report required under subsection (c)(5) may be submitted in classified form if the Secretary determines that such form is appropriate.
+
+## Source Credit
+
+*([Pub. L. 114–125, title VIII, § 814](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 218](https://www.govinfo.gov/link/statute/130/218).)*

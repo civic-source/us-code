@@ -3,9 +3,10 @@ title: "Section 24 - Child tax credit"
 usc_title: 26
 usc_section: "24"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 24"
-generated_at: "2026-03-30T02:55:27.585Z"
+generated_at: "2026-11-23T20:26:45.125Z"
+status: "active"
 ---
 
 # § 24. Child tax credit
@@ -107,3 +108,25 @@ generated_at: "2026-03-30T02:55:27.585Z"
         - **(I)** if such taxable year begins in 2021, subsection (i)(1) shall be applied by substituting “bona fide resident of Puerto Rico or American Samoa” for “bona fide resident of Puerto Rico”, and
         - **(II)** if such taxable year begins after December 31, 2021 , rules similar to the rules of paragraph (2)(B) shall apply with respect to bona fide residents of American Samoa (within the meaning of section 937(a)).
   - **(4)** For purposes of section 1324 of title 31 , United States Code, the payments under this subsection shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section.
+
+Special rule for 2009 and 2010
+
+In general
+
+Rule regarding disregard of refunds
+
+Effective Date
+
+Application of EGTRRA Sunset
+
+In general
+
+Subsection
+
+In general
+
+Subsection
+
+## Source Credit
+
+*(Added [Pub. L. 105–34, title I, § 101(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 796](https://www.govinfo.gov/link/statute/111/796); amended [Pub. L. 105–206, title VI, § 6003(a)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 790](https://www.govinfo.gov/link/statute/112/790); [Pub. L. 105–277, div. J, title II, § 2001(b)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–901](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 106–170, title V, § 501(b)(1)](https://www.govinfo.gov/link/plaw/106/public/170), Dec. 17, 1999, [113 Stat. 1919](https://www.govinfo.gov/link/statute/113/1919); [Pub. L. 107–16, title II](https://www.govinfo.gov/link/plaw/107/public/16), §§ 201(a)–(b)(2)(C), (c)(1), (2), (d), 202(f)(2)(B), title VI, § 618(b)(2)(A), June 7, 2001, [115 Stat. 45–47](https://www.govinfo.gov/link/statute/115/45), 49, 108; [Pub. L. 107–90, title II, § 204(e)(1)](https://www.govinfo.gov/link/plaw/107/public/90), Dec. 21, 2001, [115 Stat. 893](https://www.govinfo.gov/link/statute/115/893); [Pub. L. 107–147, title IV](https://www.govinfo.gov/link/plaw/107/public/147), §§ 411(b), 417(23)(A), Mar. 9, 2002, [116 Stat. 45](https://www.govinfo.gov/link/statute/116/45), 57; [Pub. L. 108–27, title I, § 101(a)](https://www.govinfo.gov/link/plaw/108/public/27), May 28, 2003, [117 Stat. 753](https://www.govinfo.gov/link/statute/117/753); [Pub. L. 108–311, title I](https://www.govinfo.gov/link/plaw/108/public/311), §§ 101(a), 102(a), 104(a), title II, § 204, title IV, § 408(b)(4), Oct. 4, 2004, [118 Stat. 1167](https://www.govinfo.gov/link/statute/118/1167), 1168, 1176, 1192; [Pub. L. 109–135, title IV, § 402(i)(3)(B)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2613](https://www.govinfo.gov/link/statute/119/2613); [Pub. L. 110–172, § 11(c)(1)](https://www.govinfo.gov/link/plaw/110/public/172), Dec. 29, 2007, [121 Stat. 2488](https://www.govinfo.gov/link/statute/121/2488); [Pub. L. 110–343, div. B, title I, § 106(e)(2)(B)](https://www.govinfo.gov/link/plaw/110/public/343), title II, § 205(d)(1)(A), div. C, title V, § 501(a), Oct. 3, 2008, [122 Stat. 3817](https://www.govinfo.gov/link/statute/122/3817), 3838, 3876; [Pub. L. 110–351, title V, § 501(c)(1)](https://www.govinfo.gov/link/plaw/110/public/351), Oct. 7, 2008, [122 Stat. 3979](https://www.govinfo.gov/link/statute/122/3979); [Pub. L. 111–5, div. B, title I](https://www.govinfo.gov/link/plaw/111/public/5), §§ 1003(a), 1004(b)(1), 1142(b)(1)(A), 1144(b)(1)(A), Feb. 17, 2009, [123 Stat. 313](https://www.govinfo.gov/link/statute/123/313), 314, 330, 332; [Pub. L. 111–148, title X, § 10909(b)(2)(A)](https://www.govinfo.gov/link/plaw/111/public/148), (c), Mar. 23, 2010, [124 Stat. 1023](https://www.govinfo.gov/link/statute/124/1023); [Pub. L. 111–312, title I](https://www.govinfo.gov/link/plaw/111/public/312), §§ 101(b)(1), 103(b), Dec. 17, 2010, [124 Stat. 3298](https://www.govinfo.gov/link/statute/124/3298), 3299; [Pub. L. 112–240, title I](https://www.govinfo.gov/link/plaw/112/public/240), §§ 103(b), 104(c)(2)(B), Jan. 2, 2013, [126 Stat. 2319](https://www.govinfo.gov/link/statute/126/2319), 2321; [Pub. L. 113–295, div. A, title II, § 209(a)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4028](https://www.govinfo.gov/link/statute/128/4028); [Pub. L. 114–27, title VIII, § 807(a)](https://www.govinfo.gov/link/plaw/114/public/27), June 29, 2015, [129 Stat. 418](https://www.govinfo.gov/link/statute/129/418); [Pub. L. 114–113, div. Q, title I, § 101(a)](https://www.govinfo.gov/link/plaw/114/public/113), (b), title II, §§ 205(a), (b), 208(a)(1), Dec. 18, 2015, [129 Stat. 3044](https://www.govinfo.gov/link/statute/129/3044), 3081, 3083; [Pub. L. 115–97, title I, § 11022(a)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2073](https://www.govinfo.gov/link/statute/131/2073); [Pub. L. 115–141, div. U, title I, § 101(i)(1)](https://www.govinfo.gov/link/plaw/115/public/141), title IV, § 401(a)(3), Mar. 23, 2018, [132 Stat. 1162](https://www.govinfo.gov/link/statute/132/1162), 1184; [Pub. L. 117–2, title IX](https://www.govinfo.gov/link/plaw/117/public/2), §§ 9611(a), (b)(2), 9612(a), Mar. 11, 2021, [135 Stat. 144](https://www.govinfo.gov/link/statute/135/144), 148, 150; [Pub. L. 119–21, title VII, § 70104(a)](https://www.govinfo.gov/link/plaw/119/public/21) –(d), July 4, 2025, [139 Stat. 160](https://www.govinfo.gov/link/statute/139/160), 161.)*

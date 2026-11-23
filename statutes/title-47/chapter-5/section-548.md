@@ -3,9 +3,10 @@ title: "Section 548 - Development of competition and diversity in video programm
 usc_title: 47
 usc_section: "548"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 548"
-generated_at: "2026-03-30T02:56:24.520Z"
+generated_at: "2026-11-23T20:27:28.930Z"
+status: "active"
 ---
 
 # § 548. Development of competition and diversity in video programming distribution
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:56:24.520Z"
   - **(2)** The term “satellite cable programming vendor” means a person engaged in the production, creation, or wholesale distribution for sale of satellite cable programming, but does not include a satellite broadcast programming vendor.
   - **(3)** The term “satellite broadcast programming” means broadcast video programming when such programming is retransmitted by satellite and the entity retransmitting such programming is not the broadcaster or an entity performing such retransmission on behalf of and with the specific consent of the broadcaster.
   - **(4)** The term “satellite broadcast programming vendor” means a fixed service satellite carrier that provides service pursuant to section 119 of title 17 with respect to satellite broadcast programming.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title VI, § 628, as added [Pub. L. 102–385, § 19](https://www.govinfo.gov/link/plaw/102/public/385), Oct. 5, 1992, [106 Stat. 1494](https://www.govinfo.gov/link/statute/106/1494); amended [Pub. L. 104–104, title III, § 301(h)](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 117](https://www.govinfo.gov/link/statute/110/117); [Pub. L. 115–141, div. P, title IV, § 402(d)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1089](https://www.govinfo.gov/link/statute/132/1089).)*

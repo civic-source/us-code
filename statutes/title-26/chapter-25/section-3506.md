@@ -3,9 +3,10 @@ title: "Section 3506 - Individuals providing companion sitting placement service
 usc_title: 26
 usc_section: "3506"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 3506"
-generated_at: "2026-03-30T02:55:27.797Z"
+generated_at: "2026-11-23T20:26:46.265Z"
+status: "active"
 ---
 
 # § 3506. Individuals providing companion sitting placement services
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:27.797Z"
 - **(a)** For purposes of this subtitle, a person engaged in the trade or business of putting sitters in touch with individuals who wish to employ them shall not be treated as the employer of such sitters (and such sitters shall not be treated as employees of such person) if such person does not pay or receive the salary or wages of the sitters and is compensated by the sitters or the persons who employ them on a fee basis.
 - **(b)** For purposes of this section, the term “sitters” means individuals who furnish personal attendance, companionship, or household care services to children or to individuals who are elderly or disabled.
 - **(c)** The Secretary shall prescribe such regulations as may be necessary to carry out the purpose of this section.
+
+## Source Credit
+
+*(Added [Pub. L. 95–171, § 10(a)](https://www.govinfo.gov/link/plaw/95/public/171), Nov. 12, 1977, [91 Stat. 1356](https://www.govinfo.gov/link/statute/91/1356).)*

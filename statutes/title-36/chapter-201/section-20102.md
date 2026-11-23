@@ -3,9 +3,10 @@ title: "Section 20102 - Purposes"
 usc_title: 36
 usc_section: "20102"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 20102"
-generated_at: "2026-03-30T02:55:44.691Z"
+generated_at: "2026-11-23T20:26:58.785Z"
+status: "active"
 ---
 
 # § 20102. Purposes
@@ -19,3 +20,22 @@ The purposes of the corporation are—
   - **(5)** to establish and maintain a library and museum for the collection and preservation for posterity of agricultural tools, implements, machines, vehicles, pictures, paintings, books, papers, documents, data, relics, mementos, artifacts, and other items relating to agriculture;
   - **(6)** to cooperate with other organizations interested in similar projects; and
   - **(7)** to engage in other activities appropriate to carry out its purposes.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 20102 | 36:973(A) (1st sentence words before proviso, last sentence), (B)–(G). | Aug. 31, 1960 , Pub. L. 86–680, § 3(A) (1st sentence words before proviso, last sentence), (B)–(G), 74 Stat. 573 . |
+
+
+Historical and Revision Notes
+
+20102
+
+Aug. 31, 1960
+
+Pub. L. 86–680, § 3(A)
+
+74 Stat. 573
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1284](https://www.govinfo.gov/link/statute/112/1284).)*

@@ -3,12 +3,17 @@ title: "Section 40916 - Illegal immigrant gun purchase notification"
 usc_title: 34
 usc_section: "40916"
 chapter: 409
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 40916"
-generated_at: "2026-03-30T02:55:33.313Z"
+generated_at: "2026-11-23T20:26:50.656Z"
+status: "active"
 ---
 
 # § 40916. Illegal immigrant gun purchase notification
 
 - **(a)** Notwithstanding any other provision of law or of this chapter, all records obtained by the National Instant Criminal Background Check system relevant to whether an individual is prohibited from possessing a firearm because such person is an alien illegally or unlawfully in the United States shall be made available to U.S. Immigration and Customs Enforcement.
 - **(b)** The Attorney General, at his or her discretion, shall promulgate guidelines relevant to what records relevant to illegal aliens shall be provided pursuant to the provisions of this chapter.
+
+## Source Credit
+
+*([Pub. L. 110–180, title I, § 106](https://www.govinfo.gov/link/plaw/110/public/180), Jan. 8, 2008, [121 Stat. 2570](https://www.govinfo.gov/link/statute/121/2570).)*

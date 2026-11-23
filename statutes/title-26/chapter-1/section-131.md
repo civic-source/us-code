@@ -3,9 +3,10 @@ title: "Section 131 - Certain foster care payments"
 usc_title: 26
 usc_section: "131"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 131"
-generated_at: "2026-03-30T02:55:27.627Z"
+generated_at: "2026-11-23T20:26:45.354Z"
+status: "active"
 ---
 
 # § 131. Certain foster care payments
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:55:27.627Z"
   - **(2)** In the case of any foster home, difficulty of care payments for any period to which such payments relate shall not be excludable from gross income under subsection (a) to the extent such payments are made for more than—
     - **(A)** 10 qualified foster individuals who have not attained age 19, and
     - **(B)** 5 qualified foster individuals not described in subparagraph (A).
+
+## Source Credit
+
+*(Added [Pub. L. 97–473, title I, § 102(a)](https://www.govinfo.gov/link/plaw/97/public/473), Jan. 14, 1983, [96 Stat. 2606](https://www.govinfo.gov/link/statute/96/2606); amended [Pub. L. 99–514, title XVII, § 1707(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2781](https://www.govinfo.gov/link/statute/100/2781); [Pub. L. 107–147, title IV, § 404(a)](https://www.govinfo.gov/link/plaw/107/public/147) –(c), Mar. 9, 2002, [116 Stat. 41](https://www.govinfo.gov/link/statute/116/41).)*

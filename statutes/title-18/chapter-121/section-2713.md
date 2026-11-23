@@ -3,12 +3,17 @@ title: "Section 2713 - Required preservation and disclosure of communications an
 usc_title: 18
 usc_section: "2713"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2713"
-generated_at: "2026-03-30T02:54:16.508Z"
+generated_at: "2026-11-23T20:26:08.636Z"
+status: "active"
 ---
 
 # § 2713. Required preservation and disclosure of communications and records
 
 A provider of electronic communication service or remote computing service shall comply with the obligations of this chapter to preserve, backup, or disclose the contents of a wire or electronic communication and any record or other information pertaining to a customer or subscriber within such provider’s possession, custody, or control, regardless of whether such communication, record, or other information is located within or outside of the United States.
 
+
+## Source Credit
+
+*(Added [Pub. L. 115–141, div. V, § 103(a)(1)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1214](https://www.govinfo.gov/link/statute/132/1214).)*

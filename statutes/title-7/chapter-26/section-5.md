@@ -3,9 +3,10 @@ title: "Section 5 - Section 612c funds for purchase of fruits, vegetables, and n
 usc_title: 7
 usc_section: "5"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 5"
-generated_at: "2026-03-30T02:53:42.292Z"
+generated_at: "2026-11-23T20:25:41.070Z"
+status: "active"
 ---
 
 # § 612c–5. Section 612c funds for purchase of fruits, vegetables, and nuts to support domestic nutrition assistance programs
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:42.292Z"
   - **(4)** $203,000,000 for fiscal year 2011.
   - **(5)** $206,000,000 for fiscal year 2012 and each fiscal year thereafter.
 - **(b)** Fruits, vegetables, and nuts may be purchased under this section in the form of frozen, canned, dried, or fresh fruits, vegetables, and nuts.
+
+## Source Credit
+
+*([Pub. L. 110–234, title IV, § 4404](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1137](https://www.govinfo.gov/link/statute/122/1137); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, § 4404, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1899.)*

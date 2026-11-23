@@ -3,9 +3,10 @@ title: "Section 262l - Environmental reform measures and remedial measures; Comm
 usc_title: 22
 usc_section: "262l"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 262l"
-generated_at: "2026-03-30T02:55:05.304Z"
+generated_at: "2026-11-23T20:26:31.917Z"
+status: "active"
 ---
 
 # § 262l. Environmental reform measures and remedial measures; Committee on Health and the Environment
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:55:05.304Z"
   - **(3)** study the feasibility of creating a cooperative “early warning system” for projects of concern with other interested donors.
 - **(h)** If a review required by subsection (g)(1) identifies adverse impacts to the environment, natural resources, or indigenous peoples, the Secretary of the Treasury shall instruct the United States Executive Director of the Multilateral Development Bank to seek changes to the project necessary to eliminate or mitigate those impacts.
 - **(i)** The Administrator of the Agency for International Development shall appoint a Committee on Health and the Environment to examine opportunities for assisting countries in the proper use of agricultural and industrial chemicals and processes and alternatives such as integrated pest management. The committee shall be broadly representative of industry, agriculture, labor, health and environmental interests and shall report its preliminary findings to Congress before hearings on the fiscal year 1988 budget.
+
+## Source Credit
+
+*([Pub. L. 99–500, § 101(f) [title V, § 539]](https://www.govinfo.gov/link/plaw/99/public/500), Oct. 18, 1986, [100 Stat. 1783–213](https://www.govinfo.gov/link/statute/100/1783), 1783–232, and [Pub. L. 99–591, § 101(f) [title V, § 539]](https://www.govinfo.gov/link/plaw/99/public/591), Oct. 30, 1986, [100 Stat. 3341–214](https://www.govinfo.gov/link/statute/100/3341), 3341–232.)*

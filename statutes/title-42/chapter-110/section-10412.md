@@ -3,9 +3,10 @@ title: "Section 10412 - Specialized services for abused parents and their childr
 usc_title: 42
 usc_section: "10412"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10412"
-generated_at: "2026-03-30T02:56:11.389Z"
+generated_at: "2026-11-23T20:27:23.249Z"
+status: "active"
 ---
 
 # § 10412. Specialized services for abused parents and their children
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:11.389Z"
     - **(B)** to coordinate activities with and provide technical assistance to community-based organizations serving victims of family violence, domestic violence, or dating violence or children exposed to family violence, domestic violence, or dating violence; and
     - **(C)** to provide additional services and referrals to services for children, including child care, transportation, educational support, respite care, supervised visitation, or other necessary services.
 - **(e)** Each entity receiving a grant under this section shall submit a performance report to the Secretary at such time as shall be reasonably required by the Secretary. Such performance report shall describe the activities that have been carried out with such grant funds, contain an evaluation of the effectiveness of such activities, and provide such additional information as the Secretary may reasonably require.
+
+## Source Credit
+
+*([Pub. L. 98–457, title III, § 312](https://www.govinfo.gov/link/plaw/98/public/457), as added [Pub. L. 111–320, title II, § 201](https://www.govinfo.gov/link/plaw/111/public/320), Dec. 20, 2010, [124 Stat. 3503](https://www.govinfo.gov/link/statute/124/3503).)*

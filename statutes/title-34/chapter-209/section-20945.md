@@ -3,9 +3,10 @@ title: "Section 20945 - Office of Sex Offender Sentencing, Monitoring, Apprehend
 usc_title: 34
 usc_section: "20945"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 20945"
-generated_at: "2026-03-30T02:55:33.301Z"
+generated_at: "2026-11-23T20:26:50.612Z"
+status: "active"
 ---
 
 # § 20945. Office of Sex Offender Sentencing, Monitoring, Apprehending, Registering, and Tracking
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:33.301Z"
   - **(2)** administer grant programs relating to sex offender registration and notification authorized by this chapter and other grant programs authorized by this chapter as directed by the Attorney General;
   - **(3)** cooperate with and provide technical assistance to States, units of local government, tribal governments, and other public and private entities involved in activities related to sex offender registration or notification or to other measures for the protection of children or other members of the public from sexual abuse or exploitation; and
   - **(4)** perform such other functions as the Attorney General may delegate.
+
+## Source Credit
+
+*([Pub. L. 109–248, title I, § 146](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 607](https://www.govinfo.gov/link/statute/120/607).)*

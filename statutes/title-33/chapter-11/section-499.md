@@ -3,9 +3,10 @@ title: "Section 499 - Regulations for drawbridges"
 usc_title: 33
 usc_section: "499"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 499"
-generated_at: "2026-03-30T02:55:41.059Z"
+generated_at: "2026-11-23T20:26:53.834Z"
+status: "active"
 ---
 
 # § 499. Regulations for drawbridges
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:55:41.059Z"
   - **(2)** A drawbridge operator shall maintain logbooks required under paragraph (1) for not less than 5 years.
   - **(3)** At the request of the Secretary of the department in which the Coast Guard is operating, a drawbridge operator shall submit to the Secretary the logbook required under paragraph (1) as the Secretary considers necessary to carry out this section.
   - **(4)** The requirements under paragraph (1) shall be exempt from sections 3501 to 3521 of title 44.
+
+## Source Credit
+
+*(Aug. 18, 1894, ch. 299, § 5, [28 Stat. 362](https://www.govinfo.gov/link/statute/28/362); June 13, 1902, ch. 1079, § 6, [32 Stat. 374](https://www.govinfo.gov/link/statute/32/374); [Pub. L. 90–578, title IV, § 402(b)(2)](https://www.govinfo.gov/link/plaw/90/public/578), Oct. 17, 1968, [82 Stat. 1118](https://www.govinfo.gov/link/statute/82/1118); [Pub. L. 97–322, title I, § 108(a)](https://www.govinfo.gov/link/plaw/97/public/322), Oct. 15, 1982, [96 Stat. 1582](https://www.govinfo.gov/link/statute/96/1582); [Pub. L. 97–449, § 2(d)(1)](https://www.govinfo.gov/link/plaw/97/public/449), Jan. 12, 1983, [96 Stat. 2440](https://www.govinfo.gov/link/statute/96/2440); [Pub. L. 100–448, § 21](https://www.govinfo.gov/link/plaw/100/public/448), Sept. 28, 1988, [102 Stat. 1846](https://www.govinfo.gov/link/statute/102/1846); [Pub. L. 101–650, title III, § 321](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5117](https://www.govinfo.gov/link/statute/104/5117); [Pub. L. 108–293, title VI, § 601(b)](https://www.govinfo.gov/link/plaw/108/public/293), Aug. 9, 2004, [118 Stat. 1050](https://www.govinfo.gov/link/statute/118/1050); [Pub. L. 114–120, title III, § 306(b)(3)](https://www.govinfo.gov/link/plaw/114/public/120), Feb. 8, 2016, [130 Stat. 55](https://www.govinfo.gov/link/statute/130/55); [Pub. L. 115–282, title VIII, § 832](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4316](https://www.govinfo.gov/link/statute/132/4316).)*

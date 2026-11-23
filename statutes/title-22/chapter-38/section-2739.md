@@ -3,9 +3,10 @@ title: "Section 2739 - Civil service rotational program"
 usc_title: 22
 usc_section: "2739"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2739"
-generated_at: "2026-03-30T02:55:05.383Z"
+generated_at: "2026-11-23T20:26:32.399Z"
+status: "active"
 ---
 
 # § 2739. Civil service rotational program
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.383Z"
   - **(3)** include clear and transparent criteria for eligibility and selection, which shall include a minimum of 5 years of service at the Department.
 - **(c)** Following a rotation at a United States embassy pursuant to the program established by this section, participants in the program must be afforded, at minimum, a position equivalent in seniority, compensation, and responsibility to the position occupied prior serving in the program. Successful completion of a rotation at a United States embassy shall be considered favorably with regard to applications for promotion in civil service jobs at the Department.
 - **(d)** Not later than 2 years after December 22, 2023 , the Secretary shall identify not less than 20 positions in United States embassies for the program established under this section and offer at least 20 civil servants the opportunity to serve in a rotation at a United States embassy pursuant to this section.
+
+## Source Credit
+
+*([Pub. L. 118–31, div. F, title LXII, § 6208](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 975](https://www.govinfo.gov/link/statute/137/975).)*

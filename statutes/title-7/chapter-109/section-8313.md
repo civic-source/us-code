@@ -3,9 +3,10 @@ title: "Section 8313 - Penalties"
 usc_title: 7
 usc_section: "8313"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 8313"
-generated_at: "2026-03-30T02:53:42.474Z"
+generated_at: "2026-11-23T20:25:41.883Z"
+status: "active"
 ---
 
 # § 8313. Penalties
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:53:42.474Z"
     - **(C)** Any civil penalty not paid in full when due under an order assessing the civil penalty shall thereafter accrue interest until paid at the rate of interest applicable to civil judgments of the courts of the United States.
 - **(c)** In the construction and enforcement of this chapter, the act, omission, or failure of any officer, agent, or person acting for or employed by any other person within the scope of the employment or office of the officer, agent, or person, shall be deemed also to be the act, omission, or failure of the other person.
 - **(d)** Subject to the approval of the Attorney General, the Secretary shall establish guidelines to determine under what circumstances the Secretary may issue a civil penalty or suitable notice of warning in lieu of prosecution by the Attorney General of a violation of this chapter.
+
+## Source Credit
+
+*([Pub. L. 107–171, title X, § 10414](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 504](https://www.govinfo.gov/link/statute/116/504); [Pub. L. 110–234, title XI, § 11012(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1360](https://www.govinfo.gov/link/statute/122/1360); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XI, § 11012(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2122.)*

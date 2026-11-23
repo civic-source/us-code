@@ -3,9 +3,10 @@ title: "Section 4851b - Definitions"
 usc_title: 42
 usc_section: "4851b"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4851b"
-generated_at: "2026-03-30T02:56:11.209Z"
+generated_at: "2026-11-23T20:27:22.419Z"
+status: "active"
 ---
 
 # § 4851b. Definitions
@@ -58,3 +59,7 @@ For the purposes of this chapter, the following definitions shall apply:
     - **(E)** provision of a report explaining the results of the investigation.
   - **(26)** The term “Secretary” means the Secretary of Housing and Urban Development.
   - **(27)** The term “target housing” means any housing constructed prior to 1978, except housing for the elderly or persons with disabilities or any 0-bedroom dwelling (unless any child who is less than 6 years of age resides or is expected to reside in such housing). In the case of jurisdictions which banned the sale or use of lead-based paint prior to 1978, the Secretary, at the Secretary’s discretion, may designate an earlier date.
+
+## Source Credit
+
+*([Pub. L. 102–550, title X, § 1004](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3898](https://www.govinfo.gov/link/statute/106/3898); [Pub. L. 115–31, div. K, title II, § 237(b)](https://www.govinfo.gov/link/plaw/115/public/31), May 5, 2017, [131 Stat. 789](https://www.govinfo.gov/link/statute/131/789).)*

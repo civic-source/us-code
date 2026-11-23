@@ -3,9 +3,10 @@ title: "Section 6412 - Reports"
 usc_title: 22
 usc_section: "6412"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6412"
-generated_at: "2026-03-30T02:55:05.427Z"
+generated_at: "2026-11-23T20:26:32.609Z"
+status: "active"
 ---
 
 # § 6412. Reports
@@ -43,3 +44,9 @@ generated_at: "2026-03-30T02:55:05.427Z"
 - **(c)**
   - **(1)** The Secretary of State shall ensure that United States missions abroad maintain a consistent reporting standard and thoroughly investigate reports of violations of the internationally recognized right to freedom of religion.
   - **(2)** In compiling data and assessing the respect of the right to religious freedom for the Human Rights Reports, the Annual Report on International Religious Freedom, and the Executive Summary, United States mission personnel shall, as appropriate, seek out and maintain contacts with religious and human rights nongovernmental organizations, with the consent of those organizations, including receiving reports and updates from such organizations and, when appropriate, investigating such reports.
+
+“Congress finds the following:
+
+## Source Credit
+
+*([Pub. L. 105–292, title I, § 102](https://www.govinfo.gov/link/plaw/105/public/292), Oct. 27, 1998, [112 Stat. 2792](https://www.govinfo.gov/link/statute/112/2792); [Pub. L. 107–228, div. A, title VI, § 681(a)](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1408](https://www.govinfo.gov/link/statute/116/1408); [Pub. L. 108–332, § 6(b)](https://www.govinfo.gov/link/plaw/108/public/332), Oct. 16, 2004, [118 Stat. 1285](https://www.govinfo.gov/link/statute/118/1285); [Pub. L. 114–281, title I, § 102(a)](https://www.govinfo.gov/link/plaw/114/public/281), Dec. 16, 2016, [130 Stat. 1429](https://www.govinfo.gov/link/statute/130/1429); [Pub. L. 115–434, § 4](https://www.govinfo.gov/link/plaw/115/public/434), Jan. 14, 2019, [132 Stat. 5528](https://www.govinfo.gov/link/statute/132/5528).)*

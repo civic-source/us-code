@@ -3,9 +3,10 @@ title: "Section 24910 - Rail cooperative research program"
 usc_title: 49
 usc_section: "24910"
 chapter: 249
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 24910"
-generated_at: "2026-03-30T02:56:19.349Z"
+generated_at: "2026-11-23T20:27:34.878Z"
+status: "active"
 ---
 
 # § 24910. Rail cooperative research program
@@ -39,3 +40,23 @@ generated_at: "2026-03-30T02:56:19.349Z"
   - **(3)** The advisory board established under this subsection ceases to exist effective January 1, 2019 .
 - **(d)** The Secretary may make grants to, and enter into cooperative agreements with, the National Academy of Sciences to carry out such activities relating to the research, technology, and technology transfer activities described in subsection (b) as the Secretary deems appropriate.
 - **(e)** There are authorized to be appropriated to the Secretary of Transportation $5,000,000 for each of fiscal years 2010 through 2013 for carrying out this section.
+
+In General
+
+Content
+
+Advisory Board.—
+
+Establishment
+
+Membership
+
+Sunset
+
+National Academy of Sciences
+
+Authorization of Appropriations
+
+## Source Credit
+
+*(Added [Pub. L. 110–432, div. B, title III, § 306(a)](https://www.govinfo.gov/link/plaw/110/public/432), Oct. 16, 2008, [122 Stat. 4952](https://www.govinfo.gov/link/statute/122/4952); amended [Pub. L. 114–94, div. A, title XI, § 11316](https://www.govinfo.gov/link/plaw/114/public/94) (o), Dec. 4, 2015, [129 Stat. 1679](https://www.govinfo.gov/link/statute/129/1679); [Pub. L. 115–420, § 6(b)](https://www.govinfo.gov/link/plaw/115/public/420), Jan. 3, 2019, [132 Stat. 5445](https://www.govinfo.gov/link/statute/132/5445).)*

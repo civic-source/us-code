@@ -3,9 +3,10 @@ title: "Section 7544 - Army industrial facilities: cooperative activities with n
 usc_title: 10
 usc_section: "7544"
 chapter: 763
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 7544"
-generated_at: "2026-03-30T02:53:38.234Z"
+generated_at: "2026-11-23T20:25:52.102Z"
+status: "active"
 ---
 
 # § 7544. Army industrial facilities: cooperative activities with non-Army entities
@@ -56,3 +57,27 @@ generated_at: "2026-03-30T02:53:38.234Z"
     - **(B)** result in full payment being completed as the required work is being completed.
   - **(4)** The term “full costs”, with respect to articles or services provided under a cooperative arrangement entered into under subsection (a), means the variable costs and the fixed costs that are directly related to the production of the articles or the provision of the services.
   - **(5)** The term “variable costs” means the costs that are expected to fluctuate directly with the volume of sales or services provided or the use of equipment or facilities.
+
+Cooperative Arrangements Authorized
+
+Authorized Activities
+
+Conditions
+
+Arrangement Methods and Authorities
+
+Proceeds Credited to Working Capital Fund
+
+Approval Authority
+
+Commercial Sales
+
+Exclusion From Depot-Level Maintenance and Repair Percentage Limitation
+
+Relationship to Other Laws
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 108–375, div. A, title III, § 353(a)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1859](https://www.govinfo.gov/link/statute/118/1859), § 4544; amended [Pub. L. 109–163, div. A, title III, § 321](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3191](https://www.govinfo.gov/link/statute/119/3191); [Pub. L. 109–364, div. A, title X, § 1071(a)(29)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2399](https://www.govinfo.gov/link/statute/120/2399); [Pub. L. 110–181, div. A, title III, § 328(a)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 66](https://www.govinfo.gov/link/statute/122/66); [Pub. L. 111–84, div. A, title III, § 324(a)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2253](https://www.govinfo.gov/link/statute/123/2253); [Pub. L. 112–81, div. A, title III, § 323(a)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1362](https://www.govinfo.gov/link/statute/125/1362); renumbered § 7544, [Pub. L. 115–232, div. A, title VIII, § 808(d)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1839](https://www.govinfo.gov/link/statute/132/1839).)*

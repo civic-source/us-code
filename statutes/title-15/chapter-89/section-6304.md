@@ -3,9 +3,10 @@ title: "Section 6304 - Safety standards"
 usc_title: 15
 usc_section: "6304"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 6304"
-generated_at: "2026-03-30T02:54:08.210Z"
+generated_at: "2026-11-23T20:26:04.389Z"
+status: "active"
 ---
 
 # § 6304. Safety standards
@@ -16,3 +17,7 @@ No person may arrange, promote, organize, produce, or fight in a professional bo
   - **(2)** Except as otherwise expressly provided under regulation of a boxing commission promulgated subsequent to October 9, 1996 , an ambulance or medical personnel with appropriate resuscitation equipment continuously present on site.
   - **(3)** A physician continuously present at ringside.
   - **(4)** Health insurance for each boxer to provide medical coverage for any injuries sustained in the match.
+
+## Source Credit
+
+*([Pub. L. 104–272, § 5](https://www.govinfo.gov/link/plaw/104/public/272), Oct. 9, 1996, [110 Stat. 3310](https://www.govinfo.gov/link/statute/110/3310).)*

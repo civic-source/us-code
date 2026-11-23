@@ -3,9 +3,10 @@ title: "Section 1363a - Undercover investigation authority"
 usc_title: 8
 usc_section: "1363a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1363a"
-generated_at: "2026-03-30T02:53:10.497Z"
+generated_at: "2026-11-23T20:25:36.206Z"
+status: "active"
 ---
 
 # § 1363a. Undercover investigation authority
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:10.497Z"
 - **(b)** As soon as practicable after the proceeds from an undercover investigative operation, carried out under paragraphs (3) and (4) of subsection (a), are no longer necessary for the conduct of the operation, the proceeds or the balance of the proceeds remaining at the time shall be deposited into the Treasury of the United States as miscellaneous receipts.
 - **(c)** If a corporation or business entity established or acquired as part of an undercover operation under paragraph (2) of subsection (a) with a net value of over $50,000 is to be liquidated, sold, or otherwise disposed of, the Service, as much in advance as the Commissioner or Commissioner’s designee determines practicable, shall report the circumstances to the Attorney General, the Director of the Office of Management and Budget, and the Comptroller General. The proceeds of the liquidation, sale, or other disposition, after obligations are met, shall be deposited in the Treasury of the United States as miscellaneous receipts.
 - **(d)** The Service shall conduct detailed financial audits of closed undercover operations on a quarterly basis and shall report the results of the audits in writing to the Deputy Attorney General.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 9, § 294, as added [Pub. L. 104–208, div. C, title II, § 205(a)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–567](https://www.govinfo.gov/link/statute/110/3009).)*

@@ -3,9 +3,10 @@ title: "Section 12655e - Public lands or Indian lands"
 usc_title: 42
 usc_section: "12655e"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12655e"
-generated_at: "2026-03-30T02:56:11.428Z"
+generated_at: "2026-11-23T20:27:23.420Z"
+status: "active"
 ---
 
 # § 12655e. Public lands or Indian lands
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.428Z"
   - **(1)** the provisions of law and policies relating to the management and administration of such lands, and all other applicable provisions of law; and
   - **(2)** all management, operational, and other plans and documents that govern the administration of such lands.
 - **(d)** Any land or water conservation program (or any related program) administered in any State under the authority of any Federal program is encouraged to use services available under this part 1 1 See References in Text note below. to carry out its program.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 199F](https://www.govinfo.gov/link/plaw/101/public/610), formerly § 126, Nov. 16, 1990, [104 Stat. 3144](https://www.govinfo.gov/link/statute/104/3144); renumbered § 199F and amended [Pub. L. 103–82, title I, § 101(a)](https://www.govinfo.gov/link/plaw/103/public/82), (e)(1), (6), Sept. 21, 1993, [107 Stat. 788](https://www.govinfo.gov/link/statute/107/788), 815, 816.)*

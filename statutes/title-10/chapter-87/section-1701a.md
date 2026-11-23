@@ -3,9 +3,10 @@ title: "Section 1701a - Management for acquisition workforce excellence"
 usc_title: 10
 usc_section: "1701a"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1701a"
-generated_at: "2026-03-30T02:53:38.133Z"
+generated_at: "2026-11-23T20:25:51.406Z"
+status: "active"
 ---
 
 # § 1701a. Management for acquisition workforce excellence
@@ -35,3 +36,23 @@ generated_at: "2026-03-30T02:53:38.133Z"
   - **(2)** If the Secretary determines that, for a particular acquisition workforce career field, a third-party accredited program based on nationally or internationally recognized standards does not exist, the Secretary shall establish the certification requirement for that career field that conforms with the practices of national or international accrediting organizations. The Secretary shall determine the best approach for meeting the certification requirement for any such career field, including by implementing such certification requirement through entities outside the Department of Defense, and may design and implement such certification requirement without regard to section 1746 of this title .
 - **(d)** Any action taken by the Secretary under this section, or to implement this section, shall be subject to the requirements of chapter 71 of title 5.
 - **(e)** Any rules or regulations prescribed pursuant to this section shall be deemed an agency rule or regulation under section 7117(a)(2) of title 5 , and shall not be deemed a Government-wide rule or regulation under section 7117(a)(1) of such title.
+
+Purpose
+
+Performance Management
+
+Professional Certification
+
+Negotiations
+
+Regulations
+
+In General
+
+Elements
+
+Award of Cash Bonuses
+
+## Source Credit
+
+*(Added [Pub. L. 111–383, div. A, title VIII, § 871(a)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4299](https://www.govinfo.gov/link/statute/124/4299); amended [Pub. L. 116–92, div. A, title VIII, § 861(a)(1)](https://www.govinfo.gov/link/plaw/116/public/92) –(3), (e)(1), Dec. 20, 2019, [133 Stat. 1515](https://www.govinfo.gov/link/statute/133/1515), 1517; [Pub. L. 116–283, div. A, title X, § 1081(a)(31)](https://www.govinfo.gov/link/plaw/116/public/283), title XVIII, §§ 1808(d)(2), 1883(b)(2), Jan. 1, 2021, [134 Stat. 3872](https://www.govinfo.gov/link/statute/134/3872), 4160, 4294; [Pub. L. 117–263, div. A, title VIII, § 831(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2711](https://www.govinfo.gov/link/statute/136/2711).)*

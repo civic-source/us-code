@@ -3,9 +3,10 @@ title: "Section 4134 - Time limitations"
 usc_title: 22
 usc_section: "4134"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4134"
-generated_at: "2026-03-30T02:55:05.408Z"
+generated_at: "2026-11-23T20:26:32.522Z"
+status: "active"
 ---
 
 # § 4134. Time limitations
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.408Z"
   - **(2)** If the occurrence or occurrences giving rise to the grievance are alleged to have occurred while the grievant was assigned to a post abroad, the 180-day period provided for under paragraph (1) shall not commence until the earlier of—
     - **(A)** the date as of which the grievant is no longer assigned to such post; or
     - **(B)** the expiration of the 18-month period beginning on the date of the occurrence giving rise to the grievance or the last such occurrence, as the case may be.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 1104](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2144](https://www.govinfo.gov/link/statute/94/2144); [Pub. L. 102–138, title I, § 153(b)](https://www.govinfo.gov/link/plaw/102/public/138), Oct. 28, 1991, [105 Stat. 673](https://www.govinfo.gov/link/statute/105/673); [Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 330(a), (b)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–438; [Pub. L. 107–228, div. A, title III, § 317](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1379](https://www.govinfo.gov/link/statute/116/1379).)*

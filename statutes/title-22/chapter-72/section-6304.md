@@ -3,9 +3,10 @@ title: "Section 6304 - Reporting on demarches"
 usc_title: 22
 usc_section: "6304"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6304"
-generated_at: "2026-03-30T02:55:05.427Z"
+generated_at: "2026-11-23T20:26:32.606Z"
+status: "active"
 ---
 
 # § 6304. Reporting on demarches
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.427Z"
     - **(A)** a concern over a past, present, or possible future action or activity of the recipient government, or of a person within the jurisdiction of that government, contributing to the global spread of unsafeguarded special nuclear material or of nuclear explosive devices;
     - **(B)** a request for the recipient government to counter such action or activity; or
     - **(C)** both the concern and request described in subparagraphs (A) and (B).
+
+## Source Credit
+
+*([Pub. L. 103–236, title VIII, § 828(b)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 520](https://www.govinfo.gov/link/statute/108/520).)*

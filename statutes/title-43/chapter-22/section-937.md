@@ -3,12 +3,17 @@ title: "Section 937 - Filing profile of road; forfeiture of rights"
 usc_title: 43
 usc_section: "937"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 937"
-generated_at: "2026-03-30T02:55:57.465Z"
+generated_at: "2026-11-23T20:27:06.261Z"
+status: "active"
 ---
 
 # § 937. Filing profile of road; forfeiture of rights
 
 Any railroad company desiring to secure the benefits of sections 934 to 939 of this title, shall, within twelve months after the location of any section of twenty miles of its road, if the same be upon surveyed lands, and, if upon unsurveyed lands, within twelve months after the survey thereof by the United States, file with the officer, as the Secretary of the Interior may designate, of the land office for the district where such land is located a profile of its road; and upon approval thereof by the Secretary of the Interior the same shall be noted upon the plats in said office; and thereafter all such lands over which such right of way shall pass shall be disposed of subject to such right of way: Provided , That if any section of said road shall not be completed within five years after the location of said section, the rights herein granted shall be forfeited as to any such uncompleted section of said road.
 
+
+## Source Credit
+
+*(Mar. 3, 1875, ch. 152, § 4, [18 Stat. 483](https://www.govinfo.gov/link/statute/18/483); 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, [60 Stat. 1100](https://www.govinfo.gov/link/statute/60/1100).)*

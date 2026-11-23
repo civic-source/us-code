@@ -3,9 +3,10 @@ title: "Section 20917 - Checking system for social networking websites"
 usc_title: 34
 usc_section: "20917"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 20917"
-generated_at: "2026-03-30T02:55:33.300Z"
+generated_at: "2026-11-23T20:26:50.607Z"
+status: "active"
 ---
 
 # § 20917. Checking system for social networking websites
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:55:33.300Z"
         - **(III)** for a purpose unrelated to the performance of any responsibility or function described in paragraph (3).
     - **(C)** A social networking website shall minimize the number of employees that are provided access to the Internet identifiers for which a match has been found through the system.
   - **(6)** Nothing in this section shall be construed to require any Internet website, including a social networking website, to use the system, and no Federal or State liability, or any other actionable adverse consequence, shall be imposed on such website based on its decision not to do so.
+
+## Source Credit
+
+*([Pub. L. 110–400, § 3](https://www.govinfo.gov/link/plaw/110/public/400), Oct. 13, 2008, [122 Stat. 4225](https://www.govinfo.gov/link/statute/122/4225).)*

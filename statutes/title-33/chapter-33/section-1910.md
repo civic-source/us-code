@@ -3,9 +3,10 @@ title: "Section 1910 - Legal actions"
 usc_title: 33
 usc_section: "1910"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1910"
-generated_at: "2026-03-30T02:55:41.110Z"
+generated_at: "2026-11-23T20:26:54.103Z"
+status: "active"
 ---
 
 # § 1910. Legal actions
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:41.110Z"
   - **(4)** in any case, in the District Court for the District of Columbia.
 - **(d)** The court, in issuing any final order in any action brought pursuant to this section, may award costs of litigation (including reasonable attorney and expert witness fees) to any party including the Federal Government.
 - **(e)** In any action brought under this section, if the Secretary or Attorney General are not parties of record, the United States, through the Attorney General, shall have the right to intervene.
+
+## Source Credit
+
+*([Pub. L. 96–478, § 11](https://www.govinfo.gov/link/plaw/96/public/478), Oct. 21, 1980, [94 Stat. 2302](https://www.govinfo.gov/link/statute/94/2302); [Pub. L. 110–280, § 12](https://www.govinfo.gov/link/plaw/110/public/280), July 21, 2008, [122 Stat. 2615](https://www.govinfo.gov/link/statute/122/2615).)*

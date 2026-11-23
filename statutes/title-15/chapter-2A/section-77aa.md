@@ -3,9 +3,10 @@ title: "Section 77aa - Schedule of information required in registration statemen
 usc_title: 15
 usc_section: "77aa"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 77aa"
-generated_at: "2026-03-30T02:54:08.035Z"
+generated_at: "2026-11-23T20:26:03.451Z"
+status: "active"
 ---
 
 # § 77aa. Schedule of information required in registration statement
@@ -56,3 +57,11 @@ generated_at: "2026-03-30T02:54:08.035Z"
   - **(12)** the names and addresses of counsel who have passed upon the legality of the issue;
   - **(13)** a copy of any agreement or agreements made with any underwriter governing the sale of the security within the United States; and
   - **(14)** an agreement of the issuer to furnish a copy of the opinion or opinions of counsel in respect to the legality of the issue, with a translation, where necessary, into the English language. Such opinion shall set out in full all laws, decrees, ordinances, or other acts of Government under which the issue of such security has been authorized.
+
+schedule a
+
+schedule b
+
+## Source Credit
+
+*(May 27, 1933, ch. 38, title I, schedules A, B, [48 Stat. 88](https://www.govinfo.gov/link/statute/48/88), 91; [Pub. L. 105–353, title III, § 301(a)(6)](https://www.govinfo.gov/link/plaw/105/public/353), Nov. 3, 1998, [112 Stat. 3235](https://www.govinfo.gov/link/statute/112/3235).)*

@@ -3,9 +3,10 @@ title: "Section 24317 - Accounts"
 usc_title: 49
 usc_section: "24317"
 chapter: 243
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 24317"
-generated_at: "2026-03-30T02:56:19.344Z"
+generated_at: "2026-11-23T20:27:34.859Z"
+status: "active"
 ---
 
 # § 24317. Accounts
@@ -56,3 +57,37 @@ generated_at: "2026-03-30T02:56:19.344Z"
       - **(ii)** the effects on Amtrak services funded by the account receiving the transfer, in comparison to a scenario in which no transfer was made.
   - **(3)** Not later than 5 days after the date that Amtrak notifies the Amtrak Board of Directors of a transfer under paragraph (1) to or from an account, Amtrak shall transmit to the State-Supported Route Committee and Northeast Corridor Commission a letter that includes the information described under subparagraphs (A) and (B) of paragraph (2).
 - **(h)** Notwithstanding section 24102, for purposes of this section, the term “Northeast Corridor” means the Northeast Corridor main line between Boston, Massachusetts, and the District of Columbia, and facilities and services used to operate and maintain that line.
+
+Purpose
+
+Account Structure.—
+
+In general
+
+Notification of substantive changes
+
+Financial Sources
+
+Financial Uses
+
+Implementation and Reporting.—
+
+In general
+
+Updated sources and uses statements
+
+Account Management
+
+Transfer Authority.—
+
+In general
+
+Report
+
+Notifications
+
+Definition of Northeast Corridor
+
+## Source Credit
+
+*(Added [Pub. L. 114–94, div. A, title XI, § 11201(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1625](https://www.govinfo.gov/link/statute/129/1625); amended [Pub. L. 117–58, div. B, title II, § 22205](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 699](https://www.govinfo.gov/link/statute/135/699).)*

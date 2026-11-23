@@ -3,9 +3,10 @@ title: "Section 9511 - Congressional review of certain actions relating to sanct
 usc_title: 22
 usc_section: "9511"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9511"
-generated_at: "2026-03-30T02:55:05.466Z"
+generated_at: "2026-11-23T20:26:32.773Z"
+status: "active"
 ---
 
 # § 9511. Congressional review of certain actions relating to sanctions imposed with respect to the Russian Federation
@@ -81,3 +82,11 @@ generated_at: "2026-03-30T02:55:05.466Z"
 - **(d)** In this section, the term “appropriate congressional committees and leadership” means—
   - **(1)** the Committee on Banking, Housing, and Urban Affairs, the Committee on Foreign Relations, and the majority and minority leaders of the Senate; and
   - **(2)** the Committee on Financial Services, the Committee on Foreign Affairs, and the Speaker, the majority leader, and the minority leader of the House of Representatives.
+
+(aa) the procedure in the Senate shall be the same as if no joint resolution had been received from the House of Representatives; but
+
+(bb) the vote on passage shall be on the joint resolution from the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 115–44, title II, § 216](https://www.govinfo.gov/link/plaw/115/public/44), Aug. 2, 2017, [131 Stat. 900](https://www.govinfo.gov/link/statute/131/900).)*

@@ -3,9 +3,10 @@ title: "Section 1981 - General authority"
 usc_title: 19
 usc_section: "1981"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1981"
-generated_at: "2026-03-30T02:54:24.661Z"
+generated_at: "2026-11-23T20:26:10.890Z"
+status: "active"
 ---
 
 # § 1981. General authority
@@ -32,3 +33,9 @@ generated_at: "2026-03-30T02:54:24.661Z"
   - **(4)** In advising the President under this subsection as to the probable economic effect on the industry concerned, the United States International Trade Commission shall take into account all economic factors which it considers relevant, including idling of productive facilities, inability to operate at a level of reasonable profit, and unemployment or underemployment.
   - **(5)** Advice by the United States International Trade Commission under this subsection shall be given on the basis of an investigation during the course of which the United States International Trade Commission shall hold a hearing at which interested persons shall be given a reasonable opportunity to be present, to produce evidence, and to be heard.
 - **(e)** The President, as soon as practicable, shall take such action as he determines to be necessary to bring trade agreements entered into under section 1351 of this title into conformity with the provisions of this section. No trade agreement shall be entered into under section 1821(a) of this title unless such agreement permits action in conformity with the provisions of this section.
+
+“For purposes of applying paragraphs (4) and (5) of section 256 ( 19 U.S.C. 1886 ) and section 351(b) ( 19 U.S.C. 1981(b) ) of the Trade Expansion Act of 1962 and section 350(c)(2)(A) of the Tariff Act of 1930 ( 19 U.S.C. 1351(c)(2)(A) )—
+
+## Source Credit
+
+*([Pub. L. 87–794, title III, § 351](https://www.govinfo.gov/link/plaw/87/public/794), Oct. 11, 1962, [76 Stat. 899](https://www.govinfo.gov/link/statute/76/899); [Pub. L. 93–618, title I, § 171(b)](https://www.govinfo.gov/link/plaw/93/public/618), title VI, § 602(c), (d), Jan. 3, 1975, [88 Stat. 2009](https://www.govinfo.gov/link/statute/88/2009), 2072.)*

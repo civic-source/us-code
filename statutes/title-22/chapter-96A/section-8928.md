@@ -3,9 +3,10 @@ title: "Section 8928 - Support for Russian democracy and civil society organizat
 usc_title: 22
 usc_section: "8928"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8928"
-generated_at: "2026-03-30T02:55:05.460Z"
+generated_at: "2026-11-23T20:26:32.748Z"
+status: "active"
 ---
 
 # § 8928. Support for Russian democracy and civil society organizations
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:05.460Z"
   - **(1)** the Committee on Foreign Relations and the Committee on Appropriations of the Senate; and
   - **(2)** the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives.
 - **(d)** Any assistance provided pursuant to this section shall be conducted in as transparent of a manner as possible, consistent with the nature and goals of this section. The President shall provide a briefing on the activities funded by this section at the request of the committees specified in subsection (c).
+
+## Source Credit
+
+*([Pub. L. 113–272, § 9](https://www.govinfo.gov/link/plaw/113/public/272), Dec. 18, 2014, [128 Stat. 2964](https://www.govinfo.gov/link/statute/128/2964).)*

@@ -3,9 +3,10 @@ title: "Section 7428 - Alliance command arrangements"
 usc_title: 22
 usc_section: "7428"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7428"
-generated_at: "2026-03-30T02:55:05.440Z"
+generated_at: "2026-11-23T20:26:32.664Z"
+status: "active"
 ---
 
 # § 7428. Alliance command arrangements
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.440Z"
   - **(2)** evaluating the degree to which members of the Armed Forces of the United States engaged in military operations undertaken by or pursuant to that alliance may be exposed to greater risks as a result of being placed under the command or operational control of foreign military officers subject to the jurisdiction of the International Criminal Court.
 - **(b)** Not later than 1 year after August 2, 2002 , the President should transmit to the appropriate congressional committees a description of modifications to command and operational control arrangements within military alliances to which the United States is a party that could be made in order to reduce any risks to members of the Armed Forces of the United States identified pursuant to subsection (a)(2).
 - **(c)** The report under subsection (a), and the description of measures under subsection (b), or appropriate parts thereof, may be submitted in classified form.
+
+## Source Credit
+
+*([Pub. L. 107–206, title II, § 2009](https://www.govinfo.gov/link/plaw/107/public/206), Aug. 2, 2002, [116 Stat. 906](https://www.govinfo.gov/link/statute/116/906).)*

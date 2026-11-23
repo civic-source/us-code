@@ -3,9 +3,10 @@ title: "Section 3 - Affiliate sharing"
 usc_title: 15
 usc_section: "3"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 3"
-generated_at: "2026-03-30T02:54:08.153Z"
+generated_at: "2026-11-23T20:26:04.098Z"
+status: "active"
 ---
 
 # § 1681s–3. Affiliate sharing
@@ -37,3 +38,25 @@ generated_at: "2026-03-30T02:54:08.153Z"
     - **(C)** an inquiry or application by the consumer regarding a product or service offered by that person, during the 3-month period immediately preceding the date on which the consumer is sent a solicitation covered by this section; or
     - **(D)** any other pre-existing customer relationship defined in the regulations implementing this section.
   - **(2)** The term “solicitation” means the marketing of a product or service initiated by a person to a particular consumer that is based on an exchange of information described in subsection (a), and is intended to encourage the consumer to purchase such product or service, but does not include communications that are directed at the general public or determined not to be a solicitation by the regulations prescribed under this section.
+
+In general
+
+Coordination
+
+Considerations
+
+Timing
+
+In general
+
+Matters for study
+
+Reports.—
+
+Initial report
+
+Followup reports
+
+## Source Credit
+
+*([Pub. L. 90–321, title VI, § 624](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 108–159, title II, § 214(a)(2)](https://www.govinfo.gov/link/plaw/108/public/159), Dec. 4, 2003, [117 Stat. 1980](https://www.govinfo.gov/link/statute/117/1980).)*

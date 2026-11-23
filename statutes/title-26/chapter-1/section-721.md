@@ -3,9 +3,10 @@ title: "Section 721 - Nonrecognition of gain or loss on contribution"
 usc_title: 26
 usc_section: "721"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 721"
-generated_at: "2026-03-30T02:55:27.726Z"
+generated_at: "2026-11-23T20:26:45.869Z"
+status: "active"
 ---
 
 # § 721. Nonrecognition of gain or loss on contribution
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:27.726Z"
 - **(b)** Subsection (a) shall not apply to gain realized on a transfer of property to a partnership which would be treated as an investment company (within the meaning of section 351) if the partnership were incorporated.
 - **(c)** The Secretary may provide by regulations that subsection (a) shall not apply to gain realized on the transfer of property to a partnership if such gain, when recognized, will be includible in the gross income of a person other than a United States person.
 - **(d)** For regulatory authority to treat intangibles transferred to a partnership as sold, see section 367(d)(3).
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 245; [Pub. L. 94–455, title XXI, § 2131(b)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1924](https://www.govinfo.gov/link/statute/90/1924); [Pub. L. 105–34, title XI, § 1131(b)(3)](https://www.govinfo.gov/link/plaw/105/public/34), (5)(B), Aug. 5, 1997, [111 Stat. 979](https://www.govinfo.gov/link/statute/111/979), 980.)*

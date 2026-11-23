@@ -3,9 +3,10 @@ title: "Section 883 - Exclusions from gross income"
 usc_title: 26
 usc_section: "883"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 883"
-generated_at: "2026-03-30T02:55:27.742Z"
+generated_at: "2026-11-23T20:26:45.951Z"
+status: "active"
 ---
 
 # § 883. Exclusions from gross income
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:27.742Z"
     - **(A)** Paragraph (1) shall not apply to any corporation which is organized in a foreign country meeting the requirements of paragraph (1) or (2) of subsection (a) (as the case may be) and the stock of which is primarily and regularly traded on an established securities market in such foreign country, another foreign country meeting the requirements of such paragraph, or the United States.
     - **(B)** Any stock in another corporation which is owned (directly or indirectly) by a corporation meeting the requirements of subparagraph (A) shall be treated as owned by individuals who are residents of the foreign country in which the corporation meeting the requirements of subparagraph (A) is organized.
   - **(4)** For purposes of paragraph (1), stock owned (directly or indirectly) by or for a corporation, partnership, trust, or estate shall be treated as being owned proportionately by its shareholders, partners, or beneficiaries. Stock considered to be owned by a person by reason of the application of the preceding sentence shall, for purposes of applying such sentence, be treated as actually owned by such person.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 283; [Pub. L. 90–622, § 1(a)](https://www.govinfo.gov/link/plaw/90/public/622), Oct. 22, 1968, [82 Stat. 1311](https://www.govinfo.gov/link/statute/82/1311); [Pub. L. 94–164, § 6(a)](https://www.govinfo.gov/link/plaw/94/public/164), Dec. 23, 1975, [89 Stat. 975](https://www.govinfo.gov/link/statute/89/975); [Pub. L. 99–514, title XII, § 1212(c)(3)](https://www.govinfo.gov/link/plaw/99/public/514) –(5), Oct. 22, 1986, [100 Stat. 2538](https://www.govinfo.gov/link/statute/100/2538); [Pub. L. 100–647, title I, § 1012(e)(1)](https://www.govinfo.gov/link/plaw/100/public/647), (2)(A), (5), Nov. 10, 1988, [102 Stat. 3499](https://www.govinfo.gov/link/statute/102/3499), 3500; [Pub. L. 101–239, title VII, § 7811(i)(8)(D)](https://www.govinfo.gov/link/plaw/101/public/239), (10), Dec. 19, 1989, [103 Stat. 2411](https://www.govinfo.gov/link/statute/103/2411); [Pub. L. 108–357, title IV, § 419(b)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1513](https://www.govinfo.gov/link/statute/118/1513).)*

@@ -3,9 +3,10 @@ title: "Section 355 - Special pay: retention incentives for members qualified in
 usc_title: 37
 usc_section: "355"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "37 U.S.C. § 355"
-generated_at: "2026-03-30T02:55:44.056Z"
+generated_at: "2026-11-23T20:26:57.377Z"
+status: "active"
 ---
 
 # § 355. Special pay: retention incentives for members qualified in critical military skills or assigned to high priority units
@@ -37,3 +38,23 @@ generated_at: "2026-03-30T02:55:44.056Z"
 - **(f)** A retention bonus paid under this section is in addition to any other pay and allowances to which a member is entitled.
 - **(g)** A member paid a bonus under this section who fails, during the period of service covered by the member’s agreement, reenlistment, or voluntary extension of enlistment under subsection (a), to remain qualified in the critical military skill or to satisfy the other eligibility criteria for which the bonus was paid shall be subject to the repayment provisions of section 373 of this title .
 - **(h)** No bonus may be paid under this section with respect to any reenlistment, or voluntary extension of an enlistment, in the armed forces entered into after December 31, 2026 , and no agreement under this section may be entered into after that date.
+
+Retention Bonus Authorized
+
+Eligibility Criteria
+
+Payment Methods
+
+Maximum Bonus Amount
+
+Certain Members Ineligible
+
+Relationship to Other Incentives
+
+Repayment
+
+Termination of Bonus Authority
+
+## Source Credit
+
+*(Added [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title VI, § 633(a)(1)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–157, § 323; amended [Pub. L. 107–107, div. A, title VI, § 614(d)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1136](https://www.govinfo.gov/link/statute/115/1136); [Pub. L. 107–296, title XVII, § 1704(c)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314); [Pub. L. 107–314, div. A, title VI](https://www.govinfo.gov/link/plaw/107/public/314), §§ 614(d), 618, Dec. 2, 2002, [116 Stat. 2568](https://www.govinfo.gov/link/statute/116/2568), 2570; [Pub. L. 108–136, div. A, title VI](https://www.govinfo.gov/link/plaw/108/public/136), §§ 614(d), 622, title X, § 1045(b)(1), Nov. 24, 2003, [117 Stat. 1501](https://www.govinfo.gov/link/statute/117/1501), 1505, 1612; [Pub. L. 108–375, div. A, title VI](https://www.govinfo.gov/link/plaw/108/public/375), §§ 614(e), 621, title X, § 1084(e)(2), Oct. 28, 2004, [118 Stat. 1948](https://www.govinfo.gov/link/statute/118/1948), 1954, 2064; [Pub. L. 109–163, div. A, title VI](https://www.govinfo.gov/link/plaw/109/public/163), §§ 624(e), 640(a)–(f)(1), 687(b)(31), Jan. 6, 2006, [119 Stat. 3295](https://www.govinfo.gov/link/statute/119/3295), 3302, 3303, 3332; [Pub. L. 109–364, div. A, title VI, § 614(e)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2248](https://www.govinfo.gov/link/statute/120/2248); renumbered § 355 and amended [Pub. L. 110–181, div. A, title VI](https://www.govinfo.gov/link/plaw/110/public/181), §§ 614(d), 622, 661(c), Jan. 28, 2008, [122 Stat. 149](https://www.govinfo.gov/link/statute/122/149), 152, 178; [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title VI, § 614(h), Oct. 14, 2008, [122 Stat. 4485](https://www.govinfo.gov/link/statute/122/4485); [Pub. L. 111–84, div. A, title VI, § 614(9)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2354](https://www.govinfo.gov/link/statute/123/2354); [Pub. L. 111–207, § 4(a)(4)](https://www.govinfo.gov/link/plaw/111/public/207), July 27, 2010, [124 Stat. 2251](https://www.govinfo.gov/link/statute/124/2251); [Pub. L. 111–383, div. A, title VI, § 614(9)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4237](https://www.govinfo.gov/link/statute/124/4237); [Pub. L. 112–81, div. A, title VI, § 614(9)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1450](https://www.govinfo.gov/link/statute/125/1450); [Pub. L. 112–239, div. A, title VI, § 614(9)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1777](https://www.govinfo.gov/link/statute/126/1777); [Pub. L. 113–66, div. A, title VI, § 614(9)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 781](https://www.govinfo.gov/link/statute/127/781); [Pub. L. 113–291, div. A, title VI, § 614(10)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3401](https://www.govinfo.gov/link/statute/128/3401); [Pub. L. 114–92, div. A, title VI, § 614(10)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 839](https://www.govinfo.gov/link/statute/129/839); [Pub. L. 114–328, div. A, title VI, § 614(10)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2159](https://www.govinfo.gov/link/statute/130/2159); [Pub. L. 115–91, div. A, title VI, § 614(10)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1422](https://www.govinfo.gov/link/statute/131/1422); [Pub. L. 115–232, div. A, title VI, § 611(d)(9)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1797](https://www.govinfo.gov/link/statute/132/1797); [Pub. L. 116–92, div. A, title VI, § 611(d)(9)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1426](https://www.govinfo.gov/link/statute/133/1426); [Pub. L. 116–283, div. A, title VI, § 611(d)(9)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3673](https://www.govinfo.gov/link/statute/134/3673); [Pub. L. 117–81, div. A, title VI, § 611(d)(9)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1769](https://www.govinfo.gov/link/statute/135/1769); [Pub. L. 117–263, div. A, title VI, § 601(d)(9)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2620](https://www.govinfo.gov/link/statute/136/2620); [Pub. L. 118–31, div. A, title VI, § 613(d)(9)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 292](https://www.govinfo.gov/link/statute/137/292); [Pub. L. 118–159, div. A, title VI, § 611(d)(9)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1932](https://www.govinfo.gov/link/statute/138/1932); [Pub. L. 119–60, div. A, title VI](https://www.govinfo.gov/link/plaw/119/public/60), §§ 601(c)(5), 611(d)(9), Dec. 18, 2025, [139 Stat. 903](https://www.govinfo.gov/link/statute/139/903), 906.)*

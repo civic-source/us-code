@@ -3,9 +3,10 @@ title: "Section 18053 - Provisions relating to offering of plans in more than on
 usc_title: 42
 usc_section: "18053"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18053"
-generated_at: "2026-03-30T02:56:11.515Z"
+generated_at: "2026-11-23T20:27:23.782Z"
+status: "active"
 ---
 
 # § 18053. Provisions relating to offering of plans in more than one State
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.515Z"
     - **(E)** will not weaken enforcement of laws and regulations described in paragraph (1)(B)(i) in any State that is included in such compact.
   - **(4)** A health care choice compact described in paragraph (1) shall not take effect before January 1, 2016 .
 - **(b)**
+
+## Source Credit
+
+*([Pub. L. 111–148, title I, § 1333](https://www.govinfo.gov/link/plaw/111/public/148), title X, § 10104(p), Mar. 23, 2010, [124 Stat. 206](https://www.govinfo.gov/link/statute/124/206), 902.)*

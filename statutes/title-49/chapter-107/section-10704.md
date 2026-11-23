@@ -3,9 +3,10 @@ title: "Section 10704 - Authority and criteria: rates, classifications, rules, a
 usc_title: 49
 usc_section: "10704"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 10704"
-generated_at: "2026-03-30T02:56:19.323Z"
+generated_at: "2026-11-23T20:27:34.713Z"
+status: "active"
 ---
 
 # § 10704. Authority and criteria: rates, classifications, rules, and practices prescribed by Board
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:19.323Z"
       - **(iii)** The closing brief shall be submitted not later than 60 days after the date on which the development of the evidentiary record is completed under clause (ii).
       - **(iv)** A final Board decision shall be issued not later than 180 days after the date on which the evidentiary record is completed under clause (ii).
     - **(B)** The Board may extend a timeline under subparagraph (A) after a request from any party or in the interest of due process.
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 102(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 810](https://www.govinfo.gov/link/statute/109/810); amended [Pub. L. 104–287, § 5(23)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3390](https://www.govinfo.gov/link/statute/110/3390); [Pub. L. 114–110](https://www.govinfo.gov/link/plaw/114/public/110), §§ 11(b), 16, Dec. 18, 2015, [129 Stat. 2233](https://www.govinfo.gov/link/statute/129/2233), 2238.)*

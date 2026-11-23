@@ -3,9 +3,10 @@ title: "Section 3154e - Workforce training grants"
 usc_title: 42
 usc_section: "3154e"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3154e"
-generated_at: "2026-03-30T02:56:11.183Z"
+generated_at: "2026-11-23T20:27:22.264Z"
+status: "active"
 ---
 
 # § 3154e. Workforce training grants
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:56:11.183Z"
       - **(ii)** the total cost of the training program in which the individual is enrolled, including tuition, fees, career navigation services, textbook costs, expenses related to assessments and exams for certification or licensure, equipment costs, and wage stipends (in the case of a training program that is an earn-and-learn program).
   - **(7)** The authority provided under this subsection shall expire on September 30, 2029 .
 - **(d)** The Secretary shall coordinate the development of new workforce development models with the Secretary of Labor and the Secretary of Education.
+
+## Source Credit
+
+*([Pub. L. 89–136, title II, § 219](https://www.govinfo.gov/link/plaw/89/public/136), as added [Pub. L. 118–272, div. B, title II, § 2221](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3186](https://www.govinfo.gov/link/statute/138/3186).)*

@@ -3,9 +3,10 @@ title: "Section 2684a - Agreements to limit encroachments and other constraints 
 usc_title: 10
 usc_section: "2684a"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2684a"
-generated_at: "2026-03-30T02:53:38.170Z"
+generated_at: "2026-11-23T20:25:51.651Z"
+status: "active"
 ---
 
 # § 2684a. Agreements to limit encroachments and other constraints on military training, testing, and operations
@@ -74,3 +75,39 @@ generated_at: "2026-03-30T02:53:38.170Z"
   - **(1)** The term “Secretary concerned” means the Secretary of Defense or the Secretary of a military department.
   - **(2)** The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Marianas, and the territories and possessions of the United States.
   - **(3)** The term “Clear Zone Area” means an area immediately beyond the end of the runway of an airfield that is needed to ensure the safe and unrestricted passage of aircraft in and over the area.
+
+Agreements Authorized
+
+Eligible Entities
+
+Authority to Coordinate
+
+Inapplicability of Certain Contract Requirements
+
+Acquisition and Acceptance of Property and Interests
+
+Acquisition of Water Rights
+
+Additional Terms and Conditions
+
+Annual Reports
+
+Interagency Cooperation in Conservation and Resilience Programs to Avoid or Reduce Adverse Impacts on Military Installation Resilience and Military Readiness Activities
+
+Funding
+
+Definitions
+
+Guidance Required
+
+Considerations
+
+Foreign Investment Encroachment
+
+Report
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 107–314, div. B, title XXVIII, § 2811(a)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2705](https://www.govinfo.gov/link/statute/116/2705); amended [Pub. L. 109–163, div. B, title XXVIII, § 2822](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3513](https://www.govinfo.gov/link/statute/119/3513); [Pub. L. 109–364, div. B, title XXVIII, § 2811(g)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2473](https://www.govinfo.gov/link/statute/120/2473); [Pub. L. 110–181, div. B, title XXVIII, § 2825](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 545](https://www.govinfo.gov/link/statute/122/545); [Pub. L. 111–84, div. A, title X, § 1073(a)(27)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2474](https://www.govinfo.gov/link/statute/123/2474); [Pub. L. 111–383, div. A, title X, § 1075(b)(43)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4371](https://www.govinfo.gov/link/statute/124/4371); [Pub. L. 112–81, div. B, title XXVIII, § 2813](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1687](https://www.govinfo.gov/link/statute/125/1687); [Pub. L. 113–66, div. A, title III, § 312(a)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 729](https://www.govinfo.gov/link/statute/127/729); [Pub. L. 113–291, div. A, title X, § 1071(f)(23)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3511](https://www.govinfo.gov/link/statute/128/3511); [Pub. L. 115–91, div. B, title XXVIII, § 2811(g)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1848](https://www.govinfo.gov/link/statute/131/1848); [Pub. L. 115–232, div. A, title III, § 312(i)](https://www.govinfo.gov/link/plaw/115/public/232), div. B, title XXVIII, § 2827(b)(1), Aug. 13, 2018, [132 Stat. 1711](https://www.govinfo.gov/link/statute/132/1711), 2270; [Pub. L. 116–283, div. A, title III](https://www.govinfo.gov/link/plaw/116/public/283), §§ 312(a)–(b)(2), (c), 315(b), title IX, § 924(b)(33), title X, § 1081(d)(12), Jan. 1, 2021, [134 Stat. 3513–3515](https://www.govinfo.gov/link/statute/134/3513), 3826, 3874; [Pub. L. 117–81, div. A, title III, § 317(b)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1631](https://www.govinfo.gov/link/statute/135/1631); [Pub. L. 118–31, div. A, title III](https://www.govinfo.gov/link/plaw/118/public/31), §§ 311(c)(1), 314, Dec. 22, 2023, [137 Stat. 215](https://www.govinfo.gov/link/statute/137/215), 216.)*

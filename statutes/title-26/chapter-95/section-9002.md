@@ -3,9 +3,10 @@ title: "Section 9002 - Definitions"
 usc_title: 26
 usc_section: "9002"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 9002"
-generated_at: "2026-03-30T02:55:27.889Z"
+generated_at: "2026-11-23T20:26:46.863Z"
+status: "active"
 ---
 
 # § 9002. Definitions
@@ -29,3 +30,7 @@ For purposes of this chapter—
   - **(12)** The term “expenditure report period” with respect to any presidential election means—
     - **(A)** in the case of a major party, the period beginning with the first day of September before the election, or, if earlier, with the date on which such major party at its national convention nominated its candidate for election to the office of President of the United States, and ending 30 days after the date of the presidential election; and
     - **(B)** in the case of a party which is not a major party, the same period as the expenditure report period of the major party which has the shortest expenditure report period for such presidential election under subparagraph (A).
+
+## Source Credit
+
+*(Added [Pub. L. 92–178, title VIII, § 801](https://www.govinfo.gov/link/plaw/92/public/178), Dec. 10, 1971, [85 Stat. 563](https://www.govinfo.gov/link/statute/85/563); amended [Pub. L. 93–443, title IV, § 404(c)(1)](https://www.govinfo.gov/link/plaw/93/public/443) –(3), Oct. 15, 1974, [88 Stat. 1292](https://www.govinfo.gov/link/statute/88/1292); [Pub. L. 94–283, title I, § 115(c)(1)](https://www.govinfo.gov/link/plaw/94/public/283), title III, § 306(a)(1), May 11, 1976, [90 Stat. 495](https://www.govinfo.gov/link/statute/90/495), 499; [Pub. L. 110–172, § 11(a)(42)(A)](https://www.govinfo.gov/link/plaw/110/public/172), Dec. 29, 2007, [121 Stat. 2488](https://www.govinfo.gov/link/statute/121/2488).)*

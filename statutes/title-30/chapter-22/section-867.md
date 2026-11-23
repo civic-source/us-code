@@ -3,9 +3,10 @@ title: "Section 867 - Grounding of equipment"
 usc_title: 30
 usc_section: "867"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 867"
-generated_at: "2026-03-30T02:55:29.390Z"
+generated_at: "2026-11-23T20:26:34.962Z"
+status: "active"
 ---
 
 # § 867. Grounding of equipment
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:29.390Z"
 - **(c)** The frames of all stationary high-voltage equipment receiving power from ungrounded delta systems shall be grounded by methods approved by an authorized representative of the Secretary.
 - **(d)** High-voltage lines, both on the surface and underground, shall be deenergized and grounded before work is performed on them, except that repairs may be permitted, in the case of energized surface high-voltage lines, if such repairs are made by a qualified person in accordance with procedures and safeguards, including, but not limited to a requirement that the operator of such mine provide, test, and maintain protective devices in making such repairs, to be prescribed by the Secretary prior to the operative date of this subchapter.
 - **(e)** When not in use, power circuits underground shall be deenergized on idle days and idle shifts, except that rectifiers and transformers may remain energized.
+
+## Source Credit
+
+*([Pub. L. 91–173, title III, § 307](https://www.govinfo.gov/link/plaw/91/public/173), Dec. 30, 1969, [83 Stat. 780](https://www.govinfo.gov/link/statute/83/780).)*

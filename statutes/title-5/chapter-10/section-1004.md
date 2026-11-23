@@ -3,9 +3,10 @@ title: "Section 1004 - Responsibilities of congressional committees"
 usc_title: 5
 usc_section: "1004"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 1004"
-generated_at: "2026-03-30T02:52:55.992Z"
+generated_at: "2026-11-23T20:25:31.759Z"
+status: "active"
 ---
 
 # § 1004. Responsibilities of congressional committees
@@ -18,3 +19,28 @@ generated_at: "2026-03-30T02:52:55.992Z"
   - **(4)** contain provisions dealing with authorization of appropriations, the date for submission of reports (if any), the duration of the advisory committee, and the publication of reports and other materials, to the extent that the standing committee determines the provisions of section 1009 of this chapter to be inadequate; and
   - **(5)** contain provisions which will assure that the advisory committee will have adequate staff (either supplied by an agency or employed by it), will be provided adequate quarters, and will have funds available to meet its other necessary expenses.
 - **(c)** To the extent they are applicable, the guidelines set out in subsection (b) shall be followed by the President, agency heads, or other Federal officials in creating an advisory committee.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1004 | 5 U.S.C. App. (FACA § 5) | Pub. L. 92–463, § 5 , Oct. 6, 1972 , 86 Stat. 771 . |
+
+
+Review of Activities
+
+Consideration of Legislation
+
+Adherence to Guidelines
+
+Historical and Revision Notes
+
+1004
+
+Pub. L. 92–463, § 5
+
+Oct. 6, 1972
+
+86 Stat. 771
+
+## Source Credit
+
+*([Pub. L. 117–286, § 3(a)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4198](https://www.govinfo.gov/link/statute/136/4198).)*

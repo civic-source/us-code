@@ -3,9 +3,10 @@ title: "Section 499a - Short title and definitions"
 usc_title: 7
 usc_section: "499a"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 499a"
-generated_at: "2026-03-30T02:53:42.285Z"
+generated_at: "2026-11-23T20:25:41.036Z"
+status: "active"
 ---
 
 # § 499a. Short title and definitions
@@ -27,3 +28,35 @@ generated_at: "2026-03-30T02:53:42.285Z"
   - **(11)** The term “retailer” means a person that is a dealer engaged in the business of selling any perishable agricultural commodity at retail.
   - **(12)** The term “grocery wholesaler” means a person that is a dealer primarily engaged in the full-line wholesale distribution and resale of grocery and related nonfood items (such as perishable agricultural commodities, dry groceries, general merchandise, meat, poultry, and seafood, and health and beauty care items) to retailers. However, such term does not include a person described in the preceding sentence if the person is primarily engaged in the wholesale distribution and resale of perishable agricultural commodities rather than other grocery and related nonfood items.
   - **(13)** The term “collateral fees and expenses” means any promotional allowances, rebates, service or materials fees paid or provided, directly or indirectly, in connection with the distribution or marketing of any perishable agricultural commodity.
+
+Study.—
+
+In general
+
+Contents
+
+Report
+
+Grown in the U.S. Program
+
+Pilot Program.—
+
+In general
+
+Details of the pilot program.—
+
+Designation of country of origin
+
+Application of program.—
+
+Imported and domestic products
+
+Imported perishable agricultural products
+
+Exemptions
+
+Authorization of Appropriations
+
+## Source Credit
+
+*(June 10, 1930, ch. 436, § 1, [46 Stat. 531](https://www.govinfo.gov/link/statute/46/531); Apr. 13, 1934, ch. 120, § 1, [48 Stat. 584](https://www.govinfo.gov/link/statute/48/584); Aug. 20, 1937, ch. 719, § 1, [50 Stat. 725](https://www.govinfo.gov/link/statute/50/725); June 29, 1940, ch. 456, §§ 1, 2, [54 Stat. 696](https://www.govinfo.gov/link/statute/54/696); [Pub. L. 87–725](https://www.govinfo.gov/link/plaw/87/public/725), §§ 1, 2, Oct. 1, 1962, [76 Stat. 673](https://www.govinfo.gov/link/statute/76/673); [Pub. L. 91–107](https://www.govinfo.gov/link/plaw/91/public/107), §§ 1, 2, Nov. 4, 1969, [83 Stat. 182](https://www.govinfo.gov/link/statute/83/182); [Pub. L. 95–562, § 1](https://www.govinfo.gov/link/plaw/95/public/562), Nov. 1, 1978, [92 Stat. 2381](https://www.govinfo.gov/link/statute/92/2381); [Pub. L. 97–98, title XI, § 1115(a)](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1269](https://www.govinfo.gov/link/statute/95/1269); [Pub. L. 102–237, title X, § 1011(1)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1898](https://www.govinfo.gov/link/statute/105/1898); [Pub. L. 104–48](https://www.govinfo.gov/link/plaw/104/public/48), §§ 2, 9(a), 12(a), Nov. 15, 1995, [109 Stat. 424](https://www.govinfo.gov/link/statute/109/424), 429, 430.)*

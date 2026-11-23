@@ -3,9 +3,10 @@ title: "Section 5452 - Environmental initiatives for Poland and Hungary"
 usc_title: 22
 usc_section: "5452"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 5452"
-generated_at: "2026-03-30T02:55:05.418Z"
+generated_at: "2026-11-23T20:26:32.564Z"
+status: "active"
 ---
 
 # § 5452. Environmental initiatives for Poland and Hungary
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:05.418Z"
   - **(3)** To carry out paragraphs (1) and (2) of this subsection, there are authorized to be appropriated $30,000,000 for the 3-year period beginning October 1, 1989 . Not more than $10,000,000 of the funds appropriated under this paragraph may be used to carry out the requirements of paragraph (1).
 - **(g)** In view of the high energy usage per unit of output in Hungary and Poland, the Secretary of Energy shall give high priority to assisting officials of Poland and Hungary in improving the efficiency of their energy use, through emphasis on such measures as efficient motors, lights, gears, and appliances and improvements in building insulation and design.
 - **(h)** It is the sense of the Congress that the Executive branch should work with the Government of Hungary to achieve environmentally safe alternative investments in energy efficiency, particularly with regard to projects along the Danube River.
+
+## Source Credit
+
+*([Pub. L. 101–179, title V, § 502](https://www.govinfo.gov/link/plaw/101/public/179), Nov. 28, 1989, [103 Stat. 1317](https://www.govinfo.gov/link/statute/103/1317).)*

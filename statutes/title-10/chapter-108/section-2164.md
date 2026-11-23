@@ -3,9 +3,10 @@ title: "Section 2164 - Department of Defense domestic dependent elementary and s
 usc_title: 10
 usc_section: "2164"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2164"
-generated_at: "2026-03-30T02:53:38.145Z"
+generated_at: "2026-11-23T20:25:51.463Z"
+status: "active"
 ---
 
 # § 2164. Department of Defense domestic dependent elementary and secondary schools
@@ -125,3 +126,123 @@ generated_at: "2026-03-30T02:53:38.145Z"
 - **(n)**
   - **(1)** A dependent of a member described in paragraph (2) shall be eligible to attend a school established under this section at the military installation that is the permanent station of such member and such dependent shall automatically be granted enrollment at such school at the request of such member if there is sufficient space in the school to accommodate the dependent. In the event there is not sufficient space available at such school at the time the dependent seeks to enroll, the dependent shall be placed on a wait-list for enrollment in the school.
   - **(2)** A member described in this paragraph is a member of a reserve component performing active service pursuant to an order for accompanied permanent change of station.
+
+Authority of Secretary
+
+Factors for Secretary To Consider
+
+Eligibility of Dependents of Federal Employees
+
+School Advisory Committees
+
+Administration and Staff
+
+Substantive and Procedural Rights and Protections for Children
+
+Reimbursement
+
+Continuation of Enrollment Despite Change in Status
+
+American Red Cross Employee Dependents in Certain Areas
+
+Tuition-free Enrollment of Dependents of Foreign Military Personnel Residing on Domestic Military Installations and Dependents of Certain Deceased Members of the Armed Forces
+
+Enrollment of Relocated Defense Dependents’ Education System Students
+
+Enrollment in Virtual Elementary and Secondary Education Program
+
+Meal Programs
+
+Eligibility of Dependents of Certain Members of the Reserve Components
+
+Regulations Required
+
+Briefing Required
+
+Improvements to Staffing
+
+Clarification of Guidance
+
+Implementation Deadline
+
+Briefings Required
+
+Initial briefing
+
+Semi-annual briefings
+
+In General
+
+Content
+
+Frequency
+
+st Century School Defined
+
+In General
+
+Overseas DODEA School Defined
+
+Pilot Program Required.—
+
+In general
+
+Purposes
+
+Duration
+
+Participants.—
+
+In general
+
+Preference in selection
+
+Limitations
+
+Reports.—
+
+Interim report
+
+Final report
+
+Elements
+
+Definitions
+
+In General
+
+Purpose
+
+Considerations
+
+Metrics and Evaluations
+
+Types of Support Authorized
+
+Report
+
+Definitions
+
+Program authority.—
+
+In general
+
+Special requirements for local educational agencies
+
+Applications.—
+
+In general
+
+Special consideration
+
+Definitions
+
+Eligible entity
+
+Esea terms
+
+World language
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title III, § 351(a)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2727](https://www.govinfo.gov/link/statute/108/2727); amended [Pub. L. 104–106, div. A, title X, § 1075](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 450](https://www.govinfo.gov/link/statute/110/450); [Pub. L. 104–201, div. A, title XVI, § 1608](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2737](https://www.govinfo.gov/link/statute/110/2737); [Pub. L. 105–261, div. A, title III, § 371(a)](https://www.govinfo.gov/link/plaw/105/public/261) –(c)(2), Oct. 17, 1998, [112 Stat. 1988](https://www.govinfo.gov/link/statute/112/1988), 1989; [Pub. L. 106–65, div. A, title III](https://www.govinfo.gov/link/plaw/106/public/65), §§ 352, 353, Oct. 5, 1999, [113 Stat. 572](https://www.govinfo.gov/link/statute/113/572); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title III, § 361], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–76; [Pub. L. 108–446, title III, § 305(a)](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2804](https://www.govinfo.gov/link/statute/118/2804); [Pub. L. 111–84, div. A, title V, § 534](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2292](https://www.govinfo.gov/link/statute/123/2292); [Pub. L. 111–383, div. A, title V, § 561](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4221](https://www.govinfo.gov/link/statute/124/4221); [Pub. L. 112–239, div. A, title V, § 565](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1749](https://www.govinfo.gov/link/statute/126/1749); [Pub. L. 113–66, div. A, title V, § 553(a)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 764](https://www.govinfo.gov/link/statute/127/764); [Pub. L. 117–286, § 4(a)(52)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4311](https://www.govinfo.gov/link/statute/136/4311); [Pub. L. 118–159, div. A, title V](https://www.govinfo.gov/link/plaw/118/public/159), §§ 591–594(a), Dec. 23, 2024, [138 Stat. 1917–1919](https://www.govinfo.gov/link/statute/138/1917); [Pub. L. 119–60, div. A, title V](https://www.govinfo.gov/link/plaw/119/public/60), §§ 582(b), 583, Dec. 18, 2025, [139 Stat. 888](https://www.govinfo.gov/link/statute/139/888).)*

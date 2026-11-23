@@ -3,9 +3,10 @@ title: "Section 701 - Interim trustee"
 usc_title: 11
 usc_section: "701"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 701"
-generated_at: "2026-03-30T02:53:53.880Z"
+generated_at: "2026-11-23T20:25:55.378Z"
+status: "active"
 ---
 
 # § 701. Interim trustee
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:53.880Z"
   - **(2)** If none of the members of such panel is willing to serve as interim trustee in the case, then the United States trustee may serve as interim trustee in the case.
 - **(b)** The service of an interim trustee under this section terminates when a trustee elected or designated under section 702 of this title to serve as trustee in the case qualifies under section 322 of this title .
 - **(c)** An interim trustee serving under this section is a trustee in a case under this title.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2604](https://www.govinfo.gov/link/statute/92/2604); [Pub. L. 99–554, title II, § 215](https://www.govinfo.gov/link/plaw/99/public/554), Oct. 27, 1986, [100 Stat. 3100](https://www.govinfo.gov/link/statute/100/3100).)*

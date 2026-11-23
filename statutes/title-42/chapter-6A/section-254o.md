@@ -3,9 +3,10 @@ title: "Section 254o - Breach of scholarship contract or loan repayment contract
 usc_title: 42
 usc_section: "254o"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 254o"
-generated_at: "2026-03-30T02:56:10.715Z"
+generated_at: "2026-11-23T20:27:20.095Z"
+status: "active"
 ---
 
 # § 254o. Breach of scholarship contract or loan repayment contract
@@ -51,3 +52,11 @@ generated_at: "2026-03-30T02:56:10.715Z"
       - **(ii)** The provision of law referred to in clause (i) is subsection (f) of section 234 1 of this title, as in effect prior to the repeal of such section by section 408(b)(1) of Public Law 94–484 .
 - **(e)** Notwithstanding any other provision of Federal or State law, there shall be no limitation on the period within which suit may be filed, a judgment may be enforced, or an action relating to an offset or garnishment, or other action, may be initiated or taken by the Secretary, the Attorney General, or the head of another Federal agency, as the case may be, for the repayment of the amount due from an individual under this section.
 - **(f)** The amendment made by section 313(a)(4) of the Health Care Safety Net Amendments of 2002 ( Public Law 107–251 ) shall apply to any obligation for which a discharge in bankruptcy has not been granted before the date that is 31 days after October 26, 2002 .
+
+A
+
+B
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 338E, formerly title VII, § 754, as added [Pub. L. 94–484, title IV, § 408(b)(1)](https://www.govinfo.gov/link/plaw/94/public/484), Oct. 12, 1976, [90 Stat. 2286](https://www.govinfo.gov/link/statute/90/2286); amended [Pub. L. 95–83, title III, § 307(g)](https://www.govinfo.gov/link/plaw/95/public/83), Aug. 1, 1977, [91 Stat. 391](https://www.govinfo.gov/link/statute/91/391); renumbered § 338D and amended [Pub. L. 97–35, title XXVII, § 2709(a)](https://www.govinfo.gov/link/plaw/97/public/35), (e)(1)–(4)(A), Aug. 13, 1981, [95 Stat. 908](https://www.govinfo.gov/link/statute/95/908), 911; [Pub. L. 97–414, § 8(g)(2)](https://www.govinfo.gov/link/plaw/97/public/414), Jan. 4, 1983, [96 Stat. 2061](https://www.govinfo.gov/link/statute/96/2061); renumbered § 338E and amended [Pub. L. 100–177, title II](https://www.govinfo.gov/link/plaw/100/public/177), §§ 201(2), 202(e), title III, § 308(a), Dec. 1, 1987, [101 Stat. 992](https://www.govinfo.gov/link/statute/101/992), 997, 1006; [Pub. L. 100–203, title IV, § 4052(b)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–97](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–360, title IV, § 411(f)(10)(B)](https://www.govinfo.gov/link/plaw/100/public/360), July 1, 1988, [102 Stat. 780](https://www.govinfo.gov/link/statute/102/780); [Pub. L. 101–597, title II, § 203(a)](https://www.govinfo.gov/link/plaw/101/public/597), Nov. 16, 1990, [104 Stat. 3027](https://www.govinfo.gov/link/statute/104/3027); [Pub. L. 107–251, title III, § 313(a)](https://www.govinfo.gov/link/plaw/107/public/251), Oct. 26, 2002, [116 Stat. 1651](https://www.govinfo.gov/link/statute/116/1651); [Pub. L. 108–163, § 2](https://www.govinfo.gov/link/plaw/108/public/163) (l)(1), Dec. 6, 2003, [117 Stat. 2022](https://www.govinfo.gov/link/statute/117/2022).)*

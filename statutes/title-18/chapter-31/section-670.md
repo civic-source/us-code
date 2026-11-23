@@ -3,9 +3,10 @@ title: "Section 670 - Theft of medical products"
 usc_title: 18
 usc_section: "670"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 670"
-generated_at: "2026-03-30T02:54:16.468Z"
+generated_at: "2026-11-23T20:26:08.398Z"
+status: "active"
 ---
 
 # § 670. Theft of medical products
@@ -38,3 +39,17 @@ generated_at: "2026-03-30T02:54:16.468Z"
   - **(4)** the term “biological product” has the meaning given the term in section 351 of the Public Health Service Act;
   - **(5)** the term “medical food” has the meaning given the term in section 5(b) of the Orphan Drug Act; and
   - **(6)** the term “supply chain” includes manufacturer, wholesaler, repacker, own-labeled distributor, private-label distributor, jobber, broker, drug trader, transportation company, hospital, pharmacy, or security company.
+
+Prohibited Conduct
+
+Aggravated Offenses
+
+Criminal Penalties
+
+Civil Penalties
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 112–186, § 2(a)](https://www.govinfo.gov/link/plaw/112/public/186), Oct. 5, 2012, [126 Stat. 1427](https://www.govinfo.gov/link/statute/126/1427).)*

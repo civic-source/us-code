@@ -3,9 +3,10 @@ title: "Section 3842 - Performance of incurred cost audits"
 usc_title: 10
 usc_section: "3842"
 chapter: 279
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 3842"
-generated_at: "2026-03-30T02:53:38.198Z"
+generated_at: "2026-11-23T20:25:51.868Z"
+status: "active"
 ---
 
 # § 3842. Performance of incurred cost audits
@@ -70,3 +71,25 @@ generated_at: "2026-03-30T02:53:38.198Z"
   - **(7)** The term “qualified private auditor” means a commercial auditor—
     - **(A)** that performs audits in accordance with generally accepted government auditing standards; and
     - **(B)** that has received a passing peer review rating, as defined by generally accepted government auditing standards.
+
+Compliance With Standards of Risk and Materiality
+
+Conditions for the Use of Qualified Auditors to Perform Incurred Cost Audits
+
+Procedures for the Use of Qualified Private Auditors
+
+Qualified Private Auditor Requirements
+
+Peer Review
+
+Numeric Materiality Standards for Incurred Cost Audits
+
+Timeliness of Incurred Cost Audits
+
+Review of Audit Performance
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 115–91, div. A, title VIII, § 803(a)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1451](https://www.govinfo.gov/link/statute/131/1451), § 2313b; amended [Pub. L. 115–232, div. A, title X, § 1081(a)(19)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1984](https://www.govinfo.gov/link/statute/132/1984); [Pub. L. 116–92, div. A, title XVII, § 1731(a)(41)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1814](https://www.govinfo.gov/link/statute/133/1814); renumbered § 3842 and amended [Pub. L. 116–283, div. A, title XVIII, § 1835(c)](https://www.govinfo.gov/link/plaw/116/public/283), (d)(1), Jan. 1, 2021, [134 Stat. 4240](https://www.govinfo.gov/link/statute/134/4240).)*

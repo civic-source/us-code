@@ -3,9 +3,10 @@ title: "Section 8334 - Deductions, contributions, and deposits"
 usc_title: 5
 usc_section: "8334"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8334"
-generated_at: "2026-03-30T02:52:56.046Z"
+generated_at: "2026-11-23T20:25:32.139Z"
+status: "active"
 ---
 
 # § 8334. Deductions, contributions, and deposits
@@ -18,7 +19,86 @@ generated_at: "2026-03-30T02:52:56.046Z"
       - **(ii)** In the case of an employee of the United States Postal Service, no amount shall be contributed under this subparagraph.
   - **(2)** The amounts so deducted and withheld, together with the amounts so contributed, shall be deposited in the Treasury of the United States to the credit of the Fund under such procedures as the Secretary of the Treasury may prescribe. Deposits made by an employee or Member also shall be credited to the Fund.
 - **(b)** Each employee or Member is deemed to consent and agree to these deductions from basic pay. Notwithstanding any law or regulation affecting the pay of an employee or Member, payment less these deductions is a full and complete discharge and acquittance of all claims and demands for regular services during the period covered by the payment, except the right to the benefits to which the employee or Member is entitled under this subchapter.
-- **(c)** Each employee or Member credited with civilian service after July 31, 1920 , for which retirement deductions or deposits have not been made, may deposit with interest an amount equal to the following percentages of his basic pay received for that service: Percentage of basic pay Service period Employee 2½ August 1, 1920 , to June 30, 1926 . 3½ July 1, 1926 , to June 30, 1942 . 5 July 1, 1942 , to June 30, 1948 . 6 July 1, 1948 , to October 31, 1956 . 6½ November 1, 1956 , to December 31, 1969 . 7 January 1, 1970 , to December 31, 1998 . 7.25 January 1, 1999 , to December 31, 1999 . 7.4 January 1, 2000 , to December 31, 2000 . 7 After December 31, 2000 . Member or employee for Congressional employee service 2½ 3½ 5 6 August 1, 1920 , to June 30, 1926 . July 1, 1926 , to June 30, 1942 . July 1, 1942 , to June 30, 1948 . July 1, 1948 , to October 31, 1956 . 6½ November 1, 1956 , to December 31, 1969 . 7.5 January 1, 1970 , to December 31, 1998 . 7.75 January 1, 1999 , to December 31, 1999 . 7.9 January 1, 2000 , to December 31, 2000 . 7.5 After December 31, 2000 . Member for Member service 2½ 3½ August 1, 1920 , to June 30, 1926 . July 1, 1926 , to June 30, 1942 . 5 July 1, 1942 , to August 1, 1946 . 6 August 2, 1946 , to October 31, 1956 . 7½ November 1, 1956 , to December 31, 1969 . 8 January 1, 1970 , to December 31, 1998 . 8.25 January 1, 1999 , to December 31, 1999 . 8.4 January 1, 2000 , to December 31, 2000 . 8.5 January 1, 2001 , to December 31, 2002 . 8 After December 31, 2002 . Law enforcement officer for law enforcement service, member of the Supreme Court Police for Supreme Court Police service, and firefighter for firefighter service 2½ 3½ 5 6 6½ 7 August 1, 1920 , to June 30, 1926 . July 1, 1926 , to June 30, 1942 . July 1, 1942 , to June 30, 1948 . July 1, 1948 , to October 31, 1956 . November 1, 1956 , to December 31, 1969 . January 1, 1970 , to December 31, 1974 . 7.5 January 1, 1975 , to December 31, 1998 . 7.75 January 1, 1999 , to December 31, 1999 . 7.9 January 1, 2000 , to December 31, 2000 . 7.5 After December 31, 2000 . Bankruptcy judge 2½ 3½ August 1, 1920 , to June 30, 1926 . July 3, 1926 , to June 30, 1942 . 5 July 1, 1942 , to June 30, 1948 . 6 July 1, 1948 , to October 31, 1956 . 6½ November 1, 1956 , to December 31, 1969 . 7 January 1, 1970 , to December 31, 1983 . 8 January 1, 1984 , to December 31, 1998 . 8.25 January 1, 1999 , to December 31, 1999 . 8.4 January 1, 2000 , to December 31, 2000 . 8 After December 31, 2000 . Judge of the United States Court of Appeals for the Armed Forces for service as a judge of that court 6 6½ 7 May 5, 1950 , to October 31, 1956 . November 1, 1956 , to December 31, 1969 . January 1, 1970 , to (but not including) the date of the enactment of the Department of Defense Authorization Act, 1984. 8 The date of enactment of the Department of Defense Authorization Act, 1984, to December 31, 1998 . 8.25 January 1, 1999 , to December 31, 1999 . 8.4 January 1, 2000 , to December 31, 2000 . 8 After December 31, 2000 . United States magistrate judge 2½ 3½ August 1, 1920 , to June 30, 1926 . July 1, 1926 , to June 30, 1942 . 5 July 1, 1942 , to June 30, 1948 . 6 July 1, 1948 , to October 31, 1956 . 6½ November 1, 1956 , to December 31, 1969 . 7 January 1, 1970 , to September 30, 1987 . 8 October 1, 1987 , to December 31, 1998 . 8.25 January 1, 1999 , to December 31, 1999 . 8.4 January 1, 2000 , to December 31, 2000 . 8 After December 31, 2000 . Court of Federal Claims Judge 2½ 3½ August 1, 1920 , to June 30, 1926 . July 1, 1926 , to June 30, 1942 . 5 July 1, 1942 , to June 30, 1948 . 6 July 1, 1948 , to October 31, 1956 . 6½ November 1, 1956 , to December 31, 1969 . 7 January 1, 1970 , to September 30, 1988 . 8 October 1, 1988 , to December 31, 1998 . 8.25 January 1, 1999 , to December 31, 1999 . 8.4 January 1, 2000 , to December 31, 2000 . 8 After December 31, 2000 . Member of the Capitol Police 2.5 3.5 August 1, 1920 , to June 30, 1926 . July 1, 1926 , to June 30, 1942 . 5 July 1, 1942 , to June 30, 1948 . 6 July 1, 1948 , to October 31, 1956 . 6.5 November 1, 1956 , to December 31, 1969 . 7.5 January 1, 1970 , to December 31, 1998 . 7.75 January 1, 1999 , to December 31, 1999 . 7.9 January 1, 2000 , to December 31, 2000 . 7.5 After December 31, 2000 . Nuclear materials courier 7 October 1, 1977 to October 16, 1998 . 7.5 October 17, 1998 to December 31, 1998 . 7.75 January 1, 1999 to December 31, 1999 . 7.9 January 1, 2000 to December 31, 2000 . 7.5 After December 31, 2000 . Customs and border protection officer 7.5 After June 29, 2008 . Notwithstanding the preceding provisions of this subsection and any provision of section 206(b)(3) of the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983, the percentage of basic pay required under this subsection in the case of an individual described in section 8402(b)(2) shall, with respect to any covered service (as defined by section 203(a)(3) of such Act) performed by such individual after December 31, 1983 , and before January 1, 1987 , be equal to 1.3 percent, and, with respect to any such service performed after December 31, 1986 , be equal to the amount that would have been deducted from the employee’s basic pay under subsection (k) of this section if the employee’s pay had been subject to that subsection during such period.
+- **(c)** Each employee or Member credited with civilian service after July 31, 1920 , for which retirement deductions or deposits have not been made, may deposit with interest an amount equal to the following percentages of his basic pay received for that service: Notwithstanding the preceding provisions of this subsection and any provision of section 206(b)(3) of the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983, the percentage of basic pay required under this subsection in the case of an individual described in section 8402(b)(2) shall, with respect to any covered service (as defined by section 203(a)(3) of such Act) performed by such individual after December 31, 1983 , and before January 1, 1987 , be equal to 1.3 percent, and, with respect to any such service performed after December 31, 1986 , be equal to the amount that would have been deducted from the employee’s basic pay under subsection (k) of this section if the employee’s pay had been subject to that subsection during such period.
+
+|  | Percentage of basic pay | Service period |
+| --- | --- | --- |
+| Employee | 2½ | August 1, 1920 , to June 30, 1926 . |
+|  | 3½ | July 1, 1926 , to June 30, 1942 . |
+|  | 5 | July 1, 1942 , to June 30, 1948 . |
+|  | 6 | July 1, 1948 , to October 31, 1956 . |
+|  | 6½ | November 1, 1956 , to December 31, 1969 . |
+|  | 7 | January 1, 1970 , to December 31, 1998 . |
+|  | 7.25 | January 1, 1999 , to December 31, 1999 . |
+|  | 7.4 | January 1, 2000 , to December 31, 2000 . |
+|  | 7 | After December 31, 2000 . |
+| Member or employee for Congressional employee service | 2½ 3½ 5 6 | August 1, 1920 , to June 30, 1926 . July 1, 1926 , to June 30, 1942 . July 1, 1942 , to June 30, 1948 . July 1, 1948 , to October 31, 1956 . |
+|  | 6½ | November 1, 1956 , to December 31, 1969 . |
+|  | 7.5 | January 1, 1970 , to December 31, 1998 . |
+|  | 7.75 | January 1, 1999 , to December 31, 1999 . |
+|  | 7.9 | January 1, 2000 , to December 31, 2000 . |
+|  | 7.5 | After December 31, 2000 . |
+| Member for Member service | 2½ 3½ | August 1, 1920 , to June 30, 1926 . July 1, 1926 , to June 30, 1942 . |
+|  | 5 | July 1, 1942 , to August 1, 1946 . |
+|  | 6 | August 2, 1946 , to October 31, 1956 . |
+|  | 7½ | November 1, 1956 , to December 31, 1969 . |
+|  | 8 | January 1, 1970 , to December 31, 1998 . |
+|  | 8.25 | January 1, 1999 , to December 31, 1999 . |
+|  | 8.4 | January 1, 2000 , to December 31, 2000 . |
+|  | 8.5 | January 1, 2001 , to December 31, 2002 . |
+|  | 8 | After December 31, 2002 . |
+| Law enforcement officer for law enforcement service, member of the Supreme Court Police for Supreme Court Police service, and firefighter for firefighter service | 2½ 3½ 5 6 6½ 7 | August 1, 1920 , to June 30, 1926 . July 1, 1926 , to June 30, 1942 . July 1, 1942 , to June 30, 1948 . July 1, 1948 , to October 31, 1956 . November 1, 1956 , to December 31, 1969 . January 1, 1970 , to December 31, 1974 . |
+|  | 7.5 | January 1, 1975 , to December 31, 1998 . |
+|  | 7.75 | January 1, 1999 , to December 31, 1999 . |
+|  | 7.9 | January 1, 2000 , to December 31, 2000 . |
+|  | 7.5 | After December 31, 2000 . |
+| Bankruptcy judge | 2½ 3½ | August 1, 1920 , to June 30, 1926 . July 3, 1926 , to June 30, 1942 . |
+|  | 5 | July 1, 1942 , to June 30, 1948 . |
+|  | 6 | July 1, 1948 , to October 31, 1956 . |
+|  | 6½ | November 1, 1956 , to December 31, 1969 . |
+|  | 7 | January 1, 1970 , to December 31, 1983 . |
+|  | 8 | January 1, 1984 , to December 31, 1998 . |
+|  | 8.25 | January 1, 1999 , to December 31, 1999 . |
+|  | 8.4 | January 1, 2000 , to December 31, 2000 . |
+|  | 8 | After December 31, 2000 . |
+| Judge of the United States Court of Appeals for the Armed Forces for service as a judge of that court | 6 6½ 7 | May 5, 1950 , to October 31, 1956 . November 1, 1956 , to December 31, 1969 . January 1, 1970 , to (but not including) the date of the enactment of the Department of Defense Authorization Act, 1984. |
+|  | 8 | The date of enactment of the Department of Defense Authorization Act, 1984, to December 31, 1998 . |
+|  | 8.25 | January 1, 1999 , to December 31, 1999 . |
+|  | 8.4 | January 1, 2000 , to December 31, 2000 . |
+|  | 8 | After December 31, 2000 . |
+| United States magistrate judge | 2½ 3½ | August 1, 1920 , to June 30, 1926 . July 1, 1926 , to June 30, 1942 . |
+|  | 5 | July 1, 1942 , to June 30, 1948 . |
+|  | 6 | July 1, 1948 , to October 31, 1956 . |
+|  | 6½ | November 1, 1956 , to December 31, 1969 . |
+|  | 7 | January 1, 1970 , to September 30, 1987 . |
+|  | 8 | October 1, 1987 , to December 31, 1998 . |
+|  | 8.25 | January 1, 1999 , to December 31, 1999 . |
+|  | 8.4 | January 1, 2000 , to December 31, 2000 . |
+|  | 8 | After December 31, 2000 . |
+| Court of Federal Claims Judge | 2½ 3½ | August 1, 1920 , to June 30, 1926 . July 1, 1926 , to June 30, 1942 . |
+|  | 5 | July 1, 1942 , to June 30, 1948 . |
+|  | 6 | July 1, 1948 , to October 31, 1956 . |
+|  | 6½ | November 1, 1956 , to December 31, 1969 . |
+|  | 7 | January 1, 1970 , to September 30, 1988 . |
+|  | 8 | October 1, 1988 , to December 31, 1998 . |
+|  | 8.25 | January 1, 1999 , to December 31, 1999 . |
+|  | 8.4 | January 1, 2000 , to December 31, 2000 . |
+|  | 8 | After December 31, 2000 . |
+| Member of the Capitol Police | 2.5 3.5 | August 1, 1920 , to June 30, 1926 . July 1, 1926 , to June 30, 1942 . |
+|  | 5 | July 1, 1942 , to June 30, 1948 . |
+|  | 6 | July 1, 1948 , to October 31, 1956 . |
+|  | 6.5 | November 1, 1956 , to December 31, 1969 . |
+|  | 7.5 | January 1, 1970 , to December 31, 1998 . |
+|  | 7.75 | January 1, 1999 , to December 31, 1999 . |
+|  | 7.9 | January 1, 2000 , to December 31, 2000 . |
+|  | 7.5 | After December 31, 2000 . |
+| Nuclear materials courier | 7 | October 1, 1977 to October 16, 1998 . |
+|  | 7.5 | October 17, 1998 to December 31, 1998 . |
+|  | 7.75 | January 1, 1999 to December 31, 1999 . |
+|  | 7.9 | January 1, 2000 to December 31, 2000 . |
+|  | 7.5 | After December 31, 2000 . |
+| Customs and border protection officer | 7.5 | After June 29, 2008 . |
+
 - **(d)**
   - **(1)** Each employee or Member who has received a refund of retirement deductions under this or any other retirement system established for employees of the Government covering service for which he may be allowed credit under this subchapter may deposit the amount received, with interest. Credit may not be allowed for the service covered by the refund until the deposit is made.
   - **(2)**
@@ -96,3 +176,606 @@ generated_at: "2026-03-30T02:52:56.046Z"
     - **(D)** The Director of the Office of Personnel Management shall issue such regulations as are necessary to carry out this paragraph.
 - **(m)** A Member who has served in a position in the executive branch for which the rate of basic pay was reduced for the duration of the service of the Member to remove the impediment to the appointment of the Member imposed by article I, section 6, clause 2 of the Constitution, or the survivor of such a Member, may deposit to the credit of the Fund an amount equal to the difference between the amount deducted from the basic pay of the Member during that period of service and the amount that would have been deducted if the rate of basic pay which would otherwise have been in effect during that period had been in effect, plus interest computed under subsection (e).
 - **(n)** Notwithstanding subsection (c), no deposit may be made with respect to service credited under section 8332(b)(17).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 2 U.S.C. 129 . | July 1, 1957 , Pub. L. 85–75, § 101 (proviso on p. 248), 71 Stat. 248 . |
+|  | 5 U.S.C. 2254 . | July 31, 1956, ch. 804, § 401 “Sec. 4”, 70 Stat. 747 . |
+|  |  | June 29, 1957 , Pub. L. 85–65, § 1 , 71 Stat. 209 . |
+|  |  | May 27, 1958 , Pub. L. 85–426, § 214(b) (words before comma), 72 Stat. 143 . |
+|  |  | Aug. 27, 1958 , Pub. L. 85–772, § 1(d) , 72 Stat. 930 . |
+
+| 1967 Act | Col 2 | Col 3 |
+| --- | --- | --- |
+| 8334(g)(4) | 5 App.: 2254(g). | Nov. 2, 1966 , Pub. L. 89–702, § 208(c) , 80 Stat. 1096 . |
+
+
+Employee
+
+2½
+
+August 1, 1920
+
+June 30, 1926
+
+3½
+
+July 1, 1926
+
+June 30, 1942
+
+5
+
+July 1, 1942
+
+June 30, 1948
+
+6
+
+July 1, 1948
+
+October 31, 1956
+
+6½
+
+November 1, 1956
+
+December 31, 1969
+
+7
+
+January 1, 1970
+
+December 31, 1998
+
+7.25
+
+January 1, 1999
+
+December 31, 1999
+
+7.4
+
+January 1, 2000
+
+December 31, 2000
+
+7
+
+December 31, 2000
+
+2½
+
+3½
+
+5
+
+6
+
+August 1, 1920
+
+June 30, 1926
+
+July 1, 1926
+
+June 30, 1942
+
+July 1, 1942
+
+June 30, 1948
+
+July 1, 1948
+
+October 31, 1956
+
+6½
+
+November 1, 1956
+
+December 31, 1969
+
+7.5
+
+January 1, 1970
+
+December 31, 1998
+
+7.75
+
+January 1, 1999
+
+December 31, 1999
+
+7.9
+
+January 1, 2000
+
+December 31, 2000
+
+7.5
+
+December 31, 2000
+
+2½
+
+3½
+
+August 1, 1920
+
+June 30, 1926
+
+July 1, 1926
+
+June 30, 1942
+
+5
+
+July 1, 1942
+
+August 1, 1946
+
+6
+
+August 2, 1946
+
+October 31, 1956
+
+7½
+
+November 1, 1956
+
+December 31, 1969
+
+8
+
+January 1, 1970
+
+December 31, 1998
+
+8.25
+
+January 1, 1999
+
+December 31, 1999
+
+8.4
+
+January 1, 2000
+
+December 31, 2000
+
+8.5
+
+January 1, 2001
+
+December 31, 2002
+
+8
+
+December 31, 2002
+
+2½
+
+3½
+
+5
+
+6
+
+6½
+
+7
+
+August 1, 1920
+
+June 30, 1926
+
+July 1, 1926
+
+June 30, 1942
+
+July 1, 1942
+
+June 30, 1948
+
+July 1, 1948
+
+October 31, 1956
+
+November 1, 1956
+
+December 31, 1969
+
+January 1, 1970
+
+December 31, 1974
+
+7.5
+
+January 1, 1975
+
+December 31, 1998
+
+7.75
+
+January 1, 1999
+
+December 31, 1999
+
+7.9
+
+January 1, 2000
+
+December 31, 2000
+
+7.5
+
+December 31, 2000
+
+2½
+
+3½
+
+August 1, 1920
+
+June 30, 1926
+
+July 3, 1926
+
+June 30, 1942
+
+5
+
+July 1, 1942
+
+June 30, 1948
+
+6
+
+July 1, 1948
+
+October 31, 1956
+
+6½
+
+November 1, 1956
+
+December 31, 1969
+
+7
+
+January 1, 1970
+
+December 31, 1983
+
+8
+
+January 1, 1984
+
+December 31, 1998
+
+8.25
+
+January 1, 1999
+
+December 31, 1999
+
+8.4
+
+January 1, 2000
+
+December 31, 2000
+
+8
+
+December 31, 2000
+
+6
+
+6½
+
+7
+
+May 5, 1950
+
+October 31, 1956
+
+November 1, 1956
+
+December 31, 1969
+
+January 1, 1970
+
+8
+
+December 31, 1998
+
+8.25
+
+January 1, 1999
+
+December 31, 1999
+
+8.4
+
+January 1, 2000
+
+December 31, 2000
+
+8
+
+December 31, 2000
+
+2½
+
+3½
+
+August 1, 1920
+
+June 30, 1926
+
+July 1, 1926
+
+June 30, 1942
+
+5
+
+July 1, 1942
+
+June 30, 1948
+
+6
+
+July 1, 1948
+
+October 31, 1956
+
+6½
+
+November 1, 1956
+
+December 31, 1969
+
+7
+
+January 1, 1970
+
+September 30, 1987
+
+8
+
+October 1, 1987
+
+December 31, 1998
+
+8.25
+
+January 1, 1999
+
+December 31, 1999
+
+8.4
+
+January 1, 2000
+
+December 31, 2000
+
+8
+
+December 31, 2000
+
+2½
+
+3½
+
+August 1, 1920
+
+June 30, 1926
+
+July 1, 1926
+
+June 30, 1942
+
+5
+
+July 1, 1942
+
+June 30, 1948
+
+6
+
+July 1, 1948
+
+October 31, 1956
+
+6½
+
+November 1, 1956
+
+December 31, 1969
+
+7
+
+January 1, 1970
+
+September 30, 1988
+
+8
+
+October 1, 1988
+
+December 31, 1998
+
+8.25
+
+January 1, 1999
+
+December 31, 1999
+
+8.4
+
+January 1, 2000
+
+December 31, 2000
+
+8
+
+December 31, 2000
+
+2.5
+
+3.5
+
+August 1, 1920
+
+June 30, 1926
+
+July 1, 1926
+
+June 30, 1942
+
+5
+
+July 1, 1942
+
+June 30, 1948
+
+6
+
+July 1, 1948
+
+October 31, 1956
+
+6.5
+
+November 1, 1956
+
+December 31, 1969
+
+7.5
+
+January 1, 1970
+
+December 31, 1998
+
+7.75
+
+January 1, 1999
+
+December 31, 1999
+
+7.9
+
+January 1, 2000
+
+December 31, 2000
+
+7.5
+
+December 31, 2000
+
+7
+
+October 1, 1977
+
+October 16, 1998
+
+7.5
+
+October 17, 1998
+
+December 31, 1998
+
+7.75
+
+January 1, 1999
+
+December 31, 1999
+
+7.9
+
+January 1, 2000
+
+December 31, 2000
+
+7.5
+
+December 31, 2000
+
+7.5
+
+June 29, 2008
+
+Historical and Revision Notes
+
+Act
+
+2 U.S.C. 129
+
+July 1, 1957
+
+Pub. L. 85–75, § 101
+
+71 Stat. 248
+
+5 U.S.C. 2254
+
+July 31, 1956, ch. 804, § 401
+
+70 Stat. 747
+
+June 29, 1957
+
+Pub. L. 85–65, § 1
+
+71 Stat. 209
+
+May 27, 1958
+
+Pub. L. 85–426, § 214(b)
+
+72 Stat. 143
+
+Aug. 27, 1958
+
+Pub. L. 85–772, § 1(d)
+
+72 Stat. 930
+
+Act
+
+8334(g)(4)
+
+Nov. 2, 1966
+
+Pub. L. 89–702, § 208(c)
+
+80 Stat. 1096
+
+In General
+
+Termination of Employer Contribution
+
+In general
+
+Special rule
+
+Agency contributions.—
+
+In general
+
+Application
+
+No reduction in agency contributions by the postal service
+
+“Notwithstanding any other provision of law, in the case of an employee of the United States Secret Service or the United States Park Police whose pay is simultaneously subject to a deposit requirement under the District of Columbia Police and Firefighters’ Retirement and Disability System and the contribution requirement under section 3101(a) of the Internal Revenue Code of 1986 [ 26 U.S.C. 3101(a) ]—
+
+Refund Eligibility
+
+Refund Computation
+
+Interest Computation
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 569](https://www.govinfo.gov/link/statute/80/569); [Pub. L. 90–83, § 1(74)](https://www.govinfo.gov/link/plaw/90/public/83), Sept. 11, 1967, [81 Stat. 214](https://www.govinfo.gov/link/statute/81/214); [Pub. L. 90–486, § 5(b)](https://www.govinfo.gov/link/plaw/90/public/486), Aug. 13, 1968, [82 Stat. 757](https://www.govinfo.gov/link/statute/82/757); [Pub. L. 91–93, title I, § 102(a)](https://www.govinfo.gov/link/plaw/91/public/93), title II, § 202, Oct. 20, 1969, [83 Stat. 136](https://www.govinfo.gov/link/statute/83/136), 138; [Pub. L. 92–297, § 7(2)](https://www.govinfo.gov/link/plaw/92/public/297), May 16, 1972, [86 Stat. 144](https://www.govinfo.gov/link/statute/86/144); [Pub. L. 93–350, § 3](https://www.govinfo.gov/link/plaw/93/public/350), July 12, 1974, [88 Stat. 356](https://www.govinfo.gov/link/statute/88/356); [Pub. L. 94–126](https://www.govinfo.gov/link/plaw/94/public/126), §§ 1(a), 2(a), Nov. 12, 1975, [89 Stat. 679](https://www.govinfo.gov/link/statute/89/679); [Pub. L. 95–382, § 1(b)](https://www.govinfo.gov/link/plaw/95/public/382), Sept. 22, 1978, [92 Stat. 727](https://www.govinfo.gov/link/statute/92/727); [Pub. L. 95–454, title IX, § 906(a)(2)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1224](https://www.govinfo.gov/link/statute/92/1224); [Pub. L. 95–598, title III, § 338(b)](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2681](https://www.govinfo.gov/link/statute/92/2681); [Pub. L. 97–164, title II, § 207(b)](https://www.govinfo.gov/link/plaw/97/public/164), Apr. 2, 1982, [96 Stat. 54](https://www.govinfo.gov/link/statute/96/54); [Pub. L. 97–253, title III](https://www.govinfo.gov/link/plaw/97/public/253), §§ 303(a)(1), 306(d), (e), Sept. 8, 1982, [96 Stat. 793](https://www.govinfo.gov/link/statute/96/793), 796, 797; [Pub. L. 97–346, § 3(a)](https://www.govinfo.gov/link/plaw/97/public/346), (c)–(e)(1), Oct. 15, 1982, [96 Stat. 1647](https://www.govinfo.gov/link/statute/96/1647), 1648; [Pub. L. 98–94, title XII](https://www.govinfo.gov/link/plaw/98/public/94), §§ 1256(a), 1257, Sept. 24, 1983, [97 Stat. 701](https://www.govinfo.gov/link/statute/97/701), 702; [Pub. L. 89–702, title II, § 209(f)](https://www.govinfo.gov/link/plaw/89/public/702), as added [Pub. L. 98–129, § 2](https://www.govinfo.gov/link/plaw/98/public/129), Oct. 14, 1983, [97 Stat. 843](https://www.govinfo.gov/link/statute/97/843); [Pub. L. 98–353, title I, § 116(b)](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 344](https://www.govinfo.gov/link/statute/98/344); [Pub. L. 98–615, § 2(2)](https://www.govinfo.gov/link/plaw/98/public/615), Nov. 8, 1984, [98 Stat. 3195](https://www.govinfo.gov/link/statute/98/3195); [Pub. L. 99–335, title II, § 201(a)](https://www.govinfo.gov/link/plaw/99/public/335), (c), June 6, 1986, [100 Stat. 588](https://www.govinfo.gov/link/statute/100/588), 591; [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 100–53, § 2(b)](https://www.govinfo.gov/link/plaw/100/public/53), June 18, 1987, [101 Stat. 367](https://www.govinfo.gov/link/statute/101/367); [Pub. L. 100–238, title I](https://www.govinfo.gov/link/plaw/100/public/238), §§ 102, 108(b)(1), Jan. 8, 1988, [101 Stat. 1744](https://www.govinfo.gov/link/statute/101/1744), 1748; [Pub. L. 100–659, § 6(b)](https://www.govinfo.gov/link/plaw/100/public/659), Nov. 15, 1988, [102 Stat. 3919](https://www.govinfo.gov/link/statute/102/3919); [Pub. L. 101–94, title I, § 102(a)](https://www.govinfo.gov/link/plaw/101/public/94), Aug. 16, 1989, [103 Stat. 626](https://www.govinfo.gov/link/statute/103/626); [Pub. L. 101–508, title VII, § 7001(b)(1)](https://www.govinfo.gov/link/plaw/101/public/508), (2)(A), (B), Nov. 5, 1990, [104 Stat. 1388–328](https://www.govinfo.gov/link/statute/104/1388), 1388–329; [Pub. L. 101–650, title III](https://www.govinfo.gov/link/plaw/101/public/650), §§ 306(c)(2), (e)(2), 321, Dec. 1, 1990, [104 Stat. 5110](https://www.govinfo.gov/link/statute/104/5110), 5112, 5117; [Pub. L. 102–40, title IV, § 402(d)(2)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 239](https://www.govinfo.gov/link/statute/105/239); [Pub. L. 102–378, § 2(59)](https://www.govinfo.gov/link/plaw/102/public/378), Oct. 2, 1992, [106 Stat. 1354](https://www.govinfo.gov/link/statute/106/1354); [Pub. L. 102–572, title IX, § 902(b)](https://www.govinfo.gov/link/plaw/102/public/572), Oct. 29, 1992, [106 Stat. 4516](https://www.govinfo.gov/link/statute/106/4516); [Pub. L. 103–66, title XI, § 11004(a)(3)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 412](https://www.govinfo.gov/link/statute/107/412); [Pub. L. 103–82, title III, § 371(a)(2)](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 910](https://www.govinfo.gov/link/statute/107/910); [Pub. L. 103–337, div. A, title IX, § 924(d)(1)(A)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2832](https://www.govinfo.gov/link/statute/108/2832); [Pub. L. 103–353, § 5(b)](https://www.govinfo.gov/link/plaw/103/public/353), Oct. 13, 1994, [108 Stat. 3173](https://www.govinfo.gov/link/statute/108/3173); [Pub. L. 104–186, title II, § 215(12)](https://www.govinfo.gov/link/plaw/104/public/186), Aug. 20, 1996, [110 Stat. 1746](https://www.govinfo.gov/link/statute/110/1746); [Pub. L. 104–316, title I, § 103(g)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3829](https://www.govinfo.gov/link/statute/110/3829); [Pub. L. 105–33, title VII, § 7001(a)(3)](https://www.govinfo.gov/link/plaw/105/public/33), (4), Aug. 5, 1997, [111 Stat. 653](https://www.govinfo.gov/link/statute/111/653), 657; [Pub. L. 105–61, title V, § 516(a)(1)](https://www.govinfo.gov/link/plaw/105/public/61), Oct. 10, 1997, [111 Stat. 1306](https://www.govinfo.gov/link/statute/111/1306); [Pub. L. 105–261, div. C, title XXXI, § 3154(c)(1)](https://www.govinfo.gov/link/plaw/105/public/261), (2), Oct. 17, 1998, [112 Stat. 2254](https://www.govinfo.gov/link/statute/112/2254); [Pub. L. 106–65, div. A, title X, § 1066(d)(3)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 773](https://www.govinfo.gov/link/statute/113/773); [Pub. L. 106–346, § 101(a) [title V, § 505(a)]](https://www.govinfo.gov/link/plaw/106/public/346), Oct. 23, 2000, [114 Stat. 1356](https://www.govinfo.gov/link/statute/114/1356), 1356A–50; [Pub. L. 106–553, § 1(a)(2) [title III, § 308(b)(1)]](https://www.govinfo.gov/link/plaw/106/public/553), Dec. 21, 2000, [114 Stat. 2762](https://www.govinfo.gov/link/statute/114/2762), 2762A–86; [Pub. L. 107–107, div. A, title XI, § 1132(a)(2)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1243](https://www.govinfo.gov/link/statute/115/1243); [Pub. L. 108–18, § 2(b)](https://www.govinfo.gov/link/plaw/108/public/18), Apr. 23, 2003, [117 Stat. 624](https://www.govinfo.gov/link/statute/117/624); [Pub. L. 109–435, title VIII, § 802(a)(1)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3249](https://www.govinfo.gov/link/statute/120/3249); [Pub. L. 110–161, div. E, title V, § 535(a)(2)](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2075](https://www.govinfo.gov/link/statute/121/2075); [Pub. L. 111–84, div. A, title XIX, § 1902(a)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2615](https://www.govinfo.gov/link/statute/123/2615); [Pub. L. 115–352](https://www.govinfo.gov/link/plaw/115/public/352), §§ 2(a), 3(a), Dec. 21, 2018, [132 Stat. 5067](https://www.govinfo.gov/link/statute/132/5067), 5068.)*

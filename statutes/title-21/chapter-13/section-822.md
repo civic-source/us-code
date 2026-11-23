@@ -3,9 +3,10 @@ title: "Section 822 - Persons required to register"
 usc_title: 21
 usc_section: "822"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 822"
-generated_at: "2026-03-30T02:54:54.291Z"
+generated_at: "2026-11-23T20:26:27.821Z"
+status: "active"
 ---
 
 # § 822. Persons required to register
@@ -110,3 +111,27 @@ generated_at: "2026-03-30T02:54:54.291Z"
       - **(ii)** a research protocol filed with an application for registration approval under section 823(g) of this title ; and
     - **(B)** dosage form development studies performed for the purpose of requesting an investigational new drug exemption under section 355(i) of this title .
   - **(3)** The authority under paragraph (1) to manufacture substances does not include the authority to grow marihuana.
+
+(aa) the physician of the person receiving hospice care; and
+
+(bb) registered under section 823(g) of this title ; and
+
+(aa) is licensed to perform medical or nursing services by the jurisdiction in which the person receiving hospice care was located; and
+
+(bb) is acting within the scope of such employment in accordance with applicable State law; and
+
+(aa) provides a copy of the written policies and procedures to the patient or patient representative and family;
+
+(bb) discusses the policies and procedures with the patient or representative and the family in a language and manner that they understand to ensure that these parties are educated regarding the safe disposal of controlled substances; and
+
+(cc) documents in the patient’s clinical record that the written policies and procedures were provided and discussed; and
+
+(aa) documents in the patient’s clinical record the type of controlled substance, dosage, route of administration, and quantity so disposed; and
+
+(bb) the time, date, and manner in which that disposal occurred.
+
+“Congress finds the following:
+
+## Source Credit
+
+*([Pub. L. 91–513, title II, § 302](https://www.govinfo.gov/link/plaw/91/public/513), Oct. 27, 1970, [84 Stat. 1253](https://www.govinfo.gov/link/statute/84/1253); [Pub. L. 98–473, title II, § 510](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2072](https://www.govinfo.gov/link/statute/98/2072); [Pub. L. 103–200, § 3(b)](https://www.govinfo.gov/link/plaw/103/public/200), Dec. 17, 1993, [107 Stat. 2336](https://www.govinfo.gov/link/statute/107/2336); [Pub. L. 111–273, § 3(a)](https://www.govinfo.gov/link/plaw/111/public/273), Oct. 12, 2010, [124 Stat. 2859](https://www.govinfo.gov/link/statute/124/2859); [Pub. L. 113–143, § 2](https://www.govinfo.gov/link/plaw/113/public/143), Aug. 1, 2014, [128 Stat. 1750](https://www.govinfo.gov/link/statute/128/1750); [Pub. L. 115–271, title III, § 3222(a)](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 3948](https://www.govinfo.gov/link/statute/132/3948); [Pub. L. 117–53, § 2](https://www.govinfo.gov/link/plaw/117/public/53), Nov. 10, 2021, [135 Stat. 411](https://www.govinfo.gov/link/statute/135/411); [Pub. L. 117–215, title I, § 103(b)(1)(B)](https://www.govinfo.gov/link/plaw/117/public/215), Dec. 2, 2022, [136 Stat. 2263](https://www.govinfo.gov/link/statute/136/2263); [Pub. L. 117–328, div. FF, title I, § 1252(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5681](https://www.govinfo.gov/link/statute/136/5681); [Pub. L. 119–26](https://www.govinfo.gov/link/plaw/119/public/26), §§ 3(b)—(f), 4(1), July 16, 2025, [139 Stat. 413–416](https://www.govinfo.gov/link/statute/139/413).)*

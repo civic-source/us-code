@@ -3,9 +3,10 @@ title: "Section 4724 - State aquatic nuisance species management plans"
 usc_title: 16
 usc_section: "4724"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 4724"
-generated_at: "2026-03-30T02:54:23.047Z"
+generated_at: "2026-11-23T20:26:20.753Z"
+status: "active"
 ---
 
 # § 4724. State aquatic nuisance species management plans
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:23.047Z"
   - **(4)** For the purposes of this section, administrative costs for activities and programs carried out with a grant in any fiscal year shall not exceed 5 percent of the amount of the grant in that year.
   - **(5)** In addition to cash outlays and payments, in-kind contributions of property or personnel services by non-Federal interests for activities under this section may be used for the non-Federal share of the cost of those activities.
 - **(c)** Upon request of a State or Indian tribe, the Director or the Under Secretary, to the extent allowable by law and in a manner consistent with section 141 1 1 See References in Text note below. of title 14, may provide assistance to a State or Indian tribe in enforcing an approved State or interstate invasive species management plan.
+
+## Source Credit
+
+*([Pub. L. 101–646, title I, § 1204](https://www.govinfo.gov/link/plaw/101/public/646), Nov. 29, 1990, [104 Stat. 4770](https://www.govinfo.gov/link/statute/104/4770); [Pub. L. 104–332, § 2(e)(6)](https://www.govinfo.gov/link/plaw/104/public/332), (h)(1), Oct. 26, 1996, [110 Stat. 4089](https://www.govinfo.gov/link/statute/110/4089), 4091; [Pub. L. 117–263, div. K, title CXIII, § 11327(e)(4)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4098](https://www.govinfo.gov/link/statute/136/4098).)*

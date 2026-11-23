@@ -3,9 +3,10 @@ title: "Section 150 - Stockholders’ meetings"
 usc_title: 15
 usc_section: "150"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 150"
-generated_at: "2026-03-30T02:54:08.074Z"
+generated_at: "2026-11-23T20:26:03.652Z"
+status: "active"
 ---
 
 # § 150. Stockholders’ meetings
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:08.074Z"
   - **(5)** Authorization of application for the extension of the period of duration of the corporation.
 - **(c)** The adoption of any such amendment or authorization shall require the approval of at least two-thirds of the voting shares. No amendment to the articles of incorporation or authorization for dissolution or extension shall take effect until (1) the corporation files a certificate with the Secretary stating the action taken, in such manner and form as shall be by regulation prescribed, and (2) such amendment or authorization is found and certified by the Secretary to conform to the requirements of this chapter.
 - **(d)** A certified copy of the bylaws and amendments thereof and of the minutes of all stockholders’ meetings of the corporation shall be filed with the registrar.
+
+## Source Credit
+
+*(Sept. 19, 1922, ch. 346, § 10, [42 Stat. 852](https://www.govinfo.gov/link/statute/42/852); Feb. 26, 1925, ch. 345, § 9, [43 Stat. 996](https://www.govinfo.gov/link/statute/43/996).)*

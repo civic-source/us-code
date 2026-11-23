@@ -3,9 +3,10 @@ title: "Section 5009 - Measure of damages"
 usc_title: 12
 usc_section: "5009"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5009"
-generated_at: "2026-03-30T02:53:53.522Z"
+generated_at: "2026-11-23T20:25:59.441Z"
+status: "active"
 ---
 
 # § 5009. Measure of damages
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:53.522Z"
 - **(b)**
   - **(1)** If a person incurs damages that resulted in whole or in part from the negligence or failure of that person to act in good faith, then the amount of any liability due to that person under subsection (a) shall be reduced in proportion to the amount of negligence or bad faith attributable to that person.
   - **(2)** Nothing in this subsection reduces the rights of a consumer or any other person under the Uniform Commercial Code or other applicable provision of Federal or State law.
+
+## Source Credit
+
+*([Pub. L. 108–100, § 10](https://www.govinfo.gov/link/plaw/108/public/100), Oct. 28, 2003, [117 Stat. 1188](https://www.govinfo.gov/link/statute/117/1188).)*

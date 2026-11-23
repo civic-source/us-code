@@ -3,9 +3,10 @@ title: "Section 6591e - Categorical exclusion for greater sage-grouse and mule d
 usc_title: 16
 usc_section: "6591e"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6591e"
-generated_at: "2026-03-30T02:54:23.063Z"
+generated_at: "2026-11-23T20:26:20.809Z"
+status: "active"
 ---
 
 # § 6591e. Categorical exclusion for greater sage-grouse and mule deer habitat
@@ -100,3 +101,15 @@ generated_at: "2026-03-30T02:54:23.063Z"
 - **(g)**
   - **(1)** A covered vegetation management activity that is covered by the categorical exclusion under subsection (b) may not exceed 4,500 acres.
   - **(2)** A covered vegetation management activity carried out on National Forest System land that is covered by the categorical exclusion under subsection (b) shall be limited to areas designated under section 6591a(b) of this title , as of December 20, 2018 .
+
+(aa) juniper, pinyon pine, or other associated conifers; or
+
+(bb) nonnative or invasive vegetation;
+
+(aa) includes multiple interested persons representing diverse interests; and
+
+(bb) (AA) is transparent and nonexclusive; or (BB) meets the requirements for a resource advisory committee under subsections (c) through (f) of section 7125 of this title ; and
+
+## Source Credit
+
+*([Pub. L. 108–148, title VI, § 606](https://www.govinfo.gov/link/plaw/108/public/148), as added [Pub. L. 115–334, title VIII, § 8611](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4848](https://www.govinfo.gov/link/statute/132/4848).)*

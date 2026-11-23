@@ -3,9 +3,10 @@ title: "Section 1926a - Emergency and imminent community water assistance grant 
 usc_title: 7
 usc_section: "1926a"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1926a"
-generated_at: "2026-03-30T02:53:42.345Z"
+generated_at: "2026-11-23T20:25:41.327Z"
+status: "active"
 ---
 
 # § 1926a. Emergency and imminent community water assistance grant program
@@ -52,3 +53,15 @@ generated_at: "2026-03-30T02:53:42.345Z"
       - **(i)** Funds reserved under subparagraph (A) for a fiscal year shall be reserved only until July 1 of the fiscal year.
       - **(ii)** Notwithstanding clause (i), in response to an eligible community where the drinking water supplies are inadequate, as determined by the Secretary, due to an event, including drought, severe weather, or contamination, the Secretary may use funds described in subparagraph (A) from July 1 through September 30 each fiscal year to provide potable water under this section in order to protect public health.
   - **(2)** In addition to funds made available under paragraph (1), there is authorized to be appropriated to carry out this section $50,000,000 for each of fiscal years 2019 through 2023.
+
+Regulations
+
+Funds.—
+
+Obligation
+
+Release
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 306A](https://www.govinfo.gov/link/plaw/87/public/128), as added [Pub. L. 101–82, title V, § 501(a)](https://www.govinfo.gov/link/plaw/101/public/82), Aug. 14, 1989, [103 Stat. 584](https://www.govinfo.gov/link/statute/103/584); amended [Pub. L. 104–127, title VII, § 742](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1124](https://www.govinfo.gov/link/statute/110/1124); [Pub. L. 107–171, title VI, § 6009](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 356](https://www.govinfo.gov/link/statute/116/356); [Pub. L. 110–234, title VI, § 6008](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1163](https://www.govinfo.gov/link/statute/122/1163); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VI, § 6008, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1924; [Pub. L. 113–79, title VI, § 6007](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 843](https://www.govinfo.gov/link/statute/128/843); [Pub. L. 115–334, title VI, § 6407(a)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4759](https://www.govinfo.gov/link/statute/132/4759).)*

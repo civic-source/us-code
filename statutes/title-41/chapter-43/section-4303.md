@@ -3,9 +3,10 @@ title: "Section 4303 - Effect of submission of unallowable costs"
 usc_title: 41
 usc_section: "4303"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 4303"
-generated_at: "2026-03-30T02:55:55.807Z"
+generated_at: "2026-11-23T20:27:04.451Z"
+status: "active"
 ---
 
 # § 4303. Effect of submission of unallowable costs
@@ -25,3 +26,51 @@ generated_at: "2026-03-30T02:55:55.807Z"
 - **(d)** An action of an executive agency under subsection (a) or (b)—
   - **(1)** shall be considered a final decision for the purposes of section 7103 of this title ; and
   - **(2)** is appealable in the manner provided in section 7104(a) of this title .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 4303(a) | 41:256(a). | June 30, 1949, ch. 288 , title III, § 306(a)–(d), as added Pub. L. 100–700, § 8(a)(1) , Nov. 19, 1988 , 102 Stat. 4634 ; Pub. L. 103–355, title II, § 2151 , Oct. 13, 1994 , 108 Stat. 3309 . |
+| 4303(b) | 41:256(b). |  |
+| 4303(c) | 41:256(c). |  |
+| 4303(d) | 41:256(d). |  |
+
+
+Indirect Cost That Violates Federal Acquisition Regulation Cost Principle
+
+Penalty for Violation of Cost Principle.—
+
+Unallowable cost in proposal
+
+Cost determined to be unallowable before proposal submitted
+
+Waiver of Penalty
+
+Applicability of Contract Disputes Procedure
+
+Historical and Revision Notes
+
+4303(a)
+
+June 30, 1949, ch. 288
+
+Pub. L. 100–700, § 8(a)(1)
+
+Nov. 19, 1988
+
+102 Stat. 4634
+
+Pub. L. 103–355, title II, § 2151
+
+Oct. 13, 1994
+
+108 Stat. 3309
+
+4303(b)
+
+4303(c)
+
+4303(d)
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3784](https://www.govinfo.gov/link/statute/124/3784).)*

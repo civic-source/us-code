@@ -3,9 +3,10 @@ title: "Section 7661c - Permit requirements and conditions"
 usc_title: 42
 usc_section: "7661c"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7661c"
-generated_at: "2026-03-30T02:56:11.325Z"
+generated_at: "2026-11-23T20:27:22.961Z"
+status: "active"
 ---
 
 # § 7661c. Permit requirements and conditions
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.325Z"
 - **(f)** Compliance with a permit issued in accordance with this subchapter shall be deemed compliance with section 7661a of this title . Except as otherwise provided by the Administrator by rule, the permit may also provide that compliance with the permit shall be deemed compliance with other applicable provisions of this chapter that relate to the permittee if—
   - **(1)** the permit includes the applicable requirements of such provisions, or
   - **(2)** the permitting authority in acting on the permit application makes a determination relating to the permittee that such other provisions (which shall be referred to in such determination) are not applicable and the permit includes the determination or a concise summary thereof.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title V, § 504, as added [Pub. L. 101–549, title V, § 501](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2642](https://www.govinfo.gov/link/statute/104/2642).)*

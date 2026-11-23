@@ -3,9 +3,10 @@ title: "Section 41736 - Air transportation to noneligible places"
 usc_title: 49
 usc_section: "41736"
 chapter: 417
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 41736"
-generated_at: "2026-03-30T02:56:19.378Z"
+generated_at: "2026-11-23T20:27:35.111Z"
+status: "active"
 ---
 
 # § 41736. Air transportation to noneligible places
@@ -42,3 +43,87 @@ generated_at: "2026-03-30T02:56:19.378Z"
 - **(h)**
   - **(1)** No proposal under subsection (a) may be accepted by the Secretary after the date of enactment of this subsection.
   - **(2)** The Secretary may not provide any compensation under this section after the date that is 2 years after the date of enactment of this subsection.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 41736(a) | 49 App.:1389(d)(1), (2)(A), (C). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 419(d); added Oct. 24, 1978 , Pub. L. 95–504, § 33(a) , 92 Stat. 1732 ; Dec. 8, 1983 , Pub. L. 98–213, § 10 , 97 Stat. 1461 ; Oct. 4, 1984 , Pub. L. 98–443, § 9(r) , 98 Stat. 1708 ; restated Dec. 30, 1987 , Pub. L. 100–223, § 202(a)(1) , (2), (b)(1), 101 Stat. 1507 , 1513. |
+| 41736(b) | 49 App.:1389(d)(2)(B). |  |
+| 41736(c)(1) | 49 App.:1389(d)(3)(A). |  |
+| 41736(c)(2) | 49 App.:1389(d)(4). |  |
+| 41736(d) | 49 App.:1389(d)(5), (7), (8). |  |
+| 41736(e) | 49 App.:1389(d)(3)(B). |  |
+| 41736(f) | 49 App.:1389(d)(2)(D). |  |
+| 41736(g) | 49 App.:1389(d)(6). |  |
+
+
+Proposals and Decisions
+
+Approval for Certain Air Transportation
+
+Level of Air Transportation
+
+Compensation Payments
+
+Review
+
+Withdrawal of Eligibility Designations
+
+Ending, Suspending, and Reducing Air Transportation
+
+Sunset.—
+
+Proposals
+
+Program
+
+Historical and Revision Notes
+
+41736(a)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Oct. 24, 1978
+
+Pub. L. 95–504, § 33(a)
+
+92 Stat. 1732
+
+Dec. 8, 1983
+
+Pub. L. 98–213, § 10
+
+97 Stat. 1461
+
+Oct. 4, 1984
+
+Pub. L. 98–443, § 9(r)
+
+98 Stat. 1708
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 202(a)(1)
+
+101 Stat. 1507
+
+41736(b)
+
+41736(c)(1)
+
+41736(c)(2)
+
+41736(d)
+
+41736(e)
+
+41736(f)
+
+41736(g)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1149](https://www.govinfo.gov/link/statute/108/1149); [Pub. L. 106–181, title II, § 202](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 91](https://www.govinfo.gov/link/statute/114/91); [Pub. L. 115–254, div. B, title IV, § 453(b)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3348](https://www.govinfo.gov/link/statute/132/3348).)*

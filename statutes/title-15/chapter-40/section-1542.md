@@ -3,9 +3,10 @@ title: "Section 1542 - Establishment of the Ernest F. Hollings Scholarship Progr
 usc_title: 15
 usc_section: "1542"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1542"
-generated_at: "2026-03-30T02:54:08.137Z"
+generated_at: "2026-11-23T20:26:04.021Z"
+status: "active"
 ---
 
 # § 1542. Establishment of the Ernest F. Hollings Scholarship Program
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:08.137Z"
 - **(e)** The amount of each Ernest F. Hollings Scholarship shall be provided directly to a recipient selected by the Administrator upon receipt of certification that the recipient will adhere to a specific and detailed plan of study and research approved by an institution of higher education.
 - **(f)** Of the total amount appropriated for fiscal year 2005 and annually hereafter to the National Oceanic and Atmospheric Administration, the Administrator shall make available for the Ernest F. Hollings Scholarship program one-tenth of 1 percent of such appropriations.
 - **(g)** The Administrator shall require an individual receiving a scholarship under this section to repay the full amount of the scholarship to the National Oceanic and Atmospheric Administration if the Administrator determines that the individual, in obtaining or using the scholarship, engaged in fraudulent conduct or failed to comply with any term or condition of the scholarship. Such repayments shall be deposited in the NOAA Operations, Research, and Facilities Appropriations Account and treated as an offsetting collection and only be available for financing additional scholarships.
+
+## Source Credit
+
+*([Pub. L. 108–447, div. B, title II, § 214](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 2884](https://www.govinfo.gov/link/statute/118/2884).)*

@@ -3,9 +3,10 @@ title: "Section 5174 - Federal assistance to individuals and households"
 usc_title: 42
 usc_section: "5174"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5174"
-generated_at: "2026-03-30T02:56:11.225Z"
+generated_at: "2026-11-23T20:27:22.487Z"
+status: "active"
 ---
 
 # § 5174. Federal assistance to individuals and households
@@ -113,3 +114,29 @@ generated_at: "2026-03-30T02:56:11.225Z"
   - **(4)** provide instructions to recipients of assistance under this section regarding the proper use of any such assistance, regardless of how such assistance is distributed; and
   - **(5)** conduct an expedited and simplified review and appeal process for an individual or household whose application for assistance under this section is denied.
 - **(j)** The President shall prescribe rules and regulations to carry out this section, including criteria, standards, and procedures for determining eligibility for assistance.
+
+(aa) enter into lease agreements with owners of multifamily rental property impacted by a major disaster or located in areas covered by a major disaster declaration to house individuals and households eligible for assistance under this section; and
+
+(bb) make repairs or improvements to properties under such lease agreements, to the extent necessary to serve as safe and adequate temporary housing.
+
+In General
+
+Use of Funds
+
+Definitions
+
+Waiver Authority for State Liability
+
+Waiver Authority for Federal Liability
+
+Reporting.—
+
+State reporting
+
+OIG reporting
+
+“The Federal Emergency Management Agency (FEMA) shall reimburse State and local units of government (for requests received within a period of 3 years after the declaration of a major disaster under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5170 )) upon determination that a locally implemented housing solution, implemented by State or local units of government—
+
+## Source Credit
+
+*([Pub. L. 93–288, title IV, § 408](https://www.govinfo.gov/link/plaw/93/public/288), as added [Pub. L. 100–707, title I, § 106(d)](https://www.govinfo.gov/link/plaw/100/public/707), Nov. 23, 1988, [102 Stat. 4702](https://www.govinfo.gov/link/statute/102/4702); amended [Pub. L. 106–390, title II, § 206(a)](https://www.govinfo.gov/link/plaw/106/public/390), Oct. 30, 2000, [114 Stat. 1566](https://www.govinfo.gov/link/statute/114/1566); [Pub. L. 109–295, title VI](https://www.govinfo.gov/link/plaw/109/public/295), §§ 685, 686, 689(c), 689d, 696(c), Oct. 4, 2006, [120 Stat. 1447–1449](https://www.govinfo.gov/link/statute/120/1447), 1452, 1461; [Pub. L. 113–2, div. B](https://www.govinfo.gov/link/plaw/113/public/2), §§ 1103, 1108(a), Jan. 29, 2013, [127 Stat. 42](https://www.govinfo.gov/link/statute/127/42), 47; [Pub. L. 115–254, div. D](https://www.govinfo.gov/link/plaw/115/public/254), §§ 1211(a), 1212, 1213(a), (b), Oct. 5, 2018, [132 Stat. 3445](https://www.govinfo.gov/link/statute/132/3445), 3448.)*

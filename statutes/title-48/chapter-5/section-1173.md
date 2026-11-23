@@ -3,9 +3,10 @@ title: "Section 1173 - Omitted"
 usc_title: 48
 usc_section: "1173"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1173"
-generated_at: "2026-03-30T02:56:14.582Z"
+generated_at: "2026-11-23T20:27:28.036Z"
+status: "omitted"
 ---
 
 # §§ 1171 to 1173. Omitted

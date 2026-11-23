@@ -3,9 +3,10 @@ title: "Section 10001 - Allocations"
 usc_title: 20
 usc_section: "10001"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 10001"
-generated_at: "2026-03-30T02:54:48.233Z"
+generated_at: "2026-11-23T20:26:15.013Z"
+status: "active"
 ---
 
 # § 10001. Allocations
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:48.233Z"
   - **(2)** 39 percent on the basis of their relative total population.
 - **(e)** From funds allocated under subsection (d), the Secretary shall make grants to the Governor of each State.
 - **(f)** The Governor shall return to the Secretary any funds received under subsection (e) that the Governor does not award as subgrants or otherwise commit within two years of receiving such funds, and the Secretary shall reallocate such funds to the remaining States in accordance with subsection (d).
+
+## Source Credit
+
+*([Pub. L. 111–5, div. A, title XIV, § 14001](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 279](https://www.govinfo.gov/link/statute/123/279).)*

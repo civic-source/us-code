@@ -3,9 +3,10 @@ title: "Section 2021e - Limited availability of certain regional disposal facili
 usc_title: 42
 usc_section: "2021e"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2021e"
-generated_at: "2026-03-30T02:56:11.146Z"
+generated_at: "2026-11-23T20:27:22.050Z"
+status: "active"
 ---
 
 # § 2021e. Limited availability of certain regional disposal facilities during transition and licensing periods
@@ -105,3 +106,25 @@ generated_at: "2026-03-30T02:56:11.146Z"
       - **(ii)** The United States shall not be liable for the wrongful disclosure by any individual or State of any information provided to such individual or State under this subsection.
       - **(iii)** Whenever any individual or State has obtained possession of information under this subsection, the individual shall be subject to the same provisions of law with respect to the disclosure of such information as would apply to an officer or employee of the United States or of any department or agency thereof and the State shall be subject to the same provisions of law with respect to the disclosure of such information as would apply to the United States or any department or agency thereof. No State or State officer or employee who receives trade secrets, proprietary information, or other confidential information under sections 2021b to 2021j of this title may be required to disclose such information under State law.
 - **(g)** Except as provided in subsections (b) through (e), low-level radioactive waste disposed of under this section shall be subject without discrimination to all applicable legal requirements of the compact region and State in which the disposal facility is located as if such low-level radioactive waste were generated within such compact region.
+
+| Reactor Type | 4-year Transition Period | 3-year Licensing Period | Col 4 | Col 5 |
+| --- | --- | --- | --- | --- |
+| PWR | 1027 | 871 | 934 | 685 |
+| BWR | 2300 | 1951 | 2091 | 1533 |
+
+
+PWR
+
+BWR
+
+July
+
+January
+
+January
+
+Proprietary information.—
+
+## Source Credit
+
+*([Pub. L. 96–573, § 5](https://www.govinfo.gov/link/plaw/96/public/573), as added [Pub. L. 99–240, title I, § 102](https://www.govinfo.gov/link/plaw/99/public/240), Jan. 15, 1986, [99 Stat. 1846](https://www.govinfo.gov/link/statute/99/1846).)*

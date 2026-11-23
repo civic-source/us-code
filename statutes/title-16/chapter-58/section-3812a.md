@@ -3,9 +3,10 @@ title: "Section 3812a - Development and implementation of conservation plans and
 usc_title: 16
 usc_section: "3812a"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3812a"
-generated_at: "2026-03-30T02:54:23.022Z"
+generated_at: "2026-11-23T20:26:20.681Z"
+status: "active"
 ---
 
 # § 3812a. Development and implementation of conservation plans and conservation systems
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:23.022Z"
   - **(4)** For the purpose of determining the eligibility of a person for the payment described in section 3811(a)(1)(E) of this title , the Secretary shall apply the procedures described in section 3821(c)(3)(E) of this title and coordinate the certification process so as to avoid duplication or unnecessary paperwork.
 - **(e)** The Secretary shall, using available resources and consistent with the Secretary’s other conservation responsibilities and objectives, provide technical assistance to a person throughout the development, revision, and application of the conservation plan and any conservation system of the person. At the request of the person, the Secretary may provide technical assistance regarding conservation measures and management practices for other lands of the person that do not contain highly erodible cropland.
 - **(f)** To encourage on-farm conservation research, the Secretary may allow a person to include in the person’s conservation plan or a conservation system under the plan, on a field trial basis, practices that are not currently approved but that the Secretary considers have a reasonable likelihood of success.
+
+## Source Credit
+
+*([Pub. L. 99–198, title XII, § 1213](https://www.govinfo.gov/link/plaw/99/public/198), as added [Pub. L. 104–127, title III, § 315(a)(2)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 984](https://www.govinfo.gov/link/statute/110/984); amended [Pub. L. 113–79, title II, § 2611(a)(3)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 763](https://www.govinfo.gov/link/statute/128/763).)*

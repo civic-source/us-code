@@ -3,9 +3,10 @@ title: "Section 6335 - Targeted grants to local educational agencies"
 usc_title: 20
 usc_section: "6335"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 6335"
-generated_at: "2026-03-30T02:54:48.196Z"
+generated_at: "2026-11-23T20:26:14.830Z"
+status: "active"
 ---
 
 # § 6335. Targeted grants to local educational agencies
@@ -57,3 +58,7 @@ generated_at: "2026-03-30T02:54:48.196Z"
   - **(2)** the average of—
     - **(A)** 0.35 percent of the total amount available to carry out this section; and
     - **(B)** 150 percent of the national average grant under this section per child described in section 6333(c) of this title , without application of a weighting factor, multiplied by the State’s total number of children described in section 6333(c) of this title , without application of a weighting factor.
+
+## Source Credit
+
+*([Pub. L. 89–10, title I, § 1125](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 107–110, title I, § 101](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1522](https://www.govinfo.gov/link/statute/115/1522).)*

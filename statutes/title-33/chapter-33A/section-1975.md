@@ -3,9 +3,10 @@ title: "Section 1975 - Report to Congress"
 usc_title: 33
 usc_section: "1975"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1975"
-generated_at: "2026-03-30T02:55:41.111Z"
+generated_at: "2026-11-23T20:26:54.110Z"
+status: "active"
 ---
 
 # § 1975. Report to Congress
@@ -14,3 +15,7 @@ Not later than 60 days after the date on which a cash prize is awarded under thi
 
   - **(1)** if the Secretary has entered into an agreement under section 1973 of this title , a statement by the Marine Debris Foundation that describes the activities carried out by the Marine Debris Foundation relating to the duties described in section 1973 of this title ; and
   - **(2)** a statement by 1 or more of the judges appointed under section 1974 of this title that explains the basis on which the winner of the cash prize was selected.
+
+## Source Credit
+
+*([Pub. L. 109–449, § 125](https://www.govinfo.gov/link/plaw/109/public/449), formerly [Pub. L. 116–224, title I, § 125](https://www.govinfo.gov/link/plaw/116/public/224), Dec. 18, 2020, [134 Stat. 1083](https://www.govinfo.gov/link/statute/134/1083); renumbered [Pub. L. 109–449, § 125](https://www.govinfo.gov/link/plaw/109/public/449), by [Pub. L. 119–65, § 4(a)](https://www.govinfo.gov/link/plaw/119/public/65), Dec. 26, 2025, [139 Stat. 1989](https://www.govinfo.gov/link/statute/139/1989).)*

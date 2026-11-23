@@ -3,9 +3,10 @@ title: "Section 3103a - Additional grounds for issuing warrant"
 usc_title: 18
 usc_section: "3103a"
 chapter: 205
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 3103a"
-generated_at: "2026-03-30T02:54:16.511Z"
+generated_at: "2026-11-23T20:26:08.653Z"
+status: "active"
 ---
 
 # § 3103a. Additional grounds for issuing warrant
@@ -24,3 +25,21 @@ generated_at: "2026-03-30T02:54:16.511Z"
     - **(D)** the offense specified in the warrant or application.
   - **(2)** Beginning with the fiscal year ending September 30, 2007 , the Director of the Administrative Office of the United States Courts shall transmit to Congress annually a full and complete report summarizing the data required to be filed with the Administrative Office by paragraph (1), including the number of applications for warrants and extensions of warrants authorizing delayed notice, and the number of such warrants and extensions granted or denied during the preceding fiscal year.
   - **(3)** The Director of the Administrative Office of the United States Courts, in consultation with the Attorney General, is authorized to issue binding regulations dealing with the content and form of the reports required to be filed under paragraph (1).
+
+In General
+
+Delay
+
+Extensions of Delay
+
+Reports.—
+
+Report by judge
+
+Report by administrative office of the united states courts
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 90–351, title IX, § 1401(a)](https://www.govinfo.gov/link/plaw/90/public/351), June 19, 1968, [82 Stat. 238](https://www.govinfo.gov/link/statute/82/238); amended [Pub. L. 107–56, title II, § 213](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 285](https://www.govinfo.gov/link/statute/115/285); [Pub. L. 109–177, title I, § 114](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 210](https://www.govinfo.gov/link/statute/120/210).)*

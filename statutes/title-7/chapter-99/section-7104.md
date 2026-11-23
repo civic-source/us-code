@@ -3,9 +3,10 @@ title: "Section 7104 - Required terms in orders"
 usc_title: 7
 usc_section: "7104"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7104"
-generated_at: "2026-03-30T02:53:42.443Z"
+generated_at: "2026-11-23T20:25:41.752Z"
+status: "active"
 ---
 
 # § 7104. Required terms in orders
@@ -165,3 +166,161 @@ generated_at: "2026-03-30T02:53:42.443Z"
     - **(D)** No information obtained under this chapter may be made available to any agency or officer of the Federal Government for any purpose other than the implementation of this chapter or any investigatory or enforcement action necessary for the implementation of this chapter.
     - **(E)** Any person who willfully violates this paragraph, on conviction, shall be subject to a fine of not more than $1,000 or to imprisonment for not more than 1 year, or both, and if the person is an officer or employee of the Board or the Department, shall be removed from office.
 - **(n)** The order shall provide such terms and conditions, not inconsistent with this section, as are necessary to carry out the order, including provisions for the assessment of a penalty for the late payment of an assessment due under the order.
+
+|  | Col 2 |
+| --- | --- |
+| Alabama | 1 |
+| Alaska | 1 |
+| Arizona | 1 |
+| Arkansas | 1 |
+| California | 5 |
+| Colorado | 4 |
+| Connecticut | 1 |
+| Delaware | 1 |
+| Florida | 1 |
+| Georgia | 1 |
+| Hawaii | 1 |
+| Idaho | 2 |
+| Illinois | 1 |
+| Indiana | 1 |
+| Iowa | 2 |
+| Kansas | 1 |
+| Kentucky | 1 |
+| Louisiana | 1 |
+| Maine | 1 |
+| Maryland | 1 |
+| Massachusetts | 1 |
+| Michigan | 1 |
+| Minnesota | 2 |
+| Mississippi | 1 |
+| Missouri | 1 |
+| Montana | 5 |
+| Nebraska | 1 |
+| Nevada | 1 |
+| New Hampshire | 1 |
+| New Jersey | 1 |
+| New Mexico | 2 |
+| New York | 1 |
+| North Carolina | 1 |
+| North Dakota | 2 |
+| Ohio | 1 |
+| Oklahoma | 1 |
+| Oregon | 2 |
+| Pennsylvania | 1 |
+| Rhode Island | 1 |
+| South Carolina | 1 |
+| South Dakota | 4 |
+| Tennessee | 1 |
+| Texas | 10 |
+| Utah | 3 |
+| Vermont | 1 |
+| Virginia | 1 |
+| Washington | 1 |
+| West Virginia | 1 |
+| Wisconsin | 1 |
+| Wyoming | 5 |
+
+
+Alabama
+
+Alaska
+
+Arizona
+
+Arkansas
+
+California
+
+Colorado
+
+Connecticut
+
+Delaware
+
+Florida
+
+Georgia
+
+Hawaii
+
+Idaho
+
+Illinois
+
+Indiana
+
+Iowa
+
+Kansas
+
+Kentucky
+
+Louisiana
+
+Maine
+
+Maryland
+
+Massachusetts
+
+Michigan
+
+Minnesota
+
+Mississippi
+
+Missouri
+
+Montana
+
+Nebraska
+
+Nevada
+
+New Hampshire
+
+New Jersey
+
+New Mexico
+
+New York
+
+North Carolina
+
+North Dakota
+
+Ohio
+
+Oklahoma
+
+Oregon
+
+Pennsylvania
+
+Rhode Island
+
+South Carolina
+
+South Dakota
+
+Tennessee
+
+Texas
+
+Utah
+
+Vermont
+
+Virginia
+
+Washington
+
+West Virginia
+
+Wisconsin
+
+Wyoming
+
+## Source Credit
+
+*([Pub. L. 103–407, § 5](https://www.govinfo.gov/link/plaw/103/public/407), Oct. 22, 1994, [108 Stat. 4213](https://www.govinfo.gov/link/statute/108/4213).)*

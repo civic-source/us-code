@@ -3,9 +3,10 @@ title: "Section 7432 - Definitions"
 usc_title: 22
 usc_section: "7432"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7432"
-generated_at: "2026-03-30T02:55:05.440Z"
+generated_at: "2026-11-23T20:26:32.664Z"
+status: "active"
 ---
 
 # § 7432. Definitions
@@ -26,3 +27,7 @@ As used in this subchapter and in section 7402 of this title :
     - **(B)** is paid for from assessed contributions of United Nations members that are made available for peacekeeping or peace enforcement activities.
   - **(11)** The term “Rome Statute” means the Rome Statute of the International Criminal Court, adopted by the United Nations Diplomatic Conference of Plenipotentiaries on the Establishment of an International Criminal Court on July 17, 1998 .
   - **(12)** The term “support” means assistance of any kind, including financial support, transfer of property or other material support, services, intelligence sharing, law enforcement cooperation, the training or detail of personnel, and the arrest or detention of individuals.
+
+## Source Credit
+
+*([Pub. L. 107–206, title II, § 2013](https://www.govinfo.gov/link/plaw/107/public/206), Aug. 2, 2002, [116 Stat. 907](https://www.govinfo.gov/link/statute/116/907); [Pub. L. 109–364, div. A, title XII, § 1222](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2423](https://www.govinfo.gov/link/statute/120/2423); [Pub. L. 110–181, div. A, title XII, § 1212(b)(2)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 371](https://www.govinfo.gov/link/statute/122/371).)*

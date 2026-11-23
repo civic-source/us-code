@@ -3,12 +3,17 @@ title: "Section 275 - Laws applicable"
 usc_title: 30
 usc_section: "275"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 275"
-generated_at: "2026-03-30T02:55:29.382Z"
+generated_at: "2026-11-23T20:26:34.932Z"
+status: "active"
 ---
 
 # § 275. Laws applicable
 
 The general provisions of sections 181 to 184, 185 to 188, 189 to 192, 193, and 194 1 1 See References in Text note below. of this title, are made applicable to permits and leases under this subchapter, sections 181 and 193 of this title being amended to include deposits of sulphur, and section 184 of this title being amended so as to prohibit any person, association, or corporation from taking or holding more than three sulphur permits or leases in any one State during the life of such permits or leases.
 
+
+## Source Credit
+
+*(Apr. 17, 1926, ch. 158, § 5, [44 Stat. 302](https://www.govinfo.gov/link/statute/44/302).)*

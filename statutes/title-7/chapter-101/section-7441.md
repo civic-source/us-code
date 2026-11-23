@@ -3,9 +3,10 @@ title: "Section 7441 - Findings and declaration of policy"
 usc_title: 7
 usc_section: "7441"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7441"
-generated_at: "2026-03-30T02:53:42.452Z"
+generated_at: "2026-11-23T20:25:41.782Z"
+status: "active"
 ---
 
 # § 7441. Findings and declaration of policy
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:42.452Z"
   - **(7)** canola, rapeseed, and canola and rapeseed products move in interstate and foreign commerce, and canola, rapeseed, and canola and rapeseed products that do not move in interstate or foreign commerce directly burden or affect interstate commerce in canola, rapeseed, and canola and rapeseed products.
 - **(b)** It is the policy of this subchapter to establish an orderly procedure for developing, financing through assessments on domestically produced canola and rapeseed, and implementing a program of research, promotion, consumer information, and industry information designed to strengthen the position in the marketplace of the canola and rapeseed industry, to maintain and expand existing domestic and foreign markets and uses for canola, rapeseed, and canola and rapeseed products, and to develop new markets and uses for canola, rapeseed, and canola and rapeseed products.
 - **(c)** Nothing in this subchapter provides for the control of production or otherwise limits the right of individual producers to produce canola, rapeseed, or canola or rapeseed products.
+
+## Source Credit
+
+*([Pub. L. 104–127, title V, § 532](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1048](https://www.govinfo.gov/link/statute/110/1048).)*

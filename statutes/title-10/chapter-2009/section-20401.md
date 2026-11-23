@@ -3,9 +3,10 @@ title: "Section 20401 - Applicability of certain provisions of law related to se
 usc_title: 10
 usc_section: "20401"
 chapter: 2009
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 20401"
-generated_at: "2026-03-30T02:53:38.282Z"
+generated_at: "2026-11-23T20:25:52.513Z"
+status: "active"
 ---
 
 # § 20401. Applicability of certain provisions of law related to separation
@@ -21,3 +22,9 @@ generated_at: "2026-03-30T02:53:38.282Z"
 - **(f)** The provisions of section 1176 of this title —
   - **(1)** pertaining to a regular enlisted member shall apply to an enlisted member of the Space Force serving on sustained duty; and
   - **(2)** pertaining to a reserve enlisted member serving in an active status shall apply to an enlisted member of the Space Force serving in a space force active status or on sustained duty.
+
+Officer Separation
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title XVII, § 1718(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 656](https://www.govinfo.gov/link/statute/137/656); amended [Pub. L. 118–159, div. A, title V, § 521(w)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1883](https://www.govinfo.gov/link/statute/138/1883).)*

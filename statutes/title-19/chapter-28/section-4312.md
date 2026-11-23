@@ -3,9 +3,10 @@ title: "Section 4312 - Priorities and performance standards for customs moderniz
 usc_title: 19
 usc_section: "4312"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 4312"
-generated_at: "2026-03-30T02:54:24.705Z"
+generated_at: "2026-11-23T20:26:11.132Z"
+status: "active"
 ---
 
 # § 4312. Priorities and performance standards for customs modernization, trade facilitation, and trade enforcement functions and programs
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:24.705Z"
 - **(c)**
   - **(1)** The consultations required by subsection (a)(1) shall occur, at a minimum, on an annual basis.
   - **(2)** The Commissioner shall notify the appropriate congressional committees of any changes to the priorities or performance standards referred to in subsection (a) not later than 30 days before such changes are to take effect.
+
+## Source Credit
+
+*([Pub. L. 114–125, title I, § 103](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 129](https://www.govinfo.gov/link/statute/130/129).)*

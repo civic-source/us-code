@@ -3,9 +3,10 @@ title: "Section 5303 - Annual adjustments to pay schedules"
 usc_title: 5
 usc_section: "5303"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 5303"
-generated_at: "2026-03-30T02:52:56.011Z"
+generated_at: "2026-11-23T20:25:31.874Z"
+status: "active"
 ---
 
 # § 5303. Annual adjustments to pay schedules
@@ -24,3 +25,46 @@ generated_at: "2026-03-30T02:52:56.011Z"
 - **(e)** This section does not impair any authority pursuant to which rates of basic pay may be fixed by administrative action.
 - **(f)** Pay may not be paid, by reason of any provision of this section (disregarding any comparability payment payable), at a rate in excess of the rate of basic pay payable for level V of the Executive Schedule.
 - **(g)** Any rate of pay under this section shall be initially adjusted, effective on the effective date of the rate of pay, under conversion rules prescribed by the President or by such agency or agencies as the President may designate.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 1173 . | Oct. 11, 1962 , Pub. L. 87–793, § 504 , 76 Stat. 842 . Aug. 14, 1964 , Pub. L. 88–426, § 123 , 78 Stat. 412 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 1173
+
+Oct. 11, 1962
+
+Pub. L. 87–793, § 504
+
+76 Stat. 842
+
+Aug. 14, 1964
+
+Pub. L. 88–426, § 123
+
+78 Stat. 412
+
+In General
+
+References
+
+Restoration.—
+
+In general
+
+Citations
+
+Exceptions
+
+Specific Authority
+
+Special Rule
+
+Adjustments in Rates of Pay
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 458](https://www.govinfo.gov/link/statute/80/458); [Pub. L. 90–206, title II, § 207](https://www.govinfo.gov/link/plaw/90/public/206), Dec. 16, 1967, [81 Stat. 631](https://www.govinfo.gov/link/statute/81/631); [Pub. L. 91–375, § 6(c)(10)](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 776](https://www.govinfo.gov/link/statute/84/776); [Pub. L. 94–183, § 2(16)](https://www.govinfo.gov/link/plaw/94/public/183), Dec. 31, 1975, [89 Stat. 1057](https://www.govinfo.gov/link/statute/89/1057); [Pub. L. 95–454, title IX, § 906(a)(2)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1224](https://www.govinfo.gov/link/statute/92/1224); [Pub. L. 96–465, title II, § 2314(c)(2)](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2167](https://www.govinfo.gov/link/statute/94/2167); [Pub. L. 101–509, title V, § 529 [title I, § 101(a)(1)]](https://www.govinfo.gov/link/plaw/101/public/509), Nov. 5, 1990, [104 Stat. 1427](https://www.govinfo.gov/link/statute/104/1427), 1430.)*

@@ -3,9 +3,10 @@ title: "Section 8480 - Subpoena authority"
 usc_title: 5
 usc_section: "8480"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8480"
-generated_at: "2026-03-30T02:52:56.064Z"
+generated_at: "2026-11-23T20:25:32.228Z"
+status: "active"
 ---
 
 # § 8480. Subpoena authority
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:52:56.064Z"
 - **(b)** Notwithstanding any Federal, State, or local law, any person, including officers, agents, and employees, receiving a subpoena under this section, who complies in good faith with the subpoena and thus produces the materials sought, shall not be liable in any court of any State or the United States to any individual, domestic or foreign corporation or upon a partnership or other unincorporated association for such production.
 - **(c)** When a person fails to obey a subpoena issued under this section, the district court of the United States for the district in which the investigation is conducted or in which the person failing to obey is found, shall on proper application issue an order directing that person to comply with the subpoena. The court may punish as contempt any disobedience of its order.
 - **(d)** The Executive Director shall prescribe regulations to carry out subsection (a).
+
+## Source Credit
+
+*(Added [Pub. L. 111–31, div. B, title I, § 107(a)](https://www.govinfo.gov/link/plaw/111/public/31), June 22, 2009, [123 Stat. 1856](https://www.govinfo.gov/link/statute/123/1856).)*

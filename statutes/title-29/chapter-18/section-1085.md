@@ -3,9 +3,10 @@ title: "Section 1085 - Additional funding rules for multiemployer plans in endan
 usc_title: 29
 usc_section: "1085"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1085"
-generated_at: "2026-03-30T02:55:18.713Z"
+generated_at: "2026-11-23T20:26:37.945Z"
+status: "active"
 ---
 
 # § 1085. Additional funding rules for multiemployer plans in endangered status or critical status
@@ -358,3 +359,35 @@ generated_at: "2026-03-30T02:55:18.713Z"
   - **(8)** Notwithstanding any other provision of this section, the actuary’s determinations with respect to a plan’s normal cost, actuarial accrued liability, and improvements in a plan’s funded percentage under this section shall be based upon the unit credit funding method (whether or not that method is used for the plan’s actuarial valuation).
   - **(9)** In the case of a plan described under section 404(c) of title 26 , or a continuation of such a plan, the term “plan sponsor” means the bargaining parties described under paragraph (1).
   - **(10)** The term “benefit commencement date” means the annuity starting date (or in the case of a retroactive annuity starting date, the date on which benefit payments begin).
+
+(aa) the plan is not projected to have an accumulated funding deficiency for the plan year or any of the 9 succeeding plan years, without regard to the use of the shortfall method but taking into account any extension of amortization periods under section 1084(d)(1) of this title ; and
+
+(bb) the plan is not projected to become insolvent within the meaning of section 1426 of this title for any of the 30 succeeding plan years,
+
+(aa) the plan is projected to have an accumulated funding deficiency for the plan year or any of the 9 succeeding plan years, without regard to the use of the shortfall method but taking into account any extension of amortization periods under section 1084(d) of this title ; or
+
+(bb) the plan is projected to become insolvent within the meaning of section 1426 of this title for any of the 30 succeeding plan years.
+
+(aa) the number of months during the period beginning with the month after the month in which occurs the effective date of the suspension and ending with the month during which the participant or beneficiary attains the age of 80, by
+
+(bb) 60 months.
+
+(aa) withdrawn from the plan in a complete withdrawal under section 1383 of this title and has paid the full amount of the employer’s withdrawal liability under section 1381(b)(1) of this title or an agreement with the plan, and
+
+(bb) pursuant to a collective bargaining agreement, assumed liability for providing benefits to participants and beneficiaries of the plan under a separate, single-employer plan sponsored by the employer, in an amount equal to any amount of benefits for such participants and beneficiaries reduced as a result of the financial status of the plan.
+
+(aa) permit the implementation of the suspension proposed by the plan sponsor; or
+
+(bb) permit the implementation of a modification by the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, of such suspension (so long as the plan is projected to avoid insolvency within the meaning of section 1426 of this title under such modification).
+
+(aa) In general For purposes of this subparagraph, a systemically important plan is a plan with respect to which the Pension Benefit Guaranty Corporation projects the present value of projected financial assistance payments exceeds $1,000,000,000 if suspensions are not implemented.
+
+(bb) Indexing For calendar years beginning after 2015, there shall be substituted for the dollar amount specified in item (aa) an amount equal to the product of such dollar amount and a fraction, the numerator of which is the contribution and benefit base (determined under section 430 of title 42 ) for the preceding calendar year and the denominator of which is such contribution and benefit base for calendar year 2014. If the amount otherwise determined under this item is not a multiple of $1,000,000, such amount shall be rounded to the next lowest multiple of $1,000,000.
+
+(aa) In general A court shall review an action challenging a suspension of benefits under this paragraph in accordance with section 706 of title 5 .
+
+(bb) Temporary injunction A court reviewing an action challenging a suspension of benefits under this paragraph may not grant a temporary injunction with respect to such suspension unless the court finds a clear and convincing likelihood that the plaintiff will prevail on the merits of the case.
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 305](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 109–280, title II, § 202(a)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 868](https://www.govinfo.gov/link/statute/120/868); amended [Pub. L. 110–458, title I, § 102(b)(1)(B)](https://www.govinfo.gov/link/plaw/110/public/458) –(G), Dec. 23, 2008, [122 Stat. 5100](https://www.govinfo.gov/link/statute/122/5100), 5101; [Pub. L. 113–235, div. O, title I](https://www.govinfo.gov/link/plaw/113/public/235), §§ 102(a), 103(a), 104(a), 105(a), 106(a), 107(a), 109(a), title II, § 201(a)(1)–(3), (5)–(7)(A), Dec. 16, 2014, [128 Stat. 2774](https://www.govinfo.gov/link/statute/128/2774), 2777, 2779, 2781, 2783, 2789, 2798, 2799–2809.)*

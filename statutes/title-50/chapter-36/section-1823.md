@@ -3,9 +3,10 @@ title: "Section 1823 - Application for order"
 usc_title: 50
 usc_section: "1823"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 1823"
-generated_at: "2026-03-30T02:56:26.209Z"
+generated_at: "2026-11-23T20:27:30.777Z"
+status: "active"
 ---
 
 # § 1823. Application for order
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:56:26.209Z"
     - **(A)** If as a result of a request under paragraph (1) the Attorney General determines not to approve an application under the second sentence of subsection (a) for purposes of making the application under this section, the Attorney General shall provide written notice of the determination to the official making the request for the review of the application under that paragraph. Except when disabled or otherwise unavailable to make a determination under the preceding sentence, the Attorney General may not delegate the responsibility to make a determination under that sentence. The Attorney General shall take appropriate actions in advance to ensure that delegation of such responsibility is clearly established in the event the Attorney General is disabled or otherwise unavailable to make such determination.
     - **(B)** Notice with respect to an application under subparagraph (A) shall set forth the modifications, if any, of the application that are necessary in order for the Attorney General to approve the application under the second sentence of subsection (a) for purposes of making the application under this section.
     - **(C)** Upon review of any modifications of an application set forth under subparagraph (B), the official notified of the modifications under this paragraph shall modify the application if such official determines that such modification is warranted. Such official shall supervise the making of any modification under this subparagraph. Except when disabled or otherwise unavailable to supervise the making of any modification under the preceding sentence, such official may not delegate the responsibility to supervise the making of any modification under that preceding sentence. Each such official shall take appropriate actions in advance to ensure that delegation of such responsibility is clearly established in the event such official is disabled or otherwise unavailable to supervise the making of such modification.
+
+## Source Credit
+
+*([Pub. L. 95–511, title III, § 303](https://www.govinfo.gov/link/plaw/95/public/511), as added [Pub. L. 103–359, title VIII, § 807(a)(3)](https://www.govinfo.gov/link/plaw/103/public/359), Oct. 14, 1994, [108 Stat. 3446](https://www.govinfo.gov/link/statute/108/3446); amended [Pub. L. 106–567, title VI, § 603(a)](https://www.govinfo.gov/link/plaw/106/public/567), Dec. 27, 2000, [114 Stat. 2852](https://www.govinfo.gov/link/statute/114/2852); [Pub. L. 107–56, title II, § 218](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 291](https://www.govinfo.gov/link/statute/115/291); [Pub. L. 108–458, title I, § 1071(e)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3691](https://www.govinfo.gov/link/statute/118/3691); [Pub. L. 110–261, title I, § 107(a)](https://www.govinfo.gov/link/plaw/110/public/261), July 10, 2008, [122 Stat. 2462](https://www.govinfo.gov/link/statute/122/2462); [Pub. L. 111–259, title VIII, § 806(a)(2)](https://www.govinfo.gov/link/plaw/111/public/259), Oct. 7, 2010, [124 Stat. 2748](https://www.govinfo.gov/link/statute/124/2748); [Pub. L. 118–49](https://www.govinfo.gov/link/plaw/118/public/49), §§ 6(a)(2), (b)(2), (c)(2), (e)(2), (f)(2), 10(a)(2), (b)(2), Apr. 20, 2024, [138 Stat. 870–873](https://www.govinfo.gov/link/statute/138/870), 875, 877.)*

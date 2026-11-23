@@ -3,9 +3,10 @@ title: "Section 5362 - Removals of wine from bonded wine cellars"
 usc_title: 26
 usc_section: "5362"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 5362"
-generated_at: "2026-03-30T02:55:27.822Z"
+generated_at: "2026-11-23T20:26:46.434Z"
+status: "active"
 ---
 
 # § 5362. Removals of wine from bonded wine cellars
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:27.822Z"
   - **(1)** Notwithstanding any other provision of law, wine entered into customs bonded warehouses under subsection (c)(4) may, under such regulations as the Secretary may prescribe, be withdrawn from such warehouses for consumption in the United States by and for the official or family use of such foreign governments, organizations, and individuals who are entitled to withdraw imported wines from such warehouses free of tax. Wines transferred to customs bonded warehouses under subsection (c)(4) shall be entered, stored, and accounted for in such warehouses under such regulations and bonds as the Secretary may prescribe, and may be withdrawn therefrom by such governments, organizations, and individuals free of tax under the same conditions and procedures as imported wines.
   - **(2)** Wine entered into customs bonded warehouses under subsection (c)(4) for purposes of removal under paragraph (1) may be withdrawn therefrom for domestic use. Wines so withdrawn shall be treated as American goods exported and returned.
   - **(3)** Wine withdrawn from customs bonded warehouses or otherwise brought into the United States free of tax for the official or family use of foreign governments, organizations, or individuals authorized to obtain wine free of tax shall not be sold and shall not be disposed of or possessed for any use other than an authorized use. The provisions of paragraphs (1)(B) and (3) of section 5043(a) are hereby extended and made applicable to any person selling, disposing of, or possessing any wine in violation of the preceding sentence, and to the wine involved in any such violation.
+
+## Source Credit
+
+*(Added [Pub. L. 85–859, title II, § 201](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1380](https://www.govinfo.gov/link/statute/72/1380); amended [Pub. L. 90–73, § 1(a)](https://www.govinfo.gov/link/plaw/90/public/73), Aug. 29, 1967, [81 Stat. 175](https://www.govinfo.gov/link/statute/81/175); [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1905(c)(4), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1823](https://www.govinfo.gov/link/statute/90/1823), 1834; [Pub. L. 96–39, title VIII, § 807(a)(44)](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 287](https://www.govinfo.gov/link/statute/93/287); [Pub. L. 96–601, § 2(a)](https://www.govinfo.gov/link/plaw/96/public/601), (b), Dec. 24, 1980, [94 Stat. 3495](https://www.govinfo.gov/link/statute/94/3495).)*

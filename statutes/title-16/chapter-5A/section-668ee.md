@@ -3,9 +3,10 @@ title: "Section 668ee - Definitions"
 usc_title: 16
 usc_section: "668ee"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 668ee"
-generated_at: "2026-03-30T02:54:22.890Z"
+generated_at: "2026-11-23T20:26:20.213Z"
+status: "active"
 ---
 
 # § 668ee. Definitions
@@ -29,3 +30,7 @@ For purposes of this Act:
   - **(13)** The terms “State” and “United States” mean the several States of the United States, Puerto Rico, American Samoa, the Virgin Islands, Guam, and the territories and possessions of the United States.
   - **(14)** The term “System” means the National Wildlife Refuge System designated under section 668dd(a)(1) of this title .
   - **(15)** The terms “take”, “taking”, and “taken” mean to pursue, hunt, shoot, capture, collect, or kill, or to attempt to pursue, hunt, shoot, capture, collect, or kill.
+
+## Source Credit
+
+*([Pub. L. 89–669, § 5](https://www.govinfo.gov/link/plaw/89/public/669), Oct. 15, 1966, [80 Stat. 929](https://www.govinfo.gov/link/statute/80/929); [Pub. L. 105–57, § 3(a)](https://www.govinfo.gov/link/plaw/105/public/57), Oct. 9, 1997, [111 Stat. 1253](https://www.govinfo.gov/link/statute/111/1253).)*

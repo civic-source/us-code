@@ -3,9 +3,10 @@ title: "Section 10709 - Distribution"
 usc_title: 46
 usc_section: "10709"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 10709"
-generated_at: "2026-03-30T02:56:15.554Z"
+generated_at: "2026-11-23T20:27:27.158Z"
+status: "active"
 ---
 
 # § 10709. Distribution
@@ -18,3 +19,16 @@ generated_at: "2026-03-30T02:56:15.554Z"
   - **(2)** The court is released from further liability for the money, property, and wages distributed under paragraph (1) of this subsection.
   - **(3)** Instead of acting under paragraphs (1) and (2) of this subsection, the court may require probate or letters of administration to be taken out, and then deliver the money, property, and wages to the legal representative of the seaman.
 - **(b)** If the money, property, and wages are more than $1,500 in value, the court, subject to deductions for expenses, shall deliver the money, property, and wages to the legal representative of the seaman.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 10709 | 46:627 |
+
+
+Historical and Revision Notes
+
+10709
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 574](https://www.govinfo.gov/link/statute/97/574); [Pub. L. 99–307, § 1(15)](https://www.govinfo.gov/link/plaw/99/public/307), May 19, 1986, [100 Stat. 446](https://www.govinfo.gov/link/statute/100/446).)*

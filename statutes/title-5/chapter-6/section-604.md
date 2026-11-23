@@ -3,9 +3,10 @@ title: "Section 604 - Final regulatory flexibility analysis"
 usc_title: 5
 usc_section: "604"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 604"
-generated_at: "2026-03-30T02:52:55.990Z"
+generated_at: "2026-11-23T20:25:31.744Z"
+status: "active"
 ---
 
 # § 604. Final regulatory flexibility analysis
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:52:55.990Z"
   - **(6)** 1 1 So in original. Two pars. (6) have been enacted. a description of the steps the agency has taken to minimize the significant economic impact on small entities consistent with the stated objectives of applicable statutes, including a statement of the factual, policy, and legal reasons for selecting the alternative adopted in the final rule and why each one of the other significant alternatives to the rule considered by the agency which affect the impact on small entities was rejected; and
   - **(6)** 1 for a covered agency, as defined in section 609(d)(2), a description of the steps the agency has taken to minimize any additional cost of credit for small entities.
 - **(b)** The agency shall make copies of the final regulatory flexibility analysis available to members of the public and shall publish in the Federal Register such analysis or a summary thereof.
+
+## Source Credit
+
+*(Added [Pub. L. 96–354, § 3(a)](https://www.govinfo.gov/link/plaw/96/public/354), Sept. 19, 1980, [94 Stat. 1167](https://www.govinfo.gov/link/statute/94/1167); amended [Pub. L. 104–121, title II, § 241(b)](https://www.govinfo.gov/link/plaw/104/public/121), Mar. 29, 1996, [110 Stat. 864](https://www.govinfo.gov/link/statute/110/864); [Pub. L. 111–203, title X, § 1100G(c)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2113](https://www.govinfo.gov/link/statute/124/2113); [Pub. L. 111–240, title I, § 1601](https://www.govinfo.gov/link/plaw/111/public/240), Sept. 27, 2010, [124 Stat. 2551](https://www.govinfo.gov/link/statute/124/2551).)*

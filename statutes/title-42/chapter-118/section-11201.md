@@ -3,9 +3,10 @@ title: "Section 11201 - Findings"
 usc_title: 42
 usc_section: "11201"
 chapter: 118
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11201"
-generated_at: "2026-03-30T02:56:11.396Z"
+generated_at: "2026-11-23T20:27:23.276Z"
+status: "active"
 ---
 
 # § 11201. Findings
@@ -34,3 +35,7 @@ The Congress finds that—
   - **(12)** it is imperative to provide appropriate coordination of the efforts of the Federal Government in the provision of services for individuals with Alzheimer’s disease and related dementias;
   - **(13)** it is important to increase the understanding of Alzheimer’s disease and related dementias by the diverse range of personnel involved in the care of individuals with such disease and dementias; and
   - **(14)** it is imperative that the Social Security Administration be provided information pertaining to Alzheimer’s disease and related dementias, particularly for personnel in such Administration involved in the establishment and updating of criteria for determining whether an individual is under a disability for purposes of titles II and XVI of the Social Security Act [ 42 U.S.C. 401 et seq., 1381 et seq.].
+
+## Source Credit
+
+*([Pub. L. 99–660, title IX, § 902](https://www.govinfo.gov/link/plaw/99/public/660), Nov. 14, 1986, [100 Stat. 3802](https://www.govinfo.gov/link/statute/100/3802); [Pub. L. 102–507, § 4](https://www.govinfo.gov/link/plaw/102/public/507), Oct. 24, 1992, [106 Stat. 3281](https://www.govinfo.gov/link/statute/106/3281).)*

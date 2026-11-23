@@ -3,9 +3,10 @@ title: "Section 8302 - Definitions"
 usc_title: 42
 usc_section: "8302"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8302"
-generated_at: "2026-03-30T02:56:11.340Z"
+generated_at: "2026-11-23T20:27:23.032Z"
+status: "active"
 ---
 
 # § 8302. Definitions
@@ -121,3 +122,7 @@ generated_at: "2026-03-30T02:56:11.340Z"
     - **(B)** the amount, quality, and point of delivery by the pipeline to such person of the natural gas covered by paragraph (1) which is used by the person during such annual period.
   - **(3)** Repealed. Pub. L. 100–42, § 1(c)(2)(H) , May 21, 1987 , 101 Stat. 310 .
   - **(4)** For purposes of this subsection, the term “pipeline” means any interstate or intrastate pipeline or local distribution company.
+
+## Source Credit
+
+*([Pub. L. 95–620, title I, § 103](https://www.govinfo.gov/link/plaw/95/public/620), Nov. 9, 1978, [92 Stat. 3292](https://www.govinfo.gov/link/statute/92/3292); [Pub. L. 100–42, § 1(c)(2)](https://www.govinfo.gov/link/plaw/100/public/42), May 21, 1987, [101 Stat. 310](https://www.govinfo.gov/link/statute/101/310).)*

@@ -3,9 +3,10 @@ title: "Section 823 - Report required"
 usc_title: 6
 usc_section: "823"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 823"
-generated_at: "2026-03-30T02:53:09.501Z"
+generated_at: "2026-11-23T20:25:34.882Z"
+status: "active"
 ---
 
 # § 823. Report required
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:09.501Z"
 - **(c)** In producing the report required under subsection (a), the Secretary shall—
   - **(1)** regularly consult with experts on severe global pandemics, nuclear war, asteroid and comet impacts, supervolcanoes, sudden and severe changes to the climate, and intentional or accidental threats arising from the use and development of emerging technologies; and
   - **(2)** share information gained through the consultation required under paragraph (1) with relevant Federal partners listed in section 822(b) of this title .
+
+## Source Credit
+
+*([Pub. L. 117–263, div. G, title LXXIII, § 7304](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3686](https://www.govinfo.gov/link/statute/136/3686).)*

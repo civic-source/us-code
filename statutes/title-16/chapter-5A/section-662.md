@@ -3,9 +3,10 @@ title: "Section 662 - Impounding, diverting, or controlling of waters"
 usc_title: 16
 usc_section: "662"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 662"
-generated_at: "2026-03-30T02:54:22.887Z"
+generated_at: "2026-11-23T20:26:20.200Z"
+status: "active"
 ---
 
 # § 662. Impounding, diverting, or controlling of waters
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:22.887Z"
 - **(f)** In addition to other requirements, there shall be included in any report submitted to Congress supporting a recommendation for authorization of any new project for the control or use of water as described herein (including any new division of such project or new supplemental works on such project) an estimation of the wildlife benefits or losses to be derived therefrom including benefits to be derived from measures recommended specifically for the development and improvement of wildlife resources, the cost of providing wildlife benefits (including the cost of additional facilities to be installed or lands to be acquired specifically for that particular phase of wildlife conservation relating to the development and improvement of wildlife), the part of the cost of joint-use facilities allocated to wildlife, and the part of such costs, if any, to be reimbursed by non-Federal interests.
 - **(g)** The provisions of this section shall be applicable with respect to any project for the control or use of water as prescribed herein, or any unit of such project authorized before or after the date of enactment of the Fish and Wildlife Coordination Act for planning or construction, but shall not be applicable to any project or unit thereof authorized before the date of enactment of the Fish and Wildlife Coordination Act if the construction of the particular project or unit thereof has been substantially completed. A project or unit thereof shall be considered to be substantially completed when sixty percent or more of the estimated construction cost has been obligated for expenditure.
 - **(h)** The provisions of this Act shall not be applicable to those projects for the impoundment of water where the maximum surface area of such impoundments is less than ten acres, nor to activities for or in connection with programs primarily for land management and use carried out by Federal agencies with respect to Federal lands under their jurisdiction.
+
+## Source Credit
+
+*(Mar. 10, 1934, ch. 55, § 2, [48 Stat. 401](https://www.govinfo.gov/link/statute/48/401); 1939 Reorg. Plan No. II, § 4(e), (f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433](https://www.govinfo.gov/link/statute/53/1433); Aug. 14, 1946, ch. 965, [60 Stat. 1080](https://www.govinfo.gov/link/statute/60/1080); [Pub. L. 85–624, § 2](https://www.govinfo.gov/link/plaw/85/public/624), Aug. 12, 1958, [72 Stat. 564](https://www.govinfo.gov/link/statute/72/564); [Pub. L. 89–72, § 6(b)](https://www.govinfo.gov/link/plaw/89/public/72), July 9, 1965, [79 Stat. 216](https://www.govinfo.gov/link/statute/79/216).)*

@@ -3,9 +3,10 @@ title: "Section 5703 - Improving Tribal access to databases"
 usc_title: 25
 usc_section: "5703"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 5703"
-generated_at: "2026-03-30T02:54:52.873Z"
+generated_at: "2026-11-23T20:26:25.762Z"
+status: "active"
 ---
 
 # § 5703. Improving Tribal access to databases
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:52.873Z"
 - **(c)** Not later than 180 days after October 10, 2020 , the Attorney General shall—
   - **(1)** develop and implement a dissemination strategy to educate the public of the National Missing and Unidentified Persons System; and
   - **(2)** conduct specific outreach to Indian Tribes, Tribal organizations, and urban Indian organizations regarding the ability to publicly enter information, through the National Missing and Unidentified Persons System or other non-law enforcement sensitive portal, regarding missing persons, which may include family members and other known acquaintances.
+
+## Source Credit
+
+*([Pub. L. 116–165, § 4](https://www.govinfo.gov/link/plaw/116/public/165), Oct. 10, 2020, [134 Stat. 761](https://www.govinfo.gov/link/statute/134/761).)*

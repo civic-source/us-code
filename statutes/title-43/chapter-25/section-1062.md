@@ -3,12 +3,17 @@ title: "Section 1062 - Suits for violations of law"
 usc_title: 43
 usc_section: "1062"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1062"
-generated_at: "2026-03-30T02:55:57.467Z"
+generated_at: "2026-11-23T20:27:06.270Z"
+status: "active"
 ---
 
 # § 1062. Suits for violations of law
 
 It shall be the duty of the United States attorney for the proper district, on affidavit filed with him by any citizen of the United States that section 1061 of this title is being violated showing a description of the land inclosed with reasonable certainty, not necessarily by metes and bounds nor by governmental subdivisions of surveyed lands, but only so that the inclosure may be identified, and the persons guilty of the violation as nearly as may be, and by description, if the name cannot on reasonable inquiry be ascertained, to institute a civil suit in the proper United States district court, or territorial district court, in the name of the United States, and against the parties named or described who shall be in charge of or controlling the inclosure complained of as defendants; and jurisdiction is also conferred on any United States district court or territorial district court having jurisdiction over the locality where the land inclosed, or any part thereof, shall be situated, to hear and determine proceedings in equity, by writ of injunction, to restrain violations of the provisions of this chapter; and it shall be sufficient to give the court jurisdiction if service of original process be had in any civil proceeding on any agent or employee having charge or control of the inclosure. In any case if the inclosure shall be found to be unlawful, the court shall make the proper order, judgment, or decree for the destruction of the inclosure, in a summary way, unless the inclosure shall be removed by the defendant within five days after the order of the court.
 
+
+## Source Credit
+
+*(Feb. 25, 1885, ch. 149, § 2, [23 Stat. 321](https://www.govinfo.gov/link/statute/23/321); Mar. 3, 1911, ch. 231, § 291, [36 Stat. 1167](https://www.govinfo.gov/link/statute/36/1167); June 25, 1948, ch. 646, § 1, [62 Stat. 909](https://www.govinfo.gov/link/statute/62/909); [Pub. L. 98–620, title IV, § 402(43)](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3360](https://www.govinfo.gov/link/statute/98/3360).)*

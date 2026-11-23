@@ -3,9 +3,10 @@ title: "Section 16279a - Advanced reactor demonstration program"
 usc_title: 42
 usc_section: "16279a"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16279a"
-generated_at: "2026-03-30T02:56:11.477Z"
+generated_at: "2026-11-23T20:27:23.645Z"
+status: "active"
 ---
 
 # § 16279a. Advanced reactor demonstration program
@@ -70,3 +71,7 @@ generated_at: "2026-03-30T02:56:11.477Z"
   - **(3)** $420,000,000 for fiscal year 2023;
   - **(4)** $455,000,000 for fiscal year 2024; and
   - **(5)** $455,000,000 for fiscal year 2025.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 959A](https://www.govinfo.gov/link/plaw/109/public/58), as added [Pub. L. 116–260, div. Z, title II, § 2003(g)(1)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2467](https://www.govinfo.gov/link/statute/134/2467).)*

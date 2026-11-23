@@ -3,9 +3,10 @@ title: "Section 2507e - Volunteer feedback and Peace Corps review"
 usc_title: 22
 usc_section: "2507e"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2507e"
-generated_at: "2026-03-30T02:55:05.371Z"
+generated_at: "2026-11-23T20:26:32.317Z"
+status: "active"
 ---
 
 # § 2507e. Volunteer feedback and Peace Corps review
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:05.371Z"
     - **(E)** An evaluation of the effectiveness of management of each post within a country.
     - **(F)** An evaluation of the country’s congruence with the Peace Corp’s 2 2 So in original. Probably should be “Corps’ ”. mission and strategic priorities.
   - **(2)** Upon request of the Chairman and Ranking Member of the Committee on Foreign Relations of the Senate or the Committee on Foreign Affairs of the House of Representatives, the President shall brief such committees on each portfolio review required under paragraph (1). If requested, each such briefing shall discuss performance measures and sources of data used (such as project status reports, volunteer surveys, impact studies, reports of Inspector General of the Peace Corps, and any relevant external sources) in making the findings and conclusions in such review.
+
+## Source Credit
+
+*([Pub. L. 87–293, title I, § 8E](https://www.govinfo.gov/link/plaw/87/public/293), as added [Pub. L. 112–57, § 2](https://www.govinfo.gov/link/plaw/112/public/57), Nov. 21, 2011, [125 Stat. 740](https://www.govinfo.gov/link/statute/125/740); amended [Pub. L. 115–256, title II, § 202](https://www.govinfo.gov/link/plaw/115/public/256), Oct. 9, 2018, [132 Stat. 3654](https://www.govinfo.gov/link/statute/132/3654).)*

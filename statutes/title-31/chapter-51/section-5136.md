@@ -3,9 +3,10 @@ title: "Section 5136 - United States Mint Public Enterprise Fund"
 usc_title: 31
 usc_section: "5136"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 5136"
-generated_at: "2026-03-30T02:55:34.066Z"
+generated_at: "2026-11-23T20:26:51.853Z"
+status: "active"
 ---
 
 # § 5136. United States Mint Public Enterprise Fund
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:34.066Z"
   - **(1)** the activities concerning, and assets utilized in, the production, administration, distribution, marketing, purchase, sale, and management of coinage, numismatic items, the protection and safeguarding of Mint assets and those non-Mint assets in the custody of the Mint, and the Fund; and
   - **(2)** includes capital, personnel salaries and compensation, functions relating to operations, marketing, distribution, promotion, advertising, official reception and representation, the acquisition or replacement of equipment, the renovation or modernization of facilities, and the construction or acquisition of new buildings: Provided further , That the term “numismatic item” includes any medal, proof coin, uncirculated coin, bullion coin, numismatic collectible, other monetary issuances and products and accessories related to any such medal or coin: Provided further , That provisions of law governing procurement or public contracts shall not be applicable to the procurement of goods or services necessary for carrying out Mint programs and operations.
 
+
+## Source Credit
+
+*(Added [Pub. L. 104–52, title V, § 522](https://www.govinfo.gov/link/plaw/104/public/52), Nov. 19, 1995, [109 Stat. 494](https://www.govinfo.gov/link/statute/109/494).)*

@@ -3,9 +3,10 @@ title: "Section 2339C - Prohibitions against the financing of terrorism"
 usc_title: 18
 usc_section: "2339C"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2339C"
-generated_at: "2026-03-30T02:54:16.504Z"
+generated_at: "2026-11-23T20:26:08.607Z"
+status: "active"
 ---
 
 # § 2339C. Prohibitions against the financing of terrorism
@@ -75,3 +76,29 @@ generated_at: "2026-03-30T02:54:16.504Z"
   - **(13)** the term “material support or resources” has the same meaning given that term in section 2339B(g)(4) of this title ; and
   - **(14)** the term “state” has the same meaning as that term has under international law, and includes all political subdivisions thereof.
 - **(f)** In addition to any other criminal, civil, or administrative liability or penalty, any legal entity located within the United States or organized under the laws of the United States, including any of the laws of its States, districts, commonwealths, territories, or possessions, shall be liable to the United States for the sum of at least $10,000, if a person responsible for the management or control of that legal entity has, in that capacity, committed an offense set forth in subsection (a).
+
+Offenses.—
+
+In general
+
+Attempts and conspiracies
+
+Relationship to predicate act
+
+Jurisdiction
+
+Concealment
+
+Penalties.—
+
+Subsection
+
+Subsection
+
+Definitions
+
+Civil Penalty
+
+## Source Credit
+
+*(Added [Pub. L. 107–197, title II, § 202(a)](https://www.govinfo.gov/link/plaw/107/public/197), June 25, 2002, [116 Stat. 724](https://www.govinfo.gov/link/statute/116/724); amended [Pub. L. 107–273, div. B, title IV, § 4006](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1813](https://www.govinfo.gov/link/statute/116/1813); [Pub. L. 108–458, title VI, § 6604](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3764](https://www.govinfo.gov/link/statute/118/3764); [Pub. L. 109–177, title IV, § 408](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 245](https://www.govinfo.gov/link/statute/120/245).)*

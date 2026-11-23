@@ -3,9 +3,10 @@ title: "Section 3803 - Hearing and determinations"
 usc_title: 31
 usc_section: "3803"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 3803"
-generated_at: "2026-03-30T02:55:34.061Z"
+generated_at: "2026-11-23T20:26:51.821Z"
+status: "active"
 ---
 
 # § 3803. Hearing and determinations
@@ -118,3 +119,13 @@ generated_at: "2026-03-30T02:55:34.061Z"
 - **(j)**
   - **(1)** The reviewing official has the exclusive authority to compromise or settle any allegations of liability under section 3802 of this title against a person without the consent of the presiding officer at any time after the date on which the reviewing official is permitted to refer allegations of liability to a presiding officer under subsection (b) of this section and prior to the date on which the presiding officer issues a decision under subsection (h) of this section. Any such compromise or settlement shall be in writing.
   - **(2)** A reviewing official shall notify the Attorney General in writing not later than 30 days before entering into any agreement to compromise or settle allegations of liability under section 3802 and before the date on which the reviewing official is permitted to refer allegations of liability to a presiding officer under subsection (b).
+
+Adjustment for Inflation
+
+(aa) to the board of contract appeals that has jurisdiction over matters arising from the agency of the reviewing official pursuant to section 7105(e)(1) of title 41 ; or
+
+(bb) if the Chair of the board of contract appeals declines to accept the referral, to any other board of contract appeals; and
+
+## Source Credit
+
+*(Added [Pub. L. 99–509, title VI, § 6103(a)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1939](https://www.govinfo.gov/link/statute/100/1939); amended [Pub. L. 103–448, title II, § 204(w)(2)(C)](https://www.govinfo.gov/link/plaw/103/public/448), Nov. 2, 1994, [108 Stat. 4746](https://www.govinfo.gov/link/statute/108/4746); [Pub. L. 104–193, title I, § 110](https://www.govinfo.gov/link/plaw/104/public/193) (o), Aug. 22, 1996, [110 Stat. 2175](https://www.govinfo.gov/link/statute/110/2175); [Pub. L. 106–78, title VII, § 752(b)(13)](https://www.govinfo.gov/link/plaw/106/public/78), Oct. 22, 1999, [113 Stat. 1169](https://www.govinfo.gov/link/statute/113/1169); [Pub. L. 110–234, title IV](https://www.govinfo.gov/link/plaw/110/public/234), §§ 4002(b)(1)(A), (B), (2)(S), 4115(c)(2)(E), May 22, 2008, [122 Stat. 1095–1097](https://www.govinfo.gov/link/statute/122/1095), 1110; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, §§ 4002(b)(1)(A), (B), (2)(S), 4115(c)(2)(E), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1857, 1858, 1871; [Pub. L. 113–79, title IV, § 4030](https://www.govinfo.gov/link/plaw/113/public/79) (o), Feb. 7, 2014, [128 Stat. 815](https://www.govinfo.gov/link/statute/128/815); [Pub. L. 118–159, div. E, title LII, § 5203(c)](https://www.govinfo.gov/link/plaw/118/public/159), (f), (g)(1)(B), Dec. 23, 2024, [138 Stat. 2440–2442](https://www.govinfo.gov/link/statute/138/2440).)*

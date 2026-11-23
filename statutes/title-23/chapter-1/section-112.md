@@ -3,9 +3,10 @@ title: "Section 112 - Letting of contracts"
 usc_title: 23
 usc_section: "112"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 112"
-generated_at: "2026-03-30T02:55:12.546Z"
+generated_at: "2026-11-23T20:26:23.745Z"
+status: "active"
 ---
 
 # § 112. Letting of contracts
@@ -70,3 +71,129 @@ generated_at: "2026-03-30T02:55:12.546Z"
     - **(B)** incorporate such pay items into contract provisions to be included in each contract entered into by the State with respect to a highway project to ensure compliance with section 109(e)(2).
   - **(3)** Nothing in the regulations shall prohibit a State from implementing standards that are more stringent than those required under the regulations.
   - **(4)** In this subsection, the term “positive protective measures” means temporary traffic barriers, crash cushions, and other strategies to avoid traffic accidents in work zones, including full road closures.
+
+Bidding Requirements.—
+
+In general
+
+Contracting for engineering and design services.—
+
+General rule
+
+Performance and audits
+
+Indirect cost rates
+
+Application of rates
+
+Prenotification; confidentiality of data
+
+Exclusion
+
+Design-build contracting.—
+
+In general
+
+Limitation on final design
+
+Qualified projects
+
+Regulatory process
+
+Design-build contract defined
+
+Method of contracting.—
+
+In general.—
+
+phase contract
+
+Preconstruction services phase
+
+Agreement
+
+Construction phase
+
+Selection
+
+Timing.—
+
+Relationship to nepa process
+
+Construction services phase
+
+Approval requirement
+
+Design activities.—
+
+In general
+
+Reimbursement
+
+Termination provision
+
+Standardized Contract Clause Concerning Site Conditions.—
+
+General rule
+
+Limitation on applicability.—
+
+State law
+
+Design-build contracts
+
+Selection Process
+
+Temporary Traffic Control Devices.—
+
+Issuance of regulations
+
+Effects of regulations
+
+Limitation
+
+Positive protective measures defined
+
+In a complying state
+
+In a noncomplying state
+
+State option
+
+In general
+
+Transition provision.—
+
+In general
+
+Previously awarded contracts
+
+Design-build contract defined
+
+In general
+
+Contents
+
+“Nothing in this section [amending this section and enacting provisions set out as a note under this section] or the amendment made by this section affects the authority to carry out, or any project carried out under, any experimental program concerning construction manager risk that is being carried out by the Secretary [of Transportation] as of the date of enactment of this Act [see section 3(a), (b) of Pub. L. 112–141 , set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title ].
+
+Establishment
+
+Grants to States.—
+
+In general
+
+Use of grants
+
+Funding
+
+Report by FHWA
+
+Report to Congress
+
+Engineering and Design Services Defined
+
+Regulations
+
+## Source Credit
+
+*([Pub. L. 85–767](https://www.govinfo.gov/link/plaw/85/public/767), Aug. 27, 1958, [72 Stat. 895](https://www.govinfo.gov/link/statute/72/895); [Pub. L. 90–495, § 22(c)](https://www.govinfo.gov/link/plaw/90/public/495), Aug. 23, 1968, [82 Stat. 827](https://www.govinfo.gov/link/statute/82/827); [Pub. L. 96–470, title I, § 112(b)(1)](https://www.govinfo.gov/link/plaw/96/public/470), Oct. 19, 1980, [94 Stat. 2239](https://www.govinfo.gov/link/statute/94/2239); [Pub. L. 97–424, title I, § 112](https://www.govinfo.gov/link/plaw/97/public/424), Jan. 6, 1983, [96 Stat. 2106](https://www.govinfo.gov/link/statute/96/2106); [Pub. L. 100–17, title I, § 111](https://www.govinfo.gov/link/plaw/100/public/17), Apr. 2, 1987, [101 Stat. 147](https://www.govinfo.gov/link/statute/101/147); [Pub. L. 104–59, title III, § 307(a)](https://www.govinfo.gov/link/plaw/104/public/59), Nov. 28, 1995, [109 Stat. 581](https://www.govinfo.gov/link/statute/109/581); [Pub. L. 105–178, title I](https://www.govinfo.gov/link/plaw/105/public/178), §§ 1205, 1212(a)(2)(A)(i), 1307(a), (b), June 9, 1998, [112 Stat. 184](https://www.govinfo.gov/link/statute/112/184), 193, 229, 230; [Pub. L. 107–217, § 3(e)(1)](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1299](https://www.govinfo.gov/link/statute/116/1299); [Pub. L. 109–59, title I](https://www.govinfo.gov/link/plaw/109/public/59), §§ 1110(b), 1503, Aug. 10, 2005, [119 Stat. 1170](https://www.govinfo.gov/link/statute/119/1170), 1238; [Pub. L. 109–115, div. A, title I, § 174](https://www.govinfo.gov/link/plaw/109/public/115), Nov. 30, 2005, [119 Stat. 2426](https://www.govinfo.gov/link/statute/119/2426); [Pub. L. 112–141, div. A, title I, § 1303(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 531](https://www.govinfo.gov/link/statute/126/531); [Pub. L. 117–58, div. A, title I, § 11525(d)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 607](https://www.govinfo.gov/link/statute/135/607).)*

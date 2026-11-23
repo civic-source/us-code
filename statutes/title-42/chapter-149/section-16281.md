@@ -3,9 +3,10 @@ title: "Section 16281 - Advanced nuclear fuel availability"
 usc_title: 42
 usc_section: "16281"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16281"
-generated_at: "2026-03-30T02:56:11.477Z"
+generated_at: "2026-11-23T20:27:23.647Z"
+status: "active"
 ---
 
 # § 16281. Advanced nuclear fuel availability
@@ -100,3 +101,21 @@ generated_at: "2026-03-30T02:56:11.477Z"
   - **(4)** The term “high-assay low-enriched uranium” means uranium having an assay greater than 5.0 weight percent and less than 20.0 weight percent of the uranium-235 isotope.
   - **(5)** The term “high-enriched uranium” means uranium with an assay of 20.0 weight percent or more of the uranium-235 isotope.
   - **(6)** The term “Secretary” means the Secretary of Energy.
+
+(aa) fuel fabrication; and
+
+(bb) fuel transport;
+
+In General
+
+Agency Coordination
+
+Report.—
+
+In general
+
+Consultation
+
+## Source Credit
+
+*([Pub. L. 116–260, div. Z, title II, § 2001](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2453](https://www.govinfo.gov/link/statute/134/2453).)*

@@ -3,9 +3,10 @@ title: "Section 1017 - Unit and communitization agreements"
 usc_title: 30
 usc_section: "1017"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1017"
-generated_at: "2026-03-30T02:55:29.395Z"
+generated_at: "2026-11-23T20:26:34.989Z"
+status: "active"
 ---
 
 # § 1017. Unit and communitization agreements
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:29.395Z"
   - **(1)** The Secretary may, on such conditions as the Secretary may prescribe, approve drilling or development contracts made by one or more lessees of geothermal leases, with one or more persons, associations, or corporations if, in the discretion of the Secretary, the conservation of natural resources or the public convenience or necessity may require or the interests of the United States may be best served by the approval.
   - **(2)** Each lease operated under an approved drilling or development contract, and interest under the contract, shall be excepted in determining holdings or control under section 1006 of this title .
 - **(h)** The Secretary shall coordinate unitization and pooling activities with appropriate State agencies.
+
+## Source Credit
+
+*([Pub. L. 91–581, § 18](https://www.govinfo.gov/link/plaw/91/public/581), Dec. 24, 1970, [84 Stat. 1571](https://www.govinfo.gov/link/statute/84/1571); [Pub. L. 100–443, § 4](https://www.govinfo.gov/link/plaw/100/public/443), Sept. 22, 1988, [102 Stat. 1768](https://www.govinfo.gov/link/statute/102/1768); [Pub. L. 109–58, title II, § 227](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 666](https://www.govinfo.gov/link/statute/119/666).)*

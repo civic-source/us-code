@@ -3,9 +3,10 @@ title: "Section 1507 - Unlicensed spectrum policy"
 usc_title: 47
 usc_section: "1507"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 1507"
-generated_at: "2026-03-30T02:56:24.536Z"
+generated_at: "2026-11-23T20:27:29.005Z"
+status: "active"
 ---
 
 # § 1507. Unlicensed spectrum policy
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:24.536Z"
   - **(1)** reasonable; and
   - **(2)** in the public interest.
 - **(c)** Nothing in this section confers any additional rights on unlicensed users or users licensed by rule under part 96 of title 47, Code of Federal Regulations, to protection from harmful interference.
+
+## Source Credit
+
+*([Pub. L. 115–141, div. P, title VI, § 617](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1112](https://www.govinfo.gov/link/statute/132/1112).)*

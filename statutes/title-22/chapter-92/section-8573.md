@@ -3,9 +3,10 @@ title: "Section 8573 - Report on Iranian petroleum and petroleum products export
 usc_title: 22
 usc_section: "8573"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8573"
-generated_at: "2026-03-30T02:55:05.454Z"
+generated_at: "2026-11-23T20:26:32.723Z"
+status: "active"
 ---
 
 # § 8573. Report on Iranian petroleum and petroleum products exports
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:05.454Z"
 - **(b)** The report required by subsection (a) shall be submitted in unclassified form but may include a classified annex.
 - **(c)** The unclassified portion of the report required by subsection (a) shall be posted on a publicly available website of the Energy Information Administration.
 - **(d)** The requirement to submit reports under this section shall be terminated on the date on which the President makes the certification described in section 8572(i) of this title .
+
+## Source Credit
+
+*([Pub. L. 118–50, div. J, § 4](https://www.govinfo.gov/link/plaw/118/public/50), Apr. 24, 2024, [138 Stat. 967](https://www.govinfo.gov/link/statute/138/967).)*

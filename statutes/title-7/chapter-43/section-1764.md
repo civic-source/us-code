@@ -3,9 +3,10 @@ title: "Section 1764 - Reports and dispatches"
 usc_title: 7
 usc_section: "1764"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1764"
-generated_at: "2026-03-30T02:53:42.342Z"
+generated_at: "2026-11-23T20:25:41.303Z"
+status: "active"
 ---
 
 # § 1764. Reports and dispatches
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:53:42.342Z"
 - **(a)** The reports and dispatches prepared by the officers appointed or assigned under this subchapter shall be made available to the Department of State, and may be made available to other interested agencies of the Government, and the agricultural reports and dispatches and related information produced by officers of the Foreign Service shall be available to the Secretary of Agriculture.
 - **(b)** The Secretary of State is authorized upon request of the Secretary of Agriculture to provide office space, equipment, facilities, and such other administrative and clerical services as may be required for the personnel affected by this subchapter. The Secretary of Agriculture is authorized to reimburse or advance funds to the Secretary of State for such services.
 - **(c)** Upon the request of the Secretary of Agriculture, each Federal agency may make its services, personnel, and facilities available to officers and employees appointed and assigned to a post abroad under this subchapter in the performance of the functions of such officers and employees. The Secretary of Agriculture may reimburse or advance funds to any such agency for services, personnel, and facilities so made available.
+
+## Source Credit
+
+*(Aug. 28, 1954, ch. 1041, title VI, § 604, [68 Stat. 909](https://www.govinfo.gov/link/statute/68/909); [Pub. L. 95–501, title III, § 301(4)](https://www.govinfo.gov/link/plaw/95/public/501), (6), Oct. 21, 1978, [92 Stat. 1688](https://www.govinfo.gov/link/statute/92/1688).)*

@@ -3,9 +3,10 @@ title: "Section 11434 - Secretarial responsibilities"
 usc_title: 42
 usc_section: "11434"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11434"
-generated_at: "2026-03-30T02:56:11.403Z"
+generated_at: "2026-11-23T20:27:23.314Z"
+status: "active"
 ---
 
 # § 11434. Secretarial responsibilities
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:11.403Z"
 - **(i)** Not later than 4 years after December 10, 2015 , the Secretary shall prepare and submit to the President and the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the status of education of homeless children and youths, which shall include information on—
   - **(1)** the education of homeless children and youths; and
   - **(2)** the actions of the Secretary and the effectiveness of the programs supported under this part.
+
+## Source Credit
+
+*([Pub. L. 100–77, title VII, § 724](https://www.govinfo.gov/link/plaw/100/public/77), as added [Pub. L. 107–110, title X, § 1032](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2004](https://www.govinfo.gov/link/statute/115/2004); amended [Pub. L. 114–95, title IX, § 9104](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2136](https://www.govinfo.gov/link/statute/129/2136).)*

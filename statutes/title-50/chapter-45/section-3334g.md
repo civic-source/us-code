@@ -3,9 +3,10 @@ title: "Section 3334g - Reports on intelligence community loan repayment and rel
 usc_title: 50
 usc_section: "3334g"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3334g"
-generated_at: "2026-03-30T02:56:26.244Z"
+generated_at: "2026-11-23T20:27:30.962Z"
+status: "active"
 ---
 
 # § 3334g. Reports on intelligence community loan repayment and related programs
@@ -21,3 +22,21 @@ generated_at: "2026-03-30T02:56:26.244Z"
     - **(A)** A description of the financial resources that the elements of the intelligence community would require to establish and initially carry out the program specified in paragraph (1).
     - **(B)** A description of the practical steps to establish and carry out such a program.
     - **(C)** The identification of any legislative action the Director determines necessary to establish and carry out such a program.
+
+Sense of Congress
+
+Student Loan Repayment Program Standards
+
+Report
+
+Failure To Meet Standards
+
+Submittal of Regulations and Policies to Congress
+
+Appropriate Congressional Committees Defined
+
+Form of Reports
+
+## Source Credit
+
+*([Pub. L. 116–92, div. E, title LXVII, § 6725](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2234](https://www.govinfo.gov/link/statute/133/2234); [Pub. L. 118–159, div. F, title LXIX, § 6901(e)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2517](https://www.govinfo.gov/link/statute/138/2517).)*

@@ -3,9 +3,10 @@ title: "Section 3703 - Eligibility requirements"
 usc_title: 19
 usc_section: "3703"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3703"
-generated_at: "2026-03-30T02:54:24.694Z"
+generated_at: "2026-11-23T20:26:11.068Z"
+status: "active"
 ---
 
 # § 3703. Eligibility requirements
@@ -24,3 +25,7 @@ The President is authorized to designate a sub-Saharan African country as an eli
     - **(F)** protection of internationally recognized worker rights, including the right of association, the right to organize and bargain collectively, a prohibition on the use of any form of forced or compulsory labor, a minimum age for the employment of children, and acceptable conditions of work with respect to minimum wages, hours of work, and occupational safety and health;
   - **(2)** does not engage in activities that undermine United States national security or foreign policy interests; and
   - **(3)** does not engage in gross violations of internationally recognized human rights or provide support for acts of international terrorism and cooperates in international efforts to eliminate human rights violations and terrorist activities.
+
+## Source Credit
+
+*([Pub. L. 106–200, title I, § 104](https://www.govinfo.gov/link/plaw/106/public/200), May 18, 2000, [114 Stat. 254](https://www.govinfo.gov/link/statute/114/254); [Pub. L. 114–27, title I](https://www.govinfo.gov/link/plaw/114/public/27), §§ 106(b), 111, June 29, 2015, [129 Stat. 368](https://www.govinfo.gov/link/statute/129/368), 370.)*

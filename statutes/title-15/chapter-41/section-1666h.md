@@ -3,9 +3,10 @@ title: "Section 1666h - Offset of cardholder’s indebtedness by issuer of credi
 usc_title: 15
 usc_section: "1666h"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1666h"
-generated_at: "2026-03-30T02:54:08.145Z"
+generated_at: "2026-11-23T20:26:04.065Z"
+status: "active"
 ---
 
 # § 1666h. Offset of cardholder’s indebtedness by issuer of credit card with funds deposited with issuer by cardholder; remedies of creditors under State law not affected
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:08.145Z"
   - **(1)** such action was previously authorized in writing by the cardholder in accordance with a credit plan whereby the cardholder agrees periodically to pay debts incurred in his open end credit account by permitting the card issuer periodically to deduct all or a portion of such debt from the cardholder’s deposit account, and
   - **(2)** such action with respect to any outstanding disputed amount not be taken by the card issuer upon request of the cardholder.
 - **(b)** This section does not alter or affect the right under State law of a card issuer to attach or otherwise levy upon funds of a cardholder held on deposit with the card issuer if that remedy is constitutionally available to creditors generally.
+
+## Source Credit
+
+*([Pub. L. 90–321, title I, § 169](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 93–495, title III, § 306](https://www.govinfo.gov/link/plaw/93/public/495), Oct. 28, 1974, [88 Stat. 1515](https://www.govinfo.gov/link/statute/88/1515).)*

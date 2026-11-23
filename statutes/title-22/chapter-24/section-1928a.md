@@ -3,12 +3,17 @@ title: "Section 1928a - North Atlantic Treaty Parliamentary Conference; particip
 usc_title: 22
 usc_section: "1928a"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 1928a"
-generated_at: "2026-03-30T02:55:05.339Z"
+generated_at: "2026-11-23T20:26:32.147Z"
+status: "active"
 ---
 
 # § 1928a. North Atlantic Treaty Parliamentary Conference; participation; appointment of United States Group
 
 Not to exceed twenty-four Members of Congress shall be appointed to meet jointly and annually with representative parliamentary groups from other NATO (North Atlantic Treaty Organization) members, for discussion of common problems in the interests of the maintenance of peace and security in the North Atlantic area. Of the Members of the Congress to be appointed for the purposes of this resolution (hereinafter designated as the “United States Group”), half shall be appointed by the Speaker of the House from Members of the House (not less than four of whom shall be from the Committee on Foreign Affairs), and half shall be appointed by the President of the Senate upon recommendations of the majority and minority leaders of the Senate from Members of the Senate. Not more than seven of the appointees from the Senate shall be of the same political party. The Chairman or Vice Chairman of the House delegation shall be a Member from the Foreign Affairs Committee, and, unless the President of the Senate, upon the recommendation of the Majority Leader, determines otherwise, the Chairman or Vice Chairman of the Senate delegation shall be a Member from the Foreign Relations Committee. Each delegation shall have a secretary. The secretaries of the Senate and House delegations shall be appointed, respectively, by the chairman of the Committee on Foreign Relations of the Senate and the chairman of the Committee on Foreign Affairs of the House of Representatives.
 
+
+## Source Credit
+
+*(July 11, 1956, ch. 562, § 1, [70 Stat. 523](https://www.govinfo.gov/link/statute/70/523); [Pub. L. 88–205](https://www.govinfo.gov/link/plaw/88/public/205), pt. IV, § 406, Dec. 16, 1963, [77 Stat. 392](https://www.govinfo.gov/link/statute/77/392); [Pub. L. 95–45, § 4(c)](https://www.govinfo.gov/link/plaw/95/public/45), June 15, 1977, [91 Stat. 222](https://www.govinfo.gov/link/statute/91/222); [Pub. L. 100–204, title VII, § 744(a)](https://www.govinfo.gov/link/plaw/100/public/204), Dec. 22, 1987, [101 Stat. 1396](https://www.govinfo.gov/link/statute/101/1396); [Pub. L. 103–437, § 9(a)(5)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4588](https://www.govinfo.gov/link/statute/108/4588).)*

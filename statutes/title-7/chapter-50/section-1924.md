@@ -3,9 +3,10 @@ title: "Section 1924 - Conservation loan and loan guarantee program"
 usc_title: 7
 usc_section: "1924"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1924"
-generated_at: "2026-03-30T02:53:42.344Z"
+generated_at: "2026-11-23T20:25:41.313Z"
+status: "active"
 ---
 
 # § 1924. Conservation loan and loan guarantee program
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:53:42.344Z"
 - **(f)** The Secretary shall ensure, to the maximum extent practicable, that loans made or guaranteed under this section are distributed across diverse geographic regions.
 - **(g)** The provisions of paragraphs (1) and (3) of section 1983 of this title shall not apply to loans made or guaranteed under this section.
 - **(h)** There is authorized to be appropriated to the Secretary to carry out this section $150,000,000 for each of fiscal years 2014 through 2023.
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 304](https://www.govinfo.gov/link/plaw/87/public/128), Aug. 8, 1961, [75 Stat. 308](https://www.govinfo.gov/link/statute/75/308); [Pub. L. 90–488, § 2](https://www.govinfo.gov/link/plaw/90/public/488), Aug. 15, 1968, [82 Stat. 770](https://www.govinfo.gov/link/statute/82/770); [Pub. L. 92–419, title I, § 102](https://www.govinfo.gov/link/plaw/92/public/419), Aug. 30, 1972, [86 Stat. 657](https://www.govinfo.gov/link/statute/86/657); [Pub. L. 95–334, title I, § 102](https://www.govinfo.gov/link/plaw/95/public/334), Aug. 4, 1978, [92 Stat. 421](https://www.govinfo.gov/link/statute/92/421); [Pub. L. 101–624, title XVIII, § 1802(a)](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3817](https://www.govinfo.gov/link/statute/104/3817); [Pub. L. 102–237, title V, § 501(a)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1865](https://www.govinfo.gov/link/statute/105/1865); [Pub. L. 104–127, title VI, § 603](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1085](https://www.govinfo.gov/link/statute/110/1085); [Pub. L. 110–234, title V, § 5002](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1142](https://www.govinfo.gov/link/statute/122/1142); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title V, § 5002, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1904; [Pub. L. 113–79, title V](https://www.govinfo.gov/link/plaw/113/public/79), §§ 5001(c)(1), 5002, Feb. 7, 2014, [128 Stat. 833](https://www.govinfo.gov/link/statute/128/833); [Pub. L. 115–334, title V, § 5102](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4669](https://www.govinfo.gov/link/statute/132/4669).)*

@@ -3,9 +3,10 @@ title: "Section 6723 - Allocation of amounts"
 usc_title: 42
 usc_section: "6723"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6723"
-generated_at: "2026-03-30T02:56:11.265Z"
+generated_at: "2026-11-23T20:27:22.700Z"
+status: "active"
 ---
 
 # § 6723. Allocation of amounts
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:56:11.265Z"
       - **(i)** is a unit of general government (determined on the basis of the same principles as are used by the Bureau of the Census for general statistical purposes), and
       - **(ii)** performs substantial governmental functions. Such term includes the District of Columbia and also includes the recognized governing body of an Indian tribe or Alaskan Native village which performs substantial governmental functions. Such term does not include the government of a township area unless such government performs substantial governmental functions.
   - **(4)** If the amount which would be allocated to any unit of local government under this subsection is less than $100, then no amount shall be allocated for such unit of local government under this subsection.
+
+## Source Credit
+
+*([Pub. L. 94–369, title II, § 203](https://www.govinfo.gov/link/plaw/94/public/369), July 22, 1976, [90 Stat. 1003](https://www.govinfo.gov/link/statute/90/1003); [Pub. L. 94–447, title II, § 201(2)](https://www.govinfo.gov/link/plaw/94/public/447), (3), Oct. 1, 1976, [90 Stat. 1498](https://www.govinfo.gov/link/statute/90/1498); [Pub. L. 95–30, title VI, § 603(a)](https://www.govinfo.gov/link/plaw/95/public/30) –(h), May 23, 1977, [91 Stat. 165](https://www.govinfo.gov/link/statute/91/165), 166.)*

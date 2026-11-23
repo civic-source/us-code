@@ -3,9 +3,10 @@ title: "Section 3191 - Purposes"
 usc_title: 29
 usc_section: "3191"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3191"
-generated_at: "2026-03-30T02:55:18.754Z"
+generated_at: "2026-11-23T20:26:38.108Z"
+status: "active"
 ---
 
 # § 3191. Purposes
@@ -20,3 +21,7 @@ The purposes of this part are—
   - **(2)** to set forth standards and procedures for selecting individuals as enrollees in the Job Corps;
   - **(3)** to authorize the establishment of Job Corps centers in which enrollees will participate in intensive programs of activities described in this part; and
   - **(4)** to prescribe various other powers, duties, and responsibilities incident to the operation and continuing development of the Job Corps.
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 141](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1537](https://www.govinfo.gov/link/statute/128/1537).)*

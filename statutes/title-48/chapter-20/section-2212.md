@@ -3,9 +3,10 @@ title: "Section 2212 - Position of Revitalization Coordinator"
 usc_title: 48
 usc_section: "2212"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 2212"
-generated_at: "2026-03-30T02:56:14.606Z"
+generated_at: "2026-11-23T20:27:28.207Z"
+status: "active"
 ---
 
 # § 2212. Position of Revitalization Coordinator
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:14.606Z"
 - **(d)**
   - **(1)** The Revitalization Coordinator may be removed for any reason, in the Oversight Board’s discretion.
   - **(2)** Upon the termination of the Oversight Board pursuant to section 2149 of this title , the position of the Revitalization Coordinator shall terminate.
+
+## Source Credit
+
+*([Pub. L. 114–187, title V, § 502](https://www.govinfo.gov/link/plaw/114/public/187), June 30, 2016, [130 Stat. 597](https://www.govinfo.gov/link/statute/130/597).)*

@@ -3,9 +3,10 @@ title: "Section 5215 - Reports"
 usc_title: 12
 usc_section: "5215"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5215"
-generated_at: "2026-03-30T02:53:53.524Z"
+generated_at: "2026-11-23T20:25:59.450Z"
+status: "active"
 ---
 
 # § 5215. Reports
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:53:53.524Z"
 - **(e)** The reporting requirements under this section shall terminate on the later of—
   - **(1)** the date that the last troubled asset acquired by the Secretary under section 5211 of this title has been sold or transferred out of the ownership or control of the Federal Government; or
   - **(2)** the date of expiration of the last insurance contract issued under section 5212 of this title .
+
+## Source Credit
+
+*([Pub. L. 110–343, div. A, title I, § 105](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3771](https://www.govinfo.gov/link/statute/122/3771).)*

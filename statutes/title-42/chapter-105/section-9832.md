@@ -3,9 +3,10 @@ title: "Section 9832 - Definitions"
 usc_title: 42
 usc_section: "9832"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9832"
-generated_at: "2026-03-30T02:56:11.366Z"
+generated_at: "2026-11-23T20:27:23.138Z"
+status: "active"
 ---
 
 # § 9832. Definitions
@@ -97,3 +98,15 @@ For purposes of this subchapter:
   - **(24)** The term “Secretary” means the Secretary of Health and Human Services.
   - **(25)** The term “State” means a State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, American Samoa, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands. The term “State” includes the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.
   - **(26)** The term “unresolved area of noncompliance” means failure to correct a noncompliance item within 120 days, or within such additional time (if any) as is authorized by the Secretary, after receiving from the Secretary notice of such noncompliance item, pursuant to section 9836a(c) of this title .
+
+(aa) the Head Start Child Outcomes Framework developed by the Secretary and, as appropriate, State early learning standards; and
+
+(bb) curricula, ongoing assessments, and other instruction and services, designed to help meet the standards described in section 9836a(a)(1) of this title ;
+
+Effective Date
+
+Application
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 637](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 499](https://www.govinfo.gov/link/statute/95/499); [Pub. L. 98–558, title I, § 101](https://www.govinfo.gov/link/plaw/98/public/558), Oct. 30, 1984, [98 Stat. 2878](https://www.govinfo.gov/link/statute/98/2878); [Pub. L. 101–501, title I](https://www.govinfo.gov/link/plaw/101/public/501), §§ 104(b), 116(b), 117(b), 121(b), 123(a), Nov. 3, 1990, [104 Stat. 1228](https://www.govinfo.gov/link/statute/104/1228), 1232, 1233, 1237; [Pub. L. 103–252, title I, § 102](https://www.govinfo.gov/link/plaw/103/public/252), May 18, 1994, [108 Stat. 624](https://www.govinfo.gov/link/statute/108/624); [Pub. L. 105–285, title I, § 103](https://www.govinfo.gov/link/plaw/105/public/285), Oct. 27, 1998, [112 Stat. 2703](https://www.govinfo.gov/link/statute/112/2703); [Pub. L. 110–134, § 3](https://www.govinfo.gov/link/plaw/110/public/134), Dec. 12, 2007, [121 Stat. 1364](https://www.govinfo.gov/link/statute/121/1364); [Pub. L. 114–95, title IX, § 9215(nn)(1)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2176](https://www.govinfo.gov/link/statute/129/2176); [Pub. L. 118–42, div. G, title II, § 209(b)(6)(A)](https://www.govinfo.gov/link/plaw/118/public/42), Mar. 9, 2024, [138 Stat. 443](https://www.govinfo.gov/link/statute/138/443).)*

@@ -3,9 +3,10 @@ title: "Section 344 - Participation in multinational centers of excellence"
 usc_title: 10
 usc_section: "344"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 344"
-generated_at: "2026-03-30T02:53:38.053Z"
+generated_at: "2026-11-23T20:25:50.916Z"
+status: "active"
 ---
 
 # § 344. Participation in multinational centers of excellence
@@ -31,3 +32,19 @@ generated_at: "2026-03-30T02:53:38.053Z"
     - **(D)** validate concepts through experimentation;
   - **(2)** the European Centre of Excellence for Countering Hybrid Threats, established in 2017 and located in Helsinki, Finland; and
   - **(3)** the International Special Training Centre, established in 1979 and located in Pfullendorf, Germany.
+
+Participation Authorized
+
+Memorandum of Understanding
+
+Availability of Appropriated Funds
+
+Use of Department of Defense Facilities and Equipment
+
+Notification
+
+Multinational Center Of Excellence Defined
+
+## Source Credit
+
+*(Added [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title XII, § 1232(a)(1), Oct. 14, 2008, [122 Stat. 4637](https://www.govinfo.gov/link/statute/122/4637), § 2350m; amended [Pub. L. 112–239, div. A, title X, § 1076(f)(25)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1953](https://www.govinfo.gov/link/statute/126/1953); renumbered § 344 and amended [Pub. L. 114–328, div. A, title XII, § 1241(g)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2507](https://www.govinfo.gov/link/statute/130/2507); [Pub. L. 116–283, div. A, title XII, § 1206(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3912](https://www.govinfo.gov/link/statute/134/3912); [Pub. L. 117–263, div. A, title XII, § 1203](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2826](https://www.govinfo.gov/link/statute/136/2826).)*

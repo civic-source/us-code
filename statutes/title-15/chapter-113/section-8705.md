@@ -3,9 +3,10 @@ title: "Section 8705 - Assessments"
 usc_title: 15
 usc_section: "8705"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 8705"
-generated_at: "2026-03-30T02:54:08.233Z"
+generated_at: "2026-11-23T20:26:04.500Z"
+status: "active"
 ---
 
 # § 8705. Assessments
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:54:08.233Z"
     - **(D)** Region IV shall comprise Arizona, Arkansas, Kansas, Louisiana, Missouri, New Mexico, Oklahoma, and Texas.
     - **(E)** Region V shall comprise Alaska, California, Colorado, Hawaii, Idaho, Montana, Nevada, Oregon, Utah, Washington, and Wyoming.
   - **(3)** The order shall provide that the Secretary may, upon recommendation of the Board, modify the composition of the geographic regions described in paragraph (2).
+
+## Source Credit
+
+*([Pub. L. 115–254, div. E, § 1306](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3478](https://www.govinfo.gov/link/statute/132/3478).)*

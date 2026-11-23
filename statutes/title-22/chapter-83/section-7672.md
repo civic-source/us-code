@@ -3,9 +3,10 @@ title: "Section 7672 - Sense of Congress"
 usc_title: 22
 usc_section: "7672"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7672"
-generated_at: "2026-03-30T02:55:05.444Z"
+generated_at: "2026-11-23T20:26:32.677Z"
+status: "active"
 ---
 
 # § 7672. Sense of Congress
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.444Z"
   - **(2)** by the end of fiscal year 2005, at least 1,000,000 such individuals are receiving such treatment; and
   - **(3)** by the end of fiscal year 2006, at least 2,000,000 such individuals are receiving such treatment.
 - **(b)** It is the sense of Congress that, of the amounts appropriated pursuant to the authorization of appropriations under section 7671 of this title for HIV/AIDS assistance, 10 percent should be used for orphans and vulnerable children.
+
+## Source Credit
+
+*([Pub. L. 108–25, title IV, § 402](https://www.govinfo.gov/link/plaw/108/public/25), May 27, 2003, [117 Stat. 745](https://www.govinfo.gov/link/statute/117/745); [Pub. L. 110–293, title IV, § 402](https://www.govinfo.gov/link/plaw/110/public/293), July 30, 2008, [122 Stat. 2966](https://www.govinfo.gov/link/statute/122/2966).)*

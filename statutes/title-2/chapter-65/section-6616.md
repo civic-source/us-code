@@ -3,9 +3,10 @@ title: "Section 6616 - Support services for Senate during emergency; memorandum 
 usc_title: 2
 usc_section: "6616"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 6616"
-generated_at: "2026-03-30T02:53:04.843Z"
+generated_at: "2026-11-23T20:25:29.081Z"
+status: "active"
 ---
 
 # § 6616. Support services for Senate during emergency; memorandum of understanding with an executive agency
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:04.843Z"
   - **(3)** the Sergeant at Arms of the Senate may enter into a memorandum of understanding described in paragraph (1) consistent with the Senate Procurement Regulations.
 - **(b)** The Sergeant at Arms of the Senate may incur obligations and make expenditures for meals, refreshments, and other support and maintenance for Members, officers, and employees of the Senate when such obligations and expenditures are necessary to respond to emergencies involving the safety of human life or the protection of property.
 - **(c)** This section shall apply with respect to fiscal year 2002 and each succeeding fiscal year.
+
+## Source Credit
+
+*([Pub. L. 107–117, div. B, § 902](https://www.govinfo.gov/link/plaw/107/public/117), Jan. 10, 2002, [115 Stat. 2316](https://www.govinfo.gov/link/statute/115/2316); [Pub. L. 116–94, div. P, title XV, § 1502](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3209](https://www.govinfo.gov/link/statute/133/3209).)*

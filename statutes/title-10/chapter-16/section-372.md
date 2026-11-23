@@ -3,9 +3,10 @@ title: "Section 372 - Renumbered § 272]"
 usc_title: 10
 usc_section: "372"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 372"
-generated_at: "2026-03-30T02:53:38.054Z"
+generated_at: "2026-11-23T20:25:50.923Z"
+status: "renumbered"
 ---
 
 # [§ 372. Renumbered § 272]

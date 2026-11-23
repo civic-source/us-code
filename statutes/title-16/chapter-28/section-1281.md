@@ -3,9 +3,10 @@ title: "Section 1281 - Administration"
 usc_title: 16
 usc_section: "1281"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1281"
-generated_at: "2026-03-30T02:54:22.955Z"
+generated_at: "2026-11-23T20:26:20.447Z"
+status: "active"
 ---
 
 # § 1281. Administration
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:22.955Z"
 - **(c)** Any component of the national wild and scenic rivers system that is administered by the Secretary of the Interior through the National Park Service shall become a part of the national park system, and any such component that is administered by the Secretary through the Fish and Wildlife Service shall become a part of the national wildlife refuge system. The lands involved shall be subject to the provisions of this chapter and the Acts under which the national park system or national wildlife system, as the case may be, is administered, and in case of conflict between the provisions of this chapter and such Acts, the more restrictive provisions shall apply. The Secretary of the Interior, in his administration of any component of the national wild and scenic rivers system, may utilize such general statutory authorities relating to areas of the national park system and such general statutory authorities otherwise available to him for recreation and preservation purposes and for the conservation and management of natural resources as he deems appropriate to carry out the purposes of this chapter.
 - **(d)** The Secretary of Agriculture, in his administration of any component of the national wild and scenic rivers system area, may utilize the general statutory authorities relating to the national forests in such manner as he deems appropriate to carry out the purposes of this chapter.
 - **(e)** The Federal agency charged with the administration of any component of the national wild and scenic rivers system may enter into written cooperative agreements with the Governor of a State, the head of any State agency, or the appropriate official of a political subdivision of a State for State or local governmental participation in the administration of the component. The States and their political subdivisions shall be encouraged to cooperate in the planning and administration of components of the system which include or adjoin State- or county-owned lands.
+
+## Source Credit
+
+*([Pub. L. 90–542, § 10](https://www.govinfo.gov/link/plaw/90/public/542), Oct. 2, 1968, [82 Stat. 916](https://www.govinfo.gov/link/statute/82/916).)*

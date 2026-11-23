@@ -3,9 +3,10 @@ title: "Section 6202 - Hanford waste tank cleanup program reforms"
 usc_title: 10
 usc_section: "6202"
 chapter: 604
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6202"
-generated_at: "2026-03-30T02:53:38.222Z"
+generated_at: "2026-11-23T20:25:52.021Z"
+status: "active"
 ---
 
 # § 6202. Hanford waste tank cleanup program reforms
@@ -21,3 +22,17 @@ generated_at: "2026-03-30T02:53:38.222Z"
 - **(c)** The Secretary shall provide the head of the Office with the resources and personnel necessary to carry out the responsibilities specified in subsection (b)(2).
 - **(d)** The Assistant Secretary of Energy for Environmental Management shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives written notification detailing any changes in the roles, responsibilities, and reporting relationships that involve the Office.
 - **(e)** The Office shall terminate on September 30, 2024 . The Office may be extended beyond that date if the Assistant Secretary of Energy for Environmental Management determines in writing that termination would disrupt effective management of the Hanford Tank Farm operations.
+
+Establishment of Office of River Protection
+
+Management and Responsibilities of Office
+
+Department Responsibilities
+
+Notification
+
+Termination
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2)(B), Dec. 18, 2025, [139 Stat. 1399](https://www.govinfo.gov/link/statute/139/1399), 1462.)*

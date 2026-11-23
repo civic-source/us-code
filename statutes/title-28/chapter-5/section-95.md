@@ -3,9 +3,10 @@ title: "Section 95 - Iowa"
 usc_title: 28
 usc_section: "95"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 95"
-generated_at: "2026-03-30T02:55:30.122Z"
+generated_at: "2026-11-23T20:26:36.283Z"
+status: "active"
 ---
 
 # § 95. Iowa
@@ -23,3 +24,9 @@ generated_at: "2026-03-30T02:55:30.122Z"
   - **(5)** The Davenport Division comprises the counties of Clinton, Johnson, Muscatine, Scott, and Washington. Court for the Davenport Division shall be held at Davenport.
   - **(6)** The Ottumwa Division comprises the counties of Appanoose, Davis, Jefferson, Keokuk, Mahaska, Monroe, and Wapello. Court for the Ottumwa Division shall be held at Ottumwa.
 
+
+“Notwithstanding any other provision of law, during the period beginning on January 1, 2003 , through July 1, 2006 , the United States District Court for the Southern District of Iowa may—
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 879](https://www.govinfo.gov/link/statute/62/879); [Pub. L. 96–462, § 3(a)](https://www.govinfo.gov/link/plaw/96/public/462), Oct. 15, 1980, [94 Stat. 2053](https://www.govinfo.gov/link/statute/94/2053).)*

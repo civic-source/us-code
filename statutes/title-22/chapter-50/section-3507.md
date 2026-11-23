@@ -3,9 +3,10 @@ title: "Section 3507 - Council on International Scientific and Technological Coo
 usc_title: 22
 usc_section: "3507"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3507"
-generated_at: "2026-03-30T02:55:05.394Z"
+generated_at: "2026-11-23T20:26:32.462Z"
+status: "active"
 ---
 
 # § 3507. Council on International Scientific and Technological Cooperation
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:05.394Z"
   - **(3)** officials of the United States Government, except that not to exceed five members of the Council may be appointed under this paragraph, one of whom shall be the Secretary of State or his designee.
 - **(e)** Members of the Council who are not officials of the United States Government shall be entitled to compensation, not to exceed the daily equivalent of the highest rate which may be paid to an employee under the General Schedule established by section 5332 of title 5 , while in the performance of their duties under this chapter, and to reimbursement for expenses and per diem in lieu of subsistence while away from their homes or regular places of business in the same manner as persons employed intermittently in Government service are allowed expenses under section 5703 of title 5 . Members of the Council who are not officials of the United States Government shall not be deemed officers, employees, or otherwise in the service or employment of the United States Government for any purpose, except that members of the Council who are United States citizens shall be deemed Government employees for the purposes of sections 202, 203, 205, 207, 208, and 209 of title 18.
 - **(f)** The Council may appoint from among its members an Executive Committee, and such other committees it deems necessary, to assist it in exercising its powers and functions. The Executive Committee shall consist of seven members, one of whom shall be the Chairman of the Council and not more than three of whom shall be employees of the United States Government. The Executive Committee shall exercise such powers and functions as are delegated to it by the Council.
+
+## Source Credit
+
+*([Pub. L. 96–53, title IV, § 407](https://www.govinfo.gov/link/plaw/96/public/53), Aug. 14, 1979, [93 Stat. 374](https://www.govinfo.gov/link/statute/93/374).)*

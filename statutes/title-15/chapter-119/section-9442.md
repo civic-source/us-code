@@ -3,9 +3,10 @@ title: "Section 9442 - National Oceanic and Atmospheric Administration Artificia
 usc_title: 15
 usc_section: "9442"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 9442"
-generated_at: "2026-03-30T02:54:08.247Z"
+generated_at: "2026-11-23T20:26:04.570Z"
+status: "active"
 ---
 
 # § 9442. National Oceanic and Atmospheric Administration Artificial Intelligence Center
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:08.247Z"
 - **(g)**
   - **(1)** Notwithstanding any other provision of this section, the Administrator, in consultation with the Secretary of Defense as appropriate, may withhold models or data used by the Center if the Administrator determines doing so to be necessary to protect the national security interests of the United States.
   - **(2)** Nothing in this section shall be construed to supersede any other provision of law governing the protection of the national security interests of the United States.
+
+## Source Credit
+
+*([Pub. L. 116–283, div. E, title LIII, § 5303](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4539](https://www.govinfo.gov/link/statute/134/4539).)*

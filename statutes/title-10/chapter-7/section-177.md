@@ -3,9 +3,10 @@ title: "Section 177 - American Registry of Pathology"
 usc_title: 10
 usc_section: "177"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 177"
-generated_at: "2026-03-30T02:53:38.043Z"
+generated_at: "2026-11-23T20:25:50.857Z"
+status: "active"
 ---
 
 # § 177. American Registry of Pathology
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:38.043Z"
   - **(1)** enter into such other contracts, leases, cooperative agreements, or other transactions as the Board deems appropriate to conduct the activities of the American Registry of Pathology; and
   - **(2)** charge such fees for professional services as the Board deems reasonable and appropriate.
 - **(d)** The American Registry of Pathology may transmit annually to its Board and supporting organizations referred to in subsection (a)(2) a comprehensive and detailed report of its operations, activities, and accomplishments.
+
+## Source Credit
+
+*(Added [Pub. L. 94–361, title VIII, § 811(b)](https://www.govinfo.gov/link/plaw/94/public/361), July 14, 1976, [90 Stat. 934](https://www.govinfo.gov/link/statute/90/934); amended [Pub. L. 98–525, title XIV, § 1405(5)](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2622](https://www.govinfo.gov/link/statute/98/2622); [Pub. L. 112–239, div. A, title V, § 585](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1768](https://www.govinfo.gov/link/statute/126/1768).)*

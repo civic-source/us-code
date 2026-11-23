@@ -3,12 +3,17 @@ title: "Section 4318 - Claims of naturalized citizens as affected by expatriatio
 usc_title: 50
 usc_section: "4318"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4318"
-generated_at: "2026-03-30T02:56:26.272Z"
+generated_at: "2026-11-23T20:27:31.096Z"
+status: "active"
 ---
 
 # § 4318. Claims of naturalized citizens as affected by expatriation
 
 The claim of any naturalized American citizen under the provisions of this chapter shall not be denied on the ground of any presumption of expatriation which has arisen against him, under the second sentence of section 2 of the Act entitled “An Act in reference to the expatriation of citizens and their protection abroad,” approved March 2, 1907 , if he shall give satisfactory evidence to the President, or the court, as the case may be, of his uninterrupted loyalty to the United States during his absence, and that he has returned to the United States, or that he, although desiring to return, has been prevented from so returning by circumstances beyond his control.
 
+
+## Source Credit
+
+*(Oct. 6, 1917, ch. 106, § 21, as added Mar. 4, 1923, ch. 285, § 2, [42 Stat. 1516](https://www.govinfo.gov/link/statute/42/1516).)*

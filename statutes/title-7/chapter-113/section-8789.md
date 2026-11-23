@@ -3,9 +3,10 @@ title: "Section 8789 - Storage facility loans"
 usc_title: 7
 usc_section: "8789"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 8789"
-generated_at: "2026-03-30T02:53:42.481Z"
+generated_at: "2026-11-23T20:25:41.923Z"
+status: "active"
 ---
 
 # § 8789. Storage facility loans
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:42.481Z"
   - **(3)** allow a borrower, upon the approval of the Secretary, to define a subparcel of real estate as security for the storage facility loan if the subparcel is—
     - **(A)** of adequate size and value to adequately secure the loan; and
     - **(B)** not subject to any other liens or mortgages that are superior to the lien interest of the Commodity Credit Corporation.
+
+## Source Credit
+
+*([Pub. L. 110–234, title I, § 1614](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1020](https://www.govinfo.gov/link/statute/122/1020); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1614, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1748.)*

@@ -3,9 +3,10 @@ title: "Section 1539 - Financial assistance"
 usc_title: 15
 usc_section: "1539"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1539"
-generated_at: "2026-03-30T02:54:08.137Z"
+generated_at: "2026-11-23T20:26:04.020Z"
+status: "active"
 ---
 
 # § 1539. Financial assistance
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.137Z"
 - **(d)** In this section, the term “nondiscretionary assistance program” means any program for providing financial assistance—
   - **(1)** under which the amount of funding for, and the intended recipient of, the financial assistance is specified by Congress; or
   - **(2)** the recipients of which have customarily been a State or an interstate fishery commission.
+
+## Source Credit
+
+*([Pub. L. 102–567, title IV, § 404](https://www.govinfo.gov/link/plaw/102/public/567), Oct. 29, 1992, [106 Stat. 4292](https://www.govinfo.gov/link/statute/106/4292).)*

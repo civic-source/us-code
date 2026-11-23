@@ -3,9 +3,10 @@ title: "Section 5314 - Technical assistance and workforce development"
 usc_title: 49
 usc_section: "5314"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 5314"
-generated_at: "2026-03-30T02:56:19.314Z"
+generated_at: "2026-11-23T20:27:34.649Z"
+status: "active"
 ---
 
 # § 5314. Technical assistance and workforce development
@@ -98,3 +99,87 @@ generated_at: "2026-03-30T02:56:19.314Z"
   - **(4)**
     - **(A)** Not more than 0.5 percent of amounts made available to a recipient under sections 5307, 5337, and 5339 is available for expenditures by the recipient, with the approval of the Secretary, to pay not more than 80 percent of the cost of eligible activities under this subsection.
     - **(B)** A recipient may use amounts made available under subparagraph (A) to carry out existing local education and training programs for public transportation employees supported by the Secretary, the Department of Labor, or the Department of Education.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5314(a) | 49 App.:1622(b) (1)–(7). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 26(b)(1)–(8) (related to this subsection); added Dec. 18, 1991 , Pub. L. 102–240, § 3030 , 105 Stat. 2118 . |
+| 5314(b) | 49 App.:1622(b)(8) (related to this subsection). |  |
+
+
+Technical Assistance and Standards.—
+
+Technical assistance and standards development.—
+
+In general
+
+Eligible activities
+
+Technical assistance
+
+Annual report on technical assistance
+
+Government share of costs.—
+
+In general
+
+Non-government share
+
+Human Resources and Training.—
+
+In general
+
+Innovative public transportation frontline workforce development program.—
+
+In general
+
+Eligible programs
+
+Selection of recipients
+
+Program outcomes
+
+Report to congress
+
+Government’s share of costs
+
+Availability of amounts
+
+National Transit Institute.—
+
+Establishment
+
+Duties.—
+
+In general
+
+Training and educational programs
+
+Provision for education and training
+
+Availability of amounts.—
+
+In general
+
+Existing programs
+
+Historical and Revision Notes
+
+5314(a)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3030
+
+105 Stat. 2118
+
+5314(b)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 812](https://www.govinfo.gov/link/statute/108/812); [Pub. L. 105–178, title III](https://www.govinfo.gov/link/plaw/105/public/178), §§ 3016, 3029(b)(6), June 9, 1998, [112 Stat. 361](https://www.govinfo.gov/link/statute/112/361), 372; [Pub. L. 109–59, title III](https://www.govinfo.gov/link/plaw/109/public/59), §§ 3002(b)(4), 3016(a), (b), Aug. 10, 2005, [119 Stat. 1545](https://www.govinfo.gov/link/statute/119/1545), 1598, 1599; [Pub. L. 110–244, title II, § 201(g)](https://www.govinfo.gov/link/plaw/110/public/244), June 6, 2008, [122 Stat. 1610](https://www.govinfo.gov/link/statute/122/1610); [Pub. L. 112–141, div. B, § 20012](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 690](https://www.govinfo.gov/link/statute/126/690); [Pub. L. 114–94, div. A, title III, § 3009(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1469](https://www.govinfo.gov/link/statute/129/1469).)*

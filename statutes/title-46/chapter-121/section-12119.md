@@ -3,9 +3,10 @@ title: "Section 12119 - Owners engaged primarily in leasing or financing transac
 usc_title: 46
 usc_section: "12119"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 12119"
-generated_at: "2026-03-30T02:56:15.558Z"
+generated_at: "2026-11-23T20:27:27.176Z"
+status: "active"
 ---
 
 # § 12119. Owners engaged primarily in leasing or financing transactions
@@ -51,3 +52,69 @@ generated_at: "2026-03-30T02:56:15.558Z"
 - **(d)** The demise charter and any amendments to the charter shall be filed with the certification required by subsection (b)(3) or within 10 days after filing an amendment to the charter. The charter and amendments shall be made available to the public.
 - **(e)** When a charter required by subsection (b)(3) is terminated for default by the charterer, the Secretary may continue the coastwise endorsement for not more than 6 months on terms and conditions the Secretary may prescribe.
 - **(f)** A vessel satisfying the requirements of this section is deemed to be owned only by citizens of the United States under sections 12103 and 50501 of this title.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 12119(a) | 46:12106(f)(4). |  |
+| 12119(b) | 46:12106(e)(1). |  |
+| 12119(c) | 46:12106(f)(1)–(3). |  |
+| 12119(d) | 46:12106(e)(2). |  |
+| 12119(e) | 46:12106(e)(3). |  |
+| 12119(f) | 46:12106(e)(4). |  |
+
+
+Definitions
+
+Affiliate
+
+Cargo
+
+Oil
+
+Passive investment
+
+Qualified proprietary cargo
+
+United states affiliate
+
+Requirements
+
+Ownership Certification
+
+In general
+
+Investment certification
+
+Certain tank vessels
+
+In general
+
+Application only to certain vessels
+
+Filing of Demise Charter
+
+Continuation of Endorsement After Termination of Charter
+
+Deemed Owned by Citizens
+
+Historical and Revision Notes
+
+12119(a)
+
+12119(b)
+
+12119(c)
+
+12119(d)
+
+12119(e)
+
+12119(f)
+
+In general
+
+Replacement Vessel
+
+## Source Credit
+
+*([Pub. L. 109–304, § 5](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1501](https://www.govinfo.gov/link/statute/120/1501); [Pub. L. 115–232, div. C, title XXXV, § 3541(b)(15)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2324](https://www.govinfo.gov/link/statute/132/2324); [Pub. L. 119–60, div. G, title LXXIII, § 7301(k)(1)(F)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1759](https://www.govinfo.gov/link/statute/139/1759).)*

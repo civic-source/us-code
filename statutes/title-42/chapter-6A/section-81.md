@@ -3,9 +3,10 @@ title: "Section 81 - Coordination"
 usc_title: 42
 usc_section: "81"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 81"
-generated_at: "2026-03-30T02:56:10.828Z"
+generated_at: "2026-11-23T20:27:20.629Z"
+status: "active"
 ---
 
 # § 300ff–81. Coordination
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:10.828Z"
 - **(b)** The Secretary shall biennially prepare and submit to the appropriate committees of the Congress a report concerning the coordination efforts at the Federal, State, and local levels described in this section, including a description of Federal barriers to HIV program integration and a strategy for eliminating such barriers and enhancing the continuity of care and prevention services for individuals with HIV/AIDS or those at risk of such disease.
 - **(c)** As a condition of receipt of funds under this subchapter, a State shall provide assurances to the Secretary that health support services funded under this subchapter will be integrated with other such services, that programs will be coordinated with other available programs (including Medicaid), and that the continuity of care and prevention services of individuals with HIV/AIDS is enhanced.
 - **(d)** As a condition of receipt of funds under this subchapter, a local government or private nonprofit entity shall provide assurances to the Secretary that services funded under this subchapter will be integrated with other such services, that programs will be coordinated with other available programs (including Medicaid), and that the continuity of care and prevention services of individuals with HIV is enhanced.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXVI, § 2681, as added and amended [Pub. L. 109–415, title V, § 501](https://www.govinfo.gov/link/plaw/109/public/415), title VII, § 703, Dec. 19, 2006, [120 Stat. 2812](https://www.govinfo.gov/link/statute/120/2812), 2820; [Pub. L. 111–87, § 2(a)(1)](https://www.govinfo.gov/link/plaw/111/public/87), (3)(A), Oct. 30, 2009, [123 Stat. 2885](https://www.govinfo.gov/link/statute/123/2885).)*

@@ -3,9 +3,10 @@ title: "Section 17281 - National media campaign"
 usc_title: 42
 usc_section: "17281"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17281"
-generated_at: "2026-03-30T02:56:11.504Z"
+generated_at: "2026-11-23T20:27:23.748Z"
+status: "active"
 ---
 
 # § 17281. National media campaign
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:56:11.504Z"
 - **(e)**
   - **(1)** There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2008 through 2012.
   - **(2)** The Secretary shall use not less than 50 percent of the amount that is made available under this section for each fiscal year to develop and conduct a national media campaign to decrease oil consumption in the United States over the next decade.
+
+## Source Credit
+
+*([Pub. L. 110–140, title VIII, § 801](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1716](https://www.govinfo.gov/link/statute/121/1716).)*

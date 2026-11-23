@@ -3,9 +3,10 @@ title: "Section 3801 - Findings"
 usc_title: 25
 usc_section: "3801"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3801"
-generated_at: "2026-03-30T02:54:52.856Z"
+generated_at: "2026-11-23T20:26:25.666Z"
+status: "active"
 ---
 
 # § 3801. Findings
@@ -17,3 +18,7 @@ The Congress finds that—
   - **(3)** many Bureau dams have maintenance deficiencies regardless of their current safety condition classification and the deficiencies must be corrected to avoid future threats to human life and property;
   - **(4)** safe working dams on Indian lands are necessary to supply irrigation water, to provide flood control, to provide water for municipal, industrial, domestic, livestock, and recreation uses, and for fish and wildlife habitats; and
   - **(5)** it is necessary to institute a regular dam maintenance and repair program, utilizing the expertise in the Bureau, Indian tribes, and other Federal agencies.
+
+## Source Credit
+
+*([Pub. L. 103–302, § 2](https://www.govinfo.gov/link/plaw/103/public/302), Aug. 23, 1994, [108 Stat. 1560](https://www.govinfo.gov/link/statute/108/1560).)*

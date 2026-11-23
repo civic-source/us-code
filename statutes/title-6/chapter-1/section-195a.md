@@ -3,9 +3,10 @@ title: "Section 195a - Emergency communications interoperability research and de
 usc_title: 6
 usc_section: "195a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 195a"
-generated_at: "2026-03-30T02:53:09.448Z"
+generated_at: "2026-11-23T20:25:34.657Z"
+status: "active"
 ---
 
 # § 195a. Emergency communications interoperability research and development
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:09.448Z"
   - **(4)** investigating technologies that could lead to long-term advancements in emergency communications capabilities and supporting research on advanced technologies and potential systemic changes to dramatically improve emergency communications; and
   - **(5)** evaluating and validating advanced technology concepts, and facilitating the development and deployment of interoperable emergency communication capabilities.
 - **(c)** For purposes of this section, the term “interoperable”, with respect to emergency communications, has the meaning given the term in section 578 of this title .
+
+## Source Credit
+
+*([Pub. L. 107–296, title III, § 315](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 109–295, title VI, § 673(a)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1443](https://www.govinfo.gov/link/statute/120/1443).)*

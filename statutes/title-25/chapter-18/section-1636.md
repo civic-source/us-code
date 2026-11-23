@@ -3,9 +3,10 @@ title: "Section 1636 - Grant program for construction, expansion, and modernizat
 usc_title: 25
 usc_section: "1636"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1636"
-generated_at: "2026-03-30T02:54:52.822Z"
+generated_at: "2026-11-23T20:26:25.494Z"
+status: "active"
 ---
 
 # § 1636. Grant program for construction, expansion, and modernization of small ambulatory care facilities
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:52.822Z"
     - **(A)** a need for increased ambulatory care services; and
     - **(B)** insufficient capacity to deliver such services.
 - **(d)** If any facility (or portion thereof) with respect to which funds have been paid under this section, ceases, at any time after completion of the construction, expansion, or modernization carried out with such funds, to be utilized for the purposes of providing ambulatory care services to eligible Indians, all of the right, title, and interest in and to such facility (or portion thereof) shall transfer to the United States.
+
+## Source Credit
+
+*([Pub. L. 94–437, title III, § 306](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 100–713, title III, § 304](https://www.govinfo.gov/link/plaw/100/public/713), Nov. 23, 1988, [102 Stat. 4817](https://www.govinfo.gov/link/statute/102/4817); amended [Pub. L. 102–573, title III, § 303](https://www.govinfo.gov/link/plaw/102/public/573), Oct. 29, 1992, [106 Stat. 4561](https://www.govinfo.gov/link/statute/106/4561).)*

@@ -3,9 +3,10 @@ title: "Section 529 - Annual executive agency reports on excess personal propert
 usc_title: 40
 usc_section: "529"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 529"
-generated_at: "2026-03-30T02:55:43.374Z"
+generated_at: "2026-11-23T20:26:56.532Z"
+status: "active"
 ---
 
 # § 529. Annual executive agency reports on excess personal property
@@ -23,3 +24,30 @@ generated_at: "2026-03-30T02:55:43.374Z"
   - **(1)** the complete data provided in each report in a user-friendly format;
   - **(2)** a summary of the findings of each report, including the aggregate dollar amount of personal property determined to be no longer required for the purpose of the appropriation used to make the purchase; and
   - **(3)** any other recommendations from the Administrator.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 529 | 40:483(e). | June 30, 1949, ch. 288 , title II, § 202(e), as added Pub. L. 94–519, § 3 , Oct. 17, 1976 , 90 Stat. 2454 . |
+
+
+In General
+
+Required Information
+
+Compilation of Data
+
+Historical and Revision Notes
+
+529
+
+June 30, 1949, ch. 288
+
+Pub. L. 94–519, § 3
+
+Oct. 17, 1976
+
+90 Stat. 2454
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1086](https://www.govinfo.gov/link/statute/116/1086); [Pub. L. 118–99, § 2(a)(1)](https://www.govinfo.gov/link/plaw/118/public/99), (e)(1), Oct. 1, 2024, [138 Stat. 1578](https://www.govinfo.gov/link/statute/138/1578), 1579.)*

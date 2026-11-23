@@ -3,9 +3,10 @@ title: "Section 359 - Effective date of recommendations of President"
 usc_title: 2
 usc_section: "359"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 359"
-generated_at: "2026-03-30T02:53:04.796Z"
+generated_at: "2026-11-23T20:25:28.882Z"
+status: "active"
 ---
 
 # § 359. Effective date of recommendations of President
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:04.796Z"
   - **(4)**
     - **(A)** Notwithstanding the approval of the President’s pay recommendations in accordance with paragraph (2), none of those recommendations shall take effect unless, between the date on which the bill or resolution approving those recommendations is signed by the President (or otherwise becomes law) and the earliest date as of which the President proposes (under section 358 of this title ) that any of those recommendations take effect, an election of Representatives shall have intervened.
     - **(B)** For purposes of this paragraph, the term “election of Representatives” means an election held on the Tuesday following the first Monday of November in any even-numbered calendar year.
+
+## Source Credit
+
+*([Pub. L. 90–206, title II, § 225(i)](https://www.govinfo.gov/link/plaw/90/public/206), Dec. 16, 1967, [81 Stat. 644](https://www.govinfo.gov/link/statute/81/644); [Pub. L. 95–19, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/95/public/19), Apr. 12, 1977, [91 Stat. 45](https://www.govinfo.gov/link/statute/91/45); [Pub. L. 99–190, § 135(e)](https://www.govinfo.gov/link/plaw/99/public/190), Dec. 19, 1985, [99 Stat. 1322](https://www.govinfo.gov/link/statute/99/1322); [Pub. L. 101–194, title VII, § 701(g)](https://www.govinfo.gov/link/plaw/101/public/194), Nov. 30, 1989, [103 Stat. 1765](https://www.govinfo.gov/link/statute/103/1765).)*

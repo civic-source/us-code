@@ -3,9 +3,10 @@ title: "Section 4264 - Asian elephant conservation assistance"
 usc_title: 16
 usc_section: "4264"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 4264"
-generated_at: "2026-03-30T02:54:23.042Z"
+generated_at: "2026-11-23T20:26:20.738Z"
+status: "active"
 ---
 
 # § 4264. Asian elephant conservation assistance
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:54:23.042Z"
 - **(i)**
   - **(1)** The Secretary may award to a person who is otherwise eligible for a grant under this section a multiyear grant of up to 5 years to carry out a project that the person demonstrates is an effective, long-term conservation strategy for Asian elephants and the habitat of Asian elephants.
   - **(2)** Nothing in this subsection precludes the Secretary from awarding a grant on an annual basis.
+
+## Source Credit
+
+*([Pub. L. 105–96, § 5](https://www.govinfo.gov/link/plaw/105/public/96), Nov. 19, 1997, [111 Stat. 2151](https://www.govinfo.gov/link/statute/111/2151); [Pub. L. 110–133, § 2(a)](https://www.govinfo.gov/link/plaw/110/public/133), Dec. 6, 2007, [121 Stat. 1362](https://www.govinfo.gov/link/statute/121/1362); [Pub. L. 118–159, div. E, title LIII, § 5304(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2445](https://www.govinfo.gov/link/statute/138/2445).)*

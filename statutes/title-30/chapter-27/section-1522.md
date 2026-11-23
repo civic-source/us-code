@@ -3,9 +3,10 @@ title: "Section 1522 - Establishment of program"
 usc_title: 30
 usc_section: "1522"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1522"
-generated_at: "2026-03-30T02:55:29.406Z"
+generated_at: "2026-11-23T20:26:35.050Z"
+status: "active"
 ---
 
 # § 1522. Establishment of program
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:29.406Z"
 - **(i)** A person shall not be denied insurance pursuant to this section solely because such person is the recipient of other Federal assistance under this or any other Act.
 - **(j)** There may be appropriated to the Geothermal Resources Development Fund (established pursuant to section 1144 1 of this title), for purposes of this section, such amounts as are authorized for such purposes in the law referred to in subsection (a) or in other legislation hereafter enacted.
 - **(k)** The Secretary may enter into agreements to reinsure any private insurer for any risk associated with insurance for the development and utilization of a geothermal resource and associated reservoir, using the procedures set forth in subsections (c) through (i), to the extent that he deems it appropriate in order to provide an incentive for the participation of the private insurance industry in geothermal development; and he may also use any other available authority to obtain such participation. The Secretary shall submit a report to the Congress, within one year after the enactment of the law referred to in subsection (a), on the need for any additional authority to obtain such participation.
+
+## Source Credit
+
+*([Pub. L. 96–294, title VI, § 622](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 765](https://www.govinfo.gov/link/statute/94/765).)*

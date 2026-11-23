@@ -3,12 +3,17 @@ title: "Section 14913 - Responsibilities of the Attorney General"
 usc_title: 42
 usc_section: "14913"
 chapter: 143
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 14913"
-generated_at: "2026-03-30T02:56:11.453Z"
+generated_at: "2026-11-23T20:27:23.536Z"
+status: "active"
 ---
 
 # § 14913. Responsibilities of the Attorney General
 
 In addition to such other responsibilities as are specifically conferred upon the Attorney General by this chapter, the central authority functions specified in Article 14 of the Convention (relating to the filing of applications by prospective adoptive parents to the central authority of their country of residence) shall be performed by the Attorney General.
 
+
+## Source Credit
+
+*([Pub. L. 106–279, title I, § 103](https://www.govinfo.gov/link/plaw/106/public/279), Oct. 6, 2000, [114 Stat. 829](https://www.govinfo.gov/link/statute/114/829).)*

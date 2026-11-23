@@ -3,9 +3,10 @@ title: "Section 2311 - General authority"
 usc_title: 22
 usc_section: "2311"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2311"
-generated_at: "2026-03-30T02:55:05.356Z"
+generated_at: "2026-11-23T20:26:32.227Z"
+status: "active"
 ---
 
 # § 2311. General authority
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:05.356Z"
   - **(2)** The provisions of this subsection shall not apply—
     - **(A)** to any particular defense article or defense service which the United States Government agreed, prior to December 17, 1973 , to lend; and
     - **(B)** to any defense article or defense service, or portion thereof, acquired with funds appropriated for military assistance under this chapter.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. II, § 503, Sept. 4, 1961, [75 Stat. 435](https://www.govinfo.gov/link/statute/75/435); [Pub. L. 88–633, § 201(a)](https://www.govinfo.gov/link/plaw/88/public/633), Oct. 7, 1964, [78 Stat. 1011](https://www.govinfo.gov/link/statute/78/1011); [Pub. L. 89–171](https://www.govinfo.gov/link/plaw/89/public/171), pt. II, § 201(a), Sept. 6, 1965, [79 Stat. 656](https://www.govinfo.gov/link/statute/79/656); [Pub. L. 90–137](https://www.govinfo.gov/link/plaw/90/public/137), pt. II, § 201(b), Nov. 14, 1967, [81 Stat. 455](https://www.govinfo.gov/link/statute/81/455); [Pub. L. 93–189, § 12(b)(1)](https://www.govinfo.gov/link/plaw/93/public/189), Dec. 17, 1973, [87 Stat. 720](https://www.govinfo.gov/link/statute/87/720); [Pub. L. 96–533, title I, § 112(a)](https://www.govinfo.gov/link/plaw/96/public/533), Dec. 16, 1980, [94 Stat. 3138](https://www.govinfo.gov/link/statute/94/3138); [Pub. L. 97–113, title I](https://www.govinfo.gov/link/plaw/97/public/113), §§ 109(c), 110(c), Dec. 29, 1981, [95 Stat. 1526](https://www.govinfo.gov/link/statute/95/1526); [Pub. L. 99–83, title I, § 123(a)](https://www.govinfo.gov/link/plaw/99/public/83), Aug. 8, 1985, [99 Stat. 205](https://www.govinfo.gov/link/statute/99/205); [Pub. L. 100–461, title V, § 586(a)](https://www.govinfo.gov/link/plaw/100/public/461), Oct. 1, 1988, [102 Stat. 2268–50](https://www.govinfo.gov/link/statute/102/2268).)*

@@ -3,9 +3,10 @@ title: "Section 18791 - Definitions"
 usc_title: 42
 usc_section: "18791"
 chapter: 162
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18791"
-generated_at: "2026-03-30T02:56:11.530Z"
+generated_at: "2026-11-23T20:27:23.830Z"
+status: "active"
 ---
 
 # § 18791. Definitions
@@ -20,3 +21,7 @@ In this part:
   - **(2)** The term “program” means the program established under section 18792(a) of this title .
   - **(3)** The term “State” means a State (as defined in section 6202 of this title ), acting through a State energy office.
   - **(4)** The term “State Energy Program” means the State Energy Program established under part D of title III of the Energy Policy and Conservation Act ( 42 U.S.C. 6321 et seq.).
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title V, § 40501](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1050](https://www.govinfo.gov/link/statute/135/1050).)*

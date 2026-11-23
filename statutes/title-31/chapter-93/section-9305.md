@@ -3,9 +3,10 @@ title: "Section 9305 - Authority and revocation of authority of surety corporati
 usc_title: 31
 usc_section: "9305"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 9305"
-generated_at: "2026-03-30T02:55:34.077Z"
+generated_at: "2026-11-23T20:26:51.941Z"
+status: "active"
 ---
 
 # § 9305. Authority and revocation of authority of surety corporations
@@ -25,3 +26,22 @@ generated_at: "2026-03-30T02:55:34.077Z"
 - **(e)** A surety corporation providing a surety bond under section 9304 of this title may not provide any additional bond under that section if—
   - **(1)** the corporation does not pay a final judgment or order against it on the bond; and
   - **(2)** no appeal or stay of the judgment or order is pending 30 days after the judgment or order is entered.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 9305(a), (b) | 6:8. |  |
+| 9305(c), (d) | 6:9. |  |
+| 9305(e) | 6:11. |  |
+
+
+Historical and Revision Notes
+
+9305(a), (b)
+
+9305(c), (d)
+
+9305(e)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 1047](https://www.govinfo.gov/link/statute/96/1047).)*

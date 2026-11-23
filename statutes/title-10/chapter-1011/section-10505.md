@@ -3,9 +3,10 @@ title: "Section 10505 - Vice Chief of the National Guard Bureau"
 usc_title: 10
 usc_section: "10505"
 chapter: 1011
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 10505"
-generated_at: "2026-03-30T02:53:38.266Z"
+generated_at: "2026-11-23T20:25:52.389Z"
+status: "active"
 ---
 
 # § 10505. Vice Chief of the National Guard Bureau
@@ -25,3 +26,13 @@ generated_at: "2026-03-30T02:53:38.266Z"
 - **(c)**
   - **(1)** The Vice Chief of the National Guard Bureau shall be appointed to serve in the grade of general.
   - **(2)** The Secretary of Defense shall designate, pursuant to subsection (b) of section 526 of this title , the position of Vice Chief of the National Guard Bureau as one of the general officer and flag officer positions to be excluded from the limitations in subsection (a) of such section.
+
+Appointment
+
+Duties
+
+Grade
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title IX, § 904(a)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2826](https://www.govinfo.gov/link/statute/108/2826); amended [Pub. L. 108–375, div. A, title V](https://www.govinfo.gov/link/plaw/108/public/375), §§ 507(c), 508(a)–(b)(3), (c)(1), Oct. 28, 2004, [118 Stat. 1876](https://www.govinfo.gov/link/statute/118/1876), 1877; [Pub. L. 112–81, div. A, title V, § 511(b)](https://www.govinfo.gov/link/plaw/112/public/81), (c)(1), (d)(1), Dec. 31, 2011, [125 Stat. 1392](https://www.govinfo.gov/link/statute/125/1392), 1393; [Pub. L. 114–328, div. A, title V](https://www.govinfo.gov/link/plaw/114/public/328), §§ 502(rr), 511, Dec. 23, 2016, [130 Stat. 2106](https://www.govinfo.gov/link/statute/130/2106), 2112; [Pub. L. 118–31, div. A, title V, § 512](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 244](https://www.govinfo.gov/link/statute/137/244).)*

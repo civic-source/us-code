@@ -3,9 +3,10 @@ title: "Section 9058c - Emergency rental assistance"
 usc_title: 15
 usc_section: "9058c"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 9058c"
-generated_at: "2026-03-30T02:54:08.243Z"
+generated_at: "2026-11-23T20:26:04.550Z"
+status: "active"
 ---
 
 # § 9058c. Emergency rental assistance
@@ -69,3 +70,7 @@ generated_at: "2026-03-30T02:54:08.243Z"
   - **(4)** The term “Secretary” means the Secretary of the Treasury.
   - **(5)** The term “unit of local government” has the meaning given such term in section 9058a of this title .
 - **(g)** Funds provided to an eligible grantee under a payment made under this section shall remain available through September 30, 2025 .
+
+## Source Credit
+
+*([Pub. L. 117–2, title III, § 3201](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 54](https://www.govinfo.gov/link/statute/135/54).)*

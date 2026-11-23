@@ -3,9 +3,10 @@ title: "Section 1722 - Interoperable law enforcement and intelligence data syste
 usc_title: 8
 usc_section: "1722"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1722"
-generated_at: "2026-03-30T02:53:10.507Z"
+generated_at: "2026-11-23T20:25:36.283Z"
+status: "active"
 ---
 
 # § 1722. Interoperable law enforcement and intelligence data system with name-matching capacity and training
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:53:10.507Z"
     - **(A)** Not later than 60 days after May 14, 2002 , the Director of Central Intelligence shall complete the survey and issue the report previously required by section 309(a) of the Intelligence Authorization Act for Fiscal Year 1998 ( 50 U.S.C. 403–3 note). 1 1 See References in Text note below.
     - **(B)** Not later than 120 days after May 14, 2002 , the Director of Central Intelligence shall issue the guidelines and submit the copy of those guidelines previously required by section 309(b) of the Intelligence Authorization Act for Fiscal Year 1998.
   - **(6)** There are authorized to be appropriated such sums as are necessary to carry out the provisions of this subsection.
+
+## Source Credit
+
+*([Pub. L. 107–173, title II, § 202](https://www.govinfo.gov/link/plaw/107/public/173), May 14, 2002, [116 Stat. 548](https://www.govinfo.gov/link/statute/116/548).)*

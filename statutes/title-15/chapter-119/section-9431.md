@@ -3,9 +3,10 @@ title: "Section 9431 - National Artificial Intelligence Research Institutes"
 usc_title: 15
 usc_section: "9431"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 9431"
-generated_at: "2026-03-30T02:54:08.247Z"
+generated_at: "2026-11-23T20:26:04.569Z"
+status: "active"
 ---
 
 # § 9431. National Artificial Intelligence Research Institutes
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:54:08.247Z"
     - **(A)** In awarding financial assistance under paragraph (1), an agency head may collaborate with Federal departments and agencies whose missions contribute to or are affected by artificial intelligence systems.
     - **(B)** The Director of the National Science Foundation shall establish a network of Institutes receiving financial assistance under this subsection, to be known as the “Artificial Intelligence Leadership Network”, to coordinate cross-cutting research and other activities carried out by the Institutes.
   - **(8)** No funds authorized in this subchapter shall be awarded to Institutes outside of the United States. All awardees and subawardees for such Institute shall be based in the United States, in addition to any other eligibility criteria as established by each agency head.
+
+## Source Credit
+
+*([Pub. L. 116–283, div. E, title LII, § 5201](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4534](https://www.govinfo.gov/link/statute/134/4534).)*

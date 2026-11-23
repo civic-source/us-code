@@ -3,9 +3,10 @@ title: "Section 405 - Reports"
 usc_title: 5
 usc_section: "405"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 405"
-generated_at: "2026-03-30T02:52:55.979Z"
+generated_at: "2026-11-23T20:25:31.668Z"
+status: "active"
 ---
 
 # § 405. Reports
@@ -129,3 +130,140 @@ generated_at: "2026-03-30T02:52:55.979Z"
   - **(3)** Except to the extent and in the manner provided under section 6103(f) of the Internal Revenue Code of 1986 ( 26 U.S.C. 6103(f) ), nothing in this section or in any other provision of this chapter shall be construed to authorize or permit the withholding of information from Congress, or from any committee or subcommittee of Congress.
   - **(4)** Subject to any other provision of law that would otherwise prohibit disclosure of such information, the information described in paragraph (1) may be provided to any Member of Congress upon request.
   - **(5)** An Office may not provide to Congress or the public any information that reveals the personally identifiable information of a whistleblower under this section unless the Office first obtains the consent of the whistleblower.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 405 | 5 U.S.C. App. (IGA § 5) | Pub. L. 95–452, § 5 , Oct. 12, 1978 , 92 Stat. 1103 ; Pub. L. 97–252, title XI, § 1117(c) , Sept. 8, 1982 , 96 Stat. 752 ; Pub. L. 100–504, title I , §§ 102(g), 106, Oct. 18, 1988 , 102 Stat. 2521 , 2525; Pub. L. 104–208, div. A, title I, § 101(f) [title VIII, § 805(c)] , Sept. 30, 1996 , 110 Stat. 3009–314 , 3009–393; Pub. L. 110–409, § 12 , Oct. 14, 2008 , 122 Stat. 4315 ; Pub. L. 111–203, title IX, § 989C , July 21, 2010 , 124 Stat. 1945 ; Pub. L. 114–317 , §§ 4(c), 7(d)(2)(B), (C), Dec. 16, 2016 , 130 Stat. 1600 , 1606; Pub. L. 115–192, § 2(c) , June 25, 2018 , 132 Stat. 1503 ; Pub. L. 116–92, div. A, title XVII, § 1710 , Dec. 20, 2019 , 133 Stat. 1801 . |
+
+
+Definitions
+
+Disallowed cost
+
+Final action
+
+Management decision
+
+Questioned cost
+
+Recommendation that funds be put to better use
+
+Senior government employee
+
+Unsupported cost
+
+Semiannual Reports
+
+Furnishing Semiannual Reports to Head of Establishment and Congress
+
+Reports Available to Public
+
+Reporting Serious Problems, Abuses, or Deficiencies
+
+Limitation on Public Disclosure of Information.—
+
+In general
+
+Criminal investigation information in public records
+
+No authorization to withhold information from congress
+
+Provision of information to members of congress
+
+Protection of personally identifiable information of whistleblowers
+
+Historical and Revision Notes
+
+405
+
+Pub. L. 95–452, § 5
+
+Oct. 12, 1978
+
+92 Stat. 1103
+
+Pub. L. 97–252, title XI, § 1117(c)
+
+Sept. 8, 1982
+
+96 Stat. 752
+
+Pub. L. 100–504, title I
+
+Oct. 18, 1988
+
+102 Stat. 2521
+
+Pub. L. 104–208, div. A, title I, § 101(f) [title VIII, § 805(c)]
+
+Sept. 30, 1996
+
+110 Stat. 3009–314
+
+Pub. L. 110–409, § 12
+
+Oct. 14, 2008
+
+122 Stat. 4315
+
+Pub. L. 111–203, title IX, § 989C
+
+July 21, 2010
+
+124 Stat. 1945
+
+Pub. L. 114–317
+
+Dec. 16, 2016
+
+130 Stat. 1600
+
+Pub. L. 115–192, § 2(c)
+
+June 25, 2018
+
+132 Stat. 1503
+
+Pub. L. 116–92, div. A, title XVII, § 1710
+
+Dec. 20, 2019
+
+133 Stat. 1801
+
+“During the 30-day period beginning on the date of enactment of this Act [ Dec. 23, 2022 ]—
+
+“The Chairman of the Board of Governors of the Federal Reserve System, the Chairman of the Commodity Futures Trading Commission, the Chairman of the National Credit Union Administration, the Director of the Pension Benefit Guaranty Corporation, and the Chairman of the Securities and Exchange Commission shall each—
+
+Required Annex on Significant Audit Findings.—
+
+In general
+
+Elements
+
+Information exempt from public disclosure
+
+Defense Contract Audit Agency Included
+
+Exception
+
+Submission of Individual Audits.—
+
+Requirement
+
+Committees
+
+Classified Information
+
+Definitions
+
+Significant audit findings
+
+Contract
+
+Management Decisions
+
+Completion of Final Action
+
+## Source Credit
+
+*([Pub. L. 117–286, § 3(b)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4212](https://www.govinfo.gov/link/statute/136/4212); [Pub. L. 118–159, div. E, title LII, § 5203(e)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2441](https://www.govinfo.gov/link/statute/138/2441).)*

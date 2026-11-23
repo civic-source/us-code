@@ -3,9 +3,10 @@ title: "Section 6804 - Rulemaking"
 usc_title: 15
 usc_section: "6804"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 6804"
-generated_at: "2026-03-30T02:54:08.216Z"
+generated_at: "2026-11-23T20:26:04.418Z"
+status: "active"
 ---
 
 # § 6804. Rulemaking
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:08.216Z"
   - **(2)** Each of the agencies authorized under paragraph (1) to prescribe regulations shall consult and coordinate with the other such agencies and, as appropriate, and with 1 1 So in original. Probably should be “and, as appropriate, with”. representatives of State insurance authorities designated by the National Association of Insurance Commissioners, for the purpose of assuring, to the extent possible, that the regulations prescribed by each such agency are consistent and comparable with the regulations prescribed by the other such agencies.
   - **(3)** Such regulations shall be prescribed in accordance with applicable requirements of title 5.
 - **(b)** The regulations prescribed under subsection (a) may include such additional exceptions to subsections (a) through (d) of section 6802 of this title as are deemed consistent with the purposes of this subchapter.
+
+## Source Credit
+
+*([Pub. L. 106–102, title V, § 504](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1439](https://www.govinfo.gov/link/statute/113/1439); [Pub. L. 111–203, title X, § 1093(3)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2095](https://www.govinfo.gov/link/statute/124/2095).)*

@@ -3,9 +3,10 @@ title: "Section 4021 - Authorization"
 usc_title: 20
 usc_section: "4021"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 4021"
-generated_at: "2026-03-30T02:54:48.182Z"
+generated_at: "2026-11-23T20:26:14.754Z"
+status: "active"
 ---
 
 # § 4021. Authorization
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:48.182Z"
   - **(3)** Of those sums appropriated for any fiscal year for the implementation of this subchapter, the Administrator may use not more than 5 percent to provide grants to States for the following purposes:
     - **(A)** Assisting local educational agencies in performing the periodic reinspections and training activities required under title II of the Toxic Substances Control Act ( 15 U.S.C. 2641 et seq.).
     - **(B)** Establishing and maintaining programs to accredit personnel performing asbestos inspections and response actions.
+
+## Source Credit
+
+*([Pub. L. 98–377, title V, § 512](https://www.govinfo.gov/link/plaw/98/public/377), Aug. 11, 1984, [98 Stat. 1295](https://www.govinfo.gov/link/statute/98/1295); [Pub. L. 99–519, § 4(a)](https://www.govinfo.gov/link/plaw/99/public/519), Oct. 22, 1986, [100 Stat. 2989](https://www.govinfo.gov/link/statute/100/2989); [Pub. L. 100–368, § 6(a)](https://www.govinfo.gov/link/plaw/100/public/368), July 18, 1988, [102 Stat. 833](https://www.govinfo.gov/link/statute/102/833); [Pub. L. 101–637](https://www.govinfo.gov/link/plaw/101/public/637), §§ 11, 14(a)(12), Nov. 28, 1990, [104 Stat. 4592](https://www.govinfo.gov/link/statute/104/4592), 4595.)*

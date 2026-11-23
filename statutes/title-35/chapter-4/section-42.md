@@ -3,9 +3,10 @@ title: "Section 42 - Patent and Trademark Office funding"
 usc_title: 35
 usc_section: "42"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "35 U.S.C. § 42"
-generated_at: "2026-03-30T02:55:34.236Z"
+generated_at: "2026-11-23T20:26:49.114Z"
+status: "active"
 ---
 
 # § 42. Patent and Trademark Office funding
@@ -25,3 +26,11 @@ generated_at: "2026-03-30T02:55:34.236Z"
   - **(3)** budget plans for significant programs, projects, and activities of the Office, including out-year funding estimates;
   - **(4)** any proposed disposition of surplus fees by the Office; and
   - **(5)** such other information as the committees consider necessary.
+
+In General
+
+Estimates
+
+## Source Credit
+
+*(July 19, 1952, ch. 950, [66 Stat. 796](https://www.govinfo.gov/link/statute/66/796); [Pub. L. 94–131, § 4](https://www.govinfo.gov/link/plaw/94/public/131), Nov. 14, 1975, [89 Stat. 690](https://www.govinfo.gov/link/statute/89/690); [Pub. L. 96–517, § 3](https://www.govinfo.gov/link/plaw/96/public/517), Dec. 12, 1980, [94 Stat. 3018](https://www.govinfo.gov/link/statute/94/3018); [Pub. L. 97–247, § 3(g)](https://www.govinfo.gov/link/plaw/97/public/247), Aug. 27, 1982, [96 Stat. 319](https://www.govinfo.gov/link/statute/96/319); [Pub. L. 97–258, § 3(i)](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 1065](https://www.govinfo.gov/link/statute/96/1065); [Pub. L. 102–204](https://www.govinfo.gov/link/plaw/102/public/204), §§ 4, 5(e), Dec. 10, 1991, [105 Stat. 1637](https://www.govinfo.gov/link/statute/105/1637), 1640; [Pub. L. 105–358, § 4](https://www.govinfo.gov/link/plaw/105/public/358), Nov. 10, 1998, [112 Stat. 3274](https://www.govinfo.gov/link/statute/112/3274); [Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4205, 4732(a)(10)(A)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–555, 1501A–582; [Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1906](https://www.govinfo.gov/link/statute/116/1906); [Pub. L. 112–29, § 22(a)](https://www.govinfo.gov/link/plaw/112/public/29), Sept. 16, 2011, [125 Stat. 336](https://www.govinfo.gov/link/statute/125/336); [Pub. L. 112–274, § 1(j)](https://www.govinfo.gov/link/plaw/112/public/274), Jan. 14, 2013, [126 Stat. 2457](https://www.govinfo.gov/link/statute/126/2457).)*

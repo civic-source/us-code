@@ -3,12 +3,17 @@ title: "Section 3812 - Interests of small business"
 usc_title: 19
 usc_section: "3812"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3812"
-generated_at: "2026-03-30T02:54:24.698Z"
+generated_at: "2026-11-23T20:26:11.104Z"
+status: "active"
 ---
 
 # § 3812. Interests of small business
 
 The Assistant United States Trade Representative for Industry and Telecommunications shall be responsible for ensuring that the interests of small business are considered in all trade negotiations in accordance with the objective described in section 3802(a)(8) of this title . It is the sense of the Congress that the small business functions should be reflected in the title of the Assistant United States Trade Representative assigned the responsibility for small business.
 
+
+## Source Credit
+
+*([Pub. L. 107–210, div. B, title XXI, § 2112](https://www.govinfo.gov/link/plaw/107/public/210), Aug. 6, 2002, [116 Stat. 1021](https://www.govinfo.gov/link/statute/116/1021).)*

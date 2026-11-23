@@ -3,9 +3,10 @@ title: "Section 2602 - Agreements to implement Article 9 of the convention"
 usc_title: 19
 usc_section: "2602"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2602"
-generated_at: "2026-03-30T02:54:24.680Z"
+generated_at: "2026-11-23T20:26:11.000Z"
+status: "active"
 ---
 
 # § 2602. Agreements to implement Article 9 of the convention
@@ -50,3 +51,15 @@ generated_at: "2026-03-30T02:54:24.680Z"
     - **(B)** the differences (if any) between such action and the views and recommendations contained in any Committee report which the President was required to consider, and
     - **(C)** the reasons for any such difference.
   - **(3)** If any Committee report required to be considered by the President recommends that an agreement be entered into, but no such agreement is entered into, the President shall submit to the Congress a report which contains the reasons why such agreement was not entered into.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+## Source Credit
+
+*([Pub. L. 97–446, title III, § 303](https://www.govinfo.gov/link/plaw/97/public/446), Jan. 12, 1983, [96 Stat. 2352](https://www.govinfo.gov/link/statute/96/2352).)*

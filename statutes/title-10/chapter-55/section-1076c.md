@@ -3,9 +3,10 @@ title: "Section 1076c - Dental insurance plan: certain retirees and their surviv
 usc_title: 10
 usc_section: "1076c"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1076c"
-generated_at: "2026-03-30T02:53:38.102Z"
+generated_at: "2026-11-23T20:25:51.224Z"
+status: "active"
 ---
 
 # § 1076c. Dental insurance plan: certain retirees and their surviving spouses and other dependents
@@ -54,3 +55,29 @@ generated_at: "2026-03-30T02:53:38.102Z"
   - **(1)** The term “eligible dependent” means a dependent described in subparagraph (A), (D), or (I) of section 1072(2) of this title .
   - **(2)** The term “eligible child dependent” means a dependent described in subparagraph (D) or (I) of section 1072(2) of this title .
   - **(3)** The term “retired pay” includes retainer pay.
+
+Requirement for Plan
+
+Persons Eligible for Plan
+
+Premiums
+
+Benefits Available Under the Plan
+
+Coverage
+
+Required Terminations of Enrollment
+
+Continuation of Dependents’ Enrollment Upon Death of Enrollee
+
+Regulations
+
+Voluntary Disenrollment
+
+Definitions
+
+“Beginning not later than April 1, 1998 , the Secretary of Defense shall—
+
+## Source Credit
+
+*(Added [Pub. L. 104–201, div. A, title VII, § 703(a)(1)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2588](https://www.govinfo.gov/link/statute/110/2588); amended [Pub. L. 105–85, div. A, title VII](https://www.govinfo.gov/link/plaw/105/public/85), §§ 701, 733(b), 734, Nov. 18, 1997, [111 Stat. 1807](https://www.govinfo.gov/link/statute/111/1807), 1812, 1813; [Pub. L. 105–261, div. A, title VII, § 702](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2056](https://www.govinfo.gov/link/statute/112/2056); [Pub. L. 106–65, div. A, title VII, § 704](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 683](https://www.govinfo.gov/link/statute/113/683); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title VII, § 726, title X, § 1087(a)(6)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–187, 1654A–290; [Pub. L. 114–328, div. A, title VII, § 715(b)(3)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2222](https://www.govinfo.gov/link/statute/130/2222).)*

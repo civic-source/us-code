@@ -3,9 +3,10 @@ title: "Section 720 - Definitions"
 usc_title: 15
 usc_section: "720"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 720"
-generated_at: "2026-03-30T02:54:08.120Z"
+generated_at: "2026-11-23T20:26:03.914Z"
+status: "active"
 ---
 
 # § 720. Definitions
@@ -24,3 +25,7 @@ In this chapter:
     - **(B)** approved by Public Law 95–158 ( 15 U.S.C. 719f note; 91 Stat. 1268 ).
   - **(7)** The term “Secretary” means the Secretary of Energy.
   - **(8)** The term “State” means the State of Alaska.
+
+## Source Credit
+
+*([Pub. L. 108–324, div. C, § 102](https://www.govinfo.gov/link/plaw/108/public/324), Oct. 13, 2004, [118 Stat. 1255](https://www.govinfo.gov/link/statute/118/1255).)*

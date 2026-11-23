@@ -3,9 +3,10 @@ title: "Section 3530 - Office of wellness and workforce support"
 usc_title: 50
 usc_section: "3530"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3530"
-generated_at: "2026-03-30T02:56:26.256Z"
+generated_at: "2026-11-23T20:27:31.026Z"
+status: "active"
 ---
 
 # § 3530. Office of wellness and workforce support
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:56:26.256Z"
   - **(2)** An individual described in this paragraph is—
     - **(A)** a current or former officer or employee of the Agency; or
     - **(B)** an individual affiliated with the Agency, as determined by the Director.
+
+## Source Credit
+
+*(June 20, 1949, ch. 227, § 29, as added [Pub. L. 117–263, div. F, title LXIV, § 6416(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3528](https://www.govinfo.gov/link/statute/136/3528).)*

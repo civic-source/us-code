@@ -3,9 +3,10 @@ title: "Section 3374 - Assignments of employees from State or local governments"
 usc_title: 5
 usc_section: "3374"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 3374"
-generated_at: "2026-03-30T02:52:56.005Z"
+generated_at: "2026-11-23T20:25:31.826Z"
+status: "active"
 ---
 
 # § 3374. Assignments of employees from State or local governments
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:52:56.005Z"
   - **(3)** is subject to such regulations as the President may prescribe.
 - **(d)** A State or local government employee who is given an appointment in a Federal agency for the period of the assignment or who is on detail to a Federal agency and who suffers disability or dies as a result of personal injury sustained while in the performance of his duty during the assignment shall be treated, for the purpose of subchapter I of chapter 81 of this title, as though he were an employee as defined by section 8101 of this title who had sustained the injury in the performance of duty. When an employee (or his dependents in case of death) entitled by reason of injury or death to benefits under subchapter I of chapter 81 of this title is also entitled to benefits from a State or local government for the same injury or death, he (or his dependents in case of death) shall elect which benefits he will receive. The election shall be made within 1 year after the injury or death, or such further time as the Secretary of Labor may allow for reasonable cause shown. When made, the election is irrevocable unless otherwise provided by law.
 - **(e)** If a State or local government fails to continue the employer’s contribution to State or local government retirement, life insurance, and health benefit plans for a State or local government employee who is given an appointment in a Federal agency, the employer’s contributions covering the State or local government employee’s period of assignment, or any part thereof, may be made from the appropriations of the Federal agency concerned.
+
+## Source Credit
+
+*(Added [Pub. L. 91–648, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/91/public/648), Jan. 5, 1971, [84 Stat. 1923](https://www.govinfo.gov/link/statute/84/1923); amended [Pub. L. 95–454, title VI, § 603(b)](https://www.govinfo.gov/link/plaw/95/public/454), (d), Oct. 13, 1978, [92 Stat. 1190](https://www.govinfo.gov/link/statute/92/1190); [Pub. L. 97–258, § 3(a)(6)](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 1063](https://www.govinfo.gov/link/statute/96/1063); [Pub. L. 107–107, div. A, title XI, § 1117](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1241](https://www.govinfo.gov/link/statute/115/1241); [Pub. L. 111–350, § 5(a)(5)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3841](https://www.govinfo.gov/link/statute/124/3841); [Pub. L. 117–286, § 4(c)(6)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4354](https://www.govinfo.gov/link/statute/136/4354).)*

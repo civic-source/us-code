@@ -3,9 +3,10 @@ title: "Section 4247 - General provisions for chapter"
 usc_title: 18
 usc_section: "4247"
 chapter: 313
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 4247"
-generated_at: "2026-03-30T02:54:16.529Z"
+generated_at: "2026-11-23T20:26:08.792Z"
+status: "active"
 ---
 
 # § 4247. General provisions for chapter
@@ -48,3 +49,25 @@ generated_at: "2026-03-30T02:54:16.529Z"
     - **(C)** shall, before placing a person in a facility pursuant to the provisions of section 4241, 4243, 4244, 4245, 4246, or 4248, consider the suitability of the facility’s rehabilitation programs in meeting the needs of the person; and
     - **(D)** shall consult with the Secretary of the Department of Health and Human Services in the general implementation of the provisions of this chapter and in the establishment of standards for facilities used in the implementation of this chapter.
 - **(j)** Sections 4241, 4242, 4243, and 4244 do not apply to a prosecution under an Act of Congress applicable exclusively to the District of Columbia or the Uniform Code of Military Justice.
+
+Definitions
+
+Psychiatric or Psychological Examination
+
+Psychiatric or Psychological Reports
+
+Hearing
+
+Periodic Report and Information Requirements
+
+Videotape Record
+
+Habeas Corpus Unimpaired
+
+Discharge
+
+Authority and Responsibility of the Attorney General
+
+## Source Credit
+
+*(Added Sept. 7, 1949, ch. 535, § 1, [63 Stat. 687](https://www.govinfo.gov/link/statute/63/687); amended [Pub. L. 98–473, title II, § 403(a)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2065](https://www.govinfo.gov/link/statute/98/2065); [Pub. L. 100–690, title VII](https://www.govinfo.gov/link/plaw/100/public/690), §§ 7044, 7047(a), Nov. 18, 1988, [102 Stat. 4400](https://www.govinfo.gov/link/statute/102/4400), 4401; [Pub. L. 103–322, title XXXIII, § 330003(d)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2141](https://www.govinfo.gov/link/statute/108/2141); [Pub. L. 105–33, title XI, § 11204(2)](https://www.govinfo.gov/link/plaw/105/public/33), (3), Aug. 5, 1997, [111 Stat. 739](https://www.govinfo.gov/link/statute/111/739); [Pub. L. 109–248, title III, § 302(3)](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 619](https://www.govinfo.gov/link/statute/120/619).)*

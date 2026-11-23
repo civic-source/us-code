@@ -3,9 +3,10 @@ title: "Section 3224a - Authorization of support by Director of National Intelli
 usc_title: 50
 usc_section: "3224a"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3224a"
-generated_at: "2026-03-30T02:56:26.238Z"
+generated_at: "2026-11-23T20:27:30.940Z"
+status: "active"
 ---
 
 # § 3224a. Authorization of support by Director of National Intelligence for certain workforce activities
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:26.238Z"
 - **(c)** In this section, the term “covered workforce activity” means an activity relating to—
   - **(1)** recruitment or retention of the intelligence community workforce; or
   - **(2)** diversity, equality, inclusion, or accessibility, with respect to such workforce.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title X, § 1025, as added [Pub. L. 117–103, div. X, title III, § 304](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 965](https://www.govinfo.gov/link/statute/136/965).)*

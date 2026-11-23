@@ -3,9 +3,10 @@ title: "Section 2432 - Freedom of emigration in East-West trade"
 usc_title: 19
 usc_section: "2432"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2432"
-generated_at: "2026-03-30T02:54:24.674Z"
+generated_at: "2026-11-23T20:26:10.967Z"
+status: "active"
 ---
 
 # § 2432. Freedom of emigration in East-West trade
@@ -35,3 +36,11 @@ generated_at: "2026-03-30T02:54:24.674Z"
     - **(B)** If a joint resolution is enacted into law under the provisions of this paragraph, the waiver authority applicable to any country with respect to which the joint resolution disapproves of the extension of such authority shall cease to be effective as of the day after the 60-day period beginning on the date of the enactment of the joint resolution.
     - **(C)** A joint resolution to which this subsection and section 2193 of this title apply may be introduced at any time on or after the date the President transmits to the Congress the document described in paragraph (1)(B).
 - **(e)** This section shall not apply to any country the products of which are eligible for the rates set forth in rate column numbered 1 of the Tariff Schedules of the United States on January 3, 1975 .
+
+In general
+
+Extension of waiver authority.—
+
+## Source Credit
+
+*([Pub. L. 93–618, title IV, § 402](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 2056](https://www.govinfo.gov/link/statute/88/2056); [Pub. L. 96–39, title XI, § 1106(f)(1)](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 312](https://www.govinfo.gov/link/statute/93/312); [Pub. L. 101–382, title I, § 132(a)(1)](https://www.govinfo.gov/link/plaw/101/public/382), (2), Aug. 20, 1990, [104 Stat. 643](https://www.govinfo.gov/link/statute/104/643), 644; [Pub. L. 105–206, title V, § 5003(b)(2)(A)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 789](https://www.govinfo.gov/link/statute/112/789).)*

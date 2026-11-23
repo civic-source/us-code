@@ -3,9 +3,10 @@ title: "Section 337 - Allocation and assignment of new public safety services li
 usc_title: 47
 usc_section: "337"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 337"
-generated_at: "2026-03-30T02:56:24.510Z"
+generated_at: "2026-11-23T20:27:28.890Z"
+status: "active"
 ---
 
 # § 337. Allocation and assignment of new public safety services licenses and commercial licenses
@@ -43,3 +44,19 @@ generated_at: "2026-03-30T02:56:24.510Z"
     - **(A)** such station broadcast a minimum of 18 hours per day;
     - **(B)** such station broadcast an average of at least 3 hours per week of programming that was produced within the market area served by such station; and
     - **(C)** such station was in compliance with the requirements applicable to low-power television stations.
+
+Interference Waivers
+
+Exception for Public Safety Channel Clearing
+
+Revised Schedule for Competitive Bidding of Spectrum
+
+Reports
+
+Construction
+
+Repeal of Superseded Provisions
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title III, § 337, as added [Pub. L. 105–33, title III, § 3004](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 266](https://www.govinfo.gov/link/statute/111/266); amended [Pub. L. 106–79, title VIII, § 8124(a)](https://www.govinfo.gov/link/plaw/106/public/79), Oct. 25, 1999, [113 Stat. 1262](https://www.govinfo.gov/link/statute/113/1262); [Pub. L. 106–113, div. B, § 1000(a)(5) [title II, § 213(a)(1), (d)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–295, 1501A–297; [Pub. L. 109–171, title III, § 3002(c)(1)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 21](https://www.govinfo.gov/link/statute/120/21); [Pub. L. 111–4, § 2(b)(3)](https://www.govinfo.gov/link/plaw/111/public/4), Feb. 11, 2009, [123 Stat. 112](https://www.govinfo.gov/link/statute/123/112); [Pub. L. 112–96, title VI, § 6101(b)](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 205](https://www.govinfo.gov/link/statute/126/205).)*

@@ -3,9 +3,10 @@ title: "Section 8134 - General regulations"
 usc_title: 38
 usc_section: "8134"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 8134"
-generated_at: "2026-03-30T02:55:53.538Z"
+generated_at: "2026-11-23T20:27:02.078Z"
+status: "active"
 ---
 
 # § 8134. General regulations
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:53.538Z"
   - **(2)**
     - **(A)** Financial assistance under this subchapter for a renovation project may only be provided for a project for which the total cost of construction is in excess of $400,000 (as adjusted from time-to-time in such regulations to reflect changes in costs of construction).
     - **(B)** For purposes of this paragraph, a renovation project is a project to remodel or alter existing buildings for which financial assistance under this subchapter may be provided and does not include maintenance and repair work which is the responsibility of the State.
+
+## Source Credit
+
+*(Added [Pub. L. 88–450, § 4(a)](https://www.govinfo.gov/link/plaw/88/public/450), Aug. 19, 1964, [78 Stat. 502](https://www.govinfo.gov/link/statute/78/502), § 5034; amended [Pub. L. 89–311, § 7(b)](https://www.govinfo.gov/link/plaw/89/public/311), Oct. 31, 1965, [79 Stat. 1157](https://www.govinfo.gov/link/statute/79/1157); [Pub. L. 93–82, title IV, § 403(d)](https://www.govinfo.gov/link/plaw/93/public/82), Aug. 2, 1973, [87 Stat. 196](https://www.govinfo.gov/link/statute/87/196); [Pub. L. 94–581, title I, § 107(b)](https://www.govinfo.gov/link/plaw/94/public/581), title II, § 206(b), Oct. 21, 1976, [90 Stat. 2847](https://www.govinfo.gov/link/statute/90/2847), 2859; [Pub. L. 95–62, § 3(5)](https://www.govinfo.gov/link/plaw/95/public/62), (6), July 5, 1977, [91 Stat. 262](https://www.govinfo.gov/link/statute/91/262); [Pub. L. 96–330, title IV, § 404](https://www.govinfo.gov/link/plaw/96/public/330), Aug. 26, 1980, [94 Stat. 1052](https://www.govinfo.gov/link/statute/94/1052); [Pub. L. 98–528, title I, § 105(2)](https://www.govinfo.gov/link/plaw/98/public/528), Oct. 19, 1984, [98 Stat. 2689](https://www.govinfo.gov/link/statute/98/2689); renumbered § 8134, [Pub. L. 102–40, title IV, § 402(b)(1)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238); [Pub. L. 102–54, § 14(f)(6)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 288](https://www.govinfo.gov/link/statute/105/288); [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, [105 Stat. 404–406](https://www.govinfo.gov/link/statute/105/404); [Pub. L. 106–117, title II, § 207(a)](https://www.govinfo.gov/link/plaw/106/public/117), Nov. 30, 1999, [113 Stat. 1564](https://www.govinfo.gov/link/statute/113/1564).)*

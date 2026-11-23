@@ -3,9 +3,10 @@ title: "Section 3473 - Reorganization of Department"
 usc_title: 20
 usc_section: "3473"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 3473"
-generated_at: "2026-03-30T02:54:48.179Z"
+generated_at: "2026-11-23T20:26:14.734Z"
+status: "active"
 ---
 
 # § 3473. Reorganization of Department
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:48.179Z"
     - **(K)** the bureau for the education and training for the handicapped; and
     - **(L)** the administrative units for guidance and counseling programs, the veterans’ cost of instruction program, and the program for the gifted and talented children.
   - **(2)** The Secretary may alter, consolidate, or discontinue any organizational entity continued within the Department and described in paragraph (1) of this subsection or reallocate any function vested by statute in such an entity, upon the expiration of a period of ninety days after the receipt by the Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor of the House of Representatives of notice given by the Secretary containing a full and complete statement of the action proposed to be taken pursuant to this subsection and the facts and circumstances relied upon in support of such proposed action.
+
+## Source Credit
+
+*([Pub. L. 96–88, title IV, § 413](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 684](https://www.govinfo.gov/link/statute/93/684); [Pub. L. 96–496, title II, § 202](https://www.govinfo.gov/link/plaw/96/public/496), Dec. 4, 1980, [94 Stat. 2593](https://www.govinfo.gov/link/statute/94/2593); [Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 709(c)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–233](https://www.govinfo.gov/link/statute/110/3009), 3009–313; [Pub. L. 107–110, title X, § 1072(b)](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2089](https://www.govinfo.gov/link/statute/115/2089).)*

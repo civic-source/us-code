@@ -3,9 +3,10 @@ title: "Section 21041 - Grants for research on voting technology improvements"
 usc_title: 52
 usc_section: "21041"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "52 U.S.C. § 21041"
-generated_at: "2026-03-30T02:56:30.167Z"
+generated_at: "2026-11-23T20:27:36.984Z"
+status: "active"
 ---
 
 # § 21041. Grants for research on voting technology improvements
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:30.167Z"
     - **(A)** In the case of a grant for which the Commission submits the application to the Director under paragraph (2) or requests that the Director monitor the grant under paragraph (3), the Director shall prepare and submit to the Commission an evaluation of the grant and the activities carried out under the grant.
     - **(B)** The Commission shall include the evaluations submitted under subparagraph (A) for a year in the report submitted for the year under section 20927 of this title .
 - **(e)** The Commission may provide to the Technical Guidelines Development Committee under subpart 3 of part A of this subchapter such information regarding the activities funded under this subpart as the Commission deems necessary to assist the Committee in carrying out its duties.
+
+## Source Credit
+
+*([Pub. L. 107–252, title II, § 271](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1699](https://www.govinfo.gov/link/statute/116/1699).)*

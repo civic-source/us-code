@@ -3,9 +3,10 @@ title: "Section 1133 - Preliminary development and demonstration"
 usc_title: 14
 usc_section: "1133"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 1133"
-generated_at: "2026-03-30T02:53:51.493Z"
+generated_at: "2026-11-23T20:25:54.557Z"
+status: "active"
 ---
 
 # § 1133. Preliminary development and demonstration
@@ -35,3 +36,37 @@ generated_at: "2026-03-30T02:53:51.493Z"
     - **[(B)** Repealed. Pub. L. 112–213, title II, § 210(c)(2)(B) , Dec. 20, 2012 , 126 Stat. 1551 .]
   - **(4)** The Commandant shall cause the design and construction of each National Security Cutter, other than National Security Cutters 1, 2, and 3, to be assessed by an independent third party with expertise in vessel design and construction certification.
   - **(5)** The Commandant shall cause all aircraft and aircraft engines acquired by the Coast Guard to be assessed for airworthiness by an independent third party with expertise in aircraft and aircraft engine certification before final acceptance.
+
+In General
+
+Tests and Evaluations.—
+
+In general
+
+Use of third parties
+
+Communication of safety concerns
+
+Reporting of safety concerns
+
+Asset already in low, initial, or full-rate production
+
+Technical Certification.—
+
+In general
+
+TEMPEST testing
+
+Cutter classification.—
+
+In general
+
+Other vessels
+
+Aircraft airworthiness
+
+“The Commandant of the Coast Guard may not certify an eighth National Security Cutter as Ready for Operations before the date on which the Commandant provides to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate—
+
+## Source Credit
+
+*(Added [Pub. L. 111–281, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2944](https://www.govinfo.gov/link/statute/124/2944), § 573; amended [Pub. L. 112–213, title II, § 210(c)(2)(B)](https://www.govinfo.gov/link/plaw/112/public/213), Dec. 20, 2012, [126 Stat. 1551](https://www.govinfo.gov/link/statute/126/1551); [Pub. L. 115–232, div. C, title XXXV, § 3522](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2314](https://www.govinfo.gov/link/statute/132/2314); renumbered § 1133 and amended [Pub. L. 115–282, title I](https://www.govinfo.gov/link/plaw/115/public/282), §§ 108(b), 123(b)(2), Dec. 4, 2018, [132 Stat. 4208](https://www.govinfo.gov/link/statute/132/4208), 4240.)*

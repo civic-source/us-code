@@ -3,9 +3,10 @@ title: "Section 6j - Restrictions on dual trading in security futures products o
 usc_title: 7
 usc_section: "6j"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6j"
-generated_at: "2026-03-30T02:53:42.241Z"
+generated_at: "2026-11-23T20:25:40.863Z"
+status: "active"
 ---
 
 # § 6j. Restrictions on dual trading in security futures products on designated contract markets and registered derivatives transaction execution facilities
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:42.241Z"
   - **(2)** have an employer and employee relationship which relates to floor brokerage activity,
   - **(3)** share profits and losses associated with their brokerage or trading activity, or
   - **(4)** regularly share a deck of orders.
+
+## Source Credit
+
+*(Sept. 21, 1922, ch. 369, § 4j, as added [Pub. L. 93–463, title II, § 203](https://www.govinfo.gov/link/plaw/93/public/463), Oct. 23, 1974, [88 Stat. 1396](https://www.govinfo.gov/link/statute/88/1396); amended [Pub. L. 94–16, § 2](https://www.govinfo.gov/link/plaw/94/public/16), Apr. 16, 1975, [89 Stat. 77](https://www.govinfo.gov/link/statute/89/77); [Pub. L. 102–546, title I](https://www.govinfo.gov/link/plaw/102/public/546), §§ 101, 102(a), Oct. 28, 1992, [106 Stat. 3591](https://www.govinfo.gov/link/statute/106/3591), 3594; [Pub. L. 106–554, § 1(a)(5) [title II, § 251(c)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–442.)*

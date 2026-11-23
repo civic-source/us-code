@@ -3,9 +3,10 @@ title: "Section 285r - Purpose of the Institute"
 usc_title: 42
 usc_section: "285r"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 285r"
-generated_at: "2026-03-30T02:56:10.749Z"
+generated_at: "2026-11-23T20:27:20.259Z"
+status: "active"
 ---
 
 # § 285r. Purpose of the Institute
@@ -33,3 +34,15 @@ generated_at: "2026-03-30T02:56:10.749Z"
     - **(A)** six members shall be scientists, engineers, physicians, and other health professionals who represent disciplines in biomedical imaging and bioengineering and who are not officers or employees of the United States; and
     - **(B)** six members shall be scientists, engineers, physicians, and other health professionals who represent other disciplines and are knowledgeable about the applications of biomedical imaging and bioengineering in medicine, and who are not officers or employees of the United States.
   - **(3)** In addition to the ex officio members specified in section 284a(b)(2) of this title , the ex officio members of the advisory council shall include the Director of the Centers for Disease Control and Prevention, the Director of the National Science Foundation, and the Director of the National Institute of Standards and Technology (or the designees of such officers).
+
+“The Congress makes the following findings:
+
+Use of Existing Resources
+
+Construction of Facilities
+
+Date Certain for Establishment of Advisory Council
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title IV, § 464z, as added [Pub. L. 106–580, § 3(a)](https://www.govinfo.gov/link/plaw/106/public/580), Dec. 29, 2000, [114 Stat. 3089](https://www.govinfo.gov/link/statute/114/3089); amended [Pub. L. 109–482, title I, § 103(b)(37)](https://www.govinfo.gov/link/plaw/109/public/482), Jan. 15, 2007, [120 Stat. 3688](https://www.govinfo.gov/link/statute/120/3688).)*

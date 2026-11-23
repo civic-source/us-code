@@ -3,9 +3,10 @@ title: "Section 3413 - Certification of organizations"
 usc_title: 7
 usc_section: "3413"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 3413"
-generated_at: "2026-03-30T02:53:42.403Z"
+generated_at: "2026-11-23T20:25:41.600Z"
+status: "active"
 ---
 
 # § 3413. Certification of organizations
@@ -18,3 +19,7 @@ The eligibility of any organization to represent wheat producers, processors, en
 - **(d)** sources from which the organization’s operating funds are derived,
 - **(e)** functions of the organization, and
 - **(f)** the organization’s ability and willingness to further the aims and objectives of this title: Provided , That the primary consideration in determining the eligibility of an organization, other than a consumer organization, shall be whether its membership consists primarily of wheat producers, processors, or end product manufacturers who produce a substantial volume of wheat, processed wheat, or end products, respectively, and whether the organization is based on a primary or overriding interest in the production, processing, or end manufacture of wheat or wheat products, and the nutritional attributes thereof: Provided further , That the primary consideration in determining the eligibility of a consumer organization shall be whether (1) a principal purpose of the organization is to promote consumer interests, consumer research, or consumer education, (2) such organization has a broadly representative constituency of consumers, with active membership participation on a regular basis, and (3) the organization has demonstrated to the Secretary’s satisfaction its commitment to the achievement of the objectives of this chapter.
+
+## Source Credit
+
+*([Pub. L. 95–113, title XVII, § 1714](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 1039](https://www.govinfo.gov/link/statute/91/1039).)*

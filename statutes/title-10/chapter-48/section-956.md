@@ -3,9 +3,10 @@ title: "Section 956 - Deserters, prisoners, members absent without leave: expens
 usc_title: 10
 usc_section: "956"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 956"
-generated_at: "2026-03-30T02:53:38.091Z"
+generated_at: "2026-11-23T20:25:51.158Z"
+status: "active"
 ---
 
 # § 956. Deserters, prisoners, members absent without leave: expenses and rewards
@@ -17,3 +18,7 @@ Funds appropriated to the Department of Defense may be used for the following pu
   - **(3)** Payment of a gratuity of not to exceed $25 to each prisoner upon release from confinement in a military or contract prison facility.
   - **(4)** The issue of authorized articles to prisoners and other persons in military custody.
   - **(5)** Under such regulations as the Secretary concerned may prescribe, expenses incident to the maintenance, pay, and allowances of prisoners of war, other persons in the custody of the Army, Navy, or Air Force whose status is determined by the Secretary concerned to be similar to prisoners of war, and persons detained in the custody of the Army, Navy, or Air Force pursuant to Presidential proclamation.
+
+## Source Credit
+
+*(Added [Pub. L. 98–525, title XIV, § 1401(b)(1)](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2614](https://www.govinfo.gov/link/statute/98/2614).)*

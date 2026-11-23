@@ -3,9 +3,10 @@ title: "Section 862a - Denial of assistance and benefits for certain drug-relate
 usc_title: 21
 usc_section: "862a"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 862a"
-generated_at: "2026-03-30T02:54:54.297Z"
+generated_at: "2026-11-23T20:26:27.846Z"
+status: "active"
 ---
 
 # § 862a. Denial of assistance and benefits for certain drug-related convictions
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:54.297Z"
   - **(4)** Prenatal care.
   - **(5)** Job training programs.
   - **(6)** Drug treatment programs.
+
+## Source Credit
+
+*([Pub. L. 104–193, title I, § 115](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2180](https://www.govinfo.gov/link/statute/110/2180); [Pub. L. 105–33, title V, § 5516(a)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 620](https://www.govinfo.gov/link/statute/111/620); [Pub. L. 110–234, title IV, § 4115(c)(2)(C)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1109](https://www.govinfo.gov/link/statute/122/1109); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, § 4115(c)(2)(C), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1871; [Pub. L. 113–79, title IV, § 4030(n)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 814](https://www.govinfo.gov/link/statute/128/814).)*

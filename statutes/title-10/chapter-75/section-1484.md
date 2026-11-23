@@ -3,9 +3,10 @@ title: "Section 1484 - Pensioners, indigent patients, and persons who die on mil
 usc_title: 10
 usc_section: "1484"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1484"
-generated_at: "2026-03-30T02:53:38.126Z"
+generated_at: "2026-11-23T20:25:51.355Z"
+status: "active"
 ---
 
 # § 1484. Pensioners, indigent patients, and persons who die on military reservations
@@ -18,3 +19,20 @@ If proper disposition of the remains cannot otherwise be made, the Secretary con
   - **(4)** furnishing of a casket or urn, or both, with outside box;
   - **(5)** transportation of the remains to a cemetery selected by the Secretary; and
   - **(6)** interment of the remains.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1484 | 5:2156 (as applicable to armed forces). | July 15, 1954, ch. 507, § 6 (as applicable to armed forces), 68 Stat. 479 . |
+
+
+Historical and Revision Notes
+
+1484
+
+July 15, 1954, ch. 507, § 6
+
+68 Stat. 479
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 114.)*

@@ -3,9 +3,10 @@ title: "Section 9671 - Limitations and preferences"
 usc_title: 22
 usc_section: "9671"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9671"
-generated_at: "2026-03-30T02:55:05.471Z"
+generated_at: "2026-11-23T20:26:32.793Z"
+status: "active"
 ---
 
 # § 9671. Limitations and preferences
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:55:05.471Z"
       - **(ii)** whether or not the power is exercised.
     - **(B)** The term “owned”, with respect to an enterprise, means a majority or controlling interest, whether by value or voting interest, of the shares of that enterprise, including through fiduciaries, agents, or other means.
     - **(C)** The term “state-owned enterprise” means any enterprise established for a commercial or business purpose that is directly owned or controlled by one or more governments, including any agency, instrumentality, subdivision, or other unit of government at any level of jurisdiction.
+
+## Source Credit
+
+*([Pub. L. 115–254, div. F, title V, § 1451](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3507](https://www.govinfo.gov/link/statute/132/3507); [Pub. L. 119–60, div. H, title LXXXVII, § 8758](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1968](https://www.govinfo.gov/link/statute/139/1968).)*

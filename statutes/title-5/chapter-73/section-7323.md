@@ -3,9 +3,10 @@ title: "Section 7323 - Political activity authorized; prohibitions"
 usc_title: 5
 usc_section: "7323"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 7323"
-generated_at: "2026-03-30T02:52:56.037Z"
+generated_at: "2026-11-23T20:25:32.061Z"
+status: "active"
 ---
 
 # § 7323. Political activity authorized; prohibitions
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:52:56.037Z"
   - **(3)** No employee of the Criminal Division or National Security Division of the Department of Justice (except one appointed by the President, by and with the advice and consent of the Senate), may take an active part in political management or political campaigns.
   - **(4)** For purposes of this subsection, the term “active part in political management or in a political campaign” means those acts of political management or political campaigning which were prohibited for employees of the competitive service before July 19, 1940 , by determinations of the Civil Service Commission under the rules prescribed by the President.
 - **(c)** An employee retains the right to vote as he chooses and to express his opinion on political subjects and candidates.
+
+## Source Credit
+
+*(Added [Pub. L. 103–94, § 2(a)](https://www.govinfo.gov/link/plaw/103/public/94), Oct. 6, 1993, [107 Stat. 1002](https://www.govinfo.gov/link/statute/107/1002); amended [Pub. L. 103–359, title V, § 501(k)](https://www.govinfo.gov/link/plaw/103/public/359), Oct. 14, 1994, [108 Stat. 3430](https://www.govinfo.gov/link/statute/108/3430); [Pub. L. 104–201, div. A, title XI, § 1122(a)(1)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2687](https://www.govinfo.gov/link/statute/110/2687); [Pub. L. 106–554, § 1(a)(3) [title VI, § 645(a)(2)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–170; [Pub. L. 107–252, title VIII, § 811(a)](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1727](https://www.govinfo.gov/link/statute/116/1727); [Pub. L. 108–458, title I, § 1079(a)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3695](https://www.govinfo.gov/link/statute/118/3695); [Pub. L. 109–177, title V, § 506(b)(2)](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 249](https://www.govinfo.gov/link/statute/120/249); [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title IX, § 931(a)(1), Oct. 14, 2008, [122 Stat. 4575](https://www.govinfo.gov/link/statute/122/4575).)*

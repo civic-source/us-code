@@ -3,9 +3,10 @@ title: "Section 9039 - Availability of recourse loans for high moisture feed gra
 usc_title: 7
 usc_section: "9039"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 9039"
-generated_at: "2026-03-30T02:53:42.486Z"
+generated_at: "2026-11-23T20:25:41.942Z"
+status: "active"
 ---
 
 # § 9039. Availability of recourse loans for high moisture feed grains and seed cotton
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:42.486Z"
 - **(b)** For each of the 2014 through 2031 crops of upland cotton and extra long staple cotton, the Secretary shall make available recourse seed cotton loans, as determined by the Secretary, on any production.
 - **(c)** In the case of a loan commodity that is ineligible for 100 percent of the nonrecourse marketing loan rate in the county due to a determination that the commodity is contaminated yet still merchantable, for each of the 2019 through 2031 crops of such loan commodity, the Secretary shall make available recourse commodity loans, at the rate provided under section 9032 of this title , on any production.
 - **(d)** Repayment of a recourse loan made under this section shall be at the loan rate established for the commodity by the Secretary, plus interest (determined in accordance with section 7283 of this title ).
+
+## Source Credit
+
+*([Pub. L. 113–79, title I, § 1209](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 685](https://www.govinfo.gov/link/statute/128/685); [Pub. L. 115–334, title I, § 1205](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4510](https://www.govinfo.gov/link/statute/132/4510); [Pub. L. 119–21, title I, § 10309(f)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 94](https://www.govinfo.gov/link/statute/139/94).)*

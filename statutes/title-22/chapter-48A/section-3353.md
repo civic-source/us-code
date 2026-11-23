@@ -3,9 +3,10 @@ title: "Section 3353 - International military education and training cooperation
 usc_title: 22
 usc_section: "3353"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3353"
-generated_at: "2026-03-30T02:55:05.392Z"
+generated_at: "2026-11-23T20:26:32.454Z"
+status: "active"
 ---
 
 # § 3353. International military education and training cooperation with Taiwan
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.392Z"
   - **(4)** train future leaders of Taiwan, promote professional military education, civilian control of the military, and protection of human rights.
 - **(b)** The training program required by subsection (a) should prioritize relevant and realistic training, including as necessary joint United States-Taiwan contingency tabletop exercises, war games, full-scale military exercises, and an enduring rotational United States military presence that assists Taiwan in maintaining force readiness and utilizing United States defense articles and services transferred from the United States to Taiwan.
 - **(c)** The Secretary of State is authorized to provide training and education to relevant entities in Taiwan through the International Military Education and Training program authorized under chapter 5 of part II of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2347 et seq). 1 1 So in original. Probably should be “seq.).”
+
+## Source Credit
+
+*([Pub. L. 117–263, div. E, title LV, § 5504](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3298](https://www.govinfo.gov/link/statute/136/3298).)*

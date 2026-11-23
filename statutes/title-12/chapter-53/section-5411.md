@@ -3,9 +3,10 @@ title: "Section 5411 - Transfer date"
 usc_title: 12
 usc_section: "5411"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5411"
-generated_at: "2026-03-30T02:53:53.537Z"
+generated_at: "2026-11-23T20:25:59.497Z"
+status: "active"
 ---
 
 # § 5411. Transfer date
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:53.537Z"
     - **(C)** the transfer date designated under this subsection; and
     - **(D)** a description of the steps that will be taken to initiate the process of an orderly and timely implementation of this title 1 within the extended time period.
   - **(2)** Not later than 270 days after July 21, 2010 , the Secretary shall publish in the Federal Register notice of any transfer date designated under paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 111–203, title III, § 311](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1520](https://www.govinfo.gov/link/statute/124/1520).)*

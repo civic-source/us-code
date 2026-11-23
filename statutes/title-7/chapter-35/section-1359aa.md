@@ -3,9 +3,10 @@ title: "Section 1359aa - Definitions"
 usc_title: 7
 usc_section: "1359aa"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1359aa"
-generated_at: "2026-03-30T02:53:42.307Z"
+generated_at: "2026-11-23T20:25:41.134Z"
+status: "active"
 ---
 
 # § 1359aa. Definitions
@@ -27,3 +28,7 @@ In this subpart:
     - **(B)** the District of Columbia; and
     - **(C)** the Commonwealth of Puerto Rico.
   - **(6)** The term “United States”, when used in a geographical sense, means all of the States.
+
+## Source Credit
+
+*(Feb. 16, 1938, ch. 30, title III, § 359a, as added [Pub. L. 107–171, title I, § 1403](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 187](https://www.govinfo.gov/link/statute/116/187); amended [Pub. L. 110–234, title I, § 1403(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 981](https://www.govinfo.gov/link/statute/122/981); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1403(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1709.)*

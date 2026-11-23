@@ -3,9 +3,10 @@ title: "Section 1456 - Coordination and cooperation"
 usc_title: 16
 usc_section: "1456"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1456"
-generated_at: "2026-03-30T02:54:22.971Z"
+generated_at: "2026-11-23T20:26:20.497Z"
+status: "active"
 ---
 
 # § 1456. Coordination and cooperation
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:54:22.971Z"
     - **(A)** The Secretary shall collect such other fees as are necessary to recover the full costs of administering and processing such appeals under subsection (c).
     - **(B)** If the Secretary waives the application fee under paragraph (1) for an applicant, the Secretary shall waive all other fees under this subsection for the applicant.
   - **(3)** Fees collected under this subsection shall be deposited into the Coastal Zone Management Fund established under section 1456a of this title .
+
+## Source Credit
+
+*([Pub. L. 89–454, title III, § 307](https://www.govinfo.gov/link/plaw/89/public/454), as added [Pub. L. 92–583](https://www.govinfo.gov/link/plaw/92/public/583), Oct. 27, 1972, [86 Stat. 1285](https://www.govinfo.gov/link/statute/86/1285); amended [Pub. L. 94–370, § 6](https://www.govinfo.gov/link/plaw/94/public/370), July 26, 1976, [90 Stat. 1018](https://www.govinfo.gov/link/statute/90/1018); [Pub. L. 95–372, title V, § 504](https://www.govinfo.gov/link/plaw/95/public/372), Sept. 18, 1978, [92 Stat. 693](https://www.govinfo.gov/link/statute/92/693); [Pub. L. 101–508, title VI, § 6208](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–307](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 102–587, title II, § 2205(b)(13)](https://www.govinfo.gov/link/plaw/102/public/587), (14), Nov. 4, 1992, [106 Stat. 5051](https://www.govinfo.gov/link/statute/106/5051).)*

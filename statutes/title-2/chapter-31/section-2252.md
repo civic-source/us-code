@@ -3,9 +3,10 @@ title: "Section 2252 - Transfer from Capitol Guide Service"
 usc_title: 2
 usc_section: "2252"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 2252"
-generated_at: "2026-03-30T02:53:04.827Z"
+generated_at: "2026-11-23T20:25:29.023Z"
+status: "active"
 ---
 
 # § 2252. Transfer from Capitol Guide Service
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:04.827Z"
     - **(A)** the individual has completed 25 years of service under such title; or
     - **(B)** the individual has completed 20 years of service under such title and is 50 years of age or older.
   - **(3)** The Director of Accessibility Services may not impose a period of probation with respect to the transfer of any individual who is transferred to the Office of Congressional Accessibility Services under subsection (a).
+
+## Source Credit
+
+*([Pub. L. 110–437, title IV, § 412](https://www.govinfo.gov/link/plaw/110/public/437), Oct. 20, 2008, [122 Stat. 4995](https://www.govinfo.gov/link/statute/122/4995).)*

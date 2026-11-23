@@ -3,9 +3,10 @@ title: "Section 574a - Training funds"
 usc_title: 33
 usc_section: "574a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 574a"
-generated_at: "2026-03-30T02:55:41.062Z"
+generated_at: "2026-11-23T20:26:53.860Z"
+status: "active"
 ---
 
 # § 574a. Training funds
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:41.062Z"
     - **(B)** shall be credited to an appropriations account used for paying training costs; and
     - **(C)** shall be available for use by the Secretary, without further appropriation, for training purposes.
   - **(3)** Any payments received under paragraph (2) that are in excess of the actual cost of training provided shall be credited as miscellaneous receipts to the Treasury of the United States.
+
+## Source Credit
+
+*([Pub. L. 110–114, title II, § 2016](https://www.govinfo.gov/link/plaw/110/public/114), Nov. 8, 2007, [121 Stat. 1076](https://www.govinfo.gov/link/statute/121/1076).)*

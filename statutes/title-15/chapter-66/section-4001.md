@@ -3,9 +3,10 @@ title: "Section 4001 - Congressional findings and declaration of purpose"
 usc_title: 15
 usc_section: "4001"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 4001"
-generated_at: "2026-03-30T02:54:08.196Z"
+generated_at: "2026-11-23T20:26:04.321Z"
+status: "active"
 ---
 
 # § 4001. Congressional findings and declaration of purpose
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:08.196Z"
   - **(10)** if United States trading companies are to be successful in promoting United States exports and in competing with foreign trading companies, they should be able to draw on the resources, expertise, and knowledge of the United States banking system, both in the United States and abroad; and
   - **(11)** the Department of Commerce is responsible for the development and promotion of United States exports, and especially for facilitating the export of finished products by United States manufacturers.
 - **(b)** It is the purpose of this chapter to increase United States exports of products and services by encouraging more efficient provision of export trade services to United States producers and suppliers, in particular by establishing an office within the Department of Commerce to promote the formation of export trade associations and export trading companies, by permitting bank holding companies, bankers’ banks, and Edge Act corporations and agreement corporations that are subsidiaries of bank holding companies to invest in export trading companies, by reducing restrictions on trade financing provided by financial institutions, and by modifying the application of the antitrust laws to certain export trade.
+
+## Source Credit
+
+*([Pub. L. 97–290, title I, § 102](https://www.govinfo.gov/link/plaw/97/public/290), Oct. 8, 1982, [96 Stat. 1233](https://www.govinfo.gov/link/statute/96/1233).)*

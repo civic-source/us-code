@@ -3,9 +3,10 @@ title: "Section 470aa - Congressional findings and declaration of purpose"
 usc_title: 16
 usc_section: "470aa"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 470aa"
-generated_at: "2026-03-30T02:54:22.854Z"
+generated_at: "2026-11-23T20:26:20.063Z"
+status: "active"
 ---
 
 # § 470aa. Congressional findings and declaration of purpose
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:22.854Z"
   - **(3)** existing Federal laws do not provide adequate protection to prevent the loss and destruction of these archaeological resources and sites resulting from uncontrolled excavations and pillage; and
   - **(4)** there is a wealth of archaeological information which has been legally obtained by private individuals for noncommercial purposes and which could voluntarily be made available to professional archaeologists and institutions.
 - **(b)** The purpose of this chapter is to secure, for the present and future benefit of the American people, the protection of archaeological resources and sites which are on public lands and Indian lands, and to foster increased cooperation and exchange of information between governmental authorities, the professional archaeological community, and private individuals having collections of archaeological resources and data which were obtained before October 31, 1979 .
+
+## Source Credit
+
+*([Pub. L. 96–95, § 2](https://www.govinfo.gov/link/plaw/96/public/95), Oct. 31, 1979, [93 Stat. 721](https://www.govinfo.gov/link/statute/93/721).)*

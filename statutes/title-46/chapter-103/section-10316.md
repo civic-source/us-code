@@ -3,9 +3,10 @@ title: "Section 10316 - Trusts"
 usc_title: 46
 usc_section: "10316"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 10316"
-generated_at: "2026-03-30T02:56:15.553Z"
+generated_at: "2026-11-23T20:27:27.152Z"
+status: "active"
 ---
 
 # § 10316. Trusts
@@ -21,3 +22,16 @@ Sections 10314 and 10315 of this title do not prevent an employer from making de
     - **(E)** compensation for illness or injuries resulting from occupational activity.
     - **(F)** sickness, accident, and disability compensation.
     - **(G)** purchasing insurance to provide any of the benefits specified in this section.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 10316 | 46:599(g) |
+
+
+Historical and Revision Notes
+
+10316
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 568](https://www.govinfo.gov/link/statute/97/568).)*

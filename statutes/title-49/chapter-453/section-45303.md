@@ -3,9 +3,10 @@ title: "Section 45303 - Administrative provisions"
 usc_title: 49
 usc_section: "45303"
 chapter: 453
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 45303"
-generated_at: "2026-03-30T02:56:19.396Z"
+generated_at: "2026-11-23T20:27:35.235Z"
+status: "active"
 ---
 
 # § 45303. Administrative provisions
@@ -67,3 +68,57 @@ generated_at: "2026-03-30T02:56:19.396Z"
       - **(i)** used for the monitoring, directing, control, and guidance of aircraft or flows of aircraft and for the safe conduct of flight, including communications, navigation, and surveillance services and provision of aeronautical information; and
       - **(ii)** provided directly, or contracted for, by the Federal Aviation Administration.
     - **(B)** The term “air traffic services user” means any individual or entity using air traffic services provided directly, or contracted for, by the Federal Aviation Administration within United States airspace or international airspace delegated to the United States.
+
+Fees Payable to Administrator
+
+Refunds
+
+Receipts Credited to Account
+
+Annual Budget Report by Administrator
+
+Development of Cost Accounting System
+
+Compensation to Carriers for Acting as Collection Agents
+
+Data Transparency.—
+
+Air traffic services initial data report.—
+
+Initial report
+
+Validation of model.—
+
+Review and determination
+
+Validation process
+
+Access to data
+
+Report to congress
+
+Publication
+
+Air traffic services biennial data reporting.—
+
+Biennial data reporting
+
+Report to congress
+
+Publication
+
+Segments of air traffic services users.—
+
+In general
+
+Additional segments
+
+Definitions
+
+Air traffic services
+
+Air traffic services user
+
+## Source Credit
+
+*(Added [Pub. L. 104–264, title II, § 276(a)(2)](https://www.govinfo.gov/link/plaw/104/public/264), Oct. 9, 1996, [110 Stat. 3247](https://www.govinfo.gov/link/statute/110/3247); amended [Pub. L. 115–254, div. B, title V, § 519](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3359](https://www.govinfo.gov/link/statute/132/3359); [Pub. L. 118–63, title VI, § 607](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1225](https://www.govinfo.gov/link/statute/138/1225).)*

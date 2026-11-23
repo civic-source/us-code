@@ -3,9 +3,10 @@ title: "Section 416 - Authority to issue semipostals"
 usc_title: 39
 usc_section: "416"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "39 U.S.C. § 416"
-generated_at: "2026-03-30T02:55:43.689Z"
+generated_at: "2026-11-23T20:26:57.720Z"
+status: "active"
 ---
 
 # § 416. Authority to issue semipostals
@@ -38,3 +39,109 @@ generated_at: "2026-03-30T02:55:43.689Z"
     - **(B)** the total amount that became available from the sale of such semipostal; and
     - **(C)** of that total amount, how much was applied toward administrative costs.
 - **(g)** This section shall cease to be effective at the end of the 10-year period beginning on the date on which semipostals are first made available to the public under this section.
+
+Definitions
+
+Discretionary Authority
+
+Rate of Postage
+
+Amounts Becoming Available.—
+
+In general
+
+Identification of appropriate causes and agencies
+
+Determination of amounts.—
+
+In general
+
+Administrative costs
+
+Other funding not to be affected
+
+Recovery of costs
+
+Regulations.—
+
+In general
+
+Notice and comment
+
+Annual Reports.—
+
+In general
+
+Specific requirement
+
+Termination
+
+In General
+
+Cost and Use.—
+
+In general
+
+Voluntary use
+
+Special rate
+
+Other Terms and Conditions
+
+Disposition of proceeds.—
+
+In general
+
+Proceeds not to be offset
+
+Duration
+
+Limitation
+
+Restriction on use of funds
+
+Requirement to sell all stamps printed.—
+
+In general
+
+Notification of congress
+
+Definition
+
+Short Title
+
+In General
+
+Requirements
+
+Rate of postage
+
+Disposition of amounts becoming available
+
+Commencement and termination dates
+
+Limitation
+
+Design
+
+Definitions
+
+Short Title
+
+In General
+
+Requirements
+
+Disposition of amounts becoming available
+
+Commencement and termination dates
+
+Limitation
+
+Definition
+
+“Each agency that receives any funding in a year under section 416 of title 39 , United States Code (as amended by this section) shall submit a written report under this subsection, with respect to such year, to the congressional committees with jurisdiction over the United States Postal Service. Each such report shall include—
+
+## Source Credit
+
+*(Added [Pub. L. 106–253, § 2(a)](https://www.govinfo.gov/link/plaw/106/public/253), July 28, 2000, [114 Stat. 634](https://www.govinfo.gov/link/statute/114/634); amended [Pub. L. 107–67, title VI, § 652(c)(1)](https://www.govinfo.gov/link/plaw/107/public/67), Nov. 12, 2001, [115 Stat. 557](https://www.govinfo.gov/link/statute/115/557); [Pub. L. 107–117, div. B, § 1201](https://www.govinfo.gov/link/plaw/107/public/117), Jan. 10, 2002, [115 Stat. 2335](https://www.govinfo.gov/link/statute/115/2335).)*

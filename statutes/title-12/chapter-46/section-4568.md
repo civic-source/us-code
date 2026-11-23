@@ -3,9 +3,10 @@ title: "Section 4568 - Housing Trust Fund"
 usc_title: 12
 usc_section: "4568"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4568"
-generated_at: "2026-03-30T02:53:53.509Z"
+generated_at: "2026-11-23T20:25:59.398Z"
+status: "active"
 ---
 
 # § 4568. Housing Trust Fund
@@ -156,3 +157,7 @@ generated_at: "2026-03-30T02:53:53.509Z"
     - **(F)** requirements and standards for establishment, by a State or State designated entity, for use of grant amounts in 2009 and subsequent years of performance goals, benchmarks, and timetables for the production, preservation, and rehabilitation of affordable rental and homeownership housing with such grant amounts.
 - **(h)** If, after July 30, 2008 , in any year, there is enacted any provision of Federal law establishing an affordable housing trust fund other than under this chapter for use only for grants to provide affordable rental housing and affordable homeownership opportunities, and the subsequent year is a year referred to in subsection (c), the Secretary shall in such subsequent year and any remaining years referred to in subsection (c) transfer to such affordable housing trust fund the aggregate amount allocated pursuant to subsection (c) in such year. Notwithstanding any other provision of law, assistance provided using amounts transferred to such affordable housing trust fund pursuant to this subsection may not be used for any of the activities specified in clauses (i) through (vi) of subsection (c)(9)(D).
 - **(i)** Any grant under this section to a grantee by a State or State designated entity, any assistance provided to a recipient by a State or State designated entity, and any grant, award, or other assistance from an affordable housing trust fund referred to in subsection (h) shall be considered a Federal award for purposes of the Federal Funding Accountability and Transparency Act of 2006 ( 31 U.S.C. 6101 note). Upon the request of the Director of the Office of Management and Budget, the Secretary shall obtain and provide such information regarding any such grants, assistance, and awards as the Director of the Office of Management and Budget considers necessary to comply with the requirements of such Act, as applicable, pursuant to the preceding sentence.
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1338](https://www.govinfo.gov/link/plaw/102/public/550), as added [Pub. L. 110–289, div. A, title I, § 1131(b)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2712](https://www.govinfo.gov/link/statute/122/2712).)*

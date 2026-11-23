@@ -3,9 +3,10 @@ title: "Section 224 - Pole attachments"
 usc_title: 47
 usc_section: "224"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 224"
-generated_at: "2026-03-30T02:56:24.498Z"
+generated_at: "2026-11-23T20:27:28.834Z"
+status: "active"
 ---
 
 # § 224. Pole attachments
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:56:24.498Z"
 - **(g)** A utility that engages in the provision of telecommunications services or cable services shall impute to its costs of providing such services (and charge any affiliate, subsidiary, or associate company engaged in the provision of such services) an equal amount to the pole attachment rate for which such company would be liable under this section.
 - **(h)** Whenever the owner of a pole, duct, conduit, or right-of-way intends to modify or alter such pole, duct, conduit, or right-of-way, the owner shall provide written notification of such action to any entity that has obtained an attachment to such conduit or right-of-way so that such entity may have a reasonable opportunity to add to or modify its existing attachment. Any entity that adds to or modifies its existing attachment after receiving such notification shall bear a proportionate share of the costs incurred by the owner in making such pole, duct, conduit, or right-of-way accessible.
 - **(i)** An entity that obtains an attachment to a pole, conduit, or right-of-way shall not be required to bear any of the costs of rearranging or replacing its attachment, if such rearrangement or replacement is required as a result of an additional attachment or the modification of an existing attachment sought by any other entity (including the owner of such pole, duct, conduit, or right-of-way).
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title II, § 224, as added [Pub. L. 95–234, § 6](https://www.govinfo.gov/link/plaw/95/public/234), Feb. 21, 1978, [92 Stat. 35](https://www.govinfo.gov/link/statute/92/35); amended [Pub. L. 97–259, title I, § 106](https://www.govinfo.gov/link/plaw/97/public/259), Sept. 13, 1982, [96 Stat. 1091](https://www.govinfo.gov/link/statute/96/1091); [Pub. L. 98–549, § 4](https://www.govinfo.gov/link/plaw/98/public/549), Oct. 30, 1984, [98 Stat. 2801](https://www.govinfo.gov/link/statute/98/2801); [Pub. L. 103–414, title III, § 304(a)(7)](https://www.govinfo.gov/link/plaw/103/public/414), Oct. 25, 1994, [108 Stat. 4297](https://www.govinfo.gov/link/statute/108/4297); [Pub. L. 104–104, title VII, § 703](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 149](https://www.govinfo.gov/link/statute/110/149).)*

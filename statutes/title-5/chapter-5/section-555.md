@@ -3,9 +3,10 @@ title: "Section 555 - Ancillary matters"
 usc_title: 5
 usc_section: "555"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 555"
-generated_at: "2026-03-30T02:52:55.988Z"
+generated_at: "2026-11-23T20:25:31.720Z"
+status: "active"
 ---
 
 # § 555. Ancillary matters
@@ -15,3 +16,20 @@ generated_at: "2026-03-30T02:52:55.988Z"
 - **(c)** Process, requirement of a report, inspection, or other investigative act or demand may not be issued, made, or enforced except as authorized by law. A person compelled to submit data or evidence is entitled to retain or, on payment of lawfully prescribed costs, procure a copy or transcript thereof, except that in a nonpublic investigatory proceeding the witness may for good cause be limited to inspection of the official transcript of his testimony.
 - **(d)** Agency subpenas authorized by law shall be issued to a party on request and, when required by rules of procedure, on a statement or showing of general relevance and reasonable scope of the evidence sought. On contest, the court shall sustain the subpena or similar process or demand to the extent that it is found to be in accordance with law. In a proceeding for enforcement, the court shall issue an order requiring the appearance of the witness or the production of the evidence or data within a reasonable time under penalty of punishment for contempt in case of contumacious failure to comply.
 - **(e)** Prompt notice shall be given of the denial in whole or in part of a written application, petition, or other request of an interested person made in connection with any agency proceeding. Except in affirming a prior denial or when the denial is self-explanatory, the notice shall be accompanied by a brief statement of the grounds for denial.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 1005 . | June 11, 1946, ch. 324, § 6 , 60 Stat. 240 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 1005
+
+June 11, 1946, ch. 324, § 6
+
+60 Stat. 240
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 385](https://www.govinfo.gov/link/statute/80/385).)*

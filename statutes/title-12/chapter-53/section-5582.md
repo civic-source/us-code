@@ -3,9 +3,10 @@ title: "Section 5582 - Designated transfer date"
 usc_title: 12
 usc_section: "5582"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5582"
-generated_at: "2026-03-30T02:53:53.547Z"
+generated_at: "2026-11-23T20:25:59.529Z"
+status: "active"
 ---
 
 # § 5582. Designated transfer date
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:53.547Z"
     - **(B)** an explanation of why an extension is necessary for the orderly implementation of this title; 2 and
     - **(C)** a description of the steps that will be taken to effect an orderly and timely implementation of this title 2 within the extended time period.
   - **(3)** In no case may any date designated under this section be later than 18 months after July 21, 2010 .
+
+## Source Credit
+
+*([Pub. L. 111–203, title X, § 1062](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2039](https://www.govinfo.gov/link/statute/124/2039).)*

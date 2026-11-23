@@ -3,9 +3,10 @@ title: "Section 5623 - Agricultural trade promotion and facilitation"
 usc_title: 7
 usc_section: "5623"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 5623"
-generated_at: "2026-03-30T02:53:42.415Z"
+generated_at: "2026-11-23T20:25:41.650Z"
+status: "active"
 ---
 
 # § 5623. Agricultural trade promotion and facilitation
@@ -130,3 +131,7 @@ generated_at: "2026-03-30T02:53:42.415Z"
     - **(B)** Any funds allocated under clauses (i) through (iv) of subparagraph (A) that remain unobligated one year after the end of the fiscal year in which they are first made available shall be reallocated to the priority trade fund under subparagraph (A)(v). To the maximum extent practicable, the Secretary shall allocate such reallocated funds to support exports of those types of United States agricultural commodities eligible for assistance under the program for which the funds were originally allocated under subparagraph (A).
   - **(4)** Notwithstanding section 7207 of title 22 or any other provision of law, funds made available under this section may be used to carry out the programs authorized under subsections (b) and (c) in Cuba. Funds may not be used as described in the previous sentence in contravention with directives set forth under the National Security Presidential Memorandum entitled “Strengthening the Policy of the United States Toward Cuba” issued by the President on June 16, 2017 , during the period in which that memorandum is in effect.
   - **(5)** In addition to any other amounts provided under this subsection, there are authorized to be appropriated such sums as are necessary to carry out the programs and authorities under paragraph (3)(A)(v) and subsections (b) through (e).
+
+## Source Credit
+
+*([Pub. L. 95–501, title II, § 203](https://www.govinfo.gov/link/plaw/95/public/501), as added [Pub. L. 101–624, title XV, § 1531](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3674](https://www.govinfo.gov/link/statute/104/3674); amended [Pub. L. 102–237, title III, § 309](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1856](https://www.govinfo.gov/link/statute/105/1856); [Pub. L. 103–66, title I, § 1302(b)(1)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 330](https://www.govinfo.gov/link/statute/107/330); [Pub. L. 103–465, title IV, § 411(d)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4963](https://www.govinfo.gov/link/statute/108/4963); [Pub. L. 104–127, title II, § 244(a)(1)](https://www.govinfo.gov/link/plaw/104/public/127), (b), Apr. 4, 1996, [110 Stat. 967](https://www.govinfo.gov/link/statute/110/967), 968; [Pub. L. 110–246, title III, § 3102(a)](https://www.govinfo.gov/link/plaw/110/public/246), June 18, 2008, [122 Stat. 1832](https://www.govinfo.gov/link/statute/122/1832); [Pub. L. 115–334, title III, § 3201(a)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4608](https://www.govinfo.gov/link/statute/132/4608).)*

@@ -3,9 +3,10 @@ title: "Section 6133 - Plan for domestic enrichment capability to satisfy Depart
 usc_title: 10
 usc_section: "6133"
 chapter: 602
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6133"
-generated_at: "2026-03-30T02:53:38.220Z"
+generated_at: "2026-11-23T20:25:52.014Z"
+status: "active"
 ---
 
 # § 6133. Plan for domestic enrichment capability to satisfy Department of Defense uranium requirements
@@ -26,3 +27,17 @@ generated_at: "2026-03-30T02:53:38.220Z"
       - **(iii)** a plan to achieve compliance.
   - **(2)** No report shall be required under paragraph (1) after the date on which the Administrator certifies to the congressional defense committees that the final key milestone under the plan has been met.
 - **(c)** The report under subsection (a) and each annual certification under subsection (b) shall be submitted in unclassified form, but may include a classified annex.
+
+Report
+
+Annual Certification Requirement
+
+Form of Reports
+
+In general
+
+Termination date
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2), Dec. 18, 2025, [139 Stat. 1368](https://www.govinfo.gov/link/statute/139/1368), 1462.)*

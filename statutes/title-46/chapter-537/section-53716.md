@@ -3,9 +3,10 @@ title: "Section 53716 - Deposit fund"
 usc_title: 46
 usc_section: "53716"
 chapter: 537
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 53716"
-generated_at: "2026-03-30T02:56:15.577Z"
+generated_at: "2026-11-23T20:27:27.360Z"
+status: "active"
 ---
 
 # § 53716. Deposit fund
@@ -20,3 +21,38 @@ generated_at: "2026-03-30T02:56:15.577Z"
   - **(1)** Cash deposited into the fund may not be withdrawn without the consent of the Secretary or Administrator.
   - **(2)** Subject to paragraph (3), the Secretary or Administrator may pay any income earned on cash of an obligor deposited into the fund in accordance with the agreement with the obligor under subsection (b).
   - **(3)** The Secretary or Administrator may retain and offset any or all of the cash of an obligor in the fund, and any income realized thereon, as part of the Secretary’s or Administrator’s recovery against the obligor in case of a default by the obligor on an obligation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 53716 | 46 App.:1279b. | June 29, 1936, ch. 858 , title XI, § 1109, as added Pub. L. 107–107, title XXXV, § 3503 , Dec. 28, 2001 , 115 Stat. 1392 . |
+
+
+In General
+
+Agreement
+
+Investment
+
+Withdrawals
+
+In general
+
+Use of income
+
+Retention against default
+
+Historical and Revision Notes
+
+53716
+
+June 29, 1936, ch. 858
+
+Pub. L. 107–107, title XXXV, § 3503
+
+Dec. 28, 2001
+
+115 Stat. 1392
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(c)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1616](https://www.govinfo.gov/link/statute/120/1616); [Pub. L. 109–163, div. C, title XXXV, § 3507(a)(1)(H)](https://www.govinfo.gov/link/plaw/109/public/163), (3), Jan. 6, 2006, [119 Stat. 3555](https://www.govinfo.gov/link/statute/119/3555); [Pub. L. 110–181, div. C, title XXXV, § 3522(a)(10)(B)](https://www.govinfo.gov/link/plaw/110/public/181), (11), (b), Jan. 28, 2008, [122 Stat. 598](https://www.govinfo.gov/link/statute/122/598).)*

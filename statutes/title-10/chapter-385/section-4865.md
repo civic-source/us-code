@@ -3,9 +3,10 @@ title: "Section 4865 - Prohibition on acquisition of advanced batteries composed
 usc_title: 10
 usc_section: "4865"
 chapter: 385
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 4865"
-generated_at: "2026-03-30T02:53:38.214Z"
+generated_at: "2026-11-23T20:25:51.984Z"
+status: "active"
 ---
 
 # § 4865. Prohibition on acquisition of advanced batteries composed of materials from certain foreign sources
@@ -35,3 +36,31 @@ generated_at: "2026-03-30T02:53:38.214Z"
   - **(3)** The term “functional cell component” means the cathode materials, anode materials, separators, anode foils, and other functional materials of an advanced battery that contribute to the chemical processes necessary for energy storage, including solvents, additives, electrolyte salts, and internal safety devices.
   - **(4)** The “foreign entity of concern” has the meaning given such term under section 40207(a) of the Infrastructure Investment and Jobs Act ( 42 U.S.C. 18741(a) ), and includes entities specified in section 154 of the National Defense Authorization Act for Fiscal Year 2024 ( Public Law 118–31 ; 10 U.S.C. 4651 note prec.).
   - **(5)** The term “standard battery” means a battery that used in more than one weapons system and are not managed by one portfolio acquisition executive.
+
+In General
+
+Applicability
+
+Exceptions.—
+
+Sourcing and production compliance.—
+
+In general
+
+Recycled source determination
+
+Excluded batteries
+
+Waiver.—
+
+In general
+
+Delegation
+
+Report
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. A, title VIII, § 842(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 973](https://www.govinfo.gov/link/statute/139/973).)*

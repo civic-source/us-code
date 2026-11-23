@@ -3,9 +3,10 @@ title: "Section 2511 - Peace Corps National Advisory Council"
 usc_title: 22
 usc_section: "2511"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2511"
-generated_at: "2026-03-30T02:55:05.371Z"
+generated_at: "2026-11-23T20:26:32.320Z"
+status: "active"
 ---
 
 # § 2511. Peace Corps National Advisory Council
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:55:05.371Z"
   - **(2)** The Council shall prescribe such bylaws and regulations as it considers necessary to carry out its functions. Such bylaws and regulations shall include procedures for fixing the time and place of meetings, giving or waiving of notice of meetings, and keeping of minutes of meetings.
 - **(i)** Not later than January 1, 1988 , and not later than January 1 of each second year thereafter, the Council shall submit to the President and the Director of the Peace Corps a report on its views on the programs and activities of the Peace Corps. Each report shall contain a summary of the advice and recommendations provided by the Council to the President and the Director during the period covered by the report and such recommendations (including recommendations for administrative or legislative action) as the Council considers appropriate to make to the Congress. Within ninety days after receiving each such report, the President shall submit to the Congress a copy of the report, together with any comments concerning the report that the President or the Director considers appropriate.
 - **(j)** The Director of the Peace Corps shall make available to the Council such personnel, administrative support services, and technical assistance as are necessary to carry out its functions effectively.
+
+## Source Credit
+
+*([Pub. L. 87–293, title I, § 12](https://www.govinfo.gov/link/plaw/87/public/293), as added [Pub. L. 99–83, title XI, § 1104(a)](https://www.govinfo.gov/link/plaw/99/public/83), Aug. 8, 1985, [99 Stat. 273](https://www.govinfo.gov/link/statute/99/273).)*

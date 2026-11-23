@@ -3,9 +3,10 @@ title: "Section 2661 - Statement of purposes and goals"
 usc_title: 7
 usc_section: "2661"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2661"
-generated_at: "2026-03-30T02:53:42.390Z"
+generated_at: "2026-11-23T20:25:41.541Z"
+status: "active"
 ---
 
 # § 2661. Statement of purposes and goals
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:42.390Z"
     - **(B)** improving targeting and delivery of technical assistance;
     - **(C)** improving coordination among Federal agencies, other levels of government, and institutions and private organizations in rural areas; and
     - **(D)** developing and disseminating better information about rural conditions.
+
+## Source Credit
+
+*([Pub. L. 92–419, title V, § 501](https://www.govinfo.gov/link/plaw/92/public/419), as added [Pub. L. 97–98, title XIV, § 1444(a)](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1322](https://www.govinfo.gov/link/statute/95/1322).)*

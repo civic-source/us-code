@@ -3,9 +3,10 @@ title: "Section 7475 - Preconstruction requirements"
 usc_title: 42
 usc_section: "7475"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7475"
-generated_at: "2026-03-30T02:56:11.304Z"
+generated_at: "2026-11-23T20:27:22.871Z"
+status: "active"
 ---
 
 # § 7475. Preconstruction requirements
@@ -30,11 +31,28 @@ generated_at: "2026-03-30T02:56:11.304Z"
       - **(i)** In any case where the Federal official charged with direct responsibility for management of any lands within a class I area or the Federal Land Manager of such lands, or the Administrator, or the Governor of an adjacent State containing such a class I area files a notice alleging that emissions from a proposed major emitting facility may cause or contribute to a change in the air quality in such area and identifying the potential adverse impact of such change, a permit shall not be issued unless the owner or operator of such facility demonstrates that emissions of particulate matter and sulfur dioxide will not cause or contribute to concentrations which exceed the maximum allowable increases for a class I area.
       - **(ii)** In any case where the Federal Land Manager demonstrates to the satisfaction of the State that the emissions from such facility will have an adverse impact on the air quality-related values (including visibility) of such lands, notwithstanding the fact that the change in air quality resulting from emissions from such facility will not cause or contribute to concentrations which exceed the maximum allowable increases for a class I area, a permit shall not be issued.
       - **(iii)** In any case where the owner or operator of such facility demonstrates to the satisfaction of the Federal Land Manager, and the Federal Land Manager so certifies, that the emissions from such facility will have no adverse impact on the air quality-related values of such lands (including visibility), notwithstanding the fact that the change in air quality resulting from emissions from such facility will cause or contribute to concentrations which exceed the maximum allowable increases for class I areas, the State may issue a permit.
-      - **(iv)** In the case of a permit issued pursuant to clause (iii), such facility shall comply with such emission limitations under such permit as may be necessary to assure that emissions of sulfur oxides and particulates from such facility will not cause or contribute to concentrations of such pollutant which exceed the following maximum allowable increases over the baseline concentration for such pollutants: Maximum allowable increase (in micrograms per cubic meter) Particulate matter: Annual geometric mean 19 Twenty-four-hour maximum 37 Sulfur dioxide: Annual arithmetic mean 20 Twenty-four-hour maximum 91 Three-hour maximum 325
+      - **(iv)** In the case of a permit issued pursuant to clause (iii), such facility shall comply with such emission limitations under such permit as may be necessary to assure that emissions of sulfur oxides and particulates from such facility will not cause or contribute to concentrations of such pollutant which exceed the following maximum allowable increases over the baseline concentration for such pollutants:
+
+|  | Maximum allowable increase (in micrograms per cubic meter) |
+| --- | --- |
+| Particulate matter: |  |
+| Annual geometric mean | 19 |
+| Twenty-four-hour maximum | 37 |
+| Sulfur dioxide: |  |
+| Annual arithmetic mean | 20 |
+| Twenty-four-hour maximum | 91 |
+| Three-hour maximum | 325 |
+
     - **(D)**
       - **(i)** In any case where the owner or operator of a proposed major emitting facility who has been denied a certification under subparagraph (C)(iii) demonstrates to the satisfaction of the Governor, after notice and public hearing, and the Governor finds, that the facility cannot be constructed by reason of any maximum allowable increase for sulfur dioxide for periods of twenty-four hours or less applicable to any class I area and, in the case of Federal mandatory class I areas, that a variance under this clause will not adversely affect the air quality related values of the area (including visibility), the Governor, after consideration of the Federal Land Manager’s recommendation (if any) and subject to his concurrence, may grant a variance from such maximum allowable increase. If such variance is granted, a permit may be issued to such source pursuant to the requirements of this subparagraph.
       - **(ii)** In any case in which the Governor recommends a variance under this subparagraph in which the Federal Land Manager does not concur, the recommendations of the Governor and the Federal Land Manager shall be transmitted to the President. The President may approve the Governor’s recommendation if he finds that such variance is in the national interest. No Presidential finding shall be reviewable in any court. The variance shall take effect if the President approves the Governor’s recommendations. The President shall approve or disapprove such recommendation within ninety days after his receipt of the recommendations of the Governor and the Federal Land Manager.
-      - **(iii)** In the case of a permit issued pursuant to this subparagraph, such facility shall comply with such emission limitations under such permit as may be necessary to assure that emissions of sulfur oxides from such facility will not (during any day on which the otherwise applicable maximum allowable increases are exceeded) cause or contribute to concentrations which exceed the following maximum allowable increases for such areas over the baseline concentration for such pollutant and to assure that such emissions will not cause or contribute to concentrations which exceed the otherwise applicable maximum allowable increases for periods of exposure of 24 hours or less on more than 18 days during any annual period: MAXIMUM ALLOWABLE INCREASE (In micrograms per cubic meter) Period of exposure Low terrain areas High terrain areas 24-hr maximum 36 62 3-hr maximum 130 221
+      - **(iii)** In the case of a permit issued pursuant to this subparagraph, such facility shall comply with such emission limitations under such permit as may be necessary to assure that emissions of sulfur oxides from such facility will not (during any day on which the otherwise applicable maximum allowable increases are exceeded) cause or contribute to concentrations which exceed the following maximum allowable increases for such areas over the baseline concentration for such pollutant and to assure that such emissions will not cause or contribute to concentrations which exceed the otherwise applicable maximum allowable increases for periods of exposure of 24 hours or less on more than 18 days during any annual period:
+
+| MAXIMUM ALLOWABLE INCREASE | Col 2 | Col 3 |
+| --- | --- | --- |
+| 24-hr maximum | 36 | 62 |
+| 3-hr maximum | 130 | 221 |
+
       - **(iv)** For purposes of clause (iii), the term “high terrain area” means with respect to any facility, any area having an elevation of 900 feet or more above the base of the stack of such facility, and the term “low terrain area” means any area other than a high terrain area.
 - **(e)**
   - **(1)** The review provided for in subsection (a) shall be preceded by an analysis in accordance with regulations of the Administrator, promulgated under this subsection, which may be conducted by the State (or any general purpose unit of local government) or by the major emitting facility applying for such permit, of the ambient air quality at the proposed site and in areas which may be affected by emissions from such facility for each pollutant subject to regulation under this chapter which will be emitted from such facility.
@@ -44,3 +62,21 @@ generated_at: "2026-03-30T02:56:11.304Z"
     - **(B)** shall require an analysis of the ambient air quality, climate and meteorology, terrain, soils and vegetation, and visibility at the site of the proposed major emitting facility and in the area potentially affected by the emissions from such facility for each pollutant regulated under this chapter which will be emitted from, or which results from the construction or operation of, such facility, the size and nature of the proposed facility, the degree of continuous emission reduction which could be achieved by such facility, and such other factors as may be relevant in determining the effect of emissions from a proposed facility on any air quality control region,
     - **(C)** shall require the results of such analysis shall be available at the time of the public hearing on the application for such permit, and
     - **(D)** shall specify with reasonable particularity each air quality model or models to be used under specified sets of conditions for purposes of this part.
+
+Annual geometric mean
+
+Twenty-four-hour maximum
+
+Annual arithmetic mean
+
+Twenty-four-hour maximum
+
+Three-hour maximum
+
+24-hr maximum
+
+3-hr maximum
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 165, as added [Pub. L. 95–95, title I, § 127(a)](https://www.govinfo.gov/link/plaw/95/public/95), Aug. 7, 1977, [91 Stat. 735](https://www.govinfo.gov/link/statute/91/735); amended [Pub. L. 95–190, § 14(a)(44)](https://www.govinfo.gov/link/plaw/95/public/190) –(51), Nov. 16, 1977, [91 Stat. 1402](https://www.govinfo.gov/link/statute/91/1402).)*

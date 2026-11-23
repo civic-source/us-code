@@ -3,9 +3,10 @@ title: "Section 857 - Art. 57. Effective date of sentences"
 usc_title: 10
 usc_section: "857"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 857"
-generated_at: "2026-03-30T02:53:38.081Z"
+generated_at: "2026-11-23T20:25:51.081Z"
+status: "active"
 ---
 
 # § 857. Art. 57. Effective date of sentences
@@ -38,3 +39,57 @@ generated_at: "2026-03-30T02:53:38.081Z"
         - **(II)** such a petition is rejected by the Supreme Court; or
         - **(III)** review is otherwise completed in accordance with the judgment of the Supreme Court.
   - **(2)** The completion of appellate review shall constitute a final judgment as to the legality of the proceedings.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 857(a) 857(b) | 50:638(a). 50:638(b). | May 5, 1950, ch. 169, § 1 (Art. 57), 64 Stat. 126 . |
+| 857(c) | 50:638(c). |  |
+
+
+Execution of Sentences
+
+Forfeiture and reduction
+
+Confinement
+
+Approval of sentence of death
+
+Approval of dismissal
+
+Completion of appellate review
+
+Other sentences
+
+Deferral of Sentences.—
+
+In general
+
+Deferral of certain persons sentenced to confinement
+
+Covered persons
+
+State defined
+
+Deferral while review pending
+
+Appellate Review.—
+
+Completion of appellate review
+
+Completion as final judgment of legality of proceedings
+
+Historical and Revision Notes
+
+857(a)
+
+857(b)
+
+May 5, 1950, ch. 169, § 1
+
+64 Stat. 126
+
+857(c)
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 56; [Pub. L. 90–632, § 2(24)](https://www.govinfo.gov/link/plaw/90/public/632), Oct. 24, 1968, [82 Stat. 1341](https://www.govinfo.gov/link/statute/82/1341); [Pub. L. 98–209, § 5(f)](https://www.govinfo.gov/link/plaw/98/public/209), Dec. 6, 1983, [97 Stat. 1400](https://www.govinfo.gov/link/statute/97/1400); [Pub. L. 102–484, div. A, title X, § 1064](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2505](https://www.govinfo.gov/link/statute/106/2505); [Pub. L. 104–106, div. A, title XI](https://www.govinfo.gov/link/plaw/104/public/106), §§ 1121(a), 1123(a)(1), (2), Feb. 10, 1996, [110 Stat. 462–464](https://www.govinfo.gov/link/statute/110/462); [Pub. L. 114–328, div. E, title LVIII, § 5302(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2921](https://www.govinfo.gov/link/statute/130/2921).)*

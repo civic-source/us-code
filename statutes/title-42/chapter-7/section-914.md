@@ -3,9 +3,10 @@ title: "Section 914 - Office of Women’s Health"
 usc_title: 42
 usc_section: "914"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 914"
-generated_at: "2026-03-30T02:56:10.899Z"
+generated_at: "2026-11-23T20:27:20.955Z"
+status: "active"
 ---
 
 # § 914. Office of Women’s Health
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:10.899Z"
   - **(2)** The term “Administrator” means the Administrator of the Health Resources and Services Administration.
   - **(3)** The term “Office” means the Office of Women’s Health established under this section in the Administration.
 - **(e)** For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2010 through 2014.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title VII, § 713, as added [Pub. L. 111–148, title III, § 3509(f)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 535](https://www.govinfo.gov/link/statute/124/535).)*

@@ -3,12 +3,17 @@ title: "Section 6102 - Prohibition of discrimination"
 usc_title: 42
 usc_section: "6102"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6102"
-generated_at: "2026-03-30T02:56:11.241Z"
+generated_at: "2026-11-23T20:27:22.576Z"
+status: "active"
 ---
 
 # § 6102. Prohibition of discrimination
 
 Pursuant to regulations prescribed under section 6103 of this title , and except as provided by section 6103(b) and section 6103(c) of this title , no person in the United States shall, on the basis of age, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under, any program or activity receiving Federal financial assistance.
 
+
+## Source Credit
+
+*([Pub. L. 94–135, title III, § 303](https://www.govinfo.gov/link/plaw/94/public/135), Nov. 28, 1975, [89 Stat. 728](https://www.govinfo.gov/link/statute/89/728).)*

@@ -3,9 +3,10 @@ title: "Section 2290 - Jurisdiction and scope"
 usc_title: 18
 usc_section: "2290"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2290"
-generated_at: "2026-03-30T02:54:16.501Z"
+generated_at: "2026-11-23T20:26:08.589Z"
+status: "active"
 ---
 
 # § 2290. Jurisdiction and scope
@@ -17,3 +18,11 @@ generated_at: "2026-03-30T02:54:16.501Z"
     - **(B)** the activity involves a vessel in which a national of the United States was on board; or
     - **(C)** the activity involves a vessel of the United States (as that term is defined under section 2 2 2 See References in Text note below. of the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1903). 1
 - **(b)** Nothing in this chapter shall apply to otherwise lawful activities carried out by or at the direction of the United States Government.
+
+Jurisdiction
+
+Scope
+
+## Source Credit
+
+*(Added [Pub. L. 109–177, title III, § 306(a)](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 237](https://www.govinfo.gov/link/statute/120/237).)*

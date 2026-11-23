@@ -3,9 +3,10 @@ title: "Section 8532 - Commercial weather data"
 usc_title: 15
 usc_section: "8532"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 8532"
-generated_at: "2026-03-30T02:54:08.231Z"
+generated_at: "2026-11-23T20:26:04.493Z"
+status: "active"
 ---
 
 # § 8532. Commercial weather data
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:54:08.231Z"
   - **(3)** if a suitable, cost-effective, commercial capability is or will be available as described in paragraph (2), determine whether it is in the national interest to develop a governmental meteorological space system; and
   - **(4)** submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report detailing any determination made under paragraphs (2) and (3).
 - **(e)** The Under Secretary shall continue to meet the international meteorological agreements into which the Under Secretary has entered, including practices set forth through World Meteorological Organization Resolution 40.
+
+## Source Credit
+
+*([Pub. L. 115–25, title III, § 302](https://www.govinfo.gov/link/plaw/115/public/25), Apr. 18, 2017, [131 Stat. 103](https://www.govinfo.gov/link/statute/131/103); [Pub. L. 115–423, § 7(b)](https://www.govinfo.gov/link/plaw/115/public/423), Jan. 7, 2019, [132 Stat. 5461](https://www.govinfo.gov/link/statute/132/5461).)*

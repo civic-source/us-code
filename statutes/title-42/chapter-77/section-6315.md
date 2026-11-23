@@ -3,9 +3,10 @@ title: "Section 6315 - Labeling"
 usc_title: 42
 usc_section: "6315"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6315"
-generated_at: "2026-03-30T02:56:11.255Z"
+generated_at: "2026-11-23T20:27:22.651Z"
+status: "active"
 ---
 
 # § 6315. Labeling
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:56:11.255Z"
 - **(i)** When requested by the Secretary, any manufacturer of industrial equipment to which a rule under this section applies shall supply at the manufacturer’s expense a reasonable number of articles of such covered equipment to any laboratory or testing facility designated by the Secretary, or permit representatives of such laboratory or facility to test such equipment at the site where it is located, for purposes of ascertaining whether the information set out on the label, or otherwise required to be disclosed, as required under this section, is accurate. Any reasonable charge levied by the laboratory or facility for such testing shall be borne by the United States, if and to the extent provided in appropriations Acts.
 - **(j)** A labeling rule under this section shall not apply to any article of covered equipment the manufacture of which was completed before the effective date of such rule.
 - **(k)** Until such time as labeling rules under this section take effect with respect to a type (or class) of covered equipment, this section shall not affect any authority of the Commission under the Federal Trade Commission Act [ 15 U.S.C. 41 et seq.] to require labeling with respect to energy consumption of such type (or class) of covered equipment.
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 344](https://www.govinfo.gov/link/plaw/94/public/163), as added [Pub. L. 95–619, title IV, § 441(a)](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3271](https://www.govinfo.gov/link/statute/92/3271); amended [Pub. L. 102–486, title I, § 122(c)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2809](https://www.govinfo.gov/link/statute/106/2809); [Pub. L. 109–58, title I, § 136(g)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 643](https://www.govinfo.gov/link/statute/119/643); [Pub. L. 110–140, title III, § 312(d)](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1567](https://www.govinfo.gov/link/statute/121/1567).)*

@@ -3,9 +3,10 @@ title: "Section 6824 - Within-State allocations"
 usc_title: 20
 usc_section: "6824"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 6824"
-generated_at: "2026-03-30T02:54:48.204Z"
+generated_at: "2026-11-23T20:26:14.865Z"
+status: "active"
 ---
 
 # § 6824. Within-State allocations
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:48.204Z"
   - **(2)** in awarding subgrants under paragraph (1)—
     - **(A)** shall equally consider eligible entities that satisfy the requirement of such paragraph but have limited or no experience in serving immigrant children and youth; and
     - **(B)** shall consider the quality of each local plan under section 6826 of this title and ensure that each subgrant is of sufficient size and scope to meet the purposes of this part.
+
+## Source Credit
+
+*([Pub. L. 89–10, title III, § 3114](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 107–110, title III, § 301](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1696](https://www.govinfo.gov/link/statute/115/1696); amended [Pub. L. 114–95, title III, § 3003(e)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1958](https://www.govinfo.gov/link/statute/129/1958).)*

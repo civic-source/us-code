@@ -3,9 +3,10 @@ title: "Section 572 - General authority"
 usc_title: 5
 usc_section: "572"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 572"
-generated_at: "2026-03-30T02:52:55.989Z"
+generated_at: "2026-11-23T20:25:31.726Z"
+status: "active"
 ---
 
 # § 572. General authority
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:52:55.989Z"
   - **(5)** a full public record of the proceeding is important, and a dispute resolution proceeding cannot provide such a record; and
   - **(6)** the agency must maintain continuing jurisdiction over the matter with authority to alter the disposition of the matter in the light of changed circumstances, and a dispute resolution proceeding would interfere with the agency’s fulfilling that requirement.
 - **(c)** Alternative means of dispute resolution authorized under this subchapter are voluntary procedures which supplement rather than limit other available agency dispute resolution techniques.
+
+## Source Credit
+
+*(Added [Pub. L. 101–552, § 4(b)](https://www.govinfo.gov/link/plaw/101/public/552), Nov. 15, 1990, [104 Stat. 2739](https://www.govinfo.gov/link/statute/104/2739), § 582; renumbered § 572, [Pub. L. 102–354, § 3(b)(2)](https://www.govinfo.gov/link/plaw/102/public/354), Aug. 26, 1992, [106 Stat. 944](https://www.govinfo.gov/link/statute/106/944).)*

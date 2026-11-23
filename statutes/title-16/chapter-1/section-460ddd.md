@@ -3,9 +3,10 @@ title: "Section 460ddd - Establishment"
 usc_title: 16
 usc_section: "460ddd"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 460ddd"
-generated_at: "2026-03-30T02:54:22.836Z"
+generated_at: "2026-11-23T20:26:20.004Z"
+status: "active"
 ---
 
 # § 460ddd. Establishment
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:54:22.836Z"
 - **(k)** No later than five years after November 28, 1990 , and at least each ten years thereafter, the Secretary shall report to the Committee on Natural Resources of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate on the implementation of this subchapter, the condition of the resources and values of the conservation area, and the progress of the Secretary in achieving the purposes for which the conservation area is established.
 - **(l)** Any person who violates any regulation promulgated by the Secretary to implement the provisions of this subchapter shall be subject to a fine in accordance with applicable provisions of the Sentencing Reform Act of 1984, or imprisonment of not more than 1 year, or both such fine and imprisonment.
 - **(m)** There are hereby authorized to be appropriated such sums as may be necessary to implement the provisions of this subchapter.
+
+## Source Credit
+
+*([Pub. L. 101–628, title II, § 201](https://www.govinfo.gov/link/plaw/101/public/628), Nov. 28, 1990, [104 Stat. 4475](https://www.govinfo.gov/link/statute/104/4475); [Pub. L. 103–437, § 6(d)(24)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4584](https://www.govinfo.gov/link/statute/108/4584).)*

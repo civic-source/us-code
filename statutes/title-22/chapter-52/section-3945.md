@@ -3,9 +3,10 @@ title: "Section 3945 - Senior Foreign Service"
 usc_title: 22
 usc_section: "3945"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3945"
-generated_at: "2026-03-30T02:55:05.399Z"
+generated_at: "2026-11-23T20:26:32.484Z"
+status: "active"
 ---
 
 # § 3945. Senior Foreign Service
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.399Z"
     - **(A)** no career member of the Service who has the necessary qualifications is available to serve in the position; and
     - **(B)** the individual appointed has unique qualifications for the specific position.
 - **(d)** The Secretary shall by regulation establish a recertification process for members of the Senior Foreign Service that is equivalent to the recertification process for the Senior Executive Service under section 3393a of title 5 . 1 1 See References in Text note below.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 305](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2086](https://www.govinfo.gov/link/statute/94/2086); [Pub. L. 99–93, title I, § 119(a)](https://www.govinfo.gov/link/plaw/99/public/93), Aug. 16, 1985, [99 Stat. 412](https://www.govinfo.gov/link/statute/99/412); [Pub. L. 101–194, title V, § 506(c)(1)](https://www.govinfo.gov/link/plaw/101/public/194), Nov. 30, 1989, [103 Stat. 1759](https://www.govinfo.gov/link/statute/103/1759); [Pub. L. 101–280, § 6(d)(3)](https://www.govinfo.gov/link/plaw/101/public/280), May 4, 1990, [104 Stat. 160](https://www.govinfo.gov/link/statute/104/160).)*

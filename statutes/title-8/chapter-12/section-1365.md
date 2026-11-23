@@ -3,9 +3,10 @@ title: "Section 1365 - Reimbursement of States for costs of incarcerating illega
 usc_title: 8
 usc_section: "1365"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1365"
-generated_at: "2026-03-30T02:53:10.497Z"
+generated_at: "2026-11-23T20:25:36.206Z"
+status: "active"
 ---
 
 # § 1365. Reimbursement of States for costs of incarcerating illegal aliens and certain Cuban nationals
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:10.497Z"
     - **(B)** under the terms of an immigrant visa or a nonimmigrant visa issued,
 - **(d)** There are authorized to be appropriated such sums as are necessary to carry out the purposes of this section.
 - **(e)** The term “State” has the meaning given such term in section 1101(a)(36) of this title .
+
+## Source Credit
+
+*([Pub. L. 99–603, title V, § 501](https://www.govinfo.gov/link/plaw/99/public/603), Nov. 6, 1986, [100 Stat. 3443](https://www.govinfo.gov/link/statute/100/3443).)*

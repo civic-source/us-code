@@ -3,9 +3,10 @@ title: "Section 44519 - Certification personnel continuing education and trainin
 usc_title: 49
 usc_section: "44519"
 chapter: 445
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44519"
-generated_at: "2026-03-30T02:56:19.382Z"
+generated_at: "2026-11-23T20:27:35.152Z"
+status: "active"
 ---
 
 # § 44519. Certification personnel continuing education and training
@@ -23,3 +24,13 @@ generated_at: "2026-03-30T02:56:19.382Z"
   - **(3)** are consistent with any applicable collective bargaining agreements; and
   - **(4)** account for gaps in knowledge and skills (as identified by the Administrator in consultation with the exclusive bargaining representatives certified under section 7111 of title 5 , United States Code) between Administration employees and private-sector employees for each group of Administration employees covered under this section.
 - **(c)** There is authorized to be appropriated to the Administrator, $10,000,000 for each of fiscal years 2021 through 2028 to carry out this section. Amounts appropriated under the preceding sentence for any fiscal year shall remain available until expended.
+
+In General
+
+Implementation
+
+Authorization of Appropriations
+
+## Source Credit
+
+*(Added [Pub. L. 116–260, div. V, title I, § 112(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2331](https://www.govinfo.gov/link/statute/134/2331); amended [Pub. L. 118–63, title III, § 306(d)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1072](https://www.govinfo.gov/link/statute/138/1072).)*

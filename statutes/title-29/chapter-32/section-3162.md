@@ -3,9 +3,10 @@ title: "Section 3162 - State allotments"
 usc_title: 29
 usc_section: "3162"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3162"
-generated_at: "2026-03-30T02:55:18.752Z"
+generated_at: "2026-11-23T20:26:38.095Z"
+status: "active"
 ---
 
 # § 3162. State allotments
@@ -54,3 +55,15 @@ generated_at: "2026-03-30T02:55:18.752Z"
   - **(3)** In making reallotments to eligible States of amounts available pursuant to paragraph (2) for a program year, the Secretary shall allot to each eligible State an amount based on the relative amount of the State allotment for the program year for which the determination is made, as compared to the total amount of the State allotments for all eligible States for such program year.
   - **(4)** For purposes of this subsection, an eligible State means a State that does not have an amount available for reallotment under paragraph (2) for the program year for which the determination under paragraph (2) is made.
   - **(5)** The Governor shall prescribe uniform procedures for the obligation of funds by local areas within the State in order to avoid the requirement that funds be made available for reallotment under this subsection. The Governor shall further prescribe equitable procedures for making funds available from the State and local areas in the event that a State is required to make funds available for reallotment under this subsection.
+
+(aa) an amount based on 90 percent of the allotment percentage of the State for the preceding fiscal year; or
+
+(bb) 100 percent of the allotments of the State under section 127(b)(1)(C) of the Workforce Investment Act of 1998 [ 29 U.S.C. 2852(b)(1)(C) ] (as in effect on the day before July 22, 2014 ) for fiscal year 2014.
+
+(aa) 3 ⁄ 10 of 1 percent of $1,000,000,000 of the remainder described in clause (i) for the fiscal year; and
+
+(bb) if the remainder described in clause (i) for the fiscal year exceeds $1,000,000,000, ⅖ of 1 percent of the excess.
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 127](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1498](https://www.govinfo.gov/link/statute/128/1498).)*

@@ -3,9 +3,10 @@ title: "Section 2871 - Definitions"
 usc_title: 10
 usc_section: "2871"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2871"
-generated_at: "2026-03-30T02:53:38.181Z"
+generated_at: "2026-11-23T20:25:51.747Z"
+status: "active"
 ---
 
 # § 2871. Definitions
@@ -25,3 +26,79 @@ In this subchapter and subchapter V of this chapter:
   - **(11)** The term “military unaccompanied housing” means military housing intended to be occupied by members of the armed forces serving a tour of duty unaccompanied by dependents and transient housing intended to be occupied by members of the armed forces on temporary duty.
   - **(12)** The term “tenant” means a member of the armed forces, including a reserve component thereof in an active status, or a dependent of a member of the armed forces who resides at a housing unit, is a party to a lease for a housing unit, or is authorized to act on behalf of the member under this subchapter and subchapter V of this chapter in the event of the assignment or deployment of a member.
   - **(13)** The term “United States” includes the Commonwealth of Puerto Rico.
+
+Evaluations in General
+
+Covered Individuals
+
+Guidance Required
+
+Financial Impact of Displacement
+
+Consultation
+
+Implementation
+
+Definitions
+
+Uniform Code of Basic Standards for Military Housing
+
+Inspection and Assessment Plan
+
+Uniform Code
+
+Inspection and Assessment Plan
+
+Implementation of Inspections and Assessments.—
+
+Implementation
+
+Report
+
+Qualified Home Inspectors Described
+
+Report
+
+Testing Procedures and Standards
+
+Notification Regarding Need for Mitigation
+
+Use of Funds in Connection With MHPI.—
+
+Payments to lessors generally.—
+
+Payment authority
+
+Calculation of monthly payments
+
+Additional payments to lessors responsible for underfunded projects.—
+
+Payment authority
+
+Calculation of monthly payments
+
+Identification of underfunded projects
+
+Limitation on payment.—
+
+In general
+
+Application
+
+Alternative authority in event of lack of underfunded projects.—
+
+In general
+
+Conditions
+
+Briefing required
+
+Plan for MHPI Housing
+
+Reporting
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 544](https://www.govinfo.gov/link/statute/110/544); amended [Pub. L. 105–261, div. B, title XXVIII, § 2803](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2202](https://www.govinfo.gov/link/statute/112/2202); [Pub. L. 106–65, div. B, title XXVIII, § 2803(a)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 848](https://www.govinfo.gov/link/statute/113/848); [Pub. L. 107–314, div. B, title XXVIII, § 2803(b)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2705](https://www.govinfo.gov/link/statute/116/2705); [Pub. L. 108–136, div. A, title X, § 1043(c)(6)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1612](https://www.govinfo.gov/link/statute/117/1612); [Pub. L. 109–163, div. B, title XXVIII, § 2805(b)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3507](https://www.govinfo.gov/link/statute/119/3507); [Pub. L. 110–417, div. B, title XXVIII, § 2805(c)](https://www.govinfo.gov/link/plaw/110/public/417), Oct. 14, 2008, [122 Stat. 4723](https://www.govinfo.gov/link/statute/122/4723); [Pub. L. 116–92, div. B, title XXX](https://www.govinfo.gov/link/plaw/116/public/92), §§ 3001(b)–3011(a), Dec. 20, 2019, [133 Stat. 1916](https://www.govinfo.gov/link/statute/133/1916), 1917.)*

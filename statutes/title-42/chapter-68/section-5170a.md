@@ -3,9 +3,10 @@ title: "Section 5170a - General Federal assistance"
 usc_title: 42
 usc_section: "5170a"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5170a"
-generated_at: "2026-03-30T02:56:11.224Z"
+generated_at: "2026-11-23T20:27:22.482Z"
+status: "active"
 ---
 
 # § 5170a. General Federal assistance
@@ -26,3 +27,7 @@ In any major disaster, the President may—
   - **(6)** provide accelerated Federal assistance and Federal support where necessary to save lives, prevent human suffering, or mitigate severe damage, which may be provided in the absence of a specific request and in which case the President—
     - **(A)** shall, to the fullest extent practicable, promptly notify and coordinate with officials in a State in which such assistance or support is provided; and
     - **(B)** shall not, in notifying and coordinating with a State under subparagraph (A), delay or impede the rapid deployment, use, and distribution of critical resources to victims of a major disaster.
+
+## Source Credit
+
+*([Pub. L. 93–288, title IV, § 402](https://www.govinfo.gov/link/plaw/93/public/288), as added [Pub. L. 100–707, title I, § 106(a)(3)](https://www.govinfo.gov/link/plaw/100/public/707), Nov. 23, 1988, [102 Stat. 4696](https://www.govinfo.gov/link/statute/102/4696); amended [Pub. L. 109–295, title VI, § 681(a)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1444](https://www.govinfo.gov/link/statute/120/1444); [Pub. L. 115–254, div. D, § 1206(a)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3440](https://www.govinfo.gov/link/statute/132/3440).)*

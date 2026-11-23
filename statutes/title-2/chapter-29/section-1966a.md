@@ -3,12 +3,17 @@ title: "Section 1966a - Protection of former Speakers of the House of Representa
 usc_title: 2
 usc_section: "1966a"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1966a"
-generated_at: "2026-03-30T02:53:04.821Z"
+generated_at: "2026-11-23T20:25:28.999Z"
+status: "active"
 ---
 
 # § 1966a. Protection of former Speakers of the House of Representatives
 
 Notwithstanding any other provision of law (except section 1341 of title 31 ), hereafter, the United States Capitol Police shall perform a threat assessment for former Speakers of the House of Representatives, and if warranted, any such former Speaker shall receive a United States Capitol Police protective detail for a period of not more than one year beginning on the date they leave such office, except that such former Speaker shall have the option to decline such protective detail at any time: Provided , That at the conclusion of the one year period, the United States Capitol Police shall perform a threat assessment to determine whether extension of the protective detail is warranted: Provided further , That, the protective detail may be extended beyond the initial one year period, with the concurrence of the relevant former Speaker, if the United States Capitol Police determines that information or conditions, including but not limited to violent threats, warrant such protection: Provided further , That the United States Capitol Police is authorized to enter into Memoranda of Understanding with relevant state and local law enforcement agencies, as needed, to carry out this section.
 
+
+## Source Credit
+
+*([Pub. L. 117–328, div. I, title I, § 121](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 4926](https://www.govinfo.gov/link/statute/136/4926).)*

@@ -3,9 +3,10 @@ title: "Section 15027 - Withholding of payments for planning, administration, an
 usc_title: 42
 usc_section: "15027"
 chapter: 144
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 15027"
-generated_at: "2026-03-30T02:56:11.457Z"
+generated_at: "2026-11-23T20:27:23.551Z"
+status: "active"
 ---
 
 # § 15027. Withholding of payments for planning, administration, and services
@@ -14,3 +15,7 @@ Whenever the Secretary, after providing reasonable notice and an opportunity for
 
   - **(1)** the Council or agency has failed to comply substantially with any of the provisions required by section 15024 of this title to be included in the State plan, particularly provisions required by paragraphs (4)(A) and (5)(B)(vii) of section 15024(c) of this title , or with any of the provisions required by section 15025(b)(3) of this title ; or
   - **(2)** the Council or agency has failed to comply substantially with any regulations of the Secretary that are applicable to this part,
+
+## Source Credit
+
+*([Pub. L. 106–402, title I, § 127](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1711](https://www.govinfo.gov/link/statute/114/1711).)*

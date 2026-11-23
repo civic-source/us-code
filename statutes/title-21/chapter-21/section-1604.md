@@ -3,9 +3,10 @@ title: "Section 1604 - Liability of biomaterials suppliers"
 usc_title: 21
 usc_section: "1604"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 1604"
-generated_at: "2026-03-30T02:54:54.303Z"
+generated_at: "2026-11-23T20:26:27.883Z"
+status: "active"
 ---
 
 # § 1604. Liability of biomaterials suppliers
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:54:54.303Z"
       - **(iv)** contained in a master file that was submitted by the biomaterials supplier to the Secretary and that is currently maintained by the biomaterials supplier for purposes of premarket approval of medical devices; or
       - **(v)** included in the submissions for purposes of premarket approval or review by the Secretary under section 360, 360c, 360e, or 360j of this title, and received clearance from the Secretary if such specifications were accepted, pursuant to applicable law, by the biomaterials supplier; and
   - **(2)** such failure to meet applicable contractual requirements or specifications was an actual and proximate cause of the harm to the claimant.
+
+## Source Credit
+
+*([Pub. L. 105–230, § 5](https://www.govinfo.gov/link/plaw/105/public/230), Aug. 13, 1998, [112 Stat. 1524](https://www.govinfo.gov/link/statute/112/1524).)*

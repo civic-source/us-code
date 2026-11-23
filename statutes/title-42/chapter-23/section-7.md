@@ -3,9 +3,10 @@ title: "Section 7 - Liabilities"
 usc_title: 42
 usc_section: "7"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7"
-generated_at: "2026-03-30T02:56:11.162Z"
+generated_at: "2026-11-23T20:27:22.137Z"
+status: "active"
 ---
 
 # § 2297h–7. Liabilities
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.162Z"
 - **(d)**
   - **(1)** No officer, director, employee, or agent of the Corporation shall be liable in any civil proceeding to any party in connection with any action taken in connection with the privatization if, with respect to the subject matter of the action, suit, or proceeding, such person was acting within the scope of his employment.
   - **(2)** This subsection shall not apply to claims arising under the Securities Act of 1933 ( 15 U.S.C. 77a et seq.), the Securities Exchange Act of 1934 ( 15 U.S.C. 78a et seq.), or under the Constitution or laws of any State, territory, or possession of the United States relating to transactions in securities.
+
+## Source Credit
+
+*([Pub. L. 104–134, title III, § 3109](https://www.govinfo.gov/link/plaw/104/public/134), Apr. 26, 1996, [110 Stat. 1321–339](https://www.govinfo.gov/link/statute/110/1321).)*

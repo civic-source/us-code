@@ -3,9 +3,10 @@ title: "Section 1943 - Limitations on amount of operating loans"
 usc_title: 7
 usc_section: "1943"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1943"
-generated_at: "2026-03-30T02:53:42.349Z"
+generated_at: "2026-11-23T20:25:41.359Z"
+status: "active"
 ---
 
 # § 1943. Limitations on amount of operating loans
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:53:42.349Z"
       - **(iii)** have the services of a staff with appropriate loan making and servicing expertise.
     - **(D)** Not less often than annually, on a date determined by the Secretary, an institution that has a loan under this paragraph shall provide to the Secretary such information as the Secretary may require to ensure that the services provided by the institution are serving the purposes of this subsection.
     - **(E)** The Secretary shall not make more than $10,000,000 in loans under this paragraph in any fiscal year.
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 313](https://www.govinfo.gov/link/plaw/87/public/128), Aug. 8, 1961, [75 Stat. 310](https://www.govinfo.gov/link/statute/75/310); [Pub. L. 90–488, § 9](https://www.govinfo.gov/link/plaw/90/public/488), Aug. 15, 1968, [82 Stat. 771](https://www.govinfo.gov/link/statute/82/771); [Pub. L. 92–419, title I, § 122](https://www.govinfo.gov/link/plaw/92/public/419), Aug. 30, 1972, [86 Stat. 665](https://www.govinfo.gov/link/statute/86/665); [Pub. L. 95–334, title I, § 116](https://www.govinfo.gov/link/plaw/95/public/334), Aug. 4, 1978, [92 Stat. 426](https://www.govinfo.gov/link/statute/92/426); [Pub. L. 98–258, title VI, § 604(a)](https://www.govinfo.gov/link/plaw/98/public/258), Apr. 10, 1984, [98 Stat. 139](https://www.govinfo.gov/link/statute/98/139); [Pub. L. 105–277, div. A, § 101(a) [title VIII, § 806(b)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681](https://www.govinfo.gov/link/statute/112/2681), 2681–39; [Pub. L. 110–234, title V, § 5102](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1146](https://www.govinfo.gov/link/statute/122/1146); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title V, § 5102, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1908; [Pub. L. 113–79, title V, § 5106(a)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 837](https://www.govinfo.gov/link/statute/128/837); [Pub. L. 115–334, title V](https://www.govinfo.gov/link/plaw/115/public/334), §§ 5201–5203, Dec. 20, 2018, [132 Stat. 4671](https://www.govinfo.gov/link/statute/132/4671).)*

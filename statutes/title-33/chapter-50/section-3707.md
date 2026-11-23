@@ -3,9 +3,10 @@ title: "Section 3707 - NASA ocean acidification activities"
 usc_title: 33
 usc_section: "3707"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 3707"
-generated_at: "2026-03-30T02:55:41.144Z"
+generated_at: "2026-11-23T20:26:54.276Z"
+status: "active"
 ---
 
 # § 3707. NASA ocean acidification activities
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:41.144Z"
 - **(d)** Researchers from the National Aeronautics and Space Administration under this subtitle that collect data described under section 3705(d) of this title shall—
   - **(1)** collect such data in accordance with the standards, protocols, or procedures established pursuant to section 3705(d) of this title ; and
   - **(2)** submit such data to the Administrator and the Secretary, in accordance with any rules promulgated by the Administrator or the Secretary.
+
+## Source Credit
+
+*([Pub. L. 111–11, title XII, § 12408](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1441](https://www.govinfo.gov/link/statute/123/1441); [Pub. L. 117–167, div. B, title VI, § 10648](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1681](https://www.govinfo.gov/link/statute/136/1681).)*

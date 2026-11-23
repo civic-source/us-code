@@ -3,9 +3,10 @@ title: "Section 773h - Forfeitures"
 usc_title: 16
 usc_section: "773h"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 773h"
-generated_at: "2026-03-30T02:54:22.907Z"
+generated_at: "2026-11-23T20:26:20.271Z"
+status: "active"
 ---
 
 # § 773h. Forfeitures
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:22.907Z"
     - **(B)** discharge any fish seized pursuant to such process;
   - **(2)** Any fish seized pursuant to this subchapter may be disposed of pursuant to the order of a court of competent jurisdiction or, if perishable, in a manner prescribed by regulations of the Secretary or the Secretary of the department in which the Coast Guard is operating.
 - **(e)** For purposes of this section, it shall be a rebuttable presumption that all fish found on board a fishing vessel which is seized in connection with an act prohibited by section 773e of this title were taken or retained in violation of the Convention and this subchapter.
+
+## Source Credit
+
+*([Pub. L. 97–176, § 10](https://www.govinfo.gov/link/plaw/97/public/176), May 17, 1982, [96 Stat. 81](https://www.govinfo.gov/link/statute/96/81); [Pub. L. 114–125, title VIII, § 802(d)(2)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 210](https://www.govinfo.gov/link/statute/130/210).)*

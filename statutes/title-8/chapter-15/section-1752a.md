@@ -3,9 +3,10 @@ title: "Section 1752a - Model ports-of-entry"
 usc_title: 8
 usc_section: "1752a"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1752a"
-generated_at: "2026-03-30T02:53:10.508Z"
+generated_at: "2026-11-23T20:25:36.286Z"
+status: "active"
 ---
 
 # § 1752a. Model ports-of-entry
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:10.508Z"
   - **(2)** assistance for foreign travelers once they have been admitted to the United States, in consultation, as appropriate, with relevant governmental and nongovernmental entities; and
   - **(3)** instructional videos, in English and such other languages as the Secretary determines appropriate, in the Federal Inspection Services area that explain the United States inspection process and feature national, regional, or local welcome videos.
 - **(c)** Subject to the availability of appropriations, not later than the end of fiscal year 2008 the Secretary of Homeland Security shall employ not fewer than an additional 200 Customs and Border Protection officers over the number of such positions for which funds were appropriated for the proceeding fiscal year to address staff shortages at the 20 United States international airports that have the highest number of foreign visitors arriving annually as of August 3, 2007 .
+
+## Source Credit
+
+*([Pub. L. 110–53, title VII, § 725](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 350](https://www.govinfo.gov/link/statute/121/350).)*

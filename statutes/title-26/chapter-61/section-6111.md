@@ -3,9 +3,10 @@ title: "Section 6111 - Disclosure of reportable transactions"
 usc_title: 26
 usc_section: "6111"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6111"
-generated_at: "2026-03-30T02:55:27.842Z"
+generated_at: "2026-11-23T20:26:46.577Z"
+status: "active"
 ---
 
 # § 6111. Disclosure of reportable transactions
@@ -27,3 +28,17 @@ generated_at: "2026-03-30T02:55:27.842Z"
   - **(1)** that only 1 person shall be required to meet the requirements of subsection (a) in cases in which 2 or more persons would otherwise be required to meet such requirements,
   - **(2)** exemptions from the requirements of this section, and
   - **(3)** such rules as may be necessary or appropriate to carry out the purposes of this section.
+
+In general
+
+Modifications to substantial understatement penalty
+
+In general
+
+Substantial investment test
+
+Furnishing of shelter identification number for interests sold before september 1, 1984
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title I, § 141(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 677](https://www.govinfo.gov/link/statute/98/677); amended [Pub. L. 99–514, title II, § 201(d)(13)](https://www.govinfo.gov/link/plaw/99/public/514), title XV, § 1531(a), title XVIII, § 1899A(54), Oct. 22, 1986, [100 Stat. 2142](https://www.govinfo.gov/link/statute/100/2142), 2749, 2961; [Pub. L. 105–34, title X, § 1028(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 926](https://www.govinfo.gov/link/statute/111/926); [Pub. L. 108–357, title VIII, § 815(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1581](https://www.govinfo.gov/link/statute/118/1581); [Pub. L. 109–135, title IV, § 412(zz)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2641](https://www.govinfo.gov/link/statute/119/2641).)*

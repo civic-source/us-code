@@ -3,9 +3,10 @@ title: "Section 7308 - Office of Rural Health"
 usc_title: 38
 usc_section: "7308"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7308"
-generated_at: "2026-03-30T02:55:53.526Z"
+generated_at: "2026-11-23T20:27:01.992Z"
+status: "active"
 ---
 
 # § 7308. Office of Rural Health
@@ -24,3 +25,15 @@ generated_at: "2026-03-30T02:55:53.526Z"
     - **(B)** To identify disparities in the availability of health care to veterans living in rural areas.
     - **(C)** To formulate practices or programs to enhance the delivery of health care to veterans living in rural areas.
     - **(D)** To develop special practices and products for the benefit of veterans living in rural areas and for implementation of such practices and products in the Department systemwide.
+
+Establishment
+
+Head
+
+Functions
+
+Rural Health Resource Centers
+
+## Source Credit
+
+*(Added [Pub. L. 109–461, title II, § 212(a)(1)](https://www.govinfo.gov/link/plaw/109/public/461), Dec. 22, 2006, [120 Stat. 3421](https://www.govinfo.gov/link/statute/120/3421); amended [Pub. L. 112–154, title I, § 110](https://www.govinfo.gov/link/plaw/112/public/154), Aug. 6, 2012, [126 Stat. 1175](https://www.govinfo.gov/link/statute/126/1175).)*

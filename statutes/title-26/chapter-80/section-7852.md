@@ -3,9 +3,10 @@ title: "Section 7852 - Other applicable rules"
 usc_title: 26
 usc_section: "7852"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 7852"
-generated_at: "2026-03-30T02:55:27.887Z"
+generated_at: "2026-11-23T20:26:46.855Z"
+status: "active"
 ---
 
 # § 7852. Other applicable rules
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:27.887Z"
   - **(1)** For purposes of determining the relationship between a provision of a treaty and any law of the United States affecting revenue, neither the treaty nor the law shall have preferential status by reason of its being a treaty or law.
   - **(2)** No provision of this title (as in effect without regard to any amendment thereto enacted after August 16, 1954 ) shall apply in any case where its application would be contrary to any treaty obligation of the United States in effect on August 16, 1954 .
 - **(e)** The provisions of subsections (d)(2), (3), and (4), and (g) of section 552a of title 5 , United States Code, shall not be applied, directly or indirectly, to the determination of the existence or possible existence of liability (or the amount thereof) of any person for any tax, penalty, interest, fine, forfeiture, or other imposition or offense to which the provisions of this title apply.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 922; [Pub. L. 94–455, title XII, § 1202(g)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1688](https://www.govinfo.gov/link/statute/90/1688); [Pub. L. 100–647, title I, § 1012(aa)(1)(A)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3531](https://www.govinfo.gov/link/statute/102/3531).)*

@@ -3,9 +3,10 @@ title: "Section 6129 - Certification of completion of milestones with respect to
 usc_title: 10
 usc_section: "6129"
 chapter: 602
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6129"
-generated_at: "2026-03-30T02:53:38.219Z"
+generated_at: "2026-11-23T20:25:52.013Z"
+status: "active"
 ---
 
 # § 6129. Certification of completion of milestones with respect to plutonium pit aging
@@ -23,3 +24,15 @@ generated_at: "2026-03-30T02:53:38.219Z"
     - **(A)** describing the reasons such milestones have not been achieved;
     - **(B)** including, if the Administrator determines the Administration will not be able to meet one of such milestones, an explanation for that determination; and
     - **(C)** specifying new dates for the completion of the milestones the Administrator anticipates the Administration will meet.
+
+Requirement
+
+Assessments
+
+Briefings
+
+Certification of Completion of Milestones
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1365](https://www.govinfo.gov/link/statute/139/1365).)*

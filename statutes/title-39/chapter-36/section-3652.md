@@ -3,9 +3,10 @@ title: "Section 3652 - Annual reports to the Commission"
 usc_title: 39
 usc_section: "3652"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "39 U.S.C. § 3652"
-generated_at: "2026-03-30T02:55:43.694Z"
+generated_at: "2026-11-23T20:26:57.758Z"
+status: "active"
 ---
 
 # § 3652. Annual reports to the Commission
@@ -41,3 +42,29 @@ generated_at: "2026-03-30T02:55:43.694Z"
   - **(1)** comprehensive statement under section 2401(e);
   - **(2)** performance plan under section 2803; and
   - **(3)** program performance reports under section 2804.
+
+Costs, Revenues, Rates, and Service
+
+Information Relating to Workshare Discounts
+
+Market Tests
+
+Supporting Matter
+
+Content and Form of Reports.—
+
+In general
+
+Revised requirements
+
+Confidential Information.—
+
+In general
+
+Treatment
+
+Other Reports
+
+## Source Credit
+
+*(Added [Pub. L. 109–435, title II, § 204(b)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3211](https://www.govinfo.gov/link/statute/120/3211).)*

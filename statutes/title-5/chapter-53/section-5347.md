@@ -3,9 +3,10 @@ title: "Section 5347 - Federal Prevailing Rate Advisory Committee"
 usc_title: 5
 usc_section: "5347"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 5347"
-generated_at: "2026-03-30T02:52:56.014Z"
+generated_at: "2026-11-23T20:25:31.911Z"
+status: "active"
 ---
 
 # § 5347. Federal Prevailing Rate Advisory Committee
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:52:56.014Z"
   - **(1)** Except as provided in paragraph (2), members of the Committee described in paragraphs (2)–(5) of subsection (a) of this section serve without additional pay. Members who represent employee organizations are not entitled to pay from the Government of the United States for services rendered to the Committee.
   - **(2)** The position of Chairman shall be considered to be a Senior Executive Service position within the meaning of section 3132(a), and shall be subject to all provisions of this title relating to Senior Executive Service positions, including section 5383.
 - **(h)** The Office of Personnel Management shall provide such clerical and professional personnel as the Chairman of the Committee considers appropriate and necessary to carry out its functions under this subchapter. Such personnel shall be responsible to the Chairman of the Committee.
+
+## Source Credit
+
+*(Added [Pub. L. 92–392, § 1(a)](https://www.govinfo.gov/link/plaw/92/public/392), Aug. 19, 1972, [86 Stat. 571](https://www.govinfo.gov/link/statute/86/571); amended [Pub. L. 95–454, title IX, § 906(a)(1)](https://www.govinfo.gov/link/plaw/95/public/454), (2), Oct. 13, 1978, [92 Stat. 1224](https://www.govinfo.gov/link/statute/92/1224); [Pub. L. 96–54, § 2(a)(15)](https://www.govinfo.gov/link/plaw/96/public/54), Aug. 14, 1979, [93 Stat. 382](https://www.govinfo.gov/link/statute/93/382); [Pub. L. 102–378, § 2(30)](https://www.govinfo.gov/link/plaw/102/public/378), Oct. 2, 1992, [106 Stat. 1350](https://www.govinfo.gov/link/statute/106/1350); [Pub. L. 104–66, title II, § 2181(d)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 732](https://www.govinfo.gov/link/statute/109/732).)*

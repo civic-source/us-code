@@ -3,9 +3,10 @@ title: "Section 6702 - Purposes"
 usc_title: 16
 usc_section: "6702"
 chapter: 86
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6702"
-generated_at: "2026-03-30T02:54:23.066Z"
+generated_at: "2026-11-23T20:26:20.815Z"
+status: "active"
 ---
 
 # § 6702. Purposes
@@ -26,3 +27,7 @@ The purposes of this chapter are—
       - **(iii)** the report entitled “10-Year Comprehensive Strategy: A Collaborative Approach for Reducing Wildland Fire Risks to Communities and the Environment” of the Western Governors’ Association;
   - **(6)** to provide technical assistance to collaborative efforts by affected entities to develop, implement, and monitor adaptive ecosystem management restoration treatments that are ecologically sound, economically viable, and socially responsible; and
   - **(7)** to assist Federal and non-Federal land managers in providing information to the public on the role of fire and fire management in dry forest and woodland ecosystems in the interior West.
+
+## Source Credit
+
+*([Pub. L. 108–317, § 3](https://www.govinfo.gov/link/plaw/108/public/317), Oct. 5, 2004, [118 Stat. 1205](https://www.govinfo.gov/link/statute/118/1205).)*

@@ -3,9 +3,10 @@ title: "Section 8201 - Coordination with public health programs; administration"
 usc_title: 38
 usc_section: "8201"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 8201"
-generated_at: "2026-03-30T02:55:53.540Z"
+generated_at: "2026-11-23T20:27:02.088Z"
+status: "active"
 ---
 
 # § 8201. Coordination with public health programs; administration
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:53.540Z"
 - **(g)**
   - **(1)** Each recipient of assistance under this chapter shall keep such records as the Secretary shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance is made or used, the amount of that portion of the cost of the project or undertaking supplied by other sources, and such records as will facilitate an effective audit.
   - **(2)** The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient of any assistance under this chapter which are pertinent to such assistance.
+
+## Source Credit
+
+*(Added [Pub. L. 92–541, § 2(a)](https://www.govinfo.gov/link/plaw/92/public/541), Oct. 24, 1972, [86 Stat. 1101](https://www.govinfo.gov/link/statute/86/1101), § 5070; amended [Pub. L. 94–581, title I, § 116(1)](https://www.govinfo.gov/link/plaw/94/public/581), (2), title II, § 210(f)(1), Oct. 21, 1976, [90 Stat. 2853](https://www.govinfo.gov/link/statute/90/2853), 2854, 2865; [Pub. L. 96–151, title I, § 103(a)](https://www.govinfo.gov/link/plaw/96/public/151), Dec. 20, 1979, [93 Stat. 1093](https://www.govinfo.gov/link/statute/93/1093); [Pub. L. 96–330, title IV, § 403(b)](https://www.govinfo.gov/link/plaw/96/public/330), Aug. 26, 1980, [94 Stat. 1052](https://www.govinfo.gov/link/statute/94/1052); [Pub. L. 97–295, § 4(94)](https://www.govinfo.gov/link/plaw/97/public/295), Oct. 12, 1982, [96 Stat. 1313](https://www.govinfo.gov/link/statute/96/1313); renumbered § 8201 and amended [Pub. L. 102–40, title IV](https://www.govinfo.gov/link/plaw/102/public/40), §§ 402(b)(2)(A), (d)(1), 403(b)(6), May 7, 1991, [105 Stat. 239](https://www.govinfo.gov/link/statute/105/239), 240; [Pub. L. 102–54, § 14(f)(10)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 288](https://www.govinfo.gov/link/statute/105/288); [Pub. L. 102–83, § 4(a)(1)](https://www.govinfo.gov/link/plaw/102/public/83), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 403–405](https://www.govinfo.gov/link/statute/105/403); [Pub. L. 103–446, title XII, § 1201(d)(20)](https://www.govinfo.gov/link/plaw/103/public/446), Nov. 2, 1994, [108 Stat. 4685](https://www.govinfo.gov/link/statute/108/4685); [Pub. L. 106–419, title IV, § 403(b)](https://www.govinfo.gov/link/plaw/106/public/419), Nov. 1, 2000, [114 Stat. 1864](https://www.govinfo.gov/link/statute/114/1864); [Pub. L. 107–217, § 3(j)(7)](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1301](https://www.govinfo.gov/link/statute/116/1301); [Pub. L. 111–350, § 5(j)(9)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3850](https://www.govinfo.gov/link/statute/124/3850).)*

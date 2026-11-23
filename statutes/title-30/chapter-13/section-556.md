@@ -3,9 +3,10 @@ title: "Section 556 - Administration"
 usc_title: 30
 usc_section: "556"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 556"
-generated_at: "2026-03-30T02:55:29.385Z"
+generated_at: "2026-11-23T20:26:34.941Z"
+status: "active"
 ---
 
 # § 556. Administration
@@ -18,3 +19,7 @@ In carrying out the provisions of section 553 of this title the Secretary of the
 - **(d)** to acquire lands or rights and interests therein, including improvements, by purchase, lease, gift, exchange, condemnation, or otherwise, whenever necessary for the purposes of this chapter;
 - **(e)** to repair, restore, or replace private property damaged or destroyed as a result of, or incident to, operations under this chapter; and
 - **(f)** to receive and accept money and property, real or personal, or interests therein, as a gift, bequest, or contribution, for use in any of the activities authorized under this chapter; and to conduct any of the activities authorized under this chapter in cooperation with any person or agency, Federal, State, or private. Any money so received shall be deposited in the Treasury of the United States in an available trust fund to be disbursed by the Secretary of the Treasury upon certification by the Secretary of the Interior in accordance with the terms of the grant, and shall remain available until expended for the purposes for which received and accepted.
+
+## Source Credit
+
+*(Aug. 31, 1954, ch. 1156, § 6, [68 Stat. 1010](https://www.govinfo.gov/link/statute/68/1010).)*

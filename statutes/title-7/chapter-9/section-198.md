@@ -3,9 +3,10 @@ title: "Section 198 - Definitions"
 usc_title: 7
 usc_section: "198"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 198"
-generated_at: "2026-03-30T02:53:42.277Z"
+generated_at: "2026-11-23T20:25:40.996Z"
+status: "active"
 ---
 
 # § 198. Definitions
@@ -22,3 +23,7 @@ Except as provided in section 198b(a) of this title , in this part:
     - **(A)** the mechanism used to determine the base price for swine committed to a packer, grouped into practicable classifications by the Secretary (including swine or pork market formula purchases, other market formula purchases, and other purchase arrangements); and
     - **(B)** the presence or absence of an accrual account or ledger that must be repaid by the producer or packer that receives the benefit of the contract pricing mechanism in relation to negotiated prices.
   - **(8)** Except as provided in this part, a term has the meaning given the term in section 1635a or 1635i of this title.
+
+## Source Credit
+
+*(Aug. 15, 1921, ch. 64, title II, § 221, as added [Pub. L. 106–78, title IX, § 934(2)](https://www.govinfo.gov/link/plaw/106/public/78), Oct. 22, 1999, [113 Stat. 1208](https://www.govinfo.gov/link/statute/113/1208).)*

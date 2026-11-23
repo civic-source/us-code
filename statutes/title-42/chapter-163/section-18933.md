@@ -3,9 +3,10 @@ title: "Section 18933 - Software security and authentication"
 usc_title: 42
 usc_section: "18933"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18933"
-generated_at: "2026-03-30T02:56:11.533Z"
+generated_at: "2026-11-23T20:27:23.839Z"
+status: "active"
 ---
 
 # § 18933. Software security and authentication
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.533Z"
 - **(e)**
   - **(1)** The Director shall, in coordination with industry, academia, and other Federal agencies, as appropriate, develop a set of security outcomes and practices, including security controls, control enhancements, supplemental guidance, or other supporting information to enable software developers and operators to identify, assess, and manage cybersecurity risks over the full lifecycle of software products.
   - **(2)** The Director shall conduct outreach and coordination activities to share technical expertise with Federal agencies, relevant industry stakeholders, and standards development organizations, as appropriate, to encourage the voluntary adoption of the software lifecycle security practices by Federal agencies and industry stakeholders.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title II, § 10224](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1478](https://www.govinfo.gov/link/statute/136/1478).)*

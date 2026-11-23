@@ -3,9 +3,10 @@ title: "Section 11151 - Definitions"
 usc_title: 42
 usc_section: "11151"
 chapter: 117
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11151"
-generated_at: "2026-03-30T02:56:11.395Z"
+generated_at: "2026-11-23T20:27:23.276Z"
+status: "active"
 ---
 
 # § 11151. Definitions
@@ -39,3 +40,7 @@ In this chapter:
   - **(12)** The term “Secretary” means the Secretary of Health and Human Services.
   - **(13)** The term “State” means the 50 States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands.
   - **(14)** The term “State licensing board” means, with respect to a physician or health care provider in a State, the agency of the State which is primarily responsible for the licensing of the physician or provider to furnish health care services.
+
+## Source Credit
+
+*([Pub. L. 99–660, title IV, § 431](https://www.govinfo.gov/link/plaw/99/public/660), Nov. 14, 1986, [100 Stat. 3792](https://www.govinfo.gov/link/statute/100/3792).)*

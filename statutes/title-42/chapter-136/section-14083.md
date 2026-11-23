@@ -3,9 +3,10 @@ title: "Section 14083 - Omitted"
 usc_title: 42
 usc_section: "14083"
 chapter: 136
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 14083"
-generated_at: "2026-03-30T02:56:11.451Z"
+generated_at: "2026-11-23T20:27:23.523Z"
+status: "omitted"
 ---
 
 # § 14083. Omitted

@@ -3,9 +3,10 @@ title: "Section 2295b - Authorities relating to assistance and other provisions"
 usc_title: 22
 usc_section: "2295b"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2295b"
-generated_at: "2026-03-30T02:55:05.355Z"
+generated_at: "2026-11-23T20:26:32.222Z"
+status: "active"
 ---
 
 # § 2295b. Authorities relating to assistance and other provisions
@@ -45,3 +46,9 @@ generated_at: "2026-03-30T02:55:05.355Z"
   - **(4)**
     - **(A)** The term “Cuban Government” includes the government of any political subdivision of Cuba, and any agency or instrumentality of the Government of Cuba.
     - **(B)** For purposes of subparagraph (A), the term “agency or instrumentality of the Government of Cuba” means an agency or instrumentality of a foreign state as defined in section 1603(b) of title 28 , with each reference in such section to “a foreign state” deemed to be a reference to “Cuba”.
+
+Other Bilateral Economic Assistance, assistance for the new independent states of the former soviet union
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 498B, as added [Pub. L. 102–511, title II, § 201](https://www.govinfo.gov/link/plaw/102/public/511), Oct. 24, 1992, [106 Stat. 3328](https://www.govinfo.gov/link/statute/106/3328); amended [Pub. L. 103–236, title VIII, § 826(c)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 519](https://www.govinfo.gov/link/statute/108/519); [Pub. L. 104–114, title I, § 106(c)(2)](https://www.govinfo.gov/link/plaw/104/public/114), Mar. 12, 1996, [110 Stat. 796](https://www.govinfo.gov/link/statute/110/796); [Pub. L. 107–246, § 4(b)](https://www.govinfo.gov/link/plaw/107/public/246), Oct. 23, 2002, [116 Stat. 1515](https://www.govinfo.gov/link/statute/116/1515).)*

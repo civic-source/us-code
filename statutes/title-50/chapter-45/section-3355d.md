@@ -3,9 +3,10 @@ title: "Section 3355d - Standards and procedures"
 usc_title: 50
 usc_section: "3355d"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3355d"
-generated_at: "2026-03-30T02:56:26.248Z"
+generated_at: "2026-11-23T20:27:30.981Z"
+status: "active"
 ---
 
 # § 3355d. Standards and procedures
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:26.248Z"
     - **(B)** In the case of the denial of access to a special access program created by the Director of National Intelligence, or by the head of any other agency (including the Department of Defense) if the special access program pertains to intelligence activities, or of access to any information and materials relating to intelligence sources and methods, to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives.
     - **(C)** In the case of the denial of access to a special access program created by the Secretary of Energy or the Administrator for Nuclear Security, to the Committees on Armed Services and Appropriations and the Select Committee on Intelligence of the Senate and to the Committees on Armed Services and Appropriations and the Permanent Select Committee on Intelligence of the House of Representatives.
 - **(f)** In response to a specific congressional request for declassification review described in section 3355a(b)(5) of this title , the Board shall advise the originators of the request in a timely manner whether the Board intends to conduct such review.
+
+## Source Credit
+
+*([Pub. L. 106–567, title VII, § 706](https://www.govinfo.gov/link/plaw/106/public/567), Dec. 27, 2000, [114 Stat. 2861](https://www.govinfo.gov/link/statute/114/2861); [Pub. L. 108–458, title I, § 1102(e)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3700](https://www.govinfo.gov/link/statute/118/3700); [Pub. L. 110–53, title VI, § 602(1)](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 335](https://www.govinfo.gov/link/statute/121/335); [Pub. L. 117–263, div. F, title LXVIII, § 6824(d)(4)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3615](https://www.govinfo.gov/link/statute/136/3615).)*

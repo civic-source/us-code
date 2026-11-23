@@ -3,9 +3,10 @@ title: "Section 8910 - Mandatory imposition of sanctions with respect to transac
 usc_title: 22
 usc_section: "8910"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8910"
-generated_at: "2026-03-30T02:55:05.459Z"
+generated_at: "2026-11-23T20:26:32.743Z"
+status: "active"
 ---
 
 # § 8910. Mandatory imposition of sanctions with respect to transactions with persons responsible for human rights abuses
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:05.459Z"
       - **(i)** the person is not engaging in the activity that was the basis for the sanctions or has taken significant verifiable steps toward stopping the activity; and
       - **(ii)** the President has received reliable assurances that the person will not knowingly engage in activity subject to sanctions under subsection (a) in the future; or
     - **(B)** that the President determines that insufficient basis exists for the determination by the President under subsection (a) with respect to the person.
+
+## Source Credit
+
+*([Pub. L. 113–95, § 11](https://www.govinfo.gov/link/plaw/113/public/95), as added [Pub. L. 115–44, title II, § 228(a)](https://www.govinfo.gov/link/plaw/115/public/44), Aug. 2, 2017, [131 Stat. 913](https://www.govinfo.gov/link/statute/131/913).)*

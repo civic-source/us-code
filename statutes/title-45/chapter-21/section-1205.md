@@ -3,9 +3,10 @@ title: "Section 1205 - Lands to be transferred"
 usc_title: 45
 usc_section: "1205"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 1205"
-generated_at: "2026-03-30T02:55:56.560Z"
+generated_at: "2026-11-23T20:27:05.339Z"
+status: "active"
 ---
 
 # § 1205. Lands to be transferred
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:56.560Z"
   - **(3)** Before the date of transfer, the State shall have standing to participate in any administrative determination or judicial review pursuant to this chapter. If transfer to the State does not occur pursuant to section 1203 of this title , the State shall not thereafter have standing to participate in any such determination or review.
 - **(d)**
 - **(e)** The State shall be liable to a party receiving a conveyance of land among the rail properties of the Alaska Railroad subject to the license granted pursuant to section 1203(b)(1)(C) of this title for damage resulting from use by the State of the land under such license in a manner not authorized by such license.
+
+## Source Credit
+
+*([Pub. L. 97–468, title VI, § 606(a)](https://www.govinfo.gov/link/plaw/97/public/468) –(c), (e), Jan. 14, 1983, [96 Stat. 2564–2566](https://www.govinfo.gov/link/statute/96/2564), 2571; [Pub. L. 98–620, title IV, § 402(52)](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3361](https://www.govinfo.gov/link/statute/98/3361).)*

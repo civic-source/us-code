@@ -3,9 +3,10 @@ title: "Section 3852 - Civil enforcement"
 usc_title: 33
 usc_section: "3852"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 3852"
-generated_at: "2026-03-30T02:55:41.144Z"
+generated_at: "2026-11-23T20:26:54.280Z"
+status: "active"
 ---
 
 # § 3852. Civil enforcement
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:41.144Z"
 - **(f)** If any person fails to pay a civil penalty assessed under this section after it has become final, or comply with an order issued under this chapter, the Secretary or Administrator, as appropriate, may refer the matter to the Attorney General of the United States for collection in any appropriate district court of the United States.
 - **(g)** Before referring any civil penalty that is subject to assessment or has been assessed under this section to the Attorney General, the Secretary, or Administrator, as appropriate, may compromise, modify, or remit, with or without conditions, the civil penalty.
 - **(h)** Any person who fails to pay on a timely basis a civil penalty assessed under this section shall also be liable to the United States for interest on the penalty at an annual rate equal to 11 percent compounded quarterly, attorney fees and costs for collection proceedings, and a quarterly nonpayment penalty for each quarter during which such failure to pay persists. That nonpayment penalty shall be in an amount equal to 20 percent of the aggregate amount of that person’s penalties and nonpayment penalties that are unpaid as of the beginning of that quarter.
+
+## Source Credit
+
+*([Pub. L. 111–281, title X, § 1042](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 3030](https://www.govinfo.gov/link/statute/124/3030).)*

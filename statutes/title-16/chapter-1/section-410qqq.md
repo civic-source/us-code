@@ -3,9 +3,10 @@ title: "Section 410qqq - Coltsville National Historical Park"
 usc_title: 16
 usc_section: "410qqq"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 410qqq"
-generated_at: "2026-03-30T02:54:22.782Z"
+generated_at: "2026-11-23T20:26:19.805Z"
+status: "active"
 ---
 
 # § 410qqq. Coltsville National Historical Park
@@ -111,3 +112,7 @@ generated_at: "2026-03-30T02:54:22.782Z"
     - **(B)**
       - **(i)** Eight years after December 19, 2014 , the Commission shall make a recommendation to the Secretary if a body of its nature is still necessary to advise on the development of the park.
       - **(ii)** If, based on a recommendation under clause (i), the Secretary determines that the Commission is still necessary, the Secretary may extend the life of the Commission for not more than 10 years.
+
+## Source Credit
+
+*([Pub. L. 113–291, div. B, title XXX, § 3032](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3770](https://www.govinfo.gov/link/statute/128/3770); [Pub. L. 115–111, § 1](https://www.govinfo.gov/link/plaw/115/public/111), Jan. 10, 2018, [131 Stat. 2273](https://www.govinfo.gov/link/statute/131/2273); [Pub. L. 117–286, § 4(a)(89)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4315](https://www.govinfo.gov/link/statute/136/4315).)*

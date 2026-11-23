@@ -3,9 +3,10 @@ title: "Section 360 - Station licenses; inspection of equipment by Commission"
 usc_title: 47
 usc_section: "360"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 360"
-generated_at: "2026-03-30T02:56:24.512Z"
+generated_at: "2026-11-23T20:27:28.901Z"
+status: "active"
 ---
 
 # § 360. Station licenses; inspection of equipment by Commission
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:24.512Z"
 - **(b)** Every ship of the United States that is subject to this part shall have the equipment and apparatus prescribed therein inspected at least once each year by the Commission or an entity designated by the Commission. If, after such inspection, the Commission is satisfied that all relevant provisions of this chapter and the station license have been complied with, the fact shall be so certified on the station license by the Commission. The Commission shall make such additional inspections at frequent intervals as the Commission determines may be necessary to ensure compliance with the requirements of this chapter. The Commission may, upon a finding that the public interest could be served thereby—
   - **(1)** waive the annual inspection required under this section for a period of up to 90 days for the sole purpose of enabling a vessel to complete its voyage and proceed to a port in the United States where an inspection can be held; or
   - **(2)** waive the annual inspection required under this section for a vessel that is in compliance with the radio provisions of the Safety Convention and that is operating solely in waters beyond the jurisdiction of the United States: Provided , That such inspection shall be performed within 30 days of such vessel’s return to the United States.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title III, § 362, formerly § 360, as added May 20, 1937, ch. 229, § 10(b), [50 Stat. 196](https://www.govinfo.gov/link/statute/50/196); renumbered § 362, Aug. 13, 1954, ch. 729, § 2(a)(1), [68 Stat. 706](https://www.govinfo.gov/link/statute/68/706); amended [Pub. L. 87–811](https://www.govinfo.gov/link/plaw/87/public/811), Oct. 15, 1962, [76 Stat. 922](https://www.govinfo.gov/link/statute/76/922); [Pub. L. 104–104, title IV, § 403(n)](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 132](https://www.govinfo.gov/link/statute/110/132).)*

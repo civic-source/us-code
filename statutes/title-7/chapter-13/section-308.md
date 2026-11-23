@@ -3,12 +3,17 @@ title: "Section 308 - Reports by State governors of sale of scrip"
 usc_title: 7
 usc_section: "308"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 308"
-generated_at: "2026-03-30T02:53:42.280Z"
+generated_at: "2026-11-23T20:25:41.014Z"
+status: "active"
 ---
 
 # § 308. Reports by State governors of sale of scrip
 
 The governors of the several States to which scrip shall be issued under the provisions of this subchapter shall be required to report annually to Congress all sales made of such scrip until the whole shall be disposed of, the amount received for the same, and what appropriation has been made of the proceeds.
 
+
+## Source Credit
+
+*(July 2, 1862, ch. 130, § 8, [12 Stat. 505](https://www.govinfo.gov/link/statute/12/505).)*

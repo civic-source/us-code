@@ -3,9 +3,10 @@ title: "Section 1599j - Restricted reports of incidents of adult sexual assault"
 usc_title: 10
 usc_section: "1599j"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1599j"
-generated_at: "2026-03-30T02:53:38.132Z"
+generated_at: "2026-11-23T20:25:51.401Z"
+status: "active"
 ---
 
 # § 1599j. Restricted reports of incidents of adult sexual assault
@@ -25,3 +26,21 @@ generated_at: "2026-03-30T02:53:38.132Z"
 - **(e)** In this section:
   - **(1)** The term “civilian employee” has the meaning given the term “employee” in section 2105 of title 5 .
   - **(2)** The term “sexual assault” has the meaning given that term in section 920 of this title (article 120 of the Uniform Code of Military Justice), and includes penetrative offenses and sexual contact offenses.
+
+Restricted Reports
+
+Restrictions on Disclosures and Initiating Investigations
+
+Duties Under Other Laws
+
+Individuals Authorized to Receive Restricted Reports
+
+Definitions
+
+Civilian employee
+
+Sexual assault
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. A, title XI, § 1101(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2815](https://www.govinfo.gov/link/statute/136/2815).)*

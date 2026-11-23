@@ -3,9 +3,10 @@ title: "Section 601 - Generally applicable provisions"
 usc_title: 23
 usc_section: "601"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 601"
-generated_at: "2026-03-30T02:55:12.574Z"
+generated_at: "2026-11-23T20:26:23.906Z"
+status: "active"
 ---
 
 # § 601. Generally applicable provisions
@@ -97,3 +98,203 @@ generated_at: "2026-03-30T02:55:12.574Z"
     - **(B)** a comparable event, as determined by the Secretary and specified in the credit agreement.
   - **(22)** The term “TIFIA program” means the transportation infrastructure finance and innovation program of the Department established under sections 602 through 609.
 - **(b)** For purposes of this title, this chapter shall be treated as being part of chapter 1.
+
+Definitions
+
+Contingent commitment
+
+Eligible project costs
+
+Federal credit instrument
+
+Investment-grade rating
+
+Lender
+
+Letter of interest
+
+Line of credit
+
+Limited buydown
+
+Loan guarantee
+
+Master credit agreement
+
+Obligor
+
+Project
+
+(aa) that incorporates private investment;
+
+(bb) that is physically or functionally related to a passenger rail station or multimodal station that includes rail service;
+
+(cc) for which the project sponsor has a high probability of commencing the contracting process for construction by not later than 90 days after the date on which credit assistance under the TIFIA program is provided for the project; and
+
+(dd) that has a high probability of reducing the need for financial assistance under any other Federal program for the relevant passenger rail station or service by increasing ridership, tenant lease payments, or other activities that generate revenue exceeding costs; and
+
+Project obligation
+
+Rating agency
+
+Rural infrastructure project
+
+Rural projects fund
+
+Secured loan
+
+State
+
+State infrastructure bank
+
+Subsidy amount
+
+Substantial completion
+
+TIFIA program
+
+Treatment of Chapter
+
+In General
+
+Project Described
+
+Reporting Requirements.—
+
+Project reports
+
+Report to congress
+
+Guidance
+
+In General
+
+Designation of Regional Infrastructure Accelerators
+
+Application
+
+Criteria
+
+Annual Report
+
+Authorization of Appropriations
+
+“Congress finds that—
+
+Definitions
+
+Other assistance
+
+State
+
+Cooperative Agreements.—
+
+In general.—
+
+Purpose of agreements
+
+Contents of agreements
+
+Interstate compacts
+
+Funding.—
+
+Contribution
+
+Capitalization grant
+
+Special rule for urbanized areas of over 200,000
+
+Forms of Assistance From Infrastructure Banks.—
+
+In general
+
+Subordination of loans
+
+Initial assistance
+
+Qualifying Projects.—
+
+In general
+
+Interstate funds
+
+Rail program funds
+
+Infrastructure Bank Requirements.—
+
+In general
+
+Waivers by the secretary
+
+Limitation on Repayments
+
+Secretarial Requirements
+
+Applicability of Federal Law.—
+
+In general
+
+Repayments
+
+United States Not Obligated.—
+
+In general
+
+Statement
+
+Management of Federal Funds
+
+Program Administration.—
+
+In general
+
+Non-federal funds
+
+In General.—
+
+Cooperative agreements
+
+Interstate compacts
+
+Funding.—
+
+Separate accounts
+
+Highway account
+
+Transit account
+
+Special rule for urbanized areas of over 200,000
+
+Forms of Assistance From Infrastructure Banks
+
+Qualifying Projects
+
+Infrastructure Bank Requirements
+
+Limitation on Repayments
+
+Secretarial Requirements
+
+United States Not Obligated
+
+Management of Federal Funds
+
+Program Administration
+
+Secretarial Review
+
+Definitions
+
+Capital project
+
+Construction; federal-aid highway
+
+Other assistance
+
+State
+
+## Source Credit
+
+*(Added [Pub. L. 105–178, title I, § 1503(a)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 241](https://www.govinfo.gov/link/statute/112/241), § 181; renumbered § 601 and amended [Pub. L. 109–59, title I](https://www.govinfo.gov/link/plaw/109/public/59), §§ 1601(a), 1602(b)(1), (5), (d), Aug. 10, 2005, [119 Stat. 1239](https://www.govinfo.gov/link/statute/119/1239), 1246, 1247; [Pub. L. 109–291, § 4(b)(6)](https://www.govinfo.gov/link/plaw/109/public/291), Sept. 29, 2006, [120 Stat. 1338](https://www.govinfo.gov/link/statute/120/1338); [Pub. L. 110–244, title I, § 101(r)](https://www.govinfo.gov/link/plaw/110/public/244), June 6, 2008, [122 Stat. 1577](https://www.govinfo.gov/link/statute/122/1577); [Pub. L. 112–141, div. A, title II, § 2002](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 607](https://www.govinfo.gov/link/statute/126/607); [Pub. L. 114–94, div. A, title II, § 2001(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1439](https://www.govinfo.gov/link/statute/129/1439); [Pub. L. 117–58, div. A, title II, § 12001(a)](https://www.govinfo.gov/link/plaw/117/public/58), div. C, § 30001(b)(1), Nov. 15, 2021, [135 Stat. 617](https://www.govinfo.gov/link/statute/135/617), 890.)*

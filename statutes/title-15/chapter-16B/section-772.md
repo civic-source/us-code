@@ -3,9 +3,10 @@ title: "Section 772 - Administrator’s information-gathering power"
 usc_title: 15
 usc_section: "772"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 772"
-generated_at: "2026-03-30T02:54:08.121Z"
+generated_at: "2026-11-23T20:26:03.928Z"
+status: "active"
 ---
 
 # § 772. Administrator’s information-gathering power
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:08.121Z"
 - **(g)** With respect to any person who is subject to any rule, regulation, or order promulgated by the Administrator or to any provision of law the administration of which is vested in or transferred or delegated to the Administrator, the Administrator may require, by rule, the keeping of such accounts or records as he determines are necessary or appropriate for determining compliance with such rule, regulation, order, or any applicable provision of law.
 - **(h)** In exercising his authority under this chapter and any other provision of law relating to the collection of energy information, the Administrator shall take into account the size of businesses required to submit reports with the Administrator so as to avoid, to the greatest extent practicable, overly burdensome reporting requirements on small marketers and distributors of petroleum products and other small business concerns required to submit reports to the Administrator.
 - **(i)** Any failure to make information available to the Administrator under subsection (b), any failure to comply with any general or special order under subsection (c), or any failure to allow the Administrator to act under subsection (d) shall be subject to the same penalties as any violation of section 796 of this title or any rule, regulation, or order issued under such section.
+
+## Source Credit
+
+*([Pub. L. 93–275, § 13](https://www.govinfo.gov/link/plaw/93/public/275), May 7, 1974, [88 Stat. 107](https://www.govinfo.gov/link/statute/88/107); [Pub. L. 94–385, title I](https://www.govinfo.gov/link/plaw/94/public/385), §§ 107, 108, Aug. 14, 1976, [90 Stat. 1129](https://www.govinfo.gov/link/statute/90/1129).)*

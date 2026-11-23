@@ -3,9 +3,10 @@ title: "Section 6403 - National coral reef resilience strategy"
 usc_title: 16
 usc_section: "6403"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6403"
-generated_at: "2026-03-30T02:54:23.056Z"
+generated_at: "2026-11-23T20:26:20.792Z"
+status: "active"
 ---
 
 # § 6403. National coral reef resilience strategy
@@ -53,3 +54,7 @@ generated_at: "2026-03-30T02:54:23.056Z"
   - **(2)** publish the strategy and any such revisions on public websites of—
     - **(A)** the Coral Reef Conservation Program of the National Oceanic and Atmospheric Administration; and
     - **(B)** the Task Force.
+
+## Source Credit
+
+*([Pub. L. 106–562, title II, § 204](https://www.govinfo.gov/link/plaw/106/public/562), as added [Pub. L. 117–263, div. J, title C, § 10001(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3933](https://www.govinfo.gov/link/statute/136/3933).)*

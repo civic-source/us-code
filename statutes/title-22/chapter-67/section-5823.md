@@ -3,9 +3,10 @@ title: "Section 5823 - Funding for export promotion activities and capital proje
 usc_title: 22
 usc_section: "5823"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 5823"
-generated_at: "2026-03-30T02:55:05.420Z"
+generated_at: "2026-11-23T20:26:32.578Z"
+status: "active"
 ---
 
 # § 5823. Funding for export promotion activities and capital projects
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:05.420Z"
   - **(5)** Supporting projects undertaken by the United States business community on the basis of partnership, joint venture, contractual, or other cooperative agreements with appropriate entities in the independent states.
   - **(6)** Supporting export finance programs, feasibility studies, political risk insurance, and other related programs through increased funding and flexibility in the implementation of such programs.
   - **(7)** Supporting the Business Information Service (BISNIS) and its related programs.
+
+## Source Credit
+
+*([Pub. L. 102–511, title III, § 303](https://www.govinfo.gov/link/plaw/102/public/511), Oct. 24, 1992, [106 Stat. 3333](https://www.govinfo.gov/link/statute/106/3333).)*

@@ -3,9 +3,10 @@ title: "Section 2282d - Annual report to Congress"
 usc_title: 33
 usc_section: "2282d"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2282d"
-generated_at: "2026-03-30T02:55:41.119Z"
+generated_at: "2026-11-23T20:26:54.155Z"
+status: "active"
 ---
 
 # § 2282d. Annual report to Congress
@@ -105,3 +106,27 @@ generated_at: "2026-03-30T02:55:41.119Z"
   - **(3)** The term “feasibility study” has the meaning given that term in section 2215 of this title .
   - **(4)** The term “non-Federal interest” has the meaning given that term in section 1962d–5b of title 42 .
   - **(5)** The term “water resources development project” includes a project under an environmental infrastructure assistance program.
+
+(aa) the feasibility report;
+
+(bb) the proposed feasibility study; or
+
+(cc) the authorized feasibility study for which a modification is proposed; or
+
+(aa) the feasibility report; or
+
+(bb) the authorized feasibility study for which a modification is proposed, with respect to the change in costs resulting from such modification; or
+
+Findings
+
+Dissemination of Process Information.—
+
+In general
+
+Annual reporting
+
+Guidance; compliance
+
+## Source Credit
+
+*([Pub. L. 113–121, title VII, § 7001](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1360](https://www.govinfo.gov/link/statute/128/1360); [Pub. L. 114–322, title I, § 1157(b)](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1666](https://www.govinfo.gov/link/statute/130/1666); [Pub. L. 115–270, title I, § 1332(a)](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3834](https://www.govinfo.gov/link/statute/132/3834); [Pub. L. 116–260, div. AA, title I, § 127(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2640](https://www.govinfo.gov/link/statute/134/2640); [Pub. L. 118–272, div. A, title I, § 1111](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3010](https://www.govinfo.gov/link/statute/138/3010).)*

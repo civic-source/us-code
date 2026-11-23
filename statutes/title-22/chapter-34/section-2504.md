@@ -3,9 +3,10 @@ title: "Section 2504 - Peace Corps volunteers"
 usc_title: 22
 usc_section: "2504"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2504"
-generated_at: "2026-03-30T02:55:05.370Z"
+generated_at: "2026-11-23T20:26:32.312Z"
+status: "active"
 ---
 
 # § 2504. Peace Corps volunteers
@@ -50,3 +51,45 @@ generated_at: "2026-03-30T02:55:05.370Z"
   - **(5)** For the purposes of undertaking a review under this section, an officer or employee of the United States or a member of the Armed Forces may be detailed to the Inspector General of the Peace Corps from another department of the United States Government on a nonreimbursable basis, as jointly agreed to by the Inspector General and the detailing department, for a period not to exceed 1 year. This paragraph may not be construed to limit or modify any other source of authority for reimbursable or nonreimbursable details. A nonreimbursable detail made under this section may not be considered an augmentation of the appropriations of the Peace Corps.
   - **(6)** Upon request, the Peace Corps may make available necessary funds to the Inspector General of the Peace Corps for reviews conducted by the Inspector General under this section. The request shall be limited to costs relating to hiring, procuring, or otherwise obtaining medical-related experts or expert services, and associated travel.
   - **(7)** The undertaking of a review under this section may not be considered a transfer of program operating responsibilities to the Inspector General of the Peace Corps.
+
+Inspector general report
+
+Semiannual reports.—
+
+Initial report
+
+Subsequent reports
+
+Notification
+
+In General
+
+Requirements of the Evaluations
+
+Reports to the Peace Corps
+
+Report to Congress
+
+Definitions
+
+“In this Act [see Short Title of 2018 Amendment note set out as a note under section 2501 of this title ]:
+
+Appropriate congressional committees
+
+Director
+
+Peace corps volunteer
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+## Source Credit
+
+*([Pub. L. 87–293, title I, § 5](https://www.govinfo.gov/link/plaw/87/public/293), Sept. 22, 1961, [75 Stat. 613](https://www.govinfo.gov/link/statute/75/613); [Pub. L. 88–200, § 2](https://www.govinfo.gov/link/plaw/88/public/200), Dec. 13, 1963, [77 Stat. 359](https://www.govinfo.gov/link/statute/77/359); [Pub. L. 89–134, § 2](https://www.govinfo.gov/link/plaw/89/public/134), Aug. 24, 1965, [79 Stat. 549](https://www.govinfo.gov/link/statute/79/549); [Pub. L. 89–554, § 8(a)](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 661](https://www.govinfo.gov/link/statute/80/661), 662; [Pub. L. 89–572, § 2(a)](https://www.govinfo.gov/link/plaw/89/public/572), Sept. 13, 1966, [80 Stat. 765](https://www.govinfo.gov/link/statute/80/765); [Pub. L. 91–99, § 2](https://www.govinfo.gov/link/plaw/91/public/99), Oct. 29, 1969, [83 Stat. 166](https://www.govinfo.gov/link/statute/83/166); [Pub. L. 91–352, § 3](https://www.govinfo.gov/link/plaw/91/public/352), July 24, 1970, [84 Stat. 464](https://www.govinfo.gov/link/statute/84/464); [Pub. L. 94–130](https://www.govinfo.gov/link/plaw/94/public/130), §§ 4, 6, Nov. 14, 1975, [89 Stat. 684](https://www.govinfo.gov/link/statute/89/684); [Pub. L. 95–331, § 4](https://www.govinfo.gov/link/plaw/95/public/331), Aug. 2, 1978, [92 Stat. 414](https://www.govinfo.gov/link/statute/92/414); [Pub. L. 96–465, title II, § 2202(a)](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2157](https://www.govinfo.gov/link/statute/94/2157); [Pub. L. 97–113, title VI](https://www.govinfo.gov/link/plaw/97/public/113), §§ 604(b), 606, Dec. 29, 1981, [95 Stat. 1543](https://www.govinfo.gov/link/statute/95/1543); [Pub. L. 99–83, title XI, § 1105(b)](https://www.govinfo.gov/link/plaw/99/public/83), Aug. 8, 1985, [99 Stat. 276](https://www.govinfo.gov/link/statute/99/276); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 105–12, § 9(j)](https://www.govinfo.gov/link/plaw/105/public/12), Apr. 30, 1997, [111 Stat. 27](https://www.govinfo.gov/link/statute/111/27); [Pub. L. 106–30, § 2(b)(1)](https://www.govinfo.gov/link/plaw/106/public/30) –(3), May 21, 1999, [113 Stat. 55](https://www.govinfo.gov/link/statute/113/55); [Pub. L. 112–57](https://www.govinfo.gov/link/plaw/112/public/57), §§ 3, 8(a)(1), (b), Nov. 21, 2011, [125 Stat. 744](https://www.govinfo.gov/link/statute/125/744), 745; [Pub. L. 115–256, title I, § 101(a)(1)](https://www.govinfo.gov/link/plaw/115/public/256), title III, § 301, Oct. 9, 2018, [132 Stat. 3651](https://www.govinfo.gov/link/statute/132/3651), 3655.)*

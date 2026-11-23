@@ -3,9 +3,10 @@ title: "Section 751 - Organization"
 usc_title: 31
 usc_section: "751"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 751"
-generated_at: "2026-03-30T02:55:34.047Z"
+generated_at: "2026-11-23T20:26:51.690Z"
+status: "active"
 ---
 
 # § 751. Organization
@@ -32,3 +33,34 @@ generated_at: "2026-03-30T02:55:34.047Z"
       - **(ii)** in the case of a member serving for the unexpired portion of a term, from the appointment date of the individual who was originally appointed to serve for such term.
 - **(d)** A member may be removed by a majority of the Board (except the member subject to removal) only for inefficiency, neglect of duty, or malfeasance in office. A member subject to removal shall be given notice and an opportunity for a hearing before the Board unless the member waives the opportunity in writing.
 - **(e)** While carrying out a member’s duties (including travel), a member who is not an officer or employee of the United States Government is entitled to basic pay at a rate equal to the daily rate of basic pay payable for grade GS–18 of the General Schedule. Each member is entitled to travel expenses and per diem allowances under section 5703 of title 5 .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 751(a) | 31:52–3(a)(1), (3). | Feb. 15, 1980 , Pub. L. 96–191, § 4(a) –(d), 94 Stat. 29 . |
+| 751(b) | 31:52–3(a)(2), (4). |  |
+| 751(c) | 31:52–3(b). |  |
+| 751(d) | 31:52–3(c). |  |
+| 751(e) | 31:52–3(d). |  |
+
+
+Historical and Revision Notes
+
+751(a)
+
+Feb. 15, 1980
+
+Pub. L. 96–191, § 4(a)
+
+94 Stat. 29
+
+751(b)
+
+751(c)
+
+751(d)
+
+751(e)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 900](https://www.govinfo.gov/link/statute/96/900); [Pub. L. 100–426, title I](https://www.govinfo.gov/link/plaw/100/public/426), §§ 101, 102(b), Sept. 9, 1988, [102 Stat. 1598](https://www.govinfo.gov/link/statute/102/1598), 1599; [Pub. L. 103–283, title III, § 312(e)(4)(A)](https://www.govinfo.gov/link/plaw/103/public/283), July 22, 1994, [108 Stat. 1446](https://www.govinfo.gov/link/statute/108/1446); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814).)*

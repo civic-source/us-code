@@ -3,9 +3,10 @@ title: "Section 3509 - Conflict of interest; personnel and activities covered"
 usc_title: 22
 usc_section: "3509"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3509"
-generated_at: "2026-03-30T02:55:05.394Z"
+generated_at: "2026-11-23T20:26:32.463Z"
+status: "active"
 ---
 
 # § 3509. Conflict of interest; personnel and activities covered
@@ -17,3 +18,7 @@ Members of the Council and Institute Fellows shall avoid any action, in their ac
   - **(3)** making recommendations or decisions relating to any activity authorized by this chapter in other than an impartial and independent manner;
   - **(4)** misusing Government property or official information obtained through their office or position which has not been made available to the general public; or
   - **(5)** affecting adversely the confidence of the public in the integrity of the Institute.
+
+## Source Credit
+
+*([Pub. L. 96–53, title IV, § 409](https://www.govinfo.gov/link/plaw/96/public/53), Aug. 14, 1979, [93 Stat. 376](https://www.govinfo.gov/link/statute/93/376).)*

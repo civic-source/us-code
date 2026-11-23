@@ -3,9 +3,10 @@ title: "Section 623 - Allotments to States"
 usc_title: 42
 usc_section: "623"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 623"
-generated_at: "2026-03-30T02:56:10.876Z"
+generated_at: "2026-11-23T20:27:20.854Z"
+status: "active"
 ---
 
 # § 623. Allotments to States
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:10.876Z"
     - **(B)** the per capita income of each of such other States as compared with the population under 21 years of age; and
     - **(C)** the per capita income of all such other States with respect to which such a determination by the Secretary has been made.
   - **(3)** Any amount so reallotted to a State is deemed part of the allotment of the State under this section.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 423, formerly § 421, as added [Pub. L. 90–248, title II, § 240(c)](https://www.govinfo.gov/link/plaw/90/public/248), Jan. 2, 1968, [81 Stat. 912](https://www.govinfo.gov/link/statute/81/912); amended [Pub. L. 96–272, title I, § 103(a)](https://www.govinfo.gov/link/plaw/96/public/272), June 17, 1980, [94 Stat. 516](https://www.govinfo.gov/link/statute/94/516); [Pub. L. 100–203, title IX, § 9135(b)(2)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–315](https://www.govinfo.gov/link/statute/101/1330); renumbered § 423 and amended [Pub. L. 109–288](https://www.govinfo.gov/link/plaw/109/public/288), §§ 6(b)(2), (d), 11(a)(1), Sept. 28, 2006, [120 Stat. 1244](https://www.govinfo.gov/link/statute/120/1244), 1246, 1255; [Pub. L. 112–34, title I, § 101(d)](https://www.govinfo.gov/link/plaw/112/public/34), Sept. 30, 2011, [125 Stat. 371](https://www.govinfo.gov/link/statute/125/371); [Pub. L. 117–348, title I, § 101(b)](https://www.govinfo.gov/link/plaw/117/public/348), Jan. 5, 2023, [136 Stat. 6215](https://www.govinfo.gov/link/statute/136/6215); [Pub. L. 118–258, title I](https://www.govinfo.gov/link/plaw/118/public/258), §§ 103(d), 107(a)(1)(B), Jan. 4, 2025, [138 Stat. 2948](https://www.govinfo.gov/link/statute/138/2948), 2954.)*

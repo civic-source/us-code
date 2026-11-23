@@ -3,9 +3,10 @@ title: "Section 775 - Issue of uniform without charge"
 usc_title: 10
 usc_section: "775"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 775"
-generated_at: "2026-03-30T02:53:38.076Z"
+generated_at: "2026-11-23T20:25:51.053Z"
+status: "active"
 ---
 
 # § 775. Issue of uniform without charge
@@ -16,3 +17,11 @@ generated_at: "2026-03-30T02:53:38.076Z"
   - **(3)** A member who, as a result of the member’s duties, has unique uniform requirements.
   - **(4)** Any other member, if the Secretary concerned determines, under exceptional circumstances, that the issue of the uniform to that member would significantly benefit the morale and welfare of the member and be advantageous to the armed force concerned.
 - **(b)** Notwithstanding section 771a of this title , a uniform issued to a member under this section may be retained by the member as a personal item.
+
+Issue of Uniform
+
+Retention of Uniform as a Personal Item
+
+## Source Credit
+
+*(Added [Pub. L. 102–484, div. A, title III, § 377(a)(2)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2386](https://www.govinfo.gov/link/statute/106/2386).)*

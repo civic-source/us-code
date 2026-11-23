@@ -3,9 +3,10 @@ title: "Section 19g - Midsize and Large Drinking Water System Infrastructure Res
 usc_title: 42
 usc_section: "19g"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 19g"
-generated_at: "2026-03-30T02:56:10.806Z"
+generated_at: "2026-11-23T20:27:20.512Z"
+status: "active"
 ---
 
 # § 300j–19g. Midsize and Large Drinking Water System Infrastructure Resilience and Sustainability Program
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:56:10.806Z"
       - **(ii)** fewer than 100,000; and
     - **(B)** 50 percent shall be used to provide grants to eligible entities that serve a population equal to or greater than 100,000.
   - **(3)** Of the amounts made available under paragraph (1), not more than 2 percent may be used by the Administrator for the administrative costs of carrying out the resilience and sustainability program.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XIV, § 1459F, as added [Pub. L. 117–58, div. E, title I, § 50107](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1144](https://www.govinfo.gov/link/statute/135/1144).)*

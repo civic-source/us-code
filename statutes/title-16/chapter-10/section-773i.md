@@ -3,9 +3,10 @@ title: "Section 773i - Administration and enforcement"
 usc_title: 16
 usc_section: "773i"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 773i"
-generated_at: "2026-03-30T02:54:22.907Z"
+generated_at: "2026-11-23T20:26:20.271Z"
+status: "active"
 ---
 
 # § 773i. Administration and enforcement
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:22.907Z"
     - **(A)** by delivering a copy thereof to the individual to be served, or to a member of the partnership to be served, or the president, secretary, or other executive officer or a director of the corporation to be served; or the agent designated for service of process;
     - **(B)** by leaving a copy thereof at the residence or the principal office or place of business of such individual, partnership, or corporation; or
     - **(C)** by mailing a copy thereof by registered or certified mail addressed to such individual, partnership, or corporation at his or its residence or principal office or place of business. The verified return by the individual so serving such complaint, order, or other process setting forth the manner of service shall be proof of same, and the returned post office receipt for such complaint, order, or other process mailed by registered or certified mail shall be proof of the service of the same.
+
+## Source Credit
+
+*([Pub. L. 97–176, § 11](https://www.govinfo.gov/link/plaw/97/public/176), May 17, 1982, [96 Stat. 82](https://www.govinfo.gov/link/statute/96/82).)*

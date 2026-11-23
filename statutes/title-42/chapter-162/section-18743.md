@@ -3,9 +3,10 @@ title: "Section 18743 - Critical minerals mining and recycling research"
 usc_title: 42
 usc_section: "18743"
 chapter: 162
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18743"
-generated_at: "2026-03-30T02:56:11.528Z"
+generated_at: "2026-11-23T20:27:23.823Z"
+status: "active"
 ---
 
 # § 18743. Critical minerals mining and recycling research
@@ -90,3 +91,7 @@ generated_at: "2026-03-30T02:56:11.528Z"
   - **(5)** In awarding grants for the development of critical minerals and metals under paragraph (1)(B), the Secretary shall prioritize pilot projects that will process the critical minerals and metals domestically.
   - **(6)** In awarding grants under paragraph (1), the Secretary shall ensure that pilot projects do not export for processing any critical minerals and metals to a foreign entity of concern.
   - **(7)** There is authorized to be appropriated to the Secretary to carry out the grant program established under paragraph (1) $100,000,000 for each of fiscal years 2021 through 2024.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title II, § 40210](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 978](https://www.govinfo.gov/link/statute/135/978).)*

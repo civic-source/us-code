@@ -3,9 +3,10 @@ title: "Section 295 - General provisions"
 usc_title: 42
 usc_section: "295"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 295"
-generated_at: "2026-03-30T02:56:10.780Z"
+generated_at: "2026-11-23T20:27:20.394Z"
+status: "active"
 ---
 
 # § 295. General provisions
@@ -40,3 +41,11 @@ generated_at: "2026-03-30T02:56:10.780Z"
     - **(C)** provide education or training for students from traditional on-campus programs in practice-based sites; or
     - **(D)** develop educational methods and distance-based approaches or technology that address adult learning requirements and increase knowledge and skills related to community-based cultural diversity in public health education.
   - **(2)** Amounts provided under grants or contracts under this section may be used for the operation of programs designed to award traineeships to students in accredited schools of public health who enter educational programs in fields where there is a severe shortage of public health professionals, including epidemiology, biostatistics, environmental health, toxicology, public health nursing, nutrition, preventive medicine, maternal and child health, and behavioral and mental health professions.
+
+In General
+
+Use of Funds for Public Health Departments
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 765, as added [Pub. L. 105–392, title I, § 105](https://www.govinfo.gov/link/plaw/105/public/392), Nov. 13, 1998, [112 Stat. 3553](https://www.govinfo.gov/link/statute/112/3553); amended [Pub. L. 111–148, title V, § 5206(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 611](https://www.govinfo.gov/link/statute/124/611).)*

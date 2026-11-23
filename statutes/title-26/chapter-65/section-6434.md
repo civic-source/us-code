@@ -3,9 +3,10 @@ title: "Section 6434 - Trump accounts contribution pilot program"
 usc_title: 26
 usc_section: "6434"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6434"
-generated_at: "2026-03-30T02:55:27.857Z"
+generated_at: "2026-11-23T20:26:46.670Z"
+status: "active"
 ---
 
 # § 6434. Trump accounts contribution pilot program
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:27.857Z"
 - **(g)** The period determined under section 6611(a) with respect to any payment under this section shall not begin before January 1, 2028 .
 - **(h)** In the case of any possession of the United States with a mirror code tax system (as defined in section 24(k)), this section shall not be treated as part of the income tax laws of the United States for purposes of determining the income tax law of such possession unless such possession elects to have this section be so treated.
 - **(i)** For purposes of this section, the terms “Trump account” and “account beneficiary” have the meaning given such terms in section 530A(b).
+
+## Source Credit
+
+*(Added [Pub. L. 119–21, title VII, § 70204(d)(1)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 187](https://www.govinfo.gov/link/statute/139/187).)*

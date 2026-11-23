@@ -3,9 +3,10 @@ title: "Section 1924 - Certificate of commendation accompanying awards; limitati
 usc_title: 42
 usc_section: "1924"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1924"
-generated_at: "2026-03-30T02:56:11.131Z"
+generated_at: "2026-11-23T20:27:21.974Z"
+status: "active"
 ---
 
 # § 1924. Certificate of commendation accompanying awards; limitation on number of yearly awards
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:56:11.131Z"
 - **(a)** the circumstances under which the act of bravery was performed, and
 - **(b)** citing the outstanding recognition for character and service: Provided , That there shall not be awarded in any one calendar year in excess of four such medals, to wit, two for bravery and two for character and service, as herein authorized.
 
+
+## Source Credit
+
+*(Aug. 3, 1950, ch. 520, § 4, [64 Stat. 398](https://www.govinfo.gov/link/statute/64/398).)*

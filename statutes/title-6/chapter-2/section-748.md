@@ -3,9 +3,10 @@ title: "Section 748 - Training and exercises"
 usc_title: 6
 usc_section: "748"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 748"
-generated_at: "2026-03-30T02:53:09.499Z"
+generated_at: "2026-11-23T20:25:34.867Z"
+status: "active"
 ---
 
 # § 748. Training and exercises
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:53:09.499Z"
   - **(3)** The Administrator shall periodically, but not less than biennially, perform national exercises for the following purposes:
     - **(A)** To test and evaluate the capability of Federal, State, local, and tribal governments to detect, disrupt, and prevent threatened or actual catastrophic acts of terrorism, especially those involving weapons of mass destruction.
     - **(B)** To test and evaluate the readiness of Federal, State, local, and tribal governments to respond and recover in a coordinated and unified manner to catastrophic incidents.
+
+## Source Credit
+
+*([Pub. L. 109–295, title VI, § 648](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1427](https://www.govinfo.gov/link/statute/120/1427); [Pub. L. 110–53, title IV](https://www.govinfo.gov/link/plaw/110/public/53), §§ 402, 403, Aug. 3, 2007, [121 Stat. 302](https://www.govinfo.gov/link/statute/121/302), 303; [Pub. L. 116–64, § 3](https://www.govinfo.gov/link/plaw/116/public/64), Oct. 9, 2019, [133 Stat. 1123](https://www.govinfo.gov/link/statute/133/1123).)*

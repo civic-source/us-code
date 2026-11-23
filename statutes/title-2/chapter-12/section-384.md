@@ -3,9 +3,10 @@ title: "Section 384 - Service and filing of papers other than notice of contest"
 usc_title: 2
 usc_section: "384"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 384"
-generated_at: "2026-03-30T02:53:04.796Z"
+generated_at: "2026-11-23T20:25:28.884Z"
+status: "active"
 ---
 
 # § 384. Service and filing of papers other than notice of contest
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:04.796Z"
   - **(3)** by mailing it addressed to the person to be served at his residence or principal office. Service by mail is complete upon mailing.
 - **(b)** All papers subsequent to the notice of contest required to be served upon the opposing party shall be filed with the Clerk either before service or within a reasonable time thereafter.
 - **(c)** Papers filed subsequent to the notice of contest shall be accompanied by proof of service showing the time and manner of service, made by affidavit of the person making service or by certificate of an attorney representing the party in whose behalf service is made. Failure to make proof of service does not affect the validity of such service.
+
+## Source Credit
+
+*([Pub. L. 91–138, § 5](https://www.govinfo.gov/link/plaw/91/public/138), Dec. 5, 1969, [83 Stat. 286](https://www.govinfo.gov/link/statute/83/286).)*

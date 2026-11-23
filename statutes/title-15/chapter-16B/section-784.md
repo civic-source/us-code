@@ -3,9 +3,10 @@ title: "Section 784 - Exports of coal and refined petroleum products"
 usc_title: 15
 usc_section: "784"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 784"
-generated_at: "2026-03-30T02:54:08.122Z"
+generated_at: "2026-11-23T20:26:03.931Z"
+status: "active"
 ---
 
 # § 784. Exports of coal and refined petroleum products
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:08.122Z"
 - **(b)** Upon request of any committee of Congress or the head of any Federal agency, the Administrator shall promptly provide any information maintained in the file and a report thereon to such committee, or agency head, except where the President finds such disclosure to be detrimental to national security.
 - **(c)** Notwithstanding any other provision of law, any Federal agency which collects or has information relevant to the functions required by this section shall make such information available to the Administrator.
 - **(d)** The Administrator shall not be required to collect independently information described in subsection (a) if he can secure the information described in subsection (a) from other Federal agencies and the information secured from such agencies is available to the Congress pursuant to a request under subsection (b).
+
+## Source Credit
+
+*([Pub. L. 93–275, § 25](https://www.govinfo.gov/link/plaw/93/public/275), May 7, 1974, [88 Stat. 114](https://www.govinfo.gov/link/statute/88/114); [Pub. L. 94–385, title I, § 111](https://www.govinfo.gov/link/plaw/94/public/385), Aug. 14, 1976, [90 Stat. 1132](https://www.govinfo.gov/link/statute/90/1132).)*

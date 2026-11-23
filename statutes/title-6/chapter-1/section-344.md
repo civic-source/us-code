@@ -3,9 +3,10 @@ title: "Section 344 - Chief Human Capital Officer"
 usc_title: 6
 usc_section: "344"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 344"
-generated_at: "2026-03-30T02:53:09.461Z"
+generated_at: "2026-11-23T20:25:34.714Z"
+status: "active"
 ---
 
 # § 344. Chief Human Capital Officer
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:53:09.461Z"
   - **(6)** the total contract hours submitted by each prime contractor as part of the service contract inventory required under section 743 of the Financial Services and General Government Appropriations Act, 2010 (division C of Public Law 111–117 ; 31 U.S.C. 501 note); and
   - **(7)** the number of full-time equivalent personnel identified under the Intergovernmental Personnel Act of 1970 ( 42 U.S.C. 4701 et seq.).
 - **(f)** Nothing in this section overrides or otherwise affects the requirements specified in section 468 of this title .
+
+## Source Credit
+
+*([Pub. L. 107–296, title VII, § 704](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2219](https://www.govinfo.gov/link/statute/116/2219); [Pub. L. 114–328, div. A, title XIX, § 1904](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2674](https://www.govinfo.gov/link/statute/130/2674); [Pub. L. 117–81, div. F, title LXIV, § 6403](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2399](https://www.govinfo.gov/link/statute/135/2399).)*

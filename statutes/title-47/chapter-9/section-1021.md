@@ -3,9 +3,10 @@ title: "Section 1021 - Department of Justice Telecommunications Carrier Complian
 usc_title: 47
 usc_section: "1021"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 1021"
-generated_at: "2026-03-30T02:56:24.530Z"
+generated_at: "2026-11-23T20:27:28.982Z"
+status: "active"
 ---
 
 # § 1021. Department of Justice Telecommunications Carrier Compliance Fund
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:24.530Z"
   - **(3)** a prioritized list of carrier equipment, facilities, and services deployed on or before January 1, 1995 , to be modified by carriers at the request of law enforcement based on its investigative needs;
   - **(4)** a projected reimbursement plan that estimates the cost for the coming fiscal year and for each fiscal year thereafter, based on the prioritization of law enforcement needs as outlined in (3), 1 1 So in original. Probably should be “paragraph (3),”. of modification by carriers of equipment, facilities and services, installed on or before January 1, 1995 .
 - **(f)** The Attorney General shall submit to the Congress each year a report specifically detailing all deposits and expenditures made pursuant to subchapter I 2 2 See References in Text note below. of this chapter in each fiscal year. This report shall be submitted to each member of the Committees on the Judiciary and Appropriations of both the House of Representatives and the Senate, and to the Speaker and minority leader of the House of Representatives and to the majority and minority leaders of the Senate, no later than 60 days after the end of each fiscal year.
+
+## Source Credit
+
+*([Pub. L. 103–414, title IV, § 401](https://www.govinfo.gov/link/plaw/103/public/414), as added [Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 110]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009](https://www.govinfo.gov/link/statute/110/3009), 3009–19.)*

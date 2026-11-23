@@ -3,9 +3,10 @@ title: "Section 45G - Railroad track maintenance credit"
 usc_title: 26
 usc_section: "45G"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 45G"
-generated_at: "2026-03-30T02:55:27.601Z"
+generated_at: "2026-11-23T20:26:45.214Z"
+status: "active"
 ---
 
 # § 45G. Railroad track maintenance credit
@@ -29,3 +30,15 @@ generated_at: "2026-03-30T02:55:27.601Z"
   - **(1)** For purposes of this section, the terms “Class II railroad” and “Class III railroad” have the respective meanings given such terms by the Surface Transportation Board.
   - **(2)** Rules similar to the rules of paragraph (1) of section 41(f) shall apply for purposes of this section.
   - **(3)** For purposes of this subtitle, if a credit is allowed under this section with respect to any railroad track, the basis of such track shall be reduced by the amount of the credit so allowed.
+
+In general
+
+Safe harbor assignments
+
+Extension
+
+Modification
+
+## Source Credit
+
+*(Added [Pub. L. 108–357, title II, § 245(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1447](https://www.govinfo.gov/link/statute/118/1447); amended [Pub. L. 109–135, title IV, § 403(f)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2623](https://www.govinfo.gov/link/statute/119/2623); [Pub. L. 109–432, div. A, title IV, § 423(a)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 2973](https://www.govinfo.gov/link/statute/120/2973); [Pub. L. 110–343, div. C, title III, § 316(a)](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3872](https://www.govinfo.gov/link/statute/122/3872); [Pub. L. 111–312, title VII, § 734(a)](https://www.govinfo.gov/link/plaw/111/public/312), Dec. 17, 2010, [124 Stat. 3318](https://www.govinfo.gov/link/statute/124/3318); [Pub. L. 112–240, title III, § 306(a)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2329](https://www.govinfo.gov/link/statute/126/2329); [Pub. L. 113–295, div. A, title I, § 116(a)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4014](https://www.govinfo.gov/link/statute/128/4014); [Pub. L. 114–113, div. Q, title I, § 162(a)](https://www.govinfo.gov/link/plaw/114/public/113), (b), Dec. 18, 2015, [129 Stat. 3066](https://www.govinfo.gov/link/statute/129/3066); [Pub. L. 115–123, div. D, title I, § 40302(a)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 145](https://www.govinfo.gov/link/statute/132/145); [Pub. L. 116–94, div. Q, title I, § 112(a)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3228](https://www.govinfo.gov/link/statute/133/3228); [Pub. L. 116–260, div. EE, title I, § 105(a)](https://www.govinfo.gov/link/plaw/116/public/260), (b), Dec. 27, 2020, [134 Stat. 3041](https://www.govinfo.gov/link/statute/134/3041).)*

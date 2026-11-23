@@ -3,9 +3,10 @@ title: "Section 5322 - Grants to tribal organizations or tribes"
 usc_title: 25
 usc_section: "5322"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 5322"
-generated_at: "2026-03-30T02:54:52.865Z"
+generated_at: "2026-11-23T20:26:25.723Z"
+status: "active"
 ---
 
 # § 5322. Grants to tribal organizations or tribes
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:52.865Z"
 - **(e)** The Secretary is authorized, upon the request of an Indian tribe, to make a grant to any tribal organization for—
   - **(1)** obtaining technical assistance from providers designated by the tribal organization, including tribal organizations that operate mature contracts, for the purposes of program planning and evaluation, including the development of any management systems necessary for contract management, and the development of cost allocation plans for indirect cost rates; and
   - **(2)** the planning, designing, monitoring, and evaluating of Federal programs serving the tribe, including Federal administrative functions.
+
+## Source Credit
+
+*([Pub. L. 93–638, title I, § 103](https://www.govinfo.gov/link/plaw/93/public/638), formerly § 104, Jan. 4, 1975, [88 Stat. 2207](https://www.govinfo.gov/link/statute/88/2207); renumbered § 103 and amended [Pub. L. 100–472, title II, § 202](https://www.govinfo.gov/link/plaw/100/public/472), Oct. 5, 1988, [102 Stat. 2289](https://www.govinfo.gov/link/statute/102/2289); [Pub. L. 101–644, title II, § 203(g)(1)](https://www.govinfo.gov/link/plaw/101/public/644), Nov. 29, 1990, [104 Stat. 4666](https://www.govinfo.gov/link/statute/104/4666).)*

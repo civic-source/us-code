@@ -3,12 +3,17 @@ title: "Section 202a - Summer homes and cottages"
 usc_title: 16
 usc_section: "202a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 202a"
-generated_at: "2026-03-30T02:54:22.741Z"
+generated_at: "2026-11-23T20:26:19.383Z"
+status: "active"
 ---
 
 # § 202a. Summer homes and cottages
 
 After January 26, 1931 , no permit, license, lease, or other authorization for the use of land within the Lassen Volcanic National Park, California, for the erection and maintenance of summer homes or cottages shall be granted or made: Provided, however , That the Secretary of the Interior may, in his discretion, renew any permit, license, lease, or other authorization for such purpose granted or made prior to January 26, 1931 .
 
+
+## Source Credit
+
+*(Jan. 26, 1931, ch. 47, § 3, [46 Stat. 1043](https://www.govinfo.gov/link/statute/46/1043).)*

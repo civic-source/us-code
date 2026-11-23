@@ -3,9 +3,10 @@ title: "Section 70904 - Governing body"
 usc_title: 36
 usc_section: "70904"
 chapter: 709
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 70904"
-generated_at: "2026-03-30T02:55:44.699Z"
+generated_at: "2026-11-23T20:26:58.906Z"
+status: "active"
 ---
 
 # § 70904. Governing body
@@ -32,3 +33,31 @@ generated_at: "2026-03-30T02:55:44.699Z"
     - **(A)** the chair of the board;
     - **(B)** the executive secretary of the board; and
     - **(C)** the treasurer of the board.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 70904(a) | 36:278(a)–(c), (e). | Aug. 30, 1950, ch. 823, § 8 , 64 Stat. 565 . |
+| 70904(b) | 36:278(d). |  |
+
+
+Board of Directors
+
+Officers
+
+Governing Committee.—
+
+Historical and Revision Notes
+
+70904(a)
+
+Aug. 30, 1950, ch. 823, § 8
+
+64 Stat. 565
+
+70904(b)
+
+Governing Committee
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1357](https://www.govinfo.gov/link/statute/112/1357); [Pub. L. 116–7, § 5](https://www.govinfo.gov/link/plaw/116/public/7), Feb. 21, 2019, [133 Stat. 479](https://www.govinfo.gov/link/statute/133/479).)*

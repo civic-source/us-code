@@ -3,9 +3,10 @@ title: "Section 7902 - Scholarship program"
 usc_title: 38
 usc_section: "7902"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7902"
-generated_at: "2026-03-30T02:55:53.536Z"
+generated_at: "2026-11-23T20:27:02.055Z"
+status: "active"
 ---
 
 # § 7902. Scholarship program
@@ -40,3 +41,21 @@ generated_at: "2026-03-30T02:55:53.536Z"
   - **(1)** The Secretary may offer a compensated internship to an individual for whom financial assistance is provided under this section during a period between academic semesters or terms leading to the degree for which such assistance is provided. Compensation provided for such an internship shall be in addition to the financial assistance provided under this section.
   - **(2)** An internship under this subsection shall not be counted toward satisfying a period of obligated service under this section.
 - **(g)** An individual who receives a payment of educational assistance under chapter 30, 31, 32, 34, or 35 of this title or chapter 1606 or 1607 of title 10 for a month in which the individual is enrolled in a course of education leading to a doctoral degree in information security is not eligible to receive financial assistance under this section for that month.
+
+Authority
+
+Service Agreement for Scholarship Recipients
+
+Amount of Assistance
+
+Repayment for Period of Unserved Obligated Service
+
+Waiver or Suspension of Compliance
+
+Internships
+
+Ineligibility of Individuals Receiving Montgomery GI Bill Education Assistance Payments
+
+## Source Credit
+
+*(Added [Pub. L. 109–461, title IX, § 903(a)(1)](https://www.govinfo.gov/link/plaw/109/public/461), Dec. 22, 2006, [120 Stat. 3460](https://www.govinfo.gov/link/statute/120/3460).)*

@@ -3,9 +3,10 @@ title: "Section 32 - Earned income"
 usc_title: 26
 usc_section: "32"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 32"
-generated_at: "2026-03-30T02:55:27.591Z"
+generated_at: "2026-11-23T20:26:45.149Z"
+status: "active"
 ---
 
 # § 32. Earned income
@@ -128,3 +129,125 @@ generated_at: "2026-03-30T02:55:27.591Z"
       - **(i)** by substituting “$9,820” for “$4,220”, and
       - **(ii)** by substituting “$11,610” for “$5,280”.
     - **(B)** Subsection (j) shall not apply to any dollar amount specified in this paragraph.
+
+| In the case of an eligible individual with: | The credit percentage is: | The phaseout percentage is: |
+| --- | --- | --- |
+| 1 qualifying child | 34 | 15.98 |
+| 2 qualifying children | 40 | 21.06 |
+| 3 or more qualifying children | 45 | 21.06 |
+| No qualifying children | 7.65 | 7.65 |
+
+| In the case of an eligible individual with: | The earned income amount is: | The phaseout amount is: |
+| --- | --- | --- |
+| 1 qualifying child | $6,330 | $11,610 |
+| 2 or more qualifying children | $8,890 | $11,610 |
+| No qualifying children | $4,220 | $5,280 |
+
+
+1 qualifying child
+
+34
+
+2 qualifying children
+
+40
+
+45
+
+No qualifying children
+
+7.65
+
+1 qualifying child
+
+$6,330
+
+$8,890
+
+No qualifying children
+
+$4,220
+
+Recapture of excess advance payments
+
+Reconciliation of payments advanced and credit allowed
+
+In general
+
+Supplemental child credit
+
+Coordination with section 24
+
+In general
+
+Rounding
+
+In general
+
+Subsection
+
+Eligible individuals
+
+Qualifying children
+
+In general
+
+Advance payment individuals
+
+In general
+
+Advance payment individuals
+
+In general
+
+Exception
+
+In General
+
+Earned Income.—
+
+In general
+
+Application to joint returns
+
+Special Rules.—
+
+Errors treated as mathematical errors
+
+No effect on determination of gross income, etc
+
+Treatment of Certain Possessions.—
+
+Payments to possessions with mirror code tax systems
+
+Payments to other possessions
+
+Mirror code tax system
+
+Treatment of payments
+
+In General
+
+Earned Income.—
+
+In general
+
+Application to joint returns
+
+Special Rules.—
+
+Errors treated as mathematical error
+
+No effect on determination of gross income, etc
+
+Study
+
+Report.—
+
+Preliminary report
+
+Final report
+
+## Source Credit
+
+*(Added [Pub. L. 94–12, title II, § 204(a)](https://www.govinfo.gov/link/plaw/94/public/12), Mar. 29, 1975, [89 Stat. 30](https://www.govinfo.gov/link/statute/89/30), § 43; amended [Pub. L. 94–164, § 2(c)](https://www.govinfo.gov/link/plaw/94/public/164), Dec. 23, 1975, [89 Stat. 971](https://www.govinfo.gov/link/statute/89/971); [Pub. L. 94–455, title IV, § 401(c)(1)(B)](https://www.govinfo.gov/link/plaw/94/public/455), (2), Oct. 4, 1976, [90 Stat. 1557](https://www.govinfo.gov/link/statute/90/1557); [Pub. L. 95–600, title I](https://www.govinfo.gov/link/plaw/95/public/600), §§ 104(a)–(e), 105(a), Nov. 6, 1978, [92 Stat. 2772](https://www.govinfo.gov/link/statute/92/2772), 2773; [Pub. L. 95–615, § 202(g)(5)](https://www.govinfo.gov/link/plaw/95/public/615), formerly § 202(f)(5), Nov. 8, 1978, [92 Stat. 3100](https://www.govinfo.gov/link/statute/92/3100), renumbered § 202(g)(5) and amended [Pub. L. 96–222, title I](https://www.govinfo.gov/link/plaw/96/public/222), §§ 101(a)(1), (2)(E), 108(a)(1)(A), Apr. 1, 1980, [94 Stat. 194](https://www.govinfo.gov/link/statute/94/194), 195, 223; [Pub. L. 97–34, title I](https://www.govinfo.gov/link/plaw/97/public/34), §§ 111(b)(2), 112(b)(3), Aug. 13, 1981, [95 Stat. 194](https://www.govinfo.gov/link/statute/95/194), 195; [Pub. L. 98–21, title I, § 124(c)(4)(B)](https://www.govinfo.gov/link/plaw/98/public/21), Apr. 20, 1983, [97 Stat. 91](https://www.govinfo.gov/link/statute/97/91); renumbered § 32 and amended [Pub. L. 98–369, div. A, title IV](https://www.govinfo.gov/link/plaw/98/public/369), §§ 423(c)(3), 471(c), title X, § 1042(a)–(d)(2), July 18, 1984, [98 Stat. 801](https://www.govinfo.gov/link/statute/98/801), 826, 1043; [Pub. L. 99–514, title I](https://www.govinfo.gov/link/plaw/99/public/514), §§ 104(b)(1)(B), 111(a)–(d)(1), title XII, § 1272(d)(4), title XIII, § 1301(j)(8), Oct. 22, 1986, [100 Stat. 2104](https://www.govinfo.gov/link/statute/100/2104), 2107, 2594, 2658; [Pub. L. 100–647, title I](https://www.govinfo.gov/link/plaw/100/public/647), §§ 1001(c), 1007(g)(12), Nov. 10, 1988, [102 Stat. 3350](https://www.govinfo.gov/link/statute/102/3350), 3436; [Pub. L. 101–508, title XI](https://www.govinfo.gov/link/plaw/101/public/508), §§ 11101(d)(1)(B), 11111(a), (b), (e), Nov. 5, 1990, [104 Stat. 1388–405](https://www.govinfo.gov/link/statute/104/1388), 1388–408, 1388–412, 1388–413; [Pub. L. 103–66, title XIII, § 13131(a)](https://www.govinfo.gov/link/plaw/103/public/66) –(d)(1), Aug. 10, 1993, [107 Stat. 433–435](https://www.govinfo.gov/link/statute/107/433); [Pub. L. 103–465, title VII](https://www.govinfo.gov/link/plaw/103/public/465), §§ 721(a), 722(a), 723(a), 742(a), Dec. 8, 1994, [108 Stat. 5002](https://www.govinfo.gov/link/statute/108/5002), 5003, 5010; [Pub. L. 104–7, § 4(a)](https://www.govinfo.gov/link/plaw/104/public/7), Apr. 11, 1995, [109 Stat. 95](https://www.govinfo.gov/link/statute/109/95); [Pub. L. 104–193, title IV, § 451(a)](https://www.govinfo.gov/link/plaw/104/public/193), (b), title IX, §§ 909(a), (b), 910(a), (b), Aug. 22, 1996, [110 Stat. 2276](https://www.govinfo.gov/link/statute/110/2276), 2277, 2351, 2352; [Pub. L. 105–34, title I, § 101(b)](https://www.govinfo.gov/link/plaw/105/public/34), title III, § 312(d)(2), title X, § 1085(a)(1), (b)–(d), Aug. 5, 1997, [111 Stat. 798](https://www.govinfo.gov/link/statute/111/798), 840, 955, 956; [Pub. L. 105–206, title VI](https://www.govinfo.gov/link/plaw/105/public/206), §§ 6003(b), 6010(p)(1), (2), 6021(a), (b), July 22, 1998, [112 Stat. 791](https://www.govinfo.gov/link/statute/112/791), 816, 817, 823, 824; [Pub. L. 106–170, title IV, § 412(a)](https://www.govinfo.gov/link/plaw/106/public/170), Dec. 17, 1999, [113 Stat. 1917](https://www.govinfo.gov/link/statute/113/1917); [Pub. L. 107–16, title II, § 201(c)(3)](https://www.govinfo.gov/link/plaw/107/public/16), title III, § 303(a)–(f), (h), June 7, 2001, [115 Stat. 47](https://www.govinfo.gov/link/statute/115/47), 55–57; [Pub. L. 107–147, title IV, § 416(a)(1)](https://www.govinfo.gov/link/plaw/107/public/147), Mar. 9, 2002, [116 Stat. 55](https://www.govinfo.gov/link/statute/116/55); [Pub. L. 108–311, title I, § 104(b)](https://www.govinfo.gov/link/plaw/108/public/311), title II, § 205, Oct. 4, 2004, [118 Stat. 1169](https://www.govinfo.gov/link/statute/118/1169), 1176; [Pub. L. 109–135, title III, § 302(a)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2608](https://www.govinfo.gov/link/statute/119/2608); [Pub. L. 109–432, div. A, title I, § 106(a)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 2938](https://www.govinfo.gov/link/statute/120/2938); [Pub. L. 110–234, title IV, § 4002(b)(1)(B)](https://www.govinfo.gov/link/plaw/110/public/234), (2)(O), May 22, 2008, [122 Stat. 1096](https://www.govinfo.gov/link/statute/122/1096), 1097; [Pub. L. 110–245, title I, § 102(a)](https://www.govinfo.gov/link/plaw/110/public/245), June 17, 2008, [122 Stat. 1625](https://www.govinfo.gov/link/statute/122/1625); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, § 4002(b)(1)(B), (2)(O), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1857, 1858; [Pub. L. 111–5, div. B, title I, § 1002(a)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 312](https://www.govinfo.gov/link/statute/123/312); [Pub. L. 111–226, title II, § 219(a)(2)](https://www.govinfo.gov/link/plaw/111/public/226), Aug. 10, 2010, [124 Stat. 2403](https://www.govinfo.gov/link/statute/124/2403); [Pub. L. 111–312, title I, § 103(c)](https://www.govinfo.gov/link/plaw/111/public/312), Dec. 17, 2010, [124 Stat. 3299](https://www.govinfo.gov/link/statute/124/3299); [Pub. L. 112–240, title I, § 103(c)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2319](https://www.govinfo.gov/link/statute/126/2319); [Pub. L. 113–295, div. A, title II](https://www.govinfo.gov/link/plaw/113/public/295), §§ 206(a), 221(a)(3), Dec. 19, 2014, [128 Stat. 4027](https://www.govinfo.gov/link/statute/128/4027), 4037; [Pub. L. 114–113, div. Q, title I, § 103(a)](https://www.govinfo.gov/link/plaw/114/public/113) –(c), title II, § 204(a), Dec. 18, 2015, [129 Stat. 3044](https://www.govinfo.gov/link/statute/129/3044), 3045, 3081; [Pub. L. 115–97, title I, § 11002(d)(1)(D)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2060](https://www.govinfo.gov/link/statute/131/2060); [Pub. L. 115–141, div. U, title I, § 101(a)](https://www.govinfo.gov/link/plaw/115/public/141), title IV, § 401(b)(4), Mar. 23, 2018, [132 Stat. 1160](https://www.govinfo.gov/link/statute/132/1160), 1201; [Pub. L. 117–2, title IX](https://www.govinfo.gov/link/plaw/117/public/2), §§ 9621(a), 9622(a), 9623(a), (b), 9624(a), (b), Mar. 11, 2021, [135 Stat. 152–154](https://www.govinfo.gov/link/statute/135/152).)*

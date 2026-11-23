@@ -3,9 +3,10 @@ title: "Section 20504 - Rights and procedures"
 usc_title: 10
 usc_section: "20504"
 chapter: 2011
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 20504"
-generated_at: "2026-03-30T02:53:38.282Z"
+generated_at: "2026-11-23T20:25:52.518Z"
+status: "active"
 ---
 
 # § 20504. Rights and procedures
@@ -16,3 +17,11 @@ generated_at: "2026-03-30T02:53:38.282Z"
   - **(3)** shall be allowed to appear either in person or through electronic means and to be represented by counsel at proceedings before the board; and
   - **(4)** shall be allowed full access to, and shall be furnished copies of, records relevant to the officer’s case, except that the board shall withhold any record that the Secretary determines should be withheld in the interest of national security.
 - **(b)** When a record is withheld under subsection (a)(4), the officer whose case is under consideration shall, to the extent that the interest of national security permits, be furnished a summary of the record so withheld.
+
+In General
+
+Summary of Records Withheld in Interest of National Security
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title XVII, § 1719](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 661](https://www.govinfo.gov/link/statute/137/661).)*

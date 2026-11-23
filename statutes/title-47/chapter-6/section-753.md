@@ -3,9 +3,10 @@ title: "Section 753 - Implementation of policy"
 usc_title: 47
 usc_section: "753"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 753"
-generated_at: "2026-03-30T02:56:24.526Z"
+generated_at: "2026-11-23T20:27:28.953Z"
+status: "active"
 ---
 
 # § 753. Implementation of policy
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:24.526Z"
   - **(3)** exercise his authority in a manner which seeks to obtain coordinated and efficient use of the electromagnetic spectrum and orbital space, and to ensure the technical compatibility of the space segment with existing communications facilities in the United States and in foreign countries; and
   - **(4)** omitted.
 - **(b)** to (d) Omitted.
+
+## Source Credit
+
+*([Pub. L. 87–624, title V, § 504](https://www.govinfo.gov/link/plaw/87/public/624), as added [Pub. L. 95–564](https://www.govinfo.gov/link/plaw/95/public/564), Nov. 1, 1978, [92 Stat. 2394](https://www.govinfo.gov/link/statute/92/2394).)*

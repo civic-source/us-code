@@ -3,9 +3,10 @@ title: "Section 296p - Nurse education, practice, quality, and retention grants"
 usc_title: 42
 usc_section: "296p"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 296p"
-generated_at: "2026-03-30T02:56:10.783Z"
+generated_at: "2026-11-23T20:27:20.409Z"
+status: "active"
 ---
 
 # § 296p. Nurse education, practice, quality, and retention grants
@@ -32,3 +33,11 @@ generated_at: "2026-03-30T02:56:10.783Z"
 - **(d)** The Secretary may award grants to or enter into contracts with eligible entities to address other areas that are of high priority to nurse education, practice, and retention, as determined by the Secretary.
 - **(e)** As part of the report on nursing workforce programs described in section 296e(i) of this title , the Secretary shall include a report on the grants awarded and the contracts entered into under this section. Each such report shall identify the overall number of such grants and contracts and provide an explanation of why each such grant or contract will meet the priority need of the nursing workforce.
 - **(f)** For purposes of this section, the term “eligible entity” includes an accredited school of nursing, as defined in section 296(2) of this title , a health care facility, including federally qualified health centers or nurse-managed health clinics, or a partnership of such a school and facility a health care facility, or a partnership of such a school and facility. 1 1 So in original.
+
+In General
+
+Priority Areas
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VIII, § 831, as added [Pub. L. 105–392, title I, § 123(4)](https://www.govinfo.gov/link/plaw/105/public/392), Nov. 13, 1998, [112 Stat. 3568](https://www.govinfo.gov/link/statute/112/3568); amended [Pub. L. 107–205, title II, § 201](https://www.govinfo.gov/link/plaw/107/public/205), Aug. 1, 2002, [116 Stat. 815](https://www.govinfo.gov/link/statute/116/815); [Pub. L. 111–148, title V, § 5309(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 629](https://www.govinfo.gov/link/statute/124/629); [Pub. L. 116–136, div. A, title III, § 3404(a)(6)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 393](https://www.govinfo.gov/link/statute/134/393).)*

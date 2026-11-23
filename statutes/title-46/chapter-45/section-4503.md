@@ -3,9 +3,10 @@ title: "Section 4503 - Fishing, fish tender, and fish processing vessel certific
 usc_title: 46
 usc_section: "4503"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 4503"
-generated_at: "2026-03-30T02:56:15.548Z"
+generated_at: "2026-11-23T20:27:27.097Z"
+status: "active"
 ---
 
 # § 4503. Fishing, fish tender, and fish processing vessel certification
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:56:15.548Z"
     - **(A)** The vessel’s keel is laid.
     - **(B)** Construction identifiable with the vessel has begun and assembly of that vessel has commenced comprising of at least 50 metric tons or one percent of the estimated mass of all structural material, whichever is less.
   - **(2)** In the case of a vessel greater than 79 feet overall in length, for purposes of paragraph (1)(A) a keel is deemed to be laid when a marine surveyor affirms that a structure adequate for serving as a keel for such vessel is in place and identified for use in the construction of such vessel.
+
+## Source Credit
+
+*(Added [Pub. L. 98–364, title IV, § 402(7)(C)](https://www.govinfo.gov/link/plaw/98/public/364), July 17, 1984, [98 Stat. 447](https://www.govinfo.gov/link/statute/98/447); amended [Pub. L. 98–557, § 33(b)](https://www.govinfo.gov/link/plaw/98/public/557), Oct. 30, 1984, [98 Stat. 2876](https://www.govinfo.gov/link/statute/98/2876); [Pub. L. 100–424, § 2(a)](https://www.govinfo.gov/link/plaw/100/public/424), Sept. 9, 1988, [102 Stat. 1587](https://www.govinfo.gov/link/statute/102/1587); [Pub. L. 111–281, title VI, § 604(e)(1)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2966](https://www.govinfo.gov/link/statute/124/2966); [Pub. L. 112–213, title III, § 305(c)](https://www.govinfo.gov/link/plaw/112/public/213), Dec. 20, 2012, [126 Stat. 1564](https://www.govinfo.gov/link/statute/126/1564); [Pub. L. 114–120, title III, § 318(a)](https://www.govinfo.gov/link/plaw/114/public/120), Feb. 8, 2016, [130 Stat. 63](https://www.govinfo.gov/link/statute/130/63); [Pub. L. 114–328, div. C, title XXXV, § 3503(a)](https://www.govinfo.gov/link/plaw/114/public/328), (b)(2), Dec. 23, 2016, [130 Stat. 2775](https://www.govinfo.gov/link/statute/130/2775); [Pub. L. 115–282, title V](https://www.govinfo.gov/link/plaw/115/public/282), §§ 507, 508(a), (b), Dec. 4, 2018, [132 Stat. 4272](https://www.govinfo.gov/link/statute/132/4272); [Pub. L. 117–263, div. K, title CXV, § 11509(a)(2)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4137](https://www.govinfo.gov/link/statute/136/4137).)*

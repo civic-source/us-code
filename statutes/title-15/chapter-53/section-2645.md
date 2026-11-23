@@ -3,9 +3,10 @@ title: "Section 2645 - Submission to State Governor"
 usc_title: 15
 usc_section: "2645"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2645"
-generated_at: "2026-03-30T02:54:08.179Z"
+generated_at: "2026-11-23T20:26:04.235Z"
+status: "active"
 ---
 
 # § 2645. Submission to State Governor
@@ -57,3 +58,7 @@ generated_at: "2026-03-30T02:54:08.179Z"
     - **(B)** A list containing each local educational agency whose management plan was submitted and disapproved, and which remains disapproved, as of October 9, 1989 .
     - **(C)** A list containing each local educational agency that submitted a management plan after May 9, 1989 , and before October 10, 1989 .
     - **(D)** A list containing each local educational agency that failed to submit a management plan as of October 9, 1989 .
+
+## Source Credit
+
+*([Pub. L. 94–469, title II, § 205](https://www.govinfo.gov/link/plaw/94/public/469), as added [Pub. L. 99–519, § 2](https://www.govinfo.gov/link/plaw/99/public/519), Oct. 22, 1986, [100 Stat. 2979](https://www.govinfo.gov/link/statute/100/2979); amended [Pub. L. 100–368](https://www.govinfo.gov/link/plaw/100/public/368), §§ 1(a), 2, July 18, 1988, [102 Stat. 829](https://www.govinfo.gov/link/statute/102/829), 831.)*

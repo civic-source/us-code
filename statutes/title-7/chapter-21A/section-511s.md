@@ -3,9 +3,10 @@ title: "Section 511s - Grading of tobacco"
 usc_title: 7
 usc_section: "511s"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 511s"
-generated_at: "2026-03-30T02:53:42.288Z"
+generated_at: "2026-11-23T20:25:41.049Z"
+status: "active"
 ---
 
 # § 511s. Grading of tobacco
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:42.288Z"
     - **(A)** If the Secretary determines that mandatory grading is favored by a majority of the producers of a kind of tobacco voting in the referendum, the Secretary is authorized and directed to ensure that the kind of tobacco is graded at the time of sale effective for the 2002 and subsequent marketing years.
     - **(B)** To the maximum extent practicable, the Secretary shall establish, collect, and use fees for the grading of tobacco required under this section in the same manner as user fees for the grading of tobacco sold at auction authorized under the Tobacco Inspection Act ( 7 U.S.C. 511 et seq.).
   - **(3)** A determination by the Secretary under this section shall not be subject to judicial review.
+
+## Source Credit
+
+*([Pub. L. 107–76, title VII, § 759(a)](https://www.govinfo.gov/link/plaw/107/public/76), Nov. 28, 2001, [115 Stat. 741](https://www.govinfo.gov/link/statute/115/741).)*

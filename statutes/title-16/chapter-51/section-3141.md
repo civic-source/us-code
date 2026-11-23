@@ -3,9 +3,10 @@ title: "Section 3141 - Overall study program"
 usc_title: 16
 usc_section: "3141"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3141"
-generated_at: "2026-03-30T02:54:23.009Z"
+generated_at: "2026-11-23T20:26:20.630Z"
+status: "active"
 ---
 
 # § 3141. Overall study program
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:23.009Z"
 - **(d)** In the course of the study, the Secretary shall consult with the Secretary of Energy and other Federal agencies, the State of Alaska, Native Village and Regional Corporations, the North Slope Borough, the Alaska Land Use Council and the Government of Canada. The Secretary shall provide an opportunity for public review and comment on a draft study and proposed findings prior to their final approval.
 - **(e)** The Secretary shall submit the study and his findings to the President and the Congress no later than eight years after December 2, 1980 . The Secretary shall submit annual reports to Congress on the progress in carrying out this subchapter.
 - **(f)** Nothing in this subchapter shall be construed as impeding, delaying, or otherwise affecting the selection and conveyance of land to the State pursuant to the Alaska Statehood Act, or any other Federal law referred to in section 3102(3)(A) of this title , and to the Natives pursuant to the Alaska Native Claims Settlement Act [ 43 U.S.C. 1601 et seq.] and this Act.
+
+## Source Credit
+
+*([Pub. L. 96–487, title X, § 1001](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2448](https://www.govinfo.gov/link/statute/94/2448).)*

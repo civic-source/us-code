@@ -3,9 +3,10 @@ title: "Section 772 - Annuity of the Comptroller General"
 usc_title: 31
 usc_section: "772"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 772"
-generated_at: "2026-03-30T02:55:34.047Z"
+generated_at: "2026-11-23T20:26:51.693Z"
+status: "active"
 ---
 
 # § 772. Annuity of the Comptroller General
@@ -23,3 +24,62 @@ generated_at: "2026-03-30T02:55:34.047Z"
     - **(A)** 3.5 percent of the pay received as Comptroller General deducted as a contribution to the annuity if electing survivor benefits under this subchapter; or
     - **(B)** 8 percent of the pay received as Comptroller General deducted as a contribution to the annuity if not electing survivor benefits under this subchapter.
 - **(e)** A Comptroller General receiving benefits under this section may not receive retirement or disability benefits under another law of the United States.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 772(a) | 31:43(2d par. 1st sentence). | June 10, 1921, ch. 18 , 42 Stat. 20 , § 303(2d par. 1st, 2d, last sentences); added July 28, 1953, ch. 256 , 67 Stat. 229 . |
+| 772(b) | 31:43(2d par. 2d sentence). |  |
+| 772(c) | 31:43(3d par. 1st, 2d sentences, 3d sentence words before comma). | June 10, 1921, ch. 18 , 42 Stat. 20 , § 303(3d par. 1st–3d sentences); added July 26, 1966 , Pub. L. 89–520, § 1 , 80 Stat. 329 ; Oct. 25, 1978 , Pub. L. 95–512, § 4(b)(1) , 92 Stat. 1800 . |
+| 772(d) | 31:43(2d par. 4th sentence, 3d par. last sentence). | June 10, 1921, ch. 18 , 42 Stat. 20 , § 303(2d par. 4th sentence, 3d par. last sentence); added Oct. 25, 1978 , Pub. L. 95–512, § 4(a) , (b)(2), 92 Stat. 1800 . |
+| 772(e) | 31:43(2d par. last sentence, 3d par. 3d sentence words after comma). |  |
+
+
+Historical and Revision Notes
+
+772(a)
+
+June 10, 1921, ch. 18
+
+42 Stat. 20
+
+July 28, 1953, ch. 256
+
+67 Stat. 229
+
+772(b)
+
+772(c)
+
+June 10, 1921, ch. 18
+
+42 Stat. 20
+
+July 26, 1966
+
+Pub. L. 89–520, § 1
+
+80 Stat. 329
+
+Oct. 25, 1978
+
+Pub. L. 95–512, § 4(b)(1)
+
+92 Stat. 1800
+
+772(d)
+
+June 10, 1921, ch. 18
+
+42 Stat. 20
+
+Oct. 25, 1978
+
+Pub. L. 95–512, § 4(a)
+
+92 Stat. 1800
+
+772(e)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 902](https://www.govinfo.gov/link/statute/96/902); [Pub. L. 100–426, title II, § 203](https://www.govinfo.gov/link/plaw/100/public/426), Sept. 9, 1988, [102 Stat. 1600](https://www.govinfo.gov/link/statute/102/1600); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814).)*

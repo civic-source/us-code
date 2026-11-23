@@ -3,9 +3,10 @@ title: "Section 4953 - Selection and assignment of volunteers"
 usc_title: 42
 usc_section: "4953"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4953"
-generated_at: "2026-03-30T02:56:11.211Z"
+generated_at: "2026-11-23T20:27:22.430Z"
+status: "active"
 ---
 
 # § 4953. Selection and assignment of volunteers
@@ -59,3 +60,11 @@ generated_at: "2026-03-30T02:56:11.211Z"
 - **(g)** Volunteers under this part shall not be assigned to work in a program or project in any community unless the application for such program or project contains evidence of local support and has been submitted to the Governor or other chief executive officer of the State concerned. In the event of a timely request in writing, supported by a statement of reasons, by the Governor or other chief executive officer of the State concerned, the Director shall terminate a program or proj­ect or the assignment of a volunteer to a program or project not later than 30 days after the date such request is received by the Director, or at such later date as is agreed upon by the Director and such Governor or other chief executive officer.
 - **(h)** The Director is encouraged to enter into agreements with other Federal agencies to use VISTA volunteers in furtherance of program objectives that are consistent with the purposes described in section 4951 of this title .
 - **(i)** The Director may enter into agreements under which public and private nonprofit organizations, with sufficient financial capacity and size, pay for all or a portion of the costs of supporting the service of volunteers under this part.
+
+In general
+
+Retroactive effective date
+
+## Source Credit
+
+*([Pub. L. 93–113, title I, § 103](https://www.govinfo.gov/link/plaw/93/public/113), Oct. 1, 1973, [87 Stat. 396](https://www.govinfo.gov/link/statute/87/396); [Pub. L. 96–143, § 2](https://www.govinfo.gov/link/plaw/96/public/143), Dec. 13, 1979, [93 Stat. 1074](https://www.govinfo.gov/link/statute/93/1074); [Pub. L. 98–288, § 4(a)](https://www.govinfo.gov/link/plaw/98/public/288) –(c)(1), (d), May 21, 1984, [98 Stat. 189](https://www.govinfo.gov/link/statute/98/189), 190; [Pub. L. 99–551, § 3(a)](https://www.govinfo.gov/link/plaw/99/public/551), Oct. 27, 1986, [100 Stat. 3071](https://www.govinfo.gov/link/statute/100/3071); [Pub. L. 101–204, title I, § 101(a)](https://www.govinfo.gov/link/plaw/101/public/204), (b), (d)(2), title VII, § 701, Dec. 7, 1989, [103 Stat. 1807](https://www.govinfo.gov/link/statute/103/1807), 1809, 1811, 1820; [Pub. L. 103–82, title III, § 323](https://www.govinfo.gov/link/plaw/103/public/82), title IV, § 405(a)(2)–(4), Sept. 21, 1993, [107 Stat. 899](https://www.govinfo.gov/link/statute/107/899), 920; [Pub. L. 103–304, § 3(b)(7)](https://www.govinfo.gov/link/plaw/103/public/304), (8), Aug. 23, 1994, [108 Stat. 1568](https://www.govinfo.gov/link/statute/108/1568); [Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(36)(A), (f)(28)(A)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–427, 2681–434; [Pub. L. 111–13, title II, § 2102](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1582](https://www.govinfo.gov/link/statute/123/1582); [Pub. L. 113–128, title V, § 512(h)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1708](https://www.govinfo.gov/link/statute/128/1708).)*

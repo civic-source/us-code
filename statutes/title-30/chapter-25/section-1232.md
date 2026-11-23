@@ -3,9 +3,10 @@ title: "Section 1232 - Reclamation fee"
 usc_title: 30
 usc_section: "1232"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1232"
-generated_at: "2026-03-30T02:55:29.397Z"
+generated_at: "2026-11-23T20:26:34.999Z"
+status: "active"
 ---
 
 # § 1232. Reclamation fee
@@ -176,3 +177,19 @@ generated_at: "2026-03-30T02:55:29.397Z"
       - **(iv)** Any failure to file the report required under clause (i) on or before the date described in such clause shall be treated as a failure to file a report required to be filed under section 6058(a) of title 26 , except that section 6652(e) of title 26 shall be applied with respect to any such failure by substituting “$100” for “$25”. The preceding sentence shall not apply if the Secretary of the Treasury or the Secretary’s delegate determines that reasonable diligence has been exercised by the trustees of such plan in attempting to timely file such report.
     - **(H)** For purposes of this paragraph, the term “1974 UMWA Pension Plan” has the meaning given the term in section 9701(a)(3) of title 26 , but without regard to the limitation on participation to individuals who retired in 1976 and thereafter.
   - **(5)** Funds shall be transferred under paragraphs (1) and (2) beginning in fiscal year 2008 and each fiscal year thereafter, and shall remain available until expended.
+
+Eligibility of certain retirees
+
+Requirements for transfer
+
+In general
+
+Subsection
+
+In general
+
+Reporting requirements
+
+## Source Credit
+
+*([Pub. L. 95–87, title IV, § 402](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 457](https://www.govinfo.gov/link/statute/91/457); [Pub. L. 100–34, title I, § 101](https://www.govinfo.gov/link/plaw/100/public/34), May 7, 1987, [101 Stat. 300](https://www.govinfo.gov/link/statute/101/300); [Pub. L. 101–508, title VI](https://www.govinfo.gov/link/plaw/101/public/508), §§ 6003, 6004, Nov. 5, 1990, [104 Stat. 1388–290](https://www.govinfo.gov/link/statute/104/1388), 1388–291; [Pub. L. 102–486, title XIX, § 19143(b)(1)](https://www.govinfo.gov/link/plaw/102/public/486), (2), (3)(B), title XXV, § 2515, Oct. 24, 1992, [106 Stat. 3056](https://www.govinfo.gov/link/statute/106/3056), 3113; [Pub. L. 108–447, div. E, title I, § 135(a)](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3068](https://www.govinfo.gov/link/statute/118/3068); [Pub. L. 109–13, div. A, title VI, § 6035](https://www.govinfo.gov/link/plaw/109/public/13), May 11, 2005, [119 Stat. 289](https://www.govinfo.gov/link/statute/119/289); [Pub. L. 109–54, title I, § 129](https://www.govinfo.gov/link/plaw/109/public/54), Aug. 2, 2005, [119 Stat. 525](https://www.govinfo.gov/link/statute/119/525); [Pub. L. 109–234, title VII, § 7007](https://www.govinfo.gov/link/plaw/109/public/234), June 15, 2006, [120 Stat. 483](https://www.govinfo.gov/link/statute/120/483); [Pub. L. 109–432, div. C, title II, § 202](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 3008](https://www.govinfo.gov/link/statute/120/3008); [Pub. L. 110–343, div. C, title VI, § 602](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3911](https://www.govinfo.gov/link/statute/122/3911); [Pub. L. 114–223, div. C, § 167(b)](https://www.govinfo.gov/link/plaw/114/public/223), (c), as added [Pub. L. 114–254, div. A, § 101(3)](https://www.govinfo.gov/link/plaw/114/public/254), Dec. 10, 2016, [130 Stat. 1009](https://www.govinfo.gov/link/statute/130/1009), 1010; [Pub. L. 114–223, div. C, § 202(b)](https://www.govinfo.gov/link/plaw/114/public/223), as added [Pub. L. 115–30](https://www.govinfo.gov/link/plaw/115/public/30), par. (2), Apr. 28, 2017, [131 Stat. 134](https://www.govinfo.gov/link/statute/131/134); [Pub. L. 115–31, div. M, title I, § 104(a)](https://www.govinfo.gov/link/plaw/115/public/31), May 5, 2017, [131 Stat. 803](https://www.govinfo.gov/link/statute/131/803); [Pub. L. 116–94, div. M](https://www.govinfo.gov/link/plaw/116/public/94), §§ 102(a), 103, Dec. 20, 2019, [133 Stat. 3091](https://www.govinfo.gov/link/statute/133/3091), 3094; [Pub. L. 116–260, div. Y, § 2(a)](https://www.govinfo.gov/link/plaw/116/public/260), (b), Dec. 27, 2020, [134 Stat. 2417](https://www.govinfo.gov/link/statute/134/2417), 2418; [Pub. L. 117–58, div. D, title VII, § 40702](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1092](https://www.govinfo.gov/link/statute/135/1092).)*

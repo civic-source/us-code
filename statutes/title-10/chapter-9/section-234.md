@@ -3,9 +3,10 @@ title: "Section 234 - POW/MIA activities: display of budget information"
 usc_title: 10
 usc_section: "234"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 234"
-generated_at: "2026-03-30T02:53:38.048Z"
+generated_at: "2026-11-23T20:25:50.886Z"
+status: "active"
 ---
 
 # § 234. POW/MIA activities: display of budget information
@@ -26,3 +27,15 @@ generated_at: "2026-03-30T02:53:38.048Z"
 - **(d)** In this section:
   - **(1)** The term “defense budget materials”, with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
   - **(2)** The term “budget”, with respect to a fiscal year, means the budget for that fiscal year that is submitted to Congress by the President under section 1105(a) of title 31 .
+
+Submission With Annual Budget Justification Documents
+
+Requirements for Budget Display
+
+Department of Defense POW/MIA Accounting and Recovery Organizations
+
+Other Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 109–364, div. A, title V, § 563(a)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2221](https://www.govinfo.gov/link/statute/120/2221).)*

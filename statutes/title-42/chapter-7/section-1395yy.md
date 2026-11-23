@@ -3,9 +3,10 @@ title: "Section 1395yy - Payment to skilled nursing facilities for routine servi
 usc_title: 42
 usc_section: "1395yy"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1395yy"
-generated_at: "2026-03-30T02:56:11.023Z"
+generated_at: "2026-11-23T20:27:21.466Z"
+status: "active"
 ---
 
 # § 1395yy. Payment to skilled nursing facilities for routine service costs
@@ -205,3 +206,37 @@ generated_at: "2026-03-30T02:56:11.023Z"
   - **(12)**
     - **(A)** The Secretary shall apply to the measures applied under this subsection and the data submitted under subsection (e)(6) a process to validate such measures and data, as appropriate, which may be similar to the process specified in section 1395ww(b)(3)(B)(viii)(XI) of this title for validating inpatient hospital measures.
     - **(B)** For purposes of carrying out this paragraph, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund established under section 1395i of this title , of $5,000,000 to the Centers for Medicare & Medicaid Services Program Management Account for each of fiscal years 2023 through 2025, to remain available until expended.
+
+(aa) skilled nursing facilities with the highest rankings under paragraph (4)(B) receive the highest value-based incentive payment amounts under subparagraph (B);
+
+(bb) skilled nursing facilities with the lowest rankings under paragraph (4)(B) receive the lowest value-based incentive payment amounts under subparagraph (B); and
+
+(cc) in the case of skilled nursing facilities in the lowest 40 percent of the ranking under paragraph (4)(B), the payment rate under subparagraph (A) for services furnished by such facility during such fiscal year shall be less than the payment rate for such services for such fiscal year that would otherwise apply under subsection (e)(4)(G) without application of this subsection; and
+
+In general
+
+Certain demonstration projects
+
+“The amendments made by subsection (a) [amending this section] shall be effective as if included in the enactment of section 4432(a) of BBA [the Balanced Budget Act of 1997, Pub. L. 105–33 ].
+
+“Notwithstanding the amendments made by subsection (a) [amending this section], for purposes of making payments for covered skilled nursing facility services under section 1888(e) of the Social Security Act ( 42 U.S.C. 1395yy(e) ) for fiscal year 2001, the Federal per diem rate referred to in paragraph (4)(E)(ii) of such section—
+
+Study
+
+Report
+
+Audit
+
+Report
+
+In General
+
+Requirement for Skilled Nursing Facility Wage Data
+
+Development of proposal
+
+Reports
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1888, as added [Pub. L. 98–369, div. B, title III, § 2319(b)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1082](https://www.govinfo.gov/link/statute/98/1082); amended [Pub. L. 99–272, title IX](https://www.govinfo.gov/link/plaw/99/public/272), §§ 9126(a), (b), 9219(b)(1)(C), Apr. 7, 1986, [100 Stat. 168](https://www.govinfo.gov/link/statute/100/168), 170, 182; [Pub. L. 99–514, title XVIII, § 1895(b)(7)(A)](https://www.govinfo.gov/link/plaw/99/public/514), (B), Oct. 22, 1986, [100 Stat. 2933](https://www.govinfo.gov/link/statute/100/2933); [Pub. L. 100–203, title IV, § 4201(b)(2)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–174](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 101–508, title IV, § 4008(e)(2)](https://www.govinfo.gov/link/plaw/101/public/508), (h)(2)(A)(ii), Nov. 5, 1990, [104 Stat. 1388–45](https://www.govinfo.gov/link/statute/104/1388), 1388–48; [Pub. L. 103–66, title XIII, § 13503(a)(2)](https://www.govinfo.gov/link/plaw/103/public/66), (3)(A), Aug. 10, 1993, [107 Stat. 578](https://www.govinfo.gov/link/statute/107/578); [Pub. L. 105–33, title IV](https://www.govinfo.gov/link/plaw/105/public/33), §§ 4431, 4432(a), (b)(3), (5)(H), 4511(a)(2)(E), Aug. 5, 1997, [111 Stat. 414](https://www.govinfo.gov/link/statute/111/414), 421, 422, 442; [Pub. L. 106–113, div. B, § 1000(a)(6) [title I, §§ 102(a), 103(a), (b), 104(a), 105(a), title III, § 321(g)(1), (k)(18)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–325 to 1501A–327, 1501A–366, 1501A–368; [Pub. L. 106–554, § 1(a)(6) [title II, § 203(a), title III, § 311(a)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–481, 2763A–497; [Pub. L. 108–173, title IV, § 410(a)](https://www.govinfo.gov/link/plaw/108/public/173), title V, § 511(a), Dec. 8, 2003, [117 Stat. 2271](https://www.govinfo.gov/link/statute/117/2271), 2298; [Pub. L. 110–275, title I, § 149(b)](https://www.govinfo.gov/link/plaw/110/public/275), July 15, 2008, [122 Stat. 2549](https://www.govinfo.gov/link/statute/122/2549); [Pub. L. 111–148, title III, § 3401(b)](https://www.govinfo.gov/link/plaw/111/public/148), title VI, § 6104, Mar. 23, 2010, [124 Stat. 481](https://www.govinfo.gov/link/statute/124/481), 711; [Pub. L. 113–93, title II, § 215(a)](https://www.govinfo.gov/link/plaw/113/public/93), (b), Apr. 1, 2014, [128 Stat. 1048](https://www.govinfo.gov/link/statute/128/1048), 1049; [Pub. L. 113–185, § 2(c)(4)(A)](https://www.govinfo.gov/link/plaw/113/public/185), Oct. 6, 2014, [128 Stat. 1965](https://www.govinfo.gov/link/statute/128/1965); [Pub. L. 114–10, title IV, § 411(a)](https://www.govinfo.gov/link/plaw/114/public/10), Apr. 16, 2015, [129 Stat. 161](https://www.govinfo.gov/link/statute/129/161); [Pub. L. 115–123, div. E, title XII, § 53111](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 304](https://www.govinfo.gov/link/statute/132/304); [Pub. L. 116–260, div. CC, title I](https://www.govinfo.gov/link/plaw/116/public/260), §§ 111(a), 134(a), Dec. 27, 2020, [134 Stat. 2944](https://www.govinfo.gov/link/statute/134/2944), 2977; [Pub. L. 117–328, div. FF, title IV, § 4121(a)(4)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5903](https://www.govinfo.gov/link/statute/136/5903).)*

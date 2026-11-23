@@ -3,9 +3,10 @@ title: "Section 38 - Yucaipa Valley regional water supply renewal project"
 usc_title: 43
 usc_section: "38"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 38"
-generated_at: "2026-03-30T02:55:57.445Z"
+generated_at: "2026-11-23T20:27:06.197Z"
+status: "active"
 ---
 
 # § 390h–38. Yucaipa Valley regional water supply renewal project
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:57.445Z"
 - **(b)** The Federal share of the cost of the project described in subsection (a) shall not exceed 25 percent of the total cost of the project.
 - **(c)** Funds provided by the Secretary shall not be used for operation or maintenance of the project described in subsection (a).
 - **(d)** There is authorized to be appropriated to carry out this section $20,000,000.
+
+## Source Credit
+
+*([Pub. L. 102–575, title XVI, § 1655](https://www.govinfo.gov/link/plaw/102/public/575), as added [Pub. L. 111–11, title IX, § 9114(a)](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1320](https://www.govinfo.gov/link/statute/123/1320).)*

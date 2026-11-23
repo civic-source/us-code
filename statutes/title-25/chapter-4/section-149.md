@@ -3,9 +3,10 @@ title: "Section 149 - Indian Water Rights Settlement Completion Fund"
 usc_title: 25
 usc_section: "149"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 149"
-generated_at: "2026-03-30T02:54:52.799Z"
+generated_at: "2026-11-23T20:26:25.355Z"
+status: "active"
 ---
 
 # § 149. Indian Water Rights Settlement Completion Fund
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:52.799Z"
 - **(d)**
   - **(1)** Transfers authorized under subsection (c) shall be made in such amounts as are determined by the Secretary of the Interior to be appropriate to satisfy the obligations of the United States, including appropriate indexing, pursuant to the applicable Indian water settlement.
   - **(2)** The Secretary of the Interior shall have the discretion to determine the sequence and timing of transfers from the Fund under subsection (c) in order to substantially complete the eligible Indian water settlements as expeditiously as practicable.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. G, title I, § 70101](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1250](https://www.govinfo.gov/link/statute/135/1250).)*

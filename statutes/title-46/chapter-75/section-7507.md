@@ -3,9 +3,10 @@ title: "Section 7507 - Authority to extend the duration of licenses, certificate
 usc_title: 46
 usc_section: "7507"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 7507"
-generated_at: "2026-03-30T02:56:15.550Z"
+generated_at: "2026-11-23T20:27:27.118Z"
+status: "active"
 ---
 
 # § 7507. Authority to extend the duration of licenses, certificates of registry, and merchant mariner documents
@@ -18,3 +19,15 @@ generated_at: "2026-03-30T02:56:15.550Z"
   - **(2)** issue for not more than five years an expiring merchant mariner’s document issued for an individual under chapter 73 for the exclusive purpose of aligning the expiration date of such merchant mariner’s document with the expiration date of a license or certificate of registry.
 - **(c)** Any extensions granted under this section may be granted to individual seamen or a specifically identified group of seamen.
 - **(d)** With respect to any renewal of an active merchant mariner credential issued under this part that is not an extension under subsection (a) or (b), such credential shall begin the day after the expiration of the active credential of the credential holder.
+
+Licenses and Certificates of Registry
+
+Merchant Mariner Documents
+
+Manner of Extension
+
+Renewal
+
+## Source Credit
+
+*(Added [Pub. L. 111–281, title VI, § 615(a)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2971](https://www.govinfo.gov/link/statute/124/2971); amended [Pub. L. 112–213, title III, § 311](https://www.govinfo.gov/link/plaw/112/public/213), Dec. 20, 2012, [126 Stat. 1569](https://www.govinfo.gov/link/statute/126/1569); [Pub. L. 115–282, title V, § 510(3)](https://www.govinfo.gov/link/plaw/115/public/282), (4), Dec. 4, 2018, [132 Stat. 4274](https://www.govinfo.gov/link/statute/132/4274); [Pub. L. 119–60, div. G, title LXXIII, § 7301(g)(1)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1755](https://www.govinfo.gov/link/statute/139/1755).)*

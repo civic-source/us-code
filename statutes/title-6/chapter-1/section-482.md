@@ -3,9 +3,10 @@ title: "Section 482 - Facilitating homeland security information sharing procedu
 usc_title: 6
 usc_section: "482"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 482"
-generated_at: "2026-03-30T02:53:09.467Z"
+generated_at: "2026-11-23T20:25:34.769Z"
+status: "active"
 ---
 
 # § 482. Facilitating homeland security information sharing procedures
@@ -69,3 +70,15 @@ generated_at: "2026-03-30T02:53:09.467Z"
     - **(F)** Employees of private-sector entities that affect critical infrastructure, cyber, economic, or public health security, as designated by the Federal Government in procedures developed pursuant to this section.
   - **(4)** The term “State” includes the District of Columbia and any commonwealth, territory, or possession of the United States.
 - **(g)** Nothing in this chapter shall be construed as authorizing any department, bureau, agency, officer, or employee of the Federal Government to request, receive, or transmit to any other Government entity or personnel, or transmit to any State or local entity or personnel otherwise authorized by this chapter to receive homeland security information, any information collected by the Federal Government solely for statistical purposes in violation of any other provision of law relating to the confidentiality of such information.
+
+Section
+
+Sec
+
+Sec
+
+George W. Bush.
+
+## Source Credit
+
+*([Pub. L. 107–296, title VIII, § 892](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2253](https://www.govinfo.gov/link/statute/116/2253); [Pub. L. 108–177, title III, § 316(a)](https://www.govinfo.gov/link/plaw/108/public/177), Dec. 13, 2003, [117 Stat. 2610](https://www.govinfo.gov/link/statute/117/2610).)*

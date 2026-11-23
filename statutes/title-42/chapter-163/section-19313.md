@@ -3,9 +3,10 @@ title: "Section 19313 - National Laboratory non-Federal employee outside employm
 usc_title: 42
 usc_section: "19313"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 19313"
-generated_at: "2026-03-30T02:56:11.547Z"
+generated_at: "2026-11-23T20:27:23.875Z"
+status: "active"
 ---
 
 # § 19313. National Laboratory non-Federal employee outside employment authority
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.547Z"
   - **(2)** engage in activities related to outside employment using National Laboratory government equipment, property, or resources, unless such activities are performed under National Laboratory contracting mechanisms, such as Cooperative Research and Development Agreements or Strategic Partnership Projects, whereby all conflicts of interest requirements apply; or
   - **(3)** use their position at a National Laboratory to provide an unfair competitive advantage to an outside employer or start-up activity.
 - **(d)** Nothing in this section shall affect existing Federal ethics rules applicable to Federal personnel.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title VI, § 10720](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1707](https://www.govinfo.gov/link/statute/136/1707).)*

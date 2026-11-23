@@ -3,9 +3,10 @@ title: "Section 746 - Certificates of value"
 usc_title: 45
 usc_section: "746"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 746"
-generated_at: "2026-03-30T02:55:56.556Z"
+generated_at: "2026-11-23T20:27:05.310Z"
+status: "active"
 ---
 
 # § 746. Certificates of value
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:56.556Z"
   - **(4)** The base value of each certificate of value of any series shall be the value obtained by (A) taking the net liquidation value, as determined by the special court, to which the transferor to whom such series of certificates of value is issued is entitled by virtue of transfers of rail properties, under section 743(b)(1) of this title to the Corporation or a subsidiary thereof; (B) subtracting the value of other benefits provided under this chapter, as determined by the special court; (C) adding such amount, if any, as the special court may determine shall be required after taking into consideration compensable unconstitutional erosion, if any, in the estate of a railroad in reorganization, or of a railroad leased, operated, or controlled by such a railroad, which the special court finds to have occurred during any bankruptcy proceeding with respect to such railroad; (D) adding interest from the transfer date to the redemption date to be compounded annually at a rate of 8 percent per annum; and (E) dividing the resulting value by the number of certificates of value of such series distributed to such transferor. In determining such base value, the special court shall give due weight and consideration to the finding of the Association as to the net liquidation value to which each transferor is entitled by virtue of conveyances of rail properties under section 743(b)(1) of this title . For purposes of this paragraph, the term “rail properties” includes all rights with respect to employee benefit plans transferred and assigned to the Corporation pursuant to section 743(b)(6) of this title . Net liquidation value with respect to such rights shall be determined after taking into account all obligations finally transferred or assigned to the Corporation pursuant to such section.
   - **(5)** The fair market value of series B preferred stock and of common stock of the Corporation shall be determined in accordance with regulations prescribed by the Association, on the basis of the average price of each such security in the primary established market in which such securities are traded over a period of 120 consecutive trading days ending not less than 20 nor more than 40 trading days preceding the redemption date, or, in the case of a security for which there is not an established trading market, on the basis of the fair market value thereof as determined by the majority vote of three experts in the valuation of securities, one to be selected by the Association, one to be selected by the directors of the Corporation elected by the holders of the security to be valued, and one to be selected by the two first selected.
 - **(d)** There are authorized to be appropriated to the Secretary such sums as are necessary to discharge the obligations of the United States arising under this section.
+
+## Source Credit
+
+*([Pub. L. 93–236, title III, § 306](https://www.govinfo.gov/link/plaw/93/public/236), as added [Pub. L. 94–210, title VI, § 610(b)](https://www.govinfo.gov/link/plaw/94/public/210), Feb. 5, 1976, [90 Stat. 104](https://www.govinfo.gov/link/statute/90/104); amended [Pub. L. 94–248](https://www.govinfo.gov/link/plaw/94/public/248), §§ 2, 3, Mar. 25, 1976, [90 Stat. 286](https://www.govinfo.gov/link/statute/90/286).)*

@@ -3,9 +3,10 @@ title: "Section 6601 - Reorganization plan and report"
 usc_title: 22
 usc_section: "6601"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6601"
-generated_at: "2026-03-30T02:55:05.430Z"
+generated_at: "2026-11-23T20:26:32.624Z"
+status: "active"
 ---
 
 # § 6601. Reorganization plan and report
@@ -55,3 +56,9 @@ generated_at: "2026-03-30T02:55:05.430Z"
   - **(4)** Nothing in this subsection may be construed to require the transfer of functions, personnel, records, balance of appropriations, or other assets of a covered agency on a single date.
   - **(5)** Paragraph (1) shall apply notwithstanding section 905(b) of title 5 .
 - **(h)** The reorganization plan described in this section shall be printed in the Federal Register after the date upon which it first becomes effective.
+
+William J. Clinton.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XVI, § 1601, Oct. 21, 1998, [112 Stat. 2681–795](https://www.govinfo.gov/link/statute/112/2681).)*

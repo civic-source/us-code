@@ -3,9 +3,10 @@ title: "Section 5948 - Physicians comparability allowances"
 usc_title: 5
 usc_section: "5948"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 5948"
-generated_at: "2026-03-30T02:52:56.028Z"
+generated_at: "2026-11-23T20:25:31.996Z"
+status: "active"
 ---
 
 # § 5948. Physicians comparability allowances
@@ -46,3 +47,15 @@ generated_at: "2026-03-30T02:52:56.028Z"
   - **(3)** the number of physicians with whom agreements were entered into by each agency;
   - **(4)** the size of the allowances and the duration of the agreements entered into; and
   - **(5)** the degree to which the recruitment or retention problems referred to in paragraph (2) were alleviated under this section.
+
+“For purposes of applying the amendments made by this section [amending this section and enacting and amending provisions set out as notes above]—
+
+In general
+
+Limitation
+
+Jimmy Carter.
+
+## Source Credit
+
+*(Added [Pub. L. 95–603, § 2(a)](https://www.govinfo.gov/link/plaw/95/public/603), Nov. 6, 1978, [92 Stat. 3018](https://www.govinfo.gov/link/statute/92/3018); amended [Pub. L. 96–166, § 2](https://www.govinfo.gov/link/plaw/96/public/166), Dec. 29, 1979, [93 Stat. 1273](https://www.govinfo.gov/link/statute/93/1273); [Pub. L. 97–141, § 2](https://www.govinfo.gov/link/plaw/97/public/141), Dec. 29, 1981, [95 Stat. 1719](https://www.govinfo.gov/link/statute/95/1719); [Pub. L. 98–168, title I, § 102(a)](https://www.govinfo.gov/link/plaw/98/public/168), Nov. 29, 1983, [97 Stat. 1105](https://www.govinfo.gov/link/statute/97/1105); [Pub. L. 98–615, title II, § 204(a)(3)](https://www.govinfo.gov/link/plaw/98/public/615), Nov. 8, 1984, [98 Stat. 3216](https://www.govinfo.gov/link/statute/98/3216); [Pub. L. 100–140, § 1](https://www.govinfo.gov/link/plaw/100/public/140), Oct. 26, 1987, [101 Stat. 830](https://www.govinfo.gov/link/statute/101/830); [Pub. L. 101–420, § 1(a)](https://www.govinfo.gov/link/plaw/101/public/420), formerly § 1, Oct. 12, 1990, [104 Stat. 908](https://www.govinfo.gov/link/statute/104/908), renumbered § 1(a), [Pub. L. 103–114, § 1(b)(2)(A)](https://www.govinfo.gov/link/plaw/103/public/114), Oct. 26, 1993, [107 Stat. 1115](https://www.govinfo.gov/link/statute/107/1115); [Pub. L. 102–378, § 2(51)](https://www.govinfo.gov/link/plaw/102/public/378), Oct. 2, 1992, [106 Stat. 1353](https://www.govinfo.gov/link/statute/106/1353); [Pub. L. 103–89, § 3(b)(1)(M)](https://www.govinfo.gov/link/plaw/103/public/89), Sept. 30, 1993, [107 Stat. 982](https://www.govinfo.gov/link/statute/107/982); [Pub. L. 103–114](https://www.govinfo.gov/link/plaw/103/public/114), §§ 1(a)(1), 2(a), Oct. 26, 1993, [107 Stat. 1115](https://www.govinfo.gov/link/statute/107/1115), 1116; [Pub. L. 105–61, title V, § 517(a)](https://www.govinfo.gov/link/plaw/105/public/61), Oct. 10, 1997, [111 Stat. 1307](https://www.govinfo.gov/link/statute/111/1307); [Pub. L. 105–266, § 7(a)](https://www.govinfo.gov/link/plaw/105/public/266), Oct. 19, 1998, [112 Stat. 2369](https://www.govinfo.gov/link/statute/112/2369); [Pub. L. 106–554, § 1(a)(1) [title II, § 218(a)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–28; [Pub. L. 106–571](https://www.govinfo.gov/link/plaw/106/public/571), §§ 2(a)(1), (b), 3(d), Dec. 28, 2000, [114 Stat. 3054](https://www.govinfo.gov/link/statute/114/3054), 3057.)*

@@ -3,9 +3,10 @@ title: "Section 3313 - Educational assistance: amount; payment"
 usc_title: 38
 usc_section: "3313"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 3313"
-generated_at: "2026-03-30T02:55:53.502Z"
+generated_at: "2026-11-23T20:27:01.841Z"
+status: "active"
 ---
 
 # § 3313. Educational assistance: amount; payment
@@ -138,3 +139,159 @@ generated_at: "2026-03-30T02:55:53.502Z"
     - **(A)** the individual is enrolled in a course or program of education offered by the educational institution on at least a full-time basis before the date on which the individual is able to withdraw from the course or program of education without penalty;
     - **(B)** the educational institution charges the same amount of tuition and fees for students who are enrolled on a full-time basis and students who are enrolled on a more-than-full-time basis; and
     - **(C)** the individual remains enrolled in the course or program of education after the date on which the individual is able to withdraw from the course or program of education without penalty.
+
+Payment
+
+Approved Programs of Education
+
+Programs of Education Leading to a Degree Pursued at Institutions of Higher Learning on More Than Half-time Basis
+
+(aa) any waiver of, or reduction in, tuition and fees; and
+
+(bb) any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965) that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees; or
+
+(aa) for the academic year beginning on August 1, 2011 , $17,500; or
+
+(bb) for an academic year beginning on any subsequent August 1, the amount for the previous academic year beginning on August 1 under this subclause, as increased by the percentage increase equal to the most recent percentage increase determined under section 3015(h).
+
+(aa) 1.0; or
+
+(bb) the number of course hours borne by the individual in pursuit of the program of education, divided by the minimum number of course hours required for full-time pursuit of the program of education, rounded to the nearest multiple of 10.
+
+(aa) 1.0; or
+
+(bb) the number of course hours borne by the individual in pursuit of the program of education, divided by the minimum number of course hours required for full-time pursuit of the program of education, rounded to the nearest multiple of 10.
+
+Frequency of Payment.—
+
+Quarter, semester, or term payments
+
+Monthly payments
+
+Regulations
+
+Programs of Education Leading to a Degree Pursued on Active Duty for a Period of More Than
+
+Days on More Than Half-time Basis.—
+
+In general
+
+Amount of assistance
+
+(aa) any waiver of, or reduction in, tuition and fees; and
+
+(bb) any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965) that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees; or
+
+(aa) for the academic year beginning on August 1, 2011 , $17,500; or
+
+(bb) for an academic year beginning on any subsequent August 1, the amount for the previous academic year beginning on August 1 under this subclause, as increased by the percentage increase equal to the most recent percentage increase determined under section 3015(h); or
+
+Quarter, semester, or term payments
+
+Monthly payments
+
+Programs of Education Pursued on Half-Time Basis or Less.—
+
+In general
+
+Amount of assistance
+
+Quarter, term, or semester payments
+
+Monthly payments
+
+Programs of Education Other Than Programs of Education Leading to a Degree.—
+
+In general
+
+Pursuit on half-time basis or less
+
+Amount of assistance
+
+(aa) any waiver of, or reduction in, tuition and fees; and
+
+(bb) any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965 ( 20 U.S.C. 1070a(b) )) that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees; or
+
+(aa) for the academic year beginning on August 1, 2011 , $17,500; or
+
+(bb) for an academic year beginning on any subsequent August 1, the amount for the previous academic year beginning on August 1 under this subclause, as increased by the percentage increase equal to the most recent percentage increase determined under section 3015(h).
+
+(aa) in the case of an individual pursuing resident training, the monthly amount of the basic allowance for housing payable under section 403 of title 37 for a member with dependents in pay grade E–5 residing in the military housing area that encompasses all or the majority portion of the ZIP code area in which is located the campus of the institution of where the individual physically participates in a majority of classes; or
+
+(bb) in the case of an individual pursuing a program of education through distance learning, a monthly amount equal to 50 percent of the amount payable under item (aa), multiplied by
+
+(aa) 1.0; or
+
+(bb) the number of course hours borne by the individual in pursuit of the program of education involved, divided by the minimum number of course hours required for full-time pursuit of such program of education, rounded to the nearest multiple of 10.
+
+(aa) any waiver of, or reduction in, tuition and fees; and
+
+(bb) any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965) that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees; or
+
+(aa) for the academic year beginning on August 1, 2011 , $10,000; or
+
+(bb) for an academic year beginning on any subsequent August 1, the amount for the previous academic year beginning on August 1 under this subclause, as increased by the percentage increase equal to the most recent percentage increase determined under section 3015(h), multiplied by—
+
+(aa) any waiver of, or reduction in, tuition and fees; and
+
+(bb) any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965) that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees.
+
+(aa) for the academic year beginning on August 1, 2011 , $8,500; or
+
+(bb) for an academic year beginning on any subsequent August 1, the amount for the previous academic year beginning on August 1 under this subclause, as increased by the percentage increase equal to the most recent percentage increase determined under section 3015(h), multiplied by—
+
+Frequency of payment.—
+
+Quarter, semester, or term payments
+
+Monthly payments
+
+Lump sum payments.—
+
+Quarterly payments
+
+Charge against entitlement for certificate and other non-college degree programs.—
+
+In general
+
+Pro rata adjustment based on certain eligibility
+
+Payment of Established Charges to Educational Institutions
+
+Determination of Housing Stipend Payments for Academic Years
+
+Determination of Monthly Housing Stipends During Active Duty Service
+
+Provision of Housing Stipend Payment Information.—
+
+In general
+
+Manner
+
+Verification of Enrollment.—
+
+In general
+
+Form of verification
+
+Failure to submit verification
+
+Exception
+
+In general
+
+Stipend for distance learning on more than half-time basis
+
+In general
+
+Lump sum for books and other educational costs
+
+In General
+
+Covered Individuals
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 110–252, title V, § 5003(a)(1)](https://www.govinfo.gov/link/plaw/110/public/252), June 30, 2008, [122 Stat. 2363](https://www.govinfo.gov/link/statute/122/2363); amended [Pub. L. 111–32, title X, § 1002(b)](https://www.govinfo.gov/link/plaw/111/public/32), June 24, 2009, [123 Stat. 1889](https://www.govinfo.gov/link/statute/123/1889); [Pub. L. 111–275, title X, § 1001(g)(1)](https://www.govinfo.gov/link/plaw/111/public/275) –(3), Oct. 13, 2010, [124 Stat. 2896](https://www.govinfo.gov/link/statute/124/2896); [Pub. L. 111–377, title I](https://www.govinfo.gov/link/plaw/111/public/377), §§ 102(a), (b), 103(a), (b), 104(a), (b), 105(a)–(c), 106(a), 112(a), Jan. 4, 2011, [124 Stat. 4108–4110](https://www.govinfo.gov/link/statute/124/4108), 4112–4117, 4121; [Pub. L. 114–58, title VI, § 601(16)](https://www.govinfo.gov/link/plaw/114/public/58) –(18), Sept. 30, 2015, [129 Stat. 539](https://www.govinfo.gov/link/statute/129/539); [Pub. L. 115–48, title I](https://www.govinfo.gov/link/plaw/115/public/48), §§ 102(b), 105(b), (c)(2), 107(a), 113(a), Aug. 16, 2017, [131 Stat. 975](https://www.govinfo.gov/link/statute/131/975), 977, 985; [Pub. L. 115–62, title V, § 501(b)(1)](https://www.govinfo.gov/link/plaw/115/public/62), (c)(1), Sept. 29, 2017, [131 Stat. 1165](https://www.govinfo.gov/link/statute/131/1165), 1166; [Pub. L. 115–407, title I, § 102](https://www.govinfo.gov/link/plaw/115/public/407), Dec. 31, 2018, [132 Stat. 5369](https://www.govinfo.gov/link/statute/132/5369); [Pub. L. 116–61, § 6(3)](https://www.govinfo.gov/link/plaw/116/public/61), Sept. 30, 2019, [133 Stat. 1117](https://www.govinfo.gov/link/statute/133/1117); [Pub. L. 116–315, title I](https://www.govinfo.gov/link/plaw/116/public/315), §§ 1002(b)(2), 1009(a), 1010(a), Jan. 5, 2021, [134 Stat. 4938](https://www.govinfo.gov/link/statute/134/4938), 4941; [Pub. L. 117–16, § 7(a)(2)](https://www.govinfo.gov/link/plaw/117/public/16), June 8, 2021, [135 Stat. 284](https://www.govinfo.gov/link/statute/135/284); [Pub. L. 117–76, § 3(a)](https://www.govinfo.gov/link/plaw/117/public/76), Dec. 21, 2021, [135 Stat. 1517](https://www.govinfo.gov/link/statute/135/1517); [Pub. L. 117–333, § 13](https://www.govinfo.gov/link/plaw/117/public/333), Jan. 5, 2023, [136 Stat. 6134](https://www.govinfo.gov/link/statute/136/6134).)*

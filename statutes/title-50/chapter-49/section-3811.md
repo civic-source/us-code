@@ -3,9 +3,10 @@ title: "Section 3811 - Offenses and penalties"
 usc_title: 50
 usc_section: "3811"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3811"
-generated_at: "2026-03-30T02:56:26.262Z"
+generated_at: "2026-11-23T20:27:31.046Z"
+status: "active"
 ---
 
 # § 3811. Offenses and penalties
@@ -23,3 +24,53 @@ generated_at: "2026-03-30T02:56:26.262Z"
 - **(g)** A person may not be denied a right, privilege, or benefit under Federal law by reason of failure to present himself for and submit to registration under section 3802 of this title if—
   - **(1)** the requirement for the person to so register has terminated or become inapplicable to the person; and
   - **(2)** the person shows by a preponderance of the evidence that the failure of the person to register was not a knowing and willful failure to register.
+
+Gerald R. Ford.
+
+Jimmy Carter.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Gerald R. Ford.
+
+Section
+
+Sec
+
+Gerald R. Ford.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Gerald R. Ford.
+
+Jimmy Carter.
+
+## Source Credit
+
+*(June 24, 1948, ch. 625, title I, § 12, [62 Stat. 622](https://www.govinfo.gov/link/statute/62/622); [Pub. L. 89–152](https://www.govinfo.gov/link/plaw/89/public/152), Aug. 30, 1965, [79 Stat. 586](https://www.govinfo.gov/link/statute/79/586); [Pub. L. 90–40, § 1(11)](https://www.govinfo.gov/link/plaw/90/public/40), June 30, 1967, [81 Stat. 105](https://www.govinfo.gov/link/statute/81/105); [Pub. L. 92–129, title I, § 101(a)(31)](https://www.govinfo.gov/link/plaw/92/public/129), Sept. 28, 1971, [85 Stat. 352](https://www.govinfo.gov/link/statute/85/352); [Pub. L. 97–86, title IX, § 916(b)](https://www.govinfo.gov/link/plaw/97/public/86), Dec. 1, 1981, [95 Stat. 1129](https://www.govinfo.gov/link/statute/95/1129); [Pub. L. 97–252, title XI, § 1113(a)](https://www.govinfo.gov/link/plaw/97/public/252), Sept. 8, 1982, [96 Stat. 748](https://www.govinfo.gov/link/statute/96/748); [Pub. L. 98–620, title IV, § 402(54)](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3361](https://www.govinfo.gov/link/statute/98/3361); [Pub. L. 99–661, div. A, title XIII, § 1366](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 4002](https://www.govinfo.gov/link/statute/100/4002); [Pub. L. 119–60, div. A, title V, § 535(b)(4)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 872](https://www.govinfo.gov/link/statute/139/872).)*

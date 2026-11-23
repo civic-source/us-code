@@ -3,9 +3,10 @@ title: "Section 15107 - National Navigation Safety Advisory Committee"
 usc_title: 46
 usc_section: "15107"
 chapter: 151
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 15107"
-generated_at: "2026-03-30T02:56:15.561Z"
+generated_at: "2026-11-23T20:27:27.196Z"
+status: "active"
 ---
 
 # § 15107. National Navigation Safety Advisory Committee
@@ -23,3 +24,21 @@ generated_at: "2026-03-30T02:56:15.561Z"
     - **(E)** State agencies responsible for vessel or port safety.
     - **(F)** The Maritime Law Association.
   - **(4)** The Secretary shall, based on the needs of the Coast Guard, determine the number of members of the Committee who represent each entity specified in paragraph (3). Neither this paragraph nor any other provision of law shall be construed to require an equal distribution of members representing each entity specified in paragraph (3).
+
+Establishment
+
+Function
+
+Membership.—
+
+In general
+
+Expertise
+
+Representation
+
+Distribution
+
+## Source Credit
+
+*(Added [Pub. L. 115–282, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4285](https://www.govinfo.gov/link/statute/132/4285).)*

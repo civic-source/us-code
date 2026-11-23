@@ -3,9 +3,10 @@ title: "Section 9841 - Appeals, notice, hearing, and mediation; alternative agen
 usc_title: 42
 usc_section: "9841"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9841"
-generated_at: "2026-03-30T02:56:11.370Z"
+generated_at: "2026-11-23T20:27:23.157Z"
+status: "active"
 ---
 
 # § 9841. Appeals, notice, hearing, and mediation; alternative agency for Indian tribe
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:56:11.370Z"
     - **(B)** was responsible for a deficiency that—
       - **(i)** relates to the performance standards or financial management standards described in section 9836a(a)(1) of this title ; and
       - **(ii)** was the basis for the termination of financial assistance described in paragraph (1)(A);
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 646](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 504](https://www.govinfo.gov/link/statute/95/504); [Pub. L. 101–501, title I, § 115](https://www.govinfo.gov/link/plaw/101/public/501), Nov. 3, 1990, [104 Stat. 1232](https://www.govinfo.gov/link/statute/104/1232); [Pub. L. 103–252, title I, § 113](https://www.govinfo.gov/link/plaw/103/public/252), May 18, 1994, [108 Stat. 641](https://www.govinfo.gov/link/statute/108/641); [Pub. L. 110–134, § 16](https://www.govinfo.gov/link/plaw/110/public/134), Dec. 12, 2007, [121 Stat. 1421](https://www.govinfo.gov/link/statute/121/1421).)*

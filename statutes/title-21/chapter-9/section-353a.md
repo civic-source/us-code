@@ -3,9 +3,10 @@ title: "Section 353a - Pharmacy compounding"
 usc_title: 21
 usc_section: "353a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 353a"
-generated_at: "2026-03-30T02:54:54.230Z"
+generated_at: "2026-11-23T20:26:27.561Z"
+status: "active"
 ---
 
 # § 353a. Pharmacy compounding
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:54:54.230Z"
   - **(1)** compounded positron emission tomography drugs as defined in section 321(ii) of this title ; or
   - **(2)** radiopharmaceuticals.
 - **(e)** As used in this section, the term “compounding” does not include mixing, reconstituting, or other such acts that are performed in accordance with directions contained in approved labeling provided by the product’s manufacturer and other manufacturer directions consistent with that labeling.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 503A, as added [Pub. L. 105–115, title I, § 127(a)](https://www.govinfo.gov/link/plaw/105/public/115), Nov. 21, 1997, [111 Stat. 2328](https://www.govinfo.gov/link/statute/111/2328); amended [Pub. L. 113–54, title I, § 106(a)](https://www.govinfo.gov/link/plaw/113/public/54), Nov. 27, 2013, [127 Stat. 598](https://www.govinfo.gov/link/statute/127/598).)*

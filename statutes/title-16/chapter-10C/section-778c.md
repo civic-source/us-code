@@ -3,12 +3,17 @@ title: "Section 778c - Authorization of appropriations"
 usc_title: 16
 usc_section: "778c"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 778c"
-generated_at: "2026-03-30T02:54:22.910Z"
+generated_at: "2026-11-23T20:26:20.277Z"
+status: "active"
 ---
 
 # § 778c. Authorization of appropriations
 
 There are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this chapter.
 
+
+## Source Credit
+
+*([Pub. L. 85–342, § 4](https://www.govinfo.gov/link/plaw/85/public/342), Mar. 15, 1958, [72 Stat. 35](https://www.govinfo.gov/link/statute/72/35).)*

@@ -3,9 +3,10 @@ title: "Section 10204 - Personnel records"
 usc_title: 10
 usc_section: "10204"
 chapter: 1007
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 10204"
-generated_at: "2026-03-30T02:53:38.264Z"
+generated_at: "2026-11-23T20:25:52.380Z"
+status: "active"
 ---
 
 # § 10204. Personnel records
@@ -18,3 +19,11 @@ generated_at: "2026-03-30T02:53:38.264Z"
   - **(5)** Availability for service.
   - **(6)** Such other information as the Secretary concerned may prescribe.
 - **(b)** Under regulations to be prescribed by the Secretary of Defense, the Secretary of each military department shall maintain a record of the number of members of each class of each reserve component who, during each fiscal year, have participated satisfactorily in active duty for training and inactive duty training with pay.
+
+Establishment
+
+Coordination
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1661(a)(1)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2977](https://www.govinfo.gov/link/statute/108/2977).)*

@@ -3,9 +3,10 @@ title: "Section 101305 - Travel expenses of System employees and dependents of d
 usc_title: 54
 usc_section: "101305"
 chapter: 1013
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "54 U.S.C. § 101305"
-generated_at: "2026-03-30T02:56:28.414Z"
+generated_at: "2026-11-23T20:27:38.010Z"
+status: "active"
 ---
 
 # § 101305. Travel expenses of System employees and dependents of deceased employees
@@ -16,3 +17,30 @@ In the administration of the System, the Secretary may, under regulations the Se
   - **(2)** dependents of deceased employees—
     - **(A)** to the nearest housing reasonably available that is of a standard not less than that which is vacated, including compensation for not to exceed 60 days rental cost, in the case of an employee who occupied Federal Government housing and whose death requires the housing to be promptly vacated; and
     - **(B)** to the nearest port of entry in the conterminous 48 States in the case of an employee whose last permanent station was outside the conterminous 48 States.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 101305 | 16 U.S.C. 17j . | May 26, 1930, ch. 324, § 11 , 46 Stat. 383 ; Pub. L. 91–383, § 5 , as added Pub. L. 94–458, § 2 , Oct. 7, 1976 , 90 Stat. 1939 . |
+
+
+Historical and Revision Notes
+
+101305
+
+16 U.S.C. 17j
+
+May 26, 1930, ch. 324, § 11
+
+46 Stat. 383
+
+Pub. L. 91–383, § 5
+
+Pub. L. 94–458, § 2
+
+Oct. 7, 1976
+
+90 Stat. 1939
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3125](https://www.govinfo.gov/link/statute/128/3125).)*

@@ -3,9 +3,10 @@ title: "Section 7213 - Amounts available for contract payments"
 usc_title: 7
 usc_section: "7213"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7213"
-generated_at: "2026-03-30T02:53:42.445Z"
+generated_at: "2026-11-23T20:25:41.758Z"
+status: "active"
 ---
 
 # § 7213. Amounts available for contract payments
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:53:42.445Z"
 - **(d)** In addition to the adjustments required under subsection (c), the amount allocated under subsection (b) for rice contract payments shall be increased by $8,500,000 for each of fiscal years 1997 through 2002.
 - **(e)** Any amount added pursuant to paragraphs (1) and (2) of subsection (c) to the amount available under subsection (a) for a fiscal year and paid to owners and producers under a contract shall not be treated as a contract payment for purposes of section 7215 of this title or section 1308(1) 1 1 See References in text note below. of this title. However, the amount of a payment covered by this subsection may not exceed $50,000 per person.
 - **(f)** The amount available under subsection (a) for a fiscal year shall be reduced by an amount equal to the total amount of contract payments for the fiscal year that owners and producers forgo as a result of operation of the payment limitation under section 1308(1) 1 of this title.
+
+## Source Credit
+
+*([Pub. L. 104–127, title I, § 113](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 900](https://www.govinfo.gov/link/statute/110/900).)*

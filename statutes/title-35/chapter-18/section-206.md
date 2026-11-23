@@ -3,12 +3,17 @@ title: "Section 206 - Uniform clauses and regulations"
 usc_title: 35
 usc_section: "206"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "35 U.S.C. § 206"
-generated_at: "2026-03-30T02:55:34.238Z"
+generated_at: "2026-11-23T20:26:49.135Z"
+status: "active"
 ---
 
 # § 206. Uniform clauses and regulations
 
 The Secretary of Commerce may issue regulations which may be made applicable to Federal agencies implementing the provisions of sections 202 through 204 of this chapter and shall establish standard funding agreement provisions required under this chapter. The regulations and the standard funding agreement shall be subject to public comment before their issuance.
 
+
+## Source Credit
+
+*(Added [Pub. L. 96–517, § 6(a)](https://www.govinfo.gov/link/plaw/96/public/517), Dec. 12, 1980, [94 Stat. 3023](https://www.govinfo.gov/link/statute/94/3023); amended [Pub. L. 98–620, title V, § 501(10)](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3367](https://www.govinfo.gov/link/statute/98/3367).)*

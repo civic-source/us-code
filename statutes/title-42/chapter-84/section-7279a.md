@@ -3,9 +3,10 @@ title: "Section 7279a - Future-years energy program annual submission and budget
 usc_title: 42
 usc_section: "7279a"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7279a"
-generated_at: "2026-03-30T02:56:11.289Z"
+generated_at: "2026-11-23T20:27:22.802Z"
+status: "active"
 ---
 
 # § 7279a. Future-years energy program annual submission and budgeting
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.289Z"
   - **(2)** Amounts referred to in paragraph (1) are the following:
     - **(A)** The amounts specified in program and budget information submitted to Congress by the Secretary of Energy in support of expenditure estimates and proposed appropriations in the budget submitted to Congress by the President under section 1105(a) of title 31 for any fiscal year, as shown in the future-years energy program submitted pursuant to subsection (a).
     - **(B)** The total amounts of estimated expenditures and proposed appropriations necessary to support the programs, projects, and activities of the administration included pursuant to paragraph (5) of section 1105(a) of such title in the budget submitted to Congress under that section for any fiscal year.
+
+## Source Credit
+
+*([Pub. L. 112–74, div. B, title III, § 304](https://www.govinfo.gov/link/plaw/112/public/74), Dec. 23, 2011, [125 Stat. 876](https://www.govinfo.gov/link/statute/125/876).)*

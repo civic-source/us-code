@@ -3,9 +3,10 @@ title: "Section 2808 - Covered agency responsibilities"
 usc_title: 43
 usc_section: "2808"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 2808"
-generated_at: "2026-03-30T02:55:57.500Z"
+generated_at: "2026-11-23T20:27:06.421Z"
+status: "active"
 ---
 
 # § 2808. Covered agency responsibilities
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:55:57.500Z"
   - **(1)** the compliance of the covered agency with the standards for geospatial data, including metadata for geospatial data, established under section 2806 of this title ;
   - **(2)** the compliance of the covered agency with the requirements under subsection (a); and
   - **(3)** the compliance of the covered agency on the limitation on the use of Federal funds under section 2809 of this title .
+
+## Source Credit
+
+*([Pub. L. 115–254, div. B, title VII, § 759](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3425](https://www.govinfo.gov/link/statute/132/3425).)*

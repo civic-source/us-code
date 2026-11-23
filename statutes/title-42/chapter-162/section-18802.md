@@ -3,9 +3,10 @@ title: "Section 18802 - Career skills training"
 usc_title: 42
 usc_section: "18802"
 chapter: 162
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18802"
-generated_at: "2026-03-30T02:56:11.531Z"
+generated_at: "2026-11-23T20:27:23.833Z"
+status: "active"
 ---
 
 # § 18802. Career skills training
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.531Z"
 - **(b)** The Secretary shall award grants to eligible entities to pay the Federal share of associated career skills training programs under which students concurrently receive classroom instruction and on-the-job training for the purpose of obtaining an industry-related certification to install energy efficient buildings technologies.
 - **(c)** The Federal share of the cost of carrying out a career skills training program described in subsection (b) shall be 50 percent.
 - **(d)** There is authorized to be appropriated to the Secretary to carry out this section $10,000,000 for fiscal year 2022, to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title V, § 40513](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1060](https://www.govinfo.gov/link/statute/135/1060).)*

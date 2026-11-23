@@ -3,9 +3,10 @@ title: "Section 6202 - Investigations to assist foreign antitrust authority in o
 usc_title: 15
 usc_section: "6202"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 6202"
-generated_at: "2026-03-30T02:54:08.209Z"
+generated_at: "2026-11-23T20:26:04.386Z"
+status: "active"
 ---
 
 # § 6202. Investigations to assist foreign antitrust authority in obtaining antitrust evidence
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.209Z"
   - **(2)** in enforcing any of such foreign antitrust laws.
 - **(c)** An investigation may be conducted under subsection (b), and antitrust evidence obtained through such investigation may be provided, without regard to whether the conduct investigated violates any of the Federal antitrust laws.
 - **(d)** A person may not be compelled in connection with an investigation under this section to give testimony or a statement, or to produce a document or other thing, in violation of any legally applicable right or privilege.
+
+## Source Credit
+
+*([Pub. L. 103–438, § 3](https://www.govinfo.gov/link/plaw/103/public/438), Nov. 2, 1994, [108 Stat. 4597](https://www.govinfo.gov/link/statute/108/4597).)*

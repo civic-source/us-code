@@ -3,9 +3,10 @@ title: "Section 985 - Persons convicted of capital crimes; certain other persons
 usc_title: 10
 usc_section: "985"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 985"
-generated_at: "2026-03-30T02:53:38.092Z"
+generated_at: "2026-11-23T20:25:51.164Z"
+status: "active"
 ---
 
 # § 985. Persons convicted of capital crimes; certain other persons: denial of specified burial-related benefits
@@ -19,3 +20,15 @@ generated_at: "2026-03-30T02:53:38.092Z"
   - **(3)** any other cemetery administered by the Secretary of a military department or the Secretary of Defense.
 - **(c)** Subsection (b) shall not preclude the burial at the United States Disciplinary Barracks Cemetery at Fort Leavenworth, Kansas, of a military prisoner, including a military prisoner who is a person described in section 2411(b) of title 38 , who dies while in custody of a military department and whose remains are not claimed by the person authorized to direct disposition of the remains or by other persons legally authorized to dispose of the remains.
 - **(d)** In this section, the term “burial” includes inurnment.
+
+Prohibition of Performance of Military Honors
+
+Disqualification From Burial in Military Cemeteries
+
+Unclaimed Remains of Military Prisoners
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 105–85, div. A, title X, § 1077(a)(1)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1914](https://www.govinfo.gov/link/statute/111/1914); amended [Pub. L. 107–296, title XVII, § 1704(b)(1)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314); [Pub. L. 109–163, div. A, title VI, § 662(b)(1)](https://www.govinfo.gov/link/plaw/109/public/163) –(3), (c)(1), Jan. 6, 2006, [119 Stat. 3315](https://www.govinfo.gov/link/statute/119/3315); [Pub. L. 115–232, div. A, title V, § 592](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1788](https://www.govinfo.gov/link/statute/132/1788).)*

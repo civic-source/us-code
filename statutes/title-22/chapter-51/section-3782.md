@@ -3,9 +3,10 @@ title: "Section 3782 - Transfers and cross-servicing between agencies"
 usc_title: 22
 usc_section: "3782"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3782"
-generated_at: "2026-03-30T02:55:05.397Z"
+generated_at: "2026-11-23T20:26:32.477Z"
+status: "active"
 ---
 
 # § 3782. Transfers and cross-servicing between agencies
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:05.397Z"
 - **(b)** The Commission may enter into cross-servicing agreements with any other department or agency of the United States for the use of facilities, furnishing of services, or performance of functions.
 - **(c)** The Commission, any department or agency of the United States, or any United States court in the Republic of Panama is authorized to transfer to the Government of the Republic of Panama any record of such Commission, department, agency, or court, or copy thereof, including any record acquired from the Canal Zone Government or Panama Canal Company (including any vital statistics record), to any other department, agency, or court of the United States if such action is determined by the Commission, the head of the department or agency concerned, or the judge of the court concerned to be in the interest of the United States. Transfer of any record or copy thereof under this section to the Government of the Republic of Panama shall be made under the coordination of and with the approval of the United States Ambassador to the Republic of Panama.
 - **(d)** The provisions of this section shall apply to the Smithsonian Institution.
+
+## Source Credit
+
+*([Pub. L. 96–70, title I, § 1502](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 488](https://www.govinfo.gov/link/statute/93/488).)*

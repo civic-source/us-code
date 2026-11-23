@@ -3,9 +3,10 @@ title: "Section 80303 - Governing body"
 usc_title: 36
 usc_section: "80303"
 chapter: 803
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 80303"
-generated_at: "2026-03-30T02:55:44.699Z"
+generated_at: "2026-11-23T20:26:58.912Z"
+status: "active"
 ---
 
 # § 80303. Governing body
@@ -22,3 +23,53 @@ generated_at: "2026-03-30T02:55:44.699Z"
   - **(1)** an executive committee to carry out the powers of the board of directors between meetings of the board; and
   - **(2)** other committees to operate under the general supervision of the board of directors.
 - **(d)** The Council and the board of directors may hold meetings and keep the seal and records of the corporation in or outside the District of Columbia.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 80303(a)(1) | 36:34 (1st sentence words before 1st comma, 2d sentence). | Mar. 16, 1950, ch. 62 , §§ 4 (1st–7th sentences), 5, 64 Stat. 23 , 24; Aug. 14, 1953, ch. 486, § 1 , 67 Stat. 582 . |
+| 80303(a)(2) | 36:34 (1st sentence words after 1st comma). |  |
+| 80303(a)(3) | 36:34 (3d sentence). |  |
+| 80303(a)(4) | 36:35 (1st, 2d sentences). |  |
+| 80303(b)(1) | 36:34 (4th sentence words before 1st comma, 5th, 7th sentences). |  |
+| 80303(b)(2) | 36:34 (6th sentence). |  |
+| 80303(c) | 36:34 (4th sentence words after 1st comma). |  |
+| 80303(d) | 36:35 (last sentence). |  |
+
+
+National Council
+
+Board of Directors
+
+Executive and Other Committees
+
+Location of Meetings and Records
+
+Historical and Revision Notes
+
+80303(a)(1)
+
+Mar. 16, 1950, ch. 62
+
+64 Stat. 23
+
+Aug. 14, 1953, ch. 486, § 1
+
+67 Stat. 582
+
+80303(a)(2)
+
+80303(a)(3)
+
+80303(a)(4)
+
+80303(b)(1)
+
+80303(b)(2)
+
+80303(c)
+
+80303(d)
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1361](https://www.govinfo.gov/link/statute/112/1361).)*

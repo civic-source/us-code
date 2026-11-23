@@ -3,9 +3,10 @@ title: "Section 1401 - Unauthorized use of pre-1972 sound recordings"
 usc_title: 17
 usc_section: "1401"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 1401"
-generated_at: "2026-03-30T02:54:15.357Z"
+generated_at: "2026-11-23T20:26:06.552Z"
+status: "active"
 ---
 
 # § 1401. Unauthorized use of pre-1972 sound recordings
@@ -128,3 +129,163 @@ generated_at: "2026-03-30T02:54:15.357Z"
     - **(B)** any person to which a right to enforce a violation of this section may be transferred, in whole or in part, after the date of enactment of this section, under—
       - **(i)** subsections (d) and (e) of section 201; and
       - **(ii)** section 204.
+
+In General.—
+
+Unauthorized acts
+
+Term of prohibition.—
+
+In general
+
+Transition periods.—
+
+Pre-1923 recordings
+
+recordings
+
+recordings
+
+Post-1956 recordings
+
+Rule of construction
+
+Certain Authorized Transmissions and Reproductions
+
+Certain Noncommercial Uses of Sound Recordings That Are Not Being Commercially Exploited.—
+
+In general
+
+Rules of construction
+
+Notice of covered activity
+
+Safe harbor.—
+
+In general
+
+Steps sufficient but not necessary
+
+Opting out of covered activity.—
+
+In general
+
+Rule of construction
+
+Civil penalties for certain acts.—
+
+Filing of notices of noncommercial use
+
+Filing of opt-out notices.—
+
+In general
+
+Pattern or practice
+
+Definition
+
+Payment of Royalties for Transmissions of Performances by Direct Licensing of Statutory Services.—
+
+In general
+
+Payment of royalties to nonprofit collective under certain license agreements.—
+
+Licenses entered into on or after date of enactment
+
+Certain agreements entered into before enactment
+
+(aa) the rights owner’s total gross performance royalty fee receipts or settlement monies received for all such transmissions covered under the license or settlement agreement, as applicable; and
+
+(bb) the rights owner’s total payments for outside legal expenses, including any payments of third-party claims, that are directly attributable to the license or settlement agreement, as applicable; and
+
+Distribution of royalties and settlement monies by collective
+
+Payment of royalties under license agreements entered before enactment or not otherwise described in paragraph (2).—
+
+In general
+
+Additional payments not required
+
+Rule of construction
+
+Preemption With Respect to Certain Past Acts.—
+
+In general
+
+Rule of construction for common law copyright
+
+Rule of construction for public performance rights
+
+Limitations on Remedies.—
+
+Fair use; uses by libraries, archives, and educational institutions.—
+
+In general
+
+Rule of construction for section 108(h)
+
+Actions
+
+Material online
+
+Principles of equity
+
+Filing requirement for statutory damages and attorneys’ fees.—
+
+Filing of information on sound recordings.—
+
+Filing requirement
+
+Regulations
+
+Filing of contact information for transmitting entities.—
+
+Filing requirement
+
+Time limit on filings
+
+Limitation on statutory damages and attorneys’ fees.—
+
+Limitation
+
+(aa) is sent by or on behalf of the rights owner of the sound recording;
+
+(bb) states that the entity is not legally authorized to use that sound recording under subsection (a); and
+
+(cc) identifies the sound recording in a schedule conforming to the requirements prescribed by the regulations issued under subparagraph (A)(ii).
+
+Undeliverable notices
+
+Section 412
+
+Applicability of other provisions.—
+
+In general
+
+Applicability of definitions
+
+Application of Section
+
+Safe Harbor
+
+Application to Rights Owners.—
+
+Transfers
+
+Application of other provisions
+
+Ephemeral Recordings
+
+Rule of Construction
+
+Treatment of States and State Instrumentalities, Officers, and Employees
+
+Definitions
+
+Covered activity
+
+Rights owner
+
+## Source Credit
+
+*(Added [Pub. L. 115–264, title II, § 202(a)(2)](https://www.govinfo.gov/link/plaw/115/public/264), Oct. 11, 2018, [132 Stat. 3728](https://www.govinfo.gov/link/statute/132/3728).)*

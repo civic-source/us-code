@@ -3,9 +3,10 @@ title: "Section 2101 - Definitions"
 usc_title: 41
 usc_section: "2101"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 2101"
-generated_at: "2026-03-30T02:55:55.803Z"
+generated_at: "2026-11-23T20:27:04.408Z"
+status: "active"
 ---
 
 # § 2101. Definitions
@@ -36,3 +37,86 @@ In this chapter:
     - **(H)** Rankings of bids, proposals, or competitors.
     - **(I)** Reports and evaluations of source selection panels, boards, or advisory councils.
     - **(J)** Other information marked as “source selection information” based on a case-by-case determination by the head of the agency, the head’s designee, or the contracting officer that its disclosure would jeopardize the integrity or successful completion of the Federal agency procurement to which the information relates.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 2101(1) | 41:423(f)(5). | Pub. L. 93–400, § 27(f) , as added Pub. L. 100–679, § 6(a) , Nov. 17, 1988 , 102 Stat. 4063 ; Pub. L. 101–189, title VIII, § 814(a) –(d)(1), Nov. 29, 1989 , 103 Stat. 1495 ; Pub. L. 101–510, title XIV, § 1484 ( l )(6), Nov. 5, 1990 , 104 Stat. 1720 ; Pub. L. 102–25, title VII, § 705(i) , Apr. 6, 1991 , 105 Stat. 121 ; Pub. L. 103–355, title VIII, § 8301(e) , Oct. 13, 1994 , 108 Stat. 3397 ; Pub. L. 104–106, title XLIII, § 4304(a) , Feb. 10, 1996 , 110 Stat. 662 . |
+| 2101(2) | 41:423(f)(1). |  |
+| 2101(3) | 41:423(f)(3). |  |
+| 2101(4) | 41:423(f)(4). |  |
+| 2101(5) | 41:423(f)(7). |  |
+| 2101(6) | 41:423(f)(6). |  |
+| 2101(7) | 41:423(f)(2). |  |
+
+
+Contracting officer
+
+Contractor bid or proposal information
+
+Federal agency
+
+Federal agency procurement
+
+Official
+
+Protest
+
+Source selection information
+
+Historical and Revision Notes
+
+2101(1)
+
+Pub. L. 93–400, § 27(f)
+
+Pub. L. 100–679, § 6(a)
+
+Nov. 17, 1988
+
+102 Stat. 4063
+
+Pub. L. 101–189, title VIII, § 814(a)
+
+Nov. 29, 1989
+
+103 Stat. 1495
+
+Pub. L. 101–510, title XIV, § 1484
+
+Nov. 5, 1990
+
+104 Stat. 1720
+
+Pub. L. 102–25, title VII, § 705(i)
+
+Apr. 6, 1991
+
+105 Stat. 121
+
+Pub. L. 103–355, title VIII, § 8301(e)
+
+Oct. 13, 1994
+
+108 Stat. 3397
+
+Pub. L. 104–106, title XLIII, § 4304(a)
+
+Feb. 10, 1996
+
+110 Stat. 662
+
+2101(2)
+
+2101(3)
+
+2101(4)
+
+2101(5)
+
+2101(6)
+
+2101(7)
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3727](https://www.govinfo.gov/link/statute/124/3727); [Pub. L. 117–81, div. A, title XVII, § 1702(h)(10)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2158](https://www.govinfo.gov/link/statute/135/2158).)*

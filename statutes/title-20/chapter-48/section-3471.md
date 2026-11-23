@@ -3,9 +3,10 @@ title: "Section 3471 - General authority"
 usc_title: 20
 usc_section: "3471"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 3471"
-generated_at: "2026-03-30T02:54:48.179Z"
+generated_at: "2026-11-23T20:26:14.734Z"
+status: "active"
 ---
 
 # § 3471. General authority
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:48.179Z"
 - **(b)**
   - **(1)** The director of any office continued in the Department the director of which was required, prior to May 4, 1980 , to report to the Commissioner of Education or the Assistant Secretary for Education of the Department of Health, Education, and Welfare, shall report to the Secretary.
   - **(2)** The Secretary is authorized to delegate reporting requirements vested in the Secretary by paragraph (1) to any officer or employee of the Department.
+
+## Source Credit
+
+*([Pub. L. 96–88, title IV, § 411](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 683](https://www.govinfo.gov/link/statute/93/683).)*

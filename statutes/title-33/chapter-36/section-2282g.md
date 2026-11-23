@@ -3,9 +3,10 @@ title: "Section 2282g - Scope of feasibility studies"
 usc_title: 33
 usc_section: "2282g"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2282g"
-generated_at: "2026-03-30T02:55:41.119Z"
+generated_at: "2026-11-23T20:26:54.158Z"
+status: "active"
 ---
 
 # § 2282g. Scope of feasibility studies
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:41.119Z"
   - **(1)** to maximize combined net benefits for the primary purpose of the study and for the purposes of water supply or water conservation (including the use of water supply conservation measures described in section 1116 of the Water Resources Development Act of 2016 ( 130 Stat. 1639 )); or
   - **(2)** to include 1 or more measures for the purposes of water supply or water conservation if the Secretary determines that such measures may reduce potential adverse impacts of extreme weather events, including drought, on water resources within the geographic scope of the study.
 - **(c)** All costs to carry out a feasibility study in accordance with this section shall be shared in accordance with the cost share requirements otherwise applicable to the study.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. H, title LXXXI, § 8106](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3699](https://www.govinfo.gov/link/statute/136/3699).)*

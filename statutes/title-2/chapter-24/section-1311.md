@@ -3,9 +3,10 @@ title: "Section 1311 - Rights and protections under title VII of Civil Rights Ac
 usc_title: 2
 usc_section: "1311"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1311"
-generated_at: "2026-03-30T02:53:04.809Z"
+generated_at: "2026-11-23T20:25:28.953Z"
+status: "active"
 ---
 
 # § 1311. Rights and protections under title VII of Civil Rights Act of 1964, Age Discrimination in Employment Act of 1967, Rehabilitation Act of 1973, and title I of Americans with Disabilities Act of 1990
@@ -32,3 +33,35 @@ generated_at: "2026-03-30T02:53:04.809Z"
   - **(2)** Nothing in paragraph (1) may be construed to extend liability for a violation of subsection (a) to an employing office on the basis of an action taken by any person who is not under the supervision or control of the employing office.
   - **(3)** For purposes of this subsection, the term “intern” means an individual who performs service for an employing office which is uncompensated by the United States to earn credit awarded by an educational institution or to learn a trade or occupation, and includes any individual participating in a page program operated by any House of Congress.
 - **(e)** This section shall take effect 1 year after January 23, 1995 .
+
+Coverage of the House of Representatives
+
+In general
+
+Employment in the house
+
+Application
+
+Administration
+
+In general
+
+Resolution
+
+Exercise of rulemaking power
+
+Instrumentalities of Congress
+
+In general
+
+Establishment of remedies and procedures by instrumentalities
+
+Report to congress
+
+Definition of instrumentalities
+
+Construction
+
+## Source Credit
+
+*([Pub. L. 104–1, title II, § 201](https://www.govinfo.gov/link/plaw/104/public/1), Jan. 23, 1995, [109 Stat. 7](https://www.govinfo.gov/link/statute/109/7); [Pub. L. 115–397, title III, § 302(a)](https://www.govinfo.gov/link/plaw/115/public/397), Dec. 21, 2018, [132 Stat. 5321](https://www.govinfo.gov/link/statute/132/5321).)*

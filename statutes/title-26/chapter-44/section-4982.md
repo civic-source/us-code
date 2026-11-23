@@ -3,9 +3,10 @@ title: "Section 4982 - Excise tax on undistributed income of regulated investmen
 usc_title: 26
 usc_section: "4982"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 4982"
-generated_at: "2026-03-30T02:55:27.815Z"
+generated_at: "2026-11-23T20:26:46.383Z"
+status: "active"
 ---
 
 # § 4982. Excise tax on undistributed income of regulated investment companies
@@ -75,3 +76,7 @@ generated_at: "2026-03-30T02:55:27.815Z"
   - **(2)** a segregated asset account of a life insurance company held in connection with variable contracts (as defined in section 817(d)),
   - **(3)** any other tax-exempt entity whose ownership of beneficial interests in the company would not preclude the application of section 817(h)(4), or
   - **(4)** another regulated investment company described in this subsection.
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title VI, § 651(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2294](https://www.govinfo.gov/link/statute/100/2294); amended [Pub. L. 100–203, title X, § 10104(b)(1)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–387](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–647, title I, § 1006](https://www.govinfo.gov/link/plaw/100/public/647) (l)(2), (5), (6), Nov. 10, 1988, [102 Stat. 3413](https://www.govinfo.gov/link/statute/102/3413), 3414; [Pub. L. 101–239, title VII, § 7204(a)(1)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2334](https://www.govinfo.gov/link/statute/103/2334); [Pub. L. 105–34, title XI, § 1122(c)(1)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 976](https://www.govinfo.gov/link/statute/111/976); [Pub. L. 111–325, title IV](https://www.govinfo.gov/link/plaw/111/public/325), §§ 401(a), 402(a), 403(a), 404(a), Dec. 22, 2010, [124 Stat. 3552–3554](https://www.govinfo.gov/link/statute/124/3552); [Pub. L. 113–295, div. A, title II](https://www.govinfo.gov/link/plaw/113/public/295), §§ 205(d), 220(s), Dec. 19, 2014, [128 Stat. 4026](https://www.govinfo.gov/link/statute/128/4026), 4036.)*

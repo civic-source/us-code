@@ -3,9 +3,10 @@ title: "Section 886a - Diversion Control Fee Account"
 usc_title: 21
 usc_section: "886a"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 886a"
-generated_at: "2026-03-30T02:54:54.298Z"
+generated_at: "2026-11-23T20:26:27.854Z"
+status: "active"
 ---
 
 # § 886a. Diversion Control Fee Account
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:54.298Z"
   - **(2)** In this section:
     - **(A)** The term “diversion control program” means the controlled substance and chemical diversion control activities of the Drug Enforcement Administration.
     - **(B)** The term “controlled substance and chemical diversion control activities” means those activities related to the registration and control of the manufacture, distribution, dispensing, importation, and exportation of controlled substances and listed chemicals.
+
+## Source Credit
+
+*([Pub. L. 102–395, title I, § 111(b)](https://www.govinfo.gov/link/plaw/102/public/395), Oct. 6, 1992, [106 Stat. 1843](https://www.govinfo.gov/link/statute/106/1843); [Pub. L. 105–362, title X, § 1001(b)](https://www.govinfo.gov/link/plaw/105/public/362), Nov. 10, 1998, [112 Stat. 3291](https://www.govinfo.gov/link/statute/112/3291); [Pub. L. 108–447, div. B, title VI, § 633(a)](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 2921](https://www.govinfo.gov/link/statute/118/2921).)*

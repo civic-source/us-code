@@ -3,9 +3,10 @@ title: "Section 16198 - Smart energy and water efficiency pilot program"
 usc_title: 42
 usc_section: "16198"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16198"
-generated_at: "2026-03-30T02:56:11.472Z"
+generated_at: "2026-11-23T20:27:23.628Z"
+status: "active"
 ---
 
 # § 16198. Smart energy and water efficiency pilot program
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:56:11.472Z"
       - **(ii)** a description of any best practices identified by the Secretary as a result of those evaluations.
     - **(E)** The Secretary shall submit to Congress a report containing the results of each evaluation carried out under subparagraph (B).
 - **(c)** There is authorized to be appropriated to the Secretary to carry out this section $15,000,000, to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 918](https://www.govinfo.gov/link/plaw/109/public/58), as added [Pub. L. 116–260, div. Z, title I, § 1014(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2451](https://www.govinfo.gov/link/statute/134/2451).)*

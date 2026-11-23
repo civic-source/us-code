@@ -3,9 +3,10 @@ title: "Section 12332 - State databases"
 usc_title: 34
 usc_section: "12332"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12332"
-generated_at: "2026-03-30T02:55:33.286Z"
+generated_at: "2026-11-23T20:26:50.544Z"
+status: "active"
 ---
 
 # § 12332. State databases
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:33.286Z"
 - **(b)** In conducting its study, the Attorney General shall consult persons expert in the collection of criminal justice data, State statistical administrators, law enforcement personnel, and nonprofit nongovernmental agencies that provide direct services to victims of domestic violence. The final report shall set forth the views of the persons consulted on the recommendations.
 - **(c)** The Attorney General shall ensure that no later than 1 year after September 13, 1994 , the study required under subsection (a) is completed and a report describing the findings made is submitted to the Committees on the Judiciary of the Senate and the House of Representatives.
 - **(d)** There are authorized to be appropriated to carry out this section $200,000 for fiscal year 1996.
+
+## Source Credit
+
+*([Pub. L. 103–322, title IV, § 40292](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1939](https://www.govinfo.gov/link/statute/108/1939).)*

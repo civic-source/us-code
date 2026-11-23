@@ -3,9 +3,10 @@ title: "Section 193 - Procedure before Secretary for violations"
 usc_title: 7
 usc_section: "193"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 193"
-generated_at: "2026-03-30T02:53:42.276Z"
+generated_at: "2026-11-23T20:25:40.994Z"
+status: "active"
 ---
 
 # § 193. Procedure before Secretary for violations
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:42.276Z"
 - **(b)** If, after such hearing, the Secretary finds that the packer or swine contractor has violated or is violating any provisions of this subchapter covered by the charges, he shall make a report in writing in which he shall state his findings as to the facts, and shall issue and cause to be served on the packer or swine contractor an order requiring such packer or swine contractor to cease and desist from continuing such violation. The testimony taken at the hearing shall be reduced to writing and filed in the records of the Department of Agriculture. The Secretary may also assess a civil penalty of not more than $10,000 for each such violation. In determining the amount of the civil penalty to be assessed under this section, the Secretary shall consider the gravity of the offense, the size of the business involved, and the effect of the penalty on the person’s ability to continue in business. If, after the lapse of the period allowed for appeal or after the affirmance of such penalty, the person against whom the civil penalty is assessed fails to pay such penalty, the Secretary may refer the matter to the Attorney General who may recover such penalty by an action in the appropriate district court of the United States.
 - **(c)** Until the record in such hearing has been filed in a court of appeals of the United States, as provided in section 194 of this title , the Secretary at any time, upon such notice and in such manner as he deems proper, but only after reasonable opportunity to the packer or swine contractor to be heard, may amend or set aside the report or order, in whole or in part.
 - **(d)** Complaints, orders, and other processes of the Secretary under this section may be served in the same manner as provided in section 45 of title 15 .
+
+## Source Credit
+
+*(Aug. 15, 1921, ch. 64, title II, § 203, [42 Stat. 161](https://www.govinfo.gov/link/statute/42/161); June 25, 1948, ch. 646, § 32(a), [62 Stat. 991](https://www.govinfo.gov/link/statute/62/991); May 24, 1949, ch. 139, § 127, [63 Stat. 107](https://www.govinfo.gov/link/statute/63/107); [Pub. L. 85–791, § 6(a)](https://www.govinfo.gov/link/plaw/85/public/791), Aug. 28, 1958, [72 Stat. 944](https://www.govinfo.gov/link/statute/72/944); [Pub. L. 94–410, § 3(b)](https://www.govinfo.gov/link/plaw/94/public/410), Sept. 13, 1976, [90 Stat. 1249](https://www.govinfo.gov/link/statute/90/1249); [Pub. L. 107–171, title X, § 10502(b)(1)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 509](https://www.govinfo.gov/link/statute/116/509).)*

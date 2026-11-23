@@ -3,9 +3,10 @@ title: "Section 3122 - Application for an order for a pen register or a trap and
 usc_title: 18
 usc_section: "3122"
 chapter: 206
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 3122"
-generated_at: "2026-03-30T02:54:16.511Z"
+generated_at: "2026-11-23T20:26:08.656Z"
+status: "active"
 ---
 
 # § 3122. Application for an order for a pen register or a trap and trace device
@@ -16,3 +17,11 @@ generated_at: "2026-03-30T02:54:16.511Z"
 - **(b)** An application under subsection (a) of this section shall include—
   - **(1)** the identity of the attorney for the Government or the State law enforcement or investigative officer making the application and the identity of the law enforcement agency conducting the investigation; and
   - **(2)** a certification by the applicant that the information likely to be obtained is relevant to an ongoing criminal investigation being conducted by that agency.
+
+Application
+
+Contents of Application
+
+## Source Credit
+
+*(Added [Pub. L. 99–508, title III, § 301(a)](https://www.govinfo.gov/link/plaw/99/public/508), Oct. 21, 1986, [100 Stat. 1869](https://www.govinfo.gov/link/statute/100/1869).)*

@@ -3,9 +3,10 @@ title: "Section 954a - Access to the arts through support of education"
 usc_title: 20
 usc_section: "954a"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 954a"
-generated_at: "2026-03-30T02:54:48.088Z"
+generated_at: "2026-11-23T20:26:14.278Z"
+status: "active"
 ---
 
 # § 954a. Access to the arts through support of education
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:48.088Z"
   - **(8)** support the use of technology and improved facilities and resources in education in the arts programs at all levels; and
   - **(9)** foster the development of demonstration projects, demonstration productions, demonstration workshops, and demonstration programs in arts education and collect, and make available to the public, information on their implementation and effectiveness.
 - **(c)** In order to provide advice and counsel concerning arts education, the Chairperson shall appoint an advisory council on arts education.
+
+## Source Credit
+
+*([Pub. L. 89–209, § 5A](https://www.govinfo.gov/link/plaw/89/public/209), as added [Pub. L. 101–512, title III, § 318 [title I, § 105]](https://www.govinfo.gov/link/plaw/101/public/512), Nov. 5, 1990, [104 Stat. 1960](https://www.govinfo.gov/link/statute/104/1960), 1967.)*

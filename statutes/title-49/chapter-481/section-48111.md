@@ -3,9 +3,10 @@ title: "Section 48111 - Funding proposals"
 usc_title: 49
 usc_section: "48111"
 chapter: 481
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 48111"
-generated_at: "2026-03-30T02:56:19.408Z"
+generated_at: "2026-11-23T20:27:35.362Z"
+status: "active"
 ---
 
 # § 48111. Funding proposals
@@ -18,3 +19,19 @@ generated_at: "2026-03-30T02:56:19.408Z"
 - **(d)** The provisions of this section are enacted—
   - **(1)** as an exercise of the rulemaking power of the Senate and as such they are deemed a part of the rules of the Senate and they supersede other rules only to the extent that they are inconsistent therewith; and
   - **(2)** with full recognition of the constitutional right of the Senate to change the rules (so far as relating to the procedure of the Senate) at any time, in the same manner and to the same extent as in the case of any other rule of the Senate.
+
+Introduction in the Senate
+
+Consideration in the Senate
+
+Definitions
+
+Implementing bill
+
+Funding proposal
+
+Rules of the Senate
+
+## Source Credit
+
+*(Added [Pub. L. 104–264, title II, § 275(a)](https://www.govinfo.gov/link/plaw/104/public/264), Oct. 9, 1996, [110 Stat. 3246](https://www.govinfo.gov/link/statute/110/3246).)*

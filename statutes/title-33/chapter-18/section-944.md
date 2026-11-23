@@ -3,9 +3,10 @@ title: "Section 944 - Special fund"
 usc_title: 33
 usc_section: "944"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 944"
-generated_at: "2026-03-30T02:55:41.079Z"
+generated_at: "2026-11-23T20:26:53.951Z"
+status: "active"
 ---
 
 # § 944. Special fund
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:41.079Z"
   - **(3)** To repay the sums deposited in the fund pursuant to subsection (d).
   - **(4)** To defray the expense of making examinations as provided in section 907(e) of this title .
 - **(j)** The fund shall be audited annually and the results of such audit shall be included in the annual report required by section 942 of this title .
+
+## Source Credit
+
+*(Mar. 4, 1927, ch. 509, § 44, [44 Stat. 1444](https://www.govinfo.gov/link/statute/44/1444); July 26, 1956, ch. 735, § 8, [70 Stat. 656](https://www.govinfo.gov/link/statute/70/656); [Pub. L. 92–576, § 8](https://www.govinfo.gov/link/plaw/92/public/576), Oct. 27, 1972, [86 Stat. 1256](https://www.govinfo.gov/link/statute/86/1256); [Pub. L. 98–426](https://www.govinfo.gov/link/plaw/98/public/426), §§ 24, 27(a)(2), Sept. 28, 1984, [98 Stat. 1653](https://www.govinfo.gov/link/statute/98/1653), 1654.)*

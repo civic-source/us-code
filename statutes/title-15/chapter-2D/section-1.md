@@ -3,9 +3,10 @@ title: "Section 1 - Findings"
 usc_title: 15
 usc_section: "1"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1"
-generated_at: "2026-03-30T02:54:08.071Z"
+generated_at: "2026-11-23T20:26:03.630Z"
+status: "active"
 ---
 
 # § 80b–1. Findings
@@ -15,3 +16,7 @@ Upon the basis of facts disclosed by the record and report of the Securities and
   - **(1)** their advice, counsel, publications, writings, analyses, and reports are furnished and distributed, and their contracts, subscription agreements, and other arrangements with clients are negotiated and performed, by the use of the mails and means and instrumentalities of interstate commerce;
   - **(2)** their advice, counsel, publications, writings, analyses, and reports customarily relate to the purchase and sale of securities traded on national securities exchanges and in interstate over-the-counter markets, securities issued by companies engaged in business in interstate commerce, and securities issued by national banks and member banks of the Federal Reserve System; and
   - **(3)** the foregoing transactions occur in such volume as substantially to affect interstate commerce, national securities exchanges, and other securities markets, the national banking system and the national economy.
+
+## Source Credit
+
+*(Aug. 22, 1940, ch. 686, title II, § 201, [54 Stat. 847](https://www.govinfo.gov/link/statute/54/847).)*

@@ -3,9 +3,10 @@ title: "Section 216 - Protection against potential synthetic opioid exposure"
 usc_title: 6
 usc_section: "216"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 216"
-generated_at: "2026-03-30T02:53:09.452Z"
+generated_at: "2026-11-23T20:25:34.669Z"
+status: "active"
 ---
 
 # § 216. Protection against potential synthetic opioid exposure
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:09.452Z"
 - **(d)** To ensure effectiveness of the policy described in subsection (a)—
   - **(1)** the Commissioner of U.S. Customs and Border Protection shall regularly monitor the efficacy of the implementation of such policy and adjust protocols and procedures, as necessary; and
   - **(2)** the Inspector General of the Department shall audit compliance with the requirements of this section not less than once during the 3-year period after December 27, 2020 .
+
+## Source Credit
+
+*([Pub. L. 107–296, title IV, § 416](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 116–260, div. U, title III, § 302(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2291](https://www.govinfo.gov/link/statute/134/2291); amended [Pub. L. 117–263, div. G, title LXXI, § 7135(a)](https://www.govinfo.gov/link/plaw/117/public/263), (b), Dec. 23, 2022, [136 Stat. 3650](https://www.govinfo.gov/link/statute/136/3650).)*

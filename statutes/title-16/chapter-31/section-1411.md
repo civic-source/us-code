@@ -3,9 +3,10 @@ title: "Section 1411 - Findings and policy"
 usc_title: 16
 usc_section: "1411"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1411"
-generated_at: "2026-03-30T02:54:22.964Z"
+generated_at: "2026-11-23T20:26:20.475Z"
+status: "active"
 ---
 
 # § 1411. Findings and policy
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:22.964Z"
   - **(3)** ensure that the market of the United States does not act as an incentive to the harvest of tuna caught with driftnets or caught by purse seine vessels in the eastern tropical Pacific Ocean not operating in compliance with the International Dolphin Conservation Program;
   - **(4)** secure appropriate multilateral agreements to ensure that United States tuna fishing vessels shall have continued access to productive tuna fishing grounds in the South Pacific Ocean and elsewhere; and
   - **(5)** encourage observer coverage on purse seine vessels fishing for tuna outside of the eastern tropical Pacific Ocean in a fishery in which the Secretary has determined that a regular and significant association occurs between marine mammals and tuna, and in which tuna is harvested through the use of purse seine nets deployed on or to encircle marine mammals.
+
+## Source Credit
+
+*([Pub. L. 92–522, title III, § 301](https://www.govinfo.gov/link/plaw/92/public/522), as added [Pub. L. 102–523, § 2(a)](https://www.govinfo.gov/link/plaw/102/public/523), Oct. 26, 1992, [106 Stat. 3425](https://www.govinfo.gov/link/statute/106/3425); amended [Pub. L. 105–42, § 6(b)](https://www.govinfo.gov/link/plaw/105/public/42), Aug. 15, 1997, [111 Stat. 1129](https://www.govinfo.gov/link/statute/111/1129).)*

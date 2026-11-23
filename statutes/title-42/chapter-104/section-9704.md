@@ -3,9 +3,10 @@ title: "Section 9704 - National reactor engineering simulator feasibility study"
 usc_title: 42
 usc_section: "9704"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9704"
-generated_at: "2026-03-30T02:56:11.365Z"
+generated_at: "2026-11-23T20:27:23.132Z"
+status: "active"
 ---
 
 # § 9704. National reactor engineering simulator feasibility study
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.365Z"
   - **(6)** the potential for international cooperation in the establishment and operation of such a facility; and
   - **(7)** the appropriate national laboratory for siting such a facility.
 - **(c)** The Secretary shall, by January 1, 1982 , submit to the Committee on Science and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report characterizing the study and the resulting conclusions and recommendations.
+
+## Source Credit
+
+*([Pub. L. 96–567, § 5](https://www.govinfo.gov/link/plaw/96/public/567), Dec. 22, 1980, [94 Stat. 3331](https://www.govinfo.gov/link/statute/94/3331).)*

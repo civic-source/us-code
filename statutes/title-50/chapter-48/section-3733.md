@@ -3,9 +3,10 @@ title: "Section 3733 - Limitation on use of funds until certain permits obtained
 usc_title: 50
 usc_section: "3733"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3733"
-generated_at: "2026-03-30T02:56:26.260Z"
+generated_at: "2026-11-23T20:27:31.036Z"
+status: "active"
 ---
 
 # § 3733. Limitation on use of funds until certain permits obtained
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:26.260Z"
 - **(d)** In this section, with respect to a project under the Program:
   - **(1)** The term “new construction project” means a construction project for which no funds have been obligated or expended as of November 24, 2003 .
   - **(2)** The term “permit” means any local or national permit for development, general construction, environmental, land use, or other purposes that is required for purposes of major construction.
+
+## Source Credit
+
+*([Pub. L. 113–291, div. A, title XIII, § 1333](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3602](https://www.govinfo.gov/link/statute/128/3602).)*

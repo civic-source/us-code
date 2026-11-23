@@ -3,9 +3,10 @@ title: "Section 7675 - American innovation and manufacturing"
 usc_title: 42
 usc_section: "7675"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7675"
-generated_at: "2026-03-30T02:56:11.328Z"
+generated_at: "2026-11-23T20:27:22.970Z"
+status: "active"
 ---
 
 # § 7675. American innovation and manufacturing
@@ -88,7 +89,16 @@ generated_at: "2026-03-30T02:56:11.328Z"
         - **(I)** 15 percent of the consumption level of hydrochlorofluorocarbons in calendar year 1989; and
         - **(II)** 0.42 percent of the consumption level of chlorofluorocarbons in calendar year 1989.
     - **(D)**
-      - **(i)** For purposes of establishing the baselines pursuant to subparagraphs (B) and (C), the Administrator shall use the exchange values listed in the table contained in subsection (c)(1) for regulated substances and the following exchange values for hydrochlorofluorocarbons and chlorofluorocarbons: Table 2 Chemical Name Common Name Exchange Value CHFC1 2 HCFC–21 151 CHF 2 C1 HCFC–22 1810 C 2 HF 3 C1 2 HCFC–123 77 C 2 HF 4 C1 HCFC–124 609 CH 3 CFC1 2 HCFC–141b 725 CH 3 CF 2 C1 HCFC–142b 2310 CF 3 CF 2 CHC1 2 HCFC–225ca 122 CF 2 C1CF 2 CHC1F HCFC–225cb 595 Table 3 Chemical Name Common Name Exchange Value CFC1 3 CFC–11 4750 CF 2 C1 2 CFC–12 10900 C 2 F 3 C1 3 CFC–113 6130 C 2 F 4 C1 2 CFC–114 10000 C 2 F 5 C1 CFC–115 7370
+      - **(i)** For purposes of establishing the baselines pursuant to subparagraphs (B) and (C), the Administrator shall use the exchange values listed in the table contained in subsection (c)(1) for regulated substances and the following exchange values for hydrochlorofluorocarbons and chlorofluorocarbons: Table 2 Chemical Name Common Name Exchange Value CHFC1 2 HCFC–21 151 CHF 2 C1 HCFC–22 1810 C 2 HF 3 C1 2 HCFC–123 77 C 2 HF 4 C1 HCFC–124 609 CH 3 CFC1 2 HCFC–141b 725 CH 3 CF 2 C1 HCFC–142b 2310 CF 3 CF 2 CHC1 2 HCFC–225ca 122 CF 2 C1CF 2 CHC1F HCFC–225cb 595
+
+| Table 3 | Col 2 | Col 3 |
+| --- | --- | --- |
+| CFC1 3 | CFC–11 | 4750 |
+| CF 2 C1 2 | CFC–12 | 10900 |
+| C 2 F 3 C1 3 | CFC–113 | 6130 |
+| C 2 F 4 C1 2 | CFC–114 | 10000 |
+| C 2 F 5 C1 | CFC–115 | 7370 |
+
       - **(ii)** The Administrator may—
         - **(I)** review the exchange values listed in the tables contained in clause (i) on a periodic basis; and
         - **(II)** subject to notice and opportunity for public comment, adjust the exchange values solely on the basis of—
@@ -251,3 +261,76 @@ generated_at: "2026-03-30T02:56:11.328Z"
     - **(B)**
       - **(i)** Subject to clause (ii), if, pursuant to subclause (I) of subsection (e)(4)(B)(v), the Administrator authorizes an additional period under subclause (II) of that subsection for the production or consumption of a regulated substance for an exclusive use described in subparagraph (A), no State or political subdivision of a State may enforce a statute or administrative action restricting the management or use of the regulated substance within that exclusive use for the duration of that additional period.
       - **(ii)** The period for which the limitation under clause (i) applies shall not exceed 5 years from the date on which the period described in subparagraph (A) ends.
+
+| Chemical Name | Common Name | Exchange Value |
+| --- | --- | --- |
+| CHF 2 CHF 2 | HFC–134 | 1100 |
+| CH 2 FCF 3 | HFC–134a | 1430 |
+| CH 2 FCHF 2 | HFC–143 | 353 |
+| CHF 2 CH 2 CF 3 | HFC–245fa | 1030 |
+| CF 3 CH 2 CF 2 CH 3 | HFC–365mfc | 794 |
+| CF 3 CHFCF 3 | HFC–227ea | 3220 |
+| CH 2 FCF 2 CF 3 | HFC–236cb | 1340 |
+| CHF 2 CHFCF 3 | HFC–236ea | 1370 |
+| CF 3 CH 2 CF 3 | HFC–236fa | 9810 |
+| CH 2 FCF 2 CHF 2 | HFC–245ca | 693 |
+| CF 3 CHFCHFCF 2 CF 3 | HFC–43–10mee | 1640 |
+| CH 2 F 2 | HFC–32 | 675 |
+| CHF 2 CF 3 | HFC–125 | 3500 |
+| CH 3 CF 3 | HFC–143a | 4470 |
+| CH 3 F | HFC–41 | 92 |
+| CH 2 FCH 2 F | HFC–152 | 53 |
+| CH 3 CHF 2 | HFC–152a | 124 |
+| CHF 3 | HFC–23 | 14800. |
+
+| Table 2 | Col 2 | Col 3 |
+| --- | --- | --- |
+| CHFC1 2 | HCFC–21 | 151 |
+| CHF 2 C1 | HCFC–22 | 1810 |
+| C 2 HF 3 C1 2 | HCFC–123 | 77 |
+| C 2 HF 4 C1 | HCFC–124 | 609 |
+| CH 3 CFC1 2 | HCFC–141b | 725 |
+| CH 3 CF 2 C1 | HCFC–142b | 2310 |
+| CF 3 CF 2 CHC1 2 | HCFC–225ca | 122 |
+| CF 2 C1CF 2 CHC1F | HCFC–225cb | 595 |
+
+| Date | Percentage of Production Baseline | Percentage of Consumption Baseline |
+| --- | --- | --- |
+| 2020–2023 | 90 percent | 90 percent |
+| 2024–2028 | 60 percent | 60 percent |
+| 2029–2033 | 30 percent | 30 percent |
+| 2034–2035 | 20 percent | 20 percent |
+| 2036 and thereafter | 15 percent | 15 percent |
+
+
+(aa) the best available science; and
+
+(bb) other information consistent with widely used or commonly accepted existing exchange values.
+
+(aa) does not constitute a property right; and
+
+(bb) is a limited authorization for the production or consumption of a regulated substance under this section.
+
+(aa) make the complete petition available to the public; and
+
+(bb) when making the petition available to the public under item (aa), propose and seek public comment on— (AA) a determination of whether to designate the application as an essential use; and (BB) if the Administrator proposes to designate the application as an essential use, making the requisite allocation of allowances; and
+
+(aa) a propellant in metered-dose inhalers;
+
+(bb) defense sprays;
+
+(cc) structural composite preformed polyurethane foam for marine use and trailer use;
+
+(dd) the etching of semiconductor material or wafers and the cleaning of chemical vapor deposition chambers within the semiconductor manufacturing sector;
+
+(ee) mission-critical military end uses, such as armored vehicle engine and shipboard fire suppression systems and systems used in deployable and expeditionary applications; and
+
+(ff) onboard aerospace fire suppression.
+
+(aa) make the complete petition available to the public; and
+
+(bb) when making the petition available to the public under item (aa), propose and seek public comment on the proposal of the Administrator to grant or deny the petition; and
+
+## Source Credit
+
+*([Pub. L. 116–260, div. S, § 103](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2255](https://www.govinfo.gov/link/statute/134/2255).)*

@@ -3,9 +3,10 @@ title: "Section 3007 - Detention of mail for temporary periods"
 usc_title: 39
 usc_section: "3007"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "39 U.S.C. § 3007"
-generated_at: "2026-03-30T02:55:43.692Z"
+generated_at: "2026-11-23T20:26:57.740Z"
+status: "active"
 ---
 
 # § 3007. Detention of mail for temporary periods
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:43.692Z"
   - **(4)** No finding of the defendant’s intent to make a false representation or to conduct a lottery is required to support the issuance of an order under this section.
 - **(b)** If any order is issued under subsection (a) and the proceedings under section 3005 are concluded with the issuance of an order under that section, any judicial review of the matter shall be in the district in which the order under subsection (a) was issued.
 - **(c)** This section does not apply to mail addressed to publishers of newspapers and other periodical publications entitled to a periodical publication rate or to mail addressed to the agents of those publishers.
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 747](https://www.govinfo.gov/link/statute/84/747); [Pub. L. 106–168, title I, § 105(a)](https://www.govinfo.gov/link/plaw/106/public/168), Dec. 12, 1999, [113 Stat. 1810](https://www.govinfo.gov/link/statute/113/1810).)*

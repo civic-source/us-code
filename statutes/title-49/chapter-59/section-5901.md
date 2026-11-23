@@ -3,9 +3,10 @@ title: "Section 5901 - Definitions"
 usc_title: 49
 usc_section: "5901"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 5901"
-generated_at: "2026-03-30T02:56:19.320Z"
+generated_at: "2026-11-23T20:27:34.694Z"
+status: "active"
 ---
 
 # § 5901. Definitions
@@ -22,3 +23,34 @@ In this chapter—
   - **(6)** “gross cargo weight” means the weight of the cargo, packaging materials (including ice), pallets, and dunnage.
   - **(7)** “intermodal transportation” means the successive transportation of a loaded container or trailer from its place of origin to its place of destination by more than one mode of transportation in interstate or foreign commerce, whether under a single bill of lading or under separate bills of lading.
   - **(8)** “trailer” means a nonpower, property-carrying, trailing unit that is designed for use in combination with a truck tractor.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5901(1) | 49:501(a)(1). |  |
+| 5901(2) | 49:501(a)(4). |  |
+| 5901(3) | 49:501(a)(5). |  |
+| 5901(4) | 49:501(a)(6). |  |
+| 5901(5) | 49:501(a)(7). |  |
+| 5901(6) | 49:501(a)(8). |  |
+| 5901(7) | 49:501(a)(9). |  |
+
+
+Historical and Revision Notes
+
+5901(1)
+
+5901(2)
+
+5901(3)
+
+5901(4)
+
+5901(5)
+
+5901(6)
+
+5901(7)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 859](https://www.govinfo.gov/link/statute/108/859); [Pub. L. 104–291, title II, § 203](https://www.govinfo.gov/link/plaw/104/public/291), Oct. 11, 1996, [110 Stat. 3453](https://www.govinfo.gov/link/statute/110/3453); [Pub. L. 109–304, § 17(h)(2)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1709](https://www.govinfo.gov/link/statute/120/1709).)*

@@ -3,9 +3,10 @@ title: "Section 407dd - Directives to Secretary"
 usc_title: 16
 usc_section: "407dd"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 407dd"
-generated_at: "2026-03-30T02:54:22.758Z"
+generated_at: "2026-11-23T20:26:19.443Z"
+status: "active"
 ---
 
 # § 407dd. Directives to Secretary
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:22.758Z"
 - **(d)** The Secretary may enter into cooperative agreements with the owners or administrators of historic sites closely associated with the Constitution, pursuant to which the Secretary may provide technical assistance in the preservation and interpretation of such sites.
 - **(e)** The Secretary shall contract with the National Constitution Center and other qualified institutions of higher learning for research and other activities including the distribution of interpretive and educational materials as appropriate in order to carry out the provisions of this subchapter.
 - **(f)** Nothing in this section may be construed to alter or waive the requirement that the Secretary maintain the historic integrity of units of the National Park System, including compliance with section 306108 of title 54 .
+
+## Source Credit
+
+*([Pub. L. 100–433, § 5](https://www.govinfo.gov/link/plaw/100/public/433), Sept. 16, 1988, [102 Stat. 1641](https://www.govinfo.gov/link/statute/102/1641).)*

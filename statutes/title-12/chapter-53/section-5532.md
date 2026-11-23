@@ -3,9 +3,10 @@ title: "Section 5532 - Disclosures"
 usc_title: 12
 usc_section: "5532"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5532"
-generated_at: "2026-03-30T02:53:53.545Z"
+generated_at: "2026-11-23T20:25:59.521Z"
+status: "active"
 ---
 
 # § 5532. Disclosures
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:53.545Z"
   - **(2)** The standards and procedures issued by the Bureau shall be designed to encourage covered persons to conduct trial disclosure programs. For the purposes of administering this subsection, the Bureau may establish a limited period during which a covered person conducting a trial disclosure program shall be deemed to be in compliance with, or may be exempted from, a requirement of a rule or an enumerated consumer law.
   - **(3)** The rules of the Bureau shall provide for public disclosure of trial disclosure programs, which public disclosure may be limited, to the extent necessary to encourage covered persons to conduct effective trials.
 - **(f)** Not later than 1 year after the designated transfer date, the Bureau shall propose for public comment rules and model disclosures that combine the disclosures required under the Truth in Lending Act [ 15 U.S.C. 1601 et seq.] and sections 2603 and 2604 of this title, into a single, integrated disclosure for mortgage loan transactions covered by those laws, unless the Bureau determines that any proposal issued by the Board of Governors and the Secretary of Housing and Urban Development carries out the same purpose.
+
+## Source Credit
+
+*([Pub. L. 111–203, title X, § 1032](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2006](https://www.govinfo.gov/link/statute/124/2006).)*

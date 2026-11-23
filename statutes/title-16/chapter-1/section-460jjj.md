@@ -3,9 +3,10 @@ title: "Section 460jjj - Establishment"
 usc_title: 16
 usc_section: "460jjj"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 460jjj"
-generated_at: "2026-03-30T02:54:22.839Z"
+generated_at: "2026-11-23T20:26:20.012Z"
+status: "active"
 ---
 
 # § 460jjj. Establishment
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:22.839Z"
 - **(b)** The recreation area shall be comprised of approximately 57,000 acres of lands and interests in lands within the Santa Fe National Forest as generally depicted on the map entitled “Jemez National Recreation Area—Proposed” and dated September 1992. The map shall be on file and available for public inspection in the offices of the Chief of the Forest Service, Department of Agriculture, Washington, District of Columbia. The Secretary may from time to time, in consultation with local tribal leaders, make minor revisions in the boundary of the recreation area to promote management effectiveness and efficiency in furtherance of the purposes of this subchapter.
 - **(c)** As soon as practicable after October 12, 1993 , the Secretary shall file a map and legal description of the recreation area with the Committee on Natural Resources of the House of Representatives and with the Committee on Energy and Natural Resources and the Committee on Indian Affairs of the Senate. Such map and legal description shall have the same force and effect as if included in this subchapter, except that correction of clerical and typographical errors in such legal description and map may be made. Such map and legal description shall be on file and available for public inspection in the Office of the Chief of the Forest Service, Department of Agriculture.
 - **(d)** No lands or interests therein outside of the boundaries of the recreation area may be added to the recreation area without specific authorization by Congress.
+
+## Source Credit
+
+*([Pub. L. 103–104, § 1](https://www.govinfo.gov/link/plaw/103/public/104), Oct. 12, 1993, [107 Stat. 1025](https://www.govinfo.gov/link/statute/107/1025); [Pub. L. 103–437, § 6(q)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4587](https://www.govinfo.gov/link/statute/108/4587).)*

@@ -3,9 +3,10 @@ title: "Section 9784 - Air Force and Space Force Museum System"
 usc_title: 10
 usc_section: "9784"
 chapter: 979
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 9784"
-generated_at: "2026-03-30T02:53:38.263Z"
+generated_at: "2026-11-23T20:25:52.368Z"
+status: "active"
 ---
 
 # § 9784. Air Force and Space Force Museum System
@@ -23,3 +24,15 @@ generated_at: "2026-03-30T02:53:38.263Z"
     - **(D)** an analysis of the cost to transport, consolidate, and preserve the historical collections contained in the museum; and
   - **(2)** a period of 90 days has elapsed after the date on which such notice is received by such committees.
 - **(d)** Consistent with applicable law, the Secretary may enter into partnerships, including with nonprofit organizations, to enhance the financial sustainability and public engagement of the museums in the Air Force and Space Force museum system.
+
+In General
+
+Criteria for Designation
+
+Criteria for Closure
+
+Funding and Support
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. A, title III, § 376](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 840](https://www.govinfo.gov/link/statute/139/840).)*

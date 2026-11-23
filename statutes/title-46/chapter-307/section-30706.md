@@ -3,9 +3,10 @@ title: "Section 30706 - Defenses"
 usc_title: 46
 usc_section: "30706"
 chapter: 307
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 30706"
-generated_at: "2026-03-30T02:56:15.562Z"
+generated_at: "2026-11-23T20:27:27.206Z"
+status: "active"
 ---
 
 # § 30706. Defenses
@@ -20,3 +21,24 @@ generated_at: "2026-03-30T02:56:15.562Z"
   - **(6)** insufficiency of package;
   - **(7)** act or omission of the shipper or owner of the goods or their agent; or
   - **(8)** saving or attempting to save life or property at sea, including a deviation in rendering such a service.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30706 | 46 App.:192. | Feb. 13, 1893, ch. 105, § 3 , 27 Stat. 445 . |
+
+
+Due Diligence
+
+Other Defenses
+
+Historical and Revision Notes
+
+30706
+
+Feb. 13, 1893, ch. 105, § 3
+
+27 Stat. 445
+
+## Source Credit
+
+*([Pub. L. 109–304, § 6(c)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1517](https://www.govinfo.gov/link/statute/120/1517).)*

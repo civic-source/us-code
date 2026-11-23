@@ -3,9 +3,10 @@ title: "Section 16051 - Joint flexible fuel/hybrid vehicle commercialization ini
 usc_title: 42
 usc_section: "16051"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16051"
-generated_at: "2026-03-30T02:56:11.467Z"
+generated_at: "2026-11-23T20:27:23.604Z"
+status: "active"
 ---
 
 # § 16051. Joint flexible fuel/hybrid vehicle commercialization initiative
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:56:11.467Z"
   - **(2)** $7,000,000 for fiscal year 2007;
   - **(3)** $10,000,000 for fiscal year 2008; and
   - **(4)** $20,000,000 for fiscal year 2009.
+
+## Source Credit
+
+*([Pub. L. 109–58, title VII, § 706](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 817](https://www.govinfo.gov/link/statute/119/817).)*

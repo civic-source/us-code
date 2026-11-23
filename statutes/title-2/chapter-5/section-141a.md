@@ -3,12 +3,17 @@ title: "Section 141a - Design, installation, and maintenance of security systems
 usc_title: 2
 usc_section: "141a"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 141a"
-generated_at: "2026-03-30T02:53:04.788Z"
+generated_at: "2026-11-23T20:25:28.843Z"
+status: "active"
 ---
 
 # § 141a. Design, installation, and maintenance of security systems; transfer of responsibility
 
 The responsibility for design, installation, and maintenance of security systems to protect the physical security of the buildings and grounds of the Library of Congress is transferred from the Architect of the Capitol to the Capitol Police Board. Such design, installation, and maintenance shall be carried out under the direction of the Committee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate, and without regard to section 6101 of title 41 . Any alteration to a structural, mechanical, or architectural feature of the buildings and grounds of the Library of Congress that is required for a security system under the preceding sentence may be carried out only with the approval of the Architect of the Capitol.
 
+
+## Source Credit
+
+*([Pub. L. 105–277, div. B, title II](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–570](https://www.govinfo.gov/link/statute/112/2681).)*

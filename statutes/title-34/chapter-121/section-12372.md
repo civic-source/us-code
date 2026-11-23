@@ -3,9 +3,10 @@ title: "Section 12372 - Training provided by grants"
 usc_title: 34
 usc_section: "12372"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12372"
-generated_at: "2026-03-30T02:55:33.286Z"
+generated_at: "2026-11-23T20:26:50.546Z"
+status: "active"
 ---
 
 # § 12372. Training provided by grants
@@ -34,3 +35,7 @@ Training provided pursuant to grants made under this part may include current in
   - **(20)** the issues raised by domestic violence in determining custody and visitation, including how to protect the safety of the child and of a parent who is not a predominant aggressor of domestic violence, the legitimate reasons parents may report domestic violence, the ways domestic violence may relate to an abuser’s desire to seek custody, and evaluating expert testimony in custody and visitation determinations involving domestic violence;
   - **(21)** the issues raised by child sexual assault in determining custody and visitation, including how to protect the safety of the child, the legitimate reasons parents may report child sexual assault, and evaluating expert testimony in custody and visitation determinations involving child sexual assault, including the current scientifically-accepted and empirically valid research on child sexual assault; 2 2 So in original. Probably should be followed by “and”.
   - **(22)** the extent to which addressing domestic violence and victim safety contributes to the efficient administration of justice; 3 3 So in original. The semicolon probably should be a period.
+
+## Source Credit
+
+*([Pub. L. 103–322, title IV, § 40412](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1943](https://www.govinfo.gov/link/statute/108/1943); [Pub. L. 106–386, div. B, title IV, § 1406(a)(1)](https://www.govinfo.gov/link/plaw/106/public/386), (d)(2), Oct. 28, 2000, [114 Stat. 1515](https://www.govinfo.gov/link/statute/114/1515), 1517.)*

@@ -3,12 +3,17 @@ title: "Section 2140 - Recordkeeping by dealers, exhibitors, research facilities
 usc_title: 7
 usc_section: "2140"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2140"
-generated_at: "2026-03-30T02:53:42.377Z"
+generated_at: "2026-11-23T20:25:41.484Z"
+status: "active"
 ---
 
 # § 2140. Recordkeeping by dealers, exhibitors, research facilities, intermediate handlers, and carriers
 
 Dealers and exhibitors shall make and retain for such reasonable period of time as the Secretary may prescribe, such records with respect to the purchase, sale, transportation, identification, and previous ownership of animals as the Secretary may prescribe. Research facilities shall make and retain such records only with respect to the purchase, sale, transportation, identification, and previous ownership of live dogs and cats. At the request of the Secretary, any regulatory agency of the Federal Government which requires records to be maintained by intermediate handlers and carriers with respect to the transportation, receiving, handling, and delivery of animals on forms prescribed by the agency, shall require there to be included in such forms, and intermediate handlers and carriers shall include in such forms, such information as the Secretary may require for the effective administration of this chapter. Such information shall be retained for such reasonable period of time as the Secretary may prescribe. If regulatory agencies of the Federal Government do not prescribe requirements for any such forms, intermediate handlers and carriers shall make and retain for such reasonable period as the Secretary may prescribe such records with respect to the transportation, receiving, handling, and delivery of animals as the Secretary may prescribe. Such records shall be made available at all reasonable times for inspection and copying by the Secretary.
 
+
+## Source Credit
+
+*([Pub. L. 89–544, § 10](https://www.govinfo.gov/link/plaw/89/public/544), Aug. 24, 1966, [80 Stat. 351](https://www.govinfo.gov/link/statute/80/351); [Pub. L. 91–579, § 11](https://www.govinfo.gov/link/plaw/91/public/579), Dec. 24, 1970, [84 Stat. 1562](https://www.govinfo.gov/link/statute/84/1562); [Pub. L. 94–279, § 8](https://www.govinfo.gov/link/plaw/94/public/279), Apr. 22, 1976, [90 Stat. 418](https://www.govinfo.gov/link/statute/90/418).)*

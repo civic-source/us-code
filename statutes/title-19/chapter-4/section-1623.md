@@ -3,9 +3,10 @@ title: "Section 1623 - Bonds and other security"
 usc_title: 19
 usc_section: "1623"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1623"
-generated_at: "2026-03-30T02:54:24.647Z"
+generated_at: "2026-11-23T20:26:10.828Z"
+status: "active"
 ---
 
 # § 1623. Bonds and other security
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:24.647Z"
 - **(c)** The Secretary of the Treasury may authorize the cancellation of any bond provided for in this section, or of any charge that may have been made against such bond, in the event of a breach of any condition of the bond, upon the payment of such lesser amount or penalty or upon such other terms and conditions as he may deem sufficient. In order to assure uniform, reasonable, and equitable decisions, the Secretary of the Treasury shall publish guidelines establishing standards for setting the terms and conditions for cancellation of bonds or charges thereunder.
 - **(d)** No condition in any bond taken to assure compliance with any law, regulation, or instruction which the Secretary of the Treasury or the Customs Service is authorized to enforce shall be held invalid on the ground that such condition is not specified in the law, regulation, or instruction authorizing or requiring the taking of such bond. Any bond transmitted to the Customs Service pursuant to an authorized electronic data interchange system shall have the same force and effect and be binding upon the parties thereto as if such bond were manually executed, signed, and filed.
 - **(e)** The Secretary of the Treasury is authorized to permit the deposit of money or obligations of the United States, in such amount and upon such conditions as he may by regulation prescribe, in lieu of sureties on any bond required or authorized by a law, regulation, or instruction which the Secretary of the Treasury or the Customs Service is authorized to enforce.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 623, [46 Stat. 759](https://www.govinfo.gov/link/statute/46/759); June 25, 1938, ch. 679, § 30, [52 Stat. 1089](https://www.govinfo.gov/link/statute/52/1089); [Pub. L. 91–271, title III, § 301(ii)](https://www.govinfo.gov/link/plaw/91/public/271), June 2, 1970, [84 Stat. 291](https://www.govinfo.gov/link/statute/84/291); Pub. L. 100—418, title I, § 1904, Aug. 23, 1988, [102 Stat. 1313](https://www.govinfo.gov/link/statute/102/1313); [Pub. L. 103–182, title VI, § 647](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2207](https://www.govinfo.gov/link/statute/107/2207).)*

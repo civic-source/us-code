@@ -3,9 +3,10 @@ title: "Section 2637 - Exhaustion of administrative remedies"
 usc_title: 28
 usc_section: "2637"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 2637"
-generated_at: "2026-03-30T02:55:30.150Z"
+generated_at: "2026-11-23T20:26:36.533Z"
+status: "active"
 ---
 
 # § 2637. Exhaustion of administrative remedies
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:30.150Z"
 - **(b)** A civil action contesting the denial of a petition under section 516 of the Tariff Act of 1930 may be commenced in the Court of International Trade only by a person who has first exhausted the procedures set forth in such section.
 - **(c)** A civil action described in section 1581(h) of this title may be commenced in the Court of International Trade prior to the exhaustion of administrative remedies if the person commencing the action makes the demonstration required by such section.
 - **(d)** In any civil action not specified in this section, the Court of International Trade shall, where appropriate, require the exhaustion of administrative remedies.
+
+## Source Credit
+
+*(Added [Pub. L. 96–417, title III, § 301](https://www.govinfo.gov/link/plaw/96/public/417), Oct. 10, 1980, [94 Stat. 1735](https://www.govinfo.gov/link/statute/94/1735).)*

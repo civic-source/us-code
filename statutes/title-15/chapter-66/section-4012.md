@@ -3,9 +3,10 @@ title: "Section 4012 - Application for issuance of certificate of review"
 usc_title: 15
 usc_section: "4012"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 4012"
-generated_at: "2026-03-30T02:54:08.197Z"
+generated_at: "2026-11-23T20:26:04.322Z"
+status: "active"
 ---
 
 # § 4012. Application for issuance of certificate of review
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:08.197Z"
     - **(A)** a copy of the application,
     - **(B)** any information submitted to the Secretary in connection with the application, and
     - **(C)** any other relevant information (as determined by the Secretary) in the possession of the Secretary, including information regarding the market share of the applicant in the line of commerce to which the conduct specified in the application relates.
+
+## Source Credit
+
+*([Pub. L. 97–290, title III, § 302](https://www.govinfo.gov/link/plaw/97/public/290), Oct. 8, 1982, [96 Stat. 1240](https://www.govinfo.gov/link/statute/96/1240).)*

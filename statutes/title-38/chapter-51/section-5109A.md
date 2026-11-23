@@ -3,9 +3,10 @@ title: "Section 5109A - Revision of decisions on grounds of clear and unmistakab
 usc_title: 38
 usc_section: "5109A"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 5109A"
-generated_at: "2026-03-30T02:55:53.519Z"
+generated_at: "2026-11-23T20:27:01.947Z"
+status: "active"
 ---
 
 # § 5109A. Revision of decisions on grounds of clear and unmistakable error
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:53.519Z"
 - **(c)** Review to determine whether clear and unmistakable error exists in a case may be instituted by the Secretary on the Secretary’s own motion or upon request of the claimant.
 - **(d)** A request for revision of a decision of the Secretary based on clear and unmistakable error may be made at any time after that decision is made.
 - **(e)** Such a request shall be submitted to the Secretary and shall be decided in the same manner as any other claim.
+
+## Source Credit
+
+*(Added [Pub. L. 105–111, § 1(a)(1)](https://www.govinfo.gov/link/plaw/105/public/111), Nov. 21, 1997, [111 Stat. 2271](https://www.govinfo.gov/link/statute/111/2271).)*

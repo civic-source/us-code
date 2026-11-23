@@ -3,9 +3,10 @@ title: "Section 824e - Power of Commission to fix rates and charges; determinati
 usc_title: 16
 usc_section: "824e"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 824e"
-generated_at: "2026-03-30T02:54:22.915Z"
+generated_at: "2026-11-23T20:26:20.290Z"
+status: "active"
 ---
 
 # § 824e. Power of Commission to fix rates and charges; determination of cost of production or transmission
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:22.915Z"
     - **(A)** The Commission shall have refund authority under paragraph (2) with respect to a voluntary short term sale of electric energy by the Bonneville Power Administration only if the sale is at an unjust and unreasonable rate.
     - **(B)** The Commission may order a refund under subparagraph (A) only for short-term sales made by the Bonneville Power Administration at rates that are higher than the highest just and reasonable rate charged by any other entity for a short-term sale of electric energy in the same geographic market for the same, or most nearly comparable, period as the sale by the Bonneville Power Administration.
     - **(C)** In the case of any Federal power marketing agency or the Tennessee Valley Authority, the Commission shall not assert or exercise any regulatory authority or power under paragraph (2) other than the ordering of refunds to achieve a just and reasonable rate.
+
+## Source Credit
+
+*(June 10, 1920, ch. 285, pt. II, § 206, as added Aug. 26, 1935, ch. 687, title II, § 213, [49 Stat. 852](https://www.govinfo.gov/link/statute/49/852); amended [Pub. L. 100–473, § 2](https://www.govinfo.gov/link/plaw/100/public/473), Oct. 6, 1988, [102 Stat. 2299](https://www.govinfo.gov/link/statute/102/2299); [Pub. L. 109–58, title XII](https://www.govinfo.gov/link/plaw/109/public/58), §§ 1285, 1286, 1295(b), Aug. 8, 2005, [119 Stat. 980](https://www.govinfo.gov/link/statute/119/980), 981, 985.)*

@@ -3,9 +3,10 @@ title: "Section 6623 - Interagency public access committee"
 usc_title: 42
 usc_section: "6623"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6623"
-generated_at: "2026-03-30T02:56:11.264Z"
+generated_at: "2026-11-23T20:27:22.693Z"
+status: "active"
 ---
 
 # § 6623. Interagency public access committee
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:11.264Z"
   - **(4)** the status of any Federal science agency policies related to public access to the results of federally funded research; and
   - **(5)** how any policies developed or being developed by Federal science agencies, as described in subsection (a), incorporate input from the non-Federal stakeholders described in subsection (b)(6).
 - **(f)** For the purposes of this section, the term “Federal science agency” means any Federal agency with an annual extramural research expenditure of over $100,000,000.
+
+## Source Credit
+
+*([Pub. L. 111–358, title I, § 103](https://www.govinfo.gov/link/plaw/111/public/358), Jan. 4, 2011, [124 Stat. 3986](https://www.govinfo.gov/link/statute/124/3986).)*

@@ -3,9 +3,10 @@ title: "Section 5725 - Secretary of State report regarding the autonomy of Hong 
 usc_title: 22
 usc_section: "5725"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 5725"
-generated_at: "2026-03-30T02:55:05.419Z"
+generated_at: "2026-11-23T20:26:32.574Z"
+status: "active"
 ---
 
 # § 5725. Secretary of State report regarding the autonomy of Hong Kong
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:55:05.419Z"
     - **(A)** the Secretary determines that such a waiver is in the national security interests of the United States; and
     - **(B)** on or before the date on which the waiver takes effect, the Secretary notifies the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives of the intent to waive such subsection;
   - **(2)** Except for the list of actions described in subsection (a)(1)(C)(iii), the Secretary of State may waive relevant parts of the application of subsection (a) if the President issues an Executive order under section 5722 of this title that suspends the application of any particular United States law to Hong Kong.
+
+## Source Credit
+
+*([Pub. L. 102–383, title II, § 205](https://www.govinfo.gov/link/plaw/102/public/383), as added [Pub. L. 116–76, § 4(a)(2)](https://www.govinfo.gov/link/plaw/116/public/76), Nov. 27, 2019, [133 Stat. 1163](https://www.govinfo.gov/link/statute/133/1163).)*

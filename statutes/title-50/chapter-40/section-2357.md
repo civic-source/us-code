@@ -3,9 +3,10 @@ title: "Section 2357 - Findings"
 usc_title: 50
 usc_section: "2357"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 2357"
-generated_at: "2026-03-30T02:56:26.221Z"
+generated_at: "2026-11-23T20:27:30.840Z"
+status: "active"
 ---
 
 # § 2357. Findings
@@ -16,3 +17,7 @@ Congress finds that—
   - **(2)** although these efforts are in the United States national security interest, the effectiveness of these efforts has suffered from a lack of coordination within and among United States Government agencies;
   - **(3)** increased spending and investment by the United States private sector on nonproliferation efforts in the independent states of the former Soviet Union, specifically, spending and investment by the United States private sector in job creation initiatives and proposals for unemployed Russian Federation weapons scientists and technicians, are making an important contribution in ensuring that knowledge related to weapons of mass destruction remains beyond the reach of terrorists and weapons-proliferating states; and
   - **(4)** increased spending and investment by the United States private sector on nonproliferation efforts in the independent states of the former Soviet Union make advisable the establishment of a coordinating body to ensure that United States public and private efforts are not in conflict, and to ensure that public spending on efforts by the independent states of the former Soviet Union is maximized to ensure efficiency and further United States national security interests.
+
+## Source Credit
+
+*([Pub. L. 107–228, div. B, title XIII, § 1332](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1448](https://www.govinfo.gov/link/statute/116/1448).)*

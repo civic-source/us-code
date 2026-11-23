@@ -3,9 +3,10 @@ title: "Section 22702 - Purposes"
 usc_title: 36
 usc_section: "22702"
 chapter: 227
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 22702"
-generated_at: "2026-03-30T02:55:44.693Z"
+generated_at: "2026-11-23T20:26:58.836Z"
+status: "active"
 ---
 
 # § 22702. Purposes
@@ -23,3 +24,37 @@ The purposes of the corporation are—
   - **(9)** to develop to the utmost the human, mental, spiritual, and economical resources of our Nation;
   - **(10)** to perpetuate and preserve the friendships and comradeship born on the battle front and nurtured in the common experience of service to our Nation during time of war; and
   - **(11)** to honor the memory of those men and women who gave their lives that a free America and a free world might live by the creation of living memorials in the form of additional educational, cultural, and recreational facilities.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 22702 | 36:67b(1), (3)–(10). | July 23, 1947, ch. 298, § 3(1) , (3)–(10), 61 Stat. 405 . |
+|  | 36:67b(2). | July 23, 1947, ch. 298, § 3(2) , 61 Stat. 405 ; Aug. 15, 1977 , Pub. L. 95–98, § 1(b)(1) , 91 Stat. 830 ; June 13, 1991 , Pub. L. 102–54, § 13(n)(1) , 105 Stat. 278 . |
+
+
+Historical and Revision Notes
+
+22702
+
+July 23, 1947, ch. 298, § 3(1)
+
+61 Stat. 405
+
+July 23, 1947, ch. 298, § 3(2)
+
+61 Stat. 405
+
+Aug. 15, 1977
+
+Pub. L. 95–98, § 1(b)(1)
+
+91 Stat. 830
+
+June 13, 1991
+
+Pub. L. 102–54, § 13(n)(1)
+
+105 Stat. 278
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1306](https://www.govinfo.gov/link/statute/112/1306).)*

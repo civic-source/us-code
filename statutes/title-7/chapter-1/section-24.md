@@ -3,9 +3,10 @@ title: "Section 24 - Customer property with respect to commodity broker debtors;
 usc_title: 7
 usc_section: "24"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 24"
-generated_at: "2026-03-30T02:53:42.248Z"
+generated_at: "2026-11-23T20:25:40.889Z"
+status: "active"
 ---
 
 # § 24. Customer property with respect to commodity broker debtors; definitions
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:42.248Z"
   - **(5)** how the net equity of a customer is to be determined.
 - **(b)** As used in this section, the terms “commodity broker”, “commodity contract”, “customer”, “customer property”, “member property”, “net equity”, and “security” have the meanings assigned such terms for the purposes of subchapter IV of chapter 7 of title 11.
 - **(c)** The Commission shall exercise its authority to ensure that securities held in a portfolio margining account carried as a futures account are customer property and the owners of those accounts are customers for the purposes of subchapter IV of chapter 7 of title 11.
+
+## Source Credit
+
+*(Sept. 21, 1922, ch. 369, § 20, formerly § 19, as added [Pub. L. 95–598, title III, § 302](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2673](https://www.govinfo.gov/link/statute/92/2673); renumbered and amended [Pub. L. 97–222, § 20](https://www.govinfo.gov/link/plaw/97/public/222), July 27, 1982, [96 Stat. 241](https://www.govinfo.gov/link/statute/96/241); [Pub. L. 111–203, title VII, § 713(c)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1647](https://www.govinfo.gov/link/statute/124/1647).)*

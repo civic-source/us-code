@@ -3,9 +3,10 @@ title: "Section 339 - Prevention and response workforces"
 usc_title: 14
 usc_section: "339"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 339"
-generated_at: "2026-03-30T02:53:51.488Z"
+generated_at: "2026-11-23T20:25:54.520Z"
+status: "active"
 ---
 
 # § 339. Prevention and response workforces
@@ -29,3 +30,21 @@ generated_at: "2026-03-30T02:53:51.488Z"
   - **(2)** qualified marine casualty investigator, marine safety engineer, waterways operations manager, or port and facility safety and security specialist.
 - **(f)** Each individual signing a letter of qualification for marine safety personnel must hold a letter of qualification for the type being certified.
 - **(g)** There shall be in each Coast Guard sector a Chief of Response who shall be at least a Lieutenant Commander or civilian employee within the grade GS–13 of the General Schedule in each Coast Guard sector.
+
+Career Paths
+
+Qualifications for Certain Assignments
+
+Apprenticeship Requirement To Qualify for Certain Careers
+
+Management Information System
+
+Sector Chief of Prevention
+
+Signatories of Letter of Qualification for Certain Prevention Personnel
+
+Sector Chief of Response
+
+## Source Credit
+
+*(Added [Pub. L. 111–281, title V, § 521(a)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2953](https://www.govinfo.gov/link/statute/124/2953), § 57; amended [Pub. L. 113–281, title II](https://www.govinfo.gov/link/plaw/113/public/281), §§ 203, 221(b)(1)(B), Dec. 18, 2014, [128 Stat. 3024](https://www.govinfo.gov/link/statute/128/3024), 3038; renumbered § 312, [Pub. L. 115–282, title I, § 104(b)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4196](https://www.govinfo.gov/link/statute/132/4196); [Pub. L. 116–283, div. G, title LVXXXV](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXV], §§ 8504(a), 8505(a)(1), Jan. 1, 2021, [134 Stat. 4747](https://www.govinfo.gov/link/statute/134/4747); renumbered § 339, [Pub. L. 119–60, div. G, title LXXII, § 7201(b)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1675](https://www.govinfo.gov/link/statute/139/1675).)*

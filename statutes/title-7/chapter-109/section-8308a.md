@@ -3,9 +3,10 @@ title: "Section 8308a - Animal disease prevention and management"
 usc_title: 7
 usc_section: "8308a"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 8308a"
-generated_at: "2026-03-30T02:53:42.474Z"
+generated_at: "2026-11-23T20:25:41.881Z"
+status: "active"
 ---
 
 # § 8308a. Animal disease prevention and management
@@ -99,3 +100,7 @@ generated_at: "2026-03-30T02:53:42.474Z"
 - **(e)**
   - **(1)** Using the funds made available under subsection (d), the Secretary of Agriculture shall offer to enter into contracts, grants, cooperative agreements, or other legal instruments under subsections (a) through (c) during each of the fiscal years 2019 through 2023.
   - **(2)** Nothing in paragraph (1) shall be construed to terminate a contract, grant, cooperative agreement, or other legal instrument entered into during the period specified in such paragraph.
+
+## Source Credit
+
+*([Pub. L. 107–171, title X, § 10409A](https://www.govinfo.gov/link/plaw/107/public/171), as added [Pub. L. 113–79, title XII, § 12105](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 980](https://www.govinfo.gov/link/statute/128/980); amended [Pub. L. 115–334, title XII, § 12101(b)](https://www.govinfo.gov/link/plaw/115/public/334) –(d), Dec. 20, 2018, [132 Stat. 4937–4940](https://www.govinfo.gov/link/statute/132/4937); [Pub. L. 119–21, title I, § 10607(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 110](https://www.govinfo.gov/link/statute/139/110).)*

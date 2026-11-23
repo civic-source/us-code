@@ -3,9 +3,10 @@ title: "Section 2201 - Congressional findings"
 usc_title: 15
 usc_section: "2201"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2201"
-generated_at: "2026-03-30T02:54:08.167Z"
+generated_at: "2026-11-23T20:26:04.173Z"
+status: "active"
 ---
 
 # § 2201. Congressional findings
@@ -23,3 +24,25 @@ The Congress finds that—
   - **(9)** A national system for the collection, analysis, and dissemination of fire data is needed to help local fire services establish research and action priorities.
   - **(10)** The number of specialized medical centers which are properly equipped and staffed for the treatment of burns and the rehabilitation of victims of fires is inadequate.
   - **(11)** The unacceptably high rates of death, injury, and property loss from fire can be reduced if the Federal Government establishes a coordinated program to support and reinforce the fire prevention and control activities of State and local governments.
+
+Grant Authorization
+
+Authorization of Appropriations
+
+“Congress finds that—
+
+“Congress makes the following findings:
+
+Findings
+
+Purpose
+
+Jimmy Carter.
+
+The White House
+
+Jimmy Carter.
+
+## Source Credit
+
+*([Pub. L. 93–498, § 2](https://www.govinfo.gov/link/plaw/93/public/498), Oct. 29, 1974, [88 Stat. 1535](https://www.govinfo.gov/link/statute/88/1535).)*

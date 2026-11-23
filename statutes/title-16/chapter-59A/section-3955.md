@@ -3,9 +3,10 @@ title: "Section 3955 - Distribution of appropriations"
 usc_title: 16
 usc_section: "3955"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3955"
-generated_at: "2026-03-30T02:54:23.039Z"
+generated_at: "2026-11-23T20:26:20.727Z"
+status: "active"
 ---
 
 # § 3955. Distribution of appropriations
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:23.039Z"
   - **(1)** to any coastal State, except States eligible to receive funding under subsection (a), to carry out coastal wetlands conservation projects in accordance with section 3954 of this title ; and
   - **(2)** in the amount of $2,500,000 in total for an assessment of the status, condition, and trends of wetlands in the State of Texas.
 - **(c)** Of the total amount appropriated during a given fiscal year to carry out this chapter, 15 percent shall be available to, and shall remain available until expended by, the Secretary of the Interior for allocation to carry out wetlands conservation projects in coastal wetlands ecosystems in any coastal State under section 4407 of this title .
+
+## Source Credit
+
+*([Pub. L. 101–646, title III, § 306](https://www.govinfo.gov/link/plaw/101/public/646), Nov. 29, 1990, [104 Stat. 4786](https://www.govinfo.gov/link/statute/104/4786); [Pub. L. 103–375, § 5](https://www.govinfo.gov/link/plaw/103/public/375), Oct. 19, 1994, [108 Stat. 3495](https://www.govinfo.gov/link/statute/108/3495); [Pub. L. 108–447, div. C, title I, § 114(a)](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 2944](https://www.govinfo.gov/link/statute/118/2944).)*

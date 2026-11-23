@@ -3,9 +3,10 @@ title: "Section 907a - Suspension in event of war or low growth"
 usc_title: 2
 usc_section: "907a"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 907a"
-generated_at: "2026-03-30T02:53:04.806Z"
+generated_at: "2026-11-23T20:25:28.939Z"
+status: "active"
 ---
 
 # § 907a. Suspension in event of war or low growth
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:53:04.806Z"
 - **(c)**
   - **(1)** In the event of a suspension of sequestration procedures due to a declaration of war, then, effective with the first fiscal year that begins in the session after the state of war is concluded by Senate ratification of the necessary treaties, the provisions of subsection (b) triggered by that declaration of war are no longer effective.
   - **(2)** In the event of a suspension of sequestration procedures due to the enactment of a joint resolution described in subsection (a), then, effective with regard to the first fiscal year beginning at least 12 months after the enactment of that resolution, the provisions of subsection (b) triggered by that resolution are no longer effective.
+
+## Source Credit
+
+*([Pub. L. 99–177, title II, § 258](https://www.govinfo.gov/link/plaw/99/public/177), as added [Pub. L. 101–508, title XIII, § 13101(f)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–593](https://www.govinfo.gov/link/statute/104/1388); amended [Pub. L. 113–67, div. A, title I, § 121(10)](https://www.govinfo.gov/link/plaw/113/public/67), Dec. 26, 2013, [127 Stat. 1175](https://www.govinfo.gov/link/statute/127/1175).)*

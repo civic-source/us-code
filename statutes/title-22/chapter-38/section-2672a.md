@@ -3,12 +3,17 @@ title: "Section 2672a - Alternate United States Commissioners for international 
 usc_title: 22
 usc_section: "2672a"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2672a"
-generated_at: "2026-03-30T02:55:05.377Z"
+generated_at: "2026-11-23T20:26:32.367Z"
+status: "active"
 ---
 
 # § 2672a. Alternate United States Commissioners for international fisheries commissions
 
 In order to insure appropriate representation at meetings of international fisheries commissions, the Secretary of State, in consultation with the Secretary of Commerce or of the Interior as appropriate may designate from time to time Alternate United States Commissioners to the North Pacific Fur Seal Commission, the Inter-American Tropical Tuna Commission, the International Pacific Halibut Commission, the International Whaling Commission, the Commission for the Conservation of Shrimp in the Eastern Gulf of Mexico, the International Commission for the Conservation of Atlantic Tunas, and any similar commission (other than the International Commission for the Northwest Atlantic Fisheries and the International North Pacific Fisheries Commission) established pursuant to a convention between the United States and other governments. Alternate United States Commissioners may exercise, at any meeting of the respective Commission or of the United States Section thereof, all powers and duties of a United States Commissioner in the absence of a duly designated Commissioner for whatever reason. The number of such Alternate United States Commissioners that may be designated for any such meeting shall be limited to the number of authorized United States Commissioners that will not be present. In the event that there are Deputy United States Commissioners pursuant to the convention or statute, such Deputy United States Commissioners shall have precedence over any Alternate Commissioners so designated pursuant to this section.
 
+
+## Source Credit
+
+*([Pub. L. 92–471, title II, § 201](https://www.govinfo.gov/link/plaw/92/public/471), Oct. 9, 1972, [86 Stat. 787](https://www.govinfo.gov/link/statute/86/787); [Pub. L. 99–659, title IV, § 405(c)](https://www.govinfo.gov/link/plaw/99/public/659), Nov. 14, 1986, [100 Stat. 3738](https://www.govinfo.gov/link/statute/100/3738).)*

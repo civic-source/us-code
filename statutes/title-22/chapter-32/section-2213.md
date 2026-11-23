@@ -3,9 +3,10 @@ title: "Section 2213 - United States Microfinance Loan Facility"
 usc_title: 22
 usc_section: "2213"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2213"
-generated_at: "2026-03-30T02:55:05.351Z"
+generated_at: "2026-11-23T20:26:32.196Z"
+status: "active"
 ---
 
 # § 2213. United States Microfinance Loan Facility
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:55:05.351Z"
     - **(A)** the subsidy cost, as defined in section 661a(5) of title 2 , to carry out this section; and
     - **(B)** the administrative costs to carry out this section.
   - **(2)** Amounts made available under paragraph (1) are in addition to amounts available under any other provision of law to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 257, formerly § 132, as added [Pub. L. 106–309, title I, § 107(a)](https://www.govinfo.gov/link/plaw/106/public/309), Oct. 17, 2000, [114 Stat. 1086](https://www.govinfo.gov/link/statute/114/1086); renumbered § 257 and amended [Pub. L. 108–484, § 5(a)](https://www.govinfo.gov/link/plaw/108/public/484), (b), (c)(2), Dec. 23, 2004, [118 Stat. 3927](https://www.govinfo.gov/link/statute/118/3927); [Pub. L. 115–428, § 4(g)](https://www.govinfo.gov/link/plaw/115/public/428), Jan. 9, 2019, [132 Stat. 5515](https://www.govinfo.gov/link/statute/132/5515).)*

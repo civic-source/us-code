@@ -3,9 +3,10 @@ title: "Section 6611 - Reorganization authority"
 usc_title: 22
 usc_section: "6611"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6611"
-generated_at: "2026-03-30T02:55:05.431Z"
+generated_at: "2026-11-23T20:26:32.624Z"
+status: "active"
 ---
 
 # § 6611. Reorganization authority
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.431Z"
   - **(3)** authorizing a Federal agency to exercise a function which is not authorized by law at the time the plan is transmitted to Congress;
   - **(4)** creating a new Federal agency which is not a component or part of an existing executive department or independent agency; or
   - **(5)** increasing the term of an office beyond that provided by law for the office.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XVI, § 1611, Oct. 21, 1998, [112 Stat. 2681–798](https://www.govinfo.gov/link/statute/112/2681).)*

@@ -3,12 +3,17 @@ title: "Section 143 - Saving provisions"
 usc_title: 29
 usc_section: "143"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 143"
-generated_at: "2026-03-30T02:55:18.677Z"
+generated_at: "2026-11-23T20:26:37.779Z"
+status: "active"
 ---
 
 # § 143. Saving provisions
 
 Nothing in this chapter shall be construed to require an individual employee to render labor or service without his consent, nor shall anything in this chapter be construed to make the quitting of his labor by an individual employee an illegal act; nor shall any court issue any process to compel the performance by an individual employee of such labor or service, without his consent; nor shall the quitting of labor by an employee or employees in good faith because of abnormally dangerous conditions for work at the place of employment of such employee or employees be deemed a strike under this chapter.
 
+
+## Source Credit
+
+*(June 23, 1947, ch. 120, title V, § 502, [61 Stat. 162](https://www.govinfo.gov/link/statute/61/162).)*

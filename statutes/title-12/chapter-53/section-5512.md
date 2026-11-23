@@ -3,9 +3,10 @@ title: "Section 5512 - Rulemaking authority"
 usc_title: 12
 usc_section: "5512"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5512"
-generated_at: "2026-03-30T02:53:53.543Z"
+generated_at: "2026-11-23T20:25:59.514Z"
+status: "active"
 ---
 
 # § 5512. Rulemaking authority
@@ -69,3 +70,25 @@ generated_at: "2026-03-30T02:53:53.543Z"
   - **(1)** The Bureau shall conduct an assessment of each significant rule or order adopted by the Bureau under Federal consumer financial law. The assessment shall address, among other relevant factors, the effectiveness of the rule or order in meeting the purposes and objectives of this title 1 and the specific goals stated by the Bureau. The assessment shall reflect available evidence and any data that the Bureau reasonably may collect.
   - **(2)** The Bureau shall publish a report of its assessment under this subsection not later than 5 years after the effective date of the subject rule or order.
   - **(3)** Before publishing a report of its assessment, the Bureau shall invite public comment on recommendations for modifying, expanding, or eliminating the newly adopted significant rule or order.
+
+Application
+
+Evaluation Criteria
+
+Rule of Construction
+
+Public Comment Period.—
+
+In general
+
+Limitation on additional applications
+
+Decision on Designation
+
+Subsequent Applications
+
+Sunset
+
+## Source Credit
+
+*([Pub. L. 111–203, title X, § 1022](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1980](https://www.govinfo.gov/link/statute/124/1980).)*

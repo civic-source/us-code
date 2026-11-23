@@ -3,9 +3,10 @@ title: "Section 933 - Advisory Committee"
 usc_title: 16
 usc_section: "933"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 933"
-generated_at: "2026-03-30T02:54:22.934Z"
+generated_at: "2026-11-23T20:26:20.341Z"
+status: "active"
 ---
 
 # § 933. Advisory Committee
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:22.934Z"
 - **(b)** A member of the advisory committee for one lake may also be a member of the advisory committee for one or more other lakes.
 - **(c)** The members of the advisory committee shall receive no compensation from the Government of the United States for their services as such members. Not more than ten members of all the committees, designated by the committees and approved by the United States Section, may be paid by the Government of the United States for transportation expenses and per diem incident to attendance at the annual meeting of the Commission or of the United States Section.
 - **(d)** The members of the advisory committee for each lake shall be invited to attend all nonexecutive meetings of the United States Section relating to that lake and at such meetings shall be granted opportunity to examine and be heard on all proposed recommendations, programs, and activities relating to that lake.
+
+## Source Credit
+
+*(June 4, 1956, ch. 358, § 4, [70 Stat. 242](https://www.govinfo.gov/link/statute/70/242); [Pub. L. 107–228, div. A, title II, § 208](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1364](https://www.govinfo.gov/link/statute/116/1364).)*

@@ -3,9 +3,10 @@ title: "Section 4013 - Issuance of certificate"
 usc_title: 15
 usc_section: "4013"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 4013"
-generated_at: "2026-03-30T02:54:08.197Z"
+generated_at: "2026-11-23T20:26:04.322Z"
+status: "active"
 ---
 
 # § 4013. Issuance of certificate
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:08.197Z"
   - **(2)** An applicant may, within thirty days of receipt of notification that the application has been denied in whole or in part, request the Secretary to reconsider the determination. The Secretary, with the concurrence of the Attorney General, shall notify the applicant of the determination upon reconsideration within thirty days of receipt of the request.
 - **(e)** If the Secretary denies an application for the issuance of a certificate of review and thereafter receives from the applicant a request for the return of documents submitted by the applicant in connection with the application for the certificate, the Secretary and the Attorney General shall return to the applicant, not later than thirty days after receipt of the request, the documents and all copies of the documents available to the Secretary and the Attorney General, except to the extent that the information contained in a document has been made available to the public.
 - **(f)** A certificate shall be void ab initio with respect to any export trade, export trade activities, or methods of operation for which a certificate was procured by fraud.
+
+## Source Credit
+
+*([Pub. L. 97–290, title III, § 303](https://www.govinfo.gov/link/plaw/97/public/290), Oct. 8, 1982, [96 Stat. 1241](https://www.govinfo.gov/link/statute/96/1241).)*

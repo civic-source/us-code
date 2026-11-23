@@ -3,9 +3,10 @@ title: "Section 309 - Application for license"
 usc_title: 47
 usc_section: "309"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 309"
-generated_at: "2026-03-30T02:56:24.506Z"
+generated_at: "2026-11-23T20:27:28.871Z"
+status: "active"
 ---
 
 # § 309. Application for license
@@ -223,3 +224,217 @@ generated_at: "2026-03-30T02:56:24.506Z"
   - **(1)** have the authority to conduct a competitive bidding proceeding pursuant to subsection (j) to assign such license or permit;
   - **(2)** treat the persons filing such applications as the only persons eligible to be qualified bidders for purposes of such proceeding; and
   - **(3)** waive any provisions of its regulations necessary to permit such persons to enter an agreement to procure the removal of a conflict between their applications during the 180-day period beginning on August 5, 1997 .
+
+General authority
+
+Termination of authority
+
+(aa) prior to the end of fiscal year 2022, in the Public Safety Trust Fund established by section 1457(a)(1) of this title ; and
+
+(bb) after the end of fiscal year 2022, in the general fund of the Treasury, where such proceeds shall be dedicated for the sole purpose of deficit reduction.
+
+General authority
+
+Uses to which bidding may apply
+
+Definitions
+
+Assistant secretary
+
+Commission
+
+Covered band
+
+Full-power commercial licensed use cases
+
+General Auction Authority.—
+
+Amendment
+
+Spectrum auctions
+
+Identification for Reallocation.—
+
+In general
+
+Schedule
+
+Required analysis.—
+
+In general
+
+Requirements
+
+Auctions
+
+Limitation
+
+Appropriation
+
+Commission
+
+Covered auction
+
+FCC Auction of Certain Licenses
+
+Completion of Auctions
+
+Establishment.—
+
+In general
+
+Amounts available until expended
+
+Deposit of Proceeds.—
+
+In general
+
+Treasury reimbursement
+
+Distribution
+
+Extra amounts.—
+
+In general
+
+Limitation
+
+Deficit reduction
+
+FCC Borrowing Authority.—
+
+In general
+
+Limitation
+
+Department of Commerce Borrowing Authority.—
+
+In general
+
+Limitation
+
+Reporting Requirement
+
+Permissive Early Termination Under Existing Requirements
+
+Public Safety Radio Services
+
+Expedited Rulemaking
+
+Program Required
+
+Information required
+
+Short Title
+
+Definition
+
+Amendments
+
+Terminations of Analog Licenses and Broadcasting
+
+Conforming Amendments
+
+Creation of Program
+
+Credit
+
+Program Specifications.—
+
+Limitations.—
+
+Two-per-household maximum
+
+No combinations of coupons
+
+Duration
+
+Expired coupons
+
+Distribution of coupons
+
+Use of additional amount
+
+Coupon value
+
+Definition of Digital-to-Analog Converter Box
+
+Creation of Program
+
+Eligibility
+
+Criteria for Strategic Technology Reserves.—
+
+In general
+
+Requirements and characteristics
+
+Additional characteristics
+
+Allocation of funds
+
+Voluntary Consensus Standards
+
+Inspector General Report and Audits.—
+
+Report
+
+Audits
+
+Rule of Construction
+
+Credit
+
+Condition of Grants
+
+Definitions
+
+Public safety agency
+
+Interoperable communications systems
+
+Funds Available
+
+Use of Funds
+
+Definitions
+
+Metropolitan television alliance
+
+New york city area
+
+Creation of Program
+
+In General
+
+Use of funds
+
+Credit
+
+Eligible Stations
+
+Establishment
+
+Eligible Stations
+
+In General
+
+Credit
+
+In General
+
+Application With Other Funds
+
+Advances
+
+“Congress finds the following:
+
+General rulemaking
+
+PCS orders and licensing
+
+“The Commission shall have authority to use the system of random selection established by the Commission under section 309(i) of the Communications Act of 1934 [subsec. (i) of this section], as added in subsection (a), with respect to any application for an initial license or construction permit which will involve any use of the electromagnetic spectrum and which—
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title III, § 309, [48 Stat. 1085](https://www.govinfo.gov/link/statute/48/1085); July 16, 1952, ch. 879, § 7, [66 Stat. 715](https://www.govinfo.gov/link/statute/66/715); Mar. 26, 1954, ch. 110, [68 Stat. 35](https://www.govinfo.gov/link/statute/68/35); Jan. 20, 1956, ch. 1, [70 Stat. 3](https://www.govinfo.gov/link/statute/70/3); [Pub. L. 86–752, § 4(a)](https://www.govinfo.gov/link/plaw/86/public/752), Sept. 13, 1960, [74 Stat. 889](https://www.govinfo.gov/link/statute/74/889); [Pub. L. 88–306](https://www.govinfo.gov/link/plaw/88/public/306), May 14, 1964, [78 Stat. 193](https://www.govinfo.gov/link/statute/78/193); [Pub. L. 88–307](https://www.govinfo.gov/link/plaw/88/public/307), May 14, 1964, [78 Stat. 194](https://www.govinfo.gov/link/statute/78/194); [Pub. L. 97–35, title XII, § 1242(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 736](https://www.govinfo.gov/link/statute/95/736); [Pub. L. 97–259, title I](https://www.govinfo.gov/link/plaw/97/public/259), §§ 114, 115, Sept. 13, 1982, [96 Stat. 1094](https://www.govinfo.gov/link/statute/96/1094); [Pub. L. 98–549, § 6(b)(1)](https://www.govinfo.gov/link/plaw/98/public/549), Oct. 30, 1984, [98 Stat. 2804](https://www.govinfo.gov/link/statute/98/2804); [Pub. L. 103–66, title VI, § 6002(a)](https://www.govinfo.gov/link/plaw/103/public/66), (b)(1), Aug. 10, 1993, [107 Stat. 387](https://www.govinfo.gov/link/statute/107/387), 392; [Pub. L. 103–414, title III](https://www.govinfo.gov/link/plaw/103/public/414), §§ 303(a)(16), (17), 304(a)(9), Oct. 25, 1994, [108 Stat. 4295](https://www.govinfo.gov/link/statute/108/4295), 4297; [Pub. L. 103–465, title VIII, § 801](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 5050](https://www.govinfo.gov/link/statute/108/5050); [Pub. L. 104–104, title II, § 204(a)](https://www.govinfo.gov/link/plaw/104/public/104), title IV, § 403(j), title VII, §§ 707(a), 710(c), Feb. 8, 1996, [110 Stat. 112](https://www.govinfo.gov/link/statute/110/112), 131, 154, 161; [Pub. L. 105–33, title III](https://www.govinfo.gov/link/plaw/105/public/33), §§ 3002(a)(1)–(3), 3003, Aug. 5, 1997, [111 Stat. 258](https://www.govinfo.gov/link/statute/111/258), 260, 265; [Pub. L. 107–195, § 3(a)](https://www.govinfo.gov/link/plaw/107/public/195), (b)(1), June 19, 2002, [116 Stat. 716](https://www.govinfo.gov/link/statute/116/716), 717; [Pub. L. 108–494, title II, § 203](https://www.govinfo.gov/link/plaw/108/public/494), Dec. 23, 2004, [118 Stat. 3993](https://www.govinfo.gov/link/statute/118/3993); [Pub. L. 109–171, title III](https://www.govinfo.gov/link/plaw/109/public/171), §§ 3002(a), 3003, 3004, Feb. 8, 2006, [120 Stat. 21](https://www.govinfo.gov/link/statute/120/21), 22; [Pub. L. 111–4](https://www.govinfo.gov/link/plaw/111/public/4), §§ 2(b)(2), 5, Feb. 11, 2009, [123 Stat. 112](https://www.govinfo.gov/link/statute/123/112), 114; [Pub. L. 112–96, title VI](https://www.govinfo.gov/link/plaw/112/public/96), §§ 6401(c), 6402, 6404, 6405, 6601, 6701(b), Feb. 22, 2012, [126 Stat. 223](https://www.govinfo.gov/link/statute/126/223), 224, 230, 245, 252; [Pub. L. 114–74, title X, § 1007](https://www.govinfo.gov/link/plaw/114/public/74), Nov. 2, 2015, [129 Stat. 624](https://www.govinfo.gov/link/statute/129/624); [Pub. L. 115–141, div. P, title I, § 101(b)](https://www.govinfo.gov/link/plaw/115/public/141), title IV, § 402(h)(2), (i)(4), title V, § 512(a), Mar. 23, 2018, [132 Stat. 1081](https://www.govinfo.gov/link/statute/132/1081), 1089, 1097; [Pub. L. 117–58, div. I, § 90008(c)(1)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1350](https://www.govinfo.gov/link/statute/135/1350); [Pub. L. 117–180, div. C, title I, § 101](https://www.govinfo.gov/link/plaw/117/public/180), Sept. 30, 2022, [136 Stat. 2133](https://www.govinfo.gov/link/statute/136/2133); [Pub. L. 117–229, div. B, title I, § 101](https://www.govinfo.gov/link/plaw/117/public/229), Dec. 16, 2022, [136 Stat. 2309](https://www.govinfo.gov/link/statute/136/2309); [Pub. L. 117–328, div. O, title IX, § 901](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5232](https://www.govinfo.gov/link/statute/136/5232); [Pub. L. 119–21, title IV, § 40002(b)(1)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 129](https://www.govinfo.gov/link/statute/139/129).)*

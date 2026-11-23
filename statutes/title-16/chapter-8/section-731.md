@@ -3,12 +3,17 @@ title: "Section 731 - Effect on other laws"
 usc_title: 16
 usc_section: "731"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 731"
-generated_at: "2026-03-30T02:54:22.903Z"
+generated_at: "2026-11-23T20:26:20.256Z"
+status: "active"
 ---
 
 # § 731. Effect on other laws
 
 Nothing in this chapter shall be construed as exempting any portion of the Mississippi River from the provisions of Federal laws for the improvement, preservation, and protection of navigable waters, nor as authorizing any interference with the operations of the Department of the Army in carrying out any project now or hereafter adopted for the improvement of said river.
 
+
+## Source Credit
+
+*(June 7, 1924, ch. 346, § 13, [43 Stat. 652](https://www.govinfo.gov/link/statute/43/652); July 26, 1947, ch. 343, title II, § 205(a), [61 Stat. 501](https://www.govinfo.gov/link/statute/61/501).)*

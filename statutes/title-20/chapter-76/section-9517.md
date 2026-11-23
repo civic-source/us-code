@@ -3,9 +3,10 @@ title: "Section 9517 - Commissioners of the National Education Centers"
 usc_title: 20
 usc_section: "9517"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 9517"
-generated_at: "2026-03-30T02:54:48.227Z"
+generated_at: "2026-11-23T20:26:14.988Z"
+status: "active"
 ---
 
 # § 9517. Commissioners of the National Education Centers
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:48.227Z"
   - **(3)** serve for a term of 6 years, with the term to expire every sixth June 21, beginning in 2003.
 - **(c)** Each Commissioner of a National Education Center shall coordinate with each of the other Commissioners of the National Education Centers in carrying out such Commissioner’s duties under this subchapter.
 - **(d)** Each Commissioner, except the Commissioner for Education Statistics, shall carry out such Commissioner’s duties under this subchapter under the supervision and subject to the approval of the Director.
+
+## Source Credit
+
+*([Pub. L. 107–279, title I, § 117](https://www.govinfo.gov/link/plaw/107/public/279), Nov. 5, 2002, [116 Stat. 1952](https://www.govinfo.gov/link/statute/116/1952); [Pub. L. 112–166, § 2(d)(2)](https://www.govinfo.gov/link/plaw/112/public/166), Aug. 10, 2012, [126 Stat. 1284](https://www.govinfo.gov/link/statute/126/1284).)*

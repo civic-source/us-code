@@ -3,9 +3,10 @@ title: "Section 239 - General provisions"
 usc_title: 42
 usc_section: "239"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 239"
-generated_at: "2026-03-30T02:56:10.689Z"
+generated_at: "2026-11-23T20:27:19.974Z"
+status: "active"
 ---
 
 # § 239. General provisions
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:10.689Z"
   - **(1)** potential participants are educated with respect to contraindications, the voluntary nature of the program, and the availability of potential benefits and compensation under this part;
   - **(2)** there is voluntary screening provided to potential participants that can identify health conditions relevant to contraindications; and
   - **(3)** there is appropriate post-inoculation medical surveillance that includes an evaluation of adverse health effects that may reasonably appear to be due to such vaccine and prompt referral of, or the provision of appropriate information to, any individual requiring health care as a result of such adverse health event.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title II, § 261, as added [Pub. L. 108–20, § 2](https://www.govinfo.gov/link/plaw/108/public/20), Apr. 30, 2003, [117 Stat. 638](https://www.govinfo.gov/link/statute/117/638).)*

@@ -3,9 +3,10 @@ title: "Section 83 - Arkansas"
 usc_title: 28
 usc_section: "83"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 83"
-generated_at: "2026-03-30T02:55:30.122Z"
+generated_at: "2026-11-23T20:26:36.279Z"
+status: "active"
 ---
 
 # § 83. Arkansas
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:30.122Z"
   - **(5)** The Fayetteville Division comprises the counties of Benton, Madison, and Washington. Court for the Fayetteville Division shall be held at Fayetteville.
   - **(6)** The Hot Springs Division comprises the counties of Clark, Garland, Hot Springs, Montgomery, and Pike. Court for the Hot Springs Division shall be held at Hot Springs.
 
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 874](https://www.govinfo.gov/link/statute/62/874); [Pub. L. 87–36, § 5](https://www.govinfo.gov/link/plaw/87/public/36), May 19, 1961, [75 Stat. 84](https://www.govinfo.gov/link/statute/75/84); [Pub. L. 108–455, § 3](https://www.govinfo.gov/link/plaw/108/public/455), Dec. 10, 2004, [118 Stat. 3628](https://www.govinfo.gov/link/statute/118/3628); [Pub. L. 116–73, § 2](https://www.govinfo.gov/link/plaw/116/public/73), Nov. 26, 2019, [133 Stat. 1154](https://www.govinfo.gov/link/statute/133/1154).)*

@@ -3,9 +3,10 @@ title: "Section 6867 - Presumptions where owner of large amount of cash is not i
 usc_title: 26
 usc_section: "6867"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6867"
-generated_at: "2026-03-30T02:55:27.867Z"
+generated_at: "2026-11-23T20:26:46.739Z"
+status: "active"
 ---
 
 # § 6867. Presumptions where owner of large amount of cash is not identified
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:27.867Z"
   - **(3)** Any cash equivalent shall be taken into account—
     - **(A)** in the case of a bearer obligation, at its face amount, and
     - **(B)** in the case of any other cash equivalent, at its fair market value.
+
+## Source Credit
+
+*(Added [Pub. L. 97–248, title III, § 330(a)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 619](https://www.govinfo.gov/link/statute/96/619); amended [Pub. L. 100–647, title I, § 1001(a)(1)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3349](https://www.govinfo.gov/link/statute/102/3349).)*

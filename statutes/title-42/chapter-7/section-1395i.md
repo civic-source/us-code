@@ -3,9 +3,10 @@ title: "Section 1395i - Federal Hospital Insurance Trust Fund"
 usc_title: 42
 usc_section: "1395i"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1395i"
-generated_at: "2026-03-30T02:56:10.938Z"
+generated_at: "2026-11-23T20:27:21.104Z"
+status: "active"
 ---
 
 # § 1395i. Federal Hospital Insurance Trust Fund
@@ -132,3 +133,85 @@ generated_at: "2026-03-30T02:56:10.938Z"
       - **(iii)** For each of fiscal years 2013 and 2014, $30,000,000.
       - **(iv)** For each of fiscal years 2015 and 2016, $20,000,000.
     - **(B)** The funds appropriated under this paragraph shall be allocated in the same proportion as the total funding appropriated with respect to paragraphs (3)(A) and (4)(A) was allocated with respect to fiscal year 2010, and shall be available without further appropriation until expended.
+
+Definitions
+
+Clerical error
+
+Trust fund
+
+Correction of Trust Fund Holdings.—
+
+In general
+
+Obligations issued and redeemed
+
+Appropriation
+
+Congressional Notice
+
+Deadline
+
+Determinations of Excess General Revenue Medicare Funding.—
+
+In general
+
+Medicare funding warning
+
+fiscal-year reporting period
+
+Information
+
+Projections of growth of general revenue spending
+
+Comparison with other growth trends
+
+Part d spending
+
+Combined medicare trust fund analysis
+
+Definitions
+
+Excess general revenue medicare funding
+
+General revenue medicare funding
+
+Dedicated medicare financing sources
+
+Hospital insurance tax
+
+Taxation of certain oasdi benefits
+
+State transfers
+
+Premiums
+
+Part a
+
+Part b
+
+Part d
+
+Gifts
+
+Total medicare outlays
+
+Medicare trust fund
+
+Conforming Amendments.—
+
+Federal hospital insurance trust fund
+
+Federal supplementary medical insurance trust fund
+
+Notice of Medicare Funding Warning
+
+In general
+
+Costs of asset forfeiture
+
+Restoration payment
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1817, as added [Pub. L. 89–97, title I, § 102(a)](https://www.govinfo.gov/link/plaw/89/public/97), July 30, 1965, [79 Stat. 299](https://www.govinfo.gov/link/statute/79/299); amended [Pub. L. 90–248, title I, § 169(a)](https://www.govinfo.gov/link/plaw/90/public/248), Jan. 2, 1968, [81 Stat. 875](https://www.govinfo.gov/link/statute/81/875); [Pub. L. 92–603, title I, § 132(d)](https://www.govinfo.gov/link/plaw/92/public/603), Oct. 30, 1972, [86 Stat. 1361](https://www.govinfo.gov/link/statute/86/1361); [Pub. L. 95–292, § 5](https://www.govinfo.gov/link/plaw/95/public/292), June 13, 1978, [92 Stat. 315](https://www.govinfo.gov/link/statute/92/315); [Pub. L. 96–265, title III, § 310(c)](https://www.govinfo.gov/link/plaw/96/public/265), June 9, 1980, [94 Stat. 460](https://www.govinfo.gov/link/statute/94/460); [Pub. L. 97–123, § 1(b)](https://www.govinfo.gov/link/plaw/97/public/123), Dec. 29, 1981, [95 Stat. 1659](https://www.govinfo.gov/link/statute/95/1659); [Pub. L. 98–21, title I](https://www.govinfo.gov/link/plaw/98/public/21), §§ 141(b), 142(b)(1), (2)(A), (3), (4), 154(b), title III, § 341(b), Apr. 20, 1983, [97 Stat. 98](https://www.govinfo.gov/link/statute/97/98), 100, 101, 107, 135; [Pub. L. 98–369, div. B, title III](https://www.govinfo.gov/link/plaw/98/public/369), §§ 2337(a), 2354(b)(2), title VI, § 2663(j)(2)(F)(i), July 18, 1984, [98 Stat. 1091](https://www.govinfo.gov/link/statute/98/1091), 1100, 1170; [Pub. L. 99–272, title IX, § 9213(b)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 180](https://www.govinfo.gov/link/statute/100/180); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 100–360, title II, § 212(c)(3)](https://www.govinfo.gov/link/plaw/100/public/360), July 1, 1988, [102 Stat. 741](https://www.govinfo.gov/link/statute/102/741); [Pub. L. 100–647, title VIII, § 8005(a)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3781](https://www.govinfo.gov/link/statute/102/3781); [Pub. L. 101–234, title II, § 202(a)](https://www.govinfo.gov/link/plaw/101/public/234), Dec. 13, 1989, [103 Stat. 1981](https://www.govinfo.gov/link/statute/103/1981); [Pub. L. 101–508, title V, § 5106(c)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–268](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–296, title I, § 108(c)(1)](https://www.govinfo.gov/link/plaw/103/public/296), Aug. 15, 1994, [108 Stat. 1485](https://www.govinfo.gov/link/statute/108/1485); [Pub. L. 104–191, title II, § 201(b)](https://www.govinfo.gov/link/plaw/104/public/191), Aug. 21, 1996, [110 Stat. 1993](https://www.govinfo.gov/link/statute/110/1993); [Pub. L. 105–33, title IV, § 4318](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 392](https://www.govinfo.gov/link/statute/111/392); [Pub. L. 106–113, div. B, § 1000(a)(6) [title III, § 321(j)(1)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–366; [Pub. L. 108–173, title VII, § 736(a)(5)](https://www.govinfo.gov/link/plaw/108/public/173), (6), title VIII, § 801(d)(1), title IX, § 900(e)(1)(D), Dec. 8, 2003, [117 Stat. 2355](https://www.govinfo.gov/link/statute/117/2355), 2359, 2371; [Pub. L. 109–171, title V, § 5204](https://www.govinfo.gov/link/plaw/109/public/171), title VI, § 6034(d)(2), Feb. 8, 2006, [120 Stat. 48](https://www.govinfo.gov/link/statute/120/48), 78; [Pub. L. 109–432, div. B, title III, § 303](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 2992](https://www.govinfo.gov/link/statute/120/2992); [Pub. L. 111–148, title VI, § 6402(i)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 760](https://www.govinfo.gov/link/statute/124/760); [Pub. L. 111–152, title I, § 1303(a)(1)](https://www.govinfo.gov/link/plaw/111/public/152), Mar. 30, 2010, [124 Stat. 1057](https://www.govinfo.gov/link/statute/124/1057).)*

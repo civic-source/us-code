@@ -3,9 +3,10 @@ title: "Section 44904 - Domestic air transportation system security"
 usc_title: 49
 usc_section: "44904"
 chapter: 449
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44904"
-generated_at: "2026-03-30T02:56:19.390Z"
+generated_at: "2026-11-23T20:27:35.212Z"
+status: "active"
 ---
 
 # § 44904. Domestic air transportation system security
@@ -22,3 +23,50 @@ generated_at: "2026-03-30T02:56:19.390Z"
   - **(2)** include a threat matrix document that outlines each threat to the United States civil aviation system and the corresponding layers of security in place to address such threat.
 - **(d)** The Administrator of the Transportation Security Administration shall issue operational criteria to protect airport infrastructure and operations against the threats identified in the plans prepared under section 114(s)(1) and shall approve best practices guidelines for airport assets.
 - **(e)** The Administrator of the Transportation Security Administration shall take necessary actions to improve domestic air transportation security by correcting any deficiencies in that security discovered in the assessments, analyses, and monitoring carried out under this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 44904(a) | 49 App.:1357 (note). | Nov. 16, 1990 , Pub. L. 101–604, § 106(a) , (b), 104 Stat. 3075 . |
+| 44904(b) | 49 App.:1357 (note). | Nov. 16, 1990 , Pub. L. 101–604, § 106(c) , 104 Stat. 3075 . |
+| 44904(c) | 49 App.:1357 (note). | Nov. 16, 1990 , Pub. L. 101–604, § 106(e) , 104 Stat. 3075 . |
+
+
+Assessing Threats
+
+Assessing Security
+
+Modal Security Plan for Aviation
+
+Operational Criteria
+
+Improving Security
+
+Historical and Revision Notes
+
+44904(a)
+
+Nov. 16, 1990
+
+Pub. L. 101–604, § 106(a)
+
+104 Stat. 3075
+
+44904(b)
+
+Nov. 16, 1990
+
+Pub. L. 101–604, § 106(c)
+
+104 Stat. 3075
+
+44904(c)
+
+Nov. 16, 1990
+
+Pub. L. 101–604, § 106(e)
+
+104 Stat. 3075
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1207](https://www.govinfo.gov/link/statute/108/1207); [Pub. L. 107–71, title I, § 101(f)(1)](https://www.govinfo.gov/link/plaw/107/public/71), (7), (9), Nov. 19, 2001, [115 Stat. 603](https://www.govinfo.gov/link/statute/115/603); [Pub. L. 108–458, title IV, § 4001(b)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3712](https://www.govinfo.gov/link/statute/118/3712); [Pub. L. 115–254, div. K, title I, § 1991(d)(4)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3632](https://www.govinfo.gov/link/statute/132/3632).)*

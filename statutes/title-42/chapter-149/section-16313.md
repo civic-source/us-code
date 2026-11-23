@@ -3,9 +3,10 @@ title: "Section 16313 - Solar Fuels Research Initiative"
 usc_title: 42
 usc_section: "16313"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16313"
-generated_at: "2026-03-30T02:56:11.482Z"
+generated_at: "2026-11-23T20:27:23.665Z"
+status: "active"
 ---
 
 # § 16313. Solar Fuels Research Initiative
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:56:11.482Z"
     - **(C)** the Assistant Secretary for Energy Efficiency and Renewable Energy shall support translational research, development, and validation of physical concepts developed under the program.
   - **(3)** The Secretary shall review activities carried out under the program described in paragraph (1) to determine the achievement of technical milestones.
   - **(4)** Of the funds authorized to be appropriated for basic energy sciences in a fiscal year, there is authorized to be appropriated to the Secretary to carry out activities under this subsection $50,000,000 for each of fiscal years 2023 through 2027.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 973](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 902](https://www.govinfo.gov/link/statute/119/902); [Pub. L. 115–246, title III, § 303(f)(1)](https://www.govinfo.gov/link/plaw/115/public/246), formerly § 303(d)(1), Sept. 28, 2018, [132 Stat. 3141](https://www.govinfo.gov/link/statute/132/3141), renumbered § 303(f)(1), [Pub. L. 117–167, div. B, title I, § 10102(a)(1)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1409](https://www.govinfo.gov/link/statute/136/1409); [Pub. L. 117–167, div. B, title I, § 10102(b)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1414](https://www.govinfo.gov/link/statute/136/1414).)*

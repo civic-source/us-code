@@ -3,9 +3,10 @@ title: "Section 513 - Unrelated trade or business"
 usc_title: 26
 usc_section: "513"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 513"
-generated_at: "2026-03-30T02:55:27.713Z"
+generated_at: "2026-11-23T20:26:45.799Z"
+status: "active"
 ---
 
 # § 513. Unrelated trade or business
@@ -75,3 +76,11 @@ generated_at: "2026-03-30T02:55:27.713Z"
         - **(II)** any payment made in connection with any qualified convention or trade show activity (as defined in subsection (d)(3)(B)).
   - **(3)** For purposes of this subsection, to the extent that a portion of a payment would (if made as a separate payment) be a qualified sponsorship payment, such portion of such payment and the other portion of such payment shall be treated as separate payments.
 - **(j)** The term “unrelated trade or business” includes the provision of debt management plan services (as defined in section 501(q)(4)(B)) by any organization other than an organization which meets the requirements of section 501(q).
+
+General Rule
+
+Effective Date
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 172; [Pub. L. 86–667, § 4](https://www.govinfo.gov/link/plaw/86/public/667), July 14, 1960, [74 Stat. 536](https://www.govinfo.gov/link/statute/74/536); [Pub. L. 91–172, title I, § 121(b)(4)](https://www.govinfo.gov/link/plaw/91/public/172), (c), Dec. 30, 1969, [83 Stat. 541](https://www.govinfo.gov/link/statute/83/541), 542; [Pub. L. 94–455, title XIII](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1305(a), 1311(a), Oct. 4, 1976, [90 Stat. 1716](https://www.govinfo.gov/link/statute/90/1716), 1729; [Pub. L. 95–502, title III, § 301(a)](https://www.govinfo.gov/link/plaw/95/public/502), Oct. 21, 1978, [92 Stat. 1702](https://www.govinfo.gov/link/statute/92/1702); [Pub. L. 96–605, title I, § 106(b)](https://www.govinfo.gov/link/plaw/96/public/605), Dec. 28, 1980, [94 Stat. 3524](https://www.govinfo.gov/link/statute/94/3524); [Pub. L. 99–514, title XVI](https://www.govinfo.gov/link/plaw/99/public/514), §§ 1601(a), 1602(a), (b), Oct. 22, 1986, [100 Stat. 2766](https://www.govinfo.gov/link/statute/100/2766), 2767; [Pub. L. 101–508, title XI, § 11101(d)(1)(G)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–405](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–66, title XIII, § 13201(b)(3)(H)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 459](https://www.govinfo.gov/link/statute/107/459); [Pub. L. 105–34, title IX, § 965(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 893](https://www.govinfo.gov/link/statute/111/893); [Pub. L. 109–280, title XII, § 1220(b)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1088](https://www.govinfo.gov/link/statute/120/1088); [Pub. L. 115–97, title I, § 11002(d)(1)(Z)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2060](https://www.govinfo.gov/link/statute/131/2060).)*

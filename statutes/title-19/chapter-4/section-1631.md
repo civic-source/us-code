@@ -3,9 +3,10 @@ title: "Section 1631 - Use of private collection agencies"
 usc_title: 19
 usc_section: "1631"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1631"
-generated_at: "2026-03-30T02:54:24.648Z"
+generated_at: "2026-11-23T20:26:10.831Z"
+status: "active"
 ---
 
 # § 1631. Use of private collection agencies
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:24.648Z"
     - **(A)** section 552a of title 5 to the extent provided in subsection (m) of such section; and
     - **(B)** laws and regulations of the United States Government and State governments related to debt collection practices.
 - **(c)** The debtor shall be assessed and pay any and all costs associated with collection efforts pursuant to this section. Notwithstanding section 3302(b) of title 31 , any sum so collected shall be used to pay the costs of debt collection services.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 631, as added [Pub. L. 103–182, title VI, § 671](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2217](https://www.govinfo.gov/link/statute/107/2217); amended [Pub. L. 104–295, § 3(a)(9)](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3516](https://www.govinfo.gov/link/statute/110/3516); [Pub. L. 106–36, title I, § 1001(b)(5)(A)](https://www.govinfo.gov/link/plaw/106/public/36), June 25, 1999, [113 Stat. 132](https://www.govinfo.gov/link/statute/113/132).)*

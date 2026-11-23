@@ -3,9 +3,10 @@ title: "Section 4a - Supplemental grants for additional preventive health servic
 usc_title: 42
 usc_section: "4a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4a"
-generated_at: "2026-03-30T02:56:10.807Z"
+generated_at: "2026-11-23T20:27:20.520Z"
+status: "active"
 ---
 
 # § 300n–4a. Supplemental grants for additional preventive health services
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:10.807Z"
 - **(d)**
   - **(1)** Subject to paragraph (2), for the purpose of carrying out this section, there are authorized to be appropriated $3,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 through 2003.
   - **(2)** The authorization of appropriations established in paragraph (1) is not effective for a fiscal year unless the amount appropriated under section 300n–5(a) of this title for the fiscal year is equal to or greater than $100,000,000.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XV, § 1509, as added [Pub. L. 103–183, title I, § 102(a)(2)](https://www.govinfo.gov/link/plaw/103/public/183), Dec. 14, 1993, [107 Stat. 2229](https://www.govinfo.gov/link/statute/107/2229); amended [Pub. L. 105–340, title II, § 203(c)(1)](https://www.govinfo.gov/link/plaw/105/public/340), Oct. 31, 1998, [112 Stat. 3194](https://www.govinfo.gov/link/statute/112/3194).)*

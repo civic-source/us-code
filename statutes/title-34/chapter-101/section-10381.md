@@ -3,9 +3,10 @@ title: "Section 10381 - Authority to make public safety and community policing g
 usc_title: 34
 usc_section: "10381"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10381"
-generated_at: "2026-03-30T02:55:33.266Z"
+generated_at: "2026-11-23T20:26:50.460Z"
+status: "active"
 ---
 
 # § 10381. Authority to make public safety and community policing grants
@@ -124,3 +125,29 @@ generated_at: "2026-03-30T02:55:33.266Z"
     - **(C)** enhance community interactions between local youth and law enforcement agencies that are designed to increase recruiting; and
     - **(D)** otherwise improve the outcomes of local law enforcement recruitment through activities such as dedicated programming for students, work-based learning opportunities, project-based learning, mentoring, community liaisons, career or job fairs, work site visits, job shadowing, apprenticeships, or skills-based internships.
   - **(3)** Of the amounts made available to carry out this subchapter for a fiscal year, the Attorney General may use not more than $3,000,000 to carry out this subsection.
+
+Definitions
+
+State.—
+
+In general
+
+Inclusion
+
+Village public safety officer
+
+Tribal organization
+
+COPS Grants
+
+Staffing for Adequate Fire and Emergency Response Grants
+
+Training for Village Public Safety Officers and Tribal Law Enforcement Positions Funded Under COPS Program.—
+
+In general
+
+Funding
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 1701](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 103–322, title I, § 10003(a)(3)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1808](https://www.govinfo.gov/link/statute/108/1808); amended [Pub. L. 105–119, title I, § 119](https://www.govinfo.gov/link/plaw/105/public/119), Nov. 26, 1997, [111 Stat. 2468](https://www.govinfo.gov/link/statute/111/2468); [Pub. L. 105–302, § 1(1)](https://www.govinfo.gov/link/plaw/105/public/302), Oct. 27, 1998, [112 Stat. 2841](https://www.govinfo.gov/link/statute/112/2841); [Pub. L. 108–21, title III, § 341](https://www.govinfo.gov/link/plaw/108/public/21), Apr. 30, 2003, [117 Stat. 665](https://www.govinfo.gov/link/statute/117/665); [Pub. L. 109–162, title XI, § 1163(a)](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3119](https://www.govinfo.gov/link/statute/119/3119); [Pub. L. 111–211, title II, § 243](https://www.govinfo.gov/link/plaw/111/public/211), July 29, 2010, [124 Stat. 2292](https://www.govinfo.gov/link/statute/124/2292); [Pub. L. 114–22, title VI, § 601(1)](https://www.govinfo.gov/link/plaw/114/public/22), title X, § 1002, May 29, 2015, [129 Stat. 258](https://www.govinfo.gov/link/statute/129/258), 266; [Pub. L. 114–199, § 2](https://www.govinfo.gov/link/plaw/114/public/199), July 22, 2016, [130 Stat. 780](https://www.govinfo.gov/link/statute/130/780); [Pub. L. 114–255, div. B, title XIV, § 14001(b)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1288](https://www.govinfo.gov/link/statute/130/1288); [Pub. L. 115–37, § 2](https://www.govinfo.gov/link/plaw/115/public/37), June 2, 2017, [131 Stat. 854](https://www.govinfo.gov/link/statute/131/854); [Pub. L. 115–113, § 2(c)](https://www.govinfo.gov/link/plaw/115/public/113), Jan. 10, 2018, [131 Stat. 2276](https://www.govinfo.gov/link/statute/131/2276); [Pub. L. 115–271, title VIII](https://www.govinfo.gov/link/plaw/115/public/271), §§ 8210, 8211, Oct. 24, 2018, [132 Stat. 4114](https://www.govinfo.gov/link/statute/132/4114); [Pub. L. 115–393, title I, § 101](https://www.govinfo.gov/link/plaw/115/public/393), Dec. 21, 2018, [132 Stat. 5266](https://www.govinfo.gov/link/statute/132/5266); [Pub. L. 117–325, § 2(b)](https://www.govinfo.gov/link/plaw/117/public/325), Dec. 27, 2022, [136 Stat. 4442](https://www.govinfo.gov/link/statute/136/4442); [Pub. L. 118–64](https://www.govinfo.gov/link/plaw/118/public/64), §§ 2–4, May 24, 2024, [138 Stat. 1435](https://www.govinfo.gov/link/statute/138/1435); [Pub. L. 119–60, div. H, title LXXXVI, § 8604](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1943](https://www.govinfo.gov/link/statute/139/1943).)*

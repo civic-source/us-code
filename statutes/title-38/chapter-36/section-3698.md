@@ -3,9 +3,10 @@ title: "Section 3698 - Comprehensive policy on providing education information t
 usc_title: 38
 usc_section: "3698"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 3698"
-generated_at: "2026-03-30T02:55:53.510Z"
+generated_at: "2026-11-23T20:27:01.888Z"
+status: "active"
 ---
 
 # § 3698. Comprehensive policy on providing education information to veterans
@@ -78,3 +79,61 @@ generated_at: "2026-03-30T02:55:53.510Z"
     - **(E)** A Native American-serving, nontribal institution, as such term is defined in section 319(b)(2) of such Act ( 20 U.S.C. 1059f(b)(6) ).
     - **(F)** An Alaska Native-serving institution or Native Hawaiian-serving institution, as such terms are defined in section 317(b) of such Act ( 20 U.S.C. 1059d(b) ).
     - **(G)** An Asian American and Native American Pacific Islander-serving institution, as such term is defined in section 320(b) of such Act ( 20 U.S.C. 1059g(b) ).
+
+Comprehensive Policy Required
+
+Scope
+
+Postsecondary Education Information
+
+(aa) an associate degree;
+
+(bb) a bachelor’s degree; and
+
+(cc) a postbaccalaureate degree; and
+
+Consistency With Existing Education Policy
+
+Communication With Institutions of Higher Learning
+
+Definitions
+
+Requirement to maintain tool
+
+Data retention
+
+Providing Timely and Relevant Education Information to Veterans, Members of the Armed Forces, and Other Individuals.—
+
+In general
+
+Memorandum of understanding required
+
+Modification of scope of comprehensive policy on providing education information
+
+G.I. bill comparison tool required disclosures
+
+Clarity and anonymity of information provided
+
+Improvements for Student Feedback.—
+
+[Amended this section.]
+
+In general
+
+Transition assistance program defined
+
+Survey
+
+Report
+
+Definitions
+
+Appropriate committees of congress
+
+Commercially available off-the-shelf
+
+Postsecondary education and training opportunities
+
+## Source Credit
+
+*(Added [Pub. L. 112–249, § 1(a)(1)](https://www.govinfo.gov/link/plaw/112/public/249), Jan. 10, 2013, [126 Stat. 2398](https://www.govinfo.gov/link/statute/126/2398); amended [Pub. L. 115–48, title III, § 303](https://www.govinfo.gov/link/plaw/115/public/48), Aug. 16, 2017, [131 Stat. 991](https://www.govinfo.gov/link/statute/131/991); [Pub. L. 115–407, title I, § 104](https://www.govinfo.gov/link/plaw/115/public/407), Dec. 31, 2018, [132 Stat. 5371](https://www.govinfo.gov/link/statute/132/5371); [Pub. L. 117–16, § 3(a)](https://www.govinfo.gov/link/plaw/117/public/16), (b), June 8, 2021, [135 Stat. 282](https://www.govinfo.gov/link/statute/135/282); [Pub. L. 118–210, title II, § 215(b)(3)](https://www.govinfo.gov/link/plaw/118/public/210) –(c)(1), Jan. 2, 2025, [138 Stat. 2775–2777](https://www.govinfo.gov/link/statute/138/2775).)*

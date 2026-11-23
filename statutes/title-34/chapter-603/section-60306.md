@@ -3,9 +3,10 @@ title: "Section 60306 - Authorization of appropriations"
 usc_title: 34
 usc_section: "60306"
 chapter: 603
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 60306"
-generated_at: "2026-03-30T02:55:33.316Z"
+generated_at: "2026-11-23T20:26:50.670Z"
+status: "active"
 ---
 
 # § 60306. Authorization of appropriations
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:33.316Z"
   - **(4)** $17,500,000 for fiscal year 2020; and
   - **(5)** $22,500,000 for fiscal year 2021. 2 2 So in original.
 - **(b)** Each State receiving a grant under this chapter shall allocate the funds equally between the uses described in section 60301 of this title and the uses described in section 60302 of this title , except as provided in section 60305(f) of this title , or upon a showing of good cause, and at the discretion of the Attorney General, the State may determine a fair allocation of funds across the uses described in sections 60301 and 60302 of this title.
+
+## Source Credit
+
+*([Pub. L. 108–405, title IV, § 426](https://www.govinfo.gov/link/plaw/108/public/405), Oct. 30, 2004, [118 Stat. 2292](https://www.govinfo.gov/link/statute/118/2292); [Pub. L. 114–324, § 10](https://www.govinfo.gov/link/plaw/114/public/324), Dec. 16, 2016, [130 Stat. 1956](https://www.govinfo.gov/link/statute/130/1956).)*

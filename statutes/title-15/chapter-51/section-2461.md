@@ -3,9 +3,10 @@ title: "Section 2461 - Audit, review, and evaluation"
 usc_title: 15
 usc_section: "2461"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2461"
-generated_at: "2026-03-30T02:54:08.172Z"
+generated_at: "2026-11-23T20:26:04.200Z"
+status: "active"
 ---
 
 # § 2461. Audit, review, and evaluation
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:08.172Z"
   - **(1)** an evaluation of the effectiveness of the Center’s activities;
   - **(2)** an evaluation of the effect of the activities of the Center on the efficiency, and effectiveness, of affected Federal agencies in carrying out their assigned functions and duties under this chapter; and
   - **(3)** recommendations concerning any legislation he deems necessary, and the reasons therefor, for improving the implementation of the objectives of this chapter as set forth in section 2402 of this title .
+
+## Source Credit
+
+*([Pub. L. 94–136, title V, § 501](https://www.govinfo.gov/link/plaw/94/public/136), Nov. 28, 1975, [89 Stat. 742](https://www.govinfo.gov/link/statute/89/742).)*

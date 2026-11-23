@@ -3,9 +3,10 @@ title: "Section 17357 - Authorization of appropriations"
 usc_title: 42
 usc_section: "17357"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17357"
-generated_at: "2026-03-30T02:56:11.505Z"
+generated_at: "2026-11-23T20:27:23.754Z"
+status: "active"
 ---
 
 # § 17357. Authorization of appropriations
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.505Z"
 - **(b)**
   - **(1)** The Foundation may allocate or transfer to any agency of the United States Government any of the funds available for carrying out this part. Such funds shall be available for obligation and expenditure for the purposes for which the funds were authorized, in accordance with authority granted in this part or under authority governing the activities of the United States Government agency to which such funds are allocated or transferred.
   - **(2)** The Foundation shall notify the appropriate congressional committees not less than 15 days prior to an allocation or transfer of funds pursuant to paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 110–140, title IX, § 927](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1738](https://www.govinfo.gov/link/statute/121/1738).)*

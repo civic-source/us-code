@@ -3,9 +3,10 @@ title: "Section 387c - Misbranded tobacco products"
 usc_title: 21
 usc_section: "387c"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 387c"
-generated_at: "2026-03-30T02:54:54.279Z"
+generated_at: "2026-11-23T20:26:27.768Z"
+status: "active"
 ---
 
 # § 387c. Misbranded tobacco products
@@ -34,3 +35,11 @@ generated_at: "2026-03-30T02:54:54.279Z"
     - **(A)** to comply with any requirement prescribed under section 387d or 387h of this title; or
     - **(B)** to furnish any material or information required under section 387i of this title .
 - **(b)** The Secretary may, by regulation, require prior approval of statements made on the label of a tobacco product to ensure that such statements do not violate the misbranding provisions of subsection (a) and that such statements comply with other provisions of the Family Smoking Prevention and Tobacco Control Act (including the amendments made by such Act). No regulation issued under this subsection may require prior approval by the Secretary of the content of any advertisement, except for modified risk tobacco products as provided in section 387k of this title . No advertisement of a tobacco product published after June 22, 2009 , shall, with respect to the language of label statements as prescribed under section 1333 of title 15 and section 4402 of title 15 or the regulations issued under such sections, be subject to the provisions of sections 52 through 55 of title 15.
+
+Package label requirements
+
+Advertising requirements
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 903, as added [Pub. L. 111–31, div. A, title I, § 101(b)(3)](https://www.govinfo.gov/link/plaw/111/public/31), June 22, 2009, [123 Stat. 1788](https://www.govinfo.gov/link/statute/123/1788); amended [Pub. L. 116–94, div. N, title I, § 603(d)(3)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3124](https://www.govinfo.gov/link/statute/133/3124).)*

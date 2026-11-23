@@ -3,9 +3,10 @@ title: "Section 2907 - Refunds"
 usc_title: 7
 usc_section: "2907"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2907"
-generated_at: "2026-03-30T02:53:42.392Z"
+generated_at: "2026-11-23T20:25:41.551Z"
+status: "active"
 ---
 
 # § 2907. Refunds
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:53:42.392Z"
     - **(A)** continue to place in such account, from assessments collected under section 2904 of this title , the amount required under subsection (b), until such time as the Board is able to comply with subparagraph (B); and
     - **(B)** provide to all eligible persons the total amount of assessments demanded by all eligible producers.
   - **(2)** If the amount in the escrow account required to be established by subsection (a) is not sufficient to refund the total amount of assessments demanded by all eligible persons under this section and the continuation of an order is not approved pursuant to the referendum required under section 2906(a) of this title , the Board shall prorate the amount of such refunds among all eligible persons who demand such refund.
+
+## Source Credit
+
+*([Pub. L. 94–294, § 8](https://www.govinfo.gov/link/plaw/94/public/294), May 28, 1976, [90 Stat. 532](https://www.govinfo.gov/link/statute/90/532); [Pub. L. 99–198, title XVI, § 1601(b)](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1604](https://www.govinfo.gov/link/statute/99/1604).)*

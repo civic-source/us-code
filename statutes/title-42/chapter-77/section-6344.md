@@ -3,9 +3,10 @@ title: "Section 6344 - Additional incentives for recovery, use, and prevention o
 usc_title: 42
 usc_section: "6344"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6344"
-generated_at: "2026-03-30T02:56:11.256Z"
+generated_at: "2026-11-23T20:27:22.661Z"
+status: "active"
 ---
 
 # § 6344. Additional incentives for recovery, use, and prevention of industrial waste energy
@@ -75,3 +76,11 @@ generated_at: "2026-03-30T02:56:11.256Z"
     - **(B)** The statement of reasons shall be available to the public.
     - **(C)** The Administrator shall include in an annual report submitted to Congress a description of the lost opportunities for waste-heat recovery from the project described in subparagraph (A), specifically identifying the utility and stating the quantity of lost energy and emissions savings calculated.
     - **(D)** If a State regulatory authority (with respect to each electric utility for which the authority has ratemaking authority) or nonregulated electric utility declines to implement the standard established by this section, the project sponsor may submit a new petition under this section with respect to the project at any time after the date that is 2 years after the date on which the State regulatory authority or nonregulated utility declined to implement the standard.
+
+(aa) the amount of any net revenue payment or contribution to the owners or subscribers of the nonregulated utility during the prior year; by
+
+(bb) the gross revenues of the utility during the prior year to obtain a percentage; by
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 374](https://www.govinfo.gov/link/plaw/94/public/163), as added [Pub. L. 110–140, title IV, § 451(a)](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1628](https://www.govinfo.gov/link/statute/121/1628).)*

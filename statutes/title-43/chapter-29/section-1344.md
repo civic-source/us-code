@@ -3,9 +3,10 @@ title: "Section 1344 - Outer Continental Shelf leasing program"
 usc_title: 43
 usc_section: "1344"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1344"
-generated_at: "2026-03-30T02:55:57.470Z"
+generated_at: "2026-11-23T20:27:06.281Z"
+status: "active"
 ---
 
 # § 1344. Outer Continental Shelf leasing program
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:55:57.470Z"
 - **(g)** The Secretary may obtain from public sources, or purchase from private sources, any survey, data, report, or other information (including interpretations of such data, survey, report, or other information) which may be necessary to assist him in preparing any environmental impact statement and in making other evaluations required by this subchapter. Data of a classified nature provided to the Secretary under the provisions of this subsection shall remain confidential for such period of time as agreed to by the head of the department or agency from whom the information is requested. The Secretary shall maintain the confidentiality of all privileged or proprietary data or information for such period of time as is provided for in this subchapter, established by regulation, or agreed to by the parties.
 - **(h)** The heads of all Federal departments and agencies shall provide the Secretary with any nonpriviledged 1 1 So in original. Probably should be “nonprivileged”. or nonproprietary information he requests to assist him in preparing the leasing program and may provide the Secretary with any privileged or proprietary information he requests to assist him in preparing the leasing program. Privileged or proprietary information provided to the Secretary under the provisions of this subsection shall remain confidential for such period of time as agreed to by the head of the department or agency from whom the information is requested. In addition, the Secretary shall utilize the existing capabilities and resources of such Federal departments and agencies by appropriate agreement.
 - **(i)** This section shall not apply to the scheduling of any lease sale in an area of the outer Continental Shelf that is adjacent to the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, or the Commonwealth of the Northern Mariana Islands.
+
+## Source Credit
+
+*(Aug. 7, 1953, ch. 345, § 18, as added [Pub. L. 95–372, title II, § 208](https://www.govinfo.gov/link/plaw/95/public/372), Sept. 18, 1978, [92 Stat. 649](https://www.govinfo.gov/link/statute/92/649); [Pub. L. 117–169, title V, § 50251(b)(1)(B)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 2055](https://www.govinfo.gov/link/statute/136/2055).)*

@@ -3,9 +3,10 @@ title: "Section 3706 - Audits, report requirements, and petition of Attorney Gen
 usc_title: 16
 usc_section: "3706"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3706"
-generated_at: "2026-03-30T02:54:23.020Z"
+generated_at: "2026-11-23T20:26:20.669Z"
+status: "active"
 ---
 
 # § 3706. Audits, report requirements, and petition of Attorney General for equitable relief
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:23.020Z"
 - **(c)** If the Foundation—
   - **(1)** engages in, or threatens to engage in, any act, practice, or policy that is inconsistent with its purposes set forth in section 3701(b) of this title ; or
   - **(2)** refuses, fails, or neglects to discharge its obligations under this chapter, or threatens to do so;
+
+## Source Credit
+
+*([Pub. L. 98–244, § 7](https://www.govinfo.gov/link/plaw/98/public/244), Mar. 26, 1984, [98 Stat. 110](https://www.govinfo.gov/link/statute/98/110); [Pub. L. 100–240, § 2(b)(2)](https://www.govinfo.gov/link/plaw/100/public/240), Jan. 11, 1988, [101 Stat. 1786](https://www.govinfo.gov/link/statute/101/1786); [Pub. L. 106–408, title II, § 205](https://www.govinfo.gov/link/plaw/106/public/408), Nov. 1, 2000, [114 Stat. 1780](https://www.govinfo.gov/link/statute/114/1780).)*

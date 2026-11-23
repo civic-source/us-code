@@ -3,9 +3,10 @@ title: "Section 1126 - Program Management Improvement Officers and Program Manag
 usc_title: 31
 usc_section: "1126"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 1126"
-generated_at: "2026-03-30T02:55:34.050Z"
+generated_at: "2026-11-23T20:26:51.718Z"
+status: "active"
 ---
 
 # § 1126. Program Management Improvement Officers and Program Management Policy Council
@@ -50,3 +51,39 @@ generated_at: "2026-03-30T02:55:34.050Z"
       - **(ii)** The Chairperson shall preside at the meetings of the Council, determine the agenda of the Council, direct the work of the Council, and establish and direct subgroups of the Council as appropriate.
   - **(4)** The Council shall meet not less than four times per fiscal year and may meet at the call of the Chairperson or a majority of the members of the Council.
   - **(5)** The head of each agency with a Project Management Improvement Officer serving on the Council shall provide administrative support to the Council, as appropriate, at the request of the Chairperson.
+
+Program Management Improvement Officers.—
+
+Designation
+
+Functions
+
+Application to department of defense
+
+Program Management Policy Council.—
+
+Establishment
+
+Purpose and functions
+
+Membership.—
+
+Composition
+
+Chairperson and vice chairperson.—
+
+In general
+
+Duties
+
+Meetings
+
+Support
+
+Definition
+
+Regulations required
+
+## Source Credit
+
+*(Added [Pub. L. 114–264, § 2(b)(1)](https://www.govinfo.gov/link/plaw/114/public/264), Dec. 14, 2016, [130 Stat. 1372](https://www.govinfo.gov/link/statute/130/1372); amended [Pub. L. 116–92, div. A, title IX, § 902(86)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1554](https://www.govinfo.gov/link/statute/133/1554); [Pub. L. 116–283, div. A, title VIII, § 884](https://www.govinfo.gov/link/plaw/116/public/283), div. H, title XCVI, § 9601(c)(2)(D), Jan. 1, 2021, [134 Stat. 3790](https://www.govinfo.gov/link/statute/134/3790), 4828.)*

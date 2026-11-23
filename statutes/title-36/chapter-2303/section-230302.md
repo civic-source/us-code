@@ -3,9 +3,10 @@ title: "Section 230302 - Purposes"
 usc_title: 36
 usc_section: "230302"
 chapter: 2303
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 230302"
-generated_at: "2026-03-30T02:55:44.711Z"
+generated_at: "2026-11-23T20:26:59.103Z"
+status: "active"
 ---
 
 # § 230302. Purposes
@@ -20,3 +21,22 @@ The purposes of the corporation are patriotic, fraternal, historical, and educat
   - **(6)** to fight unceasingly for our national security to protect Americans from enemies within our borders, as well as those from without, so that our American way of life is preserved;
   - **(7)** to fight to the utmost all those alien forces, particularly forces such as communism, whose objectives are to deny our very existence as a free people; and
   - **(8)** to do any other act necessary and proper to carry out the purposes of the corporation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 230302 | 36:763. | July 18, 1958 , Pub. L. 85–530, § 3 , 72 Stat. 371 . |
+
+
+Historical and Revision Notes
+
+230302
+
+July 18, 1958
+
+Pub. L. 85–530, § 3
+
+72 Stat. 371
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1482](https://www.govinfo.gov/link/statute/112/1482).)*

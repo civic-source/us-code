@@ -3,9 +3,10 @@ title: "Section 823f - Closed-loop pumped storage projects"
 usc_title: 16
 usc_section: "823f"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 823f"
-generated_at: "2026-03-30T02:54:22.913Z"
+generated_at: "2026-11-23T20:26:20.286Z"
+status: "active"
 ---
 
 # § 823f. Closed-loop pumped storage projects
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:54:22.913Z"
     - **(A)** cause little to no change to existing surface and ground water flows and uses; and
     - **(B)** is unlikely to adversely affect species listed as a threatened species or endangered species under the Endangered Species Act of 1973 [ 16 U.S.C. 1531 et seq.].
 - **(h)** Nothing in this section affects any authority of the Commission to license a closed-loop pumped storage project under this subchapter.
+
+## Source Credit
+
+*(June 10, 1920, ch. 285, pt. I, § 35, as added [Pub. L. 115–270, title III, § 3004](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3865](https://www.govinfo.gov/link/statute/132/3865).)*

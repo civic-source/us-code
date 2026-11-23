@@ -3,9 +3,10 @@ title: "Section 792 - Coal conversion and allocation"
 usc_title: 15
 usc_section: "792"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 792"
-generated_at: "2026-03-30T02:54:08.122Z"
+generated_at: "2026-11-23T20:26:03.934Z"
+status: "active"
 ---
 
 # § 792. Coal conversion and allocation
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:08.122Z"
 - **(f)**
   - **(1)** Authority to issue orders or rules under subsections (a) through (d) of this section shall expire at midnight, December 31, 1978 . Such a rule or order may take effect at any time before January 1, 1985 .
   - **(2)** Authority to amend, repeal, rescind, modify, or enforce such rules or orders shall expire at midnight, December 31, 1984 ; but the expiration of such authority shall not affect any administrative or judicial proceeding which relates to any act or omission which occurred prior to January 1, 1985 .
+
+## Source Credit
+
+*([Pub. L. 93–319, § 2](https://www.govinfo.gov/link/plaw/93/public/319), June 22, 1974, [88 Stat. 246](https://www.govinfo.gov/link/statute/88/246); [Pub. L. 94–163, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/163), Dec. 22, 1975, [89 Stat. 875](https://www.govinfo.gov/link/statute/89/875); [Pub. L. 95–70, § 7](https://www.govinfo.gov/link/plaw/95/public/70), July 21, 1977, [91 Stat. 277](https://www.govinfo.gov/link/statute/91/277).)*

@@ -3,9 +3,10 @@ title: "Section 1908 - Judicial Review Commission on Foreign Asset Control"
 usc_title: 21
 usc_section: "1908"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 1908"
-generated_at: "2026-03-30T02:54:54.307Z"
+generated_at: "2026-11-23T20:26:27.899Z"
+status: "active"
 ---
 
 # § 1908. Judicial Review Commission on Foreign Asset Control
@@ -57,3 +58,7 @@ generated_at: "2026-03-30T02:54:54.307Z"
   - **(1)** The provisions of chapter 10 of title 5 shall not apply to the activities of the Commission under this section.
   - **(2)** The provisions of section 552 of title 5 (commonly referred to as the Freedom of Information Act) shall not apply to the activities, records, and proceedings of the Commission under this chapter.
 - **(j)** The Attorney General shall, from amounts authorized to be appropriated to the Attorney General by this Act, make available to the Commission $1,000,000 for purposes of the activities of the Commission under this section. Amounts made available to the Commission under the preceding sentence shall remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 106–120, title VIII, § 810](https://www.govinfo.gov/link/plaw/106/public/120), Dec. 3, 1999, [113 Stat. 1633](https://www.govinfo.gov/link/statute/113/1633); [Pub. L. 117–286, § 4(a)(162)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4323](https://www.govinfo.gov/link/statute/136/4323).)*

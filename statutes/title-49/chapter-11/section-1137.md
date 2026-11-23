@@ -3,9 +3,10 @@ title: "Section 1137 - Authority of the Inspector General"
 usc_title: 49
 usc_section: "1137"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 1137"
-generated_at: "2026-03-30T02:56:19.304Z"
+generated_at: "2026-11-23T20:27:34.570Z"
+status: "active"
 ---
 
 # § 1137. Authority of the Inspector General
@@ -19,3 +20,19 @@ generated_at: "2026-03-30T02:56:19.304Z"
 - **(d)**
   - **(1)** There are authorized to be appropriated to the Secretary of Transportation for use by the Inspector General of the Department of Transportation such sums as may be necessary to cover expenses associated with activities pursuant to the authority exercised under this section.
   - **(2)** In the absence of an appropriation under this subsection for an expense referred to in paragraph (1), the Inspector General and the Board shall have a reimbursable agreement to cover such expense.
+
+In General
+
+Duties
+
+Access to Information
+
+Authorizations of Appropriations.—
+
+Funding
+
+Reimbursable agreement
+
+## Source Credit
+
+*(Added [Pub. L. 106–424, § 12(a)](https://www.govinfo.gov/link/plaw/106/public/424), Nov. 1, 2000, [114 Stat. 1887](https://www.govinfo.gov/link/statute/114/1887); amended [Pub. L. 109–443, § 4](https://www.govinfo.gov/link/plaw/109/public/443), Dec. 21, 2006, [120 Stat. 3299](https://www.govinfo.gov/link/statute/120/3299); [Pub. L. 117–286, § 4(b)(96)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4353](https://www.govinfo.gov/link/statute/136/4353).)*

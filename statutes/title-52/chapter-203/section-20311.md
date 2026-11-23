@@ -3,9 +3,10 @@ title: "Section 20311 - Technology pilot program"
 usc_title: 52
 usc_section: "20311"
 chapter: 203
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "52 U.S.C. § 20311"
-generated_at: "2026-03-30T02:56:30.162Z"
+generated_at: "2026-11-23T20:27:36.966Z"
+status: "active"
 ---
 
 # § 20311. Technology pilot program
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:56:30.162Z"
     - **(A)** the Committees on Appropriations, Armed Services, and Rules and Administration of the Senate; and
     - **(B)** the Committees on Appropriations, Armed Services, and House Administration of the House of Representatives.
 - **(f)** There are authorized to be appropriated such sums as are necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 111–84, div. A, title V, § 589](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2334](https://www.govinfo.gov/link/statute/123/2334); [Pub. L. 111–383, div. A, title X, § 1075(d)(6)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4373](https://www.govinfo.gov/link/statute/124/4373).)*

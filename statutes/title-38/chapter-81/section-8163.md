@@ -3,9 +3,10 @@ title: "Section 8163 - Hearing and notice requirements regarding proposed leases
 usc_title: 38
 usc_section: "8163"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 8163"
-generated_at: "2026-03-30T02:55:53.539Z"
+generated_at: "2026-11-23T20:27:02.085Z"
+status: "active"
 ---
 
 # § 8163. Hearing and notice requirements regarding proposed leases
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:55:53.539Z"
       - **(ii)** would result in a demonstrable improvement of services to eligible veterans in the geographic service-delivery area within which the property is located.
     - **(F)** A description of how the proposed lease would affect services to veterans.
     - **(G)** A summary of a cost-benefit analysis of the proposed lease.
+
+## Source Credit
+
+*(Added [Pub. L. 102–86, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/102/public/86), Aug. 14, 1991, [105 Stat. 419](https://www.govinfo.gov/link/statute/105/419); amended [Pub. L. 106–117, title II, § 208(c)](https://www.govinfo.gov/link/plaw/106/public/117), Nov. 30, 1999, [113 Stat. 1567](https://www.govinfo.gov/link/statute/113/1567); [Pub. L. 106–419, title II, § 241](https://www.govinfo.gov/link/plaw/106/public/419), title IV, § 404(b)(1), Nov. 1, 2000, [114 Stat. 1847](https://www.govinfo.gov/link/statute/114/1847), 1865; [Pub. L. 108–170, title II, § 202(a)](https://www.govinfo.gov/link/plaw/108/public/170), (d)(1), Dec. 6, 2003, [117 Stat. 2047](https://www.govinfo.gov/link/statute/117/2047), 2048; [Pub. L. 114–226, § 3(c)(1)](https://www.govinfo.gov/link/plaw/114/public/226), Sept. 29, 2016, [130 Stat. 931](https://www.govinfo.gov/link/statute/130/931).)*

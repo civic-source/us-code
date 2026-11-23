@@ -3,9 +3,10 @@ title: "Section 1359gg - Special rules"
 usc_title: 7
 usc_section: "1359gg"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1359gg"
-generated_at: "2026-03-30T02:53:42.308Z"
+generated_at: "2026-11-23T20:25:41.137Z"
+status: "active"
 ---
 
 # § 1359gg. Special rules
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:53:42.308Z"
   - **(2)** Notwithstanding section 1359dd of this title , the Secretary shall adjust the allocations of each of such processing companies affected by a transfer under paragraph (1) to reflect the change in deliveries, based on—
     - **(A)** the number of acres of sugarcane base being transferred; and
     - **(B)** the pro rata amount of allocation at the processing company holding the applicable allocation that equals the contribution of the grower to allocation of the processing company for the sugarcane acreage base being transferred.
+
+## Source Credit
+
+*(Feb. 16, 1938, ch. 30, title III, § 359g, as added [Pub. L. 107–171, title I, § 1403](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 201](https://www.govinfo.gov/link/statute/116/201); amended [Pub. L. 110–234, title I, § 1403(g)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 987](https://www.govinfo.gov/link/statute/122/987); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1403(g), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1715.)*

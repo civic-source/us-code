@@ -3,9 +3,10 @@ title: "Section 24301 - Status and applicable laws"
 usc_title: 49
 usc_section: "24301"
 chapter: 243
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 24301"
-generated_at: "2026-03-30T02:56:19.343Z"
+generated_at: "2026-11-23T20:27:34.843Z"
+status: "active"
 ---
 
 # § 24301. Status and applicable laws
@@ -40,3 +41,297 @@ generated_at: "2026-03-30T02:56:19.343Z"
   - **(2)** Section 361 of the Public Health Service Act ( 42 U.S.C. 264 ) and other laws of the United States, States, and local governments do not apply to waste disposal from rail carrier vehicles operated in intercity rail passenger transportation. The district courts of the United States have original jurisdiction over a civil action Amtrak brings to enforce this paragraph and may grant equitable or declaratory relief requested by Amtrak.
 - **(n)** When authorizing transportation in the continental United States for an officer, employee, or member of the uniformed services of a department, agency, or instrumentality of the Government, the head of that department, agency, or instrumentality shall consider rail transportation (including transportation by extra-fare trains) the same as transportation by another authorized mode. The Administrator of General Services shall include Amtrak in the contract air program of the Administrator in markets in which transportation provided by Amtrak is competitive with other carriers on fares and total trip times.
 - **(o)** Any lease or contract entered into between Amtrak and the State of Maryland, or any department or agency of the State of Maryland, after the date of the enactment of this subsection shall be governed by the laws of the District of Columbia.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 24301(a) | 45:541 (1st sentence). | Oct. 30, 1970 , Pub. L. 91–518, § 301 (1st, 4th, last sentences), 84 Stat. 1330 . |
+|  | 45:541 (2d sentence words before 1st comma). | Oct. 30, 1970 , Pub. L. 91–518, § 301 (2d sentence words before 1st comma), 84 Stat. 1330 ; Oct. 5, 1978 , Pub. L. 95–421, § 11 , 92 Stat. 928 . |
+|  | 45:541 (3d sentence). | Oct. 30, 1970 , Pub. L. 91–518, § 301 (3d sentence), 84 Stat. 1330 ; June 22, 1988 , Pub. L. 100–342, § 18(a) , 102 Stat. 636 . |
+|  | 45:541 (last sentence). |  |
+|  | 45:546(a) (words after “The Corporation” and before “and shall be subject to”). | Oct. 30, 1970 , Pub. L. 91–518, § 306(a) , 84 Stat. 1332 ; June 22, 1972 , Pub. L. 92–316, § 3(a) , 86 Stat. 228 ; Sept. 29, 1979 , Pub. L. 96–73, § 112(a) , 93 Stat. 541 ; Apr. 7, 1986 , Pub. L. 99–272, § 4015 , 100 Stat. 110 . |
+| 24301(b) | 45:546(m). | Oct. 30, 1970 , Pub. L. 91–518 , 84 Stat. 1327 , § 306(m); added Sept. 29, 1979 , Pub. L. 96–73, § 112(c) , 93 Stat. 541 ; Apr. 7, 1986 , Pub. L. 99–272, § 4013 , 100 Stat. 109 . |
+| 24301(c)(1), (2)(A) | 45:546(a) (less words after “The Corporation” and before “and shall be subject to”). |  |
+| 24301(c) (2)(B) | 45:546a. | Oct. 5, 1978 , Pub. L. 95–421, § 7 , 92 Stat. 927 . |
+| 24301(d) | 45:546(b). | Oct. 30, 1970 , Pub. L. 91–518 , §§ 305(a) (last sentence), 306(b)–(e), 84 Stat. 1332 , 1333. |
+| 24301(e) | 45:541 (4th sentence). |  |
+|  | 45:545(a) (last sentence). |  |
+|  | 45:545(e)(8). | Oct. 30, 1970 , Pub. L. 91–518 , 84 Stat. 1327 , § 305(e)(8); added Nov. 3, 1973 , Pub. L. 93–146, § 6 , 87 Stat. 551 . |
+|  | 45:546(g). | Oct. 30, 1970 , Pub. L. 91–518 , 84 Stat. 1327 , § 306(g); added June 22, 1972 , Pub. L. 92–316, § 3(b) , 86 Stat. 228 . |
+| 24301(f) | 45:546(d). |  |
+| 24301(g) | 45:546(c). |  |
+| 24301(h) | 45:546( l ). | Oct. 30, 1970 , Pub. L. 91–518 , 84 Stat. 1327 , § 306( l ); added Sept. 29, 1979 , Pub. L. 96–73, § 112(c) , 93 Stat. 541 . |
+| 24301(i) | 45:797j (words “, the National Railroad Passenger Corporation,”). | Jan. 2, 1974 , Pub. L. 93–236 , 87 Stat. 985 , § 711 (words “, the National Railroad Passenger Corporation,”); added Aug. 13, 1981 , Pub. L. 97–35, § 1143(a) , 95 Stat. 667 . |
+| 24301(j) | 45:546(e). |  |
+| 24301(k) | 45:546(n). | Oct. 30, 1970 , Pub. L. 91–518 , 84 Stat. 1327 , § 306(n); added Aug. 13, 1981 , Pub. L. 97–35, § 1178 , 95 Stat. 692 ; restated Oct. 27, 1992 , Pub. L. 102–533, § 6 , 106 Stat. 3517 . |
+| 24301( l ) | 45:546b. | Sept. 10, 1982 , Pub. L. 97–257, § 107 (par. under heading “Grants to the National Railroad Passenger Corporation”), 96 Stat. 852 . |
+| 24301(m) | 45:546(i). | Oct. 30, 1970 , Pub. L. 91–518 , 84 Stat. 1327 , § 306(i); added Feb. 5, 1976 , Pub. L. 94–210, § 706(e) , 90 Stat. 124 ; Oct. 19, 1976 , Pub. L. 94–555, § 105 , 90 Stat. 2615 ; May 30, 1980 , Pub. L. 96–254, § 206(a) , 94 Stat. 412 ; Nov. 16, 1990 , Pub. L. 101–610, § 601(a) , 104 Stat. 3185 . |
+| 24301(n) | 45:546(f). | Oct. 30, 1970 , Pub. L. 91–518 , 84 Stat. 1327 , § 306(f); added June 22, 1972 , Pub. L. 92–316, § 3(b) , 86 Stat. 228 ; Apr. 7, 1986 , Pub. L. 99–272, § 4004 , 100 Stat. 107 . |
+
+
+Status
+
+Principal Office and Place of Business
+
+Application of Subtitle IV
+
+Application of Safety and Employee Relations Laws and Regulations
+
+Application of Certain Additional Laws
+
+Tax Exemption for Certain Commuter Authorities
+
+Nonapplication of Rate, Route, and Service Laws
+
+Nonapplication of Pay Period Laws
+
+Preemption Related to Employee Work Requirements
+
+Nonapplication of Laws on Joint Use or Operation of Facilities and Equipment
+
+Exemption From Additional Taxes
+
+Exemption From Taxes Levied After September
+
+In general
+
+Waste Disposal
+
+Rail Transportation Treated Equally
+
+Applicability of District of Columbia Law
+
+Historical and Revision Notes
+
+24301(a)
+
+Oct. 30, 1970
+
+Pub. L. 91–518, § 301
+
+84 Stat. 1330
+
+Oct. 30, 1970
+
+Pub. L. 91–518, § 301
+
+84 Stat. 1330
+
+Oct. 5, 1978
+
+Pub. L. 95–421, § 11
+
+92 Stat. 928
+
+Oct. 30, 1970
+
+Pub. L. 91–518, § 301
+
+84 Stat. 1330
+
+June 22, 1988
+
+Pub. L. 100–342, § 18(a)
+
+102 Stat. 636
+
+Oct. 30, 1970
+
+Pub. L. 91–518, § 306(a)
+
+84 Stat. 1332
+
+June 22, 1972
+
+Pub. L. 92–316, § 3(a)
+
+86 Stat. 228
+
+Sept. 29, 1979
+
+Pub. L. 96–73, § 112(a)
+
+93 Stat. 541
+
+Apr. 7, 1986
+
+Pub. L. 99–272, § 4015
+
+100 Stat. 110
+
+24301(b)
+
+Oct. 30, 1970
+
+Pub. L. 91–518
+
+84 Stat. 1327
+
+Sept. 29, 1979
+
+Pub. L. 96–73, § 112(c)
+
+93 Stat. 541
+
+Apr. 7, 1986
+
+Pub. L. 99–272, § 4013
+
+100 Stat. 109
+
+Oct. 5, 1978
+
+Pub. L. 95–421, § 7
+
+92 Stat. 927
+
+24301(d)
+
+Oct. 30, 1970
+
+Pub. L. 91–518
+
+84 Stat. 1332
+
+24301(e)
+
+Oct. 30, 1970
+
+Pub. L. 91–518
+
+84 Stat. 1327
+
+Nov. 3, 1973
+
+Pub. L. 93–146, § 6
+
+87 Stat. 551
+
+Oct. 30, 1970
+
+Pub. L. 91–518
+
+84 Stat. 1327
+
+June 22, 1972
+
+Pub. L. 92–316, § 3(b)
+
+86 Stat. 228
+
+24301(f)
+
+24301(g)
+
+24301(h)
+
+Oct. 30, 1970
+
+Pub. L. 91–518
+
+84 Stat. 1327
+
+Sept. 29, 1979
+
+Pub. L. 96–73, § 112(c)
+
+93 Stat. 541
+
+24301(i)
+
+Jan. 2, 1974
+
+Pub. L. 93–236
+
+87 Stat. 985
+
+Aug. 13, 1981
+
+Pub. L. 97–35, § 1143(a)
+
+95 Stat. 667
+
+24301(j)
+
+24301(k)
+
+Oct. 30, 1970
+
+Pub. L. 91–518
+
+84 Stat. 1327
+
+Aug. 13, 1981
+
+Pub. L. 97–35, § 1178
+
+95 Stat. 692
+
+Oct. 27, 1992
+
+Pub. L. 102–533, § 6
+
+106 Stat. 3517
+
+24301( l )
+
+Sept. 10, 1982
+
+Pub. L. 97–257, § 107
+
+96 Stat. 852
+
+24301(m)
+
+Oct. 30, 1970
+
+Pub. L. 91–518
+
+84 Stat. 1327
+
+Feb. 5, 1976
+
+Pub. L. 94–210, § 706(e)
+
+90 Stat. 124
+
+Oct. 19, 1976
+
+Pub. L. 94–555, § 105
+
+90 Stat. 2615
+
+May 30, 1980
+
+Pub. L. 96–254, § 206(a)
+
+94 Stat. 412
+
+Nov. 16, 1990
+
+Pub. L. 101–610, § 601(a)
+
+104 Stat. 3185
+
+24301(n)
+
+Oct. 30, 1970
+
+Pub. L. 91–518
+
+84 Stat. 1327
+
+June 22, 1972
+
+Pub. L. 92–316, § 3(b)
+
+86 Stat. 228
+
+Apr. 7, 1986
+
+Pub. L. 99–272, § 4004
+
+100 Stat. 107
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 904](https://www.govinfo.gov/link/statute/108/904); [Pub. L. 104–88, title III, § 308(g)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 947](https://www.govinfo.gov/link/statute/109/947); [Pub. L. 105–134, title I](https://www.govinfo.gov/link/plaw/105/public/134), §§ 106(b), 110(a), title II, § 208, title IV, §§ 401, 402, 415(d)(1), Dec. 2, 1997, [111 Stat. 2573](https://www.govinfo.gov/link/statute/111/2573), 2574, 2584, 2585, 2590; [Pub. L. 108–199, div. F, title I, § 150(2)](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 303](https://www.govinfo.gov/link/statute/118/303); [Pub. L. 110–53, title XV, § 1527](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 452](https://www.govinfo.gov/link/statute/121/452).)*

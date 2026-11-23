@@ -3,9 +3,10 @@ title: "Section 139 - Director of Operational Test and Evaluation"
 usc_title: 10
 usc_section: "139"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 139"
-generated_at: "2026-03-30T02:53:38.037Z"
+generated_at: "2026-11-23T20:25:50.828Z"
+status: "active"
 ---
 
 # § 139. Director of Operational Test and Evaluation
@@ -56,3 +57,35 @@ generated_at: "2026-03-30T02:53:38.037Z"
     - **(E)** providing technical expertise and support to program offices; and
     - **(F)** performing such other duties as the Director determines appropriate.
   - **(2)** The Secretary of Defense shall ensure that the Director has sufficient funding to enter into the contracts or other agreements for which authorization is provided under paragraph (1).
+
+Requirement
+
+Alternative Pathway
+
+Limitation
+
+Capabilities described
+
+Waiver
+
+Resources
+
+Annual Assessment
+
+Form
+
+Review and Revision of Policies and Practices.—
+
+Review
+
+Revised guidance
+
+Issues To Be Addressed
+
+Inclusion of Testing Needs in Strategic Plan
+
+Report to Congress
+
+## Source Credit
+
+*(Added [Pub. L. 98–94, title XII, § 1211(a)(1)](https://www.govinfo.gov/link/plaw/98/public/94), Sept. 24, 1983, [97 Stat. 684](https://www.govinfo.gov/link/statute/97/684), § 136a; amended [Pub. L. 99–348, title V, § 501(c)](https://www.govinfo.gov/link/plaw/99/public/348), July 1, 1986, [100 Stat. 708](https://www.govinfo.gov/link/statute/100/708); renumbered § 138 and amended [Pub. L. 99–433, title I](https://www.govinfo.gov/link/plaw/99/public/433), §§ 101(a)(7), 110(d)(10), (g)(1), Oct. 1, 1986, [100 Stat. 995](https://www.govinfo.gov/link/statute/100/995), 1003, 1004; [Pub. L. 99–500, § 101(c) [title X, §§ 903(c), 910(c)]](https://www.govinfo.gov/link/plaw/99/public/500), Oct. 18, 1986, [100 Stat. 1783–82](https://www.govinfo.gov/link/statute/100/1783), 1783–132, 1783–145, and [Pub. L. 99–591, § 101(c) [title X, §§ 903(c), 910(c)]](https://www.govinfo.gov/link/plaw/99/public/591), Oct. 30, 1986, [100 Stat. 3341–82](https://www.govinfo.gov/link/statute/100/3341), 3341–132, 3341–145; [Pub. L. 99–661, div. A, title IX](https://www.govinfo.gov/link/plaw/99/public/661), formerly title IV, §§ 903(c), 910(c), Nov. 14, 1986, [100 Stat. 3912](https://www.govinfo.gov/link/statute/100/3912), 3924, renumbered title IX, [Pub. L. 100–26, § 3(5)](https://www.govinfo.gov/link/plaw/100/public/26), Apr. 21, 1987, [101 Stat. 273](https://www.govinfo.gov/link/statute/101/273); [Pub. L. 100–26, § 7(a)(1)](https://www.govinfo.gov/link/plaw/100/public/26), (c)(2), Apr. 21, 1987, [101 Stat. 275](https://www.govinfo.gov/link/statute/101/275), 280; [Pub. L. 100–180, div. A, title VIII, § 801](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1123](https://www.govinfo.gov/link/statute/101/1123); [Pub. L. 101–189, div. A, title VIII, § 802(b)](https://www.govinfo.gov/link/plaw/101/public/189), title XVI, § 1622(e)(1), Nov. 29, 1989, [103 Stat. 1486](https://www.govinfo.gov/link/statute/103/1486), 1605; [Pub. L. 101–510, div. A, title XIV, § 1484(k)(1)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1719](https://www.govinfo.gov/link/statute/104/1719); renumbered § 139 and amended [Pub. L. 103–160, div. A, title IX](https://www.govinfo.gov/link/plaw/103/public/160), §§ 901(a)(1), 904(d)(1), 907, Nov. 30, 1993, [107 Stat. 1726](https://www.govinfo.gov/link/statute/107/1726), 1728, 1730; [Pub. L. 103–355, title III](https://www.govinfo.gov/link/plaw/103/public/355), §§ 3011–3013, Oct. 13, 1994, [108 Stat. 3331](https://www.govinfo.gov/link/statute/108/3331), 3332; [Pub. L. 106–65, div. A, title IX, § 911(d)(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 719](https://www.govinfo.gov/link/statute/113/719); [Pub. L. 107–107, div. A, title II, § 263](https://www.govinfo.gov/link/plaw/107/public/107), title X, § 1048(b)(2), Dec. 28, 2001, [115 Stat. 1044](https://www.govinfo.gov/link/statute/115/1044), 1225; [Pub. L. 107–314, div. A, title II, § 235](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2491](https://www.govinfo.gov/link/statute/116/2491); [Pub. L. 109–364, div. A, title II, § 231(f)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2133](https://www.govinfo.gov/link/statute/120/2133); [Pub. L. 110–181, div. A, title II, § 221](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 37](https://www.govinfo.gov/link/statute/122/37); [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title II, § 251(c), Oct. 14, 2008, [122 Stat. 4400](https://www.govinfo.gov/link/statute/122/4400); [Pub. L. 114–328, div. A, title VIII, § 845](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2292](https://www.govinfo.gov/link/statute/130/2292); [Pub. L. 115–232, div. A, title VIII, § 887(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1916](https://www.govinfo.gov/link/statute/132/1916); [Pub. L. 116–92, div. A, title VIII, § 815](https://www.govinfo.gov/link/plaw/116/public/92), title IX, § 902(4), Dec. 20, 2019, [133 Stat. 1487](https://www.govinfo.gov/link/statute/133/1487), 1542; [Pub. L. 116–283, div. A, title II, § 271](https://www.govinfo.gov/link/plaw/116/public/283), title XVIII, §§ 1845(c)(1), 1846(i)(1), Jan. 1, 2021, [134 Stat. 3502](https://www.govinfo.gov/link/statute/134/3502), 4247, 4251; [Pub. L. 117–81, div. A, title II, § 241](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1619](https://www.govinfo.gov/link/statute/135/1619); [Pub. L. 117–263, div. A, title II, § 231](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2486](https://www.govinfo.gov/link/statute/136/2486); [Pub. L. 119–60, div. A, title IX, § 904(a)](https://www.govinfo.gov/link/plaw/119/public/60), title XVIII, § 1801(a)(2)(B), Dec. 18, 2025, [139 Stat. 1009](https://www.govinfo.gov/link/statute/139/1009), 1222.)*

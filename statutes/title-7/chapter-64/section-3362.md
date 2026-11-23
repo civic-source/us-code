@@ -3,9 +3,10 @@ title: "Section 3362 - Distance education grants for insular areas"
 usc_title: 7
 usc_section: "3362"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 3362"
-generated_at: "2026-03-30T02:53:42.402Z"
+generated_at: "2026-11-23T20:25:41.597Z"
+status: "active"
 ---
 
 # § 3362. Distance education grants for insular areas
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:42.402Z"
 - **(f)** There is authorized to be appropriated to carry out this section—
   - **(1)** such sums as are necessary for each of fiscal years 2002 through 2013; and
   - **(2)** $2,000,000 for each of fiscal years 2014 through 2023.
+
+## Source Credit
+
+*([Pub. L. 95–113, title XIV, § 1490](https://www.govinfo.gov/link/plaw/95/public/113), as added [Pub. L. 107–171, title VII, § 7503](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 464](https://www.govinfo.gov/link/statute/116/464); amended [Pub. L. 110–234, title VII, § 7143(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1232](https://www.govinfo.gov/link/statute/122/1232); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, § 7143(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1994; [Pub. L. 113–79, title VII, § 7127(a)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 877](https://www.govinfo.gov/link/statute/128/877); [Pub. L. 115–334, title VII, § 7136(a)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4802](https://www.govinfo.gov/link/statute/132/4802).)*

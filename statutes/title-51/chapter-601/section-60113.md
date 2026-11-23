@@ -3,9 +3,10 @@ title: "Section 60113 - Data policy for Landsat 7"
 usc_title: 51
 usc_section: "60113"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 60113"
-generated_at: "2026-03-30T02:56:28.712Z"
+generated_at: "2026-11-23T20:27:37.520Z"
+status: "active"
 ---
 
 # § 60113. Data policy for Landsat 7
@@ -21,3 +22,30 @@ generated_at: "2026-03-30T02:56:28.712Z"
   - **(1)** United States private sector entities to operate ground receiving stations in the United States for Landsat 7 data;
   - **(2)** other means for direct access by private sector entities to unenhanced data from Landsat 7; and
   - **(3)** the United States Government to charge a per image fee, license fee, or other such fee to entities operating ground receiving stations or distributing Landsat 7 data.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 60113 | 15 U.S.C. 5615(a) , (b). | Pub. L. 102–555, title I, § 105(a) , (b), Oct. 28, 1992 , 106 Stat. 4170 . |
+
+
+Landsat
+
+Data Policy
+
+Additional Data Policy Considerations
+
+Historical and Revision Notes
+
+60113
+
+15 U.S.C. 5615(a)
+
+Pub. L. 102–555, title I, § 105(a)
+
+Oct. 28, 1992
+
+106 Stat. 4170
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3413](https://www.govinfo.gov/link/statute/124/3413).)*

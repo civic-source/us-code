@@ -3,9 +3,10 @@ title: "Section 12611 - Motor vehicle theft prevention program"
 usc_title: 34
 usc_section: "12611"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12611"
-generated_at: "2026-03-30T02:55:33.291Z"
+generated_at: "2026-11-23T20:26:50.569Z"
+status: "active"
 ---
 
 # § 12611. Motor vehicle theft prevention program
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:55:33.291Z"
   - **(1)** $1,500,000 for fiscal year 1996;
   - **(2)** $1,700,000 for fiscal year 1997; and
   - **(3)** $1,800,000 for fiscal year 1998.
+
+## Source Credit
+
+*([Pub. L. 103–322, title XXII, § 220002](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2074](https://www.govinfo.gov/link/statute/108/2074).)*

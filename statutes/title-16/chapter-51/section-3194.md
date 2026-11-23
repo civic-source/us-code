@@ -3,9 +3,10 @@ title: "Section 3194 - Archeological and paleontological sites"
 usc_title: 16
 usc_section: "3194"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3194"
-generated_at: "2026-03-30T02:54:23.012Z"
+generated_at: "2026-11-23T20:26:20.642Z"
+status: "active"
 ---
 
 # § 3194. Archeological and paleontological sites
@@ -14,3 +15,7 @@ Notwithstanding any acreage or boundary limitations contained in this Act with r
 
   - **(1)** submit notice of such proposed designation or acquisition to the appropriate committees of the Congress; and
   - **(2)** publish notice of such proposed designation or acquisition in the Federal Register.
+
+## Source Credit
+
+*([Pub. L. 96–487, title XIII, § 1304](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2478](https://www.govinfo.gov/link/statute/94/2478).)*

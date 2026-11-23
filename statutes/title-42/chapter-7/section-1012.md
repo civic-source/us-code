@@ -3,9 +3,10 @@ title: "Section 1012 - Definitions"
 usc_title: 42
 usc_section: "1012"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1012"
-generated_at: "2026-03-30T02:56:10.900Z"
+generated_at: "2026-11-23T20:27:20.959Z"
+status: "active"
 ---
 
 # § 1012. Definitions
@@ -24,3 +25,7 @@ In this subchapter:
   - **(4)** The term “Federal benefit rate under subchapter XVI” means, with respect to any month, the amount of the supplemental security income cash benefit (not including any State supplementary payment which is paid by the Commissioner of Social Security pursuant to an agreement under section 1382e(a) of this title or section 212(b) of Public Law 93–66 ) payable under subchapter XVI for the month to an eligible individual with no income.
   - **(5)** The term “United States” means, notwithstanding section 1301(a)(1) of this title , only the 50 States, the District of Columbia, and the Commonwealth of the Northern Mariana Islands.
   - **(6)** The term “benefit income” means any recurring payment received by a qualified individual as an annuity, pension, retirement, or disability benefit (including any veterans’ compensation or pension, workmen’s compensation payment, old-age, survivors, or disability insurance benefit, railroad retirement annuity or pension, and unemployment insurance benefit), but only if a similar payment was received by the individual from the same (or a related) source during the 12-month period preceding the month in which the individual files an application for benefits under this subchapter.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title VIII, § 812, as added [Pub. L. 106–169, title II, § 251(a)](https://www.govinfo.gov/link/plaw/106/public/169), Dec. 14, 1999, [113 Stat. 1853](https://www.govinfo.gov/link/statute/113/1853).)*

@@ -3,9 +3,10 @@ title: "Section 3330b - Preference eligibles; judicial redress"
 usc_title: 5
 usc_section: "3330b"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 3330b"
-generated_at: "2026-03-30T02:52:56.002Z"
+generated_at: "2026-11-23T20:25:31.818Z"
+status: "active"
 ---
 
 # § 3330b. Preference eligibles; judicial redress
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:52:56.002Z"
   - **(1)** before the 121st day after the date on which the appeal is filed with the Merit Systems Protection Board under section 3330a(d); or
   - **(2)** after the Merit Systems Protection Board has issued a judicially reviewable decision on the merits of the appeal.
 - **(c)** An election under this section shall be made, in writing, in such form and manner as the Merit Systems Protection Board shall by regulation prescribe. The election shall be effective as of the date on which it is received, and the administrative proceeding to which it relates shall terminate immediately upon the receipt of such election.
+
+## Source Credit
+
+*(Added [Pub. L. 105–339, § 3(a)](https://www.govinfo.gov/link/plaw/105/public/339), Oct. 31, 1998, [112 Stat. 3184](https://www.govinfo.gov/link/statute/112/3184); amended [Pub. L. 108–454, title VIII, § 804(b)](https://www.govinfo.gov/link/plaw/108/public/454), Dec. 10, 2004, [118 Stat. 3626](https://www.govinfo.gov/link/statute/118/3626).)*

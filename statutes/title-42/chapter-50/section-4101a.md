@@ -3,9 +3,10 @@ title: "Section 4101a - Technical Mapping Advisory Council"
 usc_title: 42
 usc_section: "4101a"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4101a"
-generated_at: "2026-03-30T02:56:11.198Z"
+generated_at: "2026-11-23T20:27:22.355Z"
+status: "active"
 ---
 
 # § 4101a. Technical Mapping Advisory Council
@@ -73,3 +74,7 @@ generated_at: "2026-03-30T02:56:11.198Z"
   - **(1)** recommendations made by the Council;
   - **(2)** actions taken by the Federal Emergency Management Agency to address such recommendations to improve flood insurance rate maps and flood risk data; and
   - **(3)** any recommendations made by the Council that have been deferred or not acted upon, together with an explanatory statement.
+
+## Source Credit
+
+*([Pub. L. 112–141, div. F, title II, § 100215](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 924](https://www.govinfo.gov/link/statute/126/924).)*

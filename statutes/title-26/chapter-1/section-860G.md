@@ -3,9 +3,10 @@ title: "Section 860G - Other definitions and special rules"
 usc_title: 26
 usc_section: "860G"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 860G"
-generated_at: "2026-03-30T02:55:27.738Z"
+generated_at: "2026-11-23T20:26:45.921Z"
+status: "active"
 ---
 
 # § 860G. Other definitions and special rules
@@ -68,3 +69,7 @@ generated_at: "2026-03-30T02:55:27.738Z"
   - **(3)** requiring reporting to holders of residual interests of such information as frequently as is necessary or appropriate to permit such holders to compute their taxable income accurately,
   - **(4)** providing appropriate rules for treatment of transfers of qualified replacement mortgages to the REMIC where the transferor holds any interest in the REMIC, and
   - **(5)** providing that a mortgage will be treated as a qualified replacement mortgage only if it is part of a bona fide replacement (and not part of a swap of mortgages).
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title VI, § 671(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2315](https://www.govinfo.gov/link/statute/100/2315); amended [Pub. L. 100–647, title I, § 1006(t)(5)(A)](https://www.govinfo.gov/link/plaw/100/public/647) –(E), (6)–(8)(B), (9)(A), (10), Nov. 10, 1988, [102 Stat. 3420–3422](https://www.govinfo.gov/link/statute/102/3420); [Pub. L. 101–239, title VII, § 7811(c)(9)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2408](https://www.govinfo.gov/link/statute/103/2408); [Pub. L. 101–508, title XI, § 11704(a)(9)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–518](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 104–188, title I, § 1621(b)(6)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1867](https://www.govinfo.gov/link/statute/110/1867); [Pub. L. 108–357, title VIII, § 835(b)(5)](https://www.govinfo.gov/link/plaw/108/public/357) –(8), Oct. 22, 2004, [118 Stat. 1593](https://www.govinfo.gov/link/statute/118/1593); [Pub. L. 109–135, title IV, § 403(cc)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2630](https://www.govinfo.gov/link/statute/119/2630); [Pub. L. 115–141, div. U, title IV, § 401(a)(151)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1191](https://www.govinfo.gov/link/statute/132/1191).)*

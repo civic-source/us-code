@@ -3,9 +3,10 @@ title: "Section 124d - Intelligence components"
 usc_title: 6
 usc_section: "124d"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 124d"
-generated_at: "2026-03-30T02:53:09.444Z"
+generated_at: "2026-11-23T20:25:34.642Z"
+status: "active"
 ---
 
 # § 124d. Intelligence components
@@ -19,3 +20,7 @@ Subject to the direction and control of the Secretary, and consistent with any a
   - **(5)** To advise and coordinate with the Under Secretary for Intelligence and Analysis on any plan to reorganize or restructure the intelligence component that would, if implemented, result in realignments of intelligence functions.
   - **(6)** To ensure that employees of the intelligence component have knowledge of, and comply with, the programs and policies established by the Under Secretary for Intelligence and Analysis and other appropriate officials of the Department and that such employees comply with all applicable laws and regulations.
   - **(7)** To perform such other activities relating to such responsibilities as the Secretary may provide.
+
+## Source Credit
+
+*([Pub. L. 107–296, title II, § 207](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 110–53, title V, § 503(a)](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 311](https://www.govinfo.gov/link/statute/121/311).)*

@@ -3,9 +3,10 @@ title: "Section 5902 - Notifications and certifications"
 usc_title: 49
 usc_section: "5902"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 5902"
-generated_at: "2026-03-30T02:56:19.320Z"
+generated_at: "2026-11-23T20:27:34.694Z"
+status: "active"
 ---
 
 # § 5902. Notifications and certifications
@@ -35,3 +36,52 @@ generated_at: "2026-03-30T02:56:19.320Z"
     - **(B)** assumes the responsibility for any weight-related fine or penalty incurred by any other motor carrier that performs a part of the highway transportation.
   - **(2)** Subsections (a) and (b) of this section and section 5903(c) of this title do not apply to a carrier when the carrier is transferring a loaded container or trailer to another carrier during intermodal transportation, unless the carrier is also the person tendering the loaded container or trailer to the first carrier.
   - **(3)** A carrier, agent of a carrier, broker, customs broker, freight forwarder, warehouser, or terminal operator is deemed not to be a person tendering a loaded container or trailer to a first carrier under this section, unless the carrier, agent, broker, customs broker, freight forwarder, warehouser, or terminal operator assumes legal responsibility for loading property into the container or trailer.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5902(a) | 49:508(a)(1). |  |
+| 5902(b) | 49:508(a)(2). |  |
+| 5902(c) | 49:508(b). |  |
+| 5902(d)(1) | 49:508(e). |  |
+| 5902(d)(2) | 49:508(a)(4). |  |
+
+
+Prior Notification
+
+Certification.—
+
+In general
+
+Contents of certification
+
+Transfer of certification data
+
+Shipping documents
+
+Use of “freight all kinds” term
+
+Separate document marking
+
+Applicability
+
+Forwarding Certifications to Subsequent Carriers
+
+Liability to Owner or Beneficial Owner
+
+Nonapplication
+
+Historical and Revision Notes
+
+5902(a)
+
+5902(b)
+
+5902(c)
+
+5902(d)(1)
+
+5902(d)(2)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 860](https://www.govinfo.gov/link/statute/108/860); [Pub. L. 104–291, title II, § 204](https://www.govinfo.gov/link/plaw/104/public/291), Oct. 11, 1996, [110 Stat. 3453](https://www.govinfo.gov/link/statute/110/3453).)*

@@ -3,9 +3,10 @@ title: "Section 3314 - Report on national security systems"
 usc_title: 50
 usc_section: "3314"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3314"
-generated_at: "2026-03-30T02:56:26.242Z"
+generated_at: "2026-11-23T20:27:30.952Z"
+status: "active"
 ---
 
 # § 3314. Report on national security systems
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:26.242Z"
   - **(2)** extension requests and the current status of any national security systems still in use or components thereof that have been decertified and are still in use;
   - **(3)** national security systems known to not be in compliance with the policies, principles, standards, and guidelines issued by the Committee on National Security Systems established pursuant to National Security Directive 42, signed by the President on July 5, 1990 ; and
   - **(4)** organizations which have not provided access or information to the Director of the National Security Agency that is adequate to enable the Director to make a determination as to whether such organizations are in compliance with the policies, principles, standards, and guidelines issued by such Committee on National Security Systems.
+
+## Source Credit
+
+*([Pub. L. 115–31, div. N, title VI, § 603](https://www.govinfo.gov/link/plaw/115/public/31), May 5, 2017, [131 Stat. 829](https://www.govinfo.gov/link/statute/131/829).)*

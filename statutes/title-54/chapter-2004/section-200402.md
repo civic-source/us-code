@@ -3,9 +3,10 @@ title: "Section 200402 - National Parks and Public Land Legacy Restoration Fund"
 usc_title: 54
 usc_section: "200402"
 chapter: 2004
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "54 U.S.C. § 200402"
-generated_at: "2026-03-30T02:56:28.421Z"
+generated_at: "2026-11-23T20:27:38.070Z"
+status: "active"
 ---
 
 # § 200402. National Parks and Public Land Legacy Restoration Fund
@@ -63,3 +64,65 @@ generated_at: "2026-03-30T02:56:28.421Z"
     - **(B)** allocated to the covered agency for which the donation was made.
   - **(3)** Any donations allocated to a covered agency under paragraph (2)(B) shall be allocated to the applicable covered agency independently of the allocations under subsection (e)(1).
 - **(k)** In expending amounts from the Fund, the Secretary and the Secretary of Agriculture shall incorporate measures to improve the accessibility of assets and accommodate visitors and employees with disabilities in accordance with applicable law.
+
+Establishment
+
+Deposits.—
+
+In general
+
+Maximum amount
+
+Effect on other revenues
+
+Availability of Funds
+
+Investment of Amounts.—
+
+In general
+
+Requirement
+
+Credits to fund
+
+Use of Funds.—
+
+In general
+
+Limitations.—
+
+Non-transportation projects
+
+Transportation projects
+
+Plan
+
+Prohibited Use of Funds
+
+Submission of Priority List of Projects to Congress
+
+Submission of Annual List of Projects to Congress
+
+Alternate Allocation.—
+
+In general
+
+Allocation by president.—
+
+No alternate allocations
+
+Insufficient alternate allocation
+
+Public Donations.—
+
+In general
+
+Credits to fund
+
+Other allocations
+
+Required Consideration for Accessibility
+
+## Source Credit
+
+*(Added [Pub. L. 116–152, § 2(a)](https://www.govinfo.gov/link/plaw/116/public/152), Aug. 4, 2020, [134 Stat. 683](https://www.govinfo.gov/link/statute/134/683).)*

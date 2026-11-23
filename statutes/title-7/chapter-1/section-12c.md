@@ -3,9 +3,10 @@ title: "Section 12c - Disciplinary actions"
 usc_title: 7
 usc_section: "12c"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 12c"
-generated_at: "2026-03-30T02:53:42.245Z"
+generated_at: "2026-11-23T20:25:40.877Z"
+status: "active"
 ---
 
 # § 12c. Disciplinary actions
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:42.245Z"
 - **(e)**
   - **(1)** The Commission shall issue regulations requiring each registered entity to establish and make available to the public a schedule of major violations of any rule within the disciplinary jurisdiction of such registered entity.
   - **(2)** The regulations issued by the Commission pursuant to this subsection shall prohibit, for a period of time to be determined by the Commission, any individual who is found to have committed any major violation from service on the governing board of any registered entity or registered futures association, or on any disciplinary committee thereof.
+
+## Source Credit
+
+*(Sept. 21, 1922, ch. 369, § 8c, as added [Pub. L. 93–463, title II, § 216](https://www.govinfo.gov/link/plaw/93/public/463), Oct. 23, 1974, [88 Stat. 1405](https://www.govinfo.gov/link/statute/88/1405); amended [Pub. L. 95–405, § 18](https://www.govinfo.gov/link/plaw/95/public/405), Sept. 30, 1978, [92 Stat. 874](https://www.govinfo.gov/link/statute/92/874); [Pub. L. 102–546, title II, § 206(a)(2)](https://www.govinfo.gov/link/plaw/102/public/546), Oct. 28, 1992, [106 Stat. 3602](https://www.govinfo.gov/link/statute/106/3602); [Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(20)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–410.)*

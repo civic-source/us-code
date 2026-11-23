@@ -3,9 +3,10 @@ title: "Section 655 - Arbitrators"
 usc_title: 28
 usc_section: "655"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 655"
-generated_at: "2026-03-30T02:55:30.136Z"
+generated_at: "2026-11-23T20:26:36.413Z"
+status: "active"
 ---
 
 # § 655. Arbitrators
@@ -18,3 +19,13 @@ generated_at: "2026-03-30T02:55:30.136Z"
   - **(1)** shall take the oath or affirmation described in section 453; and
   - **(2)** shall be subject to the disqualification rules under section 455.
 - **(c)** All individuals serving as arbitrators in an alternative dispute resolution program under this chapter are performing quasi-judicial functions and are entitled to the immunities and protections that the law accords to persons serving in such capacity.
+
+Powers of Arbitrators
+
+Standards for Certification
+
+Immunity
+
+## Source Credit
+
+*(Added [Pub. L. 100–702, title IX, § 901(a)](https://www.govinfo.gov/link/plaw/100/public/702), Nov. 19, 1988, [102 Stat. 4661](https://www.govinfo.gov/link/statute/102/4661); amended [Pub. L. 105–315, § 7](https://www.govinfo.gov/link/plaw/105/public/315), Oct. 30, 1998, [112 Stat. 2996](https://www.govinfo.gov/link/statute/112/2996).)*

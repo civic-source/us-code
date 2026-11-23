@@ -3,9 +3,10 @@ title: "Section 17953 - Studies, reports, guidance"
 usc_title: 42
 usc_section: "17953"
 chapter: 156
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17953"
-generated_at: "2026-03-30T02:56:11.511Z"
+generated_at: "2026-11-23T20:27:23.769Z"
+status: "active"
 ---
 
 # § 17953. Studies, reports, guidance
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:56:11.511Z"
 - **(d)** Not later than one year after February 17, 2009 , the Comptroller General of the United States shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Ways and Means and the Committee on Energy and Commerce of the House of Representatives a report on the best practices related to the disclosure among health care providers of protected health information of an individual for purposes of treatment of such individual. Such report shall include an examination of the best practices implemented by States and by other entities, such as health information exchanges and regional health information organizations, an examination of the extent to which such best practices are successful with respect to the quality of the resulting health care provided to the individual and with respect to the ability of the health care provider to manage such best practices, and an examination of the use of electronic informed consent for disclosing protected health information for treatment, payment, and health care operations.
 - **(e)** Not later than 5 years after February 17, 2009 , the Government Accountability Office shall submit to Congress and the Secretary of Health and Human Services a report on the impact of any of the provisions of this Act on health insurance premiums, overall health care costs, adoption of electronic health records by providers, and reduction in medical errors and other quality improvements.
 - **(f)** The Secretary shall study the definition of “psychotherapy notes” in section 164.501 of title 45, Code of Federal Regulations, with regard to including test data that is related to direct responses, scores, items, forms, protocols, manuals, or other materials that are part of a mental health evaluation, as determined by the mental health professional providing treatment or evaluation in such definitions and may, based on such study, issue regulations to revise such definition.
+
+## Source Credit
+
+*([Pub. L. 111–5, div. A, title XIII, § 13424](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 276](https://www.govinfo.gov/link/statute/123/276).)*

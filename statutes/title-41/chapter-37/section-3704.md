@@ -3,9 +3,10 @@ title: "Section 3704 - Post-award debriefings"
 usc_title: 41
 usc_section: "3704"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 3704"
-generated_at: "2026-03-30T02:55:55.806Z"
+generated_at: "2026-11-23T20:27:04.443Z"
+status: "active"
 ---
 
 # § 3704. Post-award debriefings
@@ -25,3 +26,70 @@ generated_at: "2026-03-30T02:55:55.806Z"
   - **(1)** the information provided in debriefings under this section regarding the offer of the contractor awarded the contract; and
   - **(2)** the same information that would have been provided to the original offerors.
 - **(g)** The contracting officer shall include a summary of the debriefing in the contract file.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3704(a) | 41:253b(e)(1) (1st sentence). | June 30, 1949, ch. 288 , title III, § 303B(e), as added Pub. L. 103–355, title I, § 1064(2) , Oct. 13, 1994 , 108 Stat. 3268 ; Pub. L. 104–106, title XLI, § 4104(b)(1) , Feb. 10, 1996 , 110 Stat. 645 . |
+| 3704(b) | 41:253b(e)(1) (last sentence). |  |
+| 3704(c) | 41:253b(e)(2). |  |
+| 3704(d) | 41:253b(e)(3). |  |
+| 3704(e) | 41:253b(e)(4). |  |
+| 3704(f) | 41:253b(e)(5). |  |
+| 3704(g) | 41:253b(g) (related to 41:253b(e)). | June 30, 1949, ch. 288 , title III, § 303B(g) (related to § 303B(e)), as added Pub. L. 104–106, title XLI, § 4104(b)(3) , Feb. 10, 1996 , 110 Stat. 645 . |
+
+
+Request for Debriefing
+
+When Debriefing To Be Conducted
+
+Information To Be Provided
+
+Information Not To Be Included
+
+Inclusion of Statement in Solicitation
+
+After Successful Protest
+
+Summary To Be Included in File
+
+Historical and Revision Notes
+
+3704(a)
+
+June 30, 1949, ch. 288
+
+Pub. L. 103–355, title I, § 1064(2)
+
+Oct. 13, 1994
+
+108 Stat. 3268
+
+Pub. L. 104–106, title XLI, § 4104(b)(1)
+
+Feb. 10, 1996
+
+110 Stat. 645
+
+3704(b)
+
+3704(c)
+
+3704(d)
+
+3704(e)
+
+3704(f)
+
+3704(g)
+
+June 30, 1949, ch. 288
+
+Pub. L. 104–106, title XLI, § 4104(b)(3)
+
+Feb. 10, 1996
+
+110 Stat. 645
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3771](https://www.govinfo.gov/link/statute/124/3771); [Pub. L. 115–232, div. A, title VIII, § 836(b)(15)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1864](https://www.govinfo.gov/link/statute/132/1864).)*

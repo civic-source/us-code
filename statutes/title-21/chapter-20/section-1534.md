@@ -3,9 +3,10 @@ title: "Section 1534 - Technical assistance and training"
 usc_title: 21
 usc_section: "1534"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 1534"
-generated_at: "2026-03-30T02:54:54.303Z"
+generated_at: "2026-11-23T20:26:27.881Z"
+status: "active"
 ---
 
 # § 1534. Technical assistance and training
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:54.303Z"
   - **(2)** task force development;
   - **(3)** mediation and facilitation, direct service, assessment and evaluation; or
   - **(4)** any other activity related to the purposes of the Program.
+
+## Source Credit
+
+*([Pub. L. 100–690, title I, § 1034](https://www.govinfo.gov/link/plaw/100/public/690), as added [Pub. L. 105–20, § 2(a)(2)](https://www.govinfo.gov/link/plaw/105/public/20), June 27, 1997, [111 Stat. 231](https://www.govinfo.gov/link/statute/111/231).)*

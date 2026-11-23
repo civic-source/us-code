@@ -3,9 +3,10 @@ title: "Section 611 - Retirement of Director"
 usc_title: 28
 usc_section: "611"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 611"
-generated_at: "2026-03-30T02:55:30.135Z"
+generated_at: "2026-11-23T20:26:36.398Z"
+status: "active"
 ---
 
 # § 611. Retirement of Director
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:30.135Z"
 - **(c)** A Director who has elected coverage under this section and who becomes permanently disabled to perform the duties of his office shall be retired and shall receive an annuity for life equal to 80 per centum of the salary of the office at the time of his retirement if he has at least fifteen years of service, or equal to that proportion of 80 percentum of such salary that the aggregate number of years of his service bears to fifteen if he has less than fifteen years of service, but in no event less than 50 per centum of such salary.
 - **(d)** For the purpose of this section, “service” means service, whether or not continuous, as Director of the Administrative Office of the United States Courts, and any service, not to exceed five years, as a judge of the United States, a Senator or Representative in Congress, a congressional employee in the capacity of primary administrative assistant to a Member of Congress or in the capacity of staff director or chief counsel for the majority or the minority of a committee or subcommittee of the Senate or House of Representatives, or a civilian official appointed by the President, by and with the advice and consent of the Senate.
 - **(e)** Each annuity payable under this section shall be increased by the same percentage amount and effective on the same date as annuities payable under chapter 83 of title 5, are increased as provided by section 8340 of title 5 .
+
+## Source Credit
+
+*(Added [Pub. L. 90–219, title II, § 201(a)](https://www.govinfo.gov/link/plaw/90/public/219), Dec. 20, 1967, [81 Stat. 668](https://www.govinfo.gov/link/statute/81/668); amended [Pub. L. 100–702, title X](https://www.govinfo.gov/link/plaw/100/public/702), §§ 1004(a), 1006(a)(1), Nov. 19, 1988, [102 Stat. 4665](https://www.govinfo.gov/link/statute/102/4665), 4666; [Pub. L. 106–518, title III, § 301(a)](https://www.govinfo.gov/link/plaw/106/public/518), Nov. 13, 2000, [114 Stat. 2416](https://www.govinfo.gov/link/statute/114/2416).)*

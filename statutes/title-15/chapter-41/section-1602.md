@@ -3,9 +3,10 @@ title: "Section 1602 - Definitions and rules of construction"
 usc_title: 15
 usc_section: "1602"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1602"
-generated_at: "2026-03-30T02:54:08.137Z"
+generated_at: "2026-11-23T20:26:04.023Z"
+status: "active"
 ---
 
 # § 1602. Definitions and rules of construction
@@ -120,3 +121,43 @@ generated_at: "2026-03-30T02:54:08.137Z"
     - **(B)** if secured by a personal property loan, the average rate on a loan in connection with which insurance is provided under title I of the National Housing Act ( 12 U.S.C. 1702 et seq.).
   - **(3)** For purposes of paragraph (1), the term “bona fide discount points” means loan discount points which are knowingly paid by the consumer for the purpose of reducing, and which in fact result in a bona fide reduction of, the interest rate or time-price differential applicable to the mortgage.
   - **(4)** Paragraphs (1) and (2) shall not apply to discount points used to purchase an interest rate reduction unless the amount of the interest rate reduction purchased is reasonably consistent with established industry norms and practices for secondary mortgage market transactions.
+
+Bureau
+
+High-cost Mortgage.—
+
+Definition.—
+
+In general
+
+Introductory rates taken into account
+
+Mortgage insurance
+
+Calculation of points and fees for open-end consumer credit plans
+
+Definitions Relating to Mortgage Origination and Residential Mortgage Loans.—
+
+Commission
+
+Mortgage originator
+
+(aa) in writing any corporate affiliation with any creditor; and
+
+(bb) if the retailer has a corporate affiliation with any creditor, at least 1 unaffiliated creditor; and
+
+Nationwide mortgage licensing system and registry
+
+Other definitions relating to mortgage originator
+
+Residential mortgage loan
+
+Secretary
+
+Servicer
+
+Bona Fide Discount Points and Prepayment Penalties
+
+## Source Credit
+
+*([Pub. L. 90–321, title I, § 103](https://www.govinfo.gov/link/plaw/90/public/321), May 29, 1968, [82 Stat. 147](https://www.govinfo.gov/link/statute/82/147); [Pub. L. 91–508, title V, § 501](https://www.govinfo.gov/link/plaw/91/public/508), Oct. 26, 1970, [84 Stat. 1126](https://www.govinfo.gov/link/statute/84/1126); [Pub. L. 93–495, title III, § 303](https://www.govinfo.gov/link/plaw/93/public/495), Oct. 28, 1974, [88 Stat. 1511](https://www.govinfo.gov/link/statute/88/1511); [Pub. L. 94–222, § 3(a)](https://www.govinfo.gov/link/plaw/94/public/222), Feb. 27, 1976, [90 Stat. 197](https://www.govinfo.gov/link/statute/90/197); [Pub. L. 96–221, title VI](https://www.govinfo.gov/link/plaw/96/public/221), §§ 602, 603(a), (b), 604, 612(a)(2), (b), Mar. 31, 1980, [94 Stat. 168](https://www.govinfo.gov/link/statute/94/168), 169, 175, 176; [Pub. L. 97–25, title I, § 102](https://www.govinfo.gov/link/plaw/97/public/25), July 27, 1981, [95 Stat. 144](https://www.govinfo.gov/link/statute/95/144); [Pub. L. 97–320, title VII, § 702(a)](https://www.govinfo.gov/link/plaw/97/public/320), Oct. 15, 1982, [96 Stat. 1538](https://www.govinfo.gov/link/statute/96/1538); [Pub. L. 103–325, title I](https://www.govinfo.gov/link/plaw/103/public/325), §§ 152(a)–(c), 154(a), Sept. 23, 1994, [108 Stat. 2190](https://www.govinfo.gov/link/statute/108/2190), 2191, 2196; [Pub. L. 110–315, title X, § 1011(b)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3481](https://www.govinfo.gov/link/statute/122/3481); [Pub. L. 111–24, title I, § 108](https://www.govinfo.gov/link/plaw/111/public/24), May 22, 2009, [123 Stat. 1743](https://www.govinfo.gov/link/statute/123/1743); [Pub. L. 111–203, title X, § 1100A(1)](https://www.govinfo.gov/link/plaw/111/public/203), (2), title XIV, §§ 1401, 1431, July 21, 2010, [124 Stat. 2107](https://www.govinfo.gov/link/statute/124/2107), 2137, 2157; [Pub. L. 115–174, title I, § 107](https://www.govinfo.gov/link/plaw/115/public/174), May 24, 2018, [132 Stat. 1304](https://www.govinfo.gov/link/statute/132/1304).)*

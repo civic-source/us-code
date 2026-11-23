@@ -3,9 +3,10 @@ title: "Section 7435 - Civil damages for unauthorized enticement of information 
 usc_title: 26
 usc_section: "7435"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 7435"
-generated_at: "2026-03-30T02:55:27.872Z"
+generated_at: "2026-11-23T20:26:46.769Z"
+status: "active"
 ---
 
 # § 7435. Civil damages for unauthorized enticement of information disclosure
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:27.872Z"
 - **(d)** Notwithstanding any other provision of law, an action to enforce liability created under this section may be brought without regard to the amount in controversy and may be brought only within 2 years after the date the actions creating such liability would have been discovered by exercise of reasonable care.
 - **(e)** Upon a certification by the Commissioner or the Commissioner’s delegate that there is an ongoing investigation or prosecution of the taxpayer, the district court before which an action under this section is pending shall stay all proceedings with respect to such action pending the conclusion of the investigation or prosecution.
 - **(f)** Subsection (a) shall not apply to information conveyed to an attorney, certified public accountant, or enrolled agent for the purpose of perpetrating a fraud or crime.
+
+## Source Credit
+
+*(Added [Pub. L. 104–168, title XII, § 1203(a)](https://www.govinfo.gov/link/plaw/104/public/168), July 30, 1996, [110 Stat. 1470](https://www.govinfo.gov/link/statute/110/1470).)*

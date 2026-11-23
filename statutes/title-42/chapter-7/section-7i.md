@@ -3,9 +3,10 @@ title: "Section 7i - Reporting of information relating to drug samples"
 usc_title: 42
 usc_section: "7i"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7i"
-generated_at: "2026-03-30T02:56:10.912Z"
+generated_at: "2026-11-23T20:27:20.999Z"
+status: "active"
 ---
 
 # § 1320a–7i. Reporting of information relating to drug samples
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:10.912Z"
     - **(B)** for which payment is available under subchapter XVIII or a State plan under subchapter XIX or XXI (or a waiver of such a plan).
   - **(2)** The term “authorized distributor of record” has the meaning given that term in subsection (e)(3)(A) of such section.
   - **(3)** The term “manufacturer” has the meaning given that term for purposes of subsection (d) of such section.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XI, § 1128H, as added [Pub. L. 111–148, title VI, § 6004](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 697](https://www.govinfo.gov/link/statute/124/697).)*

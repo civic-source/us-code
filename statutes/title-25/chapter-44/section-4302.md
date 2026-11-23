@@ -3,9 +3,10 @@ title: "Section 4302 - Definitions"
 usc_title: 25
 usc_section: "4302"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 4302"
-generated_at: "2026-03-30T02:54:52.862Z"
+generated_at: "2026-11-23T20:26:25.702Z"
+status: "active"
 ---
 
 # § 4302. Definitions
@@ -34,3 +35,7 @@ In this chapter:
   - **(9)** The term “Secretary” means the Secretary of Commerce.
   - **(10)** The term “Tribal enterprise” means a commercial activity or business managed or controlled by an Indian Tribe.
   - **(11)** The term “Tribal organization” has the meaning given that term in section 5304( l ) of this title.
+
+## Source Credit
+
+*([Pub. L. 106–464, § 3](https://www.govinfo.gov/link/plaw/106/public/464), Nov. 7, 2000, [114 Stat. 2013](https://www.govinfo.gov/link/statute/114/2013); [Pub. L. 116–261, § 3(b)](https://www.govinfo.gov/link/plaw/116/public/261), (e), Dec. 30, 2020, [134 Stat. 3307](https://www.govinfo.gov/link/statute/134/3307), 3311.)*

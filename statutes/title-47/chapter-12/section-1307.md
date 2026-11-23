@@ -3,9 +3,10 @@ title: "Section 1307 - Office of Internet Connectivity and Growth"
 usc_title: 47
 usc_section: "1307"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 1307"
-generated_at: "2026-03-30T02:56:24.531Z"
+generated_at: "2026-11-23T20:27:28.990Z"
+status: "active"
 ---
 
 # § 1307. Office of Internet Connectivity and Growth
@@ -62,3 +63,7 @@ generated_at: "2026-03-30T02:56:24.531Z"
   - **(7)** The term “Universal Service Fund Program” means any program authorized under section 254 of this title to help deploy broadband.
   - **(8)** The term “universal service mechanism” means any funding stream provided by a Universal Service Fund Program to support broadband access.
 - **(h)** Nothing in this section is intended to alter or amend any provision of section 254 of this title .
+
+## Source Credit
+
+*([Pub. L. 116–260, div. FF, title IX, § 903](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3210](https://www.govinfo.gov/link/statute/134/3210).)*

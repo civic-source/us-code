@@ -3,9 +3,10 @@ title: "Section 7508 - Time for performing certain acts postponed by reason of s
 usc_title: 26
 usc_section: "7508"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 7508"
-generated_at: "2026-03-30T02:55:27.876Z"
+generated_at: "2026-11-23T20:26:46.790Z"
+status: "active"
 ---
 
 # § 7508. Time for performing certain acts postponed by reason of service in combat zone or contingency operation
@@ -42,3 +43,9 @@ generated_at: "2026-03-30T02:55:27.876Z"
 - **(g)** For purposes of subsection (a), the term “qualified hospitalization” means—
   - **(1)** any hospitalization outside the United States, and
   - **(2)** any hospitalization inside the United States, except that not more than 5 years of hospitalization may be taken into account under this paragraph.
+
+George Bush.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 898; [Pub. L. 93–597, § 5(a)](https://www.govinfo.gov/link/plaw/93/public/597), Jan. 2, 1975, [88 Stat. 1952](https://www.govinfo.gov/link/statute/88/1952); [Pub. L. 94–455, title XIX, § 1906(a)(51)](https://www.govinfo.gov/link/plaw/94/public/455), (b)(13)(A), Oct. 4, 1976, [90 Stat. 1831](https://www.govinfo.gov/link/statute/90/1831), 1834; [Pub. L. 94–569, § 3(e)](https://www.govinfo.gov/link/plaw/94/public/569), Oct. 20, 1976, [90 Stat. 2700](https://www.govinfo.gov/link/statute/90/2700); [Pub. L. 96–589, § 6(i)(14)](https://www.govinfo.gov/link/plaw/96/public/589), Dec. 24, 1980, [94 Stat. 3411](https://www.govinfo.gov/link/statute/94/3411); [Pub. L. 97–448, title III, § 307(d)](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2407](https://www.govinfo.gov/link/statute/96/2407); [Pub. L. 99–514, title XVII, § 1708(a)(4)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2782](https://www.govinfo.gov/link/statute/100/2782); [Pub. L. 102–2, § 1(a)](https://www.govinfo.gov/link/plaw/102/public/2) –(c), Jan. 30, 1991, [105 Stat. 5](https://www.govinfo.gov/link/statute/105/5); [Pub. L. 107–134, title I, § 112(b)](https://www.govinfo.gov/link/plaw/107/public/134), Jan. 23, 2002, [115 Stat. 2434](https://www.govinfo.gov/link/statute/115/2434); [Pub. L. 108–121, title I, § 104(a)](https://www.govinfo.gov/link/plaw/108/public/121) –(b)(2), Nov. 11, 2003, [117 Stat. 1338](https://www.govinfo.gov/link/statute/117/1338); [Pub. L. 109–73, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/109/public/73), Sept. 23, 2005, [119 Stat. 2027](https://www.govinfo.gov/link/statute/119/2027); [Pub. L. 114–94, div. C, title XXXII, § 32101(d)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1732](https://www.govinfo.gov/link/statute/129/1732); [Pub. L. 114–113, div. Q, title III, § 309(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3089](https://www.govinfo.gov/link/statute/129/3089); [Pub. L. 117–58, div. H, title V, § 80502(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1335](https://www.govinfo.gov/link/statute/135/1335).)*

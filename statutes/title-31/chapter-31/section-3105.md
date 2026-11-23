@@ -3,9 +3,10 @@ title: "Section 3105 - Savings bonds and savings certificates"
 usc_title: 31
 usc_section: "3105"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 3105"
-generated_at: "2026-03-30T02:55:34.054Z"
+generated_at: "2026-11-23T20:26:51.748Z"
+status: "active"
 ---
 
 # § 3105. Savings bonds and savings certificates
@@ -65,3 +66,179 @@ generated_at: "2026-03-30T02:55:34.054Z"
         - **(I)** there is no designated bank account or routing information; or
         - **(II)** the designated bank account or routing information is incorrect; and
     - **(C)** has not been redeemed.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3105(a) | 31:757c(a)(1st sentence), (b)(1)(1st sentence), (d)(1st sentence). | Sept. 24, 1917, ch. 56 , 40 Stat. 288 , § 22(a)–(d)(1st sentence); added Feb. 4, 1935, ch. 5, § 6 , 49 Stat. 21 ; restated Feb. 19, 1941, ch. 7, § 3 , 55 Stat. 7 ; Mar. 26, 1951, ch. 19, § 1 , 65 Stat. 26 ; Apr. 20, 1957 , Pub. L. 85–17, § 1 , 71 Stat. 15 ; Sept. 22, 1959 , Pub. L. 86–346, § 101(b) , 73 Stat. 621 ; Dec. 1, 1969 , Pub. L. 91–130 , §§ 1, 2(b), 83 Stat. 272 ; Aug. 24, 1970 , Pub. L. 91–388, § 3 , 84 Stat. 830 ; Mar. 15, 1976 , Pub. L. 94–232, § 4 , 90 Stat. 217 ; Apr. 2, 1979 , Pub. L. 96–5, § 4 , 93 Stat. 8 ; Oct. 3, 1980 , Pub. L. 96–377, § 1 , 94 Stat. 1512 . |
+| 3105(b)(1) | 31:757c(b)(1)(2d sentence proviso, last sentence). |  |
+| 3105(b)(2) | 31:757c(b)(3). |  |
+| 3105(b)(3) | 31:757c(b)(2). |  |
+| 3105(c) | 31:757c(a)(last sentence), (b)(1)(2d sentence less proviso, 3d, 4th sentences), (c). |  |
+| 3105(d) | 31:757c(h). | Sept. 24, 1917, ch. 56 , 40 Stat. 288 , § 22(h); added Apr. 11, 1943, ch. 52, § 3 , 57 Stat. 63 ; restated Apr. 3, 1945, ch. 51, § 3 , 59 Stat. 47 ; Oct. 17, 1968 , Pub. L. 90–595, § 1 , 82 Stat. 1155 . |
+| 3105(e) | 31:757c(j). | Sept. 24, 1917, ch. 56 , 40 Stat. 288 , § 22(j); added July 1, 1973 , Pub. L. 93–53, § 3(a) , 87 Stat. 135 . |
+
+| 1983 Act | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3105(b)(1) | 31 App.:757c(b)(1) (2d sentence). | Sept. 3, 1982 , Pub. L. 97–248, § 289(a)(1)(A) , (B), (D), 96 Stat. 571 . |
+| 3105(b)(2) | 31 App.:757c(b)(3) |  |
+| 3105(b)(3) | 31 App.:757c(b)(2). |  |
+| 3105(c) | 31 App.:757c(b)(1) (3d sentence). | Sept. 3, 1982 , Pub. L. 97–248, § 289(a)(1)(C) , 96 Stat. 571 . |
+
+
+Historical and Revision Notes
+
+Act
+
+3105(a)
+
+Sept. 24, 1917, ch. 56
+
+40 Stat. 288
+
+Feb. 4, 1935, ch. 5, § 6
+
+49 Stat. 21
+
+Feb. 19, 1941, ch. 7, § 3
+
+55 Stat. 7
+
+Mar. 26, 1951, ch. 19, § 1
+
+65 Stat. 26
+
+Apr. 20, 1957
+
+Pub. L. 85–17, § 1
+
+71 Stat. 15
+
+Sept. 22, 1959
+
+Pub. L. 86–346, § 101(b)
+
+73 Stat. 621
+
+Dec. 1, 1969
+
+Pub. L. 91–130
+
+83 Stat. 272
+
+Aug. 24, 1970
+
+Pub. L. 91–388, § 3
+
+84 Stat. 830
+
+Mar. 15, 1976
+
+Pub. L. 94–232, § 4
+
+90 Stat. 217
+
+Apr. 2, 1979
+
+Pub. L. 96–5, § 4
+
+93 Stat. 8
+
+Oct. 3, 1980
+
+Pub. L. 96–377, § 1
+
+94 Stat. 1512
+
+3105(b)(1)
+
+3105(b)(2)
+
+3105(b)(3)
+
+3105(c)
+
+3105(d)
+
+Sept. 24, 1917, ch. 56
+
+40 Stat. 288
+
+Apr. 11, 1943, ch. 52, § 3
+
+57 Stat. 63
+
+Apr. 3, 1945, ch. 51, § 3
+
+59 Stat. 47
+
+Oct. 17, 1968
+
+Pub. L. 90–595, § 1
+
+82 Stat. 1155
+
+3105(e)
+
+Sept. 24, 1917, ch. 56
+
+40 Stat. 288
+
+July 1, 1973
+
+Pub. L. 93–53, § 3(a)
+
+87 Stat. 135
+
+Act
+
+3105(b)(1)
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 289(a)(1)(A)
+
+96 Stat. 571
+
+3105(b)(2)
+
+3105(b)(3)
+
+3105(c)
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 289(a)(1)(C)
+
+96 Stat. 571
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Jimmy Carter.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 940](https://www.govinfo.gov/link/statute/96/940); [Pub. L. 97–452, § 1(6)](https://www.govinfo.gov/link/plaw/97/public/452), (7), Jan. 12, 1983, [96 Stat. 2467](https://www.govinfo.gov/link/statute/96/2467), 2468; [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 103–465, title VII, § 745(a)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 5011](https://www.govinfo.gov/link/statute/108/5011); [Pub. L. 117–328, div. T, title I, § 122(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5311](https://www.govinfo.gov/link/statute/136/5311).)*

@@ -3,9 +3,10 @@ title: "Section 382 - Filing international design applications"
 usc_title: 35
 usc_section: "382"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "35 U.S.C. § 382"
-generated_at: "2026-03-30T02:55:34.241Z"
+generated_at: "2026-11-23T20:26:49.158Z"
+status: "active"
 ---
 
 # § 382. Filing international design applications
@@ -17,3 +18,15 @@ generated_at: "2026-03-30T02:55:34.241Z"
   - **(1)** in a country other than the United States;
   - **(2)** at the International Bureau; or
   - **(3)** with an intergovernmental organization.
+
+In General
+
+Required Action
+
+Applicability of Chapter
+
+Application Filed in Another Country
+
+## Source Credit
+
+*(Added [Pub. L. 112–211, title I, § 101(a)](https://www.govinfo.gov/link/plaw/112/public/211), Dec. 18, 2012, [126 Stat. 1528](https://www.govinfo.gov/link/statute/126/1528).)*

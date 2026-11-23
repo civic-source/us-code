@@ -3,9 +3,10 @@ title: "Section 1465bb - Television broadcasting to Cuba"
 usc_title: 22
 usc_section: "1465bb"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 1465bb"
-generated_at: "2026-03-30T02:55:05.332Z"
+generated_at: "2026-11-23T20:26:32.111Z"
+status: "active"
 ---
 
 # § 1465bb. Television broadcasting to Cuba
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:05.332Z"
   - **(1)** from the operation of Cuban television and radio stations; and
   - **(2)** from the operations of the television broadcasting to Cuba.
 - **(g)** It is the sense of the Congress that the President should establish a task force to analyze the level of interference from the operation of Cuban television and radio stations experienced by broadcasters in the United States and to seek a practical political and technical solution to this problem.
+
+## Source Credit
+
+*([Pub. L. 101–246, title II, § 243](https://www.govinfo.gov/link/plaw/101/public/246), Feb. 16, 1990, [104 Stat. 59](https://www.govinfo.gov/link/statute/104/59); [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XIII, § 1325(1), (2), Oct. 21, 1998, [112 Stat. 2681–781](https://www.govinfo.gov/link/statute/112/2681).)*

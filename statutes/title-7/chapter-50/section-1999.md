@@ -3,9 +3,10 @@ title: "Section 1999 - Interest rate reduction program"
 usc_title: 7
 usc_section: "1999"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1999"
-generated_at: "2026-03-30T02:53:42.353Z"
+generated_at: "2026-11-23T20:25:41.380Z"
+status: "active"
 ---
 
 # § 1999. Interest rate reduction program
@@ -28,3 +29,17 @@ generated_at: "2026-03-30T02:53:42.353Z"
       - **(ii)** Funds reserved for farmers or ranchers under clause (i) for a fiscal year shall be reserved only until March 1 of the fiscal year.
 - **(f)** The Secretary shall make available to farmers, on request, a list of lenders in the area that participate in guaranteed farm loan programs and other lenders in the area that express a desire to participate in such programs and that request inclusion in the list.
 - **(g)** Notwithstanding any other provision of law, each contract of guarantee on a farm loan entered into under this chapter after January 6, 1988 , shall contain a condition that the lender of the guaranteed loan may not initiate foreclosure action on the loan until 60 days after a determination is made with respect to the eligibility of the borrower thereof to participate in the program under this section.
+
+Maximum amount of funds.—
+
+In general
+
+Beginning and veteran farmers and ranchers.—
+
+In general
+
+Duration of reservation of funds
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 351](https://www.govinfo.gov/link/plaw/87/public/128), as added [Pub. L. 99–198, title XIII, § 1320](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1532](https://www.govinfo.gov/link/statute/99/1532); amended [Pub. L. 100–233, title VI, § 613(b)](https://www.govinfo.gov/link/plaw/100/public/233), (c), Jan. 6, 1988, [101 Stat. 1674](https://www.govinfo.gov/link/statute/101/1674); [Pub. L. 101–508, title I, § 1202(b)(1)](https://www.govinfo.gov/link/plaw/101/public/508), (c), Nov. 5, 1990, [104 Stat. 1388–10](https://www.govinfo.gov/link/statute/104/1388), 1388–11; [Pub. L. 104–105, title II, § 220](https://www.govinfo.gov/link/plaw/104/public/105), Feb. 10, 1996, [110 Stat. 184](https://www.govinfo.gov/link/statute/110/184); [Pub. L. 104–127, title VI, § 643(a)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1102](https://www.govinfo.gov/link/statute/110/1102); [Pub. L. 107–171, title V, § 5313](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 347](https://www.govinfo.gov/link/statute/116/347); [Pub. L. 115–334, title XII, § 12306(d)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4970](https://www.govinfo.gov/link/statute/132/4970).)*

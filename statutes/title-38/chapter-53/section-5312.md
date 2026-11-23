@@ -3,9 +3,10 @@ title: "Section 5312 - Annual adjustment of certain benefit rates"
 usc_title: 38
 usc_section: "5312"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 5312"
-generated_at: "2026-03-30T02:55:53.521Z"
+generated_at: "2026-11-23T20:27:01.958Z"
+status: "active"
 ---
 
 # § 5312. Annual adjustment of certain benefit rates
@@ -19,3 +20,11 @@ generated_at: "2026-03-30T02:55:53.521Z"
 - **(c)**
   - **(1)** Whenever there is an increase under subsection (a) in benefit rates payable under sections 1521, 1541, 1542, and 1805 of this title and an increase under subsection (b) in benefit rates and annual income limitations under section 1315 of this title , the Secretary shall publish such rates and limitations (including those rates adjusted by the Secretary under subsection (b)(2) of this section), as increased pursuant to such subsections, in the Federal Register at the same time as the material required by section 215(i)(2)(D) of the Social Security Act ( 42 U.S.C. 415(i)(2)(D) ) is published by reason of a determination under section 215(i) of such Act ( 42 U.S.C. 415(i) ).
   - **(2)** Whenever such rates and income limitations are so increased, the Secretary may round such rates and income limitations in such manner as the Secretary considers equitable and appropriate for ease of administration.
+
+In General
+
+Special Rules
+
+## Source Credit
+
+*(Added [Pub. L. 95–588, title III, § 305(a)](https://www.govinfo.gov/link/plaw/95/public/588), Nov. 4, 1978, [92 Stat. 2507](https://www.govinfo.gov/link/statute/92/2507), § 3112; amended [Pub. L. 97–295, § 4(76)](https://www.govinfo.gov/link/plaw/97/public/295), Oct. 12, 1982, [96 Stat. 1311](https://www.govinfo.gov/link/statute/96/1311); renumbered § 5312, [Pub. L. 102–40, title IV, § 402(b)(1)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238); [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, [105 Stat. 404–406](https://www.govinfo.gov/link/statute/105/404); [Pub. L. 104–204, title IV, § 421(c)](https://www.govinfo.gov/link/plaw/104/public/204), Sept. 26, 1996, [110 Stat. 2926](https://www.govinfo.gov/link/statute/110/2926); [Pub. L. 108–454, title V, § 506](https://www.govinfo.gov/link/plaw/108/public/454), Dec. 10, 2004, [118 Stat. 3622](https://www.govinfo.gov/link/statute/118/3622).)*

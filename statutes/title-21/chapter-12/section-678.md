@@ -3,12 +3,17 @@ title: "Section 678 - Non-Federal jurisdiction of federally regulated matters; p
 usc_title: 21
 usc_section: "678"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 678"
-generated_at: "2026-03-30T02:54:54.289Z"
+generated_at: "2026-11-23T20:26:27.807Z"
+status: "active"
 ---
 
 # § 678. Non-Federal jurisdiction of federally regulated matters; prohibition of additional or different requirements for establishments with inspection services and as to marking, labeling, packaging, and ingredients; recordkeeping and related requirements; concurrent jurisdiction over distribution for human food purposes of adulterated or misbranded and imported articles; other matters
 
 Requirements within the scope of this chapter with respect to premises, facilities and operations of any establishment at which inspection is provided under subchapter I of this chapter, which are in addition to, or different than those made under this chapter may not be imposed by any State or Territory or the District of Columbia, except that any such jurisdiction may impose recordkeeping and other requirements within the scope of section 642 of this title , if consistent therewith, with respect to any such establishment. Marking, labeling, packaging, or ingredient requirements in addition to, or different than, those made under this chapter may not be imposed by any State or Territory or the District of Columbia with respect to articles prepared at any establishment under inspection in accordance with the requirements under subchapter I of this chapter, but any State or Territory or the District of Columbia may, consistent with the requirements under this chapter, exercise concurrent jurisdiction with the Secretary over articles required to be inspected under said subchapter I, for the purpose of preventing the distribution for human food purposes of any such articles which are adulterated or misbranded and are outside of such an establishment, or, in the case of imported articles which are not at such an establishment, after their entry into the United States. This chapter shall not preclude any State or Territory or the District of Columbia from making requirement 1 1 So in original. Probably should be “requirements”. or taking other action, consistent with this chapter, with respect to any other matters regulated under this chapter.
 
+
+## Source Credit
+
+*(Mar. 4, 1907, ch. 2907, title IV, § 408, as added [Pub. L. 90–201, § 16](https://www.govinfo.gov/link/plaw/90/public/201), Dec. 15, 1967, [81 Stat. 600](https://www.govinfo.gov/link/statute/81/600).)*

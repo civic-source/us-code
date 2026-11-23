@@ -3,9 +3,10 @@ title: "Section 2394c - Information on covered United States foreign assistance 
 usc_title: 22
 usc_section: "2394c"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2394c"
-generated_at: "2026-03-30T02:55:05.364Z"
+generated_at: "2026-11-23T20:26:32.283Z"
+status: "active"
 ---
 
 # § 2394c. Information on covered United States foreign assistance programs
@@ -38,3 +39,29 @@ generated_at: "2026-03-30T02:55:05.364Z"
   - **(1)** in each of the fiscal years 2016 through 2019, provide the information required under subsection (b) for fiscal years 2015 through the current fiscal year; and
   - **(2)** for fiscal year 2020 and each fiscal year thereafter, provide the information required under subsection (b) for the immediately preceding 5 fiscal years in a fully searchable form.
 - **(d)** It is the sense of Congress that the Secretary of State and the Administrator of the United States Agency for International Development should coordinate the consolidation of processes and data collection and presentation for the Department of State’s website, “ForeignAssistance.gov”, and the United States Agency for International Development’s website, “Explorer.USAID.gov”, to the extent that is possible to maximize efficiencies, no later than the end of fiscal year 2018.
+
+Purposes
+
+Establishment of Guidelines
+
+Objectives of Guidelines.—
+
+In general
+
+Objectives
+
+President’s Report
+
+Comptroller General’s Report
+
+Appropriate congressional committees
+
+Evaluation
+
+Covered united states foreign assistance
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 114–191, § 4](https://www.govinfo.gov/link/plaw/114/public/191), July 15, 2016, [130 Stat. 669](https://www.govinfo.gov/link/statute/130/669).)*

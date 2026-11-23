@@ -3,9 +3,10 @@ title: "Section 1292 - New uses and markets for commodities"
 usc_title: 7
 usc_section: "1292"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1292"
-generated_at: "2026-03-30T02:53:42.300Z"
+generated_at: "2026-11-23T20:25:41.107Z"
+status: "active"
 ---
 
 # § 1292. New uses and markets for commodities
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:42.300Z"
 - **(e)**
 - **(f)** There is allocated to the Secretary of Commerce for each fiscal year, beginning with the fiscal year beginning July 1, 1938 , out of funds appropriated for such fiscal year pursuant to section 1391 of this title , or section 590 o of title 16 the sum of $1,000,000 to be expended for the promotion of the sale of farm commodities and products thereof in such manner as he shall direct. Of the sum allocated under this subsection to the Secretary of Commerce for the fiscal year beginning July 1, 1938 , $100,000 shall be devoted to making a survey and investigation of the cause or causes of the reduction in exports of agricultural commodities from the United States, in order to ascertain methods by which the sales in foreign countries of basic agricultural commodities produced in the United States may be increased.
 - **(g)** It shall be the duty of the Secretary to use available funds to stimulate and widen the use of all farm commodities in the United States and to increase in every practical way the flow of such commodities and the products thereof into the markets of the world.
+
+## Source Credit
+
+*(Feb. 16, 1938, ch. 30, title II, § 202, [52 Stat. 37](https://www.govinfo.gov/link/statute/52/37); Aug. 30, 1954, ch. 1076, § 1(3), [68 Stat. 966](https://www.govinfo.gov/link/statute/68/966).)*

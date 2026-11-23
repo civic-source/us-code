@@ -3,9 +3,10 @@ title: "Section 4725 - Gifts and travel"
 usc_title: 2
 usc_section: "4725"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 4725"
-generated_at: "2026-03-30T02:53:04.834Z"
+generated_at: "2026-11-23T20:25:29.050Z"
+status: "active"
 ---
 
 # § 4725. Gifts and travel
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:04.834Z"
     - **(B)** Any Member who accepts an invitation to participate in any such program shall notify the Select Committee in writing of his acceptance. A Member shall also notify the Select Committee in writing whenever he has permitted any officer or employee whom he supervises to participate in any such program. The chairman of the Select Committee shall place in the Congressional Record a list of all individuals, 3 3 So in original. The comma probably should not appear. participating, the supervisors of such individuals where applicable; 4 4 So in original. The semicolon probably should be a comma. and the nature and itinerary of such program.
     - **(C)** No Member, officer, or employee may accept funds in connection with participation in a program permitted under subparagraph (A) if such funds are not used for necessary food, lodging, transportation, and related expenses of the Member, officer, or employee.
 - **(b)** The term “necessary expenses”, with respect to limits on domestic and foreign travel by Members and staff of the Senate, means reasonable expenses for food, lodging, or transportation which are incurred by a Member, officer, or employee of the Senate in connection with services provided to (or participation in an event sponsored by) the organization which provides reimbursement for such expenses or which provides the food, lodging, or transportation directly. Necessary expenses do not include the provision of food, lodging, or transportation, or the payment for such expenses, for a continuous period in excess of 3 days exclusive of travel time within the United States or 7 days exclusive of travel time outside of the United States unless such travel is approved by the Committee on Ethics as necessary for participation in a conference, seminar, meeting or similar matter. Necessary expenses do not include the provision of food, lodging, or transportation, or the payment for such expenses, for anyone accompanying a Member, officer, or employee of the Senate, other than the spouse or child of such Member, officer, or employee of the Senate or one Senate employee acting as an aide to a Member.
+
+## Source Credit
+
+*([Pub. L. 101–194, title IX, § 901](https://www.govinfo.gov/link/plaw/101/public/194), Nov. 30, 1989, [103 Stat. 1778](https://www.govinfo.gov/link/statute/103/1778); [Pub. L. 101–280, § 8](https://www.govinfo.gov/link/plaw/101/public/280), May 4, 1990, [104 Stat. 162](https://www.govinfo.gov/link/statute/104/162); [Pub. L. 102–90, title III, § 314(c)](https://www.govinfo.gov/link/plaw/102/public/90), Aug. 14, 1991, [105 Stat. 470](https://www.govinfo.gov/link/statute/105/470); [Pub. L. 117–286, § 4(c)(5)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4353](https://www.govinfo.gov/link/statute/136/4353).)*

@@ -3,9 +3,10 @@ title: "Section 2922g - Preference for motor vehicles using electric or hybrid p
 usc_title: 10
 usc_section: "2922g"
 chapter: 173
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2922g"
-generated_at: "2026-03-30T02:53:38.187Z"
+generated_at: "2026-11-23T20:25:51.778Z"
+status: "active"
 ---
 
 # § 2922g. Preference for motor vehicles using electric or hybrid propulsion systems; purchase or lease of certain electric and other vehicles
@@ -32,3 +33,25 @@ generated_at: "2026-03-30T02:53:38.187Z"
     - **(A)** that is not a tactical vehicle designed for use in combat; and
     - **(B)** that is purchased or leased by the Department of Defense pursuant to a contract entered into, renewed, modified, or amended on or after October 1, 2035 .
   - **(3)** The term “hydrogen-powered vehicle” means a vehicle that uses hydrogen as the main source of motive power, either through a fuel cell or internal combustion.
+
+Preference
+
+Exception
+
+Relation to Other Vehicle Technologies That Reduce Consumption of Fossil Fuels
+
+Requirement
+
+Relation to Other Vehicle Technologies That Reduce Consumption of Fossil Fuels
+
+Waiver
+
+Definitions
+
+Additional Prohibition
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 111–84, div. B, title XXVIII, § 2844(a)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2682](https://www.govinfo.gov/link/statute/123/2682); amended [Pub. L. 112–81, div. B, title XXVIII, § 2821(b)(3)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1691](https://www.govinfo.gov/link/statute/125/1691); [Pub. L. 117–263, div. A, title III, § 317(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2506](https://www.govinfo.gov/link/statute/136/2506); [Pub. L. 118–159, div. A, title XVII, § 1701(a)(33)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2205](https://www.govinfo.gov/link/statute/138/2205); [Pub. L. 119–60, div. A, title III, § 312(2)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 804](https://www.govinfo.gov/link/statute/139/804).)*

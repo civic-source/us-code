@@ -3,9 +3,10 @@ title: "Section 1333 - Labeling"
 usc_title: 15
 usc_section: "1333"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1333"
-generated_at: "2026-03-30T02:54:08.134Z"
+generated_at: "2026-11-23T20:26:03.998Z"
+status: "active"
 ---
 
 # § 1333. Labeling
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:54:08.134Z"
   - **(2)** Any differences between the requirements established by the Secretary under paragraph (1) and tar and nicotine yield reporting requirements established by the Federal Trade Commission shall be resolved by a memorandum of understanding between the Secretary and the Federal Trade Commission.
   - **(3)** In addition to the disclosures required by paragraph (1), the Secretary may, under a rulemaking conducted under section 553 of title 5 , prescribe disclosure requirements regarding the level of any cigarette or other tobacco product constituent including any smoke constituent. Any such disclosure may be required if the Secretary determines that disclosure would be of benefit to the public health, or otherwise would increase consumer awareness of the health consequences of the use of tobacco products, except that no such prescribed disclosure shall be required on the face of any cigarette package or advertisement. Nothing in this section shall prohibit the Secretary from requiring such prescribed disclosure through a cigarette or other tobacco product package or advertisement insert, or by any other means under the Federal Food, Drug, and Cosmetic Act [ 21 U.S.C. 301 et seq.].
   - **(4)** This subsection applies to a retailer only if that retailer is responsible for or directs the label statements required under this section.
+
+## Source Credit
+
+*([Pub. L. 89–92, § 4](https://www.govinfo.gov/link/plaw/89/public/92), July 27, 1965, [79 Stat. 283](https://www.govinfo.gov/link/statute/79/283); [Pub. L. 91–222, § 2](https://www.govinfo.gov/link/plaw/91/public/222), Apr. 1, 1970, [84 Stat. 88](https://www.govinfo.gov/link/statute/84/88); [Pub. L. 98–474, § 4(a)](https://www.govinfo.gov/link/plaw/98/public/474), Oct. 12, 1984, [98 Stat. 2201](https://www.govinfo.gov/link/statute/98/2201); [Pub. L. 99–92, § 11[(a)]](https://www.govinfo.gov/link/plaw/99/public/92), Aug. 16, 1985, [99 Stat. 402](https://www.govinfo.gov/link/statute/99/402); [Pub. L. 99–117, § 11(d)](https://www.govinfo.gov/link/plaw/99/public/117), Oct. 7, 1985, [99 Stat. 495](https://www.govinfo.gov/link/statute/99/495); [Pub. L. 111–31, div. A, title II](https://www.govinfo.gov/link/plaw/111/public/31), §§ 201(a), 202(b), 206, June 22, 2009, [123 Stat. 1842](https://www.govinfo.gov/link/statute/123/1842), 1845, 1849.)*

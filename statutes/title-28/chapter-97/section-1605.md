@@ -3,9 +3,10 @@ title: "Section 1605 - General exceptions to the jurisdictional immunity of a fo
 usc_title: 28
 usc_section: "1605"
 chapter: 97
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 1605"
-generated_at: "2026-03-30T02:55:30.141Z"
+generated_at: "2026-11-23T20:26:36.462Z"
+status: "active"
 ---
 
 # § 1605. General exceptions to the jurisdictional immunity of a foreign state
@@ -63,3 +64,31 @@ generated_at: "2026-03-30T02:55:30.141Z"
       - **(iii)** any government in Europe that was established with the assistance or cooperation of the Government of Germany during the covered period; and
       - **(iv)** any government in Europe that was an ally of the Government of Germany during the covered period; and
     - **(C)** the term “covered period” means the period beginning on January 30, 1933 , and ending on May 8, 1945 .
+
+Limitation on Discovery.—
+
+In general
+
+Sunset
+
+Evaluation of evidence
+
+Bar on motions to dismiss
+
+Construction
+
+Jurisdictional Immunity for Certain Art Exhibition Activities.—
+
+In general
+
+Exceptions.—
+
+Nazi-era claims
+
+Other culturally significant works
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 94–583, § 4(a)](https://www.govinfo.gov/link/plaw/94/public/583), Oct. 21, 1976, [90 Stat. 2892](https://www.govinfo.gov/link/statute/90/2892); amended [Pub. L. 100–640, § 1](https://www.govinfo.gov/link/plaw/100/public/640), Nov. 9, 1988, [102 Stat. 3333](https://www.govinfo.gov/link/statute/102/3333); [Pub. L. 100–669, § 2](https://www.govinfo.gov/link/plaw/100/public/669), Nov. 16, 1988, [102 Stat. 3969](https://www.govinfo.gov/link/statute/102/3969); [Pub. L. 101–650, title III, § 325(b)(8)](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5121](https://www.govinfo.gov/link/statute/104/5121); [Pub. L. 104–132, title II, § 221(a)](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1241](https://www.govinfo.gov/link/statute/110/1241); [Pub. L. 105–11](https://www.govinfo.gov/link/plaw/105/public/11), Apr. 25, 1997, [111 Stat. 22](https://www.govinfo.gov/link/statute/111/22); [Pub. L. 107–77, title VI, § 626(c)](https://www.govinfo.gov/link/plaw/107/public/77), Nov. 28, 2001, [115 Stat. 803](https://www.govinfo.gov/link/statute/115/803); [Pub. L. 107–117, div. B, § 208](https://www.govinfo.gov/link/plaw/107/public/117), Jan. 10, 2002, [115 Stat. 2299](https://www.govinfo.gov/link/statute/115/2299); [Pub. L. 109–304, § 17(f)(2)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1708](https://www.govinfo.gov/link/statute/120/1708); [Pub. L. 110–181, div. A, title X, § 1083(b)(1)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 341](https://www.govinfo.gov/link/statute/122/341); [Pub. L. 114–222, § 3(b)(2)](https://www.govinfo.gov/link/plaw/114/public/222), Sept. 28, 2016, [130 Stat. 853](https://www.govinfo.gov/link/statute/130/853); [Pub. L. 114–319, § 2(a)](https://www.govinfo.gov/link/plaw/114/public/319), Dec. 16, 2016, [130 Stat. 1618](https://www.govinfo.gov/link/statute/130/1618).)*

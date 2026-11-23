@@ -3,9 +3,10 @@ title: "Section 1713 - Priority of remedies"
 usc_title: 20
 usc_section: "1713"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1713"
-generated_at: "2026-03-30T02:54:48.170Z"
+generated_at: "2026-11-23T20:26:14.673Z"
+status: "active"
 ---
 
 # § 1713. Priority of remedies
@@ -19,3 +20,7 @@ In formulating a remedy for a denial of equal educational opportunity or a denia
 - **(e)** the construction of new schools or the closing of inferior schools;
 - **(f)** the construction or establishment of magnet schools; or
 - **(g)** the development and implementation of any other plan which is educationally sound and administratively feasible, subject to the provisions of sections 1714 and 1715 of this title.
+
+## Source Credit
+
+*([Pub. L. 93–380, title II, § 214](https://www.govinfo.gov/link/plaw/93/public/380), Aug. 21, 1974, [88 Stat. 517](https://www.govinfo.gov/link/statute/88/517).)*

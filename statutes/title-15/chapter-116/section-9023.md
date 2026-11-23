@@ -3,9 +3,10 @@ title: "Section 9023 - Emergency increase in unemployment compensation benefits"
 usc_title: 15
 usc_section: "9023"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 9023"
-generated_at: "2026-03-30T02:54:08.239Z"
+generated_at: "2026-11-23T20:26:04.528Z"
+status: "active"
 ---
 
 # § 9023. Emergency increase in unemployment compensation benefits
@@ -61,3 +62,7 @@ generated_at: "2026-03-30T02:54:08.239Z"
     - **(C)** pandemic unemployment assistance under section 9021 of this title ;
     - **(D)** pandemic emergency unemployment compensation under section 9025 of this title ; and
     - **(E)** short-time compensation under a short-time compensation program (as defined in section 3306(v) of title 26 ).
+
+## Source Credit
+
+*([Pub. L. 116–136, div. A, title II, § 2104](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 318](https://www.govinfo.gov/link/statute/134/318); [Pub. L. 116–260, div. N, title II](https://www.govinfo.gov/link/plaw/116/public/260), §§ 203, 261(a), (b)(1), Dec. 27, 2020, [134 Stat. 1953](https://www.govinfo.gov/link/statute/134/1953), 1961; [Pub. L. 117–2, title IX, § 9013](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 119](https://www.govinfo.gov/link/statute/135/119).)*

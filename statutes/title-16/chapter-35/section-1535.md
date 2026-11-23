@@ -3,9 +3,10 @@ title: "Section 1535 - Cooperation with States"
 usc_title: 16
 usc_section: "1535"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1535"
-generated_at: "2026-03-30T02:54:22.974Z"
+generated_at: "2026-11-23T20:26:20.520Z"
+status: "active"
 ---
 
 # § 1535. Cooperation with States
@@ -53,3 +54,7 @@ generated_at: "2026-03-30T02:54:22.974Z"
 - **(i)**
   - **(1)** To carry out the provisions of this section for fiscal years after September 30, 1988 , there shall be deposited into a special fund known as the cooperative endangered species conservation fund, to be administered by the Secretary, an amount equal to 5 percent of the combined amounts covered each fiscal year into the Federal aid to wildlife restoration fund under section 669b of this title , and paid, transferred, or otherwise credited each fiscal year to the Sport Fishing Restoration Account established under 1016 of the Act of July 18, 1984 .
   - **(2)** Amounts deposited into the special fund are authorized to be appropriated annually and allocated in accordance with subsection (d) of this section.
+
+## Source Credit
+
+*([Pub. L. 93–205, § 6](https://www.govinfo.gov/link/plaw/93/public/205), Dec. 28, 1973, [87 Stat. 889](https://www.govinfo.gov/link/statute/87/889); [Pub. L. 95–212](https://www.govinfo.gov/link/plaw/95/public/212), Dec. 19, 1977, [91 Stat. 1493](https://www.govinfo.gov/link/statute/91/1493); [Pub. L. 95–632, § 10](https://www.govinfo.gov/link/plaw/95/public/632), Nov. 10, 1978, [92 Stat. 3762](https://www.govinfo.gov/link/statute/92/3762); [Pub. L. 96–246](https://www.govinfo.gov/link/plaw/96/public/246), May 23, 1980, [94 Stat. 348](https://www.govinfo.gov/link/statute/94/348); [Pub. L. 97–304](https://www.govinfo.gov/link/plaw/97/public/304), §§ 3, 8(b), Oct. 13, 1982, [96 Stat. 1416](https://www.govinfo.gov/link/statute/96/1416), 1426; [Pub. L. 100–478, title I, § 1005](https://www.govinfo.gov/link/plaw/100/public/478), Oct. 7, 1988, [102 Stat. 2307](https://www.govinfo.gov/link/statute/102/2307).)*

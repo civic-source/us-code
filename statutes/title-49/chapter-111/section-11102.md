@@ -3,9 +3,10 @@ title: "Section 11102 - Use of terminal facilities"
 usc_title: 49
 usc_section: "11102"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 11102"
-generated_at: "2026-03-30T02:56:19.325Z"
+generated_at: "2026-11-23T20:27:34.722Z"
+status: "active"
 ---
 
 # § 11102. Use of terminal facilities
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:19.325Z"
   - **(1)** The Board may require rail carriers to enter into reciprocal switching agreements, where it finds such agreements to be practicable and in the public interest, or where such agreements are necessary to provide competitive rail service. The rail carriers entering into such an agreement shall establish the conditions and compensation applicable to such agreement, but, if the rail carriers cannot agree upon such conditions and compensation within a reasonable period of time, the Board may establish such conditions and compensation.
   - **(2)** The Board may require reciprocal switching agreements entered into by rail carriers pursuant to this subsection to contain provisions for the protection of the interests of employees affected thereby.
 - **(d)** The Board shall complete any proceeding under subsection (a) or (b) within 180 days after the filing of the request for relief.
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 102(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 831](https://www.govinfo.gov/link/statute/109/831).)*

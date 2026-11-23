@@ -3,9 +3,10 @@ title: "Section 904 - Court approved abandonments and sales"
 usc_title: 45
 usc_section: "904"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 904"
-generated_at: "2026-03-30T02:55:56.558Z"
+generated_at: "2026-11-23T20:27:05.326Z"
+status: "active"
 ---
 
 # § 904. Court approved abandonments and sales
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:56.558Z"
   - **(2)** The bankruptcy court may not authorize a sale or transfer pursuant to paragraph (1) of this subsection unless an appropriate application with respect to such sale or transfer is initiated with the Commission and, within such time as the court may fix, not exceeding 180 days, the Commission, with or without a hearing, as the Commission may determine, and with or without modification or condition, approves such application, or does not act on such application. Any action or order of the Commission approving, modifying, conditioning, or disapproving such application is subject to review by the court only under sections 706(2)(A), 706(2)(B), 706(2)(C), and 706(2)(D) of title 5. An application may be initiated with the Commission prior to the date specified in paragraph (1) of this subsection.
   - **(3)** Pending review of an application by the Commission pursuant to paragraph (2) of this subsection, the bankruptcy court may, on a preliminary basis, authorize the sale or transfer of lines of the Milwaukee Railroad to another rail carrier. The court may permit the purchasing carrier to operate interim service as a common carrier over the lines to be purchased, without regard to section 10901 of title 49 . In operating such service, the purchasing carrier shall use employees of the Milwaukee Railroad to the extent necessary for the operation of such service. The bankruptcy court may take final action authorizing any such sale or transfer only in accordance with paragraph (1) of this subsection.
 - **(c)** Nothing in this section shall be deemed to affect the priorities or timing of payment of employee protection which might have existed in the absence of this chapter.
+
+## Source Credit
+
+*([Pub. L. 96–101, § 5](https://www.govinfo.gov/link/plaw/96/public/101), Nov. 4, 1979, [93 Stat. 737](https://www.govinfo.gov/link/statute/93/737).)*

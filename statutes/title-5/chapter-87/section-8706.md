@@ -3,9 +3,10 @@ title: "Section 8706 - Termination of insurance; assignment of ownership"
 usc_title: 5
 usc_section: "8706"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8706"
-generated_at: "2026-03-30T02:52:56.065Z"
+generated_at: "2026-11-23T20:25:32.234Z"
+status: "active"
 ---
 
 # § 8706. Termination of insurance; assignment of ownership
@@ -34,3 +35,63 @@ generated_at: "2026-03-30T02:52:56.065Z"
   - **(2)** A court decree of divorce, annulment, or legal separation, or the terms of a court-approved property settlement agreement incident to any court decree of divorce, annulment, or legal separation, may direct that an insured employee or former employee make an irrevocable assignment of the employee’s or former employee’s incidents of ownership in insurance under this chapter (if there is no previous assignment) to the person specified in the court order or court-approved property settlement agreement.
 - **(g)** If the insurance of a former employee receiving a disability annuity under section 8337 of this title stops because of the termination of such annuity, and such annuity is thereafter restored under the second or third sentence of subsection (e) of such section, such former employee may, under regulations prescribed by the Office, elect to resume the insurance coverage which was so stopped.
 - **(h)** The insurance of an employee under a policy purchased under section 8709 shall not be invalidated based on a finding that the employee erroneously became insured, or erroneously continued insurance upon retirement or entitlement to compensation under subchapter I of chapter 81 of this title, if such finding occurs after the erroneous insurance and applicable withholdings have been in force for 2 years during the employee’s lifetime.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| (a)–(c) | 5 U.S.C. 2095 . | Aug. 17, 1954, ch. 752, § 6 , 68 Stat. 739 . Aug. 11, 1955, ch. 794, § 2(a) , 69 Stat. 677 . |
+|  |  | May 28, 1956, ch. 328, § 1 , 70 Stat. 213 . |
+|  |  | Sept. 23, 1959 , Pub. L. 86–377, § 4(c) , 73 Stat. 701 . |
+| (d) | 5 U.S.C. 2091(c) . | Aug. 1, 1956, ch. 837, § 501(c)(1) (less applicability to § 2(b)), 70 Stat. 882 . |
+
+| 1967 Act | Col 2 | Col 3 |
+| --- | --- | --- |
+| 8706(e) | 5 App.: 2095(d). | July 18, 1966 , Pub. L. 89–504, § 406(a) , 80 Stat. 298 . |
+
+
+Historical and Revision Notes
+
+Act
+
+(a)–(c)
+
+5 U.S.C. 2095
+
+Aug. 17, 1954, ch. 752, § 6
+
+68 Stat. 739
+
+Aug. 11, 1955, ch. 794, § 2(a)
+
+69 Stat. 677
+
+May 28, 1956, ch. 328, § 1
+
+70 Stat. 213
+
+Sept. 23, 1959
+
+Pub. L. 86–377, § 4(c)
+
+73 Stat. 701
+
+(d)
+
+5 U.S.C. 2091(c)
+
+Aug. 1, 1956, ch. 837, § 501(c)(1)
+
+70 Stat. 882
+
+Act
+
+8706(e)
+
+July 18, 1966
+
+Pub. L. 89–504, § 406(a)
+
+80 Stat. 298
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 595](https://www.govinfo.gov/link/statute/80/595); [Pub. L. 90–83, § 1(92)](https://www.govinfo.gov/link/plaw/90/public/83), Sept. 11, 1967, [81 Stat. 219](https://www.govinfo.gov/link/statute/81/219); [Pub. L. 92–529](https://www.govinfo.gov/link/plaw/92/public/529), Oct. 21, 1972, [86 Stat. 1050](https://www.govinfo.gov/link/statute/86/1050); [Pub. L. 95–454, title IX, § 906(a)(2)](https://www.govinfo.gov/link/plaw/95/public/454), (3), Oct. 13, 1978, [92 Stat. 1224](https://www.govinfo.gov/link/statute/92/1224); [Pub. L. 95–583, § 1(a)](https://www.govinfo.gov/link/plaw/95/public/583), Nov. 2, 1978, [92 Stat. 2481](https://www.govinfo.gov/link/statute/92/2481); [Pub. L. 96–427, § 3(a)](https://www.govinfo.gov/link/plaw/96/public/427), Oct. 10, 1980, [94 Stat. 1832](https://www.govinfo.gov/link/statute/94/1832); [Pub. L. 98–353, title II](https://www.govinfo.gov/link/plaw/98/public/353), §§ 206, 208, July 10, 1984, [98 Stat. 351](https://www.govinfo.gov/link/statute/98/351), as amended by [Pub. L. 99–336, § 7(1)](https://www.govinfo.gov/link/plaw/99/public/336), June 19, 1986, [100 Stat. 639](https://www.govinfo.gov/link/statute/100/639); [Pub. L. 99–53, § 3(b)](https://www.govinfo.gov/link/plaw/99/public/53), June 17, 1985, [99 Stat. 95](https://www.govinfo.gov/link/statute/99/95); [Pub. L. 99–335, title II, § 207(k)(2)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 597](https://www.govinfo.gov/link/statute/100/597); [Pub. L. 99–336, § 7(1)](https://www.govinfo.gov/link/plaw/99/public/336), June 19, 1986, [100 Stat. 639](https://www.govinfo.gov/link/statute/100/639); [Pub. L. 102–378, § 2(74)](https://www.govinfo.gov/link/plaw/102/public/378), Oct. 2, 1992, [106 Stat. 1355](https://www.govinfo.gov/link/statute/106/1355); [Pub. L. 103–336, § 4](https://www.govinfo.gov/link/plaw/103/public/336), Oct. 3, 1994, [108 Stat. 2662](https://www.govinfo.gov/link/statute/108/2662); [Pub. L. 105–205, § 2](https://www.govinfo.gov/link/plaw/105/public/205), July 22, 1998, [112 Stat. 683](https://www.govinfo.gov/link/statute/112/683); [Pub. L. 105–311, § 5](https://www.govinfo.gov/link/plaw/105/public/311), Oct. 30, 1998, [112 Stat. 2951](https://www.govinfo.gov/link/statute/112/2951); [Pub. L. 110–181, div. A, title XI, § 1102](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 345](https://www.govinfo.gov/link/statute/122/345).)*

@@ -3,9 +3,10 @@ title: "Section 2243 - Smuggled food"
 usc_title: 21
 usc_section: "2243"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 2243"
-generated_at: "2026-03-30T02:54:54.310Z"
+generated_at: "2026-11-23T20:26:27.909Z"
+status: "active"
 ---
 
 # § 2243. Smuggled food
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:54.310Z"
   - **(3)** reasonably believes that the food has entered domestic commerce and is likely to be consumed,
 - **(d)** Nothing in this section shall affect the authority of the Secretary to issue public notifications under other circumstances.
 - **(e)** In this subsection, the term “smuggled food” means any food that a person introduces into the United States through fraudulent means or with the intent to defraud or mislead.
+
+## Source Credit
+
+*([Pub. L. 111–353, title III, § 309](https://www.govinfo.gov/link/plaw/111/public/353), Jan. 4, 2011, [124 Stat. 3966](https://www.govinfo.gov/link/statute/124/3966).)*

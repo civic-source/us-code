@@ -3,9 +3,10 @@ title: "Section 5000A - Requirement to maintain minimum essential coverage"
 usc_title: 26
 usc_section: "5000A"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 5000A"
-generated_at: "2026-03-30T02:55:27.815Z"
+generated_at: "2026-11-23T20:26:46.386Z"
+status: "active"
 ---
 
 # § 5000A. Requirement to maintain minimum essential coverage
@@ -111,3 +112,11 @@ generated_at: "2026-03-30T02:55:27.815Z"
     - **(B)** The Secretary shall not—
       - **(i)** file notice of lien with respect to any property of a taxpayer by reason of any failure to pay the penalty imposed by this section, or
       - **(ii)** levy on any such property with respect to such failure.
+
+In general
+
+Poverty line used
+
+## Source Credit
+
+*(Added and amended [Pub. L. 111–148, title I, § 1501(b)](https://www.govinfo.gov/link/plaw/111/public/148), title X, § 10106(b)–(d), Mar. 23, 2010, [124 Stat. 244](https://www.govinfo.gov/link/statute/124/244), 909, 910; [Pub. L. 111–152, title I](https://www.govinfo.gov/link/plaw/111/public/152), §§ 1002, 1004(a)(1)(C), (2)(B), Mar. 30, 2010, [124 Stat. 1032](https://www.govinfo.gov/link/statute/124/1032), 1034; [Pub. L. 111–159, § 2(a)](https://www.govinfo.gov/link/plaw/111/public/159), Apr. 26, 2010, [124 Stat. 1123](https://www.govinfo.gov/link/statute/124/1123); [Pub. L. 111–173, § 1(a)](https://www.govinfo.gov/link/plaw/111/public/173), May 27, 2010, [124 Stat. 1215](https://www.govinfo.gov/link/statute/124/1215); [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 11002(d)(1)(GG), 11081(a), Dec. 22, 2017, [131 Stat. 2060](https://www.govinfo.gov/link/statute/131/2060), 2092; [Pub. L. 115–120, div. C, § 3002(g)(2)(A)](https://www.govinfo.gov/link/plaw/115/public/120), Jan. 22, 2018, [132 Stat. 35](https://www.govinfo.gov/link/statute/132/35); [Pub. L. 115–271, title IV, § 4003(a)](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 3959](https://www.govinfo.gov/link/statute/132/3959); [Pub. L. 119–21, title VII, § 71301(d)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 322](https://www.govinfo.gov/link/statute/139/322).)*

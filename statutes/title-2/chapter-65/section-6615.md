@@ -3,12 +3,17 @@ title: "Section 6615 - Deposit of moneys for credit to account within Senate con
 usc_title: 2
 usc_section: "6615"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 6615"
-generated_at: "2026-03-30T02:53:04.843Z"
+generated_at: "2026-11-23T20:25:29.081Z"
+status: "active"
 ---
 
 # § 6615. Deposit of moneys for credit to account within Senate contingent fund for “Sergeant at Arms and Doorkeeper of the Senate”
 
 Any provision of law which is enacted prior to October 1, 1983 , and which directs the Sergeant at Arms and Doorkeeper of the Senate to deposit any moneys in the United States Treasury for credit to the account, within the contingent fund of the Senate, for “Miscellaneous Items”, or for “Automobiles and Maintenance” shall, on and after October 1, 1983 , be deemed to direct him to deposit such moneys in the United States Treasury for credit to the account, within the contingent fund of the Senate, for the “Sergeant at Arms and Doorkeeper of the Senate”.
 
+
+## Source Credit
+
+*([Pub. L. 98–181, title I, § 1202](https://www.govinfo.gov/link/plaw/98/public/181), Nov. 30, 1983, [97 Stat. 1289](https://www.govinfo.gov/link/statute/97/1289).)*

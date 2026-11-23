@@ -3,12 +3,17 @@ title: "Section 604 - Cutting timber on certain mineral lands; permits to corpor
 usc_title: 16
 usc_section: "604"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 604"
-generated_at: "2026-03-30T02:54:22.884Z"
+generated_at: "2026-11-23T20:26:20.187Z"
+status: "active"
 ---
 
 # § 604. Cutting timber on certain mineral lands; permits to corporations; railroad corporations
 
 All citizens of the United States and other persons, bona fide residents of the States of Colorado, Nevada, New Mexico, Arizona, Utah, Wyoming, North Dakota, South Dakota, Idaho, or Montana, and all other mineral districts of the United States, are authorized and permitted to fell and remove, for building, agricultural, mining, or other domestic purposes, any timber or other trees growing or being on the public lands, said lands being mineral, and not subject to entry under existing laws of the United States, except for mineral entry, in said States or districts of which such citizens or persons may be at the time bona fide residents, subject to such rules and regulations as the Secretary of the Interior may prescribe for the protection of the timber and of the undergrowth growing upon such lands, and for other purposes. It shall be lawful for the Secretary of the Interior to grant permits in accordance with the provisions of this section, to corporations incorporated under a Federal law of the United States or incorporated under the laws of a State or Territory of the United States, other than the State in which the privilege is requested. Such permits to confer the same rights and benefits upon such corporations as are conferred upon corporations incorporated in the State in which the privilege is to be exercised, but all such corporations shall first have complied with the laws of that State so as to entitle them to do business therein. The provisions of this section and sections 605 and 606 of this title shall not extend to railroad corporations.
 
+
+## Source Credit
+
+*(June 3, 1878, ch. 150, § 1, [20 Stat. 88](https://www.govinfo.gov/link/statute/20/88); Jan. 11, 1921, ch. 22, [41 Stat. 1088](https://www.govinfo.gov/link/statute/41/1088).)*

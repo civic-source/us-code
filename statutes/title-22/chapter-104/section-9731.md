@@ -3,9 +3,10 @@ title: "Section 9731 - Support for international election observation and democr
 usc_title: 22
 usc_section: "9731"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9731"
-generated_at: "2026-03-30T02:55:05.472Z"
+generated_at: "2026-11-23T20:26:32.798Z"
+status: "active"
 ---
 
 # § 9731. Support for international election observation and democratic civil society
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:05.472Z"
 - **(d)**
   - **(1)** There are authorized to be appropriated to the Secretary of State for fiscal year 2020, $17,500,000 to carry out the activities set forth in subsection (a).
   - **(2)** Amounts appropriated pursuant to paragraph (1) are subject to the notification requirements applicable to expenditures from the Economic Support Fund under section 2346(c) of this title and from the Development Assistance Fund under section 2413(a) of this title , to the extent that such funds are expended.
+
+## Source Credit
+
+*([Pub. L. 116–94, div. J, title I, § 143](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3038](https://www.govinfo.gov/link/statute/133/3038).)*

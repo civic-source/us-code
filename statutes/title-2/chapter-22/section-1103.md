@@ -3,9 +3,10 @@ title: "Section 1103 - Establishment of John C. Stennis Center for Public Servic
 usc_title: 2
 usc_section: "1103"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1103"
-generated_at: "2026-03-30T02:53:04.808Z"
+generated_at: "2026-11-23T20:25:28.946Z"
+status: "active"
 ---
 
 # § 1103. Establishment of John C. Stennis Center for Public Service Training and Development
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:04.808Z"
   - **(3)** a member appointed to fill a vacancy shall serve for the remainder of the term for which his predecessor was appointed and shall be appointed in the same manner as the original appointment for that vacancy was made.
 - **(d)** Members of the Board (other than the Executive Director) shall serve without pay, but shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties.
 - **(e)** The Center shall be located at or near Starkville, Mississippi, the location of Mississippi State University.
+
+## Source Credit
+
+*([Pub. L. 100–458, title I, § 114](https://www.govinfo.gov/link/plaw/100/public/458), Oct. 1, 1988, [102 Stat. 2173](https://www.govinfo.gov/link/statute/102/2173).)*

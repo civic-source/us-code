@@ -3,9 +3,10 @@ title: "Section 1516 - Presumptions concerning recognition"
 usc_title: 11
 usc_section: "1516"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 1516"
-generated_at: "2026-03-30T02:53:53.888Z"
+generated_at: "2026-11-23T20:25:55.443Z"
+status: "active"
 ---
 
 # § 1516. Presumptions concerning recognition
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:53:53.888Z"
 - **(a)** If the decision or certificate referred to in section 1515(b) indicates that the foreign proceeding is a foreign proceeding and that the person or body is a foreign representative, the court is entitled to so presume.
 - **(b)** The court is entitled to presume that documents submitted in support of the petition for recognition are authentic, whether or not they have been legalized.
 - **(c)** In the absence of evidence to the contrary, the debtor’s registered office, or habitual residence in the case of an individual, is presumed to be the center of the debtor’s main interests.
+
+## Source Credit
+
+*(Added [Pub. L. 109–8, title VIII, § 801(a)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 139](https://www.govinfo.gov/link/statute/119/139).)*

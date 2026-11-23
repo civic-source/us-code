@@ -3,9 +3,10 @@ title: "Section 2354 - Penalties; waivers; exceptions"
 usc_title: 21
 usc_section: "2354"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 2354"
-generated_at: "2026-03-30T02:54:54.312Z"
+generated_at: "2026-11-23T20:26:27.914Z"
+status: "active"
 ---
 
 # § 2354. Penalties; waivers; exceptions
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:54.312Z"
     - **(A)** to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success on June 26, 1947 , and entered into force November 21, 1947 , between the United Nations and the United States, or other applicable international obligations of the United States; or
     - **(B)** to carry out or assist law enforcement activity of the United States.
   - **(3)** The President may not impose sanctions under this subchapter with respect to any person for conducting or facilitating a transaction for the sale of agricultural commodities, food, medicine, or medical devices or for the provision of humanitarian assistance.
+
+## Source Credit
+
+*([Pub. L. 118–50, div. E, title I, § 3104](https://www.govinfo.gov/link/plaw/118/public/50), Apr. 24, 2024, [138 Stat. 937](https://www.govinfo.gov/link/statute/138/937).)*

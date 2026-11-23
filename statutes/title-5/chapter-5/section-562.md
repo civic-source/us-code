@@ -3,9 +3,10 @@ title: "Section 562 - Definitions"
 usc_title: 5
 usc_section: "562"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 562"
-generated_at: "2026-03-30T02:52:55.989Z"
+generated_at: "2026-11-23T20:25:31.722Z"
+status: "active"
 ---
 
 # § 562. Definitions
@@ -25,3 +26,7 @@ For the purposes of this subchapter, the term—
   - **(9)** “person” has the same meaning as in section 551(2) of this title ;
   - **(10)** “rule” has the same meaning as in section 551(4) of this title ; and
   - **(11)** “rulemaking” means “rule making” as that term is defined in section 551(5) of this title .
+
+## Source Credit
+
+*(Added [Pub. L. 101–648, § 3(a)](https://www.govinfo.gov/link/plaw/101/public/648), Nov. 29, 1990, [104 Stat. 4970](https://www.govinfo.gov/link/statute/104/4970), § 582; renumbered § 562, [Pub. L. 102–354, § 3(a)(2)](https://www.govinfo.gov/link/plaw/102/public/354), Aug. 26, 1992, [106 Stat. 944](https://www.govinfo.gov/link/statute/106/944); amended [Pub. L. 117–286, § 4(a)(5)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4305](https://www.govinfo.gov/link/statute/136/4305).)*

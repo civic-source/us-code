@@ -3,9 +3,10 @@ title: "Section 4151 - Pay and benefits pending conversion"
 usc_title: 22
 usc_section: "4151"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4151"
-generated_at: "2026-03-30T02:55:05.408Z"
+generated_at: "2026-11-23T20:26:32.524Z"
+status: "active"
 ---
 
 # § 4151. Pay and benefits pending conversion
@@ -14,3 +15,7 @@ Until converted under the provisions of this subchapter, any individual who is i
 
   - **(1)** in the case of an individual who is in the Foreign Service on October 17, 1980 , on the first day of the first pay period which begins on or after October 1, 1980 , and
   - **(2)** in the case of an individual who is appointed to the Foreign Service after October 17, 1980 , on the date such appointment becomes effective.
+
+## Source Credit
+
+*([Pub. L. 96–465, title II, § 2101](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2148](https://www.govinfo.gov/link/statute/94/2148).)*

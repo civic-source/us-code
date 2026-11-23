@@ -3,9 +3,10 @@ title: "Section 271 - Bell operating company entry into interLATA services"
 usc_title: 47
 usc_section: "271"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 271"
-generated_at: "2026-03-30T02:56:24.502Z"
+generated_at: "2026-11-23T20:27:28.855Z"
+status: "active"
 ---
 
 # § 271. Bell operating company entry into interLATA services
@@ -88,3 +89,7 @@ generated_at: "2026-03-30T02:56:24.502Z"
 - **(j)** For purposes of this section, a Bell operating company application to provide 800 service, private line service, or their equivalents that—
   - **(1)** terminate in an in-region State of that Bell operating company, and
   - **(2)** allow the called party to determine the interLATA carrier,
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title II, § 271, as added [Pub. L. 104–104, title I, § 151(a)](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 86](https://www.govinfo.gov/link/statute/110/86).)*

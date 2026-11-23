@@ -3,9 +3,10 @@ title: "Section 3341 - Functions of Federal financial institutions regulatory ag
 usc_title: 12
 usc_section: "3341"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 3341"
-generated_at: "2026-03-30T02:53:53.493Z"
+generated_at: "2026-11-23T20:25:59.332Z"
+status: "active"
 ---
 
 # § 3341. Functions of Federal financial institutions regulatory agencies relating to appraiser qualifications
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:53.493Z"
     - **(C)** the cost to any customer involved in any such transaction; and
     - **(D)** the effect on low-income housing.
   - **(2)** Upon completing each of the studies referred to in paragraph (1), the Comptroller General shall submit a report on the Comptroller General’s findings and conclusions with respect to such study to the Federal financial institutions regulatory agencies, the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Committee on Banking, Housing, and Urban Affairs of the Senate, together with such recommendations for legislative or administrative action as the Comptroller General determines to be appropriate.
+
+## Source Credit
+
+*([Pub. L. 101–73, title XI, § 1112](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 514](https://www.govinfo.gov/link/statute/103/514); [Pub. L. 102–550, title IX, § 954](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3894](https://www.govinfo.gov/link/statute/106/3894); [Pub. L. 104–208, div. A, title II, § 2704(d)(15)(B)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–495](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 104–316, title I, § 106(g)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3831](https://www.govinfo.gov/link/statute/110/3831); [Pub. L. 109–171, title II, § 2102(b)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 9](https://www.govinfo.gov/link/statute/120/9); [Pub. L. 109–173, § 9(g)(2)](https://www.govinfo.gov/link/plaw/109/public/173), Feb. 15, 2006, [119 Stat. 3618](https://www.govinfo.gov/link/statute/119/3618); [Pub. L. 111–203, title XIV, § 1473(a)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2190](https://www.govinfo.gov/link/statute/124/2190).)*

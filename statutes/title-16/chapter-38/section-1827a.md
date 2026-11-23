@@ -3,9 +3,10 @@ title: "Section 1827a - Prohibition on sale of billfish"
 usc_title: 16
 usc_section: "1827a"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1827a"
-generated_at: "2026-03-30T02:54:22.986Z"
+generated_at: "2026-11-23T20:26:20.559Z"
+status: "active"
 ---
 
 # § 1827a. Prohibition on sale of billfish
@@ -27,3 +28,9 @@ generated_at: "2026-03-30T02:54:22.986Z"
     - **(H)** Tetrapturus belone (Mediterranean spearfish); and
     - **(I)** Tetrapturus pfluegeri (longbill spearfish); and
   - **(2)** does not include the species Xiphias gladius (swordfish).
+
+“Congress finds the following:
+
+## Source Credit
+
+*([Pub. L. 112–183, § 4](https://www.govinfo.gov/link/plaw/112/public/183), Oct. 5, 2012, [126 Stat. 1422](https://www.govinfo.gov/link/statute/126/1422); [Pub. L. 115–228, § 1](https://www.govinfo.gov/link/plaw/115/public/228), Aug. 2, 2018, [132 Stat. 1628](https://www.govinfo.gov/link/statute/132/1628).)*

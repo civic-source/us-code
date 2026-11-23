@@ -3,9 +3,10 @@ title: "Section 17302 - Prohibition on false information"
 usc_title: 42
 usc_section: "17302"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17302"
-generated_at: "2026-03-30T02:56:11.504Z"
+generated_at: "2026-11-23T20:27:23.749Z"
+status: "active"
 ---
 
 # § 17302. Prohibition on false information
@@ -15,3 +16,7 @@ It is unlawful for any person to report information related to the wholesale pri
   - **(1)** the person knew, or reasonably should have known, the information to be false or misleading;
   - **(2)** the information was required by law to be reported; and
   - **(3)** the person intended the false or misleading data to affect data compiled by the department or agency for statistical or analytical purposes with respect to the market for crude oil, gasoline, or petroleum distillates.
+
+## Source Credit
+
+*([Pub. L. 110–140, title VIII, § 812](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1723](https://www.govinfo.gov/link/statute/121/1723).)*

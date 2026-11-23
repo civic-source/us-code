@@ -3,9 +3,10 @@ title: "Section 430 - Minimum funding standards for single-employer defined bene
 usc_title: 26
 usc_section: "430"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 430"
-generated_at: "2026-03-30T02:55:27.692Z"
+generated_at: "2026-11-23T20:26:45.705Z"
+status: "active"
 ---
 
 # § 430. Minimum funding standards for single-employer defined benefit pension plans
@@ -389,3 +390,195 @@ generated_at: "2026-03-30T02:55:27.692Z"
       - **(iv)** Does not have a bona fide list of paid subscribers.
     - **(C)** A person shall be treated as controlled by another person if such other person possesses, directly or indirectly, the power to direct or cause the direction and management of such person (including the power to elect a majority of the members of the board of directors of such person) through the ownership of voting securities.
   - **(6)** For purposes of this subsection, the term “controlled group” means all persons treated as a single employer under subsection (b), (c), (m), or ( o ) of section 414 as of December 20, 2019 .
+
+| If the calendar year is: | The applicable minimum percentage is: | The applicable maximum percentage is: |
+| --- | --- | --- |
+| Any year in the period starting in 2012 and ending in 2019 | 90% | 110% |
+| Any year in the period starting in 2020 and ending in 2030 | 95% | 105% |
+| 2031 | 90% | 110% |
+| 2032 | 85% | 115% |
+| 2033 | 80% | 120% |
+| 2034 | 75% | 125% |
+| After 2034 | 70% | 130%. |
+
+| If the consecutive number of years (including the plan year) the plan is in at-risk status is— | The transition percentage is— |
+| --- | --- |
+| 1 | 20 |
+| 2 | 40 |
+| 3 | 60 |
+| 4 | 80. |
+
+|  | In the case of the following required installment: | The due date is: |
+| --- | --- | --- |
+|  | 1st | April 15 |
+|  | 2nd | July 15 |
+|  | 3rd | October 15 |
+|  | 4th | January 15 of the following year. |
+
+| “In the case of a plan year beginning in calendar year: | The applicable percentage is: |
+| --- | --- |
+| 2008 | 90 percent |
+| 2009 | 92 percent |
+| 2010 | 94 percent |
+| 2011 | 96 percent. |
+
+
+Any year in the period starting in 2012 and ending in 2019
+
+Any year in the period starting in 2020 and ending in 2030
+
+2031
+
+2032
+
+2033
+
+2034
+
+After 2034
+
+1
+
+2
+
+3
+
+4
+
+1st
+
+2nd
+
+3rd
+
+4th
+
+In general
+
+Election not to apply
+
+In general
+
+Elections
+
+In general
+
+Special rule
+
+In general
+
+Election for earlier application
+
+Delay in Payment of Minimum Required Contributions
+
+Benefit Restriction Status
+
+In General
+
+Effective Date
+
+Credibility
+
+Effective Date
+
+In General
+
+Modified Rules
+
+2008
+
+2009
+
+2010
+
+2011
+
+Definitions
+
+In General
+
+Alternative Funding Schedule.—
+
+In general
+
+Accrual restrictions.—
+
+In general
+
+Increases in section 415 limits
+
+Restriction on applicable benefit increases.—
+
+In general
+
+Applicable benefit increase
+
+Exception for imputed disability service
+
+Definitions
+
+Eligible plan
+
+Applicable plan year
+
+Elections and Related Terms.—
+
+Years for which election made.—
+
+Alternative funding schedule
+
+year amortization
+
+Election of new plan year for alternative funding schedule
+
+Manner of election
+
+Minimum Required Contribution
+
+In general
+
+Years after amortization period
+
+Definitions
+
+Unfunded liability
+
+Amortization period
+
+Other rules
+
+Special rule for certain plan spinoffs
+
+Special Rules for Certain Balances and Waivers
+
+Funding standard account and credit balances
+
+Waived funding deficiencies
+
+Other Rules for Plans Making Election Under This Section.—
+
+Successor plans to certain plans
+
+Special rules for terminations.—
+
+liability limited
+
+Termination premium
+
+Limitation on deductions under certain plans
+
+Notice
+
+Exclusion of Certain Employees From Minimum Coverage Requirements.—
+
+In general
+
+Effective date
+
+Extension of Special Rule for Additional Funding Requirements
+
+Effective Date
+
+## Source Credit
+
+*(Added [Pub. L. 109–280, title I, § 112(a)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 826](https://www.govinfo.gov/link/statute/120/826); amended [Pub. L. 110–458, title I](https://www.govinfo.gov/link/plaw/110/public/458), §§ 101(b)(2), 121(b), title II, § 202(b), Dec. 23, 2008, [122 Stat. 5095](https://www.govinfo.gov/link/statute/122/5095), 5113, 5118; [Pub. L. 111–192, title II](https://www.govinfo.gov/link/plaw/111/public/192), §§ 201(b), 204(b), June 25, 2010, [124 Stat. 1290](https://www.govinfo.gov/link/statute/124/1290), 1301; [Pub. L. 112–141, div. D, title II, § 40211(a)(1)](https://www.govinfo.gov/link/plaw/112/public/141), (2)(B), July 6, 2012, [126 Stat. 846](https://www.govinfo.gov/link/statute/126/846), 847; [Pub. L. 113–159, title II, § 2003(a)](https://www.govinfo.gov/link/plaw/113/public/159), (d)(1), Aug. 8, 2014, [128 Stat. 1849](https://www.govinfo.gov/link/statute/128/1849), 1851; [Pub. L. 113–295, div. A, title II, § 221(a)(57)(C)(i)](https://www.govinfo.gov/link/plaw/113/public/295), (D)(i), Dec. 19, 2014, [128 Stat. 4046](https://www.govinfo.gov/link/statute/128/4046); [Pub. L. 114–74, title V, § 504(a)](https://www.govinfo.gov/link/plaw/114/public/74), Nov. 2, 2015, [129 Stat. 593](https://www.govinfo.gov/link/statute/129/593); [Pub. L. 115–97, title I, § 11002(d)(1)(X)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2060](https://www.govinfo.gov/link/statute/131/2060); [Pub. L. 115–141, div. U, title IV, § 401(a)(99)](https://www.govinfo.gov/link/plaw/115/public/141), (100), Mar. 23, 2018, [132 Stat. 1189](https://www.govinfo.gov/link/statute/132/1189); [Pub. L. 116–94, div. O, title I, § 115(a)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3156](https://www.govinfo.gov/link/statute/133/3156); [Pub. L. 117–2, title IX](https://www.govinfo.gov/link/plaw/117/public/2), §§ 9705(a), 9706(a), 9707(a), Mar. 11, 2021, [135 Stat. 199](https://www.govinfo.gov/link/statute/135/199), 200, 202; [Pub. L. 117–58, div. H, title VI, § 80602(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1338](https://www.govinfo.gov/link/statute/135/1338).)*

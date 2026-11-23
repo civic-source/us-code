@@ -3,9 +3,10 @@ title: "Section 679a - National Adoption Information Clearinghouse"
 usc_title: 42
 usc_section: "679a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 679a"
-generated_at: "2026-03-30T02:56:10.892Z"
+generated_at: "2026-11-23T20:27:20.930Z"
+status: "active"
 ---
 
 # § 679a. National Adoption Information Clearinghouse
@@ -24,3 +25,7 @@ The Secretary of Health and Human Services shall establish, either directly or b
     - **(H)** any other information relating to adoption for pregnant women, infertile couples, adoptive parents, unmarried individuals who want to adopt children, individuals who have been adopted, birth parents who have placed a child for adoption, adoption agencies, social workers, counselors, or other individuals who work in the adoption field;
   - **(3)** disseminate the information compiled and maintained pursuant to paragraph (1) and the directories compiled and maintained pursuant to paragraph (2); and
   - **(4)** upon the establishment of an adoption and foster care data collection system pursuant to section 679 of this title , disseminate the data and information made available through that system.
+
+## Source Credit
+
+*([Pub. L. 99–509, title IX, § 9442](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 2073](https://www.govinfo.gov/link/statute/100/2073).)*

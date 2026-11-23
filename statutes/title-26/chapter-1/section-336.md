@@ -3,9 +3,10 @@ title: "Section 336 - Gain or loss recognized on property distributed in complet
 usc_title: 26
 usc_section: "336"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 336"
-generated_at: "2026-03-30T02:55:27.665Z"
+generated_at: "2026-11-23T20:26:45.573Z"
+status: "active"
 ---
 
 # § 336. Gain or loss recognized on property distributed in complete liquidation
@@ -33,3 +34,75 @@ generated_at: "2026-03-30T02:55:27.665Z"
 - **(e)** Under regulations prescribed by the Secretary, if—
   - **(1)** a corporation owns stock in another corporation meeting the requirements of section 1504(a)(2), and
   - **(2)** such corporation sells, exchanges, or distributes all of such stock,
+
+General Rule
+
+Built-In Gains of S Corporations.—
+
+In general
+
+Application of prior law
+
+Exception for Certain Plans of Liquidation and Binding Contracts.—
+
+In general
+
+Special rule for certain actions taken before november 20, 1985
+
+Transitional Rule for Certain Small Corporations.—
+
+In general
+
+Paragraph (1) not to apply to certain items
+
+Applicable percentage
+
+Applicable value
+
+Qualified corporation
+
+Definitions and special rules
+
+Qualified group.—
+
+In general
+
+-year ownership requirement not to apply in certain cases
+
+Qualified person
+
+Attribution rules.—
+
+In general
+
+Family members
+
+Treatment of certain trusts
+
+Special holding period rules
+
+Controlled group of corporations
+
+Section 338 transactions
+
+Application of section 1374
+
+Application to nonliquidating distributions
+
+Complete Liquidation Defined
+
+Other Transitional Rules.—
+
+Treatment of Certain Distributions in Response To Hostile Tender Offer.—
+
+In general
+
+Qualified Distribution Defined
+
+In general
+
+Qualified subsidiary
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title VI, § 631(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2269](https://www.govinfo.gov/link/statute/100/2269); amended [Pub. L. 100–647, title I](https://www.govinfo.gov/link/plaw/100/public/647), §§ 1006(e)(1)–(3), (21)(A), 1018(d)(5)(D), Nov. 10, 1988, [102 Stat. 3400](https://www.govinfo.gov/link/statute/102/3400), 3403, 3580.)*

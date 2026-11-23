@@ -3,9 +3,10 @@ title: "Section 3520 - Chief Data Officers"
 usc_title: 44
 usc_section: "3520"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "44 U.S.C. § 3520"
-generated_at: "2026-03-30T02:55:56.297Z"
+generated_at: "2026-11-23T20:27:03.833Z"
+status: "active"
 ---
 
 # § 3520. Chief Data Officers
@@ -32,3 +33,23 @@ generated_at: "2026-03-30T02:55:56.297Z"
   - **(2)** To the extent permissible under law, the individual to whom a responsibility has been delegated under paragraph (1) shall consult with the Chief Data Officer of the agency in carrying out such responsibility.
   - **(3)** The Chief Data Officer of the agency shall defer to the individual to whom a responsibility has been delegated under paragraph (1) regarding the necessary delegation of such responsibility with respect to any data acquired, maintained, or disseminated by the agency under applicable statistical law.
 - **(e)** The Chief Data Officer of an agency shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives an annual report on the compliance of the agency with the requirements of this subchapter, including information on each requirement that the agency could not carry out and, if applicable, what the agency needs to carry out such requirement.
+
+Establishment
+
+Qualifications
+
+Functions
+
+Delegation of Responsibilities.—
+
+In general
+
+Consultation
+
+Deference
+
+Reports
+
+## Source Credit
+
+*(Added [Pub. L. 107–198, § 3(a)(2)](https://www.govinfo.gov/link/plaw/107/public/198), June 28, 2002, [116 Stat. 730](https://www.govinfo.gov/link/statute/116/730); amended [Pub. L. 115–435, title II, § 202(e)(1)](https://www.govinfo.gov/link/plaw/115/public/435), Jan. 14, 2019, [132 Stat. 5541](https://www.govinfo.gov/link/statute/132/5541).)*

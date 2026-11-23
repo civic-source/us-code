@@ -3,9 +3,10 @@ title: "Section 458 - Relative of justice or judge ineligible to appointment"
 usc_title: 28
 usc_section: "458"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 458"
-generated_at: "2026-03-30T02:55:30.129Z"
+generated_at: "2026-11-23T20:26:36.351Z"
+status: "active"
 ---
 
 # § 458. Relative of justice or judge ineligible to appointment
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:30.129Z"
       - **(i)** means an active judge or a judge retired in senior status under section 371(b); and
       - **(ii)** shall not include a retired judge, except as described under clause (i).
   - **(2)** No person may be appointed to the position of judge of a court exercising judicial power under article III of the United States Constitution (other than the Supreme Court) who is related by affinity or consanguinity within the degree of first cousin to any judge who is a member of the same court.
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 908](https://www.govinfo.gov/link/statute/62/908); [Pub. L. 105–300, § 1(a)](https://www.govinfo.gov/link/plaw/105/public/300), Oct. 27, 1998, [112 Stat. 2836](https://www.govinfo.gov/link/statute/112/2836).)*

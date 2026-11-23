@@ -3,9 +3,10 @@ title: "Section 1012 - Basis of property—cost"
 usc_title: 26
 usc_section: "1012"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1012"
-generated_at: "2026-03-30T02:55:27.753Z"
+generated_at: "2026-11-23T20:26:46.009Z"
+status: "active"
 ---
 
 # § 1012. Basis of property—cost
@@ -29,3 +30,11 @@ generated_at: "2026-03-30T02:55:27.753Z"
   - **(4)** For purposes of this subsection—
     - **(A)** The term “dividend reinvestment plan” means any arrangement under which dividends on any stock are reinvested in stock identical to the stock with respect to which the dividends are paid.
     - **(B)** Stock shall be treated as acquired in connection with a dividend reinvestment plan if such stock is acquired pursuant to such plan or if the dividends paid on such stock are subject to such plan.
+
+In general
+
+Extension of period for statements sent to customers
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 296; [Pub. L. 110–343, div. B, title IV, § 403(b)](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3857](https://www.govinfo.gov/link/statute/122/3857); [Pub. L. 113–295, div. A, title II](https://www.govinfo.gov/link/plaw/113/public/295), §§ 210(f)(1)–(3), 220(n), Dec. 19, 2014, [128 Stat. 4031](https://www.govinfo.gov/link/statute/128/4031), 4032, 4036.)*

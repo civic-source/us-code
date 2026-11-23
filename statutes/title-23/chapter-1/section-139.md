@@ -3,9 +3,10 @@ title: "Section 139 - Efficient environmental reviews for project decisionmaking
 usc_title: 23
 usc_section: "139"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 139"
-generated_at: "2026-03-30T02:55:12.556Z"
+generated_at: "2026-11-23T20:26:23.791Z"
+status: "active"
 ---
 
 # § 139. Efficient environmental reviews for project decisionmaking and One Federal Decision
@@ -344,3 +345,421 @@ generated_at: "2026-03-30T02:55:12.556Z"
   - **(3)**
     - **(A)** Not later than 1 year after the date on which the Secretary provides a list under paragraph (1)(C), an agency described in paragraph (2) shall publish a notice of proposed rulemaking to propose any categorical exclusions from the list applicable to the agency, subject to the condition that the categorical exclusion identified under paragraph (1)(A) meets the criteria for a categorical exclusion under section 1508.1 of title 40, Code of Federal Regulations (or successor regulations).
     - **(B)** In a notice of proposed rulemaking under subparagraph (A), the applicable agency may solicit comments on whether any of the proposed new categorical exclusions meet the criteria for a categorical exclusion under section 1508.1 of title 40, Code of Federal Regulations (or successor regulations).
+
+Definitions
+
+Agency
+
+Authorization
+
+Environmental document
+
+Environmental impact statement
+
+Environmental review process.—
+
+In general
+
+Inclusions
+
+Lead agency
+
+Major project.—
+
+In general
+
+Clarification
+
+Multimodal project
+
+Project.—
+
+In general
+
+Considerations
+
+Project sponsor
+
+State transportation department
+
+Applicability.—
+
+In general
+
+Flexibility
+
+Programmatic compliance.—
+
+In general
+
+Requirements
+
+Lead Agencies.—
+
+Federal lead agency.—
+
+In general
+
+Modal administration
+
+Joint lead agencies
+
+Project sponsor as joint lead agency
+
+Ensuring compliance
+
+Adoption and use of documents
+
+Roles and responsibility of lead agency
+
+Process improvements for projects.—
+
+In general
+
+Consultation
+
+Report
+
+Participating Agencies.—
+
+In general
+
+Invitation
+
+Federal participating agencies
+
+Effect of designation.—
+
+Requirement
+
+Implication
+
+Cooperating agency
+
+Designations for categories of projects
+
+Concurrent reviews
+
+Single environmental document.—
+
+In general
+
+Use of document
+
+In general
+
+Cooperation of participating agencies
+
+Treatment as participating and cooperating agencies
+
+Exceptions
+
+Participating agency responsibilities
+
+Timely authorizations for major projects.—
+
+Deadline
+
+Detail
+
+Extension of deadline
+
+Project Initiation
+
+In general
+
+Submission of documents
+
+Review of application
+
+Request to designate a lead agency.—
+
+In general
+
+Secretarial action.—
+
+In general
+
+Requirements
+
+Additional information
+
+Environmental checklist.—
+
+Development
+
+Purpose
+
+Purpose and Need; Alternatives Analysis.—
+
+Participation
+
+Definition
+
+Objectives
+
+Alternatives analysis.—
+
+Participation.—
+
+Comments of participating agencies
+
+Effect of nonparticipation
+
+Range of alternatives
+
+Determination
+
+Use
+
+Methodologies
+
+Preferred alternative
+
+Reduction of duplication.—
+
+In general
+
+Consideration of alternatives
+
+(aa) in consultation with Federal participating or cooperating agencies, that the alternative to be eliminated from consideration is not necessary for compliance with the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.); or
+
+(bb) with the concurrence of Federal agencies with jurisdiction over a permit or approval required for a project, that the alternative to be eliminated from consideration is not necessary for any permit or approval under any other Federal law.
+
+Coordination and Scheduling.—
+
+Coordination plan.—
+
+In general
+
+Schedule.—
+
+In general
+
+Factors for consideration
+
+Major project schedule
+
+Consistency with other time periods
+
+Modification.—
+
+In general
+
+Exceptions.—
+
+Major projects
+
+Shortened schedules
+
+Failure to meet deadline
+
+Dissemination
+
+Comment deadlines
+
+Deadlines for decisions under other laws
+
+Involvement of the public
+
+Issue Identification and Resolution.—
+
+Cooperation
+
+Lead agency responsibilities
+
+Participating agency responsibilities
+
+Issue resolution
+
+Interim decision on achieving accelerated decisionmaking.—
+
+In general
+
+Deadlines
+
+Failure to assure
+
+Accelerated issue resolution and referral.—
+
+Agency issue resolution meeting.—
+
+In general
+
+Action by lead agency
+
+Date
+
+Notification
+
+Disputes
+
+Convention by lead agency
+
+Elevation of issue resolution.—
+
+In general
+
+Requirements
+
+Referral of issue resolution.—
+
+Referral to council on environmental quality.—
+
+In general
+
+Meeting
+
+Referral to the president
+
+Financial penalty provisions.—
+
+In general
+
+Failure to decide.—
+
+In general
+
+Description of date
+
+(aa) the date that is 180 days after the date on which an application for the permit, license, or approval is complete; and
+
+(bb) the date that is 180 days after the date on which the Federal lead agency issues a decision on the project under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.); or
+
+Limitations.—
+
+In general
+
+Failure to decide
+
+No fault of agency
+
+Limitation
+
+Audits
+
+Effect of paragraph
+
+Expedient decisions and reviews
+
+Performance Measurement
+
+Assistance to Affected State and Federal Agencies.—
+
+In general.—
+
+Authority to provide funds
+
+Use of funds
+
+Activities eligible for funding
+
+Use of federal lands highway funds
+
+Amounts
+
+Condition
+
+Agreement
+
+Judicial Review and Savings Clause.—
+
+Judicial review
+
+Savings clause
+
+Limitations
+
+Limitations on Claims.—
+
+In general
+
+New information
+
+Enhanced Technical Assistance and Accelerated Project Completion.—
+
+Definition of covered project
+
+Technical assistance
+
+Scope of work.—
+
+In general
+
+Schedule.—
+
+In general
+
+Inclusions
+
+Consultation
+
+Enforcement.—
+
+In general
+
+Restriction
+
+Accelerated Decisionmaking in Environmental Reviews.—
+
+In general
+
+Single document
+
+Length of environmental document.—
+
+In general
+
+Exemption
+
+Improving Transparency in Environmental Reviews.—
+
+In general
+
+Federal, state, and local agency participation.—
+
+Federal agencies
+
+State and local agencies
+
+States with delegated authority
+
+Accountability and Reporting for Major Projects.—
+
+In general
+
+Requirements
+
+Development of Categorical Exclusions.—
+
+In general
+
+Agencies described
+
+Adoption of categorical exclusions.—
+
+In general
+
+Public comment
+
+Rulemaking
+
+Consultation
+
+Requirements
+
+Comment period
+
+In General
+
+Technical Assistance
+
+Memorandum of Agency Agreement
+
+Early Coordination Activities
+
+Barack Obama.
+
+## Source Credit
+
+*(Added [Pub. L. 109–59, title VI, § 6002(a)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1857](https://www.govinfo.gov/link/statute/119/1857); amended [Pub. L. 112–141, div. A, title I](https://www.govinfo.gov/link/plaw/112/public/141), §§ 1305–1309, July 6, 2012, [126 Stat. 533–539](https://www.govinfo.gov/link/statute/126/533); [Pub. L. 114–94, div. A, title I, § 1304(a)](https://www.govinfo.gov/link/plaw/114/public/94) –(j)(1), Dec. 4, 2015, [129 Stat. 1378–1385](https://www.govinfo.gov/link/statute/129/1378); [Pub. L. 117–58, div. A, title I](https://www.govinfo.gov/link/plaw/117/public/58), §§ 11301(a), 11525(h), Nov. 15, 2021, [135 Stat. 525](https://www.govinfo.gov/link/statute/135/525), 607.)*

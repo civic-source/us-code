@@ -3,9 +3,10 @@ title: "Section 6702 - Contracts to which this chapter applies"
 usc_title: 41
 usc_section: "6702"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 6702"
-generated_at: "2026-03-30T02:55:55.810Z"
+generated_at: "2026-11-23T20:27:04.473Z"
+status: "active"
 ---
 
 # § 6702. Contracts to which this chapter applies
@@ -22,3 +23,41 @@ generated_at: "2026-03-30T02:55:55.810Z"
   - **(5)** a contract for public utility services, including electric light and power, water, steam, and gas;
   - **(6)** an employment contract providing for direct services to a Federal agency by an individual; and
   - **(7)** a contract with the United States Postal Service, the principal purpose of which is the operation of postal contract stations.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 6702(a) | 41:351(a) (words before par. (1) related to applicability). | Pub. L. 89–286, § 2(a) (words before par. (1) related to applicability), Oct. 22, 1965 , 79 Stat. 1034 ; Pub. L. 94–489, § 1(a) , Oct. 13, 1976 , 90 Stat. 2358 . |
+| 6702(b) | 41:356. | Pub. L. 89–286, § 7 , Oct. 22, 1965 , 79 Stat. 1035 . |
+
+
+In General
+
+Exemptions
+
+Historical and Revision Notes
+
+6702(a)
+
+Pub. L. 89–286, § 2(a)
+
+Oct. 22, 1965
+
+79 Stat. 1034
+
+Pub. L. 94–489, § 1(a)
+
+Oct. 13, 1976
+
+90 Stat. 2358
+
+6702(b)
+
+Pub. L. 89–286, § 7
+
+Oct. 22, 1965
+
+79 Stat. 1035
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3812](https://www.govinfo.gov/link/statute/124/3812).)*

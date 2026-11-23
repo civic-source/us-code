@@ -3,9 +3,10 @@ title: "Section 6501 - Definitions"
 usc_title: 15
 usc_section: "6501"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 6501"
-generated_at: "2026-03-30T02:54:08.211Z"
+generated_at: "2026-11-23T20:26:04.396Z"
+status: "active"
 ---
 
 # § 6501. Definitions
@@ -49,3 +50,9 @@ In this chapter:
     - **(B)** A commercial website or online service, or a portion of a commercial website or online service, shall not be deemed directed to children solely for referring or linking to a commercial website or online service directed to children by using information location tools, including a directory, index, reference, pointer, or hypertext link.
   - **(11)** The term “person” means any individual, partnership, corporation, trust, estate, cooperative, association, or other entity.
   - **(12)** The term “online contact information” means an e-mail address or another substantially similar identifier that permits direct contact with a person online.
+
+“Sections 1303(a), 1305, and 1306 of this title [enacting sections 6502(a), 6504, and 6505 of this title] take effect on the later of—
+
+## Source Credit
+
+*([Pub. L. 105–277, div. C, title XIII, § 1302](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–728](https://www.govinfo.gov/link/statute/112/2681).)*

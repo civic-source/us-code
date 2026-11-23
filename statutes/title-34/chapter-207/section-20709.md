@@ -3,9 +3,10 @@ title: "Section 20709 - Combat Human Trafficking Act"
 usc_title: 34
 usc_section: "20709"
 chapter: 207
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 20709"
-generated_at: "2026-03-30T02:55:33.299Z"
+generated_at: "2026-11-23T20:26:50.603Z"
+status: "active"
 ---
 
 # § 20709. Combat Human Trafficking Act
@@ -54,3 +55,9 @@ generated_at: "2026-03-30T02:55:33.299Z"
     - **(E)** include—
       - **(i)** procedures and practices to ensure that the screening process minimizes trauma or revictimization of the person being screened; and
       - **(ii)** guidelines on assisting victims of human trafficking in identifying and receiving victim services.
+
+“Not later than 180 days after the date of enactment of this Act [ May 29, 2015 ], the Attorney General shall ensure that—
+
+## Source Credit
+
+*([Pub. L. 109–164, title II, § 209](https://www.govinfo.gov/link/plaw/109/public/164), formerly [Pub. L. 114–22, title I, § 114](https://www.govinfo.gov/link/plaw/114/public/22), May 29, 2015, [129 Stat. 241](https://www.govinfo.gov/link/statute/129/241); [Pub. L. 115–393, title V, § 502](https://www.govinfo.gov/link/plaw/115/public/393), Dec. 21, 2018, [132 Stat. 5276](https://www.govinfo.gov/link/statute/132/5276); [Pub. L. 115–425, title I, § 121(b)](https://www.govinfo.gov/link/plaw/115/public/425), Jan. 8, 2019, [132 Stat. 5478](https://www.govinfo.gov/link/statute/132/5478); renumbered [§ 209 of Pub. L. 109–164](https://www.govinfo.gov/link/plaw/109/public/164), [Pub. L. 117–347, title I, § 106(b)(1)](https://www.govinfo.gov/link/plaw/117/public/347), Jan. 5, 2023, [136 Stat. 6204](https://www.govinfo.gov/link/statute/136/6204).)*

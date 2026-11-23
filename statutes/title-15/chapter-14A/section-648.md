@@ -3,9 +3,10 @@ title: "Section 648 - Small business development center program authorization"
 usc_title: 15
 usc_section: "648"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 648"
-generated_at: "2026-03-30T02:54:08.102Z"
+generated_at: "2026-11-23T20:26:03.813Z"
+status: "active"
 ---
 
 # § 648. Small business development center program authorization
@@ -199,3 +200,111 @@ generated_at: "2026-03-30T02:54:08.102Z"
   - **(5)**
     - **(A)** Subject to the availability of appropriations, the Administrator may reimburse each lead small business development center for costs relating to the certification of 1 or more employees of the lead small business center in providing cyber planning assistance under a program established or designated under paragraph (2).
     - **(B)** The total amount reimbursed by the Administrator under subparagraph (A) may not exceed $350,000 in any fiscal year.
+
+Cooperation to provide international trade services.—
+
+Information and services
+
+Cooperation with state trade agencies and export assistance centers
+
+Definition
+
+Small business development center program level.—
+
+In general
+
+Restriction
+
+Funding formula.—
+
+In general
+
+Grant determination
+
+Minimum funding level
+
+Distributions
+
+Use of amounts.—
+
+In general
+
+(aa) not more than $500,000 may be used by the Administration to pay expenses enumerated in subparagraphs (B) through (D) of section 20(a)(1); 2 and
+
+(bb) not more than $500,000 may be used by the Administration to pay the examination expenses enumerated in section 20(a)(1)(E). 2
+
+Limitation
+
+Exclusions
+
+Authorization of appropriations
+
+Limitation
+
+State defined
+
+Federal contracts with small business development centers.—
+
+In general
+
+Contract prerequisites
+
+Exemption from matching requirement
+
+Additional provision
+
+Privacy requirements.—
+
+In general
+
+Administrator use of information
+
+Regulations.—
+
+In general
+
+Maximum privacy protection
+
+Inspector general
+
+Cybersecurity assistance.—
+
+In general
+
+Definitions
+
+Assistance to out-of-state small business concerns.—
+
+In general
+
+Disaster recovery assistance.—
+
+In general
+
+Term.—
+
+In general
+
+Extension
+
+Continuity of services
+
+Access to disaster recovery facilities
+
+Amount
+
+Definitions
+
+Small Business Investment Company Program Outreach
+
+Small Business Microloan Program Outreach
+
+Small Business Development Center Outreach and Assistance.—
+
+Small business development centers.—
+
+In general
+
+## Source Credit
+
+*([Pub. L. 85–536, § 2[21]](https://www.govinfo.gov/link/plaw/85/public/536), as added [Pub. L. 96–302, title II, § 202](https://www.govinfo.gov/link/plaw/96/public/302), July 2, 1980, [94 Stat. 843](https://www.govinfo.gov/link/statute/94/843); amended [Pub. L. 98–395, § 2](https://www.govinfo.gov/link/plaw/98/public/395), Aug. 21, 1984, [98 Stat. 1366](https://www.govinfo.gov/link/statute/98/1366); [Pub. L. 100–418, title VIII, § 8006(b)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1557](https://www.govinfo.gov/link/statute/102/1557); [Pub. L. 100–590, title I](https://www.govinfo.gov/link/plaw/100/public/590), §§ 134, 135(3), Nov. 3, 1988, [102 Stat. 3006](https://www.govinfo.gov/link/statute/102/3006), 3007; [Pub. L. 101–515, title V](https://www.govinfo.gov/link/plaw/101/public/515), §§ 5(a), 6, Nov. 5, 1990, [104 Stat. 2142](https://www.govinfo.gov/link/statute/104/2142); [Pub. L. 101–574, title II, § 201(a)(1)](https://www.govinfo.gov/link/plaw/101/public/574), title III, § 303, Nov. 15, 1990, [104 Stat. 2818](https://www.govinfo.gov/link/statute/104/2818), 2828; [Pub. L. 102–366, title II](https://www.govinfo.gov/link/plaw/102/public/366), §§ 212, 223(a), Sept. 4, 1992, [106 Stat. 998](https://www.govinfo.gov/link/statute/106/998), 1000; [Pub. L. 103–81, § 9(a)](https://www.govinfo.gov/link/plaw/103/public/81), Aug. 13, 1993, [107 Stat. 783](https://www.govinfo.gov/link/statute/107/783); [Pub. L. 103–403, title IV](https://www.govinfo.gov/link/plaw/103/public/403), §§ 402–404, Oct. 22, 1994, [108 Stat. 4190](https://www.govinfo.gov/link/statute/108/4190), 4191; [Pub. L. 104–66, title II, § 2121](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 730](https://www.govinfo.gov/link/statute/109/730); [Pub. L. 104–121, title II, § 214(a)](https://www.govinfo.gov/link/plaw/104/public/121), Mar. 29, 1996, [110 Stat. 859](https://www.govinfo.gov/link/statute/110/859); [Pub. L. 104–208, div. D, title I, § 106](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–731](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 105–135, title V](https://www.govinfo.gov/link/plaw/105/public/135), §§ 502, 506(a), Dec. 2, 1997, [111 Stat. 2622](https://www.govinfo.gov/link/statute/111/2622), 2624; [Pub. L. 105–277, div. C, title IX, § 905](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–710](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 106–554, § 1(a)(9) [title V, § 503(e), title VIII, § 804(b)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–695, 2763A–703; [Pub. L. 107–20, title II, § 2203(b)](https://www.govinfo.gov/link/plaw/107/public/20), July 24, 2001, [115 Stat. 170](https://www.govinfo.gov/link/statute/115/170); [Pub. L. 108–447, div. K, title I](https://www.govinfo.gov/link/plaw/108/public/447), §§ 122, 142, Dec. 8, 2004, [118 Stat. 3449](https://www.govinfo.gov/link/statute/118/3449), 3454; [Pub. L. 110–186, title I, § 107](https://www.govinfo.gov/link/plaw/110/public/186), Feb. 14, 2008, [122 Stat. 627](https://www.govinfo.gov/link/statute/122/627); [Pub. L. 111–240, title I, § 1209](https://www.govinfo.gov/link/plaw/111/public/240), Sept. 27, 2010, [124 Stat. 2536](https://www.govinfo.gov/link/statute/124/2536); [Pub. L. 113–291, div. A, title VIII, § 823(a)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3436](https://www.govinfo.gov/link/statute/128/3436); [Pub. L. 114–88, div. B, title I, § 2103(a)](https://www.govinfo.gov/link/plaw/114/public/88), Nov. 25, 2015, [129 Stat. 690](https://www.govinfo.gov/link/statute/129/690); [Pub. L. 114–328, div. A, title XVIII](https://www.govinfo.gov/link/plaw/114/public/328), §§ 1842, 1843, Dec. 23, 2016, [130 Stat. 2663](https://www.govinfo.gov/link/statute/130/2663), 2664; [Pub. L. 115–232, div. A, title VIII, § 862(e)(2)(B)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1899](https://www.govinfo.gov/link/statute/132/1899); [Pub. L. 115–259, § 5](https://www.govinfo.gov/link/plaw/115/public/259), Oct. 9, 2018, [132 Stat. 3665](https://www.govinfo.gov/link/statute/132/3665); [Pub. L. 115–278, § 2(h)(2)](https://www.govinfo.gov/link/plaw/115/public/278), Nov. 16, 2018, [132 Stat. 4183](https://www.govinfo.gov/link/statute/132/4183); [Pub. L. 116–283, div. A, title VIII, § 867(1)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3786](https://www.govinfo.gov/link/statute/134/3786); [Pub. L. 117–263, div. G, title LXXI, § 7143(d)(9)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3664](https://www.govinfo.gov/link/statute/136/3664); [Pub. L. 117–319, § 2(a)](https://www.govinfo.gov/link/plaw/117/public/319), Dec. 27, 2022, [136 Stat. 4424](https://www.govinfo.gov/link/statute/136/4424).)*

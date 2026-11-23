@@ -3,9 +3,10 @@ title: "Section 5545c - Incident response premium pay for employees engaged in w
 usc_title: 5
 usc_section: "5545c"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 5545c"
-generated_at: "2026-03-30T02:52:56.020Z"
+generated_at: "2026-11-23T20:25:31.942Z"
+status: "active"
 ---
 
 # § 5545c. Incident response premium pay for employees engaged in wildland firefighting
@@ -54,3 +55,33 @@ generated_at: "2026-03-30T02:52:56.020Z"
   - **(3)** may not be used in determining pay under section 8114 (relating to compensation for work injuries);
   - **(4)** may not be considered in determining pay for hours of paid leave or other paid time off during which the premium pay is not payable; and
   - **(5)** shall be disregarded in determining the minimum wage and overtime pay to which a covered employee is entitled under the Fair Labor Standards Act of 1938 ( 29 U.S.C. 201 et seq.).
+
+Definitions
+
+Eligibility
+
+Entitlement to Incident Response Premium Pay.—
+
+In general
+
+Computation.—
+
+Formula
+
+Limitation
+
+Adjustments.—
+
+Assessment
+
+Report
+
+Administrative actions
+
+Congressional notification
+
+Treatment of Incident Response Premium Pay
+
+## Source Credit
+
+*(Added [Pub. L. 119–4, div. A, title VIII, § 1807](https://www.govinfo.gov/link/plaw/119/public/4), Mar. 15, 2025, [139 Stat. 30](https://www.govinfo.gov/link/statute/139/30).)*

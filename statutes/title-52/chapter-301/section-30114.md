@@ -3,9 +3,10 @@ title: "Section 30114 - Use of contributed amounts for certain purposes"
 usc_title: 52
 usc_section: "30114"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "52 U.S.C. § 30114"
-generated_at: "2026-03-30T02:56:30.171Z"
+generated_at: "2026-11-23T20:27:37.004Z"
+status: "active"
 ---
 
 # § 30114. Use of contributed amounts for certain purposes
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:56:30.171Z"
     - **(A)** Paragraphs (1) and (2) do not apply to a flight on an aircraft owned or leased by the candidate involved or an immediate family member of the candidate (including an aircraft owned by an entity that is not a public corporation in which the candidate or an immediate family member of the candidate has an ownership interest), so long as the candidate does not use the aircraft more than the candidate’s or immediate family member’s proportionate share of ownership allows.
     - **(B)** In this subparagraph (A), the term “immediate family member” means, with respect to a candidate, a father, mother, son, daughter, brother, sister, husband, wife, father-in-law, or mother-in-law.
   - **(4)** In this subsection, the term “leadership PAC” has the meaning given such term in section 30104(i)(8)(B) of this title .
+
+## Source Credit
+
+*([Pub. L. 92–225, title III, § 313](https://www.govinfo.gov/link/plaw/92/public/225), as added [Pub. L. 107–155, title III, § 301](https://www.govinfo.gov/link/plaw/107/public/155), Mar. 27, 2002, [116 Stat. 95](https://www.govinfo.gov/link/statute/116/95); amended [Pub. L. 108–447, div. H, title V, § 532](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3272](https://www.govinfo.gov/link/statute/118/3272); [Pub. L. 110–81, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/110/public/81), Sept. 14, 2007, [121 Stat. 774](https://www.govinfo.gov/link/statute/121/774).)*

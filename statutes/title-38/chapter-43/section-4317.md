@@ -3,9 +3,10 @@ title: "Section 4317 - Health plans"
 usc_title: 38
 usc_section: "4317"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 4317"
-generated_at: "2026-03-30T02:55:53.518Z"
+generated_at: "2026-11-23T20:27:01.936Z"
+status: "active"
 ---
 
 # § 4317. Health plans
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:53.518Z"
   - **(1)** Except as provided in paragraph (2), in the case of a person whose coverage under a health plan was terminated by reason of service in the uniformed services, or by reason of the person’s having become eligible for medical and dental care under chapter 55 of title 10 by reason of subsection (d) of section 1074 of that title, an exclusion or waiting period may not be imposed in connection with the reinstatement of such coverage upon reemployment under this chapter if an exclusion or waiting period would not have been imposed under a health plan had coverage of such person by such plan not been terminated as a result of such service or eligibility. This paragraph applies to the person who is reemployed and to any individual who is covered by such plan by reason of the reinstatement of the coverage of such person.
   - **(2)** Paragraph (1) shall not apply to the coverage of any illness or injury determined by the Secretary of Veterans Affairs to have been incurred in, or aggravated during, performance of service in the uniformed services.
   - **(3)** In the case of a person whose coverage under a health plan is terminated by reason of the person having become eligible for medical and dental care under chapter 55 of title 10 by reason of subsection (d) of section 1074 of that title but who subsequently does not commence a period of active duty under the order to active duty that established such eligibility because the order is canceled before such active duty commences, the provisions of paragraph (1) relating to any exclusion or waiting period in connection with the reinstatement of coverage under a health plan shall apply to such person’s continued employment, upon the termination of such eligibility for medical and dental care under chapter 55 of title 10 that is incident to the cancellation of such order, in the same manner as if the person had become reemployed upon such termination of eligibility.
+
+## Source Credit
+
+*(Added [Pub. L. 103–353, § 2(a)](https://www.govinfo.gov/link/plaw/103/public/353), Oct. 13, 1994, [108 Stat. 3161](https://www.govinfo.gov/link/statute/108/3161); amended [Pub. L. 104–275, title III, § 311(7)](https://www.govinfo.gov/link/plaw/104/public/275), Oct. 9, 1996, [110 Stat. 3335](https://www.govinfo.gov/link/statute/110/3335); [Pub. L. 108–454, title II, § 201(a)](https://www.govinfo.gov/link/plaw/108/public/454), Dec. 10, 2004, [118 Stat. 3605](https://www.govinfo.gov/link/statute/118/3605); [Pub. L. 109–233, title III, § 303](https://www.govinfo.gov/link/plaw/109/public/233), June 15, 2006, [120 Stat. 406](https://www.govinfo.gov/link/statute/120/406).)*

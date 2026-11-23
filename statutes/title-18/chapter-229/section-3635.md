@@ -3,9 +3,10 @@ title: "Section 3635 - Definitions"
 usc_title: 18
 usc_section: "3635"
 chapter: 229
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 3635"
-generated_at: "2026-03-30T02:54:16.524Z"
+generated_at: "2026-11-23T20:26:08.761Z"
+status: "active"
 ---
 
 # § 3635. Definitions
@@ -40,3 +41,19 @@ In this subchapter the following definitions apply:
     - **(A)** as part of the intake process, the risk that a prisoner will recidivate upon release from prison;
     - **(B)** the recidivism reduction programs that will best minimize the risk that the prisoner will recidivate upon release from prison; and
     - **(C)** the periodic reassessment of risk that a prisoner will recidivate upon release from prison, based on factors including indicators of progress and of regression, that are dynamic and that can reasonably be expected to change while in prison.
+
+Dyslexia
+
+Dyslexia screening program
+
+Evidence-based recidivism reduction program
+
+Prisoner
+
+Productive activity
+
+Risk and needs assessment tool
+
+## Source Credit
+
+*(Added [Pub. L. 115–391, title I, § 101(a)](https://www.govinfo.gov/link/plaw/115/public/391), Dec. 21, 2018, [132 Stat. 5207](https://www.govinfo.gov/link/statute/132/5207).)*

@@ -3,9 +3,10 @@ title: "Section 175 - Soil and water conservation expenditures; endangered speci
 usc_title: 26
 usc_section: "175"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 175"
-generated_at: "2026-03-30T02:55:27.648Z"
+generated_at: "2026-11-23T20:26:45.483Z"
+status: "active"
 ---
 
 # § 175. Soil and water conservation expenditures; endangered species recovery expenditures
@@ -30,3 +31,13 @@ generated_at: "2026-03-30T02:55:27.648Z"
   - **(1)** In the case of an assessment levied to defray expenditures for property described in clause (ii) of the last sentence of subsection (c)(1), if the amount of such assessment paid or incurred by the taxpayer during the taxable year (determined without the application of this paragraph) is in excess of an amount equal to 10 percent of the aggregate amounts which have been and will be assessed as the taxpayer’s share of the expenditures by the district for such property, and if such excess is more than $500, the entire excess shall be treated as paid or incurred ratably over each of the 9 succeeding taxable years.
   - **(2)** If paragraph (1) applies to an assessment and the land with respect to which such assessment was made is sold or otherwise disposed of by the taxpayer (other than by the reason of his death) during the 9 succeeding taxable years, any amount of the excess described in paragraph (1) which has not been treated as paid or incurred for a taxable year ending on or before the sale or other disposition shall be added to the adjusted basis of such land immediately prior to its sale or other disposition and shall not thereafter be treated as paid or incurred ratably under paragraph (1).
   - **(3)** If paragraph (1) applies to an assessment and the taxpayer dies during the 9 succeeding taxable years, any amount of the excess described in paragraph (1) which has not been treated as paid or incurred for a taxable year ending before his death shall be treated as paid or incurred in the taxable year in which he dies.
+
+Additional limitations.—
+
+Expenditures must be consistent with soil conservation plan or endangered species recovery plan
+
+Certain wetland, etc., activities not qualified
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 67; [Pub. L. 90–630, § 5(a)](https://www.govinfo.gov/link/plaw/90/public/630), (b), Oct. 22, 1968, [82 Stat. 1329](https://www.govinfo.gov/link/statute/82/1329); [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1901(a)(30), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1769](https://www.govinfo.gov/link/statute/90/1769), 1834; [Pub. L. 99–514, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2221](https://www.govinfo.gov/link/statute/100/2221); [Pub. L. 110–234, title XV, § 15303(a)(1)](https://www.govinfo.gov/link/plaw/110/public/234) –(2)(B), (b), May 22, 2008, [122 Stat. 1501](https://www.govinfo.gov/link/statute/122/1501), 1502; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XV, § 15303(a)(1)–(2)(B), (b), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2263, 2264; [Pub. L. 113–295, div. A, title II, § 221(a)(33)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4042](https://www.govinfo.gov/link/statute/128/4042).)*

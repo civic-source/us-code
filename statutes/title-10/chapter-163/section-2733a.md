@@ -3,9 +3,10 @@ title: "Section 2733a - Medical malpractice claims by members of the uniformed s
 usc_title: 10
 usc_section: "2733a"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2733a"
-generated_at: "2026-03-30T02:53:38.173Z"
+generated_at: "2026-11-23T20:25:51.693Z"
+status: "active"
 ---
 
 # § 2733a. Medical malpractice claims by members of the uniformed services
@@ -60,3 +61,39 @@ generated_at: "2026-03-30T02:53:38.173Z"
   - **(1)** The term “covered military medical treatment facility” means a facility described in subsection (b), (c), or (d) of section 1073d of this title .
   - **(2)** The term “Department of Defense health care provider” means a member of the uniformed services, civilian employee of the Department of Defense, or personal services contractor of the Department (under section 1091 of this title ) authorized by the Department to provide health care services and acting within the scope of employment of such individual.
   - **(3)** The term “member of the uniformed services” includes a member of a reserve component of the armed forces if the claim by the member under this section is in connection with personal injury or death that occurred while the member was in Federal status.
+
+In General
+
+Requirement for Claims
+
+Liability
+
+Payment of Claims
+
+Reporting Medical Malpractice
+
+Justification of Denial
+
+Expert Medical Opinions
+
+Regulations
+
+Limitation on Attorney Fees
+
+Annual Reports
+
+Definitions
+
+Covered military medical treatment facility
+
+Department of defense health care provider
+
+Member of the uniformed services
+
+Effective date
+
+Transition
+
+## Source Credit
+
+*(Added [Pub. L. 116–92, div. A, title VII, § 731(a)(1)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1457](https://www.govinfo.gov/link/statute/133/1457); amended [Pub. L. 118–31, div. A, title VII, § 713](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 302](https://www.govinfo.gov/link/statute/137/302); [Pub. L. 118–159, div. A, title VII](https://www.govinfo.gov/link/plaw/118/public/159), §§ 731, 732, Dec. 23, 2024, [138 Stat. 1955](https://www.govinfo.gov/link/statute/138/1955), 1956.)*

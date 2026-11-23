@@ -3,9 +3,10 @@ title: "Section 12559 - State plan requirements"
 usc_title: 34
 usc_section: "12559"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12559"
-generated_at: "2026-03-30T02:55:33.291Z"
+generated_at: "2026-11-23T20:26:50.566Z"
+status: "active"
 ---
 
 # § 12559. State plan requirements
@@ -28,3 +29,7 @@ A State Police Corps plan shall—
   - **(8)** ensure that participants will receive effective training and leadership;
   - **(9)** provide that the State may decline to offer a participant an appointment following completion of Federal training, or may remove a participant from the Police Corps program at any time, only for good cause (including failure to make satisfactory progress in a course of educational study) and after following reasonable review procedures stated in the plan; and
   - **(10)** provide that a participant shall, while serving as a member of a police force, be compensated at the same rate of pay and benefits and enjoy the same rights under applicable agreements with labor organizations and under State and local law as other police officers of the same rank and tenure in the police force of which the participant is a member.
+
+## Source Credit
+
+*([Pub. L. 103–322, title XX, § 200110](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2056](https://www.govinfo.gov/link/statute/108/2056); [Pub. L. 107–273, div. C, title I, § 11006(3)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1817](https://www.govinfo.gov/link/statute/116/1817).)*

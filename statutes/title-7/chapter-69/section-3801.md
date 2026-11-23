@@ -3,9 +3,10 @@ title: "Section 3801 - Congressional findings and declaration of purpose"
 usc_title: 7
 usc_section: "3801"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 3801"
-generated_at: "2026-03-30T02:53:42.404Z"
+generated_at: "2026-11-23T20:25:41.603Z"
+status: "active"
 ---
 
 # § 3801. Congressional findings and declaration of purpose
@@ -20,3 +21,7 @@ The Congress hereby finds and declares that—
   - **(6)** the interstate and foreign commerce in swine and swine products and producers and consumers of pork products could be severely injured economically if any exotic animal diseases, particularly African swine fever, enter this country;
   - **(7)** it is impossible to assure that all garbage fed to swine is properly treated to kill disease organisms unless such treatment is closely regulated;
   - **(8)** therefore, in order to protect the commerce of the United States and the health and welfare of the people of this country, it is necessary to regulate the treatment of garbage to be fed to swine and the feeding thereof in accordance with the provisions of this chapter.
+
+## Source Credit
+
+*([Pub. L. 96–468, § 2](https://www.govinfo.gov/link/plaw/96/public/468), Oct. 17, 1980, [94 Stat. 2229](https://www.govinfo.gov/link/statute/94/2229).)*

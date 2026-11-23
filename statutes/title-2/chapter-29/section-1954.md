@@ -3,9 +3,10 @@ title: "Section 1954 - Administration by Capitol Police Board"
 usc_title: 2
 usc_section: "1954"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1954"
-generated_at: "2026-03-30T02:53:04.821Z"
+generated_at: "2026-11-23T20:25:28.997Z"
+status: "active"
 ---
 
 # § 1954. Administration by Capitol Police Board
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:04.821Z"
   - **(1)** establishing the conditions under which the family of an employee or an employee is eligible to receive such a payment;
   - **(2)** providing for the amount, timing, and manner of such payments; and
   - **(3)** ensuring that any such payment is in addition to, and does not otherwise affect, any other form of compensation payable to the family of an employee or the employee, including benefits for workers’ compensation under chapter 81 of title 5.
+
+## Source Credit
+
+*([Pub. L. 105–223, § 4](https://www.govinfo.gov/link/plaw/105/public/223), Aug. 7, 1998, [112 Stat. 1250](https://www.govinfo.gov/link/statute/112/1250); [Pub. L. 115–45, § 2(b)](https://www.govinfo.gov/link/plaw/115/public/45), Aug. 4, 2017, [131 Stat. 956](https://www.govinfo.gov/link/statute/131/956).)*

@@ -3,9 +3,10 @@ title: "Section 3058aa - Native American program"
 usc_title: 42
 usc_section: "3058aa"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3058aa"
-generated_at: "2026-03-30T02:56:11.181Z"
+generated_at: "2026-11-23T20:27:22.251Z"
+status: "active"
 ---
 
 # § 3058aa. Native American program
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.181Z"
   - **(1)** an Indian tribe; or
   - **(2)** a public agency, or a nonprofit organization, serving older individuals who are Native Americans.
 - **(d)** There are authorized to be appropriated to carry out this part such sums as may be necessary for fiscal year 2007, and such sums as may be necessary for subsequent fiscal years.
+
+## Source Credit
+
+*([Pub. L. 89–73, title VII, § 751](https://www.govinfo.gov/link/plaw/89/public/73), as added [Pub. L. 102–375, title VII, § 706](https://www.govinfo.gov/link/plaw/102/public/375), Sept. 30, 1992, [106 Stat. 1290](https://www.govinfo.gov/link/statute/106/1290); amended [Pub. L. 103–171, § 3(a)(10)](https://www.govinfo.gov/link/plaw/103/public/171), Dec. 2, 1993, [107 Stat. 1990](https://www.govinfo.gov/link/statute/107/1990); [Pub. L. 106–501, title VII, § 707](https://www.govinfo.gov/link/plaw/106/public/501), Nov. 13, 2000, [114 Stat. 2291](https://www.govinfo.gov/link/statute/114/2291); [Pub. L. 109–365, title VII, § 703](https://www.govinfo.gov/link/plaw/109/public/365), Oct. 17, 2006, [120 Stat. 2592](https://www.govinfo.gov/link/statute/120/2592).)*

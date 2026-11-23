@@ -3,9 +3,10 @@ title: "Section 19051 - Broader impacts"
 usc_title: 42
 usc_section: "19051"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 19051"
-generated_at: "2026-03-30T02:56:11.538Z"
+generated_at: "2026-11-23T20:27:23.849Z"
+status: "active"
 ---
 
 # § 19051. Broader impacts
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.538Z"
   - **(1)** training and workshops for program officers, merit review panelists, award office administrators, faculty, and students to improve understanding of the goals and the full range of potential broader impacts available to researchers to satisfy this criterion;
   - **(2)** repositories and clearinghouses for sharing best practices and facilitating collaboration; and
   - **(3)** tools for evaluating and documenting societal impacts of research.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10341](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1557](https://www.govinfo.gov/link/statute/136/1557).)*

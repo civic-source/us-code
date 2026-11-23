@@ -3,9 +3,10 @@ title: "Section 13 - Authorization of appropriations"
 usc_title: 43
 usc_section: "13"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 13"
-generated_at: "2026-03-30T02:55:57.444Z"
+generated_at: "2026-11-23T20:27:06.195Z"
+status: "active"
 ---
 
 # § 390h–13. Authorization of appropriations
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:57.444Z"
     - **(B)** In the case of the San Gabriel Basin demonstration project authorized by section 390h–12 of this title , the Federal share of the cost of such project may not exceed the sum determined by adding—
       - **(i)** the amount that applies to that project under subparagraph (A); and
       - **(ii)** $6,500,000.
+
+## Source Credit
+
+*([Pub. L. 102–575, title XVI, § 1631](https://www.govinfo.gov/link/plaw/102/public/575), formerly § 1615, Oct. 30, 1992, [106 Stat. 4668](https://www.govinfo.gov/link/statute/106/4668); renumbered § 1631 and amended [Pub. L. 104–266](https://www.govinfo.gov/link/plaw/104/public/266), §§ 2(a)(1), (b)(1), 7, Oct. 9, 1996, [110 Stat. 3290](https://www.govinfo.gov/link/statute/110/3290), 3294, 3296; [Pub. L. 108–418, § 1](https://www.govinfo.gov/link/plaw/108/public/418), Nov. 30, 2004, [118 Stat. 2340](https://www.govinfo.gov/link/statute/118/2340).)*

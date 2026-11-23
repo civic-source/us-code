@@ -3,9 +3,10 @@ title: "Section 1063a - Applications"
 usc_title: 20
 usc_section: "1063a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1063a"
-generated_at: "2026-03-30T02:54:48.101Z"
+generated_at: "2026-11-23T20:26:14.344Z"
+status: "active"
 ---
 
 # § 1063a. Applications
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:48.101Z"
     - **(B)** with regard to an eligible institution which is audited under chapter 75 of title 31 deeming such audit to satisfy the requirements of subparagraph (A) for the period covered by such audit.
 - **(b)** The Secretary shall approve any application which meets the requirements of subsection (a) and shall not disapprove any application submitted under this part, or any modification thereof, without first affording such institution reasonable notice and opportunity for a hearing.
 - **(c)** Any application for a grant under this part shall describe measurable goals for the institution’s financial management and academic programs and include a plan of how the applicant intends to achieve those goals.
+
+## Source Credit
+
+*([Pub. L. 89–329, title III, § 325](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title III, § 301(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1296](https://www.govinfo.gov/link/statute/100/1296); amended [Pub. L. 100–50, § 2(a)(8)](https://www.govinfo.gov/link/plaw/100/public/50), June 3, 1987, [101 Stat. 335](https://www.govinfo.gov/link/statute/101/335); [Pub. L. 102–325, title III, § 303(e)](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 475](https://www.govinfo.gov/link/statute/106/475).)*

@@ -3,9 +3,10 @@ title: "Section 221 - Future-years defense program: submission to Congress; cons
 usc_title: 10
 usc_section: "221"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 221"
-generated_at: "2026-03-30T02:53:38.046Z"
+generated_at: "2026-11-23T20:25:50.874Z"
+status: "active"
 ---
 
 # § 221. Future-years defense program: submission to Congress; consistency in budgeting
@@ -25,3 +26,137 @@ generated_at: "2026-03-30T02:53:38.046Z"
     - **(A)** such program shall be made available to Congress in unclassified form, with such material attached as a classified annex; and
     - **(B)** such annex shall be submitted to the congressional defense committees, the Congressional Budget Office, the Comptroller General of the United States, and the Congressional Research Service.
 - **(e)** Each future-years defense program under this subsection shall be accompanied by a certification by the Under Secretary of Defense (Comptroller), in the case of the Department of Defense, and the comptroller of each military department, in the case of such military department, that any information entered into the Standard Data Collection System of the Department of Defense, the Comptroller Information System, or any other data system, as applicable, for purposes of assembling such future-years defense program was accurate.
+
+Plan Required
+
+Elements of Plan
+
+Implementation
+
+Briefings
+
+Display Required
+
+Elements
+
+Cryptographic modernization activities
+
+Mitigation activities for covered items
+
+Form
+
+Definitions
+
+Data on Phase III Awards
+
+Report required
+
+Elements of report
+
+Elements of budgetary details
+
+Form
+
+Sunset
+
+Definitions
+
+Report Required
+
+Elements of Report
+
+Elements of Budgetary Details
+
+Form
+
+Sunset
+
+Definitions
+
+In General
+
+Disaggregation of Impacts and Costs
+
+Extreme Weather Defined
+
+Budget Display Information
+
+End of Fiscal Year Report
+
+Interim Briefing
+
+In General
+
+Inclusions
+
+Form
+
+Initial Plan
+
+Matters to Be Included
+
+Subsequent Plans.—
+
+In general
+
+Matters to be included
+
+Form
+
+Limitations
+
+Review
+
+Budget Structure
+
+Briefing
+
+Construction
+
+Definitions
+
+“Not later March 1 of each year, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives], and make publicly available on the Internet website of the Department of Defense, the following information:
+
+“The Secretary of Defense shall establish a consolidated budget justification display that fully identifies the baseline aerospace control alert budget for each of the military services and encompasses all programs and activities of the aerospace control alert mission for each of the following functions:
+
+In General
+
+Form
+
+Covered Module
+
+Submission With Annual Budget Justification Documents
+
+Requirements for Budget Display
+
+Definition
+
+Guidance on Budget Justification Materials
+
+Applicability
+
+Major Range and Test Facility Base Defined
+
+Report
+
+Termination
+
+“The President’s budget submitted to Congress pursuant to section 1105(a) of title 31 , United States Code, for each fiscal year after fiscal year 2007 shall include—
+
+Program Elements Specified
+
+Early Commencement of Display in Budget Justification Materials
+
+Technology Insertion to Current Force.—
+
+Report on establishment of additional program element
+
+Display in budget justification materials
+
+Requests for Funds for Environmental Restoration at BRAC Sites in Future Fiscal Years
+
+Base Closure Laws Defined
+
+## Source Credit
+
+*(Added [Pub. L. 101–189, div. A, title XVI, § 1602(a)(1)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1596](https://www.govinfo.gov/link/statute/103/1596), § 114a; amended [Pub. L. 101–510, div. A, title XIV, § 1402(a)(1)](https://www.govinfo.gov/link/plaw/101/public/510) –(3)(A), Nov. 5, 1990, [104 Stat. 1674](https://www.govinfo.gov/link/statute/104/1674); renumbered § 221 and amended [Pub. L. 102–484, div. A, title X, § 1002(c)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2480](https://www.govinfo.gov/link/statute/106/2480); [Pub. L. 115–91, div. A, title X, § 1042(a)](https://www.govinfo.gov/link/plaw/115/public/91) –(c), Dec. 12, 2017, [131 Stat. 1553](https://www.govinfo.gov/link/statute/131/1553), 1554.)*

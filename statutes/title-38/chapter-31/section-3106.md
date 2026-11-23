@@ -3,9 +3,10 @@ title: "Section 3106 - Initial and extended evaluations; determinations regardin
 usc_title: 38
 usc_section: "3106"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 3106"
-generated_at: "2026-03-30T02:55:53.500Z"
+generated_at: "2026-11-23T20:27:01.828Z"
+status: "active"
 ---
 
 # § 3106. Initial and extended evaluations; determinations regarding serious employment handicap
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:53.500Z"
 - **(d)** In any case in which the Secretary has determined that a veteran has a serious employment handicap and also determines, following such initial and any such extended evaluation, that achievement of a vocational goal currently is not reasonably feasible, the Secretary shall determine whether the veteran is capable of participating in a program of independent living services and assistance under section 3120 of this title .
 - **(e)** The Secretary shall in all cases determine as expeditiously as possible whether the achievement of a vocational goal by a veteran currently is reasonably feasible. In the case of a veteran provided extended evaluation under subsection (c) of this section (including any periods of extensions under section 3105(a) of this title ), the Secretary shall make such determination not later than the end of such extended evaluation or period of extension, as the case may be. In determining whether the achievement of a vocational goal currently is reasonably feasible, the Secretary shall resolve any reasonable doubt in favor of determining that such achievement currently is reasonably feasible.
 - **(f)** In connection with each period of extended evaluation of a veteran and each rehabilitation program for a veteran who is determined to have a serious employment handicap, the Secretary shall assign a Department of Veterans Affairs employee to be responsible for the management and followup of the provision of all services (including appropriate coordination of employment assistance under section 3117 of this title ) and assistance under this chapter to such veteran.
+
+## Source Credit
+
+*(Added [Pub. L. 96–466, title I, § 101(a)](https://www.govinfo.gov/link/plaw/96/public/466), Oct. 17, 1980, [94 Stat. 2176](https://www.govinfo.gov/link/statute/94/2176), § 1506; amended [Pub. L. 99–576, title III, § 333(b)(4)](https://www.govinfo.gov/link/plaw/99/public/576), Oct. 28, 1986, [100 Stat. 3279](https://www.govinfo.gov/link/statute/100/3279); [Pub. L. 101–237, title IV, § 423(b)(1)](https://www.govinfo.gov/link/plaw/101/public/237), Dec. 18, 1989, [103 Stat. 2092](https://www.govinfo.gov/link/statute/103/2092); renumbered § 3106 and amended [Pub. L. 102–83, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/83), (c)(1), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 103–446, title XII, § 1201(d)(9)](https://www.govinfo.gov/link/plaw/103/public/446), Nov. 2, 1994, [108 Stat. 4684](https://www.govinfo.gov/link/statute/108/4684); [Pub. L. 104–275, title I, § 101(f)(1)](https://www.govinfo.gov/link/plaw/104/public/275), Oct. 9, 1996, [110 Stat. 3324](https://www.govinfo.gov/link/statute/110/3324).)*

@@ -3,9 +3,10 @@ title: "Section 12 - Modified Lower Mississippi River project as of August 18, 1
 usc_title: 33
 usc_section: "12"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 12"
-generated_at: "2026-03-30T02:55:41.071Z"
+generated_at: "2026-11-23T20:26:53.901Z"
+status: "active"
 ---
 
 # § 702a–12. Modified Lower Mississippi River project as of August 18, 1941
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:41.071Z"
 - **(e)** The existing engineering plan for flood control of the Saint Francis River is modified so as to permit the substitution for the suspended portions of the original project below Oak Donnick, Arkansas, of the construction of a ditch in Cross County, Arkansas, beginning in the vicinity of the outlet end of the existing Oak Donnick to Saint Francis Bay floodway and terminating in Saint Francis Bay about two miles north of Riverfront, including the construction of a highway bridge at State Highway Numbered 42 made necessary by the ditch construction: Provided , That local interests give assurances satisfactory to the Secretary of the Army that they will (1) provide without cost to the United States all lands, easements, and rights-of-way necessary for the construction; (2) hold and save the United States free from damages due to the construction works; and (3) maintain the works after completion in accordance with regulations prescribed by the Secretary of the Army.
 - **(f)** In the development of the authorized project, the construction of improvements for Bayou Rapides, Boeuf, and Cocodrie, Louisiana, contemplated in the report dated March 24, 1941 , of the Special Board of Officers at an estimated cost of $2,600,000 is authorized.
 - **(g)** The total authorizations heretofore made for the flood control project of the alluvial valley of the Mississippi River shall not be increased by reason of any provision in this Act, except for the additional amounts necessary for the Yazoo and Red River backwater improvements, and any appropriations heretofore or hereafter made or authorized for said project as herein or heretofore modified may be expended upon any feature of the said project, notwithstanding any restrictions, limitations, or requirements of existing law: Provided , That funds hereafter expended for maintenance shall not be considered as reducing present remaining balances of authorizations.
+
+## Source Credit
+
+*(June 15, 1936, ch. 548 (pt.), as added Aug. 18, 1941, ch. 377, § 3, [55 Stat. 642](https://www.govinfo.gov/link/statute/55/642); amended July 26, 1947, ch. 343, title II, § 205(a), [61 Stat. 501](https://www.govinfo.gov/link/statute/61/501); May 17, 1950, ch. 188, title II, § 204(a), [64 Stat. 172](https://www.govinfo.gov/link/statute/64/172); [Pub. L. 110–114, title III, § 3013(b)](https://www.govinfo.gov/link/plaw/110/public/114), Nov. 8, 2007, [121 Stat. 1109](https://www.govinfo.gov/link/statute/121/1109).)*

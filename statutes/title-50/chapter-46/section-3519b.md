@@ -3,9 +3,10 @@ title: "Section 3519b - Special rules for certain individuals injured by reason 
 usc_title: 50
 usc_section: "3519b"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3519b"
-generated_at: "2026-03-30T02:56:26.255Z"
+generated_at: "2026-11-23T20:27:31.019Z"
+status: "active"
 ---
 
 # § 3519b. Special rules for certain individuals injured by reason of war, insurgency, hostile act, terrorist activities, or incidents designated by the Director
@@ -56,3 +57,41 @@ generated_at: "2026-03-30T02:56:26.255Z"
   - **(5)**
     - **(A)** Payments made under paragraph (2) are supplemental to any other benefit furnished by the United States Government for which a covered dependent, covered employee, or covered individual is entitled, and the receipt of such payments may not affect the eligibility of such a person to any other benefit furnished by the United States Government.
     - **(B)** Without regard to the requirements in sections (b) and (c), covered employees need not first seek benefits provided under chapter 81 of title 5 to be eligible solely for payment authorized under paragraph (2) of this subsection.
+
+Appropriations required
+
+Matter of payments
+
+Amounts of payments
+
+“Section 19A of the Central Intelligence Agency Act of 1949 [ 50 U.S.C. 3519b ], as added by subsection (a), shall apply with respect to—
+
+“Not later than 90 days after the date of the enactment of this Act [ Dec. 22, 2023 ], the Director of the Central Intelligence Agency shall—
+
+In general
+
+Notice to congress
+
+“Not later than 120 days after the date of the enactment of this Act [ Dec. 20, 2019 ], the Director of the Central Intelligence Agency shall—
+
+Regulations
+
+Reporting
+
+Alternative Reporting
+
+Definitions
+
+Appropriate congressional committees
+
+Covered dependent
+
+Covered employee
+
+Covered individual
+
+Qualifying injury
+
+## Source Credit
+
+*(June 20, 1949, ch. 227, § 19A, as added [Pub. L. 116–92, div. E, title LXIV, § 6412(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2197](https://www.govinfo.gov/link/statute/133/2197); amended [Pub. L. 117–46, § 2(b)](https://www.govinfo.gov/link/plaw/117/public/46), (f), Oct. 8, 2021, [135 Stat. 391](https://www.govinfo.gov/link/statute/135/391), 393; [Pub. L. 117–103, div. X, title VI, § 603(a)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 995](https://www.govinfo.gov/link/statute/136/995); [Pub. L. 118–31, div. G, title VIII](https://www.govinfo.gov/link/plaw/118/public/31), §§ 7801, 7802(a), Dec. 22, 2023, [137 Stat. 1102](https://www.govinfo.gov/link/statute/137/1102).)*

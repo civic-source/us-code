@@ -3,9 +3,10 @@ title: "Section 3022 - Personnel boards"
 usc_title: 33
 usc_section: "3022"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 3022"
-generated_at: "2026-03-30T02:55:41.136Z"
+generated_at: "2026-11-23T20:26:54.237Z"
+status: "active"
 ---
 
 # § 3022. Personnel boards
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:41.136Z"
     - **(A)** the basis for the request is to allow the officer to complete a broadening assignment, advanced education, another assignment of significant value to the Administration, a career progression requirement delayed by the assignment or education, or a qualifying personal or professional circumstance, as determined by the Director;
     - **(B)** the Director determines the exclusion from consideration is in the best interest of the Administration; and
     - **(C)** the officer has not previously failed selection for promotion to the grade for which the officer requests the exclusion from consideration.
+
+## Source Credit
+
+*([Pub. L. 107–372, title II, § 222](https://www.govinfo.gov/link/plaw/107/public/372), Dec. 19, 2002, [116 Stat. 3085](https://www.govinfo.gov/link/statute/116/3085); [Pub. L. 116–259, title III, § 302](https://www.govinfo.gov/link/plaw/116/public/259), Dec. 23, 2020, [134 Stat. 1171](https://www.govinfo.gov/link/statute/134/1171).)*

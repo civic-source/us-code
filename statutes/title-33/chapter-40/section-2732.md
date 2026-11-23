@@ -3,9 +3,10 @@ title: "Section 2732 - Terminal and tanker oversight and monitoring"
 usc_title: 33
 usc_section: "2732"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2732"
-generated_at: "2026-03-30T02:55:41.133Z"
+generated_at: "2026-11-23T20:26:54.221Z"
+status: "active"
 ---
 
 # § 2732. Terminal and tanker oversight and monitoring
@@ -140,3 +141,11 @@ generated_at: "2026-03-30T02:55:41.133Z"
 - **(o)** The requirements of subsections (c) through ( l ), as such subsections apply respectively to the Prince William Sound Program and the Cook Inlet Program, are deemed to have been satisfied so long as the following conditions are met:
   - **(1)** With respect to the Prince William Sound Program, the Alyeska Pipeline Service Company or any of its owner companies enters into a contract for the duration of the operation of the Trans-Alaska Pipeline System with the Alyeska Citizens Advisory Committee in existence on August 18, 1990 , or a successor organization, to fund that Committee or organization on an annual basis in the amount provided for by subsection (k)(2)(A) and the President annually certifies that the Committee or organization fosters the general goals and purposes of this section and is broadly representative of the communities and interests in the vicinity of the terminal facilities and Prince William Sound.
   - **(2)** With respect to the Cook Inlet Program, the terminal facilities, offshore facilities, or crude oil tanker owners and operators enter into a contract with a voluntary advisory organization to fund that organization on an annual basis and the President annually certifies that the organization fosters the general goals and purposes of this section and is broadly representative of the communities and interests in the vicinity of the terminal facilities and Cook Inlet.
+
+George Bush.
+
+George Bush.
+
+## Source Credit
+
+*([Pub. L. 101–380, title V, § 5002](https://www.govinfo.gov/link/plaw/101/public/380), Aug. 18, 1990, [104 Stat. 544](https://www.govinfo.gov/link/statute/104/544); [Pub. L. 109–241, title IX, § 902](https://www.govinfo.gov/link/plaw/109/public/241) (l)(2), July 11, 2006, [120 Stat. 568](https://www.govinfo.gov/link/statute/120/568); [Pub. L. 113–281, title III, § 318](https://www.govinfo.gov/link/plaw/113/public/281), Dec. 18, 2014, [128 Stat. 3051](https://www.govinfo.gov/link/statute/128/3051); [Pub. L. 115–232, div. C, title XXXV, § 3547(e)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2328](https://www.govinfo.gov/link/statute/132/2328).)*

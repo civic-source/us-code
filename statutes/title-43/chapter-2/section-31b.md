@@ -3,9 +3,10 @@ title: "Section 31b - Definitions"
 usc_title: 43
 usc_section: "31b"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 31b"
-generated_at: "2026-03-30T02:55:57.433Z"
+generated_at: "2026-11-23T20:27:06.149Z"
+status: "active"
 ---
 
 # § 31b. Definitions
@@ -22,3 +23,7 @@ In sections 31a to 31h of this title:
   - **(8)** The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, and the Virgin Islands.
   - **(9)** The term “State component” means the State component of the geologic mapping program described in section 31c(d)(2) of this title .
   - **(10)** The term “Survey” means the United States Geological Survey.
+
+## Source Credit
+
+*([Pub. L. 102–285, § 3](https://www.govinfo.gov/link/plaw/102/public/285), May 18, 1992, [106 Stat. 167](https://www.govinfo.gov/link/statute/106/167); [Pub. L. 105–36, § 3(a)](https://www.govinfo.gov/link/plaw/105/public/36), Aug. 5, 1997, [111 Stat. 1107](https://www.govinfo.gov/link/statute/111/1107); [Pub. L. 106–148, § 3](https://www.govinfo.gov/link/plaw/106/public/148), Dec. 9, 1999, [113 Stat. 1719](https://www.govinfo.gov/link/statute/113/1719); [Pub. L. 116–9, title V, § 5002(c)](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 768](https://www.govinfo.gov/link/statute/133/768).)*

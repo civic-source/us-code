@@ -3,9 +3,10 @@ title: "Section 543c - Administration"
 usc_title: 16
 usc_section: "543c"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 543c"
-generated_at: "2026-03-30T02:54:22.869Z"
+generated_at: "2026-11-23T20:26:20.126Z"
+status: "active"
 ---
 
 # § 543c. Administration
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:54:22.869Z"
   - **(3)** The grant in paragraph (2) of this subsection shall become effective upon relinquishment in writing by the city of Los Angeles of its applications dated October 20, 1944 , and January 17, 1945 , to purchase twenty-three thousand eight hundred and fifty acres of Federal land.
   - **(4)** The easements granted under paragraph (2) of this subsection shall provide that whenever the city of Los Angeles ceases to use the land or any part thereof subject to such easements for the purposes for which it is currently being used, as of September 28, 1984 , all interests in such land or part thereof shall revert to the United States.
 - **(j)** Existing community recreational uses, as of September 28, 1984 , shall be permitted at the levels and locations customarily exercised.
+
+## Source Credit
+
+*([Pub. L. 98–425, title III, § 304](https://www.govinfo.gov/link/plaw/98/public/425), Sept. 28, 1984, [98 Stat. 1634](https://www.govinfo.gov/link/statute/98/1634).)*

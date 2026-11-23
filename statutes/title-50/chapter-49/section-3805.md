@@ -3,9 +3,10 @@ title: "Section 3805 - Manner of selection of men for training and service; quot
 usc_title: 50
 usc_section: "3805"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3805"
-generated_at: "2026-03-30T02:56:26.261Z"
+generated_at: "2026-11-23T20:27:31.041Z"
+status: "active"
 ---
 
 # § 3805. Manner of selection of men for training and service; quotas
@@ -20,3 +21,9 @@ generated_at: "2026-03-30T02:56:26.261Z"
 - **(c)**
 - **(d)** Whenever the President has provided for the selection of persons for training and service in accordance with random selection under subsection (a) of this section, calls for induction may be placed under such rules and regulations as he may prescribe, notwithstanding the provisions of subsection (b) of this section.
 - **(e)** Notwithstanding any other provision of this Act, not more than 130,000 persons may be inducted into the Armed Forces under this Act in the fiscal year ending June 30, 1972 , and not more than 140,000 in the fiscal year ending June 30, 1973 , unless a number greater than that authorized in this subsection for such fiscal year or years is authorized by a law enacted after September 28, 1971 .
+
+Richard Nixon.
+
+## Source Credit
+
+*(June 24, 1948, ch. 625, title I, § 5, [62 Stat. 608](https://www.govinfo.gov/link/statute/62/608); June 19, 1951, ch. 144, title I, § 1(k), [65 Stat. 83](https://www.govinfo.gov/link/statute/65/83); [Pub. L. 85–62](https://www.govinfo.gov/link/plaw/85/public/62), §§ 4, 5, June 27, 1957, [71 Stat. 207](https://www.govinfo.gov/link/statute/71/207); [Pub. L. 90–40, § 1(3)](https://www.govinfo.gov/link/plaw/90/public/40), June 30, 1967, [81 Stat. 100](https://www.govinfo.gov/link/statute/81/100); [Pub. L. 91–124, § 2](https://www.govinfo.gov/link/plaw/91/public/124), Nov. 26, 1969, [83 Stat. 220](https://www.govinfo.gov/link/statute/83/220); [Pub. L. 92–129, title I, § 101(a)(8)](https://www.govinfo.gov/link/plaw/92/public/129), (9), Sept. 28, 1971, [85 Stat. 349](https://www.govinfo.gov/link/statute/85/349).)*

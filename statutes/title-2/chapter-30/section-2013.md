@@ -3,12 +3,17 @@ title: "Section 2013 - Revolving fund for House gymnasium; deposit of receipts; 
 usc_title: 2
 usc_section: "2013"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 2013"
-generated_at: "2026-03-30T02:53:04.822Z"
+generated_at: "2026-11-23T20:25:29.004Z"
+status: "active"
 ---
 
 # § 2013. Revolving fund for House gymnasium; deposit of receipts; availability for expenditure
 
 There is established in the Treasury a revolving fund for the House of Representatives gymnasium. The Architect of the Capitol shall deposit in the fund such amounts as the Architect may receive as gymnasium dues or assessments from Members of the House of Representatives and other authorized users of the gymnasium. The amounts so deposited shall be available for obligation by the Architect for expenses of the gymnasium.
 
+
+## Source Credit
+
+*([Pub. L. 102–392, title I, § 106](https://www.govinfo.gov/link/plaw/102/public/392), Oct. 6, 1992, [106 Stat. 1715](https://www.govinfo.gov/link/statute/106/1715).)*

@@ -3,9 +3,10 @@ title: "Section 385 - Department of Defense support for other departments and ag
 usc_title: 10
 usc_section: "385"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 385"
-generated_at: "2026-03-30T02:53:38.055Z"
+generated_at: "2026-11-23T20:25:50.926Z"
+status: "active"
 ---
 
 # § 385. Department of Defense support for other departments and agencies of the United States Government that advance Department of Defense security cooperation objectives
@@ -24,3 +25,15 @@ generated_at: "2026-03-30T02:53:38.055Z"
     - **(E)** an identification of any funds programmed or obligated by the department or agency other than the Department on such program or activity; and
     - **(F)** a timeline for the provision of such support; and
   - **(2)** a period of 30 days elapses after the date of the submittal of the notice pursuant to paragraph (1).
+
+Support Authorized
+
+Foreign Assistance Programs and Activities
+
+Annual Limitation on Amount of Support
+
+Notice and Wait
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. A, title XII, § 1241(m)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2511](https://www.govinfo.gov/link/statute/130/2511); amended [Pub. L. 115–232, div. A, title XII, § 1204(c)(1)(E)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2017](https://www.govinfo.gov/link/statute/132/2017).)*

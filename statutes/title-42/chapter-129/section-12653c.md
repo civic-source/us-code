@@ -3,9 +3,10 @@ title: "Section 12653c - Silver Scholarships and Encore Fellowships"
 usc_title: 42
 usc_section: "12653c"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12653c"
-generated_at: "2026-03-30T02:56:11.425Z"
+generated_at: "2026-11-23T20:27:23.414Z"
+status: "active"
 ---
 
 # § 12653c. Silver Scholarships and Encore Fellowships
@@ -72,3 +73,7 @@ generated_at: "2026-03-30T02:56:11.425Z"
   - **(7)** Each organization that receives an Encore Fellow under this subsection shall provide training, leadership development, and assistance to the Encore Fellow, and conduct oversight of the service provided by the Encore Fellow.
   - **(8)** Each year, the Corporation shall convene current and former Encore Fellows to discuss the Encore Fellows’ experiences related to service under this subsection and discuss strategies for increasing leadership and careers in public service in the nonprofit sector or government.
 - **(c)** The Corporation shall conduct an independent evaluation of the programs authorized under subsections (a) and (b) and widely disseminate the results, including recommendations for improvement, to the service community through multiple channels, including the Corporation’s Resource Center or a clearinghouse of effective strategies.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 198C](https://www.govinfo.gov/link/plaw/101/public/610), as added [Pub. L. 111–13, title I, § 1805](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1559](https://www.govinfo.gov/link/statute/123/1559).)*

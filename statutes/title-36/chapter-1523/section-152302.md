@@ -3,9 +3,10 @@ title: "Section 152302 - Purposes"
 usc_title: 36
 usc_section: "152302"
 chapter: 1523
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 152302"
-generated_at: "2026-03-30T02:55:44.704Z"
+generated_at: "2026-11-23T20:26:58.996Z"
+status: "active"
 ---
 
 # § 152302. Purposes
@@ -18,3 +19,20 @@ The purposes of the corporation are—
   - **(4)** to encourage the coordination of efforts of the member organizations, thereby avoiding duplication or conflict;
   - **(5)** to organize exploratory surveys or fact-finding commissions whenever the corporation considers them necessary for the solution of important problems; and
   - **(6)** to encourage the development and appreciation of the art of music and to foster the highest ethical standards in the musical professions and industries.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 152302 | 36:663. | Aug. 1, 1956, ch. 824, § 3 , 70 Stat. 795 . |
+
+
+Historical and Revision Notes
+
+152302
+
+Aug. 1, 1956, ch. 824, § 3
+
+70 Stat. 795
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1412](https://www.govinfo.gov/link/statute/112/1412).)*

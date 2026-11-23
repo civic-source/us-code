@@ -3,9 +3,10 @@ title: "Section 3641 - Definitions"
 usc_title: 22
 usc_section: "3641"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3641"
-generated_at: "2026-03-30T02:55:05.395Z"
+generated_at: "2026-11-23T20:26:32.466Z"
+status: "active"
 ---
 
 # § 3641. Definitions
@@ -16,3 +17,11 @@ As used in this part—
   - **(2)** “uniformed services” has the meaning given that term in section 2101(3) of title 5 ;
   - **(3)** “competitive service” has the meaning given that term in section 2102 of title 5 ; and
   - **(4)** “United States”, when used in a geographic sense, means each of the several States and the District of Columbia.
+
+Consent of Congress
+
+Condition
+
+## Source Credit
+
+*([Pub. L. 96–70, title I, § 1201](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 461](https://www.govinfo.gov/link/statute/93/461).)*

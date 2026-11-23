@@ -3,9 +3,10 @@ title: "Section 80111 - Liability for delivery of goods"
 usc_title: 49
 usc_section: "80111"
 chapter: 801
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 80111"
-generated_at: "2026-03-30T02:56:19.418Z"
+generated_at: "2026-11-23T20:27:35.443Z"
+status: "active"
 ---
 
 # § 80111. Liability for delivery of goods
@@ -23,3 +24,40 @@ generated_at: "2026-03-30T02:56:19.418Z"
   - **(2)** the goods have been sold lawfully to satisfy the carrier’s lien;
   - **(3)** the goods have not been claimed; or
   - **(4)** the goods are perishable or hazardous.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 80111(a) | 49 App.:90 (less last par.). | Aug. 29, 1916, ch. 415 , §§ 10–12, 26, 39 Stat. 540 , 542. |
+| 80111(b) | 49 App.:90 (last par.). |  |
+| 80111(c) | 49 App.:91 (words after 2d comma). |  |
+|  | 49 App.:92 (words after 2d comma). |  |
+| 80111(d) | 49 App.:91 (words before 2d comma). |  |
+|  | 49 App.:92 (words before 2d comma). |  |
+|  | 49 App.:106. |  |
+
+
+General Rules
+
+Effectiveness of Request or Information
+
+Failure To Take and Cancel Bills
+
+Exceptions to Liability
+
+Historical and Revision Notes
+
+80111(a)
+
+Aug. 29, 1916, ch. 415
+
+39 Stat. 540
+
+80111(b)
+
+80111(c)
+
+80111(d)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1350](https://www.govinfo.gov/link/statute/108/1350).)*

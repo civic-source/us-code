@@ -3,9 +3,10 @@ title: "Section 950f - Review by United States Court of Military Commission Revi
 usc_title: 10
 usc_section: "950f"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 950f"
-generated_at: "2026-03-30T02:53:38.090Z"
+generated_at: "2026-11-23T20:25:51.154Z"
+status: "active"
 ---
 
 # § 950f. Review by United States Court of Military Commission Review
@@ -19,9 +20,33 @@ generated_at: "2026-03-30T02:53:38.090Z"
   - **(5)**
     - **(A)** For purposes of sections 203, 205, 207, 208, and 209 of title 18, the term “special Government employee” shall include a judge of the Court appointed under paragraph (3).
     - **(B)** A person appointed as a judge of the Court under paragraph (3) shall be considered to be an officer or employee of the United States with respect to such person’s status as a judge, but only during periods in which such person is performing the duties of such a judge. Any provision of law that prohibits or limits the political or business activities of an employee of the United States shall only apply to such a judge during such periods.
-  - **(6)** The term of an appellate military judge assigned to the Court under paragraph (2) or appointed to the Court under paragraph (3) shall expire on the earlier of the date on which—
-    - **(A)** the judge leaves active duty; or
-    - **(B)** the judge is reassigned to other duties in accordance with section 949b(b)(4) of this title .
+  - **(6)**
+    - **(A)** The term of an appellate military judge assigned or appointed to the Court under this subsection shall expire on the earlier of the date on which—
+      - **(i)** the judge leaves active duty; or
+      - **(ii)** the judge is reassigned to other duties in accordance with section 949b(b)(4) of this title .
+    - **(B)** The term of a civilian judge of the Court appointed under paragraph (3) shall expire on the date that is 10 years after the date on which the judge was appointed.
+  - **(7)** Judges of the Court may be removed from office by the President (in the case of a judge appointed under paragraph (3)) or the Secretary of Defense (in the case of an appellate military judge assigned under paragraph (2)) upon notice and hearing, for—
+    - **(A)** neglect of duty;
+    - **(B)** misconduct; or
+    - **(C)** mental or physical disability.
 - **(c)** The Court shall, in accordance with procedures prescribed under regulations of the Secretary, review the record in each case that is referred to the Court by the convening authority under section 950c of this title with respect to any matter properly raised by the accused.
 - **(d)** In a case reviewed by the Court under this section, the Court may act only with respect to the findings and sentence as approved by the convening authority. The Court may affirm only such findings of guilty, and the sentence or such part or amount of the sentence, as the Court finds correct in law and fact and determines, on the basis of the entire record, should be approved. In considering the record, the Court may weigh the evidence, judge the credibility of witnesses, and determine controverted questions of fact, recognizing that the military commission saw and heard the witnesses.
 - **(e)** If the Court sets aside the findings or sentence, the Court may, except where the setting aside is based on lack of sufficient evidence in the record to support the findings, order a rehearing. If the Court sets aside the findings or sentence and does not order a rehearing, the Court shall order that the charges be dismissed.
+
+Establishment
+
+Judges
+
+Cases To Be Reviewed
+
+Standard and Scope of Review
+
+Rehearings
+
+In general
+
+Applicability to existing civilian judges
+
+## Source Credit
+
+*(Added [Pub. L. 111–84, div. A, title XVIII, § 1802](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2603](https://www.govinfo.gov/link/statute/123/2603); amended [Pub. L. 112–81, div. A, title X, § 1034(c)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1573](https://www.govinfo.gov/link/statute/125/1573); [Pub. L. 115–91, div. A, title X, § 1082](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1602](https://www.govinfo.gov/link/statute/131/1602); [Pub. L. 115–232, div. A, title V, § 541(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1761](https://www.govinfo.gov/link/statute/132/1761); [Pub. L. 118–159, div. A, title V, § 567(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1905](https://www.govinfo.gov/link/statute/138/1905).)*

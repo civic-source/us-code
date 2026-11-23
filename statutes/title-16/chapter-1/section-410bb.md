@@ -3,9 +3,10 @@ title: "Section 410bb - Establishment"
 usc_title: 16
 usc_section: "410bb"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 410bb"
-generated_at: "2026-03-30T02:54:22.762Z"
+generated_at: "2026-11-23T20:26:19.460Z"
+status: "active"
 ---
 
 # § 410bb. Establishment
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:22.762Z"
   - **(2)** The Secretary is authorized to acquire outside the boundaries of the park, by any of the above methods, not to exceed fifteen acres of land or interests therein located in, or in the vicinity of, the city of Skagway, Alaska, for an administrative site; and to acquire by any of the above methods, up to ten historic structures or interests in such structures located in the city of Skagway but outside the Skagway unit for relocation within such unit as the Secretary deems essential for adequate preservation and interpretation of the park.
 - **(c)** All lands acquired pursuant to this subchapter shall be taken by the Secretary subject to all valid existing rights granted by the United States for railroad, telephone, telegraph, and pipeline purposes. The Secretary is authorized to grant rights-of-way, easements, permits, and other benefits in, through and upon all lands acquired for the White Pass Trail unit for pipeline purposes, pursuant to the Acts of February 25, 1920 ( 41 Stat. 449 ), August 21, 1935 ( 49 Stat. 678 ), and August 12, 1953 ( 67 Stat. 557 ), and for railroad purposes pursuant to the Act of May 14, 1898 ( 30 Stat. 409 ): Provided , That significant adverse impacts to park resources will not result.
 - **(d)** The Secretary is authorized to grant to the State of Alaska a highway right-of-way across lands in the Chilkoot Trail unit, in the area of Dyea, for the purpose of linking the communities of Haines and Skagway by road if he finds that (1) there is no feasible and prudent alternative to the use of such lands, (2) the road proposal includes all possible planning to minimize harm to the park resulting from such road use, and (3) to grant such right-of-way will not have significant adverse effects on the historical and archeological resources of the park and its administration, protection, and management in accordance with the purposes of this subchapter.
+
+## Source Credit
+
+*([Pub. L. 94–323, § 1](https://www.govinfo.gov/link/plaw/94/public/323), June 30, 1976, [90 Stat. 717](https://www.govinfo.gov/link/statute/90/717); [Pub. L. 96–487, title XIII, § 1309](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2481](https://www.govinfo.gov/link/statute/94/2481); [Pub. L. 103–437, § 6(h)(1)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4585](https://www.govinfo.gov/link/statute/108/4585).)*

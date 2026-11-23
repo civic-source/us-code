@@ -3,9 +3,10 @@ title: "Section 27 - Periodic payment plans"
 usc_title: 15
 usc_section: "27"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 27"
-generated_at: "2026-03-30T02:54:08.068Z"
+generated_at: "2026-11-23T20:26:03.603Z"
+status: "active"
 ---
 
 # § 80a–27. Periodic payment plans
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:54:08.068Z"
     - **(A)** for any registered investment company to issue any periodic payment plan certificate; or
     - **(B)** for such company, or any depositor of or underwriter for any such company, or any other person, to sell such a certificate.
   - **(2)** Paragraph (1) shall not be construed to alter, invalidate, or otherwise affect any rights or obligations, including rights of redemption, under any periodic payment plan certificate issued and sold before 30 days after September 29, 2006 .
+
+## Source Credit
+
+*(Aug. 22, 1940, ch. 686, title I, § 27, [54 Stat. 829](https://www.govinfo.gov/link/statute/54/829); [Pub. L. 91–547, § 16](https://www.govinfo.gov/link/plaw/91/public/547), Dec. 14, 1970, [84 Stat. 1424](https://www.govinfo.gov/link/statute/84/1424); [Pub. L. 92–165](https://www.govinfo.gov/link/plaw/92/public/165), Nov. 23, 1971, [85 Stat. 487](https://www.govinfo.gov/link/statute/85/487); [Pub. L. 104–290, title II, § 205(b)](https://www.govinfo.gov/link/plaw/104/public/290), Oct. 11, 1996, [110 Stat. 3429](https://www.govinfo.gov/link/statute/110/3429); [Pub. L. 109–290, § 4(a)](https://www.govinfo.gov/link/plaw/109/public/290), (b), Sept. 29, 2006, [120 Stat. 1318](https://www.govinfo.gov/link/statute/120/1318), 1319.)*

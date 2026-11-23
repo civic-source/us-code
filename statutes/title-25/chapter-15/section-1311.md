@@ -3,9 +3,10 @@ title: "Section 1311 - Model code"
 usc_title: 25
 usc_section: "1311"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1311"
-generated_at: "2026-03-30T02:54:52.816Z"
+generated_at: "2026-11-23T20:26:25.461Z"
+status: "active"
 ---
 
 # § 1311. Model code
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:52.816Z"
   - **(3)** establish proper qualifications for the office of judge of the court of Indian offenses, and
   - **(4)** provide for the establishing of educational classes for the training of judges of courts of Indian offenses. In carrying out the provisions of this subchapter, the Secretary of the Interior shall consult with the Indians, Indian tribes, and interested agencies of the United States.
 
+
+## Source Credit
+
+*([Pub. L. 90–284, title III, § 301](https://www.govinfo.gov/link/plaw/90/public/284), Apr. 11, 1968, [82 Stat. 78](https://www.govinfo.gov/link/statute/82/78).)*

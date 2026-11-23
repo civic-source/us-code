@@ -3,9 +3,10 @@ title: "Section 5735 - Travel, transportation, and relocation expenses of employ
 usc_title: 5
 usc_section: "5735"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 5735"
-generated_at: "2026-03-30T02:52:56.025Z"
+generated_at: "2026-11-23T20:25:31.981Z"
+status: "active"
 ---
 
 # § 5735. Travel, transportation, and relocation expenses of employees transferring to the United States Postal Service
@@ -15,3 +16,11 @@ generated_at: "2026-03-30T02:52:56.025Z"
   - **(1)** is scheduled for separation from the Department, other than for cause;
   - **(2)** is selected for appointment to a continuing position with the United States Postal Service; and
   - **(3)** accepts the appointment.
+
+In General
+
+Covered Employees
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title III, § 345(a)(1)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2723](https://www.govinfo.gov/link/statute/108/2723).)*

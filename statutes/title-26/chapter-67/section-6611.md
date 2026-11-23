@@ -3,9 +3,10 @@ title: "Section 6611 - Interest on overpayments"
 usc_title: 26
 usc_section: "6611"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6611"
-generated_at: "2026-03-30T02:55:27.859Z"
+generated_at: "2026-11-23T20:26:46.686Z"
+status: "active"
 ---
 
 # § 6611. Interest on overpayments
@@ -51,3 +52,13 @@ generated_at: "2026-03-30T02:55:27.859Z"
       - **(i)** the taxpayer’s name, address, and identifying number and the required signature, and
       - **(ii)** sufficient required information (whether on the return or on required attachments) to permit the mathematical verification of tax liability shown on the return.
 - **(h)** For prohibition of administrative review, see section 6406.
+
+Refund of Income Tax Caused by Carryback of Foreign Taxes
+
+In general
+
+Subsection
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 819; [Pub. L. 85–866, title I](https://www.govinfo.gov/link/plaw/85/public/866), §§ 42(b), 83(b), (c), Sept. 2, 1958, [72 Stat. 1640](https://www.govinfo.gov/link/statute/72/1640), 1664; [Pub. L. 87–834, § 2(e)(4)](https://www.govinfo.gov/link/plaw/87/public/834), Oct. 16, 1962, [76 Stat. 972](https://www.govinfo.gov/link/statute/76/972); [Pub. L. 88–571, § 3(e)](https://www.govinfo.gov/link/plaw/88/public/571), Sept. 2, 1964, [78 Stat. 858](https://www.govinfo.gov/link/statute/78/858); [Pub. L. 89–721, § 1(a)](https://www.govinfo.gov/link/plaw/89/public/721), Nov. 2, 1966, [80 Stat. 1150](https://www.govinfo.gov/link/statute/80/1150); [Pub. L. 90–225, § 2(f)](https://www.govinfo.gov/link/plaw/90/public/225), Dec. 27, 1967, [81 Stat. 732](https://www.govinfo.gov/link/statute/81/732); [Pub. L. 91–172, title V, § 512(e)(4)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 641](https://www.govinfo.gov/link/statute/83/641); [Pub. L. 92–178, title VI, § 601(d)(4)](https://www.govinfo.gov/link/plaw/92/public/178), Dec. 10, 1971, [85 Stat. 559](https://www.govinfo.gov/link/statute/85/559); [Pub. L. 93–17, § 3(i)(2)](https://www.govinfo.gov/link/plaw/93/public/17), Apr. 10, 1973, [87 Stat. 19](https://www.govinfo.gov/link/statute/87/19); [Pub. L. 93–625, § 7(a)(2)(C)](https://www.govinfo.gov/link/plaw/93/public/625), Jan. 3, 1975, [88 Stat. 2115](https://www.govinfo.gov/link/statute/88/2115); [Pub. L. 94–455, title XIX, § 1904(b)(10)(A)(iv)](https://www.govinfo.gov/link/plaw/94/public/455), 1906(b)(13)(A), title XXI, § 2107(g)(2)(D), Oct. 4, 1976, [90 Stat. 1817](https://www.govinfo.gov/link/statute/90/1817), 1834, 1904; [Pub. L. 95–30, title II, § 202(d)(4)(D)](https://www.govinfo.gov/link/plaw/95/public/30), May 23, 1977, [91 Stat. 150](https://www.govinfo.gov/link/statute/91/150); [Pub. L. 95–628, § 8(c)(3)](https://www.govinfo.gov/link/plaw/95/public/628), Nov. 10, 1978, [92 Stat. 3632](https://www.govinfo.gov/link/statute/92/3632); [Pub. L. 96–223, title I, § 101(h)](https://www.govinfo.gov/link/plaw/96/public/223), Apr. 2, 1980, [94 Stat. 254](https://www.govinfo.gov/link/statute/94/254); [Pub. L. 97–248, title III, § 346(a)](https://www.govinfo.gov/link/plaw/97/public/248) –(c)(1), Sept. 3, 1982, [96 Stat. 636](https://www.govinfo.gov/link/statute/96/636), 637; [Pub. L. 98–369, div. A, title II, § 211(b)(27)](https://www.govinfo.gov/link/plaw/98/public/369), title VII, § 714(n)(2)(A), July 18, 1984, [98 Stat. 757](https://www.govinfo.gov/link/statute/98/757), 963; [Pub. L. 99–514, title XV, § 1511(c)(13)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2745](https://www.govinfo.gov/link/statute/100/2745); [Pub. L. 100–418, title I, § 1941(b)(2)(L)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1323](https://www.govinfo.gov/link/statute/102/1323); [Pub. L. 103–66, title XIII, § 13271(a)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 541](https://www.govinfo.gov/link/statute/107/541); [Pub. L. 105–34, title X, § 1055(b)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 944](https://www.govinfo.gov/link/statute/111/944); [Pub. L. 105–206, title VI, § 6010](https://www.govinfo.gov/link/plaw/105/public/206) (l), July 22, 1998, [112 Stat. 816](https://www.govinfo.gov/link/statute/112/816); [Pub. L. 106–554, § 1(a)(7) [title III, § 319(20)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–647; [Pub. L. 111–147, title V, § 501(b)](https://www.govinfo.gov/link/plaw/111/public/147), Mar. 18, 2010, [124 Stat. 105](https://www.govinfo.gov/link/statute/124/105).)*

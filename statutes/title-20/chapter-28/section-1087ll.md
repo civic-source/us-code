@@ -3,9 +3,10 @@ title: "Section 1087ll - Cost of attendance"
 usc_title: 20
 usc_section: "1087ll"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1087ll"
-generated_at: "2026-03-30T02:54:48.128Z"
+generated_at: "2026-11-23T20:26:14.479Z"
+status: "active"
 ---
 
 # § 1087ll. Cost of attendance
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:54:48.128Z"
   - **(14)** for a student in a program requiring professional licensure, certification, or a first professional credential, the cost of obtaining the license, certification, or a first professional credential.
 - **(b)** For students attending an institution of higher education less than half-time, an institution of higher education may include an allowance for living expenses, including food and housing costs in accordance with subsection (a)(4) for up to three semesters, or the equivalent, with no more than two semesters being consecutive.
 - **(c)** Each institution shall make publicly available on the institution’s website a list of all the elements of cost of attendance described in paragraphs (1) through (14) of subsection (a), and shall disclose such elements on any portion of the website describing tuition and fees of the institution.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 472](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title IV, § 406(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1454](https://www.govinfo.gov/link/statute/100/1454); amended [Pub. L. 102–325, title IV, § 471(a)](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 585](https://www.govinfo.gov/link/statute/106/585); [Pub. L. 103–208, § 2(g)(1)](https://www.govinfo.gov/link/plaw/103/public/208), Dec. 20, 1993, [107 Stat. 2471](https://www.govinfo.gov/link/statute/107/2471); [Pub. L. 105–244, title IV, § 471](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1729](https://www.govinfo.gov/link/statute/112/1729); [Pub. L. 109–171, title VIII, § 8016](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 172](https://www.govinfo.gov/link/statute/120/172); [Pub. L. 110–315, title IV, § 471(a)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3269](https://www.govinfo.gov/link/statute/122/3269); [Pub. L. 116–260, div. FF, title VII, § 702(b)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3138](https://www.govinfo.gov/link/statute/134/3138); [Pub. L. 117–103, div. R, § 103(a)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 820](https://www.govinfo.gov/link/statute/136/820).)*

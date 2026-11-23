@@ -3,16 +3,27 @@ title: "Section 8432 - Contributions"
 usc_title: 5
 usc_section: "8432"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8432"
-generated_at: "2026-03-30T02:52:56.057Z"
+generated_at: "2026-11-23T20:25:32.200Z"
+status: "active"
 ---
 
 # § 8432. Contributions
 
 - **(a)**
   - **(1)** An employee or Member may contribute to the Thrift Savings Fund in any pay period, pursuant to an election under subsection (b), an amount not to exceed the maximum percentage of such employee’s or Member’s basic pay for such pay period allowable under paragraph (2). Contributions under this subsection pursuant to such an election shall, with respect to each pay period for which such election remains in effect, be made in accordance with a program of regular contributions provided in regulations prescribed by the Executive Director.
-  - **(2)** The maximum percentage allowable under this paragraph shall be determined in accordance with the following table: In the case of a pay period beginning in fiscal year: The maximum percentage allowable is: 2001 11 2002 12 2003 13 2004 14 2005 15 2006 or thereafter 100.
+  - **(2)** The maximum percentage allowable under this paragraph shall be determined in accordance with the following table:
+
+| In the case of a pay period beginning in fiscal year: | The maximum percentage allowable is: |
+| --- | --- |
+| 2001 | 11 |
+| 2002 | 12 |
+| 2003 | 13 |
+| 2004 | 14 |
+| 2005 | 15 |
+| 2006 or thereafter | 100. |
+
   - **(3)** Notwithstanding any limitation under this subsection, an eligible participant (as defined by section 414(v) of the Internal Revenue Code of 1986) may make such additional contributions to the Thrift Savings Fund as are permitted by such section 414(v) and regulations of the Executive Director consistent therewith.
 - **(b)**
   - **(1)**
@@ -93,3 +104,49 @@ generated_at: "2026-03-30T02:52:56.057Z"
   - **(1)** Only those employees of the Central Intelligence Agency participating in the pilot project required by section 402(b) of the Intelligence Authorization Act for Fiscal Year 2003 ( Public Law 107–306 ; 50 U.S.C. 403–4 note) 2 and making contributions to the Thrift Savings Fund out of basic pay may also contribute (by direct transfer to the Fund) any part of bonus pay received by the employee as part of the pilot project.
   - **(2)** Contributions under this subsection are subject to subsection (d).
   - **(3)** For purposes of subsection (c), basic pay of an employee of the Central Intelligence Agency participating in the pilot project referred to in paragraph (1) shall include bonus pay received by the employee as part of the pilot project.
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006 or thereafter
+
+(ii) 1 1 So in original. Except in the case of a full TSP member (as defined in section 8440e(a)), members of the uniformed services shall not be eligible individuals for purposes of this paragraph.
+
+Effective Date
+
+Implementation.—
+
+In general
+
+Implementation plan
+
+Additional Technical and Conforming Amendments
+
+Definitions
+
+Definitions
+
+Regulations.—
+
+In general
+
+Specific matters to be included
+
+Applicability
+
+Effective Date.—
+
+In general
+
+Exception
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 541](https://www.govinfo.gov/link/statute/100/541); amended [Pub. L. 99–509, title VI, § 6001(a)(1)](https://www.govinfo.gov/link/plaw/99/public/509), (2), Oct. 21, 1986, [100 Stat. 1929](https://www.govinfo.gov/link/statute/100/1929), 1930; [Pub. L. 100–20, § 1(b)](https://www.govinfo.gov/link/plaw/100/public/20), Apr. 7, 1987, [101 Stat. 265](https://www.govinfo.gov/link/statute/101/265); [Pub. L. 100–238, title I](https://www.govinfo.gov/link/plaw/100/public/238), §§ 114, 115, 121, Jan. 8, 1988, [101 Stat. 1751](https://www.govinfo.gov/link/statute/101/1751), 1752; [Pub. L. 103–353](https://www.govinfo.gov/link/plaw/103/public/353), §§ 4(c), 5(e)(3), Oct. 13, 1994, [108 Stat. 3172](https://www.govinfo.gov/link/statute/108/3172), 3174; [Pub. L. 104–93, title III, § 304(a)](https://www.govinfo.gov/link/plaw/104/public/93), Jan. 6, 1996, [109 Stat. 965](https://www.govinfo.gov/link/statute/109/965); [Pub. L. 104–186, title II, § 215(16)](https://www.govinfo.gov/link/plaw/104/public/186), Aug. 20, 1996, [110 Stat. 1746](https://www.govinfo.gov/link/statute/110/1746); [Pub. L. 104–316, title I, § 103(g)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3829](https://www.govinfo.gov/link/statute/110/3829); [Pub. L. 106–361](https://www.govinfo.gov/link/plaw/106/public/361), §§ 1(a), 2(a), (b)(1)–(3), Oct. 27, 2000, [114 Stat. 1400](https://www.govinfo.gov/link/statute/114/1400), 1401; [Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 138(a)(1)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–233; [Pub. L. 107–304, § 1(b)(1)](https://www.govinfo.gov/link/plaw/107/public/304), Nov. 27, 2002, [116 Stat. 2363](https://www.govinfo.gov/link/statute/116/2363); [Pub. L. 108–177, title IV, § 405(b)(2)](https://www.govinfo.gov/link/plaw/108/public/177), Dec. 13, 2003, [117 Stat. 2632](https://www.govinfo.gov/link/statute/117/2632); [Pub. L. 108–469, § 1(b)](https://www.govinfo.gov/link/plaw/108/public/469), (c), (d)(2), Dec. 21, 2004, [118 Stat. 3891](https://www.govinfo.gov/link/statute/118/3891); [Pub. L. 111–31, div. B, title I, § 102](https://www.govinfo.gov/link/plaw/111/public/31), June 22, 2009, [123 Stat. 1853](https://www.govinfo.gov/link/statute/123/1853); [Pub. L. 114–92, div. A, title VI, § 632(b)](https://www.govinfo.gov/link/plaw/114/public/92), (c), Nov. 25, 2015, [129 Stat. 847](https://www.govinfo.gov/link/statute/129/847); [Pub. L. 114–328, div. A, title VI, § 632](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2162](https://www.govinfo.gov/link/statute/130/2162).)*

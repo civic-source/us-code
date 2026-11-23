@@ -3,9 +3,10 @@ title: "Section 1431 - Findings and policy"
 usc_title: 20
 usc_section: "1431"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1431"
-generated_at: "2026-03-30T02:54:48.165Z"
+generated_at: "2026-11-23T20:26:14.651Z"
+status: "active"
 ---
 
 # § 1431. Findings and policy
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:48.165Z"
   - **(2)** to facilitate the coordination of payment for early intervention services from Federal, State, local, and private sources (including public and private insurance coverage);
   - **(3)** to enhance State capacity to provide quality early intervention services and expand and improve existing early intervention services being provided to infants and toddlers with disabilities and their families; and
   - **(4)** to encourage States to expand opportunities for children under 3 years of age who would be at risk of having substantial developmental delay if they did not receive early intervention services.
+
+## Source Credit
+
+*([Pub. L. 91–230, title VI, § 631](https://www.govinfo.gov/link/plaw/91/public/230), as added [Pub. L. 108–446, title I, § 101](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2744](https://www.govinfo.gov/link/statute/118/2744).)*

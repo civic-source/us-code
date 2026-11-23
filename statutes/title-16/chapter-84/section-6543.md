@@ -3,9 +3,10 @@ title: "Section 6543 - Watershed Condition Framework"
 usc_title: 16
 usc_section: "6543"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6543"
-generated_at: "2026-03-30T02:54:23.061Z"
+generated_at: "2026-11-23T20:26:20.802Z"
+status: "active"
 ---
 
 # § 6543. Watershed Condition Framework
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:54:23.061Z"
 - **(c)** Notwithstanding paragraph (2) of subsection (a), the Secretary may identify a watershed as a priority for rehabilitation in the Watershed Condition Framework without using the process described in that subsection if a Forest Supervisor determines that—
   - **(1)** a wildfire has significantly diminished the condition of the watershed; and
   - **(2)** the emergency stabilization activities of the Burned Area Emergency Response Team are insufficient to return the watershed to proper function.
+
+## Source Credit
+
+*([Pub. L. 108–148, title III, § 304](https://www.govinfo.gov/link/plaw/108/public/148), as added [Pub. L. 115–334, title VIII, § 8405(a)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4843](https://www.govinfo.gov/link/statute/132/4843).)*

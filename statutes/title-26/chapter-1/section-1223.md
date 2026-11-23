@@ -3,9 +3,10 @@ title: "Section 1223 - Holding period of property"
 usc_title: 26
 usc_section: "1223"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1223"
-generated_at: "2026-03-30T02:55:27.760Z"
+generated_at: "2026-11-23T20:26:46.045Z"
+status: "active"
 ---
 
 # § 1223. Holding period of property
@@ -34,3 +35,9 @@ For purposes of this subtitle—
   - **(13)** Except for purposes of subsections (a)(2) and (c)(2)(A) of section 1202, in determining the period for which the taxpayer has held property the acquisition of which resulted under section 1045 or 1397B in the nonrecognition of any part of the gain realized on the sale of other property, there shall be included the period for which such other property has been held as of the date of such sale.
   - **(14)** If the security to which a securities futures contract (as defined in section 1234B) relates (other than a contract to which section 1256 applies) is acquired in satisfaction of such contract, in determining the period for which the taxpayer has held such security, there shall be included the period for which the taxpayer held such contract if such contract was a capital asset in the hands of the taxpayer.
   - **(15)** For special holding period provision relating to certain partnership distributions, see section 735(b).
+
+Cross reference.—
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 323; [Pub. L. 87–834, § 14(b)(3)](https://www.govinfo.gov/link/plaw/87/public/834), Oct. 16, 1962, [76 Stat. 1041](https://www.govinfo.gov/link/statute/76/1041); [Pub. L. 91–614, title I, § 101(g)](https://www.govinfo.gov/link/plaw/91/public/614), Dec. 31, 1970, [84 Stat. 1838](https://www.govinfo.gov/link/statute/84/1838); [Pub. L. 94–455, title XIV, § 1402(b)(1)(Q)](https://www.govinfo.gov/link/plaw/94/public/455), (2), title XIX, § 1906(b) (13)(A), Oct. 4, 1976, [90 Stat. 1732](https://www.govinfo.gov/link/statute/90/1732), 1834; [Pub. L. 95–600, title VII, § 702(c)(5)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2927](https://www.govinfo.gov/link/statute/92/2927); [Pub. L. 96–223, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/96/public/223), Apr. 2, 1980, [94 Stat. 299](https://www.govinfo.gov/link/statute/94/299); [Pub. L. 97–448, title I](https://www.govinfo.gov/link/plaw/97/public/448), §§ 104(b)(3)(C), 105(c)(4), Jan. 12, 1983, [96 Stat. 2382](https://www.govinfo.gov/link/statute/96/2382), 2385; [Pub. L. 98–369, div. A, title I, § 54(c)](https://www.govinfo.gov/link/plaw/98/public/369), title V, § 541(b)(1), title X, § 1001(b)(14), (e), July 18, 1984, [98 Stat. 569](https://www.govinfo.gov/link/statute/98/569), 890, 1011, 1012; [Pub. L. 100–647, title I, § 1006(e)(17)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3403](https://www.govinfo.gov/link/statute/102/3403); [Pub. L. 101–194, title V, § 502(b)(1)](https://www.govinfo.gov/link/plaw/101/public/194), Nov. 30, 1989, [103 Stat. 1754](https://www.govinfo.gov/link/statute/103/1754); [Pub. L. 105–34, title III](https://www.govinfo.gov/link/plaw/105/public/34), §§ 312(d)(9), 313(b)(2), Aug. 5, 1997, [111 Stat. 840](https://www.govinfo.gov/link/statute/111/840), 842; [Pub. L. 105–206, title V, § 5001(a)(5)](https://www.govinfo.gov/link/plaw/105/public/206), title VI, § 6005(d)(4), July 22, 1998, [112 Stat. 788](https://www.govinfo.gov/link/statute/112/788), 805; [Pub. L. 106–554, § 1(a)(7) [title I, § 116(b)(2), title IV, § 401(h)(1)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–603, 2763A–650; [Pub. L. 108–357, title IV, § 413(c)(21)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1509](https://www.govinfo.gov/link/statute/118/1509); [Pub. L. 109–135, title IV, § 402(a)(2)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2610](https://www.govinfo.gov/link/statute/119/2610); [Pub. L. 113–295, div. A, title II, § 221(a)(80)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4049](https://www.govinfo.gov/link/statute/128/4049); [Pub. L. 115–141, div. U, title IV, § 401(d)(4)(B)(vi)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1209](https://www.govinfo.gov/link/statute/132/1209).)*

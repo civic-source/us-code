@@ -3,9 +3,10 @@ title: "Section 1001 - Congressional findings"
 usc_title: 45
 usc_section: "1001"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 1001"
-generated_at: "2026-03-30T02:55:56.559Z"
+generated_at: "2026-11-23T20:27:05.330Z"
+status: "active"
 ---
 
 # § 1001. Congressional findings
@@ -16,3 +17,7 @@ Congress hereby finds that—
   - **(2)** for those Rock Island Railroad employees not hired by other rail carriers, there is no other practicable means of obtaining funds to meet the necessary costs of such employee protection that are assumed by the Rock Island Railroad;
   - **(3)** a cessation of necessary operations of the Rock Island Railroad would have serious repercussions on the economies of the States in which such railroad principally operates; and
   - **(4)** premature cessation of services over lines which are the subject of pending purchase application would result in harm to the shipping public and could imperil continuation of vital commuter service.
+
+## Source Credit
+
+*([Pub. L. 96–254, title I, § 102](https://www.govinfo.gov/link/plaw/96/public/254), May 30, 1980, [94 Stat. 399](https://www.govinfo.gov/link/statute/94/399).)*

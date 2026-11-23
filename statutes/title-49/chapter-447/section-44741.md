@@ -3,9 +3,10 @@ title: "Section 44741 - Approval of organization designation authorization unit 
 usc_title: 49
 usc_section: "44741"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44741"
-generated_at: "2026-03-30T02:56:19.387Z"
+generated_at: "2026-11-23T20:27:35.192Z"
+status: "active"
 ---
 
 # § 44741. Approval of organization designation authorization unit members
@@ -61,3 +62,67 @@ generated_at: "2026-03-30T02:56:19.387Z"
   - **(1)** The definitions contained in section 44736(c) shall apply to this section.
   - **(2)** The term “transport airplane” means a transport category airplane designed for operation by an air carrier or foreign air carrier type-certificated with a passenger seating capacity of 30 or more or an all-cargo or combi derivative of such an airplane.
 - **(j)** There is authorized to be appropriated to carry out this section $3,000,000 for each of fiscal years 2021 through 2028.
+
+In General
+
+Process and Timeline.—
+
+In general
+
+Process
+
+Timeline
+
+Documentation of approval
+
+Reapplication
+
+Qualifications.—
+
+In general
+
+Previously rejected application
+
+Rescission of Approval
+
+Conditional Selections.—
+
+In general
+
+Required determination
+
+Final determination
+
+Rejection and review
+
+Prohibitions
+
+Records and Briefings.—
+
+In general
+
+Congressional briefing
+
+Special Review of Qualifications.—
+
+In general
+
+Unqualified individual
+
+Deadline
+
+Savings clause
+
+Prohibition
+
+Definitions.—
+
+General applicability
+
+Transport airplane
+
+Authorization of Appropriations
+
+## Source Credit
+
+*(Added [Pub. L. 116–260, div. V, title I, § 107(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2320](https://www.govinfo.gov/link/statute/134/2320); amended [Pub. L. 118–63, title III, § 306(a)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1071](https://www.govinfo.gov/link/statute/138/1071).)*

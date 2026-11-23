@@ -3,9 +3,10 @@ title: "Section 1641 - Customs brokers"
 usc_title: 19
 usc_section: "1641"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1641"
-generated_at: "2026-03-30T02:54:24.648Z"
+generated_at: "2026-11-23T20:26:10.832Z"
+status: "active"
 ---
 
 # § 1641. Customs brokers
@@ -76,3 +77,7 @@ generated_at: "2026-03-30T02:54:24.648Z"
     - **(B)** The term “nonresident importer” means an importer who is—
       - **(i)** an individual who is not a citizen of the United States or an alien lawfully admitted for permanent residence in the United States; or
       - **(ii)** a partnership, corporation, or other commercial entity that is not organized under the laws of a jurisdiction within the customs territory of the United States (as such term is defined in General Note 2 of the Harmonized Tariff Schedule of the United States) or in the Virgin Islands of the United States.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 641, [46 Stat. 759](https://www.govinfo.gov/link/statute/46/759); Aug. 26, 1935, ch. 689, §§ 3–5, [49 Stat. 864](https://www.govinfo.gov/link/statute/49/864), 865; [Pub. L. 85–791, § 8](https://www.govinfo.gov/link/plaw/85/public/791), Aug. 28, 1958, [72 Stat. 945](https://www.govinfo.gov/link/statute/72/945); [Pub. L. 91–271, title III, § 301(jj)](https://www.govinfo.gov/link/plaw/91/public/271), June 2, 1970, [84 Stat. 291](https://www.govinfo.gov/link/statute/84/291); [Pub. L. 95–410, title I, § 113](https://www.govinfo.gov/link/plaw/95/public/410), Oct. 3, 1978, [92 Stat. 898](https://www.govinfo.gov/link/statute/92/898); [Pub. L. 96–417, title VI, § 611](https://www.govinfo.gov/link/plaw/96/public/417), Oct. 10, 1980, [94 Stat. 1746](https://www.govinfo.gov/link/statute/94/1746); [Pub. L. 98–573, title II, § 212(a)](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 2978](https://www.govinfo.gov/link/statute/98/2978); [Pub. L. 99–514, title XVIII, § 1888(8)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2925](https://www.govinfo.gov/link/statute/100/2925); [Pub. L. 103–182, title VI, § 648](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2207](https://www.govinfo.gov/link/statute/107/2207); [Pub. L. 104–295, § 21(e)(11)](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3531](https://www.govinfo.gov/link/statute/110/3531); [Pub. L. 105–258, title III, § 302(b)](https://www.govinfo.gov/link/plaw/105/public/258), Oct. 14, 1998, [112 Stat. 1916](https://www.govinfo.gov/link/statute/112/1916); [Pub. L. 114–125, title I, § 116(a)](https://www.govinfo.gov/link/plaw/114/public/125), title IX, § 903, Feb. 24, 2016, [130 Stat. 144](https://www.govinfo.gov/link/statute/130/144), 223.)*

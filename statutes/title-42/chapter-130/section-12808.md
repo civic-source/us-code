@@ -3,9 +3,10 @@ title: "Section 12808 - Second mortgage assistance for first-time homebuyers"
 usc_title: 42
 usc_section: "12808"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12808"
-generated_at: "2026-03-30T02:56:11.432Z"
+generated_at: "2026-11-23T20:27:23.443Z"
+status: "active"
 ---
 
 # § 12808. Second mortgage assistance for first-time homebuyers
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.432Z"
   - **(2)** The interest rate on the unpaid balance of a loan under this section shall be at least 4 percent.
   - **(3)** A deferred payment loan secured by a second mortgage shall be repayable over the 15-year period beginning at the end of the deferral period.
 - **(e)** A deferred payment loan assisted with amount 1 1 So in original. Probably should be “amounts”. provided under a grant under this section shall be secured by a lien on the property involved, which lien shall be subordinate to the first mortgage on the property.
+
+## Source Credit
+
+*([Pub. L. 101–625, title II, § 258](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4123](https://www.govinfo.gov/link/statute/104/4123).)*

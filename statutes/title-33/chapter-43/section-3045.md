@@ -3,9 +3,10 @@ title: "Section 3045 - Computation of retired pay"
 usc_title: 33
 usc_section: "3045"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 3045"
-generated_at: "2026-03-30T02:55:41.137Z"
+generated_at: "2026-11-23T20:26:54.241Z"
+status: "active"
 ---
 
 # § 3045. Computation of retired pay
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:41.137Z"
     - **(A)** each full month of service that is in addition to the number of full years of service creditable to the officer shall be credited as 1 ⁄ 12 of a year; and
     - **(B)** any remaining fractional part of a month shall be disregarded.
   - **(2)** Retired pay computed under this section, if not a multiple of $1, shall be rounded to the next lower multiple of $1.
+
+## Source Credit
+
+*([Pub. L. 107–372, title II, § 245](https://www.govinfo.gov/link/plaw/107/public/372), Dec. 19, 2002, [116 Stat. 3089](https://www.govinfo.gov/link/statute/116/3089); [Pub. L. 114–92, div. A, title VI, § 631(c)(3)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 844](https://www.govinfo.gov/link/statute/129/844).)*

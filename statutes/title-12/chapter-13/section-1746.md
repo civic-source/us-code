@@ -3,9 +3,10 @@ title: "Section 1746 - Insurance on mortgages on large-scale housing projects"
 usc_title: 12
 usc_section: "1746"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1746"
-generated_at: "2026-03-30T02:53:53.431Z"
+generated_at: "2026-11-23T20:25:59.032Z"
+status: "active"
 ---
 
 # § 1746. Insurance on mortgages on large-scale housing projects
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:53.431Z"
   - **(4)** provide for complete amortization by periodic payments within such term as the Secretary shall prescribe and shall bear interest (exclusive of premium charges for insurance) as not to exceed 4 per centum per annum on the amount of the principal obligation outstanding at any time: Provided , That the Secretary with the approval of the Secretary of the Treasury, may prescribe by regulation a higher maximum rate of interest, not exceeding 4½ per centum per annum on the amount of the principal obligation outstanding at any time, if he finds that the mortgage market demands it. The Secretary may consent to the release of a part or parts of the mortgaged property from the lien of the mortgage upon such terms and conditions as he may prescribe and the mortgage may provide for such release, and the mortgage may provide that, upon the completion of the construction of the project, such mortgage may be replaced by individual mortgages covering each individual dwelling in the project. Each such individual mortgage may be insured under this section with the mortgagor being either the builder who constructed the dwellings or the owner and occupant of the dwelling at the time, and where the mortgagor is the owner and occupant, may involve a principal obligation in such amount and have such maturity and interest rate as a mortgage eligible for insurance under section 1709(b)(2)(D) of this title .
 - **(c)** Preference or priority of opportunity in the occupancy of the mortgaged property for veterans of World War II and their immediate families and for hardship cases as defined by the Secretary shall be provided under such regulations and procedures as may be prescribed by the Secretary.
 - **(d)** The provisions of subsections (c), (d), (e), and (f) of section 1743 of this title shall be applicable to mortgages insured under this section covering a project described in subsection (b) of this section, and the provisions of subsections (a) to (f), and (h) of section 1739 of this title shall be applicable to the individual mortgages insured pursuant to subsection (b)(4) of this section covering individual dwellings in the project.
+
+## Source Credit
+
+*(June 27, 1934, ch. 847, title VI, § 611, as added Aug. 10, 1948, ch. 832, title I, § 101(f), [62 Stat. 1271](https://www.govinfo.gov/link/statute/62/1271); amended Apr. 20, 1950, ch. 94, title I, §§ 121, 122, [64 Stat. 58](https://www.govinfo.gov/link/statute/64/58), 59; [Pub. L. 90–19, § 1(a)(3)](https://www.govinfo.gov/link/plaw/90/public/19), May 25, 1967, [81 Stat. 17](https://www.govinfo.gov/link/statute/81/17).)*

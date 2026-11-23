@@ -3,9 +3,10 @@ title: "Section 18043 - Funding for the territories"
 usc_title: 42
 usc_section: "18043"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18043"
-generated_at: "2026-03-30T02:56:11.514Z"
+generated_at: "2026-11-23T20:27:23.780Z"
+status: "active"
 ---
 
 # § 18043. Funding for the territories
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.514Z"
   - **(2)** The Secretary shall allocate the amount appropriated under paragraph (1) among the territories for purposes of carrying out this section as follows:
     - **(A)** For Puerto Rico, $925,000,000.
     - **(B)** For another territory, the portion of $75,000,000 specified by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 111–148, title I, § 1323](https://www.govinfo.gov/link/plaw/111/public/148), as added [Pub. L. 111–152, title I, § 1204(a)](https://www.govinfo.gov/link/plaw/111/public/152), Mar. 30, 2010, [124 Stat. 1055](https://www.govinfo.gov/link/statute/124/1055).)*

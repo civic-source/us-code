@@ -3,9 +3,10 @@ title: "Section 288d - Enforcement of Senate subpena or order"
 usc_title: 2
 usc_section: "288d"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 288d"
-generated_at: "2026-03-30T02:53:04.795Z"
+generated_at: "2026-11-23T20:25:28.869Z"
+status: "active"
 ---
 
 # § 288d. Enforcement of Senate subpena or order
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:04.795Z"
 - **(g)** Nothing in this section shall limit the discretion of—
   - **(1)** the President pro tempore of the Senate in certifying to the United States Attorney for the District of Columbia any matter pursuant to section 194 of this title ; or
   - **(2)** the Senate to hold any individual or entity in contempt of the Senate.
+
+## Source Credit
+
+*([Pub. L. 95–521, title VII, § 705](https://www.govinfo.gov/link/plaw/95/public/521), Oct. 26, 1978, [92 Stat. 1878](https://www.govinfo.gov/link/statute/92/1878); [Pub. L. 99–336, § 6(a)(2)](https://www.govinfo.gov/link/plaw/99/public/336), June 19, 1986, [100 Stat. 639](https://www.govinfo.gov/link/statute/100/639).)*

@@ -3,9 +3,10 @@ title: "Section 32918 - Retrofit devices"
 usc_title: 49
 usc_section: "32918"
 chapter: 329
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 32918"
-generated_at: "2026-03-30T02:56:19.368Z"
+generated_at: "2026-11-23T20:27:35.022Z"
+status: "active"
 ---
 
 # § 32918. Retrofit devices
@@ -26,3 +27,42 @@ generated_at: "2026-03-30T02:56:19.368Z"
 - **(e)** The Administrator shall prescribe regulations establishing—
   - **(1)** testing and other procedures for evaluating the extent to which retrofit devices affect fuel economy and emissions of air pollutants; and
   - **(2)** criteria for evaluating the accuracy of fuel economy representations made with respect to retrofit devices.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 32918 | 15:2011. | Oct. 20, 1972 , Pub. L. 92–513, § 511 , as added Dec. 22, 1975 , Pub. L. 94–163, § 301 , 89 Stat. 915 , and amended July 5, 1994 , Pub. L. 103–272, § 4(c) , 108 Stat. 1361 . |
+
+
+Definition
+
+Examination of Fuel Economy Representations
+
+Evaluation of Retrofit Devices
+
+Results of Tests and Publication in Federal Register
+
+Regulations Establishing Tests and Procedures for Evaluation of Retrofit Devices
+
+Historical and Revision Notes
+
+32918
+
+Oct. 20, 1972
+
+Pub. L. 92–513, § 511
+
+Dec. 22, 1975
+
+Pub. L. 94–163, § 301
+
+89 Stat. 915
+
+July 5, 1994
+
+Pub. L. 103–272, § 4(c)
+
+108 Stat. 1361
+
+## Source Credit
+
+*([Pub. L. 103–429, § 6(43)(B)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4382](https://www.govinfo.gov/link/statute/108/4382).)*

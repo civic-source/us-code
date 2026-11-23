@@ -3,9 +3,10 @@ title: "Section 7622 - Employee protection"
 usc_title: 42
 usc_section: "7622"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7622"
-generated_at: "2026-03-30T02:56:11.320Z"
+generated_at: "2026-11-23T20:27:22.938Z"
+status: "active"
 ---
 
 # § 7622. Employee protection
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:11.320Z"
   - **(2)** The court, in issuing any final order under this subsection, may award costs of litigation (including reasonable attorney and expert witness fees) to any party whenever the court determines such award is appropriate.
 - **(f)** Any nondiscretionary duty imposed by this section shall be enforceable in a mandamus proceeding brought under section 1361 of title 28 .
 - **(g)** Subsection (a) shall not apply with respect to any employee who, acting without direction from his employer (or the employer’s agent), deliberately causes a violation of any requirement of this chapter.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title III, § 322, as added [Pub. L. 95–95, title III, § 312](https://www.govinfo.gov/link/plaw/95/public/95), Aug. 7, 1977, [91 Stat. 783](https://www.govinfo.gov/link/statute/91/783).)*

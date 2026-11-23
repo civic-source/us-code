@@ -3,9 +3,10 @@ title: "Section 1185g - Continuity of care"
 usc_title: 29
 usc_section: "1185g"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1185g"
-generated_at: "2026-03-30T02:55:18.725Z"
+generated_at: "2026-11-23T20:26:37.999Z"
+status: "active"
 ---
 
 # § 1185g. Continuity of care
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:18.725Z"
       - **(i)** is life-threatening, degenerative, potentially disabling, or congenital; and
       - **(ii)** requires specialized medical care over a prolonged period of time.
   - **(3)** The term “terminated” includes, with respect to a contract, the expiration or nonrenewal of the contract, but does not include a termination of the contract for failure to meet applicable quality standards or for fraud.
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 718](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 116–260, div. BB, title I, § 113(c)(1)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2871](https://www.govinfo.gov/link/statute/134/2871).)*

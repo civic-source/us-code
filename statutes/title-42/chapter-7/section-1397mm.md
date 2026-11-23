@@ -3,9 +3,10 @@ title: "Section 1397mm - Grants to improve outreach and enrollment"
 usc_title: 42
 usc_section: "1397mm"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1397mm"
-generated_at: "2026-03-30T02:56:11.075Z"
+generated_at: "2026-11-23T20:27:21.693Z"
+status: "active"
 ---
 
 # § 1397mm. Grants to improve outreach and enrollment
@@ -74,3 +75,7 @@ generated_at: "2026-03-30T02:56:11.075Z"
   - **(5)** the development of special outreach materials for Native Americans or for individuals with limited English proficiency;
   - **(6)** the development of materials and toolkits and the provision of technical assistance to States regarding enrollment and retention strategies for eligible children under this subchapter and subchapter XIX; and
   - **(7)** such other outreach initiatives as the Secretary determines would increase public awareness of the programs under this subchapter and subchapter XIX.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XXI, § 2113, as added [Pub. L. 111–3, title II, § 201(a)](https://www.govinfo.gov/link/plaw/111/public/3), Feb. 4, 2009, [123 Stat. 35](https://www.govinfo.gov/link/statute/123/35); amended [Pub. L. 111–148, title X, § 10203(d)(2)(E)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 931](https://www.govinfo.gov/link/statute/124/931); [Pub. L. 114–10, title III, § 303](https://www.govinfo.gov/link/plaw/114/public/10), Apr. 16, 2015, [129 Stat. 158](https://www.govinfo.gov/link/statute/129/158); [Pub. L. 115–120, div. C, § 3004(a)](https://www.govinfo.gov/link/plaw/115/public/120), (b), Jan. 22, 2018, [132 Stat. 36](https://www.govinfo.gov/link/statute/132/36); [Pub. L. 115–123, div. E, title I, § 50103](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 176](https://www.govinfo.gov/link/statute/132/176); [Pub. L. 117–328, div. FF, title V, § 5111(c)(4)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5939](https://www.govinfo.gov/link/statute/136/5939).)*

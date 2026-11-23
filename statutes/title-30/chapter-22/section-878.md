@@ -3,9 +3,10 @@ title: "Section 878 - Definitions"
 usc_title: 30
 usc_section: "878"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 878"
-generated_at: "2026-03-30T02:55:29.391Z"
+generated_at: "2026-11-23T20:26:34.968Z"
+status: "active"
 ---
 
 # § 878. Definitions
@@ -33,3 +34,7 @@ For the purpose of this subchapter and subchapter II of this chapter, the term�
 - **(j)** “low voltage” means up to and including 660 volts; “medium voltage” means voltages from 661 to 1,000 volts; and “high voltage” means more than 1,000 volts;
 - **(k)** Repealed. Pub. L. 95–164, title II, § 202(b) , Nov. 9, 1977 , 91 Stat. 1317 .
 - **(l)** “coal mine” includes areas of adjoining mines connected underground.
+
+## Source Credit
+
+*([Pub. L. 91–173, title III, § 318](https://www.govinfo.gov/link/plaw/91/public/173), Dec. 30, 1969, [83 Stat. 791](https://www.govinfo.gov/link/statute/83/791); [Pub. L. 95–164, title II, § 202(b)](https://www.govinfo.gov/link/plaw/95/public/164), Nov. 9, 1977, [91 Stat. 1317](https://www.govinfo.gov/link/statute/91/1317); [Pub. L. 102–285, § 10(b)](https://www.govinfo.gov/link/plaw/102/public/285), May 18, 1992, [106 Stat. 172](https://www.govinfo.gov/link/statute/106/172).)*

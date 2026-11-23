@@ -3,9 +3,10 @@ title: "Section 6971 - Employee protection"
 usc_title: 42
 usc_section: "6971"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6971"
-generated_at: "2026-03-30T02:56:11.277Z"
+generated_at: "2026-11-23T20:27:22.756Z"
+status: "active"
 ---
 
 # § 6971. Employee protection
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.277Z"
     - **(B)** information identifying the hazards to which persons working at a hazardous waste generation, treatment, storage, disposal facility or site or otherwise handling hazardous waste may be exposed, the nature and extent of the exposure, and methods to protect workers from such hazards; and
     - **(C)** incidents of worker injury or harm at a hazardous waste generation, treatment, storage or disposal facility or site; and
   - **(2)** notify the Secretary and the Director of the Administrator’s receipt of notifications under section 6930 or reports under sections 6922, 6923, and 6924 of this title and make such notifications and reports available to the Secretary and the Director.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 7001](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 94–580, § 2](https://www.govinfo.gov/link/plaw/94/public/580), Oct. 21, 1976, [90 Stat. 2824](https://www.govinfo.gov/link/statute/90/2824); amended [Pub. L. 96–482, § 24](https://www.govinfo.gov/link/plaw/96/public/482), Oct. 21, 1980, [94 Stat. 2347](https://www.govinfo.gov/link/statute/94/2347).)*

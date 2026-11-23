@@ -3,12 +3,17 @@ title: "Section 1781 - Preschool programs"
 usc_title: 42
 usc_section: "1781"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1781"
-generated_at: "2026-03-30T02:56:11.119Z"
+generated_at: "2026-11-23T20:27:21.900Z"
+status: "active"
 ---
 
 # § 1781. Preschool programs
 
 The Secretary may extend the benefits of all school feeding programs conducted and supervised by the Department of Agriculture to include preschool programs operated as part of the school system.
 
+
+## Source Credit
+
+*([Pub. L. 89–642, § 12](https://www.govinfo.gov/link/plaw/89/public/642), Oct 11, 1966, [80 Stat. 889](https://www.govinfo.gov/link/statute/80/889).)*

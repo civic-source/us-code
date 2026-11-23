@@ -3,9 +3,10 @@ title: "Section 17935 - Restrictions on certain disclosures and sales of health 
 usc_title: 42
 usc_section: "17935"
 chapter: 156
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17935"
-generated_at: "2026-03-30T02:56:11.510Z"
+generated_at: "2026-11-23T20:27:23.766Z"
+status: "active"
 ---
 
 # § 17935. Restrictions on certain disclosures and sales of health information; accounting of certain protected health information disclosures; access to certain information in electronic format
@@ -55,3 +56,7 @@ generated_at: "2026-03-30T02:56:11.510Z"
   - **(1)** the individual shall have a right to obtain from such covered entity a copy of such information in an electronic format and, if the individual chooses, to direct the covered entity to transmit such copy directly to an entity or person designated by the individual, provided that any such choice is clear, conspicuous, and specific;
   - **(2)** if the individual makes a request to a business associate for access to, or a copy of, protected health information about the individual, or if an individual makes a request to a business associate to grant such access to, or transmit such copy directly to, a person or entity designated by the individual, a business associate may provide the individual with such access or copy, which may be in an electronic form, or grant or transmit such access or copy to such person or entity designated by the individual; and
   - **(3)** notwithstanding paragraph (c)(4) of such section, any fee that the covered entity may impose for providing such individual with a copy of such information (or a summary or explanation of such information) if such copy (or summary or explanation) is in an electronic form shall not be greater than the entity’s labor costs in responding to the request for the copy (or summary or explanation).
+
+## Source Credit
+
+*([Pub. L. 111–5, div. A, title XIII, § 13405](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 264](https://www.govinfo.gov/link/statute/123/264); [Pub. L. 114–255, div. A, title IV, § 4006(b)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1183](https://www.govinfo.gov/link/statute/130/1183).)*

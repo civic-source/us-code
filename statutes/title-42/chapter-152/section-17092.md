@@ -3,9 +3,10 @@ title: "Section 17092 - High-performance green Federal buildings"
 usc_title: 42
 usc_section: "17092"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17092"
-generated_at: "2026-03-30T02:56:11.495Z"
+generated_at: "2026-11-23T20:27:23.723Z"
+status: "active"
 ---
 
 # § 17092. High-performance green Federal buildings
@@ -71,3 +72,7 @@ generated_at: "2026-03-30T02:56:11.495Z"
       - **(iv)** reduced impacts from transportation through building location and site design that promote access by public transportation; and
       - **(v)** such other criteria as the Federal Director determines to be appropriate; and
     - **(F)** national recognition within the building industry.
+
+## Source Credit
+
+*([Pub. L. 110–140, title IV, § 436](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1616](https://www.govinfo.gov/link/statute/121/1616).)*

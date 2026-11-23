@@ -3,9 +3,10 @@ title: "Section 11386b - Allocation of amounts and incentives for specific eligi
 usc_title: 42
 usc_section: "11386b"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11386b"
-generated_at: "2026-03-30T02:56:11.401Z"
+generated_at: "2026-11-23T20:27:23.304Z"
+status: "active"
 ---
 
 # § 11386b. Allocation of amounts and incentives for specific eligible activities
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.401Z"
     - **(C)** any other activity determined by the Secretary, based on research and after notice and comment to the public, to have been proven effective at reducing homelessness generally, reducing homelessness for a specific subpopulation, or achieving homeless prevention and independent living goals as set forth in section 11386a(b)(1)(F) of this title .
   - **(3)** To the extent practicable, in providing bonuses or incentives for proven strategies, the Secretary shall seek to maintain a balance among strategies targeting homeless individuals, families, and other subpopulations. The Secretary shall not implement bonuses or incentives that specifically discourage collaborative applicants from exercising their flexibility to serve families with children and youth defined as homeless under other Federal statutes.
 - **(e)** If any geographic area demonstrates that it has fully implemented any of the activities described in subsection (d) for all homeless individuals and families or for all members of subpopulations for whom such activities are targeted, that geographic area shall receive the bonus or incentive provided under subsection (d), but may use such bonus or incentive for any eligible activity under either section 11383 of this title or paragraphs (4) and (5) of section 11374(a) of this title for homeless people generally or for the relevant subpopulation.
+
+## Source Credit
+
+*([Pub. L. 100–77, title IV, § 428](https://www.govinfo.gov/link/plaw/100/public/77), as added [Pub. L. 111–22, div. B, title III, § 1305(3)](https://www.govinfo.gov/link/plaw/111/public/22), May 20, 2009, [123 Stat. 1693](https://www.govinfo.gov/link/statute/123/1693).)*

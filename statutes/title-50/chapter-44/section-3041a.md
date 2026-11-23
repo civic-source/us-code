@@ -3,9 +3,10 @@ title: "Section 3041a - Director of the National Reconnaissance Office"
 usc_title: 50
 usc_section: "3041a"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3041a"
-generated_at: "2026-03-30T02:56:26.230Z"
+generated_at: "2026-11-23T20:27:30.897Z"
+status: "active"
 ---
 
 # § 3041a. Director of the National Reconnaissance Office
@@ -36,3 +37,17 @@ generated_at: "2026-03-30T02:56:26.230Z"
   - **(6)** Not later than March 31 of each year, the Board shall submit to the Director and to the congressional intelligence committees a report on the activities and significant findings of the Board during the preceding year.
   - **(7)** The Federal Advisory Committee Act (5 U.S.C. App.) 1 1 See References in Text note below. shall not apply to the Board.
   - **(8)** The Board shall terminate on August 31, 2027 .
+
+In General
+
+Exception for Initial Nominations
+
+Incumbent Inspector General
+
+In general
+
+Effective date
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title I, § 106A, as added [Pub. L. 113–126, title IV, § 411(a)](https://www.govinfo.gov/link/plaw/113/public/126), July 7, 2014, [128 Stat. 1409](https://www.govinfo.gov/link/statute/128/1409); amended [Pub. L. 116–92, div. E, title LXIV, § 6433(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2200](https://www.govinfo.gov/link/statute/133/2200); [Pub. L. 117–263, div. F, title LXIV, § 6431](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3532](https://www.govinfo.gov/link/statute/136/3532); [Pub. L. 118–159, div. F, title LXIII, § 6304](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2473](https://www.govinfo.gov/link/statute/138/2473).)*

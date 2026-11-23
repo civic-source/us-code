@@ -3,9 +3,10 @@ title: "Section 586 - Duties; supervision by Attorney General"
 usc_title: 28
 usc_section: "586"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 586"
-generated_at: "2026-03-30T02:55:30.132Z"
+generated_at: "2026-11-23T20:26:36.385Z"
+status: "active"
 ---
 
 # § 586. Duties; supervision by Attorney General
@@ -68,3 +69,11 @@ generated_at: "2026-03-30T02:55:30.132Z"
     - **(B)** If a material misstatement of income or expenditures or of assets is reported, the United States trustee shall—
       - **(i)** report the material misstatement, if appropriate, to the United States Attorney pursuant to section 3057 of title 18 ; and
       - **(ii)** if advisable, take appropriate action, including but not limited to commencing an adversary proceeding to revoke the debtor’s discharge pursuant to section 727(d) of title 11 .
+
+Establishment of procedures
+
+Procedures
+
+## Source Credit
+
+*(Added [Pub. L. 95–598, title II, § 224(a)](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2663](https://www.govinfo.gov/link/statute/92/2663); amended [Pub. L. 99–554, title I, § 113](https://www.govinfo.gov/link/plaw/99/public/554), Oct. 27, 1986, [100 Stat. 3091](https://www.govinfo.gov/link/statute/100/3091); [Pub. L. 101–509, title V, § 529 [title I, § 110(a)]](https://www.govinfo.gov/link/plaw/101/public/509), Nov. 5, 1990, [104 Stat. 1427](https://www.govinfo.gov/link/statute/104/1427), 1452; [Pub. L. 103–394, title II, § 224(a)](https://www.govinfo.gov/link/plaw/103/public/394), title V, § 502, Oct. 22, 1994, [108 Stat. 4130](https://www.govinfo.gov/link/statute/108/4130), 4147; [Pub. L. 109–8, title IV, § 439](https://www.govinfo.gov/link/plaw/109/public/8), title VI, § 603(b), title VIII, § 802(c)(3), title XII, § 1231, Apr. 20, 2005, [119 Stat. 113](https://www.govinfo.gov/link/statute/119/113), 122, 146, 201; [Pub. L. 111–327, § 2(c)(3)](https://www.govinfo.gov/link/plaw/111/public/327), Dec. 22, 2010, [124 Stat. 3563](https://www.govinfo.gov/link/statute/124/3563); [Pub. L. 116–54, § 4(b)(1)](https://www.govinfo.gov/link/plaw/116/public/54), Aug. 23, 2019, [133 Stat. 1086](https://www.govinfo.gov/link/statute/133/1086).)*

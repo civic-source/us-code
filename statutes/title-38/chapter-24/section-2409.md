@@ -3,9 +3,10 @@ title: "Section 2409 - Memorial areas in Arlington National Cemetery"
 usc_title: 38
 usc_section: "2409"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 2409"
-generated_at: "2026-03-30T02:55:53.497Z"
+generated_at: "2026-11-23T20:27:01.796Z"
+status: "active"
 ---
 
 # § 2409. Memorial areas in Arlington National Cemetery
@@ -43,3 +44,39 @@ generated_at: "2026-03-30T02:55:53.497Z"
     - **(B)** if Congress passes a joint resolution of disapproval of the placement of the monument, and the President signs a veto of such resolution, the earlier of—
       - **(i)** the date on which either House of Congress votes and fails to override the veto of the President; or
       - **(ii)** the date that is 30 session days after the date on which Congress received the veto and objections of the President.
+
+Updates and Preservation of Memorials.—
+
+Protestant chaplains memorial
+
+Catholic chaplain memorials
+
+Jewish chaplain memorials
+
+No cost to federal government
+
+Verification of Names
+
+Prohibition on Expansion of Memorials
+
+Definitions
+
+Transfer
+
+Description of land
+
+“The parcel of Federal land transferred to the Secretary of the Army by subsection (a)(1) [set out above] shall be administered by the Secretary of the Army—
+
+Construction Required
+
+Availability of Funds
+
+Authority To Accept Donations
+
+Transfer
+
+Expiration of Authority
+
+## Source Credit
+
+*(Added [Pub. L. 99–576, title IV, § 413(a)](https://www.govinfo.gov/link/plaw/99/public/576), Oct. 28, 1986, [100 Stat. 3284](https://www.govinfo.gov/link/statute/100/3284), § 1009; amended [Pub. L. 101–237, title III, § 313(b)(5)](https://www.govinfo.gov/link/plaw/101/public/237), Dec. 18, 1989, [103 Stat. 2077](https://www.govinfo.gov/link/statute/103/2077); renumbered § 2409, [Pub. L. 102–83, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/83), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 112–154, title VI, § 604](https://www.govinfo.gov/link/plaw/112/public/154), Aug. 6, 2012, [126 Stat. 1201](https://www.govinfo.gov/link/statute/126/1201).)*

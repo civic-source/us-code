@@ -3,9 +3,10 @@ title: "Section 4908 - Effect on other laws and agreements"
 usc_title: 12
 usc_section: "4908"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4908"
-generated_at: "2026-03-30T02:53:53.520Z"
+generated_at: "2026-11-23T20:25:59.437Z"
+status: "active"
 ---
 
 # § 4908. Effect on other laws and agreements
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:53.520Z"
       - **(ii)** that was enacted not later than 2 years after July 29, 1998 ; and
       - **(iii)** that is the law of a State that had in effect, on or before January 2, 1998 , any State law described in clause (i).
 - **(b)** The provisions of this chapter shall supersede any conflicting provision contained in any agreement relating to the servicing of a residential mortgage loan entered into by the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, or any private investor or note holder (or any successors thereto).
+
+## Source Credit
+
+*([Pub. L. 105–216, § 9](https://www.govinfo.gov/link/plaw/105/public/216), July 29, 1998, [112 Stat. 906](https://www.govinfo.gov/link/statute/112/906).)*

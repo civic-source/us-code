@@ -3,9 +3,10 @@ title: "Section 3613 - Base support funding for tribal justice systems"
 usc_title: 25
 usc_section: "3613"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3613"
-generated_at: "2026-03-30T02:54:52.854Z"
+generated_at: "2026-11-23T20:26:25.658Z"
+status: "active"
 ---
 
 # § 3613. Base support funding for tribal justice systems
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:54:52.854Z"
     - **(E)** the projected number of persons receiving probation services or participating in diversion programs; and
     - **(F)** any special circumstances warranting additional financial assistance.
   - **(4)** In developing and administering the formula for base support funding for the tribal judicial systems under this section, the Secretary shall ensure equitable distribution of funds.
+
+## Source Credit
+
+*([Pub. L. 103–176, title I, § 103](https://www.govinfo.gov/link/plaw/103/public/176), Dec. 3, 1993, [107 Stat. 2007](https://www.govinfo.gov/link/statute/107/2007); [Pub. L. 111–211, title II, § 242(a)(1)](https://www.govinfo.gov/link/plaw/111/public/211), July 29, 2010, [124 Stat. 2292](https://www.govinfo.gov/link/statute/124/2292).)*

@@ -3,9 +3,10 @@ title: "Section 381 - Definitions"
 usc_title: 2
 usc_section: "381"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 381"
-generated_at: "2026-03-30T02:53:04.796Z"
+generated_at: "2026-11-23T20:25:28.883Z"
+status: "active"
 ---
 
 # § 381. Definitions
@@ -21,3 +22,7 @@ For purposes of this chapter:
   - **(7)** The term “committee” means the Committee on House Oversight of the House of Representatives.
   - **(8)** The term “State” means a State of the United States and any territory or possession of the United States.
   - **(9)** The term “write-in vote” means a vote cast for a person whose name does not appear on the official ballot by writing in the name of such person on such ballot or by any other method prescribed by the law of the State in which the election is held.
+
+## Source Credit
+
+*([Pub. L. 91–138, § 2](https://www.govinfo.gov/link/plaw/91/public/138), Dec. 5, 1969, [83 Stat. 284](https://www.govinfo.gov/link/statute/83/284); [Pub. L. 104–186, title II, § 211(1)](https://www.govinfo.gov/link/plaw/104/public/186), (2), Aug. 20, 1996, [110 Stat. 1743](https://www.govinfo.gov/link/statute/110/1743), 1744.)*

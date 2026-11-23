@@ -3,9 +3,10 @@ title: "Section 791 - Relationship to other laws"
 usc_title: 45
 usc_section: "791"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 791"
-generated_at: "2026-03-30T02:55:56.557Z"
+generated_at: "2026-11-23T20:27:05.312Z"
+status: "active"
 ---
 
 # § 791. Relationship to other laws
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:56.557Z"
   - **(3)** The Secretary shall begin the necessary engineering studies and improvements on January 2, 1974 .
   - **(4)** The final system plan shall provide for any necessary coordination with freight or commuter services of use of the facilities designated in section 716(c)(1)(C) of this title . Such coordination may be effectuated through a single operating entity, designated in the final system plan, or as mutually agreed upon by the interested parties.
   - **(5)** Construction or improvements made pursuant to this subsection may be made in consultation with the Corps of Engineers.
+
+## Source Credit
+
+*([Pub. L. 93–236, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/93/public/236) –(d), Jan. 2, 1974, [87 Stat. 1021](https://www.govinfo.gov/link/statute/87/1021); [Pub. L. 94–210, title VI, § 618](https://www.govinfo.gov/link/plaw/94/public/210), title VII, § 706(b), formerly § 705(b), Feb. 5, 1976, [90 Stat. 117](https://www.govinfo.gov/link/statute/90/117), 123, renumbered [Pub. L. 96–254, title II, § 206(a)](https://www.govinfo.gov/link/plaw/96/public/254), May 30, 1980, [94 Stat. 412](https://www.govinfo.gov/link/statute/94/412).)*

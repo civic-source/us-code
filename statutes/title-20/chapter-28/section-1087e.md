@@ -3,9 +3,10 @@ title: "Section 1087e - Terms and conditions of loans"
 usc_title: 20
 usc_section: "1087e"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1087e"
-generated_at: "2026-03-30T02:54:48.124Z"
+generated_at: "2026-11-23T20:26:14.458Z"
+status: "active"
 ---
 
 # § 1087e. Terms and conditions of loans
@@ -361,3 +362,73 @@ generated_at: "2026-03-30T02:54:48.124Z"
       - **(vi)** In the case of a borrower who is required by the Secretary to provide information to the Secretary to determine the applicable monthly payment of the borrower under this subparagraph, and who does not comply with such requirement, the applicable monthly payment of the borrower shall be—
         - **(I)** the sum of the monthly payment amounts the borrower would have paid for each of the borrower’s loans made under this part under a standard repayment plan with a fixed monthly repayment amount, paid over a period of 10 years, based on the outstanding principal due on such loan when such loan entered repayment; and
         - **(II)** determined pursuant to this clause until the date on which the borrower provides such information to the Secretary.
+
+(aa) $200,000; minus
+
+(bb) the amount such student borrowed for programs of study described in subparagraph (C)(ii); and
+
+(aa) $200,000; minus
+
+(bb) the amount such student borrowed for programs of study described in subparagraph (C)(i).
+
+(aa) for a borrower with total outstanding principal of less than $25,000, a period of 10 years;
+
+(bb) for a borrower with total outstanding principal of not less than $25,000 and less than $50,000, a period of 15 years;
+
+(cc) for a borrower with total outstanding principal of not less than $50,000 and less than $100,000, a period of 20 years; and
+
+(dd) for a borrower with total outstanding principal of $100,000 or more, a period of 25 years; or
+
+(aa) an excepted PLUS loan, as defined in section 1098e(a)(1) of this title ; or
+
+(bb) an excepted consolidation loan (as such term is defined in section 1098e(a)(2)(A) of this title , notwithstanding subparagraph (B) of such section).
+
+(aa) evidence that the borrower is eligible for unemployment benefits due to a loss of employment resulting from relocation to accommodate such permanent change in duty station; or
+
+(bb) a written certification, or an equivalent as approved by the Secretary, that the borrower is registered with a public or private employment agency due to a loss of employment resulting from relocation to accommodate such permanent change in duty station.
+
+(aa) the unpaid principal and accrued unpaid interest of the joint consolidation loan (as of the date that is the day before such separate consolidation loan is made) and any outstanding charges and fees with respect to such loan; and
+
+(bb) the percentage of the joint consolidation loan attributable to the loans of the individual borrower for whom such separate consolidation loan is being made, as determined— (AA) on the basis of the loan obligations of such borrower with respect to such joint consolidation loan (as of the date such joint consolidation loan was made); or (BB) in the case in which both borrowers request, on the basis of proportions outlined in a divorce decree, court order, or settlement agreement; and
+
+(aa) has experienced an act of domestic violence (as defined in section 12291 of title 34 from the other individual borrower;
+
+(bb) has experienced economic abuse (as defined in section 12291 of title 34 from the other individual borrower; or
+
+(cc) is unable to reasonably reach or access the loan information of the other individual borrower; or
+
+2006
+
+2003
+
+Transition to Income-based Repayment Plans.—
+
+Selection
+
+Commencement of new repayment plan
+
+Failure to select
+
+Data Matching Required
+
+Covered Employee Defined
+
+Section
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+Section
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 455](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title IV, § 404](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1439](https://www.govinfo.gov/link/statute/100/1439); amended [Pub. L. 102–325, title IV, § 451](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 572](https://www.govinfo.gov/link/statute/106/572); [Pub. L. 103–66, title IV, § 4021](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 346](https://www.govinfo.gov/link/statute/107/346); [Pub. L. 103–382, title III, § 359](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 3968](https://www.govinfo.gov/link/statute/108/3968); [Pub. L. 105–178, title VIII, § 8301(c)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 498](https://www.govinfo.gov/link/statute/112/498); [Pub. L. 105–244, title IV](https://www.govinfo.gov/link/plaw/105/public/244), §§ 401(g)(6), 452(a)(1), (b), (c), Oct. 7, 1998, [112 Stat. 1652](https://www.govinfo.gov/link/statute/112/1652), 1715–1717; [Pub. L. 106–554, § 1(a)(1) [title III, § 318(b)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–49; [Pub. L. 107–139, § 1(b)](https://www.govinfo.gov/link/plaw/107/public/139), (c), Feb. 8, 2002, [116 Stat. 9](https://www.govinfo.gov/link/statute/116/9); [Pub. L. 107–314, div. A, title VI, § 651(c)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2580](https://www.govinfo.gov/link/statute/116/2580); [Pub. L. 109–171, title VIII](https://www.govinfo.gov/link/plaw/109/public/171), §§ 8007(b), 8008(b), (c)(2), (3), 8009(d), Feb. 8, 2006, [120 Stat. 160](https://www.govinfo.gov/link/statute/120/160), 162–164; [Pub. L. 110–84, title II](https://www.govinfo.gov/link/plaw/110/public/84), §§ 201(b), 202(b), 203(b)(3), 205, title IV, § 401, Sept. 27, 2007, [121 Stat. 791](https://www.govinfo.gov/link/statute/121/791), 795, 800; [Pub. L. 110–315, title I, § 103(b)(8)](https://www.govinfo.gov/link/plaw/110/public/315), title IV, §§ 425(b)(3), 451, Aug. 14, 2008, [122 Stat. 3089](https://www.govinfo.gov/link/statute/122/3089), 3234, 3261; [Pub. L. 111–39, title IV, § 404(b)(2)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1946](https://www.govinfo.gov/link/statute/123/1946); [Pub. L. 111–152, title II, § 2211(a)](https://www.govinfo.gov/link/plaw/111/public/152), Mar. 30, 2010, [124 Stat. 1078](https://www.govinfo.gov/link/statute/124/1078); [Pub. L. 112–25, title V](https://www.govinfo.gov/link/plaw/112/public/25), §§ 502, 503, Aug. 2, 2011, [125 Stat. 266](https://www.govinfo.gov/link/statute/125/266); [Pub. L. 112–141, div. F, title III](https://www.govinfo.gov/link/plaw/112/public/141), §§ 100301, 100302(a), July 6, 2012, [126 Stat. 979](https://www.govinfo.gov/link/statute/126/979); [Pub. L. 113–28, § 2(a)](https://www.govinfo.gov/link/plaw/113/public/28), Aug. 9, 2013, [127 Stat. 506](https://www.govinfo.gov/link/statute/127/506); [Pub. L. 114–328, div. A, title VI, § 618(e)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2160](https://www.govinfo.gov/link/statute/130/2160); [Pub. L. 115–245, div. B, title III, § 309(a)](https://www.govinfo.gov/link/plaw/115/public/245), Sept. 28, 2018, [132 Stat. 3105](https://www.govinfo.gov/link/statute/132/3105); [Pub. L. 116–91, § 4(a)](https://www.govinfo.gov/link/plaw/116/public/91), Dec. 19, 2019, [133 Stat. 1192](https://www.govinfo.gov/link/statute/133/1192); [Pub. L. 116–259, title II, § 202(b)(2)](https://www.govinfo.gov/link/plaw/116/public/259), Dec. 23, 2020, [134 Stat. 1163](https://www.govinfo.gov/link/statute/134/1163); [Pub. L. 116–260, div. FF, title VII, § 705(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3200](https://www.govinfo.gov/link/statute/134/3200); [Pub. L. 117–200, § 2(a)](https://www.govinfo.gov/link/plaw/117/public/200), Oct. 11, 2022, [136 Stat. 2219](https://www.govinfo.gov/link/statute/136/2219); [Pub. L. 118–31, div. A, title X, § 1054(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 397](https://www.govinfo.gov/link/statute/137/397); [Pub. L. 119–21, title VIII](https://www.govinfo.gov/link/plaw/119/public/21), §§ 81001, 82001(b), (c)(1), (d), (e), 82002, 82004, July 4, 2025, [139 Stat. 334](https://www.govinfo.gov/link/statute/139/334), 337, 340, 341, 345, 348.)*

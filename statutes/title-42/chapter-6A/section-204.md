@@ -3,9 +3,10 @@ title: "Section 204 - Commissioned Corps and Ready Reserve Corps"
 usc_title: 42
 usc_section: "204"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 204"
-generated_at: "2026-03-30T02:56:10.683Z"
+generated_at: "2026-11-23T20:27:19.932Z"
+status: "active"
 ---
 
 # § 204. Commissioned Corps and Ready Reserve Corps
@@ -26,3 +27,15 @@ generated_at: "2026-03-30T02:56:10.683Z"
     - **(D)** be available for service assignment in isolated, hardship, and medically underserved communities (as defined in section 295p of this title ) to improve access to health services, consistent with subparagraph (C).
   - **(3)** A reference in any Federal statute, except in the case of subsection (b), to the “Reserve Corps” of the Public Health Service or to the “reserve” of the Public Health Service shall be deemed to be a reference to the Ready Reserve Corps.
 - **(d)** For the purpose of carrying out the duties and responsibilities of the Commissioned Corps under this section, there are authorized to be appropriated $5,000,000 for each of fiscal years 2010 through 2014 for recruitment and training and $12,500,000 for each of fiscal years 2010 through 2014 for the Ready Reserve Corps.
+
+Reports by Secretary of Health and Human Services
+
+Reports by Recipients of Funds
+
+Barack Obama.
+
+Barack Obama.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title II, § 203, [58 Stat. 683](https://www.govinfo.gov/link/statute/58/683); Feb. 28, 1948, ch. 83, § 2, [62 Stat. 39](https://www.govinfo.gov/link/statute/62/39); Oct. 28, 1949, ch. 782, title XI, § 1106(a), [63 Stat. 972](https://www.govinfo.gov/link/statute/63/972); [Pub. L. 96–76, title III, § 302(a)](https://www.govinfo.gov/link/plaw/96/public/76), Sept. 29, 1979, [93 Stat. 584](https://www.govinfo.gov/link/statute/93/584); [Pub. L. 111–148, title V, § 5210](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 614](https://www.govinfo.gov/link/statute/124/614); [Pub. L. 112–166, § 2(ff)(1)](https://www.govinfo.gov/link/plaw/112/public/166), Aug. 10, 2012, [126 Stat. 1290](https://www.govinfo.gov/link/statute/126/1290); [Pub. L. 116–136, div. A, title III, § 3214(a)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 372](https://www.govinfo.gov/link/statute/134/372).)*

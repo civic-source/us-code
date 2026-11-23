@@ -3,9 +3,10 @@ title: "Section 2640 - Scope and standard of review"
 usc_title: 28
 usc_section: "2640"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 2640"
-generated_at: "2026-03-30T02:55:30.150Z"
+generated_at: "2026-11-23T20:26:36.533Z"
+status: "active"
 ---
 
 # § 2640. Scope and standard of review
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:30.150Z"
 - **(c)** In any civil action commenced in the Court of International Trade to review any final determination of the Secretary of Labor under section 223 of the Trade Act of 1974 or any final determination of the Secretary of Commerce under section 251 or section 271 of such Act, the court shall review the matter as specified in section 284 of such Act.
 - **(d)** In any civil action commenced to review any order or decision of the Customs Service under section 499(b) of the Tariff Act of 1930, the court shall review the action on the basis of the record before the Customs Service at the time of issuing such decision or order.
 - **(e)** In any civil action not specified in this section, the Court of International Trade shall review the matter as provided in section 706 of title 5 .
+
+## Source Credit
+
+*(Added [Pub. L. 96–417, title III, § 301](https://www.govinfo.gov/link/plaw/96/public/417), Oct. 10, 1980, [94 Stat. 1736](https://www.govinfo.gov/link/statute/94/1736); amended [Pub. L. 98–573, title II, § 212(b)(5)](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 2984](https://www.govinfo.gov/link/statute/98/2984); [Pub. L. 103–182, title VI, § 684(a)(4)](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2219](https://www.govinfo.gov/link/statute/107/2219).)*

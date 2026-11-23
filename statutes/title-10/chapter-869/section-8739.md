@@ -3,9 +3,10 @@ title: "Section 8739 - Certain oil shale reserves: transfer of jurisdiction and 
 usc_title: 10
 usc_section: "8739"
 chapter: 869
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 8739"
-generated_at: "2026-03-30T02:53:38.250Z"
+generated_at: "2026-11-23T20:25:52.245Z"
+status: "active"
 ---
 
 # § 8739. Certain oil shale reserves: transfer of jurisdiction and petroleum exploration, development, and production
@@ -31,3 +32,21 @@ generated_at: "2026-03-30T02:53:38.250Z"
     - **(A)** the results and conclusions of such studies; and
     - **(B)** an estimate of the total cost of the Secretary’s preferred alternative to address environmental restoration, waste management, and environmental compliance needs at Oil Shale Reserve Numbered 3.
   - **(2)** If the cost estimate required by paragraph (1)(B) does not exceed the total of the moneys covered into the Treasury under subsection (f)(1) and remaining available for obligation as of the date of submission of the report under paragraph (1), the Secretary of the Interior may access such moneys, beginning 60 days after submission of the report and without further appropriation, to cover the costs of implementing the preferred alternative to address environmental restoration, waste management, and environmental compliance needs at Oil Shale Reserve Numbered 3. If the cost estimate exceeds such available moneys, the Secretary of the Interior may only access such moneys as authorized by subsequent Act of Congress.
+
+Transfer Required
+
+Authority To Lease
+
+Management
+
+Transfer of Existing Equipment
+
+Cost Minimization
+
+Treatment of Receipts
+
+Use of Receipts
+
+## Source Credit
+
+*(Added [Pub. L. 105–85, div. C, title XXXIV, § 3404(a)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 2059](https://www.govinfo.gov/link/statute/111/2059), § 7439; amended [Pub. L. 107–107, div. A, title X, § 1048(c)(14)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1226](https://www.govinfo.gov/link/statute/115/1226); [Pub. L. 107–345, § 1](https://www.govinfo.gov/link/plaw/107/public/345), Dec. 17, 2002, [116 Stat. 2894](https://www.govinfo.gov/link/statute/116/2894); renumbered § 8739, [Pub. L. 115–232, div. A, title VIII, § 807(d)(5)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1836](https://www.govinfo.gov/link/statute/132/1836).)*

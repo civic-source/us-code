@@ -3,9 +3,10 @@ title: "Section 1306 - Premium rates"
 usc_title: 29
 usc_section: "1306"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1306"
-generated_at: "2026-03-30T02:55:18.729Z"
+generated_at: "2026-11-23T20:26:38.011Z"
+status: "active"
 ---
 
 # § 1306. Premium rates
@@ -193,3 +194,71 @@ generated_at: "2026-03-30T02:55:18.729Z"
     - **(B)** a fraction—
       - **(i)** the numerator of which is the number of calendar months in the plan year which ends after September 2, 1974 , and before the date on which the new plan year commences, and
       - **(ii)** the denominator of which is 12.
+
+| For the plan year beginning: | The applicable percentage is: | Col 3 |
+| --- | --- | --- |
+| July 1, 1994 | July 1, 1995 | 20 percent |
+| July 1, 1995 | July 1, 1996 | 60 percent.” |
+
+
+Premium Rate for Certain Terminated Single-Employer Plans.—
+
+In general
+
+Special rule for plans terminated in bankruptcy reorganization
+
+Applicable 12-month period
+
+In general
+
+Plans terminated in bankruptcy reorganization
+
+Coordination with section 1307.—
+
+Applicable dollar amount for variable rate premium
+
+In general
+
+Adjustment for inflation
+
+Additional increases
+
+Base year
+
+CSEC plans
+
+In general
+
+Premium rate for certain terminated single-employer plans.—
+
+In general
+
+Special rule for plans terminated in bankruptcy
+
+In general
+
+Transition rule
+
+July 1, 1994
+
+July 1, 1995
+
+July 1, 1995
+
+July 1, 1996
+
+General rule
+
+Special rule
+
+“In the case of a regulated public utility described in section 7701(a)(33)(A)(i) of the Internal Revenue Code of 1986 [ 26 U.S.C. 7701(a)(33)(A)(i) ], the amendments made by this section [amending this section] shall not apply to plan years beginning before the earlier of—
+
+Notice of premium increase
+
+Due date for unpaid premiums
+
+Enforcement
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4006](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 1010](https://www.govinfo.gov/link/statute/88/1010); [Pub. L. 96–364, title I, § 105](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1264](https://www.govinfo.gov/link/statute/94/1264); [Pub. L. 99–272, title XI, § 11005(a)](https://www.govinfo.gov/link/plaw/99/public/272) –(c)(3), Apr. 7, 1986, [100 Stat. 240–242](https://www.govinfo.gov/link/statute/100/240); [Pub. L. 100–203, title IX, § 9331(a)](https://www.govinfo.gov/link/plaw/100/public/203), (b), (e), Dec. 22, 1987, [101 Stat. 1330–367](https://www.govinfo.gov/link/statute/101/1330), 1330–368; [Pub. L. 101–239, title VII, § 7881(h)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2442](https://www.govinfo.gov/link/statute/103/2442); [Pub. L. 101–508, title XII, § 12021(a)](https://www.govinfo.gov/link/plaw/101/public/508), (b), Nov. 5, 1990, [104 Stat. 1388–573](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–465, title VII, § 774(a)(1)](https://www.govinfo.gov/link/plaw/103/public/465), (b)(1), (2), Dec. 8, 1994, [108 Stat. 5045](https://www.govinfo.gov/link/statute/108/5045), 5046; [Pub. L. 107–147, title IV, § 405(c)](https://www.govinfo.gov/link/plaw/107/public/147), Mar. 9, 2002, [116 Stat. 43](https://www.govinfo.gov/link/statute/116/43); [Pub. L. 108–218, title I, § 101(a)(4)](https://www.govinfo.gov/link/plaw/108/public/218), Apr. 10, 2004, [118 Stat. 597](https://www.govinfo.gov/link/statute/118/597); [Pub. L. 108–311, title IV, § 403(d)](https://www.govinfo.gov/link/plaw/108/public/311), Oct. 4, 2004, [118 Stat. 1187](https://www.govinfo.gov/link/statute/118/1187); [Pub. L. 109–171, title VIII, § 8101(a)](https://www.govinfo.gov/link/plaw/109/public/171) –(c), Feb. 8, 2006, [120 Stat. 180–182](https://www.govinfo.gov/link/statute/120/180); [Pub. L. 109–280, title III, § 301(a)(3)](https://www.govinfo.gov/link/plaw/109/public/280), title IV, §§ 401(a)(1), (b)(1), (2)(A), 405(a), Aug. 17, 2006, [120 Stat. 919](https://www.govinfo.gov/link/statute/120/919), 922, 928; [Pub. L. 110–458, title I, § 104(a)](https://www.govinfo.gov/link/plaw/110/public/458), Dec. 23, 2008, [122 Stat. 5104](https://www.govinfo.gov/link/statute/122/5104); [Pub. L. 112–141, div. D, title II](https://www.govinfo.gov/link/plaw/112/public/141), §§ 40211(b)(3)(C), 40221, 40222, July 6, 2012, [126 Stat. 849–852](https://www.govinfo.gov/link/statute/126/849); [Pub. L. 113–67, div. A, title VII, § 703(a)](https://www.govinfo.gov/link/plaw/113/public/67) –(d), Dec. 26, 2013, [127 Stat. 1190](https://www.govinfo.gov/link/statute/127/1190), 1191; [Pub. L. 113–235, div. O, title I, § 131(a)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2796](https://www.govinfo.gov/link/statute/128/2796); [Pub. L. 114–74, title V, § 501(a)](https://www.govinfo.gov/link/plaw/114/public/74) –(b)(2), Nov. 2, 2015, [129 Stat. 591](https://www.govinfo.gov/link/statute/129/591), 592; [Pub. L. 116–94, div. O, title II, § 206](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3174](https://www.govinfo.gov/link/statute/133/3174); [Pub. L. 117–2, title IX, § 9704(c)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 195](https://www.govinfo.gov/link/statute/135/195); [Pub. L. 117–328, div. T, title III, § 349(a)](https://www.govinfo.gov/link/plaw/117/public/328), (b), Dec. 29, 2022, [136 Stat. 5385](https://www.govinfo.gov/link/statute/136/5385), 5386.)*

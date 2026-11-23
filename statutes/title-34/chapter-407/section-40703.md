@@ -3,9 +3,10 @@ title: "Section 40703 - Collection and use of DNA identification information fro
 usc_title: 34
 usc_section: "40703"
 chapter: 407
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 40703"
-generated_at: "2026-03-30T02:55:33.310Z"
+generated_at: "2026-11-23T20:26:50.649Z"
+status: "active"
 ---
 
 # § 40703. Collection and use of DNA identification information from certain District of Columbia offenders
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:33.310Z"
 - **(d)** The government of the District of Columbia may determine those offenses under the District of Columbia Code that shall be treated for purposes of this section as qualifying District of Columbia offenses.
 - **(e)** Collection of DNA samples under subsection (a) shall, subject to the availability of appropriations, commence not later than the date that is 180 days after December 19, 2000 .
 - **(f)** There are authorized to be appropriated to the Court Services and Offender Supervision Agency for the District of Columbia to carry out this section such sums as may be necessary for each of fiscal years 2001 through 2005.
+
+## Source Credit
+
+*([Pub. L. 106–546, § 4](https://www.govinfo.gov/link/plaw/106/public/546), Dec. 19, 2000, [114 Stat. 2730](https://www.govinfo.gov/link/statute/114/2730); [Pub. L. 115–50, § 3(b)](https://www.govinfo.gov/link/plaw/115/public/50), Aug. 18, 2017, [131 Stat. 1002](https://www.govinfo.gov/link/statute/131/1002).)*

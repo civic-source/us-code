@@ -3,9 +3,10 @@ title: "Section 6807a - Energy efficiency grants to State regulatory authorities
 usc_title: 42
 usc_section: "6807a"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6807a"
-generated_at: "2026-03-30T02:56:11.266Z"
+generated_at: "2026-11-23T20:27:22.704Z"
+status: "active"
 ---
 
 # § 6807a. Energy efficiency grants to State regulatory authorities
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.266Z"
 - **(d)** Each State regulatory authority that receives a grant under this section shall keep such records as the Secretary shall require.
 - **(e)** For purposes of this section, the term “State regulatory authority” shall have the same meaning as provided by section 2602 of title 16 in the case of electric utilities, and such term shall have the same meaning as provided by section 3202 of title 15 in the case of gas utilities, except that in the case of any State without a statewide ratemaking authority, such term shall mean the State energy office.
 - **(f)** There are authorized to be appropriated $5,000,000 for each of the fiscal years 1994, 1995 and 1996 to carry out the purposes of this section.
+
+## Source Credit
+
+*([Pub. L. 102–486, title I, § 112](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2797](https://www.govinfo.gov/link/statute/106/2797).)*

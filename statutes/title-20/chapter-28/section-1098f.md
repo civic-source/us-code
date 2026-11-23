@@ -3,9 +3,10 @@ title: "Section 1098f - Deferral of loan repayment following active duty"
 usc_title: 20
 usc_section: "1098f"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1098f"
-generated_at: "2026-03-30T02:54:48.139Z"
+generated_at: "2026-11-23T20:26:14.536Z"
+status: "active"
 ---
 
 # § 1098f. Deferral of loan repayment following active duty
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:48.139Z"
 - **(b)** Notwithstanding section 1088(d) of this title , in this section, the term “active duty” has the meaning given such term in section 101(d)(1) of title 10 , except that such term—
   - **(1)** does not include active duty for training or attendance at a service school; but
   - **(2)** includes, in the case of members of the National Guard, active State duty.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 493D](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–84, title II, § 204](https://www.govinfo.gov/link/plaw/110/public/84), Sept. 27, 2007, [121 Stat. 795](https://www.govinfo.gov/link/statute/121/795).)*

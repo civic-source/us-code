@@ -3,9 +3,10 @@ title: "Section 4911 - Exemptions"
 usc_title: 16
 usc_section: "4911"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 4911"
-generated_at: "2026-03-30T02:54:23.049Z"
+generated_at: "2026-11-23T20:26:20.758Z"
+status: "active"
 ---
 
 # § 4911. Exemptions
@@ -18,3 +19,7 @@ Notwithstanding any prohibition, suspension, or quota under this chapter on the 
   - **(4)** Cooperative breeding programs that are—
     - **(A)** designed to promote the conservation of the species and maintain the species in the wild by enhancing the propagation and survival of the species; and
     - **(B)** developed and administered by, or in conjunction with, an avicultural, conservation, or zoological organization that meets standards developed by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 102–440, title I, § 112](https://www.govinfo.gov/link/plaw/102/public/440), Oct. 23, 1992, [106 Stat. 2230](https://www.govinfo.gov/link/statute/106/2230).)*

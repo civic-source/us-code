@@ -3,9 +3,10 @@ title: "Section 6902 - Objectives and national policy"
 usc_title: 42
 usc_section: "6902"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6902"
-generated_at: "2026-03-30T02:56:11.268Z"
+generated_at: "2026-11-23T20:27:22.722Z"
+status: "active"
 ---
 
 # § 6902. Objectives and national policy
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.268Z"
   - **(10)** promoting the demonstration, construction, and application of solid waste management, resource recovery, and resource conservation systems which preserve and enhance the quality of air, water, and land resources; and
   - **(11)** establishing a cooperative effort among the Federal, State, and local governments and private enterprise in order to recover valuable materials and energy from solid waste.
 - **(b)** The Congress hereby declares it to be the national policy of the United States that, wherever feasible, the generation of hazardous waste is to be reduced or eliminated as expeditiously as possible. Waste that is nevertheless generated should be treated, stored, or disposed of so as to minimize the present and future threat to human health and the environment.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 1003](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 94–580, § 2](https://www.govinfo.gov/link/plaw/94/public/580), Oct. 21, 1976, [90 Stat. 2798](https://www.govinfo.gov/link/statute/90/2798); amended [Pub. L. 98–616, title I, § 101(b)](https://www.govinfo.gov/link/plaw/98/public/616), Nov. 8, 1984, [98 Stat. 3224](https://www.govinfo.gov/link/statute/98/3224).)*

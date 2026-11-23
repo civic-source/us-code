@@ -3,9 +3,10 @@ title: "Section 1382i - Medical and social services for certain handicapped pers
 usc_title: 42
 usc_section: "1382i"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1382i"
-generated_at: "2026-03-30T02:56:10.930Z"
+generated_at: "2026-11-23T20:27:21.067Z"
+status: "active"
 ---
 
 # § 1382i. Medical and social services for certain handicapped persons
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:56:10.930Z"
     - **(B)** From the allotment available therefor, the Commissioner of Social Security shall pay the amount so estimated, reduced or increased, as the case may be, by any sum (not previously adjusted under this subsection) by which the Commissioner finds that the Commissioner’s estimate of the amount to be paid the State for any prior period under this section was greater or less than the amount which should have been paid to the State for such period under this section.
 - **(e)** Within nine months after June 9, 1980 , the Commissioner of Social Security shall prescribe and publish such regulations as may be necessary or appropriate to carry out the pilot program and otherwise implement this section.
 - **(f)** Each State participating in the pilot program under this section shall from time to time report to the Commissioner of Social Security on the operation and results of such program in that State, with particular emphasis upon the work incentive effects of the program. On or before October 1, 1983 , the Commissioner of Social Security shall submit to the Congress a report on the program, incorporating the information contained in the State reports along with the Commissioner’s findings and recommendations.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVI, § 1620, as added [Pub. L. 96–265, title II, § 201(c)](https://www.govinfo.gov/link/plaw/96/public/265), June 9, 1980, [94 Stat. 446](https://www.govinfo.gov/link/statute/94/446); amended [Pub. L. 97–35, title XXIII, § 2353(p)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 874](https://www.govinfo.gov/link/statute/95/874); [Pub. L. 103–296, title I, § 107(a)(4)](https://www.govinfo.gov/link/plaw/103/public/296), Aug. 15, 1994, [108 Stat. 1478](https://www.govinfo.gov/link/statute/108/1478).)*

@@ -3,12 +3,17 @@ title: "Section 3808 - Cooperation with States"
 usc_title: 7
 usc_section: "3808"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 3808"
-generated_at: "2026-03-30T02:53:42.404Z"
+generated_at: "2026-11-23T20:25:41.605Z"
+status: "active"
 ---
 
 # § 3808. Cooperation with States
 
 In order to avoid duplication of functions, facilities, and personnel, and to attain closer coordination and greater effectiveness and economy in administration of this chapter and State laws and regulations relating to the feeding of garbage to swine, the Secretary is authorized to enter into cooperative agreements with State departments of agriculture and other State agencies charged with the administration and enforcement of such State laws and regulations and to provide that any such State agency which has adequate facilities, personnel, and procedures, as determined by the Secretary, may assist the Secretary in the administration and enforcement of this chapter and regulations hereunder. The Secretary is further authorized to coordinate the administration of this chapter and regulations with such State laws and regulations whenever feasible: Provided , That nothing herein shall affect the jurisdiction of the Secretary under any other Federal law, or any authority to cooperate with State agencies or other agencies or persons under existing provisions of law, or affect any restrictions upon such cooperation.
 
+
+## Source Credit
+
+*([Pub. L. 96–468, § 9](https://www.govinfo.gov/link/plaw/96/public/468), Oct. 17, 1980, [94 Stat. 2232](https://www.govinfo.gov/link/statute/94/2232).)*

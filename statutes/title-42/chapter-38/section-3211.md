@@ -3,9 +3,10 @@ title: "Section 3211 - Powers of Secretary"
 usc_title: 42
 usc_section: "3211"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3211"
-generated_at: "2026-03-30T02:56:11.184Z"
+generated_at: "2026-11-23T20:27:22.270Z"
+status: "active"
 ---
 
 # § 3211. Powers of Secretary
@@ -54,3 +55,17 @@ generated_at: "2026-03-30T02:56:11.184Z"
         - **(II)** The Secretary may extend a deadline under subclause (I) by an additional 180 days if the Secretary determines the extension to be necessary.
       - **(iii)** Section 3212 of this title shall continue to apply to a project assisted with a grant under section 3149(d) 1 of this title regardless of whether the Secretary releases a Federal interest under clause (i).
 - **(e)** The power to convey and to execute, in the name of the Secretary, deeds of conveyance, deeds of release, assignments and satisfactions of mortgages, and any other written instrument relating to real or personal property or any interest in such property acquired by the Secretary under this chapter may be exercised by the Secretary, or by any officer or agent appointed by the Secretary for that purpose, without the execution of any express delegation of power or power of attorney.
+
+In General
+
+Requirements
+
+Rulemaking
+
+‘economic development assistance programs’
+
+‘Economic Development Administration’
+
+## Source Credit
+
+*([Pub. L. 89–136, title VI, § 601](https://www.govinfo.gov/link/plaw/89/public/136), as added [Pub. L. 105–393, title I, § 102(a)](https://www.govinfo.gov/link/plaw/105/public/393), Nov. 13, 1998, [112 Stat. 3611](https://www.govinfo.gov/link/statute/112/3611); amended [Pub. L. 116–192, § 2](https://www.govinfo.gov/link/plaw/116/public/192), Oct. 30, 2020, [134 Stat. 978](https://www.govinfo.gov/link/statute/134/978).)*

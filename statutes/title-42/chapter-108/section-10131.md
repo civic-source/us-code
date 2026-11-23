@@ -3,9 +3,10 @@ title: "Section 10131 - Findings and purposes"
 usc_title: 42
 usc_section: "10131"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10131"
-generated_at: "2026-03-30T02:56:11.379Z"
+generated_at: "2026-11-23T20:27:23.204Z"
+status: "active"
 ---
 
 # § 10131. Findings and purposes
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.379Z"
   - **(2)** to establish the Federal responsibility, and a definite Federal policy, for the disposal of such waste and spent fuel;
   - **(3)** to define the relationship between the Federal Government and the State governments with respect to the disposal of such waste and spent fuel; and
   - **(4)** to establish a Nuclear Waste Fund, composed of payments made by the generators and owners of such waste and spent fuel, that will ensure that the costs of carrying out activities relating to the disposal of such waste and spent fuel will be borne by the persons responsible for generating such waste and spent fuel.
+
+## Source Credit
+
+*([Pub. L. 97–425, title I, § 111](https://www.govinfo.gov/link/plaw/97/public/425), Jan. 7, 1983, [96 Stat. 2207](https://www.govinfo.gov/link/statute/96/2207).)*

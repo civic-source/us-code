@@ -3,9 +3,10 @@ title: "Section 3043a - National intelligence strategy"
 usc_title: 50
 usc_section: "3043a"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3043a"
-generated_at: "2026-03-30T02:56:26.230Z"
+generated_at: "2026-11-23T20:27:30.898Z"
+status: "active"
 ---
 
 # § 3043a. National intelligence strategy
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:26.230Z"
   - **(7)** identify sources of strategic, institutional, programmatic, fiscal, and technological risk; and
   - **(8)** analyze factors that may affect the intelligence community’s performance in pursuing the major national security missions identified in paragraph (3) during the following 10-year period.
 - **(c)** The Director of National Intelligence shall submit to the congressional intelligence committees a report on each national intelligence strategy required by subsection (a) not later than 45 days after the date of the completion of such strategy.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title I, § 108A, as added [Pub. L. 113–293, title III, § 303(a)](https://www.govinfo.gov/link/plaw/113/public/293), Dec. 19, 2014, [128 Stat. 3994](https://www.govinfo.gov/link/statute/128/3994).)*

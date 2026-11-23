@@ -3,9 +3,10 @@ title: "Section 1831w - Safety and soundness firewalls applicable to financial s
 usc_title: 12
 usc_section: "1831w"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1831w"
-generated_at: "2026-03-30T02:53:53.462Z"
+generated_at: "2026-11-23T20:25:59.183Z"
+status: "active"
 ---
 
 # § 1831w. Safety and soundness firewalls applicable to financial subsidiaries of banks
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:53.462Z"
 - **(d)**
   - **(1)** No provision of this section shall be construed as superseding the authority of the Federal Deposit Insurance Corporation to review subsidiary activities under section 1831a of this title .
   - **(2)** No provision of this section shall be construed as affecting the applicability of the 20th undesignated paragraph of section 9 of the Federal Reserve Act [ 12 U.S.C. 335 ].
+
+## Source Credit
+
+*(Sept. 21, 1950, ch. 967, § 2 [46], as added [Pub. L. 106–102, title I, § 121(d)(1)](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1380](https://www.govinfo.gov/link/statute/113/1380).)*

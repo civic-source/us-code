@@ -3,9 +3,10 @@ title: "Section 3330a - Preference eligibles; administrative redress"
 usc_title: 5
 usc_section: "3330a"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 3330a"
-generated_at: "2026-03-30T02:52:56.002Z"
+generated_at: "2026-11-23T20:25:31.818Z"
+status: "active"
 ---
 
 # § 3330a. Preference eligibles; administrative redress
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:52:56.002Z"
 - **(e)**
   - **(1)** This section shall not be construed to prohibit a preference eligible from appealing directly to the Merit Systems Protection Board from any action which is appealable to the Board under any other law, rule, or regulation, in lieu of administrative redress under this section.
   - **(2)** A preference eligible may not pursue redress for an alleged violation described in subsection (a) under this section at the same time the preference eligible pursues redress for such violation under any other law, rule, or regulation.
+
+## Source Credit
+
+*(Added [Pub. L. 105–339, § 3(a)](https://www.govinfo.gov/link/plaw/105/public/339), Oct. 31, 1998, [112 Stat. 3182](https://www.govinfo.gov/link/statute/112/3182); amended [Pub. L. 108–454, title VIII, § 804(a)](https://www.govinfo.gov/link/plaw/108/public/454), Dec. 10, 2004, [118 Stat. 3626](https://www.govinfo.gov/link/statute/118/3626); [Pub. L. 118–188, § 2(a)(2)(A)(i)(II)](https://www.govinfo.gov/link/plaw/118/public/188), Dec. 23, 2024, [138 Stat. 2645](https://www.govinfo.gov/link/statute/138/2645).)*

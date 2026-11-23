@@ -3,9 +3,10 @@ title: "Section 76k - Powers of Board"
 usc_title: 20
 usc_section: "76k"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 76k"
-generated_at: "2026-03-30T02:54:48.074Z"
+generated_at: "2026-11-23T20:26:14.218Z"
+status: "active"
 ---
 
 # § 76k. Powers of Board
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:48.074Z"
       - **(ii)** with respect to a theatrical employee, the Board shall be considered to be an “employer” within the meaning of section 2(2) of the National Labor Relations Act ( 29 U.S.C. 152(2) ).
     - **(B)** With respect to each theatrical employee, the theatrical employee and the Board shall have all of the rights and obligations specified in such Acts.
 - **(g)** Subject to approval of the Secretary of the Interior under section 76j(a)(2)(F) of this title , the Board shall develop plans and carry out projects to improve pedestrian and vehicular access to the John F. Kennedy Center for the Performing Arts.
+
+## Source Credit
+
+*([Pub. L. 85–874, § 5](https://www.govinfo.gov/link/plaw/85/public/874), Sept. 2, 1958, [72 Stat. 1699](https://www.govinfo.gov/link/statute/72/1699); [Pub. L. 88–260, § 1(2)](https://www.govinfo.gov/link/plaw/88/public/260), Jan. 23, 1964, [78 Stat. 4](https://www.govinfo.gov/link/statute/78/4); [Pub. L. 103–279, § 4](https://www.govinfo.gov/link/plaw/103/public/279), July 21, 1994, [108 Stat. 1413](https://www.govinfo.gov/link/statute/108/1413); [Pub. L. 105–95, § 3(b)](https://www.govinfo.gov/link/plaw/105/public/95), Nov. 19, 1997, [111 Stat. 2149](https://www.govinfo.gov/link/statute/111/2149).)*

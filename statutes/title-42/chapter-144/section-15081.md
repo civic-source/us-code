@@ -3,9 +3,10 @@ title: "Section 15081 - Purpose"
 usc_title: 42
 usc_section: "15081"
 chapter: 144
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 15081"
-generated_at: "2026-03-30T02:56:11.458Z"
+generated_at: "2026-11-23T20:27:23.556Z"
+status: "active"
 ---
 
 # § 15081. Purpose
@@ -30,3 +31,7 @@ The purpose of this part is to provide grants, contracts, or cooperative agreeme
       - **(x)** initiatives that create access to increased living options;
       - **(xi)** initiatives that address the challenging behaviors of individuals with developmental disabilities, including initiatives that promote positive alternatives to the use of restraints and seclusion; and
       - **(xii)** initiatives that address other areas of emerging need.
+
+## Source Credit
+
+*([Pub. L. 106–402, title I, § 161](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1725](https://www.govinfo.gov/link/statute/114/1725).)*

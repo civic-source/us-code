@@ -3,9 +3,10 @@ title: "Section 153 - Condition for coverage of drugs under this part"
 usc_title: 42
 usc_section: "153"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 153"
-generated_at: "2026-03-30T02:56:10.992Z"
+generated_at: "2026-11-23T20:27:21.323Z"
+status: "active"
 ---
 
 # § 1395w–153. Condition for coverage of drugs under this part
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:10.992Z"
     - **(B)** the Secretary determines that in the period beginning on January 1, 2011 , and 1 1 So in original. Probably should be followed by “ending on”. December 31, 2011 , there were extenuating circumstances.
   - **(2)** Paragraph (1)(A) shall not apply to a covered part D drug of a manufacturer for any period described in section 5000D(c)(1) of the Internal Revenue Code of 1986 with respect to the manufacturer.
 - **(d)** In this section, the term “manufacturer” has the meaning given such term in section 1395w–114a(g)(5) of this title .
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1860D–43, as added [Pub. L. 111–148, title III, § 3301(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 461](https://www.govinfo.gov/link/statute/124/461); amended [Pub. L. 111–152, title I, § 1101(b)(1)](https://www.govinfo.gov/link/plaw/111/public/152), Mar. 30, 2010, [124 Stat. 1037](https://www.govinfo.gov/link/statute/124/1037); [Pub. L. 117–169, title I](https://www.govinfo.gov/link/plaw/117/public/169), §§ 11001(b)(1)(G)(i), 11201(e)(7), Aug. 16, 2022, [136 Stat. 1853](https://www.govinfo.gov/link/statute/136/1853), 1892.)*

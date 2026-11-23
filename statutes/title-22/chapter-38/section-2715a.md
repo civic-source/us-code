@@ -3,9 +3,10 @@ title: "Section 2715a - Provision of information on certain violent crimes abroa
 usc_title: 22
 usc_section: "2715a"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2715a"
-generated_at: "2026-03-30T02:55:05.380Z"
+generated_at: "2026-11-23T20:26:32.385Z"
+status: "active"
 ---
 
 # § 2715a. Provision of information on certain violent crimes abroad to victims and victims’ families
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.380Z"
     - **(A)** the victims of such crimes; or
     - **(B)** when appropriate, the family members of the victims of such crimes if such family members are United States citizens.
 - **(c)** The Secretary shall work with the heads of appropriate departments and agencies of the United States Government in order to ensure that information relevant to a crime covered by subsection (b) is promptly reviewed and, to the maximum extent practicable, without jeopardizing sensitive sources and methods or other vital national security interests, or without jeopardizing an on-going criminal investigation or proceeding, made available under that subsection unless such disclosure is specifically prohibited by law.
+
+## Source Credit
+
+*([Pub. L. 105–107, title III, § 307](https://www.govinfo.gov/link/plaw/105/public/107), Nov. 20, 1997, [111 Stat. 2252](https://www.govinfo.gov/link/statute/111/2252).)*

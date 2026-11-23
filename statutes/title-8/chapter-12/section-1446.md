@@ -3,9 +3,10 @@ title: "Section 1446 - Investigation of applicants; examination of applications"
 usc_title: 8
 usc_section: "1446"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1446"
-generated_at: "2026-03-30T02:53:10.502Z"
+generated_at: "2026-11-23T20:25:36.240Z"
+status: "active"
 ---
 
 # § 1446. Investigation of applicants; examination of applications
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:10.502Z"
 - **(d)** The employee designated to conduct any such examination shall make a determination as to whether the application should be granted or denied, with reasons therefor.
 - **(e)** After an application for naturalization has been filed with the Attorney General, the applicant shall not be permitted to withdraw his application, except with the consent of the Attorney General. In cases where the Attorney General does not consent to the withdrawal of the application, the application shall be determined on its merits and a final order determination made accordingly. In cases where the applicant fails to prosecute his application, the application shall be decided on the merits unless the Attorney General dismisses it for lack of prosecution.
 - **(f)** An applicant for naturalization who moves from the district of the Service in the United States in which the application is pending may, at any time thereafter, request the Service to transfer the application to any district of the Service in the United States which may act on the application. The transfer shall not be made without the consent of the Attorney General. In the case of such a transfer, the proceedings on the application shall continue as though the application had originally been filed in the district of the Service to which the application is transferred.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title III, ch. 2, § 335, [66 Stat. 255](https://www.govinfo.gov/link/statute/66/255); [Pub. L. 97–116, § 15(c)](https://www.govinfo.gov/link/plaw/97/public/116), Dec. 29, 1981, [95 Stat. 1619](https://www.govinfo.gov/link/statute/95/1619); [Pub. L. 100–525, § 9(aa)](https://www.govinfo.gov/link/plaw/100/public/525), (bb), Oct. 24, 1988, [102 Stat. 2621](https://www.govinfo.gov/link/statute/102/2621); [Pub. L. 101–649, title IV](https://www.govinfo.gov/link/plaw/101/public/649), §§ 401(c), 407(c)(16), (d)(13), Nov. 29, 1990, [104 Stat. 5038](https://www.govinfo.gov/link/statute/104/5038), 5041, 5043; [Pub. L. 102–232, title III, § 305(f)](https://www.govinfo.gov/link/plaw/102/public/232), Dec. 12, 1991, [105 Stat. 1750](https://www.govinfo.gov/link/statute/105/1750).)*

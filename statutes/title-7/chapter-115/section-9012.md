@@ -3,9 +3,10 @@ title: "Section 9012 - Base acres"
 usc_title: 7
 usc_section: "9012"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 9012"
-generated_at: "2026-03-30T02:53:42.482Z"
+generated_at: "2026-11-23T20:25:41.930Z"
+status: "active"
 ---
 
 # § 9012. Base acres
@@ -107,3 +108,11 @@ generated_at: "2026-03-30T02:53:42.482Z"
     - **(A)** eligibility under paragraph (3);
     - **(B)** eligible acres under paragraph (4); and
     - **(C)** the allocation of acres under paragraph (5).
+
+(aa) the acreage planted on the farm to eligible noncovered commodities for harvest, grazing, haying, silage, or other similar purposes for the 2019 through 2023 crop years; and
+
+(bb) any acreage on the farm that the producers were prevented from planting during the 2019 through 2023 crop years to eligible noncovered commodities because of drought, flood, or other natural disaster, or other condition beyond the control of the producers, as determined by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 113–79, title I, § 1112](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 661](https://www.govinfo.gov/link/statute/128/661); [Pub. L. 115–334, title I, § 1102](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4501](https://www.govinfo.gov/link/statute/132/4501); [Pub. L. 119–21, title I, § 10302](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 86](https://www.govinfo.gov/link/statute/139/86).)*

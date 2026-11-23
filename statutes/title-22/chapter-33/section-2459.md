@@ -3,9 +3,10 @@ title: "Section 2459 - Immunity from seizure under judicial process of cultural 
 usc_title: 22
 usc_section: "2459"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2459"
-generated_at: "2026-03-30T02:55:05.369Z"
+generated_at: "2026-11-23T20:26:32.307Z"
+status: "active"
 ---
 
 # § 2459. Immunity from seizure under judicial process of cultural objects imported for temporary exhibition or display
@@ -14,3 +15,21 @@ generated_at: "2026-03-30T02:55:05.369Z"
 - **(b)** If in any judicial proceeding in any such court any such process, judgment, decree, or order is sought, issued, or entered, the United States attorney for the judicial district within which such proceeding is pending shall be entitled as of right to intervene as a party to that proceeding, and upon request made by either the institution adversely affected, or upon direction by the Attorney General if the United States is adversely affected, shall apply to such court for the denial, quashing, or vacating thereof.
 - **(c)** Nothing contained in this section shall preclude (1) any judicial action for or in aid of the enforcement of the terms of any such agreement or the enforcement of the obligation of any carrier under any contract for the transportation of any such object of cultural significance; or (2) the institution or prosecution by or on behalf of any such institution or the United States of any action for or in aid of the fulfillment of any obligation assumed by such institution or the United States pursuant to any such agreement.
 - **(d)** For purposes of this section, the terms “imported” and “importation” include a transfer from a mission of a foreign country located within the United States to a cultural, educational, or religious institution located within the United States.
+
+In general
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+## Source Credit
+
+*([Pub. L. 89–259](https://www.govinfo.gov/link/plaw/89/public/259), Oct. 19, 1965, [79 Stat. 985](https://www.govinfo.gov/link/statute/79/985); [Pub. L. 116–283, div. A, title XII, § 1216(a)](https://www.govinfo.gov/link/plaw/116/public/283) Jan. 1, 2021, [134 Stat. 3922](https://www.govinfo.gov/link/statute/134/3922).)*

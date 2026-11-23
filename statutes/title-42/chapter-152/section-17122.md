@@ -3,9 +3,10 @@ title: "Section 17122 - Research and development"
 usc_title: 42
 usc_section: "17122"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17122"
-generated_at: "2026-03-30T02:56:11.498Z"
+generated_at: "2026-11-23T20:27:23.729Z"
+status: "active"
 ---
 
 # § 17122. Research and development
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:56:11.498Z"
 - **(b)** The Federal Director, in consultation with the Administrator of the Environmental Protection Agency and the Advisory Committee, shall develop and carry out a comprehensive indoor air quality program for all Federal facilities to ensure the safety of Federal workers and facility occupants—
   - **(1)** during new construction and renovation of facilities; and
   - **(2)** in existing facilities.
+
+## Source Credit
+
+*([Pub. L. 110–140, title IV, § 492](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1651](https://www.govinfo.gov/link/statute/121/1651).)*

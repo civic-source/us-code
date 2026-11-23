@@ -3,9 +3,10 @@ title: "Section 3409 - Delayed notice"
 usc_title: 12
 usc_section: "3409"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 3409"
-generated_at: "2026-03-30T02:53:53.494Z"
+generated_at: "2026-11-23T20:25:59.338Z"
+status: "active"
 ---
 
 # § 3409. Delayed notice
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:53.494Z"
   - **(3)** Upon expiration of the period of delay of notification under paragraph (1) or (2), the customer shall be served with or mailed a copy of the process or request together with the following notice which shall state with reasonable specificity the nature of the law enforcement inquiry: “Records or information concerning your transactions which are held by the financial institution named in the attached process or request were supplied to or requested by the Government authority named in the process or request on (date). Notification was withheld pursuant to a determination by the (title of court so ordering) under the Right to Financial Privacy Act of 1978 [ 12 U.S.C. 3401 et seq.] that such notice might (state reason). The purpose of the investigation or official proceeding was .”.
 - **(c)** When access to financial records is obtained pursuant to section 3414(b) of this title (emergency access), the Government authority shall, unless a court has authorized delay of notice pursuant to subsections (a) and (b), as soon as practicable after such records are obtained serve upon the customer, or mail by registered or certified mail to his last known address, a copy of the request to the financial institution together with the following notice which shall state with reasonable specificity the nature of the law enforcement inquiry: “Records concerning your transactions held by the financial institution named in the attached request were obtained by (agency or department) under the Right to Financial Privacy Act of 1978 [ 12 U.S.C. 3401 et seq.] on (date) for the following purpose: Emergency access to such records was obtained on the grounds that (state grounds).”.
 - **(d)** Any memorandum, affidavit, or other paper filed in connection with a request for delay in notification shall be preserved by the court. Upon petition by the customer to whom such records pertain, the court may order disclosure of such papers to the petitioner unless the court makes the findings required in subsection (a).
+
+## Source Credit
+
+*([Pub. L. 95–630, title XI, § 1109](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3702](https://www.govinfo.gov/link/statute/92/3702); [Pub. L. 101–650, title III, § 321](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5117](https://www.govinfo.gov/link/statute/104/5117).)*

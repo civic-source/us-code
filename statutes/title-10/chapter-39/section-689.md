@@ -3,9 +3,10 @@ title: "Section 689 - Retired members: grade in which ordered to active duty and
 usc_title: 10
 usc_section: "689"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 689"
-generated_at: "2026-03-30T02:53:38.073Z"
+generated_at: "2026-11-23T20:25:51.042Z"
+status: "active"
 ---
 
 # § 689. Retired members: grade in which ordered to active duty and upon release from active duty
@@ -17,3 +18,19 @@ generated_at: "2026-03-30T02:53:38.073Z"
   - **(2)** A retired member ordered to active duty in a grade that is higher than the member’s retired grade pursuant to subsection (a) shall be treated for purposes of section 690 of this title as if the member was promoted to that higher grade while on that tour of active duty.
   - **(3)** If, upon being released from that tour of active duty, such a retired member has served on active duty satisfactorily, as determined by the Secretary concerned, for not less than a total of 36 months in a grade that is a higher grade than the member’s retired grade, the member is entitled to placement on the retired list in that grade.
 - **(d)** A member ordered to active duty under section 688 or 688a of this title who, while on active duty, is promoted to a grade that is higher than that member’s retired grade is entitled, upon that member’s release from that tour of active duty, to placement on the retired list in the highest grade in which the member served on active duty satisfactorily, as determined by the Secretary of the military department concerned, for not less than six months.
+
+General Rule for Grade in Which Ordered to Active Duty
+
+Members Retired in O–
+
+and O–
+
+Grades
+
+Members Who Previously Served in Grade Higher Than Retired Grade
+
+Grade Upon Release From Active Duty
+
+## Source Credit
+
+*(Added [Pub. L. 104–201, div. A, title V, § 521(a)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2516](https://www.govinfo.gov/link/statute/110/2516); amended [Pub. L. 107–314, div. A, title V, § 503(b)(1)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2531](https://www.govinfo.gov/link/statute/116/2531).)*

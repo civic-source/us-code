@@ -3,9 +3,10 @@ title: "Section 2152g - Annual report"
 usc_title: 22
 usc_section: "2152g"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2152g"
-generated_at: "2026-03-30T02:55:05.348Z"
+generated_at: "2026-11-23T20:26:32.182Z"
+status: "active"
 ---
 
 # § 2152g. Annual report
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:05.348Z"
   - **(2)** The results of the monitoring and evaluation system with respect to assistance for orphans and other vulnerable children.
   - **(3)** The percentage of assistance provided in support of orphans or other vulnerable children affected by HIV/AIDS.
   - **(4)** Any other appropriate information relating to the needs of orphans and other vulnerable children in developing countries that could be addressed through the provision of assistance authorized in section 2152f of this title or under any other provision of law.
+
+## Source Credit
+
+*([Pub. L. 109–95, § 5](https://www.govinfo.gov/link/plaw/109/public/95), Nov. 8, 2005, [119 Stat. 2117](https://www.govinfo.gov/link/statute/119/2117).)*

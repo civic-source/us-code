@@ -3,12 +3,17 @@ title: "Section 2154 - Effective dates"
 usc_title: 7
 usc_section: "2154"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2154"
-generated_at: "2026-03-30T02:53:42.378Z"
+generated_at: "2026-11-23T20:25:41.488Z"
+status: "active"
 ---
 
 # § 2154. Effective dates
 
 The regulations referred to in sections 2140 and 2143 of this title shall be prescribed by the Secretary as soon as reasonable but not later than six months from August 24, 1966 . Additions and amendments thereto may be prescribed from time to time as may be necessary or advisable. Compliance by dealers with the provisions of this chapter and such regulations shall commence ninety days after the promulgation of such regulations. Compliance by research facilities with the provisions of this chapter and such regulations shall commence six months after the promulgation of such regulations, except that the Secretary may grant extensions of time to research facilities which do not comply with the standards prescribed by the Secretary pursuant to section 2143 of this title provided that the Secretary determines that there is evidence that the research facilities will meet such standards within a reasonable time. Notwithstanding the other provisions of this section, compliance by intermediate handlers, and carriers, and other persons with those provisions of this chapter, as amended by the Animal Welfare Act Amendments of 1976, and those regulations promulgated thereunder, which relate to actions of intermediate handlers and carriers, shall commence 90 days after promulgation of regulations under section 2143 of this title , as amended, with respect to intermediate handlers and carriers, and such regulations shall be promulgated no later than 9 months after April 22, 1976 ; and compliance by dealers, exhibitors, operators of auction sales, and research facilities with other provisions of this chapter, as so amended, and the regulations thereunder, shall commence upon the expiration of 90 days after April 22, 1976 : Provided, however , That compliance by all persons with subsections (b), (c), and (d) of section 2143 and with section 2156 of this title , as so amended, shall commence upon the expiration of said ninety-day period. In all other respects, said amendments shall become effective on April 22, 1976 .
 
+
+## Source Credit
+
+*([Pub. L. 89–544, § 24](https://www.govinfo.gov/link/plaw/89/public/544), Aug. 24, 1966, [80 Stat. 353](https://www.govinfo.gov/link/statute/80/353); [Pub. L. 94–279, § 15](https://www.govinfo.gov/link/plaw/94/public/279), Apr. 22, 1976, [90 Stat. 421](https://www.govinfo.gov/link/statute/90/421).)*

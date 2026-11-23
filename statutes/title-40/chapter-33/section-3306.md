@@ -3,9 +3,10 @@ title: "Section 3306 - Accommodating federal agencies"
 usc_title: 40
 usc_section: "3306"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 3306"
-generated_at: "2026-03-30T02:55:43.379Z"
+generated_at: "2026-11-23T20:26:56.590Z"
+status: "active"
 ---
 
 # § 3306. Accommodating federal agencies
@@ -25,3 +26,71 @@ generated_at: "2026-03-30T02:55:43.379Z"
 - **(c)** In carrying out the duties under subsection (b), the Administrator shall—
   - **(1)** consult with chief executive officers of the States, areawide agencies established pursuant to title II of the Demonstration Cities and Metropolitan Development Act of 1966 ( 42 U.S.C. 3331 et seq.) and section 6506 of title 31 , and chief executive officers of those units of general local government in each area served by an existing or proposed public building; and
   - **(2)** solicit the comments of other community leaders and members of the general public as the Administrator considers appropriate.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3306(a)(1) | 40:612a(5). | Pub. L. 94–541, title I , §§ 102, 105(3)–(8), Oct. 18, 1976 , 90 Stat. 2505 , 2507. |
+| 3306(a)(2) | 40:612a(6). |  |
+| 3306(a)(3) | 40:612a(7). |  |
+| 3306(a)(4) | 40:612a(4). |  |
+| 3306(a)(5) | 40:612a(8). |  |
+| 3306(a)(6) | 40:612a(3). |  |
+| 3306(b) | 40:601a(a). |  |
+| 3306(c) | 40:601a(b). |  |
+
+
+Definitions
+
+Commercial activities
+
+Cultural activities
+
+Educational activities
+
+Historical, architectural, or cultural significance
+
+Recreational activities
+
+Unit of general local government
+
+Duties of Administrator
+
+Consultation and Solicitation of Comments
+
+Historical and Revision Notes
+
+3306(a)(1)
+
+Pub. L. 94–541, title I
+
+Oct. 18, 1976
+
+90 Stat. 2505
+
+3306(a)(2)
+
+3306(a)(3)
+
+3306(a)(4)
+
+3306(a)(5)
+
+3306(a)(6)
+
+3306(b)
+
+3306(c)
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1160](https://www.govinfo.gov/link/statute/116/1160); [Pub. L. 113–287, § 5(j)(6)](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3269](https://www.govinfo.gov/link/statute/128/3269).)*

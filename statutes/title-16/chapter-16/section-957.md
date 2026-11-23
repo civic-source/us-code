@@ -3,9 +3,10 @@ title: "Section 957 - Violations; fines and forfeitures; application of related 
 usc_title: 16
 usc_section: "957"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 957"
-generated_at: "2026-03-30T02:54:22.936Z"
+generated_at: "2026-11-23T20:26:20.347Z"
+status: "active"
 ---
 
 # § 957. Violations; fines and forfeitures; application of related laws
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:22.936Z"
 - **(g)** All fish taken or retained in violation of subsection (a) of this section, or the monetary value thereof, may be forfeited.
 - **(h)** All provisions of law relating to the seizure, judicial forfeiture, and condemnation of a cargo for violation of the customs laws, the disposition of such cargo or the proceeds from the sale thereof, and the remission or mitigation of such forfeitures shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this chapter, insofar as such provisions of law are applicable and not inconsistent with the provisions of this chapter.
 - **(i)** For prohibitions relating to this chapter and enforcement of this chapter, see section 1826g of this title .
+
+## Source Credit
+
+*(Sept. 7, 1950, ch. 907, § 8, [64 Stat. 779](https://www.govinfo.gov/link/statute/64/779); [Pub. L. 87–814, § 4](https://www.govinfo.gov/link/plaw/87/public/814), Oct. 15, 1962, [76 Stat. 924](https://www.govinfo.gov/link/statute/76/924); 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090](https://www.govinfo.gov/link/statute/84/2090); [Pub. L. 114–81, title II, § 207](https://www.govinfo.gov/link/plaw/114/public/81), Nov. 5, 2015, [129 Stat. 663](https://www.govinfo.gov/link/statute/129/663).)*

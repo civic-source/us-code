@@ -3,9 +3,10 @@ title: "Section 1872 - Declassification of significant decisions, orders, and op
 usc_title: 50
 usc_section: "1872"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 1872"
-generated_at: "2026-03-30T02:56:26.210Z"
+generated_at: "2026-11-23T20:27:30.793Z"
+status: "active"
 ---
 
 # § 1872. Declassification of significant decisions, orders, and opinions
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:26.210Z"
   - **(2)** the Director of National Intelligence makes publicly available an unclassified statement prepared by the Attorney General, in consultation with the Director of National Intelligence—
     - **(A)** summarizing the significant construction or interpretation of any provision of law, which shall include, to the extent consistent with national security, a description of the context in which the matter arises and any significant construction or interpretation of any statute, constitutional provision, or other legal authority relied on by the decision; and
     - **(B)** that specifies that the statement has been prepared by the Attorney General and constitutes no part of the opinion of the Foreign Intelligence Surveillance Court or the Foreign Intelligence Surveillance Court of Review.
+
+## Source Credit
+
+*([Pub. L. 95–511, title VI, § 602](https://www.govinfo.gov/link/plaw/95/public/511), as added [Pub. L. 114–23, title IV, § 402(a)(2)](https://www.govinfo.gov/link/plaw/114/public/23), June 2, 2015, [129 Stat. 281](https://www.govinfo.gov/link/statute/129/281); amended [Pub. L. 118–49, § 7](https://www.govinfo.gov/link/plaw/118/public/49), Apr. 20, 2024, [138 Stat. 873](https://www.govinfo.gov/link/statute/138/873).)*

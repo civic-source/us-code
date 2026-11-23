@@ -3,9 +3,10 @@ title: "Section 2146 - National Garden"
 usc_title: 2
 usc_section: "2146"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 2146"
-generated_at: "2026-03-30T02:53:04.825Z"
+generated_at: "2026-11-23T20:25:29.015Z"
+status: "active"
 ---
 
 # § 2146. National Garden
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:04.825Z"
   - **(3)** No person donating personal services under this section shall be considered an employee of the United States for any purpose other than for purposes of chapter 81 of title 5.
   - **(4)** In no case shall the acceptance of personal services under this section result in the reduction of pay or displacement of any employee of the Botanic Garden.
 - **(d)** Any gift accepted by the Architect of the Capitol under this section shall be considered a gift to the United States for purposes of income, estate, and gift tax laws of the United States.
+
+## Source Credit
+
+*([Pub. L. 100–458, title III, § 307E](https://www.govinfo.gov/link/plaw/100/public/458), Oct. 1, 1988, [102 Stat. 2183](https://www.govinfo.gov/link/statute/102/2183); [Pub. L. 102–229, title II, § 209(a)](https://www.govinfo.gov/link/plaw/102/public/229), Dec. 12, 1991, [105 Stat. 1716](https://www.govinfo.gov/link/statute/105/1716); [Pub. L. 104–53, title II, § 201(b)](https://www.govinfo.gov/link/plaw/104/public/53), Nov. 19, 1995, [109 Stat. 529](https://www.govinfo.gov/link/statute/109/529); [Pub. L. 105–275, title II, § 201](https://www.govinfo.gov/link/plaw/105/public/275), Oct. 21, 1998, [112 Stat. 2445](https://www.govinfo.gov/link/statute/112/2445).)*

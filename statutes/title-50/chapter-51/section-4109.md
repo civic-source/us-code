@@ -3,12 +3,17 @@ title: "Section 4109 - Hearings on claims; finality of decision"
 usc_title: 50
 usc_section: "4109"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4109"
-generated_at: "2026-03-30T02:56:26.266Z"
+generated_at: "2026-11-23T20:27:31.072Z"
+status: "active"
 ---
 
 # § 4109. Hearings on claims; finality of decision
 
 The Commission shall notify all claimants of the approval or denial of their claims, and, if approved, shall notify such claimants of the amount for which such claims are approved. Any claimant whose claim is denied, or is approved for less than the full allowable amount of such claim, shall be entitled, under such regulations as the Commission may prescribe, to a hearing before the Commission or its representatives with respect to such claim. Upon such hearing, the Commission may affirm, modify, or revise its former action with respect to such claim, including a denial or reduction in the amount theretofore allowed with respect to such claim. The action of the Commission in allowing or denying any claim under this subchapter shall be final and conclusive on all questions of law and fact and not subject to review by any other official of the United States or by any court by mandamus or otherwise, and the Comptroller General is authorized and directed to allow credit in the accounts of any certifying or disbursing officer for payments in accordance with such action.
 
+
+## Source Credit
+
+*(July 3, 1948, ch. 826, title I, § 11, [62 Stat. 1246](https://www.govinfo.gov/link/statute/62/1246); [Pub. L. 87–846, title I, § 102](https://www.govinfo.gov/link/plaw/87/public/846), Oct. 22, 1962, [76 Stat. 1107](https://www.govinfo.gov/link/statute/76/1107).)*

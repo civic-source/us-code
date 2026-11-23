@@ -3,9 +3,10 @@ title: "Section 3203 - Tsunami forecasting and warning program"
 usc_title: 33
 usc_section: "3203"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 3203"
-generated_at: "2026-03-30T02:55:41.138Z"
+generated_at: "2026-11-23T20:26:54.252Z"
+status: "active"
 ---
 
 # § 3203. Tsunami forecasting and warning program
@@ -92,3 +93,7 @@ generated_at: "2026-03-30T02:55:41.138Z"
     - **(B)** the specific deep ocean or other monitoring equipment that detected the incident, as well as the deep ocean or other monitoring equipment that did not detect the incident due to malfunction or other reasons;
     - **(C)** the effectiveness of the warning communication, including the dissemination of warnings with State, territory, local, and tribal partners in the affected area under the jurisdiction of the National Weather Service; and
     - **(D)** such other findings as the Administrator considers appropriate.
+
+## Source Credit
+
+*([Pub. L. 109–424, § 4](https://www.govinfo.gov/link/plaw/109/public/424), Dec. 20, 2006, [120 Stat. 2903](https://www.govinfo.gov/link/statute/120/2903); [Pub. L. 109–479, title VIII, § 804](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3654](https://www.govinfo.gov/link/statute/120/3654); [Pub. L. 115–25, title V](https://www.govinfo.gov/link/plaw/115/public/25), §§ 504, 512(a), Apr. 18, 2017, [131 Stat. 116](https://www.govinfo.gov/link/statute/131/116), 128.)*

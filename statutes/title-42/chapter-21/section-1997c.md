@@ -3,9 +3,10 @@ title: "Section 1997c - Intervention in actions"
 usc_title: 42
 usc_section: "1997c"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1997c"
-generated_at: "2026-03-30T02:56:11.137Z"
+generated_at: "2026-11-23T20:27:22.002Z"
+status: "active"
 ---
 
 # § 1997c. Intervention in actions
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.137Z"
   - **(2)** The Attorney General shall personally sign any certification made pursuant to this section.
 - **(c)** The Attorney General shall personally sign any motion to intervene made pursuant to this section.
 - **(d)** In any action in which the United States joins as an intervenor under this section, the court may allow the prevailing party, other than the United States, a reasonable attorney’s fee against the United States as part of the costs. Nothing in this subsection precludes the award of attorney’s fees available under any other provisions of the United States Code.
+
+## Source Credit
+
+*([Pub. L. 96–247, § 5](https://www.govinfo.gov/link/plaw/96/public/247), May 23, 1980, [94 Stat. 351](https://www.govinfo.gov/link/statute/94/351); [Pub. L. 104–134, title I, § 101[(a)]](https://www.govinfo.gov/link/plaw/104/public/134) [title VIII, § 803(c)], Apr. 26, 1996, [110 Stat. 1321](https://www.govinfo.gov/link/statute/110/1321), 1321–71; renumbered title I, [Pub. L. 104–140, § 1(a)](https://www.govinfo.gov/link/plaw/104/public/140), May 2, 1996, [110 Stat. 1327](https://www.govinfo.gov/link/statute/110/1327).)*

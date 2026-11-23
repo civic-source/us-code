@@ -3,9 +3,10 @@ title: "Section 8561 - Findings"
 usc_title: 22
 usc_section: "8561"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8561"
-generated_at: "2026-03-30T02:55:05.453Z"
+generated_at: "2026-11-23T20:26:32.720Z"
+status: "active"
 ---
 
 # § 8561. Findings
@@ -38,3 +39,7 @@ Congress finds that the Government of the Islamic Republic of Iran surveils, har
   - **(24)** In 1980, Ali Akbar Tabatabaei, a leading critic of Iran and then president of the Iran Freedom Foundation, was murdered in front of his Bethesda, Maryland, home by an assassin disguised as a postal courier. The Federal Bureau of Investigation had identified the “mailman” as Dawud Salahuddin, born David Theodore Belfield. Mr. Salahuddin was working as a security guard at an Iranian interest office in Washington, DC, when he claims he accepted the assignment and payment of $5,000 from the Government of Iran to kill Mr. Tabatabaei.
   - **(25)** Other exiled Iranian dissidents alleged to have been victims of the Government of Iran’s murderous extraterritorial campaign include Shahriar Shafiq, Shapour Bakhtiar, and Gholam Ali Oveissi.
   - **(26)** Iranian Americans face an ongoing campaign of intimidation both in the virtual and physical world by agents and affiliates of the Government of Iran, which aims to stifle freedom of expression and eliminate the threat Iranian authorities believe democracy, justice, and gender equality pose to their rule.
+
+## Source Credit
+
+*([Pub. L. 117–328, div. AA, title II, § 202](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5530](https://www.govinfo.gov/link/statute/136/5530).)*

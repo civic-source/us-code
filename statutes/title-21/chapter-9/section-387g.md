@@ -3,9 +3,10 @@ title: "Section 387g - Tobacco product standards"
 usc_title: 21
 usc_section: "387g"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 387g"
-generated_at: "2026-03-30T02:54:54.280Z"
+generated_at: "2026-11-23T20:26:27.770Z"
+status: "active"
 ---
 
 # § 387g. Tobacco product standards
@@ -82,3 +83,7 @@ generated_at: "2026-03-30T02:54:54.280Z"
   - **(1)** The Secretary shall refer to the Tobacco Products Scientific Advisory Committee for report and recommendation, under section 387q(c)(4) of this title , the issue of the nature and impact of the use of dissolvable tobacco products on the public health, including such use among children. In its review, the Tobacco Products Scientific Advisory Committee shall address the considerations listed in subsection (a)(3)(B)(i).
   - **(2)** Not later than 2 years after its establishment, the Tobacco Product Scientific Advisory Committee shall submit to the Secretary the report and recommendations required pursuant to paragraph (1).
   - **(3)** Nothing in this subsection shall be construed to limit the Secretary’s authority to take action under this section or other sections of this chapter at any time applicable to any dissolvable tobacco product.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 907, as added [Pub. L. 111–31, div. A, title I, § 101(b)(3)](https://www.govinfo.gov/link/plaw/111/public/31), June 22, 2009, [123 Stat. 1799](https://www.govinfo.gov/link/statute/123/1799); amended [Pub. L. 117–103, div. P, title I, § 111(f)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 790](https://www.govinfo.gov/link/statute/136/790).)*

@@ -3,9 +3,10 @@ title: "Section 13105 - Filing of reports"
 usc_title: 5
 usc_section: "13105"
 chapter: 131
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 13105"
-generated_at: "2026-03-30T02:52:56.078Z"
+generated_at: "2026-11-23T20:25:32.276Z"
+status: "active"
 ---
 
 # § 13105. Filing of reports
@@ -46,3 +47,136 @@ generated_at: "2026-03-30T02:52:56.078Z"
   - **(8)** Any civilian employee not described in paragraph (3), employed in the Executive Office of the President (other than a special Government employee as defined in section 202 of title 18 ) who holds a commission of appointment from the President.
   - **(9)** A Member of Congress, as defined under section 13101 of this title .
   - **(10)** An officer or employee of the Congress, as defined under section 13101 of this title .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 13105 | 5 U.S.C. App. (EGA § 103) | Pub. L. 95–521, title I, § 103 , Oct. 26, 1978 , 92 Stat. 1831 ; Pub. L. 96–19 , §§ 4(b)(2), 9(a), June 13, 1979 , 93 Stat. 40 , 42; Pub. L. 101–194, title II, § 202 , Nov. 30, 1989 , 103 Stat. 1736 ; Pub. L. 101–280, § 3(1) , (4), May 4, 1990 , 104 Stat. 152 , 153; Pub. L. 102–90, title III, § 313(1) , Aug. 14, 1991 , 105 Stat. 469 ; Pub. L. 104–186, title II, § 216(1) , Aug. 20, 1996 , 110 Stat. 1747 ; Pub. L. 108–271, § 8(b) , July 7, 2004 , 118 Stat. 814 ; Pub. L. 109–55, title I, § 1003(a) , Aug. 2, 2005 , 119 Stat. 572 ; Pub. L. 112–105 , §§ 6(a), 19(a), Apr. 4, 2012 , 126 Stat. 293 , 304; Pub. L. 113–235, div. H, title I, § 1301(b) , Dec. 16, 2014 , 128 Stat. 2537 ; Pub. L. 115–277, § 1(b) , Nov. 3, 2018 , 132 Stat. 4167 . |
+
+
+Reports Filed With Designated Agency Ethics Official
+
+Reports Filed With Director of Office of Government Ethics
+
+Copies of Reports Transmitted to the Office of Government Ethics
+
+Availability to Public
+
+Reports Filed With Federal Election Commission
+
+Reports Filed With Secretary Concerned
+
+Forms for Reporting
+
+Reports Filed by Certain Government Officials.—
+
+Officials with whom reports are filed.—
+
+Reports by members and staff of congress.—
+
+In general.—
+
+Reports filed with clerk of the house of representatives
+
+Reports filed with secretary of the senate
+
+Other reports
+
+Reports filed with judicial conference
+
+Date report received
+
+Copies of Reports to State Officers.—
+
+In general
+
+Exception for electronically filed reports
+
+Copies of Reports to Ethics Committees.—
+
+House of representatives
+
+Senate
+
+Assistance of Federal Election Commission
+
+Periodic Transaction Reports
+
+Historical and Revision Notes
+
+13105
+
+Pub. L. 95–521, title I, § 103
+
+Oct. 26, 1978
+
+92 Stat. 1831
+
+Pub. L. 96–19
+
+June 13, 1979
+
+93 Stat. 40
+
+Pub. L. 101–194, title II, § 202
+
+Nov. 30, 1989
+
+103 Stat. 1736
+
+Pub. L. 101–280, § 3(1)
+
+May 4, 1990
+
+104 Stat. 152
+
+Pub. L. 102–90, title III, § 313(1)
+
+Aug. 14, 1991
+
+105 Stat. 469
+
+Pub. L. 104–186, title II, § 216(1)
+
+Aug. 20, 1996
+
+110 Stat. 1747
+
+Pub. L. 108–271, § 8(b)
+
+July 7, 2004
+
+118 Stat. 814
+
+Pub. L. 109–55, title I, § 1003(a)
+
+Aug. 2, 2005
+
+119 Stat. 572
+
+Pub. L. 112–105
+
+Apr. 4, 2012
+
+126 Stat. 293
+
+Pub. L. 113–235, div. H, title I, § 1301(b)
+
+Dec. 16, 2014
+
+128 Stat. 2537
+
+Pub. L. 115–277, § 1(b)
+
+Nov. 3, 2018
+
+132 Stat. 4167
+
+Effective date
+
+Rule of construction
+
+“The transaction reporting requirements established by [former] section 103( l ) of the Ethics in Government Act of 1978 [see 5 U.S.C. 13105 ( l )], as added by section 6 of this Act, shall not be construed to apply to a widely held investment fund (whether such fund is a mutual fund, regulated investment company, pension or deferred compensation plan, or other investment fund), if—
+
+## Source Credit
+
+*([Pub. L. 117–286, § 3(c)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4285](https://www.govinfo.gov/link/statute/136/4285).)*

@@ -3,9 +3,10 @@ title: "Section 8233 - Weatherization study"
 usc_title: 42
 usc_section: "8233"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8233"
-generated_at: "2026-03-30T02:56:11.337Z"
+generated_at: "2026-11-23T20:27:23.007Z"
+status: "active"
 ---
 
 # § 8233. Weatherization study
@@ -15,3 +16,7 @@ The President shall conduct a study which shall monitor the weatherization activ
   - **(1)** the extent of progress being made through weatherization activities toward the achievement of national energy conservation goals;
   - **(2)** adequacy and costs of materials necessary for weatherization activities; and
   - **(3)** the need for and desirability of modifying weatherization activities authorized by this Act, and amendments made thereby and of extending such activities to a broader range of income groups than are being assisted under this Act and such amendments.
+
+## Source Credit
+
+*([Pub. L. 95–619, title II, § 254](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3237](https://www.govinfo.gov/link/statute/92/3237).)*

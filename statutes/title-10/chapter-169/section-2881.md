@@ -3,9 +3,10 @@ title: "Section 2881 - Ancillary supporting facilities"
 usc_title: 10
 usc_section: "2881"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2881"
-generated_at: "2026-03-30T02:53:38.182Z"
+generated_at: "2026-11-23T20:25:51.751Z"
+status: "active"
 ---
 
 # § 2881. Ancillary supporting facilities
@@ -17,3 +18,11 @@ generated_at: "2026-03-30T02:53:38.182Z"
   - **(3)** a Marine Corps exchange;
   - **(4)** the Defense Commissary Agency; or
   - **(5)** any nonappropriated fund activity of the Department of Defense for the morale, welfare, and recreation of members of the armed forces.
+
+Authority To Acquire or Construct
+
+Restriction
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 548](https://www.govinfo.gov/link/statute/110/548); amended [Pub. L. 106–65, div. B, title XXVIII, § 2804](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 849](https://www.govinfo.gov/link/statute/113/849); [Pub. L. 109–163, div. B, title XXVIII, § 2805(a)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3507](https://www.govinfo.gov/link/statute/119/3507).)*

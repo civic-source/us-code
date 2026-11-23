@@ -3,9 +3,10 @@ title: "Section 6250b - Conditions for release; plan"
 usc_title: 42
 usc_section: "6250b"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6250b"
-generated_at: "2026-03-30T02:56:11.244Z"
+generated_at: "2026-11-23T20:27:22.591Z"
+status: "active"
 ---
 
 # § 6250b. Conditions for release; plan
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:11.244Z"
   - **(4)** the estimated costs of establishment, maintenance, and operation of the Reserve;
   - **(5)** efforts the Department will take to minimize any potential need for future drawdowns and ensure that distributors and importers are not discouraged from maintaining and increasing supplies to the Northeast; and
   - **(6)** actions to ensure quality of the petroleum distillate in the Reserve.
+
+## Source Credit
+
+*([Pub. L. 94–163, title I, § 183](https://www.govinfo.gov/link/plaw/94/public/163), as added [Pub. L. 106–469, title II, § 201(a)(3)](https://www.govinfo.gov/link/plaw/106/public/469), Nov. 9, 2000, [114 Stat. 2035](https://www.govinfo.gov/link/statute/114/2035); amended [Pub. L. 109–58, title III, § 301(d)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 684](https://www.govinfo.gov/link/statute/119/684).)*

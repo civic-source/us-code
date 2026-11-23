@@ -3,9 +3,10 @@ title: "Section 30117 - Providing information to, and maintaining records on, pu
 usc_title: 49
 usc_section: "30117"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 30117"
-generated_at: "2026-03-30T02:56:19.351Z"
+generated_at: "2026-11-23T20:27:34.894Z"
+status: "active"
 ---
 
 # § 30117. Providing information to, and maintaining records on, purchasers
@@ -31,3 +32,112 @@ generated_at: "2026-03-30T02:56:19.351Z"
     - **(B)** carry out a program of conducting such tests.
   - **(2)** As the Secretary develops a test under paragraph (1)(A), the Secretary shall conduct a rulemaking to determine how best to disseminate test results to the public.
   - **(3)** This subsection applies to motor vehicles, including passenger cars, multipurpose passenger vehicles, and trucks, with a gross vehicle weight rating of 10,000 pounds or less. A motor vehicle designed to provide temporary residential accommodations is not covered.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30117(a) | 15:1397(a)(1)(B), (E) (as 1397(a)(1)(B), (E) relates to 15:1401(d)). | Sept. 9, 1966 , Pub. L. 89–563, § 108(a)(1)(B) (related to § 112(d)), (D) (related to § 158(b)), (E) (related to § 112(d)), 80 Stat. 722 ; Oct. 27, 1974 , Pub. L. 93–492, § 103(a)(1)(A) , (2), (3), 88 Stat. 1477 , 1478. |
+|  | 15:1401(d). | Sept. 9, 1966 , Pub. L. 89–563, § 112(d) , 80 Stat. 725 ; May 22, 1970 , Pub. L. 91–265, § 3 , 84 Stat. 262 . |
+| 30117(b) | 15:1397(a)(1)(D) (related to 15:1418(b)). |  |
+|  | 15:1418(b)(1). | Sept. 9, 1966 , Pub. L. 89–563 , 80 Stat. 718 , § 158(b)(1); added Oct. 27, 1974 , Pub. L. 93–492, § 102(a) , 88 Stat. 1476 ; Nov. 6, 1978 , Pub. L. 95–599, § 317 , 92 Stat. 2752 ; Oct. 15, 1982 , Pub. L. 97–331, § 4(a)(1) , 96 Stat. 1619 . |
+|  | 15:1418(b)(2), (3). | Sept. 9, 1966 , Pub. L. 89–563 , 80 Stat. 718 , § 158(b)(2), (3); added Oct. 15, 1982 , Pub. L. 97–331, § 4(a)(2) , 96 Stat. 1620 . |
+
+
+Providing Information and Notice
+
+Maintaining Purchaser Records and Procedures
+
+Rulemaking.—
+
+In general
+
+Electronic transmission
+
+Satisfaction of requirements
+
+Rollover Tests.—
+
+Development
+
+Test results
+
+Motor vehicles covered
+
+Historical and Revision Notes
+
+30117(a)
+
+Sept. 9, 1966
+
+Pub. L. 89–563, § 108(a)(1)(B)
+
+80 Stat. 722
+
+Oct. 27, 1974
+
+Pub. L. 93–492, § 103(a)(1)(A)
+
+88 Stat. 1477
+
+Sept. 9, 1966
+
+Pub. L. 89–563, § 112(d)
+
+80 Stat. 725
+
+May 22, 1970
+
+Pub. L. 91–265, § 3
+
+84 Stat. 262
+
+30117(b)
+
+Sept. 9, 1966
+
+Pub. L. 89–563
+
+80 Stat. 718
+
+Oct. 27, 1974
+
+Pub. L. 93–492, § 102(a)
+
+88 Stat. 1476
+
+Nov. 6, 1978
+
+Pub. L. 95–599, § 317
+
+92 Stat. 2752
+
+Oct. 15, 1982
+
+Pub. L. 97–331, § 4(a)(1)
+
+96 Stat. 1619
+
+Sept. 9, 1966
+
+Pub. L. 89–563
+
+80 Stat. 718
+
+Oct. 15, 1982
+
+Pub. L. 97–331, § 4(a)(2)
+
+96 Stat. 1620
+
+Rule
+
+Application
+
+Passenger Van Safety
+
+In general
+
+-passenger van defined
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 948](https://www.govinfo.gov/link/statute/108/948); [Pub. L. 106–414, § 12](https://www.govinfo.gov/link/plaw/106/public/414), Nov. 1, 2000, [114 Stat. 1806](https://www.govinfo.gov/link/statute/114/1806); [Pub. L. 114–94, div. B, title XXIV, § 24333](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1715](https://www.govinfo.gov/link/statute/129/1715).)*

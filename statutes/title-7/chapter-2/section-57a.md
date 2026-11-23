@@ -3,9 +3,10 @@ title: "Section 57a - Agreements with cotton associations, etc., in foreign coun
 usc_title: 7
 usc_section: "57a"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 57a"
-generated_at: "2026-03-30T02:53:42.252Z"
+generated_at: "2026-11-23T20:25:40.897Z"
+status: "active"
 ---
 
 # § 57a. Agreements with cotton associations, etc., in foreign countries to establish cotton standards
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:42.252Z"
   - **(2)** the arbitration or settlement of disputes with respect thereto, and
   - **(3)** the preparation, distribution, inspection, and protection of the practical forms or copies thereof under such agreements.
 
+
+## Source Credit
+
+*(Mar. 4, 1923, ch. 288, § 6(b), as added Sept. 21, 1944, ch. 412, title IV, § 401(b), [58 Stat. 738](https://www.govinfo.gov/link/statute/58/738).)*

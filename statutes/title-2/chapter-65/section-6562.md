@@ -3,12 +3,17 @@ title: "Section 6562 - Transfers of funds by Secretary of Senate; approval of Co
 usc_title: 2
 usc_section: "6562"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 6562"
-generated_at: "2026-03-30T02:53:04.842Z"
+generated_at: "2026-11-23T20:25:29.076Z"
+status: "active"
 ---
 
 # § 6562. Transfers of funds by Secretary of Senate; approval of Committee on Appropriations
 
 During any fiscal year (commencing with the fiscal year beginning October 1, 1982 ) the Secretary of the Senate is authorized to make such transfers between appropriations of funds available for disbursement by him during such year, subject to the approval of the Committee on Appropriations of the Senate.
 
+
+## Source Credit
+
+*([Pub. L. 97–276, § 101(e)](https://www.govinfo.gov/link/plaw/97/public/276), Oct. 2, 1982, [96 Stat. 1189](https://www.govinfo.gov/link/statute/96/1189).)*

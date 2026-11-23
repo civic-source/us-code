@@ -3,9 +3,10 @@ title: "Section 3309 - Prohibition on release of contractor proposals"
 usc_title: 10
 usc_section: "3309"
 chapter: 241
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 3309"
-generated_at: "2026-03-30T02:53:38.191Z"
+generated_at: "2026-11-23T20:25:51.824Z"
+status: "active"
 ---
 
 # § 3309. Prohibition on release of contractor proposals
@@ -13,3 +14,13 @@ generated_at: "2026-03-30T02:53:38.191Z"
 - **(a)** In this section, the term “proposal” means any proposal, including a technical, management, or cost proposal, submitted by a contractor in response to the requirements of a solicitation for a competitive proposal.
 - **(b)** Except as provided in subsection (c), a proposal in the possession or control of an agency named in section 3063 of this title may not be made available to any person under section 552 of title 5 .
 - **(c)** Subsection (b) does not apply to any proposal that is set forth or incorporated by reference in a contract entered into between the Department and the contractor that submitted the proposal.
+
+Definition
+
+Prohibition
+
+Inapplicability
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1816(d)](https://www.govinfo.gov/link/plaw/116/public/283), (f), Jan. 1, 2021, [134 Stat. 4185](https://www.govinfo.gov/link/statute/134/4185).)*

@@ -3,9 +3,10 @@ title: "Section 1452 - Congressional declaration of policy"
 usc_title: 16
 usc_section: "1452"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1452"
-generated_at: "2026-03-30T02:54:22.970Z"
+generated_at: "2026-11-23T20:26:20.492Z"
+status: "active"
 ---
 
 # § 1452. Congressional declaration of policy
@@ -29,3 +30,7 @@ The Congress finds and declares that it is the national policy—
   - **(4)** to encourage the participation and cooperation of the public, state and local governments, and interstate and other regional agencies, as well as of the Federal agencies having programs affecting the coastal zone, in carrying out the purposes of this chapter;
   - **(5)** to encourage coordination and cooperation with and among the appropriate Federal, State, and local agencies, and international organizations where appropriate, in collection, analysis, synthesis, and dissemination of coastal management information, research results, and technical assistance, to support State and Federal regulation of land use practices affecting the coastal and ocean resources of the United States; and
   - **(6)** to respond to changing circumstances affecting the coastal environment and coastal resource management by encouraging States to consider such issues as ocean uses potentially affecting the coastal zone.
+
+## Source Credit
+
+*([Pub. L. 89–454, title III, § 303](https://www.govinfo.gov/link/plaw/89/public/454), as added [Pub. L. 92–583](https://www.govinfo.gov/link/plaw/92/public/583), Oct. 27, 1972, [86 Stat. 1281](https://www.govinfo.gov/link/statute/86/1281); amended [Pub. L. 96–464, § 3](https://www.govinfo.gov/link/plaw/96/public/464), Oct. 17, 1980, [94 Stat. 2060](https://www.govinfo.gov/link/statute/94/2060); [Pub. L. 101–508, title VI, § 6203(b)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–301](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 102–587, title II, § 2205(b)(2)](https://www.govinfo.gov/link/plaw/102/public/587), Nov. 4, 1992, [106 Stat. 5050](https://www.govinfo.gov/link/statute/106/5050).)*

@@ -3,9 +3,10 @@ title: "Section 5727 - Authorization of appropriations"
 usc_title: 16
 usc_section: "5727"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 5727"
-generated_at: "2026-03-30T02:54:23.054Z"
+generated_at: "2026-11-23T20:26:20.783Z"
+status: "active"
 ---
 
 # § 5727. Authorization of appropriations
@@ -16,3 +17,7 @@ There are authorized to be appropriated to the Secretary of the Interior to carr
   - **(2)** such sums as are necessary shall be available for the United States share of expenses incurred by the Joint Technical Committee and any panel established by any agreement between the Government of the United States and the Government of Canada for restoration and enhancement of salmon originating in Canada;
   - **(3)** up to $3,000,000 shall be available each fiscal year for activities by the Department of the Interior and the Department of Commerce for survey, restoration, and enhancement activities related to salmon stocks originating from the Yukon River in Canada, of which up to $1,200,000 shall be available each fiscal year for Yukon River salmon stock restoration and enhancement projects under section 5726(b) of this title ; and
   - **(4)** $600,000 shall be available each fiscal year for cooperative salmon research and management projects in the portion of the Yukon River drainage located in the United States that are recommended by the Panel.
+
+## Source Credit
+
+*([Pub. L. 106–450, title II, § 208](https://www.govinfo.gov/link/plaw/106/public/450), Nov. 7, 2000, [114 Stat. 1944](https://www.govinfo.gov/link/statute/114/1944); [Pub. L. 108–219, title III, § 303](https://www.govinfo.gov/link/plaw/108/public/219), Apr. 13, 2004, [118 Stat. 616](https://www.govinfo.gov/link/statute/118/616); [Pub. L. 109–479, title III, § 302(b)](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3623](https://www.govinfo.gov/link/statute/120/3623).)*

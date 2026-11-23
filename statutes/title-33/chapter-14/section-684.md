@@ -3,12 +3,17 @@ title: "Section 684 - Cooperation by commission with State authorities"
 usc_title: 33
 usc_section: "684"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 684"
-generated_at: "2026-03-30T02:55:41.067Z"
+generated_at: "2026-11-23T20:26:53.882Z"
+status: "active"
 ---
 
 # § 684. Cooperation by commission with State authorities
 
 For the purpose of securing harmony of action and economy in expenditures in the work to be done by the United States and the State of California, respectively, the former in its plans for the improvement and protection of the navigable streams and to prevent the depositing of mining debris or other materials within the same, and the latter in its plans authorized by law for the reclamation, drainage, and protection of its lands, or relating to the working of hydraulic mines, the said commission is empowered to consult thereon with a commission of engineers of said State, if authorized by said State for said purpose, the result of such conference to be reported to the Chief of Engineers of the United States Army, and if by him approved shall be followed by said commission.
 
+
+## Source Credit
+
+*(Mar. 1, 1893, ch. 183, § 24, [27 Stat. 511](https://www.govinfo.gov/link/statute/27/511).)*

@@ -3,9 +3,10 @@ title: "Section 961 - Authorization of appropriations"
 usc_title: 16
 usc_section: "961"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 961"
-generated_at: "2026-03-30T02:54:22.936Z"
+generated_at: "2026-11-23T20:26:20.348Z"
+status: "active"
 ---
 
 # § 961. Authorization of appropriations
@@ -17,3 +18,7 @@ There is hereby authorized to be appropriated from time to time, out of any mone
 - **(c)** printing and binding without regard to section 501 of title 44 or section 6101 of title 41 ;
 - **(d)** stenographic and other services by contract, if deemed necessary, without regard to section 6101 of title 41 ; and
 - **(e)** purchase, hire, operation, maintenance, and repair of aircraft, motor vehicles (including passenger-carrying vehicles), boats and research vessels.
+
+## Source Credit
+
+*(Sept. 7, 1950, ch. 907, § 12, [64 Stat. 780](https://www.govinfo.gov/link/statute/64/780).)*

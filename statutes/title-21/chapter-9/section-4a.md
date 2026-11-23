@@ -3,9 +3,10 @@ title: "Section 4a - Priority review to encourage treatments for agents that pre
 usc_title: 21
 usc_section: "4a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 4a"
-generated_at: "2026-03-30T02:54:54.256Z"
+generated_at: "2026-11-23T20:26:27.673Z"
+status: "active"
 ---
 
 # § 360bbb–4a. Priority review to encourage treatments for agents that present national security threats
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:54:54.256Z"
 - **(e)** Nothing in this section precludes a sponsor who seeks a priority review voucher under this section from participating in any other incentive program, including under this chapter, except that no sponsor of a material threat medical countermeasure application may receive more than one priority review voucher issued under any section of this chapter with respect to such drug.
 - **(f)** The provisions of this section shall supplement, not supplant, any other provisions of this chapter or the Public Health Service Act [ 42 U.S.C. 201 et seq.] that encourage the development of medical countermeasures.
 - **(g)** The Secretary may not award any priority review vouchers under subsection (b) after October 1, 2023 .
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 565A, as added [Pub. L. 114–255, div. A, title III, § 3086](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1144](https://www.govinfo.gov/link/statute/130/1144); [Pub. L. 117–9, § 1(a)(5)](https://www.govinfo.gov/link/plaw/117/public/9), Apr. 23, 2021, [135 Stat. 258](https://www.govinfo.gov/link/statute/135/258).)*

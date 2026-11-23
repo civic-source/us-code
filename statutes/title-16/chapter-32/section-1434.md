@@ -3,9 +3,10 @@ title: "Section 1434 - Procedures for designation and implementation"
 usc_title: 16
 usc_section: "1434"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1434"
-generated_at: "2026-03-30T02:54:22.967Z"
+generated_at: "2026-11-23T20:26:20.485Z"
+status: "active"
 ---
 
 # § 1434. Procedures for designation and implementation
@@ -62,3 +63,7 @@ generated_at: "2026-03-30T02:54:22.967Z"
   - **(3)** Paragraph (1) does not apply to any sanctuary designation documents for—
     - **(A)** a Thunder Bay National Marine Sanctuary; or
     - **(B)** a Northwestern Hawaiian Islands National Marine Sanctuary.
+
+## Source Credit
+
+*([Pub. L. 92–532, title III, § 304](https://www.govinfo.gov/link/plaw/92/public/532), Oct. 23, 1972, [86 Stat. 1063](https://www.govinfo.gov/link/statute/86/1063); [Pub. L. 94–62, § 4](https://www.govinfo.gov/link/plaw/94/public/62), July 25, 1975, [89 Stat. 303](https://www.govinfo.gov/link/statute/89/303); [Pub. L. 94–326, § 4](https://www.govinfo.gov/link/plaw/94/public/326), June 30, 1976, [90 Stat. 725](https://www.govinfo.gov/link/statute/90/725); [Pub. L. 95–153, § 3](https://www.govinfo.gov/link/plaw/95/public/153), Nov. 4, 1977, [91 Stat. 1255](https://www.govinfo.gov/link/statute/91/1255); [Pub. L. 96–332, § 3](https://www.govinfo.gov/link/plaw/96/public/332), Aug. 29, 1980, [94 Stat. 1059](https://www.govinfo.gov/link/statute/94/1059); [Pub. L. 97–109](https://www.govinfo.gov/link/plaw/97/public/109), Dec. 26, 1981, [95 Stat. 1512](https://www.govinfo.gov/link/statute/95/1512); [Pub. L. 98–498, title I, § 102](https://www.govinfo.gov/link/plaw/98/public/498), Oct. 19, 1984, [98 Stat. 2298](https://www.govinfo.gov/link/statute/98/2298); [Pub. L. 100–627, title II, § 202](https://www.govinfo.gov/link/plaw/100/public/627), Nov. 7, 1988, [102 Stat. 3214](https://www.govinfo.gov/link/statute/102/3214); [Pub. L. 102–587, title II, § 2104](https://www.govinfo.gov/link/plaw/102/public/587), Nov. 4, 1992, [106 Stat. 5041](https://www.govinfo.gov/link/statute/106/5041); [Pub. L. 104–283, § 9(h)](https://www.govinfo.gov/link/plaw/104/public/283), Oct. 11, 1996, [110 Stat. 3368](https://www.govinfo.gov/link/statute/110/3368); [Pub. L. 106–513](https://www.govinfo.gov/link/plaw/106/public/513), §§ 6(a)–(f), 19(a)(2), (b)(4), Nov. 13, 2000, [114 Stat. 2383–2385](https://www.govinfo.gov/link/statute/114/2383), 2392, 2393; [Pub. L. 106–555, title II, § 205(b)](https://www.govinfo.gov/link/plaw/106/public/555), Dec. 21, 2000, [114 Stat. 2769](https://www.govinfo.gov/link/statute/114/2769); [Pub. L. 106–562, title III, § 307(a)](https://www.govinfo.gov/link/plaw/106/public/562), Dec. 23, 2000, [114 Stat. 2807](https://www.govinfo.gov/link/statute/114/2807).)*

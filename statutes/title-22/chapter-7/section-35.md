@@ -3,9 +3,10 @@ title: "Section 35 - Construction, operation, and maintenance of works; property
 usc_title: 22
 usc_section: "35"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 35"
-generated_at: "2026-03-30T02:55:05.312Z"
+generated_at: "2026-11-23T20:26:31.971Z"
+status: "active"
 ---
 
 # § 277d–35. Construction, operation, and maintenance of works; property relocation, contracts; transfer of authority
@@ -15,3 +16,7 @@ The Commissioner is authorized—
   - **(1)** to construct, operate, and maintain all works provided for in the treaty and title I of this Act;
   - **(2)** to enter into contracts with the owners of properties to be relocated whereby such owners undertake to perform, at the expense of the United States, any or all operations involved in such relocations; and
   - **(3)** to turn over the operation and maintenance of any works referred to in paragraph (1) of this section to any Federal agency, or any State, county, municipality, district, or other political subdivision within which such works may be situated, in whole or in part, upon such terms, conditions, and requirements as the Commissioner may deem appropriate.
+
+## Source Credit
+
+*([Pub. L. 92–549, title I, § 102](https://www.govinfo.gov/link/plaw/92/public/549), Oct. 25, 1972, [86 Stat. 1161](https://www.govinfo.gov/link/statute/86/1161).)*

@@ -3,9 +3,10 @@ title: "Section 16160 - Reports"
 usc_title: 42
 usc_section: "16160"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16160"
-generated_at: "2026-03-30T02:56:11.470Z"
+generated_at: "2026-11-23T20:27:23.619Z"
+status: "active"
 ---
 
 # § 16160. Reports
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.470Z"
   - **(8)** any updates to strategic plans that are necessary to meet the goals described in paragraph (4).
 - **(b)** The Secretary shall enter into an arrangement with the National Academy of Sciences under which the Academy will review the programs under sections 16154 and 16157 of this title every fourth year following August 8, 2005 . The Academy’s review shall include the program priorities and technical milestones, and evaluate the progress toward achieving them. The first review shall be completed not later than 5 years after August 8, 2005 . Not later than 45 days after receiving the review, the Secretary shall transmit the review to Congress along with a plan to implement the review’s recommendations or an explanation for the reasons that a recommendation will not be implemented.
 - **(c)** There is authorized to be appropriated to carry out this section $1,500,000 for each of fiscal years 2006 through 2020.
+
+## Source Credit
+
+*([Pub. L. 109–58, title VIII, § 811](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 852](https://www.govinfo.gov/link/statute/119/852).)*

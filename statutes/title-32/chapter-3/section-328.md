@@ -3,9 +3,10 @@ title: "Section 328 - Active Guard and Reserve duty: Governor’s authority"
 usc_title: 32
 usc_section: "328"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "32 U.S.C. § 328"
-generated_at: "2026-03-30T02:55:31.866Z"
+generated_at: "2026-11-23T20:26:48.794Z"
+status: "active"
 ---
 
 # § 328. Active Guard and Reserve duty: Governor’s authority
@@ -17,3 +18,13 @@ generated_at: "2026-03-30T02:55:31.866Z"
   - **(2)** Training performed under paragraph (1) must be in compliance with the requirements of section 502(f)(2)(B)(i) of this title .
   - **(3)** No more than 100 personnel may be granted a waiver by a Secretary concerned under paragraph (1) at a time.
   - **(4)** The authority under paragraph (1) shall terminate on October 1, 2024 .
+
+Authority
+
+Duties
+
+Waiver Authority
+
+## Source Credit
+
+*(Added [Pub. L. 109–364, div. A, title V, § 526(a)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2196](https://www.govinfo.gov/link/statute/120/2196); amended [Pub. L. 117–263, div. A, title V, § 515(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2566](https://www.govinfo.gov/link/statute/136/2566).)*

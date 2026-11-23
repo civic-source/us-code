@@ -3,9 +3,10 @@ title: "Section 3250 - Workforce flexibility plans"
 usc_title: 29
 usc_section: "3250"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3250"
-generated_at: "2026-03-30T02:55:18.761Z"
+generated_at: "2026-11-23T20:26:38.134Z"
+status: "active"
 ---
 
 # § 3250. Workforce flexibility plans
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:18.761Z"
   - **(5)** other measures to be taken to ensure appropriate accountability for Federal funds in connection with the waivers.
 - **(c)** The Secretary may approve a workforce flexibility plan for a period of not more than 5 years.
 - **(d)** Prior to submitting a workforce flexibility plan to the Secretary for approval, the State shall provide to all interested parties and to the general public adequate notice of and a reasonable opportunity for comment on the waiver requests proposed to be implemented pursuant to such plan.
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 190](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1602](https://www.govinfo.gov/link/statute/128/1602).)*

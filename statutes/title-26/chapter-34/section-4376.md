@@ -3,9 +3,10 @@ title: "Section 4376 - Self-insured health plans"
 usc_title: 26
 usc_section: "4376"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 4376"
-generated_at: "2026-03-30T02:55:27.802Z"
+generated_at: "2026-11-23T20:26:46.317Z"
+status: "active"
 ---
 
 # § 4376. Self-insured health plans
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:27.802Z"
   - **(1)** such dollar amount for plan years ending in the previous fiscal year, multiplied by
   - **(2)** the percentage increase in the projected per capita amount of National Health Expenditures, as most recently published by the Secretary before the beginning of the fiscal year.
 - **(e)** This section shall not apply to plan years ending after September 30, 2029 .
+
+## Source Credit
+
+*(Added [Pub. L. 111–148, title VI, § 6301(e)(2)(A)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 744](https://www.govinfo.gov/link/statute/124/744); amended [Pub. L. 116–94, div. N, title I, § 104(c)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3098](https://www.govinfo.gov/link/statute/133/3098).)*

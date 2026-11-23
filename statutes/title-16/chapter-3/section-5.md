@@ -3,9 +3,10 @@ title: "Section 5 - Stewardship credits for outfitters and guides"
 usc_title: 16
 usc_section: "5"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 5"
-generated_at: "2026-03-30T02:54:22.881Z"
+generated_at: "2026-11-23T20:26:20.174Z"
+status: "active"
 ---
 
 # § 583k–5. Stewardship credits for outfitters and guides
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:22.881Z"
 - **(b)** In establishing the pilot program authorized by subsection (a), the Secretary shall—
   - **(1)** select administrative units where the pilot program will improve trail maintenance; and
   - **(2)** establish appropriate terms and conditions, including meeting National Quality Standards for Trails and the Trail Management Objectives identified for the trail.
+
+## Source Credit
+
+*([Pub. L. 114–245, § 7](https://www.govinfo.gov/link/plaw/114/public/245), Nov. 28, 2016, [130 Stat. 994](https://www.govinfo.gov/link/statute/130/994).)*

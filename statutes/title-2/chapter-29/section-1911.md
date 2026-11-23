@@ -3,9 +3,10 @@ title: "Section 1911 - General Counsel to the Chief of Police and the United Sta
 usc_title: 2
 usc_section: "1911"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1911"
-generated_at: "2026-03-30T02:53:04.820Z"
+generated_at: "2026-11-23T20:25:28.993Z"
+status: "active"
 ---
 
 # § 1911. General Counsel to the Chief of Police and the United States Capitol Police
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:04.820Z"
     - **(B)** The annual rate of pay for the General Counsel may not exceed an annual rate equal to $1,000 less than the annual rate of pay in effect for the Chief of the Capitol Police.
   - **(4)**
   - **(5)** Nothing in this section or the amendments made by this section may be construed to affect the status of the individual serving as the General Counsel to the Chief of Police and the United States Capitol Police as of March 4, 2010 .
+
+## Source Credit
+
+*([Pub. L. 111–145, § 3(a)](https://www.govinfo.gov/link/plaw/111/public/145), Mar. 4, 2010, [124 Stat. 51](https://www.govinfo.gov/link/statute/124/51).)*

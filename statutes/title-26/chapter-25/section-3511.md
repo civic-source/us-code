@@ -3,9 +3,10 @@ title: "Section 3511 - Certified professional employer organizations"
 usc_title: 26
 usc_section: "3511"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 3511"
-generated_at: "2026-03-30T02:55:27.797Z"
+generated_at: "2026-11-23T20:26:46.266Z"
+status: "active"
 ---
 
 # § 3511. Certified professional employer organizations
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:55:27.797Z"
   - **(2)** such information as the Secretary determines necessary for the customer to claim the credits identified in subsection (d) and the manner in which such information is to be provided, as prescribed by the Secretary, and
   - **(3)** such other information as the Secretary determines is essential to promote compliance with respect to the credits identified in subsection (d) and section 3302, and
 - **(h)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
+
+## Source Credit
+
+*(Added [Pub. L. 113–295, div. B, title II, § 206(a)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4065](https://www.govinfo.gov/link/statute/128/4065); amended [Pub. L. 117–328, div. T, title I, § 112(c)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5295](https://www.govinfo.gov/link/statute/136/5295).)*

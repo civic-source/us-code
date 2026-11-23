@@ -3,9 +3,10 @@ title: "Section 1510 - Obstruction of criminal investigations"
 usc_title: 18
 usc_section: "1510"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 1510"
-generated_at: "2026-03-30T02:54:16.487Z"
+generated_at: "2026-11-23T20:26:08.499Z"
+status: "active"
 ---
 
 # § 1510. Obstruction of criminal investigations
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:16.487Z"
     - **(B)** is engaged in the business of insurance whose activities affect interstate commerce or is involved (other than as an insured or beneficiary under a policy of insurance) in a transaction relating to the conduct of affairs of such a business,
   - **(2)** As used in paragraph (1), the term “subpoena for records” means a Federal grand jury subpoena for records that has been served relating to a violation of, or a conspiracy to violate, section 1033 of this title .
 - **(e)** Whoever, having been notified of the applicable disclosure prohibitions or confidentiality requirements of section 2709(c)(1) of this title , section 626(d)(1) or 627(c)(1) of the Fair Credit Reporting Act ( 15 U.S.C. 1681u(d)(1) or 1681v(c)(1)), section 1114(a)(3)(A) or 1114(a)(5)(D)(i) of the Right to Financial Privacy Act 1 1 So in original. Probably should be followed by “of 1978”. ( 12 U.S.C. 3414(a)(3)(A) or 3414(a)(5)(D)(i)), or section 802(b)(1) of the National Security Act of 1947 ( 50 U.S.C. 436(b)(1) ), 2 2 See References in Text note below. knowingly and with the intent to obstruct an investigation or judicial proceeding violates such prohibitions or requirements applicable by law to such person shall be imprisoned for not more than five years, fined under this title, or both.
+
+## Source Credit
+
+*(Added [Pub. L. 90–123, § 1(a)](https://www.govinfo.gov/link/plaw/90/public/123), Nov. 3, 1967, [81 Stat. 362](https://www.govinfo.gov/link/statute/81/362); amended [Pub. L. 97–291, § 4(e)](https://www.govinfo.gov/link/plaw/97/public/291), Oct. 12, 1982, [96 Stat. 1253](https://www.govinfo.gov/link/statute/96/1253); [Pub. L. 101–73, title IX, § 962(c)](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 502](https://www.govinfo.gov/link/statute/103/502); [Pub. L. 102–550, title XV, § 1528](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 4065](https://www.govinfo.gov/link/statute/106/4065); [Pub. L. 103–322, title XXXII, § 320604(c)](https://www.govinfo.gov/link/plaw/103/public/322), title XXXIII, § 330016(1)(K), Sept. 13, 1994, [108 Stat. 2119](https://www.govinfo.gov/link/statute/108/2119), 2147; [Pub. L. 104–191, title II, § 248(c)](https://www.govinfo.gov/link/plaw/104/public/191), Aug. 21, 1996, [110 Stat. 2020](https://www.govinfo.gov/link/statute/110/2020); [Pub. L. 109–177, title I, § 117](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 217](https://www.govinfo.gov/link/statute/120/217); [Pub. L. 111–148, title X, § 10606(d)(1)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 1008](https://www.govinfo.gov/link/statute/124/1008); [Pub. L. 116–283, div. F, title LXIII, § 6308(c)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4594](https://www.govinfo.gov/link/statute/134/4594).)*

@@ -3,9 +3,10 @@ title: "Section 399g - Food and Drug Administration Intercenter Institutes"
 usc_title: 21
 usc_section: "399g"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 399g"
-generated_at: "2026-03-30T02:54:54.284Z"
+generated_at: "2026-11-23T20:26:27.787Z"
+status: "active"
 ---
 
 # § 399g. Food and Drug Administration Intercenter Institutes
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:54.284Z"
 - **(b)** The Secretary shall provide a period for public comment during the time that each Institute is being implemented.
 - **(c)** The Secretary shall establish at least one Institute under subsection (a) before the date that is 1 year after December 13, 2016 .
 - **(d)** The Secretary may terminate any Institute established pursuant to this section if the Secretary determines such Institute is no longer benefitting the public health. Not less than 60 days prior to so terminating an Institute, the Secretary shall provide public notice, including the rationale for such termination.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 1014, as added [Pub. L. 114–255, div. A, title III, § 3073(a)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1136](https://www.govinfo.gov/link/statute/130/1136).)*

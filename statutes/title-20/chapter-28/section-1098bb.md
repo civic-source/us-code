@@ -3,9 +3,10 @@ title: "Section 1098bb - Waiver authority for response to military contingencies
 usc_title: 20
 usc_section: "1098bb"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1098bb"
-generated_at: "2026-03-30T02:54:48.139Z"
+generated_at: "2026-11-23T20:26:14.537Z"
+status: "active"
 ---
 
 # § 1098bb. Waiver authority for response to military contingencies and national emergencies
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:48.139Z"
   - **(3)** The Secretary is not required to exercise the waiver or modification authority under this section on a case-by-case basis.
 - **(c)** The Secretary shall, not later than 15 months after first exercising any authority to issue a waiver or modification under subsection (a), report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate on the impact of any waivers or modifications issued pursuant to subsection (a) on affected individuals and the programs under title IV of the Act [ 20 U.S.C. 1070 et seq.], and the basis for such determination, and include in such report the Secretary’s recommendations for changes to the statutory or regulatory provisions that were the subject of such waiver or modification.
 - **(d)** Sections 482(c) and 492 of the Higher Education Act of 1965 ( 20 U.S.C. 1089(c) , 1098a) shall not apply to the waivers and modifications authorized or required by this part.
+
+## Source Credit
+
+*([Pub. L. 108–76, § 2](https://www.govinfo.gov/link/plaw/108/public/76), Aug. 18, 2003, [117 Stat. 904](https://www.govinfo.gov/link/statute/117/904).)*

@@ -3,9 +3,10 @@ title: "Section 7651a - Definitions"
 usc_title: 42
 usc_section: "7651a"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7651a"
-generated_at: "2026-03-30T02:56:11.321Z"
+generated_at: "2026-11-23T20:27:22.942Z"
+status: "active"
 ---
 
 # § 7651a. Definitions
@@ -61,3 +62,7 @@ As used in this subchapter:
     - **(A)** For calendar years 2000 through 2009 inclusive, allocations of allowances made by the Administrator pursuant to section 7651b of this title and subsections (b)(1), (3), and (4); (c)(1), (2), (3), and (5); (d)(1), (2), (4), and (5); (e); (f); (g)(1), (2), (3), (4), and (5); (h)(1); (i) and (j) of section 7651d of this title .
     - **(B)** For each calendar year beginning in 2010, allocations of allowances made by the Administrator pursuant to section 7651b of this title and subsections (b)(1), (3), and (4); (c)(1), (2), (3), and (5); (d)(1), (2), (4) and (5); (e); (f); (g)(1), (2), (3), (4), and (5); (h)(1) and (3); (i) and (j) of section 7651d of this title .
   - **(29)** The term “Phase II bonus allowance allocations” means, for calendar year 2000 through 2009, inclusive, and only for such years, allocations made by the Administrator pursuant to section 7651b of this title , subsections (a)(2), (b)(2), (c)(4), (d)(3) (except as otherwise provided therein), and (h)(2) of section 7651d of this title , and section 7651e of this title .
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title IV, § 402, as added [Pub. L. 101–549, title IV, § 401](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2585](https://www.govinfo.gov/link/statute/104/2585).)*

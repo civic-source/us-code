@@ -3,9 +3,10 @@ title: "Section 14315 - Position vacancy promotions: Army and Air Force officers
 usc_title: 10
 usc_section: "14315"
 chapter: 1405
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 14315"
-generated_at: "2026-03-30T02:53:38.275Z"
+generated_at: "2026-11-23T20:25:52.470Z"
+status: "active"
 ---
 
 # § 14315. Position vacancy promotions: Army and Air Force officers
@@ -20,3 +21,17 @@ generated_at: "2026-03-30T02:53:38.275Z"
 - **(c)** Consideration for promotion under this section shall be by a vacancy promotion board convened under section 14101(a) of this title .
 - **(d)** An officer who is considered for promotion under this section and is not selected shall not be considered to have failed of selection for promotion.
 - **(e)** A reserve officer of the Army or the Air Force who is considered as failed of selection for promotion under section 14501 of this title to a grade may be considered for promotion under this section or, if selected, promoted to that grade only if the Secretary of the military department concerned finds that the officer is the only qualified officer available to fill the vacancy. The Secretary concerned may not delegate the authority under the preceding sentence.
+
+Officers Eligible for Consideration For Vacancy Promotions Below Brigadier General
+
+Consideration for Vacancy Promotion to Brigadier General or Major General
+
+Vacancy Promotion Boards
+
+Effect of Nonselection
+
+Special Rule for Officers Failed of Selection
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1611](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2943](https://www.govinfo.gov/link/statute/108/2943); amended [Pub. L. 104–106, div. A, title XV, § 1501(b)(25)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 497](https://www.govinfo.gov/link/statute/110/497); [Pub. L. 105–85, div. A, title V, § 514(d)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1732](https://www.govinfo.gov/link/statute/111/1732); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title V, § 501], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–98; [Pub. L. 108–136, div. A, title V, § 512(b)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1460](https://www.govinfo.gov/link/statute/117/1460).)*

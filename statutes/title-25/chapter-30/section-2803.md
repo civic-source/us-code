@@ -3,9 +3,10 @@ title: "Section 2803 - Law enforcement authority"
 usc_title: 25
 usc_section: "2803"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 2803"
-generated_at: "2026-03-30T02:54:52.844Z"
+generated_at: "2026-11-23T20:26:25.616Z"
+status: "active"
 ---
 
 # § 2803. Law enforcement authority
@@ -32,3 +33,13 @@ The Secretary may charge employees of the Bureau with law enforcement responsibi
   - **(6)** wear a prescribed uniform and badge or carry prescribed credentials;
   - **(7)** perform any other law enforcement related duty; and
   - **(8)** when requested, assist (with or without reimbursement) any Federal, tribal, State, or local law enforcement agency in the enforcement or carrying out of the laws or regulations the agency enforces or administers.
+
+(aa) the Controlled Substances Act ( 21 U.S.C. 801 et seq.);
+
+(bb) title IX of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 ( 21 U.S.C. 862a et seq.); 2 2 See References in Text note below. or
+
+(cc) section 865 of title 21 ;
+
+## Source Credit
+
+*([Pub. L. 101–379, § 4](https://www.govinfo.gov/link/plaw/101/public/379), Aug. 18, 1990, [104 Stat. 475](https://www.govinfo.gov/link/statute/104/475); [Pub. L. 109–162, title IX, § 908(b)](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3083](https://www.govinfo.gov/link/statute/119/3083); [Pub. L. 111–211, title II, § 211(c)](https://www.govinfo.gov/link/plaw/111/public/211), July 29, 2010, [124 Stat. 2266](https://www.govinfo.gov/link/statute/124/2266).)*

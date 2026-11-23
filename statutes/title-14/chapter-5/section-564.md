@@ -3,9 +3,10 @@ title: "Section 564 - Administration of sexual assault forensic examination kits
 usc_title: 14
 usc_section: "564"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 564"
-generated_at: "2026-03-30T02:53:51.490Z"
+generated_at: "2026-11-23T20:25:54.535Z"
+status: "active"
 ---
 
 # § 564. Administration of sexual assault forensic examination kits
@@ -25,3 +26,15 @@ generated_at: "2026-03-30T02:53:51.490Z"
     - **(H)** the availability of nonprescription pregnancy prophylactics; and
     - **(I)** other unique military considerations.
 - **(b)** The Commandant shall submit to the Transportation and Infrastructure Committee of the House of Representatives and the Commerce, Science, and Transportation Committee of the Senate a report containing the number of sexual assault forensic examinations that were requested by, but not administered within 3 days to, alleged victims of sexual assault when such victims were onboard a Coast Guard vessel.
+
+Sexual Assault Forensic Exam Procedure.—
+
+In general
+
+Requirements
+
+Annual Report
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. K, title CXII, § 11272(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4066](https://www.govinfo.gov/link/statute/136/4066); amended [Pub. L. 119–60, div. G, title LXXII, § 7269(a)(2)](https://www.govinfo.gov/link/plaw/119/public/60), (c), Dec. 18, 2025, [139 Stat. 1745](https://www.govinfo.gov/link/statute/139/1745), 1746.)*

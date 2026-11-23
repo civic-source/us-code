@@ -3,9 +3,10 @@ title: "Section 5217 - Contracting procedures"
 usc_title: 12
 usc_section: "5217"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5217"
-generated_at: "2026-03-30T02:53:53.525Z"
+generated_at: "2026-11-23T20:25:59.450Z"
+status: "active"
 ---
 
 # § 5217. Contracting procedures
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:53.525Z"
 - **(c)** Notwithstanding subsections (a) and (b), the Corporation—
   - **(1)** shall be eligible for, and shall be considered in, the selection of asset managers for residential mortgage loans and residential mortgage-backed securities; and
   - **(2)** shall be reimbursed by the Secretary for any services provided.
+
+## Source Credit
+
+*([Pub. L. 110–343, div. A, title I, § 107](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3773](https://www.govinfo.gov/link/statute/122/3773); [Pub. L. 111–5, div. A, title XVI, § 1608](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 304](https://www.govinfo.gov/link/statute/123/304).)*

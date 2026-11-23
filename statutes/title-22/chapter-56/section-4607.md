@@ -3,9 +3,10 @@ title: "Section 4607 - Procedures and records"
 usc_title: 22
 usc_section: "4607"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4607"
-generated_at: "2026-03-30T02:55:05.412Z"
+generated_at: "2026-11-23T20:26:32.541Z"
+status: "active"
 ---
 
 # § 4607. Procedures and records
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.412Z"
 - **(g)** The accounts of the Institute shall be audited annually in accordance with generally accepted auditing standards by independent certified public accountants or independent licensed public accountants, certified or licensed by a regulatory authority of a State or other political subdivision of the United States. The audit shall be conducted at the place or places where the accounts of the Institute are normally kept. All books, accounts, financial records, files, and other papers, things, and property belonging to or in use by the Institute and necessary to facilitate the audit shall be made available to the person or persons conducting the audit, and full facilities for verifying transactions with the balances or securities held by depositories, fiscal agents, and custodians shall be afforded to such person or persons.
 - **(h)** The Institute shall provide a report of the audit to the President and to each House of Congress no later than six months following the close of the fiscal year for which the audit is made. The report shall set forth the scope of the audit and include such statements, together with the independent auditor’s opinion of those statements, as are necessary to present fairly the Institute’s assets and liabilities, surplus or deficit, with reasonable detail, including a statement of the Institute’s income and expenses during the year, including a schedule of all contracts and grants requiring payments in excess of $5,000 and any payments of compensation, salaries, or fees at a rate in excess of $5,000 per year. The report shall be produced in sufficient copies for the public.
 - **(i)** The Institute and its directors, officers, employees, and agents shall be subject to the provisions of section 552 of title 5 (relating to freedom of information).
+
+## Source Credit
+
+*([Pub. L. 98–525, title XVII, § 1708](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2657](https://www.govinfo.gov/link/statute/98/2657); [Pub. L. 108–7, div. G, title V, § 515](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 345](https://www.govinfo.gov/link/statute/117/345).)*

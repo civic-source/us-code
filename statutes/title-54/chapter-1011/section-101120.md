@@ -3,9 +3,10 @@ title: "Section 101120 - Promotion of local fundraising support"
 usc_title: 54
 usc_section: "101120"
 chapter: 1011
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "54 U.S.C. § 101120"
-generated_at: "2026-03-30T02:56:28.414Z"
+generated_at: "2026-11-23T20:27:38.008Z"
+status: "active"
 ---
 
 # § 101120. Promotion of local fundraising support
@@ -26,3 +27,40 @@ generated_at: "2026-03-30T02:56:28.414Z"
     - **(A)** a nonprofit support organization or friends group to modify current practices or to affiliate with the National Park Foundation; or
     - **(B)** a local nonprofit support organization, established as a result of this section, to be bound through its charter or corporate bylaws to be permanently affiliated with the National Park Foundation.
   - **(2)** An affiliation with the National Park Foundation shall be established only at the discretion of the governing board of a nonprofit organization.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 101120 | 16 U.S.C. 19 o . | Pub. L. 90–209, § 11 , as added Pub. L. 105–391, title VII, § 701 , Nov. 13, 1998 , 112 Stat. 3520 . |
+
+
+Program
+
+Implementation
+
+Program
+
+Annual Report
+
+Affiliations.—
+
+Charter or corporate bylaws
+
+Establishment
+
+Historical and Revision Notes
+
+101120
+
+16 U.S.C. 19
+
+Pub. L. 90–209, § 11
+
+Pub. L. 105–391, title VII, § 701
+
+Nov. 13, 1998
+
+112 Stat. 3520
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3122](https://www.govinfo.gov/link/statute/128/3122).)*

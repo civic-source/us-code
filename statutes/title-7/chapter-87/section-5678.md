@@ -3,9 +3,10 @@ title: "Section 5678 - Edward R. Madigan United States Agricultural Export Excel
 usc_title: 7
 usc_section: "5678"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 5678"
-generated_at: "2026-03-30T02:53:42.418Z"
+generated_at: "2026-11-23T20:25:41.656Z"
+status: "active"
 ---
 
 # § 5678. Edward R. Madigan United States Agricultural Export Excellence Award
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:53:42.418Z"
   - **(3)** The board shall report its recommendations concerning the making of the award to the Secretary.
   - **(4)** Each member of the board may serve a term of not to exceed 3 years.
 - **(i)** The Secretary may seek and accept gifts from public and private sources to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 104–127, title II, § 261](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 972](https://www.govinfo.gov/link/statute/110/972).)*

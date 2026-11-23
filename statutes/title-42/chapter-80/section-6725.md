@@ -3,9 +3,10 @@ title: "Section 6725 - Statement of assurances as prerequisite for payments; rul
 usc_title: 42
 usc_section: "6725"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6725"
-generated_at: "2026-03-30T02:56:11.265Z"
+generated_at: "2026-11-23T20:27:22.700Z"
+status: "active"
 ---
 
 # § 6725. Statement of assurances as prerequisite for payments; rules governing time and manner of filing; contents of statement
@@ -22,3 +23,7 @@ Each State and unit of local government may receive payments under this subchapt
   - **(6)** an assurance that the requirements of section 6729 of this title will be complied with;
   - **(7)** an assurance that the State or unit of local government will spend any payment it receives under this subchapter before the end of the six-calendar-month period which begins on the day after the date on which such State or local government receives such payment; and
   - **(8)** an assurance that the State or unit of local government will spend amounts received under this subchapter only in accordance with the laws and procedures applicable to the expenditure of its own revenues.
+
+## Source Credit
+
+*([Pub. L. 94–369, title II, § 205](https://www.govinfo.gov/link/plaw/94/public/369), July 22, 1976, [90 Stat. 1006](https://www.govinfo.gov/link/statute/90/1006).)*

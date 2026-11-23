@@ -3,9 +3,10 @@ title: "Section 6306 - Administrative procedure and judicial review"
 usc_title: 42
 usc_section: "6306"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6306"
-generated_at: "2026-03-30T02:56:11.253Z"
+generated_at: "2026-11-23T20:27:22.636Z"
+status: "active"
 ---
 
 # § 6306. Administrative procedure and judicial review
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.253Z"
 - **(c)** Jurisdiction is vested in the Federal district courts of the United States over actions brought by—
   - **(1)** any adversely affected person to determine whether a State or local government is complying with the requirements of this part; and
   - **(2)** any person who files a petition under section 6295(n) of this title which is denied by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 336](https://www.govinfo.gov/link/plaw/94/public/163), Dec. 22, 1975, [89 Stat. 930](https://www.govinfo.gov/link/statute/89/930); [Pub. L. 95–619, title IV](https://www.govinfo.gov/link/plaw/95/public/619), §§ 425(g), 427, title VI, § 691(b)(2), Nov. 9, 1978, [92 Stat. 3266](https://www.govinfo.gov/link/statute/92/3266), 3267, 3288; [Pub. L. 100–12, § 9](https://www.govinfo.gov/link/plaw/100/public/12), Mar. 17, 1987, [101 Stat. 123](https://www.govinfo.gov/link/statute/101/123); [Pub. L. 105–388, § 5(a)(6)](https://www.govinfo.gov/link/plaw/105/public/388), Nov. 13, 1998, [112 Stat. 3478](https://www.govinfo.gov/link/statute/112/3478).)*

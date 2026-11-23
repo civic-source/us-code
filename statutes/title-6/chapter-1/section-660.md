@@ -3,9 +3,10 @@ title: "Section 660 - Cybersecurity plans"
 usc_title: 6
 usc_section: "660"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 660"
-generated_at: "2026-03-30T02:53:09.477Z"
+generated_at: "2026-11-23T20:25:34.825Z"
+status: "active"
 ---
 
 # § 660. Cybersecurity plans
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:53:09.477Z"
     - **(C)** the information related to the interest and ability of state and non-state threat actors to compromise information systems owned or operated by State, local, Tribal, and territorial governments; and
     - **(D)** emerging cybersecurity risks and cybersecurity threats to State, local, Tribal, and territorial governments resulting from the deployment of new technologies.
   - **(4)** Chapter 35 of title 44 (commonly known as the “Paperwork Reduction Act”) shall not apply to any action to implement this subsection.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XXII, § 2210](https://www.govinfo.gov/link/plaw/107/public/296), formerly title II, § 228, as added and amended [Pub. L. 114–113, div. N, title II](https://www.govinfo.gov/link/plaw/114/public/113), §§ 205, 223(a)(2), (4), (5), Dec. 18, 2015, [129 Stat. 2961](https://www.govinfo.gov/link/statute/129/2961), 2963, 2964; renumbered title XXII, § 2210, and amended [Pub. L. 115–278, § 2(g)(2)(I)](https://www.govinfo.gov/link/plaw/115/public/278), (9)(A)(iv), Nov. 16, 2018, [132 Stat. 4178](https://www.govinfo.gov/link/statute/132/4178), 4181; [Pub. L. 117–81, div. A, title XV](https://www.govinfo.gov/link/plaw/117/public/81), §§ 1545, 1546, Dec. 27, 2021, [135 Stat. 2057](https://www.govinfo.gov/link/statute/135/2057), 2059; [Pub. L. 117–263, div. G, title LXXI, § 7143(b)(2)(E)](https://www.govinfo.gov/link/plaw/117/public/263), (c)(8), Dec. 23, 2022, [136 Stat. 3660](https://www.govinfo.gov/link/statute/136/3660), 3663.)*

@@ -3,12 +3,17 @@ title: "Section 2716a - Financial responsibility civil penalties"
 usc_title: 33
 usc_section: "2716a"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2716a"
-generated_at: "2026-03-30T02:55:41.132Z"
+generated_at: "2026-11-23T20:26:54.219Z"
+status: "active"
 ---
 
 # § 2716a. Financial responsibility civil penalties
 
 - **(a)** Any person who, after notice and an opportunity for a hearing, is found to have failed to comply with the requirements of section 2716 of this title or the regulations issued under that section, or with a denial or detention order issued under subsection (b)(2) of that section, shall be liable to the United States for a civil penalty, not to exceed $25,000 per day of violation. The amount of the civil penalty shall be assessed by the President by written notice. In determining the amount of the penalty, the President shall take into account the nature, circumstances, extent, and gravity of the violation, the degree of culpability, any history of prior violation, ability to pay, and such other matters as justice may require. The President may compromise, modify, or remit, with or without conditions, any civil penalty which is subject to imposition or which had been imposed under this paragraph. If any person fails to pay an assessed civil penalty after it has become final, the President may refer the matter to the Attorney General for collection.
 - **(b)** In addition to, or in lieu of, assessing a penalty under subsection (a), the President may request the Attorney General to secure such relief as necessary to compel compliance with section 2716 of this title , including a judicial order terminating operations. The district courts of the United States shall have jurisdiction to grant any relief as the public interest and the equities of the case may require.
+
+## Source Credit
+
+*([Pub. L. 101–380, title IV, § 4303](https://www.govinfo.gov/link/plaw/101/public/380), Aug. 18, 1990, [104 Stat. 539](https://www.govinfo.gov/link/statute/104/539); [Pub. L. 115–232, div. C, title XXXV, § 3547(d)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2328](https://www.govinfo.gov/link/statute/132/2328).)*

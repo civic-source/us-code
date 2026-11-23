@@ -3,9 +3,10 @@ title: "Section 2017 - Value of allotment"
 usc_title: 7
 usc_section: "2017"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2017"
-generated_at: "2026-03-30T02:53:42.367Z"
+generated_at: "2026-11-23T20:25:41.439Z"
+status: "active"
 ---
 
 # § 2017. Value of allotment
@@ -62,3 +63,17 @@ generated_at: "2026-03-30T02:53:42.367Z"
       - **(ii)** The finding referred to in clause (i) is that—
         - **(I)** an insufficient number of project plans that the Secretary determines to be eligible for approval are submitted by State agencies under paragraph (2)(B); or
         - **(II)**
+
+Optional combined allotment for expedited households
+
+(aa) is eligible for continued benefits under the supplemental nutrition assistance program; and
+
+(bb) should contact the State agency concerning continuation of the benefits.
+
+(aa) a sufficient number of pilot projects have been carried out under paragraph (2)(A); and
+
+(bb) authorization of implementation of paragraph (1) in all States is not in the best interest of the supplemental nutrition assistance program.
+
+## Source Credit
+
+*([Pub. L. 88–525, § 8](https://www.govinfo.gov/link/plaw/88/public/525), Aug. 31, 1964, [78 Stat. 705](https://www.govinfo.gov/link/statute/78/705); [Pub. L. 95–113, title XIII, § 1301](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 968](https://www.govinfo.gov/link/statute/91/968); [Pub. L. 97–35, title I](https://www.govinfo.gov/link/plaw/97/public/35), §§ 104(b), 110, Aug. 13, 1981, [95 Stat. 359](https://www.govinfo.gov/link/statute/95/359), 361; [Pub. L. 97–253, title I](https://www.govinfo.gov/link/plaw/97/public/253), §§ 143(c), 152(b), 163, 164, Sept. 8, 1982, [96 Stat. 773](https://www.govinfo.gov/link/statute/96/773), 776, 778; [Pub. L. 99–198, title XV, § 1520](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1578](https://www.govinfo.gov/link/statute/99/1578); [Pub. L. 100–387, title V, § 502(a)](https://www.govinfo.gov/link/plaw/100/public/387), Aug. 11, 1988, [102 Stat. 960](https://www.govinfo.gov/link/statute/102/960); [Pub. L. 100–435, title II, § 203(a)](https://www.govinfo.gov/link/plaw/100/public/435), Sept. 19, 1988, [102 Stat. 1656](https://www.govinfo.gov/link/statute/102/1656); [Pub. L. 101–624, title XVII](https://www.govinfo.gov/link/plaw/101/public/624), §§ 1730, 1732, Nov. 28, 1990, [104 Stat. 3790](https://www.govinfo.gov/link/statute/104/3790); [Pub. L. 102–237, title IX](https://www.govinfo.gov/link/plaw/102/public/237), §§ 909, 910, Dec. 13, 1991, [105 Stat. 1887](https://www.govinfo.gov/link/statute/105/1887); [Pub. L. 103–66, title XIII, § 13916](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 674](https://www.govinfo.gov/link/statute/107/674); [Pub. L. 103–296, title I, § 108(f)(1)](https://www.govinfo.gov/link/plaw/103/public/296), Aug. 15, 1994, [108 Stat. 1486](https://www.govinfo.gov/link/statute/108/1486); [Pub. L. 104–193, title VIII](https://www.govinfo.gov/link/plaw/104/public/193), §§ 826–830, 854(c)(1), Aug. 22, 1996, [110 Stat. 2327](https://www.govinfo.gov/link/statute/110/2327), 2342; [Pub. L. 107–171, title IV, § 4112(a)](https://www.govinfo.gov/link/plaw/107/public/171), (b)(3), May 13, 2002, [116 Stat. 310](https://www.govinfo.gov/link/statute/116/310), 313; [Pub. L. 110–234, title IV](https://www.govinfo.gov/link/plaw/110/public/234), §§ 4001(b), 4107, 4115(b)(5), May 22, 2008, [122 Stat. 1092](https://www.govinfo.gov/link/statute/122/1092), 1101, 1106; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, §§ 4001(b), 4107, 4115(b)(5), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1853, 1863, 1868; [Pub. L. 115–334, title IV, § 4022(3)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4653](https://www.govinfo.gov/link/statute/132/4653).)*

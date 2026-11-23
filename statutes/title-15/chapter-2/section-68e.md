@@ -3,9 +3,10 @@ title: "Section 68e - Condemnation and injunction proceedings"
 usc_title: 15
 usc_section: "68e"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 68e"
-generated_at: "2026-03-30T02:54:08.029Z"
+generated_at: "2026-11-23T20:26:03.421Z"
+status: "active"
 ---
 
 # § 68e. Condemnation and injunction proceedings
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:08.029Z"
 - **(b)** Whenever the Commission has reason to believe that—
   - **(1)** Any person is violating, or is about to violate, sections 68a, 68c, 68f, or 68g of this title, and that
   - **(2)** It would be to the public interest to enjoin such violation until complaint is issued by the Commission under the Federal Trade Commission Act and such complaint dismissed by the Commission or set aside by the court on review, or until order to cease and desist made thereon by the Commission has become final within the meaning of the Federal Trade Commission Act,
+
+## Source Credit
+
+*(Oct. 14, 1940, ch. 871, § 7, [54 Stat. 1131](https://www.govinfo.gov/link/statute/54/1131).)*

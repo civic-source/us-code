@@ -3,9 +3,10 @@ title: "Section 45D - New markets tax credit"
 usc_title: 26
 usc_section: "45D"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 45D"
-generated_at: "2026-03-30T02:55:27.601Z"
+generated_at: "2026-11-23T20:26:45.210Z"
+status: "active"
 ---
 
 # § 45D. New markets tax credit
@@ -106,3 +107,15 @@ generated_at: "2026-03-30T02:55:27.601Z"
   - **(4)** which impose appropriate reporting requirements,
   - **(5)** which apply the provisions of this section to newly formed entities, and
   - **(6)** which ensure that non-metropolitan counties receive a proportional allocation of qualified equity investments.
+
+Targeted areas
+
+Tracts with low population
+
+“The amount of the increase in the new markets tax credit limitation for calendar year 2008 by reason of the amendments made by subsection (a) [amending this section] shall be allocated in accordance with section 45D(f)(2) of the Internal Revenue Code of 1986 to qualified community development entities (as defined in section 45D(c) of such Code) which—
+
+“Not later than 120 days after the date of the enactment of this Act [ Dec. 21, 2000 ], the Secretary of the Treasury or the Secretary’s delegate shall issue guidance which specifies—
+
+## Source Credit
+
+*(Added [Pub. L. 106–554, § 1(a)(7) [title I, § 121(a)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–605; amended [Pub. L. 108–357, title II](https://www.govinfo.gov/link/plaw/108/public/357), §§ 221(a), (b), 223(a), Oct. 22, 2004, [118 Stat. 1431](https://www.govinfo.gov/link/statute/118/1431), 1432; [Pub. L. 109–432, div. A, title I, § 102(a)](https://www.govinfo.gov/link/plaw/109/public/432), (b), Dec. 20, 2006, [120 Stat. 2934](https://www.govinfo.gov/link/statute/120/2934); [Pub. L. 110–343, div. C, title III, § 302](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3866](https://www.govinfo.gov/link/statute/122/3866); [Pub. L. 111–5, div. B, title I, § 1403(a)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 352](https://www.govinfo.gov/link/statute/123/352); [Pub. L. 111–312, title VII, § 733(a)](https://www.govinfo.gov/link/plaw/111/public/312), (b), Dec. 17, 2010, [124 Stat. 3317](https://www.govinfo.gov/link/statute/124/3317), 3318; [Pub. L. 112–240, title III, § 305(a)](https://www.govinfo.gov/link/plaw/112/public/240), (b), Jan. 2, 2013, [126 Stat. 2329](https://www.govinfo.gov/link/statute/126/2329); [Pub. L. 113–295, div. A, title I, § 115(a)](https://www.govinfo.gov/link/plaw/113/public/295), (b), Dec. 19, 2014, [128 Stat. 4014](https://www.govinfo.gov/link/statute/128/4014); [Pub. L. 114–113, div. Q, title I, § 141(a)](https://www.govinfo.gov/link/plaw/114/public/113), (b), Dec. 18, 2015, [129 Stat. 3056](https://www.govinfo.gov/link/statute/129/3056); [Pub. L. 115–141, div. U, title IV, § 401(a)(18)](https://www.govinfo.gov/link/plaw/115/public/141), (d)(4)(B)(iii), Mar. 23, 2018, [132 Stat. 1185](https://www.govinfo.gov/link/statute/132/1185), 1209; [Pub. L. 116–94, div. Q, title I, § 141(a)](https://www.govinfo.gov/link/plaw/116/public/94), (b), Dec. 20, 2019, [133 Stat. 3234](https://www.govinfo.gov/link/statute/133/3234); [Pub. L. 116–260, div. EE, title I, § 112(a)](https://www.govinfo.gov/link/plaw/116/public/260), (b), Dec. 27, 2020, [134 Stat. 3050](https://www.govinfo.gov/link/statute/134/3050); [Pub. L. 119–21, title VII, § 70423(a)](https://www.govinfo.gov/link/plaw/119/public/21), (b), July 4, 2025, [139 Stat. 235](https://www.govinfo.gov/link/statute/139/235).)*

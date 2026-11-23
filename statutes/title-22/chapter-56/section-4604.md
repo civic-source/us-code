@@ -3,9 +3,10 @@ title: "Section 4604 - Powers and duties"
 usc_title: 22
 usc_section: "4604"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4604"
-generated_at: "2026-03-30T02:55:05.412Z"
+generated_at: "2026-11-23T20:26:32.540Z"
+status: "active"
 ---
 
 # § 4604. Powers and duties
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:55:05.412Z"
 - **(m)** The Institute may do any and all lawful acts and things necessary or desirable to carry out the objectives and purposes of this chapter.
 - **(n)** The Institute shall not itself undertake to influence the passage or defeat of any legislation by the Congress of the United States or by any State or local legislative bodies, or by the United Nations, except that personnel of the Institute may testify or make other appropriate communication when formally requested to do so by a legislative body, a committee, or a member thereof.
 - **(o)** The Institute may obtain administrative support services from the Administrator of General Services and use all sources of supply and services of the General Services Administration on a reimbursable basis.
+
+## Source Credit
+
+*([Pub. L. 98–525, title XVII, § 1705](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2651](https://www.govinfo.gov/link/statute/98/2651); [Pub. L. 100–50, § 25](https://www.govinfo.gov/link/plaw/100/public/50), June 3, 1987, [101 Stat. 363](https://www.govinfo.gov/link/statute/101/363); [Pub. L. 100–418, title VI, § 6272](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1523](https://www.govinfo.gov/link/statute/102/1523); [Pub. L. 101–520, title III, § 319(a)](https://www.govinfo.gov/link/plaw/101/public/520), Nov. 5, 1990, [104 Stat. 2284](https://www.govinfo.gov/link/statute/104/2284); [Pub. L. 102–325, title XV, § 1554(b)](https://www.govinfo.gov/link/plaw/102/public/325), (c), July 23, 1992, [106 Stat. 839](https://www.govinfo.gov/link/statute/106/839); [Pub. L. 105–244, title IX, § 931(1)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1834](https://www.govinfo.gov/link/statute/112/1834); [Pub. L. 110–315, title IX, § 921(a)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3456](https://www.govinfo.gov/link/statute/122/3456).)*

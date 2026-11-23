@@ -3,9 +3,10 @@ title: "Section 1359bb - Flexible marketing allotments for sugar"
 usc_title: 7
 usc_section: "1359bb"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1359bb"
-generated_at: "2026-03-30T02:53:42.307Z"
+generated_at: "2026-11-23T20:25:41.134Z"
+status: "active"
 ---
 
 # § 1359bb. Flexible marketing allotments for sugar
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:53:42.307Z"
     - **(A)** to enable another processor to fulfill an allocation established for that other processor; or
     - **(B)** to facilitate the exportation of the sugar.
   - **(2)** Any processor who knowingly violates paragraph (1) shall be liable to the Commodity Credit Corporation for a civil penalty in an amount equal to 3 times the United States market value, at the time of the commission of the violation, of that quantity of sugar involved in the violation.
+
+## Source Credit
+
+*(Feb. 16, 1938, ch. 30, title III, § 359b, as added [Pub. L. 107–171, title I, § 1403](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 188](https://www.govinfo.gov/link/statute/116/188); amended [Pub. L. 110–234, title I, § 1403(b)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 982](https://www.govinfo.gov/link/statute/122/982); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1403(b), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1710; [Pub. L. 113–79, title I, § 1301(b)(1)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 688](https://www.govinfo.gov/link/statute/128/688); [Pub. L. 115–334, title I, § 1301(b)(1)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4511](https://www.govinfo.gov/link/statute/132/4511); [Pub. L. 119–21, title I, § 10312(c)(1)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 97](https://www.govinfo.gov/link/statute/139/97).)*

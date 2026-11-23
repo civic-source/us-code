@@ -3,9 +3,10 @@ title: "Section 7102 - Applicability of chapter"
 usc_title: 41
 usc_section: "7102"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 7102"
-generated_at: "2026-03-30T02:55:55.811Z"
+generated_at: "2026-11-23T20:27:04.475Z"
+status: "active"
 ---
 
 # § 7102. Applicability of chapter
@@ -20,3 +21,37 @@ generated_at: "2026-03-30T02:55:55.811Z"
   - **(2)** Notwithstanding any other provision of this chapter, this chapter does not apply to a contract of the Tennessee Valley Authority for the sale of fertilizer or electric power or related to the conduct or operation of the electric power system.
 - **(c)** If an agency head determines that applying this chapter would not be in the public interest, this chapter does not apply to a contract with a foreign government, an agency of a foreign government, an international organization, or a subsidiary body of an international organization.
 - **(d)** Appeals under section 7107(a) of this title and actions brought under sections 7104(b) and 7107(b) to (f) of this title, arising out of maritime contracts, are governed by chapter 309 or 311 of title 46, as applicable, to the extent that those chapters are not inconsistent with this chapter.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 7102(a)–(c) | 41:602. | Pub. L. 95–563 , §§ 3, 4, Nov. 1, 1978 , 92 Stat. 2383 . |
+| 7102(d) | 41:603. |  |
+
+
+Executive Agency Contracts
+
+Tennessee Valley Authority Contracts.—
+
+In general
+
+Exclusion
+
+Foreign Government or International Organization Contracts
+
+Maritime Contracts
+
+Historical and Revision Notes
+
+7102(a)–(c)
+
+Pub. L. 95–563
+
+Nov. 1, 1978
+
+92 Stat. 2383
+
+7102(d)
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3817](https://www.govinfo.gov/link/statute/124/3817).)*

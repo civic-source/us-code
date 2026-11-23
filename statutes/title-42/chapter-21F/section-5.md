@@ -3,9 +3,10 @@ title: "Section 5 - Confidentiality of genetic information"
 usc_title: 42
 usc_section: "5"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-03-30T02:56:11.144Z"
+generated_at: "2026-11-23T20:27:22.036Z"
+status: "active"
 ---
 
 # § 2000ff–5. Confidentiality of genetic information
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.144Z"
   - **(5)** to the extent that such disclosure is made in connection with the employee’s compliance with the certification provisions of section 2613 of title 29 or such requirements under State family and medical leave laws; or
   - **(6)** to a Federal, State, or local public health agency only with regard to information that is described in section 2000ff(4)(A)(iii) of this title and that concerns a contagious disease that presents an imminent hazard of death or life-threatening illness, and that the employee whose family member or family members is or are the subject of a disclosure under this paragraph is notified of such disclosure.
 - **(c)** With respect to the regulations promulgated by the Secretary of Health and Human Services under part C of title XI of the Social Security Act ( 42 U.S.C. 1320d et seq.) and section 264 of the Health Insurance Portability and Accountability Act of 1996 ( 42 U.S.C. 1320d–2 note), this chapter does not prohibit a covered entity under such regulations from any use or disclosure of health information that is authorized for the covered entity under such regulations. The previous sentence does not affect the authority of such Secretary to modify such regulations.
+
+## Source Credit
+
+*([Pub. L. 110–233, title II, § 206](https://www.govinfo.gov/link/plaw/110/public/233), May 21, 2008, [122 Stat. 913](https://www.govinfo.gov/link/statute/122/913).)*

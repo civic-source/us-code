@@ -3,9 +3,10 @@ title: "Section 10406 - Payment requirements"
 usc_title: 34
 usc_section: "10406"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10406"
-generated_at: "2026-03-30T02:55:33.267Z"
+generated_at: "2026-11-23T20:26:50.466Z"
+status: "active"
 ---
 
 # § 10406. Payment requirements
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:33.267Z"
 - **(e)**
   - **(1)** The Federal share of a grant received under this subchapter may not exceed 90 percent of the total program costs.
   - **(2)** Notwithstanding paragraph (1), with respect to the cost of constructing juvenile detention or correctional facilities, the Federal share of a grant received under this subchapter may not exceed 50 percent of approved cost.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 1805](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 107–273, div. C, title II, § 12102(a)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1865](https://www.govinfo.gov/link/statute/116/1865).)*

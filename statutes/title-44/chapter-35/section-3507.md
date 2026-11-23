@@ -3,9 +3,10 @@ title: "Section 3507 - Public information collection activities; submission to D
 usc_title: 44
 usc_section: "3507"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "44 U.S.C. § 3507"
-generated_at: "2026-03-30T02:55:56.296Z"
+generated_at: "2026-11-23T20:27:03.829Z"
+status: "active"
 ---
 
 # § 3507. Public information collection activities; submission to Director; approval and delegation
@@ -84,3 +85,7 @@ generated_at: "2026-03-30T02:55:56.296Z"
       - **(ii)** an unanticipated event has occurred; or
       - **(iii)** the use of normal clearance procedures is reasonably likely to prevent or disrupt the collection of information or is reasonably likely to cause a statutory or court ordered deadline to be missed.
   - **(2)** The Director shall approve or disapprove any such authorization request within the time requested by the agency head and, if approved, shall assign the collection of information a control number. Any collection of information conducted under this subsection may be conducted without compliance with the provisions of this subchapter for a maximum of 180 days after the date on which the Director received the request to authorize such collection.
+
+## Source Credit
+
+*(Added [Pub. L. 104–13, § 2](https://www.govinfo.gov/link/plaw/104/public/13), May 22, 1995, [109 Stat. 176](https://www.govinfo.gov/link/statute/109/176); amended [Pub. L. 104–106, div. E, title LVI, § 5605(d)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 700](https://www.govinfo.gov/link/statute/110/700); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title X, § 1064(b)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–275.)*

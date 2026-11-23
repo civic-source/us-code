@@ -3,9 +3,10 @@ title: "Section 20501 - National coordination of AMBER Alert communications netw
 usc_title: 34
 usc_section: "20501"
 chapter: 205
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 20501"
-generated_at: "2026-03-30T02:55:33.298Z"
+generated_at: "2026-11-23T20:26:50.596Z"
+status: "active"
 ---
 
 # § 20501. National coordination of AMBER Alert communications network
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:33.298Z"
 - **(c)** In carrying out duties under subsection (b), the Coordinator shall notify and consult with the Director of the Federal Bureau of Investigation concerning each child abduction for which an alert is issued through the AMBER Alert communications network.
 - **(d)** The Coordinator shall cooperate with the Secretary of Transportation, the Secretary of Homeland Security, and the Federal Communications Commission in carrying out activities under this section.
 - **(e)** Not later than March 1, 2005 , the Coordinator shall submit to Congress a report on the activities of the Coordinator and the effectiveness and status of the AMBER plans of each State that has implemented such a plan. The Coordinator shall prepare the report in consultation with the Secretary of Transportation.
+
+## Source Credit
+
+*([Pub. L. 108–21, title III, § 301](https://www.govinfo.gov/link/plaw/108/public/21), Apr. 30, 2003, [117 Stat. 660](https://www.govinfo.gov/link/statute/117/660); [Pub. L. 116–283, div. H, title C, § 10001(a)(1)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4860](https://www.govinfo.gov/link/statute/134/4860).)*

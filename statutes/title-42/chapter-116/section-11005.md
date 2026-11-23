@@ -3,9 +3,10 @@ title: "Section 11005 - Emergency training and review of emergency systems"
 usc_title: 42
 usc_section: "11005"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11005"
-generated_at: "2026-03-30T02:56:11.393Z"
+generated_at: "2026-11-23T20:27:23.266Z"
+status: "active"
 ---
 
 # § 11005. Emergency training and review of emergency systems
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.393Z"
   - **(3)** The report required by this subsection shall also include the Administrator’s recommendations for—
     - **(A)** initiatives to support the development of new or improved technologies or systems that would facilitate the timely monitoring, detection, and prevention of releases of extremely hazardous substances, and
     - **(B)** improving devices or systems for effectively alerting the public in a timely manner, in the event of an accidental release of such extremely hazardous substances.
+
+## Source Credit
+
+*([Pub. L. 99–499, title III, § 305](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1735](https://www.govinfo.gov/link/statute/100/1735).)*

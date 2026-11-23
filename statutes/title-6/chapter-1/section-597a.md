@@ -3,9 +3,10 @@ title: "Section 597a - Medical countermeasures"
 usc_title: 6
 usc_section: "597a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 597a"
-generated_at: "2026-03-30T02:53:09.471Z"
+generated_at: "2026-11-23T20:25:34.805Z"
+status: "active"
 ---
 
 # § 597a. Medical countermeasures
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:53:09.471Z"
   - **(1)** the plan developed under subsection (d); and
   - **(2)** implementation of the requirements of this section.
 - **(h)** In this section, the term “medical countermeasures” means antibiotics, antivirals, antidotes, therapeutics, radiological countermeasures, and other countermeasures that may be deployed to protect the employees and working animals of the Department in the event of a chemical, biological, radiological, nuclear, or explosives attack, naturally occurring disease outbreak, other event impacting health, or pandemic.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XIX, § 1932](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 117–81, div. F, title LXIV, § 6408(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2404](https://www.govinfo.gov/link/statute/135/2404).)*

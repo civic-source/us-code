@@ -3,9 +3,10 @@ title: "Section 80101 - Definitions"
 usc_title: 49
 usc_section: "80101"
 chapter: 801
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 80101"
-generated_at: "2026-03-30T02:56:19.418Z"
+generated_at: "2026-11-23T20:27:35.439Z"
+status: "active"
 ---
 
 # § 80101. Definitions
@@ -19,3 +20,20 @@ In this chapter—
   - **(5)** “order” means an order by indorsement on a bill of lading.
   - **(6)** “purchase” includes taking by mortgage or pledge.
   - **(7)** “State” means a State of the United States, the District of Columbia, and a territory or possession of the United States.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 80101 | 49 App.:122. | Aug. 29, 1916, ch. 415, § 42 , 39 Stat. 545 . |
+
+
+Historical and Revision Notes
+
+80101
+
+Aug. 29, 1916, ch. 415, § 42
+
+39 Stat. 545
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1346](https://www.govinfo.gov/link/statute/108/1346).)*

@@ -3,9 +3,10 @@ title: "Section 125 - Employees of hospital"
 usc_title: 20
 usc_section: "125"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 125"
-generated_at: "2026-03-30T02:54:48.084Z"
+generated_at: "2026-11-23T20:26:14.250Z"
+status: "active"
 ---
 
 # § 125. Employees of hospital
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:48.084Z"
   - **(3)** the transfer will become effective not later than the beginning of the second month which begins after construction of the new hospital facilities authorized by section 126 of this title is commenced.
 - **(b)** The Department of Health, Education, and Welfare shall make every reasonable effort to place in other comparable Federal positions all individuals who are career or career-conditional employees of Freedmen’s Hospital on September 21, 1961 and who do not transfer to Howard University.
 - **(c)** Each individual who is an employee of Freedmen’s Hospital on September 21, 1961 and who transfers to Howard University shall, so long as he is continuously in the employ of Howard University, be regarded as continuing in the employ of the United States for the purposes of subchapter III of chapter 83 of title 5, chapter 87 of title 5. For purposes of section 3121(b) of title 26 and section 410 of title 42 , service performed by such individual during the period of his employment at Howard University shall be regarded as though performed in the employ of the United States.
+
+## Source Credit
+
+*([Pub. L. 87–262, § 2](https://www.govinfo.gov/link/plaw/87/public/262), Sept. 21, 1961, [75 Stat. 542](https://www.govinfo.gov/link/statute/75/542); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095).)*

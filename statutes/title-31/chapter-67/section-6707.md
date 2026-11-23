@@ -3,9 +3,10 @@ title: "Section 6707 - State variation of local government allocations"
 usc_title: 31
 usc_section: "6707"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 6707"
-generated_at: "2026-03-30T02:55:34.074Z"
+generated_at: "2026-11-23T20:26:51.917Z"
+status: "active"
 ---
 
 # § 6707. State variation of local government allocations
@@ -14,3 +15,11 @@ generated_at: "2026-03-30T02:55:34.074Z"
   - **(1)** provide for allocating the total amount allocated under sections 6705(a) and (b); 1 and
   - **(2)** apply uniformly in the State.
 - **(b)** A variation by a State government under this section may apply only if the Secretary certifies that the variation complies with this section. The Secretary may certify a variation only if the Secretary is notified of the variation at least 30 days before the first payment period in which the variation applies.
+
+State Formula
+
+Certification
+
+## Source Credit
+
+*(Added [Pub. L. 103–322, title III, § 31001(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1872](https://www.govinfo.gov/link/statute/108/1872).)*

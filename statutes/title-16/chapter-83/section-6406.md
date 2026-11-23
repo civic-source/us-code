@@ -3,9 +3,10 @@ title: "Section 6406 - Block grants"
 usc_title: 16
 usc_section: "6406"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6406"
-generated_at: "2026-03-30T02:54:23.058Z"
+generated_at: "2026-11-23T20:26:20.793Z"
+status: "active"
 ---
 
 # § 6406. Block grants
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:23.058Z"
   - **(2)** such expenditures of non-Federal funds made in furtherance of coral reef management and restoration as the Administrator determines appropriate.
 - **(d)** Subject to the availability of appropriations, the Administrator may seek to enter into a cooperative agreement with a covered State to fund coral reef conservation and restoration activities in waters managed under the jurisdiction of such covered State that are consistent with the National Coral Reef Resilience Strategy and any applicable action plan under section 6404 of this title .
 - **(e)** The Administrator may enter into a cooperative agreement with the All Islands Committee of the Task Force to provide support for its activities.
+
+## Source Credit
+
+*([Pub. L. 106–562, title II, § 207](https://www.govinfo.gov/link/plaw/106/public/562), as added [Pub. L. 117–263, div. J, title C, § 10001(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3938](https://www.govinfo.gov/link/statute/136/3938).)*

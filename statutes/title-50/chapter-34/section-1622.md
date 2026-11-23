@@ -3,9 +3,10 @@ title: "Section 1622 - National emergencies"
 usc_title: 50
 usc_section: "1622"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 1622"
-generated_at: "2026-03-30T02:56:26.207Z"
+generated_at: "2026-11-23T20:27:30.747Z"
+status: "active"
 ---
 
 # § 1622. National emergencies
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:26.207Z"
     - **(A)** as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such they are deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in the House in the case of resolutions described by this subsection; and they supersede other rules only to the extent that they are inconsistent therewith; and
     - **(B)** with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.
 - **(d)** Any national emergency declared by the President in accordance with this subchapter, and not otherwise previously terminated, shall terminate on the anniversary of the declaration of that emergency if, within the ninety-day period prior to each anniversary date, the President does not publish in the Federal Register and transmit to the Congress a notice stating that such emergency is to continue in effect after such anniversary.
+
+## Source Credit
+
+*([Pub. L. 94–412, title II, § 202](https://www.govinfo.gov/link/plaw/94/public/412), Sept. 14, 1976, [90 Stat. 1255](https://www.govinfo.gov/link/statute/90/1255); [Pub. L. 99–93, title VIII, § 801](https://www.govinfo.gov/link/plaw/99/public/93), Aug. 16, 1985, [99 Stat. 448](https://www.govinfo.gov/link/statute/99/448).)*

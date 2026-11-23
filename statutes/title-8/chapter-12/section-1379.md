@@ -3,9 +3,10 @@ title: "Section 1379 - Technology standard to confirm identity"
 usc_title: 8
 usc_section: "1379"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1379"
-generated_at: "2026-03-30T02:53:10.500Z"
+generated_at: "2026-11-23T20:25:36.222Z"
+status: "active"
 ---
 
 # § 1379. Technology standard to confirm identity
@@ -18,3 +19,11 @@ generated_at: "2026-03-30T02:53:10.500Z"
     - **(C)** all law enforcement and intelligence officers as determined by regulation to be responsible for investigation or identification of aliens admitted to the United States pursuant to a visa.
   - **(4)** Not later than one year after October 26, 2001 , and every 2 years thereafter, the Attorney General and the Secretary of State shall jointly, in consultation with the Secretary of Treasury, report to Congress describing the development, implementation, efficacy, and privacy implications of the technology standard and electronic database system described in this section.
   - **(5)** There is authorized to be appropriated to the Secretary of State, the Attorney General, and the Director of the National Institute of Standards and Technology such sums as may be necessary to carry out the provisions of this section.
+
+In General
+
+Authorization of Appropriations
+
+## Source Credit
+
+*([Pub. L. 107–56, title IV, § 403(c)](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 344](https://www.govinfo.gov/link/statute/115/344); [Pub. L. 107–173, title II](https://www.govinfo.gov/link/plaw/107/public/173), §§ 201(c)(5), 202(a)(4)(B), May 14, 2002, [116 Stat. 548](https://www.govinfo.gov/link/statute/116/548), 549.)*

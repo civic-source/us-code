@@ -3,9 +3,10 @@ title: "Section 6977 - Grants or contracts for training projects"
 usc_title: 42
 usc_section: "6977"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6977"
-generated_at: "2026-03-30T02:56:11.277Z"
+generated_at: "2026-11-23T20:27:22.758Z"
+status: "active"
 ---
 
 # § 6977. Grants or contracts for training projects
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.277Z"
     - **(A)** to develop, expand, or carry out a program (which may combine training, education, and employment) for training persons for occupations involving the management, supervision, design, operation, or maintenance of solid waste management and resource recovery equipment and facilities; or
     - **(B)** to train instructors and supervisory personnel to train or supervise persons in occupations involving the design, operation, and maintenance of solid waste management and resource recovery equipment and facilities.
   - **(2)** A grant or contract authorized by paragraph (1) of this subsection may be made only upon application to the Administrator at such time or times and containing such information as he may prescribe, except that no such application shall be approved unless it provides for the same procedures and reports (and access to such reports and to other records) as required by section 3254a(b)(4) and (5) 1 1 See References in Text note below. of this title (as in effect before October 21, 1976 ) with respect to applications made under such section (as in effect before October 21, 1976 ).
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 7007](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 94–580, § 2](https://www.govinfo.gov/link/plaw/94/public/580), Oct. 21, 1976, [90 Stat. 2827](https://www.govinfo.gov/link/statute/90/2827); amended [Pub. L. 95–609, § 7(r)](https://www.govinfo.gov/link/plaw/95/public/609), Nov. 8, 1978, [92 Stat. 3083](https://www.govinfo.gov/link/statute/92/3083); [Pub. L. 105–362, title V, § 501(f)](https://www.govinfo.gov/link/plaw/105/public/362), Nov. 10, 1998, [112 Stat. 3284](https://www.govinfo.gov/link/statute/112/3284).)*

@@ -3,9 +3,10 @@ title: "Section 5854 - Nonproliferation and disarmament fund"
 usc_title: 22
 usc_section: "5854"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 5854"
-generated_at: "2026-03-30T02:55:05.420Z"
+generated_at: "2026-11-23T20:26:32.579Z"
+status: "active"
 ---
 
 # § 5854. Nonproliferation and disarmament fund
@@ -24,3 +25,9 @@ generated_at: "2026-03-30T02:55:05.420Z"
   - **(1)** In recognition of the direct contributions to the national security interests of the United States of the programs and activities authorized by subsection (a), the President is authorized to make available for use in carrying out those programs and activities, in addition to amounts otherwise available for such purposes, up to $100,000,000 of security assistance funds for fiscal year 1993.
   - **(2)** As used in paragraph (1), the term “security assistance funds” means funds made available for assistance under chapter 4 of part II of the Foreign Assistance Act of 1961 [ 22 U.S.C. 2346 et seq.] (relating to the Economic Support Fund) or assistance under section 2763 of this title (relating to the “Foreign Military Financing Program”).
   - **(3)** Section 531(e) of the Foreign Assistance Act of 1961 [ 22 U.S.C. 2346(e) ], and any provision that corresponds to section 510 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1991 (relating to the prohibition on financing exports of nuclear equipment, fuel, and technology), shall not apply with respect to funds used pursuant to this subsection.
+
+William J. Clinton.
+
+## Source Credit
+
+*([Pub. L. 102–511, title V, § 504](https://www.govinfo.gov/link/plaw/102/public/511), Oct. 24, 1992, [106 Stat. 3339](https://www.govinfo.gov/link/statute/106/3339).)*

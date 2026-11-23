@@ -3,9 +3,10 @@ title: "Section 1523 - Federal cybersecurity requirements"
 usc_title: 6
 usc_section: "1523"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 1523"
-generated_at: "2026-03-30T02:53:09.510Z"
+generated_at: "2026-11-23T20:25:34.969Z"
+status: "active"
 ---
 
 # § 1523. Federal cybersecurity requirements
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:09.510Z"
     - **(B)** the head of the agency or the designee of the head of the agency has submitted the certification described in subparagraph (A) to the appropriate congressional committees and the agency’s authorizing committees.
   - **(3)** Nothing in this section shall be construed to alter the authority of the Secretary, the Director, or the Director of the National Institute of Standards and Technology in implementing subchapter II of chapter 35 of title 44. Nothing in this section shall be construed to affect the National Institute of Standards and Technology standards process or the requirement under section 3553(a)(4) of such title or to discourage continued improvements and advancements in the technology, standards, policies, and guidelines used to promote Federal information security.
 - **(c)** The requirements under this section shall not apply to the Department of Defense, a national security system, or an element of the intelligence community.
+
+## Source Credit
+
+*([Pub. L. 114–113, div. N, title II, § 225](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2967](https://www.govinfo.gov/link/statute/129/2967).)*

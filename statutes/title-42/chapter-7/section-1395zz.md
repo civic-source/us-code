@@ -3,9 +3,10 @@ title: "Section 1395zz - Provider education and technical assistance"
 usc_title: 42
 usc_section: "1395zz"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1395zz"
-generated_at: "2026-03-30T02:56:11.024Z"
+generated_at: "2026-11-23T20:27:21.470Z"
+status: "active"
 ---
 
 # § 1395zz. Provider education and technical assistance
@@ -29,3 +30,25 @@ generated_at: "2026-03-30T02:56:11.024Z"
 - **(g)** For purposes of this section, the term “medicare contractor” includes the following:
   - **(1)** A medicare administrative contractor with a contract under section 1395kk–1 of this title , including a fiscal intermediary with a contract under section 1395h of this title and a carrier with a contract under section 1395u of this title .
   - **(2)** An eligible entity with a contract under section 1395ddd of this title .
+
+Establishment.—
+
+In general
+
+Forms of technical assistance
+
+Small providers of services or suppliers
+
+Qualification of Contractors
+
+Description of Technical Assistance
+
+Evaluation
+
+Financial Participation by Providers
+
+Authorization of Appropriations
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1889, as added and amended [Pub. L. 108–173, title IX, § 921(a)(1)](https://www.govinfo.gov/link/plaw/108/public/173), (d)(1), (e)(1), (f)(1), Dec. 8, 2003, [117 Stat. 2388](https://www.govinfo.gov/link/statute/117/2388), 2391.)*

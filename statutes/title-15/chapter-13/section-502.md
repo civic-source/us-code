@@ -3,9 +3,10 @@ title: "Section 502 - Board of directors of Textile Foundation"
 usc_title: 15
 usc_section: "502"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 502"
-generated_at: "2026-03-30T02:54:08.084Z"
+generated_at: "2026-11-23T20:26:03.711Z"
+status: "active"
 ---
 
 # § 502. Board of directors of Textile Foundation
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:08.084Z"
 - **(d)** Any officer or employee of the United States, or of any corporation acting as a governmental agent of the United States, may, in addition to his present office, hold the office of director of the Textile Foundation without regard to any provision of law prohibiting the holding of more than one office.
 - **(e)** The board at its first meeting and at each annual meeting thereafter shall elect a chairman.
 - **(f)** The board shall direct the exercise of all the powers of the corporation.
+
+## Source Credit
+
+*(June 10, 1930, ch. 440, § 2, [46 Stat. 539](https://www.govinfo.gov/link/statute/46/539).)*

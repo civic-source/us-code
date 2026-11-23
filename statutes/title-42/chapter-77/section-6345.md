@@ -3,9 +3,10 @@ title: "Section 6345 - CHP Technical Assistance Partnership Program"
 usc_title: 42
 usc_section: "6345"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6345"
-generated_at: "2026-03-30T02:56:11.257Z"
+generated_at: "2026-11-23T20:27:22.663Z"
+status: "active"
 ---
 
 # § 6345. CHP Technical Assistance Partnership Program
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:56:11.257Z"
       - **(vii)** to assist companies, communities (including rural communities), and organizations with field validation and performance evaluations of CHP and other clean energy technologies implemented.
     - **(C)** The Program shall make funds available under subparagraph (A) for a period of 5 years.
 - **(c)** There are authorized to be appropriated to carry out this section $12,000,000 for each of fiscal years 2021 through 2025.
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 375](https://www.govinfo.gov/link/plaw/94/public/163), as added [Pub. L. 110–140, title IV, § 451(a)](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1632](https://www.govinfo.gov/link/statute/121/1632); amended [Pub. L. 116–260, div. Z, title I, § 1013(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2449](https://www.govinfo.gov/link/statute/134/2449).)*

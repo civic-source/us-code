@@ -3,9 +3,10 @@ title: "Section 7731 - Establishment"
 usc_title: 38
 usc_section: "7731"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7731"
-generated_at: "2026-03-30T02:55:53.535Z"
+generated_at: "2026-11-23T20:27:02.052Z"
+status: "active"
 ---
 
 # § 7731. Establishment
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:55:53.535Z"
       - **(ii)** The State in which the claimant currently resides.
       - **(iii)** Such other data as the Secretary determines is appropriate for monitoring the accuracy and consistency of decisions with respect to such claims.
   - **(5)** Nothing in this subsection shall be construed to require the Secretary to replace the quality assurance program under subsection (a) that was in effect on the day before the date of the enactment of this subsection.
+
+## Source Credit
+
+*(Added [Pub. L. 106–117, § 801(a)(1)](https://www.govinfo.gov/link/plaw/106/public/117), Nov. 30, 1999, [113 Stat. 1585](https://www.govinfo.gov/link/statute/113/1585); amended [Pub. L. 110–389, title II, § 224(a)](https://www.govinfo.gov/link/plaw/110/public/389), Oct. 10, 2008, [122 Stat. 4157](https://www.govinfo.gov/link/statute/122/4157).)*

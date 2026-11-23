@@ -3,9 +3,10 @@ title: "Section 747 - Subordination of certain customer claims"
 usc_title: 11
 usc_section: "747"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 747"
-generated_at: "2026-03-30T02:53:53.882Z"
+generated_at: "2026-11-23T20:25:55.387Z"
+status: "active"
 ---
 
 # § 747. Subordination of certain customer claims
@@ -18,3 +19,7 @@ Except as provided in section 510 of this title , unless all other customer net 
     - **(B)** interests of limited partners in a limited partnership;
   - **(3)** a limited partner with a participation of at least five percent in the net assets or net profits of the debtor; or
   - **(4)** an entity that, directly or indirectly, through agreement or otherwise, exercised or had the power to exercise control over the management or policies of the debtor.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2613](https://www.govinfo.gov/link/statute/92/2613); [Pub. L. 97–222, § 13](https://www.govinfo.gov/link/plaw/97/public/222), July 27, 1982, [96 Stat. 238](https://www.govinfo.gov/link/statute/96/238).)*

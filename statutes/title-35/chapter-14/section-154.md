@@ -3,9 +3,10 @@ title: "Section 154 - Contents and term of patent; provisional rights"
 usc_title: 35
 usc_section: "154"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "35 U.S.C. § 154"
-generated_at: "2026-03-30T02:55:34.237Z"
+generated_at: "2026-11-23T20:26:49.125Z"
+status: "active"
 ---
 
 # § 154. Contents and term of patent; provisional rights
@@ -66,3 +67,73 @@ generated_at: "2026-03-30T02:55:34.237Z"
   - **(4)**
     - **(A)** The right under paragraph (1) to obtain a reasonable royalty based upon the publication under the treaty defined in section 351(a) of an international application designating the United States shall commence on the date of publication under the treaty of the international application, or, if the publication under the treaty of the international application is in a language other than English, on the date on which the Patent and Trademark Office receives a translation of the publication in the English language.
     - **(B)** The Director may require the applicant to provide a copy of the international application and a translation thereof.
+
+In General.—
+
+Contents
+
+Term
+
+Priority
+
+Specification and drawing
+
+Adjustment of Patent Term.—
+
+Patent term guarantees.—
+
+Guarantee of prompt patent and trademark office responses
+
+Guarantee of no more than 3-year application pendency
+
+Guarantee of adjustments for delays due to derivation proceedings, secrecy orders, and appeals
+
+Limitations.—
+
+In general
+
+Disclaimed term
+
+Reduction of period of adjustment.—
+
+Procedures for patent term adjustment determination.—
+
+Appeal of patent term adjustment determination.—
+
+Continuation.—
+
+Determination
+
+Remedies
+
+Remuneration
+
+Provisional Rights.—
+
+In general
+
+Right based on substantially identical inventions
+
+Time limitation on obtaining a reasonable royalty
+
+Requirements for international applications.—
+
+Effective date
+
+Copies
+
+In General
+
+Patent Applications.—
+
+In general
+
+Section 154
+
+(1)
+
+Earliest filing
+
+## Source Credit
+
+*(July 19, 1952, ch. 950, [66 Stat. 804](https://www.govinfo.gov/link/statute/66/804); [Pub. L. 89–83, § 5](https://www.govinfo.gov/link/plaw/89/public/83), July 24, 1965, [79 Stat. 261](https://www.govinfo.gov/link/statute/79/261); [Pub. L. 96–517, § 4](https://www.govinfo.gov/link/plaw/96/public/517), Dec. 12, 1980, [94 Stat. 3018](https://www.govinfo.gov/link/statute/94/3018); [Pub. L. 100–418, title IX, § 9002](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1563](https://www.govinfo.gov/link/statute/102/1563); [Pub. L. 103–465, title V, § 532(a)(1)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4983](https://www.govinfo.gov/link/statute/108/4983); [Pub. L. 104–295, § 20(e)(1)](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3529](https://www.govinfo.gov/link/statute/110/3529); [Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4402(a), 4504]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–557, 1501A–564; [Pub. L. 107–273, div. C, title III](https://www.govinfo.gov/link/plaw/107/public/273), §§ 13204, 13206(a)(8), Nov. 2, 2002, [116 Stat. 1902](https://www.govinfo.gov/link/statute/116/1902), 1904; [Pub. L. 112–29](https://www.govinfo.gov/link/plaw/112/public/29), §§ 3(j)(1), (2)(B), 9(a), 20(j), Sept. 16, 2011, [125 Stat. 290](https://www.govinfo.gov/link/statute/125/290), 316, 335; [Pub. L. 112–211, title I, § 102(6)](https://www.govinfo.gov/link/plaw/112/public/211), Dec. 18, 2012, [126 Stat. 1531](https://www.govinfo.gov/link/statute/126/1531); [Pub. L. 112–274, § 1(h)](https://www.govinfo.gov/link/plaw/112/public/274), Jan. 14, 2013, [126 Stat. 2457](https://www.govinfo.gov/link/statute/126/2457).)*

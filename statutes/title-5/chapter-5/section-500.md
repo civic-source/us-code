@@ -3,9 +3,10 @@ title: "Section 500 - Administrative practice; general provisions"
 usc_title: 5
 usc_section: "500"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 500"
-generated_at: "2026-03-30T02:52:55.985Z"
+generated_at: "2026-11-23T20:25:31.703Z"
+status: "active"
 ---
 
 # § 500. Administrative practice; general provisions
@@ -22,3 +23,40 @@ generated_at: "2026-03-30T02:52:55.985Z"
   - **(4)** prevent an agency from requiring a power of attorney as a condition to the settlement of a controversy involving the payment of money.
 - **(e)** Subsections (b)–(d) of this section do not apply to practice before the United States Patent and Trademark Office with respect to patent matters that continue to be covered by chapter 3 (sections 31–33) of title 35.
 - **(f)** When a participant in a matter before an agency is represented by an individual qualified under subsection (b) or (c) of this section, a notice or other written communication required or permitted to be given the participant in the matter shall be given to the representative in addition to any other service specifically required by statute. When a participant is represented by more than one such qualified representative, service on any one of the representatives is sufficient.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 500(a) | 5 App.: 1014. | Nov. 8, 1965 , Pub. L. 89–332, § 3 , 79 Stat. 1281 . |
+| 500(b)–(e) | 5 App.: 1012. | Nov. 8, 1965 , Pub. L. 89–332, § 1 , 79 Stat. 1281 . |
+| 500(f) | 5 App.: 1013. | Nov. 8, 1965 , Pub. L. 89–332, § 2 , 79 Stat. 1281 . |
+
+
+Historical and Revision Notes
+
+500(a)
+
+Nov. 8, 1965
+
+Pub. L. 89–332, § 3
+
+79 Stat. 1281
+
+500(b)–(e)
+
+Nov. 8, 1965
+
+Pub. L. 89–332, § 1
+
+79 Stat. 1281
+
+500(f)
+
+Nov. 8, 1965
+
+Pub. L. 89–332, § 2
+
+79 Stat. 1281
+
+## Source Credit
+
+*(Added [Pub. L. 90–83, § 1(1)(A)](https://www.govinfo.gov/link/plaw/90/public/83), Sept. 11, 1967, [81 Stat. 195](https://www.govinfo.gov/link/statute/81/195); amended [Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(2)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–583.)*

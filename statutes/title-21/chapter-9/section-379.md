@@ -3,9 +3,10 @@ title: "Section 379 - Confidential information"
 usc_title: 21
 usc_section: "379"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 379"
-generated_at: "2026-03-30T02:54:54.264Z"
+generated_at: "2026-11-23T20:26:27.710Z"
+status: "active"
 ---
 
 # § 379. Confidential information
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:54.264Z"
       - **(ii)** the written agreement executed under paragraph (2) limits the recipient’s use of the information to the recipient’s civil regulatory purposes.
     - **(B)** Information not described in subparagraph (A) may be provided as part of an investigation, or to alert the foreign government to the potential need for an investigation, if the Secretary has reasonable grounds to believe that a drug has a reasonable probability of causing serious adverse health consequences or death to humans or animals.
   - **(4)** Nothing in this subsection affects the ability of the Secretary to enter into any written agreement authorized by other provisions of law to share confidential information.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 708, as added [Pub. L. 94–295, § 8](https://www.govinfo.gov/link/plaw/94/public/295), May 28, 1976, [90 Stat. 582](https://www.govinfo.gov/link/statute/90/582); amended [Pub. L. 112–144, title VII, § 710](https://www.govinfo.gov/link/plaw/112/public/144), July 9, 2012, [126 Stat. 1070](https://www.govinfo.gov/link/statute/126/1070).)*

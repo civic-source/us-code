@@ -3,9 +3,10 @@ title: "Section 10 - Loan forgiveness for teachers"
 usc_title: 20
 usc_section: "10"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 10"
-generated_at: "2026-03-30T02:54:48.116Z"
+generated_at: "2026-11-23T20:26:14.423Z"
+status: "active"
 ---
 
 # § 1078–10. Loan forgiveness for teachers
@@ -40,3 +41,13 @@ generated_at: "2026-03-30T02:54:48.116Z"
     - **(C)** subtitle D of title I of the National and Community Service Act of 1990 ( 42 U.S.C. 12601 et seq.).
   - **(3)** An individual who is employed as a teacher in a private school and is exempt from State certification requirements (unless otherwise applicable under State law), may, in lieu of the requirement of subsection (b)(1)(B), have such employment treated as qualifying employment under this section if such individual is permitted to and does satisfy rigorous subject knowledge and skills tests by taking competency tests in the applicable grade levels and subject areas. For such purposes, the competency tests taken by such a private school teacher shall be recognized by 5 or more States for the purpose of fulfilling the highly qualified teacher requirements under section 9101 1 of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 7801 ], and the score achieved by such teacher on each test shall equal or exceed the average passing score of those 5 States.
 - **(h)** For purposes of this section, the term “year”, where applied to service as a teacher, means an academic year as defined by the Secretary.
+
+Rule
+
+Rule not applicable to increased qualified loan amounts
+
+“The Secretary shall—
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 428J](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 102–325, title IV, § 422](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 541](https://www.govinfo.gov/link/statute/106/541); amended [Pub. L. 103–82, title I, § 102(c)(2)](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 824](https://www.govinfo.gov/link/statute/107/824); [Pub. L. 103–208, § 2(c)(47)](https://www.govinfo.gov/link/plaw/103/public/208) –(51), Dec. 20, 1993, [107 Stat. 2467](https://www.govinfo.gov/link/statute/107/2467); [Pub. L. 105–244, title IV, § 424](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1698](https://www.govinfo.gov/link/statute/112/1698); [Pub. L. 108–409, § 3(a)(1)(A)](https://www.govinfo.gov/link/plaw/108/public/409), (b)(1), Oct. 30, 2004, [118 Stat. 2300](https://www.govinfo.gov/link/statute/118/2300); [Pub. L. 109–171, title VIII, § 8013(e)(1)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 167](https://www.govinfo.gov/link/statute/120/167); [Pub. L. 110–315, title IV, § 429](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3236](https://www.govinfo.gov/link/statute/122/3236); [Pub. L. 111–39, title IV, § 402(f)(6)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1944](https://www.govinfo.gov/link/statute/123/1944).)*

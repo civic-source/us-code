@@ -3,9 +3,10 @@ title: "Section 1858a - Transferred"
 usc_title: 42
 usc_section: "1858a"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1858a"
-generated_at: "2026-03-30T02:56:11.124Z"
+generated_at: "2026-11-23T20:27:21.928Z"
+status: "transferred"
 ---
 
 # §§ 1858, 1858a. Transferred

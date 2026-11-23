@@ -3,9 +3,10 @@ title: "Section 10414 - Domestic Violence Prevention Enhancement and Leadership 
 usc_title: 42
 usc_section: "10414"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10414"
-generated_at: "2026-03-30T02:56:11.389Z"
+generated_at: "2026-11-23T20:27:23.250Z"
+status: "active"
 ---
 
 # § 10414. Domestic Violence Prevention Enhancement and Leadership Through Alliances (DELTA)
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:56:11.389Z"
     - **(E)** utilize evidence-informed prevention program planning; and
     - **(F)** recognize, in applicable cases, the needs of underserved populations, racial and linguistic populations, and individuals with disabilities.
 - **(h)** Each organization entering into a cooperative agreement under this section shall submit a performance report to the Secretary at such time as shall be reasonably required by the Secretary. Such performance report shall describe activities that have been carried out with the funds made available through the agreement, contain an evaluation of the effectiveness of such activities, and provide such additional information as the Secretary may reasonably require. The Secretary shall make the evaluations received under this subsection publicly available on the Department of Health and Human Services website. The reports shall also be submitted to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate.
+
+## Source Credit
+
+*([Pub. L. 98–457, title III, § 314](https://www.govinfo.gov/link/plaw/98/public/457), as added [Pub. L. 111–320, title II, § 201](https://www.govinfo.gov/link/plaw/111/public/320), Dec. 20, 2010, [124 Stat. 3507](https://www.govinfo.gov/link/statute/124/3507).)*

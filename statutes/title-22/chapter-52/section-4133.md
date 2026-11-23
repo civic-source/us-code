@@ -3,9 +3,10 @@ title: "Section 4133 - Freedom of action"
 usc_title: 22
 usc_section: "4133"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4133"
-generated_at: "2026-03-30T02:55:05.408Z"
+generated_at: "2026-11-23T20:26:32.522Z"
+status: "active"
 ---
 
 # § 4133. Freedom of action
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:05.408Z"
   - **(2)** The Department shall maintain records pertaining to grievances under appropriate safeguards to preserve confidentiality.
   - **(3)** The Foreign Service Grievance Board may enforce compliance with the requirements of paragraphs (1) and (2).
 - **(e)** The Department will use its best endeavors to expedite security clearance procedures whenever necessary to assure a fair and prompt resolution of a grievance.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 1103](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2143](https://www.govinfo.gov/link/statute/94/2143); [Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 329]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–438.)*

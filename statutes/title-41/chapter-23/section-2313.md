@@ -3,9 +3,10 @@ title: "Section 2313 - Database for Federal agency contract and grant officers a
 usc_title: 41
 usc_section: "2313"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 2313"
-generated_at: "2026-03-30T02:55:55.804Z"
+generated_at: "2026-11-23T20:27:04.416Z"
+status: "active"
 ---
 
 # § 2313. Database for Federal agency contract and grant officers and suspension and debarment officials
@@ -56,3 +57,56 @@ generated_at: "2026-03-30T02:55:55.804Z"
   - **(1)** submit to the Administrator of General Services, in a manner determined appropriate by the Administrator of General Services, the information subject to inclusion in the database as listed in subsection (c) current as of the date of submittal of the information under this subsection; and
   - **(2)** update the information submitted under paragraph (1) on a semiannual basis.
 - **(g)** The Administrator of General Services shall prescribe regulations that may be necessary to carry out this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 2313 | 41:417b. | Pub. L. 110–417 , [div. A], title VIII, § 872, Oct. 14, 2008 , 122 Stat. 4555 . |
+
+
+In General
+
+Persons Covered
+
+Information Included
+
+Requirements Relating to Database Information.—
+
+Direct input and update
+
+Timeliness and accuracy
+
+Information on corporations
+
+Definitions
+
+Beneficial ownership
+
+Corporation
+
+Use of Database.—
+
+Availability to government officials
+
+Review and assessment of data.—
+
+In general
+
+Documentation in contract file
+
+Disclosure in Applications
+
+Rulemaking
+
+Historical and Revision Notes
+
+2313
+
+Pub. L. 110–417
+
+Oct. 14, 2008
+
+122 Stat. 4555
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3740](https://www.govinfo.gov/link/statute/124/3740); [Pub. L. 111–212, title III, § 3010](https://www.govinfo.gov/link/plaw/111/public/212), July 29, 2010, [124 Stat. 2340](https://www.govinfo.gov/link/statute/124/2340); [Pub. L. 111–383, div. A, title VIII, § 834(d)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4279](https://www.govinfo.gov/link/statute/124/4279); [Pub. L. 112–239, div. A, title VIII, § 852](https://www.govinfo.gov/link/plaw/112/public/239), title XVII, § 1704(d)(2), Jan. 2, 2013, [126 Stat. 1856](https://www.govinfo.gov/link/statute/126/1856), 2096; [Pub. L. 113–291, div. A, title XII, § 1270](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3587](https://www.govinfo.gov/link/statute/128/3587); [Pub. L. 116–283, div. A, title VIII, § 885](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3791](https://www.govinfo.gov/link/statute/134/3791).)*

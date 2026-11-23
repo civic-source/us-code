@@ -3,9 +3,10 @@ title: "Section 8951 - Definitions"
 usc_title: 15
 usc_section: "8951"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 8951"
-generated_at: "2026-03-30T02:54:08.235Z"
+generated_at: "2026-11-23T20:26:04.511Z"
+status: "active"
 ---
 
 # § 8951. Definitions
@@ -30,3 +31,7 @@ In this subchapter:
       - **(i)** the analysis cannot be otherwise 1 1 So in original. obtained in a practicable manner otherwise; 1 and
       - **(ii)** the capability and capacity to perform the analysis is available at a Federal facility.
   - **(5)** The term “Working Group” means the Working Group established under section 8952(b)(1) of this title .
+
+## Source Credit
+
+*([Pub. L. 116–92, div. F, title LXXIII, § 7341](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2283](https://www.govinfo.gov/link/statute/133/2283).)*

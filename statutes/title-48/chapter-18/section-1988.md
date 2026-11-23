@@ -3,9 +3,10 @@ title: "Section 1988 - United States policy regarding the Freely Associated Stat
 usc_title: 48
 usc_section: "1988"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1988"
-generated_at: "2026-03-30T02:56:14.601Z"
+generated_at: "2026-11-23T20:27:28.191Z"
+status: "active"
 ---
 
 # § 1988. United States policy regarding the Freely Associated States
@@ -86,3 +87,17 @@ generated_at: "2026-03-30T02:56:14.601Z"
   - **(4)** ex gratia contributions for the populations of Bikini, Enewetak, Rongelap, and Utrik; and
   - **(5)** technical assistance and training in financial management, program administration, and maintenance of infrastructure.
 - **(l)**
+
+(aa) licensure, certification, registration, and tort issues relating to health care personnel;
+
+(bb) the scope of health services the Secretary may furnish, as well as the means for furnishing such services; and
+
+(cc) matters relating to delivery of pharmaceutical products and medical surgical products, including delivery of such products through the Consolidated Mail Outpatient Pharmacy of the Department of Veterans Affairs, to the Freely Associated States;
+
+(aa) the Committee on Energy and Natural Resources, the Committee on Foreign Relations, and the Committee on Veterans’ Affairs of the Senate; and
+
+(bb) the Committee on Natural Resources, the Committee on Foreign Affairs, and the Committee on Veterans’ Affairs of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 118–42, div. G, title II, § 209](https://www.govinfo.gov/link/plaw/118/public/42), Mar. 9, 2024, [138 Stat. 438](https://www.govinfo.gov/link/statute/138/438).)*

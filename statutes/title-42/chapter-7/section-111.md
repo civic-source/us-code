@@ -3,9 +3,10 @@ title: "Section 111 - PDP regions; submission of bids; plan approval"
 usc_title: 42
 usc_section: "111"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 111"
-generated_at: "2026-03-30T02:56:10.984Z"
+generated_at: "2026-11-23T20:27:21.294Z"
+status: "active"
 ---
 
 # § 1395w–111. PDP regions; submission of bids; plan approval
@@ -112,3 +113,11 @@ generated_at: "2026-03-30T02:56:10.984Z"
   - **(2)** may not require a particular formulary, except as provided under section 1395w–104(b)(3)( l ) 4 4 So in original. Probably should be “(b)(3)(I)”. of this title; and
   - **(3)** may not institute a price structure for the reimbursement of covered part D drugs, except as provided under part E of subchapter XI.
 - **(j)** A PDP sponsor offering a prescription drug plan shall permit State Pharmaceutical Assistance Programs and Rx plans under sections 1395w–133 and 1395w–134 of this title to coordinate benefits with the plan and, in connection with such coordination with such a Program, not to impose fees that are unrelated to the cost of coordination.
+
+In general
+
+Report and recommendations
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1860D–11, as added [Pub. L. 108–173, title I, § 101(a)(2)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2092](https://www.govinfo.gov/link/statute/117/2092); amended [Pub. L. 111–148, title III, § 3209(b)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 460](https://www.govinfo.gov/link/statute/124/460); [Pub. L. 117–169, title I](https://www.govinfo.gov/link/plaw/117/public/169), §§ 11001(b)(1)(C), 11201(d)(3)(B), Aug. 16, 2022, [136 Stat. 1852](https://www.govinfo.gov/link/statute/136/1852), 1890.)*

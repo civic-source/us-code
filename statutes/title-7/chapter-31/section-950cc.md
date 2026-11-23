@@ -3,9 +3,10 @@ title: "Section 950cc - Public notice, assessments, and reporting requirements"
 usc_title: 7
 usc_section: "950cc"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 950cc"
-generated_at: "2026-03-30T02:53:42.299Z"
+generated_at: "2026-11-23T20:25:41.098Z"
+status: "active"
 ---
 
 # § 950cc. Public notice, assessments, and reporting requirements
@@ -70,3 +71,7 @@ generated_at: "2026-03-30T02:53:42.299Z"
   - **(1)** conducting oversight under such subchapter;
   - **(2)** implementing accountability measures and related activities authorized under such subchapter; and
   - **(3)** carrying out this section.
+
+## Source Credit
+
+*(May 20, 1936, ch. 432, title VII, § 701, as added [Pub. L. 115–334, title VI, § 6207](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4740](https://www.govinfo.gov/link/statute/132/4740).)*

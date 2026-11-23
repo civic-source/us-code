@@ -3,9 +3,10 @@ title: "Section 5721 - Regulations"
 usc_title: 15
 usc_section: "5721"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 5721"
-generated_at: "2026-03-30T02:54:08.208Z"
+generated_at: "2026-11-23T20:26:04.379Z"
+status: "active"
 ---
 
 # § 5721. Regulations
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:08.208Z"
   - **(8)** The prompt notification of credit to an account.
   - **(9)** Rights of customers and telephone common carriers regarding claims and defenses.
   - **(10)** The extent to which the regulations should diverge from requirements under the Truth in Lending and Fair Credit Billing Acts [ 15 U.S.C. 1601 et seq., 1666 et seq.] in order to protect customers, and in order to be cost effective to billing entities.
+
+## Source Credit
+
+*([Pub. L. 102–556, title III, § 301](https://www.govinfo.gov/link/plaw/102/public/556), Oct. 28, 1992, [106 Stat. 4191](https://www.govinfo.gov/link/statute/106/4191).)*

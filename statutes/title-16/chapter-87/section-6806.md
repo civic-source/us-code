@@ -3,9 +3,10 @@ title: "Section 6806 - Special account and distribution of fees and revenues"
 usc_title: 16
 usc_section: "6806"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6806"
-generated_at: "2026-03-30T02:54:23.069Z"
+generated_at: "2026-11-23T20:26:20.819Z"
+status: "active"
 ---
 
 # § 6806. Special account and distribution of fees and revenues
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:23.069Z"
   - **(3)** Other amounts collected at other locations, including recreation fees collected by other entities or for a reservation service, shall remain available, without further appropriation, until expended in accordance with guidelines established by the Secretary.
 - **(d)** Revenues collected from the sale of the National Parks and Federal Recreational Lands Pass shall be deposited in the special accounts established for the Federal land management agencies in accordance with the guidelines issued under section 6804(a)(7) of this title .
 - **(e)** Revenues collected from the sale of a regional multientity pass authorized under section 6804(d) of this title shall be deposited in each participating Federal land management agency’s special account in accordance with the terms of the region multientity pass agreement for the regional multientity pass.
+
+## Source Credit
+
+*([Pub. L. 108–447, div. J, title VIII, § 807](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3388](https://www.govinfo.gov/link/statute/118/3388).)*

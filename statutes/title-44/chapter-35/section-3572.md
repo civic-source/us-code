@@ -3,9 +3,10 @@ title: "Section 3572 - Confidential information protection"
 usc_title: 44
 usc_section: "3572"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "44 U.S.C. § 3572"
-generated_at: "2026-03-30T02:55:56.298Z"
+generated_at: "2026-11-23T20:27:03.842Z"
+status: "active"
 ---
 
 # § 3572. Confidential information protection
@@ -22,3 +23,19 @@ generated_at: "2026-03-30T02:55:56.298Z"
 - **(d)** A statistical agency or unit shall clearly distinguish any data or information it collects for nonstatistical purposes (as authorized by law) and provide notice to the public, before the data or information is collected, that the data or information could be used for nonstatistical purposes.
 - **(e)** A statistical agency or unit may designate agents, by contract or by entering into a special agreement containing the provisions required under section 3561(2) for treatment as an agent under that section, who may perform exclusively statistical activities, subject to the limitations and penalties described in this subchapter.
 - **(f)** Whoever, being an officer, employee, or agent of an agency acquiring information for exclusively statistical purposes, having taken and subscribed the oath of office, or having sworn to observe the limitations imposed by this section, comes into possession of such information by reason of his or her being an officer, employee, or agent and, knowing that the disclosure of the specific information is prohibited under the provisions of this subchapter, willfully discloses the information in any manner to a person or agency not entitled to receive it, shall be guilty of a class E felony and imprisoned for not more than 5 years, or fined not more than $250,000, or both.
+
+Purposes
+
+Use of Statistical Data or Information
+
+Disclosure of Statistical Data or Information.—
+
+Rule for Use of Data or Information for Nonstatistical Purposes
+
+Designation of Agents
+
+Fines and Penalties
+
+## Source Credit
+
+*(Added [Pub. L. 115–435, title III, § 302(a)](https://www.govinfo.gov/link/plaw/115/public/435), Jan. 14, 2019, [132 Stat. 5548](https://www.govinfo.gov/link/statute/132/5548).)*

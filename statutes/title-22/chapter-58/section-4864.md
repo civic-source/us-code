@@ -3,9 +3,10 @@ title: "Section 4864 - Increased participation of United States contractors in l
 usc_title: 22
 usc_section: "4864"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4864"
-generated_at: "2026-03-30T02:55:05.415Z"
+generated_at: "2026-11-23T20:26:32.551Z"
+status: "active"
 ---
 
 # § 4864. Increased participation of United States contractors in local guard contracts abroad under diplomatic security program
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:55:05.415Z"
 - **(f)** Not less than 10 percent of the amount of funds obligated for local guard contracts for Foreign Service buildings subject to subsection (c) shall be allocated to the extent practicable for contracts with United States small business contractors.
 - **(g)** With respect to local guard contracts subject to subsection (c), a prime contractor may not subcontract more than 50 percent of the total value of its contract for that project.
 - **(h)** In evaluating proposals for local guard contracts under this section, the Secretary of State may award such contracts on the basis of best value as determined by a cost-technical tradeoff analysis (as described in Federal Acquisition Regulation part 15.101) and, with respect to such contracts for posts that are not high risk, high threat posts (as such term is defined in section 4803 of this title ), subject to congressional notification 15-days prior to any such award.
+
+## Source Credit
+
+*([Pub. L. 101–246, title I, § 136](https://www.govinfo.gov/link/plaw/101/public/246), Feb. 16, 1990, [104 Stat. 33](https://www.govinfo.gov/link/statute/104/33); [Pub. L. 103–236, title I, § 141](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 401](https://www.govinfo.gov/link/statute/108/401); [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. B, title XXII, § 2210, Oct. 21, 1998, [112 Stat. 2681–811](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 114–323, title I, § 112](https://www.govinfo.gov/link/plaw/114/public/323), Dec. 16, 2016, [130 Stat. 1910](https://www.govinfo.gov/link/statute/130/1910).)*

@@ -3,12 +3,17 @@ title: "Section 30146 - Collection and use of conference fees"
 usc_title: 52
 usc_section: "30146"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "52 U.S.C. § 30146"
-generated_at: "2026-03-30T02:56:30.174Z"
+generated_at: "2026-11-23T20:27:37.014Z"
+status: "active"
 ---
 
 # § 30146. Collection and use of conference fees
 
 - **(a)** The Federal Election Commission may charge and collect fees for attending or otherwise participating in a conference sponsored by the Commission, and notwithstanding section 3302 of title 31 , any amounts received from such fees during a fiscal year shall be credited to and merged with the amounts appropriated or otherwise made available to the Commission during the year, and shall be available for use during the year for the costs of sponsoring such conferences.
 - **(b)** This section shall apply with respect to fiscal year 2007 and each succeeding fiscal year.
+
+## Source Credit
+
+*([Pub. L. 109–289, div. B, title II, § 21078](https://www.govinfo.gov/link/plaw/109/public/289), as added [Pub. L. 110–5, § 2](https://www.govinfo.gov/link/plaw/110/public/5), Feb. 15, 2007, [121 Stat. 59](https://www.govinfo.gov/link/statute/121/59).)*

@@ -3,9 +3,10 @@ title: "Section 7671d - Phase-out of production and consumption of class II subs
 usc_title: 42
 usc_section: "7671d"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7671d"
-generated_at: "2026-03-30T02:56:11.327Z"
+generated_at: "2026-11-23T20:27:22.967Z"
+status: "active"
 ---
 
 # § 7671d. Phase-out of production and consumption of class II substances
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:11.327Z"
       - **(i)** Under no circumstances may the authority set forth in subparagraph (A) be applied to authorize any person to produce a class II substance in any year following the effective date of subsection (b)(1) and before the year 2030 in annual quantities greater than 110 percent of the quantity of such substance produced by such person during the baseline year.
       - **(ii)** Under no circumstances may the authority set forth in subparagraph (A) be applied to authorize any person to produce a class II substance in the year 2030, or any year thereafter, in an annual quantity greater than 15 percent of the quantity of such substance produced by such person during the baseline year.
       - **(iii)** Each exception authorized under this paragraph shall terminate no later than January 1, 2040 .
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title VI, § 605, as added [Pub. L. 101–549, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2658](https://www.govinfo.gov/link/statute/104/2658); amended [Pub. L. 112–81, div. A, title III, § 320](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1361](https://www.govinfo.gov/link/statute/125/1361).)*

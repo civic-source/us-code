@@ -3,9 +3,10 @@ title: "Section 3003 - Grants for State assistive technology programs"
 usc_title: 29
 usc_section: "3003"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3003"
-generated_at: "2026-03-30T02:55:18.746Z"
+generated_at: "2026-11-23T20:26:38.076Z"
+status: "active"
 ---
 
 # § 3003. Grants for State assistive technology programs
@@ -192,3 +193,33 @@ generated_at: "2026-03-30T02:55:18.746Z"
       - **(ix)** the outcomes of any improvement initiatives carried out by the State as a result of activities funded under this section, including a description of any written policies, practices, and procedures that the State has developed and implemented regarding access to, provision of, and funding for, assistive technology devices, and assistive technology services, in the contexts of education, health care, employment, community living, and accessible information and communication technology, including e-government;
       - **(x)** the source of leveraged funding or other contributed resources, including resources provided through subcontracts or other collaborative resource-sharing agreements, from and with public and private entities to carry out State activities described in subsection (e)(3)(C), the number of individuals served with the contributed resources for which information is not reported under clauses (i) through (ix) or clause (xi), and other outcomes accomplished as a result of such activities carried out with the contributed resources; and
       - **(xi)** the level of customer satisfaction with the services provided.
+
+(aa) there is an alternative financing program for assistive technology in the State;
+
+(bb) such program is separate from the State assistive technology program supported under subsection (e)(2); and
+
+(cc) the program described in item (aa) is operated by a nonprofit entity;
+
+(aa) the agency responsible for administering the State Medicaid program under title XIX of the Social Security Act ( 42 U.S.C. 1396 et seq.);
+
+(bb) the designated State agency for purposes of section 15024 of title 42 ;
+
+(cc) the State agency designated under section 305(a)(1) of the Older Americans Act of 1965 ( 42 U.S.C. 3025(a)(1) ), or an organization that receives assistance under such Act ( 42 U.S.C. 3001 et seq.);
+
+(dd) an organization representing disabled veterans;
+
+(ee) a University Center for Excellence in Developmental Disabilities Education, Research, and Service designated under section 15061(a) of title 42 ;
+
+(ff) the State protection and advocacy system established in accordance with section 15043 of title 42 ; or
+
+(gg) the State Council on Developmental Disabilities established under section 15025 of title 42 ; and
+
+(aa) approved;
+
+(bb) denied; or
+
+(cc) withdrawn;
+
+## Source Credit
+
+*([Pub. L. 105–394, § 4](https://www.govinfo.gov/link/plaw/105/public/394), as added [Pub. L. 108–364, § 2](https://www.govinfo.gov/link/plaw/108/public/364), Oct. 25, 2004, [118 Stat. 1714](https://www.govinfo.gov/link/statute/118/1714); amended [Pub. L. 113–128, title V, § 512(b)(2)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1705](https://www.govinfo.gov/link/statute/128/1705); [Pub. L. 114–95, title IX, § 9215(m)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2168](https://www.govinfo.gov/link/statute/129/2168); [Pub. L. 117–263, div. E, title LIV, § 5402](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3265](https://www.govinfo.gov/link/statute/136/3265).)*

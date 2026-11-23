@@ -3,9 +3,10 @@ title: "Section 3244 - Jurisdiction of proceedings relating to transferred offen
 usc_title: 18
 usc_section: "3244"
 chapter: 211
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 3244"
-generated_at: "2026-03-30T02:54:16.515Z"
+generated_at: "2026-11-23T20:26:08.695Z"
+status: "active"
 ---
 
 # § 3244. Jurisdiction of proceedings relating to transferred offenders
@@ -17,3 +18,7 @@ When a treaty is in effect between the United States and a foreign country provi
   - **(3)** all proceedings instituted by or on behalf of an offender transferred to the United States pertaining to the manner of execution in the United States of the sentence imposed by a foreign court shall be brought in the United States district court for the district in which the offender is confined or in which supervision is exercised and shall name the Attorney General and the official having immediate custody or exercising immediate supervision of the offender as respondents. The Attorney General shall defend against such proceedings;
   - **(4)** all proceedings instituted by or on behalf of an offender seeking to challenge the validity or legality of the offender’s transfer from the United States shall be brought in the United States district court of the district in which the proceedings to determine the validity of the offender’s consent were held and shall name the Attorney General as respondent; and
   - **(5)** all proceedings instituted by or on behalf of an offender seeking to challenge the validity or legality of the offender’s transfer to the United States shall be brought in the United States district court of the district in which the offender is confined or of the district in which supervision is exercised and shall name the Attorney General and the official having immediate custody or exercising immediate supervision of the offender as respondents. The Attorney General shall defend against such proceedings.
+
+## Source Credit
+
+*(Added [Pub. L. 95–144, § 3](https://www.govinfo.gov/link/plaw/95/public/144), Oct. 28, 1977, [91 Stat. 1220](https://www.govinfo.gov/link/statute/91/1220), title 28, § 2256; renumbered [Pub. L. 95–598, title III, § 314(j)(1)](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2677](https://www.govinfo.gov/link/statute/92/2677).)*

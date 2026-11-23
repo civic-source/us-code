@@ -3,9 +3,10 @@ title: "Section 5549 - House Intern Resource Office"
 usc_title: 2
 usc_section: "5549"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 5549"
-generated_at: "2026-03-30T02:53:04.838Z"
+generated_at: "2026-11-23T20:25:29.064Z"
+status: "active"
 ---
 
 # § 5549. House Intern Resource Office
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:04.838Z"
 - **(c)** In carrying out its duties, the Office shall consider inequities in access to internships in offices of the House of Representatives, and shall consider the viability of establishing an intern stipend program for interns from underrepresented backgrounds, including those who attend Historically Black Colleges and Universities (HBCUs), Tribal Colleges and Universities, Hispanic-Serving Institutions (HSIs), and other Minority Serving Institutions described in section 1067q(a) of title 20 .
 - **(d)** There are authorized to be appropriated for fiscal year 2023 and each succeeding fiscal year such sums as may be necessary to carry out this section.
 - **(e)** This section shall apply with respect to fiscal year 2023 and each succeeding fiscal year.
+
+## Source Credit
+
+*([Pub. L. 117–328, div. I, title I, § 113](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 4922](https://www.govinfo.gov/link/statute/136/4922).)*

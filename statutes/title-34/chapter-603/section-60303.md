@@ -3,9 +3,10 @@ title: "Section 60303 - Applications"
 usc_title: 34
 usc_section: "60303"
 chapter: 603
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 60303"
-generated_at: "2026-03-30T02:55:33.316Z"
+generated_at: "2026-11-23T20:26:50.670Z"
+status: "active"
 ---
 
 # § 60303. Applications
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:33.316Z"
     - **(E)** assurances that Federal funds received under this chapter shall be—
       - **(i)** used to supplement and not supplant non-Federal funds that would otherwise be available for activities funded under this chapter; and
       - **(ii)** allocated in accordance with section 60306(b) of this title .
+
+## Source Credit
+
+*([Pub. L. 108–405, title IV, § 423](https://www.govinfo.gov/link/plaw/108/public/405), Oct. 30, 2004, [118 Stat. 2288](https://www.govinfo.gov/link/statute/118/2288).)*

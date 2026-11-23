@@ -3,9 +3,10 @@ title: "Section 726 - Evaluation standards and performance indicators"
 usc_title: 29
 usc_section: "726"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 726"
-generated_at: "2026-03-30T02:55:18.693Z"
+generated_at: "2026-11-23T20:26:37.852Z"
+status: "active"
 ---
 
 # § 726. Evaluation standards and performance indicators
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:18.693Z"
       - **(ii)** continue to conduct such reviews and request such revisions until the State sustains satisfactory performance over a period of more than 1 year.
 - **(c)** If the Commissioner determines that a State whose performance falls below the established standards has failed to enter into a program improvement plan, or is not complying substantially with the terms and conditions of such a program improvement plan, the Commissioner shall, consistent with subsections (c) and (d) of section 727 of this title , reduce or make no further payments to the State under this program, until the State has entered into an approved program improvement plan, or satisfies the Commissioner that the State is complying substantially with the terms and conditions of such a program improvement plan, as appropriate.
 - **(d)** Beginning in fiscal year 1999, the Commissioner shall include in each annual report to the Congress under section 710 of this title an analysis of program performance, including relative State performance, based on the standards and indicators.
+
+## Source Credit
+
+*([Pub. L. 93–112, title I, § 106](https://www.govinfo.gov/link/plaw/93/public/112), as added [Pub. L. 105–220, title IV, § 404](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1156](https://www.govinfo.gov/link/statute/112/1156); amended [Pub. L. 113–128, title IV, § 416](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1654](https://www.govinfo.gov/link/statute/128/1654).)*

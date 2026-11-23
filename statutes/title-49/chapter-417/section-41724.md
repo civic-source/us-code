@@ -3,9 +3,10 @@ title: "Section 41724 - Musical instruments"
 usc_title: 49
 usc_section: "41724"
 chapter: 417
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 41724"
-generated_at: "2026-03-30T02:56:19.377Z"
+generated_at: "2026-11-23T20:27:35.106Z"
+status: "active"
 ---
 
 # § 41724. Musical instruments
@@ -26,3 +27,19 @@ generated_at: "2026-03-30T02:56:19.377Z"
     - **(C)** the instrument can be stowed in accordance with the requirements for carriage of carry-on baggage or cargo established by the Administrator.
 - **(b)** Not later than 2 years after the date of enactment of this section, the Secretary shall issue final regulations to carry out subsection (a).
 - **(c)** The requirements of this section shall become effective on the date of issuance of the final regulations under subsection (b).
+
+In General.—
+
+Small instruments as carry-on baggage
+
+Larger instruments as carry-on baggage
+
+Large instruments as checked baggage
+
+Regulations
+
+Effective Date
+
+## Source Credit
+
+*(Added [Pub. L. 112–95, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 84](https://www.govinfo.gov/link/statute/126/84).)*

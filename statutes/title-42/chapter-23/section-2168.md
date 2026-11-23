@@ -3,9 +3,10 @@ title: "Section 2168 - Dissemination of unclassified information"
 usc_title: 42
 usc_section: "2168"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2168"
-generated_at: "2026-03-30T02:56:11.154Z"
+generated_at: "2026-11-23T20:27:22.088Z"
+status: "active"
 ---
 
 # § 2168. Dissemination of unclassified information
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.154Z"
   - **(2)** The provisions of subsections (b) and (c) of section 2282 of this title , shall be applicable with respect to the imposition of civil penalties by the Secretary under this section in the same manner that such provisions are applicable to the imposition of civil penalties by the Commission under subsection (a) of such section.
 - **(c)** For the purposes of section 2273 of this title , any regulation prescribed or order issued by the Secretary under this section shall also be deemed to be prescribed or issued under section 2201(b) of this title .
 - **(d)** Any determination by the Secretary concerning the applicability of this section shall be subject to judicial review pursuant to section 552(a)(4)(B) of title 5 .
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 148, as added [Pub. L. 97–90, title II, § 210(a)(1)](https://www.govinfo.gov/link/plaw/97/public/90), Dec. 4, 1981, [95 Stat. 1169](https://www.govinfo.gov/link/statute/95/1169); amended [Pub. L. 97–415, § 17](https://www.govinfo.gov/link/plaw/97/public/415), Jan. 4, 1983, [96 Stat. 2076](https://www.govinfo.gov/link/statute/96/2076); renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944); [Pub. L. 112–239, div. C, title XXXI, § 3134(c)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2193](https://www.govinfo.gov/link/statute/126/2193).)*

@@ -3,9 +3,10 @@ title: "Section 127e - Support of special operations to combat terrorism"
 usc_title: 10
 usc_section: "127e"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 127e"
-generated_at: "2026-03-30T02:53:38.033Z"
+generated_at: "2026-11-23T20:25:50.816Z"
+status: "active"
 ---
 
 # § 127e. Support of special operations to combat terrorism
@@ -54,3 +55,45 @@ generated_at: "2026-03-30T02:53:38.033Z"
     - **(F)** The intended duration of support provided under this section.
     - **(G)** A description of the support or training provided to the recipients of support under this section.
     - **(H)** A value assessment of the support provided under this section, including a summary of significant activities undertaken by foreign forces, irregular forces, groups, or individuals to support operations by United States special operations forces to combat terrorism.
+
+Authority
+
+Funds
+
+Procedures.—
+
+In general
+
+Elements
+
+Notification.—
+
+In general
+
+Elements
+
+Notification of Suspension or Termination of Support.—
+
+In general
+
+Elements
+
+Limitation on Delegation
+
+Construction of Authority
+
+Oversight by ASD for SOLIC
+
+Biannual Reports.—
+
+Report on preceding calendar year
+
+Report on current calendar year
+
+Elements
+
+“In the course of a chief of mission providing concurrence to the exercise of the authority pursuant to section 127e of title 10 , United States Code, or section 1202 of the National Defense Authorization Act for Fiscal Year 2018 [ Pub. L. 115–91 ; 131 Stat. 1639 ]—
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. A, title XII, § 1203(a)(1)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2474](https://www.govinfo.gov/link/statute/130/2474); amended [Pub. L. 115–91, div. A, title X, § 1031](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1550](https://www.govinfo.gov/link/statute/131/1550); [Pub. L. 116–92, div. A, title X, § 1041](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1585](https://www.govinfo.gov/link/statute/133/1585); [Pub. L. 116–283, div. A, title X](https://www.govinfo.gov/link/plaw/116/public/283), §§ 1051, 1081(a)(7), Jan. 1, 2021, [134 Stat. 3847](https://www.govinfo.gov/link/statute/134/3847), 3871.)*

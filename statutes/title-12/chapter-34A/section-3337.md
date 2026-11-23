@@ -3,9 +3,10 @@ title: "Section 3337 - Startup funding"
 usc_title: 12
 usc_section: "3337"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 3337"
-generated_at: "2026-03-30T02:53:53.493Z"
+generated_at: "2026-11-23T20:25:59.331Z"
+status: "active"
 ---
 
 # § 3337. Startup funding
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:53:53.493Z"
 - **(a)** For purposes of this chapter, the Secretary of the Treasury shall pay to the Appraisal Subcommittee a one-time payment of $5,000,000 on August 9, 1989 . Thereafter, expenses of the subcommittee shall be funded through the collection of registry fees from certain certified and licensed appraisers pursuant to section 3338 of this title or, if required, pursuant to section 3351(b) 1 1 See References in Text note below. of this title.
 - **(b)** Except as provided in section 3351(b) 1 of this title, funds in addition to the funds provided under subsection (a) may be made available to the Appraisal Subcommittee only if authorized and appropriated by law.
 - **(c)** Not later than September 30, 1998 , the Appraisal Subcommittee shall repay to the Secretary of the Treasury the unpaid portion of the $5,000,000 paid to the Appraisal Subcommittee pursuant to this section.
+
+## Source Credit
+
+*([Pub. L. 101–73, title XI, § 1108](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 513](https://www.govinfo.gov/link/statute/103/513); [Pub. L. 104–208, div. A, title II, § 2212](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–411](https://www.govinfo.gov/link/statute/110/3009).)*

@@ -3,9 +3,10 @@ title: "Section 1601 - Renewable Resource Assessment"
 usc_title: 16
 usc_section: "1601"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1601"
-generated_at: "2026-03-30T02:54:22.978Z"
+generated_at: "2026-11-23T20:26:20.530Z"
+status: "active"
 ---
 
 # § 1601. Renewable Resource Assessment
@@ -51,3 +52,67 @@ generated_at: "2026-03-30T02:54:22.978Z"
         - **(I)** The Secretary shall, based on recommendations from regional foresters, create a priority list of reforestation projects that—
         - **(II)** The Secretary shall rank projects on the priority list under subclause (I) based on—
 - **(f)** The Secretary shall submit an annual report to the Congress on the amounts, types, and uses of herbicides and pesticides used in the National Forest System, including the beneficial or adverse effects of such uses.
+
+Reforestation requirements.—
+
+Definitions
+
+Natural regeneration.—
+
+In general
+
+Inclusion
+
+Priority land
+
+Reforestation
+
+Secretary
+
+Unplanned event.—
+
+In general
+
+(aa) disrupts ecosystem or forest structure or composition; or
+
+(bb) changes resources, substrate availability, or the physical environment.
+
+Inclusions
+
+(aa) a wildfire;
+
+(bb) an infestation of insects or disease;
+
+(cc) a weather event; and
+
+(dd) animal damage.
+
+Requirement
+
+Reforestation priority.—
+
+In general
+
+Priority list.—
+
+In general
+
+(aa) primarily take place on priority land;
+
+(bb) promote effective reforestation following unplanned events; and
+
+(cc) may include activities to ensure adequate and appropriate seed availability.
+
+Ranking
+
+(aa) documentation of an effective reforestation project plan;
+
+(bb) the ability to measure the progress and success of the project; and
+
+(cc) the ability of a project to provide benefits relating to forest function and health, soil health and productivity, wildlife habitat, improved air and water quality, carbon sequestration potential, resilience, job creation, and enhanced recreational opportunities.
+
+“Not later than 1 year after the date of enactment of this Act [ Nov. 15, 2021 ], and annually thereafter, the Secretary of Agriculture shall submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives, and make publicly available on the website of the Forest Service, a report that describes, with respect to the preceding year—
+
+## Source Credit
+
+*([Pub. L. 93–378, § 3](https://www.govinfo.gov/link/plaw/93/public/378), formerly § 2, Aug. 17, 1974, [88 Stat. 476](https://www.govinfo.gov/link/statute/88/476); renumbered § 3 and amended [Pub. L. 94–588](https://www.govinfo.gov/link/plaw/94/public/588), §§ 2–4, Oct. 22, 1976, [90 Stat. 2949](https://www.govinfo.gov/link/statute/90/2949), 2950; [Pub. L. 101–624, title XXIV, § 2408(a)](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 4061](https://www.govinfo.gov/link/statute/104/4061); [Pub. L. 115–141, div. O, title II, § 208(b)(1)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1066](https://www.govinfo.gov/link/statute/132/1066); [Pub. L. 117–58, div. G, title III, § 70302(a)(1)(A)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1258](https://www.govinfo.gov/link/statute/135/1258).)*

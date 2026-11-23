@@ -3,9 +3,10 @@ title: "Section 2216a - Rapidly meeting urgent needs: Joint Urgent Operational N
 usc_title: 10
 usc_section: "2216a"
 chapter: 131
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2216a"
-generated_at: "2026-03-30T02:53:38.148Z"
+generated_at: "2026-11-23T20:25:51.493Z"
+status: "active"
 ---
 
 # § 2216a. Rapidly meeting urgent needs: Joint Urgent Operational Needs Fund
@@ -28,3 +29,17 @@ generated_at: "2026-03-30T02:53:38.148Z"
   - **(3)** The transfer of an amount to an account under the authority in paragraph (1) shall be deemed to increase the amount authorized for such account by an amount equal to the amount so transferred.
   - **(4)** The transfer authority provided by paragraphs (1) and (2) is in addition to any other transfer authority available to the Department of Defense by law.
 - **(e)** The authority to make expenditures or transfers from the Fund shall expire on September 30, 2018 .
+
+Establishment
+
+Elements
+
+Use of Funds
+
+Transfer Authority
+
+Sunset
+
+## Source Credit
+
+*(Added [Pub. L. 112–81, div. A, title VIII, § 846(a)(1)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1516](https://www.govinfo.gov/link/statute/125/1516); amended [Pub. L. 112–239, div. A, title X, § 1076(e)(2)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1951](https://www.govinfo.gov/link/statute/126/1951); [Pub. L. 113–291, div. A, title VIII, § 860](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3461](https://www.govinfo.gov/link/statute/128/3461); [Pub. L. 117–263, div. A, title VIII, § 804(d)(1)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2701](https://www.govinfo.gov/link/statute/136/2701).)*

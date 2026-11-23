@@ -3,9 +3,10 @@ title: "Section 655 - Pilot Technology Access Program"
 usc_title: 15
 usc_section: "655"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 655"
-generated_at: "2026-03-30T02:54:08.105Z"
+generated_at: "2026-11-23T20:26:03.831Z"
+status: "active"
 ---
 
 # § 655. Pilot Technology Access Program
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:08.105Z"
 - **(g)** Three years after such date, the General Accounting Office shall submit to the Committee on Small Business and the Committee on Science, Space, and Technology of the House of Representatives and to the Committee on Small Business and the Committee on Commerce, Science and Transportation of the Senate, a final report evaluating the effectiveness of the Program under section 648a 1 of this title and this section in improving small business productivity and innovation.
 - **(h)** There are authorized to be appropriated to the Small Business Administration $5 million for each of fiscal years 1992 through 1995 to carry out this section, and such amounts may remain available until expended.
 - **(i)** Centers are encouraged to seek funding from Federal and non-Federal sources other than those provided for in this section to assist small businesses in the identification of appropriate technologies to fill their needs, the transfer of technologies from Federal laboratories, public and private universities, and other public and private institutions, the analysis of commercial opportunities represented by such technologies, and such other functions as the development, business planning, market research, and financial packaging required for commercialization. Insofar as such Centers pursue these activities, Federal agencies are encouraged to employ these Centers to interface with small businesses for such purposes as facilitating small business participation in Federal procurement and fostering commercialization of Federally-funded research and development.
+
+## Source Credit
+
+*([Pub. L. 85–536, § 2[28]](https://www.govinfo.gov/link/plaw/85/public/536), as added [Pub. L. 102–140, title VI, § 609(d)](https://www.govinfo.gov/link/plaw/102/public/140), Oct. 28, 1991, [105 Stat. 825](https://www.govinfo.gov/link/statute/105/825).)*

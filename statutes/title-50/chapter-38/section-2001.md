@@ -3,9 +3,10 @@ title: "Section 2001 - Definitions relating to the system"
 usc_title: 50
 usc_section: "2001"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 2001"
-generated_at: "2026-03-30T02:56:26.216Z"
+generated_at: "2026-11-23T20:27:30.811Z"
+status: "active"
 ---
 
 # § 2001. Definitions relating to the system
@@ -28,3 +29,13 @@ When used in this chapter:
   - **(7)** The term “lump-sum credit” means the unrefunded amount consisting of retirement deductions made from a participant’s basic pay and amounts deposited by a participant covering earlier service, including any amounts deposited under section 2082(h) of this title .
   - **(8)** The term “congressional intelligence committees” means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
   - **(9)** The term “employee” includes an officer of the Agency.
+
+“(1) The amendments made by subsection (a) [amending section 221(p)–(r) of Pub. L. 88–643 ] shall take effect on the first day of the fourth month beginning after the date of the enactment of this Act [ Dec. 4, 1991 ].
+
+Prior Elections
+
+References
+
+## Source Credit
+
+*([Pub. L. 88–643, title I, § 101](https://www.govinfo.gov/link/plaw/88/public/643), as added [Pub. L. 102–496, title VIII, § 802](https://www.govinfo.gov/link/plaw/102/public/496), Oct. 24, 1992, [106 Stat. 3197](https://www.govinfo.gov/link/statute/106/3197); amended [Pub. L. 103–178, title II, § 202(a)(1)](https://www.govinfo.gov/link/plaw/103/public/178), Dec. 3, 1993, [107 Stat. 2025](https://www.govinfo.gov/link/statute/107/2025); [Pub. L. 108–458, title I, § 1071(c)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3691](https://www.govinfo.gov/link/statute/118/3691).)*

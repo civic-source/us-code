@@ -3,9 +3,10 @@ title: "Section 2118 - Robberies and burglaries involving controlled substances"
 usc_title: 18
 usc_section: "2118"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2118"
-generated_at: "2026-03-30T02:54:16.495Z"
+generated_at: "2026-11-23T20:26:08.554Z"
+status: "active"
 ---
 
 # § 2118. Robberies and burglaries involving controlled substances
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:16.495Z"
   - **(1)** the term “controlled substance” has the meaning prescribed for that term by section 102 of the Controlled Substances Act;
   - **(2)** the term “business premises or property” includes conveyances and storage facilities; and
   - **(3)** the term “significant bodily injury” means bodily injury which involves a risk of death, significant physical pain, protracted and obvious disfigurement, or a protracted loss or impairment of the function of a bodily member, organ, or mental or sensory faculty.
+
+## Source Credit
+
+*(Added [Pub. L. 98–305, § 2](https://www.govinfo.gov/link/plaw/98/public/305), May 31, 1984, [98 Stat. 221](https://www.govinfo.gov/link/statute/98/221); amended [Pub. L. 103–322, title XXXIII, § 330016(1)(O)](https://www.govinfo.gov/link/plaw/103/public/322) –(Q), Sept. 13, 1994, [108 Stat. 2148](https://www.govinfo.gov/link/statute/108/2148).)*

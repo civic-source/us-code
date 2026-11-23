@@ -3,9 +3,10 @@ title: "Section 2067 - National Center on Homelessness Among Veterans"
 usc_title: 38
 usc_section: "2067"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 2067"
-generated_at: "2026-03-30T02:55:53.495Z"
+generated_at: "2026-11-23T20:27:01.776Z"
+status: "active"
 ---
 
 # § 2067. National Center on Homelessness Among Veterans
@@ -20,3 +21,11 @@ generated_at: "2026-03-30T02:55:53.495Z"
   - **(3)** To identify and disseminate best practices with regard to housing stabilization, income support, employment assistance, community partnerships, and such other matters as the Secretary considers appropriate with respect to addressing veteran homelessness.
   - **(4)** To integrate evidence-based and best practices, policies, and programs into programs of the Department for homeless veterans and veterans at risk of homelessness and to ensure that the staff of the Department and community partners can implement such practices, policies, and programs.
   - **(5)** To serve as a resource center for, and promote and seek to coordinate the exchange of information regarding, all research and training activities carried out by the Department and by other Federal and non-Federal entities with respect to veteran homelessness.
+
+In General
+
+Functions
+
+## Source Credit
+
+*(Added [Pub. L. 114–315, title VII, § 713(a)](https://www.govinfo.gov/link/plaw/114/public/315), Dec. 16, 2016, [130 Stat. 1588](https://www.govinfo.gov/link/statute/130/1588).)*

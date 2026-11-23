@@ -3,9 +3,10 @@ title: "Section 19237 - Definitions"
 usc_title: 42
 usc_section: "19237"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 19237"
-generated_at: "2026-03-30T02:56:11.543Z"
+generated_at: "2026-11-23T20:27:23.869Z"
+status: "active"
 ---
 
 # § 19237. Definitions
@@ -44,3 +45,7 @@ In this part:
       - **(i)** a foreign country of concern or an entity based in a foreign country of concern, whether or not directly sponsored by the foreign country of concern;
       - **(ii)** an academic institution on the list developed under section 1286(c)(8) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 ( 10 U.S.C. 2358 note; 1 1 See References in Text note below. Public Law 115–232 ); or
       - **(iii)** a foreign talent recruitment program on the list developed under section 1286(c)(9) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 ( 10 U.S.C. 2358 note; 1 Public Law 115–232 ).
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title VI, § 10638](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1669](https://www.govinfo.gov/link/statute/136/1669).)*

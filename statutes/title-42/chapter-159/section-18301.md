@@ -3,9 +3,10 @@ title: "Section 18301 - Findings"
 usc_title: 42
 usc_section: "18301"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18301"
-generated_at: "2026-03-30T02:56:11.518Z"
+generated_at: "2026-11-23T20:27:23.793Z"
+status: "active"
 ---
 
 # § 18301. Findings
@@ -27,3 +28,7 @@ Congress makes the following findings:
   - **(13)** For some potential replacement elements necessary for ISS sustainability, the Space Shuttle may represent the only vehicle, existing or planned, capable of carrying those elements to the ISS in the near term. Additional or alternative transportation capabilities must be identified as contingency delivery options, and accompanied by an independent analysis of projected availability of such capabilities.
   - **(14)** The United States must develop, as rapidly as possible, replacement vehicles capable of providing both human and cargo launch capability to low-Earth orbit and to destinations beyond low-Earth orbit.
   - **(15)** There is a need for national space and export control policies that protect the national security of the United States while also enabling the United States and its aerospace industry to undertake cooperative programs in science and human space flight in an effective and efficient manner and to compete effectively in the global market place.
+
+## Source Credit
+
+*([Pub. L. 111–267, § 2](https://www.govinfo.gov/link/plaw/111/public/267), Oct. 11, 2010, [124 Stat. 2807](https://www.govinfo.gov/link/statute/124/2807).)*

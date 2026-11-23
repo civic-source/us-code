@@ -3,9 +3,10 @@ title: "Section 403 - General duties"
 usc_title: 39
 usc_section: "403"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "39 U.S.C. § 403"
-generated_at: "2026-03-30T02:55:43.687Z"
+generated_at: "2026-11-23T20:26:57.706Z"
+status: "active"
 ---
 
 # § 403. General duties
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:43.687Z"
   - **(2)** to provide types of mail service to meet the needs of different categories of mail and mail users; and
   - **(3)** to establish and maintain postal facilities of such character and in such locations, that postal patrons throughout the Nation will, consistent with reasonable economies of postal operations, have ready access to essential postal services.
 - **(c)** In providing services and in establishing classifications, rates, and fees under this title, the Postal Service shall not, except as specifically authorized in this title, make any undue or unreasonable discrimination among users of the mails, nor shall it grant any undue or unreasonable preferences to any such user.
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 723](https://www.govinfo.gov/link/statute/84/723); [Pub. L. 96–70, title I, § 1331(e)(1)](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 482](https://www.govinfo.gov/link/statute/93/482).)*

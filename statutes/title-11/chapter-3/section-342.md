@@ -3,9 +3,10 @@ title: "Section 342 - Notice"
 usc_title: 11
 usc_section: "342"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 342"
-generated_at: "2026-03-30T02:53:53.874Z"
+generated_at: "2026-11-23T20:25:55.339Z"
+status: "active"
 ---
 
 # § 342. Notice
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:53:53.874Z"
 - **(g)**
   - **(1)** Notice provided to a creditor by the debtor or the court other than in accordance with this section (excluding this subsection) shall not be effective notice until such notice is brought to the attention of such creditor. If such creditor designates a person or an organizational subdivision of such creditor to be responsible for receiving notices under this title and establishes reasonable procedures so that such notices receivable by such creditor are to be delivered to such person or such subdivision, then a notice provided to such creditor other than in accordance with this section (excluding this subsection) shall not be considered to have been brought to the attention of such creditor until such notice is received by such person or such subdivision.
   - **(2)** A monetary penalty may not be imposed on a creditor for a violation of a stay in effect under section 362(a) (including a monetary penalty imposed under section 362(k)) or for failure to comply with section 542 or 543 unless the conduct that is the basis of such violation or of such failure occurs after such creditor receives notice effective under this section of the order for relief.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2565](https://www.govinfo.gov/link/statute/92/2565); [Pub. L. 98–353, title III](https://www.govinfo.gov/link/plaw/98/public/353), §§ 302, 435, July 10, 1984, [98 Stat. 352](https://www.govinfo.gov/link/statute/98/352), 370; [Pub. L. 103–394, title II, § 225](https://www.govinfo.gov/link/plaw/103/public/394), Oct. 22, 1994, [108 Stat. 4131](https://www.govinfo.gov/link/statute/108/4131); [Pub. L. 109–8, title I](https://www.govinfo.gov/link/plaw/109/public/8), §§ 102(d), 104, title II, § 234(b), title III, § 315(a), Apr. 20, 2005, [119 Stat. 33](https://www.govinfo.gov/link/statute/119/33), 35, 75, 88; [Pub. L. 111–16, § 2(4)](https://www.govinfo.gov/link/plaw/111/public/16), May 7, 2009, [123 Stat. 1607](https://www.govinfo.gov/link/statute/123/1607).)*

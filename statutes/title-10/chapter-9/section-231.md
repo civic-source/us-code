@@ -3,9 +3,10 @@ title: "Section 231 - Budgeting for construction, maintenance, and modernization
 usc_title: 10
 usc_section: "231"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 231"
-generated_at: "2026-03-30T02:53:38.047Z"
+generated_at: "2026-11-23T20:25:50.880Z"
+status: "active"
 ---
 
 # § 231. Budgeting for construction, maintenance, and modernization of naval vessels: annual plans and certifications
@@ -59,3 +60,23 @@ generated_at: "2026-03-30T02:53:38.047Z"
   - **(4)** The term “combatant and support vessel” means any commissioned ship built or armed for naval combat or any naval ship designed to provide support to combatant ships and other naval operations. Such term does not include patrol coastal ships, non-commissioned combatant craft specifically designed for combat roles, or ships that are designated for potential mobilization.
   - **(5)** The term “auxiliary vessel” means any ship designed to operate in the open ocean in a variety of sea states to provide general support to either combatant forces or shore based establishments.
   - **(6)** The term “expected service life” means the number of years a naval vessel is expected to be in service.
+
+Annual Naval Vessel Construction Plan and Certification
+
+Annual Naval Vessel Construction Plan
+
+Assessment When Annual Naval Vessel Construction Plan Does Not Meet Force Structure Requirements
+
+Annual Plan for Maintenance and Modernization of Naval Vessels
+
+CBO Evaluation
+
+Limitation on Availability of Funds for Fiscal Years Without Plan and Certification
+
+Reduction in Battle Force Ships
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 107–314, div. A, title X, § 1022(a)(1)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2639](https://www.govinfo.gov/link/statute/116/2639); amended [Pub. L. 111–383, div. A, title X, § 1023(a)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4349](https://www.govinfo.gov/link/statute/124/4349); [Pub. L. 112–81, div. A, title X, § 1011(a)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1558](https://www.govinfo.gov/link/statute/125/1558); [Pub. L. 112–239, div. A, title X, § 1014(a)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1908](https://www.govinfo.gov/link/statute/126/1908); [Pub. L. 113–66, div. A, title X, § 1021](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 844](https://www.govinfo.gov/link/statute/127/844); [Pub. L. 113–291, div. A, title X](https://www.govinfo.gov/link/plaw/113/public/291), §§ 1021, 1071(c)(2), Dec. 19, 2014, [128 Stat. 3486](https://www.govinfo.gov/link/statute/128/3486), 3508; [Pub. L. 114–92, div. A, title X, § 1021](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 965](https://www.govinfo.gov/link/statute/129/965); [Pub. L. 115–91, div. A, title X, § 1021(d)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1547](https://www.govinfo.gov/link/statute/131/1547); [Pub. L. 115–232, div. A, title X, § 1011](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1947](https://www.govinfo.gov/link/statute/132/1947); [Pub. L. 116–283, div. A, title X](https://www.govinfo.gov/link/plaw/116/public/283), §§ 1021, 1081(a)(13), Jan. 1, 2021, [134 Stat. 3839](https://www.govinfo.gov/link/statute/134/3839), 3871; [Pub. L. 117–81, div. A, title X, § 1011(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1889](https://www.govinfo.gov/link/statute/135/1889); [Pub. L. 117–263, div. A, title III, § 352(a)](https://www.govinfo.gov/link/plaw/117/public/263), title X, § 1021, Dec. 23, 2022, [136 Stat. 2533](https://www.govinfo.gov/link/statute/136/2533), 2763; [Pub. L. 118–31, div. A, title X, § 1015](https://www.govinfo.gov/link/plaw/118/public/31), title XVIII, § 1801(a)(3), Dec. 22, 2023, [137 Stat. 382](https://www.govinfo.gov/link/statute/137/382), 683; [Pub. L. 118–159, div. A, title X, § 1021](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2052](https://www.govinfo.gov/link/statute/138/2052).)*

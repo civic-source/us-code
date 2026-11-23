@@ -3,12 +3,17 @@ title: "Section 71 - Future treaties with Indian tribes"
 usc_title: 25
 usc_section: "71"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 71"
-generated_at: "2026-03-30T02:54:52.797Z"
+generated_at: "2026-11-23T20:26:25.348Z"
+status: "active"
 ---
 
 # § 71. Future treaties with Indian tribes
 
 No Indian nation or tribe within the territory of the United States shall be acknowledged or recognized as an independent nation, tribe, or power with whom the United States may contract by treaty; but no obligation of any treaty lawfully made and ratified with any such Indian nation or tribe prior to March 3, 1871 , shall be hereby invalidated or impaired. Such treaties, and any Executive orders and Acts of Congress under which the rights of any Indian tribe to fish are secured, shall be construed to prohibit (in addition to any other prohibition) the imposition under any law of a State or political subdivision thereof of any tax on any income derived from the exercise of rights to fish secured by such treaty, Executive order, or Act of Congress if section 7873 of title 26 does not permit a like Federal tax to be imposed on such income.
 
+
+## Source Credit
+
+*(R.S. § 2079; [Pub. L. 100–647, title III, § 3042](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3641](https://www.govinfo.gov/link/statute/102/3641).)*

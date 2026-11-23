@@ -3,9 +3,10 @@ title: "Section 6942 - Federal guidelines for plans"
 usc_title: 42
 usc_section: "6942"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6942"
-generated_at: "2026-03-30T02:56:11.275Z"
+generated_at: "2026-11-23T20:27:22.745Z"
+status: "active"
 ---
 
 # § 6942. Federal guidelines for plans
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.275Z"
   - **(9)** the political, economic, organizational, financial, and management problems affecting comprehensive solid waste management;
   - **(10)** types of resource recovery facilities and resource conservation systems which are appropriate; and
   - **(11)** available new and additional markets for recovered material and energy and energy resources recovered from solid waste as well as methods for conserving such materials and energy.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 4002](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 94–580, § 2](https://www.govinfo.gov/link/plaw/94/public/580), Oct. 21, 1976, [90 Stat. 2813](https://www.govinfo.gov/link/statute/90/2813); amended [Pub. L. 96–482, § 32(c)](https://www.govinfo.gov/link/plaw/96/public/482), Oct. 21, 1980, [94 Stat. 2353](https://www.govinfo.gov/link/statute/94/2353).)*

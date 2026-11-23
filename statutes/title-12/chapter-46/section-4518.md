@@ -3,9 +3,10 @@ title: "Section 4518 - Prohibition and withholding of executive compensation"
 usc_title: 12
 usc_section: "4518"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4518"
-generated_at: "2026-03-30T02:53:53.506Z"
+generated_at: "2026-11-23T20:25:59.389Z"
+status: "active"
 ---
 
 # § 4518. Prohibition and withholding of executive compensation
@@ -56,3 +57,17 @@ generated_at: "2026-03-30T02:53:53.506Z"
         - **(I)** the determination, after such date, of the liability for the payment of such amount; or
         - **(II)** the liquidation, after such date, of the amount of such payment.
   - **(6)** No provision of this subsection shall be construed as prohibiting any regulated entity from purchasing any commercial insurance policy or fidelity bond, except that, subject to any requirement described in paragraph (5)(A)(iii), such insurance policy or bond shall not cover any legal or liability expense of the regulated entity which is described in paragraph (5)(A).
+
+Director
+
+Enterprise
+
+Suspension of Current Compensation Package and Limitation
+
+Limitation on Bonuses
+
+Applicability
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1318](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3949](https://www.govinfo.gov/link/statute/106/3949); [Pub. L. 110–289, div. A, title I](https://www.govinfo.gov/link/plaw/110/public/289), §§ 1113(a), 1114, July 30, 2008, [122 Stat. 2678](https://www.govinfo.gov/link/statute/122/2678), 2679.)*

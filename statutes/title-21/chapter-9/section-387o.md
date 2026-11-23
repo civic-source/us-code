@@ -3,9 +3,10 @@ title: "Section 387o - Regulation requirement"
 usc_title: 21
 usc_section: "387o"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 387o"
-generated_at: "2026-03-30T02:54:54.282Z"
+generated_at: "2026-11-23T20:26:27.778Z"
+status: "active"
 ---
 
 # § 387o. Regulation requirement
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:54:54.282Z"
   - **(3)** The Secretary, taking into account the laboratory testing capacity that is available to tobacco product manufacturers, shall review and verify the evidence submitted by a small tobacco product manufacturer in accordance with paragraph (2). If the Secretary finds that the conditions described in such paragraph are met, the Secretary shall notify the small tobacco product manufacturer that the manufacturer shall not be considered to be in violation of the testing and reporting requirements of this section until the testing is reported or until 1 year after the reporting deadline has passed, whichever occurs sooner. If, however, the Secretary has not made a finding before the reporting deadline, the manufacturer shall not be considered to be in violation of such requirements until the Secretary finds that the conditions described in paragraph (2) have not been met, or until 1 year after the reporting deadline, whichever occurs sooner.
   - **(4)** In addition to the time that may be provided under paragraph (3), the Secretary may provide further extensions of time, in increments of no more than 1 year, for required testing and reporting to occur if the Secretary determines, based on evidence properly and timely submitted by a small tobacco product manufacturer in accordance with paragraph (2), that a lack of available laboratory capacity prevents the manufacturer from completing the required testing during the period described in paragraph (3).
 - **(f)** Nothing in subsection (d) or (e) shall be construed to authorize the extension of any deadline, or to otherwise affect any timeframe, under any provision of this chapter or the Family Smoking Prevention and Tobacco Control Act other than this section.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 915, as added [Pub. L. 111–31, div. A, title I, § 101(b)(3)](https://www.govinfo.gov/link/plaw/111/public/31), June 22, 2009, [123 Stat. 1820](https://www.govinfo.gov/link/statute/123/1820).)*

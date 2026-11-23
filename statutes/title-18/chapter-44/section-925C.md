@@ -3,9 +3,10 @@ title: "Section 925C - Annual report to Congress"
 usc_title: 18
 usc_section: "925C"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 925C"
-generated_at: "2026-03-30T02:54:16.475Z"
+generated_at: "2026-11-23T20:26:08.433Z"
+status: "active"
 ---
 
 # § 925C. Annual report to Congress
@@ -21,3 +22,7 @@ Not later than 1 year after the date of enactment of this section, and annually 
     - **(F)** the number of persons charged with a Federal criminal offense in connection with a denial; and
     - **(G)** the number of convictions obtained by Federal authorities in connection with a denial.
   - **(2)** The number of background check notices reported pursuant to section 925B (including the number of the notices that would have been so reported but for section 925B(c)).
+
+## Source Credit
+
+*(Added [Pub. L. 117–103, div. W, title XI, § 1102(a)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 920](https://www.govinfo.gov/link/statute/136/920).)*

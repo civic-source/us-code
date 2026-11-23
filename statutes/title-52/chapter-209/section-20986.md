@@ -3,9 +3,10 @@ title: "Section 20986 - Study and report on free absentee ballot postage"
 usc_title: 52
 usc_section: "20986"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "52 U.S.C. § 20986"
-generated_at: "2026-03-30T02:56:30.166Z"
+generated_at: "2026-11-23T20:27:36.980Z"
+status: "active"
 ---
 
 # § 20986. Study and report on free absentee ballot postage
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:30.166Z"
     - **(A)** include recommendations on ways that program described in subsection (a)(1) would target elderly individuals and individuals with disabilities; and
     - **(B)** identify methods to increase the number of such individuals who vote in elections for Federal office.
 - **(c)** The term “Postal Service” means the United States Postal Service established under section 201 of title 39 .
+
+## Source Credit
+
+*([Pub. L. 107–252, title II, § 246](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1691](https://www.govinfo.gov/link/statute/116/1691).)*

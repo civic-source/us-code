@@ -3,9 +3,10 @@ title: "Section 410xxx - Ste. Genevieve National Historical Park"
 usc_title: 16
 usc_section: "410xxx"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 410xxx"
-generated_at: "2026-03-30T02:54:22.784Z"
+generated_at: "2026-11-23T20:26:19.809Z"
+status: "active"
 ---
 
 # § 410xxx. Ste. Genevieve National Historical Park
@@ -59,3 +60,7 @@ generated_at: "2026-03-30T02:54:22.784Z"
     - **(A)** the amounts made available to the property or project by the United States; or
     - **(B)** the portion of the increased value of the property or project attributable to the amounts made available under this subsection, as determined at the time of the conversion, use, or disposal.
 - **(h)** Nothing in this section authorizes the Secretary to assume overall financial responsibility for the operation, maintenance, or management of the Historic District.
+
+## Source Credit
+
+*([Pub. L. 115–141, div. G, title I, § 121(a)(2) [div. B, title VII, § 7134]](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 661](https://www.govinfo.gov/link/statute/132/661), 1225A–5; [Pub. L. 116–9, title II, § 2109(a)](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 731](https://www.govinfo.gov/link/statute/133/731); [Pub. L. 117–328, div. DD, title VI, § 617](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5605](https://www.govinfo.gov/link/statute/136/5605).)*

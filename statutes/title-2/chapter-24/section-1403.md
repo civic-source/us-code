@@ -3,9 +3,10 @@ title: "Section 1403 - Mediation"
 usc_title: 2
 usc_section: "1403"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1403"
-generated_at: "2026-03-30T02:53:04.813Z"
+generated_at: "2026-11-23T20:25:28.964Z"
+status: "active"
 ---
 
 # § 1403. Mediation
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:04.813Z"
 - **(e)**
   - **(1)** The Executive Director shall develop and maintain a master list of individuals who are experienced in adjudicating, arbitrating, or mediating the kinds of personnel and other matters for which mediation may be held under this section. Such list may include, but not be limited to, members of the bar of a State or the District of Columbia and retired judges of the United States courts.
   - **(2)** In developing the master list under this subsection, the Executive Director shall consider candidates recommended by the Federal Mediation and Conciliation Service or the Administrative Conference of the United States.
+
+## Source Credit
+
+*([Pub. L. 104–1, title IV, § 404](https://www.govinfo.gov/link/plaw/104/public/1), formerly § 403, Jan. 23, 1995, [109 Stat. 32](https://www.govinfo.gov/link/statute/109/32); [Pub. L. 114–6, § 2(a)](https://www.govinfo.gov/link/plaw/114/public/6), Mar. 20, 2015, [129 Stat. 81](https://www.govinfo.gov/link/statute/129/81); renumbered § 404 and amended [Pub. L. 115–397, title I](https://www.govinfo.gov/link/plaw/115/public/397), §§ 101(c)(2), 104, Dec. 21, 2018, [132 Stat. 5301](https://www.govinfo.gov/link/statute/132/5301), 5305.)*

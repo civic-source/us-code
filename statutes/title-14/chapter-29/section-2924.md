@@ -3,9 +3,10 @@ title: "Section 2924 - Child development center employees"
 usc_title: 14
 usc_section: "2924"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 2924"
-generated_at: "2026-03-30T02:53:51.502Z"
+generated_at: "2026-11-23T20:25:54.630Z"
+status: "active"
 ---
 
 # § 2924. Child development center employees
@@ -28,3 +29,25 @@ generated_at: "2026-03-30T02:53:51.502Z"
     - **(D)** assisting with child abuse and neglect prevention and detection; and
     - **(E)** advising the director of the center on the performance of the other child care employees.
   - **(3)** Each specialist described in paragraph (1) shall be an employee in a competitive service position.
+
+Training.—
+
+In general
+
+Timing for new hires
+
+Minimum requirements
+
+Use of department of defense programs
+
+Training and Curriculum Specialists.—
+
+Specialist required
+
+Duties
+
+Competitive service
+
+## Source Credit
+
+*(Added [Pub. L. 113–281, title II, § 214(a)](https://www.govinfo.gov/link/plaw/113/public/281), Dec. 18, 2014, [128 Stat. 3032](https://www.govinfo.gov/link/statute/128/3032), § 554; renumbered § 2924, [Pub. L. 115–282, title I, § 117(b)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4230](https://www.govinfo.gov/link/statute/132/4230).)*

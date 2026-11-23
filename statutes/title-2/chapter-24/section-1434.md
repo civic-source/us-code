@@ -3,9 +3,10 @@ title: "Section 1434 - Judicial branch coverage study"
 usc_title: 2
 usc_section: "1434"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1434"
-generated_at: "2026-03-30T02:53:04.814Z"
+generated_at: "2026-11-23T20:25:28.975Z"
+status: "active"
 ---
 
 # § 1434. Judicial branch coverage study
@@ -23,3 +24,7 @@ The Judicial Conference of the United States shall prepare a report for submissi
   - **(9)** the Worker Adjustment and Retraining Notification Act ( 29 U.S.C. 2101 et seq.);
   - **(10)** the Rehabilitation Act of 1973 ( 29 U.S.C. 701 et seq.); and
   - **(11)** chapter 43 (relating to veterans’ employment and reemployment) of title 38.
+
+## Source Credit
+
+*([Pub. L. 104–1, title V, § 505](https://www.govinfo.gov/link/plaw/104/public/1), Jan. 23, 1995, [109 Stat. 41](https://www.govinfo.gov/link/statute/109/41).)*

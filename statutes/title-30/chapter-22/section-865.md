@@ -3,9 +3,10 @@ title: "Section 865 - Electrical equipment"
 usc_title: 30
 usc_section: "865"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 865"
-generated_at: "2026-03-30T02:55:29.390Z"
+generated_at: "2026-11-23T20:26:34.961Z"
+status: "active"
 ---
 
 # § 865. Electrical equipment
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:55:29.390Z"
 - **(p)** Each ungrounded, exposed power conductor that leads underground shall be equipped with suitable lightning arresters of approved type within one hundred feet of the point where the circuit enters the mine. Lightning arresters shall be connected to a low resistance grounding medium on the surface which shall be separated from neutral grounds by a distance of not less than twenty-five feet.
 - **(q)** No device for the purpose of lighting any coal mine which has not been approved by the Secretary or his authorized representative shall be permitted in such mine.
 - **(r)** An authorized representative of the Secretary may require in any mine that electric face equipment be provided with devices that will permit the equipment to be deenergized quickly in the event of an emergency.
+
+## Source Credit
+
+*([Pub. L. 91–173, title III, § 305](https://www.govinfo.gov/link/plaw/91/public/173), Dec. 30, 1969, [83 Stat. 775](https://www.govinfo.gov/link/statute/83/775).)*

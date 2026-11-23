@@ -3,9 +3,10 @@ title: "Section 4135 - Claims of stockholders"
 usc_title: 50
 usc_section: "4135"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4135"
-generated_at: "2026-03-30T02:56:26.267Z"
+generated_at: "2026-11-23T20:27:31.075Z"
+status: "active"
 ---
 
 # § 4135. Claims of stockholders
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:26.267Z"
 - **(b)** A claim under section 4132 of this title , based upon a direct ownership interest in a corporation, association, or other entity which suffered a loss within the meaning of said section, shall be allowed, subject to other provisions of this subchapter, if such corporation, association, or other entity on the date of the loss was not a national of the United States, without regard to the per centum of ownership vested in the claimant in any such claim.
 - **(c)** A claim under section 4132 of this title , based upon an indirect ownership interest in a corporation, association, or other entity which suffered a loss within the meaning of said section, shall be allowed, subject to other provisions of this subchapter, only if at least 25 per centum of the entire ownership interest thereof at the time of such loss was vested in nationals of the United States.
 - **(d)** Any award on a claim under subsection (b) or (c) of this section shall be calculated on the basis of the total loss suffered by such corporation, association, or other entity, and shall bear the same proportion to such loss as the ownership interest of the claimant bears to the entire ownership interest thereof.
+
+## Source Credit
+
+*(July 3, 1948, ch. 826, title II, § 205, as added [Pub. L. 87–846, title I, § 103](https://www.govinfo.gov/link/plaw/87/public/846), Oct. 22, 1962, [76 Stat. 1109](https://www.govinfo.gov/link/statute/76/1109).)*

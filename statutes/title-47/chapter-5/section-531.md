@@ -3,9 +3,10 @@ title: "Section 531 - Cable channels for public, educational, or governmental us
 usc_title: 47
 usc_section: "531"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 531"
-generated_at: "2026-03-30T02:56:24.517Z"
+generated_at: "2026-11-23T20:27:28.920Z"
+status: "active"
 ---
 
 # § 531. Cable channels for public, educational, or governmental use
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:24.517Z"
   - **(2)** rules and procedures under which such permitted use shall cease.
 - **(e)** Subject to section 544(d) of this title , a cable operator shall not exercise any editorial control over any public, educational, or governmental use of channel capacity provided pursuant to this section, except a cable operator may refuse to transmit any public access program or portion of a public access program which contains obscenity, indecency, or nudity.
 - **(f)** For purposes of this section, the term “institutional network” means a communication network which is constructed or operated by the cable operator and which is generally available only to subscribers who are not residential subscribers.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title VI, § 611, as added [Pub. L. 98–549, § 2](https://www.govinfo.gov/link/plaw/98/public/549), Oct. 30, 1984, [98 Stat. 2782](https://www.govinfo.gov/link/statute/98/2782); [Pub. L. 104–104, title V, § 506(a)](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 136](https://www.govinfo.gov/link/statute/110/136).)*

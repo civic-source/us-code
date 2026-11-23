@@ -3,9 +3,10 @@ title: "Section 276l - British-American Interparliamentary Group"
 usc_title: 22
 usc_section: "276l"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 276l"
-generated_at: "2026-03-30T02:55:05.310Z"
+generated_at: "2026-11-23T20:26:31.961Z"
+status: "active"
 ---
 
 # § 276l. British-American Interparliamentary Group
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:05.310Z"
 - **(d)** There is authorized to be appropriated $50,000 for each fiscal year to assist in meeting the expenses of the United States group for each fiscal year for which an appropriation is made, half of which shall be for the House delegation and half of which shall be for the Senate delegation. The House and Senate portions of such appropriations shall be disbursed on vouchers to be approved by the Chair of the House delegation and the Chair of the Senate delegation, respectively.
 - **(e)** The certificate of the Chair of the House delegation or the Senate delegation of the United States group shall be final and conclusive upon the accounting officers in the auditing of the accounts of the United States group.
 - **(f)** The United States group shall submit to the Congress a report for each fiscal year for which an appropriation is made for the United States group, which shall include its expenditures under such appropriation.
+
+## Source Credit
+
+*([Pub. L. 102–138, title I, § 168](https://www.govinfo.gov/link/plaw/102/public/138), Oct. 28, 1991, [105 Stat. 676](https://www.govinfo.gov/link/statute/105/676).)*

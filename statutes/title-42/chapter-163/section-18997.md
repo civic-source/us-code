@@ -3,9 +3,10 @@ title: "Section 18997 - Microelectronics workforce development activities"
 usc_title: 42
 usc_section: "18997"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18997"
-generated_at: "2026-03-30T02:56:11.536Z"
+generated_at: "2026-11-23T20:27:23.845Z"
+status: "active"
 ---
 
 # § 18997. Microelectronics workforce development activities
@@ -55,3 +56,7 @@ generated_at: "2026-03-30T02:56:11.536Z"
   - **(6)** In addition to any other requirements as determined appropriate by the Director, the Director shall require that proposals for awards under this section shall include a description of how the applicant will develop and implement outreach activities to increase the participation of women and other students from groups historically underrepresented in STEM.
   - **(7)** In carrying out the activities under this section, the Director shall ensure awardees coordinate with, and avoid unnecessary duplication of, the activities carried out under this Section 1 with the activities of the 21st Century Nanotechnology Research and Development Act ( Public Law 108–153 ), the National Quantum Initiative Act ( Public Law 115–368 ), and Division E of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, and other related programs, as appropriate.
   - **(8)** In carrying out activities under this section, the Director shall collaborate with the Subcommittee on Microelectronics Leadership of the National Science and Technology Council, established in subsection (a) of section 4656 of title 15 and the National Semiconductor Technology Center established in subsection (c) of section 4656 of title 15 .
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10318](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1532](https://www.govinfo.gov/link/statute/136/1532).)*

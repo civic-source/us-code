@@ -3,9 +3,10 @@ title: "Section 4902 - John W. McCormack Residential Page School"
 usc_title: 2
 usc_section: "4902"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 4902"
-generated_at: "2026-03-30T02:53:04.834Z"
+generated_at: "2026-11-23T20:25:29.051Z"
+status: "active"
 ---
 
 # § 4902. John W. McCormack Residential Page School
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:04.834Z"
   - **(2)** the conduct of pages generally; and
   - **(3)** other matters pertaining to the supervision, direction, safety, and well-being of pages in off-duty hours.
 - **(i)** Nothing in this part shall affect the operation of section 4903 of this title , relating to educational facilities of pages and other minors who are congressional employees.
+
+## Source Credit
+
+*([Pub. L. 91–510, title IV, § 492](https://www.govinfo.gov/link/plaw/91/public/510), Oct. 26, 1970, [84 Stat. 1199](https://www.govinfo.gov/link/statute/84/1199); [Pub. L. 93–198, title IV, § 421](https://www.govinfo.gov/link/plaw/93/public/198), Dec. 24, 1973, [87 Stat. 789](https://www.govinfo.gov/link/statute/87/789); [Pub. L. 104–186, title II, § 204(34)(C)](https://www.govinfo.gov/link/plaw/104/public/186), Aug. 20, 1996, [110 Stat. 1734](https://www.govinfo.gov/link/statute/110/1734).)*

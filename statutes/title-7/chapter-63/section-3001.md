@@ -3,12 +3,17 @@ title: "Section 3001 - Congressional statement of purpose"
 usc_title: 7
 usc_section: "3001"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 3001"
-generated_at: "2026-03-30T02:53:42.392Z"
+generated_at: "2026-11-23T20:25:41.552Z"
+status: "active"
 ---
 
 # § 3001. Congressional statement of purpose
 
 It is the purpose of this chapter to promote, through appropriate means and on an economically sustainable basis, the development and expansion of direct marketing of agricultural commodities from farmers to consumers. To accomplish this objective, the Secretary of Agriculture (hereinafter referred to as the “Secretary”) shall initiate and coordinate a program designed to facilitate direct marketing from farmers to consumers for the mutual benefit of consumers and farmers.
 
+
+## Source Credit
+
+*([Pub. L. 94–463, § 2](https://www.govinfo.gov/link/plaw/94/public/463), Oct. 8, 1976, [90 Stat. 1982](https://www.govinfo.gov/link/statute/90/1982).)*

@@ -3,12 +3,17 @@ title: "Section 610 - Permits to cut and remove timber; citizens of Washington C
 usc_title: 16
 usc_section: "610"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 610"
-generated_at: "2026-03-30T02:54:22.885Z"
+generated_at: "2026-11-23T20:26:20.188Z"
+status: "active"
 ---
 
 # § 610. Permits to cut and remove timber; citizens of Washington County and Kane County, Utah
 
 It shall be lawful for the Secretary of the Interior to grant permits under the provisions of section 607 of this title , to citizens of Washington County and of Kane County, Utah, to cut timber on the public lands of the counties of Mohave and Coconino, Arizona, for agricultural, mining, or other domestic purposes, and remove the timber so cut to said Washington County and Kane County, Utah.
 
+
+## Source Credit
+
+*(Mar. 3, 1891, ch. 561, § 8 (part), as added Feb. 27, 1922, ch. 82, [42 Stat. 398](https://www.govinfo.gov/link/statute/42/398).)*

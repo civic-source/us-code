@@ -3,9 +3,10 @@ title: "Section 5394 - Reports"
 usc_title: 25
 usc_section: "5394"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 5394"
-generated_at: "2026-03-30T02:54:52.871Z"
+generated_at: "2026-11-23T20:26:25.751Z"
+status: "active"
 ---
 
 # § 5394. Reports
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:52.871Z"
   - **(4)** before being submitted to Congress, be distributed to the Indian tribes for comment (with a comment period of no less than 30 days, beginning on the date of distribution); and
   - **(5)** include the separate views and comments of the Indian tribes or tribal organizations.
 - **(c)** Not later than 180 days after August 18, 2000 , the Secretary shall, after consultation with Indian tribes, submit a written report to the Committee on Resources of the House of Representatives and the Committee on Indian Affairs of the Senate that describes the method or methods used to determine the individual tribal share of funds controlled by all components of the Indian Health Service (including funds assessed by any other Federal agency) for inclusion in self-governance compacts or funding agreements.
+
+## Source Credit
+
+*([Pub. L. 93–638, title V, § 514](https://www.govinfo.gov/link/plaw/93/public/638), as added [Pub. L. 106–260, § 4](https://www.govinfo.gov/link/plaw/106/public/260), Aug. 18, 2000, [114 Stat. 728](https://www.govinfo.gov/link/statute/114/728).)*

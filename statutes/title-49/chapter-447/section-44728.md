@@ -3,9 +3,10 @@ title: "Section 44728 - Flight attendant certification"
 usc_title: 49
 usc_section: "44728"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44728"
-generated_at: "2026-03-30T02:56:19.386Z"
+generated_at: "2026-11-23T20:27:35.187Z"
+status: "active"
 ---
 
 # § 44728. Flight attendant certification
@@ -31,3 +32,31 @@ generated_at: "2026-03-30T02:56:19.386Z"
     - **(D)** carry out written and oral instructions regarding the proper performance of their duties.
   - **(2)** The requirements of paragraph (1) do not apply to a flight attendant serving solely between points outside the United States.
 - **(g)** In this section, the term “flight attendant” means an individual working as a flight attendant in the cabin of an aircraft that has 20 or more seats and is being used by an air carrier to provide air transportation.
+
+Certificate Required.—
+
+In general
+
+Special rule for current flight attendants
+
+Treatment of flight attendant after notification
+
+Issuance of Certificate
+
+Designation of Person To Determine Successful Completion of Training
+
+Specifications Relating to Certificates
+
+Approval of Training Programs
+
+Minimum Language Skills.—
+
+In general
+
+Foreign flights
+
+Flight Attendant Defined
+
+## Source Credit
+
+*(Added [Pub. L. 108–176, title VIII, § 814(a)](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2590](https://www.govinfo.gov/link/statute/117/2590); amended [Pub. L. 112–95, title III, § 304(a)](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 58](https://www.govinfo.gov/link/statute/126/58); [Pub. L. 115–254, div. B, title V, § 539(i)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3371](https://www.govinfo.gov/link/statute/132/3371); [Pub. L. 118–63, title XI, § 1101(p)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1414](https://www.govinfo.gov/link/statute/138/1414).)*

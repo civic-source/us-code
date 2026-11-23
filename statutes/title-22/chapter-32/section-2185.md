@@ -3,9 +3,10 @@ title: "Section 2185 - Trade credit insurance program for Poland"
 usc_title: 22
 usc_section: "2185"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2185"
-generated_at: "2026-03-30T02:55:05.349Z"
+generated_at: "2026-11-23T20:26:32.191Z"
+status: "active"
 ---
 
 # § 2185. Trade credit insurance program for Poland
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:55:05.349Z"
   - **(1)** the term “administering agency” means the Agency for International Development;
   - **(2)** the term “Administrator” means the Administrator of the Agency for International Development; and
   - **(3)** the term “Bank” means the Export-Import Bank of the United States.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 225, as added [Pub. L. 101–179, title III, § 304(a)](https://www.govinfo.gov/link/plaw/101/public/179), Nov. 28, 1989, [103 Stat. 1312](https://www.govinfo.gov/link/statute/103/1312).)*

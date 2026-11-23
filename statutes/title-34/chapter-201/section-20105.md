@@ -3,9 +3,10 @@ title: "Section 20105 - Compensation and assistance to victims of terrorism or m
 usc_title: 34
 usc_section: "20105"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 20105"
-generated_at: "2026-03-30T02:55:33.293Z"
+generated_at: "2026-11-23T20:26:50.577Z"
+status: "active"
 ---
 
 # § 20105. Compensation and assistance to victims of terrorism or mass violence
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:33.293Z"
     - **(B)** in the case of a person described in subparagraph (A) who is less than 18 years of age, incompetent, incapacitated, or deceased, includes a family member or legal guardian of that person.
   - **(3)** Nothing in this subsection shall be construed to allow the Director to make grants to any foreign power (as defined by section 1801(a) of title 50 ) or to any domestic or foreign organization operated for the purpose of engaging in any significant political or lobbying activities.
 - **(b)** The Director may make supplemental grants as provided in section 20101(d)(5) of this title to States for eligible crime victim compensation and assistance programs, and to victim service organizations, public agencies (including Federal, State, or local governments) and nongovernmental organizations that provide assistance to victims of crime, which shall be used to provide emergency relief, including crisis response efforts, assistance, compensation, training and technical assistance, and ongoing assistance, including during any investigation or prosecution, to victims of terrorist acts or mass violence occurring within the United States.
+
+## Source Credit
+
+*([Pub. L. 98–473, title II, § 1404B](https://www.govinfo.gov/link/plaw/98/public/473), as added [Pub. L. 104–132, title II, § 232(a)](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1243](https://www.govinfo.gov/link/statute/110/1243); amended [Pub. L. 106–386, div. C, § 2003(a)(1)](https://www.govinfo.gov/link/plaw/106/public/386), (4), Oct. 28, 2000, [114 Stat. 1543](https://www.govinfo.gov/link/statute/114/1543), 1544; [Pub. L. 107–56, title VI, § 624(a)](https://www.govinfo.gov/link/plaw/107/public/56), (b), Oct. 26, 2001, [115 Stat. 373](https://www.govinfo.gov/link/statute/115/373).)*

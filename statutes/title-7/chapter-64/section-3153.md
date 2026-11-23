@@ -3,9 +3,10 @@ title: "Section 3153 - National Agricultural Science Award"
 usc_title: 7
 usc_section: "3153"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 3153"
-generated_at: "2026-03-30T02:53:42.395Z"
+generated_at: "2026-11-23T20:25:41.566Z"
+status: "active"
 ---
 
 # § 3153. National Agricultural Science Award
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:42.395Z"
   - **(1)** to a scientist in recognition of outstanding contributions to the advancement of the food and agricultural sciences; and
   - **(2)** to a research scientist in early career development or a graduate student, in recognition of demonstrated capability and promise of significant future achievement in the food and agricultural sciences.
 - **(e)** The Secretary may establish such nominating and selection committees, to consist of scientists and others, to receive nominations and make recommendations for awards under this section, as the Secretary deems appropriate.
+
+## Source Credit
+
+*([Pub. L. 95–113, title XIV, § 1418](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 997](https://www.govinfo.gov/link/statute/91/997); [Pub. L. 97–98, title XIV, § 1420(a)](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1306](https://www.govinfo.gov/link/statute/95/1306).)*

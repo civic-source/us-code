@@ -3,9 +3,10 @@ title: "Section 651 - National small business tree planting program"
 usc_title: 15
 usc_section: "651"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 651"
-generated_at: "2026-03-30T02:54:08.104Z"
+generated_at: "2026-11-23T20:26:03.829Z"
+status: "active"
 ---
 
 # § 651. National small business tree planting program
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:08.104Z"
   - **(2)** the term “planting” includes watering, application of fertilizer and herbicides, pruning and shaping, and other subsequent care and maintenance for a period of three years after the trees are planted; and
   - **(3)** the term “State” includes any agency thereof.
 - **(h)** The Administrator shall submit annually to the President and the Congress a report on activities within the scope of this section.
+
+## Source Credit
+
+*([Pub. L. 85–536, § 2[24]](https://www.govinfo.gov/link/plaw/85/public/536), as added [Pub. L. 101–515, title V, § 4](https://www.govinfo.gov/link/plaw/101/public/515), Nov. 5, 1990, [104 Stat. 2140](https://www.govinfo.gov/link/statute/104/2140); amended [Pub. L. 103–211, title I, § 201](https://www.govinfo.gov/link/plaw/103/public/211), Feb. 12, 1994, [108 Stat. 5](https://www.govinfo.gov/link/statute/108/5); [Pub. L. 103–317, title IV](https://www.govinfo.gov/link/plaw/103/public/317), Aug. 26, 1994, [108 Stat. 1755](https://www.govinfo.gov/link/statute/108/1755).)*

@@ -3,9 +3,10 @@ title: "Section 6155 - Acceleration of removal or security of fissile materials,
 usc_title: 10
 usc_section: "6155"
 chapter: 603
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6155"
-generated_at: "2026-03-30T02:53:38.220Z"
+generated_at: "2026-11-23T20:25:52.016Z"
+status: "active"
 ---
 
 # § 6155. Acceleration of removal or security of fissile materials, radiological materials, and related equipment at vulnerable sites worldwide
@@ -51,3 +52,31 @@ generated_at: "2026-03-30T02:53:38.220Z"
   - **(5)** The term “low-enriched uranium” means uranium enriched below 20 percent in the isotope 235.
   - **(6)** The term “proliferation-attractive”, in the case of fissile materials and radiological materials, means quantities and types of such materials that are determined by the Secretary of Energy to present a significant risk to the national security of the United States if diverted to a use relating to proliferation.
   - **(7)** The term “alternative technologies” means technologies, such as accelerator-based equipment, that do not use radiological materials.
+
+Sense of Congress
+
+Program Authorized
+
+Program Elements
+
+Funding
+
+Participation by Other Governments and Organizations
+
+Definitions
+
+In general
+
+Programs covered
+
+Retention and use of amounts
+
+Return of amounts not used within
+
+years
+
+Annual report
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2), Dec. 18, 2025, [139 Stat. 1377](https://www.govinfo.gov/link/statute/139/1377), 1462.)*

@@ -3,9 +3,10 @@ title: "Section 791 - Advance contracting"
 usc_title: 6
 usc_section: "791"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 791"
-generated_at: "2026-03-30T02:53:09.500Z"
+generated_at: "2026-11-23T20:25:34.875Z"
+status: "active"
 ---
 
 # § 791. Advance contracting
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:53:09.500Z"
   - **(2)** Not later than 180 days after December 31, 2020 , the Administrator shall update and implement guidance for program office and acquisition personnel of the Agency to—
     - **(A)** identify acquisition planning time frames and considerations across the entire acquisition planning process of the Agency; and
     - **(B)** clearly communicate the purpose and use of a master acquisition planning schedule.
+
+## Source Credit
+
+*([Pub. L. 109–295, title VI, § 691](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1457](https://www.govinfo.gov/link/statute/120/1457); [Pub. L. 116–272, § 3(a)](https://www.govinfo.gov/link/plaw/116/public/272), Dec. 31, 2020, [134 Stat. 3349](https://www.govinfo.gov/link/statute/134/3349).)*

@@ -3,9 +3,10 @@ title: "Section 3 - Feasibility study funding"
 usc_title: 42
 usc_section: "3"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-30T02:56:11.068Z"
+generated_at: "2026-11-23T20:27:21.665Z"
+status: "active"
 ---
 
 # § 1397n–3. Feasibility study funding
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:56:11.068Z"
   - **(3)** The Secretary shall have the option to award no funding under this section.
 - **(e)** Not later than 9 months after the receipt of feasibility study funding under this section, a State or local government receiving the funding shall complete the feasibility study and submit the study to the Federal Interagency Council on Social Impact Partnerships.
 - **(f)** The Secretary may transfer to the head of another Federal agency the authorities provided in this section and any funds necessary to exercise the authorities.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XX, § 2054, as added [Pub. L. 115–123, div. E, title VIII, § 50802(2)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 275](https://www.govinfo.gov/link/statute/132/275).)*

@@ -3,9 +3,10 @@ title: "Section 1638a - Notice of country of origin"
 usc_title: 7
 usc_section: "1638a"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1638a"
-generated_at: "2026-03-30T02:53:42.333Z"
+generated_at: "2026-11-23T20:25:41.251Z"
+status: "active"
 ---
 
 # § 1638a. Notice of country of origin
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:53:42.333Z"
     - **(A)** the carcass grading and certification system carried out under this Act;
     - **(B)** the origin verification system established to carry out the child and adult care food program established under section 1766 of title 42 ; or
     - **(C)** the origin verification system established to carry out the market access program under section 5623(b) of this title .
+
+## Source Credit
+
+*(Aug. 14, 1946, ch. 966, title II, § 282, as added [Pub. L. 107–171, title X, § 10816](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 533](https://www.govinfo.gov/link/statute/116/533); amended [Pub. L. 107–206, title I, § 208](https://www.govinfo.gov/link/plaw/107/public/206), Aug. 2, 2002, [116 Stat. 833](https://www.govinfo.gov/link/statute/116/833); [Pub. L. 110–234, title XI, § 11002(2)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1352](https://www.govinfo.gov/link/statute/122/1352); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XI, § 11002(2), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2113; [Pub. L. 113–79, title XII, § 12104(b)(2)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 979](https://www.govinfo.gov/link/statute/128/979); [Pub. L. 114–113, div. A, title VII, § 759(b)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2285](https://www.govinfo.gov/link/statute/129/2285); [Pub. L. 115–334, title III, § 3201(b)(1)(C)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4616](https://www.govinfo.gov/link/statute/132/4616).)*

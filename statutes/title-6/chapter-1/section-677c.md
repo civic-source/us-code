@@ -3,9 +3,10 @@ title: "Section 677c - Cyber Response and Recovery Fund"
 usc_title: 6
 usc_section: "677c"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 677c"
-generated_at: "2026-03-30T02:53:09.497Z"
+generated_at: "2026-11-23T20:25:34.847Z"
+status: "active"
 ---
 
 # § 677c. Cyber Response and Recovery Fund
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:09.497Z"
   - **(2)** Any expenditure from the Fund for the purposes of this part shall be made from amounts available in the Fund from a deposit described in paragraph (1), and amounts available in the Fund shall be in addition to any other appropriations available to the Cybersecurity and Infrastructure Security Agency for such purposes.
 - **(c)** Amounts in the Fund shall be used to supplement, not supplant, other Federal, State, local, or Tribal funding for activities in response to a declaration.
 - **(d)** The Secretary shall require an entity that receives amounts from the Fund to submit a report to the Secretary that details the specific use of the amounts.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XXII, § 2234](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 117–58, div. G, title VI, § 70602(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1270](https://www.govinfo.gov/link/statute/135/1270).)*

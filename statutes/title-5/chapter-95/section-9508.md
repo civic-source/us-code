@@ -3,9 +3,10 @@ title: "Section 9508 - General workforce performance management system"
 usc_title: 5
 usc_section: "9508"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 9508"
-generated_at: "2026-03-30T02:52:56.073Z"
+generated_at: "2026-11-23T20:25:32.261Z"
+status: "active"
 ---
 
 # § 9508. General workforce performance management system
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:52:56.073Z"
 - **(d)**
   - **(1)** In applying sections 4303(b)(1)(A) and 7513(b)(1) to employees of the Internal Revenue Service, “30 days” may be deemed to be “15 days”.
   - **(2)** Notwithstanding the second sentence of section 5335(c), an employee of the Internal Revenue Service shall not have a right to appeal the denial of a periodic step increase under section 5335 to the Merit Systems Protection Board.
+
+## Source Credit
+
+*(Added [Pub. L. 105–206, title I, § 1201(a)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 715](https://www.govinfo.gov/link/statute/112/715); amended [Pub. L. 107–217, § 3(a)(3)](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1295](https://www.govinfo.gov/link/statute/116/1295).)*

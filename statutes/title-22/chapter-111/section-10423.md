@@ -3,9 +3,10 @@ title: "Section 10423 - Expedited review of export licenses for exports of advan
 usc_title: 22
 usc_section: "10423"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 10423"
-generated_at: "2026-03-30T02:55:05.477Z"
+generated_at: "2026-11-23T20:26:32.823Z"
+status: "active"
 ---
 
 # § 10423. Expedited review of export licenses for exports of advanced technologies to Australia, the United Kingdom, and Canada
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.477Z"
 - **(c)** The expedited decision-making process described in subsection (a) shall be available for both classified and unclassified items, and the process must satisfy the following criteria to the extent practicable:
   - **(1)** Any licensing application to export defense articles and services that is related to a government to government agreement must be approved, returned, or denied within 30 days of submission.
   - **(2)** For all other licensing requests, any review shall be completed not later than 45 calendar days after the date of application.
+
+## Source Credit
+
+*([Pub. L. 118–31, div. A, title XIII, § 1344](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 513](https://www.govinfo.gov/link/statute/137/513).)*

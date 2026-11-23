@@ -3,9 +3,10 @@ title: "Section 3479 - Use of facilities"
 usc_title: 20
 usc_section: "3479"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 3479"
-generated_at: "2026-03-30T02:54:48.179Z"
+generated_at: "2026-11-23T20:26:14.735Z"
+status: "active"
 ---
 
 # § 3479. Use of facilities
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:48.179Z"
 - **(b)** The Secretary is authorized to permit public and private agencies, corporations, associations, organizations, or individuals to use any real property, or any facilities, structures, or other improvements thereon, under the custody and control of the Secretary for Department purposes. The Secretary shall permit the use of such property, facilities, structures, or improvements under such terms and rates and for such period as may be in the public interest, except that the periods of such uses may not exceed five years. The Secretary may require permittees under this section to recondition and maintain, at their own expense, the real property, facilities, structures, and improvements used by such permittees to a standard satisfactory to the Secretary. This subsection shall not apply to excess property as defined in section 102(3) of title 40 .
 - **(c)** Proceeds from reimbursements under this section may be credited to the appropriation of funds that bear or will bear all or part of the cost of such equipment or facilities provided or to refund excess sums when necessary.
 - **(d)** Any interest in real property acquired pursuant to this chapter shall be acquired in the name of the United States Government.
+
+## Source Credit
+
+*([Pub. L. 96–88, title IV, § 419](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 686](https://www.govinfo.gov/link/statute/93/686); [Pub. L. 99–145, title XII, § 1204(a)(2)](https://www.govinfo.gov/link/plaw/99/public/145), Nov. 8, 1985, [99 Stat. 720](https://www.govinfo.gov/link/statute/99/720).)*

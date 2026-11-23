@@ -3,9 +3,10 @@ title: "Section 77ddd - Exempted securities and transactions"
 usc_title: 15
 usc_section: "77ddd"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 77ddd"
-generated_at: "2026-03-30T02:54:08.036Z"
+generated_at: "2026-11-23T20:26:03.454Z"
+status: "active"
 ---
 
 # § 77ddd. Exempted securities and transactions
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:08.036Z"
   - **(2)** would impose an undue burden on this issuer, having due regard to the public interest and the interests of investors.
 - **(d)** The Commission may, by rules or regulations upon its own motion, or by order on application by an interested person, exempt conditionally or unconditionally any person, registration statement, indenture, security or transaction, or any class or classes of persons, registration statements, indentures, securities, or transactions, from any one or more of the provisions of this subchapter, if and to the extent that such exemption is necessary or appropriate in the public interest and consistent with the protection of investors and the purposes fairly intended by this subchapter. The Commission shall by rules and regulations determine the procedures under which an exemption under this subsection shall be granted, and may, in its sole discretion, decline to entertain any application for an order of exemption under this subsection.
 - **(e)** The Commission may from time to time by its rules and regulations, and subject to such terms and conditions as may be prescribed herein, add to the securities exempted as provided in this section any class of securities issued by a small business investment company under the Small Business Investment Act of 1958 [ 15 U.S.C. 661 et seq.] if it finds, having regard to the purposes of that Act, that the enforcement of this subchapter with respect to such securities is not necessary in the public interest and for the protection of investors.
+
+## Source Credit
+
+*(May 27, 1933, ch. 38, title III, § 304, as added Aug. 3, 1939, ch. 411, [53 Stat. 1153](https://www.govinfo.gov/link/statute/53/1153); amended Aug. 10, 1954, ch. 667, title III, § 302, [68 Stat. 687](https://www.govinfo.gov/link/statute/68/687); [Pub. L. 85–699, title III, § 307(b)](https://www.govinfo.gov/link/plaw/85/public/699), Aug. 21, 1958, [72 Stat. 694](https://www.govinfo.gov/link/statute/72/694); [Pub. L. 86–760](https://www.govinfo.gov/link/plaw/86/public/760), Sept. 13, 1960, [74 Stat. 902](https://www.govinfo.gov/link/statute/74/902); [Pub. L. 89–754, title V, § 504(b)](https://www.govinfo.gov/link/plaw/89/public/754), Nov. 3, 1966, [80 Stat. 1278](https://www.govinfo.gov/link/statute/80/1278); [Pub. L. 91–567, § 6(c)](https://www.govinfo.gov/link/plaw/91/public/567), Dec. 22, 1970, [84 Stat. 1499](https://www.govinfo.gov/link/statute/84/1499); [Pub. L. 96–477, title III, § 302](https://www.govinfo.gov/link/plaw/96/public/477), Oct. 21, 1980, [94 Stat. 2291](https://www.govinfo.gov/link/statute/94/2291); [Pub. L. 101–550, title IV, § 403](https://www.govinfo.gov/link/plaw/101/public/550), Nov. 15, 1990, [104 Stat. 2722](https://www.govinfo.gov/link/statute/104/2722); [Pub. L. 104–290, title V, § 508(e)](https://www.govinfo.gov/link/plaw/104/public/290), Oct. 11, 1996, [110 Stat. 3448](https://www.govinfo.gov/link/statute/110/3448); [Pub. L. 105–353, title III, § 301(e)(2)](https://www.govinfo.gov/link/plaw/105/public/353), Nov. 3, 1998, [112 Stat. 3237](https://www.govinfo.gov/link/statute/112/3237); [Pub. L. 111–203, title IX, § 985(c)(1)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1934](https://www.govinfo.gov/link/statute/124/1934).)*

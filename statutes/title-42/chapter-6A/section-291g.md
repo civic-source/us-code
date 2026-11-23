@@ -3,9 +3,10 @@ title: "Section 291g - Withholding of payments; noncompliance with requirements"
 usc_title: 42
 usc_section: "291g"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 291g"
-generated_at: "2026-03-30T02:56:10.771Z"
+generated_at: "2026-11-23T20:27:20.353Z"
+status: "active"
 ---
 
 # § 291g. Withholding of payments; noncompliance with requirements
@@ -18,3 +19,7 @@ Whenever the Surgeon General, after reasonable notice and opportunity for hearin
 - **(d)** that adequate State funds are not being provided annually for the direct administration of the State plan,
 - **(e)** no further payments will be made to the State under this part, or
 - **(f)** no further payments will be made from the allotments of such State from appropriations under any one or more subparagraphs or paragraphs of section 291a of this title , or for any project or projects, designated by the Surgeon General as being affected by the action or inaction referred to in paragraph (a), (b), (c), or (d) of this section,
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VI, § 607, as added [Pub. L. 88–443, § 3(a)](https://www.govinfo.gov/link/plaw/88/public/443), Aug. 18, 1964, [78 Stat. 455](https://www.govinfo.gov/link/statute/78/455).)*

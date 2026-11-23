@@ -3,9 +3,10 @@ title: "Section 3607 - Termination of self-dealing contracts"
 usc_title: 15
 usc_section: "3607"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 3607"
-generated_at: "2026-03-30T02:54:08.191Z"
+generated_at: "2026-11-23T20:26:04.290Z"
+status: "active"
 ---
 
 # § 3607. Termination of self-dealing contracts
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:08.191Z"
   - **(2)** the developer owns 25 per centum or less of the units in the conversion project,
 - **(c)** A termination under this section shall be by a vote of owners of not less than two-thirds of the units other than the units owned by the developer or an affiliate of the developer.
 - **(d)** Following the unit owners’ vote, the termination shall be effective ninety days after hand delivering notice or mailing notice by prepaid United States mail to the parties to the contract.
+
+## Source Credit
+
+*([Pub. L. 96–399, title VI, § 608](https://www.govinfo.gov/link/plaw/96/public/399), Oct. 8, 1980, [94 Stat. 1676](https://www.govinfo.gov/link/statute/94/1676).)*

@@ -3,9 +3,10 @@ title: "Section 7201 - Short title and purpose"
 usc_title: 7
 usc_section: "7201"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7201"
-generated_at: "2026-03-30T02:53:42.444Z"
+generated_at: "2026-11-23T20:25:41.757Z"
+status: "active"
 ---
 
 # § 7201. Short title and purpose
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:42.444Z"
   - **(2)** to make nonrecourse marketing assistance loans and loan deficiency payments available for certain crops;
   - **(3)** to improve the operation of farm programs for milk, peanuts, and sugar; and
   - **(4)** to establish a commission to undertake a comprehensive review of past and future production agriculture in the United States.
+
+## Source Credit
+
+*([Pub. L. 104–127, title I, § 101](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 896](https://www.govinfo.gov/link/statute/110/896).)*

@@ -3,9 +3,10 @@ title: "Section 3355b - Identification, collection, and review for declassificat
 usc_title: 50
 usc_section: "3355b"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3355b"
-generated_at: "2026-03-30T02:56:26.247Z"
+generated_at: "2026-11-23T20:27:30.980Z"
+status: "active"
 ---
 
 # § 3355b. Identification, collection, and review for declassification of information of archival value or extraordinary public interest
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:26.247Z"
   - **(1)** If requested by the President, the Board shall review in a timely manner certain records or declinations to declassify specific records, the declassification of which has been the subject of specific congressional request described in section 3355a(b)(5) of this title .
   - **(2)** Upon receiving a congressional request described in section 3355a(b)(5) of this title , the Board may conduct the review and make the recommendations described in that section, regardless of whether such a review is requested by the President.
   - **(3)** Any recommendations submitted to the President by the Board under section 3355a(b)(5) of this title shall be submitted to the chairman and ranking minority member of the committee of Congress that made the request relating to such recommendations.
+
+## Source Credit
+
+*([Pub. L. 106–567, title VII, § 704](https://www.govinfo.gov/link/plaw/106/public/567), Dec. 27, 2000, [114 Stat. 2859](https://www.govinfo.gov/link/statute/114/2859); [Pub. L. 108–458, title I, § 1102(c)](https://www.govinfo.gov/link/plaw/108/public/458), (d), Dec. 17, 2004, [118 Stat. 3699](https://www.govinfo.gov/link/statute/118/3699); [Pub. L. 110–53, title VI, § 602(1)](https://www.govinfo.gov/link/plaw/110/public/53), (2), Aug. 3, 2007, [121 Stat. 335](https://www.govinfo.gov/link/statute/121/335); [Pub. L. 117–263, div. F, title LXVIII, § 6824(d)(2)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3615](https://www.govinfo.gov/link/statute/136/3615).)*

@@ -3,9 +3,10 @@ title: "Section 6111 - Supreme Court Building"
 usc_title: 40
 usc_section: "6111"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 6111"
-generated_at: "2026-03-30T02:55:43.381Z"
+generated_at: "2026-11-23T20:26:56.619Z"
+status: "active"
 ---
 
 # § 6111. Supreme Court Building
@@ -27,3 +28,48 @@ generated_at: "2026-03-30T02:55:43.381Z"
     - **(D)** without compliance with section 6101(b) to (d) of title 41—
       - **(i)** for snow removal (by hire of personnel and equipment or under contract); and
       - **(ii)** for the replacement of electrical transformers containing polychlorinated biphenyls.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 6111(a) | 40:13a(a). | May 7, 1934, ch. 222, § 1 , 48 Stat. 668 ; Pub. L. 95–431, title IV , (“Sec. 1(b) (less proviso)” in proviso in par. under heading “Care of the Building and Grounds”), Oct. 10, 1978 , 92 Stat. 1036 . |
+| 6111(b)(1) | 40:13a(b). |  |
+| 6111(b)(2) | 40:13a note. | Pub. L. 101–162, title IV , (proviso in par. under heading “Care of the Building and Grounds”), Nov. 21, 1989 , 103 Stat. 1010 . |
+
+
+In General.—
+
+Structural and mechanical care
+
+Operation and maintenance
+
+Contract authority
+
+Availability of Appropriations
+
+Historical and Revision Notes
+
+6111(a)
+
+May 7, 1934, ch. 222, § 1
+
+48 Stat. 668
+
+Pub. L. 95–431, title IV
+
+Oct. 10, 1978
+
+92 Stat. 1036
+
+6111(b)(1)
+
+6111(b)(2)
+
+Pub. L. 101–162, title IV
+
+Nov. 21, 1989
+
+103 Stat. 1010
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1180](https://www.govinfo.gov/link/statute/116/1180); [Pub. L. 109–284, § 6(18)](https://www.govinfo.gov/link/plaw/109/public/284), Sept. 27, 2006, [120 Stat. 1213](https://www.govinfo.gov/link/statute/120/1213); [Pub. L. 111–350, § 5](https://www.govinfo.gov/link/plaw/111/public/350) (l)(22), Jan. 4, 2011, [124 Stat. 3852](https://www.govinfo.gov/link/statute/124/3852).)*

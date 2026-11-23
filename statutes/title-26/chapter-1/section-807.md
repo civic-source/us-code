@@ -3,9 +3,10 @@ title: "Section 807 - Rules for certain reserves"
 usc_title: 26
 usc_section: "807"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 807"
-generated_at: "2026-03-30T02:55:27.729Z"
+generated_at: "2026-11-23T20:26:45.880Z"
+status: "active"
 ---
 
 # § 807. Rules for certain reserves
@@ -91,3 +92,29 @@ generated_at: "2026-03-30T02:55:27.729Z"
     - **(A)** the amount of the item at the close of the taxable year, computed on the new basis, and
     - **(B)** the amount of the item at the close of the taxable year, computed on the old basis,
   - **(2)** Except as provided in section 381(c)(22) (relating to carryovers in certain corporate readjustments), if for any taxable year the taxpayer is not a life insurance company, the balance of any adjustments under this subsection shall be taken into account for the preceding taxable year.
+
+In general
+
+Amount of reserve
+
+In general
+
+Transition rule
+
+Transition relief.—
+
+In general
+
+Method
+
+Mortality and morbidity tables
+
+Treatment of certain mutual assessment life insurance companies
+
+Statutory reserves
+
+“A company shall be treated as meeting the requirements of section 807(d)(3)(A)(iii) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], as amended by this Act, with respect to any directly-written noncancellable accident and health insurance contract (whether under existing or new plans of insurance) for any taxable year if—
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title II, § 211(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 726](https://www.govinfo.gov/link/statute/98/726); amended [Pub. L. 99–514, title X, § 1023(b)](https://www.govinfo.gov/link/plaw/99/public/514), title XVIII, § 1821(a), (s), Oct. 22, 1986, [100 Stat. 2399](https://www.govinfo.gov/link/statute/100/2399), 2837, 2843; [Pub. L. 100–203, title X, § 10241(a)](https://www.govinfo.gov/link/plaw/100/public/203) –(b)(2)(A), Dec. 22, 1987, [101 Stat. 1330–419](https://www.govinfo.gov/link/statute/101/1330), 1330–420; [Pub. L. 101–508, title XI, § 11302(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–449](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 104–188, title I, § 1704(t)(61)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1890](https://www.govinfo.gov/link/statute/110/1890); [Pub. L. 104–191, title III, § 321(b)](https://www.govinfo.gov/link/plaw/104/public/191), Aug. 21, 1996, [110 Stat. 2058](https://www.govinfo.gov/link/statute/110/2058); [Pub. L. 105–34, title X, § 1084(b)(2)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 954](https://www.govinfo.gov/link/statute/111/954); [Pub. L. 108–218, title II, § 205(b)(1)](https://www.govinfo.gov/link/plaw/108/public/218), (2), Apr. 10, 2004, [118 Stat. 610](https://www.govinfo.gov/link/statute/118/610); [Pub. L. 113–295, div. A, title II, § 221(a)(68)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4048](https://www.govinfo.gov/link/statute/128/4048); [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 13513(a), 13517(a)(1)–(3), Dec. 22, 2017, [131 Stat. 2143–2145](https://www.govinfo.gov/link/statute/131/2143); [Pub. L. 115–141, div. U, title IV, § 401(a)(141)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1191](https://www.govinfo.gov/link/statute/132/1191).)*

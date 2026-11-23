@@ -3,9 +3,10 @@ title: "Section 1910 - Implementation of audit agreements"
 usc_title: 48
 usc_section: "1910"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1910"
-generated_at: "2026-03-30T02:56:14.595Z"
+generated_at: "2026-11-23T20:27:28.096Z"
+status: "active"
 ---
 
 # § 1910. Implementation of audit agreements
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:14.595Z"
   - **(1)** The President shall cause an annual audit to be conducted of the annual financial statements described in sections 1902(c)(4) and 1903(m)(4) of this title. Such audit shall be conducted in accordance with the Generally Accepted Government Auditing Standards promulgated by the Comptroller General of the United States. Such audit shall be submitted to the Congress not later than 180 days after the end of the United States fiscal year.
   - **(2)** The President shall develop and implement procedures to carry out such audits. Such procedures shall include the matters described in sections 1902(c)(2) and 1903(m)(2) of this title.
 - **(c)** The Comptroller General of the United States shall have the authority to conduct the audits referred to in sections 1902(c)(1) and 1903(m)(1) of this title.
+
+## Source Credit
+
+*([Pub. L. 99–239, title I, § 110](https://www.govinfo.gov/link/plaw/99/public/239), Jan. 14, 1986, [99 Stat. 1798](https://www.govinfo.gov/link/statute/99/1798).)*

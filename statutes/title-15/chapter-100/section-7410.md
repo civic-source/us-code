@@ -3,9 +3,10 @@ title: "Section 7410 - Grant eligibility requirements and compliance with immigr
 usc_title: 15
 usc_section: "7410"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 7410"
-generated_at: "2026-03-30T02:54:08.222Z"
+generated_at: "2026-11-23T20:26:04.453Z"
+status: "active"
 ---
 
 # § 7410. Grant eligibility requirements and compliance with immigration laws
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:08.222Z"
 - **(c)** No grant or fellowship may be awarded under this chapter, directly or indirectly, to any institution of higher education or non-profit institution (or consortia thereof) that has—
   - **(1)** materially failed to comply with the recordkeeping and reporting requirements to receive nonimmigrant students or exchange visitor program participants under section 1101(a)(15)(F), (M), or (J) of title 8, or section 1372 of title 8 , as required by section 1762 of title 8 ; or
   - **(2)** been suspended or terminated pursuant to section 1762(c) of title 8 .
+
+## Source Credit
+
+*([Pub. L. 107–305, § 16](https://www.govinfo.gov/link/plaw/107/public/305), Nov. 27, 2002, [116 Stat. 2381](https://www.govinfo.gov/link/statute/116/2381).)*

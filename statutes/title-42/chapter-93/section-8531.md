@@ -3,9 +3,10 @@ title: "Section 8531 - Study and report"
 usc_title: 42
 usc_section: "8531"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8531"
-generated_at: "2026-03-30T02:56:11.345Z"
+generated_at: "2026-11-23T20:27:23.050Z"
+status: "active"
 ---
 
 # § 8531. Study and report
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.345Z"
   - **(1)** indicate to what extent storage activities have increased since November 1, 1978 , and what business establishments (including utilities) have been involved;
   - **(2)** the estimated amount of gasoline and middle distillates (in the aggregate and by type and region) which are in storage within the United States at the time of the study, the amounts which were in storage at the same time during the calendar year preceding the study, and the purposes for which such storage is maintained; and
   - **(3)** contain such findings and recommendations for legislation and administrative action as the Secretary considers appropriate, including recommendations for improving the availability and quality of data concerning such storage.
+
+## Source Credit
+
+*([Pub. L. 96–102, title II, § 241](https://www.govinfo.gov/link/plaw/96/public/102), Nov. 5, 1979, [93 Stat. 768](https://www.govinfo.gov/link/statute/93/768).)*

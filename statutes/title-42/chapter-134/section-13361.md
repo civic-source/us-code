@@ -3,9 +3,10 @@ title: "Section 13361 - Clean coal technology export promotion and interagency c
 usc_title: 42
 usc_section: "13361"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13361"
-generated_at: "2026-03-30T02:56:11.442Z"
+generated_at: "2026-11-23T20:27:23.482Z"
+status: "active"
 ---
 
 # § 13361. Clean coal technology export promotion and interagency coordination
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:56:11.442Z"
     - **(F)** a list of United States vendors of clean coal technologies; and
     - **(G)** answers to commonly asked questions about clean coal technologies, 1 1 So in original. The comma probably should be a period.
 - **(f)** Within 180 days after the Secretary submits the report to the Congress as required by section 409 of Public Law 101–549 , the Secretary, acting through the CCT Subgroup, shall provide to the appropriate committees of the House of Representatives and the Committee on Energy and Natural Resources of the Senate, a plan which details actions to be taken in order to address those recommendations and findings made in the report submitted pursuant to section 409 of Public Law 101–549 . As a part of the plan required by this subsection, the Secretary, acting through the CCT Subgroup, shall specifically address the adequacy of financial assistance available from Federal departments and agencies and international financing organizations to aid in the financing of prefeasibility and feasibility studies and projects that would use a clean coal technology in developing countries and countries making the transition from nonmarket to market economies.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XIII, § 1331](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2977](https://www.govinfo.gov/link/statute/106/2977).)*

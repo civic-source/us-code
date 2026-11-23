@@ -3,9 +3,10 @@ title: "Section 7377 - Certain civilian special agents: authority to execute war
 usc_title: 10
 usc_section: "7377"
 chapter: 747
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 7377"
-generated_at: "2026-03-30T02:53:38.230Z"
+generated_at: "2026-11-23T20:25:52.078Z"
+status: "active"
 ---
 
 # § 7377. Certain civilian special agents: authority to execute warrants and make arrests
@@ -15,3 +16,13 @@ generated_at: "2026-03-30T02:53:38.230Z"
   - **(1)** Subsection (a) applies to any employee of the Department of the Army who is a special agent of the Army Criminal Investigation Command (or a successor to that command) whose duties include conducting, supervising, or coordinating investigations of criminal activity in programs and operations of the Department of the Army.
   - **(2)** In addition to paragraph (1), during the four-year period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2025, subsection (a) applies to any employee of the Department of the Army who is a special agent of the Army Counterintelligence Command (or a successor to that command) whose duties include conducting, supervising, or coordinating counterintelligence investigations in programs and operations of the Department of the Army.
 - **(c)** The authority provided under subsection (a) shall be exercised in accordance with guidelines prescribed by the Secretary of the Army and approved by the Secretary of Defense and the Attorney General and any other applicable guidelines prescribed by the Secretary of the Army, the Secretary of Defense, or the Attorney General.
+
+Authority
+
+Agents To Have Authority
+
+Guidelines for Exercise of Authority
+
+## Source Credit
+
+*(Added [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title V, § 554(a)(1)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–126, § 4027; renumbered § 7377, [Pub. L. 115–232, div. A, title VIII, § 808(b)(15)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1839](https://www.govinfo.gov/link/statute/132/1839); amended [Pub. L. 118–159, div. A, title XVI, § 1613(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2168](https://www.govinfo.gov/link/statute/138/2168).)*

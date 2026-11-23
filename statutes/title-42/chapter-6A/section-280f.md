@@ -3,9 +3,10 @@ title: "Section 280f - Fetal alcohol spectrum disorders prevention, intervention
 usc_title: 42
 usc_section: "280f"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 280f"
-generated_at: "2026-03-30T02:56:10.728Z"
+generated_at: "2026-11-23T20:27:20.159Z"
+status: "active"
 ---
 
 # § 280f. Fetal alcohol spectrum disorders prevention, intervention, and services delivery program
@@ -35,3 +36,9 @@ generated_at: "2026-03-30T02:56:10.728Z"
     - **(A)** a designation of an individual to serve as a FASD State or Tribal coordinator of activities such eligible entity proposes to carry out through a grant, cooperative agreement, or contract under this section; and
     - **(B)** a description of an advisory committee the entity will establish to provide guidance for the entity on developing and implementing a statewide or Tribal strategic plan to prevent FASD and provide for the identification, treatment, and support of individuals with FASD and their families.
 - **(c)** For purposes of this section, the term “FASD-informed”, with respect to support or an intervention program, means that such support or intervention program uses culturally and linguistically informed evidence-based or practice-based interventions and appropriate resources to support an improved quality of life for an individual with FASD and the family of such individual.
+
+“Not later than 4 years after the date of enactment of this Act [ Dec. 1, 2025 ], and every year thereafter, the Secretary of Health and Human Services shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report containing—
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 399H, as added [Pub. L. 119–44, title I, § 104(a)](https://www.govinfo.gov/link/plaw/119/public/44), Dec. 1, 2025, [139 Stat. 671](https://www.govinfo.gov/link/statute/139/671).)*

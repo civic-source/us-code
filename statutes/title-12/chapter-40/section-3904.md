@@ -3,9 +3,10 @@ title: "Section 3904 - Reserves"
 usc_title: 12
 usc_section: "3904"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 3904"
-generated_at: "2026-03-30T02:53:53.498Z"
+generated_at: "2026-11-23T20:25:59.353Z"
+status: "active"
 ---
 
 # § 3904. Reserves
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:53.498Z"
   - **(2)** Such reserves shall be charged against current income and shall not be considered as part of capital and surplus or allowances for possible loan losses for regulatory, supervisory, or disclosure purposes.
 - **(b)** The appropriate Federal banking agencies shall analyze the results of foreign loan rescheduling negotiations, assess the loan loss risk reflected in rescheduling agreements, and, using the powers set forth in section 3907 of this title (regarding capital adequacy), ensure that the capital and reserve positions of United States banks are adequate to accommodate potential losses on their foreign loans.
 - **(c)** The appropriate Federal banking agencies shall promulgate regulations or orders necessary to implement this section within one hundred and twenty days after November 30, 1983 .
+
+## Source Credit
+
+*([Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title IX, § 905], Nov. 30, 1983, [97 Stat. 1279](https://www.govinfo.gov/link/statute/97/1279).)*

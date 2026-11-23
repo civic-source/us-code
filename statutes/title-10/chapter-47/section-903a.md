@@ -3,9 +3,10 @@ title: "Section 903a - Art. 103a. Espionage"
 usc_title: 10
 usc_section: "903a"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 903a"
-generated_at: "2026-03-30T02:53:38.085Z"
+generated_at: "2026-11-23T20:25:51.107Z"
+status: "active"
 ---
 
 # § 903a. Art. 103a. Espionage
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:53:38.085Z"
   - **(2)** In the commission of the offense, the accused knowingly created a grave risk of substantial damage to the national security.
   - **(3)** In the commission of the offense, the accused knowingly created a grave risk of death to another person.
   - **(4)** Any other factor that may be prescribed by the President by regulations under section 836 of this title (article 36).
+
+## Source Credit
+
+*(Added [Pub. L. 99–145, title V, § 534(a)](https://www.govinfo.gov/link/plaw/99/public/145), Nov. 8, 1985, [99 Stat. 634](https://www.govinfo.gov/link/statute/99/634), § 906a; renumbered § 903a, [Pub. L. 114–328, div. E, title LX, § 5401(7)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2938](https://www.govinfo.gov/link/statute/130/2938).)*

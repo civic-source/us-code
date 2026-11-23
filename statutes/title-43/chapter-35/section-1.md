@@ -3,9 +3,10 @@ title: "Section 1 - Wildfire technology modernization"
 usc_title: 43
 usc_section: "1"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1"
-generated_at: "2026-03-30T02:55:57.489Z"
+generated_at: "2026-11-23T20:27:06.370Z"
+status: "active"
 ---
 
 # § 1748b–1. Wildfire technology modernization
@@ -81,3 +82,7 @@ generated_at: "2026-03-30T02:55:57.489Z"
   - **(2)** precludes the Secretary concerned from using existing or future technology that—
     - **(A)** is more efficient, safer, or better meets the needs of firefighters, other personnel, or the public; and
     - **(B)** meets the objectives of this section.
+
+## Source Credit
+
+*([Pub. L. 116–9, title I, § 1114](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 615](https://www.govinfo.gov/link/statute/133/615).)*

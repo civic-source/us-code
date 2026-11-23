@@ -3,9 +3,10 @@ title: "Section 19081 - Facility operation and maintenance"
 usc_title: 42
 usc_section: "19081"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 19081"
-generated_at: "2026-03-30T02:56:11.538Z"
+generated_at: "2026-11-23T20:27:23.851Z"
+status: "active"
 ---
 
 # § 19081. Facility operation and maintenance
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.538Z"
     - **(D)** funding core elements of multi-disciplinary facilities; and
     - **(E)** supporting facility divestment costs; and
   - **(2)** if deemed effective, a plan for permanent implementation of the pilot program.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10371](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1570](https://www.govinfo.gov/link/statute/136/1570).)*

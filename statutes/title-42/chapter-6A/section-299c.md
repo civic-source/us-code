@@ -3,9 +3,10 @@ title: "Section 299c - Advisory Council for Healthcare Research and Quality"
 usc_title: 42
 usc_section: "299c"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 299c"
-generated_at: "2026-03-30T02:56:10.788Z"
+generated_at: "2026-11-23T20:27:20.429Z"
+status: "active"
 ---
 
 # § 299c. Advisory Council for Healthcare Research and Quality
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:56:10.788Z"
   - **(2)** Officials designated under subsection (c)(3) as ex officio members of the Advisory Council may not receive compensation for service on the Advisory Council in addition to the compensation otherwise received for duties carried out as officers of the United States.
 - **(i)** The Director shall provide to the Advisory Council such staff, information, and other assistance as may be necessary to carry out the duties of the Council.
 - **(j)** Notwithstanding section 1013(a) of title 5 , the Advisory Council shall continue in existence until otherwise provided by law.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title IX, § 941, formerly § 921, as added [Pub. L. 106–129, § 2(a)](https://www.govinfo.gov/link/plaw/106/public/129), Dec. 6, 1999, [113 Stat. 1663](https://www.govinfo.gov/link/statute/113/1663); amended [Pub. L. 108–173, title IX, § 900(e)(2)(D)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2372](https://www.govinfo.gov/link/statute/117/2372); renumbered § 931, [Pub. L. 109–41, § 2(a)(3)](https://www.govinfo.gov/link/plaw/109/public/41), July 29, 2005, [119 Stat. 424](https://www.govinfo.gov/link/statute/119/424); renumbered § 941, [Pub. L. 111–148, title III, § 3013(a)(2)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 381](https://www.govinfo.gov/link/statute/124/381); [Pub. L. 117–286, § 4(a)(242)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4332](https://www.govinfo.gov/link/statute/136/4332).)*

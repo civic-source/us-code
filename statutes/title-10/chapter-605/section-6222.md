@@ -3,9 +3,10 @@ title: "Section 6222 - Restrictions on access to national security laboratories 
 usc_title: 10
 usc_section: "6222"
 chapter: 605
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6222"
-generated_at: "2026-03-30T02:53:38.222Z"
+generated_at: "2026-11-23T20:25:52.022Z"
+status: "active"
 ---
 
 # § 6222. Restrictions on access to national security laboratories by foreign visitors from sensitive countries
@@ -38,3 +39,45 @@ generated_at: "2026-03-30T02:53:38.222Z"
     - **(C)** the Democratic People’s Republic of Korea; and
     - **(D)** the Islamic Republic of Iran.
   - **(3)** The term “sensitive countries list” means the list prescribed by the Secretary of Energy known as the Department of Energy List of Sensitive Countries.
+
+Background Review Required
+
+Sense of Congress Regarding Background Reviews
+
+Prohibition on Admittance
+
+Rule of Construction
+
+Definitions
+
+In general
+
+Waiver
+
+Facilities described
+
+Effective date
+
+In General
+
+Requirements
+
+Roles of Secretary and Director of National Intelligence and Director of Federal Bureau of Investigation.—
+
+Role of secretary
+
+Roles of director of national intelligence and director of federal bureau of investigation
+
+Termination
+
+Report Required
+
+Definitions
+
+Appropriate congressional committees
+
+National security laboratory
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2), Dec. 18, 2025, [139 Stat. 1401](https://www.govinfo.gov/link/statute/139/1401), 1462.)*

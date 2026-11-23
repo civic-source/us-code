@@ -3,9 +3,10 @@ title: "Section 285y - Additional contribution to special funds; authorization o
 usc_title: 22
 usc_section: "285y"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 285y"
-generated_at: "2026-03-30T02:55:05.317Z"
+generated_at: "2026-11-23T20:26:32.000Z"
+status: "active"
 ---
 
 # § 285y. Additional contribution to special funds; authorization of appropriations
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:05.317Z"
   - **(1)** The United States Governor of the Bank is authorized to contribute on behalf of the United States $520,000,000 to the Asian Development Fund, a special fund of the Bank.
   - **(2)** Any commitment to make the contribution authorized in paragraph (1) shall be made subject to obtaining the necessary appropriations.
 - **(b)** In order to pay for the United States contribution to the Asian Development Fund provided for in this section, there are authorized to be appropriated, without fiscal year limitation, $520,000,000 for payment by the Secretary of the Treasury.
+
+## Source Credit
+
+*([Pub. L. 89–369, § 28](https://www.govinfo.gov/link/plaw/89/public/369), as added [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title X, § 1002], Nov. 30, 1983, [97 Stat. 1286](https://www.govinfo.gov/link/statute/97/1286).)*

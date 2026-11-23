@@ -3,9 +3,10 @@ title: "Section 11 - Provisions relating to contributions and land exchange"
 usc_title: 16
 usc_section: "11"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 11"
-generated_at: "2026-03-30T02:54:22.865Z"
+generated_at: "2026-11-23T20:26:20.114Z"
+status: "active"
 ---
 
 # § 539m–11. Provisions relating to contributions and land exchange
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:54:22.865Z"
   - **(3)** Subject to the availability of appropriated funds the Secretary of the Treasury shall make reimbursement payments as provided in this section.
   - **(4)** Not later than 180 days after February 20, 2003 , applications for reimbursement shall be filed with the Department of the Treasury, Financial Management Service, Washington, D.C.
   - **(5)** No party shall be reimbursed in excess of $750,000 under this section, and the total amount reimbursed in accordance with this section shall not exceed $3,000,000.
+
+## Source Credit
+
+*([Pub. L. 108–7, div. F, title IV, § 413](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 292](https://www.govinfo.gov/link/statute/117/292); [Pub. L. 111–11, title III, § 3309](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1139](https://www.govinfo.gov/link/statute/123/1139); [Pub. L. 113–119, § 2](https://www.govinfo.gov/link/plaw/113/public/119), June 9, 2014, [128 Stat. 1185](https://www.govinfo.gov/link/statute/128/1185).)*

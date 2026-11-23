@@ -3,9 +3,10 @@ title: "Section 70502 - Definitions"
 usc_title: 46
 usc_section: "70502"
 chapter: 705
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 70502"
-generated_at: "2026-03-30T02:56:15.588Z"
+generated_at: "2026-11-23T20:27:27.457Z"
+status: "active"
 ---
 
 # § 70502. Definitions
@@ -45,3 +46,88 @@ generated_at: "2026-03-30T02:56:15.588Z"
 - **(f)** In this chapter:
   - **(1)** The term “semi-submersible vessel” means any watercraft constructed or adapted to be capable of operating with most of its hull and bulk under the surface of the water, including both manned and unmanned watercraft.
   - **(2)** The term “submersible vessel” means a vessel that is capable of operating completely below the surface of the water, including both manned and unmanned watercraft.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 70502(a) | 46 App.:1903(i). | Pub. L. 96–350, § 3(b) , (c), (i), Sept. 15, 1980 , 94 Stat. 1160 ; Pub. L. 99–570, title III, § 3202 , Oct. 27, 1986 , 100 Stat. 3207–95 , 3207–97; Pub. L. 99–640, § 17 , Nov. 10, 1986 , 100 Stat. 3552 , 3554; Pub. L. 100–690, title VII, § 7402(b) , Nov. 18, 1988 , 102 Stat. 4483 ; Pub. L. 104–324, § 1138(a)(1) –(3), (b), Oct. 19, 1996 , 110 Stat. 3988 , 3989; Pub. L. 107–295, title IV, § 418(a) , Nov. 25, 2002 , 116 Stat. 2123 . |
+| 70502(b) | 46 App.:1903(b). |  |
+| 70502(c) | 46 App.:1903(c)(1). |  |
+| 70502(d) | 46 App.:1903(c)(2). |  |
+| 70502(e) | 46 App.:1903(c)(3). |  |
+
+
+Application of Other Definitions
+
+Vessel of the United States
+
+Vessel Subject to the Jurisdiction of the United States
+
+In general
+
+Consent or waiver of objection
+
+Vessel Without Nationality
+
+In general
+
+Response to claim of registry
+
+Claim of Nationality or Registry
+
+Semi-submersible Vessel; Submersible Vessel
+
+Semi-submersible vessel
+
+Submersible vessel
+
+Historical and Revision Notes
+
+70502(a)
+
+Pub. L. 96–350, § 3(b)
+
+Sept. 15, 1980
+
+94 Stat. 1160
+
+Pub. L. 99–570, title III, § 3202
+
+Oct. 27, 1986
+
+100 Stat. 3207–95
+
+Pub. L. 99–640, § 17
+
+Nov. 10, 1986
+
+100 Stat. 3552
+
+Pub. L. 100–690, title VII, § 7402(b)
+
+Nov. 18, 1988
+
+102 Stat. 4483
+
+Pub. L. 104–324, § 1138(a)(1)
+
+Oct. 19, 1996
+
+110 Stat. 3988
+
+Pub. L. 107–295, title IV, § 418(a)
+
+Nov. 25, 2002
+
+116 Stat. 2123
+
+70502(b)
+
+70502(c)
+
+70502(d)
+
+70502(e)
+
+## Source Credit
+
+*([Pub. L. 109–304, § 10(2)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1685](https://www.govinfo.gov/link/statute/120/1685); [Pub. L. 109–241, title III, § 303](https://www.govinfo.gov/link/plaw/109/public/241), July 11, 2006, [120 Stat. 527](https://www.govinfo.gov/link/statute/120/527); [Pub. L. 110–181, div. C, title XXXV, § 3525(a)(6)](https://www.govinfo.gov/link/plaw/110/public/181), (b), Jan. 28, 2008, [122 Stat. 601](https://www.govinfo.gov/link/statute/122/601); [Pub. L. 110–407, title II, § 203](https://www.govinfo.gov/link/plaw/110/public/407), Oct. 13, 2008, [122 Stat. 4300](https://www.govinfo.gov/link/statute/122/4300); [Pub. L. 117–263, div. K, title CXV, § 11519](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4142](https://www.govinfo.gov/link/statute/136/4142).)*

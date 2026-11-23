@@ -3,9 +3,10 @@ title: "Section 2021d - Regional compacts for disposal of low-level radioactive 
 usc_title: 42
 usc_section: "2021d"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2021d"
-generated_at: "2026-03-30T02:56:11.146Z"
+generated_at: "2026-11-23T20:27:22.049Z"
+status: "active"
 ---
 
 # § 2021d. Regional compacts for disposal of low-level radioactive waste
@@ -30,3 +31,11 @@ generated_at: "2026-03-30T02:56:11.146Z"
   - **(1)** January 1, 1986 ; and
   - **(2)** the Congress by law consents to the compact.
 - **(d)** Each compact shall provide that every 5 years after the compact has taken effect the Congress may by law withdraw its consent.
+
+Consent of Congress
+
+Text of Compact
+
+## Source Credit
+
+*([Pub. L. 96–573, § 4](https://www.govinfo.gov/link/plaw/96/public/573), as added [Pub. L. 99–240, title I, § 102](https://www.govinfo.gov/link/plaw/99/public/240), Jan. 15, 1986, [99 Stat. 1845](https://www.govinfo.gov/link/statute/99/1845).)*

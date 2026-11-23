@@ -3,9 +3,10 @@ title: "Section 1519 - Relief that may be granted upon filing petition for recog
 usc_title: 11
 usc_section: "1519"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 1519"
-generated_at: "2026-03-30T02:53:53.888Z"
+generated_at: "2026-11-23T20:25:55.444Z"
+status: "active"
 ---
 
 # § 1519. Relief that may be granted upon filing petition for recognition
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:53.888Z"
 - **(d)** The court may not enjoin a police or regulatory act of a governmental unit, including a criminal action or proceeding, under this section.
 - **(e)** The standards, procedures, and limitations applicable to an injunction shall apply to relief under this section.
 - **(f)** The exercise of rights not subject to the stay arising under section 362(a) pursuant to paragraph (6), (7), (17), or (27) of section 362(b) or pursuant to section 362( o ) shall not be stayed by any order of a court or administrative agency in any proceeding under this chapter.
+
+## Source Credit
+
+*(Added [Pub. L. 109–8, title VIII, § 801(a)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 140](https://www.govinfo.gov/link/statute/119/140); amended [Pub. L. 111–327, § 2(a)(46)](https://www.govinfo.gov/link/plaw/111/public/327), Dec. 22, 2010, [124 Stat. 3562](https://www.govinfo.gov/link/statute/124/3562).)*

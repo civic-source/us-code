@@ -3,9 +3,10 @@ title: "Section 156 - Extension of patent term"
 usc_title: 35
 usc_section: "156"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "35 U.S.C. § 156"
-generated_at: "2026-03-30T02:55:34.237Z"
+generated_at: "2026-11-23T20:26:49.127Z"
+status: "active"
 ---
 
 # § 156. Extension of patent term
@@ -137,3 +138,7 @@ generated_at: "2026-03-30T02:55:34.237Z"
     - **(B)** the date an application is conditionally approved under section 571(b) of the Federal Food, Drug, and Cosmetic Act;
     - **(C)** the date a request for indexing is granted under section 572(d) of the Federal Food, Drug, and Cosmetic Act; or
     - **(D)** the date of issuance of the interim final rule controlling the drug under section 201(j) of the Controlled Substances Act.
+
+## Source Credit
+
+*(Added [Pub. L. 98–417, title II, § 201(a)](https://www.govinfo.gov/link/plaw/98/public/417), Sept. 24, 1984, [98 Stat. 1598](https://www.govinfo.gov/link/statute/98/1598); amended [Pub. L. 100–670, title II, § 201(a)](https://www.govinfo.gov/link/plaw/100/public/670) –(h), Nov. 16, 1988, [102 Stat. 3984–3987](https://www.govinfo.gov/link/statute/102/3984); [Pub. L. 103–179](https://www.govinfo.gov/link/plaw/103/public/179), §§ 5, 6, Dec. 3, 1993, [107 Stat. 2040](https://www.govinfo.gov/link/statute/107/2040), 2042; [Pub. L. 103–465, title V, § 532(c)(1)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4987](https://www.govinfo.gov/link/statute/108/4987); [Pub. L. 105–115, title I, § 125(b)(2)(P)](https://www.govinfo.gov/link/plaw/105/public/115), Nov. 21, 1997, [111 Stat. 2326](https://www.govinfo.gov/link/statute/111/2326); [Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4404, 4732(a)(10)(A)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–560, 1501A–582; [Pub. L. 107–273, div. C, title III, § 13206(a)(9)](https://www.govinfo.gov/link/plaw/107/public/273), (b)(1)(B), Nov. 2, 2002, [116 Stat. 1904](https://www.govinfo.gov/link/statute/116/1904), 1906; [Pub. L. 112–29, § 37(a)](https://www.govinfo.gov/link/plaw/112/public/29), Sept. 16, 2011, [125 Stat. 341](https://www.govinfo.gov/link/statute/125/341); [Pub. L. 114–89, § 2(c)](https://www.govinfo.gov/link/plaw/114/public/89), Nov. 25, 2015, [129 Stat. 700](https://www.govinfo.gov/link/statute/129/700).)*

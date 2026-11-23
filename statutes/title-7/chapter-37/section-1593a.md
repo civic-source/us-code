@@ -3,9 +3,10 @@ title: "Section 1593a - Seed variety information and survey"
 usc_title: 7
 usc_section: "1593a"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1593a"
-generated_at: "2026-03-30T02:53:42.328Z"
+generated_at: "2026-11-23T20:25:41.215Z"
+status: "active"
 ---
 
 # § 1593a. Seed variety information and survey
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:42.328Z"
   - **(2)** The Secretary shall disseminate varietal performance information obtained under paragraph (1) to plant breeders, producers, and end users.
 - **(b)** The Secretary shall periodically conduct, compile, and publish a survey of grain varieties commercially produced in the United States.
 - **(c)** The Secretary shall analyze the variety surveys conducted under subsection (b) in conjunction with available applied research information on intrinsic quality characteristics of the varieties, to evaluate general intrinsic crop quality characteristics and trends in production related to intrinsic quality characteristics. This information shall be disseminated as required by subsection (a)(2).
+
+## Source Credit
+
+*([Pub. L. 101–624, title XX, § 2013](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3933](https://www.govinfo.gov/link/statute/104/3933).)*

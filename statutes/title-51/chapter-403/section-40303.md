@@ -3,9 +3,10 @@ title: "Section 40303 - National space grant college and fellowship program"
 usc_title: 51
 usc_section: "40303"
 chapter: 403
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 40303"
-generated_at: "2026-03-30T02:56:28.706Z"
+generated_at: "2026-11-23T20:27:37.480Z"
+status: "active"
 ---
 
 # § 40303. National space grant college and fellowship program
@@ -29,3 +30,34 @@ generated_at: "2026-03-30T02:56:28.706Z"
 - **(e)** For any fiscal year in which the Administrator cannot meet the administration cost target under subsection (d)(2), if the Administration is unable to limit program costs under subsection (b), the Administrator shall submit to the appropriate committees of Congress a report, including—
   - **(1)** a description of why the Administrator did not meet the cost target under subsection (d); and
   - **(2)** the measures the Administrator will take in the next fiscal year to meet the cost target under subsection (d) without drawing upon other Federal funding.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 40303 | 42 U.S.C. 2486c . | Pub. L. 100–147, title II, § 205 , Oct. 30, 1987 , 101 Stat. 871 . |
+
+
+Establishment
+
+Functions
+
+General Authorities
+
+Program Administration Costs
+
+Reports
+
+Historical and Revision Notes
+
+40303
+
+42 U.S.C. 2486c
+
+Pub. L. 100–147, title II, § 205
+
+Oct. 30, 1987
+
+101 Stat. 871
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3383](https://www.govinfo.gov/link/statute/124/3383); [Pub. L. 114–329, title III, § 302(b)](https://www.govinfo.gov/link/plaw/114/public/329), Jan. 6, 2017, [130 Stat. 3003](https://www.govinfo.gov/link/statute/130/3003).)*

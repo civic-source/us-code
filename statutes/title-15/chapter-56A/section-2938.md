@@ -3,9 +3,10 @@ title: "Section 2938 - Relation to other authorities"
 usc_title: 15
 usc_section: "2938"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2938"
-generated_at: "2026-03-30T02:54:08.185Z"
+generated_at: "2026-11-23T20:26:04.262Z"
+status: "active"
 ---
 
 # § 2938. Relation to other authorities
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:08.185Z"
   - **(1)** the Environmental Protection Agency for use in the formulation of a coordinated national policy on global climate change pursuant to section 1103 of the Global Climate Protection Act of 1987 ( 15 U.S.C. 2901 note); and
   - **(2)** all Federal agencies and departments for use in the formulation of coordinated national policies for responding to human-induced and natural processes of global change pursuant to other statutory responsibilities and obligations.
 - **(c)** Nothing in this subchapter shall be construed, interpreted, or applied to preclude or delay the planning or implementation of any Federal action designed, in whole or in part, to address the threats of stratospheric ozone depletion or global climate change.
+
+## Source Credit
+
+*([Pub. L. 101–606, title I, § 108](https://www.govinfo.gov/link/plaw/101/public/606), Nov. 16, 1990, [104 Stat. 3101](https://www.govinfo.gov/link/statute/104/3101).)*

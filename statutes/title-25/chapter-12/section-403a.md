@@ -3,12 +3,17 @@ title: "Section 403a - Lease of lands on Port Madison and Snohomish or Tulalip I
 usc_title: 25
 usc_section: "403a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 403a"
-generated_at: "2026-03-30T02:54:52.807Z"
+generated_at: "2026-11-23T20:26:25.402Z"
+status: "active"
 ---
 
 # § 403a. Lease of lands on Port Madison and Snohomish or Tulalip Indian Reservations in Washington
 
 Notwithstanding any other provision of law, any Indian lands on the Port Madison and Snohomish or Tulalip Indian Reservations in the State of Washington, may be leased by the Indians with the approval of the Secretary of the Interior, and upon such terms and conditions as he may prescribe, for a term not exceeding twenty-five years: Provided, however , That such leases may provide for renewal for an additional term not exceeding twenty-five years, and the Secretary of the Interior is hereby authorized to prescribe such rules and regulations as may be necessary to carry out the provisions of this section.
 
+
+## Source Credit
+
+*(Oct. 9, 1940, ch. 781, [54 Stat. 1057](https://www.govinfo.gov/link/statute/54/1057).)*

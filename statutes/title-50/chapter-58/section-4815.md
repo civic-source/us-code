@@ -3,9 +3,10 @@ title: "Section 4815 - Licensing"
 usc_title: 50
 usc_section: "4815"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4815"
-generated_at: "2026-03-30T02:56:26.283Z"
+generated_at: "2026-11-23T20:27:31.143Z"
+status: "active"
 ---
 
 # § 4815. Licensing
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:56:26.283Z"
       - **(ii)** is included on—
         - **(I)** the list maintained and set forth in Supplement No. 4 to part 744 of the Export Administration Regulations; or
         - **(II)** the list maintained and set forth in Supplement No. 7 to part 744 of the Export Administration Regulations.
+
+## Source Credit
+
+*([Pub. L. 115–232, div. A, title XVII, § 1756](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2217](https://www.govinfo.gov/link/statute/132/2217); [Pub. L. 119–34, § 2](https://www.govinfo.gov/link/plaw/119/public/34), Aug. 19, 2025, [139 Stat. 488](https://www.govinfo.gov/link/statute/139/488).)*

@@ -3,9 +3,10 @@ title: "Section 2283 - Fish and wildlife mitigation"
 usc_title: 33
 usc_section: "2283"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2283"
-generated_at: "2026-03-30T02:55:41.120Z"
+generated_at: "2026-11-23T20:26:54.159Z"
+status: "active"
 ---
 
 # § 2283. Fish and wildlife mitigation
@@ -102,3 +103,7 @@ generated_at: "2026-03-30T02:55:41.120Z"
   - **(1)** The Secretary, with the consent of the applicable non-Federal interest, may use funds made available for preconstruction engineering and design after authorization of project construction to satisfy mitigation requirements through third-party arrangements or to acquire interests in land necessary for meeting mitigation requirements under this section.
   - **(2)** Prior to the expenditure of any funds for a project pursuant to paragraph (1), the Secretary shall notify the Committee on Appropriations and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Appropriations and the Committee on Environment and Public Works of the Senate.
 - **(k)** The Secretary shall consult with interested members of the public, the Director of the United States Fish and Wildlife Service, the Assistant Administrator for Fisheries of the National Oceanic and Atmospheric Administration, States, including State fish and game departments, and interested local governments to identify standard measures under subsection (h)(6)(C) that reflect the best available scientific information for evaluating habitat connectivity.
+
+## Source Credit
+
+*([Pub. L. 99–662, title IX, § 906](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4186](https://www.govinfo.gov/link/statute/100/4186); [Pub. L. 102–580, title III, § 333(a)](https://www.govinfo.gov/link/plaw/102/public/580), Oct. 31, 1992, [106 Stat. 4852](https://www.govinfo.gov/link/statute/106/4852); [Pub. L. 106–53, title II, § 221](https://www.govinfo.gov/link/plaw/106/public/53), Aug. 17, 1999, [113 Stat. 295](https://www.govinfo.gov/link/statute/113/295); [Pub. L. 106–541, title II, § 224(a)](https://www.govinfo.gov/link/plaw/106/public/541), Dec. 11, 2000, [114 Stat. 2597](https://www.govinfo.gov/link/statute/114/2597); [Pub. L. 110–114, title II, § 2036(a)](https://www.govinfo.gov/link/plaw/110/public/114), Nov. 8, 2007, [121 Stat. 1092](https://www.govinfo.gov/link/statute/121/1092); [Pub. L. 113–121, title I, § 1040(a)](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1239](https://www.govinfo.gov/link/statute/128/1239); [Pub. L. 114–322, title I, § 1162](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1668](https://www.govinfo.gov/link/statute/130/1668).)*

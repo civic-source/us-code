@@ -3,9 +3,10 @@ title: "Section 11001 - Enhanced personnel security programs"
 usc_title: 5
 usc_section: "11001"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 11001"
-generated_at: "2026-03-30T02:52:56.077Z"
+generated_at: "2026-11-23T20:25:32.270Z"
+status: "active"
 ---
 
 # § 11001. Enhanced personnel security programs
@@ -37,3 +38,43 @@ generated_at: "2026-03-30T02:52:56.077Z"
   - **(2)** the term “consumer reporting agency” has the meaning given that term in section 603 of the Fair Credit Reporting Act ( 15 U.S.C. 1681a );
   - **(3)** the term “covered individual” means an individual employed by an agency or a contractor of an agency who has been determined eligible for access to classified information or eligible to hold a sensitive position; and
   - **(4)** the term “enhanced personnel security program” means a program implemented by an agency at the direction of the Director of National Intelligence under subsection (a).
+
+Enhanced Personnel Security Program
+
+Comprehensiveness.—
+
+Sources of information
+
+Types of information
+
+Reviews of Covered Individuals.—
+
+Reviews.—
+
+In general
+
+Scope of reviews
+
+Individual reviews
+
+Results
+
+Information for covered individuals
+
+Limitation
+
+Authority of the president
+
+Effect on other reviews
+
+Definitions
+
+In general
+
+Requirements
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 114–113, div. M, title III, § 306(a)(1)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2914](https://www.govinfo.gov/link/statute/129/2914); amended [Pub. L. 116–92, div. E, title LXVII, § 6711](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2225](https://www.govinfo.gov/link/statute/133/2225); [Pub. L. 118–31, div. G, title III, § 7327(b)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1044](https://www.govinfo.gov/link/statute/137/1044).)*

@@ -3,9 +3,10 @@ title: "Section 3117 - Notice of counterintelligence assessments and investigati
 usc_title: 50
 usc_section: "3117"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3117"
-generated_at: "2026-03-30T02:56:26.236Z"
+generated_at: "2026-11-23T20:27:30.924Z"
+status: "active"
 ---
 
 # § 3117. Notice of counterintelligence assessments and investigations of Federal candidates or officeholders
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:26.236Z"
     - **(A)** the congressional intelligence committees; and
     - **(B)** the Committees on the Judiciary of the House of Representatives and the Senate.
   - **(2)** The terms “candidate” and “Federal office” have the meanings given those terms in section 30101 of title 52 .
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title V, § 518, as added [Pub. L. 119–60, div. F, title LXV, § 6521](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1630](https://www.govinfo.gov/link/statute/139/1630).)*

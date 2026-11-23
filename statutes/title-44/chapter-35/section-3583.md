@@ -3,9 +3,10 @@ title: "Section 3583 - Application to access data assets for developing evidence
 usc_title: 44
 usc_section: "3583"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "44 U.S.C. § 3583"
-generated_at: "2026-03-30T02:55:56.298Z"
+generated_at: "2026-11-23T20:27:03.843Z"
+status: "active"
 ---
 
 # § 3583. Application to access data assets for developing evidence
@@ -23,3 +24,13 @@ generated_at: "2026-03-30T02:55:56.298Z"
     - **(D)** Any other information, as appropriate, to ensure full transparency of the process established under this subsection.
 - **(b)** In establishing the process required under subsection (a), the Director shall consult with stakeholders, including the public, agencies, State and local governments, and representatives of non-governmental researchers.
 - **(c)** The head of each statistical agency or unit shall implement the process established under subsection (a).
+
+Standard Application Process
+
+Consultation
+
+Implementation
+
+## Source Credit
+
+*(Added [Pub. L. 115–435, title III, § 303(a)](https://www.govinfo.gov/link/plaw/115/public/435), Jan. 14, 2019, [132 Stat. 5555](https://www.govinfo.gov/link/statute/132/5555).)*

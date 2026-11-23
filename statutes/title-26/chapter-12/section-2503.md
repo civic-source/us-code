@@ -3,9 +3,10 @@ title: "Section 2503 - Taxable gifts"
 usc_title: 26
 usc_section: "2503"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 2503"
-generated_at: "2026-03-30T02:55:27.784Z"
+generated_at: "2026-11-23T20:26:46.170Z"
+status: "active"
 ---
 
 # § 2503. Taxable gifts
@@ -35,3 +36,11 @@ generated_at: "2026-03-30T02:55:27.784Z"
   - **(2)** For purposes of this section—
     - **(A)** The term “qualified work of art” means any archaeological, historic, or creative tangible personal property.
     - **(B)** The term “private foundation” has the meaning given such term by section 509, except that such term shall not include any private operating foundation (as defined in section 4942(j)(3)).
+
+In general
+
+Transitional rule
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 404; [Pub. L. 91–614, title I, § 102(a)(3)](https://www.govinfo.gov/link/plaw/91/public/614), Dec. 31, 1970, [84 Stat. 1839](https://www.govinfo.gov/link/statute/84/1839); [Pub. L. 95–600, title VII, § 702(j)(2)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2931](https://www.govinfo.gov/link/statute/92/2931); [Pub. L. 97–34, title III, § 311(h)(5)](https://www.govinfo.gov/link/plaw/97/public/34), title IV, §§ 441(a), (b), 442(a)(3), Aug. 13, 1981, [95 Stat. 282](https://www.govinfo.gov/link/statute/95/282), 319, 320; [Pub. L. 99–514, title XVIII, § 1898(h)(1)(B)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2957](https://www.govinfo.gov/link/statute/100/2957); [Pub. L. 100–647, title I, § 1018(s)(2)(A)](https://www.govinfo.gov/link/plaw/100/public/647), (u)(52), Nov. 10, 1988, [102 Stat. 3586](https://www.govinfo.gov/link/statute/102/3586), 3593; [Pub. L. 101–239, title VII, § 7811(m)(1)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2412](https://www.govinfo.gov/link/statute/103/2412); [Pub. L. 105–34, title V, § 501(c)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 846](https://www.govinfo.gov/link/statute/111/846); [Pub. L. 115–97, title I, § 11002(d)(1)(EE)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2060](https://www.govinfo.gov/link/statute/131/2060).)*

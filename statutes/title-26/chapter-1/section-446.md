@@ -3,9 +3,10 @@ title: "Section 446 - General rule for methods of accounting"
 usc_title: 26
 usc_section: "446"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 446"
-generated_at: "2026-03-30T02:55:27.700Z"
+generated_at: "2026-11-23T20:26:45.731Z"
+status: "active"
 ---
 
 # § 446. General rule for methods of accounting
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:27.700Z"
 - **(f)** If the taxpayer does not file with the Secretary a request to change the method of accounting, the absence of the consent of the Secretary to a change in the method of accounting shall not be taken into account—
   - **(1)** to prevent the imposition of any penalty, or the addition of any amount to tax, under this title, or
   - **(2)** to diminish the amount of such penalty or addition to tax.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 151; [Pub. L. 94–455, title XIX, § 1906](https://www.govinfo.gov/link/plaw/94/public/455) (b)(13)(A), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 98–369, div. A, title I, § 161(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 696](https://www.govinfo.gov/link/statute/98/696).)*

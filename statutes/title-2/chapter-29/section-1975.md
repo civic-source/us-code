@@ -3,9 +3,10 @@ title: "Section 1975 - Overseas travel"
 usc_title: 2
 usc_section: "1975"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1975"
-generated_at: "2026-03-30T02:53:04.822Z"
+generated_at: "2026-11-23T20:25:29.001Z"
+status: "active"
 ---
 
 # § 1975. Overseas travel
@@ -19,3 +20,11 @@ generated_at: "2026-03-30T02:53:04.822Z"
 - **(d)** The Capitol Police shall be reimbursed for the overtime pay, travel, and related expenses of any member of the Capitol Police who travels under the authority of this section. Any reimbursement under this subsection shall be paid from the account under the heading “ sergeant at arms and doorkeeper of the senate ” under the heading “ Contingent Expenses of the Senate ”.
 - **(e)** Any amounts received by the Capitol Police for reimbursements under subsection (d) shall be credited to the accounts established for the general expenses or salaries of the Capitol Police, and shall be available to carry out the purposes of such accounts during the fiscal year in which the amounts are received and the following fiscal year.
 - **(f)** This section shall apply to fiscal year 2005 and each fiscal year thereafter.
+
+sergeant at arms and doorkeeper of the senate
+
+Contingent Expenses of the Senate
+
+## Source Credit
+
+*([Pub. L. 108–447, div. G, title I, § 12](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3171](https://www.govinfo.gov/link/statute/118/3171).)*

@@ -3,9 +3,10 @@ title: "Section 8303 - Office of Volunteers for Prosperity"
 usc_title: 22
 usc_section: "8303"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8303"
-generated_at: "2026-03-30T02:55:05.450Z"
+generated_at: "2026-11-23T20:26:32.705Z"
+status: "active"
 ---
 
 # § 8303. Office of Volunteers for Prosperity
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:55:05.450Z"
   - **(2)** Amounts made available under paragraph (1) may be used by the VfP Office to provide personnel and other resources to develop, manage, and expand the VfP Program, under the supervision of the United States Agency for International Development.
 - **(e)** The VfP Office shall coordinate its efforts with other public and private efforts that aim to send skilled professionals to serve in developing nations.
 - **(f)** The VfP Office shall submit an annual report to Congress on the activities of the VfP Office.
+
+## Source Credit
+
+*([Pub. L. 111–13, title V, § 5103](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1598](https://www.govinfo.gov/link/statute/123/1598).)*

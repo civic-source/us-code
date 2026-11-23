@@ -3,9 +3,10 @@ title: "Section 649c - Eligibility for consideration for promotion"
 usc_title: 10
 usc_section: "649c"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 649c"
-generated_at: "2026-03-30T02:53:38.072Z"
+generated_at: "2026-11-23T20:25:51.033Z"
+status: "active"
 ---
 
 # § 649c. Eligibility for consideration for promotion
@@ -21,3 +22,17 @@ generated_at: "2026-03-30T02:53:38.072Z"
   - **(2)** An officer not included within the promotion zone.
   - **(3)** An officer who has failed of promotion to a higher grade the maximum number of times specified for opportunities for promotion for such grade within the competitive category concerned pursuant to section 649d of this title .
   - **(4)** An officer recommended by a selection board to be removed from consideration for promotion in accordance with section 649b(c) of this title .
+
+In General
+
+Inapplicability of Certain Time-in-grade Requirements
+
+Inapplicability to Officers Above and Below Promotion Zone
+
+Inapplicability of Requirement Relating to Opportunities for Consideration for Promotion
+
+Ineligibility of Certain Officers
+
+## Source Credit
+
+*(Added [Pub. L. 115–232, div. A, title V, § 507(a)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1745](https://www.govinfo.gov/link/statute/132/1745); amended [Pub. L. 116–283, div. A, title V, § 506](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3573](https://www.govinfo.gov/link/statute/134/3573).)*

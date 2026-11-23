@@ -3,9 +3,10 @@ title: "Section 8442 - Improved recreation visitation data"
 usc_title: 16
 usc_section: "8442"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 8442"
-generated_at: "2026-03-30T02:54:23.085Z"
+generated_at: "2026-11-23T20:26:20.882Z"
+status: "active"
 ---
 
 # § 8442. Improved recreation visitation data
@@ -68,3 +69,7 @@ generated_at: "2026-03-30T02:54:23.085Z"
     - **(B)** the Secretary of Agriculture, acting through the Chief of the Forest Service, with respect to lands under the jurisdiction of the Forest Service;
     - **(C)** the Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration, with respect to Federal waters under the jurisdiction of the National Oceanic and Atmospheric Administration; and
     - **(D)** the Assistant Secretary of Army for Civil Works, with respect to lakes and reservoirs under the jurisdiction of the U.S. Army Corps of Engineers.
+
+## Source Credit
+
+*([Pub. L. 118–234, title I, § 132](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2859](https://www.govinfo.gov/link/statute/138/2859).)*

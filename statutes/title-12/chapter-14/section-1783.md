@@ -3,9 +3,10 @@ title: "Section 1783 - National Credit Union Share Insurance Fund"
 usc_title: 12
 usc_section: "1783"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1783"
-generated_at: "2026-03-30T02:53:53.437Z"
+generated_at: "2026-11-23T20:25:59.068Z"
+status: "active"
 ---
 
 # § 1783. National Credit Union Share Insurance Fund
@@ -22,3 +23,13 @@ generated_at: "2026-03-30T02:53:53.437Z"
     - **(B)** If the borrowing authority of the Board is increased above $6,000,000,000 pursuant to subparagraph (A), the Board shall promptly submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives describing the reasons and need for the additional borrowing authority and its intended uses.
 - **(e)** So long as any loans to the fund are outstanding, the Board shall from time to time, not less often than annually, determine whether the balance in the fund is in excess of the amount which, in its judgment, is needed to meet the requirements of the fund and shall pay such excess to the Secretary of the Treasury, to be credited against the loans to the fund.
 - **(f)** In addition to the authority to borrow from the Secretary of the Treasury provided in subsection (d), if in the judgment of the Board, a loan to the fund is required at any time for carrying out the purposes of this subchapter, the fund is authorized to borrow from the National Credit Union Administration Central Liquidity Facility.
+
+Temporary increases authorized.—
+
+Recommendations for increase
+
+Report required
+
+## Source Credit
+
+*(June 26, 1934, ch. 750, title II, § 203, as added [Pub. L. 91–468, § 1(3)](https://www.govinfo.gov/link/plaw/91/public/468), Oct. 19, 1970, [84 Stat. 999](https://www.govinfo.gov/link/statute/84/999); amended [Pub. L. 94–273, § 2(4)](https://www.govinfo.gov/link/plaw/94/public/273), Apr. 21, 1976, [90 Stat. 375](https://www.govinfo.gov/link/statute/90/375); [Pub. L. 95–630, title V, § 502(b)](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3681](https://www.govinfo.gov/link/statute/92/3681); [Pub. L. 97–320, title V, § 530](https://www.govinfo.gov/link/plaw/97/public/320), Oct. 15, 1982, [96 Stat. 1535](https://www.govinfo.gov/link/statute/96/1535); [Pub. L. 98–369, div. B, title VIII, § 2811](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1206](https://www.govinfo.gov/link/statute/98/1206); [Pub. L. 111–22, div. A, title II, § 204(c)(2)](https://www.govinfo.gov/link/plaw/111/public/22), (3), May 20, 2009, [123 Stat. 1650](https://www.govinfo.gov/link/statute/123/1650).)*

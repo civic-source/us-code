@@ -3,9 +3,10 @@ title: "Section 2233 - Removal of civil liability barriers that discourage the d
 usc_title: 15
 usc_section: "2233"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2233"
-generated_at: "2026-03-30T02:54:08.171Z"
+generated_at: "2026-11-23T20:26:04.192Z"
+status: "active"
 ---
 
 # § 2233. Removal of civil liability barriers that discourage the donation of fire equipment to volunteer fire companies
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:08.171Z"
   - **(5)** The term “volunteer fire company” means an association of individuals who provide fire protection and other emergency services, where at least 30 percent of the individuals receive little or no compensation compared with an entry level full-time paid individual in that association or in the nearest such association with an entry level full-time paid individual.
   - **(6)** The term “authorized technician” means a technician who has been certified by the manufacturer of fire control or fire rescue equipment to inspect such equipment. The technician need not be employed by the State or local agency administering the distribution of the fire control or fire rescue equipment.
 - **(e)** This section applies only to liability for injury, damage, loss, or death caused by equipment that, for purposes of subsection (a), is donated on or after the date that is 30 days after March 9, 2006 .
+
+## Source Credit
+
+*([Pub. L. 109–177, title I, § 125](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 226](https://www.govinfo.gov/link/statute/120/226).)*

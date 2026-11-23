@@ -3,9 +3,10 @@ title: "Section 7703 - Establishment and management of the Millennium Challenge 
 usc_title: 22
 usc_section: "7703"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7703"
-generated_at: "2026-03-30T02:55:05.444Z"
+generated_at: "2026-11-23T20:26:32.677Z"
+status: "active"
 ---
 
 # § 7703. Establishment and management of the Millennium Challenge Corporation
@@ -53,3 +54,7 @@ generated_at: "2026-03-30T02:55:05.444Z"
         - **(I)** shall be paid compensation out of funds made available for the purposes of this chapter at the daily equivalent of the highest rate payable under section 5332 of title 5 for each day (including travel time) during which the member is engaged in the actual performance of duties as a member of the Board; and
         - **(II)** while away from the member’s home or regular place of business on necessary travel in the actual performance of duties as a member of the Board, shall be paid per diem, travel, and transportation expenses in the same manner as is provided under subchapter I of chapter 57 of title 5.
       - **(ii)** A member of the Board may not be paid compensation under clause (i)(II) for more than 90 days in any calendar year.
+
+## Source Credit
+
+*([Pub. L. 108–199, div. D, title VI, § 604](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 212](https://www.govinfo.gov/link/statute/118/212); [Pub. L. 115–167, title II, § 202](https://www.govinfo.gov/link/plaw/115/public/167), Apr. 23, 2018, [132 Stat. 1279](https://www.govinfo.gov/link/statute/132/1279).)*

@@ -3,9 +3,10 @@ title: "Section 72 - Donner und Blitzen River Redband Trout Reserve"
 usc_title: 16
 usc_section: "72"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 72"
-generated_at: "2026-03-30T02:54:22.844Z"
+generated_at: "2026-11-23T20:26:20.030Z"
+status: "active"
 ---
 
 # § 460nnn–72. Donner und Blitzen River Redband Trout Reserve
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:22.844Z"
   - **(3)** To the extent consistent with applicable law, the Secretary shall manage recreational activities in the Redband Trout Reserve in a manner that conserves the unique population of redband trout native to the Donner und Blitzen River.
   - **(4)** The Secretary shall remove the dam located below the mouth of Fish Creek and above Page Springs if removal of the dam is scientifically justified and funds are available for such purpose.
 - **(f)** The Secretary may work with, provide technical assistance to, provide community outreach and education programs for or with, or enter into cooperative agreements with private landowners, State and local governments or agencies, and conservation organizations to further the purposes of the Redband Trout Reserve.
+
+## Source Credit
+
+*([Pub. L. 106–399, title III, § 302](https://www.govinfo.gov/link/plaw/106/public/399), Oct. 30, 2000, [114 Stat. 1668](https://www.govinfo.gov/link/statute/114/1668).)*

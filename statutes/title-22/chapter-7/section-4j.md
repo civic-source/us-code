@@ -3,9 +3,10 @@ title: "Section 4j - Promotion of lending for environment"
 usc_title: 22
 usc_section: "4j"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4j"
-generated_at: "2026-03-30T02:55:05.307Z"
+generated_at: "2026-11-23T20:26:31.930Z"
+status: "active"
 ---
 
 # § 262p–4j. Promotion of lending for environment
@@ -26,3 +27,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
     - **(D)** the extraction of naturally occurring products from locally controlled protected areas; and
     - **(E)** indigenous knowledge of the management and use of natural resources; and
   - **(3)** the long-term benefits expected to be derived from maintaining biological diversity and climate stabilization.
+
+## Source Credit
+
+*([Pub. L. 95–118, title XVI, § 1615](https://www.govinfo.gov/link/plaw/95/public/118), as added [Pub. L. 101–240, title V, § 512](https://www.govinfo.gov/link/plaw/101/public/240), Dec. 19, 1989, [103 Stat. 2510](https://www.govinfo.gov/link/statute/103/2510).)*

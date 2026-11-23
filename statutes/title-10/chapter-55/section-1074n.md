@@ -3,9 +3,10 @@ title: "Section 1074n - Annual mental health assessments for members of the arme
 usc_title: 10
 usc_section: "1074n"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1074n"
-generated_at: "2026-03-30T02:53:38.101Z"
+generated_at: "2026-11-23T20:25:51.217Z"
+status: "active"
 ---
 
 # § 1074n. Annual mental health assessments for members of the armed forces
@@ -21,3 +22,17 @@ generated_at: "2026-03-30T02:53:38.101Z"
   - **(2)** The Secretary may treat periodic health assessments and other person-to-person assessments that are provided to members of the armed forces, including examinations under section 1074f of this title , as meeting the requirements for mental health assessments required under this section if the Secretary determines that such assessments and person-to-person assessments meet the requirements for mental health assessments established by this section.
 - **(d)** Any medical or other personal information obtained under this section shall be protected from disclosure or misuse in accordance with the laws on privacy applicable to such information.
 - **(e)** The Secretary of Defense shall, in consultation with the other administering Secretaries, prescribe regulations for the administration of this section.
+
+Mental Health Assessments
+
+Elements
+
+Sufficiency of Other Mental Health Assessments
+
+Privacy Matters
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 113–291, div. A, title VII, § 701(a)(1)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3408](https://www.govinfo.gov/link/statute/128/3408); amended [Pub. L. 115–91, div. A, title VII, § 706(b)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1436](https://www.govinfo.gov/link/statute/131/1436).)*

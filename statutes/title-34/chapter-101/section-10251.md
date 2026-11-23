@@ -3,9 +3,10 @@ title: "Section 10251 - General provisions"
 usc_title: 34
 usc_section: "10251"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10251"
-generated_at: "2026-03-30T02:55:33.264Z"
+generated_at: "2026-11-23T20:26:50.445Z"
+status: "active"
 ---
 
 # § 10251. General provisions
@@ -64,3 +65,15 @@ generated_at: "2026-03-30T02:55:33.264Z"
     - **(B)** under a legal agreement with a law enforcement agency.
 - **(b)** Where appropriate, the definitions in subsection (a) shall be based, with respect to any fiscal year, on the most recent data compiled by the United States Bureau of the Census and the latest published reports of the Office of Management and Budget available ninety days prior to the beginning of such fiscal year. The Office may by regulation change or otherwise modify the meaning of the terms defined in subsection (a) in order to reflect any technical change or modification thereof made subsequent to such date by the United States Bureau of the Census or the Office of Management and Budget.
 - **(c)** One or more public agencies, including existing local public agencies, may be designated by the chief executive officer of a State or a unit of local government to undertake a program or project in whole or in part.
+
+In general
+
+Exceptions.—
+
+Rescue squads and ambulance crews
+
+Heart attacks, strokes, and vascular ruptures
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 901](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 96–157, § 2](https://www.govinfo.gov/link/plaw/96/public/157), Dec. 27, 1979, [93 Stat. 1216](https://www.govinfo.gov/link/statute/93/1216); amended [Pub. L. 98–473, title II, § 609C](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2096](https://www.govinfo.gov/link/statute/98/2096); [Pub. L. 99–396, § 7](https://www.govinfo.gov/link/plaw/99/public/396), Aug. 27, 1986, [100 Stat. 839](https://www.govinfo.gov/link/statute/100/839); [Pub. L. 100–690, title VI, § 6092(b)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4339](https://www.govinfo.gov/link/statute/102/4339); [Pub. L. 101–219, title II, § 206](https://www.govinfo.gov/link/plaw/101/public/219), Dec. 12, 1989, [103 Stat. 1874](https://www.govinfo.gov/link/statute/103/1874); [Pub. L. 101–647, title XVIII, § 1801(c)](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4849](https://www.govinfo.gov/link/statute/104/4849); [Pub. L. 103–322, title II, § 20201(c)](https://www.govinfo.gov/link/plaw/103/public/322), title III, § 32101(c), title XXXIII, § 330001(d), (h)(13), Sept. 13, 1994, [108 Stat. 1822](https://www.govinfo.gov/link/statute/108/1822), 1900, 2138, 2140; [Pub. L. 105–244, title I, § 102(a)(13)(D)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1620](https://www.govinfo.gov/link/statute/112/1620); [Pub. L. 105–277, div. A, § 101(b) [title I, § 129(b)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–50](https://www.govinfo.gov/link/statute/112/2681), 2681–76; [Pub. L. 109–162, title XI](https://www.govinfo.gov/link/plaw/109/public/162), §§ 1111(c)(2)(F), 1156, Jan. 5, 2006, [119 Stat. 3102](https://www.govinfo.gov/link/statute/119/3102), 3114; [Pub. L. 112–239, div. A, title X, § 1086(b)(1)(A)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1964](https://www.govinfo.gov/link/statute/126/1964); [Pub. L. 117–325, § 2(a)](https://www.govinfo.gov/link/plaw/117/public/325), Dec. 27, 2022, [136 Stat. 4441](https://www.govinfo.gov/link/statute/136/4441).)*

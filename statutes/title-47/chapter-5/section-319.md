@@ -3,9 +3,10 @@ title: "Section 319 - Construction permits"
 usc_title: 47
 usc_section: "319"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 319"
-generated_at: "2026-03-30T02:56:24.508Z"
+generated_at: "2026-11-23T20:27:28.880Z"
+status: "active"
 ---
 
 # § 319. Construction permits
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:24.508Z"
 - **(b)** Such permit for construction shall show specifically the earliest and latest dates between which the actual operation of such station is expected to begin, and shall provide that said permit will be automatically forfeited if the station is not ready for operation within the time specified or within such further time as the Commission may allow, unless prevented by causes not under the control of the grantee.
 - **(c)** Upon the completion of any station for the construction or continued construction of which a permit has been granted, and upon it being made to appear to the Commission that all the terms, conditions, and obligations set forth in the application and permit have been fully met, and that no cause or circumstance arising or first coming to the knowledge of the Commission since the granting of the permit would, in the judgment of the Commission, make the operation of such station against the public interest, the Commission shall issue a license to the lawful holder of said permit for the operation of said station. Said license shall conform generally to the terms of said permit. The provisions of section 309(a)–(g) of this title shall not apply with respect to any station license the issuance of which is provided for and governed by the provisions of this subsection.
 - **(d)** A permit for construction shall not be required for Government stations, amateur stations, or mobile stations. A permit for construction shall not be required for public coast stations, privately owned fixed microwave stations, or stations licensed to common carriers, unless the Commission determines that the public interest, convenience, and necessity would be served by requiring such permits for any such stations. With respect to any broadcasting station, the Commission shall not have any authority to waive the requirement of a permit for construction, except that the Commission may by regulation determine that a permit shall not be required for minor changes in the facilities of authorized broadcast stations. With respect to any other station or class of stations, the Commission shall not waive the requirement for a construction permit unless the Commission determines that the public interest, convenience, and necessity would be served by such a waiver.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title III, § 319, [48 Stat. 1089](https://www.govinfo.gov/link/statute/48/1089); July 16, 1952, ch. 879, § 13, [66 Stat. 718](https://www.govinfo.gov/link/statute/66/718); Mar. 26, 1954, ch. 111, [68 Stat. 35](https://www.govinfo.gov/link/statute/68/35); [Pub. L. 86–609, § 2](https://www.govinfo.gov/link/plaw/86/public/609), July 7, 1960, [74 Stat. 363](https://www.govinfo.gov/link/statute/74/363); [Pub. L. 86–752, § 4(b)](https://www.govinfo.gov/link/plaw/86/public/752), Sept. 13, 1960, [74 Stat. 892](https://www.govinfo.gov/link/statute/74/892); [Pub. L. 87–444, § 4](https://www.govinfo.gov/link/plaw/87/public/444), Apr. 27, 1962, [76 Stat. 64](https://www.govinfo.gov/link/statute/76/64); [Pub. L. 97–259, title I](https://www.govinfo.gov/link/plaw/97/public/259), §§ 118, 119, Sept. 13, 1982, [96 Stat. 1095](https://www.govinfo.gov/link/statute/96/1095), 1096; [Pub. L. 102–538, title II, § 204(c)](https://www.govinfo.gov/link/plaw/102/public/538), Oct. 27, 1992, [106 Stat. 3543](https://www.govinfo.gov/link/statute/106/3543); [Pub. L. 104–104, title IV, § 403(m)](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 132](https://www.govinfo.gov/link/statute/110/132).)*

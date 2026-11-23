@@ -3,9 +3,10 @@ title: "Section 665l - School and daycare protection"
 usc_title: 6
 usc_section: "665l"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 665l"
-generated_at: "2026-03-30T02:53:09.480Z"
+generated_at: "2026-11-23T20:25:34.839Z"
+status: "active"
 ---
 
 # § 665l. School and daycare protection
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:09.480Z"
   - **(3)** A detailed description of the measures used to ensure privacy rights, civil rights, and civil liberties protections in carrying out these activities.
 - **(b)** Not later than 30 days after the submission of each report required under subsection (a), the Secretary of Homeland Security shall provide to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives a briefing regarding such report and the status of efforts to carry out plans included in such report for the preceding year.
 - **(c)** In this section, the terms “early childhood education program”, “elementary school”, and “secondary school” have the meanings given such terms in section 7801 of title 20 .
+
+## Source Credit
+
+*([Pub. L. 117–263, div. G, title LXXI, § 7103](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3621](https://www.govinfo.gov/link/statute/136/3621).)*

@@ -3,9 +3,10 @@ title: "Section 17124 - Advisory Committee on Energy Efficiency Finance"
 usc_title: 42
 usc_section: "17124"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17124"
-generated_at: "2026-03-30T02:56:11.498Z"
+generated_at: "2026-11-23T20:27:23.730Z"
+status: "active"
 ---
 
 # § 17124. Advisory Committee on Energy Efficiency Finance
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.498Z"
   - **(11)** residential lending.
 - **(c)** The Advisory Committee on Energy Efficiency Finance shall terminate on the date that is 10 years after December 19, 2007 .
 - **(d)** There are authorized to be appropriated such sums as are necessary to the Secretary for carrying out this section.
+
+## Source Credit
+
+*([Pub. L. 110–140, title IV, § 495](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1654](https://www.govinfo.gov/link/statute/121/1654).)*

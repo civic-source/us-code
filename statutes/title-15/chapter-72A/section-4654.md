@@ -3,9 +3,10 @@ title: "Section 4654 - Department of Commerce study on status of microelectronic
 usc_title: 15
 usc_section: "4654"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 4654"
-generated_at: "2026-03-30T02:54:08.201Z"
+generated_at: "2026-11-23T20:26:04.348Z"
+status: "active"
 ---
 
 # § 4654. Department of Commerce study on status of microelectronics technologies in the United States industrial base
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:08.201Z"
     - **(B)** A list of critical technology areas impacted by potential disruptions in production of microelectronics, and a detailed description and assessment of the impact of such potential disruptions on such areas.
     - **(C)** A description and assessment of gaps and vulnerabilities in the microelectronics supply chain and the national industrial supply base.
   - **(2)** The report required by paragraph (1) may be submitted in classified form.
+
+## Source Credit
+
+*([Pub. L. 116–283, div. H, title XCIX, § 9904](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4852](https://www.govinfo.gov/link/statute/134/4852).)*

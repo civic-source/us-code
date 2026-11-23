@@ -3,9 +3,10 @@ title: "Section 1 - Definitions"
 usc_title: 12
 usc_section: "1"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1"
-generated_at: "2026-03-30T02:53:53.393Z"
+generated_at: "2026-11-23T20:25:58.834Z"
+status: "active"
 ---
 
 # § 1441a–1. Definitions
@@ -20,3 +21,7 @@ For purposes of section 1441a–2 of this title :
     - **(A)** residential mortgage loans secured by 1- to 4-family or multifamily dwellings; and
     - **(B)** real property improved with 1- to 4-family or multifamily residential dwellings,
   - **(4)** The term “net income” means income after deduction of all associated expenses calculated in accordance with generally accepted accounting principles.
+
+## Source Credit
+
+*([Pub. L. 101–73, title XIII, § 1301](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 547](https://www.govinfo.gov/link/statute/103/547).)*

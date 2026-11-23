@@ -3,9 +3,10 @@ title: "Section 562 - Timing of damage measurement in connection with swap agree
 usc_title: 11
 usc_section: "562"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 562"
-generated_at: "2026-03-30T02:53:53.880Z"
+generated_at: "2026-11-23T20:25:55.377Z"
+status: "active"
 ---
 
 # § 562. Timing of damage measurement in connection with swap agreements, securities contracts, forward contracts, commodity contracts, repurchase agreements, and master netting agreements
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:53.880Z"
 - **(c)** For the purposes of subsection (b), if damages are not measured as of the date or dates of rejection, liquidation, termination, or acceleration, and the forward contract merchant, stockbroker, financial institution, securities clearing agency, repo participant, financial participant, master netting agreement participant, or swap participant or the trustee objects to the timing of the measurement of damages—
   - **(1)** the trustee, in the case of an objection by a forward contract merchant, stockbroker, financial institution, securities clearing agency, repo participant, financial participant, master netting agreement participant, or swap participant; or
   - **(2)** the forward contract merchant, stockbroker, financial institution, securities clearing agency, repo participant, financial participant, master netting agreement participant, or swap participant, in the case of an objection by the trustee,
+
+## Source Credit
+
+*(Added [Pub. L. 109–8, title IX, § 910(a)(1)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 184](https://www.govinfo.gov/link/statute/119/184).)*

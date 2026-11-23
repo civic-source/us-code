@@ -3,9 +3,10 @@ title: "Section 32304A - Consumer tire information and standards"
 usc_title: 49
 usc_section: "32304A"
 chapter: 323
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 32304A"
-generated_at: "2026-03-30T02:56:19.363Z"
+generated_at: "2026-11-23T20:27:34.986Z"
+status: "active"
 ---
 
 # § 32304A. Consumer tire information and standards
@@ -49,3 +50,65 @@ generated_at: "2026-03-30T02:56:19.363Z"
 - **(f)** The Secretary shall conduct periodic assessments of the rules promulgated under this section to determine the utility of such rules to consumers, the level of cooperation by industry, and the contribution to national goals pertaining to energy consumption. The Secretary shall transmit periodic reports detailing the findings of such assessments to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Energy and Commerce.
 - **(g)** The Secretary shall not require permanent labeling of any kind on a tire for the purpose of tire fuel efficiency information.
 - **(h)** Nothing in this section prohibits a State or political subdivision thereof from enforcing a law or regulation on tire fuel efficiency consumer information that was in effect on January 1, 2006 . After a requirement promulgated under this section is in effect, a State or political subdivision thereof may adopt or enforce a law or regulation on tire fuel efficiency consumer information enacted or promulgated after January 1, 2006 , if the requirements of that law or regulation are identical to the requirement promulgated under this section. Nothing in this section shall be construed to preempt a State or political subdivision thereof from regulating the fuel efficiency of tires (including establishing testing methods for determining compliance with such standards) not otherwise preempted under this chapter.
+
+Consumer Tire Information.—
+
+In general
+
+Items included in rule
+
+Applicability
+
+Promulgation of Regulations for Tire Fuel Efficiency Minimum Performance Standards.—
+
+In general
+
+Tire fuel efficiency minimum performance standards.—
+
+Standard basis and test procedures
+
+No disparate effect on high performance tires
+
+Applicability.—
+
+In general
+
+Exceptions
+
+Promulgation of Regulations for Tire Wet Traction Minimum Performance Standards.—
+
+In general
+
+Tire wet traction minimum performance standards.—
+
+Basis of standard
+
+Test procedures
+
+Benchmarking
+
+Applicability.—
+
+In general
+
+Exceptions
+
+Coordination Among Regulations.—
+
+Compatibility
+
+Combined effect of rules
+
+Rulemaking deadlines
+
+Consultation
+
+Report to Congress
+
+Tire Marking
+
+Application With State and Local Laws and Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 110–140, title I, § 111(a)](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1506](https://www.govinfo.gov/link/statute/121/1506); amended [Pub. L. 114–94, div. B, title XXIV, § 24332](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1713](https://www.govinfo.gov/link/statute/129/1713).)*

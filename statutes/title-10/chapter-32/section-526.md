@@ -3,9 +3,10 @@ title: "Section 526 - Authorized strength: general officers and flag officers on
 usc_title: 10
 usc_section: "526"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 526"
-generated_at: "2026-03-30T02:53:38.065Z"
+generated_at: "2026-11-23T20:25:50.994Z"
+status: "active"
 ---
 
 # § 526. Authorized strength: general officers and flag officers on active duty
@@ -66,3 +67,47 @@ generated_at: "2026-03-30T02:53:38.065Z"
   - **(4)** The Secretary may not increase the maximum number of general officers or flag officers under paragraph (1) until the date that is 30 days after the date on which the Secretary provides, to the Committees on Armed Services of the Senate and the House of Representatives, written notice of—
     - **(A)** such increase; and
     - **(B)** each offsetting reduction under paragraph (2), specifying the armed force and billet so reduced.
+
+Limitations
+
+Limited Exclusion for Joint Duty Requirements.—
+
+In general
+
+Minimum number
+
+Exclusion of Certain Officers of Reserve Components and of the Space Force
+
+Exclusion of Certain Officers Pending Separation or Retirement or Between Senior Positions
+
+Temporary Exclusion for Assignment to Certain Temporary Billets.—
+
+In general
+
+Duration of exclusion
+
+Exclusion of Officers Departing From Joint Duty Assignments
+
+Exclusion of Medical Officer of Marine Corps
+
+Secretary of Defense Adaptive Force Account
+
+Active-Duty Baseline.—
+
+Notice and wait requirements
+
+Baseline defined
+
+Joint Duty Assignment Baseline.—
+
+Notice and wait requirement
+
+Baseline defined
+
+Annual Report
+
+Transfer of Authorizations Among the Military Services
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. A, title V, § 501(h)(1)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2100](https://www.govinfo.gov/link/statute/130/2100), § 526a; amended [Pub. L. 116–283, div. A, title V, § 501(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3562](https://www.govinfo.gov/link/statute/134/3562); [Pub. L. 117–81, div. A, title V, § 501(b)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1679](https://www.govinfo.gov/link/statute/135/1679); [Pub. L. 117–263, div. A, title V, § 504](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2558](https://www.govinfo.gov/link/statute/136/2558); renumbered § 526 and amended [Pub. L. 118–31, div. A, title V, § 501(a)(2)](https://www.govinfo.gov/link/plaw/118/public/31), (4), (b), title XVIII, § 1801(a)(9), Dec. 22, 2023, [137 Stat. 240](https://www.govinfo.gov/link/statute/137/240), 684; [Pub. L. 118–159, div. A, title V](https://www.govinfo.gov/link/plaw/118/public/159), §§ 502(a), 509B(c), Dec. 23, 2024, [138 Stat. 1868](https://www.govinfo.gov/link/statute/138/1868), 1873; [Pub. L. 119–60, div. A, title V](https://www.govinfo.gov/link/plaw/119/public/60), §§ 501(b), 502, Dec. 18, 2025, [139 Stat. 853](https://www.govinfo.gov/link/statute/139/853), 854.)*

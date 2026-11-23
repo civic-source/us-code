@@ -3,9 +3,10 @@ title: "Section 1785 - Fossil Forest Research Natural Area"
 usc_title: 43
 usc_section: "1785"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1785"
-generated_at: "2026-03-30T02:55:57.493Z"
+generated_at: "2026-11-23T20:27:06.382Z"
+status: "active"
 ---
 
 # § 1785. Fossil Forest Research Natural Area
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:55:57.493Z"
     - **(B)** provisions for vehicle management that are consistent with the purpose of the Area and that provide for the use of vehicles to the minimum extent necessary to accomplish an individual scientific project;
     - **(C)** procedures for the excavation and collection of fossil remains, including botanical fossils, and the use of motorized and mechanical equipment to the minimum extent necessary to accomplish an individual scientific project; and
     - **(D)** mitigation and reclamation standards for activities that disturb the surface to the detriment of scenic and environmental values.
+
+## Source Credit
+
+*([Pub. L. 98–603, title I, § 103](https://www.govinfo.gov/link/plaw/98/public/603), Oct. 30, 1984, [98 Stat. 3156](https://www.govinfo.gov/link/statute/98/3156); [Pub. L. 104–333, div. I, title X, § 1022(e)](https://www.govinfo.gov/link/plaw/104/public/333), Nov. 12, 1996, [110 Stat. 4213](https://www.govinfo.gov/link/statute/110/4213); [Pub. L. 106–176, title I, § 124](https://www.govinfo.gov/link/plaw/106/public/176), Mar. 10, 2000, [114 Stat. 30](https://www.govinfo.gov/link/statute/114/30).)*

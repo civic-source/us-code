@@ -3,9 +3,10 @@ title: "Section 1637a - Disclosure requirements for open end consumer credit pla
 usc_title: 15
 usc_section: "1637a"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1637a"
-generated_at: "2026-03-30T02:54:08.140Z"
+generated_at: "2026-11-23T20:26:04.041Z"
+status: "active"
 ---
 
 # § 1637a. Disclosure requirements for open end consumer credit plans secured by consumer’s principal dwelling
@@ -92,3 +93,19 @@ generated_at: "2026-03-30T02:54:08.140Z"
 - **(e)** In addition to the disclosures required under subsection (a) with respect to an application to open an account under any open end consumer credit plan described in such subsection, the creditor or other person providing such disclosures to the consumer shall provide—
   - **(1)** a pamphlet published by the Bureau pursuant to section 4 of the Home Equity 1 1 So in original. Probably should be followed by “Loan”. Consumer Protection Act of 1988; or
   - **(2)** any pamphlet which provides substantially similar information to the information described in such section, as determined by the Bureau.
+
+In general
+
+Effective date
+
+Regulations
+
+Effective Date
+
+Voluntary Compliance
+
+“The Board of Governors of the Federal Reserve System shall develop and prepare a pamphlet for distribution to consumers which contains—
+
+## Source Credit
+
+*([Pub. L. 90–321, title I, § 127A](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 100–709, § 2(a)](https://www.govinfo.gov/link/plaw/100/public/709), Nov. 23, 1988, [102 Stat. 4725](https://www.govinfo.gov/link/statute/102/4725); amended [Pub. L. 109–8, title XIII, § 1302(a)(1)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 208](https://www.govinfo.gov/link/statute/119/208); [Pub. L. 111–203, title X, § 1100A(2)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2107](https://www.govinfo.gov/link/statute/124/2107).)*

@@ -3,9 +3,10 @@ title: "Section 300u - General authority of Secretary"
 usc_title: 42
 usc_section: "300u"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 300u"
-generated_at: "2026-03-30T02:56:10.809Z"
+generated_at: "2026-11-23T20:27:20.527Z"
+status: "active"
 ---
 
 # § 300u. General authority of Secretary
@@ -34,3 +35,51 @@ generated_at: "2026-03-30T02:56:10.809Z"
     - **(D)** support projects, conduct research, and disseminate information relating to preventive medicine, health promotion, and physical fitness and sports medicine.
 - **(b)** For the purpose of carrying out this section and sections 300u–1 through 300u–4 of this title, there are authorized to be appropriated $10,000,000 for fiscal year 1992, and such sums as may be necessary for each of the fiscal years 1993 through 2002.
 - **(c)** No grant may be made or contract entered into under this subchapter unless an application therefor has been submitted to and approved by the Secretary. Such an application shall be submitted in such form and manner and contain such information as the Secretary may prescribe. Contracts may be entered into under this subchapter without regard to section 3324(a) and (b) of title 31 and section 6101 of title 41 .
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Section
+
+Sec
+
+Sec
+
+George W. Bush.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+George W. Bush.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+George W. Bush.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XVII, § 1701, as added [Pub. L. 94–317, title I, § 102](https://www.govinfo.gov/link/plaw/94/public/317), June 23, 1976, [90 Stat. 695](https://www.govinfo.gov/link/statute/90/695); amended [Pub. L. 96–32, § 7(n)](https://www.govinfo.gov/link/plaw/96/public/32), July 10, 1979, [93 Stat. 85](https://www.govinfo.gov/link/statute/93/85); [Pub. L. 96–76, title II, § 209](https://www.govinfo.gov/link/plaw/96/public/76), Sept. 29, 1979, [93 Stat. 584](https://www.govinfo.gov/link/statute/93/584); [Pub. L. 98–551, § 2(a)](https://www.govinfo.gov/link/plaw/98/public/551), Oct. 30, 1984, [98 Stat. 2815](https://www.govinfo.gov/link/statute/98/2815); [Pub. L. 100–607, title III, § 312(a)(1)](https://www.govinfo.gov/link/plaw/100/public/607), (b)(1), (c), Nov. 4, 1988, [102 Stat. 3113](https://www.govinfo.gov/link/statute/102/3113), 3114; [Pub. L. 102–168, title I, § 101](https://www.govinfo.gov/link/plaw/102/public/168), Nov. 26, 1991, [105 Stat. 1102](https://www.govinfo.gov/link/statute/105/1102); [Pub. L. 102–531, title III, § 311(b)(1)](https://www.govinfo.gov/link/plaw/102/public/531), Oct. 27, 1992, [106 Stat. 3503](https://www.govinfo.gov/link/statute/106/3503); [Pub. L. 105–392, title IV, § 414](https://www.govinfo.gov/link/plaw/105/public/392), Nov. 13, 1998, [112 Stat. 3590](https://www.govinfo.gov/link/statute/112/3590).)*

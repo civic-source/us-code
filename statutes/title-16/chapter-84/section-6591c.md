@@ -3,9 +3,10 @@ title: "Section 6591c - Stewardship end result contracting projects"
 usc_title: 16
 usc_section: "6591c"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6591c"
-generated_at: "2026-03-30T02:54:23.063Z"
+generated_at: "2026-11-23T20:26:20.807Z"
+status: "active"
 ---
 
 # § 6591c. Stewardship end result contracting projects
@@ -73,3 +74,19 @@ generated_at: "2026-03-30T02:54:23.063Z"
   - **(1)** the status of development, execution, and administration of agreements or contracts under subsection (b);
   - **(2)** the specific accomplishments that have resulted; and
   - **(3)** the role of local communities in the development of agreements or contract plans.
+
+In General
+
+Preference
+
+“In this title [see Tables for classification]:
+
+National forest system
+
+Public land
+
+Secretary concerned
+
+## Source Credit
+
+*([Pub. L. 108–148, title VI, § 604](https://www.govinfo.gov/link/plaw/108/public/148), as added [Pub. L. 113–79, title VIII, § 8205(a)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 918](https://www.govinfo.gov/link/statute/128/918); amended [Pub. L. 115–31, div. G, title IV, § 422](https://www.govinfo.gov/link/plaw/115/public/31), May 5, 2017, [131 Stat. 499](https://www.govinfo.gov/link/statute/131/499); [Pub. L. 115–141, div. O, title II](https://www.govinfo.gov/link/plaw/115/public/141), §§ 204–206, Mar. 23, 2018, [132 Stat. 1064](https://www.govinfo.gov/link/statute/132/1064), 1065.)*

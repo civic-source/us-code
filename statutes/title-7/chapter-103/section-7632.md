@@ -3,9 +3,10 @@ title: "Section 7632 - Specialty crop research initiative"
 usc_title: 7
 usc_section: "7632"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7632"
-generated_at: "2026-03-30T02:53:42.459Z"
+generated_at: "2026-11-23T20:25:41.817Z"
+status: "active"
 ---
 
 # § 7632. Specialty crop research initiative
@@ -101,3 +102,21 @@ generated_at: "2026-03-30T02:53:42.459Z"
   - **(3)** There is authorized to be appropriated to carry out this section $100,000,000 for fiscal year 2013.
   - **(4)** Of the funds made available to the Secretary under paragraph (1) for fiscal year 2008 and authorized for use for payment of administrative expenses under section 3315(a)(3) of this title , the Secretary shall transfer, upon the date of enactment of this section, $200,000 to the Office of Prevention, Pesticides, and Toxic Substances of the Environmental Protection Agency for use in conducting a meta-analysis relating to methyl bromide.
   - **(5)** Funds made available pursuant to this subsection for a fiscal year shall remain available until expended to pay for obligations incurred in that fiscal year.
+
+In General
+
+Requirements
+
+Strategy
+
+Definition of Citrus
+
+Establishment of Trust Fund
+
+Use of Fund
+
+Funding
+
+## Source Credit
+
+*([Pub. L. 105–185, title IV, § 412](https://www.govinfo.gov/link/plaw/105/public/185), as added [Pub. L. 110–234, title VII, § 7311(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1243](https://www.govinfo.gov/link/statute/122/1243), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, § 7311(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2004; amended [Pub. L. 112–240, title VII, § 701(e)(2)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2364](https://www.govinfo.gov/link/statute/126/2364); [Pub. L. 113–79, title VII](https://www.govinfo.gov/link/plaw/113/public/79), §§ 7128(b)(3)(B), 7306, Feb. 7, 2014, [128 Stat. 879](https://www.govinfo.gov/link/statute/128/879), 888; [Pub. L. 115–334, title VII](https://www.govinfo.gov/link/plaw/115/public/334), §§ 7305, 7614(b)(3)(B), Dec. 20, 2018, [132 Stat. 4815](https://www.govinfo.gov/link/statute/132/4815), 4836; [Pub. L. 119–21, title I, § 10604(e)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 109](https://www.govinfo.gov/link/statute/139/109).)*

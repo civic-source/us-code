@@ -3,9 +3,10 @@ title: "Section 41731 - Definitions"
 usc_title: 49
 usc_section: "41731"
 chapter: 417
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 41731"
-generated_at: "2026-03-30T02:56:19.377Z"
+generated_at: "2026-11-23T20:27:35.107Z"
+status: "active"
 ---
 
 # § 41731. Definitions
@@ -39,3 +40,133 @@ generated_at: "2026-03-30T02:56:19.377Z"
     - **(A)** in more than 2 consecutive fiscal years; or
     - **(B)** in more than 5 fiscal years within 25 consecutive years.
 - **(f)** For purposes of subsection (a)(1)(B), the term “enplanements” means the number of passengers enplaning, at an eligible place, on flights operated by the subsidized essential air service carrier.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 41731(a)(1) | 49 App.:1389(a)(1). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 419(a); added Oct. 24, 1978 , Pub. L. 95–504, § 33(a) , 92 Stat. 1732 ; Dec. 8, 1983 , Pub. L. 98–213, § 10 , 97 Stat. 1461 ; Oct. 4, 1984 , Pub. L. 98–443, § 9(r) , 98 Stat. 1708 ; restated Dec. 30, 1987 , Pub. L. 100–223, § 202(a)(1) , (2), (b)(1), 101 Stat. 1507 , 1508; restated Nov. 5, 1990 , Pub. L. 101–508, § 9113(a) , 104 Stat. 1388–363 . |
+| 41731(a)(2) | 49 App.:1389(k)(2). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 419(k)(2)–(5); added Oct. 24, 1978 , Pub. L. 95–504, § 33(a) , 92 Stat. 1732 ; Dec. 8, 1983 , Pub. L. 98–213, § 10 , 97 Stat. 1461 ; Oct. 4, 1984 , Pub. L. 98–443, § 9(r) , 98 Stat. 1708 ; restated Dec. 30, 1987 , Pub. L. 100–223, § 202(a)(1) , (2), (b)(1), 101 Stat. 1507 , 1517. |
+| 41731(a)(3) | 49 App.:1389(k)(3). |  |
+| 41731(a)(4) | 49 App.:1389(k)(4). |  |
+| 41731(a)(5) | 49 App.:1389(k)(5). |  |
+| 41731(b) | 49 App.:1389(a)(2). |  |
+
+
+General
+
+Limitation on Authority To Decide a Place Not an Eligible Place
+
+Exception for Locations in Alaska and Hawaii
+
+Exceptions for Locations More Than 175 Driving Miles From the Nearest Large or Medium Hub Airport
+
+Waivers.—
+
+In general
+
+Limitation
+
+Limitation
+
+Definition
+
+Historical and Revision Notes
+
+41731(a)(1)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Oct. 24, 1978
+
+Pub. L. 95–504, § 33(a)
+
+92 Stat. 1732
+
+Dec. 8, 1983
+
+Pub. L. 98–213, § 10
+
+97 Stat. 1461
+
+Oct. 4, 1984
+
+Pub. L. 98–443, § 9(r)
+
+98 Stat. 1708
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 202(a)(1)
+
+101 Stat. 1507
+
+Nov. 5, 1990
+
+Pub. L. 101–508, § 9113(a)
+
+104 Stat. 1388–363
+
+41731(a)(2)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Oct. 24, 1978
+
+Pub. L. 95–504, § 33(a)
+
+92 Stat. 1732
+
+Dec. 8, 1983
+
+Pub. L. 98–213, § 10
+
+97 Stat. 1461
+
+Oct. 4, 1984
+
+Pub. L. 98–443, § 9(r)
+
+98 Stat. 1708
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 202(a)(1)
+
+101 Stat. 1507
+
+41731(a)(3)
+
+41731(a)(4)
+
+41731(a)(5)
+
+41731(b)
+
+In General
+
+Limitation
+
+Request for Secretarial Review
+
+Determination of Mileage
+
+Eligibility Determination
+
+Limitation on Period of Final Order
+
+Review of Marketing Practices That Adversely Affect Service to Small or Medium Communities
+
+Regulations
+
+Statutory Construction
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1143](https://www.govinfo.gov/link/statute/108/1143); [Pub. L. 106–181, title II, § 208](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 95](https://www.govinfo.gov/link/statute/114/95); [Pub. L. 108–176, title II, § 225(b)(2)](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2529](https://www.govinfo.gov/link/statute/117/2529); [Pub. L. 112–27, § 6](https://www.govinfo.gov/link/plaw/112/public/27), Aug. 5, 2011, [125 Stat. 271](https://www.govinfo.gov/link/statute/125/271); [Pub. L. 112–95, title IV](https://www.govinfo.gov/link/plaw/112/public/95), §§ 421, 422, Feb. 14, 2012, [126 Stat. 96](https://www.govinfo.gov/link/statute/126/96), 97; [Pub. L. 115–254, div. B, title IV, § 453(a)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3348](https://www.govinfo.gov/link/statute/132/3348); [Pub. L. 118–63, title V, § 561(a)(1)](https://www.govinfo.gov/link/plaw/118/public/63) –(3), May 16, 2024, [138 Stat. 1214](https://www.govinfo.gov/link/statute/138/1214).)*

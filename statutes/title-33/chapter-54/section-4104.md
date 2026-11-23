@@ -3,9 +3,10 @@ title: "Section 4104 - Acquisition of unmanned maritime systems"
 usc_title: 33
 usc_section: "4104"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 4104"
-generated_at: "2026-03-30T02:55:41.147Z"
+generated_at: "2026-11-23T20:26:54.293Z"
+status: "active"
 ---
 
 # § 4104. Acquisition of unmanned maritime systems
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:41.147Z"
   - **(3)** develop policies and procedures to share unmanned maritime systems; or
   - **(4)** provide for other means of creating efficiency and savings in Federal acquisition of unmanned maritime systems.
 - **(c)** Nothing in this chapter shall be construed to modify Federal procurement law.
+
+## Source Credit
+
+*([Pub. L. 115–394, § 5](https://www.govinfo.gov/link/plaw/115/public/394), Dec. 21, 2018, [132 Stat. 5285](https://www.govinfo.gov/link/statute/132/5285).)*

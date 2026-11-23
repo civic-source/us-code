@@ -3,9 +3,10 @@ title: "Section 7126 - Use of project funds"
 usc_title: 16
 usc_section: "7126"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 7126"
-generated_at: "2026-03-30T02:54:23.074Z"
+generated_at: "2026-11-23T20:26:20.835Z"
+status: "active"
 ---
 
 # § 7126. Use of project funds
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:23.074Z"
   - **(3)**
     - **(A)** For the second and subsequent fiscal years of a multiyear project to be funded in whole or in part using project funds, the unit of National Forest System land or Bureau of Land Management District concerned shall use the amount of project funds required to continue the project in that fiscal year according to the agreement entered into under subsection (a).
     - **(B)** The Secretary concerned shall suspend work on the project if the project funds required by the agreement in the second and subsequent fiscal years are not available.
+
+## Source Credit
+
+*([Pub. L. 106–393, title II, § 206](https://www.govinfo.gov/link/plaw/106/public/393), as added [Pub. L. 110–343, div. C, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3907](https://www.govinfo.gov/link/statute/122/3907); amended [Pub. L. 119–58, § 4(b)](https://www.govinfo.gov/link/plaw/119/public/58), Dec. 18, 2025, [139 Stat. 716](https://www.govinfo.gov/link/statute/139/716).)*

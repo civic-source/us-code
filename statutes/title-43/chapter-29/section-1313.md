@@ -3,9 +3,10 @@ title: "Section 1313 - Exceptions from operation of section 1311 of this title"
 usc_title: 43
 usc_section: "1313"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1313"
-generated_at: "2026-03-30T02:55:57.468Z"
+generated_at: "2026-11-23T20:27:06.273Z"
+status: "active"
 ---
 
 # § 1313. Exceptions from operation of section 1311 of this title
@@ -15,3 +16,7 @@ There is excepted from the operation of section 1311 of this title —
 - **(a)** all tracts or parcels of land together with all accretions thereto, resources therein, or improvements thereon, title to which has been lawfully and expressly acquired by the United States from any State or from any person in whom title had vested under the law of the State or of the United States, and all lands which the United States lawfully holds under the law of the State; all lands expressly retained by or ceded to the United States when the State entered the Union (otherwise than by a general retention or cession of lands underlying the marginal sea); all lands acquired by the United States by eminent domain proceedings, purchase, cession, gift, or otherwise in a proprietary capacity; all lands filled in, built up, or otherwise reclaimed by the United States for its own use; and any rights the United States has in lands presently and actually occupied by the United States under claim of right;
 - **(b)** such lands beneath navigable waters held, or any interest in which is held by the United States for the benefit of any tribe, band, or group of Indians or for individual Indians; and
 - **(c)** all structures and improvements constructed by the United States in the exercise of its navigational servitude.
+
+## Source Credit
+
+*(May 22, 1953, ch. 65, title II, § 5, [67 Stat. 32](https://www.govinfo.gov/link/statute/67/32).)*

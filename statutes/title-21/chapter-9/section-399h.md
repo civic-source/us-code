@@ -3,9 +3,10 @@ title: "Section 399h - National Centers of Excellence in Advanced and Continuous
 usc_title: 21
 usc_section: "399h"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 399h"
-generated_at: "2026-03-30T02:54:54.284Z"
+generated_at: "2026-11-23T20:26:27.787Z"
+status: "active"
 ---
 
 # § 399h. National Centers of Excellence in Advanced and Continuous Pharmaceutical Manufacturing
@@ -70,3 +71,7 @@ generated_at: "2026-03-30T02:54:54.284Z"
 - **(i)**
   - **(1)** There is authorized to be appropriated to carry out this section $100,000,000 for the period of fiscal years 2023 through 2027.
   - **(2)** Of the amounts made available to carry out this section for a fiscal year, the Secretary shall not use more than 8 percent for Federal administrative expenses, including training, technical assistance, reporting, and evaluation.
+
+## Source Credit
+
+*([Pub. L. 114–255, div. A, title III, § 3016](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1095](https://www.govinfo.gov/link/statute/130/1095); [Pub. L. 117–328, div. FF, title III, § 3204(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5815](https://www.govinfo.gov/link/statute/136/5815).)*

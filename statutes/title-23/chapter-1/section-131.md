@@ -3,9 +3,10 @@ title: "Section 131 - Control of outdoor advertising"
 usc_title: 23
 usc_section: "131"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 131"
-generated_at: "2026-03-30T02:55:12.553Z"
+generated_at: "2026-11-23T20:26:23.776Z"
+status: "active"
 ---
 
 # § 131. Control of outdoor advertising
@@ -36,3 +37,23 @@ generated_at: "2026-03-30T02:55:12.553Z"
   - **(2)** If any owner does not remove a sign, display, or device in accordance with paragraph (1), the State within the borders of which the sign, display, or device is located shall remove the sign, display, or device. The owner of the removed sign, display, or device shall be liable to the State for the costs of such removal. Effective control under this section includes compliance with the first sentence of this paragraph.
 - **(s)** If a State has a scenic byway program, the State may not allow the erection along any highway on the Interstate System or Federal-aid primary system which before, on, or after the effective date of this subsection, is designated as a scenic byway under such program of any sign, display, or device which is not in conformance with subsection (c) of this section. Control of any sign, display, or device on such a highway shall be in accordance with this section. In designating a scenic byway for purposes of this section and section 1047 of the Intermodal Surface Transportation Efficiency Act of 1991, a State may exclude from such designation any segment of a highway that is inconsistent with the State’s criteria for designating State scenic byways. Nothing in the preceding sentence shall preclude a State from signing any such excluded segment, including such segment on a map, or carrying out similar activities, solely for purposes of system continuity.
 - **(t)** For purposes of this section, the terms “primary system” and “Federal-aid primary system” mean the Federal-aid primary system in existence on June 1, 1991 , and any highway which is not on such system but which is on the National Highway System.
+
+Removal of Illegal Signs.—
+
+By owners
+
+By states
+
+Scenic Byway Prohibition
+
+Primary System Defined
+
+“Notwithstanding section 131 of title 23 , United States Code, and part 750 of title 23, Code of Federal Regulations (or successor regulations), if a State notifies the Federal Highway Administration, the State may allow the maintenance of a sign of a service club, charitable association, or religious service organization—
+
+In General
+
+Study
+
+## Source Credit
+
+*([Pub. L. 85–767](https://www.govinfo.gov/link/plaw/85/public/767), Aug. 27, 1958, [72 Stat. 904](https://www.govinfo.gov/link/statute/72/904); [Pub. L. 86–342, title I, § 106](https://www.govinfo.gov/link/plaw/86/public/342), Sept. 21, 1959, [73 Stat. 612](https://www.govinfo.gov/link/statute/73/612); [Pub. L. 87–61, title I, § 106](https://www.govinfo.gov/link/plaw/87/public/61), June 29, 1961, [75 Stat. 123](https://www.govinfo.gov/link/statute/75/123); [Pub. L. 88–157, § 5](https://www.govinfo.gov/link/plaw/88/public/157), Oct. 24, 1963, [77 Stat. 277](https://www.govinfo.gov/link/statute/77/277); [Pub. L. 89–285, title I, § 101](https://www.govinfo.gov/link/plaw/89/public/285), Oct. 22, 1965, [79 Stat. 1028](https://www.govinfo.gov/link/statute/79/1028); [Pub. L. 89–574, § 8(a)](https://www.govinfo.gov/link/plaw/89/public/574), Sept. 13, 1966, [80 Stat. 768](https://www.govinfo.gov/link/statute/80/768); [Pub. L. 90–495, § 6(a)](https://www.govinfo.gov/link/plaw/90/public/495) –(d), Aug. 23, 1968, [82 Stat. 817](https://www.govinfo.gov/link/statute/82/817); [Pub. L. 91–605, title I, § 122(a)](https://www.govinfo.gov/link/plaw/91/public/605), Dec. 31, 1970, [84 Stat. 1726](https://www.govinfo.gov/link/statute/84/1726); [Pub. L. 93–643, § 109](https://www.govinfo.gov/link/plaw/93/public/643), Jan. 4, 1975, [88 Stat. 2284](https://www.govinfo.gov/link/statute/88/2284); [Pub. L. 94–280, title I, § 122](https://www.govinfo.gov/link/plaw/94/public/280), May 5, 1976, [90 Stat. 438](https://www.govinfo.gov/link/statute/90/438); [Pub. L. 95–599, title I](https://www.govinfo.gov/link/plaw/95/public/599), §§ 121, 122, Nov. 6, 1978, [92 Stat. 2700](https://www.govinfo.gov/link/statute/92/2700), 2701; [Pub. L. 96–106, § 6](https://www.govinfo.gov/link/plaw/96/public/106), Nov. 9, 1979, [93 Stat. 797](https://www.govinfo.gov/link/statute/93/797); [Pub. L. 102–240, title I, § 1046(a)](https://www.govinfo.gov/link/plaw/102/public/240) –(c), Dec. 18, 1991, [105 Stat. 1995](https://www.govinfo.gov/link/statute/105/1995), 1996; [Pub. L. 102–302, § 104](https://www.govinfo.gov/link/plaw/102/public/302), June 22, 1992, [106 Stat. 253](https://www.govinfo.gov/link/statute/106/253); [Pub. L. 104–59, title III, § 314](https://www.govinfo.gov/link/plaw/104/public/59), Nov. 28, 1995, [109 Stat. 586](https://www.govinfo.gov/link/statute/109/586); [Pub. L. 105–178, title I, § 1212(a)(2)(A)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 193](https://www.govinfo.gov/link/statute/112/193); [Pub. L. 112–141, div. A, title I](https://www.govinfo.gov/link/plaw/112/public/141), §§ 1519(c)(6), formerly 1519(c)(7), 1539(b), July 6, 2012, [126 Stat. 576](https://www.govinfo.gov/link/statute/126/576), 587, renumbered § 1519(c)(6), [Pub. L. 114–94, div. A, title I, § 1446(d)(5)(B)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1438](https://www.govinfo.gov/link/statute/129/1438).)*

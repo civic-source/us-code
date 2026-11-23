@@ -3,9 +3,10 @@ title: "Section 2279 - Farming opportunities training and outreach"
 usc_title: 7
 usc_section: "2279"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2279"
-generated_at: "2026-03-30T02:53:42.383Z"
+generated_at: "2026-11-23T20:25:41.513Z"
+status: "active"
 ---
 
 # § 2279. Farming opportunities training and outreach
@@ -211,3 +212,37 @@ generated_at: "2026-03-30T02:53:42.383Z"
   - **(5)** Any agency of the Department may participate in any grant, contract, or agreement entered into under this section by contributing funds, if the contributing agency determines that the objectives of the grant, contract, or agreement will further the authorized programs of the contributing agency.
   - **(6)** Not more than 5 percent of the amounts made available to carry out this section for a fiscal year may be used for expenses relating to the administration of this section.
   - **(7)** A recipient of a grant or a party to a contract or other agreement under subsection (c) or (d) may not use more than 10 percent of the funds received for the indirect costs of carrying out a grant, contract, or other agreement.
+
+In general
+
+Grants and Contracts
+
+Funding
+
+Technical and other assistance
+
+Land loss assistance
+
+Equity commissions
+
+Research, education, and extension
+
+Discrimination financial assistance
+
+Administrative costs
+
+Limitation
+
+Establishment
+
+Duties
+
+Membership.—
+
+In general
+
+Ex-officio members
+
+## Source Credit
+
+*([Pub. L. 101–624, title XXV, § 2501](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 4062](https://www.govinfo.gov/link/statute/104/4062); [Pub. L. 102–237, title X, § 1003](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1894](https://www.govinfo.gov/link/statute/105/1894); [Pub. L. 107–171, title X, § 10707](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 520](https://www.govinfo.gov/link/statute/116/520); [Pub. L. 110–234, title XIV](https://www.govinfo.gov/link/plaw/110/public/234), §§ 14001, 14004, 14005, May 22, 2008, [122 Stat. 1442](https://www.govinfo.gov/link/statute/122/1442), 1443, 1445; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIV, §§ 14001, 14004, 14005, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2204, 2205, 2207; [Pub. L. 112–240, title VII, § 701(h)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2367](https://www.govinfo.gov/link/statute/126/2367); [Pub. L. 113–79, title XII](https://www.govinfo.gov/link/plaw/113/public/79), §§ 12201, 12203, Feb. 7, 2014, [128 Stat. 983](https://www.govinfo.gov/link/statute/128/983), 984; [Pub. L. 115–334, title XII](https://www.govinfo.gov/link/plaw/115/public/334), §§ 12301(b), 12306(a), Dec. 20, 2018, [132 Stat. 4951](https://www.govinfo.gov/link/statute/132/4951), 4968.)*

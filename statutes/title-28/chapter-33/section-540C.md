@@ -3,9 +3,10 @@ title: "Section 540C - FBI police"
 usc_title: 28
 usc_section: "540C"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 540C"
-generated_at: "2026-03-30T02:55:30.132Z"
+generated_at: "2026-11-23T20:26:36.376Z"
+status: "active"
 ---
 
 # § 540C. FBI police
@@ -38,3 +39,41 @@ generated_at: "2026-03-30T02:55:30.132Z"
       - **(ii)** shall apply with respect to pay periods beginning after January 1, 2003 ; and
       - **(iii)** shall not result in any decrease in the rates of pay or benefits of any individual.
 - **(c)** This section does not affect the authority of the Metropolitan Police Force of the District of Columbia with respect to FBI buildings and grounds.
+
+Definitions
+
+Director
+
+buildings and grounds.—
+
+In general
+
+Inclusion
+
+FBI police
+
+Establishment of FBI Police; Duties.—
+
+In general
+
+Duties
+
+Uniformed representative
+
+Authority.—
+
+In general
+
+Exception
+
+Pay and benefits.—
+
+In general
+
+Application
+
+Authority of Metropolitan Police Force
+
+## Source Credit
+
+*(Added [Pub. L. 107–273, div. C, title I, § 11024(a)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1830](https://www.govinfo.gov/link/statute/116/1830).)*

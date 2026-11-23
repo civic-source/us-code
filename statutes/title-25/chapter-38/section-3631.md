@@ -3,9 +3,10 @@ title: "Section 3631 - Tribal authority"
 usc_title: 25
 usc_section: "3631"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3631"
-generated_at: "2026-03-30T02:54:52.855Z"
+generated_at: "2026-11-23T20:26:25.659Z"
+status: "active"
 ---
 
 # § 3631. Tribal authority
@@ -18,3 +19,7 @@ Nothing in this chapter shall be construed to—
   - **(4)** alter in any way any tribal traditional dispute resolution forum;
   - **(5)** imply that any tribal justice system is an instrumentality of the United States; or
   - **(6)** diminish the trust responsibility of the United States to Indian tribal governments and tribal justice systems of such governments.
+
+## Source Credit
+
+*([Pub. L. 103–176, title III, § 301](https://www.govinfo.gov/link/plaw/103/public/176), Dec. 3, 1993, [107 Stat. 2009](https://www.govinfo.gov/link/statute/107/2009).)*

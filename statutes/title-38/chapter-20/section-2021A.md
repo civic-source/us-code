@@ -3,9 +3,10 @@ title: "Section 2021A - Homeless women veterans and homeless veterans with child
 usc_title: 38
 usc_section: "2021A"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 2021A"
-generated_at: "2026-03-30T02:55:53.493Z"
+generated_at: "2026-11-23T20:27:01.766Z"
+status: "active"
 ---
 
 # § 2021A. Homeless women veterans and homeless veterans with children reintegration grant program
@@ -20,3 +21,19 @@ generated_at: "2026-03-30T02:55:53.493Z"
 - **(f)**
   - **(1)** In addition to any amount authorized to be appropriated to carry out section 2021 of this title , there is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2011 through 2026.
   - **(2)** Funds appropriated to carry out this section shall remain available until expended. Funds obligated in any fiscal year to carry out this section may be expended in that fiscal year and the succeeding fiscal year.
+
+Grants
+
+Use of Funds
+
+Requirement To Monitor Expenditures of Funds
+
+Administration Through the Assistant Secretary of Labor for Veterans’ Employment and Training
+
+Biennial Report to Congress
+
+Authorization of Appropriations
+
+## Source Credit
+
+*(Added [Pub. L. 111–275, title II, § 202(a)](https://www.govinfo.gov/link/plaw/111/public/275), Oct. 13, 2010, [124 Stat. 2873](https://www.govinfo.gov/link/statute/124/2873); amended [Pub. L. 114–58, title III, § 302](https://www.govinfo.gov/link/plaw/114/public/58), Sept. 30, 2015, [129 Stat. 534](https://www.govinfo.gov/link/statute/129/534); [Pub. L. 114–228, title III, § 302](https://www.govinfo.gov/link/plaw/114/public/228), Sept. 29, 2016, [130 Stat. 938](https://www.govinfo.gov/link/statute/130/938); [Pub. L. 115–62, title III, § 302](https://www.govinfo.gov/link/plaw/115/public/62), Sept. 29, 2017, [131 Stat. 1163](https://www.govinfo.gov/link/statute/131/1163); [Pub. L. 115–251, title I, § 142](https://www.govinfo.gov/link/plaw/115/public/251), Sept. 29, 2018, [132 Stat. 3170](https://www.govinfo.gov/link/statute/132/3170); [Pub. L. 116–159, div. E, title III, § 5302](https://www.govinfo.gov/link/plaw/116/public/159), Oct. 1, 2020, [134 Stat. 750](https://www.govinfo.gov/link/statute/134/750); [Pub. L. 117–180, div. E, title III, § 302](https://www.govinfo.gov/link/plaw/117/public/180), Sept. 30, 2022, [136 Stat. 2138](https://www.govinfo.gov/link/statute/136/2138); [Pub. L. 117–328, div. U, title III, § 303(b)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5470](https://www.govinfo.gov/link/statute/136/5470); [Pub. L. 118–83, div. B, title III, § 323](https://www.govinfo.gov/link/plaw/118/public/83), Sept. 26, 2024, [138 Stat. 1540](https://www.govinfo.gov/link/statute/138/1540); [Pub. L. 119–37, div. G, title III, § 7301](https://www.govinfo.gov/link/plaw/119/public/37), Nov. 12, 2025, [139 Stat. 650](https://www.govinfo.gov/link/statute/139/650).)*

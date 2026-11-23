@@ -3,9 +3,10 @@ title: "Section 3109 - Indian forest land assistance account"
 usc_title: 25
 usc_section: "3109"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3109"
-generated_at: "2026-03-30T02:54:52.848Z"
+generated_at: "2026-11-23T20:26:25.635Z"
+status: "active"
 ---
 
 # § 3109. Indian forest land assistance account
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:52.848Z"
     - **(D)** user fees or other funds transferred under Federal interagency agreements if otherwise authorized by Federal law and, if such funds are related to activities on or for the Indian forest lands of such tribe’s reservation.
   - **(2)** Funds in the Indian forest land assistance account and any interest or other income earned thereon shall remain available until expended and shall not be available to otherwise offset Federal appropriations for meeting the Federal responsibility for management of Indian forest lands.
 - **(c)** At the request of an Indian tribe or upon the Secretary’s own volition, the Secretary may conduct audits of the Indian forest land assistance account and shall publish the results of such audit.
+
+## Source Credit
+
+*([Pub. L. 101–630, title III, § 310](https://www.govinfo.gov/link/plaw/101/public/630), Nov. 28, 1990, [104 Stat. 4538](https://www.govinfo.gov/link/statute/104/4538).)*

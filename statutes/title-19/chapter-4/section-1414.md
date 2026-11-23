@@ -3,9 +3,10 @@ title: "Section 1414 - Remote location filing"
 usc_title: 19
 usc_section: "1414"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1414"
-generated_at: "2026-03-30T02:54:24.634Z"
+generated_at: "2026-11-23T20:26:10.755Z"
+status: "active"
 ---
 
 # § 1414. Remote location filing
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:54:24.634Z"
 - **(d)** As used in this section:
   - **(1)** The term “designated location” means a customs office located in the customs district designated by the entry filer for purposes of customs examination of the merchandise.
   - **(2)** The term “Program participant” means, with respect to an entry of merchandise, any party entitled to make the entry under section 1484(a)(2)(B) of this title .
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 414, as added [Pub. L. 103–182, title VI, § 631(2)](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2191](https://www.govinfo.gov/link/statute/107/2191).)*

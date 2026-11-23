@@ -3,9 +3,10 @@ title: "Section 2279bb - Definitions"
 usc_title: 12
 usc_section: "2279bb"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 2279bb"
-generated_at: "2026-03-30T02:53:53.484Z"
+generated_at: "2026-11-23T20:25:59.286Z"
+status: "active"
 ---
 
 # § 2279bb. Definitions
@@ -22,3 +23,7 @@ For purposes of this part:
   - **(4)** The term “Office” means the Office of Secondary Market Oversight of the Farm Credit Administration, established in section 2279aa–11(a) of this title .
   - **(5)** The term “regulatory capital” means, with respect to the Corporation, the core capital of the Corporation plus an allowance for losses and guarantee claims, as determined in accordance with generally accepted accounting principles.
   - **(6)** The term “State” means the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
+
+## Source Credit
+
+*([Pub. L. 92–181, title VIII, § 8](https://www.govinfo.gov/link/plaw/92/public/181).31, as added [Pub. L. 102–237, title V, § 503(b)(2)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1871](https://www.govinfo.gov/link/statute/105/1871).)*

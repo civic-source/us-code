@@ -3,9 +3,10 @@ title: "Section 7651d - Phase II sulfur dioxide requirements"
 usc_title: 42
 usc_section: "7651d"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7651d"
-generated_at: "2026-03-30T02:56:11.322Z"
+generated_at: "2026-11-23T20:27:22.951Z"
+status: "active"
 ---
 
 # § 7651d. Phase II sulfur dioxide requirements
@@ -40,7 +41,22 @@ generated_at: "2026-03-30T02:56:11.322Z"
   - **(2)** In addition to allowances allocated pursuant to paragraph (1) as basic Phase II allowance allocations and section 7651b(a)(1) of this title , beginning January 1, 2000 , the Administrator shall, 3 3 So in original. The words “the Administrator shall,” probably should not appear. in the case of any unit operated by a utility that furnishes electricity, electric energy, steam, and natural gas within an area consisting of a city and 1 contiguous county, and in the case of any unit owned by a State authority, the output of which unit is furnished within that same area consisting of a city and 1 contiguous county, the Administrator shall allocate for each unit in the utility its pro rata share of 7,000 allowances and for each unit in the State authority its pro rata share of 2,000 allowances.
 - **(g)**
   - **(1)** After January 1, 2000 , it shall be unlawful for any utility unit that has commenced commercial operation on or after January 1, 1986 , but not later than September 30, 1990 to exceed an annual tonnage emission limitation equal to the product of the unit’s annual fuel consumption, on a Btu basis, at a 65 percent capacity factor multiplied by the unit’s allowable 1985 sulfur dioxide emission rate (converted, if necessary, to pounds per mmBtu), divided by 2,000 unless the owner or operator of such unit holds allowances to emit not less than the unit’s total annual emissions.
-  - **(2)** After January 1, 2000 , the Administrator shall allocate allowances pursuant to section 7651b of this title to each unit which is listed in table B of this paragraph in an annual amount equal to the amount specified in table B. TABLE B Unit Allowances Brandon Shores 8,907 Miller 4 9,197 TNP One 2 4,000 Zimmer 1 18,458 Spruce 1 7,647 Clover 1 2,796 Clover 2 2,796 Twin Oak 2 1,760 Twin Oak 1 9,158 Cross 1 6,401 Malakoff 1 1,759 Notwithstanding any other paragraph of this subsection, for units subject to this paragraph, the Administrator shall not allocate allowances pursuant to any other paragraph of this subsection, Provided 4 4 So in original. Probably should not be capitalized. that the owner or operator of a unit listed on Table B may elect an allocation of allowances under another paragraph of this subsection in lieu of an allocation under this paragraph.
+  - **(2)** After January 1, 2000 , the Administrator shall allocate allowances pursuant to section 7651b of this title to each unit which is listed in table B of this paragraph in an annual amount equal to the amount specified in table B. Notwithstanding any other paragraph of this subsection, for units subject to this paragraph, the Administrator shall not allocate allowances pursuant to any other paragraph of this subsection, Provided 4 4 So in original. Probably should not be capitalized. that the owner or operator of a unit listed on Table B may elect an allocation of allowances under another paragraph of this subsection in lieu of an allocation under this paragraph.
+
+| TABLE B | Col 2 |
+| --- | --- |
+| Brandon Shores | 8,907 |
+| Miller 4 | 9,197 |
+| TNP One 2 | 4,000 |
+| Zimmer 1 | 18,458 |
+| Spruce 1 | 7,647 |
+| Clover 1 | 2,796 |
+| Clover 2 | 2,796 |
+| Twin Oak 2 | 1,760 |
+| Twin Oak 1 | 9,158 |
+| Cross 1 | 6,401 |
+| Malakoff 1 | 1,759 |
+
   - **(3)** Beginning January 1, 2000 , the Administrator shall allocate to the owner or operator of any utility unit that commences commercial operation, or has commenced commercial operation, on or after October 1, 1990 , but not later than December 31, 1992 allowances in an amount equal to the product of the unit’s annual fuel consumption, on a Btu basis, at a 65 percent capacity factor multiplied by the lesser of 0.30 lbs/mmBtu or the unit’s allowable sulfur dioxide emission rate (converted, if necessary, to pounds per mmBtu), divided by 2,000.
   - **(4)** Beginning January 1, 2000 , the Administrator shall allocate to the owner or operator of any utility unit that has commenced construction before December 31, 1990 and that commences commercial operation between January 1, 1993 and December 31, 1995 , allowances in an amount equal to the product of the unit’s annual fuel consumption, on a Btu basis, at a 65 percent capacity factor multiplied by the lesser of 0.30 lbs/mmBtu or the unit’s allowable sulfur dioxide emission rate (converted, if necessary, to pounds per mmBtu), divided by 2,000.
   - **(5)** After January 1, 2000 , it shall be unlawful for any existing utility unit that has completed conversion from predominantly gas fired existing operation to coal fired operation between January 1, 1985 and December 31, 1987 , for which there has been allocated a proposed or final prohibition order pursuant to section 301(b) 5 5 See References in Text note below. of the Powerplant and Industrial Fuel Use Act of 1978 ( 42 U.S.C. 8301 et seq, 6 6 So in original. Probably should be “seq.,”. repealed 1987) to exceed an annual sulfur dioxide tonnage emissions limitation equal to the product of the unit’s annual fuel consumption, on a Btu basis, at a 65 percent capacity factor multiplied by the lesser of 1.20 lbs/mmBtu or the unit’s allowable 1987 sulfur dioxide emissions rate, divided by 2,000, unless the owner or operator of such unit has obtained allowances equal to its actual emissions.
@@ -60,3 +76,29 @@ generated_at: "2026-03-30T02:56:11.322Z"
     - **(B)** had an installed electrical generating capacity of more than 30,000,000 kw in 1988,
   - **(2)** Beginning January 1, 2000 , in addition to allowances allocated pursuant to this section and section 7651b(a)(1) of this title as basic Phase II allowance allocations, the Administrator shall allocate annually for each unit subject to the emissions limitation requirements of subsection (b)(1), (A) the lesser of whose actual or allowable 1980 emissions rate has declined by 50 percent or more as of November 15, 1990 , (B) whose actual emissions rate is less than 1.2 lbs/mmBtu as of January 1, 2000 , (C) which commenced operation after January 1, 1970 , (D) which is owned by a utility company whose combined commercial and industrial kilowatt-hour sales have increased by more than 20 percent between calendar year 1980 and November 15, 1990 , and (E) whose company-wide fossil-fuel sulfur dioxide emissions rate has declined 40 per centum or more from 1980 to 1988, allowances in an amount equal to the difference between (i) the number of allowances that would be allocated for the unit pursuant to the emissions limitation requirements of subsection (b)(1) adjusted to reflect the unit’s annual average fuel consumption on a Btu basis for any three consecutive years between 1980 and 1989 (inclusive) as elected by the owner or operator and (ii) the number of allowances allocated for the unit pursuant to the emissions limitation requirements of subsection (b)(1) of this section: Provided , That the number of allowances allocated pursuant to this paragraph shall not exceed an annual total of 5,000. If necessary to meeting the 5,000-allowance restriction imposed in the last clause of the preceding sentence the Administrator shall reduce, pro rata, the additional allowances allocated to each unit pursuant to this paragraph.
 - **(j)** Beginning January 1, 2000 , in addition to allowances allocated pursuant to this section and section 7651b(a)(1) of this title as basic Phase II allowance allocations, the Administrator shall allocate annually for each existing municipally owned oil and gas-fired utility unit with nameplate capacity equal to, or less than, 40 MWe, the lesser of whose actual or allowable 1985 sulfur dioxide emission rate is less than 1.20 lbs/mmBtu, allowances in an amount equal to the product of the unit’s annual fuel consumption on a Btu basis at a 60 percent capacity factor multiplied by the lesser of its allowable 1985 emission rate or its actual 1985 emission rate, divided by 2,000.
+
+Brandon Shores
+
+Miller 4
+
+TNP One 2
+
+Zimmer 1
+
+Spruce 1
+
+Clover 1
+
+Clover 2
+
+Twin Oak 2
+
+Twin Oak 1
+
+Cross 1
+
+Malakoff 1
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title IV, § 405, as added [Pub. L. 101–549, title IV, § 401](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2605](https://www.govinfo.gov/link/statute/104/2605).)*

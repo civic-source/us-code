@@ -3,9 +3,10 @@ title: "Section 6104 - Monitoring of industrial base for nuclear weapons compone
 usc_title: 10
 usc_section: "6104"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6104"
-generated_at: "2026-03-30T02:53:38.218Z"
+generated_at: "2026-11-23T20:25:52.008Z"
+status: "active"
 ---
 
 # § 6104. Monitoring of industrial base for nuclear weapons components, subsystems, and materials
@@ -30,3 +31,21 @@ generated_at: "2026-03-30T02:53:38.218Z"
   - **(3)** describing mitigating actions, if any, the Administration has underway or planned to mitigate any such risks or gaps;
   - **(4)** setting forth the anticipated timelines and resources needed for such mitigating actions; and
   - **(5)** describing the nature of any coordination with or burden sharing by other departments or agencies of the Federal Government or the private sector to address such risks and gaps.
+
+Designation of Official
+
+Provision of Resources
+
+Consultations
+
+Briefings
+
+Reports
+
+Initial briefing
+
+Subsequent briefings
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2), Dec. 18, 2025, [139 Stat. 1341](https://www.govinfo.gov/link/statute/139/1341), 1462.)*

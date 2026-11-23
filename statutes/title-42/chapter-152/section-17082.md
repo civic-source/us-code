@@ -3,9 +3,10 @@ title: "Section 17082 - Zero Net Energy Commercial Buildings Initiative"
 usc_title: 42
 usc_section: "17082"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17082"
-generated_at: "2026-03-30T02:56:11.495Z"
+generated_at: "2026-11-23T20:27:23.721Z"
+status: "active"
 ---
 
 # § 17082. Zero Net Energy Commercial Buildings Initiative
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:56:11.495Z"
   - **(2)** $50,000,000 for each of fiscal years 2009 and 2010;
   - **(3)** $100,000,000 for each of fiscal years 2011 and 2012; and
   - **(4)** $200,000,000 for each of fiscal years 2013 through 2018.
+
+## Source Credit
+
+*([Pub. L. 110–140, title IV, § 422](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1604](https://www.govinfo.gov/link/statute/121/1604); [Pub. L. 117–58, div. D, title I, § 40104(d)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 933](https://www.govinfo.gov/link/statute/135/933).)*

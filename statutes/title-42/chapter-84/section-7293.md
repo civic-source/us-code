@@ -3,12 +3,17 @@ title: "Section 7293 - Agency terminations"
 usc_title: 42
 usc_section: "7293"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7293"
-generated_at: "2026-03-30T02:56:11.289Z"
+generated_at: "2026-11-23T20:27:22.803Z"
+status: "active"
 ---
 
 # § 7293. Agency terminations
 
 Except as otherwise provided in this chapter, whenever all of the functions vested by law in any agency, commission, or other body, or any component thereof, have been terminated or transferred from that agency, commission, or other body, or component by this chapter, the agency, commission, or other body, or component, shall terminate. If an agency, commission, or other body, or any component thereof, terminates pursuant to the preceding sentence, each position and office therein which was expressly authorized by law, or the incumbent of which was authorized to receive compensation at the rates prescribed for an office or position at level II, III, IV, or V of the Executive Schedule ( 5 U.S.C. 5313–531 6), shall terminate.
 
+
+## Source Credit
+
+*([Pub. L. 95–91, title VII, § 703](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 606](https://www.govinfo.gov/link/statute/91/606).)*

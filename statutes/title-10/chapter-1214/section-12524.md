@@ -3,9 +3,10 @@ title: "Section 12524 - Enrollment and election of benefits"
 usc_title: 10
 usc_section: "12524"
 chapter: 1214
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 12524"
-generated_at: "2026-03-30T02:53:38.270Z"
+generated_at: "2026-11-23T20:25:52.442Z"
+status: "active"
 ---
 
 # § 12524. Enrollment and election of benefits
@@ -22,3 +23,21 @@ generated_at: "2026-03-30T02:53:38.270Z"
 - **(e)** The Secretary shall ensure that members referred to in subsection (a) are given a written explanation of the insurance program and are advised that they have the right to decline to be insured and, if not declined, to elect coverage for a reduced benefit or an enhanced benefit under subsection (b).
 - **(f)** Members of the Ready Reserve serving on active duty (or full-time National Guard duty) are not eligible to enroll for coverage under the insurance program. The Secretary may define any additional category of members of the Ready Reserve to be excluded from eligibility to purchase insurance under this chapter.
 - **(g)** Notwithstanding any other provision of this section, and pursuant to regulations issued by the Secretary, a member of the Individual Ready Reserve who becomes a member of the Selected Reserve shall not be denied eligibility to purchase insurance under this chapter upon becoming a member of the Selected Reserve unless the member previously declined to enroll in the program of insurance under this chapter while a member of the Selected Reserve.
+
+Enrollment
+
+Election of Benefit Amount
+
+Elections Irrevocable
+
+Election To Terminate
+
+Information To Be Furnished
+
+Members Ineligible To Enroll
+
+Members of Individual Ready Reserve
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. A, title V, § 512(a)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 300](https://www.govinfo.gov/link/statute/110/300); amended [Pub. L. 104–201, div. A, title V, § 542](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2521](https://www.govinfo.gov/link/statute/110/2521).)*

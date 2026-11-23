@@ -3,9 +3,10 @@ title: "Section 538a - Forest Service Legacy Road and Trail Remediation Program"
 usc_title: 16
 usc_section: "538a"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 538a"
-generated_at: "2026-03-30T02:54:22.862Z"
+generated_at: "2026-11-23T20:26:20.102Z"
+status: "active"
 ---
 
 # § 538a. Forest Service Legacy Road and Trail Remediation Program
@@ -66,3 +67,7 @@ generated_at: "2026-03-30T02:54:22.862Z"
     - **(E)** is adequate for supporting emergency operations, such as evacuation routes during wildfires, floods, and other natural disasters; and
   - **(2)** all projects funded under the Program are consistent with any applicable forest plan or travel management plan.
 - **(e)** A decision to fund a project under the Program shall not affect any determination made previously or to be made in the future by the Secretary with regard to road or trail closures.
+
+## Source Credit
+
+*([Pub. L. 88–657, § 8](https://www.govinfo.gov/link/plaw/88/public/657), as added [Pub. L. 117–58, div. D, title VIII, § 40801(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1094](https://www.govinfo.gov/link/statute/135/1094).)*

@@ -3,9 +3,10 @@ title: "Section 5392 - Establishment of special occupational pay systems"
 usc_title: 5
 usc_section: "5392"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 5392"
-generated_at: "2026-03-30T02:52:56.017Z"
+generated_at: "2026-11-23T20:25:31.919Z"
+status: "active"
 ---
 
 # § 5392. Establishment of special occupational pay systems
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:52:56.017Z"
   - **(1)** provide for a waiver of any law, rule, or regulation that could not be waived under section 4703(c); or
   - **(2)** provide a rate of basic pay for any employee in excess of the rate payable for level V of the Executive Schedule.
 - **(e)** Subject to subsection (d)(2), effective at the beginning of the first applicable pay period commencing on or after the first day of the month in which an adjustment takes effect under section 5303 in the rates of pay under the General Schedule, each rate of pay established under this section shall be adjusted by such amount as the Office considers appropriate.
+
+## Source Credit
+
+*(Added [Pub. L. 101–509, title V, § 529 [title I, § 105(a)(1)]](https://www.govinfo.gov/link/plaw/101/public/509), Nov. 5, 1990, [104 Stat. 1427](https://www.govinfo.gov/link/statute/104/1427), 1448.)*

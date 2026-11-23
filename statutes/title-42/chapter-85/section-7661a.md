@@ -3,9 +3,10 @@ title: "Section 7661a - Permit programs"
 usc_title: 42
 usc_section: "7661a"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7661a"
-generated_at: "2026-03-30T02:56:11.324Z"
+generated_at: "2026-11-23T20:27:22.960Z"
+status: "active"
 ---
 
 # § 7661a. Permit programs
@@ -67,3 +68,7 @@ generated_at: "2026-03-30T02:56:11.324Z"
   - **(2)** Whenever the Administrator makes a determination that a permitting authority is not adequately administering and enforcing a program, or portion thereof, in accordance with the requirements of this subchapter, 18 months after the date of the notice under paragraph (1), the Administrator shall apply the sanctions under section 7509(b) of this title in the same manner and subject to the same deadlines and other conditions as are applicable in the case of a determination, disapproval, or finding under section 7509(a) of this title .
   - **(3)** The sanctions under section 7509(b)(2) of this title shall not apply pursuant to this subsection in any area unless the failure to adequately enforce and administer the program relates to an air pollutant for which such area has been designated a nonattainment area.
   - **(4)** Whenever the Administrator has made a finding under paragraph (1) with respect to any State, unless the State has corrected such deficiency within 18 months after the date of such finding, the Administrator shall, 2 years after the date of such finding, promulgate, administer, and enforce a program under this subchapter for that State. Nothing in this paragraph shall be construed to affect the validity of a program which has been approved under this subchapter or the authority of any permitting authority acting under such program until such time as such program is promulgated by the Administrator under this paragraph.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title V, § 502, as added [Pub. L. 101–549, title V, § 501](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2635](https://www.govinfo.gov/link/statute/104/2635).)*

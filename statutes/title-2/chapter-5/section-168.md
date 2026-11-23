@@ -3,9 +3,10 @@ title: "Section 168 - Constitution of the United States; preparation and publica
 usc_title: 2
 usc_section: "168"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 168"
-generated_at: "2026-03-30T02:53:04.790Z"
+generated_at: "2026-11-23T20:25:28.852Z"
+status: "active"
 ---
 
 # § 168. Constitution of the United States; preparation and publication of revised edition; annotations; supplements; decennial editions and supplements
@@ -16,3 +17,7 @@ The Librarian of Congress shall have prepared—
   - **(2)** upon the completion of each of the October 1973, October 1975, October 1977, and October 1979 terms of the Supreme Court, a cumulative pocket-part supplement to the hardbound revised edition of the Constitution Annotated prepared pursuant to clause (1), which shall contain cumulative annotations of all such decisions rendered by the Supreme Court after the end of the October 1971 term;
   - **(3)** upon the completion of the October 1981 term of the Supreme Court, and upon the completion of each tenth October term of the Supreme Court thereafter, a hardbound decennial revised edition of the Constitution Annotated, which shall contain annotations of all decisions theretofore rendered by the Supreme Court construing provisions of the Constitution; and
   - **(4)** upon the completion of the October 1983 term of the Supreme Court, and upon the completion of each subsequent October term of the Supreme Court beginning in an odd-numbered year (the final digit of which is not a 1), a cumulative pocket-part supplement to the most recent hardbound decennial revised edition of the Constitution Annotated, which shall contain cumulative annotations of all such decisions rendered by the Supreme Court which were not included in that hardbound decennial revised edition of the Constitution Annotated.
+
+## Source Credit
+
+*([Pub. L. 91–589, § 1](https://www.govinfo.gov/link/plaw/91/public/589), Dec. 24, 1970, [84 Stat. 1586](https://www.govinfo.gov/link/statute/84/1586).)*

@@ -3,9 +3,10 @@ title: "Section 8262h - United States Postal Service energy regulations"
 usc_title: 42
 usc_section: "8262h"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8262h"
-generated_at: "2026-03-30T02:56:11.339Z"
+generated_at: "2026-11-23T20:27:23.025Z"
+status: "active"
 ---
 
 # § 8262h. United States Postal Service energy regulations
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.339Z"
   - **(2)** identify unusual or abnormal changes in energy consumption; and
   - **(3)** check the accuracy of utility charges for electricity and gas consumption.
 - **(b)** The Postmaster General shall actively undertake a program to identify and procure energy efficiency products for use in its facilities. In carrying out this subsection, the Postmaster General shall, to the maximum extent practicable, incorporate energy efficient information available on Federal Supply Schedules maintained by the General Services Administration and the Defense Logistics Agency.
+
+## Source Credit
+
+*([Pub. L. 102–486, title I, § 163](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2860](https://www.govinfo.gov/link/statute/106/2860).)*

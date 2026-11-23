@@ -3,9 +3,10 @@ title: "Section 7503 - Amount of assistance; duration"
 usc_title: 38
 usc_section: "7503"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7503"
-generated_at: "2026-03-30T02:55:53.533Z"
+generated_at: "2026-11-23T20:27:02.032Z"
+status: "active"
 ---
 
 # § 7503. Amount of assistance; duration
@@ -17,3 +18,15 @@ generated_at: "2026-03-30T02:55:53.533Z"
   - **(2)** In the case of an individual who is a part-time student, the total amount of assistance provided under the scholarship program shall bear the same ratio to the amount that would be paid under paragraph (1) if the participant were a full-time student in the program of study being pursued by the individual as the coursework carried by the individual to full-time coursework in that program of study.
   - **(3)** The total amount of assistance provided to an individual under the scholarship program may not exceed $45,000.
 - **(d)** Financial assistance may not be provided to an individual under the scholarship program for more than six academic years.
+
+Amount of Assistance
+
+Relationship to Other Assistance
+
+Maximum Amount of Assistance
+
+Maximum Duration of Assistance
+
+## Source Credit
+
+*(Added [Pub. L. 111–163, title III, § 302(a)](https://www.govinfo.gov/link/plaw/111/public/163), May 5, 2010, [124 Stat. 1147](https://www.govinfo.gov/link/statute/124/1147).)*

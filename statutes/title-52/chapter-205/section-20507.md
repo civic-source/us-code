@@ -3,9 +3,10 @@ title: "Section 20507 - Requirements with respect to administration of voter reg
 usc_title: 52
 usc_section: "20507"
 chapter: 205
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "52 U.S.C. § 20507"
-generated_at: "2026-03-30T02:56:30.164Z"
+generated_at: "2026-11-23T20:27:36.969Z"
+status: "active"
 ---
 
 # § 20507. Requirements with respect to administration of voter registration
@@ -84,3 +85,7 @@ generated_at: "2026-03-30T02:56:30.164Z"
   - **(1)** an incorporated city, town, borough, or other form of municipality;
   - **(2)** if voter registration is maintained by a county, parish, or other unit of government that governs a larger geographic area than a municipality, the geographic area governed by that unit of government; or
   - **(3)** if voter registration is maintained on a consolidated basis for more than one municipality or other unit of government by an office that performs all of the functions of a voting registrar, the geographic area of the consolidated municipalities or other geographic units.
+
+## Source Credit
+
+*([Pub. L. 103–31, § 8](https://www.govinfo.gov/link/plaw/103/public/31), May 20, 1993, [107 Stat. 82](https://www.govinfo.gov/link/statute/107/82); [Pub. L. 107–252, title IX, § 903](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1728](https://www.govinfo.gov/link/statute/116/1728).)*

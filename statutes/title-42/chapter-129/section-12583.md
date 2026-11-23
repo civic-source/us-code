@@ -3,9 +3,10 @@ title: "Section 12583 - National service program assistance requirements"
 usc_title: 42
 usc_section: "12583"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12583"
-generated_at: "2026-03-30T02:56:11.417Z"
+generated_at: "2026-11-23T20:27:23.376Z"
+status: "active"
 ---
 
 # § 12583. National service program assistance requirements
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:56:11.417Z"
   - **(1)** ensure the provision of a living allowance and other benefits specified in section 12594 of this title to participants in any national service program carried out by the applicant using assistance provided under section 12571 of this title ; and
   - **(2)** require that each national service program that receives a grant from the applicant using such assistance will also provide a living allowance and other benefits specified in section 12594 of this title to participants in the program.
 - **(f)** The Corporation may also require an assurance by the applicant that any national service program carried out by the applicant using assistance provided under section 12571 of this title and any national service program supported by a grant made by the applicant using such assistance will select a portion of the participants for the program from among prospective participants recruited by the Corporation or State Commissions under section 12592(d) of this title . The Corporation may specify a minimum percentage of participants to be selected from the national leadership pool established under section 12592(e) of this title and may vary the percentage for different types of national service programs.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 131](https://www.govinfo.gov/link/plaw/101/public/610), as added [Pub. L. 103–82, title I, § 101(b)](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 803](https://www.govinfo.gov/link/statute/107/803); amended [Pub. L. 111–13, title I, § 1309](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1507](https://www.govinfo.gov/link/statute/123/1507).)*

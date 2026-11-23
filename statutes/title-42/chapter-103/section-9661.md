@@ -3,9 +3,10 @@ title: "Section 9661 - Love Canal property acquisition"
 usc_title: 42
 usc_section: "9661"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9661"
-generated_at: "2026-03-30T02:56:11.364Z"
+generated_at: "2026-11-23T20:27:23.129Z"
+status: "active"
 ---
 
 # § 9661. Love Canal property acquisition
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.364Z"
   - **(2)** As used in subsection (a), the term “private property” means all property which is not owned by a department, agency, or instrumentality of—
     - **(A)** the United States, or
     - **(B)** the State of New York (or any public agency or authority thereof).
+
+## Source Credit
+
+*([Pub. L. 96–510, title III, § 312](https://www.govinfo.gov/link/plaw/96/public/510), as added [Pub. L. 99–499, title II, § 213(b)](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1727](https://www.govinfo.gov/link/statute/100/1727).)*

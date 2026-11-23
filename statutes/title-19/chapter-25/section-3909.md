@@ -3,9 +3,10 @@ title: "Section 3909 - Sense of Congress"
 usc_title: 19
 usc_section: "3909"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3909"
-generated_at: "2026-03-30T02:54:24.698Z"
+generated_at: "2026-11-23T20:26:11.107Z"
+status: "active"
 ---
 
 # § 3909. Sense of Congress
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:24.698Z"
   - **(1)** keep and publish statistics on imports and exports of rough diamonds under subheadings 7102.10.00, 7102.21, and 7102.31.00 of the Harmonized Tariff Schedule of the United States;
   - **(2)** make these statistics available for analysis by interested parties and by Participants; and
   - **(3)** take a leadership role in negotiating a standardized methodology among Participants for reporting statistics on imports and exports of rough diamonds.
+
+## Source Credit
+
+*([Pub. L. 108–19, § 10](https://www.govinfo.gov/link/plaw/108/public/19), Apr. 25, 2003, [117 Stat. 635](https://www.govinfo.gov/link/statute/117/635).)*

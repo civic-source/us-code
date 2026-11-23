@@ -3,9 +3,10 @@ title: "Section 3559 - Sentencing classification of offenses"
 usc_title: 18
 usc_section: "3559"
 chapter: 227
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 3559"
-generated_at: "2026-03-30T02:54:16.519Z"
+generated_at: "2026-11-23T20:26:08.736Z"
+status: "active"
 ---
 
 # § 3559. Sentencing classification of offenses
@@ -80,3 +81,47 @@ generated_at: "2026-03-30T02:54:16.519Z"
   - **(2)** As used in this section—
     - **(A)** the term “falsely registers” means registers in a manner that prevents the effective identification of or contact with the person who registers; and
     - **(B)** the term “domain name” has the meaning given that term is 1 1 So in original. Probably should be “in”. section 45 of the Act entitled “An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes” approved July 5, 1946 (commonly referred to as the “Trademark Act of 1946”) ( 15 U.S.C. 1127 ).
+
+Classification
+
+Effect of Classification
+
+Imprisonment of Certain Violent Felons.—
+
+Mandatory life imprisonment
+
+Definitions
+
+Nonqualifying felonies.—
+
+Robbery in certain cases
+
+Arson in certain cases
+
+Information filed by united states attorney
+
+Rule of construction
+
+Special provision for indian country
+
+Resentencing upon overturning of prior conviction
+
+Death or Imprisonment for Crimes Against Children.—
+
+In general
+
+Exception
+
+Mandatory Life Imprisonment for Repeated Sex Offenses Against Children.—
+
+In general
+
+Definitions
+
+Nonqualifying Felonies
+
+Mandatory Minimum Terms of Imprisonment for Violent Crimes Against Children
+
+## Source Credit
+
+*(Added [Pub. L. 98–473, title II, § 212(a)(2)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 1991](https://www.govinfo.gov/link/statute/98/1991); amended [Pub. L. 100–185, § 5](https://www.govinfo.gov/link/plaw/100/public/185), Dec. 11, 1987, [101 Stat. 1279](https://www.govinfo.gov/link/statute/101/1279); [Pub. L. 100–690, title VII, § 7041](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4399](https://www.govinfo.gov/link/statute/102/4399); [Pub. L. 103–322, title VII, § 70001](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1982](https://www.govinfo.gov/link/statute/108/1982); [Pub. L. 105–314, title V, § 501](https://www.govinfo.gov/link/plaw/105/public/314), Oct. 30, 1998, [112 Stat. 2980](https://www.govinfo.gov/link/statute/112/2980); [Pub. L. 105–386, § 1(b)](https://www.govinfo.gov/link/plaw/105/public/386), Nov. 13, 1998, [112 Stat. 3470](https://www.govinfo.gov/link/statute/112/3470); [Pub. L. 108–21, title I, § 106(a)](https://www.govinfo.gov/link/plaw/108/public/21), Apr. 30, 2003, [117 Stat. 654](https://www.govinfo.gov/link/statute/117/654); [Pub. L. 108–482, title II, § 204(a)](https://www.govinfo.gov/link/plaw/108/public/482), Dec. 23, 2004, [118 Stat. 3917](https://www.govinfo.gov/link/statute/118/3917); [Pub. L. 109–248, title II](https://www.govinfo.gov/link/plaw/109/public/248), §§ 202, 206(c), July 27, 2006, [120 Stat. 612](https://www.govinfo.gov/link/statute/120/612), 614; [Pub. L. 118–159, div. A, title V, § 569(6)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1906](https://www.govinfo.gov/link/statute/138/1906).)*

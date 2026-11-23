@@ -3,9 +3,10 @@ title: "Section 217 - Moving expenses"
 usc_title: 26
 usc_section: "217"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 217"
-generated_at: "2026-03-30T02:55:27.653Z"
+generated_at: "2026-11-23T20:26:45.506Z"
+status: "active"
 ---
 
 # § 217. Moving expenses
@@ -61,3 +62,15 @@ generated_at: "2026-03-30T02:55:27.653Z"
 - **(k)**
   - **(1)** Except in the case of an individual to whom subsection (g) applies, this section shall not apply to any taxable year beginning after December 31, 2017 .
   - **(2)** An employee or new appointee of the intelligence community (as defined in section 3 of the National Security Act of 1947 ( 50 U.S.C. 3003 )) (other than a member of the Armed Forces of the United States) who moves pursuant to a change in assignment which requires relocation shall be treated for purposes of this section in the same manner as an individual to whom subsection (g) applies.
+
+Definition
+
+Rule for application of subsections
+
+(c) and (d)
+
+“The amendments made by this section [enacting section 82 of this title and amending this section and sections 1001 and 1016 of this title] shall apply to taxable years beginning after December 31, 1969 , except that—
+
+## Source Credit
+
+*(Added [Pub. L. 88–272, title II, § 213(a)(1)](https://www.govinfo.gov/link/plaw/88/public/272), Feb. 26, 1964, [78 Stat. 50](https://www.govinfo.gov/link/statute/78/50); amended [Pub. L. 91–172, title II, § 231(a)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 577](https://www.govinfo.gov/link/statute/83/577); [Pub. L. 94–455, title V, § 506](https://www.govinfo.gov/link/plaw/94/public/455) (a)–(c), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1568](https://www.govinfo.gov/link/statute/90/1568), 1834; [Pub. L. 95–615, title II, § 204](https://www.govinfo.gov/link/plaw/95/public/615), Nov. 8, 1978, [92 Stat. 3106](https://www.govinfo.gov/link/statute/92/3106); [Pub. L. 103–66, title XIII, § 13213(a)(1)](https://www.govinfo.gov/link/plaw/103/public/66) –(2)(D), (b), Aug. 10, 1993, [107 Stat. 473](https://www.govinfo.gov/link/statute/107/473), 474; [Pub. L. 115–97, title I, § 11049(a)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2088](https://www.govinfo.gov/link/statute/131/2088); [Pub. L. 119–21, title VII, § 70113(a)](https://www.govinfo.gov/link/plaw/119/public/21), (b), July 4, 2025, [139 Stat. 165](https://www.govinfo.gov/link/statute/139/165).)*

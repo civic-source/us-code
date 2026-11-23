@@ -3,9 +3,10 @@ title: "Section 220501 - Short title and definitions"
 usc_title: 36
 usc_section: "220501"
 chapter: 2205
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 220501"
-generated_at: "2026-03-30T02:55:44.709Z"
+generated_at: "2026-11-23T20:26:59.079Z"
+status: "active"
 ---
 
 # § 220501. Short title and definitions
@@ -32,3 +33,30 @@ generated_at: "2026-03-30T02:55:44.709Z"
     - **(E)** the Equal Employment Opportunity Commission; or
     - **(F)** Congress.
   - **(12)** “sanction” means a certificate of approval issued by a national governing body.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 220501 | 36:373. | Sept. 21, 1950, ch. 975 , title I, § 103, as added Nov. 8, 1978 , Pub. L. 95–606, § 1(b) , 92 Stat. 3045 . |
+
+
+Short Title
+
+Definitions
+
+Historical and Revision Notes
+
+220501
+
+Sept. 21, 1950, ch. 975
+
+Nov. 8, 1978
+
+Pub. L. 95–606, § 1(b)
+
+92 Stat. 3045
+
+“Congress makes the following findings:
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1466](https://www.govinfo.gov/link/statute/112/1466); [Pub. L. 105–277, div. C, title I, § 142(b)(2)](https://www.govinfo.gov/link/plaw/105/public/277), (c), Oct. 21, 1998, [112 Stat. 2681–603](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 109–284, § 5(13)](https://www.govinfo.gov/link/plaw/109/public/284), (14), Sept. 27, 2006, [120 Stat. 1212](https://www.govinfo.gov/link/statute/120/1212); [Pub. L. 115–126, title II, § 202(b)](https://www.govinfo.gov/link/plaw/115/public/126), Feb. 14, 2018, [132 Stat. 323](https://www.govinfo.gov/link/statute/132/323); [Pub. L. 116–189, § 3](https://www.govinfo.gov/link/plaw/116/public/189), Oct. 30, 2020, [134 Stat. 944](https://www.govinfo.gov/link/statute/134/944).)*

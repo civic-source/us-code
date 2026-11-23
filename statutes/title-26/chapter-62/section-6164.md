@@ -3,9 +3,10 @@ title: "Section 6164 - Extension of time for payment of taxes by corporations ex
 usc_title: 26
 usc_section: "6164"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6164"
-generated_at: "2026-03-30T02:55:27.843Z"
+generated_at: "2026-11-23T20:26:46.583Z"
+status: "active"
 ---
 
 # § 6164. Extension of time for payment of taxes by corporations expecting carrybacks
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:27.843Z"
   - **(2)** the time for payment of such amount shall be considered to be the date on which payment would have been required if there had been no extension with respect to such amount.
 - **(h)** If the Secretary believes that collection of the amount to which an extension under this section relates is in jeopardy, he shall immediately terminate such extension, and notice and demand shall be made by him for payment of such amount.
 - **(i)** If the corporation seeking an extension of time under this section made or was required to make a consolidated return, either for the taxable year within which the net operating loss arises or for the preceding taxable year affected by such loss, the provisions of such section shall apply only to such extent and subject to such conditions, limitations, and exceptions as the Secretary may by regulations prescribe.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 764; [Pub. L. 85–866, title I, § 89(b)](https://www.govinfo.gov/link/plaw/85/public/866), Sept. 2, 1958, [72 Stat. 1665](https://www.govinfo.gov/link/statute/72/1665); [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 97–248, title II, § 234(b)(2)(C)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 503](https://www.govinfo.gov/link/statute/96/503).)*

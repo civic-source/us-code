@@ -3,9 +3,10 @@ title: "Section 6224 - Department of Energy counterintelligence polygraph progra
 usc_title: 10
 usc_section: "6224"
 chapter: 605
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6224"
-generated_at: "2026-03-30T02:53:38.222Z"
+generated_at: "2026-11-23T20:25:52.022Z"
+status: "active"
 ---
 
 # § 6224. Department of Energy counterintelligence polygraph program
@@ -19,3 +20,13 @@ generated_at: "2026-03-30T02:53:38.222Z"
     - **(A)** a national of the United States (as such term is defined in section 101 of the Immigration and Nationality Act ( 8 U.S.C. 1101 )) and also a national of a foreign state; and
     - **(B)** an employee or contractor who requires access to classified information.
 - **(c)** In this section, the term “Polygraph Review” means the review of the Committee to Review the Scientific Evidence on the Polygraph of the National Academy of Sciences.
+
+New Counterintelligence Polygraph Program Required
+
+Authorities and Limitations
+
+Polygraph Review Defined
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2)(B), Dec. 18, 2025, [139 Stat. 1403](https://www.govinfo.gov/link/statute/139/1403), 1462.)*

@@ -3,9 +3,10 @@ title: "Section 8341 - Survivor annuities"
 usc_title: 5
 usc_section: "8341"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8341"
-generated_at: "2026-03-30T02:52:56.050Z"
+generated_at: "2026-11-23T20:25:32.164Z"
+status: "active"
 ---
 
 # § 8341. Survivor annuities
@@ -96,3 +97,112 @@ generated_at: "2026-03-30T02:52:56.050Z"
 - **(k)**
   - **(1)** 1 1 So in original. No subsec. (j) has been enacted. Subsections (b)(3)(B), (d)(ii), and (h)(3)(B)(i) (to the extent that they provide for termination of a survivor annuity because of a remarriage before age 55) shall not apply if the widow, widower, or former spouse was married for at least 30 years to the individual on whose service the survivor annuity is based.
   - **(2)** A remarriage described in paragraph (1) shall not be taken into account for purposes of section 8339(j)(5)(B) or (C) or any other provision of this chapter which the Office may by regulation identify in order to carry out the purposes of this subsection.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| (a) | 5 U.S.C. 2251(h) –(j). | July 31, 1956, ch. 804, § 401 “Sec. 1(h)–(j)”, 70 Stat. 744 . Oct. 11, 1962 , Pub. L. 87–793, § 1103(f)(A) , 76 Stat. 871 . |
+| (b)–(f) | 5 U.S.C. 2260 . | July 31, 1956, ch. 804, § 401 “Sec. 10”, 70 Stat. 754 . |
+|  |  | Aug. 27, 1958 , Pub. L. 85–772, § 1(b) , (c), 72 Stat. 930 . |
+|  |  | Sept. 6, 1960 , Pub. L. 86–713, § 1(a) , 74 Stat. 813 . |
+|  |  | Oct. 11, 1962 , Pub. L. 87–793, § 1103 (less (a) and (f)(A)), 76 Stat. 870 , 871. |
+
+| 1967 Act | Col 2 | Col 3 |
+| --- | --- | --- |
+| 8341(a)(4) | 5 App.: 2251(j) (less last sentence). | Apr. 25, 1966 , Pub. L. 89–407, § 1 (words before 1st comma), 80 Stat. 131 . July 18, 1966 , Pub. L. 89–504, § 502 , 80 Stat. 300 . |
+| 8341(b) (last sentence) | 5 App.: 2260(a)(2). | July 18, 1966 , Pub. L. 89–504, § 506(a) , 80 Stat. 301 . |
+| 8341(d) (last sentence) | 5 App.: 2260(c) (last sentence). | July 18, 1966 , Pub. L. 89–504, § 506(b) , 80 Stat. 301 . |
+| 8341(e) | 5 App.: 2260(d). | July 18, 1966 , Pub. L. 89–504, § 506(c) , 80 Stat. 301 . |
+| 8341(g) | 5 App.: 2260(f). | July 18, 1966 , Pub. L. 89–504, § 506(d) , 80 Stat. 302 . |
+
+
+Historical and Revision Notes
+
+Act
+
+(a)
+
+5 U.S.C. 2251(h)
+
+July 31, 1956, ch. 804, § 401
+
+70 Stat. 744
+
+Oct. 11, 1962
+
+Pub. L. 87–793, § 1103(f)(A)
+
+76 Stat. 871
+
+(b)–(f)
+
+5 U.S.C. 2260
+
+July 31, 1956, ch. 804, § 401
+
+70 Stat. 754
+
+Aug. 27, 1958
+
+Pub. L. 85–772, § 1(b)
+
+72 Stat. 930
+
+Sept. 6, 1960
+
+Pub. L. 86–713, § 1(a)
+
+74 Stat. 813
+
+Oct. 11, 1962
+
+Pub. L. 87–793, § 1103
+
+76 Stat. 870
+
+Act
+
+8341(a)(4)
+
+Apr. 25, 1966
+
+Pub. L. 89–407, § 1
+
+80 Stat. 131
+
+July 18, 1966
+
+Pub. L. 89–504, § 502
+
+80 Stat. 300
+
+July 18, 1966
+
+Pub. L. 89–504, § 506(a)
+
+80 Stat. 301
+
+July 18, 1966
+
+Pub. L. 89–504, § 506(b)
+
+80 Stat. 301
+
+8341(e)
+
+July 18, 1966
+
+Pub. L. 89–504, § 506(c)
+
+80 Stat. 301
+
+8341(g)
+
+July 18, 1966
+
+Pub. L. 89–504, § 506(d)
+
+80 Stat. 302
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 577](https://www.govinfo.gov/link/statute/80/577); [Pub. L. 90–83, § 1(80)](https://www.govinfo.gov/link/plaw/90/public/83), Sept. 11, 1967, [81 Stat. 216](https://www.govinfo.gov/link/statute/81/216); [Pub. L. 91–93, title II, § 206](https://www.govinfo.gov/link/plaw/91/public/93), Oct. 20, 1969, [83 Stat. 140](https://www.govinfo.gov/link/statute/83/140); [Pub. L. 91–658, § 3](https://www.govinfo.gov/link/plaw/91/public/658), Jan. 8, 1971, [84 Stat. 1961](https://www.govinfo.gov/link/statute/84/1961); [Pub. L. 92–243, § 1](https://www.govinfo.gov/link/plaw/92/public/243), Mar. 9, 1972, [86 Stat. 56](https://www.govinfo.gov/link/statute/86/56); [Pub. L. 92–297, § 7(4)](https://www.govinfo.gov/link/plaw/92/public/297), May 16, 1972, [86 Stat. 145](https://www.govinfo.gov/link/statute/86/145); [Pub. L. 93–260, § 1(a)](https://www.govinfo.gov/link/plaw/93/public/260), Apr. 9, 1974, [88 Stat. 76](https://www.govinfo.gov/link/statute/88/76); [Pub. L. 94–183, § 2(36)](https://www.govinfo.gov/link/plaw/94/public/183), Dec. 31, 1975, [89 Stat. 1058](https://www.govinfo.gov/link/statute/89/1058); [Pub. L. 95–317, § 1(b)](https://www.govinfo.gov/link/plaw/95/public/317), July 10, 1978, [92 Stat. 382](https://www.govinfo.gov/link/statute/92/382); [Pub. L. 95–318, § 2](https://www.govinfo.gov/link/plaw/95/public/318), July 10, 1978, [92 Stat. 384](https://www.govinfo.gov/link/statute/92/384); [Pub. L. 95–454, title IX, § 906(a)(2)](https://www.govinfo.gov/link/plaw/95/public/454), (3), Oct. 13, 1978, [92 Stat. 1224](https://www.govinfo.gov/link/statute/92/1224); [Pub. L. 95–598, title III, § 338(c)](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2681](https://www.govinfo.gov/link/statute/92/2681); [Pub. L. 96–179, § 1](https://www.govinfo.gov/link/plaw/96/public/179), Jan. 2, 1980, [93 Stat. 1299](https://www.govinfo.gov/link/statute/93/1299); [Pub. L. 98–353, title I, § 112](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 343](https://www.govinfo.gov/link/statute/98/343); [Pub. L. 98–615, § 2(4)](https://www.govinfo.gov/link/plaw/98/public/615), Nov. 8, 1984, [98 Stat. 3199](https://www.govinfo.gov/link/statute/98/3199); [Pub. L. 99–251, title II](https://www.govinfo.gov/link/plaw/99/public/251), §§ 205–207, Feb. 27, 1986, [100 Stat. 25](https://www.govinfo.gov/link/statute/100/25); [Pub. L. 99–272, title XV, § 15204(a)(2)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 335](https://www.govinfo.gov/link/statute/100/335); [Pub. L. 101–428, § 2(d)(7)](https://www.govinfo.gov/link/plaw/101/public/428), Oct. 15, 1990, [104 Stat. 929](https://www.govinfo.gov/link/statute/104/929); [Pub. L. 102–378, § 2(63)](https://www.govinfo.gov/link/plaw/102/public/378), Oct. 2, 1992, [106 Stat. 1354](https://www.govinfo.gov/link/statute/106/1354); [Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 633(a)(1)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–314](https://www.govinfo.gov/link/statute/110/3009), 3009–362; [Pub. L. 105–61, title V](https://www.govinfo.gov/link/plaw/105/public/61), §§ 516(a)(4), 518(a), Oct. 10, 1997, [111 Stat. 1306](https://www.govinfo.gov/link/statute/111/1306), 1307; [Pub. L. 106–553, § 1(a)(2) [title III, § 308(h)(7)]](https://www.govinfo.gov/link/plaw/106/public/553), Dec. 21, 2000, [114 Stat. 2762](https://www.govinfo.gov/link/statute/114/2762), 2762A–89.)*

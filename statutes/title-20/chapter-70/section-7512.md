@@ -3,9 +3,10 @@ title: "Section 7512 - Findings"
 usc_title: 20
 usc_section: "7512"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 7512"
-generated_at: "2026-03-30T02:54:48.214Z"
+generated_at: "2026-11-23T20:26:14.917Z"
+status: "active"
 ---
 
 # § 7512. Findings
@@ -41,3 +42,7 @@ Congress finds the following:
     - **(G)** the American Indian, Alaska Native, and Native Hawaiian Culture and Art Development Act ( 20 U.S.C. 4401 et seq.);
     - **(H)** the Workforce Innovation and Opportunity Act; and
     - **(I)** the Older Americans Act of 1965 ( 42 U.S.C. 3001 et seq.).
+
+## Source Credit
+
+*([Pub. L. 89–10, title VI, § 6202](https://www.govinfo.gov/link/plaw/89/public/10), formerly title VII, § 7202, as added [Pub. L. 107–110, title VII, § 701](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1932](https://www.govinfo.gov/link/statute/115/1932); amended [Pub. L. 111–256, § 2(c)](https://www.govinfo.gov/link/plaw/111/public/256), Oct. 5, 2010, [124 Stat. 2643](https://www.govinfo.gov/link/statute/124/2643); [Pub. L. 113–128, title V, § 512(i)(5)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1709](https://www.govinfo.gov/link/statute/128/1709); [Pub. L. 113–287, § 5(e)(3)](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3268](https://www.govinfo.gov/link/statute/128/3268); renumbered title VI, § 6202, and amended [Pub. L. 114–95, title VI](https://www.govinfo.gov/link/plaw/114/public/95), §§ 6001(a), (b)(1), 6003(a), Dec. 10, 2015, [129 Stat. 2046](https://www.govinfo.gov/link/statute/129/2046), 2063.)*

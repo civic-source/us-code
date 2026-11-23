@@ -3,9 +3,10 @@ title: "Section 438 - Preventive health services allowance"
 usc_title: 37
 usc_section: "438"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "37 U.S.C. § 438"
-generated_at: "2026-03-30T02:55:44.058Z"
+generated_at: "2026-11-23T20:26:57.414Z"
+status: "active"
 ---
 
 # § 438. Preventive health services allowance
@@ -32,3 +33,21 @@ generated_at: "2026-03-30T02:55:44.058Z"
 - **(e)** At a minimum, the Secretary of Defense shall monitor and record the health of members receiving a preventive health services allowance and their dependents and the results of the testing required to qualify for payment of the allowance, if conducted. The Secretary shall assess the medical utility of the testing required to qualify for payment of a preventive health allowance.
 - **(f)** Not later than March 31, 2010 , and March 31, 2012 , the Secretary of Defense shall submit to Congress a report on the status of the demonstration project, including findings regarding the medical status of participants, recommendations to modify the policies and procedures of the program, and recommendations concerning the future utility of the project.
 - **(g)** The Secretary of Defense shall prescribe regulations to carry out this section.
+
+Demonstration Project
+
+Eligible Members
+
+Amount of Allowance
+
+Authorized Preventive Health Services
+
+Data Collection
+
+Reporting Requirement
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title VII, § 714(a), Oct. 14, 2008, [122 Stat. 4504](https://www.govinfo.gov/link/statute/122/4504).)*

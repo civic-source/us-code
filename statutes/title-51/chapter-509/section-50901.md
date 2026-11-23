@@ -3,9 +3,10 @@ title: "Section 50901 - Findings and purposes"
 usc_title: 51
 usc_section: "50901"
 chapter: 509
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 50901"
-generated_at: "2026-03-30T02:56:28.707Z"
+generated_at: "2026-11-23T20:27:37.498Z"
+status: "active"
 ---
 
 # § 50901. Findings and purposes
@@ -34,3 +35,37 @@ generated_at: "2026-03-30T02:56:28.707Z"
     - **(C)** promoting the continuous improvement of the safety of launch vehicles designed to carry humans, including through the issuance of regulations, to the extent permitted by this chapter;
   - **(3)** to provide that the Secretary of Transportation is to oversee and coordinate the conduct of commercial launch and reentry operations, issue permits and commercial licenses and transfer commercial licenses authorizing those operations, and protect the public health and safety, safety of property, and national security and foreign policy interests of the United States; and
   - **(4)** to facilitate the strengthening and expansion of the United States space transportation infrastructure, including the enhancement of United States launch sites and launch-site support facilities, and development of reentry sites, with Government, State, and private sector involvement, to support the full range of United States space-related activities.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 70101(a) | 49 App.:2601. | Oct. 30, 1984 , Pub. L. 98–575 , §§ 2, 3, 98 Stat. 3055 ; Nov. 16, 1990 , Pub. L. 101–611, § 117(c) , (d), 104 Stat. 3202 . |
+| 70101(b) | 49 App.:2602. |  |
+
+
+Findings
+
+Purposes
+
+Historical and Revision Notes
+
+70101(a)
+
+Oct. 30, 1984
+
+Pub. L. 98–575
+
+98 Stat. 3055
+
+Nov. 16, 1990
+
+Pub. L. 101–611, § 117(c)
+
+104 Stat. 3202
+
+70101(b)
+
+“The Congress finds that—
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1330](https://www.govinfo.gov/link/statute/108/1330), § 70101 of title 49; [Pub. L. 105–303, title I, § 102(a)(2)](https://www.govinfo.gov/link/plaw/105/public/303), Oct. 28, 1998, [112 Stat. 2846](https://www.govinfo.gov/link/statute/112/2846); [Pub. L. 108–492, § 2(a)](https://www.govinfo.gov/link/plaw/108/public/492), Dec. 23, 2004, [118 Stat. 3974](https://www.govinfo.gov/link/statute/118/3974); renumbered § 70101 then § 50901 of title 51, [Pub. L. 111–314, § 4(d)(2)](https://www.govinfo.gov/link/plaw/111/public/314), (3)(A), Dec. 18, 2010, [124 Stat. 3440](https://www.govinfo.gov/link/statute/124/3440); [Pub. L. 114–90, title I, § 112(a)](https://www.govinfo.gov/link/plaw/114/public/90), Nov. 25, 2015, [129 Stat. 711](https://www.govinfo.gov/link/statute/129/711).)*

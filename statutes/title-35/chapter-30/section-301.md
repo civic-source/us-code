@@ -3,9 +3,10 @@ title: "Section 301 - Citation of prior art and written statements"
 usc_title: 35
 usc_section: "301"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "35 U.S.C. § 301"
-generated_at: "2026-03-30T02:55:34.240Z"
+generated_at: "2026-11-23T20:26:49.146Z"
+status: "active"
 ---
 
 # § 301. Citation of prior art and written statements
@@ -17,3 +18,17 @@ generated_at: "2026-03-30T02:55:34.240Z"
 - **(c)** A party that submits a written statement pursuant to subsection (a)(2) shall include any other documents, pleadings, or evidence from the proceeding in which the statement was filed that addresses the written statement.
 - **(d)** A written statement submitted pursuant to subsection (a)(2), and additional information submitted pursuant to subsection (c), shall not be considered by the Office for any purpose other than to determine the proper meaning of a patent claim in a proceeding that is ordered or instituted pursuant to section 304, 314, or 324. If any such written statement or additional information is subject to an applicable protective order, such statement or information shall be redacted to exclude information that is subject to that order.
 - **(e)** Upon the written request of the person citing prior art or written statements pursuant to subsection (a), that person’s identity shall be excluded from the patent file and kept confidential.
+
+In General
+
+Official File
+
+Additional Information
+
+Limitations
+
+Confidentiality
+
+## Source Credit
+
+*(Added [Pub. L. 96–517, § 1](https://www.govinfo.gov/link/plaw/96/public/517), Dec. 12, 1980, [94 Stat. 3015](https://www.govinfo.gov/link/statute/94/3015); amended [Pub. L. 112–29, § 6(g)(1)](https://www.govinfo.gov/link/plaw/112/public/29), Sept. 16, 2011, [125 Stat. 311](https://www.govinfo.gov/link/statute/125/311).)*

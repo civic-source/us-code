@@ -3,9 +3,10 @@ title: "Section 2671 - Emergency expenditures"
 usc_title: 22
 usc_section: "2671"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2671"
-generated_at: "2026-03-30T02:55:05.377Z"
+generated_at: "2026-11-23T20:26:32.366Z"
+status: "active"
 ---
 
 # § 2671. Emergency expenditures
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:55:05.377Z"
   - **(9)** assess charges, in addition to the interest provided for in paragraph (8), to cover the costs of processing and handling delinquent claims, as of May 1, 1983 ;
   - **(10)** assess a penalty charge, in addition to the interest provided for in paragraphs (8) and (9), of 6 per centum per year for failure to pay any portion of a debt more than ninety days past due; and
   - **(11)** implement the interest and penalty provisions in paragraphs (8), (9), and (10) for all current and future loans, regardless of whether the debts were incurred before or after May 1, 1983 .
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title I, § 4, [70 Stat. 890](https://www.govinfo.gov/link/statute/70/890); renumbered title I, [Pub. L. 97–241, title II, § 202(a)](https://www.govinfo.gov/link/plaw/97/public/241), Aug. 24, 1982, [96 Stat. 282](https://www.govinfo.gov/link/statute/96/282); [Pub. L. 98–164, title I, § 122(a)](https://www.govinfo.gov/link/plaw/98/public/164), Nov. 22, 1983, [97 Stat. 1023](https://www.govinfo.gov/link/statute/97/1023); [Pub. L. 103–236, title I, § 125](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 393](https://www.govinfo.gov/link/statute/108/393); [Pub. L. 104–316, title I, § 115(g)(2)(D)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3835](https://www.govinfo.gov/link/statute/110/3835); [Pub. L. 107–228, div. A, title II, § 201](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1361](https://www.govinfo.gov/link/statute/116/1361).)*

@@ -3,12 +3,17 @@ title: "Section 673 - Order by commission directing method of mining, etc.; expe
 usc_title: 33
 usc_section: "673"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 673"
-generated_at: "2026-03-30T02:55:41.066Z"
+generated_at: "2026-11-23T20:26:53.881Z"
+status: "active"
 ---
 
 # § 673. Order by commission directing method of mining, etc.; expenses of complying with order; exemption from mining taxes
 
 In case a majority of the members of said commission, within thirty days after the time so fixed, concur in the decision in favor of the petitioner or petitioners, the said commission shall thereupon make an order directing the methods and specifying in detail the manner in which operations shall proceed in such mine or mines; what restraining or impounding works, if any, if facilities therefor can be found, shall be built and maintained; how and of what material; where to be located; and in general set forth such further requirements and safeguards as will protect the public interests and prevent injury to the said navigable rivers and the lands adjacent thereto, with such further conditions and limitations as will observe all the provisions of this chapter in relation to the working thereof and the payment of taxes on the gross proceeds of the same: Provided , That all expense incurred in complying with said order shall be borne by the owner or owners of such mine or mines: And provided further , That where it shall appear to said commission that hydraulic mining may be carried on without injury to the navigation of said navigable rivers and the lands adjacent thereto, an order may be made authorizing such mining to be carried on without requiring the construction of any restraining or impounding works or any settling reservoirs: And provided also , That where such an order is made a license to mine, no taxes provided for in this chapter on the gross proceeds of such mining operations shall be collected.
 
+
+## Source Credit
+
+*(Mar. 1, 1893, ch. 183, § 13, [27 Stat. 508](https://www.govinfo.gov/link/statute/27/508); Feb. 27, 1907, ch. 2077, [34 Stat. 1001](https://www.govinfo.gov/link/statute/34/1001).)*

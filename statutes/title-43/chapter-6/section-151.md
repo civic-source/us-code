@@ -3,12 +3,17 @@ title: "Section 151 - Opening of lands restored to entry after withdrawals"
 usc_title: 43
 usc_section: "151"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 151"
-generated_at: "2026-03-30T02:55:57.435Z"
+generated_at: "2026-11-23T20:27:06.171Z"
+status: "active"
 ---
 
 # § 151. Opening of lands restored to entry after withdrawals
 
 When public lands are excluded from national forests or released from withdrawals the President may, whenever in his judgment it is proper or necessary, provide for the opening of the lands by settlement in advance of entry, by drawing, or by such other method as he may deem advisable in the interest of equal opportunity and good administration, and in doing so may provide that lands so opened shall be subject only to homestead entry by actual settlers only or to entry under the desert-land laws for a period not exceeding ninety days, the unentered lands to be thereafter subject to disposition under the public-land laws applicable thereto.
 
+
+## Source Credit
+
+*(Sept. 30, 1913, ch. 15, § 1, [38 Stat. 113](https://www.govinfo.gov/link/statute/38/113).)*

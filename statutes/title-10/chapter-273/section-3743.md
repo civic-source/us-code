@@ -3,9 +3,10 @@ title: "Section 3743 - Effect of submission of unallowable costs"
 usc_title: 10
 usc_section: "3743"
 chapter: 273
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 3743"
-generated_at: "2026-03-30T02:53:38.196Z"
+generated_at: "2026-11-23T20:25:51.854Z"
+status: "active"
 ---
 
 # § 3743. Effect of submission of unallowable costs
@@ -25,3 +26,17 @@ generated_at: "2026-03-30T02:53:38.196Z"
 - **(d)** An action of the head of an agency under subsection (a) or (b)—
   - **(1)** shall be considered a final decision for the purposes of section 7103 of title 41 ; and
   - **(2)** is appealable in the manner provided in section 7104(a) of title 41 .
+
+Indirect Cost That Violates a FAR Cost Principle
+
+Penalty for Violation of Cost Principle.—
+
+Cost determined to be unallowable before proposal submitted
+
+Waiver of Penalty
+
+Applicability of Contract Disputes Procedure to Disallowance of Cost and Assessment of Penalty
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1832(a)](https://www.govinfo.gov/link/plaw/116/public/283), (c), Jan. 1, 2021, [134 Stat. 4218](https://www.govinfo.gov/link/statute/134/4218), 4219.)*

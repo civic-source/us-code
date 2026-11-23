@@ -3,9 +3,10 @@ title: "Section 907a - National Commission on Social Security"
 usc_title: 42
 usc_section: "907a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 907a"
-generated_at: "2026-03-30T02:56:10.899Z"
+generated_at: "2026-11-23T20:27:20.954Z"
+status: "active"
 ---
 
 # § 907a. National Commission on Social Security
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:56:10.899Z"
 - **(f)** The Commission may secure directly from any department or agency of the United States such data and information as may be necessary to enable it to carry out its duties under this section. Upon request of the Chairman of the Commission, any such department or agency shall furnish any such data or information to the Commission.
 - **(g)** The General Services Administration shall provide to the Commission, on a reimbursable basis such administrative support services as the Commission may request.
 - **(h)** There are authorized to be appropriated such sums as may be necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 95–216, title III, § 361](https://www.govinfo.gov/link/plaw/95/public/216), Dec. 20, 1977, [91 Stat. 1556](https://www.govinfo.gov/link/statute/91/1556); [Pub. L. 96–265, title V, § 502](https://www.govinfo.gov/link/plaw/96/public/265), June 9, 1980, [94 Stat. 470](https://www.govinfo.gov/link/statute/94/470); [Pub. L. 98–369, div. B, title III, § 2349(b)(3)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1097](https://www.govinfo.gov/link/statute/98/1097).)*

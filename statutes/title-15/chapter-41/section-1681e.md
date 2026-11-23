@@ -3,9 +3,10 @@ title: "Section 1681e - Compliance procedures"
 usc_title: 15
 usc_section: "1681e"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1681e"
-generated_at: "2026-03-30T02:54:08.149Z"
+generated_at: "2026-11-23T20:26:04.083Z"
+status: "active"
 ---
 
 # § 1681e. Compliance procedures
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:08.149Z"
   - **(3)** Notwithstanding paragraph (1) or (2), a person who procures a consumer report for purposes of reselling the report (or any information in the report) shall not disclose the identity of the end-user of the report under paragraph (1) or (2) if—
     - **(A)** the end user is an agency or department of the United States Government which procures the report from the person for purposes of determining the eligibility of the consumer concerned to receive access or continued access to classified information (as defined in section 1681b(b)(4)(E)(i) 1 1 See References in Text note below. of this title); and
     - **(B)** the agency or department certifies in writing to the person reselling the report that nondisclosure is necessary to protect classified information or the safety of persons employed by or contracting with, or undergoing investigation for work or contracting with the agency or department.
+
+## Source Credit
+
+*([Pub. L. 90–321, title VI, § 607](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 91–508, title VI, § 601](https://www.govinfo.gov/link/plaw/91/public/508), Oct. 26, 1970, [84 Stat. 1130](https://www.govinfo.gov/link/statute/84/1130); amended [Pub. L. 104–208, div. A, title II, § 2407](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–435](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 105–107, title III, § 311(b)](https://www.govinfo.gov/link/plaw/105/public/107), Nov. 20, 1997, [111 Stat. 2256](https://www.govinfo.gov/link/statute/111/2256); [Pub. L. 111–203, title X, § 1088(a)(2)(A)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2087](https://www.govinfo.gov/link/statute/124/2087).)*

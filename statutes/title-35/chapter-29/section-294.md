@@ -3,9 +3,10 @@ title: "Section 294 - Voluntary arbitration"
 usc_title: 35
 usc_section: "294"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "35 U.S.C. § 294"
-generated_at: "2026-03-30T02:55:34.240Z"
+generated_at: "2026-11-23T20:26:49.145Z"
+status: "active"
 ---
 
 # § 294. Voluntary arbitration
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:34.240Z"
 - **(c)** An award by an arbitrator shall be final and binding between the parties to the arbitration but shall have no force or effect on any other person. The parties to an arbitration may agree that in the event a patent which is the subject matter of an award is subsequently determined to be invalid or unenforceable in a judgment rendered by a court of competent jurisdiction from which no appeal can or has been taken, such award may be modified by any court of competent jurisdiction upon application by any party to the arbitration. Any such modification shall govern the rights and obligations between such parties from the date of such modification.
 - **(d)** When an award is made by an arbitrator, the patentee, his assignee or licensee shall give notice thereof in writing to the Director. There shall be a separate notice prepared for each patent involved in such proceeding. Such notice shall set forth the names and addresses of the parties, the name of the inventor, and the name of the patent owner, shall designate the number of the patent, and shall contain a copy of the award. If an award is modified by a court, the party requesting such modification shall give notice of such modification to the Director. The Director shall, upon receipt of either notice, enter the same in the record of the prosecution of such patent. If the required notice is not filed with the Director, any party to the proceeding may provide such notice to the Director.
 - **(e)** The award shall be unenforceable until the notice required by subsection (d) is received by the Director.
+
+## Source Credit
+
+*(Added [Pub. L. 97–247, § 17(b)(1)](https://www.govinfo.gov/link/plaw/97/public/247), Aug. 27, 1982, [96 Stat. 322](https://www.govinfo.gov/link/statute/96/322); amended [Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–582; [Pub. L. 107–273, div. C, title III, § 13206(a)(19)](https://www.govinfo.gov/link/plaw/107/public/273), (b)(1)(B), Nov. 2, 2002, [116 Stat. 1905](https://www.govinfo.gov/link/statute/116/1905), 1906; [Pub. L. 112–29, § 20(j)](https://www.govinfo.gov/link/plaw/112/public/29), Sept. 16, 2011, [125 Stat. 335](https://www.govinfo.gov/link/statute/125/335).)*

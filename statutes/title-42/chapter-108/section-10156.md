@@ -3,9 +3,10 @@ title: "Section 10156 - Interim Storage Fund"
 usc_title: 42
 usc_section: "10156"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10156"
-generated_at: "2026-03-30T02:56:11.382Z"
+generated_at: "2026-11-23T20:27:23.213Z"
+status: "active"
 ---
 
 # § 10156. Interim Storage Fund
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:56:11.382Z"
   - **(4)** Receipts, proceeds, and recoveries realized by the Secretary under this section, and expenditures of amounts from the Storage Fund, shall be exempt from annual apportionment under the provisions of subchapter II of chapter 15 of title 31.
   - **(5)** If at any time the moneys available in the Storage Fund are insufficient to enable the Secretary to discharge his responsibilities under this part, the Secretary shall issue to the Secretary of the Treasury obligations in such forms and denominations, bearing such maturities, and subject to such terms and conditions as may be agreed to by the Secretary and the Secretary of the Treasury. The total of such obligations shall not exceed amounts provided in appropriation Acts. Redemption of such obligations shall be made by the Secretary from moneys available in the Storage Fund. Such obligations shall bear interest at a rate determined by the Secretary of the Treasury, which shall be not less than a rate determined by taking into consideration the average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the issuance of the obligations under this paragraph. The Secretary of the Treasury shall purchase any issued obligations, and for such purpose the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which securities may be issued under such Act 2 2 See References in Text note below. are extended to include any purchase of such obligations. The Secretary of the Treasury may at any time sell any of the obligations acquired by him under this paragraph. All redemptions, purchases, and sales by the Secretary of the Treasury of obligations under this paragraph shall be treated as public debt transactions of the United States.
   - **(6)** Any appropriations made available to the Storage Fund for any purpose described in subsection (d) shall be repaid into the general fund of the Treasury, together with interest from the date of availability of the appropriations until the date of repayment. Such interest shall be paid on the cumulative amount of appropriations available to the Storage Fund, less the average undisbursed cash balance in the Storage Fund account during the fiscal year involved. The rate of such interest shall be determined by the Secretary of the Treasury taking into consideration the average market yield during the month preceding each fiscal year on outstanding marketable obligations of the United States of comparable maturity. Interest payments may be deferred with the approval of the Secretary of the Treasury, but any interest payments so deferred shall themselves bear interest.
+
+## Source Credit
+
+*([Pub. L. 97–425, title I, § 136](https://www.govinfo.gov/link/plaw/97/public/425), Jan. 7, 1983, [96 Stat. 2237](https://www.govinfo.gov/link/statute/96/2237).)*

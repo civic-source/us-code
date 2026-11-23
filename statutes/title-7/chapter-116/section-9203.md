@@ -3,9 +3,10 @@ title: "Section 9203 - Evaluation and research plan"
 usc_title: 7
 usc_section: "9203"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 9203"
-generated_at: "2026-03-30T02:53:42.489Z"
+generated_at: "2026-11-23T20:25:41.964Z"
+status: "active"
 ---
 
 # § 9203. Evaluation and research plan
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:42.489Z"
   - **(1)** shall be published in an unclassified format that is publicly available;
   - **(2)** shall be submitted under subsection (a)(3) in unclassified form; and
   - **(3)** may include in the submission under subsection (a)(3) a classified annex for any sensitive or classified information, as necessary.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. P, § 4](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2160](https://www.govinfo.gov/link/statute/134/2160).)*

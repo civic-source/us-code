@@ -3,9 +3,10 @@ title: "Section 1361 - S corporation defined"
 usc_title: 26
 usc_section: "1361"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1361"
-generated_at: "2026-03-30T02:55:27.769Z"
+generated_at: "2026-11-23T20:26:46.090Z"
+status: "active"
 ---
 
 # § 1361. S corporation defined
@@ -123,3 +124,75 @@ generated_at: "2026-03-30T02:55:27.769Z"
     - **(B)** is subject to an agreement with such bank or company (or a corporation which controls (within the meaning of section 368(c)) such bank or company) pursuant to which the holder is required to sell back such stock (at the same price as the individual acquired such stock) upon ceasing to hold the office of director.
   - **(3)** For treatment of certain distributions with respect to restricted bank director stock, see section 1368(f).
 - **(g)** In the case of a bank which changes from the reserve method of accounting for bad debts described in section 585 or 593 for its first taxable year for which an election under section 1362(a) is in effect, the bank may elect to take into account any adjustments under section 481 by reason of such change for the taxable year immediately preceding such first taxable year.
+
+Ownership of stock in certain inactive corporations
+
+In general
+
+Special rule for treatment as second class of stock
+
+In general
+
+Amendment made by subsection
+
+(2)
+
+Amendment made by subsection
+
+(1)
+
+Amendments made by subsection
+
+Amendment made by subsection
+
+In General
+
+Transitional Rules.—
+
+Sections 1379 and 62(9) continue to apply for 1983
+
+Allowance of exclusion of death benefit
+
+New passive income rules apply to taxable years beginning during 1982
+
+Grandfather Rules.—
+
+Subsidiaries which are foreign corporations or disc’s
+
+Casualty insurance companies.—
+
+In general
+
+Qualified casualty insurance electing small business corporation
+
+Certain corporations with oil and gas production.—
+
+In general
+
+Qualified oil corporation
+
+Average daily production
+
+Substantial shareholder
+
+Continuity required.—
+
+In general
+
+Special rules for paragraph (2).—
+
+Treatment of Existing Fringe Benefit Plans.—
+
+In general
+
+Requirements
+
+Existing fringe benefit
+
+Treatment of Certain Elections Under Prior Law
+
+Taxable Year of S Corporations
+
+## Source Credit
+
+*(Added [Pub. L. 97–354, § 2](https://www.govinfo.gov/link/plaw/97/public/354), Oct. 19, 1982, [96 Stat. 1669](https://www.govinfo.gov/link/statute/96/1669); amended [Pub. L. 98–369, div. A, title VII, § 721(c)](https://www.govinfo.gov/link/plaw/98/public/369), (f), July 18, 1984, [98 Stat. 967](https://www.govinfo.gov/link/statute/98/967); [Pub. L. 99–514, title IX, § 901(d)(4)(G)](https://www.govinfo.gov/link/plaw/99/public/514), title XVIII, § 1879(m)(1)(A), Oct. 22, 1986, [100 Stat. 2380](https://www.govinfo.gov/link/statute/100/2380), 2910; [Pub. L. 100–647, title I, § 1018(q)(2)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3585](https://www.govinfo.gov/link/statute/102/3585); [Pub. L. 101–239, title VII, § 7811(c)(6)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2407](https://www.govinfo.gov/link/statute/103/2407); [Pub. L. 104–188, title I](https://www.govinfo.gov/link/plaw/104/public/188), §§ 1301–1302(c), 1303, 1304, 1308(a), (b), (d)(1), 1315, 1316(a), (e), 1616(b)(15), Aug. 20, 1996, [110 Stat. 1777](https://www.govinfo.gov/link/statute/110/1777), 1779, 1782, 1783, 1785, 1786, 1857; [Pub. L. 105–34, title XVI, § 1601(c)(1)](https://www.govinfo.gov/link/plaw/105/public/34), (3), (4)(B), (C), Aug. 5, 1997, [111 Stat. 1087](https://www.govinfo.gov/link/statute/111/1087); [Pub. L. 105–206, title VI, § 6007(f)(3)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 810](https://www.govinfo.gov/link/statute/112/810); [Pub. L. 106–554, § 1(a)(7) [title III, § 316(b)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–644; [Pub. L. 108–357, title II](https://www.govinfo.gov/link/plaw/108/public/357), §§ 231(a), 232(a), 233(a), (b), 234(a), 236(a), 239(a), Oct. 22, 2004, [118 Stat. 1433–1435](https://www.govinfo.gov/link/statute/118/1433), 1437; [Pub. L. 109–135, title IV](https://www.govinfo.gov/link/plaw/109/public/135), §§ 403(b), 413(a)(1), (c), Dec. 21, 2005, [119 Stat. 2620](https://www.govinfo.gov/link/statute/119/2620), 2641; [Pub. L. 110–28, title VIII](https://www.govinfo.gov/link/plaw/110/public/28), §§ 8232(a), 8233(a), 8234(a), May 25, 2007, [121 Stat. 197](https://www.govinfo.gov/link/statute/121/197), 198; [Pub. L. 115–97, title I, § 13541(a)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2154](https://www.govinfo.gov/link/statute/131/2154); [Pub. L. 115–141, div. U, title I, § 109(a)](https://www.govinfo.gov/link/plaw/115/public/141), title IV, § 401(a)(190), (d)(1)(D)(xvi), Mar. 23, 2018, [132 Stat. 1171](https://www.govinfo.gov/link/statute/132/1171), 1193, 1208.)*

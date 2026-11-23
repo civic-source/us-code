@@ -3,9 +3,10 @@ title: "Section 46320 - Interference with wildfire suppression, law enforcement,
 usc_title: 49
 usc_section: "46320"
 chapter: 463
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 46320"
-generated_at: "2026-03-30T02:56:19.398Z"
+generated_at: "2026-11-23T20:27:35.264Z"
+status: "active"
 ---
 
 # § 46320. Interference with wildfire suppression, law enforcement, or emergency response effort by operation of unmanned aircraft
@@ -18,3 +19,23 @@ generated_at: "2026-03-30T02:56:19.398Z"
 - **(d)** In this section, the following definitions apply:
   - **(1)** The term “wildfire” has the meaning given that term in section 2 of the Emergency Wildfire Suppression Act ( 42 U.S.C. 1856m ).
   - **(2)** The term “wildfire suppression” means an effort to contain, extinguish, or suppress a wildfire.
+
+In General
+
+Exceptions
+
+Compromise and Setoff.—
+
+Compromise
+
+Setoff
+
+Definitions
+
+Wildfire
+
+Wildfire suppression
+
+## Source Credit
+
+*(Added [Pub. L. 114–190, title II, § 2205(a)](https://www.govinfo.gov/link/plaw/114/public/190), July 15, 2016, [130 Stat. 630](https://www.govinfo.gov/link/statute/130/630).)*

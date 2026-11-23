@@ -3,9 +3,10 @@ title: "Section 1153 - Retirement Savings Lost and Found"
 usc_title: 29
 usc_section: "1153"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1153"
-generated_at: "2026-03-30T02:55:18.721Z"
+generated_at: "2026-11-23T20:26:37.977Z"
+status: "active"
 ---
 
 # § 1153. Retirement Savings Lost and Found
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:18.721Z"
 - **(g)** On an annual basis for each of the first 5 years beginning one year after the establishment of the database in subsection (a)(1) and every 5 years thereafter, the Inspector General of the Department of Labor shall—
   - **(1)** conduct an audit of the administration of the Retirement Savings Lost and Found; and
   - **(2)** submit a report on such audit to the Committee on Health, Education, Labor, and Pensions and the Committee on Finance of the Senate and the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 523](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 117–328, div. T, title III, § 303(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5339](https://www.govinfo.gov/link/statute/136/5339).)*

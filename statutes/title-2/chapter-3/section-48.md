@@ -3,9 +3,10 @@ title: "Section 48 - Transferred"
 usc_title: 2
 usc_section: "48"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 48"
-generated_at: "2026-03-30T02:53:04.786Z"
+generated_at: "2026-11-23T20:25:28.817Z"
+status: "transferred"
 ---
 
 # § 48. Transferred

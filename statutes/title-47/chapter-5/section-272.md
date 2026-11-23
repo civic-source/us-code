@@ -3,9 +3,10 @@ title: "Section 272 - Separate affiliate; safeguards"
 usc_title: 47
 usc_section: "272"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 272"
-generated_at: "2026-03-30T02:56:24.502Z"
+generated_at: "2026-11-23T20:27:28.856Z"
+status: "active"
 ---
 
 # § 272. Separate affiliate; safeguards
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:56:24.502Z"
   - **(2)** A Bell operating company may not market or sell interLATA service provided by an affiliate required by this section within any of its in-region States until such company is authorized to provide interLATA services in such State under section 271(d) of this title .
   - **(3)** The joint marketing and sale of services permitted under this subsection shall not be considered to violate the nondiscrimination provisions of subsection (c).
 - **(h)** With respect to any activity in which a Bell operating company is engaged on February 8, 1996 , such company shall have one year from February 8, 1996 , to comply with the requirements of this section.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title II, § 272, as added [Pub. L. 104–104, title I, § 151(a)](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 92](https://www.govinfo.gov/link/statute/110/92).)*

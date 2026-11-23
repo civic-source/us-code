@@ -3,9 +3,10 @@ title: "Section 6320 - Purchase of office equipment or furnishings by Senators"
 usc_title: 2
 usc_section: "6320"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 6320"
-generated_at: "2026-03-30T02:53:04.840Z"
+generated_at: "2026-11-23T20:25:29.072Z"
+status: "active"
 ---
 
 # § 6320. Purchase of office equipment or furnishings by Senators
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:04.840Z"
   - **(1)** in accordance with regulations which shall be prescribed by the Committee on Rules and Administration of the Senate, after consultation with the General Services Administration; and
   - **(2)** at a price equal to the acquisition cost to the Federal Government of the equipment or furnishings so purchased, less allowance for depreciation determined under such regulations, but in no instance less than the fair market value of such items.
 - **(c)** Amounts received by the Federal Government from the sale of items of office equipment or office furnishings under this section shall be remitted to the General Services Administration and credited to the appropriate account or accounts.
+
+## Source Credit
+
+*([Pub. L. 93–462, § 2](https://www.govinfo.gov/link/plaw/93/public/462), Oct. 20, 1974, [88 Stat. 1388](https://www.govinfo.gov/link/statute/88/1388).)*

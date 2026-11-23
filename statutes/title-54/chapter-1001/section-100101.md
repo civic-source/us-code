@@ -3,9 +3,10 @@ title: "Section 100101 - Promotion and regulation"
 usc_title: 54
 usc_section: "100101"
 chapter: 1001
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "54 U.S.C. § 100101"
-generated_at: "2026-03-30T02:56:28.412Z"
+generated_at: "2026-11-23T20:27:37.983Z"
+status: "active"
 ---
 
 # § 100101. Promotion and regulation
@@ -18,3 +19,52 @@ generated_at: "2026-03-30T02:56:28.412Z"
     - **(C)** individually and collectively, these areas derive increased national dignity and recognition of their superb environmental quality through their inclusion jointly with each other in one System preserved and managed for the benefit and inspiration of all the people of the United States; and
     - **(D)** it is the purpose of this division to include all these areas in the System and to clarify the authorities applicable to the System.
   - **(2)** Congress reaffirms, declares, and directs that the promotion and regulation of the various System units shall be consistent with and founded in the purpose established by subsection (a), to the common benefit of all the people of the United States. The authorization of activities shall be construed and the protection, management, and administration of the System units shall be conducted in light of the high public value and integrity of the System and shall not be exercised in derogation of the values and purposes for which the System units have been established, except as directly and specifically provided by Congress.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 100101(a) | 16 U.S.C. 1 (last sentence). | Aug. 25, 1916, ch. 408, § 1 (last sentence), 39 Stat. 535 . |
+| 100101(b)(1) | 16 U.S.C. 1a–1 (1st sentence). | Pub. L. 91–383, § 1 , Aug. 18, 1970 , 84 Stat. 825 ; Pub. L. 95–250, title I, § 101(b) , Mar. 27, 1978 , 92 Stat. 166 . |
+| 100101(b)(2) | 16 U.S.C. 1a–1 (2d, last sentences). |  |
+
+
+In General
+
+Declarations.—
+
+declarations
+
+reaffirmation
+
+Historical and Revision Notes
+
+100101(a)
+
+16 U.S.C. 1
+
+Aug. 25, 1916, ch. 408, § 1
+
+39 Stat. 535
+
+100101(b)(1)
+
+16 U.S.C. 1a–1
+
+Pub. L. 91–383, § 1
+
+Aug. 18, 1970
+
+84 Stat. 825
+
+Pub. L. 95–250, title I, § 101(b)
+
+Mar. 27, 1978
+
+92 Stat. 166
+
+100101(b)(2)
+
+16 U.S.C. 1a–1
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3096](https://www.govinfo.gov/link/statute/128/3096).)*

@@ -3,9 +3,10 @@ title: "Section 5531 - Prohibiting unfair, deceptive, or abusive acts or practic
 usc_title: 12
 usc_section: "5531"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5531"
-generated_at: "2026-03-30T02:53:53.545Z"
+generated_at: "2026-11-23T20:25:59.520Z"
+status: "active"
 ---
 
 # § 5531. Prohibiting unfair, deceptive, or abusive acts or practices
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:53.545Z"
     - **(C)** the reasonable reliance by the consumer on a covered person to act in the interests of the consumer.
 - **(e)** In prescribing rules under this section, the Bureau shall consult with the Federal banking agencies, or other Federal agencies, as appropriate, concerning the consistency of the proposed rule with prudential, market, or systemic objectives administered by such agencies.
 - **(f)** The rules of the Bureau under this section shall provide, with respect to an extension of credit secured by residential real estate or a dwelling, if documented income of the borrower, including income from a small business, is a repayment source for an extension of credit secured by residential real estate or a dwelling, the creditor may consider the seasonality and irregularity of such income in the underwriting of and scheduling of payments for such credit.
+
+## Source Credit
+
+*([Pub. L. 111–203, title X, § 1031](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2005](https://www.govinfo.gov/link/statute/124/2005).)*

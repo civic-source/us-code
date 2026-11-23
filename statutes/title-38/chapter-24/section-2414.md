@@ -3,9 +3,10 @@ title: "Section 2414 - Communication between Department of Veterans Affairs and 
 usc_title: 38
 usc_section: "2414"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 2414"
-generated_at: "2026-03-30T02:55:53.498Z"
+generated_at: "2026-11-23T20:27:01.800Z"
+status: "active"
 ---
 
 # § 2414. Communication between Department of Veterans Affairs and medical examiners and funeral directors
@@ -16,3 +17,11 @@ generated_at: "2026-03-30T02:55:53.498Z"
 - **(b)** A deceased veteran described in this subsection is a deceased veteran—
   - **(1)** with respect to whom the Secretary determines that there is no next of kin or other person claiming the body of the deceased veteran; and
   - **(2)** who does not have sufficient resources for the furnishing of a casket or urn for the burial of the deceased veteran in a national cemetery, as determined by the Secretary.
+
+Required Information
+
+Deceased Veteran Described
+
+## Source Credit
+
+*(Added [Pub. L. 112–260, title I, § 103(a)](https://www.govinfo.gov/link/plaw/112/public/260), Jan. 10, 2013, [126 Stat. 2419](https://www.govinfo.gov/link/statute/126/2419).)*

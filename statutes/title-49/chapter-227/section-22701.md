@@ -3,9 +3,10 @@ title: "Section 22701 - Definitions"
 usc_title: 49
 usc_section: "22701"
 chapter: 227
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 22701"
-generated_at: "2026-03-30T02:56:19.341Z"
+generated_at: "2026-11-23T20:27:34.833Z"
+status: "active"
 ---
 
 # § 22701. Definitions
@@ -24,3 +25,23 @@ In this subchapter: 1 1 So in original. Probably should be “chapter:”.
     - **(B)** The Secretary may seek the advice of the States and rail carriers in further defining this term.
   - **(3)** The term “State” means any of the 50 States and the District of Columbia.
   - **(4)** The term “State rail transportation authority” means the State agency or official responsible under the direction of the Governor of the State or a State law for preparation, maintenance, coordination, and administration of the State rail plan.
+
+Private benefit.—
+
+In general
+
+Consultation
+
+Public benefit.—
+
+In general
+
+Consultation
+
+State
+
+State rail transportation authority
+
+## Source Credit
+
+*(Added [Pub. L. 110–432, div. B, title III, § 303(a)](https://www.govinfo.gov/link/plaw/110/public/432), Oct. 16, 2008, [122 Stat. 4947](https://www.govinfo.gov/link/statute/122/4947).)*

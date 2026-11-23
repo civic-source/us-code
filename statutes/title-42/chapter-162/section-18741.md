@@ -3,9 +3,10 @@ title: "Section 18741 - Battery processing and manufacturing"
 usc_title: 42
 usc_section: "18741"
 chapter: 162
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18741"
-generated_at: "2026-03-30T02:56:11.527Z"
+generated_at: "2026-11-23T20:27:23.820Z"
+status: "active"
 ---
 
 # § 18741. Battery processing and manufacturing
@@ -191,3 +192,19 @@ generated_at: "2026-03-30T02:56:11.527Z"
       - **(ii)** includes the recommendations of the task force on how best to implement a mandatory pay-in or other enforcement mechanism to ensure that battery producers and sellers are contributing to the recycling of batteries; and
       - **(iii)** suggests regulatory pathways for effective recycling.
   - **(6)** Nothing in this subsection, or any regulation, guideline, framework, or policy adopted or promulgated pursuant to this subsection, shall modify or otherwise affect the provisions of the Mercury-Containing and Rechargeable Battery Management Act ( 42 U.S.C. 14301 et seq.).
+
+(aa) greenhouse gas emissions reductions and energy efficient battery material processing opportunities throughout the manufacturing process; and
+
+(bb) supply chain logistics.
+
+(aa) if the eligible entity will use the grant for advanced battery component manufacturing, will not use battery material supplied by or originating from a foreign entity of concern; or
+
+(bb) if the eligible entity will use the grant for battery recycling, will not export recovered critical materials to a foreign entity of concern; and
+
+(aa) greenhouse gas emissions reductions and energy efficient battery material processing opportunities throughout the manufacturing process; and
+
+(bb) supply chain logistics; and
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title II, § 40207](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 963](https://www.govinfo.gov/link/statute/135/963).)*

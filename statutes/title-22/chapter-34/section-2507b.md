@@ -3,9 +3,10 @@ title: "Section 2507b - Sexual assault policy"
 usc_title: 22
 usc_section: "2507b"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2507b"
-generated_at: "2026-03-30T02:55:05.371Z"
+generated_at: "2026-11-23T20:26:32.316Z"
+status: "active"
 ---
 
 # § 2507b. Sexual assault policy
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:55:05.371Z"
   - **(7)** Evacuation of such volunteer for medical treatment, accompanied by a Peace Corps staffer at the request of such volunteer. When evacuated to the United States, such volunteer shall be provided, to the extent practicable, a choice of medical providers including a mechanism for such volunteers to evaluate the provider.
   - **(8)** An explanation to the volunteer of available law enforcement and prosecutorial options, and legal representation.
 - **(d)** The President shall train all staff outside the United States regarding the sexual assault policy developed under subsection (a).
+
+## Source Credit
+
+*([Pub. L. 87–293, title I, § 8B](https://www.govinfo.gov/link/plaw/87/public/293), as added [Pub. L. 112–57, § 2](https://www.govinfo.gov/link/plaw/112/public/57), Nov. 21, 2011, [125 Stat. 738](https://www.govinfo.gov/link/statute/125/738); amended [Pub. L. 115–256, title III, § 303](https://www.govinfo.gov/link/plaw/115/public/256), Oct. 9, 2018, [132 Stat. 3657](https://www.govinfo.gov/link/statute/132/3657).)*

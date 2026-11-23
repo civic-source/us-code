@@ -3,9 +3,10 @@ title: "Section 1681a - Requirements for entry of certain cigarettes and smokele
 usc_title: 19
 usc_section: "1681a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1681a"
-generated_at: "2026-03-30T02:54:24.659Z"
+generated_at: "2026-11-23T20:26:10.877Z"
+status: "active"
 ---
 
 # § 1681a. Requirements for entry of certain cigarettes and smokeless tobacco products
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:54:24.659Z"
 - **(d)** A State, through its Attorney General, shall be entitled to obtain copies of any certification required under subsection (c) directly—
   - **(1)** upon request to the agency of the United States responsible for collecting such certification; or
   - **(2)** upon request to the importer, manufacturer, or authorized official of such importer or manufacturer.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title VIII, § 802, as added [Pub. L. 106–476, title IV, § 4004(a)](https://www.govinfo.gov/link/plaw/106/public/476), Nov. 9, 2000, [114 Stat. 2178](https://www.govinfo.gov/link/statute/114/2178); amended [Pub. L. 109–432, div. C, title IV, § 401(b)](https://www.govinfo.gov/link/plaw/109/public/432), (c), (e)(1), (2), (4)(B), Dec. 20, 2006, [120 Stat. 3048](https://www.govinfo.gov/link/statute/120/3048), 3049.)*

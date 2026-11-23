@@ -3,9 +3,10 @@ title: "Section 636 - Income tax treatment of mineral production payments"
 usc_title: 26
 usc_section: "636"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 636"
-generated_at: "2026-03-30T02:55:27.722Z"
+generated_at: "2026-11-23T20:26:45.846Z"
+status: "active"
 ---
 
 # § 636. Income tax treatment of mineral production payments
@@ -15,3 +16,13 @@ generated_at: "2026-03-30T02:55:27.722Z"
 - **(c)** A production payment retained in a mineral property by the lessor in a leasing transaction shall be treated, for purposes of this subtitle, insofar as the lessee (or his successors in interest) is concerned, as if it were a bonus granted by the lessee to the lessor payable in installments. The treatment of the production payment in the hands of the lessor shall be determined without regard to the provisions of this subsection.
 - **(d)** As used in this section, the term “mineral property” has the meaning assigned to the term “property” in section 614(a).
 - **(e)** The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.
+
+General rule.—
+
+Election.—
+
+Special rule.—
+
+## Source Credit
+
+*(Added [Pub. L. 91–172, title V, § 503(a)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 630](https://www.govinfo.gov/link/statute/83/630); amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834).)*

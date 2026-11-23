@@ -3,9 +3,10 @@ title: "Section 1935 - Down payment loan program"
 usc_title: 7
 usc_section: "1935"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1935"
-generated_at: "2026-03-30T02:53:42.348Z"
+generated_at: "2026-11-23T20:25:41.355Z"
+status: "active"
 ---
 
 # § 1935. Down payment loan program
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:53:42.348Z"
   - **(1)** a qualified beginning farmer or rancher;
   - **(2)** a socially disadvantaged farmer or rancher, as defined in section 2003(e) of this title ; and
   - **(3)** a veteran farmer or rancher, as defined in section 2279(a) of this title .
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 310E](https://www.govinfo.gov/link/plaw/87/public/128), as added [Pub. L. 102–554, § 7(a)](https://www.govinfo.gov/link/plaw/102/public/554), Oct. 28, 1992, [106 Stat. 4144](https://www.govinfo.gov/link/statute/106/4144); amended [Pub. L. 107–171, title V, § 5005](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 342](https://www.govinfo.gov/link/statute/116/342); [Pub. L. 110–234, title V, § 5004](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1144](https://www.govinfo.gov/link/statute/122/1144); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title V, § 5004, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1905; [Pub. L. 113–79, title V, § 5005](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 834](https://www.govinfo.gov/link/statute/128/834); [Pub. L. 115–334, title XII, § 12306(c)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4969](https://www.govinfo.gov/link/statute/132/4969).)*

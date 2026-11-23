@@ -3,9 +3,10 @@ title: "Section 145 - Qualified 501(c)(3) bond"
 usc_title: 26
 usc_section: "145"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 145"
-generated_at: "2026-03-30T02:55:27.632Z"
+generated_at: "2026-11-23T20:26:45.394Z"
+status: "active"
 ---
 
 # § 145. Qualified 501(c)(3) bond
@@ -54,3 +55,13 @@ generated_at: "2026-03-30T02:55:27.632Z"
 - **(e)** This section shall not apply to an issue if—
   - **(1)** the issuer elects not to have this section apply to such issue, and
   - **(2)** such issue is an issue of exempt facility bonds, or qualified redevelopment bonds, to which section 146 applies.
+
+In general
+
+Exception for construction or binding agreement.—
+
+Refundings
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title XIII, § 1301(b)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2629](https://www.govinfo.gov/link/statute/100/2629); amended [Pub. L. 100–647, title I, § 1013(a)(6)](https://www.govinfo.gov/link/plaw/100/public/647) –(8), title V, § 5053(a), Nov. 10, 1988, [102 Stat. 3538](https://www.govinfo.gov/link/statute/102/3538), 3677; [Pub. L. 101–239, title VII, § 7815(f)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2419](https://www.govinfo.gov/link/statute/103/2419); [Pub. L. 101–508, title XI, § 11813(b)(7)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–551](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 105–34, title II, § 222](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 818](https://www.govinfo.gov/link/statute/111/818); [Pub. L. 115–97, title I, § 13402(b)(2)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2134](https://www.govinfo.gov/link/statute/131/2134).)*

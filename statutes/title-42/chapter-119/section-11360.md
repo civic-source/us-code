@@ -3,9 +3,10 @@ title: "Section 11360 - Definitions"
 usc_title: 42
 usc_section: "11360"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11360"
-generated_at: "2026-03-30T02:56:11.397Z"
+generated_at: "2026-11-23T20:27:23.289Z"
+status: "active"
 ---
 
 # § 11360. Definitions
@@ -122,3 +123,9 @@ For purposes of this subchapter:
   - **(33)** The term “underserved populations” includes populations underserved because of geographic location, underserved racial and ethnic populations, populations underserved because of special needs (such as language barriers, disabilities, alienage status, or age), and any other population determined to be underserved by the Secretary, as appropriate.
   - **(34)** The term “victim service provider” means a private nonprofit organization whose primary mission is to provide services to victims of domestic violence, dating violence, sexual assault, or stalking. Such term includes rape crisis centers, battered women’s shelters, domestic violence transitional housing programs, and other programs.
   - **(35)** The term “victim services” means services that assist domestic violence, dating violence, sexual assault, or stalking victims, including services offered by rape crisis centers and domestic violence shelters, and other organizations, with a documented history of effective work concerning domestic violence, dating violence, sexual assault, or stalking.
+
+“For purposes of title IV of the McKinney-Vento Homeless Assistance Act ( 42 U.S.C. 11360 et seq.)—
+
+## Source Credit
+
+*([Pub. L. 100–77, title IV, § 401](https://www.govinfo.gov/link/plaw/100/public/77), as added [Pub. L. 111–22, div. B, title I, § 1101(3)](https://www.govinfo.gov/link/plaw/111/public/22), May 20, 2009, [123 Stat. 1669](https://www.govinfo.gov/link/statute/123/1669); amended [Pub. L. 116–260, div. Q, title I, § 102(a)(1)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2165](https://www.govinfo.gov/link/statute/134/2165).)*

@@ -3,9 +3,10 @@ title: "Section 4057 - Alternative loss allocation system for indeterminate clai
 usc_title: 42
 usc_section: "4057"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4057"
-generated_at: "2026-03-30T02:56:11.198Z"
+generated_at: "2026-11-23T20:27:22.350Z"
+status: "active"
 ---
 
 # § 4057. Alternative loss allocation system for indeterminate claims
@@ -71,3 +72,7 @@ generated_at: "2026-03-30T02:56:11.198Z"
 - **(i)** Subsection (c) shall apply with respect to an indeterminate loss associated with a named storm that occurs 60 days after publication of the COASTAL Formula in the Federal Register as required by subsection (b)(1).
 - **(j)** Nothing in this subsection 3 shall be construed to negate, set aside, or void any policy limit, including any loss limitation, set forth in a standard insurance policy.
 - **(k)** Nothing in this section shall be construed to create a cause of action under this chapter.
+
+## Source Credit
+
+*([Pub. L. 90–448, title XIII, § 1337](https://www.govinfo.gov/link/plaw/90/public/448), as added [Pub. L. 112–141, div. F, title II, § 100253](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 974](https://www.govinfo.gov/link/statute/126/974); amended [Pub. L. 116–271, title II, § 201(b)](https://www.govinfo.gov/link/plaw/116/public/271), Dec. 31, 2020, [134 Stat. 3346](https://www.govinfo.gov/link/statute/134/3346).)*

@@ -3,9 +3,10 @@ title: "Section 827 - Art. 27. Detail of trial counsel and defense counsel"
 usc_title: 10
 usc_section: "827"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 827"
-generated_at: "2026-03-30T02:53:38.079Z"
+generated_at: "2026-11-23T20:25:51.065Z"
+status: "active"
 ---
 
 # § 827. Art. 27. Detail of trial counsel and defense counsel
@@ -23,3 +24,47 @@ generated_at: "2026-03-30T02:53:38.079Z"
 - **(e)** For each general and special court-martial for which charges and specifications were referred by a special trial counsel—
   - **(1)** a special trial counsel shall be detailed as trial counsel; and
   - **(2)** a special trial counsel may detail other trial counsel as necessary who are judge advocates.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 827(a) 827(b) | 50:591(a). 50:591(b). | May 5, 1950, ch. 169, § 1 (Art. 27), 64 Stat. 117 . |
+| 827(c) | 50:591(c). |  |
+
+
+Historical and Revision Notes
+
+827(a)
+
+827(b)
+
+May 5, 1950, ch. 169, § 1
+
+64 Stat. 117
+
+827(c)
+
+“Each Secretary of a military department shall—
+
+Program for Effective Prosecution and Defense
+
+Military Justice Experience Designators or Skill Identifiers
+
+Use of Civilian Employees to Advise Less Experienced Judge Advocates in Prosecution and Defense
+
+Pilot Programs on Professional Developmental Process for Judge Advocates.—
+
+Purpose
+
+Additional matters
+
+Duration
+
+Elements
+
+Report
+
+Secretary Concerned Defined
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 46; [Pub. L. 90–179, § 1(5)](https://www.govinfo.gov/link/plaw/90/public/179), Dec. 8, 1967, [81 Stat. 546](https://www.govinfo.gov/link/statute/81/546); [Pub. L. 90–632, § 2(10)](https://www.govinfo.gov/link/plaw/90/public/632), Oct. 24, 1968, [82 Stat. 1337](https://www.govinfo.gov/link/statute/82/1337); [Pub. L. 98–209](https://www.govinfo.gov/link/plaw/98/public/209), §§ 2(d), 3(c)(2), Dec. 6, 1983, [97 Stat. 1393](https://www.govinfo.gov/link/statute/97/1393), 1394; [Pub. L. 114–328, div. E, title LV, § 5186](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2902](https://www.govinfo.gov/link/statute/130/2902); [Pub. L. 117–81, div. A, title V, § 535](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1696](https://www.govinfo.gov/link/statute/135/1696); [Pub. L. 119–60, div. A, title V, § 561(b)(1)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 881](https://www.govinfo.gov/link/statute/139/881).)*

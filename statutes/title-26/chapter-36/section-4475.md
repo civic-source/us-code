@@ -3,9 +3,10 @@ title: "Section 4475 - Imposition of tax"
 usc_title: 26
 usc_section: "4475"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 4475"
-generated_at: "2026-03-30T02:55:27.803Z"
+generated_at: "2026-11-23T20:26:46.322Z"
+status: "active"
 ---
 
 # § 4475. Imposition of tax
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:27.803Z"
   - **(2)** The term “credit card” has the same meaning given such term under section 920(c)(3) of the Electronic Fund Transfer Act ( 15 U.S.C. 1693 o –2(c)(3)).
   - **(3)** The term “debit card” has the same meaning given such term under section 920(c)(2) of the Electronic Fund Transfer Act ( 15 U.S.C. 1693 o –2(c)(2)), without regard to subparagraph (B) of such section.
 - **(f)** For purposes of section 7701( l ), with respect to any multiple-party arrangements involving the sender, a remittance transfer shall be treated as a financing transaction.
+
+## Source Credit
+
+*(Added [Pub. L. 119–21, title VII, § 70604(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 285](https://www.govinfo.gov/link/statute/139/285).)*

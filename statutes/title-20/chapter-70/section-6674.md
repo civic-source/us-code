@@ -3,9 +3,10 @@ title: "Section 6674 - Technical assistance and national evaluation"
 usc_title: 20
 usc_section: "6674"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 6674"
-generated_at: "2026-03-30T02:54:48.202Z"
+generated_at: "2026-11-23T20:26:14.860Z"
+status: "active"
 ---
 
 # § 6674. Technical assistance and national evaluation
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:48.202Z"
     - **(B)** use evidence-based screening assessments for early identification of such students beginning not later than kindergarten; and
     - **(C)** implement evidence-based instruction designed to meet the specific needs of such students; and
   - **(5)** disseminate the products of the comprehensive center to regionally diverse State educational agencies, local educational agencies, regional educational agencies, and schools, including, as appropriate, through partnerships with other comprehensive centers established under section 9602 of this title , and regional educational laboratories established under section 9564 of this title .
+
+## Source Credit
+
+*([Pub. L. 89–10, title II, § 2244](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title II, § 2002](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1951](https://www.govinfo.gov/link/statute/129/1951).)*

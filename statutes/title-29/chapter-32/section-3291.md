@@ -3,9 +3,10 @@ title: "Section 3291 - Reservation of funds; grants to eligible agencies; allotm
 usc_title: 29
 usc_section: "3291"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3291"
-generated_at: "2026-03-30T02:55:18.761Z"
+generated_at: "2026-11-23T20:26:38.140Z"
+status: "active"
 ---
 
 # § 3291. Reservation of funds; grants to eligible agencies; allotments
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:55:18.761Z"
   - **(1)** Notwithstanding subsection (c), for fiscal year 2015 and each succeeding fiscal year, no eligible agency shall receive an allotment under this section that is less than 90 percent of the allotment the eligible agency received for the preceding fiscal year under this section.
   - **(2)** If for any fiscal year the amount available for allotment under this subchapter is insufficient to satisfy the provisions of paragraph (1) the Secretary shall ratably reduce the payments to all eligible agencies, as necessary.
 - **(g)** The portion of any eligible agency’s allotment under this subchapter for a fiscal year that the Secretary determines will not be required for the period such allotment is available for carrying out activities under this subchapter, shall be available for reallotment from time to time, on such dates during such period as the Secretary shall fix, to other eligible agencies in proportion to the original allotments to such agencies under this subchapter for such year.
+
+## Source Credit
+
+*([Pub. L. 113–128, title II, § 211](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1612](https://www.govinfo.gov/link/statute/128/1612).)*

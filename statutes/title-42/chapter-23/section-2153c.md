@@ -3,9 +3,10 @@ title: "Section 2153c - Renegotiation of agreements for cooperation"
 usc_title: 42
 usc_section: "2153c"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2153c"
-generated_at: "2026-03-30T02:56:11.151Z"
+generated_at: "2026-11-23T20:27:22.075Z"
+status: "active"
 ---
 
 # § 2153c. Renegotiation of agreements for cooperation
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.151Z"
 - **(b)** The President shall annually review each of requirements (1) through (9) set forth for inclusion in agreements for cooperation under section 123 a. of the 1954 Act [ 42 U.S.C. 2153(a) ] and the export policy goals set forth in section 2153b of this title to determine whether it is in the interest of United States non-proliferation objectives for any such requirements or export policies which are not already being applied as export criteria to be enacted as additional export criteria.
 - **(c)** If the President proposes enactment of any such requirements or export policies as additional export criteria or to take any other action with respect to such requirements or export policy goals for the purpose of encouraging adherence by nations and groups of nations to such requirements and policies, he shall submit such a proposal together with an explanation thereof to the Congress.
 - **(d)** If the Committee on Foreign Relations of the Senate or the Committee on Foreign Affairs of the House of Representatives, after reviewing the President’s annual report or any proposed legislation, determines that it is in the interest of United States non-proliferation objectives to take any action with respect to such requirements or export policy goals, it shall report a joint resolution to implement such determination. Any joint resolution so reported shall be considered in the Senate and the House of Representatives, respectively, under applicable procedures provided for the consideration of resolutions pursuant to subsection 1 1 So in original. 130 b. through g. of the 1954 Act [ 42 U.S.C. 2159(b) through (g)].
+
+## Source Credit
+
+*([Pub. L. 95–242, title IV, § 404](https://www.govinfo.gov/link/plaw/95/public/242), Mar. 10, 1978, [92 Stat. 147](https://www.govinfo.gov/link/statute/92/147); [Pub. L. 103–437, § 15(g)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4593](https://www.govinfo.gov/link/statute/108/4593).)*

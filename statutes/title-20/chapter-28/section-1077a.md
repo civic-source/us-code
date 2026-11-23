@@ -3,9 +3,10 @@ title: "Section 1077a - Applicable interest rates"
 usc_title: 20
 usc_section: "1077a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1077a"
-generated_at: "2026-03-30T02:54:48.111Z"
+generated_at: "2026-11-23T20:26:14.395Z"
+status: "active"
 ---
 
 # § 1077a. Applicable interest rates
@@ -136,3 +137,7 @@ generated_at: "2026-03-30T02:54:48.111Z"
 - **(n)** For the purpose of subsections (a) and (d) of this section—
   - **(1)** the term “period of instruction” shall, at the discretion of the lender, be any academic year, semester, trimester, quarter, or other academic period; or shall be the period for which the loan is made as determined by the institution of higher education; and
   - **(2)** the term “period of enrollment” shall be the period for which the loan is made as determined by the institution of higher education and shall coincide with academic terms such as academic year, semester, trimester, quarter, or other academic period as defined by such institution.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 427A](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1364](https://www.govinfo.gov/link/statute/100/1364); amended [Pub. L. 100–50, § 10(d)(1)](https://www.govinfo.gov/link/plaw/100/public/50), June 3, 1987, [101 Stat. 342](https://www.govinfo.gov/link/statute/101/342); [Pub. L. 102–325, title IV, § 415](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 514](https://www.govinfo.gov/link/statute/106/514); [Pub. L. 103–66, title IV, § 4101](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 364](https://www.govinfo.gov/link/statute/107/364); [Pub. L. 103–208, § 2(c)(5)](https://www.govinfo.gov/link/plaw/103/public/208) –(10), Dec. 20, 1993, [107 Stat. 2461](https://www.govinfo.gov/link/statute/107/2461); [Pub. L. 105–178, title VIII, § 8301(a)(1)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 496](https://www.govinfo.gov/link/statute/112/496); [Pub. L. 105–244, title IV, § 416(a)(1)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1679](https://www.govinfo.gov/link/statute/112/1679); [Pub. L. 106–554, § 1(a)(1) [title III, § 318(a)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–49; [Pub. L. 107–139, § 1(a)(1)](https://www.govinfo.gov/link/plaw/107/public/139), (c), Feb. 8, 2002, [116 Stat. 8](https://www.govinfo.gov/link/statute/116/8), 9; [Pub. L. 109–171, title VIII, § 8006(a)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 159](https://www.govinfo.gov/link/statute/120/159); [Pub. L. 110–84, title II, § 201(a)(1)](https://www.govinfo.gov/link/plaw/110/public/84), Sept. 27, 2007, [121 Stat. 790](https://www.govinfo.gov/link/statute/121/790); [Pub. L. 111–152, title II, § 2203](https://www.govinfo.gov/link/plaw/111/public/152), Mar. 30, 2010, [124 Stat. 1074](https://www.govinfo.gov/link/statute/124/1074).)*

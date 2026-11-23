@@ -3,9 +3,10 @@ title: "Section 3102 - National Landslide Hazards Reduction Program"
 usc_title: 43
 usc_section: "3102"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 3102"
-generated_at: "2026-03-30T02:55:57.501Z"
+generated_at: "2026-11-23T20:27:06.427Z"
+status: "active"
 ---
 
 # § 3102. National Landslide Hazards Reduction Program
@@ -139,3 +140,7 @@ generated_at: "2026-03-30T02:55:57.501Z"
   - **(2)** there is authorized to be appropriated to the National Science Foundation, $11,000,000 to carry out this section; and
   - **(3)** there is authorized to be appropriated to the National Oceanic and Atmospheric Administration, $1,000,000 to carry out this section.
 - **(i)** Funds to carry out the activities under this section shall be derived from amounts authorized to be appropriated that are enacted after the date of the enactment of this section.
+
+## Source Credit
+
+*([Pub. L. 116–323, § 3](https://www.govinfo.gov/link/plaw/116/public/323), Jan. 5, 2021, [134 Stat. 5076](https://www.govinfo.gov/link/statute/134/5076).)*

@@ -3,9 +3,10 @@ title: "Section 7547 - Nonroad engines and vehicles"
 usc_title: 42
 usc_section: "7547"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7547"
-generated_at: "2026-03-30T02:56:11.315Z"
+generated_at: "2026-11-23T20:27:22.917Z"
+status: "active"
 ---
 
 # § 7547. Nonroad engines and vehicles
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.315Z"
 - **(b)** Standards under this section shall take effect at the earliest possible date considering the lead time necessary to permit the development and application of the requisite technology, giving appropriate consideration to the cost of compliance within such period and energy and safety.
 - **(c)** Effective with respect to new engines or vehicles to which standards under this section apply, no emission control device, system, or element of design shall be used in such a new nonroad engine or new nonroad vehicle for purposes of complying with such standards if such device, system, or element of design will cause or contribute to an unreasonable risk to public health, welfare, or safety in its operation or function. In determining whether an unreasonable risk exists, the Administrator shall consider factors including those described in section 7521(a)(4)(B) of this title .
 - **(d)** The standards under this section shall be subject to sections 7525, 7541, 7542, and 7543 of this title, with such modifications of the applicable regulations implementing such sections as the Administrator deems appropriate, and shall be enforced in the same manner as standards prescribed under section 7521 of this title . The Administrator shall revise or promulgate regulations as may be necessary to determine compliance with, and enforce, standards in effect under this section.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title II, § 213, as added [Pub. L. 93–319, § 10](https://www.govinfo.gov/link/plaw/93/public/319), June 22, 1974, [88 Stat. 261](https://www.govinfo.gov/link/statute/88/261); amended [Pub. L. 101–549, title II, § 222(a)](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2500](https://www.govinfo.gov/link/statute/104/2500).)*

@@ -3,9 +3,10 @@ title: "Section 300hh - Public health and medical preparedness and response func
 usc_title: 42
 usc_section: "300hh"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 300hh"
-generated_at: "2026-03-30T02:56:10.841Z"
+generated_at: "2026-11-23T20:27:20.681Z"
+status: "active"
 ---
 
 # § 300hh. Public health and medical preparedness and response functions
@@ -18,3 +19,19 @@ generated_at: "2026-03-30T02:56:10.841Z"
   - **(2)** findings related to drills and operational exercises completed in the previous fiscal year pursuant to section 300hh–10(b)(4)(G) of this title ;
   - **(3)** the state of public health preparedness and response capabilities for chemical, biological, radiological, and nuclear threats, including emerging infectious diseases; and
   - **(4)** any challenges in preparing for or responding to such threats, as appropriate.
+
+Interagency data use agreements within the department of health and human services for public health emergencies.—
+
+In general
+
+Requirements
+
+Data use agreements with external entities
+
+Report
+
+In General
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXVIII, § 2801, as added [Pub. L. 107–188, title I, § 101(a)](https://www.govinfo.gov/link/plaw/107/public/188), June 12, 2002, [116 Stat. 596](https://www.govinfo.gov/link/statute/116/596); amended [Pub. L. 109–417, title I, § 101(2)](https://www.govinfo.gov/link/plaw/109/public/417), Dec. 19, 2006, [120 Stat. 2832](https://www.govinfo.gov/link/statute/120/2832); [Pub. L. 117–328, div. FF, title II, § 2103(b)(1)](https://www.govinfo.gov/link/plaw/117/public/328), (d), Dec. 29, 2022, [136 Stat. 5711](https://www.govinfo.gov/link/statute/136/5711), 5714.)*

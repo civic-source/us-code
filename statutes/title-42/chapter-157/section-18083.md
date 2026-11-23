@@ -3,9 +3,10 @@ title: "Section 18083 - Streamlining of procedures for enrollment through an Exc
 usc_title: 42
 usc_section: "18083"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18083"
-generated_at: "2026-03-30T02:56:11.516Z"
+generated_at: "2026-11-23T20:27:23.789Z"
+status: "active"
 ---
 
 # § 18083. Streamlining of procedures for enrollment through an Exchange and State medicaid, CHIP, and health subsidy programs
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:56:11.516Z"
   - **(2)** a State medicaid program under title XIX of the Social Security Act [ 42 U.S.C. 1396 et seq.];
   - **(3)** a State children’s health insurance program (CHIP) under title XXI of such Act [ 42 U.S.C. 1397aa et seq.]; and
   - **(4)** a State program under section 18051 of this title establishing qualified basic health plans.
+
+## Source Credit
+
+*([Pub. L. 111–148, title I, § 1413](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 233](https://www.govinfo.gov/link/statute/124/233).)*

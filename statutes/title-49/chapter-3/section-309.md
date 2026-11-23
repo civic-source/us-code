@@ -3,9 +3,10 @@ title: "Section 309 - High-speed ground transportation"
 usc_title: 49
 usc_section: "309"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 309"
-generated_at: "2026-03-30T02:56:19.298Z"
+generated_at: "2026-11-23T20:27:34.522Z"
+status: "active"
 ---
 
 # § 309. High-speed ground transportation
@@ -74,3 +75,39 @@ generated_at: "2026-03-30T02:56:19.298Z"
     - **(C)** a strategy for prioritizing the markets and corridors in which the construction of high-speed ground transportation systems should be encouraged; and
     - **(D)** provisions designed to promote American competitiveness in the market for high-speed ground transportation technologies.
   - **(3)** The Secretary shall solicit comments from the public in the development of the Policy and may consult with other Federal agencies as appropriate in drafting the Policy.
+
+Management of program
+
+Phase one contracts.—
+
+Request for proposals
+
+Award of contracts
+
+Factors and conditions to be considered
+
+Phase two contracts
+
+Prototype.—
+
+Selection of design
+
+Award of construction grant or contract
+
+Factors to be considered in selection
+
+Additional factors for consideration
+
+Licensing.—
+
+Proprietary rights
+
+Commercial information
+
+Reports
+
+Eligible applicant defined
+
+## Source Credit
+
+*(Added [Pub. L. 102–240, title I, § 1036(c)(1)](https://www.govinfo.gov/link/plaw/102/public/240), Dec. 18, 1991, [105 Stat. 1982](https://www.govinfo.gov/link/statute/105/1982).)*

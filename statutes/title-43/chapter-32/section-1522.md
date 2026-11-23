@@ -3,9 +3,10 @@ title: "Section 1522 - Orme Dam and Reservoir"
 usc_title: 43
 usc_section: "1522"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1522"
-generated_at: "2026-03-30T02:55:57.475Z"
+generated_at: "2026-11-23T20:27:06.298Z"
+status: "active"
 ---
 
 # § 1522. Orme Dam and Reservoir
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:57.475Z"
 - **(c)** In view of the fact that a substantial portion of the lands of the Fort McDowell Mohave-Apache Indian Community will be required for Orme Dam and Reservoir, or alternative, the Secretary shall, in addition to the compensation provided for in subsection (a) of this section, designate and add to the Fort McDowell Indian Reservation twenty-five hundred acres of suitable lands in the vicinity of the reservation that are under the jurisdiction of the Department of the Interior in township 4 north, range 7 east; township 5 north, range 7 east; and township 3 north, range 7 east, Gila and Salt River base meridian, Arizona. Title to lands so added to the reservation shall be held by the United States in trust for the Fort McDowell Mohave-Apache Indian Community.
 - **(d)** Each community shall have a right, in accordance with plans approved by the Secretary, to develop and operate recreational facilities along the part of the shoreline of the Orme Reservoir located on or adjacent to its reservation, including land added to the Fort McDowell Reservation as provided in subsection (b) of this section, subject to rules and regulations prescribed by the Secretary governing the recreation development of the reservoir. Recreation development of the entire reservoir and federally owned lands under the jurisdiction of the Secretary adjacent thereto shall be in accordance with a master recreation plan approved by the Secretary. The members of each community shall have nonexclusive personal rights to hunt and fish on or in the reservoir without charge to the same extent they are now authorized to hunt and fish, but no community shall have the right to exclude others from the reservoir except by control of access through its reservation or any right to require payment by members of the public except for the use of community lands or facilities.
 - **(e)** All funds paid pursuant to this section, and any per capita distribution thereof, shall be exempt from all forms of State and Federal income taxes.
+
+## Source Credit
+
+*([Pub. L. 90–537, title III, § 302](https://www.govinfo.gov/link/plaw/90/public/537), Sept. 30, 1968, [82 Stat. 888](https://www.govinfo.gov/link/statute/82/888).)*

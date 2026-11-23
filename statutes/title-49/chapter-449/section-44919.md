@@ -3,9 +3,10 @@ title: "Section 44919 - PreCheck Program"
 usc_title: 49
 usc_section: "44919"
 chapter: 449
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44919"
-generated_at: "2026-03-30T02:56:19.393Z"
+generated_at: "2026-11-23T20:27:35.220Z"
+status: "active"
 ---
 
 # § 44919. PreCheck Program
@@ -51,3 +52,79 @@ generated_at: "2026-03-30T02:56:19.393Z"
 - **(j)** The Administrator shall initiate an assessment to identify any security vulnerabilities in the vetting process for the PreCheck Program, including determining whether subjecting PreCheck Program participants to recurrent fingerprint-based criminal history records checks, in addition to recurrent checks against the terrorist watchlist, could be done in a cost-effective manner to strengthen the security of the PreCheck Program.
 - **(k)** In carrying out this section, the Administrator shall ensure that the additional private sector application capabilities under subsections (b), (c), and (d) are undertaken in addition to any other related TSA program, initiative, or procurement, including the Universal Enrollment Services program.
 - **(l)** Any Federal funds expended by the Administrator to expand PreCheck Program enrollment shall be expended in a manner that includes the requirements of this section.
+
+In General
+
+Expansion
+
+Minimum Capability Requirements
+
+Additional Capability Requirements
+
+Target Enrollment
+
+Marketing of PreCheck Program
+
+Identity Verification Enhancement
+
+PreCheck Program Lanes Operation
+
+Eligibility of Members of the Armed Forces for Expedited Security Screening.—
+
+In general
+
+Individuals specified
+
+Implementation
+
+Vetting for PreCheck Program Participants
+
+Assurance of Separate Program
+
+In General
+
+Trusted Traveler Programs Specified
+
+Exemptions
+
+Low-risk Travelers
+
+Risk Modified Screening.—
+
+Pilot program
+
+Eligibility
+
+Definition of low-risk passenger
+
+Termination
+
+Briefing
+
+Implementation
+
+Working Group.—
+
+In general
+
+Members
+
+Nonapplicability of faca
+
+Briefings.—
+
+In general
+
+Certification
+
+Inspector General Assessments
+
+Expansion of TSA PreCheck Program Enrollment.—
+
+Long-term strategy
+
+Considerations
+
+## Source Credit
+
+*(Added [Pub. L. 107–71, title I, § 108(a)](https://www.govinfo.gov/link/plaw/107/public/71), Nov. 19, 2001, [115 Stat. 611](https://www.govinfo.gov/link/statute/115/611); amended [Pub. L. 115–254, div. K, title I, § 1937(a)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3576](https://www.govinfo.gov/link/statute/132/3576).)*

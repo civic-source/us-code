@@ -3,9 +3,10 @@ title: "Section 664 - Collection of past-due support from Federal tax refunds"
 usc_title: 42
 usc_section: "664"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 664"
-generated_at: "2026-03-30T02:56:10.885Z"
+generated_at: "2026-11-23T20:27:20.896Z"
+status: "active"
 ---
 
 # § 664. Collection of past-due support from Federal tax refunds
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:10.885Z"
     - **(B)** The fee which the Secretary of the Treasury may impose to cover the costs of the withholding and notification may not exceed $25 per case submitted.
 - **(c)** In this part the term “past-due support” means the amount of a delinquency, determined under a court order, or an order of an administrative process established under State law, for support and maintenance of a child (whether or not a minor), or of a child (whether or not a minor) and the parent with whom the child is living.
 - **(d)** This section, except for the requirement to distribute amounts in accordance with section 657 of this title , shall apply to an Indian tribe or tribal organization receiving a grant under section 655(f) of this title in the same manner in which this section applies to a State with a plan approved under this part.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 464, as added [Pub. L. 97–35, title XXIII, § 2331(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 860](https://www.govinfo.gov/link/statute/95/860); amended [Pub. L. 98–378](https://www.govinfo.gov/link/plaw/98/public/378), §§ 11(d), 21(a)–(c), Aug. 16, 1984, [98 Stat. 1318](https://www.govinfo.gov/link/statute/98/1318), 1322–1324; [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), title XVIII, § 1883(b)(8), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095), 2917; [Pub. L. 101–508, title V, § 5011(a)](https://www.govinfo.gov/link/plaw/101/public/508), (b), Nov. 5, 1990, [104 Stat. 1388–220](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 104–134, title III, § 31001(v)(2)](https://www.govinfo.gov/link/plaw/104/public/134), Apr. 26, 1996, [110 Stat. 1321–375](https://www.govinfo.gov/link/statute/110/1321); [Pub. L. 104–193, title III, § 302(b)(1)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2204](https://www.govinfo.gov/link/statute/110/2204); [Pub. L. 105–33, title V](https://www.govinfo.gov/link/plaw/105/public/33), §§ 5513(a)(4), 5531(b), 5532(i)(1), Aug. 5, 1997, [111 Stat. 620](https://www.govinfo.gov/link/statute/111/620), 626, 627; [Pub. L. 109–171, title VII, § 7301(f)(1)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 144](https://www.govinfo.gov/link/statute/120/144); [Pub. L. 113–183, title III, § 301(e)](https://www.govinfo.gov/link/plaw/113/public/183), Sept. 29, 2014, [128 Stat. 1944](https://www.govinfo.gov/link/statute/128/1944); [Pub. L. 118–258, title II, § 202(a)(1)](https://www.govinfo.gov/link/plaw/118/public/258), Jan. 4, 2025, [138 Stat. 2970](https://www.govinfo.gov/link/statute/138/2970).)*

@@ -3,9 +3,10 @@ title: "Section 6906 - Financial disclosure"
 usc_title: 42
 usc_section: "6906"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6906"
-generated_at: "2026-03-30T02:56:11.270Z"
+generated_at: "2026-11-23T20:27:22.724Z"
+status: "active"
 ---
 
 # § 6906. Financial disclosure
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.270Z"
   - **(2)** report to the Congress on June 1, 1978 , and of each succeeding calendar year with respect to such disclosures and the actions taken in regard thereto during the preceding calendar year.
 - **(c)** In the rules prescribed under subsection (b) of this section, the Administrator may identify specific positions within the Environmental Protection Agency which are of a nonpolicy-making nature and provide that officers or employees occupying such positions shall be exempt from the requirements of this section.
 - **(d)** Any officer or employee who is subject to, and knowingly violates, this section shall be fined not more than $2,500 or imprisoned not more than one year, or both.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 1007](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 94–580, § 2](https://www.govinfo.gov/link/plaw/94/public/580), Oct. 21, 1976, [90 Stat. 2802](https://www.govinfo.gov/link/statute/90/2802).)*

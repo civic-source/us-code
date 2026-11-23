@@ -3,9 +3,10 @@ title: "Section 12671 - Projects"
 usc_title: 42
 usc_section: "12671"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12671"
-generated_at: "2026-03-30T02:56:11.429Z"
+generated_at: "2026-11-23T20:27:23.424Z"
+status: "active"
 ---
 
 # § 12671. Projects
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.429Z"
   - **(1)** that advance the goals of unity, and improving the quality of life in communities; and
   - **(2)** that will be planned, or for which implementation will begin, within a reasonable period after January 10, 2002 , as determined by the administrative organization.
 - **(e)** The administrative organization shall create and maintain websites and databases, to describe projects named under this section and serve as appropriate vehicles for recognizing the projects.
+
+## Source Credit
+
+*([Pub. L. 101–610, title IV, § 401](https://www.govinfo.gov/link/plaw/101/public/610), as added [Pub. L. 107–117, div. B, § 1301(b)](https://www.govinfo.gov/link/plaw/107/public/117), Jan. 10, 2002, [115 Stat. 2339](https://www.govinfo.gov/link/statute/115/2339); amended [Pub. L. 111–13, title I, § 1831(b)](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1578](https://www.govinfo.gov/link/statute/123/1578).)*

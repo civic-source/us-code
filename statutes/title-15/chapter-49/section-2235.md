@@ -3,9 +3,10 @@ title: "Section 2235 - Investigation authorities"
 usc_title: 15
 usc_section: "2235"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2235"
-generated_at: "2026-03-30T02:54:08.171Z"
+generated_at: "2026-11-23T20:26:04.192Z"
+status: "active"
 ---
 
 # § 2235. Investigation authorities
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:08.171Z"
   - **(2)** grant the Administrator authority to investigate a major fire for the purpose of an enforcement action or criminal prosecution; or
   - **(3)** require the Administrator to send investigators or issue a report for a major fire when the Administrator, in coordination and cooperation with the appropriate Federal, State, local, Tribal, and territorial authorities, determine that it may compromise a potential or ongoing criminal investigation.
 - **(f)** For purposes of this section, the term “major fire” shall have the meaning given such term under regulations to be issued by the Administrator.
+
+## Source Credit
+
+*([Pub. L. 93–498, § 38](https://www.govinfo.gov/link/plaw/93/public/498), as added [Pub. L. 117–246, § 2](https://www.govinfo.gov/link/plaw/117/public/246), Dec. 20, 2022, [136 Stat. 2345](https://www.govinfo.gov/link/statute/136/2345).)*

@@ -3,9 +3,10 @@ title: "Section 670k - Definitions"
 usc_title: 16
 usc_section: "670k"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 670k"
-generated_at: "2026-03-30T02:54:22.893Z"
+generated_at: "2026-11-23T20:26:20.221Z"
+status: "active"
 ---
 
 # § 670k. Definitions
@@ -26,3 +27,7 @@ As used in this subchapter—
     - **(E)** an area within an Indian reservation or land held in trust by the United States for an Indian or Indian tribe.
   - **(5)** The term “State agency” means the agency or agencies of a State responsible for the administration of the fish and game laws of the State.
   - **(6)** The term “conservation and rehabilitation programs” means to utilize those methods and procedures which are necessary to protect, conserve, and enhance wildlife, fish, and game resources to the maximum extent practicable on public lands subject to this subchapter consistent with any overall land use and management plans for the lands involved. Such methods and procedures shall include, but shall not be limited to, all activities associated with scientific resources management such as protection, research, census, law enforcement, habitat management, propagation, live trapping and transplantation, and regulated taking in conformance with the provisions of this subchapter. Nothing in this term shall be construed as diminishing the authority or jurisdiction of the States with respect to the management of resident species of fish, wildlife, or game, except as otherwise provided by law.
+
+## Source Credit
+
+*([Pub. L. 86–797, title II, § 205](https://www.govinfo.gov/link/plaw/86/public/797), as added [Pub. L. 93–452, § 2](https://www.govinfo.gov/link/plaw/93/public/452), Oct. 18, 1974, [88 Stat. 1373](https://www.govinfo.gov/link/statute/88/1373); amended [Pub. L. 112–81, div. A, title III, § 312(b)(11)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1355](https://www.govinfo.gov/link/statute/125/1355).)*

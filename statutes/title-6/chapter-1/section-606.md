@@ -3,9 +3,10 @@ title: "Section 606 - Grants to directly eligible tribes"
 usc_title: 6
 usc_section: "606"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 606"
-generated_at: "2026-03-30T02:53:09.472Z"
+generated_at: "2026-11-23T20:25:34.807Z"
+status: "active"
 ---
 
 # § 606. Grants to directly eligible tribes
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:53:09.472Z"
   - **(2)** With respect to a grant to a State under section 605 of this title , an Indian tribe shall be eligible for funding directly from that State, and shall not be required to seek funding from any local government.
   - **(3)** A State may not impose unreasonable or unduly burdensome requirements on an Indian tribe as a condition of providing the Indian tribe with grant funds or resources under section 605 of this title .
 - **(k)** Nothing in this section shall be construed to affect the authority of an Indian tribe that receives funds under this part.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XX, § 2005](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 110–53, title I, § 101](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 279](https://www.govinfo.gov/link/statute/121/279).)*

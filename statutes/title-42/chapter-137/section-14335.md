@@ -3,9 +3,10 @@ title: "Section 14335 - Limitations on sale of other mercuric-oxide batteries"
 usc_title: 42
 usc_section: "14335"
 chapter: 137
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 14335"
-generated_at: "2026-03-30T02:56:11.451Z"
+generated_at: "2026-11-23T20:27:23.530Z"
+status: "active"
 ---
 
 # § 14335. Limitations on sale of other mercuric-oxide batteries
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.451Z"
   - **(2)** informs each of its purchasers of mercuric-oxide batteries of the collection site identified under paragraph (1); and
   - **(3)** informs each of its purchasers of mercuric-oxide batteries of a telephone number that the purchaser may call to get information about sending mercuric-oxide batteries for recycling or proper disposal.
 - **(b)** This section does not apply to a sale or offer of a mercuric-oxide button cell battery.
+
+## Source Credit
+
+*([Pub. L. 104–142, title II, § 206](https://www.govinfo.gov/link/plaw/104/public/142), May 13, 1996, [110 Stat. 1336](https://www.govinfo.gov/link/statute/110/1336).)*

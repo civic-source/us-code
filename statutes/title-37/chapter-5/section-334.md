@@ -3,9 +3,10 @@ title: "Section 334 - Special aviation incentive pay and bonus authorities for o
 usc_title: 37
 usc_section: "334"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "37 U.S.C. § 334"
-generated_at: "2026-03-30T02:55:44.055Z"
+generated_at: "2026-11-23T20:26:57.370Z"
+status: "active"
 ---
 
 # § 334. Special aviation incentive pay and bonus authorities for officers
@@ -52,3 +53,45 @@ generated_at: "2026-03-30T02:55:44.055Z"
   - **(3)** The term “proficiency flying duty” means flying performed under competent orders by rated or designated officers while serving in assignments in which such skills would normally not be maintained in the performance of assigned duties.
   - **(4)** The term “officer” includes an individual enlisted and designated as an aviation cadet under section 8411 of title 10 .
 - **(i)** No agreement may be entered into under this section after December 31, 2026 .
+
+Aviation Incentive Pay.—
+
+Incentive pay authorized
+
+Officers not currently engaged in flying duty
+
+Aviation Bonus
+
+Maximum Amount and Method of Payment.—
+
+Maximum amount
+
+Annual business case for payment of aviation bonus amounts.—
+
+In general
+
+Budget justification documents
+
+Lump sum or installments
+
+Fixing bonus amount
+
+Written Agreement for Bonus
+
+Officers Performing Inactive Duty Training
+
+Relationship to Other Pay and Allowances.—
+
+Aviation incentive pay
+
+Aviation bonus
+
+Repayment
+
+Definitions
+
+Termination of Authority
+
+## Source Credit
+
+*(Added [Pub. L. 110–181, div. A, title VI, § 661(a)(2)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 167](https://www.govinfo.gov/link/statute/122/167); amended [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title VI, § 618(b), Oct. 14, 2008, [122 Stat. 4486](https://www.govinfo.gov/link/statute/122/4486); [Pub. L. 111–84, div. A, title VI, § 614(4)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2353](https://www.govinfo.gov/link/statute/123/2353); [Pub. L. 111–383, div. A, title VI, § 614(4)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4237](https://www.govinfo.gov/link/statute/124/4237); [Pub. L. 112–81, div. A, title VI, § 614(4)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1450](https://www.govinfo.gov/link/statute/125/1450); [Pub. L. 112–239, div. A, title VI, § 614(4)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1777](https://www.govinfo.gov/link/statute/126/1777); [Pub. L. 113–66, div. A, title VI, § 614(4)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 781](https://www.govinfo.gov/link/statute/127/781); [Pub. L. 113–291, div. A, title VI, § 614(4)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3400](https://www.govinfo.gov/link/statute/128/3400); [Pub. L. 114–92, div. A, title VI](https://www.govinfo.gov/link/plaw/114/public/92), §§ 614(4), 617(a)–(d), Nov. 25, 2015, [129 Stat. 839](https://www.govinfo.gov/link/statute/129/839), 840; [Pub. L. 114–328, div. A, title VI](https://www.govinfo.gov/link/plaw/114/public/328), §§ 614(4), 616, Dec. 23, 2016, [130 Stat. 2158](https://www.govinfo.gov/link/statute/130/2158), 2159; [Pub. L. 115–91, div. A, title VI, § 614(4)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1422](https://www.govinfo.gov/link/statute/131/1422); [Pub. L. 115–232, div. A, title VI, § 611(d)(3)](https://www.govinfo.gov/link/plaw/115/public/232), title VIII, § 809(m)(3), Aug. 13, 2018, [132 Stat. 1797](https://www.govinfo.gov/link/statute/132/1797), 1843; [Pub. L. 116–92, div. A, title VI, § 611(d)(3)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1426](https://www.govinfo.gov/link/statute/133/1426); [Pub. L. 116–283, div. A, title VI, § 611(d)(3)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3673](https://www.govinfo.gov/link/statute/134/3673); [Pub. L. 117–81, div. A, title VI, § 611(d)(3)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1769](https://www.govinfo.gov/link/statute/135/1769); [Pub. L. 117–263, div. A, title VI](https://www.govinfo.gov/link/plaw/117/public/263), §§ 601(d)(3), 602(c), Dec. 23, 2022, [136 Stat. 2619](https://www.govinfo.gov/link/statute/136/2619), 2620; [Pub. L. 118–31, div. A, title VI, § 613(d)(3)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 291](https://www.govinfo.gov/link/statute/137/291); [Pub. L. 118–159, div. A, title VI, § 611(d)(3)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1932](https://www.govinfo.gov/link/statute/138/1932); [Pub. L. 119–60, div. A, title VI](https://www.govinfo.gov/link/plaw/119/public/60), §§ 601(c)(3), 611(d)(3), Dec. 18, 2025, [139 Stat. 903](https://www.govinfo.gov/link/statute/139/903), 906.)*

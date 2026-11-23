@@ -3,9 +3,10 @@ title: "Section 5321 - Self-determination contracts"
 usc_title: 25
 usc_section: "5321"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 5321"
-generated_at: "2026-03-30T02:54:52.865Z"
+generated_at: "2026-11-23T20:26:25.722Z"
+status: "active"
 ---
 
 # § 5321. Self-determination contracts
@@ -49,3 +50,27 @@ generated_at: "2026-03-30T02:54:52.865Z"
     - **(A)** the purposes specified in section 5302 of this title ; and
     - **(B)** the PROGRESS for Indian Tribes Act.
 - **(g)** Subject to section 101(a) of the PROGRESS for Indian Tribes Act, each provision of this chapter and each provision of a contract or funding agreement shall be liberally construed for the benefit of the Indian Tribe participating in self-determination, and any ambiguity shall be resolved in favor of the Indian Tribe.
+
+Findings
+
+Purpose
+
+Indian tribe
+
+Secretary
+
+Tribal organization
+
+In General.—
+
+Study
+
+Contents of study
+
+Assessment of coverage by categories of risk
+
+Report
+
+## Source Credit
+
+*([Pub. L. 93–638, title I, § 102](https://www.govinfo.gov/link/plaw/93/public/638), formerly §§ 102 and 103(c), Jan. 4, 1975, [88 Stat. 2206](https://www.govinfo.gov/link/statute/88/2206); [Pub. L. 100–202, § 101(g) [title II, § 201]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–213](https://www.govinfo.gov/link/statute/101/1329), 1329–246; [Pub. L. 100–446, title II, § 201](https://www.govinfo.gov/link/plaw/100/public/446), Sept. 27, 1988, [102 Stat. 1817](https://www.govinfo.gov/link/statute/102/1817); renumbered § 102 and amended [Pub. L. 100–472, title II, § 201(a)](https://www.govinfo.gov/link/plaw/100/public/472), (b)(1), Oct. 5, 1988, [102 Stat. 2288](https://www.govinfo.gov/link/statute/102/2288), 2289; [Pub. L. 100–581, title II, § 210](https://www.govinfo.gov/link/plaw/100/public/581), Nov. 1, 1988, [102 Stat. 2941](https://www.govinfo.gov/link/statute/102/2941); [Pub. L. 101–644, title II, § 203(b)](https://www.govinfo.gov/link/plaw/101/public/644), Nov. 29, 1990, [104 Stat. 4666](https://www.govinfo.gov/link/statute/104/4666); [Pub. L. 103–413, title I, § 102(5)](https://www.govinfo.gov/link/plaw/103/public/413) –(9), Oct. 25, 1994, [108 Stat. 4251–4253](https://www.govinfo.gov/link/statute/108/4251); [Pub. L. 106–260, § 6](https://www.govinfo.gov/link/plaw/106/public/260), Aug. 18, 2000, [114 Stat. 732](https://www.govinfo.gov/link/statute/114/732); [Pub. L. 116–180, title II, § 202](https://www.govinfo.gov/link/plaw/116/public/180), Oct. 21, 2020, [134 Stat. 879](https://www.govinfo.gov/link/statute/134/879).)*

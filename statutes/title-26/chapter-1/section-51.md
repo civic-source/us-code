@@ -3,9 +3,10 @@ title: "Section 51 - Amount of credit"
 usc_title: 26
 usc_section: "51"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 51"
-generated_at: "2026-03-30T02:55:27.611Z"
+generated_at: "2026-11-23T20:26:45.268Z"
+status: "active"
 ---
 
 # § 51. Amount of credit
@@ -163,3 +164,81 @@ generated_at: "2026-03-30T02:55:27.611Z"
 - **(k)**
   - **(1)** Under regulations prescribed by the Secretary, in the case of a successor employer referred to in section 3306(b)(1), the determination of the amount of the credit under this section with respect to wages paid by such successor employer shall be made in the same manner as if such wages were paid by the predecessor employer referred to in such section.
   - **(2)** No credit shall be determined under this section with respect to remuneration paid by an employer to an employee for services performed by such employee for another person unless the amount reasonably expected to be received by the employer for such services from such other person exceeds the remuneration paid by the employer to such employee for such services.
+
+In general
+
+Youth must continue to reside in zone or community
+
+Termination
+
+Individuals not meeting minimum employment period
+
+Extension
+
+Modification
+
+In general
+
+Railroad retirement taxes
+
+In general
+
+Consolidation
+
+Credit
+
+Authorization
+
+In general
+
+Special rule for employees performing services for other persons
+
+Subsection
+
+Subsection
+
+Amendments relating to members of targeted groups.—
+
+In general
+
+Eligible work incentive employees
+
+Cooperative education program participants
+
+Designated local agency
+
+Certifications.—
+
+In general
+
+Special rule for individuals who began work for the employer before 45th day before date of enactment
+
+Individuals who begin work for employer within 45 days before or after date of enactment
+
+Limitation on qualified first-year wages
+
+Payments to possessions.—
+
+Mirror code possessions
+
+Other possessions
+
+Coordination with credit allowed against united states income taxes
+
+Definitions and special rules.—
+
+Possession of the united states
+
+Mirror code tax system
+
+Treatment of payments
+
+Individual must be hired after september 26, 1978 .—
+
+Member of newly targeted group defined
+
+“In the case of a taxable year which begins in 1978 and ends after December 31, 1978 , the amount of the credit determined under section 51 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] shall be the sum of—
+
+## Source Credit
+
+*(Added [Pub. L. 95–30, title II, § 202(b)](https://www.govinfo.gov/link/plaw/95/public/30), May 23, 1977, [91 Stat. 141](https://www.govinfo.gov/link/statute/91/141); amended [Pub. L. 95–600, title III, § 321(a)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2830](https://www.govinfo.gov/link/statute/92/2830); [Pub. L. 96–222, title I, § 103(a)(6)(A)](https://www.govinfo.gov/link/plaw/96/public/222), (E), (F), (G)(iii)–(ix), Apr. 1, 1980, [94 Stat. 209](https://www.govinfo.gov/link/statute/94/209), 210; [Pub. L. 97–34, title II, § 261(a)](https://www.govinfo.gov/link/plaw/97/public/34) –(b)(2)(A), (B)(ii)–(f)(1), Aug. 13, 1981, [95 Stat. 260–262](https://www.govinfo.gov/link/statute/95/260); [Pub. L. 97–248, title II, § 233(a)](https://www.govinfo.gov/link/plaw/97/public/248) –(d), (f), Sept. 3, 1982, [96 Stat. 501](https://www.govinfo.gov/link/statute/96/501), 502; [Pub. L. 97–448, title I, § 102](https://www.govinfo.gov/link/plaw/97/public/448) (l)(1), (3), (4), Jan. 12, 1983, [96 Stat. 2374](https://www.govinfo.gov/link/statute/96/2374); [Pub. L. 98–369, div. A, title IV, § 474(p)(1)](https://www.govinfo.gov/link/plaw/98/public/369) –(3), title VII, § 712(n), title X, § 1041(a), (c)(1)–(4), div. B, title VI, §§ 2638(b), 2663(j)(5)(A), July 18, 1984, [98 Stat. 837](https://www.govinfo.gov/link/statute/98/837), 955, 1042, 1043, 1144, 1171; [Pub. L. 99–514, title XVII, § 1701(a)](https://www.govinfo.gov/link/plaw/99/public/514) –(c), title XVIII, § 1878(f)(1), Oct. 22, 1986, [100 Stat. 2772](https://www.govinfo.gov/link/statute/100/2772), 2904; [Pub. L. 100–203, title X, § 10601(a)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–451](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–485, title II, § 202(c)(6)](https://www.govinfo.gov/link/plaw/100/public/485), Oct. 13, 1988, [102 Stat. 2378](https://www.govinfo.gov/link/statute/102/2378); [Pub. L. 100–647, title I, § 1017(a)](https://www.govinfo.gov/link/plaw/100/public/647), title IV, § 4010(a), (c)(1), (d)(1), Nov. 10, 1988, [102 Stat. 3575](https://www.govinfo.gov/link/statute/102/3575), 3655; [Pub. L. 101–239, title VII, § 7103(a)](https://www.govinfo.gov/link/plaw/101/public/239), (c)(1), Dec. 19, 1989, [103 Stat. 2305](https://www.govinfo.gov/link/statute/103/2305); [Pub. L. 101–508, title XI, § 11405(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–473](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 102–227, title I, § 105(a)](https://www.govinfo.gov/link/plaw/102/public/227), Dec. 11, 1991, [105 Stat. 1687](https://www.govinfo.gov/link/statute/105/1687); [Pub. L. 103–66, title XIII](https://www.govinfo.gov/link/plaw/103/public/66), §§ 13102(a), 13302(d), Aug. 10, 1993, [107 Stat. 420](https://www.govinfo.gov/link/statute/107/420), 556; [Pub. L. 104–188, title I, § 1201(a)](https://www.govinfo.gov/link/plaw/104/public/188) –(e)(1), (5), (f), Aug. 20, 1996, [110 Stat. 1768–1772](https://www.govinfo.gov/link/statute/110/1768); [Pub. L. 104–193, title I, § 110](https://www.govinfo.gov/link/plaw/104/public/193) (l)(1), Aug. 22, 1996, [110 Stat. 2173](https://www.govinfo.gov/link/statute/110/2173); [Pub. L. 105–33, title V, § 5514(a)(1)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 620](https://www.govinfo.gov/link/statute/111/620); [Pub. L. 105–34, title VI, § 603(a)](https://www.govinfo.gov/link/plaw/105/public/34) –(d), Aug. 5, 1997, [111 Stat. 862](https://www.govinfo.gov/link/statute/111/862); [Pub. L. 105–277, div. J, title I, § 1002(a)](https://www.govinfo.gov/link/plaw/105/public/277), title IV, § 4006(c)(1), Oct. 21, 1998, [112 Stat. 2681–888](https://www.govinfo.gov/link/statute/112/2681), 2681–912; [Pub. L. 106–170, title V, § 505(a)](https://www.govinfo.gov/link/plaw/106/public/170), (b), Dec. 17, 1999, [113 Stat. 1921](https://www.govinfo.gov/link/statute/113/1921); [Pub. L. 106–554, § 1(a)(7) [title I, § 102(a)–(c), title III, § 316(a)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–600, 2763A–644; [Pub. L. 107–147, title VI, § 604(a)](https://www.govinfo.gov/link/plaw/107/public/147), Mar. 9, 2002, [116 Stat. 59](https://www.govinfo.gov/link/statute/116/59); [Pub. L. 108–311, title II, § 207(5)](https://www.govinfo.gov/link/plaw/108/public/311), title III, § 303(a)(1), Oct. 4, 2004, [118 Stat. 1177](https://www.govinfo.gov/link/statute/118/1177), 1179; [Pub. L. 109–432, div. A, title I, § 105(a)](https://www.govinfo.gov/link/plaw/109/public/432) –(e)(3), Dec. 20, 2006, [120 Stat. 2936](https://www.govinfo.gov/link/statute/120/2936), 2937; [Pub. L. 110–28, title VIII, § 8211(a)](https://www.govinfo.gov/link/plaw/110/public/28) –(d), May 25, 2007, [121 Stat. 191](https://www.govinfo.gov/link/statute/121/191); [Pub. L. 110–234, title IV, § 4002(b)(1)(A)](https://www.govinfo.gov/link/plaw/110/public/234), (B), (D), (2)(O), May 22, 2008, [122 Stat. 1095–1097](https://www.govinfo.gov/link/statute/122/1095); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, § 4002(b)(1)(A), (B), (D), (2)(O), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1857, 1858; [Pub. L. 111–5, div. B, title I, § 1221(a)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 337](https://www.govinfo.gov/link/statute/123/337); [Pub. L. 111–147, title I, § 101(b)](https://www.govinfo.gov/link/plaw/111/public/147), Mar. 18, 2010, [124 Stat. 74](https://www.govinfo.gov/link/statute/124/74); [Pub. L. 111–312, title VII, § 757(a)](https://www.govinfo.gov/link/plaw/111/public/312), Dec. 17, 2010, [124 Stat. 3322](https://www.govinfo.gov/link/statute/124/3322); [Pub. L. 112–56, title II, § 261(a)](https://www.govinfo.gov/link/plaw/112/public/56) –(d), Nov. 21, 2011, [125 Stat. 729](https://www.govinfo.gov/link/statute/125/729), 730; [Pub. L. 112–240, title III, § 309(a)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2329](https://www.govinfo.gov/link/statute/126/2329); [Pub. L. 113–295, div. A, title I, § 119(a)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4015](https://www.govinfo.gov/link/statute/128/4015); [Pub. L. 114–113, div. Q, title I, § 142(a)](https://www.govinfo.gov/link/plaw/114/public/113), (b), Dec. 18, 2015, [129 Stat. 3056](https://www.govinfo.gov/link/statute/129/3056); [Pub. L. 115–141, div. U, title IV, § 401(a)(26)](https://www.govinfo.gov/link/plaw/115/public/141) –(29), Mar. 23, 2018, [132 Stat. 1185](https://www.govinfo.gov/link/statute/132/1185); [Pub. L. 116–94, div. Q, title I, § 143(a)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3234](https://www.govinfo.gov/link/statute/133/3234); [Pub. L. 116–260, div. EE, title I, § 113(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3050](https://www.govinfo.gov/link/statute/134/3050).)*

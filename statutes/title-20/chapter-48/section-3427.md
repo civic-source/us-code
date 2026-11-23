@@ -3,9 +3,10 @@ title: "Section 3427 - Coordinator for the outlying areas"
 usc_title: 20
 usc_section: "3427"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 3427"
-generated_at: "2026-03-30T02:54:48.178Z"
+generated_at: "2026-11-23T20:26:14.731Z"
+status: "active"
 ---
 
 # § 3427. Coordinator for the outlying areas
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:48.178Z"
   - **(3)** assist with the coordination of programs that serve the outlying areas; and
   - **(4)** provide guidance to programs within the Department that serve the outlying areas.
 - **(d)** As used in this section, the term “outlying areas” includes Guam, the Virgin Islands, American Samoa, and the Commonwealth of the Northern Marianas Islands, but does not include the freely associated states of the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
+
+## Source Credit
+
+*([Pub. L. 96–88, title II, § 220](https://www.govinfo.gov/link/plaw/96/public/88), as added [Pub. L. 107–110, title X, § 1072(a)](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2088](https://www.govinfo.gov/link/statute/115/2088).)*

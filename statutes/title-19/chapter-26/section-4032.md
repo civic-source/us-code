@@ -3,9 +3,10 @@ title: "Section 4032 - Additional duties on certain agricultural goods"
 usc_title: 19
 usc_section: "4032"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 4032"
-generated_at: "2026-03-30T02:54:24.699Z"
+generated_at: "2026-11-23T20:26:11.110Z"
+status: "active"
 ---
 
 # § 4032. Additional duties on certain agricultural goods
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:54:24.699Z"
       - **(i)** in years 1 through 14, an amount equal to 100 percent of the excess of the applicable NTR (MFN) rate of duty over the schedule rate of duty;
       - **(ii)** in years 15 through 17, an amount equal to 75 percent of the excess of the applicable NTR (MFN) rate of duty over the schedule rate of duty; and
       - **(iii)** in years 18 and 19, an amount equal to 50 percent of the excess of the applicable NTR (MFN) rate of duty over the schedule rate of duty.
+
+## Source Credit
+
+*([Pub. L. 109–53, title II, § 202](https://www.govinfo.gov/link/plaw/109/public/53), Aug. 2, 2005, [119 Stat. 468](https://www.govinfo.gov/link/statute/119/468).)*

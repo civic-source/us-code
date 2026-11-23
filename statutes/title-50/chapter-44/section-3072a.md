@@ -3,9 +3,10 @@ title: "Section 3072a - Reports on exercise of authority"
 usc_title: 50
 usc_section: "3072a"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3072a"
-generated_at: "2026-03-30T02:56:26.234Z"
+generated_at: "2026-11-23T20:27:30.908Z"
+status: "active"
 ---
 
 # § 3072a. Reports on exercise of authority
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:26.234Z"
       - **(i)** the committees specified in subparagraph (A);
       - **(ii)** the Committees on Appropriations, Governmental Affairs, and the Judiciary of the Senate; and
       - **(iii)** the Committees on Appropriations, Government Reform and Oversight, and the Judiciary of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 108–177, title III, § 311(b)](https://www.govinfo.gov/link/plaw/108/public/177), Dec. 13, 2003, [117 Stat. 2605](https://www.govinfo.gov/link/statute/117/2605).)*

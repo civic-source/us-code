@@ -3,9 +3,10 @@ title: "Section 8902 - Comprehensive ten-year program"
 usc_title: 42
 usc_section: "8902"
 chapter: 97
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8902"
-generated_at: "2026-03-30T02:56:11.349Z"
+generated_at: "2026-11-23T20:27:23.067Z"
+status: "active"
 ---
 
 # § 8902. Comprehensive ten-year program
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.349Z"
   - **(3)** four additional members to be appointed by the President.
 - **(b)** The four National Laboratories (referred to in subsection (a)(2)) shall constitute a research management consortium having the responsibilities described in section 8903(b)(13) of this title as well as the general responsibilities required by their representation on the Task Force. In carrying out these responsibilities the consortium shall report to, and act pursuant to direction from, the joint chairmen of the Task Force.
 - **(c)** The Administrator of the National Oceanic and Atmospheric Administration shall serve as the director of the research program established by this subchapter.
+
+## Source Credit
+
+*([Pub. L. 96–294, title VII, § 703](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 771](https://www.govinfo.gov/link/statute/94/771).)*

@@ -3,9 +3,10 @@ title: "Section 80g - Powers and duties of Board"
 usc_title: 20
 usc_section: "80g"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 80g"
-generated_at: "2026-03-30T02:54:48.075Z"
+generated_at: "2026-11-23T20:26:14.227Z"
+status: "active"
 ---
 
 # § 80g. Powers and duties of Board
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:48.075Z"
   - **(6)** appoint and fix the compensation and duties of the director and such other officers of the Center as may be necessary for the efficient administration of the Center; the director and two other officers of the Center may be appointed and compensated without regard to the provisions of title 5 governing appointments in the competitive service and chapter 51 and subchapter III of chapter 53 of title 5; and
   - **(7)** prepare plans and specifications for the Center, including the design and development of all buildings, facilities, open spaces, and other structures on the site in consultation with the President’s Temporary Commission on Pennsylvania Avenue, or its successor, and with other appropriate Federal and local agencies, such plans to include an exterior classic frieze memorial to Woodrow Wilson.
 - **(b)** The Board shall, in connection with acquisition of any site authorized by Congress, as provided for in paragraph (4) of subsection (a) of this section, provide, to businesses and residents displaced from any such site, relocation assistance, including payments and other benefits, equivalent to that authorized to displace businesses and residents under the Housing Act of 1949, as amended [ 42 U.S.C. 1441 et seq.]. The Board shall develop a relocation program for existing businesses and residents within the site and submit such program to the government of the District of Columbia for a determination as to its adequacy and feasibility. In providing such relocation assistance and developing such relocation program the Board shall utilize to the maximum extent the services and facilities of the appropriate Federal and local agencies.
+
+## Source Credit
+
+*([Pub. L. 90–637, § 4](https://www.govinfo.gov/link/plaw/90/public/637), Oct. 24, 1968, [82 Stat. 1358](https://www.govinfo.gov/link/statute/82/1358); [Pub. L. 95–286, § 2](https://www.govinfo.gov/link/plaw/95/public/286), May 26, 1978, [92 Stat. 279](https://www.govinfo.gov/link/statute/92/279).)*

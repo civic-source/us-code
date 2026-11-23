@@ -3,9 +3,10 @@ title: "Section 176 - Promoting Resilient Operations for Transformative, Efficie
 usc_title: 23
 usc_section: "176"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 176"
-generated_at: "2026-03-30T02:55:12.563Z"
+generated_at: "2026-11-23T20:26:23.840Z"
+status: "active"
 ---
 
 # § 176. Promoting Resilient Operations for Transformative, Efficient, and Cost-saving Transportation (PROTECT) program
@@ -231,3 +232,239 @@ generated_at: "2026-03-30T02:55:12.563Z"
       - **(vi)** a list of facilities that repeatedly require repair or reconstruction due to emergency events.
     - **(B)** Not later than 5 years after the date of enactment of the Surface Transportation Reauthorization Act of 2021, the Secretary shall submit to Congress a report that includes the results of the reports submitted under subparagraph (A).
 - **(h)** Notwithstanding any other provision of law, a project assisted under this section shall be treated as a project on a Federal-aid highway under this chapter.
+
+Definitions
+
+Emergency event
+
+Evacuation route
+
+Program
+
+Resilience improvement
+
+Establishment.—
+
+In general
+
+Purpose
+
+Eligible Activities for Apportioned Funding.—
+
+In general
+
+Planning set-aside
+
+Requirements.—
+
+Projects in certain areas
+
+Eligibilities
+
+System resilience
+
+Federal cost share.—
+
+In general
+
+Non-federal share
+
+Eligible project costs.—
+
+In general
+
+Eligible planning costs
+
+Limitations
+
+Competitive Awards.—
+
+In general
+
+Eligible entities
+
+Planning grants
+
+Resilience grants.—
+
+Resilience improvement grants.—
+
+In general
+
+Eligible activities.—
+
+In general
+
+Inclusions
+
+(aa) resurfacing, restoration, rehabilitation, reconstruction, replacement, improvement, or realignment of an existing surface transportation facility eligible for assistance under this title;
+
+(bb) the incorporation of natural infrastructure;
+
+(cc) the upgrade of an existing surface transportation facility to meet or exceed a design standard adopted by the Federal Highway Administration;
+
+(dd) the installation of mitigation measures that prevent the intrusion of floodwaters into surface transportation systems;
+
+(ee) strengthening systems that remove rainwater from surface transportation facilities;
+
+(ff) upgrades to and installation of structural stormwater controls;
+
+(gg) a resilience project that addresses identified vulnerabilities described in the resilience improvement plan of the eligible entity, if applicable;
+
+(hh) relocating roadways in a base floodplain to higher ground above projected flood elevation levels, or away from slide prone areas;
+
+(ii) stabilizing slide areas or slopes;
+
+(jj) installing riprap;
+
+(kk) lengthening or raising bridges to increase waterway openings, including to respond to extreme weather;
+
+(ll) increasing the size or number of drainage structures;
+
+(mm) installing seismic retrofits on bridges;
+
+(nn) adding scour protection at bridges;
+
+(oo) adding scour, stream stability, coastal, and other hydraulic countermeasures, including spur dikes;
+
+(pp) vegetation management practices in transportation rights-of-way to improve roadway safety, prevent against invasive species, facilitate wildfire control, and provide erosion control; and
+
+(qq) any other protective features, including natural infrastructure, as determined by the Secretary.
+
+Priority
+
+(aa) the benefits of the eligible activity proposed to be carried out by the eligible entity exceed the costs of the activity; and
+
+(bb) there is a need to address the vulnerabilities of surface transportation assets of the eligible entity with a high risk of, and impacts associated with, failure due to the impacts of weather events, natural disasters, or changing conditions, such as sea level rise, wildfires, and increased flood risk; or
+
+Community resilience and evacuation route grants.—
+
+In general
+
+Eligible activities
+
+(aa) communications and intelligent transportation system equipment and infrastructure;
+
+(bb) counterflow measures; or
+
+(cc) shoulders;
+
+Priority
+
+Consultation
+
+At-risk coastal infrastructure grants.—
+
+Definition of eligible entity
+
+Grants
+
+Eligible activities
+
+Criteria
+
+Coastal benefits
+
+Grant requirements.—
+
+Solicitations for grants
+
+Applications.—
+
+In general
+
+Projects in certain areas
+
+Eligibilities
+
+System resilience
+
+Federal cost share.—
+
+Planning grant
+
+Resilience grants
+
+In general
+
+Tribal projects
+
+Non-federal share
+
+Eligible project costs.—
+
+Resilience grant projects
+
+Planning grants
+
+Limitations.—
+
+In general
+
+Limit on certain activities
+
+Distribution of grants.—
+
+In general
+
+Rural set-aside
+
+Tribal set-aside
+
+Reallocation
+
+Consultation
+
+Grant administration
+
+Resilience Improvement Plan and Lower Non-Federal Share.—
+
+Federal share reductions.—
+
+In general
+
+Amount of reductions.—
+
+Resilience improvement plan
+
+(aa) developed a resilience improvement plan in accordance with this subsection; and
+
+(bb) prioritized the project on that resilience improvement plan; and
+
+(aa) developed a resilience improvement plan in accordance with this subsection; and
+
+(bb) prioritized the project on that resilience improvement plan.
+
+Incorporation of resilience improvement plan in other planning
+
+Limitations.—
+
+Maximum reduction
+
+No negative non-federal share
+
+Plan contents
+
+No new planning requirements
+
+Monitoring.—
+
+In general
+
+Notice
+
+Reports.—
+
+Reports from eligible entities
+
+Reports to congress.—
+
+Annual reports
+
+Final report
+
+Treatment of Projects
+
+## Source Credit
+
+*(Added [Pub. L. 117–58, div. A, title I, § 11405(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 561](https://www.govinfo.gov/link/statute/135/561).)*

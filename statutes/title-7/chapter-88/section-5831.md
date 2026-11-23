@@ -3,9 +3,10 @@ title: "Section 5831 - Technical guides and handbooks"
 usc_title: 7
 usc_section: "5831"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 5831"
-generated_at: "2026-03-30T02:53:42.419Z"
+generated_at: "2026-11-23T20:25:41.660Z"
+status: "active"
 ---
 
 # § 5831. Technical guides and handbooks
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:42.419Z"
 - **(f)** There are authorized to be appropriated to carry out this section—
   - **(1)** such sums as are necessary for fiscal year 2013; and
   - **(2)** $5,000,000 for each of fiscal years 2014 through 2023.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XVI, § 1628](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3740](https://www.govinfo.gov/link/statute/104/3740); [Pub. L. 102–237, title IV, § 407(3)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1864](https://www.govinfo.gov/link/statute/105/1864); [Pub. L. 104–127, title VIII](https://www.govinfo.gov/link/plaw/104/public/127), §§ 860(c)(3), 862(b)(3), Apr. 4, 1996, [110 Stat. 1174](https://www.govinfo.gov/link/statute/110/1174); [Pub. L. 113–79, title VII, § 7203](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 880](https://www.govinfo.gov/link/statute/128/880); [Pub. L. 115–334, title VII, § 7203](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4803](https://www.govinfo.gov/link/statute/132/4803).)*

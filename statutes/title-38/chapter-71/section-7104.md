@@ -3,9 +3,10 @@ title: "Section 7104 - Jurisdiction of the Board; decisions; notice"
 usc_title: 38
 usc_section: "7104"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7104"
-generated_at: "2026-03-30T02:55:53.524Z"
+generated_at: "2026-11-23T20:27:01.978Z"
+status: "active"
 ---
 
 # § 7104. Jurisdiction of the Board; decisions; notice
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:53.524Z"
 - **(f)**
   - **(1)** The Secretary may provide notice under subsection (e) electronically if a claimant (or the claimant’s representative) elects to receive such notice electronically.
   - **(2)** A claimant (or the claimant’s representative) may revoke such an election at any time, by means prescribed by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 85–857](https://www.govinfo.gov/link/plaw/85/public/857), Sept. 2, 1958, [72 Stat. 1241](https://www.govinfo.gov/link/statute/72/1241), § 4004; [Pub. L. 87–97, § 1](https://www.govinfo.gov/link/plaw/87/public/97), July 20, 1961, [75 Stat. 215](https://www.govinfo.gov/link/statute/75/215); [Pub. L. 100–687, div. A, title I, § 101(b)](https://www.govinfo.gov/link/plaw/100/public/687), title II, §§ 203(a), 204, 205, Nov. 18, 1988, [102 Stat. 4106](https://www.govinfo.gov/link/statute/102/4106), 4110, 4111; renumbered § 7104 and amended [Pub. L. 102–40, title IV, § 402(b)(1)](https://www.govinfo.gov/link/plaw/102/public/40), (d)(1), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238), 239; [Pub. L. 102–54, § 14(g)(2)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 288](https://www.govinfo.gov/link/statute/105/288); [Pub. L. 102–83, § 4(a)(3)](https://www.govinfo.gov/link/plaw/102/public/83), (4), (b)(1), (2)(E), (c), Aug. 6, 1991, [105 Stat. 404–406](https://www.govinfo.gov/link/statute/105/404); [Pub. L. 103–271](https://www.govinfo.gov/link/plaw/103/public/271), §§ 7(b)(1), 8, July 1, 1994, [108 Stat. 743](https://www.govinfo.gov/link/statute/108/743); [Pub. L. 104–275, title V, § 509](https://www.govinfo.gov/link/plaw/104/public/275), Oct. 9, 1996, [110 Stat. 3344](https://www.govinfo.gov/link/statute/110/3344); [Pub. L. 115–55, § 2(p)](https://www.govinfo.gov/link/plaw/115/public/55), (w)(2), Aug. 23, 2017, [131 Stat. 1111](https://www.govinfo.gov/link/statute/131/1111), 1114; [Pub. L. 117–168, title VIII, § 807(a)(5)](https://www.govinfo.gov/link/plaw/117/public/168), Aug. 10, 2022, [136 Stat. 1806](https://www.govinfo.gov/link/statute/136/1806).)*

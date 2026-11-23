@@ -3,9 +3,10 @@ title: "Section 1496 - Powers of Secretary; finality of financial transactions a
 usc_title: 25
 usc_section: "1496"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1496"
-generated_at: "2026-03-30T02:54:52.817Z"
+generated_at: "2026-11-23T20:26:25.468Z"
+status: "active"
 ---
 
 # § 1496. Powers of Secretary; finality of financial transactions and property acquisitions, management, and dispositions
@@ -18,3 +19,7 @@ The financial transactions of the Secretary incident to or arising out of the gu
 - **(d)** subject to the specific limitations in this subchapter, pay, compromise, waive, or release any right, title, claim, lien, or demand, however acquired, including, but not limited to, any equity or right of redemption;
 - **(e)** purchase at any sale, public or private, upon such terms and for such prices as he determines to be reasonable, and take title to property, real, personal, or mixed; and similarly sell, at public or private sale, exchange, assign, convey, or otherwise dispose of such property; and
 - **(f)** complete, administer, operate, obtain, and pay for insurance on, and maintain, renovate, repair, modernize, lease, or otherwise deal with any property acquired or held pursuant to the guaranty or insurance program authorized by this subchapter.
+
+## Source Credit
+
+*([Pub. L. 93–262, title II, § 216](https://www.govinfo.gov/link/plaw/93/public/262), Apr. 12, 1974, [88 Stat. 81](https://www.govinfo.gov/link/statute/88/81); [Pub. L. 100–442, § 5(c)](https://www.govinfo.gov/link/plaw/100/public/442), Sept. 22, 1988, [102 Stat. 1764](https://www.govinfo.gov/link/statute/102/1764).)*

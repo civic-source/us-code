@@ -3,9 +3,10 @@ title: "Section 1644d - Claims based on ownership interest in or debt or other o
 usc_title: 22
 usc_section: "1644d"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 1644d"
-generated_at: "2026-03-30T02:55:05.337Z"
+generated_at: "2026-11-23T20:26:32.139Z"
+status: "active"
 ---
 
 # § 1644d. Claims based on ownership interest in or debt or other obligation owing by corporations or other legal entities
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:05.337Z"
 - **(b)** A claim under section 1644b of this title based upon a direct ownership interest in a corporation, association, or other entity for loss, shall be considered subject to the provisions of this subchapter, if such corporation, association or other entity on the date of the loss was not a national of the United States, without regard to the per centum of ownership vested in the claimant.
 - **(c)** A claim under section 1644b of this title for losses based upon an indirect ownership interest in a corporation, association, or other entity, shall be considered, subject to the other provisions of this subchapter, only if at least 25 per centum of the entire ownership interest thereof, at the time of such loss, was vested in nationals of the United States.
 - **(d)** The amount of any claim covered by subsections (b) or (c) of this section shall be calculated on the basis of the total loss suffered by such corporation, association, or other entity, and shall bear the same proportion to such loss as the ownership interest of the claimant at the time of loss bears to the entire ownership interest thereof.
+
+## Source Credit
+
+*(Mar. 10, 1950, ch. 54, title VI, § 604, as added [Pub. L. 94–542](https://www.govinfo.gov/link/plaw/94/public/542), Oct. 18, 1976, [90 Stat. 2510](https://www.govinfo.gov/link/statute/90/2510).)*

@@ -3,9 +3,10 @@ title: "Section 13271 - Definitions"
 usc_title: 42
 usc_section: "13271"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13271"
-generated_at: "2026-03-30T02:56:11.440Z"
+generated_at: "2026-11-23T20:27:23.474Z"
+status: "active"
 ---
 
 # § 13271. Definitions
@@ -28,3 +29,7 @@ For the purposes of this subchapter—
     - **(A)** in the case of a purchased electric motor vehicle, the difference between the manufacturer’s suggested retail price of such electric motor vehicle and the manufacturer’s suggested retail price of a comparable conventionally fueled motor vehicle; and
     - **(B)** in the case of a leased electric motor vehicle, the difference between the monthly lease payment of such electric motor vehicle over the life of the lease and the monthly lease payment of a comparable conventionally fueled motor vehicle over the life of the lease; and
   - **(12)** the term “user” means a person or entity that purchases or leases an electric motor vehicle.
+
+## Source Credit
+
+*([Pub. L. 102–486, title VI, § 601](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2899](https://www.govinfo.gov/link/statute/106/2899).)*

@@ -3,9 +3,10 @@ title: "Section 223a - Ballistic missile defense programs: procurement"
 usc_title: 10
 usc_section: "223a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 223a"
-generated_at: "2026-03-30T02:53:38.047Z"
+generated_at: "2026-11-23T20:25:50.879Z"
+status: "active"
 ---
 
 # § 223a. Ballistic missile defense programs: procurement
@@ -16,3 +17,13 @@ generated_at: "2026-03-30T02:53:38.047Z"
   - **(3)** The estimated date on which the administration of the acquisition of that element is to be transferred from the Director of the Missile Defense Agency to the Secretary of a military department.
 - **(b)** The Secretary of Defense shall include in the future-years defense program submitted to Congress each year under section 221 of this title an estimate of the amount necessary for procurement for each ballistic missile defense system element, together with a discussion of the underlying factors and reasoning justifying the estimate.
 - **(c)** The Director of the Missile Defense Agency shall include in the performance criteria prescribed for planned development phases of the ballistic missile defense system and its elements a description of the intended effectiveness of each such phase against foreign adversary capabilities.
+
+Budget Justification Materials
+
+Future-Years Defense Program
+
+Performance Criteria
+
+## Source Credit
+
+*(Added [Pub. L. 108–136, div. A, title II, § 223(a)(1)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1420](https://www.govinfo.gov/link/statute/117/1420); amended [Pub. L. 113–291, div. A, title X, § 1060(a)(1)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3502](https://www.govinfo.gov/link/statute/128/3502).)*

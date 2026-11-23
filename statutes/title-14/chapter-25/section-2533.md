@@ -3,9 +3,10 @@ title: "Section 2533 - Covered misconduct in Coast Guard"
 usc_title: 14
 usc_section: "2533"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 2533"
-generated_at: "2026-03-30T02:53:51.500Z"
+generated_at: "2026-11-23T20:25:54.613Z"
+status: "active"
 ---
 
 # § 2533. Covered misconduct in Coast Guard
@@ -71,3 +72,115 @@ generated_at: "2026-03-30T02:53:51.500Z"
     - **(G)** a detailed list of funding necessary to implement the directed actions in a timely and effective manner, including a list of personnel needed for such implementation.
 - **(d)** To the extent that information collected under the authority of this section is reported or otherwise made available to the public, such information shall be provided in a form that is consistent with applicable privacy protections under Federal law and does not jeopardize the confidentiality of victims.
 - **(e)** In this section, the term “substantiated” has the meaning given the term under section 1631(c) of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 ( 10 U.S.C. 1561 note).
+
+In General
+
+Continuity of Data and Reporting
+
+Contents.—
+
+Incidents involving members.—
+
+Information and data.—
+
+In general
+
+Inclusions
+
+(aa) a brief description of the nature of the incident;
+
+(bb) whether the accused member has previously been convicted of sexual assault; and
+
+(cc) whether alcohol or other controlled or prohibited substances were involved in the incident, and a description of the involvement.
+
+(aa) conviction and sentence by court-martial, including charges and specifications for which convicted;
+
+(bb) acquittal of all charges at court-martial;
+
+(cc) as appropriate, imposition of a nonjudicial punishment under section 815 of title 10 (article 15 of the Uniform Code of Military Justice);
+
+(dd) as appropriate, administrative action taken, including a description of each type of such action imposed;
+
+(ee) dismissal of all charges, including a description of each reason for dismissal and the stage at which dismissal occurred; and
+
+(ff) whether the accused member was administratively separated or, in the case of an officer, allowed to resign in lieu of court-martial, and the characterization (honorable, general, or other than honorable) of the service of the member upon separation or resignation.
+
+(aa) a narrative description of the retaliation claim;
+
+(bb) the nature of the relationship between the complainant and the individual accused of committing the retaliation; and
+
+(cc) the nature of the relationship between the individual accused of committing the covered misconduct and the individual accused of committing the retaliation.
+
+(aa) the status of the investigation or information relating to any referral to outside law enforcement entities;
+
+(bb) the official or office of the Coast Guard that received the complaint;
+
+(cc) a description of the results of such an investigation or information with respect to whether the results of the investigation were provided to the complainant; or
+
+(dd) whether the investigation substantiated an offense under chapter 47 of title 10 (the Uniform Code of Military Justice).
+
+Format
+
+Trends
+
+Response
+
+Plan
+
+Covered misconduct prevention and response activities
+
+Contributing factors
+
+Incidents involving recruits and officer candidates.—
+
+Information and data.—
+
+In general
+
+Inclusions.—
+
+In general
+
+(aa) All incidents of covered misconduct and retaliation described in clause (i) reported to the Commandant or any other official of the Coast Guard during the preceding calendar year (referred to in this subsection as a “reported incident”).
+
+(bb) The number of reported incidents committed against recruits and officer candidates described in clause (i)(I).
+
+(cc) The number of reported incidents committed by such recruits and officer candidates.
+
+(dd) Information on reported incidents, in accordance with the policy prescribed under section 549G(b) of the National Defense Authorization Act for Fiscal Year 2022 ( 10 U.S.C. 1561 note), to the maximum extent practicable.
+
+(ee) (AA) The number of reported incidents that were entered into the Catch a Serial Offender system. (BB) Of such reported incidents entered into such system, the number that resulted in the identification of a potential or confirmed match.
+
+(ff) The number of reported incidents that were substantiated (referred to in this subsection as a “substantiated reported incident”).
+
+(gg) A synopsis of each substantiated reported incident that includes— (AA) a brief description of the nature of the incident; and (BB) whether alcohol or other controlled or prohibited substances were involved in the incident, and a description of the involvement.
+
+(hh) The type of case disposition associated with each substantiated reported incident, such as— (AA) conviction and sentence by court-martial, including charges and specifications for which convicted; (BB) acquittal of all charges at court-martial; (CC) as appropriate, imposition of a nonjudicial punishment under section 815 of title 10 (article 15 of the Uniform Code of Military Justice); (DD) as appropriate, administrative action taken, including a description of each type of such action imposed; (EE) dismissal of all charges, including a description of each reason for dismissal and the stage at which dismissal occurred; and (FF) whether the accused member was administratively separated or, in the case of an officer, allowed to resign in lieu of court-martial, and the characterization (honorable, general, or other than honorable) of the service of the member upon separation or resignation.
+
+(ii) With respect to any incident of covered misconduct involving recruits or officer candidates reported to the Commandant or any other official of the Coast Guard during the preceding calendar year that involves a report of retaliation relating to the incident— (AA) a narrative description of the retaliation claim; (BB) the nature of the relationship between the complainant and the individual accused of committing the retaliation; and (CC) the nature of the relationship between the individual accused of committing the covered misconduct and the individual accused of committing the retaliation.
+
+(jj) The disposition of or action taken by the Coast Guard or any other Federal, State, local, or Tribal entity with respect to a substantiated reported incident.
+
+(kk) With respect to any investigation of a reported incident— (AA) the status of the investigation or information relating to any referral to outside law enforcement entities; (BB) the official or office of the Coast Guard that received the complaint; (CC) a description of the results of such an investigation or information with respect to whether the results of the investigation were provided to the complainant; or (DD) whether the investigation substantiated an offense under chapter 47 of title 10 (the Uniform Code of Military Justice).
+
+Format
+
+Trends
+
+Response
+
+Plan
+
+Covered misconduct prevention and response activities
+
+Contributing factors
+
+Implementation status of accountability and transparency review directed actions
+
+Victim Confidentiality
+
+Substantiated Defined
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. G, title LXXV, § 7511(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1795](https://www.govinfo.gov/link/statute/139/1795).)*

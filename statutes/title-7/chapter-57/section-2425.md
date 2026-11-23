@@ -3,9 +3,10 @@ title: "Section 2425 - Benefit of earlier filing date"
 usc_title: 7
 usc_section: "2425"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2425"
-generated_at: "2026-03-30T02:53:42.388Z"
+generated_at: "2026-11-23T20:25:41.531Z"
+status: "active"
 ---
 
 # § 2425. Benefit of earlier filing date
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:42.388Z"
     - **(B)** An event occurring within the period of priority (such as the filing of another application or use of the variety that is the subject of the first application) shall not constitute a ground for rejecting the application or give rise to any third party right.
 - **(b)** An application for a certificate of plant variety protection for the same variety as was the subject of an application previously filed in the United States by or on behalf of the same person, or by the predecessor in title of the person, shall have the same effect as to such variety as though filed on the date of the prior application if filed before the issuance of the certificate or other termination of proceedings on the first application or on an application similarly entitled to the benefit of the filing date of the first application and if it contains or is amended to contain a specific reference to the earlier filed application.
 - **(c)** A later application shall not by itself establish that a characteristic newly described was in the variety at the time of the earlier application.
+
+## Source Credit
+
+*([Pub. L. 91–577, title II, § 55](https://www.govinfo.gov/link/plaw/91/public/577), Dec. 24, 1970, [84 Stat. 1548](https://www.govinfo.gov/link/statute/84/1548); [Pub. L. 103–349](https://www.govinfo.gov/link/plaw/103/public/349), §§ 5, 13(i), Oct. 6, 1994, [108 Stat. 3139](https://www.govinfo.gov/link/statute/108/3139), 3143.)*

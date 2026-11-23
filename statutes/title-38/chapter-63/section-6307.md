@@ -3,9 +3,10 @@ title: "Section 6307 - Grants to States and Indian Tribes to improve outreach to
 usc_title: 38
 usc_section: "6307"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 6307"
-generated_at: "2026-03-30T02:55:53.523Z"
+generated_at: "2026-11-23T20:27:01.975Z"
+status: "active"
 ---
 
 # § 6307. Grants to States and Indian Tribes to improve outreach to veterans
@@ -65,3 +66,35 @@ generated_at: "2026-03-30T02:55:53.523Z"
   - **(3)** The term “Indian Tribe” has the meaning given such term in section 4 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5304 ).
   - **(4)** The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and any territory or possession of the United States.
   - **(5)** The term “Veterans Crisis Line” means the toll-free hotline for veterans established under section 1720F(h) of this title .
+
+Purpose
+
+Authority
+
+Application
+
+Distribution
+
+Set-aside
+
+Priority
+
+Use of County or Tribal Veterans Service Officers
+
+Required Activities
+
+Authorized Activities
+
+Outcome Measures
+
+Tracking Requirements
+
+Performance Review
+
+Remediation Plan
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 118–210, title III, § 302(a)(2)](https://www.govinfo.gov/link/plaw/118/public/210), Jan. 2, 2025, [138 Stat. 2789](https://www.govinfo.gov/link/statute/138/2789).)*

@@ -3,9 +3,10 @@ title: "Section 11322 - Limitation on pooling and division of transportation or 
 usc_title: 49
 usc_section: "11322"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 11322"
-generated_at: "2026-03-30T02:56:19.325Z"
+generated_at: "2026-11-23T20:27:34.725Z"
+status: "active"
 ---
 
 # § 11322. Limitation on pooling and division of transportation or earnings
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:19.325Z"
   - **(2)** will not unreasonably restrain competition.
 - **(b)** The Board may impose conditions governing the pooling or division and may approve and authorize payment of a reasonable consideration between the rail carriers.
 - **(c)** The Board may begin a proceeding under this section on its own initiative or on application.
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 102(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 838](https://www.govinfo.gov/link/statute/109/838).)*

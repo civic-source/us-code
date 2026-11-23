@@ -3,9 +3,10 @@ title: "Section 40116 - State taxation"
 usc_title: 49
 usc_section: "40116"
 chapter: 401
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 40116"
-generated_at: "2026-03-30T02:56:19.370Z"
+generated_at: "2026-11-23T20:27:35.060Z"
+status: "active"
 ---
 
 # § 40116. State taxation
@@ -45,3 +46,128 @@ generated_at: "2026-03-30T02:56:19.370Z"
   - **(3)** Compensation paid by an air carrier to an employee described in subsection (a) in connection with such employee’s authorized leave or other authorized absence from regular duties on the carrier’s aircraft in order to perform services on behalf of the employee’s airline union shall be subject to the income tax laws of only the following:
     - **(A)** The State or political subdivision of the State that is the residence of the employee.
     - **(B)** The State or political subdivision of the State in which the employee’s scheduled flight time would have been more than 50 percent of the employee’s total scheduled flight time for the calendar year had the employee been engaged full time in the performance of regularly assigned duties on the carrier’s aircraft.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 40116(a) | 49 App.:1513(d)(2)(E). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 1113(d); added Sept. 3, 1982 , Pub. L. 97–248, § 532(b) , 96 Stat. 701 . |
+|  | 49 App.:1513(f) (words in parentheses). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 1113(f); added Nov. 5, 1990 , Pub. L. 101–508, § 9125 , 104 Stat. 1388–370 . |
+| 40116(b) | 49 App.:1513(a). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 1113(a); added June 18, 1973 , Pub. L. 93–44, § 7(a) , 87 Stat. 90 ; Nov. 5, 1990 , Pub. L. 101–508, § 9110(1) , 104 Stat. 1388–357 . |
+| 40116(c) | 49 App.:1513(f) (less words in parentheses). |  |
+| 40116(d) | 49 App.:1513(d)(1), (2)(A)–(D), (3). |  |
+| 40116(e) | 49 App.:1513(b). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 1113(b); added June 18, 1973 , Pub. L. 93–44, § 7(a) , 87 Stat. 90 ; Sept. 3, 1982 , Pub. L. 97–248, § 532(a) , 96 Stat. 701 . |
+| 40116(f) (1)(A), (B) | 49 App.:1512(c). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 1112; added Dec. 23, 1970 , Pub. L. 91–569, § 4(a) , 84 Stat. 1502 ; restated Feb. 18, 1980 , Pub. L. 96–193, § 402 , 94 Stat. 57 . |
+| 40116(f) (1)(C) | 49 App.:1512(b). |  |
+| 40116(f)(2) | 49 App.:1512(a). |  |
+
+
+Definition
+
+Prohibitions
+
+Aircraft Taking Off or Landing in State
+
+Unreasonable Burdens and Discrimination Against Interstate Commerce
+
+Other Allowable Taxes and Charges
+
+Pay of Air Carrier Employees
+
+Historical and Revision Notes
+
+Pub. L
+
+40116(a)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 532(b)
+
+96 Stat. 701
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Nov. 5, 1990
+
+Pub. L. 101–508, § 9125
+
+104 Stat. 1388–370
+
+40116(b)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+June 18, 1973
+
+Pub. L. 93–44, § 7(a)
+
+87 Stat. 90
+
+Nov. 5, 1990
+
+Pub. L. 101–508, § 9110(1)
+
+104 Stat. 1388–357
+
+40116(c)
+
+40116(d)
+
+40116(e)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+June 18, 1973
+
+Pub. L. 93–44, § 7(a)
+
+87 Stat. 90
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 532(a)
+
+96 Stat. 701
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Dec. 23, 1970
+
+Pub. L. 91–569, § 4(a)
+
+84 Stat. 1502
+
+Feb. 18, 1980
+
+Pub. L. 96–193, § 402
+
+94 Stat. 57
+
+40116(f) (1)(C)
+
+40116(f)(2)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1111](https://www.govinfo.gov/link/statute/108/1111); [Pub. L. 103–305, title I, § 112(e)](https://www.govinfo.gov/link/plaw/103/public/305), title II, § 208, Aug. 23, 1994, [108 Stat. 1576](https://www.govinfo.gov/link/statute/108/1576), 1588; [Pub. L. 104–264, title I, § 149(b)](https://www.govinfo.gov/link/plaw/104/public/264), Oct. 9, 1996, [110 Stat. 3226](https://www.govinfo.gov/link/statute/110/3226); [Pub. L. 104–287, § 5(66)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3395](https://www.govinfo.gov/link/statute/110/3395); [Pub. L. 115–254, div. B, title I, § 159(a)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3220](https://www.govinfo.gov/link/statute/132/3220).)*

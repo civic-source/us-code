@@ -3,9 +3,10 @@ title: "Section 4007 - Retirement for expiration of time in class"
 usc_title: 22
 usc_section: "4007"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4007"
-generated_at: "2026-03-30T02:55:05.401Z"
+generated_at: "2026-11-23T20:26:32.492Z"
+status: "active"
 ---
 
 # § 4007. Retirement for expiration of time in class
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:05.401Z"
 - **(d)** Notwithstanding any other provision of this section—
   - **(1)** the career appointment of a member of the Service whose maximum time in class under subsection (a) expires, or whose limited career extension under subsection (b) expires, while that member is occupying a position to which he or she was appointed by the President, by and with the advice and consent of the Senate, shall be extended until the appointment to that position is terminated; and
   - **(2)** if the Secretary determines it to be in the public interest, the Secretary may extend temporarily the career appointment of a career member of the Service whose maximum time in class or limited career extension expires, but in no case may any extension under this paragraph exceed one year and such extensions may be granted only in special circumstances.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 607](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2096](https://www.govinfo.gov/link/statute/94/2096).)*

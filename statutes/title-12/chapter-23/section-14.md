@@ -3,9 +3,10 @@ title: "Section 14 - Federal jurisdiction"
 usc_title: 12
 usc_section: "14"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 14"
-generated_at: "2026-03-30T02:53:53.484Z"
+generated_at: "2026-11-23T20:25:59.286Z"
+status: "active"
 ---
 
 # § 2279aa–14. Federal jurisdiction
@@ -18,3 +19,7 @@ Notwithstanding section 1349 of title 28 or any other provision of law:
     - **(A)** to the District Court of the United States for the district and division embracing the place where the same is pending; or
     - **(B)** if there is no such district court, to the District Court of the United States for the district in which the principal office of the Corporation is located;
   - **(4)** No attachment or execution shall be issued against the Corporation or any of the property of the Corporation before final judgment in any Federal, State, or other court.
+
+## Source Credit
+
+*([Pub. L. 92–181, title VIII, § 8](https://www.govinfo.gov/link/plaw/92/public/181).14, as added [Pub. L. 100–233, title VII, § 702](https://www.govinfo.gov/link/plaw/100/public/233), Jan. 6, 1988, [101 Stat. 1705](https://www.govinfo.gov/link/statute/101/1705).)*

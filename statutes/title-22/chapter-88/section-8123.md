@@ -3,9 +3,10 @@ title: "Section 8123 - Consents, warrants, and complementary access"
 usc_title: 22
 usc_section: "8123"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8123"
-generated_at: "2026-03-30T02:55:05.449Z"
+generated_at: "2026-11-23T20:26:32.699Z"
+status: "active"
 ---
 
 # § 8123. Consents, warrants, and complementary access
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:05.449Z"
       - **(i)** because there is probable cause, on the basis of specific evidence, to believe that information required to be reported regarding a location pursuant to regulations promulgated under this chapter is incorrect or incomplete, and that the location to be accessed contains evidence regarding that violation; or
       - **(ii)** pursuant to a reasonable general administrative plan based upon specific neutral criteria.
   - **(3)** A warrant issued under paragraph (2) shall specify the same matters required of an affidavit under that paragraph. In addition, each warrant shall contain the identities of the representatives of the IAEA on the complementary access team and the identities of the representatives or designees of the United States Government required to display identifying credentials under section 8122(c) of this title .
+
+## Source Credit
+
+*([Pub. L. 109–401, title II, § 223](https://www.govinfo.gov/link/plaw/109/public/401), Dec. 18, 2006, [120 Stat. 2745](https://www.govinfo.gov/link/statute/120/2745).)*

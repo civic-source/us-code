@@ -3,9 +3,10 @@ title: "Section 40122 - Federal Aviation Administration personnel management sys
 usc_title: 49
 usc_section: "40122"
 chapter: 401
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 40122"
-generated_at: "2026-03-30T02:56:19.371Z"
+generated_at: "2026-11-23T20:27:35.068Z"
+status: "active"
 ---
 
 # § 40122. Federal Aviation Administration personnel management system
@@ -66,3 +67,87 @@ generated_at: "2026-03-30T02:56:19.371Z"
 - **(h)** An employee of the Federal Aviation Administration who is the subject of a major adverse personnel action may contest the action either through any contractual grievance procedure that is applicable to the employee as a member of the collective bargaining unit or through the Administration’s internal process relating to review of major adverse personnel actions of the Administration, known as Guaranteed Fair Treatment, or under section 40122(g)(3).
 - **(i)** Where a major adverse personnel action may be contested through more than one of the indicated forums (such as the contractual grievance procedure, the Federal Aviation Administration’s internal process, or that of the Merit Systems Protection Board), an employee must elect the forum through which the matter will be contested. Nothing in this section is intended to allow an employee to contest an action through more than one forum unless otherwise allowed by law.
 - **(j)** In this section, the term “major adverse personnel action” means a suspension of more than 14 days, a reduction in pay or grade, a removal for conduct or performance, a nondisciplinary removal, a furlough of 30 days or less (but not including placement in a nonpay status as the result of a lapse of appropriations or an enactment by Congress), or a reduction in force action.
+
+In General.—
+
+Consultation and negotiation
+
+Dispute resolution.—
+
+Mediation
+
+Mid-term bargaining
+
+Binding arbitration for term bargaining.—
+
+Assistance from federal service impasses panel
+
+Appointment of arbitration board
+
+Framing issues in controversy
+
+Hearings
+
+Decisions
+
+Matters for consideration
+
+Costs
+
+Ratification of agreements
+
+Cost savings and productivity goals
+
+Annual budget discussions
+
+Expert Evaluation
+
+Pay Restriction
+
+Ethics
+
+Employee Protections
+
+Labor-Management Agreements
+
+Personnel Management System.—
+
+In general
+
+Applicability of title 5
+
+Appeals to merit systems protection board
+
+Certification of disabled veteran leave
+
+Paid parental leave
+
+Effective date
+
+Remote positions.—
+
+In general
+
+Covered position defined
+
+Right To Contest Adverse Personnel Actions
+
+Election of Forum
+
+Definition
+
+Office of Investigations and Professional Responsibility
+
+Misconduct Investigations.—
+
+In general
+
+Preservation of collective bargaining agreements
+
+Requirements
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 104–264, title II, § 253](https://www.govinfo.gov/link/plaw/104/public/264), Oct. 9, 1996, [110 Stat. 3237](https://www.govinfo.gov/link/statute/110/3237); amended [Pub. L. 106–181, title III](https://www.govinfo.gov/link/plaw/106/public/181), §§ 307(a), 308, Apr. 5, 2000, [114 Stat. 124](https://www.govinfo.gov/link/statute/114/124), 126; [Pub. L. 112–95, title VI](https://www.govinfo.gov/link/plaw/112/public/95), §§ 601, 602, 611, Feb. 14, 2012, [126 Stat. 109](https://www.govinfo.gov/link/statute/126/109), 111, 117; [Pub. L. 114–242, § 2(a)](https://www.govinfo.gov/link/plaw/114/public/242), (b), Oct. 7, 2016, [130 Stat. 978](https://www.govinfo.gov/link/statute/130/978); [Pub. L. 115–254, div. B, title V, § 531](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3366](https://www.govinfo.gov/link/statute/132/3366); [Pub. L. 116–283, div. A, title XI, § 1103(c)(1)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3887](https://www.govinfo.gov/link/statute/134/3887); [Pub. L. 118–63, title III, § 342(b)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1099](https://www.govinfo.gov/link/statute/138/1099).)*

@@ -3,9 +3,10 @@ title: "Section 1753 - Adoption of consumer broadband labels"
 usc_title: 47
 usc_section: "1753"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 1753"
-generated_at: "2026-03-30T02:56:24.543Z"
+generated_at: "2026-11-23T20:27:29.031Z"
+status: "active"
 ---
 
 # § 1753. Adoption of consumer broadband labels
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:24.543Z"
 - **(c)** In issuing the final rule under subsection (a), the Commission shall conduct a series of public hearings to assess, at the time of the proceeding—
   - **(1)** how consumers evaluate broadband internet access service plans; and
   - **(2)** whether disclosures to consumers of information regarding broadband internet access service plans, including the disclosures required under section 8.1 of title 47, Code of Federal Regulations, are available, effective, and sufficient.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. F, title V, § 60504](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1244](https://www.govinfo.gov/link/statute/135/1244).)*

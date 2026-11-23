@@ -3,9 +3,10 @@ title: "Section 1594 - Seizure of conveyances"
 usc_title: 19
 usc_section: "1594"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1594"
-generated_at: "2026-03-30T02:54:24.646Z"
+generated_at: "2026-11-23T20:26:10.818Z"
+status: "active"
 ---
 
 # § 1594. Seizure of conveyances
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:24.646Z"
     - **(F)** and other persons with similar responsibilities.
   - **(2)** The term “master” and similar terms relating to the person in charge of a conveyance includes the purser or other person on the conveyance who is responsible for maintaining records relating to the cargo transported in the conveyance.
 - **(e)** When a common carrier has been seized in accordance with the provisions of subsection (c) and it is subsequently determined that a violation of such subsection occurred but that the vessel will be released, the conveyance is liable for the costs and expenses of the seizure and detention.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 594, [46 Stat. 751](https://www.govinfo.gov/link/statute/46/751); [Pub. L. 99–570, title III, § 3121](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–86](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 100–690, title VI, § 6076(b)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4324](https://www.govinfo.gov/link/statute/102/4324).)*

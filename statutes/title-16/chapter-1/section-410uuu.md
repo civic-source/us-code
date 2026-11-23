@@ -3,9 +3,10 @@ title: "Section 410uuu - Manhattan Project National Historical Park"
 usc_title: 16
 usc_section: "410uuu"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 410uuu"
-generated_at: "2026-03-30T02:54:22.783Z"
+generated_at: "2026-11-23T20:26:19.807Z"
+status: "active"
 ---
 
 # § 410uuu. Manhattan Project National Historical Park
@@ -85,3 +86,7 @@ generated_at: "2026-03-30T02:54:22.783Z"
   - **(1)** Nothing in this section creates a protective perimeter or buffer zone around the boundary of the Historical Park.
   - **(2)** The fact that an activity or use on land outside the boundary of the Historical Park can be seen or heard from within the boundary shall not preclude the activity or use outside the boundary of the Historical Park.
 - **(h)** Nothing in this section shall be construed to create a cause of action with respect to activities outside or adjacent to the established boundary of the Historical Park.
+
+## Source Credit
+
+*([Pub. L. 113–291, div. B, title XXX, § 3039](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3784](https://www.govinfo.gov/link/statute/128/3784).)*

@@ -3,9 +3,10 @@ title: "Section 78g - Margin requirements"
 usc_title: 15
 usc_section: "78g"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 78g"
-generated_at: "2026-03-30T02:54:08.042Z"
+generated_at: "2026-11-23T20:26:03.486Z"
+status: "active"
 ---
 
 # § 78g. Margin requirements
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:54:08.042Z"
     - **(C)** The term “foreign person controlled by a United States person” includes any noncorporate entity in which United States persons directly or indirectly have more than a 50 per centum beneficial interest, and any corporation in which one or more United States persons, directly or indirectly, own stock possessing more than 50 per centum of the total combined voting power of all classes of stock entitled to vote, or more than 50 per centum of the total value of shares of all classes of stock.
   - **(3)** The Board of Governors of the Federal Reserve System may, in its discretion and with due regard for the purposes of this section, by rule or regulation exempt any class of United States persons or foreign persons controlled by a United States person from the application of this subsection.
 - **(g)** Subject to such rules and regulations as the Board of Governors of the Federal Reserve System may adopt in the public interest and for the protection of investors, no member of a national securities exchange or broker or dealer shall be deemed to have extended or maintained credit or arranged for the extension or maintenance of credit for the purpose of purchasing a security, within the meaning of this section, by reason of a bona fide agreement for delayed delivery of a mortgage related security or a small business related security against full payment of the purchase price thereof upon such delivery within one hundred and eighty days after the purchase, or within such shorter period as the Board of Governors of the Federal Reserve System may prescribe by rule or regulation.
+
+## Source Credit
+
+*(June 6, 1934, ch. 404, title I, § 7, [48 Stat. 886](https://www.govinfo.gov/link/statute/48/886); Aug. 23, 1935, ch. 614, § 203(a), [49 Stat. 704](https://www.govinfo.gov/link/statute/49/704); [Pub. L. 90–437](https://www.govinfo.gov/link/plaw/90/public/437), July 29, 1968, [82 Stat. 452](https://www.govinfo.gov/link/statute/82/452); [Pub. L. 91–508, title III, § 301(a)](https://www.govinfo.gov/link/plaw/91/public/508), Oct. 26, 1970, [84 Stat. 1124](https://www.govinfo.gov/link/statute/84/1124); [Pub. L. 98–440, title I, § 102](https://www.govinfo.gov/link/plaw/98/public/440), Oct. 3, 1984, [98 Stat. 1690](https://www.govinfo.gov/link/statute/98/1690); [Pub. L. 103–325, title II, § 203](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2199](https://www.govinfo.gov/link/statute/108/2199); [Pub. L. 104–290, title I, § 104(a)](https://www.govinfo.gov/link/plaw/104/public/290), Oct. 11, 1996, [110 Stat. 3422](https://www.govinfo.gov/link/statute/110/3422); [Pub. L. 105–353, title III, § 301(b)(5)](https://www.govinfo.gov/link/plaw/105/public/353), (6), Nov. 3, 1998, [112 Stat. 3236](https://www.govinfo.gov/link/statute/112/3236); [Pub. L. 106–554, § 1(a)(5) [title II, § 206(b)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–429; [Pub. L. 111–203, title IX, § 929](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1852](https://www.govinfo.gov/link/statute/124/1852).)*

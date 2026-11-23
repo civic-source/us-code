@@ -3,9 +3,10 @@ title: "Section 1784a - Education and training opportunities for military spouse
 usc_title: 10
 usc_section: "1784a"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1784a"
-generated_at: "2026-03-30T02:53:38.138Z"
+generated_at: "2026-11-23T20:25:51.425Z"
+status: "active"
 ---
 
 # § 1784a. Education and training opportunities for military spouses to expand employment and portable career opportunities
@@ -26,3 +27,29 @@ generated_at: "2026-03-30T02:53:38.138Z"
   - **(2)** provided by an organization that receives reimbursement under the extramedical maternal health providers demonstration project required by section 746 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 ( Public Law 116–283 ; 10 U.S.C. 1073 note).
 - **(e)** In this section, the term “portable career” includes an occupation identified by the Secretary of Defense, in consultation with the Secretary of Labor, as requiring education and training that results in a credential that is recognized nationwide by industry or specific businesses.
 - **(f)** The Secretary of Defense shall prescribe regulations to govern the availability and use of assistance under this section. The Secretary shall ensure that programs established under this section do not result in inequitable treatment for spouses of members of the armed forces who are also members, since they are excluded from participation in the programs under subsection (c)(2).
+
+Programs and Tuition Assistance
+
+Eligible Spouses
+
+Exceptions
+
+Doula and IBCLC Certifications
+
+Portable Career Opportunities Defined
+
+Regulations
+
+Professional License or Certification; Associate’s Degree
+
+National Testing
+
+Outreach on Availability of Program
+
+Comptroller General Report
+
+Training for Installation Career Counselors on Program
+
+## Source Credit
+
+*(Added [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title V, § 582(a), Oct. 14, 2008, [122 Stat. 4473](https://www.govinfo.gov/link/statute/122/4473); amended [Pub. L. 116–92, div. A, title V, § 576](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1406](https://www.govinfo.gov/link/statute/133/1406); [Pub. L. 118–31, div. A, title VI, § 634](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 297](https://www.govinfo.gov/link/statute/137/297).)*

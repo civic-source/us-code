@@ -3,9 +3,10 @@ title: "Section 6041 - Withholding of foreign assistance from countries supporti
 usc_title: 22
 usc_section: "6041"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6041"
-generated_at: "2026-03-30T02:55:05.423Z"
+generated_at: "2026-11-23T20:26:32.589Z"
+status: "active"
 ---
 
 # § 6041. Withholding of foreign assistance from countries supporting Juragua nuclear plant in Cuba
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:05.423Z"
     - **(E)** assistance for the purposes described in the Cooperative Threat Reduction Act of 1993 (title XII of Public Law 103–160 ) [ 22 U.S.C. 5951 et seq.]; or
     - **(F)** assistance under the secondary school exchange program administered by the United States Information Agency.
   - **(3)** As used in paragraph (1), the term “assistance” means assistance under the Foreign Assistance Act of 1961 [ 22 U.S.C. 2151 et seq.], credits, sales, guarantees of extensions of credit, and other assistance under the Arms Export Control Act [ 22 U.S.C. 2751 et seq.], assistance under titles I and III of the Food for Peace Act [ 7 U.S.C. 1701 et seq., 1727 et seq.], assistance under the FREEDOM Support Act, and any other program of assistance or credits provided by the United States to other countries under other provisions of law.
+
+## Source Credit
+
+*([Pub. L. 104–114, title I, § 111](https://www.govinfo.gov/link/plaw/104/public/114), Mar. 12, 1996, [110 Stat. 800](https://www.govinfo.gov/link/statute/110/800); [Pub. L. 110–246, title III, § 3001(b)(1)(A)](https://www.govinfo.gov/link/plaw/110/public/246), (2)(W), June 18, 2008, [122 Stat. 1820](https://www.govinfo.gov/link/statute/122/1820), 1821.)*

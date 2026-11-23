@@ -3,9 +3,10 @@ title: "Section 1600j - Federal leases"
 usc_title: 43
 usc_section: "1600j"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1600j"
-generated_at: "2026-03-30T02:55:57.478Z"
+generated_at: "2026-11-23T20:27:06.316Z"
+status: "active"
 ---
 
 # § 1600j. Federal leases
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:57.478Z"
 - **(c)** No lease of lands owned in whole or part by the United States between Hoover Dam and Davis Dam below elevation 655.0 feet on Lake Mohave shall be granted unless the Secretary determines that such lease would be consistent with the operation of Lake Mohave.
 - **(d)** The provisions of subsections (a) and (b) of this section shall not apply to lease operations on Indian lands pursuant to a lease providing for activities which are exempted under section 1600e of this title .
 - **(e)** Subsections (a) and (b) of this section shall not apply to lands held in trust by the United States for the benefit of any Indian tribe or individual with respect to any lease where capital improvements, and operation and maintenance costs are not provided for by Federal financial assistance if the lessee, tribe, or individual has provided insurance or other security for the benefit of the Secretary sufficient to insure against all reasonably forseeable, 1 1 So in original. Probably should be “foreseeable,”. direct, and consequential damages to the property of the tribe, private persons, and the United States, which may result from the proposed lease.
+
+## Source Credit
+
+*([Pub. L. 99–450, § 13](https://www.govinfo.gov/link/plaw/99/public/450), Oct. 8, 1986, [100 Stat. 1135](https://www.govinfo.gov/link/statute/100/1135).)*

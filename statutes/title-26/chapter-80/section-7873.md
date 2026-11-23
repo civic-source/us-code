@@ -3,9 +3,10 @@ title: "Section 7873 - Income derived by Indians from exercise of fishing rights
 usc_title: 26
 usc_section: "7873"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 7873"
-generated_at: "2026-03-30T02:55:27.888Z"
+generated_at: "2026-11-23T20:26:46.859Z"
+status: "active"
 ---
 
 # § 7873. Income derived by Indians from exercise of fishing rights
@@ -30,3 +31,11 @@ generated_at: "2026-03-30T02:55:27.888Z"
   - **(2)** If, but for this paragraph, all but a de minimis amount—
     - **(A)** derived by a qualified Indian tribal entity, or by an individual through such an entity, is entitled to the benefits of paragraph (1) of subsection (a), or
     - **(B)** paid to an individual for services is entitled to the benefits of paragraph (2) of subsection (a),
+
+Effective Date
+
+No Inference Created
+
+## Source Credit
+
+*(Added [Pub. L. 100–647, title III, § 3041(a)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3640](https://www.govinfo.gov/link/statute/102/3640).)*

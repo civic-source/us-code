@@ -3,9 +3,10 @@ title: "Section 4851a - Purposes"
 usc_title: 42
 usc_section: "4851a"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4851a"
-generated_at: "2026-03-30T02:56:11.209Z"
+generated_at: "2026-11-23T20:27:22.419Z"
+status: "active"
 ---
 
 # § 4851a. Purposes
@@ -19,3 +20,7 @@ The purposes of this chapter are—
   - **(5)** to mobilize national resources expeditiously, through a partnership among all levels of government and the private sector, to develop the most promising, cost-effective methods for evaluating and reducing lead-based paint hazards;
   - **(6)** to reduce the threat of childhood lead poisoning in housing owned, assisted, or transferred by the Federal Government; and
   - **(7)** to educate the public concerning the hazards and sources of lead-based paint poisoning and steps to reduce and eliminate such hazards.
+
+## Source Credit
+
+*([Pub. L. 102–550, title X, § 1003](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3897](https://www.govinfo.gov/link/statute/106/3897).)*

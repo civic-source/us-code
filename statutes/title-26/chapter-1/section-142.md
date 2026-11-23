@@ -3,9 +3,10 @@ title: "Section 142 - Exempt facility bond"
 usc_title: 26
 usc_section: "142"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 142"
-generated_at: "2026-03-30T02:55:27.629Z"
+generated_at: "2026-11-23T20:26:45.380Z"
+status: "active"
 ---
 
 # § 142. Exempt facility bond
@@ -289,3 +290,43 @@ generated_at: "2026-03-30T02:55:27.629Z"
     - **(C)** The terms “launch site”, “crew”, “space flight participant”, “launch services”, “launch vehicle”, “payload”, “reentry services”, “reentry site”, a “reentry vehicle” shall have the respective meanings given to such terms by section 50902 of title 51 , United States Code (as in effect on the date of enactment of this subsection).
   - **(3)** A facility shall not be required to be available for use by the general public to be treated as a spaceport for purposes of this section.
   - **(4)** With respect to spaceports, subsection (c)(2)(E) shall not apply to spaceport property described in paragraph (1)(A).
+
+(aa) In general The term “biomass” means any— (AA) agricultural or plant waste, (BB) byproduct of wood or paper mill operations, including lignin in spent pulping liquors, and (CC) other products of forestry maintenance.
+
+(bb) Exclusion The term “biomass” does not include paper which is commonly recycled.
+
+(aa) chemicals,
+
+(bb) fertilizers,
+
+(cc) glass,
+
+(dd) steel,
+
+(ee) petroleum residues,
+
+(ff) forest products,
+
+(gg) agriculture, including feedlots and dairy operations, and
+
+(hh) transportation grade liquid fuels.
+
+(aa) does not qualify as gasification equipment, or
+
+(bb) is not a necessary component of an oxy-fuel combustion process.
+
+(aa) produces a raw product consisting of gas or mixed gas and liquid from a geological formation,
+
+(bb) transports or removes impurities from such product, or
+
+(cc) separates such product into its constituent parts.
+
+(aa) a facility for geologic storage, or
+
+(bb) an enhanced oil or gas recovery well followed by geologic storage, divided by
+
+“The amendments made by this section [amending this section] shall apply to—
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title XIII, § 1301(b)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2606](https://www.govinfo.gov/link/statute/100/2606); amended [Pub. L. 100–647, title I, § 1013(a)(1)](https://www.govinfo.gov/link/plaw/100/public/647), (39), title VI, § 6180(a)–(b)(2), Nov. 10, 1988, [102 Stat. 3537](https://www.govinfo.gov/link/statute/102/3537), 3544, 3727, 3728; [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7108(e)(3), (n)(1), 7816(s)(1), Dec. 19, 1989, [103 Stat. 2313](https://www.govinfo.gov/link/statute/103/2313), 2318, 2423; [Pub. L. 102–486, title XIX](https://www.govinfo.gov/link/plaw/102/public/486), §§ 1919(a), 1921(a), (b)(1), (2), Oct. 24, 1992, [106 Stat. 3025](https://www.govinfo.gov/link/statute/106/3025), 3027, 3028; [Pub. L. 104–188, title I](https://www.govinfo.gov/link/plaw/104/public/188), §§ 1608(a), 1704(j)(7), Aug. 20, 1996, [110 Stat. 1840](https://www.govinfo.gov/link/statute/110/1840), 1882; [Pub. L. 105–206, title VI, § 6023(5)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 825](https://www.govinfo.gov/link/statute/112/825); [Pub. L. 107–16, title IV, § 422(a)](https://www.govinfo.gov/link/plaw/107/public/16), (b), June 7, 2001, [115 Stat. 65](https://www.govinfo.gov/link/statute/115/65); [Pub. L. 108–357, title VII, § 701(a)](https://www.govinfo.gov/link/plaw/108/public/357), (b), Oct. 22, 2004, [118 Stat. 1536](https://www.govinfo.gov/link/statute/118/1536); [Pub. L. 109–59, title XI, § 11143(a)](https://www.govinfo.gov/link/plaw/109/public/59), (b), Aug. 10, 2005, [119 Stat. 1963](https://www.govinfo.gov/link/statute/119/1963); [Pub. L. 109–222, title II, § 209(b)(2)](https://www.govinfo.gov/link/plaw/109/public/222), May 17, 2006, [120 Stat. 352](https://www.govinfo.gov/link/statute/120/352); [Pub. L. 110–289, div. C, title I](https://www.govinfo.gov/link/plaw/110/public/289), §§ 3005(a), 3008(a)–(c), 3009(a), 3010(a), July 30, 2008, [122 Stat. 2885–2888](https://www.govinfo.gov/link/statute/122/2885); [Pub. L. 110–343, div. B, title III, § 307(a)](https://www.govinfo.gov/link/plaw/110/public/343), (b), Oct. 3, 2008, [122 Stat. 3849](https://www.govinfo.gov/link/statute/122/3849); [Pub. L. 111–5, div. B, title I, § 1504(a)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 355](https://www.govinfo.gov/link/statute/123/355); [Pub. L. 115–141, div. U, title IV, § 401(a)(47)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1186](https://www.govinfo.gov/link/statute/132/1186); [Pub. L. 117–58, div. H, title IV](https://www.govinfo.gov/link/plaw/117/public/58), §§ 80401(a), (b), 80402(a), (b), 80403(a), Nov. 15, 2021, [135 Stat. 1330](https://www.govinfo.gov/link/statute/135/1330), 1331, 1335; [Pub. L. 117–169, title I, § 13104(a)(2)(B)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 1925](https://www.govinfo.gov/link/statute/136/1925); [Pub. L. 119–21, title VII, § 70309(a)](https://www.govinfo.gov/link/plaw/119/public/21) –(c), (e), July 4, 2025, [139 Stat. 201](https://www.govinfo.gov/link/statute/139/201), 202.)*

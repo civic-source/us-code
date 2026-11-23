@@ -3,9 +3,10 @@ title: "Section 12341 - Rural domestic violence, dating violence, sexual assault
 usc_title: 34
 usc_section: "12341"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12341"
-generated_at: "2026-03-30T02:55:33.286Z"
+generated_at: "2026-11-23T20:26:50.544Z"
+status: "active"
 ---
 
 # § 12341. Rural domestic violence, dating violence, sexual assault, stalking, and child abuse enforcement assistance
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:55:33.286Z"
 - **(e)**
   - **(1)** There are authorized to be appropriated $100,000,000 for each of fiscal years 2023 through 2027 to carry out this section.
   - **(2)** In addition to funds received through a grant under subsection (b), a law enforcement agency may use funds received through a grant under part Q of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ( 42 U.S.C. 3796dd et seq.) 2 2 See References in Text note below. to accomplish the objectives of this section.
+
+## Source Credit
+
+*([Pub. L. 103–322, title IV, § 40295](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1940](https://www.govinfo.gov/link/statute/108/1940); [Pub. L. 106–386, div. B, title I](https://www.govinfo.gov/link/plaw/106/public/386), §§ 1105, 1109(d), title V, § 1512(c), Oct. 28, 2000, [114 Stat. 1497](https://www.govinfo.gov/link/statute/114/1497), 1503, 1533; [Pub. L. 109–162, title II, § 203](https://www.govinfo.gov/link/plaw/109/public/162), title IX, § 906(d), Jan. 5, 2006, [119 Stat. 2998](https://www.govinfo.gov/link/statute/119/2998), 3081; [Pub. L. 109–271, § 7(b)(1)](https://www.govinfo.gov/link/plaw/109/public/271), (2)(A), Aug. 12, 2006, [120 Stat. 764](https://www.govinfo.gov/link/statute/120/764); [Pub. L. 113–4, title II, § 202](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 81](https://www.govinfo.gov/link/statute/127/81); [Pub. L. 117–103, div. W, title II, § 202](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 856](https://www.govinfo.gov/link/statute/136/856).)*

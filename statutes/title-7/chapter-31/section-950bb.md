@@ -3,9 +3,10 @@ title: "Section 950bb - Access to broadband telecommunications services in rural
 usc_title: 7
 usc_section: "950bb"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 950bb"
-generated_at: "2026-03-30T02:53:42.297Z"
+generated_at: "2026-11-23T20:25:41.093Z"
+status: "active"
 ---
 
 # § 950bb. Access to broadband telecommunications services in rural areas
@@ -159,3 +160,27 @@ generated_at: "2026-03-30T02:53:42.297Z"
       - **(ii)** the number of communities with a population of 2,500 inhabitants or less in all States.
     - **(C)** Any amounts in the reserve established for a State for a fiscal year under subparagraph (B) that are not obligated by April 1 of the fiscal year shall be available to the Secretary to make loans and loan guarantees under this section to eligible entities in any State, as determined by the Secretary.
 - **(k)** No grant, or loan, or loan guarantee may be made under this section after September 30, 2023 .
+
+(aa) public libraries;
+
+(bb) elementary schools and secondary schools (as defined in section 7801 of title 20 );
+
+(cc) institutions of higher education; and
+
+(dd) health care facilities;
+
+(aa) the broadband map of the affected State if the map contains address-level data; or
+
+(bb) the National Broadband Map if address-level data is unavailable.
+
+“The amendment made by subsection (a) [amending this section] shall not apply to—
+
+In general
+
+Procedure
+
+Congressional review of agency rulemaking
+
+## Source Credit
+
+*(May 20, 1936, ch. 432, title VI, § 601, as added [Pub. L. 107–171, title VI, § 6103(a)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 415](https://www.govinfo.gov/link/statute/116/415); amended [Pub. L. 108–199, div. A, title VII, § 772](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 40](https://www.govinfo.gov/link/statute/118/40); [Pub. L. 110–234, title VI, § 6110(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1199](https://www.govinfo.gov/link/statute/122/1199); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VI, § 6110(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1960; [Pub. L. 113–79, title VI, § 6104(a)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 851](https://www.govinfo.gov/link/statute/128/851); [Pub. L. 115–334, title VI](https://www.govinfo.gov/link/plaw/115/public/334), §§ 6201, 6301(b), Dec. 20, 2018, [132 Stat. 4729](https://www.govinfo.gov/link/statute/132/4729), 4748.)*

@@ -3,9 +3,10 @@ title: "Section 2243 - Arctic deep draft port development partnerships"
 usc_title: 33
 usc_section: "2243"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2243"
-generated_at: "2026-03-30T02:55:41.116Z"
+generated_at: "2026-11-23T20:26:54.137Z"
+status: "active"
 ---
 
 # § 2243. Arctic deep draft port development partnerships
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:41.116Z"
   - **(1)** shall consult with the Secretary of the department in which the Coast Guard is operating to identify benefits in carrying out the missions specified in section 468 of title 6 associated with an Arctic deep draft port;
   - **(2)** shall consult with the Secretary of Defense to identify national security benefits associated with an Arctic deep draft port; and
   - **(3)** may consider such benefits in determining whether an Arctic deep draft port is feasible.
+
+## Source Credit
+
+*([Pub. L. 113–121, title II, § 2105](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1279](https://www.govinfo.gov/link/statute/128/1279); [Pub. L. 114–322, title I, § 1202(c)](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1684](https://www.govinfo.gov/link/statute/130/1684).)*

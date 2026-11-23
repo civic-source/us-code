@@ -3,9 +3,10 @@ title: "Section 6106 - Study of discrimination based on age"
 usc_title: 42
 usc_section: "6106"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6106"
-generated_at: "2026-03-30T02:56:11.241Z"
+generated_at: "2026-11-23T20:27:22.577Z"
+status: "active"
 ---
 
 # § 6106. Study of discrimination based on age
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.241Z"
 - **(e)** Not later than forty-five working days after receiving a copy of the report required by subsection (d), each Federal department or agency with respect to which the Commission makes findings or recommendations shall submit its comments and recommendations regarding such report to the President and to the Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor of the House of Representatives.
 - **(f)** The head of each Federal department or agency shall cooperate in all respects with the Commission with respect to the study required by subsection (a), and shall provide to the Commission such data, reports, and documents in connection with the subject matter of such study as the Commission may request.
 - **(g)** There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.
+
+## Source Credit
+
+*([Pub. L. 94–135, title III, § 307](https://www.govinfo.gov/link/plaw/94/public/135), Nov. 28, 1975, [89 Stat. 731](https://www.govinfo.gov/link/statute/89/731); S. Res. 4, Feb. 4, 1977; [Pub. L. 95–65, § 1](https://www.govinfo.gov/link/plaw/95/public/65), July 11, 1977, [91 Stat. 269](https://www.govinfo.gov/link/statute/91/269); S. Res. 30, Mar. 7, 1979.)*

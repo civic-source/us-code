@@ -3,9 +3,10 @@ title: "Section 3347 - Secrecy agreements used in intelligence activities"
 usc_title: 50
 usc_section: "3347"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3347"
-generated_at: "2026-03-30T02:56:26.246Z"
+generated_at: "2026-11-23T20:27:30.972Z"
+status: "active"
 ---
 
 # § 3347. Secrecy agreements used in intelligence activities
@@ -16,3 +17,7 @@ Notwithstanding any other provision of law not specifically referencing this sec
   - **(2)** provide that the form or agreement does not bar—
     - **(A)** disclosures to Congress; or
     - **(B)** disclosures to an authorized official of an executive agency that are deemed essential to reporting a violation of United States law.
+
+## Source Credit
+
+*([Pub. L. 104–93, title III, § 306](https://www.govinfo.gov/link/plaw/104/public/93), Jan. 6, 1996, [109 Stat. 966](https://www.govinfo.gov/link/statute/109/966).)*

@@ -3,9 +3,10 @@ title: "Section 1092d - Scholarship fraud assessment and awareness activities"
 usc_title: 20
 usc_section: "1092d"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1092d"
-generated_at: "2026-03-30T02:54:48.136Z"
+generated_at: "2026-11-23T20:26:14.522Z"
+status: "active"
 ---
 
 # § 1092d. Scholarship fraud assessment and awareness activities
@@ -21,3 +22,9 @@ generated_at: "2026-03-30T02:54:48.136Z"
   - **(5)** Internet links to other sources of information on scholarship fraud, including Internet web sites of appropriate nongovernmental organizations, colleges and universities, and government agencies.
   - **(6)** An Internet link to the Better Business Bureau in order to assist individuals in assessing the business practices of other persons and entities.
   - **(7)** Information on means of communicating with the Federal Student Aid Information Center, including telephone and Internet contact information.
+
+“Congress makes the following findings:
+
+## Source Credit
+
+*([Pub. L. 106–420, § 5](https://www.govinfo.gov/link/plaw/106/public/420), Nov. 1, 2000, [114 Stat. 1868](https://www.govinfo.gov/link/statute/114/1868).)*

@@ -3,9 +3,10 @@ title: "Section 6716 - Interagency consultation"
 usc_title: 15
 usc_section: "6716"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 6716"
-generated_at: "2026-03-30T02:54:08.213Z"
+generated_at: "2026-11-23T20:26:04.410Z"
+status: "active"
 ---
 
 # § 6716. Interagency consultation
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:08.213Z"
 - **(f)** For purposes of this section, the following definitions shall apply:
   - **(1)** The terms “appropriate Federal banking agency” and “depository institution” have the same meanings as in section 1813 of title 12 .
   - **(2)** The terms “Board” and “financial holding company” have the same meanings as in section 1841 of title 12 .
+
+## Source Credit
+
+*([Pub. L. 106–102, title III, § 307](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1415](https://www.govinfo.gov/link/statute/113/1415).)*

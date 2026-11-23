@@ -3,9 +3,10 @@ title: "Section 1825 - Issuance of notes, debentures, bonds, and other obligatio
 usc_title: 12
 usc_section: "1825"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1825"
-generated_at: "2026-03-30T02:53:53.454Z"
+generated_at: "2026-11-23T20:25:59.147Z"
+status: "active"
 ---
 
 # § 1825. Issuance of notes, debentures, bonds, and other obligations; exemptions
@@ -39,3 +40,13 @@ generated_at: "2026-03-30T02:53:53.454Z"
 - **(d)** The full faith and credit of the United States is pledged to the payment of any obligation issued after August 9, 1989 , by the Corporation, with respect to both principal and interest, if—
   - **(1)** the principal amount of such obligation is stated in the obligation; and
   - **(2)** the term to maturity or the date of maturity of such obligation is stated in the obligation.
+
+Exemption from criminal prosecution
+
+obligations, guarantees, and liabilities
+
+obligations liabilities
+
+## Source Credit
+
+*(Sept. 21, 1950, ch. 967, § 2 [15], [64 Stat. 890](https://www.govinfo.gov/link/statute/64/890); [Pub. L. 101–73, title II, § 219](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 261](https://www.govinfo.gov/link/statute/103/261); [Pub. L. 102–242, title I, § 102(a)](https://www.govinfo.gov/link/plaw/102/public/242), (c), Dec. 19, 1991, [105 Stat. 2236](https://www.govinfo.gov/link/statute/105/2236), 2237; [Pub. L. 103–325, title VI, § 602(a)(43)](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2290](https://www.govinfo.gov/link/statute/108/2290); [Pub. L. 104–208, div. A, title II, § 2704(d)(14)(R)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–493](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 109–171, title II, § 2102(b)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 9](https://www.govinfo.gov/link/statute/120/9); [Pub. L. 109–173, § 8(a)(25)](https://www.govinfo.gov/link/plaw/109/public/173), Feb. 15, 2006, [119 Stat. 3614](https://www.govinfo.gov/link/statute/119/3614); [Pub. L. 109–351, title VII, § 720(a)](https://www.govinfo.gov/link/plaw/109/public/351), Oct. 13, 2006, [120 Stat. 1998](https://www.govinfo.gov/link/statute/120/1998).)*

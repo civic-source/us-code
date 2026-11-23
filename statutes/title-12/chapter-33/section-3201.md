@@ -3,9 +3,10 @@ title: "Section 3201 - Definitions"
 usc_title: 12
 usc_section: "3201"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 3201"
-generated_at: "2026-03-30T02:53:53.492Z"
+generated_at: "2026-11-23T20:25:59.326Z"
+status: "active"
 ---
 
 # § 3201. Definitions
@@ -23,3 +24,7 @@ As used in this chapter—
   - **(4)** the term “management official” means an employee or officer with management functions, a director (including an advisory or honorary director, except in the case of a depository institution with total assets of less than $100,000,000), a trustee of a business organization under the control of trustees, or any person who has a representative or nominee serving in any such capacity: Provided , That if a corporator, trustee, director, or other officer of a State-chartered savings bank or cooperative bank is specifically authorized under the laws of the State in which said institution is located to serve as a trustee, director, or other officer of a State-chartered trust company which does not make real estate mortgage loans and does not accept savings deposits from natural persons, then, for the purposes of this chapter, such corporator, trustee, director, or other officer shall not be deemed to be a management official of such trust company: And provided further , That if a management official of a State-chartered trust company which does not make real estate mortgage loans and does not accept savings deposits from natural persons is specifically authorized under the laws of the State in which said institution is located to serve as a corporator, trustee, director, or other officer of a State-chartered savings bank or cooperative bank, then, for the purposes of this chapter, such management official shall not be deemed to be a management official of any such savings bank or cooperative bank;
   - **(5)** the term “office” used with reference to a depository institution means either a principal office or a branch; and
   - **(6)** the term “appropriate Federal depository institutions regulatory agency” means, with respect to any depository institution or depository holding company, the agency referred to in section 3207 of this title in connection with such institution or company.
+
+## Source Credit
+
+*([Pub. L. 95–630, title II, § 202](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3672](https://www.govinfo.gov/link/statute/92/3672); [Pub. L. 100–650](https://www.govinfo.gov/link/plaw/100/public/650), §§ 2, 3, 5(b)(1), Nov. 10, 1988, [102 Stat. 3819](https://www.govinfo.gov/link/statute/102/3819), 3820; [Pub. L. 103–325, title III, § 322(c)(2)](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2227](https://www.govinfo.gov/link/statute/108/2227).)*

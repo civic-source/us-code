@@ -3,9 +3,10 @@ title: "Section 138 - Medicare Advantage MSA"
 usc_title: 26
 usc_section: "138"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 138"
-generated_at: "2026-03-30T02:55:27.628Z"
+generated_at: "2026-11-23T20:26:45.370Z"
+status: "active"
 ---
 
 # § 138. Medicare Advantage MSA
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:55:27.628Z"
     - **(A)** not later than January 31 of the calendar year following the calendar year to which such reports relate, and
     - **(B)** in such manner as the Secretary prescribes in such regulations.
 - **(f)** Subsection (i) of section 220 shall not apply to an individual with respect to a Medicare Advantage MSA, and Medicare Advantage MSAs shall not be taken into account in determining whether the numerical limitations under section 220(j) are exceeded.
+
+## Source Credit
+
+*(Added [Pub. L. 105–33, title IV, § 4006(a)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 332](https://www.govinfo.gov/link/statute/111/332); amended [Pub. L. 106–554, § 1(a)(7) [title II, § 202(a)(3), (b)(6), (10)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–628, 2763A–629; [Pub. L. 108–311, title IV, § 408(a)(5)(A)](https://www.govinfo.gov/link/plaw/108/public/311) –(F), Oct. 4, 2004, [118 Stat. 1191](https://www.govinfo.gov/link/statute/118/1191).)*

@@ -3,9 +3,10 @@ title: "Section 601 - Omitted"
 usc_title: 25
 usc_section: "601"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 601"
-generated_at: "2026-03-30T02:54:52.810Z"
+generated_at: "2026-11-23T20:26:25.423Z"
+status: "omitted"
 ---
 
 # § 601. Omitted

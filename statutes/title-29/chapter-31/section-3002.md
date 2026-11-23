@@ -3,9 +3,10 @@ title: "Section 3002 - Definitions"
 usc_title: 29
 usc_section: "3002"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3002"
-generated_at: "2026-03-30T02:55:18.746Z"
+generated_at: "2026-11-23T20:26:38.076Z"
+status: "active"
 ---
 
 # § 3002. Definitions
@@ -76,3 +77,7 @@ In this chapter:
     - **(J)** other appropriate individuals and entities, including public and private entities involved in housing and transportation, as determined for a State by the State.
   - **(17)** The term “underrepresented population” means a population that is typically underrepresented in service provision, and includes populations such as individuals who have low-incidence disabilities, racial and ethnic minorities, low income individuals, homeless individuals (including children and youth), children in foster care, individuals with limited English proficiency, individuals living in institutions seeking to transition to the community from institutional settings, youth with disabilities aging into adulthood, older individuals, or individuals living in rural areas.
   - **(18)** The term “universal design” means a concept or philosophy for designing and delivering products and services that are usable by people with the widest possible range of functional capabilities, which include products and services that are directly accessible (without requiring assistive technologies) and products and services that are interoperable with assistive technologies.
+
+## Source Credit
+
+*([Pub. L. 105–394, § 3](https://www.govinfo.gov/link/plaw/105/public/394), Nov. 13, 1998, [112 Stat. 3631](https://www.govinfo.gov/link/statute/112/3631); [Pub. L. 106–402, title IV, § 401(b)(4)(A)](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1738](https://www.govinfo.gov/link/statute/114/1738); [Pub. L. 108–364, § 2](https://www.govinfo.gov/link/plaw/108/public/364), Oct. 25, 2004, [118 Stat. 1709](https://www.govinfo.gov/link/statute/118/1709); [Pub. L. 110–315, title IX, § 941(k)(2)(K)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3467](https://www.govinfo.gov/link/statute/122/3467); [Pub. L. 113–128, title IV, § 491](https://www.govinfo.gov/link/plaw/113/public/128) (o)(1), title V, § 512(b)(1), July 22, 2014, [128 Stat. 1698](https://www.govinfo.gov/link/statute/128/1698), 1705; [Pub. L. 117–263, div. E, title LIV, § 5402](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3261](https://www.govinfo.gov/link/statute/136/3261).)*

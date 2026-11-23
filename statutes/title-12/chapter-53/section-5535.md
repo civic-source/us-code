@@ -3,9 +3,10 @@ title: "Section 5535 - Private Education Loan Ombudsman"
 usc_title: 12
 usc_section: "5535"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5535"
-generated_at: "2026-03-30T02:53:53.545Z"
+generated_at: "2026-11-23T20:25:59.521Z"
+status: "active"
 ---
 
 # § 5535. Private Education Loan Ombudsman
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:53.545Z"
   - **(1)** The Ombudsman shall prepare an annual report that describes the activities, and evaluates the effectiveness of the Ombudsman during the preceding year.
   - **(2)** The report required by paragraph (1) shall be submitted on the same date annually to the Secretary, the Secretary of Education, the Committee on Banking, Housing, and Urban Affairs and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Financial Services and the Committee on Education and Labor of the House of Representatives.
 - **(e)** For purposes of this section, the terms “private education loan” and “institution of higher education” have the same meanings as in section 1650 of title 15 .
+
+## Source Credit
+
+*([Pub. L. 111–203, title X, § 1035](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2009](https://www.govinfo.gov/link/statute/124/2009).)*

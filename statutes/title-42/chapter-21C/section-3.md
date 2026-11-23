@@ -3,9 +3,10 @@ title: "Section 3 - Rules of construction"
 usc_title: 42
 usc_section: "3"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-30T02:56:11.141Z"
+generated_at: "2026-11-23T20:27:22.028Z"
+status: "active"
 ---
 
 # § 2000cc–3. Rules of construction
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.141Z"
 - **(g)** This chapter shall be construed in favor of a broad protection of religious exercise, to the maximum extent permitted by the terms of this chapter and the Constitution.
 - **(h)** Nothing in this chapter shall be construed to preempt State law, or repeal Federal law, that is equally as protective of religious exercise as, or more protective of religious exercise than, this chapter.
 - **(i)** If any provision of this chapter or of an amendment made by this chapter, or any application of such provision to any person or circumstance, is held to be unconstitutional, the remainder of this chapter, the amendments made by this chapter, and the application of the provision to any other person or circumstance shall not be affected.
+
+## Source Credit
+
+*([Pub. L. 106–274, § 5](https://www.govinfo.gov/link/plaw/106/public/274), Sept. 22, 2000, [114 Stat. 805](https://www.govinfo.gov/link/statute/114/805).)*

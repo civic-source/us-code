@@ -3,9 +3,10 @@ title: "Section 2154 - Prerequisites for offers"
 usc_title: 19
 usc_section: "2154"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2154"
-generated_at: "2026-03-30T02:54:24.665Z"
+generated_at: "2026-11-23T20:26:10.912Z"
+status: "active"
 ---
 
 # § 2154. Prerequisites for offers
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:24.665Z"
   - **(1)** the Commission;
   - **(2)** any advisory committee established under section 2155 of this title ; or
   - **(3)** any organization that holds public hearings under section 2153 of this title ;
+
+## Source Credit
+
+*([Pub. L. 93–618, title I, § 134](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 1995](https://www.govinfo.gov/link/statute/88/1995); [Pub. L. 100–418, title I, § 1111(a)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1137](https://www.govinfo.gov/link/statute/102/1137); [Pub. L. 107–210, div. B, title XXI, § 2110(a)(3)](https://www.govinfo.gov/link/plaw/107/public/210), (4), Aug. 6, 2002, [116 Stat. 1020](https://www.govinfo.gov/link/statute/116/1020); [Pub. L. 114–26, title I, § 110(a)(4)](https://www.govinfo.gov/link/plaw/114/public/26), June 29, 2015, [129 Stat. 357](https://www.govinfo.gov/link/statute/129/357).)*

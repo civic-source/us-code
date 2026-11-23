@@ -3,9 +3,10 @@ title: "Section 2543 - Representation of United States interests before internat
 usc_title: 19
 usc_section: "2543"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2543"
-generated_at: "2026-03-30T02:54:24.679Z"
+generated_at: "2026-11-23T20:26:10.993Z"
+status: "active"
 ---
 
 # § 2543. Representation of United States interests before international standards organizations
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:24.679Z"
   - **(1)** encourage cooperation among interested Federal agencies with a view toward facilitating the development of a uniform position with respect to the technical activities with which the organization is concerned;
   - **(2)** encourage such Federal agencies to seek information from, and to cooperate with, the affected domestic interests when undertaking such representation; and
   - **(3)** not preempt the responsibilities of any Federal agency that has jurisdiction with respect to the activities undertaken by such organization, unless requested to do so by such agency.
+
+## Source Credit
+
+*([Pub. L. 96–39, title IV, § 413](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 244](https://www.govinfo.gov/link/statute/93/244); [Pub. L. 103–182, title III, § 351(b)(2)(A)](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2122](https://www.govinfo.gov/link/statute/107/2122); [Pub. L. 104–295, § 21(b)(1)](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3529](https://www.govinfo.gov/link/statute/110/3529).)*

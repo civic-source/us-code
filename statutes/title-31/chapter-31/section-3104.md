@@ -3,9 +3,10 @@ title: "Section 3104 - Certificates of indebtedness and Treasury bills"
 usc_title: 31
 usc_section: "3104"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 3104"
-generated_at: "2026-03-30T02:55:34.054Z"
+generated_at: "2026-11-23T20:26:51.747Z"
+status: "active"
 ---
 
 # § 3104. Certificates of indebtedness and Treasury bills
@@ -15,3 +16,42 @@ generated_at: "2026-03-30T02:55:34.054Z"
   - **(2)** Treasury bills of the Government.
 - **(b)** The Secretary may prescribe conditions for issuing certificates of indebtedness and Treasury bills under section 3121 of this title and conditions under which the certificates and bills may be redeemed before maturity. Notwithstanding section 3121(a)(5) of this title , the payment date of certificates of indebtedness and Treasury bills may not be more than one year after the date of issue.
 - **(c)** Treasury bills issued under this section may not be accepted before maturity to pay principal or interest on obligations of governments of foreign countries that are held by the United States Government.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3104(a) | 31:754(a)(1st, 2d sentences). | Sept. 24, 1917, ch. 56, § 5(a) (less form of certificates of indebtedness and Treasury bills, finality), 40 Stat. 290 ; Apr. 4, 1918, ch. 44, § 4 , 40 Stat. 504 ; Mar. 3, 1919, ch. 100, § 3 , 40 Stat. 1311 ; restated June 17, 1929, ch. 26 , 46 Stat. 19 ; Feb. 4, 1935, ch. 5 , §§ 2, 3, 49 Stat. 20 . |
+| 3104(b) | 31:754(a)(3d sentence)(less form of certificates of indebtedness and Treasury bills, finality). |  |
+| 3104(c) | 31:754(a)(last sentence). |  |
+
+
+Historical and Revision Notes
+
+3104(a)
+
+Sept. 24, 1917, ch. 56, § 5(a)
+
+40 Stat. 290
+
+Apr. 4, 1918, ch. 44, § 4
+
+40 Stat. 504
+
+Mar. 3, 1919, ch. 100, § 3
+
+40 Stat. 1311
+
+June 17, 1929, ch. 26
+
+46 Stat. 19
+
+Feb. 4, 1935, ch. 5
+
+49 Stat. 20
+
+3104(b)
+
+3104(c)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 939](https://www.govinfo.gov/link/statute/96/939).)*

@@ -3,9 +3,10 @@ title: "Section 4314 - Reemployment by the Federal Government"
 usc_title: 38
 usc_section: "4314"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 4314"
-generated_at: "2026-03-30T02:55:53.518Z"
+generated_at: "2026-11-23T20:27:01.936Z"
+status: "active"
 ---
 
 # § 4314. Reemployment by the Federal Government
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:53.518Z"
     - **(B)** it is impossible or unreasonable for the agency to reemploy the person.
 - **(c)** If the employer of a person described in subsection (a) was, at the time such person entered the service from which such person seeks reemployment under this section, a part of the judicial branch or the legislative branch of the Federal Government, and such employer determines that it is impossible or unreasonable for such employer to reemploy such person, such person shall, upon application to the Director of the Office of Personnel Management, be ensured an offer of employment in an alternative position in a Federal executive agency on the basis described in subsection (b).
 - **(d)** If the adjutant general of a State determines that it is impossible or unreasonable to reemploy a person who was a National Guard technician employed under section 709 of title 32 , such person shall, upon application to the Director of the Office of Personnel Management, be ensured an offer of employment in an alternative position in a Federal executive agency on the basis described in subsection (b).
+
+## Source Credit
+
+*(Added [Pub. L. 103–353, § 2(a)](https://www.govinfo.gov/link/plaw/103/public/353), Oct. 13, 1994, [108 Stat. 3158](https://www.govinfo.gov/link/statute/108/3158).)*

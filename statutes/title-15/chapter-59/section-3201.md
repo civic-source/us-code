@@ -3,9 +3,10 @@ title: "Section 3201 - Purposes; coverage"
 usc_title: 15
 usc_section: "3201"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 3201"
-generated_at: "2026-03-30T02:54:08.187Z"
+generated_at: "2026-11-23T20:26:04.275Z"
+status: "active"
 ---
 
 # § 3201. Purposes; coverage
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.187Z"
 - **(b)** This chapter applies to each gas utility in any calendar year, and to each proceeding relating to each gas utility in such year, if the total sales of natural gas by such utility for purposes other than resale exceeded 10 billion cubic feet during any calendar year beginning after December 31, 1975 , and before the immediately preceding calendar year.
 - **(c)** The requirements of this chapter do not apply to the operations of a gas utility, or to proceedings respecting such operations, to the extent that such operations or proceedings relate to sales of natural gas for purposes of resale.
 - **(d)** Before the beginning of each calendar year, the Secretary shall publish a list identifying each gas utility to which this chapter applies during such calendar year. Promptly after publication of such list, each State regulatory authority shall notify the Secretary of each gas utility on the list for which such State regulatory authority has ratemaking authority.
+
+## Source Credit
+
+*([Pub. L. 95–617, title III, § 301](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3149](https://www.govinfo.gov/link/statute/92/3149).)*

@@ -3,9 +3,10 @@ title: "Section 8 - Employee protections"
 usc_title: 42
 usc_section: "8"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-03-30T02:56:11.162Z"
+generated_at: "2026-11-23T20:27:22.138Z"
+status: "active"
 ---
 
 # § 2297h–8. Employee protections
@@ -51,3 +52,9 @@ generated_at: "2026-03-30T02:56:11.162Z"
     - **(A)** such employee deductions and agency contributions as are required by section 8906(a)–(f) of title 5 for those employees who elect to retain their coverage under FEHBP pursuant to paragraph (4); and
     - **(B)** such amounts as are determined necessary by the Office of Personnel Management under paragraph (6) to reimburse the Office of Personnel Management for contributions under section 8906(g)(1) of title 5 for those employees who elect to retain their coverage under FEHBP pursuant to paragraph (4).
   - **(6)** The amounts required under paragraph (5)(B) shall pay the Government contributions for retired employees who retire from the Corporation after the privatization date under either CSRS or FERS, for survivors of such retired employees, and for survivors of employees of the Corporation who die after the privatization date, with said amounts prorated to reflect only that portion of the total service of such employees and retired persons that was performed for the Corporation after the privatization date.
+
+Continuity of benefits
+
+## Source Credit
+
+*([Pub. L. 104–134, title III, § 3110](https://www.govinfo.gov/link/plaw/104/public/134), Apr. 26, 1996, [110 Stat. 1321–340](https://www.govinfo.gov/link/statute/110/1321); [Pub. L. 104–206, title III](https://www.govinfo.gov/link/plaw/104/public/206), Sept. 30, 1996, [110 Stat. 2995](https://www.govinfo.gov/link/statute/110/2995); [Pub. L. 109–58, title VI, § 633](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 790](https://www.govinfo.gov/link/statute/119/790).)*

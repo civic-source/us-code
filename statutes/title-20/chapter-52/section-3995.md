@@ -3,9 +3,10 @@ title: "Section 3995 - Local applications"
 usc_title: 20
 usc_section: "3995"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 3995"
-generated_at: "2026-03-30T02:54:48.181Z"
+generated_at: "2026-11-23T20:26:14.750Z"
+status: "active"
 ---
 
 # § 3995. Local applications
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:48.181Z"
   - **(1)** substantial need exists in the area served by the applicant for a grant under this part; and
   - **(2)** the required amount of matching funds cannot be made available.
 - **(d)** A regional consortium of applicants in 2 or more local school districts may file a joint application under subsection (a).
+
+## Source Credit
+
+*([Pub. L. 98–377, title III, § 325](https://www.govinfo.gov/link/plaw/98/public/377), as added [Pub. L. 100–418, title VI, § 6031(a)(2)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1481](https://www.govinfo.gov/link/statute/102/1481).)*

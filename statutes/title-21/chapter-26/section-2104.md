@@ -3,9 +3,10 @@ title: "Section 2104 - State and Federal cooperation"
 usc_title: 21
 usc_section: "2104"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 2104"
-generated_at: "2026-03-30T02:54:54.308Z"
+generated_at: "2026-11-23T20:26:27.902Z"
+status: "active"
 ---
 
 # § 2104. State and Federal cooperation
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:54.308Z"
   - **(2)** technical assistance, training, and laboratory assistance (including necessary materials and equipment); and
   - **(3)** financial and other assistance.
 - **(c)** The Secretary may, under an agreement entered into with a Federal, State, or local agency, use, on a reimbursable basis or otherwise, the personnel, services, and facilities of the agency to carry out the responsibilities of the agency under this section. An agreement entered into with a State agency under this subsection may provide for training of State employees.
+
+## Source Credit
+
+*([Pub. L. 110–85, title X, § 1004](https://www.govinfo.gov/link/plaw/110/public/85), Sept. 27, 2007, [121 Stat. 964](https://www.govinfo.gov/link/statute/121/964).)*

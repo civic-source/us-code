@@ -3,9 +3,10 @@ title: "Section 3177 - Use of photovoltaic energy in public buildings"
 usc_title: 40
 usc_section: "3177"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 3177"
-generated_at: "2026-03-30T02:55:43.379Z"
+generated_at: "2026-11-23T20:26:56.587Z"
+status: "active"
 ---
 
 # § 3177. Use of photovoltaic energy in public buildings
@@ -31,3 +32,33 @@ generated_at: "2026-03-30T02:55:43.379Z"
 - **(c)**
   - **(1)** There are authorized to be appropriated to carry out subsection (a) $50,000,000 for each of fiscal years 2006 through 2010. Such sums shall remain available until expended.
   - **(2)** There are authorized to be appropriated to carry out subsection (b) $10,000,000 for each of fiscal years 2006 through 2010. Such sums shall remain available until expended.
+
+Photovoltaic Energy Commercialization Program.—
+
+In general
+
+Purposes
+
+Acquisition of photovoltaic solar electric systems.—
+
+In general
+
+Acquisition levels
+
+Administration
+
+Photovoltaic Systems Evaluation Program.—
+
+In general
+
+Program requirement
+
+Authorization of Appropriations.—
+
+Photovoltaic energy commercialization program
+
+Photovoltaic systems evaluation program
+
+## Source Credit
+
+*(Added [Pub. L. 109–58, title II, § 204(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 653](https://www.govinfo.gov/link/statute/119/653).)*

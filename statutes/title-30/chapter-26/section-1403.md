@@ -3,9 +3,10 @@ title: "Section 1403 - Definitions"
 usc_title: 30
 usc_section: "1403"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1403"
-generated_at: "2026-03-30T02:55:29.404Z"
+generated_at: "2026-11-23T20:26:35.040Z"
+status: "active"
 ---
 
 # § 1403. Definitions
@@ -40,3 +41,7 @@ For purposes of this chapter, the term—
     - **(A)** any individual who is a citizen of the United States;
     - **(B)** any corporation, partnership, joint venture, association, or other entity organized or existing under the laws of any of the United States; and
     - **(C)** any corporation, partnership, joint venture, association, or other entity (whether organized or existing under the laws of any of the United States or a foreign nation) if the controlling interest in such entity is held by an individual or entity described in subparagraph (A) or (B).
+
+## Source Credit
+
+*([Pub. L. 96–283, § 4](https://www.govinfo.gov/link/plaw/96/public/283), June 28, 1980, [94 Stat. 555](https://www.govinfo.gov/link/statute/94/555).)*

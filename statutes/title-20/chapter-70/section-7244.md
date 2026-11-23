@@ -3,9 +3,10 @@ title: "Section 7244 - Uses of funds"
 usc_title: 20
 usc_section: "7244"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 7244"
-generated_at: "2026-03-30T02:54:48.208Z"
+generated_at: "2026-11-23T20:26:14.894Z"
+status: "active"
 ---
 
 # § 7244. Uses of funds
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:48.208Z"
 - **(c)** Notwithstanding any other provision of this section—
   - **(1)** no person (including a parent who educates a child at home, a public school parent, or a private school parent) shall be required to participate in any program of parent education or developmental screening under this section; and
   - **(2)** no program or center assisted under this section shall take any action that infringes in any manner on the right of parents to direct the education of their children.
+
+## Source Credit
+
+*([Pub. L. 89–10, title IV, § 4504](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title IV, § 4501](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2019](https://www.govinfo.gov/link/statute/129/2019).)*

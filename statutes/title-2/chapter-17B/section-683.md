@@ -3,9 +3,10 @@ title: "Section 683 - Rescission of budget authority"
 usc_title: 2
 usc_section: "683"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 683"
-generated_at: "2026-03-30T02:53:04.802Z"
+generated_at: "2026-11-23T20:25:28.917Z"
+status: "active"
 ---
 
 # § 683. Rescission of budget authority
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:04.802Z"
   - **(4)** to the maximum extent practicable, the estimated fiscal, economic, and budgetary effect of the proposed rescission or of the reservation; and
   - **(5)** all facts, circumstances, and considerations relating to or bearing upon the proposed rescission or the reservation and the decision to effect the proposed rescission or the reservation, and to the maximum extent practicable, the estimated effect of the proposed rescission or the reservation upon the objects, purposes, and programs for which the budget authority is provided.
 - **(b)** Any amount of budget authority proposed to be rescinded or that is to be reserved as set forth in such special message shall be made available for obligation unless, within the prescribed 45-day period, the Congress has completed action on a rescission bill rescinding all or part of the amount proposed to be rescinded or that is to be reserved. Funds made available for obligation under this procedure may not be proposed for rescission again.
+
+## Source Credit
+
+*([Pub. L. 93–344, title X, § 1012](https://www.govinfo.gov/link/plaw/93/public/344), July 12, 1974, [88 Stat. 333](https://www.govinfo.gov/link/statute/88/333); [Pub. L. 100–119, title II, § 207](https://www.govinfo.gov/link/plaw/100/public/119), Sept. 29, 1987, [101 Stat. 786](https://www.govinfo.gov/link/statute/101/786).)*

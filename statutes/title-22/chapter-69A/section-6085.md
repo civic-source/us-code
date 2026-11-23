@@ -3,9 +3,10 @@ title: "Section 6085 - Effective date"
 usc_title: 22
 usc_section: "6085"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6085"
-generated_at: "2026-03-30T02:55:05.424Z"
+generated_at: "2026-11-23T20:26:32.594Z"
+status: "active"
 ---
 
 # § 6085. Effective date
@@ -21,3 +22,9 @@ generated_at: "2026-03-30T02:55:05.424Z"
   - **(2)** The President may suspend the right to bring an action under this subchapter for additional periods of not more than 6 months each, each of which shall begin on the day after the last day of the period during which a suspension is in effect under this subsection, if the President determines and reports in writing to the appropriate congressional committees at least 15 days before the date on which the additional suspension is to begin that the suspension is necessary to the national interests of the United States and will expedite a transition to democracy in Cuba.
   - **(3)** The suspensions of actions under paragraph (1) shall not affect suits commenced before the date of such suspension, and in all such suits, proceedings shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if the suspension had not occurred.
 - **(d)** The President may rescind any suspension made under subsection (b) or (c) upon reporting to the appropriate congressional committees that doing so will expedite a transition to democracy in Cuba.
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 104–114, title III, § 306](https://www.govinfo.gov/link/plaw/104/public/114), Mar. 12, 1996, [110 Stat. 821](https://www.govinfo.gov/link/statute/110/821).)*

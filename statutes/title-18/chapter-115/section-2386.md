@@ -3,9 +3,10 @@ title: "Section 2386 - Registration of certain organizations"
 usc_title: 18
 usc_section: "2386"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2386"
-generated_at: "2026-03-30T02:54:16.505Z"
+generated_at: "2026-11-23T20:26:08.612Z"
+status: "active"
 ---
 
 # § 2386. Registration of certain organizations
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:54:16.505Z"
     - **(C)** The Attorney General is authorized at any time to make, amend, and rescind such rules and regulations as may be necessary to carry out this section, including rules and regulations governing the statements required to be filed.
     - **(D)** Whoever violates any of the provisions of this section shall be fined under this title or imprisoned not more than five years, or both. Whoever in a statement filed pursuant to this section willfully makes any false statement or willfully omits to state any fact which is required to be stated, or which is necessary to make the statements made not misleading, shall be fined under this title or imprisoned not more than five years, or both.
 
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 808](https://www.govinfo.gov/link/statute/62/808); [Pub. L. 103–322, title XXXIII, § 330016(1)(I)](https://www.govinfo.gov/link/plaw/103/public/322), (L), Sept. 13, 1994, [108 Stat. 2147](https://www.govinfo.gov/link/statute/108/2147).)*

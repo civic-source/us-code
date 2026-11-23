@@ -3,12 +3,17 @@ title: "Section 501 - Postage stamps, postage meter stamps, and postal cards"
 usc_title: 18
 usc_section: "501"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 501"
-generated_at: "2026-03-30T02:54:16.463Z"
+generated_at: "2026-11-23T20:26:08.371Z"
+status: "active"
 ---
 
 # § 501. Postage stamps, postage meter stamps, and postal cards
 
 Whoever forges or counterfeits any postage stamp, postage meter stamp, or any stamp printed upon any stamped envelope, or postal card, or any die, plate, or engraving thereof; or Whoever makes or prints, or knowingly uses or sells, or possesses with intent to use or sell, any such forged or counterfeited postage stamp, postage meter stamp, stamped envelope, postal card, die, plate, or engraving; or Whoever makes, or knowingly uses or sells, or possesses with intent to use or sell, any paper bearing the watermark of any stamped envelope, or postal card, or any fraudulent imitation thereof; or Whoever makes or prints, or authorizes to be made or printed, any postage stamp, postage meter stamp, stamped envelope, or postal card, of the kind authorized and provided by the Post Office Department or by the Postal Service, without the special authority and direction of the Department or Postal Service; or Whoever after such postage stamp, postage meter stamp, stamped envelope, or postal card has been printed, with intent to defraud, delivers the same to any person not authorized by an instrument in writing, duly executed under the hand of the Postmaster General and the seal of the Post Office Department or the Postal Service, to receive it— Shall be fined under this title or imprisoned not more than five years, or both.
 
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 713](https://www.govinfo.gov/link/statute/62/713); [Pub. L. 91–375, § 6(j)(6)](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 777](https://www.govinfo.gov/link/statute/84/777); [Pub. L. 91–448, § 1(a)](https://www.govinfo.gov/link/plaw/91/public/448), Oct. 14, 1970, [84 Stat. 920](https://www.govinfo.gov/link/statute/84/920); [Pub. L. 103–322, title XXXIII, § 330016(1)(G)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2147](https://www.govinfo.gov/link/statute/108/2147).)*

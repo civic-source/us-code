@@ -3,9 +3,10 @@ title: "Section 2114a - Negotiating objectives with respect to trade in services
 usc_title: 19
 usc_section: "2114a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2114a"
-generated_at: "2026-03-30T02:54:24.664Z"
+generated_at: "2026-11-23T20:26:10.906Z"
+status: "active"
 ---
 
 # § 2114a. Negotiating objectives with respect to trade in services, foreign direct investment, and high technology products
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:54:24.664Z"
   - **(2)** restrictions on the operation of enterprises in foreign markets, including—
     - **(A)** direct or indirect restrictions on the transfer of information into, or out of, the country or instrumentality concerned, and
     - **(B)** restrictions on the use of data processing facilities within or outside of such country or instrumentality.
+
+## Source Credit
+
+*([Pub. L. 93–618, title I, § 104A](https://www.govinfo.gov/link/plaw/93/public/618), as added [Pub. L. 98–573, title III, § 305(a)(1)](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 3006](https://www.govinfo.gov/link/statute/98/3006).)*

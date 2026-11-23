@@ -3,9 +3,10 @@ title: "Section 9917 - Accountability and reporting requirements"
 usc_title: 42
 usc_section: "9917"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9917"
-generated_at: "2026-03-30T02:56:11.377Z"
+generated_at: "2026-11-23T20:27:23.196Z"
+status: "active"
 ---
 
 # § 9917. Accountability and reporting requirements
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.377Z"
     - **(F)** any additional information that the Secretary considers to be appropriate to carry out this chapter, if the Secretary informs the States of the need for such additional information and allows a reasonable period of time for the States to collect and provide the information.
   - **(3)** The Secretary shall submit to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate the report described in paragraph (2), and any comments the Secretary may have with respect to such report. The report shall include definitions of direct and administrative costs used by the Department of Health and Human Services for programs funded under this chapter.
   - **(4)** Of the funds reserved under section 9903(b)(3) of this title , not more than $350,000 shall be available to carry out the reporting requirements contained in paragraph (2).
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 678E](https://www.govinfo.gov/link/plaw/97/public/35), as added [Pub. L. 105–285, title II, § 201](https://www.govinfo.gov/link/plaw/105/public/285), Oct. 27, 1998, [112 Stat. 2746](https://www.govinfo.gov/link/statute/112/2746).)*

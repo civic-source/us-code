@@ -3,9 +3,10 @@ title: "Section 1408 - Paperwork reduction"
 usc_title: 20
 usc_section: "1408"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1408"
-generated_at: "2026-03-30T02:54:48.159Z"
+generated_at: "2026-11-23T20:26:14.631Z"
+status: "active"
 ---
 
 # § 1408. Paperwork reduction
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:48.159Z"
   - **(3)** improving positive outcomes for children with disabilities;
   - **(4)** promoting collaboration between IEP Team members; and
   - **(5)** ensuring satisfaction of family members.
+
+## Source Credit
+
+*([Pub. L. 91–230, title VI, § 609](https://www.govinfo.gov/link/plaw/91/public/230), as added [Pub. L. 108–446, title I, § 101](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2661](https://www.govinfo.gov/link/statute/118/2661).)*

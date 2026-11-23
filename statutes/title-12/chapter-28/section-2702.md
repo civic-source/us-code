@@ -3,9 +3,10 @@ title: "Section 2702 - Mortgages eligible for assistance"
 usc_title: 12
 usc_section: "2702"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 2702"
-generated_at: "2026-03-30T02:53:53.487Z"
+generated_at: "2026-11-23T20:25:59.305Z"
+status: "active"
 ---
 
 # § 2702. Mortgages eligible for assistance
@@ -18,3 +19,7 @@ No assistance shall be extended with respect to any mortgage under this chapter 
   - **(4)** the mortgagor has incurred a substantial reduction in income as a result of involuntary unemployment or underemployment due to adverse economic conditions or medical conditions and is financially unable to make full mortgage payments;
   - **(5)** there is a reasonable prospect that the mortgagor will be able to make the adjustments necessary for a full resumption of mortgage payments; and
   - **(6)** the mortgaged property is the principal residence of the mortgagor.
+
+## Source Credit
+
+*([Pub. L. 94–50, title I, § 103](https://www.govinfo.gov/link/plaw/94/public/50), July 2, 1975, [89 Stat. 249](https://www.govinfo.gov/link/statute/89/249); [Pub. L. 111–203, title XIV, § 1496(b)(1)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2207](https://www.govinfo.gov/link/statute/124/2207).)*

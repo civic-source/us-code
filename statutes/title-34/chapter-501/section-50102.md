@@ -3,9 +3,10 @@ title: "Section 50102 - Definitions"
 usc_title: 34
 usc_section: "50102"
 chapter: 501
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 50102"
-generated_at: "2026-03-30T02:55:33.314Z"
+generated_at: "2026-11-23T20:26:50.661Z"
+status: "active"
 ---
 
 # § 50102. Definitions
@@ -32,3 +33,7 @@ For purposes of this chapter—
     - **(A)** the perceived need for planning or other activities related to crowd control for general public safety projects, or
     - **(B)** a situation requiring the enforcement of laws associated with scheduled public events, including political conventions and sports events, and
   - **(4)** the term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Trust Territory of the Pacific Islands, or the Commonwealth of the Northern Mariana Islands.
+
+## Source Credit
+
+*([Pub. L. 98–473, title II, § 609N](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2104](https://www.govinfo.gov/link/statute/98/2104); [Pub. L. 107–296, title XI, § 1112](https://www.govinfo.gov/link/plaw/107/public/296) (o), Nov. 25, 2002, [116 Stat. 2278](https://www.govinfo.gov/link/statute/116/2278); [Pub. L. 109–177, title V, § 506(a)(11)](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 248](https://www.govinfo.gov/link/statute/120/248).)*

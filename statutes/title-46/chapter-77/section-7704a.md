@@ -3,9 +3,10 @@ title: "Section 7704a - Sexual harassment or sexual assault as grounds for suspe
 usc_title: 46
 usc_section: "7704a"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 7704a"
-generated_at: "2026-03-30T02:56:15.551Z"
+generated_at: "2026-11-23T20:27:27.122Z"
+status: "active"
 ---
 
 # § 7704a. Sexual harassment or sexual assault as grounds for suspension or revocation
@@ -19,3 +20,21 @@ generated_at: "2026-03-30T02:56:15.551Z"
   - **(2)**
     - **(A)** A determination under paragraph (1)(B) shall be reviewed and affirmed by an administrative law judge within the same proceeding as any suspension or revocation of a license, certificate of registry, or merchant mariner’s document under subsection (a) or (b).
     - **(B)** A determination under paragraph (1)(A) that an individual committed sexual harassment or sexual assault is conclusive in suspension and revocation proceedings.
+
+Sexual Harassment
+
+Sexual Assault
+
+Official Finding.—
+
+In general
+
+Administrative law judge review.—
+
+Coast guard investigation
+
+Legal proceeding
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. K, title CXVI, § 11603(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4147](https://www.govinfo.gov/link/statute/136/4147).)*

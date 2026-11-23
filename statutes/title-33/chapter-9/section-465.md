@@ -3,12 +3,17 @@ title: "Section 465 - Authority to dredge; riparian rights of United States"
 usc_title: 33
 usc_section: "465"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 465"
-generated_at: "2026-03-30T02:55:41.057Z"
+generated_at: "2026-11-23T20:26:53.824Z"
+status: "active"
 ---
 
 # § 465. Authority to dredge; riparian rights of United States
 
 Subject to the provisions of section 403 of this title authority is granted to dredge, without cost to the United States, in the navigable waters of the United States included within the State of Maryland and outside the limits of projects for improvement of navigation facilities approved by Congress, regardless of rights accruing to the United States as riparian owner under the laws of the State of Maryland: Provided , That in the opinion of the Chief of Engineers such dredging will improve facilities for navigation.
 
+
+## Source Credit
+
+*(July 3, 1930, ch. 847, § 12, [46 Stat. 949](https://www.govinfo.gov/link/statute/46/949).)*

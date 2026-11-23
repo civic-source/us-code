@@ -3,9 +3,10 @@ title: "Section 3123 - Issuance of an order for a pen register or a trap and tra
 usc_title: 18
 usc_section: "3123"
 chapter: 206
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 3123"
-generated_at: "2026-03-30T02:54:16.511Z"
+generated_at: "2026-11-23T20:26:08.656Z"
+status: "active"
 ---
 
 # § 3123. Issuance of an order for a pen register or a trap and trace device
@@ -33,3 +34,19 @@ generated_at: "2026-03-30T02:54:16.511Z"
 - **(d)** An order authorizing or approving the installation and use of a pen register or a trap and trace device shall direct that—
   - **(1)** the order be sealed until otherwise ordered by the court; and
   - **(2)** the person owning or leasing the line or other facility to which the pen register or a trap and trace device is attached or applied, or who is obligated by the order to provide assistance to the applicant, not disclose the existence of the pen register or trap and trace device or the existence of the investigation to the listed subscriber, or to any other person, unless or until otherwise ordered by the court.
+
+In General.—
+
+Attorney for the government
+
+State investigative or law enforcement officer
+
+Contents of Order
+
+Time Period and Extensions
+
+Nondisclosure of Existence of Pen Register or a Trap and Trace Device
+
+## Source Credit
+
+*(Added [Pub. L. 99–508, title III, § 301(a)](https://www.govinfo.gov/link/plaw/99/public/508), Oct. 21, 1986, [100 Stat. 1869](https://www.govinfo.gov/link/statute/100/1869); amended [Pub. L. 107–56, title II, § 216(b)](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 288](https://www.govinfo.gov/link/statute/115/288).)*

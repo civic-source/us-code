@@ -3,9 +3,10 @@ title: "Section 6924 - Food Loss and Waste Reduction Liaison"
 usc_title: 7
 usc_section: "6924"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6924"
-generated_at: "2026-03-30T02:53:42.439Z"
+generated_at: "2026-11-23T20:25:41.735Z"
+status: "active"
 ---
 
 # § 6924. Food Loss and Waste Reduction Liaison
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:53:42.439Z"
   - **(2)** Not later than 1 year after the date of the submission of the report under paragraph (1), the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that contains, with respect to the preceding year—
     - **(A)** an estimate of the quantity of food waste during such year; and
     - **(B)** the results of the food waste reduction and loss prevention activities carried out or led by the Department of Agriculture.
+
+## Source Credit
+
+*([Pub. L. 103–354, title II, § 224](https://www.govinfo.gov/link/plaw/103/public/354), as added [Pub. L. 115–334, title XII, § 12504](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4987](https://www.govinfo.gov/link/statute/132/4987).)*

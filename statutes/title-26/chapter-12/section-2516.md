@@ -3,9 +3,10 @@ title: "Section 2516 - Certain property settlements"
 usc_title: 26
 usc_section: "2516"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 2516"
-generated_at: "2026-03-30T02:55:27.784Z"
+generated_at: "2026-11-23T20:26:46.174Z"
+status: "active"
 ---
 
 # § 2516. Certain property settlements
@@ -14,3 +15,7 @@ Where a husband and wife enter into a written agreement relative to their marita
 
   - **(1)** to either spouse in settlement of his or her marital or property rights, or
   - **(2)** to provide a reasonable allowance for the support of issue of the marriage during minority,
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 409; [Pub. L. 98–369, div. A, title IV, § 425(b)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 804](https://www.govinfo.gov/link/statute/98/804).)*

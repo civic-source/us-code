@@ -3,9 +3,10 @@ title: "Section 5114 - Expenses of performing and executing defense readiness mi
 usc_title: 14
 usc_section: "5114"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 5114"
-generated_at: "2026-03-30T02:53:51.506Z"
+generated_at: "2026-11-23T20:25:54.656Z"
+status: "active"
 ---
 
 # § 5114. Expenses of performing and executing defense readiness missions
@@ -15,3 +16,7 @@ Not later than 1 year after the date of enactment of this section, and every Feb
   - **(1)** all expenses related to the Coast Guard’s coordination, training, and execution of defense readiness mission activities in the Coast Guard’s capacity as an armed force (as such term is defined in section 101 of title 10 ) in support of Department of Defense national security operations and activities or for any other military department or Defense Agency (as such terms are defined in such section);
   - **(2)** costs associated with Coast Guard detachments assigned in support of the defense readiness mission of the Coast Guard; and
   - **(3)** any other related expenses, costs, or matters the Commandant considers appropriate or otherwise of interest to Congress.
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. K, title CXII, § 11256(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4056](https://www.govinfo.gov/link/statute/136/4056).)*

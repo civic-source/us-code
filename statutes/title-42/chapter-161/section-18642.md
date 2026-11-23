@@ -3,9 +3,10 @@ title: "Section 18642 - Advanced scientific computing research"
 usc_title: 42
 usc_section: "18642"
 chapter: 161
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18642"
-generated_at: "2026-03-30T02:56:11.522Z"
+generated_at: "2026-11-23T20:27:23.807Z"
+status: "active"
 ---
 
 # § 18642. Advanced scientific computing research
@@ -74,3 +75,7 @@ generated_at: "2026-03-30T02:56:11.522Z"
   - **(3)** $1,265,275,695 for fiscal year 2025;
   - **(4)** $1,340,687,843 for fiscal year 2026; and
   - **(5)** $1,420,599,500 for fiscal year 2027.
+
+## Source Credit
+
+*([Pub. L. 115–246, title III, § 304](https://www.govinfo.gov/link/plaw/115/public/246), Sept. 28, 2018, [132 Stat. 3145](https://www.govinfo.gov/link/statute/132/3145); [Pub. L. 117–167, div. B, title I, § 10104(a)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1433](https://www.govinfo.gov/link/statute/136/1433).)*

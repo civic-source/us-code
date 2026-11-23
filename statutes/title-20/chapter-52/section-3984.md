@@ -3,9 +3,10 @@ title: "Section 3984 - Authorized activities"
 usc_title: 20
 usc_section: "3984"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 3984"
-generated_at: "2026-03-30T02:54:48.181Z"
+generated_at: "2026-11-23T20:26:14.748Z"
+status: "active"
 ---
 
 # § 3984. Authorized activities
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:48.181Z"
     - **(D)** secondary school students observe, participate, and work in local business concerns and business concerns with establishments located in the community; and
     - **(E)** computer clubs and extracurricular activities involving modern technologies are established in elementary and secondary schools.
   - **(3)** Partnerships under this subsection may include local educational agencies, business concerns, nonprofit private organizations, institutions of higher education, professional mathematic and scientific associations, museums, libraries, educational television stations, and, if the State so desires, appropriate State agencies.
+
+## Source Credit
+
+*([Pub. L. 98–377, title III, § 305](https://www.govinfo.gov/link/plaw/98/public/377), Aug. 11, 1984, [98 Stat. 1284](https://www.govinfo.gov/link/statute/98/1284); [Pub. L. 100–418, title VI, § 6031(b)(2)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1483](https://www.govinfo.gov/link/statute/102/1483).)*

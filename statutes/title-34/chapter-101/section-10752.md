@@ -3,9 +3,10 @@ title: "Section 10752 - Applications"
 usc_title: 34
 usc_section: "10752"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10752"
-generated_at: "2026-03-30T02:55:33.276Z"
+generated_at: "2026-11-23T20:26:50.503Z"
+status: "active"
 ---
 
 # § 10752. Applications
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:33.276Z"
   - **(2)** For purposes of paragraph (1), the continuity of care shall involve the coordination of the correctional facility treatment program with qualified community behavioral health providers and other recovery supports, pre-trial release programs, parole supervision programs, half-way house programs, and participation in peer recovery group programs, which may aid in ongoing recovery after the individual is released from the correctional facility.
   - **(3)** For purposes of this subsection, the term “community care provider program” means a community mental health center or certified community behavioral health clinic that directly provides to an individual, or assists in connecting an individual to the provision of, appropriate community-based treatment, medication management, and other recovery supports, when the individual leaves a correctional facility at the end of a sentence or on parole.
 - **(c)** Each application submitted for a grant under this subchapter shall include a description of how the funds made available under this subchapter will be coordinated with Federal assistance for behavioral health services currently provided by the Department of Health and Human Services’ Substance Abuse and Mental Health Services Administration.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 3052](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 116–281, § 2(a)](https://www.govinfo.gov/link/plaw/116/public/281), Dec. 31, 2020, [134 Stat. 3383](https://www.govinfo.gov/link/statute/134/3383).)*

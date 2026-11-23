@@ -3,9 +3,10 @@ title: "Section 6409 - Coral Reef Disaster Fund"
 usc_title: 16
 usc_section: "6409"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6409"
-generated_at: "2026-03-30T02:54:23.058Z"
+generated_at: "2026-11-23T20:26:20.794Z"
+status: "active"
 ---
 
 # § 6409. Coral Reef Disaster Fund
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:23.058Z"
 - **(c)**
   - **(1)** Pursuant to an agreement entered into under subsection (a), the Foundation may accept, receive, solicit, hold, administer, and use any gift (including, notwithstanding section 1342 of title 31 , donations of services) to further the purposes of this chapter.
   - **(2)** Notwithstanding section 3302 of title 31 , any funds received as a gift shall be deposited and maintained in the Fund.
+
+## Source Credit
+
+*([Pub. L. 106–562, title II, § 210](https://www.govinfo.gov/link/plaw/106/public/562), as added [Pub. L. 117–263, div. J, title C, § 10001(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3941](https://www.govinfo.gov/link/statute/136/3941).)*

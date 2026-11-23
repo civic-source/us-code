@@ -3,9 +3,10 @@ title: "Section 1139 - Assistance to passengers involved in rail passenger accid
 usc_title: 49
 usc_section: "1139"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 1139"
-generated_at: "2026-03-30T02:56:19.304Z"
+generated_at: "2026-11-23T20:27:34.571Z"
+status: "active"
 ---
 
 # § 1139. Assistance to passengers involved in rail passenger accidents and families of such passengers
@@ -63,3 +64,69 @@ generated_at: "2026-03-30T02:56:19.304Z"
   - **(1)** This section (other than subsection (g)) shall not apply to a rail passenger accident if the Board has relinquished investigative priority under section 1131(a)(2)(B) and the Federal agency to which the Board relinquished investigative priority is willing and able to provide assistance to the victims and families of the passengers involved in the accident.
   - **(2)** If this section does not apply to a rail passenger accident because the Board has relinquished investigative priority with respect to the accident, the Board shall assist, to the maximum extent possible, the agency to which the Board has relinquished investigative priority in assisting families with respect to the accident.
 - **(k)** Nothing in this section shall be construed to abridge the authority of the Board or the Secretary of Transportation to investigate the causes or circumstances of any rail accident, including development of information regarding the nature of injuries sustained and the manner in which they were sustained for the purposes of determining compliance with existing laws and regulations or for identifying means of preventing similar injuries in the future, or both.
+
+In General
+
+Responsibilities of the Board
+
+Responsibilities of Designated Organization
+
+Passenger Lists.—
+
+Requests for passenger lists by the director of family services.—
+
+Requests by director of family support services
+
+Use of information
+
+Limitation
+
+Rule of construction
+
+Requests for passenger lists by designated organization.—
+
+Requests by designated organization
+
+Use of information
+
+Continuing Responsibilities of the Board
+
+Use of Rail Passenger Carrier Resources
+
+Prohibited Actions.—
+
+Actions to impede the board
+
+Unsolicited communications
+
+Prohibition on actions to prevent certain care and support services
+
+Definitions
+
+Rail passenger accident
+
+Rail passenger carrier
+
+Passenger
+
+Passenger list
+
+Limitation on Statutory Construction
+
+Relinquishment of Investigative Priority.—
+
+General rule
+
+Board assistance
+
+Savings Clause
+
+Establishment
+
+Model Plan and Recommendations
+
+Report
+
+## Source Credit
+
+*(Added [Pub. L. 110–432, div. A, title V, § 501(a)](https://www.govinfo.gov/link/plaw/110/public/432), Oct. 16, 2008, [122 Stat. 4894](https://www.govinfo.gov/link/statute/122/4894); amended [Pub. L. 114–94, div. A, title XI, § 11316(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1676](https://www.govinfo.gov/link/statute/129/1676); [Pub. L. 115–254, div. C, § 1109(d)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3435](https://www.govinfo.gov/link/statute/132/3435); [Pub. L. 118–63, title XII, § 1215(c)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1428](https://www.govinfo.gov/link/statute/138/1428).)*

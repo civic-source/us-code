@@ -3,9 +3,10 @@ title: "Section 205f - Duties of Board"
 usc_title: 15
 usc_section: "205f"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 205f"
-generated_at: "2026-03-30T02:54:08.075Z"
+generated_at: "2026-11-23T20:26:03.660Z"
+status: "active"
 ---
 
 # § 205f. Duties of Board
@@ -18,3 +19,7 @@ In carrying out its duties under this subchapter, the Board may—
   - **(4)** enter into contracts, in accordance with chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, with Federal or State agencies, private firms, institutions, and individuals for the conduct of research or surveys, the preparation of reports, and other activities necessary to the discharge of its duties;
   - **(5)** delegate to the Executive Director such authority as it deems advisable; and
   - **(6)** perform such other acts as may be necessary to carry out the duties prescribed by this subchapter.
+
+## Source Credit
+
+*([Pub. L. 94–168, § 7](https://www.govinfo.gov/link/plaw/94/public/168), Dec. 23, 1975, [89 Stat. 1011](https://www.govinfo.gov/link/statute/89/1011).)*

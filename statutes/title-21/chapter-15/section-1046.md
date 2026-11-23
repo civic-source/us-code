@@ -3,9 +3,10 @@ title: "Section 1046 - Imports"
 usc_title: 21
 usc_section: "1046"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 1046"
-generated_at: "2026-03-30T02:54:54.301Z"
+generated_at: "2026-11-23T20:26:27.870Z"
+status: "active"
 ---
 
 # § 1046. Imports
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:54.301Z"
 - **(b)** The Secretary may prescribe the terms and conditions for the destruction of all such articles which are imported contrary to this section, unless (1) they are exported by the consignee within the time fixed therefor by the Secretary or (2) in the case of articles which are not in compliance solely because of misbranding, such articles are brought into compliance with this chapter under supervision of authorized representatives of the Secretary.
 - **(c)** All charges for storage, cartage, and labor with respect to any article which is imported contrary to this section shall be paid by the owner or consignee, and in default of such payment shall constitute a lien against such article and any other article thereafter imported under this chapter by or for such owner or consignee.
 - **(d)** The importation of any article contrary to this section is prohibited.
+
+## Source Credit
+
+*([Pub. L. 91–597, § 17](https://www.govinfo.gov/link/plaw/91/public/597), Dec. 29, 1970, [84 Stat. 1630](https://www.govinfo.gov/link/statute/84/1630); [Pub. L. 102–237, title X, § 1012(f)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1901](https://www.govinfo.gov/link/statute/105/1901).)*

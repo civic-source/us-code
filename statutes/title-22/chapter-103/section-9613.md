@@ -3,9 +3,10 @@ title: "Section 9613 - Management of Corporation"
 usc_title: 22
 usc_section: "9613"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9613"
-generated_at: "2026-03-30T02:55:05.469Z"
+generated_at: "2026-11-23T20:26:32.784Z"
+status: "active"
 ---
 
 # § 9613. Management of Corporation
@@ -221,3 +222,9 @@ generated_at: "2026-03-30T02:55:05.469Z"
     - **(A)** select, appoint, and employ individuals for up to 1 year through compensated internships in the excepted service; and
     - **(B)** remove any compensated intern employed pursuant to subparagraph (A) without regard to the provisions of law governing appointments in the competitive excepted service.
   - **(7)** Internships offered and compensated by the Corporation under this subsection shall be funded solely by available amounts appropriated after December 18, 2025 , to the Corporate Capital Account established under section 9634 of this title .
+
+Report on the feasibility of establishing a development finance education program at the Foreign Service Institute
+
+## Source Credit
+
+*([Pub. L. 115–254, div. F, title I, § 1413](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3487](https://www.govinfo.gov/link/statute/132/3487); [Pub. L. 119–60, div. H, title LXXXVII](https://www.govinfo.gov/link/plaw/119/public/60), §§ 8721—8730(a), 8731, 8732, Dec. 18, 2025, [139 Stat. 1949](https://www.govinfo.gov/link/statute/139/1949) —1959.)*

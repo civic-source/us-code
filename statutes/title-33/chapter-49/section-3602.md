@@ -3,9 +3,10 @@ title: "Section 3602 - Definitions"
 usc_title: 33
 usc_section: "3602"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 3602"
-generated_at: "2026-03-30T02:55:41.142Z"
+generated_at: "2026-11-23T20:26:54.267Z"
+status: "active"
 ---
 
 # § 3602. Definitions
@@ -21,3 +22,7 @@ In this chapter:
   - **(7)** The term “Secretary” means the Secretary of Commerce, acting through the Administrator.
   - **(8)** The term “System” means the National Integrated Coastal and Ocean Observation System established under section 3603 of this title .
   - **(9)** The term “System Plan” means the plan contained in the document entitled “Ocean. US Publication No. 9, The First Integrated Ocean Observing System (IOOS) Development Plan”, as updated by the Council under this chapter.
+
+## Source Credit
+
+*([Pub. L. 111–11, title XII, § 12303](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1428](https://www.govinfo.gov/link/statute/123/1428); [Pub. L. 116–271, title I, § 102](https://www.govinfo.gov/link/plaw/116/public/271), Dec. 31, 2020, [134 Stat. 3333](https://www.govinfo.gov/link/statute/134/3333).)*

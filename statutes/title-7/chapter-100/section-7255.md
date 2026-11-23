@@ -3,9 +3,10 @@ title: "Section 7255 - Milk manufacturing marketing adjustment"
 usc_title: 7
 usc_section: "7255"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7255"
-generated_at: "2026-03-30T02:53:42.448Z"
+generated_at: "2026-11-23T20:25:41.764Z"
+status: "active"
 ---
 
 # § 7255. Milk manufacturing marketing adjustment
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:42.448Z"
   - **(2)** the amount by which the product price value of cheese manufactured from a hundred pounds of milk containing 3.5 pounds of butterfat and 8.7 pounds of milk solids not fat resulting from a State’s yield and product price formulas exceeds the class price for the milk used to produce cheese.
 - **(c)** If the Secretary determines following a hearing that a State has in effect a manufacturing allowance that exceeds the manufacturing allowance authorized in subsection (a), the Secretary shall suspend purchases of cheddar cheese, butter, and nonfat dry milk produced in that State until such time as the State complies with such subsection.
 - **(d)** This section (other than subsection (e) 1 1 See Codification note below. ) shall be effective during the period beginning on the first day of the first month beginning after April 4, 1996 , and ending on December 31, 1999 . During that period, the Secretary may exercise the authority provided to the Secretary under this section without regard to the issuance of regulations intended to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 104–127, title I, § 145](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 917](https://www.govinfo.gov/link/statute/110/917).)*

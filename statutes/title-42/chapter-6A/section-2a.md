@@ -3,9 +3,10 @@ title: "Section 2a - Peer support technical assistance center"
 usc_title: 42
 usc_section: "2a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2a"
-generated_at: "2026-03-30T02:56:10.766Z"
+generated_at: "2026-11-23T20:27:20.332Z"
+status: "active"
 ---
 
 # § 290ee–2a. Peer support technical assistance center
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:10.766Z"
   - **(3)** This subsection shall terminate on September 30, 2030 .
 - **(e)** In this section, the term “recovery community organization” has the meaning given such term in section 290ee–2 of this title .
 - **(f)** There is authorized to be appropriated to carry out this section $2,000,000 for each of fiscal years 2026 through 2030.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title V, § 547A, as added [Pub. L. 115–271, title VII, § 7152](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 4058](https://www.govinfo.gov/link/statute/132/4058); amended [Pub. L. 119–44, title III, § 302](https://www.govinfo.gov/link/plaw/119/public/44), Dec. 1, 2025, [139 Stat. 684](https://www.govinfo.gov/link/statute/139/684).)*

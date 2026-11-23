@@ -3,9 +3,10 @@ title: "Section 271 - Establishment of Bureau of Citizenship and Immigration Ser
 usc_title: 6
 usc_section: "271"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 271"
-generated_at: "2026-03-30T02:53:09.454Z"
+generated_at: "2026-11-23T20:25:34.686Z"
+status: "active"
 ---
 
 # § 271. Establishment of Bureau of Citizenship and Immigration Services
@@ -55,3 +56,7 @@ generated_at: "2026-03-30T02:53:09.454Z"
 - **(f)**
   - **(1)** There shall be a position of Chief of the Office of Citizenship for the Bureau of Citizenship and Immigration Services.
   - **(2)** The Chief of the Office of Citizenship for the Bureau of Citizenship and Immigration Services shall be responsible for promoting instruction and training on citizenship responsibilities for aliens interested in becoming naturalized citizens of the United States, including the development of educational materials.
+
+## Source Credit
+
+*([Pub. L. 107–296, title IV, § 451](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2195](https://www.govinfo.gov/link/statute/116/2195); [Pub. L. 110–382, § 2(a)](https://www.govinfo.gov/link/plaw/110/public/382), Oct. 9, 2008, [122 Stat. 4087](https://www.govinfo.gov/link/statute/122/4087).)*

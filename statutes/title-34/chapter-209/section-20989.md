@@ -3,9 +3,10 @@ title: "Section 20989 - Fugitive Safe Surrender"
 usc_title: 34
 usc_section: "20989"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 20989"
-generated_at: "2026-03-30T02:55:33.302Z"
+generated_at: "2026-11-23T20:26:50.614Z"
+status: "active"
 ---
 
 # § 20989. Fugitive Safe Surrender
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:33.302Z"
   - **(2)** $5,000,000 for fiscal year 2008; and
   - **(3)** $8,000,000 for fiscal year 2009.
 - **(d)** Nothing in this section shall be construed to limit any existing authority under any other provision of Federal or State law for law enforcement agencies to locate or apprehend fugitives through task forces or any other means.
+
+## Source Credit
+
+*([Pub. L. 109–248, title VI, § 632](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 641](https://www.govinfo.gov/link/statute/120/641).)*

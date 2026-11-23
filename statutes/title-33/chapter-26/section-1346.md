@@ -3,9 +3,10 @@ title: "Section 1346 - Coastal recreation water quality monitoring and notificat
 usc_title: 33
 usc_section: "1346"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1346"
-generated_at: "2026-03-30T02:55:41.102Z"
+generated_at: "2026-11-23T20:26:54.060Z"
+status: "active"
 ---
 
 # § 1346. Coastal recreation water quality monitoring and notification
@@ -74,3 +75,7 @@ generated_at: "2026-03-30T02:55:41.102Z"
   - **(1)** to conduct monitoring and notification; and
   - **(2)** for related salaries, expenses, and travel.
 - **(i)** There is authorized to be appropriated for making grants under subsection (b), including implementation of monitoring and notification programs by the Administrator under subsection (h), $30,000,000 for each of fiscal years 2001 through 2005.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title IV, § 406, as added [Pub. L. 106–284, § 4](https://www.govinfo.gov/link/plaw/106/public/284), Oct. 10, 2000, [114 Stat. 872](https://www.govinfo.gov/link/statute/114/872).)*

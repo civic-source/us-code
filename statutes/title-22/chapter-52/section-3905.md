@@ -3,9 +3,10 @@ title: "Section 3905 - Personnel actions"
 usc_title: 22
 usc_section: "3905"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3905"
-generated_at: "2026-03-30T02:55:05.398Z"
+generated_at: "2026-11-23T20:26:32.480Z"
+status: "active"
 ---
 
 # § 3905. Personnel actions
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:55:05.398Z"
   - **(3)** section 206(d) of title 29 , prohibiting discrimination on the basis of sex;
   - **(4)** sections 791 and 794a of title 29, prohibiting discrimination on the basis of disability; or
   - **(5)** any provision of law, rule, or regulation prohibiting discrimination on the basis of marital status or political affiliation.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 105](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2077](https://www.govinfo.gov/link/statute/94/2077); [Pub. L. 100–204, title I, § 185(a)](https://www.govinfo.gov/link/plaw/100/public/204), Dec. 22, 1987, [101 Stat. 1365](https://www.govinfo.gov/link/statute/101/1365); [Pub. L. 101–246, title I, § 153(d)](https://www.govinfo.gov/link/plaw/101/public/246), Feb. 16, 1990, [104 Stat. 43](https://www.govinfo.gov/link/statute/104/43); [Pub. L. 117–263, div. I, title XCII, § 9219(2)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3879](https://www.govinfo.gov/link/statute/136/3879).)*

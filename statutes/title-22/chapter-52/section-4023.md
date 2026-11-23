@@ -3,9 +3,10 @@ title: "Section 4023 - Career development program"
 usc_title: 22
 usc_section: "4023"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4023"
-generated_at: "2026-03-30T02:55:05.401Z"
+generated_at: "2026-11-23T20:26:32.498Z"
+status: "active"
 ---
 
 # § 4023. Career development program
@@ -15,3 +16,15 @@ generated_at: "2026-03-30T02:55:05.401Z"
 - **(c)** At each stage the program of professional development should be designed to provide members of the Service with the opportunity to acquire skills and knowledge relevant to clearly established professional standards of expected performance. Career candidates should satisfactorily complete candidate training prior to attainment of career status. Members of the Service should satisfactorily complete midcareer training before appointment to the Senior Foreign Service.
 - **(d)** In formulating programs under this section, the Secretary should establish a system to provide, insofar as possible, credit toward university degrees for successful completion of courses comparable to graduate-level, university courses.
 - **(e)** Training provided under this section shall be conducted by the Department and by other governmental and nongovernmental institutions as the Secretary may consider appropriate.
+
+Requirements
+
+Requirements
+
+Professional Development Described
+
+Promotion Precepts
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 703](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2100](https://www.govinfo.gov/link/statute/94/2100); [Pub. L. 100–204, title I, § 185(c)(1)](https://www.govinfo.gov/link/plaw/100/public/204), Dec. 22, 1987, [101 Stat. 1366](https://www.govinfo.gov/link/statute/101/1366).)*

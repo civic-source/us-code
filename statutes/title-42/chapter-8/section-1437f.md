@@ -3,9 +3,10 @@ title: "Section 1437f - Low-income housing assistance"
 usc_title: 42
 usc_section: "1437f"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1437f"
-generated_at: "2026-03-30T02:56:11.080Z"
+generated_at: "2026-11-23T20:27:21.716Z"
+status: "active"
 ---
 
 # § 1437f. Low-income housing assistance
@@ -429,3 +430,745 @@ generated_at: "2026-03-30T02:56:11.080Z"
     - **(B)** require the owner to submit an application for those rent requirements, which application shall include such information as the Secretary, in the discretion of the Secretary, determines to be necessary.
   - **(3)** This subsection shall apply to fiscal year 1999 and fiscal years thereafter.
 - **(dd)** Subject to amounts provided in appropriation Acts, starting in fiscal year 1999, the Secretary shall renew all expiring tenant-based annual contribution contracts under this section by applying an inflation factor based on local or regional factors to an allocation baseline. The allocation baseline shall be calculated by including, at a minimum, amounts sufficient to ensure continued assistance for the actual number of families assisted as of October 1, 1997 , with appropriate upward adjustments for incremental assistance and additional families authorized subsequent to that date.
+
+In general
+
+Calculation of limit
+
+Treatment of common areas
+
+(aa) is hardwired; or
+
+(bb) uses 10-year non rechargeable, nonreplaceable primary batteries and— (AA) is sealed; (BB) is tamper resistant; and (CC) contains silencing means; and
+
+(aa) in the case of any such failure that is a result of life-threatening conditions, within 24 hours after such notice has been provided; and
+
+(bb) in the case of any such failure that is a result of non-life-threatening conditions, within 30 days after such notice has been provided or such other reasonable longer period as the public housing agency may establish.
+
+(aa) such abatement has commenced; and
+
+(bb) if the dwelling unit is not brought into compliance with housing quality standards within 60 days after the effective date of the determination of noncompliance under clause (i) or such reasonable longer period as the agency may establish, the tenant will have to move; and
+
+(aa) (AA) is hardwired; or (BB) uses 10-year non rechargeable, nonreplaceable primary batteries and is sealed, is tamper resistant, and contains silencing means; and
+
+(bb) provides notification for persons with hearing loss as required by the National Fire Protection Association Standard 72, or any successor standard; or
+
+In general
+
+Lease violations
+
+In general
+
+Exceptions
+
+Limitation
+
+In general
+
+Exclusion of equity from income
+
+Recapture of certain amounts
+
+Downpayment requirement
+
+In general
+
+Share from reduced assistance payments
+
+“The amendment under subsection (a) [amending this section] shall be made and shall apply—
+
+“The amendment under subsection (a) [amending this section] shall be made and shall apply—
+
+“The amendments made by subsection (a) [amending this section] shall take effect on October 1, 1983 , except that the provisions repealed shall remain in effect—
+
+Interim Regulations
+
+Final Regulations
+
+Factors For Consideration
+
+Conversion Assistance.—
+
+In general
+
+Continued applicability
+
+Effective Date
+
+Appropriation
+
+Emergency Vouchers.—
+
+In general
+
+Qualifying individuals or families defined
+
+Allocation
+
+Terms and conditions.—
+
+Election to administer
+
+Failure to use vouchers promptly
+
+Waivers and alternative requirements
+
+Termination of vouchers upon turnover
+
+Technical Assistance and Other Costs
+
+Implementation
+
+Authority
+
+Selection of PHAs.—
+
+Requirements
+
+Selection criteria
+
+Random selection of families
+
+Regional Housing Mobility Plan
+
+Funding for Mobility-Related Services.—
+
+Use of administrative fees
+
+Use of housing assistance funds
+
+Waivers; Alternative Requirements.—
+
+Waivers
+
+Alternative requirements for consortia
+
+Effective date
+
+Implementation
+
+Evaluation
+
+Termination
+
+In General
+
+Initial Renewal.—
+
+Resulting Contract
+
+Income Targeting
+
+Tenant Eligibility
+
+Definitions
+
+“The purposes of this title [see Short Title of 2002 Amendment note set out under section 1437 of this title ] are—
+
+In general
+
+Report
+
+Findings
+
+Purposes
+
+Comparable properties
+
+Eligible multifamily housing project
+
+Expiring contract
+
+Expiration date
+
+Fair market rent
+
+Low-income families
+
+Mortgage restructuring and rental assistance sufficiency plan
+
+Nonprofit organization
+
+Portfolio restructuring agreement
+
+Participating administrative entity
+
+Project-based assistance
+
+Renewal
+
+Secretary
+
+State
+
+Tenant-based assistance
+
+Unit of general local government
+
+Very low-income family
+
+Qualified mortgagee
+
+Office
+
+Participating Administrative Entities.—
+
+In general
+
+Portfolio restructuring agreements
+
+Selection of Participating Administrative Entity.—
+
+Selection criteria
+
+Selection
+
+Partnerships
+
+Alternative administrators
+
+Priority for public agencies as participating administrative entities
+
+State and local portfolio requirements.—
+
+In general
+
+Nondelegation
+
+Private entity requirements.—
+
+In general
+
+Prohibition
+
+In General.—
+
+Development of procedures and requirements
+
+Terms and conditions
+
+Consolidation
+
+Notice Requirements
+
+Extension of Contract Term
+
+Tenant Rent Protection
+
+Mortgage Restructuring and Rental Assistance Sufficiency Plan
+
+Tenant and Other Participation and Capacity Building.—
+
+Procedures.—
+
+In general
+
+Coverage
+
+Required consultation
+
+Funding.—
+
+In general
+
+Manner of providing
+
+Prohibition
+
+Rent Levels.—
+
+In general
+
+Exceptions.—
+
+In general
+
+Exception rents
+
+Rent levels for exception projects
+
+Exemptions From Restructuring
+
+Section
+
+Renewals of Restructured Projects.—
+
+Project-based assistance
+
+Tenant-based assistance
+
+Required Commitment
+
+Determination of Whether To Renew With Project-Based or Tenant-Based Assistance.—
+
+Mandatory renewal of project-based assistance
+
+Rental assistance assessment plan.—
+
+In general
+
+Rental assistance assessment plan requirements
+
+Reports to director
+
+Eligibility for tenant-based assistance
+
+Assistance through enhanced vouchers
+
+Inapplicability of certain provision
+
+Rent Adjustments and Subsequent Renewals
+
+Prohibition on Restructuring
+
+Opportunity To Dispute Findings.—
+
+In general
+
+Affirmation, modification, or reversal.—
+
+In general
+
+Reasons for decision
+
+Review process
+
+Final Determination
+
+Displaced Tenants.—
+
+Notice to certain residents
+
+Assistance and moving expenses
+
+Transfer of Property
+
+Mortgage Restructuring.—
+
+Restructuring Tools
+
+Full or partial payment of claim
+
+Refinancing of debt
+
+Mortgage insurance
+
+Credit enhancement
+
+Compensation of third parties
+
+Use of project accounts
+
+Rehabilitation Needs and Addition of Significant Features.—
+
+Rehabilitation needs.—
+
+In general
+
+Contribution
+
+Addition of significant features.—
+
+Authority
+
+Funding
+
+Limitation on owner contribution
+
+Applicability
+
+Prohibition on Equity Sharing by the Secretary
+
+Conflict of Interest Guidelines
+
+Compliance Agreements
+
+Periodic Monitoring.—
+
+In general
+
+Inspections
+
+Administration
+
+Audit by the Secretary
+
+Annual Review
+
+Semiannual Review
+
+Initial Audit
+
+Report.—
+
+In general
+
+Contents
+
+Rulemaking and Implementation.—
+
+Interim regulations
+
+Final regulations
+
+Factors for consideration
+
+Transition Provision for Contracts Expiring in Fiscal Year
+
+Calculation of Limit on Project-Based Assistance
+
+Partial Payment of Claims on Multifamily Housing Projects
+
+Reuse and Rescission of Certain Recaptured Budget Authority
+
+Section
+
+Contract Renewals
+
+Renewal Upon Request of Owner
+
+Extension of Demonstration Contract Period
+
+In General.—
+
+Renewal
+
+Prohibition on renewal
+
+Contract term for mark-up-to-market contracts
+
+Renewal rents
+
+Market rents
+
+Reduction to market rents
+
+Rents not exceeding market rents
+
+Waiver of 150 percent limitation
+
+Comparable market rents and comparison with fair market rents
+
+Exception Rents.—
+
+Renewal
+
+Adjusted existing rents
+
+Budget-based rents
+
+Projects covered
+
+Moderate rehabilitation projects
+
+Adjusted existing rents
+
+Fair market rents
+
+Market rents
+
+Rent Adjustments After Renewal of Contract.—
+
+Required
+
+Discretionary
+
+Enhanced Vouchers Upon Contract Expiration.—
+
+In general
+
+Definitions
+
+Assisted dwelling unit
+
+Covered project
+
+Authorization of appropriations
+
+Contractual Commitments Under Preservation Laws
+
+Preservation projects
+
+Demonstration projects.—
+
+In general
+
+Demonstration programs
+
+Mortgage restructuring and rental assistance sufficiency plans
+
+Preemption of Conflicting State Laws Limiting Distributions.—
+
+In general
+
+Exception and waiver
+
+Treatment of low-income use restrictions
+
+Applicability
+
+In General
+
+Rent Standards
+
+Enhanced vouchers
+
+Mark-to-market
+
+Contract renewal
+
+Repeals.—
+
+Mark-to-market program
+
+Exception
+
+Termination of Director and Office
+
+Transfer of Authority
+
+“Notwithstanding section 8(q) of the United States Housing Act of 1937 [ 42 U.S.C. 1437f(q) ], as amended—
+
+Definitions
+
+Section
+
+Contract Renewal Authority.—
+
+In general
+
+Exemption for state and local housing agency projects
+
+Exemption of certain other projects
+
+Other contracts.—
+
+Participation in demonstration
+
+Effect of material adverse actions and omissions
+
+Transfer of property
+
+Tenant protections
+
+In General.—
+
+Repeal.—
+
+In general
+
+Exception
+
+Savings provisions
+
+Definitions
+
+Demonstration Authority.—
+
+In general
+
+Purpose
+
+Goals.—
+
+In general
+
+Balance of competing goals
+
+Participation Arrangements.—
+
+In general
+
+Designees
+
+Designee partnerships
+
+Long-Term Affordability.—
+
+In general
+
+Affordability requirements
+
+Procedures.—
+
+Notice of participation in demonstration
+
+Demonstration contract
+
+Project-Based Section
+
+Demonstration Actions.—
+
+Demonstration actions
+
+Removal of restrictions.—
+
+In general
+
+Accumulated residual receipts
+
+Reinsurance
+
+Participation by third parties
+
+Section 8 administrative fees
+
+Full or partial payment of claim
+
+Credit enhancement.—
+
+In general
+
+Maximum percentage
+
+Credit subsidy
+
+Mortgage restructuring.—
+
+In general
+
+Credit subsidy
+
+Debt forgiveness
+
+Budget-based rents
+
+Section 8 tenant-based assistance
+
+Offer and acceptance
+
+Community and Tenant Input
+
+Transfer of Property
+
+Limitation on Demonstration Authority
+
+Funding
+
+Report to Congress.—
+
+In general.—
+
+Quarterly reports
+
+Final report
+
+Contents
+
+Contents of final report
+
+Purpose
+
+Program Authority
+
+Application
+
+Selection
+
+Applicability of
+
+Act Provisions.—
+
+Effect on Section
+
+Operating Subsidies, and Comprehensive Grant Program Allocations
+
+Records, Reports, and Audits.—
+
+Keeping of records
+
+Reports
+
+Access to documents by the secretary
+
+Access to documents by the comptroller general
+
+Evaluation and Report.—
+
+Consultation with pha and family representatives
+
+Report to congress
+
+Funding for Technical Assistance and Evaluation
+
+Capital and Operating Fund Assistance
+
+“Notwithstanding any other provision of law, no Federal tenant selection preferences under the United States Housing Act of 1937 [ 42 U.S.C. 1437 et seq.] shall apply with respect to—
+
+Demonstration Program
+
+Funding Requirements
+
+Contract Terms.—
+
+In general
+
+Amendment to section
+
+Limitation
+
+Implementation
+
+Applicability of ERISA
+
+Report
+
+Establishment of Standards
+
+Authorization of Appropriations
+
+Termination Date
+
+“Notwithstanding the second sentence of section 8(q)(1) of the United States Housing Act of 1937 [ 42 U.S.C. 1437f(q)(1) ], other applicable law, or any implementing regulations and related requirements, the fee for the ongoing costs of administering the certificate and housing voucher programs under subsections (b) and ( o ) of section 8 of such Act during fiscal year 1994 shall be—
+
+Data
+
+Report
+
+Availability of data
+
+Assistance Authorized
+
+Mortgage Insurance.—
+
+In general
+
+Sale on default
+
+Effect of Prior Comparability Studies.—
+
+In general
+
+Applicability.—
+
+In general
+
+Final litigation
+
+Year Payments
+
+Determination of Contract Rent
+
+Regulations
+
+Definition of Qualified Project
+
+Availability of Funds
+
+Applicability and Budget Compliance.—
+
+Retroactivity
+
+Budget compliance
+
+Rental Assistance Fraud Recoveries.—
+
+Authority to retain recovered amounts
+
+Use
+
+Recovery
+
+## Source Credit
+
+*(Sept. 1, 1937, ch. 896, title I, § 8, as added [Pub. L. 93–383, title II, § 201(a)](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 662](https://www.govinfo.gov/link/statute/88/662); amended [Pub. L. 94–375, § 2(d)](https://www.govinfo.gov/link/plaw/94/public/375), (e), (g), Aug. 3, 1976, [90 Stat. 1068](https://www.govinfo.gov/link/statute/90/1068); [Pub. L. 95–24, title I, § 101(c)](https://www.govinfo.gov/link/plaw/95/public/24), Apr. 30, 1977, [91 Stat. 55](https://www.govinfo.gov/link/statute/91/55); [Pub. L. 95–128, title II, § 201(c)](https://www.govinfo.gov/link/plaw/95/public/128) –(e), Oct. 12, 1977, [91 Stat. 1128](https://www.govinfo.gov/link/statute/91/1128); [Pub. L. 95–557, title II, § 206(d)(1)](https://www.govinfo.gov/link/plaw/95/public/557), (e), (f), Oct. 31, 1978, [92 Stat. 2091](https://www.govinfo.gov/link/statute/92/2091), 2092; [Pub. L. 96–153, title II](https://www.govinfo.gov/link/plaw/96/public/153), §§ 202(b), 206(b), 210, 211(b), Dec. 21, 1979, [93 Stat. 1106](https://www.govinfo.gov/link/statute/93/1106), 1108–1110; [Pub. L. 96–399, title II, § 203](https://www.govinfo.gov/link/plaw/96/public/399), title III, § 308(c)(3), Oct. 8, 1980, [94 Stat. 1629](https://www.govinfo.gov/link/statute/94/1629), 1641; [Pub. L. 97–35, title III](https://www.govinfo.gov/link/plaw/97/public/35), §§ 322(e), 324–326(a), (e)(1), 329H(a), Aug. 13, 1981, [95 Stat. 402](https://www.govinfo.gov/link/statute/95/402), 405–407, 410; [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title II, §§ 203(b)(1), (2), 207–209(a), 210, 211], Nov. 30, 1983, [97 Stat. 1178](https://www.govinfo.gov/link/statute/97/1178), 1181–1183; [Pub. L. 98–479, title I, § 102(b)(6)](https://www.govinfo.gov/link/plaw/98/public/479) –(10), Oct. 17, 1984, [98 Stat. 2221](https://www.govinfo.gov/link/statute/98/2221), 2222; [Pub. L. 100–242, title I](https://www.govinfo.gov/link/plaw/100/public/242), §§ 141–149, title II, § 262, Feb. 5, 1988, [101 Stat. 1849–1853](https://www.govinfo.gov/link/statute/101/1849), 1890; renumbered title I, [Pub. L. 100–358, § 5](https://www.govinfo.gov/link/plaw/100/public/358), June 29, 1988, [102 Stat. 681](https://www.govinfo.gov/link/statute/102/681); [Pub. L. 100–628, title X](https://www.govinfo.gov/link/plaw/100/public/628), §§ 1004(a), 1005(b)(1), (c), 1006, 1014(b), (c), 1029, Nov. 7, 1988, [102 Stat. 3264](https://www.govinfo.gov/link/statute/102/3264), 3265, 3269, 3272; [Pub. L. 101–235, title I, § 127](https://www.govinfo.gov/link/plaw/101/public/235), title VIII, § 801(c), (g), Dec. 15, 1989, [103 Stat. 2025](https://www.govinfo.gov/link/statute/103/2025), 2058, 2059; [Pub. L. 101–625, title II, § 289(b)](https://www.govinfo.gov/link/plaw/101/public/625), title IV, § 413, title V, §§ 541–545(a), 545(2)[(b)], 546–549, 550(a), (c), 551–553, 572, title VI, §§ 603, 613(a), Nov. 28, 1990, [104 Stat. 4128](https://www.govinfo.gov/link/statute/104/4128), 4160, 4216–4224, 4236, 4277, 4280; [Pub. L. 102–139, title II](https://www.govinfo.gov/link/plaw/102/public/139), Oct. 28, 1991, [105 Stat. 756](https://www.govinfo.gov/link/statute/105/756); [Pub. L. 102–550, title I](https://www.govinfo.gov/link/plaw/102/public/550), §§ 141–148, 185(a), title VI, §§ 623(b), 660, 674, 675, 682(b), title X, § 1012(g), Oct. 28, 1992, [106 Stat. 3713–3715](https://www.govinfo.gov/link/statute/106/3713), 3745, 3819, 3825, 3827, 3828, 3830, 3905; [Pub. L. 103–233, title I, § 101(c)(2)](https://www.govinfo.gov/link/plaw/103/public/233), (3), (d), Apr. 11, 1994, [108 Stat. 357](https://www.govinfo.gov/link/statute/108/357); [Pub. L. 103–327, title II](https://www.govinfo.gov/link/plaw/103/public/327), Sept. 28, 1994, [108 Stat. 2315](https://www.govinfo.gov/link/statute/108/2315); [Pub. L. 104–19, title I, § 1003](https://www.govinfo.gov/link/plaw/104/public/19), July 27, 1995, [109 Stat. 236](https://www.govinfo.gov/link/statute/109/236); [Pub. L. 104–99, title IV](https://www.govinfo.gov/link/plaw/104/public/99), §§ 402(d)(2), (3), (6)(A)(iii), (iv), 405(c), Jan. 26, 1996, [110 Stat. 41](https://www.govinfo.gov/link/statute/110/41), 42, 44; [Pub. L. 104–134, title I, § 101(e) [title II, §§ 203(a)–(c), 208]](https://www.govinfo.gov/link/plaw/104/public/134), Apr. 26, 1996, [110 Stat. 1321–257](https://www.govinfo.gov/link/statute/110/1321), 1321–281, 1321–284; renumbered title I, [Pub. L. 104–140, § 1(a)](https://www.govinfo.gov/link/plaw/104/public/140), May 2, 1996, [110 Stat. 1327](https://www.govinfo.gov/link/statute/110/1327); [Pub. L. 104–193, title IX, § 903(a)(2)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2348](https://www.govinfo.gov/link/statute/110/2348); [Pub. L. 104–204, title II, § 201(g)](https://www.govinfo.gov/link/plaw/104/public/204), Sept. 26, 1996, [110 Stat. 2893](https://www.govinfo.gov/link/statute/110/2893); [Pub. L. 105–18, title II, § 10002](https://www.govinfo.gov/link/plaw/105/public/18), June 12, 1997, [111 Stat. 201](https://www.govinfo.gov/link/statute/111/201); [Pub. L. 105–33, title II](https://www.govinfo.gov/link/plaw/105/public/33), §§ 2003, 2004, Aug. 5, 1997, [111 Stat. 257](https://www.govinfo.gov/link/statute/111/257); [Pub. L. 105–65, title II](https://www.govinfo.gov/link/plaw/105/public/65), §§ 201(c), 205, title V, § 523(a), (c), Oct. 27, 1997, [111 Stat. 1364](https://www.govinfo.gov/link/statute/111/1364), 1365, 1406, 1407; [Pub. L. 105–276, title II, § 209(a)](https://www.govinfo.gov/link/plaw/105/public/276), title V, §§ 514(b)(1), 545(a), (b), 547–549(a)(2), (b), 550(a), 552–555(a), 556(a), 565(c), Oct. 21, 1998, [112 Stat. 2485](https://www.govinfo.gov/link/statute/112/2485), 2547, 2596–2607, 2609–2611, 2613, 2631; [Pub. L. 106–74, title II, § 223](https://www.govinfo.gov/link/plaw/106/public/74), title V, §§ 523(a), 531(d), 535, 538(a), Oct. 20, 1999, [113 Stat. 1076](https://www.govinfo.gov/link/statute/113/1076), 1104, 1116, 1121, 1122; [Pub. L. 106–246, div. B, title II, § 2801](https://www.govinfo.gov/link/plaw/106/public/246), July 13, 2000, [114 Stat. 569](https://www.govinfo.gov/link/statute/114/569); [Pub. L. 106–377, § 1(a)(1) [title II, §§ 205, 228, 232(a), 234]](https://www.govinfo.gov/link/plaw/106/public/377), Oct. 27, 2000, [114 Stat. 1441](https://www.govinfo.gov/link/statute/114/1441), 1441A–24, 1441A–30, 1441A–31, 1441A–35; [Pub. L. 106–569, title III, § 301(a)](https://www.govinfo.gov/link/plaw/106/public/569), title IX, §§ 902(a), 903(a), Dec. 27, 2000, [114 Stat. 2952](https://www.govinfo.gov/link/statute/114/2952), 3026; [Pub. L. 107–95, § 12](https://www.govinfo.gov/link/plaw/107/public/95), Dec. 21, 2001, [115 Stat. 921](https://www.govinfo.gov/link/statute/115/921); [Pub. L. 107–116, title VI, § 632](https://www.govinfo.gov/link/plaw/107/public/116), Jan. 10, 2002, [115 Stat. 2227](https://www.govinfo.gov/link/statute/115/2227); [Pub. L. 109–162, title VI, § 606](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3041](https://www.govinfo.gov/link/statute/119/3041); [Pub. L. 109–271, § 5(d)](https://www.govinfo.gov/link/plaw/109/public/271), (e), Aug. 12, 2006, [120 Stat. 759](https://www.govinfo.gov/link/statute/120/759); [Pub. L. 109–461, title VII, § 710](https://www.govinfo.gov/link/plaw/109/public/461), Dec. 22, 2006, [120 Stat. 3441](https://www.govinfo.gov/link/statute/120/3441); [Pub. L. 110–234, title IV, § 4002(b)(1)(B)](https://www.govinfo.gov/link/plaw/110/public/234), (2)(Y), May 22, 2008, [122 Stat. 1096](https://www.govinfo.gov/link/statute/122/1096), 1097; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, § 4002(b)(1)(B), (2)(Y), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1857, 1859; [Pub. L. 110–289, div. B, title VIII, § 2835(a)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2871](https://www.govinfo.gov/link/statute/122/2871); [Pub. L. 111–22, div. A, title VII](https://www.govinfo.gov/link/plaw/111/public/22), §§ 703, 704, May 20, 2009, [123 Stat. 1661](https://www.govinfo.gov/link/statute/123/1661), 1662; [Pub. L. 111–203, title XIV, § 1484(2)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2204](https://www.govinfo.gov/link/statute/124/2204); [Pub. L. 111–372, title III, § 302](https://www.govinfo.gov/link/plaw/111/public/372), Jan. 4, 2011, [124 Stat. 4084](https://www.govinfo.gov/link/statute/124/4084); [Pub. L. 113–4, title VI, § 601(b)(2)](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 107](https://www.govinfo.gov/link/statute/127/107); [Pub. L. 113–76, div. L, title II](https://www.govinfo.gov/link/plaw/113/public/76), §§ 220(a), 242, Jan. 17, 2014, [128 Stat. 630](https://www.govinfo.gov/link/statute/128/630), 636; [Pub. L. 114–94, div. G, title LXXVIII, § 78001(b)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1791](https://www.govinfo.gov/link/statute/129/1791); [Pub. L. 114–201, title I](https://www.govinfo.gov/link/plaw/114/public/201), §§ 101(a), 102(d)–(f), 105, 106(a), 107(a), (b), 108, 110, 112(a), July 29, 2016, [130 Stat. 783](https://www.govinfo.gov/link/statute/130/783), 790, 791, 796, 800, 801, 803; [Pub. L. 115–174, title III, § 304(a)](https://www.govinfo.gov/link/plaw/115/public/174), (b), May 24, 2018, [132 Stat. 1339](https://www.govinfo.gov/link/statute/132/1339); [Pub. L. 116–260, div. Q, title I](https://www.govinfo.gov/link/plaw/116/public/260), §§ 101(b)(2), 103(b), (c), Dec. 27, 2020, [134 Stat. 2163](https://www.govinfo.gov/link/statute/134/2163), 2166, 2169; [Pub. L. 116–283, div. H, title XCI, § 9103(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4781](https://www.govinfo.gov/link/statute/134/4781); [Pub. L. 117–328, div. AA, title VI, § 601(a)(2)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5543](https://www.govinfo.gov/link/statute/136/5543).)*

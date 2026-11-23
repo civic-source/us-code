@@ -3,9 +3,10 @@ title: "Section 59j - Delaware River, Philadelphia County, Pennsylvania; permane
 usc_title: 33
 usc_section: "59j"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 59j"
-generated_at: "2026-03-30T02:55:41.051Z"
+generated_at: "2026-11-23T20:26:53.788Z"
+status: "active"
 ---
 
 # § 59j. Delaware River, Philadelphia County, Pennsylvania; permanent structures
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:41.051Z"
   - **(5)** south 2 degrees 22 minutes 45.9 seconds west, 1,221.670 feet to a point;
   - **(6)** south 1 degree 4 minutes 36 seconds east, 1,468.775 feet to a point on the north house line of Catherine Street extended, thence extending north 76 degrees 56 minutes 29.2 seconds west, the distance of 555.911 feet to the first mentioned point and place of beginning is hereby declared not to be a navigable water of the United States within the meaning of the Constitution and laws of the United States, and the Consent of Congress is hereby given, for the filling or erection of permanent structures in all or any part of the described area.
 
+
+## Source Credit
+
+*([Pub. L. 92–605, § 1](https://www.govinfo.gov/link/plaw/92/public/605), Oct. 31, 1972, [86 Stat. 1493](https://www.govinfo.gov/link/statute/86/1493).)*

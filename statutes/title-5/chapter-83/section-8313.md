@@ -3,9 +3,10 @@ title: "Section 8313 - Absence from the United States to avoid prosecution"
 usc_title: 5
 usc_section: "8313"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8313"
-generated_at: "2026-03-30T02:52:56.044Z"
+generated_at: "2026-11-23T20:25:32.111Z"
+status: "active"
 ---
 
 # § 8313. Absence from the United States to avoid prosecution
@@ -19,3 +20,30 @@ generated_at: "2026-03-30T02:52:56.044Z"
   - **(1)** a nolle prosequi to the entire indictment is entered on the record or the charges are dismissed by competent authority;
   - **(2)** the individual returns and thereafter the indictment or charges is or are dismissed; or
   - **(3)** after trial by court or court-martial, the accused is found not guilty of the offense or offenses.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 2283a . | Sept. 26, 1961 , Pub. L. 87–299, § 1 , “Sec. 3”, 75 Stat. 643 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 2283a
+
+Sept. 26, 1961
+
+Pub. L. 87–299, § 1
+
+75 Stat. 643
+
+Development of Procedures for Suspension
+
+Report to Congress
+
+Retired Pay Defined
+
+Effective Date
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 561](https://www.govinfo.gov/link/statute/80/561).)*

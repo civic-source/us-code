@@ -3,9 +3,10 @@ title: "Section 2286b - Powers of Board"
 usc_title: 42
 usc_section: "2286b"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2286b"
-generated_at: "2026-03-30T02:56:11.160Z"
+generated_at: "2026-11-23T20:27:22.125Z"
+status: "active"
 ---
 
 # § 2286b. Powers of Board
@@ -57,3 +58,7 @@ generated_at: "2026-03-30T02:56:11.160Z"
       - **(i)** a meeting of the members of the Board other than a meeting described in paragraph (1); or
       - **(ii)** any information that is proposed to be withheld from the public under paragraph (2)(A)(ii); or
     - **(B)** to authorize the Board to withhold from any individual any record that is accessible to that individual under section 552a of title 5 .
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 313, as added [Pub. L. 100–456, div. A, title XIV, § 1441(a)(1)](https://www.govinfo.gov/link/plaw/100/public/456), Sept. 29, 1988, [102 Stat. 2079](https://www.govinfo.gov/link/statute/102/2079); amended [Pub. L. 101–510, div. C, title XXXII, § 3202](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1844](https://www.govinfo.gov/link/statute/104/1844); [Pub. L. 102–190, div. C, title XXXII, § 3202(a)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1582](https://www.govinfo.gov/link/statute/105/1582); renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944); [Pub. L. 112–239, div. C, title XXXII, § 3202(g)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2220](https://www.govinfo.gov/link/statute/126/2220); [Pub. L. 113–291, div. C, title XXXII, § 3203(a)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3903](https://www.govinfo.gov/link/statute/128/3903); [Pub. L. 114–92, div. C, title XXXII, § 3202(b)(2)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 1218](https://www.govinfo.gov/link/statute/129/1218); [Pub. L. 116–92, div. C, title XXXII, § 3202(a)(1)(A)](https://www.govinfo.gov/link/plaw/116/public/92), (4), Dec. 20, 2019, [133 Stat. 1963](https://www.govinfo.gov/link/statute/133/1963), 1964; [Pub. L. 116–283, div. C, title XXXII, § 3202](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4394](https://www.govinfo.gov/link/statute/134/4394); [Pub. L. 117–81, div. C, title XXXII, § 3202(2)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2235](https://www.govinfo.gov/link/statute/135/2235).)*

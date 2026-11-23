@@ -3,9 +3,10 @@ title: "Section 313d - NIDIS program"
 usc_title: 15
 usc_section: "313d"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 313d"
-generated_at: "2026-03-30T02:54:08.082Z"
+generated_at: "2026-11-23T20:26:03.701Z"
+status: "active"
 ---
 
 # § 313d. NIDIS program
@@ -30,3 +31,15 @@ generated_at: "2026-03-30T02:54:08.082Z"
 - **(d)** The Under Secretary shall consult with relevant Federal, regional, State, tribal, and local government agencies, research institutions, and the private sector in the development and sustainment of the National Integrated Drought Information System.
 - **(e)** Each Federal agency shall cooperate as appropriate with the Under Secretary in carrying out this section.
 - **(f)** Not later than 1 year after January 7, 2019 , the Under Secretary, acting through the National Integrated Drought Information System, shall develop a strategy for a national coordinated soil moisture monitoring network.
+
+“There are authorized to be appropriated to carry out this Act—
+
+“In this Act [see Short Title of 2006 Amendment note set out under section 311 of this title ]:
+
+Drought
+
+Under secretary
+
+## Source Credit
+
+*([Pub. L. 109–430, § 3](https://www.govinfo.gov/link/plaw/109/public/430), Dec. 20, 2006, [120 Stat. 2918](https://www.govinfo.gov/link/statute/120/2918); [Pub. L. 113–86, § 2](https://www.govinfo.gov/link/plaw/113/public/86), Mar. 6, 2014, [128 Stat. 1015](https://www.govinfo.gov/link/statute/128/1015); [Pub. L. 115–423, § 2(a)](https://www.govinfo.gov/link/plaw/115/public/423), Jan. 7, 2019, [132 Stat. 5454](https://www.govinfo.gov/link/statute/132/5454).)*

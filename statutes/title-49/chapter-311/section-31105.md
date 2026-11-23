@@ -3,9 +3,10 @@ title: "Section 31105 - Employee protections"
 usc_title: 49
 usc_section: "31105"
 chapter: 311
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 31105"
-generated_at: "2026-03-30T02:56:19.357Z"
+generated_at: "2026-11-23T20:27:34.938Z"
+status: "active"
 ---
 
 # § 31105. Employee protections
@@ -50,3 +51,69 @@ generated_at: "2026-03-30T02:56:19.357Z"
 - **(j)** In this section, “employee” means a driver of a commercial motor vehicle (including an independent contractor when personally operating a commercial motor vehicle), a mechanic, a freight handler, or an individual not an employer, who—
   - **(1)** directly affects commercial motor vehicle safety or security in the course of employment by a commercial motor carrier; and
   - **(2)** is not an employee of the United States Government, a State, or a political subdivision of a State acting in the course of employment.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 31105(a) | 49 App.:2305(a), (b). | Jan. 6, 1983 , Pub. L. 97–424, § 405(a) –(d), 96 Stat. 2157 . |
+| 31105(b) | 49 App.:2305(c). |  |
+| 31105(c) | 49 App.:2305(d). |  |
+| 31105(d) | 49 App.:2305(e). | Jan. 6, 1983 , Pub. L. 97–424, § 405(e) , 96 Stat. 2158 ; Nov. 8, 1984 , Pub. L. 98–620, § 402(51) , 98 Stat. 3361 . |
+
+
+Prohibitions
+
+Filing Complaints and Procedures
+
+De Novo Review
+
+Judicial Review and Venue
+
+Civil Actions to Enforce
+
+No Preemption
+
+Rights Retained by Employee
+
+Disclosure of Identity.—
+
+Process for Reporting Security Problems to the Department of Homeland Security.—
+
+Establishment of process
+
+Acknowledgment of receipt
+
+Steps to address problem
+
+Definition
+
+Historical and Revision Notes
+
+31105(a)
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 405(a)
+
+96 Stat. 2157
+
+31105(b)
+
+31105(c)
+
+31105(d)
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 405(e)
+
+96 Stat. 2158
+
+Nov. 8, 1984
+
+Pub. L. 98–620, § 402(51)
+
+98 Stat. 3361
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 990](https://www.govinfo.gov/link/statute/108/990); [Pub. L. 110–53, title XV, § 1536](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 464](https://www.govinfo.gov/link/statute/121/464).)*

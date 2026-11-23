@@ -3,9 +3,10 @@ title: "Section 30170 - Criminal Penalties"
 usc_title: 49
 usc_section: "30170"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 30170"
-generated_at: "2026-03-30T02:56:19.353Z"
+generated_at: "2026-11-23T20:27:34.921Z"
+status: "active"
 ---
 
 # § 30170. Criminal Penalties
@@ -17,3 +18,21 @@ generated_at: "2026-03-30T02:56:19.353Z"
     - **(B)** The Secretary shall establish by regulation what constitutes a reasonable time for the purposes of subparagraph (A) and what manner of correction is sufficient for purposes of subparagraph (A). The Secretary shall issue a final rule under this subparagraph within 90 days of the date of the enactment of this section.
     - **(C)** Subsection (a) shall not take effect before the final rule under subparagraph (B) takes effect.
 - **(b)** The Attorney General may bring an action, or initiate grand jury proceedings, for a violation of subsection (a) only at the request of the Secretary of Transportation.
+
+Criminal Liability for Falsifying or Withholding Information.—
+
+General rule
+
+Safe harbor to encourage reporting and for whistle blowers.—
+
+Correction
+
+Reasonable time and sufficiency of correction
+
+Effective date
+
+Coordination with Department of Justice
+
+## Source Credit
+
+*(Added [Pub. L. 106–414, § 5(b)(1)](https://www.govinfo.gov/link/plaw/106/public/414), Nov. 1, 2000, [114 Stat. 1803](https://www.govinfo.gov/link/statute/114/1803).)*

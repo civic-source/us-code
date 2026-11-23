@@ -3,9 +3,10 @@ title: "Section 2554 - Equipment and other services: Boy Scout Jamborees"
 usc_title: 10
 usc_section: "2554"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2554"
-generated_at: "2026-03-30T02:53:38.162Z"
+generated_at: "2026-11-23T20:25:51.607Z"
+status: "active"
 ---
 
 # § 2554. Equipment and other services: Boy Scout Jamborees
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:38.162Z"
   - **(2)** The Secretary of Defense may waive paragraph (1), if the Secretary—
     - **(A)** determines that providing the support subject to paragraph (1) would be detrimental to the national security of the United States; and
     - **(B)** submits to Congress a report containing such determination in a timely manner, and before the waiver takes effect.
+
+## Source Credit
+
+*(Added [Pub. L. 92–249](https://www.govinfo.gov/link/plaw/92/public/249), Mar. 10, 1972, [86 Stat. 62](https://www.govinfo.gov/link/statute/86/62), § 2544; amended [Pub. L. 104–106, div. A, title III, § 376](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 283](https://www.govinfo.gov/link/statute/110/283); renumbered § 2554, [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title X, § 1033(b)(1)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–260l; [Pub. L. 107–107, div. A, title IX, § 931(a)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1200](https://www.govinfo.gov/link/statute/115/1200); [Pub. L. 109–148, div. A, title VIII, § 8126(c)(2)](https://www.govinfo.gov/link/plaw/109/public/148), Dec. 30, 2005, [119 Stat. 2729](https://www.govinfo.gov/link/statute/119/2729); [Pub. L. 109–163, div. A, title X, § 1058(c)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3443](https://www.govinfo.gov/link/statute/119/3443).)*

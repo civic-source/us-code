@@ -3,9 +3,10 @@ title: "Section 1465c - Advisory Board for Cuba Broadcasting"
 usc_title: 22
 usc_section: "1465c"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 1465c"
-generated_at: "2026-03-30T02:55:05.332Z"
+generated_at: "2026-11-23T20:26:32.110Z"
+status: "active"
 ---
 
 # § 1465c. Advisory Board for Cuba Broadcasting
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.332Z"
 - **(f)** The Advisory Board may, to the extent it deems necessary to carry out its functions under this section, procure supplies, services, and other personal property, including specialized electronic equipment.
 - **(g)** Notwithstanding any other provision of law, the Advisory Board shall remain in effect indefinitely.
 - **(h)** There are authorized to be appropriated $130,000 to carry out the provisions of this section.
+
+## Source Credit
+
+*([Pub. L. 98–111, § 5](https://www.govinfo.gov/link/plaw/98/public/111), Oct. 4, 1983, [97 Stat. 750](https://www.govinfo.gov/link/statute/97/750); [Pub. L. 101–246, title II, § 245(a)](https://www.govinfo.gov/link/plaw/101/public/246), Feb. 16, 1990, [104 Stat. 61](https://www.govinfo.gov/link/statute/104/61); [Pub. L. 103–236, title III, § 305(e)(2)](https://www.govinfo.gov/link/plaw/103/public/236), formerly § 305(d)(2), Apr. 30, 1994, [108 Stat. 436](https://www.govinfo.gov/link/statute/108/436); [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XIII, §§ 1323(f)(1), 1324(5), Oct. 21, 1998, [112 Stat. 2681–779](https://www.govinfo.gov/link/statute/112/2681), 2681–781.)*

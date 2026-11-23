@@ -3,9 +3,10 @@ title: "Section 694a - Definitions"
 usc_title: 15
 usc_section: "694a"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 694a"
-generated_at: "2026-03-30T02:54:08.113Z"
+generated_at: "2026-11-23T20:26:03.874Z"
+status: "active"
 ---
 
 # § 694a. Definitions
@@ -21,3 +22,7 @@ As used in this part—
   - **(7)** The term “prime contractor” means the person with whom the obligee has contracted to perform the contract.
   - **(8)** The term “subcontractor” means a person who has contracted with a prime contractor or with another subcontractor to perform a contract.
   - **(9)** Notwithstanding any other provision of law or any rule, regulation, or order of the Administration, for purpose of sections 694a, 694b, and 694c of this title the term “small business concern” means a business concern that meets the size standard for the primary industry in which such business concern, and the affiliates of such business concern, is engaged, as determined by the Administrator in accordance with the North American Industry Classification System.
+
+## Source Credit
+
+*([Pub. L. 85–699, title IV, § 410](https://www.govinfo.gov/link/plaw/85/public/699), as added [Pub. L. 91–609, title IX, § 911(a)(4)](https://www.govinfo.gov/link/plaw/91/public/609), Dec. 31, 1970, [84 Stat. 1812](https://www.govinfo.gov/link/statute/84/1812); amended [Pub. L. 95–507, title I, § 110](https://www.govinfo.gov/link/plaw/95/public/507), Oct. 24, 1978, [92 Stat. 1758](https://www.govinfo.gov/link/statute/92/1758); [Pub. L. 111–5, div. A, title V, § 508(c)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 158](https://www.govinfo.gov/link/statute/123/158); [Pub. L. 112–239, div. A, title XVI, § 1695(c)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2090](https://www.govinfo.gov/link/statute/126/2090).)*

@@ -3,9 +3,10 @@ title: "Section 1406 - Appeal to Board"
 usc_title: 2
 usc_section: "1406"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1406"
-generated_at: "2026-03-30T02:53:04.813Z"
+generated_at: "2026-11-23T20:25:28.971Z"
+status: "active"
 ---
 
 # § 1406. Appeal to Board
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:04.813Z"
   - **(3)** unsupported by substantial evidence.
 - **(d)** In making determinations under subsection (c), the Board shall review the whole record, or those parts of it cited by a party, and due account shall be taken of the rule of prejudicial error.
 - **(e)** The Board shall issue a written decision setting forth the reasons for its decision. The decision may affirm, reverse, or remand to the hearing officer for further proceedings. A decision that does not require further proceedings before a hearing officer shall be entered in the records of the Office as a final decision.
+
+## Source Credit
+
+*([Pub. L. 104–1, title IV, § 406](https://www.govinfo.gov/link/plaw/104/public/1), Jan. 23, 1995, [109 Stat. 35](https://www.govinfo.gov/link/statute/109/35).)*

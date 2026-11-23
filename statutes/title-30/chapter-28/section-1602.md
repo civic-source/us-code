@@ -3,9 +3,10 @@ title: "Section 1602 - Congressional declaration of policies"
 usc_title: 30
 usc_section: "1602"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1602"
-generated_at: "2026-03-30T02:55:29.406Z"
+generated_at: "2026-11-23T20:26:35.051Z"
+status: "active"
 ---
 
 # § 1602. Congressional declaration of policies
@@ -27,3 +28,7 @@ It is the continuing policy of the United States to promote an adequate and stab
   - **(11)** promote the efficient production, use, and recycling of critical minerals;
   - **(12)** develop alternatives to critical minerals; and
   - **(13)** establish contingencies for the production of, or access to, critical minerals for which viable sources do not exist within the United States.
+
+## Source Credit
+
+*([Pub. L. 96–479, § 3](https://www.govinfo.gov/link/plaw/96/public/479), Oct. 21, 1980, [94 Stat. 2305](https://www.govinfo.gov/link/statute/94/2305); [Pub. L. 116–260, div. Z, title VII, § 7002(b)(1)](https://www.govinfo.gov/link/plaw/116/public/260), (m)(2), Dec. 27, 2020, [134 Stat. 2563](https://www.govinfo.gov/link/statute/134/2563), 2576.)*

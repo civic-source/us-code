@@ -3,9 +3,10 @@ title: "Section 1443 - Destruction or loss of, or injury to, sanctuary resources
 usc_title: 16
 usc_section: "1443"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1443"
-generated_at: "2026-03-30T02:54:22.968Z"
+generated_at: "2026-11-23T20:26:20.488Z"
+status: "active"
 ---
 
 # § 1443. Destruction or loss of, or injury to, sanctuary resources
@@ -39,3 +40,13 @@ generated_at: "2026-03-30T02:54:22.968Z"
     - **(C)** to restore degraded sanctuary resources of other national marine sanctuaries.
   - **(3)** Amounts recovered under this section with respect to sanctuary resources lying within the jurisdiction of a State shall be used under paragraphs (2)(A) and (B) in accordance with the court decree or settlement agreement and an agreement entered into by the Secretary and the Governor of that State.
 - **(e)** An action for response costs or damages under subsection (c) shall be barred unless the complaint is filed within 3 years after the date on which the Secretary completes a damage assessment and restoration plan for the sanctuary resources to which the action relates.
+
+Response costs and damage assessments
+
+Restoration, replacement, management, and improvement
+
+In general
+
+## Source Credit
+
+*([Pub. L. 92–532, title III, § 312](https://www.govinfo.gov/link/plaw/92/public/532), as added [Pub. L. 100–627, title II, § 204(a)](https://www.govinfo.gov/link/plaw/100/public/627), Nov. 7, 1988, [102 Stat. 3215](https://www.govinfo.gov/link/statute/102/3215); amended [Pub. L. 102–587, title II](https://www.govinfo.gov/link/plaw/102/public/587), §§ 2107(d), 2110, Nov. 4, 1992, [106 Stat. 5044](https://www.govinfo.gov/link/statute/106/5044), 5045; [Pub. L. 104–283, § 9(e)](https://www.govinfo.gov/link/plaw/104/public/283), Oct. 11, 1996, [110 Stat. 3367](https://www.govinfo.gov/link/statute/110/3367); [Pub. L. 106–513](https://www.govinfo.gov/link/plaw/106/public/513), §§ 13, 19(c), Nov. 13, 2000, [114 Stat. 2389](https://www.govinfo.gov/link/statute/114/2389), 2393.)*

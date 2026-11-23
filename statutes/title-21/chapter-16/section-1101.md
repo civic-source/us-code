@@ -3,9 +3,10 @@ title: "Section 1101 - Congressional findings"
 usc_title: 21
 usc_section: "1101"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 1101"
-generated_at: "2026-03-30T02:54:54.301Z"
+generated_at: "2026-11-23T20:26:27.872Z"
+status: "active"
 ---
 
 # § 1101. Congressional findings
@@ -26,3 +27,7 @@ The Congress makes the following findings:
   - **(12)** The growing extent of drug abuse indicates an urgent need for prevention and intervention programs designed to reach the general population and members of high risk populations such as youth, women, and the elderly.
   - **(13)** Effective control of drug abuse requires high-level coordination of Federal international and domestic activities relating to both supply of, and demand for, commonly abused drugs.
   - **(14)** Local governments with high concentrations of drug abuse should be actively involved in the planning and coordination of efforts to combat drug abuse.
+
+## Source Credit
+
+*([Pub. L. 92–255, title I, § 101](https://www.govinfo.gov/link/plaw/92/public/255), Mar. 21, 1972, [86 Stat. 66](https://www.govinfo.gov/link/statute/86/66); [Pub. L. 94–237, § 1](https://www.govinfo.gov/link/plaw/94/public/237), Mar. 19, 1976, [90 Stat. 241](https://www.govinfo.gov/link/statute/90/241); [Pub. L. 96–181, § 2](https://www.govinfo.gov/link/plaw/96/public/181), Jan. 2, 1980, [93 Stat. 1309](https://www.govinfo.gov/link/statute/93/1309).)*

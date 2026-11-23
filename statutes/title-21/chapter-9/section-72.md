@@ -3,9 +3,10 @@ title: "Section 72 - Authority to assess and use OTC monograph fees"
 usc_title: 21
 usc_section: "72"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 72"
-generated_at: "2026-03-30T02:54:54.274Z"
+generated_at: "2026-11-23T20:26:27.748Z"
+status: "active"
 ---
 
 # § 379j–72. Authority to assess and use OTC monograph fees
@@ -129,3 +130,21 @@ generated_at: "2026-03-30T02:54:54.274Z"
   - **(3)** For each of the fiscal years 2026 through 2030, there is authorized to be appropriated for fees under this section an amount equal to the total amount of fees assessed for such fiscal year under this section.
 - **(g)** In any case where the Secretary does not receive payment of a fee assessed under subsection (a) within 30 calendar days after it is due, such fee shall be treated as a claim of the United States Government subject to subchapter II of chapter 37 of title 31.
 - **(h)** This section may not be construed to require that the number of full-time equivalent positions in the Department of Health and Human Services, for officers, employers, and advisory committees not engaged in OTC monograph drug activities, be reduced to offset the number of officers, employees, and advisory committees so engaged.
+
+(aa) for purposes of fiscal year 2026, January 1, 2025 ;
+
+(bb) for purposes of fiscal year 2027, January 1, 2026 ; and
+
+(cc) for purposes of fiscal year 2028 and each subsequent fiscal year, October 1 of the preceding fiscal year; and
+
+(aa) October 1, 2026 ; or
+
+(bb) the first business day after the enactment of an appropriations Act providing for the collection and obligation of fees under this section for such year; and
+
+(aa) February 1, 2027 ; or
+
+(bb) if an appropriations Act described in subclause (I)(bb) is not in effect on February 1, 2027 , the first business day after enactment of such an appropriations Act.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 744M, as added [Pub. L. 116–136, div. A, title III, § 3862](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 461](https://www.govinfo.gov/link/statute/134/461); amended [Pub. L. 119–37, div. F, title V, § 6504](https://www.govinfo.gov/link/plaw/119/public/37), Nov. 12, 2025, [139 Stat. 638](https://www.govinfo.gov/link/statute/139/638).)*

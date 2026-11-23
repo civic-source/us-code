@@ -3,9 +3,10 @@ title: "Section 114c - Manufacturer discount program"
 usc_title: 42
 usc_section: "114c"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 114c"
-generated_at: "2026-03-30T02:56:10.988Z"
+generated_at: "2026-11-23T20:27:21.309Z"
+status: "active"
 ---
 
 # § 1395w–114c. Manufacturer discount program
@@ -97,3 +98,73 @@ generated_at: "2026-03-30T02:56:10.988Z"
   - **(5)** The term “manufacturer” means any entity which is engaged in the production, preparation, propagation, compounding, conversion, or processing of prescription drug products, either directly or indirectly by extraction from substances of natural origin, or independently by means of chemical synthesis, or by a combination of extraction and chemical synthesis. Such term does not include a wholesale distributor of drugs or a retail pharmacy licensed under State law.
   - **(6)** The term “negotiated price” has the meaning given such term for purposes of section 1395w–102(d)(1)(B) of this title , and, with respect to an applicable drug, such negotiated price shall include any dispensing fee and, if applicable, any vaccine administration fee for the applicable drug.
   - **(7)** The term “qualified retiree prescription drug plan” has the meaning given such term in section 1395w–132(a)(2) of this title .
+
+(aa) the manufacturer had a coverage gap discount agreement under section 1395w–114a of this title ;
+
+(bb) the total expenditures for all of the specified drugs of the manufacturer covered by such agreement or agreements for such year and covered under this part during such year represented less than 1.0 percent of the total expenditures under this part for all covered Part 1 1 So in original. Probably should not be capitalized. D drugs during such year; and
+
+(cc) the total expenditures for all of the specified drugs of the manufacturer that are single source drugs and biological products for which payment may be made under part B during such year represented less than 1.0 percent of the total expenditures under part B for all drugs or biological products for which payment may be made under such part during such year.
+
+(aa) In general For purposes of this clause, the term “specified drug” means, with respect to a specified manufacturer, for 2021, an applicable drug that is produced, prepared, propagated, compounded, converted, or processed by the manufacturer.
+
+(bb) Aggregation rule All persons treated as a single employer under subsection (a) or (b) of section 52 of the Internal Revenue Code of 1986 shall be treated as one manufacturer for purposes of this subparagraph. For purposes of making a determination pursuant to the previous sentence, an agreement under this section shall require that a manufacturer provide and attest to such information as specified by the Secretary as necessary.
+
+(aa) for 2025, 99 percent;
+
+(bb) for 2026, 98 percent;
+
+(cc) for 2027, 95 percent;
+
+(dd) for 2028, 92 percent; and
+
+(ee) for 2029 and each subsequent year, 90 percent; and
+
+(aa) for 2025, 99 percent;
+
+(bb) for 2026, 98 percent;
+
+(cc) for 2027, 95 percent;
+
+(dd) for 2028, 92 percent;
+
+(ee) for 2029, 90 percent;
+
+(ff) for 2030, 85 percent; and
+
+(gg) for 2031 and each subsequent year, 80 percent.
+
+(aa) the manufacturer is a specified manufacturer (as defined in subparagraph (B)(ii)); and
+
+(bb) the total expenditures under part D for any one of the specified small manufacturer drugs of the manufacturer that are covered by the agreement or agreements under section 1395w–114a of this title of such manufacturer for such year and covered under this part during such year are equal to or more than 80 percent of the total expenditures under this part for all specified small manufacturer drugs of the manufacturer that are covered by such agreement or agreements for such year and covered under this part during such year.
+
+(aa) In general For purposes of this clause, the term “specified small manufacturer drugs” means, with respect to a specified small manufacturer, for 2021, an applicable drug that is produced, prepared, propagated, compounded, converted, or processed by the manufacturer.
+
+(bb) Aggregation rule All persons treated as a single employer under subsection (a) or (b) of section 52 of the Internal Revenue Code of 1986 shall be treated as one manufacturer for purposes of this subparagraph. For purposes of making a determination pursuant to the previous sentence, an agreement under this section shall require that a manufacturer provide and attest to such information as specified by the Secretary as necessary.
+
+(aa) for 2025, 99 percent;
+
+(bb) for 2026, 98 percent;
+
+(cc) for 2027, 95 percent;
+
+(dd) for 2028, 92 percent; and
+
+(ee) for 2029 and each subsequent year, 90 percent; and
+
+(aa) for 2025, 99 percent;
+
+(bb) for 2026, 98 percent;
+
+(cc) for 2027, 95 percent;
+
+(dd) for 2028, 92 percent;
+
+(ee) for 2029, 90 percent;
+
+(ff) for 2030, 85 percent; and
+
+(gg) for 2031 and each subsequent year, 80 percent.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1860D–14C, as added [Pub. L. 117–169, title I, § 11201(c)(1)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 1880](https://www.govinfo.gov/link/statute/136/1880).)*

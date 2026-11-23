@@ -3,9 +3,10 @@ title: "Section 1110 - Aircraft equipment and vessels"
 usc_title: 11
 usc_section: "1110"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 1110"
-generated_at: "2026-03-30T02:53:53.884Z"
+generated_at: "2026-11-23T20:25:55.401Z"
+status: "active"
 ---
 
 # § 1110. Aircraft equipment and vessels
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:53:53.884Z"
 - **(d)** With respect to equipment first placed in service on or before October 22, 1994 , for purposes of this section—
   - **(1)** the term “lease” includes any written agreement with respect to which the lessor and the debtor, as lessee, have expressed in the agreement or in a substantially contemporaneous writing that the agreement is to be treated as a lease for Federal income tax purposes; and
   - **(2)** the term “security interest” means a purchase-money equipment security interest.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2629](https://www.govinfo.gov/link/statute/92/2629); [Pub. L. 103–272, § 5(c)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1373](https://www.govinfo.gov/link/statute/108/1373); [Pub. L. 103–394, title II, § 201(a)](https://www.govinfo.gov/link/plaw/103/public/394), Oct. 22, 1994, [108 Stat. 4119](https://www.govinfo.gov/link/statute/108/4119); [Pub. L. 106–181, title VII, § 744(b)](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 177](https://www.govinfo.gov/link/statute/114/177); [Pub. L. 109–304, § 17(b)(2)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1707](https://www.govinfo.gov/link/statute/120/1707).)*

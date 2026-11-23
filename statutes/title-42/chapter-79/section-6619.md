@@ -3,9 +3,10 @@ title: "Section 6619 - National coordination of research infrastructure"
 usc_title: 42
 usc_section: "6619"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6619"
-generated_at: "2026-03-30T02:56:11.263Z"
+generated_at: "2026-11-23T20:27:22.691Z"
+status: "active"
 ---
 
 # § 6619. National coordination of research infrastructure
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.263Z"
   - **(1)** A description of the deficiencies in research infrastructure identified in accordance with subsection (a).
   - **(2)** A list of projects and budget proposals of Federal research facilities, set forth by agency, for major instrumentation acquisitions that are included in the budget proposal of the President.
   - **(3)** An explanation of how the projects and instrumentation acquisitions described in paragraph (2) relate to the deficiencies and priorities identified pursuant to subsection (a).
+
+## Source Credit
+
+*([Pub. L. 110–69, title I, § 1007](https://www.govinfo.gov/link/plaw/110/public/69), Aug. 9, 2007, [121 Stat. 580](https://www.govinfo.gov/link/statute/121/580).)*

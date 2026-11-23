@@ -3,9 +3,10 @@ title: "Section 297e - Distribution of assets from loan funds"
 usc_title: 42
 usc_section: "297e"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 297e"
-generated_at: "2026-03-30T02:56:10.783Z"
+generated_at: "2026-11-23T20:27:20.412Z"
+status: "active"
 ---
 
 # § 297e. Distribution of assets from loan funds
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:10.783Z"
 - **(c)**
   - **(1)** Within 90 days after the termination of any agreement with a school under section 297a of this title or the termination in any other manner of a school’s participation in the loan program under this part, 1 1 See References in Text note below. such school shall pay to the Secretary from the balance of the loan fund of such school established under section 297a of this title , an amount which bears the same ratio to the balance in such fund on the date of such termination as the total amount of the Federal capital contributions to such fund by the Secretary pursuant to section 297a(b)(2)(A) of this title bears to the total amount in such fund on such date derived from such Federal capital contributions and from funds deposited in the fund pursuant to section 297a(b)(2)(B) of this title . The remainder of such balance shall be paid to the school.
   - **(2)** A school to which paragraph (1) applies shall pay to the Secretary after the date on which payment is made under such paragraph and not less than quarterly, the same proportionate share of amounts received by the school after the date of termination referred to in paragraph (1) in payment of principal or interest on loans made from the loan fund as was determined for the Secretary under such paragraph.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VIII, § 839, formerly § 826, as added [Pub. L. 88–581, § 2](https://www.govinfo.gov/link/plaw/88/public/581), Sept. 4, 1964, [78 Stat. 916](https://www.govinfo.gov/link/statute/78/916); amended [Pub. L. 89–751, § 6(d)](https://www.govinfo.gov/link/plaw/89/public/751), Nov. 3, 1966, [80 Stat. 1235](https://www.govinfo.gov/link/statute/80/1235); [Pub. L. 90–490, title II, § 222(f)](https://www.govinfo.gov/link/plaw/90/public/490), Aug. 16, 1968, [82 Stat. 785](https://www.govinfo.gov/link/statute/82/785); [Pub. L. 92–52, § 3(b)](https://www.govinfo.gov/link/plaw/92/public/52), July 9, 1971, [85 Stat. 145](https://www.govinfo.gov/link/statute/85/145); [Pub. L. 92–158, § 6(d)(1)](https://www.govinfo.gov/link/plaw/92/public/158), Nov. 18, 1971, [85 Stat. 478](https://www.govinfo.gov/link/statute/85/478); renumbered § 839 and amended [Pub. L. 94–63, title IX](https://www.govinfo.gov/link/plaw/94/public/63), §§ 936(d), 941(h)(1), (2), (4)(B), (i)(1), (5), July 29, 1975, [89 Stat. 363](https://www.govinfo.gov/link/statute/89/363), 365, 366; [Pub. L. 96–32, § 7(j)](https://www.govinfo.gov/link/plaw/96/public/32), July 10, 1979, [93 Stat. 84](https://www.govinfo.gov/link/statute/93/84); [Pub. L. 96–76, title I, § 109(c)](https://www.govinfo.gov/link/plaw/96/public/76), Sept. 29, 1979, [93 Stat. 580](https://www.govinfo.gov/link/statute/93/580); [Pub. L. 97–35, title XXVII, § 2757(d)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 931](https://www.govinfo.gov/link/statute/95/931); [Pub. L. 99–92, § 8(f)](https://www.govinfo.gov/link/plaw/99/public/92), Aug. 16, 1985, [99 Stat. 399](https://www.govinfo.gov/link/statute/99/399); [Pub. L. 100–607, title VII, § 713(i)](https://www.govinfo.gov/link/plaw/100/public/607), Nov. 4, 1988, [102 Stat. 3161](https://www.govinfo.gov/link/statute/102/3161); [Pub. L. 102–408, title II, § 208(b)](https://www.govinfo.gov/link/plaw/102/public/408), Oct. 13, 1992, [106 Stat. 2075](https://www.govinfo.gov/link/statute/106/2075); [Pub. L. 105–392, title I, § 133(e)](https://www.govinfo.gov/link/plaw/105/public/392), Nov. 13, 1998, [112 Stat. 3577](https://www.govinfo.gov/link/statute/112/3577); [Pub. L. 111–148, title V, § 5310(b)(5)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 631](https://www.govinfo.gov/link/statute/124/631).)*

@@ -3,9 +3,10 @@ title: "Section 10203 - Technical assistance to non-nuclear weapon states in fie
 usc_title: 42
 usc_section: "10203"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10203"
-generated_at: "2026-03-30T02:56:11.384Z"
+generated_at: "2026-11-23T20:27:23.223Z"
+status: "active"
 ---
 
 # § 10203. Technical assistance to non-nuclear weapon states in field of spent fuel storage and disposal
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.384Z"
 - **(d)** With his budget presentation materials for the Department and the Commission for fiscal years 1984 through 1989, the President shall include funding requests for an expanded program of cooperation and technical assistance with non-nuclear weapon states in the fields of spent fuel storage and disposal as appropriate in light of expressions of interest in such cooperation and assistance on the part of non-nuclear weapon state governments and non-nuclear weapon state nuclear power reactor operators.
 - **(e)** For the purposes of this subsection, 2 2 So in original. Probably should be “section”. the term “non-nuclear weapon state” shall have the same meaning as that set forth in article IX of the Treaty on the Non-Proliferation of Nuclear Weapons (21 U.S.C. 3 3 So in original. Probably should be “UST”. 438).
 - **(f)** Nothing in this subsection 2 shall authorize the Department or the Commission to take any action not authorized under existing law.
+
+## Source Credit
+
+*([Pub. L. 97–425, title II, § 223](https://www.govinfo.gov/link/plaw/97/public/425), Jan. 7, 1983, [96 Stat. 2254](https://www.govinfo.gov/link/statute/96/2254).)*

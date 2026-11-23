@@ -3,9 +3,10 @@ title: "Section 1302 - Conservation agreements to effectuate water bank program;
 usc_title: 16
 usc_section: "1302"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1302"
-generated_at: "2026-03-30T02:54:22.956Z"
+generated_at: "2026-11-23T20:26:20.449Z"
+status: "active"
 ---
 
 # § 1302. Conservation agreements to effectuate water bank program; duration and renewal; adjustment of payment rate for renewal period; “wetlands” defined; duration of ownership or control of land as determining eligibility for agreements; protection of and compensation for tenants and sharecroppers; participation by owner or operator in other Federal or State programs
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:22.956Z"
   - **(1)** of this sentence, and
   - **(3)** such other wetland types as the Secretary may designate. No agreement shall be entered into under this chapter concerning land with respect to which the ownership or control has changed in the two-year period preceding the first year of the agreement period unless the new ownership was acquired by will or succession as a result of the death of the previous owner, or unless the new ownership was acquired prior to July 1, 1971 , under other circumstances which the Secretary determines, and specifies by regulation, will give adequate assurance that such land was not acquired for the purpose of placing it in the program, except that this sentence shall not be construed to prohibit the continuation of an agreement by a new owner or operator after an agreement has once been entered into under this chapter. A person who has operated the land to be covered by an agreement under this chapter for as long as two years preceding the date of the agreement and who controls the land for the agreement period shall not be required to own the land as a condition of eligibility for entering into the agreement. Nothing in this section shall prevent an owner or operator from placing land in the program if the land was acquired by the owner or operator to replace eligible land from which he was displaced because of its acquisition by any Federal, State, or other agency having the right of eminent domain. The Secretary shall provide adequate safeguards to protect the interests of tenants and sharecroppers, including provision for sharing, on a fair and equitable basis, in payments or compensation under this program. No provision of this chapter shall prevent an owner or operator who is participating in the program under this chapter from participating in other Federal or State programs designed to conserve or protect wetlands.
 
+
+## Source Credit
+
+*([Pub. L. 91–559, § 3](https://www.govinfo.gov/link/plaw/91/public/559), Dec. 19, 1970, [84 Stat. 1469](https://www.govinfo.gov/link/statute/84/1469); [Pub. L. 96–182](https://www.govinfo.gov/link/plaw/96/public/182), §§ 1, 2, Jan. 2, 1980, [93 Stat. 1317](https://www.govinfo.gov/link/statute/93/1317).)*

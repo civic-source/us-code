@@ -3,9 +3,10 @@ title: "Section 720d - Federal Coordinator"
 usc_title: 15
 usc_section: "720d"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 720d"
-generated_at: "2026-03-30T02:54:08.120Z"
+generated_at: "2026-11-23T20:26:03.916Z"
+status: "active"
 ---
 
 # § 720d. Federal Coordinator
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:54:08.120Z"
     - **(A)** With respect to the duties of the Federal Coordinator, as described in this chapter, the Federal Coordinator shall have similar authority to establish, change, and abolish reasonable filing and service fees, charges, and commissions, require deposits of payments, and provide refunds as provided to the Secretary of the Interior in section 1734 of title 43 .
     - **(B)** Subparagraph (A) shall not affect the authority of the Secretary of the Interior to establish, change, and abolish reasonable filing and service fees, charges, and commissions, require deposits of payments, and provide refunds under section 1734 of title 43 .
     - **(C)** The Federal Coordinator is authorized to use, without further appropriation, amounts collected under subparagraph (A) to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 108–324, div. C, § 106](https://www.govinfo.gov/link/plaw/108/public/324), Oct. 13, 2004, [118 Stat. 1259](https://www.govinfo.gov/link/statute/118/1259); [Pub. L. 109–148, div. A, title VIII, § 8128](https://www.govinfo.gov/link/plaw/109/public/148), Dec. 30, 2005, [119 Stat. 2731](https://www.govinfo.gov/link/statute/119/2731); [Pub. L. 110–140, title VIII, § 802](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1717](https://www.govinfo.gov/link/statute/121/1717).)*

@@ -3,9 +3,10 @@ title: "Section 6213 - Certain lease bidding arrangements prohibited"
 usc_title: 42
 usc_section: "6213"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6213"
-generated_at: "2026-03-30T02:56:11.243Z"
+generated_at: "2026-11-23T20:27:22.582Z"
+status: "active"
 ---
 
 # § 6213. Certain lease bidding arrangements prohibited
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.243Z"
 - **(e)** The Secretary shall study and report to the Congress, not later than 6 months after December 22, 1975 , with respect to the feasibility and desirability of extending the prohibition on joint bidding to—
   - **(1)** bidding for any right to develop crude oil, natural gas, and natural gas liquids on Federal lands other than those located on the Outer Continental Shelf; and
   - **(2)** bidding for any right to develop coal and oil shale on such lands.
+
+## Source Credit
+
+*([Pub. L. 94–163, title I, § 105](https://www.govinfo.gov/link/plaw/94/public/163), Dec. 22, 1975, [89 Stat. 879](https://www.govinfo.gov/link/statute/89/879); [Pub. L. 95–372, title II, § 205(c)](https://www.govinfo.gov/link/plaw/95/public/372), Sept. 18, 1978, [92 Stat. 646](https://www.govinfo.gov/link/statute/92/646).)*

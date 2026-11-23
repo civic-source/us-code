@@ -3,9 +3,10 @@ title: "Section 1835 - Insured depository institution capital requirements for t
 usc_title: 12
 usc_section: "1835"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1835"
-generated_at: "2026-03-30T02:53:53.464Z"
+generated_at: "2026-11-23T20:25:59.191Z"
+status: "active"
 ---
 
 # § 1835. Insured depository institution capital requirements for transfers of small business obligations
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:53:53.464Z"
   - **(7)** the term “recourse” has the meaning given to such term under generally accepted accounting principles;
   - **(8)** the term “small business” means a business that meets the criteria for a small business concern established by the Small Business Administration under section 632(a) of title 15 ; and
   - **(9)** the term “well capitalized” has the same meaning as in section 1831 o (b) of this title.
+
+## Source Credit
+
+*([Pub. L. 103–325, title II, § 208](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2201](https://www.govinfo.gov/link/statute/108/2201).)*

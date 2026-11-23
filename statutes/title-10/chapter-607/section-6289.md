@@ -3,9 +3,10 @@ title: "Section 6289 - Review of adequacy of nuclear weapons budget"
 usc_title: 10
 usc_section: "6289"
 chapter: 607
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6289"
-generated_at: "2026-03-30T02:53:38.226Z"
+generated_at: "2026-11-23T20:25:52.028Z"
+status: "active"
 ---
 
 # § 6289. Review of adequacy of nuclear weapons budget
@@ -19,3 +20,21 @@ generated_at: "2026-03-30T02:53:38.226Z"
       - **(ii)** any additional comments the Secretary considers appropriate.
     - **(B)** The Secretary of Energy shall transmit to Congress, with the budget justification materials submitted in support of the Department of Energy budget for a fiscal year (as submitted with the budget of the President under section 1105(a) of title 31 ), a copy of the appendix described in subparagraph (A).
 - **(b)** At the time the Secretary of Energy submits the budget request of the Department of Energy for that fiscal year to the Director of the Office of Management and Budget in relation to the preparation of the budget of the President, the Secretary shall transmit a copy of the budget request of the Department to the Council.
+
+Review of Adequacy of Administration Budget by Nuclear Weapons Council
+
+Review and Certification of Department of Energy Budget by Nuclear Weapons Council
+
+Transmission to council
+
+Review
+
+Department of energy response
+
+In general
+
+Transmission to congress
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2), Dec. 18, 2025, [139 Stat. 1436](https://www.govinfo.gov/link/statute/139/1436), 1462.)*

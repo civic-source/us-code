@@ -3,9 +3,10 @@ title: "Section 15 - Postbaccalaureate achievement program authority"
 usc_title: 20
 usc_section: "15"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 15"
-generated_at: "2026-03-30T02:54:48.105Z"
+generated_at: "2026-11-23T20:26:14.368Z"
+status: "active"
 ---
 
 # § 1070a–15. Postbaccalaureate achievement program authority
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:54:48.105Z"
   - **(1)** shall include a stipend not to exceed $2,800 per annum; and
   - **(2)** may include, in addition, the costs of summer tuition, summer room and board, and transportation to summer programs.
 - **(g)** From amounts appropriated pursuant to the authority of section 1070a–11(g) of this title , the Secretary shall, to the extent practicable, allocate funds for projects authorized by this section in an amount which is not less than $11,000,000 for each of the fiscal years 2009 through 2014.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 402E](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 102–325, title IV, § 402(a)(4)](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 489](https://www.govinfo.gov/link/statute/106/489); amended [Pub. L. 105–244, title IV, § 402(e)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1655](https://www.govinfo.gov/link/statute/112/1655); [Pub. L. 110–315, title IV, § 403(e)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3203](https://www.govinfo.gov/link/statute/122/3203); [Pub. L. 111–39, title IV, § 401(a)(5)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1938](https://www.govinfo.gov/link/statute/123/1938); [Pub. L. 114–95, title IX, § 9215](https://www.govinfo.gov/link/plaw/114/public/95) (oo)(7), Dec. 10, 2015, [129 Stat. 2179](https://www.govinfo.gov/link/statute/129/2179).)*

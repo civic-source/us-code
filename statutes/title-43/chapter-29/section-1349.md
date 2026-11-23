@@ -3,9 +3,10 @@ title: "Section 1349 - Citizens suits, jurisdiction and judicial review"
 usc_title: 43
 usc_section: "1349"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1349"
-generated_at: "2026-03-30T02:55:57.471Z"
+generated_at: "2026-11-23T20:27:06.282Z"
+status: "active"
 ---
 
 # § 1349. Citizens suits, jurisdiction and judicial review
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:57.471Z"
   - **(5)** The Secretary shall file in the appropriate court the record of any public hearings required by this subchapter and any additional information upon which the Secretary based his decision, as required by section 2112 of title 28 . Specific objections to the action of the Secretary shall be considered by the court only if the issues upon which such objections are based have been submitted to the Secretary during the administrative proceedings related to the actions involved.
   - **(6)** The court of appeals conducting a proceeding pursuant to this subsection shall consider the matter under review solely on the record made before the Secretary. The findings of the Secretary, if supported by substantial evidence on the record considered as a whole, shall be conclusive. The court may affirm, vacate, or modify any order or decision or may remand the proceedings to the Secretary for such further action as it may direct.
   - **(7)** Upon the filing of the record with the court, pursuant to paragraph (5), the jurisdiction of the court shall be exclusive and its judgment shall be final, except that such judgment shall be subject to review by the Supreme Court of the United States upon writ of certiorari.
+
+## Source Credit
+
+*(Aug. 7, 1953, ch. 345, § 23, as added [Pub. L. 95–372, title II, § 208](https://www.govinfo.gov/link/plaw/95/public/372), Sept. 18, 1978, [92 Stat. 657](https://www.govinfo.gov/link/statute/92/657); amended [Pub. L. 98–620, title IV, § 402(44)](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3360](https://www.govinfo.gov/link/statute/98/3360).)*

@@ -3,9 +3,10 @@ title: "Section 1616o - University of South Dakota pilot program"
 usc_title: 25
 usc_section: "1616o"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1616o"
-generated_at: "2026-03-30T02:54:52.819Z"
+generated_at: "2026-11-23T20:26:25.480Z"
+status: "active"
 ---
 
 # § 1616o. University of South Dakota pilot program
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:52.819Z"
   - **(2)** shall be designated as an extension of the USDSM campus and program participants shall be under the direct supervision and instruction of qualified medical staff serving at the service unit who shall be members of the USDSM faculty.
 - **(d)** The USDSM shall coordinate the program established pursuant to a grant provided under subsection (a) with other medical schools in the region, nursing schools, tribal community colleges, and other health professional schools.
 - **(e)** The USDSM, in cooperation with the Service, shall develop additional professional opportunities for program participants on Indian reservations in order to improve the recruitment and retention of qualified health professionals in the Aberdeen Area of the Service.
+
+## Source Credit
+
+*([Pub. L. 94–437, title I, § 122](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 102–573, title I, § 116](https://www.govinfo.gov/link/plaw/102/public/573), Oct. 29, 1992, [106 Stat. 4543](https://www.govinfo.gov/link/statute/106/4543).)*

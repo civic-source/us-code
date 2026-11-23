@@ -3,9 +3,10 @@ title: "Section 1423b - Administration"
 usc_title: 16
 usc_section: "1423b"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1423b"
-generated_at: "2026-03-30T02:54:22.967Z"
+generated_at: "2026-11-23T20:26:20.482Z"
+status: "active"
 ---
 
 # § 1423b. Administration
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:22.967Z"
 - **(d)**
   - **(1)** The Secretary shall promulgate such regulations as are necessary to carry out this subchapter and the Agreement.
   - **(2)** If necessary to carry out this subchapter and the Agreement, and to improve compliance with any annual taking limit or other restriction on taking adopted by the Commission and implemented by the Secretary in accordance with this subchapter, the Secretary may promulgate regulations that adopt any ordinance or regulation that restricts the taking of polar bears for subsistence purposes if the ordinance or regulation has been promulgated by the Alaska Nanuuq Commission.
+
+## Source Credit
+
+*([Pub. L. 92–522, title V, § 503](https://www.govinfo.gov/link/plaw/92/public/522), as added [Pub. L. 109–479, title IX, § 902(a)](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3662](https://www.govinfo.gov/link/statute/120/3662).)*

@@ -3,9 +3,10 @@ title: "Section 963 - Technical Study Panel"
 usc_title: 30
 usc_section: "963"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 963"
-generated_at: "2026-03-30T02:55:29.394Z"
+generated_at: "2026-11-23T20:26:34.982Z"
+status: "active"
 ---
 
 # § 963. Technical Study Panel
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:29.394Z"
   - **(1)** Not later than 1 year after the date on which all members of the Panel are appointed under subsection (b), the Panel shall prepare and submit to the Secretary of Labor, the Secretary of Health and Human Services, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Education and the Workforce of the House of Representatives a report concerning the utilization of belt air and the composition and fire retardant properties of belt materials in underground coal mining.
   - **(2)** Not later than 180 days after the receipt of the report under paragraph (1), the Secretary of Labor shall provide a response to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and the Workforce of the House of Representatives containing a description of the actions, if any, that the Secretary intends to take based upon the report, including proposing regulatory changes, and the reasons for such actions.
 - **(e)** Members appointed to the Panel, while carrying out the duties of the Panel shall be entitled to receive compensation, per diem in lieu of subsistence, and travel expenses in the same manner and under the same conditions as that prescribed under section 210(c) of title 42 .
+
+## Source Credit
+
+*([Pub. L. 91–173, title V, § 514](https://www.govinfo.gov/link/plaw/91/public/173), as added [Pub. L. 109–236, § 11](https://www.govinfo.gov/link/plaw/109/public/236), June 15, 2006, [120 Stat. 501](https://www.govinfo.gov/link/statute/120/501).)*

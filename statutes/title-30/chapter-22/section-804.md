@@ -3,9 +3,10 @@ title: "Section 804 - Interim Compliance Panel"
 usc_title: 30
 usc_section: "804"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 804"
-generated_at: "2026-03-30T02:55:29.387Z"
+generated_at: "2026-11-23T20:26:34.949Z"
+status: "active"
 ---
 
 # § 804. Interim Compliance Panel
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:29.387Z"
 - **(f)**
   - **(1)** It shall be the function of the Panel to carry out the duties imposed on it pursuant to this chapter and to provide an opportunity for a public hearing, after notice, at the request of an operator of the affected coal mine or the representative of the miners of such mine. Any operator or representative of miners aggrieved by a final decision of the Panel may file a petition for review of such decision under section 816 of this title . The provisions of this section shall terminate upon completion of the Panel’s functions as set forth under this chapter. Any hearing held pursuant to this subsection shall be of record and the Panel shall make findings of fact and shall issue a written decision incorporating its findings therein in accordance with section 554 of title 5 .
   - **(2)** The Panel shall make an annual report, in writing, to the Secretary for transmittal by him to the Congress concerning the achievement of its purposes, and any other relevant information (including any recommendations) which it deems appropriate.
+
+## Source Credit
+
+*([Pub. L. 91–173, § 5](https://www.govinfo.gov/link/plaw/91/public/173), Dec. 30, 1969, [83 Stat. 744](https://www.govinfo.gov/link/statute/83/744); [Pub. L. 95–164, title I, § 102(d)](https://www.govinfo.gov/link/plaw/95/public/164), Nov. 9, 1977, [91 Stat. 1291](https://www.govinfo.gov/link/statute/91/1291); [Pub. L. 95–251, § 2(a)(9)](https://www.govinfo.gov/link/plaw/95/public/251), Mar. 27, 1978, [92 Stat. 183](https://www.govinfo.gov/link/statute/92/183); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695); [Pub. L. 100–418, title V, § 5115(c)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1433](https://www.govinfo.gov/link/statute/102/1433); [Pub. L. 102–285, § 10(b)](https://www.govinfo.gov/link/plaw/102/public/285), May 18, 1992, [106 Stat. 172](https://www.govinfo.gov/link/statute/106/172).)*

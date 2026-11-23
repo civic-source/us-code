@@ -3,9 +3,10 @@ title: "Section 8009 - Miscellaneous provisions"
 usc_title: 42
 usc_section: "8009"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8009"
-generated_at: "2026-03-30T02:56:11.332Z"
+generated_at: "2026-11-23T20:27:22.990Z"
+status: "active"
 ---
 
 # § 8009. Miscellaneous provisions
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.332Z"
 - **(b)** No service provided to a public housing resident or to a resident of a housing project assisted under section 1701q of title 12 under this chapter, except for wages paid under subsection (a) of this section, may be treated as income for the purpose of any other program or provision of State or Federal law.
 - **(c)** Individuals receiving services assisted under this chapter shall be deemed to be residents of their own households, and not to be residents of a public institution, for the purpose of any other program or provision of State or Federal law.
 - **(d)** The Secretary may issue regulations to carry out the provisions of this chapter.
+
+## Source Credit
+
+*([Pub. L. 95–557, title IV, § 410](https://www.govinfo.gov/link/plaw/95/public/557), Oct. 31, 1978, [92 Stat. 2109](https://www.govinfo.gov/link/statute/92/2109).)*

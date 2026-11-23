@@ -3,9 +3,10 @@ title: "Section 496 - Consideration of expansion of nuclear forces of other coun
 usc_title: 10
 usc_section: "496"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 496"
-generated_at: "2026-03-30T02:53:38.062Z"
+generated_at: "2026-11-23T20:25:50.973Z"
+status: "active"
 ---
 
 # § 496. Consideration of expansion of nuclear forces of other countries
@@ -26,3 +27,13 @@ generated_at: "2026-03-30T02:53:38.062Z"
 - **(c)** In this section, the term “appropriate congressional committees” means the following:
   - **(1)** The congressional defense committees.
   - **(2)** The Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
+
+Report and Certification
+
+Form
+
+Appropriate Congressional Committees Defined
+
+## Source Credit
+
+*(Added [Pub. L. 112–239, div. A, title X, § 1036(a)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1924](https://www.govinfo.gov/link/statute/126/1924); amended [Pub. L. 113–291, div. A, title X, § 1071(c)(10)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3509](https://www.govinfo.gov/link/statute/128/3509).)*

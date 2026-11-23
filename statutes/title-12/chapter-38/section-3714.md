@@ -3,9 +3,10 @@ title: "Section 3714 - Record of foreclosure and sale"
 usc_title: 12
 usc_section: "3714"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 3714"
-generated_at: "2026-03-30T02:53:53.497Z"
+generated_at: "2026-11-23T20:25:59.347Z"
+status: "active"
 ---
 
 # § 3714. Record of foreclosure and sale
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:53.497Z"
   - **(4)** a correct statement of the costs of foreclosure, calculated in accordance with section 3711 of this title ; and
   - **(5)** the name of the successful bidder and the amount of the successful bid.
 - **(b)** The deed executed by the foreclosure commissioner, the foreclosure commissioner’s affidavit and any other instruments submitted for recordation in relation to the foreclosure of the security property under this chapter shall be accepted for recordation by the registrar of deeds or other appropriate official of the county or counties in which the security property is located upon tendering of payment of the usual recording fees for such instruments.
+
+## Source Credit
+
+*([Pub. L. 97–35, title III, § 369F](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 430](https://www.govinfo.gov/link/statute/95/430).)*

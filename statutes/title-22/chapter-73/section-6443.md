@@ -3,9 +3,10 @@ title: "Section 6443 - Consultations"
 usc_title: 22
 usc_section: "6443"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6443"
-generated_at: "2026-03-30T02:55:05.429Z"
+generated_at: "2026-11-23T20:26:32.616Z"
+status: "active"
 ---
 
 # § 6443. Consultations
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.429Z"
   - **(3)** If negotiations are undertaken or an agreement is concluded with a foreign government regarding steps to cease the pattern of violations by that government, and if public disclosure of such negotiations or agreement would jeopardize the negotiations or the implementation of such agreement, as the case may be, the President may refrain from disclosing such negotiations and such agreement to the public, except that the President shall inform the appropriate congressional committees of the nature and extent of such negotiations and any agreement reached.
 - **(c)** The President should consult with appropriate humanitarian and religious organizations concerning the potential impact of United States policies to promote freedom of religion in countries described in subsection (a).
 - **(d)** The President shall, as appropriate, consult with United States interested parties as to the potential impact of intended Presidential action or actions in countries described in subsection (a) on economic or other interests of the United States.
+
+## Source Credit
+
+*([Pub. L. 105–292, title IV, § 403](https://www.govinfo.gov/link/plaw/105/public/292), Oct. 27, 1998, [112 Stat. 2804](https://www.govinfo.gov/link/statute/112/2804).)*

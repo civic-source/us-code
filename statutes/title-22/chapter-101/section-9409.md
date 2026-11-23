@@ -3,9 +3,10 @@ title: "Section 9409 - Report on United States citizens detained by Iran"
 usc_title: 22
 usc_section: "9409"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9409"
-generated_at: "2026-03-30T02:55:05.466Z"
+generated_at: "2026-11-23T20:26:32.771Z"
+status: "active"
 ---
 
 # § 9409. Report on United States citizens detained by Iran
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.466Z"
 - **(c)** In this section, the term “appropriate congressional committees and leadership” means—
   - **(1)** the Committee on Finance, the Committee on Banking, Housing, and Urban Affairs, the Committee on Foreign Relations, and the majority and minority leaders of the Senate; and
   - **(2)** the Committee on Ways and Means, the Committee on Financial Services, the Committee on Foreign Affairs, and the Speaker, the majority leader, and the minority leader of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 115–44, title I, § 110](https://www.govinfo.gov/link/plaw/115/public/44), Aug. 2, 2017, [131 Stat. 896](https://www.govinfo.gov/link/statute/131/896).)*

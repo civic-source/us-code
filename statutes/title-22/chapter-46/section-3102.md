@@ -3,9 +3,10 @@ title: "Section 3102 - Definitions"
 usc_title: 22
 usc_section: "3102"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3102"
-generated_at: "2026-03-30T02:55:05.389Z"
+generated_at: "2026-11-23T20:26:32.442Z"
+status: "active"
 ---
 
 # § 3102. Definitions
@@ -23,3 +24,7 @@ As used in this chapter, the term—
   - **(9)** “international investment” means (A) the ownership or control, directly or indirectly, by contractual commitment or otherwise, by foreign persons of any interest in property in the United States, or of stock, other securities, or short- and long-term debt obligations of a United States person, and (B) the ownership or control, directly or indirectly, by contractual commitment or otherwise, by United States persons of any interest in property outside the United States, or of stock, other securities, or short-and long-term debt obligations of a foreign person;
   - **(10)** “direct investment” means the ownership or control, directly or indirectly, by one person of 10 per centum or more of the voting securities of an incorporated business enterprise or an equivalent interest in an unincorporated business enterprise; and
   - **(11)** “portfolio investment” means any international investment which is not direct investment.
+
+## Source Credit
+
+*([Pub. L. 94–472, § 3](https://www.govinfo.gov/link/plaw/94/public/472), Oct. 11, 1976, [90 Stat. 2060](https://www.govinfo.gov/link/statute/90/2060).)*

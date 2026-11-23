@@ -3,9 +3,10 @@ title: "Section 1436 - Penalties for violations of arrival, reporting, entry, an
 usc_title: 19
 usc_section: "1436"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1436"
-generated_at: "2026-03-30T02:54:24.635Z"
+generated_at: "2026-11-23T20:26:10.760Z"
+status: "active"
 ---
 
 # § 1436. Penalties for violations of arrival, reporting, entry, and clearance requirements
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:24.635Z"
     - **(A)** has repeatedly committed violations of section 1415(a)(3)(K)(vii)(I) of this title ,
     - **(B)** has failed to cooperate with U.S. Customs and Border Protection with respect to violations of section 1415(a)(3)(K)(vii)(I) of this title , and
     - **(C)** has an increasing error rate in compliance with section 1415(a)(3)(K) of this title ,
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 436, [46 Stat. 711](https://www.govinfo.gov/link/statute/46/711); Aug. 5, 1935, ch. 438, title II, § 202, [49 Stat. 521](https://www.govinfo.gov/link/statute/49/521); [Pub. L. 99–570, title III, § 3113(a)](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–81](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 103–182, title VI, § 611](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2170](https://www.govinfo.gov/link/statute/107/2170); [Pub. L. 104–295, § 21(e)(3)](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3530](https://www.govinfo.gov/link/statute/110/3530); [Pub. L. 115–271, title VIII, § 8007](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 4080](https://www.govinfo.gov/link/statute/132/4080).)*

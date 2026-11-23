@@ -3,9 +3,10 @@ title: "Section 2865 - Work in Process Curve charts and outlay tables for milita
 usc_title: 10
 usc_section: "2865"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2865"
-generated_at: "2026-03-30T02:53:38.180Z"
+generated_at: "2026-11-23T20:25:51.743Z"
+status: "active"
 ---
 
 # § 2865. Work in Process Curve charts and outlay tables for military construction projects
@@ -14,3 +15,7 @@ Along with the budget for each fiscal year submitted by the President pursuant t
 
   - **(1)** a Work in Process Curve chart to identify funding, obligations, and outlay figures; and
   - **(2)** a monthly outlay table for funding, obligations, and outlay figures.
+
+## Source Credit
+
+*(Added [Pub. L. 115–232, div. B, title XXVIII, § 2806(a)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2264](https://www.govinfo.gov/link/statute/132/2264).)*

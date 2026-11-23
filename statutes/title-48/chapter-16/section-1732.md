@@ -3,9 +3,10 @@ title: "Section 1732 - Election of delegates"
 usc_title: 48
 usc_section: "1732"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1732"
-generated_at: "2026-03-30T02:56:14.592Z"
+generated_at: "2026-11-23T20:27:28.068Z"
+status: "active"
 ---
 
 # § 1732. Election of delegates
@@ -14,3 +15,9 @@ generated_at: "2026-03-30T02:56:14.592Z"
 - **(b)** The term of the Delegate shall commence on the third day of January following the date of the election.
 - **(c)** The legislature of American Samoa may, but is not required to, provide for primary elections for the election of Delegate.
 - **(d)** Notwithstanding subsection (a), if the legislature of American Samoa provides for primary elections for the election of Delegate, the Delegate shall be elected by a majority of votes cast in any subsequent general election for the office of Delegate for which such primary elections were held.
+
+“Congress finds the following:
+
+## Source Credit
+
+*([Pub. L. 95–556, § 2](https://www.govinfo.gov/link/plaw/95/public/556), Oct. 31, 1978, [92 Stat. 2078](https://www.govinfo.gov/link/statute/92/2078); [Pub. L. 108–376, § 2](https://www.govinfo.gov/link/plaw/108/public/376), Oct. 30, 2004, [118 Stat. 2200](https://www.govinfo.gov/link/statute/118/2200).)*

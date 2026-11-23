@@ -3,9 +3,10 @@ title: "Section 4346 - Personnel dedicated to the enforcement of intellectual pr
 usc_title: 19
 usc_section: "4346"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 4346"
-generated_at: "2026-03-30T02:54:24.707Z"
+generated_at: "2026-11-23T20:26:11.138Z"
+status: "active"
 ---
 
 # § 4346. Personnel dedicated to the enforcement of intellectual property rights
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:24.707Z"
 - **(b)** The Commissioner shall—
   - **(1)** assign not fewer than 3 full-time employees of U.S. Customs and Border Protection to the National Intellectual Property Rights Coordination Center established under section 4344 of this title ; and
   - **(2)** ensure that sufficient personnel are assigned to United States ports of entry to carry out the directives of the Center.
+
+## Source Credit
+
+*([Pub. L. 114–125, title III, § 307](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 152](https://www.govinfo.gov/link/statute/130/152).)*

@@ -3,9 +3,10 @@ title: "Section 9 - Enforcement of subchapter"
 usc_title: 15
 usc_section: "9"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 9"
-generated_at: "2026-03-30T02:54:08.072Z"
+generated_at: "2026-11-23T20:26:03.643Z"
+status: "active"
 ---
 
 # § 80b–9. Enforcement of subchapter
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:08.072Z"
     - **(D)** For purposes of section 80b–14 of this title , actions under this paragraph shall be actions to enforce a liability or a duty created by this subchapter.
   - **(4)** In an action to enforce a cease-and-desist order entered by the Commission pursuant to section 80b–3(k) of this title , each separate violation of such order shall be a separate offense, except that in the case of a violation through a continuing failure to comply with the order, each day of the failure to comply shall be deemed a separate offense.
 - **(f)** For purposes of any action brought by the Commission under subsection (e), any person that knowingly or recklessly has aided, abetted, counseled, commanded, induced, or procured a violation of any provision of this subchapter, or of any rule, regulation, or order hereunder, shall be deemed to be in violation of such provision, rule, regulation, or order to the same extent as the person that committed such violation.
+
+## Source Credit
+
+*(Aug. 22, 1940, ch. 686, title II, § 209, [54 Stat. 853](https://www.govinfo.gov/link/statute/54/853); [Pub. L. 86–750, § 12](https://www.govinfo.gov/link/plaw/86/public/750), Sept. 13, 1960, [74 Stat. 887](https://www.govinfo.gov/link/statute/74/887); [Pub. L. 91–452, title II, § 216](https://www.govinfo.gov/link/plaw/91/public/452), Oct. 15, 1970, [84 Stat. 929](https://www.govinfo.gov/link/statute/84/929); [Pub. L. 100–181, title VII, § 704](https://www.govinfo.gov/link/plaw/100/public/181), Dec. 4, 1987, [101 Stat. 1264](https://www.govinfo.gov/link/statute/101/1264); [Pub. L. 101–429, title IV, § 402](https://www.govinfo.gov/link/plaw/101/public/429), Oct. 15, 1990, [104 Stat. 949](https://www.govinfo.gov/link/statute/104/949); [Pub. L. 107–204, title III, § 308(d)(5)](https://www.govinfo.gov/link/plaw/107/public/204), July 30, 2002, [116 Stat. 785](https://www.govinfo.gov/link/statute/116/785); [Pub. L. 111–203, title IX](https://www.govinfo.gov/link/plaw/111/public/203), §§ 923(a)(3), 929N, July 21, 2010, [124 Stat. 1849](https://www.govinfo.gov/link/statute/124/1849), 1862.)*

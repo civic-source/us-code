@@ -3,9 +3,10 @@ title: "Section 362 - Prohibition on use of funds for assistance to units of for
 usc_title: 10
 usc_section: "362"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 362"
-generated_at: "2026-03-30T02:53:38.054Z"
+generated_at: "2026-11-23T20:25:50.923Z"
+status: "active"
 ---
 
 # § 362. Prohibition on use of funds for assistance to units of foreign security forces that have committed a gross violation of human rights
@@ -23,3 +24,41 @@ generated_at: "2026-03-30T02:53:38.054Z"
     - **(B)** the extraordinary circumstances that necessitate the waiver;
     - **(C)** the purpose and duration of the training, equipment, or other assistance; and
     - **(D)** the United States forces and the foreign security force unit involved.
+
+In General
+
+Exception
+
+Waiver
+
+Procedures
+
+Report
+
+In General
+
+Matters to Be Included
+
+Form
+
+Integration of Human Rights and Civilian Protection Into Assessment, Monitoring, and Evaluation of Security Cooperation Programs and Activities.—
+
+Reports required
+
+Deadlines.—
+
+Interim report
+
+Final report
+
+Appropriate congressional committees defined
+
+In general
+
+Form
+
+Appropriate committees of congress defined
+
+## Source Credit
+
+*(Added [Pub. L. 113–291, div. A, title XII, § 1204(a)(1)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3531](https://www.govinfo.gov/link/statute/128/3531), § 2249e; renumbered § 362 and amended [Pub. L. 114–328, div. A, title XII, § 1241](https://www.govinfo.gov/link/plaw/114/public/328) (l), Dec. 23, 2016, [130 Stat. 2509](https://www.govinfo.gov/link/statute/130/2509).)*

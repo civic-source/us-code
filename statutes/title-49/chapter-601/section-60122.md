@@ -3,9 +3,10 @@ title: "Section 60122 - Civil penalties"
 usc_title: 49
 usc_section: "60122"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 60122"
-generated_at: "2026-03-30T02:56:19.415Z"
+generated_at: "2026-11-23T20:27:35.418Z"
+status: "active"
 ---
 
 # § 60122. Civil penalties
@@ -29,3 +30,106 @@ generated_at: "2026-03-30T02:56:19.415Z"
 - **(d)** The Government may deduct the amount of a civil penalty imposed or compromised under this section from amounts it owes the person liable for the penalty.
 - **(e)** Amounts collected under this section shall be deposited in the Treasury as miscellaneous receipts.
 - **(f)** Separate penalties for violating a regulation prescribed under this chapter and for violating an order under section 60112 or 60118(b) of this title may not be imposed under this chapter if both violations are based on the same act.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 60122(a)(1) | 49 App.:1679a(a)(1), (3) (1st sentence). | Aug. 12, 1968 , Pub. L. 90–481 , 82 Stat. 720 , § 11(a); added Nov. 30, 1979 , Pub. L. 96–129 , §§ 104(b), 154, 93 Stat. 992 , 1002; Oct. 31, 1988 , Pub. L. 100–561, § 106 , 102 Stat. 2807 ; Oct. 24, 1992 , Pub. L. 102–508 , §§ 112(a), 304(b), 106 Stat. 3295 , 3308. |
+|  | 49 App.:2007(a)(1), (2) (1st sentence). | Nov. 30, 1979 , Pub. L. 96–129, § 208(a) , (b), (d), 93 Stat. 1009 , 1010; Oct. 31, 1988 , Pub. L. 100–561, § 205 , 102 Stat. 2811 ; Oct. 24, 1992 , Pub. L. 102–508, § 211(a) , 106 Stat. 3304 . |
+| 60122(a)(2) | 49 App.:1679a(a)(2). |  |
+| 60122(b) | 49 App.:1679a(a)(3) (last sentence). |  |
+|  | 49 App.:2007(a)(2) (last sentence). |  |
+| 60122(c) | 49 App.:1679a(b) (1st sentence). | Aug. 12, 1968 , Pub. L. 90–481 , 82 Stat. 720 , § 11(b), (d); added Nov. 30, 1979 , Pub. L. 96–129, § 104(b) , 93 Stat. 992 , 993. |
+|  | 49 App.:2007(b) (1st sentence). |  |
+| 60122(d) | 49 App.:1679a(b) (2d sentence). |  |
+|  | 49 App.:2007(b) (2d sentence). |  |
+| 60122(e) | 49 App.:1679a(b) (last sentence). |  |
+|  | 49 App.:2007(b) (last sentence). |  |
+| 60122(f) | 49 App.:1679a(d). |  |
+|  | 49 App.:2007(d). |  |
+
+
+General Penalties
+
+Penalty Considerations
+
+Collection and Compromise
+
+Setoff
+
+Deposit in Treasury
+
+Prohibition on Multiple Penalties for Same Act
+
+Historical and Revision Notes
+
+60122(a)(1)
+
+Aug. 12, 1968
+
+Pub. L. 90–481
+
+82 Stat. 720
+
+Nov. 30, 1979
+
+Pub. L. 96–129
+
+93 Stat. 992
+
+Oct. 31, 1988
+
+Pub. L. 100–561, § 106
+
+102 Stat. 2807
+
+Oct. 24, 1992
+
+Pub. L. 102–508
+
+106 Stat. 3295
+
+Nov. 30, 1979
+
+Pub. L. 96–129, § 208(a)
+
+93 Stat. 1009
+
+Oct. 31, 1988
+
+Pub. L. 100–561, § 205
+
+102 Stat. 2811
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 211(a)
+
+106 Stat. 3304
+
+60122(a)(2)
+
+60122(b)
+
+60122(c)
+
+Aug. 12, 1968
+
+Pub. L. 90–481
+
+82 Stat. 720
+
+Nov. 30, 1979
+
+Pub. L. 96–129, § 104(b)
+
+93 Stat. 992
+
+60122(d)
+
+60122(e)
+
+60122(f)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1325](https://www.govinfo.gov/link/statute/108/1325); [Pub. L. 107–355](https://www.govinfo.gov/link/plaw/107/public/355), §§ 6(b), 8(b)(1), (2), 21(3), Dec. 17, 2002, [116 Stat. 2992](https://www.govinfo.gov/link/statute/116/2992), 2993, 3010; [Pub. L. 109–468, § 2(a)(2)](https://www.govinfo.gov/link/plaw/109/public/468), Dec. 29, 2006, [120 Stat. 3487](https://www.govinfo.gov/link/statute/120/3487); [Pub. L. 112–90, § 2(a)](https://www.govinfo.gov/link/plaw/112/public/90), Jan. 3, 2012, [125 Stat. 1905](https://www.govinfo.gov/link/statute/125/1905); [Pub. L. 116–260, div. R, title I, § 107](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2221](https://www.govinfo.gov/link/statute/134/2221).)*

@@ -3,9 +3,10 @@ title: "Section 1492 - Authority to provide travel and transportation allowances
 usc_title: 10
 usc_section: "1492"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1492"
-generated_at: "2026-03-30T02:53:38.126Z"
+generated_at: "2026-11-23T20:25:51.358Z"
+status: "active"
 ---
 
 # § 1492. Authority to provide travel and transportation allowances in connection with transfer ceremonies of certain civilian employees who die overseas
@@ -22,3 +23,11 @@ generated_at: "2026-03-30T02:53:38.126Z"
     - **(A)** the primary next of kin of the covered employee;
     - **(B)** two family members (other than primary next of kin) of the covered employee; and
     - **(C)** one or more additional family members of the covered employee, at the discretion of the Secretary a sibling of the covered employee.
+
+Authority
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. A, title XI, § 1104(a)(1)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3889](https://www.govinfo.gov/link/statute/134/3889).)*

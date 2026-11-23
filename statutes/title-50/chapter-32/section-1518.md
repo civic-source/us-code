@@ -3,12 +3,17 @@ title: "Section 1518 - Disposal; detoxification; report to Congress; emergencies
 usc_title: 50
 usc_section: "1518"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 1518"
-generated_at: "2026-03-30T02:56:26.205Z"
+generated_at: "2026-11-23T20:27:30.734Z"
+status: "active"
 ---
 
 # § 1518. Disposal; detoxification; report to Congress; emergencies
 
 On and after October 7, 1970 , no chemical or biological warfare agent shall be disposed of within or outside the United States unless such agent has been detoxified or made harmless to man and his environment unless immediate disposal is clearly necessary, in an emergency, to safeguard human life. An immediate report should be made to Congress in the event of such disposal.
 
+
+## Source Credit
+
+*([Pub. L. 91–441, title V, § 506(d)](https://www.govinfo.gov/link/plaw/91/public/441), Oct. 7, 1970, [84 Stat. 913](https://www.govinfo.gov/link/statute/84/913).)*

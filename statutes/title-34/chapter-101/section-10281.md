@@ -3,9 +3,10 @@ title: "Section 10281 - Payment of death benefits"
 usc_title: 34
 usc_section: "10281"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10281"
-generated_at: "2026-03-30T02:55:33.265Z"
+generated_at: "2026-11-23T20:26:50.449Z"
+status: "active"
 ---
 
 # § 10281. Payment of death benefits
@@ -133,3 +134,55 @@ generated_at: "2026-03-30T02:55:33.265Z"
         - **(I)** Not later than 180 days after receipt of a petition satisfying clause (ii), the Director shall refer the petition to appropriate medical experts for review, analysis (including risk assessment and scientific study), and recommendation.
         - **(II)** The Director shall consider each recommendation under subclause (I) and promptly take appropriate action in connection with the recommendation pursuant to subparagraph (B).
       - **(iv)** Not later than 30 days after taking any substantive action in connection with a recommendation under clause (iii)(II), the Director shall notify the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives of the substantive action.
+
+In general
+
+Exceptions
+
+In general
+
+Exceptions
+
+In General
+
+Applicability.—
+
+Certain injuries
+
+Matters pending
+
+Effective Date for WTC Responders.—
+
+Certain new claims
+
+Claims for a deceased wtc responder
+
+Difference in benefit pay
+
+Special limited rule of construction
+
+Applicability
+
+Time for filing claim
+
+In general
+
+Time for filing claim
+
+“Congress finds the following:
+
+Sense of Congress
+
+Purpose
+
+Death Benefits
+
+Disability Benefits
+
+Termination Date
+
+Definition
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 1201](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 98–473, title II, § 609F](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2098](https://www.govinfo.gov/link/statute/98/2098); amended [Pub. L. 100–690, title VI, § 6105(a)](https://www.govinfo.gov/link/plaw/100/public/690) –(c), Nov. 18, 1988, [102 Stat. 4341](https://www.govinfo.gov/link/statute/102/4341); [Pub. L. 101–647, title XIII, § 1301(a)](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4834](https://www.govinfo.gov/link/statute/104/4834); [Pub. L. 102–520, § 1](https://www.govinfo.gov/link/plaw/102/public/520), Oct. 25, 1992, [106 Stat. 3402](https://www.govinfo.gov/link/statute/106/3402); [Pub. L. 103–322, title XXXIII, § 330001(e)(1)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2138](https://www.govinfo.gov/link/statute/108/2138); [Pub. L. 107–56, title VI, § 613(a)](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 369](https://www.govinfo.gov/link/statute/115/369); [Pub. L. 107–196, § 2(b)](https://www.govinfo.gov/link/plaw/107/public/196), June 24, 2002, [116 Stat. 719](https://www.govinfo.gov/link/statute/116/719); [Pub. L. 108–182, § 2](https://www.govinfo.gov/link/plaw/108/public/182), Dec. 15, 2003, [117 Stat. 2649](https://www.govinfo.gov/link/statute/117/2649); [Pub. L. 109–162, title XI, § 1164(c)](https://www.govinfo.gov/link/plaw/109/public/162) –(e), Jan. 5, 2006, [119 Stat. 3120](https://www.govinfo.gov/link/statute/119/3120), 3121; [Pub. L. 112–239, div. A, title X, § 1086(b)(1)(B)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1964](https://www.govinfo.gov/link/statute/126/1964); [Pub. L. 117–61, § 2](https://www.govinfo.gov/link/plaw/117/public/61), Nov. 18, 2021, [135 Stat. 1474](https://www.govinfo.gov/link/statute/135/1474); [Pub. L. 117–172, § 3(a)](https://www.govinfo.gov/link/plaw/117/public/172), Aug. 16, 2022, [136 Stat. 2099](https://www.govinfo.gov/link/statute/136/2099); [Pub. L. 119–60, div. H, title LXXXII](https://www.govinfo.gov/link/plaw/119/public/60), §§ 8204(a), 8205(a)(1), (c)(1), Dec. 18, 2025, [139 Stat. 1846](https://www.govinfo.gov/link/statute/139/1846), 1849.)*

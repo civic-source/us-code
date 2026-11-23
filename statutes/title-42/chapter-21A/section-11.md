@@ -3,9 +3,10 @@ title: "Section 11 - Guidelines for Federal officers and employees"
 usc_title: 42
 usc_section: "11"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11"
-generated_at: "2026-03-30T02:56:11.140Z"
+generated_at: "2026-11-23T20:27:22.026Z"
+status: "active"
 ---
 
 # § 2000aa–11. Guidelines for Federal officers and employees
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.140Z"
   - **(3)** a recognition of special concern for privacy interests in cases in which a search or seizure for such documents would intrude upon a known confidential relationship such as that which may exist between clergyman and parishioner; lawyer and client; or doctor and patient; and
   - **(4)** a requirement that an application for a warrant to conduct a search governed by this subchapter be approved by an attorney for the government, except that in an emergency situation the application may be approved by another appropriate supervisory official if within 24 hours of such emergency the appropriate United States Attorney is notified.
 - **(b)** The Attorney General shall collect and compile information on, and report annually to the Committees on the Judiciary of the Senate and the House of Representatives on the use of search warrants by Federal officers and employees for documentary materials described in subsection (a)(3).
+
+## Source Credit
+
+*([Pub. L. 96–440, title II, § 201](https://www.govinfo.gov/link/plaw/96/public/440), Oct. 13, 1980, [94 Stat. 1882](https://www.govinfo.gov/link/statute/94/1882).)*

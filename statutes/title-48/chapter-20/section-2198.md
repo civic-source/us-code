@@ -3,9 +3,10 @@ title: "Section 2198 - Report on territorial debt"
 usc_title: 48
 usc_section: "2198"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 2198"
-generated_at: "2026-03-30T02:56:14.605Z"
+generated_at: "2026-11-23T20:27:28.207Z"
+status: "active"
 ---
 
 # § 2198. Report on territorial debt
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:14.605Z"
   - **(4)** the effect of Federal laws, mandates, rules, and regulations on each territory’s public debt; and
   - **(5)** the ability of each territory to repay it’s 1 1 So in original. Probably should be “its”. public debt.
 - **(b)** The government of each territory shall make available to the Comptroller General of the United States all materials necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 114–187, title IV, § 411](https://www.govinfo.gov/link/plaw/114/public/187), June 30, 2016, [130 Stat. 594](https://www.govinfo.gov/link/statute/130/594).)*

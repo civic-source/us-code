@@ -3,9 +3,10 @@ title: "Section 118 - Air ambulance report requirements"
 usc_title: 42
 usc_section: "118"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 118"
-generated_at: "2026-03-30T02:56:10.839Z"
+generated_at: "2026-11-23T20:27:20.675Z"
+status: "active"
 ---
 
 # § 300gg–118. Air ambulance report requirements
@@ -21,3 +22,63 @@ generated_at: "2026-03-30T02:56:10.839Z"
     - **(D)** The type of aircraft (such as rotor transport or fixed wing transport) used to furnish such services.
     - **(E)** Whether the provider of such services has a contract with the plan or issuer, as applicable, to furnish such services under the plan or coverage, respectively.
   - **(2)** Such other information regarding providers of air ambulance services as the Secretary may specify.
+
+Reporting Requirements for Providers of Air Ambulance Services.—
+
+In general
+
+Information described
+
+Reporting Requirements for Group Health Plans and Health Insurance Issuers.—
+
+PHSA
+
+ERISA.—
+
+In general
+
+Clerical amendment
+
+IRC.—
+
+In general
+
+Clerical amendment
+
+Publication of Comprehensive Report.—
+
+In general
+
+Other sources of information
+
+Protection of proprietary information
+
+Rulemaking
+
+Civil Money Penalties.—
+
+In general
+
+Exception
+
+Procedure
+
+Unfair and Deceptive Practices and Unfair Methods of Competition
+
+Advisory Committee on Air Ambulance Quality and Patient Safety.—
+
+Establishment
+
+Membership
+
+First meeting
+
+Duties
+
+Report
+
+Definitions
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXVII, § 2799A–8, as added [Pub. L. 116–260, div. BB, title I, § 106(b)(1)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2852](https://www.govinfo.gov/link/statute/134/2852).)*

@@ -3,9 +3,10 @@ title: "Section 12773 - Housing education and organizational support"
 usc_title: 42
 usc_section: "12773"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12773"
-generated_at: "2026-03-30T02:56:11.432Z"
+generated_at: "2026-11-23T20:27:23.439Z"
+status: "active"
 ---
 
 # § 12773. Housing education and organizational support
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:56:11.432Z"
   - **(5)** whose board of directors—
     - **(A)** includes a majority of members who are elected by the corporate membership; and
     - **(B)** is composed of equal numbers of (i) lessees pursuant to paragraph (3)(B), (ii) corporate members who are not lessees, and (iii) any other category of persons described in the bylaws of the organization.
+
+## Source Credit
+
+*([Pub. L. 101–625, title II, § 233](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4116](https://www.govinfo.gov/link/statute/104/4116); [Pub. L. 102–550, title II, § 213](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3757](https://www.govinfo.gov/link/statute/106/3757); [Pub. L. 111–8, div. I, title II, § 229(1)](https://www.govinfo.gov/link/plaw/111/public/8), (2), Mar. 11, 2009, [123 Stat. 978](https://www.govinfo.gov/link/statute/123/978).)*

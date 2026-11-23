@@ -3,9 +3,10 @@ title: "Section 724 - Treatment of certain liens"
 usc_title: 11
 usc_section: "724"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 724"
-generated_at: "2026-03-30T02:53:53.881Z"
+generated_at: "2026-11-23T20:25:55.382Z"
+status: "active"
 ---
 
 # § 724. Treatment of certain liens
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:53.881Z"
 - **(f)** Notwithstanding the exclusion of ad valorem tax liens under this section and subject to the requirements of subsection (e), the following may be paid from property of the estate which secures a tax lien, or the proceeds of such property:
   - **(1)** Claims for wages, salaries, and commissions that are entitled to priority under section 507(a)(4).
   - **(2)** Claims for contributions to an employee benefit plan entitled to priority under section 507(a)(5).
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2607](https://www.govinfo.gov/link/statute/92/2607); [Pub. L. 98–353, title III, § 477](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 381](https://www.govinfo.gov/link/statute/98/381); [Pub. L. 99–554, title II, § 283(r)](https://www.govinfo.gov/link/plaw/99/public/554), Oct. 27, 1986, [100 Stat. 3118](https://www.govinfo.gov/link/statute/100/3118); [Pub. L. 103–394, title III, § 304(h)(4)](https://www.govinfo.gov/link/plaw/103/public/394), title V, § 501(d)(23), Oct. 22, 1994, [108 Stat. 4134](https://www.govinfo.gov/link/statute/108/4134), 4146; [Pub. L. 109–8, title VII, § 701(a)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 124](https://www.govinfo.gov/link/statute/119/124); [Pub. L. 111–327, § 2(a)(27)](https://www.govinfo.gov/link/plaw/111/public/327), Dec. 22, 2010, [124 Stat. 3560](https://www.govinfo.gov/link/statute/124/3560).)*

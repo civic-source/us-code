@@ -3,9 +3,10 @@ title: "Section 4054 - Former spouses"
 usc_title: 22
 usc_section: "4054"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4054"
-generated_at: "2026-03-30T02:55:05.403Z"
+generated_at: "2026-11-23T20:26:32.505Z"
+status: "active"
 ---
 
 # § 4054. Former spouses
@@ -56,3 +57,13 @@ generated_at: "2026-03-30T02:55:05.403Z"
     - **(D)** Under regulations prescribed by the Secretary of State, an annuity shall be recomputed (or salary allotment terminated or adjusted), and a refund provided (if appropriate), in a manner comparable to that provided under subparagraph (C), in order to reflect a termination or reduction of future benefits under this subsection for a spouse in the event a former spouse of the participant dies or remarries before attaining age 60 and an increased annuity is provided for that spouse in accordance with this part.
   - **(4)** An annuity payable under this subsection to a spouse or former spouse shall commence on the day after the participant dies and shall terminate on the last day of the month before the former spouse’s death or remarriage before attaining age 60.
   - **(5)** Section 4066 of this title shall not apply to any annuity under this subsection, unless authorized under regulations prescribed by the Secretary of State.
+
+In General
+
+Exceptions.—
+
+Definitions
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 814](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2113](https://www.govinfo.gov/link/statute/94/2113); [Pub. L. 97–241, title I, § 125(2)](https://www.govinfo.gov/link/plaw/97/public/241), Aug. 24, 1982, [96 Stat. 282](https://www.govinfo.gov/link/statute/96/282); [Pub. L. 99–335, title IV](https://www.govinfo.gov/link/plaw/99/public/335), §§ 402(a)(2), (3), 404(b), June 6, 1986, [100 Stat. 609](https://www.govinfo.gov/link/statute/100/609), 610; [Pub. L. 100–238, title II, § 217(a)](https://www.govinfo.gov/link/plaw/100/public/238), (b), (c)(2), Jan. 8, 1988, [101 Stat. 1775](https://www.govinfo.gov/link/statute/101/1775).)*

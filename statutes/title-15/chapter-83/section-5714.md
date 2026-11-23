@@ -3,9 +3,10 @@ title: "Section 5714 - Definitions"
 usc_title: 15
 usc_section: "5714"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 5714"
-generated_at: "2026-03-30T02:54:08.208Z"
+generated_at: "2026-11-23T20:26:04.379Z"
+status: "active"
 ---
 
 # § 5714. Definitions
@@ -16,3 +17,7 @@ For purposes of this subchapter:
   - **(2)** The term “attorney general” means the chief legal officer of a State.
   - **(3)** The term “State” means any State of the United States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, and any territory or possession of the United States.
   - **(4)** The term “Commission” means the Federal Trade Commission.
+
+## Source Credit
+
+*([Pub. L. 102–556, title II, § 204](https://www.govinfo.gov/link/plaw/102/public/556), Oct. 28, 1992, [106 Stat. 4191](https://www.govinfo.gov/link/statute/106/4191); [Pub. L. 104–104, title VII, § 701(b)(1)](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 147](https://www.govinfo.gov/link/statute/110/147).)*

@@ -3,9 +3,10 @@ title: "Section 4106 - Reports to Congress"
 usc_title: 16
 usc_section: "4106"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 4106"
-generated_at: "2026-03-30T02:54:23.041Z"
+generated_at: "2026-11-23T20:26:20.734Z"
+status: "active"
 ---
 
 # § 4106. Reports to Congress
@@ -16,3 +17,7 @@ After consultation with the States receiving funds under this chapter and with a
   - **(2)** a specification of the total amount of funds from the Federal Government and the total amount of funds from each State spent on each project and a law enforcement effort receiving funds under this chapter during the last 2 fiscal years ending before such report is submitted;
   - **(3)** an assessment of each project and law enforcement effort receiving funds under this chapter during the last 2 fiscal years ending before such report is submitted to determine whether such project is furthering the purposes of this chapter; and
   - **(4)** a statement specifying all funds which have been apportioned pursuant to section 4104(a) of this title and are available for obligation by a State or the Secretary but which have not been obligated.
+
+## Source Credit
+
+*([Pub. L. 99–659, title III, § 307](https://www.govinfo.gov/link/plaw/99/public/659), Nov. 14, 1986, [100 Stat. 3735](https://www.govinfo.gov/link/statute/100/3735).)*

@@ -3,9 +3,10 @@ title: "Section 8435 - Protections for spouses and former spouses"
 usc_title: 5
 usc_section: "8435"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8435"
-generated_at: "2026-03-30T02:52:56.058Z"
+generated_at: "2026-11-23T20:25:32.206Z"
+status: "active"
 ---
 
 # § 8435. Protections for spouses and former spouses
@@ -53,3 +54,7 @@ generated_at: "2026-03-30T02:52:56.058Z"
 - **(f)** Waivers and notifications required by this section and waivers of the requirements for such waivers and notifications (as authorized by this section) may be made only in accordance with procedures prescribed by the Executive Director.
 - **(g)** Except with respect to the making of loans or withdrawals under section 8433(g) and (h), none of the provisions of this section requiring notification to, or the consent or waiver of, a spouse or former spouse of an employee, Member, former employee, or former Member shall apply in any case in which the nonforfeitable account balance of the employee, Member, former employee, or former Member is $3,500 or less.
 - **(h)** The protections provided by this section are in addition to the protections provided by section 8467 of this title .
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 547](https://www.govinfo.gov/link/statute/100/547); amended [Pub. L. 101–335](https://www.govinfo.gov/link/plaw/101/public/335), §§ 5(c), 6(a)(3), July 17, 1990, [104 Stat. 322](https://www.govinfo.gov/link/statute/104/322), 323; [Pub. L. 102–484, div. D, title XLIV, § 4437(b)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2724](https://www.govinfo.gov/link/statute/106/2724); [Pub. L. 103–226, § 9(d)](https://www.govinfo.gov/link/plaw/103/public/226), (i)(9)–(15), Mar. 30, 1994, [108 Stat. 120](https://www.govinfo.gov/link/statute/108/120), 122; [Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 659 [title II, § 204]](https://www.govinfo.gov/link/plaw/104/public/208) ], Sept. 30, 1996, [110 Stat. 3009–314](https://www.govinfo.gov/link/statute/110/3009), 3009–372, 3009–376.)*

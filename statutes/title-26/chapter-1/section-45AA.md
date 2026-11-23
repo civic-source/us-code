@@ -3,9 +3,10 @@ title: "Section 45AA - Military spouse retirement plan eligibility credit for sm
 usc_title: 26
 usc_section: "45AA"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 45AA"
-generated_at: "2026-03-30T02:55:27.607Z"
+generated_at: "2026-11-23T20:26:45.237Z"
+status: "active"
 ---
 
 # § 45AA. Military spouse retirement plan eligibility credit for small employers
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:27.607Z"
     - **(A)** are immediately eligible to receive an amount of employer contributions under such plan which is not less the amount of such contributions that a similarly situated participant who is not a military spouse would be eligible to receive under such plan after 2 years of service, and
     - **(B)** immediately have a nonforfeitable right to the employee’s accrued benefit derived from employer contributions under such plan.
 - **(f)** All persons treated as a single employer under subsection (b), (c), (m), or ( o ) of section 414 shall be treated as one employer for purposes of this section.
+
+## Source Credit
+
+*(Added [Pub. L. 117–328, div. T, title I, § 112(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5294](https://www.govinfo.gov/link/statute/136/5294).)*

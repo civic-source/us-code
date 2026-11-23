@@ -3,9 +3,10 @@ title: "Section 280 - Enhancement of cooperation with civilian law enforcement o
 usc_title: 10
 usc_section: "280"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 280"
-generated_at: "2026-03-30T02:53:38.049Z"
+generated_at: "2026-11-23T20:25:50.902Z"
+status: "active"
 ---
 
 # § 280. Enhancement of cooperation with civilian law enforcement officials
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:38.049Z"
 - **(c)** The Attorney General and the Administrator of General Services shall—
   - **(1)** establish or designate an appropriate office or offices to maintain the list described in subsection (b)(3) and to furnish information to civilian law enforcement officials on the availability of surplus military equipment; and
   - **(2)** make available to civilian law enforcement personnel nationwide, tollfree telephone communication with such office or offices.
+
+## Source Credit
+
+*(Added [Pub. L. 100–180, div. A, title XII, § 1243(a)](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1163](https://www.govinfo.gov/link/statute/101/1163), § 380; amended [Pub. L. 100–456, div. A, title XI, § 1104(a)](https://www.govinfo.gov/link/plaw/100/public/456), Sept. 29, 1988, [102 Stat. 2046](https://www.govinfo.gov/link/statute/102/2046); renumbered § 280, [Pub. L. 114–328, div. A, title XII, § 1241(a)(2)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2497](https://www.govinfo.gov/link/statute/130/2497).)*

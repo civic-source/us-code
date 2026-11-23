@@ -3,9 +3,10 @@ title: "Section 2004 - Continuing appraisal of soil, water, and related resource
 usc_title: 16
 usc_section: "2004"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 2004"
-generated_at: "2026-03-30T02:54:22.996Z"
+generated_at: "2026-11-23T20:26:20.587Z"
+status: "active"
 ---
 
 # § 2004. Continuing appraisal of soil, water, and related resources
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:22.996Z"
 - **(c)** The appraisal shall be made in cooperation with conservation districts, State and tribal soil and water conservation agencies, and other appropriate citizen groups, and local, tribal, and State agencies under such procedures as the Secretary may prescribe to insure public participation.
 - **(d)** In conducting the appraisal described in subsection (a), the Secretary shall concurrently solicit and evaluate recommendations for improving the appraisal, including the content, scope, process, participation in, and other elements of the appraisal, as determined by the Secretary.
 - **(e)** The Secretary shall conduct comprehensive appraisals under this section, to be completed by December 31, 2010 , December 31, 2015 , and December 31, 2022 . The Secretary may make such additional interim appraisals as the Secretary considers appropriate.
+
+## Source Credit
+
+*([Pub. L. 95–192, § 5](https://www.govinfo.gov/link/plaw/95/public/192), Nov. 18, 1977, [91 Stat. 1408](https://www.govinfo.gov/link/statute/91/1408); [Pub. L. 99–198, title XII, § 1252(a)](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1516](https://www.govinfo.gov/link/statute/99/1516); [Pub. L. 110–234, title II, § 2804(b)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1086](https://www.govinfo.gov/link/statute/122/1086); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title II, § 2804(b), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1814; [Pub. L. 113–79, title II, § 2508(b)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 756](https://www.govinfo.gov/link/statute/128/756); [Pub. L. 115–334, title II, § 2402(1)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4570](https://www.govinfo.gov/link/statute/132/4570).)*

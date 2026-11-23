@@ -3,9 +3,10 @@ title: "Section 5342 - High-risk money laundering and related financial crime ar
 usc_title: 31
 usc_section: "5342"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 5342"
-generated_at: "2026-03-30T02:55:34.071Z"
+generated_at: "2026-11-23T20:26:51.885Z"
+status: "active"
 ---
 
 # § 5342. High-risk money laundering and related financial crime areas
@@ -43,3 +44,25 @@ generated_at: "2026-03-30T02:55:34.071Z"
   - **(14)** Unusual patterns, anomalies, or changes in the volume or nature of transactions conducted through financial institutions operating within or outside the United States.
   - **(15)** The extent to which State and local governments and State and local law enforcement agencies have committed resources to respond to the financial crime problem in the area and the degree to which the commitment of such resources reflects a determination by such government and agencies to address the problem aggressively.
   - **(16)** The extent to which a significant increase in the allocation of Federal resources to combat financial crimes in such area is necessary to provide an adequate State and local response to financial crimes and financial crime-related activities in such area.
+
+Findings and Purpose.—
+
+Findings
+
+Purpose and objective
+
+Element of National Strategy
+
+Designation of Areas.—
+
+Designation by secretary
+
+Case-by-case determination in consultation with the attorney general
+
+Specific initiatives
+
+Factors
+
+## Source Credit
+
+*(Added [Pub. L. 105–310, § 2(a)](https://www.govinfo.gov/link/plaw/105/public/310), Oct. 30, 1998, [112 Stat. 2944](https://www.govinfo.gov/link/statute/112/2944).)*

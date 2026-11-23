@@ -3,10 +3,15 @@ title: "Section 185 - Repealed. Pub. L. 99–514, title II, § 242(a) , Oct. 22,
 usc_title: 26
 usc_section: "185"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 185"
-generated_at: "2026-03-30T02:55:27.649Z"
+generated_at: "2026-11-23T20:26:45.493Z"
+status: "repealed"
 ---
 
 # [§ 185. Repealed. Pub. L. 99–514, title II, § 242(a) , Oct. 22, 1986 , 100 Stat. 2181 ]
 
+
+In general
+
+Transitional rule

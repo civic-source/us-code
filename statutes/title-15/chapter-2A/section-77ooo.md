@@ -3,9 +3,10 @@ title: "Section 77ooo - Duties and responsibility of the trustee"
 usc_title: 15
 usc_section: "77ooo"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 77ooo"
-generated_at: "2026-03-30T02:54:08.037Z"
+generated_at: "2026-11-23T20:26:03.460Z"
+status: "active"
 ---
 
 # § 77ooo. Duties and responsibility of the trustee
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:08.037Z"
   - **(2)** such indenture shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to contain provisions protecting the indenture trustee from liability for any error of judgment made in good faith by a responsible officer or officers of such trustee, unless it shall be proved that such trustee was negligent in ascertaining the pertinent facts; and
   - **(3)** such indenture shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to contain provisions protecting the indenture trustee with respect to any action taken or omitted to be taken by it in good faith in accordance with the direction of the holders of not less than a majority in principal amount of the indenture securities at the time outstanding (determined as provided in subsection (a) of section 77ppp of this title ) relating to the time, method, and place of conducting any proceeding for any remedy available to such trustee, or exercising any trust or power conferred upon such trustee, under such indenture.
 - **(e)** The indenture to be qualified shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to contain provisions to the effect that all parties thereto, including the indenture security holders, agree that the court may in its discretion require, in any suit for the enforcement of any right or remedy under such indenture, or in any suit against the trustee for any action taken or omitted by it as trustee, the filing by any party litigant in such suit of an undertaking to pay the costs of such suit, and that such court may in its discretion assess reasonable costs, including reasonable attorney’s fees, against any party litigant in such suit, having due regard to the merits and good faith of the claims or defenses made by such party litigant: Provided , That the provisions of this subsection shall not apply to any suit instituted by such trustee, to any suit instituted by any indenture security holder, or group of indenture security holders, holding in the aggregate more than 10 per centum in principal amount of the indenture securities outstanding, or to any suit instituted by any indenture security holder for the enforcement of the payment of the principal of or interest on any indenture security, on or after the respective due dates expressed in such indenture security.
+
+## Source Credit
+
+*(May 27, 1933, ch. 38, title III, § 315, as added Aug. 3, 1939, ch. 411, [53 Stat. 1171](https://www.govinfo.gov/link/statute/53/1171); amended [Pub. L. 101–550, title IV, § 414](https://www.govinfo.gov/link/plaw/101/public/550), Nov. 15, 1990, [104 Stat. 2730](https://www.govinfo.gov/link/statute/104/2730).)*

@@ -3,9 +3,10 @@ title: "Section 5852 - Availability of funds"
 usc_title: 42
 usc_section: "5852"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5852"
-generated_at: "2026-03-30T02:56:11.239Z"
+generated_at: "2026-11-23T20:27:22.564Z"
+status: "active"
 ---
 
 # § 5852. Availability of funds
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.239Z"
 - **(c)** Moneys received by the Commission for the cooperative nuclear research program, services rendered to State governments, foreign governments, and international organizations, and the material and information access authorization programs, including criminal history checks under section 2169 of this title 1 1 So in original. Probably should be followed by a comma. may be retained and used for salaries and expenses associated with those activities, notwithstanding section 3302 of title 31 , and shall remain available until expended.
 - **(d)** Notwithstanding section 663(c)(2)(D) of Public Law 104–208 , and to facilitate targeted workforce downsizing and restructuring, the Chairman of the Nuclear Regulatory Commission may use funds appropriated in this Act to exercise the authority provided by section 663 of that Act with respect to employees who voluntarily separate from October 7, 1998 , through December 31, 2000 . All of the requirements in section 663 of Public Law 104–208 , except for section 663(c)(2)(D), apply to the exercise of authority under this section.
 - **(e)** Subsections (a), (b), and (c) of this section shall apply to fiscal year 1999 and each succeeding fiscal year.
+
+## Source Credit
+
+*([Pub. L. 105–245, title V, § 506](https://www.govinfo.gov/link/plaw/105/public/245), Oct. 7, 1998, [112 Stat. 1856](https://www.govinfo.gov/link/statute/112/1856).)*

@@ -3,9 +3,10 @@ title: "Section 12581 - Provision of assistance and approved national service po
 usc_title: 42
 usc_section: "12581"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12581"
-generated_at: "2026-03-30T02:56:11.416Z"
+generated_at: "2026-11-23T20:27:23.373Z"
+status: "active"
 ---
 
 # § 12581. Provision of assistance and approved national service positions
@@ -61,3 +62,7 @@ generated_at: "2026-03-30T02:56:11.416Z"
     - **(B)** may adopt other terms and conditions that the Corporation considers necessary or appropriate based on the relative risks (as determined by the Corporation) associated with any application for a fixed-amount grant.
   - **(4)** Limitations on administrative costs and matching fund documentation requirements shall not apply to fixed-amount grants provided in accordance with this subsection.
   - **(5)** Nothing in this subsection shall relieve a grant recipient of the responsibility to comply with the requirements of chapter 75 of title 31 or other requirements of Office of Management and Budget Circular A–133.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 129](https://www.govinfo.gov/link/plaw/101/public/610), as added [Pub. L. 103–82, title I, § 101(b)](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 796](https://www.govinfo.gov/link/statute/107/796); amended [Pub. L. 111–13, title I, § 1306](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1501](https://www.govinfo.gov/link/statute/123/1501).)*

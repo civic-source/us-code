@@ -3,9 +3,10 @@ title: "Section 11131 - Requiring reports on medical malpractice payments"
 usc_title: 42
 usc_section: "11131"
 chapter: 117
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11131"
-generated_at: "2026-03-30T02:56:11.395Z"
+generated_at: "2026-11-23T20:27:23.274Z"
+status: "active"
 ---
 
 # § 11131. Requiring reports on medical malpractice payments
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.395Z"
   - **(5)** such other information as the Secretary determines is required for appropriate interpretation of information reported under this section.
 - **(c)** Any entity that fails to report information on a payment required to be reported under this section shall be subject to a civil money penalty of not more than $10,000 for each such payment involved. Such penalty shall be imposed and collected in the same manner as civil money penalties under subsection (a) of section 1320a–7a of this title are imposed and collected under that section.
 - **(d)** The Secretary shall study and report to Congress, not later than two years after November 14, 1986 , on whether information respecting small payments should continue to be required to be reported under subsection (a) and whether information respecting all claims made concerning a medical malpractice action should be required to be reported under such subsection.
+
+## Source Credit
+
+*([Pub. L. 99–660, title IV, § 421](https://www.govinfo.gov/link/plaw/99/public/660), Nov. 14, 1986, [100 Stat. 3788](https://www.govinfo.gov/link/statute/100/3788).)*

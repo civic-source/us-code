@@ -3,9 +3,10 @@ title: "Section 358 - Rules"
 usc_title: 28
 usc_section: "358"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 358"
-generated_at: "2026-03-30T02:55:30.128Z"
+generated_at: "2026-11-23T20:26:36.339Z"
+status: "active"
 ---
 
 # § 358. Rules
@@ -16,3 +17,13 @@ generated_at: "2026-03-30T02:55:30.128Z"
   - **(2)** the judge whose conduct is the subject of a complaint under this chapter be afforded an opportunity to appear (in person or by counsel) at proceedings conducted by the investigating panel, to present oral and documentary evidence, to compel the attendance of witnesses or the production of documents, to cross-examine witnesses, and to present argument orally or in writing; and
   - **(3)** the complainant be afforded an opportunity to appear at proceedings conducted by the investigating panel, if the panel concludes that the complainant could offer substantial information.
 - **(c)** Any rule prescribed under this section shall be made or amended only after giving appropriate public notice and an opportunity for comment. Any such rule shall be a matter of public record, and any such rule promulgated by a judicial council may be modified by the Judicial Conference. No rule promulgated under this section may limit the period of time within which a person may file a complaint under this chapter.
+
+In General
+
+Required Provisions
+
+Procedures
+
+## Source Credit
+
+*(Added [Pub. L. 107–273, div. C, title I, § 11042(a)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1853](https://www.govinfo.gov/link/statute/116/1853).)*

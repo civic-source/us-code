@@ -3,9 +3,10 @@ title: "Section 51103 - Grant applications"
 usc_title: 51
 usc_section: "51103"
 chapter: 511
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 51103"
-generated_at: "2026-03-30T02:56:28.711Z"
+generated_at: "2026-11-23T20:27:37.515Z"
+status: "active"
 ---
 
 # § 51103. Grant applications
@@ -30,3 +31,42 @@ generated_at: "2026-03-30T02:56:28.711Z"
   - **(5)** the sponsor submitting the application has the legal authority to engage in the project; and
   - **(6)** any additional requirements prescribed by the Secretary have been met.
 - **(d)** The Secretary of Transportation shall give preference to applications for projects for which there will be greater industry financial contributions, all other factors being equal.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 70303(a) | 15:5804(d)(1). | Nov. 4, 1992 , Pub. L. 102–588, § 505(c) , (d), 106 Stat. 5125 . |
+| 70303(b)(1) | 15:5804(c)(1). |  |
+| 70303(b)(2) | 15:5804(c)(2). |  |
+| 70303(c) | 15:5804(d)(2). |  |
+| 70303(d) | 15:5804(c)(3). |  |
+
+
+General
+
+Considerations and Consultation
+
+Requirements
+
+Preference for Industry Contributions
+
+Historical and Revision Notes
+
+70303(a)
+
+Nov. 4, 1992
+
+Pub. L. 102–588, § 505(c)
+
+106 Stat. 5125
+
+70303(b)(1)
+
+70303(b)(2)
+
+70303(c)
+
+70303(d)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1344](https://www.govinfo.gov/link/statute/108/1344), § 70303 of title 49; renumbered § 70303 then § 51103 of title 51, [Pub. L. 111–314, § 4(d)(2)](https://www.govinfo.gov/link/plaw/111/public/314), (4)(C), Dec. 18, 2010, [124 Stat. 3440](https://www.govinfo.gov/link/statute/124/3440), 3441.)*

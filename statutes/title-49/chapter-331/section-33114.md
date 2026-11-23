@@ -3,9 +3,10 @@ title: "Section 33114 - Prohibited acts"
 usc_title: 49
 usc_section: "33114"
 chapter: 331
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 33114"
-generated_at: "2026-03-30T02:56:19.369Z"
+generated_at: "2026-11-23T20:27:35.029Z"
+status: "active"
 ---
 
 # § 33114. Prohibited acts
@@ -20,3 +21,51 @@ generated_at: "2026-03-30T02:56:19.369Z"
     - **(B)** conduct operations in a chop shop; or
     - **(C)** transport a passenger motor vehicle or passenger motor vehicle part to or from a chop shop.
 - **(b)** Subsection (a)(1) of this section does not apply to a person establishing that in the exercise of reasonable care the person did not have reason to know that the motor vehicle or major replacement part was not in conformity with the standard.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 33114 | 15:2027(a), (b). | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , § 610(a), (b); added Oct. 25, 1984 , Pub. L. 98–547, § 101(a) , 98 Stat. 2761 ; Oct. 25, 1992 , Pub. L. 102–519 , §§ 305(a), 306(a), 106 Stat. 3396 , 3397. |
+|  | 15:2027(c)(1). | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , § 610(c)(1); added Oct. 25, 1992 , Pub. L. 102–519 , §§ 305(b), 306(a), 106 Stat. 3396 , 3397. |
+
+
+General
+
+Nonapplication
+
+Historical and Revision Notes
+
+33114
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+Oct. 25, 1984
+
+Pub. L. 98–547, § 101(a)
+
+98 Stat. 2761
+
+Oct. 25, 1992
+
+Pub. L. 102–519
+
+106 Stat. 3396
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+Oct. 25, 1992
+
+Pub. L. 102–519
+
+106 Stat. 3396
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1091](https://www.govinfo.gov/link/statute/108/1091).)*

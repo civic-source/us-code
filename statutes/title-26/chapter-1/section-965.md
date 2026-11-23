@@ -3,9 +3,10 @@ title: "Section 965 - Treatment of deferred foreign income upon transition to pa
 usc_title: 26
 usc_section: "965"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 965"
-generated_at: "2026-03-30T02:55:27.750Z"
+generated_at: "2026-11-23T20:26:45.994Z"
+status: "active"
 ---
 
 # § 965. Treatment of deferred foreign income upon transition to participation exemption system of taxation
@@ -191,3 +192,9 @@ generated_at: "2026-03-30T02:55:27.750Z"
 - **(o)** The Secretary shall prescribe such regulations or other guidance as may be necessary or appropriate to carry out the provisions of this section, including—
   - **(1)** regulations or other guidance to provide appropriate basis adjustments, and
   - **(2)** regulations or other guidance to prevent the avoidance of the purposes of this section, including through a reduction in earnings and profits, through changes in entity classification or accounting methods, or otherwise.
+
+No installment payments
+
+## Source Credit
+
+*(Added [Pub. L. 108–357, title IV, § 422(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1514](https://www.govinfo.gov/link/statute/118/1514); amended [Pub. L. 109–135, title IV, § 403(q)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2627](https://www.govinfo.gov/link/statute/119/2627); [Pub. L. 115–97, title I, § 14103(a)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2195](https://www.govinfo.gov/link/statute/131/2195).)*

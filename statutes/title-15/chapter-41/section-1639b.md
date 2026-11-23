@@ -3,9 +3,10 @@ title: "Section 1639b - Residential mortgage loan origination"
 usc_title: 15
 usc_section: "1639b"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1639b"
-generated_at: "2026-03-30T02:54:08.142Z"
+generated_at: "2026-11-23T20:26:04.048Z"
+status: "active"
 ---
 
 # § 1639b. Residential mortgage loan origination
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:54:08.142Z"
   - **(1)** The Bureau shall, by regulations, prohibit or condition terms, acts or practices relating to residential mortgage loans that the Bureau finds to be abusive, unfair, deceptive, predatory, necessary or proper to ensure that responsible, affordable mortgage credit remains available to consumers in a manner consistent with the purposes of this section and section 1639c of this title , necessary or proper to effectuate the purposes of this section and section 1639c of this title , to prevent circumvention or evasion thereof, or to facilitate compliance with such sections, or are not in the interest of the borrower.
   - **(2)** The regulations prescribed under paragraph (1) shall be applicable to all residential mortgage loans and shall be applied in the same manner as regulations prescribed under section 1604 of this title .
 - **(f)** This section and any regulations promulgated thereunder do not apply to an extension of credit relating to a plan described in section 101(53D) of title 11.
+
+## Source Credit
+
+*([Pub. L. 90–321, title I, § 129B](https://www.govinfo.gov/link/plaw/90/public/321), as added and amended [Pub. L. 111–203, title X, § 1100A(2)](https://www.govinfo.gov/link/plaw/111/public/203), title XIV, §§ 1402(a)(2), 1403–1405(a), July 21, 2010, [124 Stat. 2107](https://www.govinfo.gov/link/statute/124/2107), 2139–2141.)*

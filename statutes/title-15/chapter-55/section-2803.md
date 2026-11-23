@@ -3,9 +3,10 @@ title: "Section 2803 - Trial and interim franchises"
 usc_title: 15
 usc_section: "2803"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2803"
-generated_at: "2026-03-30T02:54:08.183Z"
+generated_at: "2026-11-23T20:26:04.254Z"
+status: "active"
 ---
 
 # § 2803. Trial and interim franchises
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:54:08.183Z"
   - **(2)** under any interim franchise, at the conclusion of the term of such interim franchise, if—
     - **(A)** such nonrenewal is based upon a determination described in section 2802(b)(2)(E) of this title ; and
     - **(B)** the requirements of section 2802(b)(2)(E)(ii) and (iii) of this title are satisfied.
+
+## Source Credit
+
+*([Pub. L. 95–297, title I, § 103](https://www.govinfo.gov/link/plaw/95/public/297), June 19, 1978, [92 Stat. 328](https://www.govinfo.gov/link/statute/92/328).)*

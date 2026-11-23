@@ -3,12 +3,17 @@ title: "Section 224 - Payments for oil or gas taken prior to application for lea
 usc_title: 30
 usc_section: "224"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 224"
-generated_at: "2026-03-30T02:55:29.380Z"
+generated_at: "2026-11-23T20:26:34.925Z"
+status: "active"
 ---
 
 # § 224. Payments for oil or gas taken prior to application for lease
 
 Until the permittee shall apply for lease to the one quarter of the permit area heretofore provided for he shall pay to the United States 20 per centum of the gross value of all oil or gas secured by him from the lands embraced within his permit and sold or otherwise disposed of or held by him for sale or other disposition.
 
+
+## Source Credit
+
+*(Feb. 25, 1920, ch. 85, § 15, [41 Stat. 442](https://www.govinfo.gov/link/statute/41/442).)*

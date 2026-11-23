@@ -3,9 +3,10 @@ title: "Section 3641 - Market tests of experimental products"
 usc_title: 39
 usc_section: "3641"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "39 U.S.C. § 3641"
-generated_at: "2026-03-30T02:55:43.694Z"
+generated_at: "2026-11-23T20:26:57.756Z"
+status: "active"
 ---
 
 # § 3641. Market tests of experimental products
@@ -35,3 +36,47 @@ generated_at: "2026-03-30T02:55:43.694Z"
 - **(g)** For purposes of each year following the year in which occurs the deadline for the Postal Service’s first report to the Postal Regulatory Commission under section 3652(a), each dollar amount contained in this section shall be adjusted by the change in the Consumer Price Index for such year (as determined under regulations of the Commission).
 - **(h)** The criteria used in defining small business concerns or otherwise categorizing business concerns as small business concerns shall, for purposes of this section, be established by the Postal Regulatory Commission in conformance with the requirements of section 3 of the Small Business Act.
 - **(i)** Market tests under this subchapter may be conducted in any year beginning with the first year in which occurs the deadline for the Postal Service’s first report to the Postal Regulatory Commission under section 3652(a).
+
+Authority.—
+
+In general
+
+Provisions waived
+
+Conditions
+
+Significantly different product
+
+Market disruption
+
+Correct categorization
+
+Notice.—
+
+In general
+
+Safeguards
+
+Duration.—
+
+In general
+
+Extension authority
+
+Dollar-Amount Limitation.—
+
+In general
+
+Exemption authority
+
+Cancellation
+
+Adjustment for Inflation
+
+Definition of a Small Business Concern
+
+Effective Date
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 763](https://www.govinfo.gov/link/statute/84/763); [Pub. L. 94–421, § 6(a)](https://www.govinfo.gov/link/plaw/94/public/421), Sept. 24, 1976, [90 Stat. 1306](https://www.govinfo.gov/link/statute/90/1306); [Pub. L. 109–435, title II, § 203](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3207](https://www.govinfo.gov/link/statute/120/3207).)*

@@ -3,9 +3,10 @@ title: "Section 2016a - EBT benefit fraud prevention"
 usc_title: 7
 usc_section: "2016a"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2016a"
-generated_at: "2026-03-30T02:53:42.367Z"
+generated_at: "2026-11-23T20:25:41.439Z"
+status: "active"
 ---
 
 # § 2016a. EBT benefit fraud prevention
@@ -61,3 +62,7 @@ generated_at: "2026-03-30T02:53:42.367Z"
     - **(D)** recommendations and policy options for—
       - **(i)** improving how the Department of Agriculture and other relevant entities manage payment system security risks, including those related to stolen benefits; and
       - **(ii)** how the Department of Agriculture may best share those improvements with States, retailers, and other relevant entities.
+
+## Source Credit
+
+*([Pub. L. 117–328, div. HH, title IV, § 501](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5985](https://www.govinfo.gov/link/statute/136/5985); [Pub. L. 118–83, div. B, title I, § 105](https://www.govinfo.gov/link/plaw/118/public/83), Sept. 26, 2024, [138 Stat. 1534](https://www.govinfo.gov/link/statute/138/1534).)*

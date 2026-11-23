@@ -3,9 +3,10 @@ title: "Section 3714 - Assessment of Indian agricultural management programs"
 usc_title: 25
 usc_section: "3714"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3714"
-generated_at: "2026-03-30T02:54:52.855Z"
+generated_at: "2026-11-23T20:26:25.664Z"
+status: "active"
 ---
 
 # § 3714. Assessment of Indian agricultural management programs
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:52.855Z"
   - **(2)** to establish a comparison of management and funding provided to comparable lands owned or managed by the Federal Government through Federal agencies other than the Bureau; and
   - **(3)** to identify any obstacles to Indian access to Federal or private programs relating to agriculture or related rural development programs generally available to the public at large.
 - **(c)** Within one year after December 3, 1993 , the Secretary shall provide the Subcommittee on Native American Affairs of the Committee on Natural Resources of the House of Representatives and the Committee on Indian Affairs of the Senate with a status report on the development of the comparative analysis required by this section and shall file a final report with the Congress not later than 18 months after December 3, 1993 .
+
+## Source Credit
+
+*([Pub. L. 103–177, title I, § 104](https://www.govinfo.gov/link/plaw/103/public/177), Dec. 3, 1993, [107 Stat. 2016](https://www.govinfo.gov/link/statute/107/2016).)*

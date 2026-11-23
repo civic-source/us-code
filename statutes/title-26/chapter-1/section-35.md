@@ -3,9 +3,10 @@ title: "Section 35 - Health insurance costs of eligible individuals"
 usc_title: 26
 usc_section: "35"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 35"
-generated_at: "2026-03-30T02:55:27.591Z"
+generated_at: "2026-11-23T20:26:45.154Z"
+status: "active"
 ---
 
 # § 35. Health insurance costs of eligible individuals
@@ -118,3 +119,37 @@ generated_at: "2026-03-30T02:55:27.591Z"
         - **(II)** the sum of the credits allowed under this section (determined without regard to paragraph (1)) and section 36B (determined without regard to subsection (f)(1) thereof) for such taxable year; and
       - **(ii)** section 36B(f)(2) shall not apply with respect to such taxpayer for such taxable year, except that if such taxpayer received any advance payments under section 7527 for any month in such taxable year and is later allowed a credit under section 36B for such taxable year, then the amount determined under clause (i) shall be substituted for the amount determined under section 36B(f)(2).
   - **(13)** The Secretary may prescribe such regulations and other guidance as may be necessary or appropriate to carry out this section, section 6050T, and section 7527.
+
+In general
+
+Plans available on individual market for use of tax credit
+
+Transition rule
+
+In general
+
+Advance payment provisions.—
+
+“The amendments made by this section [amending this section, sections 139C, 6432, and 6720C of this title, and provisions set out as a note under section 6432 of this title ] shall take effect as if included in the provisions of section 3001 of division B of the American Recovery and Reinvestment Act of 2009 [ Pub. L. 111–5 , set out below] to which they relate, except that—
+
+In general
+
+State high risk pools
+
+Survey.—
+
+In general
+
+Information obtained
+
+participants
+
+Non-HCTC participants
+
+Report
+
+Report
+
+## Source Credit
+
+*(Added [Pub. L. 107–210, div. A, title II, § 201(a)](https://www.govinfo.gov/link/plaw/107/public/210), Aug. 6, 2002, [116 Stat. 954](https://www.govinfo.gov/link/statute/116/954); amended [Pub. L. 108–311, title IV, § 401(a)(2)](https://www.govinfo.gov/link/plaw/108/public/311), Oct. 4, 2004, [118 Stat. 1183](https://www.govinfo.gov/link/statute/118/1183); [Pub. L. 110–172, § 11(a)(5)](https://www.govinfo.gov/link/plaw/110/public/172), Dec. 29, 2007, [121 Stat. 2485](https://www.govinfo.gov/link/statute/121/2485); [Pub. L. 111–5, div. B, title I](https://www.govinfo.gov/link/plaw/111/public/5), §§ 1899A(a)(1), 1899C(a), 1899E(a), 1899G(a), title III, § 3001(a)(14)(A), Feb. 17, 2009, [123 Stat. 423](https://www.govinfo.gov/link/statute/123/423), 424, 426, 430, 465; [Pub. L. 111–144, § 3(b)(5)(A)](https://www.govinfo.gov/link/plaw/111/public/144), Mar. 2, 2010, [124 Stat. 44](https://www.govinfo.gov/link/statute/124/44); [Pub. L. 111–344, title I](https://www.govinfo.gov/link/plaw/111/public/344), §§ 111(a), 113(a), 115(a), 117(a), Dec. 29, 2010, [124 Stat. 3614–3616](https://www.govinfo.gov/link/statute/124/3614); [Pub. L. 112–40, title II, § 241(a)](https://www.govinfo.gov/link/plaw/112/public/40), (b)(1), (3)(A)–(C), Oct. 21, 2011, [125 Stat. 418](https://www.govinfo.gov/link/statute/125/418), 419; [Pub. L. 113–295, div. A, title II, § 209(j)(3)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4031](https://www.govinfo.gov/link/statute/128/4031); [Pub. L. 114–27, title IV, § 407(a)](https://www.govinfo.gov/link/plaw/114/public/27), (b), (d), June 29, 2015, [129 Stat. 381](https://www.govinfo.gov/link/statute/129/381), 382; [Pub. L. 116–94, div. Q, title I, § 146(a)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3236](https://www.govinfo.gov/link/statute/133/3236); [Pub. L. 116–260, div. EE, title I, § 134(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3053](https://www.govinfo.gov/link/statute/134/3053); [Pub. L. 117–2, title IX, § 9501(b)(3)(A)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 137](https://www.govinfo.gov/link/statute/135/137); [Pub. L. 119–21, title VII, § 71305(b)(2)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 325](https://www.govinfo.gov/link/statute/139/325).)*

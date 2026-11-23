@@ -3,9 +3,10 @@ title: "Section 4985 - Stock compensation of insiders in expatriated corporation
 usc_title: 26
 usc_section: "4985"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 4985"
-generated_at: "2026-03-30T02:55:27.815Z"
+generated_at: "2026-11-23T20:26:46.384Z"
+status: "active"
 ---
 
 # § 4985. Stock compensation of insiders in expatriated corporations
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:55:27.815Z"
   - **(4)** Any transfer of property shall be treated as a payment and any right to a transfer of property shall be treated as a right to a payment.
   - **(5)** For purposes of subtitle F, any tax imposed by this section shall be treated as a tax imposed by subtitle A.
 - **(g)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
+
+## Source Credit
+
+*(Added [Pub. L. 108–357, title VIII, § 802(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1566](https://www.govinfo.gov/link/statute/118/1566); amended [Pub. L. 115–97, title I, § 13604(a)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2165](https://www.govinfo.gov/link/statute/131/2165).)*

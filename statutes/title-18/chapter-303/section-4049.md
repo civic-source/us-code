@@ -3,9 +3,10 @@ title: "Section 4049 - Officers and employees of the Bureau of Prisons authorize
 usc_title: 18
 usc_section: "4049"
 chapter: 303
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 4049"
-generated_at: "2026-03-30T02:54:16.527Z"
+generated_at: "2026-11-23T20:26:08.780Z"
+status: "active"
 ---
 
 # § 4049. Officers and employees of the Bureau of Prisons authorized to carry oleoresin capsicum spray
@@ -22,3 +23,19 @@ generated_at: "2026-03-30T02:54:16.527Z"
 - **(c)** Officers and employees of the Bureau of Prisons issued oleoresin capsicum spray pursuant to subsection (a) may use such spray to reduce acts of violence—
   - **(1)** committed by prisoners against themselves, other prisoners, prison visitors, and officers and employees of the Bureau of Prisons; and
   - **(2)** committed by prison visitors against themselves, prisoners, other visitors, and officers and employees of the Bureau of Prisons.
+
+In General
+
+Training Requirement.—
+
+In general
+
+Transferability of training
+
+Training conducted during regular employment
+
+Use of Oleoresin Capsicum Spray
+
+## Source Credit
+
+*(Added [Pub. L. 114–133, § 2(a)](https://www.govinfo.gov/link/plaw/114/public/133), Mar. 9, 2016, [130 Stat. 296](https://www.govinfo.gov/link/statute/130/296).)*

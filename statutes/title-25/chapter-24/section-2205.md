@@ -3,9 +3,10 @@ title: "Section 2205 - Tribal probate codes; acquisitions of fractional interest
 usc_title: 25
 usc_section: "2205"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 2205"
-generated_at: "2026-03-30T02:54:52.837Z"
+generated_at: "2026-11-23T20:26:25.577Z"
+status: "active"
 ---
 
 # § 2205. Tribal probate codes; acquisitions of fractional interests by tribes
@@ -67,3 +68,11 @@ generated_at: "2026-03-30T02:54:52.837Z"
 - **(d)**
   - **(1)** In this subsection, the term “tribal justice system” has the meaning given that term in section 3602 of this title .
   - **(2)** The Secretary by regulation may provide for the use of findings of fact and conclusions of law, as rendered by a tribal justice system, as proposed findings of fact and conclusions of law in the adjudication of probate proceedings by the Department of the Interior.
+
+(aa) the interest is part of a family farm that is devised to a member of the family of the decedent; and
+
+(bb) the devisee agrees in writing that the Indian tribe with jurisdiction over the land will have the opportunity to acquire the interest for fair market value if the interest is offered for sale to a person or entity that is not a member of the family of the owner of the land.
+
+## Source Credit
+
+*([Pub. L. 97–459, title II, § 206](https://www.govinfo.gov/link/plaw/97/public/459), as added [Pub. L. 106–462, title I, § 103(3)](https://www.govinfo.gov/link/plaw/106/public/462), Nov. 7, 2000, [114 Stat. 1993](https://www.govinfo.gov/link/statute/114/1993); amended [Pub. L. 108–374, § 6(a)(3)](https://www.govinfo.gov/link/plaw/108/public/374), Oct. 27, 2004, [118 Stat. 1799](https://www.govinfo.gov/link/statute/118/1799); [Pub. L. 109–157, § 3](https://www.govinfo.gov/link/plaw/109/public/157), Dec. 30, 2005, [119 Stat. 2950](https://www.govinfo.gov/link/statute/119/2950).)*

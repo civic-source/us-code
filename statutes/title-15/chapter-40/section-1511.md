@@ -3,9 +3,10 @@ title: "Section 1511 - Bureaus in Department"
 usc_title: 15
 usc_section: "1511"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1511"
-generated_at: "2026-03-30T02:54:08.136Z"
+generated_at: "2026-11-23T20:26:04.012Z"
+status: "active"
 ---
 
 # § 1511. Bureaus in Department
@@ -18,3 +19,11 @@ The following named bureaus, administrations, services, offices, and programs of
   - **(4)** United States Patent and Trademark Office 1 1 So in original. Probably should be followed by a semicolon.
   - **(5)** Bureau of the Census; and
   - **(6)** such other bureaus or other organizational units as the Secretary of Commerce may from time to time establish in accordance with law.
+
+Richard Nixon.
+
+The White House
+
+## Source Credit
+
+*(Feb. 14, 1903, ch. 552, §§ 4, 12, [32 Stat. 826](https://www.govinfo.gov/link/statute/32/826), 830; June 17, 1910, ch. 301, § 4, [36 Stat. 537](https://www.govinfo.gov/link/statute/36/537); Aug. 23, 1912, ch. 350, § 1, [37 Stat. 407](https://www.govinfo.gov/link/statute/37/407); Mar. 4, 1913, ch. 141, § 3, [37 Stat. 737](https://www.govinfo.gov/link/statute/37/737); Jan. 5, 1923, ch. 23, § 1, [42 Stat. 1109](https://www.govinfo.gov/link/statute/42/1109); June 30, 1932, ch. 314, pt. II, title V, § 501, [47 Stat. 415](https://www.govinfo.gov/link/statute/47/415); Feb. 22, 1934, Ex. Ord. 6611; May 27, 1936, ch. 463, § 1, [49 Stat. 1380](https://www.govinfo.gov/link/statute/49/1380); 1939 Reorg. Plan No. II, §§ 2(a), 4(e), 6, eff. July 1, 1936, 4 F.R. 2731, [53 Stat. 1432](https://www.govinfo.gov/link/statute/53/1432); 1940 Reorg. Plan No. IV, §§ 7, 8, eff. June 30, 1940, 5 F.R. 2422, [54 Stat. 1235](https://www.govinfo.gov/link/statute/54/1235), 1236; 1946 Reorg. Plan No. 3, §§ 101–104, eff. July 16, 1946, 11 F.R. 7875, [60 Stat. 1097](https://www.govinfo.gov/link/statute/60/1097); June 30, 1949, ch. 288, title I, § 103(a), [63 Stat. 380](https://www.govinfo.gov/link/statute/63/380); Aug. 4, 1949, ch. 393, § 20, [63 Stat. 561](https://www.govinfo.gov/link/statute/63/561); 1949 Reorg. Plan No. 7, § 1, eff. Aug. 19, 1949, 14 F.R. 5228, [63 Stat. 1070](https://www.govinfo.gov/link/statute/63/1070); 1950 Reorg. Plan No. 21, §§ 101, 106, 201, 15 F.R. 3178, [64 Stat. 1273](https://www.govinfo.gov/link/statute/64/1273); [Pub. L. 93–498, § 23](https://www.govinfo.gov/link/plaw/93/public/498), Oct. 29, 1974, [88 Stat. 1549](https://www.govinfo.gov/link/statute/88/1549); [Pub. L. 93–596, § 3](https://www.govinfo.gov/link/plaw/93/public/596), Jan. 2, 1975, [88 Stat. 1949](https://www.govinfo.gov/link/statute/88/1949); [Pub. L. 95–422, § 2(c)](https://www.govinfo.gov/link/plaw/95/public/422), Oct. 5, 1978, [92 Stat. 932](https://www.govinfo.gov/link/statute/92/932); [Pub. L. 97–31, § 12(6)](https://www.govinfo.gov/link/plaw/97/public/31), Aug. 6, 1981, [95 Stat. 154](https://www.govinfo.gov/link/statute/95/154); [Pub. L. 97–63, § 4(a)(1)](https://www.govinfo.gov/link/plaw/97/public/63), Oct. 16, 1981, [95 Stat. 1014](https://www.govinfo.gov/link/statute/95/1014); [Pub. L. 100–418, title V, § 5115(c)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1433](https://www.govinfo.gov/link/statute/102/1433); [Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(6)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–583; [Pub. L. 106–503, title I, § 110(b)](https://www.govinfo.gov/link/plaw/106/public/503), Nov. 13, 2000, [114 Stat. 2302](https://www.govinfo.gov/link/statute/114/2302).)*

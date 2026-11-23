@@ -3,9 +3,10 @@ title: "Section 3976 - Deduction of unpaid premiums"
 usc_title: 50
 usc_section: "3976"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3976"
-generated_at: "2026-03-30T02:56:26.264Z"
+generated_at: "2026-11-23T20:27:31.060Z"
+status: "active"
 ---
 
 # § 3976. Deduction of unpaid premiums
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:56:26.264Z"
 - **(a)** If a policy matures as a result of a servicemember’s death or otherwise during the period of protection of the policy under this subchapter, the insurer in making settlement shall deduct from the insurance proceeds the amount of the unpaid premiums guaranteed under this subchapter, together with interest due at the rate fixed in the policy for policy loans.
 - **(b)** If the interest rate is not specifically fixed in the policy, the rate shall be the same as for policy loans in other policies issued by the insurer at the time the insured’s policy was issued.
 - **(c)** The amount deducted under this section, if any, shall be reported by the insurer to the Secretary of Veterans Affairs.
+
+## Source Credit
+
+*(Oct. 17, 1940, ch. 888, title IV, § 406, as added [Pub. L. 108–189, § 1](https://www.govinfo.gov/link/plaw/108/public/189), Dec. 19, 2003, [117 Stat. 2853](https://www.govinfo.gov/link/statute/117/2853).)*

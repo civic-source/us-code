@@ -3,9 +3,10 @@ title: "Section 8903b - Authority to readmit an employee organization plan"
 usc_title: 5
 usc_section: "8903b"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8903b"
-generated_at: "2026-03-30T02:52:56.067Z"
+generated_at: "2026-11-23T20:25:32.243Z"
+status: "active"
 ---
 
 # § 8903b. Authority to readmit an employee organization plan
@@ -14,3 +15,11 @@ generated_at: "2026-03-30T02:52:56.067Z"
 - **(b)** A contract for a plan approved under this section shall require the carrier—
   - **(1)** to demonstrate experience in service delivery within a managed care system (including provider networks) throughout the United States; and
   - **(2)** if the carrier involved would not otherwise be subject to the requirement set forth in section 8903a(c)(1), to satisfy such requirement.
+
+In general
+
+Transition rule
+
+## Source Credit
+
+*(Added [Pub. L. 105–266, § 6(a)(1)](https://www.govinfo.gov/link/plaw/105/public/266), Oct. 19, 1998, [112 Stat. 2368](https://www.govinfo.gov/link/statute/112/2368).)*

@@ -3,9 +3,10 @@ title: "Section 6307c - Sanctioning organizations"
 usc_title: 15
 usc_section: "6307c"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 6307c"
-generated_at: "2026-03-30T02:54:08.210Z"
+generated_at: "2026-11-23T20:26:04.390Z"
+status: "active"
 ---
 
 # § 6307c. Sanctioning organizations
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:08.210Z"
     - **(A)** is readily accessible by the general public using generally available search engines and does not require a password or payment of a fee for full access to all the information;
     - **(B)** contains all the information required to be submitted to the Federal Trade Commission by paragraph (1) in an easy to search and use format; and
     - **(C)** is updated whenever there is a material change in the information.
+
+## Source Credit
+
+*([Pub. L. 104–272, § 11](https://www.govinfo.gov/link/plaw/104/public/272), as added [Pub. L. 106–210, § 4(2)](https://www.govinfo.gov/link/plaw/106/public/210), May 26, 2000, [114 Stat. 323](https://www.govinfo.gov/link/statute/114/323).)*

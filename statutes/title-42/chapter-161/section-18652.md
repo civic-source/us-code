@@ -3,9 +3,10 @@ title: "Section 18652 - Helium conservation program"
 usc_title: 42
 usc_section: "18652"
 chapter: 161
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18652"
-generated_at: "2026-03-30T02:56:11.524Z"
+generated_at: "2026-11-23T20:27:23.815Z"
+status: "active"
 ---
 
 # § 18652. Helium conservation program
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.524Z"
 - **(c)** In carrying out the program under this section, the Director shall coordinate with the National Science Foundation and other relevant Federal agencies on helium conservation activities.
 - **(d)** The program established under this section shall receive support for a period of not more than 5 years, subject to the availability of appropriations.
 - **(e)** Upon expiration of any period of support of the program under this section, the Director may renew support for the program for a period of not more than 5 years.
+
+## Source Credit
+
+*([Pub. L. 115–246, title III, § 314](https://www.govinfo.gov/link/plaw/115/public/246), as added [Pub. L. 117–167, div. B, title I, § 10112(a)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1460](https://www.govinfo.gov/link/statute/136/1460).)*

@@ -3,9 +3,10 @@ title: "Section 4503 - National Urban Policy Report"
 usc_title: 42
 usc_section: "4503"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4503"
-generated_at: "2026-03-30T02:56:11.206Z"
+generated_at: "2026-11-23T20:27:22.395Z"
+status: "active"
 ---
 
 # § 4503. National Urban Policy Report
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:11.206Z"
 - **(b)** The President may transmit from time to time to the Congress supplementary reports on urban policy which shall include such supplementary and revised recommendations as may be appropriate.
 - **(c)** To assist in the preparation of the National Urban Policy Report and any supplementary reports, the President may establish an advisory board, or seek the advice from time to time of temporary advisory boards, the members of whom shall be drawn from among private citizens familiar with the problems of urban areas and from among Federal officials, Governors of States, mayors, county officials, members of State and local legislative bodies, and others qualified to assist in the preparation of such reports.
 - **(d)** The National Urban Policy Report shall, when transmitted to Congress, be referred in the Senate to the Committee on Banking, Housing, and Urban Affairs, and in the House of Representatives to the Committee on Banking, Finance and Urban Affairs.
+
+## Source Credit
+
+*([Pub. L. 91–609, title VII, § 703](https://www.govinfo.gov/link/plaw/91/public/609), Dec. 31, 1970, [84 Stat. 1792](https://www.govinfo.gov/link/statute/84/1792); [Pub. L. 95–128, title VI, § 601(c)](https://www.govinfo.gov/link/plaw/95/public/128), Oct. 12, 1977, [91 Stat. 1143](https://www.govinfo.gov/link/statute/91/1143); [Pub. L. 102–550, title IX, § 921(2)](https://www.govinfo.gov/link/plaw/102/public/550), (3), Oct. 28, 1992, [106 Stat. 3883](https://www.govinfo.gov/link/statute/106/3883), 3884.)*

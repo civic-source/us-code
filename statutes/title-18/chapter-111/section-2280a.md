@@ -3,9 +3,10 @@ title: "Section 2280a - Violence against maritime navigation and maritime transp
 usc_title: 18
 usc_section: "2280a"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2280a"
-generated_at: "2026-03-30T02:54:16.500Z"
+generated_at: "2026-11-23T20:26:08.586Z"
+status: "active"
 ---
 
 # § 2280a. Violence against maritime navigation and maritime transport involving weapons of mass destruction
@@ -49,3 +50,21 @@ generated_at: "2026-03-30T02:54:16.500Z"
 - **(d)**
   - **(1)** Any real or personal property used or intended to be used to commit or to facilitate the commission of a violation of this section, the gross proceeds of such violation, and any real or personal property traceable to such property or proceeds, shall be subject to forfeiture.
   - **(2)** Seizures and forfeitures under this section shall be governed by the provisions of chapter 46 of title 18, United States Code, relating to civil forfeitures, except that such duties as are imposed upon the Secretary of the Treasury under the customs laws described in section 981(d) shall be performed by such officers, agents, and other persons as may be designated for that purpose by the Secretary of Homeland Security, the Attorney General, or the Secretary of Defense.
+
+Offenses.—
+
+In general
+
+Threats
+
+Jurisdiction
+
+Exceptions
+
+Civil Forfeiture
+
+Applicable Procedures
+
+## Source Credit
+
+*(Added [Pub. L. 114–23, title VIII, § 802(a)](https://www.govinfo.gov/link/plaw/114/public/23), June 2, 2015, [129 Stat. 304](https://www.govinfo.gov/link/statute/129/304).)*

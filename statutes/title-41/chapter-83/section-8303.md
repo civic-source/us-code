@@ -3,9 +3,10 @@ title: "Section 8303 - Contracts for public works"
 usc_title: 41
 usc_section: "8303"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 8303"
-generated_at: "2026-03-30T02:55:55.811Z"
+generated_at: "2026-11-23T20:27:04.484Z"
+status: "active"
 ---
 
 # § 8303. Contracts for public works
@@ -24,3 +25,78 @@ generated_at: "2026-03-30T02:55:55.811Z"
   - **(1)** For purposes of this section, manufactured articles, materials, and supplies of iron and steel are deemed manufactured in the United States only if all manufacturing processes involved in the production of such iron and steel, from the initial melting stage through the application of coatings, occurs in the United States.
   - **(2)** Notwithstanding any law or regulation to the contrary, including section 1907 of this title and the Federal Acquisition Regulation, the requirements of this section apply to all iron and steel articles, materials, and supplies used in contracts described in subsection (a).
 - **(d)** If the head of a Federal agency that has made a contract containing the provision required by subsection (a) finds that there has been a failure to comply with the provision in the performance of the contract, the head of the Federal agency shall make the findings public. The findings shall include the name of the contractor obligated under the contract. The contractor, and any subcontractor, material man, or supplier associated or affiliated with the contractor, shall not be awarded another contract for the construction, alteration, or repair of any public building or public work for 3 years after the findings are made public.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 8303(a) | 41:10b(a) (words before “except as provided”). | Mar. 3, 1933, ch. 212 , title III, § 3, 47 Stat. 1520 ; Pub. L. 100–418, title VII, § 7005(c) , Aug. 23, 1988 , 102 Stat. 1553 . |
+| 8303(b)(1) | 41:10b(a) (“except as provided in section 10a of this title ”). |  |
+| 8303(b)(2) | 41:10b(a) (proviso). |  |
+| 8303(b)(3) | 41:10d. | Oct. 29, 1949, ch. 787 , title VI, § 633, 63 Stat. 1024 ; Pub. L. 100–418, title VII, § 7005(d) , Aug. 23, 1988 , 102 Stat. 1553 . |
+| 8303(c) | 41:10b(b). |  |
+
+
+In General
+
+Exceptions.—
+
+In general
+
+Particular article, material, or supply
+
+Waiver authority
+
+Special Rules.—
+
+Production of iron and steel
+
+Limitation on exception for commercially available off-the-shelf items
+
+Results of Failure To Comply
+
+Historical and Revision Notes
+
+8303(a)
+
+Mar. 3, 1933, ch. 212
+
+47 Stat. 1520
+
+Pub. L. 100–418, title VII, § 7005(c)
+
+Aug. 23, 1988
+
+102 Stat. 1553
+
+8303(b)(1)
+
+section 10a of this title
+
+8303(b)(2)
+
+8303(b)(3)
+
+Oct. 29, 1949, ch. 787
+
+63 Stat. 1024
+
+Pub. L. 100–418, title VII, § 7005(d)
+
+Aug. 23, 1988
+
+102 Stat. 1553
+
+8303(c)
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3832](https://www.govinfo.gov/link/statute/124/3832); [Pub. L. 117–58, div. G, title IX, § 70922(b)](https://www.govinfo.gov/link/plaw/117/public/58), (e)(2), Nov. 15, 2021, [135 Stat. 1303](https://www.govinfo.gov/link/statute/135/1303), 1305.)*

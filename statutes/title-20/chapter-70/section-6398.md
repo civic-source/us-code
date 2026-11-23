@@ -3,9 +3,10 @@ title: "Section 6398 - Coordination of migrant education activities"
 usc_title: 20
 usc_section: "6398"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 6398"
-generated_at: "2026-03-30T02:54:48.199Z"
+generated_at: "2026-11-23T20:26:14.841Z"
+status: "active"
 ---
 
 # § 6398. Coordination of migrant education activities
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:48.199Z"
 - **(c)** For the purpose of carrying out this section in any fiscal year, the Secretary shall reserve not more than $10,000,000 of the amount appropriated to carry out this part for such year.
 - **(d)** From the amounts made available to carry out this section for any fiscal year, the Secretary may reserve not more than $3,000,000 to award grants of not more than $250,000 on a competitive basis to State educational agencies that propose a consortium arrangement with another State or other appropriate entity that the Secretary determines, pursuant to criteria that the Secretary shall establish, will improve the delivery of services to migratory children whose education is interrupted.
 - **(e)** The Secretary shall direct the National Center for Education Statistics to collect data on migratory children.
+
+## Source Credit
+
+*([Pub. L. 89–10, title I, § 1308](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 107–110, title I, § 101](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1578](https://www.govinfo.gov/link/statute/115/1578); amended [Pub. L. 114–95, title I, § 1301(g)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1898](https://www.govinfo.gov/link/statute/129/1898).)*

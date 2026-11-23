@@ -3,9 +3,10 @@ title: "Section 3125a - National Agricultural Library"
 usc_title: 7
 usc_section: "3125a"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 3125a"
-generated_at: "2026-03-30T02:53:42.394Z"
+generated_at: "2026-11-23T20:25:41.560Z"
+status: "active"
 ---
 
 # § 3125a. National Agricultural Library
@@ -30,3 +31,43 @@ generated_at: "2026-03-30T02:53:42.394Z"
   - **(1)** The Director may enter into agreement with, and receive funds from any State, and other political subdivision, organization, business, or individual for the purpose of conducting activities to carry out this section.
   - **(2)** Funds received under this subsection for payments for library products and services or other activities shall be deposited to the miscellaneous contributed fund account, and shall remain available until expended.
 - **(h)** There are authorized to be appropriated for each fiscal year such sums as may be necessary to carry out this section.
+
+Establishment
+
+Requirements.—
+
+In general
+
+Term
+
+Consideration.—
+
+In general
+
+Use of funds.—
+
+In general
+
+Budgetary treatment
+
+Costs
+
+Prohibition of use of appropriations
+
+Termination of authority
+
+Effect of Other Laws.—
+
+Utilization
+
+Disposal
+
+Administration.—
+
+In general
+
+Reports
+
+## Source Credit
+
+*([Pub. L. 95–113, title XIV, § 1410A](https://www.govinfo.gov/link/plaw/95/public/113), as added [Pub. L. 101–624, title XVI, § 1606(a)](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3714](https://www.govinfo.gov/link/statute/104/3714).)*

@@ -3,9 +3,10 @@ title: "Section 140103 - Powers"
 usc_title: 36
 usc_section: "140103"
 chapter: 1401
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 140103"
-generated_at: "2026-03-30T02:55:44.701Z"
+generated_at: "2026-11-23T20:26:58.950Z"
+status: "active"
 ---
 
 # § 140103. Powers
@@ -21,3 +22,20 @@ The corporation may—
   - **(7)** charge and collect membership dues and receive contributions of money or property to be devoted to carrying out the purposes of the corporation;
   - **(8)** sue and be sued; and
   - **(9)** do any other act necessary or appropriate to carry out the purposes of the corporation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 140103 | 36:57b(b)–(j). | Aug. 4, 1937, ch. 564, § 3(b) –(j), 50 Stat. 559 . |
+
+
+Historical and Revision Notes
+
+140103
+
+Aug. 4, 1937, ch. 564, § 3(b)
+
+50 Stat. 559
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1380](https://www.govinfo.gov/link/statute/112/1380).)*

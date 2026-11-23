@@ -3,9 +3,10 @@ title: "Section 679 - Collection of data relating to adoption and foster care"
 usc_title: 42
 usc_section: "679"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 679"
-generated_at: "2026-03-30T02:56:10.892Z"
+generated_at: "2026-11-23T20:27:20.929Z"
+status: "active"
 ---
 
 # § 679. Collection of data relating to adoption and foster care
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:56:10.892Z"
       - **(ii)** who were such victims while in foster care; and
   - **(4)** utilize appropriate requirements and incentives to ensure that the system functions reliably throughout the United States.
 - **(d)** To promote improved knowledge on how best to ensure strong, permanent families for children, the Secretary shall promulgate regulations providing for the collection and analysis of information regarding children who enter into foster care under the supervision of a State after prior finalization of an adoption or legal guardianship. The regulations shall require each State with a State plan approved under this part to collect and report as part of such data collection system the number of children who enter foster care under supervision of the State after finalization of an adoption or legal guardianship and may include information concerning the length of the prior adoption or guardianship, the age of the child at the time of the prior adoption or guardianship, the age at which the child subsequently entered foster care under supervision of the State, the type of agency involved in making the prior adoptive or guardianship placement, and any other factors determined necessary to better understand factors associated with the child’s post-adoption or post-guardianship entry to foster care.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 479, as added [Pub. L. 99–509, title IX, § 9443](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 2073](https://www.govinfo.gov/link/statute/100/2073); amended [Pub. L. 103–432, title II, § 209(c)](https://www.govinfo.gov/link/plaw/103/public/432), Oct. 31, 1994, [108 Stat. 4459](https://www.govinfo.gov/link/statute/108/4459); [Pub. L. 113–183, title I, § 103](https://www.govinfo.gov/link/plaw/113/public/183), title II, § 208, Sept. 29, 2014, [128 Stat. 1922](https://www.govinfo.gov/link/statute/128/1922), 1940.)*

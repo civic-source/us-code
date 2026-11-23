@@ -3,9 +3,10 @@ title: "Section 2521 - Advisory Board on Women in the Coast Guard"
 usc_title: 14
 usc_section: "2521"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 2521"
-generated_at: "2026-03-30T02:53:51.500Z"
+generated_at: "2026-11-23T20:25:54.612Z"
+status: "active"
 ---
 
 # § 2521. Advisory Board on Women in the Coast Guard
@@ -20,3 +21,13 @@ generated_at: "2026-03-30T02:53:51.500Z"
   - **(1)** shall advise the Commandant on improvements to the recruitment, retention, wellbeing, and success of women serving in the Coast Guard and attending the Coast Guard Academy, including recommendations for the report on gender diversity in the Coast Guard required by section 5109 of chapter 51 of title 14;
   - **(2)** may submit to the Commandant recommendations in connection with its duties under this subsection, including recommendations to implement the advice described in paragraph (1); and
   - **(3)** may brief Congress on its duties under this subsection, including the advice described in paragraph (1) and any recommendations described in paragraph (2).
+
+In General
+
+Membership
+
+Duties
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. G, title LVXXXII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXII], § 8215(c)(2), Jan. 1, 2021, [134 Stat. 4651](https://www.govinfo.gov/link/statute/134/4651).)*

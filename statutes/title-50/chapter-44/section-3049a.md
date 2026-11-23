@@ -3,9 +3,10 @@ title: "Section 3049a - Special pay authority for science, technology, engineeri
 usc_title: 50
 usc_section: "3049a"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3049a"
-generated_at: "2026-03-30T02:56:26.232Z"
+generated_at: "2026-11-23T20:27:30.900Z"
+status: "active"
 ---
 
 # § 3049a. Special pay authority for science, technology, engineering, or mathematics positions and positions requiring banking or financial services expertise
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:26.232Z"
   - **(2)** Each report required by paragraph (1) shall contain for each element of the intelligence community—
     - **(A)** a description of any rates of pay established under subsection (a) or (b); and
     - **(B)** the number of positions in such element that will be subject to such rates of pay.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title I, § 113B, as added [Pub. L. 115–31, div. N, title III, § 305(a)](https://www.govinfo.gov/link/plaw/115/public/31), May 5, 2017, [131 Stat. 811](https://www.govinfo.gov/link/statute/131/811); amended [Pub. L. 116–92, div. E, title LXIII, § 6303](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2186](https://www.govinfo.gov/link/statute/133/2186); [Pub. L. 117–263, div. F, title LXVIII, § 6824(a)(2)](https://www.govinfo.gov/link/plaw/117/public/263), div. G, title LXXI, § 7143(d)(6), Dec. 23, 2022, [136 Stat. 3615](https://www.govinfo.gov/link/statute/136/3615), 3664; [Pub. L. 118–31, div. G, title III, § 7311(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1029](https://www.govinfo.gov/link/statute/137/1029).)*

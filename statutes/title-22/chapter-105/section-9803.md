@@ -3,9 +3,10 @@ title: "Section 9803 - Global fragility strategy"
 usc_title: 22
 usc_section: "9803"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9803"
-generated_at: "2026-03-30T02:55:05.473Z"
+generated_at: "2026-11-23T20:26:32.801Z"
+status: "active"
 ---
 
 # § 9803. Global fragility strategy
@@ -36,3 +37,9 @@ generated_at: "2026-03-30T02:55:05.473Z"
   - **(5)** A description of the ways in which United States leadership will be used to enhance overall international prevention efforts, including through increasing the engagement of the member states of the Group of Seven and Group of Twenty.
   - **(6)** An identification of which officials of the Department of State, USAID, and the Department of Defense, with a rank not lower than Assistant Secretary or Assistant Administrator, will be responsible for leading and overseeing the strategy.
   - **(7)** A list of priority countries and regions selected pursuant to section 9804 of this title , including descriptions of the rationale for such selections.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 116–94, div. J, title V, § 504](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3061](https://www.govinfo.gov/link/statute/133/3061).)*

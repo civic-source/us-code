@@ -3,9 +3,10 @@ title: "Section 6511 - Definitions"
 usc_title: 16
 usc_section: "6511"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6511"
-generated_at: "2026-03-30T02:54:23.060Z"
+generated_at: "2026-11-23T20:26:20.798Z"
+status: "active"
 ---
 
 # § 6511. Definitions
@@ -78,3 +79,7 @@ In this subchapter:
         - **(II)** has a geographic feature that aids in creating an effective fire break, such as a road or ridge top; or
         - **(III)** is in condition class 3, as documented by the Secretary in the project-specific environmental analysis; and
       - **(iii)** an area that is adjacent to an evacuation route for an at-risk community that the Secretary determines, in cooperation with the at-risk community, requires hazardous fuel reduction to provide safer evacuation from the at-risk community.
+
+## Source Credit
+
+*([Pub. L. 108–148, title I, § 101](https://www.govinfo.gov/link/plaw/108/public/148), Dec. 3, 2003, [117 Stat. 1889](https://www.govinfo.gov/link/statute/117/1889); [Pub. L. 115–141, div. O, title II, § 203](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1064](https://www.govinfo.gov/link/statute/132/1064).)*

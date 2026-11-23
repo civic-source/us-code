@@ -3,9 +3,10 @@ title: "Section 16358 - Strategic research portfolio analysis and coordination p
 usc_title: 42
 usc_section: "16358"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16358"
-generated_at: "2026-03-30T02:56:11.484Z"
+generated_at: "2026-11-23T20:27:23.672Z"
+status: "active"
 ---
 
 # § 16358. Strategic research portfolio analysis and coordination plan
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:11.484Z"
 - **(c)** Every 4 years, the Secretary shall submit to Congress—
   - **(1)** the results of the review under subsection (a); and
   - **(2)** the coordination plan under subsection (b).
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 994](https://www.govinfo.gov/link/plaw/109/public/58), as added [Pub. L. 115–246, title II, § 204](https://www.govinfo.gov/link/plaw/115/public/246), Sept. 28, 2018, [132 Stat. 3136](https://www.govinfo.gov/link/statute/132/3136).)*

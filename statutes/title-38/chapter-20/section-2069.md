@@ -3,9 +3,10 @@ title: "Section 2069 - Access to telehealth services"
 usc_title: 38
 usc_section: "2069"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 2069"
-generated_at: "2026-03-30T02:55:53.495Z"
+generated_at: "2026-11-23T20:27:01.777Z"
+status: "active"
 ---
 
 # § 2069. Access to telehealth services
@@ -15,3 +16,7 @@ To the extent practicable, the Secretary shall ensure that veterans participatin
   - **(1)** such veterans;
   - **(2)** case managers of the Department of programs for homeless veterans authorized under this chapter; and
   - **(3)** community-based service providers for homeless veterans receiving funds from the Department through grants or contracts.
+
+## Source Credit
+
+*(Added [Pub. L. 118–210, title IV, § 404(a)](https://www.govinfo.gov/link/plaw/118/public/210), Jan. 2, 2025, [138 Stat. 2797](https://www.govinfo.gov/link/statute/138/2797).)*

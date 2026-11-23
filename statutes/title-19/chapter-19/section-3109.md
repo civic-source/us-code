@@ -3,9 +3,10 @@ title: "Section 3109 - Submission of data; action to ensure compliance"
 usc_title: 19
 usc_section: "3109"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3109"
-generated_at: "2026-03-30T02:54:24.688Z"
+generated_at: "2026-11-23T20:26:11.033Z"
+status: "active"
 ---
 
 # § 3109. Submission of data; action to ensure compliance
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:24.688Z"
     - **(B)** For purposes of this paragraph, the term “entered” means entered, or withdrawn from warehouse for consumption, in the customs territory of the United States.
   - **(2)** The Commission, the Secretary of Commerce, and the Trade Representative shall provide such assistance in the enforcement of paragraph (1) as the Secretary of the Treasury may request.
   - **(3)** The Secretary of the Treasury shall compile the information collected under paragraph (1)(A)(ii) into a summary and shall annually submit such summary to the Congress until the authority to negotiate trade agreements under chapter 17 of this title expires. Such information shall also be made available to the public.
+
+## Source Credit
+
+*([Pub. L. 100–418, title I, § 1380](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1223](https://www.govinfo.gov/link/statute/102/1223).)*

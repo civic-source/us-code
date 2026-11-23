@@ -3,12 +3,17 @@ title: "Section 253 - Wines for sacramental purposes"
 usc_title: 25
 usc_section: "253"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 253"
-generated_at: "2026-03-30T02:54:52.801Z"
+generated_at: "2026-11-23T20:26:25.365Z"
+status: "active"
 ---
 
 # § 253. Wines for sacramental purposes
 
 It shall not be unlawful to introduce and use wines solely for sacramental purposes, under church authority, at any place within the Indian country or any Indian reservation, including the Pueblo Reservations in New Mexico.
 
+
+## Source Credit
+
+*(Aug. 24, 1912, ch. 388, § 1, [37 Stat. 519](https://www.govinfo.gov/link/statute/37/519).)*

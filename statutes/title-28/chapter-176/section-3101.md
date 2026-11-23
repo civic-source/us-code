@@ -3,9 +3,10 @@ title: "Section 3101 - Prejudgment remedies"
 usc_title: 28
 usc_section: "3101"
 chapter: 176
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 3101"
-generated_at: "2026-03-30T02:55:30.152Z"
+generated_at: "2026-11-23T20:26:36.542Z"
+status: "active"
 ---
 
 # § 3101. Prejudgment remedies
@@ -40,3 +41,19 @@ generated_at: "2026-03-30T02:55:30.152Z"
 - **(e)** Issuance of Writ .—On the court’s determination that the requirements of subsections (a), (b), and
 - **(c)** have been met, the court shall issue all process sufficient to put into effect the prejudgment remedy sought.
 
+
+Application
+
+Grounds
+
+Affidavit
+
+Notice and Hearing
+
+“notice
+
+Issuance of Writ
+
+## Source Credit
+
+*(Added [Pub. L. 101–647, title XXXVI, § 3611](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4939](https://www.govinfo.gov/link/statute/104/4939).)*

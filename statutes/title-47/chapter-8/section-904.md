@@ -3,9 +3,10 @@ title: "Section 904 - General administrative provisions"
 usc_title: 47
 usc_section: "904"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 904"
-generated_at: "2026-03-30T02:56:24.527Z"
+generated_at: "2026-11-23T20:27:28.967Z"
+status: "active"
 ---
 
 # § 904. General administrative provisions
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:24.527Z"
   - **(1)** Subject to paragraph (2), the Secretary may reassign to another unit of the Department of Commerce a function (or portion thereof) required to be assigned to the NTIA by section 902(b) of this title .
   - **(2)** The Secretary may not make any reassignment of a function (or portion thereof) required to be assigned to the NTIA by section 902(b) of this title unless the Secretary submits to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a statement describing the proposed reassignment and containing an explanation of the reasons for the reassignment. No reassignment of any such function (or portion thereof) shall be effective until 90 legislative days after the Secretary submits that statement to such Committees. For purposes of this paragraph, the term “legislative days” includes only days on which both Houses of Congress are in session.
 - **(e)** Notwithstanding section 1522 of title 15 , neither the Secretary, the Assistant Secretary, nor any officer or employee of the NTIA shall solicit any gift or bequest of property, both real and personal, from any entity for the purpose of furthering the authorized functions of the NTIA if such solicitation would create a conflict of interest or an appearance of a conflict of interest.
+
+## Source Credit
+
+*([Pub. L. 102–538, title I, § 105](https://www.govinfo.gov/link/plaw/102/public/538), Oct. 27, 1992, [106 Stat. 3538](https://www.govinfo.gov/link/statute/106/3538).)*

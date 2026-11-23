@@ -3,12 +3,17 @@ title: "Section 6309 - Voyage data recorder access"
 usc_title: 46
 usc_section: "6309"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 6309"
-generated_at: "2026-03-30T02:56:15.549Z"
+generated_at: "2026-11-23T20:27:27.107Z"
+status: "active"
 ---
 
 # § 6309. Voyage data recorder access
 
 Notwithstanding any other provision of law, the Coast Guard shall have full, concurrent, and timely access to and ability to use voyage data recorder data and audio held by any Federal agency in all marine casualty investigations, regardless of which agency is the investigative lead.
 
+
+## Source Credit
+
+*(Added [Pub. L. 115–265, title II, § 207(a)](https://www.govinfo.gov/link/plaw/115/public/265), Oct. 11, 2018, [132 Stat. 3747](https://www.govinfo.gov/link/statute/132/3747).)*

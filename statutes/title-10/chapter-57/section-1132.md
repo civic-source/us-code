@@ -3,9 +3,10 @@ title: "Section 1132 - Presentation of decorations: prohibition on entering corr
 usc_title: 10
 usc_section: "1132"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1132"
-generated_at: "2026-03-30T02:53:38.110Z"
+generated_at: "2026-11-23T20:25:51.255Z"
+status: "active"
 ---
 
 # § 1132. Presentation of decorations: prohibition on entering correctional facilities for presentation to prisoners convicted of serious violent felonies
@@ -14,3 +15,11 @@ generated_at: "2026-03-30T02:53:38.110Z"
 - **(b)** In this section:
   - **(1)** The term “decoration” means any decoration or award that may be presented or awarded to a member of the armed forces.
   - **(2)** The term “serious violent felony” has the meaning given that term in section 3559(c)(2)(F) of title 18 .
+
+Prohibition
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 105–261, div. A, title V, § 537(a)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2019](https://www.govinfo.gov/link/statute/112/2019).)*

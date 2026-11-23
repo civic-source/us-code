@@ -3,9 +3,10 @@ title: "Section 7807 - Cooperation in carrying out the Convention"
 usc_title: 16
 usc_section: "7807"
 chapter: 97
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 7807"
-generated_at: "2026-03-30T02:54:23.078Z"
+generated_at: "2026-11-23T20:26:20.860Z"
+status: "active"
 ---
 
 # § 7807. Cooperation in carrying out the Convention
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:23.078Z"
   - **(1)** conducting or authorizing the conduct of fishing operations and biological experiments at any time for purposes of scientific investigation; or
   - **(2)** discharging any other duties prescribed by the South Pacific Fishery Resources Convention.
 - **(d)** Nothing in this chapter shall be construed to diminish or to increase the jurisdiction of any State in the territorial sea of the United States.
+
+## Source Credit
+
+*([Pub. L. 114–327, title II, § 207](https://www.govinfo.gov/link/plaw/114/public/327), Dec. 16, 2016, [130 Stat. 1992](https://www.govinfo.gov/link/statute/130/1992).)*

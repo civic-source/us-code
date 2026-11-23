@@ -3,9 +3,10 @@ title: "Section 8029 - Naval Air Warfare Rapid Capabilities Office"
 usc_title: 10
 usc_section: "8029"
 chapter: 803
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 8029"
-generated_at: "2026-03-30T02:53:38.237Z"
+generated_at: "2026-11-23T20:25:52.132Z"
+status: "active"
 ---
 
 # § 8029. Naval Air Warfare Rapid Capabilities Office
@@ -41,3 +42,35 @@ generated_at: "2026-03-30T02:53:38.237Z"
     - **(B)** capability gaps addressed by the Office;
     - **(C)** the progress of the Office in experimenting, developing, testing, and fielding capabilities described in subsection (c); and
     - **(D)** any barriers to the ability of the Office to carry out its mission, including any legislative or regulatory barriers.
+
+Establishment
+
+Head of Office
+
+Mission
+
+Acquisition Authorities.—
+
+In general
+
+Inapplicability of jcids
+
+Required Program Elements
+
+Executive Oversight Board.—
+
+In general
+
+Officials specified
+
+Annual Reports and Briefings.—
+
+Report
+
+Briefing
+
+Elements
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title II, § 215](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 184](https://www.govinfo.gov/link/statute/137/184).)*

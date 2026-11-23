@@ -3,9 +3,10 @@ title: "Section 3611 - Subpoenas; giving of evidence"
 usc_title: 42
 usc_section: "3611"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3611"
-generated_at: "2026-03-30T02:56:11.191Z"
+generated_at: "2026-11-23T20:27:22.304Z"
+status: "active"
 ---
 
 # § 3611. Subpoenas; giving of evidence
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.191Z"
     - **(A)** makes or causes to be made any false entry or statement of fact in any report, account, record, or other document produced pursuant to subpoena or other lawful order under subsection (a);
     - **(B)** willfully neglects or fails to make or to cause to be made full, true, and correct entries in such reports, accounts, records, or other documents; or
     - **(C)** willfully mutilates, alters, or by any other means falsifies any documentary evidence;
+
+## Source Credit
+
+*([Pub. L. 90–284, title VIII, § 811](https://www.govinfo.gov/link/plaw/90/public/284), as added [Pub. L. 100–430, § 8(2)](https://www.govinfo.gov/link/plaw/100/public/430), Sept. 13, 1988, [102 Stat. 1628](https://www.govinfo.gov/link/statute/102/1628).)*

@@ -3,9 +3,10 @@ title: "Section 1506 - Administrative Committee of the Federal Register; establi
 usc_title: 44
 usc_section: "1506"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "44 U.S.C. § 1506"
-generated_at: "2026-03-30T02:55:56.291Z"
+generated_at: "2026-11-23T20:27:03.787Z"
+status: "active"
 ---
 
 # § 1506. Administrative Committee of the Federal Register; establishment and composition; powers and duties
@@ -26,3 +27,15 @@ generated_at: "2026-03-30T02:55:56.291Z"
     - **(A)** provisions regarding notifications to offices of Members of Congress and other offices of the United States of the restrictions of paragraph (1);
     - **(B)** provisions describing the process by which Members and other offices may request a specific issue of the Federal Register for purposes of paragraph (1)(A); and
     - **(C)** provisions describing the process by which Members and other offices may request a subscription to the Federal Register for purposes of paragraph (1)(B), except that such regulations shall limit the period for such a subscription to not longer than 1 year.
+
+Composition; Duties
+
+Restrictions on Distribution of Free Printed Copies to Members of Congress and Officers and Employees of the United States.—
+
+Prohibiting subscription to printed copies without request
+
+Administration of subscriptions
+
+## Source Credit
+
+*([Pub. L. 90–620](https://www.govinfo.gov/link/plaw/90/public/620), Oct. 22, 1968, [82 Stat. 1275](https://www.govinfo.gov/link/statute/82/1275); [Pub. L. 98–497, title I, § 107(b)(5)](https://www.govinfo.gov/link/plaw/98/public/497), Oct. 19, 1984, [98 Stat. 2287](https://www.govinfo.gov/link/statute/98/2287); [Pub. L. 113–235, div. H, title I, § 1301(c)(1)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537); [Pub. L. 115–120, div. A, § 2(a)](https://www.govinfo.gov/link/plaw/115/public/120), Jan. 22, 2018, [132 Stat. 28](https://www.govinfo.gov/link/statute/132/28); [Pub. L. 118–267, § 2(f)](https://www.govinfo.gov/link/plaw/118/public/267), Jan. 4, 2025, [138 Stat. 2985](https://www.govinfo.gov/link/statute/138/2985).)*

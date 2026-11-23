@@ -3,9 +3,10 @@ title: "Section 1506 - Conduct of proceedings"
 usc_title: 17
 usc_section: "1506"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 1506"
-generated_at: "2026-03-30T02:54:15.358Z"
+generated_at: "2026-11-23T20:26:06.556Z"
+status: "active"
 ---
 
 # § 1506. Conduct of proceedings
@@ -127,3 +128,107 @@ generated_at: "2026-03-30T02:54:15.358Z"
     - **(A)** charge a library or archives a fee to preemptively opt out of proceedings under this subsection; or
     - **(B)** require a library or archives to renew a decision to preemptively opt out of proceedings under this subsection.
   - **(4)** For purposes of this subsection, the terms “library” and “archives” mean any library or archives, respectively, that qualifies for the limitations on exclusive rights under section 108.
+
+In General.—
+
+Applicable law
+
+Conflicting precedent
+
+Record
+
+Centralized Process
+
+Representation
+
+Commencement of Proceeding
+
+Review of Claims and Counterclaims.—
+
+Claims
+
+Counterclaims
+
+Dismissal for unsuitability
+
+Service of Notice and Claims
+
+Notification by Copyright Claims Board
+
+Opt-Out Procedure
+
+Service of Other Documents
+
+Scheduling
+
+Conferences
+
+Party Submissions
+
+Discovery
+
+Evidence
+
+Hearings
+
+Voluntary Dismissal.—
+
+By claimant
+
+By counterclaimant
+
+Class actions
+
+Settlement.—
+
+In general
+
+Additional request
+
+Factual Findings
+
+Determinations.—
+
+Nature and contents
+
+Dissent
+
+Publication
+
+Freedom of information act
+
+Respondent’s Default
+
+Claimant’s Failure To Proceed.—
+
+Failure to complete service
+
+Failure to prosecute
+
+Request for Reconsideration
+
+Review by Register
+
+Conduct of Parties and Attorneys.—
+
+Certification
+
+Bad faith conduct
+
+Additional penalty
+
+Regulations for Smaller Claims
+
+Opt-out for Libraries and Archives.—
+
+In general
+
+Procedures
+
+No fee or renewal required
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 116–260, div. Q, title II, § 212(b)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2185](https://www.govinfo.gov/link/statute/134/2185).)*

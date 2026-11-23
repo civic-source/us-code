@@ -3,9 +3,10 @@ title: "Section 280c - Establishment of program"
 usc_title: 42
 usc_section: "280c"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 280c"
-generated_at: "2026-03-30T02:56:10.726Z"
+generated_at: "2026-11-23T20:27:20.147Z"
+status: "active"
 ---
 
 # § 280c. Establishment of program
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:10.726Z"
 - **(c)** A State may not make payments from a grant under subsection (a) for any item or service to the extent that payment has been made, or can reasonably be expected to be made, with respect to such item or service—
   - **(1)** under any State compensation program, under an insurance policy, or under any Federal or State health benefits program; or
   - **(2)** by an entity that provides health services on a prepaid basis.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 395, as added [Pub. L. 100–175, title VI, § 602](https://www.govinfo.gov/link/plaw/100/public/175), Nov. 29, 1987, [101 Stat. 979](https://www.govinfo.gov/link/statute/101/979); amended [Pub. L. 101–557, title I, § 101(a)](https://www.govinfo.gov/link/plaw/101/public/557) –(c), Nov. 15, 1990, [104 Stat. 2766](https://www.govinfo.gov/link/statute/104/2766); [Pub. L. 102–108, § 2(f)](https://www.govinfo.gov/link/plaw/102/public/108), Aug. 17, 1991, [105 Stat. 550](https://www.govinfo.gov/link/statute/105/550).)*

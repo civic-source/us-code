@@ -3,9 +3,10 @@ title: "Section 1511 - Loans for geothermal reservoir confirmation"
 usc_title: 30
 usc_section: "1511"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1511"
-generated_at: "2026-03-30T02:55:29.406Z"
+generated_at: "2026-11-23T20:26:35.049Z"
+status: "active"
 ---
 
 # § 1511. Loans for geothermal reservoir confirmation
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:29.406Z"
   - **(3)** a sale of energy or geothermal energy resources from the reservoir is made for an unreasonably low price;
 - **(c)** The Secretary may at any time cancel the unpaid balance and any accrued interest on any loan made under this section if he determines, on the basis of evidence presented by the loan recipient or otherwise, that the geothermal energy reservoir with respect to which the loan was made has characteristics which make that reservoir economically or technically unacceptable for commercial development.
 - **(d)** As used in this subchapter, the term “person” includes municipalities, electric cooperatives, industrial development agencies, nonprofit organizations, and Indian tribes, as well as the entities included within such term under section 1 of title 1 .
+
+## Source Credit
+
+*([Pub. L. 96–294, title VI, § 611](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 763](https://www.govinfo.gov/link/statute/94/763).)*

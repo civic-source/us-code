@@ -3,9 +3,10 @@ title: "Section 1272 - Current inclusion in income of original issue discount"
 usc_title: 26
 usc_section: "1272"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1272"
-generated_at: "2026-03-30T02:55:27.765Z"
+generated_at: "2026-11-23T20:26:46.068Z"
+status: "active"
 ---
 
 # § 1272. Current inclusion in income of original issue discount
@@ -58,3 +59,9 @@ generated_at: "2026-03-30T02:55:27.765Z"
     - **(A)** any acquisition of a debt instrument, where
     - **(B)** the basis of the debt instrument is not determined in whole or in part by reference to the adjusted basis of such debt instrument in the hands of the person from whom acquired.
   - **(2)** The basis of any debt instrument in the hands of the holder thereof shall be increased by the amount included in his gross income pursuant to this section.
+
+“In the case of any taxpayer required by this section [amending this section and enacting provisions set out as a note above] to change its method of accounting for its first taxable year beginning after the date of the enactment of this Act [ Aug. 5, 1997 ]—
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title I, § 41(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 533](https://www.govinfo.gov/link/statute/98/533); amended [Pub. L. 99–514, title VI, § 672](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2318](https://www.govinfo.gov/link/statute/100/2318); [Pub. L. 105–34, title X, § 1004(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 911](https://www.govinfo.gov/link/statute/111/911); [Pub. L. 115–141, div. U, title IV, § 401(c)(1)(B)](https://www.govinfo.gov/link/plaw/115/public/141), (F), (3)(A), Mar. 23, 2018, [132 Stat. 1205](https://www.govinfo.gov/link/statute/132/1205), 1206.)*

@@ -3,9 +3,10 @@ title: "Section 3395 - Reassignment and transfer within the Senior Executive Ser
 usc_title: 5
 usc_section: "3395"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 3395"
-generated_at: "2026-03-30T02:52:56.006Z"
+generated_at: "2026-11-23T20:25:31.837Z"
+status: "active"
 ---
 
 # § 3395. Reassignment and transfer within the Senior Executive Service
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:52:56.006Z"
     - **(A)** any reassignment under section 4314(b)(3) of this title ; or
     - **(B)** any disciplinary action initiated before an appointment referred to in paragraph (1) of this subsection.
   - **(3)** For the purpose of applying paragraph (1) to a career appointee, any days (not to exceed a total of 60) during which such career appointee is serving pursuant to a detail or other temporary assignment apart from such appointee’s regular position shall not be counted in determining the number of days that have elapsed since an appointment referred to in subparagraph (A) or (B) of such paragraph.
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1163](https://www.govinfo.gov/link/statute/92/1163); amended [Pub. L. 98–615, title III, § 304(a)](https://www.govinfo.gov/link/plaw/98/public/615), Nov. 8, 1984, [98 Stat. 3218](https://www.govinfo.gov/link/statute/98/3218); [Pub. L. 102–175, § 3](https://www.govinfo.gov/link/plaw/102/public/175), Dec. 2, 1991, [105 Stat. 1222](https://www.govinfo.gov/link/statute/105/1222).)*

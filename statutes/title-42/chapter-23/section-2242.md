@@ -3,9 +3,10 @@ title: "Section 2242 - Temporary operating license"
 usc_title: 42
 usc_section: "2242"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2242"
-generated_at: "2026-03-30T02:56:11.157Z"
+generated_at: "2026-11-23T20:27:22.116Z"
+status: "active"
 ---
 
 # § 2242. Temporary operating license
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.157Z"
 - **(c)** Any hearing on the application for the final operating license for a facility required pursuant to section 2239(a) of this title shall be concluded as promptly as practicable. The Commission shall suspend the temporary operating license if it finds that the applicant is not prosecuting the application for the final operating license with due diligence. Issuance of a temporary operating license under subsection (b) of this section shall be without prejudice to the right of any party to raise any issue in a hearing required pursuant to section 2239(a) of this title ; and failure to assert any ground for denial or limitation of a temporary operating license shall not bar the assertion of such ground in connection with the issuance of a subsequent final operating license. Any party to a hearing required pursuant to section 2239(a) of this title on the final operating license for a facility for which a temporary operating license has been issued under subsection (b), and any member of the Atomic Safety and Licensing Board conducting such hearing, shall promptly notify the Commission of any information indicating that the terms and conditions of the temporary operating license are not being met, or that such terms and conditions are not sufficient to comply with the provisions of paragraph (2) of subsection (b).
 - **(d)** The Commission is authorized and directed to adopt such administrative remedies as the Commission deems appropriate to minimize the need for issuance of temporary operating licenses pursuant to this section.
 - **(e)** The authority to issue new temporary operating licenses under this section shall expire on December 31, 1983 .
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 192, as added [Pub. L. 92–307](https://www.govinfo.gov/link/plaw/92/public/307), June 2, 1972, [86 Stat. 191](https://www.govinfo.gov/link/statute/86/191); amended [Pub. L. 97–415, § 11](https://www.govinfo.gov/link/plaw/97/public/415), Jan. 4, 1983, [96 Stat. 2071](https://www.govinfo.gov/link/statute/96/2071); renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944); [Pub. L. 103–437, § 15(f)(8)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4593](https://www.govinfo.gov/link/statute/108/4593).)*

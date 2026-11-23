@@ -3,9 +3,10 @@ title: "Section 8811 - National Quantum Initiative Program"
 usc_title: 15
 usc_section: "8811"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 8811"
-generated_at: "2026-03-30T02:54:08.234Z"
+generated_at: "2026-11-23T20:26:04.504Z"
+status: "active"
 ---
 
 # § 8811. National Quantum Initiative Program
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:08.234Z"
   - **(4)** provide for interagency planning and coordination of Federal quantum information science and technology research, development, demonstration, standards engagement, and other activities under the Program;
   - **(5)** partner with industry and universities to leverage knowledge and resources; and
   - **(6)** leverage existing Federal investments efficiently to advance Program goals and priorities established under paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 115–368, title I, § 101](https://www.govinfo.gov/link/plaw/115/public/368), Dec. 21, 2018, [132 Stat. 5094](https://www.govinfo.gov/link/statute/132/5094).)*

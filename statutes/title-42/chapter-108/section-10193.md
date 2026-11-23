@@ -3,9 +3,10 @@ title: "Section 10193 - Identification of sites"
 usc_title: 42
 usc_section: "10193"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10193"
-generated_at: "2026-03-30T02:56:11.383Z"
+generated_at: "2026-11-23T20:27:23.220Z"
+status: "active"
 ---
 
 # § 10193. Identification of sites
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.383Z"
     - **(D)** a description of the decision process by which such site was recommended; and
     - **(E)** an assessment of the regional and local impacts of locating the proposed test and evaluation facility at such site.
   - **(2)** When the Secretary identifies a site, the Secretary shall as soon as possible notify the Governor of the State in which such site is located, or the governing body of the affected Indian tribe where such site is located, of such identification and the basis of such identification. Additional sites for the location of the test and evaluation facility authorized in section 10222(d) of this title may be identified after such 1 year period, following the same procedure as if such sites had been identified within such period.
+
+## Source Credit
+
+*([Pub. L. 97–425, title II, § 213](https://www.govinfo.gov/link/plaw/97/public/425), Jan. 7, 1983, [96 Stat. 2245](https://www.govinfo.gov/link/statute/96/2245); [Pub. L. 102–154, title I](https://www.govinfo.gov/link/plaw/102/public/154), Nov. 13, 1991, [105 Stat. 1000](https://www.govinfo.gov/link/statute/105/1000).)*

@@ -3,9 +3,10 @@ title: "Section 2502 - Rate of tax"
 usc_title: 26
 usc_section: "2502"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 2502"
-generated_at: "2026-03-30T02:55:27.784Z"
+generated_at: "2026-11-23T20:26:46.170Z"
+status: "active"
 ---
 
 # § 2502. Rate of tax
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:27.784Z"
   - **(2)** the first calendar quarter of calendar year 1971 and all calendar quarters intervening between such calendar quarter and the first calendar quarter of calendar year 1982, and
   - **(3)** all calendar years after 1981 and before the calendar year for which the tax is being computed.
 - **(c)** The tax imposed by section 2501 shall be paid by the donor.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 403; [Pub. L. 91–614, title I, § 102(a)(2)](https://www.govinfo.gov/link/plaw/91/public/614), Dec. 31, 1970, [84 Stat. 1839](https://www.govinfo.gov/link/statute/84/1839); [Pub. L. 94–455, title XX, § 2001(b)(1)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1849](https://www.govinfo.gov/link/statute/90/1849); [Pub. L. 97–34, title IV, § 442(a)(2)](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 320](https://www.govinfo.gov/link/statute/95/320); [Pub. L. 100–203, title X, § 10401(b)(2)(B)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–431](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 107–16, title V, § 511(d)](https://www.govinfo.gov/link/plaw/107/public/16), June 7, 2001, [115 Stat. 70](https://www.govinfo.gov/link/statute/115/70); [Pub. L. 111–312, title III, § 302(b)(2)](https://www.govinfo.gov/link/plaw/111/public/312), Dec. 17, 2010, [124 Stat. 3301](https://www.govinfo.gov/link/statute/124/3301).)*

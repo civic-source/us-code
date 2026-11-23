@@ -3,9 +3,10 @@ title: "Section 2906 - Monitoring of estuary habitat restoration projects"
 usc_title: 33
 usc_section: "2906"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2906"
-generated_at: "2026-03-30T02:55:41.135Z"
+generated_at: "2026-11-23T20:26:54.233Z"
+status: "active"
 ---
 
 # § 2906. Monitoring of estuary habitat restoration projects
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:41.135Z"
 - **(d)** The Under Secretary shall have general data compilation, coordination, and analysis responsibilities to carry out this chapter and in support of the strategy developed under this section, including compilation of information that pertains to estuary habitat restoration projects from other Federal, State, and local sources and that meets the quality control requirements and data standards established under this section.
 - **(e)** The Under Secretary shall use existing programs within the National Oceanic and Atmospheric Administration to create and maintain the database required under this section.
 - **(f)** The Under Secretary shall make the information collected and maintained under this section available to the public.
+
+## Source Credit
+
+*([Pub. L. 106–457, title I, § 107](https://www.govinfo.gov/link/plaw/106/public/457), Nov. 7, 2000, [114 Stat. 1964](https://www.govinfo.gov/link/statute/114/1964); [Pub. L. 110–114, title V, § 5017(e)](https://www.govinfo.gov/link/plaw/110/public/114), Nov. 8, 2007, [121 Stat. 1198](https://www.govinfo.gov/link/statute/121/1198).)*

@@ -3,12 +3,21 @@ title: "Section 12 - Regulations; conformity of regulations with administrative 
 usc_title: 42
 usc_section: "12"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12"
-generated_at: "2026-03-30T02:56:11.139Z"
+generated_at: "2026-11-23T20:27:22.020Z"
+status: "active"
 ---
 
 # § 2000e–12. Regulations; conformity of regulations with administrative procedure provisions; reliance on interpretations and instructions of Commission
 
 - **(a)** The Commission shall have authority from time to time to issue, amend, or rescind suitable procedural regulations to carry out the provisions of this subchapter. Regulations issued under this section shall be in conformity with the standards and limitations of subchapter II of chapter 5 of title 5.
 - **(b)** In any action or proceeding based on any alleged unlawful employment practice, no person shall be subject to any liability or punishment for or on account of (1) the commission by such person of an unlawful employment practice if he pleads and proves that the act or omission complained of was in good faith, in conformity with, and in reliance on any written interpretation or opinion of the Commission, or (2) the failure of such person to publish and file any information required by any provision of this subchapter if he pleads and proves that he failed to publish and file such information in good faith, in conformity with the instructions of the Commission issued under this subchapter regarding the filing of such information. Such a defense, if established, shall be a bar to the action or proceeding, notwithstanding that (A) after such act or omission, such interpretation or opinion is modified or rescinded or is determined by judicial authority to be invalid or of no legal effect, or (B) after publishing or filing the description and annual reports, such publication or filing is determined by judicial authority not to be in conformity with the requirements of this subchapter.
+
+Findings
+
+Category of Religious Harassment in Proposed Guidelines
+
+## Source Credit
+
+*([Pub. L. 88–352, title VII, § 713](https://www.govinfo.gov/link/plaw/88/public/352), July 2, 1964, [78 Stat. 265](https://www.govinfo.gov/link/statute/78/265).)*

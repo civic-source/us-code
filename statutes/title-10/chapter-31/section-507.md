@@ -3,12 +3,17 @@ title: "Section 507 - Extension of enlistment for members needing medical care o
 usc_title: 10
 usc_section: "507"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 507"
-generated_at: "2026-03-30T02:53:38.064Z"
+generated_at: "2026-11-23T20:25:50.983Z"
+status: "active"
 ---
 
 # § 507. Extension of enlistment for members needing medical care or hospitalization
 
 - **(a)** An enlisted member of an armed force on active duty whose term of enlistment expires while he is suffering from disease or injury incident to service and not due to his misconduct, and who needs medical care or hospitalization, may be retained on active duty, with his consent, until he recovers to the extent that he is able to meet the physical requirements for reenlistment, or it is determined that recovery to that extent is impossible.
 - **(b)** This section does not prevent the retention in service, without his consent, of an enlisted member of an armed force under section 972 of this title .
+
+## Source Credit
+
+*(Added [Pub. L. 90–235, § 2(a)(1)(B)](https://www.govinfo.gov/link/plaw/90/public/235), Jan. 2, 1968, [81 Stat. 754](https://www.govinfo.gov/link/statute/81/754).)*

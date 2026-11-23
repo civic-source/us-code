@@ -3,9 +3,10 @@ title: "Section 3221 - Native American programs"
 usc_title: 29
 usc_section: "3221"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3221"
-generated_at: "2026-03-30T02:55:18.757Z"
+generated_at: "2026-11-23T20:26:38.114Z"
+status: "active"
 ---
 
 # § 3221. Native American programs
@@ -79,3 +80,7 @@ generated_at: "2026-03-30T02:55:18.757Z"
     - **(D)** $518,000 for fiscal year 2018;
     - **(E)** $530,000 for fiscal year 2019; and
     - **(F)** $542,000 for fiscal year 2020.
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 166](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1560](https://www.govinfo.gov/link/statute/128/1560); [Pub. L. 114–95, title IX, § 9215(yyy)(4)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2192](https://www.govinfo.gov/link/statute/129/2192); [Pub. L. 117–286, § 4(a)(192)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4327](https://www.govinfo.gov/link/statute/136/4327).)*

@@ -3,9 +3,10 @@ title: "Section 360kk - Performance standards for electronic products"
 usc_title: 21
 usc_section: "360kk"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 360kk"
-generated_at: "2026-03-30T02:54:54.254Z"
+generated_at: "2026-11-23T20:26:27.663Z"
+status: "active"
 ---
 
 # § 360kk. Performance standards for electronic products
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:54:54.254Z"
   - **(2)** Payments to members of the Committee who are not officers or employees of the United States pursuant to subsection (c) of section 210 of title 42 shall not render members of the Committee officers or employees of the United States for any purpose.
 - **(g)** The Secretary shall review and evaluate on a continuing basis testing programs carried out by industry to assure the adequacy of safeguards against hazardous electronic product radiation and to assure that electronic products comply with standards prescribed under this section.
 - **(h)** Every manufacturer of an electronic product to which is applicable a standard in effect under this section shall furnish to the distributor or dealer at the time of delivery of such product, in the form of a label or tag permanently affixed to such product or in such manner as approved by the Secretary, the certification that such product conforms to all applicable standards under this section. Such certification shall be based upon a test, in accordance with such standard, of the individual article to which it is attached or upon a testing program which is in accord with good manufacturing practice and which has not been disapproved by the Secretary (in such manner as he shall prescribe by regulation) on the grounds that it does not assure the adequacy of safeguards against hazardous electronic product radiation or that it does not assure that electronic products comply with the standards prescribed under this section.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 534, formerly act July 1, 1944, ch. 373, title III, § 534, formerly § 358, as added [Pub. L. 90–602, § 2(3)](https://www.govinfo.gov/link/plaw/90/public/602), Oct. 18, 1968, [82 Stat. 1177](https://www.govinfo.gov/link/statute/82/1177); amended [Pub. L. 91–515, title VI, § 601(b)(2)](https://www.govinfo.gov/link/plaw/91/public/515), (3), Oct. 30, 1970, [84 Stat. 1311](https://www.govinfo.gov/link/statute/84/1311); renumbered § 534 and amended [Pub. L. 101–629, § 19(a)(1)(B)](https://www.govinfo.gov/link/plaw/101/public/629), (2)(B), (3), (4), Nov. 28, 1990, [104 Stat. 4529](https://www.govinfo.gov/link/statute/104/4529), 4530; [Pub. L. 103–80](https://www.govinfo.gov/link/plaw/103/public/80), §§ 3(w), 4(a)(2), Aug. 13, 1993, [107 Stat. 778](https://www.govinfo.gov/link/statute/107/778), 779.)*

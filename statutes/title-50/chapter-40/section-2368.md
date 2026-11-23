@@ -3,9 +3,10 @@ title: "Section 2368 - Annual reports on the proliferation of missiles and essen
 usc_title: 50
 usc_section: "2368"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 2368"
-generated_at: "2026-03-30T02:56:26.223Z"
+generated_at: "2026-11-23T20:27:30.843Z"
+status: "active"
 ---
 
 # § 2368. Annual reports on the proliferation of missiles and essential components of nuclear, biological, chemical, and radiological weapons
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:56:26.223Z"
   - **(2)** The terms “missile”, “MTCR”, and “MTCR equipment or technology” have the meanings given those terms in section 2797c of title 22 .
   - **(3)** The term “person” means any United States or foreign individual, partnership, corporation, or other form of association, or any of its successor entities, parents, or subsidiaries.
   - **(4)** The term “weaponize” or “weaponization” means to incorporate into, or the incorporation into, usable ordnance or other militarily useful means of delivery.
+
+## Source Credit
+
+*([Pub. L. 107–228, div. B, title XIII, § 1308](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1439](https://www.govinfo.gov/link/statute/116/1439).)*

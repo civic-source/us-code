@@ -3,9 +3,10 @@ title: "Section 7462 - Major adverse actions involving professional conduct or c
 usc_title: 38
 usc_section: "7462"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7462"
-generated_at: "2026-03-30T02:55:53.533Z"
+generated_at: "2026-11-23T20:27:02.029Z"
+status: "active"
 ---
 
 # § 7462. Major adverse actions involving professional conduct or competence
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:55:53.533Z"
     - **(A)** arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law;
     - **(B)** obtained without procedures required by law, rule, or regulation having been followed; or
     - **(C)** unsupported by substantial evidence.
+
+## Source Credit
+
+*(Added [Pub. L. 102–40, title II, § 203(a)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 203](https://www.govinfo.gov/link/statute/105/203); amended [Pub. L. 102–405, title III, § 302(c)(1)](https://www.govinfo.gov/link/plaw/102/public/405), Oct. 9, 1992, [106 Stat. 1984](https://www.govinfo.gov/link/statute/106/1984); [Pub. L. 115–41, title II, § 208(b)](https://www.govinfo.gov/link/plaw/115/public/41), June 23, 2017, [131 Stat. 878](https://www.govinfo.gov/link/statute/131/878); [Pub. L. 116–61, § 6(7)](https://www.govinfo.gov/link/plaw/116/public/61), Sept. 30, 2019, [133 Stat. 1117](https://www.govinfo.gov/link/statute/133/1117).)*

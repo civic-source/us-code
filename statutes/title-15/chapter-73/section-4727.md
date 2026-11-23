@@ -3,9 +3,10 @@ title: "Section 4727 - Trade Promotion Coordinating Committee"
 usc_title: 15
 usc_section: "4727"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 4727"
-generated_at: "2026-03-30T02:54:08.203Z"
+generated_at: "2026-11-23T20:26:04.355Z"
+status: "active"
 ---
 
 # § 4727. Trade Promotion Coordinating Committee
@@ -52,3 +53,73 @@ generated_at: "2026-03-30T02:54:08.203Z"
 - **(f)** The chairperson of the TPCC shall prepare and submit to the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on International Relations of the House of Representatives, not later than March 30 of each year, a report describing—
   - **(1)** the strategic plan developed by the TPCC pursuant to subsection (c), the implementation of such plan (including implementation of the survey and analysis described in paragraph (7) of that subsection), and any revisions thereto; and
   - **(2)** the implementation of sections 5823 and 5824 of title 22 1 1 See References in Text note below. concerning funding for export promotion activities and the interagency working groups on energy of the TPCC.
+
+“The Secretary of Commerce shall make available on the Internet website Export.gov (or a successor website) information on the resources relating to export promotion and export financing available in each State—
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Donald J. Trump.
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 100–418, title II, § 2312](https://www.govinfo.gov/link/plaw/100/public/418), as added [Pub. L. 102–429, title II, § 201](https://www.govinfo.gov/link/plaw/102/public/429), Oct. 21, 1992, [106 Stat. 2199](https://www.govinfo.gov/link/statute/106/2199); amended [Pub. L. 104–66, title I, § 1022(a)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 713](https://www.govinfo.gov/link/statute/109/713); [Pub. L. 104–288, § 8](https://www.govinfo.gov/link/plaw/104/public/288), Oct. 11, 1996, [110 Stat. 3407](https://www.govinfo.gov/link/statute/110/3407); [Pub. L. 106–158, § 7](https://www.govinfo.gov/link/plaw/106/public/158), Dec. 9, 1999, [113 Stat. 1747](https://www.govinfo.gov/link/statute/113/1747); [Pub. L. 114–125, title V, § 505(a)](https://www.govinfo.gov/link/plaw/114/public/125), (e), Feb. 24, 2016, [130 Stat. 179](https://www.govinfo.gov/link/statute/130/179), 180; [Pub. L. 115–254, div. F, title VI, § 1470(e)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3516](https://www.govinfo.gov/link/statute/132/3516).)*

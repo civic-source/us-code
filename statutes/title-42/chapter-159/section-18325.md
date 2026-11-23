@@ -3,9 +3,10 @@ title: "Section 18325 - NASA launch support and infrastructure modernization pro
 usc_title: 42
 usc_section: "18325"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18325"
-generated_at: "2026-03-30T02:56:11.519Z"
+generated_at: "2026-11-23T20:27:23.796Z"
+status: "active"
 ---
 
 # § 18325. NASA launch support and infrastructure modernization program
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.519Z"
     - **(A)** a description of the ground infrastructure plan tied to the Space Launch System and potential ground investment activities at other NASA centers related to supporting the development of the Space Launch System;
     - **(B)** a description of proposed initiatives intended to be conducted jointly or in cooperation with Cape Canaveral Air Force Station, Florida, or other installations or components of the United States Government; and
     - **(C)** a description of plans to use funds authorized to be appropriated by this chapter to improve non-NASA facilities, which plans shall include a business plan outlining the nature and scope of investments planned by other parties.
+
+## Source Credit
+
+*([Pub. L. 111–267, title III, § 305](https://www.govinfo.gov/link/plaw/111/public/267), Oct. 11, 2010, [124 Stat. 2817](https://www.govinfo.gov/link/statute/124/2817).)*

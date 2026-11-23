@@ -3,9 +3,10 @@ title: "Section 101113 - Gifts, devises, or bequests"
 usc_title: 54
 usc_section: "101113"
 chapter: 1011
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "54 U.S.C. § 101113"
-generated_at: "2026-03-30T02:56:28.414Z"
+generated_at: "2026-11-23T20:27:38.005Z"
+status: "active"
 ---
 
 # § 101113. Gifts, devises, or bequests
@@ -16,3 +17,51 @@ generated_at: "2026-03-30T02:56:28.414Z"
   - **(3)** A gift, devise, or bequest may be accepted by the National Park Foundation even though it is encumbered, restricted, or subject to beneficial interests of private persons if any current or future interest in the gift, devise, or bequest is for the benefit of the Service, its activities, or its services.
 - **(b)** The National Park Foundation may not accept any gift, devise, or bequest that entails any expenditure other than from the resources of the Foundation.
 - **(c)** For purposes of this section, an interest in real property includes easements or other rights for preservation, conservation, protection, or enhancement by and for the public of natural, scenic, historic, scientific, educational, inspirational, or recreational resources.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 101113(a)(1) | 16 U.S.C. 19g (1st sentence words before proviso). | Pub. L. 90–209, § 3 , Dec. 18, 1967 , 81 Stat. 656 . |
+| 101113(a)(2) | 16 U.S.C. 19g (last sentence). |  |
+| 101113(b) | 16 U.S.C. 19g (1st sentence proviso). |  |
+| 101113(c) | 16 U.S.C. 19g (2d sentence). |  |
+
+
+Authority To Accept Gifts, Devises, or Bequests.—
+
+In general
+
+Coordination with service
+
+Gift, devise, or bequest that is encumbered, restricted, or subject to beneficial interests
+
+When Gift, Devise, or Bequest May Not Be Accepted
+
+Interest in Real Property
+
+Historical and Revision Notes
+
+101113(a)(1)
+
+16 U.S.C. 19g
+
+Pub. L. 90–209, § 3
+
+Dec. 18, 1967
+
+81 Stat. 656
+
+101113(a)(2)
+
+16 U.S.C. 19g
+
+101113(b)
+
+16 U.S.C. 19g
+
+101113(c)
+
+16 U.S.C. 19g
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3120](https://www.govinfo.gov/link/statute/128/3120); [Pub. L. 114–289, title IV, § 401(2)](https://www.govinfo.gov/link/plaw/114/public/289), Dec. 16, 2016, [130 Stat. 1488](https://www.govinfo.gov/link/statute/130/1488).)*

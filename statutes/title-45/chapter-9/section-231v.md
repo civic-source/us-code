@@ -3,9 +3,10 @@ title: "Section 231v - Computation and certification of account benefit ratios"
 usc_title: 45
 usc_section: "231v"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 231v"
-generated_at: "2026-03-30T02:55:56.548Z"
+generated_at: "2026-11-23T20:27:05.271Z"
+status: "active"
 ---
 
 # § 231v. Computation and certification of account benefit ratios
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:56.548Z"
   - **(1)** compute the account benefits ratio for the fiscal year ending in such year, and
   - **(2)** certify the account benefits ratio for such fiscal year to the Secretary of the Treasury.
 - **(c)** As used in this section, the term “account benefits ratio” has the meaning given that term in section 3241(c) of the Internal Revenue Code of 1986 [ 26 U.S.C. 3241(c) ].
+
+## Source Credit
+
+*(Aug. 29, 1935, ch. 812, § 23, as added [Pub. L. 107–90, title I, § 108(b)](https://www.govinfo.gov/link/plaw/107/public/90), Dec. 21, 2001, [115 Stat. 890](https://www.govinfo.gov/link/statute/115/890).)*

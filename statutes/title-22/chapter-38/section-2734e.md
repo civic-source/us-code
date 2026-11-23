@@ -3,9 +3,10 @@ title: "Section 2734e - Annual Report"
 usc_title: 22
 usc_section: "2734e"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2734e"
-generated_at: "2026-03-30T02:55:05.382Z"
+generated_at: "2026-11-23T20:26:32.393Z"
+status: "active"
 ---
 
 # § 2734e. Annual Report
@@ -22,3 +23,7 @@ Not later than 90 days after December 27, 2021 , and annually thereafter, the Se
   - **(4)** The number of restrictions that were appealed and the success rate of such appeals.
   - **(5)** The impact of assignment restrictions in terms of unused language skills as measured by Foreign Service Institute language scores of such precluded employees.
   - **(6)** Measures taken to ensure the diversity of adjudicators and contracted investigators, with accompanying data on results.
+
+## Source Credit
+
+*([Pub. L. 117–81, div. E, title LIII, § 5311(d)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2364](https://www.govinfo.gov/link/statute/135/2364).)*

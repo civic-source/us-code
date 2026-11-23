@@ -3,9 +3,10 @@ title: "Section 1234h - Use of recovered funds"
 usc_title: 20
 usc_section: "1234h"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1234h"
-generated_at: "2026-03-30T02:54:48.159Z"
+generated_at: "2026-11-23T20:26:14.625Z"
+status: "active"
 ---
 
 # § 1234h. Use of recovered funds
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:48.159Z"
   - **(1)** the fiscal year in which final agency action under section 1234a(e) of this title is taken; or
   - **(2)** if such recipient files a petition for judicial review, the fiscal year in which final judicial action under section 1234g of this title is taken.
 - **(d)** At least 30 days prior to entering into an arrangement under this section, the Secretary shall publish in the Federal Register a notice of intent to enter into such an arrangement and the terms and conditions under which payments will be made. Interested persons shall have an opportunity for at least 30 days to submit comments to the Secretary regarding the proposed arrangement.
+
+## Source Credit
+
+*([Pub. L. 90–247, title IV, § 459](https://www.govinfo.gov/link/plaw/90/public/247), as added [Pub. L. 100–297, title III, § 3501(a)](https://www.govinfo.gov/link/plaw/100/public/297), Apr. 28, 1988, [102 Stat. 356](https://www.govinfo.gov/link/statute/102/356); amended [Pub. L. 103–382, title II, § 250(b)](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 3927](https://www.govinfo.gov/link/statute/108/3927).)*

@@ -3,9 +3,10 @@ title: "Section 931a - Art. 131a. Subornation of perjury"
 usc_title: 10
 usc_section: "931a"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 931a"
-generated_at: "2026-03-30T02:53:38.087Z"
+generated_at: "2026-11-23T20:25:51.131Z"
+status: "active"
 ---
 
 # § 931a. Art. 131a. Subornation of perjury
@@ -20,3 +21,11 @@ generated_at: "2026-03-30T02:53:38.087Z"
   - **(4)** The statement is material.
   - **(5)** The statement is false.
   - **(6)** When the statement is made or subscribed, the person subject to this chapter and the other person do not believe that the statement is true.
+
+In General
+
+Conditions
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. E, title LX, § 5444](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2956](https://www.govinfo.gov/link/statute/130/2956).)*

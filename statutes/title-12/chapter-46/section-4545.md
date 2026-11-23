@@ -3,9 +3,10 @@ title: "Section 4545 - Fair housing"
 usc_title: 12
 usc_section: "4545"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4545"
-generated_at: "2026-03-30T02:53:53.507Z"
+generated_at: "2026-11-23T20:25:59.393Z"
+status: "active"
 ---
 
 # § 4545. Fair housing
@@ -18,3 +19,7 @@ The Secretary of Housing and Urban Development shall—
   - **(4)** obtain information from other regulatory and enforcement agencies of the Federal Government and State and local governments regarding violations by lenders of the Fair Housing Act and the Equal Credit Opportunity Act and make such information available to the enterprises;
   - **(5)** direct the enterprises to undertake various remedial actions, including suspension, probation, reprimand, or settlement, against lenders that have been found to have engaged in discriminatory lending practices in violation of the Fair Housing Act or the Equal Credit Opportunity Act, pursuant to a final adjudication on the record, and after opportunity for an administrative hearing, in accordance with subchapter II of chapter 5 of title 5; and
   - **(6)** periodically review and comment on the underwriting and appraisal guidelines of each enterprise to ensure that such guidelines are consistent with the Fair Housing Act and this section.
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1325](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3955](https://www.govinfo.gov/link/statute/106/3955); [Pub. L. 110–289, div. A, title I, § 1122(b)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2689](https://www.govinfo.gov/link/statute/122/2689).)*

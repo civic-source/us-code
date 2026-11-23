@@ -3,9 +3,10 @@ title: "Section 3002 - Definitions"
 usc_title: 42
 usc_section: "3002"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3002"
-generated_at: "2026-03-30T02:56:11.170Z"
+generated_at: "2026-11-23T20:27:22.185Z"
+status: "active"
 ---
 
 # § 3002. Definitions
@@ -192,3 +193,7 @@ For the purposes of this chapter—
   - **(54)** The term “supportive service” means a service described in section 3030d(a) of this title .
   - **(55)** The term “traumatic brain injury” has the meaning given such term in section 280b–1c(d) of this title .
   - **(56)** Except for the purposes of subchapter X of this chapter, the term “tribal organization” means the recognized governing body of any Indian tribe, or any legally established organization of Indians which is controlled, sanctioned, or chartered by such governing body. In any case in which a contract is let or grant made to an organization to perform services benefiting more than one Indian tribe, the approval of each such Indian tribe shall be a prerequisite to the letting or making of such contract or grant.
+
+## Source Credit
+
+*([Pub. L. 89–73, title I, § 102](https://www.govinfo.gov/link/plaw/89/public/73), July 14, 1965, [79 Stat. 219](https://www.govinfo.gov/link/statute/79/219); [Pub. L. 90–42, § 5(a)](https://www.govinfo.gov/link/plaw/90/public/42), July 1, 1967, [81 Stat. 107](https://www.govinfo.gov/link/statute/81/107); [Pub. L. 91–69, § 10(a)](https://www.govinfo.gov/link/plaw/91/public/69), Sept. 17, 1969, [83 Stat. 114](https://www.govinfo.gov/link/statute/83/114); [Pub. L. 94–135, title I](https://www.govinfo.gov/link/plaw/94/public/135), §§ 104(b), 114(a), Nov. 28, 1975, [89 Stat. 714](https://www.govinfo.gov/link/statute/89/714), 725; [Pub. L. 95–478, title V, § 503(a)](https://www.govinfo.gov/link/plaw/95/public/478), Oct. 18, 1978, [92 Stat. 1559](https://www.govinfo.gov/link/statute/92/1559); [Pub. L. 97–115, § 2(a)(2)](https://www.govinfo.gov/link/plaw/97/public/115), (3), Dec. 29, 1981, [95 Stat. 1595](https://www.govinfo.gov/link/statute/95/1595); [Pub. L. 100–175, title I](https://www.govinfo.gov/link/plaw/100/public/175), §§ 136(a)(1), 146(a), 182(a), (b)(1), Nov. 29, 1987, [101 Stat. 942](https://www.govinfo.gov/link/statute/101/942), 950, 964; [Pub. L. 100–628, title VII, § 705(1)](https://www.govinfo.gov/link/plaw/100/public/628), Nov. 7, 1988, [102 Stat. 3247](https://www.govinfo.gov/link/statute/102/3247); [Pub. L. 102–375, title I, § 102(a)](https://www.govinfo.gov/link/plaw/102/public/375), (b)(1)(A), title IX, § 904(a)(2), Sept. 30, 1992, [106 Stat. 1197](https://www.govinfo.gov/link/statute/106/1197), 1200, 1306; [Pub. L. 103–171](https://www.govinfo.gov/link/plaw/103/public/171), §§ 2(1), 3(a)(1), Dec. 2, 1993, [107 Stat. 1988](https://www.govinfo.gov/link/statute/107/1988), 1989; [Pub. L. 105–244, title I, § 102(a)(13)(C)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1620](https://www.govinfo.gov/link/statute/112/1620); [Pub. L. 106–501, title I, § 101](https://www.govinfo.gov/link/plaw/106/public/501), title VIII, § 801(a), Nov. 13, 2000, [114 Stat. 2227](https://www.govinfo.gov/link/statute/114/2227), 2291; [Pub. L. 108–36, title IV, § 416](https://www.govinfo.gov/link/plaw/108/public/36), June 25, 2003, [117 Stat. 831](https://www.govinfo.gov/link/statute/117/831); [Pub. L. 109–365, title I, § 101](https://www.govinfo.gov/link/plaw/109/public/365), Oct. 17, 2006, [120 Stat. 2523](https://www.govinfo.gov/link/statute/120/2523); [Pub. L. 114–144](https://www.govinfo.gov/link/plaw/114/public/144), §§ 2, 9(1), Apr. 19, 2016, [130 Stat. 334](https://www.govinfo.gov/link/statute/130/334), 351; [Pub. L. 116–131, title I](https://www.govinfo.gov/link/plaw/116/public/131), §§ 103, 104(1), 105, 106(1), 107–113, title VII, § 701(1), Mar. 25, 2020, [134 Stat. 242–245](https://www.govinfo.gov/link/statute/134/242), 271.)*

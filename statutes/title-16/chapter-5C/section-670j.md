@@ -3,9 +3,10 @@ title: "Section 670j - Enforcement provisions"
 usc_title: 16
 usc_section: "670j"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 670j"
-generated_at: "2026-03-30T02:54:22.893Z"
+generated_at: "2026-11-23T20:26:20.221Z"
+status: "active"
 ---
 
 # § 670j. Enforcement provisions
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:22.893Z"
   - **(3)** Any person charged with committing any offense under subsection (a) of this section may be tried and sentenced by any United States magistrate judge designated for that purpose by the court by which he was appointed, in the same manner and subject to the same conditions as provided for in section 3401 of title 18 .
 - **(c)** All guns, traps, nets, and other equipment, vessels, vehicles, and other means of transportation used by any person when engaged in committing an offense under subsection (a) of this section shall be subject to forfeiture to the United States and may be seized and held pending the prosecution of any person arrested for committing such offense. Upon conviction for such offense, such forfeiture may be adjudicated as a penalty in addition to any other provided for committing such offense.
 - **(d)** All provisions of law relating to the seizure, forfeiture, and condemnation of a vessel for violation of the customs laws, the disposition of such vessel or the proceeds from the sale thereof, and the remission or mitigation of such forfeitures, shall apply to the seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this section, insofar as such provisions of law are applicable and not inconsistent with the provisions of this section; except that all powers, rights, and duties conferred or imposed by the customs laws upon any officer or employee of the Department of the Treasury shall, for the purposes of this section, be exercised or performed by the Secretary of the Interior or the Secretary of Agriculture, as the case may be, or by such persons as he may designate.
+
+## Source Credit
+
+*([Pub. L. 86–797, title II, § 204](https://www.govinfo.gov/link/plaw/86/public/797), as added [Pub. L. 93–452, § 2](https://www.govinfo.gov/link/plaw/93/public/452), Oct. 18, 1974, [88 Stat. 1372](https://www.govinfo.gov/link/statute/88/1372); amended [Pub. L. 112–81, div. A, title III, § 312(b)(10)](https://www.govinfo.gov/link/plaw/112/public/81), (c), Dec. 31, 2011, [125 Stat. 1354](https://www.govinfo.gov/link/statute/125/1354), 1355.)*

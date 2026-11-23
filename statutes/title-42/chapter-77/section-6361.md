@@ -3,9 +3,10 @@ title: "Section 6361 - Federal energy conservation programs"
 usc_title: 42
 usc_section: "6361"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6361"
-generated_at: "2026-03-30T02:56:11.257Z"
+generated_at: "2026-11-23T20:27:22.665Z"
+status: "active"
 ---
 
 # § 6361. Federal energy conservation programs
@@ -23,3 +24,13 @@ generated_at: "2026-03-30T02:56:11.257Z"
 - **(c)**
 - **(d)** The plan developed by the President pursuant to subsection (a)(2) shall be applicable to Executive agencies as defined in section 105 of title 5 and to the United States Postal Service.
 - **(e)** In addition to funds authorized in any other law, there is authorized to be appropriated to the President for fiscal year 1978 not to exceed $25,000,000, and for fiscal year 1979 not to exceed $50,000,000, to carry out the purposes of subsection (a)(2).
+
+Responsibilities of Executive Agencies
+
+Responsibilities of the Administrator of General Services
+
+Jimmy Carter.
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 381](https://www.govinfo.gov/link/plaw/94/public/163), Dec. 22, 1975, [89 Stat. 939](https://www.govinfo.gov/link/statute/89/939); [Pub. L. 95–619, title V, § 501](https://www.govinfo.gov/link/plaw/95/public/619), title VI, § 691(b)(2), Nov. 9, 1978, [92 Stat. 3275](https://www.govinfo.gov/link/statute/92/3275), 3288; [Pub. L. 100–615, § 2(b)](https://www.govinfo.gov/link/plaw/100/public/615), Nov. 5, 1988, [102 Stat. 3189](https://www.govinfo.gov/link/statute/102/3189).)*

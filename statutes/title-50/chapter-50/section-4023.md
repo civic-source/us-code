@@ -3,9 +3,10 @@ title: "Section 4023 - Professional liability protection"
 usc_title: 50
 usc_section: "4023"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4023"
-generated_at: "2026-03-30T02:56:26.265Z"
+generated_at: "2026-11-23T20:27:31.064Z"
+status: "active"
 ---
 
 # § 4023. Professional liability protection
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:56:26.265Z"
   - **(1)** The term “active duty” has the meaning given that term in section 101(d)(1) of title 10 .
   - **(2)** The term “profession” includes occupation.
   - **(3)** The term “professional” includes occupational.
+
+## Source Credit
+
+*(Oct. 17, 1940, ch. 888, title VII, § 703, as added [Pub. L. 108–189, § 1](https://www.govinfo.gov/link/plaw/108/public/189), Dec. 19, 2003, [117 Stat. 2862](https://www.govinfo.gov/link/statute/117/2862).)*

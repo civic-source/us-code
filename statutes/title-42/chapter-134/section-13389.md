@@ -3,9 +3,10 @@ title: "Section 13389 - Greenhouse gas intensity reducing strategies"
 usc_title: 42
 usc_section: "13389"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13389"
-generated_at: "2026-03-30T02:56:11.444Z"
+generated_at: "2026-11-23T20:27:23.492Z"
+status: "active"
 ---
 
 # § 13389. Greenhouse gas intensity reducing strategies
@@ -90,3 +91,7 @@ generated_at: "2026-03-30T02:56:11.444Z"
   - **(2)** In supporting a demonstration project under this subsection, the Secretary shall require cost-sharing in accordance with section 16352 of this title .
   - **(3)** There are authorized to be appropriated such sums as are necessary to carry out this subsection.
 - **(j)** In carrying out greenhouse gas intensity reduction research and technology deployment activities under this subtitle, 2 2 So in original. See References in Text note below. the Secretary may enter into cooperative research and development agreements under section 3710a of title 15 .
+
+## Source Credit
+
+*([Pub. L. 102–486, title XVI, § 1610](https://www.govinfo.gov/link/plaw/102/public/486), as added [Pub. L. 109–58, title XVI, § 1601](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 1109](https://www.govinfo.gov/link/statute/119/1109).)*

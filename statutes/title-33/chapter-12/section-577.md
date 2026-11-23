@@ -3,9 +3,10 @@ title: "Section 577 - Small river and harbor improvement projects"
 usc_title: 33
 usc_section: "577"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 577"
-generated_at: "2026-03-30T02:55:41.063Z"
+generated_at: "2026-11-23T20:26:53.861Z"
+status: "active"
 ---
 
 # § 577. Small river and harbor improvement projects
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:41.063Z"
 - **(d)** Non-Federal interests may be required to share in the cost of the project to the extent that the Chief of Engineers deems that such cost should not be borne by the Federal Government in view of the recreational or otherwise special or local nature of the project benefits.
 - **(e)** Each project for which money is allotted under this section shall be complete in itself and not commit the United States to any additional improvement to insure its successful operation, other than routine maintenance, and except as may result from the normal procedure applying to projects authorized after submission of survey reports, and projects constructed under the authority of this section shall be considered as authorized projects.
 - **(f)** This section shall apply to, but not be limited to, the provision of low water access navigation channels from the existing channel of the Mississippi River to harbor areas heretofore or now established and located along the Mississippi River.
+
+## Source Credit
+
+*([Pub. L. 86–645, title I, § 107](https://www.govinfo.gov/link/plaw/86/public/645), July 14, 1960, [74 Stat. 486](https://www.govinfo.gov/link/statute/74/486); [Pub. L. 89–298, title III, § 310(a)](https://www.govinfo.gov/link/plaw/89/public/298), Oct. 27, 1965, [79 Stat. 1095](https://www.govinfo.gov/link/statute/79/1095); [Pub. L. 91–611, title I, § 112(a)](https://www.govinfo.gov/link/plaw/91/public/611), Dec. 31, 1970, [84 Stat. 1821](https://www.govinfo.gov/link/statute/84/1821); [Pub. L. 94–587, § 133(a)](https://www.govinfo.gov/link/plaw/94/public/587), Oct. 22, 1976, [90 Stat. 2928](https://www.govinfo.gov/link/statute/90/2928); [Pub. L. 99–662, title IX, § 915(d)](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4191](https://www.govinfo.gov/link/statute/100/4191); [Pub. L. 110–114, title II, § 2022](https://www.govinfo.gov/link/plaw/110/public/114), Nov. 8, 2007, [121 Stat. 1078](https://www.govinfo.gov/link/statute/121/1078); [Pub. L. 113–121, title I, § 1030(b)](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1231](https://www.govinfo.gov/link/statute/128/1231); [Pub. L. 115–270, title I, § 1157(b)](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3794](https://www.govinfo.gov/link/statute/132/3794); [Pub. L. 118–272, div. A, title I, § 1107(d)](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3004](https://www.govinfo.gov/link/statute/138/3004).)*

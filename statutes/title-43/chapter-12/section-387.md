@@ -3,9 +3,10 @@ title: "Section 387 - Removal of sand, gravel, etc.; leases, easements, etc."
 usc_title: 43
 usc_section: "387"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 387"
-generated_at: "2026-03-30T02:55:57.441Z"
+generated_at: "2026-11-23T20:27:06.187Z"
+status: "active"
 ---
 
 # § 387. Removal of sand, gravel, etc.; leases, easements, etc.
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:57.441Z"
 - **(a)** permit the removal, from lands or interests in lands withdrawn or acquired and being administered under the Federal reclamation laws in connection with the construction or operation and maintenance of any project, of sand, gravel, and other minerals and building materials with or without competitive bidding: Provided , That removals may be permitted without charge if for use by a public agency in the construction of public roads or streets within any project or in its immediate vicinity; and
 - **(b)** grant leases and licenses for periods not to exceed fifty years, and easements or rights-of-way with or without limitation as to period of time affecting lands or interest in lands withdrawn or acquired and being administered under the Federal reclamation laws in connection with the construction or operation and maintenance of any project: Provided , That, if a water users’ organization is under contract obligation for repayment on account of the project or division involved, easements or rights-of-way for periods in excess of twenty-five years shall be granted only upon prior written approval of the governing board of such organization. Such permits or grants shall be made only when, in the judgment of the Secretary, their exercise will not be incompatible with the purposes for which the lands or interests in lands are being administered, and shall be on such terms and conditions as in his judgment will adequately protect the interests of the United States and the project for which said lands or interests in lands are being administered.
 
+
+## Source Credit
+
+*(Aug. 4, 1939, ch. 418, § 10, [53 Stat. 1196](https://www.govinfo.gov/link/statute/53/1196); Aug. 18, 1950, ch. 752, [64 Stat. 463](https://www.govinfo.gov/link/statute/64/463).)*

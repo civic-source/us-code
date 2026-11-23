@@ -3,9 +3,10 @@ title: "Section 1144a - Clarification of church welfare plan status under State 
 usc_title: 29
 usc_section: "1144a"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1144a"
-generated_at: "2026-03-30T02:55:18.720Z"
+generated_at: "2026-11-23T20:26:37.974Z"
+status: "active"
 ---
 
 # § 1144a. Clarification of church welfare plan status under State insurance law
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:18.720Z"
     - **(B)** does not include any entity, such as a health insurance issuer described in section 9832(b)(2) of title 26 or a health maintenance organization described in section 9832(b)(3) of title 26 , or any other organization that does business with the church plan or organization sponsoring or maintaining such a plan.
 - **(d)** Notwithstanding any other provision of this section, for purposes of enforcing provisions of State insurance laws that apply to a church plan that is a welfare plan, the church plan shall be subject to State enforcement as if the church plan were an insurer licensed by the State.
 - **(e)** Except as provided in subsection (d), the application of this section is limited to determining the status of a church plan that is a welfare plan under the provisions of State insurance laws described in subsection (b). This section shall not otherwise be construed to recharacterize the status, or modify or affect the rights, of any plan participant or beneficiary, including participants or beneficiaries who make plan contributions.
+
+## Source Credit
+
+*([Pub. L. 106–244, § 2](https://www.govinfo.gov/link/plaw/106/public/244), July 10, 2000, [114 Stat. 499](https://www.govinfo.gov/link/statute/114/499).)*

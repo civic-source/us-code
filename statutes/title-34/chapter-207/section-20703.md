@@ -3,9 +3,10 @@ title: "Section 20703 - Victim-centered child human trafficking deterrence block
 usc_title: 34
 usc_section: "20703"
 chapter: 207
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 20703"
-generated_at: "2026-03-30T02:55:33.298Z"
+generated_at: "2026-11-23T20:26:50.599Z"
+status: "active"
 ---
 
 # § 20703. Victim-centered child human trafficking deterrence block grant program
@@ -97,3 +98,7 @@ generated_at: "2026-03-30T02:55:33.298Z"
       - **(vii)** cooperation or referral agreements with State child welfare agencies and child advocacy centers; and
     - **(D)** provides an assurance that, under the plan under subparagraph (C), a victim of child human trafficking shall not be required to collaborate with law enforcement officers to have access to any shelter or services provided with a grant under this section.
 - **(l)** No grant funds under this section may be awarded or transferred to any entity unless such entity has demonstrated substantial experience providing services to victims of human trafficking or related populations (such as runaway and homeless youth), or employs staff specialized in the treatment of human trafficking victims.
+
+## Source Credit
+
+*([Pub. L. 109–164, title II, § 203](https://www.govinfo.gov/link/plaw/109/public/164), Jan. 10, 2006, [119 Stat. 3570](https://www.govinfo.gov/link/statute/119/3570); [Pub. L. 110–457, title III, § 302(4)](https://www.govinfo.gov/link/plaw/110/public/457), Dec. 23, 2008, [122 Stat. 5087](https://www.govinfo.gov/link/statute/122/5087); [Pub. L. 114–22, title I, § 103(a)](https://www.govinfo.gov/link/plaw/114/public/22), May 29, 2015, [129 Stat. 231](https://www.govinfo.gov/link/statute/129/231).)*

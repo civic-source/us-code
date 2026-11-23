@@ -3,9 +3,10 @@ title: "Section 1161 - Bill Emerson National Hunger Fellows and Mickey Leland In
 usc_title: 2
 usc_section: "1161"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1161"
-generated_at: "2026-03-30T02:53:04.809Z"
+generated_at: "2026-11-23T20:25:28.949Z"
+status: "active"
 ---
 
 # § 1161. Bill Emerson National Hunger Fellows and Mickey Leland International Hunger Fellows
@@ -74,3 +75,7 @@ generated_at: "2026-03-30T02:53:04.809Z"
   - **(1)** describes the activities and expenditures of the Fellowship Programs during the preceding fiscal year, including expenditures made from funds made available under subsection (g); and
   - **(2)** includes the results of evaluations and audits required by subsection (d).
 - **(g)** There are authorized to be appropriated to the Secretary such sums as are necessary to carry out this section, to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 107–171, title IV, § 4404](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 335](https://www.govinfo.gov/link/statute/116/335); [Pub. L. 110–161, div. H, title I, § 1502(c)](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2250](https://www.govinfo.gov/link/statute/121/2250); [Pub. L. 110–234, title IV, § 4401](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1132](https://www.govinfo.gov/link/statute/122/1132); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, § 4401, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1894.)*

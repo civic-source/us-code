@@ -3,9 +3,10 @@ title: "Section 6r - Reporting and recordkeeping for uncleared swaps"
 usc_title: 7
 usc_section: "6r"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6r"
-generated_at: "2026-03-30T02:53:42.241Z"
+generated_at: "2026-11-23T20:25:40.866Z"
+status: "active"
 ---
 
 # § 6r. Reporting and recordkeeping for uncleared swaps
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:53:42.241Z"
     - **(D)** the Financial Stability Oversight Council; and
     - **(E)** the Department of Justice.
 - **(d)** In prescribing rules under this section, the Commission shall require individuals and entities described in subsection (b) to submit to the Commission a report that contains data that is not less comprehensive than the data required to be collected by swap data repositories under section 24a of this title .
+
+## Source Credit
+
+*(Sept. 21, 1922, ch. 369, § 4r, as added [Pub. L. 111–203, title VII, § 729](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1701](https://www.govinfo.gov/link/statute/124/1701).)*

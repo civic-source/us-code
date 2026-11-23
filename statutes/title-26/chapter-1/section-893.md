@@ -3,9 +3,10 @@ title: "Section 893 - Compensation of employees of foreign governments or intern
 usc_title: 26
 usc_section: "893"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 893"
-generated_at: "2026-03-30T02:55:27.742Z"
+generated_at: "2026-11-23T20:26:45.954Z"
+status: "active"
 ---
 
 # § 893. Compensation of employees of foreign governments or international organizations
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:27.742Z"
 - **(c)** Subsection (a) shall not apply to—
   - **(1)** any employee of a controlled commercial entity (as defined in section 892(a)(2)(B)), or
   - **(2)** any employee of a foreign government whose services are primarily in connection with a commercial activity (whether within or outside the United States) of the foreign government.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 284; [Pub. L. 100–647, title I, § 1012(t)(4)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3527](https://www.govinfo.gov/link/statute/102/3527).)*

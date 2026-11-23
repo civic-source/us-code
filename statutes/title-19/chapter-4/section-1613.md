@@ -3,9 +3,10 @@ title: "Section 1613 - Disposition of proceeds of forfeited property"
 usc_title: 19
 usc_section: "1613"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1613"
-generated_at: "2026-03-30T02:54:24.647Z"
+generated_at: "2026-11-23T20:26:10.823Z"
+status: "active"
 ---
 
 # § 1613. Disposition of proceeds of forfeited property
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:24.647Z"
 - **(b)** If merchandise is forfeited under section 1592 of this title , any proceeds from the sale thereof in excess of the monetary penalty finally assessed thereunder and the expenses and costs described in subsection (a)(1) and (2) of this section or subsection (a)(1), (a)(3), or (a)(4) of section 1613b of this title incurred in such sale shall be returned to the person against whom the penalty was assessed.
 - **(c)** If property is seized by the Secretary under law enforced or administered by the Customs Service, or otherwise acquired under section 1605 of this title , and relief from the forfeiture is granted by the Secretary, or his designee, upon terms requiring the deposit or retention of a monetary amount in lieu of the forfeiture, the amount recovered shall be treated in the same manner as the proceeds of sale of a forfeited item.
 - **(d)** In any judicial or administrative proceeding to forfeit property under any law enforced or administered by the Customs Service or the Coast Guard, the seizure, storage, and other expenses related to the forfeiture that are incurred by the Customs Service or the Coast Guard after the seizure, but before the institution of, or during, the proceedings, shall be a priority claim in the same manner as the court costs and the expenses of the Federal marshal.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 613, [46 Stat. 756](https://www.govinfo.gov/link/statute/46/756); June 25, 1938, ch. 679, § 29, [52 Stat. 1089](https://www.govinfo.gov/link/statute/52/1089); 1946 Reorg. Plan No. 3, §§ 101–104, eff. July 16, 1946, 11 F.R. 7875, [60 Stat. 1097](https://www.govinfo.gov/link/statute/60/1097); [Pub. L. 91–271, title III, § 301(b)](https://www.govinfo.gov/link/plaw/91/public/271), June 2, 1970, [84 Stat. 287](https://www.govinfo.gov/link/statute/84/287); [Pub. L. 95–410, title I, § 110(c)](https://www.govinfo.gov/link/plaw/95/public/410), Oct. 3, 1978, [92 Stat. 896](https://www.govinfo.gov/link/statute/92/896); [Pub. L. 98–473, title II](https://www.govinfo.gov/link/plaw/98/public/473), §§ 316, 321, Oct. 12, 1984, [98 Stat. 2054](https://www.govinfo.gov/link/statute/98/2054), 2056; [Pub. L. 98–573, title II, § 213(a)(10)](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 2986](https://www.govinfo.gov/link/statute/98/2986); [Pub. L. 99–570, title III, § 3124](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–88](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 114–125, title VIII, § 802(d)(2)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 210](https://www.govinfo.gov/link/statute/130/210).)*

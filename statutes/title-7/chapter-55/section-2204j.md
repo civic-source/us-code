@@ -3,9 +3,10 @@ title: "Section 2204j - National agriculture imagery program"
 usc_title: 7
 usc_section: "2204j"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2204j"
-generated_at: "2026-03-30T02:53:42.380Z"
+generated_at: "2026-11-23T20:25:41.496Z"
+status: "active"
 ---
 
 # § 2204j. National agriculture imagery program
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:42.380Z"
   - **(4)** be consistent with the standards established by the Federal Geographic Data Committee.
 - **(c)** The Secretary of Agriculture may supplement the aerial imagery collected under this section with satellite imagery.
 - **(d)** There is authorized to be appropriated to carry out this section $23,000,000 for fiscal year 2019 and each fiscal year thereafter.
+
+## Source Credit
+
+*([Pub. L. 115–334, title XII, § 12612](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 5013](https://www.govinfo.gov/link/statute/132/5013).)*

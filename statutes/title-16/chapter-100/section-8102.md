@@ -3,9 +3,10 @@ title: "Section 8102 - Nutria eradication program"
 usc_title: 16
 usc_section: "8102"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 8102"
-generated_at: "2026-03-30T02:54:23.081Z"
+generated_at: "2026-11-23T20:26:20.869Z"
+status: "active"
 ---
 
 # § 8102. Nutria eradication program
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:23.081Z"
   - **(2)** The non-Federal share of the costs of a State program referred to in subsection (a) may be provided in the form of in-kind contributions of materials or services.
 - **(d)** Not more than 5 percent of financial assistance provided to a State by the Secretary under this section may be used for administrative expenses.
 - **(e)** For financial assistance under this section, there is authorized to be appropriated to the Secretary $12,000,000 for each of fiscal years 2021 through 2025.
+
+## Source Credit
+
+*([Pub. L. 108–16, § 3](https://www.govinfo.gov/link/plaw/108/public/16), Apr. 23, 2003, [117 Stat. 621](https://www.govinfo.gov/link/statute/117/621); [Pub. L. 116–186, § 1(2)](https://www.govinfo.gov/link/plaw/116/public/186), Oct. 30, 2020, [134 Stat. 901](https://www.govinfo.gov/link/statute/134/901).)*

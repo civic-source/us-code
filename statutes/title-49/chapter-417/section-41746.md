@@ -3,9 +3,10 @@ title: "Section 41746 - Tracking service"
 usc_title: 49
 usc_section: "41746"
 chapter: 417
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 41746"
-generated_at: "2026-03-30T02:56:19.378Z"
+generated_at: "2026-11-23T20:27:35.117Z"
+status: "active"
 ---
 
 # § 41746. Tracking service
@@ -14,3 +15,7 @@ The Secretary of Transportation shall require a carrier that provides essential 
 
   - **(1)** the percentage of flights to and from the place that arrive on time as defined by the Secretary; and
   - **(2)** such other information as the Secretary considers necessary to evaluate service provided to passengers traveling to and from such place.
+
+## Source Credit
+
+*(Added [Pub. L. 108–176, title IV, § 407](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2545](https://www.govinfo.gov/link/statute/117/2545).)*

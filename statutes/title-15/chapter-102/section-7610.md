@@ -3,9 +3,10 @@ title: "Section 7610 - Definitions"
 usc_title: 15
 usc_section: "7610"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 7610"
-generated_at: "2026-03-30T02:54:08.225Z"
+generated_at: "2026-11-23T20:26:04.464Z"
+status: "active"
 ---
 
 # § 7610. Definitions
@@ -26,3 +27,7 @@ As used in this chapter:
     - **(F)** Base curve or appropriate designation.
     - **(G)** Diameter, when appropriate.
     - **(H)** In the case of a private label contact lens, name of manufacturer, trade name of private label brand, and, if applicable, trade name of equivalent brand name.
+
+## Source Credit
+
+*([Pub. L. 108–164, § 11](https://www.govinfo.gov/link/plaw/108/public/164), Dec. 6, 2003, [117 Stat. 2027](https://www.govinfo.gov/link/statute/117/2027).)*

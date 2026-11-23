@@ -3,9 +3,10 @@ title: "Section 9122 - Actions by the Secretary of State in response to patterns
 usc_title: 22
 usc_section: "9122"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9122"
-generated_at: "2026-03-30T02:55:05.461Z"
+generated_at: "2026-11-23T20:26:32.754Z"
+status: "active"
 ---
 
 # § 9122. Actions by the Secretary of State in response to patterns of noncompliance in cases of international child abductions
@@ -62,3 +63,7 @@ generated_at: "2026-03-30T02:55:05.461Z"
   - **(1)** Not later than 1 year after December 23, 2024 , the Secretary of State, subject to the availability of funds, shall seek to enter into an agreement with an appropriate university, research institution, or nongovernmental organization to study and publish a report on the impact to abducted children and left-behind parents as a result of international parental child abduction.
   - **(2)** The Secretary of State shall consult with the appropriate congressional committees on the goals of the study and report required under paragraph (1).
   - **(3)** There is authorized to be appropriated $1,000,000 for each of fiscal years 2025 and 2026 to carry out the study required under paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 113–150, title II, § 202](https://www.govinfo.gov/link/plaw/113/public/150), Aug. 8, 2014, [128 Stat. 1818](https://www.govinfo.gov/link/statute/128/1818); [Pub. L. 118–159, div. G, title LXXV, § 7509(c)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2551](https://www.govinfo.gov/link/statute/138/2551).)*

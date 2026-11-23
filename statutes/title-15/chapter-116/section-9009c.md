@@ -3,9 +3,10 @@ title: "Section 9009c - Support for restaurants"
 usc_title: 15
 usc_section: "9009c"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 9009c"
-generated_at: "2026-03-30T02:54:08.237Z"
+generated_at: "2026-11-23T20:26:04.522Z"
+status: "active"
 ---
 
 # § 9009c. Support for restaurants
@@ -88,3 +89,9 @@ generated_at: "2026-03-30T02:54:08.237Z"
     - **(J)** Paid sick leave.
     - **(K)** Any other expenses that the Administrator determines to be essential to maintaining the eligible entity.
   - **(6)** If an eligible entity that receives a grant under this subsection fails to use all grant funds or permanently ceases operations on or before the last day of the covered period, the eligible entity shall return to the Treasury any funds that the eligible entity did not use for the allowable expenses under paragraph (5).
+
+“For purposes of the Internal Revenue Code of 1986 [ 26 U.S.C. 1 et seq.]—
+
+## Source Credit
+
+*([Pub. L. 117–2, title V, § 5003](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 85](https://www.govinfo.gov/link/statute/135/85).)*

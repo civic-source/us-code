@@ -3,9 +3,10 @@ title: "Section 4826 - Transition provisions"
 usc_title: 50
 usc_section: "4826"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4826"
-generated_at: "2026-03-30T02:56:26.285Z"
+generated_at: "2026-11-23T20:27:31.149Z"
+status: "active"
 ---
 
 # § 4826. Transition provisions
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:26.285Z"
 - **(c)**
   - **(1)** Any determination that was made under section 6(j) of the Export Administration Act of 1979 (as in effect on the day before August 13, 2018 , and as continued in effect pursuant to the International Emergency Economic Powers Act [ 50 U.S.C. 1701 et seq.]) shall continue in effect as if the determination had been made under section 4813(c) of this title .
   - **(2)** Any reference in any other provision of law to a country the government of which the Secretary of State has determined, for purposes of section 6(j) of the Export Administration Act of 1979 (as in effect on the day before August 13, 2018 , and as continued in effect pursuant to the International Emergency Economic Powers Act [ 50 U.S.C. 1701 et seq.]), is a government that has repeatedly provided support for acts of international terrorism shall be deemed to refer to a country the government of which the Secretary of State has determined, for purposes of section 4813(c) of this title , is a government that has repeatedly provided support for acts of international terrorism.
+
+## Source Credit
+
+*([Pub. L. 115–232, div. A, title XVII, § 1768](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2233](https://www.govinfo.gov/link/statute/132/2233).)*

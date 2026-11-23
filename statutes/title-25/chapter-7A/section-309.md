@@ -3,12 +3,17 @@ title: "Section 309 - Vocational training program; eligibility; contracts or agr
 usc_title: 25
 usc_section: "309"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 309"
-generated_at: "2026-03-30T02:54:52.803Z"
+generated_at: "2026-11-23T20:26:25.373Z"
+status: "active"
 ---
 
 # § 309. Vocational training program; eligibility; contracts or agreements
 
 In order to help adult Indians who reside on or near Indian reservations to obtain reasonable and satisfactory employment, the Secretary of the Interior is authorized to undertake a program of vocational training that provides for vocational counseling or guidance, institutional training in any recognized vocation or trade, apprenticeship, and on the job training, for periods that do not exceed twenty-four months, and, for nurses’ training, for periods that do not exceed thirty-six months, transportation to the place of training, and subsistence during the course of training. The program shall be available primarily to Indians who are not less than eighteen and not more than thirty-five years of age and who reside on or near an Indian reservation, and the program shall be conducted under such rules and regulations as the Secretary may prescribe. For the purposes of this program the Secretary is authorized to enter into contracts or agreements with any Federal, State, or local governmental agency, or with any private school which has a recognized reputation in the field of vocational education and has successfully obtained employment for its graduates in their respective fields of training, or with any corporation or association which has an existing apprenticeship or on-the-job training program which is recognized by industry and labor as leading to skilled employment, or with any school of nursing offering a three-year course of study leading to a diploma in nursing which is accredited by a recognized body or bodies approved for such purpose by the Secretary.
 
+
+## Source Credit
+
+*(Aug. 3, 1956, ch. 930, § 1, [70 Stat. 986](https://www.govinfo.gov/link/statute/70/986); [Pub. L. 88–230, § 1(a)](https://www.govinfo.gov/link/plaw/88/public/230), Dec. 23, 1963, [77 Stat. 471](https://www.govinfo.gov/link/statute/77/471).)*

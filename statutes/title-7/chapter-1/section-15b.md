@@ -3,9 +3,10 @@ title: "Section 15b - Cotton futures contracts"
 usc_title: 7
 usc_section: "15b"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 15b"
-generated_at: "2026-03-30T02:53:42.246Z"
+generated_at: "2026-11-23T20:25:40.879Z"
+status: "active"
 ---
 
 # § 15b. Cotton futures contracts
@@ -55,3 +56,7 @@ generated_at: "2026-03-30T02:53:42.246Z"
 - **(k)** Any person who knowingly violates any regulation made in pursuance of this section, shall, upon conviction thereof, be fined not less than $100 nor more than $500, for each violation thereof, in the discretion of the court, and, in case of natural persons, may, in addition be punished by imprisonment for not less than 30 days nor more than 90 days, for each violation, in the discretion of the court except that this subsection shall not apply to violations subject to subsection (d)(3).
 - **(l)** The provisions of this section shall not apply to any cotton futures contract entered into prior to the effective date of this section or to any act or failure to act by any person prior to such effective date and all such prior contracts, acts or failure to act shall continue to be governed by the applicable provisions of the Internal Revenue Code of 1954 2 2 See References in Text note below. as in effect prior to the enactment of this section. All designations of bona fide spot markets and all rules and regulations issued by the Secretary pursuant to the applicable provisions of the Internal Revenue Code of 1954 2 which were in effect on the effective date of this section, shall remain fully effective as designations and regulations under this section until superseded, amended, or terminated by the Secretary.
 - **(m)** There are authorized to be appropriated such sums as may be necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 94–455, title XIX, § 1952(a)](https://www.govinfo.gov/link/plaw/94/public/455) –(m), Oct. 4, 1976, [90 Stat. 1841–1846](https://www.govinfo.gov/link/statute/90/1841); [Pub. L. 97–35, title I, § 156(c)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 374](https://www.govinfo.gov/link/statute/95/374); [Pub. L. 102–237, title I, § 123](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1844](https://www.govinfo.gov/link/statute/105/1844); [Pub. L. 106–472, title III, § 311](https://www.govinfo.gov/link/plaw/106/public/472), Nov. 9, 2000, [114 Stat. 2076](https://www.govinfo.gov/link/statute/114/2076); [Pub. L. 114–36, § 1(a)](https://www.govinfo.gov/link/plaw/114/public/36), July 20, 2015, [129 Stat. 435](https://www.govinfo.gov/link/statute/129/435).)*

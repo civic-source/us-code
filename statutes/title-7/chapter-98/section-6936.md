@@ -3,9 +3,10 @@ title: "Section 6936 - Natural Resources Conservation Service"
 usc_title: 7
 usc_section: "6936"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6936"
-generated_at: "2026-03-30T02:53:42.440Z"
+generated_at: "2026-11-23T20:25:41.739Z"
+status: "active"
 ---
 
 # § 6936. Natural Resources Conservation Service
@@ -34,3 +35,13 @@ generated_at: "2026-03-30T02:53:42.440Z"
   - **(1)** The Secretary shall not close any field office of the Natural Resources Conservation Service unless, not later than 30 days before the date of the closure, the Secretary submits to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a notification of the closure.
   - **(2)** The Secretary shall not permanently relocate any field-based employees of the Natural Resources Conservation Service or the rural development mission area if doing so would result in a field office of the Natural Resources Conservation Service or the rural development mission area with 2 or fewer employees, unless, not later than 30 days before the date of the permanent relocation, the Secretary submits to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a notification of the permanent relocation.
   - **(3)** The requirements under paragraphs (1) and (2) shall cease to be effective on September 30, 2023 .
+
+Appropriations
+
+Conditions
+
+Administrative Costs
+
+## Source Credit
+
+*([Pub. L. 103–354, title II, § 228](https://www.govinfo.gov/link/plaw/103/public/354), formerly § 246, Oct. 13, 1994, [108 Stat. 3223](https://www.govinfo.gov/link/statute/108/3223); [Pub. L. 104–127, title III, § 336(a)(2)(D)](https://www.govinfo.gov/link/plaw/104/public/127), (b)(2)(B), (c)(3), (d)(2), Apr. 4, 1996, [110 Stat. 1005](https://www.govinfo.gov/link/statute/110/1005), 1006; [Pub. L. 107–171, title VIII, § 8002(c)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 473](https://www.govinfo.gov/link/statute/116/473); renumbered § 228 and amended [Pub. L. 115–334, title XII](https://www.govinfo.gov/link/plaw/115/public/334), §§ 12404(b)(1), 12410(a)–(c)(1), Dec. 20, 2018, [132 Stat. 4975](https://www.govinfo.gov/link/statute/132/4975), 4977, 4978.)*

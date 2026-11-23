@@ -3,9 +3,10 @@ title: "Section 902 - Subject matter of protection"
 usc_title: 17
 usc_section: "902"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 902"
-generated_at: "2026-03-30T02:54:15.355Z"
+generated_at: "2026-11-23T20:26:06.537Z"
+status: "active"
 ---
 
 # § 902. Subject matter of protection
@@ -20,3 +21,9 @@ generated_at: "2026-03-30T02:54:15.355Z"
   - **(1)** is not original; or
   - **(2)** consists of designs that are staple, commonplace, or familiar in the semiconductor industry, or variations of such designs, combined in a way that, considered as a whole, is not original.
 - **(c)** In no case does protection under this chapter for a mask work extend to any idea, procedure, process, system, method of operation, concept, principle, or discovery, regardless of the form in which it is described, explained, illustrated, or embodied in such work.
+
+Ronald Reagan.
+
+## Source Credit
+
+*(Added [Pub. L. 98–620, title III, § 302](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3348](https://www.govinfo.gov/link/statute/98/3348); amended [Pub. L. 100–159, § 3](https://www.govinfo.gov/link/plaw/100/public/159), Nov. 9, 1987, [101 Stat. 900](https://www.govinfo.gov/link/statute/101/900).)*

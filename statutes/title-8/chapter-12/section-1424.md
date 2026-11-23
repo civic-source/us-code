@@ -3,9 +3,10 @@ title: "Section 1424 - Prohibition upon the naturalization of persons opposed to
 usc_title: 8
 usc_section: "1424"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1424"
-generated_at: "2026-03-30T02:53:10.500Z"
+generated_at: "2026-11-23T20:25:36.227Z"
+status: "active"
 ---
 
 # § 1424. Prohibition upon the naturalization of persons opposed to government or law, or who favor totalitarian forms of government
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:10.500Z"
   - **(2)** is within the class described in subsection (a)(2) solely because of past membership in, or past affiliation with, a party or organization described in that subsection;
   - **(3)** does not fall within any other of the classes described in that subsection; and
   - **(4)** is determined by the Director of Central Intelligence, in consultation with the Secretary of Defense when Department of Defense activities are relevant to the determination, and with the concurrence of the Attorney General and the Secretary of Homeland Security, to have made a contribution to the national security or to the national intelligence mission of the United States.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title III, ch. 2, § 313, [66 Stat. 240](https://www.govinfo.gov/link/statute/66/240); [Pub. L. 100–525, § 9(u)](https://www.govinfo.gov/link/plaw/100/public/525), Oct. 24, 1988, [102 Stat. 2621](https://www.govinfo.gov/link/statute/102/2621); [Pub. L. 101–649, title IV, § 407(c)(1)](https://www.govinfo.gov/link/plaw/101/public/649), Nov. 29, 1990, [104 Stat. 5041](https://www.govinfo.gov/link/statute/104/5041); [Pub. L. 102–232, title III, § 309(b)(13)](https://www.govinfo.gov/link/plaw/102/public/232), Dec. 12, 1991, [105 Stat. 1759](https://www.govinfo.gov/link/statute/105/1759); [Pub. L. 103–416, title II, § 219(v)](https://www.govinfo.gov/link/plaw/103/public/416), Oct. 25, 1994, [108 Stat. 4318](https://www.govinfo.gov/link/statute/108/4318); [Pub. L. 106–120, title III, § 306](https://www.govinfo.gov/link/plaw/106/public/120), Dec. 3, 1999, [113 Stat. 1612](https://www.govinfo.gov/link/statute/113/1612); [Pub. L. 108–177, title III, § 373](https://www.govinfo.gov/link/plaw/108/public/177), Dec. 13, 2003, [117 Stat. 2628](https://www.govinfo.gov/link/statute/117/2628).)*

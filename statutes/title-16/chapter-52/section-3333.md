@@ -3,9 +3,10 @@ title: "Section 3333 - Program approval"
 usc_title: 16
 usc_section: "3333"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3333"
-generated_at: "2026-03-30T02:54:23.015Z"
+generated_at: "2026-11-23T20:26:20.650Z"
+status: "active"
 ---
 
 # § 3333. Program approval
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:23.015Z"
   - **(10)** the State maintains a moratorium, or similar program, to preclude the issuance of new commercial or charter salmon fishing licenses; and
   - **(11)** the State has established a revolving fund for the operation of the fleet reduction program that includes an individual account for each category of fishing license (based on type of fishing gear used) and that any moneys received by the State or its agents from the resale of any fishing vessel or gear purchased under the program (A) shall be placed in such revolving fund, (B) shall, for at least 2 years from the date of the program’s inception, be placed in the appropriate individual account, and (C) shall be used exclusively to purchase commercial fishing and charter vessels and licenses in accordance with the provisions of this subchapter.
 - **(c)** The Secretary shall approve such program within ninety days of the date of receipt of the program if found to be consistent with this chapter and other applicable law. If the Secretary finds that such program is not in conformity with the provisions of this chapter or other applicable law, he shall return such program to the State with recommendations. Any revision, modification, or amendment to the program shall be approved within thirty days of receipt unless found to be inconsistent with this chapter or other applicable law.
+
+## Source Credit
+
+*([Pub. L. 96–561, title I, § 132](https://www.govinfo.gov/link/plaw/96/public/561), Dec. 22, 1980, [94 Stat. 3284](https://www.govinfo.gov/link/statute/94/3284).)*

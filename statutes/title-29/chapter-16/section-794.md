@@ -3,9 +3,10 @@ title: "Section 794 - Nondiscrimination under Federal grants and programs"
 usc_title: 29
 usc_section: "794"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 794"
-generated_at: "2026-03-30T02:55:18.697Z"
+generated_at: "2026-11-23T20:26:37.872Z"
+status: "active"
 ---
 
 # § 794. Nondiscrimination under Federal grants and programs
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:18.697Z"
   - **(4)** any other entity which is established by two or more of the entities described in paragraph (1), (2), or (3);
 - **(c)** Small providers are not required by subsection (a) to make significant structural alterations to their existing facilities for the purpose of assuring program accessibility, if alternative means of providing the services are available. The terms used in this subsection shall be construed with reference to the regulations existing on March 22, 1988 .
 - **(d)** The standards used to determine whether this section has been violated in a complaint alleging employment discrimination under this section shall be the standards applied under title I of the Americans with Disabilities Act of 1990 ( 42 U.S.C. 12111 et seq.) and the provisions of sections 501 through 504, and 510, 1 1 See References in Text note below. of the Americans with Disabilities Act of 1990 ( 42 U.S.C. 12201–122 04 and 12210), as such sections relate to employment.
+
+## Source Credit
+
+*([Pub. L. 93–112, title V, § 504](https://www.govinfo.gov/link/plaw/93/public/112), Sept. 26, 1973, [87 Stat. 394](https://www.govinfo.gov/link/statute/87/394); [Pub. L. 95–602, title I](https://www.govinfo.gov/link/plaw/95/public/602), §§ 119, 122(d)(2), Nov. 6, 1978, [92 Stat. 2982](https://www.govinfo.gov/link/statute/92/2982), 2987; [Pub. L. 99–506, title I, § 103(d)(2)(B)](https://www.govinfo.gov/link/plaw/99/public/506), title X, § 1002(e)(4), Oct. 21, 1986, [100 Stat. 1810](https://www.govinfo.gov/link/statute/100/1810), 1844; [Pub. L. 100–259, § 4](https://www.govinfo.gov/link/plaw/100/public/259), Mar. 22, 1988, [102 Stat. 29](https://www.govinfo.gov/link/statute/102/29); [Pub. L. 100–630, title II, § 206(d)](https://www.govinfo.gov/link/plaw/100/public/630), Nov. 7, 1988, [102 Stat. 3312](https://www.govinfo.gov/link/statute/102/3312); [Pub. L. 102–569, title I, § 102(p)(32)](https://www.govinfo.gov/link/plaw/102/public/569), title V, § 506, Oct. 29, 1992, [106 Stat. 4360](https://www.govinfo.gov/link/statute/106/4360), 4428; [Pub. L. 103–382, title III, § 394(i)(2)](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 4029](https://www.govinfo.gov/link/statute/108/4029); [Pub. L. 105–220, title IV, § 408(a)(3)](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1203](https://www.govinfo.gov/link/statute/112/1203); [Pub. L. 107–110, title X, § 1076(u)(2)](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2093](https://www.govinfo.gov/link/statute/115/2093); [Pub. L. 113–128, title IV, § 456(c)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1675](https://www.govinfo.gov/link/statute/128/1675); [Pub. L. 114–95, title IX, § 9215(mmm)(3)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2188](https://www.govinfo.gov/link/statute/129/2188).)*

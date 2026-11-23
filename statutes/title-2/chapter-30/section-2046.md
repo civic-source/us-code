@@ -3,12 +3,17 @@ title: "Section 2046 - Bond of Architect, Assistant Architect, and other employe
 usc_title: 2
 usc_section: "2046"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 2046"
-generated_at: "2026-03-30T02:53:04.823Z"
+generated_at: "2026-11-23T20:25:29.006Z"
+status: "active"
 ---
 
 # § 2046. Bond of Architect, Assistant Architect, and other employees
 
 The Architect, Assistant Architect, and any employees of the Architect designated by the Architect under section 2045 of this title shall each give bond in the sum of $5,000 with such surety as the Secretary of the Treasury may approve for the handling of the financial transactions under such special deposit account.
 
+
+## Source Credit
+
+*([Pub. L. 87–82, § 6](https://www.govinfo.gov/link/plaw/87/public/82), July 6, 1961, [75 Stat. 200](https://www.govinfo.gov/link/statute/75/200).)*

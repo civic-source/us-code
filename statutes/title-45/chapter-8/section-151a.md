@@ -3,9 +3,10 @@ title: "Section 151a - General purposes"
 usc_title: 45
 usc_section: "151a"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 151a"
-generated_at: "2026-03-30T02:55:56.542Z"
+generated_at: "2026-11-23T20:27:05.216Z"
+status: "active"
 ---
 
 # § 151a. General purposes
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:56.542Z"
   - **(4)** to provide for the prompt and orderly settlement of all disputes concerning rates of pay, rules, or working conditions;
   - **(5)** to provide for the prompt and orderly settlement of all disputes growing out of grievances or out of the interpretation or application of agreements covering rates of pay, rules, or working conditions.
 
+
+## Source Credit
+
+*(May 20, 1926, ch. 347, § 2, [44 Stat. 577](https://www.govinfo.gov/link/statute/44/577); June 21, 1934, ch. 691, § 2, [48 Stat. 1186](https://www.govinfo.gov/link/statute/48/1186).)*

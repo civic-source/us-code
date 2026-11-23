@@ -3,9 +3,10 @@ title: "Section 3104 - Acquisition-related functions of service chiefs"
 usc_title: 10
 usc_section: "3104"
 chapter: 205
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 3104"
-generated_at: "2026-03-30T02:53:38.188Z"
+generated_at: "2026-11-23T20:25:51.802Z"
+status: "active"
 ---
 
 # § 3104. Acquisition-related functions of service chiefs
@@ -34,3 +35,15 @@ generated_at: "2026-03-30T02:53:38.188Z"
     - **(D)** concur that the requirements in the program capability document are necessary and realistic in relation to program cost and fielding targets as required by paragraph (1) before Milestone C approval is granted.
 - **(c)** Nothing in this section shall be construed to affect the assignment of functions under section 7014(c)(1)(A), section 8014(c)(1)(A), or section 9014(c)(1)(A) of this title , except as explicitly provided in this section.
 - **(d)** In this section, the term “requirements document” means a document that establishes the need for a materiel approach to address an operational problem.
+
+Performance of Certain Acquisition-related Functions
+
+Adherence to Requirements in Major Defense Acquisition Programs
+
+Rule of Construction
+
+Requirements Document Defined
+
+## Source Credit
+
+*(Added [Pub. L. 111–383, div. A, title VIII, § 861(a)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4289](https://www.govinfo.gov/link/statute/124/4289), § 2547; amended [Pub. L. 112–239, div. A, title IX, § 951(c)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1891](https://www.govinfo.gov/link/statute/126/1891); [Pub. L. 114–92, div. A, title VIII, § 802(b)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 879](https://www.govinfo.gov/link/statute/129/879); [Pub. L. 114–328, div. A, title VIII, § 807(c)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2261](https://www.govinfo.gov/link/statute/130/2261); [Pub. L. 115–91, div. A, title VIII, § 833](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1468](https://www.govinfo.gov/link/statute/131/1468); [Pub. L. 115–232, div. A, title VIII, § 809(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1840](https://www.govinfo.gov/link/statute/132/1840); [Pub. L. 116–92, div. A, title XVII, § 1731(a)(52)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1815](https://www.govinfo.gov/link/statute/133/1815); renumbered § 3104 and amended [Pub. L. 116–283, div. A, title IX, § 924(b)(32)](https://www.govinfo.gov/link/plaw/116/public/283), title XVIII, § 1808(a)(2), (b)(2), Jan. 1, 2021, [134 Stat. 3825](https://www.govinfo.gov/link/statute/134/3825), 4159, 4160; [Pub. L. 119–60, div. A, title XVIII, § 1801(c)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1223](https://www.govinfo.gov/link/statute/139/1223).)*

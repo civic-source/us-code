@@ -3,9 +3,10 @@ title: "Section 2113 - Bank robbery and incidental crimes"
 usc_title: 18
 usc_section: "2113"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2113"
-generated_at: "2026-03-30T02:54:16.494Z"
+generated_at: "2026-11-23T20:26:08.553Z"
+status: "active"
 ---
 
 # § 2113. Bank robbery and incidental crimes
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:16.494Z"
 - **(h)** As used in this section, the term “savings and loan association” means—
   - **(1)** a Federal savings association or State savings association (as defined in section 3(b) of the Federal Deposit Insurance Act ( 12 U.S.C. 1813(b) )) having accounts insured by the Federal Deposit Insurance Corporation; and
   - **(2)** a corporation described in section 3(b)(1)(C) of the Federal Deposit Insurance Act ( 12 U.S.C. 1813(b)(1)(C) ) that is operating under the laws of the United States.
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 796](https://www.govinfo.gov/link/statute/62/796); Aug. 3, 1950, ch. 516, [64 Stat. 394](https://www.govinfo.gov/link/statute/64/394); Apr. 8, 1952, ch. 164, [66 Stat. 46](https://www.govinfo.gov/link/statute/66/46); [Pub. L. 86–354, § 2](https://www.govinfo.gov/link/plaw/86/public/354), Sept. 22, 1959, [73 Stat. 639](https://www.govinfo.gov/link/statute/73/639); [Pub. L. 91–468, § 8](https://www.govinfo.gov/link/plaw/91/public/468), Oct. 19, 1970, [84 Stat. 1017](https://www.govinfo.gov/link/statute/84/1017); [Pub. L. 98–473, title II, § 1106](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2145](https://www.govinfo.gov/link/statute/98/2145); [Pub. L. 99–646, § 68](https://www.govinfo.gov/link/plaw/99/public/646), Nov. 10, 1986, [100 Stat. 3616](https://www.govinfo.gov/link/statute/100/3616); [Pub. L. 101–73, title IX, § 962(a)(7)](https://www.govinfo.gov/link/plaw/101/public/73), (d), Aug. 9, 1989, [103 Stat. 502](https://www.govinfo.gov/link/statute/103/502), 503; [Pub. L. 101–647, title XXV, § 2597](https://www.govinfo.gov/link/plaw/101/public/647) (l), Nov. 29, 1990, [104 Stat. 4911](https://www.govinfo.gov/link/statute/104/4911); [Pub. L. 103–322, title VI, § 60003(a)(9)](https://www.govinfo.gov/link/plaw/103/public/322), title XXXII, § 320608, title XXXIII, § 330016(1)(K), (L), Sept. 13, 1994, [108 Stat. 1969](https://www.govinfo.gov/link/statute/108/1969), 2120, 2147; [Pub. L. 104–294, title VI](https://www.govinfo.gov/link/plaw/104/public/294), §§ 606(a), 607(d), Oct. 11, 1996, [110 Stat. 3511](https://www.govinfo.gov/link/statute/110/3511); [Pub. L. 107–273, div. B, title IV, § 4002(d)(1)(C)(ii)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1809](https://www.govinfo.gov/link/statute/116/1809).)*

@@ -3,9 +3,10 @@ title: "Section 3319b - Joint requests for proposals"
 usc_title: 7
 usc_section: "3319b"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 3319b"
-generated_at: "2026-03-30T02:53:42.401Z"
+generated_at: "2026-11-23T20:25:41.589Z"
+status: "active"
 ---
 
 # § 3319b. Joint requests for proposals
@@ -18,3 +19,13 @@ generated_at: "2026-03-30T02:53:42.401Z"
   - **(1)** the post-award grant administration regulations applicable to recipients of grants from the Secretary; or
   - **(2)** the post-award grant administration regulations applicable to recipients of grants from the cooperating Federal agency.
 - **(d)** Subject to section 3129a of this title , the Secretary and a cooperating Federal agency may establish joint peer review panels for the purpose of evaluating grant proposals.
+
+“In this subtitle [subtitle D (§ 7401–7412) of title VII of Pub. L. 107–171 , enacting this section and sections [former] 3310a, [former] 3319f, 5925c, 5925d, and 7630 of this title and provisions set out as notes under this section and sections 3101, [former] 3319f, [former] 5925a, and 5925b of this title]:
+
+Department
+
+Secretary
+
+## Source Credit
+
+*([Pub. L. 95–113, title XIV, § 1473B](https://www.govinfo.gov/link/plaw/95/public/113), as added [Pub. L. 107–171, title VII, § 7403(b)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 456](https://www.govinfo.gov/link/statute/116/456).)*

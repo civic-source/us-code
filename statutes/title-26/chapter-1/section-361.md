@@ -3,9 +3,10 @@ title: "Section 361 - Nonrecognition of gain or loss to corporations; treatment 
 usc_title: 26
 usc_section: "361"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 361"
-generated_at: "2026-03-30T02:55:27.668Z"
+generated_at: "2026-11-23T20:26:45.585Z"
+status: "active"
 ---
 
 # § 361. Nonrecognition of gain or loss to corporations; treatment of distributions
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:27.668Z"
   - **(3)** For purposes of this subsection, any transfer of qualified property by the corporation to its creditors in connection with the reorganization shall be treated as a distribution to its shareholders pursuant to the plan of reorganization.
   - **(4)** Section 311 and subpart B of part II of this subchapter shall not apply to any distribution referred to in paragraph (1).
   - **(5)** For provision providing for recognition of gain in certain distributions, see section 355(d).
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 118; [Pub. L. 99–514, title XVIII, § 1804(g)(1)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2805](https://www.govinfo.gov/link/statute/100/2805); [Pub. L. 100–647, title I, § 1018(d)(5)(A)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3578](https://www.govinfo.gov/link/statute/102/3578); [Pub. L. 101–508, title XI, § 11321(b)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–463](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 108–357, title VIII, § 898(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1649](https://www.govinfo.gov/link/statute/118/1649); [Pub. L. 109–135, title IV, § 403(jj)(1)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2632](https://www.govinfo.gov/link/statute/119/2632).)*

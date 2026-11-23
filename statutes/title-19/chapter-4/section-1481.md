@@ -3,9 +3,10 @@ title: "Section 1481 - Invoice; contents"
 usc_title: 19
 usc_section: "1481"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1481"
-generated_at: "2026-03-30T02:54:24.636Z"
+generated_at: "2026-11-23T20:26:10.777Z"
+status: "active"
 ---
 
 # § 1481. Invoice; contents
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:24.636Z"
 - **(b)** If the merchandise is shipped to a person in the United States by a person other than the manufacturer, otherwise than by purchase, such person shall state on the invoice the time when, the place where, the person from whom such merchandise was purchased, and the price paid therefor in the currency of the purchase, stating whether gold, silver, or paper.
 - **(c)** Any information required to be set forth on an invoice may alternatively be provided by any of the parties qualifying as an “importer of record” under section 1484(a)(2)(B) of this title by such means, in such form or manner, and within such time as the Secretary shall by regulation prescribe.
 - **(d)** The Secretary of the Treasury may by regulations provide for such exceptions from the requirements of this section as he deems advisable and may allow for the submission or electronic transmission of partial invoices, electronic equivalents of invoices, bills, or other documents or parts thereof, required under this section.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 481, [46 Stat. 719](https://www.govinfo.gov/link/statute/46/719); [Pub. L. 103–182, title VI, § 636](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2200](https://www.govinfo.gov/link/statute/107/2200).)*

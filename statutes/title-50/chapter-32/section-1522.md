@@ -3,9 +3,10 @@ title: "Section 1522 - Conduct of chemical and biological defense program"
 usc_title: 50
 usc_section: "1522"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 1522"
-generated_at: "2026-03-30T02:56:26.206Z"
+generated_at: "2026-11-23T20:27:30.738Z"
+status: "active"
 ---
 
 # § 1522. Conduct of chemical and biological defense program
@@ -34,3 +35,45 @@ generated_at: "2026-03-30T02:56:26.206Z"
     - **(G)** readiness; and
     - **(H)** risk assessment.
   - **(2)** Not later than May 1, 1994 , the Secretary shall submit to Congress a report that describes the details of measures being taken to improve joint coordination and oversight of the program and ensure a coherent and effective approach to its management.
+
+Plan Required.—
+
+In general
+
+Elements
+
+Submission to Congress
+
+Deadline for Implementation.—
+
+In general
+
+Exception for implementation of certain recommendations.—
+
+Delayed implementation
+
+Nonimplementation
+
+Review and Modification of Policies and Doctrines
+
+Objectives
+
+Research Program
+
+Report
+
+Findings
+
+Study of facility.—
+
+In general
+
+Description of facility
+
+Sense of congress
+
+“It is the sense of Congress that the President should strengthen Federal interagency emergency planning by the Federal Emergency Management Agency and other appropriate Federal, State, and local agencies for development of a capability for early detection and warning of and response to—
+
+## Source Credit
+
+*([Pub. L. 103–160, div. A, title XVII, § 1701](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1853](https://www.govinfo.gov/link/statute/107/1853); [Pub. L. 104–201, div. A, title II, § 228](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2460](https://www.govinfo.gov/link/statute/110/2460); [Pub. L. 118–31, div. A, title X, § 1047](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 392](https://www.govinfo.gov/link/statute/137/392).)*

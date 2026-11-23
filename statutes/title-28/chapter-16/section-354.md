@@ -3,9 +3,10 @@ title: "Section 354 - Action by judicial council"
 usc_title: 28
 usc_section: "354"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 354"
-generated_at: "2026-03-30T02:55:30.127Z"
+generated_at: "2026-11-23T20:26:36.338Z"
+status: "active"
 ---
 
 # § 354. Action by judicial council
@@ -34,3 +35,35 @@ generated_at: "2026-03-30T02:55:30.127Z"
     - **(A)** which might constitute one or more grounds for impeachment under article II of the Constitution, or
     - **(B)** which, in the interest of justice, is not amenable to resolution by the judicial council,
   - **(3)** A judicial council acting under authority of this subsection shall, unless contrary to the interests of justice, immediately submit written notice to the complainant and to the judge whose conduct is the subject of the action taken under this subsection.
+
+Actions Upon Receipt of Report.—
+
+Actions
+
+Description of possible actions if complaint not dismissed.—
+
+In general
+
+For article iii judges
+
+For magistrate judges
+
+Limitations on judicial council regarding removals.—
+
+Article iii judges
+
+Magistrate and bankruptcy judges
+
+Notice of action to judge
+
+Referral to Judicial Conference.—
+
+In general
+
+Special circumstances
+
+Notice to complainant and judge
+
+## Source Credit
+
+*(Added [Pub. L. 107–273, div. C, title I, § 11042(a)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1850](https://www.govinfo.gov/link/statute/116/1850).)*

@@ -3,9 +3,10 @@ title: "Section 608 - Prioritization"
 usc_title: 6
 usc_section: "608"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 608"
-generated_at: "2026-03-30T02:53:09.472Z"
+generated_at: "2026-11-23T20:25:34.808Z"
+status: "active"
 ---
 
 # § 608. Prioritization
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:53:09.472Z"
   - **(7)** Radiological.
   - **(8)** Suicide bombers.
   - **(9)** Such other types of threat determined relevant by the Administrator.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XX, § 2007](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 110–53, title I, § 101](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 282](https://www.govinfo.gov/link/statute/121/282).)*

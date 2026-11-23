@@ -3,9 +3,10 @@ title: "Section 3509 - Determination of employer’s liability for certain emplo
 usc_title: 26
 usc_section: "3509"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 3509"
-generated_at: "2026-03-30T02:55:27.797Z"
+generated_at: "2026-11-23T20:26:46.265Z"
+status: "active"
 ---
 
 # § 3509. Determination of employer’s liability for certain employment taxes
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:27.797Z"
     - **(A)** the employer deducted and withheld any amount of the tax imposed by chapter 24 on such wages, but
     - **(B)** failed to deduct and withhold the amount of the tax imposed by subchapter A of chapter 21 with respect to such wages.
   - **(3)** This section shall not apply to any tax under subchapter A of chapter 21 with respect to an individual described in subsection (d)(3) of section 3121 (without regard to whether such individual is described in paragraph (1) or (2) of such subsection).
+
+## Source Credit
+
+*(Added [Pub. L. 97–248, title II, § 270(a)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 553](https://www.govinfo.gov/link/statute/96/553); amended [Pub. L. 100–647, title II, § 2003(d)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3598](https://www.govinfo.gov/link/statute/102/3598); [Pub. L. 101–508, title V, § 5130(a)(4)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–289](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 115–141, div. U, title IV, § 401(a)(218)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1194](https://www.govinfo.gov/link/statute/132/1194).)*

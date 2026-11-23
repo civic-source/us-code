@@ -3,9 +3,10 @@ title: "Section 613 - Video programming accessibility"
 usc_title: 47
 usc_section: "613"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 613"
-generated_at: "2026-03-30T02:56:24.522Z"
+generated_at: "2026-11-23T20:27:28.941Z"
+status: "active"
 ---
 
 # § 613. Video programming accessibility
@@ -75,3 +76,45 @@ generated_at: "2026-03-30T02:56:24.522Z"
   - **(1)** The term “video description” means the insertion of audio narrated descriptions of a television program’s key visual elements into natural pauses between the program’s dialogue.
   - **(2)** The term “video programming” means programming by, or generally considered comparable to programming provided by a television broadcast station, but not including consumer-generated media (as defined in section 153 of this title ).
 - **(j)** Nothing in this section shall be construed to authorize any private right of action to enforce any requirement of this section or any regulation thereunder. The Commission shall have exclusive jurisdiction with respect to any complaint under this section.
+
+Establishment
+
+Membership
+
+Commission Oversight
+
+Technical Staff
+
+Development of Recommendations.—
+
+Closed captioning report
+
+Video description, emergency information, user interfaces, and video programming guides and menus
+
+Consideration of work by standard-setting organizations
+
+Meetings.—
+
+Initial meeting
+
+Other meetings
+
+Notice; open meetings
+
+Procedural Rules.—
+
+Quorum
+
+Subcommittees
+
+Additional procedural rules
+
+Chapter
+
+of Title
+
+, United States Code
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title VII, § 713, as added [Pub. L. 104–104, title III, § 305](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 126](https://www.govinfo.gov/link/statute/110/126); amended [Pub. L. 111–260, title II, § 202](https://www.govinfo.gov/link/plaw/111/public/260), Oct. 8, 2010, [124 Stat. 2767](https://www.govinfo.gov/link/statute/124/2767); [Pub. L. 111–265, § 2(6)](https://www.govinfo.gov/link/plaw/111/public/265) –(11), Oct. 8, 2010, [124 Stat. 2795](https://www.govinfo.gov/link/statute/124/2795), 2796; [Pub. L. 115–141, div. P, title IV, § 402(i)(11)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1090](https://www.govinfo.gov/link/statute/132/1090).)*

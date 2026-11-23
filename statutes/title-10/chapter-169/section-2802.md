@@ -3,9 +3,10 @@ title: "Section 2802 - Military construction projects"
 usc_title: 10
 usc_section: "2802"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2802"
-generated_at: "2026-03-30T02:53:38.176Z"
+generated_at: "2026-11-23T20:25:51.708Z"
+status: "active"
 ---
 
 # § 2802. Military construction projects
@@ -40,3 +41,313 @@ generated_at: "2026-03-30T02:53:38.176Z"
     - **(A)** The term “Indian tribe” has the meaning given that term in section 4 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5304 ).
     - **(B)** The term “tribal government” means the recognized governing body of an Indian tribe.
     - **(C)** The term “sacred site” has the meaning given that term in Executive Order No. 13007, as in effect on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020.
+
+Authority for Multiyear Contracting
+
+Conditions for Out-year Contract Payments
+
+Authority for Advance Procurement
+
+Additional Requirements.—
+
+Cost savings certification
+
+Limitations
+
+In General
+
+Selection
+
+Notification
+
+Defense Site Defined
+
+Establishment
+
+Designation of Official
+
+Elements
+
+Selection of Installations
+
+Reports.—
+
+Interim report
+
+Final report
+
+Termination
+
+Definitions
+
+In General
+
+Report
+
+Definitions
+
+Establishment
+
+Military Construction Projects Authorized.—
+
+Requirements
+
+Exception
+
+Project cost
+
+Limitation
+
+Congressional Notification.—
+
+In general
+
+Elements
+
+Report.—
+
+In general
+
+Elements
+
+Sunset.—
+
+Termination date
+
+Exception
+
+Definitions
+
+In General
+
+Maintenance of Square Footage
+
+Documentation
+
+Submission
+
+Application
+
+Exceptions
+
+Growth of a Facility Defined
+
+Notification Required
+
+Elements
+
+In General
+
+Duties
+
+Selection.—
+
+Hawaii
+
+Guam and the northern mariana islands
+
+Notification
+
+In General
+
+Definitions
+
+In General
+
+“The Secretary of Defense shall amend the Unified Facilities Criteria/DoD Building Code (UFC 1–200–01) to require that planning and design for military construction projects inside the United States include consideration of the feasibility and cost-effectiveness of installing integrated solar roofing as part of the project, for the purpose of—
+
+Gas Insulated Switchgear
+
+Microgrids
+
+Determination and Update of Form
+
+Notification to Congress
+
+Certification
+
+Secretary Concerned Defined
+
+In General
+
+Definitions
+
+Amendment Required
+
+Deadline
+
+Publication and Comment Period Requirements
+
+Notice and Justification Requirements
+
+Unified Facilities Criteria Amendment Required
+
+Implementation of Amendment
+
+Reporting Requirement
+
+Consideration of Including Energy Microgrid in Military Construction Projects.—
+
+Amendment of unified facilities criteria required
+
+Deadline
+
+Contracts for Emergency Access to Existing On-installation Renewable Energy Sources
+
+Definitions
+
+Pilot Program Required
+
+Project Selection and Locations.—
+
+Minimum number of projects
+
+Project locations
+
+Inclusion of Military Unaccompanied Housing Project
+
+Duration of Program
+
+Deadline for Commencement of Construction
+
+Use of Certain Technologies
+
+Reporting Requirement.—
+
+Report required
+
+Report elements
+
+Sustainable Building Materials Defined
+
+Authorization of Additional Projects
+
+Reporting Requirement as Condition of Authorization.—
+
+Report required
+
+Timing of availability of funds
+
+Expiration of Authorization
+
+Covered Fiscal Years
+
+Amendment Required.—
+
+In general
+
+Considerations and consultation
+
+Conditional Availability of Funds
+
+Update of Unified Facilities Criteria to Include Changing Environmental Condition Projections
+
+Implementation of Unified Facilities Criteria Amendments.—
+
+Implementation
+
+Certification
+
+Annual Review
+
+Definitions
+
+Modification.—
+
+Certification requirement
+
+Elements of certification
+
+Relation to Recent Modification Requirement
+
+Military Installation Resilience Defined
+
+Pilot Program Authorized
+
+Scope
+
+Award of Contracts or Grants.—
+
+In general
+
+Merit-based selection
+
+Report.—
+
+In general
+
+Contents
+
+Termination of Authority
+
+Amendment required
+
+Implementation of unified facilities criteria amendments.—
+
+Implementation
+
+Certification
+
+Flood Risk Disclosure for Military Construction.—
+
+In general
+
+Delineation of floodplain
+
+Reporting requirements
+
+Minimum flood mitigation requirements
+
+Disclosure Requirements for Department of Defense Form
+
+Unified Construction Standard for Military Construction and Repairs to Military Medical Centers
+
+Independent Review Panel.—
+
+Establishment; purpose
+
+Members.—
+
+Appointments by secretary
+
+Congressional appointments
+
+Term
+
+Compensation
+
+Meetings
+
+Staff and advisors
+
+Reports.—
+
+Initial report
+
+Additional reports
+
+Assessment of recommendations
+
+Termination
+
+Definitions
+
+National capital region
+
+World class military medical center
+
+Assessment of Damage and Prevention and Mitigation Technology
+
+Evaluation of Technologies
+
+New Construction
+
+Completion of Assessment and Demonstration
+
+Delegation of Authority
+
+Limitation on Expenditures
+
+## Source Credit
+
+*(Added [Pub. L. 97–214, § 2(a)](https://www.govinfo.gov/link/plaw/97/public/214), July 12, 1982, [96 Stat. 154](https://www.govinfo.gov/link/statute/96/154); amended [Pub. L. 110–181, div. B, title XXVIII, § 2802(a)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 539](https://www.govinfo.gov/link/statute/122/539); [Pub. L. 110–417, div. B, title XXVIII, § 2801(b)](https://www.govinfo.gov/link/plaw/110/public/417), Oct. 14, 2008, [122 Stat. 4719](https://www.govinfo.gov/link/statute/122/4719); [Pub. L. 113–66, div. B, title XXVIII, § 2807(c)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 1012](https://www.govinfo.gov/link/statute/127/1012); [Pub. L. 113–291, div. B, title XXVIII](https://www.govinfo.gov/link/plaw/113/public/291), §§ 2801, 2803(b), Dec. 19, 2014, [128 Stat. 3695](https://www.govinfo.gov/link/statute/128/3695), 3697; [Pub. L. 114–328, div. B, title XXVIII, § 2811(b)](https://www.govinfo.gov/link/plaw/114/public/328), (c), Dec. 23, 2016, [130 Stat. 2716](https://www.govinfo.gov/link/statute/130/2716); [Pub. L. 115–91, div. A, title X, § 1081(d)(15)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1600](https://www.govinfo.gov/link/statute/131/1600); [Pub. L. 115–232, div. B, title XXVIII, § 2803](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2261](https://www.govinfo.gov/link/statute/132/2261); [Pub. L. 116–92, div. A, title XVII, § 1731(a)(53)](https://www.govinfo.gov/link/plaw/116/public/92), div. B, title XXVIII, § 2802, Dec. 20, 2019, [133 Stat. 1815](https://www.govinfo.gov/link/statute/133/1815), 1881; [Pub. L. 119–60, div. B, title XXVIII, § 2808(b)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1298](https://www.govinfo.gov/link/statute/139/1298).)*

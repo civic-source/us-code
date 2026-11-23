@@ -3,9 +3,10 @@ title: "Section 968 - Third party validations"
 usc_title: 6
 usc_section: "968"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 968"
-generated_at: "2026-03-30T02:53:09.502Z"
+generated_at: "2026-11-23T20:25:34.891Z"
+status: "active"
 ---
 
 # § 968. Third party validations
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:53:09.502Z"
   - **(3)** the impact of the pilot program on the rate of validations conducted under C–TPAT;
   - **(4)** any impact on national security of the pilot program; and
   - **(5)** any recommendations by the Secretary based upon the results of the pilot program.
+
+## Source Credit
+
+*([Pub. L. 109–347, title II, § 218](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1912](https://www.govinfo.gov/link/statute/120/1912).)*

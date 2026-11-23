@@ -3,9 +3,10 @@ title: "Section 3006A - Adequate representation of defendants"
 usc_title: 18
 usc_section: "3006A"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 3006A"
-generated_at: "2026-03-30T02:54:16.509Z"
+generated_at: "2026-11-23T20:26:08.639Z"
+status: "active"
 ---
 
 # § 3006A. Adequate representation of defendants
@@ -87,3 +88,79 @@ generated_at: "2026-03-30T02:54:16.509Z"
 - **(i)** There are authorized to be appropriated to the United States courts, out of any money in the Treasury not otherwise appropriated, sums necessary to carry out the provisions of this section, including funds for the continuing education and training of persons providing representational services under this section. When so specified in appropriation acts, such appropriations shall remain available until expended. Payments from such appropriations shall be made under the supervision of the Director of the Administrative Office of the United States Courts.
 - **(j)** As used in this section, the term “district court” means each district court of the United States created by chapter 5 of title 28, the District Court of the Virgin Islands, the District Court for the Northern Mariana Islands, and the District Court of Guam.
 - **(k)** The provisions of this section shall apply in the United States District Court for the District of Columbia and the United States Court of Appeals for the District of Columbia Circuit. The provisions of this section shall not apply to the Superior Court of the District of Columbia and the District of Columbia Court of Appeals.
+
+Choice of Plan
+
+Appointment of Counsel
+
+Duration and Substitution of Appointments
+
+Payment for Representation.—
+
+Hourly Rate
+
+Maximum Amounts
+
+Waiving Maximum Amounts
+
+Disclosure of fees.—
+
+In general
+
+Pre-trial or trial in progress
+
+Trial completed.—
+
+In general
+
+Protection of the rights of the defendant
+
+Considerations
+
+Notice
+
+Effective date
+
+Filing Claims
+
+New Trials
+
+Proceedings Before Appellate Courts
+
+Services Other Than Counsel.—
+
+Upon Request
+
+Without Prior Request
+
+Maximum Amounts
+
+Disclosure of fees
+
+Receipt of Other Payments
+
+Defender Organization.—
+
+Qualifications
+
+Types of Defender Organizations.—
+
+Federal Public Defender Organization
+
+Community Defender Organization
+
+Malpractice and Negligence Suits
+
+Rules and Reports
+
+Appropriations
+
+Districts Included
+
+Applicability in the District of Columbia
+
+“The amendments made by this section [amending this section and section 848 of Title 21 , Food and Drugs] apply to—
+
+## Source Credit
+
+*(Added [Pub. L. 88–455, § 2](https://www.govinfo.gov/link/plaw/88/public/455), Aug. 20, 1964, [78 Stat. 552](https://www.govinfo.gov/link/statute/78/552); amended [Pub. L. 90–578, title III, § 301(a)(1)](https://www.govinfo.gov/link/plaw/90/public/578), Oct. 17, 1968, [82 Stat. 1115](https://www.govinfo.gov/link/statute/82/1115); [Pub. L. 91–447, § 1](https://www.govinfo.gov/link/plaw/91/public/447), Oct. 14, 1970, [84 Stat. 916](https://www.govinfo.gov/link/statute/84/916); [Pub. L. 93–412, § 3](https://www.govinfo.gov/link/plaw/93/public/412), Sept. 3, 1974, [88 Stat. 1093](https://www.govinfo.gov/link/statute/88/1093); [Pub. L. 97–164, title II, § 206(a)](https://www.govinfo.gov/link/plaw/97/public/164), (b), Apr. 2, 1982, [96 Stat. 53](https://www.govinfo.gov/link/statute/96/53); [Pub. L. 98–473, title II](https://www.govinfo.gov/link/plaw/98/public/473), §§ 223(e), 405, 1901, Oct. 12, 1984, [98 Stat. 2028](https://www.govinfo.gov/link/statute/98/2028), 2067, 2185; [Pub. L. 99–651, title I](https://www.govinfo.gov/link/plaw/99/public/651), §§ 102, 103, Nov. 14, 1986, [100 Stat. 3642](https://www.govinfo.gov/link/statute/100/3642), 3645; [Pub. L. 100–182, § 19](https://www.govinfo.gov/link/plaw/100/public/182), Dec. 7, 1987, [101 Stat. 1270](https://www.govinfo.gov/link/statute/101/1270); [Pub. L. 100–690, title VII, § 7101(f)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4416](https://www.govinfo.gov/link/statute/102/4416); [Pub. L. 101–650, title III, § 321](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5117](https://www.govinfo.gov/link/statute/104/5117); [Pub. L. 104–132, title IX, § 903(a)](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1318](https://www.govinfo.gov/link/statute/110/1318); [Pub. L. 105–119, title III, § 308](https://www.govinfo.gov/link/plaw/105/public/119), Nov. 26, 1997, [111 Stat. 2493](https://www.govinfo.gov/link/statute/111/2493); [Pub. L. 106–113, div. B, § 1000(a)(1) [title III, § 308(a)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1535](https://www.govinfo.gov/link/statute/113/1535), 1501A–37; [Pub. L. 106–518, title II](https://www.govinfo.gov/link/plaw/106/public/518), §§ 210, 211, Nov. 13, 2000, [114 Stat. 2415](https://www.govinfo.gov/link/statute/114/2415); [Pub. L. 108–447, div. B, title III, § 304](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 2894](https://www.govinfo.gov/link/statute/118/2894); [Pub. L. 110–406](https://www.govinfo.gov/link/plaw/110/public/406), §§ 11–12(b), Oct. 13, 2008, [122 Stat. 4293](https://www.govinfo.gov/link/statute/122/4293), 4294; [Pub. L. 111–174, § 7](https://www.govinfo.gov/link/plaw/111/public/174), May 27, 2010, [124 Stat. 1217](https://www.govinfo.gov/link/statute/124/1217); [Pub. L. 118–47, div. B, title III, § 307](https://www.govinfo.gov/link/plaw/118/public/47), Mar. 23, 2024, [138 Stat. 542](https://www.govinfo.gov/link/statute/138/542).)*

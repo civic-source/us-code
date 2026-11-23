@@ -3,12 +3,17 @@ title: "Section 1842 - Covering into Commonwealth treasury of tax proceeds colle
 usc_title: 48
 usc_section: "1842"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1842"
-generated_at: "2026-03-30T02:56:14.593Z"
+generated_at: "2026-11-23T20:27:28.074Z"
+status: "active"
 ---
 
 # § 1842. Covering into Commonwealth treasury of tax proceeds collected pursuant to Covenant
 
 The Secretary shall take such steps as are necessary to ensure that the proceeds of taxes collected under the provisions of sections 601, 602, 603, and 604 of the Covenant ( Public Law 94–241 ) are covered directly upon collection into the treasury of the Commonwealth of the Northern Mariana Islands.
 
+
+## Source Credit
+
+*([Pub. L. 96–205, title II, § 204(b)](https://www.govinfo.gov/link/plaw/96/public/205), Mar. 12, 1980, [94 Stat. 87](https://www.govinfo.gov/link/statute/94/87).)*

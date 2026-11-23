@@ -3,9 +3,10 @@ title: "Section 6153 - Salaries and expenses for Senate Majority and Minority Po
 usc_title: 2
 usc_section: "6153"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 6153"
-generated_at: "2026-03-30T02:53:04.839Z"
+generated_at: "2026-11-23T20:25:29.068Z"
+status: "active"
 ---
 
 # § 6153. Salaries and expenses for Senate Majority and Minority Policy Committees and Senate Majority and Minority Conference Committees
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:04.839Z"
   - **(1)** available for expenditure by such committee or the Office of the Chaplain of the Senate, as the case may be, in like manner and for the same purposes as are other moneys which are available for expenditure by such committee or the Office of the Chaplain of the Senate, as the case may be, from the account to which the funds were transferred; and
   - **(2)** made at such time or times as the Chairman or the Chaplain of the Senate, as the case may be, shall specify in writing to the Senate Disbursing Office.
 - **(e)** The Chairman of a committee or the Chaplain of the Senate, as the case may be, transferring funds under this section shall notify the Committee on Appropriations of the Senate of the transfer.
+
+## Source Credit
+
+*([Pub. L. 101–520, title I, § 1](https://www.govinfo.gov/link/plaw/101/public/520), Nov. 5, 1990, [104 Stat. 2257](https://www.govinfo.gov/link/statute/104/2257); [Pub. L. 102–90, title I, § 1(a)](https://www.govinfo.gov/link/plaw/102/public/90), Aug. 14, 1991, [105 Stat. 450](https://www.govinfo.gov/link/statute/105/450); [Pub. L. 104–53, title I, § 7[(a)]](https://www.govinfo.gov/link/plaw/104/public/53), Nov. 19, 1995, [109 Stat. 518](https://www.govinfo.gov/link/statute/109/518); [Pub. L. 114–113, div. I, title I, § 2](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2657](https://www.govinfo.gov/link/statute/129/2657).)*

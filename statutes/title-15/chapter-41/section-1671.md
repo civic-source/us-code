@@ -3,9 +3,10 @@ title: "Section 1671 - Congressional findings and declaration of purpose"
 usc_title: 15
 usc_section: "1671"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1671"
-generated_at: "2026-03-30T02:54:08.146Z"
+generated_at: "2026-11-23T20:26:04.069Z"
+status: "active"
 ---
 
 # § 1671. Congressional findings and declaration of purpose
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:08.146Z"
   - **(2)** The application of garnishment as a creditors’ remedy frequently results in loss of employment by the debtor, and the resulting disruption of employment, production, and consumption constitutes a substantial burden on interstate commerce.
   - **(3)** The great disparities among the laws of the several States relating to garnishment have, in effect, destroyed the uniformity of the bankruptcy laws and frustrated the purposes thereof in many areas of the country.
 - **(b)** On the basis of the findings stated in subsection (a) of this section, the Congress determines that the provisions of this subchapter are necessary and proper for the purpose of carrying into execution the powers of the Congress to regulate commerce and to establish uniform bankruptcy laws.
+
+## Source Credit
+
+*([Pub. L. 90–321, title III, § 301](https://www.govinfo.gov/link/plaw/90/public/321), May 29, 1968, [82 Stat. 163](https://www.govinfo.gov/link/statute/82/163).)*

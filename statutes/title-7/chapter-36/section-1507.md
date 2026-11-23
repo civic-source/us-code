@@ -3,9 +3,10 @@ title: "Section 1507 - Personnel of Corporation"
 usc_title: 7
 usc_section: "1507"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1507"
-generated_at: "2026-03-30T02:53:42.318Z"
+generated_at: "2026-11-23T20:25:41.168Z"
+status: "active"
 ---
 
 # § 1507. Personnel of Corporation
@@ -35,3 +36,13 @@ generated_at: "2026-03-30T02:53:42.318Z"
     - **(A)** designate a Specialty Crops Liaison in each regional field office; and
     - **(B)** share the contact information of the Specialty Crops Liaisons with specialty crop producers.
   - **(5)** The Specialty Crops Coordinator shall establish a website focused on the efforts of the Corporation to provide and expand crop insurance for specialty crop producers.
+
+In general
+
+Specialty crop liaisons
+
+Website
+
+## Source Credit
+
+*(Feb. 16, 1938, ch. 30, title V, § 507, [52 Stat. 73](https://www.govinfo.gov/link/statute/52/73); Aug. 1, 1947, ch. 440, § 6, [61 Stat. 719](https://www.govinfo.gov/link/statute/61/719); Aug. 25, 1949, ch. 512, § 10, [63 Stat. 665](https://www.govinfo.gov/link/statute/63/665); Oct. 28, 1949, ch. 782, title XI, § 1106(a), [63 Stat. 972](https://www.govinfo.gov/link/statute/63/972); [Pub. L. 92–310, title II, § 221(b)](https://www.govinfo.gov/link/plaw/92/public/310), June 6, 1972, [86 Stat. 205](https://www.govinfo.gov/link/statute/86/205); [Pub. L. 96–365, title I, § 104](https://www.govinfo.gov/link/plaw/96/public/365), Sept. 26, 1980, [94 Stat. 1313](https://www.govinfo.gov/link/statute/94/1313); [Pub. L. 101–624, title XXII, § 2206](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3958](https://www.govinfo.gov/link/statute/104/3958); [Pub. L. 102–237, title VI, § 601(3)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1878](https://www.govinfo.gov/link/statute/105/1878); [Pub. L. 103–354, title I](https://www.govinfo.gov/link/plaw/103/public/354), §§ 102(b)(4)(B), (C), 105, 115(b), 119(f)(2), Oct. 13, 1994, [108 Stat. 3181](https://www.govinfo.gov/link/statute/108/3181), 3182, 3204, 3208; [Pub. L. 106–224, title I, § 143](https://www.govinfo.gov/link/plaw/106/public/224), June 20, 2000, [114 Stat. 391](https://www.govinfo.gov/link/statute/114/391); [Pub. L. 110–234, title XII, § 12033(c)(2)(B)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1405](https://www.govinfo.gov/link/statute/122/1405); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XII, § 12033(c)(2)(B), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2167; [Pub. L. 115–334, title XI](https://www.govinfo.gov/link/plaw/115/public/334), §§ 11104, 11105(a), Dec. 20, 2018, [132 Stat. 4920](https://www.govinfo.gov/link/statute/132/4920).)*

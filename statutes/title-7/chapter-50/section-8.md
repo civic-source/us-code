@@ -3,9 +3,10 @@ title: "Section 8 - Rural business investment companies"
 usc_title: 7
 usc_section: "8"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 8"
-generated_at: "2026-03-30T02:53:42.361Z"
+generated_at: "2026-11-23T20:25:41.410Z"
+status: "active"
 ---
 
 # § 2009cc–8. Rural business investment companies
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:53:42.361Z"
     - **(D)** ensure that the rural business investment company is designed primarily to meet equity capital needs of the businesses in which the rural business investment company invests and not to compete with traditional small business financing by commercial lenders; and
     - **(E)** require that the rural business investment company makes short-term non-equity investments of less than 5 years only to the extent necessary to preserve an existing investment.
 - **(d)** The Secretary shall ensure that the management of each rural business investment company licensed after May 13, 2002 , is sufficiently diversified from and unaffiliated with the ownership of the rural business investment company so as to ensure independence and objectivity in the financial management and oversight of the investments and operations of the rural business investment company.
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 384I](https://www.govinfo.gov/link/plaw/87/public/128), as added [Pub. L. 107–171, title VI, § 6029](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 396](https://www.govinfo.gov/link/statute/116/396); amended [Pub. L. 110–234, title VI, § 6027(c)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1182](https://www.govinfo.gov/link/statute/122/1182); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VI, § 6027(c), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1944.)*

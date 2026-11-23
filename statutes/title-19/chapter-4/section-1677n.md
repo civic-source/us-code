@@ -3,9 +3,10 @@ title: "Section 1677n - Antidumping petitions by third countries"
 usc_title: 19
 usc_section: "1677n"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1677n"
-generated_at: "2026-03-30T02:54:24.658Z"
+generated_at: "2026-11-23T20:26:10.877Z"
+status: "active"
 ---
 
 # § 1677n. Antidumping petitions by third countries
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:24.658Z"
 - **(e)** If the administering authority makes an affirmative determination under paragraph (1) of subsection (c), and the Commission makes an affirmative determination under paragraph (2) of subsection (c), the administering authority shall issue an antidumping duty order in accordance with section 1673e of this title and take such other actions as are required by section 1673e of this title .
 - **(f)** For purposes of review under section 1516a of this title or review under section 1675 of this title , if an order is issued under subsection (e), the final determinations of the administering authority and the Commission under this section shall be treated as final determinations made under section 1673d of this title .
 - **(g)** Section 1677f of this title shall apply to investigations under this section, to the extent specified by the Trade Representative, after consultation with the administering authority and the Commission.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title VII, § 783, as added [Pub. L. 103–465, title II, § 232(a)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4897](https://www.govinfo.gov/link/statute/108/4897); amended [Pub. L. 104–295, § 20(b)(17)](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3528](https://www.govinfo.gov/link/statute/110/3528).)*

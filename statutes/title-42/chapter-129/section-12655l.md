@@ -3,9 +3,10 @@ title: "Section 12655l - Living allowance"
 usc_title: 42
 usc_section: "12655l"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12655l"
-generated_at: "2026-03-30T02:56:11.428Z"
+generated_at: "2026-11-23T20:27:23.421Z"
+status: "active"
 ---
 
 # § 12655l. Living allowance
@@ -30,3 +31,11 @@ generated_at: "2026-03-30T02:56:11.428Z"
     - **(A)** The Corporation may provide services, facilities, supplies, and equipment, including any surplus food and equipment available from other Federal programs, to any program agency carrying out projects under this division.
     - **(B)** Whenever possible, the Corporation shall make arrangements with the Secretary of Defense to have logistical support provided by a military installation near the work site, including the provision of temporary tent centers where needed, and other supplies and equipment.
   - **(5)** The Corporation and program agencies shall establish standards and enforcement procedures concerning the health and safety of participants for all projects, consistent with Federal, State, and local health and safety standards.
+
+In general
+
+Non-federal sources
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 199K](https://www.govinfo.gov/link/plaw/101/public/610), formerly § 133, Nov. 16, 1990, [104 Stat. 3147](https://www.govinfo.gov/link/statute/104/3147); [Pub. L. 102–10, § 5(6)](https://www.govinfo.gov/link/plaw/102/public/10), Mar. 12, 1991, [105 Stat. 30](https://www.govinfo.gov/link/statute/105/30); renumbered § 199M, renumbered § 199K, and amended [Pub. L. 103–82, title I, § 101(a)](https://www.govinfo.gov/link/plaw/103/public/82), (d), (e)(1), (8)(B), Sept. 21, 1993, [107 Stat. 788](https://www.govinfo.gov/link/statute/107/788), 814–816.)*

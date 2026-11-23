@@ -3,9 +3,10 @@ title: "Section 547 - Preferences"
 usc_title: 11
 usc_section: "547"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 547"
-generated_at: "2026-03-30T02:53:53.879Z"
+generated_at: "2026-11-23T20:25:55.370Z"
+status: "active"
 ---
 
 # § 547. Preferences
@@ -68,3 +69,7 @@ generated_at: "2026-03-30T02:53:53.879Z"
 - **(g)** For the purposes of this section, the trustee has the burden of proving the avoidability of a transfer under subsection (b) of this section, and the creditor or party in interest against whom recovery or avoidance is sought has the burden of proving the nonavoidability of a transfer under subsection (c) of this section.
 - **(h)** The trustee may not avoid a transfer if such transfer was made as a part of an alternative repayment schedule between the debtor and any creditor of the debtor created by an approved nonprofit budget and credit counseling agency.
 - **(i)** If the trustee avoids under subsection (b) a transfer made between 90 days and 1 year before the date of the filing of the petition, by the debtor to an entity that is not an insider for the benefit of a creditor that is an insider, such transfer shall be considered to be avoided under this section only with respect to the creditor that is an insider.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2597](https://www.govinfo.gov/link/statute/92/2597); [Pub. L. 98–353, title III](https://www.govinfo.gov/link/plaw/98/public/353), §§ 310, 462, July 10, 1984, [98 Stat. 355](https://www.govinfo.gov/link/statute/98/355), 377; [Pub. L. 99–554, title II, § 283(m)](https://www.govinfo.gov/link/plaw/99/public/554), Oct. 27, 1986, [100 Stat. 3117](https://www.govinfo.gov/link/statute/100/3117); [Pub. L. 103–394, title II, § 203](https://www.govinfo.gov/link/plaw/103/public/394), title III, § 304(f), Oct. 22, 1994, [108 Stat. 4121](https://www.govinfo.gov/link/statute/108/4121), 4133; [Pub. L. 109–8, title II](https://www.govinfo.gov/link/plaw/109/public/8), §§ 201(b), 217, title IV, §§ 403, 409, title XII, §§ 1213(a), 1222, Apr. 20, 2005, [119 Stat. 42](https://www.govinfo.gov/link/statute/119/42), 55, 104, 106, 194, 196; [Pub. L. 116–54, § 3(a)](https://www.govinfo.gov/link/plaw/116/public/54), Aug. 23, 2019, [133 Stat. 1085](https://www.govinfo.gov/link/statute/133/1085); [Pub. L. 116–260, div. FF, title X, § 1001(g)(1)](https://www.govinfo.gov/link/plaw/116/public/260), (2)(A), Dec. 27, 2020, [134 Stat. 3219](https://www.govinfo.gov/link/statute/134/3219), 3220.)*

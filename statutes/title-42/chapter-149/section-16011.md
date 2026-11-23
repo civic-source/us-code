@@ -3,9 +3,10 @@ title: "Section 16011 - Demonstration hydrogen production at existing nuclear po
 usc_title: 42
 usc_section: "16011"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16011"
-generated_at: "2026-03-30T02:56:11.466Z"
+generated_at: "2026-11-23T20:27:23.595Z"
+status: "active"
 ---
 
 # § 16011. Demonstration hydrogen production at existing nuclear power plants
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:56:11.466Z"
 - **(a)** The Secretary shall provide for the establishment of 2 projects in geographic areas that are regionally and climatically diverse to demonstrate the commercial production of hydrogen at existing nuclear power plants.
 - **(b)** Prior to making an award under subsection (a), the Secretary shall determine whether the use of existing nuclear power plants is a cost-effective means of producing hydrogen.
 - **(c)** There are authorized to be appropriated to the Secretary for the purposes of carrying out this section not more than $100,000,000.
+
+## Source Credit
+
+*([Pub. L. 109–58, title VI, § 634](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 790](https://www.govinfo.gov/link/statute/119/790).)*

@@ -3,9 +3,10 @@ title: "Section 1185i - Protecting patients and improving the accuracy of provid
 usc_title: 29
 usc_section: "1185i"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1185i"
-generated_at: "2026-03-30T02:55:18.726Z"
+generated_at: "2026-11-23T20:26:37.999Z"
+status: "active"
 ---
 
 # § 1185i. Protecting patients and improving the accuracy of provider directory information
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:55:18.726Z"
     - **(B)** if provided for under applicable State law, any other requirements on providers and facilities regarding the amounts such providers and facilities may, with respect to an item or service, charge a participant or beneficiary of such plan or coverage with respect to which such a provider or facility does not have a contractual relationship for furnishing such item or service under the plan or coverage after receiving payment from the plan or coverage for such item or service and any applicable cost sharing payment from such participant or beneficiary; and
     - **(C)** the requirements applied under section 1185e of this title ; and
   - **(2)** information on contacting appropriate State and Federal agencies in the case that an individual believes that such a provider or facility has violated any requirement described in paragraph (1) with respect to such individual.
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 720](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 116–260, div. BB, title I, § 116(b)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2881](https://www.govinfo.gov/link/statute/134/2881).)*

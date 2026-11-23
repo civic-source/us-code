@@ -3,9 +3,10 @@ title: "Section 2912 - Preservation of electronic messages and other records"
 usc_title: 44
 usc_section: "2912"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "44 U.S.C. § 2912"
-generated_at: "2026-03-30T02:55:56.295Z"
+generated_at: "2026-11-23T20:27:03.816Z"
+status: "active"
 ---
 
 # § 2912. Preservation of electronic messages and other records
@@ -16,3 +17,13 @@ generated_at: "2026-03-30T02:55:56.295Z"
   - **(3)** include timelines for Federal agency implementation of the regulations that ensure compliance as expeditiously as practicable.
 - **(b)** To the extent practicable, the regulations promulgated under subsection (a) shall also include requirements for the capture, management, and preservation of other electronic records.
 - **(c)** The Archivist shall periodically review and, as necessary, amend the regulations promulgated under subsection (a).
+
+Regulations Required
+
+Coverage of Other Electronic Records
+
+Review of Regulations Required
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. H, title XCVI, § 9602(b)(1)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4828](https://www.govinfo.gov/link/statute/134/4828).)*

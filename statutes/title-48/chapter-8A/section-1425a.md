@@ -3,12 +3,17 @@ title: "Section 1425a - Legislative authority to create authorities; appointment
 usc_title: 48
 usc_section: "1425a"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1425a"
-generated_at: "2026-03-30T02:56:14.586Z"
+generated_at: "2026-11-23T20:27:28.048Z"
+status: "active"
 ---
 
 # § 1425a. Legislative authority to create authorities; appointment of members; powers of authorities
 
 The Legislature of Guam may by law grant to a public corporate authority, existing or to be created by or under such law, powers to undertake urban renewal and housing activities in Guam. Such legislature may by law provide for the appointment, terms of office, or removal of the members of such authority and for the powers of such authority, including authority to accept whatever benefits the Federal Government may make available, and to do all things, to exercise any and all powers, and to assume and fulfill any and all obligations, duties, responsibilities, and requirements, including but not limited to those relating to planning or zoning, necessary or desirable for receiving such Federal assistance, except that such authority shall not be given any power of taxation, nor any power to pledge the faith and credit of the territory of Guam for any loan whatever.
 
+
+## Source Credit
+
+*([Pub. L. 88–171, § 1](https://www.govinfo.gov/link/plaw/88/public/171), Nov. 4, 1963, [77 Stat. 304](https://www.govinfo.gov/link/statute/77/304).)*

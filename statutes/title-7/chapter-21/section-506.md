@@ -3,12 +3,17 @@ title: "Section 506 - Returns under oath; administration"
 usc_title: 7
 usc_section: "506"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 506"
-generated_at: "2026-03-30T02:53:42.287Z"
+generated_at: "2026-11-23T20:25:41.046Z"
+status: "active"
 ---
 
 # § 506. Returns under oath; administration
 
 The returns provided for in this chapter shall be made under oath before a collector or deputy collector of internal revenue, a postmaster, assistant postmaster, or anyone authorized to administer oaths by State or Federal law.
 
+
+## Source Credit
+
+*(Jan. 14, 1929, ch. 69, § 6, [45 Stat. 1080](https://www.govinfo.gov/link/statute/45/1080).)*

@@ -3,9 +3,10 @@ title: "Section 77iii - Effective time of qualification"
 usc_title: 15
 usc_section: "77iii"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 77iii"
-generated_at: "2026-03-30T02:54:08.036Z"
+generated_at: "2026-11-23T20:26:03.456Z"
+status: "active"
 ---
 
 # § 77iii. Effective time of qualification
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.036Z"
 - **(c)** The making, amendment, or rescission of a rule, regulation, or order under the provisions of this subchapter (except to the extent authorized by subsection (a) of section 77nnn of this title with respect to rules and regulations prescribed pursuant to such subsection) shall not affect the qualification, form, or interpretation of any indenture as to which qualification became effective prior to the making, amendment, or rescission of such rule, regulation, or order.
 - **(d)** No trustee under an indenture which has been qualified under this subchapter shall be subject to any liability because of any failure of such indenture to comply with any of the provisions of this subchapter, or any rule, regulation, or order thereunder.
 - **(e)** Nothing in this subchapter shall be construed as empowering the Commission to conduct an investigation or other proceeding for the purpose of determining whether the provisions of an indenture which has been qualified under this subchapter are being complied with, or to enforce such provisions.
+
+## Source Credit
+
+*(May 27, 1933, ch. 38, title III, § 309, as added Aug. 3, 1939, ch. 411, [53 Stat. 1157](https://www.govinfo.gov/link/statute/53/1157); amended [Pub. L. 101–550, title IV, § 405](https://www.govinfo.gov/link/plaw/101/public/550), Nov. 15, 1990, [104 Stat. 2723](https://www.govinfo.gov/link/statute/104/2723).)*

@@ -3,9 +3,10 @@ title: "Section 1005 - Employee protection agreement"
 usc_title: 45
 usc_section: "1005"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 1005"
-generated_at: "2026-03-30T02:55:56.559Z"
+generated_at: "2026-11-23T20:27:05.331Z"
+status: "active"
 ---
 
 # § 1005. Employee protection agreement
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:56.559Z"
 - **(b)** If the parties are unable to reach agreement within the time period specified in subsection (a) of this section, the Secretary shall, within 30 days after the expiration of such time period, prescribe a schedule of benefits for employee protection not inconsistent with the provisions of this chapter.
 - **(c)** Any agreement entered into under subsection (a) of this section, and any benefit schedule prescribed under subsection (b) of this section, shall not require the expenditure of funds in excess of amounts authorized to be appropriated under section 727(f)(1)(C) of this title , nor shall any individual employee receive benefits in excess of $20,000 under such agreement or benefit schedule. No benefits or assistance may be provided under any agreement entered into or benefit schedule prescribed under this section after April 1, 1984 .
 - **(d)** The Board shall, in such manner as it shall prescribe by regulation, administer the distribution of funds under any agreement entered into or benefit schedule prescribed under this section, and shall determine the amount for which each employee is eligible under such agreement or benefit schedule. Such regulation shall include procedures to resolve by final and binding arbitration any dispute over an employee’s eligibility or claim.
+
+## Source Credit
+
+*([Pub. L. 96–254, title I, § 106](https://www.govinfo.gov/link/plaw/96/public/254), May 30, 1980, [94 Stat. 401](https://www.govinfo.gov/link/statute/94/401); [Pub. L. 96–448, title VII, § 701(b)(1)](https://www.govinfo.gov/link/plaw/96/public/448), Oct. 14, 1980, [94 Stat. 1959](https://www.govinfo.gov/link/statute/94/1959); [Pub. L. 97–468, title II, § 231](https://www.govinfo.gov/link/plaw/97/public/468), Jan. 14, 1983, [96 Stat. 2546](https://www.govinfo.gov/link/statute/96/2546).)*

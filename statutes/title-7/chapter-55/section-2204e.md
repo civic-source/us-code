@@ -3,9 +3,10 @@ title: "Section 2204e - Office of Risk Assessment and Cost-Benefit Analysis"
 usc_title: 7
 usc_section: "2204e"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2204e"
-generated_at: "2026-03-30T02:53:42.379Z"
+generated_at: "2026-11-23T20:25:41.495Z"
+status: "active"
 ---
 
 # § 2204e. Office of Risk Assessment and Cost-Benefit Analysis
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:42.379Z"
     - **(B)** whether the regulation will produce benefits and reduce risks to human health, human safety, or the environment, and any combination thereof, in a cost-effective manner as a result of the implementation of and compliance with the regulation, by local, State, and Federal Government and other public and private entities, as estimated in paragraph (1)(B).
   - **(3)** This section shall not be construed to amend, modify, or alter any statute and shall not be subject to judicial review. This section shall not be construed to grant a cause of action to any person. The Secretary of Agriculture shall perform the analyses required in this section in such a manner that does not delay the promulgation or implementation of regulations mandated by statute or judicial order.
 - **(c)** As used in this section, the term “major regulation” means any regulation that the Secretary of Agriculture estimates is likely to have an annual impact on the economy of the United States of $100,000,000 in 1994 dollars.
+
+## Source Credit
+
+*([Pub. L. 103–354, title III, § 304](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3239](https://www.govinfo.gov/link/statute/108/3239).)*

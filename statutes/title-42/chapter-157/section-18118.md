@@ -3,9 +3,10 @@ title: "Section 18118 - Rules of construction"
 usc_title: 42
 usc_section: "18118"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18118"
-generated_at: "2026-03-30T02:56:11.517Z"
+generated_at: "2026-11-23T20:27:23.791Z"
+status: "active"
 ---
 
 # § 18118. Rules of construction
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.517Z"
 - **(b)** Nothing in this title 1 (or an amendment made by this title) 1 shall be construed to modify or limit the application of the exemption for Hawaii’s Prepaid Health Care Act (Haw. Rev. Stat. §§ 393–1 et seq.) as provided for under section 1144(b)(5) of title 29 .
 - **(c)** Nothing in this title 1 (or an amendment made by this title) 1 shall be construed to prohibit an institution of higher education (as such term is defined for purposes of the Higher Education Act of 1965 [ 20 U.S.C. 1001 et seq.]) from offering a student health insurance plan, to the extent that such requirement is otherwise permitted under applicable Federal, State or local law.
 - **(d)** Nothing in this title 1 (or an amendment made by this title, 1 unless specified by direct statutory reference) shall be construed to modify any existing Federal requirement concerning the State agency responsible for determining eligibility for programs identified in section 18083 of this title .
+
+## Source Credit
+
+*([Pub. L. 111–148, title I, § 1560](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 261](https://www.govinfo.gov/link/statute/124/261).)*

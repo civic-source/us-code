@@ -3,9 +3,10 @@ title: "Section 2113 - Federal, State, and local coordination and cooperation"
 usc_title: 16
 usc_section: "2113"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 2113"
-generated_at: "2026-03-30T02:54:23.000Z"
+generated_at: "2026-11-23T20:26:20.600Z"
+status: "active"
 ---
 
 # § 2113. Federal, State, and local coordination and cooperation
@@ -62,3 +63,7 @@ generated_at: "2026-03-30T02:54:23.000Z"
     - **(D)** make recommendations to the Secretary concerning those forest lands that should be given priority for inclusion in the Forest Legacy Program established pursuant to section 2103c of this title .
   - **(3)** The State Coordinating Committees shall not terminate.
   - **(4)** Nothing in this section shall be construed to compel action by any State official.
+
+## Source Credit
+
+*([Pub. L. 95–313, § 19](https://www.govinfo.gov/link/plaw/95/public/313), as added [Pub. L. 101–624, title XII, § 1222](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3540](https://www.govinfo.gov/link/statute/104/3540); amended [Pub. L. 110–234, title VII, § 7511(c)(37)](https://www.govinfo.gov/link/plaw/110/public/234), title VIII, §§ 8005, 8006, May 22, 2008, [122 Stat. 1271](https://www.govinfo.gov/link/statute/122/1271), 1284, 1285; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, § 7511(c)(37), title VIII, §§ 8005, 8006, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2032, 2045–2047; [Pub. L. 115–334, title VIII, § 8102(b)(2)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4839](https://www.govinfo.gov/link/statute/132/4839).)*

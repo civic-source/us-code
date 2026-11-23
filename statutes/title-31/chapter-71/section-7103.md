@@ -3,9 +3,10 @@ title: "Section 7103 - Authority of the President and heads of executive agencie
 usc_title: 31
 usc_section: "7103"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 7103"
-generated_at: "2026-03-30T02:55:34.075Z"
+generated_at: "2026-11-23T20:26:51.927Z"
+status: "active"
 ---
 
 # § 7103. Authority of the President and heads of executive agencies
@@ -28,3 +29,42 @@ generated_at: "2026-03-30T02:55:34.075Z"
 - **(c)** The head of an executive agency shall—
   - **(1)** take maximum action to carry out section 7101 of this title in conducting an assistance program of the agency; and
   - **(2)** consult and cooperate with the heads of other executive agencies to carry out section 7101 of this title in conducting assistance programs of different executive agencies that may be used jointly to finance projects undertaken by States, local governments, or private nonprofit organizations.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 7103(a) | 42:4252(a). | Dec. 5, 1974 , Pub. L. 93–510, § 3 , 88 Stat. 1604 . |
+| 7103(b) | 42:4252(b). |  |
+| 7103(c) | 42:4252(c). |  |
+
+
+Historical and Revision Notes
+
+7103(a)
+
+Dec. 5, 1974
+
+Pub. L. 93–510, § 3
+
+88 Stat. 1604
+
+7103(b)
+
+7103(c)
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Gerald R. Ford.
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 1036](https://www.govinfo.gov/link/statute/96/1036).)*

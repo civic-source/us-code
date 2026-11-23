@@ -3,9 +3,10 @@ title: "Section 804 - Coronavirus capital projects fund"
 usc_title: 42
 usc_section: "804"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 804"
-generated_at: "2026-03-30T02:56:10.898Z"
+generated_at: "2026-11-23T20:27:20.951Z"
+status: "active"
 ---
 
 # § 804. Coronavirus capital projects fund
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:10.898Z"
   - **(1)** The term “Secretary” means the Secretary of the Treasury.
   - **(2)** The term “State” means each of the 50 States, the District of Columbia, and Puerto Rico.
   - **(3)** The term “Tribal government” has the meaning given such term in section 802(g) of this title .
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title VI, § 604, as added [Pub. L. 117–2, title IX, § 9901(a)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 233](https://www.govinfo.gov/link/statute/135/233).)*

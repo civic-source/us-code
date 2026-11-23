@@ -3,9 +3,10 @@ title: "Section 21901 - Definitions"
 usc_title: 34
 usc_section: "21901"
 chapter: 219
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 21901"
-generated_at: "2026-03-30T02:55:33.305Z"
+generated_at: "2026-11-23T20:26:50.623Z"
+status: "active"
 ---
 
 # § 21901. Definitions
@@ -23,3 +24,7 @@ In this chapter:
     - **(B)** is identified by a law enforcement agency as a missing individual; and
     - **(C)** meets the requirements to be designated as a missing adult, as determined by the State in which, or the Indian Tribe in the territory of which, the individual is identified as a missing individual.
   - **(8)** The term “State” means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+
+## Source Credit
+
+*([Pub. L. 106–468, title II, § 201](https://www.govinfo.gov/link/plaw/106/public/468), as added [Pub. L. 115–401, § 2(5)](https://www.govinfo.gov/link/plaw/115/public/401), Dec. 31, 2018, [132 Stat. 5336](https://www.govinfo.gov/link/statute/132/5336).)*

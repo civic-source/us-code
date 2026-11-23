@@ -3,9 +3,10 @@ title: "Section 69 - Definitions"
 usc_title: 15
 usc_section: "69"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 69"
-generated_at: "2026-03-30T02:54:08.029Z"
+generated_at: "2026-11-23T20:26:03.422Z"
+status: "active"
 ---
 
 # § 69. Definitions
@@ -23,3 +24,7 @@ As used in this subchapter—
 - **(i)** The term “Fur Products Name Guide” means the register issued by the Commission pursuant to section 69e of this title .
 - **(j)** The term “commerce” means commerce between any State, Territory, or possession of the United States, or the District of Columbia, and any place outside thereof; or between points within the same State, Territory, or possession, or the District of Columbia, but through any place outside thereof; or within any Territory or possession or the District of Columbia.
 - **(k)** The term “United States” means the several States, the District of Columbia, and the Territories and possessions of the United States.
+
+## Source Credit
+
+*(Aug. 8, 1951, ch. 298, § 2, [65 Stat. 175](https://www.govinfo.gov/link/statute/65/175); [Pub. L. 106–476, title I, § 1443(b)](https://www.govinfo.gov/link/plaw/106/public/476), Nov. 9, 2000, [114 Stat. 2167](https://www.govinfo.gov/link/statute/114/2167); [Pub. L. 111–313, § 2(a)](https://www.govinfo.gov/link/plaw/111/public/313), Dec. 18, 2010, [124 Stat. 3326](https://www.govinfo.gov/link/statute/124/3326).)*

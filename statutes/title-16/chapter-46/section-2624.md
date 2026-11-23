@@ -3,9 +3,10 @@ title: "Section 2624 - Lifeline rates"
 usc_title: 16
 usc_section: "2624"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 2624"
-generated_at: "2026-03-30T02:54:23.005Z"
+generated_at: "2026-11-23T20:26:20.614Z"
+status: "active"
 ---
 
 # § 2624. Lifeline rates
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:23.005Z"
 - **(a)** No provision of this chapter prohibits a State regulatory authority (with respect to an electric utility for which it has ratemaking authority) or a nonregulated electric utility from fixing, approving, or allowing to go into effect a rate for essential needs (as defined by the State regulatory authority or by the nonregulated electric utility, as the case may be) of residential electric consumers which is lower than a rate under the standard referred to in section 2621(d)(1) of this title .
 - **(b)** If any State regulated electric utility or nonregulated electric utility does not have a lower rate as described in subsection (a) in effect two years after November 9, 1978 , the State regulatory authority having ratemaking authority with respect to such State regulated electric utility or the nonregulated electric utility, as the case may be, shall determine, after an evidentiary hearing, whether such a rate should be implemented by such utility.
 - **(c)** Section 2634 of this title shall not apply to the requirements of this section.
+
+## Source Credit
+
+*([Pub. L. 95–617, title I, § 114](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3124](https://www.govinfo.gov/link/statute/92/3124).)*

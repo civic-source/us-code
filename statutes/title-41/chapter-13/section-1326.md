@@ -3,9 +3,10 @@ title: "Section 1326 - Requirements for executive agencies"
 usc_title: 41
 usc_section: "1326"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 1326"
-generated_at: "2026-03-30T02:55:55.800Z"
+generated_at: "2026-11-23T20:27:04.388Z"
+status: "active"
 ---
 
 # § 1326. Requirements for executive agencies
@@ -27,3 +28,21 @@ generated_at: "2026-03-30T02:55:55.800Z"
 - **(d)** The Secretary of Homeland Security may—
   - **(1)** assist executive agencies in conducting risk assessments described in subsection (a) and implementing mitigation requirements for information and communications technology; and
   - **(2)** provide such additional guidance or tools as are necessary to support actions taken by executive agencies.
+
+In General
+
+Inclusions
+
+Interagency Acquisitions.—
+
+In general
+
+Assisted acquisitions
+
+Definitions
+
+Assistance
+
+## Source Credit
+
+*(Added [Pub. L. 115–390, title II, § 202(a)](https://www.govinfo.gov/link/plaw/115/public/390), Dec. 21, 2018, [132 Stat. 5184](https://www.govinfo.gov/link/statute/132/5184).)*

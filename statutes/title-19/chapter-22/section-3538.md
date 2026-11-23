@@ -3,9 +3,10 @@ title: "Section 3538 - Administrative action following WTO panel reports"
 usc_title: 19
 usc_section: "3538"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3538"
-generated_at: "2026-03-30T02:54:24.692Z"
+generated_at: "2026-11-23T20:26:11.053Z"
+status: "active"
 ---
 
 # § 3538. Administrative action following WTO panel reports
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:24.692Z"
     - **(A)** The administering authority shall publish in the Federal Register notice of the implementation of any determination made under this section with respect to title VII of the Tariff Act of 1930 [ 19 U.S.C. 1671 et seq.].
     - **(B)** The Trade Representative shall publish in the Federal Register notice of the implementation of any determination made under this section with respect to title II of the Trade Act of 1974 [ 19 U.S.C. 2251 et seq.].
 - **(d)** Prior to issuing a determination under this section, the administering authority or the Commission, as the case may be, shall provide interested parties with an opportunity to submit written comments and, in appropriate cases, may hold a hearing, with respect to the determination.
+
+## Source Credit
+
+*([Pub. L. 103–465, title I, § 129](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4836](https://www.govinfo.gov/link/statute/108/4836).)*

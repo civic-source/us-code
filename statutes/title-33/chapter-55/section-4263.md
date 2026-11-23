@@ -3,9 +3,10 @@ title: "Section 4263 - United States leadership in international FORA"
 usc_title: 33
 usc_section: "4263"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 4263"
-generated_at: "2026-03-30T02:55:41.147Z"
+generated_at: "2026-11-23T20:26:54.295Z"
+status: "active"
 ---
 
 # § 4263. United States leadership in international FORA
@@ -45,3 +46,7 @@ In implementing the policy described in section 4261 of this title , the Preside
       - **(ii)** post-consumer materials;
       - **(iii)** plastic waste; and
       - **(iv)** marine debris.
+
+## Source Credit
+
+*([Pub. L. 116–224, title II, § 203](https://www.govinfo.gov/link/plaw/116/public/224), Dec. 18, 2020, [134 Stat. 1089](https://www.govinfo.gov/link/statute/134/1089).)*

@@ -3,12 +3,17 @@ title: "Section 4311 - Definitions"
 usc_title: 5
 usc_section: "4311"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 4311"
-generated_at: "2026-03-30T02:52:56.009Z"
+generated_at: "2026-11-23T20:25:31.860Z"
+status: "active"
 ---
 
 # § 4311. Definitions
 
 For the purpose of this subchapter, “agency”, “senior executive”, and “career appointee” have the meanings set forth in section 3132(a) of this title .
 
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title IV, § 405(a)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1167](https://www.govinfo.gov/link/statute/92/1167).)*

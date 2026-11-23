@@ -3,9 +3,10 @@ title: "Section 3373 - Meaningful participation of Taiwan in the International C
 usc_title: 22
 usc_section: "3373"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3373"
-generated_at: "2026-03-30T02:55:05.393Z"
+generated_at: "2026-11-23T20:26:32.457Z"
+status: "active"
 ---
 
 # § 3373. Meaningful participation of Taiwan in the International Civil Aviation Organization
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:05.393Z"
   - **(1)** describes the United States plan to ensure Taiwan’s meaningful participation in ICAO, including in ICAO triennial assembly sessions, conferences, technical working groups, meetings, activities, and mechanisms;
   - **(2)** includes an account of the efforts made by the Secretary of State and the Secretary of Commerce to ensure Taiwan’s meaningful participation in ICAO, including in ICAO triennial assembly sessions, conferences, technical working groups, meetings, activities, and mechanisms; and
   - **(3)** identifies the steps the Secretary of State and the Secretary of Commerce will take in the next year to ensure Taiwan’s meaningful participation in ICAO, including in ICAO triennial assembly sessions, conferences, technical working groups, meetings, activities, and mechanisms.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. E, title LV, § 5519](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3319](https://www.govinfo.gov/link/statute/136/3319).)*

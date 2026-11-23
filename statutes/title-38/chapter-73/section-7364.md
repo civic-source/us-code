@@ -3,9 +3,10 @@ title: "Section 7364 - General powers"
 usc_title: 38
 usc_section: "7364"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7364"
-generated_at: "2026-03-30T02:55:53.529Z"
+generated_at: "2026-11-23T20:27:02.008Z"
+status: "active"
 ---
 
 # § 7364. General powers
@@ -26,3 +27,17 @@ generated_at: "2026-03-30T02:55:53.529Z"
 - **(c)** Except for reasonable and usual preliminary costs for project planning before its approval, a corporation established under this subchapter may not spend funds for a research project unless the project is approved in accordance with procedures prescribed by the Under Secretary for Health for research carried out with Department funds. Such procedures shall include a scientific review process.
 - **(d)** Except for reasonable and usual preliminary costs for activity planning before its approval, a corporation established under this subchapter may not spend funds for an education activity unless the activity is approved in accordance with procedures prescribed by the Under Secretary for Health.
 - **(e)** The Under Secretary for Health may prescribe policies and procedures to guide the spending of funds by corporations established under this subchapter that are consistent with the purpose of such corporations as flexible funding mechanisms and with Federal and State laws and regulations, and executive orders, circulars, and directives that apply generally to the receipt and expenditure of funds by nonprofit organizations exempt from taxation under section 501(c)(3) of the Internal Revenue Code of 1986.
+
+In General
+
+Transfer and Administration of Funds
+
+Research Projects
+
+Education Activities
+
+Policies and Procedures
+
+## Source Credit
+
+*(Added [Pub. L. 100–322, title II, § 204(a)](https://www.govinfo.gov/link/plaw/100/public/322), May 20, 1988, [102 Stat. 511](https://www.govinfo.gov/link/statute/102/511), § 4164; renumbered § 7364 and amended [Pub. L. 102–40, title IV](https://www.govinfo.gov/link/plaw/102/public/40), §§ 401(a)(4)(B), 403(a)(2), May 7, 1991, [105 Stat. 221](https://www.govinfo.gov/link/statute/105/221), 239; [Pub. L. 102–405, title III, § 302(c)(1)](https://www.govinfo.gov/link/plaw/102/public/405), Oct. 9, 1992, [106 Stat. 1984](https://www.govinfo.gov/link/statute/106/1984); [Pub. L. 106–117, title II, § 204(d)](https://www.govinfo.gov/link/plaw/106/public/117), Nov. 30, 1999, [113 Stat. 1562](https://www.govinfo.gov/link/statute/113/1562); [Pub. L. 111–163, title VIII, § 804(a)](https://www.govinfo.gov/link/plaw/111/public/163), May 5, 2010, [124 Stat. 1177](https://www.govinfo.gov/link/statute/124/1177); [Pub. L. 116–315, title VII, § 7006](https://www.govinfo.gov/link/plaw/116/public/315), Jan. 5, 2021, [134 Stat. 5059](https://www.govinfo.gov/link/statute/134/5059).)*

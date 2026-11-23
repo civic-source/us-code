@@ -3,9 +3,10 @@ title: "Section 239d - Compensation for lost employment income"
 usc_title: 42
 usc_section: "239d"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 239d"
-generated_at: "2026-03-30T02:56:10.689Z"
+generated_at: "2026-11-23T20:27:19.976Z"
+status: "active"
 ---
 
 # § 239d. Compensation for lost employment income
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:10.689Z"
     - **(B)** Subparagraph (A) does not apply if the period of loss of employment income of an eligible individual is 10 or more work days.
   - **(5)** No payment shall be made under subsection (a) in compensation for loss of employment income once the eligible individual involves 1 1 So in original. Probably should be “involved”. reaches the age of 65.
 - **(d)** A benefit under subsection (a) shall be in addition to any amounts received by an eligible individual under section 239c of this title .
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title II, § 265, as added [Pub. L. 108–20, § 2](https://www.govinfo.gov/link/plaw/108/public/20), Apr. 30, 2003, [117 Stat. 642](https://www.govinfo.gov/link/statute/117/642).)*

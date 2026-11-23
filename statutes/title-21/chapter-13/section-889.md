@@ -3,9 +3,10 @@ title: "Section 889 - Production control of controlled substances"
 usc_title: 21
 usc_section: "889"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 889"
-generated_at: "2026-03-30T02:54:54.298Z"
+generated_at: "2026-11-23T20:26:27.854Z"
+status: "active"
 ---
 
 # § 889. Production control of controlled substances
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:54.298Z"
   - **(1)** define the term “person”;
   - **(2)** govern the determination of persons who shall be ineligible for program benefits under this section; and
   - **(3)** protect the interests of tenants and sharecroppers.
+
+## Source Credit
+
+*([Pub. L. 91–513, title II, § 519](https://www.govinfo.gov/link/plaw/91/public/513), formerly [Pub. L. 99–198, title XVII, § 1764](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1652](https://www.govinfo.gov/link/statute/99/1652); renumbered [§ 519 of Pub. L. 91–513](https://www.govinfo.gov/link/plaw/91/public/513), [Pub. L. 101–647, title X, § 1002(h)(2)](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4828](https://www.govinfo.gov/link/statute/104/4828).)*

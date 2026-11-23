@@ -3,9 +3,10 @@ title: "Section 4015 - Judicial review; admissibility"
 usc_title: 15
 usc_section: "4015"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 4015"
-generated_at: "2026-03-30T02:54:08.197Z"
+generated_at: "2026-11-23T20:26:04.323Z"
+status: "active"
 ---
 
 # § 4015. Judicial review; admissibility
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:08.197Z"
 - **(a)** If the Secretary grants or denies, in whole or in part, an application for a certificate of review or for an amendment to a certificate, or revokes or modifies a certificate pursuant to section 4014(b) of this title , any person aggrieved by such determination may, within 30 days of the determination, bring an action in any appropriate district court of the United States to set aside the determination on the ground that such determination is erroneous.
 - **(b)** Except as provided in subsection (a), no action by the Secretary or the Attorney General pursuant to this subchapter shall be subject to judicial review.
 - **(c)** If the Secretary denies, in whole or in part, an application for a certificate of review or for an amendment to a certificate, or revokes or amends a certificate, neither the negative determination nor the statement of reasons therefor shall be admissible in evidence, in any administrative or judicial proceeding, in support of any claim under the antitrust laws.
+
+## Source Credit
+
+*([Pub. L. 97–290, title III, § 305](https://www.govinfo.gov/link/plaw/97/public/290), Oct. 8, 1982, [96 Stat. 1243](https://www.govinfo.gov/link/statute/96/1243).)*

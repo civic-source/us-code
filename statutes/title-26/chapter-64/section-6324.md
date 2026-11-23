@@ -3,9 +3,10 @@ title: "Section 6324 - Special liens for estate and gift taxes"
 usc_title: 26
 usc_section: "6324"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6324"
-generated_at: "2026-03-30T02:55:27.849Z"
+generated_at: "2026-11-23T20:26:46.617Z"
+status: "active"
 ---
 
 # § 6324. Special liens for estate and gift taxes
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:27.849Z"
 - **(c)**
   - **(1)** The lien imposed by subsection (a) or (b) shall not be valid as against a mechanic’s lienor and, subject to the conditions provided by section 6323(b) (relating to protection for certain interests even though notice filed), shall not be valid with respect to any lien or interest described in section 6323(b).
   - **(2)** If a lien imposed by subsection (a) or (b) is not valid as against a lien or security interest, the priority of such lien or security interest shall extend to any item described in section 6323(e) (relating to priority of interest and expenses) to the extent that, under local law, such item has the same priority as the lien or security interest to which it relates.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 780; [Pub. L. 88–272, title II, § 236(b)](https://www.govinfo.gov/link/plaw/88/public/272), (c)(2), Feb. 26, 1964, [78 Stat. 127](https://www.govinfo.gov/link/statute/78/127), 128; [Pub. L. 89–719, title I, § 102](https://www.govinfo.gov/link/plaw/89/public/719), Nov. 2, 1966, [80 Stat. 1132](https://www.govinfo.gov/link/statute/80/1132); [Pub. L. 91–614, title I](https://www.govinfo.gov/link/plaw/91/public/614), §§ 101(d)(2), 102(d)(7), Dec. 31, 1970, [84 Stat. 1837](https://www.govinfo.gov/link/statute/84/1837), 1842.)*

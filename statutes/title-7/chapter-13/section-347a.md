@@ -3,9 +3,10 @@ title: "Section 347a - Disadvantaged agricultural areas"
 usc_title: 7
 usc_section: "347a"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 347a"
-generated_at: "2026-03-30T02:53:42.281Z"
+generated_at: "2026-11-23T20:25:41.020Z"
+status: "active"
 ---
 
 # § 347a. Disadvantaged agricultural areas
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:42.281Z"
 - **(c)** In determining that the area has such special need, the Secretary shall find that it has a substantial number of disadvantaged farms or farm families for one or more of the reasons heretofore enumerated. The Secretary shall make provisions for the assistance to be extended to include one or more of the following: (1) Intensive on-the-farm educational assistance to the farm family in appraising and resolving its problems; (2) assistance and counseling to local groups in appraising resources for capability of improvement in agriculture or introduction of industry designed to supplement farm income; (3) cooperation with other agencies and groups in furnishing all possible information as to existing employment opportunities, particularly to farm families having under-employed workers; and (4) in cases where the farm family, after analysis of its opportunities and existing resources, finds it advisable to seek a new farming venture, the providing of information, advice, and counsel in connection with making such change.
 - **(d)** No more than 10 per centum of the sums available under this section shall be allotted to any one State. The Secretary shall use project proposals and plans of work submitted by the State Extension directors as a basis for determining the allocation of funds appropriated pursuant to this section.
 - **(e)** Sums appropriated pursuant to this section shall be in addition to, and not in substitution for, appropriations otherwise available under this subchapter. The amounts authorized to be appropriated pursuant to this section shall not exceed a sum in any year equal to 10 per centum of sums otherwise appropriated pursuant to this subchapter.
+
+## Source Credit
+
+*(May 8, 1914, ch. 79, § 8, as added Aug. 11, 1955, ch. 798, § 1(a), [69 Stat. 683](https://www.govinfo.gov/link/statute/69/683); amended [Pub. L. 87–749, § 1(h)](https://www.govinfo.gov/link/plaw/87/public/749), Oct. 5, 1962, [76 Stat. 745](https://www.govinfo.gov/link/statute/76/745).)*

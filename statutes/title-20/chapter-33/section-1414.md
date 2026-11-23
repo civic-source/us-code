@@ -3,9 +3,10 @@ title: "Section 1414 - Evaluations, eligibility determinations, individualized e
 usc_title: 20
 usc_section: "1414"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1414"
-generated_at: "2026-03-30T02:54:48.163Z"
+generated_at: "2026-11-23T20:26:14.641Z"
+status: "active"
 ---
 
 # § 1414. Evaluations, eligibility determinations, individualized education programs, and educational placements
@@ -186,3 +187,51 @@ generated_at: "2026-03-30T02:54:48.163Z"
     - **(B)** If a child with a disability is convicted as an adult under State law and incarcerated in an adult prison, the child’s IEP Team may modify the child’s IEP or placement notwithstanding the requirements of sections 1 1 So in original. Probably should be “section”. 1412(a)(5)(A) of this title and paragraph (1)(A) if the State has demonstrated a bona fide security or compelling penological interest that cannot otherwise be accommodated.
 - **(e)** Each local educational agency or State educational agency shall ensure that the parents of each child with a disability are members of any group that makes decisions on the educational placement of their child.
 - **(f)** When conducting IEP team 2 2 So in original. Probably should be capitalized. meetings and placement meetings pursuant to this section, section 1415(e) of this title , and section 1415(f)(1)(B) of this title , and carrying out administrative matters under section 1415 of this title (such as scheduling, exchange of witness lists, and status conferences), the parent of a child with a disability and a local educational agency may agree to use alternative means of meeting participation, such as video conferences and conference calls.
+
+(aa) the local educational agency shall not be considered to be in violation of the requirement to make available a free appropriate public education to the child for the failure to provide such child with the special education and related services for which the local educational agency requests such consent; and
+
+(bb) the local educational agency shall not be required to convene an IEP meeting or develop an IEP under this section for the child for the special education and related services for which the local educational agency requests such consent.
+
+(aa) despite reasonable efforts to do so, the agency cannot discover the whereabouts of the parent of the child;
+
+(bb) the rights of the parents of the child have been terminated in accordance with State law; or
+
+(cc) the rights of the parent to make educational decisions have been subrogated by a judge in accordance with State law and consent for an initial evaluation has been given by an individual appointed by the judge to represent the child.
+
+(aa) how the child’s disability affects the child’s involvement and progress in the general education curriculum;
+
+(bb) for preschool children, as appropriate, how the disability affects the child’s participation in appropriate activities; and
+
+(cc) for children with disabilities who take alternate assessments aligned to alternate achievement standards, a description of benchmarks or short-term objectives;
+
+(aa) meet the child’s needs that result from the child’s disability to enable the child to be involved in and make progress in the general education curriculum; and
+
+(bb) meet each of the child’s other educational needs that result from the child’s disability;
+
+(aa) to advance appropriately toward attaining the annual goals;
+
+(bb) to be involved in and make progress in the general education curriculum in accordance with subclause (I) and to participate in extracurricular and other nonacademic activities; and
+
+(cc) to be educated and participate with other children with disabilities and nondisabled children in the activities described in this subparagraph;
+
+(aa) a statement of any individual appropriate accommodations that are necessary to measure the academic achievement and functional performance of the child on State and districtwide assessments consistent with section 1412(a)(16)(A) of this title ; and
+
+(bb) if the IEP Team determines that the child shall take an alternate assessment on a particular State or districtwide assessment of student achievement, a statement of why— (AA) the child cannot participate in the regular assessment; and (BB) the particular alternate assessment selected is appropriate for the child;
+
+(aa) appropriate measurable postsecondary goals based upon age appropriate transition assessments related to training, education, employment, and, where appropriate, independent living skills;
+
+(bb) the transition services (including courses of study) needed to assist the child in reaching those goals; and
+
+(cc) beginning not later than 1 year before the child reaches the age of majority under State law, a statement that the child has been informed of the child’s rights under this chapter, if any, that will transfer to the child on reaching the age of majority under section 1415(m) of this title .
+
+(aa) assurances that the development of a multi-year IEP under this paragraph is optional for parents;
+
+(bb) assurances that the parent is required to provide informed consent before a comprehensive multi-year IEP is developed;
+
+(cc) a list of required elements for each multi-year IEP, including— (AA) measurable goals pursuant to paragraph (1)(A)(i)(II), coinciding with natural transition points for the child, that will enable the child to be involved in and make progress in the general education curriculum and that will meet the child’s other needs that result from the child’s disability; and (BB) measurable annual goals for determining progress toward meeting the goals described in subitem (AA); and
+
+(dd) a description of the process for the review and revision of each multi-year IEP, including— (AA) a review by the IEP Team of the child’s multi-year IEP at each of the child’s natural transition points; (BB) in years other than a child’s natural transition points, an annual review of the child’s IEP to determine the child’s current levels of progress and whether the annual goals for the child are being achieved, and a requirement to amend the IEP, as appropriate, to enable the child to continue to meet the measurable goals set out in the IEP; (CC) if the IEP Team determines on the basis of a review that the child is not making sufficient progress toward the goals described in the multi-year IEP, a requirement that the local educational agency shall ensure that the IEP Team carries out a more thorough review of the IEP in accordance with paragraph (4) within 30 calendar days; and (DD) at the request of the parent, a requirement that the IEP Team shall conduct a review of the child’s multi-year IEP rather than or subsequent to an annual review.
+
+## Source Credit
+
+*([Pub. L. 91–230, title VI, § 614](https://www.govinfo.gov/link/plaw/91/public/230), as added [Pub. L. 108–446, title I, § 101](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2702](https://www.govinfo.gov/link/statute/118/2702); amended [Pub. L. 114–95, title IX, § 9215(ss)(5)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2182](https://www.govinfo.gov/link/statute/129/2182).)*

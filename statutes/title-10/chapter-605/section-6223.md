@@ -3,9 +3,10 @@ title: "Section 6223 - Background investigations of certain personnel at Departm
 usc_title: 10
 usc_section: "6223"
 chapter: 605
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6223"
-generated_at: "2026-03-30T02:53:38.222Z"
+generated_at: "2026-11-23T20:25:52.022Z"
+status: "active"
 ---
 
 # § 6223. Background investigations of certain personnel at Department of Energy facilities
@@ -14,3 +15,7 @@ The Secretary of Energy shall ensure that an investigation meeting the requireme
 
   - **(1)** carries out duties or responsibilities in or around a location where Restricted Data is present; or
   - **(2)** has or may have regular access to a location where Restricted Data is present.
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1403](https://www.govinfo.gov/link/statute/139/1403).)*

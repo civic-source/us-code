@@ -3,9 +3,10 @@ title: "Section 6909 - Exclusive Economic Zone notification"
 usc_title: 16
 usc_section: "6909"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6909"
-generated_at: "2026-03-30T02:54:23.071Z"
+generated_at: "2026-11-23T20:26:20.826Z"
+status: "active"
 ---
 
 # § 6909. Exclusive Economic Zone notification
@@ -15,3 +16,7 @@ Masters of commercial fishing vessels of nations fishing for species under the m
   - **(1)** notify the United States Coast Guard or the National Marine Fisheries Service Office of Law Enforcement in the appropriate region of the name, flag state, location, route, and destination of the vessel and of the circumstances under which it will enter United States waters;
   - **(2)** ensure that all fishing gear on board the vessel is stowed below deck or otherwise removed from the place where it is normally used for fishing and placed where it is not readily available for fishing; and
   - **(3)** where requested by an enforcement officer, proceed to a specified location so that a vessel inspection can be conducted.
+
+## Source Credit
+
+*([Pub. L. 109–479, title V, § 510](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3643](https://www.govinfo.gov/link/statute/120/3643).)*

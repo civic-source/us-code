@@ -3,9 +3,10 @@ title: "Section 2604 - United Seamen’s Service: cooperation and assistance"
 usc_title: 10
 usc_section: "2604"
 chapter: 155
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2604"
-generated_at: "2026-03-30T02:53:38.165Z"
+generated_at: "2026-11-23T20:25:51.620Z"
+status: "active"
 ---
 
 # § 2604. United Seamen’s Service: cooperation and assistance
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:38.165Z"
 - **(d)** Supplies of the United Seamen’s Service, including gifts for the use of merchant seamen, may be transported at the expense of the United States, if it is determined under regulations prescribed under subsection (a) that they are necessary to the cooperation and assistance provided under this section.
 - **(e)** Where practicable, the President shall also make arrangements to provide for convertibility of local currencies for the United Seamen’s Service, in connection with its activities under subsection (a).
 - **(f)** For the purposes of this section, employees of the United Seamen’s Service may not be considered as employees of the United States.
+
+## Source Credit
+
+*(Added [Pub. L. 91–603, § 3(1)](https://www.govinfo.gov/link/plaw/91/public/603), Dec. 31, 1970, [84 Stat. 1674](https://www.govinfo.gov/link/statute/84/1674).)*

@@ -3,9 +3,10 @@ title: "Section 1106 - Unemployment compensation research program"
 usc_title: 42
 usc_section: "1106"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1106"
-generated_at: "2026-03-30T02:56:10.901Z"
+generated_at: "2026-11-23T20:27:20.964Z"
+status: "active"
 ---
 
 # § 1106. Unemployment compensation research program
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:10.901Z"
   - **(1)** establish a continuing and comprehensive program of research to evaluate the unemployment compensation system. Such research shall include, but not be limited to, a program of factual studies covering the role of unemployment compensation under varying patterns of unemployment including those in seasonal industries, the relationship between the unemployment compensation and other social insurance programs, the effect of State eligibility and disqualification provisions, the personal characteristics, family situations, employment background and experience of claimants, with the results of such studies to be made public; and
   - **(2)** establish a program of research to develop information (which shall be made public) as to the effect and impact of extending coverage to excluded groups with first attention to agricultural labor.
 - **(b)** To assist in the establishment and provide for the continuation of the comprehensive research program relating to the unemployment compensation system, there are hereby authorized to be appropriated for the fiscal year ending June 30, 1971 , and for each fiscal year thereafter, such sums, not to exceed $8,000,000, as may be necessary to carry out the purposes of this section. From the sums authorized to be appropriated by this subsection the Secretary may provide for the conduct of such research through grants or contracts.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IX, § 906, as added [Pub. L. 91–373, title I, § 141](https://www.govinfo.gov/link/plaw/91/public/373), Aug. 10, 1970, [84 Stat. 705](https://www.govinfo.gov/link/statute/84/705).)*

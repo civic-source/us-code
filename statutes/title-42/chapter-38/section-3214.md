@@ -3,9 +3,10 @@ title: "Section 3214 - Delegation of functions and transfer of funds among Feder
 usc_title: 42
 usc_section: "3214"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3214"
-generated_at: "2026-03-30T02:56:11.184Z"
+generated_at: "2026-11-23T20:27:22.272Z"
+status: "active"
 ---
 
 # § 3214. Delegation of functions and transfer of funds among Federal agencies
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.184Z"
   - **(2)** The transferred funds—
     - **(A)** shall remain available until expended; and
     - **(B)** may, to the extent necessary to carry out this chapter, be transferred to and merged by the Secretary with the appropriations for salaries and expenses.
+
+## Source Credit
+
+*([Pub. L. 89–136, title VI, § 604](https://www.govinfo.gov/link/plaw/89/public/136), as added [Pub. L. 105–393, title I, § 102(a)](https://www.govinfo.gov/link/plaw/105/public/393), Nov. 13, 1998, [112 Stat. 3614](https://www.govinfo.gov/link/statute/112/3614).)*

@@ -3,9 +3,10 @@ title: "Section 152903 - Purposes"
 usc_title: 36
 usc_section: "152903"
 chapter: 1529
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 152903"
-generated_at: "2026-03-30T02:55:44.705Z"
+generated_at: "2026-11-23T20:26:59.008Z"
+status: "active"
 ---
 
 # § 152903. Purposes
@@ -20,3 +21,24 @@ The purposes of the corporation are as provided in the articles of incorporation
   - **(6)** to establish scholarships to assist needy and deserving students and to promote the improvement of educational institutions;
   - **(7)** to engage in volunteer service and make contributions to veterans hospitals; and
   - **(8)** to perform other charitable activities, including the national presidents’ projects, as may be provided in the articles of incorporation or bylaws of the corporation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 152903 | 36:2903. | Oct. 30, 1984 , Pub. L. 98–561, § 3 , 98 Stat. 2910 . |
+
+
+Historical and Revision Notes
+
+Pub. L
+
+152903
+
+Oct. 30, 1984
+
+Pub. L. 98–561, § 3
+
+98 Stat. 2910
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1420](https://www.govinfo.gov/link/statute/112/1420); [Pub. L. 105–354, § 1(10)](https://www.govinfo.gov/link/plaw/105/public/354), Nov. 3, 1998, [112 Stat. 3244](https://www.govinfo.gov/link/statute/112/3244).)*

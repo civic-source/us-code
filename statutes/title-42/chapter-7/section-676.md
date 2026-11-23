@@ -3,9 +3,10 @@ title: "Section 676 - Administration"
 usc_title: 42
 usc_section: "676"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 676"
-generated_at: "2026-03-30T02:56:10.891Z"
+generated_at: "2026-11-23T20:27:20.926Z"
+status: "active"
 ---
 
 # § 676. Administration
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:56:10.891Z"
     - **(B)** The Secretary shall make the reports to Congress submitted under this paragraph publicly available.
   - **(5)** Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated to the Secretary $1,000,000 for fiscal year 2018 and each fiscal year thereafter to carry out this subsection.
 - **(e)** The Secretary shall conduct an evaluation of the procedures and protocols established by States in accordance with the requirements of section 622(b)(15)(A)(vii) of this title . The evaluation shall analyze the extent to which States comply with and enforce the procedures and protocols and the effectiveness of various State procedures and protocols and shall identify best practices. Not later than January 1, 2020 , the Secretary shall submit a report on the results of the evaluation to Congress.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 476, as added [Pub. L. 96–272, title I, § 101(a)(1)](https://www.govinfo.gov/link/plaw/96/public/272), June 17, 1980, [94 Stat. 511](https://www.govinfo.gov/link/statute/94/511); amended [Pub. L. 110–351, title III, § 302](https://www.govinfo.gov/link/plaw/110/public/351), Oct. 7, 2008, [122 Stat. 3972](https://www.govinfo.gov/link/statute/122/3972); [Pub. L. 115–123, div. E, title VII](https://www.govinfo.gov/link/plaw/115/public/123), §§ 50711(d), 50743(b), Feb. 9, 2018, [132 Stat. 242](https://www.govinfo.gov/link/statute/132/242), 260.)*

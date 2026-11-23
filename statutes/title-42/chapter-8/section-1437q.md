@@ -3,9 +3,10 @@ title: "Section 1437q - Financing limitations"
 usc_title: 42
 usc_section: "1437q"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1437q"
-generated_at: "2026-03-30T02:56:11.086Z"
+generated_at: "2026-11-23T20:27:21.745Z"
+status: "active"
 ---
 
 # § 1437q. Financing limitations
@@ -14,3 +15,7 @@ On and after October 1, 1983 , the Secretary—
 
   - **(1)** may only enter into contracts for annual contributions regarding obligations financing public housing projects authorized by section 1437c(c) of this title if such obligations are exempt from taxation under section 1437i(b) of this title , or if such obligations are issued under section 1437b of this title and such obligations are exempt from taxation; and
   - **(2)** may not enter into contracts for periodic payments to the Federal Financing Bank to offset the costs to the Bank of purchasing obligations (as described in the first sentence of section 2294(b) of title 12 ) issued by local public housing agencies for purposes of financing public housing projects authorized by section 1437c(c) of this title .
+
+## Source Credit
+
+*(Sept. 1, 1937, ch. 896, title I, § 19, as added [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title II, § 215], Nov. 30, 1983, [97 Stat. 1185](https://www.govinfo.gov/link/statute/97/1185); renumbered title I, [Pub. L. 100–358, § 5](https://www.govinfo.gov/link/plaw/100/public/358), June 29, 1988, [102 Stat. 681](https://www.govinfo.gov/link/statute/102/681).)*

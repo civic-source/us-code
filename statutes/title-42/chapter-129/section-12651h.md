@@ -3,9 +3,10 @@ title: "Section 12651h - Corporation State offices"
 usc_title: 42
 usc_section: "12651h"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12651h"
-generated_at: "2026-03-30T02:56:11.424Z"
+generated_at: "2026-11-23T20:27:23.410Z"
+status: "active"
 ---
 
 # § 12651h. Corporation State offices
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.424Z"
   - **(3)** provide to the State Commission and other entities within the State support and technical assistance necessary to assure the existence of an effective system of recruitment, placement, and training of volunteers within the State;
   - **(4)** monitor and evaluate the performance of all programs and projects within the State that receive assistance under the national service laws; and
   - **(5)** perform such other duties and functions as may be assigned or delegated by the Chief Executive Officer.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 196A](https://www.govinfo.gov/link/plaw/101/public/610), as added [Pub. L. 103–82, title II, § 202(a)](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 887](https://www.govinfo.gov/link/statute/107/887).)*

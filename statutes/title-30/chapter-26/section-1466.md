@@ -3,9 +3,10 @@ title: "Section 1466 - Civil forfeitures"
 usc_title: 30
 usc_section: "1466"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1466"
-generated_at: "2026-03-30T02:55:29.406Z"
+generated_at: "2026-11-23T20:26:35.047Z"
+status: "active"
 ---
 
 # § 1466. Civil forfeitures
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:29.406Z"
 - **(c)** If a judgment is entered for the United States in a civil forfeiture proceeding under this section, the Attorney General may seize any property or other interest declared forfeited to the United States which has not previously been seized pursuant to this chapter or for which security has not previously been obtained under subsection (d).
 - **(d)** Any officer authorized to serve any process in rem which is issued by a court having jurisdiction under section 1467 of this title shall stay the execution of such process, or discharge any property seized pursuant to such process, upon the receipt of a satisfactory bond or other security from any person subject to section 1461 of this title claiming such property. Such bond or other security shall be conditioned upon such person (1) delivering such property to the appropriate court upon order thereof, without any impairment of its value; or (2) paying the monetary value of such property pursuant to any order of such court. Judgment shall be recoverable on such bond or other security against both the principal and any sureties in the event that any condition thereof is breached, as determined by such court.
 - **(e)** For purposes of this section, it shall be a rebuttable presumption that all hard mineral resources found on board a vessel subject to the provisions of sections 1464 and 1465 of this title which is seized in connection with an act prohibited by section 1461 of this title were recovered, processed, or retained in violation of this chapter.
+
+## Source Credit
+
+*([Pub. L. 96–283, title III, § 306](https://www.govinfo.gov/link/plaw/96/public/283), June 28, 1980, [94 Stat. 580](https://www.govinfo.gov/link/statute/94/580).)*

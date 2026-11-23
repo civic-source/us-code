@@ -3,9 +3,10 @@ title: "Section 19067 - Critical minerals mining research and development"
 usc_title: 42
 usc_section: "19067"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 19067"
-generated_at: "2026-03-30T02:56:11.538Z"
+generated_at: "2026-11-23T20:27:23.851Z"
+status: "active"
 ---
 
 # § 19067. Critical minerals mining research and development
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:56:11.538Z"
     - **(H)** assess the need for, and make recommendations concerning, the availability and adequacy of the supply of technically trained personnel necessary for critical materials research, development, extraction, and industrial production, with a particular focus on the problem of attracting and maintaining high-quality professionals for maintaining an adequate supply of energy critical materials; and
     - **(I)** report to the appropriate Congressional committees on activities and findings under this section.
 - **(c)** In this section, the terms “critical mineral” and “critical mineral or metal” include any host mineral of a critical mineral (within the meaning of those terms in section 1606 of title 30 ).
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10359](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1564](https://www.govinfo.gov/link/statute/136/1564).)*

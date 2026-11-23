@@ -3,9 +3,10 @@ title: "Section 236 - Personal protection equipment procurement: display of budg
 usc_title: 10
 usc_section: "236"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 236"
-generated_at: "2026-03-30T02:53:38.048Z"
+generated_at: "2026-11-23T20:25:50.886Z"
+status: "active"
 ---
 
 # § 236. Personal protection equipment procurement: display of budget information
@@ -27,3 +28,13 @@ generated_at: "2026-03-30T02:53:38.048Z"
     - **(B)** Combat helmets.
     - **(C)** Combat protective eyewear.
     - **(D)** Other items as determined appropriate by the Secretary.
+
+Budget Justification Display
+
+Requirements for Budget Display
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 113–66, div. A, title I, § 141(a)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 696](https://www.govinfo.gov/link/statute/127/696).)*

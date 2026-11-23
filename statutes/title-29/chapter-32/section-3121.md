@@ -3,9 +3,10 @@ title: "Section 3121 - Workforce development areas"
 usc_title: 29
 usc_section: "3121"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3121"
-generated_at: "2026-03-30T02:55:18.750Z"
+generated_at: "2026-11-23T20:26:38.088Z"
+status: "active"
 ---
 
 # § 3121. Workforce development areas
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:55:18.750Z"
 - **(e)** For purposes of this section:
   - **(1)** The term “performed successfully”, used with respect to a local area, means the local area met or exceeded the adjusted levels of performance for primary indicators of performance described in section 3141(b)(2)(A) of this title (or, if applicable, core indicators of performance described in section 136(b)(2)(A) of the Workforce Investment Act of 1998 [ 29 U.S.C. 2871(b)(2)(A) ], as in effect the day before July 22, 2014 ) for each of the last 2 consecutive years for which data are available preceding the determination of performance under this paragraph.
   - **(2)** The term “sustained fiscal integrity”, used with respect to a local area, means that the Secretary has not made a formal determination, during either of the last 2 consecutive years preceding the determination regarding such integrity, that either the grant recipient or the administrative entity of the area misexpended funds provided under part B (or, if applicable, title I of the Workforce Investment Act of 1998 as in effect prior to the effective date of such part B) due to willful disregard of the requirements of the provision involved, gross negligence, or failure to comply with accepted standards of administration.
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 106](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1452](https://www.govinfo.gov/link/statute/128/1452); [Pub. L. 114–18, § 2(a)(1)](https://www.govinfo.gov/link/plaw/114/public/18), May 22, 2015, [129 Stat. 213](https://www.govinfo.gov/link/statute/129/213).)*

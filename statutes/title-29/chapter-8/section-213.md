@@ -3,9 +3,10 @@ title: "Section 213 - Exemptions"
 usc_title: 29
 usc_section: "213"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 213"
-generated_at: "2026-03-30T02:55:18.681Z"
+generated_at: "2026-11-23T20:26:37.803Z"
+status: "active"
 ---
 
 # § 213. Exemptions
@@ -162,3 +163,11 @@ generated_at: "2026-03-30T02:55:18.681Z"
   - **(2)** receives for any such employment during such workweeks—
     - **(A)** in excess of ten hours in any workday, and
     - **(B)** in excess of forty-eight hours in any workweek,
+
+In general
+
+Exception
+
+## Source Credit
+
+*(June 25, 1938, ch. 676, § 13, [52 Stat. 1067](https://www.govinfo.gov/link/statute/52/1067); Aug. 9, 1939, ch. 605, [53 Stat. 1266](https://www.govinfo.gov/link/statute/53/1266); Oct. 26, 1949, ch. 736, § 11, [63 Stat. 917](https://www.govinfo.gov/link/statute/63/917); Aug. 8, 1956, ch. 1035, § 3, [70 Stat. 1118](https://www.govinfo.gov/link/statute/70/1118); [Pub. L. 85–231, § 1(1)](https://www.govinfo.gov/link/plaw/85/public/231), Aug. 30, 1957, [71 Stat. 514](https://www.govinfo.gov/link/statute/71/514); [Pub. L. 86–624, § 21(b)](https://www.govinfo.gov/link/plaw/86/public/624), July 12, 1960, [74 Stat. 417](https://www.govinfo.gov/link/statute/74/417); [Pub. L. 87–30](https://www.govinfo.gov/link/plaw/87/public/30), §§ 9, 10, May 5, 1961, [75 Stat. 71](https://www.govinfo.gov/link/statute/75/71), 74; [Pub. L. 89–601, title II](https://www.govinfo.gov/link/plaw/89/public/601), §§ 201–204(a), (b), 205–212(a), 213, 214, 215(b), (c), Sept. 23, 1966, [80 Stat. 833–838](https://www.govinfo.gov/link/statute/80/833); [Pub. L. 89–670, § 8(e)](https://www.govinfo.gov/link/plaw/89/public/670), Oct. 15, 1966, [80 Stat. 943](https://www.govinfo.gov/link/statute/80/943); 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, [84 Stat. 2085](https://www.govinfo.gov/link/statute/84/2085); [Pub. L. 92–318, title IX, § 906(b)(1)](https://www.govinfo.gov/link/plaw/92/public/318), June 23, 1972, [86 Stat. 375](https://www.govinfo.gov/link/statute/86/375); [Pub. L. 93–259](https://www.govinfo.gov/link/plaw/93/public/259), §§ 6(c)(2), 7(b)(3), (4), 8, 9(b), 10, 11, 12(a), 13(a)–(d), 14–18, 20(a)–(c), 21(b), 22, 23, 25(b), Apr. 8, 1974, [88 Stat. 61–69](https://www.govinfo.gov/link/statute/88/61), 72; [Pub. L. 95–151](https://www.govinfo.gov/link/plaw/95/public/151), §§ 4–8, 9(d), 11, 14, Nov. 1, 1977, [91 Stat. 1249](https://www.govinfo.gov/link/statute/91/1249), 1250–1252; [Pub. L. 96–70, title I, § 1225(a)](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 468](https://www.govinfo.gov/link/statute/93/468); [Pub. L. 101–157, § 3(c)](https://www.govinfo.gov/link/plaw/101/public/157), Nov. 17, 1989, [103 Stat. 939](https://www.govinfo.gov/link/statute/103/939); [Pub. L. 103–329, title VI, § 633(d)](https://www.govinfo.gov/link/plaw/103/public/329), Sept. 30, 1994, [108 Stat. 2428](https://www.govinfo.gov/link/statute/108/2428); [Pub. L. 104–88, title III, § 340](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 955](https://www.govinfo.gov/link/statute/109/955); [Pub. L. 104–174, § 1](https://www.govinfo.gov/link/plaw/104/public/174), Aug. 6, 1996, [110 Stat. 1553](https://www.govinfo.gov/link/statute/110/1553); [Pub. L. 104–188](https://www.govinfo.gov/link/plaw/104/public/188), [title II], § 2105(a), Aug. 20, 1996, [110 Stat. 1929](https://www.govinfo.gov/link/statute/110/1929); [Pub. L. 105–78, title I, § 105](https://www.govinfo.gov/link/plaw/105/public/78), Nov. 13, 1997, [111 Stat. 1477](https://www.govinfo.gov/link/statute/111/1477); [Pub. L. 105–334, § 2(a)](https://www.govinfo.gov/link/plaw/105/public/334), Oct. 31, 1998, [112 Stat. 3137](https://www.govinfo.gov/link/statute/112/3137); [Pub. L. 108–199, div. E, title I, § 108](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 236](https://www.govinfo.gov/link/statute/118/236); [Pub. L. 113–277, § 2(g)(2)](https://www.govinfo.gov/link/plaw/113/public/277), Dec. 18, 2014, [128 Stat. 3005](https://www.govinfo.gov/link/statute/128/3005); [Pub. L. 115–141, div. S, title II, § 201(a)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1126](https://www.govinfo.gov/link/statute/132/1126).)*

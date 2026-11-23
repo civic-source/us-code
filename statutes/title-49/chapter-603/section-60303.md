@@ -3,9 +3,10 @@ title: "Section 60303 - Fees for compliance reviews of liquefied natural gas fac
 usc_title: 49
 usc_section: "60303"
 chapter: 603
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 60303"
-generated_at: "2026-03-30T02:56:19.417Z"
+generated_at: "2026-11-23T20:27:35.434Z"
+status: "active"
 ---
 
 # § 60303. Fees for compliance reviews of liquefied natural gas facilities
@@ -19,3 +20,21 @@ generated_at: "2026-03-30T02:56:19.417Z"
     - **(A)** use a department, agency, or instrumentality of the Federal Government or of a State or local government to collect fees under this section; and
     - **(B)** reimburse that department, agency, or instrumentality a reasonable amount for the services provided.
 - **(c)** There is established an account, to be known as the “Liquefied Natural Gas Siting Account”, in the Pipeline Safety Fund established in the Treasury of the United States under section 60301.
+
+Imposition of Fee.—
+
+In general
+
+Relation to other review
+
+Means of Collection.—
+
+In general
+
+Use of government entities
+
+Account
+
+## Source Credit
+
+*(Added [Pub. L. 116–260, div. R, title I, § 103(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2215](https://www.govinfo.gov/link/statute/134/2215).)*

@@ -3,9 +3,10 @@ title: "Section 1 - Social Security Equivalent Benefit Account"
 usc_title: 45
 usc_section: "1"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 1"
-generated_at: "2026-03-30T02:55:56.548Z"
+generated_at: "2026-11-23T20:27:05.269Z"
+status: "active"
 ---
 
 # § 231n–1. Social Security Equivalent Benefit Account
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:56.548Z"
 - **(f)**
   - **(1)** For purposes of making payments of social security equivalent benefits, references in the 1 1 So in original. Probably should be “this”. subchapter to the Railroad Retirement Account shall be treated as references to the Social Security Equivalent Benefit Account.
   - **(2)** For purposes of this section, the term “social security equivalent benefits” means benefits payable under this subchapter which are of a kind taken into account in determining the amount of transfers made under section 231f(c)(2) of this title .
+
+## Source Credit
+
+*(Aug. 29, 1935, ch. 812, § 15A, as added [Pub. L. 98–76, title V, § 501(a)](https://www.govinfo.gov/link/plaw/98/public/76), Aug. 12, 1983, [97 Stat. 438](https://www.govinfo.gov/link/statute/97/438); amended [Pub. L. 107–90, title I, § 107(c)](https://www.govinfo.gov/link/plaw/107/public/90), Dec. 21, 2001, [115 Stat. 888](https://www.govinfo.gov/link/statute/115/888); [Pub. L. 108–203, title IV, § 426(e)](https://www.govinfo.gov/link/plaw/108/public/203), Mar. 2, 2004, [118 Stat. 538](https://www.govinfo.gov/link/statute/118/538).)*

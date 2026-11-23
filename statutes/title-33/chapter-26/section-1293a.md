@@ -3,9 +3,10 @@ title: "Section 1293a - Contained spoil disposal facilities"
 usc_title: 33
 usc_section: "1293a"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1293a"
-generated_at: "2026-03-30T02:55:41.089Z"
+generated_at: "2026-11-23T20:26:54.000Z"
+status: "active"
 ---
 
 # § 1293a. Contained spoil disposal facilities
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:41.089Z"
   - **(2)** Not later than 1 year after November 17, 1988 , the Secretary shall transmit to Congress a report on the results of the study conducted under paragraph (1).
   - **(3)** The Secretary shall conduct a program to inspect and monitor contained spoil disposal facilities constructed under this section for the purpose of determining whether or not toxic pollutants are leaking from such facilities.
   - **(4)** For purposes of this subsection, the term “toxic pollutant” means those toxic pollutants referred to in section 1311(b)(2)(C) and 1311(b)(2)(D) of this title and such other pollutants as the Secretary, in consultation with the Administrator of the Environmental Protection Agency, determines are appropriate based on their effects on human health and the environment.
+
+## Source Credit
+
+*([Pub. L. 91–611, title I, § 123](https://www.govinfo.gov/link/plaw/91/public/611), Dec. 31, 1970, [84 Stat. 1823](https://www.govinfo.gov/link/statute/84/1823); [Pub. L. 93–251, title I, § 23](https://www.govinfo.gov/link/plaw/93/public/251), Mar. 7, 1974, [88 Stat. 20](https://www.govinfo.gov/link/statute/88/20); [Pub. L. 100–676, § 24](https://www.govinfo.gov/link/plaw/100/public/676), Nov. 17, 1988, [102 Stat. 4027](https://www.govinfo.gov/link/statute/102/4027).)*

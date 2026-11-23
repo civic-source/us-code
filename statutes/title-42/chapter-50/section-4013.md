@@ -3,9 +3,10 @@ title: "Section 4013 - Nature and limitation of insurance coverage"
 usc_title: 42
 usc_section: "4013"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4013"
-generated_at: "2026-03-30T02:56:11.195Z"
+generated_at: "2026-11-23T20:27:22.335Z"
+status: "active"
 ---
 
 # § 4013. Nature and limitation of insurance coverage
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:56:11.195Z"
     - **(B)** The information described in this subparagraph is—
       - **(i)** information sufficient to inform the applicant of the availability of the coverage option required by paragraph (1) to applicants for flood insurance coverage; and
       - **(ii)** a statement explaining the effect of a loss-deductible and that, in the event of an insured loss, the insured is responsible out-of-pocket for losses to the extent of the deductible selected.
+
+## Source Credit
+
+*([Pub. L. 90–448, title XIII, § 1306](https://www.govinfo.gov/link/plaw/90/public/448), Aug. 1, 1968, [82 Stat. 575](https://www.govinfo.gov/link/statute/82/575); [Pub. L. 92–213, § 2(c)(2)](https://www.govinfo.gov/link/plaw/92/public/213), Dec. 22, 1971, [85 Stat. 775](https://www.govinfo.gov/link/statute/85/775); [Pub. L. 93–234, title I, § 101](https://www.govinfo.gov/link/plaw/93/public/234), Dec. 31, 1973, [87 Stat. 977](https://www.govinfo.gov/link/statute/87/977); [Pub. L. 95–128, title VII, § 704(a)](https://www.govinfo.gov/link/plaw/95/public/128), Oct. 12, 1977, [91 Stat. 1145](https://www.govinfo.gov/link/statute/91/1145); [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title IV, § 451(d)(1)], Nov. 30, 1983, [97 Stat. 1229](https://www.govinfo.gov/link/statute/97/1229); [Pub. L. 100–242, title V, § 544(a)](https://www.govinfo.gov/link/plaw/100/public/242), Feb. 5, 1988, [101 Stat. 1940](https://www.govinfo.gov/link/statute/101/1940); [Pub. L. 100–628, title X, § 1086(a)](https://www.govinfo.gov/link/plaw/100/public/628), Nov. 7, 1988, [102 Stat. 3278](https://www.govinfo.gov/link/statute/102/3278); [Pub. L. 100–707, title I, § 109](https://www.govinfo.gov/link/plaw/100/public/707) (o), Nov. 23, 1988, [102 Stat. 4709](https://www.govinfo.gov/link/statute/102/4709); [Pub. L. 101–137, § 1(c)](https://www.govinfo.gov/link/plaw/101/public/137), Nov. 3, 1989, [103 Stat. 824](https://www.govinfo.gov/link/statute/103/824); [Pub. L. 101–508, title II, § 2302(d)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–23](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–325, title V](https://www.govinfo.gov/link/plaw/103/public/325), §§ 552(a), 573, 579(a), Sept. 23, 1994, [108 Stat. 2269](https://www.govinfo.gov/link/statute/108/2269), 2278, 2284; [Pub. L. 112–141, div. F, title II](https://www.govinfo.gov/link/plaw/112/public/141), §§ 100228, 100238(b)(1), 100241, July 6, 2012, [126 Stat. 944](https://www.govinfo.gov/link/statute/126/944), 958, 962; [Pub. L. 113–89, § 12](https://www.govinfo.gov/link/plaw/113/public/89), Mar. 21, 2014, [128 Stat. 1025](https://www.govinfo.gov/link/statute/128/1025).)*

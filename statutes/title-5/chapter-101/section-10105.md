@@ -3,9 +3,10 @@ title: "Section 10105 - Retention bonuses"
 usc_title: 5
 usc_section: "10105"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 10105"
-generated_at: "2026-03-30T02:52:56.076Z"
+generated_at: "2026-11-23T20:25:32.267Z"
+status: "active"
 ---
 
 # § 10105. Retention bonuses
@@ -34,3 +35,27 @@ generated_at: "2026-03-30T02:52:56.076Z"
   - **(2)** Each report submitted under this subsection shall include, with respect to the period covered by such report, a description of how the authority to pay bonuses under this section was used by the Agency, including, with respect to each such agency—
     - **(A)** the number and dollar amount of bonuses paid to individuals holding positions within each pay grade, pay level, or other pay classification; and
     - **(B)** a determination of the extent to which such bonuses furthered the purposes of this section.
+
+Authority
+
+Service Agreement
+
+Bonus Amount.—
+
+In general
+
+Form of payment
+
+Limitation
+
+Termination of Authority
+
+Reports.—
+
+In general
+
+Contents
+
+## Source Credit
+
+*(Added [Pub. L. 109–295, title VI, § 621(a)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1414](https://www.govinfo.gov/link/statute/120/1414).)*

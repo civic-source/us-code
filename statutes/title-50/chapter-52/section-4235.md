@@ -3,9 +3,10 @@ title: "Section 4235 - Compensation for community losses"
 usc_title: 50
 usc_section: "4235"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4235"
-generated_at: "2026-03-30T02:56:26.270Z"
+generated_at: "2026-11-23T20:27:31.081Z"
+status: "active"
 ---
 
 # § 4235. Compensation for community losses
@@ -34,3 +35,11 @@ generated_at: "2026-03-30T02:56:26.270Z"
 - **(c)**
   - **(1)** The Secretary shall reimburse the Administrator, not less often than annually, for reasonable and necessary administrative and legal expenses in carrying out the Administrator’s responsibilities under this subchapter.
   - **(2)** There are authorized to be appropriated to the Fund such sums as are necessary to carry out this subsection.
+
+Fund
+
+Use of Funds
+
+## Source Credit
+
+*([Pub. L. 100–383, title II, § 205](https://www.govinfo.gov/link/plaw/100/public/383), Aug. 10, 1988, [102 Stat. 912](https://www.govinfo.gov/link/statute/102/912); [Pub. L. 103–402, § 1(a)](https://www.govinfo.gov/link/plaw/103/public/402), Oct. 22, 1994, [108 Stat. 4174](https://www.govinfo.gov/link/statute/108/4174).)*

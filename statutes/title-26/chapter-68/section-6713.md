@@ -3,9 +3,10 @@ title: "Section 6713 - Disclosure or use of information by preparers of returns"
 usc_title: 26
 usc_section: "6713"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6713"
-generated_at: "2026-03-30T02:55:27.865Z"
+generated_at: "2026-11-23T20:26:46.727Z"
+status: "active"
 ---
 
 # § 6713. Disclosure or use of information by preparers of returns
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:27.865Z"
   - **(2)** The limitation on the total amount of the penalty under subsection (a) shall be applied separately with respect to disclosures or uses to which this subsection applies and to which it does not apply.
 - **(c)** The rules of section 7216(b) shall apply for purposes of this section.
 - **(d)** Subchapter B of chapter 63 (relating to deficiency procedures for income, estate, gift, and certain excise taxes) shall not apply in respect of the assessment or collection of any penalty imposed by this section.
+
+## Source Credit
+
+*(Added [Pub. L. 100–647, title VI, § 6242(a)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3749](https://www.govinfo.gov/link/statute/102/3749), § 6712; renumbered § 6713, [Pub. L. 101–239, title VII, § 7816(v)(1)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2423](https://www.govinfo.gov/link/statute/103/2423); amended [Pub. L. 116–25, title II, § 2009(a)](https://www.govinfo.gov/link/plaw/116/public/25), July 1, 2019, [133 Stat. 1007](https://www.govinfo.gov/link/statute/133/1007).)*

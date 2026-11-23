@@ -3,9 +3,10 @@ title: "Section 1074m - Mental health assessments for members of the armed force
 usc_title: 10
 usc_section: "1074m"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1074m"
-generated_at: "2026-03-30T02:53:38.101Z"
+generated_at: "2026-11-23T20:25:51.217Z"
+status: "active"
 ---
 
 # § 1074m. Mental health assessments for members of the armed forces deployed in support of a contingency operation
@@ -44,3 +45,19 @@ generated_at: "2026-03-30T02:53:38.101Z"
 - **(f)**
   - **(1)** The Secretary of Defense, in consultation with the other administering Secretaries, shall prescribe regulations for the administration of this section.
   - **(2)** Not later than 270 days after the date of the issuance of the regulations prescribed under paragraph (1), the Secretary shall notify the congressional defense committees of the implementation of the regulations by the military departments.
+
+Mental Health Assessments
+
+Purpose
+
+Elements
+
+Cessation of Assessments
+
+Sharing of Information
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 112–81, div. A, title VII, § 702(a)(1)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1469](https://www.govinfo.gov/link/statute/125/1469); amended [Pub. L. 112–239, div. A, title VII, § 703](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1800](https://www.govinfo.gov/link/statute/126/1800); [Pub. L. 113–291, div. A, title VII, § 701(a)(5)](https://www.govinfo.gov/link/plaw/113/public/291), (b), title X, § 1071(f)(13), Dec. 19, 2014, [128 Stat. 3409](https://www.govinfo.gov/link/statute/128/3409), 3510; [Pub. L. 115–232, div. A, title VII, § 701](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1804](https://www.govinfo.gov/link/statute/132/1804); [Pub. L. 116–92, div. A, title VII, § 706(a)](https://www.govinfo.gov/link/plaw/116/public/92) –(c), Dec. 20, 2019, [133 Stat. 1440](https://www.govinfo.gov/link/statute/133/1440), 1441.)*

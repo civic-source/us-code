@@ -3,9 +3,10 @@ title: "Section 3355a - Public Interest Declassification Board"
 usc_title: 50
 usc_section: "3355a"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3355a"
-generated_at: "2026-03-30T02:56:26.247Z"
+generated_at: "2026-11-23T20:27:30.979Z"
+status: "active"
 ---
 
 # § 3355a. Public Interest Declassification Board
@@ -72,3 +73,7 @@ generated_at: "2026-03-30T02:56:26.247Z"
   - **(1)** The Board shall make available for public inspection records of its proceedings and reports prepared in the course of its activities under this subchapter to the extent such records and reports are not classified and would not be exempt from release under the provisions of section 552 of title 5 .
   - **(2)** In making records and reports available under paragraph (1), the Board shall coordinate the release of such records and reports with appropriate officials from agencies with expertise in classified information in order to ensure that such records and reports do not inadvertently contain classified information.
 - **(l)** The provisions of chapter 10 of title 5 shall not apply to the activities of the Board under this subchapter. However, the records of the Board shall be governed by the provisions of the Federal Records Act of 1950.
+
+## Source Credit
+
+*([Pub. L. 106–567, title VII, § 703](https://www.govinfo.gov/link/plaw/106/public/567), Dec. 27, 2000, [114 Stat. 2856](https://www.govinfo.gov/link/statute/114/2856); [Pub. L. 108–458, title I, § 1102(a)](https://www.govinfo.gov/link/plaw/108/public/458), (b), Dec. 17, 2004, [118 Stat. 3699](https://www.govinfo.gov/link/statute/118/3699); [Pub. L. 111–259, title III, § 365](https://www.govinfo.gov/link/plaw/111/public/259), Oct. 7, 2010, [124 Stat. 2702](https://www.govinfo.gov/link/statute/124/2702); [Pub. L. 112–235, § 2(a)](https://www.govinfo.gov/link/plaw/112/public/235), (b), Dec. 28, 2012, [126 Stat. 1626](https://www.govinfo.gov/link/statute/126/1626); [Pub. L. 116–92, div. E, title LXVII, § 6741(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2239](https://www.govinfo.gov/link/statute/133/2239); [Pub. L. 117–263, div. F, title LXVIII, § 6824(d)(1)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3615](https://www.govinfo.gov/link/statute/136/3615); [Pub. L. 117–286, § 4(a)(318)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4341](https://www.govinfo.gov/link/statute/136/4341); [Pub. L. 118–31, div. G, title VI, § 7604](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1097](https://www.govinfo.gov/link/statute/137/1097).)*

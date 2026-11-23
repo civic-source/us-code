@@ -3,9 +3,10 @@ title: "Section 1087 - Repayment by Secretary of loans of bankrupt, deceased, or
 usc_title: 20
 usc_section: "1087"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1087"
-generated_at: "2026-03-30T02:54:48.120Z"
+generated_at: "2026-11-23T20:26:14.439Z"
+status: "active"
 ---
 
 # § 1087. Repayment by Secretary of loans of bankrupt, deceased, or disabled borrowers; treatment of borrowers attending schools that fail to provide a refund, attending closed schools, or falsely certified as eligible to borrow
@@ -36,3 +37,17 @@ generated_at: "2026-03-30T02:54:48.120Z"
   - **(4)** A borrower whose loan has been discharged pursuant to this subsection shall not be precluded from receiving additional grants, loans, or work assistance under this subchapter for which the borrower would be otherwise eligible (but for the default on such discharged loan). The amount discharged under this subsection shall be treated the same as loans under section 1087ee(a)(5) of this title .
   - **(5)** The Secretary shall report to consumer reporting agencies with respect to loans which have been discharged pursuant to this subsection.
 - **(d)** If a student on whose behalf a parent has received a loan described in section 1078–2 of this title dies, then the Secretary shall discharge the borrower’s liability on the loan by repaying the amount owed on the loan.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 437](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1414](https://www.govinfo.gov/link/statute/100/1414); amended [Pub. L. 102–325, title IV, § 428](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 551](https://www.govinfo.gov/link/statute/106/551); [Pub. L. 103–208, § 2(c)(63)](https://www.govinfo.gov/link/plaw/103/public/208) –(65), Dec. 20, 1993, [107 Stat. 2469](https://www.govinfo.gov/link/statute/107/2469); [Pub. L. 105–244, title IV, § 431](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1709](https://www.govinfo.gov/link/statute/112/1709); [Pub. L. 109–171, title VIII, § 8012](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 166](https://www.govinfo.gov/link/statute/120/166); [Pub. L. 110–315, title I, § 103(b)(7)](https://www.govinfo.gov/link/plaw/110/public/315), title IV, §§ 432(b)(4), 437(a), (b), Aug. 14, 2008, [122 Stat. 3089](https://www.govinfo.gov/link/statute/122/3089), 3246, 3257, 3258; [Pub. L. 111–39, title IV, § 402(e)(1)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1942](https://www.govinfo.gov/link/statute/123/1942); [Pub. L. 116–91, § 5](https://www.govinfo.gov/link/plaw/116/public/91), Dec. 19, 2019, [133 Stat. 1193](https://www.govinfo.gov/link/statute/133/1193).)*

@@ -3,9 +3,10 @@ title: "Section 2006a - Assistance for education and training: availability of c
 usc_title: 10
 usc_section: "2006a"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2006a"
-generated_at: "2026-03-30T02:53:38.139Z"
+generated_at: "2026-11-23T20:25:51.436Z"
+status: "active"
 ---
 
 # § 2006a. Assistance for education and training: availability of certain assistance for use only for certain programs of education
@@ -27,3 +28,13 @@ generated_at: "2026-03-30T02:53:38.139Z"
     - **(D)** The program of educational assistance for reserve component members supporting contingency operations and certain other operations under chapter 1607 of this title.
     - **(E)** Any other program or authority of the Department of Defense for assistance in education or training carried out under the laws administered by the Secretary of Defense that is designated by the Secretary, by regulation, for purposes of this section.
   - **(2)** The term “institution of higher education” has the meaning given that term in section 102 of the Higher Education Act for 1965 ( 20 U.S.C. 1002 ).
+
+In General
+
+Waiver
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 113–66, div. A, title V, § 541(a)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 760](https://www.govinfo.gov/link/statute/127/760); amended [Pub. L. 114–92, div. A, title X, § 1081(a)(6)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 1001](https://www.govinfo.gov/link/statute/129/1001); [Pub. L. 115–232, div. A, title X, § 1081(a)(15)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1984](https://www.govinfo.gov/link/statute/132/1984).)*

@@ -3,9 +3,10 @@ title: "Section 1799 - Child care services and youth program services for depend
 usc_title: 10
 usc_section: "1799"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1799"
-generated_at: "2026-03-30T02:53:38.138Z"
+generated_at: "2026-11-23T20:25:51.431Z"
+status: "active"
 ---
 
 # § 1799. Child care services and youth program services for dependents: participation by children and youth otherwise ineligible
@@ -16,3 +17,13 @@ generated_at: "2026-03-30T02:53:38.138Z"
   - **(1)** To support the integration of children and youth of military families into civilian communities.
   - **(2)** To make more efficient use of Department of Defense facilities and resources.
   - **(3)** To establish or support a partnership or consortium arrangement with schools and other youth services organizations serving children of members of the armed forces.
+
+Authority
+
+Limitation
+
+Objectives
+
+## Source Credit
+
+*(Added [Pub. L. 106–65, div. A, title V, § 584(a)(1)(B)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 634](https://www.govinfo.gov/link/statute/113/634); amended [Pub. L. 107–314, div. A, title X, § 1041(a)(7)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2645](https://www.govinfo.gov/link/statute/116/2645).)*

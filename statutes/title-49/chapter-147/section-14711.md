@@ -3,9 +3,10 @@ title: "Section 14711 - Enforcement by State attorneys general"
 usc_title: 49
 usc_section: "14711"
 chapter: 147
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 14711"
-generated_at: "2026-03-30T02:56:19.332Z"
+generated_at: "2026-11-23T20:27:34.763Z"
+status: "active"
 ---
 
 # § 14711. Enforcement by State attorneys general
@@ -36,3 +37,27 @@ generated_at: "2026-03-30T02:56:19.332Z"
   - **(2)** process may be served without regard to the territorial limits of the district or of the State in which the civil action is instituted; and
   - **(3)** a person who participated with a carrier or broker in an alleged violation that is being litigated in the civil action may be joined in the civil action without regard to the residence of the person.
 - **(f)** Nothing contained in this section shall prohibit an authorized State official from proceeding in State court to enforce a criminal statute of such State.
+
+In General
+
+Notice and Consent.—
+
+In general
+
+Conditions
+
+Congressional notification
+
+-day deadline
+
+Authority to Intervene
+
+Construction
+
+Venue; Service of Process
+
+Enforcement of State Law
+
+## Source Credit
+
+*(Added [Pub. L. 109–59, title IV, § 4206(b)(1)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1755](https://www.govinfo.gov/link/statute/119/1755); amended [Pub. L. 109–115, div. A, title I, § 173(c)](https://www.govinfo.gov/link/plaw/109/public/115), (d), Nov. 30, 2005, [119 Stat. 2426](https://www.govinfo.gov/link/statute/119/2426).)*

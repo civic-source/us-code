@@ -3,9 +3,10 @@ title: "Section 3356 - Improving the use of data by executive agencies for curbi
 usc_title: 31
 usc_section: "3356"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 3356"
-generated_at: "2026-03-30T02:55:34.056Z"
+generated_at: "2026-11-23T20:26:51.774Z"
+status: "active"
 ---
 
 # § 3356. Improving the use of data by executive agencies for curbing improper payments
@@ -19,3 +20,13 @@ generated_at: "2026-03-30T02:55:34.056Z"
 - **(c)** The guidance required to be issued under section 7(b) of the Improper Payments Elimination and Recovery Improvement Act of 2012, as in effect on the day before the date of enactment of this section—
   - **(1)** shall continue to be in effect on and after the date of enactment of this section; and
   - **(2)** may be modified as determined appropriate by the Director of the Office of Management and Budget.
+
+Prompt Reporting of Death Information by the Department of State and the Department of Defense
+
+Prompt Reporting of Death Information by the Department of Veterans Affairs and the Office of Personnel Management
+
+Guidance to Executive Agencies Regarding Data Access and Use for Improper Payments Purposes
+
+## Source Credit
+
+*(Added [Pub. L. 116–117, § 2(a)](https://www.govinfo.gov/link/plaw/116/public/117), Mar. 2, 2020, [134 Stat. 130](https://www.govinfo.gov/link/statute/134/130).)*

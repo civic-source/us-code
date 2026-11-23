@@ -3,9 +3,10 @@ title: "Section 2197 - General provisions relating to insurance, guaranty, finan
 usc_title: 22
 usc_section: "2197"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2197"
-generated_at: "2026-03-30T02:55:05.350Z"
+generated_at: "2026-11-23T20:26:32.193Z"
+status: "active"
 ---
 
 # § 2197. General provisions relating to insurance, guaranty, financing, and reinsurance programs
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:05.350Z"
     - **(A)** which the Corporation identifies as potentially posing major hazards to public health and safety or the environment; and
     - **(B)** for which the Corporation provided insurance, reinsurance, guarantees, or financing under this subpart before December 23, 1985 , and which is in the Corporation’s portfolio on that date.
 - **(n)** Whoever knowingly makes any false statement or report, or willfully overvalues any land, property, or security, for the purpose of influencing in any way the action of the Corporation with respect to any insurance, reinsurance, guarantee, loan, equity investment, or other activity of the Corporation under section 2194 1 of this title or any change or extension of any such insurance, reinsurance, guarantee, loan, equity investment, or activity, by renewal, deferment of action or otherwise, or the acceptance, release, or substitution of security therefor, shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or both.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 237, as added [Pub. L. 91–175](https://www.govinfo.gov/link/plaw/91/public/175), pt. I, § 105, Dec. 30, 1969, [83 Stat. 814](https://www.govinfo.gov/link/statute/83/814); amended [Pub. L. 93–390, § 2(4)](https://www.govinfo.gov/link/plaw/93/public/390), Aug. 27, 1974, [88 Stat. 767](https://www.govinfo.gov/link/statute/88/767); [Pub. L. 95–268](https://www.govinfo.gov/link/plaw/95/public/268), §§ 5, 6, Apr. 24, 1978, [92 Stat. 215](https://www.govinfo.gov/link/statute/92/215); [Pub. L. 97–65, § 6](https://www.govinfo.gov/link/plaw/97/public/65), Oct. 16, 1981, [95 Stat. 1023](https://www.govinfo.gov/link/statute/95/1023); [Pub. L. 99–204](https://www.govinfo.gov/link/plaw/99/public/204), §§ 4(b), 6(b), 9(b)(2), Dec. 23, 1985, [99 Stat. 1670](https://www.govinfo.gov/link/statute/99/1670), 1671, 1673; [Pub. L. 100–461, title V, § 555](https://www.govinfo.gov/link/plaw/100/public/461), Oct. 1, 1988, [102 Stat. 2268–36](https://www.govinfo.gov/link/statute/102/2268); [Pub. L. 102–549, title I, § 105](https://www.govinfo.gov/link/plaw/102/public/549), Oct. 28, 1992, [106 Stat. 3652](https://www.govinfo.gov/link/statute/106/3652); [Pub. L. 115–254, div. F, title VI, § 1464(2)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3513](https://www.govinfo.gov/link/statute/132/3513).)*

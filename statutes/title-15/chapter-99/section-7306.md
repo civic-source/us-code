@@ -3,9 +3,10 @@ title: "Section 7306 - Disclosure of information"
 usc_title: 15
 usc_section: "7306"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 7306"
-generated_at: "2026-03-30T02:54:08.221Z"
+generated_at: "2026-11-23T20:26:04.448Z"
+status: "active"
 ---
 
 # § 7306. Disclosure of information
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.221Z"
   - **(2)** information described in subsection (a) by the National Institute of Standards and Technology or by a Team until the report required by section 7307 of this title is issued.
 - **(c)** Notwithstanding any other provision of law, a Team, the National Institute of Standards and Technology, and any agency receiving information from a Team or the National Institute of Standards and Technology, shall not disclose voluntarily provided safety-related information if that information is not directly related to the building failure being investigated and the Director finds that the disclosure of the information would inhibit the voluntary provision of that type of information.
 - **(d)** A Team and the National Institute of Standards and Technology shall not publicly release any information it receives in the course of an investigation under this chapter if the Director finds that the disclosure of that information might jeopardize public safety.
+
+## Source Credit
+
+*([Pub. L. 107–231, § 7](https://www.govinfo.gov/link/plaw/107/public/231), Oct. 1, 2002, [116 Stat. 1475](https://www.govinfo.gov/link/statute/116/1475).)*

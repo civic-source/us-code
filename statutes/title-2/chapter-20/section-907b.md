@@ -3,9 +3,10 @@ title: "Section 907b - Modification of Presidential order"
 usc_title: 2
 usc_section: "907b"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 907b"
-generated_at: "2026-03-30T02:53:04.806Z"
+generated_at: "2026-11-23T20:25:28.939Z"
+status: "active"
 ---
 
 # § 907b. Modification of Presidential order
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:53:04.806Z"
         - **(II)** if the joint resolution from the House is not identical to the joint resolution then pending for passage in the Senate and the Senate then passes the Senate joint resolution, the Senate shall be considered to have passed the House joint resolution as amended by the text of the Senate joint resolution.
     - **(C)** Upon disposition of the joint resolution received from the House, it shall no longer be in order to consider the resolution originated in the Senate.
   - **(8)** If the Senate receives from the House of Representatives a joint resolution introduced under subsection (a) after the Senate has disposed of a Senate originated resolution which is identical to the House passed joint resolution, the action of the Senate with regard to the disposition of the Senate originated joint resolution shall be deemed to be the action of the Senate with regard to the House originated joint resolution. If it is not identical to the House passed joint resolution, then the Senate shall be considered to have passed the joint resolution of the House as amended by the text of the Senate joint resolution.
+
+## Source Credit
+
+*([Pub. L. 99–177, title II, § 258A](https://www.govinfo.gov/link/plaw/99/public/177), as added [Pub. L. 101–508, title XIII, § 13101(f)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–595](https://www.govinfo.gov/link/statute/104/1388).)*

@@ -3,9 +3,10 @@ title: "Section 20 - Prohibition on Great Lakes diversions"
 usc_title: 42
 usc_section: "20"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 20"
-generated_at: "2026-03-30T02:56:11.135Z"
+generated_at: "2026-11-23T20:27:21.989Z"
+status: "active"
 ---
 
 # § 1962d–20. Prohibition on Great Lakes diversions
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.135Z"
 - **(d)** No water shall be diverted or exported from any portion of the Great Lakes within the United States, or from any tributary within the United States of any of the Great Lakes, for use outside the Great Lakes basin unless such diversion or export is approved by the Governor of each of the Great Lake 1 1 So in original. Probably should be “Lakes”. States.
 - **(e)** No Federal agency may undertake any study, or expend any Federal funds to contract for any study, of the feasibility of diverting water from any portion of the Great Lakes within the United States, or from any tributary within the United States of any of the Great Lakes, for use outside the Great Lakes basin, unless such study or expenditure is approved by the Governor of each of the Great Lakes States. The prohibition of the preceding sentence shall not apply to any study or data collection effort performed by the Corps of Engineers or other Federal agency under the direction of the International Joint Commission in accordance with the Boundary Waters Treaty of 1909.
 - **(f)** This section shall not apply to any diversion of water from any of the Great Lakes which is authorized on November 17, 1986 .
+
+## Source Credit
+
+*([Pub. L. 99–662, title XI, § 1109](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4230](https://www.govinfo.gov/link/statute/100/4230); [Pub. L. 106–541, title V, § 504(a)](https://www.govinfo.gov/link/plaw/106/public/541), (b), Dec. 11, 2000, [114 Stat. 2644](https://www.govinfo.gov/link/statute/114/2644).)*

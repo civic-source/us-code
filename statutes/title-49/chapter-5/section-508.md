@@ -3,9 +3,10 @@ title: "Section 508 - Safety performance history of new drivers; limitation on l
 usc_title: 49
 usc_section: "508"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 508"
-generated_at: "2026-03-30T02:56:19.302Z"
+generated_at: "2026-11-23T20:27:34.552Z"
+status: "active"
 ---
 
 # § 508. Safety performance history of new drivers; limitation on liability
@@ -24,3 +25,19 @@ generated_at: "2026-03-30T02:56:19.302Z"
     - **(B)** the complying person and any agents and insurers of the complying person have taken all precautions reasonably necessary to protect the records from disclosure to any person, except for such an insurer, not directly involved in forwarding the records.
   - **(3)** Subsection (a) does not apply to persons who knowingly furnish false information.
 - **(c)** No State or political subdivision thereof may enact, prescribe, issue, continue in effect, or enforce any law (including any regulation, standard, or other provision having the force and effect of law) that prohibits, penalizes, or imposes liability for furnishing or using safety performance records in accordance with regulations issued by the Secretary to carry out this section. Notwithstanding any provision of law, written authorization shall not be required to obtain information on the motor vehicle driving record of an individual under consideration for employment with a motor carrier.
+
+Limitation on Liability
+
+Restrictions on Applicability.—
+
+Motor carrier requesting
+
+Person complying with requests
+
+Persons knowingly furnishing false information
+
+Preemption of State and Local Law
+
+## Source Credit
+
+*(Added [Pub. L. 105–178, title IV, § 4014(a)(1)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 409](https://www.govinfo.gov/link/statute/112/409).)*

@@ -3,9 +3,10 @@ title: "Section 80n - Commission for the Museum of African Art"
 usc_title: 20
 usc_section: "80n"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 80n"
-generated_at: "2026-03-30T02:54:48.076Z"
+generated_at: "2026-11-23T20:26:14.228Z"
+status: "active"
 ---
 
 # § 80n. Commission for the Museum of African Art
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:48.076Z"
 - **(d)** A majority of the appointed members of the Commission shall constitute a quorum and any vacancy in the Commission shall not affect its power to function.
 - **(e)** Members of the Commission shall be reimbursed for travel, subsistence, and other necessary expenses incurred by them in the performance of their duties.
 - **(f)** The Commission shall select officers, from among its members biennially and shall make bylaws to carry out its functions under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 95–414, § 4](https://www.govinfo.gov/link/plaw/95/public/414), Oct. 5, 1978, [92 Stat. 911](https://www.govinfo.gov/link/statute/92/911).)*

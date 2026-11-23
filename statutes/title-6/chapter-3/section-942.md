@@ -3,9 +3,10 @@ title: "Section 942 - Post-incident resumption of trade"
 usc_title: 6
 usc_section: "942"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 942"
-generated_at: "2026-03-30T02:53:09.501Z"
+generated_at: "2026-11-23T20:25:34.888Z"
+status: "active"
 ---
 
 # § 942. Post-incident resumption of trade
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:09.501Z"
     - **(C)** a system to positively identify the container at the last port of departure prior to arrival in the United States, which data has been evaluated and analyzed by personnel of the United States Customs and Border Protection.
 - **(d)** The Secretary shall ensure that there is appropriate coordination among the Commandant of the Coast Guard, the Commissioner, and other Federal officials following a maritime disruption or maritime transportation security incident in order to provide for the resumption of trade.
 - **(e)** Consistent with section 941 of this title , the Commandant of the Coast Guard, Commissioner, and other appropriate Federal officials, shall promptly communicate any revised procedures or instructions intended for the private sector following a maritime disruption or maritime transportation security incident.
+
+## Source Credit
+
+*([Pub. L. 109–347, title II, § 202](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1903](https://www.govinfo.gov/link/statute/120/1903).)*

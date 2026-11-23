@@ -3,9 +3,10 @@ title: "Section 956 - Investment of earnings in United States property"
 usc_title: 26
 usc_section: "956"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 956"
-generated_at: "2026-03-30T02:55:27.749Z"
+generated_at: "2026-11-23T20:26:45.988Z"
+status: "active"
 ---
 
 # § 956. Investment of earnings in United States property
@@ -62,3 +63,7 @@ generated_at: "2026-03-30T02:55:27.749Z"
     - **(B)** For purposes of this paragraph, the term “trade or service receivable” and “related person” have the respective meanings given to such terms by section 864(d).
 - **(d)** For purposes of subsection (a), a controlled foreign corporation shall, under regulations prescribed by the Secretary, be considered as holding an obligation of a United States person if such controlled foreign corporation is a pledgor or guarantor of such obligations.
 - **(e)** The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section, including regulations to prevent the avoidance of the provisions of this section through reorganizations or otherwise.
+
+## Source Credit
+
+*(Added [Pub. L. 87–834, § 12(a)](https://www.govinfo.gov/link/plaw/87/public/834), Oct. 16, 1962, [76 Stat. 1015](https://www.govinfo.gov/link/statute/76/1015); amended [Pub. L. 94–455, title X, § 1021(a)](https://www.govinfo.gov/link/plaw/94/public/455), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1618](https://www.govinfo.gov/link/statute/90/1618), 1834; [Pub. L. 98–369, div. A, title I, § 123(b)](https://www.govinfo.gov/link/plaw/98/public/369), title VIII, § 801(d)(8), July 18, 1984, [98 Stat. 646](https://www.govinfo.gov/link/statute/98/646), 996; [Pub. L. 99–514, title XVIII, § 1810(c)(1)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2824](https://www.govinfo.gov/link/statute/100/2824); [Pub. L. 103–66, title XIII, § 13232(a)](https://www.govinfo.gov/link/plaw/103/public/66), (b), Aug. 10, 1993, [107 Stat. 501](https://www.govinfo.gov/link/statute/107/501); [Pub. L. 104–188, title I, § 1501(b)(2)](https://www.govinfo.gov/link/plaw/104/public/188), (3), Aug. 20, 1996, [110 Stat. 1825](https://www.govinfo.gov/link/statute/110/1825); [Pub. L. 105–34, title XI, § 1173(a)](https://www.govinfo.gov/link/plaw/105/public/34), title XVI, § 1601(e), Aug. 5, 1997, [111 Stat. 988](https://www.govinfo.gov/link/statute/111/988), 1090; [Pub. L. 108–357, title IV, § 407(a)](https://www.govinfo.gov/link/plaw/108/public/357), (b), title VIII, § 837(a), Oct. 22, 2004, [118 Stat. 1498](https://www.govinfo.gov/link/statute/118/1498), 1499, 1596; [Pub. L. 110–172, § 11(g)(15)(A)](https://www.govinfo.gov/link/plaw/110/public/172), Dec. 29, 2007, [121 Stat. 2490](https://www.govinfo.gov/link/statute/121/2490); [Pub. L. 115–141, div. U, title IV, § 401(a)(162)](https://www.govinfo.gov/link/plaw/115/public/141), (163), Mar. 23, 2018, [132 Stat. 1192](https://www.govinfo.gov/link/statute/132/1192).)*

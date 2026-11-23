@@ -3,9 +3,10 @@ title: "Section 9141 - Grants to States"
 usc_title: 20
 usc_section: "9141"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 9141"
-generated_at: "2026-03-30T02:54:48.224Z"
+generated_at: "2026-11-23T20:26:14.974Z"
+status: "active"
 ---
 
 # § 9141. Grants to States
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:48.224Z"
   - **(7)** developing library services that provide all users access to information through local, State, regional, national, and international collaborations and networks; and
   - **(8)** carrying out other activities consistent with the purposes set forth in section 9121 of this title , as described in the State library administrative agency’s plan.
 - **(b)** Each State library administrative agency receiving funds under this part may apportion the funds available for the priorities described in subsection (a) as appropriate to meet the needs of the individual State.
+
+## Source Credit
+
+*([Pub. L. 94–462, title II, § 231](https://www.govinfo.gov/link/plaw/94/public/462), as added [Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–233](https://www.govinfo.gov/link/statute/110/3009), 3009–301; amended [Pub. L. 108–81, title II, § 206](https://www.govinfo.gov/link/plaw/108/public/81), Sept. 25, 2003, [117 Stat. 999](https://www.govinfo.gov/link/statute/117/999); [Pub. L. 111–340, title II, § 205](https://www.govinfo.gov/link/plaw/111/public/340), Dec. 22, 2010, [124 Stat. 3600](https://www.govinfo.gov/link/statute/124/3600); [Pub. L. 115–410, § 12](https://www.govinfo.gov/link/plaw/115/public/410), Dec. 31, 2018, [132 Stat. 5417](https://www.govinfo.gov/link/statute/132/5417).)*

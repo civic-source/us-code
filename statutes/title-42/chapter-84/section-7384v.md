@@ -3,9 +3,10 @@ title: "Section 7384v - Assistance for claimants and potential claimants"
 usc_title: 42
 usc_section: "7384v"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7384v"
-generated_at: "2026-03-30T02:56:11.292Z"
+generated_at: "2026-11-23T20:27:22.823Z"
+status: "active"
 ---
 
 # § 7384v. Assistance for claimants and potential claimants
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.292Z"
     - **(B)** lists of vendors approved for providing laboratory services related to such medical testing and diagnosis; and
   - **(3)** provide such additional assistance to such covered employees and other potential claimants as may be required for the development of facts pertinent to a claim.
 - **(c)** As part of the assistance program provided under subsections (a) and (b), and as permitted by law, the Secretary of Energy shall, upon the request of the President, require a beryllium vendor or other Department of Energy contractor or subcontractor to provide information relevant to a claim or potential claim under the compensation program to the President.
+
+## Source Credit
+
+*([Pub. L. 106–398, § 1 [div. C, title XXXVI, § 3631]](https://www.govinfo.gov/link/plaw/106/public/398), Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–508.)*

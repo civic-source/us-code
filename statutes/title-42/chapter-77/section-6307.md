@@ -3,9 +3,10 @@ title: "Section 6307 - Consumer education"
 usc_title: 42
 usc_section: "6307"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6307"
-generated_at: "2026-03-30T02:56:11.253Z"
+generated_at: "2026-11-23T20:27:22.637Z"
+status: "active"
 ---
 
 # § 6307. Consumer education
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:11.253Z"
   - **(4)** The Secretary, the Administrator of the Environmental Protection Agency, and the Administrator of the Small Business Administration, as part of the outreach to small business concerns under the Energy Star Program for Small Business Program, may enter into cooperative agreements with qualified resources partners (including the National Center for Appropriate Technology) to establish, maintain, and promote a Small Business Energy Clearinghouse (in this subsection referred to as the “Clearinghouse”).
   - **(5)** The Secretary, the Administrator of the Environmental Protection Agency, and the Administrator of the Small Business Administration shall ensure that the Clearinghouse provides a centralized resource where small business concerns may access, telephonically and electronically, technical information and advice to help increase energy efficiency and reduce energy costs.
   - **(6)** There are authorized to be appropriated such sums as are necessary to carry out this subsection, to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 337](https://www.govinfo.gov/link/plaw/94/public/163), Dec. 22, 1975, [89 Stat. 931](https://www.govinfo.gov/link/statute/89/931); [Pub. L. 95–619, title VI, § 691(b)(2)](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3288](https://www.govinfo.gov/link/statute/92/3288); [Pub. L. 102–486, title I, § 123(i)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2831](https://www.govinfo.gov/link/statute/106/2831); [Pub. L. 109–58, title I, § 132](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 621](https://www.govinfo.gov/link/statute/119/621).)*

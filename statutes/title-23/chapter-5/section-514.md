@@ -3,9 +3,10 @@ title: "Section 514 - Goals and purposes"
 usc_title: 23
 usc_section: "514"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 514"
-generated_at: "2026-03-30T02:55:12.573Z"
+generated_at: "2026-11-23T20:26:23.903Z"
+status: "active"
 ---
 
 # § 514. Goals and purposes
@@ -28,3 +29,11 @@ generated_at: "2026-03-30T02:55:12.573Z"
   - **(8)** to provide continuing support for operations and maintenance of intelligent transportation systems;
   - **(9)** to ensure a systems approach that includes cooperation among vehicles, infrastructure, and users; and
   - **(10)** to assist in the development of cybersecurity research in cooperation with relevant modal administrations of the Department of Transportation and other Federal agencies to help prevent hacking, spoofing, and disruption of connected and automated transportation vehicles.
+
+Goals
+
+Purposes
+
+## Source Credit
+
+*(Added [Pub. L. 112–141, div. E, title III, § 53002(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 898](https://www.govinfo.gov/link/statute/126/898); amended [Pub. L. 114–94, div. A, title VI](https://www.govinfo.gov/link/plaw/114/public/94), §§ 6005, 6006, Dec. 4, 2015, [129 Stat. 1567](https://www.govinfo.gov/link/statute/129/1567).)*

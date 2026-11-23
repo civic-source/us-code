@@ -3,9 +3,10 @@ title: "Section 1904 - Interpretation of and United States policy regarding Comp
 usc_title: 48
 usc_section: "1904"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1904"
-generated_at: "2026-03-30T02:56:14.595Z"
+generated_at: "2026-11-23T20:27:28.094Z"
+status: "active"
 ---
 
 # § 1904. Interpretation of and United States policy regarding Compact of Free Association
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:56:14.595Z"
       - **(v)** education and training in the field of fisheries; and
       - **(vi)** regional and direct bilateral assistance in the field of fisheries.
 - **(g)** The Congress hereby reaffirms the United States position that the United States Government is not responsible for foreign loans or debt obtained by the Governments of the Federated States of Micronesia and the Marshall Islands.
+
+## Source Credit
+
+*([Pub. L. 99–239, title I, § 104](https://www.govinfo.gov/link/plaw/99/public/239), Jan. 14, 1986, [99 Stat. 1788](https://www.govinfo.gov/link/statute/99/1788); [Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009](https://www.govinfo.gov/link/statute/110/3009), 3009–41; [Pub. L. 106–504, § 2](https://www.govinfo.gov/link/plaw/106/public/504), Nov. 13, 2000, [114 Stat. 2311](https://www.govinfo.gov/link/statute/114/2311).)*

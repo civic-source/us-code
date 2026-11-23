@@ -3,9 +3,10 @@ title: "Section 278u - Xylazine detection and analysis"
 usc_title: 15
 usc_section: "278u"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 278u"
-generated_at: "2026-03-30T02:54:08.081Z"
+generated_at: "2026-11-23T20:26:03.695Z"
+status: "active"
 ---
 
 # § 278u. Xylazine detection and analysis
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:54:08.081Z"
   - **(5)** encourage graduate and post-graduate research to include detection and identification of xylazine and other new psychoactive substances in relevant course studies when practicable.
 - **(c)** In carrying out activities under this section, the Director shall ensure proper security controls are implemented to protect sensitive information, as the Director considers appropriate and consistent with applicable provisions of law.
 - **(d)** Not later than 1 year after December 19, 2023 , the Director shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on the implementation of this section. Such report may include recommendations for legislative action to improve the ability of the Director to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 118–23, § 2](https://www.govinfo.gov/link/plaw/118/public/23), Dec. 19, 2023, [137 Stat. 125](https://www.govinfo.gov/link/statute/137/125).)*

@@ -3,9 +3,10 @@ title: "Section 44903 - Air transportation security"
 usc_title: 49
 usc_section: "44903"
 chapter: 449
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44903"
-generated_at: "2026-03-30T02:56:19.390Z"
+generated_at: "2026-11-23T20:27:35.208Z"
+status: "active"
 ---
 
 # § 44903. Air transportation security
@@ -159,3 +160,555 @@ generated_at: "2026-03-30T02:56:19.390Z"
 - **(n)**
   - **(1)** The Secretary of Homeland Security shall ensure that the Transportation Security Administration is responsible for monitoring passenger exit points from the sterile area of airports at which the Transportation Security Administration provided such monitoring as of December 1, 2013 .
   - **(2)** In this section, the term “sterile area” has the meaning given that term in section 1540.5 of title 49, Code of Federal Regulations (or any corresponding similar regulation or ruling).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 44903(a) | 49 App.:1357(f). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 316(a), (b), (e)(2), (3), (f); added Aug. 5, 1974 , Pub. L. 93–366, § 202 , 88 Stat. 415 , 417. |
+| 44903(b) | 49 App.:1357(a). |  |
+| 44903(c)(1) | 49 App.:1357(b). |  |
+| 44903(c)(2) | 49 App.:1357(g). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 316(g); added Aug. 15, 1990 , Pub. L. 101–370, § 2 , 104 Stat. 451 . |
+| 44903(d) | 49 App.:1356b. | Aug. 8, 1985 , Pub. L. 99–83, § 553(b) , 99 Stat. 226 . |
+| 44903(e) | 49 App.:1357(e)(2), (3). |  |
+
+
+Definitions
+
+Administrator
+
+Law enforcement personnel
+
+Protection Against Violence and Piracy
+
+Security Programs
+
+Maximum use of chemical and biological weapon detection equipment
+
+Pilot programs
+
+Authorizing Individuals To Carry Firearms and Make Arrests
+
+Exclusive Responsibility Over Passenger Safety
+
+Government and Industry Consortia
+
+Improvement of Secured-Area Access Control.—
+
+Enforcement.—
+
+Administrator to publish sanctions
+
+Use of sanctions
+
+Improvements
+
+Improved Airport Perimeter Access Security.—
+
+In general
+
+Security of aircraft and ground access to secure areas
+
+Deployment of federal law enforcement personnel
+
+Airport perimeter screening
+
+Use of biometric technology in airport access control systems
+
+Use of biometric technology for armed law enforcement travel.—
+
+In general
+
+Program requirements
+
+Procedures
+
+Definitions
+
+Biometric identifier information
+
+Biometric identifier
+
+Failure to enroll
+
+False match
+
+False non-match
+
+Secure area of an airport
+
+Authority to Arm Flight Deck Crew With Less-Than-Lethal Weapons.—
+
+In general
+
+Usage
+
+Request of air carriers to use less-than-lethal weapons
+
+Short-Term Assessment and Deployment of Emerging Security Technologies and Procedures.—
+
+In general
+
+Secure flight program.—
+
+In general
+
+Modifications
+
+Advanced airline passenger prescreening.—
+
+Commencement of testing
+
+Assumption of function
+
+Requirements
+
+Passenger information
+
+Inclusion of detainees on no fly list
+
+Screening of employees against watchlist
+
+Aircraft charter customer and lessee prescreening.—
+
+In general
+
+Requirements
+
+No fly and automatic selectee lists
+
+Applicability
+
+Appeal procedures.—
+
+In general
+
+Records
+
+Definition
+
+Limitation on Liability for Acts To Thwart Criminal Violence or Aircraft Piracy
+
+Air Charter Program.—
+
+In general
+
+Exemption for armed forces charters.—
+
+In general
+
+Security procedures
+
+Armed forces defined
+
+Security Screening for Members of the Armed Forces.—
+
+In general
+
+Protocols
+
+Rule of construction
+
+Report to congress
+
+Passenger Exit Points From Sterile Area.—
+
+In general
+
+Sterile area defined
+
+Historical and Revision Notes
+
+44903(a)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Aug. 5, 1974
+
+Pub. L. 93–366, § 202
+
+88 Stat. 415
+
+44903(b)
+
+44903(c)(1)
+
+44903(c)(2)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Aug. 15, 1990
+
+Pub. L. 101–370, § 2
+
+104 Stat. 451
+
+44903(d)
+
+Aug. 8, 1985
+
+Pub. L. 99–83, § 553(b)
+
+99 Stat. 226
+
+44903(e)
+
+Law enforcement personnel
+
+In General
+
+Contents
+
+Passenger Information
+
+Standard of Care
+
+Rules of Construction.—
+
+Effect on authorities
+
+Effect on other laws
+
+Definitions
+
+Personnel
+
+Sexual assault
+
+Sexual assault or harassment incident
+
+In General
+
+Membership
+
+Considerations
+
+Report to Congress
+
+Installation of Secondary Cockpit Barriers of Existing Aircraft
+
+Short Title
+
+Requirement
+
+Establishment of Task Force
+
+Membership
+
+Purpose of Task Force
+
+Report
+
+Plan
+
+Regulations
+
+Sunset
+
+In General
+
+Availability of Reporting Process
+
+In General
+
+Contents of Plan
+
+Employee Training
+
+Study
+
+Gap Analysis
+
+Briefing to Congress
+
+In General
+
+Periodic Reviews
+
+Reports
+
+In General
+
+Partnership
+
+Cost Share
+
+Authorization of Appropriations
+
+GAO Report
+
+Cooperative Efforts to Enhance Airport Security Awareness
+
+Credentialing Standards
+
+SIDA Applications.—
+
+Social security numbers required.—
+
+In general
+
+Failure to provide number
+
+Screening notice
+
+Secured and Sterile Areas of Airports
+
+Rap Back Vetting
+
+Insider Threat Education and Mitigation
+
+Employee Inspections
+
+Covert Testing.—
+
+In general
+
+Requirements
+
+Annual reporting
+
+Centralized Database.—
+
+In general
+
+Limitation
+
+In General
+
+Cooperation by Administrator
+
+Administrative Burdens
+
+Authorization of Appropriations
+
+Risk Assessments of Airport Security.—
+
+In general
+
+Contents
+
+Report
+
+Airport Security Strategy Development.—
+
+In general
+
+Contents
+
+Updates
+
+Redress Process.—
+
+In general
+
+Briefing
+
+Privacy Impact Review and Update.—
+
+In general
+
+Public dissemination; form
+
+Rule Review and Notification Process.—
+
+Rule review
+
+Notification process
+
+Entities specified
+
+Federal Air Marshal Service Coordination.—
+
+In general
+
+Report
+
+GAO Report
+
+Short Title
+
+Advanced Passenger Prescreening System
+
+Screening Services Other Than in Primary Passenger Terminals.—
+
+In general
+
+Requests
+
+Availability
+
+Agreements.—
+
+Limitation
+
+Payments
+
+Definitions
+
+Applicable airport
+
+Charter air carrier
+
+Screening services
+
+Report
+
+Designated Staffing
+
+Security Enhancements
+
+Threat Assessment
+
+RTCA Report
+
+In General
+
+Contents
+
+Updates
+
+Report to Congress
+
+Comprehensive and Strategic Aviation Framework.—
+
+In general
+
+Scope
+
+“(aa) to assess cybersecurity risks to aircraft systems;
+
+“(bb) to review the extent to which existing rulemaking, policy, and guidance to promote safety also promote aircraft systems information security protection; and
+
+“(cc) to provide appropriate recommendations to the Administrator if separate or additional rulemaking, policy, or guidance is needed to address cybersecurity risks to aircraft systems; and
+
+“(aa) cybersecurity risks associated with in-flight entertainment systems; and
+
+“(bb) whether in-flight entertainment systems can and should be isolated and separate, such as through an air gap, under existing rulemaking, policy, and guidance;
+
+Implementation requirements
+
+Update on Cybersecurity Implementation Progress
+
+Cybersecurity Threat Model
+
+National Institute of Standards and Technology Information Security Standards
+
+Cybersecurity Research and Development
+
+Assistant secretary
+
+Administration
+
+In General
+
+Types of Plans
+
+Report to Congress
+
+In General
+
+Types of Plans
+
+Report to Congress
+
+Dissemination of Best Practices
+
+In General
+
+Report
+
+In General
+
+Assessment
+
+In General
+
+Program Components
+
+Reports.—
+
+Initial briefing
+
+Final report
+
+Congressional committees
+
+Use of Existing Funds
+
+Report
+
+Beginning Implementation
+
+In General
+
+Report
+
+“The Secretary of Homeland Security, subject to the availability of funds (other than amounts in the Aviation Trust Fund) provided for this purpose, shall reimburse air carriers and airports for—
+
+In General
+
+Implementation of Other Methods
+
+Commuter Aircraft
+
+Technical support and financial assistance
+
+Removal of certain restrictions.—
+
+Certification by operator
+
+Countermand period
+
+Airport Security
+
+Documentation of Costs; Audit
+
+Claim Procedure
+
+In General
+
+Reports
+
+Definitions
+
+Aircraft
+
+Air transportation
+
+Program
+
+Establishment of a Program To Deputize Local Law Enforcement Officers.—
+
+In general
+
+Consultation
+
+Training and background of law enforcement officers.—
+
+In general
+
+Training not federal responsibility
+
+Powers and Status of Deputized Law Enforcement Officers.—
+
+In general
+
+Limitation
+
+Status
+
+Statutory Construction
+
+Regulations
+
+Notification of Congress
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1205](https://www.govinfo.gov/link/statute/108/1205); [Pub. L. 106–181, title VII, § 717](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 163](https://www.govinfo.gov/link/statute/114/163); [Pub. L. 106–528](https://www.govinfo.gov/link/plaw/106/public/528), §§ 4, 6, Nov. 22, 2000, [114 Stat. 2520](https://www.govinfo.gov/link/statute/114/2520), 2521; [Pub. L. 107–71, title I](https://www.govinfo.gov/link/plaw/107/public/71), §§ 101(f)(7)–(9), 106(a), (c), (d), 120, 126(b), 136, 144, Nov. 19, 2001, [115 Stat. 603](https://www.govinfo.gov/link/statute/115/603), 608–610, 629, 632, 636, 644; [Pub. L. 107–296, title XIV](https://www.govinfo.gov/link/plaw/107/public/296), §§ 1405, 1406, Nov. 25, 2002, [116 Stat. 2307](https://www.govinfo.gov/link/statute/116/2307); [Pub. L. 108–176, title VI, § 606(a)](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2568](https://www.govinfo.gov/link/statute/117/2568); [Pub. L. 108–458, title IV](https://www.govinfo.gov/link/plaw/108/public/458), §§ 4011(a), 4012(a)(1), Dec. 17, 2004, [118 Stat. 3712](https://www.govinfo.gov/link/statute/118/3712), 3714; [Pub. L. 110–53, title XVI, § 1615(a)](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 486](https://www.govinfo.gov/link/statute/121/486); [Pub. L. 111–83, title V, § 553](https://www.govinfo.gov/link/plaw/111/public/83), Oct. 28, 2009, [123 Stat. 2179](https://www.govinfo.gov/link/statute/123/2179); [Pub. L. 112–86, § 2(a)](https://www.govinfo.gov/link/plaw/112/public/86), Jan. 3, 2012, [125 Stat. 1874](https://www.govinfo.gov/link/statute/125/1874); [Pub. L. 113–67, div. A, title VI, § 603](https://www.govinfo.gov/link/plaw/113/public/67), Dec. 26, 2013, [127 Stat. 1188](https://www.govinfo.gov/link/statute/127/1188); [Pub. L. 115–254, div. K, title I, § 1991(d)(3)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3630](https://www.govinfo.gov/link/statute/132/3630); [Pub. L. 117–286, § 4(a)(316)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4340](https://www.govinfo.gov/link/statute/136/4340).)*

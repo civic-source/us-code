@@ -3,9 +3,10 @@ title: "Section 9628 - State response programs"
 usc_title: 42
 usc_section: "9628"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9628"
-generated_at: "2026-03-30T02:56:11.362Z"
+generated_at: "2026-11-23T20:27:23.122Z"
+status: "active"
 ---
 
 # § 9628. State response programs
@@ -77,3 +78,11 @@ generated_at: "2026-03-30T02:56:11.362Z"
   - **(3)** the Federal Water Pollution Control Act ( 33 U.S.C. 1251 et seq.);
   - **(4)** the Toxic Substances Control Act ( 15 U.S.C. 2601 et seq.); and
   - **(5)** the Safe Drinking Water Act ( 42 U.S.C. 300f et seq.).
+
+(aa) wait 48 hours for a reply from the State under clause (ii); or
+
+(bb) if the State fails to reply to the notification or if the Administrator makes a determination under clause (iii), take immediate action under that clause.
+
+## Source Credit
+
+*([Pub. L. 96–510, title I, § 128](https://www.govinfo.gov/link/plaw/96/public/510), as added [Pub. L. 107–118, title II, § 231(b)](https://www.govinfo.gov/link/plaw/107/public/118), Jan. 11, 2002, [115 Stat. 2375](https://www.govinfo.gov/link/statute/115/2375); amended [Pub. L. 115–141, div. N](https://www.govinfo.gov/link/plaw/115/public/141), §§ 14(a), 15, Mar. 23, 2018, [132 Stat. 1058](https://www.govinfo.gov/link/statute/132/1058), 1059.)*

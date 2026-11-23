@@ -3,9 +3,10 @@ title: "Section 5821 - Integrated management systems"
 usc_title: 7
 usc_section: "5821"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 5821"
-generated_at: "2026-03-30T02:53:42.419Z"
+generated_at: "2026-11-23T20:25:41.660Z"
+status: "active"
 ---
 
 # § 5821. Integrated management systems
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:42.419Z"
   - **(2)** identifying and prioritizing the research and educational needs of the livestock industry relating to production and financial efficiency, competitiveness, environmental stability, and food safety; and
   - **(3)** utilizing an interdisciplinary approach.
 - **(d)** There are authorized to be appropriated to carry out this section through the National Institute of Food and Agriculture $20,000,000 for each of fiscal years 2013 through 2023.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XVI, § 1627](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3739](https://www.govinfo.gov/link/statute/104/3739); [Pub. L. 104–127, title VIII, § 862(b)(2)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1174](https://www.govinfo.gov/link/statute/110/1174); [Pub. L. 110–234, title VII, § 7511(c)(16)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1269](https://www.govinfo.gov/link/statute/122/1269); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, § 7511(c)(16), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2030; [Pub. L. 113–79, title VII, § 7202](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 880](https://www.govinfo.gov/link/statute/128/880); [Pub. L. 115–334, title VII, § 7202](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4803](https://www.govinfo.gov/link/statute/132/4803).)*

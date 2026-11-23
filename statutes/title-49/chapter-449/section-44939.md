@@ -3,9 +3,10 @@ title: "Section 44939 - Training to operate certain aircraft"
 usc_title: 49
 usc_section: "44939"
 chapter: 449
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44939"
-generated_at: "2026-03-30T02:56:19.395Z"
+generated_at: "2026-11-23T20:27:35.228Z"
+status: "active"
 ---
 
 # § 44939. Training to operate certain aircraft
@@ -35,3 +36,37 @@ generated_at: "2026-03-30T02:56:19.395Z"
     - **(B)** shall remain available until expended.
 - **(h)** The Attorney General, the Director of Central Intelligence, and the Administrator of the Federal Aviation Administration shall cooperate with the Secretary in implementing this section.
 - **(i)** The Secretary shall require flight schools to conduct a security awareness program for flight school employees to increase their awareness of suspicious circumstances and activities of individuals enrolling in or attending flight school.
+
+Waiting Period
+
+Interruption of Training
+
+Notification
+
+Expedited Processing
+
+Training
+
+Nonapplicability to Certain Foreign Military Pilots
+
+Fee.—
+
+In general
+
+Offset
+
+Interagency Cooperation
+
+Security Awareness Training for Employees
+
+“Not later than 18 months after the date of enactment of this Act [ May 16, 2024 ], the Administrator [of the Federal Aviation Administration] shall issue a final rule for the rulemaking activity titled ‘Removal of the Expiration Date on a Flight Instructor Certificate’, published in Fall 2022 in the Unified Agenda of Federal Regulatory and Deregulatory Actions (RIN 2120–AL25) to, at a minimum, update part 61 of title 14, Code of Federal Regulations, to—
+
+In general
+
+Use of overseas facilities
+
+Use of united states facilities
+
+## Source Credit
+
+*(Added [Pub. L. 107–71, title I, § 113(a)](https://www.govinfo.gov/link/plaw/107/public/71), Nov. 19, 2001, [115 Stat. 622](https://www.govinfo.gov/link/statute/115/622); amended [Pub. L. 108–176, title VI, § 612(a)](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2572](https://www.govinfo.gov/link/statute/117/2572); [Pub. L. 115–254, div. K, title I, § 1991(d)(30)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3639](https://www.govinfo.gov/link/statute/132/3639).)*

@@ -3,9 +3,10 @@ title: "Section 53511 - Tax treatment of nonqualified withdrawals"
 usc_title: 46
 usc_section: "53511"
 chapter: 535
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 53511"
-generated_at: "2026-03-30T02:56:15.576Z"
+generated_at: "2026-11-23T20:27:27.327Z"
+status: "active"
 ---
 
 # § 53511. Tax treatment of nonqualified withdrawals
@@ -26,7 +27,16 @@ generated_at: "2026-03-30T02:56:15.576Z"
   - **(1)** the money rates and investment yields for the calendar year immediately before the beginning of the taxable year; and
   - **(2)** the money rates and investment yields for the calendar year 1970.
 - **(e)**
-  - **(1)** The following applicable percentage of any amount that remains in a capital construction fund at the close of the following specified taxable year following the taxable year for which the amount was deposited shall be treated as a nonqualified withdrawal: If the amount remains in the fund at the close of the— The applicable percentage is— 26th taxable year 20 percent 27th taxable year 40 percent 28th taxable year 60 percent 29th taxable year 80 percent 30th taxable year 100 percent.
+  - **(1)** The following applicable percentage of any amount that remains in a capital construction fund at the close of the following specified taxable year following the taxable year for which the amount was deposited shall be treated as a nonqualified withdrawal:
+
+| If the amount remains in the fund at the close of the— | The applicable percentage is— |
+| --- | --- |
+| 26th taxable year | 20 percent |
+| 27th taxable year | 40 percent |
+| 28th taxable year | 60 percent |
+| 29th taxable year | 80 percent |
+| 30th taxable year | 100 percent. |
+
   - **(2)** The earnings of a capital construction fund for any taxable year (except net gains) shall be treated under this subsection as an amount deposited for the taxable year.
   - **(3)** Under paragraph (1), an amount shall not be treated as remaining in a capital construction fund at the close of a taxable year to the extent there is a binding contract at the close of the taxable year for a qualified withdrawal of the amount for an identified item for which the withdrawal may be made.
   - **(4)** If the Secretary determines that the balance in a capital construction fund exceeds the amount appropriate to meet the vessel construction program objectives of the person that established the fund, the amount of the excess shall be treated as a nonqualified withdrawal under paragraph (1) unless the person develops appropriate program objectives within 3 years to dissipate the excess.
@@ -40,3 +50,138 @@ generated_at: "2026-03-30T02:56:15.576Z"
     - **(A)** that portion shall not be taken into account under paragraph (1); and
     - **(B)** an amount equal to that portion shall be allowed as a deduction under section 172 of such Code ( 26 U.S.C. 172 ) for the taxable year in which the withdrawal occurs.
   - **(4)** A nonqualified withdrawal excluded from gross income under paragraph (1) shall be excluded in determining taxable income under section 172(b)(2) of such Code ( 26 U.S.C. 172(b)(2) ).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 53511 | 46 App.:1177(h) (less (2) (last sentence)). | June 29, 1936, ch. 858 , title VI, § 607(h) (less (2) (last sentence)), 49 Stat. 2005 ; June 23, 1938, ch. 600 , §§ 23–28, 52 Stat. 960 ; Aug. 4, 1939, ch. 417, § 10 , 53 Stat. 1185 ; July 17, 1952, ch. 939 , §§ 17–19, 66 Stat. 764 ; Pub. L. 85–637 , Aug. 14, 1958 , 72 Stat. 216 ; Pub. L. 86–518, § 1 , June 12, 1960 , 74 Stat. 216 ; Pub. L. 87–45, § 6 , May 27, 1961 , 75 Stat. 91 ; Pub. L. 87–271 , Sept. 21, 1961 , 75 Stat. 570 ; restated Pub. L. 91–469, § 21(a) , Oct. 21, 1970 , 84 Stat. 1030 ; Pub. L. 97–31, § 12(97)(A) , Aug. 6, 1981 , 95 Stat. 162 ; Pub. L. 99–514, title II, § 261(e)(6) , Oct. 22, 1986 , 100 Stat. 2215 ; Pub. L. 100–647, title I, § 1002(m)(2) , Nov. 10, 1988 , 102 Stat. 3382 ; Pub. L. 101–508, title XI, § 11101(d)(7)(B) , Nov. 5, 1990 , 104 Stat. 1388–405 ; Pub. L. 105–34, title III, § 311(c)(2) , Aug. 5, 1997 , 111 Stat. 835 ; Pub. L. 108–27, title III, § 301(a)(2)(E) , May 28, 2003 , 117 Stat. 758 . |
+
+
+In General
+
+Order of Withdrawals
+
+Tax Treatment
+
+Interest Rate
+
+Nonqualified Withdrawals
+
+In general
+
+26th taxable year
+
+27th taxable year
+
+28th taxable year
+
+29th taxable year
+
+30th taxable year
+
+Earnings
+
+Contract for qualified withdrawal
+
+Excess earnings
+
+Amounts in fund on january 1, 1987
+
+Tax Determinations
+
+In general
+
+Maximum tax rate
+
+Tax benefit rule
+
+Coordination with deduction for net operating losses
+
+Historical and Revision Notes
+
+53511
+
+June 29, 1936, ch. 858
+
+49 Stat. 2005
+
+June 23, 1938, ch. 600
+
+52 Stat. 960
+
+Aug. 4, 1939, ch. 417, § 10
+
+53 Stat. 1185
+
+July 17, 1952, ch. 939
+
+66 Stat. 764
+
+Pub. L. 85–637
+
+Aug. 14, 1958
+
+72 Stat. 216
+
+Pub. L. 86–518, § 1
+
+June 12, 1960
+
+74 Stat. 216
+
+Pub. L. 87–45, § 6
+
+May 27, 1961
+
+75 Stat. 91
+
+Pub. L. 87–271
+
+Sept. 21, 1961
+
+75 Stat. 570
+
+Pub. L. 91–469, § 21(a)
+
+Oct. 21, 1970
+
+84 Stat. 1030
+
+Pub. L. 97–31, § 12(97)(A)
+
+Aug. 6, 1981
+
+95 Stat. 162
+
+Pub. L. 99–514, title II, § 261(e)(6)
+
+Oct. 22, 1986
+
+100 Stat. 2215
+
+Pub. L. 100–647, title I, § 1002(m)(2)
+
+Nov. 10, 1988
+
+102 Stat. 3382
+
+Pub. L. 101–508, title XI, § 11101(d)(7)(B)
+
+Nov. 5, 1990
+
+104 Stat. 1388–405
+
+Pub. L. 105–34, title III, § 311(c)(2)
+
+Aug. 5, 1997
+
+111 Stat. 835
+
+Pub. L. 108–27, title III, § 301(a)(2)(E)
+
+May 28, 2003
+
+117 Stat. 758
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(c)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1597](https://www.govinfo.gov/link/statute/120/1597); [Pub. L. 112–240, title I, § 102(c)(1)(E)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2319](https://www.govinfo.gov/link/statute/126/2319).)*

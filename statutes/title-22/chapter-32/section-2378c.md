@@ -3,9 +3,10 @@ title: "Section 2378c - Limitation on assistance for the West Bank and Gaza"
 usc_title: 22
 usc_section: "2378c"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2378c"
-generated_at: "2026-03-30T02:55:05.362Z"
+generated_at: "2026-11-23T20:26:32.272Z"
+status: "active"
 ---
 
 # § 2378c. Limitation on assistance for the West Bank and Gaza
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:05.362Z"
     - **(A)** the Committee on International Relations and the Committee on Appropriations of the House of Representatives; and
     - **(B)** the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
   - **(2)** The term “foreign terrorist organization” means an organization designated as a foreign terrorist organization by the Secretary of State in accordance with section 1189(a) of title 8 .
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. III, § 620L, as added [Pub. L. 109–446, § 3(a)](https://www.govinfo.gov/link/plaw/109/public/446), Dec. 21, 2006, [120 Stat. 3320](https://www.govinfo.gov/link/statute/120/3320).)*

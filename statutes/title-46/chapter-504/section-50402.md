@@ -3,9 +3,10 @@ title: "Section 50402 - Maritime Transportation System National Advisory Committ
 usc_title: 46
 usc_section: "50402"
 chapter: 504
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 50402"
-generated_at: "2026-03-30T02:56:15.569Z"
+generated_at: "2026-11-23T20:27:27.274Z"
+status: "active"
 ---
 
 # § 50402. Maritime Transportation System National Advisory Committee
@@ -30,3 +31,25 @@ generated_at: "2026-03-30T02:56:15.569Z"
   - **(5)** For purposes of section 15109—
     - **(A)** the Committee shall be treated as a committee established under chapter 151; and
     - **(B)** the Secretary of Transportation shall fulfill all duties and responsibilities and have all authorities of the Secretary of Homeland Security with regard to the Committee.
+
+Establishment
+
+Function
+
+Membership.—
+
+In general
+
+Expertise
+
+Representation
+
+Restrictions on members representing federal agencies
+
+Administration
+
+“Notwithstanding any other provision of law—
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. G, title LVXXXIII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXIII], § 8332(a), Jan. 1, 2021, [134 Stat. 4703](https://www.govinfo.gov/link/statute/134/4703), § 55502; renumbered § 50402, [Pub. L. 117–81, div. C, title XXXV, § 3512(a)(3)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2239](https://www.govinfo.gov/link/statute/135/2239).)*

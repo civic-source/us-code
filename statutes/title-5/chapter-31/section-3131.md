@@ -3,9 +3,10 @@ title: "Section 3131 - The Senior Executive Service"
 usc_title: 5
 usc_section: "3131"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 3131"
-generated_at: "2026-03-30T02:52:56.000Z"
+generated_at: "2026-11-23T20:25:31.799Z"
+status: "active"
 ---
 
 # § 3131. The Senior Executive Service
@@ -26,3 +27,21 @@ It is the purpose of this subchapter to establish a Senior Executive Service to 
   - **(12)** provide for the initial and continuing systematic development of highly competent senior executives;
   - **(13)** provide for an executive system which is guided by the public interest and free from improper political interference; and
   - **(14)** appoint career executives to fill Senior Executive Service positions to the extent practicable, consistent with the effective and efficient implementation of agency policies and responsibilities.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+Donald J. Trump.
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1154](https://www.govinfo.gov/link/statute/92/1154).)*

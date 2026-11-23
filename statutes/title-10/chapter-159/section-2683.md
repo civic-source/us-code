@@ -3,9 +3,10 @@ title: "Section 2683 - Relinquishment of legislative jurisdiction; minimum drink
 usc_title: 10
 usc_section: "2683"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2683"
-generated_at: "2026-03-30T02:53:38.169Z"
+generated_at: "2026-11-23T20:25:51.650Z"
+status: "active"
 ---
 
 # § 2683. Relinquishment of legislative jurisdiction; minimum drinking age on military installations
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:38.169Z"
   - **(4)** In this subsection:
     - **(A)** The term “State” includes the District of Columbia.
     - **(B)** The term “minimum drinking age” means the minimum age or ages established for persons who may purchase, possess, or consume alcoholic beverages.
+
+## Source Credit
+
+*(Added [Pub. L. 91–511, title VI, § 613(1)](https://www.govinfo.gov/link/plaw/91/public/511), Oct. 26, 1970, [84 Stat. 1226](https://www.govinfo.gov/link/statute/84/1226); amended [Pub. L. 92–545, title VIII, § 707](https://www.govinfo.gov/link/plaw/92/public/545), Oct. 25, 1972, [86 Stat. 1154](https://www.govinfo.gov/link/statute/86/1154); [Pub. L. 93–283, § 3](https://www.govinfo.gov/link/plaw/93/public/283), May 14, 1974, [88 Stat. 141](https://www.govinfo.gov/link/statute/88/141); [Pub. L. 99–145, title XII, § 1224(a)](https://www.govinfo.gov/link/plaw/99/public/145), (b)(1), (c)(1), Nov. 8, 1985, [99 Stat. 728](https://www.govinfo.gov/link/statute/99/728), 729; [Pub. L. 99–661, div. A, title XIII, § 1343(a)(18)](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 3993](https://www.govinfo.gov/link/statute/100/3993); [Pub. L. 100–526, title I, § 106(b)(2)](https://www.govinfo.gov/link/plaw/100/public/526), Oct. 24, 1988, [102 Stat. 2625](https://www.govinfo.gov/link/statute/102/2625).)*

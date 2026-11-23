@@ -3,9 +3,10 @@ title: "Section 1665c - Comprehensive behavioral health prevention and treatment
 usc_title: 25
 usc_section: "1665c"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1665c"
-generated_at: "2026-03-30T02:54:52.825Z"
+generated_at: "2026-11-23T20:26:25.516Z"
+status: "active"
 ---
 
 # § 1665c. Comprehensive behavioral health prevention and treatment program
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:52.825Z"
 - **(b)**
   - **(1)** The Secretary, acting through the Service, may enter into contracts with public or private providers of behavioral health treatment services for the purpose of carrying out the program required under subsection (a).
   - **(2)** In carrying out this subsection, the Secretary shall provide assistance to Indian tribes and tribal organizations to develop criteria for the certification of behavioral health service providers and accreditation of service facilities which meet minimum standards for such services and facilities.
+
+## Source Credit
+
+*([Pub. L. 94–437, title VII, § 704](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

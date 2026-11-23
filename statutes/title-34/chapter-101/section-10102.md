@@ -3,9 +3,10 @@ title: "Section 10102 - Duties and functions of Assistant Attorney General"
 usc_title: 34
 usc_section: "10102"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10102"
-generated_at: "2026-03-30T02:55:33.259Z"
+generated_at: "2026-11-23T20:26:50.426Z"
+status: "active"
 ---
 
 # § 10102. Duties and functions of Assistant Attorney General
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:33.259Z"
   - **(5)** coordinate and provide staff support to coordinate the activities of the Office and the Bureau of Justice Assistance, the National Institute of Justice, the Bureau of Justice Statistics, the Office for Victims of Crime, and the Office of Juvenile Justice and Delinquency Prevention; and
   - **(6)** exercise such other powers and functions as may be vested in the Assistant Attorney General pursuant to this chapter or by delegation of the Attorney General, including placing special conditions on all grants, and determining priority purposes for formula grants.
 - **(b)** The Assistant Attorney General shall submit an annual report to the President and to the Congress not later than March 31 of each year.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 102](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 98–473, title II, § 603(a)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2078](https://www.govinfo.gov/link/statute/98/2078); amended [Pub. L. 107–296, title II, § 236](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2162](https://www.govinfo.gov/link/statute/116/2162); [Pub. L. 109–162, title XI, § 1152](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3113](https://www.govinfo.gov/link/statute/119/3113).)*

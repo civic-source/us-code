@@ -3,9 +3,10 @@ title: "Section 6554 - Online Safety and Technology working group"
 usc_title: 15
 usc_section: "6554"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 6554"
-generated_at: "2026-03-30T02:54:08.211Z"
+generated_at: "2026-11-23T20:26:04.399Z"
+status: "active"
 ---
 
 # § 6554. Online Safety and Technology working group
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:08.211Z"
   - **(1)** describes in detail its findings, including any information related to the effectiveness of such strategies and technologies and any information about the prevalence within industry of educational campaigns, parental control technologies, blocking and filtering software, labeling, or other technologies to assist parents; and
   - **(2)** includes recommendations as to what types of incentives could be used or developed to increase the effectiveness and implementation of such strategies and technologies.
 - **(c)** Chapter 10 of title 5 shall not apply to the working group.
+
+## Source Credit
+
+*([Pub. L. 110–385, title II, § 214](https://www.govinfo.gov/link/plaw/110/public/385), Oct. 10, 2008, [122 Stat. 4103](https://www.govinfo.gov/link/statute/122/4103); [Pub. L. 117–286, § 4(a)(76)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4314](https://www.govinfo.gov/link/statute/136/4314).)*

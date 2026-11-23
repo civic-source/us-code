@@ -3,9 +3,10 @@ title: "Section 4865 - Security requirements for United States diplomatic facili
 usc_title: 22
 usc_section: "4865"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4865"
-generated_at: "2026-03-30T02:55:05.415Z"
+generated_at: "2026-11-23T20:26:32.552Z"
+status: "active"
 ---
 
 # § 4865. Security requirements for United States diplomatic facilities
@@ -49,3 +50,121 @@ generated_at: "2026-03-30T02:55:05.415Z"
   - **(7)** The Secretary of State shall enter into a memorandum of understanding with the Secretary of Defense setting out rapid response procedures for mobilization of personnel and equipment of their respective departments to provide more effective assistance in times of emergency with respect to United States diplomatic facilities, including at high risk, high threat posts (as such term is defined in section 4803 of this title ), including options for the deployment of additional military personnel or equipment to bolster security and rapid deployment of armed or surveillance assets in response to an attack.
   - **(8)** All United States diplomatic facilities shall have emergency equipment and records required in case of an emergency situation stored at an off-site facility.
 - **(b)** Nothing in this section alters or amends existing security requirements not addressed by this section.
+
+Departures Report.—
+
+In general
+
+Contents
+
+Congressional Notification Requirement
+
+Establishment of a Database
+
+Termination
+
+Appropriate Congressional Committees Defined
+
+Senior Focal Point on Crisis Management and Response.—
+
+Designation
+
+Duties
+
+Reporting
+
+Tabletop Exercises and Simulations.—
+
+In general
+
+Matters to be included
+
+Leadership; participation
+
+Consultation
+
+Participation
+
+Briefing.—
+
+In general
+
+Elements
+
+Notification in lieu of briefing
+
+Foreign Service Institute Training
+
+Department of State Emergency Response Lessons Learned Clearinghouse.—
+
+In general
+
+Repository
+
+International Crisis Defined
+
+In General
+
+Updates.—
+
+In general
+
+Contents
+
+Form
+
+Restricted Access Space Requirement
+
+National Security Waiver
+
+Appropriate Congressional Committees Defined
+
+Sensitive Compartmented Information Facility Requirement
+
+National Security Waiver
+
+Appropriate Congressional Committees Defined
+
+Reconciliation Required
+
+Annual Estimate of Overseas Presence
+
+“Congress makes the following findings:
+
+“Congress makes the following findings:
+
+Authorization of Appropriations
+
+Purposes
+
+Availability of Authorizations
+
+Availability of Funds
+
+Capital Security Cost Sharing.—
+
+Authority
+
+Implementation
+
+Exclusion
+
+Report and Priority of Obligations.—
+
+Report
+
+Priority on use of funds.—
+
+In general
+
+Exception
+
+Prohibition on Transfer of Funds
+
+“In this title [enacting this section, amending section 4831 of this title , and enacting provisions set out as notes above], the terms ‘United States diplomatic facility’ and ‘diplomatic facility’ mean any chancery, consulate, or other office that—
+
+William J. Clinton.
+
+## Source Credit
+
+*([Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VI, § 606]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–454; [Pub. L. 114–323, title I, § 102](https://www.govinfo.gov/link/plaw/114/public/323), Dec. 16, 2016, [130 Stat. 1909](https://www.govinfo.gov/link/statute/130/1909); [Pub. L. 117–263, div. I, title XCIII, § 9301(e)(2)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3881](https://www.govinfo.gov/link/statute/136/3881).)*

@@ -3,9 +3,10 @@ title: "Section 1066 - Use of commissary stores and MWR facilities: certain civi
 usc_title: 10
 usc_section: "1066"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1066"
-generated_at: "2026-03-30T02:53:38.098Z"
+generated_at: "2026-11-23T20:25:51.185Z"
+status: "active"
 ---
 
 # § 1066. Use of commissary stores and MWR facilities: certain civilian employees
@@ -26,3 +27,13 @@ generated_at: "2026-03-30T02:53:38.098Z"
     - **(C)** Police (GS–0083).
     - **(D)** Security Guard (GS–0085).
     - **(E)** Emergency Management (GS–0089).
+
+Eligibility of Certain Civilian Employees
+
+User Fee Authority
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. A, title VI, § 631(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3681](https://www.govinfo.gov/link/statute/134/3681); amended [Pub. L. 119–60, div. A, title VI, § 651](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 912](https://www.govinfo.gov/link/statute/139/912).)*

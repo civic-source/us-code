@@ -3,9 +3,10 @@ title: "Section 8680 - Overhaul, repair, etc. of vessels in foreign shipyards: r
 usc_title: 10
 usc_section: "8680"
 chapter: 863
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 8680"
-generated_at: "2026-03-30T02:53:38.248Z"
+generated_at: "2026-11-23T20:25:52.226Z"
+status: "active"
 ---
 
 # § 8680. Overhaul, repair, etc. of vessels in foreign shipyards: restrictions
@@ -72,3 +73,15 @@ generated_at: "2026-03-30T02:53:38.248Z"
     - **(A)** A naval vessel.
     - **(B)** Any other vessel under the jurisdiction of the Secretary of the Navy.
     - **(C)** A vessel not described in subparagraph (A) or (B) that is operated pursuant to a contract entered into by the Secretary of the Navy and the Maritime Administration or the United States Transportation Command in support of Department of Defense operations.
+
+Vessels Under Jurisdiction of the Secretary of the Navy With Homeport in United States, Guam, or Commonwealth of the Northern Mariana Islands
+
+Vessel Changing Homeports
+
+Repair and Refurbishment of Certain Submarines
+
+Report
+
+## Source Credit
+
+*(Added and amended [Pub. L. 103–160, div. A, title III, § 367](https://www.govinfo.gov/link/plaw/103/public/160), title VIII, § 824(b), Nov. 30, 1993, [107 Stat. 1632](https://www.govinfo.gov/link/statute/107/1632), 1710, § 7310; [Pub. L. 104–106, div. A, title X, § 1017](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 425](https://www.govinfo.gov/link/statute/110/425); [Pub. L. 109–364, div. A, title X, § 1014](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2376](https://www.govinfo.gov/link/statute/120/2376); [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title X, § 1012, Oct. 14, 2008, [122 Stat. 4584](https://www.govinfo.gov/link/statute/122/4584); [Pub. L. 112–239, div. A, title III, § 344](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1700](https://www.govinfo.gov/link/statute/126/1700); [Pub. L. 115–91, div. A, title X, § 1023](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1548](https://www.govinfo.gov/link/statute/131/1548); renumbered § 8680, [Pub. L. 115–232, div. A, title VIII, § 807(d)(2)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1836](https://www.govinfo.gov/link/statute/132/1836); [Pub. L. 116–92, div. A, title X, § 1035](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1583](https://www.govinfo.gov/link/statute/133/1583); [Pub. L. 116–283, div. A, title X](https://www.govinfo.gov/link/plaw/116/public/283), §§ 1025, 1081(a)(45), Jan. 1, 2021, [134 Stat. 3843](https://www.govinfo.gov/link/statute/134/3843), 3873; [Pub. L. 118–31, div. A, title XIII, § 1352(g)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 517](https://www.govinfo.gov/link/statute/137/517); [Pub. L. 118–159, div. A, title X, § 1026](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2055](https://www.govinfo.gov/link/statute/138/2055); [Pub. L. 119–60, div. A, title X, § 1014](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1031](https://www.govinfo.gov/link/statute/139/1031).)*

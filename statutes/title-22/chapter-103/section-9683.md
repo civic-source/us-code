@@ -3,9 +3,10 @@ title: "Section 9683 - Transfer of functions"
 usc_title: 22
 usc_section: "9683"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9683"
-generated_at: "2026-03-30T02:55:05.472Z"
+generated_at: "2026-11-23T20:26:32.795Z"
+status: "active"
 ---
 
 # § 9683. Transfer of functions
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:05.472Z"
 - **(e)** During the transition period, the agencies specified in subsection (a) shall—
   - **(1)** continue to administer the assets and obligations of those agencies; and
   - **(2)** carry out such programs and activities authorized under this chapter as may be determined by the President.
+
+## Source Credit
+
+*([Pub. L. 115–254, div. F, title VI, § 1463](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3512](https://www.govinfo.gov/link/statute/132/3512).)*

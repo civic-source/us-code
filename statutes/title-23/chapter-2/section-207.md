@@ -3,9 +3,10 @@ title: "Section 207 - Tribal transportation self-governance program"
 usc_title: 23
 usc_section: "207"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 207"
-generated_at: "2026-03-30T02:55:12.566Z"
+generated_at: "2026-11-23T20:26:23.854Z"
+status: "active"
 ---
 
 # § 207. Tribal transportation self-governance program
@@ -146,3 +147,209 @@ generated_at: "2026-03-30T02:55:12.566Z"
     - **(C)** The Secretary shall adapt the negotiated rulemaking procedures to the unique context of self-governance and the government-to-government relationship between the United States and Indian tribes.
   - **(3)** The lack of promulgated regulations shall not limit the effect of this section.
   - **(4)** Unless expressly agreed to by the participating Indian tribe in the compact or funding agreement, the participating Indian tribe shall not be subject to any agency circular, policy, manual, guidance, or rule adopted by the Department, except regulations promulgated under this section.
+
+Establishment
+
+Eligibility.—
+
+In general
+
+Criteria for determining financial stability and financial management capacity
+
+Criteria for determining transportation program management capability
+
+Compacts.—
+
+Compact required
+
+Contents
+
+Amendments
+
+Annual Funding Agreements.—
+
+Funding agreement required
+
+Contents.—
+
+In general.—
+
+Formula funding and discretionary grants
+
+Transfers of state funds.—
+
+Inclusion of transferred funds in funding agreement
+
+Method for transfers
+
+(aa) the transfer may occur in accordance with section 202(a)(9); or
+
+(bb) the State shall transfer the funds back to the Secretary and the Secretary shall transfer the funds to the Indian tribe in accordance with this section.
+
+Responsibility for transferred funds
+
+(aa) the State shall not be responsible for constructing or maintaining a project carried out using the funds or for administering or supervising the project or funds during the applicable statute of limitations period related to the construction of the project; and
+
+(bb) the Indian tribe shall be responsible for constructing and maintaining a project carried out using the funds and for administering and supervising the project and funds in accordance with this section during the applicable statute of limitations period related to the construction of the project.
+
+Administration of tribal shares
+
+Flexible and innovative financing.—
+
+In general
+
+Terms and conditions.—
+
+Authority to issue regulations
+
+Terms and conditions in absence of regulations
+
+(aa) agreements entered into by the Department under— (AA) section 202(b)(7); and (BB) section 202(d)(5), as in effect before the date of enactment of MAP–21 ( Public Law 112–141 ); or
+
+(bb) regulations of the Department of the Interior relating to flexible financing contained in part 170 of title 25, Code of Federal Regulations, as in effect on the date of enactment of the FAST Act.
+
+Terms
+
+Subsequent funding agreements.—
+
+Applicability of existing agreement
+
+Effective date of subsequent agreement
+
+Consent of indian tribe required
+
+General Provisions.—
+
+Redesign and consolidation.—
+
+In general
+
+(aa) appropriations Acts;
+
+(bb) this title and chapter 53 of title 49; and
+
+(cc) any other applicable law.
+
+Exception
+
+Retrocession.—
+
+In general.—
+
+Authority of indian tribes
+
+Reassumption of remaining funds
+
+Correction of programs
+
+Effective date
+
+Provisions Relating to Secretary.—
+
+Decisionmaker
+
+Termination of compact or funding agreement.—
+
+Authority to terminate.—
+
+Provision to be included in compact or funding agreement
+
+Transfers of funds
+
+Findings resulting in termination
+
+Prohibition
+
+Exception.—
+
+In general
+
+Hearings
+
+Burden of proof
+
+Cost Principles
+
+Transfer of Funds
+
+Construction Programs.—
+
+Standards
+
+Monitoring
+
+Facilitation.—
+
+Secretarial interpretation
+
+Regulation waiver.—
+
+In general
+
+Approvals and denials.—
+
+In general
+
+Review
+
+Deemed approval
+
+Denials
+
+Finality of decisions
+
+Disclaimers.—
+
+Existing authority
+
+Limitation on statutory construction
+
+Applicability of Indian Self-Determination and Education Assistance Act
+
+Definitions.—
+
+In general
+
+Compact
+
+Department
+
+Eligible indian tribe
+
+Funding agreement
+
+Indian tribe
+
+Program
+
+Secretary
+
+Transportation programs
+
+Applicability of other definitions
+
+Regulations.—
+
+In general.—
+
+Promulgation
+
+Publication of proposed regulations
+
+Expiration of authority
+
+Extension of deadlines
+
+Committee.—
+
+In general
+
+Requirements
+
+Adaptation of procedures
+
+Effect of circulars, policies, manuals, guidance, and rules
+
+## Source Credit
+
+*(Added [Pub. L. 114–94, div. A, title I, § 1121(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1359](https://www.govinfo.gov/link/statute/129/1359); amended [Pub. L. 115–235, § 1](https://www.govinfo.gov/link/plaw/115/public/235), Aug. 14, 2018, [132 Stat. 2443](https://www.govinfo.gov/link/statute/132/2443); [Pub. L. 117–58, div. A, title I, § 11525](https://www.govinfo.gov/link/plaw/117/public/58) (o), Nov. 15, 2021, [135 Stat. 608](https://www.govinfo.gov/link/statute/135/608).)*

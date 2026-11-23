@@ -3,9 +3,10 @@ title: "Section 1032 - Program authorized"
 usc_title: 20
 usc_section: "1032"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1032"
-generated_at: "2026-03-30T02:54:48.098Z"
+generated_at: "2026-11-23T20:26:14.330Z"
+status: "active"
 ---
 
 # § 1032. Program authorized
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:48.098Z"
   - **(3)** A department, school, or college of education at an institution of higher education.
   - **(4)** A department, school, or college of arts and sciences at an institution of higher education.
   - **(5)** Not less than one entity with the capacity to contribute to the technology-related reform of teacher preparation programs, which may be a professional association, foundation, museum, library, for-profit business, public or private nonprofit organization, community-based organization, or other entity.
+
+## Source Credit
+
+*([Pub. L. 89–329, title II, § 231](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title II, § 201(3)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3154](https://www.govinfo.gov/link/statute/122/3154); amended [Pub. L. 111–39, title II, § 201(3)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1936](https://www.govinfo.gov/link/statute/123/1936).)*

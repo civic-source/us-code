@@ -3,9 +3,10 @@ title: "Section 175a - Assistance to plant, area, and industrywide labor managem
 usc_title: 29
 usc_section: "175a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 175a"
-generated_at: "2026-03-30T02:55:18.679Z"
+generated_at: "2026-11-23T20:26:37.786Z"
+status: "active"
 ---
 
 # § 175a. Assistance to plant, area, and industrywide labor management committees
@@ -21,3 +22,9 @@ generated_at: "2026-03-30T02:55:18.679Z"
   - **(3)** No grant may be made under the provisions of this section to any labor management committee which the Service finds to have as one of its purposes the discouragement of the exercise of rights contained in section 157 of this title , or the interference with collective bargaining in any plant, or industry.
 - **(c)** The Service shall carry out the provisions of this section through an office established for that purpose.
 - **(d)** There are authorized to be appropriated to carry out the provisions of this section $10,000,000 for the fiscal year 1979, and such sums as may be necessary thereafter.
+
+“It is the purpose of this section [enacting this section and amending sections 173 and 186 of this title]—
+
+## Source Credit
+
+*(June 23, 1947, ch. 120, title II, § 205A, as added [Pub. L. 95–524, § 6(c)(2)](https://www.govinfo.gov/link/plaw/95/public/524), Oct. 27, 1978, [92 Stat. 2020](https://www.govinfo.gov/link/statute/92/2020).)*

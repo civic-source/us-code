@@ -3,9 +3,10 @@ title: "Section 14508 - Economic and energy development initiative"
 usc_title: 40
 usc_section: "14508"
 chapter: 145
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 14508"
-generated_at: "2026-03-30T02:55:43.387Z"
+generated_at: "2026-11-23T20:26:56.693Z"
+status: "active"
 ---
 
 # § 14508. Economic and energy development initiative
@@ -20,3 +21,15 @@ generated_at: "2026-03-30T02:55:43.387Z"
   - **(3)** in the case of a project to be carried out in a county for which an at-risk county designation is in effect under section 14526, 70 percent may be provided from amounts appropriated to carry out this section.
 - **(c)** Subject to subsection (b), grants provided under this section may be provided from amounts made available to carry out this section in combination with amounts made available under other Federal programs or from any other source.
 - **(d)** Notwithstanding any provision of law limiting the Federal share under any other Federal program, amounts made available to carry out this section may be used to increase that Federal share, as the Commission decides is appropriate.
+
+Projects To Be Assisted
+
+Limitation on Available Amounts
+
+Sources of Assistance
+
+Federal Share
+
+## Source Credit
+
+*(Added [Pub. L. 110–371, § 3(a)](https://www.govinfo.gov/link/plaw/110/public/371), Oct. 8, 2008, [122 Stat. 4040](https://www.govinfo.gov/link/statute/122/4040).)*

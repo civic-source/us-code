@@ -3,9 +3,10 @@ title: "Section 1810 - Civil liability"
 usc_title: 50
 usc_section: "1810"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 1810"
-generated_at: "2026-03-30T02:56:26.209Z"
+generated_at: "2026-11-23T20:27:30.775Z"
+status: "active"
 ---
 
 # § 1810. Civil liability
@@ -17,3 +18,7 @@ An aggrieved person, other than a foreign power or an agent of a foreign power, 
   - **(2)** for any other aggrieved person, $1,000 or $100 per day for each day of violation;
 - **(b)** punitive damages; and
 - **(c)** reasonable attorney’s fees and other investigation and litigation costs reasonably incurred.
+
+## Source Credit
+
+*([Pub. L. 95–511, title I, § 110](https://www.govinfo.gov/link/plaw/95/public/511), Oct. 25, 1978, [92 Stat. 1796](https://www.govinfo.gov/link/statute/92/1796); [Pub. L. 118–49, § 15(a)](https://www.govinfo.gov/link/plaw/118/public/49), Apr. 20, 2024, [138 Stat. 882](https://www.govinfo.gov/link/statute/138/882).)*

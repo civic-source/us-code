@@ -3,9 +3,10 @@ title: "Section 3744 - Wildlife partnership program"
 usc_title: 16
 usc_section: "3744"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3744"
-generated_at: "2026-03-30T02:54:23.020Z"
+generated_at: "2026-11-23T20:26:20.671Z"
+status: "active"
 ---
 
 # § 3744. Wildlife partnership program
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:54:23.020Z"
   - **(1)** The Secretary shall establish the Fund, which shall consist of amounts deposited into the Fund by the Secretary under paragraph (2) of this subsection.
   - **(2)** The Secretary shall deposit into the Fund amounts appropriated to the Secretary for deposit to the Fund, of which not more than 4 percent shall be available to the Secretary to defray the costs of administering this chapter and evaluating wildlife conservation and appreciation projects.
 - **(h)** There are authorized to be appropriated to the Fund and to the Secretary not to exceed $6,250,000 for each of fiscal years 1999 through 2003.
+
+## Source Credit
+
+*([Pub. L. 102–587, title VII, § 7105](https://www.govinfo.gov/link/plaw/102/public/587), Nov. 4, 1992, [106 Stat. 5097](https://www.govinfo.gov/link/statute/106/5097); [Pub. L. 103–375, § 6(4)](https://www.govinfo.gov/link/plaw/103/public/375) –(7), Oct. 19, 1994, [108 Stat. 3495](https://www.govinfo.gov/link/statute/108/3495), 3496; [Pub. L. 105–312, title III, § 303](https://www.govinfo.gov/link/plaw/105/public/312), Oct. 30, 1998, [112 Stat. 2958](https://www.govinfo.gov/link/statute/112/2958).)*

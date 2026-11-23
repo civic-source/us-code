@@ -3,9 +3,10 @@ title: "Section 1905 - Definitions"
 usc_title: 29
 usc_section: "1905"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1905"
-generated_at: "2026-03-30T02:55:18.741Z"
+generated_at: "2026-11-23T20:26:38.052Z"
+status: "active"
 ---
 
 # § 1905. Definitions
@@ -21,3 +22,7 @@ For purposes of this chapter—
     - **(B)** who despite the inability to be measured accurately for hearing and vision loss due to cognitive or behavioral constraints, or both, can be determined through functional and performance assessment to have severe hearing and visual disabilities that cause extreme difficulty in attaining independence in daily life activities, achieving psychosocial adjustment, or obtaining vocational objectives; or
     - **(C)** meets such other requirements as the Secretary may prescribe by regulation; and
   - **(3)** the term “Secretary” means the Secretary of Education.
+
+## Source Credit
+
+*([Pub. L. 98–221, title II, § 206](https://www.govinfo.gov/link/plaw/98/public/221), Feb. 22, 1984, [98 Stat. 34](https://www.govinfo.gov/link/statute/98/34); [Pub. L. 102–569, title IX](https://www.govinfo.gov/link/plaw/102/public/569), §§ 905, 908(c)(1), Oct. 29, 1992, [106 Stat. 4482](https://www.govinfo.gov/link/statute/106/4482), 4486.)*

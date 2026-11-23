@@ -3,9 +3,10 @@ title: "Section 622 - Definitions"
 usc_title: 2
 usc_section: "622"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 622"
-generated_at: "2026-03-30T02:53:04.799Z"
+generated_at: "2026-11-23T20:25:28.897Z"
+status: "active"
 ---
 
 # § 622. Definitions
@@ -47,3 +48,15 @@ For purposes of this Act—
     - **(B)** the food stamp program.
   - **(10)** The term “credit authority” means authority to incur direct loan obligations or to incur primary loan guarantee commitments.
   - **(11)** The terms “emergency” and “unanticipated” have the meanings given to such terms in section 900(c) of this title .
+
+Budget authority and new budget authority.—
+
+In general
+
+Limitations on budget authority
+
+New budget authority
+
+## Source Credit
+
+*([Pub. L. 93–344, § 3](https://www.govinfo.gov/link/plaw/93/public/344), July 12, 1974, [88 Stat. 299](https://www.govinfo.gov/link/statute/88/299); Aug. 1, 1946, ch. 724, title I, § 302(c), as added [Pub. L. 95–110, § 1](https://www.govinfo.gov/link/plaw/95/public/110), Sept. 20, 1977, [91 Stat. 884](https://www.govinfo.gov/link/statute/91/884), renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944); [Pub. L. 99–177, title II](https://www.govinfo.gov/link/plaw/99/public/177), §§ 201(a), 232(b), Dec. 12, 1985, [99 Stat. 1039](https://www.govinfo.gov/link/statute/99/1039), 1062; [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 100–119, title I, § 106(a)](https://www.govinfo.gov/link/plaw/100/public/119), Sept. 29, 1987, [101 Stat. 780](https://www.govinfo.gov/link/statute/101/780); [Pub. L. 100–203, title VIII, § 8003(c)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–282](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 101–508, title XIII](https://www.govinfo.gov/link/plaw/101/public/508), §§ 13112(a)(2), 13201(b)(1), 13211(a), Nov. 5, 1990, [104 Stat. 1388–607](https://www.govinfo.gov/link/statute/104/1388), 1388–614, 1388–620; [Pub. L. 105–33, title X, § 10101](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 678](https://www.govinfo.gov/link/statute/111/678); [Pub. L. 112–25, title I, § 105(b)](https://www.govinfo.gov/link/plaw/112/public/25), Aug. 2, 2011, [125 Stat. 247](https://www.govinfo.gov/link/statute/125/247).)*

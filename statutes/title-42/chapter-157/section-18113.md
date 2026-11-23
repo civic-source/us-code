@@ -3,9 +3,10 @@ title: "Section 18113 - Prohibition against discrimination on assisted suicide"
 usc_title: 42
 usc_section: "18113"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18113"
-generated_at: "2026-03-30T02:56:11.516Z"
+generated_at: "2026-11-23T20:27:23.790Z"
+status: "active"
 ---
 
 # § 18113. Prohibition against discrimination on assisted suicide
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.516Z"
   - **(3)** abortion; or
   - **(4)** the use of an item, good, benefit, or service furnished for the purpose of alleviating pain or discomfort, even if such use may increase the risk of death, so long as such item, good, benefit, or service is not also furnished for the purpose of causing, or the purpose of assisting in causing, death, for any reason.
 - **(d)** The Office for Civil Rights of the Department of Health and Human Services is designated to receive complaints of discrimination based on this section.
+
+## Source Credit
+
+*([Pub. L. 111–148, title I, § 1553](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 259](https://www.govinfo.gov/link/statute/124/259).)*

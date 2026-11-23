@@ -3,9 +3,10 @@ title: "Section 1091b - Institutional refunds"
 usc_title: 20
 usc_section: "1091b"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1091b"
-generated_at: "2026-03-30T02:54:48.133Z"
+generated_at: "2026-11-23T20:26:14.510Z"
+status: "active"
 ---
 
 # § 1091b. Institutional refunds
@@ -82,3 +83,7 @@ generated_at: "2026-03-30T02:54:48.133Z"
   - **(1)** in the case of a program that is measured in credit hours, by dividing the total number of calendar days comprising the payment period or period of enrollment for which assistance is awarded into the number of calendar days completed in that period as of the day the student withdrew; and
   - **(2)** in the case of a program that is measured in clock hours, by dividing the total number of clock hours comprising the payment period or period of enrollment for which assistance is awarded into the number of clock hours scheduled to be completed by the student in that period as of the day the student withdrew.
 - **(e)** The provisions of this section shall take effect 2 years after October 7, 1998 . An institution of higher education may choose to implement such provisions prior to that date.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 484B](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 102–325, title IV, § 485(a)](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 619](https://www.govinfo.gov/link/statute/106/619); amended [Pub. L. 103–208, § 2(h)(26)](https://www.govinfo.gov/link/plaw/103/public/208), (27), Dec. 20, 1993, [107 Stat. 2477](https://www.govinfo.gov/link/statute/107/2477); [Pub. L. 105–244, title IV, § 485](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1737](https://www.govinfo.gov/link/statute/112/1737); [Pub. L. 109–66, § 2](https://www.govinfo.gov/link/plaw/109/public/66), Sept. 21, 2005, [119 Stat. 1999](https://www.govinfo.gov/link/statute/119/1999); [Pub. L. 109–67, § 2](https://www.govinfo.gov/link/plaw/109/public/67), Sept. 21, 2005, [119 Stat. 2001](https://www.govinfo.gov/link/statute/119/2001); [Pub. L. 109–171, title VIII, § 8022](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 178](https://www.govinfo.gov/link/statute/120/178).)*

@@ -3,9 +3,10 @@ title: "Section 9809 - Science and technology scholarship program"
 usc_title: 5
 usc_section: "9809"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 9809"
-generated_at: "2026-03-30T02:52:56.074Z"
+generated_at: "2026-11-23T20:25:32.264Z"
+status: "active"
 ---
 
 # § 9809. Science and technology scholarship program
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:52:56.074Z"
 - **(j)**
   - **(1)** There is authorized to be appropriated to the Administration for the Program $10,000,000 for each fiscal year.
   - **(2)** Amounts appropriated under this section shall remain available for 2 fiscal years.
+
+## Source Credit
+
+*(Added [Pub. L. 108–201, § 3(a)](https://www.govinfo.gov/link/plaw/108/public/201), Feb. 24, 2004, [118 Stat. 468](https://www.govinfo.gov/link/statute/118/468); amended [Pub. L. 109–155, title VII, § 703(a)](https://www.govinfo.gov/link/plaw/109/public/155), Dec. 30, 2005, [119 Stat. 2936](https://www.govinfo.gov/link/statute/119/2936).)*

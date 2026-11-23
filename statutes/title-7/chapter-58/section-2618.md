@@ -3,9 +3,10 @@ title: "Section 2618 - Permissive terms and conditions of plans"
 usc_title: 7
 usc_section: "2618"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2618"
-generated_at: "2026-03-30T02:53:42.389Z"
+generated_at: "2026-11-23T20:25:41.538Z"
+status: "active"
 ---
 
 # § 2618. Permissive terms and conditions of plans
@@ -21,3 +22,7 @@ Any plan issued pursuant to this chapter may contain one or more of the followin
 - **(g)** Providing that any potato producer or importer against whose potatoes any assessment is made and collected under authority of this chapter and who is not in favor of supporting the research and promotion program as provided for under this chapter shall have the right to demand and receive from the board a refund of such assessment. Such demand shall be made personally by such producer or importer in accordance with regulations and on a form and within a time period prescribed by the board and approved by the Secretary, but in no event less than 90 days, and upon submission of proof satisfactory to the board that the producer or importer paid the assessment for which refund is sought, and any such refund shall be made within 60 days after demand therefor.
 - **(h)** Providing for authority to assess imports of tablestock, frozen, or processed potatoes for ultimate consumption by humans and seed potatoes into the United States.
 - **(i)** Terms and conditions incidental to and not inconsistent with the terms and conditions specified in this chapter and necessary to effectuate the other provisions of such plan.
+
+## Source Credit
+
+*([Pub. L. 91–670, title III, § 309](https://www.govinfo.gov/link/plaw/91/public/670), Jan. 11, 1971, [84 Stat. 2044](https://www.govinfo.gov/link/statute/84/2044); [Pub. L. 101–624, title XIX, § 1941](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3867](https://www.govinfo.gov/link/statute/104/3867).)*

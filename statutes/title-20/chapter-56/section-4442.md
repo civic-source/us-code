@@ -3,9 +3,10 @@ title: "Section 4442 - Administrative provisions"
 usc_title: 20
 usc_section: "4442"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 4442"
-generated_at: "2026-03-30T02:54:48.185Z"
+generated_at: "2026-11-23T20:26:14.770Z"
+status: "active"
 ---
 
 # § 4442. Administrative provisions
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:48.185Z"
 - **(c)** Whoever—
   - **(1)** makes a false statement of a material fact knowing it to be false, or knowingly fails to disclose a material fact, for the purpose of obtaining or increasing for such person or for any other person any payment of funds provided under this subchapter, or
   - **(2)** misappropriates any funds provided under this subchapter,
+
+## Source Credit
+
+*([Pub. L. 99–498, title XV, § 1522](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1611](https://www.govinfo.gov/link/statute/100/1611).)*

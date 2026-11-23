@@ -3,9 +3,10 @@ title: "Section 3526 - Settlement of accounts"
 usc_title: 31
 usc_section: "3526"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 3526"
-generated_at: "2026-03-30T02:55:34.057Z"
+generated_at: "2026-11-23T20:26:51.782Z"
+status: "active"
 ---
 
 # § 3526. Settlement of accounts
@@ -26,3 +27,76 @@ generated_at: "2026-03-30T02:55:34.057Z"
   - **(2)** make, or have the Secretary of State make, a certificate of the amount expended if the President decides the amount is not to be accounted for specifically. The certificate is a sufficient voucher for the amount stated in the certificate.
 - **(f)** The Comptroller General shall keep all settled accounts, vouchers, certificates, and related papers until they are disposed of as prescribed by law.
 - **(g)** This subchapter does not prohibit the Comptroller General from suspending an item in an account to get additional evidence or explanations needed to settle an account.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3526(a) | 31:44(1st sentence). | June 10, 1921, ch. 18, § 304 (1st par.), 42 Stat. 24 . |
+|  | 31:71(related to accounts). | R.S. § 236(related to accounts); restated June 10, 1921, ch. 18, § 305 , 42 Stat. 24 . |
+|  | 31:538. | June 5, 1920, ch. 240 (3d par. under heading “Advances to Disbursing Officers”), 41 Stat. 975 . |
+|  | 31:541. | June 19, 1878, ch. 312, § 3 , 20 Stat. 168 . |
+| 3526(b) | 31:44(1st sentence). |  |
+|  | 31:74(last par. words after 4th comma). | July 31, 1894, ch. 174, § 8 (1st par. less proviso, 3d par. 1st sentence words after semicolon, 4th par., 6th par. words after 4th comma), 28 Stat. 207 , 208; Oct. 25, 1951, ch. 562, § 3(1) , 65 Stat. 639 . |
+| 3526(c) | 31:82i. | May 19, 1947, ch. 78 , 61 Stat. 101 ; June 6, 1972 , Pub. L. 92–310, § 231(ee) , 86 Stat. 213 . |
+| 3526(d) | 31:44. |  |
+|  | 31:74(1st par. 1st sentence). |  |
+| 3526(e) | 31:44(1st sentence). |  |
+|  | 31:107. | R.S. § 291. |
+| 3526(f) | 31:44(1st sentence). |  |
+|  | 31:74(2d par.). |  |
+| 3526(g) | 31:44(1st sentence). |  |
+|  | 31:74(1st par. last sentence). |  |
+
+
+Historical and Revision Notes
+
+3526(a)
+
+June 10, 1921, ch. 18, § 304
+
+42 Stat. 24
+
+June 10, 1921, ch. 18, § 305
+
+42 Stat. 24
+
+June 5, 1920, ch. 240
+
+41 Stat. 975
+
+June 19, 1878, ch. 312, § 3
+
+20 Stat. 168
+
+3526(b)
+
+July 31, 1894, ch. 174, § 8
+
+28 Stat. 207
+
+Oct. 25, 1951, ch. 562, § 3(1)
+
+65 Stat. 639
+
+3526(c)
+
+May 19, 1947, ch. 78
+
+61 Stat. 101
+
+June 6, 1972
+
+Pub. L. 92–310, § 231(ee)
+
+86 Stat. 213
+
+3526(d)
+
+3526(e)
+
+3526(f)
+
+3526(g)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 964](https://www.govinfo.gov/link/statute/96/964).)*

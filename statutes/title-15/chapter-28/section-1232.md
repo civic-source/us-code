@@ -3,9 +3,10 @@ title: "Section 1232 - Label and entry requirements"
 usc_title: 15
 usc_section: "1232"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1232"
-generated_at: "2026-03-30T02:54:08.130Z"
+generated_at: "2026-11-23T20:26:03.981Z"
+status: "active"
 ---
 
 # § 1232. Label and entry requirements
@@ -30,3 +31,7 @@ Every manufacturer of new automobiles distributed in commerce shall, prior to th
     - **(A)** 8 percent of the total area of the label; or
     - **(B)** an area with a minimum length of 4½ inches and a minimum height of 3½ inches; and
 - **(h)** if an automobile has not been tested by the National Highway Traffic Safety Administration under the New Car Assessment Program, or safety ratings for such automobile have not been assigned in one or more rating categories, a statement to that effect.
+
+## Source Credit
+
+*([Pub. L. 85–506, § 3](https://www.govinfo.gov/link/plaw/85/public/506), July 7, 1958, [72 Stat. 326](https://www.govinfo.gov/link/statute/72/326); [Pub. L. 109–59, title X, § 10307(a)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1941](https://www.govinfo.gov/link/statute/119/1941); [Pub. L. 112–141, div. C, title I, § 31314](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 772](https://www.govinfo.gov/link/statute/126/772).)*

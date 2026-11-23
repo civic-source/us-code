@@ -3,9 +3,10 @@ title: "Section 4014 - Reporting requirement; amendment of certificate; revocati
 usc_title: 15
 usc_section: "4014"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 4014"
-generated_at: "2026-03-30T02:54:08.197Z"
+generated_at: "2026-11-23T20:26:04.322Z"
+status: "active"
 ---
 
 # § 4014. Reporting requirement; amendment of certificate; revocation
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:08.197Z"
   - **(1)** If the Secretary or the Attorney General has reason to believe that the export trade, export trade activities, or methods of operation of a person holding a certificate of review no longer comply with the standards of section 4013(a) of this title , the Secretary shall request such information from such person as the Secretary or the Attorney General deems necessary to resolve the matter of compliance. Failure to comply with such request shall be grounds for revocation of the certificate under paragraph (2).
   - **(2)** If the Secretary or the Attorney General determines that the export trade, export trade activities, or methods of operation of a person holding a certificate no longer comply with the standards of section 4013(a) of this title , or that such person has failed to comply with a request made under paragraph (1), the Secretary shall give written notice of the determination to such person. The notice shall include a statement of the circumstances underlying, and the reasons in support of, the determination. In the 60-day period beginning 30 days after the notice is given, the Secretary shall revoke the certificate or modify it as the Secretary or the Attorney General deems necessary to cause the certificate to apply only to the export trade, export trade activities, or methods of operation which are in compliance with the standards of section 4013(a) of this title .
   - **(3)** For purposes of carrying out this subsection, the Attorney General, and the Assistant Attorney General in charge of the antitrust division of the Department of Justice, may conduct investigations in the same manner as the Attorney General and the Assistant Attorney General conduct investigations under section 1312 of this title , except that no civil investigative demand may be issued to a person to whom a certificate of review is issued if such person is the target of such investigation.
+
+## Source Credit
+
+*([Pub. L. 97–290, title III, § 304](https://www.govinfo.gov/link/plaw/97/public/290), Oct. 8, 1982, [96 Stat. 1242](https://www.govinfo.gov/link/statute/96/1242).)*

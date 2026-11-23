@@ -3,9 +3,10 @@ title: "Section 7604 - Citizen suits"
 usc_title: 42
 usc_section: "7604"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7604"
-generated_at: "2026-03-30T02:56:11.319Z"
+generated_at: "2026-11-23T20:27:22.931Z"
+status: "active"
 ---
 
 # § 7604. Citizen suits
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:56:11.319Z"
 - **(g)**
   - **(1)** Penalties received under subsection (a) shall be deposited in a special fund in the United States Treasury for licensing and other services. Amounts in such fund are authorized to be appropriated and shall remain available until expended, for use by the Administrator to finance air compliance and enforcement activities. The Administrator shall annually report to the Congress about the sums deposited into the fund, the sources thereof, and the actual and proposed uses thereof.
   - **(2)** Notwithstanding paragraph (1) the court in any action under this subsection 6 6 So in original. Probably should be “this section”. to apply civil penalties shall have discretion to order that such civil penalties, in lieu of being deposited in the fund referred to in paragraph (1), be used in beneficial mitigation projects which are consistent with this chapter and enhance the public health or the environment. The court shall obtain the view of the Administrator in exercising such discretion and selecting any such projects. The amount of any such payment in any such action shall not exceed $100,000.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title III, § 304, as added [Pub. L. 91–604, § 12(a)](https://www.govinfo.gov/link/plaw/91/public/604), Dec. 31, 1970, [84 Stat. 1706](https://www.govinfo.gov/link/statute/84/1706); amended [Pub. L. 95–95, title III, § 303(a)](https://www.govinfo.gov/link/plaw/95/public/95) –(c), Aug. 7, 1977, [91 Stat. 771](https://www.govinfo.gov/link/statute/91/771), 772; [Pub. L. 95–190, § 14(a)](https://www.govinfo.gov/link/plaw/95/public/190) (77), (78), Nov. 16, 1977, [91 Stat. 1404](https://www.govinfo.gov/link/statute/91/1404); [Pub. L. 101–549, title III, § 302(f)](https://www.govinfo.gov/link/plaw/101/public/549), title VII, § 707(a)–(g), Nov. 15, 1990, [104 Stat. 2574](https://www.govinfo.gov/link/statute/104/2574), 2682, 2683.)*

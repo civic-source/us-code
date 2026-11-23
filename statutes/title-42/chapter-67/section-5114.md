@@ -3,9 +3,10 @@ title: "Section 5114 - Study and report of unlicensed or unregulated adoption pl
 usc_title: 42
 usc_section: "5114"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5114"
-generated_at: "2026-03-30T02:56:11.219Z"
+generated_at: "2026-11-23T20:27:22.461Z"
+status: "active"
 ---
 
 # § 5114. Study and report of unlicensed or unregulated adoption placements
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.219Z"
   - **(4)** how State policies in defining special needs children differentiate or group similar categories of children.
 - **(b)** The Secretary shall conduct research (directly or by grant to, or contract with, public or private nonprofit research agencies or organizations) about adoption outcomes and the factors affecting those outcomes. The Secretary shall submit a report containing the results of such research to the appropriate committees of the Congress not later than the date that is 36 months after June 25, 2003 .
 - **(c)** Not later than 1 year after June 25, 2003 , the Secretary shall submit to the appropriate committees of the Congress a report that contains recommendations for an action plan to facilitate the interjurisdictional adoption of foster children.
+
+## Source Credit
+
+*([Pub. L. 95–266, title II, § 204](https://www.govinfo.gov/link/plaw/95/public/266), Apr. 24, 1978, [92 Stat. 210](https://www.govinfo.gov/link/statute/92/210); [Pub. L. 108–36, title II](https://www.govinfo.gov/link/plaw/108/public/36), §§ 203, 204, June 25, 2003, [117 Stat. 821](https://www.govinfo.gov/link/statute/117/821).)*

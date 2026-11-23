@@ -3,9 +3,10 @@ title: "Section 1333 - Powers and duties of Secretary"
 usc_title: 16
 usc_section: "1333"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1333"
-generated_at: "2026-03-30T02:54:22.956Z"
+generated_at: "2026-11-23T20:26:20.451Z"
+status: "active"
 ---
 
 # § 1333. Powers and duties of Secretary
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:54:22.956Z"
     - **(A)** credited as an offsetting collection to the Management of Lands and Resources appropriation for the Bureau of Land Management; and
     - **(B)** used for the costs relating to the adoption of wild free-roaming horses and burros, including the costs of marketing such adoption.
   - **(4)** Any excess animal sold under this provision shall no longer be considered to be a wild free-roaming horse or burro for purposes of this chapter.
+
+## Source Credit
+
+*([Pub. L. 92–195, § 3](https://www.govinfo.gov/link/plaw/92/public/195), Dec. 15, 1971, [85 Stat. 649](https://www.govinfo.gov/link/statute/85/649); [Pub. L. 95–514, § 14(a)](https://www.govinfo.gov/link/plaw/95/public/514), Oct. 25, 1978, [92 Stat. 1808](https://www.govinfo.gov/link/statute/92/1808); [Pub. L. 108–447, div. E, title I, § 142(a)](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3070](https://www.govinfo.gov/link/statute/118/3070).)*

@@ -3,9 +3,10 @@ title: "Section 40913 - Implementation assistance to States"
 usc_title: 34
 usc_section: "40913"
 chapter: 409
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 40913"
-generated_at: "2026-03-30T02:55:33.312Z"
+generated_at: "2026-11-23T20:26:50.656Z"
+status: "active"
 ---
 
 # § 40913. Implementation assistance to States
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:55:33.312Z"
 - **(g)** The Attorney General shall direct the Office of Justice Programs, the Bureau of Alcohol, Tobacco, Firearms, and Explosives, and the Federal Bureau of Investigation to—
   - **(1)** assist States that are not currently eligible for grants under this section to achieve compliance with all eligibility requirements; and
   - **(2)** provide technical assistance and training services to grantees under this section.
+
+## Source Credit
+
+*([Pub. L. 110–180, title I, § 103](https://www.govinfo.gov/link/plaw/110/public/180), Jan. 8, 2008, [121 Stat. 2567](https://www.govinfo.gov/link/statute/121/2567); [Pub. L. 115–141, div. S, title VI, § 603(b)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1135](https://www.govinfo.gov/link/statute/132/1135).)*

@@ -3,9 +3,10 @@ title: "Section 1203 - Civil remedies"
 usc_title: 17
 usc_section: "1203"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 1203"
-generated_at: "2026-03-30T02:54:15.357Z"
+generated_at: "2026-11-23T20:26:06.546Z"
+status: "active"
 ---
 
 # § 1203. Civil remedies
@@ -32,3 +33,31 @@ generated_at: "2026-03-30T02:54:15.357Z"
     - **(B)**
       - **(i)** In this subparagraph, the term “public broadcasting entity” has the meaning given such term under section 118(f).
       - **(ii)** In the case of a nonprofit library, archives, educational institution, or public broadcasting entity, the court shall remit damages in any case in which the library, archives, educational institution, or public broadcasting entity sustains the burden of proving, and the court finds, that the library, archives, educational institution, or public broadcasting entity was not aware and had no reason to believe that its acts constituted a violation.
+
+Civil Actions
+
+Powers of the Court
+
+Award of Damages.—
+
+In general
+
+Actual damages
+
+Statutory damages
+
+Repeated violations
+
+Innocent violations.—
+
+In general
+
+Nonprofit library, archives, educational institutions, or public broadcasting entities.—
+
+Definition
+
+In general
+
+## Source Credit
+
+*(Added [Pub. L. 105–304, title I, § 103(a)](https://www.govinfo.gov/link/plaw/105/public/304), Oct. 28, 1998, [112 Stat. 2874](https://www.govinfo.gov/link/statute/112/2874); amended [Pub. L. 106–113, div. B, § 1000(a)(9) [title V, § 5004(a)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–593; [Pub. L. 111–295, § 6(f)(3)](https://www.govinfo.gov/link/plaw/111/public/295), Dec. 9, 2010, [124 Stat. 3181](https://www.govinfo.gov/link/statute/124/3181).)*

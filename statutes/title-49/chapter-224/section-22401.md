@@ -3,9 +3,10 @@ title: "Section 22401 - Definitions"
 usc_title: 49
 usc_section: "22401"
 chapter: 224
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 22401"
-generated_at: "2026-03-30T02:56:19.340Z"
+generated_at: "2026-11-23T20:27:34.831Z"
+status: "active"
 ---
 
 # § 22401. Definitions
@@ -42,3 +43,41 @@ In this chapter:
   - **(15)** The term “substantial completion” means—
     - **(A)** the opening of a project to passenger or freight traffic; or
     - **(B)** a comparable event, as determined by the Secretary and specified in the terms of the direct loan or loan guarantee provided by the Secretary.
+
+Cost.—
+
+Current
+
+Direct loan
+
+Direct loan obligation
+
+Intermodal
+
+Investment-grade rating
+
+Loan guarantee
+
+Loan guarantee commitment
+
+Master credit agreement
+
+Modification
+
+Project obligation
+
+Railroad
+
+Rating agency
+
+Secretary
+
+Substantial completion
+
+In General
+
+Modification Costs
+
+## Source Credit
+
+*(Added and amended [Pub. L. 117–58, div. B, title I, § 21301(a)(2)](https://www.govinfo.gov/link/plaw/117/public/58), (3), (c), Nov. 15, 2021, [135 Stat. 683](https://www.govinfo.gov/link/statute/135/683).)*

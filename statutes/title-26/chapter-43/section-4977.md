@@ -3,9 +3,10 @@ title: "Section 4977 - Tax on certain fringe benefits provided by an employer"
 usc_title: 26
 usc_section: "4977"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 4977"
-generated_at: "2026-03-30T02:55:27.812Z"
+generated_at: "2026-11-23T20:26:46.370Z"
+status: "active"
 ---
 
 # § 4977. Tax on certain fringe benefits provided by an employer
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:27.812Z"
 - **(d)** An election under this section shall apply to the calendar year for which made and all subsequent calendar years unless revoked by the employer.
 - **(e)** All employees treated as employed by a single employer under subsection (b), (c), or (m) of section 414 shall be treated as employed by a single employer for purposes of this section.
 - **(f)** Except as otherwise provided in regulations, this section shall apply only with respect to employment within the United States.
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title V, § 531(e)(1)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 885](https://www.govinfo.gov/link/statute/98/885); amended [Pub. L. 99–514, title XVIII, § 1853(c)(1)](https://www.govinfo.gov/link/plaw/99/public/514), (2), Oct. 22, 1986, [100 Stat. 2871](https://www.govinfo.gov/link/statute/100/2871); [Pub. L. 103–66, title XIII, § 13213(d)(3)(D)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 474](https://www.govinfo.gov/link/statute/107/474); [Pub. L. 104–188, title I, § 1704(t)(66)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1890](https://www.govinfo.gov/link/statute/110/1890).)*

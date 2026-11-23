@@ -3,9 +3,10 @@ title: "Section 460ffff - Definitions"
 usc_title: 16
 usc_section: "460ffff"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 460ffff"
-generated_at: "2026-03-30T02:54:22.851Z"
+generated_at: "2026-11-23T20:26:20.053Z"
+status: "active"
 ---
 
 # § 460ffff. Definitions
@@ -18,3 +19,7 @@ In this subchapter:
   - **(4)** The term “Scenic Area” means the Alabama Hills National Scenic Area established by section 460ffff–1(a) of this title .
   - **(5)** The term “State” means the State of California.
   - **(6)** The term “Tribe” means the Lone Pine Paiute-Shoshone Tribe.
+
+## Source Credit
+
+*([Pub. L. 103–433, title XIV, § 1401](https://www.govinfo.gov/link/plaw/103/public/433), as added [Pub. L. 116–9, title I, § 1441](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 706](https://www.govinfo.gov/link/statute/133/706).)*

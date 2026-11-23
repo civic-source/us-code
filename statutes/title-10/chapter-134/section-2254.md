@@ -3,9 +3,10 @@ title: "Section 2254 - Treatment of reports of aircraft accident investigations"
 usc_title: 10
 usc_section: "2254"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2254"
-generated_at: "2026-03-30T02:53:38.151Z"
+generated_at: "2026-11-23T20:25:51.518Z"
+status: "active"
 ---
 
 # § 2254. Treatment of reports of aircraft accident investigations
@@ -25,3 +26,17 @@ generated_at: "2026-03-30T02:53:38.151Z"
   - **(2)** if the evidence surrounding the accident is not sufficient for those investigators to come to an opinion as to the cause or causes of the accident, the final report of the accident investigation shall include a description of those factors, if any, that, in the opinion of the investigators, substantially contributed to or caused the accident.
 - **(d)** For purposes of any civil or criminal proceeding arising from an aircraft accident, any opinion of the accident investigators as to the cause of, or the factors contributing to, the accident set forth in the accident investigation report may not be considered as evidence in such proceeding, nor may such information be considered an admission of liability by the United States or by any person referred to in those conclusions or statements.
 - **(e)** The Secretary of each military department shall prescribe regulations to carry out this section.
+
+In General
+
+Public Disclosure of Certain Accident Investigation Information
+
+Opinions Regarding Causation of Accident
+
+Use of Information in Civil Proceedings
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 102–484, div. A, title X, § 1071(a)(1)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2507](https://www.govinfo.gov/link/statute/106/2507).)*

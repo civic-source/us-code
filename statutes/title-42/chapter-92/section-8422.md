@@ -3,9 +3,10 @@ title: "Section 8422 - Compliance report"
 usc_title: 42
 usc_section: "8422"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8422"
-generated_at: "2026-03-30T02:56:11.342Z"
+generated_at: "2026-11-23T20:27:23.042Z"
+status: "active"
 ---
 
 # § 8422. Compliance report
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.342Z"
   - **(2)** indicate proposed or existing contracts or other commitments or good faith negotiations for such contracts or commitments for coal or another alternate fuel, equipment, or combinations thereof, which would enable such powerplant to comply with such prohibitions; and
   - **(3)** identify those electric powerplants, if any, for which application for temporary or permanent exemption from the prohibitions of this chapter may be filed.
 - **(b)** Any electric utility required to submit a conservation plan under section 8484 of this title shall annually submit to the Secretary a report identifying the steps taken during the preceding year to implement such plan.
+
+## Source Credit
+
+*([Pub. L. 95–620, title VII, § 712](https://www.govinfo.gov/link/plaw/95/public/620), Nov. 9, 1978, [92 Stat. 3332](https://www.govinfo.gov/link/statute/92/3332); [Pub. L. 97–35, title X, § 1023(b)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 617](https://www.govinfo.gov/link/statute/95/617).)*

@@ -3,9 +3,10 @@ title: "Section 744 - Termination and continuation of rail services"
 usc_title: 45
 usc_section: "744"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 744"
-generated_at: "2026-03-30T02:55:56.556Z"
+generated_at: "2026-11-23T20:27:05.307Z"
+status: "active"
 ---
 
 # § 744. Termination and continuation of rail services
@@ -73,3 +74,7 @@ generated_at: "2026-03-30T02:55:56.556Z"
   - **(1)** as to which the Association generally or specifically consents in writing;
   - **(2)** which, prior to February 5, 1976 , had been specifically approved by a United States district court having jurisdiction over the reorganization of a railroad in reorganization under section 77 of the Bankruptcy Act; or
   - **(3)** following certification to the special court, pursuant to section 719(c) of this title , of any such rail properties not previously so certified.
+
+## Source Credit
+
+*([Pub. L. 93–236, title III, § 304](https://www.govinfo.gov/link/plaw/93/public/236), Jan. 2, 1974, [87 Stat. 1008](https://www.govinfo.gov/link/statute/87/1008); [Pub. L. 94–210, title VI, § 607(i)](https://www.govinfo.gov/link/plaw/94/public/210), title VIII, § 804, Feb. 5, 1976, [90 Stat. 97](https://www.govinfo.gov/link/statute/90/97), 133; [Pub. L. 94–555, title II](https://www.govinfo.gov/link/plaw/94/public/555), §§ 205, 206, Oct. 19, 1976, [90 Stat. 2620](https://www.govinfo.gov/link/statute/90/2620), 2621; [Pub. L. 95–473, § 4(b)](https://www.govinfo.gov/link/plaw/95/public/473), Oct. 17, 1978, [92 Stat. 1466](https://www.govinfo.gov/link/statute/92/1466); [Pub. L. 95–607, title II, § 201](https://www.govinfo.gov/link/plaw/95/public/607), Nov. 8, 1978, [92 Stat. 3064](https://www.govinfo.gov/link/statute/92/3064); [Pub. L. 97–449, § 4(b)(2)](https://www.govinfo.gov/link/plaw/97/public/449), Jan. 12, 1983, [96 Stat. 2441](https://www.govinfo.gov/link/statute/96/2441); [Pub. L. 102–240, title III, § 3003(b)](https://www.govinfo.gov/link/plaw/102/public/240), Dec. 18, 1991, [105 Stat. 2088](https://www.govinfo.gov/link/statute/105/2088); [Pub. L. 104–88, title III, § 327(3)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 951](https://www.govinfo.gov/link/statute/109/951); [Pub. L. 104–287, § 6(f)(4)(A)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3399](https://www.govinfo.gov/link/statute/110/3399).)*

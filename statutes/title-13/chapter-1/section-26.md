@@ -3,12 +3,17 @@ title: "Section 26 - Transportation by contract"
 usc_title: 13
 usc_section: "26"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "13 U.S.C. § 26"
-generated_at: "2026-03-30T02:54:03.337Z"
+generated_at: "2026-11-23T20:25:53.901Z"
+status: "active"
 ---
 
 # § 26. Transportation by contract
 
 The Secretary may contract with field employees for the rental and use within the continental limits of the United States of means of transportation, other than motorcycle, automobile, or airplane, and for the rental and use outside of the continental United States of any means of transportation, which means may be owned by the field employee. Such rental contracts shall be made without regard to section 4 of the Travel Expense Act of 1949, as amended ( 5 U.S.C. 837 ). The rentals shall be at rates equivalent to the prevailing rental rates of the locality. The rental contracts within the continental United States may be entered into only when the use by the field employee of such other means of transportation is safer, more economical, or more advantageous to the Government than use of his motorcycle, automobile, or airplane in conducting the census.
 
+
+## Source Credit
+
+*(Added [Pub. L. 85–207, § 6](https://www.govinfo.gov/link/plaw/85/public/207), Aug. 28, 1957, [71 Stat. 482](https://www.govinfo.gov/link/statute/71/482).)*

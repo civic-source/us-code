@@ -3,9 +3,10 @@ title: "Section 2406 - Miscellaneous"
 usc_title: 43
 usc_section: "2406"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 2406"
-generated_at: "2026-03-30T02:55:57.497Z"
+generated_at: "2026-11-23T20:27:06.406Z"
+status: "active"
 ---
 
 # § 2406. Miscellaneous
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:57.497Z"
   - **(1)** Nothing in this subchapter preempts or affects State water law or an interstate compact governing water.
   - **(2)** The Secretary shall comply with State water laws in carrying out this subchapter.
 - **(i)** Nothing in this subchapter requires a feasibility study for, or imposes any other additional requirements with respect to, rural water supply projects or programs that are authorized before December 22, 2006 .
+
+## Source Credit
+
+*([Pub. L. 109–451, title I, § 107](https://www.govinfo.gov/link/plaw/109/public/451), Dec. 22, 2006, [120 Stat. 3355](https://www.govinfo.gov/link/statute/120/3355).)*

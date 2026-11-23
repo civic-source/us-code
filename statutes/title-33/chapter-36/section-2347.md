@@ -3,9 +3,10 @@ title: "Section 2347 - Coordination and scheduling of Federal, State, and local 
 usc_title: 33
 usc_section: "2347"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2347"
-generated_at: "2026-03-30T02:55:41.127Z"
+generated_at: "2026-11-23T20:26:54.197Z"
+status: "active"
 ---
 
 # § 2347. Coordination and scheduling of Federal, State, and local actions
@@ -14,3 +15,13 @@ generated_at: "2026-03-30T02:55:41.127Z"
 - **(b)** The Secretary shall seek, to the extent practicable, to consolidate hearing and comment periods, procedures for data collection and report preparation, and the environmental review and permitting processes associated with the project and related activities. The Secretary shall notify, to the extent possible, the non-Federal interest of its responsibilities for data development and information that may be necessary to process each permit required for the project, including a schedule when the information and data should be provided to the appropriate Federal, State, or local agency or Indian tribe.
 - **(c)** The costs incurred by the Secretary to establish and carry out a schedule to consolidate Federal, State, and local agency and Indian tribe environmental assessments, project reviews, and permit issuance for a project under this section shall be paid by the non-Federal interest.
 - **(d)** Not later than 3 years after November 8, 2007 , the Secretary shall prepare and transmit to Congress a report estimating the time required for the issuance of all Federal, State, local, and tribal permits for the construction of non-Federal projects for water supply, wastewater infrastructure, flood damage reduction, storm damage reduction, ecosystem restoration, and navigation.
+
+In General
+
+Covered Permit Defined
+
+Limitations
+
+## Source Credit
+
+*([Pub. L. 110–114, title II, § 2044](https://www.govinfo.gov/link/plaw/110/public/114), Nov. 8, 2007, [121 Stat. 1102](https://www.govinfo.gov/link/statute/121/1102).)*

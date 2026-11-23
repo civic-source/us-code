@@ -3,9 +3,10 @@ title: "Section 191 - Disposition of moneys received"
 usc_title: 30
 usc_section: "191"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 191"
-generated_at: "2026-03-30T02:55:29.379Z"
+generated_at: "2026-11-23T20:26:34.912Z"
+status: "active"
 ---
 
 # § 191. Disposition of moneys received
@@ -43,3 +44,27 @@ generated_at: "2026-03-30T02:55:29.379Z"
       - **(ii)** 85 percent to the BLM Permit Processing Improvement Fund established under subsection (c)(2)(B) (referred to in this subsection as the “Fund”); and
     - **(B)** for each of fiscal years 2020 through 2026, all of the fees to the Fund.
   - **(4)** During each of fiscal years of 2016 through 2026, the Secretary shall not implement a rulemaking that would enable an increase in fees to recover additional costs related to processing applications for permits to drill.
+
+Use of fund.—
+
+In general
+
+Accounts
+
+Rental account.—
+
+In general
+
+Allocation
+
+Fee account.—
+
+In general
+
+Allocation
+
+“The Congress finds the following:
+
+## Source Credit
+
+*(Feb. 25, 1920, ch. 85, § 35, [41 Stat. 450](https://www.govinfo.gov/link/statute/41/450); May 27, 1947, ch. 83, [61 Stat. 119](https://www.govinfo.gov/link/statute/61/119); Aug. 3, 1950, ch. 527, [64 Stat. 402](https://www.govinfo.gov/link/statute/64/402); [Pub. L. 85–88, § 2](https://www.govinfo.gov/link/plaw/85/public/88), July 10, 1957, [71 Stat. 282](https://www.govinfo.gov/link/statute/71/282); [Pub. L. 85–508](https://www.govinfo.gov/link/plaw/85/public/508), §§ 6(k), 28(b), July 7, 1958, [72 Stat. 343](https://www.govinfo.gov/link/statute/72/343), 351; [Pub. L. 94–273, § 6(2)](https://www.govinfo.gov/link/plaw/94/public/273), Apr. 21, 1976, [90 Stat. 377](https://www.govinfo.gov/link/statute/90/377); [Pub. L. 94–377, § 9](https://www.govinfo.gov/link/plaw/94/public/377), Aug. 4, 1976, [90 Stat. 1089](https://www.govinfo.gov/link/statute/90/1089); [Pub. L. 94–422, title III, § 301](https://www.govinfo.gov/link/plaw/94/public/422), Sept. 28, 1976, [90 Stat. 1323](https://www.govinfo.gov/link/statute/90/1323); [Pub. L. 94–579, title III, § 317(a)](https://www.govinfo.gov/link/plaw/94/public/579), Oct. 21, 1976, [90 Stat. 2770](https://www.govinfo.gov/link/statute/90/2770); [Pub. L. 97–451, title I](https://www.govinfo.gov/link/plaw/97/public/451), §§ 104(a), 111(g), Jan. 12, 1983, [96 Stat. 2451](https://www.govinfo.gov/link/statute/96/2451), 2456; [Pub. L. 100–203, title V, § 5109](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–261](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–443, § 5(b)](https://www.govinfo.gov/link/plaw/100/public/443), Sept. 22, 1988, [102 Stat. 1768](https://www.govinfo.gov/link/statute/102/1768); [Pub. L. 103–66, title X, § 10201](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 407](https://www.govinfo.gov/link/statute/107/407); [Pub. L. 106–393, title V, § 503](https://www.govinfo.gov/link/plaw/106/public/393), Oct. 30, 2000, [114 Stat. 1624](https://www.govinfo.gov/link/statute/114/1624); [Pub. L. 109–58, title III, § 365(g)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 725](https://www.govinfo.gov/link/statute/119/725); [Pub. L. 113–67, div. A, title III, § 302](https://www.govinfo.gov/link/plaw/113/public/67), Dec. 26, 2013, [127 Stat. 1181](https://www.govinfo.gov/link/statute/127/1181); [Pub. L. 113–291, div. B, title XXX, § 3021(b)](https://www.govinfo.gov/link/plaw/113/public/291), (c)(1), Dec. 19, 2014, [128 Stat. 3760](https://www.govinfo.gov/link/statute/128/3760), 3761; [Pub. L. 115–232, div. A, title VIII, § 809(i)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1843](https://www.govinfo.gov/link/statute/132/1843).)*

@@ -3,9 +3,10 @@ title: "Section 2102 - Ensuring the safety of pet food"
 usc_title: 21
 usc_section: "2102"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 2102"
-generated_at: "2026-03-30T02:54:54.308Z"
+generated_at: "2026-11-23T20:26:27.902Z"
+status: "active"
 ---
 
 # § 2102. Ensuring the safety of pet food
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:54.308Z"
   - **(2)** consult with relevant professional associations and private sector veterinary hospitals;
   - **(3)** work with the National Companion Animal Surveillance Program, the Health Alert Network, or other notification networks as appropriate to inform veterinarians and relevant stakeholders during any recall of pet food; and
   - **(4)** use such information and conduct such other activities as the Secretary deems appropriate.
+
+## Source Credit
+
+*([Pub. L. 110–85, title X, § 1002](https://www.govinfo.gov/link/plaw/110/public/85), Sept. 27, 2007, [121 Stat. 963](https://www.govinfo.gov/link/statute/121/963); [Pub. L. 115–234, title III, § 306(b)](https://www.govinfo.gov/link/plaw/115/public/234), Aug. 14, 2018, [132 Stat. 2441](https://www.govinfo.gov/link/statute/132/2441).)*

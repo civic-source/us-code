@@ -3,9 +3,10 @@ title: "Section 518c - Administration"
 usc_title: 7
 usc_section: "518c"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 518c"
-generated_at: "2026-03-30T02:53:42.288Z"
+generated_at: "2026-11-23T20:25:41.050Z"
+status: "active"
 ---
 
 # § 518c. Administration
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:42.288Z"
 - **(c)** Any adverse determination of a county committee under subsection (b) may be appealed to the National Appeals Division established under subtitle H of the Department of Agriculture Reorganization Act of 1994 ( 7 U.S.C. 6991 et seq.).
 - **(d)** The Secretary may use a financial institution to manage assets, make contract payments, and otherwise carry out this title. 1 1 See References in Text note below.
 - **(e)** The Secretary shall permit a tobacco quota holder or producer of quota tobacco entitled to contract payments to assign to a financial institution the right to receive the contract payments. Upon receiving notification of the assignment, the Secretary shall make subsequent contract payments for the tobacco quota holder or producer of quota tobacco directly to the financial institution designated by the tobacco quota holder or producer of quota tobacco. The Secretary shall make information available to tobacco quota holders and producers of quota tobacco regarding their ability to elect to have the Secretary make payments directly to a financial institution under this subsection so that they may obtain a lump sum or other payment.
+
+## Source Credit
+
+*([Pub. L. 108–357, title VI, § 624](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1528](https://www.govinfo.gov/link/statute/118/1528).)*

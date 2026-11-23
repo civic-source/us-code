@@ -3,9 +3,10 @@ title: "Section 3626 - Reduced rates"
 usc_title: 39
 usc_section: "3626"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "39 U.S.C. § 3626"
-generated_at: "2026-03-30T02:55:43.694Z"
+generated_at: "2026-11-23T20:26:57.753Z"
+status: "active"
 ---
 
 # § 3626. Reduced rates
@@ -76,3 +77,11 @@ generated_at: "2026-03-30T02:55:43.694Z"
     - **(B)** are low cost articles (as defined by section 513(h)(2) of the Internal Revenue Code of 1986).
   - **(2)** Paragraph (1) shall not apply with respect to a periodical publication of a qualified nonprofit organization.
 - **(n)** In the administration of this section, matter that satisfies the circulation standards for requester publications shall not be excluded from being mailed at the rates for mail under former section 4358 solely because such matter is designed primarily for free circulation or for circulation at nominal rates, or fails to meet the requirements of former section 4354(a)(5).
+
+In General
+
+Effective Date and Applicability
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 762](https://www.govinfo.gov/link/statute/84/762); [Pub. L. 93–328, § 1](https://www.govinfo.gov/link/plaw/93/public/328), June 30, 1974, [88 Stat. 287](https://www.govinfo.gov/link/statute/88/287); [Pub. L. 94–421, § 11](https://www.govinfo.gov/link/plaw/94/public/421), Sept. 24, 1976, [90 Stat. 1311](https://www.govinfo.gov/link/statute/90/1311); [Pub. L. 95–593, § 11(c)](https://www.govinfo.gov/link/plaw/95/public/593), Nov. 4, 1978, [92 Stat. 2538](https://www.govinfo.gov/link/statute/92/2538); [Pub. L. 99–272, title XV](https://www.govinfo.gov/link/plaw/99/public/272), §§ 15102(b)(1), (c), 15104, 15105, Apr. 7, 1986, [100 Stat. 330](https://www.govinfo.gov/link/statute/100/330), 331; [Pub. L. 99–509, title VI, § 6003(a)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1933](https://www.govinfo.gov/link/statute/100/1933); [Pub. L. 101–509, title II](https://www.govinfo.gov/link/plaw/101/public/509), §§ 1(a), 3, Nov. 5, 1990, [104 Stat. 1397](https://www.govinfo.gov/link/statute/104/1397), 1399; [Pub. L. 102–141, title II](https://www.govinfo.gov/link/plaw/102/public/141), Oct. 28, 1991, [105 Stat. 842](https://www.govinfo.gov/link/statute/105/842), 843; [Pub. L. 103–123, title VII](https://www.govinfo.gov/link/plaw/103/public/123), §§ 704(a)(1), (3)(A), 705(a)–(c), 708(e), Oct. 28, 1993, [107 Stat. 1267](https://www.govinfo.gov/link/statute/107/1267), 1269, 1271, 1273; [Pub. L. 103–329, title VI, § 639](https://www.govinfo.gov/link/plaw/103/public/329), Sept. 30, 1994, [108 Stat. 2432](https://www.govinfo.gov/link/statute/108/2432); [Pub. L. 104–255, § 2](https://www.govinfo.gov/link/plaw/104/public/255), Oct. 9, 1996, [110 Stat. 3169](https://www.govinfo.gov/link/statute/110/3169); [Pub. L. 105–244, title I, § 102(a)(12)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1620](https://www.govinfo.gov/link/statute/112/1620); [Pub. L. 106–384](https://www.govinfo.gov/link/plaw/106/public/384), §§ 1(b)–(e), 2(b), Oct. 27, 2000, [114 Stat. 1460–1462](https://www.govinfo.gov/link/statute/114/1460); [Pub. L. 109–435, title X, § 1003](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3255](https://www.govinfo.gov/link/statute/120/3255); [Pub. L. 117–108, title II, § 204](https://www.govinfo.gov/link/plaw/117/public/108), Apr. 6, 2022, [136 Stat. 1147](https://www.govinfo.gov/link/statute/136/1147).)*

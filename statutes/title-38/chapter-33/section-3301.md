@@ -3,9 +3,10 @@ title: "Section 3301 - Definitions"
 usc_title: 38
 usc_section: "3301"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 3301"
-generated_at: "2026-03-30T02:55:53.502Z"
+generated_at: "2026-11-23T20:27:01.839Z"
+status: "active"
 ---
 
 # § 3301. Definitions
@@ -27,3 +28,35 @@ In this chapter:
     - **(E)** In the case of members of the Coast Guard, Basic Training and Skill Training (or so-called “A” School).
   - **(4)** The term “program of education” has the meaning given such term in section 3002, except to the extent otherwise provided in section 3313.
   - **(5)** The term “Secretary of Defense” means the Secretary of Defense, except that the term means the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy.
+
+Service in national guard as active duty
+
+One station unit training
+
+Entry level and skill training for the coast guard
+
+Processing of Certain Educational Assistance Claims
+
+Implementation Plan
+
+Report
+
+Authorization of Appropriations
+
+“Congress makes the following findings:
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*(Added [Pub. L. 110–252, title V, § 5003(a)(1)](https://www.govinfo.gov/link/plaw/110/public/252), June 30, 2008, [122 Stat. 2359](https://www.govinfo.gov/link/statute/122/2359); amended [Pub. L. 111–377, title I, § 101(a)](https://www.govinfo.gov/link/plaw/111/public/377), Jan. 4, 2011, [124 Stat. 4107](https://www.govinfo.gov/link/statute/124/4107); [Pub. L. 112–239, div. A, title VI, § 681(c)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1795](https://www.govinfo.gov/link/statute/126/1795); [Pub. L. 115–48, title I, § 101(a)](https://www.govinfo.gov/link/plaw/115/public/48), title IV, § 401(a), Aug. 16, 2017, [131 Stat. 974](https://www.govinfo.gov/link/statute/131/974), 995; [Pub. L. 116–283, div. A, title IX, § 926(g)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3831](https://www.govinfo.gov/link/statute/134/3831); [Pub. L. 117–333, § 3(e)(1)](https://www.govinfo.gov/link/plaw/117/public/333), Jan. 5, 2023, [136 Stat. 6127](https://www.govinfo.gov/link/statute/136/6127).)*

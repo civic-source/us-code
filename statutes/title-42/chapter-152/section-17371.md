@@ -3,9 +3,10 @@ title: "Section 17371 - Energy diplomacy and security within the Department of S
 usc_title: 42
 usc_section: "17371"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17371"
-generated_at: "2026-03-30T02:56:11.505Z"
+generated_at: "2026-11-23T20:27:23.754Z"
+status: "active"
 ---
 
 # § 17371. Energy diplomacy and security within the Department of State
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:56:11.505Z"
     - **(C)** other offices within the Department of State;
   - **(2)** the amount of funds spent on each activity within each office described in paragraph (1); and
   - **(3)** the number and qualification of personnel in each embassy (or relevant foreign posting) of the United States whose work is dedicated exclusively to energy matters.
+
+## Source Credit
+
+*([Pub. L. 110–140, title IX, § 931](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1739](https://www.govinfo.gov/link/statute/121/1739).)*

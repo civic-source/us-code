@@ -3,9 +3,10 @@ title: "Section 3 - Streamlined hiring authority"
 usc_title: 21
 usc_section: "3"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 3"
-generated_at: "2026-03-30T02:54:54.265Z"
+generated_at: "2026-11-23T20:26:27.712Z"
+status: "active"
 ---
 
 # § 379d–3. Streamlined hiring authority
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:54.265Z"
   - **(2)** with respect to the activities under subsection (b)(2), the goals referred to in section 379j–43(a) of this title .
 - **(d)** The Secretary shall institute appropriate internal controls for appointments under this section.
 - **(e)** The authority to appoint employees under this section shall terminate on the date that is 3 years after July 9, 2012 .
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 714, as added and amended [Pub. L. 112–144, title II, § 208](https://www.govinfo.gov/link/plaw/112/public/144), title III, § 307, July 9, 2012, [126 Stat. 1007](https://www.govinfo.gov/link/statute/126/1007), 1025; [Pub. L. 115–52, title II, § 202(b)](https://www.govinfo.gov/link/plaw/115/public/52), Aug. 18, 2017, [131 Stat. 1013](https://www.govinfo.gov/link/statute/131/1013).)*

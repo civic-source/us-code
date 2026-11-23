@@ -3,9 +3,10 @@ title: "Section 2210d - Security evaluations"
 usc_title: 42
 usc_section: "2210d"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2210d"
-generated_at: "2026-03-30T02:56:11.156Z"
+generated_at: "2026-11-23T20:27:22.103Z"
+status: "active"
 ---
 
 # § 2210d. Security evaluations
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.156Z"
 - **(c)** The Commission shall ensure that an affected licensee corrects those material defects in performance that adversely affect the ability of a private security force at that facility to defend against any applicable design basis threat.
 - **(d)** The Commission may suspend a security evaluation under this section if the Commission determines that the evaluation would compromise security at a nuclear facility under a heightened threat level.
 - **(e)** Not less often than once each year, the Commission shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Energy and Commerce of the House of Representatives a report, in classified form and unclassified form, that describes the results of each security response evaluation conducted and any relevant corrective action taken by a licensee during the previous year.
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 170D, as added [Pub. L. 109–58, title VI, § 651(a)(1)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 799](https://www.govinfo.gov/link/statute/119/799).)*

@@ -3,9 +3,10 @@ title: "Section 7532 - Suspension and removal"
 usc_title: 5
 usc_section: "7532"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 7532"
-generated_at: "2026-03-30T02:52:56.039Z"
+generated_at: "2026-11-23T20:25:32.071Z"
+status: "active"
 ---
 
 # § 7532. Suspension and removal
@@ -21,3 +22,27 @@ generated_at: "2026-03-30T02:52:56.039Z"
     - **(C)** a hearing, at the request of the employee, by an agency authority duly constituted for this purpose;
     - **(D)** a review of his case by the head of the agency or his designee, before a decision adverse to the employee is made final; and
     - **(E)** a written statement of the decision of the head of the agency.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 22–1 (less 3d–5th provisos). | Aug. 26, 1950, ch. 803, § 1 (less 3d–5th provisos), 64 Stat. 476 . |
+|  |  | July 29, 1958 , Pub. L. 85–568, § 301(c) , 72 Stat. 432 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 22–1
+
+Aug. 26, 1950, ch. 803, § 1
+
+64 Stat. 476
+
+July 29, 1958
+
+Pub. L. 85–568, § 301(c)
+
+72 Stat. 432
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 529](https://www.govinfo.gov/link/statute/80/529).)*

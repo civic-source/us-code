@@ -3,9 +3,10 @@ title: "Section 6134 - Incorporation of integrated surety architecture"
 usc_title: 10
 usc_section: "6134"
 chapter: 602
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6134"
-generated_at: "2026-03-30T02:53:38.220Z"
+generated_at: "2026-11-23T20:25:52.014Z"
+status: "active"
 ---
 
 # § 6134. Incorporation of integrated surety architecture
@@ -20,3 +21,15 @@ generated_at: "2026-03-30T02:53:38.220Z"
   - **(1)** If, on a case-by-case basis, the Administrator determines that a shipment under subsection (a) will not incorporate some or all of the surety technologies described in such subsection, or that a program under subsection (b) will not incorporate some or all of the integrated designs described in such subsection, the Administrator shall submit such determination to the congressional defense committees, including the results of an analysis conducted pursuant to paragraph (2).
   - **(2)** Each determination made under paragraph (1) shall be based on a documented, system risk analysis that considers security risk reduction, operational impacts, and technical risk.
 - **(d)** The requirements of subsections (a) and (b) shall terminate on December 31, 2029 .
+
+Shipments
+
+Certain Programs
+
+Determination
+
+Termination
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2)(B), Dec. 18, 2025, [139 Stat. 1369](https://www.govinfo.gov/link/statute/139/1369), 1462.)*

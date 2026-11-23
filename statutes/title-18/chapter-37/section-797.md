@@ -3,12 +3,17 @@ title: "Section 797 - Publication and sale of photographs of defense installatio
 usc_title: 18
 usc_section: "797"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 797"
-generated_at: "2026-03-30T02:54:16.469Z"
+generated_at: "2026-11-23T20:26:08.407Z"
+status: "active"
 ---
 
 # § 797. Publication and sale of photographs of defense installations
 
 On and after thirty days from the date upon which the President defines any vital military or naval installation or equipment as being within the category contemplated under section 795 of this title , whoever reproduces, publishes, sells, or gives away any photograph, sketch, picture, drawing, map, or graphical representation of the vital military or naval installations or equipment so defined, without first obtaining permission of the commanding officer of the military or naval post, camp, or station concerned, or higher authority, unless such photograph, sketch, picture, drawing, map, or graphical representation has clearly indicated thereon that it has been censored by the proper military or naval authority, shall be fined under this title or imprisoned not more than one year, or both.
 
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 738](https://www.govinfo.gov/link/statute/62/738); [Pub. L. 103–322, title XXXIII, § 330016(1)(H)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2147](https://www.govinfo.gov/link/statute/108/2147).)*

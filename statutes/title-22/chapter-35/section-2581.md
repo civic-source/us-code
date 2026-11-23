@@ -3,9 +3,10 @@ title: "Section 2581 - General authority of Secretary of State"
 usc_title: 22
 usc_section: "2581"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2581"
-generated_at: "2026-03-30T02:55:05.372Z"
+generated_at: "2026-11-23T20:26:32.337Z"
+status: "active"
 ---
 
 # § 2581. General authority of Secretary of State
@@ -25,3 +26,9 @@ In addition to any authorities otherwise available, the Secretary of State in th
 - **(g)** administer oaths and take sworn statements in the course of an investigation made pursuant to the Secretary of State’s responsibilities under this chapter;
 - **(h)** delegate, as appropriate, to the Under Secretary for Arms Control and International Security or other officers of the Department of State, any authority conferred upon the Secretary of State by the provisions of this chapter; and
 - **(i)** make, promulgate, issue, rescind, and amend such rules and regulations as may be necessary or desirable to the exercise of any authority conferred upon the Secretary of State by the provisions of this chapter.
+
+George Bush.
+
+## Source Credit
+
+*([Pub. L. 87–297, title IV, § 401](https://www.govinfo.gov/link/plaw/87/public/297), formerly § 41, Sept. 26, 1961, [75 Stat. 635](https://www.govinfo.gov/link/statute/75/635); [Pub. L. 93–332, § 1(a)](https://www.govinfo.gov/link/plaw/93/public/332), July 8, 1974, [88 Stat. 289](https://www.govinfo.gov/link/statute/88/289); [Pub. L. 95–108, § 5](https://www.govinfo.gov/link/plaw/95/public/108), Aug. 17, 1977, [91 Stat. 872](https://www.govinfo.gov/link/statute/91/872); [Pub. L. 102–228, title IV, § 401(b)](https://www.govinfo.gov/link/plaw/102/public/228), Dec. 12, 1991, [105 Stat. 1698](https://www.govinfo.gov/link/statute/105/1698); [Pub. L. 103–236, title VII, § 715](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 498](https://www.govinfo.gov/link/statute/108/498); renumbered § 401 and amended [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XII, § 1223(13), (21), Oct. 21, 1998, [112 Stat. 2681–770](https://www.govinfo.gov/link/statute/112/2681), 2681–772.)*

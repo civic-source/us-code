@@ -3,9 +3,10 @@ title: "Section 2507 - Application with respect to Indian Self-Determination and
 usc_title: 25
 usc_section: "2507"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 2507"
-generated_at: "2026-03-30T02:54:52.842Z"
+generated_at: "2026-11-23T20:26:25.601Z"
+status: "active"
 ---
 
 # § 2507. Application with respect to Indian Self-Determination and Education Assistance Act
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:54:52.842Z"
   - **(2)** Any tribe or tribal organization which assumes operation of a Bureau school with assistance under this chapter and any tribe or tribal organization which elects to operate a school with assistance under this chapter rather that 7 7 So in original. Probably should be “than”. to continue as a contract school shall be entitled to any funds which would carryover from the previous fiscal year as if such school were operated as a contract school.
   - **(3)** Any tribe or tribal organization that assumes operation of a Bureau school or a contract school with assistance under this chapter shall be eligible for funding for the improvement, alteration, replacement, and repair of facilities to the same extent as a Bureau school.
 - **(e)** Any exception or problem cited in an audit conducted pursuant to section 2505(b)(1) of this title , any dispute regarding a grant authorized to be made pursuant to this chapter or any amendment to such grant, and any dispute involving an administrative cost grant under section 2008 of this title shall be administered under the provisions governing such exceptions, problems, or disputes in the case of contracts under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 5301 et seq.]. The Equal Access to Justice Act shall apply to administrative appeals filed after September 8, 1988 , by grantees regarding a grant under this chapter, including an administrative cost grant.
+
+## Source Credit
+
+*([Pub. L. 100–297, title V, § 5208](https://www.govinfo.gov/link/plaw/100/public/297), as added [Pub. L. 107–110, title X, § 1043](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2076](https://www.govinfo.gov/link/statute/115/2076).)*

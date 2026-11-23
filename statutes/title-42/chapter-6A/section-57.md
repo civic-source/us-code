@@ -3,9 +3,10 @@ title: "Section 57 - Nondiscrimination"
 usc_title: 42
 usc_section: "57"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 57"
-generated_at: "2026-03-30T02:56:10.815Z"
+generated_at: "2026-11-23T20:27:20.559Z"
+status: "active"
 ---
 
 # § 300x–57. Nondiscrimination
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:10.815Z"
     - **(B)** exercise the powers and functions provided by the Age Discrimination Act of 1975 [ 42 U.S.C. 6101 et seq.], section 504 of the Rehabilitation Act of 1973 [ 29 U.S.C. 794 ], title IX of the Education Amendments of 1972 [ 20 U.S.C. 1681 et seq.], or title VI of the Civil Rights Act of 1964 [ 42 U.S.C. 2000d et seq.], as may be applicable; or
     - **(C)** take such other actions as may be authorized by law.
   - **(2)** When a matter is referred to the Attorney General pursuant to paragraph (1)(A), or whenever the Attorney General has reason to believe that a State or an entity is engaged in a pattern or practice in violation of a provision of law referred to in subsection (a)(1) or in violation of subsection (a)(2), the Attorney General may bring a civil action in any appropriate district court of the United States for such relief as may be appropriate, including injunctive relief.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XIX, § 1947, as added [Pub. L. 102–321, title II, § 203(a)](https://www.govinfo.gov/link/plaw/102/public/321), July 10, 1992, [106 Stat. 407](https://www.govinfo.gov/link/statute/106/407).)*

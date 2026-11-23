@@ -3,9 +3,10 @@ title: "Section 6112 - Portfolio management framework for National Nuclear Secur
 usc_title: 10
 usc_section: "6112"
 chapter: 602
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6112"
-generated_at: "2026-03-30T02:53:38.218Z"
+generated_at: "2026-11-23T20:25:52.009Z"
+status: "active"
 ---
 
 # § 6112. Portfolio management framework for National Nuclear Security Administration
@@ -20,3 +21,11 @@ generated_at: "2026-03-30T02:53:38.218Z"
 - **(b)** Not later than June 1, 2022 , the Administrator shall provide to the congressional defense committees a briefing on—
   - **(1)** the progress of the Administrator in developing the framework described in paragraph (1) of subsection (a) and completing the assessment required by paragraph (2) of that subsection; and
   - **(2)** the plans of the Administrator for implementing the recommendations of the Comptroller General in the report referred to in paragraph (1)(D) of that subsection.
+
+In General
+
+Briefing Requirement
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1345](https://www.govinfo.gov/link/statute/139/1345).)*

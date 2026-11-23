@@ -3,9 +3,10 @@ title: "Section 5876 - Comptroller General audit"
 usc_title: 42
 usc_section: "5876"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5876"
-generated_at: "2026-03-30T02:56:11.239Z"
+generated_at: "2026-11-23T20:27:22.566Z"
+status: "active"
 ---
 
 # § 5876. Comptroller General audit
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.239Z"
   - **(1)** an evaluation of the effectiveness of the licensing and related regulatory activities of the Commission and the operations of the Office of Nuclear Safety Research and the Bureau of Nuclear Materials Security;
   - **(2)** an evaluation of the effect of such Commission activities on the efficiency, effectiveness, and safety with which the activities licensed under the Atomic Energy Act of 1954, as amended [ 42 U.S.C. 2011 et seq.], are carried out;
   - **(3)** recommendations concerning any legislation he deems necessary, and the reasons therefor, for improving the implementation of subchapter II.
+
+## Source Credit
+
+*([Pub. L. 93–438, title III, § 306](https://www.govinfo.gov/link/plaw/93/public/438), Oct. 11, 1974, [88 Stat. 1251](https://www.govinfo.gov/link/statute/88/1251).)*

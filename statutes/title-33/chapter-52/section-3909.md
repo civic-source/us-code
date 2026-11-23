@@ -3,9 +3,10 @@ title: "Section 3909 - Program administration"
 usc_title: 33
 usc_section: "3909"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 3909"
-generated_at: "2026-03-30T02:55:41.145Z"
+generated_at: "2026-11-23T20:26:54.284Z"
+status: "active"
 ---
 
 # § 3909. Program administration
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:41.145Z"
     - **(B)** the transfer of such funds to the Administrator to carry out such an agreement.
   - **(4)** Nothing in this subsection affects the authority of the Administrator with respect to the selection of projects described in paragraphs (1), (8), or (10) of section 3905 of this title to receive financial assistance under this chapter.
 - **(h)** Section 513 of the Federal Water Pollution Control Act ( 33 U.S.C. 1372 ) applies to the construction of a project carried out, in whole or in part, with assistance made available through a Federal credit instrument under this chapter in the same manner that section applies to a treatment works for which a grant is made available under that Act [ 33 U.S.C. 1251 et seq.].
+
+## Source Credit
+
+*([Pub. L. 113–121, title V, § 5030](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1341](https://www.govinfo.gov/link/statute/128/1341); [Pub. L. 115–270, title IV, § 4201(b)(2)](https://www.govinfo.gov/link/plaw/115/public/270), (c), Oct. 23, 2018, [132 Stat. 3878](https://www.govinfo.gov/link/statute/132/3878), 3880.)*

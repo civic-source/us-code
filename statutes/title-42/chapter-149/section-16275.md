@@ -3,9 +3,10 @@ title: "Section 16275 - Department of Energy civilian nuclear infrastructure and
 usc_title: 42
 usc_section: "16275"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16275"
-generated_at: "2026-03-30T02:56:11.476Z"
+generated_at: "2026-11-23T20:27:23.643Z"
+status: "active"
 ---
 
 # § 16275. Department of Energy civilian nuclear infrastructure and facilities
@@ -53,3 +54,7 @@ generated_at: "2026-03-30T02:56:11.476Z"
     - **(B)** In selecting industry partners under subparagraph (A), the Secretary shall consider—
       - **(i)** the information disclosed by the Department as described in paragraph (1); and
       - **(ii)** any existing facilities the Department will provide for public private partnership activities.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 955](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 887](https://www.govinfo.gov/link/statute/119/887); [Pub. L. 115–248, § 2(e)](https://www.govinfo.gov/link/plaw/115/public/248), Sept. 28, 2018, [132 Stat. 3156](https://www.govinfo.gov/link/statute/132/3156); [Pub. L. 116–260, div. Z, title II, § 2003(f)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2466](https://www.govinfo.gov/link/statute/134/2466).)*

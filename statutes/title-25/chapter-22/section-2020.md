@@ -3,9 +3,10 @@ title: "Section 2020 - Tribal departments or divisions of education"
 usc_title: 25
 usc_section: "2020"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 2020"
-generated_at: "2026-03-30T02:54:52.835Z"
+generated_at: "2026-11-23T20:26:25.571Z"
+status: "active"
 ---
 
 # § 2020. Tribal departments or divisions of education
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:52.835Z"
 - **(f)** Subject to the availability of appropriated funds, a grant provided under this section shall be provided for a period of 3 years. If the performance of the grant recipient is satisfactory to the Secretary, the grant may be renewed for additional 3-year terms.
 - **(g)** A tribe that receives a grant under this section shall comply with regulations relating to grants made under section 5322(a) of this title that are in effect on the date that the tribal governing body submits the application for the grant under subsection (b). The Secretary shall not impose any terms, conditions, or requirements on the provision of grants under this section that are not specified in this section.
 - **(h)** There are authorized to be appropriated to carry out this section $2,000,000.
+
+## Source Credit
+
+*([Pub. L. 95–561, title XI, § 1140](https://www.govinfo.gov/link/plaw/95/public/561), as added [Pub. L. 107–110, title X, § 1042](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2059](https://www.govinfo.gov/link/statute/115/2059).)*

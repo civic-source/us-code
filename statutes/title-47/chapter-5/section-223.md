@@ -3,9 +3,10 @@ title: "Section 223 - Obscene or harassing telephone calls in the District of Co
 usc_title: 47
 usc_section: "223"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 223"
-generated_at: "2026-03-30T02:56:24.497Z"
+generated_at: "2026-11-23T20:27:28.831Z"
+status: "active"
 ---
 
 # § 223. Obscene or harassing telephone calls in the District of Columbia or in interstate or foreign communications
@@ -156,3 +157,11 @@ generated_at: "2026-03-30T02:56:24.497Z"
     - **(C)** transmit, receive, display, forward, cache, search, subset, organize, reorganize, or translate content.
   - **(4)** The term “institution of higher education” has the meaning provided in section 1001 of title 20 .
   - **(5)** The term “library” means a library eligible for participation in State-based plans for funds under title III of the Library Services and Construction Act ( 20 U.S.C. 355e et seq.).
+
+Three-Judge District Court Hearing
+
+Appellate Review
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title II, § 223, as added [Pub. L. 90–299, § 1](https://www.govinfo.gov/link/plaw/90/public/299), May 3, 1968, [82 Stat. 112](https://www.govinfo.gov/link/statute/82/112); amended [Pub. L. 98–214, § 8(a)](https://www.govinfo.gov/link/plaw/98/public/214), (b), Dec. 8, 1983, [97 Stat. 1469](https://www.govinfo.gov/link/statute/97/1469), 1470; [Pub. L. 100–297, title VI, § 6101](https://www.govinfo.gov/link/plaw/100/public/297), Apr. 28, 1988, [102 Stat. 424](https://www.govinfo.gov/link/statute/102/424); [Pub. L. 100–690, title VII, § 7524](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4502](https://www.govinfo.gov/link/statute/102/4502); [Pub. L. 101–166, title V, § 521(1)](https://www.govinfo.gov/link/plaw/101/public/166), Nov. 21, 1989, [103 Stat. 1192](https://www.govinfo.gov/link/statute/103/1192); [Pub. L. 103–414, title III, § 303(a)(9)](https://www.govinfo.gov/link/plaw/103/public/414), Oct. 25, 1994, [108 Stat. 4294](https://www.govinfo.gov/link/statute/108/4294); [Pub. L. 104–104, title V, § 502](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 133](https://www.govinfo.gov/link/statute/110/133); [Pub. L. 105–244, title I, § 102(a)(14)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1621](https://www.govinfo.gov/link/statute/112/1621); [Pub. L. 105–277, div. C, title XIV, § 1404(b)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–739](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 108–21, title VI, § 603](https://www.govinfo.gov/link/plaw/108/public/21), Apr. 30, 2003, [117 Stat. 687](https://www.govinfo.gov/link/statute/117/687); [Pub. L. 109–162, title I, § 113(a)](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 2987](https://www.govinfo.gov/link/statute/119/2987); [Pub. L. 113–4, title XI, § 1102](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 135](https://www.govinfo.gov/link/statute/127/135); [Pub. L. 119–12, § 2](https://www.govinfo.gov/link/plaw/119/public/12), May 19, 2025, [139 Stat. 55](https://www.govinfo.gov/link/statute/139/55).)*

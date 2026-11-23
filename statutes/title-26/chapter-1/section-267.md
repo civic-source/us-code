@@ -3,9 +3,10 @@ title: "Section 267 - Losses, expenses, and interest with respect to transaction
 usc_title: 26
 usc_section: "267"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 267"
-generated_at: "2026-03-30T02:55:27.658Z"
+generated_at: "2026-11-23T20:26:45.535Z"
+status: "active"
 ---
 
 # § 267. Losses, expenses, and interest with respect to transactions between related taxpayers
@@ -97,3 +98,25 @@ generated_at: "2026-03-30T02:55:27.658Z"
       - **(ii)** such redemption is upon the demand of another regulated investment company.
   - **(4)** For purposes of any other section of this title which refers to a relationship which would result in a disallowance of losses under this section, deferral under paragraph (2) shall be treated as disallowance.
 - **(g)** Subsection (a)(1) shall not apply to any transfer described in section 1041(a) (relating to transfers of property between spouses or incident to divorce).
+
+Subsections
+
+and
+
+Subsection
+
+(other than paragraph (1)).—
+
+In general
+
+Exception for transfers to foreign corporations on or before march 1, 1984
+
+Exception for existing indebtedness, etc.—
+
+In general
+
+Treatment of renegotiations, extensions, etc
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 78; [Pub. L. 95–628, § 2(a)](https://www.govinfo.gov/link/plaw/95/public/628), Nov. 10, 1978, [92 Stat. 3627](https://www.govinfo.gov/link/statute/92/3627); [Pub. L. 97–354, § 3(h)](https://www.govinfo.gov/link/plaw/97/public/354), Oct. 19, 1982, [96 Stat. 1689](https://www.govinfo.gov/link/statute/96/1689); [Pub. L. 98–369, div. A, title I, § 174(a)](https://www.govinfo.gov/link/plaw/98/public/369) –(b)(4), title VII, § 721(s), July 18, 1984, [98 Stat. 704–707](https://www.govinfo.gov/link/statute/98/704), 970; [Pub. L. 99–514, title VIII](https://www.govinfo.gov/link/plaw/99/public/514), §§ 803(b)(5), 806(c)(2), title XVIII, §§ 1812(c)(1), (2), (3)(C), (4)(A), 1842(a), Oct. 22, 1986, [100 Stat. 2356](https://www.govinfo.gov/link/statute/100/2356), 2364, 2834, 2835, 2852; [Pub. L. 100–647, title I](https://www.govinfo.gov/link/plaw/100/public/647), §§ 1006(e)(9), 1008(e)(6), Nov. 10, 1988, [102 Stat. 3401](https://www.govinfo.gov/link/statute/102/3401), 3441; [Pub. L. 105–34, title XIII, § 1308(a)](https://www.govinfo.gov/link/plaw/105/public/34), title XVI, § 1604(e)(1), Aug. 5, 1997, [111 Stat. 1041](https://www.govinfo.gov/link/statute/111/1041), 1098; [Pub. L. 106–170, title V, § 532(c)(2)(C)](https://www.govinfo.gov/link/plaw/106/public/170), Dec. 17, 1999, [113 Stat. 1930](https://www.govinfo.gov/link/statute/113/1930); [Pub. L. 108–357, title VIII, § 841(b)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1598](https://www.govinfo.gov/link/statute/118/1598); [Pub. L. 111–325, title III, § 306(b)](https://www.govinfo.gov/link/plaw/111/public/325), Dec. 22, 2010, [124 Stat. 3549](https://www.govinfo.gov/link/statute/124/3549); [Pub. L. 113–295, div. A, title II, § 221(a)(44)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4044](https://www.govinfo.gov/link/statute/128/4044); [Pub. L. 114–113, div. Q, title III, § 345(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3115](https://www.govinfo.gov/link/statute/129/3115).)*

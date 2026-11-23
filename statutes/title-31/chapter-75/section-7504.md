@@ -3,9 +3,10 @@ title: "Section 7504 - Federal agency responsibilities and relations with non-Fe
 usc_title: 31
 usc_section: "7504"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 7504"
-generated_at: "2026-03-30T02:55:34.076Z"
+generated_at: "2026-11-23T20:26:51.933Z"
+status: "active"
 ---
 
 # § 7504. Federal agency responsibilities and relations with non-Federal entities
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:55:34.076Z"
   - **(1)** the effectiveness of the strategy and analytic tools developed under subsection (f);
   - **(2)** reporting burdens for auditors and audited entities and the capacity of auditors and audited entities to fulfill the requirements under this chapter; and
   - **(3)** the responsiveness of Federal agencies to repeat single audit findings and corrective action plans.
+
+## Source Credit
+
+*(Added [Pub. L. 98–502, § 2(a)](https://www.govinfo.gov/link/plaw/98/public/502), Oct. 19, 1984, [98 Stat. 2333](https://www.govinfo.gov/link/statute/98/2333); amended [Pub. L. 104–156, § 2](https://www.govinfo.gov/link/plaw/104/public/156), July 5, 1996, [110 Stat. 1402](https://www.govinfo.gov/link/statute/110/1402); [Pub. L. 118–207, § 2](https://www.govinfo.gov/link/plaw/118/public/207), Dec. 23, 2024, [138 Stat. 2701](https://www.govinfo.gov/link/statute/138/2701).)*

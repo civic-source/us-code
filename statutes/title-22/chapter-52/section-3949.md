@@ -3,9 +3,10 @@ title: "Section 3949 - Limited appointments"
 usc_title: 22
 usc_section: "3949"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3949"
-generated_at: "2026-03-30T02:55:05.399Z"
+generated_at: "2026-11-23T20:26:32.485Z"
+status: "active"
 ---
 
 # § 3949. Limited appointments
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:05.399Z"
 - **(c)**
   - **(1)** Except as provided in paragraph (2) noncareer employees who have served for 5 consecutive years under a limited appointment under this section may be reappointed to a subsequent noncareer limited appointment if there is at least a 1-year break in service before such new appointment.
   - **(2)** The Secretary may waive the 1-year break requirement under paragraph (1) in cases of special need.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 309](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2086](https://www.govinfo.gov/link/statute/94/2086); [Pub. L. 100–204, title I, § 176](https://www.govinfo.gov/link/plaw/100/public/204), Dec. 22, 1987, [101 Stat. 1361](https://www.govinfo.gov/link/statute/101/1361); [Pub. L. 103–236, title I, § 180(a)(1)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 415](https://www.govinfo.gov/link/statute/108/415); [Pub. L. 103–415, § 1(hh)](https://www.govinfo.gov/link/plaw/103/public/415), Oct. 25, 1994, [108 Stat. 4303](https://www.govinfo.gov/link/statute/108/4303); [Pub. L. 114–323, title IV, § 409](https://www.govinfo.gov/link/plaw/114/public/323), Dec. 16, 2016, [130 Stat. 1930](https://www.govinfo.gov/link/statute/130/1930).)*

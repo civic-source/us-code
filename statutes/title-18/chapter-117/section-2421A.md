@@ -3,9 +3,10 @@ title: "Section 2421A - Promotion or facilitation of prostitution and reckless d
 usc_title: 18
 usc_section: "2421A"
 chapter: 117
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2421A"
-generated_at: "2026-03-30T02:54:16.506Z"
+generated_at: "2026-11-23T20:26:08.614Z"
+status: "active"
 ---
 
 # § 2421A. Promotion or facilitation of prostitution and reckless disregard of sex trafficking
@@ -17,3 +18,17 @@ generated_at: "2026-03-30T02:54:16.506Z"
 - **(c)** Any person injured by reason of a violation of section 2421A(b) may recover damages and reasonable attorneys’ fees in an action before any appropriate United States district court.
 - **(d)** Notwithstanding sections 3 3 So in original. Probably should be “section”. 3663 or 3663A and in addition to any other civil or criminal penalties authorized by law, the court shall order restitution for any violation of subsection (b)(2). The scope and nature of such restitution shall be consistent with section 2327(b).
 - **(e)** It shall be an affirmative defense to a charge of violating subsection (a), or subsection (b)(1) where the defendant proves, by a preponderance of the evidence, that the promotion or facilitation of prostitution is legal in the jurisdiction where the promotion or facilitation was targeted.
+
+In General
+
+Aggravated Violation
+
+Civil Recovery
+
+Mandatory Restitution
+
+Affirmative Defense
+
+## Source Credit
+
+*(Added [Pub. L. 115–164, § 3(a)](https://www.govinfo.gov/link/plaw/115/public/164), Apr. 11, 2018, [132 Stat. 1253](https://www.govinfo.gov/link/statute/132/1253).)*

@@ -3,9 +3,10 @@ title: "Section 1436 - Computation of reduction in retired pay; withdrawal for s
 usc_title: 10
 usc_section: "1436"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1436"
-generated_at: "2026-03-30T02:53:38.121Z"
+generated_at: "2026-11-23T20:25:51.328Z"
+status: "active"
 ---
 
 # § 1436. Computation of reduction in retired pay; withdrawal for severe financial hardship
@@ -16,3 +17,20 @@ generated_at: "2026-03-30T02:53:38.121Z"
   - **(2)** to withdraw from participation in an annuity program under this title; or
   - **(3)** to elect the annuity provided under clause (1) of section 1434(a) of this title in place of the annuity provided under clause (3) of such section, if on the first day for which retired or retainer pay is granted the member had in effect a valid election under clause (3) of such section, and he does not have a child beneficiary who would be eligible for the annuity provided under clause (3) of such section. For this purpose, a child (other than a child who is incapable of supporting himself because of a mental defect or physical incapacity existing before his eighteenth birthday) who is at least eighteen, but under twenty-three years of age shall not be considered an eligible beneficiary; or
   - **(4)** to elect that a child (other than a child who is incapable of supporting himself because of a mental defect or physical incapacity existing before his eighteenth birthday) who is at least eighteen, but under twenty-three years of age shall not be considered eligible for the annuity provided under clause (2) of section 1434(a) of this title , or for an annuity provided under section 1434(b) of this title , if on the first day for which retired or retainer pay is granted the member had in effect a valid election under clause (2) of section 1434(a) of this title , or under section 1434(b) of this title .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1436 | 37:373(c). | Aug. 8, 1953, ch. 393, § 4(c) , 67 Stat. 503 . |
+
+
+Historical and Revision Notes
+
+1436
+
+Aug. 8, 1953, ch. 393, § 4(c)
+
+67 Stat. 503
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 110; [Pub. L. 87–381, § 4](https://www.govinfo.gov/link/plaw/87/public/381), Oct. 4, 1961, [75 Stat. 811](https://www.govinfo.gov/link/statute/75/811); [Pub. L. 90–207, § 2(a)(3)](https://www.govinfo.gov/link/plaw/90/public/207), Dec. 16, 1967, [81 Stat. 653](https://www.govinfo.gov/link/statute/81/653); [Pub. L. 90–485, § 1(6)](https://www.govinfo.gov/link/plaw/90/public/485), Aug. 13, 1968, [82 Stat. 753](https://www.govinfo.gov/link/statute/82/753); [Pub. L. 92–425, § 1(2)(A)](https://www.govinfo.gov/link/plaw/92/public/425), Sept. 21, 1972, [86 Stat. 706](https://www.govinfo.gov/link/statute/86/706); [Pub. L. 104–106, div. A, title XV, § 1505(c)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 514](https://www.govinfo.gov/link/statute/110/514).)*

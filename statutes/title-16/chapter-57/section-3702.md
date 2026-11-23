@@ -3,9 +3,10 @@ title: "Section 3702 - Board of Directors of Foundation"
 usc_title: 16
 usc_section: "3702"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3702"
-generated_at: "2026-03-30T02:54:23.019Z"
+generated_at: "2026-11-23T20:26:20.668Z"
+status: "active"
 ---
 
 # § 3702. Board of Directors of Foundation
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:54:23.019Z"
     - **(B)** The Foundation shall have an Executive Director who shall be—
       - **(i)** appointed by, and serve at the direction of, the Board as the chief executive officer of the Foundation; and
       - **(ii)** knowledgeable and experienced in matters relating to fish and wildlife conservation.
+
+## Source Credit
+
+*([Pub. L. 98–244, § 3](https://www.govinfo.gov/link/plaw/98/public/244), Mar. 26, 1984, [98 Stat. 107](https://www.govinfo.gov/link/statute/98/107); [Pub. L. 101–593, title I, § 110(b)](https://www.govinfo.gov/link/plaw/101/public/593), Nov. 16, 1990, [104 Stat. 2959](https://www.govinfo.gov/link/statute/104/2959); [Pub. L. 103–232, title I, § 103(a)(1)](https://www.govinfo.gov/link/plaw/103/public/232), (b), Apr. 11, 1994, [108 Stat. 336](https://www.govinfo.gov/link/statute/108/336); [Pub. L. 106–408, title II, § 203(a)](https://www.govinfo.gov/link/plaw/106/public/408), (b), Nov. 1, 2000, [114 Stat. 1777](https://www.govinfo.gov/link/statute/114/1777), 1778; [Pub. L. 110–281, § 2](https://www.govinfo.gov/link/plaw/110/public/281), July 21, 2008, [122 Stat. 2617](https://www.govinfo.gov/link/statute/122/2617); [Pub. L. 116–188, title I, § 107(a)(1)](https://www.govinfo.gov/link/plaw/116/public/188), Oct. 30, 2020, [134 Stat. 917](https://www.govinfo.gov/link/statute/134/917).)*

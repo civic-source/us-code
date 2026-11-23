@@ -3,9 +3,10 @@ title: "Section 21 - Management authorities and purposes"
 usc_title: 16
 usc_section: "21"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 21"
-generated_at: "2026-03-30T02:54:22.843Z"
+generated_at: "2026-11-23T20:26:20.027Z"
+status: "active"
 ---
 
 # § 460nnn–21. Management authorities and purposes
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:22.843Z"
   - **(3)** provide for coordination with State, county, and private local landowners and the Burns Paiute Tribe; and
   - **(4)** determine measurable and achievable management objectives, consistent with the management objectives in section 460nnn–12 of this title , to ensure the ecological integrity of the area.
 - **(c)** The Secretary shall implement a monitoring program for Federal lands in the Cooperative Management and Protection Area so that progress towards ecological integrity objectives can be determined.
+
+## Source Credit
+
+*([Pub. L. 106–399, title I, § 111](https://www.govinfo.gov/link/plaw/106/public/399), Oct. 30, 2000, [114 Stat. 1659](https://www.govinfo.gov/link/statute/114/1659).)*

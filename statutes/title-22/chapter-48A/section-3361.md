@@ -3,9 +3,10 @@ title: "Section 3361 - Strategy to respond to influence and information operatio
 usc_title: 22
 usc_section: "3361"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3361"
-generated_at: "2026-03-30T02:55:05.392Z"
+generated_at: "2026-11-23T20:26:32.455Z"
+status: "active"
 ---
 
 # § 3361. Strategy to respond to influence and information operations targeting Taiwan
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:05.392Z"
   - **(2)** the proposed response to political influence operations that includes an assessment of the extent of influence exerted by the Government of the People’s Republic of China and the Chinese Communist Party in Taiwan on local political parties, financial institutions, media organizations, and other entities;
   - **(3)** support for exchanges and other technical assistance to strengthen the Taiwan legal system’s ability to respond to sharp power operations; and
   - **(4)** programs carried out by the Global Engagement Center to expose misinformation and disinformation in the Chinese Communist Party’s propaganda.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. E, title LV, § 5513](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3309](https://www.govinfo.gov/link/statute/136/3309).)*

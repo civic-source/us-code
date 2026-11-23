@@ -3,9 +3,10 @@ title: "Section 697e - Premier Certified Lenders Program"
 usc_title: 15
 usc_section: "697e"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 697e"
-generated_at: "2026-03-30T02:54:08.114Z"
+generated_at: "2026-11-23T20:26:03.881Z"
+status: "active"
 ---
 
 # § 697e. Premier Certified Lenders Program
@@ -104,3 +105,17 @@ generated_at: "2026-03-30T02:54:08.114Z"
   - **(2)** the debenture guarantee volume of such companies;
   - **(3)** a comparison of the loss rate for premier certified lenders to the loss rate for accredited and other lenders, specifically comparing default rates and recovery rates on liquidations; and
   - **(4)** such other information as the Administration deems appropriate.
+
+Establishment.
+
+Amount.
+
+Assets.
+
+Contributions.
+
+“The Administrator shall—
+
+## Source Credit
+
+*([Pub. L. 85–699, title V, § 508](https://www.govinfo.gov/link/plaw/85/public/699), as added and amended [Pub. L. 103–403, title II, § 217](https://www.govinfo.gov/link/plaw/103/public/403), Oct. 22, 1994, [108 Stat. 4185](https://www.govinfo.gov/link/statute/108/4185); [Pub. L. 105–135, title II, § 223(a)](https://www.govinfo.gov/link/plaw/105/public/135), Dec. 2, 1997, [111 Stat. 2604](https://www.govinfo.gov/link/statute/111/2604); [Pub. L. 106–554, § 1(a)(9) [title III, §§ 305, 306]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–685; [Pub. L. 108–232](https://www.govinfo.gov/link/plaw/108/public/232), §§ 2–3(c), May 28, 2004, [118 Stat. 649–652](https://www.govinfo.gov/link/statute/118/649).)*

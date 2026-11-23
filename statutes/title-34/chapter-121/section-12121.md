@@ -3,9 +3,10 @@ title: "Section 12121 - Task force on prison construction standardization and te
 usc_title: 34
 usc_section: "12121"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12121"
-generated_at: "2026-03-30T02:55:33.283Z"
+generated_at: "2026-11-23T20:26:50.535Z"
+status: "active"
 ---
 
 # § 12121. Task force on prison construction standardization and techniques
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:33.283Z"
   - **(1)** work to promote the implementation of cost-saving efforts at the Federal, State, and local levels;
   - **(2)** evaluate and advise on the results and effectiveness of such cost-saving efforts as adopted, broadly disseminating information on the results; and
   - **(3)** to the extent feasible, certify the effectiveness of the cost-savings efforts.
+
+## Source Credit
+
+*([Pub. L. 103–322, title II, § 20406](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1826](https://www.govinfo.gov/link/statute/108/1826).)*

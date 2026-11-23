@@ -3,9 +3,10 @@ title: "Section 2106 - Definitions"
 usc_title: 15
 usc_section: "2106"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2106"
-generated_at: "2026-03-30T02:54:08.167Z"
+generated_at: "2026-11-23T20:26:04.173Z"
+status: "active"
 ---
 
 # § 2106. Definitions
@@ -21,3 +22,7 @@ For purposes of this chapter:
   - **(7)** The term “United States” means the States, the District of Columbia, and the Commonwealth of Puerto Rico.
   - **(8)** The term “collectibles certification service” means a person recognized by collectors for providing independent certification that collectible items are genuine.
   - **(9)** The term “Trademark Act of 1946” means the Act entitled “An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes”, approved July 5, 1946 ( 15 U.S.C. 1051 et seq.).
+
+## Source Credit
+
+*([Pub. L. 93–167, § 7](https://www.govinfo.gov/link/plaw/93/public/167), Nov. 29, 1973, [87 Stat. 687](https://www.govinfo.gov/link/statute/87/687); [Pub. L. 113–288, § 2(3)](https://www.govinfo.gov/link/plaw/113/public/288), Dec. 19, 2014, [128 Stat. 3281](https://www.govinfo.gov/link/statute/128/3281).)*

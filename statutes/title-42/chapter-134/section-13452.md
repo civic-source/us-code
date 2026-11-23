@@ -3,9 +3,10 @@ title: "Section 13452 - Natural gas and electric heating and cooling technologie
 usc_title: 42
 usc_section: "13452"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13452"
-generated_at: "2026-03-30T02:56:11.445Z"
+generated_at: "2026-11-23T20:27:23.498Z"
+status: "active"
 ---
 
 # § 13452. Natural gas and electric heating and cooling technologies
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.445Z"
     - **(B)** thermal storage; and
     - **(C)** advanced electric HVAC (heating, ventilating, and air conditioning) and refrigeration systems that utilize replacements for chlorofluorocarbons.
 - **(b)** Within 180 days after October 24, 1992 , the Secretary shall solicit proposals for conducting activities under this section.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XXI, § 2102](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3068](https://www.govinfo.gov/link/statute/106/3068).)*

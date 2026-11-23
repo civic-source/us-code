@@ -3,9 +3,10 @@ title: "Section 31148 - Certified motor carrier safety auditors"
 usc_title: 49
 usc_section: "31148"
 chapter: 311
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 31148"
-generated_at: "2026-03-30T02:56:19.359Z"
+generated_at: "2026-11-23T20:27:34.959Z"
+status: "active"
 ---
 
 # § 31148. Certified motor carrier safety auditors
@@ -17,3 +18,17 @@ generated_at: "2026-03-30T02:56:19.359Z"
 - **(c)** If the Secretary determines that subsection (b) cannot be implemented within the 1-year period established by that subsection and notifies the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of the determination and the reasons therefor, the Secretary may extend the deadline for compliance with subsection (b) by not more than 12 months.
 - **(d)** The Secretary may not delegate the Secretary’s authority to private contractors to issue ratings or operating authority, and nothing in this section authorizes any private contractor to issue ratings or operating authority.
 - **(e)** The Secretary shall have authority over any motor carrier safety auditor certified under subsection (a), including the authority to decertify a motor carrier safety auditor.
+
+In General
+
+Certified Inspection Audit Requirement
+
+Extension
+
+Application With Other Authority
+
+Oversight Responsibility
+
+## Source Credit
+
+*(Added [Pub. L. 106–159, title II, § 211(a)](https://www.govinfo.gov/link/plaw/106/public/159), Dec. 9, 1999, [113 Stat. 1765](https://www.govinfo.gov/link/statute/113/1765).)*

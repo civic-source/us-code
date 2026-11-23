@@ -3,9 +3,10 @@ title: "Section 1452c - Nullification of right of redemption of single family mo
 usc_title: 42
 usc_section: "1452c"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1452c"
-generated_at: "2026-03-30T02:56:11.093Z"
+generated_at: "2026-11-23T20:27:21.771Z"
+status: "active"
 ---
 
 # § 1452c. Nullification of right of redemption of single family mortgagors under rehabilitation loan program
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.093Z"
 - **(d)** For purposes of this section:
   - **(1)** The term “mortgage” means a deed of trust, mortgage, deed to secure debt, security agreement, or any other form of instrument under which any interest in property, real, personal, or mixed, or any interest in property, including leaseholds, life estates, reversionary interests, and any other estates under applicable State law, is conveyed in trust, mortgaged, encumbered, pledged, or otherwise rendered subject to a lien, for the purpose of securing the payment of money or the performance of an obligation.
   - **(2)** The term “single family mortgage” means a mortgage that covers property that includes a 1- to 4-family residence.
+
+## Source Credit
+
+*([Pub. L. 101–235, title VII, § 701](https://www.govinfo.gov/link/plaw/101/public/235), Dec. 15, 1989, [103 Stat. 2055](https://www.govinfo.gov/link/statute/103/2055).)*

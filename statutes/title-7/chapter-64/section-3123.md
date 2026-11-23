@@ -3,9 +3,10 @@ title: "Section 3123 - National Agricultural Research, Extension, Education, and
 usc_title: 7
 usc_section: "3123"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 3123"
-generated_at: "2026-03-30T02:53:42.393Z"
+generated_at: "2026-11-23T20:25:41.557Z"
+status: "active"
 ---
 
 # § 3123. National Agricultural Research, Extension, Education, and Economics Advisory Board
@@ -71,3 +72,7 @@ generated_at: "2026-03-30T02:53:42.393Z"
   - **(1)** Not more than $500,000 may be used to cover the necessary expenses of the Advisory Board for each fiscal year.
   - **(2)** The expenses of the Advisory Board shall not be counted toward any general limitation on the expenses of advisory committees, panels, commissions, and task forces of the Department of Agriculture contained in any Act making appropriations for the Department of Agriculture, whether enacted before, on, or after June 23, 1998 , unless the appropriation Act specifically refers to this subsection and specifically includes this Advisory Board within the general limitation.
 - **(h)** The Advisory Board shall remain in existence until September 30, 2023 .
+
+## Source Credit
+
+*([Pub. L. 95–113, title XIV, § 1408](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 988](https://www.govinfo.gov/link/statute/91/988); [Pub. L. 97–98, title XIV, § 1408](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1300](https://www.govinfo.gov/link/statute/95/1300); [Pub. L. 99–198, title XIV, § 1406](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1545](https://www.govinfo.gov/link/statute/99/1545); [Pub. L. 101–624, title XVI, § 1604(b)](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3709](https://www.govinfo.gov/link/statute/104/3709); [Pub. L. 102–237, title IV, § 402(2)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1863](https://www.govinfo.gov/link/statute/105/1863); [Pub. L. 104–66, title I](https://www.govinfo.gov/link/plaw/104/public/66), §§ 1011(t), 1012(f), Dec. 21, 1995, [109 Stat. 710](https://www.govinfo.gov/link/statute/109/710), 712; [Pub. L. 104–127, title VIII, § 802(a)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1156](https://www.govinfo.gov/link/statute/110/1156); [Pub. L. 105–185, title II, § 222](https://www.govinfo.gov/link/plaw/105/public/185), June 23, 1998, [112 Stat. 538](https://www.govinfo.gov/link/statute/112/538); [Pub. L. 107–171, title VII](https://www.govinfo.gov/link/plaw/107/public/171), §§ 7133, 7209(a), May 13, 2002, [116 Stat. 435](https://www.govinfo.gov/link/statute/116/435), 444; [Pub. L. 110–234, title VII](https://www.govinfo.gov/link/plaw/110/public/234), §§ 7102(a), 7511(c)(8), May 22, 2008, [122 Stat. 1214](https://www.govinfo.gov/link/statute/122/1214), 1268; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, §§ 7102(a), 7511(c)(8), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1975, 2029; [Pub. L. 113–79, title VII, § 7102](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 863](https://www.govinfo.gov/link/statute/128/863); [Pub. L. 115–334, title VII, § 7103](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4781](https://www.govinfo.gov/link/statute/132/4781); [Pub. L. 117–286, § 4(a)(31)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4308](https://www.govinfo.gov/link/statute/136/4308).)*

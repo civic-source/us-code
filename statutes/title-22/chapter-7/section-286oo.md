@@ -3,9 +3,10 @@ title: "Section 286oo - Principles for International Monetary Fund lending"
 usc_title: 22
 usc_section: "286oo"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 286oo"
-generated_at: "2026-03-30T02:55:05.320Z"
+generated_at: "2026-11-23T20:26:32.016Z"
+status: "active"
 ---
 
 # § 286oo. Principles for International Monetary Fund lending
@@ -24,3 +25,7 @@ It is the policy of the United States to work to implement reforms in the Intern
     - **(C)** making public cases of serious misreporting of material information;
     - **(D)** requiring all members receiving new disbursements from the Fund to undertake annually independent audits of central bank financial statements and publish the resulting audits; and
     - **(E)** requiring all members seeking new loans from the Fund to provide to the Fund detailed information regarding their internal control procedures, financial reporting and audit mechanisms and, in cases where there are questions about the adequacy of these systems, undertaking an on-site review and identifying needed remedies.
+
+## Source Credit
+
+*(July 31, 1945, ch. 339, § 63, as added [Pub. L. 106–429, § 101(a) [title VIII, § 805]](https://www.govinfo.gov/link/plaw/106/public/429), Nov. 6, 2000, [114 Stat. 1900](https://www.govinfo.gov/link/statute/114/1900), 1900A–67.)*

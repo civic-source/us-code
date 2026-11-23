@@ -3,9 +3,10 @@ title: "Section 16303 - Loan repayment program: chaplains serving in the Selecte
 usc_title: 10
 usc_section: "16303"
 chapter: 1609
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 16303"
-generated_at: "2026-03-30T02:53:38.279Z"
+generated_at: "2026-11-23T20:25:52.495Z"
+status: "active"
 ---
 
 # § 16303. Loan repayment program: chaplains serving in the Selected Reserve
@@ -20,3 +21,17 @@ generated_at: "2026-03-30T02:53:38.279Z"
   - **(2)** The amount of any repayment of a loan made under subsection (a) on behalf of a person may not exceed $20,000 for each three year period of obligated service that the person agrees to serve in an agreement described in subsection (a)(3). Of such amount, not more than an amount equal to 50 percent of such amount may be paid before the completion by the person of the first year of obligated service pursuant to the agreement. The balance of such amount shall be payable at such time or times as are prescribed in regulations.
 - **(d)** A person on whose behalf a loan is repaid under subsection (a) who fails to commence or complete the period of obligated service specified in the agreement described in subsection (a)(3) shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
 - **(e)** The Secretary of Defense shall prescribe regulations to carry out this section.
+
+Authority to Repay Education Loans
+
+Exception for Chaplain Candidate Program
+
+Loan Repayment Process; Maximum Amount
+
+Effect of Failure to Complete Obligation
+
+Regulations
+
+## Source Credit
+
+*(Added and amended [Pub. L. 109–163, div. A, title VI](https://www.govinfo.gov/link/plaw/109/public/163), §§ 684(a), 687(c)(14), Jan. 6, 2006, [119 Stat. 3324](https://www.govinfo.gov/link/statute/119/3324), 3335; [Pub. L. 115–91, div. A, title VI, § 618(a)(1)(Q)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1426](https://www.govinfo.gov/link/statute/131/1426).)*

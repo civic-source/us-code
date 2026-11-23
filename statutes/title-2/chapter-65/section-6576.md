@@ -3,9 +3,10 @@ title: "Section 6576 - Senate Gift Shop"
 usc_title: 2
 usc_section: "6576"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 6576"
-generated_at: "2026-03-30T02:53:04.842Z"
+generated_at: "2026-11-23T20:25:29.078Z"
+status: "active"
 ---
 
 # § 6576. Senate Gift Shop
@@ -21,3 +22,11 @@ generated_at: "2026-03-30T02:53:04.842Z"
 - **(f)** For the purpose of acquiring supplies, equipment, and meeting other initial expenses in implementing subsection (a), the Secretary of the Senate is authorized, upon October 6, 1992 , to expend, from moneys appropriated to the appropriations account, within the contingent fund of the Senate, for expenses of the Secretary of the Senate, by the Legislative Branch Appropriations Act, 1991, such amounts as may be necessary to carry out this section.
 - **(g)** Disbursements from the fund shall be made upon vouchers approved by the Secretary of the Senate, or his designee.
 - **(h)** The Secretary of the Senate is authorized to prescribe such regulations as may be necessary to carry out the provisions of this section.
+
+Salaries, Officers and Employees
+
+Office of the Secretary
+
+## Source Credit
+
+*([Pub. L. 102–392, title I, § 2](https://www.govinfo.gov/link/plaw/102/public/392), Oct. 6, 1992, [106 Stat. 1706](https://www.govinfo.gov/link/statute/106/1706); [Pub. L. 107–68, title I, § 107(a)](https://www.govinfo.gov/link/plaw/107/public/68), Nov. 12, 2001, [115 Stat. 568](https://www.govinfo.gov/link/statute/115/568); [Pub. L. 110–39, § 1](https://www.govinfo.gov/link/plaw/110/public/39), June 21, 2007, [121 Stat. 231](https://www.govinfo.gov/link/statute/121/231).)*

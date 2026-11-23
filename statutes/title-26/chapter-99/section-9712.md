@@ -3,9 +3,10 @@ title: "Section 9712 - Establishment and coverage of 1992 UMWA Benefit Plan"
 usc_title: 26
 usc_section: "9712"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 9712"
-generated_at: "2026-03-30T02:55:27.894Z"
+generated_at: "2026-11-23T20:26:46.894Z"
+status: "active"
 ---
 
 # § 9712. Establishment and coverage of 1992 UMWA Benefit Plan
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:55:27.894Z"
   - **(4)** A 1988 last signatory operator or last signatory operator described in paragraph (3), and any related person to any such operator, shall be jointly and severally liable with such operator for any amount required to be paid by such operator under this section. The provisions of section 9711(c)(2) shall apply to any last signatory operator described in such section (without regard to whether security is provided under such section, a payment is made under section 9704(j), or both) and if security meeting the requirements of section 9711(c)(3) is provided, the common parent described in section 9711(c)(2)(B) shall be exclusively responsible for any liability for premiums under this section which, but for this sentence, would be required to be paid by the last signatory operator or any related person.
   - **(5)** Any premium required by this section shall be deductible without regard to any limitation on deductibility based on the prefunding of health benefits.
   - **(6)** For purposes of this section, the term “1988 last signatory operator” means a last signatory operator which is a 1988 agreement operator.
+
+## Source Credit
+
+*(Added [Pub. L. 102–486, title XIX, § 19143(a)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3053](https://www.govinfo.gov/link/statute/106/3053); amended [Pub. L. 109–432, div. C, title II](https://www.govinfo.gov/link/plaw/109/public/432), §§ 211(c), 212(b)(1)–(2)(B), Dec. 20, 2006, [120 Stat. 3023](https://www.govinfo.gov/link/statute/120/3023), 3025, 3026; [Pub. L. 115–141, div. U, title IV, § 401(a)(348)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1201](https://www.govinfo.gov/link/statute/132/1201).)*

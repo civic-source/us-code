@@ -3,9 +3,10 @@ title: "Section 6311 - Organizational expenses of Senator-elect"
 usc_title: 2
 usc_section: "6311"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 6311"
-generated_at: "2026-03-30T02:53:04.839Z"
+generated_at: "2026-11-23T20:25:29.070Z"
+status: "active"
 ---
 
 # § 6311. Organizational expenses of Senator-elect
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:04.839Z"
   - **(1)** Each Senator-elect is authorized to be reimbursed for expenses incurred for telegrams, telephone services, and stationery related to his position as a Senator-elect in an amount not exceeding one-twelfth of the total amount of expenses authorized to be paid to or on behalf of a Senator from the State which he will represent under section 6314 of this title . Reimbursement to a Senator-elect under this subsection shall be paid from the contingent fund of the Senate upon itemized vouchers certified by such Senator-elect and approved by the Secretary of the Senate.
   - **(2)** Amounts reimbursed to a Senator-elect under this subsection shall be charged against the amount of expenses which are authorized to be paid to him or on his behalf under section 6314 of this title , for each of the twelve months beginning with the month in which his service as a Senator commences (until all of such amounts have been charged) by whichever of the following amounts is greater: (1) one-twelfth of the amounts so reimbursed, or (2) the amount by which the aggregate amount authorized to be so paid under section 6314(c) of this title as of the close of such month exceeds the aggregate amount actually paid under such section 6314 as of the close of such month.
 - **(e)** This section shall take effect on October 1, 1978 .
+
+## Source Credit
+
+*([Pub. L. 95–355, title I, § 105](https://www.govinfo.gov/link/plaw/95/public/355), Sept. 8, 1978, [92 Stat. 534](https://www.govinfo.gov/link/statute/92/534); [Pub. L. 104–197, title I, § 2](https://www.govinfo.gov/link/plaw/104/public/197), Sept. 16, 1996, [110 Stat. 2397](https://www.govinfo.gov/link/statute/110/2397).)*

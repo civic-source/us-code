@@ -3,9 +3,10 @@ title: "Section 18081 - Procedures for determining eligibility for Exchange part
 usc_title: 42
 usc_section: "18081"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18081"
-generated_at: "2026-03-30T02:56:11.515Z"
+generated_at: "2026-11-23T20:27:23.784Z"
+status: "active"
 ---
 
 # § 18081. Procedures for determining eligibility for Exchange participation, premium tax credits and reduced cost-sharing, and individual responsibility exemptions
@@ -109,3 +110,13 @@ generated_at: "2026-03-30T02:56:11.515Z"
     - **(A)** The rights of employees to preserve their right to confidentiality of their taxpayer return information and their right to enroll in a qualified health plan through an Exchange if an employer does not provide affordable coverage.
     - **(B)** The rights of employers to adequate due process and access to information necessary to accurately determine any payment assessed on employers.
   - **(2)** Not later than January 1, 2013 , the Secretary of Health and Human Services shall report the results of the study conducted under paragraph (1), including any recommendations for legislative changes, to the Committees on Finance and Health, Education, Labor and Pensions of the Senate and the Committees of 4 4 So in original. Probably should be “on”. Education and Labor and Ways and Means of the House of Representatives.
+
+In General
+
+Report by Secretary
+
+Report by Inspector General
+
+## Source Credit
+
+*([Pub. L. 111–148, title I, § 1411](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 224](https://www.govinfo.gov/link/statute/124/224); [Pub. L. 114–255, div. C, title XVIII, § 18001(a)(6)(B)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1342](https://www.govinfo.gov/link/statute/130/1342); [Pub. L. 119–21, title VII, § 71301(c)(1)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 322](https://www.govinfo.gov/link/statute/139/322).)*

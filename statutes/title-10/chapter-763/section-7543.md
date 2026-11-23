@@ -3,9 +3,10 @@ title: "Section 7543 - Army industrial facilities: sales of manufactured article
 usc_title: 10
 usc_section: "7543"
 chapter: 763
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 7543"
-generated_at: "2026-03-30T02:53:38.234Z"
+generated_at: "2026-11-23T20:25:52.102Z"
+status: "active"
 ---
 
 # § 7543. Army industrial facilities: sales of manufactured articles or services outside Department of Defense
@@ -41,3 +42,15 @@ generated_at: "2026-03-30T02:53:38.234Z"
   - **(4)** The term “variable costs”, with respect to sales of articles or services, means the costs that are expected to fluctuate directly with the volume of sales and—
     - **(A)** in the case of articles, the volume of production necessary to satisfy the sales orders; or
     - **(B)** in the case of services, the extent of the services sold.
+
+Authority To Sell Outside DOD
+
+Additional Requirements
+
+Relationship to Arms Export Control Act
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 103–160, div. A, title I, § 158(a)(1)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1581](https://www.govinfo.gov/link/statute/107/1581), § 4543; amended [Pub. L. 103–337, div. A, title I, § 141](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2688](https://www.govinfo.gov/link/statute/108/2688); renumbered § 7543, [Pub. L. 115–232, div. A, title VIII, § 808(d)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1839](https://www.govinfo.gov/link/statute/132/1839).)*

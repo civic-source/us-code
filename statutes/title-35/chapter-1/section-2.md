@@ -3,9 +3,10 @@ title: "Section 2 - Powers and duties"
 usc_title: 35
 usc_section: "2"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "35 U.S.C. § 2"
-generated_at: "2026-03-30T02:55:34.233Z"
+generated_at: "2026-11-23T20:26:49.103Z"
+status: "active"
 ---
 
 # § 2. Powers and duties
@@ -47,3 +48,71 @@ generated_at: "2026-03-30T02:55:34.233Z"
   - **(4)** In exercising the Director’s powers under paragraphs (3) and (4)(A) of subsection (b), the Director shall consult with the Administrator of General Services.
   - **(5)** In exercising the Director’s powers and duties under this section, the Director shall consult with the Register of Copyrights on all copyright and related matters.
 - **(d)** Nothing in this section shall be construed to nullify, void, cancel, or interrupt any pending request-for-proposal let or contract issued by the General Services Administration for the specific purpose of relocating or leasing space to the United States Patent and Trademark Office.
+
+In General
+
+Specific Powers
+
+Clarification of Specific Powers
+
+Construction
+
+Study and Updates.—
+
+In general
+
+Scope of the study
+
+Use of Results
+
+Expansion of Income Eligibility.—
+
+In general
+
+Rule of construction
+
+In General
+
+Public Notice
+
+Statement Required
+
+Other Laws
+
+Emergency Period
+
+Rule of Construction
+
+Sunset
+
+Definitions
+
+Director
+
+Trademark act
+
+Emergency Requirement
+
+Establishment
+
+Report on the Program
+
+Definitions
+
+Office
+
+Program
+
+Director
+
+In General
+
+Effective Date
+
+Electronic Filing and Processing
+
+Authorization of Appropriations
+
+## Source Credit
+
+*(July 19, 1952, ch. 950, [66 Stat. 792](https://www.govinfo.gov/link/statute/66/792); [Pub. L. 93–596, § 1](https://www.govinfo.gov/link/plaw/93/public/596), Jan. 2, 1975, [88 Stat. 1949](https://www.govinfo.gov/link/statute/88/1949); [Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4712]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–572; [Pub. L. 106–400, § 2](https://www.govinfo.gov/link/plaw/106/public/400), Oct. 30, 2000, [114 Stat. 1675](https://www.govinfo.gov/link/statute/114/1675); [Pub. L. 107–273, div. C, title III, § 13206(a)(1)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1904](https://www.govinfo.gov/link/statute/116/1904); [Pub. L. 108–178, § 4(g)](https://www.govinfo.gov/link/plaw/108/public/178), Dec. 15, 2003, [117 Stat. 2641](https://www.govinfo.gov/link/statute/117/2641); [Pub. L. 111–350, § 5(i)(1)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3849](https://www.govinfo.gov/link/statute/124/3849); [Pub. L. 112–29](https://www.govinfo.gov/link/plaw/112/public/29), §§ 20(j), 21(a), 25, Sept. 16, 2011, [125 Stat. 335](https://www.govinfo.gov/link/statute/125/335), 337.)*

@@ -3,9 +3,10 @@ title: "Section 7589 - California pilot test program"
 usc_title: 42
 usc_section: "7589"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7589"
-generated_at: "2026-03-30T02:56:11.318Z"
+generated_at: "2026-11-23T20:27:22.928Z"
+status: "active"
 ---
 
 # § 7589. California pilot test program
@@ -41,3 +42,21 @@ generated_at: "2026-03-30T02:56:11.318Z"
     - **(B)** Provisions to exempt clean-fuel vehicles from high occupancy vehicle or trip reduction requirements.
     - **(C)** Provisions to provide preference in the use of existing parking spaces for clean-fuel vehicles.
   - **(4)** The regulations and plan revisions under paragraphs (1) and (2) shall not include any production or sales mandate for clean-fuel vehicles or clean alternative fuels. Such regulations and plan revisions shall also provide that vehicle manufacturers and fuel suppliers may not be subject to penalties or sanctions for failing to produce or sell clean-fuel vehicles or clean alternative fuels.
+
+| Model Years | Number of Clean-Fuel Vehicles |
+| --- | --- |
+| 1996, 1997, 1998 | 150,000 vehicles |
+| 1999 and thereafter | 300,000 vehicles |
+
+
+1996, 1997, 1998
+
+1999 and thereafter
+
+Regulations and administration
+
+Standards for issuing credits for cleaner vehicles
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title II, § 249, as added [Pub. L. 101–549, title II, § 229(a)](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2525](https://www.govinfo.gov/link/statute/104/2525).)*

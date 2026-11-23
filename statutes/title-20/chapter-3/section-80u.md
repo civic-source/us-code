@@ -3,9 +3,10 @@ title: "Section 80u - National Museum of the American Latino"
 usc_title: 20
 usc_section: "80u"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 80u"
-generated_at: "2026-03-30T02:54:48.081Z"
+generated_at: "2026-11-23T20:26:14.240Z"
+status: "active"
 ---
 
 # § 80u. National Museum of the American Latino
@@ -155,3 +156,33 @@ generated_at: "2026-03-30T02:54:48.081Z"
     - **(B)** such sums as are necessary for each fiscal year thereafter.
   - **(2)** Amounts appropriated pursuant to the authorization of appropriations under paragraph (1) shall remain available until expended.
   - **(3)** Amounts appropriated pursuant to the authorization under this subsection may be used to conduct fundraising in support of the Museum from private sources.
+
+(aa) the social, natural, and physical sciences; and
+
+(bb) art, history, and culture, including food, music, dance, film, theater, sports, and other forms of popular culture in the United States; and
+
+(aa) The Arts and Industries Building of the Smithsonian Institution, located on the National Mall at 900 Jefferson Drive, Southwest, Washington, District of Columbia.
+
+(bb) A vacant area bounded by Independence Avenue, Jefferson Drive, Raoul Wallenberg Place, and 14th Street Southwest, currently under the jurisdiction of the National Park Service.
+
+(cc) The area bounded by 3rd Street and 1st Street, Northwest and Constitution Avenue and Pennsylvania Avenue, Northwest, as measured from curb to curb, currently under the jurisdiction of the Architect of the Capitol.
+
+(dd) The facility and grounds on the National Mall between 12th and 14th Streets, Southwest, and Jefferson Drive and Independence Avenue, Southwest, currently under the jurisdiction of the Department of Agriculture.
+
+(aa) The Committee on Rules and Administration of the Senate.
+
+(bb) The Committee on House Administration of the House of Representatives.
+
+(cc) The Committee on Energy and Natural Resources of the Senate.
+
+(dd) The Committee on Natural Resources of the House of Representatives.
+
+(ee) The Committee on Transportation and Infrastructure of the House of Representatives.
+
+(ff) The Committee on Appropriations of the House of Representatives.
+
+(gg) The Committee on Appropriations of the Senate.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. T, title II, § 201](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2278](https://www.govinfo.gov/link/statute/134/2278).)*

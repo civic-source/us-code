@@ -3,9 +3,10 @@ title: "Section 6566 - Authority to procure technical support and other services
 usc_title: 2
 usc_section: "6566"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 6566"
-generated_at: "2026-03-30T02:53:04.842Z"
+generated_at: "2026-11-23T20:25:29.077Z"
+status: "active"
 ---
 
 # § 6566. Authority to procure technical support and other services and incur travel expenses; payment of such expenses
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:04.842Z"
   - **(3)** with the prior consent of the Government department or agency concerned and the Committee on Rules and Administration, to use on a reimbursable basis the services of personnel of any such department or agency, and
   - **(4)** to incur official travel expenses. Payments to carry out the provisions of this paragraph shall be made from funds included in the appropriation “Miscellaneous Items” under the heading “Contingent Expenses of the Senate” upon vouchers approved by the Secretary of the Senate. All sums received by the Secretary under authority of the Federal Election Campaign Act of 1971 shall be covered into the Treasury as miscellaneous receipts.
 
+
+## Source Credit
+
+*([Pub. L. 92–342, § 101](https://www.govinfo.gov/link/plaw/92/public/342), July 10, 1972, [86 Stat. 435](https://www.govinfo.gov/link/statute/86/435).)*

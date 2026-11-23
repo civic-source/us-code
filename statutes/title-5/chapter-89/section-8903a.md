@@ -3,9 +3,10 @@ title: "Section 8903a - Additional health benefits plans"
 usc_title: 5
 usc_section: "8903a"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8903a"
-generated_at: "2026-03-30T02:52:56.067Z"
+generated_at: "2026-11-23T20:25:32.243Z"
+status: "active"
 ---
 
 # § 8903a. Additional health benefits plans
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:52:56.067Z"
   - **(1)** to enter into an agreement approved by the Office with an underwriting subcontractor licensed to issue group health insurance in all the States and the District of Columbia; or
   - **(2)** to demonstrate ability to meet reasonable minimum financial standards prescribed by the Office.
 - **(d)** For the purpose of this section, an individual shall be considered a full member of an organization if such individual is eligible to exercise all rights and privileges incident to full membership in such organization (determined without regard to the right to hold elected office).
+
+## Source Credit
+
+*(Added [Pub. L. 99–53, § 1(b)(1)](https://www.govinfo.gov/link/plaw/99/public/53), June 17, 1985, [99 Stat. 93](https://www.govinfo.gov/link/statute/99/93).)*

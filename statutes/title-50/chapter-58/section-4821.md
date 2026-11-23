@@ -3,9 +3,10 @@ title: "Section 4821 - Administrative procedure"
 usc_title: 50
 usc_section: "4821"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4821"
-generated_at: "2026-03-30T02:56:26.284Z"
+generated_at: "2026-11-23T20:27:31.148Z"
+status: "active"
 ---
 
 # § 4821. Administrative procedure
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:26.284Z"
     - **(B)** designate properly appointed administrative law judges from other Federal agencies who are provided to the Department of Commerce pursuant to a legally authorized interagency agreement.
   - **(2)** An administrative law judge appointed or designated by the Secretary under paragraph (1) may preside only over proceedings of the Department of Commerce.
 - **(c)** The President shall notify in advance the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Foreign Affairs of the House of Representatives of any proposed amendments to the Export Administration Regulations with an explanation of the intent and rationale of such amendments.
+
+## Source Credit
+
+*([Pub. L. 115–232, div. A, title XVII, § 1762](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2231](https://www.govinfo.gov/link/statute/132/2231).)*

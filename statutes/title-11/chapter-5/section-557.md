@@ -3,9 +3,10 @@ title: "Section 557 - Expedited determination of interests in, and abandonment o
 usc_title: 11
 usc_section: "557"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 557"
-generated_at: "2026-03-30T02:53:53.880Z"
+generated_at: "2026-11-23T20:25:55.376Z"
+status: "active"
 ---
 
 # § 557. Expedited determination of interests in, and abandonment or other disposition of grain assets
@@ -59,3 +60,7 @@ generated_at: "2026-03-30T02:53:53.880Z"
   - **(1)** The trustee may recover from grain and the proceeds of grain the reasonable and necessary costs and expenses allowable under section 503(b) of this title attributable to preserving or disposing of grain or the proceeds of grain, but may not recover from such grain or the proceeds of grain any other costs or expenses.
   - **(2)** Notwithstanding section 326(a) of this title , the dollar amounts of money specified in such section include the value, as of the date of disposition, of any grain that the trustee distributes in kind.
 - **(i)** In all cases where the quantity of a specific type of grain held by a debtor operating a grain storage facility exceeds ten thousand bushels, such grain shall be sold by the trustee and the assets thereof distributed in accordance with the provisions of this section.
+
+## Source Credit
+
+*(Added [Pub. L. 98–353, title III, § 352(a)](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 359](https://www.govinfo.gov/link/statute/98/359); amended [Pub. L. 99–554, title II, § 257(p)](https://www.govinfo.gov/link/plaw/99/public/554), Oct. 27, 1986, [100 Stat. 3115](https://www.govinfo.gov/link/statute/100/3115); [Pub. L. 116–54, § 4(a)(10)](https://www.govinfo.gov/link/plaw/116/public/54), Aug. 23, 2019, [133 Stat. 1086](https://www.govinfo.gov/link/statute/133/1086).)*

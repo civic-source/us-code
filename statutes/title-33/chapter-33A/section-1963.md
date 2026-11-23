@@ -3,9 +3,10 @@ title: "Section 1963 - Rights and obligations of the Foundation"
 usc_title: 33
 usc_section: "1963"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1963"
-generated_at: "2026-03-30T02:55:41.111Z"
+generated_at: "2026-11-23T20:26:54.107Z"
+status: "active"
 ---
 
 # § 1963. Rights and obligations of the Foundation
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:55:41.111Z"
 - **(i)** Nothing in this chapter may be construed—
   - **(1)** to satisfy any requirement for government-to-government consultation with Tribal Governments; or
   - **(2)** to affect or modify any treaty or other right of any Tribal Government.
+
+## Source Credit
+
+*([Pub. L. 109–449, § 113](https://www.govinfo.gov/link/plaw/109/public/449), formerly [Pub. L. 116–224, title I, § 113](https://www.govinfo.gov/link/plaw/116/public/224), Dec. 18, 2020, [134 Stat. 1077](https://www.govinfo.gov/link/statute/134/1077); renumbered [Pub. L. 109–449, § 113](https://www.govinfo.gov/link/plaw/109/public/449), and amended [Pub. L. 119–65, § 3(a)](https://www.govinfo.gov/link/plaw/119/public/65), (e)–(g), Dec. 26, 2025, [139 Stat. 1987](https://www.govinfo.gov/link/statute/139/1987), 1988.)*

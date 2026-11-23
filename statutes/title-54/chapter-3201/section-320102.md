@@ -3,9 +3,10 @@ title: "Section 320102 - Powers and duties of Secretary"
 usc_title: 54
 usc_section: "320102"
 chapter: 3201
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "54 U.S.C. § 320102"
-generated_at: "2026-03-30T02:56:28.422Z"
+generated_at: "2026-11-23T20:27:38.082Z"
+status: "active"
 ---
 
 # § 320102. Powers and duties of Secretary
@@ -22,3 +23,56 @@ generated_at: "2026-03-30T02:56:28.422Z"
 - **(j)** When the Secretary determines that it would be administratively burdensome to restore, reconstruct, operate, or maintain any particular historic or archeologic site, building, or property donated to the United States through the Service, the Secretary may cause the restoration, reconstruction, operation, or maintenance to be done by organizing a corporation for that purpose under the laws of the District of Columbia or any State.
 - **(k)** The Secretary shall develop an educational program and service for the purpose of making available to the public information pertaining to American historic and archeologic sites, buildings, and properties of national significance. Reasonable charges may be made for the dissemination of any such information.
 - **(l)** The Secretary shall perform any and all acts and make regulations not inconsistent with this chapter that may be necessary and proper to carry out this chapter.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 320102 | 16 U.S.C. 462(a) through (k) (1st sentence). | Aug. 21, 1935, ch. 593, § 2(a) through (k) (1st sentence), 49 Stat. 666 ; Pub. L. 89–249, § 8 , Oct. 9, 1965 , 79 Stat. 971 . |
+
+
+In General
+
+Preservation of Data
+
+Survey
+
+Investigations and Researches
+
+Acquisition of Property
+
+Contracts and Cooperative Agreements
+
+Protection of Sites, Buildings, Objects, and Property
+
+Tablets To Mark or Commemorate Places and Events
+
+Operation for Benefit of Public
+
+Corporation To Carry Out Duties
+
+Educational Program and Service
+
+Actions and Regulations Necessary To Carry Out Chapter
+
+Historical and Revision Notes
+
+320102
+
+16 U.S.C. 462(a)
+
+Aug. 21, 1935, ch. 593, § 2(a)
+
+49 Stat. 666
+
+Pub. L. 89–249, § 8
+
+Oct. 9, 1965
+
+79 Stat. 971
+
+Improvement
+
+Operation and Use
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3257](https://www.govinfo.gov/link/statute/128/3257).)*

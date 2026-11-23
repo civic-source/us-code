@@ -3,9 +3,10 @@ title: "Section 3510 - Additional medical and safety standards"
 usc_title: 46
 usc_section: "3510"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 3510"
-generated_at: "2026-03-30T02:56:15.544Z"
+generated_at: "2026-11-23T20:27:27.082Z"
+status: "active"
 ---
 
 # § 3510. Additional medical and safety standards
@@ -16,3 +17,11 @@ generated_at: "2026-03-30T02:56:15.544Z"
   - **(3)** require that such defibrillators are available for passenger and crew access in the event of an emergency; and
   - **(4)** require that automated external defibrillators, or adjacent equipment, allow passengers and crew to easily contact medical staff of the vessel.
 - **(b)** In this section, the term “owner” has the meaning given such term in section 3507.
+
+Automated External Defibrillators
+
+Definition of Owner
+
+## Source Credit
+
+*(Added [Pub. L. 117–14, § 3(a)](https://www.govinfo.gov/link/plaw/117/public/14), May 24, 2021, [135 Stat. 275](https://www.govinfo.gov/link/statute/135/275).)*

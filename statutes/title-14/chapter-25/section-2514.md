@@ -3,9 +3,10 @@ title: "Section 2514 - Career flexibility to enhance retention of members"
 usc_title: 14
 usc_section: "2514"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 2514"
-generated_at: "2026-03-30T02:53:51.500Z"
+generated_at: "2026-11-23T20:25:54.609Z"
+status: "active"
 ---
 
 # § 2514. Career flexibility to enhance retention of members
@@ -64,3 +65,67 @@ generated_at: "2026-03-30T02:53:51.500Z"
     - **(A)** Coast Guard behavioral health resources;
     - **(B)** sexual assault prevention and response resources and programs of the Coast Guard; and
     - **(C)** Coast Guard legal resources, including, to the extent practicable, special victims’ counsel.
+
+Programs Authorized
+
+Period of Inactivation From Active Duty; Effect of Inactivation.—
+
+In general
+
+Exclusion from years of service
+
+Exclusion from retirement
+
+Agreement
+
+Conditions of Release
+
+Order to Active Duty
+
+Pay and Allowances.—
+
+Basic pay
+
+Special or incentive pay or bonus.—
+
+Prohibition
+
+Not treated as failure to perform services
+
+Return to active duty.—
+
+Special or incentive pay or bonus
+
+Limitation.—
+
+In general
+
+Pay or bonus ceases being authorized
+
+Repayment
+
+Required service is additional
+
+Travel and transportation allowance.—
+
+In general
+
+Single residence
+
+Leave balance
+
+Promotion.—
+
+Officers.—
+
+In general
+
+Return to duty
+
+Enlisted members
+
+Continued Entitlements
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. G, title LVXXXII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXII], § 8204(a), Jan. 1, 2021, [134 Stat. 4645](https://www.govinfo.gov/link/statute/134/4645); amended [Pub. L. 119–60, div. G, title LXXII, § 7226](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1705](https://www.govinfo.gov/link/statute/139/1705).)*

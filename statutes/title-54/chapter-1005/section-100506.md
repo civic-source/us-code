@@ -3,9 +3,10 @@ title: "Section 100506 - Boundary changes to System units"
 usc_title: 54
 usc_section: "100506"
 chapter: 1005
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "54 U.S.C. § 100506"
-generated_at: "2026-03-30T02:56:28.412Z"
+generated_at: "2026-11-23T20:27:37.988Z"
+status: "active"
 ---
 
 # § 100506. Boundary changes to System units
@@ -37,3 +38,84 @@ generated_at: "2026-03-30T02:56:28.412Z"
     - **(F)** The Director obtains written consent for the boundary change from all property owners whose land, water, or interests in land or water, or a portion of whose land, water, or interests in land or water, will be added to or deleted from the System unit by the boundary change.
     - **(G)** The land abuts other Federal land administered by the Director.
   - **(6)** Minor boundary changes involving only deletions of acreage owned by the Federal Government and administered by the Service may be made only by Act of Congress.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 100506(a) | 16 U.S.C. 1a–12 . | Pub. L. 101–628, title XII , §§ 1216, 1217, Nov. 28, 1990 , 104 Stat. 4508 . |
+| 100506(b) | 16 U.S.C. 1a–13 . |  |
+| 100506(c) | 16 U.S.C. 460 l –9(c). | Pub. L. 88–578, title I, § 7(c) , formerly § 6(c), as added Pub. L. 95–42, § 1(5) , June 10, 1977 , 91 Stat. 211 ; Pub. L. 96–203, § 2(2) , Mar. 10, 1980 , 94 Stat. 81 ; Pub. L. 103–437, § 6(p)(3) , Nov. 2, 1994 , 108 Stat. 4586 ; Pub. L. 104–333, div. I, title VIII, § 814(b) , Nov. 12, 1996 , 110 Stat. 4194 ; Pub. L. 106–176, title I , §§ 120(b), 129, Mar. 10, 2000 , 114 Stat. 28 , 30. |
+
+
+Criteria for Evaluation
+
+Proposal of Secretary
+
+Minor Boundary Changes.—
+
+In general
+
+Consultation
+
+Action to advance local public awareness
+
+Administration of acquisitions
+
+When authority applies
+
+Act of congress required
+
+Historical and Revision Notes
+
+100506(a)
+
+16 U.S.C. 1a–12
+
+Pub. L. 101–628, title XII
+
+Nov. 28, 1990
+
+104 Stat. 4508
+
+100506(b)
+
+16 U.S.C. 1a–13
+
+100506(c)
+
+16 U.S.C. 460
+
+Pub. L. 88–578, title I, § 7(c)
+
+Pub. L. 95–42, § 1(5)
+
+June 10, 1977
+
+91 Stat. 211
+
+Pub. L. 96–203, § 2(2)
+
+Mar. 10, 1980
+
+94 Stat. 81
+
+Pub. L. 103–437, § 6(p)(3)
+
+Nov. 2, 1994
+
+108 Stat. 4586
+
+Pub. L. 104–333, div. I, title VIII, § 814(b)
+
+Nov. 12, 1996
+
+110 Stat. 4194
+
+Pub. L. 106–176, title I
+
+Mar. 10, 2000
+
+114 Stat. 28
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3100](https://www.govinfo.gov/link/statute/128/3100).)*

@@ -3,9 +3,10 @@ title: "Section 5103a - Limitation on issuance of hazmat licenses"
 usc_title: 49
 usc_section: "5103a"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 5103a"
-generated_at: "2026-03-30T02:56:19.305Z"
+generated_at: "2026-11-23T20:27:34.583Z"
+status: "active"
 ---
 
 # § 5103a. Limitation on issuance of hazmat licenses
@@ -54,3 +55,61 @@ generated_at: "2026-03-30T02:56:19.305Z"
   - **(1)** Beginning on the date that is 6 months after the date of enactment of this subsection, a commercial motor vehicle operator registered to operate in Mexico or Canada shall not operate a commercial motor vehicle transporting a hazardous material in commerce in the United States until the operator has undergone a background records check similar to the background records check required for commercial motor vehicle operators licensed in the United States to transport hazardous materials in commerce.
   - **(2)** The Director of the Transportation Security Administration may extend the deadline established by paragraph (1) for a period not to exceed 6 months if the Director determines that such an extension is necessary.
   - **(3)** In this subsection, the term “commercial motor vehicle” has the meaning given that term by section 31101.
+
+Limitation.—
+
+Issuance of licenses
+
+Renewals included
+
+Hazardous Materials Described
+
+Recommendations on Chemical and Biological Materials
+
+Background Records Check.—
+
+In general
+
+Scope
+
+Reporting Requirement
+
+Alien Defined
+
+Background Checks for Drivers Hauling Hazardous Materials.—
+
+In general.—
+
+Employer notification
+
+Relationship to other background records checks.—
+
+Elimination of redundant checks
+
+Determination by director
+
+Future rulemakings
+
+Appeals process for more stringent state procedures
+
+Clarification of term defined in regulations
+
+Background check capacity
+
+Report.—
+
+In general
+
+Contents
+
+Commercial Motor Vehicle Operators Registered to Operate in Mexico or Canada.—
+
+In general
+
+Extension
+
+Commercial motor vehicle defined
+
+## Source Credit
+
+*(Added [Pub. L. 107–56, title X, § 1012(a)(1)](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 396](https://www.govinfo.gov/link/statute/115/396); amended [Pub. L. 109–59, title VII](https://www.govinfo.gov/link/plaw/109/public/59), §§ 7104, 7105, 7126, Aug. 10, 2005, [119 Stat. 1894](https://www.govinfo.gov/link/statute/119/1894), 1909; [Pub. L. 110–53, title XV, § 1556(a)](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 475](https://www.govinfo.gov/link/statute/121/475); [Pub. L. 110–244, title III, § 302(b)](https://www.govinfo.gov/link/plaw/110/public/244), June 6, 2008, [122 Stat. 1618](https://www.govinfo.gov/link/statute/122/1618); [Pub. L. 115–254, div. K, title I, § 1978](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3618](https://www.govinfo.gov/link/statute/132/3618).)*

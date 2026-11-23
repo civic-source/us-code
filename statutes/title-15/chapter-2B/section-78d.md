@@ -3,9 +3,10 @@ title: "Section 78d - Securities and Exchange Commission"
 usc_title: 15
 usc_section: "78d"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 78d"
-generated_at: "2026-03-30T02:54:08.041Z"
+generated_at: "2026-11-23T20:26:03.478Z"
+status: "active"
 ---
 
 # § 78d. Securities and Exchange Commission
@@ -113,3 +114,21 @@ generated_at: "2026-03-30T02:54:08.041Z"
   - **(2)** freely available for download;
   - **(3)** rendered in a human-readable format; and
   - **(4)** accessible via application programming interface where appropriate.
+
+(aa) identification of any action taken by the Commission or the self-regulatory organization and the result of such action;
+
+(bb) the length of time that each item has remained on such inventory; and
+
+(cc) for items on which no action has been taken, the reasons for inaction, and an identification of any official who is responsible for such action;
+
+Transition Provision
+
+Transfer of Remaining Amounts
+
+Closing of Account
+
+Harry S. Truman.
+
+## Source Credit
+
+*(June 6, 1934, ch. 404, title I, § 4, [48 Stat. 885](https://www.govinfo.gov/link/statute/48/885); Oct. 28, 1949, ch. 782, title XI, § 1106(a), [63 Stat. 972](https://www.govinfo.gov/link/statute/63/972); [Pub. L. 86–619, § 3](https://www.govinfo.gov/link/plaw/86/public/619), July 12, 1960, [74 Stat. 408](https://www.govinfo.gov/link/statute/74/408); [Pub. L. 86–771](https://www.govinfo.gov/link/plaw/86/public/771), Sept. 13, 1960, [74 Stat. 913](https://www.govinfo.gov/link/statute/74/913); [Pub. L. 88–426, title III, § 305(20)](https://www.govinfo.gov/link/plaw/88/public/426), Aug. 14, 1964, [78 Stat. 425](https://www.govinfo.gov/link/statute/78/425); [Pub. L. 98–38, § 1](https://www.govinfo.gov/link/plaw/98/public/38), June 6, 1983, [97 Stat. 205](https://www.govinfo.gov/link/statute/97/205); [Pub. L. 100–181, title III, § 307](https://www.govinfo.gov/link/plaw/100/public/181), Dec. 4, 1987, [101 Stat. 1254](https://www.govinfo.gov/link/statute/101/1254); [Pub. L. 101–550, title I, § 103](https://www.govinfo.gov/link/plaw/101/public/550), title II, § 207, Nov. 15, 1990, [104 Stat. 2713](https://www.govinfo.gov/link/statute/104/2713), 2721; [Pub. L. 104–290, title IV, § 406](https://www.govinfo.gov/link/plaw/104/public/290), Oct. 11, 1996, [110 Stat. 3444](https://www.govinfo.gov/link/statute/110/3444); [Pub. L. 105–353, title II, § 203](https://www.govinfo.gov/link/plaw/105/public/353), Nov. 3, 1998, [112 Stat. 3234](https://www.govinfo.gov/link/statute/112/3234); [Pub. L. 107–123, § 8(d)(2)](https://www.govinfo.gov/link/plaw/107/public/123), Jan. 16, 2002, [115 Stat. 2399](https://www.govinfo.gov/link/statute/115/2399); [Pub. L. 111–203, title IX](https://www.govinfo.gov/link/plaw/111/public/203), §§ 915, 919D, 965, 991(e)(1), July 21, 2010, [124 Stat. 1830](https://www.govinfo.gov/link/statute/124/1830), 1840, 1911, 1954; [Pub. L. 114–284, § 2(a)](https://www.govinfo.gov/link/plaw/114/public/284), Dec. 16, 2016, [130 Stat. 1447](https://www.govinfo.gov/link/statute/130/1447); [Pub. L. 115–141, div. S, title IX, § 902](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1143](https://www.govinfo.gov/link/statute/132/1143); [Pub. L. 117–263, div. E, title LVIII, § 5822](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3427](https://www.govinfo.gov/link/statute/136/3427); [Pub. L. 119–21, title III, § 30003(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 126](https://www.govinfo.gov/link/statute/139/126).)*

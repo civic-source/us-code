@@ -3,9 +3,10 @@ title: "Section 2354 - Procurement"
 usc_title: 22
 usc_section: "2354"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2354"
-generated_at: "2026-03-30T02:55:05.360Z"
+generated_at: "2026-11-23T20:26:32.258Z"
+status: "active"
 ---
 
 # § 2354. Procurement
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:05.360Z"
   - **(2)** Paragraph (1) does not apply with respect to an advanced developing country which—
     - **(A)** is receiving direct economic assistance under part I of subchapter I of this chapter or part IV of subchapter II of this chapter, and
     - **(B)** if the country has its own foreign assistance programs which finance the procurement of construction or engineering services, permits United States firms to compete for those services.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. III, § 604, Sept. 4, 1961, [75 Stat. 439](https://www.govinfo.gov/link/statute/75/439); [Pub. L. 89–583](https://www.govinfo.gov/link/plaw/89/public/583), pt. III, § 301(b), Sept. 19, 1966, [80 Stat. 804](https://www.govinfo.gov/link/statute/80/804); [Pub. L. 90–554](https://www.govinfo.gov/link/plaw/90/public/554), pt. III, § 301(a), Oct. 8, 1968, [82 Stat. 963](https://www.govinfo.gov/link/statute/82/963); [Pub. L. 96–533, title VII, § 705](https://www.govinfo.gov/link/plaw/96/public/533), Dec. 16, 1980, [94 Stat. 3157](https://www.govinfo.gov/link/statute/94/3157); [Pub. L. 99–83, title XII, § 1207](https://www.govinfo.gov/link/plaw/99/public/83), Aug. 8, 1985, [99 Stat. 278](https://www.govinfo.gov/link/statute/99/278); [Pub. L. 102–391, title V, § 597](https://www.govinfo.gov/link/plaw/102/public/391), Oct. 6, 1992, [106 Stat. 1694](https://www.govinfo.gov/link/statute/106/1694); [Pub. L. 110–246, title III, § 3001(b)(1)(A)](https://www.govinfo.gov/link/plaw/110/public/246), (2)(Q), June 18, 2008, [122 Stat. 1820](https://www.govinfo.gov/link/statute/122/1820).)*

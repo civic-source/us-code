@@ -3,9 +3,10 @@ title: "Section 1161k - Pilot programs to increase college persistence and succe
 usc_title: 20
 usc_section: "1161k"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1161k"
-generated_at: "2026-03-30T02:54:48.152Z"
+generated_at: "2026-11-23T20:26:14.591Z"
+status: "active"
 ---
 
 # § 1161k. Pilot programs to increase college persistence and success
@@ -89,3 +90,7 @@ generated_at: "2026-03-30T02:54:48.152Z"
   - **(2)** disseminate the report to the public by making the report available on the Department’s website.
 - **(h)** Funds made available under this section shall be used to supplement and not supplant other Federal, State, and local funds available to the institution to carrying out the activities described in subsections (c) and (d).
 - **(i)** There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years. The Secretary may use not more than two percent of the amounts appropriated to provide the technical assistance and conduct the evaluations required under subsection (f).
+
+## Source Credit
+
+*([Pub. L. 89–329, title VIII, § 820](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title VIII, § 801](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3404](https://www.govinfo.gov/link/statute/122/3404); amended [Pub. L. 111–39, title VIII, § 801(5)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1955](https://www.govinfo.gov/link/statute/123/1955).)*

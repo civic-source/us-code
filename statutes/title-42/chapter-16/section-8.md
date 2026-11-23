@@ -3,9 +3,10 @@ title: "Section 8 - Innovation Corps"
 usc_title: 42
 usc_section: "8"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-03-30T02:56:11.129Z"
+generated_at: "2026-11-23T20:27:21.959Z"
+status: "active"
 ---
 
 # § 1862s–8. Innovation Corps
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:56:11.129Z"
   - **(4)** The Director may engage in partnerships with State and local governments, economic development organizations, and nonprofit organizations to provide access to the I-Corps program to support entrepreneurship education and training for researchers, students, and institutions under this subsection.
   - **(5)** The Director shall submit to the appropriate committees of Congress a biennial report on I-Corps program efficacy, including metrics on the effectiveness of the program. Each Federal science agency participating in the I-Corps program or that implements a similar program under paragraph (2)(A) shall contribute to the report.
   - **(6)** In this subsection, the terms “Small Business Innovation Research Program” and “Small Business Technology Transfer Program” have the meanings given those terms in section 638 of title 15 .
+
+## Source Credit
+
+*([Pub. L. 114–329, title VI, § 601](https://www.govinfo.gov/link/plaw/114/public/329), Jan. 6, 2017, [130 Stat. 3033](https://www.govinfo.gov/link/statute/130/3033).)*

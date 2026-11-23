@@ -3,9 +3,10 @@ title: "Section 903 - Spectrum management activities"
 usc_title: 47
 usc_section: "903"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 903"
-generated_at: "2026-03-30T02:56:24.527Z"
+generated_at: "2026-11-23T20:27:28.967Z"
+status: "active"
 ---
 
 # § 903. Spectrum management activities
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:24.527Z"
   - **(3)** Within 1 year after August 10, 1993 , the Secretary and the NTIA shall certify to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate that—
     - **(A)** the amendments required by paragraph (1) have been accomplished; and
     - **(B)** the requirements of subparagraphs (A) and (B) of such paragraph are being enforced.
+
+## Source Credit
+
+*([Pub. L. 102–538, title I, § 104](https://www.govinfo.gov/link/plaw/102/public/538), Oct. 27, 1992, [106 Stat. 3537](https://www.govinfo.gov/link/statute/106/3537); [Pub. L. 103–66, title VI, § 6001(b)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 387](https://www.govinfo.gov/link/statute/107/387).)*

@@ -3,9 +3,10 @@ title: "Section 307 - Basis of stock and stock rights acquired in distributions"
 usc_title: 26
 usc_section: "307"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 307"
-generated_at: "2026-03-30T02:55:27.665Z"
+generated_at: "2026-11-23T20:26:45.567Z"
+status: "active"
 ---
 
 # § 307. Basis of stock and stock rights acquired in distributions
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:27.665Z"
     - **(B)** the fair market value of such rights at the time of the distribution is less than 15 percent of the fair market value of the old stock at such time,
   - **(2)** The election referred to in paragraph (1) shall be made in the return filed within the time prescribed by law (including extensions thereof) for the taxable year in which such rights were received. Such election shall be made in such manner as the Secretary may by regulations prescribe, and shall be irrevocable when made.
 - **(c)** For basis of stock and stock rights distributed before June 22, 1954 , see section 1052.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 93; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834).)*

@@ -3,9 +3,10 @@ title: "Section 19154 - Collection of data on demographics of faculty"
 usc_title: 42
 usc_section: "19154"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 19154"
-generated_at: "2026-03-30T02:56:11.541Z"
+generated_at: "2026-11-23T20:27:23.859Z"
+status: "active"
 ---
 
 # § 19154. Collection of data on demographics of faculty
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.541Z"
   - **(2)** make an award to an institution of higher education or nonprofit organization (or consortia thereof) to take such considerations into account.
 - **(c)** The Director of the National Science Foundation shall publish statistical summary data collected under this section, including as part of the National Science Foundation’s report required by section 1885d of this title .
 - **(d)** There are authorized to be appropriated to the Director of the National Science Foundation $4,000,000 in each of fiscal years 2023 through 2025 to develop and carry out the initial survey required under subsection (a).
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title V, § 10504](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1611](https://www.govinfo.gov/link/statute/136/1611).)*

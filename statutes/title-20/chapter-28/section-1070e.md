@@ -3,9 +3,10 @@ title: "Section 1070e - Child care access means parents in school"
 usc_title: 20
 usc_section: "1070e"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1070e"
-generated_at: "2026-03-30T02:54:48.108Z"
+generated_at: "2026-11-23T20:26:14.384Z"
+status: "active"
 ---
 
 # § 1070e. Child care access means parents in school
@@ -63,3 +64,7 @@ generated_at: "2026-03-30T02:54:48.108Z"
   - **(2)** The Secretary shall make continuation awards under this section to an institution of higher education only if the Secretary determines, on the basis of the reports submitted under paragraph (1), that the institution is making a good faith effort to ensure that low-income students at the institution have access to affordable, quality child care services.
 - **(f)** No funds provided under this section shall be used for construction, except for minor renovation or repair to meet applicable State or local health or safety requirements.
 - **(g)** There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 419N](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title IV, § 410](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1668](https://www.govinfo.gov/link/statute/112/1668); amended [Pub. L. 110–315, title IV, § 410](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3225](https://www.govinfo.gov/link/statute/122/3225).)*

@@ -3,9 +3,10 @@ title: "Section 18385 - On-going restoration of radioisotope thermoelectric gene
 usc_title: 42
 usc_section: "18385"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18385"
-generated_at: "2026-03-30T02:56:11.520Z"
+generated_at: "2026-11-23T20:27:23.800Z"
+status: "active"
 ---
 
 # § 18385. On-going restoration of radioisotope thermoelectric generator material production
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.520Z"
   - **(6)** Reestablishing domestic production will require a long lead-time. Thus, meeting future space exploration mission needs requires that a restart project begin at the earliest opportunity.
 - **(b)** The Administrator shall, in coordination with the Secretary of Energy, pursue a joint approach beginning in fiscal year 2011 towards restarting and sustaining the domestic production of radioisotope thermoelectric generator material for deep space and other science and exploration missions. Funds authorized by this chapter for NASA shall be made available under a reimbursable agreement with the Department of Energy for the purpose of reestablishing facilities to produce fuel required for radioisotope thermoelectric generators to enable future missions.
 - **(c)** Within 120 days after October 11, 2010 , the Administrator and the Secretary of Energy shall submit a joint report to the appropriate committees of Congress on coordinated agreements, planned implementation, and anticipated schedule, production quantities, and mission applications under this section.
+
+## Source Credit
+
+*([Pub. L. 111–267, title VIII, § 806](https://www.govinfo.gov/link/plaw/111/public/267), Oct. 11, 2010, [124 Stat. 2833](https://www.govinfo.gov/link/statute/124/2833).)*

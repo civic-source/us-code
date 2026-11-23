@@ -3,9 +3,10 @@ title: "Section 8852 - Coordination of research and extension activities; consul
 usc_title: 42
 usc_section: "8852"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8852"
-generated_at: "2026-03-30T02:56:11.348Z"
+generated_at: "2026-11-23T20:27:23.066Z"
+status: "active"
 ---
 
 # § 8852. Coordination of research and extension activities; consultative requirements
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.348Z"
   - **(1)** the Subcommittee on Food, Agricultural, and Forestry Research of the Federal Coordinating Council for Science, Engineering, and Technology;
   - **(2)** the Joint Council on Food and Agricultural Sciences; and
   - **(3)** the National Agricultural Research and Extension Users Advisory Board;
+
+## Source Credit
+
+*([Pub. L. 96–294, title II, § 257](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 708](https://www.govinfo.gov/link/statute/94/708); [Pub. L. 97–98, title XIV, § 1406(c)](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1299](https://www.govinfo.gov/link/statute/95/1299).)*

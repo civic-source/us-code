@@ -3,9 +3,10 @@ title: "Section 4581 - Cease and desist proceedings"
 usc_title: 12
 usc_section: "4581"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4581"
-generated_at: "2026-03-30T02:53:53.510Z"
+generated_at: "2026-11-23T20:25:59.401Z"
+status: "active"
 ---
 
 # § 4581. Cease and desist proceedings
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:53.510Z"
     - **(C)** solely with respect to the housing goals established under sections 4562(a) and 4563(a)(1) of this title, comply with the housing plan in compliance with section 4566(c) of this title ; or
     - **(D)** provide the information required under subsection (m) or (n) of section 1723a of this title , or subsection (e) or (f) of section 1456 of this title .
 - **(c)** An order under this section shall become effective upon the expiration of the 30-day period beginning on the date of service of the order upon the enterprise (except in the case of an order issued upon consent, which shall become effective at the time specified therein), and shall remain effective and enforceable as provided in the order, except to the extent that the order is stayed, modified, terminated, or set aside by action of the Director or otherwise, as provided in this subpart.
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1341](https://www.govinfo.gov/link/plaw/102/public/550), as added [Pub. L. 110–289, div. A, title I, § 1130(c)(2)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2708](https://www.govinfo.gov/link/statute/122/2708).)*

@@ -3,9 +3,10 @@ title: "Section 3991 - Taxes respecting personal property, money, credits, and r
 usc_title: 50
 usc_section: "3991"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3991"
-generated_at: "2026-03-30T02:56:26.264Z"
+generated_at: "2026-11-23T20:27:31.060Z"
+status: "active"
 ---
 
 # § 3991. Taxes respecting personal property, money, credits, and real property
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:26.264Z"
 - **(c)** When property described in subsection (a) is sold or forfeited to enforce the collection of a tax or assessment, a servicemember shall have the right to redeem or commence an action to redeem the servicemember’s property during the period of military service or within 180 days after termination of or release from military service. This subsection may not be construed to shorten any period provided by the law of a State (including any political subdivision of a State) for redemption.
 - **(d)** Whenever a servicemember does not pay a tax or assessment on property described in subsection (a) when due, the amount of the tax or assessment due and unpaid shall bear interest until paid at the rate of 6 percent per year. An additional penalty or interest shall not be incurred by reason of nonpayment. A lien for such unpaid tax or assessment may include interest under this subsection.
 - **(e)** This section applies to all forms of property described in subsection (a) owned individually by a servicemember or jointly by a servicemember and a dependent or dependents.
+
+## Source Credit
+
+*(Oct. 17, 1940, ch. 888, title V, § 501, as added [Pub. L. 108–189, § 1](https://www.govinfo.gov/link/plaw/108/public/189), Dec. 19, 2003, [117 Stat. 2854](https://www.govinfo.gov/link/statute/117/2854).)*

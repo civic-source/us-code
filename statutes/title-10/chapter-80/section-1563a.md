@@ -3,9 +3,10 @@ title: "Section 1563a - Honorary promotions on the initiative of the Department 
 usc_title: 10
 usc_section: "1563a"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1563a"
-generated_at: "2026-03-30T02:53:38.129Z"
+generated_at: "2026-11-23T20:25:51.384Z"
+status: "active"
 ---
 
 # § 1563a. Honorary promotions on the initiative of the Department of Defense
@@ -22,3 +23,15 @@ generated_at: "2026-03-30T02:53:38.129Z"
 - **(b)** The Secretary of a military department may not make an honorary promotion pursuant to subsection (a) until 60 days after the date on which the Secretary submits to the Committees on Armed Services of the Senate and the House of Representatives a notice of the determination to make the promotion, including a detailed discussion of the rationale supporting the determination.
 - **(c)** Upon making an honorary promotion pursuant to subsection (a), the Secretary of the military department concerned shall expeditiously notify the former member or retired member concerned, or the next of kin of such former member or retired member if such former member or retired member is deceased, of the promotion.
 - **(d)** Any promotion pursuant to this section is honorary, and shall not affect the pay, retired pay, or other benefits from the United States to which the former member or retired member concerned is entitled or would have been entitled based on the military service of such former member or retired member, nor affect any benefits to which any other person is or may become entitled based on the military service of such former member or retired member.
+
+In General
+
+Notice to Congress
+
+Notice of Promotion
+
+Nature of Promotion
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. A, title V, § 523(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3597](https://www.govinfo.gov/link/statute/134/3597); amended [Pub. L. 118–31, div. A, title XVII, § 1741(a)(6)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 680](https://www.govinfo.gov/link/statute/137/680); [Pub. L. 119–60, div. A, title V, § 523](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 864](https://www.govinfo.gov/link/statute/139/864).)*

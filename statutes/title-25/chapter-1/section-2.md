@@ -3,9 +3,10 @@ title: "Section 2 - Enrollment and general assistance payments"
 usc_title: 25
 usc_section: "2"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 2"
-generated_at: "2026-03-30T02:54:52.796Z"
+generated_at: "2026-11-23T20:26:25.340Z"
+status: "active"
 ---
 
 # § 13d–2. Enrollment and general assistance payments
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:52.796Z"
   - **(1)** additional expenses in connection with the study or training described in subsection (a), and
   - **(2)** the amount of any financial assistance received by the individual as a student or trainee.
 - **(c)** This section does not alter any eligibility requirement for general assistance from the Bureau of Indian Affairs other than the requirement to be available for employment and to seek employment.
+
+## Source Credit
+
+*([Pub. L. 100–297, title V, § 5404](https://www.govinfo.gov/link/plaw/100/public/297), Apr. 28, 1988, [102 Stat. 416](https://www.govinfo.gov/link/statute/102/416); [Pub. L. 105–244, title IX, § 901(d)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1828](https://www.govinfo.gov/link/statute/112/1828); [Pub. L. 107–110, title X, § 1045](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2080](https://www.govinfo.gov/link/statute/115/2080); [Pub. L. 110–315, title IX, § 941(k)(2)(G)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3466](https://www.govinfo.gov/link/statute/122/3466).)*

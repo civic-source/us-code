@@ -3,9 +3,10 @@ title: "Section 53507 - Nontaxation of deposits"
 usc_title: 46
 usc_section: "53507"
 chapter: 535
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 53507"
-generated_at: "2026-03-30T02:56:15.576Z"
+generated_at: "2026-11-23T20:27:27.325Z"
+status: "active"
 ---
 
 # § 53507. Nontaxation of deposits
@@ -17,3 +18,72 @@ generated_at: "2026-03-30T02:56:15.576Z"
   - **(4)** the earnings and profits of a corporation (within the meaning of section 316 of such Code ( 26 U.S.C. 316 )) shall be determined without regard to this chapter and section 7518 of such Code ( 26 U.S.C. 7518 ); and
   - **(5)** in applying the tax imposed by section 531 of such Code ( 26 U.S.C. 531 ), amounts held in the fund shall not be taken into account.
 - **(b)** This section applies to an amount only if the amount is deposited in the fund under the agreement within the time provided in joint regulations.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 53507 | 46 App.:1177(d). | June 29, 1936, ch. 858 , title VI, § 607(d), 49 Stat. 2005 ; June 23, 1938, ch. 600 , §§ 23–28, 52 Stat. 960 ; Aug. 4, 1939, ch. 417, § 10 , 53 Stat. 1185 ; July 17, 1952, ch. 939 , §§ 17–19, 66 Stat. 764 ; Pub. L. 85–637 , Aug. 14, 1958 , 72 Stat. 216 ; Pub. L. 86–518, § 1 , June 12, 1960 , 74 Stat. 216 ; Pub. L. 87–45, § 6 , May 27, 1961 , 75 Stat. 91 ; Pub. L. 87–271 , Sept. 21, 1961 , 75 Stat. 570 ; restated Pub. L. 91–469, § 21(a) , Oct. 21, 1970 , 84 Stat. 1028 ; Pub. L. 99–514, title II, § 261(e)(1) , (2), Oct. 22, 1986 , 100 Stat. 2215 . |
+
+
+Tax Treatment
+
+Condition
+
+Historical and Revision Notes
+
+53507
+
+June 29, 1936, ch. 858
+
+49 Stat. 2005
+
+June 23, 1938, ch. 600
+
+52 Stat. 960
+
+Aug. 4, 1939, ch. 417, § 10
+
+53 Stat. 1185
+
+July 17, 1952, ch. 939
+
+66 Stat. 764
+
+Pub. L. 85–637
+
+Aug. 14, 1958
+
+72 Stat. 216
+
+Pub. L. 86–518, § 1
+
+June 12, 1960
+
+74 Stat. 216
+
+Pub. L. 87–45, § 6
+
+May 27, 1961
+
+75 Stat. 91
+
+Pub. L. 87–271
+
+Sept. 21, 1961
+
+75 Stat. 570
+
+Pub. L. 91–469, § 21(a)
+
+Oct. 21, 1970
+
+84 Stat. 1028
+
+Pub. L. 99–514, title II, § 261(e)(1)
+
+Oct. 22, 1986
+
+100 Stat. 2215
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(c)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1594](https://www.govinfo.gov/link/statute/120/1594).)*

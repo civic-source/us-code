@@ -3,12 +3,17 @@ title: "Section 2103 - Definition of gross estate"
 usc_title: 26
 usc_section: "2103"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 2103"
-generated_at: "2026-03-30T02:55:27.783Z"
+generated_at: "2026-11-23T20:26:46.163Z"
+status: "active"
 ---
 
 # § 2103. Definition of gross estate
 
 For the purpose of the tax imposed by section 2101, the value of the gross estate of every decedent nonresident not a citizen of the United States shall be that part of his gross estate (determined as provided in section 2031) which at the time of his death is situated in the United States.
 
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 397.)*

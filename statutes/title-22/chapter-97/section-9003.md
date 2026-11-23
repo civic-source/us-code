@@ -3,9 +3,10 @@ title: "Section 9003 - Judicial remedies"
 usc_title: 22
 usc_section: "9003"
 chapter: 97
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9003"
-generated_at: "2026-03-30T02:55:05.460Z"
+generated_at: "2026-11-23T20:26:32.749Z"
+status: "active"
 ---
 
 # § 9003. Judicial remedies
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:05.460Z"
   - **(3)** the term “commencement of proceedings”, as used in article 12 of the Convention, means, with respect to the return of a child located in the United States, the filing of a petition in accordance with subsection (b) of this section.
 - **(g)** Full faith and credit shall be accorded by the courts of the States and the courts of the United States to the judgment of any other such court ordering or denying the return of a child, pursuant to the Convention, in an action brought under this chapter.
 - **(h)** The remedies established by the Convention and this chapter shall be in addition to remedies available under other laws or international agreements.
+
+## Source Credit
+
+*([Pub. L. 100–300, § 4](https://www.govinfo.gov/link/plaw/100/public/300), Apr. 29, 1988, [102 Stat. 438](https://www.govinfo.gov/link/statute/102/438).)*

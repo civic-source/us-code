@@ -3,9 +3,10 @@ title: "Section 3644 - Compensation of individuals in uniformed services"
 usc_title: 22
 usc_section: "3644"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3644"
-generated_at: "2026-03-30T02:55:05.395Z"
+generated_at: "2026-11-23T20:26:32.466Z"
+status: "active"
 ---
 
 # § 3644. Compensation of individuals in uniformed services
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:05.395Z"
 - **(a)** Except as provided in subsection (b) of this section, any individual who is serving in a position in the Commission and who is a member of a uniformed service shall continue to be paid basic pay by such uniformed service and shall not be paid by the Commission for the period of the service in the uniformed service involved.
 - **(b)** If the individual appointed as Administrator, Deputy Administrator, or Chief Engineer of the Commission is a member of a uniformed service, the amount of basic pay otherwise payable to the individual for service in that position shall be reduced, up to the amount of that basic pay, by the amount of the basic pay payable to the individual as a member of a uniformed service.
 - **(c)** The Commission shall annually pay to each uniformed service amounts sufficient to reimburse that uniformed service for any basic pay paid by that uniformed service to any member of that service during any period of service in the Commission by the member.
+
+## Source Credit
+
+*([Pub. L. 96–70, title I, § 1204](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 461](https://www.govinfo.gov/link/statute/93/461).)*

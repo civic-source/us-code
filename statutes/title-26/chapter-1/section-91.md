@@ -3,9 +3,10 @@ title: "Section 91 - Certain foreign branch losses transferred to specified 10-p
 usc_title: 26
 usc_section: "91"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 91"
-generated_at: "2026-03-30T02:55:27.621Z"
+generated_at: "2026-11-23T20:26:45.322Z"
+status: "active"
 ---
 
 # § 91. Certain foreign branch losses transferred to specified 10-percent owned foreign corporations
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:27.621Z"
 - **(c)** The transferred loss amount shall be reduced (but not below zero) by the amount of gain recognized by the taxpayer on account of the transfer (other than amounts taken into account under subsection (b)(2)(B)).
 - **(d)** Amounts included in gross income under this section shall be treated as derived from sources within the United States.
 - **(e)** Consistent with such regulations or other guidance as the Secretary shall prescribe, proper adjustments shall be made in the adjusted basis of the taxpayer’s stock in the specified 10-percent owned foreign corporation to which the transfer is made, and in the transferee’s adjusted basis in the property transferred, to reflect amounts included in gross income under this section.
+
+## Source Credit
+
+*(Added [Pub. L. 115–97, title I, § 14102(d)(1)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2193](https://www.govinfo.gov/link/statute/131/2193).)*

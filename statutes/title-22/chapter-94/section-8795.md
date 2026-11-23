@@ -3,9 +3,10 @@ title: "Section 8795 - Termination"
 usc_title: 22
 usc_section: "8795"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8795"
-generated_at: "2026-03-30T02:55:05.457Z"
+generated_at: "2026-11-23T20:26:32.737Z"
+status: "active"
 ---
 
 # § 8795. Termination
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:05.457Z"
   - **(6)** is not pursuing or engaged in the research, development, acquisition, production, transfer, or deployment of biological, chemical, or nuclear weapons, and has provided credible assurances that it will not engage in such activities in the future; and
   - **(7)** has agreed to allow the United Nations and other international observers to verify that the Government of Syria is not engaging in such activities and to assess the credibility of the assurances provided by that Government.
 - **(c)** If the President submits to the appropriate congressional committees the certification described in subsection (a)(2), the President may suspend the provisions of this subchapter and any sanctions imposed under this subchapter for not more than 180 days to allow time for a certification described in subsection (b) to be submitted.
+
+## Source Credit
+
+*([Pub. L. 112–158, title VII, § 706](https://www.govinfo.gov/link/plaw/112/public/158), Aug. 10, 2012, [126 Stat. 1268](https://www.govinfo.gov/link/statute/126/1268).)*

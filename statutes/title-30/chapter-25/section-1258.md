@@ -3,9 +3,10 @@ title: "Section 1258 - Reclamation plan requirements"
 usc_title: 30
 usc_section: "1258"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1258"
-generated_at: "2026-03-30T02:55:29.400Z"
+generated_at: "2026-11-23T20:26:35.021Z"
+status: "active"
 ---
 
 # § 1258. Reclamation plan requirements
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:29.400Z"
     - **(C)** the quantity of surface and ground water systems, both on- and off-site, from adverse effects of the mining and reclamation process or to provide alternative sources of water where such protection of quantity cannot be assured;
   - **(14)** such other requirements as the regulatory authority shall prescribe by regulations.
 - **(b)** Any information required by this section which is not on public file pursuant to State law shall be held in confidence by the regulatory authority.
+
+## Source Credit
+
+*([Pub. L. 95–87, title V, § 508](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 478](https://www.govinfo.gov/link/statute/91/478).)*

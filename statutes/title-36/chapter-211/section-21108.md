@@ -3,12 +3,39 @@ title: "Section 21108 - Duty to maintain corporate and tax-exempt status"
 usc_title: 36
 usc_section: "21108"
 chapter: 211
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 21108"
-generated_at: "2026-03-30T02:55:44.692Z"
+generated_at: "2026-11-23T20:26:58.817Z"
+status: "active"
 ---
 
 # § 21108. Duty to maintain corporate and tax-exempt status
 
 - **(a)** The corporation shall maintain its status as a corporation incorporated under the laws of each State in which it is incorporated.
 - **(b)** The corporation shall maintain its status as an organization exempt from taxation under the Internal Revenue Code of 1986 ( 26 U.S.C. 1 et seq.).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 21108(a) | 36:2408(e). | June 12, 1984 , Pub. L. 98–314 , §§ 8(e), 15 (1st sentence), 98 Stat. 238 , 239. |
+| 21108(b) | 36:2414 (1st sentence). |  |
+
+
+Corporate Status
+
+Tax-Exempt Status
+
+Historical and Revision Notes
+
+21108(a)
+
+June 12, 1984
+
+Pub. L. 98–314
+
+98 Stat. 238
+
+21108(b)
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1294](https://www.govinfo.gov/link/statute/112/1294).)*

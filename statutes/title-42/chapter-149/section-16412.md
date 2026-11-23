@@ -3,9 +3,10 @@ title: "Section 16412 - Training guidelines for nonnuclear electric energy indus
 usc_title: 42
 usc_section: "16412"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16412"
-generated_at: "2026-03-30T02:56:11.486Z"
+generated_at: "2026-11-23T20:27:23.683Z"
+status: "active"
 ---
 
 # § 16412. Training guidelines for nonnuclear electric energy industry personnel
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.486Z"
       - **(ii)** recertification procedures; and
       - **(iii)** methods for examining or testing the qualification of an individual who performs a covered task; and
   - **(2)** consolidate training guidelines in existence on the date on which the guidelines under subsection (a) are developed relating to the construction, operation, maintenance, and inspection of nonnuclear electric generation, transmission, and distribution facilities, such as guidelines established by the National Electric Safety Code and other industry consensus standards.
+
+## Source Credit
+
+*([Pub. L. 109–58, title XI, § 1103](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 939](https://www.govinfo.gov/link/statute/119/939).)*

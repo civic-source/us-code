@@ -3,12 +3,17 @@ title: "Section 7278a - Availability of funds for energy and water development f
 usc_title: 42
 usc_section: "7278a"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7278a"
-generated_at: "2026-03-30T02:56:11.289Z"
+generated_at: "2026-11-23T20:27:22.802Z"
+status: "active"
 ---
 
 # § 7278a. Availability of funds for energy and water development for multiyear contracts, grants, or cooperative agreements of $1,000,000 or less
 
 Notwithstanding section 301(c) of this Act, none of the funds made available under the heading “Department of Energy—Energy Programs—Science” in this or any subsequent Energy and Water Development and Related Agencies appropriations Act for any fiscal year may be used for a multiyear contract, grant, cooperative agreement, or Other Transaction Agreement of $1,000,000 or less unless the contract, grant, cooperative agreement, or Other Transaction Agreement is funded for the full period of performance as anticipated at the time of award.
 
+
+## Source Credit
+
+*([Pub. L. 114–113, div. D, title III, § 306](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2418](https://www.govinfo.gov/link/statute/129/2418).)*

@@ -3,9 +3,10 @@ title: "Section 1324c - Penalties for document fraud"
 usc_title: 8
 usc_section: "1324c"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1324c"
-generated_at: "2026-03-30T02:53:10.494Z"
+generated_at: "2026-11-23T20:25:36.196Z"
+status: "active"
 ---
 
 # § 1324c. Penalties for document fraud
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:53:10.494Z"
   - **(1)** Whoever, in any matter within the jurisdiction of the Service, knowingly and willfully fails to disclose, conceals, or covers up the fact that they have, on behalf of any person and for a fee or other remuneration, prepared or assisted in preparing an application which was falsely made (as defined in subsection (f)) for immigration benefits, shall be fined in accordance with title 18, imprisoned for not more than 5 years, or both, and prohibited from preparing or assisting in preparing, whether or not for a fee or other remuneration, any other such application.
   - **(2)** Whoever, having been convicted of a violation of paragraph (1), knowingly and willfully prepares or assists in preparing an application for immigration benefits pursuant to this chapter, or the regulations promulgated thereunder, whether or not for a fee or other remuneration and regardless of whether in any matter within the jurisdiction of the Service, shall be fined in accordance with title 18, imprisoned for not more than 15 years, or both, and prohibited from preparing or assisting in preparing any other such application.
 - **(f)** For purposes of this section, the term “falsely make” means to prepare or provide an application or document, with knowledge or in reckless disregard of the fact that the application or document contains a false, fictitious, or fraudulent statement or material representation, or has no basis in law or fact, or otherwise fails to state a fact which is material to the purpose for which it was submitted.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 8, § 274C, as added [Pub. L. 101–649, title V, § 544(a)](https://www.govinfo.gov/link/plaw/101/public/649), Nov. 29, 1990, [104 Stat. 5059](https://www.govinfo.gov/link/statute/104/5059); amended [Pub. L. 102–232, title III, § 306(c)(5)(A)](https://www.govinfo.gov/link/plaw/102/public/232), Dec. 12, 1991, [105 Stat. 1752](https://www.govinfo.gov/link/statute/105/1752); [Pub. L. 103–416, title II, § 219(r)](https://www.govinfo.gov/link/plaw/103/public/416), Oct. 25, 1994, [108 Stat. 4317](https://www.govinfo.gov/link/statute/108/4317); [Pub. L. 104–208, div. C, title II](https://www.govinfo.gov/link/plaw/104/public/208), §§ 212(a)–(d), 213, 220, title III, §§ 308(g)(10)(D), 379(a), Sept. 30, 1996, [110 Stat. 3009–570](https://www.govinfo.gov/link/statute/110/3009), 3009–571, 3009–575, 3009–625, 3009–649.)*

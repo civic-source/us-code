@@ -3,9 +3,10 @@ title: "Section 292g - Risk-based premiums"
 usc_title: 42
 usc_section: "292g"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 292g"
-generated_at: "2026-03-30T02:56:10.773Z"
+generated_at: "2026-11-23T20:27:20.363Z"
+status: "active"
 ---
 
 # § 292g. Risk-based premiums
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:10.773Z"
     - **(A)** subsection (b)(4) shall not apply with respect to any eligible institution that is a Historically Black College or University; and
     - **(B)** any such institution that has a default rate in excess of 20 percent, and any eligible borrower seeking a loan for attendance at the institution, shall be subject to subsection (b)(3) to the same extent and in the same manner as eligible institutions and borrowers described in such subsection.
 - **(e)** An institution may pay off the outstanding principal and interest owed by the borrowers of such institution who have defaulted on loans made under this subpart in order to reduce the risk category of the institution.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 708, as added [Pub. L. 102–408, title I, § 102](https://www.govinfo.gov/link/plaw/102/public/408), Oct. 13, 1992, [106 Stat. 2004](https://www.govinfo.gov/link/statute/106/2004).)*

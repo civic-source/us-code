@@ -3,9 +3,10 @@ title: "Section 4727a - Implementation of primary objectives of TPCC"
 usc_title: 15
 usc_section: "4727a"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 4727a"
-generated_at: "2026-03-30T02:54:08.203Z"
+generated_at: "2026-11-23T20:26:04.356Z"
+status: "active"
 ---
 
 # § 4727a. Implementation of primary objectives of TPCC
@@ -17,3 +18,7 @@ The Trade Promotion Coordinating Committee shall—
   - **(3)** work with all relevant State and national organizations, including the National Governors’ Association, that have established trade promotion offices;
   - **(4)** report on actions taken or efforts currently underway to promote better coordination between State, Federal, and private sector export promotion activities, including co-location, cost sharing between Federal, State, and private sector export promotion programs, and sharing of market research data; and
   - **(5)** by not later than March 30, 2000 , and annually thereafter, include the matters addressed in paragraphs (1), (2), (3), and (4) in the annual report required to be submitted under section 4727(f) of this title .
+
+## Source Credit
+
+*([Pub. L. 106–158, § 6](https://www.govinfo.gov/link/plaw/106/public/158), Dec. 6, 1999, [113 Stat. 1746](https://www.govinfo.gov/link/statute/113/1746).)*

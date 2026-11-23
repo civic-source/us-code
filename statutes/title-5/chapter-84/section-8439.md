@@ -3,9 +3,10 @@ title: "Section 8439 - Accounting and information"
 usc_title: 5
 usc_section: "8439"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8439"
-generated_at: "2026-03-30T02:52:56.059Z"
+generated_at: "2026-11-23T20:25:32.214Z"
+status: "active"
 ---
 
 # § 8439. Accounting and information
@@ -32,3 +33,17 @@ generated_at: "2026-03-30T02:52:56.059Z"
 - **(d)**
   - **(1)** Each employee, Member, former employee, or former Member who elects to invest in any investment fund or option under this chapter, other than the Government Securities Investment Fund, shall sign an acknowledgement prescribed by the Executive Director which states that the employee, Member, former employee, or former Member understands that an investment in any such fund or option is made at the employee’s, Member’s, former employee’s, or former Member’s risk, that the employee, Member, former employee, or former Member is not protected by the Government against any loss on such investment, and that a return on such investment is not guaranteed by the Government.
   - **(2)** Prior to enrollment in the Thrift Savings Fund, or as soon as practicable thereafter, an individual who is automatically enrolled pursuant to section 8432(b)(2) shall receive the risk acknowledgment information described under paragraph (1).
+
+Annual Report
+
+Reporting of Fees and Other Information.—
+
+In general
+
+Use of estimates
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 555](https://www.govinfo.gov/link/statute/100/555); amended [Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 659 [title I, § 103]](https://www.govinfo.gov/link/plaw/104/public/208) ], Sept. 30, 1996, [110 Stat. 3009–314](https://www.govinfo.gov/link/statute/110/3009), 3009–372, 3009–373; [Pub. L. 104–316, title I, § 103(j)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3829](https://www.govinfo.gov/link/statute/110/3829); [Pub. L. 106–65, div. A, title VI, § 661(a)(5)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 672](https://www.govinfo.gov/link/statute/113/672); [Pub. L. 106–361, § 2(b)(4)](https://www.govinfo.gov/link/plaw/106/public/361), (5), Oct. 27, 2000, [114 Stat. 1401](https://www.govinfo.gov/link/statute/114/1401); [Pub. L. 108–469, § 1(d)(3)](https://www.govinfo.gov/link/plaw/108/public/469), Dec. 21, 2004, [118 Stat. 3892](https://www.govinfo.gov/link/statute/118/3892); [Pub. L. 111–31, div. B, title I, § 106(a)](https://www.govinfo.gov/link/plaw/111/public/31), June 22, 2009, [123 Stat. 1855](https://www.govinfo.gov/link/statute/123/1855); [Pub. L. 113–255, § 2(b)](https://www.govinfo.gov/link/plaw/113/public/255), Dec. 18, 2014, [128 Stat. 2920](https://www.govinfo.gov/link/statute/128/2920).)*

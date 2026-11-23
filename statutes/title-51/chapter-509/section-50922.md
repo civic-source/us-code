@@ -3,9 +3,10 @@ title: "Section 50922 - Regulations"
 usc_title: 51
 usc_section: "50922"
 chapter: 509
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 50922"
-generated_at: "2026-03-30T02:56:28.711Z"
+generated_at: "2026-11-23T20:27:37.514Z"
+status: "active"
 ---
 
 # § 50922. Regulations
@@ -29,3 +30,15 @@ generated_at: "2026-03-30T02:56:28.711Z"
   - **(1)** Licenses for the launch or reentry of launch vehicles or reentry vehicles with human beings on board and permits may be issued by the Secretary prior to the issuance of the regulations described in subsection (c).
   - **(2)** As soon as practicable after the date of enactment of the Commercial Space Launch Amendments Act of 2004, the Secretary shall issue guidelines or advisory circulars to guide the implementation of that Act until regulations are issued.
   - **(3)** Notwithstanding paragraphs (1) and (2), no licenses for the launch or reentry of launch vehicles or reentry vehicles with human beings on board or permits may be issued starting three years after the date of enactment of the Commercial Space Launch Amendments Act of 2004 unless the final regulations described in subsection (c) have been issued.
+
+In General
+
+Reentry
+
+Amendments
+
+Effective Date
+
+## Source Credit
+
+*(Added [Pub. L. 105–303, title I, § 102(a)(16)](https://www.govinfo.gov/link/plaw/105/public/303), Oct. 28, 1998, [112 Stat. 2850](https://www.govinfo.gov/link/statute/112/2850), § 70120 of title 49; amended [Pub. L. 108–492, § 2(c)(25)](https://www.govinfo.gov/link/plaw/108/public/492), Dec. 23, 2004, [118 Stat. 3981](https://www.govinfo.gov/link/statute/118/3981); renumbered § 70120 then § 50922 of title 51 and amended [Pub. L. 111–314, § 4(d)(2)](https://www.govinfo.gov/link/plaw/111/public/314), (3)(V), (5)(U), Dec. 18, 2010, [124 Stat. 3440–3442](https://www.govinfo.gov/link/statute/124/3440).)*

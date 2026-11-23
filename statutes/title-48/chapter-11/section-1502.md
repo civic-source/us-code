@@ -3,12 +3,17 @@ title: "Section 1502 - Previously acquired lands; bona fide resident aliens; min
 usc_title: 48
 usc_section: "1502"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1502"
-generated_at: "2026-03-30T02:56:14.587Z"
+generated_at: "2026-11-23T20:27:28.056Z"
+status: "active"
 ---
 
 # § 1502. Previously acquired lands; bona fide resident aliens; mining or incorporated village lands
 
 This chapter shall not apply to land owned in any of the Territories of the United States by aliens, which was acquired on or before March 3, 1887 , so long as it is held by the then owners, their heirs or legal representatives, nor to any alien who shall become a bona fide resident of the United States, and any alien who shall become a bona fide resident of the United States, or shall have declared his intention to become a citizen of the United States in the manner provided by law, shall have the right to acquire and hold lands in either of the Territories of the United States upon the same terms as citizens of the United States. If any such resident alien shall cease to be a bona fide resident of the United States then such alien shall have ten years from the time he ceases to be such bona fide resident in which to alienate such lands. This chapter shall not be construed to prevent any persons not citizens of the United States from acquiring or holding lots or parcels of lands in any incorporated or platted city, town, or village, or in any mine or mining claim, in any of the Territories of the United States.
 
+
+## Source Credit
+
+*(Mar. 3, 1887, ch. 340, § 2, [24 Stat. 477](https://www.govinfo.gov/link/statute/24/477); Mar. 2, 1897, ch. 363, [29 Stat. 618](https://www.govinfo.gov/link/statute/29/618).)*

@@ -3,9 +3,10 @@ title: "Section 5041 - Imposition and rate of tax"
 usc_title: 26
 usc_section: "5041"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 5041"
-generated_at: "2026-03-30T02:55:27.818Z"
+generated_at: "2026-11-23T20:26:46.396Z"
+status: "active"
 ---
 
 # § 5041. Imposition and rate of tax
@@ -86,3 +87,9 @@ generated_at: "2026-03-30T02:55:27.818Z"
         - **(II)** from grape juice concentrate and water,
       - **(iii)** which contains no fruit product or fruit flavoring other than grape, and
       - **(iv)** which contains less than 8.5 percent alcohol by volume.
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 85–859, title II, § 201](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1331](https://www.govinfo.gov/link/statute/72/1331); amended [Pub. L. 86–75, § 3(a)(5)](https://www.govinfo.gov/link/plaw/86/public/75), June 30, 1959, [73 Stat. 157](https://www.govinfo.gov/link/statute/73/157); [Pub. L. 86–564, title II, § 202(a)(7)](https://www.govinfo.gov/link/plaw/86/public/564), June 30, 1960, [74 Stat. 290](https://www.govinfo.gov/link/statute/74/290); [Pub. L. 87–72, § 3(a)(7)](https://www.govinfo.gov/link/plaw/87/public/72), June 30, 1961, [75 Stat. 193](https://www.govinfo.gov/link/statute/75/193); [Pub. L. 87–508, § 3(a)(6)](https://www.govinfo.gov/link/plaw/87/public/508), June 28, 1962, [76 Stat. 114](https://www.govinfo.gov/link/statute/76/114); [Pub. L. 88–52, § 3(a)(7)](https://www.govinfo.gov/link/plaw/88/public/52), June 29, 1963, [77 Stat. 72](https://www.govinfo.gov/link/statute/77/72); [Pub. L. 88–348, § 2(a)(7)](https://www.govinfo.gov/link/plaw/88/public/348), June 30, 1964, [78 Stat. 237](https://www.govinfo.gov/link/statute/78/237); [Pub. L. 89–44, title V, § 501(c)](https://www.govinfo.gov/link/plaw/89/public/44), title VIII, § 806(a), June 21, 1965, [79 Stat. 150](https://www.govinfo.gov/link/statute/79/150), 162; [Pub. L. 93–490, § 6(a)](https://www.govinfo.gov/link/plaw/93/public/490), Oct. 26, 1974, [88 Stat. 1468](https://www.govinfo.gov/link/statute/88/1468); [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 100–647, title VI, § 6101(a)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3710](https://www.govinfo.gov/link/statute/102/3710); [Pub. L. 101–508, title XI, § 11201(b)(1)](https://www.govinfo.gov/link/plaw/101/public/508), (2), Nov. 5, 1990, [104 Stat. 1388–415](https://www.govinfo.gov/link/statute/104/1388), 1388–416; [Pub. L. 104–188, title I, § 1702(b)(5)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1868](https://www.govinfo.gov/link/statute/110/1868); [Pub. L. 105–34, title IX, § 908(a)](https://www.govinfo.gov/link/plaw/105/public/34), (b), Aug. 5, 1997, [111 Stat. 876](https://www.govinfo.gov/link/statute/111/876); [Pub. L. 105–206, title VI, § 6009(a)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 812](https://www.govinfo.gov/link/statute/112/812); [Pub. L. 114–113, div. Q, title III, § 335(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3109](https://www.govinfo.gov/link/statute/129/3109); [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 13804(a)–(c), 13805(a), 13806(a), Dec. 22, 2017, [131 Stat. 2173–2175](https://www.govinfo.gov/link/statute/131/2173); [Pub. L. 116–94, div. Q, title I, § 144(d)(1)](https://www.govinfo.gov/link/plaw/116/public/94), (2), (e)(1), (f)(1), (j)(1), Dec. 20, 2019, [133 Stat. 3235](https://www.govinfo.gov/link/statute/133/3235); [Pub. L. 116–260, div. EE, title I](https://www.govinfo.gov/link/plaw/116/public/260), §§ 106(d)(1), (2), (e)(1), (f)(1), 107(c)(1), Dec. 27, 2020, [134 Stat. 3043](https://www.govinfo.gov/link/statute/134/3043), 3044, 3047.)*

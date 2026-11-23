@@ -3,9 +3,10 @@ title: "Section 949l - Voting and rulings"
 usc_title: 10
 usc_section: "949l"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 949l"
-generated_at: "2026-03-30T02:53:38.089Z"
+generated_at: "2026-11-23T20:25:51.150Z"
+status: "active"
 ---
 
 # § 949l. Voting and rulings
@@ -19,3 +20,13 @@ generated_at: "2026-03-30T02:53:38.089Z"
   - **(2)** that in the case being considered, if there is a reasonable doubt as to the guilt of the accused, the doubt must be resolved in favor of the accused and the accused must be acquitted;
   - **(3)** that, if there is reasonable doubt as to the degree of guilt, the finding must be in a lower degree as to which there is no reasonable doubt; and
   - **(4)** that the burden of proof to establish the guilt of the accused beyond a reasonable doubt is upon the United States.
+
+Vote by Secret Written Ballot
+
+Rulings
+
+Instructions Prior to Vote
+
+## Source Credit
+
+*(Added [Pub. L. 111–84, div. A, title XVIII, § 1802](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2589](https://www.govinfo.gov/link/statute/123/2589).)*

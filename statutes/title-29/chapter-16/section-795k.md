@@ -3,9 +3,10 @@ title: "Section 795k - State plan"
 usc_title: 29
 usc_section: "795k"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 795k"
-generated_at: "2026-03-30T02:55:18.699Z"
+generated_at: "2026-11-23T20:26:37.878Z"
+status: "active"
 ---
 
 # § 795k. State plan
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:18.699Z"
     - **(H)** the State agencies designated under paragraph (1) will expend not more than 2.5 percent of the allotment of the State under this subchapter for administrative costs of carrying out this subchapter; and
     - **(I)** with respect to supported employment services provided to youth with the most significant disabilities pursuant to section 795h(d) of this title , the designated State agency will provide, directly or indirectly through public or private entities, non-Federal contributions in an amount that is not less than 10 percent of the costs of carrying out such services; and
   - **(8)** contain such other information and be submitted in such manner as the Commissioner may require.
+
+## Source Credit
+
+*([Pub. L. 93–112, title VI, § 606](https://www.govinfo.gov/link/plaw/93/public/112), formerly § 625, as added [Pub. L. 105–220, title IV, § 409](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1215](https://www.govinfo.gov/link/statute/112/1215); amended [Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(b)(16)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–414; renumbered § 606 and amended [Pub. L. 113–128, title IV, § 461(3)](https://www.govinfo.gov/link/plaw/113/public/128), (8), July 22, 2014, [128 Stat. 1679](https://www.govinfo.gov/link/statute/128/1679), 1681.)*

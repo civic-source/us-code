@@ -3,9 +3,10 @@ title: "Section 2265 - Certification and judicial review"
 usc_title: 28
 usc_section: "2265"
 chapter: 154
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 2265"
-generated_at: "2026-03-30T02:55:30.148Z"
+generated_at: "2026-11-23T20:26:36.510Z"
+status: "active"
 ---
 
 # § 2265. Certification and judicial review
@@ -22,3 +23,25 @@ generated_at: "2026-03-30T02:55:30.148Z"
   - **(1)** The determination by the Attorney General regarding whether to certify a State under this section is subject to review exclusively as provided under chapter 158 of this title.
   - **(2)** The Court of Appeals for the District of Columbia Circuit shall have exclusive jurisdiction over matters under paragraph (1), subject to review by the Supreme Court under section 2350 of this title .
   - **(3)** The determination by the Attorney General regarding whether to certify a State under this section shall be subject to de novo review.
+
+Certification.—
+
+In general
+
+Effective date
+
+Only express requirements
+
+Regulations
+
+Review of Certification.—
+
+In general
+
+Venue
+
+Standard of review
+
+## Source Credit
+
+*(Added [Pub. L. 109–177, title V, § 507(c)(1)](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 250](https://www.govinfo.gov/link/statute/120/250).)*

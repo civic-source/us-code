@@ -3,9 +3,10 @@ title: "Section 3598 - Federal Bureau of Investigation Reserve Service"
 usc_title: 5
 usc_section: "3598"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 3598"
-generated_at: "2026-03-30T02:52:56.007Z"
+generated_at: "2026-11-23T20:25:31.848Z"
+status: "active"
 ---
 
 # § 3598. 1 1 Another section 3598 is set out preceding this section. Federal Bureau of Investigation Reserve Service
@@ -17,3 +18,21 @@ generated_at: "2026-03-30T02:52:56.007Z"
 - **(e)** The Director may provide members of the FBI Reserve Service transportation and per diem in lieu of subsistence, in accordance with applicable provisions of this title, for the purpose of participating in any training that relates to service as a member of the FBI Reserve Service.
 - **(f)** Membership of the FBI Reserve Service is not to exceed 500 members at any given time.
 - **(g)** An individual may not be reemployed under this section for more than 180 days in connection with any particular emergency unless, in the judgment of the Director, the public interest so requires.
+
+Establishment
+
+Membership
+
+Annuitants
+
+No Impact on Bureau Personnel Ceiling
+
+Expenses
+
+Limitation on Membership
+
+Limitation on Duration of Service
+
+## Source Credit
+
+*(Added [Pub. L. 108–458, title II, § 2004(a)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3703](https://www.govinfo.gov/link/statute/118/3703).)*

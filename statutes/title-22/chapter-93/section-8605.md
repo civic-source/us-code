@@ -3,9 +3,10 @@ title: "Section 8605 - Definitions"
 usc_title: 22
 usc_section: "8605"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8605"
-generated_at: "2026-03-30T02:55:05.454Z"
+generated_at: "2026-11-23T20:26:32.725Z"
+status: "active"
 ---
 
 # § 8605. Definitions
@@ -16,3 +17,7 @@ In this chapter:
     - **(A)** the Committee on Appropriations, the Committee on Armed Services, the Committee on Foreign Relations, and the Select Committee on Intelligence of the Senate; and
     - **(B)** the Committee on Appropriations, the Committee on Armed Services, the Committee on Foreign Affairs, and the Permanent Select Committee on Intelligence of the House of Representatives.
   - **(2)** The term “qualitative military edge” has the meaning given the term in section 2776(h)(2) 1 1 See References in Text note below. of this title.
+
+## Source Credit
+
+*([Pub. L. 112–150, § 7](https://www.govinfo.gov/link/plaw/112/public/150), July 27, 2012, [126 Stat. 1149](https://www.govinfo.gov/link/statute/126/1149).)*

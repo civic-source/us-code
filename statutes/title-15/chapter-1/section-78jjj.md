@@ -3,9 +3,10 @@ title: "Section 78jjj - Prohibited acts"
 usc_title: 15
 usc_section: "78jjj"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 78jjj"
-generated_at: "2026-03-30T02:54:08.063Z"
+generated_at: "2026-11-23T20:26:03.581Z"
+status: "active"
 ---
 
 # § 78jjj. Prohibited acts
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:08.063Z"
 - **(d)**
   - **(1)** Any person who falsely represents by any means (including, without limitation, through the Internet or any other medium of mass communication), with actual knowledge of the falsity of the representation and with an intent to deceive or cause injury to another, that such person, or another person, is a member of SIPC or that any person or account is protected or is eligible for protection under this chapter or by SIPC, shall be liable for any damages caused thereby and shall be fined not more than $250,000 or imprisoned for not more than 5 years.
   - **(2)** Any court having jurisdiction of a civil action arising under this chapter may grant temporary injunctions and final injunctions on such terms as the court deems reasonable to prevent or restrain any violation of paragraph (1). Any such injunction may be served anywhere in the United States on the person enjoined, shall be operative throughout the United States, and shall be enforceable, by proceedings in contempt or otherwise, by any United States court having jurisdiction over that person. The clerk of the court granting the injunction shall, when requested by any other court in which enforcement of the injunction is sought, transmit promptly to the other court a certified copy of all papers in the case on file in such clerk’s office.
+
+## Source Credit
+
+*([Pub. L. 91–598, § 14](https://www.govinfo.gov/link/plaw/91/public/598), formerly § 10, Dec. 30, 1970, [84 Stat. 1655](https://www.govinfo.gov/link/statute/84/1655); renumbered § 14 and amended [Pub. L. 95–283](https://www.govinfo.gov/link/plaw/95/public/283), §§ 9, 13, May 21, 1978, [92 Stat. 260](https://www.govinfo.gov/link/statute/92/260), 269; [Pub. L. 111–203, title IX, § 929V(b)](https://www.govinfo.gov/link/plaw/111/public/203), (c), July 21, 2010, [124 Stat. 1868](https://www.govinfo.gov/link/statute/124/1868).)*

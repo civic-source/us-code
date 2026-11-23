@@ -3,9 +3,10 @@ title: "Section 4612 - Definitions and special rules"
 usc_title: 26
 usc_section: "4612"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 4612"
-generated_at: "2026-03-30T02:55:27.804Z"
+generated_at: "2026-11-23T20:26:46.330Z"
+status: "active"
 ---
 
 # § 4612. Definitions and special rules
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:55:27.804Z"
     - **(B)** Transfers may be made under subparagraph (A) only to the extent that the unobligated balance of the Oil Spill Liability Trust Fund exceeds $1,000,000,000. If any transfer is not made by reason of the preceding sentence, such transfer shall be made as soon as permitted under such sentence.
   - **(4)** No portion of the unused business credit for any taxable year which is attributable to the credit determined under this subsection may be carried to a taxable year beginning on or before the date of the enactment of this paragraph.
 - **(f)** The provisions of subsections (a)(3) and (b)(3) of section 7652 shall not apply to any tax imposed by section 4611.
+
+## Source Credit
+
+*(Added [Pub. L. 96–510, title II, § 211(a)](https://www.govinfo.gov/link/plaw/96/public/510), Dec. 11, 1980, [94 Stat. 2798](https://www.govinfo.gov/link/statute/94/2798); amended [Pub. L. 99–499, title V, § 512(c)](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1761](https://www.govinfo.gov/link/statute/100/1761); [Pub. L. 99–509, title VIII, § 8032(b)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1957](https://www.govinfo.gov/link/statute/100/1957); [Pub. L. 101–239, title VII, § 7505(c)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2363](https://www.govinfo.gov/link/statute/103/2363); [Pub. L. 101–380, title IX, § 9002](https://www.govinfo.gov/link/plaw/101/public/380), Aug. 18, 1990, [104 Stat. 574](https://www.govinfo.gov/link/statute/104/574); [Pub. L. 102–486, title XIX, § 1922(a)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3028](https://www.govinfo.gov/link/statute/106/3028); [Pub. L. 115–141, div. U, title IV, § 401(a)(223)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1194](https://www.govinfo.gov/link/statute/132/1194).)*

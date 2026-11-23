@@ -3,9 +3,10 @@ title: "Section 21083a - Access for congressional election observers"
 usc_title: 52
 usc_section: "21083a"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "52 U.S.C. § 21083a"
-generated_at: "2026-03-30T02:56:30.168Z"
+generated_at: "2026-11-23T20:27:36.988Z"
+status: "active"
 ---
 
 # § 21083a. Access for congressional election observers
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:30.168Z"
   - **(3)** If a designated congressional election observer is properly removed under paragraph (1)(A), the chair or ranking minority member of the Committee on House Administration of the House of Representatives or the Committee on Rules and Administration of the Senate, as appropriate, may send another designated congressional election observer as a replacement for the remaining duration of the observation of election administration procedures.
 - **(d)** In this section, a “designated congressional election observer” is a House or Senate employee who is designated in writing by the chair or ranking minority member of the Committee on House Administration of the House of Representatives or the Committee on Rules and Administration of the Senate, or a successor committee, to gather information with respect to an election, including in the event that the election is contested in the House of Representatives or the Senate and for other purposes permitted by article 1, section 5, clause 1 and article 1, section 4, clause 1 of the Constitution of the United States.
 - **(e)** In this section, the term “State” means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+
+## Source Credit
+
+*([Pub. L. 107–252, title III, § 304](https://www.govinfo.gov/link/plaw/107/public/252), as added [Pub. L. 118–106, § 2(a)(2)](https://www.govinfo.gov/link/plaw/118/public/106), Oct. 4, 2024, [138 Stat. 1591](https://www.govinfo.gov/link/statute/138/1591).)*

@@ -3,9 +3,10 @@ title: "Section 4245 - Hospitalization of an imprisoned person suffering from me
 usc_title: 18
 usc_section: "4245"
 chapter: 313
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 4245"
-generated_at: "2026-03-30T02:54:16.529Z"
+generated_at: "2026-11-23T20:26:08.791Z"
+status: "active"
 ---
 
 # § 4245. Hospitalization of an imprisoned person suffering from mental disease or defect
@@ -15,3 +16,17 @@ generated_at: "2026-03-30T02:54:16.529Z"
 - **(c)** The hearing shall be conducted pursuant to the provisions of section 4247(d).
 - **(d)** If, after the hearing, the court finds by a preponderance of the evidence that the person is presently suffering from a mental disease or defect for the treatment of which he is in need of custody for care or treatment in a suitable facility, the court shall commit the person to the custody of the Attorney General. The Attorney General shall hospitalize the person for treatment in a suitable facility until he is no longer in need of such custody for care or treatment or until the expiration of the sentence of imprisonment, whichever occurs earlier.
 - **(e)** When the director of the facility in which the person is hospitalized pursuant to subsection (d) determines that the person has recovered from his mental disease or defect to such an extent that he is no longer in need of custody for care or treatment in such a facility, he shall promptly file a certificate to that effect with the clerk of the court that ordered the commitment. The clerk shall send a copy of the certificate to the person’s counsel and to the attorney for the Government. If, at the time of the filing of the certificate, the term of imprisonment imposed upon the person has not expired, the court shall order that the person be reimprisoned until the expiration of his sentence of imprisonment.
+
+Motion To Determine Present Mental Condition of Imprisoned Person
+
+Psychiatric or Psychological Examination and Report
+
+Hearing
+
+Determination and Disposition
+
+Discharge
+
+## Source Credit
+
+*(Added Sept. 7, 1949, ch. 535, § 1, [63 Stat. 687](https://www.govinfo.gov/link/statute/63/687); amended [Pub. L. 98–473, title II, § 403(a)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2062](https://www.govinfo.gov/link/statute/98/2062).)*

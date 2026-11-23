@@ -3,9 +3,10 @@ title: "Section 1310 - Application for registration"
 usc_title: 17
 usc_section: "1310"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 1310"
-generated_at: "2026-03-30T02:54:15.357Z"
+generated_at: "2026-11-23T20:26:06.548Z"
+status: "active"
 ---
 
 # § 1310. Application for registration
@@ -31,3 +32,27 @@ generated_at: "2026-03-30T02:54:15.357Z"
 - **(h)** The application for registration shall be accompanied by two copies of a drawing or other pictorial representation of the useful article embodying the design, having one or more views, adequate to show the design, in a form and style suitable for reproduction, which shall be deemed a part of the application.
 - **(i)** If the distinguishing elements of a design are in substantially the same form in different useful articles, the design shall be protected as to all such useful articles when protected as to one of them, but not more than one registration shall be required for the design.
 - **(j)** More than one design may be included in the same application under such conditions as may be prescribed by the Administrator. For each design included in an application the fee prescribed for a single design shall be paid.
+
+Time Limit for Application for Registration
+
+When Design is Made Public
+
+Application by Owner of Design
+
+Contents of Application
+
+Sworn Statement
+
+Effect of Errors
+
+Design Made in Scope of Employment
+
+Pictorial Representation of Design
+
+Design in More Than One Useful Article
+
+Application for More Than One Design
+
+## Source Credit
+
+*(Added [Pub. L. 105–304, title V, § 502](https://www.govinfo.gov/link/plaw/105/public/304), Oct. 28, 1998, [112 Stat. 2909](https://www.govinfo.gov/link/statute/112/2909).)*

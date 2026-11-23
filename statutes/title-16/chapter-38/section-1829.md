@@ -3,9 +3,10 @@ title: "Section 1829 - International monitoring and compliance"
 usc_title: 16
 usc_section: "1829"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1829"
-generated_at: "2026-03-30T02:54:22.987Z"
+generated_at: "2026-11-23T20:26:20.559Z"
+status: "active"
 ---
 
 # § 1829. International monitoring and compliance
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:22.987Z"
   - **(5)** enhance enforcement capabilities through the application of commercial or governmental remote sensing technology to locate or identify vessels engaged in illegal, unreported, or unregulated fishing on the high seas, including encroachments into the exclusive economic zone by fishing vessels of other nations;
   - **(6)** provide technical or other assistance to developing countries to improve their monitoring, control, and surveillance capabilities; and
   - **(7)** support coordinated international efforts to ensure that all large-scale fishing vessels operating on the high seas are required by their flag State to be fitted with vessel monitoring systems no later than December 31, 2008 , or earlier if so decided by the relevant flag State or any relevant international fishery management organization.
+
+## Source Credit
+
+*([Pub. L. 94–265, title II, § 207](https://www.govinfo.gov/link/plaw/94/public/265), as added [Pub. L. 109–479, title IV, § 401](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3625](https://www.govinfo.gov/link/statute/120/3625).)*

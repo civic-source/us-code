@@ -3,9 +3,10 @@ title: "Section 4103 - Duties of Commission; publication of guidelines; report t
 usc_title: 15
 usc_section: "4103"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 4103"
-generated_at: "2026-03-30T02:54:08.197Z"
+generated_at: "2026-11-23T20:26:04.330Z"
+status: "active"
 ---
 
 # § 4103. Duties of Commission; publication of guidelines; report to Congress
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:08.197Z"
   - **(9)** recommend to the Interagency Committee the means for developing international scientific cooperation in the Arctic; and
   - **(10)** not later than January 31, 1991 , and every 2 years thereafter, publish a statement of goals and objectives with respect to Arctic research to guide the Interagency Committee established under section 4106 of this title in the performance of its duties.
 - **(b)** Not later than January 31 of each year, the Commission shall submit to the President and to the Congress a report describing the activities and accomplishments of the Commission during the immediately preceding fiscal year.
+
+## Source Credit
+
+*([Pub. L. 98–373, title I, § 104](https://www.govinfo.gov/link/plaw/98/public/373), July 31, 1984, [98 Stat. 1244](https://www.govinfo.gov/link/statute/98/1244); [Pub. L. 101–609, § 4](https://www.govinfo.gov/link/plaw/101/public/609), Nov. 16, 1990, [104 Stat. 3125](https://www.govinfo.gov/link/statute/104/3125).)*

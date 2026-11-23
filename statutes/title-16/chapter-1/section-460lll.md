@@ -3,9 +3,10 @@ title: "Section 460lll - Definitions"
 usc_title: 16
 usc_section: "460lll"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 460lll"
-generated_at: "2026-03-30T02:54:22.840Z"
+generated_at: "2026-11-23T20:26:20.015Z"
+status: "active"
 ---
 
 # § 460lll. Definitions
@@ -41,3 +42,7 @@ In this subchapter:
   - **(14)** The term “response action” has the meaning given the term in section 101 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ( 42 U.S.C. 9601 ).
   - **(15)** The term “Secretary” means the Secretary of Agriculture.
   - **(16)** The term “State” means the State of Kentucky and the State of Tennessee.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. A, § 101(e) [title V, § 502]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–231](https://www.govinfo.gov/link/statute/112/2681), 2681–310; [Pub. L. 117–328, div. DD, title II, § 201(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5581](https://www.govinfo.gov/link/statute/136/5581).)*

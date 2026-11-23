@@ -3,9 +3,10 @@ title: "Section 204 - Administration"
 usc_title: 29
 usc_section: "204"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 204"
-generated_at: "2026-03-30T02:55:18.680Z"
+generated_at: "2026-11-23T20:26:37.791Z"
+status: "active"
 ---
 
 # § 204. Administration
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:18.680Z"
   - **(3)** The Secretary shall conduct a continuing study on means to prevent curtailment of employment opportunities for manpower groups which have had historically high incidences of unemployment (such as disadvantaged minorities, youth, elderly, and such other groups as the Secretary may designate). The first report of the results of such study shall be transmitted to the Congress not later than one year after the effective date of the Fair Labor Standards Amendments of 1974. Subsequent reports on such study shall be transmitted to the Congress at two-year intervals after such effective date. Each such report shall include suggestions respecting the Secretary’s authority under section 214 of this title .
 - **(e)** Whenever the Secretary has reason to believe that in any industry under this chapter the competition of foreign producers in United States markets or in markets abroad, or both, has resulted, or is likely to result, in increased unemployment in the United States, he shall undertake an investigation to gain full information with respect to the matter. If he determines such increased unemployment has in fact resulted, or is in fact likely to result, from such competition, he shall make a full and complete report of his findings and determinations to the President and to the Congress: Provided , That he may also include in such report information on the increased employment resulting from additional exports in any industry under this chapter as he may determine to be pertinent to such report.
 - **(f)** The Secretary is authorized to enter into an agreement with the Librarian of Congress with respect to individuals employed in the Library of Congress to provide for the carrying out of the Secretary’s functions under this chapter with respect to such individuals. Notwithstanding any other provision of this chapter, or any other law, the Director of the Office of Personnel Management is authorized to administer the provisions of this chapter with respect to any individual employed by the United States (other than an individual employed in the Library of Congress, United States Postal Service, Postal Regulatory Commission, or the Tennessee Valley Authority). Nothing in this subsection shall be construed to affect the right of an employee to bring an action for unpaid minimum wages, or unpaid overtime compensation, and liquidated damages under section 216(b) of this title .
+
+## Source Credit
+
+*(June 25, 1938, ch. 676, § 4, [52 Stat. 1061](https://www.govinfo.gov/link/statute/52/1061); Oct. 26, 1949, ch. 736, § 4, [63 Stat. 911](https://www.govinfo.gov/link/statute/63/911); Oct. 28, 1949, ch. 782, title XI, § 1106(a), [63 Stat. 972](https://www.govinfo.gov/link/statute/63/972); Aug. 12, 1955, ch. 867, § 2, [69 Stat. 711](https://www.govinfo.gov/link/statute/69/711); [Pub. L. 87–30, § 3](https://www.govinfo.gov/link/plaw/87/public/30), May 5, 1961, [75 Stat. 66](https://www.govinfo.gov/link/statute/75/66); [Pub. L. 93–259](https://www.govinfo.gov/link/plaw/93/public/259), §§ 6(b), 24(c), 27, Apr. 8, 1974, [88 Stat. 60](https://www.govinfo.gov/link/statute/88/60), 72, 73; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783](https://www.govinfo.gov/link/statute/92/3783); [Pub. L. 104–66, title I, § 1102(a)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 722](https://www.govinfo.gov/link/statute/109/722); [Pub. L. 109–435, title VI, § 604(f)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3242](https://www.govinfo.gov/link/statute/120/3242).)*

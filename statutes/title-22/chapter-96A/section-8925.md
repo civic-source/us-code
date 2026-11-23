@@ -3,9 +3,10 @@ title: "Section 8925 - Increased military assistance for the Government of Ukrai
 usc_title: 22
 usc_section: "8925"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8925"
-generated_at: "2026-03-30T02:55:05.459Z"
+generated_at: "2026-11-23T20:26:32.746Z"
+status: "active"
 ---
 
 # § 8925. Increased military assistance for the Government of Ukraine
@@ -19,3 +20,9 @@ generated_at: "2026-03-30T02:55:05.459Z"
   - **(2)** Amounts authorized to be appropriated pursuant to paragraph (1) shall remain available for obligation and expenditure through the end of fiscal year 2018.
 - **(d)** The funds made available pursuant to subsection (c) for provision of defense articles, defense services, and training may be used to procure such articles, services, and training from the United States Government or other appropriate sources.
 - **(e)** It is the sense of Congress that the Government of Ukraine should take all appropriate steps to protect civilians.
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 113–272, § 6](https://www.govinfo.gov/link/plaw/113/public/272), Dec. 18, 2014, [128 Stat. 2959](https://www.govinfo.gov/link/statute/128/2959).)*

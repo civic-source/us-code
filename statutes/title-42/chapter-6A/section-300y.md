@@ -3,9 +3,10 @@ title: "Section 300y - Data infrastructure development"
 usc_title: 42
 usc_section: "300y"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 300y"
-generated_at: "2026-03-30T02:56:10.815Z"
+generated_at: "2026-11-23T20:27:20.562Z"
+status: "active"
 ---
 
 # § 300y. Data infrastructure development
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:10.815Z"
 - **(f)**
   - **(1)** For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001, 2002 and 2003.
   - **(2)** Of the amounts appropriated under paragraph (1) for a fiscal year, 50 percent shall be expended to support data infrastructure development for mental health and 50 percent shall be expended to support data infrastructure development for substance use.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XIX, § 1971, as added [Pub. L. 106–310, div. B, title XXXIV, § 3404(2)](https://www.govinfo.gov/link/plaw/106/public/310), Oct. 17, 2000, [114 Stat. 1220](https://www.govinfo.gov/link/statute/114/1220); amended [Pub. L. 117–328, div. FF, title I, § 1241(b)(2)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5678](https://www.govinfo.gov/link/statute/136/5678).)*

@@ -3,9 +3,10 @@ title: "Section 10173 - Benefits agreements"
 usc_title: 42
 usc_section: "10173"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10173"
-generated_at: "2026-03-30T02:56:11.383Z"
+generated_at: "2026-11-23T20:27:23.217Z"
+status: "active"
 ---
 
 # § 10173. Benefits agreements
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.383Z"
 - **(d)** The Secretary shall offer to enter into a benefits agreement relating to a monitored retrievable storage facility with the governing body of the Indian tribe on whose reservation the site for such facility is located, or, if the site is not located on a reservation, with the Governor of the State in which the site is located and in consultation with affected units of local government in such State.
 - **(e)** Only one benefits agreement for a repository and only one benefits agreement for a monitored retrievable storage facility may be in effect at any one time.
 - **(f)** Decisions of the Secretary under this section are not subject to judicial review.
+
+## Source Credit
+
+*([Pub. L. 97–425, title I, § 170](https://www.govinfo.gov/link/plaw/97/public/425), as added [Pub. L. 100–202, § 101(d) [title III, § 300]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–104](https://www.govinfo.gov/link/statute/101/1329), 1329–121; [Pub. L. 100–203, title V, § 5031](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–237](https://www.govinfo.gov/link/statute/101/1330).)*

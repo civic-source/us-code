@@ -3,9 +3,10 @@ title: "Section 3352d - Reports on reciprocity for security clearances inside of
 usc_title: 50
 usc_section: "3352d"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3352d"
-generated_at: "2026-03-30T02:56:26.247Z"
+generated_at: "2026-11-23T20:27:30.976Z"
+status: "active"
 ---
 
 # § 3352d. Reports on reciprocity for security clearances inside of departments and agencies
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:26.247Z"
   - **(1)** identifies the number of individuals whose security clearances took more than 2 weeks for reciprocity recognition after such individuals move to another part of such department or agency; and
   - **(2)** breaks out the information described in paragraph (1) by type of clearance and the reasons for any delays.
 - **(b)** Not less frequently than once each year, the Security Executive Agent shall submit to the appropriate congressional committees and make available to industry partners a report that summarizes the information received pursuant to subsection (b) during the period covered by such report.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. E, title LXVI, § 6608](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2216](https://www.govinfo.gov/link/statute/133/2216).)*

@@ -3,9 +3,10 @@ title: "Section 3019 - Tutorial assistance"
 usc_title: 38
 usc_section: "3019"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 3019"
-generated_at: "2026-03-30T02:55:53.499Z"
+generated_at: "2026-11-23T20:27:01.818Z"
+status: "active"
 ---
 
 # § 3019. Tutorial assistance
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:53.499Z"
 - **(c)**
   - **(1)** An individual’s period of entitlement to educational assistance under this chapter shall be charged only with respect to the amount of tutorial assistance paid to the individual under this section in excess of $600.
   - **(2)** An individual’s period of entitlement to educational assistance under this chapter shall be charged at the rate of one month for each amount of assistance paid to the individual under this section in excess of $600 that is equal to the amount of the monthly educational assistance allowance which the individual is otherwise eligible to receive for full-time pursuit of an institutional course under this chapter.
+
+## Source Credit
+
+*(Added [Pub. L. 100–689, title I, § 107(a)(1)](https://www.govinfo.gov/link/plaw/100/public/689), Nov. 18, 1988, [102 Stat. 4167](https://www.govinfo.gov/link/statute/102/4167), § 1419; renumbered § 3019 and amended [Pub. L. 102–83, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/83), (c)(1), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406).)*

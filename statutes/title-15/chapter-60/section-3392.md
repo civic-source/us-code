@@ -3,9 +3,10 @@ title: "Section 3392 - Natural gas for essential industrial process and feedstoc
 usc_title: 15
 usc_section: "3392"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 3392"
-generated_at: "2026-03-30T02:54:08.189Z"
+generated_at: "2026-11-23T20:26:04.284Z"
+status: "active"
 ---
 
 # § 3392. Natural gas for essential industrial process and feedstock uses
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:08.189Z"
 - **(d)** For purposes of this section—
   - **(1)** The term “essential industrial process or feedstock use” means any use of natural gas in an industrial process or as a feedstock which the Secretary determines is essential.
   - **(2)** The term “high-priority user” has the same meaning as given such term in section 3391(f)(2) of this title .
+
+## Source Credit
+
+*([Pub. L. 95–621, title IV, § 402](https://www.govinfo.gov/link/plaw/95/public/621), Nov. 9, 1978, [92 Stat. 3395](https://www.govinfo.gov/link/statute/92/3395).)*

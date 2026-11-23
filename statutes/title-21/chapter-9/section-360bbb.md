@@ -3,9 +3,10 @@ title: "Section 360bbb - Expanded access to unapproved therapies and diagnostics
 usc_title: 21
 usc_section: "360bbb"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 360bbb"
-generated_at: "2026-03-30T02:54:54.254Z"
+generated_at: "2026-11-23T20:26:27.667Z"
+status: "active"
 ---
 
 # § 360bbb. Expanded access to unapproved therapies and diagnostics
@@ -28,3 +29,25 @@ generated_at: "2026-03-30T02:54:54.254Z"
   - **(7)** in the case of immediately life-threatening diseases, the available scientific evidence, taken as a whole, provides a reasonable basis to conclude that the investigational drug or investigational device may be effective for its intended use and would not expose patients to an unreasonable and significant risk of illness or injury.
 - **(d)** The Secretary may, at any time, with respect to a sponsor, physician, manufacturer, or distributor described in this section, terminate expanded access provided under this section for an investigational drug or investigational device if the requirements under this section are no longer met.
 - **(e)** In this section, the terms “investigational drug”, “investigational device”, “treatment investigational new drug application”, and “treatment investigational device exemption” shall have the meanings given the terms in regulations prescribed by the Secretary.
+
+Patient Access to Investigational Drugs.—
+
+Public meeting.—
+
+In general
+
+Topics
+
+Report
+
+Guidance.—
+
+In general
+
+Contents
+
+Improving Institutional Review Board Review of Single Patient Expanded Access Protocol
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 561, as added [Pub. L. 105–115, title IV, § 402](https://www.govinfo.gov/link/plaw/105/public/115), Nov. 21, 1997, [111 Stat. 2365](https://www.govinfo.gov/link/statute/111/2365); amended [Pub. L. 109–482, title I, § 102(f)(2)](https://www.govinfo.gov/link/plaw/109/public/482), Jan. 15, 2007, [120 Stat. 3685](https://www.govinfo.gov/link/statute/120/3685).)*

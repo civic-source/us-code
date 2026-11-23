@@ -3,9 +3,10 @@ title: "Section 3702 - General provisions"
 usc_title: 5
 usc_section: "3702"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 3702"
-generated_at: "2026-03-30T02:52:56.007Z"
+generated_at: "2026-11-23T20:25:31.849Z"
+status: "active"
 ---
 
 # § 3702. General provisions
@@ -23,3 +24,37 @@ generated_at: "2026-03-30T02:52:56.007Z"
 - **(f)** In exercising any authority under this chapter, an agency shall take into consideration—
   - **(1)** the need to ensure that small business concerns are appropriately represented with respect to the assignments described in sections 3703 and 3704, respectively; and
   - **(2)** how assignments described in section 3703 might best be used to help meet the needs of the agency for the training of employees in information technology management.
+
+Assignment Authority
+
+Agreements
+
+Termination
+
+Duration
+
+Assistance
+
+Considerations
+
+Assignment Authority
+
+Agreements
+
+Termination
+
+Duration
+
+Terms and Conditions for Private Sector Employees
+
+Prohibition Against Charging Certain Costs to the Federal Government
+
+Considerations
+
+Numerical Limitation
+
+Repeal of Superseded Section
+
+## Source Credit
+
+*(Added [Pub. L. 107–347, title II, § 209(c)(1)](https://www.govinfo.gov/link/plaw/107/public/347), Dec. 17, 2002, [116 Stat. 2925](https://www.govinfo.gov/link/statute/116/2925).)*

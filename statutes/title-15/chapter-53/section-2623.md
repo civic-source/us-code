@@ -3,9 +3,10 @@ title: "Section 2623 - Employment effects"
 usc_title: 15
 usc_section: "2623"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2623"
-generated_at: "2026-03-30T02:54:08.178Z"
+generated_at: "2026-11-23T20:26:04.229Z"
+status: "active"
 ---
 
 # § 2623. Employment effects
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:08.178Z"
       - **(ii)** each employee who made or for whom was made a request for such hearings and the employer of such employee shall be required to present information respecting the applicable matter referred to in paragraph (1)(A) or (1)(B) together with the basis for such information.
   - **(3)** Upon completion of an investigation under paragraph (2), the Administrator shall make findings of fact, shall make such recommendations as the Administrator deems appropriate, and shall make available to the public such findings and recommendations.
   - **(4)** This section shall not be construed to require the Administrator to amend or repeal any rule or order in effect under this chapter.
+
+## Source Credit
+
+*([Pub. L. 94–469, title I, § 24](https://www.govinfo.gov/link/plaw/94/public/469), Oct. 11, 1976, [90 Stat. 2045](https://www.govinfo.gov/link/statute/90/2045); renumbered title I, [Pub. L. 99–519, § 3(c)(1)](https://www.govinfo.gov/link/plaw/99/public/519), Oct. 22, 1986, [100 Stat. 2989](https://www.govinfo.gov/link/statute/100/2989); amended [Pub. L. 114–182, title I, § 19(p)](https://www.govinfo.gov/link/plaw/114/public/182), June 22, 2016, [130 Stat. 510](https://www.govinfo.gov/link/statute/130/510).)*

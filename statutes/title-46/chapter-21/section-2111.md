@@ -3,9 +3,10 @@ title: "Section 2111 - Pay for overtime services"
 usc_title: 46
 usc_section: "2111"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 2111"
-generated_at: "2026-03-30T02:56:15.541Z"
+generated_at: "2026-11-23T20:27:27.047Z"
+status: "active"
 ---
 
 # § 2111. Pay for overtime services
@@ -19,3 +20,16 @@ generated_at: "2026-03-30T02:56:15.541Z"
 - **(c)** The overtime rate provided under subsection (a) of this section for Sundays and holidays is 2 additional days’ pay.
 - **(d)** The owner, charterer, managing operator, agent, master, or individual in charge of the vessel shall pay the amount of the overtime pay provided under this section to the official designated by regulation. The official shall deposit the amount paid to the Treasury as miscellaneous receipts. Payment to the officer or employee entitled to the pay shall be made from the annual appropriations for salaries and expenses of the Coast Guard.
 - **(e)** The overtime pay provided under this section shall be paid if the authorized officers and employees have been ordered to report for duty and have reported, even if services requested were not performed.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 2111 | 46:382b |
+
+
+Historical and Revision Notes
+
+2111
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 507](https://www.govinfo.gov/link/statute/97/507).)*

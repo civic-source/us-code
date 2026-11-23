@@ -3,9 +3,10 @@ title: "Section 4066 - Cost-of-living adjustment of annuities"
 usc_title: 22
 usc_section: "4066"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4066"
-generated_at: "2026-03-30T02:55:05.404Z"
+generated_at: "2026-11-23T20:26:32.508Z"
+status: "active"
 ---
 
 # § 4066. Cost-of-living adjustment of annuities
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:05.404Z"
       - **(i)** beginning on the date the annuity commenced (or, in the case of a survivor of the retired participant, the date the participant’s annuity commenced), and
       - **(ii)** ending on the effective date of the adjustment under this section.
   - **(2)** For the purposes of paragraph (1) of this subsection, “pay” means the rate of salary or basic pay as payable under any provision of law, including any provision of law limiting the expenditure of appropriated funds.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 826](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2123](https://www.govinfo.gov/link/statute/94/2123); Ex. Ord. No. 12289, § 1, Feb. 14, 1981, 46 F.R. 12693; Ex. Ord. No. 12446, §§ 2(a), 6(a), Oct. 17, 1983, 48 F.R. 48443, 48446; [Pub. L. 99–335, title IV, § 402(a)(3)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 609](https://www.govinfo.gov/link/statute/100/609); [Pub. L. 100–238, title II, § 219](https://www.govinfo.gov/link/plaw/100/public/238), Jan. 8, 1988, [101 Stat. 1775](https://www.govinfo.gov/link/statute/101/1775).)*

@@ -3,9 +3,10 @@ title: "Section 2101 - General definitions"
 usc_title: 46
 usc_section: "2101"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 2101"
-generated_at: "2026-03-30T02:56:15.540Z"
+generated_at: "2026-11-23T20:27:27.034Z"
+status: "active"
 ---
 
 # § 2101. General definitions
@@ -170,3 +171,185 @@ In this subtitle—
     - **(C)** under the command of an officer commissioned by the government of that country and whose name appears in the appropriate service list or its equivalent; and
     - **(D)** staffed by a crew under regular armed forces discipline.
   - **(58)** “wing-in-ground craft” means a vessel that is capable of operating completely above the surface of the water on a dynamic air cushion created by aerodynamic lift due to the ground effect between the vessel and the water’s surface.
+
+| Revised section | Source section (U.S. Code) |
+| --- | --- |
+| 2101(1) | 46:1452(8) |
+| 2101(2) | .............................................. |
+| 2101(3) | .............................................. |
+| 2101(4) | 14:1 |
+| 2101(5) | 46:391a(2)(H) |
+| 2101(6) | .............................................. |
+| 2101(7) | 46:391a(2)(S) |
+| 2101(8) | 46:391a(2)(N) |
+| 2101(9) | 46:391a(2)(A) |
+| 2101(10) | 46:65(1) |
+| 2101(11) | 46:65(2) |
+| 2101(12) | 46:391a(2)(B) 46:597 46:599 |
+| 2101(13) | 46:404 46:390(e) |
+| 2101(14) | 46:391a(2)(C) |
+| 2101(15) | 46:391a(2)(D) |
+| 2101(16) | 46:361 46:367 46:404 |
+| 2101(17) | 46:404 46:1295f(c) 46:1295g(e)(1) |
+| 2101(18) | 46:441(1) |
+| 2101(19) | 46:404–1(1) |
+| 2101(20) | 46:391a(2)(E) |
+| 2101(21) | 46:390(a) 46:404–1(4) 46:1452(5) |
+| 2101(22) | 46:391(c) |
+| 2101(23) | 46:391a(2)(O) |
+| 2101(24) | 46:391a(2)(G) |
+| 2101(25) | 46:1452(1)(A), (B) |
+| 2101(26) | 46:1452(7) |
+| 2101(27) | 46:390(f) |
+| 2101(28) | 46:390(h) |
+| 2101(29) | 46:390(i) |
+| 2101(30) | 46:390(g) |
+| 2101(31) | 46:441(2) |
+| 2101(32) | 46:395(e) |
+| 2101(33) | 46:367 |
+| 2101(34) | 33:151 46:216(b) 46:239a(b) 46:390(d) 46:391a(2)(I) 46:405(b)(1)(A) 46:481(a) 46:672(a) 46:1452(9) |
+| 2101(35) | 46:390(b) |
+| 2101(36) | .............................................. |
+| 2101(37) | 46:361 |
+| 2101(38) | 46:391a(2)(M) |
+| 2101(39) | 46:391a(3) |
+| 2101(40) | 46:405 |
+| 2101(41) | 46:1452(3) |
+| 2101(42) | 46:1452(1)(C) |
+| 2101(43) | 46:526 |
+| 2101(44) | .............................................. |
+| 2101(45) | 1:3 46:1452(2) |
+| 2101(46) | 46:391a(2)(L) |
+
+
+2101(1)
+
+2101(2)
+
+2101(3)
+
+2101(4)
+
+2101(5)
+
+2101(6)
+
+2101(7)
+
+2101(8)
+
+2101(9)
+
+2101(10)
+
+2101(11)
+
+2101(12)
+
+2101(13)
+
+2101(14)
+
+2101(15)
+
+2101(16)
+
+2101(17)
+
+2101(18)
+
+2101(19)
+
+2101(20)
+
+2101(21)
+
+2101(22)
+
+2101(23)
+
+2101(24)
+
+2101(25)
+
+2101(26)
+
+2101(27)
+
+2101(28)
+
+2101(29)
+
+2101(30)
+
+2101(31)
+
+2101(32)
+
+2101(33)
+
+2101(34)
+
+2101(35)
+
+2101(36)
+
+2101(37)
+
+2101(38)
+
+2101(39)
+
+2101(40)
+
+2101(41)
+
+2101(42)
+
+2101(43)
+
+2101(44)
+
+2101(45)
+
+2101(46)
+
+Definitions
+
+Interim Exemption
+
+Applicability
+
+Limitations
+
+Safety.—
+
+Safety restrictions
+
+Comprehensive lists
+
+Notification
+
+Briefing
+
+Termination
+
+Applicability Date for Certain Chartered Vessels
+
+Extension of Period
+
+Conditions for Extension
+
+Operation of Vessel During Extension Period
+
+“In this title [see section 201 of Pub. L. 115–265 , set out as a Short Title of 2018 Amendment note under section 101 of this title ]:
+
+Commandant
+
+Recognized organization
+
+Secretary
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 501](https://www.govinfo.gov/link/statute/97/501); [Pub. L. 98–364, title IV, § 402(1)](https://www.govinfo.gov/link/plaw/98/public/364), July 17, 1984, [98 Stat. 445](https://www.govinfo.gov/link/statute/98/445); [Pub. L. 98–454, title III, § 301(a)](https://www.govinfo.gov/link/plaw/98/public/454), Oct. 5, 1984, [98 Stat. 1734](https://www.govinfo.gov/link/statute/98/1734); [Pub. L. 98–557, § 34(a)](https://www.govinfo.gov/link/plaw/98/public/557), Oct. 30, 1984, [98 Stat. 2876](https://www.govinfo.gov/link/statute/98/2876); [Pub. L. 99–307, § 1(1)](https://www.govinfo.gov/link/plaw/99/public/307), (2), May 19, 1986, [100 Stat. 444](https://www.govinfo.gov/link/statute/100/444); [Pub. L. 99–509, title V, § 5102(b)(1)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1926](https://www.govinfo.gov/link/statute/100/1926); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 99–640](https://www.govinfo.gov/link/plaw/99/public/640), §§ 10(b)(1), 11(a), 13(d), Nov. 10, 1986, [100 Stat. 3549–3551](https://www.govinfo.gov/link/statute/100/3549); [Pub. L. 100–239, § 6(a)(1)](https://www.govinfo.gov/link/plaw/100/public/239), Jan. 11, 1988, [101 Stat. 1781](https://www.govinfo.gov/link/statute/101/1781); [Pub. L. 100–424, § 8(c)(1)](https://www.govinfo.gov/link/plaw/100/public/424), Sept. 9, 1988, [102 Stat. 1593](https://www.govinfo.gov/link/statute/102/1593); [Pub. L. 100–710, title I, § 104(a)(1)](https://www.govinfo.gov/link/plaw/100/public/710), (2), Nov. 23, 1988, [102 Stat. 4749](https://www.govinfo.gov/link/statute/102/4749); [Pub. L. 101–225, title II, § 209](https://www.govinfo.gov/link/plaw/101/public/225), Dec. 12, 1989, [103 Stat. 1913](https://www.govinfo.gov/link/statute/103/1913); [Pub. L. 101–380, title IV, § 4103(a)(2)(A)](https://www.govinfo.gov/link/plaw/101/public/380), Aug. 18, 1990, [104 Stat. 511](https://www.govinfo.gov/link/statute/104/511); [Pub. L. 101–595, title VI, § 603(1)](https://www.govinfo.gov/link/plaw/101/public/595), Nov. 16, 1990, [104 Stat. 2993](https://www.govinfo.gov/link/statute/104/2993); [Pub. L. 102–587, title V, § 5208(a)](https://www.govinfo.gov/link/plaw/102/public/587), Nov. 4, 1992, [106 Stat. 5075](https://www.govinfo.gov/link/statute/106/5075); [Pub. L. 103–206, title V](https://www.govinfo.gov/link/plaw/103/public/206), §§ 502–510, Dec. 20, 1993, [107 Stat. 2439–2441](https://www.govinfo.gov/link/statute/107/2439); [Pub. L. 103–272, § 5](https://www.govinfo.gov/link/plaw/103/public/272) (l), July 5, 1994, [108 Stat. 1375](https://www.govinfo.gov/link/statute/108/1375); [Pub. L. 104–324, title VII, § 709](https://www.govinfo.gov/link/plaw/104/public/324), title XI, § 1104(a), Oct. 19, 1996, [110 Stat. 3934](https://www.govinfo.gov/link/statute/110/3934), 3966; [Pub. L. 105–383, title III, § 301(b)(1)](https://www.govinfo.gov/link/plaw/105/public/383), Nov. 13, 1998, [112 Stat. 3417](https://www.govinfo.gov/link/statute/112/3417); [Pub. L. 107–217, § 3(m)(1)](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1302](https://www.govinfo.gov/link/statute/116/1302); [Pub. L. 107–295, title IV, § 419](https://www.govinfo.gov/link/plaw/107/public/295), Nov. 25, 2002, [116 Stat. 2124](https://www.govinfo.gov/link/statute/116/2124); [Pub. L. 109–241, title III](https://www.govinfo.gov/link/plaw/109/public/241), §§ 301, 312(b), July 11, 2006, [120 Stat. 526](https://www.govinfo.gov/link/statute/120/526), 533; [Pub. L. 109–304, § 15(2)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1702](https://www.govinfo.gov/link/statute/120/1702); [Pub. L. 111–281, title VI](https://www.govinfo.gov/link/plaw/111/public/281), §§ 617(a)(1)(A), 618, Oct. 15, 2010, [124 Stat. 2972](https://www.govinfo.gov/link/statute/124/2972), 2975; [Pub. L. 111–330, § 1(9)](https://www.govinfo.gov/link/plaw/111/public/330), Dec. 22, 2010, [124 Stat. 3570](https://www.govinfo.gov/link/statute/124/3570); [Pub. L. 115–232, div. C, title XXXV, § 3541(a)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2322](https://www.govinfo.gov/link/statute/132/2322); [Pub. L. 115–282, title V, § 515](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4279](https://www.govinfo.gov/link/statute/132/4279); [Pub. L. 117–263, div. K, title CXVI, § 11601(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4145](https://www.govinfo.gov/link/statute/136/4145); [Pub. L. 119–60, div. G, title LXXIII, § 7301(a)](https://www.govinfo.gov/link/plaw/119/public/60), (k)(1)(A), title LXXVII, § 7701(f)(1), Dec. 18, 2025, [139 Stat. 1751](https://www.govinfo.gov/link/statute/139/1751), 1759, 1835.)*

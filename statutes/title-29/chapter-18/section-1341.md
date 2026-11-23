@@ -3,9 +3,10 @@ title: "Section 1341 - Termination of single-employer plans"
 usc_title: 29
 usc_section: "1341"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1341"
-generated_at: "2026-03-30T02:55:18.731Z"
+generated_at: "2026-11-23T20:26:38.018Z"
+status: "active"
 ---
 
 # § 1341. Termination of single-employer plans
@@ -135,3 +136,57 @@ generated_at: "2026-03-30T02:55:18.731Z"
   - **(1)** A single-employer plan is sufficient for benefit liabilities if there is no amount of unfunded benefit liabilities under the plan.
   - **(2)** A single-employer plan is sufficient for guaranteed benefits if there is no amount of unfunded guaranteed benefits under the plan.
 - **(e)** The adoption of an amendment to a plan which causes the plan to become a plan described in section 1321(b)(1) of this title constitutes a termination of the plan. Such an amendment may take effect only after the plan satisfies the requirements for standard termination under subsection (b) or distress termination under subsection (c).
+
+In general
+
+Transition rule
+
+In General
+
+Transitional Rules.—
+
+In general
+
+Deemed compliance with notice requirements
+
+Special termination procedures.—
+
+In general
+
+Terminations proceeding as standard termination.—
+
+Terminations for which sufficiency notices have not been issued.—
+
+In general
+
+Special notice regarding sufficiency for terminations for which notices of sufficiency have not been issued as of date of enactment
+
+Terminations for which notices of sufficiency have been issued
+
+Terminations proceeding as distress termination
+
+Termination of proceedings by plan administrator.—
+
+In general
+
+Terminations with respect to which final distribution of assets has commenced
+
+Authority of corporation to extend 90-day periods to permit standard termination
+
+Authority To Prescribe Temporary Procedures
+
+Requirements to be met before final distribution of assets
+
+Plans to which subsection applies
+
+Consideration of complaints
+
+Delay on issuance of notice.—
+
+General rule
+
+Exception in cases of substantial business hardship
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4041](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 1020](https://www.govinfo.gov/link/statute/88/1020); [Pub. L. 96–364, title IV, § 403(d)](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1301](https://www.govinfo.gov/link/statute/94/1301); [Pub. L. 99–272, title XI](https://www.govinfo.gov/link/plaw/99/public/272), §§ 11007, 11008(a), (b), 11009, Apr. 7, 1986, [100 Stat. 244](https://www.govinfo.gov/link/statute/100/244), 247, 248; [Pub. L. 100–203, title IX](https://www.govinfo.gov/link/plaw/100/public/203), §§ 9312(c)(1), (2), 9313(a)(1)–(2)(E), (b)(1)–(5), 9314(a), Dec. 22, 1987, [101 Stat. 1330–363](https://www.govinfo.gov/link/statute/101/1330) to 1330–366; [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7881(f)(7), (g)(1)–(6), 7893(c), (d), Dec. 19, 1989, [103 Stat. 2440](https://www.govinfo.gov/link/statute/103/2440), 2441, 2447; [Pub. L. 103–465, title VII](https://www.govinfo.gov/link/plaw/103/public/465), §§ 776(b)(3), 778(a)(1), (b)(1), Dec. 8, 1994, [108 Stat. 5048–5050](https://www.govinfo.gov/link/statute/108/5048); [Pub. L. 109–280, title IV, § 409(a)](https://www.govinfo.gov/link/plaw/109/public/280), title V, § 506(a), Aug. 17, 2006, [120 Stat. 933](https://www.govinfo.gov/link/statute/120/933), 946; [Pub. L. 110–458, title I](https://www.govinfo.gov/link/plaw/110/public/458), §§ 104(d), 105(e)(1), Dec. 23, 2008, [122 Stat. 5104](https://www.govinfo.gov/link/statute/122/5104), 5105.)*

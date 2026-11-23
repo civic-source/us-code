@@ -3,9 +3,10 @@ title: "Section 7628 - Support for research regarding diseases of wheat, tritica
 usc_title: 7
 usc_section: "7628"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7628"
-generated_at: "2026-03-30T02:53:42.459Z"
+generated_at: "2026-11-23T20:25:41.816Z"
+status: "active"
 ---
 
 # § 7628. Support for research regarding diseases of wheat, triticale, and barley caused by Fusarium graminearum or by Tilletia indica
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:42.459Z"
   - **(2)** $10,000,000 for each of fiscal years 2014 through 2018; and
   - **(3)** $15,000,000 for each of fiscal years 2019 through 2023.
 - **(f)** A recipient of a grant under this section may not use more than 10 percent of the funds provided by the grant for the indirect costs of carrying out the initiatives described in subsection (a).
+
+## Source Credit
+
+*([Pub. L. 105–185, title IV, § 408](https://www.govinfo.gov/link/plaw/105/public/185), June 23, 1998, [112 Stat. 574](https://www.govinfo.gov/link/statute/112/574); [Pub. L. 107–171, title VII](https://www.govinfo.gov/link/plaw/107/public/171), §§ 7131, 7207(d)(1)–(4)(A), May 13, 2002, [116 Stat. 435](https://www.govinfo.gov/link/statute/116/435), 440, 441; [Pub. L. 110–234, title VII, § 7307](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1242](https://www.govinfo.gov/link/statute/122/1242); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, § 7307, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2004; [Pub. L. 113–79, title VII, § 7303](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 888](https://www.govinfo.gov/link/statute/128/888); [Pub. L. 115–334, title VII, § 7303](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4815](https://www.govinfo.gov/link/statute/132/4815).)*

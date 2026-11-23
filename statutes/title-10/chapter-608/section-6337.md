@@ -3,9 +3,10 @@ title: "Section 6337 - Critical technology partnerships and cooperative research
 usc_title: 10
 usc_section: "6337"
 chapter: 608
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6337"
-generated_at: "2026-03-30T02:53:38.227Z"
+generated_at: "2026-11-23T20:25:52.032Z"
+status: "active"
 ---
 
 # § 6337. Critical technology partnerships and cooperative research and development centers
@@ -31,3 +32,13 @@ generated_at: "2026-03-30T02:53:38.227Z"
       - **(iii)** Agencies of State governments.
       - **(iv)** Any other persons or entities that may be eligible and appropriate, as determined in accordance with applicable laws and regulations.
   - **(4)** The term “atomic energy defense activities” does not include activities covered by Executive Order No. 12344, dated February 1, 1982 , pertaining to the Naval nuclear propulsion program.
+
+Partnerships
+
+Cooperative Research and Development Centers
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2)(B), Dec. 18, 2025, [139 Stat. 1450](https://www.govinfo.gov/link/statute/139/1450), 1462.)*

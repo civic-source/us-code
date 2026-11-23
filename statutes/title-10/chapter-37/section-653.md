@@ -3,9 +3,10 @@ title: "Section 653 - Minimum service requirement for certain flight crew positi
 usc_title: 10
 usc_section: "653"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 653"
-generated_at: "2026-03-30T02:53:38.072Z"
+generated_at: "2026-11-23T20:25:51.035Z"
+status: "active"
 ---
 
 # § 653. Minimum service requirement for certain flight crew positions
@@ -16,3 +17,13 @@ generated_at: "2026-03-30T02:53:38.072Z"
   - **(1)** completion of undergraduate pilot training, in the case of training as a pilot;
   - **(2)** completion of undergraduate navigator training, in the case of training as a navigator; or
   - **(3)** completion of undergraduate training as a naval flight officer, in the case of training as a naval flight officer.
+
+Pilots
+
+Navigators and Naval Flight Officers
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 101–189, div. A, title VI, § 634(a)(1)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1454](https://www.govinfo.gov/link/statute/103/1454); amended [Pub. L. 101–510, div. A, title XIV, § 1484(k)(3)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1719](https://www.govinfo.gov/link/statute/104/1719); [Pub. L. 102–484, div. A, title V, § 506(a)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2404](https://www.govinfo.gov/link/statute/106/2404).)*

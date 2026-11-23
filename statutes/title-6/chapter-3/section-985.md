@@ -3,9 +3,10 @@ title: "Section 985 - Information sharing relating to supply chain security coop
 usc_title: 6
 usc_section: "985"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 985"
-generated_at: "2026-03-30T02:53:09.503Z"
+generated_at: "2026-11-23T20:25:34.895Z"
+status: "active"
 ---
 
 # § 985. Information sharing relating to supply chain security cooperation
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:09.503Z"
 - **(e)** The Secretary may provide advisories, alerts, and warnings to relevant companies, targeted sectors, other governmental entities, or the general public regarding potential risks to the supply chain as appropriate. In issuing a warning, the Secretary shall take appropriate actions to protect from disclosure—
   - **(1)** the source of any voluntarily submitted supply chain security information that forms the basis for the warning; and
   - **(2)** information that is proprietary, business sensitive, relates specifically to the submitting person or entity, or is otherwise not appropriately in the public domain.
+
+## Source Credit
+
+*([Pub. L. 109–347, title II, § 236](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1919](https://www.govinfo.gov/link/statute/120/1919).)*

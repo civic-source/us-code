@@ -3,9 +3,10 @@ title: "Section 6483 - Sense of Congress regarding national security strategy to
 usc_title: 22
 usc_section: "6483"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6483"
-generated_at: "2026-03-30T02:55:05.430Z"
+generated_at: "2026-11-23T20:26:32.619Z"
+status: "active"
 ---
 
 # § 6483. Sense of Congress regarding national security strategy to promote religious freedom through United States foreign policy
@@ -18,3 +19,7 @@ It is the sense of Congress that the annual national security strategy report of
     - **(B)** makes clear its importance to United States foreign policy goals of stability, security, development, and diplomacy;
   - **(3)** should be a guide for the strategies and activities of relevant Federal agencies; and
   - **(4)** should inform the Department of Defense quadrennial defense review under section 118 1 1 See References in Text note below. of title 10 and the Department of State Quadrennial Diplomacy and Development Review.
+
+## Source Credit
+
+*([Pub. L. 105–292, title VII, § 703](https://www.govinfo.gov/link/plaw/105/public/292), as added [Pub. L. 114–281, title VI, § 601](https://www.govinfo.gov/link/plaw/114/public/281), Dec. 16, 2016, [130 Stat. 1439](https://www.govinfo.gov/link/statute/130/1439).)*

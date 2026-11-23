@@ -3,9 +3,10 @@ title: "Section 4145 - Delivery of assistance through intermediaries"
 usc_title: 12
 usc_section: "4145"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4145"
-generated_at: "2026-03-30T02:53:53.502Z"
+generated_at: "2026-11-23T20:25:59.370Z"
+status: "active"
 ---
 
 # § 4145. Delivery of assistance through intermediaries
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:53:53.502Z"
   - **(4)** in the case of a regional or State nonprofit organization, has been in existence for at least 3 years prior to the date of application and has been classified by the Internal Revenue Service as an exempt organization under section 501(c)(3) of title 26 or is otherwise a tax-exempt entity;
   - **(5)** has a record of service to low-income individuals or community-based nonprofit housing developers in multiple communities and, with respect to intermediaries administering assistance under section 4143 of this title , has experience with the allocation or administration of grant or loan funds; and
   - **(6)** meets standards of fiscal responsibility established by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 100–242, title II, § 255](https://www.govinfo.gov/link/plaw/100/public/242), as added [Pub. L. 102–550, title III, § 312](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3767](https://www.govinfo.gov/link/statute/106/3767).)*

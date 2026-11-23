@@ -3,9 +3,10 @@ title: "Section 469 - Passive activity losses and credits limited"
 usc_title: 26
 usc_section: "469"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 469"
-generated_at: "2026-03-30T02:55:27.706Z"
+generated_at: "2026-11-23T20:26:45.769Z"
+status: "active"
 ---
 
 # § 469. Passive activity losses and credits limited
@@ -172,3 +173,45 @@ generated_at: "2026-03-30T02:55:27.706Z"
   - **(3)** requiring net income or gain from a limited partnership or other passive activity to be treated as not from a passive activity,
   - **(4)** which provide for the determination of the allocation of interest expense for purposes of this section, and
   - **(5)** which deal with changes in marital status and changes between joint returns and separate returns.
+
+Special phase-out of low-income housing and rehabilitation credits
+
+Ordering rule to reflect separate phase-outs
+
+In general
+
+Special rule where interest held in pass-thru entity
+
+In general
+
+Special rule for carryovers
+
+Income from sales of passive activities in taxable years beginning before january 1, 1987
+
+General Rule
+
+Relief Period
+
+Qualified Low-Income Housing Project
+
+Qualified Investor
+
+In general
+
+Treatment of estates
+
+Special rule for certain partnerships
+
+Special rule for certain rural housing
+
+Special Rules.—
+
+Where more than 1 building in project
+
+Only cash and other property taken into account
+
+Coordination with credit
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title V, § 501(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2233](https://www.govinfo.gov/link/statute/100/2233); amended [Pub. L. 100–203, title X, § 10212(a)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–405](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–647, title I, § 1005(a)(1)](https://www.govinfo.gov/link/plaw/100/public/647) –(9), (11), (12), title II, § 2004(g), title VI, § 6009(c)(3), Nov. 10, 1988, [102 Stat. 3387–3389](https://www.govinfo.gov/link/statute/102/3387), 3603, 3690; [Pub. L. 101–239, title VII, § 7109(a)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2322](https://www.govinfo.gov/link/statute/103/2322); [Pub. L. 101–508, title XI](https://www.govinfo.gov/link/plaw/101/public/508), §§ 11704(a)(6), 11813(b)(16), Nov. 5, 1990, [104 Stat. 1388–518](https://www.govinfo.gov/link/statute/104/1388), 1388–555; [Pub. L. 103–66, title XIII, § 13143(a)](https://www.govinfo.gov/link/plaw/103/public/66), (b), Aug. 10, 1993, [107 Stat. 440](https://www.govinfo.gov/link/statute/107/440), 441; [Pub. L. 104–188, title I](https://www.govinfo.gov/link/plaw/104/public/188), §§ 1704(d)(1), (e)(1), 1807(c)(4), Aug. 20, 1996, [110 Stat. 1878](https://www.govinfo.gov/link/statute/110/1878), 1902; [Pub. L. 105–277, div. J, title IV, § 4003(a)(2)(D)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–908](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 106–554, § 1(a)(7) [title I, § 101(b)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–599; [Pub. L. 107–16, title IV, § 431(c)(3)](https://www.govinfo.gov/link/plaw/107/public/16), June 7, 2001, [115 Stat. 68](https://www.govinfo.gov/link/statute/115/68); [Pub. L. 107–147, title IV, § 412(a)](https://www.govinfo.gov/link/plaw/107/public/147), Mar. 9, 2002, [116 Stat. 53](https://www.govinfo.gov/link/statute/116/53); [Pub. L. 108–357, title I, § 102(d)(5)](https://www.govinfo.gov/link/plaw/108/public/357), title III, § 331(g), Oct. 22, 2004, [118 Stat. 1429](https://www.govinfo.gov/link/statute/118/1429), 1477; [Pub. L. 113–295, div. A, title II, § 221(a)(41)(G)](https://www.govinfo.gov/link/plaw/113/public/295), (60)(A), Dec. 19, 2014, [128 Stat. 4044](https://www.govinfo.gov/link/statute/128/4044), 4047; [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 13305(b)(1), 14202(b)(3), Dec. 22, 2017, [131 Stat. 2126](https://www.govinfo.gov/link/statute/131/2126), 2216; [Pub. L. 115–141, div. U, title IV, § 401(d)(1)(D)(ii)](https://www.govinfo.gov/link/plaw/115/public/141), (5)(B)(i)–(iii), Mar. 23, 2018, [132 Stat. 1206](https://www.govinfo.gov/link/statute/132/1206), 1210; [Pub. L. 116–260, div. EE, title I, § 104(b)(2)(H)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3041](https://www.govinfo.gov/link/statute/134/3041); [Pub. L. 117–2, title IX, § 9042(b)(8)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 122](https://www.govinfo.gov/link/statute/135/122).)*

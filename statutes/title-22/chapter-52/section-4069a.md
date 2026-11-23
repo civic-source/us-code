@@ -3,9 +3,10 @@ title: "Section 4069a - Retirement benefits for certain former spouses"
 usc_title: 22
 usc_section: "4069a"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4069a"
-generated_at: "2026-03-30T02:55:05.404Z"
+generated_at: "2026-11-23T20:26:32.510Z"
+status: "active"
 ---
 
 # § 4069a. Retirement benefits for certain former spouses
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:05.404Z"
 - **(f)** Any individual who on February 14, 1981 , was an otherwise qualified former spouse pursuant to this section, but who was married to a former Foreign Service employee of the United States Information Agency or of the Agency for International Development, shall be entitled to benefits under this section if—
   - **(1)** the former employee retired from the Civil Service Retirement and Disability System on a date before his employing agency could legally participate in the Foreign Service Retirement and Disability System; and
   - **(2)** the marriage included at least five years during which the employee was assigned overseas.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 830](https://www.govinfo.gov/link/plaw/96/public/465), as added [Pub. L. 100–204, title I, § 188(a)](https://www.govinfo.gov/link/plaw/100/public/204), Dec. 22, 1987, [101 Stat. 1369](https://www.govinfo.gov/link/statute/101/1369); amended [Pub. L. 101–246, title I, § 146(a)](https://www.govinfo.gov/link/plaw/101/public/246), Feb. 16, 1990, [104 Stat. 37](https://www.govinfo.gov/link/statute/104/37).)*

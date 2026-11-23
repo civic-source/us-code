@@ -3,9 +3,10 @@ title: "Section 50908 - Effective periods, and modifications, suspensions, and r
 usc_title: 51
 usc_section: "50908"
 chapter: 509
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 50908"
-generated_at: "2026-03-30T02:56:28.708Z"
+generated_at: "2026-11-23T20:27:37.504Z"
+status: "active"
 ---
 
 # § 50908. Effective periods, and modifications, suspensions, and revocations, of licenses
@@ -25,3 +26,46 @@ generated_at: "2026-03-30T02:56:28.708Z"
   - **(3)** This subsection shall not apply to permits.
 - **(e)** Unless the Secretary specifies otherwise, a modification, suspension, or revocation under this section takes effect immediately and remains in effect during a review under section 50912 of this title .
 - **(f)** The Secretary shall notify the licensee in writing of the decision of the Secretary under this section and any action the Secretary takes or proposes to take based on the decision.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 70107(a) | 49 App.:2606 (last sentence). | Oct. 30, 1984 , Pub. L. 98–575 , §§ 7 (last sentence), 10, 98 Stat. 3058 , 3059. |
+| 70107(b) | 49 App.:2609(b). |  |
+| 70107(c) | 49 App.:2609(a). |  |
+| 70107(d) | 49 App.:2609(c). |  |
+| 70107(e) | 49 App.:2609(d). |  |
+
+
+Effective Periods of Licenses
+
+Modifications
+
+Suspensions and Revocations
+
+Additional Suspensions
+
+Effective Periods of Modifications, Suspensions, and Revocations
+
+Notification
+
+Historical and Revision Notes
+
+70107(a)
+
+Oct. 30, 1984
+
+Pub. L. 98–575
+
+98 Stat. 3058
+
+70107(b)
+
+70107(c)
+
+70107(d)
+
+70107(e)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1334](https://www.govinfo.gov/link/statute/108/1334), § 70107 of title 49; [Pub. L. 108–492, § 2(c)(18)](https://www.govinfo.gov/link/plaw/108/public/492), (19), Dec. 23, 2004, [118 Stat. 3980](https://www.govinfo.gov/link/statute/118/3980); renumbered § 70107 then § 50908 of title 51 and amended [Pub. L. 111–314, § 4(d)(2)](https://www.govinfo.gov/link/plaw/111/public/314), (3)(H), (5)(J), (K), Dec. 18, 2010, [124 Stat. 3440–3442](https://www.govinfo.gov/link/statute/124/3440); [Pub. L. 114–90, title I, § 112(n)](https://www.govinfo.gov/link/plaw/114/public/90), Nov. 25, 2015, [129 Stat. 713](https://www.govinfo.gov/link/statute/129/713).)*

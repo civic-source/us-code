@@ -3,9 +3,10 @@ title: "Section 7527 - Advance payment of credit for health insurance costs of e
 usc_title: 26
 usc_section: "7527"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 7527"
-generated_at: "2026-03-30T02:55:27.878Z"
+generated_at: "2026-11-23T20:26:46.801Z"
+status: "active"
 ---
 
 # § 7527. Advance payment of credit for health insurance costs of eligible individuals
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:27.878Z"
     - **(A)** after the date that is 1 year after the date of the enactment of the Trade Adjustment Assistance Reauthorization Act of 2015; and
     - **(B)** prior to the first month for which an advance payment is made on behalf of such individual under subsection (a).
   - **(2)** The amount of any payment determined under paragraph (1) shall be reduced by the amount of any payment made to the taxpayer for the purchase of qualified health insurance under a national emergency grant pursuant to section 173(f) of the Workforce Investment Act of 1998 (as in effect on the day before the date of enactment of the Workforce Innovation and Opportunity Act) for a taxable year including the eligible coverage months described in paragraph (1).
+
+## Source Credit
+
+*(Added [Pub. L. 107–210, div. A, title II, § 202(a)](https://www.govinfo.gov/link/plaw/107/public/210), Aug. 6, 2002, [116 Stat. 960](https://www.govinfo.gov/link/statute/116/960); amended [Pub. L. 111–5, div. B, title I](https://www.govinfo.gov/link/plaw/111/public/5), §§ 1899A(a)(2), 1899B(a), 1899H(a), Feb. 17, 2009, [123 Stat. 424](https://www.govinfo.gov/link/statute/123/424), 430; [Pub. L. 111–344, title I](https://www.govinfo.gov/link/plaw/111/public/344), §§ 111(b), 112(a), 118(a), Dec. 29, 2010, [124 Stat. 3615](https://www.govinfo.gov/link/statute/124/3615), 3616; [Pub. L. 112–40, title II, § 241(b)(2)](https://www.govinfo.gov/link/plaw/112/public/40), Oct. 21, 2011, [125 Stat. 418](https://www.govinfo.gov/link/statute/125/418); [Pub. L. 113–128, title V, § 512(r)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1712](https://www.govinfo.gov/link/statute/128/1712); [Pub. L. 114–27, title IV, § 407(c)](https://www.govinfo.gov/link/plaw/114/public/27), June 29, 2015, [129 Stat. 382](https://www.govinfo.gov/link/statute/129/382).)*

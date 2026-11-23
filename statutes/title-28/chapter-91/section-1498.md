@@ -3,9 +3,10 @@ title: "Section 1498 - Patent and copyright cases"
 usc_title: 28
 usc_section: "1498"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 1498"
-generated_at: "2026-03-30T02:55:30.141Z"
+generated_at: "2026-11-23T20:26:36.456Z"
+status: "active"
 ---
 
 # § 1498. Patent and copyright cases
@@ -15,3 +16,11 @@ generated_at: "2026-03-30T02:55:30.141Z"
 - **(c)** The provisions of this section shall not apply to any claim arising in a foreign country.
 - **(d)** Hereafter, whenever a plant variety protected by a certificate of plant variety protection under the laws of the United States shall be infringed by the United States, by a corporation owned or controlled by the United States, or by a contractor, subcontractor, or any person, firm, or corporation acting for the Government, and with the authorization and consent of the Government, the exclusive remedy of the owner of such certificate shall be by action against the United States in the Court of Federal Claims for the recovery of his reasonable and entire compensation as damages for such infringement: Provided , That a Government employee shall have a right of action against the Government under this subsection except where he was in a position to order, influence, or induce use of the protected plant variety by the Government: Provided, however , That this subsection shall not confer a right of action on any certificate owner or any assignee of such owner with respect to any protected plant variety made by a person while in the employment or service of the United States, where such variety was prepared as a part of the official functions of the employee, or in the preparation of which Government time, material, or facilities were used: And provided further , That before such action against the United States has been instituted, the appropriate corporation owned or controlled by the United States or the head of the appropriate agency of the Government, as the case may be, is authorized to enter into an agreement with the certificate owner in full settlement and compromise, for the damages accrued to him by reason of such infringement and to settle the claim administratively out of available appropriations.
 - **(e)** Subsections (b) and (c) of this section apply to exclusive rights in mask works under chapter 9 of title 17, and to exclusive rights in designs under chapter 13 of title 17, to the same extent as such subsections apply to copyrights.
+
+Act
+
+Act
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 941](https://www.govinfo.gov/link/statute/62/941); May 24, 1949, ch. 139, § 87, [63 Stat. 102](https://www.govinfo.gov/link/statute/63/102); Oct. 31, 1951, ch. 655, § 50(c), [65 Stat. 727](https://www.govinfo.gov/link/statute/65/727); July 17, 1952, ch. 930, [66 Stat. 757](https://www.govinfo.gov/link/statute/66/757); [Pub. L. 86–726](https://www.govinfo.gov/link/plaw/86/public/726), §§ 1, 4, Sept. 8, 1960, [74 Stat. 855](https://www.govinfo.gov/link/statute/74/855), 856; [Pub. L. 91–577, title III, § 143(d)](https://www.govinfo.gov/link/plaw/91/public/577), Dec. 24, 1970, [84 Stat. 1559](https://www.govinfo.gov/link/statute/84/1559); [Pub. L. 94–553, title I, § 105(c)](https://www.govinfo.gov/link/plaw/94/public/553), Oct. 19, 1976, [90 Stat. 2599](https://www.govinfo.gov/link/statute/90/2599); [Pub. L. 97–164, title I, § 133(d)](https://www.govinfo.gov/link/plaw/97/public/164), Apr. 2, 1982, [96 Stat. 40](https://www.govinfo.gov/link/statute/96/40); [Pub. L. 100–702, title X, § 1020(a)(6)](https://www.govinfo.gov/link/plaw/100/public/702), Nov. 19, 1988, [102 Stat. 4671](https://www.govinfo.gov/link/statute/102/4671); [Pub. L. 102–572, title IX, § 902(a)](https://www.govinfo.gov/link/plaw/102/public/572), Oct. 29, 1992, [106 Stat. 4516](https://www.govinfo.gov/link/statute/106/4516); [Pub. L. 104–308, § 1(a)](https://www.govinfo.gov/link/plaw/104/public/308), Oct. 19, 1996, [110 Stat. 3814](https://www.govinfo.gov/link/statute/110/3814); [Pub. L. 105–147, § 3](https://www.govinfo.gov/link/plaw/105/public/147), Dec. 16, 1997, [111 Stat. 2680](https://www.govinfo.gov/link/statute/111/2680); [Pub. L. 105–304, title V, § 503(d)](https://www.govinfo.gov/link/plaw/105/public/304), Oct. 28, 1998, [112 Stat. 2917](https://www.govinfo.gov/link/statute/112/2917).)*

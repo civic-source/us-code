@@ -3,9 +3,10 @@ title: "Section 17375 - Regional clean energy innovation program"
 usc_title: 42
 usc_section: "17375"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17375"
-generated_at: "2026-03-30T02:56:11.506Z"
+generated_at: "2026-11-23T20:27:23.756Z"
+status: "active"
 ---
 
 # § 17375. Regional clean energy innovation program
@@ -83,3 +84,7 @@ generated_at: "2026-03-30T02:56:11.506Z"
 - **(l)** In carrying out the activities under this section, the Secretary shall ensure proper security controls are in place to protect sensitive information, as appropriate.
 - **(m)** No funds provided to the Department of Energy under this section shall be used for construction.
 - **(n)** There are authorized to be appropriated to the Secretary to carry out this section $50,000,000 for each of fiscal years 2023 through 2027.
+
+## Source Credit
+
+*([Pub. L. 110–140, title IX, § 936](https://www.govinfo.gov/link/plaw/110/public/140), as added [Pub. L. 117–167, div. B, title VI, § 10622](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1660](https://www.govinfo.gov/link/statute/136/1660).)*

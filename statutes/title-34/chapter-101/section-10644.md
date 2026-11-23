@@ -3,9 +3,10 @@ title: "Section 10644 - Requirements"
 usc_title: 34
 usc_section: "10644"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10644"
-generated_at: "2026-03-30T02:55:33.273Z"
+generated_at: "2026-11-23T20:26:50.495Z"
+status: "active"
 ---
 
 # § 10644. Requirements
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:33.273Z"
   - **(2)** support for local applications for Community Grants; and
   - **(3)** community progress toward reducing crime, violence, and substance abuse.
 - **(c)** Beginning in the third year of the program, States must certify that the local grantee’s project funded under the community grant is generally consistent with statewide strategic goals and objectives, and performance targets and measures.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 2988](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 107–273, div. C, title I, § 11027(b)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1835](https://www.govinfo.gov/link/statute/116/1835).)*

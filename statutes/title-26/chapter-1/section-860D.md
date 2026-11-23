@@ -3,9 +3,10 @@ title: "Section 860D - REMIC defined"
 usc_title: 26
 usc_section: "860D"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 860D"
-generated_at: "2026-03-30T02:55:27.737Z"
+generated_at: "2026-11-23T20:26:45.919Z"
+status: "active"
 ---
 
 # § 860D. REMIC defined
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:27.737Z"
       - **(ii)** the Secretary determines that such cessation was inadvertent,
       - **(iii)** no later than a reasonable time after the discovery of the event resulting in such cessation, steps are taken so that such entity is once more a REMIC, and
       - **(iv)** such entity, and each person holding an interest in such entity at any time during the period specified pursuant to this subsection, agrees to make such adjustments (consistent with the treatment of such entity as a REMIC or a C corporation) as may be required by the Secretary with respect to such period,
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title VI, § 671(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2311](https://www.govinfo.gov/link/statute/100/2311); amended [Pub. L. 100–647, title I, § 1006(t)(2)(A)](https://www.govinfo.gov/link/plaw/100/public/647), (16)(A), (19), Nov. 10, 1988, [102 Stat. 3419](https://www.govinfo.gov/link/statute/102/3419), 3423, 3426; [Pub. L. 101–508, title XI, § 11704(a)(8)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–518](https://www.govinfo.gov/link/statute/104/1388).)*

@@ -3,9 +3,10 @@ title: "Section 460vv - Findings and purposes"
 usc_title: 16
 usc_section: "460vv"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 460vv"
-generated_at: "2026-03-30T02:54:22.832Z"
+generated_at: "2026-11-23T20:26:19.985Z"
+status: "active"
 ---
 
 # § 460vv. Findings and purposes
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:22.832Z"
 - **(b)** The purposes of this subchapter are to—
   - **(1)** designate certain National Forest System lands in the State of Oklahoma as components of the National Wilderness Preservation System, in order to promote, perpetuate, and preserve the wilderness character of the lands, protect watersheds and wildlife habitat, preserve scenic and historic resources, and promote scientific research, primitive recreation, solitude, physical and mental challenge, and inspiration for the benefit of all the American people, to a greater extent than is possible in the absence of wilderness designation; and to ensure that certain other National Forest System lands in the State of Oklahoma be available for nonwilderness multiple uses; and
   - **(2)** designate certain National Forest System lands in the State of Oklahoma as a national recreation area, 2 botanical areas, a national scenic area, and a national scenic and wildlife area in order to enhance and further certain natural resources characteristics.
+
+## Source Credit
+
+*([Pub. L. 100–499, § 2](https://www.govinfo.gov/link/plaw/100/public/499), Oct. 18, 1988, [102 Stat. 2491](https://www.govinfo.gov/link/statute/102/2491).)*

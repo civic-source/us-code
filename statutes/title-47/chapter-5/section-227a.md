@@ -3,9 +3,10 @@ title: "Section 227a - Consumer education materials on how to avoid scams that r
 usc_title: 47
 usc_section: "227a"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 227a"
-generated_at: "2026-03-30T02:56:24.499Z"
+generated_at: "2026-11-23T20:27:28.841Z"
+status: "active"
 ---
 
 # § 227a. Consumer education materials on how to avoid scams that rely upon misleading or inaccurate caller identification information
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:24.499Z"
     - **(B)** provide other information that may help consumers identify and avoid scams and other fraudulent activity that rely upon the use of misleading or inaccurate caller identification information.
   - **(3)** The Commission shall ensure that the consumer education materials required under paragraph (1) are updated on a regular basis.
   - **(4)** The Commission shall include the consumer education materials developed under paragraph (1) on its website.
+
+## Source Credit
+
+*([Pub. L. 115–141, div. P, title V, § 503(b)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1092](https://www.govinfo.gov/link/statute/132/1092).)*

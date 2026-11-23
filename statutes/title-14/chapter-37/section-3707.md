@@ -3,9 +3,10 @@ title: "Section 3707 - Temporary members of the Reserve; disability or death ben
 usc_title: 14
 usc_section: "3707"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 3707"
-generated_at: "2026-03-30T02:53:51.503Z"
+generated_at: "2026-11-23T20:25:54.635Z"
+status: "active"
 ---
 
 # § 3707. Temporary members of the Reserve; disability or death benefits
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:51.503Z"
     - **(C)** 25 percent under subsection (a)(4) of that section, if one parent was wholly dependent for support upon the deceased member at the time of the member’s death and the other was not dependent to any extent; 16 percent to each if both were wholly dependent; and if one was, or both were, partly dependent, a proportionate amount in the discretion of the Secretary of Labor;
   - **(2)** payments may not be made under subsection (a)(5) of that section; and
   - **(3)** the Secretary of Labor shall inform the Commissioner of Social Security whenever a claim is filed and eligibility for compensation is established under subsection (a)(2) or (a)(3) of section 8133 of title 5 . The Commissioner of Social Security shall then certify to the Secretary of Labor whether or not the member concerned was fully or currently insured under title II of the Social Security Act at the time of the member’s death.
+
+## Source Credit
+
+*(Added [Pub. L. 96–322, § 1](https://www.govinfo.gov/link/plaw/96/public/322), Aug. 4, 1980, [94 Stat. 1004](https://www.govinfo.gov/link/statute/94/1004), § 707; amended [Pub. L. 97–136, § 8(a)](https://www.govinfo.gov/link/plaw/97/public/136), Dec. 29, 1981, [95 Stat. 1706](https://www.govinfo.gov/link/statute/95/1706); [Pub. L. 97–295, § 2(21)](https://www.govinfo.gov/link/plaw/97/public/295), Oct. 12, 1982, [96 Stat. 1303](https://www.govinfo.gov/link/statute/96/1303); [Pub. L. 103–296, title I, § 108(g)](https://www.govinfo.gov/link/plaw/103/public/296), Aug. 15, 1994, [108 Stat. 1487](https://www.govinfo.gov/link/statute/108/1487); renumbered § 3707, [Pub. L. 115–282, title I, § 118(b)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4233](https://www.govinfo.gov/link/statute/132/4233); [Pub. L. 116–283, div. G, title LVXXXV](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXV], § 8505(a)(51), Jan. 1, 2021, [134 Stat. 4750](https://www.govinfo.gov/link/statute/134/4750).)*

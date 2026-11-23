@@ -3,9 +3,10 @@ title: "Section 2350 - Corrosion prevention"
 usc_title: 33
 usc_section: "2350"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2350"
-generated_at: "2026-03-30T02:55:41.128Z"
+generated_at: "2026-11-23T20:26:54.202Z"
+status: "active"
 ---
 
 # § 2350. Corrosion prevention
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:55:41.128Z"
 - **(d)** In the first annual report submitted to Congress after December 16, 2016 , in accordance with section 556 of this title , and section 2295(b) of this title , the Secretary shall report on the corrosion prevention activities encouraged under this section, including—
   - **(1)** a description of the actions the Secretary has taken to implement this section; and
   - **(2)** a description of the projects utilizing corrosion prevention activities, including which activities were undertaken.
+
+## Source Credit
+
+*([Pub. L. 113–121, title I, § 1033](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1233](https://www.govinfo.gov/link/statute/128/1233); [Pub. L. 114–322, title I, § 1142](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1658](https://www.govinfo.gov/link/statute/130/1658); [Pub. L. 118–272, div. A, title I, § 1135](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3025](https://www.govinfo.gov/link/statute/138/3025).)*

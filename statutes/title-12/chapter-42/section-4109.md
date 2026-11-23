@@ -3,9 +3,10 @@ title: "Section 4109 - Incentives to extend low-income use"
 usc_title: 12
 usc_section: "4109"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4109"
-generated_at: "2026-03-30T02:53:53.500Z"
+generated_at: "2026-11-23T20:25:59.363Z"
+status: "active"
 ---
 
 # § 4109. Incentives to extend low-income use
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:53.500Z"
   - **(6)** In the case of housing defined in section 4119(1)(A)(iii) of this title , redirection of the Interest Reduction Payment subsidies to a second mortgage.
   - **(7)** Access by the owner to a portion of the preservation equity in the housing through provision of insurance for a second mortgage loan insured under section 1715z–6(f) 2 2 See References in Text note below. of this title or a non-insured mortgage loan approved by the Secretary and the mortgagee.
   - **(8)** Other incentives authorized in law.
+
+## Source Credit
+
+*([Pub. L. 100–242, title II, § 219](https://www.govinfo.gov/link/plaw/100/public/242), as added [Pub. L. 101–625, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4256](https://www.govinfo.gov/link/statute/104/4256); amended [Pub. L. 102–550, title III, § 306](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3764](https://www.govinfo.gov/link/statute/106/3764).)*

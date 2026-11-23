@@ -3,9 +3,10 @@ title: "Section 60506 - Retaliation against British dominions of North America"
 usc_title: 46
 usc_section: "60506"
 chapter: 605
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 60506"
-generated_at: "2026-03-30T02:56:15.584Z"
+generated_at: "2026-11-23T20:27:27.426Z"
+status: "active"
 ---
 
 # § 60506. Retaliation against British dominions of North America
@@ -24,3 +25,26 @@ generated_at: "2026-03-30T02:56:15.584Z"
     - **(B)** otherwise harassed.
 - **(b)** The President may apply a proclamation under this section to any of the subjects named, and may include exceptions for vessels in distress or need of supplies. The President may change, revoke, and renew the proclamation.
 - **(c)** A person violating a proclamation issued under this section shall be fined under title 18, imprisoned for not more than 2 years, or both. A vessel or goods found in waters, ports, or places of the United States in violation of the proclamation may be seized by, and forfeited to, the United States Government.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 60506 | 46 App.:143. | Mar. 3, 1887, ch. 339 , 24 Stat. 475 . |
+
+
+General Authority
+
+Coverage and Exceptions
+
+Penalties
+
+Historical and Revision Notes
+
+60506
+
+Mar. 3, 1887, ch. 339
+
+24 Stat. 475
+
+## Source Credit
+
+*([Pub. L. 109–304, § 9(b)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1681](https://www.govinfo.gov/link/statute/120/1681).)*

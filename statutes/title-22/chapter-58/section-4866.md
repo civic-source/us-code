@@ -3,9 +3,10 @@ title: "Section 4866 - Security training for personnel assigned to a high risk, 
 usc_title: 22
 usc_section: "4866"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4866"
-generated_at: "2026-03-30T02:55:05.415Z"
+generated_at: "2026-11-23T20:26:32.553Z"
+status: "active"
 ---
 
 # § 4866. Security training for personnel assigned to a high risk, high threat post
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:05.415Z"
 - **(d)** In this section and section 4867 of this title :
   - **(1)** The term “complex attack” has the meaning given such term by the North Atlantic Treaty Organization, as follows: “An attack conducted by multiple hostile elements which employ at least two distinct classes of weapon systems (i.e., indirect fire and direct fire, improvised explosive devices, and surface to air fire).”.
   - **(2)** The term “high risk, high threat post” has the meaning given such term in section 4803 of this title .
+
+## Source Credit
+
+*([Pub. L. 99–399, title IV, § 416](https://www.govinfo.gov/link/plaw/99/public/399), as added [Pub. L. 114–323, title I, § 121(a)](https://www.govinfo.gov/link/plaw/114/public/323), Dec. 16, 2016, [130 Stat. 1913](https://www.govinfo.gov/link/statute/130/1913).)*

@@ -3,9 +3,10 @@ title: "Section 1116 - National explosives detection canine team training progra
 usc_title: 6
 usc_section: "1116"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 1116"
-generated_at: "2026-03-30T02:53:09.503Z"
+generated_at: "2026-11-23T20:25:34.902Z"
+status: "active"
 ---
 
 # § 1116. National explosives detection canine team training program
@@ -49,3 +50,93 @@ generated_at: "2026-03-30T02:53:09.503Z"
     - **(A)** The term “air carrier” has the meaning given the term in section 40102 of title 49 .
     - **(B)** The term “foreign air carrier” has the meaning given the term in section 40102 of title 49 .
     - **(C)** The term “third party explosives detection canine asset” means any explosives detection canine or handler not owned or employed, respectively, by the Transportation Security Administration.
+
+Behavioral standards
+
+Medical standards
+
+Technical standards
+
+In General
+
+Working Group Composition
+
+Chairpersons
+
+Proposed Standards and Recommendations
+
+Strategy
+
+Consultation
+
+Termination
+
+Nonapplicability of Federal Advisory Committee Act
+
+In General
+
+Augmenting Public Area Security.—
+
+In general
+
+Consultation
+
+Agreement
+
+Expedited Deployment
+
+Process
+
+Consultation
+
+Third Party Explosives Detection Canine Provider List.—
+
+In general
+
+Distribution
+
+Oversight
+
+Authorization.—
+
+TSA
+
+Aviation stakeholders.—
+
+In general
+
+Applicable large hub airports.—
+
+In general
+
+Exception
+
+Nondeployable canines
+
+Handlers
+
+Limitation
+
+Definitions
+
+Applicable large hub airport
+
+Aviation stakeholder
+
+In General
+
+Increased Capacity.—
+
+In general
+
+Additional teams
+
+Recommendations
+
+Deployment
+
+Authorization
+
+## Source Credit
+
+*([Pub. L. 110–53, title XIII, § 1307](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 395](https://www.govinfo.gov/link/statute/121/395); [Pub. L. 115–254, div. K, title I, § 1941](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3582](https://www.govinfo.gov/link/statute/132/3582).)*

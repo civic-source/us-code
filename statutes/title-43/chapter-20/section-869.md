@@ -3,9 +3,10 @@ title: "Section 869 - Disposal of lands for public or recreational purposes"
 usc_title: 43
 usc_section: "869"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 869"
-generated_at: "2026-03-30T02:55:57.462Z"
+generated_at: "2026-11-23T20:27:06.257Z"
+status: "active"
 ---
 
 # § 869. Disposal of lands for public or recreational purposes
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:57.462Z"
     - **(C)** To any nonprofit corporation or nonprofit association, six hundred and forty acres.
     - **(D)** To any federally recognized Indian Tribe, 640 acres.
 - **(c)** Where the lands have been withdrawn in aid of a function of a Federal department or agency other than the Department of the Interior, or of a State, Territory, county, municipality, water district, or other local governmental subdivision or agency, the Secretary of the Interior may make disposals under sections 869 to 869–4 of this title only with the consent of such Federal department or agency, or of such State, Territory, or local governmental unit. Nothing in sections 869 to 869–4 of this title shall be construed to apply to lands in any national forest, national park, or national monument, or national wildlife refuge, or to any Indian lands or lands set aside or held for the use or benefit of Indians, including lands over which jurisdiction has been transferred to the Department of the Interior by Executive order for the use of Indians, or, except insofar as sections 869 to 869–4 of this title apply to leases of land to States, federally recognized Indian Tribes, and counties and to State, Tribal, Territorial, and Federal instrumentalities and political subdivisions and to municipal corporations, to the revested Oregon and California Railroad grant lands and the reconveyed Coos Bay Wagon Road grant lands in the State of Oregon. Nor shall any disposition be made under sections 869 to 869–4 of this title for any use authorized under any other law.
+
+## Source Credit
+
+*(June 14, 1926, ch. 578, § 1, [44 Stat. 741](https://www.govinfo.gov/link/statute/44/741); June 4, 1954, ch. 263, [68 Stat. 173](https://www.govinfo.gov/link/statute/68/173); [Pub. L. 86–66, § 2](https://www.govinfo.gov/link/plaw/86/public/66), June 23, 1959, [73 Stat. 110](https://www.govinfo.gov/link/statute/73/110); [Pub. L. 86–292, § 1](https://www.govinfo.gov/link/plaw/86/public/292), Sept. 21, 1959, [73 Stat. 571](https://www.govinfo.gov/link/statute/73/571); [Pub. L. 86–755](https://www.govinfo.gov/link/plaw/86/public/755), Sept. 13, 1960, [74 Stat. 899](https://www.govinfo.gov/link/statute/74/899); [Pub. L. 94–579, title II, § 212(a)](https://www.govinfo.gov/link/plaw/94/public/579), (b), Oct. 21, 1976, [90 Stat. 2759](https://www.govinfo.gov/link/statute/90/2759); [Pub. L. 117–328, div. DD, title I, § 104(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5580](https://www.govinfo.gov/link/statute/136/5580).)*

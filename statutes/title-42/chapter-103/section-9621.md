@@ -3,9 +3,10 @@ title: "Section 9621 - Cleanup standards"
 usc_title: 42
 usc_section: "9621"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9621"
-generated_at: "2026-03-30T02:56:11.360Z"
+generated_at: "2026-11-23T20:27:23.116Z"
+status: "active"
 ---
 
 # § 9621. Cleanup standards
@@ -81,3 +82,7 @@ generated_at: "2026-03-30T02:56:11.360Z"
       - **(ii)** If the State establishes, on the administrative record, that the President’s finding is not supported by substantial evidence, the remedial action shall be modified to conform to such standard, requirement, criteria, or limitation.
       - **(iii)** If the State fails to establish that the President’s finding was not supported by substantial evidence and if the State pays, within 60 days of judgment, the additional costs attributable to meeting such standard, requirement, criteria, or limitation, the remedial action shall be selected to meet such standard, requirement, criteria, or limitation. If the State fails to pay within 60 days, the remedial action selected by the President shall proceed through completion.
     - **(C)** Nothing in this section precludes, and the court shall not enjoin, the Federal agency from taking any remedial action unrelated to or not inconsistent with such standard, requirement, criteria, or limitation.
+
+## Source Credit
+
+*([Pub. L. 96–510, title I, § 121](https://www.govinfo.gov/link/plaw/96/public/510), as added [Pub. L. 99–499, title I, § 121(a)](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1672](https://www.govinfo.gov/link/statute/100/1672).)*

@@ -3,9 +3,10 @@ title: "Section 9a - Child health quality measures"
 usc_title: 42
 usc_section: "9a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9a"
-generated_at: "2026-03-30T02:56:10.916Z"
+generated_at: "2026-11-23T20:27:21.012Z"
+status: "active"
 ---
 
 # § 1320b–9a. Child health quality measures
@@ -179,3 +180,7 @@ generated_at: "2026-03-30T02:56:10.916Z"
     - **(D)** for the period of fiscal years 2024 through 2027, $60,000,000 for the purpose of carrying out this section (other than subsections (e), (f), and (g)); and
     - **(E)** for each of fiscal years 2028 and 2029, $15,000,000 for the purpose of carrying out this section (other than subsections (e), (f), and (g)).
   - **(2)** Funds appropriated under this subsection shall remain available until expended.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XI, § 1139A, as added and amended [Pub. L. 111–3, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/111/public/3), title V, § 501(g), Feb. 4, 2009, [123 Stat. 72](https://www.govinfo.gov/link/statute/123/72), 88; [Pub. L. 111–148, title IV, § 4306](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 587](https://www.govinfo.gov/link/statute/124/587); [Pub. L. 114–10, title III, § 304](https://www.govinfo.gov/link/plaw/114/public/10), Apr. 16, 2015, [129 Stat. 158](https://www.govinfo.gov/link/statute/129/158); [Pub. L. 115–120, div. C, § 3003](https://www.govinfo.gov/link/plaw/115/public/120), Jan. 22, 2018, [132 Stat. 36](https://www.govinfo.gov/link/statute/132/36); [Pub. L. 115–123, div. E, title I, § 50102](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 175](https://www.govinfo.gov/link/statute/132/175); [Pub. L. 117–328, div. FF, title V, § 5111(c)(1)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5939](https://www.govinfo.gov/link/statute/136/5939).)*

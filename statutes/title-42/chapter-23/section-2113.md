@@ -3,9 +3,10 @@ title: "Section 2113 - Ownership and custody of certain byproduct material and d
 usc_title: 42
 usc_section: "2113"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2113"
-generated_at: "2026-03-30T02:56:11.149Z"
+generated_at: "2026-11-23T20:27:22.066Z"
+status: "active"
 ---
 
 # § 2113. Ownership and custody of certain byproduct material and disposal sites
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.149Z"
   - **(7)** Material and land transferred to the United States or a State in accordance with this subsection shall be transferred without cost to the United States or a State (other than administrative and legal costs incurred in carrying out such transfer). Subject to the provisions of paragraph (1)(B) of this subsection, the United States or a State shall not transfer title to material or property acquired under this subsection to any person, unless such transfer is in the same manner as provided under section 7914(h) of this title .
   - **(8)** The provisions of this subsection respecting transfer of title and custody to land shall not apply in the case of lands held in trust by the United States for any Indian tribe or lands owned by such Indian tribe subject to a restriction against alienation imposed by the United States. In the case of such lands which are used for the disposal of byproduct material, as defined in section 2014(e)(2) of this title , the licensee shall be required to enter into such arrangements with the Commission as may be appropriate to assure the long-term maintenance and monitoring of such lands by the United States.
 - **(c)** Upon termination on 1 1 So in original. Probably should be “of”. any license to which this section applies, the Commission shall determine whether or not the licensee has complied with all applicable standards and requirements under such license.
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 83, as added [Pub. L. 95–604, title II, § 202(a)](https://www.govinfo.gov/link/plaw/95/public/604), Nov. 8, 1978, [92 Stat. 3033](https://www.govinfo.gov/link/statute/92/3033); amended [Pub. L. 96–106, § 22(c)](https://www.govinfo.gov/link/plaw/96/public/106), (e), Nov. 9, 1979, [93 Stat. 800](https://www.govinfo.gov/link/statute/93/800); renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944).)*

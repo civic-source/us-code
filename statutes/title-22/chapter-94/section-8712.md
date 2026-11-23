@@ -3,9 +3,10 @@ title: "Section 8712 - Diplomatic efforts to expand multilateral sanctions regim
 usc_title: 22
 usc_section: "8712"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8712"
-generated_at: "2026-03-30T02:55:05.454Z"
+generated_at: "2026-11-23T20:26:32.730Z"
+status: "active"
 ---
 
 # § 8712. Diplomatic efforts to expand multilateral sanctions regime
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:05.454Z"
   - **(4)** an identification of the countries that have not agreed to impose such sanctions or measures, including such countries granted exceptions for significant reductions in crude oil purchases pursuant to such section 8513a(d)(4)(D);
   - **(5)** recommendations for additional measures that the United States could take to further diplomatic efforts described in subsection (a); and
   - **(6)** the disposition of any decision with respect to sanctions imposed with respect to Iran by the World Trade Organization or its predecessor organization.
+
+## Source Credit
+
+*([Pub. L. 112–158, title I, § 102](https://www.govinfo.gov/link/plaw/112/public/158), Aug. 10, 2012, [126 Stat. 1218](https://www.govinfo.gov/link/statute/126/1218).)*

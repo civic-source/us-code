@@ -3,9 +3,10 @@ title: "Section 709 - Employment restrictions"
 usc_title: 38
 usc_section: "709"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 709"
-generated_at: "2026-03-30T02:55:53.475Z"
+generated_at: "2026-11-23T20:27:01.579Z"
+status: "active"
 ---
 
 # § 709. Employment restrictions
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:53.475Z"
   - **(2)** Paragraph (1) shall not apply—
     - **(A)** to the appointment of any person by the President under this title, other than the appointment of the Under Secretary for Health, the Under Secretary for Benefits, and the Inspector General; or
     - **(B)** to the appointment of any person to (i) a Senior Executive Service position as a noncareer appointee, or (ii) a position that is excepted from the competitive service, on a temporary or permanent basis, because of the confidential or policy-determining character of the position.
+
+## Source Credit
+
+*(Added [Pub. L. 102–83, § 2(a)](https://www.govinfo.gov/link/plaw/102/public/83), Aug. 6, 1991, [105 Stat. 395](https://www.govinfo.gov/link/statute/105/395); amended [Pub. L. 102–405, title III, § 302(c)(1)](https://www.govinfo.gov/link/plaw/102/public/405), Oct. 9, 1992, [106 Stat. 1984](https://www.govinfo.gov/link/statute/106/1984).)*

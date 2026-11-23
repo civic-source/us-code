@@ -3,9 +3,10 @@ title: "Section 2220 - Owner-managed interests"
 usc_title: 25
 usc_section: "2220"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 2220"
-generated_at: "2026-03-30T02:54:52.839Z"
+generated_at: "2026-11-23T20:26:25.587Z"
+status: "active"
 ---
 
 # § 2220. Owner-managed interests
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:54:52.839Z"
     - **(C)** no revocation has occurred under subsection (h)(2).
 - **(j)** Except with respect to the specific lease transaction described in paragraph (1) of subsection (c), interests that acquire owner-managed status under the provisions of this section shall continue to be subject to all Federal laws requiring the Secretary to approve transactions involving trust or restricted land (including leases with terms of a duration in excess of 10 years) that would otherwise apply to such interests if the interests had not acquired owner-managed status under this section.
 - **(k)** Subject to subsections (c), (f), and (h), nothing in this section diminishes or otherwise affects any authority or responsibility of the Secretary with respect to an interest in trust or restricted land.
+
+## Source Credit
+
+*([Pub. L. 97–459, title II, § 221](https://www.govinfo.gov/link/plaw/97/public/459), as added [Pub. L. 108–374, § 5](https://www.govinfo.gov/link/plaw/108/public/374), Oct. 27, 2004, [118 Stat. 1795](https://www.govinfo.gov/link/statute/118/1795); amended [Pub. L. 110–453, title II, § 207(e)](https://www.govinfo.gov/link/plaw/110/public/453), Dec. 2, 2008, [122 Stat. 5033](https://www.govinfo.gov/link/statute/122/5033).)*

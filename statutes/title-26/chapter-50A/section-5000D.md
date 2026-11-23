@@ -3,9 +3,10 @@ title: "Section 5000D - Designated drugs during noncompliance periods"
 usc_title: 26
 usc_section: "5000D"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 5000D"
-generated_at: "2026-03-30T02:55:27.816Z"
+generated_at: "2026-11-23T20:26:46.388Z"
+status: "active"
 ---
 
 # § 5000D. Designated drugs during noncompliance periods
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:55:27.816Z"
   - **(2)** In the case of a sale which was timed for the purpose of avoiding the tax imposed by this section, the Secretary may treat such sale as occurring during a day described in subsection (b).
 - **(g)** Rules similar to the rules of section 4662(e) (other than section 4662(e)(2)(A)(ii)(II)) shall apply for purposes of this chapter.
 - **(h)** The Secretary shall prescribe such regulations and other guidance as may be necessary to carry out this section.
+
+## Source Credit
+
+*(Added [Pub. L. 117–169, title I, § 11003(a)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 1862](https://www.govinfo.gov/link/statute/136/1862).)*

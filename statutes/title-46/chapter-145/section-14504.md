@@ -3,9 +3,10 @@ title: "Section 14504 - Remeasurement"
 usc_title: 46
 usc_section: "14504"
 chapter: 145
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 14504"
-generated_at: "2026-03-30T02:56:15.560Z"
+generated_at: "2026-11-23T20:27:27.192Z"
+status: "active"
 ---
 
 # § 14504. Remeasurement
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:15.560Z"
   - **(3)** after being measured under subchapter III of this chapter, the vessel becomes subject to subchapter II of this chapter because the vessel or its use is changed; or
   - **(4)** although not required to be measured under subchapter II of this chapter, the vessel was measured under subchapter II and the owner requests that the vessel be measured under subchapter III of this chapter.
 - **(b)** Except as provided in this section and chapter 143 of this title, a vessel that has been measured does not have to be remeasured to obtain another document or endorsement under chapter 121 of this title.
+
+## Source Credit
+
+*([Pub. L. 99–509, title V, § 5101(3)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1923](https://www.govinfo.gov/link/statute/100/1923).)*

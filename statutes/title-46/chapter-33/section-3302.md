@@ -3,9 +3,10 @@ title: "Section 3302 - Exemptions"
 usc_title: 46
 usc_section: "3302"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 3302"
-generated_at: "2026-03-30T02:56:15.542Z"
+generated_at: "2026-11-23T20:27:27.066Z"
+status: "active"
 ---
 
 # § 3302. Exemptions
@@ -107,3 +108,56 @@ generated_at: "2026-03-30T02:56:15.542Z"
   - **(3)** In this subsection:
     - **(A)** The term “qualified vessel” means a vessel operating in Coast Guard District Arctic.
     - **(B)** The term “qualified oil spill” means an oil spill occurring in waters subject to the jurisdiction of Coast Guard District Arctic.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 3302 | 46:367 46:390 46:391(e) 46:404 46:420 46:442 |
+
+
+Additional Response Assets.—
+
+Vessels exempt from inspection
+
+Allowances
+
+Definitions
+
+Qualified vessel
+
+Qualified oil spill
+
+Historical and Revision Notes
+
+3302
+
+In general
+
+Application
+
+Implementation.—
+
+Request process
+
+Contents
+
+Policy
+
+Definitions
+
+Boundary line
+
+Fishing vessel
+
+Fish tender vessel
+
+Officer in charge, marine inspection
+
+Prince william sound
+
+Southeast alaska
+
+Sunset
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 510](https://www.govinfo.gov/link/statute/97/510); [Pub. L. 98–364, title IV, § 402(3)](https://www.govinfo.gov/link/plaw/98/public/364), July 17, 1984, [98 Stat. 445](https://www.govinfo.gov/link/statute/98/445); [Pub. L. 99–307, § 1(3)](https://www.govinfo.gov/link/plaw/99/public/307), (4), May 19, 1986, [100 Stat. 444](https://www.govinfo.gov/link/statute/100/444); [Pub. L. 101–595, title III, § 303(a)](https://www.govinfo.gov/link/plaw/101/public/595), title VI, §§ 602(b), 603(2), Nov. 16, 1990, [104 Stat. 2983](https://www.govinfo.gov/link/statute/104/2983), 2990, 2993; [Pub. L. 103–206, title III, § 311](https://www.govinfo.gov/link/plaw/103/public/206), Dec. 20, 1993, [107 Stat. 2426](https://www.govinfo.gov/link/statute/107/2426); [Pub. L. 104–324, title VII, § 711](https://www.govinfo.gov/link/plaw/104/public/324), title XI, § 1110, Oct. 19, 1996, [110 Stat. 3935](https://www.govinfo.gov/link/statute/110/3935), 3969; [Pub. L. 106–65, div. C, title XXXVI, § 3604](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 976](https://www.govinfo.gov/link/statute/113/976); [Pub. L. 107–295, title II, § 208](https://www.govinfo.gov/link/plaw/107/public/295), Nov. 25, 2002, [116 Stat. 2098](https://www.govinfo.gov/link/statute/116/2098); [Pub. L. 109–241, title III, § 311](https://www.govinfo.gov/link/plaw/109/public/241), July 11, 2006, [120 Stat. 530](https://www.govinfo.gov/link/statute/120/530); [Pub. L. 109–304, § 15(11)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1703](https://www.govinfo.gov/link/statute/120/1703); [Pub. L. 115–232, div. C, title XXXV](https://www.govinfo.gov/link/plaw/115/public/232), §§ 3529(b), 3546(c), Aug. 13, 2018, [132 Stat. 2319](https://www.govinfo.gov/link/statute/132/2319), 2326; [Pub. L. 117–263, div. K, title CXII, § 11216](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4017](https://www.govinfo.gov/link/statute/136/4017); [Pub. L. 119–60, div. G, title LXXIV, § 7406(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1786](https://www.govinfo.gov/link/statute/139/1786).)*

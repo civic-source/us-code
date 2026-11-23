@@ -3,9 +3,10 @@ title: "Section 1692k - Civil liability"
 usc_title: 15
 usc_section: "1692k"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1692k"
-generated_at: "2026-03-30T02:54:08.155Z"
+generated_at: "2026-11-23T20:26:04.110Z"
+status: "active"
 ---
 
 # § 1692k. Civil liability
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:08.155Z"
 - **(c)** A debt collector may not be held liable in any action brought under this subchapter if the debt collector shows by a preponderance of evidence that the violation was not intentional and resulted from a bona fide error notwithstanding the maintenance of procedures reasonably adapted to avoid any such error.
 - **(d)** An action to enforce any liability created by this subchapter may be brought in any appropriate United States district court without regard to the amount in controversy, or in any other court of competent jurisdiction, within one year from the date on which the violation occurs.
 - **(e)** No provision of this section imposing any liability shall apply to any act done or omitted in good faith in conformity with any advisory opinion of the Bureau, notwithstanding that after such act or omission has occurred, such opinion is amended, rescinded, or determined by judicial or other authority to be invalid for any reason.
+
+## Source Credit
+
+*([Pub. L. 90–321, title VIII, § 813](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 95–109](https://www.govinfo.gov/link/plaw/95/public/109), Sept. 20, 1977, [91 Stat. 881](https://www.govinfo.gov/link/statute/91/881); amended [Pub. L. 111–203, title X, § 1089(1)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2092](https://www.govinfo.gov/link/statute/124/2092).)*

@@ -3,9 +3,10 @@ title: "Section 53508 - Separate accounts within a fund"
 usc_title: 46
 usc_section: "53508"
 chapter: 535
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 53508"
-generated_at: "2026-03-30T02:56:15.576Z"
+generated_at: "2026-11-23T20:27:27.326Z"
+status: "active"
 ---
 
 # § 53508. Separate accounts within a fund
@@ -31,3 +32,78 @@ generated_at: "2026-03-30T02:56:15.576Z"
   - **(4)** ordinary income from a transaction described in section 53505(a)(3) of this title ; and
   - **(5)** that portion of any dividend referred to in subsection (b)(3) not taken into account under subsection (b)(3).
 - **(e)** Except on termination of a fund, capital losses referred to in subsection (c) or (d)(2) shall be allowed only as an offset to gains referred to in subsection (c) or (d)(2), respectively.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 53508 | 46 App.:1177(e). | June 29, 1936, ch. 858 , title VI, § 607(e), 49 Stat. 2005 ; June 23, 1938, ch. 600 , §§ 23–28, 52 Stat. 960 ; Aug. 4, 1939, ch. 417, § 10 , 53 Stat. 1185 ; July 17, 1952, ch. 939 , §§ 17–19, 66 Stat. 764 ; Pub. L. 85–637 , Aug. 14, 1958 , 72 Stat. 216 ; Pub. L. 86–518, § 1 , June 12, 1960 , 74 Stat. 216 ; Pub. L. 87–45, § 6 , May 27, 1961 , 75 Stat. 91 ; Pub. L. 87–271 , Sept. 21, 1961 , 75 Stat. 570 ; restated Pub. L. 91–469, § 21(a) , Oct. 21, 1970 , 84 Stat. 1028 ; Pub. L. 99–514, title II, § 261(e)(3) , (4), Oct. 22, 1986 , 100 Stat. 2215 . |
+
+
+In General
+
+Capital Account
+
+Capital Gain Account
+
+Ordinary Income Account
+
+When Losses Allowed
+
+Historical and Revision Notes
+
+53508
+
+June 29, 1936, ch. 858
+
+49 Stat. 2005
+
+June 23, 1938, ch. 600
+
+52 Stat. 960
+
+Aug. 4, 1939, ch. 417, § 10
+
+53 Stat. 1185
+
+July 17, 1952, ch. 939
+
+66 Stat. 764
+
+Pub. L. 85–637
+
+Aug. 14, 1958
+
+72 Stat. 216
+
+Pub. L. 86–518, § 1
+
+June 12, 1960
+
+74 Stat. 216
+
+Pub. L. 87–45, § 6
+
+May 27, 1961
+
+75 Stat. 91
+
+Pub. L. 87–271
+
+Sept. 21, 1961
+
+75 Stat. 570
+
+Pub. L. 91–469, § 21(a)
+
+Oct. 21, 1970
+
+84 Stat. 1028
+
+Pub. L. 99–514, title II, § 261(e)(3)
+
+Oct. 22, 1986
+
+100 Stat. 2215
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(c)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1595](https://www.govinfo.gov/link/statute/120/1595).)*

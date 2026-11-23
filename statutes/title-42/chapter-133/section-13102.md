@@ -3,9 +3,10 @@ title: "Section 13102 - Definitions"
 usc_title: 42
 usc_section: "13102"
 chapter: 133
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13102"
-generated_at: "2026-03-30T02:56:11.438Z"
+generated_at: "2026-11-23T20:27:23.461Z"
+status: "active"
 ---
 
 # § 13102. Definitions
@@ -23,3 +24,7 @@ For purposes of this chapter—
     - **(B)** The term “source reduction” does not include any practice which alters the physical, chemical, or biological characteristics or the volume of a hazardous substance, pollutant, or contaminant through a process or activity which itself is not integral to and necessary for the production of a product or the providing of a service.
   - **(6)** The term “multi-media” means water, air, and land.
   - **(7)** The term “SIC codes” refers to the 2-digit code numbers used for classification of economic activity in the Standard Industrial Classification Manual.
+
+## Source Credit
+
+*([Pub. L. 101–508, title VI, § 6603](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–321](https://www.govinfo.gov/link/statute/104/1388).)*

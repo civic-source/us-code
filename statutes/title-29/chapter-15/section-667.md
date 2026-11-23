@@ -3,9 +3,10 @@ title: "Section 667 - State jurisdiction and plans"
 usc_title: 29
 usc_section: "667"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 667"
-generated_at: "2026-03-30T02:55:18.689Z"
+generated_at: "2026-11-23T20:26:37.838Z"
+status: "active"
 ---
 
 # § 667. State jurisdiction and plans
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:18.689Z"
 - **(f)** The Secretary shall, on the basis of reports submitted by the State agency and his own inspections make a continuing evaluation of the manner in which each State having a plan approved under this section is carrying out such plan. Whenever the Secretary finds, after affording due notice and opportunity for a hearing, that in the administration of the State plan there is a failure to comply substantially with any provision of the State plan (or any assurance contained therein), he shall notify the State agency of his withdrawal of approval of such plan and upon receipt of such notice such plan shall cease to be in effect, but the State may retain jurisdiction in any case commenced before the withdrawal of the plan in order to enforce standards under the plan whenever the issues involved do not relate to the reasons for the withdrawal of the plan.
 - **(g)** The State may obtain a review of a decision of the Secretary withdrawing approval of or rejecting its plan by the United States court of appeals for the circuit in which the State is located by filing in such court within thirty days following receipt of notice of such decision a petition to modify or set aside in whole or in part the action of the Secretary. A copy of such petition shall forthwith be served upon the Secretary, and thereupon the Secretary shall certify and file in the court the record upon which the decision complained of was issued as provided in section 2112 of title 28 . Unless the court finds that the Secretary’s decision in rejecting a proposed State plan or withdrawing his approval of such a plan is not supported by substantial evidence the court shall affirm the Secretary’s decision. The judgment of the court shall be subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28 .
 - **(h)** The Secretary may enter into an agreement with a State under which the State will be permitted to continue to enforce one or more occupational health and safety standards in effect in such State until final action is taken by the Secretary with respect to a plan submitted by a State under subsection (b) of this section, or two years from December 29, 1970 , whichever is earlier.
+
+## Source Credit
+
+*([Pub. L. 91–596, § 18](https://www.govinfo.gov/link/plaw/91/public/596), Dec. 29, 1970, [84 Stat. 1608](https://www.govinfo.gov/link/statute/84/1608).)*

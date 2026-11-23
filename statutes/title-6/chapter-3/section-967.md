@@ -3,9 +3,10 @@ title: "Section 967 - Consequences for lack of compliance"
 usc_title: 6
 usc_section: "967"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 967"
-generated_at: "2026-03-30T02:53:09.502Z"
+generated_at: "2026-11-23T20:25:34.891Z"
+status: "active"
 ---
 
 # § 967. Consequences for lack of compliance
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:09.502Z"
 - **(c)**
   - **(1)** A C–TPAT participant may appeal a decision of the Commissioner pursuant to subsection (a). Such appeal shall be filed with the Secretary not later than 90 days after the date of the decision, and the Secretary shall issue a determination not later than 180 days after the appeal is filed.
   - **(2)** A C–TPAT participant may appeal a decision of the Commissioner pursuant to subsection (b). Such appeal shall be filed with the Secretary not later than 30 days after the date of the decision, and the Secretary shall issue a determination not later than 180 days after the appeal is filed.
+
+## Source Credit
+
+*([Pub. L. 109–347, title II, § 217](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1911](https://www.govinfo.gov/link/statute/120/1911).)*

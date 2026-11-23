@@ -3,9 +3,10 @@ title: "Section 9091 - Administration generally"
 usc_title: 7
 usc_section: "9091"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 9091"
-generated_at: "2026-03-30T02:53:42.488Z"
+generated_at: "2026-11-23T20:25:41.961Z"
+status: "active"
 ---
 
 # § 9091. Administration generally
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:42.488Z"
 - **(d)**
   - **(1)** If the Secretary determines that expenditures under this chapter that are subject to the total allowable domestic support levels under the Uruguay Round Agreements (as defined in section 3501 of title 19 ) will exceed such allowable levels for any applicable reporting period, the Secretary shall, to the maximum extent practicable, make adjustments in the amount of such expenditures during that period to ensure that such expenditures do not exceed the allowable levels.
   - **(2)** Before making any adjustment under paragraph (1), the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the determination made under that paragraph and the extent of the adjustment to be made.
+
+## Source Credit
+
+*([Pub. L. 113–79, title I, § 1601](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 704](https://www.govinfo.gov/link/statute/128/704); [Pub. L. 115–334, title I, § 1701](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4525](https://www.govinfo.gov/link/statute/132/4525).)*

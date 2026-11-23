@@ -3,9 +3,10 @@ title: "Section 1083a - Consumer education information"
 usc_title: 20
 usc_section: "1083a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1083a"
-generated_at: "2026-03-30T02:54:48.119Z"
+generated_at: "2026-11-23T20:26:14.433Z"
+status: "active"
 ---
 
 # § 1083a. Consumer education information
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:48.119Z"
   - **(1)** a guaranty agency from using existing activities, programs, and materials in meeting the requirements of this section;
   - **(2)** a guaranty agency from providing programs or materials similar to the programs or materials described in subsection (a) to an institution of higher education that provides loans exclusively through part D; or
   - **(3)** a lender or loan servicer from providing outreach or financial aid literacy information in accordance with subsection (a).
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 433A](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title IV, § 435](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3252](https://www.govinfo.gov/link/statute/122/3252).)*

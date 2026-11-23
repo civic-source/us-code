@@ -3,9 +3,10 @@ title: "Section 3801 - Definitions"
 usc_title: 33
 usc_section: "3801"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 3801"
-generated_at: "2026-03-30T02:55:41.144Z"
+generated_at: "2026-11-23T20:26:54.277Z"
+status: "active"
 ---
 
 # § 3801. Definitions
@@ -30,3 +31,7 @@ In this chapter:
   - **(13)** The term “territorial sea” means the territorial sea as described in Presidential Proclamation No. 5928 on December 27, 1988 .
   - **(14)** The term “United States” means the several States of the United States, the District of Columbia, Puerto Rico, Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Marianas, and any other territory or possession over which the United States has jurisdiction.
   - **(15)** The term “use” includes application, reapplication, installation, or any other employment of an antifouling system.
+
+## Source Credit
+
+*([Pub. L. 111–281, title X, § 1011](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 3023](https://www.govinfo.gov/link/statute/124/3023); [Pub. L. 111–330, § 1(19)](https://www.govinfo.gov/link/plaw/111/public/330), Dec. 22, 2010, [124 Stat. 3570](https://www.govinfo.gov/link/statute/124/3570).)*

@@ -3,9 +3,10 @@ title: "Section 580 - Regular warrant officers twice failing of selection for pr
 usc_title: 10
 usc_section: "580"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 580"
-generated_at: "2026-03-30T02:53:38.067Z"
+generated_at: "2026-11-23T20:25:51.002Z"
+status: "active"
 ---
 
 # § 580. Regular warrant officers twice failing of selection for promotion: involuntary retirement or separation
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:53:38.067Z"
   - **(5)** Continuation of a warrant officer on active duty under this subsection pursuant to the action of a selection board convened under section 573(c) of this title is subject to the approval of the Secretary concerned.
   - **(6)** The Secretary of Defense and the Secretary of Homeland Security, when the Coast Guard is not operating as a service in the Navy, shall prescribe regulations for the administration of this subsection.
 - **(f)** A warrant officer subject to discharge or retirement under this section, but against whom any action has been commenced with a view to trying the officer by court-martial, may be continued on active duty, without prejudice to such action, until the completion of such action.
+
+## Source Credit
+
+*(Added [Pub. L. 102–190, div. A, title XI, § 1112(a)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1498](https://www.govinfo.gov/link/statute/105/1498); amended [Pub. L. 103–160, div. A, title V, § 505(a)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1645](https://www.govinfo.gov/link/statute/107/1645); [Pub. L. 103–337, div. A, title V, § 541(b)(5)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2765](https://www.govinfo.gov/link/statute/108/2765); [Pub. L. 107–296, title XVII, § 1704(b)(1)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314); [Pub. L. 109–364, div. A, title V, § 505(a)](https://www.govinfo.gov/link/plaw/109/public/364), (b), Oct. 17, 2006, [120 Stat. 2179](https://www.govinfo.gov/link/statute/120/2179); [Pub. L. 111–383, div. A, title V, § 541](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4218](https://www.govinfo.gov/link/statute/124/4218).)*

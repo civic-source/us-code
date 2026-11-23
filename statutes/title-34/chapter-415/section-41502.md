@@ -3,9 +3,10 @@ title: "Section 41502 - Morgan P. Hardiman Child Abduction and Serial Murder Inv
 usc_title: 34
 usc_section: "41502"
 chapter: 415
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 41502"
-generated_at: "2026-03-30T02:55:33.314Z"
+generated_at: "2026-11-23T20:26:50.660Z"
+status: "active"
 ---
 
 # § 41502. Morgan P. Hardiman Child Abduction and Serial Murder Investigative Resources Center
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:33.314Z"
     - **(B)** the provision of equipment, administrative support, and office space for the CASMIRC; and
     - **(C)** the projected resource needs for the CASMIRC.
 - **(f)** There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 1999, 2000, and 2001.
+
+## Source Credit
+
+*([Pub. L. 105–314, title VII, § 703(a)](https://www.govinfo.gov/link/plaw/105/public/314) –(f), Oct. 30, 1998, [112 Stat. 2987–2989](https://www.govinfo.gov/link/statute/112/2987).)*

@@ -3,12 +3,17 @@ title: "Section 463 - Unlawful acts relating to labor organization under trustee
 usc_title: 29
 usc_section: "463"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 463"
-generated_at: "2026-03-30T02:55:18.684Z"
+generated_at: "2026-11-23T20:26:37.817Z"
+status: "active"
 ---
 
 # § 463. Unlawful acts relating to labor organization under trusteeship
 
 - **(a)** During any period when a subordinate body of a labor organization is in trusteeship, it shall be unlawful (1) to count the vote of delegates from such body in any convention or election of officers of the labor organization unless the delegates have been chosen by secret ballot in an election in which all the members in good standing of such subordinate body were eligible to participate, or (2) to transfer to such organization any current receipts or other funds of the subordinate body except the normal per capita tax and assessments payable by subordinate bodies not in trusteeship: Provided , That nothing herein contained shall prevent the distribution of the assets of a labor organization in accordance with its constitution and bylaws upon the bona fide dissolution thereof.
 - **(b)** Any person who willfully violates this section shall be fined not more than $10,000 or imprisoned for not more than one year, or both.
+
+## Source Credit
+
+*([Pub. L. 86–257, title III, § 303](https://www.govinfo.gov/link/plaw/86/public/257), Sept. 14, 1959, [73 Stat. 531](https://www.govinfo.gov/link/statute/73/531).)*

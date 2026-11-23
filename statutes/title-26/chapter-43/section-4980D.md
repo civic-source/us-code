@@ -3,9 +3,10 @@ title: "Section 4980D - Failure to meet certain group health plan requirements"
 usc_title: 26
 usc_section: "4980D"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 4980D"
-generated_at: "2026-03-30T02:55:27.814Z"
+generated_at: "2026-11-23T20:26:46.379Z"
+status: "active"
 ---
 
 # § 4980D. Failure to meet certain group health plan requirements
@@ -60,3 +61,8 @@ generated_at: "2026-03-30T02:55:27.814Z"
   - **(3)** A failure of a group health plan shall be treated as corrected if—
     - **(A)** such failure is retroactively undone to the extent possible, and
     - **(B)** the person to whom the failure relates is placed in a financial position which is as good as such person would have been in had such failure not occurred.
+- **(g)** In the case of any requirement under section 9826 that applies with respect to an entity providing pharmacy benefit management services on behalf of a group health plan, any reference in this section to such group health plan (and the reference in subsection (e)(1) to the employer) shall be treated as including a reference to such entity.
+
+## Source Credit
+
+*(Added [Pub. L. 104–191, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/104/public/191), Aug. 21, 1996, [110 Stat. 2084](https://www.govinfo.gov/link/statute/110/2084); amended [Pub. L. 105–34, title XV, § 1531(b)(2)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1085](https://www.govinfo.gov/link/statute/111/1085); [Pub. L. 109–135, title IV, § 412(ww)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2640](https://www.govinfo.gov/link/statute/119/2640); [Pub. L. 119–75, div. J, title VII, § 6701(c)(3)](https://www.govinfo.gov/link/plaw/119/public/75), Feb. 3, 2026, [140 Stat. 732](https://www.govinfo.gov/link/statute/140/732).)*

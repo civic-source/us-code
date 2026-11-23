@@ -3,9 +3,10 @@ title: "Section 1355 - Fine, penalty or forfeiture"
 usc_title: 28
 usc_section: "1355"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 1355"
-generated_at: "2026-03-30T02:55:30.139Z"
+generated_at: "2026-11-23T20:26:36.440Z"
+status: "active"
 ---
 
 # § 1355. Fine, penalty or forfeiture
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:30.139Z"
   - **(2)** Whenever property subject to forfeiture under the laws of the United States is located in a foreign country, or has been detained or seized pursuant to legal process or competent authority of a foreign government, an action or proceeding for forfeiture may be brought as provided in paragraph (1), or in the United States District court 1 1 So in original. Probably should be capitalized. for the District of Columbia.
 - **(c)** In any case in which a final order disposing of property in a civil forfeiture action or proceeding is appealed, removal of the property by the prevailing party shall not deprive the court of jurisdiction. Upon motion of the appealing party, the district court or the court of appeals shall issue any order necessary to preserve the right of the appealing party to the full value of the property at issue, including a stay of the judgment of the district court pending appeal or requiring the prevailing party to post an appeal bond.
 - **(d)** Any court with jurisdiction over a forfeiture action pursuant to subsection (b) may issue and cause to be served in any other district such process as may be required to bring before the court the property that is the subject of the forfeiture action.
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 934](https://www.govinfo.gov/link/statute/62/934); [Pub. L. 96–417, title V, § 507](https://www.govinfo.gov/link/plaw/96/public/417), Oct. 10, 1980, [94 Stat. 1743](https://www.govinfo.gov/link/statute/94/1743); [Pub. L. 102–550, title XV, § 1521](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 4062](https://www.govinfo.gov/link/statute/106/4062).)*

@@ -3,9 +3,10 @@ title: "Section 2266a - Century Farms program"
 usc_title: 7
 usc_section: "2266a"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2266a"
-generated_at: "2026-03-30T02:53:42.382Z"
+generated_at: "2026-11-23T20:25:41.510Z"
+status: "active"
 ---
 
 # § 2266a. Century Farms program
@@ -17,3 +18,7 @@ The Secretary shall establish a program under which the Secretary recognizes any
     - **(A)** is defined as a farm or ranch under section 4284.902 of title 7, Code of Federal Regulations (as in effect on December 20, 2018 );
     - **(B)** has been in continuous operation for at least 100 years; and
     - **(C)** has been owned by the same family for at least 100 consecutive years, as verified through deeds, wills, abstracts, tax statements, or other similar legal documents considered appropriate by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 115–334, title XII, § 12508](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4990](https://www.govinfo.gov/link/statute/132/4990).)*

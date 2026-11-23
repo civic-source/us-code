@@ -3,9 +3,10 @@ title: "Section 5306 - Industrial Advisory Board"
 usc_title: 15
 usc_section: "5306"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 5306"
-generated_at: "2026-03-30T02:54:08.205Z"
+generated_at: "2026-11-23T20:26:04.368Z"
+status: "active"
 ---
 
 # § 5306. Industrial Advisory Board
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.205Z"
   - **(2)** On an annual basis the Board shall—
     - **(A)** review the Secretary’s solicitation and selection of research proposals and make recommendations as to how each such activity can be altered so as to better achieve the purposes of this chapter; and
     - **(B)** review the research activities of each selected applicant, and the selected applicant’s management plan, and report its findings and recommendations to the Secretary.
+
+## Source Credit
+
+*([Pub. L. 101–425, § 7](https://www.govinfo.gov/link/plaw/101/public/425), Oct. 15, 1990, [104 Stat. 918](https://www.govinfo.gov/link/statute/104/918).)*

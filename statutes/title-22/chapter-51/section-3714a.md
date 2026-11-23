@@ -3,9 +3,10 @@ title: "Section 3714a - Dissolution of Commission"
 usc_title: 22
 usc_section: "3714a"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3714a"
-generated_at: "2026-03-30T02:55:05.396Z"
+generated_at: "2026-11-23T20:26:32.472Z"
+status: "active"
 ---
 
 # § 3714a. Dissolution of Commission
@@ -34,3 +35,21 @@ generated_at: "2026-03-30T02:55:05.396Z"
     - **(A)** Amounts in the Fund may not be obligated or expended in any fiscal year unless the obligation or expenditure is specifically authorized by law.
     - **(B)** The office established by subsection (b) is authorized to expend or obligate funds from the Fund for the purposes enumerated in clauses (i) and (ii) of paragraph (2)(A) until October 1, 2004 .
   - **(6)** The Fund shall terminate on October 1, 2004 . Amounts in the Fund on that date shall be deposited in the general fund of the Treasury of the United States.
+
+Operation of the Office of Transition Administration.—
+
+In general
+
+Procurement
+
+Offices
+
+Office of transition administration defined
+
+Effective date
+
+Oversight of Close-Out Activities
+
+## Source Credit
+
+*([Pub. L. 96–70, title I, § 1305](https://www.govinfo.gov/link/plaw/96/public/70), as added [Pub. L. 102–484, div. C, title XXXV, § 3521(a)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2656](https://www.govinfo.gov/link/statute/106/2656); amended [Pub. L. 106–65, div. C, title XXXV, § 3504(a)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 975](https://www.govinfo.gov/link/statute/113/975).)*

@@ -3,9 +3,10 @@ title: "Section 6873 - Availability of labor"
 usc_title: 42
 usc_section: "6873"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6873"
-generated_at: "2026-03-30T02:56:11.268Z"
+generated_at: "2026-11-23T20:27:22.720Z"
+status: "active"
 ---
 
 # § 6873. Availability of labor
@@ -15,3 +16,7 @@ The following actions shall be taken in order to assure that there is a sufficie
   - **(1)** First, the Secretary of Energy (in consultation with the Director of the Community Services Administration, the Secretary of Agriculture, and the Secretary of Labor) shall determine the number of individuals needed to supply sufficient labor to carry out such weatherization programs in the various areas of the country.
   - **(2)** After the determination in paragraph (1) is made, the Secretary of Labor shall identify the areas of the country in which there is an insufficient number of such volunteers and training participants and public service employment workers.
   - **(3)** After such areas are identified, the Secretary of Labor shall take steps to assure that such weatherization programs are supported to the maximum extent practicable in such areas by such volunteers and training participants and public service employment workers.
+
+## Source Credit
+
+*([Pub. L. 95–619, title II, § 233](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3227](https://www.govinfo.gov/link/statute/92/3227); [Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(39), (f)(30)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–427, 2681–434; [Pub. L. 113–128, title V, § 512(v)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1713](https://www.govinfo.gov/link/statute/128/1713).)*

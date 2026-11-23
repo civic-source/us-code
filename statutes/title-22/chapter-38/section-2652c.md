@@ -3,9 +3,10 @@ title: "Section 2652c - Assistant Secretary of State for Verification and Compli
 usc_title: 22
 usc_section: "2652c"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2652c"
-generated_at: "2026-03-30T02:55:05.375Z"
+generated_at: "2026-11-23T20:26:32.353Z"
+status: "active"
 ---
 
 # § 2652c. Assistant Secretary of State for Verification and Compliance
@@ -33,3 +34,21 @@ generated_at: "2026-03-30T02:55:05.375Z"
     - **(B)** so much of the report required under paragraphs (4) through (6) of section 2593a(a) of this title as relates to verification or compliance matters;
     - **(C)** so much of the reports required under section 8003 of this title as relates to verification or compliance matters; and
     - **(D)** other reports being prepared by the Department of State as of November 29, 1999 , relating to arms control, nonproliferation, or disarmament verification or compliance matters.
+
+“In this title [see Short Title of 1999 Amendment note set out under section 2551 of this title ]:
+
+Appropriate committees of congress
+
+Assistant secretary
+
+Executive agency
+
+Intelligence community
+
+treaty or treaty
+
+ii treaty
+
+## Source Credit
+
+*([Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XI, § 1112]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–486; [Pub. L. 109–401, title I, § 108](https://www.govinfo.gov/link/plaw/109/public/401), Dec. 18, 2006, [120 Stat. 2738](https://www.govinfo.gov/link/statute/120/2738).)*

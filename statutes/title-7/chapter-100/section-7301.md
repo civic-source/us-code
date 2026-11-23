@@ -3,9 +3,10 @@ title: "Section 7301 - Suspension and repeal of permanent price support authorit
 usc_title: 7
 usc_section: "7301"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7301"
-generated_at: "2026-03-30T02:53:42.449Z"
+generated_at: "2026-11-23T20:25:41.769Z"
+status: "active"
 ---
 
 # § 7301. Suspension and repeal of permanent price support authority
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:53:42.449Z"
     - **(I)** Sections 406 and 427 ( 7 U.S.C. 1426 and 1433f).
   - **(3)**
 - **(c)** Section 1340 of this title shall not be applicable to the crops of wheat planted for harvest in the calendar years 1996 through 2002.
+
+## Source Credit
+
+*([Pub. L. 104–127, title I, § 171](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 937](https://www.govinfo.gov/link/statute/110/937); [Pub. L. 107–171, title I, § 1602(d)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 213](https://www.govinfo.gov/link/statute/116/213).)*

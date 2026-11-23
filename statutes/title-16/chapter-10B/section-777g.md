@@ -3,9 +3,10 @@ title: "Section 777g - Maintenance of projects"
 usc_title: 16
 usc_section: "777g"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 777g"
-generated_at: "2026-03-30T02:54:22.909Z"
+generated_at: "2026-11-23T20:26:20.274Z"
+status: "active"
 ---
 
 # § 777g. Maintenance of projects
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:22.909Z"
   - **(2)** Within 18 months after June 9, 1998 , each State that agrees to conduct a public boat access needs survey following the recommended national framework shall report its findings to the Secretary for use in the development of a comprehensive national assessment of recreational boat access needs and facilities.
   - **(3)** Paragraph (2) does not apply to a State if, within 18 months after June 9, 1998 , the Secretary certifies that the State has developed and is implementing a plan that ensures there are and will be public boat access adequate to meet the needs of recreational boaters on its waters.
   - **(4)** A State that conducts a public boat access needs survey under paragraph (2) may fund the costs of conducting that assessment out of amounts allocated to it as funding dedicated to motorboat access to recreational waters under subsection (b)(1) of this section.
+
+## Source Credit
+
+*(Aug. 9, 1950, ch. 658, § 8, [64 Stat. 433](https://www.govinfo.gov/link/statute/64/433); [Pub. L. 91–503, title II, § 202](https://www.govinfo.gov/link/plaw/91/public/503), Oct. 23, 1970, [84 Stat. 1103](https://www.govinfo.gov/link/statute/84/1103); [Pub. L. 98–369, div. A, title X, § 1014(a)(6)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1016](https://www.govinfo.gov/link/statute/98/1016); [Pub. L. 102–587, title V, § 5604(b)](https://www.govinfo.gov/link/plaw/102/public/587), Nov. 4, 1992, [106 Stat. 5088](https://www.govinfo.gov/link/statute/106/5088); [Pub. L. 105–178, title VII](https://www.govinfo.gov/link/plaw/105/public/178), §§ 7402(c), 7404(b), June 9, 1998, [112 Stat. 484](https://www.govinfo.gov/link/statute/112/484), 486; [Pub. L. 105–206, title IX, § 9012(c)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 864](https://www.govinfo.gov/link/statute/112/864); [Pub. L. 109–59, title X, § 10114](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1928](https://www.govinfo.gov/link/statute/119/1928); [Pub. L. 114–94, div. A, title X, § 10001(d)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1621](https://www.govinfo.gov/link/statute/129/1621).)*

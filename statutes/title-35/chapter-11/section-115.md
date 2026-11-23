@@ -3,9 +3,10 @@ title: "Section 115 - Inventor’s oath or declaration"
 usc_title: 35
 usc_section: "115"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "35 U.S.C. § 115"
-generated_at: "2026-03-30T02:55:34.236Z"
+generated_at: "2026-11-23T20:26:49.117Z"
+status: "active"
 ---
 
 # § 115. Inventor’s oath or declaration
@@ -40,3 +41,41 @@ generated_at: "2026-03-30T02:55:34.236Z"
   - **(2)** If an individual has executed an oath or declaration meeting the requirements of subsection (a) or an assignment meeting the requirements of subsection (e) with respect to an application for patent, the Director may not thereafter require that individual to make any additional oath, declaration, or other statement equivalent to those required by this section in connection with the application for patent or any patent issuing thereon.
   - **(3)** A patent shall not be invalid or unenforceable based upon the failure to comply with a requirement under this section if the failure is remedied as provided under paragraph (1).
 - **(i)** Any declaration or statement filed pursuant to this section shall contain an acknowledgment that any willful false statement made in such declaration or statement is punishable under section 1001 of title 18 by fine or imprisonment of not more than 5 years, or both.
+
+Naming the Inventor; Inventor’s Oath or Declaration
+
+Required Statements
+
+Additional Requirements
+
+Substitute Statement.—
+
+In general
+
+Permitted circumstances
+
+Contents
+
+Making Required Statements in Assignment of Record
+
+Time for Filing
+
+Earlier-Filed Application Containing Required Statements or Substitute Statement.—
+
+Exception
+
+Copies of oaths, declarations, statements, or assignments
+
+Supplemental and Corrected Statements; Filing Additional Statements.—
+
+In general
+
+Supplemental statements not required
+
+Savings clause
+
+Acknowledgment of Penalties
+
+## Source Credit
+
+*(July 19, 1952, ch. 950, [66 Stat. 799](https://www.govinfo.gov/link/statute/66/799); [Pub. L. 97–247, § 14(a)](https://www.govinfo.gov/link/plaw/97/public/247), Aug. 27, 1982, [96 Stat. 321](https://www.govinfo.gov/link/statute/96/321); [Pub. L. 105–277, div. G, title XXII, § 2222(d)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–818](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 112–29, § 4(a)(1)](https://www.govinfo.gov/link/plaw/112/public/29), Sept. 16, 2011, [125 Stat. 293](https://www.govinfo.gov/link/statute/125/293); [Pub. L. 112–211, title I, § 102(4)](https://www.govinfo.gov/link/plaw/112/public/211), Dec. 18, 2012, [126 Stat. 1531](https://www.govinfo.gov/link/statute/126/1531); [Pub. L. 112–274, § 1(f)](https://www.govinfo.gov/link/plaw/112/public/274), Jan. 14, 2013, [126 Stat. 2456](https://www.govinfo.gov/link/statute/126/2456).)*

@@ -3,9 +3,10 @@ title: "Section 609 - Procedures for gathering comments"
 usc_title: 5
 usc_section: "609"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 609"
-generated_at: "2026-03-30T02:52:55.991Z"
+generated_at: "2026-11-23T20:25:31.746Z"
+status: "active"
 ---
 
 # § 609. Procedures for gathering comments
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:52:55.991Z"
   - **(1)** In developing a proposed rule, the extent to which the covered agency consulted with individuals representative of affected small entities with respect to the potential impacts of the rule and took such concerns into consideration.
   - **(2)** Special circumstances requiring prompt issuance of the rule.
   - **(3)** Whether the requirements of subsection (b) would provide the individuals identified in subsection (b)(2) with a competitive advantage relative to other small entities.
+
+## Source Credit
+
+*(Added [Pub. L. 96–354, § 3(a)](https://www.govinfo.gov/link/plaw/96/public/354), Sept. 19, 1980, [94 Stat. 1168](https://www.govinfo.gov/link/statute/94/1168); amended [Pub. L. 104–121, title II, § 244(a)](https://www.govinfo.gov/link/plaw/104/public/121), Mar. 29, 1996, [110 Stat. 867](https://www.govinfo.gov/link/statute/110/867); [Pub. L. 111–203, title X, § 1100G(a)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2112](https://www.govinfo.gov/link/statute/124/2112).)*

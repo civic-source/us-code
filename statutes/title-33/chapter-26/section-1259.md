@@ -3,9 +3,10 @@ title: "Section 1259 - Training grants and contracts"
 usc_title: 33
 usc_section: "1259"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1259"
-generated_at: "2026-03-30T02:55:41.083Z"
+generated_at: "2026-11-23T20:26:53.972Z"
+status: "active"
 ---
 
 # § 1259. Training grants and contracts
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:41.083Z"
   - **(2)** The Administrator shall make no more than one grant for such additional construction in any State (to serve a group of States, where, in his judgment, efficient training programs require multi-State programs), and shall make such grant after consultation with and approval by the State or States on the basis of (A) the suitability of such facility for training operation and maintenance personnel for treatment works throughout such State or States; and (B) a commitment by the State agency or agencies to carry out at such facility a program of training approved by the Administrator. In any case where a grant is made to serve two or more States, the Administrator is authorized to make an additional grant for a supplemental facility in each such State.
   - **(3)** The Administrator may make such grant out of the sums allocated to a State under section 1285 of this title , except that in no event shall the Federal cost of any such training facilities exceed $500,000.
   - **(4)** The Administrator may exempt a grant under this section from any requirement under section 1284(a)(3) of this title . Any grantee who received a grant under this section prior to enactment of the Clean Water Act of 1977 shall be eligible to have its grant increased by funds made available under such Act.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title I, § 109, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 829](https://www.govinfo.gov/link/statute/86/829); amended [Pub. L. 95–217, § 10](https://www.govinfo.gov/link/plaw/95/public/217), Dec. 27, 1977, [91 Stat. 1568](https://www.govinfo.gov/link/statute/91/1568).)*

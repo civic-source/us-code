@@ -3,9 +3,10 @@ title: "Section 1734 - Career development"
 usc_title: 10
 usc_section: "1734"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1734"
-generated_at: "2026-03-30T02:53:38.136Z"
+generated_at: "2026-11-23T20:25:51.416Z"
+status: "active"
 ---
 
 # § 1734. Career development
@@ -32,3 +33,23 @@ generated_at: "2026-03-30T02:53:38.136Z"
 - **(f)** The Secretary of Defense shall prescribe regulations providing for the use of centralized lists to ensure that persons are selected for critical positions without regard to geographic location of applicants for such positions.
 - **(g)** The Secretary of Defense shall establish, for purposes of broadening the experience of members of the acquisition workforce, a test program in which members of the acquisition workforce serving in a military department or Defense Agency are assigned or detailed to an acquisition position in another department or agency. Under the test program, the Secretary of Defense shall ensure that, to the maximum extent practicable, at least 5 percent of the members of the acquisition workforce in critical acquisition positions shall serve in such exchange assignments each year. The test program shall operate for not less than a period of three years.
 - **(h)** The Secretary of each military department, acting through the service acquisition executive for that department, is responsible for making assignments of civilian and military personnel of that military department who are members of the acquisition workforce to critical acquisition positions.
+
+Three-Year Assignment Period
+
+Assignment Period for Program Managers
+
+Major Milestone Regulations
+
+Waiver of Assignment Period
+
+Rotation Policy
+
+Centralized Job Referral System
+
+Exchange Program
+
+Responsibility for Assignments
+
+## Source Credit
+
+*(Added [Pub. L. 101–510, div. A, title XII, § 1202(a)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1646](https://www.govinfo.gov/link/statute/104/1646); amended [Pub. L. 102–484, div. A, title VIII, § 812(a)](https://www.govinfo.gov/link/plaw/102/public/484), (b), Oct. 23, 1992, [106 Stat. 2450](https://www.govinfo.gov/link/statute/106/2450); [Pub. L. 104–201, div. A, title X, § 1074(a)(9)(D)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2659](https://www.govinfo.gov/link/statute/110/2659); [Pub. L. 107–107, div. A, title X, § 1048(e)(5)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1227](https://www.govinfo.gov/link/statute/115/1227); [Pub. L. 108–136, div. A, title VIII](https://www.govinfo.gov/link/plaw/108/public/136), §§ 831(b)(4), 832(b)(3), 833(2), (3), Nov. 24, 2003, [117 Stat. 1549](https://www.govinfo.gov/link/statute/117/1549), 1550; [Pub. L. 116–92, div. A, title VIII, § 861(j)(10)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1520](https://www.govinfo.gov/link/statute/133/1520); [Pub. L. 116–283, div. A, title XVIII, § 1849(f)](https://www.govinfo.gov/link/plaw/116/public/283), formerly § 1849(m), Jan. 1, 2021, [134 Stat. 4264](https://www.govinfo.gov/link/statute/134/4264), renumbered § 1849(f) and amended [Pub. L. 117–81, div. A, title XVII, § 1701](https://www.govinfo.gov/link/plaw/117/public/81) (o)(5)(B), (6)(D), Dec. 27, 2021, [135 Stat. 2147](https://www.govinfo.gov/link/statute/135/2147); [Pub. L. 117–81, div. A, title XVII, § 1702(a)(3)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2155](https://www.govinfo.gov/link/statute/135/2155).)*

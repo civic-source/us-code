@@ -3,9 +3,10 @@ title: "Section 26102 - High-speed rail technology improvements"
 usc_title: 49
 usc_section: "26102"
 chapter: 261
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 26102"
-generated_at: "2026-03-30T02:56:19.349Z"
+generated_at: "2026-11-23T20:27:34.881Z"
+status: "active"
 ---
 
 # § 26102. High-speed rail technology improvements
@@ -13,3 +14,13 @@ generated_at: "2026-03-30T02:56:19.349Z"
 - **(a)** The Secretary may undertake activities for the improvement, adaptation, and integration of proven technologies for commercial application in high-speed rail service in the United States.
 - **(b)** In carrying out activities authorized by subsection (a), the Secretary may provide financial assistance to any United States private business, educational institution located in the United States, State or local government or public authority, or agency of the Federal Government.
 - **(c)** In carrying out activities authorized by subsection (a), the Secretary shall consult with such other governmental agencies as may be necessary concerning the availability of appropriate technologies for commercial application in high-speed rail service in the United States.
+
+Authority
+
+Eligible Recipients
+
+Consultation With Other Agencies
+
+## Source Credit
+
+*(Added [Pub. L. 103–440, title I, § 103(a)(2)](https://www.govinfo.gov/link/plaw/103/public/440), Nov. 2, 1994, [108 Stat. 4617](https://www.govinfo.gov/link/statute/108/4617).)*

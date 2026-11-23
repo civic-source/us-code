@@ -3,9 +3,10 @@ title: "Section 3610 - FedRAMP Board"
 usc_title: 44
 usc_section: "3610"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "44 U.S.C. § 3610"
-generated_at: "2026-03-30T02:55:56.299Z"
+generated_at: "2026-11-23T20:27:03.848Z"
+status: "active"
 ---
 
 # § 3610. FedRAMP Board
@@ -29,3 +30,17 @@ generated_at: "2026-03-30T02:55:56.299Z"
   - **(4)** ensure consistency and transparency between agencies and cloud service providers in a manner that minimizes confusion and engenders trust; and
   - **(5)** perform such other roles and responsibilities as the Director may assign, with concurrence from the Administrator.
 - **(e)** The FedRAMP Board may consult with the Chief Information Officers Council to establish a process, which may be made available on the website maintained under section 3609(b), for prioritizing and accepting the cloud computing products and services to be granted a FedRAMP authorization.
+
+Establishment
+
+Membership
+
+Qualifications
+
+Duties
+
+Determinations of Demand for Cloud Computing Products and Services
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. E, title LIX, § 5921(b)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3452](https://www.govinfo.gov/link/statute/136/3452).)*

@@ -3,9 +3,10 @@ title: "Section 1165 - Fire and life safety improvements"
 usc_title: 6
 usc_section: "1165"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 1165"
-generated_at: "2026-03-30T02:53:09.507Z"
+generated_at: "2026-11-23T20:25:34.935Z"
+status: "active"
 ---
 
 # § 1165. Fire and life safety improvements
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:53:09.507Z"
   - **(1)** consider the extent to which railroad carriers other than Amtrak use or plan to use the tunnels;
   - **(2)** consider the feasibility of seeking a financial contribution from those other railroad carriers toward the costs of the projects; and
   - **(3)** obtain financial contributions or commitments from such other railroad carriers at levels reflecting the extent of their use or planned use of the tunnels, if feasible.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XV, § 1515](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 437](https://www.govinfo.gov/link/statute/121/437).)*

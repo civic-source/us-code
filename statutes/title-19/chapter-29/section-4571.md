@@ -3,9 +3,10 @@ title: "Section 4571 - Definitions"
 usc_title: 19
 usc_section: "4571"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 4571"
-generated_at: "2026-03-30T02:54:24.713Z"
+generated_at: "2026-11-23T20:26:11.167Z"
+status: "active"
 ---
 
 # § 4571. Definitions
@@ -39,3 +40,7 @@ In this part:
   - **(14)** The term “United States long-haul trucking services industry” means—
     - **(A)** United States suppliers, operators, or drivers as a whole providing cross-border long-haul trucking services; or
     - **(B)** United States suppliers, operators, or drivers providing cross-border long-haul trucking services in a specific sub-market of the whole United States market.
+
+## Source Credit
+
+*([Pub. L. 116–113, title III, § 321](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 54](https://www.govinfo.gov/link/statute/134/54).)*

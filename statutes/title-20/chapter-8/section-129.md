@@ -3,12 +3,17 @@ title: "Section 129 - Financial policy; report to Congress"
 usc_title: 20
 usc_section: "129"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 129"
-generated_at: "2026-03-30T02:54:48.084Z"
+generated_at: "2026-11-23T20:26:14.251Z"
+status: "active"
 ---
 
 # § 129. Financial policy; report to Congress
 
 It is declared to be the policy of the Congress that, to the extent consistent with good medical teaching practice, the Howard University Hospital facilities shall become progressively more self-supporting. In order to further this policy, the President shall submit to the Congress a report, based on a study of the financing of the operation of the hospital, containing his recommendations on the rate at which, consistent with the above policy, Federal financial participation in such cost of operation shall be reduced. Such report shall be submitted not later than the end of the second calendar year following the year in which the construction of the new hospital facilities, authorized by section 126 of this title , is completed.
 
+
+## Source Credit
+
+*([Pub. L. 87–262, § 6](https://www.govinfo.gov/link/plaw/87/public/262), Sept. 21, 1961, [75 Stat. 544](https://www.govinfo.gov/link/statute/75/544).)*

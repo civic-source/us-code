@@ -3,9 +3,10 @@ title: "Section 1704 - Broadband Deployment Locations Map"
 usc_title: 47
 usc_section: "1704"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 1704"
-generated_at: "2026-03-30T02:56:24.538Z"
+generated_at: "2026-11-23T20:27:29.017Z"
+status: "active"
 ---
 
 # § 1704. Broadband Deployment Locations Map
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:56:24.538Z"
 - **(f)** Nothing in this section shall be construed to affect the programmatic missions of Federal agencies providing funding for broadband infrastructure development.
 - **(g)** The requirements in this section shall be consistent with and avoid duplication with the provisions of section 903 of division FF of the Consolidated Appropriations Act, 2021 ( Public Law 116–260 ) [ 47 U.S.C. 1307 ].
 - **(h)** Of the amounts appropriated to carry out this division under this Act, $10,000,000 shall be made available to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. F, title I, § 60105](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1206](https://www.govinfo.gov/link/statute/135/1206).)*

@@ -3,9 +3,10 @@ title: "Section 3847 - Data on conservation practices"
 usc_title: 16
 usc_section: "3847"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3847"
-generated_at: "2026-03-30T02:54:23.035Z"
+generated_at: "2026-11-23T20:26:20.714Z"
+status: "active"
 ---
 
 # § 3847. Data on conservation practices
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:23.035Z"
   - **(3)** a summary of safeguards the Secretary employs when providing access to data to university researchers;
   - **(4)** a summary of appropriate procedures to maximize the potential for research benefits while preventing any violations of privacy or confidentiality; and
   - **(5)** recommendations for any necessary authorizations or clarifications of Federal law to allow access to such data sets to maximize the potential for research benefits.
+
+## Source Credit
+
+*([Pub. L. 99–198, title XII, § 1247](https://www.govinfo.gov/link/plaw/99/public/198), as added [Pub. L. 115–334, title XII, § 12618](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 5017](https://www.govinfo.gov/link/statute/132/5017).)*

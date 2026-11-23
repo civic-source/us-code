@@ -3,9 +3,10 @@ title: "Section 273 - Manufacturing by Bell operating companies"
 usc_title: 47
 usc_section: "273"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 273"
-generated_at: "2026-03-30T02:56:24.503Z"
+generated_at: "2026-11-23T20:27:28.857Z"
+status: "active"
 ---
 
 # § 273. Manufacturing by Bell operating companies
@@ -71,3 +72,7 @@ generated_at: "2026-03-30T02:56:24.503Z"
 - **(f)** For the purposes of administering and enforcing the provisions of this section and the regulations prescribed thereunder, the Commission shall have the same authority, power, and functions with respect to any Bell operating company or any affiliate thereof as the Commission has in administering and enforcing the provisions of this subchapter with respect to any common carrier subject to this chapter.
 - **(g)** The Commission may prescribe such additional rules and regulations as the Commission determines are necessary to carry out the provisions of this section, and otherwise to prevent discrimination and cross-subsidization in a Bell operating company’s dealings with its affiliate and with third parties.
 - **(h)** As used in this section, the term “manufacturing” has the same meaning as such term has under the AT&T Consent Decree.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title II, § 273, as added [Pub. L. 104–104, title I, § 151(a)](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 95](https://www.govinfo.gov/link/statute/110/95).)*

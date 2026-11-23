@@ -3,9 +3,10 @@ title: "Section 5331 - Contract disputes and claims"
 usc_title: 25
 usc_section: "5331"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 5331"
-generated_at: "2026-03-30T02:54:52.867Z"
+generated_at: "2026-11-23T20:26:25.731Z"
+status: "active"
 ---
 
 # § 5331. Contract disputes and claims
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:52.867Z"
 - **(c)** The Equal Access to Justice Act (Publc 1 1 So in original. Probably should be “Public”, “21,”, and “94”, respectively. Law 96–481, Act of October 1, 1 1980; 92 1 Stat. 2325, as amended), section 504 of title 5 , and section 2412 of title 28 shall apply to administrative appeals pending on or filed after October 5, 1988 , by tribal organizations regarding self-determination contracts.
 - **(d)** Chapter 71 of title 41 shall apply to self-determination contracts, except that all administrative appeals relating to such contracts shall be heard by the Interior Board of Contract Appeals established pursuant to section 8 of such Act ( 41 U.S.C. 607 ). 2 2 See References in Text note below.
 - **(e)** Subsection (d) of this section shall apply to any case pending or commenced on or after March 17, 1986 , before the Boards of Contract Appeals of the Department of the Interior or the Department of Health and Human Services 2 except that in any such cases finally disposed of before October 5, 1988 , the thirty-day period referred to in section 504(a)(2) of title 5 shall be deemed to commence on October 5, 1988 .
+
+## Source Credit
+
+*([Pub. L. 93–638, title I, § 110](https://www.govinfo.gov/link/plaw/93/public/638), as added [Pub. L. 100–472, title II, § 206(a)](https://www.govinfo.gov/link/plaw/100/public/472), Oct. 5, 1988, [102 Stat. 2294](https://www.govinfo.gov/link/statute/102/2294); amended [Pub. L. 100–581, title II, § 212](https://www.govinfo.gov/link/plaw/100/public/581), Nov. 1, 1988, [102 Stat. 2941](https://www.govinfo.gov/link/statute/102/2941); [Pub. L. 101–301](https://www.govinfo.gov/link/plaw/101/public/301), §§ 1(a)(2), 2(b), May 24, 1990, [104 Stat. 206](https://www.govinfo.gov/link/statute/104/206), 207; [Pub. L. 103–413, title I, § 104(2)](https://www.govinfo.gov/link/plaw/103/public/413), (3), Oct. 25, 1994, [108 Stat. 4268](https://www.govinfo.gov/link/statute/108/4268).)*

@@ -3,9 +3,10 @@ title: "Section 2218 - Approval of leases, rights-of-way, and sales of natural r
 usc_title: 25
 usc_section: "2218"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 2218"
-generated_at: "2026-03-30T02:54:52.839Z"
+generated_at: "2026-11-23T20:26:25.586Z"
+status: "active"
 ---
 
 # § 2218. Approval of leases, rights-of-way, and sales of natural resources
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:54:52.839Z"
   - **(2)** The amount of the proceeds under paragraph (1) that are distributed to each owner under that paragraph shall be determined in accordance with the portion of the undivided interest in the allotted land covered under the lease or agreement that is owned by that owner.
 - **(f)** Nothing in this section shall be construed to amend or modify the provisions of Public Law 105–188 ( 25 U.S.C. 396 note), the American Indian Agricultural Resources Management Act ( 25 U.S.C. 3701 et seq.), title II of the Indian Land Consolidation Act Amendments of 2000, or any other Act that provides specific standards for the percentage of ownership interest that must approve a lease or agreement on a specified reservation.
 - **(g)** Nothing in this chapter shall be construed to supersede, repeal, or modify any general or specific statute authorizing the grant or approval of any type of land use transaction involving fractional interests in trust or restricted land.
+
+## Source Credit
+
+*([Pub. L. 97–459, title II, § 219](https://www.govinfo.gov/link/plaw/97/public/459), as added [Pub. L. 106–462, title I, § 103(6)](https://www.govinfo.gov/link/plaw/106/public/462), Nov. 7, 2000, [114 Stat. 2004](https://www.govinfo.gov/link/statute/114/2004); amended [Pub. L. 108–374, § 6(a)(10)](https://www.govinfo.gov/link/plaw/108/public/374), (11), Oct. 27, 2004, [118 Stat. 1804](https://www.govinfo.gov/link/statute/118/1804).)*

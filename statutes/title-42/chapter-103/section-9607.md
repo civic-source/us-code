@@ -3,9 +3,10 @@ title: "Section 9607 - Liability"
 usc_title: 42
 usc_section: "9607"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9607"
-generated_at: "2026-03-30T02:56:11.357Z"
+generated_at: "2026-11-23T20:27:23.101Z"
+status: "active"
 ---
 
 # § 9607. Liability
@@ -216,3 +217,23 @@ generated_at: "2026-03-30T02:56:11.357Z"
     - **(D)** shall continue until the earlier of—
       - **(i)** satisfaction of the lien by sale or other means; or
       - **(ii)** notwithstanding any statute of limitations under section 9613 of this title , recovery of all response costs incurred at the facility.
+
+Suspension of liability transfer
+
+Study of options for post-closure program.—
+
+Study
+
+Program elements
+
+Assessments
+
+Procedures
+
+Consideration of options
+
+Recommendations
+
+## Source Credit
+
+*([Pub. L. 96–510, title I, § 107](https://www.govinfo.gov/link/plaw/96/public/510), Dec. 11, 1980, [94 Stat. 2781](https://www.govinfo.gov/link/statute/94/2781); [Pub. L. 99–499, title I](https://www.govinfo.gov/link/plaw/99/public/499), §§ 107(a)–(d)(2), (e), (f), 127(b), (e), title II, §§ 201, 207(c), Oct. 17, 1986, [100 Stat. 1628–1630](https://www.govinfo.gov/link/statute/100/1628), 1692, 1693, 1705; [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 103–429, § 7(e)(2)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4390](https://www.govinfo.gov/link/statute/108/4390); [Pub. L. 104–208, div. A, title II, § 2502(a)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–462](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 104–287, § 6(j)(2)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3400](https://www.govinfo.gov/link/statute/110/3400); [Pub. L. 107–118, title I, § 102(a)](https://www.govinfo.gov/link/plaw/107/public/118), title II, §§ 221, 222(b), Jan. 11, 2002, [115 Stat. 2356](https://www.govinfo.gov/link/statute/115/2356), 2368, 2371; [Pub. L. 115–141, div. N, § 5(b)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1054](https://www.govinfo.gov/link/statute/132/1054).)*

@@ -3,9 +3,10 @@ title: "Section 1671 - Congressional statement of findings"
 usc_title: 16
 usc_section: "1671"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1671"
-generated_at: "2026-03-30T02:54:22.980Z"
+generated_at: "2026-11-23T20:26:20.537Z"
+status: "active"
 ---
 
 # § 1671. Congressional statement of findings
@@ -17,3 +18,7 @@ Congress finds that—
   - **(3)** more efficient utilization and marketing of renewable resources extend available supplies of such resources, provide products to consumers at prices less than they would otherwise be, and promote reasonable returns on the investments of landowners, processors, and users;
   - **(4)** trees and forests in urban areas improve the esthetic quality, reduce noise, filter impurities from the air and add oxygen to it, save energy by moderating temperature extremes, control wind and water erosion, and provide habitat for wildlife; and
   - **(5)** trees and shrubs used as shelterbelts protect farm lands from wind and water erosion, promote moisture accumulation in the soil, and provide habitat for wildlife.
+
+## Source Credit
+
+*([Pub. L. 95–306, § 2](https://www.govinfo.gov/link/plaw/95/public/306), June 30, 1978, [92 Stat. 349](https://www.govinfo.gov/link/statute/92/349).)*

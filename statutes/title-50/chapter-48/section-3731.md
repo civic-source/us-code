@@ -3,9 +3,10 @@ title: "Section 3731 - Prohibition on use of funds for specified purposes"
 usc_title: 50
 usc_section: "3731"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3731"
-generated_at: "2026-03-30T02:56:26.260Z"
+generated_at: "2026-11-23T20:27:31.036Z"
+status: "active"
 ---
 
 # § 3731. Prohibition on use of funds for specified purposes
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:26.260Z"
 - **(b)** Cooperative Threat Reduction funds may not be obligated or expended for the elimination of—
   - **(1)** conventional weapons; or
   - **(2)** delivery vehicles of conventional weapons, unless such delivery vehicles could reasonably be used or adapted to be used for the delivery of chemical, nuclear, or biological weapons.
+
+## Source Credit
+
+*([Pub. L. 113–291, div. A, title XIII, § 1331](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3601](https://www.govinfo.gov/link/statute/128/3601).)*

@@ -3,9 +3,10 @@ title: "Section 104 - Subject matter of copyright: National origin"
 usc_title: 17
 usc_section: "104"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 104"
-generated_at: "2026-03-30T02:54:15.344Z"
+generated_at: "2026-11-23T20:26:06.475Z"
+status: "active"
 ---
 
 # § 104. Subject matter of copyright: National origin
@@ -20,3 +21,17 @@ generated_at: "2026-03-30T02:54:15.344Z"
   - **(6)** the work comes within the scope of a Presidential proclamation. Whenever the President finds that a particular foreign nation extends, to works by authors who are nationals or domiciliaries of the United States or to works that are first published in the United States, copyright protection on substantially the same basis as that on which the foreign nation extends protection to works of its own nationals and domiciliaries and works first published in that nation, the President may by proclamation extend protection under this title to works of which one or more of the authors is, on the date of first publication, a national, domiciliary, or sovereign authority of that nation, or which was first published in that nation. The President may revise, suspend, or revoke any such proclamation or impose any conditions or limitations on protection under a proclamation.
 - **(c)** No right or interest in a work eligible for protection under this title may be claimed by virtue of, or in reliance upon, the provisions of the Berne Convention, or the adherence of the United States thereto. Any rights in a work eligible for protection under this title that derive from this title, other Federal or State statutes, or the common law, shall not be expanded or reduced by virtue of, or in reliance upon, the provisions of the Berne Convention, or the adherence of the United States thereto.
 - **(d)** Notwithstanding the provisions of subsection (b), no works other than sound recordings shall be eligible for protection under this title solely by virtue of the adherence of the United States to the Geneva Phonograms Convention or the WIPO Performances and Phonograms Treaty.
+
+Unpublished Works
+
+Published Works
+
+Effect of Berne Convention
+
+Effect of Phonograms Treaties
+
+Lyndon B. Johnson.
+
+## Source Credit
+
+*([Pub. L. 94–553, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/553), Oct. 19, 1976, [90 Stat. 2545](https://www.govinfo.gov/link/statute/90/2545); [Pub. L. 100–568, § 4(a)(2)](https://www.govinfo.gov/link/plaw/100/public/568), (3), Oct. 31, 1988, [102 Stat. 2855](https://www.govinfo.gov/link/statute/102/2855); [Pub. L. 105–304, title I, § 102(b)](https://www.govinfo.gov/link/plaw/105/public/304), Oct. 28, 1998, [112 Stat. 2862](https://www.govinfo.gov/link/statute/112/2862).)*

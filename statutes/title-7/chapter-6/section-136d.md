@@ -3,9 +3,10 @@ title: "Section 136d - Administrative review; suspension"
 usc_title: 7
 usc_section: "136d"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 136d"
-generated_at: "2026-03-30T02:53:42.259Z"
+generated_at: "2026-11-23T20:25:40.923Z"
+status: "active"
 ---
 
 # § 136d. Administrative review; suspension
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:53:42.259Z"
     - **(C)** the place at which such pesticide is stored.
   - **(2)** The Administrator shall transmit a copy of each notice submitted under this subsection to the regional office of the Environmental Protection Agency which has jurisdiction over the place of pesticide storage identified in the notice.
 - **(h)** Final orders of the Administrator under this section shall be subject to judicial review pursuant to section 136n of this title .
+
+## Source Credit
+
+*(June 25, 1947, ch. 125, § 6, as added [Pub. L. 92–516, § 2](https://www.govinfo.gov/link/plaw/92/public/516), Oct. 21, 1972, [86 Stat. 984](https://www.govinfo.gov/link/statute/86/984); amended [Pub. L. 94–140, § 1](https://www.govinfo.gov/link/plaw/94/public/140), Nov. 28, 1975, [89 Stat. 751](https://www.govinfo.gov/link/statute/89/751); [Pub. L. 95–251, § 2(a)(2)](https://www.govinfo.gov/link/plaw/95/public/251), Mar. 27, 1978, [92 Stat. 183](https://www.govinfo.gov/link/statute/92/183); [Pub. L. 95–396](https://www.govinfo.gov/link/plaw/95/public/396), §§ 11, 12, Sept. 30, 1978, [92 Stat. 828](https://www.govinfo.gov/link/statute/92/828); [Pub. L. 98–620, title IV, § 402(4)(A)](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3357](https://www.govinfo.gov/link/statute/98/3357); [Pub. L. 100–532, title II, § 201](https://www.govinfo.gov/link/plaw/100/public/532), title IV, § 404, title VIII, § 801(e), (q)(2)(B), Oct. 25, 1988, [102 Stat. 2668](https://www.govinfo.gov/link/statute/102/2668), 2673, 2681, 2683; [Pub. L. 101–624, title XIV, § 1494](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3628](https://www.govinfo.gov/link/statute/104/3628); [Pub. L. 102–237, title X, § 1006(a)(5)](https://www.govinfo.gov/link/plaw/102/public/237), (b)(1), (2), (3)(C)–(E), Dec. 13, 1991, [105 Stat. 1895](https://www.govinfo.gov/link/statute/105/1895), 1896; [Pub. L. 104–170, title I](https://www.govinfo.gov/link/plaw/104/public/170), §§ 102, 106(a), title II, §§ 210(g), (h), 233, Aug. 3, 1996, [110 Stat. 1489](https://www.govinfo.gov/link/statute/110/1489), 1491, 1500, 1509.)*

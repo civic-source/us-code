@@ -3,9 +3,10 @@ title: "Section 2390 - Prohibition on the sale of certain defense articles from 
 usc_title: 10
 usc_section: "2390"
 chapter: 141
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2390"
-generated_at: "2026-03-30T02:53:38.157Z"
+generated_at: "2026-11-23T20:25:51.559Z"
+status: "active"
 ---
 
 # § 2390. Prohibition on the sale of certain defense articles from the stocks of the Department of Defense
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:38.157Z"
 - **(c)**
   - **(1)** Nothing in this section shall preclude the sale of stocks which have been designated for replacement, substitution, or elimination or which have been designated for sale to provide funds to procure higher priority stocks.
   - **(2)** Nothing in this section shall preclude the transfer or sale of equipment to other members of the North Atlantic Treaty Organization.
+
+## Source Credit
+
+*(Added [Pub. L. 95–485, title VIII, § 815(a)](https://www.govinfo.gov/link/plaw/95/public/485), Oct. 20, 1978, [92 Stat. 1625](https://www.govinfo.gov/link/statute/92/1625), § 975; amended [Pub. L. 100–26, § 7(k)(3)](https://www.govinfo.gov/link/plaw/100/public/26), Apr. 21, 1987, [101 Stat. 284](https://www.govinfo.gov/link/statute/101/284); renumbered § 2390, [Pub. L. 101–189, div. A, title XVI, § 1622(b)(1)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1604](https://www.govinfo.gov/link/statute/103/1604).)*

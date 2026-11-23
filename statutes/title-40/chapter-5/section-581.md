@@ -3,9 +3,10 @@ title: "Section 581 - General authority of Administrator of General Services"
 usc_title: 40
 usc_section: "581"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 581"
-generated_at: "2026-03-30T02:55:43.375Z"
+generated_at: "2026-11-23T20:26:56.547Z"
+status: "active"
 ---
 
 # § 581. General authority of Administrator of General Services
@@ -52,3 +53,114 @@ generated_at: "2026-03-30T02:55:43.375Z"
   - **(2)** The Administrator may make available, on occasion, or lease at a rate and on terms and conditions that the Administrator considers to be in the public interest, an auditorium, meeting room, courtyard, rooftop, or lobby of a public building to a person, firm, or organization engaged in cultural, educational, or recreational activity (as defined in section 3306(a) of this title ) that will not disrupt the operation of the building.
   - **(3)** The Administrator may deposit into the Federal Buildings Fund an amount received under a lease or rental executed pursuant to paragraph (1) or (2). The amount shall be credited to the appropriation from the Fund applicable to the operation of the building.
   - **(4)** The Administrator may furnish utilities, maintenance, repair, and other services to a person, firm, or organization leasing space pursuant to paragraph (1) or (2). The services may be provided during and outside of regular working hours of federal agencies.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 581 | 40:490(a). | June 30, 1949, ch. 288 , title II, § 210(a), as added Sept. 5, 1950, ch. 849, § 5(c) , 64 Stat. 580 ; Pub. L. 85–886, § 1 , Sept. 2, 1958 , 72 Stat. 1709 ; Pub. L. 89–276 , Oct. 20, 1965 , 79 Stat. 1010 ; Pub. L. 90–626 , Oct. 22, 1968 , 82 Stat. 1319 ; Pub. L. 94–541, title I, § 104(a) , Oct. 18, 1976 , 90 Stat. 2506 ; Pub. L. 104–201, title VIII, § 823 , Sept. 23, 1996 , 110 Stat. 2609 ; Pub. L. 104–316, title I, § 120(b) , Oct. 19, 1996 , 110 Stat. 3836 . |
+
+
+Personnel and Equipment
+
+Acquisition and Management of Property.—
+
+Real estate
+
+Ground rent
+
+Rent and repairs under a lease
+
+Repairs that are economically advantageous
+
+Insurance proceeds for defense industrial reserve
+
+Maintenance contracts
+
+Lease of Federal Building Sites.—
+
+In general
+
+Negotiation without advertising
+
+Deposit of rent
+
+Assistance to the Inaugural Committee
+
+Utilities for Defense Industrial Reserve and Surplus Property
+
+Obtaining Payments
+
+Cooperative Use of Public Buildings.—
+
+Leasing space for commercial and other purposes
+
+Occasional use of space for non-commercial purposes
+
+Deposit and credit of amounts received
+
+Furnishing utilities and maintenance
+
+Historical and Revision Notes
+
+581
+
+June 30, 1949, ch. 288
+
+Sept. 5, 1950, ch. 849, § 5(c)
+
+64 Stat. 580
+
+Pub. L. 85–886, § 1
+
+Sept. 2, 1958
+
+72 Stat. 1709
+
+Pub. L. 89–276
+
+Oct. 20, 1965
+
+79 Stat. 1010
+
+Pub. L. 90–626
+
+Oct. 22, 1968
+
+82 Stat. 1319
+
+Pub. L. 94–541, title I, § 104(a)
+
+Oct. 18, 1976
+
+90 Stat. 2506
+
+Pub. L. 104–201, title VIII, § 823
+
+Sept. 23, 1996
+
+110 Stat. 2609
+
+Pub. L. 104–316, title I, § 120(b)
+
+Oct. 19, 1996
+
+110 Stat. 3836
+
+Applicability
+
+Identification of Core Competencies
+
+Designation of Relevant Courses, Certifications, Degrees, Licenses, and Registrations
+
+Identified Competencies
+
+Continuing Education
+
+Curriculum With Respect to Facility Management and Operation of High-Performance Buildings
+
+Applicability of This Section to Functions Performed Under Contract
+
+William J. Clinton.
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1108](https://www.govinfo.gov/link/statute/116/1108); [Pub. L. 107–296, title XVII, § 1706(a)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2316](https://www.govinfo.gov/link/statute/116/2316); [Pub. L. 109–284, § 6(5)](https://www.govinfo.gov/link/plaw/109/public/284), Sept. 27, 2006, [120 Stat. 1212](https://www.govinfo.gov/link/statute/120/1212); [Pub. L. 117–81, div. A, title XVII, § 1702(g)(2)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2158](https://www.govinfo.gov/link/statute/135/2158).)*

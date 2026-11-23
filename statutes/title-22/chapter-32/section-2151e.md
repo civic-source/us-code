@@ -3,12 +3,17 @@ title: "Section 2151e - Appropriate technology"
 usc_title: 22
 usc_section: "2151e"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2151e"
-generated_at: "2026-03-30T02:55:05.345Z"
+generated_at: "2026-11-23T20:26:32.172Z"
+status: "active"
 ---
 
 # § 2151e. Appropriate technology
 
 - **(a)** In carrying out activities under this part, the President shall place special emphasis on the use of relatively smaller, cost-saving, labor-using technologies that are generally most appropriate for the small farms, small businesses, and small incomes of the poor.
 - **(b)** Funds made available to carry out this part should be used to the extent practicable for activities in the field of appropriate technology, including support of an expanded and coordinated private effort to promote the development and dissemination of appropriate technology in developing countries.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 107, as added [Pub. L. 94–161, title III, § 306(2)](https://www.govinfo.gov/link/plaw/94/public/161), Dec. 20, 1975, [89 Stat. 859](https://www.govinfo.gov/link/statute/89/859); amended [Pub. L. 95–424, title I, § 107](https://www.govinfo.gov/link/plaw/95/public/424), Oct. 6, 1978, [92 Stat. 947](https://www.govinfo.gov/link/statute/92/947).)*

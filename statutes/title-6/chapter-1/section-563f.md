@@ -3,9 +3,10 @@ title: "Section 563f - Diversified security technology industry marketplace"
 usc_title: 6
 usc_section: "563f"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 563f"
-generated_at: "2026-03-30T02:53:09.469Z"
+generated_at: "2026-11-23T20:25:34.795Z"
+status: "active"
 ---
 
 # § 563f. Diversified security technology industry marketplace
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:09.469Z"
   - **(1)** The term “intelligence community” has the meaning given the term in section 3003 of title 50 .
   - **(2)** The term “small business concern” has the meaning described under section 632 of title 15 .
   - **(3)** The term “small business innovator” means a small business concern that has an advanced transportation security technology or capability.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XVI, § 1617](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 115–254, div. K, title I, § 1913(a)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3554](https://www.govinfo.gov/link/statute/132/3554).)*

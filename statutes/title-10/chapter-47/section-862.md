@@ -3,9 +3,10 @@ title: "Section 862 - Art. 62. Appeal by the United States"
 usc_title: 10
 usc_section: "862"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 862"
-generated_at: "2026-03-30T02:53:38.082Z"
+generated_at: "2026-11-23T20:25:51.088Z"
+status: "active"
 ---
 
 # § 862. Art. 62. Appeal by the United States
@@ -27,3 +28,22 @@ generated_at: "2026-03-30T02:53:38.082Z"
 - **(c)** Any period of delay resulting from an appeal under this section shall be excluded in deciding any issue regarding denial of a speedy trial unless an appropriate authority determines that the appeal was filed solely for the purpose of delay with the knowledge that it was totally frivolous and without merit.
 - **(d)** The United States may appeal a ruling or order of a military magistrate in the same manner as had the ruling or order been made by a military judge, except that the issue shall first be presented to the military judge who designated the military magistrate or to a military judge detailed to hear the issue.
 - **(e)** The provisions of this section shall be liberally construed to effect its purposes.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 862(a) 862(b) | 50:649(a). 50:649(b). | May 5, 1950, ch. 169, § 1 (Art. 62), 64 Stat. 127 . |
+
+
+Historical and Revision Notes
+
+862(a)
+
+862(b)
+
+May 5, 1950, ch. 169, § 1
+
+64 Stat. 127
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 58; [Pub. L. 98–209, § 5(c)(1)](https://www.govinfo.gov/link/plaw/98/public/209), Dec. 6, 1983, [97 Stat. 1398](https://www.govinfo.gov/link/statute/97/1398); [Pub. L. 103–337, div. A, title IX, § 924(c)(2)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2831](https://www.govinfo.gov/link/statute/108/2831); [Pub. L. 104–106, div. A, title XI, § 1141(a)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 466](https://www.govinfo.gov/link/statute/110/466); [Pub. L. 114–328, div. E, title LIX, § 5326](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2928](https://www.govinfo.gov/link/statute/130/2928); [Pub. L. 115–91, div. A, title V, § 531(h)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1385](https://www.govinfo.gov/link/statute/131/1385).)*

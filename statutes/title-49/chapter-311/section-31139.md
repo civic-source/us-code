@@ -3,9 +3,10 @@ title: "Section 31139 - Minimum financial responsibility for transporting proper
 usc_title: 49
 usc_section: "31139"
 chapter: 311
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 31139"
-generated_at: "2026-03-30T02:56:19.359Z"
+generated_at: "2026-11-23T20:27:34.953Z"
+status: "active"
 ---
 
 # § 31139. Minimum financial responsibility for transporting property
@@ -63,3 +64,159 @@ generated_at: "2026-03-30T02:56:19.359Z"
   - **(1)** class A or B explosives;
   - **(2)** poison gas; or
   - **(3)** a large quantity of radioactive material.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 31139(a) | 49:10927 (note). | July 1, 1980 , Pub. L. 96–296, § 30(h) , 94 Stat. 823 ; Jan. 6, 1983 , Pub. L. 97–424, § 406(c) , 96 Stat. 2159 ; Oct. 30, 1984 , Pub. L. 98–554, § 222(b) , 98 Stat. 2847 ; Nov. 18, 1988 , Pub. L. 100–690, § 9112 , 102 Stat. 4534 . |
+| 31139(b) | 49:10927 (note). | July 1, 1980 , Pub. L. 96–296, § 30(a) , 94 Stat. 820 ; Jan. 6, 1983 , Pub. L. 97–424, § 406(a) , 96 Stat. 2158 . |
+| 31139(c) | 49:10927 (note). | July 1, 1980 , Pub. L. 96–296, § 30(b) , 94 Stat. 821 ; Jan. 6, 1983 , Pub. L. 97–424, § 406(a) , 96 Stat. 2158 ; Oct. 30, 1984 , Pub. L. 98–554, § 222(a) , 98 Stat. 2846 ; Nov. 16, 1990 , Pub. L. 101–615, § 23 , 104 Stat. 3272 . |
+| 31139(d) | 49:10927 (note). | July 1, 1980 , Pub. L. 96–296 , 94 Stat. 793 , § 30(g); added Nov. 18, 1988 , Pub. L. 100–690, § 9112 , 102 Stat. 4534 . |
+| 31139(e) | 49:10927 (note). | July 1, 1980 , Pub. L. 96–296, § 30(c) , 94 Stat. 822 ; Jan. 6, 1983 , Pub. L. 97–424, § 406(b) , 96 Stat. 2158 . |
+|  |  | July 1, 1980 , Pub. L. 96–296, § 30(e) , 94 Stat. 822 . |
+| 31139(f) | 49:10927 (note). | July 1, 1980 , Pub. L. 96–296, § 30(d) , 94 Stat. 822 . |
+| 31139(g) | 49:10927 (note). | July 1, 1980 , Pub. L. 96–296, § 30(f) , 94 Stat. 823 ; Jan. 6, 1983 , Pub. L. 97–424, § 406(d) , 96 Stat. 2159 . |
+
+
+Definitions
+
+General Requirement and Minimum Amount
+
+Filing of Evidence of Financial Responsibility
+
+Requirements for Hazardous Matter and Oil
+
+Foreign Motor Carriers and Private Carriers
+
+Evidence of Financial Responsibility
+
+Civil Penalty
+
+Nonapplication
+
+Historical and Revision Notes
+
+31139(a)
+
+July 1, 1980
+
+Pub. L. 96–296, § 30(h)
+
+94 Stat. 823
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 406(c)
+
+96 Stat. 2159
+
+Oct. 30, 1984
+
+Pub. L. 98–554, § 222(b)
+
+98 Stat. 2847
+
+Nov. 18, 1988
+
+Pub. L. 100–690, § 9112
+
+102 Stat. 4534
+
+31139(b)
+
+July 1, 1980
+
+Pub. L. 96–296, § 30(a)
+
+94 Stat. 820
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 406(a)
+
+96 Stat. 2158
+
+31139(c)
+
+July 1, 1980
+
+Pub. L. 96–296, § 30(b)
+
+94 Stat. 821
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 406(a)
+
+96 Stat. 2158
+
+Oct. 30, 1984
+
+Pub. L. 98–554, § 222(a)
+
+98 Stat. 2846
+
+Nov. 16, 1990
+
+Pub. L. 101–615, § 23
+
+104 Stat. 3272
+
+31139(d)
+
+July 1, 1980
+
+Pub. L. 96–296
+
+94 Stat. 793
+
+Nov. 18, 1988
+
+Pub. L. 100–690, § 9112
+
+102 Stat. 4534
+
+31139(e)
+
+July 1, 1980
+
+Pub. L. 96–296, § 30(c)
+
+94 Stat. 822
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 406(b)
+
+96 Stat. 2158
+
+July 1, 1980
+
+Pub. L. 96–296, § 30(e)
+
+94 Stat. 822
+
+31139(f)
+
+July 1, 1980
+
+Pub. L. 96–296, § 30(d)
+
+94 Stat. 822
+
+31139(g)
+
+July 1, 1980
+
+Pub. L. 96–296, § 30(f)
+
+94 Stat. 823
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 406(d)
+
+96 Stat. 2159
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1006](https://www.govinfo.gov/link/statute/108/1006); [Pub. L. 104–88, title I, § 104(e)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 919](https://www.govinfo.gov/link/statute/109/919); [Pub. L. 109–59, title IV](https://www.govinfo.gov/link/plaw/109/public/59), §§ 4120(b), 4121, Aug. 10, 2005, [119 Stat. 1733](https://www.govinfo.gov/link/statute/119/1733), 1734; [Pub. L. 110–244, title III](https://www.govinfo.gov/link/plaw/110/public/244), §§ 301(f), 305(b), June 6, 2008, [122 Stat. 1616](https://www.govinfo.gov/link/statute/122/1616), 1620.)*

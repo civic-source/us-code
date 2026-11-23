@@ -3,9 +3,10 @@ title: "Section 30105 - Additional funding for resources to investigate and pros
 usc_title: 34
 usc_section: "30105"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 30105"
-generated_at: "2026-03-30T02:55:33.305Z"
+generated_at: "2026-11-23T20:26:50.625Z"
+status: "active"
 ---
 
 # § 30105. Additional funding for resources to investigate and prosecute intellectual property crimes and other criminal activity involving computers
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:33.305Z"
     - **(A)** investigate intellectual property crimes and other crimes committed through the use of computers and other information technology, including through the use of the Internet; and
     - **(B)** assist in the prosecution of such crimes; and
   - **(2)** enable relevant units of the Department of Justice, including units responsible for investigating computer hacking or intellectual property crimes, to procure advanced tools of forensic science and expert computer forensic assistance, including from non-governmental entities, to investigate, prosecute, and study such crimes.
+
+## Source Credit
+
+*([Pub. L. 110–403, title IV, § 403](https://www.govinfo.gov/link/plaw/110/public/403), Oct. 13, 2008, [122 Stat. 4273](https://www.govinfo.gov/link/statute/122/4273).)*

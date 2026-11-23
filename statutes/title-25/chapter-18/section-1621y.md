@@ -3,9 +3,10 @@ title: "Section 1621y - Contract health service administration and disbursement 
 usc_title: 25
 usc_section: "1621y"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1621y"
-generated_at: "2026-03-30T02:54:52.822Z"
+generated_at: "2026-11-23T20:26:25.491Z"
+status: "active"
 ---
 
 # § 1621y. Contract health service administration and disbursement formula
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:52.822Z"
   - **(3)** to identify any areas of program administration that may result in the inefficient or ineffective management of the program; and
   - **(4)** to identify any other issues and recommendations to improve the administration of the contract health services program and correct any unfair results or funding disparities identified under paragraph (2).
 - **(c)** If, after consultation with Indian tribes under subsection (b), the Secretary determines that any issue described in subsection (b)(2) exists, the Secretary may initiate procedures under subchapter III of chapter 5 of title 5 to negotiate or promulgate regulations to establish a disbursement formula for the contract health service program funding.
+
+## Source Credit
+
+*([Pub. L. 94–437, title II, § 226](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

@@ -3,12 +3,17 @@ title: "Section 915 - Invalid agreements"
 usc_title: 33
 usc_section: "915"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 915"
-generated_at: "2026-03-30T02:55:41.077Z"
+generated_at: "2026-11-23T20:26:53.938Z"
+status: "active"
 ---
 
 # § 915. Invalid agreements
 
 - **(a)** No agreement by an employee to pay any portion of premium paid by his employer to a carrier or to contribute to a benefit fund or department maintained by such employer for the purpose of providing compensation or medical services and supplies as required by this chapter shall be valid, and any employer who makes a deduction for such purpose from the pay of any employee entitled to the benefits of this chapter shall be guilty of a misdemeanor, and upon conviction thereof shall be punished by a fine of not more than $1,000.
 - **(b)** No agreement by an employee to waive his right to compensation under this chapter shall be valid.
+
+## Source Credit
+
+*(Mar. 4, 1927, ch. 509, § 15, [44 Stat. 1434](https://www.govinfo.gov/link/statute/44/1434).)*

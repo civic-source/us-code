@@ -3,9 +3,10 @@ title: "Section 2012 - Congressional findings"
 usc_title: 42
 usc_section: "2012"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2012"
-generated_at: "2026-03-30T02:56:11.145Z"
+generated_at: "2026-11-23T20:27:22.043Z"
+status: "active"
 ---
 
 # § 2012. Congressional findings
@@ -21,3 +22,7 @@ The Congress of the United States makes the following findings concerning the de
 - **(g)** Funds of the United States may be provided for the development and use of atomic energy under conditions which will provide for the common defense and security and promote the general welfare.
 - **(h)** Repealed. Pub. L. 88–489, § 2 , Aug. 26, 1964 , 78 Stat. 602 .
 - **(i)** In order to protect the public and to encourage the development of the atomic energy industry, in the interest of the general welfare and of the common defense and security, the United States may make funds available for a portion of the damages suffered by the public from nuclear incidents, and may limit the liability of those persons liable for such losses.
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 2, as added Aug. 30, 1954, ch. 1073, § 1, [68 Stat. 921](https://www.govinfo.gov/link/statute/68/921); amended [Pub. L. 85–256, § 1](https://www.govinfo.gov/link/plaw/85/public/256), Sept. 2, 1957, [71 Stat. 576](https://www.govinfo.gov/link/statute/71/576); [Pub. L. 88–489](https://www.govinfo.gov/link/plaw/88/public/489), §§ 1, 2, Aug. 26, 1964, [78 Stat. 602](https://www.govinfo.gov/link/statute/78/602); renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944).)*

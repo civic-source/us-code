@@ -3,12 +3,17 @@ title: "Section 4279 - Receipt of funds; consideration by Congress"
 usc_title: 42
 usc_section: "4279"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4279"
-generated_at: "2026-03-30T02:56:11.201Z"
+generated_at: "2026-11-23T20:27:22.369Z"
+status: "active"
 ---
 
 # § 4279. Receipt of funds; consideration by Congress
 
 The Commission is authorized to receive funds through grants, contracts, and contributions from State and local governments and organizations thereof, and from nonprofit organizations. Such funds may be received and expended by the Commission only for purposes of this chapter. In making appropriations to the Commission the Congress shall consider the amount of any funds received by the Commission in addition to those funds appropriated to it by the Congress.
 
+
+## Source Credit
+
+*([Pub. L. 86–380, § 9](https://www.govinfo.gov/link/plaw/86/public/380), as added [Pub. L. 89–733, § 6](https://www.govinfo.gov/link/plaw/89/public/733), Nov. 2, 1966, [80 Stat. 1162](https://www.govinfo.gov/link/statute/80/1162).)*

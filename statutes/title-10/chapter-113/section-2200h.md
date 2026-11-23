@@ -3,9 +3,10 @@ title: "Section 2200h - Program elements"
 usc_title: 10
 usc_section: "2200h"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2200h"
-generated_at: "2026-03-30T02:53:38.147Z"
+generated_at: "2026-11-23T20:25:51.487Z"
+status: "active"
 ---
 
 # § 2200h. Program elements
@@ -33,3 +34,31 @@ generated_at: "2026-03-30T02:53:38.147Z"
     - **(B)** Payment under subparagraph (A) may be made only during the term of the appointment of such an individual and may not exceed a total of four years of payments for any one individual, including renewals under paragraph (1) or (2).
     - **(C)** Nothing in this paragraph shall be construed to affect the authority of the Secretary of Defense to pay compensation from other available appropriations.
   - **(4)** The authority under this subsection shall terminate on December 31, 2029 .
+
+In General
+
+Hiring Authority.—
+
+Members
+
+Graduates.—
+
+In general
+
+Level
+
+Limit
+
+Compensation.—
+
+In general
+
+Limitation
+
+Relation to other authority
+
+Sunset
+
+## Source Credit
+
+*(Added [Pub. L. 116–92, div. A, title VIII, § 860(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1514](https://www.govinfo.gov/link/statute/133/1514); amended [Pub. L. 116–283, div. A, title X, § 1081(a)(4)(A)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3870](https://www.govinfo.gov/link/statute/134/3870); [Pub. L. 119–60, div. A, title VIII, § 823(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 954](https://www.govinfo.gov/link/statute/139/954).)*

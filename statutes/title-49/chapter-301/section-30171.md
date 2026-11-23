@@ -3,9 +3,10 @@ title: "Section 30171 - Protection of employees providing motor vehicle safety i
 usc_title: 49
 usc_section: "30171"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 30171"
-generated_at: "2026-03-30T02:56:19.353Z"
+generated_at: "2026-11-23T20:27:34.921Z"
+status: "active"
 ---
 
 # § 30171. Protection of employees providing motor vehicle safety information
@@ -43,3 +44,57 @@ generated_at: "2026-03-30T02:56:19.353Z"
     - **(B)** The court, in issuing any final order under this paragraph, may award costs of litigation (including reasonable attorney and expert witness fees) to any party whenever the court determines such award is appropriate.
 - **(c)** Any nondiscretionary duty imposed under this section shall be enforceable in a mandamus proceeding brought under section 1361 of title 28 .
 - **(d)** Subsection (a) shall not apply with respect to an employee of a motor vehicle manufacturer, part supplier, or dealership who, acting without direction from such motor vehicle manufacturer, part supplier, or dealership (or such person’s agent), deliberately causes a violation of any requirement relating to motor vehicle safety under this chapter.
+
+Discrimination Against Employees of Manufacturers, Part Suppliers, and Dealerships
+
+Complaint Procedure.—
+
+Filing and notification
+
+Investigation; preliminary order.—
+
+In general
+
+Requirements.—
+
+Required showing by complainant
+
+Showing by employer
+
+Criteria for determination by secretary
+
+Prohibition
+
+Final order.—
+
+Deadline for issuance; settlement agreements
+
+Remedy
+
+Attorneys’ fees
+
+Frivolous complaints
+
+De novo review
+
+Review.—
+
+Appeal to court of appeals
+
+Limitation on collateral attack
+
+Enforcement of order by secretary
+
+Enforcement of order by parties.—
+
+Commencement of action
+
+Attorney fees
+
+Mandamus
+
+Nonapplicability To Deliberate Violations
+
+## Source Credit
+
+*(Added [Pub. L. 112–141, div. C, title I, § 31307(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 765](https://www.govinfo.gov/link/statute/126/765).)*

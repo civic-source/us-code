@@ -3,12 +3,17 @@ title: "Section 12502 - Chief and assistant chief of staff of National Guard div
 usc_title: 10
 usc_section: "12502"
 chapter: 1213
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 12502"
-generated_at: "2026-03-30T02:53:38.270Z"
+generated_at: "2026-11-23T20:25:52.441Z"
+status: "active"
 ---
 
 # § 12502. Chief and assistant chief of staff of National Guard divisions and wings in Federal service: detail
 
 - **(a)** The President may detail a regular or reserve officer of the Army as chief of staff, and a regular or reserve officer or an officer of the Army National Guard as assistant to the chief of staff, of any division of the Army National Guard that is in Federal service as an Army National Guard organization.
 - **(b)** The President may detail a regular or reserve officer of the Air Force as chief of staff, and a regular or reserve officer or an officer of the Air National Guard as assistant to the chief of staff, of any wing of the Air National Guard that is in Federal service as an Air National Guard organization.
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1662(g)(1)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2995](https://www.govinfo.gov/link/statute/108/2995).)*

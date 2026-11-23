@@ -3,9 +3,10 @@ title: "Section 3719 - Prize competitions"
 usc_title: 15
 usc_section: "3719"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 3719"
-generated_at: "2026-03-30T02:54:08.193Z"
+generated_at: "2026-11-23T20:26:04.306Z"
+status: "active"
 ---
 
 # § 3719. Prize competitions
@@ -82,3 +83,7 @@ generated_at: "2026-03-30T02:54:08.193Z"
     - **(E)** A description of the resources, including personnel and funding, used in the execution of each prize competition together with a detailed description of the activities for which such resources were used and an accounting of how funding for execution was allocated among the accounts of the agency for recording as obligations and expenditures.
     - **(F)** A description of how each prize competition advanced the mission of the agency concerned.
     - **(G)** A description of crosscutting topical areas and agency-specific mission needs that may be the strongest opportunities for prize competitions during the upcoming 2 fiscal years.
+
+## Source Credit
+
+*([Pub. L. 96–480, § 24](https://www.govinfo.gov/link/plaw/96/public/480), as added [Pub. L. 111–358, title I, § 105(a)](https://www.govinfo.gov/link/plaw/111/public/358), Jan. 4, 2011, [124 Stat. 3989](https://www.govinfo.gov/link/statute/124/3989); amended [Pub. L. 114–329, title IV, § 401(b)](https://www.govinfo.gov/link/plaw/114/public/329), Jan. 6, 2017, [130 Stat. 3016](https://www.govinfo.gov/link/statute/130/3016); [Pub. L. 117–286, § 4(a)(71)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4313](https://www.govinfo.gov/link/statute/136/4313).)*

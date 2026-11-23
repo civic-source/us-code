@@ -3,9 +3,10 @@ title: "Section 2366 - Conditions of indemnity; purchase of property by Commissi
 usc_title: 42
 usc_section: "2366"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2366"
-generated_at: "2026-03-30T02:56:11.164Z"
+generated_at: "2026-11-23T20:27:22.149Z"
+status: "active"
 ---
 
 # § 2366. Conditions of indemnity; purchase of property by Commission
@@ -15,3 +16,7 @@ The Commission shall make the indemnity payment specified by section 2365 of thi
 - **(a)** notice is given to the Commission at a time when the conditions of section 2364 of this title are satisfied;
 - **(b)** the sale is made within such time as the Commission may prescribe and in a manner which the Commission determined to afford adequate assurance of a fair price without excessive costs; and
 - **(c)** the Commission is given such prior notice of the sale and such opportunity to become a purchaser as it shall prescribe.
+
+## Source Credit
+
+*(Aug. 4, 1955, ch. 543, ch. 6, § 66, [69 Stat. 479](https://www.govinfo.gov/link/statute/69/479).)*

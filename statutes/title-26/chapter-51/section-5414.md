@@ -3,9 +3,10 @@ title: "Section 5414 - Transfer of beer between bonded facilities"
 usc_title: 26
 usc_section: "5414"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 5414"
-generated_at: "2026-03-30T02:55:27.823Z"
+generated_at: "2026-11-23T20:26:46.442Z"
+status: "active"
 ---
 
 # § 5414. Transfer of beer between bonded facilities
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:27.823Z"
     - **(A)** the proprietors of transferring and receiving premises are independent of each other and neither has a proprietary interest, directly or indirectly, in the business of the other, and
     - **(B)** the transferor has divested itself of all interest in the beer so transferred and the transferee has accepted responsibility for payment of the tax.
 - **(b)** For purposes of subsection (a)(3), such relief from liability shall be effective from the time of removal from the transferor’s premises, or from the time of divestment of interest, whichever is later.
+
+## Source Credit
+
+*(Added [Pub. L. 85–859, title II, § 201](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1389](https://www.govinfo.gov/link/statute/72/1389); amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 115–97, title I, § 13803(a)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2172](https://www.govinfo.gov/link/statute/131/2172); [Pub. L. 116–94, div. Q, title I, § 144(c)(1)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3235](https://www.govinfo.gov/link/statute/133/3235); [Pub. L. 116–260, div. EE, title I, § 106(c)(1)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3042](https://www.govinfo.gov/link/statute/134/3042).)*

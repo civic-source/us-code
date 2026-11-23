@@ -3,9 +3,10 @@ title: "Section 2245 - Use of aircraft for proficiency flying: limitation"
 usc_title: 10
 usc_section: "2245"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2245"
-generated_at: "2026-03-30T02:53:38.151Z"
+generated_at: "2026-11-23T20:25:51.516Z"
+status: "active"
 ---
 
 # § 2245. Use of aircraft for proficiency flying: limitation
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:38.151Z"
   - **(1)** may not require proficiency flying by a member except to the extent required for the member to maintain flying proficiency in anticipation of the member’s assignment to combat operations; and
   - **(2)** may not permit proficiency flying in the case of a member who is assigned to a course of instruction of 90 days or more.
 - **(c)** In this section, the term “proficiency flying” means flying performed under competent orders by a rated or designated member of the armed forces while serving in a non-aviation assignment or in an assignment in which skills would normally not be maintained in the performance of assigned duties.
+
+## Source Credit
+
+*(Added [Pub. L. 101–510, div. A, title XIV, § 1481(e)(1)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1706](https://www.govinfo.gov/link/statute/104/1706); amended [Pub. L. 110–181, div. A, title X, § 1077](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 333](https://www.govinfo.gov/link/statute/122/333).)*

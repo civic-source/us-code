@@ -3,9 +3,10 @@ title: "Section 5881 - Greenmail"
 usc_title: 26
 usc_section: "5881"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 5881"
-generated_at: "2026-03-30T02:55:27.828Z"
+generated_at: "2026-11-23T20:26:46.482Z"
+status: "active"
 ---
 
 # § 5881. Greenmail
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:27.828Z"
   - **(2)** A person is related to another person if the relationship between such persons would result in the disallowance of losses under section 267 or 707(b).
 - **(d)** The tax imposed by this section shall apply whether or not the gain or other income referred to in subsection (a) is recognized.
 - **(e)** For purposes of the deficiency procedures of subtitle F, any tax imposed by this section shall be treated as a tax imposed by subtitle A.
+
+## Source Credit
+
+*(Added [Pub. L. 100–203, title X, § 10228(a)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–417](https://www.govinfo.gov/link/statute/101/1330); amended [Pub. L. 100–647, title II, § 2004](https://www.govinfo.gov/link/plaw/100/public/647) (o)(1)(A), (B)(i), (C), (2), Nov. 10, 1988, [102 Stat. 3608](https://www.govinfo.gov/link/statute/102/3608).)*

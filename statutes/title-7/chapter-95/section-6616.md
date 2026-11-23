@@ -3,9 +3,10 @@ title: "Section 6616 - Loans to economically disadvantaged rural communities"
 usc_title: 7
 usc_section: "6616"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6616"
-generated_at: "2026-03-30T02:53:42.433Z"
+generated_at: "2026-11-23T20:25:41.718Z"
+status: "active"
 ---
 
 # § 6616. Loans to economically disadvantaged rural communities
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:42.433Z"
   - **(2)** expanding existing infrastructure, facilities, and services to capitalize on opportunities to diversify economies now dependent on National Forest System land resources; and
   - **(3)** supporting the development of new industries or commercial ventures unrelated to National Forest System land resources.
 - **(b)** The interest rates on a loan made pursuant to this section shall be as determined by the Secretary, but not in excess of the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the maturity of such loan, plus not to exceed 1 percent, as determined by the Secretary, and rounded to the nearest one-eighth of 1 percent.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XXIII, § 2378](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 4048](https://www.govinfo.gov/link/statute/104/4048); [Pub. L. 106–113, div. B, § 1000(a)(3) [title III, § 345(f)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1535](https://www.govinfo.gov/link/statute/113/1535), 1501A–204.)*

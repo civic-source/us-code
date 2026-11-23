@@ -3,9 +3,10 @@ title: "Section 868 - Underground high-voltage distribution"
 usc_title: 30
 usc_section: "868"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 868"
-generated_at: "2026-03-30T02:55:29.390Z"
+generated_at: "2026-11-23T20:26:34.962Z"
+status: "active"
 ---
 
 # § 868. Underground high-voltage distribution
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:29.390Z"
 - **(k)** In the case of high-voltage cables used as trailing cables, temporary splices shall not be used and all permanent splices shall be made in accordance with section 866(e) of this title . Terminations and splices in all other high-voltage cables shall be made in accordance with the manufacturer’s specifications.
 - **(l)** Frames, supporting structures, and enclosures of stationary, portable, or mobile underground high-voltage equipment and all high-voltage equipment supplying power to such equipment receiving power from resistance grounded systems shall be effectively grounded to the high-voltage ground.
 - **(m)** Power centers and portable transformers shall be deenergized before they are moved from one location to another, except that, when equipment powered by sources other than such centers or transformers is not available, the Secretary may permit such centers and transformers to be moved while energized, if he determines that another equivalent or greater hazard may otherwise be created, and if they are moved under the supervision of a qualified person, and if such centers and transformers are examined prior to such movement by such person and found to be grounded by methods approved by an authorized representative of the Secretary and otherwise protected from hazards to the miner. A record shall be kept of such examinations. High-voltage cables, other than trailing cables, shall not be moved or handled at any time while energized, except that, when such centers and transformers are moved while energized as permitted under this subsection, energized high-voltage cables attached to such centers and transformers may be moved only by a qualified person and the operator of such mine shall require that such person wear approved and tested insulated wireman’s gloves.
+
+## Source Credit
+
+*([Pub. L. 91–173, title III, § 308](https://www.govinfo.gov/link/plaw/91/public/173), Dec. 30, 1969, [83 Stat. 780](https://www.govinfo.gov/link/statute/83/780).)*

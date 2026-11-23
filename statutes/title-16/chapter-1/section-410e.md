@@ -3,9 +3,10 @@ title: "Section 410e - Acquisition of additional lands; reservation of oil, gas,
 usc_title: 16
 usc_section: "410e"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 410e"
-generated_at: "2026-03-30T02:54:22.759Z"
+generated_at: "2026-11-23T20:26:19.448Z"
+status: "active"
 ---
 
 # § 410e. Acquisition of additional lands; reservation of oil, gas, and mineral rights; reservation of royalty rights
@@ -14,3 +15,7 @@ In order to consolidate the Federal ownership of lands within the boundary set f
 
   - **(1)** The reservation until October 9, 1958 , of all oil, gas, and mineral rights or interests, including the right to lease, explore for, produce, store, and remove oil, gas, and other minerals from such lands: Provided , That if on or before said date, oil, gas, or other minerals are being produced in commercial quantities anywhere within the boundary set forth in aforesaid deed numbered 19035, then in that event the time of the reservation as set forth in this subsection shall automatically extend for all owners, regardless of whether such production is from land in which such owners have an interest, for so long as oil, gas, or other minerals are produced in commercial quantities anywhere within said boundary. To exercise this reservation, the owners, their lessees, agents, employees, and assigns shall have such right of ingress and egress to and from such lands as may be necessary; and
   - **(2)** After the termination of the reserved rights of owners as set forth in subsection (1) hereof, a further reservation of the right to customary royalties, applying at the time of production, in any oil, gas, or other minerals which may be produced from such lands at any time before January 1, 1985 , should production ever be authorized by the Federal Government or its assigns.
+
+## Source Credit
+
+*(Oct. 10, 1949, ch. 659, § 1, [63 Stat. 733](https://www.govinfo.gov/link/statute/63/733).)*

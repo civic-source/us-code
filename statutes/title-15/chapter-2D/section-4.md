@@ -3,9 +3,10 @@ title: "Section 4 - Reports by investment advisers"
 usc_title: 15
 usc_section: "4"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 4"
-generated_at: "2026-03-30T02:54:08.072Z"
+generated_at: "2026-11-23T20:26:03.638Z"
+status: "active"
 ---
 
 # § 80b–4. Reports by investment advisers
@@ -65,3 +66,7 @@ generated_at: "2026-03-30T02:54:08.072Z"
 - **(f)**
   - **(1)** The Commission shall, by rule, adopt data standards for all reports filed by investment advisers with the Commission under this section.
   - **(2)** The data standards required under paragraph (1) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under section 5334 of title 12 , including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
+
+## Source Credit
+
+*(Aug. 22, 1940, ch. 686, title II, § 204, [54 Stat. 852](https://www.govinfo.gov/link/statute/54/852); [Pub. L. 86–750, § 6](https://www.govinfo.gov/link/plaw/86/public/750), Sept. 13, 1960, [74 Stat. 886](https://www.govinfo.gov/link/statute/74/886); [Pub. L. 94–29, § 29(5)](https://www.govinfo.gov/link/plaw/94/public/29), June 4, 1975, [89 Stat. 169](https://www.govinfo.gov/link/statute/89/169); [Pub. L. 109–290, § 7(a)](https://www.govinfo.gov/link/plaw/109/public/290), Sept. 29, 2006, [120 Stat. 1321](https://www.govinfo.gov/link/statute/120/1321); [Pub. L. 111–203, title IV, § 404](https://www.govinfo.gov/link/plaw/111/public/203), title IX, § 929Q(b), July 21, 2010, [124 Stat. 1571](https://www.govinfo.gov/link/statute/124/1571), 1866; [Pub. L. 117–263, div. E, title LVIII, § 5821(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3424](https://www.govinfo.gov/link/statute/136/3424).)*

@@ -3,9 +3,10 @@ title: "Section 5112 - Loading restrictions"
 usc_title: 46
 usc_section: "5112"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 5112"
-generated_at: "2026-03-30T02:56:15.549Z"
+generated_at: "2026-11-23T20:27:27.103Z"
+status: "active"
 ---
 
 # § 5112. Loading restrictions
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:15.549Z"
   - **(2)** the draft of the vessel fore and aft.
 - **(c)** A vessel may be operated only if the loading distribution, stability, and margin of strength are adequate for the voyage or movement intended.
 - **(d)** Subsections (a) and (b) of this section do not apply to a submersible vessel.
+
+## Source Credit
+
+*([Pub. L. 99–509, title V, § 5101(2)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1917](https://www.govinfo.gov/link/statute/100/1917).)*

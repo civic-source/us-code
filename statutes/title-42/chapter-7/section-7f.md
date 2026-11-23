@@ -3,12 +3,17 @@ title: "Section 7f - Coordination of medicare and medicaid surety bond provision
 usc_title: 42
 usc_section: "7f"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7f"
-generated_at: "2026-03-30T02:56:10.911Z"
+generated_at: "2026-11-23T20:27:20.998Z"
+status: "active"
 ---
 
 # § 1320a–7f. Coordination of medicare and medicaid surety bond provisions
 
 In the case of a home health agency that is subject to a surety bond requirement under subchapter XVIII and subchapter XIX, the surety bond provided to satisfy the requirement under one such subchapter shall satisfy the requirement under the other such subchapter so long as the bond applies to guarantee return of overpayments under both such subchapters.
 
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XI, § 1128F, as added [Pub. L. 106–113, div. B, § 1000(a)(6) [title III, § 304(b)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–361.)*

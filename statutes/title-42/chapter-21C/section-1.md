@@ -3,9 +3,10 @@ title: "Section 1 - Protection of religious exercise of institutionalized person
 usc_title: 42
 usc_section: "1"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T02:56:11.141Z"
+generated_at: "2026-11-23T20:27:22.028Z"
+status: "active"
 ---
 
 # § 2000cc–1. Protection of religious exercise of institutionalized persons
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.141Z"
 - **(b)** This section applies in any case in which—
   - **(1)** the substantial burden is imposed in a program or activity that receives Federal financial assistance; or
   - **(2)** the substantial burden affects, or removal of that substantial burden would affect, commerce with foreign nations, among the several States, or with Indian tribes.
+
+## Source Credit
+
+*([Pub. L. 106–274, § 3](https://www.govinfo.gov/link/plaw/106/public/274), Sept. 22, 2000, [114 Stat. 804](https://www.govinfo.gov/link/statute/114/804).)*

@@ -3,9 +3,10 @@ title: "Section 1431 - Congressional declaration of objectives"
 usc_title: 22
 usc_section: "1431"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 1431"
-generated_at: "2026-03-30T02:55:05.331Z"
+generated_at: "2026-11-23T20:26:32.102Z"
+status: "active"
 ---
 
 # § 1431. Congressional declaration of objectives
@@ -14,3 +15,31 @@ The Congress declares that the objectives of this chapter are to enable the Gove
 
   - **(1)** an information service to disseminate abroad information about the United States, its people, and policies promulgated by the Congress, the President, the Secretary of State and other responsible officials of Government having to do with matters affecting foreign affairs;
   - **(2)** Repealed. Pub. L. 87–256, § 111(a)(2) , Sept. 21, 1961 , 75 Stat. 538 .
+
+Promotion of United States Values Through Broadcast Media.—
+
+Findings
+
+Sense of congress
+
+Enhancing Free and Independent Media.—
+
+Findings
+
+Statement of policy
+
+Establishment of Media Network.—
+
+Grants for establishment of network
+
+Media network
+
+Authorizations of Appropriations.—
+
+In general
+
+Grants for media network
+
+## Source Credit
+
+*(Jan. 27, 1948, ch. 36, title I, § 2, [62 Stat. 6](https://www.govinfo.gov/link/statute/62/6); [Pub. L. 87–256, § 111(a)(2)](https://www.govinfo.gov/link/plaw/87/public/256), Sept. 21, 1961, [75 Stat. 538](https://www.govinfo.gov/link/statute/75/538).)*

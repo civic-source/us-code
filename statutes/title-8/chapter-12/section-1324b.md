@@ -3,9 +3,10 @@ title: "Section 1324b - Unfair immigration-related employment practices"
 usc_title: 8
 usc_section: "1324b"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1324b"
-generated_at: "2026-03-30T02:53:10.494Z"
+generated_at: "2026-11-23T20:25:36.193Z"
+status: "active"
 ---
 
 # § 1324b. Unfair immigration-related employment practices
@@ -85,3 +86,7 @@ generated_at: "2026-03-30T02:53:10.494Z"
     - **(A)** may, to the extent deemed appropriate and subject to the availability of appropriations, contract with public and private organizations for outreach activities under the campaign, and
     - **(B)** shall consult with the Secretary of Labor, the chairman of the Equal Employment Opportunity Commission, and the heads of such other agencies as may be appropriate.
   - **(3)** There are authorized to be appropriated to carry out this subsection $10,000,000 for each fiscal year (beginning with fiscal year 1991).
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 8, § 274B, as added [Pub. L. 99–603, title I, § 102(a)](https://www.govinfo.gov/link/plaw/99/public/603), Nov. 6, 1986, [100 Stat. 3374](https://www.govinfo.gov/link/statute/100/3374); amended [Pub. L. 100–525, § 2(b)](https://www.govinfo.gov/link/plaw/100/public/525), Oct. 24, 1988, [102 Stat. 2610](https://www.govinfo.gov/link/statute/102/2610); [Pub. L. 101–649, title V](https://www.govinfo.gov/link/plaw/101/public/649), §§ 531, 532(a), 533(a), 534(a), 535(a), 536(a), 537(a), 539(a), Nov. 29, 1990, [104 Stat. 5054–5056](https://www.govinfo.gov/link/statute/104/5054); [Pub. L. 102–232, title III, § 306(b)(1)](https://www.govinfo.gov/link/plaw/102/public/232), (3), (c)(1), Dec. 12, 1991, [105 Stat. 1752](https://www.govinfo.gov/link/statute/105/1752); [Pub. L. 103–416, title II, § 219(q)](https://www.govinfo.gov/link/plaw/103/public/416), Oct. 25, 1994, [108 Stat. 4317](https://www.govinfo.gov/link/statute/108/4317); [Pub. L. 104–208, div. C, title IV, § 421(a)](https://www.govinfo.gov/link/plaw/104/public/208), title VI, § 671(d)(1)(B), Sept. 30, 1996, [110 Stat. 3009–670](https://www.govinfo.gov/link/statute/110/3009), 3009–723.)*

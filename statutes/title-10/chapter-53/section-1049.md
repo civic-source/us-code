@@ -3,9 +3,10 @@ title: "Section 1049 - Subsistence: miscellaneous persons"
 usc_title: 10
 usc_section: "1049"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1049"
-generated_at: "2026-03-30T02:53:38.097Z"
+generated_at: "2026-11-23T20:25:51.181Z"
+status: "active"
 ---
 
 # § 1049. Subsistence: miscellaneous persons
@@ -17,3 +18,7 @@ The following persons may be provided subsistence at the expense of the United S
   - **(3)** Prisoners.
   - **(4)** Civilian employees, as authorized by law.
   - **(5)** Supernumeraries, when necessitated by emergent military circumstances.
+
+## Source Credit
+
+*(Added [Pub. L. 98–525, title XIV, § 1401(d)(1)](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2616](https://www.govinfo.gov/link/statute/98/2616).)*

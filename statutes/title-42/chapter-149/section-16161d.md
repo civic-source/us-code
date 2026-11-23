@@ -3,9 +3,10 @@ title: "Section 16161d - Clean hydrogen electrolysis program"
 usc_title: 42
 usc_section: "16161d"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16161d"
-generated_at: "2026-03-30T02:56:11.471Z"
+generated_at: "2026-11-23T20:27:23.621Z"
+status: "active"
 ---
 
 # § 16161d. Clean hydrogen electrolysis program
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:56:11.471Z"
     - **(A)** The eligibility of an entity to receive a grant under paragraph (1), to enter into a contract or cooperative agreement under paragraph (2), or to receive funding for a demonstration project under subsection (d) shall be determined by the Secretary.
     - **(B)** An eligible entity desiring to receive a grant under paragraph (1), to enter into a contract or cooperative agreement under paragraph (2), or to receive funding for a demonstration project under subsection (d) shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
 - **(g)** There is authorized to be appropriated to the Secretary to carry out the program $1,000,000,000 for the period of fiscal years 2022 through 2026, to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 109–58, title VIII, § 816](https://www.govinfo.gov/link/plaw/109/public/58), as added [Pub. L. 117–58, div. D, title III, § 40314(2)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1013](https://www.govinfo.gov/link/statute/135/1013).)*

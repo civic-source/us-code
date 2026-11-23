@@ -3,9 +3,10 @@ title: "Section 6210 - Suspension and termination"
 usc_title: 7
 usc_section: "6210"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6210"
-generated_at: "2026-03-30T02:53:42.427Z"
+generated_at: "2026-11-23T20:25:41.688Z"
+status: "active"
 ---
 
 # § 6210. Suspension and termination
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:42.427Z"
 - **(e)** The Secretary shall suspend or terminate the order at the end of the marketing year if the Secretary determines that—
   - **(1)** the suspension or termination of the order is favored by not less than a majority of those persons voting in a referendum under subsection (b); and
   - **(2)** the producers, producer-handlers, and importers comprising this majority produce and import more than 50 percent of the volume of limes produced and imported by those voting in the referendum.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XIX, § 1961](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3880](https://www.govinfo.gov/link/statute/104/3880).)*

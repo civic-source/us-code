@@ -3,9 +3,10 @@ title: "Section 8468 - Board of Visitors"
 usc_title: 10
 usc_section: "8468"
 chapter: 853
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 8468"
-generated_at: "2026-03-30T02:53:38.243Z"
+generated_at: "2026-11-23T20:25:52.206Z"
+status: "active"
 ---
 
 # § 8468. Board of Visitors
@@ -32,3 +33,67 @@ generated_at: "2026-03-30T02:53:38.243Z"
   - **(2)** A member may attend such meeting—
     - **(A)** in person, at the Academy; or
     - **(B)** remotely, at the election of such member.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 6968(a), (b) | 34 U.S.C. 1083 . | June 29, 1948, ch. 714, § 1 , 62 Stat. 1094 . |
+|  | 34 U.S.C. 1084 . | June 29, 1948, ch. 714, § 2 , 62 Stat. 1094 . |
+| 6968(c) | 34 U.S.C. 1085 . | June 29, 1948, ch. 714, § 3 , 62 Stat. 1094 . |
+| 6968(d) | 34 U.S.C. 1086 . | June 29, 1948, ch. 714, § 4 , 62 Stat. 1094 ; June 30, 1954, ch. 432, § 732 , 68 Stat. 356 . |
+| 6968(e), (f), (g) | 34 U.S.C. 1087 . | June 29, 1948, ch. 714, § 5 , 62 Stat. 1094 . |
+| 6968(h) | 34 U.S.C. 1088 . | June 29, 1948, ch. 714, § 6 , 62 Stat. 1094 . |
+
+
+Historical and Revision Notes
+
+6968(a), (b)
+
+34 U.S.C. 1083
+
+June 29, 1948, ch. 714, § 1
+
+62 Stat. 1094
+
+34 U.S.C. 1084
+
+June 29, 1948, ch. 714, § 2
+
+62 Stat. 1094
+
+6968(c)
+
+34 U.S.C. 1085
+
+June 29, 1948, ch. 714, § 3
+
+62 Stat. 1094
+
+6968(d)
+
+34 U.S.C. 1086
+
+June 29, 1948, ch. 714, § 4
+
+62 Stat. 1094
+
+June 30, 1954, ch. 432, § 732
+
+68 Stat. 356
+
+34 U.S.C. 1087
+
+June 29, 1948, ch. 714, § 5
+
+62 Stat. 1094
+
+6968(h)
+
+34 U.S.C. 1088
+
+June 29, 1948, ch. 714, § 6
+
+62 Stat. 1094
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 434, § 6968; [Pub. L. 96–579, § 13(b)](https://www.govinfo.gov/link/plaw/96/public/579), Dec. 23, 1980, [94 Stat. 3369](https://www.govinfo.gov/link/statute/94/3369); [Pub. L. 104–106, div. A, title X, § 1061(e)(2)](https://www.govinfo.gov/link/plaw/104/public/106), title XV, § 1502(a)(12), Feb. 10, 1996, [110 Stat. 443](https://www.govinfo.gov/link/statute/110/443), 503; [Pub. L. 106–65, div. A, title X, § 1067(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 774](https://www.govinfo.gov/link/statute/113/774); renumbered § 8468, [Pub. L. 115–232, div. A, title VIII, § 807(c)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1836](https://www.govinfo.gov/link/statute/132/1836); [Pub. L. 117–81, div. A, title V](https://www.govinfo.gov/link/plaw/117/public/81), §§ 554(b), 555(b), Dec. 27, 2021, [135 Stat. 1738](https://www.govinfo.gov/link/statute/135/1738), 1739; [Pub. L. 118–159, div. A, title V, § 558(b)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1898](https://www.govinfo.gov/link/statute/138/1898); [Pub. L. 119–60, div. A, title V, § 557(b)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 879](https://www.govinfo.gov/link/statute/139/879).)*

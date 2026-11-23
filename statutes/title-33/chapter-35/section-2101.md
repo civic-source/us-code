@@ -3,9 +3,10 @@ title: "Section 2101 - Congressional statement of findings and purpose"
 usc_title: 33
 usc_section: "2101"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2101"
-generated_at: "2026-03-30T02:55:41.112Z"
+generated_at: "2026-11-23T20:26:54.113Z"
+status: "active"
 ---
 
 # § 2101. Congressional statement of findings and purpose
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:41.112Z"
   - **(4)** commercial and recreational fisheries are a prominent factor in United States coastal economies and the direct and indirect returns to the United States economy from commercial and recreational fishing expenditures are threefold; and
   - **(5)** properly designed, constructed, and located artificial reefs in waters covered under this chapter can enhance the habitat and diversity of fishery resources; enhance United States recreational and commercial fishing opportunities; increase the production of fishery products in the United States; increase the energy efficiency of recreational and commercial fisheries; and contribute to the United States and coastal economies.
 - **(b)** The purpose of this chapter is to promote and facilitate responsible and effective efforts to establish artificial reefs in waters covered under this chapter.
+
+## Source Credit
+
+*([Pub. L. 98–623, title II, § 202](https://www.govinfo.gov/link/plaw/98/public/623), Nov. 8, 1984, [98 Stat. 3394](https://www.govinfo.gov/link/statute/98/3394).)*

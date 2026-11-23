@@ -3,9 +3,10 @@ title: "Section 10563 - Allocation"
 usc_title: 34
 usc_section: "10563"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10563"
-generated_at: "2026-03-30T02:55:33.272Z"
+generated_at: "2026-11-23T20:26:50.482Z"
+status: "active"
 ---
 
 # § 10563. Allocation
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:33.272Z"
 - **(b)** In this section, the term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands, except that—
   - **(1)** for purposes of the allocation under this section, American Samoa and the Commonwealth of the Northern Mariana Islands shall be considered as 1 State; and
   - **(2)** for purposes of paragraph (1), 67 percent of the amount allocated shall be allocated to American Samoa, and 33 percent shall be allocated to the Commonwealth of the Northern Mariana Islands.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 2803](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 106–561, § 2(c)(1)](https://www.govinfo.gov/link/plaw/106/public/561), Dec. 21, 2000, [114 Stat. 2788](https://www.govinfo.gov/link/statute/114/2788); amended [Pub. L. 107–273, div. B, title V, § 5001(b)(3)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1814](https://www.govinfo.gov/link/statute/116/1814); [Pub. L. 114–324, § 9(a)(2)](https://www.govinfo.gov/link/plaw/114/public/324), Dec. 16, 2016, [130 Stat. 1955](https://www.govinfo.gov/link/statute/130/1955).)*

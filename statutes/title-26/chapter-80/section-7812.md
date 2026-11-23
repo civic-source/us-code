@@ -3,9 +3,10 @@ title: "Section 7812 - Streamlined critical pay authority for information techno
 usc_title: 26
 usc_section: "7812"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 7812"
-generated_at: "2026-03-30T02:55:27.887Z"
+generated_at: "2026-11-23T20:26:46.854Z"
+status: "active"
 ---
 
 # § 7812. Streamlined critical pay authority for information technology positions
@@ -20,3 +21,7 @@ In the case of any position which is critical to the functionality of the inform
   - **(3)** section 9505 of such title shall be applied—
     - **(A)** by substituting “During the period beginning on the date of the enactment of section 7812 of the Internal Revenue Code of 1986, and ending on September 30, 2025 ” for “Before September 30, 2013 ” in subsection (a), and
     - **(B)** by substituting “the information technology operations” for “significant functions” in subsection (a).
+
+## Source Credit
+
+*(Added [Pub. L. 116–25, title II, § 2103(a)](https://www.govinfo.gov/link/plaw/116/public/25), July 1, 2019, [133 Stat. 1011](https://www.govinfo.gov/link/statute/133/1011).)*

@@ -3,9 +3,10 @@ title: "Section 325 - Relation to other proceedings or actions"
 usc_title: 35
 usc_section: "325"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "35 U.S.C. § 325"
-generated_at: "2026-03-30T02:55:34.241Z"
+generated_at: "2026-11-23T20:26:49.152Z"
+status: "active"
 ---
 
 # § 325. Relation to other proceedings or actions
@@ -24,3 +25,29 @@ generated_at: "2026-03-30T02:55:34.241Z"
   - **(1)** The petitioner in a post-grant review of a claim in a patent under this chapter that results in a final written decision under section 328(a), or the real party in interest or privy of the petitioner, may not request or maintain a proceeding before the Office with respect to that claim on any ground that the petitioner raised or reasonably could have raised during that post-grant review.
   - **(2)** The petitioner in a post-grant review of a claim in a patent under this chapter that results in a final written decision under section 328(a), or the real party in interest or privy of the petitioner, may not assert either in a civil action arising in whole or in part under section 1338 of title 28 or in a proceeding before the International Trade Commission under section 337 of the Tariff Act of 1930 that the claim is invalid on any ground that the petitioner raised or reasonably could have raised during that post-grant review.
 - **(f)** A post-grant review may not be instituted under this chapter if the petition requests cancellation of a claim in a reissue patent that is identical to or narrower than a claim in the original patent from which the reissue patent was issued, and the time limitations in section 321(c) would bar filing a petition for a post-grant review for such original patent.
+
+Infringer’s Civil Action.—
+
+Post-grant review barred by civil action
+
+Stay of civil action
+
+Treatment of counterclaim
+
+Preliminary Injunctions
+
+Joinder
+
+Multiple Proceedings
+
+Estoppel.—
+
+Proceedings before the office
+
+Civil actions and other proceedings
+
+Reissue Patents
+
+## Source Credit
+
+*(Added [Pub. L. 112–29, § 6(d)](https://www.govinfo.gov/link/plaw/112/public/29), Sept. 16, 2011, [125 Stat. 307](https://www.govinfo.gov/link/statute/125/307).)*

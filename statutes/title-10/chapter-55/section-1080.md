@@ -3,9 +3,10 @@ title: "Section 1080 - Contracts for medical care for spouses and children: elec
 usc_title: 10
 usc_section: "1080"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1080"
-generated_at: "2026-03-30T02:53:38.106Z"
+generated_at: "2026-11-23T20:25:51.230Z"
+status: "active"
 ---
 
 # § 1080. Contracts for medical care for spouses and children: election of facilities
@@ -15,3 +16,26 @@ generated_at: "2026-03-30T02:53:38.106Z"
 - **(c)**
   - **(1)** A covered beneficiary enrolled in a managed care plan offered pursuant to any contract or agreement under this chapter for the provision of health care services shall not be required to obtain a nonavailability-of-health-care statement as a condition for the receipt of health care.
   - **(2)** The Secretary of Defense may waive the requirement to obtain nonavailability-of-health-care statements following an evaluation of the effectiveness of such statements in optimizing the use of facilities of the uniformed services.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1080 | 37:411(c). | June 7, 1956, ch. 374, § 201(c) , 70 Stat. 252 . |
+
+
+Election
+
+Issuance of Nonavailability-of-Health-Care Statements
+
+Waivers and Exceptions to Requirements
+
+Historical and Revision Notes
+
+1080
+
+June 7, 1956, ch. 374, § 201(c)
+
+70 Stat. 252
+
+## Source Credit
+
+*(Added [Pub. L. 85–861, § 1(25)(B)](https://www.govinfo.gov/link/plaw/85/public/861), Sept. 2, 1958, [72 Stat. 1449](https://www.govinfo.gov/link/statute/72/1449); amended [Pub. L. 96–513, title V, § 511(36)](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2923](https://www.govinfo.gov/link/statute/94/2923); [Pub. L. 98–557, § 19(8)](https://www.govinfo.gov/link/plaw/98/public/557), Oct. 30, 1984, [98 Stat. 2870](https://www.govinfo.gov/link/statute/98/2870); [Pub. L. 103–160, div. A, title VII, § 716(b)(1)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1692](https://www.govinfo.gov/link/statute/107/1692); [Pub. L. 104–201, div. A, title VII, § 734(a)(1)](https://www.govinfo.gov/link/plaw/104/public/201), (b)(1), (c), Sept. 23, 1996, [110 Stat. 2598](https://www.govinfo.gov/link/statute/110/2598); [Pub. L. 106–65, div. A, title VII, § 712(c)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 687](https://www.govinfo.gov/link/statute/113/687).)*

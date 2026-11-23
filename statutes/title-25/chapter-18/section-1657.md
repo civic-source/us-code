@@ -3,9 +3,10 @@ title: "Section 1657 - Reports and records"
 usc_title: 25
 usc_section: "1657"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1657"
-generated_at: "2026-03-30T02:54:52.824Z"
+generated_at: "2026-11-23T20:26:25.504Z"
+status: "active"
 ---
 
 # § 1657. Reports and records
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:52.824Z"
   - **(3)** The Secretary and the Secretary of the Interior shall—
     - **(A)** assess the status of the welfare of urban Indian children, including the volume of child protection cases, the prevalence of child sexual abuse, and the extent of urban Indian coordination with tribal authorities with respect to child sexual abuse; and
     - **(B)** submit a report on the assessment required under subparagraph (A), together with recommended legislation to improve Indian child protection in urban Indian populations, to the Congress no later than March 31, 1992 .
+
+## Source Credit
+
+*([Pub. L. 94–437, title V, § 507](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 100–713, title V, § 501](https://www.govinfo.gov/link/plaw/100/public/713), Nov. 23, 1988, [102 Stat. 4823](https://www.govinfo.gov/link/statute/102/4823); amended [Pub. L. 101–630, title V, § 507](https://www.govinfo.gov/link/plaw/101/public/630), Nov. 28, 1990, [104 Stat. 4566](https://www.govinfo.gov/link/statute/104/4566); [Pub. L. 102–573, title V, § 501(b)(5)](https://www.govinfo.gov/link/plaw/102/public/573), Oct. 29, 1992, [106 Stat. 4568](https://www.govinfo.gov/link/statute/106/4568).)*

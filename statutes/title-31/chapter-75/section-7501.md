@@ -3,9 +3,10 @@ title: "Section 7501 - Definitions"
 usc_title: 31
 usc_section: "7501"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 7501"
-generated_at: "2026-03-30T02:55:34.076Z"
+generated_at: "2026-11-23T20:26:51.932Z"
+status: "active"
 ---
 
 # § 7501. Definitions
@@ -45,3 +46,11 @@ generated_at: "2026-03-30T02:55:34.076Z"
   - **(3)** the larger of $300,000, or 3 percent of such total Federal expenditures for all programs, in the case of a non-Federal entity for which such total expenditures for all programs equal or exceed $300,000 but are less than or equal to $100,000,000.
 - **(c)** When the total expenditures of a non-Federal entity’s major programs are less than 50 percent of the non-Federal entity’s total expenditures of all Federal awards (or such lower percentage as specified by the Director), the auditor shall select and test additional programs as major programs as necessary to achieve audit coverage of at least 50 percent of Federal expenditures by the non-Federal entity (or such lower percentage as specified by the Director), in accordance with guidance issued by the Director.
 - **(d)** Loan or loan guarantee programs, as specified by the Director, shall not be subject to the application of subsection (b).
+
+“The purposes of this Act [see Short Title of 1996 Amendment note above] are to—
+
+“It is the purpose of this Act [enacting this chapter and provisions set out as notes under this section]—
+
+## Source Credit
+
+*(Added [Pub. L. 98–502, § 2(a)](https://www.govinfo.gov/link/plaw/98/public/502), Oct. 19, 1984, [98 Stat. 2327](https://www.govinfo.gov/link/statute/98/2327); amended [Pub. L. 104–156, § 2](https://www.govinfo.gov/link/plaw/104/public/156), July 5, 1996, [110 Stat. 1396](https://www.govinfo.gov/link/statute/110/1396).)*

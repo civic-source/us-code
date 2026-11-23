@@ -3,12 +3,17 @@ title: "Section 1856b - Emergency assistance"
 usc_title: 42
 usc_section: "1856b"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1856b"
-generated_at: "2026-03-30T02:56:11.124Z"
+generated_at: "2026-11-23T20:27:21.925Z"
+status: "active"
 ---
 
 # § 1856b. Emergency assistance
 
 In the absence of any agreement authorized or ratified by section 1856a of this title , each agency head is authorized to render emergency assistance in extinguishing fires and in preserving life and property from fire, within the vicinity of any place at which such agency maintains fire-protection facilities, when the rendition of such assistance is determined, under regulations prescribed by the agency head, to be in the best interest of the United States.
 
+
+## Source Credit
+
+*(May 27, 1955, ch. 105, § 3, [69 Stat. 67](https://www.govinfo.gov/link/statute/69/67).)*

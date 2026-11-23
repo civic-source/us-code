@@ -3,9 +3,10 @@ title: "Section 4102 - Arctic Research Commission"
 usc_title: 15
 usc_section: "4102"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 4102"
-generated_at: "2026-03-30T02:54:08.197Z"
+generated_at: "2026-11-23T20:26:04.329Z"
+status: "active"
 ---
 
 # § 4102. Arctic Research Commission
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:08.197Z"
   - **(2)** The Commission shall meet at the call of its Chairman or a majority of its members.
   - **(3)** Each Federal agency referred to in section 4106(b) of this title may designate a representative to participate as an observer with the Commission. These representatives shall report to and advise the Commission on the activities relating to Arctic research of their agencies.
   - **(4)** The Commission shall conduct at least one public meeting in the State of Alaska annually.
+
+## Source Credit
+
+*([Pub. L. 98–373, title I, § 103](https://www.govinfo.gov/link/plaw/98/public/373), July 31, 1984, [98 Stat. 1243](https://www.govinfo.gov/link/statute/98/1243); [Pub. L. 101–609](https://www.govinfo.gov/link/plaw/101/public/609), §§ 2, 3, Nov. 16, 1990, [104 Stat. 3125](https://www.govinfo.gov/link/statute/104/3125).)*

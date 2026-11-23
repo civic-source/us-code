@@ -3,9 +3,10 @@ title: "Section 7614 - Part-time students"
 usc_title: 38
 usc_section: "7614"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7614"
-generated_at: "2026-03-30T02:55:53.534Z"
+generated_at: "2026-11-23T20:27:02.036Z"
+status: "active"
 ---
 
 # § 7614. Part-time students
@@ -15,3 +16,7 @@ In the case of a participant who is a part-time student—
   - **(1)** the maximum amount of the stipend payable to the participant shall be reduced in accordance with the proportion that the number of credit hours carried by such participant bears to the number of credit hours required to be carried by a full-time student in the course of education or training being pursued by the participant;
   - **(2)** a stipend may not be paid for any month during which the participant is not actually attending the course of training in which the participant is enrolled; and
   - **(3)** the Secretary may extend the period for which a scholarship may be awarded to the participant to a maximum of six school years if the Secretary determines that the extension would be in the best interest of the United States.
+
+## Source Credit
+
+*(Added [Pub. L. 100–322, title II, § 216(b)](https://www.govinfo.gov/link/plaw/100/public/322), May 20, 1988, [102 Stat. 522](https://www.govinfo.gov/link/statute/102/522), § 4314; renumbered § 7614, [Pub. L. 102–40, title IV, § 402(b)(1)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238); amended [Pub. L. 102–83, § 4(b)(1)](https://www.govinfo.gov/link/plaw/102/public/83), (2)(E), Aug. 6, 1991, [105 Stat. 404](https://www.govinfo.gov/link/statute/105/404), 405.)*

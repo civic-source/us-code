@@ -3,9 +3,10 @@ title: "Section 1401 - Miscellaneous"
 usc_title: 19
 usc_section: "1401"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1401"
-generated_at: "2026-03-30T02:54:24.633Z"
+generated_at: "2026-11-23T20:26:10.750Z"
+status: "active"
 ---
 
 # § 1401. Miscellaneous
@@ -38,3 +39,7 @@ When used in this subtitle or in part I of subtitle II—
 - **(r)** The term “import activity summary statement” refers to data or information transmitted electronically to the Customs Service, in accordance with such regulations as the Secretary prescribes, at the end of a specified period of time which enables the Customs Service to assess properly the duties, taxes and fees on merchandise imported during that period, collect accurate statistics and determine whether any other applicable requirement of law (other than a requirement relating to release from customs custody) is met.
 - **(s)** The term “reconciliation” means an electronic process, initiated at the request of an importer, under which the elements of an entry (other than those elements related to the admissibility of the merchandise) that are undetermined at the time the importer files or transmits the documentation or information required by section 1484(a)(1)(B) of this title , or the import activity summary statement, are provided to the Customs Service at a later time. A reconciliation is treated as an entry for purposes of liquidation, reliquidation, recordkeeping, and protest.
 - **(t)** The term “reconfigured entry” means an entry filed on an import activity summary statement which substitutes for all or part of 1 or more entries filed under section 1484(a)(1)(A) of this title or filed on a reconciliation entry that aggregates the entry elements to be reconciled under section 1484(b) of this title for purposes of liquidation, reliquidation, or protest.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 401, [46 Stat. 708](https://www.govinfo.gov/link/statute/46/708); Aug. 5, 1935, ch. 438, title II, § 201, [49 Stat. 521](https://www.govinfo.gov/link/statute/49/521); June 25, 1938, ch. 679, § 2, [52 Stat. 1077](https://www.govinfo.gov/link/statute/52/1077); Proc. No. 2695, July 4, 1946, 11 F.R. 7517, [60 Stat. 1352](https://www.govinfo.gov/link/statute/60/1352); June 30, 1955, ch. 258, § 2(a)(3), [69 Stat. 242](https://www.govinfo.gov/link/statute/69/242); [Pub. L. 91–271, title III, § 301(c)](https://www.govinfo.gov/link/plaw/91/public/271), June 2, 1970, [84 Stat. 288](https://www.govinfo.gov/link/statute/84/288); [Pub. L. 99–570, title III, § 3111](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–80](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 103–182, title VI, § 634](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2198](https://www.govinfo.gov/link/statute/107/2198); [Pub. L. 104–295](https://www.govinfo.gov/link/plaw/104/public/295), §§ 3(a)(6)(A), 18(a), Oct. 11, 1996, [110 Stat. 3515](https://www.govinfo.gov/link/statute/110/3515), 3524; [Pub. L. 108–7, div. J, title I, § 127(b)](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 441](https://www.govinfo.gov/link/statute/117/441); [Pub. L. 108–429, title I, § 1561(a)](https://www.govinfo.gov/link/plaw/108/public/429), (c), title II, § 2106, Dec. 3, 2004, [118 Stat. 2581](https://www.govinfo.gov/link/statute/118/2581), 2582, 2598; [Pub. L. 114–125, title VIII, § 802(d)(2)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 210](https://www.govinfo.gov/link/statute/130/210).)*

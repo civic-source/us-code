@@ -3,9 +3,10 @@ title: "Section 5318 - Review of Social Security Administration death informatio
 usc_title: 38
 usc_section: "5318"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 5318"
-generated_at: "2026-03-30T02:55:53.521Z"
+generated_at: "2026-11-23T20:27:01.961Z"
+status: "active"
 ---
 
 # § 5318. Review of Social Security Administration death information
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:53.521Z"
   - **(2)** ensuring that such payments to or for any such persons who are deceased are terminated in a timely manner; and
   - **(3)** ensuring that collection of overpayments of such benefits resulting from payments after the death of such persons is initiated in a timely manner.
 - **(b)** The Social Security Administration death information referred to in subsection (a) of this section is death information available to the Secretary from or through the Commissioner of Social Security, including death information available to the Commissioner from a State, pursuant to a memorandum of understanding entered into by the Secretary and the Commissioner. Any such memorandum of understanding shall include safeguards to assure that information made available under it is not used for unauthorized purposes or improperly disclosed.
+
+## Source Credit
+
+*(Added [Pub. L. 101–508, title VIII, § 8053(b)(1)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–352](https://www.govinfo.gov/link/statute/104/1388), § 3118; renumbered § 5318, [Pub. L. 102–40, title IV, § 402(b)(1)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238); [Pub. L. 108–183, title VII, § 708(c)(4)(A)](https://www.govinfo.gov/link/plaw/108/public/183), (B)(i), Dec. 16, 2003, [117 Stat. 2674](https://www.govinfo.gov/link/statute/117/2674).)*

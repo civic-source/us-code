@@ -3,9 +3,10 @@ title: "Section 3108 - Regulation and enforcement"
 usc_title: 12
 usc_section: "3108"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 3108"
-generated_at: "2026-03-30T02:53:53.491Z"
+generated_at: "2026-11-23T20:25:59.325Z"
+status: "active"
 ---
 
 # § 3108. Regulation and enforcement
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:53.491Z"
   - **(5)** Any court having jurisdiction of any proceeding instituted under this subsection may allow any party to such proceeding such reasonable expenses and attorneys’ fees as the court deems just and proper.
   - **(6)** Any person who willfully fails or refuses to attend and testify or to answer any lawful inquiry or to produce books, papers, correspondence, memoranda, contracts, agreements, or other records in accordance with any subpoena under this subsection shall be fined under title 18, imprisoned not more than 1 year, or both. Each day during which any such failure or refusal continues shall be treated as a separate offense.
 - **(c)** In the case of any provision of the Federal Reserve Act [ 12 U.S.C. 221 et seq.] to which a foreign bank or branch thereof is subject under this chapter, and which is made applicable to nonmember insured banks by the Federal Deposit Insurance Act [ 12 U.S.C. 1811 et seq.], whether by cross-reference to the Federal Reserve Act or by a provision in substantially the same terms in the Federal Deposit Insurance Act, the administration, interpretation, and enforcement of such provision, insofar as it relates to any foreign bank or branch thereof as to which the Board is an appropriate Federal banking agency, are vested in the Board, but where the making of any report to the Board or a Federal Reserve bank is required under any such provision, the Federal Deposit Insurance Corporation may require that a duplicate of any such report be sent directly to it. This subsection shall not be construed to impair any power of the Federal Deposit Insurance Corporation to make regular or special examinations or to require special reports.
+
+## Source Credit
+
+*([Pub. L. 95–369, § 13](https://www.govinfo.gov/link/plaw/95/public/369), Sept. 17, 1978, [92 Stat. 624](https://www.govinfo.gov/link/statute/92/624); [Pub. L. 102–242, title II, § 209](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2297](https://www.govinfo.gov/link/statute/105/2297).)*

@@ -3,12 +3,17 @@ title: "Section 160g - Designation by Secretary of recreational fishing zones; c
 usc_title: 16
 usc_section: "160g"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 160g"
-generated_at: "2026-03-30T02:54:22.737Z"
+generated_at: "2026-11-23T20:26:19.376Z"
+status: "active"
 ---
 
 # § 160g. Designation by Secretary of recreational fishing zones; consultation with appropriate State agency; continuation of seining of fish to secure eggs for propagation
 
 - **(a)** The Secretary shall permit recreational fishing on lands and waters under his jurisdiction within the boundaries of the park in accordance with applicable laws of the United States and of the State of Minnesota, except that the Secretary may designate zones where and establish periods when no fishing shall be permitted for reasons of public safety, administration, fish and wildlife management, or public use and enjoyment. Except in emergencies, any regulations of the Secretary pursuant to this section shall be put into effect only after consultation with the appropriate agency of the State of Minnesota.
 - **(b)** The seining of fish at Shoepac Lake by the State of Minnesota to secure eggs for propagation purposes shall be continued in accordance with plans mutually acceptable to the State and the Secretary.
+
+## Source Credit
+
+*([Pub. L. 91–661, § 302](https://www.govinfo.gov/link/plaw/91/public/661), Jan. 8, 1971, [84 Stat. 1972](https://www.govinfo.gov/link/statute/84/1972).)*

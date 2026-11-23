@@ -3,9 +3,10 @@ title: "Section 4646 - Petition process"
 usc_title: 19
 usc_section: "4646"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 4646"
-generated_at: "2026-03-30T02:54:24.715Z"
+generated_at: "2026-11-23T20:26:11.175Z"
+status: "active"
 ---
 
 # § 4646. Petition process
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:24.715Z"
   - **(3)** If the Committee reaches an affirmative determination under paragraph (2), the Trade Representative shall—
     - **(A)** not later than 60 days after the date of the determination of the Committee, initiate appropriate enforcement action under such chapter 23 or chapter 31; or
     - **(B)** submit to the appropriate congressional committees a notification including the reasons for which action was not initiated within such 60-day period.
+
+## Source Credit
+
+*([Pub. L. 116–113, title VII, § 716](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 83](https://www.govinfo.gov/link/statute/134/83).)*

@@ -3,9 +3,10 @@ title: "Section 865 - Smuggling methamphetamine or methamphetamine precursor che
 usc_title: 21
 usc_section: "865"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 865"
-generated_at: "2026-03-30T02:54:54.297Z"
+generated_at: "2026-11-23T20:26:27.848Z"
+status: "active"
 ---
 
 # § 865. Smuggling methamphetamine or methamphetamine precursor chemicals into the United States while using facilitated entry programs
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:54.297Z"
   - **(1)** was enrolled in, or who was acting on behalf of any person or entity enrolled in, any dedicated commuter lane, alternative or accelerated inspection system, or other facilitated entry program administered or approved by the Federal Government for use in entering the United States; and
   - **(2)** committed the offense while entering the United States, using such lane, system, or program.
 - **(c)** Any person whose term of imprisonment is increased under subsection (a) shall be permanently and irrevocably barred from being eligible for or using any lane, system, or program described in subsection (b)(1).
+
+## Source Credit
+
+*([Pub. L. 109–177, title VII, § 731](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 270](https://www.govinfo.gov/link/statute/120/270).)*

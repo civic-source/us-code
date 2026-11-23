@@ -3,9 +3,10 @@ title: "Section 2575 - General"
 usc_title: 19
 usc_section: "2575"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2575"
-generated_at: "2026-03-30T02:54:24.680Z"
+generated_at: "2026-11-23T20:26:10.997Z"
+status: "active"
 ---
 
 # § 2575. General
@@ -14,3 +15,7 @@ Nothing in this subpart may be construed—
 
   - **(1)** to prohibit a Federal agency or State agency from engaging in activity related to sanitary or phytosanitary measures to protect human, animal, or plant life or health; or
   - **(2)** to limit the authority of a Federal agency or State agency to determine the level of protection of human, animal, or plant life or health the agency considers appropriate.
+
+## Source Credit
+
+*([Pub. L. 96–39, title IV, § 461](https://www.govinfo.gov/link/plaw/96/public/39), as added [Pub. L. 103–182, title III, § 351(a)](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2118](https://www.govinfo.gov/link/statute/107/2118).)*

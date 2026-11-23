@@ -3,9 +3,10 @@ title: "Section 1721 - Congressional findings and purpose"
 usc_title: 16
 usc_section: "1721"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1721"
-generated_at: "2026-03-30T02:54:22.981Z"
+generated_at: "2026-11-23T20:26:20.541Z"
+status: "active"
 ---
 
 # § 1721. Congressional findings and purpose
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:22.981Z"
   - **(3)** expose young men and women to public service while furthering their understanding and appreciation of the Nation’s natural and cultural resources;
   - **(4)** expand educational opportunities by rewarding individuals who participate in national service with an increased ability to pursue higher education or job training; and
   - **(5)** stimulate interest among the Nation’s young men and women in conservation careers by exposing them to conservation professionals in land managing agencies.
+
+## Source Credit
+
+*([Pub. L. 91–378, title II, § 202](https://www.govinfo.gov/link/plaw/91/public/378), as added [Pub. L. 103–82, title I, § 105(6)](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 848](https://www.govinfo.gov/link/statute/107/848).)*

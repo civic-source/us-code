@@ -3,9 +3,10 @@ title: "Section 2211a - Authorization; implementation; targeted assistance"
 usc_title: 22
 usc_section: "2211a"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2211a"
-generated_at: "2026-03-30T02:55:05.350Z"
+generated_at: "2026-11-23T20:26:32.194Z"
+status: "active"
 ---
 
 # § 2211a. Authorization; implementation; targeted assistance
@@ -29,3 +30,11 @@ generated_at: "2026-03-30T02:55:05.350Z"
 - **(c)** In carrying out sustainable poverty-focused programs under subsection (a)—
   - **(1)** 50 percent of all micro, small, and medium-sized enterprise resources shall be targeted to activities that reach the very poor; and
   - **(2)** 50 percent of all small and medium-sized enterprise resources shall be targeted to activities that reach enterprises owned, managed, and controlled by women.
+
+Program
+
+Funding
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 252, as added [Pub. L. 108–484, § 3](https://www.govinfo.gov/link/plaw/108/public/484), Dec. 23, 2004, [118 Stat. 3924](https://www.govinfo.gov/link/statute/118/3924); amended [Pub. L. 115–428, § 4(b)](https://www.govinfo.gov/link/plaw/115/public/428), Jan. 9, 2019, [132 Stat. 5512](https://www.govinfo.gov/link/statute/132/5512).)*

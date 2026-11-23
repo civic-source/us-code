@@ -3,9 +3,10 @@ title: "Section 195 - Office for Interoperability and Compatibility"
 usc_title: 6
 usc_section: "195"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 195"
-generated_at: "2026-03-30T02:53:09.448Z"
+generated_at: "2026-11-23T20:25:34.657Z"
+status: "active"
 ---
 
 # § 195. Office for Interoperability and Compatibility
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:09.448Z"
     - **(B)** interoperable emergency communications capabilities.
 - **(b)** The Director of the Office for Interoperability and Compatibility shall coordinate with the Director for Emergency Communications 1 with respect to the SAFECOM program.
 - **(c)** The Secretary shall provide the Office for Interoperability and Compatibility the resources and staff necessary to carry out the responsibilities under this section.
+
+## Source Credit
+
+*([Pub. L. 107–296, title III, § 314](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 109–295, title VI, § 672(a)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1441](https://www.govinfo.gov/link/statute/120/1441).)*

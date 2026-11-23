@@ -3,9 +3,10 @@ title: "Section 6305 - Advisory council on transportation statistics"
 usc_title: 49
 usc_section: "6305"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 6305"
-generated_at: "2026-03-30T02:56:19.321Z"
+generated_at: "2026-11-23T20:27:34.701Z"
+status: "active"
 ---
 
 # § 6305. Advisory council on transportation statistics
@@ -28,3 +29,29 @@ generated_at: "2026-03-30T02:56:19.321Z"
   - **(2)** A member may be renominated for 1 additional 3-year term.
   - **(3)** A member serving on an advisory council on transportation statistics on the day before the date of enactment of the Transportation Research and Innovative Technology Act of 2012 shall serve until the end of the appointed term of the member.
 - **(e)** Chapter 10 of title 5 shall apply to the advisory council established under this section, except that section 1013 of title 5 shall not apply.
+
+In General
+
+Function
+
+Membership.—
+
+In general
+
+Selection
+
+Terms of Appointment.—
+
+In general
+
+Additional terms
+
+Current members
+
+Applicability of Chapter
+
+of Title
+
+## Source Credit
+
+*(Added [Pub. L. 112–141, div. E, title II, § 52011(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 891](https://www.govinfo.gov/link/statute/126/891); amended [Pub. L. 117–286, § 4(a)(304)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4339](https://www.govinfo.gov/link/statute/136/4339).)*

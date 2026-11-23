@@ -3,9 +3,10 @@ title: "Section 4309 - Savings provision"
 usc_title: 16
 usc_section: "4309"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 4309"
-generated_at: "2026-03-30T02:54:23.043Z"
+generated_at: "2026-11-23T20:26:20.741Z"
+status: "active"
 ---
 
 # § 4309. Savings provision
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:23.043Z"
   - **(2)** alter, amend, repeal, interpret, modify, or be in conflict with any interstate compact made by the States; or
   - **(3)** alter or establish the respective rights of States, the United States, Indian tribes, or any person with respect to any water or water-related right.
 - **(b)** Nothing in this chapter shall be construed as affecting the jurisdiction or responsibilities of the States with respect to fish and wildlife.
+
+## Source Credit
+
+*([Pub. L. 100–691, § 10](https://www.govinfo.gov/link/plaw/100/public/691), Nov. 18, 1988, [102 Stat. 4551](https://www.govinfo.gov/link/statute/102/4551).)*

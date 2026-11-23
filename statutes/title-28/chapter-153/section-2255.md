@@ -3,9 +3,10 @@ title: "Section 2255 - Federal custody; remedies on motion attacking sentence"
 usc_title: 28
 usc_section: "2255"
 chapter: 153
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 2255"
-generated_at: "2026-03-30T02:55:30.147Z"
+generated_at: "2026-11-23T20:26:36.508Z"
+status: "active"
 ---
 
 # § 2255. Federal custody; remedies on motion attacking sentence
@@ -24,3 +25,95 @@ generated_at: "2026-03-30T02:55:30.147Z"
 - **(h)** A second or successive motion must be certified as provided in section 2244 by a panel of the appropriate court of appeals to contain—
   - **(1)** newly discovered evidence that, if proven and viewed in light of the evidence as a whole, would be sufficient to establish by clear and convincing evidence that no reasonable factfinder would have found the movant guilty of the offense; or
   - **(2)** a new rule of constitutional law, made retroactive to cases on collateral review by the Supreme Court, that was previously unavailable.
+
+| RULES GOVERNING SECTION 2255 PROCEEDINGS FOR THE UNITED STATES DISTRICT COURTS | Col 2 |
+| --- | --- |
+| 1. | Scope. |
+| 2. | The Motion. |
+| 3. | Filing the Motion; Inmate Filing. |
+| 4. | Preliminary Review. |
+| 5. | The Answer and the Reply. |
+| 6. | Discovery. |
+| 7. | Expanding the Record. |
+| 8. | Evidentiary Hearing. |
+| 9. | Second or Successive Motions. |
+| 10. | Powers of a Magistrate Judge. |
+| 11. | Certificate of Appealability; Time to Appeal. |
+| 12. | Applicability of the Federal Rules of Civil Procedure and the Federal Rules of Criminal Procedure. |
+
+
+Act
+
+Act
+
+Feb. 1, 1977
+
+Jan. 23, 2026
+
+Applying for Relief
+
+Form
+
+Standard Form
+
+Separate Motions for Separate Judgments
+
+Amendment
+
+Where to File; Copies
+
+Filing and Service
+
+Time to File
+
+Inmate Filing
+
+Referral to a Judge
+
+Initial Consideration by the Judge
+
+When Required
+
+Contents
+
+Records of Prior Proceedings
+
+Reply
+
+Leave of Court Required
+
+Requesting Discovery
+
+Deposition Expenses
+
+In General
+
+Types of Materials
+
+Review by the Opposing Party
+
+Determining Whether to Hold a Hearing
+
+Reference to a Magistrate Judge
+
+Appointing Counsel; Time of Hearing
+
+Producing a Statement
+
+Amendment
+
+Amendment
+
+Certificate of Appealability
+
+Time to Appeal
+
+Amendment
+
+______________
+
+______________
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 967](https://www.govinfo.gov/link/statute/62/967); May 24, 1949, ch. 139, § 114, [63 Stat. 105](https://www.govinfo.gov/link/statute/63/105); [Pub. L. 104–132, title I, § 105](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1220](https://www.govinfo.gov/link/statute/110/1220); [Pub. L. 110–177, title V, § 511](https://www.govinfo.gov/link/plaw/110/public/177), Jan. 7, 2008, [121 Stat. 2545](https://www.govinfo.gov/link/statute/121/2545).)*

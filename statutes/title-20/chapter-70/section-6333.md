@@ -3,9 +3,10 @@ title: "Section 6333 - Basic grants to local educational agencies"
 usc_title: 20
 usc_section: "6333"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 6333"
-generated_at: "2026-03-30T02:54:48.196Z"
+generated_at: "2026-11-23T20:26:14.828Z"
+status: "active"
 ---
 
 # § 6333. Basic grants to local educational agencies
@@ -75,3 +76,7 @@ generated_at: "2026-03-30T02:54:48.196Z"
   - **(2)** the average of—
     - **(A)** the amount calculated in paragraph (1), above; and
     - **(B)** the number of children in such State counted under subsection (c) in the fiscal year multiplied by 150 percent of the national average per-pupil payment made with funds available under this section for that year.
+
+## Source Credit
+
+*([Pub. L. 89–10, title I, § 1124](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 107–110, title I, § 101](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1516](https://www.govinfo.gov/link/statute/115/1516).)*

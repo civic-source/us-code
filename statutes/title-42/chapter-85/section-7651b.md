@@ -3,9 +3,10 @@ title: "Section 7651b - Sulfur dioxide allowance program for existing and new un
 usc_title: 42
 usc_section: "7651b"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7651b"
-generated_at: "2026-03-30T02:56:11.321Z"
+generated_at: "2026-11-23T20:27:22.943Z"
+status: "active"
 ---
 
 # § 7651b. Sulfur dioxide allowance program for existing and new units
@@ -27,3 +28,11 @@ generated_at: "2026-03-30T02:56:11.321Z"
     - **(B)** the authority of the Federal Energy Regulatory Commission under any provision of law respecting unfair methods of competition or anticompetitive acts or practices.
   - **(2)** As used in this section, “antitrust laws” means those Acts set forth in section 12 of title 15 .
 - **(j)** The acquisition or disposition of allowances pursuant to this subchapter including the issuance of securities or the undertaking of any other financing transaction in connection with such allowances shall not be subject to the provisions of the Public Utility Holding Company Act of 1935. 2 2 See References in Text note below.
+
+Contracts for Hydroelectric Energy
+
+Federal Power Marketing Administration
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title IV, § 403, as added [Pub. L. 101–549, title IV, § 401](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2589](https://www.govinfo.gov/link/statute/104/2589).)*

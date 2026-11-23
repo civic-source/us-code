@@ -3,9 +3,10 @@ title: "Section 864 - Definitions and special rules"
 usc_title: 26
 usc_section: "864"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 864"
-generated_at: "2026-03-30T02:55:27.738Z"
+generated_at: "2026-11-23T20:26:45.926Z"
+status: "active"
 ---
 
 # § 864. Definitions and special rules
@@ -151,3 +152,194 @@ generated_at: "2026-03-30T02:55:27.738Z"
     - **(E)** Paragraph (6) of subsection (e) shall not apply to qualified research and experimental expenditures.
   - **(5)** The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this subsection, including regulations relating to the determination of whether any expenses are attributable to activities conducted in the United States or outside the United States and regulations providing such adjustments to the provisions of this subsection as may be appropriate in the case of cost-sharing arrangements and contract research.
   - **(6)** This subsection shall apply to the taxpayer’s first taxable year (beginning on or before August 1, 1994 ) following the taxpayer’s last taxable year to which Revenue Procedure 92–56 applies or would apply if the taxpayer elected the benefits of such Revenue Procedure.
+
+|  | Col 2 |
+| --- | --- |
+|  | The applicable |
+| “In the case of the: | percentage is: |
+| 1st taxable year | 75 |
+| 2nd taxable year | 50 |
+| 3rd taxable year | 25. |
+
+| “In the case of the: | The applicable percentage for purposes of subclause (I) is: | The applicable percentage for purposes of subclause (II) is: |
+| --- | --- | --- |
+| 1st taxable year | 8⅓ | 10 |
+| 2nd taxable year | 16⅔ | 25 |
+| 3rd taxable year | 25 | 50 |
+| 4th taxable year | 33⅓ | 100 |
+| 5th taxable year | 16⅔ | 100. |
+
+| “In the case of the: | The applicable percentage for purposes of subclause (I) is: | The applicable percentage for purposes of subclause (II) is: |
+| --- | --- | --- |
+| 1st taxable year | 5 | 6¼ |
+| 2nd taxable year | 10 | 16⅔ |
+| 3rd taxable year | 15 | 37½ |
+| 4th taxable year | 20 | 100 |
+| 5th taxable year | 0 | 0. |
+
+| “In the case of the: | The applicable percentage is: |
+| --- | --- |
+| 1st taxable year | 90 |
+| 2nd taxable year | 80 |
+| 3rd taxable year | 70 |
+| 4th taxable year | 60 |
+| 5th taxable year | 50 |
+| 6th taxable year | 40 |
+| 7th taxable year | 30 |
+| 8th taxable year | 20 |
+| 9th taxable year | 10. |
+
+|  | Col 2 |
+| --- | --- |
+| “In the case of taxable | The phase-in |
+| years beginning in: | percentage is: |
+| 1987 | 75 |
+| 1988 | 50 |
+| 1989 | 25.” |
+
+
+In general
+
+Reduction
+
+In general
+
+Reduction
+
+“If the taxpayer elects (at such time and in such form and manner as the Secretary of the Treasury may prescribe) to have the rules of this subsection apply—
+
+In general
+
+Transitional rules.—
+
+General phase-in.—
+
+In general
+
+General phase-in amount
+
+1st taxable year
+
+2nd taxable year
+
+3rd taxable year
+
+Lower limit where taxpayer reduces indebtedness
+
+Consolidation rule not to apply to certain interest.—
+
+In general
+
+Special phase-in amount
+
+year phase-in amount
+
+1st taxable year
+
+8⅓
+
+2nd taxable year
+
+16⅔
+
+3rd taxable year
+
+25
+
+4th taxable year
+
+33⅓
+
+5th taxable year
+
+16⅔
+
+year phase-in amount
+
+1st taxable year
+
+5
+
+2nd taxable year
+
+10
+
+3rd taxable year
+
+15
+
+4th taxable year
+
+20
+
+5th taxable year
+
+0
+
+year debt amount
+
+year debt amount
+
+Paydowns
+
+Coordination of subparagraphs (a) and (b)
+
+Special rules.—
+
+1st taxable year
+
+2nd taxable year
+
+3rd taxable year
+
+4th taxable year
+
+5th taxable year
+
+6th taxable year
+
+7th taxable year
+
+8th taxable year
+
+9th taxable year
+
+Indebtedness outstanding on may 29, 1985
+
+Indebtedness outstanding on may 29, 1985
+
+Treatment of affiliated group
+
+Election to have paragraph not apply
+
+Special rule.—
+
+In general
+
+Qualified corporation
+
+Special rules for subsidiary
+
+Special rules for allocating general and administrative expenses.—
+
+In general
+
+Phase-in percentage
+
+1987
+
+1988
+
+1989
+
+In general
+
+Special rule
+
+In general
+
+Transitional rule
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 278; [Pub. L. 89–809, title I, § 102(d)](https://www.govinfo.gov/link/plaw/89/public/809), Nov. 13, 1966, [80 Stat. 1544](https://www.govinfo.gov/link/statute/80/1544); [Pub. L. 94–455, title XIX, § 1901(a)(113)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1783](https://www.govinfo.gov/link/statute/90/1783); [Pub. L. 98–369, div. A, title I](https://www.govinfo.gov/link/plaw/98/public/369), §§ 123(a), 127(c), July 18, 1984, [98 Stat. 644](https://www.govinfo.gov/link/statute/98/644), 651; [Pub. L. 99–514, title XII](https://www.govinfo.gov/link/plaw/99/public/514), §§ 1201(d)(4), 1211(b)(2), 1215(a), (b)(1), 1221(a)(2), 1223(b)(1), 1242(a), (b), 1275(c)(7), title XVIII, §§ 1810(c)(2), (3), 1899A(21), Oct. 22, 1986, [100 Stat. 2525](https://www.govinfo.gov/link/statute/100/2525), 2536, 2544, 2545, 2550, 2558, 2580, 2599, 2824, 2959; [Pub. L. 100–203, title X, § 10242(b)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–423](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–647, title I, § 1012(a)(1)(B)](https://www.govinfo.gov/link/plaw/100/public/647), (d)(7), (10), (g)(5), (h)(1), (2)(A), (3)–(6), (p)(30), (r), Nov. 10, 1988, [102 Stat. 3494](https://www.govinfo.gov/link/statute/102/3494), 3498, 3499, 3501–3503, 3521, 3525; [Pub. L. 101–239, title VII, § 7111](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2326](https://www.govinfo.gov/link/statute/103/2326); [Pub. L. 101–508, title XI, § 11401(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–472](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 102–227, title I, § 101(a)](https://www.govinfo.gov/link/plaw/102/public/227), Dec. 11, 1991, [105 Stat. 1686](https://www.govinfo.gov/link/statute/105/1686); [Pub. L. 103–66, title XIII, § 13234](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 504](https://www.govinfo.gov/link/statute/107/504); [Pub. L. 105–34, title XI, § 1162(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 987](https://www.govinfo.gov/link/statute/111/987); [Pub. L. 106–170, title V, § 532(c)(2)(N)](https://www.govinfo.gov/link/plaw/106/public/170) –(P), Dec. 17, 1999, [113 Stat. 1931](https://www.govinfo.gov/link/statute/113/1931); [Pub. L. 106–519, § 4(3)](https://www.govinfo.gov/link/plaw/106/public/519), Nov. 15, 2000, [114 Stat. 2432](https://www.govinfo.gov/link/statute/114/2432); [Pub. L. 108–357, title I, § 101(b)(6)](https://www.govinfo.gov/link/plaw/108/public/357), title IV, §§ 401(a), (b), 403(b)(6), 413(c)(12), title VIII, § 894(a), Oct. 22, 2004, [118 Stat. 1423](https://www.govinfo.gov/link/statute/118/1423), 1488, 1491, 1494, 1507, 1647; [Pub. L. 110–289, div. C, title III, § 3093(a)](https://www.govinfo.gov/link/plaw/110/public/289), (b), July 30, 2008, [122 Stat. 2912](https://www.govinfo.gov/link/statute/122/2912); [Pub. L. 111–92, § 15(a)](https://www.govinfo.gov/link/plaw/111/public/92), (b), Nov. 6, 2009, [123 Stat. 2996](https://www.govinfo.gov/link/statute/123/2996); [Pub. L. 111–147, title V, § 551(a)](https://www.govinfo.gov/link/plaw/111/public/147), Mar. 18, 2010, [124 Stat. 117](https://www.govinfo.gov/link/statute/124/117); [Pub. L. 111–226, title II, § 216(a)](https://www.govinfo.gov/link/plaw/111/public/226), Aug. 10, 2010, [124 Stat. 2400](https://www.govinfo.gov/link/statute/124/2400); [Pub. L. 111–240, title II, § 2122(c)](https://www.govinfo.gov/link/plaw/111/public/240), Sept. 27, 2010, [124 Stat. 2568](https://www.govinfo.gov/link/statute/124/2568); [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 13501(a), 14502(a), Dec. 22, 2017, [131 Stat. 2138](https://www.govinfo.gov/link/statute/131/2138), 2235; [Pub. L. 115–141, div. U, title IV, § 401(a)(152)](https://www.govinfo.gov/link/plaw/115/public/141), (d)(1)(D)(x), (xvii)(IV), (V), Mar. 23, 2018, [132 Stat. 1191](https://www.govinfo.gov/link/statute/132/1191), 1207, 1208; [Pub. L. 117–2, title IX, § 9671(a)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 184](https://www.govinfo.gov/link/statute/135/184); [Pub. L. 119–21, title VII, § 70302(b)(9)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 192](https://www.govinfo.gov/link/statute/139/192).)*

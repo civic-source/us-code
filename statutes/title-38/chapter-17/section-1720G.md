@@ -3,9 +3,10 @@ title: "Section 1720G - Assistance and support services for caregivers"
 usc_title: 38
 usc_section: "1720G"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 1720G"
-generated_at: "2026-03-30T02:55:53.485Z"
+generated_at: "2026-11-23T20:27:01.695Z"
+status: "active"
 ---
 
 # § 1720G. Assistance and support services for caregivers
@@ -182,3 +183,133 @@ generated_at: "2026-03-30T02:55:53.485Z"
     - **(B)** Supervision or protection based on symptoms or residuals of neurological or other impairment or injury.
     - **(C)** Regular or extensive instruction or supervision without which the ability of the veteran to function in daily life would be seriously impaired.
     - **(D)** Any other non-institutional extended care (as such term is used in section 1701(6)(E) of this title ).
+
+Program of Comprehensive Assistance for Family Caregivers
+
+(aa) financial planning services relating to the needs of injured veterans and their caregivers; and
+
+(bb) legal services, including legal advice and consultation, relating to the needs of injured veterans and their caregivers.
+
+Program of General Caregiver Support Services
+
+Construction
+
+Definitions
+
+In general
+
+Implementation
+
+In General
+
+Solicitation of Feedback
+
+Limitation
+
+Formal Recognition of Caregivers.—
+
+Report.—
+
+In general
+
+Caregivers recognized
+
+Timeline
+
+Implementation
+
+Establishment
+
+Education Program.—
+
+In general
+
+Duration
+
+Scope.—
+
+Caregivers
+
+Family members
+
+Solicitation of applications
+
+Considerations
+
+Contracts.—
+
+In general
+
+Qualified entity described
+
+Priority
+
+Course of education described
+
+Surveys.—
+
+In general
+
+Compilation of information
+
+Reports.—
+
+Annual reports.—
+
+In general
+
+Elements
+
+Final report.—
+
+In general
+
+Elements
+
+Monitoring of Program
+
+Definitions
+
+Implementation of New System.—
+
+In general
+
+Elements of system
+
+Assessment of Program
+
+Ongoing Monitoring of and Modifications to Program.—
+
+Monitoring
+
+Modifications
+
+Reports.—
+
+Initial report.—
+
+In general
+
+Veterans described
+
+Notification by comptroller general
+
+Final report.—
+
+In general
+
+Elements
+
+Definitions
+
+Active military, naval, or air service
+
+Program
+
+In general
+
+Contents
+
+## Source Credit
+
+*(Added [Pub. L. 111–163, title I, § 101(a)(1)](https://www.govinfo.gov/link/plaw/111/public/163), May 5, 2010, [124 Stat. 1132](https://www.govinfo.gov/link/statute/124/1132); amended [Pub. L. 114–58, title I, § 103](https://www.govinfo.gov/link/plaw/114/public/58), title VI, § 601(6), Sept. 30, 2015, [129 Stat. 532](https://www.govinfo.gov/link/statute/129/532), 538; [Pub. L. 114–228, title I, § 103](https://www.govinfo.gov/link/plaw/114/public/228), Sept. 29, 2016, [130 Stat. 937](https://www.govinfo.gov/link/statute/130/937); [Pub. L. 115–62, title I, § 103](https://www.govinfo.gov/link/plaw/115/public/62), Sept. 29, 2017, [131 Stat. 1161](https://www.govinfo.gov/link/statute/131/1161); [Pub. L. 115–182, title I, § 161(a)(1)(A)](https://www.govinfo.gov/link/plaw/115/public/182), (2)–(b), June 6, 2018, [132 Stat. 1438–1440](https://www.govinfo.gov/link/statute/132/1438); [Pub. L. 115–251, title I, § 103](https://www.govinfo.gov/link/plaw/115/public/251), Sept. 29, 2018, [132 Stat. 3168](https://www.govinfo.gov/link/statute/132/3168); [Pub. L. 116–278, § 2(b)](https://www.govinfo.gov/link/plaw/116/public/278), Dec. 31, 2020, [134 Stat. 3374](https://www.govinfo.gov/link/statute/134/3374); [Pub. L. 116–283, div. A, title IX, § 926(a)(28)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3830](https://www.govinfo.gov/link/statute/134/3830); [Pub. L. 118–210, title I](https://www.govinfo.gov/link/plaw/118/public/210), §§ 124(a)(1), (3), (b), 125, Jan. 2, 2025, [138 Stat. 2730](https://www.govinfo.gov/link/statute/138/2730), 2731.)*

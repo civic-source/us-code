@@ -3,9 +3,10 @@ title: "Section 194A - Contributions to employer liability trusts"
 usc_title: 26
 usc_section: "194A"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 194A"
-generated_at: "2026-03-30T02:55:27.650Z"
+generated_at: "2026-11-23T20:26:45.496Z"
+status: "active"
 ---
 
 # § 194A. Contributions to employer liability trusts
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:27.650Z"
   - **(2)** which is properly allocable to such taxable year.
 - **(b)** In the case of a contribution described in subsection (a) which relates to any specified period of time which includes more than one taxable year, the amount properly allocable to any taxable year in such period shall be determined by prorating such amounts to such taxable years under regulations prescribed by the Secretary.
 - **(c)** No deduction shall be allowed under subsection (a) with respect to any contribution described in subsection (a) which does not relate to any specified period of time.
+
+## Source Credit
+
+*(Added [Pub. L. 96–364, title II, § 209(c)(1)](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1290](https://www.govinfo.gov/link/statute/94/1290), § 194; renumbered § 194A, [Pub. L. 97–448, title III, § 305(b)(1)](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2399](https://www.govinfo.gov/link/statute/96/2399).)*

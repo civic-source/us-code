@@ -3,9 +3,10 @@ title: "Section 4305 - Suspension of provisions relating to ally of enemy; regul
 usc_title: 50
 usc_section: "4305"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4305"
-generated_at: "2026-03-30T02:56:26.271Z"
+generated_at: "2026-11-23T20:27:31.084Z"
+status: "active"
 ---
 
 # § 4305. Suspension of provisions relating to ally of enemy; regulation of transactions in foreign exchange of gold or silver, property transfers, vested interests, enforcement and penalties
@@ -18,3 +19,19 @@ generated_at: "2026-03-30T02:56:26.271Z"
   - **(2)** Any payment, conveyance, transfer, assignment, or delivery of property or interest therein, made to or for the account of the United States, or as otherwise directed, pursuant to this subdivision or any rule, regulation, instruction, or direction issued hereunder shall to the extent thereof be a full acquittance and discharge for all purposes of the obligation of the person making the same; and no person shall be held liable in any court for or in respect to anything done or omitted in good faith in connection with the administration of, or in pursuance of and in reliance on, this subdivision, or any rule, regulation, instruction, or direction issued hereunder.
   - **(3)** As used in this subdivision the term “United States” means the United States and any place subject to the jurisdiction thereof: Provided, however , That the foregoing shall not be construed as a limitation upon the power of the President, which is hereby conferred, to prescribe from time to time, definitions, not inconsistent with the purposes of this subdivision, for any or all of the terms used in this subdivision. As used in this subdivision the term “person” means an individual, partnership, association, or corporation.
   - **(4)** The authority granted to the President by this section does not include the authority to regulate or prohibit, directly or indirectly, the importation from any country, or the exportation to any country, whether commercial or otherwise, regardless of format or medium of transmission, of any information or informational materials, including but not limited to, publications, films, posters, phonograph records, photographs, microfilms, microfiche, tapes, compact disks, CD ROMs, artworks, and news wire feeds. The exports exempted from regulation or prohibition by this paragraph do not include those which are otherwise controlled for export under section 4604 1 1 See References in Text note below. of this title, or under section 4605 1 of this title to the extent that such controls promote the nonproliferation or antiterrorism policies of the United States, or with respect to which acts are prohibited by chapter 37 of title 18.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+George W. Bush.
+
+J.R. Biden, Jr.
+
+## Source Credit
+
+*(Oct. 6, 1917, ch. 106, § 5, [40 Stat. 415](https://www.govinfo.gov/link/statute/40/415); Sept. 24, 1918, ch. 176, § 5, [40 Stat. 966](https://www.govinfo.gov/link/statute/40/966); Mar. 9, 1933, ch. 1, § 2, [48 Stat. 1](https://www.govinfo.gov/link/statute/48/1); May 7, 1940, ch. 185, § 1, [54 Stat. 179](https://www.govinfo.gov/link/statute/54/179); Dec. 18, 1941, ch. 593, title III, § 301, [55 Stat. 839](https://www.govinfo.gov/link/statute/55/839); Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, [60 Stat. 1352](https://www.govinfo.gov/link/statute/60/1352); [Pub. L. 95–223, title I](https://www.govinfo.gov/link/plaw/95/public/223), §§ 101(a), 102, 103(b), Dec. 28, 1977, [91 Stat. 1625](https://www.govinfo.gov/link/statute/91/1625), 1626; [Pub. L. 100–418, title II, § 2502(a)(1)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1371](https://www.govinfo.gov/link/statute/102/1371); [Pub. L. 103–236, title V, § 525(b)(1)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 474](https://www.govinfo.gov/link/statute/108/474).)*

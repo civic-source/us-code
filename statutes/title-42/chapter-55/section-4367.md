@@ -3,9 +3,10 @@ title: "Section 4367 - Reporting requirements of financial interests of officers
 usc_title: 42
 usc_section: "4367"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4367"
-generated_at: "2026-03-30T02:56:11.202Z"
+generated_at: "2026-11-23T20:27:22.379Z"
+status: "active"
 ---
 
 # § 4367. Reporting requirements of financial interests of officers and employees of Environmental Protection Agency
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.202Z"
   - **(2)** Omitted.
 - **(c)** In the rules prescribed under subsection (b) of this section, the Administrator may identify specific positions of a nonpolicymaking nature within the Administration and provide that officers or employees occupying such positions shall be exempt from the requirements of this section.
 - **(d)** Any officer or employee who is subject to, and knowingly violates, this section, shall be fined not more than $2,500 or imprisoned not more than one year, or both.
+
+## Source Credit
+
+*([Pub. L. 95–155, § 12](https://www.govinfo.gov/link/plaw/95/public/155), Nov. 8, 1977, [91 Stat. 1263](https://www.govinfo.gov/link/statute/91/1263).)*

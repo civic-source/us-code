@@ -3,9 +3,10 @@ title: "Section 5305c - Advisory group"
 usc_title: 16
 usc_section: "5305c"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 5305c"
-generated_at: "2026-03-30T02:54:23.052Z"
+generated_at: "2026-11-23T20:26:20.774Z"
+status: "active"
 ---
 
 # § 5305c. Advisory group
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:23.052Z"
   - **(2)** The Secretary shall provide to the public timely notice of each meeting of the advisory group.
   - **(3)** Minutes of each meeting of the advisory group shall be kept by the Secretary and shall be made available to the public.
 - **(c)** Chapter 10 of title 5 shall not apply to the advisory group.
+
+## Source Credit
+
+*([Pub. L. 103–391, § 9](https://www.govinfo.gov/link/plaw/103/public/391), as added [Pub. L. 107–112, § 4](https://www.govinfo.gov/link/plaw/107/public/112), Jan. 8, 2002, [115 Stat. 2097](https://www.govinfo.gov/link/statute/115/2097); amended [Pub. L. 117–286, § 4(a)(123)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4319](https://www.govinfo.gov/link/statute/136/4319).)*

@@ -3,9 +3,10 @@ title: "Section 1028A - Aggravated identity theft"
 usc_title: 18
 usc_section: "1028A"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 1028A"
-generated_at: "2026-03-30T02:54:16.479Z"
+generated_at: "2026-11-23T20:26:08.455Z"
+status: "active"
 ---
 
 # § 1028A. Aggravated identity theft
@@ -30,3 +31,17 @@ generated_at: "2026-03-30T02:54:16.479Z"
   - **(9)** section 243 or 266 of the Immigration and Nationality Act ( 8 U.S.C. 1253 and 1306) (relating to willfully failing to leave the United States after deportation and creating a counterfeit alien registration card);
   - **(10)** any provision contained in chapter 8 of title II of the Immigration and Nationality Act ( 8 U.S.C. 1321 et seq.) (relating to various immigration offenses); or
   - **(11)** section 208, 811, 1107(b), 1128B(a), or 1632 of the Social Security Act ( 42 U.S.C. 408 , 1011, 1307(b), 1320a–7b(a), and 1383a) (relating to false statements relating to programs under the Act).
+
+Offenses.—
+
+In general
+
+Terrorism offense
+
+Consecutive Sentence
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 108–275, § 2(a)](https://www.govinfo.gov/link/plaw/108/public/275), July 15, 2004, [118 Stat. 831](https://www.govinfo.gov/link/statute/118/831).)*

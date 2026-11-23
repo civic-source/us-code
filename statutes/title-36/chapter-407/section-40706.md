@@ -3,9 +3,10 @@ title: "Section 40706 - Distribution of assets on dissolution"
 usc_title: 36
 usc_section: "40706"
 chapter: 407
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 40706"
-generated_at: "2026-03-30T02:55:44.696Z"
+generated_at: "2026-11-23T20:26:58.876Z"
+status: "active"
 ---
 
 # § 40706. Distribution of assets on dissolution
@@ -20,3 +21,43 @@ generated_at: "2026-03-30T02:55:44.696Z"
     - **(B)** performs functions similar to the functions described in section 40722 of this title .
   - **(2)** An asset distributed under this subsection may not be distributed to an individual.
 - **(c)** On dissolution of the corporation, any asset not distributed under subsection (a) or (b) of this section shall be sold and the proceeds shall be deposited in the Treasury.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 40706(a) | 36:5509(a)(1). | Feb. 10, 1996 , Pub. L. 104–106, title XVI, § 1619 , 110 Stat. 520 ; Sept. 23, 1996 , Pub. L. 104–201, title X, § 1073(c)(3) , 110 Stat. 2657 . |
+| 40706(b)(1) | 36:5509(a)(2). |  |
+| 40706(b)(2) | 36:5509(b). |  |
+| 40706(c) | 36:5509(a)(3). |  |
+
+
+Secretary of the Army
+
+Tax-Exempt Organizations
+
+Treasury
+
+Historical and Revision Notes
+
+40706(a)
+
+Feb. 10, 1996
+
+Pub. L. 104–106, title XVI, § 1619
+
+110 Stat. 520
+
+Sept. 23, 1996
+
+Pub. L. 104–201, title X, § 1073(c)(3)
+
+110 Stat. 2657
+
+40706(b)(1)
+
+40706(b)(2)
+
+40706(c)
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1336](https://www.govinfo.gov/link/statute/112/1336); [Pub. L. 113–237, § 3(c)(3)](https://www.govinfo.gov/link/plaw/113/public/237), Dec. 18, 2014, [128 Stat. 2840](https://www.govinfo.gov/link/statute/128/2840).)*

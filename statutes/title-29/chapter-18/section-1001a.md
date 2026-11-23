@@ -3,9 +3,10 @@ title: "Section 1001a - Additional Congressional findings and declaration of pol
 usc_title: 29
 usc_section: "1001a"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1001a"
-generated_at: "2026-03-30T02:55:18.701Z"
+generated_at: "2026-11-23T20:26:37.901Z"
+status: "active"
 ---
 
 # § 1001a. Additional Congressional findings and declaration of policy
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:18.701Z"
   - **(2)** to alleviate certain problems which tend to discourage the maintenance and growth of multiemployer pension plans,
   - **(3)** to provide reasonable protection for the interests of participants and beneficiaries of financially distressed multiemployer pension plans, and
   - **(4)** to provide a financially self-sufficient program for the guarantee of employee benefits under multiemployer plans.
+
+## Source Credit
+
+*([Pub. L. 96–364, § 3](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1209](https://www.govinfo.gov/link/statute/94/1209).)*

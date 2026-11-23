@@ -3,9 +3,10 @@ title: "Section 5331 - Reports relating to coins and currency received in nonfin
 usc_title: 31
 usc_section: "5331"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 5331"
-generated_at: "2026-03-30T02:55:34.070Z"
+generated_at: "2026-11-23T20:26:51.879Z"
+status: "active"
 ---
 
 # § 5331. Reports relating to coins and currency received in nonfinancial trade or business
@@ -30,3 +31,23 @@ generated_at: "2026-03-30T02:55:34.070Z"
     - **(A)** foreign currency; and
     - **(B)** to the extent provided in regulations prescribed by the Secretary, any monetary instrument (whether or not in bearer form) with a face amount of not more than $10,000.
   - **(2)** Paragraph (1)(B) shall not apply to any check drawn on the account of the writer in a financial institution referred to in subparagraph (A), (B), (C), (D), (E), (F), (G), (J), (K), (R), or (S) of section 5312(a)(2).
+
+Coin and Currency Receipts of More Than
+
+Form and Manner of Reports
+
+Exceptions.—
+
+Amounts received by financial institutions
+
+Transactions occurring outside the united states
+
+Currency Includes Foreign Currency and Certain Monetary Instruments.—
+
+In general
+
+Scope of application
+
+## Source Credit
+
+*(Added [Pub. L. 107–56, title III, § 365(a)](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 333](https://www.govinfo.gov/link/statute/115/333); amended [Pub. L. 112–74, div. C, title I, § 120](https://www.govinfo.gov/link/plaw/112/public/74), Dec. 23, 2011, [125 Stat. 891](https://www.govinfo.gov/link/statute/125/891).)*

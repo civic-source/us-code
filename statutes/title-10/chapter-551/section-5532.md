@@ -3,9 +3,10 @@ title: "Section 5532 - Hypersonic defense capability development"
 usc_title: 10
 usc_section: "5532"
 chapter: 551
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 5532"
-generated_at: "2026-03-30T02:53:38.217Z"
+generated_at: "2026-11-23T20:25:52.002Z"
+status: "active"
 ---
 
 # § 5532. Hypersonic defense capability development
@@ -16,3 +17,11 @@ generated_at: "2026-03-30T02:53:38.217Z"
     - **(A)** involves systems of the military departments and the Defense Agencies; and
     - **(B)** includes both kinetic and nonkinetic options for such interception; and
   - **(2)** not later than September 30, 2017 , establish a program of record to develop a hypersonic defense capability.
+
+Executive Agent
+
+Duties
+
+## Source Credit
+
+*(Added [Pub. L. 118–159, div. A, title XVI, § 1649(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2194](https://www.govinfo.gov/link/statute/138/2194).)*

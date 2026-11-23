@@ -3,12 +3,17 @@ title: "Section 3501 - Exclusive territorial licenses to manufacture, distribute
 usc_title: 15
 usc_section: "3501"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 3501"
-generated_at: "2026-03-30T02:54:08.190Z"
+generated_at: "2026-11-23T20:26:04.288Z"
+status: "active"
 ---
 
 # § 3501. Exclusive territorial licenses to manufacture, distribute, and sell trademarked soft drink products; ultimate resale to consumers; substantial and effective competition
 
 Nothing contained in any antitrust law shall render unlawful the inclusion and enforcement in any trademark licensing contract or agreement, pursuant to which the licensee engages in the manufacture (including manufacture by a sublicensee, agent, or subcontractor), distribution, and sale of a trademarked soft drink product, of provisions granting the licensee the sole and exclusive right to manufacture, distribute, and sell such product in a defined geographic area or limiting the licensee, directly or indirectly, to the manufacture, distribution, and sale of such product only for ultimate resale to consumers within a defined geographic area: Provided , That such product is in substantial and effective competition with other products of the same general class in the relevant market or markets.
 
+
+## Source Credit
+
+*([Pub. L. 96–308, § 2](https://www.govinfo.gov/link/plaw/96/public/308), July 9, 1980, [94 Stat. 939](https://www.govinfo.gov/link/statute/94/939).)*

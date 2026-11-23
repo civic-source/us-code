@@ -3,9 +3,10 @@ title: "Section 1067b - Grant recipient selection"
 usc_title: 20
 usc_section: "1067b"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1067b"
-generated_at: "2026-03-30T02:54:48.102Z"
+generated_at: "2026-11-23T20:26:14.352Z"
+status: "active"
 ---
 
 # § 1067b. Grant recipient selection
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:48.102Z"
   - **(8)** institutional commitment to the project;
   - **(9)** expected outcomes; and
   - **(10)** scientific and educational value of the proposed project.
+
+## Source Credit
+
+*([Pub. L. 89–329, title III, § 352](https://www.govinfo.gov/link/plaw/89/public/329), formerly title X, § 1022, as added [Pub. L. 99–498, title X, § 1002](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1561](https://www.govinfo.gov/link/statute/100/1561); renumbered title III, § 352, [Pub. L. 105–244, title III, § 301(a)(5)](https://www.govinfo.gov/link/plaw/105/public/244), (7), Oct. 7, 1998, [112 Stat. 1636](https://www.govinfo.gov/link/statute/112/1636).)*

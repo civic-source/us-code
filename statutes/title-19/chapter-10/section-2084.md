@@ -3,9 +3,10 @@ title: "Section 2084 - Office of Trade"
 usc_title: 19
 usc_section: "2084"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2084"
-generated_at: "2026-03-30T02:54:24.663Z"
+generated_at: "2026-11-23T20:26:10.898Z"
+status: "active"
 ---
 
 # § 2084. Office of Trade
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:24.663Z"
     - **(A)** The Commissioner of U.S. Customs and Border Protection is authorized to transfer any other assets, functions, or personnel within U.S. Customs and Border Protection to the Office of Trade established under subsection (a).
     - **(B)** Not less than 90 days prior to the transfer of assets, functions, personnel, or liabilities under subparagraph (A), the Commissioner of U.S. Customs and Border Protection shall notify the Committee on Homeland Security and the Committee on Ways and Means of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Finance of the Senate of the specific assets, functions, personnel, or liabilities to be transferred, and the reason for such transfer.
 - **(e)** In this section, the terms “customs and trade laws of the United States”, “trade enforcement”, and “trade facilitation” have the meanings given such terms in section 4301 of this title .
+
+## Source Credit
+
+*(Mar. 3, 1927, ch. 348, § 4, as added [Pub. L. 114–125, title VIII, § 802(h)(1)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 213](https://www.govinfo.gov/link/statute/130/213).)*

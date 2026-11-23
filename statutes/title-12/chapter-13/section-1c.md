@@ -3,9 +3,10 @@ title: "Section 1c - Regulation of rents in insured projects"
 usc_title: 12
 usc_section: "1c"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1c"
-generated_at: "2026-03-30T02:53:53.420Z"
+generated_at: "2026-11-23T20:25:58.971Z"
+status: "active"
 ---
 
 # § 1715z–1c. Regulation of rents in insured projects
@@ -16,3 +17,7 @@ After December 1, 1987 , the Secretary of Housing and Urban Development shall co
   - **(2)**
     - **(A)** the project was, as of December 1, 1987 , receiving a housing assistance payment under a contract pursuant to section 1437f of title 42 (other than under the existing housing certificate program of section 1437f(b)(1) of title 42 ); or
     - **(B)** not less than 50 percent of the units in the project are occupied by lower income families (as defined in section 1437a(a)(2) 1 1 Probably should be a reference to section 1437a(b)(2). of title 42).
+
+## Source Credit
+
+*([Pub. L. 100–242, title IV, § 425](https://www.govinfo.gov/link/plaw/100/public/242), Feb. 5, 1988, [101 Stat. 1915](https://www.govinfo.gov/link/statute/101/1915).)*

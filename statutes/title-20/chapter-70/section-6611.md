@@ -3,9 +3,10 @@ title: "Section 6611 - Formula grants to States"
 usc_title: 20
 usc_section: "6611"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 6611"
-generated_at: "2026-03-30T02:54:48.200Z"
+generated_at: "2026-11-23T20:26:14.851Z"
+status: "active"
 ---
 
 # § 6611. Formula grants to States
@@ -111,3 +112,11 @@ generated_at: "2026-03-30T02:54:48.200Z"
   - **(1)** The development, improvement, or implementation of elements of any teacher, principal, or other school leader evaluation system.
   - **(2)** Any State or local educational agency’s definition of teacher, principal, or other school leader effectiveness.
   - **(3)** Any teacher, principal, or other school leader professional standards, certification, or licensing.
+
+(aa) improve classroom instruction and student learning and achievement, including through improving school leadership programs; and
+
+(bb) increase the retention of effective teachers, principals, or other school leaders.
+
+## Source Credit
+
+*([Pub. L. 89–10, title II, § 2101](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title II, § 2002](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1917](https://www.govinfo.gov/link/statute/129/1917); amended [Pub. L. 116–260, div. H, title III, § 315](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 1610](https://www.govinfo.gov/link/statute/134/1610).)*

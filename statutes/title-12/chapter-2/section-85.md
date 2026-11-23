@@ -3,12 +3,17 @@ title: "Section 85 - Rate of interest on loans, discounts and purchases"
 usc_title: 12
 usc_section: "85"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 85"
-generated_at: "2026-03-30T02:53:53.373Z"
+generated_at: "2026-11-23T20:25:58.693Z"
+status: "active"
 ---
 
 # § 85. Rate of interest on loans, discounts and purchases
 
 Any association may take, receive, reserve, and charge on any loan or discount made, or upon any notes, bills of exchange, or other evidences of debt, interest at the rate allowed by the laws of the State, Territory, or District where the bank is located, or at a rate of 1 per centum in excess of the discount rate on ninety-day commercial paper in effect at the Federal reserve bank in the Federal reserve district where the bank is located, whichever may be the greater, and no more, except that where by the laws of any State a different rate is limited for banks organized under State laws, the rate so limited shall be allowed for associations organized or existing in any such State under title 62 of the Revised Statutes. When no rate is fixed by the laws of the State, or Territory, or District, the bank may take, receive, reserve, or charge a rate not exceeding 7 per centum, or 1 per centum in excess of the discount rate on ninety day commercial paper in effect at the Federal reserve bank in the Federal reserve district where the bank is located, whichever may be the greater, and such interest may be taken in advance, reckoning the days for which the note, bill, or other evidence of debt has to run. The maximum amount of interest or discount to be charged at a branch of an association located outside of the States of the United States and the District of Columbia shall be at the rate allowed by the laws of the country, territory, dependency, province, dominion, insular possession, or other political subdivision where the branch is located. And the purchase, discount, or sale of a bona fide bill of exchange, payable at another place than the place of such purchase, discount, or sale, at not more than the current rate of exchange for sight drafts in addition to the interest, shall not be considered as taking or receiving a greater rate of interest.
 
+
+## Source Credit
+
+*(R.S. § 5197; June 16, 1933, ch. 89, § 25, [48 Stat. 191](https://www.govinfo.gov/link/statute/48/191); Aug. 23, 1935, ch. 614, title III, § 314, [49 Stat. 711](https://www.govinfo.gov/link/statute/49/711); [Pub. L. 93–501, title II, § 201](https://www.govinfo.gov/link/plaw/93/public/501), Oct. 29, 1974, [88 Stat. 1558](https://www.govinfo.gov/link/statute/88/1558); [Pub. L. 96–104, title I, § 101](https://www.govinfo.gov/link/plaw/96/public/104), Nov. 5, 1979, [93 Stat. 789](https://www.govinfo.gov/link/statute/93/789); [Pub. L. 96–161, title II, § 201](https://www.govinfo.gov/link/plaw/96/public/161), Dec. 28, 1979, [93 Stat. 1235](https://www.govinfo.gov/link/statute/93/1235); [Pub. L. 96–221, title V, § 529](https://www.govinfo.gov/link/plaw/96/public/221), Mar. 31, 1980, [94 Stat. 168](https://www.govinfo.gov/link/statute/94/168).)*

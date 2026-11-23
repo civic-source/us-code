@@ -3,9 +3,10 @@ title: "Section 2621 - Definitions"
 usc_title: 22
 usc_section: "2621"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2621"
-generated_at: "2026-03-30T02:55:05.373Z"
+generated_at: "2026-11-23T20:26:32.344Z"
+status: "active"
 ---
 
 # § 2621. Definitions
@@ -16,3 +17,7 @@ In this chapter—
   - **(2)** The term “foreign government” includes every foreign government and every official, agent, or representative thereof.
   - **(3)** The term “gift” includes any present or thing, other than a decoration, tendered by or received from a foreign government.
   - **(4)** The term “decoration” includes any order, device, medal, badge, insignia, or emblem tendered by or received from a foreign government.
+
+## Source Credit
+
+*([Pub. L. 89–673, § 2](https://www.govinfo.gov/link/plaw/89/public/673), Oct. 15, 1966, [80 Stat. 952](https://www.govinfo.gov/link/statute/80/952).)*

@@ -3,9 +3,10 @@ title: "Section 7401 - Commodity promotion and evaluation"
 usc_title: 7
 usc_section: "7401"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7401"
-generated_at: "2026-03-30T02:53:42.450Z"
+generated_at: "2026-11-23T20:25:41.775Z"
+status: "active"
 ---
 
 # § 7401. Commodity promotion and evaluation
@@ -66,3 +67,7 @@ generated_at: "2026-03-30T02:53:42.450Z"
     - **(B)** is imported with a valid organic certificate (as defined in that part).
   - **(3)** If the Secretary issues an organic commodity promotion order described in paragraph (2), a covered person may elect, for applicable dual-covered agricultural commodities and in the sole discretion of the covered person, whether to be assessed under the organic commodity promotion order or another applicable agricultural commodity promotion order.
   - **(4)** The Secretary shall promulgate regulations concerning eligibility and compliance for an exemption under paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 104–127, title V, § 501](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1029](https://www.govinfo.gov/link/statute/110/1029); [Pub. L. 107–171, title X, § 10607](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 514](https://www.govinfo.gov/link/statute/116/514); [Pub. L. 113–79, title X, § 10004(d)](https://www.govinfo.gov/link/plaw/113/public/79), (e), Feb. 7, 2014, [128 Stat. 942](https://www.govinfo.gov/link/statute/128/942), 943; [Pub. L. 113–235, div. A, title VII, § 747](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2170](https://www.govinfo.gov/link/statute/128/2170).)*

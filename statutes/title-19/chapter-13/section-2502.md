@@ -3,9 +3,10 @@ title: "Section 2502 - Purposes"
 usc_title: 19
 usc_section: "2502"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2502"
-generated_at: "2026-03-30T02:54:24.678Z"
+generated_at: "2026-11-23T20:26:10.987Z"
+status: "active"
 ---
 
 # § 2502. Purposes
@@ -16,3 +17,7 @@ The purposes of this Act are—
   - **(2)** to foster the growth and maintenance of an open world trading system;
   - **(3)** to expand opportunities for the commerce of the United States in international trade; and
   - **(4)** to improve the rules of international trade and to provide for the enforcement of such rules, and for other purposes.
+
+## Source Credit
+
+*([Pub. L. 96–39, § 1(c)](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 146](https://www.govinfo.gov/link/statute/93/146).)*

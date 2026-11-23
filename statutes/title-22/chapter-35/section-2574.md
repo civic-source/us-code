@@ -3,9 +3,10 @@ title: "Section 2574 - Negotiation management"
 usc_title: 22
 usc_section: "2574"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2574"
-generated_at: "2026-03-30T02:55:05.372Z"
+generated_at: "2026-11-23T20:26:32.336Z"
+status: "active"
 ---
 
 # § 2574. Negotiation management
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:05.372Z"
 - **(b)** The Secretary of State is authorized—
   - **(1)** to formulate plans and make preparations for the establishment, operation, and funding of inspections and control systems which may become part of the United States arms control, nonproliferation, and disarmament activities; and
   - **(2)** as authorized by law, to put into effect, direct, or otherwise assume United States responsibility for such systems.
+
+## Source Credit
+
+*([Pub. L. 87–297, title III, § 304](https://www.govinfo.gov/link/plaw/87/public/297), formerly § 34, Sept. 26, 1961, [75 Stat. 634](https://www.govinfo.gov/link/statute/75/634); [Pub. L. 103–236, title VII, § 710](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 494](https://www.govinfo.gov/link/statute/108/494); renumbered § 304 and amended [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XII, § 1223(9), (21), Oct. 21, 1998, [112 Stat. 2681–769](https://www.govinfo.gov/link/statute/112/2681), 2681–772.)*

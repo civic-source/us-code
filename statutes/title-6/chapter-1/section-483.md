@@ -3,9 +3,10 @@ title: "Section 483 - Report"
 usc_title: 6
 usc_section: "483"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 483"
-generated_at: "2026-03-30T02:53:09.467Z"
+generated_at: "2026-11-23T20:25:34.770Z"
+status: "active"
 ---
 
 # § 483. Report
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:09.467Z"
 - **(b)** The congressional committees referred to in subsection (a) are the following committees:
   - **(1)** The Permanent Select Committee on Intelligence and the Committee on the Judiciary of the House of Representatives.
   - **(2)** The Select Committee on Intelligence and the Committee on the Judiciary of the Senate.
+
+## Source Credit
+
+*([Pub. L. 107–296, title VIII, § 893](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2255](https://www.govinfo.gov/link/statute/116/2255).)*

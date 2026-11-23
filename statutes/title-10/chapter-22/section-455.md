@@ -3,9 +3,10 @@ title: "Section 455 - Maps, charts, and geomatics data: public availability; exc
 usc_title: 10
 usc_section: "455"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 455"
-generated_at: "2026-03-30T02:53:38.059Z"
+generated_at: "2026-11-23T20:25:50.960Z"
+status: "active"
 ---
 
 # § 455. Maps, charts, and geomatics data: public availability; exceptions
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:38.059Z"
   - **(2)** Regulations under this section shall address the conditions under which release of geomatics products authorized under subsection (b) to be withheld from public disclosure would be appropriate—
     - **(A)** in the case of allies of the United States; and
     - **(B)** in the case of qualified United States contractors (including contractors that are small business concerns) who need such products for use in the performance of contracts with the United States.
+
+## Source Credit
+
+*(Added [Pub. L. 102–88, title V, § 502(a)(1)](https://www.govinfo.gov/link/plaw/102/public/88), Aug. 14, 1991, [105 Stat. 435](https://www.govinfo.gov/link/statute/105/435), § 2796; amended [Pub. L. 103–359, title V, § 502](https://www.govinfo.gov/link/plaw/103/public/359), Oct. 14, 1994, [108 Stat. 3430](https://www.govinfo.gov/link/statute/108/3430); renumbered § 455 and amended [Pub. L. 104–201, div. A, title XI, § 1112(b)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2682](https://www.govinfo.gov/link/statute/110/2682); [Pub. L. 105–85, div. A, title IX, § 933(a)](https://www.govinfo.gov/link/plaw/105/public/85), (b)(1), Nov. 18, 1997, [111 Stat. 1866](https://www.govinfo.gov/link/statute/111/1866); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title X, § 1074], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–280; [Pub. L. 108–136, div. A, title IX, § 921(d)(2)(A)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1568](https://www.govinfo.gov/link/statute/117/1568); [Pub. L. 116–283, div. A, title XVI, § 1621(d)(1)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4053](https://www.govinfo.gov/link/statute/134/4053).)*

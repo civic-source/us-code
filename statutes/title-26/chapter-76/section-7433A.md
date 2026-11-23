@@ -3,9 +3,10 @@ title: "Section 7433A - Civil damages for certain unauthorized collection action
 usc_title: 26
 usc_section: "7433A"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 7433A"
-generated_at: "2026-03-30T02:55:27.872Z"
+generated_at: "2026-11-23T20:26:46.768Z"
+status: "active"
 ---
 
 # § 7433A. Civil damages for certain unauthorized collection actions by persons performing services under qualified tax collection contracts
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:27.872Z"
   - **(2)** Such person and not the United States shall be liable for any damages and costs determined in such civil action.
   - **(3)** Such civil action shall not be an exclusive remedy with respect to such person.
   - **(4)** Subsections (c), (d)(1), and (e) of section 7433 shall not apply.
+
+## Source Credit
+
+*(Added [Pub. L. 108–357, title VIII, § 881(b)(1)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1626](https://www.govinfo.gov/link/statute/118/1626).)*

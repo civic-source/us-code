@@ -3,9 +3,10 @@ title: "Section 2635 - Medical emergency helicopter transportation assistance an
 usc_title: 10
 usc_section: "2635"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2635"
-generated_at: "2026-03-30T02:53:38.166Z"
+generated_at: "2026-11-23T20:25:51.626Z"
+status: "active"
 ---
 
 # § 2635. Medical emergency helicopter transportation assistance and limitation of individual liability
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:38.166Z"
   - **(2)** Assistance may be provided only to the extent that it does not interfere with the performance of the military mission.
   - **(3)** The provision of assistance shall not cause any increase in funds required for the operation of the Department of Defense.
 - **(b)** No individual (or his estate) who is authorized by the Department of Defense to perform services under a program established pursuant to subsection (a), and who is acting within the scope of his duties, shall be liable for injury to, or loss of property or personal injury or death which may be caused incident to providing such services.
+
+## Source Credit
+
+*(Added [Pub. L. 93–155, title VIII, § 814(a)](https://www.govinfo.gov/link/plaw/93/public/155), Nov. 16, 1973, [87 Stat. 620](https://www.govinfo.gov/link/statute/87/620); amended [Pub. L. 96–513, title V, § 511(88)](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2928](https://www.govinfo.gov/link/statute/94/2928); [Pub. L. 107–296, title XVII, § 1704(b)(1)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314).)*

@@ -3,9 +3,10 @@ title: "Section 9634 - Corporate funds"
 usc_title: 22
 usc_section: "9634"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9634"
-generated_at: "2026-03-30T02:55:05.470Z"
+generated_at: "2026-11-23T20:26:32.791Z"
+status: "active"
 ---
 
 # § 9634. Corporate funds
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:55:05.470Z"
 - **(k)** In this section, the term “project-specific transaction costs”—
   - **(1)** means those costs incurred by the Corporation for travel, legal expenses, and direct and indirect costs incurred in claims settlements associated with the provision of support under subchapter II of this chapter and shall not be considered administrative expenses for the purposes of this section; and
   - **(2)** does not include information technology (as such term is defined in section 11101 of title 40 ).
+
+## Source Credit
+
+*([Pub. L. 115–254, div. F, title III, § 1434](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3501](https://www.govinfo.gov/link/statute/132/3501).)*

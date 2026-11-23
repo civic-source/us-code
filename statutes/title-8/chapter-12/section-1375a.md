@@ -3,9 +3,10 @@ title: "Section 1375a - Domestic violence information and resources for immigran
 usc_title: 8
 usc_section: "1375a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1375a"
-generated_at: "2026-03-30T02:53:10.498Z"
+generated_at: "2026-11-23T20:25:36.218Z"
+status: "active"
 ---
 
 # § 1375a. Domestic violence information and resources for immigrants and regulation of international marriage brokers
@@ -145,3 +146,7 @@ generated_at: "2026-03-30T02:53:10.498Z"
     - **(A)** The Comptroller General shall conduct a study on the continuing impact of the implementation of this section and of section of 3 3 So in original. 1184 of this title on the process for granting K nonimmigrant visas, including specifically a study of the items described in subparagraphs (A) through (E) of paragraph (1).
     - **(B)** Not later than 2 years after March 7, 2013 , the Comptroller General shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report setting forth the results of the study conducted under subparagraph (A).
     - **(C)** The Attorney General, the Secretary of Homeland Security, and the Secretary of State shall collect and maintain the data necessary for the Comptroller General to conduct the study required by paragraph (1)(A).
+
+## Source Credit
+
+*([Pub. L. 109–162, title VIII, § 833](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3068](https://www.govinfo.gov/link/statute/119/3068); [Pub. L. 113–4, title VIII](https://www.govinfo.gov/link/plaw/113/public/4), §§ 807(b), 808(b)–(d), Mar. 7, 2013, [127 Stat. 113–116](https://www.govinfo.gov/link/statute/127/113).)*

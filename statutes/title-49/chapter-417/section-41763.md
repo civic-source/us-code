@@ -3,9 +3,10 @@ title: "Section 41763 - Federal credit instruments"
 usc_title: 49
 usc_section: "41763"
 chapter: 417
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 41763"
-generated_at: "2026-03-30T02:56:19.378Z"
+generated_at: "2026-11-23T20:27:35.117Z"
+status: "active"
 ---
 
 # § 41763. Federal credit instruments
@@ -65,3 +66,87 @@ generated_at: "2026-03-30T02:56:19.378Z"
   - **(2)** $100,000,000 for any single obligor.
 - **(h)** Subject to subsection (i), no Federal credit instrument may be made under this section for the purchase of any regional jet aircraft that does not comply with the stage 3 noise levels of part 36 of title 14 of the Code of Federal Regulations, as in effect on January 1, 1999 .
 - **(i)** No Federal credit instrument shall be made by the Secretary under this section for the purchase of a regional jet aircraft unless the commuter air carrier or new entrant air carrier enters into a legally binding agreement that requires the carrier to provide scheduled passenger air transportation to the underserved market for which the aircraft is purchased for a period of not less than 36 consecutive months after the date that aircraft is placed in service.
+
+In General
+
+Secured Loans.—
+
+Terms and limitations.—
+
+In general
+
+Maximum amount
+
+Final payment date
+
+Subordination
+
+Fees
+
+Repayment.—
+
+Schedule
+
+Commencement
+
+Prepayment.—
+
+Use of excess revenue
+
+Use of proceeds of refinancing
+
+Loan Guarantees.—
+
+In general
+
+Maximum amount
+
+Fees
+
+Lines of Credit.—
+
+In general
+
+Terms and limitations.—
+
+In general
+
+Maximum amount.—
+
+Total amount
+
+year draws
+
+Draws
+
+Period of availability
+
+Rights of third-party creditors.—
+
+Against united states government
+
+Assignment
+
+Subordination
+
+Fees
+
+Repayment.—
+
+Schedule
+
+Commencement
+
+Risk Assessment
+
+Conditions
+
+Limitation on Combined Amount of Federal Credit Instruments
+
+Requirement
+
+Other Limitations
+
+## Source Credit
+
+*(Added [Pub. L. 106–181, title II, § 210(a)](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 97](https://www.govinfo.gov/link/statute/114/97).)*

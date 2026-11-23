@@ -3,9 +3,10 @@ title: "Section 1984 - Prioritization of marine debris in existing innovation an
 usc_title: 33
 usc_section: "1984"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1984"
-generated_at: "2026-03-30T02:55:41.112Z"
+generated_at: "2026-11-23T20:26:54.112Z"
+status: "active"
 ---
 
 # § 1984. Prioritization of marine debris in existing innovation and entrepreneurship programs
@@ -17,3 +18,7 @@ In carrying out any relevant innovation and entrepreneurship programs that impro
     - **(A)** the economy of the United States;
     - **(B)** the marine environment; and
     - **(C)** navigation safety.
+
+## Source Credit
+
+*([Pub. L. 109–449, § 134](https://www.govinfo.gov/link/plaw/109/public/449), formerly § 10, as added [Pub. L. 116–224, title I, § 101(3)](https://www.govinfo.gov/link/plaw/116/public/224), Dec. 18, 2020, [134 Stat. 1075](https://www.govinfo.gov/link/statute/134/1075); renumbered § 134 and amended [Pub. L. 119–65](https://www.govinfo.gov/link/plaw/119/public/65), §§ 4(b)(1), 6(e), Dec. 26, 2025, [139 Stat. 1989](https://www.govinfo.gov/link/statute/139/1989), 1990.)*

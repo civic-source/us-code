@@ -3,9 +3,10 @@ title: "Section 3334k - Report on protocols for certain intelligence community e
 usc_title: 50
 usc_section: "3334k"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3334k"
-generated_at: "2026-03-30T02:56:26.244Z"
+generated_at: "2026-11-23T20:27:30.963Z"
+status: "active"
 ---
 
 # § 3334k. Report on protocols for certain intelligence community employees and dependents
@@ -43,3 +44,13 @@ generated_at: "2026-03-30T02:56:26.244Z"
   - **(3)** The term “covered individual” means a contractor to an element of the intelligence community.
   - **(4)** The term “dependent of a covered employee” means, with respect to a covered employee, a family member (including a child), as defined by the Director of National Intelligence.
   - **(5)** The term “victim of an anomalous health incident” means a covered employee, covered individual, or dependent of a covered employee, who is, or is suspected to have been, affected by an anomalous health incident.
+
+Standard Guidelines
+
+Conformity With Department of Defense Guidelines
+
+Submission
+
+## Source Credit
+
+*([Pub. L. 117–103, div. X, title VI, § 605](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 996](https://www.govinfo.gov/link/statute/136/996).)*

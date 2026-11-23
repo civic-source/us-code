@@ -3,9 +3,10 @@ title: "Section 4116 - Prevention of unfair labor practices"
 usc_title: 22
 usc_section: "4116"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4116"
-generated_at: "2026-03-30T02:55:05.407Z"
+generated_at: "2026-11-23T20:26:32.521Z"
+status: "active"
 ---
 
 # § 4116. Prevention of unfair labor practices
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:05.407Z"
   - **(3)** requiring reinstatement of an employee with backpay in accordance with section 5596 of title 5 ; or
   - **(4)** including any combination of the actions described in paragraphs (1) through (3) or such other action as will carry out the purpose of this subchapter.
 - **(h)** If the individual or individuals conducting the hearing determine that the preponderance of the evidence received fails to demonstrate that the Department or labor organization named in the complaint has engaged in or is engaging in an unfair labor practice, the individual or individuals shall state in writing their findings of fact and shall issue an order dismissing the complaint.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 1016](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2139](https://www.govinfo.gov/link/statute/94/2139).)*

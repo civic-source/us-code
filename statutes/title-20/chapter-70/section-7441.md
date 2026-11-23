@@ -3,9 +3,10 @@ title: "Section 7441 - Improvement of educational opportunities for Indian child
 usc_title: 20
 usc_section: "7441"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 7441"
-generated_at: "2026-03-30T02:54:48.213Z"
+generated_at: "2026-11-23T20:26:14.911Z"
+status: "active"
 ---
 
 # § 7441. Improvement of educational opportunities for Indian children and youth
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:54:48.213Z"
       - **(iv)** a description of how the applicant will incorporate the proposed activities into the ongoing school program involved once the grant period is over; and
       - **(v)** such other assurances and information as the Secretary may reasonably require.
 - **(e)** Not more than 5 percent of the funds provided to a grantee under this subpart for any fiscal year may be used for administrative purposes.
+
+## Source Credit
+
+*([Pub. L. 89–10, title VI, § 6121](https://www.govinfo.gov/link/plaw/89/public/10), formerly title VII, § 7121, as added [Pub. L. 107–110, title VII, § 701](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1919](https://www.govinfo.gov/link/statute/115/1919); renumbered title VI, § 6121, and amended [Pub. L. 114–95, title VI](https://www.govinfo.gov/link/plaw/114/public/95), §§ 6001(a), (b)(1), 6002(k), Dec. 10, 2015, [129 Stat. 2046](https://www.govinfo.gov/link/statute/129/2046), 2054.)*

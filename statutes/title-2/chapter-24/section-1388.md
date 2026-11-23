@@ -3,9 +3,10 @@ title: "Section 1388 - Workplace climate surveys of employing offices"
 usc_title: 2
 usc_section: "1388"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1388"
-generated_at: "2026-03-30T02:53:04.812Z"
+generated_at: "2026-11-23T20:25:28.963Z"
+status: "active"
 ---
 
 # § 1388. Workplace climate surveys of employing offices
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:04.812Z"
   - **(3)** The Office shall limit the use of any information code or information on the survey form that makes a respondent to the survey, or the respondent’s employing office, individually identifiable.
 - **(d)** The Office shall furnish the information obtained from the surveys conducted under this section to the Committee on House Administration of the House of Representatives and the Committees on Homeland Security and Governmental Affairs and Rules and Administration of the Senate.
 - **(e)** The Office shall carry out this section, including establishment of methodologies and procedures under subsection (c), in consultation with the Committee on House Administration of the House of Representatives and the Committees on Homeland Security and Governmental Affairs and Rules and Administration of the Senate.
+
+## Source Credit
+
+*([Pub. L. 104–1, title III, § 307](https://www.govinfo.gov/link/plaw/104/public/1), as added [Pub. L. 115–397, title II, § 202(a)](https://www.govinfo.gov/link/plaw/115/public/397), Dec. 21, 2018, [132 Stat. 5317](https://www.govinfo.gov/link/statute/132/5317).)*

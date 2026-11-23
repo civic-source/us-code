@@ -3,9 +3,10 @@ title: "Section 284g - Expansion, intensification, and coordination of activitie
 usc_title: 42
 usc_section: "284g"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 284g"
-generated_at: "2026-03-30T02:56:10.741Z"
+generated_at: "2026-11-23T20:27:20.212Z"
+status: "active"
 ---
 
 # § 284g. Expansion, intensification, and coordination of activities of National Institutes of Health with respect to research on autism spectrum disorder
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:56:10.741Z"
   - **(1)** The Director shall under subsection (a)(1) provide for means through which the public can obtain information on the existing and planned programs and activities of the National Institutes of Health with respect to autism spectrum disorder and through which the Director can receive comments from the public regarding such programs and activities.
   - **(2)** The Director may provide guidance to centers under subsection (b)(1) on strategies, activities, and opportunities to promote engagement with, and solicit input from, individuals with autism spectrum disorder and their family members, guardians, advocates or authorized representatives, providers, or other appropriate individuals to inform the activities of the center. Such strategies, activities, and opportunities should consider including, as appropriate, individuals, family members, and caregivers of individuals with autism spectrum disorder who represent the entire population of individuals with autism spectrum disorder, including those individuals with co-occurring conditions and the full range of needs for supports and services, including such supports and services to ensure the safety, and promote the well-being, of such individuals, to inform the activities of the center.
 - **(e)** For each of fiscal years 2026 through 2029, the Director shall prepare and submit, directly to the President for review and transmittal to Congress, an annual budget estimate for the initiatives of the National Institutes of Health pursuant to the strategic plan developed under section 280i–2(b)(5) of this title and updated under section 280i–2(b)(6)(B) of this title , after reasonable opportunity for comment (but without change) by the Secretary and the Interagency Autism Coordinating Committee established under section 280i–2 of this title .
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title IV, § 409C, as added [Pub. L. 106–310, div. A, title I, § 101](https://www.govinfo.gov/link/plaw/106/public/310), Oct. 17, 2000, [114 Stat. 1105](https://www.govinfo.gov/link/statute/114/1105); amended [Pub. L. 109–416](https://www.govinfo.gov/link/plaw/109/public/416), §§ 2(a), 4(b), Dec. 19, 2006, [120 Stat. 2821](https://www.govinfo.gov/link/statute/120/2821), 2830; [Pub. L. 109–482, title I](https://www.govinfo.gov/link/plaw/109/public/482), §§ 103(b)(9), 104(b)(1)(D), Jan. 15, 2007, [120 Stat. 3687](https://www.govinfo.gov/link/statute/120/3687), 3693; [Pub. L. 116–60, § 2](https://www.govinfo.gov/link/plaw/116/public/60), Sept. 30, 2019, [133 Stat. 1110](https://www.govinfo.gov/link/statute/133/1110); [Pub. L. 118–180, § 2](https://www.govinfo.gov/link/plaw/118/public/180), Dec. 23, 2024, [138 Stat. 2614](https://www.govinfo.gov/link/statute/138/2614).)*

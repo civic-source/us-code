@@ -3,9 +3,10 @@ title: "Section 1133 - Use of wilderness areas"
 usc_title: 16
 usc_section: "1133"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1133"
-generated_at: "2026-03-30T02:54:22.941Z"
+generated_at: "2026-11-23T20:26:20.404Z"
+status: "active"
 ---
 
 # § 1133. Use of wilderness areas
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:22.941Z"
   - **(5)** Commercial services may be performed within the wilderness areas designated by this chapter to the extent necessary for activities which are proper for realizing the recreational or other wilderness purposes of the areas.
   - **(6)** Nothing in this chapter shall constitute an express or implied claim or denial on the part of the Federal Government as to exemption from State water laws.
   - **(7)** Nothing in this chapter shall be construed as affecting the jurisdiction or responsibilities of the several States with respect to wildlife and fish in the national forests.
+
+## Source Credit
+
+*([Pub. L. 88–577, § 4](https://www.govinfo.gov/link/plaw/88/public/577), Sept. 3, 1964, [78 Stat. 893](https://www.govinfo.gov/link/statute/78/893); [Pub. L. 95–495, § 4(b)](https://www.govinfo.gov/link/plaw/95/public/495), Oct. 21, 1978, [92 Stat. 1650](https://www.govinfo.gov/link/statute/92/1650); [Pub. L. 102–154, title I](https://www.govinfo.gov/link/plaw/102/public/154), Nov. 13, 1991, [105 Stat. 1000](https://www.govinfo.gov/link/statute/105/1000); [Pub. L. 102–285, § 10(b)](https://www.govinfo.gov/link/plaw/102/public/285), May 18, 1992, [106 Stat. 172](https://www.govinfo.gov/link/statute/106/172); [Pub. L. 113–287, § 5(d)(21)](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3266](https://www.govinfo.gov/link/statute/128/3266).)*

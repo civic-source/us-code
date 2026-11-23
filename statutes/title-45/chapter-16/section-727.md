@@ -3,9 +3,10 @@ title: "Section 727 - Additional purchases of Series A preferred stock"
 usc_title: 45
 usc_section: "727"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 727"
-generated_at: "2026-03-30T02:55:56.555Z"
+generated_at: "2026-11-23T20:27:05.303Z"
+status: "active"
 ---
 
 # § 727. Additional purchases of Series A preferred stock
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:56.555Z"
     - **(D)** of which not to exceed $15,000,000 shall be appropriated to the Secretary to facilitate the transfer of rail commuter services from railroads that entered reorganization after calendar year 1974 to any commuter authority that was providing commuter service, operated by a railroad that entered reorganization after calendar year 1974, as of January 1, 1979 .
   - **(2)** All sums received on account of the holding or disposition of any securities or accounts receivable referred to in paragraph (1)(A) of this subsection shall be deposited in the general fund of the Treasury.
   - **(3)** The amount authorized to be appropriated under paragraph (1)(B) of this subsection shall be reduced, in an amount equal to any amounts reappropriated under the authority of section 726(g)(2) of this title , upon the date of enactment of any Act which reappropriates such amounts.
+
+## Source Credit
+
+*([Pub. L. 93–236, title II, § 217](https://www.govinfo.gov/link/plaw/93/public/236), as added [Pub. L. 97–35, title XI, § 1140(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 653](https://www.govinfo.gov/link/statute/95/653); amended [Pub. L. 97–468, title V, § 504(c)](https://www.govinfo.gov/link/plaw/97/public/468), Jan. 14, 1983, [96 Stat. 2552](https://www.govinfo.gov/link/statute/96/2552); [Pub. L. 99–509, title IV, § 4033(b)(2)](https://www.govinfo.gov/link/plaw/99/public/509), (3), Oct. 21, 1986, [100 Stat. 1908](https://www.govinfo.gov/link/statute/100/1908).)*

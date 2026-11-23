@@ -3,9 +3,10 @@ title: "Section 2914 - Military construction projects for energy resilience, ene
 usc_title: 10
 usc_section: "2914"
 chapter: 173
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2914"
-generated_at: "2026-03-30T02:53:38.186Z"
+generated_at: "2026-11-23T20:25:51.771Z"
+status: "active"
 ---
 
 # § 2914. Military construction projects for energy resilience, energy security, and energy conservation
@@ -42,3 +43,19 @@ generated_at: "2026-03-30T02:53:38.186Z"
     - **(D)** Beginning with fiscal year 2026, documentation for any new requirements for cybersecurity supply chain risk management in annual guidance for covered projects that is submitted along with the annual budget request of the President submitted pursuant to section 1105 of title 31 .
   - **(3)** In this subsection, the term “covered project” means a project connected to a Department of Defense Information Network for which funds are made available under this section.
 - **(f)** This section shall apply to military construction projects covered by subsection (a) for which a Department of Defense Form 1391 is submitted to the appropriate committees of Congress in connection with the budget of the Department of Defense for fiscal year 2023 and thereafter.
+
+Project Authorization Required
+
+Submission of Project Proposals
+
+Alternative Funding Source
+
+Relation to Certain Other Authorities
+
+Incorporation of Cybersecurity Supply Chain Risk Management Tools and Methods
+
+Application to Military Construction Projects
+
+## Source Credit
+
+*(Added [Pub. L. 109–364, div. B, title XXVIII, § 2851(a)(1)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2493](https://www.govinfo.gov/link/statute/120/2493); amended [Pub. L. 114–328, div. B, title XXVIII, § 2805(a)(1)](https://www.govinfo.gov/link/plaw/114/public/328), (b)(1)(A), (2), Dec. 23, 2016, [130 Stat. 2713](https://www.govinfo.gov/link/statute/130/2713), 2714; [Pub. L. 115–91, div. B, title XXVIII](https://www.govinfo.gov/link/plaw/115/public/91), §§ 2801(e)(1), 2831(c)(1), Dec. 12, 2017, [131 Stat. 1845](https://www.govinfo.gov/link/statute/131/1845), 1857; [Pub. L. 115–232, div. A, title X, § 1081(a)(29)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1985](https://www.govinfo.gov/link/statute/132/1985); [Pub. L. 116–283, div. B, title XXVIII](https://www.govinfo.gov/link/plaw/116/public/283), §§ 2805(a), 2823(b), Jan. 1, 2021, [134 Stat. 4321](https://www.govinfo.gov/link/statute/134/4321), 4333; [Pub. L. 117–81, div. B, title XXVIII, § 2804](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2188](https://www.govinfo.gov/link/statute/135/2188); [Pub. L. 118–31, div. B, title XXVIII, § 2809](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 746](https://www.govinfo.gov/link/statute/137/746).)*

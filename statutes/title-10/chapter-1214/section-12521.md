@@ -3,9 +3,10 @@ title: "Section 12521 - Definitions"
 usc_title: 10
 usc_section: "12521"
 chapter: 1214
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 12521"
-generated_at: "2026-03-30T02:53:38.270Z"
+generated_at: "2026-11-23T20:25:52.441Z"
+status: "active"
 ---
 
 # § 12521. Definitions
@@ -21,3 +22,7 @@ In this chapter:
   - **(5)** The term “Department” means the Department of Defense.
   - **(6)** The term “Board of Actuaries” means the Department of Defense Board of Actuaries under section 183 of this title .
   - **(7)** The term “Fund” means the Reserve Mobilization Income Insurance Fund established by section 12528(a) of this title .
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. A, title V, § 512(a)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 299](https://www.govinfo.gov/link/statute/110/299); amended [Pub. L. 110–181, div. A, title IX, § 906(c)(4)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 277](https://www.govinfo.gov/link/statute/122/277).)*

@@ -3,9 +3,10 @@ title: "Section 2304 - Federal minimum standards for warranties"
 usc_title: 15
 usc_section: "2304"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2304"
-generated_at: "2026-03-30T02:54:08.171Z"
+generated_at: "2026-11-23T20:26:04.194Z"
+status: "active"
 ---
 
 # § 2304. Federal minimum standards for warranties
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:08.171Z"
 - **(c)** The performance of the duties under subsection (a) shall not be required of the warrantor if he can show that the defect, malfunction, or failure of any warranted consumer product to conform with a written warranty, was caused by damage (not resulting from defect or malfunction) while in the possession of the consumer, or unreasonable use (including failure to provide reasonable and necessary maintenance).
 - **(d)** For purposes of this section and of section 2302(c) of this title , the term “without charge” means that the warrantor may not assess the consumer for any costs the warrantor or his representatives incur in connection with the required remedy of a warranted consumer product. An obligation under subsection (a)(1)(A) to remedy without charge does not necessarily require the warrantor to compensate the consumer for incidental expenses; however, if any incidental expenses are incurred because the remedy is not made within a reasonable time or because the warrantor imposed an unreasonable duty upon the consumer as a condition of securing remedy, then the consumer shall be entitled to recover reasonable incidental expenses which are so incurred in any action against the warrantor.
 - **(e)** If a supplier designates a warranty applicable to a consumer product as a “full (statement of duration)” warranty, then the warranty on such product shall, for purposes of any action under section 2310(d) of this title or under any State law, be deemed to incorporate at least the minimum requirements of this section and rules prescribed under this section.
+
+## Source Credit
+
+*([Pub. L. 93–637, title I, § 104](https://www.govinfo.gov/link/plaw/93/public/637), Jan. 4, 1975, [88 Stat. 2187](https://www.govinfo.gov/link/statute/88/2187).)*

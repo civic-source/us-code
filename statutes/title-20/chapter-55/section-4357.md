@@ -3,9 +3,10 @@ title: "Section 4357 - Federal endowment programs for Gallaudet University and t
 usc_title: 20
 usc_section: "4357"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 4357"
-generated_at: "2026-03-30T02:54:48.183Z"
+generated_at: "2026-11-23T20:26:14.761Z"
+status: "active"
 ---
 
 # § 4357. Federal endowment programs for Gallaudet University and the National Technical Institute for the Deaf
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:54:48.183Z"
   - **(2)** In the case of NTID, there are authorized to be appropriated for the purposes of this section such sums as may be necessary for each of the fiscal years 2009 through 2014.
   - **(3)** Amounts appropriated under paragraph (1) or (2) shall remain available until expended.
 - **(i)** The provisions of this section shall take effect as if included in this chapter as enacted on August 4, 1986 .
+
+## Source Credit
+
+*([Pub. L. 99–371, title II, § 207](https://www.govinfo.gov/link/plaw/99/public/371), as added [Pub. L. 102–421, title I, § 137(2)](https://www.govinfo.gov/link/plaw/102/public/421), Oct. 16, 1992, [106 Stat. 2159](https://www.govinfo.gov/link/statute/106/2159); amended [Pub. L. 103–73, title II, § 204(f)](https://www.govinfo.gov/link/plaw/103/public/73), Aug. 11, 1993, [107 Stat. 735](https://www.govinfo.gov/link/statute/107/735); [Pub. L. 105–244, title IX, § 919](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1831](https://www.govinfo.gov/link/statute/112/1831); [Pub. L. 110–315, title IX, § 909](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3453](https://www.govinfo.gov/link/statute/122/3453).)*

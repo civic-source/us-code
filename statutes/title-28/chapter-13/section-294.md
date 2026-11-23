@@ -3,9 +3,10 @@ title: "Section 294 - Assignment of retired Justices or judges to active duty"
 usc_title: 28
 usc_section: "294"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 294"
-generated_at: "2026-03-30T02:55:30.127Z"
+generated_at: "2026-11-23T20:26:36.334Z"
+status: "active"
 ---
 
 # § 294. Assignment of retired Justices or judges to active duty
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:30.127Z"
 - **(c)** Any retired circuit or district judge may be designated and assigned by the chief judge or judicial council of his circuit to perform such judicial duties within the circuit as he is willing and able to undertake. Any other retired judge of the United States may be designated and assigned by the chief judge of his court to perform such judicial duties in such court as he is willing and able to undertake.
 - **(d)** The Chief Justice of the United States shall maintain a roster of retired judges of the United States who are willing and able to undertake special judicial duties from time to time outside their own circuit, in the case of a retired circuit or district judge, or in a court other than their own, in the case of other retired judges, which roster shall be known as the roster of senior judges. Any such retired judge of the United States may be designated and assigned by the Chief Justice to perform such judicial duties as he is willing and able to undertake in a court outside his own circuit, in the case of a retired circuit or district judge, or in a court other than his own, in the case of any other retired judge of the United States. Such designation and assignment to a court of appeals or district court shall be made upon the presentation of a certificate of necessity by the chief judge or circuit justice of the circuit wherein the need arises and to any other court of the United States upon the presentation of a certificate of necessity by the chief judge of such court. No such designation or assignment shall be made to the Supreme Court.
 - **(e)** No retired justice or judge shall perform judicial duties except when designated and assigned.
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 901](https://www.govinfo.gov/link/statute/62/901); July 9, 1956, ch. 517, § 1(c), [70 Stat. 497](https://www.govinfo.gov/link/statute/70/497); [Pub. L. 85–219](https://www.govinfo.gov/link/plaw/85/public/219), Aug. 29, 1957, [71 Stat. 495](https://www.govinfo.gov/link/statute/71/495); [Pub. L. 85–755, § 5](https://www.govinfo.gov/link/plaw/85/public/755), Aug. 25, 1958, [72 Stat. 849](https://www.govinfo.gov/link/statute/72/849); [Pub. L. 95–598, title II, § 206](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2660](https://www.govinfo.gov/link/statute/92/2660).)*

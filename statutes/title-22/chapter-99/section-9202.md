@@ -3,9 +3,10 @@ title: "Section 9202 - Definitions"
 usc_title: 22
 usc_section: "9202"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9202"
-generated_at: "2026-03-30T02:55:05.461Z"
+generated_at: "2026-11-23T20:26:32.755Z"
+status: "active"
 ---
 
 # § 9202. Definitions
@@ -62,3 +63,23 @@ In this chapter:
   - **(16)** The term “United States person” means—
     - **(A)** a United States citizen or an alien lawfully admitted for permanent residence to the United States; or
     - **(B)** an entity organized under the laws of the United States or of any jurisdiction within the United States, including a foreign branch of such an entity.
+
+In General
+
+Notification to Congress
+
+“Nothing in this title [see Short Title of 2017 Amendment note set out under section 9201 of this title ] shall be construed to limit—
+
+“In this title [see Short Title of 2017 Amendment note set out under section 9201 of this title ]:
+
+Applicable united nations security council resolution; luxury goods
+
+Appropriate congressional committees; government of north korea; united states person
+
+Foreign person; north korean person
+
+Prohibited weapons program
+
+## Source Credit
+
+*([Pub. L. 114–122, § 3](https://www.govinfo.gov/link/plaw/114/public/122), Feb. 18, 2016, [130 Stat. 95](https://www.govinfo.gov/link/statute/130/95); [Pub. L. 115–44, title III, § 302(a)](https://www.govinfo.gov/link/plaw/115/public/44), Aug. 2, 2017, [131 Stat. 940](https://www.govinfo.gov/link/statute/131/940); [Pub. L. 116–92, div. F, title LXXI, § 7122(b)(1)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2248](https://www.govinfo.gov/link/statute/133/2248).)*

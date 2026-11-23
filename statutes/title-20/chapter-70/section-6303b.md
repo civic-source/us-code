@@ -3,9 +3,10 @@ title: "Section 6303b - Direct student services"
 usc_title: 20
 usc_section: "6303b"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 6303b"
-generated_at: "2026-03-30T02:54:48.191Z"
+generated_at: "2026-11-23T20:26:14.811Z"
+status: "active"
 ---
 
 # § 6303b. Direct student services
@@ -66,3 +67,7 @@ generated_at: "2026-03-30T02:54:48.191Z"
   - **(3)** ensure that each local educational agency receiving an award is able to provide an adequate number of high-quality academic tutoring options to ensure parents have a meaningful choice of services;
   - **(4)** develop and implement procedures for monitoring the quality of services provided by direct student service providers; and
   - **(5)** establish and implement clear criteria describing the course of action for direct student service providers that are not successful in improving student academic outcomes, which, for a high-quality academic tutoring provider, may include a process to remove State approval under paragraph (2).
+
+## Source Credit
+
+*([Pub. L. 89–10, title I, § 1003A](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title I, § 1004](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1817](https://www.govinfo.gov/link/statute/129/1817).)*

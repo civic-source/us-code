@@ -3,9 +3,10 @@ title: "Section 283g - Muscular dystrophy; initiative through Director of Nation
 usc_title: 42
 usc_section: "283g"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 283g"
-generated_at: "2026-03-30T02:56:10.738Z"
+generated_at: "2026-11-23T20:27:20.203Z"
+status: "active"
 ---
 
 # § 283g. Muscular dystrophy; initiative through Director of National Institutes of Health
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:56:10.738Z"
     - **(E)** Information and education programs for health care professionals and the public.
 - **(f)** The Secretary shall, under subsection (a)(1), provide for a means through which the public can obtain information on the existing and planned programs and activities of the Department of Health and Human Services with respect to various forms of muscular dystrophy and through which the Secretary can receive comments from the public regarding such programs and activities.
 - **(g)** The Coordinating Committee may evaluate the potential need to enhance the clinical research infrastructure required to test emerging therapies for the various forms of muscular dystrophy by prioritizing the achievement of the goals related to this topic in the plan under subsection (e)(1).
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title IV, § 404E, as added [Pub. L. 107–84, § 3](https://www.govinfo.gov/link/plaw/107/public/84), Dec. 18, 2001, [115 Stat. 824](https://www.govinfo.gov/link/statute/115/824); amended [Pub. L. 109–482, title I](https://www.govinfo.gov/link/plaw/109/public/482), §§ 103(b)(4), 104(b)(1)(A), Jan. 15, 2007, [120 Stat. 3687](https://www.govinfo.gov/link/statute/120/3687), 3692; [Pub. L. 110–154, § 1(b)(3)](https://www.govinfo.gov/link/plaw/110/public/154), Dec. 21, 2007, [121 Stat. 1827](https://www.govinfo.gov/link/statute/121/1827); [Pub. L. 110–361, § 2](https://www.govinfo.gov/link/plaw/110/public/361), Oct. 8, 2008, [122 Stat. 4010](https://www.govinfo.gov/link/statute/122/4010); [Pub. L. 113–166, § 2](https://www.govinfo.gov/link/plaw/113/public/166), Sept. 26, 2014, [128 Stat. 1879](https://www.govinfo.gov/link/statute/128/1879).)*

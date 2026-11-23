@@ -3,9 +3,10 @@ title: "Section 8735 - Loan deficiency payments"
 usc_title: 7
 usc_section: "8735"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 8735"
-generated_at: "2026-03-30T02:53:42.479Z"
+generated_at: "2026-11-23T20:25:41.902Z"
+status: "active"
 ---
 
 # § 8735. Loan deficiency payments
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:42.479Z"
     - **(B)** the rate at which a marketing assistance loan for the loan commodity may be repaid under section 8734 of this title .
 - **(d)** This section shall not apply with respect to extra long staple cotton.
 - **(e)** The Secretary shall determine the amount of the loan deficiency payment to be made under this section to the producers on a farm with respect to a quantity of a loan commodity or commodity referred to in subsection (a)(2) using the payment rate in effect under subsection (c) as of the date the producers request the payment.
+
+## Source Credit
+
+*([Pub. L. 110–234, title I, § 1205](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 958](https://www.govinfo.gov/link/statute/122/958); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1205, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1686.)*

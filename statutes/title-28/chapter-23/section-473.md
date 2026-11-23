@@ -3,9 +3,10 @@ title: "Section 473 - Content of civil justice expense and delay reduction plans
 usc_title: 28
 usc_section: "473"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 473"
-generated_at: "2026-03-30T02:55:30.130Z"
+generated_at: "2026-11-23T20:26:36.353Z"
+status: "active"
 ---
 
 # § 473. Content of civil justice expense and delay reduction plans
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:55:30.130Z"
   - **(5)** a requirement that, upon notice by the court, representatives of the parties with authority to bind them in settlement discussions be present or available by telephone during any settlement conference; and
   - **(6)** such other features as the district court considers appropriate after considering the recommendations of the advisory group referred to in section 472(a) of this title .
 - **(c)** Nothing in a civil justice expense and delay reduction plan relating to the settlement authority provisions of this section shall alter or conflict with the authority of the Attorney General to conduct litigation on behalf of the United States, or any delegation of the Attorney General.
+
+## Source Credit
+
+*(Added [Pub. L. 101–650, title I, § 103(a)](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5091](https://www.govinfo.gov/link/statute/104/5091).)*

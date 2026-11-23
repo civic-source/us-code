@@ -3,9 +3,10 @@ title: "Section 80502 - Transportation of animals"
 usc_title: 49
 usc_section: "80502"
 chapter: 805
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 80502"
-generated_at: "2026-03-30T02:56:19.418Z"
+generated_at: "2026-11-23T20:27:35.449Z"
+status: "active"
 ---
 
 # § 80502. Transportation of animals
@@ -22,3 +23,39 @@ generated_at: "2026-03-30T02:56:19.418Z"
   - **(3)** is not liable for detaining the animals for a reasonable period to comply with subsection (a) of this section.
 - **(c)** This section does not apply when animals are transported in a vehicle or vessel in which the animals have food, water, space, and an opportunity for rest.
 - **(d)** A rail carrier, express carrier, or common carrier (except by air or water), a receiver, trustee, or lessee of one of those carriers, or an owner or master of a vessel that knowingly and willfully violates this section is liable to the United States Government for a civil penalty of at least $100 but not more than $500 for each violation. On learning of a violation, the Attorney General shall bring a civil action to collect the penalty in the district court of the United States for the judicial district in which the violation occurred or the defendant resides or does business.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 80502(a) | 45:71 (less 1st sentence 132d–153d words). | June 29, 1906, ch. 3594 , §§ 1–4, 34 Stat. 607 . |
+| 80502(b) | 45:71 (1st sentence 132d–153d words). |  |
+|  | 45:72. |  |
+| 80502(c) | 45:73 (proviso). |  |
+| 80502(d) | 45:73 (less proviso). |  |
+|  | 45:74. |  |
+
+
+Confinement
+
+Unloading, Feeding, Watering, and Rest
+
+Nonapplication
+
+Civil Penalty
+
+Historical and Revision Notes
+
+80502(a)
+
+June 29, 1906, ch. 3594
+
+34 Stat. 607
+
+80502(b)
+
+80502(c)
+
+80502(d)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1356](https://www.govinfo.gov/link/statute/108/1356).)*

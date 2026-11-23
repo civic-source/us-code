@@ -3,9 +3,10 @@ title: "Section 159g - Acquisition of lands"
 usc_title: 16
 usc_section: "159g"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 159g"
-generated_at: "2026-03-30T02:54:22.736Z"
+generated_at: "2026-11-23T20:26:19.374Z"
+status: "active"
 ---
 
 # § 159g. Acquisition of lands
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:22.736Z"
   - **(1)** An owner of improved property which is used solely for noncommercial residential purposes, or for commercial agricultural purposes found to be compatible with the General Management Plan, on the date of its acquisition by the Secretary may retain, as a condition of such an acquisition, a right of use and occupancy of the property for such residential or agricultural purposes. The right retained may be for a definite term which shall not exceed twenty-five years, or in lieu thereof, for a term ending at the death of the owner. The Secretary shall pay to the owner the fair market value of the property on the date of such acquisition, less the fair market value, of the term retained by the owner.
   - **(2)** Except for tract number 01–142, paragraph (1) shall not apply to property which the Secretary determines to be necessary for the purposes of administration, development, access, or public use.
 - **(f)** Any owner of lands or interests therein within the park who desires to have such lands or interests acquired by the Secretary may notify the Secretary in writing of such desire. It is the intention of the Congress that, upon receipt of such notification, and on the condition that such acquisition will transpire at fair market value and in accordance with other conditions acceptable to the Secretary, the Secretary shall endeavor to acquire such lands or interests therein within six months of the date of receipt of such notice from the owner.
+
+## Source Credit
+
+*([Pub. L. 97–460, § 2](https://www.govinfo.gov/link/plaw/97/public/460), Jan. 12, 1983, [96 Stat. 2520](https://www.govinfo.gov/link/statute/96/2520).)*

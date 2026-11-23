@@ -3,9 +3,10 @@ title: "Section 2702 - Voluntary disclosure of customer communications or record
 usc_title: 18
 usc_section: "2702"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2702"
-generated_at: "2026-03-30T02:54:16.507Z"
+generated_at: "2026-11-23T20:26:08.631Z"
+status: "active"
 ---
 
 # § 2702. Voluntary disclosure of customer communications or records
@@ -44,3 +45,15 @@ generated_at: "2026-03-30T02:54:16.507Z"
     - **(A)** voluntary disclosures under subsection (b)(8) were made to the Department of Justice; and
     - **(B)** the investigation pertaining to those disclosures was closed without the filing of criminal charges; and
   - **(3)** the number of accounts from which the Department of Justice has received voluntary disclosures under subsection (c)(4).
+
+Prohibitions
+
+Exceptions for disclosure of communications
+
+Exceptions for Disclosure of Customer Records
+
+Reporting of Emergency Disclosures
+
+## Source Credit
+
+*(Added [Pub. L. 99–508, title II, § 201[(a)]](https://www.govinfo.gov/link/plaw/99/public/508), Oct. 21, 1986, [100 Stat. 1860](https://www.govinfo.gov/link/statute/100/1860); amended [Pub. L. 100–690, title VII, § 7037](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4399](https://www.govinfo.gov/link/statute/102/4399); [Pub. L. 105–314, title VI, § 604(b)](https://www.govinfo.gov/link/plaw/105/public/314), Oct. 30, 1998, [112 Stat. 2984](https://www.govinfo.gov/link/statute/112/2984); [Pub. L. 107–56, title II, § 212(a)(1)](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 284](https://www.govinfo.gov/link/statute/115/284); [Pub. L. 107–296, title XXII, § 2207(d)(1)](https://www.govinfo.gov/link/plaw/107/public/296), formerly title II, § 225(d)(1), Nov. 25, 2002, [116 Stat. 2157](https://www.govinfo.gov/link/statute/116/2157), renumbered § 2207(d)(1), [Pub. L. 115–278, § 2(g)(2)(I)](https://www.govinfo.gov/link/plaw/115/public/278), Nov. 16, 2018, [132 Stat. 4178](https://www.govinfo.gov/link/statute/132/4178); [Pub. L. 108–21, title V, § 508(b)](https://www.govinfo.gov/link/plaw/108/public/21), Apr. 30, 2003, [117 Stat. 684](https://www.govinfo.gov/link/statute/117/684); [Pub. L. 109–177, title I, § 107(a)](https://www.govinfo.gov/link/plaw/109/public/177), (b)(1), (c), Mar. 9, 2006, [120 Stat. 202](https://www.govinfo.gov/link/statute/120/202), 203; [Pub. L. 110–401, title V, § 501(b)(2)](https://www.govinfo.gov/link/plaw/110/public/401), Oct. 13, 2008, [122 Stat. 4251](https://www.govinfo.gov/link/statute/122/4251); [Pub. L. 114–23, title VI, § 602(d)](https://www.govinfo.gov/link/plaw/114/public/23), June 2, 2015, [129 Stat. 295](https://www.govinfo.gov/link/statute/129/295); [Pub. L. 115–141, div. V, § 104(2)(A)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1216](https://www.govinfo.gov/link/statute/132/1216).)*

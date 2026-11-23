@@ -3,9 +3,10 @@ title: "Section 3807 - Congressional Oversight Group"
 usc_title: 19
 usc_section: "3807"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3807"
-generated_at: "2026-03-30T02:54:24.698Z"
+generated_at: "2026-11-23T20:26:11.103Z"
+status: "active"
 ---
 
 # § 3807. Congressional Oversight Group
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:24.698Z"
     - **(D)** after the applicable trade agreement is concluded, consultation regarding ongoing compliance and enforcement of negotiated commitments under the trade agreement; and
     - **(E)** the time frame for submitting the report required under section 3802(c)(8) of this title .
 - **(c)** Upon the request of a majority of the Congressional Oversight Group, the President shall meet with the Congressional Oversight Group before initiating negotiations with respect to a trade agreement, or at any other time concerning the negotiations.
+
+## Source Credit
+
+*([Pub. L. 107–210, div. B, title XXI, § 2107](https://www.govinfo.gov/link/plaw/107/public/210), Aug. 6, 2002, [116 Stat. 1017](https://www.govinfo.gov/link/statute/116/1017); [Pub. L. 109–280, title XIV, § 1635(f)(6)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1171](https://www.govinfo.gov/link/statute/120/1171).)*

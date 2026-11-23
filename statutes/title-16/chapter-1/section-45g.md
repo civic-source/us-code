@@ -3,9 +3,10 @@ title: "Section 45g - Addition to Sequoia National Park"
 usc_title: 16
 usc_section: "45g"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 45g"
-generated_at: "2026-03-30T02:54:22.728Z"
+generated_at: "2026-11-23T20:26:19.353Z"
+status: "active"
 ---
 
 # § 45g. Addition to Sequoia National Park
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:22.728Z"
     - **(A)** modify the boundaries of Sequoia National Park to include the land within the park; and
     - **(B)** administer the land as part of Sequoia National Park in accordance with all applicable laws; and
   - **(2)** the Secretary of Agriculture shall modify the boundaries of the Sequoia National Forest to exclude the land from the forest boundaries.
+
+## Source Credit
+
+*([Pub. L. 106–574, § 1](https://www.govinfo.gov/link/plaw/106/public/574), Dec. 28, 2000, [114 Stat. 3062](https://www.govinfo.gov/link/statute/114/3062).)*

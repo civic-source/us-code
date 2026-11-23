@@ -3,9 +3,10 @@ title: "Section 1492a - Study of electric rates in the insular areas"
 usc_title: 48
 usc_section: "1492a"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1492a"
-generated_at: "2026-03-30T02:56:14.587Z"
+generated_at: "2026-11-23T20:27:28.055Z"
+status: "active"
 ---
 
 # § 1492a. Study of electric rates in the insular areas
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:14.587Z"
 - **(e)** Not later than 1 year after the date on which the Secretary establishes the team and annually thereafter, the team shall submit to the Secretary a report detailing progress made in fulfilling its charge and in implementing the energy action plan.
 - **(f)** Not later than 30 days after the date on which the Secretary receives a report submitted by the team under subsection (e), the Secretary shall submit to the appropriate committees of Congress a summary of the report of the team.
 - **(g)** The energy action plan shall not be implemented until the Secretary approves the energy action plan.
+
+## Source Credit
+
+*([Pub. L. 113–235, § 9](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2133](https://www.govinfo.gov/link/statute/128/2133); [Pub. L. 114–187, title V, § 505(d)](https://www.govinfo.gov/link/plaw/114/public/187), June 30, 2016, [130 Stat. 602](https://www.govinfo.gov/link/statute/130/602).)*

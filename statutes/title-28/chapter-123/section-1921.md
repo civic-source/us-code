@@ -3,9 +3,10 @@ title: "Section 1921 - United States marshal’s fees"
 usc_title: 28
 usc_section: "1921"
 chapter: 123
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 1921"
-generated_at: "2026-03-30T02:55:30.146Z"
+generated_at: "2026-11-23T20:26:36.485Z"
+status: "active"
 ---
 
 # § 1921. United States marshal’s fees
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:30.146Z"
     - **(A)** the service of civil process, including complaints, summonses, subpoenas, and similar process; and
     - **(B)** seizures, levies, and sales associated with judicial orders of execution; and
   - **(2)** to use such credited amounts for the purpose of carrying out such activities.
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 955](https://www.govinfo.gov/link/statute/62/955); Sept. 9, 1950, ch. 937, [64 Stat. 824](https://www.govinfo.gov/link/statute/64/824); [Pub. L. 87–621, § 1](https://www.govinfo.gov/link/plaw/87/public/621), Aug. 31, 1962, [76 Stat. 417](https://www.govinfo.gov/link/statute/76/417); [Pub. L. 99–646, § 39(a)](https://www.govinfo.gov/link/plaw/99/public/646), Nov. 10, 1986, [100 Stat. 3600](https://www.govinfo.gov/link/statute/100/3600); [Pub. L. 100–690, title VII, § 7608(c)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4515](https://www.govinfo.gov/link/statute/102/4515); [Pub. L. 101–647, title XII, § 1212](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4833](https://www.govinfo.gov/link/statute/104/4833).)*

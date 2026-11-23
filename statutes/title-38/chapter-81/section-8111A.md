@@ -3,9 +3,10 @@ title: "Section 8111A - Furnishing of health-care services to members of the Arm
 usc_title: 38
 usc_section: "8111A"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 8111A"
-generated_at: "2026-03-30T02:55:53.537Z"
+generated_at: "2026-11-23T20:27:02.066Z"
+status: "active"
 ---
 
 # § 8111A. Furnishing of health-care services to members of the Armed Forces during a war or national emergency
@@ -33,3 +34,9 @@ generated_at: "2026-03-30T02:55:53.537Z"
   - **(1)** The Secretary of Veterans Affairs and the Secretary of Defense shall jointly review plans for the implementation of this section not less often than annually.
   - **(2)** Whenever a modification to such plans is agreed to, the Secretaries shall jointly submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on such modification. Any such report shall be submitted within 30 days after the modification is agreed to.
 - **(e)** The Secretary shall prescribe regulations to govern any exercise of the authority of the Secretary under subsections (a) and (b) of this section and of the Under Secretary for Health under subsection (b)(2)(A) of this section.
+
+“The Congress makes the following further findings:
+
+## Source Credit
+
+*(Added [Pub. L. 97–174, § 4(a)](https://www.govinfo.gov/link/plaw/97/public/174), May 4, 1982, [96 Stat. 74](https://www.govinfo.gov/link/statute/96/74), § 5011A; renumbered § 8111A, [Pub. L. 102–40, title IV, § 402(b)(1)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238); amended [Pub. L. 102–54, § 14(f)(4)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 287](https://www.govinfo.gov/link/statute/105/287); [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, [105 Stat. 404–406](https://www.govinfo.gov/link/statute/105/404); [Pub. L. 102–405, title III, § 302(c)(1)](https://www.govinfo.gov/link/plaw/102/public/405), Oct. 9, 1992, [106 Stat. 1984](https://www.govinfo.gov/link/statute/106/1984); [Pub. L. 104–262, title I, § 101(e)(5)](https://www.govinfo.gov/link/plaw/104/public/262), Oct. 9, 1996, [110 Stat. 3181](https://www.govinfo.gov/link/statute/110/3181); [Pub. L. 106–419, title IV, § 403(b)](https://www.govinfo.gov/link/plaw/106/public/419), Nov. 1, 2000, [114 Stat. 1864](https://www.govinfo.gov/link/statute/114/1864); [Pub. L. 107–135, title II, § 208(e)(7)](https://www.govinfo.gov/link/plaw/107/public/135), Jan. 23, 2002, [115 Stat. 2464](https://www.govinfo.gov/link/statute/115/2464); [Pub. L. 107–287, § 4(b)](https://www.govinfo.gov/link/plaw/107/public/287), Nov. 7, 2002, [116 Stat. 2029](https://www.govinfo.gov/link/statute/116/2029); [Pub. L. 109–444, § 8(a)(8)](https://www.govinfo.gov/link/plaw/109/public/444), Dec. 21, 2006, [120 Stat. 3313](https://www.govinfo.gov/link/statute/120/3313); [Pub. L. 109–461, title X](https://www.govinfo.gov/link/plaw/109/public/461), §§ 1004(a)(8), 1006(b), Dec. 22, 2006, [120 Stat. 3466](https://www.govinfo.gov/link/statute/120/3466), 3468; [Pub. L. 111–275, title X, § 1001(p)(1)](https://www.govinfo.gov/link/plaw/111/public/275), Oct. 13, 2010, [124 Stat. 2897](https://www.govinfo.gov/link/statute/124/2897).)*

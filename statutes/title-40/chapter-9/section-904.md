@@ -3,9 +3,10 @@ title: "Section 904 - Disposal"
 usc_title: 40
 usc_section: "904"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 904"
-generated_at: "2026-03-30T02:55:43.377Z"
+generated_at: "2026-11-23T20:26:56.564Z"
+status: "active"
 ---
 
 # § 904. Disposal
@@ -25,3 +26,33 @@ generated_at: "2026-03-30T02:55:43.377Z"
   - **(3)** Programming capital improvements and other major expenditures, based on a determination of relative urgency, together with definitive financial planning for expenditures in the earlier years of a program.
   - **(4)** Coordinating related plans and activities of state and local governments and agencies.
   - **(5)** Preparing regulatory and administrative measures to support activities described in this subsection.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 904(a), (b) | 40:532. | June 30, 1949, ch. 288 , title VIII, §§ 803, 806(c), as added Pub. L. 90–577, title V, § 501 , Oct. 16, 1968 , 82 Stat. 1105 . |
+| 904(c) | 40:535(c). |  |
+
+
+Notice to Local Government
+
+Notice to Prospective Purchasers
+
+Local Comprehensive Planning
+
+Historical and Revision Notes
+
+904(a), (b)
+
+June 30, 1949, ch. 288
+
+Pub. L. 90–577, title V, § 501
+
+Oct. 16, 1968
+
+82 Stat. 1105
+
+904(c)
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1128](https://www.govinfo.gov/link/statute/116/1128).)*

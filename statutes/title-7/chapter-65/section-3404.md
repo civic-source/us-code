@@ -3,9 +3,10 @@ title: "Section 3404 - Permissive terms and conditions of orders"
 usc_title: 7
 usc_section: "3404"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 3404"
-generated_at: "2026-03-30T02:53:42.403Z"
+generated_at: "2026-11-23T20:25:41.598Z"
+status: "active"
 ---
 
 # § 3404. Permissive terms and conditions of orders
@@ -17,3 +18,7 @@ Any order issued pursuant to this chapter shall contain one or more of the follo
 - **(c)** providing that processors, distributors of processed wheat, and end product manufacturers shall maintain and make available for inspection by the Secretary or the Council such books and records as may be required by any order issued pursuant to this title and for the filing of reports by such persons at the time, in the manner, and having the content prescribed by the order, to the end that information shall be made available to the Council and to the Secretary which are appropriate or necessary to the effectuation, administration, or enforcement of this chapter, or of any order or regulation issued pursuant to this chapter: Provided , That all information so obtained shall be kept confidential by all officers and employees of the Department, the Council, and by all officers and employees of contracting agencies having access to such information, and only such information so furnished or acquired as the Secretary deems relevant shall be disclosed by them, and then only in a suit or administrative hearing brought at the direction, or upon the request, of the Secretary, or to which the Secretary or any officer of the United States is a party, and involving the order with reference to which the information so to be disclosed was furnished or acquired. Nothing in this section shall be deemed to prohibit (1) the issuance of general statements based upon the reports of the number of persons subject to an order or statistical data collected therefrom, which statements do not identify the information furnished by any person, (2) the publication, by direction of the Secretary, of general statements relating to refunds made by the Council during any specific period, or (3) the publication by direction of the Secretary of the name of any person who has been adjudged to have violated any order, together with a statement of the particular provisions of the order violated by such person. Any such officer or employee of the Department, the Council, or a contracting agency violating the provisions of this clause shall, upon conviction, be subject to a fine of not more than $1,000 or to imprisonment for not more than one year, or both, and if an officer or employee of the Council or Department shall be removed from office;
 - **(d)** providing for exemption of specified end products, or types or categories thereof, from the assessments required to be paid under section 3405 of this title under such conditions and procedures as may be prescribed in the order or rules and regulations issued thereunder; and
 - **(e)** terms and conditions incidental to and not inconsistent with the terms and conditions specified in this chapter and necessary to effectuate the other provisions of such order.
+
+## Source Credit
+
+*([Pub. L. 95–113, title XVII, § 1705](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 1033](https://www.govinfo.gov/link/statute/91/1033).)*

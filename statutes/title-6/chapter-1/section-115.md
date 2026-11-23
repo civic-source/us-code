@@ -3,9 +3,10 @@ title: "Section 115 - Trade and customs revenue functions of the Department"
 usc_title: 6
 usc_section: "115"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 115"
-generated_at: "2026-03-30T02:53:09.443Z"
+generated_at: "2026-11-23T20:25:34.636Z"
+status: "active"
 ---
 
 # § 115. Trade and customs revenue functions of the Department
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:53:09.443Z"
     - **(C)** any comments or recommendations provided by the Commercial Operations Advisory Committee regarding such reorganization.
   - **(2)** Any congressional committee referred to in paragraph (1) may request that the Commercial Operations Advisory Committee provide a report to the committee analyzing the impact of the reorganization and providing any recommendations for modifying the reorganization.
   - **(3)** Not later than 1 year after any reorganization referred to in paragraph (1) takes place, the Secretary, in consultation with the Commercial Operations Advisory Committee, shall submit a report to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives. Such report shall include an assessment of the impact of, and any suggested modifications to, such reorganization.
+
+## Source Credit
+
+*([Pub. L. 109–347, title IV, § 401](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1921](https://www.govinfo.gov/link/statute/120/1921); [Pub. L. 114–125, title IX, § 902](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 223](https://www.govinfo.gov/link/statute/130/223).)*

@@ -3,9 +3,10 @@ title: "Section 2804 - Functions and powers of Secretaries"
 usc_title: 16
 usc_section: "2804"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 2804"
-generated_at: "2026-03-30T02:54:23.006Z"
+generated_at: "2026-11-23T20:26:20.620Z"
+status: "active"
 ---
 
 # § 2804. Functions and powers of Secretaries
@@ -32,3 +33,13 @@ generated_at: "2026-03-30T02:54:23.006Z"
     - **(D)** the Secretary of the Interior, in consultation with the Secretary of Commerce, shall undertake a study, and report to Congress thereon by December 31, 1987 , to identify exotic species introduced into the United States waters as a result of aquaculture activities, and to determine the potential benefits and impacts of the introduction of exotic species.
   - **(2)** Any production information submitted to the Secretaries under paragraph (1)(A) shall be confidential and may only be disclosed if required under court order. The Secretaries shall preserve such confidentiality. The Secretaries may release or make public any information in any aggregate or summary form that does not directly or indirectly disclose the identity, business transactions, or trade secrets of any person who submits such information.
 - **(d)** The Secretary, through the coordinating group and in consultation with the Secretary of Commerce and the Secretary of the Interior,, 1 1 So in original. shall prepare on a biennial basis, and submit to Congress, a report on the status of aquaculture in the United States. Such report shall contain a description and evaluation of the actions undertaken with respect to the Plan during the reporting period, an explanation of any revisions made to the Plan during the reporting period, and such other comments and recommendations as the Secretary deems appropriate. The report required by this subsection shall be submitted to the Congress not later than February 1, 1988 .
+
+In General
+
+Availability
+
+Use
+
+## Source Credit
+
+*([Pub. L. 96–362, § 5](https://www.govinfo.gov/link/plaw/96/public/362), Sept. 26, 1980, [94 Stat. 1201](https://www.govinfo.gov/link/statute/94/1201); [Pub. L. 96–561, title II, § 238(b)](https://www.govinfo.gov/link/plaw/96/public/561), Dec. 22, 1980, [94 Stat. 3300](https://www.govinfo.gov/link/statute/94/3300); [Pub. L. 99–198, title XVII, § 1735](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1642](https://www.govinfo.gov/link/statute/99/1642); [Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009](https://www.govinfo.gov/link/statute/110/3009), 3009–41.)*

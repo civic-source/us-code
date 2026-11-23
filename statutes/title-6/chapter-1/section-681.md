@@ -3,9 +3,10 @@ title: "Section 681 - Definitions"
 usc_title: 6
 usc_section: "681"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 681"
-generated_at: "2026-03-30T02:53:09.497Z"
+generated_at: "2026-11-23T20:25:34.848Z"
+status: "active"
 ---
 
 # § 681. Definitions
@@ -27,3 +28,7 @@ In this part:
   - **(9)** The term “significant cyber incident” means a cyber incident, or a group of related cyber incidents, that the Secretary determines is likely to result in demonstrable harm to the national security interests, foreign relations, or economy of the United States or to the public confidence, civil liberties, or public health and safety of the people of the United States.
   - **(10)** The term “virtual currency” means the digital representation of value that functions as a medium of exchange, a unit of account, or a store of value.
   - **(11)** The term “virtual currency address” means a unique public cryptographic key identifying the location to which a virtual currency payment can be made.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XXII, § 2240](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 117–103, div. Y, § 103(a)(2)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 1039](https://www.govinfo.gov/link/statute/136/1039); amended [Pub. L. 117–263, div. G, title LXXI, § 7143(b)(2)(N)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3661](https://www.govinfo.gov/link/statute/136/3661).)*

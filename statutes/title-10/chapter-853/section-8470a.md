@@ -3,9 +3,10 @@ title: "Section 8470a - Permanent professors: retirement for years of service; a
 usc_title: 10
 usc_section: "8470a"
 chapter: 853
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 8470a"
-generated_at: "2026-03-30T02:53:38.243Z"
+generated_at: "2026-11-23T20:25:52.207Z"
+status: "active"
 ---
 
 # § 8470a. Permanent professors: retirement for years of service; authority for deferral
@@ -20,3 +21,15 @@ generated_at: "2026-03-30T02:53:38.243Z"
 - **(d)** Each officer retired under this section—
   - **(1)** unless otherwise entitled to a higher grade, shall be retired in the grade determined under section 1370 1 1 See References in Text note below. of this title; and
   - **(2)** is entitled to retired pay computed under section 8333 of this title .
+
+Retirement for Years of Service
+
+Continuation on Active Duty
+
+Eligibility for Promotion
+
+Retired Grade and Retired Pay
+
+## Source Credit
+
+*(Added [Pub. L. 109–163, div. A, title V, § 509(b)(1)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3229](https://www.govinfo.gov/link/statute/119/3229), § 6970; renumbered § 6970a, [Pub. L. 110–181, div. A, title V, § 508(a)(1)(A)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 96](https://www.govinfo.gov/link/statute/122/96); renumbered § 8470a and amended [Pub. L. 115–232, div. A, title VIII](https://www.govinfo.gov/link/plaw/115/public/232), §§ 807(c)(1), 809(a), Aug. 13, 2018, [132 Stat. 1836](https://www.govinfo.gov/link/statute/132/1836), 1840.)*

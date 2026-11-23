@@ -3,9 +3,10 @@ title: "Section 3033a - Responsibilities of Assistant Secretary"
 usc_title: 42
 usc_section: "3033a"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3033a"
-generated_at: "2026-03-30T02:56:11.177Z"
+generated_at: "2026-11-23T20:27:22.230Z"
+status: "active"
 ---
 
 # § 3033a. Responsibilities of Assistant Secretary
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.177Z"
   - **(2)** The Assistant Secretary shall—
     - **(A)** make available to the public the results of each evaluation carried out under paragraph (1); and
     - **(B)** use such evaluation to improve services delivered, or the operation of projects and programs carried out, under this chapter, including preparing an analysis of such services, projects, and programs, and of how the evaluation relates to improvements in such services, projects, and programs and in the strategic plan of the Administration.
+
+## Source Credit
+
+*([Pub. L. 89–73, title IV, § 432](https://www.govinfo.gov/link/plaw/89/public/73), as added [Pub. L. 106–501, title IV, § 401](https://www.govinfo.gov/link/plaw/106/public/501), Nov. 13, 2000, [114 Stat. 2266](https://www.govinfo.gov/link/statute/114/2266); amended [Pub. L. 109–365, title IV, § 410](https://www.govinfo.gov/link/plaw/109/public/365), Oct. 17, 2006, [120 Stat. 2563](https://www.govinfo.gov/link/statute/120/2563).)*

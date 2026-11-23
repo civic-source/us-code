@@ -3,9 +3,10 @@ title: "Section 20144 - Justice for United States victims of state sponsored ter
 usc_title: 34
 usc_section: "20144"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 20144"
-generated_at: "2026-03-30T02:55:33.295Z"
+generated_at: "2026-11-23T20:26:50.586Z"
+status: "active"
 ---
 
 # § 20144. Justice for United States victims of state sponsored terrorism
@@ -167,3 +168,31 @@ generated_at: "2026-03-30T02:55:33.295Z"
     - **(A)** means a plaintiff, or estate or successor in interest thereof, who has an eligible claim under subsection (c) that arises out of the June 25, 1996 bombing of the Khobar Tower housing complex in Saudi Arabia; and
     - **(B)** includes a plaintiff, estate, or successor in interest described in subparagraph (A) who is a judgment creditor in the proceedings captioned Peterson v. Islamic Republic of Iran, No. 10 Vic. 2 4518 (S.D.N.Y.), or a Settling Judgment Creditor as identified in the order dated May 27, 2014 , in the proceedings captioned In Re 650 Fifth Avenue & Related Properties, No. 08 Vic. 2 10934 (S.D.N.Y. filed Dec. 17, 2008 ).
 - **(k)** The provisions of this section are severable. If any provision of this section, or any application thereof, is found unconstitutional, that finding shall not affect any provision or application of this section not so adjudicated.
+
+(aa) In general There are authorized to be appropriated and there are appropriated to the Fund such sums as are necessary to carry out this clause, to remain available until expended.
+
+(bb) Limitation Amounts appropriated pursuant to item (aa) may not be used for a purpose other than to make lump sum catch-up payments under this clause.
+
+(aa) In general There are authorized to be appropriated and there are appropriated to the lump sum catch-up payment reserve fund $3,000,000,000 to carry out this clause, to remain available until expended.
+
+(bb) Limitation Except as provided in subclause (IV), amounts appropriated pursuant to item (aa) may not be used for a purpose other than to make lump sum catch-up payments under this clause.
+
+(aa) In general The lump sum catch-up payment reserve fund established by this clause shall be terminated not later than 1 year after the Special Master disperses all lump sum catch-up payments pursuant to subclause (II).
+
+(bb) Remaining amounts All amounts remaining in the lump sum catch-up payment reserve fund in excess of the amounts described in subclauses (I) and (II) of clause (iii) shall be deposited into the Fund under this section.
+
+(aa) The percentage of proceeds attributable to any party identified as a Settling Judgment Creditor in the order dated April 16, 2014 , in such proceedings, who does not make an election (described in clause (iii)) to participate in the Fund.
+
+(bb) The percentage of proceeds attributable to the parties identified as the Hegna Judgment Creditors in such proceedings, unless and until a final judgment is entered denying the claims of such creditors.
+
+(aa) In the event that an adverse final judgment is entered in the proceedings captioned Peterson v. Islamic Republic of Iran, No. 10 Civ. 4518 (S.D.N.Y), prior to a final judgment being entered in the proceedings captioned In Re 650 Fifth Avenue & Related Properties, No. 08 Civ. 10934 (S.D.N.Y. filed Dec. 17, 2008 ), the Special Master shall release a portion of an eligible claimant’s conditional payment to such eligible claimant if the Special Master anticipates that such claimant will receive less than the amount of the conditional payment from any proceeds from a final judgment that is entered in favor of the plaintiffs in In Re 650 Fifth Avenue & Related Properties. Such portion shall not exceed the difference between the amount of the conditional payment and the amount the Special Master anticipates such claimant will receive from the proceeds of In Re 650 Fifth Avenue & Related Properties.
+
+(bb) In the event that a final judgment is entered in favor of the plaintiffs in the proceedings captioned Peterson v. Islamic Republic of Iran, No. 10 Civ. 4518 (S.D.N.Y) and funds are distributed, the payments allocated to claimants who applied for a conditional payment under this subparagraph shall be considered void, and any funds previously allocated to such conditional payments shall be made available and distributed to all other eligible claimants pursuant to subsection (d).
+
+Pro rata basis
+
+Limitations
+
+## Source Credit
+
+*([Pub. L. 114–113, div. O, title IV, § 404](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3007](https://www.govinfo.gov/link/statute/129/3007); [Pub. L. 116–69, div. B, title VII, § 1701(b)(1)](https://www.govinfo.gov/link/plaw/116/public/69), Nov. 21, 2019, [133 Stat. 1140](https://www.govinfo.gov/link/statute/133/1140); [Pub. L. 116–260, div. FF, title XVII, § 1705](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3293](https://www.govinfo.gov/link/statute/134/3293); [Pub. L. 117–328, div. MM, § 101(b)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 6106](https://www.govinfo.gov/link/statute/136/6106).)*

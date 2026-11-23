@@ -3,9 +3,10 @@ title: "Section 9801 - Definitions"
 usc_title: 5
 usc_section: "9801"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 9801"
-generated_at: "2026-03-30T02:52:56.073Z"
+generated_at: "2026-11-23T20:25:32.262Z"
+status: "active"
 ---
 
 # § 9801. Definitions
@@ -25,3 +26,7 @@ For purposes of this chapter—
   - **(7)** the term “redesignation bonus” means a bonus under section 9804 paid to an individual described in subsection (a)(2) thereof;
   - **(8)** the term “supervisor” has the meaning given such term by section 7103(a)(10); and
   - **(9)** the term “management official” has the meaning given such term by section 7103(a)(11).
+
+## Source Credit
+
+*(Added [Pub. L. 108–201, § 3(a)](https://www.govinfo.gov/link/plaw/108/public/201), Feb. 24, 2004, [118 Stat. 461](https://www.govinfo.gov/link/statute/118/461).)*

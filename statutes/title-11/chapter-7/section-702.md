@@ -3,9 +3,10 @@ title: "Section 702 - Election of trustee"
 usc_title: 11
 usc_section: "702"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 702"
-generated_at: "2026-03-30T02:53:53.880Z"
+generated_at: "2026-11-23T20:25:55.378Z"
+status: "active"
 ---
 
 # § 702. Election of trustee
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:53.880Z"
   - **(1)** creditors holding at least 20 percent in amount of the claims of a kind specified in subsection (a)(1) of this section that are held by creditors that may vote under subsection (a) of this section vote; and
   - **(2)** such candidate receives the votes of creditors holding a majority in amount of claims specified in subsection (a)(1) of this section that are held by creditors that vote for a trustee.
 - **(d)** If a trustee is not elected under this section, then the interim trustee shall serve as trustee in the case.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2604](https://www.govinfo.gov/link/statute/92/2604); [Pub. L. 97–222, § 7](https://www.govinfo.gov/link/plaw/97/public/222), July 27, 1982, [96 Stat. 237](https://www.govinfo.gov/link/statute/96/237); [Pub. L. 98–353, title III, § 472](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 380](https://www.govinfo.gov/link/statute/98/380).)*

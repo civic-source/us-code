@@ -3,9 +3,10 @@ title: "Section 1101 - Findings; purpose; and program authority"
 usc_title: 20
 usc_section: "1101"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1101"
-generated_at: "2026-03-30T02:54:48.141Z"
+generated_at: "2026-11-23T20:26:14.545Z"
+status: "active"
 ---
 
 # § 1101. Findings; purpose; and program authority
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:48.141Z"
   - **(1)** expand educational opportunities for, and improve the academic attainment of, Hispanic students; and
   - **(2)** expand and enhance the academic offerings, program quality, and institutional stability of colleges and universities that are educating the majority of Hispanic college students and helping large numbers of Hispanic students and other low-income individuals complete postsecondary degrees.
 - **(c)** The Secretary shall provide grants and related assistance to Hispanic-serving institutions to enable such institutions to improve and expand their capacity to serve Hispanic students and other low-income individuals.
+
+## Source Credit
+
+*([Pub. L. 89–329, title V, § 501](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title V, § 501](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1765](https://www.govinfo.gov/link/statute/112/1765).)*

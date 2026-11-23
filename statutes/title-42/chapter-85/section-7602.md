@@ -3,9 +3,10 @@ title: "Section 7602 - Definitions"
 usc_title: 42
 usc_section: "7602"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7602"
-generated_at: "2026-03-30T02:56:11.318Z"
+generated_at: "2026-11-23T20:27:22.930Z"
+status: "active"
 ---
 
 # § 7602. Definitions
@@ -45,3 +46,17 @@ When used in this chapter—
 - **(x)** The term “small source” means a source that emits less than 100 tons of regulated pollutants per year, or any class of persons that the Administrator determines, through regulation, generally lack technical ability or knowledge regarding control of air pollution.
 - **(y)** The term “Federal implementation plan” means a plan (or portion thereof) promulgated by the Administrator to fill all or a portion of a gap or otherwise correct all or a portion of an inadequacy in a State implementation plan, and which includes enforceable emission limitations or other control measures, means or techniques (including economic incentives, such as marketable permits or auctions of emissions allowances), and provides for attainment of the relevant national ambient air quality standard.
 - **(z)** The term “stationary source” means generally any source of an air pollutant except those emissions resulting directly from an internal combustion engine for transportation purposes or from a nonroad engine or nonroad vehicle as defined in section 7550 of this title .
+
+Indian Tribe
+
+and
+
+Small Source
+
+Federal Implementation Plan
+
+Stationary Source
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title III, § 302, formerly § 9, as added [Pub. L. 88–206, § 1](https://www.govinfo.gov/link/plaw/88/public/206), Dec. 17, 1963, [77 Stat. 400](https://www.govinfo.gov/link/statute/77/400), renumbered [Pub. L. 89–272, title I, § 101(4)](https://www.govinfo.gov/link/plaw/89/public/272), Oct. 20, 1965, [79 Stat. 992](https://www.govinfo.gov/link/statute/79/992); amended [Pub. L. 90–148, § 2](https://www.govinfo.gov/link/plaw/90/public/148), Nov. 21, 1967, [81 Stat. 504](https://www.govinfo.gov/link/statute/81/504); [Pub. L. 91–604, § 15(a)(1)](https://www.govinfo.gov/link/plaw/91/public/604), (c)(1), Dec. 31, 1970, [84 Stat. 1710](https://www.govinfo.gov/link/statute/84/1710), 1713; [Pub. L. 95–95, title II, § 218(c)](https://www.govinfo.gov/link/plaw/95/public/95), title III, § 301, Aug. 7, 1977, [91 Stat. 761](https://www.govinfo.gov/link/statute/91/761), 769; [Pub. L. 95–190, § 14(a)(76)](https://www.govinfo.gov/link/plaw/95/public/190), Nov. 16, 1977, [91 Stat. 1404](https://www.govinfo.gov/link/statute/91/1404); [Pub. L. 101–549, title I](https://www.govinfo.gov/link/plaw/101/public/549), §§ 101(d)(4), 107(a), (b), 108(j), 109(b), title III, § 302(e), title VII, § 709, Nov. 15, 1990, [104 Stat. 2409](https://www.govinfo.gov/link/statute/104/2409), 2464, 2468, 2470, 2574, 2684.)*

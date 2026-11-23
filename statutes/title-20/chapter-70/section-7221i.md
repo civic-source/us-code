@@ -3,9 +3,10 @@ title: "Section 7221i - Definitions"
 usc_title: 20
 usc_section: "7221i"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 7221i"
-generated_at: "2026-03-30T02:54:48.208Z"
+generated_at: "2026-11-23T20:26:14.890Z"
+status: "active"
 ---
 
 # § 7221i. Definitions
@@ -44,3 +45,7 @@ In this part:
     - **(C)** has demonstrated success in significantly increasing student academic achievement, including graduation rates where applicable, for all students served by the charter school; and
     - **(D)** has demonstrated success in increasing student academic achievement, including graduation rates where applicable, for each of the subgroups of students, as defined in section 6311(c)(2) of this title , except that such demonstration is not required in a case in which the number of students in a group is insufficient to yield statistically reliable information or the results would reveal personally identifiable information about an individual student.
   - **(9)** The term “replicate”, when used with respect to a high-quality charter school, means to open a new charter school, or a new campus of a high-quality charter school, based on the educational model of an existing high-quality charter school, under an existing charter or an additional charter, if permitted or required by State law.
+
+## Source Credit
+
+*([Pub. L. 89–10, title IV, § 4310](https://www.govinfo.gov/link/plaw/89/public/10), formerly title V, § 5210, as added [Pub. L. 107–110, title V, § 501](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1798](https://www.govinfo.gov/link/statute/115/1798); renumbered title IV, § 4310, and amended [Pub. L. 114–95, title IV](https://www.govinfo.gov/link/plaw/114/public/95), §§ 4001(b)(2)(A), (B), (D)(iii), 4301(4), Dec. 10, 2015, [129 Stat. 1967](https://www.govinfo.gov/link/statute/129/1967), 2012.)*

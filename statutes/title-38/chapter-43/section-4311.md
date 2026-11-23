@@ -3,9 +3,10 @@ title: "Section 4311 - Discrimination against persons who serve in the uniformed
 usc_title: 38
 usc_section: "4311"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 4311"
-generated_at: "2026-03-30T02:55:53.517Z"
+generated_at: "2026-11-23T20:27:01.934Z"
+status: "active"
 ---
 
 # § 4311. Discrimination against persons who serve in the uniformed services and acts of reprisal prohibited
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:53.517Z"
   - **(1)** under subsection (a), if the person’s membership, application for membership, service, application for service, or obligation for service in the uniformed services is a motivating factor in the employer’s action, unless the employer can prove that the action would have been taken in the absence of such membership, application for membership, service, application for service, or obligation for service; or
   - **(2)** under subsection (b), if the person’s (A) action to enforce a protection afforded any person under this chapter, (B) testimony or making of a statement in or in connection with any proceeding under this chapter, (C) assistance or other participation in an investigation under this chapter, or (D) exercise of a right provided for in this chapter, is a motivating factor in the employer’s action, unless the employer can prove that the action would have been taken in the absence of such person’s enforcement action, testimony, statement, assistance, participation, or exercise of a right.
 - **(d)** The prohibitions in subsections (a) and (b) shall apply to any position of employment, including a position that is described in section 4312(d)(1)(C) of this title .
+
+## Source Credit
+
+*(Added [Pub. L. 103–353, § 2(a)](https://www.govinfo.gov/link/plaw/103/public/353), Oct. 13, 1994, [108 Stat. 3153](https://www.govinfo.gov/link/statute/108/3153); amended [Pub. L. 104–275, title III, § 311(3)](https://www.govinfo.gov/link/plaw/104/public/275), Oct. 9, 1996, [110 Stat. 3334](https://www.govinfo.gov/link/statute/110/3334); [Pub. L. 118–210, title II, § 221(b)](https://www.govinfo.gov/link/plaw/118/public/210), Jan. 2, 2025, [138 Stat. 2778](https://www.govinfo.gov/link/statute/138/2778).)*

@@ -3,9 +3,10 @@ title: "Section 8669b - Senior Technical Authority for each naval vessel class"
 usc_title: 10
 usc_section: "8669b"
 chapter: 863
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 8669b"
-generated_at: "2026-03-30T02:53:38.247Z"
+generated_at: "2026-11-23T20:25:52.223Z"
+status: "active"
 ---
 
 # § 8669b. Senior Technical Authority for each naval vessel class
@@ -47,3 +48,41 @@ generated_at: "2026-03-30T02:53:38.247Z"
       - **(ii)** a class of craft undergoing a significant incremental change in its existing class (such as a next “flight” of destroyers or next “block” of attack submarines).
   - **(2)** The term “future-years defense program” has the meaning given that term in section 221 of this title .
   - **(3)** The term “Milestone A approval” means a decision to enter into technology maturation and risk reduction pursuant to guidance prescribed by the Secretary of Defense for the management of Department of Defense acquisition programs.
+
+Senior Technical Authority.—
+
+Designation for each vessel class required
+
+Individuals eligible for designation
+
+Term
+
+Voluntary departure
+
+Removal
+
+Reassignment for mission needs
+
+Responsibilities and Authority
+
+Limitation on Obligation of Funds on Lead Vessel in Vessel Class.—
+
+In general
+
+Certification elements
+
+Deadline for submittal of certification
+
+Definitions
+
+Exemption From Senior Technical Authority Requirements
+
+Limitation Relating to Office of the Chief Engineer
+
+Exceptions
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 116–92, div. A, title X, § 1034(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1580](https://www.govinfo.gov/link/statute/133/1580); amended [Pub. L. 116–283, div. A, title XVIII, § 1883(b)(2)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4294](https://www.govinfo.gov/link/statute/134/4294); [Pub. L. 119–60, div. A, title X, § 1013](https://www.govinfo.gov/link/plaw/119/public/60), div. A, title XVIII, § 1805(b)(2), Dec. 18, 2025, [139 Stat. 1030](https://www.govinfo.gov/link/statute/139/1030), 1236.)*

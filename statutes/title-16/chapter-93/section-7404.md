@@ -3,9 +3,10 @@ title: "Section 7404 - Authorization or denial of port entry"
 usc_title: 16
 usc_section: "7404"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 7404"
-generated_at: "2026-03-30T02:54:23.075Z"
+generated_at: "2026-11-23T20:26:20.842Z"
+status: "active"
 ---
 
 # § 7404. Authorization or denial of port entry
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:54:23.075Z"
   - **(1)** if they are essential to the safety or health of the crew or safety of the vessel;
   - **(2)** to allow, where appropriate, for the scrapping of the vessel; or
   - **(3)** pursuant to an inspection or other enforcement action.
+
+## Source Credit
+
+*([Pub. L. 114–81, title III, § 305](https://www.govinfo.gov/link/plaw/114/public/81), Nov. 5, 2015, [129 Stat. 666](https://www.govinfo.gov/link/statute/129/666).)*

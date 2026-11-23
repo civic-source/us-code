@@ -3,9 +3,10 @@ title: "Section 1 - Transparency and accountability"
 usc_title: 42
 usc_section: "1"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T02:56:11.128Z"
+generated_at: "2026-11-23T20:27:21.955Z"
+status: "active"
 ---
 
 # § 1862s–1. Transparency and accountability
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.128Z"
       - **(i)** reflects the statutory mission of the Foundation, as established in the National Science Foundation Act of 1950 ( 42 U.S.C. 1861 et seq.); and
       - **(ii)** addresses the Foundation’s intellectual merit and broader impacts criteria; and
     - **(B)** clearly identifying the research goals of the project in a manner that can be easily understood by both technical and non-technical audiences.
+
+## Source Credit
+
+*([Pub. L. 114–329, title I, § 102](https://www.govinfo.gov/link/plaw/114/public/329), Jan. 6, 2017, [130 Stat. 2971](https://www.govinfo.gov/link/statute/130/2971).)*

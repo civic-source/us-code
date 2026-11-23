@@ -3,9 +3,10 @@ title: "Section 1508 - Adjacent coastal States"
 usc_title: 33
 usc_section: "1508"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1508"
-generated_at: "2026-03-30T02:55:41.108Z"
+generated_at: "2026-11-23T20:26:54.090Z"
+status: "active"
 ---
 
 # § 1508. Adjacent coastal States
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:41.108Z"
   - **(2)** Any other State with an interest relating to a deepwater port proposed in an application shall have the opportunity to make its views known to, and shall be given full consideration by, the Secretary regarding the location, construction, and operation of the deepwater port.
 - **(c)** The Secretary shall not issue a license unless the adjacent coastal State to which the deepwater port is to be directly connected by pipeline has developed, or is making, at the time the application is submitted, reasonable progress toward developing an approved coastal zone management program pursuant to the Coastal Zone Management Act of 1972 [ 16 U.S.C. 1451 et seq.] in the area to be directly and primarily impacted by land and water development in the coastal zone resulting from such deepwater port. For the purposes of this chapter, a State shall be considered to be making reasonable progress if it is receiving a planning grant pursuant to section 305 of the Coastal Zone Management Act [ 16 U.S.C. 1454 ].
 - **(d)** The consent of Congress is given to two or more coastal States to negotiate and enter into agreements or compacts, not in conflict with any law or treaty of the United States, (1) to apply for a license for the ownership, construction, and operation of a deepwater port or for the transfer of such license, and (2) to establish such agencies, joint or otherwise, as are deemed necessary or appropriate for implementing and carrying out the provisions of any such agreement or compact. Such agreement or compact shall be binding and obligatory upon any State or party thereto without further approval by Congress.
+
+## Source Credit
+
+*([Pub. L. 93–627, § 9](https://www.govinfo.gov/link/plaw/93/public/627), Jan. 3, 1975, [88 Stat. 2136](https://www.govinfo.gov/link/statute/88/2136); [Pub. L. 118–31, div. C, title XXXV, § 3514(k)(6)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 818](https://www.govinfo.gov/link/statute/137/818).)*

@@ -3,9 +3,10 @@ title: "Section 3581 - Presumption of accessibility for statistical agencies and
 usc_title: 44
 usc_section: "3581"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "44 U.S.C. § 3581"
-generated_at: "2026-03-30T02:55:56.298Z"
+generated_at: "2026-11-23T20:27:03.843Z"
+status: "active"
 ---
 
 # § 3581. Presumption of accessibility for statistical agencies and units
@@ -20,3 +21,15 @@ generated_at: "2026-03-30T02:55:56.298Z"
   - **(3)** establish clear and consistent standards, to the extent possible, for complying with section 552a of title 5 (commonly known as the “Privacy Act of 1974”) and any other applicable law requiring the protection and confidentiality of individually identifiable information; and
   - **(4)** require a transparent process for statistical agencies and units to request data assets from agencies and for agencies to respond to such requests.
 - **(d)** Nothing in this section may be construed as altering existing intellectual property rights or the terms of any contract or other binding, written agreement.
+
+Accessibility of Data Assets
+
+Limitations
+
+Regulations
+
+Rule of Construction
+
+## Source Credit
+
+*(Added [Pub. L. 115–435, title III, § 303(a)](https://www.govinfo.gov/link/plaw/115/public/435), Jan. 14, 2019, [132 Stat. 5554](https://www.govinfo.gov/link/statute/132/5554).)*

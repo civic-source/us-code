@@ -3,9 +3,10 @@ title: "Section 2414 - Functions of the Center"
 usc_title: 15
 usc_section: "2414"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2414"
-generated_at: "2026-03-30T02:54:08.172Z"
+generated_at: "2026-11-23T20:26:04.198Z"
+status: "active"
 ---
 
 # § 2414. Functions of the Center
@@ -36,3 +37,7 @@ The Center shall—
   - **(13)** maintain liaison with organizations, both domestic and foreign, involved in efforts to improve productivity;
   - **(14)** determine the Nation’s needs for productivity-related management and analytical skills and to encourage and facilitate the development of training programs in such skills; and
   - **(15)** study the effects of materials availability upon productivity growth.
+
+## Source Credit
+
+*([Pub. L. 94–136, title II, § 204](https://www.govinfo.gov/link/plaw/94/public/136), Nov. 28, 1975, [89 Stat. 737](https://www.govinfo.gov/link/statute/89/737); 1978 Reorg. Plan No. 2, § 102, 43 F.R. 36037, [92 Stat. 3783](https://www.govinfo.gov/link/statute/92/3783).)*

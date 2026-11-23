@@ -3,9 +3,10 @@ title: "Section 78ccc - Securities Investor Protection Corporation"
 usc_title: 15
 usc_section: "78ccc"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 78ccc"
-generated_at: "2026-03-30T02:54:08.061Z"
+generated_at: "2026-11-23T20:26:03.574Z"
+status: "active"
 ---
 
 # § 78ccc. Securities Investor Protection Corporation
@@ -70,3 +71,7 @@ generated_at: "2026-03-30T02:54:08.061Z"
       - **(i)** upon the date of filing with the Commission, if such proposed rule change is designated by SIPC as relating solely to matters which the Commission, consistent with the public interest and the purposes of this subsection, determines by rule do not require the procedures set forth in this paragraph; or
       - **(ii)** upon such date as the Commission shall for good cause determine. Any proposed rule change which takes effect under this clause shall be filed promptly thereafter and reviewed in accordance with the provisions of subparagraph (A).
   - **(3)** The Commission may, by such rules as it determines to be necessary or appropriate in the public interest or to carry out the purposes of this chapter, require SIPC to adopt, amend, or repeal any SIPC bylaw or rule, whenever adopted.
+
+## Source Credit
+
+*([Pub. L. 91–598, § 3](https://www.govinfo.gov/link/plaw/91/public/598), Dec. 30, 1970, [84 Stat. 1637](https://www.govinfo.gov/link/statute/84/1637); [Pub. L. 95–283](https://www.govinfo.gov/link/plaw/95/public/283), §§ 2–5, May 21, 1978, [92 Stat. 249–251](https://www.govinfo.gov/link/statute/92/249); [Pub. L. 106–554, § 1(a)(5) [title II, § 203(d)(2)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–424.)*

@@ -3,9 +3,10 @@ title: "Section 4243 - Hospitalization of a person found not guilty only by reas
 usc_title: 18
 usc_section: "4243"
 chapter: 313
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 4243"
-generated_at: "2026-03-30T02:54:16.528Z"
+generated_at: "2026-11-23T20:26:08.790Z"
+status: "active"
 ---
 
 # § 4243. Hospitalization of a person found not guilty only by reason of insanity
@@ -38,3 +39,41 @@ generated_at: "2026-03-30T02:54:16.528Z"
       - **(ii)** create in favor of any person a cause of action against the United States or any officer or employee of the United States; or
       - **(iii)** limit in any manner or degree the ability of the Attorney General to move, transfer, or otherwise manage any person committed to the custody of the Attorney General.
   - **(3)** Subsections (f) and (g) and section 4247 shall apply to any person transferred to the custody of the Attorney General pursuant to this subsection.
+
+Determination of Present Mental Condition of Acquitted Person
+
+Psychiatric or Psychological Examination and Report
+
+Hearing
+
+Burden of Proof
+
+Determination and Disposition
+
+Discharge
+
+Revocation of Conditional Discharge
+
+Limitations on Furloughs
+
+Certain Persons Found Not Guilty by Reason of Insanity in the District of Columbia.—
+
+Transfer to custody of the attorney general
+
+Application.—
+
+In general
+
+Notice
+
+Order
+
+Effect
+
+Construction with other sections
+
+“Notwithstanding any provision of the District of Columbia Code or any other provision of law, the District of Columbia and St. Elizabeth’s Hospital—
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 855](https://www.govinfo.gov/link/statute/62/855); [Pub. L. 98–473, title II, § 403(a)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2059](https://www.govinfo.gov/link/statute/98/2059); [Pub. L. 100–690, title VII, § 7043](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4400](https://www.govinfo.gov/link/statute/102/4400); [Pub. L. 104–294, title III, § 301(a)](https://www.govinfo.gov/link/plaw/104/public/294), Oct. 11, 1996, [110 Stat. 3494](https://www.govinfo.gov/link/statute/110/3494).)*

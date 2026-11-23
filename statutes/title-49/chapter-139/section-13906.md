@@ -3,9 +3,10 @@ title: "Section 13906 - Security of motor carriers, motor private carriers, brok
 usc_title: 49
 usc_section: "13906"
 chapter: 139
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 13906"
-generated_at: "2026-03-30T02:56:19.330Z"
+generated_at: "2026-11-23T20:27:34.750Z"
+status: "active"
 ---
 
 # § 13906. Security of motor carriers, motor private carriers, brokers, and freight forwarders
@@ -85,3 +86,107 @@ generated_at: "2026-03-30T02:56:19.330Z"
 - **(d)** The Secretary may determine the type and amount of security filed under this section. A motor carrier may submit proof of qualifications as a self-insurer to satisfy the security requirements of this section. The Secretary shall adopt regulations governing the standards for approval as a self-insurer. Motor carriers which have been granted authority to self-insure as of January 1, 1996 , shall retain that authority unless, for good cause shown and after notice and an opportunity for a hearing, the Secretary finds that the authority must be revoked.
 - **(e)** The Secretary shall issue regulations requiring the submission to the Secretary of notices of insurance cancellation sufficiently in advance of actual cancellation so as to enable the Secretary to promptly revoke or suspend the registration of any carrier or broker after the effective date of the cancellation.
 - **(f)** The Secretary shall also prescribe the appropriate form of endorsement to be appended to policies of insurance and surety bonds which will subject the insurance policy or surety bond to the full security limits of the coverage required under this section.
+
+Motor Carrier Requirements.—
+
+Liability insurance requirement
+
+Security requirement
+
+Agency requirement
+
+Transportation insurance
+
+Broker Financial Security Requirements.—
+
+Requirements.—
+
+In general
+
+Use of a group surety bond, trust fund, or other surety
+
+Proof of trust or other financial security
+
+Scope of financial responsibility.—
+
+Payment of claims
+
+Response of surety providers to claims
+
+Costs and attorney’s fees
+
+Minimum financial security
+
+Cancellation notice
+
+Suspension
+
+Payment of claims in cases of financial failure or insolvency
+
+Penalties.—
+
+Civil actions
+
+Civil penalties
+
+Eligibility
+
+Deduction of costs prohibited
+
+Freight Forwarder Financial Security Requirements.—
+
+Requirements.—
+
+In general
+
+Use of a group surety bond, trust fund, or other financial security
+
+Surety bonds
+
+Proof of trust or other financial security
+
+Scope of financial responsibility.—
+
+Payment of claims
+
+Response of surety providers to claims
+
+Costs and attorney’s fees
+
+Freight forwarder insurance.—
+
+In general
+
+Liability insurance
+
+Cargo insurance
+
+Minimum financial security
+
+Cancellation notice
+
+Suspension
+
+Payment of claims in cases of financial failure or insolvency
+
+Penalties.—
+
+Civil actions
+
+Civil penalties
+
+Eligibility
+
+Deduction of costs prohibited
+
+Type of Insurance
+
+Notice of Cancellation of Insurance
+
+Form of Endorsement
+
+“The Secretary of Transportation shall continue to enforce the rules and regulations of the Interstate Commerce Commission, as in effect on July 1, 1995 , governing the qualifications for approval of a motor carrier as a self-insurer, until such time as the Secretary finds it in the public interest to revise such rules. The revised rules must provide for—
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 885](https://www.govinfo.gov/link/statute/109/885); amended [Pub. L. 104–287, § 5(34)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3392](https://www.govinfo.gov/link/statute/110/3392); [Pub. L. 109–59, title IV, § 4303(b)](https://www.govinfo.gov/link/plaw/109/public/59), (d)(1), Aug. 10, 2005, [119 Stat. 1762](https://www.govinfo.gov/link/statute/119/1762), 1763; [Pub. L. 112–141, div. C, title II, § 32918(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 822](https://www.govinfo.gov/link/statute/126/822); [Pub. L. 114–94, div. A, title V, § 5201](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1534](https://www.govinfo.gov/link/statute/129/1534).)*

@@ -3,9 +3,10 @@ title: "Section 19031 - Office of Research Security and Policy"
 usc_title: 42
 usc_section: "19031"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 19031"
-generated_at: "2026-03-30T02:56:11.537Z"
+generated_at: "2026-11-23T20:27:23.848Z"
+status: "active"
 ---
 
 # § 19031. Office of Research Security and Policy
@@ -20,3 +21,7 @@ The Director shall maintain a Research Security and Policy office within the Off
   - **(6)** performing risk assessments, in consultation, as appropriate, with other Federal agencies, of Foundation proposals and awards using analytical tools to assess nondisclosures of required information;
   - **(7)** establishing policies and procedures for identifying, communicating, and addressing security risks that threaten the integrity of Foundation-supported research and development, working in consultation, as appropriate, with other Federal agencies, to ensure compliance with National Security Presidential Memorandum–33 (relating to strengthening protections of United States Government-supported research and development against foreign government interference and exploitation) or a successor policy document; and
   - **(8)** in accordance with relevant policies of the agency, conducting or facilitating due diligence with regard to applications for research and development awards from the Foundation prior to making such awards.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10331](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1551](https://www.govinfo.gov/link/statute/136/1551).)*

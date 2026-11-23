@@ -3,9 +3,10 @@ title: "Section 1273 - National wild and scenic rivers system"
 usc_title: 16
 usc_section: "1273"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1273"
-generated_at: "2026-03-30T02:54:22.947Z"
+generated_at: "2026-11-23T20:26:20.424Z"
+status: "active"
 ---
 
 # § 1273. National wild and scenic rivers system
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:22.947Z"
   - **(1)** Wild river areas—Those rivers or sections of rivers that are free of impoundments and generally inaccessible except by trail, with watersheds or shorelines essentially primitive and waters unpolluted. These represent vestiges of primitive America.
   - **(2)** Scenic river areas—Those rivers or sections of rivers that are free of impoundments, with shorelines or watersheds still largely primitive and shorelines largely undeveloped, but accessible in places by roads.
   - **(3)** Recreational river areas—Those rivers or sections of rivers that are readily accessible by road or railroad, that may have some development along their shorelines, and that may have undergone some impoundment or diversion in the past.
+
+## Source Credit
+
+*([Pub. L. 90–542, § 2](https://www.govinfo.gov/link/plaw/90/public/542), Oct. 2, 1968, [82 Stat. 906](https://www.govinfo.gov/link/statute/82/906); [Pub. L. 94–407, § 1(1)](https://www.govinfo.gov/link/plaw/94/public/407), Sept. 11, 1976, [90 Stat. 1238](https://www.govinfo.gov/link/statute/90/1238); [Pub. L. 95–625, title VII, § 761](https://www.govinfo.gov/link/plaw/95/public/625), Nov. 10, 1978, [92 Stat. 3533](https://www.govinfo.gov/link/statute/92/3533); [Pub. L. 113–287, § 5(d)(29)](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3267](https://www.govinfo.gov/link/statute/128/3267).)*

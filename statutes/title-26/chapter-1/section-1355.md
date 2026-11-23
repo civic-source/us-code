@@ -3,9 +3,10 @@ title: "Section 1355 - Definitions and special rules"
 usc_title: 26
 usc_section: "1355"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1355"
-generated_at: "2026-03-30T02:55:27.769Z"
+generated_at: "2026-11-23T20:26:46.088Z"
+status: "active"
 ---
 
 # § 1355. Definitions and special rules
@@ -77,3 +78,7 @@ generated_at: "2026-03-30T02:55:27.769Z"
     - **(A)** The term “qualified zone domestic trade” means the transportation of goods or passengers between places in the qualified zone if such transportation is in the United States domestic trade.
     - **(B)** The term “qualified zone” means the Great Lakes Waterway and the St. Lawrence Seaway.
 - **(h)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
+
+## Source Credit
+
+*(Added [Pub. L. 108–357, title II, § 248(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1452](https://www.govinfo.gov/link/statute/118/1452); amended [Pub. L. 109–135, title IV, § 403(g)(1)(B)](https://www.govinfo.gov/link/plaw/109/public/135) –(2), Dec. 21, 2005, [119 Stat. 2624](https://www.govinfo.gov/link/statute/119/2624); [Pub. L. 109–222, title II, § 205(a)](https://www.govinfo.gov/link/plaw/109/public/222), May 17, 2006, [120 Stat. 350](https://www.govinfo.gov/link/statute/120/350); [Pub. L. 109–432, div. A, title IV](https://www.govinfo.gov/link/plaw/109/public/432), §§ 413(a), 415(a), Dec. 20, 2006, [120 Stat. 2963](https://www.govinfo.gov/link/statute/120/2963); [Pub. L. 115–141, div. U, title IV, § 401(a)(187)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1193](https://www.govinfo.gov/link/statute/132/1193).)*

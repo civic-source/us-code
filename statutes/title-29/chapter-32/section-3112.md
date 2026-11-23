@@ -3,9 +3,10 @@ title: "Section 3112 - Unified State plan"
 usc_title: 29
 usc_section: "3112"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3112"
-generated_at: "2026-03-30T02:55:18.749Z"
+generated_at: "2026-11-23T20:26:38.087Z"
+status: "active"
 ---
 
 # § 3112. Unified State plan
@@ -85,3 +86,15 @@ generated_at: "2026-03-30T02:55:18.749Z"
     - **(A)** At the end of the first 2-year period of any 4-year unified State plan, the State board shall review the unified State plan, and the Governor shall submit modifications to the plan to reflect changes in labor market and economic conditions or in other factors affecting the implementation of the unified State plan.
     - **(B)** A modified unified State plan submitted for the review required under subparagraph (A) shall be subject to the approval requirements described in paragraph (2). A Governor may submit a modified unified State plan at such other times as the Governor determines to be appropriate, and such modified unified State plan shall also be subject to the approval requirements described in paragraph (2).
   - **(4)** The Secretary of Labor, in conjunction with the Secretary of Education, shall establish a process for approving and may approve unified State plans that meet the requirements of this section and are submitted to cover periods commencing prior to the second full program year described in paragraph (1)(A).
+
+(aa) activities under section 3321(b) of this title ;
+
+(bb) programs for corrections education under section 3305 of this title ;
+
+(cc) programs for integrated English literacy and civics education under section 3333 of this title ; and
+
+(dd) integrated education and training;
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 102](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1444](https://www.govinfo.gov/link/statute/128/1444); [Pub. L. 114–18, § 2(e)(1)](https://www.govinfo.gov/link/plaw/114/public/18), May 22, 2015, [129 Stat. 213](https://www.govinfo.gov/link/statute/129/213); [Pub. L. 114–95, title IX, § 9215(yyy)(2)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2191](https://www.govinfo.gov/link/statute/129/2191).)*

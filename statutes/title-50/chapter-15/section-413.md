@@ -3,9 +3,10 @@ title: "Section 413 - Transferred"
 usc_title: 50
 usc_section: "413"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 413"
-generated_at: "2026-03-30T02:56:26.200Z"
+generated_at: "2026-11-23T20:27:30.716Z"
+status: "transferred"
 ---
 
 # § 413. Transferred

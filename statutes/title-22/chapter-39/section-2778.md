@@ -3,9 +3,10 @@ title: "Section 2778 - Control of arms exports and imports"
 usc_title: 22
 usc_section: "2778"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2778"
-generated_at: "2026-03-30T02:55:05.386Z"
+generated_at: "2026-11-23T20:26:32.415Z"
+status: "active"
 ---
 
 # § 2778. Control of arms exports and imports
@@ -195,3 +196,239 @@ generated_at: "2026-03-30T02:55:05.386Z"
   - **(8)**
     - **(A)** Any exemption described in paragraph (2) shall terminate on the date that is 15 years after December 22, 2023 .
     - **(B)** The Secretary of State may renew such exemption for 5 years upon a certification to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives that such exemption is in the vital national interest of the United States with a detailed justification for such certification.
+
+(aa) for use by an agency of the United States Government; or
+
+(bb) for carrying out any foreign assistance or sales program authorized by law and subject to the control of the President by other means.
+
+Requirement to Review Excluded Technology List.—
+
+In general
+
+Report
+
+Appropriate Congressional Committees Defined
+
+In general
+
+Initial report
+
+Report on expedited review of export licenses for exports of advanced technologies
+
+In general
+
+Scope
+
+Consultation
+
+Repeal
+
+Additional Determination and Report
+
+Prohibition.—
+
+In general
+
+Countries described
+
+Waiver
+
+Presumption of Denial
+
+Report.—
+
+In general
+
+Form
+
+In General
+
+Committees of Congress Specified
+
+In General
+
+Matters to Be Included
+
+In General
+
+Report
+
+In General
+
+Effective Date
+
+In General
+
+Additional Rule
+
+Appropriate congressional committees
+
+State sponsor of terrorism
+
+United states munitions list
+
+In General
+
+Covered Amendments.—
+
+In general
+
+U.S.-UK implementing arrangement
+
+U.S.-Australia implementing arrangement
+
+Congressional Notification for Other Amendments To Implementing Arrangements
+
+Objective
+
+Establishment of an Electronic System
+
+Munitions List Defined
+
+Licensing regime.—
+
+Establishment
+
+Requirements
+
+Additional requirements
+
+Financial and Personnel Resources
+
+Improvement and Assessment
+
+Annual Report
+
+Contents of Report
+
+Additional Requirement for First Report
+
+Support of Other Agencies
+
+Classified and Unclassified Reports
+
+Definition
+
+Office of Defense Trade Controls.—
+
+In general
+
+Availability of existing appropriations
+
+Defense Threat Reduction Agency
+
+Updating of State Department Report
+
+Monitoring of Information
+
+Transmission to Other Agencies
+
+Retention of Records
+
+Guidelines
+
+New International Controls
+
+Improved Sharing of Information
+
+Definition
+
+In General
+
+Annual Report on Implementation of Satellite Technology Safeguards
+
+Consultation During Review of Applications
+
+Advisory Group
+
+Intelligence Community Defined
+
+Notice to Congress of Investigations
+
+Notice to Congress of Certain Export Waivers
+
+Exception
+
+Identification of Persons Subject to Investigation
+
+Protection of Classified and Other Sensitive Information
+
+Statutory Construction
+
+Definitions
+
+Certification
+
+Exception
+
+Defense Trade Controls Registration Fees
+
+Effective Date
+
+Report
+
+Actions by the President
+
+Mandatory technology control plans
+
+Mandatory monitors and reimbursement.—
+
+Monitoring of proposed foreign launch of satellites
+
+Contents of monitoring
+
+Mandatory licenses for crash-investigations
+
+Mandatory notification and certification
+
+Mandatory intelligence community review
+
+Mandatory sharing of approved licenses and agreements
+
+Mandatory notification to congress on licenses
+
+Mandatory reporting on monitoring activities
+
+Establishing safeguards program
+
+Exception
+
+Effective Date
+
+Requirement for Report
+
+Militarily Sensitive Characteristics Defined
+
+“The amendments made by this section [amending Pub. L. 105–261, § 1512 , set out above] shall take effect on the later of—
+
+Findings
+
+Statement of Policy
+
+Moratorium on Transfers of Anti-Personnel Landmines Abroad
+
+Definition
+
+Implementation of the Regime.—
+
+Continuing negotiations
+
+Proposing a temporary moratorium during negotiations
+
+Purpose of the Regime
+
+Achieving the Purposes of the Regime.—
+
+Controlling proliferation of conventional weapons
+
+Halting proliferation of unconventional weapons
+
+Promotion of regional arms control agreements
+
+Major Military Equipment
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 90–629](https://www.govinfo.gov/link/plaw/90/public/629), ch. 3, § 38, as added [Pub. L. 94–329, title II, § 212(a)(1)](https://www.govinfo.gov/link/plaw/94/public/329), June 30, 1976, [90 Stat. 744](https://www.govinfo.gov/link/statute/90/744); amended [Pub. L. 95–92, § 20](https://www.govinfo.gov/link/plaw/95/public/92), Aug. 4, 1977, [91 Stat. 623](https://www.govinfo.gov/link/statute/91/623); [Pub. L. 96–70, title III, § 3303(a)(4)](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 499](https://www.govinfo.gov/link/statute/93/499); [Pub. L. 96–72, § 22(a)](https://www.govinfo.gov/link/plaw/96/public/72), Sept. 29, 1979, [93 Stat. 535](https://www.govinfo.gov/link/statute/93/535); [Pub. L. 96–92, § 21](https://www.govinfo.gov/link/plaw/96/public/92), Oct. 29, 1979, [93 Stat. 710](https://www.govinfo.gov/link/statute/93/710); [Pub. L. 96–533, title I, § 107(a)](https://www.govinfo.gov/link/plaw/96/public/533), (c), Dec. 16, 1980, [94 Stat. 3136](https://www.govinfo.gov/link/statute/94/3136); [Pub. L. 97–113, title I](https://www.govinfo.gov/link/plaw/97/public/113), §§ 106, 107, Dec. 29, 1981, [95 Stat. 1522](https://www.govinfo.gov/link/statute/95/1522); [Pub. L. 99–64, title I, § 123(a)](https://www.govinfo.gov/link/plaw/99/public/64), July 12, 1985, [99 Stat. 156](https://www.govinfo.gov/link/statute/99/156); [Pub. L. 99–83, title I, § 119(a)](https://www.govinfo.gov/link/plaw/99/public/83), (b), Aug. 8, 1985, [99 Stat. 203](https://www.govinfo.gov/link/statute/99/203), 204; [Pub. L. 100–202, § 101(b) [title VIII, § 8142(a)]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–43](https://www.govinfo.gov/link/statute/101/1329), 1329–88; [Pub. L. 100–204, title XII, § 1255](https://www.govinfo.gov/link/plaw/100/public/204), Dec. 22, 1987, [101 Stat. 1429](https://www.govinfo.gov/link/statute/101/1429); [Pub. L. 101–222](https://www.govinfo.gov/link/plaw/101/public/222), §§ 3(a), 6, Dec. 12, 1989, [103 Stat. 1896](https://www.govinfo.gov/link/statute/103/1896), 1899; [Pub. L. 103–236, title VII, § 714(a)(1)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 497](https://www.govinfo.gov/link/statute/108/497); [Pub. L. 104–164, title I](https://www.govinfo.gov/link/plaw/104/public/164), §§ 151(a), 156, July 21, 1996, [110 Stat. 1437](https://www.govinfo.gov/link/statute/110/1437), 1440; [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XII, § 1225(a)(2), Oct. 21, 1998, [112 Stat. 2681–773](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XIII, §§ 1302(a), 1303, 1304]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–510, 1501A–511; [Pub. L. 106–280, title I, § 102(a)](https://www.govinfo.gov/link/plaw/106/public/280), (b), Oct. 6, 2000, [114 Stat. 846](https://www.govinfo.gov/link/statute/114/846), 848; [Pub. L. 107–228, div. B, title XIV, § 1406](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1458](https://www.govinfo.gov/link/statute/116/1458); [Pub. L. 108–458, title VI, § 6910](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3774](https://www.govinfo.gov/link/statute/118/3774); [Pub. L. 111–195, title I, § 107(a)(2)](https://www.govinfo.gov/link/plaw/111/public/195), July 1, 2010, [124 Stat. 1337](https://www.govinfo.gov/link/statute/124/1337); [Pub. L. 111–266, title I](https://www.govinfo.gov/link/plaw/111/public/266), §§ 102(b)–103(c), Oct. 8, 2010, [124 Stat. 2797](https://www.govinfo.gov/link/statute/124/2797), 2799; [Pub. L. 113–276, title II](https://www.govinfo.gov/link/plaw/113/public/276), §§ 204, 205, 208(a)(1), (3), (b)(1)(A), Dec. 18, 2014, [128 Stat. 2990–2993](https://www.govinfo.gov/link/statute/128/2990); [Pub. L. 117–263, div. I, title XCVII, § 9708](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3918](https://www.govinfo.gov/link/statute/136/3918); [Pub. L. 118–31, div. A, title XIII](https://www.govinfo.gov/link/plaw/118/public/31), §§ 1343(a), 1345(a), Dec. 22, 2023, [137 Stat. 510](https://www.govinfo.gov/link/statute/137/510), 514; [Pub. L. 119–60, div. A, title X, § 1085(b)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1054](https://www.govinfo.gov/link/statute/139/1054).)*

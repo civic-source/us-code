@@ -3,9 +3,10 @@ title: "Section 2259 - Transit pass program: personnel in poor air quality areas
 usc_title: 10
 usc_section: "2259"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2259"
-generated_at: "2026-03-30T02:53:38.151Z"
+generated_at: "2026-11-23T20:25:51.519Z"
+status: "active"
 ---
 
 # § 2259. Transit pass program: personnel in poor air quality areas
@@ -14,3 +15,11 @@ generated_at: "2026-03-30T02:53:38.151Z"
 - **(b)** In this section, the term “poor air quality area” means an area—
   - **(1)** that is subject to the national ambient air quality standards promulgated by the Administrator of the Environmental Protection Agency under section 109 of the Clean Air Act ( 42 U.S.C. 7409 ); and
   - **(2)** that, as determined by the Administrator of the Environmental Protection Agency, is a nonattainment area with respect to any of those standards.
+
+Establishment of Program
+
+Poor Air Quality Areas
+
+## Source Credit
+
+*(Added [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title X, § 1082(a)(1)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–285; amended [Pub. L. 116–283, div. A, title IX, § 924(b)(1)(O)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3820](https://www.govinfo.gov/link/statute/134/3820).)*

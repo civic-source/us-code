@@ -3,9 +3,10 @@ title: "Section 1826j - Illegal, unreported, or unregulated fishing"
 usc_title: 16
 usc_section: "1826j"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1826j"
-generated_at: "2026-03-30T02:54:22.986Z"
+generated_at: "2026-11-23T20:26:20.557Z"
+status: "active"
 ---
 
 # § 1826j. Illegal, unreported, or unregulated fishing
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:54:22.986Z"
     - **(B)** overfishing of fish stocks shared by the United States, for which there are no applicable international conservation or management measures or in areas with no applicable international fishery management organization or agreement, that has adverse impacts on such stocks; and
     - **(C)** fishing activity that has an adverse impact on seamounts, hydrothermal vents, and cold water corals located beyond national jurisdiction, for which there are no applicable conservation or management measures or in areas with no applicable international fishery management organization or agreement.
 - **(f)** There are authorized to be appropriated to the Secretary for fiscal years 2007 through 2013 such sums as are necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 104–43, title VI, § 609](https://www.govinfo.gov/link/plaw/104/public/43), as added [Pub. L. 109–479, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3628](https://www.govinfo.gov/link/statute/120/3628); amended [Pub. L. 111–348, title I, § 102(b)](https://www.govinfo.gov/link/plaw/111/public/348), Jan. 4, 2011, [124 Stat. 3669](https://www.govinfo.gov/link/statute/124/3669); [Pub. L. 114–81, title I, § 101(c)](https://www.govinfo.gov/link/plaw/114/public/81), (e), (g)(1), (2), (i)(2)–(4), Nov. 5, 2015, [129 Stat. 654](https://www.govinfo.gov/link/statute/129/654), 655; [Pub. L. 114–327, title IV, § 401(c)](https://www.govinfo.gov/link/plaw/114/public/327), Dec. 16, 2016, [130 Stat. 1995](https://www.govinfo.gov/link/statute/130/1995); [Pub. L. 117–263, div. K, title CXIII, § 11337](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4102](https://www.govinfo.gov/link/statute/136/4102); [Pub. L. 117–328, div. S, title IV, § 401(1)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5274](https://www.govinfo.gov/link/statute/136/5274).)*

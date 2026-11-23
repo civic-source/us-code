@@ -3,9 +3,10 @@ title: "Section 17 - Corps of Engineers Western Water Cooperative Committee"
 usc_title: 33
 usc_section: "17"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 17"
-generated_at: "2026-03-30T02:55:41.068Z"
+generated_at: "2026-11-23T20:26:53.888Z"
+status: "active"
 ---
 
 # § 701b–17. Corps of Engineers Western Water Cooperative Committee
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:55:41.068Z"
     - **(A)** Nothing in this section provides authority to the Cooperative Committee to affect any Federal or State water law or interstate compact governing water.
     - **(B)** Nothing in this section may be interpreted, by negative implication or otherwise, as suggesting that States not represented on the Cooperative Committee have lesser interest or authority, in relation to Western States, in managing the water within their borders or in vindicating State water rights and water laws.
 - **(b)** In this section, the term “Western States” means the States of Alaska, Arizona, California, Colorado, Idaho, Kansas, Montana, Nebraska, Nevada, New Mexico, North Dakota, Oklahoma, Oregon, South Dakota, Texas, Utah, Washington, and Wyoming.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. H, title LXXXI, § 8158](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3738](https://www.govinfo.gov/link/statute/136/3738).)*

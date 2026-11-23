@@ -3,9 +3,10 @@ title: "Section 662 - Guarantee of certificates"
 usc_title: 45
 usc_section: "662"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 662"
-generated_at: "2026-03-30T02:55:56.553Z"
+generated_at: "2026-11-23T20:27:05.291Z"
+status: "active"
 ---
 
 # § 662. Guarantee of certificates
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:56.553Z"
 - **(d)** A certificate under this chapter shall bear interest at such per annum rate as the Secretary deems reasonable, taking into account the range of interest rates prevailing in the private market for similar loans and the risks assumed by the Federal Government; nor may its maturity date, including all extensions and renewals thereof, be later than fifteen years from the date of original issuance. The Secretary may prescribe such other terms and conditions as he deems appropriate. In each case, the Secretary shall consider the feasibility of requiring the railroad to dispose of nonrailroad assets as a condition to a guarantee.
 - **(e)** At any one time the outstanding aggregate principal amount of all certificates guaranteed under this chapter shall not exceed $200,000,000.
 - **(f)** The Secretary shall issue such rules and regulations as are appropriate to carry out the authority granted by this chapter.
+
+## Source Credit
+
+*([Pub. L. 91–663, § 3](https://www.govinfo.gov/link/plaw/91/public/663), Jan. 8, 1971, [84 Stat. 1975](https://www.govinfo.gov/link/statute/84/1975); [Pub. L. 95–598, title III, § 333](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2679](https://www.govinfo.gov/link/statute/92/2679); [Pub. L. 95–611, § 3(b)](https://www.govinfo.gov/link/plaw/95/public/611), Nov. 8, 1978, [92 Stat. 3089](https://www.govinfo.gov/link/statute/92/3089); [Pub. L. 96–86, § 115(a)](https://www.govinfo.gov/link/plaw/96/public/86), Oct. 12, 1979, [93 Stat. 662](https://www.govinfo.gov/link/statute/93/662); [Pub. L. 96–101, § 7(a)](https://www.govinfo.gov/link/plaw/96/public/101) –(c), Nov. 4, 1979, [93 Stat. 739](https://www.govinfo.gov/link/statute/93/739), 740; [Pub. L. 104–88, title III, § 325(2)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 951](https://www.govinfo.gov/link/statute/109/951).)*

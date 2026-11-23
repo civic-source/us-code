@@ -3,9 +3,10 @@ title: "Section 1861 - Enforcement"
 usc_title: 16
 usc_section: "1861"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1861"
-generated_at: "2026-03-30T02:54:22.992Z"
+generated_at: "2026-11-23T20:26:20.570Z"
+status: "active"
 ---
 
 # § 1861. Enforcement
@@ -69,3 +70,7 @@ generated_at: "2026-03-30T02:54:22.992Z"
 - **(j)** For purposes of this section—
   - **(1)** The term “provisions of this chapter” includes (A) any regulation or permit issued pursuant to this chapter, and (B) any provision of, or regulation issued pursuant to, any international fishery agreement under which foreign fishing is authorized by section 1821(b) or (c) of this title, or section 1824(d) of this title , with respect to fishing subject to the exclusive fishery management authority of the United States.
   - **(2)** The term “violation of any provision of this chapter” includes (A) the commission of any act prohibited by section 1857 of this title , and (B) the violation of any regulation, permit, or agreement referred to in paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 94–265, title III, § 311](https://www.govinfo.gov/link/plaw/94/public/265), Apr. 13, 1976, [90 Stat. 358](https://www.govinfo.gov/link/statute/90/358); [Pub. L. 96–470, title II, § 209(e)](https://www.govinfo.gov/link/plaw/96/public/470), Oct. 19, 1980, [94 Stat. 2245](https://www.govinfo.gov/link/statute/94/2245); [Pub. L. 97–453](https://www.govinfo.gov/link/plaw/97/public/453), §§ 13, 15(c), Jan. 12, 1983, [96 Stat. 2491](https://www.govinfo.gov/link/statute/96/2491), 2493; [Pub. L. 99–659, title I](https://www.govinfo.gov/link/plaw/99/public/659), §§ 101(c)(2), 109(b), Nov. 14, 1986, [100 Stat. 3707](https://www.govinfo.gov/link/statute/100/3707), 3714; [Pub. L. 101–627, title I, § 117](https://www.govinfo.gov/link/plaw/101/public/627), Nov. 28, 1990, [104 Stat. 4456](https://www.govinfo.gov/link/statute/104/4456); [Pub. L. 102–251, title III, § 301(i)](https://www.govinfo.gov/link/plaw/102/public/251), Mar. 9, 1992, [106 Stat. 64](https://www.govinfo.gov/link/statute/106/64); [Pub. L. 102–567, title IX, § 901](https://www.govinfo.gov/link/plaw/102/public/567), Oct. 29, 1992, [106 Stat. 4316](https://www.govinfo.gov/link/statute/106/4316); [Pub. L. 104–297, title I, § 115](https://www.govinfo.gov/link/plaw/104/public/297), Oct. 11, 1996, [110 Stat. 3599](https://www.govinfo.gov/link/statute/110/3599); [Pub. L. 109–479, title I, § 111(a)](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3596](https://www.govinfo.gov/link/statute/120/3596); [Pub. L. 114–120, title VI, § 609](https://www.govinfo.gov/link/plaw/114/public/120), Feb. 8, 2016, [130 Stat. 83](https://www.govinfo.gov/link/statute/130/83).)*

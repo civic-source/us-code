@@ -3,9 +3,10 @@ title: "Section 15091 - Findings, purposes, and policy"
 usc_title: 42
 usc_section: "15091"
 chapter: 144
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 15091"
-generated_at: "2026-03-30T02:56:11.458Z"
+generated_at: "2026-11-23T20:27:23.557Z"
+status: "active"
 ---
 
 # § 15091. Findings, purposes, and policy
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.458Z"
   - **(3)** to promote and develop interagency coordination and collaboration between agencies responsible for providing the services; and
   - **(4)** to increase the availability of, funding for, access to, and provision of family support services for families of children with disabilities.
 - **(c)** It is the policy of the United States that all programs, projects, and activities funded under this subchapter shall be family-centered and family-directed, and shall be provided in a manner consistent with the goal of providing families of children with disabilities with the support the families need to raise their children at home.
+
+## Source Credit
+
+*([Pub. L. 106–402, title II, § 202](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1728](https://www.govinfo.gov/link/statute/114/1728).)*

@@ -3,9 +3,10 @@ title: "Section 9812 - Annual leave enhancements"
 usc_title: 5
 usc_section: "9812"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 9812"
-generated_at: "2026-03-30T02:52:56.074Z"
+generated_at: "2026-11-23T20:25:32.264Z"
+status: "active"
 ---
 
 # § 9812. Annual leave enhancements
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:52:56.074Z"
 - **(c)**
   - **(1)** Notwithstanding section 6303(a), the annual leave accrual rate for an employee of the Administration in a position paid under section 5376 or 5383, or for an employee in an equivalent category whose rate of basic pay is greater than the rate payable at GS–15, step 10, shall be 1 day for each full biweekly pay period.
   - **(2)** The accrual rate established under this subsection shall continue to apply to the employee so long as such employee serves in or under the Administration.
+
+## Source Credit
+
+*(Added [Pub. L. 108–201, § 3(a)](https://www.govinfo.gov/link/plaw/108/public/201), Feb. 24, 2004, [118 Stat. 472](https://www.govinfo.gov/link/statute/118/472).)*

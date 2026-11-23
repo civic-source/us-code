@@ -3,9 +3,10 @@ title: "Section 3313 - Compliance with certificate of inspection"
 usc_title: 46
 usc_section: "3313"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 3313"
-generated_at: "2026-03-30T02:56:15.543Z"
+generated_at: "2026-11-23T20:27:27.074Z"
+status: "active"
 ---
 
 # § 3313. Compliance with certificate of inspection
@@ -18,3 +19,16 @@ generated_at: "2026-03-30T02:56:15.543Z"
   - **(4)** if necessary, the certificate shall be suspended or revoked.
 - **(c)** The vessel’s certificate of inspection shall be revoked if a condition unsafe to life that is ordered to be corrected under this section is not corrected at once.
 - **(d)** The owner, charterer, managing operator, agent, master, or individual in charge of a vessel whose certificate has been suspended or revoked shall be given written notice immediately of the suspension or revocation. The owner or master may appeal to the Secretary the suspension or revocation within 30 days of receiving the notice, as provided by regulations prescribed by the Secretary.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 3313 | 46:390c 46:391a(8) 46:435 |
+
+
+Historical and Revision Notes
+
+3313
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 515](https://www.govinfo.gov/link/statute/97/515).)*

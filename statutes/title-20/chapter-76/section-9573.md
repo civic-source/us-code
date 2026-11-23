@@ -3,9 +3,10 @@ title: "Section 9573 - Confidentiality"
 usc_title: 20
 usc_section: "9573"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 9573"
-generated_at: "2026-03-30T02:54:48.229Z"
+generated_at: "2026-11-23T20:26:14.995Z"
+status: "active"
 ---
 
 # § 9573. Confidentiality
@@ -41,3 +42,9 @@ generated_at: "2026-03-30T02:54:48.229Z"
     - **(A)** An application under paragraph (1) shall certify that there are specific and articulable facts giving reason to believe that the information sought is described in paragraph (1)(A).
     - **(B)** The court shall issue an order described in paragraph (1) if the court finds that the application for the order includes the certification described in subparagraph (A).
   - **(3)** An officer or employee of the Department who, in good faith, produces information in accordance with an order issued under this subsection does not violate subsection (b)(2) 1 1 So in original. Probably means subsection (d)(2). and shall not be liable to any person for that production.
+
+In general
+
+## Source Credit
+
+*([Pub. L. 107–279, title I, § 183](https://www.govinfo.gov/link/plaw/107/public/279), title IV, § 401(a)(6), Nov. 5, 2002, [116 Stat. 1972](https://www.govinfo.gov/link/statute/116/1972), 1983.)*

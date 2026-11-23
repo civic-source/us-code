@@ -3,9 +3,10 @@ title: "Section 2815a - Stormwater management, shoreline erosion control, and wa
 usc_title: 10
 usc_section: "2815a"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2815a"
-generated_at: "2026-03-30T02:53:38.177Z"
+generated_at: "2026-11-23T20:25:51.724Z"
+status: "active"
 ---
 
 # § 2815a. Stormwater management, shoreline erosion control, and water resilience projects for installations and defense access roads
@@ -60,3 +61,21 @@ generated_at: "2026-03-30T02:53:38.177Z"
     - **(A)** the Secretary of a military department with respect to military installations under the jurisdiction of that Secretary; and
     - **(B)** the Secretary of Defense with respect to matters concerning the Defense Agencies and facilities of a reserve component owned by a State rather than the United States.
   - **(6)** The term “water resilience” means the capacity of a military installation to mitigate, respond, or adapt to changes in water availability due to manmade or natural phenomena.
+
+Projects Authorized
+
+Project Methods and Funding Sources
+
+Project Priorities
+
+Project Activities
+
+Project Coordination
+
+Annual Report
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 117–81, div. B, title XXVIII, § 2803](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2186](https://www.govinfo.gov/link/statute/135/2186); amended [Pub. L. 118–159, div. B, title XXVIII, § 2847](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2264](https://www.govinfo.gov/link/statute/138/2264).)*

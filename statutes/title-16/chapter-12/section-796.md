@@ -3,9 +3,10 @@ title: "Section 796 - Definitions"
 usc_title: 16
 usc_section: "796"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 796"
-generated_at: "2026-03-30T02:54:22.910Z"
+generated_at: "2026-11-23T20:26:20.278Z"
+status: "active"
 ---
 
 # § 796. Definitions
@@ -69,3 +70,23 @@ The words defined in this section shall have the following meanings for purposes
     - **(A)** to exercise operational or functional control of facilities used for the transmission of electric energy in interstate commerce; and
     - **(B)** to ensure nondiscriminatory access to the facilities. 3 3 So in original. The period probably should be “; and”.
   - **(29)** The term “Transmission Organization” means a Regional Transmission Organization, Independent System Operator, independent transmission provider, or other transmission organization finally approved by the Commission for the operation of transmission facilities.
+
+Electric utility
+
+Transmitting utility
+
+Wholesale transmission services
+
+Exempt wholesale generator
+
+Electric cooperative
+
+Transmission organization
+
+Transmitting utility
+
+“Unless the Federal Energy Regulatory Commission otherwise specifies, by rule after enactment of this Act [ Nov. 15, 1990 ], any eligible solar, wind, waste, or geothermal facility (as defined in section 3(17)(E) of the Federal Power Act as amended by this Act [ 16 U.S.C. 796(17)(E) ]), which is a qualifying small power production facility (as defined in subparagraph (C) of section 3(17) of the Federal Power Act as amended by this Act)—
+
+## Source Credit
+
+*(June 10, 1920, ch. 285, pt. I, § 3, [41 Stat. 1063](https://www.govinfo.gov/link/statute/41/1063); renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§ 201, 212, [49 Stat. 838](https://www.govinfo.gov/link/statute/49/838), 847; [Pub. L. 95–617, title II, § 201](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3134](https://www.govinfo.gov/link/statute/92/3134); [Pub. L. 96–294, title VI, § 643(a)(1)](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 770](https://www.govinfo.gov/link/statute/94/770); [Pub. L. 101–575, § 3](https://www.govinfo.gov/link/plaw/101/public/575), Nov. 15, 1990, [104 Stat. 2834](https://www.govinfo.gov/link/statute/104/2834); [Pub. L. 102–46](https://www.govinfo.gov/link/plaw/102/public/46), May 17, 1991, [105 Stat. 249](https://www.govinfo.gov/link/statute/105/249); [Pub. L. 102–486, title VII, § 726](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2921](https://www.govinfo.gov/link/statute/106/2921); [Pub. L. 109–58, title XII](https://www.govinfo.gov/link/plaw/109/public/58), §§ 1253(b), 1291(b), Aug. 8, 2005, [119 Stat. 970](https://www.govinfo.gov/link/statute/119/970), 984.)*

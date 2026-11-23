@@ -3,9 +3,10 @@ title: "Section 410rrr - First State National Historical Park"
 usc_title: 16
 usc_section: "410rrr"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 410rrr"
-generated_at: "2026-03-30T02:54:22.783Z"
+generated_at: "2026-11-23T20:26:19.806Z"
+status: "active"
 ---
 
 # § 410rrr. First State National Historical Park
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:54:22.783Z"
 - **(d)**
   - **(1)** Not later than 3 years after the date on which funds are made available to carry out this section, the Secretary shall complete a study assessing the historical significance of additional properties in the State of Delaware that are associated with the purposes of historical park.
   - **(2)** The study prepared under paragraph (1) shall include an assessment of the potential for designating the additional properties as National Historic Landmarks.
+
+## Source Credit
+
+*([Pub. L. 113–291, div. B, title XXX, § 3033](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3775](https://www.govinfo.gov/link/statute/128/3775).)*

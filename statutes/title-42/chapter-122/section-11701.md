@@ -3,9 +3,10 @@ title: "Section 11701 - Findings"
 usc_title: 42
 usc_section: "11701"
 chapter: 122
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11701"
-generated_at: "2026-03-30T02:56:11.404Z"
+generated_at: "2026-11-23T20:27:23.319Z"
+status: "active"
 ---
 
 # § 11701. Findings
@@ -36,3 +37,7 @@ The Congress finds that:
   - **(20)** The United States has also recognized and reaffirmed the trust relationship to the Hawaiian people through legislation which authorizes the provision of services to Native Hawaiians, specifically, the Older Americans Act of 1965 [ 42 U.S.C. 3001 et seq.], the Developmental Disabilities Assistance and Bill of Rights Act Amendments of 1987, the Veterans’ Benefits and Services Act of 1988, the Rehabilitation Act of 1973 [ 29 U.S.C. 701 et seq.], the Native Hawaiian Health Care Act of 1988, the Health Professions Reauthorization Act of 1988, the Nursing Shortage Reduction and Education Extension Act of 1988, the Handicapped Programs Technical Amendments Act of 1988, the Indian Health Care Amendments of 1988, and the Disadvantaged Minority Health Improvement Act of 1990.
   - **(21)** The United States has also affirmed the historical and unique legal relationship to the Hawaiian people by authorizing the provision of services to Native Hawaiians to address problems of alcohol and drug abuse under the Anti-Drug Abuse Act of 1986.
   - **(22)** Despite such services, the unmet health needs of the Native Hawaiian people are severe and the health status of Native Hawaiians continues to be far below that of the general population of the United States.
+
+## Source Credit
+
+*([Pub. L. 100–579, § 2](https://www.govinfo.gov/link/plaw/100/public/579), Oct. 31, 1988, [102 Stat. 2916](https://www.govinfo.gov/link/statute/102/2916); [Pub. L. 100–690, title II, § 2302](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4223](https://www.govinfo.gov/link/statute/102/4223); [Pub. L. 102–396, title IX, § 9168](https://www.govinfo.gov/link/plaw/102/public/396), Oct. 6, 1992, [106 Stat. 1948](https://www.govinfo.gov/link/statute/106/1948).)*

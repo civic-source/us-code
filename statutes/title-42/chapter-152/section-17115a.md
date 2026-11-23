@@ -3,9 +3,10 @@ title: "Section 17115a - Development of national smart manufacturing plan"
 usc_title: 42
 usc_section: "17115a"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17115a"
-generated_at: "2026-03-30T02:56:11.497Z"
+generated_at: "2026-11-23T20:27:23.728Z"
+status: "active"
 ---
 
 # § 17115a. Development of national smart manufacturing plan
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:56:11.497Z"
   - **(4)** model, simulate, and optimize the design of energy efficient and sustainable products, including the use of digital prototyping and additive manufacturing to enhance product design;
   - **(5)** connect manufactured products in networks to monitor and optimize the performance of the networks, including automated network operations; and
   - **(6)** digitally connect the supply chain network.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. Z, title VI, § 6006](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2560](https://www.govinfo.gov/link/statute/134/2560).)*

@@ -3,9 +3,10 @@ title: "Section 9807 - Biennial reports and congressional consultation"
 usc_title: 22
 usc_section: "9807"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9807"
-generated_at: "2026-03-30T02:55:05.473Z"
+generated_at: "2026-11-23T20:26:32.802Z"
+status: "active"
 ---
 
 # § 9807. Biennial reports and congressional consultation
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:05.473Z"
   - **(3)** Descriptions of progress made towards achieving specific targets, metrics, and indicators for each priority country and region.
   - **(4)** Descriptions of any changes made to programs based on the results of assessment, monitoring, and evaluation for each priority country and region.
 - **(b)** The Secretary of State, the Administrator of the United States Agency for International Development, and the Secretary of Defense shall provide to any appropriate congressional committee briefings on the implementation of this chapter upon the request of any such committee.
+
+## Source Credit
+
+*([Pub. L. 116–94, div. J, title V, § 508](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3065](https://www.govinfo.gov/link/statute/133/3065).)*

@@ -3,9 +3,10 @@ title: "Section 7120 - Standards of conduct for labor organizations"
 usc_title: 5
 usc_section: "7120"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 7120"
-generated_at: "2026-03-30T02:52:56.036Z"
+generated_at: "2026-11-23T20:25:32.054Z"
+status: "active"
 ---
 
 # § 7120. Standards of conduct for labor organizations
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:52:56.036Z"
 - **(f)** In the case of any labor organization which by omission or commission has willfully and intentionally, with regard to any strike, work stoppage, or slowdown, violated section 7116(b)(7) of this title , the Authority shall, upon an appropriate finding by the Authority of such violation—
   - **(1)** revoke the exclusive recognition status of the labor organization, which shall then immediately cease to be legally entitled and obligated to represent employees in the unit; or
   - **(2)** take any other appropriate disciplinary action.
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title VII, § 701](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1210](https://www.govinfo.gov/link/statute/92/1210).)*

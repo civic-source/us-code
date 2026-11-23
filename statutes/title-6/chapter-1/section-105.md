@@ -3,9 +3,10 @@ title: "Section 105 - Biodefense analysis and budget submission"
 usc_title: 6
 usc_section: "105"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 105"
-generated_at: "2026-03-30T02:53:09.443Z"
+generated_at: "2026-11-23T20:25:34.633Z"
+status: "active"
 ---
 
 # § 105. Biodefense analysis and budget submission
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:09.443Z"
   - **(1)** the display of all funds requested for biodefense activities, both mandatory and discretionary, by agency and categorized by biodefense enterprise element, such as threat awareness, prevention, deterrence, preparedness, surveillance and detection, response, attribution (including bioforensic capabilities), recovery, and mitigation; and
   - **(2)** detailed explanations of how each program and activity included aligns with biodefense goals and objectives as part of the National Biodefense Strategy required under section 104 of this title .
 - **(d)** The Director, in consultation with the Secretary of Health and Human Services, shall submit to Congress the analysis required under subsection (a) for a fiscal year concurrently with the President’s annual budget request for that fiscal year.
+
+## Source Credit
+
+*([Pub. L. 116–283, div. A, title III, § 363](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3547](https://www.govinfo.gov/link/statute/134/3547).)*

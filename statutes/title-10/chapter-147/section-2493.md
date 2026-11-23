@@ -3,9 +3,10 @@ title: "Section 2493 - Fisher Houses: administration as nonappropriated fund ins
 usc_title: 10
 usc_section: "2493"
 chapter: 147
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2493"
-generated_at: "2026-03-30T02:53:38.161Z"
+generated_at: "2026-11-23T20:25:51.602Z"
+status: "active"
 ---
 
 # § 2493. Fisher Houses: administration as nonappropriated fund instrumentality
@@ -40,3 +41,27 @@ generated_at: "2026-03-30T02:53:38.161Z"
     - **(B)** may impose fees relating to the use of such Fisher Houses and Fisher Suites.
   - **(2)** All monetary donations, and the proceeds of the disposal of any other donated property, accepted by the Secretary of a military department under this subsection shall be credited to the fund established under subsection (d) for the Fisher Houses and Fisher Suites associated with facilities of that military department and shall be available to that Secretary to support all such Fisher Houses and Fisher Suites.
 - **(f)** The Secretary of a military department may provide base operating support for Fisher Houses associated with facilities of that military department.
+
+Fisher Houses and Suites Defined
+
+Nonappropriated Fund Instrumentality
+
+Governance
+
+Central Fund
+
+Acceptance of Contributions; Imposition of Fees
+
+Base Operating Support
+
+Establishment of Funds
+
+Funding Transition
+
+Reporting Requirements
+
+Availability of Transferred Amounts
+
+## Source Credit
+
+*(Added [Pub. L. 105–261, div. A, title IX, § 906(a)(1)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2093](https://www.govinfo.gov/link/statute/112/2093); amended [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title IX, § 914(a)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–230; [Pub. L. 107–314, div. A, title III, § 321](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2510](https://www.govinfo.gov/link/statute/116/2510); [Pub. L. 112–81, div. A, title X, § 1061(17)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1584](https://www.govinfo.gov/link/statute/125/1584); [Pub. L. 112–239, div. A, title VI, § 652(a)](https://www.govinfo.gov/link/plaw/112/public/239), (b), Jan. 2, 2013, [126 Stat. 1784](https://www.govinfo.gov/link/statute/126/1784); [Pub. L. 114–92, div. A, title VI, § 622(b)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 841](https://www.govinfo.gov/link/statute/129/841); [Pub. L. 117–263, div. A, title VI, § 626(c)(7)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2628](https://www.govinfo.gov/link/statute/136/2628).)*

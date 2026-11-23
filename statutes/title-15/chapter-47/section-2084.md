@@ -3,9 +3,10 @@ title: "Section 2084 - Information reporting"
 usc_title: 15
 usc_section: "2084"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2084"
-generated_at: "2026-03-30T02:54:08.166Z"
+generated_at: "2026-11-23T20:26:04.169Z"
+status: "active"
 ---
 
 # § 2084. Information reporting
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:08.166Z"
 - **(e)** For purposes of this section:
   - **(1)** A grievous bodily injury includes any of the following categories of injury: mutilation, amputation, dismemberment, disfigurement, loss of important bodily functions, debilitating internal disorder, severe burn, severe electric shock, and injuries likely to require extended hospitalization.
   - **(2)** For purposes of this section, 2 2 So in original. a particular model of a consumer product is one that is distinctive in functional design, construction, warnings or instructions related to safety, function, user population, or other characteristics which could affect the product’s safety related performance.
+
+## Source Credit
+
+*([Pub. L. 92–573, § 37](https://www.govinfo.gov/link/plaw/92/public/573), as added [Pub. L. 101–608, title I, § 112(b)](https://www.govinfo.gov/link/plaw/101/public/608), Nov. 16, 1990, [104 Stat. 3115](https://www.govinfo.gov/link/statute/104/3115).)*

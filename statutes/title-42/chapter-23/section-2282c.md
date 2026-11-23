@@ -3,9 +3,10 @@ title: "Section 2282c - Worker health and safety rules for Department of Energy 
 usc_title: 42
 usc_section: "2282c"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2282c"
-generated_at: "2026-03-30T02:56:11.158Z"
+generated_at: "2026-11-23T20:27:22.122Z"
+status: "active"
 ---
 
 # § 2282c. Worker health and safety rules for Department of Energy nuclear facilities
@@ -28,3 +29,11 @@ generated_at: "2026-03-30T02:56:11.158Z"
   - **(1)** For any violation by a person of a regulation promulgated under subsection (a), the Secretary shall pursue either civil penalties under subsection (b) or contract penalties under subsection (c), but not both.
   - **(2)** In the case of an entity described in subsection (d) of section 2282a of this title , the total amount of civil penalties under subsection (b) and contract penalties under subsection (c) in a fiscal year may not exceed the total amount of fees paid by the Department of Energy to that entity in that fiscal year.
   - **(3)** The Secretary shall ensure that a contractor of the Department is not penalized both under this section and under section 2282a of this title for the same violation.
+
+Deadline for promulgating regulations
+
+Effective date
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 234C, as added [Pub. L. 107–314, div. C, title XXXI, § 3173(a)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2743](https://www.govinfo.gov/link/statute/116/2743).)*

@@ -3,9 +3,10 @@ title: "Section 6851 - Civil action relating to disclosure of intimate images"
 usc_title: 15
 usc_section: "6851"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 6851"
-generated_at: "2026-03-30T02:54:08.217Z"
+generated_at: "2026-11-23T20:26:04.422Z"
+status: "active"
 ---
 
 # § 6851. Civil action relating to disclosure of intimate images
@@ -49,3 +50,11 @@ generated_at: "2026-03-30T02:54:08.217Z"
         - **(II)** unsolicited or unwelcome conduct;
     - **(C)** a matter of public concern or public interest; or
     - **(D)** a disclosure reasonably intended to assist the identifiable individual.
+
+In General
+
+Effective on Date of Enactment
+
+## Source Credit
+
+*([Pub. L. 117–103, div. W, title XIII, § 1309](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 929](https://www.govinfo.gov/link/statute/136/929).)*

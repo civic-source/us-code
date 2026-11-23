@@ -3,9 +3,10 @@ title: "Section 292t - Individuals from disadvantaged backgrounds"
 usc_title: 42
 usc_section: "292t"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 292t"
-generated_at: "2026-03-30T02:56:10.774Z"
+generated_at: "2026-11-23T20:27:20.368Z"
+status: "active"
 ---
 
 # § 292t. Individuals from disadvantaged backgrounds
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:10.774Z"
 - **(f)**
   - **(1)**
   - **(2)** In making Federal capital contributions to student loan funds for purposes of subsection (a), the Secretary shall give special consideration to health professions schools that have enrollments of underrepresented minorities above the national average for health professions schools.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 724, as added [Pub. L. 102–408, title I, § 102](https://www.govinfo.gov/link/plaw/102/public/408), Oct. 13, 1992, [106 Stat. 2018](https://www.govinfo.gov/link/statute/106/2018); amended [Pub. L. 105–392, title I, § 132](https://www.govinfo.gov/link/plaw/105/public/392), Nov. 13, 1998, [112 Stat. 3575](https://www.govinfo.gov/link/statute/112/3575).)*

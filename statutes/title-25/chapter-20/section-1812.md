@@ -3,9 +3,10 @@ title: "Section 1812 - Report on facilities"
 usc_title: 25
 usc_section: "1812"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1812"
-generated_at: "2026-03-30T02:54:52.830Z"
+generated_at: "2026-11-23T20:26:25.546Z"
+status: "active"
 ---
 
 # § 1812. Report on facilities
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:52.830Z"
     - **(B)** has demonstrated expertise in areas and issues dealing with tribally controlled colleges or universities.
   - **(3)** The Secretary shall include the priority list established pursuant to this subsection in the budget submitted annually to the Congress.
 - **(d)** For the purposes of this section, the term “reconstruction” has the meaning provided in the first sentence of subparagraph (B) of section 1132e–1(2) 1 of title 20.
+
+## Source Credit
+
+*([Pub. L. 95–471, title I, § 112](https://www.govinfo.gov/link/plaw/95/public/471), formerly § 111, Oct. 17, 1978, [92 Stat. 1328](https://www.govinfo.gov/link/statute/92/1328); renumbered § 112 and amended [Pub. L. 98–192](https://www.govinfo.gov/link/plaw/98/public/192), §§ 4(a)(1), 11, Dec. 1, 1983, [97 Stat. 1336](https://www.govinfo.gov/link/statute/97/1336), 1339; [Pub. L. 99–428, § 6(a)](https://www.govinfo.gov/link/plaw/99/public/428), Sept. 30, 1986, [100 Stat. 983](https://www.govinfo.gov/link/statute/100/983); [Pub. L. 101–392, title III, § 313](https://www.govinfo.gov/link/plaw/101/public/392), Sept. 25, 1990, [104 Stat. 805](https://www.govinfo.gov/link/statute/104/805); [Pub. L. 105–244, title IX, § 901(b)(6)](https://www.govinfo.gov/link/plaw/105/public/244), (13), Oct. 7, 1998, [112 Stat. 1828](https://www.govinfo.gov/link/statute/112/1828).)*

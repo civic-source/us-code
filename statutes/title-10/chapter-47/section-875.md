@@ -3,9 +3,10 @@ title: "Section 875 - Art. 75. Restoration"
 usc_title: 10
 usc_section: "875"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 875"
-generated_at: "2026-03-30T02:53:38.084Z"
+generated_at: "2026-11-23T20:25:51.096Z"
+status: "active"
 ---
 
 # § 875. Art. 75. Restoration
@@ -14,3 +15,25 @@ generated_at: "2026-03-30T02:53:38.084Z"
 - **(b)** If a previously executed sentence of dishonorable or bad-conduct discharge is not imposed on a new trial, the Secretary concerned shall substitute therefor a form of discharge authorized for administrative issuance unless the accused is to serve out the remainder of his enlistment.
 - **(c)** If a previously executed sentence of dismissal is not imposed on a new trial, the Secretary concerned shall substitute therefor a form of discharge authorized for administrative issue, and the commissioned officer dismissed by that sentence may be reappointed by the President alone to such commissioned grade and with such rank as in the opinion of the President that former officer would have attained had he not been dismissed. The reappointment of such a former officer shall be without regard to the existence of a vacancy and shall affect the promotion status of other officers only insofar as the President may direct. All time between the dismissal and the reappointment shall be considered as actual service for all purposes, including the right to pay and allowances.
 - **(d)** The President shall prescribe regulations, with such limitations as the President considers appropriate, governing eligibility for pay and allowances for the period after the date on which an executed part of a court-martial sentence is set aside.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 875(a) 875(b) | 50:662(a). 50:662(b). | May 5, 1950, ch. 169, § 1 (Art. 75), 64 Stat. 132 . |
+| 875(c) | 50:662(c). |  |
+
+
+Historical and Revision Notes
+
+875(a)
+
+875(b)
+
+May 5, 1950, ch. 169, § 1
+
+64 Stat. 132
+
+875(c)
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 63; [Pub. L. 114–328, div. E, title LIX, § 5337](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2937](https://www.govinfo.gov/link/statute/130/2937).)*

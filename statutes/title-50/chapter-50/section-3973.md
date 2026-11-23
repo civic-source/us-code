@@ -3,9 +3,10 @@ title: "Section 3973 - Application for insurance protection"
 usc_title: 50
 usc_section: "3973"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3973"
-generated_at: "2026-03-30T02:56:26.264Z"
+generated_at: "2026-11-23T20:27:31.059Z"
+status: "active"
 ---
 
 # § 3973. Application for insurance protection
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:26.264Z"
 - **(b)** The Secretary of Veterans Affairs may require additional information from the applicant, the insured and the insurer to determine if the policy is entitled to protection under this subchapter.
 - **(c)** Upon receipt of the application of the insured, the insurer shall furnish a report concerning the policy to the Secretary of Veterans Affairs as required by regulations prescribed by the Secretary.
 - **(d)** Upon application for protection under this subchapter, the insured and the insurer shall have constructively agreed to any policy modification necessary to give this title full force and effect.
+
+## Source Credit
+
+*(Oct. 17, 1940, ch. 888, title IV, § 403, as added [Pub. L. 108–189, § 1](https://www.govinfo.gov/link/plaw/108/public/189), Dec. 19, 2003, [117 Stat. 2852](https://www.govinfo.gov/link/statute/117/2852).)*

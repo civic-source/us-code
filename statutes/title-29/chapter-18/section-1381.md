@@ -3,9 +3,10 @@ title: "Section 1381 - Withdrawal liability established; criteria and definition
 usc_title: 29
 usc_section: "1381"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1381"
-generated_at: "2026-03-30T02:55:18.734Z"
+generated_at: "2026-11-23T20:26:38.030Z"
+status: "active"
 ---
 
 # § 1381. Withdrawal liability established; criteria and definitions
@@ -19,3 +20,17 @@ generated_at: "2026-03-30T02:55:18.734Z"
     - **(D)** finally, in accordance with section 1405 of this title .
   - **(2)** The term “complete withdrawal” means a complete withdrawal described in section 1383 of this title .
   - **(3)** The term “partial withdrawal” means a partial withdrawal described in section 1385 of this title .
+
+In General.—
+
+Liability.—
+
+Refunds.—
+
+No Increase in Liability.—
+
+Special Rule for Certain Binding Agreements.—
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4201](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 96–364, title I, § 104(2)](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1217](https://www.govinfo.gov/link/statute/94/1217).)*

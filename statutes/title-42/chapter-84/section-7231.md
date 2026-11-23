@@ -3,9 +3,10 @@ title: "Section 7231 - Officers and employees"
 usc_title: 42
 usc_section: "7231"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7231"
-generated_at: "2026-03-30T02:56:11.285Z"
+generated_at: "2026-11-23T20:27:22.787Z"
+status: "active"
 ---
 
 # § 7231. Officers and employees
@@ -23,3 +24,33 @@ generated_at: "2026-03-30T02:56:11.285Z"
 - **(d)** In addition to the number of positions which may be placed at GS–16, GS–17, and GS–18 under section 5108 of title 5 , under existing law, or under this chapter, and to the extent the Secretary deems such action necessary to the discharge of his functions, he may appoint not more than two hundred of the scientific, engineering, professional, and administrative personnel without regard to the civil service laws and may fix the compensation of such personnel not in excess of the maximum rate payable for GS–18 of the General Schedule under section 5332 of title 5 .
 - **(e)** For the purposes of determining the maximum aggregate number of positions which may be placed at GS–16, GS–17, or GS–18 under section 5108(a) of title 5 , 63 percent of the positions established under subsections (b) and (c) shall be deemed GS–16 positions, 25 percent of such positions shall be deemed GS–17 positions, and 12 percent of such positions shall be deemed GS–18.
 - **(f)** All positions in the Department which the Secretary determines are devoted to intelligence and intelligence-related activities of the United States Government are excepted from the competitive service, and the individuals who occupy such positions as of August 14, 1991 , shall, while employed in such positions, be exempt from the competitive service.
+
+In General
+
+Limitations.—
+
+Number of positions
+
+Term
+
+Prior employment
+
+Pay.—
+
+In general
+
+Total annual compensation
+
+Adverse actions
+
+Requirements.—
+
+In general
+
+Report
+
+Termination of Effectiveness
+
+## Source Credit
+
+*([Pub. L. 95–91, title VI, § 621](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 596](https://www.govinfo.gov/link/statute/91/596); 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3784](https://www.govinfo.gov/link/statute/92/3784); [Pub. L. 102–88, title IV, § 403](https://www.govinfo.gov/link/plaw/102/public/88), Aug. 14, 1991, [105 Stat. 434](https://www.govinfo.gov/link/statute/105/434).)*

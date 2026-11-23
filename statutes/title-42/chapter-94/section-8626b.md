@@ -3,9 +3,10 @@ title: "Section 8626b - Residential Energy Assistance Challenge option (R.E.A.Ch
 usc_title: 42
 usc_section: "8626b"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8626b"
-generated_at: "2026-03-30T02:56:11.346Z"
+generated_at: "2026-11-23T20:27:23.056Z"
+status: "active"
 ---
 
 # § 8626b. Residential Energy Assistance Challenge option (R.E.A.Ch.)
@@ -65,3 +66,7 @@ generated_at: "2026-03-30T02:56:11.346Z"
     - **(L)** an assurance that benefits and services will be provided in addition to other benefit payments and services provided under this subchapter and in coordination with such benefit payments and services; and
     - **(M)** an assurance that no regulated utility covered by the plan will be required to act in a manner that is inconsistent with applicable regulatory requirements.
 - **(f)** None of the costs of providing services or benefits under this section shall be considered to be an administrative cost or function for purposes of any limitation on administrative costs or functions contained in this subchapter.
+
+## Source Credit
+
+*([Pub. L. 97–35, title XXVI, § 2607B](https://www.govinfo.gov/link/plaw/97/public/35), as added [Pub. L. 103–252, title III, § 312](https://www.govinfo.gov/link/plaw/103/public/252), May 18, 1994, [108 Stat. 662](https://www.govinfo.gov/link/statute/108/662); amended [Pub. L. 105–285, title III, § 308(c)](https://www.govinfo.gov/link/plaw/105/public/285), (d), Oct. 27, 1998, [112 Stat. 2758](https://www.govinfo.gov/link/statute/112/2758).)*

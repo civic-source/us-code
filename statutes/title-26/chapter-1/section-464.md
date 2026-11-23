@@ -3,9 +3,10 @@ title: "Section 464 - Limitations on deductions for certain farming expenses"
 usc_title: 26
 usc_section: "464"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 464"
-generated_at: "2026-03-30T02:55:27.704Z"
+generated_at: "2026-11-23T20:26:45.760Z"
+status: "active"
 ---
 
 # § 464. Limitations on deductions for certain farming expenses
@@ -35,3 +36,11 @@ generated_at: "2026-03-30T02:55:27.704Z"
     - **(B)** The term “prepaid farm supplies” means any amounts which are described in subsection (a) or (b) and would be allowable for a subsequent taxable year under the rules of subsections (a) and (b).
     - **(C)** The term “deductible farming expenses” means any amount allowable as a deduction under this chapter (including any amount allowable as a deduction for depreciation or amortization) which is properly allocable to the trade or business of farming.
 - **(e)** For purposes of this section, the term “farming” means the cultivation of land or the raising or harvesting of any agricultural or horticultural commodity including the raising, shearing, feeding, caring for, training, and management of animals. For purposes of the preceding sentence, trees (other than trees bearing fruit or nuts) shall not be treated as an agricultural or horticultural commodity.
+
+In general
+
+Transitional rule
+
+## Source Credit
+
+*(Added [Pub. L. 94–455, title II, § 207(a)(1)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1536](https://www.govinfo.gov/link/statute/90/1536); amended [Pub. L. 95–600, title VII, § 701](https://www.govinfo.gov/link/plaw/95/public/600) (l)(3), Nov. 6, 1978, [92 Stat. 2907](https://www.govinfo.gov/link/statute/92/2907); [Pub. L. 97–354, § 5(a)(30)](https://www.govinfo.gov/link/plaw/97/public/354), Oct. 19, 1982, [96 Stat. 1695](https://www.govinfo.gov/link/statute/96/1695); [Pub. L. 99–514, title IV, § 404(a)](https://www.govinfo.gov/link/plaw/99/public/514), (b)(1), title VIII, § 803(b)(8), Oct. 22, 1986, [100 Stat. 2223](https://www.govinfo.gov/link/statute/100/2223), 2224, 2356; [Pub. L. 100–647, title I, § 1008(a)(4)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3437](https://www.govinfo.gov/link/statute/102/3437); [Pub. L. 105–34, title III, § 312(d)(1)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 839](https://www.govinfo.gov/link/statute/111/839); [Pub. L. 113–295, div. A, title II, § 221(a)(58)(A)](https://www.govinfo.gov/link/plaw/113/public/295), (B)(i), (C), (D), Dec. 19, 2014, [128 Stat. 4047](https://www.govinfo.gov/link/statute/128/4047); [Pub. L. 115–141, div. U, title IV, § 401(a)(118)](https://www.govinfo.gov/link/plaw/115/public/141), (119), Mar. 23, 2018, [132 Stat. 1190](https://www.govinfo.gov/link/statute/132/1190).)*

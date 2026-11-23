@@ -3,9 +3,10 @@ title: "Section 80106 - Transfer without negotiation"
 usc_title: 49
 usc_section: "80106"
 chapter: 801
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 80106"
-generated_at: "2026-03-30T02:56:19.418Z"
+generated_at: "2026-11-23T20:27:35.441Z"
+status: "active"
 ---
 
 # § 80106. Transfer without negotiation
@@ -19,3 +20,33 @@ generated_at: "2026-03-30T02:56:19.418Z"
   - **(2)** A common carrier has been notified under this subsection only if—
     - **(A)** an officer or agent of the carrier, whose actual or apparent authority includes acting on the notification, has been notified; and
     - **(B)** the officer or agent has had time, exercising reasonable diligence, to communicate with the agent having possession or control of the goods.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 80106(a) | 49 App.:109 (1st sentence). | Aug. 29, 1916, ch. 415 , §§ 29 (1st sentence), 32, 33, 39 Stat. 543 . |
+|  | 49 App.:112 (1st sentence). |  |
+| 80106(b) | 49 App.:113. |  |
+| 80106(c) | 49 App.:112 (2d–last sentences). |  |
+
+
+Delivery and Agreement
+
+Compelling Indorsement
+
+Effect of Notification
+
+Historical and Revision Notes
+
+80106(a)
+
+Aug. 29, 1916, ch. 415
+
+39 Stat. 543
+
+80106(b)
+
+80106(c)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1348](https://www.govinfo.gov/link/statute/108/1348).)*

@@ -3,9 +3,10 @@ title: "Section 1601 - Determination of communications equipment or services pos
 usc_title: 47
 usc_section: "1601"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 1601"
-generated_at: "2026-03-30T02:56:24.536Z"
+generated_at: "2026-11-23T20:27:29.007Z"
+status: "active"
 ---
 
 # § 1601. Determination of communications equipment or services posing national security risks
@@ -26,3 +27,37 @@ generated_at: "2026-03-30T02:56:24.536Z"
   - **(1)** The Commission shall periodically update the list published under subsection (a) to address changes in the determinations described in paragraphs (1) through (4) of subsection (c).
   - **(2)** The Commission shall monitor the making or reversing of the determinations described in paragraphs (1) through (4) of subsection (c) in order to place additional communications equipment or services on the list published under subsection (a) or to remove communications equipment or services from such list. If a determination described in any such paragraph that provided the basis for a determination by the Commission under subsection (b)(1) with respect to any communications equipment or service is reversed, the Commission shall remove such equipment or service from such list, except that the Commission may not remove such equipment or service from such list if any other determination described in any such paragraph provides a basis for inclusion on such list by the Commission under subsection (b)(1) with respect to such equipment or service.
   - **(3)** For each 12-month period during which the list published under subsection (a) is not updated, the Commission shall notify the public that no updates were necessary during such period to protect national security or to address changes in the determinations described in paragraphs (1) through (4) of subsection (c).
+
+Evaluation of Communications Services and Equipment to Covered List.—
+
+In general
+
+Addition to covered list
+
+Inclusion of Certain Communications Services and Equipment to Covered List.—
+
+Determinations
+
+Other determinations
+
+Definitions
+
+Savings Clause
+
+Rulemaking.—
+
+In general
+
+Updates required
+
+Applicability.—
+
+In general
+
+Rule of construction
+
+Definition
+
+## Source Credit
+
+*([Pub. L. 116–124, § 2](https://www.govinfo.gov/link/plaw/116/public/124), Mar. 12, 2020, [134 Stat. 158](https://www.govinfo.gov/link/statute/134/158).)*

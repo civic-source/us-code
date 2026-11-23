@@ -3,9 +3,10 @@ title: "Section 613 - Evaluation of temporary assistance for needy families and 
 usc_title: 42
 usc_section: "613"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 613"
-generated_at: "2026-03-30T02:56:10.875Z"
+generated_at: "2026-11-23T20:27:20.849Z"
+status: "active"
 ---
 
 # § 613. Evaluation of temporary assistance for needy families and related programs
@@ -39,3 +40,13 @@ generated_at: "2026-03-30T02:56:10.875Z"
   - **(1)** Of the amount appropriated by section 603(a)(1) of this title for each fiscal year, 0.33 percent shall be available for research, technical assistance, and evaluation under this section.
   - **(2)** Of the amount made available under paragraph (1) for each fiscal year, the Secretary shall make available $10,000,000 plus such additional amount as the Secretary deems necessary and appropriate, to carry out subsection (e).
   - **(3)** The baseline established pursuant to section 907 of title 2 for the Temporary Assistance for Needy Families Program shall be recorded by the Office of Management and Budget and the Congressional Budget Office at the level prior to any transfers recorded pursuant to section 613(h) of this title .
+
+In general
+
+Absolute out-of-wedlock ratios
+
+Net changes in the out-of-wedlock ratio
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 413, as added [Pub. L. 104–193, title I, § 103(a)(1)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2153](https://www.govinfo.gov/link/statute/110/2153); amended [Pub. L. 105–33, title V](https://www.govinfo.gov/link/plaw/105/public/33), §§ 5001(f), 5509, 5514(c), Aug. 5, 1997, [111 Stat. 592](https://www.govinfo.gov/link/statute/111/592), 618, 620; [Pub. L. 105–200, title IV, § 410(a)](https://www.govinfo.gov/link/plaw/105/public/200), July 16, 1998, [112 Stat. 673](https://www.govinfo.gov/link/statute/112/673); [Pub. L. 106–169, title IV, § 401(c)](https://www.govinfo.gov/link/plaw/106/public/169), Dec. 14, 1999, [113 Stat. 1858](https://www.govinfo.gov/link/statute/113/1858); [Pub. L. 110–234, title IV, § 4002(b)(1)(D)](https://www.govinfo.gov/link/plaw/110/public/234), (2)(V), May 22, 2008, [122 Stat. 1096](https://www.govinfo.gov/link/statute/122/1096), 1097; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, § 4002(b)(1)(D), (2)(V), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1857, 1858; [Pub. L. 112–96, title IV, § 4002(e)](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 195](https://www.govinfo.gov/link/statute/126/195); [Pub. L. 113–235, div. G, title II, § 228(e)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2492](https://www.govinfo.gov/link/statute/128/2492); [Pub. L. 115–31, div. M, title I, § 102(c)(1)](https://www.govinfo.gov/link/plaw/115/public/31), May 5, 2017, [131 Stat. 801](https://www.govinfo.gov/link/statute/131/801).)*

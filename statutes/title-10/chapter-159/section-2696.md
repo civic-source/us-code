@@ -3,9 +3,10 @@ title: "Section 2696 - Real property: transfer between armed forces and screenin
 usc_title: 10
 usc_section: "2696"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2696"
-generated_at: "2026-03-30T02:53:38.171Z"
+generated_at: "2026-11-23T20:25:51.664Z"
+status: "active"
 ---
 
 # § 2696. Real property: transfer between armed forces and screening requirements for other Federal use
@@ -31,3 +32,19 @@ generated_at: "2026-03-30T02:53:38.171Z"
   - **(2)** Paragraph (1) shall not apply—
     - **(A)** to real property and facilities to which title II of the Defense Authorization Amendments and Base Closure and Realignment Act ( Public Law 100–526 ) is applicable; and
     - **(B)** during any portion of a fiscal year after four conveyances have been made under paragraph (1) in such fiscal year.
+
+Transfers Between Armed Forces
+
+Screening Requirements for Additional Federal Use
+
+Time for Screening
+
+Effect of Submission of Notice
+
+Excepted Conveyance Authorities
+
+Screening and Conveyance of Property for Correctional Facilities Purposes
+
+## Source Credit
+
+*(Added [Pub. L. 105–85, div. B, title XXVIII, § 2814(a)(1)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1994](https://www.govinfo.gov/link/statute/111/1994); amended [Pub. L. 106–65, div. A, title X, § 1066(a)(26)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 772](https://www.govinfo.gov/link/statute/113/772); [Pub. L. 107–217, § 3(b)(16)](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1296](https://www.govinfo.gov/link/statute/116/1296); [Pub. L. 108–136, div. A, title X](https://www.govinfo.gov/link/plaw/108/public/136), §§ 1031(a)(33), 1043(c)(4), Nov. 24, 2003, [117 Stat. 1600](https://www.govinfo.gov/link/statute/117/1600), 1612; [Pub. L. 109–364, div. B, title XXVIII, § 2825(a)](https://www.govinfo.gov/link/plaw/109/public/364), (b)(5), (c)(3), (d)(2)(A), Oct. 17, 2006, [120 Stat. 2476](https://www.govinfo.gov/link/statute/120/2476), 2477; [Pub. L. 111–350, § 5(b)(47)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3846](https://www.govinfo.gov/link/statute/124/3846).)*

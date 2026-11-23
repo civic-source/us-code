@@ -3,9 +3,10 @@ title: "Section 121 - Limitations on exclusive rights: Reproduction for blind or
 usc_title: 17
 usc_section: "121"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 121"
-generated_at: "2026-03-30T02:54:15.350Z"
+generated_at: "2026-11-23T20:26:06.506Z"
+status: "active"
 ---
 
 # § 121. Limitations on exclusive rights: Reproduction for blind or other people with disabilities
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:15.350Z"
     - **(B)** has a visual impairment or perceptual or reading disability that cannot be improved to give visual function substantially equivalent to that of a person who has no such impairment or disability and so is unable to read printed works to substantially the same degree as a person without an impairment or disability; or
     - **(C)** is otherwise unable, through physical disability, to hold or manipulate a book or to focus or move the eyes to the extent that would be normally acceptable for reading; and
   - **(4)** “print instructional materials” has the meaning given under section 674(e)(3)(C) of the Individuals with Disabilities Education Act.
+
+## Source Credit
+
+*(Added [Pub. L. 104–197, title III, § 316(a)](https://www.govinfo.gov/link/plaw/104/public/197), Sept. 16, 1996, [110 Stat. 2416](https://www.govinfo.gov/link/statute/110/2416); amended [Pub. L. 106–379, § 3(b)](https://www.govinfo.gov/link/plaw/106/public/379), Oct. 27, 2000, [114 Stat. 1445](https://www.govinfo.gov/link/statute/114/1445); [Pub. L. 107–273, div. C, title III, § 13210(3)(A)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1909](https://www.govinfo.gov/link/statute/116/1909); [Pub. L. 108–446, title III, § 306](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2807](https://www.govinfo.gov/link/statute/118/2807); [Pub. L. 115–261, § 2(a)(1)](https://www.govinfo.gov/link/plaw/115/public/261), Oct. 9, 2018, [132 Stat. 3667](https://www.govinfo.gov/link/statute/132/3667).)*

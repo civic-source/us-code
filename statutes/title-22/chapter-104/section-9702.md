@@ -3,9 +3,10 @@ title: "Section 9702 - Recognition of Venezuela’s democratically elected Natio
 usc_title: 22
 usc_section: "9702"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9702"
-generated_at: "2026-03-30T02:55:05.472Z"
+generated_at: "2026-11-23T20:26:32.796Z"
+status: "active"
 ---
 
 # § 9702. Recognition of Venezuela’s democratically elected National Assembly
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:05.472Z"
 - **(b)** It is the sense of Congress that Venezuela’s democratically elected National Assembly is the only national level democratic institution remaining in the country.
 - **(c)** It is the policy of the United States to recognize the democratically elected National Assembly of Venezuela as the only legitimate national legislative body in Venezuela.
 - **(d)** The Secretary of State, in coordination with the Administrator of the United States Agency for International Development, shall prioritize efforts to provide technical assistance to support the democratically elected National Assembly of Venezuela in accordance with section 9731 of this title .
+
+## Source Credit
+
+*([Pub. L. 116–94, div. J, title I, § 112](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3031](https://www.govinfo.gov/link/statute/133/3031).)*

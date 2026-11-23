@@ -3,9 +3,10 @@ title: "Section 2109a - State and private forest landscape-scale restoration pro
 usc_title: 16
 usc_section: "2109a"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 2109a"
-generated_at: "2026-03-30T02:54:23.000Z"
+generated_at: "2026-11-23T20:26:20.598Z"
+status: "active"
 ---
 
 # § 2109a. State and private forest landscape-scale restoration program
@@ -59,3 +60,7 @@ generated_at: "2026-03-30T02:54:23.000Z"
   - **(1)** There is established in the Treasury a fund, to be known as the “State and Private Forest Landscape-Scale Restoration Fund” (referred to in this subsection as the “Fund”), to be used by the Secretary to make grants under this section.
   - **(2)** The Fund shall consist of such amounts as are appropriated to the Fund under paragraph (3).
   - **(3)** There is authorized to be appropriated to the Fund $20,000,000 for each fiscal year beginning with the first full fiscal year after December 20, 2018 , through fiscal year 2023, to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 95–313, § 13A](https://www.govinfo.gov/link/plaw/95/public/313), as added [Pub. L. 110–234, title VIII, § 8007](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1285](https://www.govinfo.gov/link/statute/122/1285), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VIII, § 8007, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2047; amended [Pub. L. 115–334, title VIII, § 8102(a)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4837](https://www.govinfo.gov/link/statute/132/4837).)*

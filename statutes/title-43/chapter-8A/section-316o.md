@@ -3,12 +3,17 @@ title: "Section 316o - Laws applicable"
 usc_title: 43
 usc_section: "316o"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 316o"
-generated_at: "2026-03-30T02:55:57.438Z"
+generated_at: "2026-11-23T20:27:06.181Z"
+status: "active"
 ---
 
 # § 316o. Laws applicable
 
 Laws now applicable to lands or resources in the Territory of Alaska shall continue in force and effect to the same extent and in the same manner after March 4, 1927 , as before, and nothing in this subchapter shall preclude or prevent ingress or egress upon the lands in districts for any purpose authorized by any such law, including prospecting for and extraction of minerals.
 
+
+## Source Credit
+
+*(Mar. 4, 1927, ch. 513, § 16, [44 Stat. 1455](https://www.govinfo.gov/link/statute/44/1455).)*

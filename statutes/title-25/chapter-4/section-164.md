@@ -3,12 +3,17 @@ title: "Section 164 - Restoration to tribal ownership of unclaimed per capita an
 usc_title: 25
 usc_section: "164"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 164"
-generated_at: "2026-03-30T02:54:52.799Z"
+generated_at: "2026-11-23T20:26:25.359Z"
+status: "active"
 ---
 
 # § 164. Restoration to tribal ownership of unclaimed per capita and other individual payments of tribal trust funds; deposit in general fund of the Treasury
 
 Unless otherwise specifically provided by law, the share of an individual member of an Indian tribe or group in a per capita or other distribution, individualization, segregation, or proration of Indian tribal or group funds held in trust by the United States, or in an annuity payment under a treaty, heretofore or hereafter authorized by law, and any interest earned on such share that is properly creditable to the individual shall be restored to tribal ownership if for any reason such share cannot be paid to the individual entitled thereto and remains unclaimed for a period of six years from the date of the administrative directive to make the payment, or one year from September 22, 1961 , whichever occurs later: Provided , That if such individual is a member of an Indian tribe or group that has no governing body recognized by the Secretary of the Interior as authorized to act on behalf of the tribe or group, such unpaid share and interest shall be regarded as not capable of restoration to a tribal or group entity and shall be deposited in the general fund of the Treasury of the United States.
 
+
+## Source Credit
+
+*([Pub. L. 87–283, § 1](https://www.govinfo.gov/link/plaw/87/public/283), Sept. 22, 1961, [75 Stat. 584](https://www.govinfo.gov/link/statute/75/584).)*

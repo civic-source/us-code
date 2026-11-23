@@ -3,9 +3,10 @@ title: "Section 1484 - Insurance of loans for housing and related facilities for
 usc_title: 42
 usc_section: "1484"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1484"
-generated_at: "2026-03-30T02:56:11.096Z"
+generated_at: "2026-11-23T20:27:21.786Z"
+status: "active"
 ---
 
 # § 1484. Insurance of loans for housing and related facilities for domestic farm labor
@@ -52,3 +53,11 @@ generated_at: "2026-03-30T02:56:11.096Z"
         - **(I)**
         - **(II)** provides notification for persons with hearing loss as required by the National Fire Protection Association Standard 72, or any successor standard; or
       - **(ii)** in the case of a dwelling unit built or substantially rehabilitated after December 29, 2022 , is hardwired.
+
+(aa) is hardwired; or
+
+(bb) uses 10-year non rechargeable, nonreplaceable primary batteries and— (AA) is sealed; (BB) is tamper resistant; and (CC) contains silencing means; and
+
+## Source Credit
+
+*(July 15, 1949, ch. 338, title V, § 514, as added [Pub. L. 87–70, title VIII, § 804(a)](https://www.govinfo.gov/link/plaw/87/public/70), June 30, 1961, [75 Stat. 186](https://www.govinfo.gov/link/statute/75/186); amended [Pub. L. 88–560, title V, § 502](https://www.govinfo.gov/link/plaw/88/public/560), Sept. 2, 1964, [78 Stat. 796](https://www.govinfo.gov/link/statute/78/796); [Pub. L. 90–448, title X, § 1004](https://www.govinfo.gov/link/plaw/90/public/448), Aug. 1, 1968, [82 Stat. 553](https://www.govinfo.gov/link/statute/82/553); [Pub. L. 91–609, title VIII, § 801(a)](https://www.govinfo.gov/link/plaw/91/public/609) –(c), Dec. 31, 1970, [84 Stat. 1805](https://www.govinfo.gov/link/statute/84/1805), 1806; [Pub. L. 95–128, title V, § 505](https://www.govinfo.gov/link/plaw/95/public/128), Oct. 12, 1977, [91 Stat. 1140](https://www.govinfo.gov/link/statute/91/1140); [Pub. L. 95–557, title V](https://www.govinfo.gov/link/plaw/95/public/557), §§ 501(d), 504, Oct. 31, 1978, [92 Stat. 2111](https://www.govinfo.gov/link/statute/92/2111), 2112; [Pub. L. 96–153, title V, § 501(b)](https://www.govinfo.gov/link/plaw/96/public/153), Dec. 21, 1979, [93 Stat. 1133](https://www.govinfo.gov/link/statute/93/1133); [Pub. L. 96–399, title V, § 507(b)](https://www.govinfo.gov/link/plaw/96/public/399), Oct. 8, 1980, [94 Stat. 1670](https://www.govinfo.gov/link/statute/94/1670); [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title V, § 510], Nov. 30, 1983, [97 Stat. 1243](https://www.govinfo.gov/link/statute/97/1243); [Pub. L. 100–242, title III](https://www.govinfo.gov/link/plaw/100/public/242), §§ 305(a), 316(b), Feb. 5, 1988, [101 Stat. 1895](https://www.govinfo.gov/link/statute/101/1895), 1897; [Pub. L. 100–628, title X, § 1043(a)](https://www.govinfo.gov/link/plaw/100/public/628), Nov. 7, 1988, [102 Stat. 3273](https://www.govinfo.gov/link/statute/102/3273); [Pub. L. 104–180, title VII, § 734(e)(1)](https://www.govinfo.gov/link/plaw/104/public/180), Aug. 6, 1996, [110 Stat. 1603](https://www.govinfo.gov/link/statute/110/1603); [Pub. L. 105–276, title V, § 599C(d)](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2661](https://www.govinfo.gov/link/statute/112/2661); [Pub. L. 106–569, title VII](https://www.govinfo.gov/link/plaw/106/public/569), §§ 703, 708(b), Dec. 27, 2000, [114 Stat. 3013](https://www.govinfo.gov/link/statute/114/3013), 3018; [Pub. L. 110–234, title VI, § 6205](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1209](https://www.govinfo.gov/link/statute/122/1209); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VI, § 6205, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1971; [Pub. L. 115–141, div. A, title III](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 365](https://www.govinfo.gov/link/statute/132/365); [Pub. L. 116–260, div. Q, title I, § 101(f)(1)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2164](https://www.govinfo.gov/link/statute/134/2164); [Pub. L. 117–328, div. AA, title VI, § 601(e)(1)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5546](https://www.govinfo.gov/link/statute/136/5546).)*

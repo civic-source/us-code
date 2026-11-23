@@ -3,12 +3,17 @@ title: "Section 5214 - Reorganization evaluation"
 usc_title: 7
 usc_section: "5214"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 5214"
-generated_at: "2026-03-30T02:53:42.413Z"
+generated_at: "2026-11-23T20:25:41.642Z"
+status: "active"
 ---
 
 # § 5214. Reorganization evaluation
 
 The Secretary of Agriculture shall evaluate the reorganization proposal recommended by the National Commission on Agricultural Trade and Export Policy and other proposals to improve management of international trade activities of the Department of Agriculture. To assist the Secretary in the evaluation, the Secretary shall appoint a private sector advisory committee of not less than 4 members, who shall be appointed from among individuals representing farm and commodity organizations, market development cooperators, and agribusiness. Not later than April 30, 1989 , the Secretary shall report the findings of the evaluation to Congress, together with the views and recommendations of the private sector advisory committee.
 
+
+## Source Credit
+
+*([Pub. L. 100–418, title IV, § 4204](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1392](https://www.govinfo.gov/link/statute/102/1392).)*

@@ -3,9 +3,10 @@ title: "Section 9922 - Community food and nutrition programs"
 usc_title: 42
 usc_section: "9922"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9922"
-generated_at: "2026-03-30T02:56:11.378Z"
+generated_at: "2026-11-23T20:27:23.198Z"
+status: "active"
 ---
 
 # § 9922. Community food and nutrition programs
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:56:11.378Z"
   - **(2)** information on the amount of funding awarded to each grant recipient; and
   - **(3)** a summary of the activities performed by the grant recipients with funding awarded under this section and a description of the manner in which such activities meet the objectives described in subsection (a).
 - **(d)** There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 1999 through 2003.
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 681](https://www.govinfo.gov/link/plaw/97/public/35), as added [Pub. L. 105–285, title II, § 201](https://www.govinfo.gov/link/plaw/105/public/285), Oct. 27, 1998, [112 Stat. 2752](https://www.govinfo.gov/link/statute/112/2752).)*

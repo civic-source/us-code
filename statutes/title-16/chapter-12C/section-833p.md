@@ -3,12 +3,17 @@ title: "Section 833p - Reversion of title"
 usc_title: 16
 usc_section: "833p"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 833p"
-generated_at: "2026-03-30T02:54:22.927Z"
+generated_at: "2026-11-23T20:26:20.315Z"
+status: "active"
 ---
 
 # § 833p. Reversion of title
 
 All designations of Indian lands pursuant to sections 833 l to 833p of this title shall be made subject to the condition that in the event any such lands shall no longer be required for the purposes for which they were designated, then the right, title, or interest so acquired in lands so designated shall revert to the United States in trust for the Fort Peck Indian Tribes.
 
+
+## Source Credit
+
+*(Apr. 23, 1946, ch. 199, § 5, [60 Stat. 118](https://www.govinfo.gov/link/statute/60/118).)*

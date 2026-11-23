@@ -3,9 +3,10 @@ title: "Section 1059e - Predominantly Black Institutions"
 usc_title: 20
 usc_section: "1059e"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1059e"
-generated_at: "2026-03-30T02:54:48.100Z"
+generated_at: "2026-11-23T20:26:14.340Z"
+status: "active"
 ---
 
 # § 1059e. Predominantly Black Institutions
@@ -70,3 +71,7 @@ generated_at: "2026-03-30T02:54:48.100Z"
 - **(g)** Section 1068b of this title shall not apply to applications under this section.
 - **(h)** Any grant funds paid to a Predominantly Black Institution under this section that are not expended or used for the purposes for which the funds were paid within ten years following the date on which the grant was awarded, shall be repaid to the Treasury.
 - **(i)** No Predominantly Black Institution that receives funds under this section shall concurrently receive funds under any other provision of this part, part B, or part A of subchapter V.
+
+## Source Credit
+
+*([Pub. L. 89–329, title III, § 318](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title III, § 305(a)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3169](https://www.govinfo.gov/link/statute/122/3169); amended [Pub. L. 111–39, title III, § 301(2)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1937](https://www.govinfo.gov/link/statute/123/1937).)*

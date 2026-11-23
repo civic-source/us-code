@@ -3,9 +3,10 @@ title: "Section 16156 - Technical Advisory Committee"
 usc_title: 42
 usc_section: "16156"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16156"
-generated_at: "2026-03-30T02:56:11.470Z"
+generated_at: "2026-11-23T20:27:23.617Z"
+status: "active"
 ---
 
 # § 16156. Technical Advisory Committee
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.470Z"
   - **(1)** The Secretary shall consider, but need not adopt, any recommendations of the Technical Advisory Committee under subsection (c).
   - **(2)** The Secretary shall transmit a biennial report to Congress describing any recommendations made by the Technical Advisory Committee since the previous report. The report shall include a description of how the Secretary has implemented or plans to implement the recommendations, or an explanation of the reasons that a recommendation will not be implemented. The report shall be transmitted along with the President’s budget proposal.
 - **(e)** The Secretary shall provide resources necessary in the judgment of the Secretary for the Technical Advisory Committee to carry out its responsibilities under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 109–58, title VIII, § 807](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 849](https://www.govinfo.gov/link/statute/119/849).)*

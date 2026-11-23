@@ -3,9 +3,10 @@ title: "Section 1145 - Health benefits"
 usc_title: 10
 usc_section: "1145"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1145"
-generated_at: "2026-03-30T02:53:38.111Z"
+generated_at: "2026-11-23T20:25:51.261Z"
+status: "active"
 ---
 
 # § 1145. Health benefits
@@ -68,3 +69,39 @@ generated_at: "2026-03-30T02:53:38.111Z"
   - **(4)** In providing to a member a physical examination under paragraph (1), the Secretary concerned shall provide to the member a record of the physical examination.
 - **(e)** In this section, the term “conversion health policy” means a health insurance policy with a private insurer, developed through negotiations between the Secretary of Defense and a private insurer, that is available for purchase by or for the use of a person who is no longer a member of the armed forces or a covered beneficiary.
 - **(f)** The Secretary of Homeland Security shall implement this section for the members of the Coast Guard and their dependents when the Coast Guard is not operating as a service in the Navy.
+
+Transitional Health Care
+
+Conversion Health Policies
+
+Health Care For Certain Separated Members Not Otherwise Eligible
+
+Physical Examinations for Certain Members of a Reserve Component
+
+Definition
+
+Coast Guard
+
+In General
+
+Definitions
+
+Provision of Mental Health Care Via Telemedicine.—
+
+In general
+
+Report
+
+Termination
+
+Report on Use of Telemedicine.—
+
+In general
+
+Elements
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 101–510, div. A, title V, § 502(a)(1)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1555](https://www.govinfo.gov/link/statute/104/1555); amended [Pub. L. 102–484, div. D, title XLIV, § 4407(a)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2707](https://www.govinfo.gov/link/statute/106/2707); [Pub. L. 103–160, div. A, title V, § 561(i)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1668](https://www.govinfo.gov/link/statute/107/1668); [Pub. L. 103–337, div. A, title V, § 542(a)(4)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2768](https://www.govinfo.gov/link/statute/108/2768); [Pub. L. 105–261, div. A, title V, § 561(h)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2026](https://www.govinfo.gov/link/statute/112/2026); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title V, § 571(h)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–134; [Pub. L. 107–107, div. A, title VII, § 736(a)](https://www.govinfo.gov/link/plaw/107/public/107), (b), Dec. 28, 2001, [115 Stat. 1172](https://www.govinfo.gov/link/statute/115/1172); [Pub. L. 107–296, title XVII, § 1704(b)(1)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314); [Pub. L. 107–314, div. A, title VII, § 706(a)](https://www.govinfo.gov/link/plaw/107/public/314), (b), Dec. 2, 2002, [116 Stat. 2585](https://www.govinfo.gov/link/statute/116/2585); [Pub. L. 108–375, div. A, title VII, § 706(a)(1)](https://www.govinfo.gov/link/plaw/108/public/375), (3), (b), Oct. 28, 2004, [118 Stat. 1983](https://www.govinfo.gov/link/statute/118/1983); [Pub. L. 109–163, div. A, title VII, § 749](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3364](https://www.govinfo.gov/link/statute/119/3364); [Pub. L. 110–181, div. A, title XVI, § 1637](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 464](https://www.govinfo.gov/link/statute/122/464); [Pub. L. 110–317, § 4](https://www.govinfo.gov/link/plaw/110/public/317), Aug. 29, 2008, [122 Stat. 3528](https://www.govinfo.gov/link/statute/122/3528); [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title VII, § 734(a), Oct. 14, 2008, [122 Stat. 4513](https://www.govinfo.gov/link/statute/122/4513); [Pub. L. 111–84, div. A, title VII, § 703](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2373](https://www.govinfo.gov/link/statute/123/2373); [Pub. L. 112–81, div. A, title VII, § 706](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1474](https://www.govinfo.gov/link/statute/125/1474); [Pub. L. 112–239, div. A, title X, § 1076(f)(15)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1952](https://www.govinfo.gov/link/statute/126/1952); [Pub. L. 115–91, div. A, title V, § 511(b)](https://www.govinfo.gov/link/plaw/115/public/91), title VII, §§ 705, 706(a), Dec. 12, 2017, [131 Stat. 1376](https://www.govinfo.gov/link/statute/131/1376), 1435, 1436; [Pub. L. 116–92, div. A, title VII, § 704(b)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1438](https://www.govinfo.gov/link/statute/133/1438); [Pub. L. 117–81, div. A, title VII, § 717](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1789](https://www.govinfo.gov/link/statute/135/1789); [Pub. L. 117–263, div. A, title VII, § 702](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2647](https://www.govinfo.gov/link/statute/136/2647).)*

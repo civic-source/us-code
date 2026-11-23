@@ -3,9 +3,10 @@ title: "Section 9497 - Board of Governors"
 usc_title: 10
 usc_section: "9497"
 chapter: 959
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 9497"
-generated_at: "2026-03-30T02:53:38.260Z"
+generated_at: "2026-11-23T20:25:52.349Z"
+status: "active"
 ---
 
 # § 9497. Board of Governors
@@ -35,3 +36,21 @@ generated_at: "2026-03-30T02:53:38.260Z"
   - **(2)** Paragraph (1) does not apply to a member of the Board of Governors or officer of the Civil Air Patrol for a tortious act or omission in which the member or officer, as the case may be, was personally involved, whether in breach of a civil duty or in commission of a criminal offense.
   - **(3)** Nothing in this subsection shall be construed to restrict the applicability of common law protections and rights that a member of the Board of Governors or officer of the Civil Air Patrol may have.
   - **(4)** The protections provided under this subsection are in addition to the protections provided under subsection (f).
+
+Governing Body
+
+Composition
+
+Appointments From Interested Organizations
+
+Chairman
+
+Powers
+
+Personal Liability for Breach of a Fiduciary Duty
+
+Personal Liability for Breach of a Fiduciary Duty
+
+## Source Credit
+
+*(Added [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title X, § 1090(a)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–298, § 9447; renumbered § 9497, [Pub. L. 115–232, div. A, title VIII, § 806(a)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1832](https://www.govinfo.gov/link/statute/132/1832).)*

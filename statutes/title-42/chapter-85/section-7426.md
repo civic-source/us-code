@@ -3,9 +3,10 @@ title: "Section 7426 - Interstate pollution abatement"
 usc_title: 42
 usc_section: "7426"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7426"
-generated_at: "2026-03-30T02:56:11.302Z"
+generated_at: "2026-11-23T20:27:22.864Z"
+status: "active"
 ---
 
 # § 7426. Interstate pollution abatement
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.302Z"
 - **(c)** Notwithstanding any permit which may have been granted by the State in which the source is located (or intends to locate), it shall be a violation of this section and the applicable implementation plan in such State—
   - **(1)** for any major proposed new (or modified) source with respect to which a finding has been made under subsection (b) to be constructed or to operate in violation of the prohibition of section 7410(a)(2)(D)(ii) of this title or this section, or
   - **(2)** for any major existing source to operate more than three months after such finding has been made with respect to it.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 126, as added [Pub. L. 95–95, title I, § 123](https://www.govinfo.gov/link/plaw/95/public/95), Aug. 7, 1977, [91 Stat. 724](https://www.govinfo.gov/link/statute/91/724); amended [Pub. L. 95–190, § 14(a)(39)](https://www.govinfo.gov/link/plaw/95/public/190), Nov. 16, 1977, [91 Stat. 1401](https://www.govinfo.gov/link/statute/91/1401); [Pub. L. 101–549, title I, § 109(a)](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2469](https://www.govinfo.gov/link/statute/104/2469).)*

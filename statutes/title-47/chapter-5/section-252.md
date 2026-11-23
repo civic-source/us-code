@@ -3,9 +3,10 @@ title: "Section 252 - Procedures for negotiation, arbitration, and approval of a
 usc_title: 47
 usc_section: "252"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 252"
-generated_at: "2026-03-30T02:56:24.501Z"
+generated_at: "2026-11-23T20:27:28.848Z"
+status: "active"
 ---
 
 # § 252. Procedures for negotiation, arbitration, and approval of agreements
@@ -68,3 +69,7 @@ generated_at: "2026-03-30T02:56:24.501Z"
 - **(h)** A State commission shall make a copy of each agreement approved under subsection (e) and each statement approved under subsection (f) available for public inspection and copying within 10 days after the agreement or statement is approved. The State commission may charge a reasonable and nondiscriminatory fee to the parties to the agreement or to the party filing the statement to cover the costs of approving and filing such agreement or statement.
 - **(i)** A local exchange carrier shall make available any interconnection, service, or network element provided under an agreement approved under this section to which it is a party to any other requesting telecommunications carrier upon the same terms and conditions as those provided in the agreement.
 - **(j)** For purposes of this section, the term “incumbent local exchange carrier” has the meaning provided in section 251(h) of this title .
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title II, § 252, as added [Pub. L. 104–104, title I, § 101(a)](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 66](https://www.govinfo.gov/link/statute/110/66).)*

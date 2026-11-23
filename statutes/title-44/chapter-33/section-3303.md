@@ -3,9 +3,10 @@ title: "Section 3303 - Lists and schedules of records to be submitted to the Arc
 usc_title: 44
 usc_section: "3303"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "44 U.S.C. § 3303"
-generated_at: "2026-03-30T02:55:56.295Z"
+generated_at: "2026-11-23T20:27:03.818Z"
+status: "active"
 ---
 
 # § 3303. Lists and schedules of records to be submitted to the Archivist by head of each Government agency
@@ -15,3 +16,7 @@ The head of each agency of the United States Government shall submit to the Arch
   - **(1)** lists of any records in the custody of the agency that have been photographed, microphotographed, or digitized under the regulations and that, as a consequence, do not appear to have sufficient value to warrant their further preservation by the Government;
   - **(2)** lists of other records in the custody of the agency not needed by it in the transaction of its current business and that do not appear to have sufficient administrative, legal, research, or other value to warrant their further preservation by the Government; and
   - **(3)** schedules proposing the disposal after the lapse of specified periods of time of records of a specified form or character that either have accumulated in the custody of the agency or may accumulate after the submission of the schedules and apparently will not after the lapse of the period specified have sufficient administrative, legal, research, or other value to warrant their further preservation by the Government.
+
+## Source Credit
+
+*([Pub. L. 90–620](https://www.govinfo.gov/link/plaw/90/public/620), Oct. 22, 1968, [82 Stat. 1299](https://www.govinfo.gov/link/statute/82/1299); [Pub. L. 98–497, title I, § 107(b)(23)](https://www.govinfo.gov/link/plaw/98/public/497), (25)(A), Oct. 19, 1984, [98 Stat. 2290](https://www.govinfo.gov/link/statute/98/2290); [Pub. L. 113–187, § 5(c)](https://www.govinfo.gov/link/plaw/113/public/187), Nov. 26, 2014, [128 Stat. 2010](https://www.govinfo.gov/link/statute/128/2010).)*

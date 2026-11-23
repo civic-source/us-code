@@ -3,9 +3,10 @@ title: "Section 7116 - Local educational agency applications"
 usc_title: 20
 usc_section: "7116"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 7116"
-generated_at: "2026-03-30T02:54:48.205Z"
+generated_at: "2026-11-23T20:26:14.872Z"
+status: "active"
 ---
 
 # § 7116. Local educational agency applications
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:54:48.205Z"
     - **(E)** use a portion of funds received under this subpart to support one or more activities authorized under section 7119(a) of this title , including an assurance that the local educational agency, or consortium of local educational agencies, will comply with section 7119(b) of this title ; and
     - **(F)** annually report to the State for inclusion in the report described in section 7114(a)(2) of this title how funds are being used under this subpart to meet the requirements of subparagraphs (C) through (E).
 - **(f)** Any local educational agency receiving an allocation under section 7115(a)(1) of this title in an amount less than $30,000 shall be required to provide only one of the assurances described in subparagraphs (C), (D), and (E) of subsection (e)(2).
+
+## Source Credit
+
+*([Pub. L. 89–10, title IV, § 4106](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title IV, § 4101](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1974](https://www.govinfo.gov/link/statute/129/1974).)*

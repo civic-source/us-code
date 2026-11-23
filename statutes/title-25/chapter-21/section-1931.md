@@ -3,9 +3,10 @@ title: "Section 1931 - Grants for on or near reservation programs and child welf
 usc_title: 25
 usc_section: "1931"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1931"
-generated_at: "2026-03-30T02:54:52.831Z"
+generated_at: "2026-11-23T20:26:25.553Z"
+status: "active"
 ---
 
 # § 1931. Grants for on or near reservation programs and child welfare codes
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:52.831Z"
   - **(7)** a subsidy program under which Indian adoptive children may be provided support comparable to that for which they would be eligible as foster children, taking into account the appropriate State standards of support for maintenance and medical needs; and
   - **(8)** guidance, legal representation, and advice to Indian families involved in tribal, State, or Federal child custody proceedings.
 - **(b)** Funds appropriated for use by the Secretary in accordance with this section may be utilized as non-Federal matching share in connection with funds provided under titles IV–B and XX of the Social Security Act [ 42 U.S.C. 620 et seq., 1397 et seq.] or under any other Federal financial assistance programs which contribute to the purpose for which such funds are authorized to be appropriated for use under this chapter. The provision or possibility of assistance under this chapter shall not be a basis for the denial or reduction of any assistance otherwise authorized under titles IV–B and XX of the Social Security Act or any other federally assisted program. For purposes of qualifying for assistance under a federally assisted program, licensing or approval of foster or adoptive homes or institutions by an Indian tribe shall be deemed equivalent to licensing or approval by a State.
+
+## Source Credit
+
+*([Pub. L. 95–608, title II, § 201](https://www.govinfo.gov/link/plaw/95/public/608), Nov. 8, 1978, [92 Stat. 3075](https://www.govinfo.gov/link/statute/92/3075).)*

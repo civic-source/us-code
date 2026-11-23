@@ -3,9 +3,10 @@ title: "Section 544m - Enforcement"
 usc_title: 16
 usc_section: "544m"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 544m"
-generated_at: "2026-03-30T02:54:22.873Z"
+generated_at: "2026-11-23T20:26:20.136Z"
+status: "active"
 ---
 
 # § 544m. Enforcement
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:54:22.873Z"
     - **(B)** over any civil action brought by the Commission pursuant to subsection (b)(1) of this section or against the Commission, a State, or a county pursuant to subsection (b)(2) of this section;
     - **(C)** over any appeal of any order, regulation, or other action of the Commission or a county taken pursuant to paragraph 4 2 2 So in original. Probably should be paragraph “(4)”. of this subsection; or
     - **(D)** any civil penalties assessed by the Commission pursuant to subsection (a)(3) of this section.
+
+## Source Credit
+
+*([Pub. L. 99–663, § 15](https://www.govinfo.gov/link/plaw/99/public/663), Nov. 17, 1986, [100 Stat. 4297](https://www.govinfo.gov/link/statute/100/4297).)*

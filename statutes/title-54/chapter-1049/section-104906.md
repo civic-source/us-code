@@ -3,9 +3,10 @@ title: "Section 104906 - Protection of right of individuals to bear arms"
 usc_title: 54
 usc_section: "104906"
 chapter: 1049
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "54 U.S.C. § 104906"
-generated_at: "2026-03-30T02:56:28.420Z"
+generated_at: "2026-11-23T20:27:38.041Z"
+status: "active"
 ---
 
 # § 104906. Protection of right of individuals to bear arms
@@ -25,3 +26,28 @@ generated_at: "2026-03-30T02:56:28.420Z"
 - **(b)** The Secretary shall not promulgate or enforce any regulation that prohibits an individual from possessing a firearm, including an assembled or functional firearm, in any System unit if—
   - **(1)** the individual is not otherwise prohibited by law from possessing the firearm; and
   - **(2)** the possession of the firearm is in compliance with the law of the State in which the System unit is located.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 104906 | 16 U.S.C. 1a–7b (relating to National Park System). | Pub. L. 111–24, title V, § 512 (relating to National Park System), May 22, 2009 , 123 Stat. 1764 . |
+
+
+Findings
+
+Protection of Right of Individuals To Bear Arms in System Units
+
+Historical and Revision Notes
+
+104906
+
+16 U.S.C. 1a–7b
+
+Pub. L. 111–24, title V, § 512
+
+May 22, 2009
+
+123 Stat. 1764
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3168](https://www.govinfo.gov/link/statute/128/3168).)*

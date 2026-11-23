@@ -3,12 +3,17 @@ title: "Section 361f - Exchange of lands"
 usc_title: 16
 usc_section: "361f"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 361f"
-generated_at: "2026-03-30T02:54:22.750Z"
+generated_at: "2026-11-23T20:26:19.416Z"
+status: "active"
 ---
 
 # § 361f. Exchange of lands
 
 For the purpose of consolidating Federal holdings of land within Hot Springs National Park, Arkansas, and in order to bring about certain improvements in park land use, the Secretary of the Interior is authorized in his discretion to accept, on behalf of the United States, approximately 4.75 acres of non-Federal land or interests in land situated in blocks 195 and 196 of the city of Hot Springs, Arkansas, and in exchange therefor to convey by deed on behalf of the United States to the grantor of the aforesaid property certain federally owned land or interests in land, of no greater value, comprising not in excess of five and three-tenths acres of land situated adjacent to and in the immediate rear of the Arlington Hotel in Hot Springs, Arkansas.
 
+
+## Source Credit
+
+*([Pub. L. 85–679](https://www.govinfo.gov/link/plaw/85/public/679), Aug. 18, 1958, [72 Stat. 630](https://www.govinfo.gov/link/statute/72/630).)*

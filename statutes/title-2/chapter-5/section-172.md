@@ -3,9 +3,10 @@ title: "Section 172 - Definitions"
 usc_title: 2
 usc_section: "172"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 172"
-generated_at: "2026-03-30T02:53:04.791Z"
+generated_at: "2026-11-23T20:25:28.854Z"
+status: "active"
 ---
 
 # § 172. Definitions
@@ -14,3 +15,7 @@ As used in sections 171 to 175 of this title—
 
   - **(1)** the term Center means the Center for the Book;
   - **(2)** the term Librarian means the Librarian of Congress.
+
+## Source Credit
+
+*([Pub. L. 95–129, § 2](https://www.govinfo.gov/link/plaw/95/public/129), Oct. 13, 1977, [91 Stat. 1151](https://www.govinfo.gov/link/statute/91/1151).)*

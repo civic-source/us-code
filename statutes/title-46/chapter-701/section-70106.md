@@ -3,9 +3,10 @@ title: "Section 70106 - Deployable, specialized forces"
 usc_title: 46
 usc_section: "70106"
 chapter: 701
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 70106"
-generated_at: "2026-03-30T02:56:15.586Z"
+generated_at: "2026-11-23T20:27:27.441Z"
+status: "active"
 ---
 
 # § 70106. Deployable, specialized forces
@@ -25,3 +26,33 @@ generated_at: "2026-03-30T02:56:15.586Z"
   - **(9)** carry out any other missions of the Coast Guard as are assigned to it by the Secretary.
 - **(c)** The enhanced teams established under subsection (a)(2) shall, to the extent practicable, be stationed in such a way so as to minimize the response time to maritime terrorist threats and potential or actual transportation security incidents.
 - **(d)** To the maximum extent feasible, the combined force of the specialized forces established under subsection (a) shall coordinate their activities with other Federal, State, and local law enforcement and emergency response agencies.
+
+Establishment.—
+
+In general
+
+Enhanced teams
+
+Mission
+
+Minimization of Response Times
+
+Coordination With Other Agencies
+
+Definitions
+
+Canine detection team
+
+Secretary
+
+Detection Canine Teams.—
+
+Increased capacity
+
+Canine procurement
+
+Deployment
+
+## Source Credit
+
+*(Added [Pub. L. 107–295, title I, § 102(a)](https://www.govinfo.gov/link/plaw/107/public/295), Nov. 25, 2002, [116 Stat. 2074](https://www.govinfo.gov/link/statute/116/2074); amended [Pub. L. 109–241, title III, § 305](https://www.govinfo.gov/link/plaw/109/public/241), July 11, 2006, [120 Stat. 528](https://www.govinfo.gov/link/statute/120/528); [Pub. L. 111–281, title VIII, § 804(a)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2990](https://www.govinfo.gov/link/statute/124/2990).)*

@@ -3,9 +3,10 @@ title: "Section 2996d - Officers and employees"
 usc_title: 42
 usc_section: "2996d"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2996d"
-generated_at: "2026-03-30T02:56:11.169Z"
+generated_at: "2026-11-23T20:27:22.180Z"
+status: "active"
 ---
 
 # § 2996d. Officers and employees
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.169Z"
   - **(2)** Nothing in this subchapter shall be construed as limiting the authority of the Office of Management and Budget to review and submit comments upon the Corporation’s annual budget request at the time it is transmitted to the Congress.
 - **(f)** Officers and employees of the Corporation shall be considered officers and employees of the Federal Government for purposes of the following provisions of title 5: subchapter I of chapter 81 (relating to compensation for work injuries); chapter 83 (relating to civil service retirement); chapter 87 (relating to life insurance); and chapter 89 (relating to health insurance). The Corporation shall make contributions at the same rates applicable to agencies of the Federal Government under the provisions referred to in this subsection.
 - **(g)** The Corporation and its officers and employees shall be subject to the provisions of section 552 of title 5 (relating to freedom of information).
+
+## Source Credit
+
+*([Pub. L. 88–452, title X, § 1005](https://www.govinfo.gov/link/plaw/88/public/452), as added [Pub. L. 93–355, § 2](https://www.govinfo.gov/link/plaw/93/public/355), July 25, 1974, [88 Stat. 380](https://www.govinfo.gov/link/statute/88/380).)*

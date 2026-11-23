@@ -3,9 +3,10 @@ title: "Section 3727 - Assignments of claims"
 usc_title: 31
 usc_section: "3727"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 3727"
-generated_at: "2026-03-30T02:55:34.060Z"
+generated_at: "2026-11-23T20:26:51.814Z"
+status: "active"
 ---
 
 # § 3727. Assignments of claims
@@ -27,3 +28,47 @@ generated_at: "2026-03-30T02:55:34.060Z"
 - **(e)**
   - **(1)** An assignee under this section does not have to make restitution of, refund, or repay the amount received because of the liability of the assignor to the Government that arises from or is independent of the contract.
   - **(2)** The Government may not collect or reclaim money paid to a person receiving an amount under an assignment or allotment of pay or allowances authorized by law when liability may exist because of the death of the person making the assignment or allotment.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3727(a) | 31:203(1st par. words before 9th comma). | R.S. § 3477; May 27, 1908, ch. 206 (last par. on p. 411), 35 Stat. 411 ; Oct. 9, 1940, ch. 779, § 1 (related to § 3477), 54 Stat. 1029 ; May 15, 1951, ch. 75, § 1 (related to § 1 related to § 3477), 65 Stat. 41 . |
+| 3727(b) | 31:203(1st par. words after 9th comma, 3d, last pars.). |  |
+| 3727(c) | 31:203(2d par.). |  |
+| 3727(d) | 31:203(5th par.). |  |
+| 3727(e)(1) | 31:203(4th par.). |  |
+| 3727(e)(2) | 31:239. | Aug. 10, 1956, ch. 1041, § 45 , 70A Stat. 638 . |
+
+
+Historical and Revision Notes
+
+3727(a)
+
+May 27, 1908, ch. 206
+
+35 Stat. 411
+
+Oct. 9, 1940, ch. 779, § 1
+
+54 Stat. 1029
+
+May 15, 1951, ch. 75, § 1
+
+65 Stat. 41
+
+3727(b)
+
+3727(c)
+
+3727(d)
+
+3727(e)(1)
+
+3727(e)(2)
+
+Aug. 10, 1956, ch. 1041, § 45
+
+70A Stat. 638
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 976](https://www.govinfo.gov/link/statute/96/976).)*

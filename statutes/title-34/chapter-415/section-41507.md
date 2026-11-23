@@ -3,9 +3,10 @@ title: "Section 41507 - National Gang Intelligence Center"
 usc_title: 34
 usc_section: "41507"
 chapter: 415
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 41507"
-generated_at: "2026-03-30T02:55:33.314Z"
+generated_at: "2026-11-23T20:26:50.661Z"
+status: "active"
 ---
 
 # § 41507. National Gang Intelligence Center
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:33.314Z"
   - **(4)** any other entity as appropriate.
 - **(c)** The Center established under subsection (a) shall annually submit to Congress a report on gang activity.
 - **(d)** There are authorized to be appropriated to carry out this section $10,000,000 for fiscal year 2006 and for each fiscal year thereafter.
+
+## Source Credit
+
+*([Pub. L. 109–162, title XI, § 1107](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3093](https://www.govinfo.gov/link/statute/119/3093); [Pub. L. 111–211, title II, § 251(a)](https://www.govinfo.gov/link/plaw/111/public/211), July 29, 2010, [124 Stat. 2297](https://www.govinfo.gov/link/statute/124/2297).)*

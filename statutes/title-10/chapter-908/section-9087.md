@@ -3,9 +3,10 @@ title: "Section 9087 - Space Development Agency"
 usc_title: 10
 usc_section: "9087"
 chapter: 908
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 9087"
-generated_at: "2026-03-30T02:53:38.256Z"
+generated_at: "2026-11-23T20:25:52.286Z"
+status: "active"
 ---
 
 # § 9087. Space Development Agency
@@ -37,3 +38,25 @@ generated_at: "2026-03-30T02:53:38.256Z"
   - **(3)** In this subsection:
     - **(A)** The term “tranche 0 capabilities” means capabilities relating to transport, battle management, tracking, custody, navigation, deterrence, and support, that are intended to be achieved by September 30, 2022 .
     - **(B)** The term “tranche 1 capabilities” means capabilities relating to transport, battle management, tracking, custody, navigation, deterrence, and support, that are intended to be achieved by September 30, 2024 .
+
+In General
+
+Development and Integration Authorities
+
+Budget Materials and Program Elements
+
+Delegation of Authorities
+
+Transfer
+
+Funding, duties, responsibilities, and personnel
+
+Review
+
+Recommendation
+
+Implementation
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. A, title XVI, § 1601(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4041](https://www.govinfo.gov/link/statute/134/4041), § 9084; renumbered § 9086 and amended [Pub. L. 117–81, div. A, title X, § 1081(a)(33)](https://www.govinfo.gov/link/plaw/117/public/81), title XVI, § 1603, Dec. 27, 2021, [135 Stat. 1921](https://www.govinfo.gov/link/statute/135/1921), 2077; renumbered § 9087, [Pub. L. 118–159, div. A, title V, § 509C(a)(1)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1873](https://www.govinfo.gov/link/statute/138/1873).)*

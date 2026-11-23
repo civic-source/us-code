@@ -3,9 +3,10 @@ title: "Section 9711 - Gap analysis on availability of snow-related data to asse
 usc_title: 15
 usc_section: "9711"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 9711"
-generated_at: "2026-03-30T02:54:08.250Z"
+generated_at: "2026-11-23T20:26:04.585Z"
+status: "active"
 ---
 
 # § 9711. Gap analysis on availability of snow-related data to assess and predict flood and flood impacts
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:08.250Z"
 - **(b)** Not later than 180 days after December 27, 2022 , the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on—
   - **(1)** the findings of the gap analysis required by subsection (a); and
   - **(2)** opportunities for additional collaboration among Federal agencies to collect snow-related data to better assess and predict floods and flood impacts.
+
+## Source Credit
+
+*([Pub. L. 117–316, § 16](https://www.govinfo.gov/link/plaw/117/public/316), Dec. 27, 2022, [136 Stat. 4417](https://www.govinfo.gov/link/statute/136/4417).)*

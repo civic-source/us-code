@@ -3,12 +3,17 @@ title: "Section 408 - International money-order exchanges"
 usc_title: 39
 usc_section: "408"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "39 U.S.C. § 408"
-generated_at: "2026-03-30T02:55:43.687Z"
+generated_at: "2026-11-23T20:26:57.708Z"
+status: "active"
 ---
 
 # § 408. International money-order exchanges
 
 The Postal Service may make arrangements with other governments, with which postal conventions are or may be concluded, for the exchange of sums of money by means of postal orders. It shall fix limitations on the amount which may be so exchanged and the rates of exchange.
 
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 725](https://www.govinfo.gov/link/statute/84/725).)*

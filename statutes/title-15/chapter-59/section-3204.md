@@ -3,9 +3,10 @@ title: "Section 3204 - Special rules for standards"
 usc_title: 15
 usc_section: "3204"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 3204"
-generated_at: "2026-03-30T02:54:08.188Z"
+generated_at: "2026-11-23T20:26:04.277Z"
+status: "active"
 ---
 
 # § 3204. Special rules for standards
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:08.188Z"
     - **(D)** advertising concerning employment opportunities with such utility,
     - **(E)** advertising which promotes the use of energy efficient appliances, equipment or services, or
     - **(F)** any explanation or justification of existing or proposed rate schedules, or notification of hearings thereon.
+
+## Source Credit
+
+*([Pub. L. 95–617, title III, § 304](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3151](https://www.govinfo.gov/link/statute/92/3151).)*

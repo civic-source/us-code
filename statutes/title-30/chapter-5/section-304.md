@@ -3,12 +3,17 @@ title: "Section 304 - Provisions authorized in lease"
 usc_title: 30
 usc_section: "304"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 304"
-generated_at: "2026-03-30T02:55:29.382Z"
+generated_at: "2026-11-23T20:26:34.933Z"
+status: "active"
 ---
 
 # § 304. Provisions authorized in lease
 
 Any lease granted by the Secretary of the Interior pursuant to this chapter may, in the discretion of said Secretary, contain a provision giving the lessee the right, with the approval of said Secretary, to shut down the operation of any well or wells the operation of which has become unprofitable, to resume operations when such resumption may result in profit, and to abandon any well or wells that cease to produce oil and/or gas in paying quantities.
 
+
+## Source Credit
+
+*(May 21, 1930, ch. 307, § 4, [46 Stat. 374](https://www.govinfo.gov/link/statute/46/374).)*

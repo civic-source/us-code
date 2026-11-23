@@ -3,9 +3,10 @@ title: "Section 2121 - Congressional findings; establishment of policy"
 usc_title: 22
 usc_section: "2121"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2121"
-generated_at: "2026-03-30T02:55:05.342Z"
+generated_at: "2026-11-23T20:26:32.156Z"
+status: "active"
 ---
 
 # § 2121. Congressional findings; establishment of policy
@@ -34,3 +35,17 @@ generated_at: "2026-03-30T02:55:05.342Z"
   - **(14)** insure the compatibility of tourism and recreation with other national interests in energy development and conservation, environmental protection, and the judicious use of natural resources;
   - **(15)** assist in the collection, analysis, and dissemination of data which accurately measure the economic and social impact of tourism to and within the United States, in order to facilitate planning in the public and private sectors; and
   - **(16)** harmonize, to the maximum extent possible, all Federal activities in support of tourism and recreation with the needs of the general public and the States, territories, local governments, and the tourism and recreation industry, and to give leadership to all concerned with tourism, recreation, and national heritage preservation in the United States.
+
+“The Congress finds that—
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+## Source Credit
+
+*([Pub. L. 87–63, title I, § 101](https://www.govinfo.gov/link/plaw/87/public/63), formerly § 1, June 29, 1961, [75 Stat. 129](https://www.govinfo.gov/link/statute/75/129); renumbered and amended [Pub. L. 97–63, § 2(a)](https://www.govinfo.gov/link/plaw/97/public/63), Oct. 16, 1981, [95 Stat. 1011](https://www.govinfo.gov/link/statute/95/1011); [Pub. L. 102–372, § 5](https://www.govinfo.gov/link/plaw/102/public/372), Sept. 30, 1992, [106 Stat. 1175](https://www.govinfo.gov/link/statute/106/1175).)*

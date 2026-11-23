@@ -3,9 +3,10 @@ title: "Section 10410 - Definitions"
 usc_title: 34
 usc_section: "10410"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10410"
-generated_at: "2026-03-30T02:55:33.268Z"
+generated_at: "2026-11-23T20:26:50.467Z"
+status: "active"
 ---
 
 # § 10410. Definitions
@@ -27,3 +28,7 @@ In this subchapter:
     - **(A)** activities specified in section 10401(b) of this title ; and
     - **(B)** other activities associated with prosecutorial and judicial services and corrections as reported to the Bureau of the Census for the fiscal year preceding the fiscal year for which a determination is made under this subchapter.
   - **(6)** The term “part 1 violent crimes” means murder and nonnegligent manslaughter, forcible rape, robbery, and aggravated assault as reported to the Federal Bureau of Investigation for purposes of the Uniform Crime Reports.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 1809](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 107–273, div. C, title II, § 12102(a)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1867](https://www.govinfo.gov/link/statute/116/1867).)*

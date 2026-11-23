@@ -3,9 +3,10 @@ title: "Section 284 - Support for counterdrug activities and activities to count
 usc_title: 10
 usc_section: "284"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 284"
-generated_at: "2026-03-30T02:53:38.051Z"
+generated_at: "2026-11-23T20:25:50.903Z"
+status: "active"
 ---
 
 # § 284. Support for counterdrug activities and activities to counter transnational organized crime
@@ -91,3 +92,87 @@ generated_at: "2026-03-30T02:53:38.051Z"
   - **(4)** The term “tribal government” means the governing body of an Indian tribe, the status of whose land is “Indian country” as defined in section 1151 of title 18 or held in trust by the United States for the benefit of the Indian tribe.
   - **(5)** The term “tribal law enforcement agency” means the law enforcement agency of a tribal government.
   - **(6)** The term “transnational organized crime” means self-perpetuating associations of individuals who operate transnationally for the purpose of obtaining power, influence, monetary, or commercial gains, wholly or in part by illegal means, while protecting their activities through a pattern of corruption or violence or through a transnational organization structure and the exploitation of transnational commerce or communication mechanisms.
+
+Support to Other Agencies
+
+Types of Support for Agencies of United States
+
+Types of Support for Foreign Law Enforcement Agencies.—
+
+Purposes
+
+Coordination with secretary of state
+
+Contract Authority
+
+Limited Waiver of Prohibition
+
+Conduct of Training or Operation To Aid Civilian Agencies
+
+Relationship to Other Support Authorities.—
+
+Additional authority
+
+Exception
+
+Congressional Notification.—
+
+In general
+
+Coordination with secretary of state
+
+Quarterly reports.—
+
+In general
+
+Appropriate committees of congress
+
+Definitions
+
+Report.—
+
+In general
+
+Elements
+
+Semiannual Updates
+
+Authority.—
+
+Provision of assistance.—
+
+In general
+
+Requirements
+
+Contract authority
+
+Notification requirement
+
+Concurrence in Assistance
+
+Types of Assistance Authorized
+
+Materiel and Logistical Support
+
+Funding
+
+Reports.—
+
+Report required
+
+Form of report
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*(Added § 384 and renumbered § 284, [Pub. L. 114–328, div. A, title X, § 1011(a)(1)](https://www.govinfo.gov/link/plaw/114/public/328), title XII, § 1241(a)(2), Dec. 23, 2016, [130 Stat. 2381](https://www.govinfo.gov/link/statute/130/2381), 2497; amended [Pub. L. 116–92, div. A, title XVII, § 1731(a)(14)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1813](https://www.govinfo.gov/link/statute/133/1813); [Pub. L. 116–283, div. A, title X, § 1011](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3839](https://www.govinfo.gov/link/statute/134/3839); [Pub. L. 118–31, div. A, title X](https://www.govinfo.gov/link/plaw/118/public/31), §§ 1010, 1011, Dec. 22, 2023, [137 Stat. 380](https://www.govinfo.gov/link/statute/137/380); [Pub. L. 119–60, div. A, title X, § 1010](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1030](https://www.govinfo.gov/link/statute/139/1030).)*

@@ -3,9 +3,10 @@ title: "Section 25 - Interest on certain home mortgages"
 usc_title: 26
 usc_section: "25"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 25"
-generated_at: "2026-03-30T02:55:27.586Z"
+generated_at: "2026-11-23T20:26:45.127Z"
+status: "active"
 ---
 
 # § 25. Interest on certain home mortgages
@@ -109,3 +110,15 @@ generated_at: "2026-03-30T02:55:27.586Z"
   - **(1)** The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section, including regulations which may require recipients of mortgage credit certificates to pay a reasonable processing fee to defray the expenses incurred in administering the program.
   - **(2)** The Secretary is authorized to enter into contracts with any person to provide services in connection with the administration of this section.
 - **(i)** For provisions increasing the tax imposed by this chapter to recapture a portion of the Federal subsidy from the use of mortgage credit certificates, see section 143(m).
+
+In general
+
+Exclusion from gross income
+
+In general
+
+Elections
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title VI, § 612(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 905](https://www.govinfo.gov/link/statute/98/905); amended [Pub. L. 99–514, title XIII, § 1301(f)](https://www.govinfo.gov/link/plaw/99/public/514), title XVIII, §§ 1862(a)–(d)(1), 1899A(1), Oct. 22, 1986, [100 Stat. 2655](https://www.govinfo.gov/link/statute/100/2655), 2883, 2884, 2958; [Pub. L. 100–647, title I, § 1013(a)(25)](https://www.govinfo.gov/link/plaw/100/public/647), (26), title IV, § 4005(a)(2), (g)(7), Nov. 10, 1988, [102 Stat. 3543](https://www.govinfo.gov/link/statute/102/3543), 3645, 3651; [Pub. L. 101–239, title VII, § 7104(b)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2305](https://www.govinfo.gov/link/statute/103/2305); [Pub. L. 101–508, title XI, § 11408(b)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–477](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 102–227, title I, § 108(b)](https://www.govinfo.gov/link/plaw/102/public/227), Dec. 11, 1991, [105 Stat. 1688](https://www.govinfo.gov/link/statute/105/1688); [Pub. L. 103–66, title XIII, § 13141(b)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 436](https://www.govinfo.gov/link/statute/107/436); [Pub. L. 104–188, title I, § 1807(c)(1)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1902](https://www.govinfo.gov/link/statute/110/1902); [Pub. L. 105–34, title III, § 312(d)(1)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 839](https://www.govinfo.gov/link/statute/111/839); [Pub. L. 105–206, title VI, § 6008(d)(7)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 812](https://www.govinfo.gov/link/statute/112/812); [Pub. L. 107–16, title II, § 201(b)(2)(F)](https://www.govinfo.gov/link/plaw/107/public/16), title VI, § 618(b)(2)(B), June 7, 2001, [115 Stat. 46](https://www.govinfo.gov/link/statute/115/46), 108; [Pub. L. 109–58, title XIII, § 1335(b)(2)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 1036](https://www.govinfo.gov/link/statute/119/1036); [Pub. L. 109–135, title IV, § 402(i)(3)(C)](https://www.govinfo.gov/link/plaw/109/public/135), (4), Dec. 21, 2005, [119 Stat. 2613](https://www.govinfo.gov/link/statute/119/2613), 2615; [Pub. L. 110–343, div. B, title II, § 205(d)(1)(B)](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3838](https://www.govinfo.gov/link/statute/122/3838); [Pub. L. 111–5, div. B, title I](https://www.govinfo.gov/link/plaw/111/public/5), §§ 1004(b)(2), 1142(b)(1)(B), 1144(b)(1)(B), Feb. 17, 2009, [123 Stat. 314](https://www.govinfo.gov/link/statute/123/314), 330, 332; [Pub. L. 111–148, title X, § 10909(b)(2)(B)](https://www.govinfo.gov/link/plaw/111/public/148), (c), Mar. 23, 2010, [124 Stat. 1023](https://www.govinfo.gov/link/statute/124/1023); [Pub. L. 111–312, title I, § 101(b)(1)](https://www.govinfo.gov/link/plaw/111/public/312), Dec. 17, 2010, [124 Stat. 3298](https://www.govinfo.gov/link/statute/124/3298); [Pub. L. 112–240, title I, § 104(c)(2)(C)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2322](https://www.govinfo.gov/link/statute/126/2322); [Pub. L. 115–141, div. U, title IV, § 401(d)(4)(B)(ii)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1209](https://www.govinfo.gov/link/statute/132/1209); [Pub. L. 119–21, title VII, § 70411(a)(2)(A)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 217](https://www.govinfo.gov/link/statute/139/217).)*

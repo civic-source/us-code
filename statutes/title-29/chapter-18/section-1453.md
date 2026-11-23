@@ -3,9 +3,10 @@ title: "Section 1453 - Election of plan status"
 usc_title: 29
 usc_section: "1453"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1453"
-generated_at: "2026-03-30T02:55:18.738Z"
+generated_at: "2026-11-23T20:26:38.045Z"
+status: "active"
 ---
 
 # § 1453. Election of plan status
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:18.738Z"
   - **(1)** the plan is amended to provide that it shall not be treated as a multiemployer plan for all purposes under this chapter and the Internal Revenue Code of 1954, and
   - **(2)** written notice of the amendment is provided to the corporation within 60 days after the amendment is adopted.
 - **(c)** An election described in subsection (a) shall be treated as being effective as of September 26, 1980 .
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4303](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 96–364, title I, § 108(f)](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1270](https://www.govinfo.gov/link/statute/94/1270).)*

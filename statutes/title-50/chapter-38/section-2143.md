@@ -3,9 +3,10 @@ title: "Section 2143 - Alternative forms of annuities"
 usc_title: 50
 usc_section: "2143"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 2143"
-generated_at: "2026-03-30T02:56:26.219Z"
+generated_at: "2026-11-23T20:27:30.829Z"
+status: "active"
 ---
 
 # § 2143. Alternative forms of annuities
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:26.219Z"
 - **(b)** The regulations and alternative forms of annuity shall, to the maximum extent practicable, meet the requirements prescribed in section 8343a of title 5 .
 - **(c)** Any lump-sum credit provided pursuant to an election under subsection (a) shall not preclude an individual from receiving other benefits provided under that subsection.
 - **(d)** The Director shall submit the regulations prescribed under subsection (a) to the congressional intelligence committees before the regulations take effect.
+
+## Source Credit
+
+*([Pub. L. 88–643, title II, § 294](https://www.govinfo.gov/link/plaw/88/public/643), as added [Pub. L. 102–496, title VIII, § 802](https://www.govinfo.gov/link/plaw/102/public/496), Oct. 24, 1992, [106 Stat. 3242](https://www.govinfo.gov/link/statute/106/3242); amended [Pub. L. 103–66, title XI, § 11002(c)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 409](https://www.govinfo.gov/link/statute/107/409).)*

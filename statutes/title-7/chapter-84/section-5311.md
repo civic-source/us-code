@@ -3,9 +3,10 @@ title: "Section 5311 - Establishment of coordinated program"
 usc_title: 7
 usc_section: "5311"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 5311"
-generated_at: "2026-03-30T02:53:42.413Z"
+generated_at: "2026-11-23T20:25:41.643Z"
+status: "active"
 ---
 
 # § 5311. Establishment of coordinated program
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:42.413Z"
 - **(d)** To establish a central focus and coordinator for the coordinated program, the Secretaries may appoint an Administrator of Nutrition Monitoring and Related Research. The Administrator shall—
   - **(1)** be an individual who is eminent in the field of nutrition monitoring and related areas and be selected on the basis of the established record of expertise and distinguished service of such individual; and
   - **(2)** administer the coordinated program with the advice and counsel of the joint chairpersons of the Board, serve as the focal point for the coordinated program, and serve as the Executive Secretary for the National Nutrition Monitoring Advisory Council.
+
+## Source Credit
+
+*([Pub. L. 101–445, title I, § 101](https://www.govinfo.gov/link/plaw/101/public/445), Oct. 22, 1990, [104 Stat. 1035](https://www.govinfo.gov/link/statute/104/1035).)*

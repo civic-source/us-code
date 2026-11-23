@@ -3,9 +3,10 @@ title: "Section 6332 - Allocations to States"
 usc_title: 20
 usc_section: "6332"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 6332"
-generated_at: "2026-03-30T02:54:48.196Z"
+generated_at: "2026-11-23T20:26:14.828Z"
+status: "active"
 ---
 
 # § 6332. Allocations to States
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:48.196Z"
   - **(1)** If the sums made available under this subpart for any fiscal year are insufficient to pay the full amounts that local educational agencies in all States are eligible to receive under subsection (c) for such year, the Secretary shall ratably reduce such amounts for such year.
   - **(2)** If additional funds become available for making payments under subsection (c) for such fiscal year, amounts that were reduced under paragraph (1) shall be increased on the same basis as such amounts were reduced.
 - **(e)** For the purpose of this section and sections 6333, 6334, 6335, and 6337 of this title, the term “State” means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
+
+## Source Credit
+
+*([Pub. L. 89–10, title I, § 1122](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 107–110, title I, § 101](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1515](https://www.govinfo.gov/link/statute/115/1515); amended [Pub. L. 114–95, title I, § 1015](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1878](https://www.govinfo.gov/link/statute/129/1878).)*

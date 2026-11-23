@@ -3,9 +3,10 @@ title: "Section 2463 - Designation of eligible articles"
 usc_title: 19
 usc_section: "2463"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2463"
-generated_at: "2026-03-30T02:54:24.675Z"
+generated_at: "2026-11-23T20:26:10.974Z"
+status: "active"
 ---
 
 # § 2463. Designation of eligible articles
@@ -89,3 +90,11 @@ generated_at: "2026-03-30T02:54:24.675Z"
   - **(5)** Any waiver granted under this subsection shall remain in effect until the President determines that such waiver is no longer warranted due to changed circumstances.
 - **(e)** Before designating articles as eligible articles under subsection (a)(1), the President shall publish and furnish the International Trade Commission with lists of articles which may be considered for designation as eligible articles for purposes of this subchapter. The provisions of sections 2151, 2152, 2153, and 2154 of this title shall be complied with as though action under section 2461 of this title and this section were action under section 2133 of this title to carry out a trade agreement entered into under section 2133 of this title .
 - **(f)** No action under this subchapter may affect any tariff duty imposed by the Legislature of Puerto Rico pursuant to section 1319 of this title on coffee imported into Puerto Rico.
+
+In General
+
+Article Described
+
+## Source Credit
+
+*([Pub. L. 93–618, title V, § 503](https://www.govinfo.gov/link/plaw/93/public/618), as added [Pub. L. 104–188, title I, § 1952(a)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1921](https://www.govinfo.gov/link/statute/110/1921); amended [Pub. L. 106–36, title I, § 1001(a)(7)](https://www.govinfo.gov/link/plaw/106/public/36), June 25, 1999, [113 Stat. 130](https://www.govinfo.gov/link/statute/113/130); [Pub. L. 106–200, title I, § 111(b)](https://www.govinfo.gov/link/plaw/106/public/200), May 18, 2000, [114 Stat. 258](https://www.govinfo.gov/link/statute/114/258); [Pub. L. 108–429, title I, § 1555(a)](https://www.govinfo.gov/link/plaw/108/public/429), (b), Dec. 3, 2004, [118 Stat. 2578](https://www.govinfo.gov/link/statute/118/2578), 2579; [Pub. L. 109–432, div. D, title VIII, § 8001](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 3195](https://www.govinfo.gov/link/statute/120/3195); [Pub. L. 114–27, title II](https://www.govinfo.gov/link/plaw/114/public/27), §§ 202, 204, June 29, 2015, [129 Stat. 372](https://www.govinfo.gov/link/statute/129/372); [Pub. L. 115–141, div. M, title V, § 502](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1051](https://www.govinfo.gov/link/statute/132/1051).)*

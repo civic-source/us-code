@@ -3,9 +3,10 @@ title: "Section 8306 - Determining status of novel derivative products"
 usc_title: 15
 usc_section: "8306"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 8306"
-generated_at: "2026-03-30T02:54:08.229Z"
+generated_at: "2026-11-23T20:26:04.483Z"
+status: "active"
 ---
 
 # § 8306. Determining status of novel derivative products
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:08.229Z"
   - **(2)** A copy of a petition described in paragraph (1) shall be transmitted not later than 1 business day after filing by the complaining Commission to the responding Commission. On receipt of the petition, the responding Commission shall file with the court a copy of the order under review and any documents referred to therein, and any other materials prescribed by the court.
   - **(3)** The court, in considering a petition filed pursuant to paragraph (1), shall give no deference to, or presumption in favor of, the views of either Commission.
   - **(4)** The filing of a petition by the complaining Commission pursuant to paragraph (1) shall operate as a stay of the order, until the date on which the determination of the court is final (including any appeal of the determination).
+
+## Source Credit
+
+*([Pub. L. 111–203, title VII, § 718](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1652](https://www.govinfo.gov/link/statute/124/1652).)*

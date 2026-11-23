@@ -3,9 +3,10 @@ title: "Section 178h - Powers of Secretary of Commerce"
 usc_title: 7
 usc_section: "178h"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 178h"
-generated_at: "2026-03-30T02:53:42.276Z"
+generated_at: "2026-11-23T20:25:40.991Z"
+status: "active"
 ---
 
 # § 178h. Powers of Secretary of Commerce
@@ -18,3 +19,7 @@ In carrying out the provisions of this subchapter, the Secretary of Commerce is 
 - **(d)** establish and operate necessary facilities and pilot plants to carry out the continuous research, testing, development, and programing necessary to effectuate the purposes of this section;
 - **(e)** acquire secret processes, technical data, invention, patent applications, patents, licenses, land and interests in land (including water rights), plants and facilities, and other property or rights by purchase, license, lease, or donation; and
 - **(f)** foster and participate in regional, national, and international conferences relating to the activities authorized by this subchapter.
+
+## Source Credit
+
+*([Pub. L. 95–592, § 10](https://www.govinfo.gov/link/plaw/95/public/592), Nov. 4, 1978, [92 Stat. 2533](https://www.govinfo.gov/link/statute/92/2533); [Pub. L. 98–284, § 10](https://www.govinfo.gov/link/plaw/98/public/284), May 16, 1984, [98 Stat. 184](https://www.govinfo.gov/link/statute/98/184).)*

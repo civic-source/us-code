@@ -3,9 +3,10 @@ title: "Section 4803 - Streamlining of regulatory requirements"
 usc_title: 12
 usc_section: "4803"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4803"
-generated_at: "2026-03-30T02:53:53.519Z"
+generated_at: "2026-11-23T20:25:59.432Z"
+status: "active"
 ---
 
 # § 4803. Streamlining of regulatory requirements
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:53.519Z"
   - **(1)** review the regulations and written policies of the Board with respect to disclosures pursuant to the Truth in Lending Act [ 15 U.S.C. 1601 et seq.] with regard to variable-rate mortgages in order to simplify the disclosures, if necessary, and make the disclosures more meaningful and comprehensible to consumers;
   - **(2)** implement any necessary regulatory changes, consistent with applicable law; and
   - **(3)** not later than 2 years after completion of the review required by paragraph (1), submit a report to the Congress on the results of its actions taken in accordance with this subsection and any recommended legislative actions.
+
+## Source Credit
+
+*([Pub. L. 103–325, title III, § 303](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2215](https://www.govinfo.gov/link/statute/108/2215); [Pub. L. 104–208, div. A, title II, § 2242](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–418](https://www.govinfo.gov/link/statute/110/3009).)*

@@ -3,9 +3,10 @@ title: "Section 1345 - Recapture of payments"
 usc_title: 29
 usc_section: "1345"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1345"
-generated_at: "2026-03-30T02:55:18.733Z"
+generated_at: "2026-11-23T20:26:38.024Z"
+status: "active"
 ---
 
 # § 1345. Recapture of payments
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:18.733Z"
   - **(1)** In the event of a distribution described in section 1343(b)(7) 1 1 See References in Text note below. of this title the 3-year period referred to in subsection (b) shall not end sooner than the date on which the corporation is notified of the distribution.
   - **(2)** The trustee shall not recover any payment made from a plan after or on account of the death of a participant, or to a participant who is disabled (within the meaning of section 72(m)(7) of title 26 ).
   - **(3)** The corporation is authorized to waive, in whole or in part, the recovery of any amount which the trustee is authorized to recover for the benefit of a plan under this section in any case in which it determines that substantial economic hardship would result to the participant or his beneficiaries from whom such amount is recoverable.
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4045](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 1027](https://www.govinfo.gov/link/statute/88/1027); [Pub. L. 101–239, title VII, § 7891(a)(1)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2445](https://www.govinfo.gov/link/statute/103/2445).)*

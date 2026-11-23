@@ -3,9 +3,10 @@ title: "Section 9564 - Regional educational laboratories for research, developme
 usc_title: 20
 usc_section: "9564"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 9564"
-generated_at: "2026-03-30T02:54:48.228Z"
+generated_at: "2026-11-23T20:26:14.993Z"
+status: "active"
 ---
 
 # § 9564. Regional educational laboratories for research, development, dissemination, and technical assistance
@@ -94,3 +95,7 @@ generated_at: "2026-03-30T02:54:48.228Z"
   - **(1)** a plan covering the succeeding fiscal year, in which such laboratory’s mission, activities, and scope of work are described, including a general description of the plans such laboratory expects to submit in the remaining years of such laboratory’s contract; and
   - **(2)** a report of how well such laboratory is meeting the needs of the region, including a summary of activities during the preceding year, a list of entities served, a list of products, and any other information that the regional educational laboratory may consider relevant or the Evaluation and Regional Assistance Commissioner may require.
 - **(o)** Nothing in this section shall be construed to require any modifications in a regional educational laboratory contract in effect on the day before November 5, 2002 .
+
+## Source Credit
+
+*([Pub. L. 107–279, title I, § 174](https://www.govinfo.gov/link/plaw/107/public/279), Nov. 5, 2002, [116 Stat. 1965](https://www.govinfo.gov/link/statute/116/1965).)*

@@ -3,9 +3,10 @@ title: "Section 2154 - Compulsory retirement"
 usc_title: 14
 usc_section: "2154"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 2154"
-generated_at: "2026-03-30T02:53:51.498Z"
+generated_at: "2026-11-23T20:25:54.597Z"
+status: "active"
 ---
 
 # § 2154. Compulsory retirement
@@ -28,3 +29,23 @@ generated_at: "2026-03-30T02:53:51.498Z"
     - **(A)** a physician, surgeon, medical specialist, nurse or nurse practitioner, physician’s assistant, health service technician, therapist, fully licensed clinical psychotherapist, counselor, social worker, medical assistant, radiology assistant, pharmacist, pharmacy assistant, nutritionist, dietitian, any administrative personnel associated with a Coast Guard medical program (including a clinic), personnel who works in a medical laboratory, physical therapist, physical therapist aide, occupational therapist, or occupational therapist aide;
     - **(B)** a dentist, dental assistant, oral surgeon, or any other dental-related personnel; or
     - **(C)** a member of a category designated by the Secretary under paragraph (3).
+
+Regular Commissioned Officers
+
+Flag-Officer Grades
+
+Deferred Retirement or Separation for Health Professions Officers.—
+
+In general
+
+Limitation
+
+Designation
+
+Rule of construction
+
+Health professions officer defined
+
+## Source Credit
+
+*(Added [Pub. L. 111–281, title II, § 215(a)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2916](https://www.govinfo.gov/link/statute/124/2916), § 293; renumbered § 2154, [Pub. L. 115–282, title I, § 112(b)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4216](https://www.govinfo.gov/link/statute/132/4216); amended [Pub. L. 119–60, div. G, title LXXII, § 7222(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1700](https://www.govinfo.gov/link/statute/139/1700).)*

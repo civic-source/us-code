@@ -3,9 +3,10 @@ title: "Section 887 - Imposition of tax on gross transportation income of nonres
 usc_title: 26
 usc_section: "887"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 887"
-generated_at: "2026-03-30T02:55:27.742Z"
+generated_at: "2026-11-23T20:26:45.952Z"
+status: "active"
 ---
 
 # § 887. Imposition of tax on gross transportation income of nonresident aliens and foreign corporations
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:27.742Z"
     - **(A)** the taxpayer has a fixed place of business in the United States involved in the earning of United States source gross transportation income, and
     - **(B)** substantially all of the United States source gross transportation income (determined without regard to paragraph (2)) of the taxpayer is attributable to regularly scheduled transportation (or, in the case of income from the leasing of a vessel or aircraft, is attributable to a fixed place of business in the United States).
 - **(c)** Any income taxable under this section shall not be taxable under section 871, 881, or 882.
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title XII, § 1212(b)(1)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2537](https://www.govinfo.gov/link/statute/100/2537); amended [Pub. L. 100–647, title I, § 1012(e)(6)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3500](https://www.govinfo.gov/link/statute/102/3500); [Pub. L. 101–239, title VII, § 7811(i)(8)(A)](https://www.govinfo.gov/link/plaw/101/public/239), (B), (9), Dec. 19, 1989, [103 Stat. 2410](https://www.govinfo.gov/link/statute/103/2410), 2411.)*

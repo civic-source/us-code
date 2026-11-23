@@ -3,9 +3,10 @@ title: "Section 15302 - Decisions"
 usc_title: 40
 usc_section: "15302"
 chapter: 153
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 15302"
-generated_at: "2026-03-30T02:55:43.388Z"
+generated_at: "2026-11-23T20:26:56.700Z"
+status: "active"
 ---
 
 # § 15302. Decisions
@@ -18,3 +19,19 @@ generated_at: "2026-03-30T02:55:43.388Z"
     - **(A)** the Federal Cochairperson or the alternate Federal Cochairperson; and
     - **(B)** a majority of State members or alternate State members, including designees (exclusive of members representing States delinquent under section 15304(c)(3)(C)).
 - **(d)** The approval of project and grant proposals shall be a responsibility of each Commission and shall be carried out in accordance with section 15503.
+
+Requirements for Approval
+
+Consultation
+
+Quorums.—
+
+In general
+
+Requirements
+
+Projects and Grant Proposals
+
+## Source Credit
+
+*(Added [Pub. L. 110–234, title XIV, § 14217(a)(2)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1470](https://www.govinfo.gov/link/statute/122/1470), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIV, § 14217(a)(2), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2232; amended [Pub. L. 118–272, div. B, title II, § 2242(b)](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3202](https://www.govinfo.gov/link/statute/138/3202).)*

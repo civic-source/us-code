@@ -3,9 +3,10 @@ title: "Section 5914 - Reports"
 usc_title: 12
 usc_section: "5914"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5914"
-generated_at: "2026-03-30T02:53:53.553Z"
+generated_at: "2026-11-23T20:25:59.552Z"
+status: "active"
 ---
 
 # § 5914. Reports
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:53.553Z"
   - **(2)** a summary of the number of applications for approval as a permitted payment stablecoin issuer under section 5904 of this title , including aggregate approvals and rejections of applications; and
   - **(3)** a description of the potential financial stability risks posed to the safety and soundness of the broader financial system by payment stablecoin activities.
 - **(b)** The Financial Stability Oversight Council shall incorporate the findings in the report under subsection (a) into the annual report of the Council required under section 5322(a)(2)(N) of this title .
+
+## Source Credit
+
+*([Pub. L. 119–27, § 15](https://www.govinfo.gov/link/plaw/119/public/27), July 18, 2025, [139 Stat. 460](https://www.govinfo.gov/link/statute/139/460).)*

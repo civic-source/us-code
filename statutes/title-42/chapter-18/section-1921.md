@@ -3,12 +3,17 @@ title: "Section 1921 - Establishment of medals for bravery; rules and regulation
 usc_title: 42
 usc_section: "1921"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1921"
-generated_at: "2026-03-30T02:56:11.131Z"
+generated_at: "2026-11-23T20:27:21.973Z"
+status: "active"
 ---
 
 # § 1921. Establishment of medals for bravery; rules and regulations; conditions governing awards
 
 The Department of Justice be, and it is, authorized and directed to promulgate rules and regulations establishing a medal; the method of selecting such recipient thereof so that an award shall be made to any child residing in the United States, who is eighteen years old or under, who has exhibited exceptional courage, extraordinary decision, presence of mind, and unusual swiftness of action, regardless of his or her own personal safety, in an effort to save or successfully saving the life or lives of any person or persons whose life or lives were in actual imminent danger.
 
+
+## Source Credit
+
+*(Aug. 3, 1950, ch. 520, § 1, [64 Stat. 397](https://www.govinfo.gov/link/statute/64/397).)*

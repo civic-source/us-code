@@ -3,9 +3,10 @@ title: "Section 539d - National forest timber utilization program"
 usc_title: 16
 usc_section: "539d"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 539d"
-generated_at: "2026-03-30T02:54:22.863Z"
+generated_at: "2026-11-23T20:26:20.103Z"
+status: "active"
 ---
 
 # § 539d. National forest timber utilization program
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:22.863Z"
 - **(d)** All provisions of section 6(k) of the National Forest Management Act of 1976 ( 16 U.S.C. 1604(k) ) shall apply to the Tongass National Forest except that the Secretary need not consider economic factors in the identification of lands not suited for timber production.
 - **(e)** In order to assure protection of riparian habitat, the Secretary shall maintain a buffer zone of no less than one hundred feet in width on each side of all Class I streams in the Tongass National Forest, and on those Class II streams which flow directly into a Class I stream, within which commercial timber harvesting shall be prohibited, except where independent national forest timber sales have already been sold prior to March 1, 1990 , or where volume has been released prior to March 1, 1990 , to either the Alaska Pulp Corporation or the Ketchikan Pulp Company pursuant to the long-term timber sale contracts numbered 12–11–010–1545 and A10fs–1042 respectively. If such an independent timber sale or released volume is within the buffer zone, the Secretary shall make every effort to relocate such independent sale or released volume to an area outside of the buffer zone. The Secretary shall use best management practices, as defined in the Region 10 Soil and Water Conservation handbook 1 1 So in original. Probably should be capitalized. (FSH 2509.22), January 1990, to assure the protection of riparian habitat on streams or portions of streams not protected by such buffer zones. For the purposes of this subsection, the terms “Class I streams” and “Class II streams” mean the same as they do in the Region 10 Aquatic Habitat Management Handbook (FSH 2609.24), June 1986.
 - **(f)** Subject to appropriations, the provisions of this Act and other applicable law (including but not limited to the requirements of the National Forest Management Act of 1976 ( Public Law 94–588 )) and in order to assure the continuation of the Small Business Administration timber sale program, the Secretary shall, in consultation with the Administrator of the Small Business Administration and to the extent consistent with providing for the multiple use and sustained yield of all renewable forest resources, seek to provide a supply of timber from the Tongass National Forest to those purchasers qualifying as “small business concerns” under the Small Business Act as amended ( 15 U.S.C. 631 et seq.).
+
+## Source Credit
+
+*([Pub. L. 96–487, title VII, § 705](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2420](https://www.govinfo.gov/link/statute/94/2420); [Pub. L. 101–626, title I](https://www.govinfo.gov/link/plaw/101/public/626), §§ 101–103(a), 105(b), Nov. 28, 1990, [104 Stat. 4426](https://www.govinfo.gov/link/statute/104/4426), 4427.)*

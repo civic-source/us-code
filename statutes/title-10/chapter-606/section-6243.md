@@ -3,9 +3,10 @@ title: "Section 6243 - Department of Energy defense nuclear facilities workforce
 usc_title: 10
 usc_section: "6243"
 chapter: 606
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6243"
-generated_at: "2026-03-30T02:53:38.224Z"
+generated_at: "2026-11-23T20:25:52.024Z"
+status: "active"
 ---
 
 # § 6243. Department of Energy defense nuclear facilities workforce restructuring plan
@@ -42,3 +43,19 @@ generated_at: "2026-03-30T02:53:38.224Z"
     - **(A)** is no longer in operation;
     - **(B)** was under the control or jurisdiction of the Department of Defense, the Atomic Energy Commission, or the Energy Research and Development Administration; and
     - **(C)** was operated for national security purposes.
+
+In General
+
+Consultation
+
+Objectives
+
+Implementation
+
+Submittal to Congress
+
+Department of Energy Defense Nuclear Facility Defined
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2)(B), Dec. 18, 2025, [139 Stat. 1415](https://www.govinfo.gov/link/statute/139/1415), 1462.)*

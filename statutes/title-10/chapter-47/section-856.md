@@ -3,9 +3,10 @@ title: "Section 856 - Art. 56. Sentencing"
 usc_title: 10
 usc_section: "856"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 856"
-generated_at: "2026-03-30T02:53:38.081Z"
+generated_at: "2026-11-23T20:25:51.077Z"
+status: "active"
 ---
 
 # § 856. Art. 56. Sentencing
@@ -56,3 +57,70 @@ generated_at: "2026-03-30T02:53:38.081Z"
     - **(B)** in the case of a sentence for an offense for which the President has established a sentencing parameter pursuant to section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022, the sentence is a result of an incorrect application of the parameter; or
     - **(C)** the sentence is plainly unreasonable.
   - **(2)** An appeal under this subsection must be filed within 60 days after the date on which the judgment of a court-martial is entered into the record under section 860c of this title (article 60c).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 856 | 50:637. | May 5, 1950, ch. 169, § 1 (Art. 56), 64 Stat. 126 . |
+
+
+Sentence Maximums
+
+Sentence Minimums for Certain Offenses
+
+Imposition of Sentence.—
+
+In general
+
+Application of sentencing parameters in general and special courts-martial.—
+
+Requirement to sentence within parameters
+
+Exception
+
+Use of sentencing criteria in general and special courts-martial
+
+Offense-based sentencing in general and special courts-martial
+
+Inapplicability to death penalty
+
+Sentence of confinement for life without eligibility for parole.—
+
+In general
+
+Term of confinement
+
+Appeal of Sentence by the United States
+
+Historical and Revision Notes
+
+856
+
+May 5, 1950, ch. 169, § 1
+
+64 Stat. 126
+
+In general
+
+Sentencing parameters
+
+Sentencing criteria
+
+Military sentencing parameters and criteria board.—
+
+In general
+
+Voting members
+
+Nonvoting members
+
+Chair and vice-chair
+
+Voting requirement
+
+Duties of board
+
+J.R. Biden, Jr.
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 56; [Pub. L. 113–66, div. A, title XVII, § 1702(a)(1)](https://www.govinfo.gov/link/plaw/113/public/66), (2)(A), Dec. 26, 2013, [127 Stat. 959](https://www.govinfo.gov/link/statute/127/959); [Pub. L. 114–328, div. E, title LVIII, § 5301(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2919](https://www.govinfo.gov/link/statute/130/2919); [Pub. L. 115–91, div. A, title V, § 531(e)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1385](https://www.govinfo.gov/link/statute/131/1385); [Pub. L. 117–81, div. A, title V, § 539E(c)](https://www.govinfo.gov/link/plaw/117/public/81), title X, § 1081(a)(14), Dec. 27, 2021, [135 Stat. 1701](https://www.govinfo.gov/link/statute/135/1701), 1920.)*

@@ -3,9 +3,10 @@ title: "Section 1411 - Authorization; allotment; use of funds; authorization of 
 usc_title: 20
 usc_section: "1411"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1411"
-generated_at: "2026-03-30T02:54:48.160Z"
+generated_at: "2026-11-23T20:26:14.632Z"
+status: "active"
 ---
 
 # § 1411. Authorization; allotment; use of funds; authorization of appropriations
@@ -191,3 +192,23 @@ generated_at: "2026-03-30T02:54:48.160Z"
   - **(6)** $23,809,729,429 for fiscal year 2010;
   - **(7)** $26,100,000,000 for fiscal year 2011; and
   - **(8)** such sums as may be necessary for fiscal year 2012 and each succeeding fiscal year.
+
+(aa) the amount the State received under this section for fiscal year 1999; and
+
+(bb) ⅓ of 1 percent of the amount by which the amount appropriated under subsection (i) for the fiscal year exceeds the amount appropriated for this section for fiscal year 1999;
+
+(aa) the amount the State received under this section for the preceding fiscal year; and
+
+(bb) that amount multiplied by the percentage by which the increase in the funds appropriated for this section from the preceding fiscal year exceeds 1.5 percent; or
+
+(aa) the amount the State received under this section for the preceding fiscal year; and
+
+(bb) that amount multiplied by 90 percent of the percentage increase in the amount appropriated for this section from the preceding fiscal year.
+
+(aa) addresses the financial impact a high need child with a disability has on the budget of the child’s local educational agency; and
+
+(bb) ensures that the cost of the high need child with a disability is greater than 3 times the average per pupil expenditure (as defined in section 7801 of this title ) in that State;
+
+## Source Credit
+
+*([Pub. L. 91–230, title VI, § 611](https://www.govinfo.gov/link/plaw/91/public/230), as added [Pub. L. 108–446, title I, § 101](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2662](https://www.govinfo.gov/link/statute/118/2662); amended [Pub. L. 114–95, title IX, § 9215(ss)(2)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2181](https://www.govinfo.gov/link/statute/129/2181); [Pub. L. 118–42, div. G, title II, § 209(b)(3)](https://www.govinfo.gov/link/plaw/118/public/42), Mar. 9, 2024, [138 Stat. 442](https://www.govinfo.gov/link/statute/138/442).)*

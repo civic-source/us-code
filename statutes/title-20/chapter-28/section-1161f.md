@@ -3,9 +3,10 @@ title: "Section 1161f - Teach For America"
 usc_title: 20
 usc_section: "1161f"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1161f"
-generated_at: "2026-03-30T02:54:48.151Z"
+generated_at: "2026-11-23T20:26:14.584Z"
+status: "active"
 ---
 
 # § 1161f. Teach For America
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:54:48.151Z"
     - **(B)** $25,000,000 for fiscal year 2010; and
     - **(C)** such sums as may be necessary for each of the four succeeding fiscal years.
   - **(2)** The grantee shall not use more than 5 percent of Federal funds made available under this section for non-programmatic costs to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 89–329, title VIII, § 806](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title VIII, § 801](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3390](https://www.govinfo.gov/link/statute/122/3390); amended [Pub. L. 114–95, title IX, § 9214(c)(12)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2164](https://www.govinfo.gov/link/statute/129/2164).)*

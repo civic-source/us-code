@@ -3,12 +3,17 @@ title: "Section 470ll - Annual report to Congress"
 usc_title: 16
 usc_section: "470ll"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 470ll"
-generated_at: "2026-03-30T02:54:22.854Z"
+generated_at: "2026-11-23T20:26:20.066Z"
+status: "active"
 ---
 
 # § 470ll. Annual report to Congress
 
 As part of the annual report required to be submitted to the specified committees of the Congress pursuant to section 469a–3(c) 1 1 See References in Text note below. of this title, the Secretary of the Interior shall comprehensively report as a separate component on the activities carried out under the provisions of this chapter, and he shall make such recommendations as he deems appropriate as to changes or improvements needed in the provisions of this chapter. Such report shall include a brief summary of the actions undertaken by the Secretary under section 470jj of this title , relating to cooperation with private individuals.
 
+
+## Source Credit
+
+*([Pub. L. 96–95, § 13](https://www.govinfo.gov/link/plaw/96/public/95), Oct. 31, 1979, [93 Stat. 728](https://www.govinfo.gov/link/statute/93/728).)*

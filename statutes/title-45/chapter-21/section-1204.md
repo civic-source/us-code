@@ -3,9 +3,10 @@ title: "Section 1204 - Transition period"
 usc_title: 45
 usc_section: "1204"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 1204"
-generated_at: "2026-03-30T02:55:56.560Z"
+generated_at: "2026-11-23T20:27:05.338Z"
+status: "active"
 ---
 
 # § 1204. Transition period
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:56.560Z"
 - **(d)**
   - **(1)** Within nine months after January 14, 1983 , the United States Railway Association (hereinafter in this section referred to as the “Association”) shall determine the fair market value of the Alaska Railroad under the terms and conditions of this chapter, applying such procedures, methods and standards as are generally accepted as normal and common practice. Such determination shall include an appraisal of the real and personal property to be transferred to the State pursuant to this chapter. Such appraisal by the Association shall be conducted in the usual manner in accordance with generally accepted industry standards, and shall consider the current fair market value and potential future value if used in whole or in part for other purposes. The Association shall take into account all obligations imposed by this chapter and other applicable law upon operation and ownership of the State-owned railroad. In making such determination, the Association shall use to the maximum extent practicable all relevant data and information, including, if relevant, that contained in the report prepared pursuant to subsection (a) of this section.
   - **(2)** The determination made pursuant to paragraph (1) of this subsection shall not be construed to affect, enlarge, modify, or diminish any inventory, valuation, or classification required by the Interstate Commerce Commission pursuant to subchapter V 2 2 See References in Text note below. of chapter 107 of title 49.
+
+## Source Credit
+
+*([Pub. L. 97–468, title VI, § 605(a)](https://www.govinfo.gov/link/plaw/97/public/468) –(d), Jan. 14, 1983, [96 Stat. 2562](https://www.govinfo.gov/link/statute/96/2562), 2563.)*

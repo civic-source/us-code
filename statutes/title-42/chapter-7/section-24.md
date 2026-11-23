@@ -3,9 +3,10 @@ title: "Section 24 - Premiums and bid amounts"
 usc_title: 42
 usc_section: "24"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 24"
-generated_at: "2026-03-30T02:56:10.978Z"
+generated_at: "2026-11-23T20:27:21.268Z"
+status: "active"
 ---
 
 # § 1395w–24. Premiums and bid amounts
@@ -163,3 +164,13 @@ generated_at: "2026-03-30T02:56:10.978Z"
   - **(4)** For purposes of this subsection, if the Secretary finds that there is insufficient enrollment experience to determine an average of the capitation payments to be made under this part at the beginning of a contract period or to determine (in the case of a newly operated provider-sponsored organization or other new organization) the adjusted community rate for the organization, the Secretary may determine such an average based on the enrollment experience of other contracts entered into under this part and may determine such a rate using data in the general commercial marketplace.
 - **(g)** No State may impose a premium tax or similar tax with respect to payments to Medicare+Choice organizations under section 1395w–23 of this title or premiums paid to such organizations under this part.
 - **(h)** The Secretary shall permit a Medicare+Choice organization to elect to apply the provisions of this section uniformly to separate segments of a service area (rather than uniformly to an entire service area) as long as such segments are composed of one or more Medicare+Choice payment areas.
+
+In general
+
+Denial of bid amounts
+
+Refusal to accept certain bids due to misrepresentations and failures to adequately meet requirements
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1854, as added [Pub. L. 105–33, title IV, § 4001](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 308](https://www.govinfo.gov/link/statute/111/308); amended [Pub. L. 106–113, div. B, § 1000(a)(6) [title III, § 321(k)(6)(C), title V, §§ 515(a), 516(a)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–367, 1501A–384; [Pub. L. 106–554, § 1(a)(6) [title VI, §§ 606(a)(1), 622(a)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–557, 2763A–566; [Pub. L. 107–188, title V, § 532(b)(1)](https://www.govinfo.gov/link/plaw/107/public/188), June 12, 2002, [116 Stat. 696](https://www.govinfo.gov/link/statute/116/696); [Pub. L. 108–173, title II](https://www.govinfo.gov/link/plaw/108/public/173), §§ 222(a)(1), (b), (c), (g), 232(b), title IX, § 900(e)(1)(H), Dec. 8, 2003, [117 Stat. 2193](https://www.govinfo.gov/link/statute/117/2193), 2196, 2199, 2203, 2208, 2371; [Pub. L. 111–148, title III](https://www.govinfo.gov/link/plaw/111/public/148), §§ 3201(a)(2)(B), (c)–(d)(2), (e)(2)(A)(v), 3202(b)(1), (3), 3209(a), Mar. 23, 2010, [124 Stat. 444](https://www.govinfo.gov/link/statute/124/444), 447, 454, 455, 460; [Pub. L. 111–152, title I, § 1102(a)](https://www.govinfo.gov/link/plaw/111/public/152), (d), Mar. 30, 2010, [124 Stat. 1040](https://www.govinfo.gov/link/statute/124/1040), 1045; [Pub. L. 115–123, div. E, title III, § 50323(b)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 203](https://www.govinfo.gov/link/statute/132/203); [Pub. L. 117–169, title I, § 11201(d)(3)(A)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 1890](https://www.govinfo.gov/link/statute/136/1890).)*

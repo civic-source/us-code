@@ -3,9 +3,10 @@ title: "Section 4002 - Additional Congressional findings and declaration of purp
 usc_title: 42
 usc_section: "4002"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4002"
-generated_at: "2026-03-30T02:56:11.193Z"
+generated_at: "2026-11-23T20:27:22.329Z"
+status: "active"
 ---
 
 # § 4002. Additional Congressional findings and declaration of purpose
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.193Z"
   - **(2)** provide for the expeditious identification of, and the dissemination of information concerning, flood-prone areas;
   - **(3)** require States or local communities, as a condition of future Federal financial assistance, to participate in the flood insurance program and to adopt adequate flood plan ordinances with effective enforcement provisions consistent with Federal standards to reduce or avoid future flood losses; and
   - **(4)** require the purchase of flood insurance by property owners who are being assisted by Federal programs or by federally supervised, regulated, or insured agencies or institutions in the acquisition or improvement of land or facilities located or to be located in identified areas having special flood hazards.
+
+## Source Credit
+
+*([Pub. L. 93–234, § 2](https://www.govinfo.gov/link/plaw/93/public/234), Dec. 31, 1973, [87 Stat. 975](https://www.govinfo.gov/link/statute/87/975).)*

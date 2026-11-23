@@ -3,9 +3,10 @@ title: "Section 1981a - Damages in cases of intentional discrimination in employ
 usc_title: 42
 usc_section: "1981a"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1981a"
-generated_at: "2026-03-30T02:56:11.136Z"
+generated_at: "2026-11-23T20:27:21.997Z"
+status: "active"
 ---
 
 # § 1981a. Damages in cases of intentional discrimination in employment
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:11.136Z"
     - **(A)** in the case of a person seeking to bring an action under subsection (a)(1), the Equal Employment Opportunity Commission, the Attorney General, or a person who may bring an action or proceeding under title VII of the Civil Rights Act of 1964 ( 42 U.S.C. 2000e et seq.); or
     - **(B)** in the case of a person seeking to bring an action under subsection (a)(2), the Equal Employment Opportunity Commission, the Attorney General, a person who may bring an action or proceeding under section 794a(a)(1) of title 29 , or a person who may bring an action or proceeding under title I of the Americans with Disabilities Act of 1990 [ 42 U.S.C. 12111 et seq.].
   - **(2)** The term “discriminatory practice” means the discrimination described in paragraph (1), or the discrimination or the violation described in paragraph (2), of subsection (a).
+
+## Source Credit
+
+*(R.S. § 1977A, as added [Pub. L. 102–166, title I, § 102](https://www.govinfo.gov/link/plaw/102/public/166), Nov. 21, 1991, [105 Stat. 1072](https://www.govinfo.gov/link/statute/105/1072).)*

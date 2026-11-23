@@ -3,9 +3,10 @@ title: "Section 641 - Imposition of tax"
 usc_title: 26
 usc_section: "641"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 641"
-generated_at: "2026-03-30T02:55:27.722Z"
+generated_at: "2026-11-23T20:26:45.846Z"
+status: "active"
 ---
 
 # § 641. Imposition of tax
@@ -37,3 +38,11 @@ generated_at: "2026-03-30T02:55:27.722Z"
     - **(B)** the distributable net income of the entire trust,
   - **(4)** If a portion of an electing small business trust ceases to be treated as a separate trust under paragraph (1), any carryover or excess deduction of the separate trust which is referred to in section 642(h) shall be taken into account by the entire trust.
   - **(5)** For purposes of this subsection, the term “electing small business trust” has the meaning given such term by section 1361(e)(1).
+
+General rule
+
+Cross reference
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 215; [Pub. L. 91–172, title VIII, § 803(d)(3)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 684](https://www.govinfo.gov/link/statute/83/684); [Pub. L. 94–455, title VII, § 701(e)(2)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1579](https://www.govinfo.gov/link/statute/90/1579); [Pub. L. 95–30, title I, § 101(d)(8)](https://www.govinfo.gov/link/plaw/95/public/30), May 23, 1977, [91 Stat. 134](https://www.govinfo.gov/link/statute/91/134); [Pub. L. 104–188, title I, § 1302(d)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1778](https://www.govinfo.gov/link/statute/110/1778); [Pub. L. 105–34, title XVI, § 1601(i)(3)(B)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1093](https://www.govinfo.gov/link/statute/111/1093); [Pub. L. 105–206, title VI, § 6007(f)(2)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 810](https://www.govinfo.gov/link/statute/112/810); [Pub. L. 110–28, title VIII, § 8236(a)](https://www.govinfo.gov/link/plaw/110/public/28), May 25, 2007, [121 Stat. 199](https://www.govinfo.gov/link/statute/121/199); [Pub. L. 115–97, title I, § 13542(a)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2154](https://www.govinfo.gov/link/statute/131/2154).)*

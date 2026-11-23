@@ -3,9 +3,10 @@ title: "Section 10363 - Reclamation climate change and water program"
 usc_title: 42
 usc_section: "10363"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10363"
-generated_at: "2026-03-30T02:56:11.386Z"
+generated_at: "2026-11-23T20:27:23.238Z"
+status: "active"
 ---
 
 # § 10363. Reclamation climate change and water program
@@ -59,3 +60,7 @@ generated_at: "2026-03-30T02:56:11.386Z"
     - **(B)** The non-Federal share of the cost of a study described in paragraph (1) may be provided in the form of any in-kind services that substantially contribute toward the completion of the study, as determined by the Secretary.
 - **(e)** Nothing in this section amends or otherwise affects any existing authority under reclamation laws that govern the operation of any Federal reclamation project.
 - **(f)** There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2009 through 2023, 1 1 See Extension of Authorization of Appropriations note below. to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 111–11, title IX, § 9503](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1332](https://www.govinfo.gov/link/statute/123/1332).)*

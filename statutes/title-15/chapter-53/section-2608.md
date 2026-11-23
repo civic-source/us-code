@@ -3,9 +3,10 @@ title: "Section 2608 - Relationship to other Federal laws"
 usc_title: 15
 usc_section: "2608"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2608"
-generated_at: "2026-03-30T02:54:08.176Z"
+generated_at: "2026-11-23T20:26:04.215Z"
+status: "active"
 ---
 
 # § 2608. Relationship to other Federal laws
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:08.176Z"
 - **(c)** In exercising any authority under this chapter, the Administrator shall not, for purposes of section 653(b)(1) of title 29 , be deemed to be exercising statutory authority to prescribe or enforce standards or regulations affecting occupational safety and health.
 - **(d)** In administering this chapter, the Administrator shall consult and coordinate with the Secretary of Health and Human Services and the heads of any other appropriate Federal executive department or agency, any relevant independent regulatory agency, and any other appropriate instrumentality of the Federal Government for the purpose of achieving the maximum enforcement of this chapter while imposing the least burdens of duplicative requirements on those subject to the chapter and for other purposes. The Administrator shall, in the report required by section 2629 of this title , report annually to the Congress on actions taken to coordinate with such other Federal departments, agencies, or instrumentalities, and on actions taken to coordinate the authority under this chapter with the authority granted under other Acts referred to in subsection (b).
 - **(e)** In addition to the requirements of subsection (a), if the Administrator obtains information related to exposures or releases of a chemical substance or mixture that may be prevented or reduced under another Federal law, including a law not administered by the Administrator, the Administrator shall make such information available to the relevant Federal agency or office of the Environmental Protection Agency.
+
+## Source Credit
+
+*([Pub. L. 94–469, title I, § 9](https://www.govinfo.gov/link/plaw/94/public/469), Oct. 11, 1976, [90 Stat. 2030](https://www.govinfo.gov/link/statute/90/2030); renumbered title I, [Pub. L. 99–519, § 3(c)(1)](https://www.govinfo.gov/link/plaw/99/public/519), Oct. 22, 1986, [100 Stat. 2989](https://www.govinfo.gov/link/statute/100/2989); amended [Pub. L. 114–182, title I](https://www.govinfo.gov/link/plaw/114/public/182), §§ 9, 19(h), June 22, 2016, [130 Stat. 476](https://www.govinfo.gov/link/statute/130/476), 507.)*

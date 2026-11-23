@@ -3,9 +3,10 @@ title: "Section 321j - Procurement of security countermeasures for Strategic Nat
 usc_title: 6
 usc_section: "321j"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 321j"
-generated_at: "2026-03-30T02:53:09.458Z"
+generated_at: "2026-11-23T20:25:34.701Z"
+status: "active"
 ---
 
 # § 321j. Procurement of security countermeasures for Strategic National Stockpile
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:09.458Z"
 - **(d)**
   - **(1)** For the purpose of carrying out the responsibilities of the Secretary for terror threat assessment under the security countermeasures program, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2004 through 2006, for the hiring of professional personnel within the Office of Intelligence and Analysis, who shall be analysts responsible for chemical, biological, radiological, and nuclear threat assessment (including but not limited to analysis of chemical, biological, radiological, and nuclear agents, the means by which such agents could be weaponized or used in a terrorist attack, and the capabilities, plans, and intentions of terrorists and other non-state actors who may have or acquire such agents). All such analysts shall meet the applicable standards and qualifications for the performance of intelligence activities promulgated by the Director of Central Intelligence pursuant to section 403–4 1 of title 50.
   - **(2)** For the purpose of carrying out the acquisition and deployment of secure facilities (including information technology and physical infrastructure, whether mobile and temporary, or permanent) sufficient to permit the Secretary to receive, not later than 180 days after July 21, 2004 , all classified information and products to which the Under Secretary for Intelligence and Analysis is entitled under part A of subchapter II, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2004 through 2006.
+
+## Source Credit
+
+*([Pub. L. 107–296, title V, § 521](https://www.govinfo.gov/link/plaw/107/public/296), formerly § 510, as added [Pub. L. 108–276, § 3(b)(2)](https://www.govinfo.gov/link/plaw/108/public/276), July 21, 2004, [118 Stat. 852](https://www.govinfo.gov/link/statute/118/852); renumbered § 521, [Pub. L. 109–295, title VI, § 611(7)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1395](https://www.govinfo.gov/link/statute/120/1395); amended [Pub. L. 109–417, title IV, § 403(c)](https://www.govinfo.gov/link/plaw/109/public/417), Dec. 19, 2006, [120 Stat. 2874](https://www.govinfo.gov/link/statute/120/2874); [Pub. L. 110–53, title V, § 531(b)(1)(D)](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 334](https://www.govinfo.gov/link/statute/121/334).)*

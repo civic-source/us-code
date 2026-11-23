@@ -3,9 +3,10 @@ title: "Section 2671 - Military reservations and facilities: hunting, fishing, a
 usc_title: 10
 usc_section: "2671"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2671"
-generated_at: "2026-03-30T02:53:38.169Z"
+generated_at: "2026-11-23T20:25:51.646Z"
+status: "active"
 ---
 
 # § 2671. Military reservations and facilities: hunting, fishing, and trapping
@@ -20,3 +21,17 @@ generated_at: "2026-03-30T02:53:38.169Z"
 - **(c)** Whoever is guilty of an act or omission which violates a requirement prescribed under subsection (a)(1) or (2), which act or omission would be punishable if committed or omitted within the jurisdiction of the State in which the installation or facility is located, by the laws thereof in effect at the time of that act or omission, is guilty of a like offense and is subject to a like punishment.
 - **(d)** This section does not modify any rights granted by the treaty or otherwise to any Indian tribe or to the members thereof.
 - **(e)** The Secretary of Defense shall prescribe regulations to carry out this section.
+
+General Requirements for Hunting, Fishing, and Trapping
+
+Waiver Authority
+
+Violations
+
+Relation to Treaty Rights
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 85–337, § 4(1)](https://www.govinfo.gov/link/plaw/85/public/337), Feb. 28, 1958, [72 Stat. 29](https://www.govinfo.gov/link/statute/72/29); amended [Pub. L. 107–107, div. B, title XXVIII, § 2811](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1307](https://www.govinfo.gov/link/statute/115/1307); [Pub. L. 109–163, div. A, title X, § 1057(a)(2)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3440](https://www.govinfo.gov/link/statute/119/3440); [Pub. L. 111–383, div. A, title X, § 1075(b)(42)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4371](https://www.govinfo.gov/link/statute/124/4371).)*

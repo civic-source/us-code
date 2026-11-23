@@ -3,9 +3,10 @@ title: "Section 4010 - Functions and powers of councils"
 usc_title: 16
 usc_section: "4010"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 4010"
-generated_at: "2026-03-30T02:54:23.040Z"
+generated_at: "2026-11-23T20:26:20.731Z"
+status: "active"
 ---
 
 # § 4010. Functions and powers of councils
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:54:23.040Z"
   - **(7)** Any regulation issued under paragraph (4) of this subsection shall be repealed immediately by the Secretary upon the termination under section 4015 of this title of the council that developed the official identification to which the regulations apply.
   - **(8)** The procedures applicable to the adoption and the taking effect of a quality standard developed under this subsection also apply to a subsequent amendment or the termination of such standard.
 - **(d)** A council may submit to the Secretary amendments to the text of the council’s charter. Any proposed amendments to a charter shall be approved or disapproved in the same manner as the original charter was approved under section 4009(d) and (e) of this title, with the exception of section 4009(d)(1)(B) of this title .
+
+## Source Credit
+
+*([Pub. L. 99–659, title II, § 211](https://www.govinfo.gov/link/plaw/99/public/659), Nov. 14, 1986, [100 Stat. 3724](https://www.govinfo.gov/link/statute/100/3724).)*

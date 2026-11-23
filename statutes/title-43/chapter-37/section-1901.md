@@ -3,9 +3,10 @@ title: "Section 1901 - Congressional findings and declaration of policy"
 usc_title: 43
 usc_section: "1901"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1901"
-generated_at: "2026-03-30T02:55:57.494Z"
+generated_at: "2026-11-23T20:27:06.390Z"
+status: "active"
 ---
 
 # § 1901. Congressional findings and declaration of policy
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:57.494Z"
   - **(3)** charge a fee for public grazing use which is equitable and reflects the concerns addressed in paragraph (a)(5) above;
   - **(4)** continue the policy of protecting wild free-roaming horses and burros from capture, branding, harassment, or death, while at the same time facilitating the removal and disposal of excess wild free-roaming horses and burros which pose a threat to themselves and their habitat and to other rangeland values;
 - **(c)** The policies of this chapter shall become effective only as specific statutory authority for their implementation is enacted by this chapter or by subsequent legislation, and shall be construed as supplemental to and not in derogation of the purposes for which public rangelands are administered under other provisions of law.
+
+## Source Credit
+
+*([Pub. L. 95–514, § 2](https://www.govinfo.gov/link/plaw/95/public/514), Oct. 25, 1978, [92 Stat. 1803](https://www.govinfo.gov/link/statute/92/1803).)*

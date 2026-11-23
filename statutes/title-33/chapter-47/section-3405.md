@@ -3,9 +3,10 @@ title: "Section 3405 - Ocean Exploration Advisory Board"
 usc_title: 33
 usc_section: "3405"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 3405"
-generated_at: "2026-03-30T02:55:41.141Z"
+generated_at: "2026-11-23T20:26:54.262Z"
+status: "active"
 ---
 
 # § 3405. Ocean Exploration Advisory Board
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:41.141Z"
   - **(6)** to provide other assistance and advice as requested by the Administrator.
 - **(b)** Section 1013 of title 5 shall not apply to the Board appointed under subsection (a).
 - **(c)** Nothing in this subchapter supersedes, or limits the authority of the Secretary of the Interior under the Outer Continental Shelf Lands Act ( 43 U.S.C. 1331 et seq.).
+
+## Source Credit
+
+*([Pub. L. 111–11, title XII, § 12005](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1418](https://www.govinfo.gov/link/statute/123/1418); [Pub. L. 117–263, div. J, title CIII, § 10305(f)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3973](https://www.govinfo.gov/link/statute/136/3973); [Pub. L. 117–286, § 4(a)(208)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4329](https://www.govinfo.gov/link/statute/136/4329).)*

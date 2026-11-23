@@ -3,9 +3,10 @@ title: "Section 1702 - Duties of Librarian of Congress"
 usc_title: 2
 usc_section: "1702"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1702"
-generated_at: "2026-03-30T02:53:04.816Z"
+generated_at: "2026-11-23T20:25:28.981Z"
+status: "active"
 ---
 
 # § 1702. Duties of Librarian of Congress
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:04.816Z"
   - **(2)** establish procedures under which the general public may make recommendations to the National Recording Preservation Board established under subchapter III regarding the inclusion of sound recordings in the National Recording Registry; and
   - **(3)** determine which sound recordings satisfy the criteria established under paragraph (1) and select such recordings for inclusion in the National Recording Registry.
 - **(b)** The Librarian shall publish in the Federal Register the name of each sound recording that is selected for inclusion in the National Recording Registry.
+
+## Source Credit
+
+*([Pub. L. 106–474, title I, § 102](https://www.govinfo.gov/link/plaw/106/public/474), Nov. 9, 2000, [114 Stat. 2085](https://www.govinfo.gov/link/statute/114/2085).)*

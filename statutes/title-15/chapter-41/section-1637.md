@@ -3,9 +3,10 @@ title: "Section 1637 - Open end consumer credit plans"
 usc_title: 15
 usc_section: "1637"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1637"
-generated_at: "2026-03-30T02:54:08.139Z"
+generated_at: "2026-11-23T20:26:04.037Z"
+status: "active"
 ---
 
 # § 1637. Open end consumer credit plans
@@ -230,3 +231,41 @@ generated_at: "2026-03-30T02:54:08.139Z"
     - **(C)** The information required to be reported under subparagraph (A) shall be aggregated with respect to each institution of higher education or alumni organization or foundation affiliated with or related to such institution.
     - **(D)** The initial report required under subparagraph (A) shall be submitted to the Bureau before the end of the 9-month period beginning on May 22, 2009 .
   - **(3)** The Bureau shall submit to the Congress, and make available to the public, an annual report that lists the information concerning credit card agreements submitted to the Bureau under paragraph (2) by each institution of higher education, alumni organization, or foundation.
+
+Requirements relating to late payment deadlines and penalties.—
+
+Late payment deadline required to be disclosed
+
+Disclosure of increase in interest rates for late payments
+
+Payments at local branches
+
+“Section 127(b)(11) of the Truth in Lending Act [subsec. (b)(11) of this section], as added by subsection (a) of this section, and the regulations issued under paragraph (1) of this subsection [set out as a note under this section] shall not take effect until the later of—
+
+“Section 127(c)(6) of the Truth in Lending Act [subsec. (c)(6) of this section], as added by this section, and regulations issued under paragraph (1) of this subsection [set out as a note under this section] shall not take effect until the later of—
+
+“The amendment made by subsection (a) [amending this section] and the regulations issued under paragraph (1) of this subsection [set out as a note under this section] shall not take effect until the later of—
+
+“The amendment made by subsection (a) [amending this section] and regulations issued under paragraph (1) of this subsection [set out as a note under this section] shall not take effect until the later of—
+
+“The amendment made by subsection (a) [amending this section] and regulations issued under paragraph (1) of this subsection [set out as a note under this section] shall not take effect until the later of—
+
+In general
+
+Approved agencies
+
+Regulations
+
+Examples
+
+Standards
+
+“Any regulation required to be prescribed by the Board under the amendments made by section 2 [amending this section and section 1632 of this title ] shall—
+
+Study
+
+Report
+
+## Source Credit
+
+*([Pub. L. 90–321, title I, § 127](https://www.govinfo.gov/link/plaw/90/public/321), May 29, 1968, [82 Stat. 153](https://www.govinfo.gov/link/statute/82/153); [Pub. L. 93–495, title III](https://www.govinfo.gov/link/plaw/93/public/495), §§ 304, 305, title IV, §§ 411, 415, Oct. 28, 1974, [88 Stat. 1511](https://www.govinfo.gov/link/statute/88/1511), 1519, 1521; [Pub. L. 96–221, title VI, § 613(a)](https://www.govinfo.gov/link/plaw/96/public/221) –(e), Mar. 31, 1980, [94 Stat. 176](https://www.govinfo.gov/link/statute/94/176), 177; [Pub. L. 100–583](https://www.govinfo.gov/link/plaw/100/public/583), §§ 2(a), 6, Nov. 3, 1988, [102 Stat. 2960](https://www.govinfo.gov/link/statute/102/2960), 2968; [Pub. L. 100–709, § 2(b)](https://www.govinfo.gov/link/plaw/100/public/709), Nov. 23, 1988, [102 Stat. 4729](https://www.govinfo.gov/link/statute/102/4729); [Pub. L. 109–8, title XIII](https://www.govinfo.gov/link/plaw/109/public/8), §§ 1301(a), 1303(a), 1304(a), 1305(a), 1306(a), Apr. 20, 2005, [119 Stat. 204](https://www.govinfo.gov/link/statute/119/204), 209, 211, 212; [Pub. L. 111–24, title I](https://www.govinfo.gov/link/plaw/111/public/24), §§ 101(a)(1), 102(a), 103, 105, 106(a), title II, §§ 201(a), 202, 203, title III, §§ 301, 303, 305(a), May 22, 2009, [123 Stat. 1735](https://www.govinfo.gov/link/statute/123/1735), 1738, 1741–1743, 1745–1749; [Pub. L. 111–203, title X, § 1100A(2)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2107](https://www.govinfo.gov/link/statute/124/2107).)*

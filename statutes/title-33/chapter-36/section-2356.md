@@ -3,9 +3,10 @@ title: "Section 2356 - Project consultation"
 usc_title: 33
 usc_section: "2356"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2356"
-generated_at: "2026-03-30T02:55:41.129Z"
+generated_at: "2026-11-23T20:26:54.205Z"
+status: "active"
 ---
 
 # § 2356. Project consultation
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:41.129Z"
   - **(1)** promote meaningful involvement with Indian Tribes specifically on any Tribal lands near or adjacent to any water resources development projects, for purposes of identifying lands of ancestral, cultural, or religious importance;
   - **(2)** consult with Indian Tribes specifically on any Tribal areas near or adjacent to any water resources development projects, for purposes of identifying lands, waters, and other resources critical to the livelihood of the Indian Tribes; and
   - **(3)** cooperate with Indian Tribes to avoid, or otherwise find alternate solutions with respect to, such areas.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. AA, title I, § 112](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2625](https://www.govinfo.gov/link/statute/134/2625).)*

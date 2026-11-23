@@ -3,9 +3,10 @@ title: "Section 17391 - Voluntary state, regional, and local electricity distrib
 usc_title: 42
 usc_section: "17391"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17391"
-generated_at: "2026-03-30T02:56:11.507Z"
+generated_at: "2026-11-23T20:27:23.761Z"
+status: "active"
 ---
 
 # § 17391. Voluntary state, regional, and local electricity distribution planning
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.507Z"
   - **(3)** other distribution asset owners and operators.
 - **(e)** A State or any entity that has requested technical assistance under this section may withdraw the request for technical assistance at any time, and on such withdrawal, the Secretary shall terminate all assistance efforts.
 - **(f)** Nothing in this section authorizes the Secretary to require any State, regional organization, regional reliability entity, asset owner, or asset operator to adopt any model, tool, plan, analysis, or assessment.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. Z, title VIII, § 8010](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2588](https://www.govinfo.gov/link/statute/134/2588).)*

@@ -3,9 +3,10 @@ title: "Section 3238 - Annual reports on influence operations and campaigns in t
 usc_title: 50
 usc_section: "3238"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3238"
-generated_at: "2026-03-30T02:56:26.242Z"
+generated_at: "2026-11-23T20:27:30.947Z"
+status: "active"
 ---
 
 # § 3238. Annual reports on influence operations and campaigns in the United States by the Russian Federation
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:26.242Z"
   - **(5)** With respect to reports submitted after the first report, an assessment of the change in goals, tactics, techniques, and procedures of the influence operations and campaigns conducted by the organizations and persons identified in paragraph (1).
 - **(c)** In carrying out subsection (a), the Director shall coordinate with the Director of the Federal Bureau of Investigation, the Director of the Central Intelligence Agency, the Director of the National Security Agency, and any other relevant head of an element of the intelligence community.
 - **(d)** Each report submitted under subsection (a) shall be submitted in unclassified form, but may include a classified annex.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title XI, § 1108, as added [Pub. L. 116–92, div. E, title LV, § 5501(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2143](https://www.govinfo.gov/link/statute/133/2143).)*

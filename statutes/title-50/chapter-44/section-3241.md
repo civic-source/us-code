@@ -3,9 +3,10 @@ title: "Section 3241 - Biennial reports on foreign biological threats"
 usc_title: 50
 usc_section: "3241"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3241"
-generated_at: "2026-03-30T02:56:26.242Z"
+generated_at: "2026-11-23T20:27:30.947Z"
+status: "active"
 ---
 
 # § 3241. Biennial reports on foreign biological threats
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:26.242Z"
   - **(2)** The term “foreign biological threat” means biological warfare, bioterrorism, naturally occurring infectious diseases, or accidental exposures to biological materials, without regard to whether the threat originates from a state actor, a non-state actor, natural conditions, or an undetermined source.
   - **(3)** The term “foreign malign influence” has the meaning given such term in section 3059(e) 1 1 See References in Text note below. of this title.
   - **(4)** The term “non-intelligence community partner” means a Federal department or agency that is not an element of the intelligence community.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title XI, § 1111, as added [Pub. L. 117–103, div. X, title VIII, § 821(a)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 1019](https://www.govinfo.gov/link/statute/136/1019).)*

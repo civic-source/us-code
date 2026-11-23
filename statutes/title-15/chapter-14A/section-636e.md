@@ -3,9 +3,10 @@ title: "Section 636e - Definitions"
 usc_title: 15
 usc_section: "636e"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 636e"
-generated_at: "2026-03-30T02:54:08.092Z"
+generated_at: "2026-11-23T20:26:03.763Z"
+status: "active"
 ---
 
 # § 636e. Definitions
@@ -19,3 +20,7 @@ In this subtitle— 1 1 See References in Text note below.
   - **(5)** the term “major disaster” has the meaning given that term in section 5122 of title 42 ;
   - **(6)** the term “small business concern” has the meaning given that term under section 632 of this title ; and
   - **(7)** the term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, the Virgin Islands, Guam, American Samoa, and any territory or possession of the United States.
+
+## Source Credit
+
+*([Pub. L. 110–234, title XII, § 12052](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1406](https://www.govinfo.gov/link/statute/122/1406); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XII, § 12052, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2168.)*

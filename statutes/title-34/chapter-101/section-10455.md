@@ -3,9 +3,10 @@ title: "Section 10455 - Senior Policy Advisor for Culturally Specific Communitie
 usc_title: 34
 usc_section: "10455"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10455"
-generated_at: "2026-03-30T02:55:33.269Z"
+generated_at: "2026-11-23T20:26:50.474Z"
+status: "active"
 ---
 
 # § 10455. Senior Policy Advisor for Culturally Specific Communities
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:33.269Z"
   - **(6)** ensure access to grants and technical assistance for culturally specific organizations; and
   - **(7)** analyze the distribution of grant funding in order to identify barriers for culturally specific organizations.
 - **(c)** Not later than 120 days after March 15, 2022 , the Director shall hire for the position established under subsection (a) an individual with personal, lived, and work experience from a culturally specific community, and a demonstrated history and expertise addressing domestic violence or sexual assault in a nongovernmental agency.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 2018](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 117–103, div. W, title IX, § 902](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 911](https://www.govinfo.gov/link/statute/136/911).)*

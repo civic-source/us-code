@@ -3,9 +3,10 @@ title: "Section 160 - Competition in provision of telecommunications service"
 usc_title: 47
 usc_section: "160"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 160"
-generated_at: "2026-03-30T02:56:24.494Z"
+generated_at: "2026-11-23T20:27:28.824Z"
+status: "active"
 ---
 
 # § 160. Competition in provision of telecommunications service
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:24.494Z"
 - **(c)** Any telecommunications carrier, or class of telecommunications carriers, may submit a petition to the Commission requesting that the Commission exercise the authority granted under this section with respect to that carrier or those carriers, or any service offered by that carrier or carriers. Any such petition shall be deemed granted if the Commission does not deny the petition for failure to meet the requirements for forbearance under subsection (a) within one year after the Commission receives it, unless the one-year period is extended by the Commission. The Commission may extend the initial one-year period by an additional 90 days if the Commission finds that an extension is necessary to meet the requirements of subsection (a). The Commission may grant or deny a petition in whole or in part and shall explain its decision in writing.
 - **(d)** Except as provided in section 251(f) of this title , the Commission may not forbear from applying the requirements of section 251(c) or 271 of this title under subsection (a) of this section until it determines that those requirements have been fully implemented.
 - **(e)** A State commission may not continue to apply or enforce any provision of this chapter that the Commission has determined to forbear from applying under subsection (a).
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title I, § 10, as added [Pub. L. 104–104, title IV, § 401](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 128](https://www.govinfo.gov/link/statute/110/128).)*

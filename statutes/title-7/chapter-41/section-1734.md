@@ -3,9 +3,10 @@ title: "Section 1734 - Agreements"
 usc_title: 7
 usc_section: "1734"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1734"
-generated_at: "2026-03-30T02:53:42.338Z"
+generated_at: "2026-11-23T20:25:41.282Z"
+status: "active"
 ---
 
 # § 1734. Agreements
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:42.338Z"
   - **(1)** making significant economic development reforms;
   - **(2)** promoting free and open markets for food and agricultural producers; and
   - **(3)** fostering increased food security.
+
+## Source Credit
+
+*(July 10, 1954, ch. 469, title IV, § 404, as added [Pub. L. 86–341, title I, § 14](https://www.govinfo.gov/link/plaw/86/public/341), Sept. 21, 1959, [73 Stat. 610](https://www.govinfo.gov/link/statute/73/610); amended [Pub. L. 89–808, § 2(E)](https://www.govinfo.gov/link/plaw/89/public/808), Nov. 11, 1966, [80 Stat. 1536](https://www.govinfo.gov/link/statute/80/1536); [Pub. L. 96–53, title II, § 209](https://www.govinfo.gov/link/plaw/96/public/53), Aug. 14, 1979, [93 Stat. 370](https://www.govinfo.gov/link/statute/93/370); [Pub. L. 101–624, title XV, § 1512](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3648](https://www.govinfo.gov/link/statute/104/3648); [Pub. L. 104–127, title II, § 214](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 956](https://www.govinfo.gov/link/statute/110/956).)*

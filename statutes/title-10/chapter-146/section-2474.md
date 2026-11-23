@@ -3,9 +3,10 @@ title: "Section 2474 - Centers of Industrial and Technical Excellence: designati
 usc_title: 10
 usc_section: "2474"
 chapter: 146
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2474"
-generated_at: "2026-03-30T02:53:38.160Z"
+generated_at: "2026-11-23T20:25:51.593Z"
+status: "active"
 ---
 
 # § 2474. Centers of Industrial and Technical Excellence: designation; public-private partnerships
@@ -38,3 +39,21 @@ generated_at: "2026-03-30T02:53:38.160Z"
       - **(ii)** any liability or claim for damages or injury to any person or property arising out of a decision by the Secretary concerned or the Secretary of Defense to suspend or terminate that use of equipment or facilities during a war or national emergency.
 - **(f)** Amounts expended for the performance of a depot-level maintenance and repair workload by non-Federal Government personnel at a Center of Industrial and Technical Excellence under any contract shall not be counted for purposes of applying the percentage limitation in section 2466(a) of this title if the personnel are provided by private industry or other entities outside the Department of Defense pursuant to a public-private partnership.
 - **(g)** Nothing in this section may be construed to authorize a change, otherwise prohibited by law, from the performance of work at a Center of Industrial and Technical Excellence by Department of Defense personnel to performance by a contractor.
+
+Designation
+
+Public-Private Partnerships
+
+Private Sector Use of Excess Capacity
+
+Crediting of Amounts for Performance
+
+Availability of Excess Equipment to Private-Sector Partners
+
+Exclusion of Certain Expenditures From Percentage Limitation
+
+Construction of Provision
+
+## Source Credit
+
+*(Added [Pub. L. 105–85, div. A, title III, § 361(a)(1)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1700](https://www.govinfo.gov/link/statute/111/1700); amended [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title III, § 341(a)–(e)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–61 to 1654A–63; [Pub. L. 107–107, div. A, title III](https://www.govinfo.gov/link/plaw/107/public/107), §§ 342, 343(b), Dec. 28, 2001, [115 Stat. 1060](https://www.govinfo.gov/link/statute/115/1060), 1061; [Pub. L. 107–314, div. A, title III, § 334](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2514](https://www.govinfo.gov/link/statute/116/2514); [Pub. L. 108–375, div. A, title III, § 323](https://www.govinfo.gov/link/plaw/108/public/375), title X, § 1084(d)(20), Oct. 28, 2004, [118 Stat. 1846](https://www.govinfo.gov/link/statute/118/1846), 2062; [Pub. L. 109–364, div. A, title III, § 331(a)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2149](https://www.govinfo.gov/link/statute/120/2149); [Pub. L. 112–81, div. A, title III, § 322](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1362](https://www.govinfo.gov/link/statute/125/1362); [Pub. L. 112–239, div. A, title X, § 1076(d)(4)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1951](https://www.govinfo.gov/link/statute/126/1951); [Pub. L. 115–232, div. A, title VIII, § 809(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1840](https://www.govinfo.gov/link/statute/132/1840); [Pub. L. 116–283, div. A, title XVIII, § 1866(d)(2)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4280](https://www.govinfo.gov/link/statute/134/4280).)*

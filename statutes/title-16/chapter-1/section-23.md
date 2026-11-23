@@ -3,9 +3,10 @@ title: "Section 23 - Land use authorities"
 usc_title: 16
 usc_section: "23"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 23"
-generated_at: "2026-03-30T02:54:22.843Z"
+generated_at: "2026-11-23T20:26:20.027Z"
+status: "active"
 ---
 
 # § 460nnn–23. Land use authorities
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:54:22.843Z"
     - **(C)** for the management of livestock; or
     - **(D)** for the management of recreation, but not for the promotion of recreation.
 - **(g)** Subject to valid existing rights, the Federal lands and interests in lands included in the Cooperative Management and Protection Areas are hereby withdrawn from all forms of entry, appropriation, or disposal under the public land laws, except in the case of land exchanges if the Secretary determines that the exchange furthers the purpose and objectives specified in section 460nnn–12 of this title and so certifies to Congress.
+
+## Source Credit
+
+*([Pub. L. 106–399, title I, § 113](https://www.govinfo.gov/link/plaw/106/public/399), Oct. 30, 2000, [114 Stat. 1661](https://www.govinfo.gov/link/statute/114/1661).)*

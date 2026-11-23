@@ -3,9 +3,10 @@ title: "Section 13384 - Assessment of alternative policy mechanisms for addressi
 usc_title: 42
 usc_section: "13384"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13384"
-generated_at: "2026-03-30T02:56:11.443Z"
+generated_at: "2026-11-23T20:27:23.486Z"
+status: "active"
 ---
 
 # § 13384. Assessment of alternative policy mechanisms for addressing greenhouse gas emissions
@@ -15,3 +16,7 @@ Not later than 18 months after October 24, 1992 , the Secretary shall transmit a
   - **(1)** Various systems for controlling the generation of greenhouse gases, including caps for the generation of greenhouse gases from major sources and emissions trading programs.
   - **(2)** Federal standards for energy efficiency for major sources of greenhouse gases, including efficiency standards for power plants, industrial processes, automobile fuel economy, appliances, and buildings, and for emissions of methane.
   - **(3)** Various Federal and voluntary incentives programs.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XVI, § 1604](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3002](https://www.govinfo.gov/link/statute/106/3002).)*

@@ -3,9 +3,10 @@ title: "Section 7554 - Urban bus standards"
 usc_title: 42
 usc_section: "7554"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7554"
-generated_at: "2026-03-30T02:56:11.315Z"
+generated_at: "2026-11-23T20:27:22.919Z"
+status: "active"
 ---
 
 # § 7554. Urban bus standards
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:11.315Z"
 - **(f)** For purposes of this section—
   - **(1)** The term “urban bus” has the meaning provided under regulations of the Administrator promulgated under section 7521(a) of this title .
   - **(2)** The term “low-polluting fuel” means methanol, ethanol, propane, or natural gas, or any comparably low-polluting fuel. In determining whether a fuel is comparably low-polluting, the Administrator shall consider both the level of emissions of air pollutants from vehicles using the fuel and the contribution of such emissions to ambient levels of air pollutants. For purposes of this paragraph, the term “methanol” includes any fuel which contains at least 85 percent methanol unless the Administrator increases such percentage as he deems appropriate to protect public health and welfare.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title II, § 219, as added [Pub. L. 101–549, title II, § 227[(a)]](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2505](https://www.govinfo.gov/link/statute/104/2505).)*

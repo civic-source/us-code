@@ -3,9 +3,10 @@ title: "Section 2102 - Establishment of standards"
 usc_title: 33
 usc_section: "2102"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2102"
-generated_at: "2026-03-30T02:55:41.112Z"
+generated_at: "2026-11-23T20:26:54.113Z"
+status: "active"
 ---
 
 # § 2102. Establishment of standards
@@ -17,3 +18,7 @@ Based on the best scientific information available, artificial reefs in waters c
   - **(3)** minimize conflicts among competing uses of waters covered under this chapter and the resources in such waters;
   - **(4)** minimize environmental risks and risks to personal health and property; and
   - **(5)** be consistent with generally accepted principles of international law and shall not create any unreasonable obstruction to navigation.
+
+## Source Credit
+
+*([Pub. L. 98–623, title II, § 203](https://www.govinfo.gov/link/plaw/98/public/623), Nov. 8, 1984, [98 Stat. 3395](https://www.govinfo.gov/link/statute/98/3395).)*

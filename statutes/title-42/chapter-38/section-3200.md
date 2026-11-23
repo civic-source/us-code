@@ -3,9 +3,10 @@ title: "Section 3200 - Technical Assistance Liaisons"
 usc_title: 42
 usc_section: "3200"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3200"
-generated_at: "2026-03-30T02:56:11.184Z"
+generated_at: "2026-11-23T20:27:22.270Z"
+status: "active"
 ---
 
 # § 3200. Technical Assistance Liaisons
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.184Z"
   - **(1)** work in coordination with an Economic Development Representative to provide technical assistance, in addition to technical assistance under section 3147 of this title , to eligible recipients that are underresourced communities, as determined by the Technical Assistance Liaison, that submit applications for assistance under subchapter II; and
   - **(2)** at the request of an eligible recipient that submitted an application for assistance under subchapter II, provide technical feedback on unsuccessful grant applications.
 - **(c)** The Secretary may enter into a contract or cooperative agreement with an eligible recipient for the purpose of providing technical assistance to eligible recipients that are underresourced communities that have submitted or may submit an application for assistance under this chapter.
+
+## Source Credit
+
+*([Pub. L. 89–136, title V, § 510](https://www.govinfo.gov/link/plaw/89/public/136), as added [Pub. L. 118–272, div. B, title II, § 2229](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3195](https://www.govinfo.gov/link/statute/138/3195).)*

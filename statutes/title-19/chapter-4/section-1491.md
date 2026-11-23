@@ -3,9 +3,10 @@ title: "Section 1491 - Unclaimed merchandise; disposition of forfeited distilled
 usc_title: 19
 usc_section: "1491"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1491"
-generated_at: "2026-03-30T02:54:24.637Z"
+generated_at: "2026-11-23T20:26:10.781Z"
+status: "active"
 ---
 
 # § 1491. Unclaimed merchandise; disposition of forfeited distilled spirits, wines and malt liquor
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:24.637Z"
   - **(2)** gifts to such eleemosynary institutions as, in the opinion of the Secretary, have a need for such distilled spirits, wines, and malt liquor for medical purposes;
   - **(3)** sale by Customs Service at public auction under such regulations as the Secretary shall prescribe, except that before making any such sale the Secretary shall determine that no Government agency or eleemosynary institution has established a need for such spirits, wines, and malt liquor under paragraph (1) or (2); or
   - **(4)** destruction.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 491, [46 Stat. 726](https://www.govinfo.gov/link/statute/46/726); June 25, 1938, ch. 679, § 14, [52 Stat. 1083](https://www.govinfo.gov/link/statute/52/1083); [Pub. L. 91–271, title III, § 301(j)](https://www.govinfo.gov/link/plaw/91/public/271), June 2, 1970, [84 Stat. 289](https://www.govinfo.gov/link/statute/84/289); [Pub. L. 95–410, title II, § 208](https://www.govinfo.gov/link/plaw/95/public/410), Oct. 3, 1978, [92 Stat. 901](https://www.govinfo.gov/link/statute/92/901); [Pub. L. 103–182, title VI, § 659](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2213](https://www.govinfo.gov/link/statute/107/2213); [Pub. L. 104–295, § 21(e)(8)](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3531](https://www.govinfo.gov/link/statute/110/3531).)*

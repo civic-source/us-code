@@ -3,9 +3,10 @@ title: "Section 454 - Travel and transportation: pilot programs"
 usc_title: 37
 usc_section: "454"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "37 U.S.C. § 454"
-generated_at: "2026-03-30T02:55:44.059Z"
+generated_at: "2026-11-23T20:26:57.417Z"
+status: "active"
 ---
 
 # § 454. Travel and transportation: pilot programs
@@ -27,3 +28,35 @@ generated_at: "2026-03-30T02:55:44.059Z"
     - **(A)** A description of results of the pilot program.
     - **(B)** Such recommendations for legislative or administrative action as the Secretary considers appropriate in light of the pilot program.
 - **(d)** In this section, the term “congressional defense committees” has the meaning given that term in section 101(a)(16) of title 10 .
+
+Pilot Programs
+
+Limitations
+
+Reports
+
+Congressional Defense Committees Defined
+
+Establishment
+
+Travel and Transportation Allowances
+
+Reimbursement of Certain Child Care Costs.—
+
+Authority
+
+Maximum amounts
+
+Deadline
+
+Concurrent receipt prohibited
+
+Report
+
+Termination
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 112–81, div. A, title VI, § 631(b)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1458](https://www.govinfo.gov/link/statute/125/1458).)*

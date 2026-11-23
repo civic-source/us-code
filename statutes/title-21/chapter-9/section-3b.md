@@ -3,9 +3,10 @@ title: "Section 3b - Strategic Workforce Plan and report"
 usc_title: 21
 usc_section: "3b"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 3b"
-generated_at: "2026-03-30T02:54:54.265Z"
+generated_at: "2026-11-23T20:26:27.713Z"
+status: "active"
 ---
 
 # § 379d–3b. Strategic Workforce Plan and report
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:54.265Z"
   - **(1)** the progress the Secretary has made, based on the performance measures, benchmarks, and other elements that measure successful recruitment, hiring, training, development, and retention activities; and
   - **(2)** whether actions taken in response to the Plan improved the capacity of the Food and Drug Administration to achieve the strategic goals and priorities described in subsection (c)(1).
 - **(f)** The Food and Drug Administration Strategic Workforce Plan issued in fiscal year 2023 shall address the effect of the COVID–19 pandemic on hiring, retention, and other workforce challenges for the Food and Drug Administration, including protecting such workforce during public health emergencies.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 714B, as added [Pub. L. 117–328, div. FF, title III, § 3623](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5878](https://www.govinfo.gov/link/statute/136/5878).)*

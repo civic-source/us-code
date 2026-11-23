@@ -3,9 +3,10 @@ title: "Section 3142 - Release or detention of a defendant pending trial"
 usc_title: 18
 usc_section: "3142"
 chapter: 207
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 3142"
-generated_at: "2026-03-30T02:54:16.512Z"
+generated_at: "2026-11-23T20:26:08.658Z"
+status: "active"
 ---
 
 # § 3142. Release or detention of a defendant pending trial
@@ -85,3 +86,27 @@ generated_at: "2026-03-30T02:54:16.512Z"
   - **(3)** direct that the person be afforded reasonable opportunity for private consultation with counsel; and
   - **(4)** direct that, on order of a court of the United States or on request of an attorney for the Government, the person in charge of the corrections facility in which the person is confined deliver the person to a United States marshal for the purpose of an appearance in connection with a court proceeding.
 - **(j)** Nothing in this section shall be construed as modifying or limiting the presumption of innocence.
+
+In General
+
+Release on Personal Recognizance or Unsecured Appearance Bond
+
+Release on Conditions
+
+Temporary Detention To Permit Revocation of Conditional Release, Deportation, or Exclusion
+
+Detention
+
+Detention Hearing
+
+Factors To Be Considered
+
+Contents of Release Order
+
+Contents of Detention Order
+
+Presumption of Innocence
+
+## Source Credit
+
+*(Added [Pub. L. 98–473, title II, § 203(a)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 1976](https://www.govinfo.gov/link/statute/98/1976); amended [Pub. L. 99–646](https://www.govinfo.gov/link/plaw/99/public/646), §§ 55(a), (c), 72, Nov. 10, 1986, [100 Stat. 3607](https://www.govinfo.gov/link/statute/100/3607), 3617; [Pub. L. 100–690, title VII, § 7073](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4405](https://www.govinfo.gov/link/statute/102/4405); [Pub. L. 101–647, title X, § 1001(b)](https://www.govinfo.gov/link/plaw/101/public/647), title XXXVI, §§ 3622–3624, Nov. 29, 1990, [104 Stat. 4827](https://www.govinfo.gov/link/statute/104/4827), 4965; [Pub. L. 104–132, title VII](https://www.govinfo.gov/link/plaw/104/public/132), §§ 702(d), 729, Apr. 24, 1996, [110 Stat. 1294](https://www.govinfo.gov/link/statute/110/1294), 1302; [Pub. L. 108–21, title II, § 203](https://www.govinfo.gov/link/plaw/108/public/21), Apr. 30, 2003, [117 Stat. 660](https://www.govinfo.gov/link/statute/117/660); [Pub. L. 108–458, title VI, § 6952](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3775](https://www.govinfo.gov/link/statute/118/3775); [Pub. L. 109–162, title X, § 1004(b)](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3085](https://www.govinfo.gov/link/statute/119/3085); [Pub. L. 109–248, title II, § 216](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 617](https://www.govinfo.gov/link/statute/120/617); [Pub. L. 109–304, § 17(d)(7)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1707](https://www.govinfo.gov/link/statute/120/1707); [Pub. L. 110–457, title II](https://www.govinfo.gov/link/plaw/110/public/457), §§ 222(a), 224(a), Dec. 23, 2008, [122 Stat. 5067](https://www.govinfo.gov/link/statute/122/5067), 5072.)*

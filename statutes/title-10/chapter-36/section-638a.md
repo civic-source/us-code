@@ -3,9 +3,10 @@ title: "Section 638a - Modification to rules for continuation on active duty; en
 usc_title: 10
 usc_section: "638a"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 638a"
-generated_at: "2026-03-30T02:53:38.070Z"
+generated_at: "2026-11-23T20:25:51.025Z"
+status: "active"
 ---
 
 # § 638a. Modification to rules for continuation on active duty; enhanced authority for selective early retirement and early discharges
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:53:38.070Z"
   - **(4)** An officer who is recommended for discharge by a selection board convened pursuant to the authority of subsection (b)(4) and whose discharge is approved by the Secretary concerned shall be discharged on a date specified by the Secretary concerned.
   - **(5)** Selection of officers for discharge under this subsection shall be based on the needs of the service.
 - **(f)** The discharge or retirement of an officer pursuant to this section shall be considered to be involuntary for purposes of any other provision of law.
+
+## Source Credit
+
+*(Added [Pub. L. 101–510, div. A, title V, § 521(a)(1)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1559](https://www.govinfo.gov/link/statute/104/1559); amended [Pub. L. 102–190, div. A, title V, § 503(b)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1355](https://www.govinfo.gov/link/statute/105/1355); [Pub. L. 102–484, div. A, title V, § 503](https://www.govinfo.gov/link/plaw/102/public/484), title LXIV, § 4403(g)(2), Oct. 23, 1992, [106 Stat. 2402](https://www.govinfo.gov/link/statute/106/2402), 2703; [Pub. L. 103–160, div. A, title V, § 561(b)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1667](https://www.govinfo.gov/link/statute/107/1667); [Pub. L. 105–261, div. A, title V, § 561(c)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2025](https://www.govinfo.gov/link/statute/112/2025); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title V, § 571(c)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–134; [Pub. L. 109–364, div. A, title VI, § 623(b)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2256](https://www.govinfo.gov/link/statute/120/2256); [Pub. L. 112–239, div. A, title V, § 502](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1714](https://www.govinfo.gov/link/statute/126/1714); [Pub. L. 113–66, div. A, title V, § 503(a)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 750](https://www.govinfo.gov/link/statute/127/750); [Pub. L. 113–291, div. A, title V, § 503](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3355](https://www.govinfo.gov/link/statute/128/3355); [Pub. L. 114–92, div. A, title V, § 503](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 807](https://www.govinfo.gov/link/statute/129/807); [Pub. L. 114–328, div. A, title V](https://www.govinfo.gov/link/plaw/114/public/328), §§ 506, 508(b), Dec. 23, 2016, [130 Stat. 2108](https://www.govinfo.gov/link/statute/130/2108), 2109; [Pub. L. 115–91, div. A, title V, § 503](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1373](https://www.govinfo.gov/link/statute/131/1373); [Pub. L. 115–232, div. A, title VIII, § 809(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1840](https://www.govinfo.gov/link/statute/132/1840); [Pub. L. 119–60, div. A, title VI, § 602](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 905](https://www.govinfo.gov/link/statute/139/905).)*

@@ -3,9 +3,10 @@ title: "Section 9859 - Definitions"
 usc_title: 42
 usc_section: "9859"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9859"
-generated_at: "2026-03-30T02:56:11.375Z"
+generated_at: "2026-11-23T20:27:23.182Z"
+status: "active"
 ---
 
 # § 9859. Definitions
@@ -18,3 +19,7 @@ In this subchapter:
     - **(B)** satisfies the State and local requirements,
   - **(3)** The term “Secretary” means the Secretary of Health and Human Services.
   - **(4)** The term “State” means any of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+
+## Source Credit
+
+*([Pub. L. 106–310, div. A, title XIV, § 1401](https://www.govinfo.gov/link/plaw/106/public/310), Oct. 17, 2000, [114 Stat. 1143](https://www.govinfo.gov/link/statute/114/1143).)*

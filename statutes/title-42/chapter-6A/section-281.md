@@ -3,9 +3,10 @@ title: "Section 281 - Organization of National Institutes of Health"
 usc_title: 42
 usc_section: "281"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 281"
-generated_at: "2026-03-30T02:56:10.736Z"
+generated_at: "2026-11-23T20:27:20.189Z"
+status: "active"
 ---
 
 # § 281. Organization of National Institutes of Health
@@ -117,3 +118,7 @@ generated_at: "2026-03-30T02:56:10.736Z"
     - **(A)** listed in subsection (b) and not terminated under subsection (d)(2)(A); or
     - **(B)** established by the Director of NIH under such subsection.
 - **(h)** For purposes of this subchapter, a reference to the National Institutes of Health includes its agencies.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title IV, § 401, as added [Pub. L. 99–158, § 2](https://www.govinfo.gov/link/plaw/99/public/158), Nov. 20, 1985, [99 Stat. 822](https://www.govinfo.gov/link/statute/99/822); amended [Pub. L. 100–553, § 2(1)](https://www.govinfo.gov/link/plaw/100/public/553), Oct. 28, 1988, [102 Stat. 2769](https://www.govinfo.gov/link/statute/102/2769); [Pub. L. 100–607, title I, § 101(1)](https://www.govinfo.gov/link/plaw/100/public/607), Nov. 4, 1988, [102 Stat. 3048](https://www.govinfo.gov/link/statute/102/3048); [Pub. L. 100–690, title II, § 2613(b)(2)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4238](https://www.govinfo.gov/link/statute/102/4238); [Pub. L. 102–321, title I, § 121(a)](https://www.govinfo.gov/link/plaw/102/public/321), July 10, 1992, [106 Stat. 358](https://www.govinfo.gov/link/statute/106/358); [Pub. L. 103–43, title XV](https://www.govinfo.gov/link/plaw/103/public/43), §§ 1501(1), 1511(b)(1), 1521(1), June 10, 1993, [107 Stat. 172](https://www.govinfo.gov/link/statute/107/172), 179, 180; [Pub. L. 103–417, § 13(b)](https://www.govinfo.gov/link/plaw/103/public/417), Oct. 25, 1994, [108 Stat. 4335](https://www.govinfo.gov/link/statute/108/4335); [Pub. L. 105–277, div. A, § 101(f) [title II, § 212, title VI, § 601(k)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–359, 2681–388; [Pub. L. 106–525, title I, § 101(b)(1)](https://www.govinfo.gov/link/plaw/106/public/525), Nov. 22, 2000, [114 Stat. 2501](https://www.govinfo.gov/link/statute/114/2501); [Pub. L. 106–580, § 3(e)](https://www.govinfo.gov/link/plaw/106/public/580), Dec. 29, 2000, [114 Stat. 3091](https://www.govinfo.gov/link/statute/114/3091); [Pub. L. 109–482, title I](https://www.govinfo.gov/link/plaw/109/public/482), §§ 101(a), (b), 108(a), Jan. 15, 2007, [120 Stat. 3675](https://www.govinfo.gov/link/statute/120/3675), 3676, 3697; [Pub. L. 110–154, § 1(b)(1)](https://www.govinfo.gov/link/plaw/110/public/154), Dec. 21, 2007, [121 Stat. 1827](https://www.govinfo.gov/link/statute/121/1827); [Pub. L. 111–148, title X, § 10334(c)(3)(A)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 974](https://www.govinfo.gov/link/statute/124/974); [Pub. L. 112–74, div. F, title II, § 221(a)(2)](https://www.govinfo.gov/link/plaw/112/public/74), (c)(2)(B), Dec. 23, 2011, [125 Stat. 1087](https://www.govinfo.gov/link/statute/125/1087), 1089; [Pub. L. 113–235, div. G, title II, § 224(1)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2490](https://www.govinfo.gov/link/statute/128/2490).)*

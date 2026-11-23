@@ -3,9 +3,10 @@ title: "Section 14 - Definitions"
 usc_title: 20
 usc_section: "14"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 14"
-generated_at: "2026-03-30T02:54:48.077Z"
+generated_at: "2026-11-23T20:26:14.233Z"
+status: "active"
 ---
 
 # § 80q–14. Definitions
@@ -23,3 +24,7 @@ As used in this subchapter—
   - **(9)** the term “National Museum” means the National Museum of the American Indian established by section 80q–1 of this title ;
   - **(10)** the term “Native American” means an individual of a tribe, people, or culture that is indigenous to the Americas and such term includes a Native Hawaiian; and
   - **(11)** the term “Native Hawaiian” means a member or descendant of the aboriginal people who, before 1778, occupied and exercised sovereignty in the area that now comprises the State of Hawaii.
+
+## Source Credit
+
+*([Pub. L. 101–185, § 16](https://www.govinfo.gov/link/plaw/101/public/185), Nov. 28, 1989, [103 Stat. 1346](https://www.govinfo.gov/link/statute/103/1346).)*

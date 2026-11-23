@@ -3,9 +3,10 @@ title: "Section 101915 - Protection of concessioner investment"
 usc_title: 54
 usc_section: "101915"
 chapter: 1019
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "54 U.S.C. § 101915"
-generated_at: "2026-03-30T02:56:28.415Z"
+generated_at: "2026-11-23T20:27:38.022Z"
+status: "active"
 ---
 
 # § 101915. Protection of concessioner investment
@@ -34,3 +35,92 @@ generated_at: "2026-03-30T02:56:28.415Z"
   - **(4)** If the Secretary, or either party to a value determination proceeding conducted under a Service concession contract issued before November 13, 1998 , considers that the value determination decision issued pursuant to the proceeding misinterprets or misapplies relevant contractual requirements or their underlying legal authority, the Secretary or either party may seek, within 180 days after the date of the decision, de novo review of the value determination decision by the United States Court of Federal Claims. The Court of Federal Claims may make an order affirming, vacating, modifying or correcting the determination decision.
 - **(d)** On expiration or termination of a concession contract entered into after November 13, 1998 , a concessioner shall be entitled under the terms of the concession contract to receive from the United States or a successor concessioner the value of any leasehold surrender interest in a capital improvement as of the date of the expiration or termination. A successor concessioner shall have a leasehold surrender interest in the capital improvement under the terms of a new concession contract and the initial value of the leasehold surrender interest in the capital improvement (instead of construction cost) shall be the amount of money the new concessioner is required to pay the prior concessioner for its leasehold surrender interest under the terms of the prior concession contract.
 - **(e)** Title to any capital improvement constructed by a concessioner on land owned by the United States in a System unit shall be vested in the United States.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 101915(a) | 16 U.S.C. 5954(e) . | Pub. L. 105–391, title IV, § 405(a) through (e), Nov. 13, 1998 , 112 Stat. 3508 . |
+| 101915(b) | 16 U.S.C. 5954(a) . |  |
+| 101915(c)(1) through (3) | 16 U.S.C. 5954(b) . |  |
+| 101915(c)(4) | 16 U.S.C. 5954 note. | Pub. L. 110–161, div. F, title I (1st paragraph under heading “ administrative provisions ” under heading “ National Park Service ”), Dec. 26, 2007 , 121 Stat. 2107 . |
+| 101915(d), (e) | 16 U.S.C. 5954(c) , (d). |  |
+
+
+Definitions
+
+Capital improvement
+
+Consumer price index
+
+Leasehold Surrender Interest in Capital Improvements
+
+In general
+
+Pledge as security
+
+Transfer and relinquishment or waiver of interest
+
+Limit on extinguishing or taking interest
+
+Value of interest
+
+Value of interest in certain new concession contracts.—
+
+How value is determined
+
+When alternative formula may be used
+
+Increase in value of interest
+
+Special Rule for Possessory Interest Existing Before November
+
+In general
+
+Existing concessioner awarded a new contract
+
+New concessioner awarded a contract
+
+De novo review of value determination
+
+Transition to Successor Concessioner
+
+Title to Improvements
+
+Historical and Revision Notes
+
+101915(a)
+
+16 U.S.C. 5954(e)
+
+Pub. L. 105–391, title IV, § 405(a)
+
+Nov. 13, 1998
+
+112 Stat. 3508
+
+101915(b)
+
+16 U.S.C. 5954(a)
+
+16 U.S.C. 5954(b)
+
+101915(c)(4)
+
+16 U.S.C. 5954
+
+Pub. L. 110–161, div. F, title I
+
+administrative provisions
+
+National Park Service
+
+Dec. 26, 2007
+
+121 Stat. 2107
+
+101915(d), (e)
+
+16 U.S.C. 5954(c)
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3143](https://www.govinfo.gov/link/statute/128/3143).)*

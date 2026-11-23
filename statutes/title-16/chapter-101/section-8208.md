@@ -3,9 +3,10 @@ title: "Section 8208 - Interagency operational plan"
 usc_title: 16
 usc_section: "8208"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 8208"
-generated_at: "2026-03-30T02:54:23.083Z"
+generated_at: "2026-11-23T20:26:20.873Z"
+status: "active"
 ---
 
 # § 8208. Interagency operational plan
@@ -14,3 +15,7 @@ Not later than 1 year after October 30, 2020 , and every 5 years thereafter, the
 
   - **(1)** the functional, operational, technical, scientific, and general staff, administrative, and material needs for the implementation of this chapter; and
   - **(2)** any interagency agreements between or among Federal departments and agencies to address those needs.
+
+## Source Credit
+
+*([Pub. L. 116–188, title II, § 208](https://www.govinfo.gov/link/plaw/116/public/188), Oct. 30, 2020, [134 Stat. 935](https://www.govinfo.gov/link/statute/134/935).)*

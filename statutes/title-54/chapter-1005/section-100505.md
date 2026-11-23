@@ -3,9 +3,10 @@ title: "Section 100505 - Periodic review of System"
 usc_title: 54
 usc_section: "100505"
 chapter: 1005
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "54 U.S.C. § 100505"
-generated_at: "2026-03-30T02:56:28.412Z"
+generated_at: "2026-11-23T20:27:37.988Z"
+status: "active"
 ---
 
 # § 100505. Periodic review of System
@@ -16,3 +17,46 @@ generated_at: "2026-03-30T02:56:28.412Z"
   - **(1)** A comprehensive listing of all authorized but unacquired parcels of land within the exterior boundaries of each System unit as of November 28, 1990 .
   - **(2)** A priority listing of all those unacquired parcels by System unit and for the System as a whole. The list shall describe the acreage and ownership of each parcel, the estimated cost of acquisition for each parcel (subject to any statutory acquisition limitations for the land), and the basis for the estimate.
   - **(3)** An analysis and evaluation of the current and future needs of each System unit for resource management, interpretation, construction, operation and maintenance, personnel, and housing, together with an estimate of the costs.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 100505(a) | 16 U.S.C. 1a–9 . | Pub. L. 101–628, title XII , §§ 1213–1215, Nov. 28, 1990 , 104 Stat. 4507 ; Pub. L. 103–437, § 6(d)(2) , Nov. 2, 1994 , 108 Stat. 4583 . |
+| 100505(b) | 16 U.S.C. 1a–10 . |  |
+| 100505(c) | 16 U.S.C. 1a–11 . |  |
+
+
+Authority of Secretary To Conduct Review
+
+Consultation
+
+Contents of report
+
+Historical and Revision Notes
+
+100505(a)
+
+16 U.S.C. 1a–9
+
+Pub. L. 101–628, title XII
+
+Nov. 28, 1990
+
+104 Stat. 4507
+
+Pub. L. 103–437, § 6(d)(2)
+
+Nov. 2, 1994
+
+108 Stat. 4583
+
+100505(b)
+
+16 U.S.C. 1a–10
+
+100505(c)
+
+16 U.S.C. 1a–11
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3099](https://www.govinfo.gov/link/statute/128/3099).)*

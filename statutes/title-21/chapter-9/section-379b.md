@@ -3,9 +3,10 @@ title: "Section 379b - Consolidated administrative and laboratory facility"
 usc_title: 21
 usc_section: "379b"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 379b"
-generated_at: "2026-03-30T02:54:54.264Z"
+generated_at: "2026-11-23T20:26:27.711Z"
+status: "active"
 ---
 
 # § 379b. Consolidated administrative and laboratory facility
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:54.264Z"
 - **(b)** The Secretary shall solicit contract proposals under subsection (a) from interested parties. In awarding contracts under such subsection, the Secretary shall review such proposals and give priority to those alternatives that are the most cost effective for the Federal Government and that allow for the use of donated land, federally owned property, or lease-purchase arrangements. A contract under this subsection shall not be entered into unless such contract results in a net cost savings to the Federal Government over the duration of the contract, as compared to the Government purchase price including borrowing by the Secretary of the Treasury.
 - **(c)** In carrying out this section, the Secretary shall have the power, in connection with real property, buildings, and facilities, to accept on behalf of the Food and Drug Administration gifts or donations of services or property, real or personal, as the Secretary determines to be necessary.
 - **(d)** There are authorized to be appropriated to carry out this section $100,000,000 for fiscal year 1991, and such sums as may be necessary for each of the subsequent fiscal years, to remain available until expended.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 710, as added [Pub. L. 101–635, title I, § 101](https://www.govinfo.gov/link/plaw/101/public/635), Nov. 28, 1990, [104 Stat. 4583](https://www.govinfo.gov/link/statute/104/4583).)*

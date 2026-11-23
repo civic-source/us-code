@@ -3,9 +3,10 @@ title: "Section 732 - Basis of distributed property other than money"
 usc_title: 26
 usc_section: "732"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 732"
-generated_at: "2026-03-30T02:55:27.726Z"
+generated_at: "2026-11-23T20:26:45.871Z"
+status: "active"
 ---
 
 # § 732. Basis of distributed property other than money
@@ -48,3 +49,11 @@ generated_at: "2026-03-30T02:55:27.726Z"
   - **(6)** For purposes of paragraph (1), if a corporation acquires (other than in a distribution from a partnership) stock the basis of which is determined (by reason of being distributed from a partnership) in whole or in part by reference to subsection (a)(2) or (b), the corporation shall be treated as receiving a distribution of such stock from a partnership.
   - **(7)** If the property held by a distributed corporation is stock in a corporation which the distributed corporation controls, this subsection shall be applied to reduce the basis of the property of such controlled corporation. This subsection shall be reapplied to any property of any controlled corporation which is stock in a corporation which it controls.
   - **(8)** The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations to avoid double counting and to prevent the abuse of such purposes.
+
+In general
+
+Partnerships in existence on July 14, 1999
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 246; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 105–34, title X](https://www.govinfo.gov/link/plaw/105/public/34), §§ 1061(a), 1062(b)(3), Aug. 5, 1997, [111 Stat. 945](https://www.govinfo.gov/link/statute/111/945), 947; [Pub. L. 106–170, title V, § 538(a)](https://www.govinfo.gov/link/plaw/106/public/170), Dec. 17, 1999, [113 Stat. 1939](https://www.govinfo.gov/link/statute/113/1939).)*

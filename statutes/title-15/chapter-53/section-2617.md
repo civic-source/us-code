@@ -3,9 +3,10 @@ title: "Section 2617 - Preemption"
 usc_title: 15
 usc_section: "2617"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2617"
-generated_at: "2026-03-30T02:54:08.177Z"
+generated_at: "2026-11-23T20:26:04.222Z"
+status: "active"
 ---
 
 # § 2617. Preemption
@@ -86,3 +87,11 @@ generated_at: "2026-03-30T02:54:08.177Z"
   - **(2)**
     - **(A)** Nothing in this chapter, nor any amendments made by the Frank R. Lautenberg Chemical Safety for the 21st Century Act, nor any rules, regulations, requirements, risk evaluations, scientific assessments, or orders issued pursuant to this chapter shall be interpreted as, in either the plaintiff’s or defendant’s favor, dispositive in any civil action.
     - **(B)** This chapter does not affect the authority of any court to make a determination in an adjudicatory proceeding under applicable State or Federal law with respect to the admission into evidence or any other use of this chapter or rules, regulations, requirements, standards of performance, risk evaluations, scientific assessments, or orders issued pursuant to this chapter.
+
+(aa) addresses the same hazards and exposures, with respect to the same conditions of use as are included in the scope of the risk evaluation published pursuant to section 2605(b)(4)(D) of this title , but is inconsistent with the action of the Administrator; or
+
+(bb) would cause a violation of the applicable action by the Administrator under section 2604 or 2605 of this title; or
+
+## Source Credit
+
+*([Pub. L. 94–469, title I, § 18](https://www.govinfo.gov/link/plaw/94/public/469), Oct. 11, 1976, [90 Stat. 2038](https://www.govinfo.gov/link/statute/90/2038); renumbered title I, [Pub. L. 99–519, § 3(c)(1)](https://www.govinfo.gov/link/plaw/99/public/519), Oct. 22, 1986, [100 Stat. 2989](https://www.govinfo.gov/link/statute/100/2989); amended [Pub. L. 114–182, title I, § 13](https://www.govinfo.gov/link/plaw/114/public/182), June 22, 2016, [130 Stat. 492](https://www.govinfo.gov/link/statute/130/492).)*

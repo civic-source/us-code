@@ -3,9 +3,10 @@ title: "Section 7549 - High altitude performance adjustments"
 usc_title: 42
 usc_section: "7549"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7549"
-generated_at: "2026-03-30T02:56:11.315Z"
+generated_at: "2026-11-23T20:27:22.917Z"
+status: "active"
 ---
 
 # § 7549. High altitude performance adjustments
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.315Z"
   - **(1)** The Administrator shall promptly establish at least one testing center (in addition to the testing centers existing on November 15, 1990 ) located at a site that represents high altitude conditions, to ascertain in a reasonable manner whether, when in actual use throughout their useful life (as determined under section 7521(d) of this title ), each class or category of vehicle and engines to which regulations under section 7521 of this title apply conforms to the emissions standards established by such regulations. For purposes of this subsection, the term “high altitude conditions” refers to high altitude as defined in regulations of the Administrator in effect as of November 15, 1990 .
   - **(2)** The Administrator, in cooperation with the Secretary of Energy and the Administrator of the Federal Transit Administration, and such other agencies as the Administrator deems appropriate, shall establish a research and technology assessment center to provide for the development and evaluation of less-polluting heavy-duty engines and fuels for use in buses, heavy-duty trucks, and non-road engines and vehicles, which shall be located at a high-altitude site that represents high-altitude conditions. In establishing and funding such a center, the Administrator shall give preference to proposals which provide for local cost-sharing of facilities and recovery of costs of operation through utilization of such facility for the purposes of this section.
   - **(3)** The Administrator shall designate at least one center at high-altitude conditions to provide research on after-market emission components, dual-fueled vehicles and conversion kits, the effects of tampering on emissions equipment, testing of alternate fuels and conversion kits, and the development of curricula, training courses, and materials to maximize the effectiveness of inspection and maintenance programs as they relate to promoting effective control of vehicle emissions at high-altitude elevations. Preference shall be given to existing vehicle emissions testing and research centers that have established reputations for vehicle emissions research and development and training, and that possess in-house Federal Test Procedure capacity.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title II, § 215, as added [Pub. L. 95–95, title II, § 211(b)](https://www.govinfo.gov/link/plaw/95/public/95), Aug. 7, 1977, [91 Stat. 757](https://www.govinfo.gov/link/statute/91/757); amended [Pub. L. 95–190, § 14(a)(75)](https://www.govinfo.gov/link/plaw/95/public/190), Nov. 16, 1977, [91 Stat. 1404](https://www.govinfo.gov/link/statute/91/1404); [Pub. L. 101–549, title II, § 224](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2503](https://www.govinfo.gov/link/statute/104/2503); [Pub. L. 102–240, title III, § 3004(b)](https://www.govinfo.gov/link/plaw/102/public/240), Dec. 18, 1991, [105 Stat. 2088](https://www.govinfo.gov/link/statute/105/2088).)*

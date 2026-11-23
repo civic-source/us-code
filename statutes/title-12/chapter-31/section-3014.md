@@ -3,9 +3,10 @@ title: "Section 3014 - Capitalization"
 usc_title: 12
 usc_section: "3014"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 3014"
-generated_at: "2026-03-30T02:53:53.489Z"
+generated_at: "2026-11-23T20:25:59.314Z"
+status: "active"
 ---
 
 # § 3014. Capitalization
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:53.489Z"
     - **(C)** the concentration of more than 5 per centum of the total voting control in any one class B or class C stockholder.
 - **(h)** The Bank may accept nonreturnable capital contributions on which no interest, dividend, or patronage refund shall be payable from associations, foundations, or funds or public bodies or agencies at the discretion of the Board.
 - **(i)** After payment of all operating expenses of the Bank, including interest on its obligations, and after setting aside appropriate funds for reserves for losses, for interest payments on class A notes and dividends on class C stock and for any redemption of class A notes in accordance with subsection (c), the Bank shall annually set aside the remaining earnings of the Bank for patronage refunds in the form of class B or C stock or allocated surplus in accordance with the bylaws of the Bank. After ten years from the date of issue of any such stock, or at such earlier time as all the Government-held stock is retired, patronage refunds may be made in cash, or partly in stock and partly in cash.
+
+## Source Credit
+
+*([Pub. L. 95–351, title I, § 104](https://www.govinfo.gov/link/plaw/95/public/351), Aug. 20, 1978, [92 Stat. 503](https://www.govinfo.gov/link/statute/92/503); [Pub. L. 97–35, title III](https://www.govinfo.gov/link/plaw/97/public/35), §§ 394(c)(1), 395(b)(2), 396(c), Aug. 13, 1981, [95 Stat. 436](https://www.govinfo.gov/link/statute/95/436), 439; [Pub. L. 101–206, § 2](https://www.govinfo.gov/link/plaw/101/public/206), Dec. 7, 1989, [103 Stat. 1832](https://www.govinfo.gov/link/statute/103/1832).)*

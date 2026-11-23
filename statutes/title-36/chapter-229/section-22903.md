@@ -3,9 +3,10 @@ title: "Section 22903 - Purposes"
 usc_title: 36
 usc_section: "22903"
 chapter: 229
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 22903"
-generated_at: "2026-03-30T02:55:44.694Z"
+generated_at: "2026-11-23T20:26:58.841Z"
+status: "active"
 ---
 
 # § 22903. Purposes
@@ -19,3 +20,22 @@ The purposes of the corporation are as provided in its articles of incorporation
   - **(5)** aiding them in sickness and distress;
   - **(6)** assisting in the burial and commemoration of their dead and providing help for their widows and orphans; and
   - **(7)** perpetuating the memory of patriotic deeds performed by the defenders of our country.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 22903 | 36:3903. | Nov. 6, 1986 , Pub. L. 99–604, § 3 , 100 Stat. 3446 . |
+
+
+Historical and Revision Notes
+
+22903
+
+Nov. 6, 1986
+
+Pub. L. 99–604, § 3
+
+100 Stat. 3446
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1309](https://www.govinfo.gov/link/statute/112/1309).)*

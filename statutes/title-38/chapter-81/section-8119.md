@@ -3,9 +3,10 @@ title: "Section 8119 - Annual report on outpatient clinics"
 usc_title: 38
 usc_section: "8119"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 8119"
-generated_at: "2026-03-30T02:55:53.537Z"
+generated_at: "2026-11-23T20:27:02.069Z"
+status: "active"
 ---
 
 # § 8119. Annual report on outpatient clinics
@@ -18,3 +19,11 @@ generated_at: "2026-03-30T02:55:53.537Z"
   - **(4)** A prioritized list of sites of care identified by the Secretary that the Secretary could establish without carrying out construction or entering into a lease, including—
     - **(A)** any such sites that could be expanded by hiring additional staff or allocating staff to Federal facilities or facilities operating in collaboration with the Federal Government; and
     - **(B)** any sites established, or able to be established, under sections 8111 and 8153 of this title.
+
+Annual Report Required
+
+Contents of Report
+
+## Source Credit
+
+*(Added [Pub. L. 110–387, title VII, § 708(a)](https://www.govinfo.gov/link/plaw/110/public/387), Oct. 10, 2008, [122 Stat. 4139](https://www.govinfo.gov/link/statute/122/4139).)*

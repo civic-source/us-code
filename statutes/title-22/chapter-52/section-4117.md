@@ -3,9 +3,10 @@ title: "Section 4117 - Standards of conduct for labor organizations"
 usc_title: 22
 usc_section: "4117"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4117"
-generated_at: "2026-03-30T02:55:05.407Z"
+generated_at: "2026-11-23T20:26:32.521Z"
+status: "active"
 ---
 
 # § 4117. Standards of conduct for labor organizations
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:05.407Z"
 - **(f)** If the Board finds that any labor organization has willfully and intentionally violated section 4115(b)(7) of this title by omission or commission with regard to any strike, work stoppage, slowdown, the Board shall—
   - **(1)** revoke the exclusive recognition status of the labor organization, which shall then immediately cease to be legally entitled and obligated to represent employees in the unit; or
   - **(2)** take any other appropriate disciplinary action.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 1017](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2140](https://www.govinfo.gov/link/statute/94/2140); [Pub. L. 103–236, title I, § 171](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 411](https://www.govinfo.gov/link/statute/108/411); [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. B, title XXIII, § 2315, Oct. 21, 1998, [112 Stat. 2681–828](https://www.govinfo.gov/link/statute/112/2681).)*

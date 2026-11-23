@@ -3,9 +3,10 @@ title: "Section 4652 - Semiconductor incentives"
 usc_title: 15
 usc_section: "4652"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 4652"
-generated_at: "2026-03-30T02:54:08.200Z"
+generated_at: "2026-11-23T20:26:04.344Z"
+status: "active"
 ---
 
 # § 4652. Semiconductor incentives
@@ -203,3 +204,37 @@ generated_at: "2026-03-30T02:54:08.200Z"
   - **(5)** whether the Secretary has provided timely Congressional notification about violations of the required agreement under subsection (a)(6)(C)(i), including the required information on how the Secretary reached a determination of whether a covered entity was in violation under subsection (a)(6)(E); and
   - **(6)** whether the Secretary has sufficiently reviewed any covered entity engaging in a listed exception under subsection (a)(6)(C)(ii).
 - **(j)** No funds made available under this section may be used to construct, modify, or improve a facility outside of the United States.
+
+(aa) training and education benefits paid by the covered entity; and
+
+(bb) programs to expand employment opportunity for economically disadvantaged individuals; and
+
+(aa) the type of semiconductor technology, equipment, materials, or research and development the covered entity will produce at the facility described in clause (i); and
+
+(bb) the customers, or categories of customers, to which the covered entity plans to sell the semiconductor technology, equipment, materials, or research and development described in item (aa); and
+
+(aa) a semiconductor technology that is of the 28 nanometer generation or older for logic;
+
+(bb) with respect to memory technology, analog technology, packaging technology, and any other relevant technology, any legacy generation of semiconductor technology relative to the generation described in item (aa), as determined by the Secretary, in consultation with the Secretary of Defense and the Director of National Intelligence; and
+
+(cc) any additional semiconductor technology identified by the Secretary in a public notice issued under clause (ii); and
+
+(aa) produces legacy semiconductors; and
+
+(bb) predominately serves the market of a foreign country of concern.
+
+Establishment
+
+In General
+
+Activities
+
+Staff
+
+Report
+
+J.R. Biden, Jr.
+
+## Source Credit
+
+*([Pub. L. 116–283, div. H, title XCIX, § 9902](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4846](https://www.govinfo.gov/link/statute/134/4846); [Pub. L. 117–167, div. A](https://www.govinfo.gov/link/plaw/117/public/167), §§ 103(b), 105(a), Aug. 9, 2022, [136 Stat. 1380](https://www.govinfo.gov/link/statute/136/1380), 1391; [Pub. L. 118–105, § 2(1)](https://www.govinfo.gov/link/plaw/118/public/105), Oct. 2, 2024, [138 Stat. 1587](https://www.govinfo.gov/link/statute/138/1587).)*

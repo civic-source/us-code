@@ -3,9 +3,10 @@ title: "Section 3b - Security standards and guidelines for agencies on use and m
 usc_title: 15
 usc_section: "3b"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 3b"
-generated_at: "2026-03-30T02:54:08.078Z"
+generated_at: "2026-11-23T20:26:03.681Z"
+status: "active"
 ---
 
 # § 278g–3b. Security standards and guidelines for agencies on use and management of Internet of Things devices
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:08.078Z"
     - **(B)** revise such standards and guidelines as appropriate.
   - **(2)** Not later than 180 days after the Director of the Institute makes a revision pursuant to paragraph (1), the Director of OMB, in consultation with the Director of the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security, shall update any policy or principle issued under subsection (b)(1) as necessary to ensure those policies and principles are consistent with the review and any revision under paragraph (1) under this subsection and paragraphs (2) and (3) of subsection (b).
 - **(d)** The Federal Acquisition Regulation shall be revised as necessary to implement any standards and guidelines promulgated in this section.
+
+## Source Credit
+
+*([Pub. L. 116–207, § 4](https://www.govinfo.gov/link/plaw/116/public/207), Dec. 4, 2020, [134 Stat. 1002](https://www.govinfo.gov/link/statute/134/1002).)*

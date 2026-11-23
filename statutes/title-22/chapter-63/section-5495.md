@@ -3,9 +3,10 @@ title: "Section 5495 - Certain uses of excess foreign currencies"
 usc_title: 22
 usc_section: "5495"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 5495"
-generated_at: "2026-03-30T02:55:05.418Z"
+generated_at: "2026-11-23T20:26:32.569Z"
+status: "active"
 ---
 
 # § 5495. Certain uses of excess foreign currencies
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.418Z"
 - **(d)** Foreign currencies may be used under this section in the country where such currencies are held or in other foreign countries.
 - **(e)** Foreign currencies may be used under this section notwithstanding section 1306 of title 31 or any other provision of law.
 - **(f)** The authority of this section may be exercised only to such extent or in such amount as may be provided in advance in an appropriation Act.
+
+## Source Credit
+
+*([Pub. L. 101–179, title VIII, § 805](https://www.govinfo.gov/link/plaw/101/public/179), Nov. 28, 1989, [103 Stat. 1323](https://www.govinfo.gov/link/statute/103/1323).)*

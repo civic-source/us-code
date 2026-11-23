@@ -3,9 +3,10 @@ title: "Section 8933 - Nationwide sampling"
 usc_title: 15
 usc_section: "8933"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 8933"
-generated_at: "2026-03-30T02:54:08.235Z"
+generated_at: "2026-11-23T20:26:04.511Z"
+status: "active"
 ---
 
 # § 8933. Nationwide sampling
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:08.235Z"
   - **(2)** the Committee on Energy and Commerce and the Committee on Natural Resources of the House of Representatives;
   - **(3)** the Senators of each State in which the Director carried out the sampling; and
   - **(4)** each Member of the House of Representatives who represents a district in which the Director carried out the sampling.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. F, title LXXIII, § 7333](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2282](https://www.govinfo.gov/link/statute/133/2282).)*

@@ -3,9 +3,10 @@ title: "Section 526 - Restrictions on debt relief agencies"
 usc_title: 11
 usc_section: "526"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 526"
-generated_at: "2026-03-30T02:53:53.878Z"
+generated_at: "2026-11-23T20:25:55.365Z"
+status: "active"
 ---
 
 # § 526. Restrictions on debt relief agencies
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:53:53.878Z"
   - **(2)** be deemed to limit or curtail the authority or ability—
     - **(A)** of a State or subdivision or instrumentality thereof, to determine and enforce qualifications for the practice of law under the laws of that State; or
     - **(B)** of a Federal court to determine and enforce the qualifications for the practice of law before that court.
+
+## Source Credit
+
+*(Added [Pub. L. 109–8, title II, § 227(a)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 67](https://www.govinfo.gov/link/statute/119/67); amended [Pub. L. 111–327, § 2(a)(20)](https://www.govinfo.gov/link/plaw/111/public/327), Dec. 22, 2010, [124 Stat. 3560](https://www.govinfo.gov/link/statute/124/3560).)*

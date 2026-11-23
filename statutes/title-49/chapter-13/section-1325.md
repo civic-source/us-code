@@ -3,9 +3,10 @@ title: "Section 1325 - Railroad-Shipper Transportation Advisory Council"
 usc_title: 49
 usc_section: "1325"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 1325"
-generated_at: "2026-03-30T02:56:19.305Z"
+generated_at: "2026-11-23T20:27:34.579Z"
+status: "active"
 ---
 
 # § 1325. Railroad-Shipper Transportation Advisory Council
@@ -42,3 +43,19 @@ generated_at: "2026-03-30T02:56:19.305Z"
     - **(A)** the accuracy of information therein;
     - **(B)** Council efforts and reasonableness of Council positions and actions; and
     - **(C)** any other aspects of the Council’s work as they may consider appropriate.
+
+Establishment; Membership
+
+Term of Office
+
+Election and Duties of Officers
+
+Expenses
+
+Meetings
+
+Functions and Duties; Annual Report
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title II, § 201(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 937](https://www.govinfo.gov/link/statute/109/937), § 726; amended [Pub. L. 104–287, § 5(7)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3389](https://www.govinfo.gov/link/statute/110/3389); renumbered § 1325, [Pub. L. 114–110, § 3(a)(6)](https://www.govinfo.gov/link/plaw/114/public/110), Dec. 18, 2015, [129 Stat. 2229](https://www.govinfo.gov/link/statute/129/2229); amended [Pub. L. 117–286, § 4(a)(303)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4339](https://www.govinfo.gov/link/statute/136/4339).)*

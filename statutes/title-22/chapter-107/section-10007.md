@@ -3,9 +3,10 @@ title: "Section 10007 - Suspension of assistance"
 usc_title: 22
 usc_section: "10007"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 10007"
-generated_at: "2026-03-30T02:55:05.474Z"
+generated_at: "2026-11-23T20:26:32.806Z"
+status: "active"
 ---
 
 # § 10007. Suspension of assistance
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:05.474Z"
 - **(b)** Not later than 30 days after making a determination under subsection (a), the President shall submit to the appropriate congressional committees a report that describes—
   - **(1)** the political and security conditions in Sudan that led to such determination; and
   - **(2)** any planned diplomatic engagement to restart the provision of such assistance.
+
+## Source Credit
+
+*([Pub. L. 116–283, div. A, title XII, § 1268](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3972](https://www.govinfo.gov/link/statute/134/3972).)*

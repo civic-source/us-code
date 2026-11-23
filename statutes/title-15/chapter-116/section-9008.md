@@ -3,9 +3,10 @@ title: "Section 9008 - United States Treasury program management authority"
 usc_title: 15
 usc_section: "9008"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 9008"
-generated_at: "2026-03-30T02:54:08.236Z"
+generated_at: "2026-11-23T20:26:04.517Z"
+status: "active"
 ---
 
 # § 9008. United States Treasury program management authority
@@ -37,3 +38,21 @@ generated_at: "2026-03-30T02:54:08.236Z"
 - **(g)** Lenders qualified to participate as a lender under 7(a) 3 3 So in original. Probably should be preceded by “section”. of the Small Business Act ( 15 U.S.C. 636(a) ) may elect to participate in the paycheck protection program under the criteria, terms, and conditions established under this section. Such participation shall not preclude the lenders from continuing participation as a lender under section 7(a) of the Small Business Act ( 15 U.S.C. 636(a) ).
 - **(h)** With guidance from the Secretary, the Administrator shall administer the program established under this section, including the making and purchasing of guarantees on loans under the program, until the date on which the national emergency declared by the President under the National Emergencies Act ( 50 U.S.C. 1601 et seq.) with respect to the Coronavirus Disease 2019 (COVID–19) expires.
 - **(i)** A loan under this section shall be deemed to be a loan under the Small Business Act ( 15 U.S.C. 631 et seq.) for purposes of section 16 of such Act ( 15 U.S.C. 645 ).
+
+United States Treasury Program Management Authority
+
+Emergency EIDL Grants and Targeted EIDL Advances
+
+Subsidy for Certain Loan Payments
+
+Grants for Shuttered Venue Operators
+
+Effective Dates.—
+
+In general
+
+Grants for shuttered venue operators; targeted eidl advances
+
+## Source Credit
+
+*([Pub. L. 116–136, div. A, title I, § 1109](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 304](https://www.govinfo.gov/link/statute/134/304); [Pub. L. 116–260, div. N, title III, § 304(b)(1)(C)(i)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 1994](https://www.govinfo.gov/link/statute/134/1994).)*

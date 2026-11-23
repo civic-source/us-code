@@ -3,9 +3,10 @@ title: "Section 2127 - Budget and funding for operation of Oversight Board"
 usc_title: 48
 usc_section: "2127"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 2127"
-generated_at: "2026-03-30T02:56:14.603Z"
+generated_at: "2026-11-23T20:27:28.197Z"
+status: "active"
 ---
 
 # § 2127. Budget and funding for operation of Oversight Board
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:14.603Z"
     - **(A)** On the date of establishment of an Oversight Board in accordance with section 2121(b) of this title and on the 5th day of each month thereafter, the Governor of the covered territory shall transfer or cause to be transferred the greater of $2,000,000 or such amount as shall be determined by the Oversight Board pursuant to subsection (a) to a new account established by the territorial government, which shall be available to and subject to the exclusive control of the Oversight Board, without any legislative appropriations of the territorial government.
     - **(B)** The initial funding requirements under subparagraph (A) shall terminate upon the territorial government designating a dedicated funding source not subject to subsequent legislative appropriations under paragraph (1).
   - **(3)** If the Oversight Board determines in its sole discretion that any funds transferred under this subsection exceed the amounts required for the Oversight Board’s operations as established pursuant to subsection (a), any such excess funds shall be periodically remitted to the territorial government.
+
+## Source Credit
+
+*([Pub. L. 114–187, title I, § 107](https://www.govinfo.gov/link/plaw/114/public/187), June 30, 2016, [130 Stat. 562](https://www.govinfo.gov/link/statute/130/562).)*

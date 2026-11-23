@@ -3,9 +3,10 @@ title: "Section 577 - Urban and other high risk area communications capabilities
 usc_title: 6
 usc_section: "577"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 577"
-generated_at: "2026-03-30T02:53:09.470Z"
+generated_at: "2026-11-23T20:25:34.798Z"
+status: "active"
 ---
 
 # § 577. Urban and other high risk area communications capabilities
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:09.470Z"
   - **(1)** to communicate with each other in the event of an emergency;
   - **(2)** to have appropriate and timely access to the Information Sharing Environment described in section 485 of this title ; and
   - **(3)** to be consistent with any applicable State or Urban Area homeland strategy or plan.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XVIII, § 1807](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 109–295, title VI, § 671(b)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1441](https://www.govinfo.gov/link/statute/120/1441).)*

@@ -3,9 +3,10 @@ title: "Section 1702 - Definitions"
 usc_title: 30
 usc_section: "1702"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1702"
-generated_at: "2026-03-30T02:55:29.408Z"
+generated_at: "2026-11-23T20:26:35.057Z"
+status: "active"
 ---
 
 # § 1702. Definitions
@@ -66,3 +67,7 @@ For the purposes of this chapter, the term—
   - **(31)** “State concerned” means, with respect to a lease, a State which receives a portion of royalties or other payments under the mineral leasing laws from such lease;
   - **(32)** “underpayment” means any payment or nonpayment by a lessee or its designee that is less than the amount legally required to be paid on an obligation; and
   - **(33)** “United States” means the United States Government and any department, agency, or instrumentality thereof, the several States, the District of Columbia, and the territories of the United States.
+
+## Source Credit
+
+*([Pub. L. 97–451, § 3](https://www.govinfo.gov/link/plaw/97/public/451), Jan. 12, 1983, [96 Stat. 2448](https://www.govinfo.gov/link/statute/96/2448); [Pub. L. 92–203, § 29(f)(1)](https://www.govinfo.gov/link/plaw/92/public/203), as added [Pub. L. 100–241, § 15](https://www.govinfo.gov/link/plaw/100/public/241), Feb. 3, 1988, [101 Stat. 1813](https://www.govinfo.gov/link/statute/101/1813); [Pub. L. 104–185, § 2](https://www.govinfo.gov/link/plaw/104/public/185), Aug. 13, 1996, [110 Stat. 1700](https://www.govinfo.gov/link/statute/110/1700); [Pub. L. 104–200, § 1(1)](https://www.govinfo.gov/link/plaw/104/public/200), Sept. 22, 1996, [110 Stat. 2421](https://www.govinfo.gov/link/statute/110/2421).)*

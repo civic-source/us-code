@@ -3,9 +3,10 @@ title: "Section 1265 - Environmental protection performance standards"
 usc_title: 30
 usc_section: "1265"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1265"
-generated_at: "2026-03-30T02:55:29.400Z"
+generated_at: "2026-11-23T20:26:35.023Z"
+status: "active"
 ---
 
 # § 1265. Environmental protection performance standards
@@ -126,3 +127,7 @@ generated_at: "2026-03-30T02:55:29.400Z"
   - **(5)** The regulatory authority shall promulgate specific regulations to govern the granting of variances in accord with the provisions of this subsection, and may impose such additional requirements as he deems to be necessary.
   - **(6)** All exceptions granted under the provisions of this subsection shall be reviewed not more than three years from the date of issuance of the permit, unless the permittee affirm­atively demonstrates that the proposed development is proceeding in accordance with the terms of the reclamation plan.
 - **(f)** The Secretary, with the written concurrence of the Chief of Engineers, shall establish within one hundred and thirty-five days from August 3, 1977 , standards and criteria regulating the design, location, construction, operation, maintenance, enlargement, modification, removal, and abandonment of new and existing coal mine waste piles referred to in subsection (b)(13) and section 1266(b)(5) of this title . Such standards and criteria shall conform to the standards and criteria used by the Chief of Engineers to insure that flood control structures are safe and effectively perform their intended function. In addition to engineering and other technical specifications the standards and criteria developed pursuant to this subsection must include provisions for: review and approval of plans and specifications prior to construction, enlargement, modification, removal, or abandonment; performance of periodic inspections during construction; issuance of certificates of approval upon completion of construction; performance of periodic safety inspections; and issuance of notices for required remedial or maintenance work.
+
+## Source Credit
+
+*([Pub. L. 95–87, title V, § 515](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 486](https://www.govinfo.gov/link/statute/91/486); [Pub. L. 99–500, § 101(h) [title I, § 123]](https://www.govinfo.gov/link/plaw/99/public/500), Oct. 18, 1986, [100 Stat. 1783–242](https://www.govinfo.gov/link/statute/100/1783), 1783–267, and [Pub. L. 99–591, § 101(h) [title I, § 123]](https://www.govinfo.gov/link/plaw/99/public/591), Oct. 30, 1986, [100 Stat. 3341–242](https://www.govinfo.gov/link/statute/100/3341), 3341–267; [Pub. L. 102–486, title XXV, § 2503(b)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3102](https://www.govinfo.gov/link/statute/106/3102).)*

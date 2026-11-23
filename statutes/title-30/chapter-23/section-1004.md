@@ -3,9 +3,10 @@ title: "Section 1004 - Rents and royalties"
 usc_title: 30
 usc_section: "1004"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1004"
-generated_at: "2026-03-30T02:55:29.395Z"
+generated_at: "2026-11-23T20:26:34.985Z"
+status: "active"
 ---
 
 # § 1004. Rents and royalties
@@ -56,3 +57,25 @@ generated_at: "2026-03-30T02:55:29.395Z"
   - **(1)** The Secretary shall terminate any lease with respect to which rental is not paid in accordance with this chapter and the terms of the lease under which the rental is required, on the expiration of the 45-day period beginning on the date of the failure to pay the rental.
   - **(2)** The Secretary shall promptly notify a lessee that has not paid rental required under the lease that the lease will be terminated at the end of the period referred to in paragraph (1).
   - **(3)** A lease that would otherwise terminate under paragraph (1) shall not terminate under that paragraph if the lessee pays to the Secretary, before the end of the period referred to in paragraph (1), the amount of rental due plus a late fee equal to 10 percent of the amount.
+
+Near-Term Production Incentive for Existing Leases.—
+
+In general
+
+year application
+
+Definition of Qualified Expansion Geothermal Energy
+
+Royalty Under Existing Leases.—
+
+In general
+
+Timing
+
+Application of modification
+
+Consultation
+
+## Source Credit
+
+*([Pub. L. 91–581, § 5](https://www.govinfo.gov/link/plaw/91/public/581), Dec. 24, 1970, [84 Stat. 1567](https://www.govinfo.gov/link/statute/84/1567); [Pub. L. 109–58, title II](https://www.govinfo.gov/link/plaw/109/public/58), §§ 223(a), 224(a), 228, 230, 232, 233, 236(7), Aug. 8, 2005, [119 Stat. 661](https://www.govinfo.gov/link/statute/119/661), 662, 667–670, 672.)*

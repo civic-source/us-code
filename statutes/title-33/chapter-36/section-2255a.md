@@ -3,9 +3,10 @@ title: "Section 2255a - High water-low water preparedness"
 usc_title: 33
 usc_section: "2255a"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2255a"
-generated_at: "2026-03-30T02:55:41.117Z"
+generated_at: "2026-11-23T20:26:54.139Z"
+status: "active"
 ---
 
 # § 2255a. High water-low water preparedness
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:41.117Z"
     - **(A)** be initiated by not later than 60 days after the date on which the Secretary makes the applicable determination under subsection (b); and
     - **(B)** to the maximum extent practicable, be completed by not later than 1 year after the date on which the Secretary makes such determination.
 - **(d)** There is authorized to be appropriated to the Secretary to carry out this section $25,000,000 for each of fiscal years 2022 through 2024, to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. AA, title I, § 151](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2657](https://www.govinfo.gov/link/statute/134/2657).)*

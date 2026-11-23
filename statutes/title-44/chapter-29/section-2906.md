@@ -3,9 +3,10 @@ title: "Section 2906 - Inspection of agency records"
 usc_title: 44
 usc_section: "2906"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "44 U.S.C. § 2906"
-generated_at: "2026-03-30T02:55:56.295Z"
+generated_at: "2026-11-23T20:27:03.815Z"
+status: "active"
 ---
 
 # § 2906. Inspection of agency records
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:56.295Z"
     - **(B)** deemed to be a record contained in a system of records for purposes of subsections (b), (c), and (i) of section 552a of title 5 .
 - **(b)** In conducting the inspection of agency records provided for in subsection (a) of this section, the Archivist (or the Archivist’s designee) shall, in addition to complying with the provisions of law cited in subsection (a)(3), comply with all other Federal laws and be subject to the sanctions provided therein.
 - **(c)** The Administrator (or the Administrator’s designee) may inspect the mail processing practices and programs of any Federal agency for the purpose of rendering recommendations for the improvement of mail processing practices and programs. Officers and employees of such agencies shall cooperate fully in such inspections of mail processing practices and programs.
+
+## Source Credit
+
+*(Added [Pub. L. 94–575, § 2(a)(3)](https://www.govinfo.gov/link/plaw/94/public/575), Oct. 21, 1976, [90 Stat. 2725](https://www.govinfo.gov/link/statute/90/2725); amended [Pub. L. 98–497, title I, § 107(b)(17)](https://www.govinfo.gov/link/plaw/98/public/497), Oct. 19, 1984, [98 Stat. 2289](https://www.govinfo.gov/link/statute/98/2289); [Pub. L. 113–187, § 9(d)](https://www.govinfo.gov/link/plaw/113/public/187), Nov. 26, 2014, [128 Stat. 2013](https://www.govinfo.gov/link/statute/128/2013); [Pub. L. 115–85, § 2(a)(3)](https://www.govinfo.gov/link/plaw/115/public/85), Nov. 21, 2017, [131 Stat. 1275](https://www.govinfo.gov/link/statute/131/1275).)*

@@ -3,9 +3,10 @@ title: "Section 255 - Access by persons with disabilities"
 usc_title: 47
 usc_section: "255"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 255"
-generated_at: "2026-03-30T02:56:24.502Z"
+generated_at: "2026-11-23T20:27:28.853Z"
+status: "active"
 ---
 
 # § 255. Access by persons with disabilities
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:24.502Z"
 - **(d)** Whenever the requirements of subsections (b) and (c) are not readily achievable, such a manufacturer or provider shall ensure that the equipment or service is compatible with existing peripheral devices or specialized customer premises equipment commonly used by individuals with disabilities to achieve access, if readily achievable.
 - **(e)** Within 18 months after February 8, 1996 , the Architectural and Transportation Barriers Compliance Board shall develop guidelines for accessibility of telecommunications equipment and customer premises equipment in conjunction with the Commission. The Board shall review and update the guidelines periodically.
 - **(f)** Nothing in this section shall be construed to authorize any private right of action to enforce any requirement of this section or any regulation thereunder. The Commission shall have exclusive jurisdiction with respect to any complaint under this section.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title II, § 255, as added [Pub. L. 104–104, title I, § 101(a)](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 75](https://www.govinfo.gov/link/statute/110/75).)*

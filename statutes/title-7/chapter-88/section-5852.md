@@ -3,9 +3,10 @@ title: "Section 5852 - Agricultural Weather Office"
 usc_title: 7
 usc_section: "5852"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 5852"
-generated_at: "2026-03-30T02:53:42.419Z"
+generated_at: "2026-11-23T20:25:41.663Z"
+status: "active"
 ---
 
 # § 5852. Agricultural Weather Office
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:53:42.419Z"
   - **(1)** techniques and processes that relate to weather-induced agricultural losses, and to improving the advisory information on weather extremes such as drought, floods, freezes, and storms well in advance of their actual occurrence;
   - **(2)** the improvement of site-specific weather data collection and forecasting; or
   - **(3)** the impact of weather on economic and environmental costs in agricultural production.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XVI, § 1638](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3748](https://www.govinfo.gov/link/statute/104/3748); [Pub. L. 102–237, title IV, § 407(6)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1865](https://www.govinfo.gov/link/statute/105/1865); [Pub. L. 110–234, title VII, § 7511(c)(18)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1269](https://www.govinfo.gov/link/statute/122/1269); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, § 7511(c)(18), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2030.)*

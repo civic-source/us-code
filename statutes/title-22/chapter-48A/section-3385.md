@@ -3,9 +3,10 @@ title: "Section 3385 - Reports and audits"
 usc_title: 22
 usc_section: "3385"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3385"
-generated_at: "2026-03-30T02:55:05.393Z"
+generated_at: "2026-11-23T20:26:32.459Z"
+status: "active"
 ---
 
 # § 3385. Reports and audits
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:05.393Z"
         - **(I)** all contracts and cooperative agreements requiring payments greater than $5,000; and
         - **(II)** any payments of compensation, salaries, or fees at a rate greater than $5,000 per year.
     - **(C)** Each audit report shall be produced in sufficient copies for distribution to the public.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. E, title LV, § 5531](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3329](https://www.govinfo.gov/link/statute/136/3329).)*

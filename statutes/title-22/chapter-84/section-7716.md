@@ -3,9 +3,10 @@ title: "Section 7716 - General personnel authorities"
 usc_title: 22
 usc_section: "7716"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7716"
-generated_at: "2026-03-30T02:55:05.445Z"
+generated_at: "2026-11-23T20:26:32.681Z"
+status: "active"
 ---
 
 # § 7716. General personnel authorities
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:05.445Z"
 - **(e)** In this section—
   - **(1)** the term “agency” means an executive agency, as defined by section 105 of title 5 ; and
   - **(2)** the term “detail” means the assignment or loan of an employee, without a change of position, from the agency by which such employee is employed to the Corporation.
+
+## Source Credit
+
+*([Pub. L. 108–199, div. D, title VI, § 617](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 224](https://www.govinfo.gov/link/statute/118/224).)*

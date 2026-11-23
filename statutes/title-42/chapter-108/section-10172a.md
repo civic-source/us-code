@@ -3,9 +3,10 @@ title: "Section 10172a - Siting a second repository"
 usc_title: 42
 usc_section: "10172a"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10172a"
-generated_at: "2026-03-30T02:56:11.383Z"
+generated_at: "2026-11-23T20:27:23.217Z"
+status: "active"
 ---
 
 # § 10172a. Siting a second repository
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.383Z"
   - **(1)** seasonal increases in population;
   - **(2)** proximity to public drinking water supplies, including those of metropolitan areas; and
   - **(3)** the impact that characterization or siting decisions would have on lands owned or placed in trust by the United States for Indian tribes.
+
+## Source Credit
+
+*([Pub. L. 97–425, title I, § 161](https://www.govinfo.gov/link/plaw/97/public/425), as added [Pub. L. 100–202, § 101(d) [title III, § 300]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–104](https://www.govinfo.gov/link/statute/101/1329), 1329–121; [Pub. L. 100–203, title V, § 5012](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–231](https://www.govinfo.gov/link/statute/101/1330).)*

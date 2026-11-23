@@ -3,9 +3,10 @@ title: "Section 8934 - Data usage"
 usc_title: 15
 usc_section: "8934"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 8934"
-generated_at: "2026-03-30T02:54:08.235Z"
+generated_at: "2026-11-23T20:26:04.511Z"
+status: "active"
 ---
 
 # § 8934. Data usage
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:08.235Z"
   - **(1)** the Administrator; and
   - **(2)** other Federal and State regulatory agencies on request.
 - **(b)** The sampling data provided under subsection (a) shall be used to inform and enhance assessments of exposure, likely health and environmental impacts, and remediation priorities.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. F, title LXXIII, § 7334](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2283](https://www.govinfo.gov/link/statute/133/2283).)*

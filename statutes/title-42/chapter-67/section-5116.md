@@ -3,9 +3,10 @@ title: "Section 5116 - Purpose and authority"
 usc_title: 42
 usc_section: "5116"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5116"
-generated_at: "2026-03-30T02:56:11.219Z"
+generated_at: "2026-11-23T20:27:22.462Z"
+status: "active"
 ---
 
 # § 5116. Purpose and authority
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.219Z"
   - **(3)** financing the start-up, maintenance, expansion, or redesign of specific community-based child abuse and neglect prevention program services (such as respite care services, child abuse and neglect prevention activities, disability services, mental health services, substance abuse treatment services, domestic violence services, housing services, transportation, adult education, home visiting and other similar services) identified by the inventory and description of current services required under section 5116d(3) 1 1 See References in Text note below. of this title as an unmet need, and integrated with the network of community-based child abuse and neglect prevention programs to the extent practicable given funding levels and community priorities;
   - **(4)** maximizing funding through leveraging of funds for the financing, planning, community mobilization, collaboration, assessment, information and referral, startup, training and technical assistance, information management and reporting, reporting and evaluation costs for establishing, operating, or expanding community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect; and
   - **(5)** financing public information activities that focus on the healthy and positive development of parents and children and the promotion of child abuse and neglect prevention activities.
+
+## Source Credit
+
+*([Pub. L. 93–247, title II, § 201](https://www.govinfo.gov/link/plaw/93/public/247), as added [Pub. L. 104–235, title I, § 121](https://www.govinfo.gov/link/plaw/104/public/235), Oct. 3, 1996, [110 Stat. 3080](https://www.govinfo.gov/link/statute/110/3080); amended [Pub. L. 108–36, title I, § 121(a)](https://www.govinfo.gov/link/plaw/108/public/36), (b), June 25, 2003, [117 Stat. 813](https://www.govinfo.gov/link/statute/117/813); [Pub. L. 111–320, title I, § 132](https://www.govinfo.gov/link/plaw/111/public/320), Dec. 20, 2010, [124 Stat. 3478](https://www.govinfo.gov/link/statute/124/3478).)*

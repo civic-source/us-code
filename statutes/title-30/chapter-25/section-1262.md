@@ -3,9 +3,10 @@ title: "Section 1262 - Coal exploration permits"
 usc_title: 30
 usc_section: "1262"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1262"
-generated_at: "2026-03-30T02:55:29.400Z"
+generated_at: "2026-11-23T20:26:35.022Z"
+status: "active"
 ---
 
 # § 1262. Coal exploration permits
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:29.400Z"
 - **(c)** Any person who conducts any coal exploration activities which substantially disturb the natural land surface in violation of this section or regulations issued pursuant thereto shall be subject to the provisions of section 1268 of this title .
 - **(d)** No operator shall remove more than two hundred and fifty tons of coal pursuant to an exploration permit without the specific written approval of the regulatory authority.
 - **(e)** Coal exploration on Federal lands shall be governed by section 4 of the Federal Coal Leasing Amendments Act of 1975 ( 90 Stat. 1085 ).
+
+## Source Credit
+
+*([Pub. L. 95–87, title V, § 512](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 483](https://www.govinfo.gov/link/statute/91/483).)*

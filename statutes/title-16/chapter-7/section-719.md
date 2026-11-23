@@ -3,9 +3,10 @@ title: "Section 719 - Establishment of Program"
 usc_title: 16
 usc_section: "719"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 719"
-generated_at: "2026-03-30T02:54:22.902Z"
+generated_at: "2026-11-23T20:26:20.253Z"
+status: "active"
 ---
 
 # § 719. Establishment of Program
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:22.902Z"
 - **(c)**
   - **(1)** The Secretary shall take appropriate steps to seek to conduct the Program in all of the States.
   - **(2)** The Secretary shall annually submit a report to the Congress on the status of the Program in each of the States.
+
+## Source Credit
+
+*([Pub. L. 103–340, § 2](https://www.govinfo.gov/link/plaw/103/public/340), Oct. 6, 1994, [108 Stat. 3119](https://www.govinfo.gov/link/statute/108/3119); [Pub. L. 106–316, § 2(1)](https://www.govinfo.gov/link/plaw/106/public/316), Oct. 19, 2000, [114 Stat. 1276](https://www.govinfo.gov/link/statute/114/1276).)*

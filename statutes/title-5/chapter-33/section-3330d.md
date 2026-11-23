@@ -3,9 +3,10 @@ title: "Section 3330d - Appointment of military and Department of Defense, Depar
 usc_title: 5
 usc_section: "3330d"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 3330d"
-generated_at: "2026-03-30T02:52:56.003Z"
+generated_at: "2026-11-23T20:25:31.818Z"
+status: "active"
 ---
 
 # § 3330d. Appointment of military and Department of Defense, Department of State, and intelligence community spouses
@@ -46,5 +47,59 @@ generated_at: "2026-03-30T02:52:56.003Z"
   - **(4)** a spouse of an employee of the Department of Defense, including to a position in which the spouse will engage in remote work; or
   - **(5)** a covered spouse to a position in which the covered spouse will engage in remote work.
 - **(c)**
-  - **(1)** An appointment of an eligible spouse as described in subparagraph (A) or (B) of subsection (a)(4) is not restricted to a geographical area.
+  - **(1)** An appointment of an eligible spouse as described in subparagraph (A) or (B) of subsection (a)(4) 1 1 See References in Text note below. is not restricted to a geographical area.
   - **(2)** A spouse of a disabled or deceased member of the Armed Forces may not receive more than 1 permanent appointment under this section.
+
+Definitions
+
+Appointment Authority
+
+Special Rules Regarding Spouse of a Disabled or Deceased Member of the Armed Forces.—
+
+In general
+
+Single permanent appointment
+
+“On the date that is 5 years after the date of the enactment of this Act [ Dec. 23, 2024 ]—
+
+“Effective on December 31, 2033 —
+
+Relocating spouses
+
+Non-relocating spouses
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Donald J. Trump.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+J.R. Biden, Jr.
+
+## Source Credit
+
+*(Added [Pub. L. 112–239, div. A, title V, § 566(a)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1749](https://www.govinfo.gov/link/statute/126/1749); amended [Pub. L. 114–328, div. A, title XI, § 1131](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2457](https://www.govinfo.gov/link/statute/130/2457); [Pub. L. 115–232, div. A, title V, § 573(a)](https://www.govinfo.gov/link/plaw/115/public/232), (c), Aug. 13, 2018, [132 Stat. 1779](https://www.govinfo.gov/link/statute/132/1779); [Pub. L. 118–31, div. A, title XI](https://www.govinfo.gov/link/plaw/118/public/31), §§ 1112(a), 1119(a), Dec. 22, 2023, [137 Stat. 429](https://www.govinfo.gov/link/statute/137/429), 434; [Pub. L. 118–159, div. A, title XI, § 1102(c)(1)](https://www.govinfo.gov/link/plaw/118/public/159), div. F, title LXVI, § 6612(a), (e)(1), Dec. 23, 2024, [138 Stat. 2086](https://www.govinfo.gov/link/statute/138/2086), 2504, 2505.)*

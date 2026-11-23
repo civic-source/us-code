@@ -3,9 +3,10 @@ title: "Section 1708 - Federal Housing Administration operations"
 usc_title: 12
 usc_section: "1708"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1708"
-generated_at: "2026-03-30T02:53:53.409Z"
+generated_at: "2026-11-23T20:25:58.915Z"
+status: "active"
 ---
 
 # § 1708. Federal Housing Administration operations
@@ -133,3 +134,15 @@ generated_at: "2026-03-30T02:53:53.409Z"
 - **(h)** The Secretary shall, by regulation, require each mortgagee approved by the Secretary for participation in the FHA mortgage insurance programs of the Secretary—
   - **(1)** to use the business name of the mortgagee that is registered with the Secretary in connection with such approval in all advertisements and promotional materials, as such terms are defined by the Secretary, relating to the business of such mortgagee in such mortgage insurance programs; and
   - **(2)** to maintain copies of all such advertisements and promotional materials, in such form and for such period as the Secretary requires.
+
+Direct Endorsement Program.—
+
+Fee Panel Appraisers.—
+
+Additional appraiser standards
+
+“Not later than the expiration of the 3-month period beginning upon the date of the enactment of this Act [ May 20, 2009 ], the Secretary of Housing and Urban Development shall—
+
+## Source Credit
+
+*(June 27, 1934, ch. 847, title II, § 202, [48 Stat. 1248](https://www.govinfo.gov/link/statute/48/1248); Feb. 3, 1938, ch. 13, § 3, [52 Stat. 10](https://www.govinfo.gov/link/statute/52/10); June 3, 1939, ch. 175, § 5, [53 Stat. 805](https://www.govinfo.gov/link/statute/53/805); Apr. 20, 1950, ch. 94, title I, § 122, [64 Stat. 59](https://www.govinfo.gov/link/statute/64/59); [Pub. L. 90–19, § 1(a)(3)](https://www.govinfo.gov/link/plaw/90/public/19), May 25, 1967, [81 Stat. 17](https://www.govinfo.gov/link/statute/81/17); [Pub. L. 101–235, title I, § 142](https://www.govinfo.gov/link/plaw/101/public/235), Dec. 15, 1989, [103 Stat. 2030](https://www.govinfo.gov/link/statute/103/2030); [Pub. L. 101–625, title III, § 322](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4134](https://www.govinfo.gov/link/statute/104/4134); [Pub. L. 102–550, title V](https://www.govinfo.gov/link/plaw/102/public/550), §§ 502, 518, 519, Oct. 28, 1992, [106 Stat. 3778](https://www.govinfo.gov/link/statute/106/3778), 3792; [Pub. L. 105–65, title V, § 551](https://www.govinfo.gov/link/plaw/105/public/65), Oct. 27, 1997, [111 Stat. 1412](https://www.govinfo.gov/link/statute/111/1412); [Pub. L. 106–377, § 1(a)(1) [title II, § 209(c)]](https://www.govinfo.gov/link/plaw/106/public/377), Oct. 27, 2000, [114 Stat. 1441](https://www.govinfo.gov/link/statute/114/1441), 1441A–25; [Pub. L. 110–289, div. A, title IV, § 1404](https://www.govinfo.gov/link/plaw/110/public/289), div. B, title I, §§ 2116(1), (3), 2118(a), July 30, 2008, [122 Stat. 2810](https://www.govinfo.gov/link/statute/122/2810), 2832, 2833; [Pub. L. 111–22, div. A, title II, § 203(a)](https://www.govinfo.gov/link/plaw/111/public/22), (b), May 20, 2009, [123 Stat. 1643](https://www.govinfo.gov/link/statute/123/1643); [Pub. L. 111–203, title III, § 373](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1566](https://www.govinfo.gov/link/statute/124/1566); [Pub. L. 117–286, § 4(a)(54)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4311](https://www.govinfo.gov/link/statute/136/4311).)*

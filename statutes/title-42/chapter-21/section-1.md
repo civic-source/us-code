@@ -3,12 +3,17 @@ title: "Section 1 - Double jeopardy; specific crimes and criminal contempts"
 usc_title: 42
 usc_section: "1"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T02:56:11.140Z"
+generated_at: "2026-11-23T20:27:22.024Z"
+status: "active"
 ---
 
 # § 2000h–1. Double jeopardy; specific crimes and criminal contempts
 
 No person should be put twice in jeopardy under the laws of the United States for the same act or omission. For this reason, an acquittal or conviction in a prosecution for a specific crime under the laws of the United States shall bar a proceeding for criminal contempt, which is based upon the same act or omission and which arises under the provisions of this Act; and an acquittal or conviction in a proceeding for criminal contempt, which arises under the provisions of this Act, shall bar a prosecution for a specific crime under the laws of the United States based upon the same act or omission.
 
+
+## Source Credit
+
+*([Pub. L. 88–352, title XI, § 1102](https://www.govinfo.gov/link/plaw/88/public/352), July 2, 1964, [78 Stat. 268](https://www.govinfo.gov/link/statute/78/268).)*

@@ -3,9 +3,10 @@ title: "Section 1451 - Revocation of naturalization"
 usc_title: 8
 usc_section: "1451"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1451"
-generated_at: "2026-03-30T02:53:10.502Z"
+generated_at: "2026-11-23T20:25:36.242Z"
+status: "active"
 ---
 
 # § 1451. Revocation of naturalization
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:10.502Z"
 - **(f)** Whenever an order admitting an alien to citizenship shall be revoked and set aside or a certificate of naturalization shall be canceled, or both, as provided in this section, the court in which such judgment or decree is rendered shall make an order canceling such certificate and shall send a certified copy of such order to the Attorney General. The clerk of court shall transmit a copy of such order and judgment to the Attorney General. A person holding a certificate of naturalization or citizenship which has been canceled as provided by this section shall upon notice by the court by which the decree of cancellation was made, or by the Attorney General, surrender the same to the Attorney General.
 - **(g)** The provisions of this section shall apply not only to any naturalization granted and to certificates of naturalization and citizenship issued under the provisions of this subchapter, but to any naturalization heretofore granted by any court, and to all certificates of naturalization and citizenship which may have been issued heretofore by any court or by the Commissioner based upon naturalization granted by any court, or by a designated representative of the Commissioner under the provisions of section 702 of the Nationality Act of 1940, as amended, or by such designated representative under any other act.
 - **(h)** Nothing contained in this section shall be regarded as limiting, denying, or restricting the power of the Attorney General to correct, reopen, alter, modify, or vacate an order naturalizing the person.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title III, ch. 2, § 340, [66 Stat. 260](https://www.govinfo.gov/link/statute/66/260); Sept. 3, 1954, ch. 1263, § 18, [68 Stat. 1232](https://www.govinfo.gov/link/statute/68/1232); [Pub. L. 87–301, § 18](https://www.govinfo.gov/link/plaw/87/public/301), Sept. 26, 1961, [75 Stat. 656](https://www.govinfo.gov/link/statute/75/656); [Pub. L. 99–653, § 17](https://www.govinfo.gov/link/plaw/99/public/653), Nov. 14, 1986, [100 Stat. 3658](https://www.govinfo.gov/link/statute/100/3658); [Pub. L. 100–525, § 9(dd)](https://www.govinfo.gov/link/plaw/100/public/525), Oct. 24, 1988, [102 Stat. 2621](https://www.govinfo.gov/link/statute/102/2621); [Pub. L. 101–649, title IV, § 407(d)(18)](https://www.govinfo.gov/link/plaw/101/public/649), Nov. 29, 1990, [104 Stat. 5046](https://www.govinfo.gov/link/statute/104/5046); [Pub. L. 102–232, title III, § 305(k)](https://www.govinfo.gov/link/plaw/102/public/232), Dec. 12, 1991, [105 Stat. 1750](https://www.govinfo.gov/link/statute/105/1750); [Pub. L. 103–416, title I, § 104(b)](https://www.govinfo.gov/link/plaw/103/public/416), (c), Oct. 25, 1994, [108 Stat. 4308](https://www.govinfo.gov/link/statute/108/4308).)*

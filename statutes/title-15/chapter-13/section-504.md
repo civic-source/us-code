@@ -3,9 +3,10 @@ title: "Section 504 - Powers of Foundation"
 usc_title: 15
 usc_section: "504"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 504"
-generated_at: "2026-03-30T02:54:08.084Z"
+generated_at: "2026-11-23T20:26:03.712Z"
+status: "active"
 ---
 
 # § 504. Powers of Foundation
@@ -20,3 +21,7 @@ The corporation—
 - **(f)** May acquire by purchase, devise, bequest, gift, or otherwise, and hold, encumber, convey, or otherwise dispose of, such real and personal property as may be necessary or appropriate for its corporate purposes;
 - **(g)** May invest and reinvest the principal and interest of its funds; and
 - **(h)** Generally, may do any and all lawful acts necessary or appropriate to carry out the purposes for which the corporation is created.
+
+## Source Credit
+
+*(June 10, 1930, ch. 440, § 4, [46 Stat. 540](https://www.govinfo.gov/link/statute/46/540).)*

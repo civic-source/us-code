@@ -3,9 +3,10 @@ title: "Section 4905 - List of approved species"
 usc_title: 16
 usc_section: "4905"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 4905"
-generated_at: "2026-03-30T02:54:23.048Z"
+generated_at: "2026-11-23T20:26:20.757Z"
+status: "active"
 ---
 
 # § 4905. List of approved species
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:23.048Z"
     - **(C)** addresses factors relevant to the conservation of the species, including illegal trade, domestic trade, subsistence use, disease, and habitat loss.
   - **(3)** The management plan is implemented and enforced.
   - **(4)** The methods of capture, transport, and maintenance of the species minimizes the risk of injury or damage to health, including inhumane treatment.
+
+## Source Credit
+
+*([Pub. L. 102–440, title I, § 106](https://www.govinfo.gov/link/plaw/102/public/440), Oct. 23, 1992, [106 Stat. 2227](https://www.govinfo.gov/link/statute/106/2227).)*

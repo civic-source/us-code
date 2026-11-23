@@ -3,9 +3,10 @@ title: "Section 13521 - General jurisdiction"
 usc_title: 49
 usc_section: "13521"
 chapter: 135
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 13521"
-generated_at: "2026-03-30T02:56:19.327Z"
+generated_at: "2026-11-23T20:27:34.741Z"
+status: "active"
 ---
 
 # § 13521. General jurisdiction
@@ -20,3 +21,11 @@ generated_at: "2026-03-30T02:56:19.327Z"
     - **(B)** when the transportation is by water carrier to a place outside the United States, the transportation is provided by water carrier from a place in the United States to another place in the United States before transshipment from a place in the United States to a place outside the United States; and
     - **(C)** when the transportation is by water carrier from a place outside the United States, the transportation is provided by water carrier from a place in the United States to another place in the United States after transshipment to a place in the United States from a place outside the United States.
 - **(b)** In this section, the terms “State” and “United States” include the territories and possessions of the United States.
+
+General Rules
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 865](https://www.govinfo.gov/link/statute/109/865).)*

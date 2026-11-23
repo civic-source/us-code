@@ -3,9 +3,10 @@ title: "Section 2811 - Repair of facilities"
 usc_title: 10
 usc_section: "2811"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2811"
-generated_at: "2026-03-30T02:53:38.177Z"
+generated_at: "2026-11-23T20:25:51.721Z"
+status: "active"
 ---
 
 # § 2811. Repair of facilities
@@ -20,3 +21,17 @@ generated_at: "2026-03-30T02:53:38.177Z"
 - **(e)** In this section, the term “repair project” means a project—
   - **(1)** to restore a real property facility, system, or component to such a condition that it may effectively be used for its designated functional purpose; or
   - **(2)** to convert a real property facility, system, or component to a new functional purpose without increasing its external dimensions.
+
+Repairs Using Operations and Maintenance Funds
+
+Approval Required for Major Repairs
+
+Prohibition on New Construction or Additions
+
+Congressional Notification
+
+Repair Project Defined
+
+## Source Credit
+
+*(Added [Pub. L. 99–661, div. A, title III, § 315(a)](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 3854](https://www.govinfo.gov/link/statute/100/3854), § 2810; renumbered § 2811, [Pub. L. 100–26, § 7(e)(3)](https://www.govinfo.gov/link/plaw/100/public/26), Apr. 21, 1987, [101 Stat. 281](https://www.govinfo.gov/link/statute/101/281); amended [Pub. L. 103–337, div. B, title XXVIII, § 2801(a)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 3050](https://www.govinfo.gov/link/statute/108/3050); [Pub. L. 105–85, div. B, title XXVIII, § 2802](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1990](https://www.govinfo.gov/link/statute/111/1990); [Pub. L. 108–375, div. B, title XXVIII, § 2801](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2119](https://www.govinfo.gov/link/statute/118/2119); [Pub. L. 111–84, div. B, title XXVIII, § 2802](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2661](https://www.govinfo.gov/link/statute/123/2661); [Pub. L. 114–328, div. B, title XXVIII, § 2802](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2712](https://www.govinfo.gov/link/statute/130/2712); [Pub. L. 115–91, div. B, title XXVIII, § 2801(a)(8)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1841](https://www.govinfo.gov/link/statute/131/1841).)*

@@ -3,9 +3,10 @@ title: "Section 1074j - Sub-acute care program"
 usc_title: 10
 usc_section: "1074j"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1074j"
-generated_at: "2026-03-30T02:53:38.101Z"
+generated_at: "2026-11-23T20:25:51.216Z"
+status: "active"
 ---
 
 # § 1074j. Sub-acute care program
@@ -18,3 +19,11 @@ generated_at: "2026-03-30T02:53:38.101Z"
     - **(B)** The term “spell of illness” has the meaning given such term in section 1861(a) of such Act ( 42 U.S.C. 1395x(a) ).
   - **(3)** The program shall include a comprehensive, part-time or intermittent home health care benefit that shall be provided in the manner and under the conditions described in section 1861(m) of the Social Security Act ( 42 U.S.C. 1395x(m) ).
   - **(4)** The Secretary of Defense may take such actions as are necessary to ensure that there is an effective transition in the furnishing of part-time or intermittent home health care benefits for covered beneficiaries who were receiving such benefits before the establishment of the program under this section. The actions taken under this paragraph may include the continuation of such benefits on an extended basis for such time as the Secretary determines appropriate.
+
+Establishment
+
+Benefits
+
+## Source Credit
+
+*(Added [Pub. L. 107–107, div. A, title VII, § 701(a)(1)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1158](https://www.govinfo.gov/link/statute/115/1158); amended [Pub. L. 108–375, div. A, title VII, § 713](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1985](https://www.govinfo.gov/link/statute/118/1985).)*

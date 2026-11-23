@@ -3,9 +3,10 @@ title: "Section 254c - Rural health care services outreach, rural health network
 usc_title: 42
 usc_section: "254c"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 254c"
-generated_at: "2026-03-30T02:56:10.710Z"
+generated_at: "2026-11-23T20:27:20.071Z"
+status: "active"
 ---
 
 # § 254c. Rural health care services outreach, rural health network development, and small health care provider quality improvement grant programs
@@ -91,3 +92,33 @@ generated_at: "2026-03-30T02:56:10.710Z"
     - **(B)** propose to develop projects with a focus on primary care, and wellness and prevention strategies.
 - **(i)** Not later than 4 years after March 27, 2020 , and every 5 years thereafter, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on the activities and outcomes of the grant programs under subsections (e), (f), and (g), including the impact of projects funded under such programs on the health status of rural residents with chronic conditions.
 - **(j)** There are authorized to be appropriated to carry out this section $79,500,000 for each of fiscal years 2021 through 2025.
+
+In General
+
+Community Partnerships
+
+Use of Funds
+
+Report
+
+Authorization of Appropriations
+
+“Not later than January 10, 2001 , the Secretary of Health and Human Services shall submit to the Congress a report that—
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 330A, as added [Pub. L. 104–299, § 3(a)](https://www.govinfo.gov/link/plaw/104/public/299), Oct. 11, 1996, [110 Stat. 3642](https://www.govinfo.gov/link/statute/110/3642); amended [Pub. L. 107–251, title II, § 201](https://www.govinfo.gov/link/plaw/107/public/251), Oct. 26, 2002, [116 Stat. 1628](https://www.govinfo.gov/link/statute/116/1628); [Pub. L. 108–163, § 2(b)](https://www.govinfo.gov/link/plaw/108/public/163), Dec. 6, 2003, [117 Stat. 2021](https://www.govinfo.gov/link/statute/117/2021); [Pub. L. 110–355, § 4](https://www.govinfo.gov/link/plaw/110/public/355), Oct. 8, 2008, [122 Stat. 3994](https://www.govinfo.gov/link/statute/122/3994); [Pub. L. 116–136, div. A, title III, § 3213](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 370](https://www.govinfo.gov/link/statute/134/370).)*

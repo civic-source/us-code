@@ -3,9 +3,10 @@ title: "Section 1078a - Continued health benefits coverage"
 usc_title: 10
 usc_section: "1078a"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1078a"
-generated_at: "2026-03-30T02:53:38.104Z"
+generated_at: "2026-11-23T20:25:51.227Z"
+status: "active"
 ---
 
 # § 1078a. Continued health benefits coverage
@@ -79,3 +80,23 @@ generated_at: "2026-03-30T02:53:38.104Z"
         - **(I)** who is receiving any portion of the retired or retainer pay of the member or former member or an annuity based on the retired or retainer pay of the member; or
         - **(II)** for whom a court order (as defined in section 1408(a)(2) of this title ) has been issued for payment of any portion of the retired or retainer pay or for whom a court order (as defined in section 1447(13) of this title ) or a written agreement (whether voluntary or pursuant to a court order) provides for an election by the member or former member to provide an annuity to the former spouse.
 - **(h)** In this section, the term “TRICARE Reserve Select” means TRICARE Standard coverage provided under section 1076d of this title .
+
+Provision of Continued Health Coverage
+
+Eligible Persons
+
+Notification of Eligibility
+
+Election of Coverage
+
+Coverage of Dependents
+
+Charges
+
+Period of Continued Coverage
+
+TRICARE Reserve Select Defined
+
+## Source Credit
+
+*(Added [Pub. L. 102–484, div. D, title XLIV, § 4408(a)(1)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2708](https://www.govinfo.gov/link/statute/106/2708); amended [Pub. L. 103–35, title II, § 201(g)(1)](https://www.govinfo.gov/link/plaw/103/public/35), May 31, 1993, [107 Stat. 99](https://www.govinfo.gov/link/statute/107/99); [Pub. L. 103–337, div. A, title VII, § 702(c)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2798](https://www.govinfo.gov/link/statute/108/2798); [Pub. L. 104–201, div. A, title X, § 1074(a)(4)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2658](https://www.govinfo.gov/link/statute/110/2658); [Pub. L. 105–85, div. A, title X, § 1073(a)(17)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1901](https://www.govinfo.gov/link/statute/111/1901); [Pub. L. 108–136, div. A, title VII, § 713(a)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1530](https://www.govinfo.gov/link/statute/117/1530); [Pub. L. 110–181, div. A, title VII, § 705](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 189](https://www.govinfo.gov/link/statute/122/189); [Pub. L. 114–92, div. A, title VII, § 703](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 861](https://www.govinfo.gov/link/statute/129/861).)*

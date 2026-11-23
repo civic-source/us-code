@@ -3,9 +3,10 @@ title: "Section 331 - Service, supplies, and facilities at remote places"
 usc_title: 49
 usc_section: "331"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 331"
-generated_at: "2026-03-30T02:56:19.299Z"
+generated_at: "2026-11-23T20:27:34.542Z"
+status: "active"
 ---
 
 # § 331. Service, supplies, and facilities at remote places
@@ -19,3 +20,36 @@ generated_at: "2026-03-30T02:56:19.299Z"
   - **(6)** reimbursement for food, clothing, medicine, and other supplies provided by an officer or employee in an emergency for the temporary relief of individuals in distress.
 - **(b)** The Secretary shall prescribe reasonable charges for medical treatment provided under subsection (a)(1) of this section and for supplies and services provided under subsection (a)(2) and (3) of this section. Amounts received under this subsection shall be credited to the appropriation from which the expenditure was made.
 - **(c)** When appropriations for a fiscal year for aviation duties and powers have not been made before June 1 immediately before the beginning of the fiscal year, the Secretary may designate an officer, and authorize that officer, to incur obligations to buy and transport supplies to carry out those duties and powers at installations outside the 48 contiguous States and the District of Columbia. The amount obligated under this subsection in a fiscal year may be not more than 75 percent of the amount available for buying and transporting supplies to those installations for the then current fiscal year. Payment of obligations under this subsection shall be made from appropriations for the next fiscal year when available.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 331(a) | 49:1657( l ) (less last sentence). | Oct. 15, 1966 , Pub. L. 89–670, § 9 ( l ), 80 Stat. 946 . |
+| 331(b) | 49:1657( l ) (last sentence). |  |
+| 331(c) | 49:1344(b). | Aug. 23, 1958 , Pub. L. 85–726, § 303(b) , 72 Stat. 748 . |
+
+
+Historical and Revision Notes
+
+Pub. L
+
+331(a)
+
+Oct. 15, 1966
+
+Pub. L. 89–670, § 9
+
+80 Stat. 946
+
+331(b)
+
+331(c)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 303(b)
+
+72 Stat. 748
+
+## Source Credit
+
+*([Pub. L. 97–449, § 1(b)](https://www.govinfo.gov/link/plaw/97/public/449), Jan. 12, 1983, [96 Stat. 2427](https://www.govinfo.gov/link/statute/96/2427); [Pub. L. 103–272, § 4(j)(8)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1367](https://www.govinfo.gov/link/statute/108/1367).)*

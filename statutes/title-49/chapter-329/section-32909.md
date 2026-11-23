@@ -3,9 +3,10 @@ title: "Section 32909 - Judicial review of regulations"
 usc_title: 49
 usc_section: "32909"
 chapter: 329
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 32909"
-generated_at: "2026-03-30T02:56:19.367Z"
+generated_at: "2026-11-23T20:27:35.016Z"
+status: "active"
 ---
 
 # § 32909. Judicial review of regulations
@@ -18,3 +19,65 @@ generated_at: "2026-03-30T02:56:19.367Z"
   - **(1)** When reviewing a regulation under subsection (a)(1) of this section, the court, on request of the petitioner, may order the Secretary or the Administrator to receive additional submissions if the court is satisfied the additional submissions are material and there were reasonable grounds for not presenting the submissions in the proceeding before the Secretary or Administrator.
   - **(2)** The Secretary or the Administrator may amend or set aside the regulation, or prescribe a new regulation because of the additional submissions presented. The Secretary or Administrator shall file an amended or new regulation and the additional submissions with the court. The court shall review a changed or new regulation.
 - **(d)** A judgment of a court under this section may be reviewed only by the Supreme Court under section 1254 of title 28 . A remedy under subsections (a)(1) and (c) of this section is in addition to any other remedies provided by law.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 32909(a)(1) | 15:2004(a) (1st sentence words before 4th and after 6th commas, last sentence). | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , § 504; added Dec. 22, 1975 , Pub. L. 94–163, § 301 , 89 Stat. 908 . |
+| 32909(a)(2) | 15:2004(a) (4th sentence). |  |
+|  | 15:2008(e)(3)(A) (1st sentence less 15th–31st words), (B). | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , § 508(e)(3); added Nov. 9, 1978 , Pub. L. 95–619, § 402 , 92 Stat. 3256 . |
+| 32909(b) | 15:2004(a) (1st sentence words between 4th and 6th commas, 2d, 3d sentences). |  |
+|  | 15:2008(e)(3)(A) (1st sentence 15th–31st words, 2d, last sentences). |  |
+| 32909(c) | 15:2004(b). |  |
+| 32909(d) | 15:2004(c), (d). |  |
+|  | 15:2008(e)(3)(C). |  |
+
+
+Filing and Venue
+
+Time for Filing and Judicial Procedures
+
+Additional Proceedings
+
+Supreme Court Review and Additional Remedies
+
+Historical and Revision Notes
+
+Pub. L
+
+32909(a)(1)
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+Dec. 22, 1975
+
+Pub. L. 94–163, § 301
+
+89 Stat. 908
+
+32909(a)(2)
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+Nov. 9, 1978
+
+Pub. L. 95–619, § 402
+
+92 Stat. 3256
+
+32909(b)
+
+32909(c)
+
+32909(d)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1070](https://www.govinfo.gov/link/statute/108/1070); [Pub. L. 103–429, § 6(38)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4382](https://www.govinfo.gov/link/statute/108/4382).)*

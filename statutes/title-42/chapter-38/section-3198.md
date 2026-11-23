@@ -3,9 +3,10 @@ title: "Section 3198 - Office of Tribal Economic Development"
 usc_title: 42
 usc_section: "3198"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3198"
-generated_at: "2026-03-30T02:56:11.184Z"
+generated_at: "2026-11-23T20:27:22.269Z"
+status: "active"
 ---
 
 # § 3198. Office of Tribal Economic Development
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.184Z"
   - **(2)** Not later than 1 year after January 4, 2025 , and not less frequently than every 3 years thereafter, the Office shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate the strategic plan for Tribal economic development developed under paragraph (1).
 - **(d)** The Secretary shall establish a publicly facing website to help provide a comprehensive, single source of information for Indian tribes, Tribal leaders, Tribal businesses, and citizens in Tribal communities to better understand and access programs that support economic development in Tribal communities, including the economic development programs administered by Federal agencies or departments other than the Department.
 - **(e)** The Secretary shall ensure that the Office has sufficient staff to carry out all outreach activities under this section.
+
+## Source Credit
+
+*([Pub. L. 89–136, title V, § 508](https://www.govinfo.gov/link/plaw/89/public/136), as added [Pub. L. 118–272, div. B, title II, § 2227](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3192](https://www.govinfo.gov/link/statute/138/3192).)*

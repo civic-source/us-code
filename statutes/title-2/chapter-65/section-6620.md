@@ -3,9 +3,10 @@ title: "Section 6620 - Provision of services and equipment on a reimbursable bas
 usc_title: 2
 usc_section: "6620"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 6620"
-generated_at: "2026-03-30T02:53:04.843Z"
+generated_at: "2026-11-23T20:25:29.081Z"
+status: "active"
 ---
 
 # § 6620. Provision of services and equipment on a reimbursable basis
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:04.843Z"
 - **(b)** The provision of services and equipment under subsection (a) shall be on a reimbursable basis.
 - **(c)** In the case of services or equipment provided under subsection (a) that were procured using amounts available to the Sergeant at Arms and Doorkeeper of the Senate in the account for Contingent Expenses, Sergeant at Arms and Doorkeeper of the Senate, amounts received under subsection (b) as reimbursement for the provision of such services or equipment shall be credited to that account or, if applicable, to any subaccount of that account. Amounts credited to any such account or subaccount shall be merged with amounts in that account or subaccount and shall be available to the same extent, and subject to the same terms and conditions, as amounts in that account or subaccount.
 - **(d)** This section shall apply to fiscal year 2004 and each succeeding fiscal year.
+
+## Source Credit
+
+*([Pub. L. 108–83, title I, § 9](https://www.govinfo.gov/link/plaw/108/public/83), Sept. 30, 2003, [117 Stat. 1013](https://www.govinfo.gov/link/statute/117/1013).)*

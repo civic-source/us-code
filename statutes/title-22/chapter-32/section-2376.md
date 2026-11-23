@@ -3,9 +3,10 @@ title: "Section 2376 - Nuclear non-proliferation policy in South Asia"
 usc_title: 22
 usc_section: "2376"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2376"
-generated_at: "2026-03-30T02:55:05.362Z"
+generated_at: "2026-11-23T20:26:32.270Z"
+status: "active"
 ---
 
 # § 2376. Nuclear non-proliferation policy in South Asia
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:05.362Z"
   - **(8)** in 1991, a proposal was made for a regional conference on non-proliferation in South Asia which would include Pakistan, India, the People’s Republic of China, the Soviet Union, and the United States; and
   - **(9)** thus far, Pakistan, China, Russia, and the United States have expressed interest in attending such a conference, whereas India has refused to attend.
 - **(b)** It is the sense of the Congress that the President should pursue a policy which seeks a regional negotiated solution to the issue of nuclear non-proliferation in South Asia at the earliest possible time, including a protocol to be signed by all nuclear weapons states, prohibiting nuclear attacks by nuclear weapons states on countries in the region. Such a policy should have as its ultimate goal concurrent accession by Pakistan and India to the Nuclear Non-Proliferation Treaty, and should also include as needed a phased approach to that goal through a series of agreements among the parties on nuclear issues, such as the agreement reached by Pakistan and India not to attack one another’s nuclear facilities.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. III, § 620F, as added [Pub. L. 102–391, title V, § 585(a)](https://www.govinfo.gov/link/plaw/102/public/391), Oct. 6, 1992, [106 Stat. 1688](https://www.govinfo.gov/link/statute/106/1688); amended [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. B, title XXII, § 2219(b), Oct. 21, 1998, [112 Stat. 2681–817](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 113–188, title XIV, § 1401](https://www.govinfo.gov/link/plaw/113/public/188), Nov. 26, 2014, [128 Stat. 2023](https://www.govinfo.gov/link/statute/128/2023).)*

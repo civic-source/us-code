@@ -3,9 +3,10 @@ title: "Section 187a - Oil or gas leases; partial assignments"
 usc_title: 30
 usc_section: "187a"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 187a"
-generated_at: "2026-03-30T02:55:29.378Z"
+generated_at: "2026-11-23T20:26:34.910Z"
+status: "active"
 ---
 
 # § 187a. Oil or gas leases; partial assignments
@@ -15,3 +16,7 @@ Notwithstanding anything to the contrary in section 187 of this title , any oil 
   - **(1)** A separate zone or deposit under any lease.
   - **(2)** A part of a legal subdivision.
   - **(3)** Less than 640 acres outside Alaska or of less than 2,560 acres within Alaska.
+
+## Source Credit
+
+*(Feb. 25, 1920, ch. 85, § 30A, formerly § 30a, as added Aug. 8, 1946, ch. 916, § 7, [60 Stat. 955](https://www.govinfo.gov/link/statute/60/955); amended July 29, 1954, ch. 644, § 1(6), [68 Stat. 585](https://www.govinfo.gov/link/statute/68/585); [Pub. L. 86–705, § 6](https://www.govinfo.gov/link/plaw/86/public/705), Sept. 2, 1960, [74 Stat. 790](https://www.govinfo.gov/link/statute/74/790); renumbered § 30A and amended [Pub. L. 100–203, title V, § 5103](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–258](https://www.govinfo.gov/link/statute/101/1330).)*

@@ -3,9 +3,10 @@ title: "Section 6241 - Definitions and special rules"
 usc_title: 26
 usc_section: "6241"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6241"
-generated_at: "2026-03-30T02:55:27.847Z"
+generated_at: "2026-11-23T20:26:46.605Z"
+status: "active"
 ---
 
 # § 6241. Definitions and special rules
@@ -50,3 +51,7 @@ For purposes of this subchapter—
     - **(A)** Except as otherwise provided by the Secretary, in the case of any controlled foreign corporation (as defined in section 957 or 953(c)(1)) which is a partner of a partnership, each United States shareholder (as defined in section 951(b) or 953(c)(1)) with respect to such controlled foreign corporation shall be treated for purposes of this subchapter as a partner of such partnership. For purposes of the preceding sentence, any distributive share of any such United States shareholder with respect to such partnership shall, except as otherwise provided by the Secretary, be equal to such United States shareholder’s pro rata share with respect to such controlled foreign corporation (determined under rules similar to the rules of section 951(a)(2)).
     - **(B)** For purposes of subparagraph (A), in the case of a passive foreign investment company (as defined in section 1297), each taxpayer that makes an election under section 1295 with respect to such company shall be treated in the same manner as United States shareholders under subparagraph (A), except that such taxpayer’s pro rata share with respect to the passive foreign investment company shall be determined under rules similar to the rules of section 1293(b).
     - **(C)** The Secretary shall issue such regulations or other guidance as is necessary or appropriate to carry out the purposes of this paragraph, including regulations which apply the rules of subparagraph (A) in similar circumstances or with respect to similarly situated persons.
+
+## Source Credit
+
+*(Added [Pub. L. 114–74, title XI, § 1101(c)(1)](https://www.govinfo.gov/link/plaw/114/public/74), Nov. 2, 2015, [129 Stat. 636](https://www.govinfo.gov/link/statute/129/636); amended [Pub. L. 115–141, div. U, title II](https://www.govinfo.gov/link/plaw/115/public/141), §§ 201(a), (b)(1), 206(c), (l), (m), (p)(7), Mar. 23, 2018, [132 Stat. 1171](https://www.govinfo.gov/link/statute/132/1171), 1172, 1178, 1180–1182.)*

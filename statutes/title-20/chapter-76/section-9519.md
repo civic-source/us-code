@@ -3,9 +3,10 @@ title: "Section 9519 - Biennial report"
 usc_title: 20
 usc_section: "9519"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 9519"
-generated_at: "2026-03-30T02:54:48.227Z"
+generated_at: "2026-11-23T20:26:14.988Z"
+status: "active"
 ---
 
 # § 9519. Biennial report
@@ -16,3 +17,7 @@ The Director shall, on a biennial basis, transmit to the President, the Board, a
   - **(2)** A summary of each grant, contract, and cooperative agreement in excess of $100,000 funded through the National Education Centers during the prior fiscal years, including, at a minimum, the amount, duration, recipient, purpose of the award, and the relationship, if any, to the priorities and mission of the Institute, which shall be available in a user-friendly electronic database.
   - **(3)** A description of how the activities of the National Education Centers are consistent with the principles of scientifically valid research and the priorities and mission of the Institute.
   - **(4)** Such additional comments, recommendations, and materials as the Director considers appropriate.
+
+## Source Credit
+
+*([Pub. L. 107–279, title I, § 119](https://www.govinfo.gov/link/plaw/107/public/279), Nov. 5, 2002, [116 Stat. 1953](https://www.govinfo.gov/link/statute/116/1953).)*

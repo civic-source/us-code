@@ -3,9 +3,10 @@ title: "Section 2280 - Maximum cost of projects"
 usc_title: 33
 usc_section: "2280"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2280"
-generated_at: "2026-03-30T02:55:41.118Z"
+generated_at: "2026-11-23T20:26:54.150Z"
+status: "active"
 ---
 
 # § 2280. Maximum cost of projects
@@ -16,3 +17,27 @@ generated_at: "2026-03-30T02:55:41.118Z"
     - **(A)** changes in construction costs applied to unconstructed features (including real property acquisitions, preconstruction studies, planning, engineering, and design) from the date of enactment of this Act or any later law (unless otherwise specified) as indicated by engineering and other appropriate cost indexes; and
     - **(B)** additional studies, modifications, and actions (including mitigation and other environmental actions) authorized by this Act or any later law or required by changes in Federal law.
 - **(b)** Notwithstanding subsection (a), in accordance with section 701h of this title , the Secretary may accept funds from a non-Federal interest for any authorized water resources development project that has exceeded its maximum cost under subsection (a), and use such funds to carry out such project, if the use of such funds does not increase the Federal share of the cost of such project.
+
+Continuation of Construction.—
+
+In general
+
+Resumption of construction
+
+Notification.—
+
+Initial notification
+
+Supplemental notification
+
+Transmittal
+
+Deferral of Construction
+
+Statutory Construction
+
+Definition of Covered Period
+
+## Source Credit
+
+*([Pub. L. 99–662, title IX, § 902](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4183](https://www.govinfo.gov/link/statute/100/4183); [Pub. L. 100–676, § 3(b)](https://www.govinfo.gov/link/plaw/100/public/676), Nov. 17, 1988, [102 Stat. 4014](https://www.govinfo.gov/link/statute/102/4014); [Pub. L. 113–121, title I, § 1023](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1228](https://www.govinfo.gov/link/statute/128/1228).)*

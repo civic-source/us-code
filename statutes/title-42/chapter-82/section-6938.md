@@ -3,9 +3,10 @@ title: "Section 6938 - Export of hazardous wastes"
 usc_title: 42
 usc_section: "6938"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6938"
-generated_at: "2026-03-30T02:56:11.273Z"
+generated_at: "2026-11-23T20:27:22.739Z"
+status: "active"
 ---
 
 # § 6938. Export of hazardous wastes
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:56:11.273Z"
 - **(f)** Where there exists an international agreement between the United States and the government of the receiving country establishing notice, export, and enforcement procedures for the transportation, treatment, storage, and disposal of hazardous wastes, only the requirements of subsections (a)(2) and (g) shall apply.
 - **(g)** After November 8, 1984 , any person who exports any hazardous waste identified or listed under section 6921 of this title shall file with the Administrator no later than March 1 of each year, a report summarizing the types, quantities, frequency, and ultimate destination of all such hazardous waste exported during the previous calendar year.
 - **(h)** Nothing in this section shall preclude the Administrator from establishing other standards for the export of hazardous wastes under section 6922 of this title or section 6923 of this title .
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 3017](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 98–616, title II, § 245(a)](https://www.govinfo.gov/link/plaw/98/public/616), Nov. 8, 1984, [98 Stat. 3262](https://www.govinfo.gov/link/statute/98/3262).)*

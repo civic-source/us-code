@@ -3,9 +3,10 @@ title: "Section 1758 - Program requirements"
 usc_title: 42
 usc_section: "1758"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1758"
-generated_at: "2026-03-30T02:56:11.108Z"
+generated_at: "2026-11-23T20:27:21.848Z"
+status: "active"
 ---
 
 # § 1758. Program requirements
@@ -342,3 +343,359 @@ generated_at: "2026-03-30T02:56:11.108Z"
     - **(B)** The Secretary shall update such guidance as necessary.
   - **(3)** Any school or local educational agency making donations pursuant to this subsection shall be exempt from civil and criminal liability to the extent provided under section 1791 of this title .
   - **(4)** In this subsection, the term “eligible local food banks or charitable organizations” means any food bank or charitable organization which is exempt from tax under section 501(c)(3) of title 26 .
+
+Fluid milk.—
+
+In general
+
+Substitutes.—
+
+Standards for substitution
+
+Notice
+
+Excess expenses borne by school food authority
+
+Restrictions on sale of milk prohibited
+
+Saturated fat
+
+Application
+
+Provision of information.—
+
+Guidance
+
+Rules
+
+Procurement and processing of food service products and commodities
+
+Water
+
+Applications and descriptive material.—
+
+In general
+
+Income eligibility guidelines
+
+Contents of descriptive material.—
+
+In general
+
+(aa) participants in the programs listed in subclause (II) may be eligible for free or reduced price meals; and
+
+(bb) documentation may be requested for verification of eligibility for free or reduced price meals.
+
+Programs
+
+(aa) the special supplemental nutrition program for women, infants, and children established by section 17 of the Child Nutrition Act of 1966 ( 42 U.S.C. 1786 );
+
+(bb) the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 ( 7 U.S.C. 2011 et seq.);
+
+(cc) the food distribution program on Indian reservations established under section 4(b) of the Food and Nutrition Act of 2008 ( 7 U.S.C. 2013(b) ); and
+
+(dd) a State program funded under the program of block grants to States for temporary assistance for needy families established under part A of title IV of the Social Security Act ( 42 U.S.C. 601 et seq.).
+
+Household applications.—
+
+Definition of household application
+
+Eligibility determination.—
+
+In general
+
+Electronic signatures and applications
+
+Children in household.—
+
+In general
+
+Separate applications
+
+Verification of sample.—
+
+Definitions
+
+Error prone application
+
+(aa) indicates monthly income that is within $100, or an annual income that is within $1,200, of the income eligibility limitation for free or reduced price meals; or
+
+(bb) in lieu of the criteria established under item (aa), meets criteria established by the Secretary.
+
+Non-response rate
+
+Verification of sample
+
+Sample size
+
+Alternative sample size.—
+
+In general
+
+percent option
+
+percent plus option.—
+
+(aa) In general .— The sample size described in this subclause shall be the sum of— (AA) the lesser of 1,000, or 1 percent of, all applications approved by the local educational agency for the school year, as of October 1 of the school year, selected from error prone applications; and (BB) the lesser of 500, or ½ of 1 percent of, applications approved by the local educational agency for the school year, as of October 1 of the school year, that provide a case number (in lieu of income information) showing participation in a program described in item (bb) selected from those approved applications that provide a case number (in lieu of income information) verifying the participation.
+
+(bb) Programs .— The programs described in this item are— (AA) the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 ( 7 U.S.C. 2011 et seq.); (BB) the food distribution program on Indian reservations established under section 4(b) of the Food and Nutrition Act of 2008 ( 7 U.S.C. 2013(b) ); and (CC) a State program funded under the program of block grants to States for temporary assistance for needy families established under part A of title IV of the Social Security Act ( 42 U.S.C. 601 et seq.) that the Secretary determines complies with standards established by the Secretary that ensure that the standards under the State program are comparable to or more restrictive than those in effect on June 1, 1995 .
+
+Conditions
+
+(aa) the nonresponse rate for the local educational agency for the preceding school year is less than 20 percent; or
+
+(bb) the local educational agency has more than 20,000 children approved by application by the local educational agency as eligible for free or reduced price meals for the school year, as of October 1 of the school year, and— (AA) the nonresponse rate for the preceding school year is at least 10 percent below the nonresponse rate for the second preceding school year; or (BB) in the case of the school year beginning July 2005, the local educational agency attempts to verify all approved household applications selected for verification through use of public agency records from at least 2 of the programs or sources of information described in subparagraph (F)(i).
+
+Additional selected applications
+
+Preliminary review.—
+
+Review for accuracy.—
+
+In general
+
+Waiver
+
+Correct eligibility determination
+
+Incorrect eligibility determination
+
+Direct verification.—
+
+In general
+
+Free meals
+
+(aa) a State in which the income eligibility limit applied under section 1902( l )(2)(C) of that Act ( 42 U.S.C. 1396a ( l )(2)(C)) is not more than 133 percent of the official poverty line described in section 1902( l )(2)(A) of that Act ( 42 U.S.C. 1396a ( l )(2)(A)); or
+
+(bb) a State that otherwise identifies households that have income that is not more than 133 percent of the official poverty line described in section 1902( l )(2)(A) of that Act ( 42 U.S.C. 1396a ( l )(2)(A)).
+
+Reduced price meals
+
+(aa) a State in which the income eligibility limit applied under section 1902( l )(2)(C) of that Act ( 42 U.S.C. 1396a ( l )(2)(C)) is not more than 185 percent of the official poverty line described in section 1902( l )(2)(A) of that Act ( 42 U.S.C. 1396a ( l )(2)(A)); or
+
+(bb) a State that otherwise identifies households that have income that is not more than 185 percent of the official poverty line described in section 1902( l )(2)(A) of that Act ( 42 U.S.C. 1396a ( l )(2)(A)).
+
+Evaluation
+
+Expanded use of direct verification
+
+Household verification.—
+
+In general
+
+Phone number
+
+Followup activities
+
+Contract authority for school food authorities
+
+Verification deadline.—
+
+General deadline.—
+
+In general
+
+Extension
+
+Eligibility changes
+
+Local conditions
+
+Individual review
+
+Feasibility study.—
+
+In general
+
+Report
+
+Direct certification for children in supplemental nutrition assistance program households.—
+
+In general
+
+Procedures
+
+Certification
+
+Applicability
+
+Performance awards.—
+
+In general
+
+Requirements
+
+(aa) outstanding performance; and
+
+(bb) substantial improvement.
+
+Use of funds
+
+Funding.—
+
+In general
+
+(aa) $2,000,000 to carry out clause (ii)(II)(aa); and
+
+(bb) $2,000,000 to carry out clause (ii)(II)(bb).
+
+Receipt and acceptance
+
+Payments not subject to judicial review
+
+Continuous improvement plans.—
+
+Definition of required percentage
+
+Requirements
+
+Failure to meet performance standard.—
+
+In general
+
+Requirements
+
+(aa) specific measures that the State will use to identify more children who are eligible for direct certification, including improvements or modifications to technology, information systems, or databases;
+
+(bb) a timeline for the State to implement those measures; and
+
+(cc) goals for the State to improve direct certification results.
+
+Without further application.—
+
+In general
+
+Clarification
+
+Discretionary certification
+
+Use or disclosure of information.—
+
+In general
+
+Limitation on information provided
+
+Criminal penalty
+
+Requirements for waiver of confidentiality
+
+Use of disclosed information
+
+Free and reduced price policy statement.—
+
+In general
+
+Routine change
+
+Communications.—
+
+In general
+
+Electronic availability
+
+Eligibility for free and reduced price lunches.—
+
+Free lunches
+
+Reduced price lunches.—
+
+In general
+
+Maximum price
+
+Duration
+
+Exclusion of certain military housing allowances
+
+Combat pay.—
+
+Definition of combat pay
+
+Exclusion
+
+Direct certification for children receiving medicaid benefits.—
+
+Definitions
+
+Eligible child
+
+(aa) who is eligible for and receiving medical assistance under the Medicaid program; and
+
+(bb) who is a member of a family with an income as measured by the Medicaid program before the application of any expense, block, or other income disregard, that does not exceed 133 percent of the poverty line (as defined in section 9902(2) of this title , including any revision required by such section) applicable to a family of the size used for purposes of determining eligibility for the Medicaid program; or
+
+Medicaid program
+
+Demonstration project.—
+
+In general
+
+Scope of project
+
+Purposes of the project
+
+Cost estimate
+
+Agreement.—
+
+In general
+
+Without further application
+
+Certification
+
+Site selection.—
+
+In general
+
+Considerations
+
+Access to data
+
+Report to congress.—
+
+In general
+
+Final report
+
+Funding.—
+
+In general
+
+Receipt and acceptance
+
+In general
+
+Use of any reasonable approach.—
+
+In general
+
+Nutrient analysis
+
+Waiver of requirement for weighted averages for nutrient analysis
+
+In general
+
+Guidance
+
+Interim Final Regulations
+
+Regulations
+
+In General.—
+
+Review
+
+Scope
+
+Feasibility
+
+Followup Actions.—
+
+In general
+
+Factors for consideration
+
+## Source Credit
+
+*(June 4, 1946, ch. 281, § 9, [60 Stat. 233](https://www.govinfo.gov/link/statute/60/233); [Pub. L. 90–302, § 2(b)](https://www.govinfo.gov/link/plaw/90/public/302), May 8, 1968, [82 Stat. 117](https://www.govinfo.gov/link/statute/82/117); [Pub. L. 91–248, § 6(a)](https://www.govinfo.gov/link/plaw/91/public/248), (b), (d), (e), May 14, 1970, [84 Stat. 210](https://www.govinfo.gov/link/statute/84/210); [Pub. L. 92–153, § 5](https://www.govinfo.gov/link/plaw/92/public/153), Nov. 5, 1971, [85 Stat. 420](https://www.govinfo.gov/link/statute/85/420); [Pub. L. 92–433, § 5](https://www.govinfo.gov/link/plaw/92/public/433), Sept. 26, 1972, [86 Stat. 726](https://www.govinfo.gov/link/statute/86/726); [Pub. L. 93–150, § 9](https://www.govinfo.gov/link/plaw/93/public/150), Nov. 7, 1973, [87 Stat. 564](https://www.govinfo.gov/link/statute/87/564); [Pub. L. 93–326, § 4](https://www.govinfo.gov/link/plaw/93/public/326), June 30, 1974, [88 Stat. 286](https://www.govinfo.gov/link/statute/88/286); [Pub. L. 94–105, § 6](https://www.govinfo.gov/link/plaw/94/public/105), Oct. 7, 1975, [89 Stat. 512](https://www.govinfo.gov/link/statute/89/512); [Pub. L. 95–166, § 8](https://www.govinfo.gov/link/plaw/95/public/166), Nov. 10, 1977, [91 Stat. 1335](https://www.govinfo.gov/link/statute/91/1335); [Pub. L. 95–627, § 8](https://www.govinfo.gov/link/plaw/95/public/627), Nov. 10, 1978, [92 Stat. 3622](https://www.govinfo.gov/link/statute/92/3622); [Pub. L. 97–35, title VIII](https://www.govinfo.gov/link/plaw/97/public/35), §§ 803(a), (b), 811, Aug. 13, 1981, [95 Stat. 524](https://www.govinfo.gov/link/statute/95/524), 525, 529; [Pub. L. 99–500, title III](https://www.govinfo.gov/link/plaw/99/public/500), §§ 322–324, Oct. 18, 1986, [100 Stat. 1783–361](https://www.govinfo.gov/link/statute/100/1783), and [Pub. L. 99–591, title III](https://www.govinfo.gov/link/plaw/99/public/591), §§ 322–324, Oct. 30, 1986, [100 Stat. 3341–364](https://www.govinfo.gov/link/statute/100/3341); [Pub. L. 99–661, div. D, title II](https://www.govinfo.gov/link/plaw/99/public/661), §§ 4202–4204, Nov. 14, 1986, [100 Stat. 4072](https://www.govinfo.gov/link/statute/100/4072); [Pub. L. 100–356, § 1](https://www.govinfo.gov/link/plaw/100/public/356), June 28, 1988, [102 Stat. 669](https://www.govinfo.gov/link/statute/102/669); [Pub. L. 101–147, title I, § 101](https://www.govinfo.gov/link/plaw/101/public/147), title II, § 202(a)(1), (2)(A), (b), title III, §§ 305, 312(1), (2), Nov. 10, 1989, [103 Stat. 878](https://www.govinfo.gov/link/statute/103/878), 908, 914, 916; [Pub. L. 103–448, title I](https://www.govinfo.gov/link/plaw/103/public/448), §§ 105(a), 106–109(a), 110, Nov. 2, 1994, [108 Stat. 4701–4705](https://www.govinfo.gov/link/statute/108/4701); [Pub. L. 104–149, § 2](https://www.govinfo.gov/link/plaw/104/public/149), May 29, 1996, [110 Stat. 1379](https://www.govinfo.gov/link/statute/110/1379); [Pub. L. 104–193, title I, § 109(g)](https://www.govinfo.gov/link/plaw/104/public/193), title VII, §§ 702, 703, Aug. 22, 1996, [110 Stat. 2170](https://www.govinfo.gov/link/statute/110/2170), 2288, 2289; [Pub. L. 105–336, title I, § 102](https://www.govinfo.gov/link/plaw/105/public/336), Oct. 31, 1998, [112 Stat. 3144](https://www.govinfo.gov/link/statute/112/3144); [Pub. L. 106–224, title II, § 242(a)](https://www.govinfo.gov/link/plaw/106/public/224), June 20, 2000, [114 Stat. 411](https://www.govinfo.gov/link/statute/114/411); [Pub. L. 107–171, title IV](https://www.govinfo.gov/link/plaw/107/public/171), §§ 4302(a), 4303, May 13, 2002, [116 Stat. 330](https://www.govinfo.gov/link/statute/116/330), 331; [Pub. L. 108–134, § 1](https://www.govinfo.gov/link/plaw/108/public/134), Nov. 22, 2003, [117 Stat. 1389](https://www.govinfo.gov/link/statute/117/1389); [Pub. L. 108–211, § 1](https://www.govinfo.gov/link/plaw/108/public/211), Mar. 31, 2004, [118 Stat. 566](https://www.govinfo.gov/link/statute/118/566); [Pub. L. 108–265, title I](https://www.govinfo.gov/link/plaw/108/public/265), §§ 102–104(b)(1), (d)(1), (2), 105(a), 106–108(a), 109–112, June 30, 2004, [118 Stat. 731–734](https://www.govinfo.gov/link/statute/118/731), 737, 738, 745–747; [Pub. L. 108–447, div. A, title VII, § 788(a)](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 2851](https://www.govinfo.gov/link/statute/118/2851); [Pub. L. 110–134, § 29(c)(1)](https://www.govinfo.gov/link/plaw/110/public/134), Dec. 12, 2007, [121 Stat. 1449](https://www.govinfo.gov/link/statute/121/1449); [Pub. L. 110–234, title IV](https://www.govinfo.gov/link/plaw/110/public/234), §§ 4002(b)(1)(A), (B), (E), (2)(Z), 4302, May 22, 2008, [122 Stat. 1095–1097](https://www.govinfo.gov/link/statute/122/1095), 1125; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, §§ 4002(b)(1)(A), (B), (E), (2)(Z), 4302, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1857, 1859, 1887; [Pub. L. 111–80, title VII](https://www.govinfo.gov/link/plaw/111/public/80), §§ 734(a), 749(b), (c), Oct. 21, 2009, [123 Stat. 2125](https://www.govinfo.gov/link/statute/123/2125), 2131; [Pub. L. 111–296, title I](https://www.govinfo.gov/link/plaw/111/public/296), §§ 101—103(b), title II, §§ 202, 203, 209, 242, title III, §§ 301, 302, title IV, §§ 402, 441(a)(1), Dec. 13, 2010, [124 Stat. 3185–3191](https://www.govinfo.gov/link/statute/124/3185), 3216, 3222, 3236, 3240, 3259, 3261; [Pub. L. 112–55, div. A, title VII, § 734](https://www.govinfo.gov/link/plaw/112/public/55), Nov. 18, 2011, [125 Stat. 587](https://www.govinfo.gov/link/statute/125/587); [Pub. L. 115–31, div. A, title IV](https://www.govinfo.gov/link/plaw/115/public/31), May 5, 2017, [131 Stat. 159](https://www.govinfo.gov/link/statute/131/159); [Pub. L. 115–141, div. A, title IV](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 373](https://www.govinfo.gov/link/statute/132/373); [Pub. L. 116–6, div. B, title IV](https://www.govinfo.gov/link/plaw/116/public/6), Feb. 15, 2019, [133 Stat. 67](https://www.govinfo.gov/link/statute/133/67); [Pub. L. 116–94, div. B, title IV](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 2635](https://www.govinfo.gov/link/statute/133/2635); [Pub. L. 116–260, div. A, title IV](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 1209](https://www.govinfo.gov/link/statute/134/1209); [Pub. L. 117–103, div. A, title IV](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 77](https://www.govinfo.gov/link/statute/136/77); [Pub. L. 117–328, div. A, title IV](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 4488](https://www.govinfo.gov/link/statute/136/4488); [Pub. L. 118–42, div. B, title IV](https://www.govinfo.gov/link/plaw/118/public/42), Mar. 9, 2024, [138 Stat. 92](https://www.govinfo.gov/link/statute/138/92); [Pub. L. 119–37, div. B, title IV](https://www.govinfo.gov/link/plaw/119/public/37), Nov. 12, 2025, [139 Stat. 534](https://www.govinfo.gov/link/statute/139/534); [Pub. L. 119–69, § 2(a)](https://www.govinfo.gov/link/plaw/119/public/69), Jan. 14, 2026, [139 Stat. 1997](https://www.govinfo.gov/link/statute/139/1997).)*

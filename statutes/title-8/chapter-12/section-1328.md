@@ -3,12 +3,17 @@ title: "Section 1328 - Importation of alien for immoral purpose"
 usc_title: 8
 usc_section: "1328"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1328"
-generated_at: "2026-03-30T02:53:10.495Z"
+generated_at: "2026-11-23T20:25:36.198Z"
+status: "active"
 ---
 
 # § 1328. Importation of alien for immoral purpose
 
 The importation into the United States of any alien for the purpose of prostitution, or for any other immoral purpose, is forbidden. Whoever shall, directly or indirectly, import, or attempt to import into the United States any alien for the purpose of prostitution or for any other immoral purpose, or shall hold or attempt to hold any alien for any such purpose in pursuance of such illegal importation, or shall keep, maintain, control, support, employ, or harbor in any house or other place, for the purpose of prostitution or for any other immoral purpose, any alien, in pursuance of such illegal importation, shall be fined under title 18, or imprisoned not more than 10 years, or both. The trial and punishment of offenses under this section may be in any district to or into which such alien is brought in pursuance of importation by the person or persons accused, or in any district in which a violation of any of the provisions of this section occurs. In all prosecutions under this section, the testimony of a husband or wife shall be admissible and competent evidence against each other.
 
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 8, § 278, [66 Stat. 230](https://www.govinfo.gov/link/statute/66/230); [Pub. L. 101–649, title V, § 543(b)(5)](https://www.govinfo.gov/link/plaw/101/public/649), Nov. 29, 1990, [104 Stat. 5059](https://www.govinfo.gov/link/statute/104/5059).)*

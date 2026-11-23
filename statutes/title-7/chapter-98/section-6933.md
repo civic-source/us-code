@@ -3,9 +3,10 @@ title: "Section 6933 - Office of Risk Management"
 usc_title: 7
 usc_section: "6933"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6933"
-generated_at: "2026-03-30T02:53:42.439Z"
+generated_at: "2026-11-23T20:25:41.737Z"
+status: "active"
 ---
 
 # § 6933. Office of Risk Management
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:42.439Z"
 - **(d)**
   - **(1)** Certain functions of the Office of Risk Management, such as human resources, public affairs, and legislative affairs, may be provided by a consolidation of such functions under the Under Secretary of Agriculture for Farm Production and Conservation.
   - **(2)** Notwithstanding paragraph (1) or any other provision of law or order of the Secretary, the Secretary shall provide the Office of Risk Management with human and capital resources sufficient for the Office to carry out its functions in a timely and efficient manner.
+
+## Source Credit
+
+*([Pub. L. 103–354, title II, § 226A](https://www.govinfo.gov/link/plaw/103/public/354), as added [Pub. L. 104–127, title I, § 194(a)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 945](https://www.govinfo.gov/link/statute/110/945); amended [Pub. L. 115–334, title XII](https://www.govinfo.gov/link/plaw/115/public/334), §§ 12405(a), 12415(a), Dec. 20, 2018, [132 Stat. 4975](https://www.govinfo.gov/link/statute/132/4975), 4981.)*

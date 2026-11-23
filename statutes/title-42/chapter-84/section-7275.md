@@ -3,9 +3,10 @@ title: "Section 7275 - Definitions"
 usc_title: 42
 usc_section: "7275"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7275"
-generated_at: "2026-03-30T02:56:11.287Z"
+generated_at: "2026-11-23T20:27:22.799Z"
+status: "active"
 ---
 
 # § 7275. Definitions
@@ -18,3 +19,7 @@ As used in sections 7275 to 7276c of this title:
   - **(4)** The term “long-term firm power service contract” means any contract for the sale by Western Area Power Administration of firm capacity, with or without energy, which is to be delivered over a period of more than one year.
   - **(5)** The terms “customer” or “customers” means any entity or entities purchasing firm capacity with or without energy, from the Western Area Power Administration under a long-term firm power service contract. Such terms include parent-type entities and their distribution or user members.
   - **(6)** For any customer, the term “applicable integrated resource plan” means the integrated resource plan approved by the Administrator under sections 7275 to 7276c of this title for that customer.
+
+## Source Credit
+
+*([Pub. L. 98–381, title II, § 201](https://www.govinfo.gov/link/plaw/98/public/381), as added [Pub. L. 102–486, title I, § 114](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2799](https://www.govinfo.gov/link/statute/106/2799).)*

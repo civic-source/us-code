@@ -3,9 +3,10 @@ title: "Section 132 - Certain fringe benefits"
 usc_title: 26
 usc_section: "132"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 132"
-generated_at: "2026-03-30T02:55:27.627Z"
+generated_at: "2026-11-23T20:26:45.355Z"
+status: "active"
 ---
 
 # § 132. Certain fringe benefits
@@ -131,3 +132,15 @@ generated_at: "2026-03-30T02:55:27.627Z"
   - **(1)** The term “qualified military base realignment and closure fringe” means 1 or more payments under the authority of section 1013 of the Demonstration Cities and Metropolitan Development Act of 1966 ( 42 U.S.C. 3374 ) (as in effect on the date of the enactment of the American Recovery and Reinvestment Tax Act of 2009).
   - **(2)** With respect to any property, such term shall not include any payment referred to in paragraph (1) to the extent that the sum of all of such payments related to such property exceeds the maximum amount described in subsection (c) of such section (as in effect on such date).
 - **(o)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
+
+In General
+
+Effective Date
+
+In general
+
+Qualified air transportation organization
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title V, § 531(a)(1)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 877](https://www.govinfo.gov/link/statute/98/877); amended [Pub. L. 99–272, title XIII, § 13207(a)(1)](https://www.govinfo.gov/link/plaw/99/public/272), (b)(1), Apr. 7, 1986, [100 Stat. 319](https://www.govinfo.gov/link/statute/100/319); [Pub. L. 99–514, title XI](https://www.govinfo.gov/link/plaw/99/public/514), §§ 1114(b)(5), 1151(e)(2)(A), (g)(5), title XVIII, §§ 1853(a), 1899A(5), Oct. 22, 1986, [100 Stat. 2451](https://www.govinfo.gov/link/statute/100/2451), 2506, 2507, 2870, 2958; [Pub. L. 100–647, title I, § 1011B(a)(31)(B)](https://www.govinfo.gov/link/plaw/100/public/647), title VI, § 6066(a), Nov. 10, 1988, [102 Stat. 3488](https://www.govinfo.gov/link/statute/102/3488), 3702; [Pub. L. 101–140, title II, § 203(a)(1)](https://www.govinfo.gov/link/plaw/101/public/140), (2), Nov. 8, 1989, [103 Stat. 830](https://www.govinfo.gov/link/statute/103/830); [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7101(b), 7841(d)(7), (19), Dec. 19, 1989, [103 Stat. 2304](https://www.govinfo.gov/link/statute/103/2304), 2428, 2429; [Pub. L. 102–486, title XIX, § 1911(a)](https://www.govinfo.gov/link/plaw/102/public/486) –(c), Oct. 24, 1992, [106 Stat. 3012–3014](https://www.govinfo.gov/link/statute/106/3012); [Pub. L. 103–66, title XIII](https://www.govinfo.gov/link/plaw/103/public/66), §§ 13101(b), 13201(b)(3)(F), 13213(d)(1), (2), (3)(B), (C), Aug. 10, 1993, [107 Stat. 420](https://www.govinfo.gov/link/statute/107/420), 459, 474; [Pub. L. 105–34, title IX, § 970(a)](https://www.govinfo.gov/link/plaw/105/public/34), title X, § 1072(a), Aug. 5, 1997, [111 Stat. 897](https://www.govinfo.gov/link/statute/111/897), 948; [Pub. L. 105–178, title IX, § 9010(a)(1)](https://www.govinfo.gov/link/plaw/105/public/178), (b)(1), (2), (c)(1), (2), June 9, 1998, [112 Stat. 507](https://www.govinfo.gov/link/statute/112/507), 508; [Pub. L. 107–16, title VI, § 665(a)](https://www.govinfo.gov/link/plaw/107/public/16), (b), June 7, 2001, [115 Stat. 143](https://www.govinfo.gov/link/statute/115/143); [Pub. L. 108–121, title I, § 103(a)](https://www.govinfo.gov/link/plaw/108/public/121), (b), Nov. 11, 2003, [117 Stat. 1337](https://www.govinfo.gov/link/statute/117/1337); [Pub. L. 108–311, title II, § 207(13)](https://www.govinfo.gov/link/plaw/108/public/311), Oct. 4, 2004, [118 Stat. 1177](https://www.govinfo.gov/link/statute/118/1177); [Pub. L. 110–343, div. B, title II, § 211(a)](https://www.govinfo.gov/link/plaw/110/public/343) –(d), Oct. 3, 2008, [122 Stat. 3840](https://www.govinfo.gov/link/statute/122/3840), 3841; [Pub. L. 111–5, div. B, title I, § 1151(a)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 333](https://www.govinfo.gov/link/statute/123/333); [Pub. L. 111–92, § 14(a)](https://www.govinfo.gov/link/plaw/111/public/92), Nov. 6, 2009, [123 Stat. 2995](https://www.govinfo.gov/link/statute/123/2995); [Pub. L. 111–312, title VII, § 727(a)](https://www.govinfo.gov/link/plaw/111/public/312), Dec. 17, 2010, [124 Stat. 3317](https://www.govinfo.gov/link/statute/124/3317); [Pub. L. 112–240, title II, § 203(a)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2323](https://www.govinfo.gov/link/statute/126/2323); [Pub. L. 113–295, div. A, title I, § 103(a)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4013](https://www.govinfo.gov/link/statute/128/4013); [Pub. L. 114–113, div. Q, title I, § 105(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3046](https://www.govinfo.gov/link/statute/129/3046); [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 11002(d)(5), 11047(a), 11048(a), Dec. 22, 2017, [131 Stat. 2061](https://www.govinfo.gov/link/statute/131/2061), 2088; [Pub. L. 115–141, div. U, title I, § 101(b)](https://www.govinfo.gov/link/plaw/115/public/141), title IV, § 401(a)(38), Mar. 23, 2018, [132 Stat. 1160](https://www.govinfo.gov/link/statute/132/1160), 1186; [Pub. L. 119–21, title VII](https://www.govinfo.gov/link/plaw/119/public/21), §§ 70112(a), (b), 70113(c), (d), July 4, 2025, [139 Stat. 165](https://www.govinfo.gov/link/statute/139/165), 166.)*

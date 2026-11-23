@@ -3,9 +3,10 @@ title: "Section 3749 - Revolving fund"
 usc_title: 38
 usc_section: "3749"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 3749"
-generated_at: "2026-03-30T02:55:53.514Z"
+generated_at: "2026-11-23T20:27:01.913Z"
+status: "active"
 ---
 
 # § 3749. Revolving fund
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:53.514Z"
   - **(2)** There shall be deposited into the fund all amounts received by the Secretary derived from loan operations under this subchapter, including all collection of principal and interest and the proceeds from the use of property held or of property sold.
 - **(d)** The Secretary shall determine annually whether there has developed in the fund a surplus which, in the Secretary’s judgment, is more than necessary to meet the needs of the fund. Any such surplus shall immediately be transferred into the general fund of the Treasury.
 - **(e)** Not later than two years after the termination of the authority of the Secretary to make new commitments for financial assistance under this subchapter, the Secretary shall transfer into the general fund of the Treasury all amounts in the fund except those that the Secretary determines may be required for the liquidation of obligations under this subchapter. All amounts received thereafter derived from loan operations under this subchapter, except so much thereof as the Secretary may determine to be necessary for liquidating outstanding obligations under this subchapter, shall also be so deposited.
+
+## Source Credit
+
+*(Added [Pub. L. 97–72, title III, § 302(a)](https://www.govinfo.gov/link/plaw/97/public/72), Nov. 3, 1981, [95 Stat. 1058](https://www.govinfo.gov/link/statute/95/1058), § 1849; amended [Pub. L. 99–576, title VII, § 702(11)](https://www.govinfo.gov/link/plaw/99/public/576), Oct. 28, 1986, [100 Stat. 3302](https://www.govinfo.gov/link/statute/100/3302); [Pub. L. 101–237, title III, § 313(b)(1)](https://www.govinfo.gov/link/plaw/101/public/237), Dec. 18, 1989, [103 Stat. 2077](https://www.govinfo.gov/link/statute/103/2077); renumbered § 3749 and amended [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(a)(2)(B)(v), 5(a), Aug. 6, 1991, [105 Stat. 403](https://www.govinfo.gov/link/statute/105/403), 406.)*

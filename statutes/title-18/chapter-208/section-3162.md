@@ -3,9 +3,10 @@ title: "Section 3162 - Sanctions"
 usc_title: 18
 usc_section: "3162"
 chapter: 208
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 3162"
-generated_at: "2026-03-30T02:54:16.513Z"
+generated_at: "2026-11-23T20:26:08.665Z"
+status: "active"
 ---
 
 # § 3162. Sanctions
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:16.513Z"
     - **(D)** by denying any such counsel or attorney for the Government the right to practice before the court considering such case for a period of not to exceed ninety days; or
     - **(E)** by filing a report with an appropriate disciplinary committee.
 - **(c)** The court shall follow procedures established in the Federal Rules of Criminal Procedure in punishing any counsel or attorney for the Government pursuant to this section.
+
+## Source Credit
+
+*(Added [Pub. L. 93–619, title I, § 101](https://www.govinfo.gov/link/plaw/93/public/619), Jan. 3, 1975, [88 Stat. 2079](https://www.govinfo.gov/link/statute/88/2079).)*

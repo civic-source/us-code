@@ -3,9 +3,10 @@ title: "Section 4999 - Golden parachute payments"
 usc_title: 26
 usc_section: "4999"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 4999"
-generated_at: "2026-03-30T02:55:27.815Z"
+generated_at: "2026-11-23T20:26:46.385Z"
+status: "active"
 ---
 
 # § 4999. Golden parachute payments
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:27.815Z"
 - **(c)**
   - **(1)** In the case of any excess parachute payment which is wages (within the meaning of section 3401) the amount deducted and withheld under section 3402 shall be increased by the amount of the tax imposed by this section on such payment.
   - **(2)** For purposes of subtitle F, any tax imposed by this section shall be treated as a tax imposed by subtitle A.
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title I, § 67(b)(1)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 587](https://www.govinfo.gov/link/statute/98/587).)*

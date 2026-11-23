@@ -3,9 +3,10 @@ title: "Section 1727a - Reporting and data collection"
 usc_title: 16
 usc_section: "1727a"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1727a"
-generated_at: "2026-03-30T02:54:22.982Z"
+generated_at: "2026-11-23T20:26:20.544Z"
+status: "active"
 ---
 
 # § 1727a. Reporting and data collection
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:22.982Z"
     - **(A)** the data collection and reporting requirements of this section; and
     - **(B)** implementing and issuing guidance on eligibility for noncompetitive hiring status under section 1726(d) of this title .
   - **(2)** The Secretary shall designate a coordinator to coordinate and serve as the primary point of contact for any activity of the Corps carried out by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 91–378, title II, § 209](https://www.govinfo.gov/link/plaw/91/public/378), as added [Pub. L. 116–9, title IX, § 9003(f)(2)](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 835](https://www.govinfo.gov/link/statute/133/835).)*

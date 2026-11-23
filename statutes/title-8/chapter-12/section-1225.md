@@ -3,9 +3,10 @@ title: "Section 1225 - Inspection by immigration officers; expedited removal of 
 usc_title: 8
 usc_section: "1225"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1225"
-generated_at: "2026-03-30T02:53:10.485Z"
+generated_at: "2026-11-23T20:25:36.151Z"
+status: "active"
 ---
 
 # § 1225. Inspection by immigration officers; expedited removal of inadmissible arriving aliens; referral for hearing
@@ -71,3 +72,7 @@ generated_at: "2026-03-30T02:53:10.485Z"
   - **(4)**
     - **(A)** The Attorney General and any immigration officer shall have power to require by subpoena the attendance and testimony of witnesses before immigration officers and the production of books, papers, and documents relating to the privilege of any person to enter, reenter, reside in, or pass through the United States or concerning any matter which is material and relevant to the enforcement of this chapter and the administration of the Service, and to that end may invoke the aid of any court of the United States.
     - **(B)** Any United States district court within the jurisdiction of which investigations or inquiries are being conducted by an immigration officer may, in the event of neglect or refusal to respond to a subpoena issued under this paragraph or refusal to testify before an immigration officer, issue an order requiring such persons to appear before an immigration officer, produce books, papers, and documents if demanded, and testify, and any failure to obey such order of the court may be punished by the court as a contempt thereof.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 4, § 235, [66 Stat. 198](https://www.govinfo.gov/link/statute/66/198); [Pub. L. 101–649, title VI, § 603(a)(11)](https://www.govinfo.gov/link/plaw/101/public/649), Nov. 29, 1990, [104 Stat. 5083](https://www.govinfo.gov/link/statute/104/5083); [Pub. L. 104–132, title IV](https://www.govinfo.gov/link/plaw/104/public/132), §§ 422(a), 423(b), Apr. 24, 1996, [110 Stat. 1270](https://www.govinfo.gov/link/statute/110/1270), 1272; [Pub. L. 104–208, div. C, title III](https://www.govinfo.gov/link/plaw/104/public/208), §§ 302(a), 308(d)(5), 371(b)(4), Sept. 30, 1996, [110 Stat. 3009–579](https://www.govinfo.gov/link/statute/110/3009), 3009–619, 3009–645; [Pub. L. 110–229, title VII, § 702(j)(5)](https://www.govinfo.gov/link/plaw/110/public/229), May 8, 2008, [122 Stat. 867](https://www.govinfo.gov/link/statute/122/867); [Pub. L. 119–1, § 3(a)](https://www.govinfo.gov/link/plaw/119/public/1), Jan. 29, 2025, [139 Stat. 3](https://www.govinfo.gov/link/statute/139/3).)*

@@ -3,9 +3,10 @@ title: "Section 2803 - Designation of major wine trading countries"
 usc_title: 19
 usc_section: "2803"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2803"
-generated_at: "2026-03-30T02:54:24.686Z"
+generated_at: "2026-11-23T20:26:11.022Z"
+status: "active"
 ---
 
 # § 2803. Designation of major wine trading countries
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:24.686Z"
   - **(1)** the review and report required under section 854(a) of the Trade Agreements Act of 1979 ( 19 U.S.C. 2135 note);
   - **(2)** such relevant actions that may have been taken by that country or group since that review was conducted; and
   - **(3)** such information as may be submitted under section 2805 of this title by representatives of the wine and grape products industries in the United States, as well as other sources.
+
+## Source Credit
+
+*([Pub. L. 98–573, title IX, § 904](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 3048](https://www.govinfo.gov/link/statute/98/3048).)*

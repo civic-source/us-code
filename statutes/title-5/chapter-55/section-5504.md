@@ -3,9 +3,10 @@ title: "Section 5504 - Biweekly pay periods; computation of pay"
 usc_title: 5
 usc_section: "5504"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 5504"
-generated_at: "2026-03-30T02:52:56.017Z"
+generated_at: "2026-11-23T20:25:31.921Z"
+status: "active"
 ---
 
 # § 5504. Biweekly pay periods; computation of pay
@@ -27,3 +28,58 @@ generated_at: "2026-03-30T02:52:56.017Z"
 - **(d)**
   - **(1)** The Office of Personnel Management may prescribe regulations, subject to the approval of the President, necessary for the administration of this section insofar as this section affects employees in or under an Executive agency.
   - **(2)** The Office of Personnel Management shall provide guidelines by regulation for exemptions to be made by the heads of agencies under subsection (c)(3). Such guidelines shall provide for such exemptions only under exceptional circumstances.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| (a) | 5 U.S.C. 944(b) , (d) (last 27 words, as applicable to subsection (b)). | June 30, 1945, ch. 212, § 604(b) , (e) (last 27 words, as applicable to subsection (b)), 59 Stat. 303 , 304. July 31, 1959 , Pub. L. 86–122, § 1 , 73 Stat. 268 . |
+| (b) | 5 U.S.C. 944(c) , (d) (last 27 words, less applicability to subsection (b)). | June 30, 1945, ch. 212, § 604(d) , (e) (last 27 words, less applicability to subsection (b)), 59 Stat. 303 , 304. |
+|  |  | Oct. 28, 1949, ch. 782, § 1203 , 63 Stat. 973 . June 20, 1958 , Pub. L. 85–462, § 15 , 72 Stat. 214 . Aug. 14, 1964 , Pub. L. 88–426, § 103(c) , 78 Stat. 402 . |
+
+
+Historical and Revision Notes
+
+Act
+
+(a)
+
+5 U.S.C. 944(b)
+
+June 30, 1945, ch. 212, § 604(b)
+
+59 Stat. 303
+
+July 31, 1959
+
+Pub. L. 86–122, § 1
+
+73 Stat. 268
+
+(b)
+
+5 U.S.C. 944(c)
+
+June 30, 1945, ch. 212, § 604(d)
+
+59 Stat. 303
+
+Oct. 28, 1949, ch. 782, § 1203
+
+63 Stat. 973
+
+June 20, 1958
+
+Pub. L. 85–462, § 15
+
+72 Stat. 214
+
+Aug. 14, 1964
+
+Pub. L. 88–426, § 103(c)
+
+78 Stat. 402
+
+Act
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 475](https://www.govinfo.gov/link/statute/80/475); [Pub. L. 90–83, § 1(21)](https://www.govinfo.gov/link/plaw/90/public/83), Sept. 11, 1967, [81 Stat. 199](https://www.govinfo.gov/link/statute/81/199); [Pub. L. 95–454, title IV, § 408(a)(1)](https://www.govinfo.gov/link/plaw/95/public/454), title IX, § 906(a)(2), Oct. 13, 1978, [92 Stat. 1173](https://www.govinfo.gov/link/statute/92/1173), 1224; [Pub. L. 96–54, § 2(a)(29)](https://www.govinfo.gov/link/plaw/96/public/54), Aug. 14, 1979, [93 Stat. 383](https://www.govinfo.gov/link/statute/93/383); [Pub. L. 96–70, title III, § 3302(e)(2)](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 498](https://www.govinfo.gov/link/statute/93/498); [Pub. L. 99–272, title XV, § 15203(a)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 334](https://www.govinfo.gov/link/statute/100/334); [Pub. L. 108–136, div. A, title XI, § 1124](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1637](https://www.govinfo.gov/link/statute/117/1637).)*

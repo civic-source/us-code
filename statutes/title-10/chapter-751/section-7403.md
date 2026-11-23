@@ -3,9 +3,10 @@ title: "Section 7403 - Army Ranger training: instructor staffing; safety"
 usc_title: 10
 usc_section: "7403"
 chapter: 751
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 7403"
-generated_at: "2026-03-30T02:53:38.231Z"
+generated_at: "2026-11-23T20:25:52.080Z"
+status: "active"
 ---
 
 # § 7403. Army Ranger training: instructor staffing; safety
@@ -16,3 +17,11 @@ generated_at: "2026-03-30T02:53:38.231Z"
 - **(b)**
   - **(1)** The Secretary of the Army shall establish and maintain an organizational entity known as a “safety cell” as part of the organizational elements of the Army responsible for conducting each of the three major phases of the Ranger Course. The safety cell in each different geographic area of Ranger Course training shall be comprised of personnel who have sufficient continuity and experience in that geographic area of such training to be knowledgeable of the local conditions year-round, including conditions of terrain, weather, water, and climate and other conditions and the potential effect on those conditions on Ranger student training and safety.
   - **(2)** Members of each safety cell shall be assigned in sufficient numbers to serve as advisers to the officers in charge of the major phase of Ranger training and shall assist those officers in making informed daily “go” and “no-go” decisions regarding training in light of all relevant conditions, including conditions of terrain, weather, water, and climate and other conditions.
+
+Levels of Personnel Assigned
+
+Training Safety Cells
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. A, title V, § 562(a)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 323](https://www.govinfo.gov/link/statute/110/323), § 4303; renumbered § 7403, [Pub. L. 115–232, div. A, title VIII, § 808(c)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1839](https://www.govinfo.gov/link/statute/132/1839).)*

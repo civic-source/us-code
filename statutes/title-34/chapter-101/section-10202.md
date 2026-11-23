@@ -3,9 +3,10 @@ title: "Section 10202 - General provisions"
 usc_title: 34
 usc_section: "10202"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10202"
-generated_at: "2026-03-30T02:55:33.262Z"
+generated_at: "2026-11-23T20:26:50.439Z"
+status: "active"
 ---
 
 # § 10202. General provisions
@@ -44,3 +45,21 @@ generated_at: "2026-03-30T02:55:33.262Z"
       - **(i)** are approved by a State, local, or Tribal law enforcement agency or first responders;
       - **(ii)** can adequately treat a traumatic injury; and
       - **(iii)** can be stored in a readily available kit.
+
+Trauma Kits.—
+
+Definition
+
+Requirement for trauma kits.—
+
+In general
+
+Authority to separately acquire
+
+Performance standards and optional agency best practices
+
+Components
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 521](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 100–690, title VI, § 6091(a)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4337](https://www.govinfo.gov/link/statute/102/4337); amended [Pub. L. 114–155, § 6](https://www.govinfo.gov/link/plaw/114/public/155), May 16, 2016, [130 Stat. 390](https://www.govinfo.gov/link/statute/130/390); [Pub. L. 119–60, div. H, title LXXXII, § 8203](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1844](https://www.govinfo.gov/link/statute/139/1844).)*

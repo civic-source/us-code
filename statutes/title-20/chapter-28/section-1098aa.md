@@ -3,9 +3,10 @@ title: "Section 1098aa - Short title; findings; reference"
 usc_title: 20
 usc_section: "1098aa"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1098aa"
-generated_at: "2026-03-30T02:54:48.139Z"
+generated_at: "2026-11-23T20:26:14.537Z"
+status: "active"
 ---
 
 # § 1098aa. Short title; findings; reference
@@ -19,3 +20,9 @@ generated_at: "2026-03-30T02:54:48.139Z"
   - **(5)** The men and women of the United States military put their lives on hold, leave their families, jobs, and postsecondary education in order to serve their country and do so with distinction.
   - **(6)** There is no more important cause for this Congress than to support the members of the United States military and provide assistance with their transition into and out of active duty and active service.
 - **(c)** References in this part to “the Act” are references to the Higher Education Act of 1965 ( 20 U.S.C. 1001 et seq.).
+
+“It is the sense of Congress that—
+
+## Source Credit
+
+*([Pub. L. 108–76, § 1](https://www.govinfo.gov/link/plaw/108/public/76), Aug. 18, 2003, [117 Stat. 904](https://www.govinfo.gov/link/statute/117/904).)*

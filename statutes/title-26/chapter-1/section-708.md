@@ -3,9 +3,10 @@ title: "Section 708 - Continuation of partnership"
 usc_title: 26
 usc_section: "708"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 708"
-generated_at: "2026-03-30T02:55:27.726Z"
+generated_at: "2026-11-23T20:26:45.868Z"
+status: "active"
 ---
 
 # § 708. Continuation of partnership
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:27.726Z"
   - **(2)**
     - **(A)** In the case of the merger or consolidation of two or more partnerships, the resulting partnership shall, for purposes of this section, be considered the continuation of any merging or consolidating partnership whose members own an interest of more than 50 percent in the capital and profits of the resulting partnership.
     - **(B)** In the case of a division of a partnership into two or more partnerships, the resulting partnerships (other than any resulting partnership the members of which had an interest of 50 percent or less in the capital and profits of the prior partnership) shall, for purposes of this section, be considered a continuation of the prior partnership.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 244; [Pub. L. 115–97, title I, § 13504(a)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2141](https://www.govinfo.gov/link/statute/131/2141).)*

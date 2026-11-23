@@ -3,9 +3,10 @@ title: "Section 790f - Reports by Director"
 usc_title: 15
 usc_section: "790f"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 790f"
-generated_at: "2026-03-30T02:54:08.122Z"
+generated_at: "2026-11-23T20:26:03.934Z"
+status: "active"
 ---
 
 # § 790f. Reports by Director
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.122Z"
   - **(1)** The Director, on behalf of the Administrator, shall insure that adequate documentation for all statistical and forecast reports prepared by the Director is made available to the public at the time of publication of such reports. The Director shall periodically audit and validate analytical methodologies employed in the preparation of periodic statistical and forecast reports.
   - **(2)** The Director shall, on a regular basis, make available to the public information which contains validation and audits of periodic statistical and forecast reports.
 - **(c)** Prior to publication, the Director may not be required to obtain the approval of any other officer or employee of the United States with respect to the substance of any statistical or forecasting technical reports which he has prepared in accordance with law.
+
+## Source Credit
+
+*([Pub. L. 93–275, § 57](https://www.govinfo.gov/link/plaw/93/public/275), as added [Pub. L. 94–385, title I, § 142](https://www.govinfo.gov/link/plaw/94/public/385), Aug. 14, 1976, [90 Stat. 1139](https://www.govinfo.gov/link/statute/90/1139).)*

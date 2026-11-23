@@ -3,9 +3,10 @@ title: "Section 5846 - Compliance with safety regulations"
 usc_title: 42
 usc_section: "5846"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5846"
-generated_at: "2026-03-30T02:56:11.238Z"
+generated_at: "2026-11-23T20:27:22.562Z"
+status: "active"
 ---
 
 # § 5846. Compliance with safety regulations
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.238Z"
 - **(b)** Any person who knowingly and consciously fails to provide the notice required by subsection (a) of this section shall be subject to a civil penalty in an amount equal to the amount provided by section 234 of the Atomic Energy Act of 1954, as amended [ 42 U.S.C. 2282 ].
 - **(c)** The requirements of this section shall be prominently posted on the premises of any facility licensed or otherwise regulated pursuant to the Atomic Energy Act of 1954, as amended [ 42 U.S.C. 2011 et seq.].
 - **(d)** The Commission is authorized to conduct such reasonable inspections and other enforcement activities as needed to insure compliance with the provisions of this section.
+
+## Source Credit
+
+*([Pub. L. 93–438, title II, § 206](https://www.govinfo.gov/link/plaw/93/public/438), Oct. 11, 1974, [88 Stat. 1246](https://www.govinfo.gov/link/statute/88/1246).)*

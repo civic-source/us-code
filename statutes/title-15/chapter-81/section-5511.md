@@ -3,9 +3,10 @@ title: "Section 5511 - Networking and Information Technology Research and Develo
 usc_title: 15
 usc_section: "5511"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 5511"
-generated_at: "2026-03-30T02:54:08.207Z"
+generated_at: "2026-11-23T20:26:04.373Z"
+status: "active"
 ---
 
 # § 5511. Networking and Information Technology Research and Development Program
@@ -96,3 +97,15 @@ generated_at: "2026-03-30T02:54:08.207Z"
 - **(f)** The heads of the participating agencies, working through the National Science and Technology Council and the Program, shall submit to the advisory committee, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Science, Space, and Technology of the House of Representatives—
   - **(1)** the strategic plans developed under subsection (e)(1); and
   - **(2)** each update under subsection (e)(2).
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+## Source Credit
+
+*([Pub. L. 102–194, title I, § 101](https://www.govinfo.gov/link/plaw/102/public/194), Dec. 9, 1991, [105 Stat. 1595](https://www.govinfo.gov/link/statute/105/1595); [Pub. L. 104–66, title I, § 1052(k)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 719](https://www.govinfo.gov/link/statute/109/719); [Pub. L. 105–305, § 4](https://www.govinfo.gov/link/plaw/105/public/305), Oct. 28, 1998, [112 Stat. 2921](https://www.govinfo.gov/link/statute/112/2921); [Pub. L. 110–69, title VII, § 7024(a)(1)(B)](https://www.govinfo.gov/link/plaw/110/public/69) –(D), Aug. 9, 2007, [121 Stat. 686–689](https://www.govinfo.gov/link/statute/121/686); [Pub. L. 114–329, title I, § 105(f)](https://www.govinfo.gov/link/plaw/114/public/329), Jan. 6, 2017, [130 Stat. 2978](https://www.govinfo.gov/link/statute/130/2978); [Pub. L. 117–167, div. B, title III, § 10374(d)(1)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1572](https://www.govinfo.gov/link/statute/136/1572); [Pub. L. 117–286, § 4(a)(75)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4314](https://www.govinfo.gov/link/statute/136/4314).)*

@@ -3,12 +3,21 @@ title: "Section 101932 - Award of commercial services contracts"
 usc_title: 54
 usc_section: "101932"
 chapter: 1019
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "54 U.S.C. § 101932"
-generated_at: "2026-03-30T02:56:28.416Z"
+generated_at: "2026-11-23T20:27:38.027Z"
+status: "active"
 ---
 
 # § 101932. Award of commercial services contracts
 
 - **(a)** Except as provided in subsection (c), commercial services contracts shall be awarded by the Secretary through a competitive selection process.
 - **(b)** Before awarding a new commercial services contract, the Secretary shall publicly solicit proposals for the contract, except as provided in subsection (c). In connection with such solicitation, the Secretary shall prepare a request for proposals and shall publish notice of its availability.
+
+Competitive Selection Process
+
+Solicitation of Proposals
+
+## Source Credit
+
+*(Added [Pub. L. 114–289, title VII, § 701](https://www.govinfo.gov/link/plaw/114/public/289), Dec. 16, 2016, [130 Stat. 1493](https://www.govinfo.gov/link/statute/130/1493).)*

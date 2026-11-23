@@ -3,9 +3,10 @@ title: "Section 1254 - Gain from disposition of interest in oil, gas, geothermal
 usc_title: 26
 usc_section: "1254"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1254"
-generated_at: "2026-03-30T02:55:27.762Z"
+generated_at: "2026-11-23T20:26:46.060Z"
+status: "active"
 ---
 
 # § 1254. Gain from disposition of interest in oil, gas, geothermal, or other mineral properties
@@ -30,3 +31,11 @@ generated_at: "2026-03-30T02:55:27.762Z"
 - **(b)** Under regulations prescribed by the Secretary—
   - **(1)** rules similar to the rule of subsection (g) of section 617 and to the rules of subsections (b) and (c) of section 1245 shall be applied for purposes of this section; and
   - **(2)** in the case of the sale or exchange of stock in an S corporation, rules similar to the rules of section 751 shall be applied to that portion of the excess of the amount realized over the adjusted basis of the stock which is attributable to expenditures referred to in subsection (a)(1)(A) of this section.
+
+In general
+
+Exception for binding contracts
+
+## Source Credit
+
+*(Added [Pub. L. 94–455, title II, § 205(a)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1533](https://www.govinfo.gov/link/statute/90/1533); amended [Pub. L. 95–618, title IV, § 402(c)(1)](https://www.govinfo.gov/link/plaw/95/public/618) –(3), Nov. 9, 1978, [92 Stat. 3202](https://www.govinfo.gov/link/statute/92/3202); [Pub. L. 97–354, § 5(a)(37)](https://www.govinfo.gov/link/plaw/97/public/354), Oct. 19, 1982, [96 Stat. 1696](https://www.govinfo.gov/link/statute/96/1696); [Pub. L. 99–514, title IV, § 413(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2227](https://www.govinfo.gov/link/statute/100/2227); [Pub. L. 100–647, title I, § 1004(c)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3387](https://www.govinfo.gov/link/statute/102/3387).)*

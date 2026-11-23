@@ -3,9 +3,10 @@ title: "Section 1093 - Definitions"
 usc_title: 18
 usc_section: "1093"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 1093"
-generated_at: "2026-03-30T02:54:16.481Z"
+generated_at: "2026-11-23T20:26:08.464Z"
+status: "active"
 ---
 
 # § 1093. Definitions
@@ -20,3 +21,7 @@ As used in this chapter—
   - **(6)** the term “racial group” means a set of individuals whose identity as such is distinctive in terms of physical characteristics or biological descent;
   - **(7)** the term “religious group” means a set of individuals whose identity as such is distinctive in terms of common religious creed, beliefs, doctrines, practices, or rituals; and
   - **(8)** the term “substantial part” means a part of a group of such numerical significance that the destruction or loss of that part would cause the destruction of the group as a viable entity within the nation of which such group is a part.
+
+## Source Credit
+
+*(Added [Pub. L. 100–606, § 2(a)](https://www.govinfo.gov/link/plaw/100/public/606), Nov. 4, 1988, [102 Stat. 3046](https://www.govinfo.gov/link/statute/102/3046).)*

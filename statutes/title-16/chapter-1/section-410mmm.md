@@ -3,9 +3,10 @@ title: "Section 410mmm - Thomas Edison National Historical Park, New Jersey"
 usc_title: 16
 usc_section: "410mmm"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 410mmm"
-generated_at: "2026-03-30T02:54:22.781Z"
+generated_at: "2026-11-23T20:26:19.803Z"
+status: "active"
 ---
 
 # § 410mmm. Thomas Edison National Historical Park, New Jersey
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:22.781Z"
   - **(4)**
   - **(5)** Any reference in a law, map, regulation, document, paper, or other record of the United States to the “Edison National Historic Site” shall be deemed to be a reference to the “Thomas Edison National Historical Park”.
 - **(d)** There is authorized to be appropriated such sums as may be necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 111–11, title VII, § 7110](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1198](https://www.govinfo.gov/link/statute/123/1198).)*

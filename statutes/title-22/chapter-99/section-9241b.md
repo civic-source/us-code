@@ -3,9 +3,10 @@ title: "Section 9241b - Sanctions on foreign persons employing North Korean labo
 usc_title: 22
 usc_section: "9241b"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9241b"
-generated_at: "2026-03-30T02:55:05.464Z"
+generated_at: "2026-11-23T20:26:32.763Z"
+status: "active"
 ---
 
 # § 9241b. Sanctions on foreign persons employing North Korean labor
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:05.464Z"
   - **(2)** Not later than 180 days after the date on which the President transmits to the appropriate congressional committees an initial certification under paragraph (1), and every 180 days thereafter, the President shall—
     - **(A)** transmit a recertification stating that the conditions described in such paragraph continue to be met; or
     - **(B)** if such recertification cannot be transmitted, impose the sanctions described in subsection (b) beginning on the date on which the President determines that such recertification cannot be transmitted.
+
+## Source Credit
+
+*([Pub. L. 114–122, title III, § 302B](https://www.govinfo.gov/link/plaw/114/public/122), as added [Pub. L. 115–44, title III, § 321(b)(1)](https://www.govinfo.gov/link/plaw/115/public/44), Aug. 2, 2017, [131 Stat. 952](https://www.govinfo.gov/link/statute/131/952).)*

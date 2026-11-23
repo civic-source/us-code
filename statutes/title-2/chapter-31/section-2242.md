@@ -3,9 +3,10 @@ title: "Section 2242 - Duties of employees of Capitol Guide Service"
 usc_title: 2
 usc_section: "2242"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 2242"
-generated_at: "2026-03-30T02:53:04.827Z"
+generated_at: "2026-11-23T20:25:29.022Z"
+status: "active"
 ---
 
 # § 2242. Duties of employees of Capitol Guide Service
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:53:04.827Z"
     - **(A)** require the presence of additional Government personnel; and
     - **(B)** cause the temporary suspension of the performance of regular duties.
 - **(e)** This section shall take effect on the transfer date.
+
+## Source Credit
+
+*([Pub. L. 110–437, title IV, § 402](https://www.govinfo.gov/link/plaw/110/public/437), Oct. 20, 2008, [122 Stat. 4991](https://www.govinfo.gov/link/statute/122/4991).)*

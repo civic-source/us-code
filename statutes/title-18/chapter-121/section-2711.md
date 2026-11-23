@@ -3,9 +3,10 @@ title: "Section 2711 - Definitions for chapter"
 usc_title: 18
 usc_section: "2711"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2711"
-generated_at: "2026-03-30T02:54:16.508Z"
+generated_at: "2026-11-23T20:26:08.636Z"
+status: "active"
 ---
 
 # § 2711. Definitions for chapter
@@ -22,3 +23,7 @@ As used in this chapter—
     - **(B)** a court of general criminal jurisdiction of a State authorized by the law of that State to issue search warrants; or
     - **(C)** a court-martial or other proceeding under chapter 47 of title 10 (the Uniform Code of Military Justice) to which a military judge has been detailed; and
   - **(4)** the term “governmental entity” means a department or agency of the United States or any State or political subdivision thereof.
+
+## Source Credit
+
+*(Added [Pub. L. 99–508, title II, § 201[(a)]](https://www.govinfo.gov/link/plaw/99/public/508), Oct. 21, 1986, [100 Stat. 1868](https://www.govinfo.gov/link/statute/100/1868), § 2710; renumbered § 2711, [Pub. L. 100–618, § 2(a)(1)](https://www.govinfo.gov/link/plaw/100/public/618), Nov. 5, 1988, [102 Stat. 3195](https://www.govinfo.gov/link/statute/102/3195); amended [Pub. L. 107–56, title II, § 220(a)(2)](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 292](https://www.govinfo.gov/link/statute/115/292); [Pub. L. 109–177, title I, § 107(b)(2)](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 202](https://www.govinfo.gov/link/statute/120/202); [Pub. L. 111–79, § 2(2)](https://www.govinfo.gov/link/plaw/111/public/79), Oct. 19, 2009, [123 Stat. 2086](https://www.govinfo.gov/link/statute/123/2086); [Pub. L. 114–328, div. E, title LVII, § 5228(b)(2)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2913](https://www.govinfo.gov/link/statute/130/2913).)*

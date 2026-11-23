@@ -3,9 +3,10 @@ title: "Section 3 - Establishment of private corporation"
 usc_title: 42
 usc_section: "3"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-30T02:56:11.161Z"
+generated_at: "2026-11-23T20:27:22.136Z"
+status: "active"
 ---
 
 # § 2297h–3. Establishment of private corporation
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.161Z"
   - **(3)** No action under section 1491 of title 28 shall be allowable against the United States based on actions of the private corporation.
 - **(c)** Beginning on the privatization date, the restrictions stated in section 207(a), (b), (c), and (d) of title 18 shall not apply to the acts of an individual done in carrying out official duties as a director, officer, or employee of the private corporation, if the individual was an officer or employee of the Corporation (including a director) continuously during the 45 days prior to the privatization date.
 - **(d)** In the event that the privatization does not occur, the Corporation will provide for the dissolution of the private corporation within 1 year of the private corporation’s incorporation unless the Secretary of the Treasury or his delegate, upon the Corporation’s request, agrees to delay any such dissolution for an additional year.
+
+## Source Credit
+
+*([Pub. L. 104–134, title III, § 3105](https://www.govinfo.gov/link/plaw/104/public/134), Apr. 26, 1996, [110 Stat. 1321–337](https://www.govinfo.gov/link/statute/110/1321).)*

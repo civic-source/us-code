@@ -3,9 +3,10 @@ title: "Section 2 - Remedies and enforcement"
 usc_title: 42
 usc_section: "2"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T02:56:11.144Z"
+generated_at: "2026-11-23T20:27:22.039Z"
+status: "active"
 ---
 
 # § 2000gg–2. Remedies and enforcement
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:56:11.144Z"
   - **(2)** It shall be unlawful to coerce, intimidate, threaten, or interfere with any individual in the exercise or enjoyment of, or on account of such individual having exercised or enjoyed, or on account of such individual having aided or encouraged any other individual in the exercise or enjoyment of, any right granted or protected by this chapter.
   - **(3)** The remedies and procedures otherwise provided for under this section shall be available to aggrieved individuals with respect to violations of this subsection.
 - **(g)** Notwithstanding subsections (a)(3), (b)(3), (c)(3), (d)(3), and (e)(3), if an unlawful employment practice involves the provision of a reasonable accommodation pursuant to this chapter or regulations implementing this chapter, damages may not be awarded under section 1981a of this title if the covered entity demonstrates good faith efforts, in consultation with the employee with known limitations related to pregnancy, childbirth, or related medical conditions who has informed the covered entity that accommodation is needed, to identify and make a reasonable accommodation that would provide such employee with an equally effective opportunity and would not cause an undue hardship on the operation of the covered entity.
+
+## Source Credit
+
+*([Pub. L. 117–328, div. II, § 104](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 6085](https://www.govinfo.gov/link/statute/136/6085).)*

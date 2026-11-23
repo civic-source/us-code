@@ -3,9 +3,10 @@ title: "Section 2330a - Monitoring ecosystem restoration"
 usc_title: 33
 usc_section: "2330a"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2330a"
-generated_at: "2026-03-30T02:55:41.125Z"
+generated_at: "2026-11-23T20:26:54.187Z"
+status: "active"
 ---
 
 # § 2330a. Monitoring ecosystem restoration
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:41.125Z"
   - **(4)** a contingency plan for taking corrective actions in cases in which monitoring demonstrates that restoration measures are not achieving ecological success in accordance with criteria described in the monitoring plan.
 - **(e)** The responsibility of a non-Federal interest for operation and maintenance of the nonstructural and nonmechanical elements of a project, or a component of a project, for ecosystem restoration shall cease 10 years after the date on which the Secretary makes a determination of success under subsection (b)(2).
 - **(f)** The Secretary is not responsible for the operation or maintenance of any components of a project with respect to which a non-Federal interest is released from obligations under subsection (e).
+
+## Source Credit
+
+*([Pub. L. 110–114, title II, § 2039](https://www.govinfo.gov/link/plaw/110/public/114), Nov. 8, 2007, [121 Stat. 1100](https://www.govinfo.gov/link/statute/121/1100); [Pub. L. 114–322, title I, § 1161](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1668](https://www.govinfo.gov/link/statute/130/1668).)*

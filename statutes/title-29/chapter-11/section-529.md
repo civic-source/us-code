@@ -3,12 +3,17 @@ title: "Section 529 - Prohibition on certain discipline by labor organization"
 usc_title: 29
 usc_section: "529"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 529"
-generated_at: "2026-03-30T02:55:18.685Z"
+generated_at: "2026-11-23T20:26:37.820Z"
+status: "active"
 ---
 
 # § 529. Prohibition on certain discipline by labor organization
 
 It shall be unlawful for any labor organization, or any officer, agent, shop steward, or other representative of a labor organization, or any employee thereof to fine, suspend, expel, or otherwise discipline any of its members for exercising any right to which he is entitled under the provisions of this chapter. The provisions of section 412 of this title shall be applicable in the enforcement of this section.
 
+
+## Source Credit
+
+*([Pub. L. 86–257, title VI, § 609](https://www.govinfo.gov/link/plaw/86/public/257), Sept. 14, 1959, [73 Stat. 541](https://www.govinfo.gov/link/statute/73/541).)*

@@ -3,9 +3,10 @@ title: "Section 50c - Improved apprenticeship program coordination between the D
 usc_title: 29
 usc_section: "50c"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 50c"
-generated_at: "2026-03-30T02:55:18.676Z"
+generated_at: "2026-11-23T20:26:37.776Z"
+status: "active"
 ---
 
 # § 50c. Improved apprenticeship program coordination between the Department of Labor and the Department of Veterans Affairs
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:18.676Z"
       - **(i)** has a demonstrated competence applicable to the apprenticeship occupation; or
       - **(ii)** has acquired experience, training, or skills through military service that is applicable to the apprenticeship occupation; and
   - **(3)** when the Secretary approves the registered apprenticeship program, provide a copy of the program’s certificate of registration to the State approving agency designated under chapter 36 of title 38 in the State where the program is located.
+
+## Source Credit
+
+*([Pub. L. 116–134, § 2](https://www.govinfo.gov/link/plaw/116/public/134), Mar. 26, 2020, [134 Stat. 276](https://www.govinfo.gov/link/statute/134/276).)*

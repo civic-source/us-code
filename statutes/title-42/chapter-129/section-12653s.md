@@ -3,9 +3,10 @@ title: "Section 12653s - Nonprofit capacity building"
 usc_title: 42
 usc_section: "12653s"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12653s"
-generated_at: "2026-03-30T02:56:11.426Z"
+generated_at: "2026-11-23T20:27:23.418Z"
+status: "active"
 ---
 
 # § 12653s. Nonprofit capacity building
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:56:11.426Z"
       - **(ii)** If the intermediary nonprofit grantee is a private foundation (as defined in section 509(a) of title 26 ), a donor advised fund (as defined in section 4966(d)(2) of such title), an organization which is described in section 4966(d)(4)(A)(i) of such title, or an organization which is described in section 4966(d)(4)(B) of such title, the grantee shall provide the non-Federal share from within that grantee’s own funds.
       - **(iii)** For purposes of maintaining private sector support levels for the activities specified by this program, a non-Federal share that includes donations by third parties shall be composed in a way that does not decrease prior levels of funding from the same third parties granted to the nonprofit intermediary grantee in the preceding year.
 - **(g)** Of the amount authorized to provide financial assistance under this division, there shall be made available to carry out this section $5,000,000 for each of fiscal years 2010 through 2014.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 198S](https://www.govinfo.gov/link/plaw/101/public/610), as added [Pub. L. 111–13, title I, § 1809](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1575](https://www.govinfo.gov/link/statute/123/1575).)*

@@ -3,9 +3,10 @@ title: "Section 1003 - Additional definitions"
 usc_title: 20
 usc_section: "1003"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1003"
-generated_at: "2026-03-30T02:54:48.090Z"
+generated_at: "2026-11-23T20:26:14.291Z"
+status: "active"
 ---
 
 # § 1003. Additional definitions
@@ -64,3 +65,7 @@ In this chapter:
   - **(24)** The term “universal design for learning” means a scientifically valid framework for guiding educational practice that—
     - **(A)** provides flexibility in the ways information is presented, in the ways students respond or demonstrate knowledge and skills, and in the ways students are engaged; and
     - **(B)** reduces barriers in instruction, provides appropriate accommodations, supports, and challenges, and maintains high achievement expectations for all students, including students with disabilities and students who are limited English proficient.
+
+## Source Credit
+
+*([Pub. L. 89–329, title I, § 103](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title I, § 101(a)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1589](https://www.govinfo.gov/link/statute/112/1589); amended [Pub. L. 107–110, title X, § 1076(g)](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2091](https://www.govinfo.gov/link/statute/115/2091); [Pub. L. 110–315, title I, § 103(a)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3086](https://www.govinfo.gov/link/statute/122/3086); [Pub. L. 114–95, title IX, § 9215](https://www.govinfo.gov/link/plaw/114/public/95) (oo)(1), Dec. 10, 2015, [129 Stat. 2177](https://www.govinfo.gov/link/statute/129/2177).)*

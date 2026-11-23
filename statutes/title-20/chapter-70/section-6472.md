@@ -3,9 +3,10 @@ title: "Section 6472 - Definitions"
 usc_title: 20
 usc_section: "6472"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 6472"
-generated_at: "2026-03-30T02:54:48.199Z"
+generated_at: "2026-11-23T20:26:14.847Z"
+status: "active"
 ---
 
 # § 6472. Definitions
@@ -18,3 +19,7 @@ In this part:
   - **(4)** The term “institution for neglected or delinquent children and youth” means—
     - **(A)** a public or private residential facility, other than a foster home, that is operated for the care of children who have been committed to the institution or voluntarily placed in the institution under applicable State law, due to abandonment, neglect, or death of their parents or guardians; or
     - **(B)** a public or private residential facility for the care of children who have been adjudicated to be delinquent or in need of supervision.
+
+## Source Credit
+
+*([Pub. L. 89–10, title I, § 1432](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 107–110, title I, § 101](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1591](https://www.govinfo.gov/link/statute/115/1591); amended [Pub. L. 114–95, title I, § 1401(15)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1905](https://www.govinfo.gov/link/statute/129/1905).)*

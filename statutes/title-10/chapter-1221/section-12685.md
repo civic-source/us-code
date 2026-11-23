@@ -3,9 +3,10 @@ title: "Section 12685 - Reserves separated for cause: character of discharge"
 usc_title: 10
 usc_section: "12685"
 chapter: 1221
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 12685"
-generated_at: "2026-03-30T02:53:38.271Z"
+generated_at: "2026-11-23T20:25:52.452Z"
+status: "active"
 ---
 
 # § 12685. Reserves separated for cause: character of discharge
@@ -14,3 +15,7 @@ A member of a reserve component who is separated for cause, except under section
 
   - **(1)** the member is discharged under conditions other than honorable under an approved sentence of a court-martial or under the approved findings of a board of officers convened by an authority designated by the Secretary concerned; or
   - **(2)** the member consents to a discharge under conditions other than honorable with a waiver of proceedings of a court-martial or a board.
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1662(i)(1)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2998](https://www.govinfo.gov/link/statute/108/2998).)*

@@ -3,9 +3,10 @@ title: "Section 1621a - Catastrophic Health Emergency Fund"
 usc_title: 25
 usc_section: "1621a"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1621a"
-generated_at: "2026-03-30T02:54:52.820Z"
+generated_at: "2026-11-23T20:26:25.482Z"
+status: "active"
 ---
 
 # § 1621a. Catastrophic Health Emergency Fund
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:52.820Z"
   - **(5)** establish a procedure that will ensure that no payment shall be made from CHEF to any provider of treatment to the extent that such provider is eligible to receive payment for the treatment from any other Federal, State, local, or private source of reimbursement for which the patient is eligible.
 - **(e)** Amounts appropriated to CHEF under this section shall not be used to offset or limit appropriations made to the Service under the authority of section 13 of this title , or any other law.
 - **(f)** There shall be deposited into CHEF all reimbursements to which the Service is entitled from any Federal, State, local, or private source (including third party insurance) by reason of treatment rendered to any victim of a disaster or catastrophic illness the cost of which was paid from CHEF.
+
+## Source Credit
+
+*([Pub. L. 94–437, title II, § 202](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 100–713, title II, § 202](https://www.govinfo.gov/link/plaw/100/public/713), Nov. 23, 1988, [102 Stat. 4803](https://www.govinfo.gov/link/statute/102/4803); amended [Pub. L. 102–573, title II](https://www.govinfo.gov/link/plaw/102/public/573), §§ 202(a), 217(b)(2), Oct. 29, 1992, [106 Stat. 4546](https://www.govinfo.gov/link/statute/106/4546), 4559; [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

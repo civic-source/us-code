@@ -3,9 +3,10 @@ title: "Section 9221 - Determinations with respect to North Korea as a jurisdict
 usc_title: 22
 usc_section: "9221"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9221"
-generated_at: "2026-03-30T02:55:05.462Z"
+generated_at: "2026-11-23T20:26:32.758Z"
+status: "active"
 ---
 
 # § 9221. Determinations with respect to North Korea as a jurisdiction of primary money laundering concern
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:55:05.462Z"
   - **(3)**
     - **(A)** Not later than 90 days after the date on which the Secretary of the Treasury makes a determination under paragraph (1), the Secretary shall submit to the appropriate congressional committees a report that contains the reasons for such determination.
     - **(B)** The report submitted under subparagraph (A) shall be submitted in unclassified form, but may include a classified annex.
+
+## Source Credit
+
+*([Pub. L. 114–122, title II, § 201](https://www.govinfo.gov/link/plaw/114/public/122), Feb. 18, 2016, [130 Stat. 101](https://www.govinfo.gov/link/statute/130/101).)*

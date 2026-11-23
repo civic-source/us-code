@@ -3,9 +3,10 @@ title: "Section 139G - Assignments to Alaska Native Settlement Trusts"
 usc_title: 26
 usc_section: "139G"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 139G"
-generated_at: "2026-03-30T02:55:27.629Z"
+generated_at: "2026-11-23T20:26:45.373Z"
+status: "active"
 ---
 
 # § 139G. Assignments to Alaska Native Settlement Trusts
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:27.629Z"
   - **(2)** whether such assignment is revocable.
 - **(e)** Notwithstanding section 247, no deduction shall be allowed to a Native Corporation for purposes of any amounts described in subsection (a).
 - **(f)** For purposes of this section, the terms “Native Corporation” and “Settlement Trust” have the same meaning given such terms under section 646(h).
+
+## Source Credit
+
+*(Added [Pub. L. 115–97, title I, § 13821(a)(1)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2178](https://www.govinfo.gov/link/statute/131/2178).)*

@@ -3,12 +3,17 @@ title: "Section 2403 - Reciprocity limits"
 usc_title: 7
 usc_section: "2403"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2403"
-generated_at: "2026-03-30T02:53:42.387Z"
+generated_at: "2026-11-23T20:25:41.530Z"
+status: "active"
 ---
 
 # § 2403. Reciprocity limits
 
 Protection under this chapter may, by regulation, be limited to nationals of the United States, except where this limitation would violate a treaty and except that nationals of a foreign state in which they are domiciled shall be entitled to so much of the protection here afforded as is afforded by said foreign state to nationals of the United States for the same genus and species.
 
+
+## Source Credit
+
+*([Pub. L. 91–577, title II, § 43](https://www.govinfo.gov/link/plaw/91/public/577), Dec. 24, 1970, [84 Stat. 1547](https://www.govinfo.gov/link/statute/84/1547).)*

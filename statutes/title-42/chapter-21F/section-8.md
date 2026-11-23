@@ -3,9 +3,10 @@ title: "Section 8 - Construction"
 usc_title: 42
 usc_section: "8"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-03-30T02:56:11.144Z"
+generated_at: "2026-11-23T20:27:22.038Z"
+status: "active"
 ---
 
 # § 2000ff–8. Construction
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:56:11.144Z"
   - **(1)** with respect to such an individual or family member of an individual who is a pregnant woman, include genetic information of any fetus carried by such pregnant woman; and
   - **(2)** with respect to an individual or family member utilizing an assisted reproductive technology, include genetic information of any embryo legally held by the individual or family member.
 - **(c)** With respect to a group health plan, or a health insurance issuer offering group health insurance coverage in connection with a group health plan, this chapter does not prohibit any activity of such plan or issuer that is authorized for the plan or issuer under any provision of law referred to in clauses (i) through (iv) of subsection (a)(2)(B).
+
+## Source Credit
+
+*([Pub. L. 110–233, title II, § 209](https://www.govinfo.gov/link/plaw/110/public/233), May 21, 2008, [122 Stat. 918](https://www.govinfo.gov/link/statute/122/918).)*

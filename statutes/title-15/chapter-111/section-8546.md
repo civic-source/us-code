@@ -3,9 +3,10 @@ title: "Section 8546 - National Oceanic and Atmospheric Administration Weather R
 usc_title: 15
 usc_section: "8546"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 8546"
-generated_at: "2026-03-30T02:54:08.232Z"
+generated_at: "2026-11-23T20:26:04.495Z"
+status: "active"
 ---
 
 # § 8546. National Oceanic and Atmospheric Administration Weather Ready All Hazards Award Program
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.232Z"
   - **(1)** Nominations for this award shall be made annually by the Weather Field Offices to the Director of the National Weather Service. Broadcast meteorologists, weather radio manufacturers and weather warning tool and application developers, emergency managers, and public safety officials may nominate individuals or organizations to their local Weather Field Offices, but the final list of award nominees must come from the Weather Field Offices.
   - **(2)** Annually, the Director of the National Weather Service shall choose winners of this award whose timely actions, based on National Oceanic and Atmospheric Administration Weather Radio All Hazards receivers or transmitters or other early warning tools and applications, saved lives or property, or demonstrated public service in support of weather or all hazard warnings.
   - **(3)** The Director of the National Weather Service shall establish a means of making these awards to provide maximum public awareness of the importance of National Oceanic and Atmospheric Administration Weather Radio, and such other warning tools and applications as are represented in the awards.
+
+## Source Credit
+
+*([Pub. L. 115–25, title IV, § 407](https://www.govinfo.gov/link/plaw/115/public/25), Apr. 18, 2017, [131 Stat. 111](https://www.govinfo.gov/link/statute/131/111).)*

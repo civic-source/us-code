@@ -3,9 +3,10 @@ title: "Section 2601 - Findings and purposes"
 usc_title: 29
 usc_section: "2601"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 2601"
-generated_at: "2026-03-30T02:55:18.743Z"
+generated_at: "2026-11-23T20:26:38.065Z"
+status: "active"
 ---
 
 # § 2601. Findings and purposes
@@ -23,3 +24,95 @@ generated_at: "2026-03-30T02:55:18.743Z"
   - **(3)** to accomplish the purposes described in paragraphs (1) and (2) in a manner that accommodates the legitimate interests of employers;
   - **(4)** to accomplish the purposes described in paragraphs (1) and (2) in a manner that, consistent with the Equal Protection Clause of the Fourteenth Amendment, minimizes the potential for employment discrimination on the basis of sex by ensuring generally that leave is available for eligible medical reasons (including maternity-related disability) and for compelling family reasons, on a gender-neutral basis; and
   - **(5)** to promote the goal of equal employment opportunity for women and men, pursuant to such clause.
+
+Title III
+
+Other Titles.—
+
+In general
+
+Collective bargaining agreements
+
+In General
+
+Duration of Paid Sick Time.—
+
+In general
+
+Amount of hours
+
+Carryover
+
+Employer’s Termination of Paid Sick Time
+
+Prohibition
+
+Use of Paid Sick Time.—
+
+In general
+
+Sequencing.—
+
+In general
+
+Prohibition
+
+Limitations
+
+In General
+
+Model Notice
+
+Unpaid Sick Leave
+
+Unlawful Termination
+
+Investigations and Collection of Data
+
+Employers
+
+Employees
+
+Employee
+
+Employer.—
+
+In general
+
+Covered employer.—
+
+In general
+
+Public agency
+
+Definitions
+
+Commerce
+
+Employee
+
+Person
+
+FLSA terms
+
+FMLA terms
+
+Paid sick time.—
+
+In general
+
+Required compensation.—
+
+In general
+
+Special rule for care of family members
+
+Varying schedule hours calculation
+
+Guidelines
+
+Reasonable notice
+
+## Source Credit
+
+*([Pub. L. 103–3, § 2](https://www.govinfo.gov/link/plaw/103/public/3), Feb. 5, 1993, [107 Stat. 6](https://www.govinfo.gov/link/statute/107/6).)*

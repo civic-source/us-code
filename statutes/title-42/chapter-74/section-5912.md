@@ -3,9 +3,10 @@ title: "Section 5912 - Water resource assessments"
 usc_title: 42
 usc_section: "5912"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5912"
-generated_at: "2026-03-30T02:56:11.240Z"
+generated_at: "2026-11-23T20:27:22.573Z"
+status: "active"
 ---
 
 # § 5912. Water resource assessments
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.240Z"
 - **(d)** Reports of assessments and evaluations prepared by the Council pursuant to subsections (a) and (c) shall be published in the Federal Register and at least ninety days shall be provided for public review and comment. Comments received shall accompany the reports when they are submitted to the Secretary and shall be available to the public.
 - **(e)** The Council shall include a broad survey and analysis of regional and national water resource availability for energy development in the biennial assessment required by section 1962a–1(a) of this title .
 - **(f)** The Secretary shall, upon enactment of this subsection, be a member of the Council.
+
+## Source Credit
+
+*([Pub. L. 93–577, § 13](https://www.govinfo.gov/link/plaw/93/public/577), Dec. 31, 1974, [88 Stat. 1893](https://www.govinfo.gov/link/statute/88/1893); [Pub. L. 95–39, title I, § 110](https://www.govinfo.gov/link/plaw/95/public/39), June 3, 1977, [91 Stat. 186](https://www.govinfo.gov/link/statute/91/186); [Pub. L. 109–58, title X, § 1009(b)(9)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 935](https://www.govinfo.gov/link/statute/119/935).)*

@@ -3,9 +3,10 @@ title: "Section 544l - Implementation measures"
 usc_title: 16
 usc_section: "544l"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 544l"
-generated_at: "2026-03-30T02:54:22.872Z"
+generated_at: "2026-11-23T20:26:20.136Z"
+status: "active"
 ---
 
 # § 544l. Implementation measures
@@ -49,3 +50,13 @@ generated_at: "2026-03-30T02:54:22.872Z"
   - **(4)** The Director of the Office of Management and Budget shall, on behalf of each Federal agency concerned, make written certification that each such agency has complied with the provisions of this subsection during each fiscal year beginning after September 30, 1987 . Such certification shall be submitted on an annual basis to the House of Representatives and the Senate pursuant to the schedule required under the Congressional Budget and Impoundment Control Act of 1974.
   - **(5)** Nothing contained in this subsection shall be construed as indicating an intent on the part of the Congress to change the existing relationship of other Federal laws to the law of a State, or a political subdivision of a State, or to relieve any person or any obligation imposed by any law of any State, or political subdivision of a State. No provision of this subsection shall be construed to invalidate any provision of State or local law unless there is a direct conflict between such provision and the law of the State, or political subdivision of the State, so that the two cannot be reconciled or consistently stand together. This subsection shall in no way be interpreted to interfere with a State’s right to protect, rehabilitate, preserve, and restore lands within its established boundary.
 - **(f)** Subject to valid existing rights, all public lands within the scenic area administered by the Secretary of the Interior through the Bureau of Land Management are hereby transferred without consideration to the jurisdiction of the Secretary to be managed as National Forest lands in accordance with the provisions of sections 544 to 544p of this title.
+
+Limitation.—
+
+In general
+
+Continuation of certain payments
+
+## Source Credit
+
+*([Pub. L. 99–663, § 14](https://www.govinfo.gov/link/plaw/99/public/663), Nov. 17, 1986, [100 Stat. 4294](https://www.govinfo.gov/link/statute/100/4294); [Pub. L. 106–291, title III, § 346(e)](https://www.govinfo.gov/link/plaw/106/public/291), Oct. 11, 2000, [114 Stat. 1000](https://www.govinfo.gov/link/statute/114/1000); [Pub. L. 113–287, § 5(d)(16)](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3265](https://www.govinfo.gov/link/statute/128/3265).)*

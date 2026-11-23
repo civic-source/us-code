@@ -3,9 +3,10 @@ title: "Section 410dd - Establishment"
 usc_title: 16
 usc_section: "410dd"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 410dd"
-generated_at: "2026-03-30T02:54:22.764Z"
+generated_at: "2026-11-23T20:26:19.466Z"
+status: "active"
 ---
 
 # § 410dd. Establishment
@@ -25,3 +26,9 @@ generated_at: "2026-03-30T02:54:22.764Z"
 - **(m)** Within the boundaries of the park, the Secretary is authorized to implement programs to interpret experiences of the people of Guam during World War II, including, but not limited to, oral histories of those people of Guam who experienced the occupation.
 - **(n)** Within six months after December 17, 1993 , the Secretary, through the Director of the National Park Service, shall develop and transmit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report containing updated cost estimates for the development of the park. Further, this report shall contain a general plan to implement subsections ( l ) and (m), including, at a minimum, cost estimates for the design and construction of the monument authorized in section 2 2 So in original. Probably should be “subsection”. ( l ).
 - **(o)** The Secretary may take such steps as may be necessary to preserve and protect various World War II vintage weapons and fortifications which exist within the boundaries of the park.
+
+“Congress finds that—
+
+## Source Credit
+
+*([Pub. L. 95–348, § 6](https://www.govinfo.gov/link/plaw/95/public/348), Aug. 18, 1978, [92 Stat. 492](https://www.govinfo.gov/link/statute/92/492); [Pub. L. 103–197, § 3](https://www.govinfo.gov/link/plaw/103/public/197), Dec. 17, 1993, [107 Stat. 2302](https://www.govinfo.gov/link/statute/107/2302); [Pub. L. 103–437, § 6(i)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4585](https://www.govinfo.gov/link/statute/108/4585).)*

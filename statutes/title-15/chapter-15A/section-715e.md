@@ -3,12 +3,17 @@ title: "Section 715e - Penalties for violation of chapter"
 usc_title: 15
 usc_section: "715e"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 715e"
-generated_at: "2026-03-30T02:54:08.117Z"
+generated_at: "2026-11-23T20:26:03.898Z"
+status: "active"
 ---
 
 # § 715e. Penalties for violation of chapter
 
 Any person knowingly violating any provision of this chapter or any regulation prescribed thereunder shall upon conviction be punished by a fine of not to exceed $2,000 or by imprisonment for not to exceed six months, or by both such fine and imprisonment.
 
+
+## Source Credit
+
+*(Feb. 22, 1935, ch. 18, § 6, [49 Stat. 32](https://www.govinfo.gov/link/statute/49/32).)*

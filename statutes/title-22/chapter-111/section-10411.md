@@ -3,9 +3,10 @@ title: "Section 10411 - AUKUS partnership oversight and accountability framework
 usc_title: 22
 usc_section: "10411"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 10411"
-generated_at: "2026-03-30T02:55:05.476Z"
+generated_at: "2026-11-23T20:26:32.821Z"
+status: "active"
 ---
 
 # § 10411. AUKUS partnership oversight and accountability framework
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:55:05.476Z"
 - **(g)** In this section, the term “appropriate congressional committees” means—
   - **(1)** the Committee on Foreign Affairs and Committee on Appropriations of the House of Representatives; and
   - **(2)** the Committee on Foreign Relations and Committee on Appropriations of the Senate.
+
+## Source Credit
+
+*([Pub. L. 118–31, div. A, title XIII, § 1331](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 502](https://www.govinfo.gov/link/statute/137/502).)*

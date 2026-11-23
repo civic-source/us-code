@@ -3,9 +3,10 @@ title: "Section 2663 - Land acquisition authorities"
 usc_title: 10
 usc_section: "2663"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2663"
-generated_at: "2026-03-30T02:53:38.168Z"
+generated_at: "2026-11-23T20:25:51.638Z"
+status: "active"
 ---
 
 # § 2663. Land acquisition authorities
@@ -48,3 +49,57 @@ generated_at: "2026-03-30T02:53:38.168Z"
 - **(h)**
   - **(1)** The Secretary of a military department may acquire an option on a parcel of real property before or after its acquisition is authorized by law, if the Secretary considers it suitable and likely to be needed for a military project of the military department under the jurisdiction of the Secretary.
   - **(2)** As consideration for an option acquired under paragraph (1), the Secretary may pay, from funds available to the military department under the jurisdiction of the Secretary for real property activities, an amount that is not more than 12 percent of the appraised fair market value of the property.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 2663(a) 2663(b) 2663(c) | 50:171 (less provisos). 50:171 (last proviso). 50:171 (1st proviso). | July 2, 1917, ch. 35 ; restated Apr. 11, 1918, ch. 51 , 40 Stat. 518 . |
+| 2663(d) | 50:171 (2d proviso). [50:171 is made applicable to the Navy by 50:171–1 (less 16th through 21st words)]. | Oct. 25, 1951, ch. 563, § 101 (less 22d through 43d words), 65 Stat. 641 . |
+
+
+Acquisition of Land by Condemnation for Certain Military Purposes
+
+Acquisition by Purchase in Lieu of Condemnation
+
+Acquisition of Low-Cost Interests in Land
+
+Acquisition of Interests in Land When Need Is Urgent
+
+Survey Authority; Acquisition Methods
+
+Advance Notice of Use of Condemnation
+
+Exception to Advance Notice Requirement
+
+Land Acquisition Options in Advance of Military Construction Projects
+
+Historical and Revision Notes
+
+Act
+
+2663(a)
+
+2663(b)
+
+2663(c)
+
+July 2, 1917, ch. 35
+
+Apr. 11, 1918, ch. 51
+
+40 Stat. 518
+
+2663(d)
+
+Oct. 25, 1951, ch. 563, § 101
+
+65 Stat. 641
+
+Act
+
+Acquisition of Land by Condemnation for Certain Military Purposes
+
+“It is the sense of Congress that the Secretary of Defense, when acquiring land for military purposes, should—
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 147; [Pub. L. 85–861, § 33(a)(14)](https://www.govinfo.gov/link/plaw/85/public/861), Sept. 2, 1958, [72 Stat. 1565](https://www.govinfo.gov/link/statute/72/1565); [Pub. L. 109–163, div. B, title XXVIII, § 2821(a)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3511](https://www.govinfo.gov/link/statute/119/3511); [Pub. L. 109–364, div. B, title XXVIII, § 2821(b)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2474](https://www.govinfo.gov/link/statute/120/2474); [Pub. L. 110–181, div. B, title XXVIII, § 2822(a)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 544](https://www.govinfo.gov/link/statute/122/544); [Pub. L. 111–383, div. A, title X, § 1075(g)(6)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4377](https://www.govinfo.gov/link/statute/124/4377); [Pub. L. 115–91, div. B, title XXVIII, § 2811(b)](https://www.govinfo.gov/link/plaw/115/public/91), (c), Dec. 12, 2017, [131 Stat. 1848](https://www.govinfo.gov/link/statute/131/1848); [Pub. L. 118–159, div. B, title XXVIII, § 2804(b)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2248](https://www.govinfo.gov/link/statute/138/2248).)*

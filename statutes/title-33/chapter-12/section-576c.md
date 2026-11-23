@@ -3,9 +3,10 @@ title: "Section 576c - Corps of Engineers operation of unmanned aircraft systems
 usc_title: 33
 usc_section: "576c"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 576c"
-generated_at: "2026-03-30T02:55:41.063Z"
+generated_at: "2026-11-23T20:26:53.861Z"
+status: "active"
 ---
 
 # § 576c. Corps of Engineers operation of unmanned aircraft systems
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:41.063Z"
   - **(2)** acquires, applies for, and receives any necessary Federal Aviation Administration authorizations for such operations and systems.
 - **(b)** A small unmanned aircraft system acquired, operated, or maintained for carrying out the missions specified in subsection (a) shall be operated in accordance with regulations of the Federal Aviation Administration as a civil aircraft or public aircraft, at the discretion of the Secretary, and shall be exempt from regulations of the Department of Defense, including the Department of the Army, governing such system.
 - **(c)** A small unmanned aircraft system acquired, operated, or maintained by the Corps of Engineers is excluded from use by the Department of Defense, including the Department of the Army, for any mission of the Department of Defense other than a mission specified in subsection (a).
+
+## Source Credit
+
+*([Pub. L. 114–322, title I, § 1124](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1647](https://www.govinfo.gov/link/statute/130/1647).)*

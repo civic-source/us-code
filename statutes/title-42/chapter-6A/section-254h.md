@@ -3,9 +3,10 @@ title: "Section 254h - Provision of health services by Corps members"
 usc_title: 42
 usc_section: "254h"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 254h"
-generated_at: "2026-03-30T02:56:10.713Z"
+generated_at: "2026-11-23T20:27:20.088Z"
+status: "active"
 ---
 
 # § 254h. Provision of health services by Corps members
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:10.713Z"
     - **(A)** It shall be unlawful for any hospital to deny an authorized Corps member admitting privileges when such Corps member otherwise meets the professional qualifications established by the hospital for granting such privileges and agrees to abide by the published bylaws of the hospital and the published bylaws, rules, and regulations of its medical staff.
     - **(B)** Any hospital which is found by the Secretary, after notice and an opportunity for a hearing on the record, to have violated this subsection shall upon such finding cease, for a period to be determined by the Secretary, to receive and to be eligible to receive any Federal funds under this chapter or under titles XVIII, XIX, or XXI of the Social Security Act [ 42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.].
   - **(2)** For purposes of this subsection, the term “hospital” includes a State or local public hospital, a private profit hospital, a private nonprofit hospital, a general or special hospital, and any other type of hospital (excluding a hospital owned or operated by an agency of the Federal Government), and any related facilities.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 335, as added [Pub. L. 94–484, title IV, § 407(b)(3)](https://www.govinfo.gov/link/plaw/94/public/484), Oct. 12, 1976, [90 Stat. 2275](https://www.govinfo.gov/link/statute/90/2275); amended [Pub. L. 97–35, title XXVII, § 2705](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 907](https://www.govinfo.gov/link/statute/95/907); [Pub. L. 101–597, title I, § 106](https://www.govinfo.gov/link/plaw/101/public/597), title IV, § 401(b)[(a)], Nov. 16, 1990, [104 Stat. 3018](https://www.govinfo.gov/link/statute/104/3018), 3035; [Pub. L. 107–251, title III, § 306](https://www.govinfo.gov/link/plaw/107/public/251), Oct. 26, 2002, [116 Stat. 1648](https://www.govinfo.gov/link/statute/116/1648).)*

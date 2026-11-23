@@ -3,9 +3,10 @@ title: "Section 1305 - Filing and allowance of postpetition claims"
 usc_title: 11
 usc_section: "1305"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 1305"
-generated_at: "2026-03-30T02:53:53.887Z"
+generated_at: "2026-11-23T20:25:55.435Z"
+status: "active"
 ---
 
 # § 1305. Filing and allowance of postpetition claims
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:53.887Z"
   - **(2)** that is a consumer debt, that arises after the date of the order for relief under this chapter, and that is for property or services necessary for the debtor’s performance under the plan.
 - **(b)** Except as provided in subsection (c) of this section, a claim filed under subsection (a) of this section shall be allowed or disallowed under section 502 of this title , but shall be determined as of the date such claim arises, and shall be allowed under section 502(a), 502(b), or 502(c) of this title, or disallowed under section 502(d) or 502(e) of this title, the same as if such claim had arisen before the date of the filing of the petition.
 - **(c)** A claim filed under subsection (a)(2) of this section shall be disallowed if the holder of such claim knew or should have known that prior approval by the trustee of the debtor’s incurring the obligation was practicable and was not obtained.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2647](https://www.govinfo.gov/link/statute/92/2647).)*

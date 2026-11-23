@@ -3,9 +3,10 @@ title: "Section 3556 - Federal information security incident center"
 usc_title: 44
 usc_section: "3556"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "44 U.S.C. § 3556"
-generated_at: "2026-03-30T02:55:56.298Z"
+generated_at: "2026-11-23T20:27:03.839Z"
+status: "active"
 ---
 
 # § 3556. Federal information security incident center
@@ -17,3 +18,11 @@ generated_at: "2026-03-30T02:55:56.298Z"
   - **(4)** provide, as appropriate, intelligence and other information about cyber threats, vulnerabilities, and incidents to agencies to assist in risk assessments conducted under section 3554(b); and
   - **(5)** consult with the National Institute of Standards and Technology, agencies or offices operating or exercising control of national security systems (including the National Security Agency), and such other agencies or offices in accordance with law and as directed by the President regarding information security incidents and related matters.
 - **(b)** Each agency operating or exercising control of a national security system shall share information about information security incidents, threats, and vulnerabilities with the Federal information security incident center to the extent consistent with standards and guidelines for national security systems, issued in accordance with law and as directed by the President.
+
+In General
+
+National Security Systems
+
+## Source Credit
+
+*(Added [Pub. L. 113–283, § 2(a)](https://www.govinfo.gov/link/plaw/113/public/283), Dec. 18, 2014, [128 Stat. 3084](https://www.govinfo.gov/link/statute/128/3084).)*

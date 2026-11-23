@@ -3,9 +3,10 @@ title: "Section 1802 - Electronic surveillance authorization without court order
 usc_title: 50
 usc_section: "1802"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 1802"
-generated_at: "2026-03-30T02:56:26.208Z"
+generated_at: "2026-11-23T20:27:30.768Z"
+status: "active"
 ---
 
 # § 1802. Electronic surveillance authorization without court order; certification by Attorney General; reports to Congressional committees; transmittal under seal; duties and compensation of communication common carrier; applications; jurisdiction of court
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:26.208Z"
     - **(A)** furnish all information, facilities, or technical assistance necessary to accomplish the electronic surveillance in such a manner as will protect its secrecy and produce a minimum of interference with the services that such carrier is providing its customers; and
     - **(B)** maintain under security procedures approved by the Attorney General and the Director of National Intelligence any records concerning the surveillance or the aid furnished which such carrier wishes to retain.
 - **(b)** Applications for a court order under this subchapter are authorized if the President has, by written authorization, empowered the Attorney General to approve applications to the court having jurisdiction under section 1803 of this title , and a judge to whom an application is made may, notwithstanding any other law, grant an order, in conformity with section 1805 of this title , approving electronic surveillance of a foreign power or an agent of a foreign power for the purpose of obtaining foreign intelligence information, except that the court shall not have jurisdiction to grant any order approving electronic surveillance directed solely as described in paragraph (1)(A) of subsection (a) unless such surveillance may involve the acquisition of communications of any United States person.
+
+## Source Credit
+
+*([Pub. L. 95–511, title I, § 102](https://www.govinfo.gov/link/plaw/95/public/511), Oct. 25, 1978, [92 Stat. 1786](https://www.govinfo.gov/link/statute/92/1786); [Pub. L. 108–458, title I, § 1071(e)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3691](https://www.govinfo.gov/link/statute/118/3691); [Pub. L. 111–259, title VIII, § 806(a)(2)](https://www.govinfo.gov/link/plaw/111/public/259), Oct. 7, 2010, [124 Stat. 2748](https://www.govinfo.gov/link/statute/124/2748).)*

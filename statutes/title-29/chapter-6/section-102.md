@@ -3,12 +3,17 @@ title: "Section 102 - Public policy in labor matters declared"
 usc_title: 29
 usc_section: "102"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 102"
-generated_at: "2026-03-30T02:55:18.677Z"
+generated_at: "2026-11-23T20:26:37.777Z"
+status: "active"
 ---
 
 # § 102. Public policy in labor matters declared
 
 In the interpretation of this chapter and in determining the jurisdiction and authority of the courts of the United States, as such jurisdiction and authority are defined and limited in this chapter, the public policy of the United States is declared as follows: Whereas under prevailing economic conditions, developed with the aid of governmental authority for owners of property to organize in the corporate and other forms of ownership association, the individual unorganized worker is commonly helpless to exercise actual liberty of contract and to protect his freedom of labor, and thereby to obtain acceptable terms and conditions of employment, wherefore, though he should be free to decline to associate with his fellows, it is necessary that he have full freedom of association, self-organization, and designation of representatives of his own choosing, to negotiate the terms and conditions of his employment, and that he shall be free from the interference, restraint, or coercion of employers of labor, or their agents, in the designation of such representatives or in self-organization or in other concerted activities for the purpose of collective bargaining or other mutual aid or protection; therefore, the following definitions of, and limitations upon, the jurisdiction and authority of the courts of the United States are enacted.
 
+
+## Source Credit
+
+*(Mar. 23, 1932, ch. 90, § 2, [47 Stat. 70](https://www.govinfo.gov/link/statute/47/70).)*

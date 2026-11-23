@@ -3,12 +3,17 @@ title: "Section 10104 - Ocean disposal"
 usc_title: 42
 usc_section: "10104"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10104"
-generated_at: "2026-03-30T02:56:11.379Z"
+generated_at: "2026-11-23T20:27:23.203Z"
+status: "active"
 ---
 
 # § 10104. Ocean disposal
 
 Nothing in this chapter shall be deemed to affect the Marine Protection, Research, and Sanctuaries Act of 1972 ( 33 U.S.C. 1401 et seq.).
 
+
+## Source Credit
+
+*([Pub. L. 97–425, § 5](https://www.govinfo.gov/link/plaw/97/public/425), Jan. 7, 1983, [96 Stat. 2205](https://www.govinfo.gov/link/statute/96/2205).)*

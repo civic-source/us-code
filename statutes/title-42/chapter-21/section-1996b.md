@@ -3,9 +3,10 @@ title: "Section 1996b - Interethnic adoption"
 usc_title: 42
 usc_section: "1996b"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1996b"
-generated_at: "2026-03-30T02:56:11.137Z"
+generated_at: "2026-11-23T20:27:22.001Z"
+status: "active"
 ---
 
 # § 1996b. Interethnic adoption
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.137Z"
     - **(B)** delay or deny the placement of a child for adoption or into foster care, on the basis of the race, color, or national origin of the adoptive or foster parent, or the child, involved.
   - **(2)** Noncompliance with paragraph (1) is deemed a violation of title VI of the Civil Rights Act of 1964 [ 42 U.S.C. 2000d et seq.].
   - **(3)** This subsection shall not be construed to affect the application of the Indian Child Welfare Act of 1978 [ 25 U.S.C. 1901 et seq.].
+
+## Source Credit
+
+*([Pub. L. 104–188, title I, § 1808(c)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1904](https://www.govinfo.gov/link/statute/110/1904).)*

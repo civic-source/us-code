@@ -3,9 +3,10 @@ title: "Section 80m - Powers of Board"
 usc_title: 20
 usc_section: "80m"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 80m"
-generated_at: "2026-03-30T02:54:48.076Z"
+generated_at: "2026-11-23T20:26:14.228Z"
+status: "active"
 ---
 
 # § 80m. Powers of Board
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:48.076Z"
   - **(3)** conduct programs of research and education; and
   - **(4)** subject to any limitations otherwise expressly provided by law, and, in the case of any gift, subject to any applicable restrictions under the terms of such gift, sell, exchange, or otherwise dispose of any property of whatsoever nature acquired pursuant to the provisions of this subchapter: Provided , That the proceeds from the sale of any property acquired pursuant to section 80k of this title shall be designated for the benefit of the Museum.
 - **(b)** In carrying out the purposes of this subchapter, the Board shall consider the recommendations of the Commission established pursuant to section 80n of this title .
+
+## Source Credit
+
+*([Pub. L. 95–414, § 3](https://www.govinfo.gov/link/plaw/95/public/414), Oct. 5, 1978, [92 Stat. 911](https://www.govinfo.gov/link/statute/92/911).)*

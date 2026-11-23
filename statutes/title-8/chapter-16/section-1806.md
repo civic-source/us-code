@@ -3,9 +3,10 @@ title: "Section 1806 - Visa integrity fee"
 usc_title: 8
 usc_section: "1806"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1806"
-generated_at: "2026-03-30T02:53:10.509Z"
+generated_at: "2026-11-23T20:25:36.293Z"
+status: "active"
 ---
 
 # § 1806. Visa integrity fee
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:10.509Z"
   - **(2)**
     - **(A)** has not sought to extend his or her period of admission during such period of validity and departed the United States not later than 5 days after the last day of such period; or
     - **(B)** during such period of validity, was granted an extension of such nonimmigrant status or an adjustment to the status of a lawful permanent resident.
+
+## Source Credit
+
+*([Pub. L. 119–21, title X, § 100007](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 370](https://www.govinfo.gov/link/statute/139/370).)*

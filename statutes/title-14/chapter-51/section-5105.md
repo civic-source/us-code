@@ -3,9 +3,10 @@ title: "Section 5105 - Inventory of real property"
 usc_title: 14
 usc_section: "5105"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 5105"
-generated_at: "2026-03-30T02:53:51.506Z"
+generated_at: "2026-11-23T20:25:54.653Z"
+status: "active"
 ---
 
 # § 5105. Inventory of real property
@@ -24,3 +25,13 @@ generated_at: "2026-03-30T02:53:51.506Z"
   - **(3)** recommendations for consolidating any units of such property, including—
     - **(A)** an estimate of the costs or savings associated with each recommended consolidation; and
     - **(B)** a discussion of the impact that such consolidation would have on Coast Guard mission effectiveness.
+
+In General
+
+Updates
+
+Recommendations to Congress
+
+## Source Credit
+
+*(Added [Pub. L. 113–281, title II, § 217(a)](https://www.govinfo.gov/link/plaw/113/public/281), Dec. 18, 2014, [128 Stat. 3035](https://www.govinfo.gov/link/statute/128/3035), § 679; amended [Pub. L. 115–232, div. C, title XXXV, § 3539](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2322](https://www.govinfo.gov/link/statute/132/2322); renumbered § 5105, [Pub. L. 115–282, title I, § 122(b)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4239](https://www.govinfo.gov/link/statute/132/4239).)*

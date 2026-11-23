@@ -3,9 +3,10 @@ title: "Section 16001 - Energy efficiency in federally assisted housing"
 usc_title: 42
 usc_section: "16001"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16001"
-generated_at: "2026-03-30T02:56:11.466Z"
+generated_at: "2026-11-23T20:27:23.595Z"
+status: "active"
 ---
 
 # § 16001. Energy efficiency in federally assisted housing
@@ -15,3 +16,7 @@ The Secretary of Housing and Urban Development shall promote energy conservation
   - **(1)** the use of energy-efficient technologies and innovations (including the procurement of energy-efficient refrigerators and other appliances);
   - **(2)** the promotion of shared savings contracts; and
   - **(3)** the use and implementation of such other similar technologies and innovations as the Secretary of Housing and Urban Development considers to be appropriate.
+
+## Source Credit
+
+*([Pub. L. 109–58, title V, § 506(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 779](https://www.govinfo.gov/link/statute/119/779).)*

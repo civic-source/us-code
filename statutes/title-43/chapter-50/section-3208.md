@@ -3,9 +3,10 @@ title: "Section 3208 - Federal assistance for groundwater recharge, aquifer stor
 usc_title: 43
 usc_section: "3208"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 3208"
-generated_at: "2026-03-30T02:55:57.502Z"
+generated_at: "2026-11-23T20:27:06.433Z"
+status: "active"
 ---
 
 # § 3208. Federal assistance for groundwater recharge, aquifer storage, and water source substitution projects
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:57.502Z"
   - **(2)** any obligations for fish, wildlife, or water quality protection in permits or licenses granted by a Federal agency or a State; and
   - **(3)** any applicable Federal or State laws (including regulations).
 - **(f)** A project with a total estimated cost of $500,000,000 or more shall only be eligible for construction funding under this section if the project is authorized for construction by an Act of Congress.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title IX, § 40910](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1126](https://www.govinfo.gov/link/statute/135/1126).)*

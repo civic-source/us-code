@@ -3,9 +3,10 @@ title: "Section 2296d - Strengthening democracy, tolerance, and the development 
 usc_title: 22
 usc_section: "2296d"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2296d"
-generated_at: "2026-03-30T02:55:05.356Z"
+generated_at: "2026-11-23T20:26:32.224Z"
+status: "active"
 ---
 
 # § 2296d. Strengthening democracy, tolerance, and the development of civil society
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.356Z"
   - **(5)** International exchanges and advanced professional training programs in skill areas central to the development of civil society.
   - **(6)** Assistance to promote increased adherence to civil and political rights under section 2151n(e) of this title .
 - **(c)** Activities that may be supported by assistance under subsection (b) include activities that are designed to advance progress toward the development of democracy.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 499D, as added [Pub. L. 106–113, div. B, § 1000(a)(2) [title V, § 596(b)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1535](https://www.govinfo.gov/link/statute/113/1535), 1501A–125.)*

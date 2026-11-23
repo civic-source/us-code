@@ -3,9 +3,10 @@ title: "Section 20501 - Findings and purposes"
 usc_title: 52
 usc_section: "20501"
 chapter: 205
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "52 U.S.C. § 20501"
-generated_at: "2026-03-30T02:56:30.162Z"
+generated_at: "2026-11-23T20:27:36.967Z"
+status: "active"
 ---
 
 # § 20501. Findings and purposes
@@ -19,3 +20,9 @@ generated_at: "2026-03-30T02:56:30.162Z"
   - **(2)** to make it possible for Federal, State, and local governments to implement this chapter in a manner that enhances the participation of eligible citizens as voters in elections for Federal office;
   - **(3)** to protect the integrity of the electoral process; and
   - **(4)** to ensure that accurate and current voter registration rolls are maintained.
+
+“This Act [see Tables for classification] shall take effect—
+
+## Source Credit
+
+*([Pub. L. 103–31, § 2](https://www.govinfo.gov/link/plaw/103/public/31), May 20, 1993, [107 Stat. 77](https://www.govinfo.gov/link/statute/107/77).)*

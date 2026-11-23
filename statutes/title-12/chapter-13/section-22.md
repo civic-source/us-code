@@ -3,9 +3,10 @@ title: "Section 22 - Multifamily mortgage credit programs"
 usc_title: 12
 usc_section: "22"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 22"
-generated_at: "2026-03-30T02:53:53.424Z"
+generated_at: "2026-11-23T20:25:58.990Z"
+status: "active"
 ---
 
 # § 1715z–22. Multifamily mortgage credit programs
@@ -82,3 +83,13 @@ generated_at: "2026-03-30T02:53:53.424Z"
         - **(II)** has a remaining term that extends beyond the maturity of the mortgage for a period of not less than 10 years.
     - **(B)** The term “first mortgage” means a single first lien given to secure advances on, or the unpaid purchase price of, real estate, under the laws of the State in which the real estate is located, together with the credit instrument, if any, secured thereby. Any other financing permitted on property insured under this section must be expressly subordinate to the insured mortgage.
     - **(C)** The terms “unit of general local government” and “State” have the same meanings as in section 5302(a) of title 42 .
+
+(aa) for the monitoring of the performance of environmental reviews under this subparagraph;
+
+(bb) subject to the discretion of the Secretary, for the provision or facilitation of training for such performance; and
+
+(cc) subject to the discretion of the Secretary, for the suspension or termination by the Secretary of the qualified housing finance agency’s responsibilities under subclause (I).
+
+## Source Credit
+
+*([Pub. L. 102–550, title V, § 542](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3794](https://www.govinfo.gov/link/statute/106/3794); [Pub. L. 103–233, title III, § 307(a)](https://www.govinfo.gov/link/plaw/103/public/233), (b), Apr. 11, 1994, [108 Stat. 373](https://www.govinfo.gov/link/statute/108/373), 376; [Pub. L. 104–120, § 8](https://www.govinfo.gov/link/plaw/104/public/120), Mar. 28, 1996, [110 Stat. 836](https://www.govinfo.gov/link/statute/110/836); [Pub. L. 104–134, title I, § 101(e) [title II, § 205]](https://www.govinfo.gov/link/plaw/104/public/134), Apr. 26, 1996, [110 Stat. 1321–257](https://www.govinfo.gov/link/statute/110/1321), 1321–284; renumbered title I, [Pub. L. 104–140, § 1(a)](https://www.govinfo.gov/link/plaw/104/public/140), May 2, 1996, [110 Stat. 1327](https://www.govinfo.gov/link/statute/110/1327); [Pub. L. 105–18, title II, § 10003](https://www.govinfo.gov/link/plaw/105/public/18), June 12, 1997, [111 Stat. 201](https://www.govinfo.gov/link/statute/111/201); [Pub. L. 105–276, title II, § 211](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2486](https://www.govinfo.gov/link/statute/112/2486); [Pub. L. 106–74, title II, § 226](https://www.govinfo.gov/link/plaw/106/public/74), as added [Pub. L. 106–113, div. A, title I, § 175(d)](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1534](https://www.govinfo.gov/link/statute/113/1534); [Pub. L. 106–377, § 1(a)(1) [title II, § 235]](https://www.govinfo.gov/link/plaw/106/public/377), Oct. 27, 2000, [114 Stat. 1441](https://www.govinfo.gov/link/statute/114/1441), 1441A–35.)*

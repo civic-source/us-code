@@ -3,9 +3,10 @@ title: "Section 356i - Prompt reports of marketing status"
 usc_title: 21
 usc_section: "356i"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 356i"
-generated_at: "2026-03-30T02:54:54.243Z"
+generated_at: "2026-11-23T20:26:27.616Z"
+status: "active"
 ---
 
 # § 356i. Prompt reports of marketing status
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:54.243Z"
   - **(2)** identify the application holder’s biological products as discontinued in the list published under section 262(k)(9)(A) of title 42 , except that the Secretary shall remove from the list in accordance with section 262(k)(9)(B) of such title biological products for which the license has been revoked or suspended for reasons of safety, purity, or potency.
 - **(e)** The Secretary shall update the list published under section 355(j)(7)(A) of this title based on the information provided under subsections (a), (b), and (c) by moving drugs that are not available for sale from the active section to the discontinued section of the list, except that drugs the Secretary determines have been withdrawn from sale for reasons of safety or effectiveness shall be removed from the list in accordance with section 355(j)(7)(C) of this title . The Secretary shall update the list published under section 262(k)(9)(A) of title 42 based on information provided under subsections (a), (b), and (c) by identifying as discontinued biological products that are not available for sale, except that biological products for which the license has been revoked or suspended for safety, purity, or potency reasons shall be removed from the list in accordance with section 262(k)(9)(B) of title 42 . The Secretary shall make monthly updates to the lists referred to in the preceding sentences based on the information provided pursuant to subsections (a) and (b), and shall update such lists based on the information provided under subsection (c) as soon as practicable.
 - **(f)** Any notice submitted under this section shall not be made public by the Secretary and shall be used solely for the purpose of the updates described in subsection (e).
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 506I, as added [Pub. L. 115–52, title VIII, § 804](https://www.govinfo.gov/link/plaw/115/public/52), Aug. 18, 2017, [131 Stat. 1071](https://www.govinfo.gov/link/statute/131/1071); amended [Pub. L. 117–328, div. FF, title III, § 3201](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5808](https://www.govinfo.gov/link/statute/136/5808).)*

@@ -3,9 +3,10 @@ title: "Section 3676 - Approval of nonaccredited courses"
 usc_title: 38
 usc_section: "3676"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 3676"
-generated_at: "2026-03-30T02:55:53.507Z"
+generated_at: "2026-11-23T20:27:01.868Z"
+status: "active"
 ---
 
 # § 3676. Approval of nonaccredited courses
@@ -65,3 +66,9 @@ generated_at: "2026-03-30T02:55:53.507Z"
     - **(C)** The waiver furthers the purposes of the educational assistance programs administered by the Secretary or would further the education interests of individuals eligible for assistance under such programs.
     - **(D)** The educational institution does not provide any commission, bonus, or other incentive payment based directly or indirectly on success in securing enrollments or financial aid to any persons or entities engaged in any student recruiting or admission activities or in making decisions regarding the award of student financial assistance, except for the recruitment of foreign students residing in foreign countries who are not eligible to receive Federal student assistance.
   - **(2)** Not later than 30 days after the date on which the Secretary issues a waiver under paragraph (1), the Secretary shall submit to Congress notice of such waiver and a justification for issuing such waiver.
+
+“The amendment made by subsection (a) [amending this section] shall apply with respect to—
+
+## Source Credit
+
+*(Added [Pub. L. 88–126, § 1](https://www.govinfo.gov/link/plaw/88/public/126), Sept. 23, 1963, [77 Stat. 159](https://www.govinfo.gov/link/statute/77/159), § 1776; amended [Pub. L. 89–358, § 3(a)(9)](https://www.govinfo.gov/link/plaw/89/public/358), Mar. 3, 1966, [80 Stat. 21](https://www.govinfo.gov/link/statute/80/21); [Pub. L. 97–66, title VI, § 606](https://www.govinfo.gov/link/plaw/97/public/66), Oct. 17, 1981, [95 Stat. 1037](https://www.govinfo.gov/link/statute/95/1037); [Pub. L. 101–237, title IV, § 423(b)(1)(A)](https://www.govinfo.gov/link/plaw/101/public/237), Dec. 18, 1989, [103 Stat. 2092](https://www.govinfo.gov/link/statute/103/2092); renumbered § 3676 and amended [Pub. L. 102–83, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/83), (c)(1), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 102–568, title III, § 313(a)(1)](https://www.govinfo.gov/link/plaw/102/public/568), Oct. 29, 1992, [106 Stat. 4331](https://www.govinfo.gov/link/statute/106/4331); [Pub. L. 109–461, title III, § 303](https://www.govinfo.gov/link/plaw/109/public/461), Dec. 22, 2006, [120 Stat. 3428](https://www.govinfo.gov/link/statute/120/3428); [Pub. L. 110–389, title III, § 322](https://www.govinfo.gov/link/plaw/110/public/389), Oct. 10, 2008, [122 Stat. 4168](https://www.govinfo.gov/link/statute/122/4168); [Pub. L. 114–315, title IV](https://www.govinfo.gov/link/plaw/114/public/315), §§ 409(a), (b), 410(a), Dec. 16, 2016, [130 Stat. 1559](https://www.govinfo.gov/link/statute/130/1559), 1561; [Pub. L. 116–315, title I](https://www.govinfo.gov/link/plaw/116/public/315), §§ 1016(a), 1020(b), Jan. 5, 2021, [134 Stat. 4945](https://www.govinfo.gov/link/statute/134/4945), 4958; [Pub. L. 118–210, title II](https://www.govinfo.gov/link/plaw/118/public/210), §§ 206(b)(1), 207(b)(2), Jan. 2, 2025, [138 Stat. 2764](https://www.govinfo.gov/link/statute/138/2764).)*

@@ -3,9 +3,10 @@ title: "Section 6235 - Period of limitations on making adjustments"
 usc_title: 26
 usc_section: "6235"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6235"
-generated_at: "2026-03-30T02:55:27.847Z"
+generated_at: "2026-11-23T20:26:46.604Z"
+status: "active"
 ---
 
 # § 6235. Period of limitations on making adjustments
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:27.847Z"
   - **(4)** For purposes of this section, a return executed by the Secretary under subsection (b) of section 6020 on behalf of the partnership shall not be treated as a return of the partnership.
   - **(5)** In the case of a partnership that is required to report any information described in section 6501(c)(8), the time for making any adjustment under this subchapter with respect to any tax return, event, or period to which such information relates shall not expire before the date that is determined under section 6501(c)(8).
   - **(6)** If a partnership fails to include on any return or statement any information with respect to a listed transaction as described in section 6501(c)(10), the time for making any adjustment under this subchapter with respect to such transaction shall not expire before the date that is determined under section 6501(c)(10).
+
+## Source Credit
+
+*(Added [Pub. L. 114–74, title XI, § 1101(c)(1)](https://www.govinfo.gov/link/plaw/114/public/74), Nov. 2, 2015, [129 Stat. 635](https://www.govinfo.gov/link/statute/129/635); amended [Pub. L. 114–113, div. Q, title IV, § 411(c)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3122](https://www.govinfo.gov/link/statute/129/3122); [Pub. L. 115–141, div. U, title II, § 206(k)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1180](https://www.govinfo.gov/link/statute/132/1180).)*

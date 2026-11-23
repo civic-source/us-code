@@ -3,9 +3,10 @@ title: "Section 2169 - Capitol complex E–85 refueling station"
 usc_title: 2
 usc_section: "2169"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 2169"
-generated_at: "2026-03-30T02:53:04.826Z"
+generated_at: "2026-11-23T20:25:29.018Z"
+status: "active"
 ---
 
 # § 2169. Capitol complex E–85 refueling station
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:53:04.826Z"
 - **(a)** The Architect of the Capitol may construct a fuel tank and pumping system for E–85 fuel at or within close proximity to the Capitol Grounds Fuel Station.
 - **(b)** The E–85 fuel tank and pumping system shall be available for use by all legislative branch vehicles capable of operating with E–85 fuel, subject to such other legislative branch agencies reimbursing the Architect of the Capitol for the costs of E–85 fuel used by such other legislative branch vehicles.
 - **(c)** There is authorized to be appropriated to carry out this section $640,000 for fiscal year 2008.
+
+## Source Credit
+
+*([Pub. L. 110–140, title V, § 502](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1655](https://www.govinfo.gov/link/statute/121/1655).)*

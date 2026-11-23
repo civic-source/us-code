@@ -3,9 +3,10 @@ title: "Section 4931 - Daniel Webster Senate Page Residence Revolving Fund"
 usc_title: 2
 usc_section: "4931"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 4931"
-generated_at: "2026-03-30T02:53:04.835Z"
+generated_at: "2026-11-23T20:25:29.053Z"
+status: "active"
 ---
 
 # § 4931. Daniel Webster Senate Page Residence Revolving Fund
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:04.835Z"
 - **(b)** All moneys received from rental payments and other moneys (including donated moneys) collected or received by the Sergeant at Arms with regard to the Daniel Webster Senate Page Residence shall be deposited in the fund and shall be available for purposes of this section.
 - **(c)** Disbursements from the fund shall be made upon vouchers approved by the Sergeant at Arms, or the designee of the Sergeant at Arms.
 - **(d)** The Sergeant at Arms is authorized to prescribe such regulations as may be necessary to carry out the provisions of this section and to provide for the operations of the Daniel Webster Senate Page Residence.
+
+## Source Credit
+
+*([Pub. L. 103–283, title I, § 4](https://www.govinfo.gov/link/plaw/103/public/283), July 22, 1994, [108 Stat. 1427](https://www.govinfo.gov/link/statute/108/1427); [Pub. L. 104–53, title I, § 6](https://www.govinfo.gov/link/plaw/104/public/53), Nov. 19, 1995, [109 Stat. 518](https://www.govinfo.gov/link/statute/109/518).)*

@@ -3,9 +3,10 @@ title: "Section 2320 - Trafficking in counterfeit goods or services"
 usc_title: 18
 usc_section: "2320"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2320"
-generated_at: "2026-03-30T02:54:16.502Z"
+generated_at: "2026-11-23T20:26:08.595Z"
+status: "active"
 ---
 
 # § 2320. Trafficking in counterfeit goods or services
@@ -66,3 +67,37 @@ generated_at: "2026-03-30T02:54:16.502Z"
       - **(ii)** made the infringing work available on the Internet for download, reproduction, performance, or distribution by other persons.
     - **(C)** The information required under subparagraph (A) shall be submitted in the report required in fiscal year 2005 and thereafter.
 - **(i)** No goods or services, the trafficking in of which is prohibited by this section, shall be transshipped through or exported from the United States. Any such transshipment or exportation shall be deemed a violation of section 42 of an Act to provide for the registration of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes, approved July 5, 1946 (commonly referred to as the “Trademark Act of 1946” or the “Lanham Act”).
+
+Offenses
+
+Penalties.—
+
+In general
+
+Serious bodily injury or death.—
+
+Serious bodily injury
+
+Death
+
+Counterfeit military goods or services and counterfeit drugs
+
+Forfeiture and Destruction of Property; Restitution
+
+Defenses
+
+Presentence Report
+
+Definitions
+
+Limitation on Cause of Action
+
+Report to Congress
+
+Transshipment and Exportation
+
+“The Congress finds that—
+
+## Source Credit
+
+*(Added [Pub. L. 98–473, title II, § 1502(a)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2178](https://www.govinfo.gov/link/statute/98/2178); amended [Pub. L. 103–322, title XXXII, § 320104(a)](https://www.govinfo.gov/link/plaw/103/public/322), title XXXIII, § 330016(1)(U), Sept. 13, 1994, [108 Stat. 2110](https://www.govinfo.gov/link/statute/108/2110), 2148; [Pub. L. 104–153, § 5](https://www.govinfo.gov/link/plaw/104/public/153), July 2, 1996, [110 Stat. 1387](https://www.govinfo.gov/link/statute/110/1387); [Pub. L. 105–147, § 2(f)](https://www.govinfo.gov/link/plaw/105/public/147), Dec. 16, 1997, [111 Stat. 2679](https://www.govinfo.gov/link/statute/111/2679); [Pub. L. 105–225, § 4(b)](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1499](https://www.govinfo.gov/link/statute/112/1499); [Pub. L. 105–354, § 2(c)(1)](https://www.govinfo.gov/link/plaw/105/public/354), Nov. 3, 1998, [112 Stat. 3244](https://www.govinfo.gov/link/statute/112/3244); [Pub. L. 107–140, § 1](https://www.govinfo.gov/link/plaw/107/public/140), Feb. 8, 2002, [116 Stat. 12](https://www.govinfo.gov/link/statute/116/12); [Pub. L. 107–273, div. A, title II, § 205(e)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1778](https://www.govinfo.gov/link/statute/116/1778); [Pub. L. 109–181](https://www.govinfo.gov/link/plaw/109/public/181), §§ 1(b), 2(b), Mar. 16, 2006, [120 Stat. 285](https://www.govinfo.gov/link/statute/120/285), 288; [Pub. L. 110–403, title II, § 205](https://www.govinfo.gov/link/plaw/110/public/403), Oct. 13, 2008, [122 Stat. 4261](https://www.govinfo.gov/link/statute/122/4261); [Pub. L. 112–81, div. A, title VIII, § 818(h)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1497](https://www.govinfo.gov/link/statute/125/1497); [Pub. L. 112–144, title VII, § 717(a)(1)](https://www.govinfo.gov/link/plaw/112/public/144) –(3), July 9, 2012, [126 Stat. 1076](https://www.govinfo.gov/link/statute/126/1076); [Pub. L. 114–154, § 3(2)](https://www.govinfo.gov/link/plaw/114/public/154), May 16, 2016, [130 Stat. 387](https://www.govinfo.gov/link/statute/130/387).)*

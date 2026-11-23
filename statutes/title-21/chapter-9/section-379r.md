@@ -3,9 +3,10 @@ title: "Section 379r - National uniformity for nonprescription drugs"
 usc_title: 21
 usc_section: "379r"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 379r"
-generated_at: "2026-03-30T02:54:54.275Z"
+generated_at: "2026-11-23T20:26:27.751Z"
+status: "active"
 ---
 
 # § 379r. National uniformity for nonprescription drugs
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:54.275Z"
   - **(2)** This section shall not apply to a State requirement adopted by a State public initiative or referendum enacted prior to September 1, 1997 .
 - **(e)** Nothing in this section shall be construed to modify or otherwise affect any action or the liability of any person under the product liability law of any State.
 - **(f)** Nothing in this section shall prevent a State or political subdivision thereof from enforcing, under any relevant civil or other enforcement authority, a requirement that is identical to a requirement of this chapter.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 751, as added [Pub. L. 105–115, title IV, § 412(a)](https://www.govinfo.gov/link/plaw/105/public/115), Nov. 21, 1997, [111 Stat. 2373](https://www.govinfo.gov/link/statute/111/2373); amended [Pub. L. 116–136, div. A, title III, § 3851(c)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 454](https://www.govinfo.gov/link/statute/134/454).)*

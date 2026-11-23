@@ -3,9 +3,10 @@ title: "Section 49 - Tennessee Valley Authority transfer funding"
 usc_title: 16
 usc_section: "49"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 49"
-generated_at: "2026-03-30T02:54:22.842Z"
+generated_at: "2026-11-23T20:26:20.022Z"
+status: "active"
 ---
 
 # § 460lll–49. Tennessee Valley Authority transfer funding
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:22.842Z"
 - **(d)**
   - **(1)** Not later than 30 days after the date of transfer pursuant to section 460 lll –41 of this title, the Chairman of the Tennessee Valley Authority shall submit to the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate an itemized list of the amounts of reductions in spending and increases in receipts that are proposed to be made as a result of activities under this subsection during the first fiscal year of the transfer.
   - **(2)** Not later than 24 months after the effective date of the transfer, the Chairman of the Tennessee Valley Authority shall submit to the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate an itemized list of the amounts of reductions in spending and increases in receipts as a result of activities under this subsection during the first fiscal year of the transfer.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. A, § 101(e) [title V, § 549]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–231](https://www.govinfo.gov/link/statute/112/2681), 2681–325.)*

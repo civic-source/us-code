@@ -3,9 +3,10 @@ title: "Section 3805 - Judicial review"
 usc_title: 31
 usc_section: "3805"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 3805"
-generated_at: "2026-03-30T02:55:34.062Z"
+generated_at: "2026-11-23T20:26:51.823Z"
+status: "active"
 ---
 
 # § 3805. Judicial review
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:34.062Z"
 - **(c)** The decisions, findings, and determinations of the authority with respect to questions of fact shall be final and conclusive, and shall not be set aside unless such decisions, findings, and determinations are found by the court to be unsupported by substantial evidence. In concluding whether the decisions, findings, and determinations of an authority are unsupported by substantial evidence, the court shall review the whole record or those parts of it cited by a party, and due account shall be taken of the rule of prejudicial error.
 - **(d)** Any district court reviewing under this section the decision, findings, and determinations of an authority shall not consider any objection that was not raised in the hearing conducted pursuant to section 3803(f) of this title unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the court that additional evidence not presented at such hearing is material and that there were reasonable grounds for the failure to present such evidence at such hearing, the court shall remand the matter to the authority for consideration of such additional evidence.
 - **(e)** Upon a final determination by the district court that a person is liable under section 3802 of this title , the court shall enter a final judgment for the appropriate amount in favor of the United States.
+
+## Source Credit
+
+*(Added [Pub. L. 99–509, title VI, § 6103(a)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1944](https://www.govinfo.gov/link/statute/100/1944).)*

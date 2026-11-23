@@ -3,9 +3,10 @@ title: "Section 7384u - Separate treatment of certain uranium employees"
 usc_title: 42
 usc_section: "7384u"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7384u"
-generated_at: "2026-03-30T02:56:11.292Z"
+generated_at: "2026-11-23T20:27:22.822Z"
+status: "active"
 ---
 
 # § 7384u. Separate treatment of certain uranium employees
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:11.292Z"
     - **(E)** a “grandparent” of an individual is a parent of a parent of that individual.
 - **(f)** The President shall establish procedures to identify and notify each covered uranium employee, or the survivor of that covered uranium employee if that employee is deceased, of the availability of compensation and benefits under this section.
 - **(g)** This section shall take effect on July 31, 2001 , unless Congress otherwise provides in an Act enacted before that date.
+
+## Source Credit
+
+*([Pub. L. 106–398, § 1 [div. C, title XXXVI, § 3630]](https://www.govinfo.gov/link/plaw/106/public/398), Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–507; [Pub. L. 107–107, div. C, title XXXI, § 3151(a)(4)(B)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1373](https://www.govinfo.gov/link/statute/115/1373); [Pub. L. 108–375, div. C, title XXXI, § 3165(a)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2187](https://www.govinfo.gov/link/statute/118/2187).)*

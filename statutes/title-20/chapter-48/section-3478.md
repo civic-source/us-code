@@ -3,9 +3,10 @@ title: "Section 3478 - Facilities at remote locations"
 usc_title: 20
 usc_section: "3478"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 3478"
-generated_at: "2026-03-30T02:54:48.179Z"
+generated_at: "2026-11-23T20:26:14.735Z"
+status: "active"
 ---
 
 # § 3478. Facilities at remote locations
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:48.179Z"
   - **(7)** transportation for dependents of employees of the Department to the nearest appropriate educational facilities.
 - **(b)** The furnishing of medical treatment under paragraph (1) of subsection (a) and the furnishing of services and supplies under paragraphs (2), (3), and (4) of subsection (a) shall be at prices reflecting reasonable value as determined by the Secretary.
 - **(c)** Proceeds from reimbursements under this section may be credited to the appropriation of funds that bear or will bear all or part of the cost of such work or services or used to refund excess sums when necessary.
+
+## Source Credit
+
+*([Pub. L. 96–88, title IV, § 418](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 686](https://www.govinfo.gov/link/statute/93/686).)*

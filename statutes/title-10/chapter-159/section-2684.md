@@ -3,9 +3,10 @@ title: "Section 2684 - Cooperative agreements for management of cultural resourc
 usc_title: 10
 usc_section: "2684"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2684"
-generated_at: "2026-03-30T02:53:38.170Z"
+generated_at: "2026-11-23T20:25:51.651Z"
+status: "active"
 ---
 
 # § 2684. Cooperative agreements for management of cultural resources
@@ -21,3 +22,15 @@ generated_at: "2026-03-30T02:53:38.170Z"
   - **(3)** An archaeological resource, as that term is defined in section 3(1) of the Archaeological Resources Protection Act of 1979 ( 16 U.S.C. 470bb(1) ).
   - **(4)** An archaeological artifact collection and associated records covered by section 79 of title 36 , Code of Federal Regulations.
   - **(5)** An Indian sacred site, as defined in section 1(b)(iii) of Executive Order No. 13007.
+
+Authority
+
+Authorized Cultural Resources Sites
+
+Application of Other Laws
+
+Cultural Resource Defined
+
+## Source Credit
+
+*(Added [Pub. L. 104–201, div. B, title XXVIII, § 2862(a)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2804](https://www.govinfo.gov/link/statute/110/2804); amended [Pub. L. 105–85, div. A, title X, § 1073(a)(58)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1903](https://www.govinfo.gov/link/statute/111/1903); [Pub. L. 110–181, div. B, title XXVIII, § 2824](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 545](https://www.govinfo.gov/link/statute/122/545); [Pub. L. 113–287, § 5(b)](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3264](https://www.govinfo.gov/link/statute/128/3264); [Pub. L. 114–92, div. A, title X, § 1081(a)(10)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 1001](https://www.govinfo.gov/link/statute/129/1001).)*

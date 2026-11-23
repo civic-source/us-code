@@ -3,9 +3,10 @@ title: "Section 1511d - Chesapeake Bay Office"
 usc_title: 15
 usc_section: "1511d"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1511d"
-generated_at: "2026-03-30T02:54:08.136Z"
+generated_at: "2026-11-23T20:26:04.013Z"
+status: "active"
 ---
 
 # § 1511d. Chesapeake Bay Office
@@ -61,3 +62,11 @@ generated_at: "2026-03-30T02:54:08.136Z"
   - **(4)** The Director may prescribe any additional requirements, including procedures, that the Director considers necessary to carry out the program under this subsection.
 - **(d)** For purposes of this section, “Chesapeake Executive Council” means the representatives from the Commonwealth of Virginia, the State of Maryland, the Commonwealth of Pennsylvania, the Environmental Protection Agency, the District of Columbia, and the Chesapeake Bay Commission, who are signatories to the Chesapeake Bay Agreement, and any future signatories to that Agreement.
 - **(e)** There is authorized to be appropriated to the Department of Commerce for the Chesapeake Bay Office $6,000,000 for each of fiscal years 2002 through 2006.
+
+In general
+
+Required elements of study
+
+## Source Credit
+
+*([Pub. L. 102–567, title III, § 307](https://www.govinfo.gov/link/plaw/102/public/567), Oct. 29, 1992, [106 Stat. 4284](https://www.govinfo.gov/link/statute/106/4284); [Pub. L. 107–372, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/107/public/372), Dec. 19, 2002, [116 Stat. 3096](https://www.govinfo.gov/link/statute/116/3096).)*

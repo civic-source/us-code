@@ -3,9 +3,10 @@ title: "Section 239d - Budgeting for depot and ammunition production facility ma
 usc_title: 10
 usc_section: "239d"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 239d"
-generated_at: "2026-03-30T02:53:38.048Z"
+generated_at: "2026-11-23T20:25:50.888Z"
+status: "active"
 ---
 
 # § 239d. Budgeting for depot and ammunition production facility maintenance and repair: annual report
@@ -27,3 +28,13 @@ generated_at: "2026-03-30T02:53:38.048Z"
   - **(2)** The terms “budget” and “defense budget materials” have the meaning given those terms in section 234 of this title .
   - **(3)** The term “covered depot” has the meaning given that term in section 2476 of this title .
   - **(4)** The term “covered facility” means a covered depot or an ammunition production facility.
+
+Annual Report
+
+Elements
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. A, title III, § 371](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2539](https://www.govinfo.gov/link/statute/136/2539).)*

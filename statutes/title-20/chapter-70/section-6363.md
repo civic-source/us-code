@@ -3,9 +3,10 @@ title: "Section 6363 - Allotment of appropriated funds"
 usc_title: 20
 usc_section: "6363"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 6363"
-generated_at: "2026-03-30T02:54:48.198Z"
+generated_at: "2026-11-23T20:26:14.835Z"
+status: "active"
 ---
 
 # § 6363. Allotment of appropriated funds
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:48.198Z"
   - **(2)** Any amounts remaining after the Secretary awards funds under paragraph (1) shall be allotted to each State, or consortium of States, that did not receive a grant under such paragraph, in an amount that bears the same relationship to the remaining amounts as the number of students aged 5 through 17 in the State, or, in the case of a consortium, in the States of the consortium, (as determined by the Secretary on the basis of the most recent satisfactory data) bears to the total number of such students in all States.
 - **(c)** In this part, the term “State” means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
 - **(d)** In making funds available to States under this part, the Secretary shall comply with the prohibitions described in section 7909 of this title .
+
+## Source Credit
+
+*([Pub. L. 89–10, title I, § 1203](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title I, § 1201](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1884](https://www.govinfo.gov/link/statute/129/1884).)*

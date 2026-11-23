@@ -3,9 +3,10 @@ title: "Section 6308 - Conflicts of interest"
 usc_title: 15
 usc_section: "6308"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 6308"
-generated_at: "2026-03-30T02:54:08.210Z"
+generated_at: "2026-11-23T20:26:04.392Z"
+status: "active"
 ---
 
 # § 6308. Conflicts of interest
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:08.210Z"
   - **(2)** Paragraph (1) does not apply to—
     - **(A)** the receipt of payment by a promoter, boxer, or manager of a sanctioning organization’s published fee for sanctioning a professional boxing match or reasonable expenses in connection therewith if the payment is reported to the responsible boxing commission; or
     - **(B)** the receipt of a gift or benefit of de minimis value.
+
+## Source Credit
+
+*([Pub. L. 104–272, § 17](https://www.govinfo.gov/link/plaw/104/public/272), formerly § 9, Oct. 9, 1996, [110 Stat. 3311](https://www.govinfo.gov/link/statute/110/3311); renumbered § 17 and amended [Pub. L. 106–210](https://www.govinfo.gov/link/plaw/106/public/210), §§ 4(1), 5, May 26, 2000, [114 Stat. 322](https://www.govinfo.gov/link/statute/114/322), 325.)*

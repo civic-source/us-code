@@ -3,9 +3,10 @@ title: "Section 3696 - Prohibition on certain advertising, sales, and enrollment
 usc_title: 38
 usc_section: "3696"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 3696"
-generated_at: "2026-03-30T02:55:53.509Z"
+generated_at: "2026-11-23T20:27:01.881Z"
+status: "active"
 ---
 
 # § 3696. Prohibition on certain advertising, sales, and enrollment practices
@@ -140,3 +141,29 @@ generated_at: "2026-03-30T02:55:53.509Z"
 - **(l)** In this section:
   - **(1)** The term “approved third-party auditor” means an independent third-party auditor that is approved by the Secretary for purposes of third-party audits under this section.
   - **(2)** The term “risk-based survey” means the risk-based survey developed under section 3673A of this title .
+
+Prohibition on Engaging in Substantial Misrepresentation
+
+Substantial Misrepresentation Described
+
+Limitation on Certain Commissions, Bonuses, and Other Incentive Payments
+
+Requirement to Maintain Records
+
+Agreement With Federal Trade Commission
+
+Final Judgments From Other Federal Agencies
+
+Preliminary Findings, Final Determinations, and Processes
+
+Enforcement
+
+Appeals
+
+Rule of Construction Regarding State Approving Agencies and Risk-based Surveys
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 93–508, title II, § 212(a)](https://www.govinfo.gov/link/plaw/93/public/508), Dec. 3, 1974, [88 Stat. 1585](https://www.govinfo.gov/link/statute/88/1585), § 1796; amended [Pub. L. 94–502, title V](https://www.govinfo.gov/link/plaw/94/public/502), §§ 512, 513(a)(22), Oct. 15, 1976, [90 Stat. 2402](https://www.govinfo.gov/link/statute/90/2402), 2403; [Pub. L. 98–543, title IV, § 401](https://www.govinfo.gov/link/plaw/98/public/543), Oct. 24, 1984, [98 Stat. 2749](https://www.govinfo.gov/link/statute/98/2749); [Pub. L. 101–237, title IV, § 423(b)(1)(A)](https://www.govinfo.gov/link/plaw/101/public/237), (2), Dec. 18, 1989, [103 Stat. 2092](https://www.govinfo.gov/link/statute/103/2092); renumbered § 3696 and amended [Pub. L. 102–83, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/83), (c)(1), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 112–249, § 2](https://www.govinfo.gov/link/plaw/112/public/249), Jan. 10, 2013, [126 Stat. 2401](https://www.govinfo.gov/link/statute/126/2401); [Pub. L. 116–315, title I, § 1020(a)(1)](https://www.govinfo.gov/link/plaw/116/public/315), Jan. 5, 2021, [134 Stat. 4950](https://www.govinfo.gov/link/statute/134/4950); [Pub. L. 117–16, § 7(a)(5)](https://www.govinfo.gov/link/plaw/117/public/16), June 8, 2021, [135 Stat. 285](https://www.govinfo.gov/link/statute/135/285); [Pub. L. 117–76, § 3(b)(3)](https://www.govinfo.gov/link/plaw/117/public/76), Dec. 21, 2021, [135 Stat. 1518](https://www.govinfo.gov/link/statute/135/1518).)*

@@ -3,9 +3,10 @@ title: "Section 3472 - Conservation tillage; Congressional findings, etc."
 usc_title: 16
 usc_section: "3472"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3472"
-generated_at: "2026-03-30T02:54:23.017Z"
+generated_at: "2026-11-23T20:26:20.658Z"
+status: "active"
 ---
 
 # § 3472. Conservation tillage; Congressional findings, etc.
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:23.017Z"
 - **(b)** It is the sense of Congress that the Secretary of Agriculture should, and is hereby urged and requested to—
   - **(1)** direct the attention of our Nation’s farmers to the costs and benefits of conservation tillage as a means of controlling soil erosion and improving profitability; and
   - **(2)** conduct a program of research designed to resolve any unanswered questions regarding the advantages and disadvantages of conservation tillage over other soil conservation practices.
+
+## Source Credit
+
+*([Pub. L. 97–98, title XV, § 1553](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1345](https://www.govinfo.gov/link/statute/95/1345).)*

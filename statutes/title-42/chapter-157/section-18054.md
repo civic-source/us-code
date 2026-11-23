@@ -3,9 +3,10 @@ title: "Section 18054 - Multi-State plans"
 usc_title: 42
 usc_section: "18054"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18054"
-generated_at: "2026-03-30T02:56:11.515Z"
+generated_at: "2026-11-23T20:27:23.782Z"
+status: "active"
 ---
 
 # § 18054. Multi-State plans
@@ -57,3 +58,7 @@ generated_at: "2026-03-30T02:56:11.515Z"
   - **(6)** Nothing in this section shall require that a carrier offering coverage under the Federal Employees Health Benefit Program under chapter 89 of title 5 also offer a multi-State qualified health plan under this section.
 - **(h)** The Director shall establish an advisory board to provide recommendations on the activities described in this section. A significant percentage of the members of such board shall be comprised of enrollees in a multi-State qualified health plan, or representatives of such enrollees.
 - **(i)** There is authorized to be appropriated, such sums as may be necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 111–148, title I, § 1334](https://www.govinfo.gov/link/plaw/111/public/148), as added [Pub. L. 111–148, title X, § 10104(q)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 902](https://www.govinfo.gov/link/statute/124/902).)*

@@ -3,12 +3,17 @@ title: "Section 64 - Laws imposing fines applicable to persons acting under cust
 usc_title: 19
 usc_section: "64"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 64"
-generated_at: "2026-03-30T02:54:24.625Z"
+generated_at: "2026-11-23T20:26:10.717Z"
+status: "active"
 ---
 
 # § 64. Laws imposing fines applicable to persons acting under customs laws
 
 All Acts and parts of Acts imposing fines, penalties, or other punishment for offenses committed by an internal revenue officer or other officer of the Department of the Treasury of the United States, or under any bureau thereof, shall apply to all persons whomsoever, employed, appointed, or acting under the authority of any customs law, when such persons are designated or acting as officers or deputies, or persons having the custody or disposition of any public money.
 
+
+## Source Credit
+
+*(Feb. 8, 1875, ch. 36, § 23 (part), [18 Stat. 312](https://www.govinfo.gov/link/statute/18/312).)*

@@ -3,9 +3,10 @@ title: "Section 12184 - Prohibition of discrimination in specified public transp
 usc_title: 42
 usc_section: "12184"
 chapter: 126
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12184"
-generated_at: "2026-03-30T02:56:11.411Z"
+generated_at: "2026-11-23T20:27:23.345Z"
+status: "active"
 ---
 
 # § 12184. Prohibition of discrimination in specified public transportation services provided by private entities
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:11.411Z"
     - **(C)** which—
       - **(i)** has a consequential association with events or persons significant to the past; or
       - **(ii)** embodies, or is being restored to embody, the distinctive characteristics of a type of rail passenger car used in the past, or to represent a time period which has passed.
+
+## Source Credit
+
+*([Pub. L. 101–336, title III, § 304](https://www.govinfo.gov/link/plaw/101/public/336), July 26, 1990, [104 Stat. 359](https://www.govinfo.gov/link/statute/104/359).)*

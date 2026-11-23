@@ -3,9 +3,10 @@ title: "Section 7381c - Education partnerships"
 usc_title: 42
 usc_section: "7381c"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7381c"
-generated_at: "2026-03-30T02:56:11.290Z"
+generated_at: "2026-11-23T20:27:22.811Z"
+status: "active"
 ---
 
 # § 7381c. Education partnerships
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.290Z"
   - **(5)** cooperating with the institution in developing a program under which students may be given academic credit for work on research projects of Department research and development facilities;
   - **(6)** providing academic and career advice and assistance to students of the institution; and
   - **(7)** providing funds to educational institutions to hire personnel to facilitate interactions between local school systems, Department research and development facilities, and corporate and governmental entities.
+
+## Source Credit
+
+*([Pub. L. 101–510, div. C, title XXXI, § 3166](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1843](https://www.govinfo.gov/link/statute/104/1843); [Pub. L. 109–58, title XI, § 1102(c)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 938](https://www.govinfo.gov/link/statute/119/938).)*

@@ -3,9 +3,10 @@ title: "Section 2684b - Strengthening the Chief Information Officer of the Depar
 usc_title: 22
 usc_section: "2684b"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2684b"
-generated_at: "2026-03-30T02:55:05.378Z"
+generated_at: "2026-11-23T20:26:32.373Z"
+status: "active"
 ---
 
 # § 2684b. Strengthening the Chief Information Officer of the Department of State
@@ -35,3 +36,11 @@ generated_at: "2026-03-30T02:55:05.378Z"
 - **(e)** Nothing in this section may be construed—
   - **(1)** to alter the authorities of the United States Office of Management and Budget, Office of the National Cyber Director, the Department of Homeland Security, or the Cybersecurity and Infrastructure Security Agency with respect to Federal information systems; or
   - **(2)** to alter the responsibilities and authorities of the Chief Information Officer of the Department as described in titles 40 or 44 or any other law defining or assigning responsibilities or authorities to Federal Chief Information Officers.
+
+Organization
+
+Adjudication of Unresolved Budget and Management Decisions
+
+## Source Credit
+
+*([Pub. L. 118–31, div. F, title LXIII, § 6304](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 987](https://www.govinfo.gov/link/statute/137/987).)*

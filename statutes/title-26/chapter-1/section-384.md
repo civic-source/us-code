@@ -3,9 +3,10 @@ title: "Section 384 - Limitation on use of preacquisition losses to offset built
 usc_title: 26
 usc_section: "384"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 384"
-generated_at: "2026-03-30T02:55:27.669Z"
+generated_at: "2026-11-23T20:26:45.597Z"
+status: "active"
 ---
 
 # § 384. Limitation on use of preacquisition losses to offset built-in gains
@@ -55,3 +56,9 @@ generated_at: "2026-03-30T02:55:27.669Z"
 - **(f)** The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section, including regulations to ensure that the purposes of this section may not be circumvented through—
   - **(1)** the use of any provision of law or regulations (including subchapter K of this chapter), or
   - **(2)** contributions of property to a corporation.
+
+“The amendments made by this section [enacting this section] shall apply in cases where the acquisition date (as defined in section 384(c)(2) of the Internal Revenue Code of 1986 as added by this section) is after December 15, 1987 ; except that such amendments shall not apply in the case of any transaction pursuant to—
+
+## Source Credit
+
+*(Added [Pub. L. 100–203, title X, § 10226(a)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–414](https://www.govinfo.gov/link/statute/101/1330); amended [Pub. L. 100–647, title II, § 2004(m)(1)](https://www.govinfo.gov/link/plaw/100/public/647) –(4), Nov. 10, 1988, [102 Stat. 3606](https://www.govinfo.gov/link/statute/102/3606), 3607; [Pub. L. 101–239, title VII, § 7812(c)(1)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2412](https://www.govinfo.gov/link/statute/103/2412).)*

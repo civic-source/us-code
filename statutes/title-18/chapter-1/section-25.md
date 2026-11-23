@@ -3,9 +3,10 @@ title: "Section 25 - Use of minors in crimes of violence"
 usc_title: 18
 usc_section: "25"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 25"
-generated_at: "2026-03-30T02:54:16.456Z"
+generated_at: "2026-11-23T20:26:08.324Z"
+status: "active"
 ---
 
 # § 25. Use of minors in crimes of violence
@@ -17,3 +18,17 @@ generated_at: "2026-03-30T02:54:16.456Z"
 - **(b)** Any person who is 18 years of age or older, who intentionally uses a minor to commit a crime of violence for which such person may be prosecuted in a court of the United States, or to assist in avoiding detection or apprehension for such an offense, shall—
   - **(1)** for the first conviction, be subject to twice the maximum term of imprisonment and twice the maximum fine that would otherwise be authorized for the offense; and
   - **(2)** for each subsequent conviction, be subject to 3 times the maximum term of imprisonment and 3 times the maximum fine that would otherwise be authorized for the offense.
+
+Definitions
+
+Crime of violence
+
+Minor
+
+Uses
+
+Penalties
+
+## Source Credit
+
+*(Added [Pub. L. 108–21, title VI, § 601[(a)]](https://www.govinfo.gov/link/plaw/108/public/21), Apr. 30, 2003, [117 Stat. 686](https://www.govinfo.gov/link/statute/117/686).)*

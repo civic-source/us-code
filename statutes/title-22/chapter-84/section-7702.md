@@ -3,9 +3,10 @@ title: "Section 7702 - Definitions"
 usc_title: 22
 usc_section: "7702"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7702"
-generated_at: "2026-03-30T02:55:05.444Z"
+generated_at: "2026-11-23T20:26:32.677Z"
+status: "active"
 ---
 
 # § 7702. Definitions
@@ -22,3 +23,7 @@ In this chapter:
   - **(6)** The term “Corporation” means the Millennium Challenge Corporation established by section 7703(a) of this title .
   - **(7)** The term “eligible country” means a candidate country that is determined, under section 7706 of this title , to be an eligible country to receive assistance under section 7704 of this title .
   - **(8)** The term “investments in the people” means government policies or programs of an eligible country that promote the health, education, and other factors which contribute to the well-being and productivity of their people, such as decent, affordable housing for all.
+
+## Source Credit
+
+*([Pub. L. 108–199, div. D, title VI, § 603](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 211](https://www.govinfo.gov/link/statute/118/211); [Pub. L. 108–447, div. D, title V, § 534(q)](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3008](https://www.govinfo.gov/link/statute/118/3008).)*

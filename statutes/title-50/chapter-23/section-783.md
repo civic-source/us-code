@@ -3,9 +3,10 @@ title: "Section 783 - Offenses"
 usc_title: 50
 usc_section: "783"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 783"
-generated_at: "2026-03-30T02:56:26.201Z"
+generated_at: "2026-11-23T20:27:30.724Z"
+status: "active"
 ---
 
 # § 783. Offenses
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:26.201Z"
     - **(C)** any administrative or judicial proceeding in relation to such property,
   - **(4)** Notwithstanding section 524(c) of title 28 , there shall be deposited in the Crime Victims Fund established under section 20101 of title 34 all amounts from the forfeiture of property under this subsection remaining after the payment of expenses for forfeiture and sale authorized by law.
   - **(5)** As used in this subsection, the term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Trust Territory of the Pacific Islands, and any territory or possession of the United States.
+
+## Source Credit
+
+*(Sept. 23, 1950, ch. 1024, title I, § 4, [64 Stat. 991](https://www.govinfo.gov/link/statute/64/991); [Pub. L. 90–237, § 3](https://www.govinfo.gov/link/plaw/90/public/237), Jan. 2, 1968, [81 Stat. 765](https://www.govinfo.gov/link/statute/81/765); [Pub. L. 103–199, title VIII, § 803(2)](https://www.govinfo.gov/link/plaw/103/public/199), Dec. 17, 1993, [107 Stat. 2329](https://www.govinfo.gov/link/statute/107/2329); [Pub. L. 103–359, title VIII, § 804(c)](https://www.govinfo.gov/link/plaw/103/public/359), Oct. 14, 1994, [108 Stat. 3440](https://www.govinfo.gov/link/statute/108/3440).)*

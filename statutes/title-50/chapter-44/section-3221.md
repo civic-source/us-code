@@ -3,9 +3,10 @@ title: "Section 3221 - Assignment of intelligence community personnel as languag
 usc_title: 50
 usc_section: "3221"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3221"
-generated_at: "2026-03-30T02:56:26.238Z"
+generated_at: "2026-11-23T20:27:30.938Z"
+status: "active"
 ---
 
 # § 3221. Assignment of intelligence community personnel as language students
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:26.238Z"
   - **(2)** The authority under paragraph (1) shall apply to employees who are assigned on a full-time or part-time basis.
   - **(3)** Reimbursement under paragraph (1) may be made from appropriated or nonappropriated funds.
 - **(c)** Reimbursement under this section to an employee who is an analyst is in addition to any benefits, allowances, travel expenses, or other compensation the employee is entitled to by reason of serving in such an analyst position.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title X, § 1021, as added [Pub. L. 108–487, title VI, § 612(a)(2)](https://www.govinfo.gov/link/plaw/108/public/487), Dec. 23, 2004, [118 Stat. 3959](https://www.govinfo.gov/link/statute/118/3959).)*

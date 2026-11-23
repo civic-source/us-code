@@ -3,9 +3,10 @@ title: "Section 2711 - Annual report on defense environmental programs"
 usc_title: 10
 usc_section: "2711"
 chapter: 160
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2711"
-generated_at: "2026-03-30T02:53:38.172Z"
+generated_at: "2026-11-23T20:25:51.688Z"
+status: "active"
 ---
 
 # § 2711. Annual report on defense environmental programs
@@ -33,3 +34,19 @@ generated_at: "2026-03-30T02:53:38.172Z"
     - **(A)** variability in the extent of such contamination based on ongoing site assessments, inspections, and investigations;
     - **(B)** shifts in regulatory requirements that could alter investigation and remediation strategies; and
     - **(C)** advances in technologies for the treatment and disposal such contamination that could reduce or increase long-term costs.
+
+Report Required
+
+Elements
+
+Consolidation
+
+PFAS Cost-to-complete Analysis
+
+Initial Report
+
+Inclusion of Information in Annual Report
+
+## Source Credit
+
+*(Added [Pub. L. 112–81, div. A, title III, § 317(a)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1359](https://www.govinfo.gov/link/statute/125/1359); amended [Pub. L. 117–263, div. A, title III, § 314(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2503](https://www.govinfo.gov/link/statute/136/2503); [Pub. L. 119–60, div. A, title III, § 311](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 803](https://www.govinfo.gov/link/statute/139/803).)*

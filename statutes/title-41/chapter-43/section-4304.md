@@ -3,9 +3,10 @@ title: "Section 4304 - Specific costs not allowable"
 usc_title: 41
 usc_section: "4304"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 4304"
-generated_at: "2026-03-30T02:55:55.807Z"
+generated_at: "2026-11-23T20:27:04.451Z"
+status: "active"
 ---
 
 # § 4304. Specific costs not allowable
@@ -40,3 +41,76 @@ generated_at: "2026-03-30T02:55:55.807Z"
     - **(B)** whether the executive agency will consider granting a waiver and, if the executive agency will consider granting a waiver, the criteria to be used in granting the waiver.
   - **(3)** An executive agency shall make the final determination whether to grant a waiver under paragraph (1) with respect to a covered contract before award of the contract.
 - **(c)** The provisions of the Federal Acquisition Regulation implementing this chapter may establish appropriate definitions, exclusions, limitations, and qualifications. A submission by a contractor of costs that are incurred by the contractor and that are claimed to be allowable under Department of Energy management and operating contracts shall be considered a proposal for settlement of indirect costs incurred by the contractor for any period after those costs have been accrued.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 4304 | 41:256(e). | June 30, 1949, ch. 288 , title III, § 306(e), as added Pub. L. 100–700, § 8(a)(1) , Nov. 19, 1988 , 102 Stat. 4634 ; Pub. L. 103–355, title II, § 2151 , Oct. 13, 1994 , 108 Stat. 3310 ; Pub. L. 105–85, title VIII, § 808(b)(1) , Nov. 18, 1997 , 111 Stat. 1836 . |
+
+
+Specific Costs
+
+Waiver of Severance Pay Restrictions for Foreign Nationals.—
+
+Executive agency determination
+
+Solicitation to include statement about waiver
+
+Determination to be made before contract awarded
+
+Establishment of Definitions, Exclusions, Limitations, and Qualifications
+
+Historical and Revision Notes
+
+4304
+
+June 30, 1949, ch. 288
+
+Pub. L. 100–700, § 8(a)(1)
+
+Nov. 19, 1988
+
+102 Stat. 4634
+
+Pub. L. 103–355, title II, § 2151
+
+Oct. 13, 1994
+
+108 Stat. 3310
+
+Pub. L. 105–85, title VIII, § 808(b)(1)
+
+Nov. 18, 1997
+
+111 Stat. 1836
+
+In general
+
+Elements
+
+Costs Not Allowable
+
+Definitions
+
+Effective Date
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3785](https://www.govinfo.gov/link/statute/124/3785); [Pub. L. 113–66, div. A, title VIII, § 811(b)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 806](https://www.govinfo.gov/link/statute/127/806); [Pub. L. 113–67, div. A, title VII, § 702(a)(1)](https://www.govinfo.gov/link/plaw/113/public/67), Dec. 26, 2013, [127 Stat. 1189](https://www.govinfo.gov/link/statute/127/1189); [Pub. L. 114–261, § 1(b)(2)(B)](https://www.govinfo.gov/link/plaw/114/public/261), Dec. 14, 2016, [130 Stat. 1363](https://www.govinfo.gov/link/statute/130/1363).)*

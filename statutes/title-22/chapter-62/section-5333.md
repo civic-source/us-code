@@ -3,12 +3,17 @@ title: "Section 5333 - IMF-World Bank review"
 usc_title: 22
 usc_section: "5333"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 5333"
-generated_at: "2026-03-30T02:55:05.417Z"
+generated_at: "2026-11-23T20:26:32.558Z"
+status: "active"
 ---
 
 # § 5333. IMF-World Bank review
 
 - **(a)** The United States Executive Director of the International Monetary Fund shall request the management of the International Monetary Fund to prepare a review and analysis of the debt burden of the developing countries, with particular attention to alternatives for dealing with the debt problem including new lending instruments, rescheduling and refinancing of existing debt, securitization and debt conversion techniques, discounted debt repurchases, and the International Debt Management Authority described in section 5331 of this title no later than 1 year after August 23, 1988 .
 - **(b)** The United States Executive Director to the International Bank for Reconstruction and Development shall request the management of the International Bank for Reconstruction and Development to prepare a review and analysis of the debt burden of the developing countries, with particular attention to alternatives for dealing with the debt problem including new lending instruments, rescheduling and refinancing of existing debt, securitization and debt conversion techniques, discounted debt repurchases, and the International Debt Management Authority described in section 5331 of this title no later than 1 year after August 23, 1988 .
+
+## Source Credit
+
+*([Pub. L. 100–418, title III, § 3113](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1378](https://www.govinfo.gov/link/statute/102/1378).)*

@@ -3,9 +3,10 @@ title: "Section 4807 - Selection of Delegate Body"
 usc_title: 7
 usc_section: "4807"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 4807"
-generated_at: "2026-03-30T02:53:42.411Z"
+generated_at: "2026-11-23T20:25:41.633Z"
+status: "active"
 ---
 
 # § 4807. Selection of Delegate Body
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:53:42.411Z"
   - **(1)** Prior to the expiration of the term of any producer member of the Delegate Body, the Board shall appoint a nominating committee of producers who are residents of the State represented by such member.
   - **(2)** Such committee shall nominate producers of such State as candidates to fill the position for which an election is to be held.
   - **(3)** Additional producers who are residents of a State may be nominated to fill such positions in accordance with subsection (a)(3).
+
+## Source Credit
+
+*([Pub. L. 99–198, title XVI, § 1618](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1611](https://www.govinfo.gov/link/statute/99/1611).)*

@@ -3,9 +3,10 @@ title: "Section 18445 - Information security"
 usc_title: 42
 usc_section: "18445"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18445"
-generated_at: "2026-03-30T02:56:11.520Z"
+generated_at: "2026-11-23T20:27:23.803Z"
+status: "active"
 ---
 
 # § 18445. Information security
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.520Z"
     - **(C)** Access to NASA information infrastructure shall only be granted to operators and users who regularly satisfy the requirements of the program.
     - **(D)** The chief human capital officer of NASA, in consultation with the chief information officer, shall create a system to reward operators and users of agency information infrastructure for continuous high achievement in the program.
 - **(c)** In this section, the term “information infrastructure” means the underlying framework that information systems and assets rely on to process, transmit, receive, or store information electronically, including programmable electronic devices and communications networks and any associated hardware, software, or data.
+
+## Source Credit
+
+*([Pub. L. 111–267, title XII, § 1207](https://www.govinfo.gov/link/plaw/111/public/267), Oct. 11, 2010, [124 Stat. 2844](https://www.govinfo.gov/link/statute/124/2844).)*

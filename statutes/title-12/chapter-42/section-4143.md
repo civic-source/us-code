@@ -3,9 +3,10 @@ title: "Section 4143 - Grants for building resident capacity and funding predeve
 usc_title: 12
 usc_section: "4143"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4143"
-generated_at: "2026-03-30T02:53:53.502Z"
+generated_at: "2026-11-23T20:25:59.369Z"
+status: "active"
 ---
 
 # § 4143. Grants for building resident capacity and funding predevelopment costs
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:53.502Z"
   - **(3)** Grant payments under this subsection shall be made in phases, based on performance benchmarks established by the Secretary in consultation with intermediaries selected under section 4145(b) of this title .
 - **(f)** Grant applications for assistance under subsections (d) and (e) shall be received monthly on a rolling basis and approved or rejected on at least a quarterly basis by intermediaries selected under section 4145(b) of this title .
 - **(g)** If an application for assistance under subsections 1 1 So in original. Probably should be “subsection”. (d) or (e) is denied, the applicant shall have the right to appeal the denial to the Secretary and receive a binding determination within 30 days of the appeal.
+
+## Source Credit
+
+*([Pub. L. 100–242, title II, § 253](https://www.govinfo.gov/link/plaw/100/public/242), as added [Pub. L. 102–550, title III, § 312](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3766](https://www.govinfo.gov/link/statute/106/3766).)*

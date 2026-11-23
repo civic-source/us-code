@@ -3,9 +3,10 @@ title: "Section 3704 - Experimental Program to Stimulate Competitive Technology"
 usc_title: 15
 usc_section: "3704"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 3704"
-generated_at: "2026-03-30T02:54:08.191Z"
+generated_at: "2026-11-23T20:26:04.293Z"
+status: "active"
 ---
 
 # § 3704. Experimental Program to Stimulate Competitive Technology
@@ -80,3 +81,7 @@ generated_at: "2026-03-30T02:54:08.191Z"
     - **(F)** The term “minority individual” means an American Indian, Alaskan Native, Black (not of Hispanic origin), Hispanic (including persons of Mexican, Puerto Rican, Cuban, and Central or South American origin), or Pacific Islander individual.
     - **(G)** The term “State” has the meaning given the term in section 7801 of title 20 .
     - **(H)** The term “State educational agency” has the meaning given the term in section 7801 of title 20 .
+
+## Source Credit
+
+*([Pub. L. 96–480, § 5](https://www.govinfo.gov/link/plaw/96/public/480), Oct. 21, 1980, [94 Stat. 2312](https://www.govinfo.gov/link/statute/94/2312); [Pub. L. 99–382, § 2](https://www.govinfo.gov/link/plaw/99/public/382), Aug. 14, 1986, [100 Stat. 811](https://www.govinfo.gov/link/statute/100/811); [Pub. L. 99–502, § 9(b)(3)](https://www.govinfo.gov/link/plaw/99/public/502) –(5), (e)(2)(A), Oct. 20, 1986, [100 Stat. 1795](https://www.govinfo.gov/link/statute/100/1795), 1797; [Pub. L. 100–519, title II, § 201(a)](https://www.govinfo.gov/link/plaw/100/public/519) –(c), (d)(2), Oct. 24, 1988, [102 Stat. 2593](https://www.govinfo.gov/link/statute/102/2593), 2594; [Pub. L. 102–245, title III, § 306](https://www.govinfo.gov/link/plaw/102/public/245), Feb. 14, 1992, [106 Stat. 20](https://www.govinfo.gov/link/statute/106/20); [Pub. L. 105–309, § 9](https://www.govinfo.gov/link/plaw/105/public/309), Oct. 30, 1998, [112 Stat. 2938](https://www.govinfo.gov/link/statute/112/2938); [Pub. L. 106–404, § 7(3)](https://www.govinfo.gov/link/plaw/106/public/404), Nov. 1, 2000, [114 Stat. 1745](https://www.govinfo.gov/link/statute/114/1745); [Pub. L. 110–69, title III, § 3002(a)](https://www.govinfo.gov/link/plaw/110/public/69), Aug. 9, 2007, [121 Stat. 586](https://www.govinfo.gov/link/statute/121/586); [Pub. L. 110–315, title IX, § 971](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3473](https://www.govinfo.gov/link/statute/122/3473); [Pub. L. 114–95, title IX, § 9215(sss)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2190](https://www.govinfo.gov/link/statute/129/2190).)*

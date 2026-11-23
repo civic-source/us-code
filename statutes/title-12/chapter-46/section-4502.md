@@ -3,9 +3,10 @@ title: "Section 4502 - Definitions"
 usc_title: 12
 usc_section: "4502"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4502"
-generated_at: "2026-03-30T02:53:53.505Z"
+generated_at: "2026-11-23T20:25:59.383Z"
+status: "active"
 ---
 
 # § 4502. Definitions
@@ -103,3 +104,7 @@ For purposes of this chapter:
       - **(i)** the number of units with complete plumbing and kitchen facilities with a rent that is 30 percent or less of 50 percent of the adjusted area median income as determined by the Director that are occupied by either extremely low- or very low-income renter households or are vacant for rent; and
       - **(ii)** the number of extremely low- and very low-income renter households.
     - **(B)** If the number of units described in subparagraph (A)(i) exceeds the number of extremely low- and very low-income households as described in subparagraph (A)(ii), there is no shortage.
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1303](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3942](https://www.govinfo.gov/link/statute/106/3942); [Pub. L. 110–289, div. A, § 1002(a)](https://www.govinfo.gov/link/plaw/110/public/289), title I, § 1128(d), July 30, 2008, [122 Stat. 2659](https://www.govinfo.gov/link/statute/122/2659), 2702.)*

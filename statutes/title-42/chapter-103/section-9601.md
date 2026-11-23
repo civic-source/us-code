@@ -3,9 +3,10 @@ title: "Section 9601 - Definitions"
 usc_title: 42
 usc_section: "9601"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9601"
-generated_at: "2026-03-30T02:56:11.352Z"
+generated_at: "2026-11-23T20:27:23.086Z"
+status: "active"
 ---
 
 # § 9601. Definitions
@@ -198,3 +199,143 @@ For purpose of this subchapter—
         - **(I)** conducts or has conducted a preliminary assessment or site inspection; and
         - **(II)** after consultation with the State, determines or has determined that the site obtains a preliminary score sufficient for possible listing on the National Priorities List, or that the site otherwise qualifies for listing on the National Priorities List; unless the President has made a determination that no further Federal action will be taken; or
       - **(ii)** facilities that the President determines warrant particular consideration as identified by regulation, such as sites posing a threat to a sole-source drinking water aquifer or a sensitive ecosystem.
+
+Exclusion of certain alaska native villages and native corporations.—
+
+In general
+
+Limitation
+
+Exclusion of lenders not participants in management.—
+
+Indicia of ownership to protect security
+
+Foreclosure
+
+Participation in management
+
+(aa) for the overall management of the vessel or facility encompassing day-to-day decisionmaking with respect to environmental compliance; or
+
+(bb) over all or substantially all of the operational functions (as distinguished from financial or administrative functions) of the vessel or facility other than the function of environmental compliance;
+
+Other terms
+
+Extension of credit
+
+Financial or administrative function
+
+Foreclosure; foreclose
+
+(aa) purchase at sale under a judgment or decree, power of sale, or nonjudicial foreclosure sale;
+
+(bb) a deed in lieu of foreclosure, or similar conveyance from a trustee; or
+
+(cc) repossession,
+
+Lender
+
+Operational function
+
+Security interest
+
+Reason to know.—
+
+All appropriate inquiries
+
+(aa) stop any continuing release;
+
+(bb) prevent any threatened future release; and
+
+(cc) prevent or limit any human, environmental, or natural resource exposure to any previously released hazardous substance.
+
+Standards and practices
+
+Criteria
+
+Interim standards and practices.—
+
+Property purchased before may 31, 1997
+
+(aa) any specialized knowledge or experience on the part of the defendant;
+
+(bb) the relationship of the purchase price to the value of the property, if the property was not contaminated;
+
+(cc) commonly known or reasonably ascertainable information about the property;
+
+(dd) the obviousness of the presence or likely presence of contamination at the property; and
+
+(ee) the ability of the defendant to detect the contamination by appropriate inspection.
+
+Property purchased on or after may 31, 1997
+
+Site inspection and title search
+
+Brownfield site.—
+
+In general
+
+Exclusions
+
+Site-by-site determinations
+
+Additional areas
+
+(aa) is contaminated by petroleum or a petroleum product excluded from the definition of “hazardous substance” under this section; and
+
+(bb) is a site for which there is no viable responsible party and that is determined by the Administrator or the State, as appropriate, to be a site that will be assessed, investigated, or cleaned up by a person that is not potentially liable for cleaning up the site under this chapter or any other law pertaining to the cleanup of petroleum products; and
+
+(cc) is not subject to any order issued under section 9003(h) of the Solid Waste Disposal Act ( 42 U.S.C. 6991b(h) ); or
+
+Bona fide prospective purchaser.—
+
+In general
+
+(aa) The owner of the facility that is subject to the leasehold interest is a person described in clause (i).
+
+(bb) (AA) The owner of the facility that is subject to the leasehold interest was a person described in clause (i) at the time the leasehold interest was acquired, but can no longer establish by a preponderance of the evidence each of the criteria described in clauses (i) through (viii) of subparagraph (B) due to circumstances unrelated to any action of the person who holds the leasehold interest; and (BB) the person who holds the leasehold interest establishes by a preponderance of the evidence each of the criteria described in clauses (i), (iii), (iv), (v), (vi), (vii), and (viii) of subparagraph (B).
+
+(cc) The person who holds the leasehold interest establishes by a preponderance of the evidence each of the criteria described in clauses (i) through (viii) of subparagraph (B).
+
+Criteria
+
+Disposal prior to acquisition
+
+Inquiries.—
+
+In general
+
+Standards and practices
+
+Residential use
+
+Notices
+
+Care
+
+Cooperation, assistance, and access
+
+Institutional control
+
+Requests; subpoenas
+
+No affiliation
+
+(aa) any direct or indirect familial relationship; or
+
+(bb) any contractual, corporate, or financial relationship (other than a contractual, corporate, or financial relationship that is created by the instruments by which title to the facility is conveyed or financed, by a tenancy, by the instruments by which a leasehold interest in the facility is created, or by a contract for the sale of goods or services); or
+
+Eligible response site.—
+
+In general
+
+Inclusions
+
+Exclusions
+
+“As used in this Act [see Short Title of 1986 Amendment note above]—
+
+Administrator
+
+## Source Credit
+
+*([Pub. L. 96–510, title I, § 101](https://www.govinfo.gov/link/plaw/96/public/510), Dec. 11, 1980, [94 Stat. 2767](https://www.govinfo.gov/link/statute/94/2767); [Pub. L. 96–561, title II, § 238(b)](https://www.govinfo.gov/link/plaw/96/public/561), Dec. 22, 1980, [94 Stat. 3300](https://www.govinfo.gov/link/statute/94/3300); [Pub. L. 99–499, title I](https://www.govinfo.gov/link/plaw/99/public/499), §§ 101, 114(b), 127(a), title V, § 517(c)(2), Oct. 17, 1986, [100 Stat. 1615](https://www.govinfo.gov/link/statute/100/1615), 1652, 1692, 1774; [Pub. L. 100–707, title I, § 109(v)](https://www.govinfo.gov/link/plaw/100/public/707), Nov. 23, 1988, [102 Stat. 4710](https://www.govinfo.gov/link/statute/102/4710); [Pub. L. 103–429, § 7(e)(1)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4390](https://www.govinfo.gov/link/statute/108/4390); [Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)]](https://www.govinfo.gov/link/plaw/104/public/208), title II, § 2502(b), Sept. 30, 1996, [110 Stat. 3009](https://www.govinfo.gov/link/statute/110/3009), 3009–41, 3009–464; [Pub. L. 104–287, § 6(j)(1)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3399](https://www.govinfo.gov/link/statute/110/3399); [Pub. L. 106–74, title IV, § 427](https://www.govinfo.gov/link/plaw/106/public/74), Oct. 20, 1999, [113 Stat. 1095](https://www.govinfo.gov/link/statute/113/1095); [Pub. L. 107–118, title II](https://www.govinfo.gov/link/plaw/107/public/118), §§ 211(a), 222(a), 223, 231(a), Jan. 11, 2002, [115 Stat. 2360](https://www.govinfo.gov/link/statute/115/2360), 2370, 2372, 2375; [Pub. L. 115–141, div. N](https://www.govinfo.gov/link/plaw/115/public/141), §§ 2–5(a), Mar. 23, 2018, [132 Stat. 1052](https://www.govinfo.gov/link/statute/132/1052), 1053.)*

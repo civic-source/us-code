@@ -3,12 +3,17 @@ title: "Section 715q - Expenses of commission; authorization of appropriations"
 usc_title: 16
 usc_section: "715q"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 715q"
-generated_at: "2026-03-30T02:54:22.901Z"
+generated_at: "2026-11-23T20:26:20.248Z"
+status: "active"
 ---
 
 # § 715q. Expenses of commission; authorization of appropriations
 
 A sum sufficient to pay the necessary expenses of the commission and its members, not to exceed an annual expenditure of $7,500, is authorized to be appropriated out of any money in the Treasury not otherwise appropriated. Said appropriation shall be paid out on the audit and order of the chairman of said commission, which audit and order shall be conclusive and binding upon the Government Accountability Office as to the correctness of the accounts of said commission.
 
+
+## Source Credit
+
+*(Feb. 18, 1929, ch. 257, § 18, [45 Stat. 1225](https://www.govinfo.gov/link/statute/45/1225); [Pub. L. 87–812](https://www.govinfo.gov/link/plaw/87/public/812), Oct. 15, 1962, [76 Stat. 922](https://www.govinfo.gov/link/statute/76/922); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814).)*

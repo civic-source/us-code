@@ -3,9 +3,10 @@ title: "Section 7992 - Suspension of permanent price support authority"
 usc_title: 7
 usc_section: "7992"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7992"
-generated_at: "2026-03-30T02:53:42.469Z"
+generated_at: "2026-11-23T20:25:41.861Z"
+status: "active"
 ---
 
 # § 7992. Suspension of permanent price support authority
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:42.469Z"
   - **(11)** Title V ( 7 U.S.C. 1461–146 9).
   - **(12)** Title VI ( 7 U.S.C. 1471–147 1j).
 - **(c)** The joint resolution entitled “A joint resolution relating to corn and wheat marketing quotas under the Agricultural Adjustment Act of 1938, as amended”, approved May 26, 1941 ( 7 U.S.C. 1330 and 1340), shall not be applicable to the crops of wheat planted for harvest in the calendar years 2002 through 2007.
+
+## Source Credit
+
+*([Pub. L. 107–171, title I, § 1602](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 212](https://www.govinfo.gov/link/statute/116/212).)*

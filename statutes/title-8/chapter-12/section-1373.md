@@ -3,9 +3,10 @@ title: "Section 1373 - Communication between government agencies and the Immigra
 usc_title: 8
 usc_section: "1373"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1373"
-generated_at: "2026-03-30T02:53:10.498Z"
+generated_at: "2026-11-23T20:25:36.218Z"
+status: "active"
 ---
 
 # § 1373. Communication between government agencies and the Immigration and Naturalization Service
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:10.498Z"
   - **(2)** Maintaining such information.
   - **(3)** Exchanging such information with any other Federal, State, or local government entity.
 - **(c)** The Immigration and Naturalization Service shall respond to an inquiry by a Federal, State, or local government agency, seeking to verify or ascertain the citizenship or immigration status of any individual within the jurisdiction of the agency for any purpose authorized by law, by providing the requested verification or status information.
+
+## Source Credit
+
+*([Pub. L. 104–208, div. C, title VI, § 642](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–707](https://www.govinfo.gov/link/statute/110/3009).)*

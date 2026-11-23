@@ -3,9 +3,10 @@ title: "Section 6046 - Condemnation of Cuban attack on American aircraft"
 usc_title: 22
 usc_section: "6046"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6046"
-generated_at: "2026-03-30T02:55:05.423Z"
+generated_at: "2026-11-23T20:26:32.590Z"
+status: "active"
 ---
 
 # § 6046. Condemnation of Cuban attack on American aircraft
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:05.423Z"
   - **(1)** The Congress strongly condemns the act of terrorism by the Castro regime in shooting down the Brothers to the Rescue aircraft on February 24, 1996 .
   - **(2)** The Congress extends its condolences to the families of Pablo Morales, Carlos Costa, Mario de la Pena, and Armando Alejandre, the victims of the attack.
   - **(3)** The Congress urges the President to seek, in the International Court of Justice, indictment for this act of terrorism by Fidel Castro.
+
+## Source Credit
+
+*([Pub. L. 104–114, title I, § 116](https://www.govinfo.gov/link/plaw/104/public/114), Mar. 12, 1996, [110 Stat. 803](https://www.govinfo.gov/link/statute/110/803).)*

@@ -3,9 +3,10 @@ title: "Section 24904 - Northeast Corridor planning"
 usc_title: 49
 usc_section: "24904"
 chapter: 249
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 24904"
-generated_at: "2026-03-30T02:56:19.348Z"
+generated_at: "2026-11-23T20:27:34.872Z"
+status: "active"
 ---
 
 # § 24904. Northeast Corridor planning
@@ -59,3 +60,33 @@ generated_at: "2026-03-30T02:56:19.348Z"
       - **(iii)** a description of the resources and processes that will be necessary to bring or to maintain such capital assets in a state of good repair; and
       - **(iv)** a description of changes in the condition of such capital assets since the submission of the prior version of the plan.
 - **(e)** In this section, the term “Northeast Corridor” means the main line between Boston, Massachusetts, and the District of Columbia, and the Northeast Corridor branch lines connecting to Harrisburg, Pennsylvania, Springfield, Massachusetts, and Spuyten Duyvil, New York, including the facilities and services used to operate and maintain those lines.
+
+Northeast Corridor Service Development Plan.—
+
+In general
+
+Contents
+
+Updates
+
+Northeast Corridor Capital Investment Plan.—
+
+In general
+
+Contents
+
+Review and coordination
+
+Failure To Develop a Capital Investment Plan
+
+Northeast Corridor Capital Asset Management System.—
+
+In general
+
+Features
+
+Definition of Northeast Corridor
+
+## Source Credit
+
+*(Added [Pub. L. 114–94, div. A, title XI, § 11306(a)(2)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1658](https://www.govinfo.gov/link/statute/129/1658); amended [Pub. L. 117–58, div. B, title II, § 22301](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 714](https://www.govinfo.gov/link/statute/135/714).)*

@@ -3,9 +3,10 @@ title: "Section 1510 - Implementation by Copyright Office"
 usc_title: 17
 usc_section: "1510"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 1510"
-generated_at: "2026-03-30T02:54:15.359Z"
+generated_at: "2026-11-23T20:26:06.559Z"
+status: "active"
 ---
 
 # § 1510. Implementation by Copyright Office
@@ -17,3 +18,21 @@ generated_at: "2026-03-30T02:54:15.359Z"
     - **(B)** Any rule under subparagraph (A) that makes an adjustment shall take effect at the end of the 120-day period beginning on the date on which the Register of Copyrights submits the rule to Congress and only if Congress does not, during that 120-day period, enact a law that provides in substance that Congress does not approve the rule.
 - **(b)** Subject to applicable law, the Register of Copyrights may retain outside vendors to establish internet-based, teleconferencing, and other facilities required to operate the Copyright Claims Board.
 - **(c)** Any filing fees, including the fee to commence a proceeding under section 1506(e), shall be prescribed in regulations established by the Register of Copyrights. The sum total of such filing fees shall be in an amount of not less than $100, may not exceed the cost of filing an action in a district court of the United States, and shall be fixed in amounts that further the goals of the Copyright Claims Board.
+
+Regulations.—
+
+Implementation generally
+
+Limits on monetary relief.—
+
+In general
+
+Effective date of adjustment
+
+Necessary Facilities
+
+Fees
+
+## Source Credit
+
+*(Added [Pub. L. 116–260, div. Q, title II, § 212(b)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2198](https://www.govinfo.gov/link/statute/134/2198).)*

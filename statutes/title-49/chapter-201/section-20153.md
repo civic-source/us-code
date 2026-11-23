@@ -3,9 +3,10 @@ title: "Section 20153 - Audible warnings at highway-rail grade crossings"
 usc_title: 49
 usc_section: "20153"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 20153"
-generated_at: "2026-03-30T02:56:19.336Z"
+generated_at: "2026-11-23T20:27:34.795Z"
+status: "active"
 ---
 
 # § 20153. Audible warnings at highway-rail grade crossings
@@ -38,3 +39,27 @@ generated_at: "2026-03-30T02:56:19.336Z"
   - **(2)** shall work in partnership with affected communities to provide technical assistance and shall provide a reasonable amount of time for local communities to install supplementary safety measures, taking into account local safety initiatives (such as public awareness initiatives and highway-rail grade crossing traffic law enforcement programs) subject to such terms and conditions as the Secretary deems necessary, to protect public safety; and
   - **(3)** may waive (in whole or in part) any requirement of this section (other than a requirement of this subsection or subsection (j)) that the Secretary determines is not likely to contribute significantly to public safety.
 - **(j)** Any regulations under this section shall not take effect before the 365th day following the date of publication of the final rule.
+
+Definitions
+
+Requirement
+
+Exception
+
+Application for Waiver or Exemption
+
+Development of Supplementary Safety Measures
+
+Specific Rules
+
+Issuance
+
+Impact of Regulations
+
+Regulations
+
+Effective Date of Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 103–440, title III, § 302(a)](https://www.govinfo.gov/link/plaw/103/public/440), Nov. 2, 1994, [108 Stat. 4626](https://www.govinfo.gov/link/statute/108/4626); amended [Pub. L. 104–264, title XII, § 1218(a)](https://www.govinfo.gov/link/plaw/104/public/264), Oct. 9, 1996, [110 Stat. 3285](https://www.govinfo.gov/link/statute/110/3285); [Pub. L. 104–287, § 5(51)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3393](https://www.govinfo.gov/link/statute/110/3393).)*

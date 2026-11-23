@@ -3,12 +3,17 @@ title: "Section 363 - Court of Federal Claims, Court of International Trade, Cou
 usc_title: 28
 usc_section: "363"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 363"
-generated_at: "2026-03-30T02:55:30.128Z"
+generated_at: "2026-11-23T20:26:36.340Z"
+status: "active"
 ---
 
 # § 363. Court of Federal Claims, Court of International Trade, Court of Appeals for the Federal Circuit
 
 The United States Court of Federal Claims, the Court of International Trade, and the Court of Appeals for the Federal Circuit shall each prescribe rules, consistent with the provisions of this chapter, establishing procedures for the filing of complaints with respect to the conduct of any judge of such court and for the investigation and resolution of such complaints. In investigating and taking action with respect to any such complaint, each such court shall have the powers granted to a judicial council under this chapter.
 
+
+## Source Credit
+
+*(Added [Pub. L. 107–273, div. C, title I, § 11042(a)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1854](https://www.govinfo.gov/link/statute/116/1854).)*

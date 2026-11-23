@@ -3,9 +3,10 @@ title: "Section 22 - Requirements"
 usc_title: 20
 usc_section: "22"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 22"
-generated_at: "2026-03-30T02:54:48.106Z"
+generated_at: "2026-11-23T20:26:14.371Z"
+status: "active"
 ---
 
 # § 1070a–22. Requirements
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:48.106Z"
     - **(C)** provide services under this division to students who have received services under a previous GEAR UP grant award but have not yet completed the 12th grade.
   - **(2)** In order for the Secretary to require the cohort approach described in paragraph (1), the Secretary shall, where applicable, ensure that the cohort approach is done in coordination and collaboration with existing early intervention programs and does not duplicate the services already provided to a school or community.
 - **(e)** Grant funds awarded under this division shall be used to supplement, and not supplant, other Federal, State, and local funds that would otherwise be expended to carry out activities assisted under this division.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 404B](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title IV, § 403](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1657](https://www.govinfo.gov/link/statute/112/1657); amended [Pub. L. 106–78, title VII, § 752(b)(8)](https://www.govinfo.gov/link/plaw/106/public/78), Oct. 22, 1999, [113 Stat. 1169](https://www.govinfo.gov/link/statute/113/1169); [Pub. L. 110–315, title IV, § 404(b)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3207](https://www.govinfo.gov/link/statute/122/3207).)*

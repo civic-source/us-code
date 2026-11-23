@@ -3,9 +3,10 @@ title: "Section 1021 - Definitions"
 usc_title: 20
 usc_section: "1021"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1021"
-generated_at: "2026-03-30T02:54:48.096Z"
+generated_at: "2026-11-23T20:26:14.318Z"
+status: "active"
 ---
 
 # § 1021. Definitions
@@ -148,3 +149,15 @@ In this subchapter:
     - **(F)** effectively manage a classroom, including the ability to implement positive behavioral interventions and support strategies;
     - **(G)** communicate and work with parents, and involve parents in their children’s education; and
     - **(H)** use, in the case of an early childhood educator, age-appropriate and developmentally appropriate strategies and practices for children in early childhood education programs.
+
+(aa) aged 5 through 17 in poverty counted in the most recent census data approved by the Secretary;
+
+(bb) eligible for a free or reduced price school lunch under the Richard B. Russell National School Lunch Act;
+
+(cc) in families receiving assistance under the State program funded under part A of title IV of the Social Security Act; or
+
+(dd) eligible to receive medical assistance under the Medicaid program;
+
+## Source Credit
+
+*([Pub. L. 89–329, title II, § 200](https://www.govinfo.gov/link/plaw/89/public/329) as added [Pub. L. 110–315, title II, § 201(1)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3126](https://www.govinfo.gov/link/statute/122/3126); amended [Pub. L. 111–39, title II, § 201(1)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1936](https://www.govinfo.gov/link/statute/123/1936); [Pub. L. 114–95, title IX](https://www.govinfo.gov/link/plaw/114/public/95), §§ 9214(c)(1), 9215(oo)(2), Dec. 10, 2015, [129 Stat. 2161](https://www.govinfo.gov/link/statute/129/2161), 2178.)*

@@ -3,9 +3,10 @@ title: "Section 9809 - Improving and leveraging assistance for the global fragil
 usc_title: 22
 usc_section: "9809"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9809"
-generated_at: "2026-03-30T02:55:05.474Z"
+generated_at: "2026-11-23T20:26:32.802Z"
+status: "active"
 ---
 
 # § 9809. Improving and leveraging assistance for the global fragility strategy
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:05.474Z"
     - **(C)** advance clearly defined goals, objectives, and metrics for monitoring, evaluating, and measuring progress; and
     - **(D)** focus on strengthening national and local good governance and conflict resolution capacity in fragile and conflict-affected areas over the long-term through comprehensive, compact-based agreements that support country-led strategies.
   - **(3)** Funds may not be obligated under this section except in consultation with the appropriate congressional committees and subject to the notification of such committees of the amount and proposed uses of such funds at least 15 days in advance of such proposed obligation.
+
+## Source Credit
+
+*([Pub. L. 116–94, div. J, title V, § 510](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3067](https://www.govinfo.gov/link/statute/133/3067).)*

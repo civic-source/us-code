@@ -3,9 +3,10 @@ title: "Section 1043 - Sale of property to comply with conflict-of-interest requ
 usc_title: 26
 usc_section: "1043"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1043"
-generated_at: "2026-03-30T02:55:27.757Z"
+generated_at: "2026-11-23T20:26:46.028Z"
+status: "active"
 ---
 
 # § 1043. Sale of property to comply with conflict-of-interest requirements
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:27.757Z"
     - **(B)** any person referred to in paragraph (1)(B) has a beneficial interest in the principal or income of the trust and such interest is attributable under any statute, regulation, rule, judicial canon, or executive order referred to in paragraph (2) to a person referred to in paragraph (1)(A).
   - **(6)** The term “judicial officer” means the Chief Justice of the United States, the Associate Justices of the Supreme Court, and the judges of the United States courts of appeals, United States district courts, including the district courts in Guam, the Northern Mariana Islands, and the Virgin Islands, Court of Appeals for the Federal Circuit, Court of International Trade, Tax Court, Court of Federal Claims, Court of Appeals for Veterans Claims, United States Court of Appeals for the Armed Forces, and any court created by Act of Congress, the judges of which are entitled to hold office during good behavior.
 - **(c)** If gain from the sale of any property is not recognized by reason of subsection (a), such gain shall be applied to reduce (in the order acquired) the basis for determining gain or loss of any permitted property which is purchased by the taxpayer during the 60-day period described in subsection (a).
+
+## Source Credit
+
+*(Added [Pub. L. 101–194, title V, § 502(a)](https://www.govinfo.gov/link/plaw/101/public/194), Nov. 30, 1989, [103 Stat. 1754](https://www.govinfo.gov/link/statute/103/1754); amended [Pub. L. 101–280, § 6(a)(1)](https://www.govinfo.gov/link/plaw/101/public/280), May 4, 1990, [104 Stat. 160](https://www.govinfo.gov/link/statute/104/160); [Pub. L. 101–508, title XI, § 11703(a)(1)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–516](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 109–432, div. A, title IV, § 418(a)](https://www.govinfo.gov/link/plaw/109/public/432), (b), Dec. 20, 2006, [120 Stat. 2966](https://www.govinfo.gov/link/statute/120/2966).)*

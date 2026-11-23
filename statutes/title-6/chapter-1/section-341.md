@@ -3,9 +3,10 @@ title: "Section 341 - Under Secretary for Management"
 usc_title: 6
 usc_section: "341"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 341"
-generated_at: "2026-03-30T02:53:09.460Z"
+generated_at: "2026-11-23T20:25:34.711Z"
+status: "active"
 ---
 
 # § 341. Under Secretary for Management
@@ -93,3 +94,11 @@ generated_at: "2026-03-30T02:53:09.460Z"
   - **(3)** be subject to an annual performance evaluation by the Secretary, who shall determine as part of each such evaluation whether the Under Secretary for Management has made satisfactory progress toward achieving the goals set out in the performance agreement required under paragraph (2).
 - **(e)** The Under Secretary for Management shall require that all Department contracting and grant officials consult the System for Award Management (or successor system) as maintained by the General Services Administration prior to awarding a contract or grant or entering into other transactions to ascertain whether the selected contractor is excluded from receiving Federal contracts, certain subcontracts, and certain types of Federal financial and non-financial assistance and benefits.
 - **(e)** In this section, the term “interoperable communications” has the meaning given that term in section 194(g) of this title .
+
+Deadline for appointment
+
+Incumbent
+
+## Source Credit
+
+*([Pub. L. 107–296, title VII, § 701](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2218](https://www.govinfo.gov/link/statute/116/2218); [Pub. L. 110–53, title XXIV, § 2405(a)](https://www.govinfo.gov/link/plaw/110/public/53), (b), Aug. 3, 2007, [121 Stat. 548](https://www.govinfo.gov/link/statute/121/548); [Pub. L. 114–29, § 3](https://www.govinfo.gov/link/plaw/114/public/29), July 6, 2015, [129 Stat. 421](https://www.govinfo.gov/link/statute/129/421); [Pub. L. 114–328, div. A, title XIX, § 1903(b)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2673](https://www.govinfo.gov/link/statute/130/2673); [Pub. L. 115–38, § 2](https://www.govinfo.gov/link/plaw/115/public/38), June 6, 2017, [131 Stat. 855](https://www.govinfo.gov/link/statute/131/855).)*

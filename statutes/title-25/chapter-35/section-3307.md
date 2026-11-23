@@ -3,9 +3,10 @@ title: "Section 3307 - Administrative provisions"
 usc_title: 25
 usc_section: "3307"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3307"
-generated_at: "2026-03-30T02:54:52.851Z"
+generated_at: "2026-11-23T20:26:25.645Z"
+status: "active"
 ---
 
 # § 3307. Administrative provisions
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:52.851Z"
 - **(f)** For the purposes of this subchapter:
   - **(1)** The term “Secretary” means the Secretary of the Interior.
   - **(2)** The terms “Indian” and “Indian tribe” have the same meaning given those terms in sections 2 2 So in original. Probably should be “section”. 4(d) and (e), respectively, of the Indian Self Determination and Education Assistance Act [ 25 U.S.C. 5304(d) , (e)].
+
+## Source Credit
+
+*([Pub. L. 102–325, title XIII, § 1317](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 802](https://www.govinfo.gov/link/statute/106/802).)*

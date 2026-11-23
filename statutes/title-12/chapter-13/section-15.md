@@ -3,9 +3,10 @@ title: "Section 15 - Civil money penalties against multifamily mortgagors"
 usc_title: 12
 usc_section: "15"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 15"
-generated_at: "2026-03-30T02:53:53.429Z"
+generated_at: "2026-11-23T20:25:59.024Z"
+status: "active"
 ---
 
 # § 1735f–15. Civil money penalties against multifamily mortgagors
@@ -65,3 +66,13 @@ generated_at: "2026-03-30T02:53:53.429Z"
   - **(1)** that has management responsibility for a project;
   - **(2)** in which the ownership entity, including its general partner or partners (if applicable) and its officers or directors (if applicable), has an ownership interest; and
   - **(3)** over which the ownership entity exerts effective control.
+
+“The amendments made by subsection (a) [amending this section] shall apply only with respect to—
+
+Public comment
+
+Timing
+
+## Source Credit
+
+*(June 27, 1934, ch. 847, title V, § 537, as added [Pub. L. 101–235, title I, § 108(a)](https://www.govinfo.gov/link/plaw/101/public/235), Dec. 15, 1989, [103 Stat. 2003](https://www.govinfo.gov/link/statute/103/2003); amended [Pub. L. 105–65, title V, § 561(a)](https://www.govinfo.gov/link/plaw/105/public/65), Oct. 27, 1997, [111 Stat. 1414](https://www.govinfo.gov/link/statute/111/1414); [Pub. L. 108–447, div. I, title II, § 219(b)](https://www.govinfo.gov/link/plaw/108/public/447), (c), Dec. 8, 2004, [118 Stat. 3319](https://www.govinfo.gov/link/statute/118/3319).)*

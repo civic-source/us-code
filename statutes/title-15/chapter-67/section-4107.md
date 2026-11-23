@@ -3,9 +3,10 @@ title: "Section 4107 - Duties of Interagency Committee; report to Congress"
 usc_title: 15
 usc_section: "4107"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 4107"
-generated_at: "2026-03-30T02:54:08.198Z"
+generated_at: "2026-11-23T20:26:04.331Z"
+status: "active"
 ---
 
 # § 4107. Duties of Interagency Committee; report to Congress
@@ -30,3 +31,9 @@ generated_at: "2026-03-30T02:54:08.198Z"
 - **(b)** Not later than January 31, 1986 , and biennially thereafter, the Interagency Committee shall submit to the Congress through the President, a brief, concise report containing—
   - **(1)** a statement of the activities and accomplishments of the Interagency Committee since its last report; and
   - **(2)** a statement detailing with particularity the recommendations of the Commission with respect to Federal interagency activities in Arctic research and the disposition and responses to those recommendations.
+
+George W. Bush.
+
+## Source Credit
+
+*([Pub. L. 98–373, title I, § 108](https://www.govinfo.gov/link/plaw/98/public/373), July 31, 1984, [98 Stat. 1246](https://www.govinfo.gov/link/statute/98/1246); [Pub. L. 101–609, § 6](https://www.govinfo.gov/link/plaw/101/public/609), Nov. 16, 1990, [104 Stat. 3126](https://www.govinfo.gov/link/statute/104/3126).)*

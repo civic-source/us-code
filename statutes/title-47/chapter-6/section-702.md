@@ -3,9 +3,10 @@ title: "Section 702 - Definitions"
 usc_title: 47
 usc_section: "702"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 702"
-generated_at: "2026-03-30T02:56:24.526Z"
+generated_at: "2026-11-23T20:27:28.953Z"
+status: "active"
 ---
 
 # § 702. Definitions
@@ -22,3 +23,7 @@ As used in this chapter, and unless the context otherwise requires—
   - **(8)** the term “corporation” means the corporation authorized by subchapter III of this chapter. 1
   - **(9)** the term “Administration” means the National Aeronautics and Space Administration; and
   - **(10)** the term “Commission” means the Federal Communications Commission.
+
+## Source Credit
+
+*([Pub. L. 87–624, title I, § 103](https://www.govinfo.gov/link/plaw/87/public/624), Aug. 31, 1962, [76 Stat. 419](https://www.govinfo.gov/link/statute/76/419).)*

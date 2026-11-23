@@ -3,9 +3,10 @@ title: "Section 5329 - Public transportation safety program"
 usc_title: 49
 usc_section: "5329"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 5329"
-generated_at: "2026-03-30T02:56:19.316Z"
+generated_at: "2026-11-23T20:27:34.663Z"
+status: "active"
 ---
 
 # § 5329. Public transportation safety program
@@ -199,3 +200,209 @@ generated_at: "2026-03-30T02:56:19.316Z"
     - **(C)** the State safety oversight agency has sufficient resources to conduct the inspections.
   - **(5)** The Secretary shall issue a special directive to each State safety oversight agency on the development and implementation of risk-based inspection programs under this subsection.
   - **(6)** The Secretary may use any authority under this section, including any enforcement action authorized under subsection (g), to ensure the compliance of a State safety oversight agency or State safety oversight program with this subsection.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5329(a) | 49 App.:1618(a). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 22(a); added Jan. 6, 1983 , Pub. L. 97–424, § 318(b) , 96 Stat. 2154 ; Dec. 18, 1991 , Pub. L. 102–240, § 3026(1) , 105 Stat. 2114 . |
+| 5329(b) | 49 App.:1618(b). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 22(b); added Dec. 18, 1991 , Pub. L. 102–240, § 3026(2) , 105 Stat. 2114 . |
+
+
+Definition
+
+National Public Transportation Safety Plan.—
+
+In general
+
+Contents of plan
+
+Plan updates
+
+Public Transportation Safety Certification Training Program
+
+Public Transportation Agency Safety Plan.—
+
+In general
+
+Interim agency safety plan
+
+Public transportation agency safety plan drafting and certification.—
+
+Section 5311
+
+Section 5307
+
+Risk reduction performance targets.—
+
+In general
+
+Safety set aside
+
+Failure to meet performance targets
+
+Eligible projects
+
+Safety committee.—
+
+In general
+
+Applicability
+
+State Safety Oversight Program.—
+
+Applicability
+
+Definition
+
+In general
+
+State safety oversight agency.—
+
+In general
+
+Waiver
+
+Programs for multi-state rail fixed guideway public transportation systems
+
+Grants.—
+
+In general
+
+Apportionment.—
+
+Formula
+
+Administrative requirements
+
+Government share.—
+
+In general
+
+In-kind contributions
+
+Non-government share
+
+Safety training program
+
+Certification process.—
+
+In general
+
+Issuance of certifications and denials
+
+Disapproval
+
+Failure to correct
+
+Federal safety management.—
+
+In general
+
+Temporary federal oversight
+
+Failure to correct
+
+Administrative and oversight activities
+
+Evaluation of program and annual report
+
+Federal oversight
+
+Effectiveness of enforcement authorities and practices
+
+Authority of Secretary
+
+Enforcement Actions.—
+
+Types of enforcement actions
+
+Use or withholding of funds.—
+
+In general
+
+Notice
+
+Restrictions and Prohibitions.—
+
+Restrictions and prohibitions
+
+Notice
+
+Continued authority
+
+Consultation by the Secretary of Homeland Security
+
+Actions Under State Law.—
+
+Rule of construction
+
+Effective date
+
+Jurisdiction
+
+Inspections.—
+
+Inspection access.—
+
+In general
+
+Policies and procedures
+
+Data collection.—
+
+In general
+
+Policies and procedures
+
+Incorporation
+
+Assessment by secretary
+
+Special directive
+
+Enforcement
+
+Historical and Revision Notes
+
+5329(a)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 318(b)
+
+96 Stat. 2154
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3026(1)
+
+105 Stat. 2114
+
+5329(b)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3026(2)
+
+105 Stat. 2114
+
+Requirements
+
+Consideration
+
+Savings Clause
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 830](https://www.govinfo.gov/link/statute/108/830); [Pub. L. 109–59, title III, § 3028(a)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1624](https://www.govinfo.gov/link/statute/119/1624); [Pub. L. 112–141, div. B, § 20021(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 709](https://www.govinfo.gov/link/statute/126/709); [Pub. L. 114–94, div. A, title III, § 3013](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1476](https://www.govinfo.gov/link/statute/129/1476); [Pub. L. 117–58, div. C, § 30012(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 904](https://www.govinfo.gov/link/statute/135/904).)*

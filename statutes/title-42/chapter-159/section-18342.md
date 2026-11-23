@@ -3,9 +3,10 @@ title: "Section 18342 - Requirements applicable to development of commercial cre
 usc_title: 42
 usc_section: "18342"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18342"
-generated_at: "2026-03-30T02:56:11.519Z"
+generated_at: "2026-11-23T20:27:23.797Z"
+status: "active"
 ---
 
 # § 18342. Requirements applicable to development of commercial crew transportation capabilities and services
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.519Z"
   - **(4)** In evaluating any proposed development activity for commercially-developed crew or cargo launch capabilities, the Administrator shall identify the anticipated contribution of government personnel, expertise, technologies, and infrastructure to be utilized in support of design, development, or operations of such capabilities. This assessment shall include a clear delineation of the full requirements for the commercial crew service (including the contingency for crew rescue). The Administrator shall include details and associated costs of such support as part of any proposed development initiative for the procurement of commercially-developed crew or cargo launch capabilities or services.
   - **(5)** The Administrator shall establish appropriate milestones and minimum performance objectives to be achieved before authority is granted to proceed to the procurement of commercially-developed crew transportation capabilities or systems. The guidelines shall include a procedure to provide independent assurance of flight safety and flight readiness before the authorization of United States government personnel to participate as crew onboard any commercial launch vehicle developed pursuant to this section.
   - **(6)** The provision of a commercial capability to provide ISS crew services shall include crew rescue requirements, and shall be undertaken through the procurement process initiated in conformance with this section. In the event such development is initiated, the Administrator shall make available any relevant government-owned intellectual property deriving from the development of a multi-purpose crew vehicle authorized by this chapter to commercial entities involved with such crew rescue capability development which shall be relevant to the design of a crew rescue capability. In addition, the Administrator shall seek to ensure that contracts for development of the multi-purpose crew vehicle contain provisions for the licensing of relevant intellectual property to participating commercial providers of any crew rescue capability development undertaken pursuant to this section. If one or more contractors involved with development of the multi-purpose crew vehicle seek to compete in development of a commercial crew service with crew rescue capability, separate legislative authority must be enacted to enable the Administrator to provide funding for any modifications of the multi-purpose crew vehicle necessary to fulfill the ISS crew rescue function.
+
+## Source Credit
+
+*([Pub. L. 111–267, title IV, § 403](https://www.govinfo.gov/link/plaw/111/public/267), Oct. 11, 2010, [124 Stat. 2820](https://www.govinfo.gov/link/statute/124/2820).)*

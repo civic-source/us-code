@@ -3,9 +3,10 @@ title: "Section 316a - Definitions"
 usc_title: 43
 usc_section: "316a"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 316a"
-generated_at: "2026-03-30T02:55:57.437Z"
+generated_at: "2026-11-23T20:27:06.179Z"
+status: "active"
 ---
 
 # § 316a. Definitions
@@ -16,3 +17,7 @@ As used in this subchapter—
   - **(2)** The term “district” means any grazing district established under the provisions of section 316b of this title .
   - **(3)** The term “Secretary” means the Secretary of the Interior.
   - **(4)** The term “lessee” means the holder of any lease.
+
+## Source Credit
+
+*(Mar. 4, 1927, ch. 513, § 2, [44 Stat. 1452](https://www.govinfo.gov/link/statute/44/1452).)*

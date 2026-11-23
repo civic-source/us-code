@@ -3,9 +3,10 @@ title: "Section 323 - Lead agency officials for Government service delivery"
 usc_title: 5
 usc_section: "323"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 323"
-generated_at: "2026-03-30T02:52:55.979Z"
+generated_at: "2026-11-23T20:25:31.663Z"
+status: "active"
 ---
 
 # § 323. Lead agency officials for Government service delivery
@@ -20,3 +21,11 @@ generated_at: "2026-03-30T02:52:55.979Z"
   - **(6)** Facilitate collaboration among and between offices, and components within the agency and with other agencies as appropriate, in coordination with the Federal Government Service Delivery Lead, to improve and enhance Government service delivery.
   - **(7)** Assist with the implementation by the agency of the 21st Century Integrated Digital Experience Act ( 15 U.S.C. 3501 note; Public Law 115–336 ).
   - **(8)** Assist in the incorporation of the Government service delivery requirements established under this subchapter in agency plans (such as strategic plans or annual performance plans).
+
+Responsibility for Government Service Delivery
+
+Lead Agency Service Delivery Officials
+
+## Source Credit
+
+*(Added [Pub. L. 118–231, § 2(a)](https://www.govinfo.gov/link/plaw/118/public/231), Jan. 4, 2025, [138 Stat. 2831](https://www.govinfo.gov/link/statute/138/2831).)*

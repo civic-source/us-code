@@ -3,9 +3,10 @@ title: "Section 2106 - Veterans’ mortgage life insurance"
 usc_title: 38
 usc_section: "2106"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 2106"
-generated_at: "2026-03-30T02:55:53.496Z"
+generated_at: "2026-11-23T20:27:01.782Z"
+status: "active"
 ---
 
 # § 2106. Veterans’ mortgage life insurance
@@ -28,3 +29,15 @@ generated_at: "2026-03-30T02:55:53.496Z"
   - **(2)** Termination of the individual’s ownership of the property securing the loan.
   - **(3)** Discontinuance of payment of premiums by the individual.
 - **(j)** Termination of life insurance under this section shall not affect the guaranty or insurance of the loan by the Secretary.
+
+Savings Provision
+
+Discontinuance of Contract Program
+
+Former Section
+
+Defined
+
+## Source Credit
+
+*(Added [Pub. L. 92–95, § 1](https://www.govinfo.gov/link/plaw/92/public/95), Aug. 11, 1971, [85 Stat. 320](https://www.govinfo.gov/link/statute/85/320), § 806; amended [Pub. L. 94–433, title III, § 302](https://www.govinfo.gov/link/plaw/94/public/433), Sept. 30, 1976, [90 Stat. 1377](https://www.govinfo.gov/link/statute/90/1377); [Pub. L. 99–576, title VII, § 701(49)](https://www.govinfo.gov/link/plaw/99/public/576), Oct. 28, 1986, [100 Stat. 3295](https://www.govinfo.gov/link/statute/100/3295); [Pub. L. 100–322, title III, § 333(a)(1)](https://www.govinfo.gov/link/plaw/100/public/322), May 20, 1988, [102 Stat. 537](https://www.govinfo.gov/link/statute/102/537); renumbered § 2106 and amended [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406](https://www.govinfo.gov/link/statute/105/404); [Pub. L. 102–568, title II, § 204(a)](https://www.govinfo.gov/link/plaw/102/public/568), Oct. 29, 1992, [106 Stat. 4325](https://www.govinfo.gov/link/statute/106/4325); [Pub. L. 103–446, title XII, § 1201(h)(2)](https://www.govinfo.gov/link/plaw/103/public/446), Nov. 2, 1994, [108 Stat. 4688](https://www.govinfo.gov/link/statute/108/4688); [Pub. L. 105–368, title VI, § 602(e)(2)](https://www.govinfo.gov/link/plaw/105/public/368), Nov. 11, 1998, [112 Stat. 3347](https://www.govinfo.gov/link/statute/112/3347); [Pub. L. 107–330, title III, § 302](https://www.govinfo.gov/link/plaw/107/public/330), Dec. 6, 2002, [116 Stat. 2824](https://www.govinfo.gov/link/statute/116/2824); [Pub. L. 110–289, div. B, title VI, § 2602(b)(6)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2860](https://www.govinfo.gov/link/statute/122/2860); [Pub. L. 111–275, title IV, § 407(a)](https://www.govinfo.gov/link/plaw/111/public/275), Oct. 13, 2010, [124 Stat. 2880](https://www.govinfo.gov/link/statute/124/2880); [Pub. L. 115–177, § 1(c)(4)](https://www.govinfo.gov/link/plaw/115/public/177), June 1, 2018, [132 Stat. 1377](https://www.govinfo.gov/link/statute/132/1377).)*

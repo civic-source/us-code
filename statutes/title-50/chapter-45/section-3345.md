@@ -3,9 +3,10 @@ title: "Section 3345 - Limitation on handling, retention, and storage of certain
 usc_title: 50
 usc_section: "3345"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3345"
-generated_at: "2026-03-30T02:56:26.246Z"
+generated_at: "2026-11-23T20:27:30.971Z"
+status: "active"
 ---
 
 # § 3345. Limitation on handling, retention, and storage of certain classified materials by the Department of State
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:26.246Z"
   - **(3)** The term “covered element of the Department of State” means each element of the Department of State that handles, retains, or stores covered classified material.
   - **(4)** The term “material” means any data, regardless of physical form or characteristic, including written or printed matter, automated information systems storage media, maps, charts, paintings, drawings, films, photographs, engravings, sketches, working notes, papers, reproductions of any such things by any means or process, and sound, voice, magnetic, or electronic recordings.
   - **(5)** The term “Sensitive Compartmented Information (SCI) level”, in the case of classified material, means a level of classification for information in such material concerning or derived from intelligence sources, methods, or analytical processes that requires such information to be handled within formal access control systems established by the Director of Central Intelligence.
+
+## Source Credit
+
+*([Pub. L. 106–567, title III, § 309](https://www.govinfo.gov/link/plaw/106/public/567), Dec. 27, 2000, [114 Stat. 2840](https://www.govinfo.gov/link/statute/114/2840).)*

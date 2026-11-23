@@ -3,9 +3,10 @@ title: "Section 17903 - Study and reports"
 usc_title: 42
 usc_section: "17903"
 chapter: 156
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17903"
-generated_at: "2026-03-30T02:56:11.509Z"
+generated_at: "2026-11-23T20:27:23.764Z"
+status: "active"
 ---
 
 # § 17903. Study and reports
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:11.509Z"
   - **(4)** For purposes of this subsection:
     - **(A)** The term “aging services technology” means health technology that meets the health care needs of seniors, individuals with disabilities, and the caregivers of such seniors and individuals.
     - **(B)** The term “senior” has such meaning as specified by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 111–5, div. A, title XIII, § 13113](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 243](https://www.govinfo.gov/link/statute/123/243).)*

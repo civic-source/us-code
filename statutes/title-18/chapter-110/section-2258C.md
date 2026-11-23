@@ -3,9 +3,10 @@ title: "Section 2258C - Use to combat child pornography of technical elements re
 usc_title: 18
 usc_section: "2258C"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2258C"
-generated_at: "2026-03-30T02:54:16.499Z"
+generated_at: "2026-11-23T20:26:08.572Z"
+status: "active"
 ---
 
 # § 2258C. Use to combat child pornography of technical elements relating to reports made to the CyberTipline
@@ -18,3 +19,23 @@ generated_at: "2026-03-30T02:54:16.499Z"
 - **(c)** Nothing in subsections 1 1 So in original. Probably should be “subsection”. (a) or (b) requires providers receiving elements relating to any CyberTipline report from NCMEC to use the elements to stop the online sexual exploitation of children.
 - **(d)** NCMEC may make available to Federal, State, and local law enforcement, and to foreign law enforcement agencies described in section 2258A(c)(3), involved in the investigation of child sexual exploitation crimes elements, including hash values, relating to any apparent child pornography visual depiction reported to the CyberTipline.
 - **(e)** Any foreign, Federal, State, or local law enforcement agency that receives elements relating to any apparent child pornography visual depiction from NCMEC under subsection (d) may use such elements only in the performance of the official duties of that agency to investigate child sexual exploitation crimes, and prevent future sexual victimization of children.
+
+Elements.—
+
+In general
+
+Inclusions
+
+Exclusion
+
+Use by Providers
+
+Limitations
+
+Provision of Elements to Law Enforcement
+
+Use by Law Enforcement
+
+## Source Credit
+
+*(Added [Pub. L. 110–401, title V, § 501(a)](https://www.govinfo.gov/link/plaw/110/public/401), Oct. 13, 2008, [122 Stat. 4249](https://www.govinfo.gov/link/statute/122/4249); amended [Pub. L. 115–395, § 4](https://www.govinfo.gov/link/plaw/115/public/395), Dec. 21, 2018, [132 Stat. 5292](https://www.govinfo.gov/link/statute/132/5292).)*

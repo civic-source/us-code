@@ -3,9 +3,10 @@ title: "Section 5340 - Apportionments based on growing States and high density S
 usc_title: 49
 usc_section: "5340"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 5340"
-generated_at: "2026-03-30T02:56:19.318Z"
+generated_at: "2026-11-23T20:27:34.686Z"
+status: "active"
 ---
 
 # § 5340. Apportionments based on growing States and high density States formula factors
@@ -29,3 +30,35 @@ generated_at: "2026-03-30T02:56:19.318Z"
   - **(3)** For each State qualifying for an apportionment under paragraph (1), the Secretary shall calculate an amount equal to the difference between the total population of the State less the amount calculated in paragraph (2).
   - **(4)** Each State qualifying for an apportionment under paragraph (1) shall receive an amount equal to the amount to be apportioned under this subsection multiplied by the amount calculated for the State under paragraph (3) divided by the sum of the amounts calculated under paragraph (3) for all States qualifying for an apportionment under paragraph (1).
   - **(5)** The Secretary shall apportion amounts made available to each State under paragraph (4) so that each urbanized area receives an amount equal to the amount apportioned under paragraph (4) multiplied by a ratio equal to the population of each urbanized area divided by the sum of populations of all urbanized areas in the State. Amounts apportioned to each urbanized area shall be added to amounts apportioned to that urbanized area under section 5336, and made available for grants under section 5307.
+
+Definition
+
+Allocation
+
+Growing State Apportionments.—
+
+Apportionment among states
+
+Apportionments between urbanized areas and other than urbanized areas in each state.—
+
+In general
+
+Remaining amounts
+
+Apportionments among urbanized areas in each state
+
+High Density State Apportionments
+
+Eligible states
+
+State urbanized land factor
+
+State apportionment factor
+
+State apportionment
+
+Apportionments among urbanized areas in each state
+
+## Source Credit
+
+*(Added [Pub. L. 109–59, title III, § 3038(a)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1636](https://www.govinfo.gov/link/statute/119/1636); amended [Pub. L. 114–94, div. A, title III, § 3030(f)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1497](https://www.govinfo.gov/link/statute/129/1497).)*

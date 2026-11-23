@@ -3,9 +3,10 @@ title: "Section 2326h - Five-year regional dredged material management plans"
 usc_title: 33
 usc_section: "2326h"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2326h"
-generated_at: "2026-03-30T02:55:41.124Z"
+generated_at: "2026-11-23T20:26:54.183Z"
+status: "active"
 ---
 
 # § 2326h. Five-year regional dredged material management plans
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:41.124Z"
   - **(6)** A plan developed under this section—
     - **(A)** shall be in addition to regional sediment management plans prepared under section 2326(a) of this title ; and
     - **(B)** shall not be subject to the limitations in section 2326(g) of this title .
+
+## Source Credit
+
+*([Pub. L. 116–260, div. AA, title I, § 125(c)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2638](https://www.govinfo.gov/link/statute/134/2638).)*

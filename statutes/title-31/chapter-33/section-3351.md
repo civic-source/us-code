@@ -3,9 +3,10 @@ title: "Section 3351 - Definitions"
 usc_title: 31
 usc_section: "3351"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 3351"
-generated_at: "2026-03-30T02:55:34.055Z"
+generated_at: "2026-11-23T20:26:51.769Z"
+status: "active"
 ---
 
 # § 3351. Definitions
@@ -35,3 +36,41 @@ In this subchapter:
   - **(6)** The term “payment for an ineligible good or service” includes a payment for any good or service that is rejected under any provision of any contract, grant, lease, cooperative agreement, or other funding mechanism.
   - **(7)** The term “recovery audit” means a recovery audit described in section 3352(i).
   - **(8)** The term “State” means each State of the United States, the District of Columbia, each territory or possession of the United States, and each Federally recognized Indian tribe.
+
+Annual financial statement
+
+Compliance
+
+Do not pay initiative
+
+Improper payment
+
+Payment
+
+Payment for an ineligible good or service
+
+Recovery audit
+
+State
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+Barack Obama.
+
+Barack Obama.
+
+## Source Credit
+
+*(Added [Pub. L. 116–117, § 2(a)](https://www.govinfo.gov/link/plaw/116/public/117), Mar. 2, 2020, [134 Stat. 113](https://www.govinfo.gov/link/statute/134/113).)*

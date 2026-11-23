@@ -3,9 +3,10 @@ title: "Section 8549 - Cost recovery reform"
 usc_title: 16
 usc_section: "8549"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 8549"
-generated_at: "2026-03-30T02:54:23.088Z"
+generated_at: "2026-11-23T20:26:20.897Z"
+status: "active"
 ---
 
 # § 8549. Cost recovery reform
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:23.088Z"
   - **(2)** apply the exemption described in subsection (b) to each applicant on an individual basis.
 - **(d)** The Secretary concerned shall not assess or collect administrative costs under this section for a programmatic environmental review.
 - **(e)** To the maximum extent practicable, the agency processing an application for a special recreation permit shall use existing studies and analysis to reduce the quantity of work and costs necessary to process the application.
+
+## Source Credit
+
+*([Pub. L. 118–234, title III, § 320](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2908](https://www.govinfo.gov/link/statute/138/2908).)*

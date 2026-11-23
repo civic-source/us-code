@@ -3,9 +3,10 @@ title: "Section 902 - Definitions"
 usc_title: 33
 usc_section: "902"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 902"
-generated_at: "2026-03-30T02:55:41.075Z"
+generated_at: "2026-11-23T20:26:53.931Z"
+status: "active"
 ---
 
 # § 902. Definitions
@@ -46,3 +47,7 @@ When used in this chapter—
   - **(20)** The term “Board” shall mean the Benefits Review Board.
   - **(21)** Unless the context requires otherwise, the term “vessel” means any vessel upon which or in connection with which any person entitled to benefits under this chapter suffers injury or death arising out of or in the course of his employment, and said vessel’s owner, owner pro hac vice, agent, operator, charter or bare boat charterer, master, officer, or crew member.
   - **(22)** The singular includes the plural and the masculine includes the feminine and neuter.
+
+## Source Credit
+
+*(Mar. 4, 1927, ch. 509, § 2, [44 Stat. 1424](https://www.govinfo.gov/link/statute/44/1424); June 25, 1938, ch. 685, § 1, [52 Stat. 1164](https://www.govinfo.gov/link/statute/52/1164); [Pub. L. 92–576](https://www.govinfo.gov/link/plaw/92/public/576), §§ 2(a), (b), 3, 5(b), 15(c), 18(b), 20(c)(1), Oct. 27, 1972, [86 Stat. 1251](https://www.govinfo.gov/link/statute/86/1251), 1253, 1262, 1263, 1265; [Pub. L. 98–426](https://www.govinfo.gov/link/plaw/98/public/426), §§ 2, 5(a)(2), 27(a)(1), Sept. 28, 1984, [98 Stat. 1639](https://www.govinfo.gov/link/statute/98/1639), 1641, 1654; [Pub. L. 111–5, div. A, title VIII, § 803](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 187](https://www.govinfo.gov/link/statute/123/187).)*

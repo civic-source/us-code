@@ -3,12 +3,17 @@ title: "Section 445 - Canyon De Chelly National Monument; establishment; boundar
 usc_title: 16
 usc_section: "445"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 445"
-generated_at: "2026-03-30T02:54:22.799Z"
+generated_at: "2026-11-23T20:26:19.855Z"
+status: "active"
 ---
 
 # § 445. Canyon De Chelly National Monument; establishment; boundaries
 
 With the consent of the tribal council of the Navajo Tribe of Indians, the President of the United States is authorized to establish by presidential proclamation the Canyon De Chelly National Monument, within the Navajo Indian Reservation, Arizona, including the lands hereinafter described. All lands in Del Muerto, De Chelly, and Monument Canyons, in the canyons tributary thereto, and the lands within one-half mile of the rims of the said canyons, situated in unsurveyed townships 4 and 5 north, range 7 west; townships 4, 5, and 6 north, range 8 west; townships 4 and 5 north, range 9 west; and in surveyed townships 4 and 5 north, range 6 west; townships 3, 6, and 7 north, range 7 west; township 6 north, range 9 west; and township 5 north, range 10 west; embracing about eighty-three thousand eight hundred and forty acres, all of the Navajo meridian, in Arizona.
 
+
+## Source Credit
+
+*(Feb. 14, 1931, ch. 188, § 1, [46 Stat. 1161](https://www.govinfo.gov/link/statute/46/1161); Mar. 1, 1933, ch. 161, [47 Stat. 1419](https://www.govinfo.gov/link/statute/47/1419).)*

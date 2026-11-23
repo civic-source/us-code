@@ -3,9 +3,10 @@ title: "Section 6966c - Best practices for battery recycling and labeling guidel
 usc_title: 42
 usc_section: "6966c"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6966c"
-generated_at: "2026-03-30T02:56:11.277Z"
+generated_at: "2026-11-23T20:27:22.755Z"
+status: "active"
 ---
 
 # § 6966c. Best practices for battery recycling and labeling guidelines
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:56:11.277Z"
     - **(A)** international battery labeling standards; and
     - **(B)** the Mercury-Containing and Rechargeable Battery Management Act ( 42 U.S.C. 14301 et seq.).
   - **(4)** There is authorized to be appropriated to the Administrator to carry out this subsection $15,000,000 for fiscal year 2022, to remain available until September 30, 2026 .
+
+## Source Credit
+
+*([Pub. L. 117–58, div. G, title IV, § 70401](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1261](https://www.govinfo.gov/link/statute/135/1261).)*

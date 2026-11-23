@@ -3,9 +3,10 @@ title: "Section 5363 - Pay retention"
 usc_title: 5
 usc_section: "5363"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 5363"
-generated_at: "2026-03-30T02:52:56.015Z"
+generated_at: "2026-11-23T20:25:31.913Z"
+status: "active"
 ---
 
 # § 5363. Pay retention
@@ -38,3 +39,15 @@ generated_at: "2026-03-30T02:52:56.015Z"
   - **(1)** has a break in service of 1 workday or more;
   - **(2)** is entitled, by operation of this subchapter, chapter 51 or 53, or any other provision of law, to a rate of basic pay which is equal to or higher than, or declines a reasonable offer of a position the rate of basic pay for which is equal to or higher than, the retained rate to which the employee would otherwise be entitled; or
   - **(3)** is demoted for personal cause or at the employee’s request.
+
+Effective date
+
+Conversion rules.—
+
+Individuals receiving a retained rate or a rate greater than the maximum rate for the grade
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title VIII, § 801(a)(1)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1219](https://www.govinfo.gov/link/statute/92/1219); amended [Pub. L. 101–509, title V, § 529 [title I, §§ 101(b)(3)(B), 105(b)(2)]](https://www.govinfo.gov/link/plaw/101/public/509), Nov. 5, 1990, [104 Stat. 1427](https://www.govinfo.gov/link/statute/104/1427), 1439, 1448; [Pub. L. 103–89, § 3(b)(1)(L)](https://www.govinfo.gov/link/plaw/103/public/89), Sept. 30, 1993, [107 Stat. 982](https://www.govinfo.gov/link/statute/107/982); [Pub. L. 108–411, title III, § 301(a)(5)](https://www.govinfo.gov/link/plaw/108/public/411), Oct. 30, 2004, [118 Stat. 2316](https://www.govinfo.gov/link/statute/118/2316).)*

@@ -3,9 +3,10 @@ title: "Section 3718 - President’s Council on Innovation and Competitiveness"
 usc_title: 15
 usc_section: "3718"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 3718"
-generated_at: "2026-03-30T02:54:08.193Z"
+generated_at: "2026-11-23T20:26:04.305Z"
+status: "active"
 ---
 
 # § 3718. President’s Council on Innovation and Competitiveness
@@ -60,3 +61,9 @@ generated_at: "2026-03-30T02:54:08.193Z"
     - **(A)** Not later than 1 year after August 9, 2007 , the Council shall submit to Congress and the President the comprehensive agenda required by paragraph (1).
     - **(B)** At least once every 2 years, the Council shall update the comprehensive agenda required by paragraph (1) and submit each such update to Congress and the President.
 - **(e)** Notwithstanding subsection (a) and paragraphs (1) and (2) of subsection (c), the President may designate an existing council to carry out the requirements of this section.
+
+George W. Bush.
+
+## Source Credit
+
+*([Pub. L. 110–69, title I, § 1006](https://www.govinfo.gov/link/plaw/110/public/69), Aug. 9, 2007, [121 Stat. 578](https://www.govinfo.gov/link/statute/121/578).)*

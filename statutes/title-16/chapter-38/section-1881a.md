@@ -3,9 +3,10 @@ title: "Section 1881a - Information collection"
 usc_title: 16
 usc_section: "1881a"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1881a"
-generated_at: "2026-03-30T02:54:22.995Z"
+generated_at: "2026-11-23T20:26:20.577Z"
+status: "active"
 ---
 
 # § 1881a. Information collection
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:54:22.995Z"
     - **(B)** in the case of a survey during which the quantity or quality of fish harvested is not expected to be adequately compensatory, may structure those solicitations so as to provide that compensation by permitting the contractor to harvest on a subsequent voyage and retain for sale a portion of the allowable catch of the surveyed fishery; and
     - **(C)** may permit fish harvested during such survey to count toward a vessel’s catch history under a fishery management plan if such survey was conducted in a manner that precluded a vessel’s participation in a fishery that counted under the plan for purposes of determining catch history.
   - **(3)** The Secretary shall undertake efforts to expand annual fishery resource assessments in all regions of the Nation.
+
+## Source Credit
+
+*([Pub. L. 94–265, title IV, § 402](https://www.govinfo.gov/link/plaw/94/public/265), as added [Pub. L. 104–297, title II, § 203](https://www.govinfo.gov/link/plaw/104/public/297), Oct. 11, 1996, [110 Stat. 3607](https://www.govinfo.gov/link/statute/110/3607); amended [Pub. L. 109–479, § 3(d)(1)(A)](https://www.govinfo.gov/link/plaw/109/public/479), title II, §§ 202, 203(a), Jan. 12, 2007, [120 Stat. 3578](https://www.govinfo.gov/link/statute/120/3578), 3612, 3613; [Pub. L. 117–263, div. K, title CXIII, § 11333](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4100](https://www.govinfo.gov/link/statute/136/4100).)*

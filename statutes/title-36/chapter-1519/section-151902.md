@@ -3,9 +3,10 @@ title: "Section 151902 - Purposes"
 usc_title: 36
 usc_section: "151902"
 chapter: 1519
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 151902"
-generated_at: "2026-03-30T02:55:44.704Z"
+generated_at: "2026-11-23T20:26:58.990Z"
+status: "active"
 ---
 
 # § 151902. Purposes
@@ -15,3 +16,20 @@ The purposes of the corporation are to raise from private sources, administer, a
   - **(1)** the interpretation of the needs of medical education to the American public;
   - **(2)** the encouragement of the growth, development, and advancement of constantly improving standards and methods in the education and training of all medical personnel in the United States; and
   - **(3)** the preservation of academic freedom in the institutions of medical education.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 151902 | 36:603. | Aug. 28, 1954, ch. 1036, § 3 , 68 Stat. 892 . |
+
+
+Historical and Revision Notes
+
+151902
+
+Aug. 28, 1954, ch. 1036, § 3
+
+68 Stat. 892
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1408](https://www.govinfo.gov/link/statute/112/1408).)*

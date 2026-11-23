@@ -3,9 +3,10 @@ title: "Section 1552 - Criteria for long-range operation of reservoirs"
 usc_title: 43
 usc_section: "1552"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1552"
-generated_at: "2026-03-30T02:55:57.476Z"
+generated_at: "2026-11-23T20:27:06.301Z"
+status: "active"
 ---
 
 # § 1552. Criteria for long-range operation of reservoirs
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:57.476Z"
   - **(3)** storage of water not required for the releases specified in clauses (1) and (2) of this subsection to the extent that the Secretary, after consultation with the Upper Colorado River Commission and representatives of the three Lower Division States and taking into consideration all relevant factors (including, but not limited to, historic stream-flows, the most critical period of record, and probabilities of water supply), shall find this to be reasonably necessary to assure deliveries under clauses (1) and (2) without impairment of annual consumptive uses in the upper basin pursuant to the Colorado River Compact: Provided , That water not so required to be stored shall be released from Lake Powell: (i) to the extent it can be reasonably applied in the States of the Lower Division to the uses specified in article III(e) of the Colorado River Compact, but no such releases shall be made when the active storage in Lake Powell is less than the active storage in Lake Mead, (ii) to maintain, as nearly as practicable, active storage in Lake Mead equal to the active storage in Lake Powell, and (iii) to avoid anticipated spills from Lake Powell.
 - **(b)** Not later than January 1, 1970 , the criteria proposed in accordance with the foregoing subsection (a) of this section shall be submitted to the Governors of the seven Colorado River Basin States and to such other parties and agencies as the Secretary may deem appropriate for their review and comment. After receipt of comments on the proposed criteria, but not later than July 1, 1970 , the Secretary shall adopt appropriate criteria in accordance with this section and publish the same in the Federal Register. Beginning January 1, 1972 , and yearly thereafter, the Secretary shall transmit to the Congress and to the Governors of the Colorado River Basin States a report describing the actual operation under the adopted criteria for the preceding compact water year and the projected operation for the current year. As a result of actual operating experience or unforeseen circumstances, the Secretary may thereafter modify the criteria to better achieve the purposes specified in subsection (a) of this section, but only after correspondence with the Governors of the seven Colorado River Basin States and appropriate consultation with such State representatives as each Governor may designate.
 - **(c)** Section 7 of the Colorado River Storage Project Act [ 43 U.S.C. 620f ] shall be administered in accordance with the foregoing criteria.
+
+## Source Credit
+
+*([Pub. L. 90–537, title VI, § 602](https://www.govinfo.gov/link/plaw/90/public/537), Sept. 30, 1968, [82 Stat. 900](https://www.govinfo.gov/link/statute/82/900).)*

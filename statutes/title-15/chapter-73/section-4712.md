@@ -3,9 +3,10 @@ title: "Section 4712 - Barter and countertrade"
 usc_title: 15
 usc_section: "4712"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 4712"
-generated_at: "2026-03-30T02:54:08.202Z"
+generated_at: "2026-11-23T20:26:04.352Z"
+status: "active"
 ---
 
 # § 4712. Barter and countertrade
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:08.202Z"
     - **(B)** organize and disseminate information relating to international barter in a manner useful to business firms, educational institutions, export-related Federal, State, and local government agencies, and other interested persons, including publishing periodic lists of known commercial opportunities for barter transactions beneficial to United States enterprises;
     - **(C)** notify Federal agencies with operations abroad of instances where it would be beneficial to the United States for the Federal Government to barter Government-owned surplus commodities for goods and services purchased abroad by the Federal Government; and
     - **(D)** provide assistance to enterprises seeking barter and countertrade opportunities.
+
+## Source Credit
+
+*([Pub. L. 100–418, title II, § 2205](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1332](https://www.govinfo.gov/link/statute/102/1332).)*

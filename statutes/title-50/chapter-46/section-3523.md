@@ -3,9 +3,10 @@ title: "Section 3523 - Intelligence operations and cover enhancement authority"
 usc_title: 50
 usc_section: "3523"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3523"
-generated_at: "2026-03-30T02:56:26.255Z"
+generated_at: "2026-11-23T20:27:31.022Z"
+status: "active"
 ---
 
 # § 3523. Intelligence operations and cover enhancement authority
@@ -86,3 +87,11 @@ generated_at: "2026-03-30T02:56:26.255Z"
 - **(i)** The Director of the Central Intelligence Agency shall prescribe regulations to carry out this section. The regulations shall ensure that the combination of salary, allowances, and benefits that an employee designated under this section may retain does not significantly exceed, except to the extent determined by the Director of the Central Intelligence Agency to be necessary to exercise the authority in subsection (b), the combination of salary, allowances, and benefits otherwise received by Federal employees not designated under this section.
 - **(j)** Any determinations authorized by this section to be made by the Director of the Central Intelligence Agency or the Director’s designee shall be final and conclusive and shall not be subject to review by any court.
 - **(k)** No law enacted after the effective date of this section shall affect the authorities and provisions of this section unless such law specifically refers to this section.
+
+(aa) interest as determined by the head of the agency administering the Federal retirement system into which the employee is converting; or
+
+(bb) in the case of an employee converting into the Federal Employees’ Retirement System, interest as determined under section 8334(e) of title 5 ; and
+
+## Source Credit
+
+*(June 20, 1949, ch. 227, § 23, as added [Pub. L. 108–487, title IV, § 402](https://www.govinfo.gov/link/plaw/108/public/487), Dec. 23, 2004, [118 Stat. 3946](https://www.govinfo.gov/link/statute/118/3946).)*

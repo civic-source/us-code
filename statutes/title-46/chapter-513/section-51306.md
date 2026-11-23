@@ -3,9 +3,10 @@ title: "Section 51306 - Cadet commitment agreements"
 usc_title: 46
 usc_section: "51306"
 chapter: 513
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 51306"
-generated_at: "2026-03-30T02:56:15.569Z"
+generated_at: "2026-11-23T20:27:27.282Z"
+status: "active"
 ---
 
 # § 51306. Cadet commitment agreements
@@ -42,3 +43,81 @@ generated_at: "2026-03-30T02:56:15.569Z"
     - **(B)** may, in their discretion, notify the Secretary of any failure of the graduate to perform the graduate’s duties, either on active duty or in the Ready Reserve component of their respective service, or as a commissioned officer of the National Oceanic and Atmospheric Administration or the Public Health Service, respectively.
   - **(2)** A report or notice under paragraph (1) shall identify any graduate determined to have failed to comply with service obligation requirements and provide all required information as to why such graduate failed to comply.
   - **(3)** Upon receipt of such a report or notice, such graduate may be considered to be in default of the graduate’s service obligations by the Secretary, and subject to all remedies the Secretary may have with respect to such a default.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 51306(a) | 46 App.:1295b(e)(1). | June 29, 1936, ch. 858 , title XIII, § 1303(e)(1)–(4), as added Pub. L. 96–453, § 2 , Oct. 15, 1980 , 94 Stat. 2000 ; Pub. L. 97–31, § 12(144)(A) , Aug. 6, 1981 , 95 Stat. 166 ; Pub. L. 101–595, title VII, § 707(a) , Nov. 16, 1990 , 104 Stat. 2995 ; Pub. L. 108–136, title XXXV, § 3515(b) , Nov. 24, 2003 , 117 Stat. 1792 . |
+| 51306(b) | 46 App.:1295b(e)(2). |  |
+| 51306(c) | 46 App.:1295b(e)(3). |  |
+| 51306(d) | 46 App.:1295b(e)(4). |  |
+
+
+Agreement Requirements
+
+Failure To Complete Course of Instruction
+
+Active duty
+
+Recovery of cost
+
+Failure To Carry Out Other Requirements
+
+Active duty
+
+Recovery of cost
+
+Actions To Recover Cost
+
+Alternative Service.—
+
+Service as commissioned officer
+
+Modification or waiver
+
+Service Obligation Performance Reporting Requirement.—
+
+In general
+
+Information to be provided
+
+Considered as in default
+
+Historical and Revision Notes
+
+51306(a)
+
+June 29, 1936, ch. 858
+
+Pub. L. 96–453, § 2
+
+Oct. 15, 1980
+
+94 Stat. 2000
+
+Pub. L. 97–31, § 12(144)(A)
+
+Aug. 6, 1981
+
+95 Stat. 166
+
+Pub. L. 101–595, title VII, § 707(a)
+
+Nov. 16, 1990
+
+104 Stat. 2995
+
+Pub. L. 108–136, title XXXV, § 3515(b)
+
+Nov. 24, 2003
+
+117 Stat. 1792
+
+51306(b)
+
+51306(c)
+
+51306(d)
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(b)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1572](https://www.govinfo.gov/link/statute/120/1572); [Pub. L. 109–163, div. A, title V, § 515(g)(2)(A)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3236](https://www.govinfo.gov/link/statute/119/3236); [Pub. L. 109–364, div. C, title XXXV](https://www.govinfo.gov/link/plaw/109/public/364), §§ 3505(a), 3506(a), Oct. 17, 2006, [120 Stat. 2516](https://www.govinfo.gov/link/statute/120/2516), 2517; [Pub. L. 110–181, div. C, title XXXV](https://www.govinfo.gov/link/plaw/110/public/181), §§ 3523(a)(1), (b), 3526(b)(1), (c)(1), (g), Jan. 28, 2008, [122 Stat. 598](https://www.govinfo.gov/link/statute/122/598), 600–602; [Pub. L. 114–92, div. C, title XXXV, § 3506](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 1220](https://www.govinfo.gov/link/statute/129/1220).)*

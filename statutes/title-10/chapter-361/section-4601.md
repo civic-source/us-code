@@ -3,9 +3,10 @@ title: "Section 4601 - Electronic submission and processing of claims for contra
 usc_title: 10
 usc_section: "4601"
 chapter: 361
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 4601"
-generated_at: "2026-03-30T02:53:38.208Z"
+generated_at: "2026-11-23T20:25:51.959Z"
+status: "active"
 ---
 
 # § 4601. Electronic submission and processing of claims for contract payments
@@ -18,3 +19,17 @@ generated_at: "2026-03-30T02:53:38.208Z"
   - **(2)** The format in which information can be accepted by the corporate database of the Defense Finance and Accounting Service.
   - **(3)** The requirements to be included in contracts regarding the electronic submission of claims for payment by contractors.
 - **(e)** In this section, the term “claim for payment” means an invoice or any other demand or request for payment.
+
+Submission of Claims
+
+Processing
+
+Waiver Authority
+
+Implementation of Requirements
+
+Claim for Payment Defined
+
+## Source Credit
+
+*(Added [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title X, § 1008(a)(1)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–249, § 2227; renumbered § 4601, [Pub. L. 116–283, div. A, title XVIII, § 1861(b)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4277](https://www.govinfo.gov/link/statute/134/4277).)*

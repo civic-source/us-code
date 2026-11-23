@@ -3,9 +3,10 @@ title: "Section 1597 - Reorganization of government"
 usc_title: 48
 usc_section: "1597"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1597"
-generated_at: "2026-03-30T02:56:14.588Z"
+generated_at: "2026-11-23T20:27:28.061Z"
+status: "active"
 ---
 
 # § 1597. Reorganization of government
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:56:14.588Z"
 - **(a)** The Governor shall, within one year after July 22, 1954 , reorganize and consolidate the existing executive departments, bureaus, independent boards, agencies, authorities, commissions, and other instrumentalities of the government of the Virgin Islands or of the municipal governments into not more than nine executive departments except for independent bodies whose existence may be required by Federal law for participation in Federal programs. The head of each executive department other than the department of law shall be designated as the commissioner thereof, and the commissioner of finance shall be bonded. The head of the department of law shall be known as the attorney general of the Virgin Islands. Members of school boards, which entities of government have been duly organized and established by the government of the Virgin Islands, shall be popularly elected.
 - **(b)** The Governor shall, from time to time, after complying with the provisions of subsection (a) of this section, examine the organization of the executive branch of the government of the Virgin Islands, and shall make such changes therein, subject to the approval of the legislature, not inconsistent with this chapter, as he determines are necessary to promote effective management and to execute faithfully the purposes of this chapter and the laws of the Virgin Islands.
 - **(c)** The heads of the executive departments created by this chapter shall be appointed by the Governor, with the advice and consent of the legislature. Each shall hold office during the continuance in office of the Governor by whom he is appointed and until his successor is appointed and qualified, unless sooner removed by the Governor. Each shall have such powers and duties as may be prescribed by the legislature. The chairman and members of any board, authority, or commission established by the laws of the Virgin Islands shall, if the laws of the Virgin Islands hereafter provide, also be appointed by the Governor with the advice and consent of the legislature, if such board, authority, or commission has quasi-judicial functions: Provided , That no law of the Virgin Islands dealing with the chairmanship, membership, or chairmanship and membership of any such board, authority, or commission, and requiring an appointment or appointments to be made with the advice and consent of the legislature, shall relate to more than one such board, authority, or commission, nor shall it relate to any other legislative matter.
+
+## Source Credit
+
+*(July 22, 1954, ch. 558, § 16, [68 Stat. 504](https://www.govinfo.gov/link/statute/68/504); [Pub. L. 85–224](https://www.govinfo.gov/link/plaw/85/public/224), Aug. 30, 1957, [71 Stat. 510](https://www.govinfo.gov/link/statute/71/510); [Pub. L. 86–289, § 3](https://www.govinfo.gov/link/plaw/86/public/289), Sept. 16, 1959, [73 Stat. 569](https://www.govinfo.gov/link/statute/73/569); [Pub. L. 90–496, § 8(a)](https://www.govinfo.gov/link/plaw/90/public/496), Aug. 23, 1968, [82 Stat. 839](https://www.govinfo.gov/link/statute/82/839).)*

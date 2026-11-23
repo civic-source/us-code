@@ -3,9 +3,10 @@ title: "Section 923 - Space-available enrollment of students; tuition"
 usc_title: 20
 usc_section: "923"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 923"
-generated_at: "2026-03-30T02:54:48.087Z"
+generated_at: "2026-11-23T20:26:14.271Z"
+status: "active"
 ---
 
 # § 923. Space-available enrollment of students; tuition
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:48.087Z"
       - **(i)** are performing, on a full-time basis, services for the Armed Forces, including emergency services; and
       - **(ii)** reside in an overseas area supported by a school of the defense dependents’ education system.
   - **(2)** Notwithstanding subsection (c), the Secretary may not waive the tuition requirements of subsection (b)(1) with respect to children referred to in paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 95–561, title XIV, § 1404](https://www.govinfo.gov/link/plaw/95/public/561), Nov. 1, 1978, [92 Stat. 2366](https://www.govinfo.gov/link/statute/92/2366); [Pub. L. 99–145, title XII, § 1205](https://www.govinfo.gov/link/plaw/99/public/145), Nov. 8, 1985, [99 Stat. 721](https://www.govinfo.gov/link/statute/99/721); [Pub. L. 101–189, div. A, title III, § 325(b)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1415](https://www.govinfo.gov/link/statute/103/1415); [Pub. L. 108–136, div. A, title V, § 563](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1483](https://www.govinfo.gov/link/statute/117/1483); [Pub. L. 119–60, div. A, title V, § 582(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 888](https://www.govinfo.gov/link/statute/139/888).)*

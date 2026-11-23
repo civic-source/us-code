@@ -3,9 +3,10 @@ title: "Section 16283 - International nuclear energy"
 usc_title: 42
 usc_section: "16283"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16283"
-generated_at: "2026-03-30T02:56:11.478Z"
+generated_at: "2026-11-23T20:27:23.651Z"
+status: "active"
 ---
 
 # § 16283. International nuclear energy
@@ -270,3 +271,21 @@ generated_at: "2026-03-30T02:56:11.478Z"
   - **(1)** Except as expressly stated in this section, nothing in this section alters or otherwise affects the interpretation or implementation of section 123 of the Atomic Energy Act of 1954 ( 42 U.S.C. 2153 ) or any other provision of law, including the requirement that agreements pursuant to that section be submitted to Congress for consideration.
   - **(2)** Nothing in this section affects the authorities of the Nuclear Regulatory Commission.
 - **(q)** This section and the amendments made by this section shall cease to have effect on the date that is 20 years after December 18, 2025 .
+
+(aa) section 2371(a) of title 22 ;
+
+(bb) section 2780(d) of title 22 ;
+
+(cc) section 4813(c)(1)(A)(i) of title 50 ; or
+
+(dd) any other relevant provision of law.
+
+(aa) nuclear safety, security, safeguards, and sustainability;
+
+(bb) environmental safeguards; and
+
+(cc) local community engagement in areas in reasonable proximity to nuclear sites;
+
+## Source Credit
+
+*([Pub. L. 119–60, div. H, title LXXXIII, § 8366](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1889](https://www.govinfo.gov/link/statute/139/1889).)*

@@ -3,9 +3,10 @@ title: "Section 8923 - Sanctions relating to the defense and energy sectors of t
 usc_title: 22
 usc_section: "8923"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8923"
-generated_at: "2026-03-30T02:55:05.459Z"
+generated_at: "2026-11-23T20:26:32.744Z"
+status: "active"
 ---
 
 # § 8923. Sanctions relating to the defense and energy sectors of the Russian Federation
@@ -93,3 +94,49 @@ generated_at: "2026-03-30T02:55:05.459Z"
 - **(i)**
   - **(1)** Except as provided in paragraph (2), this section, and sanctions imposed under this section, shall terminate on the date on which the President submits to the appropriate congressional committees a certification that the Government of the Russian Federation has ceased ordering, controlling, or otherwise directing, supporting, or financing, significant acts intended to undermine the peace, security, stability, sovereignty, or territorial integrity of Ukraine, including through an agreement between the appropriate parties.
   - **(2)** The termination date under paragraph (1) shall not apply with respect to the provisions of subsection (a) relating to the transfer of defense articles into Syria or sanctions imposed pursuant to such provisions.
+
+In General
+
+Consultation and Report
+
+Certification
+
+Joint Resolution of Disapproval.—
+
+Definition
+
+Introduction in the house of representatives
+
+Introduction in the senate
+
+Floor consideration in the house of representatives.—
+
+Reporting and discharge
+
+Proceeding to consideration
+
+Consideration
+
+Consideration in the senate.—
+
+Committee referral
+
+Reporting and discharge
+
+Motion to proceed
+
+Debate
+
+Vote on passage
+
+Rules of the chair on procedure
+
+Consideration of veto messages
+
+Procedures in the senate
+
+Rules of the house of representatives and the senate
+
+## Source Credit
+
+*([Pub. L. 113–272, § 4](https://www.govinfo.gov/link/plaw/113/public/272), Dec. 18, 2014, [128 Stat. 2953](https://www.govinfo.gov/link/statute/128/2953); [Pub. L. 115–44, title II](https://www.govinfo.gov/link/plaw/115/public/44), §§ 225, 229(a), Aug. 2, 2017, [131 Stat. 910](https://www.govinfo.gov/link/statute/131/910), 915.)*

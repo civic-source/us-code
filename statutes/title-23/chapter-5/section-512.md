@@ -3,9 +3,10 @@ title: "Section 512 - National ITS program plan"
 usc_title: 23
 usc_section: "512"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 512"
-generated_at: "2026-03-30T02:55:12.573Z"
+generated_at: "2026-11-23T20:26:23.902Z"
+status: "active"
 ---
 
 # § 512. National ITS program plan
@@ -23,3 +24,179 @@ generated_at: "2026-03-30T02:55:12.573Z"
       - **(i)** determining desired surface transportation system performance levels; and
       - **(ii)** developing plans for accelerating the incorporation of specific intelligent transportation system capabilities into surface transportation systems.
 - **(b)** The National ITS program plan shall be submitted and biennially updated.
+
+In General.—
+
+Updates
+
+Scope
+
+Reporting
+
+Goals
+
+Purposes
+
+Scope
+
+Policy
+
+Cooperation With Governmental, Private, and Educational Entities
+
+Consultation With Federal Officials
+
+Technical Assistance, Training, and Information
+
+Transportation Planning
+
+Information Clearinghouse.—
+
+In general
+
+Agreement.—
+
+In general
+
+Federal financial assistance
+
+Availability of information
+
+Advisory Committee.—
+
+In general
+
+Membership
+
+Duties
+
+Report
+
+Applicability of chapter
+
+of title
+
+, united states code
+
+Reporting.—
+
+Guidelines and requirements.—
+
+In general
+
+Objectivity and independence
+
+Funding
+
+Special rule
+
+In General
+
+Priority Areas
+
+Federal Share
+
+In General.—
+
+Development, implementation, and maintenance
+
+Interoperability and efficiency
+
+Use of standards development organizations
+
+Use of expert panel.—
+
+Designation
+
+Nonapplicability of chapter
+
+of title
+
+, united states code
+
+Deadline for recommendation
+
+Provisional Standards.—
+
+In general
+
+Period of effectiveness
+
+Conformity With National Architecture.—
+
+In general
+
+Secretary’s discretion
+
+Exceptions
+
+Establishment
+
+Stakeholder Input
+
+Contents
+
+Activities
+
+Funding.—
+
+In general
+
+Funds for road weather research and development
+
+Establishment
+
+Goals
+
+Role of Centers
+
+Environmental excellence
+
+Surface transportation safety
+
+Rural safety
+
+Project finance
+
+Funding.—
+
+In general
+
+Allocation of funds
+
+Applicability of title 23
+
+Program Administration.—
+
+Competition
+
+Strategic plan
+
+Incident
+
+Intelligent transportation infrastructure
+
+Intelligent transportation system
+
+National architecture
+
+Project
+
+Standard
+
+State
+
+Transportation systems management and operations
+
+Categorical Exclusions
+
+Nationwide Programmatic Agreement.—
+
+Development
+
+Consultation
+
+Intelligent Transportation Infrastructure and Systems Defined
+
+## Source Credit
+
+*(Added [Pub. L. 109–59, title V, § 5301(a)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1804](https://www.govinfo.gov/link/statute/119/1804); amended [Pub. L. 114–94, div. A, title VI, § 6019(d)(1)(D)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1581](https://www.govinfo.gov/link/statute/129/1581).)*

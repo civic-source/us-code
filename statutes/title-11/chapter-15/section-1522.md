@@ -3,9 +3,10 @@ title: "Section 1522 - Protection of creditors and other interested persons"
 usc_title: 11
 usc_section: "1522"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 1522"
-generated_at: "2026-03-30T02:53:53.888Z"
+generated_at: "2026-11-23T20:25:55.444Z"
+status: "active"
 ---
 
 # § 1522. Protection of creditors and other interested persons
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:53.888Z"
 - **(b)** The court may subject relief granted under section 1519 or 1521, or the operation of the debtor’s business under section 1520(a)(3), to conditions it considers appropriate, including the giving of security or the filing of a bond.
 - **(c)** The court may, at the request of the foreign representative or an entity affected by relief granted under section 1519 or 1521, or at its own motion, modify or terminate such relief.
 - **(d)** Section 1104(d) shall apply to the appointment of an examiner under this chapter. Any examiner shall comply with the qualification requirements imposed on a trustee by section 322.
+
+## Source Credit
+
+*(Added [Pub. L. 109–8, title VIII, § 801(a)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 142](https://www.govinfo.gov/link/statute/119/142).)*

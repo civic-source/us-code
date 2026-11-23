@@ -3,9 +3,10 @@ title: "Section 215 - Consolidation of banks within same State"
 usc_title: 12
 usc_section: "215"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 215"
-generated_at: "2026-03-30T02:53:53.375Z"
+generated_at: "2026-11-23T20:25:58.707Z"
+status: "active"
 ---
 
 # § 215. Consolidation of banks within same State
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:53.375Z"
 - **(e)** The corporate existence of each of the consolidating banks or banking associations participating in such consolidation shall be merged into and continued in the consolidated national banking association and such consolidated national banking association shall be deemed to be the same corporation as each bank or banking association participating in the consolidation. All rights, franchises, and interests of the individual consolidating banks or banking associations in and to every type of property (real, personal, and mixed) and choses in action shall be transferred to and vested in the consolidated national banking association by virtue of such consolidation without any deed or other transfer. The consolidated national banking association, upon the consolidation and without any order or other action on the part of any court or otherwise, shall hold and enjoy all rights of property, franchises, and interests, including appointments, designations, and nominations, and all other rights and interests as trustee, executor, administrator, registrar of stocks and bonds, guardian of estates, assignee, and receiver, and in every other fiduciary capacity, in the same manner and to the same extent as such rights, franchises, and interests were held or enjoyed by any one of the consolidating banks or banking associations at the time of consolidation, subject to the conditions hereinafter provided.
 - **(f)** Where any consolidating bank or banking association, at the time of the consolidation, was acting under appointment of any court as trustee, executor, administrator, registrar of stocks and bonds, guardian of estates, assignee, or receiver, or in any other fiduciary capacity, the consolidated national banking association shall be subject to removal by a court of competent jurisdiction in the same manner and to the same extent as was such consolidating bank or banking association prior to the consolidation. Nothing contained in this section shall be considered to impair in any manner the right of any court to remove the consolidated national banking association and to appoint in lieu thereof a substitute trustee, executor, or other fiduciary, except that such right shall not be exercised in such a manner as to discriminate against national banking associations, nor shall any consolidated national banking association be removed solely because of the fact that it is a national banking association.
 - **(g)** Stock of the consolidated national banking association may be issued as provided by the terms of the consolidation agreement, free from any preemptive rights of the shareholders of the respective consolidating banks.
+
+## Source Credit
+
+*(Nov. 7, 1918, ch. 209, § 2, formerly § 1, as added [Pub. L. 86–230, § 20](https://www.govinfo.gov/link/plaw/86/public/230), Sept. 8, 1959, [73 Stat. 460](https://www.govinfo.gov/link/statute/73/460); renumbered § 2 and amended [Pub. L. 103–328, title I, § 102(b)(4)(C)](https://www.govinfo.gov/link/plaw/103/public/328), Sept. 29, 1994, [108 Stat. 2351](https://www.govinfo.gov/link/statute/108/2351); [Pub. L. 112–231, § 2(b)(2)(A)](https://www.govinfo.gov/link/plaw/112/public/231), Dec. 28, 2012, [126 Stat. 1619](https://www.govinfo.gov/link/statute/126/1619).)*

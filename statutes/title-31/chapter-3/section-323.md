@@ -3,9 +3,10 @@ title: "Section 323 - Investment of operating cash"
 usc_title: 31
 usc_section: "323"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 323"
-generated_at: "2026-03-30T02:55:34.045Z"
+generated_at: "2026-11-23T20:26:51.657Z"
+status: "active"
 ---
 
 # § 323. Investment of operating cash
@@ -19,3 +20,28 @@ generated_at: "2026-03-30T02:55:34.045Z"
 - **(d)**
   - **(1)** The Secretary of the Treasury shall submit each fiscal year to the appropriate committees a report detailing the investment of operating cash under subsection (a) for the preceding fiscal year. The report shall describe the Secretary’s consideration of risks associated with investments and the actions taken to manage such risks.
   - **(2)** For purposes of paragraph (1), the term “appropriate committees” means the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 323(a) | 31:1038(1st sentence less 1st, 2d provisos). | Oct. 28, 1977 , Pub. L. 95–147, § 1 , 91 Stat. 1227 . |
+| 323(b) | 31:1038(1st, 2d provisos). |  |
+| 323(c) | 31:1038(last sentence). |  |
+
+
+Historical and Revision Notes
+
+323(a)
+
+Oct. 28, 1977
+
+Pub. L. 95–147, § 1
+
+91 Stat. 1227
+
+323(b)
+
+323(c)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 882](https://www.govinfo.gov/link/statute/96/882); [Pub. L. 110–351, title V, § 502](https://www.govinfo.gov/link/plaw/110/public/351), Oct. 7, 2008, [122 Stat. 3980](https://www.govinfo.gov/link/statute/122/3980).)*

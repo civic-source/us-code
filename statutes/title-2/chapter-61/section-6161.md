@@ -3,9 +3,10 @@ title: "Section 6161 - Senate Democratic Leadership Offices Funding and Authorit
 usc_title: 2
 usc_section: "6161"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 6161"
-generated_at: "2026-03-30T02:53:04.839Z"
+generated_at: "2026-11-23T20:25:29.069Z"
+status: "active"
 ---
 
 # § 6161. Senate Democratic Leadership Offices Funding and Authorities
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:04.839Z"
   - **(3)** any reference to the Secretary of the applicable conference under section 207(e)(9)(M) of title 18 shall be deemed to refer to the designated officer of the applicable conference.
 - **(d)** For purposes of any individual employed by the office of the designated officer of the applicable conference during the covered period and with respect to any practice that occurs during the covered period, any reference to the Office of the Secretary of the applicable conference under section 220(e)(2)(C) of the Congressional Accountability Act of 1995 ( 2 U.S.C. 1351(e)(2)(C) ) shall be deemed to be a reference to the office of the designated officer of the applicable conference.
 - **(e)** Nothing in this section shall be construed to have any effect on the continuation of any procedure or action initiated under the Congressional Accountability Act of 1995 ( 2 U.S.C. 1301 et seq.) or section 207 of title 18 , United States Code.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. I, title I, § 104](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 1631](https://www.govinfo.gov/link/statute/134/1631); [Pub. L. 117–328, div. I, title I, § 103(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 4917](https://www.govinfo.gov/link/statute/136/4917); [Pub. L. 119–37, div. C, title I, § 102](https://www.govinfo.gov/link/plaw/119/public/37), Nov. 12, 2025, [139 Stat. 566](https://www.govinfo.gov/link/statute/139/566).)*

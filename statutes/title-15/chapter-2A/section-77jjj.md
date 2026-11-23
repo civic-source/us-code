@@ -3,9 +3,10 @@ title: "Section 77jjj - Eligibility and disqualification of trustee"
 usc_title: 15
 usc_section: "77jjj"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 77jjj"
-generated_at: "2026-03-30T02:54:08.036Z"
+generated_at: "2026-11-23T20:26:03.457Z"
+status: "active"
 ---
 
 # § 77jjj. Eligibility and disqualification of trustee
@@ -17,6 +18,9 @@ generated_at: "2026-03-30T02:54:08.036Z"
   - **(4)** In the case of certificates of interest or participation, the indenture trustee or trustees shall have the legal power to exercise all of the rights, powers, and privileges of a holder of the security or securities in which such certificates evidence an interest or participation.
   - **(5)** No obligor upon the indenture securities or person directly or indirectly controlling, controlled by, or under common control with such obligor shall serve as trustee upon such indenture securities.
 - **(b)** If any indenture trustee has or shall acquire any conflicting interest as hereinafter defined—
+      - **(i)** then, within 90 days after ascertaining that it has such conflicting interest, and if the default (as defined in the next sentence) to which such conflicting interest relates has not been cured or duly waived or otherwise eliminated before the end of such 90-day period, such trustee shall either eliminate such conflicting interest or, except as otherwise provided below in this subsection, resign, and the obligor upon the indenture securities shall take prompt steps to have a successor appointed in the manner provided in the indenture;
+      - **(ii)** in the event that such trustee shall fail to comply with the provisions of clause (i) of this subsection, such trustee shall, within 10 days after the expiration of such 90-day period, transmit notice of such failure to the indenture security holders in the manner and to the extent provided in subsection (c) of section 77mmm of this title ; and
+      - **(iii)** subject to the provisions of subsection (e) of section 77 ooo of this title, unless such trustee’s duty to resign is stayed as provided below in this subsection, any security holder who has been a bona fide holder of indenture securities for at least six months may, on behalf of himself and all others similarly situated, petition any court of competent jurisdiction for the removal of such trustee, and the appointment of a successor, if such trustee fails, after written request thereof by such holder to comply with the provisions of clause (i) of this subsection.
   - **(1)** such trustee is trustee under another indenture under which any other securities, or certificates of interest or participation in any other securities, of an obligor upon the indenture securities are outstanding or is trustee for more than one outstanding series of securities, as hereafter defined, under a single indenture of an obligor, unless—
     - **(A)** the indenture securities are collateral trust notes under which the only collateral consists of securities issued under such other indenture,
     - **(B)** such other indenture is a collateral trust indenture under which the only collateral consists of indenture securities, or
@@ -40,8 +44,9 @@ generated_at: "2026-03-30T02:54:08.036Z"
     - **(A)** the terms “security” and “securities” shall include only such securities as are generally known as corporate securities, but shall not include any note or other evidence of indebtedness issued to evidence an obligation to repay moneys lent to a person by one or more banks, trust companies, or banking firms, or any certificate of interest or participation in any such note or evidence of indebtedness;
     - **(B)** an obligation shall be deemed to be in default when a default in payment of principal shall have continued for thirty days or more, and shall not have been cured; and
     - **(C)** the indenture trustee shall not be deemed the owner or holder of (i) any security which it holds as collateral security (as trustee or otherwise) for any obligation which is not in default as above defined, or (ii) any security which it holds as collateral security under the indenture to be qualified, irrespective of any default thereunder, or (iii) any security which it holds as agent for collection, or as custodian, escrow agent or depositary, or in any similar representative capacity.
-      - **(i)** then, within 90 days after ascertaining that it has such conflicting interest, and if the default (as defined in the next sentence) to which such conflicting interest relates has not been cured or duly waived or otherwise eliminated before the end of such 90-day period, such trustee shall either eliminate such conflicting interest or, except as otherwise provided below in this subsection, resign, and the obligor upon the indenture securities shall take prompt steps to have a successor appointed in the manner provided in the indenture;
-      - **(ii)** in the event that such trustee shall fail to comply with the provisions of clause (i) of this subsection, such trustee shall, within 10 days after the expiration of such 90-day period, transmit notice of such failure to the indenture security holders in the manner and to the extent provided in subsection (c) of section 77mmm of this title ; and
-      - **(iii)** subject to the provisions of subsection (e) of section 77 ooo of this title, unless such trustee’s duty to resign is stayed as provided below in this subsection, any security holder who has been a bona fide holder of indenture securities for at least six months may, on behalf of himself and all others similarly situated, petition any court of competent jurisdiction for the removal of such trustee, and the appointment of a successor, if such trustee fails, after written request thereof by such holder to comply with the provisions of clause (i) of this subsection.
       - **(i)** the default under the indenture may be cured or waived during a reasonable period and under the procedures described in such application, and
       - **(ii)** a stay of the trustee’s duty to resign will not be inconsistent with the interests of holders of the indenture securities. The filing of such an application shall automatically stay the performance of the duty to resign until the Commission orders otherwise.
+
+## Source Credit
+
+*(May 27, 1933, ch. 38, title III, § 310, as added Aug. 3, 1939, ch. 411, [53 Stat. 1157](https://www.govinfo.gov/link/statute/53/1157); amended [Pub. L. 101–550, title IV](https://www.govinfo.gov/link/plaw/101/public/550), §§ 406–408, Nov. 15, 1990, [104 Stat. 2723](https://www.govinfo.gov/link/statute/104/2723), 2724; [Pub. L. 111–203, title IX, § 986(b)(3)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1936](https://www.govinfo.gov/link/statute/124/1936).)*

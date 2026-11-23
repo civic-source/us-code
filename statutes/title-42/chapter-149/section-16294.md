@@ -3,9 +3,10 @@ title: "Section 16294 - Research and development for coal mining technologies"
 usc_title: 42
 usc_section: "16294"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16294"
-generated_at: "2026-03-30T02:56:11.480Z"
+generated_at: "2026-11-23T20:27:23.659Z"
+status: "active"
 ---
 
 # § 16294. Research and development for coal mining technologies
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.480Z"
     - **(C)** prevent spoilage of domestic coal reserves; and
     - **(D)** minimize water disposal associated with methane extraction; and
   - **(4)** expand mining research capabilities at institutions of higher education.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 964](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 892](https://www.govinfo.gov/link/statute/119/892).)*

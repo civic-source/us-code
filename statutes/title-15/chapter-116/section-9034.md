@@ -3,9 +3,10 @@ title: "Section 9034 - Funding for fraud prevention, equitable access, and timel
 usc_title: 15
 usc_section: "9034"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 9034"
-generated_at: "2026-03-30T02:54:08.240Z"
+generated_at: "2026-11-23T20:26:04.539Z"
+status: "active"
 ---
 
 # § 9034. Funding for fraud prevention, equitable access, and timely payment to eligible workers
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:08.240Z"
 - **(c)** As a condition of receiving a grant under subsection (b)(3), the Secretary may require that a State or territory receiving such a grant shall—
   - **(1)** use such program integrity tools as the Secretary may specify; and
   - **(2)** as directed by the Secretary, conduct user accessibility testing on any new system developed by the Secretary pursuant to subsection (b)(2).
+
+## Source Credit
+
+*([Pub. L. 116–136, div. A, title II, § 2118](https://www.govinfo.gov/link/plaw/116/public/136), as added [Pub. L. 117–2, title IX, § 9032](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 121](https://www.govinfo.gov/link/statute/135/121).)*

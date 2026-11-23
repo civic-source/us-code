@@ -3,9 +3,10 @@ title: "Section 655 - Standards"
 usc_title: 29
 usc_section: "655"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 655"
-generated_at: "2026-03-30T02:55:18.687Z"
+generated_at: "2026-11-23T20:26:37.833Z"
+status: "active"
 ---
 
 # § 655. Standards
@@ -36,3 +37,57 @@ generated_at: "2026-03-30T02:55:18.687Z"
 - **(e)** Whenever the Secretary promulgates any standard, makes any rule, order, or decision, grants any exemption or extension of time, or compromises, mitigates, or settles any penalty assessed under this chapter, he shall include a statement of the reasons for such action, which shall be published in the Federal Register.
 - **(f)** Any person who may be adversely affected by a standard issued under this section may at any time prior to the sixtieth day after such standard is promulgated file a petition challenging the validity of such standard with the United States court of appeals for the circuit wherein such person resides or has his principal place of business, for a judicial review of such standard. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Secretary. The filing of such petition shall not, unless otherwise ordered by the court, operate as a stay of the standard. The determinations of the Secretary shall be conclusive if supported by substantial evidence in the record considered as a whole.
 - **(g)** In determining the priority for establishing standards under this section, the Secretary shall give due regard to the urgency of the need for mandatory safety and health standards for particular industries, trades, crafts, occupations, businesses, workplaces or work environments. The Secretary shall also give due regard to the recommendations of the Secretary of Health and Human Services regarding the need for mandatory standards in determining the priority for establishing such standards.
+
+Chemical Process Safety Standard
+
+List of Highly Hazardous Chemicals
+
+Elements of Safety Standard
+
+State Authority
+
+Promulgation
+
+Proposed Standards
+
+Site analysis
+
+Training
+
+Medical surveillance
+
+Protective equipment
+
+Engineering controls
+
+Maximum exposure limits
+
+Informational program
+
+Handling
+
+New technology program
+
+Decontamination procedures
+
+Emergency response
+
+Final Regulations
+
+Specific Training Standards.—
+
+Offsite instruction; field experience
+
+Training of supervisors
+
+Certification; enforcement
+
+Training of emergency response personnel
+
+Interim Regulations
+
+Coverage of Certain State and Local Employees
+
+## Source Credit
+
+*([Pub. L. 91–596, § 6](https://www.govinfo.gov/link/plaw/91/public/596), Dec. 29, 1970, [84 Stat. 1593](https://www.govinfo.gov/link/statute/84/1593); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695).)*

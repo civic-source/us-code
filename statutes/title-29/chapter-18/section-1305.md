@@ -3,9 +3,10 @@ title: "Section 1305 - Pension benefit guaranty funds"
 usc_title: 29
 usc_section: "1305"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1305"
-generated_at: "2026-03-30T02:55:18.729Z"
+generated_at: "2026-11-23T20:26:38.010Z"
+status: "active"
 ---
 
 # § 1305. Pension benefit guaranty funds
@@ -63,3 +64,11 @@ generated_at: "2026-03-30T02:55:18.729Z"
 - **(i)**
   - **(1)** An eighth fund shall be established for special financial assistance to multiemployer pension plans, as provided under section 1432 of this title , and to pay for necessary administrative and operating expenses of the corporation relating to such assistance.
   - **(2)** There is appropriated from the general fund such amounts as are necessary for the costs of providing financial assistance under section 1432 of this title and necessary administrative and operating expenses of the corporation. The eighth fund established under this subsection shall be credited with amounts from time to time as the Secretary of the Treasury, in conjunction with the Director of the Pension Benefit Guaranty Corporation, determines appropriate, from the general fund of the Treasury, but in no case shall such transfers occur after September 30, 2030 .
+
+In general
+
+Separate accounting
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4005](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 1009](https://www.govinfo.gov/link/statute/88/1009); [Pub. L. 96–364, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1300](https://www.govinfo.gov/link/statute/94/1300); [Pub. L. 99–272, title XI, § 11016(a)(1)](https://www.govinfo.gov/link/plaw/99/public/272), (2), (c)(7), Apr. 7, 1986, [100 Stat. 268](https://www.govinfo.gov/link/statute/100/268), 274; [Pub. L. 100–203, title IX](https://www.govinfo.gov/link/plaw/100/public/203), §§ 9312(c)(4), 9331(d), Dec. 22, 1987, [101 Stat. 1330–364](https://www.govinfo.gov/link/statute/101/1330), 1330–368; [Pub. L. 103–465, title VII, § 776(b)(2)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 5048](https://www.govinfo.gov/link/statute/108/5048); [Pub. L. 112–141, div. D, title II, § 40234(a)](https://www.govinfo.gov/link/plaw/112/public/141), (b)(1), July 6, 2012, [126 Stat. 858](https://www.govinfo.gov/link/statute/126/858); [Pub. L. 113–235, div. O, title I, § 131(b)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2797](https://www.govinfo.gov/link/statute/128/2797); [Pub. L. 117–2, title IX, § 9704(a)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 190](https://www.govinfo.gov/link/statute/135/190).)*

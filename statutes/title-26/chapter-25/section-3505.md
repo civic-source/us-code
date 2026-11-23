@@ -3,9 +3,10 @@ title: "Section 3505 - Liability of third parties paying or providing for wages"
 usc_title: 26
 usc_section: "3505"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 3505"
-generated_at: "2026-03-30T02:55:27.796Z"
+generated_at: "2026-11-23T20:26:46.264Z"
+status: "active"
 ---
 
 # § 3505. Liability of third parties paying or providing for wages
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:27.796Z"
 - **(a)** For purposes of sections 3102, 3202, 3402, and 3403, if a lender, surety, or other person, who is not an employer under such sections with respect to an employee or group of employees, pays wages directly to such an employee or group of employees, employed by one or more employers, or to an agent on behalf of such employee or employees, such lender, surety, or other person shall be liable in his own person and estate to the United States in a sum equal to the taxes (together with interest) required to be deducted and withheld from such wages by such employer.
 - **(b)** If a lender, surety, or other person supplies funds to or for the account of an employer for the specific purpose of paying wages of the employees of such employer, with actual notice or knowledge (within the meaning of section 6323(i)(1)) that such employer does not intend to or will not be able to make timely payment or deposit of the amounts of tax required by this subtitle to be deducted and withheld by such employer from such wages, such lender, surety, or other person shall be liable in his own person and estate to the United States in a sum equal to the taxes (together with interest) which are not paid over to the United States by such employer with respect to such wages. However, the liability of such lender, surety, or other person shall be limited to an amount equal to 25 percent of the amount so supplied to or for the account of such employer for such purpose.
 - **(c)** Any amounts paid to the United States pursuant to this section shall be credited against the liability of the employer.
+
+## Source Credit
+
+*(Added [Pub. L. 89–719, title I, § 105(a)](https://www.govinfo.gov/link/plaw/89/public/719), Nov. 2, 1966, [80 Stat. 1138](https://www.govinfo.gov/link/statute/80/1138).)*

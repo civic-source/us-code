@@ -3,9 +3,10 @@ title: "Section 1622 - State authority to limit eligibility of qualified aliens 
 usc_title: 8
 usc_section: "1622"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1622"
-generated_at: "2026-03-30T02:53:10.506Z"
+generated_at: "2026-11-23T20:25:36.276Z"
+status: "active"
 ---
 
 # § 1622. State authority to limit eligibility of qualified aliens for State public benefits
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:10.506Z"
     - **(B)** on active duty (other than active duty for training) in the Armed Forces of the United States, or
     - **(C)** the spouse or unmarried dependent child of an individual described in subparagraph (A) or (B) or the unremarried surviving spouse of an individual described in clause (i) or (ii) 2 2 So in original. Probably should be “subparagraph (A) or (B)”. who is deceased if the marriage fulfills the requirements of section 1304 of title 38 .
   - **(4)** An alien who on August 22, 1996 , is lawfully residing in any State and is receiving benefits on August 22, 1996 , shall continue to be eligible to receive such benefits until January 1, 1997 .
+
+## Source Credit
+
+*([Pub. L. 104–193, title IV, § 412](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2269](https://www.govinfo.gov/link/statute/110/2269); [Pub. L. 105–33, title V](https://www.govinfo.gov/link/plaw/105/public/33), §§ 5302(c)(2), 5306(d), 5562, 5563, 5581(b)(3), Aug. 5, 1997, [111 Stat. 599](https://www.govinfo.gov/link/statute/111/599), 602, 638, 643.)*

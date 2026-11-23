@@ -3,9 +3,10 @@ title: "Section 165 - Territorial and Puerto Rico highway program"
 usc_title: 23
 usc_section: "165"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 165"
-generated_at: "2026-03-30T02:55:12.561Z"
+generated_at: "2026-11-23T20:26:23.830Z"
+status: "active"
 ---
 
 # § 165. Territorial and Puerto Rico highway program
@@ -85,3 +86,71 @@ generated_at: "2026-03-30T02:55:12.561Z"
       - **(vii)** Such research and development as are necessary in connection with the planning, design, and maintenance of the highway system.
     - **(B)** None of the funds made available under this subsection shall be obligated or expended for routine maintenance.
   - **(7)** Territorial highway program projects (other than those described in paragraphs (1), (2), (3), and (5) of section 133(c) and section 133(b)(13)) may not be undertaken on roads functionally classified as local.
+
+Division of Funds
+
+Puerto Rico Highway Program.—
+
+In general
+
+Treatment of funds
+
+Apportionment.—
+
+In general
+
+(aa) the amount of funds apportioned to Puerto Rico for each such program for fiscal year 1997; bears to
+
+(bb) the total amount of funds apportioned to Puerto Rico for all such programs for fiscal year 1997.
+
+Exception
+
+Penalty
+
+Eligible uses of funds
+
+Effect on apportionments
+
+Territorial Highway Program.—
+
+Territory defined
+
+Program.—
+
+In general
+
+Federal share
+
+Technical assistance.—
+
+In general
+
+Form and terms of assistance
+
+Nonapplicability of certain provisions.—
+
+In general
+
+Applicable provisions
+
+Agreement.—
+
+In general
+
+Technical assistance
+
+Review and revision of agreement
+
+Existing agreements
+
+Eligible uses of funds.—
+
+In general
+
+Prohibition on use of funds for routine maintenance
+
+Location of projects
+
+## Source Credit
+
+*(Added [Pub. L. 109–59, title I, § 1120(a)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1191](https://www.govinfo.gov/link/statute/119/1191); amended [Pub. L. 112–141, div. A, title I, § 1114(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 464](https://www.govinfo.gov/link/statute/126/464); [Pub. L. 114–94, div. A, title I](https://www.govinfo.gov/link/plaw/114/public/94), §§ 1109(c)(5), 1115, 1446(a)(11), Dec. 4, 2015, [129 Stat. 1343](https://www.govinfo.gov/link/statute/129/1343), 1349, 1438; [Pub. L. 117–58, div. A, title I, § 11126](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 506](https://www.govinfo.gov/link/statute/135/506).)*

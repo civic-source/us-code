@@ -3,9 +3,10 @@ title: "Section 278 - Visiting Committee on Advanced Technology"
 usc_title: 15
 usc_section: "278"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 278"
-generated_at: "2026-03-30T02:54:08.077Z"
+generated_at: "2026-11-23T20:26:03.675Z"
+status: "active"
 ---
 
 # § 278. Visiting Committee on Advanced Technology
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:08.077Z"
 - **(h)**
   - **(1)** The Committee shall render an annual report to the Secretary for submission to the Congress not later than 30 days after the submittal to Congress of the President’s annual budget request in each year. Such report shall deal essentially, though not necessarily exclusively, with policy issues or matters which affect the Institute or with which the Committee in its official role as the private sector policy advisor of the Institute is concerned. Each such report shall identify areas of research and research techniques of the Institute of potential importance to the long-term competitiveness of United States industry, in which the Institute possesses special competence, which could be used to assist United States enterprises and United States industrial joint research and development ventures.
   - **(2)** The Committee shall render to the Secretary and the Congress such additional reports on specific policy matters as it deems appropriate.
+
+## Source Credit
+
+*(Mar. 3, 1901, ch. 872, § 10, [31 Stat. 1450](https://www.govinfo.gov/link/statute/31/1450); [Pub. L. 100–418, title V](https://www.govinfo.gov/link/plaw/100/public/418), §§ 5115(a)(1), 5131(b), Aug. 23, 1988, [102 Stat. 1433](https://www.govinfo.gov/link/statute/102/1433), 1441; [Pub. L. 104–113, § 8(1)](https://www.govinfo.gov/link/plaw/104/public/113), Mar. 7, 1996, [110 Stat. 779](https://www.govinfo.gov/link/statute/110/779); [Pub. L. 110–69, title III](https://www.govinfo.gov/link/plaw/110/public/69), §§ 3005, 3006, Aug. 9, 2007, [121 Stat. 590](https://www.govinfo.gov/link/statute/121/590); [Pub. L. 114–329, title II](https://www.govinfo.gov/link/plaw/114/public/329), §§ 204(a)(1)(B)(ii), 205(a)(2)(C), title IV, § 404, Jan. 6, 2017, [130 Stat. 2998](https://www.govinfo.gov/link/statute/130/2998), 3001, 3023.)*

@@ -3,9 +3,10 @@ title: "Section 3825 - Scientific and technical research and monitoring; communi
 usc_title: 33
 usc_section: "3825"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 3825"
-generated_at: "2026-03-30T02:55:41.144Z"
+generated_at: "2026-11-23T20:26:54.278Z"
+status: "active"
 ---
 
 # § 3825. Scientific and technical research and monitoring; communication and information
@@ -15,3 +16,7 @@ The Secretary, the Administrator, and the Administrator of the National Oceanic 
   - **(1)** scientific and technical activities undertaken in accordance with the Convention;
   - **(2)** marine scientific and technological programs and their objectives; and
   - **(3)** the effects observed from any monitoring and assessment programs relating to antifouling systems.
+
+## Source Credit
+
+*([Pub. L. 111–281, title X, § 1025](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 3027](https://www.govinfo.gov/link/statute/124/3027).)*

@@ -3,9 +3,10 @@ title: "Section 317 - Appropriation for highway purposes of lands or interests i
 usc_title: 23
 usc_section: "317"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 317"
-generated_at: "2026-03-30T02:55:12.567Z"
+generated_at: "2026-11-23T20:26:23.864Z"
+status: "active"
 ---
 
 # § 317. Appropriation for highway purposes of lands or interests in lands owned by the United States
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:12.567Z"
 - **(b)** If within a period of four months after such filing, the Secretary of such Department shall not have certified to the Secretary that the proposed appropriation of such land or material is contrary to the public interest or inconsistent with the purposes for which such land or materials have been reserved, or shall have agreed to the appropriation and transfer under conditions which he deems necessary for the adequate protection and utilization of the reserve, then such land and materials may be appropriated and transferred to the State transportation department, or its nominee, for such purposes and subject to the conditions so specified.
 - **(c)** If at any time the need for any such lands or materials for such purposes shall no longer exist, notice of the fact shall be given by the State transportation department to the Secretary and such lands or materials shall immediately revert to the control of the Secretary of the Department from which they had been appropriated.
 - **(d)** The provisions of this section shall apply only to projects constructed on a Federal-aid highway or under the provisions of chapter 2 of this title.
+
+## Source Credit
+
+*([Pub. L. 85–767](https://www.govinfo.gov/link/plaw/85/public/767), Aug. 27, 1958, [72 Stat. 916](https://www.govinfo.gov/link/statute/72/916); [Pub. L. 105–178, title I, § 1212(a)(2)(A)(i)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 193](https://www.govinfo.gov/link/statute/112/193); [Pub. L. 112–141, div. A, title I, § 1104(c)(6)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 427](https://www.govinfo.gov/link/statute/126/427).)*

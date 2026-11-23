@@ -3,9 +3,10 @@ title: "Section 8110 - Operation of medical facilities"
 usc_title: 38
 usc_section: "8110"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 8110"
-generated_at: "2026-03-30T02:55:53.537Z"
+generated_at: "2026-11-23T20:27:02.062Z"
+status: "active"
 ---
 
 # § 8110. Operation of medical facilities
@@ -37,3 +38,63 @@ generated_at: "2026-03-30T02:55:53.537Z"
     - **(A)** An explanation of the reasons for the determination that the closure is appropriate and advisable.
     - **(B)** A description of the changes in the functions to be carried out and the means by which such care and services would continue to be provided to eligible veterans.
     - **(C)** A description of the anticipated effects of the closure on veterans and on their access to care.
+
+In General
+
+Designation of Periods for Any Individual to Dispose of Medication.—
+
+In general
+
+Public information campaigns
+
+Covered Department Medical Facility
+
+Effective Date
+
+In General
+
+Plan.—
+
+In general
+
+Elements
+
+Authorization of Appropriations
+
+In General
+
+Consideration
+
+Analysis of Facilities
+
+Annual Plan To Address Underserved Facilities.—
+
+Plan required
+
+Contents
+
+In General
+
+Elements
+
+Use of Annual Analysis
+
+Reporting.—
+
+Progress report
+
+Final report
+
+Duration
+
+Underserved Facility Defined
+
+Inventory
+
+Report
+
+“It is the policy of the United States that the Veterans’ Administration—
+
+## Source Credit
+
+*(Added [Pub. L. 96–22, title III, § 301(a)](https://www.govinfo.gov/link/plaw/96/public/22), June 13, 1979, [93 Stat. 59](https://www.govinfo.gov/link/statute/93/59), § 5010; amended [Pub. L. 96–151, title III, § 301(a)](https://www.govinfo.gov/link/plaw/96/public/151), Dec. 20, 1979, [93 Stat. 1095](https://www.govinfo.gov/link/statute/93/1095); [Pub. L. 97–66, title VI, § 601(b)](https://www.govinfo.gov/link/plaw/97/public/66), Oct. 17, 1981, [95 Stat. 1033](https://www.govinfo.gov/link/statute/95/1033); [Pub. L. 97–72, title I, § 108](https://www.govinfo.gov/link/plaw/97/public/72), Nov. 3, 1981, [95 Stat. 1053](https://www.govinfo.gov/link/statute/95/1053); [Pub. L. 97–306, title IV, § 409(b)](https://www.govinfo.gov/link/plaw/97/public/306), Oct. 14, 1982, [96 Stat. 1446](https://www.govinfo.gov/link/statute/96/1446); [Pub. L. 97–452, § 2(e)(4)](https://www.govinfo.gov/link/plaw/97/public/452), Jan. 12, 1983, [96 Stat. 2479](https://www.govinfo.gov/link/statute/96/2479); [Pub. L. 98–160, title VII, § 702(19)](https://www.govinfo.gov/link/plaw/98/public/160), Nov. 21, 1983, [97 Stat. 1010](https://www.govinfo.gov/link/statute/97/1010); [Pub. L. 98–528, title I, § 102](https://www.govinfo.gov/link/plaw/98/public/528), Oct. 19, 1984, [98 Stat. 2688](https://www.govinfo.gov/link/statute/98/2688); [Pub. L. 99–576, title VII, § 702(15)](https://www.govinfo.gov/link/plaw/99/public/576), Oct. 28, 1986, [100 Stat. 3302](https://www.govinfo.gov/link/statute/100/3302); [Pub. L. 100–322, title II, § 222(a)](https://www.govinfo.gov/link/plaw/100/public/322), title IV, § 401(a), May 20, 1988, [102 Stat. 531](https://www.govinfo.gov/link/statute/102/531), 543; renumbered § 8110 and amended [Pub. L. 102–40, title IV, § 402(b)(1)](https://www.govinfo.gov/link/plaw/102/public/40), (d)(1), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238), 239; [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, [105 Stat. 404–406](https://www.govinfo.gov/link/statute/105/404); [Pub. L. 102–405, title III, § 302(c)(1)](https://www.govinfo.gov/link/plaw/102/public/405), Oct. 9, 1992, [106 Stat. 1984](https://www.govinfo.gov/link/statute/106/1984); [Pub. L. 103–446, title XI, § 1103](https://www.govinfo.gov/link/plaw/103/public/446), title XII, § 1201(b)(1), (d)(17), (g)(7), Nov. 2, 1994, [108 Stat. 4681](https://www.govinfo.gov/link/statute/108/4681), 4682, 4684, 4687; [Pub. L. 104–66, title I, § 1141(c)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 726](https://www.govinfo.gov/link/statute/109/726); [Pub. L. 104–262, title I, § 101(e)(4)](https://www.govinfo.gov/link/plaw/104/public/262), title III, § 305, Oct. 9, 1996, [110 Stat. 3181](https://www.govinfo.gov/link/statute/110/3181), 3194; [Pub. L. 106–117, title III, § 301](https://www.govinfo.gov/link/plaw/106/public/117), Nov. 30, 1999, [113 Stat. 1571](https://www.govinfo.gov/link/statute/113/1571); [Pub. L. 107–135, title I, § 124](https://www.govinfo.gov/link/plaw/107/public/135), Jan. 23, 2002, [115 Stat. 2452](https://www.govinfo.gov/link/statute/115/2452); [Pub. L. 107–314, div. A, title VII, § 726(a)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2599](https://www.govinfo.gov/link/statute/116/2599); [Pub. L. 115–251, title II, § 207](https://www.govinfo.gov/link/plaw/115/public/251), Sept. 29, 2018, [132 Stat. 3173](https://www.govinfo.gov/link/statute/132/3173).)*

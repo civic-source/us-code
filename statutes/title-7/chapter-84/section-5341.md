@@ -3,9 +3,10 @@ title: "Section 5341 - Establishment of dietary guidelines"
 usc_title: 7
 usc_section: "5341"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 5341"
-generated_at: "2026-03-30T02:53:42.414Z"
+generated_at: "2026-11-23T20:25:41.645Z"
+status: "active"
 ---
 
 # § 5341. Establishment of dietary guidelines
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:53:42.414Z"
   - **(1)** the conduct or support of any scientific or medical research by any Federal agency;
   - **(2)** the presentation of any scientific or medical findings or the exchange or review of scientific or medical information by any Federal agency; or
   - **(3)** the authority of the Food and Drug Administration under the provisions of the Federal Food, Drug, and Cosmetic Act ( 21 U.S.C. 321 1 1 So in original. Probably should be “301”. et seq.).
+
+## Source Credit
+
+*([Pub. L. 101–445, title III, § 301](https://www.govinfo.gov/link/plaw/101/public/445), Oct. 22, 1990, [104 Stat. 1042](https://www.govinfo.gov/link/statute/104/1042); [Pub. L. 113–79, title IV, § 4204](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 822](https://www.govinfo.gov/link/statute/128/822).)*

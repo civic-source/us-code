@@ -3,9 +3,10 @@ title: "Section 40311 - Findings"
 usc_title: 34
 usc_section: "40311"
 chapter: 403
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 40311"
-generated_at: "2026-03-30T02:55:33.308Z"
+generated_at: "2026-11-23T20:26:50.640Z"
+status: "active"
 ---
 
 # § 40311. Findings
@@ -17,3 +18,7 @@ Congress finds that—
   - **(3)** although these records are also exchanged for legally authorized, noncriminal justice uses, such as governmental licensing and employment background checks, the purposes for and procedures by which they are exchanged vary widely from State to State;
   - **(4)** an interstate and Federal-State compact is necessary to facilitate authorized interstate criminal history record exchanges for noncriminal justice purposes on a uniform basis, while permitting each State to effectuate its own dissemination policy within its own borders; and
   - **(5)** such a compact will allow Federal and State records to be provided expeditiously to governmental and nongovernmental agencies that use such records in accordance with pertinent Federal and State law, while simultaneously enhancing the accuracy of the records and safeguarding the information contained therein from unauthorized disclosure or use.
+
+## Source Credit
+
+*([Pub. L. 105–251, title II, § 212](https://www.govinfo.gov/link/plaw/105/public/251), Oct. 9, 1998, [112 Stat. 1874](https://www.govinfo.gov/link/statute/112/1874).)*

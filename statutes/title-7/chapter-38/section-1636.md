@@ -3,9 +3,10 @@ title: "Section 1636 - General provisions"
 usc_title: 7
 usc_section: "1636"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1636"
-generated_at: "2026-03-30T02:53:42.332Z"
+generated_at: "2026-11-23T20:25:41.246Z"
+status: "active"
 ---
 
 # § 1636. General provisions
@@ -46,3 +47,11 @@ generated_at: "2026-03-30T02:53:42.332Z"
   - **(1)** administer or enforce the Packers and Stockyards Act, 1921 ( 7 U.S.C. 181 et seq.);
   - **(2)** administer, enforce, or collect voluntary reports under this chapter or any other law; or
   - **(3)** access documentary evidence as provided under sections 49 and 50 of title 15.
+
+Enhanced reporting
+
+Current system
+
+## Source Credit
+
+*(Aug. 14, 1946, ch. 966, title II, § 251, as added [Pub. L. 106–78, title IX, § 911(2)](https://www.govinfo.gov/link/plaw/106/public/78), Oct. 22, 1999, [113 Stat. 1200](https://www.govinfo.gov/link/statute/113/1200); amended [Pub. L. 110–234, title XI, § 11001(a)(1)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1350](https://www.govinfo.gov/link/statute/122/1350); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XI, § 11001(a)(1), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2112.)*

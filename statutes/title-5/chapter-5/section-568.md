@@ -3,9 +3,10 @@ title: "Section 568 - Services, facilities, and payment of committee member expe
 usc_title: 5
 usc_section: "568"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 568"
-generated_at: "2026-03-30T02:52:55.989Z"
+generated_at: "2026-11-23T20:25:31.724Z"
+status: "active"
 ---
 
 # § 568. Services, facilities, and payment of committee member expenses
@@ -18,3 +19,19 @@ generated_at: "2026-03-30T02:52:55.989Z"
   - **(1)** such member certifies a lack of adequate financial resources to participate in the committee; and
   - **(2)** the agency determines that such member’s participation in the committee is necessary to assure an adequate representation of the member’s interest.
 - **(d)** A member’s receipt of funds under this section or section 569 shall not conclusively determine for purposes of sections 202 through 209 of title 18 whether that member is an employee of the United States Government.
+
+Services of Conveners and Facilitators.—
+
+In general
+
+Determination of conflicting interests
+
+Services and Facilities of Other Entities
+
+Expenses of Committee Members
+
+Status of Member as Federal Employee
+
+## Source Credit
+
+*(Added [Pub. L. 101–648, § 3(a)](https://www.govinfo.gov/link/plaw/101/public/648), Nov. 29, 1990, [104 Stat. 4974](https://www.govinfo.gov/link/statute/104/4974), § 588; renumbered § 568 and amended [Pub. L. 102–354, § 3(a)(2)](https://www.govinfo.gov/link/plaw/102/public/354), (4), Aug. 26, 1992, [106 Stat. 944](https://www.govinfo.gov/link/statute/106/944); [Pub. L. 117–286, § 4(a)(9)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4306](https://www.govinfo.gov/link/statute/136/4306).)*

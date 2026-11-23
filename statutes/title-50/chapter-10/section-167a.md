@@ -3,9 +3,10 @@ title: "Section 167a - Authority of Secretary"
 usc_title: 50
 usc_section: "167a"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 167a"
-generated_at: "2026-03-30T02:56:26.198Z"
+generated_at: "2026-11-23T20:27:30.702Z"
+status: "active"
 ---
 
 # § 167a. Authority of Secretary
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:26.198Z"
   - **(7)** This subsection shall not in any manner affect or diminish the rights and obligations of the Secretary and private parties under agreements to dispose of helium produced from Federal lands in existence on October 9, 1996 , except to the extent that such agreements are renewed or extended after October 9, 1996 .
 - **(b)** The Secretary may store, transport, and sell helium only in accordance with this chapter.
 - **(c)** All amounts received by the Secretary from the sale or disposition of helium on Federal land shall be credited to the Helium Production Fund established under section 167d(e) of this title .
+
+## Source Credit
+
+*(Mar. 3, 1925, ch. 426, § 3, as added [Pub. L. 86–777, § 2](https://www.govinfo.gov/link/plaw/86/public/777), Sept. 13, 1960, [74 Stat. 918](https://www.govinfo.gov/link/statute/74/918); amended [Pub. L. 104–273, § 3](https://www.govinfo.gov/link/plaw/104/public/273), Oct. 9, 1996, [110 Stat. 3315](https://www.govinfo.gov/link/statute/110/3315); [Pub. L. 113–40, § 3](https://www.govinfo.gov/link/plaw/113/public/40), Oct. 2, 2013, [127 Stat. 535](https://www.govinfo.gov/link/statute/127/535).)*

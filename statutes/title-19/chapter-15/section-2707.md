@@ -3,9 +3,10 @@ title: "Section 2707 - Center for the Study of Western Hemispheric Trade"
 usc_title: 19
 usc_section: "2707"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2707"
-generated_at: "2026-03-30T02:54:24.686Z"
+generated_at: "2026-11-23T20:26:11.021Z"
+status: "active"
 ---
 
 # § 2707. Center for the Study of Western Hemispheric Trade
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:24.686Z"
   - **(1)** a statement identifying the institution or institutions selected as the Center;
   - **(2)** the reasons for selecting the institution or institutions as the Center; and
   - **(3)** the plan of such institution or institutions for operating the Center.
+
+## Source Credit
+
+*([Pub. L. 98–67, title II, § 219](https://www.govinfo.gov/link/plaw/98/public/67), as added [Pub. L. 103–182, title V, § 515(a)](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2158](https://www.govinfo.gov/link/statute/107/2158); amended [Pub. L. 104–295, § 21(d)](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3530](https://www.govinfo.gov/link/statute/110/3530); [Pub. L. 106–29, § 2(a)](https://www.govinfo.gov/link/plaw/106/public/29), May 21, 1999, [113 Stat. 54](https://www.govinfo.gov/link/statute/113/54).)*

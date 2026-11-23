@@ -3,9 +3,10 @@ title: "Section 4083b - Overseas operations leave"
 usc_title: 22
 usc_section: "4083b"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4083b"
-generated_at: "2026-03-30T02:55:05.406Z"
+generated_at: "2026-11-23T20:26:32.516Z"
+status: "active"
 ---
 
 # § 4083b. Overseas operations leave
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:05.406Z"
   - **(3)** the term “leave year” means the period beginning with the first day of the first complete pay period in a calendar year and ending with the day immediately before the first day of the first complete pay period in the following calendar year.
 - **(b)** The Secretary or other head of an agency may prescribe regulations to grant up to 10 days of paid leave, per leave year, to an employee of the agency serving abroad for the purpose of local holidays.
 - **(c)** Use of the authority under subsection (b) is at the sole and exclusive discretion of the head of the agency concerned.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 903b](https://www.govinfo.gov/link/plaw/96/public/465), as added [Pub. L. 118–159, div. G, title LXXII, § 7215(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2537](https://www.govinfo.gov/link/statute/138/2537).)*

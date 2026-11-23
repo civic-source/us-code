@@ -3,9 +3,10 @@ title: "Section 3323 - Eligibility for incentive awards"
 usc_title: 50
 usc_section: "3323"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3323"
-generated_at: "2026-03-30T02:56:26.243Z"
+generated_at: "2026-11-23T20:27:30.955Z"
+status: "active"
 ---
 
 # § 3323. Eligibility for incentive awards
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:26.243Z"
 - **(d)** An award made by the Director of Central Intelligence to an employee or member of the Armed Forces under the authority of section 4503 of title 5 or this section may be paid and accepted notwithstanding—
   - **(1)** section 5536 of title 5 ; and
   - **(2)** the death, separation, or retirement of the employee or the member of the Armed Forces whose conduct gave rise to the award, or the assignment of such member to duties other than foreign intelligence duties.
+
+## Source Credit
+
+*([Pub. L. 98–215, title IV, § 402](https://www.govinfo.gov/link/plaw/98/public/215), Dec. 9, 1983, [97 Stat. 1477](https://www.govinfo.gov/link/statute/97/1477); [Pub. L. 99–569, title V, § 503](https://www.govinfo.gov/link/plaw/99/public/569), Oct. 27, 1986, [100 Stat. 3198](https://www.govinfo.gov/link/statute/100/3198).)*

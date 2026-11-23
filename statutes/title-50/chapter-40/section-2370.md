@@ -3,9 +3,10 @@ title: "Section 2370 - Notification of Committees on Armed Services with respect
 usc_title: 50
 usc_section: "2370"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 2370"
-generated_at: "2026-03-30T02:56:26.223Z"
+generated_at: "2026-11-23T20:27:30.843Z"
+status: "active"
 ---
 
 # § 2370. Notification of Committees on Armed Services with respect to certain nonproliferation and proliferation activities
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:26.223Z"
 - **(b)**
   - **(1)** The Director of National Intelligence shall keep the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives fully and currently informed with respect to any activities of foreign nations that are significant with respect to the proliferation of nuclear, chemical, or biological weapons or the means of delivery of such weapons.
   - **(2)** For purposes of paragraph (1), the term “fully and currently informed” means the transmittal of credible information with respect to an activity described in such paragraph not later than 60 days after becoming aware of the activity.
+
+## Source Credit
+
+*([Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title X, § 1062, Oct. 14, 2008, [122 Stat. 4614](https://www.govinfo.gov/link/statute/122/4614).)*

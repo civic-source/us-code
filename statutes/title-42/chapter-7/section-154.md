@@ -3,9 +3,10 @@ title: "Section 154 - Improved Medicare prescription drug plan and MA–PD plan 
 usc_title: 42
 usc_section: "154"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 154"
-generated_at: "2026-03-30T02:56:10.992Z"
+generated_at: "2026-11-23T20:27:21.323Z"
+status: "active"
 ---
 
 # § 1395w–154. Improved Medicare prescription drug plan and MA–PD plan complaint system
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:10.992Z"
   - **(2)** The term “prescription drug plan” has the meaning given such term in section 1395w–151(a)(14) of this title .
   - **(3)** The term “Secretary” means the Secretary of Health and Human Services.
   - **(4)** The term “system” means the plan complaint system developed and maintained under subsection (a).
+
+## Source Credit
+
+*([Pub. L. 111–148, title III, § 3311](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 475](https://www.govinfo.gov/link/statute/124/475).)*

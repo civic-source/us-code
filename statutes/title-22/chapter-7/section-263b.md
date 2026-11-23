@@ -3,9 +3,10 @@ title: "Section 263b - Transnational repression accountability and prevention"
 usc_title: 22
 usc_section: "263b"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 263b"
-generated_at: "2026-03-30T02:55:05.309Z"
+generated_at: "2026-11-23T20:26:31.940Z"
+status: "active"
 ---
 
 # § 263b. Transnational repression accountability and prevention
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:55:05.309Z"
     - **(A)** the Committee on Foreign Relations and the Committee on the Judiciary of the Senate; and
     - **(B)** the Committee on Foreign Affairs and the Committee on the Judiciary of the House of Representatives.
   - **(2)** The term “INTERPOL communications” means any INTERPOL Notice or Diffusion or any entry into any INTERPOL database or other communications system maintained by INTERPOL.
+
+## Source Credit
+
+*([Pub. L. 117–81, div. F, title LXV, § 6503](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2423](https://www.govinfo.gov/link/statute/135/2423).)*

@@ -3,9 +3,10 @@ title: "Section 1139 - Information sharing"
 usc_title: 6
 usc_section: "1139"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 1139"
-generated_at: "2026-03-30T02:53:09.505Z"
+generated_at: "2026-11-23T20:25:34.917Z"
+status: "active"
 ---
 
 # § 1139. Information sharing
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:09.505Z"
     - **(C)** $600,000 for fiscal year 2010; and
     - **(D)** such sums as may be necessary for 2011, provided the report required in subsection (c) of this section has been submitted to Congress.
   - **(2)** Such sums shall remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XIV, § 1410](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 412](https://www.govinfo.gov/link/statute/121/412).)*

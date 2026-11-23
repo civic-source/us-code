@@ -3,9 +3,10 @@ title: "Section 179E - Election to expense advanced mine safety equipment"
 usc_title: 26
 usc_section: "179E"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 179E"
-generated_at: "2026-03-30T02:55:27.649Z"
+generated_at: "2026-11-23T20:26:45.490Z"
+status: "active"
 ---
 
 # § 179E. Election to expense advanced mine safety equipment
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:27.649Z"
 - **(e)** No expenditures shall be taken into account under subsection (a) with respect to the portion of the cost of any property specified in an election under section 179.
 - **(f)** No deduction shall be allowed under subsection (a) to any taxpayer for any taxable year unless such taxpayer files with the Secretary a report containing such information with respect to the operation of the mines of the taxpayer as the Secretary shall require.
 - **(g)** This section shall not apply to property placed in service after December 31, 2017 .
+
+## Source Credit
+
+*(Added [Pub. L. 109–432, div. A, title IV, § 404(a)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 2955](https://www.govinfo.gov/link/statute/120/2955); amended [Pub. L. 110–343, div. C, title III, § 311](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3869](https://www.govinfo.gov/link/statute/122/3869); [Pub. L. 111–312, title VII, § 743(a)](https://www.govinfo.gov/link/plaw/111/public/312), Dec. 17, 2010, [124 Stat. 3319](https://www.govinfo.gov/link/statute/124/3319); [Pub. L. 112–240, title III, § 316(a)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2331](https://www.govinfo.gov/link/statute/126/2331); [Pub. L. 113–295, div. A, title I, § 128(a)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4018](https://www.govinfo.gov/link/statute/128/4018); [Pub. L. 114–113, div. Q, title I, § 168(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3067](https://www.govinfo.gov/link/statute/129/3067); [Pub. L. 115–123, div. D, title I, § 40307(a)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 146](https://www.govinfo.gov/link/statute/132/146).)*

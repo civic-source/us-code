@@ -3,12 +3,17 @@ title: "Section 282g - Status, privileges, and immunities of the United States"
 usc_title: 22
 usc_section: "282g"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 282g"
-generated_at: "2026-03-30T02:55:05.314Z"
+generated_at: "2026-11-23T20:26:31.980Z"
+status: "active"
 ---
 
 # § 282g. Status, privileges, and immunities of the United States
 
 The provisions of article V, section 5(d), and article VI, sections 2 to 9, both inclusive, of the Articles of Agreement of the Corporation shall have full force and effect in the United States and its Territories and possessions upon acceptance of membership by the United States in, and the establishment of, the Corporation.
 
+
+## Source Credit
+
+*(Aug. 11, 1955, ch. 788, § 9, [69 Stat. 670](https://www.govinfo.gov/link/statute/69/670).)*

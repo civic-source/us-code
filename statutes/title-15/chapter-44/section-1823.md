@@ -3,9 +3,10 @@ title: "Section 1823 - Horse shows and exhibitions"
 usc_title: 15
 usc_section: "1823"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1823"
-generated_at: "2026-03-30T02:54:08.160Z"
+generated_at: "2026-11-23T20:26:04.134Z"
+status: "active"
 ---
 
 # § 1823. Horse shows and exhibitions
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:08.160Z"
 - **(c)** The Secretary shall prescribe by regulation requirements for the appointment by the management of any horse show, horse exhibition, or horse sale or auction of persons qualified to detect and diagnose a horse which is sore or to otherwise inspect horses for the purposes of enforcing this chapter. Such requirements shall prohibit the appointment of persons who, after notice and opportunity for a hearing, have been disqualified by the Secretary to make such detection, diagnosis, or inspection. Appointment of a person in accordance with the requirements prescribed under this subsection shall not be construed as authorizing such person to conduct inspections in a manner other than that prescribed for inspections by the Secretary (or the Secretary’s representative) under subsection (e).
 - **(d)** The management of a horse show, horse exhibition, or horse sale or auction shall establish and maintain such records, make such reports, and provide such information as the Secretary may by regulation reasonably require for the purposes of implementing this chapter or to determine compliance with this chapter. Upon request of an officer or employee duly designated by the Secretary, such management shall permit entry at all reasonable times for the inspection and copying (on or off the premises) of records required to be maintained under this subsection.
 - **(e)** For purposes of enforcement of this chapter (including any regulation promulgated under this chapter) the Secretary, or any representative of the Secretary duly designated by the Secretary, may inspect any horse show, horse exhibition, or horse sale or auction or any horse at any such show, exhibition, sale, or auction. Such an inspection may only be made upon presenting appropriate credentials. Each such inspection shall be commenced and completed with reasonable promptness and shall be conducted within reasonable limits and in a reasonable manner. An inspection under this subsection shall extend to all things (including rec­ords) bearing on whether the requirements of this chapter have been complied with.
+
+## Source Credit
+
+*([Pub. L. 91–540, § 4](https://www.govinfo.gov/link/plaw/91/public/540), Dec. 9, 1970, [84 Stat. 1405](https://www.govinfo.gov/link/statute/84/1405); [Pub. L. 94–360, § 5](https://www.govinfo.gov/link/plaw/94/public/360), July 13, 1976, [90 Stat. 916](https://www.govinfo.gov/link/statute/90/916).)*

@@ -3,9 +3,10 @@ title: "Section 3737 - Running mates"
 usc_title: 14
 usc_section: "3737"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 3737"
-generated_at: "2026-03-30T02:53:51.503Z"
+generated_at: "2026-11-23T20:25:54.639Z"
+status: "active"
 ---
 
 # § 3737. Running mates
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:51.503Z"
   - **(4)** In a situation not expressly covered by this subsection, the Secretary may assign a new running mate as necessary to effect the intent of this section that inequitable changes of precedence do not occur.
 - **(c)** A Reserve officer on the active duty promotion list shall, to the extent practicable and consistent with the limitations imposed by this section, be assigned as the running mate of all Reserve officers junior to the officer, who are in an active status not on the active duty promotion list, and who had a running mate in common with the officer just prior to the time the officer was placed on the active duty promotion list.
 - **(d)** The Secretary may adjust, as necessary, the date of rank of a Reserve officer not on active duty so that the date will correspond with that of the running mate assigned to the officer in accordance with this section. If an overpayment of pay or allowances results from adjusting the date of rank, the overpayment is not subject to recoupment.
+
+## Source Credit
+
+*(Added [Pub. L. 96–322, § 1](https://www.govinfo.gov/link/plaw/96/public/322), Aug. 4, 1980, [94 Stat. 1008](https://www.govinfo.gov/link/statute/94/1008), § 726; renumbered § 3737 and amended [Pub. L. 115–282, title I](https://www.govinfo.gov/link/plaw/115/public/282), §§ 118(b), 123(b)(2), Dec. 4, 2018, [132 Stat. 4233](https://www.govinfo.gov/link/statute/132/4233), 4240.)*

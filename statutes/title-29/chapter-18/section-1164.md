@@ -3,9 +3,10 @@ title: "Section 1164 - Applicable premium"
 usc_title: 29
 usc_section: "1164"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1164"
-generated_at: "2026-03-30T02:55:18.721Z"
+generated_at: "2026-11-23T20:26:37.985Z"
+status: "active"
 ---
 
 # § 1164. Applicable premium
@@ -22,3 +23,7 @@ For purposes of this part—
       - **(ii)** the percentage increase or decrease in the implicit price deflator of the gross national product (calculated by the Department of Commerce and published in the Survey of Current Business) for the 12-month period ending on the last day of the sixth month of such preceding determination period.
     - **(C)** An administrator may not elect to have subparagraph (B) apply in any case in which there is any significant difference, between the determination period and the preceding determination period, in coverage under, or in employees covered by, the plan. The determination under the preceding sentence for any determination period shall be made at the same time as the determination under paragraph (3).
   - **(3)** The determination of any applicable premium shall be made for a period of 12 months and shall be made before the beginning of such period.
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 604](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 99–272, title X, § 10002(a)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 229](https://www.govinfo.gov/link/statute/100/229).)*

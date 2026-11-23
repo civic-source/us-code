@@ -3,9 +3,10 @@ title: "Section 3011 - Establishment of Administration on Aging"
 usc_title: 42
 usc_section: "3011"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3011"
-generated_at: "2026-03-30T02:56:11.170Z"
+generated_at: "2026-11-23T20:27:22.188Z"
+status: "active"
 ---
 
 # § 3011. Establishment of Administration on Aging
@@ -106,3 +107,7 @@ generated_at: "2026-03-30T02:56:11.170Z"
   - **(7)** Not later than December 31, 2020 , and annually thereafter, the director shall prepare, and submit to the Secretary, the Committee on Health, Education, Labor, and Pensions of the Senate, the Special Committee on Aging of the Senate, and the Committee on Education and Labor of the House of Representatives, a report on the activities funded under this section and subchapter IV.
   - **(8)** The director shall, as appropriate, consult with experts on aging research and evaluation and aging network stakeholders on the implementation of the activities described under paragraph (3) of this subsection.
   - **(9)** The director shall coordinate, as appropriate, all research and evaluation authorities under this chapter.
+
+## Source Credit
+
+*([Pub. L. 89–73, title II, § 201](https://www.govinfo.gov/link/plaw/89/public/73), July 14, 1965, [79 Stat. 220](https://www.govinfo.gov/link/statute/79/220); [Pub. L. 93–29, title II, § 201(a)](https://www.govinfo.gov/link/plaw/93/public/29), May 3, 1973, [87 Stat. 30](https://www.govinfo.gov/link/statute/87/30); [Pub. L. 93–351, § 2(a)](https://www.govinfo.gov/link/plaw/93/public/351), July 12, 1974, [88 Stat. 357](https://www.govinfo.gov/link/statute/88/357); [Pub. L. 95–478, title V, § 503(b)(1)](https://www.govinfo.gov/link/plaw/95/public/478), Oct. 18, 1978, [92 Stat. 1559](https://www.govinfo.gov/link/statute/92/1559); [Pub. L. 98–459, title II, § 201](https://www.govinfo.gov/link/plaw/98/public/459), Oct. 9, 1984, [98 Stat. 1767](https://www.govinfo.gov/link/statute/98/1767); [Pub. L. 100–175, title I](https://www.govinfo.gov/link/plaw/100/public/175), §§ 102, 107(a), 182(c), Nov. 29, 1987, [101 Stat. 928](https://www.govinfo.gov/link/statute/101/928), 931, 964; [Pub. L. 102–375, title I, § 102(b)(1)(A)](https://www.govinfo.gov/link/plaw/102/public/375), (2), title II, § 201, title IX, § 904(a)(3), Sept. 30, 1992, [106 Stat. 1200](https://www.govinfo.gov/link/statute/106/1200), 1201, 1202, 1306; [Pub. L. 103–171, § 3(a)(2)](https://www.govinfo.gov/link/plaw/103/public/171), Dec. 2, 1993, [107 Stat. 1989](https://www.govinfo.gov/link/statute/107/1989); [Pub. L. 106–501, title VIII, § 801(b)(1)](https://www.govinfo.gov/link/plaw/106/public/501), Nov. 13, 2000, [114 Stat. 2291](https://www.govinfo.gov/link/statute/114/2291); [Pub. L. 109–365, title II, § 201](https://www.govinfo.gov/link/plaw/109/public/365), Oct. 17, 2006, [120 Stat. 2527](https://www.govinfo.gov/link/statute/120/2527); [Pub. L. 114–144](https://www.govinfo.gov/link/plaw/114/public/144), §§ 3(a), 9(2), Apr. 19, 2016, [130 Stat. 335](https://www.govinfo.gov/link/statute/130/335), 352; [Pub. L. 116–131, title I, § 127(a)](https://www.govinfo.gov/link/plaw/116/public/131), Mar. 25, 2020, [134 Stat. 252](https://www.govinfo.gov/link/statute/134/252).)*

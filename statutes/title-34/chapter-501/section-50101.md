@@ -3,9 +3,10 @@ title: "Section 50101 - Application for assistance"
 usc_title: 34
 usc_section: "50101"
 chapter: 501
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 50101"
-generated_at: "2026-03-30T02:55:33.314Z"
+generated_at: "2026-11-23T20:26:50.661Z"
+status: "active"
 ---
 
 # § 50101. Application for assistance
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:33.314Z"
   - **(4)** the cost associated with the increased Federal presence,
   - **(5)** the need to avoid unnecessary Federal involvement and intervention in matters primarily of State and local concern, and
   - **(6)** any assistance which the State or other appropriate unit of government has received, or could receive, under any provision of title I of the Omnibus Crime Control and Safe Streets Act of 1968 [ 34 U.S.C. 10101 et seq.].
+
+## Source Credit
+
+*([Pub. L. 98–473, title II, § 609M](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2103](https://www.govinfo.gov/link/statute/98/2103); [Pub. L. 109–162, title XI, § 1113](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3103](https://www.govinfo.gov/link/statute/119/3103).)*

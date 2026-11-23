@@ -3,9 +3,10 @@ title: "Section 53 - Prohibition of health discrimination on the basis of geneti
 usc_title: 42
 usc_section: "53"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 53"
-generated_at: "2026-03-30T02:56:10.836Z"
+generated_at: "2026-11-23T20:27:20.662Z"
+status: "active"
 ---
 
 # § 300gg–53. Prohibition of health discrimination on the basis of genetic information
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:56:10.836Z"
 - **(f)** Any reference in this part to genetic information concerning an individual or family member of an individual shall—
   - **(1)** with respect to such an individual or family member of an individual who is a pregnant woman, include genetic information of any fetus carried by such pregnant woman; and
   - **(2)** with respect to an individual or family member utilizing an assisted reproductive technology, include genetic information of any embryo legally held by the individual or family member.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXVII, § 2753, as added [Pub. L. 110–233, title I, § 102(b)(1)(B)](https://www.govinfo.gov/link/plaw/110/public/233), May 21, 2008, [122 Stat. 893](https://www.govinfo.gov/link/statute/122/893).)*

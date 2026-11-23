@@ -3,9 +3,10 @@ title: "Section 3201 - Full and open competition"
 usc_title: 10
 usc_section: "3201"
 chapter: 221
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 3201"
-generated_at: "2026-03-30T02:53:38.189Z"
+generated_at: "2026-11-23T20:25:51.809Z"
+status: "active"
 ---
 
 # § 3201. Full and open competition
@@ -32,3 +33,25 @@ generated_at: "2026-03-30T02:53:38.189Z"
     - **(B)** specifically identifies the particular non-Federal Government entity involved; and
     - **(C)** specifically states that the award to that entity is required by such provision of law in contravention of the policy set forth in paragraph (1).
   - **(4)** This subsection shall not apply with respect to any contract that calls upon the National Academy of Sciences to investigate, examine, or experiment upon any subject of science or art of significance to an agency named in section 3063 of this title and to report on such matters to the Congress or any agency of the Federal Government.
+
+In General
+
+Determination of Appropriate Competitive Procedures
+
+Efficient Fulfillment of Government Requirements
+
+Certain Purchases or Contracts to Be Treated as if Made With Sealed-bid Procedures
+
+New Contracts and Merit-based Selection Procedures.—
+
+Congressional policy
+
+New contract described
+
+Provision of law described
+
+Exception
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1811(c)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4165](https://www.govinfo.gov/link/statute/134/4165); [Pub. L. 117–81, div. A, title XVII, § 1701(b)(4)(A)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2132](https://www.govinfo.gov/link/statute/135/2132).)*

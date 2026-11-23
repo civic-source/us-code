@@ -3,9 +3,10 @@ title: "Section 1616 - Community Health Representative Program"
 usc_title: 25
 usc_section: "1616"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1616"
-generated_at: "2026-03-30T02:54:52.818Z"
+generated_at: "2026-11-23T20:26:25.473Z"
+status: "active"
 ---
 
 # § 1616. Community Health Representative Program
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:52.818Z"
   - **(4)** maintain a system that provides close supervision of Community Health Representatives,
   - **(5)** maintain a system under which the work of Community Health Representatives is reviewed and evaluated, and
   - **(6)** promote traditional health care practices of the Indian tribes served consistent with the Service standards for the provision of health care, health promotion, and disease prevention.
+
+## Source Credit
+
+*([Pub. L. 94–437, title I, § 107](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 100–713, title I, § 107](https://www.govinfo.gov/link/plaw/100/public/713), Nov. 23, 1988, [102 Stat. 4788](https://www.govinfo.gov/link/statute/102/4788); amended [Pub. L. 102–573, title I, § 105](https://www.govinfo.gov/link/plaw/102/public/573), Oct. 29, 1992, [106 Stat. 4535](https://www.govinfo.gov/link/statute/106/4535).)*

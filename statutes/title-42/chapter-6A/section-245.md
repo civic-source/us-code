@@ -3,9 +3,10 @@ title: "Section 245 - Public awareness campaign on the importance of vaccination
 usc_title: 42
 usc_section: "245"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 245"
-generated_at: "2026-03-30T02:56:10.692Z"
+generated_at: "2026-11-23T20:27:19.993Z"
+status: "active"
 ---
 
 # § 245. Public awareness campaign on the importance of vaccinations
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:10.692Z"
   - **(3)** prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and Committee on Energy and Commerce of the House of Representatives an evaluation of the awareness campaign under this section.
 - **(f)** Funds appropriated under this section shall be used to supplement and not supplant other Federal, State, and local public funds provided for activities described in this section.
 - **(g)** There are authorized to be appropriated to carry out this section and subsections (k) and (n) of section 247b of this title , $15,000,000 for each of fiscal years 2021 through 2025.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 313, as added [Pub. L. 116–260, div. BB, title III, § 311(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2923](https://www.govinfo.gov/link/statute/134/2923).)*

@@ -3,9 +3,10 @@ title: "Section 718 - Training; emergency response providers"
 usc_title: 14
 usc_section: "718"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 718"
-generated_at: "2026-03-30T02:53:51.490Z"
+generated_at: "2026-11-23T20:25:54.540Z"
+status: "active"
 ---
 
 # § 718. Training; emergency response providers
@@ -19,3 +20,19 @@ generated_at: "2026-03-30T02:53:51.490Z"
 - **(d)**
   - **(1)** Any individual to whom, as an emergency response provider, training is made available under this section, who is not otherwise a Federal employee, shall not, because of that training, be considered a Federal employee for any purpose (including the purposes of chapter 81 of title 5 (relating to compensation for injury) and sections 2671 through 2680 of title 28 (relating to tort claims)).
   - **(2)** The United States shall not be liable for actions taken by an individual in the course of training made available under this section.
+
+In General
+
+Emergency Response Providers Defined
+
+Treatment of Reimbursement
+
+Status; Limitation on Liability.—
+
+Status
+
+Limitation on liability
+
+## Source Credit
+
+*(Added [Pub. L. 115–282, title III, § 306(a)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4247](https://www.govinfo.gov/link/statute/132/4247).)*

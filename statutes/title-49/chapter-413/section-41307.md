@@ -3,9 +3,10 @@ title: "Section 41307 - Presidential review of actions about foreign air transpo
 usc_title: 49
 usc_section: "41307"
 chapter: 413
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 41307"
-generated_at: "2026-03-30T02:56:19.373Z"
+generated_at: "2026-11-23T20:27:35.083Z"
+status: "active"
 ---
 
 # § 41307. Presidential review of actions about foreign air transportation
@@ -16,3 +17,73 @@ The Secretary of Transportation shall submit to the President for review each de
   - **(2)**
     - **(A)** takes effect as a decision of the Secretary if the President does not disapprove the decision not later than 60 days after the decision is submitted to the President; and
     - **(B)** when effective, may be reviewed judicially under section 46110 of this title .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 41307 | 49 App.:1461(a). | Aug. 23, 1958 , Pub. L. 85–726, § 801(a) , 72 Stat. 782 ; Mar. 22, 1972 , Pub. L. 92–259, § 2 , 86 Stat. 96 ; restated Oct. 24, 1978 , Pub. L. 95–504, § 34 , 92 Stat. 1740 . |
+|  | 49 App.:1551(b)(1)(E). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 1601(b)(1)(E); added Oct. 4, 1984 , Pub. L. 98–443, § 3(e) , 98 Stat. 1704 . |
+
+
+Historical and Revision Notes
+
+41307
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 801(a)
+
+72 Stat. 782
+
+Mar. 22, 1972
+
+Pub. L. 92–259, § 2
+
+86 Stat. 96
+
+Oct. 24, 1978
+
+Pub. L. 95–504, § 34
+
+92 Stat. 1740
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Oct. 4, 1984
+
+Pub. L. 98–443, § 3(e)
+
+98 Stat. 1704
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Ronald Reagan.
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1128](https://www.govinfo.gov/link/statute/108/1128).)*

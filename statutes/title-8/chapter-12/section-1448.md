@@ -3,9 +3,10 @@ title: "Section 1448 - Oath of renunciation and allegiance"
 usc_title: 8
 usc_section: "1448"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1448"
-generated_at: "2026-03-30T02:53:10.502Z"
+generated_at: "2026-11-23T20:25:36.241Z"
+status: "active"
 ---
 
 # § 1448. Oath of renunciation and allegiance
@@ -14,3 +15,21 @@ generated_at: "2026-03-30T02:53:10.502Z"
 - **(b)** In case the person applying for naturalization has borne any hereditary title, or has been of any of the orders of nobility in any foreign state, the applicant shall in addition to complying with the requirements of subsection (a) of this section, make under oath in the same public ceremony in which the oath of allegiance is administered, an express renunciation of such title or order of nobility, and such renunciation shall be recorded as a part of such proceedings.
 - **(c)** Notwithstanding section 1421(b) of this title , an individual may be granted an expedited judicial oath administration ceremony or administrative naturalization by the Attorney General upon demonstrating sufficient cause. In determining whether to grant an expedited judicial oath administration ceremony, a court shall consider special circumstances (such as serious illness of the applicant or a member of the applicant’s immediate family, permanent disability sufficiently incapacitating as to prevent the applicant’s personal appearance at the scheduled ceremony, developmental disability or advanced age, or exigent circumstances relating to travel or employment). If an expedited judicial oath administration ceremony is impracticable, the court shall refer such individual to the Attorney General who may provide for immediate administrative naturalization.
 - **(d)** The Attorney General shall prescribe rules and procedures to ensure that the ceremonies conducted by the Attorney General for the administration of oaths of allegiance under this section are public, conducted frequently and at regular intervals, and are in keeping with the dignity of the occasion.
+
+In General
+
+Selection of Sites
+
+Amounts Available; Use of Funds.—
+
+Amount
+
+Use
+
+Availability of funds
+
+Application
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title III, ch. 2, § 337, [66 Stat. 258](https://www.govinfo.gov/link/statute/66/258); [Pub. L. 97–116, § 18](https://www.govinfo.gov/link/plaw/97/public/116) (o), Dec. 29, 1981, [95 Stat. 1621](https://www.govinfo.gov/link/statute/95/1621); [Pub. L. 101–649, title IV, § 407(c)(18)](https://www.govinfo.gov/link/plaw/101/public/649), (d)(15), Nov. 29, 1990, [104 Stat. 5041](https://www.govinfo.gov/link/statute/104/5041), 5044; [Pub. L. 102–232, title I, § 102(b)(2)](https://www.govinfo.gov/link/plaw/102/public/232), title III, § 305(i), Dec. 12, 1991, [105 Stat. 1736](https://www.govinfo.gov/link/statute/105/1736), 1750; [Pub. L. 106–448, § 1](https://www.govinfo.gov/link/plaw/106/public/448), Nov. 6, 2000, [114 Stat. 1939](https://www.govinfo.gov/link/statute/114/1939).)*

@@ -3,9 +3,10 @@ title: "Section 2350l - Cooperative agreements for reciprocal use of test facili
 usc_title: 10
 usc_section: "2350l"
 chapter: 138
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2350l"
-generated_at: "2026-03-30T02:53:38.156Z"
+generated_at: "2026-11-23T20:25:51.554Z"
+status: "active"
 ---
 
 # § 2350l. Cooperative agreements for reciprocal use of test facilities: foreign countries and international organizations
@@ -28,3 +29,17 @@ generated_at: "2026-03-30T02:53:38.156Z"
     - **(A)** means any item of cost that is not easily and readily identified to a specific unit of work or output within the test facility where the use occurred; and
     - **(B)** may include general and administrative expenses for such activities as supporting base operations, manufacturing, supervision, procurement of office supplies, and utilities that are accumulated costs allocated among several users.
   - **(3)** The term “test facility” means a range or other facility at which testing of defense equipment may be carried out.
+
+Authority
+
+Payment of Costs
+
+Determination of Indirect Costs; Delegation of Authority
+
+Retention of Funds Collected by the United States
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 107–107, div. A, title XII, § 1213(a)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1250](https://www.govinfo.gov/link/statute/115/1250); amended [Pub. L. 116–283, div. A, title XVIII, § 1844(b)(1)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4245](https://www.govinfo.gov/link/statute/134/4245); [Pub. L. 117–81, div. A, title XVII, § 1701(u)(5)(B)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2154](https://www.govinfo.gov/link/statute/135/2154).)*

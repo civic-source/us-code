@@ -3,9 +3,10 @@ title: "Section 228a - Authority of Secretary to request temporary injunction or
 usc_title: 7
 usc_section: "228a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 228a"
-generated_at: "2026-03-30T02:53:42.278Z"
+generated_at: "2026-11-23T20:25:41.005Z"
+status: "active"
 ---
 
 # § 228a. Authority of Secretary to request temporary injunction or restraining order
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:42.278Z"
 - **(b)** has operated while insolvent, or otherwise in violation of this chapter in a manner which may reasonably be expected to cause irreparable damage to another person; or
 - **(c)** does not have the required bond; and that it would be in the public interest to enjoin such person from operating subject to this chapter or enjoin him from operating subject to this chapter except under such conditions as would protect vendors or consignors of such commodities or other affected persons, until a complaint under this chapter is issued and dismissed by the Secretary or until an order to cease and desist made thereon by the Secretary has become final and effective within the meaning of this chapter or is set aside on appellate review of the Secretary’s order, the Secretary may notify the Attorney General, who may apply to the United States district court for the district in which such person has his principal place of business or in which he resides for a temporary injunction or restraining order. When needed to effectuate the purposes of this section, the court shall, upon a proper showing, issue a temporary injunction or restraining order, without bond. Attorneys employed by the Secretary of Agriculture may, with the approval of the Attorney General, appear in the United States district court representing the Secretary in any action seeking such a temporary restraining order or injunction.
 
+
+## Source Credit
+
+*(Aug. 15, 1921, ch. 64, title IV, § 408, as added [Pub. L. 94–410, § 5](https://www.govinfo.gov/link/plaw/94/public/410), Sept. 13, 1976, [90 Stat. 1250](https://www.govinfo.gov/link/statute/90/1250); amended [Pub. L. 100–173, § 8](https://www.govinfo.gov/link/plaw/100/public/173), Nov. 23, 1987, [101 Stat. 919](https://www.govinfo.gov/link/statute/101/919).)*

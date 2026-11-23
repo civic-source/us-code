@@ -3,9 +3,10 @@ title: "Section 7803 - Commissioner of Internal Revenue; other officials"
 usc_title: 26
 usc_section: "7803"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 7803"
-generated_at: "2026-03-30T02:55:27.886Z"
+generated_at: "2026-11-23T20:26:46.848Z"
+status: "active"
 ---
 
 # § 7803. Commissioner of Internal Revenue; other officials
@@ -186,3 +187,27 @@ generated_at: "2026-03-30T02:55:27.886Z"
       - **(i)** the Office of the Taxpayer Advocate,
       - **(ii)** the Criminal Investigation Division of the Internal Revenue Service, and
       - **(iii)** except as otherwise provided by the Secretary with respect to information technology related to matters described in subsection (b)(3)(B), the Office of the Chief Counsel.
+
+In general
+
+In general
+
+Access to case files
+
+In general
+
+Chief counsel
+
+National taxpayer advocate
+
+Current officers.—
+
+In general
+
+Significant irs information technology acquisitions
+
+Scope
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 915; [Pub. L. 92–310, title II, § 230(e)](https://www.govinfo.gov/link/plaw/92/public/310), June 6, 1972, [86 Stat. 209](https://www.govinfo.gov/link/statute/86/209); [Pub. L. 94–455, title XIX, § 1906(a)(58)](https://www.govinfo.gov/link/plaw/94/public/455), (b)(13)(A), Oct. 4, 1976, [90 Stat. 1833](https://www.govinfo.gov/link/statute/90/1833), 1834; [Pub. L. 105–206, title I, § 1102(a)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 697](https://www.govinfo.gov/link/statute/112/697); [Pub. L. 110–176, § 1(a)](https://www.govinfo.gov/link/plaw/110/public/176), Jan. 4, 2008, [121 Stat. 2532](https://www.govinfo.gov/link/statute/121/2532); [Pub. L. 110–428, § 2(c)](https://www.govinfo.gov/link/plaw/110/public/428), Oct. 15, 2008, [122 Stat. 4840](https://www.govinfo.gov/link/statute/122/4840); [Pub. L. 114–113, div. Q, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3117](https://www.govinfo.gov/link/statute/129/3117); [Pub. L. 116–25, title I](https://www.govinfo.gov/link/plaw/116/public/25), §§ 1001(a), 1301(a)–(b)(2), (3)(B)–(c), title II, § 2101(a), July 1, 2019, [133 Stat. 983](https://www.govinfo.gov/link/statute/133/983), 991–993, 1008; [Pub. L. 117–286, § 4(b)(46)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4348](https://www.govinfo.gov/link/statute/136/4348).)*

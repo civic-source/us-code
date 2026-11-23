@@ -3,9 +3,10 @@ title: "Section 7651g - Permits and compliance plans"
 usc_title: 42
 usc_section: "7651g"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7651g"
-generated_at: "2026-03-30T02:56:11.323Z"
+generated_at: "2026-11-23T20:27:22.954Z"
+status: "active"
 ---
 
 # § 7651g. Permits and compliance plans
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:56:11.323Z"
   - **(2)** It shall be unlawful for any person to operate any source subject to this subchapter except in compliance with the terms and requirements of a permit application and compliance plan (including amendments thereto) or permit issued by the Administrator or a State with an approved permit program. For purposes of this subsection, compliance, as provided in section 7661c(f) of this title , with a permit issued under subchapter V which complies with this subchapter for sources subject to this subchapter shall be deemed compliance with this subsection as well as section 7661a(a) of this title .
   - **(3)** In order to ensure reliability of electric power, nothing in this subchapter or subchapter V shall be construed as requiring termination of operations of an electric utility steam generating unit for failure to have an approved permit or compliance plan, except that any such unit may be subject to the applicable enforcement provisions of section 7413 of this title .
 - **(i)** No permit shall be issued under this section to an affected unit until the designated representative of the owners or operators has filed a certificate of representation with regard to matters under this subchapter, including the holding and distribution of allowances and the proceeds of transactions involving allowances. Where there are multiple holders of a legal or equitable title to, or a leasehold interest in, such a unit, or where a utility or industrial customer purchases power from an affected unit (or units) under life-of-the-unit, firm power contractual arrangements, the certificate shall state (1) that allowances and the proceeds of transactions involving allowances will be deemed to be held or distributed in proportion to each holder’s legal, equitable, leasehold, or contractual reservation or entitlement, or (2) if such multiple holders have expressly provided for a different distribution of allowances by contract, that allowances and the proceeds of transactions involving allowances will be deemed to be held or distributed in accordance with the contract. A passive lessor, or a person who has an equitable interest through such lessor, whose rental payments are not based, either directly or indirectly, upon the revenues or income from the affected unit shall not be deemed to be a holder of a legal, equitable, leasehold, or contractual interest for the purpose of holding or distributing allowances as provided in this subsection, during either the term of such leasehold or thereafter, unless expressly provided for in the leasehold agreement. Except as otherwise provided in this subsection, where all legal or equitable title to or interest in an affected unit is held by a single person, the certification shall state that all allowances received by the unit are deemed to be held for that person.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title IV, § 408, as added [Pub. L. 101–549, title IV, § 401](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2616](https://www.govinfo.gov/link/statute/104/2616).)*

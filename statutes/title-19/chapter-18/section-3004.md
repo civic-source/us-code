@@ -3,9 +3,10 @@ title: "Section 3004 - Enactment of Harmonized Tariff Schedule"
 usc_title: 19
 usc_section: "3004"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3004"
-generated_at: "2026-03-30T02:54:24.687Z"
+generated_at: "2026-11-23T20:26:11.028Z"
+status: "active"
 ---
 
 # § 3004. Enactment of Harmonized Tariff Schedule
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:54:24.687Z"
   - **(1)** proclamation issued by the President;
   - **(2)** public notice issued by the Commission or other Federal agency; and
   - **(3)** finding, determination, order, recommendation, or other decision made by the Commission or other Federal agency;
+
+## Source Credit
+
+*([Pub. L. 100–418, title I, § 1204](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1148](https://www.govinfo.gov/link/statute/102/1148).)*

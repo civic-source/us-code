@@ -3,9 +3,10 @@ title: "Section 1105 - Specialized treatment facility program"
 usc_title: 10
 usc_section: "1105"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1105"
-generated_at: "2026-03-30T02:53:38.108Z"
+generated_at: "2026-11-23T20:25:51.245Z"
+status: "active"
 ---
 
 # § 1105. Specialized treatment facility program
@@ -22,3 +23,23 @@ generated_at: "2026-03-30T02:53:38.108Z"
     - **(C)** In-kind transportation, lodging, or meals instead of reimbursements under subparagraph (A) or (B) for transportation, lodging, or meals, respectively.
   - **(2)** The Secretary may make reimbursements for or provide transportation, lodging, and meals under paragraph (1) in the case of a covered beneficiary only if the total cost to the Department of Defense of doing so and of providing the health care in such case is less than the cost to the Department of providing the health care to the covered beneficiary by other means authorized under this chapter.
 - **(g)** In this section, the term “covered beneficiary” means a person covered under section 1079 or 1086 of this title.
+
+Program Authorized
+
+Facilities Authorized To Be Used
+
+Waiver of Nonemergency Health Care Restriction
+
+Civilian Facility Service Area
+
+Issuance of Nonavailability of Health Care Statements
+
+Payment of Costs Related to Care in Specialized Treatment Facilities
+
+Covered Beneficiary Defined
+
+Expiration of Program
+
+## Source Credit
+
+*(Added [Pub. L. 102–190, div. A, title VII, § 715(a)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1403](https://www.govinfo.gov/link/statute/105/1403); amended [Pub. L. 103–160, div. A, title VII, § 716(a)(1)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1691](https://www.govinfo.gov/link/statute/107/1691); [Pub. L. 104–106, div. A, title VII, § 706](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 373](https://www.govinfo.gov/link/statute/110/373); [Pub. L. 113–291, div. A, title VII, § 703(c)(3)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3412](https://www.govinfo.gov/link/statute/128/3412).)*

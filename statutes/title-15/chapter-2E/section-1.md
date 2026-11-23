@@ -3,9 +3,10 @@ title: "Section 1 - Annual government-business forum on capital formation"
 usc_title: 15
 usc_section: "1"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1"
-generated_at: "2026-03-30T02:54:08.073Z"
+generated_at: "2026-11-23T20:26:03.648Z"
+status: "active"
 ---
 
 # § 80c–1. Annual government-business forum on capital formation
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:08.073Z"
   - **(2)** each time the forum submits a finding or recommendation to the Commission, promptly issue a public statement—
     - **(A)** assessing the finding or recommendation of the forum; and
     - **(B)** disclosing the action, if any, the Commission intends to take with respect to the finding or recommendation.
+
+## Source Credit
+
+*([Pub. L. 96–477, title V, § 503](https://www.govinfo.gov/link/plaw/96/public/477), Oct. 21, 1980, [94 Stat. 2292](https://www.govinfo.gov/link/statute/94/2292); [Pub. L. 114–284, § 2(c)](https://www.govinfo.gov/link/plaw/114/public/284), Dec. 16, 2016, [130 Stat. 1452](https://www.govinfo.gov/link/statute/130/1452); [Pub. L. 115–174, title V, § 503](https://www.govinfo.gov/link/plaw/115/public/174), May 24, 2018, [132 Stat. 1362](https://www.govinfo.gov/link/statute/132/1362).)*

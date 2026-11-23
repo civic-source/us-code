@@ -3,9 +3,10 @@ title: "Section 2694 - Conservation and cultural activities"
 usc_title: 10
 usc_section: "2694"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2694"
-generated_at: "2026-03-30T02:53:38.171Z"
+generated_at: "2026-11-23T20:25:51.662Z"
+status: "active"
 ---
 
 # § 2694. Conservation and cultural activities
@@ -31,3 +32,17 @@ generated_at: "2026-03-30T02:53:38.171Z"
 - **(c)** The Secretary may negotiate and enter into cooperative agreements with public and private agencies, organizations, institutions, individuals, or other entities to carry out the program established under subsection (a).
 - **(d)** Nothing in this section shall be construed or interpreted as preempting any otherwise applicable Federal, State, or local law or regulation relating to the management of natural and cultural resources on military installations.
 - **(e)** In this section, the term “sentinel landscape” has the meaning given that term in section 2693(g) of this title .
+
+Establishment
+
+Activities
+
+Cooperative Agreements
+
+Effect on Other Laws
+
+Sentinel Landscape Defined
+
+## Source Credit
+
+*(Added [Pub. L. 104–201, div. A, title III, § 332(a)(1)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2484](https://www.govinfo.gov/link/statute/110/2484); amended [Pub. L. 105–85, div. A, title X, § 1073(a)(59)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1903](https://www.govinfo.gov/link/statute/111/1903); [Pub. L. 112–81, div. B, title XXVIII, § 2814](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1688](https://www.govinfo.gov/link/statute/125/1688); [Pub. L. 117–81, div. A, title III, § 317(c)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1632](https://www.govinfo.gov/link/statute/135/1632); [Pub. L. 118–31, div. A, title III, § 311(c)(2)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 215](https://www.govinfo.gov/link/statute/137/215).)*

@@ -3,9 +3,10 @@ title: "Section 4901 - Definitions"
 usc_title: 15
 usc_section: "4901"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 4901"
-generated_at: "2026-03-30T02:54:08.204Z"
+generated_at: "2026-11-23T20:26:04.361Z"
+status: "active"
 ---
 
 # § 4901. Definitions
@@ -18,3 +19,7 @@ For purposes of this chapter—
   - **(4)** the term “export promotion data system” means the data system known as the Commercial Information Management System which is maintained and operated by the United States and Foreign Commercial Service and is established as part of the Data Bank under section 4906 1 1 See References in Text note below. of this title;
   - **(5)** the term “international economic data system” means the data system established as part of the Data Bank under section 4906 of this title which contains data useful to policymakers and analysis concerned with international economics; and
   - **(6)** the term “Secretary” means the Secretary of Commerce.
+
+## Source Credit
+
+*([Pub. L. 100–418, title V, § 5401](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1463](https://www.govinfo.gov/link/statute/102/1463).)*

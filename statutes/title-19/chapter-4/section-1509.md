@@ -3,9 +3,10 @@ title: "Section 1509 - Examination of books and witnesses"
 usc_title: 19
 usc_section: "1509"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1509"
-generated_at: "2026-03-30T02:54:24.639Z"
+generated_at: "2026-11-23T20:26:10.790Z"
+status: "active"
 ---
 
 # § 1509. Examination of books and witnesses
@@ -97,3 +98,7 @@ generated_at: "2026-03-30T02:54:24.639Z"
       - **(iii)** warn the recordkeeper that future failures to produce demanded records or information may result in the imposition of monetary penalties.
     - **(C)** Within a reasonable time after receiving written notice under subparagraph (A), the recordkeeper shall notify the Customs Service of the steps it has taken to prevent a recurrence of the violation.
     - **(D)** The Secretary shall promulgate regulations to implement this paragraph. Such regulations may specify the time periods for compliance with a demand for information and provide guidelines which define repeated violations for purposes of this paragraph. Any penalty issued for a recordkeeping violation shall take into account the degree of compliance compared to the total number of importations, the nature of the demanded records and the recordkeeper’s cooperation.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 509, [46 Stat. 733](https://www.govinfo.gov/link/statute/46/733); June 25, 1948, ch. 646, § 26, [62 Stat. 990](https://www.govinfo.gov/link/statute/62/990); [Pub. L. 91–271, title III, § 301(n)](https://www.govinfo.gov/link/plaw/91/public/271), June 2, 1970, [84 Stat. 289](https://www.govinfo.gov/link/statute/84/289); [Pub. L. 95–410, title I, § 105](https://www.govinfo.gov/link/plaw/95/public/410), Oct. 3, 1978, [92 Stat. 889](https://www.govinfo.gov/link/statute/92/889); [Pub. L. 99–570, title III, § 3117](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–84](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 103–182, title II, § 205(b)](https://www.govinfo.gov/link/plaw/103/public/182), title VI, § 615, Dec. 8, 1993, [107 Stat. 2094](https://www.govinfo.gov/link/statute/107/2094), 2175; [Pub. L. 104–295, § 3(a)(1)](https://www.govinfo.gov/link/plaw/104/public/295), (10), Oct. 11, 1996, [110 Stat. 3515](https://www.govinfo.gov/link/statute/110/3515), 3516; [Pub. L. 107–210, div. A, title III, § 382](https://www.govinfo.gov/link/plaw/107/public/210), Aug. 6, 2002, [116 Stat. 992](https://www.govinfo.gov/link/statute/116/992); [Pub. L. 116–113, title II, § 209(b)](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 52](https://www.govinfo.gov/link/statute/134/52).)*

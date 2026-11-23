@@ -3,9 +3,10 @@ title: "Section 22907 - Consolidated rail infrastructure and safety improvements
 usc_title: 49
 usc_section: "22907"
 chapter: 229
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 22907"
-generated_at: "2026-03-30T02:56:19.342Z"
+generated_at: "2026-11-23T20:27:34.836Z"
+status: "active"
 ---
 
 # § 22907. Consolidated rail infrastructure and safety improvements
@@ -72,3 +73,133 @@ generated_at: "2026-03-30T02:56:19.342Z"
     - **(A)** in which there is no intercity passenger rail service, for the purpose of funding freight rail capital projects that are on a State rail plan developed under chapter 227, including highway construction over rail facilities as an alternative to construction or improvement of a highway-rail grade crossing, that provide public benefits (as defined in chapter 227), as determined by the Secretary; or
     - **(B)** in which the rail transportation system is not physically connected to rail systems in the continental United States or may not otherwise qualify for a grant under this section due to the unique characteristics of the geography of that State or other relevant considerations, for the purpose of funding transportation-related capital projects.
   - **(2)** For the purposes of this subsection, the term “appropriate portion” means a share, for each State subject to paragraph (1), not less than the share of the total railroad route miles in such State of the total railroad route miles in the United States, excluding from all totals the route miles exclusively used for tourist, scenic, and excursion railroad operations.
+
+General Authority
+
+Eligible Recipients
+
+Eligible Projects
+
+Application Process
+
+Project Selection Criteria.—
+
+In general
+
+Other considerations
+
+Benefits
+
+Performance Measures
+
+Rural Areas.—
+
+In general
+
+Definition of rural area
+
+Federal Share of Total Project Costs.—
+
+Total project costs
+
+Federal share
+
+Treatment of passenger rail revenue
+
+Grade crossing and trespassing projects
+
+Applicability
+
+Availability
+
+Limitation
+
+Special Transportation Circumstances.—
+
+In general
+
+Definition
+
+“Not later than 2 years after the date of enactment of this Act [ Nov. 15, 2021 ], the Administrator of the Federal Railroad Administration shall—
+
+In General
+
+Blocked Crossing Portal
+
+Complaints
+
+Information Received
+
+Use of Information
+
+Sharing Information Received.—
+
+In general
+
+Rule of construction
+
+Additional Information
+
+Limitations
+
+Reports.—
+
+Annual public report
+
+Report to congress
+
+Sunset
+
+Rule of Construction
+
+Data
+
+Benefit-Cost Analysis
+
+Confidential Data
+
+Model State Highway-Rail Grade Crossing Action Plan.—
+
+In general
+
+Contents
+
+State Highway-Rail Grade Crossing Action Plans.—
+
+Requirements
+
+Contents
+
+Assistance
+
+Public availability
+
+Conditions
+
+Review of action plans
+
+Deadline
+
+Failure to complete or correct plan
+
+Railway-Highway Crossings Funds
+
+Definitions
+
+Highway-rail grade crossing
+
+State
+
+In General
+
+Review and Approval
+
+Grant
+
+Pilot Program
+
+Authorization of Appropriations
+
+## Source Credit
+
+*(Added [Pub. L. 114–94, div. A, title XI, § 11301(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1644](https://www.govinfo.gov/link/statute/129/1644), § 24407; renumbered § 22907 and amended [Pub. L. 115–420, § 7(a)(1)](https://www.govinfo.gov/link/plaw/115/public/420), (b)(2)(D), Jan. 3, 2019, [132 Stat. 5445](https://www.govinfo.gov/link/statute/132/5445), 5446; [Pub. L. 117–58, div. B, title II, § 22303(a)](https://www.govinfo.gov/link/plaw/117/public/58), (c)(1), Nov. 15, 2021, [135 Stat. 718](https://www.govinfo.gov/link/statute/135/718).)*

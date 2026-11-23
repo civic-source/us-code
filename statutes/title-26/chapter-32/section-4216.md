@@ -3,9 +3,10 @@ title: "Section 4216 - Definition of price"
 usc_title: 26
 usc_section: "4216"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 4216"
-generated_at: "2026-03-30T02:55:27.800Z"
+generated_at: "2026-11-23T20:26:46.293Z"
+status: "active"
 ---
 
 # § 4216. Definition of price
@@ -51,3 +52,9 @@ generated_at: "2026-03-30T02:55:27.800Z"
     - **(A)** is initiated or obtained by the purchaser or any subsequent vendee,
     - **(B)** names the article for which the price is determinable under this section and states the location at which such article may be purchased at retail, and
     - **(C)** is broadcast over a radio station or television station, appears in a newspaper or magazine, or is displayed by means of an outdoor advertising sign or poster.
+
+“The amendments made by subsection (a) [probably should refer to amendments made by sections 1 to 3 of act Aug. 9, 1955 , amending this section and section 4217 of this title ] shall take effect on the first day of the first month which begins more than 10 days after the date of the enactment of this act [ Aug. 9, 1955 ]. In the application of section 4216(d) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (as added by this Act) to any article which has been leased before the effective date specified in the preceding sentence, under regulations prescribed by the Secretary of the Treasury or his delegate—
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 493; Aug. 9, 1955, ch. 677, §§ 1, 2, [69 Stat. 613](https://www.govinfo.gov/link/statute/69/613); [Pub. L. 85–859, title I](https://www.govinfo.gov/link/plaw/85/public/859), §§ 115, 116, 117(b), Sept. 2, 1958, [72 Stat. 1279–1281](https://www.govinfo.gov/link/statute/72/1279); [Pub. L. 86–781, § 1](https://www.govinfo.gov/link/plaw/86/public/781), Sept. 14, 1960, [74 Stat. 1017](https://www.govinfo.gov/link/statute/74/1017); [Pub. L. 87–770, § 2(a)](https://www.govinfo.gov/link/plaw/87/public/770), Oct. 9, 1962, [76 Stat. 768](https://www.govinfo.gov/link/statute/76/768); [Pub. L. 87–858, § 1(a)](https://www.govinfo.gov/link/plaw/87/public/858), Oct. 23, 1962, [76 Stat. 1134](https://www.govinfo.gov/link/statute/76/1134); [Pub. L. 89–44, title II](https://www.govinfo.gov/link/plaw/89/public/44), §§ 207(a), (b), 208(a), (b), title VIII, § 801(b), June 21, 1965, [79 Stat. 140](https://www.govinfo.gov/link/statute/79/140), 141, 158; [Pub. L. 91–172, title IX, § 932(a)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 725](https://www.govinfo.gov/link/statute/83/725); [Pub. L. 91–614, title III, § 301(a)](https://www.govinfo.gov/link/plaw/91/public/614), (b), Dec. 31, 1970, [84 Stat. 1844](https://www.govinfo.gov/link/statute/84/1844); [Pub. L. 92–178, title IV, § 401(g)(4)](https://www.govinfo.gov/link/plaw/92/public/178), Dec. 10, 1971, [85 Stat. 533](https://www.govinfo.gov/link/statute/85/533); [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1904(a)(2), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1811](https://www.govinfo.gov/link/statute/90/1811), 1834; [Pub. L. 95–458, § 1(a)](https://www.govinfo.gov/link/plaw/95/public/458), (b), Oct. 14, 1978, [92 Stat. 1255](https://www.govinfo.gov/link/statute/92/1255); [Pub. L. 98–369, div. A, title VII, § 735(c)(6)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 982](https://www.govinfo.gov/link/statute/98/982).)*

@@ -3,9 +3,10 @@ title: "Section 8627 - Foreign naval vessels and aircraft: supplies and services
 usc_title: 10
 usc_section: "8627"
 chapter: 861
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 8627"
-generated_at: "2026-03-30T02:53:38.247Z"
+generated_at: "2026-11-23T20:25:52.218Z"
+status: "active"
 ---
 
 # § 8627. Foreign naval vessels and aircraft: supplies and services
@@ -20,3 +21,24 @@ generated_at: "2026-03-30T02:53:38.247Z"
   - **(2)** When furnishing routine port services under this section to naval vessels of a foreign country, the Secretary may furnish such services without reimbursement if such services are provided under an agreement that provides for the reciprocal furnishing by such country of routine port services to naval vessels of the United States without reimbursement. When furnishing routine airport services under this section to military aircraft of a foreign country, the Secretary may furnish such services without reimbursement if such services are provided under an agreement that provides for the reciprocal furnishing by such country of routine airport services to military aircraft of the United States without reimbursement.
   - **(3)** If routine port or airport services are furnished under this section by a working-capital fund activity of the Navy established under section 2208 of this title and such activity is not reimbursed directly for the costs incurred by the activity in furnishing those services by reason of paragraph (2), the working-capital fund activity shall be reimbursed for such costs out of operating funds currently available to the Navy.
 - **(c)** Payments for supplies and services furnished under this section may be credited to current appropriations so as to be available for the same purpose as the appropriation initially charged.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 7227 | 34 U.S.C. 555d , 34 U.S.C. 555e . | May 27, 1953, ch. 67 , 67 Stat. 34 . |
+
+
+Historical and Revision Notes
+
+7227
+
+34 U.S.C. 555d
+
+34 U.S.C. 555e
+
+May 27, 1953, ch. 67
+
+67 Stat. 34
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 447, § 7227; [Pub. L. 86–55, § 1](https://www.govinfo.gov/link/plaw/86/public/55), June 23, 1959, [73 Stat. 89](https://www.govinfo.gov/link/statute/73/89); [Pub. L. 98–94, title XII, § 1219(a)](https://www.govinfo.gov/link/plaw/98/public/94), Sept. 24, 1983, [97 Stat. 691](https://www.govinfo.gov/link/statute/97/691); [Pub. L. 98–525, title XIV, § 1405(49)](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2625](https://www.govinfo.gov/link/statute/98/2625); [Pub. L. 102–190, div. A, title X, § 1048](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1468](https://www.govinfo.gov/link/statute/105/1468); renumbered § 8627, [Pub. L. 115–232, div. A, title VIII, § 807(d)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1836](https://www.govinfo.gov/link/statute/132/1836).)*

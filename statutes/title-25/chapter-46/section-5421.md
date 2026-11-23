@@ -3,9 +3,10 @@ title: "Section 5421 - National Fund for Excellence in American Indian Education
 usc_title: 25
 usc_section: "5421"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 5421"
-generated_at: "2026-03-30T02:54:52.872Z"
+generated_at: "2026-11-23T20:26:25.754Z"
+status: "active"
 ---
 
 # § 5421. National Fund for Excellence in American Indian Education
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:54:52.872Z"
   - **(3)** Members of the Board, and the officers, employees, and agents of the Foundation are not, by reason of their association with the Foundation, officers, employees, or agents of the United States.
 - **(m)** The Secretary may transfer to the Foundation funds held by the Department of the Interior under section 5341 of this title , if the transfer or use of such funds is not prohibited by any term under which the funds were donated.
 - **(n)** The Foundation shall comply with the audit requirements set forth in section 10101 of title 36 , as if it were a corporation in part B of subtitle II of that title.
+
+## Source Credit
+
+*([Pub. L. 93–638, title VIII, § 801](https://www.govinfo.gov/link/plaw/93/public/638), formerly title V, § 501, as added [Pub. L. 106–568, title XIII, § 1302](https://www.govinfo.gov/link/plaw/106/public/568), Dec. 27, 2000, [114 Stat. 2936](https://www.govinfo.gov/link/statute/114/2936); amended [Pub. L. 108–267, § 1(a)](https://www.govinfo.gov/link/plaw/108/public/267),(b)(2), July 2, 2004, [118 Stat. 797](https://www.govinfo.gov/link/statute/118/797); renumbered title VIII, § 801, [Pub. L. 111–211, title II, § 231(d)(1)](https://www.govinfo.gov/link/plaw/111/public/211), (2), July 29, 2010, [124 Stat. 2278](https://www.govinfo.gov/link/statute/124/2278).)*

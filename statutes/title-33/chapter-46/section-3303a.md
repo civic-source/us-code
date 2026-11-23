@@ -3,9 +3,10 @@ title: "Section 3303a - Levee safety initiative"
 usc_title: 33
 usc_section: "3303a"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 3303a"
-generated_at: "2026-03-30T02:55:41.139Z"
+generated_at: "2026-11-23T20:26:54.258Z"
+status: "active"
 ---
 
 # § 3303a. Levee safety initiative
@@ -123,3 +124,25 @@ generated_at: "2026-03-30T02:55:41.139Z"
   - **(2)** confers any regulatory authority on—
     - **(A)** the Secretary; or
     - **(B)** the Administrator, including for the purpose of setting premium rates under the national flood insurance program established under chapter 1 1 1 So in original. Probably should be “chapter I”. of the National Flood Insurance Act of 1968 ( 42 U.S.C. 4011 et seq.).
+
+(aa) the miles of levees in the State or regional district or on the land of the Indian tribe that are listed on the inventory of levees; bears to
+
+(bb) the miles of levees in all States and regional districts and on the land of all Indian tribes that are in the national levee database.
+
+In General
+
+Limitation
+
+Cost Share.—
+
+In general
+
+Certain activities
+
+Report to Congress
+
+Termination of Authority
+
+## Source Credit
+
+*([Pub. L. 110–114, title IX, § 9005](https://www.govinfo.gov/link/plaw/110/public/114), as added [Pub. L. 113–121, title III, § 3016(e)(2)](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1293](https://www.govinfo.gov/link/statute/128/1293); [Pub. L. 114–322, title I, § 1130(c)](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1650](https://www.govinfo.gov/link/statute/130/1650); [Pub. L. 115–270, title I, § 1144(1)](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3785](https://www.govinfo.gov/link/statute/132/3785); [Pub. L. 117–263, div. H, title LXXXI, § 8387(b)](https://www.govinfo.gov/link/plaw/117/public/263), (c), Dec. 23, 2022, [136 Stat. 3830](https://www.govinfo.gov/link/statute/136/3830), 3831; [Pub. L. 118–272, div. A, title III, § 1303(d)](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3114](https://www.govinfo.gov/link/statute/138/3114).)*

@@ -3,9 +3,10 @@ title: "Section 6612 - Subgrants to local educational agencies"
 usc_title: 20
 usc_section: "6612"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 6612"
-generated_at: "2026-03-30T02:54:48.201Z"
+generated_at: "2026-11-23T20:26:14.852Z"
+status: "active"
 ---
 
 # § 6612. Subgrants to local educational agencies
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:48.201Z"
     - **(B)** seek advice from the individuals and organizations described in subparagraph (A) regarding how best to improve the local educational agency’s activities to meet the purpose of this subchapter; and
     - **(C)** coordinate the local educational agency’s activities under this part with other related strategies, programs, and activities being conducted in the community.
   - **(4)** Consultation required under paragraph (3) shall not interfere with the timely submission of the application required under this section.
+
+## Source Credit
+
+*([Pub. L. 89–10, title II, § 2102](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title II, § 2002](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1925](https://www.govinfo.gov/link/statute/129/1925).)*

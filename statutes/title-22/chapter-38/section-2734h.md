@@ -3,9 +3,10 @@ title: "Section 2734h - Increased accountability in assignment restrictions and 
 usc_title: 22
 usc_section: "2734h"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2734h"
-generated_at: "2026-03-30T02:55:05.382Z"
+generated_at: "2026-11-23T20:26:32.394Z"
+status: "active"
 ---
 
 # § 2734h. Increased accountability in assignment restrictions and reviews
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:05.382Z"
   - **(6)** a representative from the Office of the Legal Adviser and a representative from the Bureau of Diplomatic Security, who shall serve as non-voting advisors.
 - **(f)**
 - **(g)** Not later than 120 days after December 22, 2023 , the Secretary shall amend all relevant provisions of the Foreign Affairs Manual, and any associated or related policies of the Department, to comply with this section.
+
+## Source Credit
+
+*([Pub. L. 118–31, div. F, title LXI, § 6115](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 969](https://www.govinfo.gov/link/statute/137/969).)*

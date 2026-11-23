@@ -3,9 +3,10 @@ title: "Section 249 - Hate crime acts"
 usc_title: 18
 usc_section: "249"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 249"
-generated_at: "2026-03-30T02:54:16.461Z"
+generated_at: "2026-11-23T20:26:08.356Z"
+status: "active"
 ---
 
 # § 249. Hate crime acts
@@ -52,3 +53,41 @@ generated_at: "2026-03-30T02:54:16.461Z"
   - **(1)** Except as provided in paragraph (2), no person shall be prosecuted, tried, or punished for any offense under this section unless the indictment for such offense is found, or the information for such offense is instituted, not later than 7 years after the date on which the offense was committed.
   - **(2)** An indictment or information alleging that an offense under this section resulted in death may be found or instituted at any time without limitation.
 - **(e)** If a court includes, as a part of a sentence of imprisonment imposed for a violation of subsection (a), a requirement that the defendant be placed on a term of supervised release after imprisonment under section 3583, the court may order, as an explicit condition of supervised release, that the defendant undertake educational classes or community service directly related to the community harmed by the defendant’s offense.
+
+In General.—
+
+Offenses involving actual or perceived race, color, religion, or national origin
+
+Offenses involving actual or perceived religion, national origin, gender, sexual orientation, gender identity, or disability.—
+
+In general
+
+Circumstances described
+
+Offenses occurring in the special maritime or territorial jurisdiction of the united states
+
+Guidelines
+
+Lynching
+
+Other conspiracies
+
+Certification Requirement.—
+
+In general
+
+Rule of construction
+
+Definitions
+
+Statute of Limitations.—
+
+Offenses not resulting in death
+
+Death resulting offenses
+
+Supervised Release
+
+## Source Credit
+
+*(Added and amended [Pub. L. 111–84, div. E](https://www.govinfo.gov/link/plaw/111/public/84), §§ 4707(a), 4711, Oct. 28, 2009, [123 Stat. 2838](https://www.govinfo.gov/link/statute/123/2838), 2842; [Pub. L. 117–13, § 5(h)](https://www.govinfo.gov/link/plaw/117/public/13), May 20, 2021, [135 Stat. 272](https://www.govinfo.gov/link/statute/135/272); [Pub. L. 117–107, § 2](https://www.govinfo.gov/link/plaw/117/public/107), Mar. 29, 2022, [136 Stat. 1125](https://www.govinfo.gov/link/statute/136/1125).)*

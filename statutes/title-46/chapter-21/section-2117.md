@@ -3,9 +3,10 @@ title: "Section 2117 - Termination for unsafe operation"
 usc_title: 46
 usc_section: "2117"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 2117"
-generated_at: "2026-03-30T02:56:15.541Z"
+generated_at: "2026-11-23T20:27:27.049Z"
+status: "active"
 ---
 
 # § 2117. Termination for unsafe operation
@@ -15,3 +16,7 @@ An individual authorized to enforce this title—
   - **(1)** may remove a certificate required by this title from a vessel that is operating in a condition that does not comply with the provisions of the certificate;
   - **(2)** may order the individual in charge of a vessel that is operating that does not have on board the certificate required by this title to return the vessel to a mooring and to remain there until the vessel is in compliance with this title; and
   - **(3)** may direct the individual in charge of a vessel to which this title applies to immediately take reasonable steps necessary for the safety of individuals on board the vessel if the official observes the vessel being operated in an unsafe condition that the official believes creates an especially hazardous condition, including ordering the individual in charge to return the vessel to a mooring and to remain there until the situation creating the hazard is corrected or ended.
+
+## Source Credit
+
+*(Added [Pub. L. 111–281, title VI, § 608(a)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2967](https://www.govinfo.gov/link/statute/124/2967).)*

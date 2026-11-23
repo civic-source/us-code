@@ -3,12 +3,17 @@ title: "Section 1313a - Revised water quality standards"
 usc_title: 33
 usc_section: "1313a"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1313a"
-generated_at: "2026-03-30T02:55:41.092Z"
+generated_at: "2026-11-23T20:26:54.012Z"
+status: "active"
 ---
 
 # § 1313a. Revised water quality standards
 
 The review, revision, and adoption or promulgation of revised or new water quality standards pursuant to section 303(c) of the Federal Water Pollution Control Act [ 33 U.S.C. 1313(c) ] shall be completed by the date three years after December 29, 1981 . No grant shall be made under title II of the Federal Water Pollution Control Act [ 33 U.S.C. 1281 et seq.] after such date until water quality standards are reviewed and revised pursuant to section 303(c), except where the State has in good faith submitted such revised water quality standards and the Administrator has not acted to approve or disapprove such submission within one hundred and twenty days of receipt.
 
+
+## Source Credit
+
+*([Pub. L. 97–117, § 24](https://www.govinfo.gov/link/plaw/97/public/117), Dec. 29, 1981, [95 Stat. 1632](https://www.govinfo.gov/link/statute/95/1632).)*

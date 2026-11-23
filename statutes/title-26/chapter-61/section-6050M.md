@@ -3,9 +3,10 @@ title: "Section 6050M - Returns relating to persons receiving contracts from Fed
 usc_title: 26
 usc_section: "6050M"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6050M"
-generated_at: "2026-03-30T02:55:27.834Z"
+generated_at: "2026-11-23T20:26:46.534Z"
+status: "active"
 ---
 
 # § 6050M. Returns relating to persons receiving contracts from Federal executive agencies
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:27.834Z"
   - **(3)** For purposes of this subsection, a contract between a Federal executive agency and another person is described in this paragraph if—
     - **(A)** the fact of the existence of such contract or the subject matter of such contract has been designated and clearly marked or clearly represented, pursuant to the provisions of Federal law or an Executive order, as requiring a specific degree of protection against unauthorized disclosure for reasons of national security, or
     - **(B)** the head of such Federal executive agency (or his designee) pursuant to regulations issued by such agency determines, in writing, that filing the required return under this section would interfere with the effective conduct of a confidential law enforcement or foreign counterintelligence activity.
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title XV, § 1522(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2747](https://www.govinfo.gov/link/statute/100/2747); amended [Pub. L. 100–647, title I, § 1015(f)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3570](https://www.govinfo.gov/link/statute/102/3570); [Pub. L. 109–135, title IV, § 412(rr)(2)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2640](https://www.govinfo.gov/link/statute/119/2640); [Pub. L. 109–435, title VI, § 604(f)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3242](https://www.govinfo.gov/link/statute/120/3242).)*

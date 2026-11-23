@@ -3,9 +3,10 @@ title: "Section 2210a - Conflicts of interest relating to contracts and other ar
 usc_title: 42
 usc_section: "2210a"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2210a"
-generated_at: "2026-03-30T02:56:11.156Z"
+generated_at: "2026-11-23T20:27:22.102Z"
+status: "active"
 ---
 
 # § 2210a. Conflicts of interest relating to contracts and other arrangements
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.156Z"
     - **(A)** the conflict of interest cannot be mitigated; and
     - **(B)** adequate justification exists to proceed without mitigation of the conflict of interest.
 - **(c)** The Commission shall publish rules for the implementation of this section, in accordance with section 553 of title 5 (without regard to subsection (a)(2) thereof) as soon as practicable after November 6, 1978 , but in no event later than 120 days after such date.
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 170A, as added [Pub. L. 95–601, § 8(a)](https://www.govinfo.gov/link/plaw/95/public/601), Nov. 6, 1978, [92 Stat. 2950](https://www.govinfo.gov/link/statute/92/2950); renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944); amended [Pub. L. 109–58, title VI, § 639](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 794](https://www.govinfo.gov/link/statute/119/794).)*

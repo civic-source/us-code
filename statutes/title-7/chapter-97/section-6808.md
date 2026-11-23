@@ -3,9 +3,10 @@ title: "Section 6808 - Enforcement"
 usc_title: 7
 usc_section: "6808"
 chapter: 97
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6808"
-generated_at: "2026-03-30T02:53:42.438Z"
+generated_at: "2026-11-23T20:25:41.729Z"
+status: "active"
 ---
 
 # § 6808. Enforcement
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:53:42.438Z"
   - **(1)** If a person fails to pay a civil penalty assessed under subsection (c) or (e) after the penalty has become final and unappealable, or after the appropriate United States district court has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General for recovery of the amount assessed in any United States district court in which the person resides or conducts business.
   - **(2)** In an action by the Attorney General under paragraph (1), the validity and appropriateness of the civil penalty shall not be subject to review.
 - **(g)** The remedies provided in this chapter shall be in addition to, and not exclusive of, other remedies that may be available.
+
+## Source Credit
+
+*([Pub. L. 103–190, § 9](https://www.govinfo.gov/link/plaw/103/public/190), Dec. 14, 1993, [107 Stat. 2286](https://www.govinfo.gov/link/statute/107/2286).)*

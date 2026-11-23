@@ -3,12 +3,17 @@ title: "Section 50 - Authorization of appropriations"
 usc_title: 16
 usc_section: "50"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 50"
-generated_at: "2026-03-30T02:54:22.832Z"
+generated_at: "2026-11-23T20:26:19.985Z"
+status: "active"
 ---
 
 # § 460uu–50. Authorization of appropriations
 
 There is authorized to be appropriated $16,500,000 for the purposes of this subchapter, of which $10,000,000 shall be available for land acquisition in the national monument; $1 million shall be available for development within the national monument; $4 million shall be available for land acquisition within the conservation area; $1 million shall be available for development within the conservation area; and $500,000 shall be available for planning and development of the Masau Trail.
 
+
+## Source Credit
+
+*([Pub. L. 100–225, title V, § 510](https://www.govinfo.gov/link/plaw/100/public/225), Dec. 31, 1987, [101 Stat. 1549](https://www.govinfo.gov/link/statute/101/1549).)*

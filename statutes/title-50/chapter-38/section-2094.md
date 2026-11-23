@@ -3,9 +3,10 @@ title: "Section 2094 - Attachment of moneys"
 usc_title: 50
 usc_section: "2094"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 2094"
-generated_at: "2026-03-30T02:56:26.219Z"
+generated_at: "2026-11-23T20:27:30.827Z"
+status: "active"
 ---
 
 # § 2094. Attachment of moneys
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:26.219Z"
   - **(1)** Subsections (b) and (c) apply only to payments made under this subchapter for periods beginning after the date of receipt by the Director of written notice of such decree, order, or agreement and such additional information and documentation as the Director may require.
   - **(2)** Any payment under subsection (b) or (c) to an individual bars recovery by any other individual.
 - **(e)** An individual entitled to an annuity from the fund may make allotments or assignments of amounts from such annuity for such purposes as the Director considers appropriate.
+
+## Source Credit
+
+*([Pub. L. 88–643, title II, § 264](https://www.govinfo.gov/link/plaw/88/public/643), as added [Pub. L. 102–496, title VIII, § 802](https://www.govinfo.gov/link/plaw/102/public/496), Oct. 24, 1992, [106 Stat. 3237](https://www.govinfo.gov/link/statute/106/3237); amended [Pub. L. 103–178, title II, § 202(a)(12)](https://www.govinfo.gov/link/plaw/103/public/178), Dec. 3, 1993, [107 Stat. 2027](https://www.govinfo.gov/link/statute/107/2027).)*

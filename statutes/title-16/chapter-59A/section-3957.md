@@ -3,9 +3,10 @@ title: "Section 3957 - Environmental banks"
 usc_title: 16
 usc_section: "3957"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3957"
-generated_at: "2026-03-30T02:54:23.039Z"
+generated_at: "2026-11-23T20:26:20.728Z"
+status: "active"
 ---
 
 # § 3957. Environmental banks
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:23.039Z"
     - **(A)** any authority, regulatory determination, or legal obligation in effect the day before December 16, 2016 ; or
     - **(B)** the obligations or requirements of any Federal environmental law.
 - **(e)** No new environmental bank may be created or approved pursuant to this section after the date that is 14 years after December 16, 2016 .
+
+## Source Credit
+
+*([Pub. L. 101–646, title III, § 309](https://www.govinfo.gov/link/plaw/101/public/646), as added [Pub. L. 114–322, title IV, § 5014](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1903](https://www.govinfo.gov/link/statute/130/1903); amended [Pub. L. 117–263, div. H, title LXXXI, § 8382(c)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3828](https://www.govinfo.gov/link/statute/136/3828); [Pub. L. 118–272, div. A, title III, § 1303(c)](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3114](https://www.govinfo.gov/link/statute/138/3114).)*

@@ -3,9 +3,10 @@ title: "Section 60505 - Coordination with the National Oceanic and Atmospheric A
 usc_title: 51
 usc_section: "60505"
 chapter: 605
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 60505"
-generated_at: "2026-03-30T02:56:28.712Z"
+generated_at: "2026-11-23T20:27:37.530Z"
+status: "active"
 ---
 
 # § 60505. Coordination with the National Oceanic and Atmospheric Administration
@@ -14,3 +15,32 @@ generated_at: "2026-03-30T02:56:28.712Z"
 - **(b)** Not later than February 15 of each year, the Administrator and the Administrator of the National Oceanic and Atmospheric Administration shall jointly transmit a report to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on how the Earth science programs of the Administration and the National Oceanic and Atmospheric Administration will be coordinated during the fiscal year following the fiscal year in which the report is transmitted.
 - **(c)** The Administrator, in conjunction with the Administrator of the National Oceanic and Atmospheric Administration and in consultation with other relevant agencies, shall evaluate relevant Administration science missions for their potential operational capabilities and shall prepare transition plans for the existing and future Earth observing systems found to have potential operational capabilities.
 - **(d)** The Administrator shall not transfer any Administration Earth science mission or Earth observing system to the National Oceanic and Atmospheric Administration until the plan required under subsection (c) has been approved by the Administrator and the Administrator of the National Oceanic and Atmospheric Administration and until financial resources have been identified to support the transition or transfer in the President’s budget request for the National Oceanic and Atmospheric Administration.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 60505 | 42 U.S.C. 16656 . | Pub. L. 109–155, title III, § 306 , Dec. 30, 2005 , 119 Stat. 2919 . |
+
+
+Joint Working Group
+
+Coordination Report
+
+Coordination of Transition Planning and Reporting
+
+Limitation
+
+Historical and Revision Notes
+
+60505
+
+42 U.S.C. 16656
+
+Pub. L. 109–155, title III, § 306
+
+Dec. 30, 2005
+
+119 Stat. 2919
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3426](https://www.govinfo.gov/link/statute/124/3426).)*

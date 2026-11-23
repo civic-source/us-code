@@ -3,9 +3,10 @@ title: "Section 7901 - Findings; purposes"
 usc_title: 15
 usc_section: "7901"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 7901"
-generated_at: "2026-03-30T02:54:08.226Z"
+generated_at: "2026-11-23T20:26:04.471Z"
+status: "active"
 ---
 
 # § 7901. Findings; purposes
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:08.226Z"
   - **(5)** To protect the right, under the First Amendment to the Constitution, of manufacturers, distributors, dealers, and importers of firearms or ammunition products, and trade associations, to speak freely, to assemble peaceably, and to petition the Government for a redress of their grievances.
   - **(6)** To preserve and protect the Separation of Powers doctrine and important principles of federalism, State sovereignty and comity between sister States.
   - **(7)** To exercise congressional power under article IV, section 1 (the Full Faith and Credit Clause) of the United States Constitution.
+
+## Source Credit
+
+*([Pub. L. 109–92, § 2](https://www.govinfo.gov/link/plaw/109/public/92), Oct. 26, 2005, [119 Stat. 2095](https://www.govinfo.gov/link/statute/119/2095).)*

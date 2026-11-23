@@ -3,9 +3,10 @@ title: "Section 1332 - Definitions"
 usc_title: 15
 usc_section: "1332"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1332"
-generated_at: "2026-03-30T02:54:08.134Z"
+generated_at: "2026-11-23T20:26:03.997Z"
+status: "active"
 ---
 
 # § 1332. Definitions
@@ -23,3 +24,7 @@ As used in this chapter—
   - **(7)** The term “little cigar” means any roll of tobacco wrapped in leaf tobacco or any substance containing tobacco (other than any roll of tobacco which is a cigarette within the meaning of subsection (1)) and as to which one thousand units weigh not more than three pounds.
   - **(8)** The term “brand style” means a variety of cigarettes distinguished by the tobacco used, tar and nicotine content, flavoring used, size of the cigarette, filtration on the cigarette, or packaging.
   - **(9)** The term “Secretary” means the Secretary of Health and Human Services.
+
+## Source Credit
+
+*([Pub. L. 89–92, § 3](https://www.govinfo.gov/link/plaw/89/public/92), July 27, 1965, [79 Stat. 282](https://www.govinfo.gov/link/statute/79/282); [Pub. L. 91–222, § 2](https://www.govinfo.gov/link/plaw/91/public/222), Apr. 1, 1970, [84 Stat. 88](https://www.govinfo.gov/link/statute/84/88); [Pub. L. 93–109, § 2](https://www.govinfo.gov/link/plaw/93/public/109), Sept. 21, 1973, [87 Stat. 352](https://www.govinfo.gov/link/statute/87/352); [Pub. L. 98–474, § 6(b)](https://www.govinfo.gov/link/plaw/98/public/474), Oct. 12, 1984, [98 Stat. 2204](https://www.govinfo.gov/link/statute/98/2204); [Pub. L. 99–92, § 11(b)](https://www.govinfo.gov/link/plaw/99/public/92), Aug. 16, 1985, [99 Stat. 403](https://www.govinfo.gov/link/statute/99/403).)*

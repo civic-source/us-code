@@ -3,9 +3,10 @@ title: "Section 195b - National Biosurveillance Integration Center"
 usc_title: 6
 usc_section: "195b"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 195b"
-generated_at: "2026-03-30T02:53:09.448Z"
+generated_at: "2026-11-23T20:25:34.657Z"
+status: "active"
 ---
 
 # § 195b. National Biosurveillance Integration Center
@@ -64,3 +65,7 @@ generated_at: "2026-03-30T02:53:09.448Z"
   - **(3)** The term “homeland security information” has the meaning given that term in section 482 of this title .
   - **(4)** The term “Member Agency” means any Federal department or agency that, at the discretion of the head of that department or agency, has entered a memorandum of understanding regarding participation in the NBIC.
   - **(5)** The term “Privacy Officer” means the Privacy Officer appointed under section 142 of this title .
+
+## Source Credit
+
+*([Pub. L. 107–296, title III, § 316](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 110–53, title XI, § 1101(a)](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 375](https://www.govinfo.gov/link/statute/121/375); amended [Pub. L. 115–387, § 2(f)(2)](https://www.govinfo.gov/link/plaw/115/public/387), Dec. 21, 2018, [132 Stat. 5168](https://www.govinfo.gov/link/statute/132/5168).)*

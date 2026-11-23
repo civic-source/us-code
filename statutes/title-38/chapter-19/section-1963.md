@@ -3,9 +3,10 @@ title: "Section 1963 - Authority for payment of interest on settlements"
 usc_title: 38
 usc_section: "1963"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 1963"
-generated_at: "2026-03-30T02:55:53.491Z"
+generated_at: "2026-11-23T20:27:01.747Z"
+status: "active"
 ---
 
 # § 1963. Authority for payment of interest on settlements
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:53.491Z"
 - **(b)**
   - **(1)** The Secretary may pay interest under subsection (a) of this section only if the Secretary determines that the payment of such interest is administratively and actuarially sound for the settlement option involved.
   - **(2)** Interest paid under subsection (a) shall be at the rate that is established by the Secretary for dividends held on credit or deposit in policyholders’ accounts.
+
+## Source Credit
+
+*(Added [Pub. L. 100–687, div. B, title XIV, § 1401(a)(2)](https://www.govinfo.gov/link/plaw/100/public/687), Nov. 18, 1988, [102 Stat. 4128](https://www.govinfo.gov/link/statute/102/4128), § 763; renumbered § 1963 and amended [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406](https://www.govinfo.gov/link/statute/105/404).)*

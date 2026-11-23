@@ -3,9 +3,10 @@ title: "Section 7243 - Applications"
 usc_title: 20
 usc_section: "7243"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 7243"
-generated_at: "2026-03-30T02:54:48.208Z"
+generated_at: "2026-11-23T20:26:14.894Z"
+status: "active"
 ---
 
 # § 7243. Applications
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:54:48.208Z"
     - **(K)** conduct outreach to low-income students and parents, including low-income students and parents who are not proficient in English.
   - **(7)** An assurance that the applicant will conduct training programs in the community to improve adult literacy, including financial literacy.
 - **(c)** In awarding grants for activities described in this part, the Secretary shall give priority to statewide family engagement centers that will use funds under section 7244 of this title for evidence-based activities, which, for the purposes of this part is defined as activities meeting the requirements of section 7801(21)(A)(i) of this title .
+
+## Source Credit
+
+*([Pub. L. 89–10, title IV, § 4503](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title IV, § 4501](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2017](https://www.govinfo.gov/link/statute/129/2017).)*

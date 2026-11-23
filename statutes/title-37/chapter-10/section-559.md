@@ -3,9 +3,10 @@ title: "Section 559 - Benefits for members held as captives"
 usc_title: 37
 usc_section: "559"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "37 U.S.C. § 559"
-generated_at: "2026-03-30T02:55:44.059Z"
+generated_at: "2026-11-23T20:26:57.429Z"
+status: "active"
 ---
 
 # § 559. Benefits for members held as captives
@@ -37,3 +38,27 @@ generated_at: "2026-03-30T02:55:44.059Z"
   - **(5)** Any amount due a person under this subsection shall, after the death of such person, be deemed to be pay and allowances for the purposes of this chapter.
   - **(6)** Any payment made under paragraph (1) that is later denied under paragraph (3)(A)(ii) is a claim of the United States Government for purposes of section 3711 of title 31 .
 - **(d)** A determination by the President under subsection (a)(1) or (c) is final and is not subject to judicial review.
+
+“In the case of any payment of back pay made to or for a person under section 667 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 [ Pub. L. 106–398, § 1 [[div. A] , title VI, § 667], set out below] before the date of the enactment of this Act [ Jan. 28, 2008 ], the Secretary of the Navy shall—
+
+Entitlement of Former Prisoners of War
+
+Payment to Surviving Spouse of Deceased Former Member
+
+Amount of Back Pay
+
+Time Limitations
+
+Regulations
+
+Limitation on Disbursement
+
+Attorney Fees
+
+Outreach
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 99–399, title VIII, § 806(a)(1)](https://www.govinfo.gov/link/plaw/99/public/399), Aug. 27, 1986, [100 Stat. 884](https://www.govinfo.gov/link/statute/100/884); amended [Pub. L. 100–26, § 8(e)(11)](https://www.govinfo.gov/link/plaw/100/public/26), Apr. 21, 1987, [101 Stat. 287](https://www.govinfo.gov/link/statute/101/287); [Pub. L. 101–510, div. A, title XIV, § 1484(d)(4)](https://www.govinfo.gov/link/plaw/101/public/510), (e)(2), Nov. 5, 1990, [104 Stat. 1717](https://www.govinfo.gov/link/statute/104/1717); [Pub. L. 102–25, title VII, § 702(b)(1)](https://www.govinfo.gov/link/plaw/102/public/25) –(4), (c), Apr. 6, 1991, [105 Stat. 117](https://www.govinfo.gov/link/statute/105/117); [Pub. L. 102–484, div. A, title X, § 1054(a)(6)](https://www.govinfo.gov/link/plaw/102/public/484), (c)(2), Oct. 23, 1992, [106 Stat. 2502](https://www.govinfo.gov/link/statute/106/2502).)*

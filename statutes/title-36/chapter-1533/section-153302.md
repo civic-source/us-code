@@ -3,9 +3,10 @@ title: "Section 153302 - Purposes"
 usc_title: 36
 usc_section: "153302"
 chapter: 1533
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 153302"
-generated_at: "2026-03-30T02:55:44.705Z"
+generated_at: "2026-11-23T20:26:59.013Z"
+status: "active"
 ---
 
 # § 153302. Purposes
@@ -22,3 +23,20 @@ The purposes of the corporation are patriotic, historical, and educational, and 
   - **(8)** to foster true patriotism;
   - **(9)** to maintain and extend the institutions of American freedom; and
   - **(10)** to carry out the purposes expressed in the preamble to the Constitution of our country and the injunctions of Washington in his farewell address to the American people.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 153302 | 36:20b. | June 9, 1906, ch. 3065, § 2 , 34 Stat. 227 . |
+
+
+Historical and Revision Notes
+
+153302
+
+June 9, 1906, ch. 3065, § 2
+
+34 Stat. 227
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1424](https://www.govinfo.gov/link/statute/112/1424).)*

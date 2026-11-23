@@ -3,9 +3,10 @@ title: "Section 1967 - Law enforcement authority"
 usc_title: 2
 usc_section: "1967"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1967"
-generated_at: "2026-03-30T02:53:04.821Z"
+generated_at: "2026-11-23T20:25:28.999Z"
+status: "active"
 ---
 
 # § 1967. Law enforcement authority
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:04.821Z"
   - **(2)** The area referred to under subsection (a)(5) is that area bounded by the north curb of Constitution Avenue from 14th Street, N.W., to 3rd Street, N.W., the east curb of 3rd Street from Constitution Avenue, N.W., to Independence Avenue, S.W., the south curb of Independence Avenue from 3rd Street, S.W., to 14th Street, S.W., and the west curb of 14th Street from Independence Avenue, S.W., to Constitution Avenue, N.W.
 - **(c)** This section does not affect the authority of the Metropolitan Police force of the District of Columbia with respect to the area described in subsection (b).
 - **(d)** As used in this section, the term “crime of violence” has the meaning given that term in section 16 of title 18 .
+
+## Source Credit
+
+*(July 31, 1946, ch. 707, § 9B, as added [Pub. L. 102–397, title I, § 101](https://www.govinfo.gov/link/plaw/102/public/397), Oct. 6, 1992, [106 Stat. 1949](https://www.govinfo.gov/link/statute/106/1949); amended [Pub. L. 104–186, title II, § 221(13)](https://www.govinfo.gov/link/plaw/104/public/186), Aug. 20, 1996, [110 Stat. 1750](https://www.govinfo.gov/link/statute/110/1750); [Pub. L. 108–83, title I, § 1003(a)](https://www.govinfo.gov/link/plaw/108/public/83), Sept. 30, 2003, [117 Stat. 1021](https://www.govinfo.gov/link/statute/117/1021).)*

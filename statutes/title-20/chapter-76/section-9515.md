@@ -3,9 +3,10 @@ title: "Section 9515 - Priorities"
 usc_title: 20
 usc_section: "9515"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 9515"
-generated_at: "2026-03-30T02:54:48.226Z"
+generated_at: "2026-11-23T20:26:14.987Z"
+status: "active"
 ---
 
 # § 9515. Priorities
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:48.226Z"
 - **(d)**
   - **(1)** Before submitting to the Board proposed priorities for the Institute, the Director shall make such priorities available to the public for comment for not less than 60 days (including by means of the Internet and through publishing such priorities in the Federal Register). The Director shall provide to the Board a copy of each such comment submitted.
   - **(2)** Upon approval of such priorities, the Director shall make the Institute’s plan for addressing such priorities available for public comment in the same manner as under paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 107–279, title I, § 115](https://www.govinfo.gov/link/plaw/107/public/279), Nov. 5, 2002, [116 Stat. 1948](https://www.govinfo.gov/link/statute/116/1948); [Pub. L. 108–446, title II, § 201(b)(2)(C)](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2802](https://www.govinfo.gov/link/statute/118/2802).)*

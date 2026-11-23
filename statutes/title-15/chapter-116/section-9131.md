@@ -3,9 +3,10 @@ title: "Section 9131 - Definitions"
 usc_title: 15
 usc_section: "9131"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 9131"
-generated_at: "2026-03-30T02:54:08.245Z"
+generated_at: "2026-11-23T20:26:04.561Z"
+status: "active"
 ---
 
 # § 9131. Definitions
@@ -38,3 +39,7 @@ In this part:
   - **(6)** The term “public contribution” means the contribution funded by the Federal Government under this part to provide 50 percent of the eligible employees group’s total compensation level, and combined with the private contribution, is sufficient to maintain the total compensation level for those in the eligible employee group as of April 1, 2020 .
   - **(7)** The term “Secretary” means the Secretary of Transportation.
   - **(8)** The term “total compensation level” means the level of total base compensation and benefits being provided to an eligible employee group employee, excluding overtime and premium pay, and excluding any Federal, State, or local payroll taxes paid, as of April 1, 2020 .
+
+## Source Credit
+
+*([Pub. L. 117–2, title VII, § 7201](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 101](https://www.govinfo.gov/link/statute/135/101).)*

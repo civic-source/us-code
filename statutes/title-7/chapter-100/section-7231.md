@@ -3,9 +3,10 @@ title: "Section 7231 - Availability of nonrecourse marketing assistance loans"
 usc_title: 7
 usc_section: "7231"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7231"
-generated_at: "2026-03-30T02:53:42.445Z"
+generated_at: "2026-11-23T20:25:41.760Z"
+status: "active"
 ---
 
 # § 7231. Availability of nonrecourse marketing assistance loans
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:42.445Z"
   - **(2)** In the case of a marketing assistance loan for extra long staple cotton and oilseeds, any production.
 - **(c)** As a condition of the receipt of a marketing assistance loan under subsection (a), the producer shall comply with applicable conservation requirements under subtitle B of title XII of the Food Security Act of 1985 ( 16 U.S.C. 3811 et seq.) and applicable wetland protection requirements under subtitle C of title XII of the Act ( 16 U.S.C. 3821 et seq.) during the term of the loan.
 - **(d)** The Secretary shall carry out this subchapter in such a manner that there are no additional outlays under this subchapter as a result of the reconstitution of a farm that occurs as a result of the combination of another farm that does not contain eligible cropland covered by a production flexibility contract.
+
+## Source Credit
+
+*([Pub. L. 104–127, title I, § 131](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 905](https://www.govinfo.gov/link/statute/110/905).)*

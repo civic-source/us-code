@@ -3,9 +3,10 @@ title: "Section 180 - Legislative information retrieval system"
 usc_title: 2
 usc_section: "180"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 180"
-generated_at: "2026-03-30T02:53:04.791Z"
+generated_at: "2026-11-23T20:25:28.857Z"
+status: "active"
 ---
 
 # § 180. Legislative information retrieval system
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:04.791Z"
 - **(c)** Pursuant to the plan approved under subsection (d) and consistent with the provisions of any other law, the Library of Congress or the entity designated by that plan shall develop and maintain, in coordination with other appropriate entities of the legislative branch, a single legislative information retrieval system to serve the entire Congress.
 - **(d)** The Library shall develop a plan for creation of this system, taking into consideration the findings and recommendations of the study directed by House Report No. 103–517 to identify and eliminate redundancies in congressional information systems. This plan must be approved by the Committee on Rules and Administration of the Senate, the Committee on House Oversight of the House of Representatives, and the Committees on Appropriations of the Senate and the House of Representatives. The Library shall provide these committees with regular status reports on the development of the plan.
 - **(e)** In formulating its plan, the Library shall examine issues regarding efficient ways to make this information available to the public. This analysis shall be submitted to the Committees on Appropriations of the Senate and the House of Representatives as well as the Committee on Rules and Administration of the Senate, and the Committee on House Oversight of the House of Representatives for their consideration and possible action.
+
+## Source Credit
+
+*([Pub. L. 104–53, title II, § 209](https://www.govinfo.gov/link/plaw/104/public/53), Nov. 19, 1995, [109 Stat. 532](https://www.govinfo.gov/link/statute/109/532).)*

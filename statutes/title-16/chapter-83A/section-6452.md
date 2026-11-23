@@ -3,9 +3,10 @@ title: "Section 6452 - Duties"
 usc_title: 16
 usc_section: "6452"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6452"
-generated_at: "2026-03-30T02:54:23.059Z"
+generated_at: "2026-11-23T20:26:20.796Z"
+status: "active"
 ---
 
 # § 6452. Duties
@@ -26,3 +27,7 @@ The duties of the Task Force shall be—
   - **(5)** to produce a report each year, for submission to the appropriate congressional committees and publication on the public website of the Task Force, highlighting the status of the coral reef resources of a covered State on a rotating basis, including—
     - **(A)** a summary of recent coral reef management and restoration activities undertaken in that State; and
     - **(B)** updated estimates of the direct and indirect economic activity supported by, and other benefits associated with, those coral reef resources.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. J, title C, § 10012](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3952](https://www.govinfo.gov/link/statute/136/3952).)*

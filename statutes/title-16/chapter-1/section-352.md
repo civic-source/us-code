@@ -3,12 +3,17 @@ title: "Section 352 - Game refuge; killing game"
 usc_title: 16
 usc_section: "352"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 352"
-generated_at: "2026-03-30T02:54:22.750Z"
+generated_at: "2026-11-23T20:26:19.415Z"
+status: "active"
 ---
 
 # § 352. Game refuge; killing game
 
 The said park is established as a game refuge, and no person shall kill any game in said park except under an order from the Secretary of the Interior for the protection of persons or to protect or prevent the extermination of other animals or birds.
 
+
+## Source Credit
+
+*(Feb. 26, 1917, ch. 121, § 6, [39 Stat. 939](https://www.govinfo.gov/link/statute/39/939); May 21, 1928, ch. 654, § 2, [45 Stat. 622](https://www.govinfo.gov/link/statute/45/622).)*

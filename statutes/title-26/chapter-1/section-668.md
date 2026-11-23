@@ -3,9 +3,10 @@ title: "Section 668 - Interest charge on accumulation distributions from foreign
 usc_title: 26
 usc_section: "668"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 668"
-generated_at: "2026-03-30T02:55:27.724Z"
+generated_at: "2026-11-23T20:26:45.857Z"
+status: "active"
 ---
 
 # § 668. Interest charge on accumulation distributions from foreign trusts
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:27.724Z"
     - **(B)** without compounding until January 1, 1996 .
 - **(b)** The total amount of the interest charge shall not, when added to the total partial tax computed under section 667(b), exceed the amount of the accumulation distribution (other than the amount of tax deemed distributed by section 666(b) or (c)) in respect of which such partial tax was determined.
 - **(c)** The interest charge determined under this section shall not be allowed as a deduction for purposes of any tax imposed by this title.
+
+## Source Credit
+
+*(Added [Pub. L. 94–455, title X, § 1014(b)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1617](https://www.govinfo.gov/link/statute/90/1617); amended [Pub. L. 101–508, title XI, § 11802(f)(3)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–530](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 104–188, title I, § 1906(a)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1914](https://www.govinfo.gov/link/statute/110/1914).)*

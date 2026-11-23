@@ -3,9 +3,10 @@ title: "Section 8820 - Office of Alcohol Fuels"
 usc_title: 42
 usc_section: "8820"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8820"
-generated_at: "2026-03-30T02:56:11.348Z"
+generated_at: "2026-11-23T20:27:23.062Z"
+status: "active"
 ---
 
 # § 8820. Office of Alcohol Fuels
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.348Z"
   - **(2)** The Director shall be responsible directly to the Secretary of Energy.
 - **(c)** In each annual authorization and appropriation request, the Secretary shall identify the portion thereof intended for the support of the Office and include a statement by the Office (1) showing the amount requested by the Office in its budgetary presentation to the Secretary and the Office of Management and Budget and (2) an assessment of the budgetary needs of the Office. Whenever the Office submits to the Secretary, the President, or the Office of Management and Budget, any formal legislative recommendation or testimony, or comments on legislation, prepared for submission to Congress, the Office shall concurrently transmit a copy thereof to the appropriate committees of Congress.
 - **(d)** The Secretary of Energy, after consultation with the Director, shall consult with the Secretary of the Treasury, the Secretary of Agriculture, the Secretary of Transportation, the Secretary of Commerce, the Administrator of the Community Services Administration, the Administrator of the Environmental Protection Agency, or their appointed representatives, in order to coordinate the programs under the Director’s responsibility with other programs within the Department of Energy and in such Federal agencies, which are related to the production of alcohol.
+
+## Source Credit
+
+*([Pub. L. 96–294, title II, § 220](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 696](https://www.govinfo.gov/link/statute/94/696).)*

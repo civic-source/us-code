@@ -3,9 +3,10 @@ title: "Section 8175 - Information technology matters to be included in budget j
 usc_title: 38
 usc_section: "8175"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 8175"
-generated_at: "2026-03-30T02:55:53.540Z"
+generated_at: "2026-11-23T20:27:02.088Z"
+status: "active"
 ---
 
 # § 8175. Information technology matters to be included in budget justification materials for the Department
@@ -35,3 +36,13 @@ generated_at: "2026-03-30T02:55:53.540Z"
     - **(A)** portfolio; and
     - **(B)** the product line of the Department that requires the funding.
   - **(2)** In addition to the projections under paragraph (1), with respect to each of the periods set forth in such paragraph, the Secretary shall include a description of the funding required for each technology business management category used by the Office of Information Technology of the Department (commonly referred to as “cost pools” and “towers”).
+
+List of Information Technology Projects in Effect
+
+Prioritized List of Unfunded Projects
+
+Projected Funding Needs
+
+## Source Credit
+
+*(Added [Pub. L. 117–328, div. U, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5488](https://www.govinfo.gov/link/statute/136/5488).)*

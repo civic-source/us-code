@@ -3,9 +3,10 @@ title: "Section 55122 - Floating dry docks"
 usc_title: 46
 usc_section: "55122"
 chapter: 551
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 55122"
-generated_at: "2026-03-30T02:56:15.579Z"
+generated_at: "2026-11-23T20:27:27.385Z"
+status: "active"
 ---
 
 # § 55122. Floating dry docks
@@ -32,3 +33,17 @@ generated_at: "2026-03-30T02:56:15.579Z"
         - **(II)** operated by a shipyard located in the United States that is an eligible owner specified under section 12103(b).
   - **(2)** Not later than 30 days after making a determination under paragraph (1), the Secretary of the Navy shall notify the Committee on Armed Services and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Armed Services and the Committee on Commerce, Science, and Transportation of the Senate of such determination.
 - **(c)** In this section, the term “floating dry dock” means equipment with wing walls and a fully submersible deck.
+
+In General
+
+Dry Docks for Construction of Certain Naval Vessels.—
+
+In general
+
+Notice to congress
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 113–291, div. C, title XXXV, § 3502(a)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3904](https://www.govinfo.gov/link/statute/128/3904); amended [Pub. L. 114–328, div. C, title XXXV, § 3508](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2780](https://www.govinfo.gov/link/statute/130/2780); [Pub. L. 117–263, div. K, title CXV, § 11525](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4145](https://www.govinfo.gov/link/statute/136/4145).)*

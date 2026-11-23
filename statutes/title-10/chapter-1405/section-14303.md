@@ -3,9 +3,10 @@ title: "Section 14303 - Eligibility for consideration for promotion: minimum yea
 usc_title: 10
 usc_section: "14303"
 chapter: 1405
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 14303"
-generated_at: "2026-03-30T02:53:38.274Z"
+generated_at: "2026-11-23T20:25:52.466Z"
+status: "active"
 ---
 
 # § 14303. Eligibility for consideration for promotion: minimum years of service in grade
@@ -18,3 +19,19 @@ generated_at: "2026-03-30T02:53:38.274Z"
   - **(2)** One year, in the case of an officer of the Army, Air Force, or Marine Corps holding a permanent appointment in the grade of colonel or brigadier general or in the case of a reserve officer of the Navy holding a permanent appointment in the grade of captain or rear admiral (lower half).
 - **(c)** The Secretary concerned may prescribe a period of service in grade for eligibility for promotion, in the case of officers to whom subsection (a) applies, or for eligibility for consideration for promotion, in the case of officers to whom subsection (b) applies, that is longer than the applicable period specified in that subsection.
 - **(d)** Subject to section 14307(b) of this title , the Secretary of the military department concerned may waive subsection (b) to the extent necessary to ensure that officers described in paragraph (1) of that subsection have at least two opportunities for consideration for promotion to the next higher grade as officers below the promotion zone.
+
+Officers in Pay Grades
+
+and
+
+Officers in Pay Grades
+
+and Above
+
+Authority To Lengthen Minimum Period in Grade
+
+Waivers To Ensure Two Below-the-Zone Considerations
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1611](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2933](https://www.govinfo.gov/link/statute/108/2933).)*

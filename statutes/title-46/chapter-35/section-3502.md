@@ -3,9 +3,10 @@ title: "Section 3502 - List or count of passengers"
 usc_title: 46
 usc_section: "3502"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 3502"
-generated_at: "2026-03-30T02:56:15.544Z"
+generated_at: "2026-11-23T20:27:27.077Z"
+status: "active"
 ---
 
 # § 3502. List or count of passengers
@@ -18,3 +19,16 @@ generated_at: "2026-03-30T02:56:15.544Z"
 - **(c)** Lists and counts required under this section shall be open to the inspection of designated officials of the Coast Guard and the Customs Service at all times. The total number of passengers shall be provided to the Coast Guard when requested.
 - **(d)** This section applies to a foreign vessel arriving at a United States port.
 - **(e)** The owner, charterer, managing operator, master, or individual in charge of a passenger vessel failing to make a list or count of passengers as required by this section is liable to the United States Government for a civil penalty of $100. The vessel also is liable in rem for the penalty.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 3502 | 46:460 46:460a 46:461 46:462 |
+
+
+Historical and Revision Notes
+
+3502
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 519](https://www.govinfo.gov/link/statute/97/519).)*

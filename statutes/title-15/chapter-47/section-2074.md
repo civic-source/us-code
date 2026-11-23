@@ -3,9 +3,10 @@ title: "Section 2074 - Private remedies"
 usc_title: 15
 usc_section: "2074"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2074"
-generated_at: "2026-03-30T02:54:08.165Z"
+generated_at: "2026-11-23T20:26:04.163Z"
+status: "active"
 ---
 
 # § 2074. Private remedies
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:08.165Z"
 - **(a)** Compliance with consumer product safety rules or other rules or orders under this chapter shall not relieve any person from liability at common law or under State statutory law to any other person.
 - **(b)** The failure of the Commission to take any action or commence a proceeding with respect to the safety of a consumer product shall not be admissible in evidence in litigation at common law or under State statutory law relating to such consumer product.
 - **(c)** Subject to sections 2055(a)(2) and 2055(b) of this title but notwithstanding section 2055(a)(1) of this title , (1) any accident or investigation report made under this chapter by an officer or employee of the Commission shall be made available to the public in a manner which will not identify any injured person or any person treating him, without the consent of the person so identified, and (2) all reports on research projects, demonstration projects, and other related activities shall be public information.
+
+## Source Credit
+
+*([Pub. L. 92–573, § 25](https://www.govinfo.gov/link/plaw/92/public/573), Oct. 27, 1972, [86 Stat. 1227](https://www.govinfo.gov/link/statute/86/1227).)*

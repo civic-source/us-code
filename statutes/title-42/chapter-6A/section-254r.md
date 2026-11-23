@@ -3,9 +3,10 @@ title: "Section 254r - Grants to State Offices of Rural Health"
 usc_title: 42
 usc_section: "254r"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 254r"
-generated_at: "2026-03-30T02:56:10.716Z"
+generated_at: "2026-11-23T20:27:20.098Z"
+status: "active"
 ---
 
 # § 254r. Grants to State Offices of Rural Health
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:56:10.716Z"
 - **(i)**
   - **(1)** For the purpose of making grants under subsection (a), there are authorized to be appropriated $12,500,000 for each of fiscal years 2023 through 2027.
   - **(2)** Amounts appropriated under paragraph (1) shall remain available until expended.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 338J, as added [Pub. L. 101–597, title III, § 302](https://www.govinfo.gov/link/plaw/101/public/597), Nov. 16, 1990, [104 Stat. 3032](https://www.govinfo.gov/link/statute/104/3032); amended [Pub. L. 105–392, title III, § 301](https://www.govinfo.gov/link/plaw/105/public/392), Nov. 13, 1998, [112 Stat. 3585](https://www.govinfo.gov/link/statute/112/3585); [Pub. L. 115–408, § 2](https://www.govinfo.gov/link/plaw/115/public/408), Dec. 31, 2018, [132 Stat. 5384](https://www.govinfo.gov/link/statute/132/5384); [Pub. L. 117–356, § 2](https://www.govinfo.gov/link/plaw/117/public/356), Jan. 5, 2023, [136 Stat. 6282](https://www.govinfo.gov/link/statute/136/6282).)*

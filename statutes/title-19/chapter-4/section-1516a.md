@@ -3,9 +3,10 @@ title: "Section 1516a - Judicial review in countervailing duty and antidumping d
 usc_title: 19
 usc_section: "1516a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1516a"
-generated_at: "2026-03-30T02:54:24.640Z"
+generated_at: "2026-11-23T20:26:10.795Z"
+status: "active"
 ---
 
 # § 1516a. Judicial review in countervailing duty and antidumping duty proceedings
@@ -165,3 +166,21 @@ generated_at: "2026-03-30T02:54:24.640Z"
         - **(I)** the country referred to in clause (i),
         - **(II)** an interested party that was a party to the panel or committee review, or
         - **(III)** an interested party that was a party to the proceeding in connection with which panel review was requested, but only if the time for filing notices of appearance in the panel review has not expired.
+
+“The provisions of this title [enacting section 4601 of this title and amending this section, sections 1677, 1677f, and 4374 of this title, and sections 1581, 1584, 2201, and 2643 of Title 28, Judiciary and Judicial Procedure] and the amendments made by this title shall take effect on the date on which the USMCA enters into force [ July 1, 2020 ], but shall not apply—
+
+Effective Date
+
+Transitional Rules.—
+
+Certain protests, petitions, actions, etc.—
+
+Law to be applied for purposes of such actions.—
+
+Certain countervailing and antidumping duty assessments.—
+
+Certain countervailing and antidumping duty determinations.—
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 516A, as added [Pub. L. 96–39, title X, § 1001(a)](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 300](https://www.govinfo.gov/link/statute/93/300); amended [Pub. L. 96–417, title VI](https://www.govinfo.gov/link/plaw/96/public/417), §§ 601(7), 608, Oct. 10, 1980, [94 Stat. 1744](https://www.govinfo.gov/link/statute/94/1744), 1745; [Pub. L. 96–542, § 2](https://www.govinfo.gov/link/plaw/96/public/542), Dec. 17, 1980, [94 Stat. 3210](https://www.govinfo.gov/link/statute/94/3210); [Pub. L. 97–164, title I, § 163(a)(2)](https://www.govinfo.gov/link/plaw/97/public/164), Apr. 2, 1982, [96 Stat. 49](https://www.govinfo.gov/link/statute/96/49); [Pub. L. 98–573, title VI, § 623(a)](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 3040](https://www.govinfo.gov/link/statute/98/3040); [Pub. L. 99–514, title XVIII, § 1888(6)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2925](https://www.govinfo.gov/link/statute/100/2925); [Pub. L. 100–449, title IV, § 401](https://www.govinfo.gov/link/plaw/100/public/449), Sept. 28, 1988, [102 Stat. 1878](https://www.govinfo.gov/link/statute/102/1878); [Pub. L. 101–382, title I, § 134(a)(3)](https://www.govinfo.gov/link/plaw/101/public/382), Aug. 20, 1990, [104 Stat. 649](https://www.govinfo.gov/link/statute/104/649); [Pub. L. 103–182, title IV, § 411](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2140](https://www.govinfo.gov/link/statute/107/2140); [Pub. L. 103–465, title I, § 129(e)](https://www.govinfo.gov/link/plaw/103/public/465), title II, §§ 220(b), 270(a)(1)(N), 271(b), Dec. 8, 1994, [108 Stat. 4838](https://www.govinfo.gov/link/statute/108/4838), 4864, 4917, 4921; [Pub. L. 104–295](https://www.govinfo.gov/link/plaw/104/public/295), §§ 20(a)(1), 21(c)(3), 22, Oct. 11, 1996, [110 Stat. 3526](https://www.govinfo.gov/link/statute/110/3526), 3530, 3531; [Pub. L. 109–432, div. D, title III, § 3002](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 3173](https://www.govinfo.gov/link/statute/120/3173); [Pub. L. 116–113, title IV, § 421](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 61](https://www.govinfo.gov/link/statute/134/61).)*

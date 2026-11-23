@@ -3,9 +3,10 @@ title: "Section 6234 - Judicial review of partnership adjustment"
 usc_title: 26
 usc_section: "6234"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6234"
-generated_at: "2026-03-30T02:55:27.847Z"
+generated_at: "2026-11-23T20:26:46.603Z"
+status: "active"
 ---
 
 # § 6234. Judicial review of partnership adjustment
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:27.847Z"
 - **(c)** A court with which a petition is filed in accordance with this section shall have jurisdiction to determine all partnership-related items for the partnership taxable year to which the notice of final partnership adjustment relates, the proper allocation of such items among the partners, and the applicability of any penalty, addition to tax, or additional amount for which the partnership may be liable under this subchapter.
 - **(d)** Any determination by a court under this section shall have the force and effect of a decision of the Tax Court or a final judgment or decree of the district court or the Court of Federal Claims, as the case may be, and shall be reviewable as such. The date of any such determination shall be treated as being the date of the court’s order entering the decision.
 - **(e)** If an action brought under this section is dismissed other than by reason of a rescission under section 6231(c), 1 1 See References in Text note below. the decision of the court dismissing the action shall be considered as its decision that the notice of final partnership adjustment is correct, and an appropriate order shall be entered in the records of the court.
+
+## Source Credit
+
+*(Added [Pub. L. 114–74, title XI, § 1101(c)(1)](https://www.govinfo.gov/link/plaw/114/public/74), Nov. 2, 2015, [129 Stat. 634](https://www.govinfo.gov/link/statute/129/634); amended [Pub. L. 114–113, div. Q, title IV, § 411(b)(2)](https://www.govinfo.gov/link/plaw/114/public/113), (3), Dec. 18, 2015, [129 Stat. 3122](https://www.govinfo.gov/link/statute/129/3122); [Pub. L. 115–141, div. U, title II](https://www.govinfo.gov/link/plaw/115/public/141), §§ 201(c)(7), 206(j), Mar. 23, 2018, [132 Stat. 1173](https://www.govinfo.gov/link/statute/132/1173), 1180.)*

@@ -3,12 +3,17 @@ title: "Section 4416 - Retention of interest"
 usc_title: 22
 usc_section: "4416"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4416"
-generated_at: "2026-03-30T02:55:05.411Z"
+generated_at: "2026-11-23T20:26:32.538Z"
+status: "active"
 ---
 
 # § 4416. Retention of interest
 
 Notwithstanding any other provision of law, with the approval of the National Endowment for Democracy, grant funds made available by the National Endowment for Democracy may be deposited in interest-bearing accounts pending disbursement, and any interest which accrues may be retained by the grantee without returning such interest to the Treasury of the United States and interest earned may be obligated and expended for the purposes for which the grant was made without further appropriation.
 
+
+## Source Credit
+
+*([Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. B, title XXIV, § 2411, Oct. 21, 1998, [112 Stat. 2681–831](https://www.govinfo.gov/link/statute/112/2681).)*

@@ -3,9 +3,10 @@ title: "Section 7448 - Cadets: service obligation"
 usc_title: 10
 usc_section: "7448"
 chapter: 753
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 7448"
-generated_at: "2026-03-30T02:53:38.232Z"
+generated_at: "2026-11-23T20:25:52.091Z"
+status: "active"
 ---
 
 # § 7448. Cadets: service obligation
@@ -41,3 +42,38 @@ generated_at: "2026-03-30T02:53:38.232Z"
   - **(1)** This section does not apply to a cadet who is not a citizen or national of the United States.
   - **(2)** In the case of a cadet who is a minor and who has parents or a guardian, the cadet may sign the agreement required by subsection (a) only with the consent of a parent or guardian.
 - **(f)** A cadet or former cadet who does not fulfill each term of the agreement as specified under subsection (a), or an alternative obligation imposed under subsection (b), shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 4348 | 10:1092c. | June 30, 1950, ch. 421, § 3 , 64 Stat. 304 . |
+
+
+Historical and Revision Notes
+
+4348
+
+June 30, 1950, ch. 421, § 3
+
+64 Stat. 304
+
+“The amendments made by subsections (a), (b), and (c) [amending this section and sections 6959 and 9348 of this title] (other than with respect to the authority of the Secretary of a military department to prescribe regulations)—
+
+Report Required
+
+Definitions
+
+Policy Required.—
+
+In general
+
+Review of current policies
+
+Considerations
+
+Elements of Policy
+
+Application of Policy to Armed Forces
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 243, § 4348; [Pub. L. 88–276, § 5(a)](https://www.govinfo.gov/link/plaw/88/public/276), Mar. 3, 1964, [78 Stat. 153](https://www.govinfo.gov/link/statute/78/153); [Pub. L. 88–647, title III, § 301(9)](https://www.govinfo.gov/link/plaw/88/public/647), Oct. 13, 1964, [78 Stat. 1072](https://www.govinfo.gov/link/statute/78/1072); [Pub. L. 98–525, title V](https://www.govinfo.gov/link/plaw/98/public/525), §§ 541(a), 542(b), Oct. 19, 1984, [98 Stat. 2529](https://www.govinfo.gov/link/statute/98/2529); [Pub. L. 99–145, title V, § 512(a)](https://www.govinfo.gov/link/plaw/99/public/145), Nov. 8, 1985, [99 Stat. 623](https://www.govinfo.gov/link/statute/99/623); [Pub. L. 101–189, div. A, title V, § 511(b)](https://www.govinfo.gov/link/plaw/101/public/189), title XVI, § 1622(e)(5), Nov. 29, 1989, [103 Stat. 1439](https://www.govinfo.gov/link/statute/103/1439), 1605; [Pub. L. 104–106, div. A, title V, § 531(a)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 314](https://www.govinfo.gov/link/statute/110/314); [Pub. L. 109–163, div. A, title VI, § 687(c)(9)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3335](https://www.govinfo.gov/link/statute/119/3335); [Pub. L. 111–84, div. A, title X, § 1073(a)(29)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2474](https://www.govinfo.gov/link/statute/123/2474); [Pub. L. 111–383, div. A, title V, § 554(a)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4221](https://www.govinfo.gov/link/statute/124/4221); [Pub. L. 115–91, div. A, title V, § 543(a)](https://www.govinfo.gov/link/plaw/115/public/91), title VI, § 618(a)(1)(K), Dec. 12, 2017, [131 Stat. 1395](https://www.govinfo.gov/link/statute/131/1395), 1426; renumbered § 7448, [Pub. L. 115–232, div. A, title VIII, § 808(c)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1839](https://www.govinfo.gov/link/statute/132/1839); [Pub. L. 116–92, div. A, title V, § 554(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1388](https://www.govinfo.gov/link/statute/133/1388); [Pub. L. 117–263, div. A, title V, § 553(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2592](https://www.govinfo.gov/link/statute/136/2592); [Pub. L. 118–159, div. A, title V, § 557(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1896](https://www.govinfo.gov/link/statute/138/1896); [Pub. L. 119–60, div. A, title V, § 556(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 878](https://www.govinfo.gov/link/statute/139/878).)*

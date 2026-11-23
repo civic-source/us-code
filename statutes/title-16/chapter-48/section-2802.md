@@ -3,9 +3,10 @@ title: "Section 2802 - Definitions"
 usc_title: 16
 usc_section: "2802"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 2802"
-generated_at: "2026-03-30T02:54:23.006Z"
+generated_at: "2026-11-23T20:26:20.619Z"
+status: "active"
 ---
 
 # § 2802. Definitions
@@ -21,3 +22,7 @@ As used in this chapter, unless the context otherwise requires—
   - **(7)** The term “Secretaries” means the Secretary of Agriculture, the Secretary of Commerce, and the Secretary of the Interior.
   - **(8)** The term “Secretary” means the Secretary of Agriculture.
   - **(9)** The term “State” means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands of the United States, Guam, the Commonwealth of the Northern Mariana Islands, and the Trust Territory of the Pacific Islands, or any other territory or possession of the United States.
+
+## Source Credit
+
+*([Pub. L. 96–362, § 3](https://www.govinfo.gov/link/plaw/96/public/362), Sept. 26, 1980, [94 Stat. 1199](https://www.govinfo.gov/link/statute/94/1199); [Pub. L. 99–198, title XVII, § 1733](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1641](https://www.govinfo.gov/link/statute/99/1641).)*

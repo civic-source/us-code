@@ -3,9 +3,10 @@ title: "Section 18052 - Waiver for State innovation"
 usc_title: 42
 usc_section: "18052"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18052"
-generated_at: "2026-03-30T02:56:11.514Z"
+generated_at: "2026-11-23T20:27:23.781Z"
+status: "active"
 ---
 
 # § 18052. Waiver for State innovation
@@ -56,3 +57,7 @@ generated_at: "2026-03-30T02:56:11.514Z"
     - **(A)** If the Secretary determines to grant a waiver under subsection (a)(1), the Secretary shall notify the State involved of such determination and the terms and effectiveness of such waiver.
     - **(B)** If the Secretary determines a waiver should not be granted under subsection (a)(1), the Secretary shall notify the State involved, and the appropriate committees of Congress of such determination and the reasons therefore. 4 4 So in original. Probably should be “therefor.”
 - **(e)** No waiver under this section may extend over a period of longer than 5 years unless the State requests continuation of such waiver, and such request shall be deemed granted unless the Secretary, within 90 days after the date of its submission to the Secretary, either denies such request in writing or informs the State in writing with respect to any additional information which is needed in order to make a final determination with respect to the request.
+
+## Source Credit
+
+*([Pub. L. 111–148, title I, § 1332](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 203](https://www.govinfo.gov/link/statute/124/203).)*

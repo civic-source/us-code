@@ -3,9 +3,10 @@ title: "Section 18648 - Accelerator research and development"
 usc_title: 42
 usc_section: "18648"
 chapter: 161
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18648"
-generated_at: "2026-03-30T02:56:11.524Z"
+generated_at: "2026-11-23T20:27:23.814Z"
+status: "active"
 ---
 
 # § 18648. Accelerator research and development
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:11.524Z"
   - **(3)** $21,438,288 for fiscal year 2025;
   - **(4)** $22,724,585 for fiscal year 2026; and
   - **(5)** $24,088,060 for fiscal year 2027.
+
+## Source Credit
+
+*([Pub. L. 115–246, title III, § 310](https://www.govinfo.gov/link/plaw/115/public/246), as added [Pub. L. 117–167, div. B, title I, § 10109](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1451](https://www.govinfo.gov/link/statute/136/1451).)*

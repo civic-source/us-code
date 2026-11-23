@@ -3,9 +3,10 @@ title: "Section 1556 - Ex parte communications prohibited"
 usc_title: 10
 usc_section: "1556"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1556"
-generated_at: "2026-03-30T02:53:38.128Z"
+generated_at: "2026-11-23T20:25:51.369Z"
+status: "active"
 ---
 
 # § 1556. Ex parte communications prohibited
@@ -17,3 +18,11 @@ generated_at: "2026-03-30T02:53:38.128Z"
   - **(3)** Any record previously provided to the applicant or known to be possessed by the applicant.
   - **(4)** Any correspondence that is purely administrative in nature.
   - **(5)** Any military record that is (or may be) provided to the applicant by the Secretary of the military department or other source.
+
+In General
+
+Exceptions
+
+## Source Credit
+
+*(Added [Pub. L. 105–261, div. A, title V, § 543(a)(1)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2020](https://www.govinfo.gov/link/statute/112/2020); amended [Pub. L. 118–31, div. A, title XVII, § 1722(j)(2)(B)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 673](https://www.govinfo.gov/link/statute/137/673).)*

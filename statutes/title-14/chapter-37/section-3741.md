@@ -3,9 +3,10 @@ title: "Section 3741 - Selection boards; appointment"
 usc_title: 14
 usc_section: "3741"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 3741"
-generated_at: "2026-03-30T02:53:51.503Z"
+generated_at: "2026-11-23T20:25:54.640Z"
+status: "active"
 ---
 
 # § 3741. Selection boards; appointment
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:51.503Z"
 - **(b)** A selection board serves for the length of time prescribed by the Secretary, but no board may serve longer than one year. No officer may serve on two consecutive selection boards for the same grade when the second of those boards considers an officer who was considered, but not recommended for promotion, by the first selection board.
 - **(c)** Each member of a selection board shall swear that he will, without prejudice or partiality, and having in view both the special fitness required of officers and the efficiency of the Coast Guard, perform the duties imposed upon him. Not less than a majority of the total membership of a selection board shall concur in each recommendation made by the board.
 - **(d)** An officer eligible for consideration for promotion by a selection board may forward, through official channels, a written communication inviting the attention of the board to any matter in the officer’s record in the armed forces that, in the opinion of the officer concerned, is important to the board’s consideration. A communication forwarded under this subsection shall arrive in time to allow delivery to the board prior to its convening, and may not criticize or reflect upon the character, conduct, or motive of any officer.
+
+## Source Credit
+
+*(Added [Pub. L. 96–322, § 1](https://www.govinfo.gov/link/plaw/96/public/322), Aug. 4, 1980, [94 Stat. 1011](https://www.govinfo.gov/link/statute/94/1011), § 730; renumbered § 3741, [Pub. L. 115–282, title I, § 118(b)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4233](https://www.govinfo.gov/link/statute/132/4233).)*

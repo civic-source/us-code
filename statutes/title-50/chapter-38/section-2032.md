@@ -3,9 +3,10 @@ title: "Section 2032 - Annuities for former spouses"
 usc_title: 50
 usc_section: "2032"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 2032"
-generated_at: "2026-03-30T02:56:26.217Z"
+generated_at: "2026-11-23T20:27:30.817Z"
+status: "active"
 ---
 
 # § 2032. Annuities for former spouses
@@ -59,3 +60,83 @@ generated_at: "2026-03-30T02:56:26.217Z"
     - **(D)** Under regulations prescribed by the Director, an annuity shall be recomputed (or a pay allotment terminated or adjusted), and a refund provided (if appropriate), in a manner comparable to that provided under subparagraph (C), in order to reflect a termination or reduction of future benefits under this subsection for a spouse in the event a former spouse of the participant dies or remarries before attaining age 55 and an increased annuity is provided for that spouse in accordance with this section.
   - **(4)** An annuity payable under this subsection to a spouse or former spouse shall commence on the day after the participant dies and shall terminate on the last day of the month before the spouse’s or the former spouse’s death or remarriage before attaining age 55.
   - **(5)** Section 2131 of this title does not apply to an annuity under this subsection, unless authorized under regulations prescribed by the Director.
+
+Survivor Annuity.—
+
+In general.—
+
+Entitlement of former wife or husband
+
+Reduction in survivor annuity
+
+Limitations
+
+Commencement and termination of annuity.—
+
+Commencement of annuity
+
+Termination of annuity
+
+Election of benefits
+
+Time limit; waiver
+
+Retroactive benefits
+
+Restoration of annuity
+
+Applicability in cases of participants transferred to fers.—
+
+Entitlement
+
+Amount of annuity
+
+Retirement Annuity.—
+
+In general.—
+
+Entitlement of former wife or husband
+
+Reduction in retirement annuities.—
+
+Amount of reduction
+
+Definition of terms
+
+Apportionment
+
+Court order
+
+Limitations
+
+Commencement and termination.—
+
+Retirement annuities
+
+Disability annuities
+
+Election of benefits
+
+Application.—
+
+Time limit; waiver
+
+Retroactive benefits
+
+Restoration of annuities
+
+Applicability in cases of participants transferred to fers
+
+Savings provision
+
+Health Benefits
+
+Source of Payment for Annuities
+
+Effective Date.—
+
+In general
+
+## Source Credit
+
+*([Pub. L. 88–643, title II, § 222](https://www.govinfo.gov/link/plaw/88/public/643), as added [Pub. L. 102–496, title VIII, § 802](https://www.govinfo.gov/link/plaw/102/public/496), Oct. 24, 1992, [106 Stat. 3212](https://www.govinfo.gov/link/statute/106/3212); amended [Pub. L. 103–178, title II, § 202(a)(5)](https://www.govinfo.gov/link/plaw/103/public/178), Dec. 3, 1993, [107 Stat. 2026](https://www.govinfo.gov/link/statute/107/2026); [Pub. L. 116–92, div. E, title LXII, § 6202(b)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2186](https://www.govinfo.gov/link/statute/133/2186).)*

@@ -3,9 +3,10 @@ title: "Section 1104 - Purposes and authority of Center"
 usc_title: 2
 usc_section: "1104"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1104"
-generated_at: "2026-03-30T02:53:04.808Z"
+generated_at: "2026-11-23T20:25:28.947Z"
+status: "active"
 ---
 
 # § 1104. Purposes and authority of Center
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:04.808Z"
   - **(4)** The development and implementation of media and telecommunications production capabilities to assist the Center in expanding the reach of its programs throughout the United States.
   - **(5)** The establishment of library and research facilities for the collection and compilation of research materials for use in carrying out the programs of the Center.
 - **(c)** The Board of Trustees shall determine the priority of the programs to be carried out under this chapter and the amount of funds to be allocated for such programs.
+
+## Source Credit
+
+*([Pub. L. 100–458, title I, § 115](https://www.govinfo.gov/link/plaw/100/public/458), Oct. 1, 1988, [102 Stat. 2173](https://www.govinfo.gov/link/statute/102/2173).)*

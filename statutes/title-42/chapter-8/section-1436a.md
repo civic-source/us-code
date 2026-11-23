@@ -3,9 +3,10 @@ title: "Section 1436a - Restriction on use of assisted housing by non-resident a
 usc_title: 42
 usc_section: "1436a"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1436a"
-generated_at: "2026-03-30T02:56:11.076Z"
+generated_at: "2026-11-23T20:27:21.697Z"
+status: "active"
 ---
 
 # § 1436a. Restriction on use of assisted housing by non-resident aliens
@@ -80,3 +81,13 @@ generated_at: "2026-03-30T02:56:11.076Z"
       - **(ii)** may affirmatively establish or verify the eligibility of an individual or family under this section in accordance with the procedures set forth in section 1324a(b)(1) of title 8 ; and
       - **(iii)** shall have access to any relevant information contained in the SAVE system (or any successor thereto) that relates to any individual or family applying for financial assistance.
   - **(3)** For purposes of this subsection, with respect to a family, the term “eligibility” means the eligibility of each family member.
+
+Issuance
+
+Failure To Issue
+
+“In carrying out section 214 of the Housing and Community Development Act of 1980 [this section] during fiscal year 1988, the Secretary of Housing and Urban Development shall require, as a condition of providing financial assistance for the benefit of any individual, that such individual—
+
+## Source Credit
+
+*([Pub. L. 96–399, title II, § 214](https://www.govinfo.gov/link/plaw/96/public/399), Oct. 8, 1980, [94 Stat. 1637](https://www.govinfo.gov/link/statute/94/1637); [Pub. L. 97–35, title III, § 329(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 408](https://www.govinfo.gov/link/statute/95/408); [Pub. L. 99–603, title I, § 121(a)(2)](https://www.govinfo.gov/link/plaw/99/public/603), Nov. 6, 1986, [100 Stat. 3386](https://www.govinfo.gov/link/statute/100/3386); [Pub. L. 100–242, title I, § 164(a)](https://www.govinfo.gov/link/plaw/100/public/242) –(f)(1), Feb. 5, 1988, [101 Stat. 1860–1863](https://www.govinfo.gov/link/statute/101/1860); [Pub. L. 104–193, title IV, § 441(a)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2276](https://www.govinfo.gov/link/statute/110/2276); [Pub. L. 104–208, div. C, title III, § 308(g)(7)(D)(ii)](https://www.govinfo.gov/link/plaw/104/public/208), title V, §§ 572–576, Sept. 30, 1996, [110 Stat. 3009–624](https://www.govinfo.gov/link/statute/110/3009), 3009–684, 3009–685, 3009–687; [Pub. L. 105–276, title V, § 592(a)](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2653](https://www.govinfo.gov/link/statute/112/2653); [Pub. L. 106–504, § 3(b)](https://www.govinfo.gov/link/plaw/106/public/504), Nov. 13, 2000, [114 Stat. 2312](https://www.govinfo.gov/link/statute/114/2312); [Pub. L. 114–201, title I, § 113](https://www.govinfo.gov/link/plaw/114/public/201), July 29, 2016, [130 Stat. 804](https://www.govinfo.gov/link/statute/130/804).)*

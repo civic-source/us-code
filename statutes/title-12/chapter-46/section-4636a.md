@@ -3,9 +3,10 @@ title: "Section 4636a - Removal and prohibition authority"
 usc_title: 12
 usc_section: "4636a"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4636a"
-generated_at: "2026-03-30T02:53:53.514Z"
+generated_at: "2026-11-23T20:25:59.416Z"
+status: "active"
 ---
 
 # § 4636a. Removal and prohibition authority
@@ -78,3 +79,7 @@ generated_at: "2026-03-30T02:53:53.514Z"
     - **(B)** Upon receipt of a request for a hearing under subparagraph (A), the Director shall fix a time (not later than 30 days after the date of receipt of such request, unless extended at the request of such party) and place at which the entity-affiliated party may appear, personally or through counsel, before the Director or 1 or more designated employees of the Director to submit written materials (or, at the discretion of the Director, oral testimony) and oral argument.
     - **(C)** Not later than 60 days after the date of a hearing under subparagraph (B), the Director shall notify the entity-affiliated party whether the suspension or prohibition from participation in any manner in the conduct of the affairs of the regulated entity will be continued, terminated, or otherwise modified, or whether the order removing such party from office or prohibiting such party from further participation in any manner in the conduct of the affairs of the regulated entity will be rescinded or otherwise modified. Such notification shall contain a statement of the basis for any adverse decision of the Director.
   - **(5)** The Director is authorized to prescribe such rules as may be necessary to carry out this subsection.
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1377](https://www.govinfo.gov/link/plaw/102/public/550), as added [Pub. L. 110–289, div. A, title I, § 1153(a)(2)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2770](https://www.govinfo.gov/link/statute/122/2770).)*

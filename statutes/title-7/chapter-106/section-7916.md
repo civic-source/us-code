@@ -3,9 +3,10 @@ title: "Section 7916 - Planting flexibility"
 usc_title: 7
 usc_section: "7916"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7916"
-generated_at: "2026-03-30T02:53:42.465Z"
+generated_at: "2026-11-23T20:25:41.851Z"
+status: "active"
 ---
 
 # § 7916. Planting flexibility
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:42.465Z"
     - **(A)** the quantity planted may not exceed the average annual planting history of such agricultural commodity by the producers on the farm in the 1991 through 1995 or 1998 through 2001 crop years (excluding any crop year in which no plantings were made), as determined by the Secretary; and
     - **(B)** direct payments and counter-cyclical payments shall be reduced by an acre for each acre planted to such agricultural commodity.
 - **(d)** For the 2002 crop year only, if the calculation of base acres under section 7911(a) of this title results in total base acres for a farm in excess of the contract acreage (as defined in section 7202 of this title ) for the farm used to calculate the fiscal year 2002 payment authorized under section 7214 of this title , paragraphs (1) and (2) of subsection (b) shall not limit the harvesting of an agricultural commodity specified in paragraph (3) of that subsection on the excess base acres, except that direct payments and counter-cyclical payments for the 2002 crop year shall be reduced by an acre for each acre of the excess base acres planted to such an agricultural commodity.
+
+## Source Credit
+
+*([Pub. L. 107–171, title I, § 1106](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 153](https://www.govinfo.gov/link/statute/116/153).)*

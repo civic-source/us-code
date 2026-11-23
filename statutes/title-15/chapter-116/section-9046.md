@@ -3,9 +3,10 @@ title: "Section 9046 - Suspension of certain aviation excise taxes"
 usc_title: 15
 usc_section: "9046"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 9046"
-generated_at: "2026-03-30T02:54:08.241Z"
+generated_at: "2026-11-23T20:26:04.542Z"
+status: "active"
 ---
 
 # § 9046. Suspension of certain aviation excise taxes
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:08.241Z"
     - **(A)** by treating such use as a nontaxable use, and
     - **(B)** without regard to paragraph (4)(A)(ii) thereof.
 - **(c)** For purposes of this section, the term “excise tax holiday period” means the period beginning after March 27, 2020 , and ending before January 1, 2021 .
+
+## Source Credit
+
+*([Pub. L. 116–136, div. A, title IV, § 4007](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 477](https://www.govinfo.gov/link/statute/134/477).)*

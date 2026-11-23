@@ -3,9 +3,10 @@ title: "Section 657f - Procurement program for small business concerns owned and
 usc_title: 15
 usc_section: "657f"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 657f"
-generated_at: "2026-03-30T02:54:08.107Z"
+generated_at: "2026-11-23T20:26:03.841Z"
+status: "active"
 ---
 
 # § 657f. Procurement program for small business concerns owned and controlled by service-disabled veterans
@@ -52,3 +53,51 @@ generated_at: "2026-03-30T02:54:08.107Z"
   - **(2)** The procedures established under paragraph (1) shall provide for a program of examinations by the Administrator of any small business concern making a certification or providing information to the Administrator under subsection (b), to determine the veracity of any statements or information provided as part of such certification or otherwise provided under subsection (b).
   - **(3)**
 - **(i)** Upon the request of the Administrator, the head of any Federal department or agency shall promptly provide to the Administrator such information as the Administrator determines to be necessary to carry out subsection (b) or to be able to certify the status of the concern as a small business concern owned and controlled by veterans under section 657f–1 of this title .
+
+Transfer Date
+
+Additional Requirements for Database.—
+
+Administrator access to database before the transfer date
+
+Rule of construction
+
+Recognition of the issuance of joint regulations
+
+Status of Self-Certified Small Business Concerns Owned and Controlled by Service-Disabled Veterans.—
+
+In general
+
+Non-applicability to department of veterans affairs
+
+Notice
+
+Transfer of the Center for Verification and Evaluation of the Department of Veterans Affairs to the Small Business Administration.—
+
+Definition
+
+Abolishment
+
+Transfer of functions
+
+Transfer of assets
+
+Savings provisions.—
+
+Continuing effect of legal documents
+
+Proceedings not affected
+
+Suits not affected
+
+Nonabatement of actions
+
+Administrative actions relating to promulgation of regulations
+
+Effect on personnel
+
+References
+
+## Source Credit
+
+*([Pub. L. 85–536, § 2[36]](https://www.govinfo.gov/link/plaw/85/public/536), as added [Pub. L. 108–183, title III, § 308](https://www.govinfo.gov/link/plaw/108/public/183), Dec. 16, 2003, [117 Stat. 2662](https://www.govinfo.gov/link/statute/117/2662); amended [Pub. L. 116–283, div. A, title VIII](https://www.govinfo.gov/link/plaw/116/public/283), §§ 862(b)(2), (d)(1), 864(3), Jan. 1, 2021, [134 Stat. 3778](https://www.govinfo.gov/link/statute/134/3778), 3779, 3785.)*

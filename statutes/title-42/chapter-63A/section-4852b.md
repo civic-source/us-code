@@ -3,12 +3,17 @@ title: "Section 4852b - National consultation on lead-based paint hazard reducti
 usc_title: 42
 usc_section: "4852b"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4852b"
-generated_at: "2026-03-30T02:56:11.209Z"
+generated_at: "2026-11-23T20:27:22.422Z"
+status: "active"
 ---
 
 # § 4852b. National consultation on lead-based paint hazard reduction
 
 In carrying out this chapter, the Secretary shall consult on an ongoing basis with the Administrator of the Environmental Protection Agency, the Director of the Centers for Disease Control, other Federal agencies concerned with lead poisoning prevention, and the task force established pursuant to section 4852a of this title .
 
+
+## Source Credit
+
+*([Pub. L. 102–550, title X, § 1016](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3909](https://www.govinfo.gov/link/statute/106/3909).)*

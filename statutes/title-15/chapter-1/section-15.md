@@ -3,9 +3,10 @@ title: "Section 15 - Suits by persons injured"
 usc_title: 15
 usc_section: "15"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 15"
-generated_at: "2026-03-30T02:54:08.021Z"
+generated_at: "2026-11-23T20:26:03.360Z"
+status: "active"
 ---
 
 # § 15. Suits by persons injured
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:08.021Z"
 - **(c)** For purposes of this section—
   - **(1)** the term “commercial activity” shall have the meaning given it in section 1603(d) of title 28 , and
   - **(2)** the term “foreign state” shall have the meaning given it in section 1603(a) of title 28 .
+
+## Source Credit
+
+*(Oct. 15, 1914, ch. 323, § 4, [38 Stat. 731](https://www.govinfo.gov/link/statute/38/731); [Pub. L. 96–349, § 4(a)(1)](https://www.govinfo.gov/link/plaw/96/public/349), Sept. 12, 1980, [94 Stat. 1156](https://www.govinfo.gov/link/statute/94/1156); [Pub. L. 97–393](https://www.govinfo.gov/link/plaw/97/public/393), Dec. 29, 1982, [96 Stat. 1964](https://www.govinfo.gov/link/statute/96/1964).)*

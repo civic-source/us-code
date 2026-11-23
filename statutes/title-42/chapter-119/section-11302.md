@@ -3,9 +3,10 @@ title: "Section 11302 - General definition of homeless individual"
 usc_title: 42
 usc_section: "11302"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11302"
-generated_at: "2026-03-30T02:56:11.396Z"
+generated_at: "2026-11-23T20:27:23.282Z"
+status: "active"
 ---
 
 # § 11302. General definition of homeless individual
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:56:11.396Z"
   - **(2)** Notwithstanding paragraph (1), a homeless individual shall be eligible for assistance under title I of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3111 et seq.].
 - **(d)** For purposes of this chapter, the term “homeless” or “homeless individual” does not include any individual imprisoned or otherwise detained pursuant to an Act of the Congress or a State law.
 - **(e)** Any references in this chapter to homeless individuals (including homeless persons) or homeless groups (including homeless persons) shall be considered to include, and to refer to, individuals experiencing homelessness or groups experiencing homelessness, respectively.
+
+## Source Credit
+
+*([Pub. L. 100–77, title I, § 103](https://www.govinfo.gov/link/plaw/100/public/77), July 22, 1987, [101 Stat. 485](https://www.govinfo.gov/link/statute/101/485); [Pub. L. 101–625, title VIII, § 822](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4355](https://www.govinfo.gov/link/statute/104/4355); [Pub. L. 101–645, title VI, § 602](https://www.govinfo.gov/link/plaw/101/public/645), Nov. 29, 1990, [104 Stat. 4734](https://www.govinfo.gov/link/statute/104/4734); [Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(41), (f)(32)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–427, 2681–434; [Pub. L. 111–22, div. B, § 1003(a)](https://www.govinfo.gov/link/plaw/111/public/22), title V, § 1502(b), May 20, 2009, [123 Stat. 1664](https://www.govinfo.gov/link/statute/123/1664), 1701; [Pub. L. 113–128, title V, § 512(s)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1712](https://www.govinfo.gov/link/statute/128/1712); [Pub. L. 117–103, div. W, title VI, § 605(a)(1)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 886](https://www.govinfo.gov/link/statute/136/886).)*

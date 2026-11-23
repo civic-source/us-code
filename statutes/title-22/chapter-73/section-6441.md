@@ -3,9 +3,10 @@ title: "Section 6441 - Presidential actions in response to violations of religio
 usc_title: 22
 usc_section: "6441"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6441"
-generated_at: "2026-03-30T02:55:05.428Z"
+generated_at: "2026-11-23T20:26:32.614Z"
+status: "active"
 ---
 
 # § 6441. Presidential actions in response to violations of religious freedom
@@ -33,3 +34,9 @@ generated_at: "2026-03-30T02:55:05.428Z"
   - **(2)** In addition to the guidelines under paragraph (1), the President, in determining whether to take a Presidential action under paragraphs (9) through (15) of section 6445(a) of this title (or commensurate action in substitution thereto), shall seek to minimize any adverse impact on—
     - **(A)** the population of the country whose government is targeted by the Presidential action or actions; and
     - **(B)** the humanitarian activities of United States and foreign nongovernmental organizations in such country.
+
+William J. Clinton.
+
+## Source Credit
+
+*([Pub. L. 105–292, title IV, § 401](https://www.govinfo.gov/link/plaw/105/public/292), Oct. 27, 1998, [112 Stat. 2800](https://www.govinfo.gov/link/statute/112/2800).)*

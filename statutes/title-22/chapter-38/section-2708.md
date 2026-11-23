@@ -3,9 +3,10 @@ title: "Section 2708 - Department of State rewards program"
 usc_title: 22
 usc_section: "2708"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2708"
-generated_at: "2026-03-30T02:55:05.379Z"
+generated_at: "2026-11-23T20:26:32.380Z"
+status: "active"
 ---
 
 # § 2708. Department of State rewards program
@@ -98,3 +99,35 @@ generated_at: "2026-03-30T02:55:05.379Z"
   - **(10)** The term “United States person” means—
     - **(A)** a citizen or national of the United States; or
     - **(B)** an alien lawfully present in the United States.
+
+Limitation
+
+Allocation of funds
+
+Findings
+
+Sense of Congress
+
+Findings
+
+Sense of Congress
+
+Findings
+
+Sense of Congress
+
+Authority
+
+Procedures.—
+
+Reference
+
+Determination of the Secretary
+
+Priority
+
+Reports
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title I, § 36, as added [Pub. L. 98–533, title I, § 102](https://www.govinfo.gov/link/plaw/98/public/533), Oct. 19, 1984, [98 Stat. 2708](https://www.govinfo.gov/link/statute/98/2708); amended [Pub. L. 99–399, title V, § 502](https://www.govinfo.gov/link/plaw/99/public/399), Aug. 27, 1986, [100 Stat. 869](https://www.govinfo.gov/link/statute/100/869); [Pub. L. 100–690, title IV, § 4602](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4287](https://www.govinfo.gov/link/statute/102/4287); [Pub. L. 101–231, § 13(a)](https://www.govinfo.gov/link/plaw/101/public/231), Dec. 13, 1989, [103 Stat. 1963](https://www.govinfo.gov/link/statute/103/1963); [Pub. L. 101–246, title X, § 1001](https://www.govinfo.gov/link/plaw/101/public/246), Feb. 16, 1990, [104 Stat. 86](https://www.govinfo.gov/link/statute/104/86); [Pub. L. 103–236, title I, § 133(a)(1)](https://www.govinfo.gov/link/plaw/103/public/236), title VIII, § 827, Apr. 30, 1994, [108 Stat. 395](https://www.govinfo.gov/link/statute/108/395), 519; [Pub. L. 104–134, title I, § 101[(a)]](https://www.govinfo.gov/link/plaw/104/public/134) [title IV, § 406], Apr. 26, 1996, [110 Stat. 1321](https://www.govinfo.gov/link/statute/110/1321), 1321–45; renumbered title I, [Pub. L. 104–140, § 1(a)](https://www.govinfo.gov/link/plaw/104/public/140), May 2, 1996, [110 Stat. 1327](https://www.govinfo.gov/link/statute/110/1327); [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. B, title XXII, § 2202, Oct. 21, 1998, [112 Stat. 2681–805](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 105–323, title I, § 101](https://www.govinfo.gov/link/plaw/105/public/323), Oct. 30, 1998, [112 Stat. 3029](https://www.govinfo.gov/link/statute/112/3029); [Pub. L. 107–56, title V, § 502](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 364](https://www.govinfo.gov/link/statute/115/364); [Pub. L. 108–447, div. B, title IV, § 405(a)](https://www.govinfo.gov/link/plaw/108/public/447) –(d), Dec. 8, 2004, [118 Stat. 2902](https://www.govinfo.gov/link/statute/118/2902), 2903; [Pub. L. 110–181, div. A, title XII, § 1255(a)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 402](https://www.govinfo.gov/link/statute/122/402); [Pub. L. 112–283](https://www.govinfo.gov/link/plaw/112/public/283), §§ 3, 4, Jan. 15, 2013, [126 Stat. 2493](https://www.govinfo.gov/link/statute/126/2493), 2494; [Pub. L. 114–323, title VII, § 704(a)(1)](https://www.govinfo.gov/link/plaw/114/public/323), (2), Dec. 16, 2016, [130 Stat. 1941](https://www.govinfo.gov/link/statute/130/1941); [Pub. L. 115–44, title III, § 323](https://www.govinfo.gov/link/plaw/115/public/44), Aug. 2, 2017, [131 Stat. 954](https://www.govinfo.gov/link/statute/131/954); [Pub. L. 115–141, div. R, § 3](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1123](https://www.govinfo.gov/link/statute/132/1123); [Pub. L. 115–232, div. A, title XII, § 1232(d)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2038](https://www.govinfo.gov/link/statute/132/2038); [Pub. L. 116–94, div. J, title VI, § 603](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3069](https://www.govinfo.gov/link/statute/133/3069); [Pub. L. 116–283, div. A, title XII, § 1238](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3943](https://www.govinfo.gov/link/statute/134/3943); [Pub. L. 117–263, div. E, title LV, § 5585(a)](https://www.govinfo.gov/link/plaw/117/public/263), div. I, title XCI, § 9104, Dec. 23, 2022, [136 Stat. 3374](https://www.govinfo.gov/link/statute/136/3374), 3859; [Pub. L. 117–273, § 2](https://www.govinfo.gov/link/plaw/117/public/273), Dec. 27, 2022, [136 Stat. 4182](https://www.govinfo.gov/link/statute/136/4182); [Pub. L. 118–159, div. G, title LXXVIII, § 7802](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2557](https://www.govinfo.gov/link/statute/138/2557).)*

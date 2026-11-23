@@ -3,9 +3,10 @@ title: "Section 92a - Trust powers"
 usc_title: 12
 usc_section: "92a"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 92a"
-generated_at: "2026-03-30T02:53:53.373Z"
+generated_at: "2026-11-23T20:25:58.694Z"
+status: "active"
 ---
 
 # § 92a. Trust powers
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:53.373Z"
   - **(2)** Such hearing shall be conducted in accordance with the provisions of section 1818(h) of this title , and subject to judicial review as provided in such section, and shall be fixed for a date not earlier than thirty days nor later than sixty days after service of such notice unless an earlier or later date is set by the Comptroller at the request of any association so served.
   - **(3)** Unless the association so served shall appear at the hearing by a duly authorized representative, it shall be deemed to have consented to the issuance of the revocation order. In the event of such consent, or if upon the record made at any such hearing, the Comptroller shall find that any allegation specified in the notice of charges has been established, the Comptroller may issue and serve upon the association an order prohibiting it from accepting any new or additional trust accounts and revoking authority to exercise any and all powers granted by this section, except that such order shall permit the association to continue to service all previously accepted trust accounts pending their expeditious divestiture or termination.
   - **(4)** A revocation order shall become effective not earlier than the expiration of thirty days after service of such order upon the association so served (except in the case of a revocation order issued upon consent, which shall become effective at the time specified therein), and shall remain effective and enforceable, except to such extent as it is stayed, modified, terminated, or set aside by action of the Comptroller or a reviewing court.
+
+## Source Credit
+
+*([Pub. L. 87–722, § 1](https://www.govinfo.gov/link/plaw/87/public/722), Sept. 28, 1962, [76 Stat. 668](https://www.govinfo.gov/link/statute/76/668); [Pub. L. 96–221, title VII, § 704](https://www.govinfo.gov/link/plaw/96/public/221), Mar. 31, 1980, [94 Stat. 187](https://www.govinfo.gov/link/statute/94/187); [Pub. L. 112–231, § 2(b)(1)](https://www.govinfo.gov/link/plaw/112/public/231), Dec. 28, 2012, [126 Stat. 1619](https://www.govinfo.gov/link/statute/126/1619).)*

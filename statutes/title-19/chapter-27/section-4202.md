@@ -3,9 +3,10 @@ title: "Section 4202 - Trade agreements authority"
 usc_title: 19
 usc_section: "4202"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 4202"
-generated_at: "2026-03-30T02:54:24.703Z"
+generated_at: "2026-11-23T20:26:11.122Z"
+status: "active"
 ---
 
 # § 4202. Trade agreements authority
@@ -79,3 +80,9 @@ generated_at: "2026-03-30T02:54:24.703Z"
       - **(ii)** the Senate to consider any extension disapproval resolution not reported by the Committee on Finance; or
       - **(iii)** either House of Congress to consider an extension disapproval resolution after June 30, 2018 .
 - **(d)** In order to contribute to the continued economic expansion of the United States, the President shall commence negotiations covering tariff and nontariff barriers affecting any industry, product, or service sector, and expand existing sectoral agreements to countries that are not parties to those agreements, in cases where the President determines that such negotiations are feasible and timely and would benefit the United States. Such sectors include agriculture, commercial services, intellectual property rights, industrial and capital goods, government procurement, information technology products, environmental technology and services, medical equipment and services, civil aircraft, and infrastructure products. In so doing, the President shall take into account all of the negotiating objectives set forth in section 4201 of this title .
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 114–26, title I, § 103](https://www.govinfo.gov/link/plaw/114/public/26), June 29, 2015, [129 Stat. 333](https://www.govinfo.gov/link/statute/129/333).)*

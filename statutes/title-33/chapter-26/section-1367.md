@@ -3,9 +3,10 @@ title: "Section 1367 - Employee protection"
 usc_title: 33
 usc_section: "1367"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1367"
-generated_at: "2026-03-30T02:55:41.103Z"
+generated_at: "2026-11-23T20:26:54.064Z"
+status: "active"
 ---
 
 # § 1367. Employee protection
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:41.103Z"
 - **(c)** Whenever an order is issued under this section to abate such violation, at the request of the applicant, a sum equal to the aggregate amount of all costs and expenses (including the attorney’s fees), as determined by the Secretary of Labor, to have been reasonably incurred by the applicant for, or in connection with, the institution and prosecution of such proceedings, shall be assessed against the person committing such violation.
 - **(d)** This section shall have no application to any employee who, acting without direction from his employer (or his agent) deliberately violates any prohibition of effluent limitation or other limitation under section 1311 or 1312 of this title, standards of performance under section 1316 of this title , effluent standard, prohibition or pretreatment standard under section 1317 of this title , or any other prohibition or limitation established under this chapter.
 - **(e)** The Administrator shall conduct continuing evaluations of potential loss or shifts of employment which may result from the issuance of any effluent limitation or order under this chapter, including, where appropriate, investigating threatened plant closures or reductions in employment allegedly resulting from such limitation or order. Any employee who is discharged or laid-off, threatened with discharge or lay-off, or otherwise discriminated against by any person because of the alleged results of any effluent limitation or order issued under this chapter, or any representative of such employee, may request the Administrator to conduct a full investigation of the matter. The Administrator shall thereupon investigate the matter and, at the request of any party, shall hold public hearings on not less than five days notice, and shall at such hearings require the parties, including the employer involved, to present information relating to the actual or potential effect of such limitation or order on employment and on any alleged discharge, lay-off, or other discrimination and the detailed reasons or justification therefor. Any such hearing shall be of record and shall be subject to section 554 of title 5 . Upon receiving the report of such investigation, the Administrator shall make findings of fact as to the effect of such effluent limitation or order on employment and on the alleged discharge, lay-off, or discrimination and shall make such recommendations as he deems appropriate. Such report, findings, and recommendations shall be available to the public. Nothing in this subsection shall be construed to require or authorize the Administrator to modify or withdraw any effluent limitation or order issued under this chapter.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title V, § 507, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 890](https://www.govinfo.gov/link/statute/86/890).)*

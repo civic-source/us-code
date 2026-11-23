@@ -3,9 +3,10 @@ title: "Section 1396 - Special rules for plans under section 404(c) of title 26"
 usc_title: 29
 usc_section: "1396"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1396"
-generated_at: "2026-03-30T02:55:18.735Z"
+generated_at: "2026-11-23T20:26:38.036Z"
+status: "active"
 ---
 
 # § 1396. Special rules for plans under section 404(c) of title 26
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:18.735Z"
       - **(i)** the numerator of which is an amount equal to the portion of the plan’s unfunded vested benefits that is attributable to plan participants who have a total of 10 or more years of signatory service, and
       - **(ii)** the denominator of which is an amount equal to the total unfunded vested benefits of the plan.
   - **(2)** For purposes of paragraph (1), the term “a year of signatory service” means a year during any portion of which a participant was employed for an employer who was obligated to contribute in that year, or who was subsequently obligated to contribute.
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4216](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 96–364, title I, § 104(2)](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1234](https://www.govinfo.gov/link/statute/94/1234).)*

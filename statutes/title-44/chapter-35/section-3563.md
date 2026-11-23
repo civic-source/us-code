@@ -3,9 +3,10 @@ title: "Section 3563 - Statistical agencies"
 usc_title: 44
 usc_section: "3563"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "44 U.S.C. § 3563"
-generated_at: "2026-03-30T02:55:56.298Z"
+generated_at: "2026-11-23T20:27:03.841Z"
+status: "active"
 ---
 
 # § 3563. Statistical agencies
@@ -24,3 +25,27 @@ generated_at: "2026-03-30T02:55:56.298Z"
   - **(2)** The term “confidentiality” means a quality or condition accorded to information as an obligation not to disclose that information to an unauthorized party.
   - **(3)** The term “objective”, when used with respect to statistical activities, means accurate, clear, complete, and unbiased.
   - **(4)** The term “relevant”, when used with respect to statistical information, means processes, activities, and other such matters likely to be useful to policymakers and public and private sector data users.
+
+Responsibilities.—
+
+In general
+
+Policies, best practices, and procedures
+
+Support From Other Agencies
+
+Regulations
+
+Definitions
+
+Accurate
+
+Confidentiality
+
+Objective
+
+Relevant
+
+## Source Credit
+
+*(Added [Pub. L. 115–435, title III, § 302(a)](https://www.govinfo.gov/link/plaw/115/public/435), Jan. 14, 2019, [132 Stat. 5546](https://www.govinfo.gov/link/statute/132/5546).)*

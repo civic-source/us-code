@@ -3,9 +3,10 @@ title: "Section 4303 - Office of Native American Business Development"
 usc_title: 25
 usc_section: "4303"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 4303"
-generated_at: "2026-03-30T02:54:52.863Z"
+generated_at: "2026-11-23T20:26:25.703Z"
+status: "active"
 ---
 
 # § 4303. Office of Native American Business Development
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:54:52.863Z"
     - **(A)** meaningful and timely coordination and assistance, as required by this chapter; and
     - **(B)** consultation with Indian Tribes regarding the policies, programs, assistance, and activities of the offices and agencies.
   - **(3)** There are authorized to be appropriated to carry out this section not more than $2,000,000 for each fiscal year.
+
+## Source Credit
+
+*([Pub. L. 106–464, § 4](https://www.govinfo.gov/link/plaw/106/public/464), Nov. 7, 2000, [114 Stat. 2015](https://www.govinfo.gov/link/statute/114/2015); [Pub. L. 116–261, § 3(c)](https://www.govinfo.gov/link/plaw/116/public/261), (e)(2), Dec. 30, 2020, [134 Stat. 3308](https://www.govinfo.gov/link/statute/134/3308), 3311.)*

@@ -3,9 +3,10 @@ title: "Section 1442 - Federal administration"
 usc_title: 20
 usc_section: "1442"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1442"
-generated_at: "2026-03-30T02:54:48.166Z"
+generated_at: "2026-11-23T20:26:14.656Z"
+status: "active"
 ---
 
 # § 1442. Federal administration
@@ -15,3 +16,7 @@ Sections 1416, 1417, and 1418 of this title shall, to the extent not inconsisten
   - **(1)** any reference in such sections to a State educational agency shall be considered to be a reference to a State’s lead agency established or designated under section 1435(a)(10) of this title ;
   - **(2)** any reference in such sections to a local educational agency, educational service agency, or a State agency shall be considered to be a reference to an early intervention service provider under this subchapter; and
   - **(3)** any reference to the education of children with disabilities or the education of all children with disabilities shall be considered to be a reference to the provision of appropriate early intervention services to infants and toddlers with disabilities.
+
+## Source Credit
+
+*([Pub. L. 91–230, title VI, § 642](https://www.govinfo.gov/link/plaw/91/public/230), as added [Pub. L. 108–446, title I, § 101](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2760](https://www.govinfo.gov/link/statute/118/2760).)*

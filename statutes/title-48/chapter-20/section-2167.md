@@ -3,9 +3,10 @@ title: "Section 2167 - Venue"
 usc_title: 48
 usc_section: "2167"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 2167"
-generated_at: "2026-03-30T02:56:14.604Z"
+generated_at: "2026-11-23T20:27:28.203Z"
+status: "active"
 ---
 
 # § 2167. Venue
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:14.604Z"
   - **(2)** With respect to paragraph (1), the Oversight Board may consider, among other things—
     - **(A)** the resources of the district court to adjudicate a case or proceeding; and
     - **(B)** the impact on witnesses who may be called in such a case or proceeding.
+
+## Source Credit
+
+*([Pub. L. 114–187, title III, § 307](https://www.govinfo.gov/link/plaw/114/public/187), June 30, 2016, [130 Stat. 582](https://www.govinfo.gov/link/statute/130/582).)*

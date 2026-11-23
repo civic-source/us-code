@@ -3,9 +3,10 @@ title: "Section 58 - Mojave National Preserve Advisory Commission"
 usc_title: 16
 usc_section: "58"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 58"
-generated_at: "2026-03-30T02:54:22.774Z"
+generated_at: "2026-11-23T20:26:19.507Z"
+status: "active"
 ---
 
 # § 410aaa–58. Mojave National Preserve Advisory Commission
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:22.774Z"
   - **(2)** Vacancies in the advisory commission shall be filled by the Secretary so as to maintain the full diversity of views required to be represented on the advisory commission.
 - **(c)** Chapter 10 of title 5 shall apply to the procedures and activities of the advisory commission.
 - **(d)** The advisory commission shall cease to exist ten years after the date of its establishment.
+
+## Source Credit
+
+*([Pub. L. 103–433, title V, § 518](https://www.govinfo.gov/link/plaw/103/public/433), Oct. 31, 1994, [108 Stat. 4495](https://www.govinfo.gov/link/statute/108/4495); [Pub. L. 117–286, § 4(a)(86)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4315](https://www.govinfo.gov/link/statute/136/4315).)*

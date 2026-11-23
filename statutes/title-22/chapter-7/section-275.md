@@ -3,12 +3,17 @@ title: "Section 275 - International Hydrographic Bureau"
 usc_title: 22
 usc_section: "275"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 275"
-generated_at: "2026-03-30T02:55:05.310Z"
+generated_at: "2026-11-23T20:26:31.946Z"
+status: "active"
 ---
 
 # § 275. International Hydrographic Bureau
 
 To enable the United States to become a member of the International Hydrographic Bureau, and for the first annual contribution of the United States toward the creation and maintenance of such bureau, there is hereby appropriated out of money in the Treasury not otherwise appropriated $2,500, or so much thereof as may be necessary, to be paid by the Secretary of State when the exact quota shall have been ascertained.
 
+
+## Source Credit
+
+*(Mar. 2, 1921, ch. 113, [41 Stat. 1215](https://www.govinfo.gov/link/statute/41/1215).)*

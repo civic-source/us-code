@@ -3,9 +3,10 @@ title: "Section 13366 - National clearinghouse"
 usc_title: 42
 usc_section: "13366"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13366"
-generated_at: "2026-03-30T02:56:11.442Z"
+generated_at: "2026-11-23T20:27:23.484Z"
+status: "active"
 ---
 
 # § 13366. National clearinghouse
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.442Z"
     - **(H)** establishing and maintaining an index or compilation of research projects relating to clean coal technology carried out throughout the world; and
     - **(I)** conducting economic modeling for feasibility of projects.
 - **(b)** Based upon the assessment under subsection (a), the Secretary may establish a clearinghouse.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XIII, § 1337](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2985](https://www.govinfo.gov/link/statute/106/2985).)*

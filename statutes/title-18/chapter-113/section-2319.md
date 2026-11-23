@@ -3,9 +3,10 @@ title: "Section 2319 - Criminal infringement of a copyright"
 usc_title: 18
 usc_section: "2319"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2319"
-generated_at: "2026-03-30T02:54:16.501Z"
+generated_at: "2026-11-23T20:26:08.593Z"
+status: "active"
 ---
 
 # § 2319. Criminal infringement of a copyright
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:16.501Z"
   - **(2)** the terms “reproduction” and “distribution” refer to the exclusive rights of a copyright owner under clauses (1) and (3) respectively of section 106 (relating to exclusive rights in copyrighted works), as limited by sections 107 through 122, of title 17;
   - **(3)** the term “financial gain” has the meaning given the term in section 101 of title 17 ; and
   - **(4)** the term “work being prepared for commercial distribution” has the meaning given the term in section 506(a) of title 17 .
+
+## Source Credit
+
+*(Added [Pub. L. 97–180, § 3](https://www.govinfo.gov/link/plaw/97/public/180), May 24, 1982, [96 Stat. 92](https://www.govinfo.gov/link/statute/96/92); amended [Pub. L. 102–561](https://www.govinfo.gov/link/plaw/102/public/561), Oct. 28, 1992, [106 Stat. 4233](https://www.govinfo.gov/link/statute/106/4233); [Pub. L. 105–80, § 12(b)(2)](https://www.govinfo.gov/link/plaw/105/public/80), Nov. 13, 1997, [111 Stat. 1536](https://www.govinfo.gov/link/statute/111/1536); [Pub. L. 105–147, § 2(d)](https://www.govinfo.gov/link/plaw/105/public/147), Dec. 16, 1997, [111 Stat. 2678](https://www.govinfo.gov/link/statute/111/2678); [Pub. L. 107–273, div. C, title III, § 13211(a)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1910](https://www.govinfo.gov/link/statute/116/1910); [Pub. L. 109–9, title I, § 103(b)](https://www.govinfo.gov/link/plaw/109/public/9), Apr. 27, 2005, [119 Stat. 220](https://www.govinfo.gov/link/statute/119/220); [Pub. L. 110–403, title II, § 208](https://www.govinfo.gov/link/plaw/110/public/403), Oct. 13, 2008, [122 Stat. 4263](https://www.govinfo.gov/link/statute/122/4263).)*

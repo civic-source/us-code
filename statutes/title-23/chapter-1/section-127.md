@@ -3,9 +3,10 @@ title: "Section 127 - Vehicle weight limitations—Interstate System"
 usc_title: 23
 usc_section: "127"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 127"
-generated_at: "2026-03-30T02:55:12.550Z"
+generated_at: "2026-11-23T20:26:23.764Z"
+status: "active"
 ---
 
 # § 127. Vehicle weight limitations—Interstate System
@@ -130,3 +131,189 @@ generated_at: "2026-03-30T02:55:12.550Z"
 - **(y)**
   - **(1)** The State of West Virginia may allow, by special permit, the operation of a vehicle that is transporting materials and equipment on the Interstate System in the State of West Virginia if such vehicle does not exceed 110 percent of the maximum weight on any axle or axle group described in subsection (a)(2), including any enforcement tolerance, provided the remaining gross vehicle weight requirements of subsection (a) are met.
   - **(2)** In this subsection, the term “materials and equipment” means materials and equipment that are used on a project eligible under this chapter.
+
+In General
+
+A
+
+B
+
+Heavy duty vehicles.—
+
+In general
+
+Maximum weight increase
+
+Proof
+
+Milk products
+
+Reasonable Access
+
+Ocean Transport Container Defined
+
+Longer Combination Vehicles.—
+
+Prohibition.—
+
+General continuation rule
+
+Applicability of state laws and regulations
+
+Wyoming
+
+Ohio
+
+Alaska
+
+Iowa
+
+Additional state restrictions.—
+
+In general
+
+Minor adjustments
+
+Publication of list.—
+
+Submission to secretary
+
+Interim list
+
+Limitation
+
+Final list
+
+Review and correction procedure
+
+Longer combination vehicle defined
+
+Regulations regarding minor adjustments
+
+Operation of Certain Specialized Hauling Vehicles on Interstate Route
+
+Operation of Certain Specialized Hauling Vehicles on Certain Wisconsin Highways
+
+Operation of Certain Specialized Hauling Vehicles on Certain Pennsylvania Highways
+
+Waiver for a Route in State of Maine During Periods of National Emergency.—
+
+In general
+
+Applicability
+
+Special Permits During Periods of National Emergency.—
+
+In general
+
+Expiration
+
+Operation of Vehicles on Certain Other Wisconsin Highways
+
+Operation of Vehicles on Certain Mississippi Highways
+
+Operation of Vehicles on Certain Kentucky Highways.—
+
+In general
+
+Description of highway segments
+
+Additional highway segments.—
+
+In general
+
+Nondivisible load or vehicle
+
+Covered Heavy-duty Tow and Recovery Vehicles.—
+
+In general
+
+Covered heavy-duty tow and recovery vehicle defined
+
+Operation of Vehicles on Certain Highways in the State of Texas
+
+Certain Logging Vehicles in the State of Wisconsin.—
+
+In general
+
+Covered logging vehicle defined
+
+Operation of Certain Specialized Vehicles on Certain Highways in the State of Arkansas
+
+Certain Logging Vehicles in the State of Minnesota.—
+
+In general
+
+Covered logging vehicle defined
+
+Emergency Vehicles.—
+
+In general
+
+Emergency vehicle defined
+
+Natural Gas and Electric Battery Vehicles
+
+Vehicles in Idaho
+
+Vehicles in North Dakota
+
+Operation of Vehicles on Certain North Carolina Highways
+
+Operation of Vehicles on Certain Oklahoma Highways
+
+Certain agricultural vehicles in the state of mississippi.—
+
+In general
+
+Covered agricultural vehicle defined
+
+Operation of Certain Vehicles in West Virginia.—
+
+In general
+
+Definition
+
+Study
+
+Report
+
+Study
+
+Purpose
+
+Report
+
+In general
+
+Factors to consider and evaluate
+
+Consultation
+
+Report
+
+Recommendations
+
+Funding
+
+Applicability of title 23
+
+Exemption
+
+State action.—
+
+Weight limitations
+
+Covered state defined
+
+Temporary exemption
+
+Study
+
+Purposes
+
+Report
+
+## Source Credit
+
+*([Pub. L. 85–767](https://www.govinfo.gov/link/plaw/85/public/767), Aug. 27, 1958, [72 Stat. 902](https://www.govinfo.gov/link/statute/72/902); [Pub. L. 86–624, § 17(e)](https://www.govinfo.gov/link/plaw/86/public/624), July 12, 1960, [74 Stat. 416](https://www.govinfo.gov/link/statute/74/416); [Pub. L. 93–643, § 106](https://www.govinfo.gov/link/plaw/93/public/643), Jan. 4, 1975, [88 Stat. 2283](https://www.govinfo.gov/link/statute/88/2283); [Pub. L. 94–280, title I, § 120](https://www.govinfo.gov/link/plaw/94/public/280), May 5, 1976, [90 Stat. 438](https://www.govinfo.gov/link/statute/90/438); [Pub. L. 97–424, title I, § 133](https://www.govinfo.gov/link/plaw/97/public/424), formerly § 133(a), Jan. 6, 1983, [96 Stat. 2123](https://www.govinfo.gov/link/statute/96/2123), renumbered § 133, [Pub. L. 100–17, title I, § 133(a)(3)](https://www.govinfo.gov/link/plaw/100/public/17), Apr. 2, 1987, [101 Stat. 170](https://www.govinfo.gov/link/statute/101/170); [Pub. L. 100–17, title I, § 119](https://www.govinfo.gov/link/plaw/100/public/17), Apr. 2, 1987, [101 Stat. 157](https://www.govinfo.gov/link/statute/101/157); [Pub. L. 100–202, § 101](https://www.govinfo.gov/link/plaw/100/public/202) (l) [title III, § 347(c)], Dec. 22, 1987, [101 Stat. 1329–358](https://www.govinfo.gov/link/statute/101/1329), 1329–388; [Pub. L. 101–427](https://www.govinfo.gov/link/plaw/101/public/427), Oct. 15, 1990, [104 Stat. 927](https://www.govinfo.gov/link/statute/104/927); [Pub. L. 102–240, title I, § 1023(a)](https://www.govinfo.gov/link/plaw/102/public/240), (b), (d), Dec. 18, 1991, [105 Stat. 1951](https://www.govinfo.gov/link/statute/105/1951), 1952, 1954; [Pub. L. 103–331, title III, § 332](https://www.govinfo.gov/link/plaw/103/public/331), Sept. 30, 1994, [108 Stat. 2493](https://www.govinfo.gov/link/statute/108/2493); [Pub. L. 103–429, § 3(3)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4377](https://www.govinfo.gov/link/statute/108/4377); [Pub. L. 104–59, title III, § 312(a)(1)](https://www.govinfo.gov/link/plaw/104/public/59), (2), (b), Nov. 28, 1995, [109 Stat. 584](https://www.govinfo.gov/link/statute/109/584); [Pub. L. 104–88, title IV](https://www.govinfo.gov/link/plaw/104/public/88), §§ 404, 405(a)(1), Dec. 29, 1995, [109 Stat. 956](https://www.govinfo.gov/link/statute/109/956); [Pub. L. 105–178, title I](https://www.govinfo.gov/link/plaw/105/public/178), §§ 1106(c)(2)(B), 1212(d)(1), June 9, 1998, [112 Stat. 136](https://www.govinfo.gov/link/statute/112/136), 194; [Pub. L. 107–107, div. A, title X, § 1064](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1233](https://www.govinfo.gov/link/statute/115/1233); [Pub. L. 108–447, div. J, title I, § 121](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3347](https://www.govinfo.gov/link/statute/118/3347); [Pub. L. 109–58, title VII, § 756(c)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 832](https://www.govinfo.gov/link/statute/119/832); [Pub. L. 109–59, title I, § 1111(b)(3)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1171](https://www.govinfo.gov/link/statute/119/1171); [Pub. L. 111–117, div. A, title I, § 194(a)](https://www.govinfo.gov/link/plaw/111/public/117), (c), (d), (f), Dec. 16, 2009, [123 Stat. 3072](https://www.govinfo.gov/link/statute/123/3072), 3073; [Pub. L. 112–55, div. C, title I, § 125](https://www.govinfo.gov/link/plaw/112/public/55), Nov. 18, 2011, [125 Stat. 655](https://www.govinfo.gov/link/statute/125/655); [Pub. L. 112–141, div. A, title I](https://www.govinfo.gov/link/plaw/112/public/141), §§ 1404(a), 1510, 1511, July 6, 2012, [126 Stat. 557](https://www.govinfo.gov/link/statute/126/557), 567; [Pub. L. 113–235, div. K, title I, § 125](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2709](https://www.govinfo.gov/link/statute/128/2709); [Pub. L. 114–94, div. A, title I](https://www.govinfo.gov/link/plaw/114/public/94), §§ 1409, 1410, 1446(a)(3), Dec. 4, 2015, [129 Stat. 1411](https://www.govinfo.gov/link/statute/129/1411), 1437; [Pub. L. 114–113, div. L, title I, § 124](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2847](https://www.govinfo.gov/link/statute/129/2847); [Pub. L. 115–141, div. L, title I](https://www.govinfo.gov/link/plaw/115/public/141), §§ 127, 129A, Mar. 23, 2018, [132 Stat. 988](https://www.govinfo.gov/link/statute/132/988); [Pub. L. 116–6, div. G, title IV](https://www.govinfo.gov/link/plaw/116/public/6), §§ 421, 422, Feb. 15, 2019, [133 Stat. 474](https://www.govinfo.gov/link/statute/133/474); [Pub. L. 116–94, div. H, title IV, § 425(a)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3018](https://www.govinfo.gov/link/statute/133/3018); [Pub. L. 117–58, div. A, title I, § 11515](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 599](https://www.govinfo.gov/link/statute/135/599); [Pub. L. 118–42, div. F, title IV, § 425](https://www.govinfo.gov/link/plaw/118/public/42), Mar. 9, 2024, [138 Stat. 395](https://www.govinfo.gov/link/statute/138/395).)*

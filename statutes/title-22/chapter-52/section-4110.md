@@ -3,9 +3,10 @@ title: "Section 4110 - Foreign Service Impasse Disputes Panel"
 usc_title: 22
 usc_section: "4110"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4110"
-generated_at: "2026-03-30T02:55:05.407Z"
+generated_at: "2026-11-23T20:26:32.519Z"
+status: "active"
 ---
 
 # § 4110. Foreign Service Impasse Disputes Panel
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:05.407Z"
     - **(B)** administer oaths, take the testimony or deposition of any individual under oath, and issue subpenas as provided in section 7132 of title 5 ; and
     - **(C)** take whatever action is necessary and not inconsistent with this subchapter to resolve the impasse.
   - **(3)** Notice of any final action of the Panel under this section shall be promptly served upon the parties, and the action shall be binding on such parties during the term of the collective bargaining agreement unless the parties agree otherwise.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 1010](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2133](https://www.govinfo.gov/link/statute/94/2133).)*

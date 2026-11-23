@@ -3,9 +3,10 @@ title: "Section 2431c - Eligibility for benefits"
 usc_title: 22
 usc_section: "2431c"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2431c"
-generated_at: "2026-03-30T02:55:05.367Z"
+generated_at: "2026-11-23T20:26:32.299Z"
+status: "active"
 ---
 
 # § 2431c. Eligibility for benefits
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:05.367Z"
 - **(b)**
   - **(1)** Consistent with subsection (a), the President shall determine whether a country is eligible to receive benefits under this subchapter.
   - **(2)** The President shall notify the appropriate congressional committees of his intention to designate a country as an eligible country at least 15 days in advance of any formal determination.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. V, § 805, as added [Pub. L. 105–214, § 1](https://www.govinfo.gov/link/plaw/105/public/214), July 29, 1998, [112 Stat. 887](https://www.govinfo.gov/link/statute/112/887); amended [Pub. L. 107–26, § 1](https://www.govinfo.gov/link/plaw/107/public/26), Aug. 17, 2001, [115 Stat. 206](https://www.govinfo.gov/link/statute/115/206); [Pub. L. 115–440, § 5](https://www.govinfo.gov/link/plaw/115/public/440), Jan. 14, 2019, [132 Stat. 5582](https://www.govinfo.gov/link/statute/132/5582).)*

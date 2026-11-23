@@ -3,9 +3,10 @@ title: "Section 1137a - Local law enforcement security training"
 usc_title: 6
 usc_section: "1137a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 1137a"
-generated_at: "2026-03-30T02:53:09.504Z"
+generated_at: "2026-11-23T20:25:34.916Z"
+status: "active"
 ---
 
 # § 1137a. Local law enforcement security training
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:53:09.504Z"
   - **(4)** The term “terrorism” means the terms—
     - **(A)** domestic terrorism (as such term is defined in section 2331(5) of title 18 ); and
     - **(B)** international terrorism (as such term is defined in section 2331(1) of title 18 ).
+
+## Source Credit
+
+*([Pub. L. 117–81, div. F, title LXIV, § 6419](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2417](https://www.govinfo.gov/link/statute/135/2417).)*

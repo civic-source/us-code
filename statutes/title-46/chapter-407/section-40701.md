@@ -3,9 +3,10 @@ title: "Section 40701 - Rates"
 usc_title: 46
 usc_section: "40701"
 chapter: 407
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 40701"
-generated_at: "2026-03-30T02:56:15.564Z"
+generated_at: "2026-11-23T20:27:27.230Z"
+status: "active"
 ---
 
 # § 40701. Rates
@@ -16,3 +17,42 @@ generated_at: "2026-03-30T02:56:15.564Z"
 - **(b)** The Federal Maritime Commission, at any time after notice and opportunity for a hearing, may prohibit the publication or use of a rate, charge, classification, rule, or regulation that a controlled carrier has failed to demonstrate is just and reasonable.
 - **(c)** In a proceeding under this section, the burden of proof is on the controlled carrier to demonstrate that its rate, charge, classification, rule, or regulation is just and reasonable.
 - **(d)** A rate, charge, classification, rule, or regulation that has been suspended or prohibited by the Commission is void and its use is unlawful.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 40701 | 46 App.:1708(a). | Pub. L. 98–237, § 9(a) , Mar. 20, 1984 , 98 Stat. 76 ; Pub. L. 102–100, § 5(a) , Aug. 17, 1991 , 105 Stat. 492 ; Pub. L. 105–258, title I, § 108(1) –(4), Oct. 14, 1998 , 112 Stat. 1908 . |
+
+
+In General
+
+Commission Prohibition
+
+Burden of Proof
+
+Voidness
+
+Historical and Revision Notes
+
+40701
+
+Pub. L. 98–237, § 9(a)
+
+Mar. 20, 1984
+
+98 Stat. 76
+
+Pub. L. 102–100, § 5(a)
+
+Aug. 17, 1991
+
+105 Stat. 492
+
+Pub. L. 105–258, title I, § 108(1)
+
+Oct. 14, 1998
+
+112 Stat. 1908
+
+## Source Credit
+
+*([Pub. L. 109–304, § 7](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1535](https://www.govinfo.gov/link/statute/120/1535).)*

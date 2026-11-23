@@ -3,9 +3,10 @@ title: "Section 5907 - Demonstration projects"
 usc_title: 42
 usc_section: "5907"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5907"
-generated_at: "2026-03-30T02:56:11.240Z"
+generated_at: "2026-11-23T20:27:22.570Z"
+status: "active"
 ---
 
 # § 5907. Demonstration projects
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:56:11.240Z"
   - **(3)** The Secretary shall from time to time review and, as appropriate, modify and repromulgate regulations issued pursuant to this section.
 - **(e)** If the estimate of the Federal investment with respect to construction costs of any demonstration project proposed to be established under this section exceeds $50,000,000, no amount may be appropriated for such project except as specifically authorized by legislation hereafter enacted by the Congress.
 - **(f)** If the total estimated amount of the Federal contribution to the construction cost of a demonstration project does not exceed $50,000,000, the Secretary is authorized to proceed with the negotiation of agreements and implementation of the proposal subject to the availability of funds under the authorization of appropriations pursuant to section 5915 of this title : Provided , That if such Federal contribution to the construction cost is estimated to exceed $25,000,000 the Secretary shall provide a full and comprehensive report on the proposed demonstration project to the appropriate committees of the Congress and no funds may be expended for any agreement under the authority granted by this section prior to the expiration of sixty calendar days (not including any day on which either House of Congress is not in session because of an adjournment of more than three calendar days to a day certain) from the date on which the Secretary’s report on the proposed project is received by the Congress. Such reports shall contain an analysis of the extent to which the proposed demonstration satisfies the criteria specified in subsection (b) of this section.
+
+## Source Credit
+
+*([Pub. L. 93–577, § 8](https://www.govinfo.gov/link/plaw/93/public/577), Dec. 31, 1974, [88 Stat. 1886](https://www.govinfo.gov/link/statute/88/1886); [Pub. L. 109–58, title X, § 1009(b)(6)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 935](https://www.govinfo.gov/link/statute/119/935).)*

@@ -3,9 +3,10 @@ title: "Section 144 - National bridge and tunnel inventory and inspection standa
 usc_title: 23
 usc_section: "144"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 144"
-generated_at: "2026-03-30T02:55:12.558Z"
+generated_at: "2026-11-23T20:26:23.799Z"
+status: "active"
 ---
 
 # § 144. National bridge and tunnel inventory and inspection standards
@@ -125,3 +126,127 @@ generated_at: "2026-03-30T02:55:12.558Z"
   - **(2)** a State may use amounts apportioned to the State under section 104(b)(1) and 104(b)(2);
   - **(3)** an Indian tribe may use funds made available to the Indian tribe under section 202; and
   - **(4)** a Federal agency may use funds made available to the agency under section 503.
+
+Findings and Declarations.—
+
+Findings
+
+Declarations
+
+National Bridge and Tunnel Inventories
+
+General Bridge Authority.—
+
+In general
+
+Exception
+
+Inventory Updates and Reports.—
+
+In general
+
+Inspection report
+
+Guidance
+
+Bridges not on national highway system
+
+Bridges Without Taxing Powers.—
+
+In general
+
+Insufficient assets
+
+Crediting of non-federal funds
+
+Replacement of Destroyed Bridges and Ferry Boat Service.—
+
+In general
+
+Federal share
+
+Historic Bridges.—
+
+Definition of historic bridge
+
+Coordination
+
+State inventory
+
+Eligibility.—
+
+In general
+
+Bridges not used for vehicle traffic
+
+Preservation
+
+Costs incurred.—
+
+In general
+
+Additional funding
+
+National Bridge and Tunnel Inspection Standards.—
+
+Requirement.—
+
+In general
+
+Uniformity
+
+Minimum requirements of inspection standards
+
+State compliance with inspection standards
+
+Reviews of state compliance.—
+
+In general
+
+Noncompliance
+
+Penalty for noncompliance.—
+
+In general
+
+Amount
+
+Update of standards
+
+Risk-based approach
+
+Training Program for Bridge and Tunnel Inspectors.—
+
+In general
+
+Revisions
+
+Requirement
+
+Bundling of Bridge Projects.—
+
+Purpose
+
+Eligible entity defined
+
+Bundling of bridge projects
+
+Itemization
+
+Financial characteristics
+
+Availability of Funds
+
+Bridge Set-asides
+
+Set Asides
+
+In General
+
+Recipient Responsibilities
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 91–605, title II, § 204(a)](https://www.govinfo.gov/link/plaw/91/public/605), Dec. 31, 1970, [84 Stat. 1741](https://www.govinfo.gov/link/statute/84/1741); amended [Pub. L. 93–87, title II, § 204](https://www.govinfo.gov/link/plaw/93/public/87), Aug. 13, 1973, [87 Stat. 284](https://www.govinfo.gov/link/statute/87/284); [Pub. L. 93–643, § 113](https://www.govinfo.gov/link/plaw/93/public/643), Jan. 4, 1975, [88 Stat. 2286](https://www.govinfo.gov/link/statute/88/2286); [Pub. L. 95–599, title I, § 124(a)](https://www.govinfo.gov/link/plaw/95/public/599), Nov. 6, 1978, [92 Stat. 2702](https://www.govinfo.gov/link/statute/92/2702); [Pub. L. 96–106](https://www.govinfo.gov/link/plaw/96/public/106), §§ 7, 8(a), Nov. 9, 1979, [93 Stat. 797](https://www.govinfo.gov/link/statute/93/797); [Pub. L. 97–327, § 5(c)](https://www.govinfo.gov/link/plaw/97/public/327), Oct. 15, 1982, [96 Stat. 1612](https://www.govinfo.gov/link/statute/96/1612); [Pub. L. 97–424, title I](https://www.govinfo.gov/link/plaw/97/public/424), §§ 121(a), 122(a), Jan. 6, 1983, [96 Stat. 2111](https://www.govinfo.gov/link/statute/96/2111), 2112; [Pub. L. 100–17, title I](https://www.govinfo.gov/link/plaw/100/public/17), §§ 123(a)–(d)(1), (3), (e), (f)(2), 128, 133(b)(11), Apr. 2, 1987, [101 Stat. 161–163](https://www.govinfo.gov/link/statute/101/161), 167, 172; [Pub. L. 102–240, title I, § 1028(a)](https://www.govinfo.gov/link/plaw/102/public/240) –(f), Dec. 18, 1991, [105 Stat. 1967](https://www.govinfo.gov/link/statute/105/1967), 1968; [Pub. L. 103–220, § 1](https://www.govinfo.gov/link/plaw/103/public/220), Mar. 17, 1994, [108 Stat. 100](https://www.govinfo.gov/link/statute/108/100); [Pub. L. 104–59, title III](https://www.govinfo.gov/link/plaw/104/public/59), §§ 318, 325(b), Nov. 28, 1995, [109 Stat. 588](https://www.govinfo.gov/link/statute/109/588), 592; [Pub. L. 105–178, title I](https://www.govinfo.gov/link/plaw/105/public/178), §§ 1109, 1115(f)(3); June 9, 1998, [112 Stat. 141](https://www.govinfo.gov/link/statute/112/141); [Pub. L. 105–206, title IX, § 9002(i)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 836](https://www.govinfo.gov/link/statute/112/836); [Pub. L. 108–88, § 2(b)(5)](https://www.govinfo.gov/link/plaw/108/public/88), Sept. 30, 2003, [117 Stat. 1111](https://www.govinfo.gov/link/statute/117/1111); [Pub. L. 108–202, § 2(b)(3)](https://www.govinfo.gov/link/plaw/108/public/202), Feb. 29, 2004, [118 Stat. 478](https://www.govinfo.gov/link/statute/118/478); [Pub. L. 108–224, § 2(b)(2)](https://www.govinfo.gov/link/plaw/108/public/224), Apr. 30, 2004, [118 Stat. 627](https://www.govinfo.gov/link/statute/118/627); [Pub. L. 108–263, § 2(b)(2)](https://www.govinfo.gov/link/plaw/108/public/263), June 30, 2004, [118 Stat. 698](https://www.govinfo.gov/link/statute/118/698); [Pub. L. 108–280, § 2(b)(2)](https://www.govinfo.gov/link/plaw/108/public/280), July 30, 2004, [118 Stat. 876](https://www.govinfo.gov/link/statute/118/876); [Pub. L. 108–310, § 2(b)(5)](https://www.govinfo.gov/link/plaw/108/public/310), Sept. 30, 2004, [118 Stat. 1145](https://www.govinfo.gov/link/statute/118/1145); [Pub. L. 109–14, § 2(b)(3)](https://www.govinfo.gov/link/plaw/109/public/14), May 31, 2005, [119 Stat. 324](https://www.govinfo.gov/link/statute/119/324); [Pub. L. 109–20, § 2(b)(2)](https://www.govinfo.gov/link/plaw/109/public/20), July 1, 2005, [119 Stat. 346](https://www.govinfo.gov/link/statute/119/346); [Pub. L. 109–35, § 2(b)(2)](https://www.govinfo.gov/link/plaw/109/public/35), July 20, 2005, [119 Stat. 379](https://www.govinfo.gov/link/statute/119/379); [Pub. L. 109–37, § 2(b)(2)](https://www.govinfo.gov/link/plaw/109/public/37), July 22, 2005, [119 Stat. 394](https://www.govinfo.gov/link/statute/119/394); [Pub. L. 109–40, § 2(b)(2)](https://www.govinfo.gov/link/plaw/109/public/40), July 28, 2005, [119 Stat. 410](https://www.govinfo.gov/link/statute/119/410); [Pub. L. 109–59, title I, § 1114](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1172](https://www.govinfo.gov/link/statute/119/1172); [Pub. L. 110–244, title I, § 101(m)(1)](https://www.govinfo.gov/link/plaw/110/public/244), June 6, 2008, [122 Stat. 1575](https://www.govinfo.gov/link/statute/122/1575); [Pub. L. 112–141, div. A, title I, § 1111(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 445](https://www.govinfo.gov/link/statute/126/445); [Pub. L. 114–94, div. A, title I, § 1111](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1344](https://www.govinfo.gov/link/statute/129/1344); [Pub. L. 117–58, div. A, title I](https://www.govinfo.gov/link/plaw/117/public/58), §§ 11123(e), 11310(b), 11524(b), Nov. 15, 2021, [135 Stat. 506](https://www.govinfo.gov/link/statute/135/506), 536, 606.)*

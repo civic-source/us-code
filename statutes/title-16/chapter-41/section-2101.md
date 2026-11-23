@@ -3,9 +3,10 @@ title: "Section 2101 - Findings, purpose, and policy"
 usc_title: 16
 usc_section: "2101"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 2101"
-generated_at: "2026-03-30T02:54:22.996Z"
+generated_at: "2026-11-23T20:26:20.588Z"
+status: "active"
 ---
 
 # § 2101. Findings, purpose, and policy
@@ -46,3 +47,73 @@ generated_at: "2026-03-30T02:54:22.996Z"
 - **(d)** Not later than September 30, 2011 , the Secretary shall submit to Congress a report describing how funds were used under this chapter, and through other programs administered by the Secretary, to address the national priorities specified in subsection (c) and the outcomes achieved in meeting the national priorities.
 - **(e)** It is the policy of Congress that it is in the national interest for the Secretary to work through and in cooperation with State foresters, or equivalent State officials, nongovernmental organizations, and the private sector in implementing Federal programs affecting non-Federal forest lands.
 - **(f)** This chapter shall be construed to complement the policies and direction under the Forest and Rangeland Renewable Resources Planning Act of 1974 ( 16 U.S.C. 1600 et seq.).
+
+Purpose
+
+Authority
+
+Implementation
+
+Funding
+
+Use of Funds
+
+Interest
+
+Limitations on Uses of Funds.—
+
+In general
+
+Qualified organizations
+
+Compensation from Outside Sources
+
+Stock and Dividends
+
+Lobbying
+
+Salary; Travel and Expenses; Conflicts of Interest.—
+
+Personal benefit from funds
+
+Travel and expense reimbursement
+
+Conflicts of interest
+
+Records; Audits
+
+Audits.—
+
+Independent audits
+
+Agency audits
+
+Annual Reports.—
+
+In general
+
+Termination
+
+Prohibition on Commercial Harvest
+
+Authorization of Appropriations
+
+“That the Congress recognizes that for many years the United States and certain States have cooperated in the production of tree planting stock for use in the reforestation of the public and private lands of the Nation; that the program of production of tree planting stock which was initiated and pursued under the Soil Bank Act ( 7 U.S.C. 1801 et seq.) [repealed] was carried on under written agreements which provided for (a) cooperation between the Forest Service, on behalf of the United States, and the States which participated in the program, (b) payments to said States for costs and expenses incurred in the development of nursery facilities, (c) the holding of such funds by the States in trust for the purpose of carrying out the provisions of said agreements, and (d) restoration to the trust fund of an amount equal to the residual value of any supplies, materials, equipment, or improvements acquired or constructed with trust funds and transferred to State forestry work other than the soil bank program; that such program under said Soil Bank Act has been discontinued, but the need for the trees continues to be great; that the States and Federal Government are cooperating in the procurement, production, and distribution of forest-tree seeds and plants under section 4 of the Clarke-McNary Act of June 7, 1924 ( 16 U.S.C. 567 ), and in the reforestation of lands under title IV of the Agricultural Act of 1956 ( 16 U.S.C. 568e and 568g); and that said participating States need the said supplies, materials, equipment, or improvements for use in connection with their respective forestry programs, and it is in the public interest to permit these States to use said property without the requirement that payment be made for the residual value thereof.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 95–313, § 2](https://www.govinfo.gov/link/plaw/95/public/313), July 1, 1978, [92 Stat. 365](https://www.govinfo.gov/link/statute/92/365); [Pub. L. 101–513, title VI, § 611(b)(1)](https://www.govinfo.gov/link/plaw/101/public/513), (2), formerly § 607(b)(1), (2), Nov. 5, 1990, [104 Stat. 2072](https://www.govinfo.gov/link/statute/104/2072), renumbered § 611(b)(1), (2), [Pub. L. 102–574, § 2(a)(1)](https://www.govinfo.gov/link/plaw/102/public/574), Oct. 29, 1992, [106 Stat. 4593](https://www.govinfo.gov/link/statute/106/4593); [Pub. L. 101–624, title XII, § 1212](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3521](https://www.govinfo.gov/link/statute/104/3521); [Pub. L. 110–234, title VIII, § 8001](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1279](https://www.govinfo.gov/link/statute/122/1279); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VIII, § 8001, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2041.)*

@@ -3,9 +3,10 @@ title: "Section 482 - Readiness reports"
 usc_title: 10
 usc_section: "482"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 482"
-generated_at: "2026-03-30T02:53:38.060Z"
+generated_at: "2026-11-23T20:25:50.963Z"
+status: "active"
 ---
 
 # § 482. Readiness reports
@@ -39,3 +40,29 @@ generated_at: "2026-03-30T02:53:38.060Z"
   - **(3)** Each report required by this subsection shall include an assessment by each commander of a geographic or functional combatant command of the readiness of the command to conduct operations in a multidomain battle that integrates ground, sea, air, space, cyber, and special operations forces.
   - **(4)** The Chairman shall submit to the Secretary of Defense a copy of each report under this subsection.
 - **(e)** A report under this section shall be submitted in unclassified form. To the extent the Secretary of Defense determines necessary, the report may also be submitted in classified form.
+
+Reports and Briefings
+
+Required Elements
+
+Consideration of Readiness Assessments
+
+Semi-Annual Joint Force Readiness Review
+
+Classification of Reports
+
+and Related
+
+Support
+
+In General
+
+Waiver.—
+
+In general
+
+Reporting on waivers
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. A, title III, § 361(a)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 272](https://www.govinfo.gov/link/statute/110/272), § 452; renumbered § 482, [Pub. L. 104–201, div. A, title XI, § 1121(a)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2687](https://www.govinfo.gov/link/statute/110/2687); amended [Pub. L. 105–85, div. A, title III, § 322(a)(1)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1673](https://www.govinfo.gov/link/statute/111/1673); [Pub. L. 106–65, div. A, title III, § 361(d)(3)](https://www.govinfo.gov/link/plaw/106/public/65), (e), Oct. 5, 1999, [113 Stat. 575](https://www.govinfo.gov/link/statute/113/575); [Pub. L. 110–181, div. A, title III, § 351(b)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 70](https://www.govinfo.gov/link/statute/122/70); [Pub. L. 113–66, div. A, title III, § 331(a)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 737](https://www.govinfo.gov/link/statute/127/737); [Pub. L. 113–291, div. A, title III, § 321](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3342](https://www.govinfo.gov/link/statute/128/3342); [Pub. L. 114–328, div. A, title III, § 331](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2078](https://www.govinfo.gov/link/statute/130/2078); [Pub. L. 115–91, div. A, title III, § 331(a)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1353](https://www.govinfo.gov/link/statute/131/1353); [Pub. L. 115–232, div. A, title III, § 332](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1725](https://www.govinfo.gov/link/statute/132/1725); [Pub. L. 116–92, div. A, title III, § 361(b)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1325](https://www.govinfo.gov/link/statute/133/1325); [Pub. L. 117–81, div. A, title III, § 361](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1660](https://www.govinfo.gov/link/statute/135/1660); [Pub. L. 117–263, div. A, title III, § 353](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2534](https://www.govinfo.gov/link/statute/136/2534); [Pub. L. 118–31, div. A, title XVII, § 1722(a)(4)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 668](https://www.govinfo.gov/link/statute/137/668); [Pub. L. 118–159, div. A, title III, § 341](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1857](https://www.govinfo.gov/link/statute/138/1857); [Pub. L. 119–60, div. A, title III, § 331](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 816](https://www.govinfo.gov/link/statute/139/816).)*

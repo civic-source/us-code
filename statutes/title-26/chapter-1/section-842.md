@@ -3,9 +3,10 @@ title: "Section 842 - Foreign companies carrying on insurance business"
 usc_title: 26
 usc_section: "842"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 842"
-generated_at: "2026-03-30T02:55:27.732Z"
+generated_at: "2026-11-23T20:26:45.894Z"
+status: "active"
 ---
 
 # § 842. Foreign companies carrying on insurance business
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:55:27.732Z"
   - **(2)** providing for proper adjustments in succeeding taxable years where the company’s actual net investment income for any taxable year which is effectively connected with the conduct of an insurance business within the United States exceeds the amount required under subsection (b)(1),
   - **(3)** providing for the proper treatment of investments in domestic subsidiaries, and
   - **(4)** which may provide that, in the case of companies taxable under part II of this subchapter, determinations under subsection (b) will be made separately for categories of such companies established in such regulations.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 267; Mar. 13, 1956, ch. 83, § 5(5), [70 Stat. 49](https://www.govinfo.gov/link/statute/70/49); [Pub. L. 86–69, § 3(f)(1)](https://www.govinfo.gov/link/plaw/86/public/69), June 25, 1959, [73 Stat. 140](https://www.govinfo.gov/link/statute/73/140); [Pub. L. 89–809, title I, § 104(i)(1)](https://www.govinfo.gov/link/plaw/89/public/809), Nov. 13, 1966, [80 Stat. 1561](https://www.govinfo.gov/link/statute/80/1561); [Pub. L. 99–514, title X, § 1024(c)(11)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2408](https://www.govinfo.gov/link/statute/100/2408); [Pub. L. 100–203, title X, § 10242(a)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–420](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–647, title II, § 2004(q)(2)](https://www.govinfo.gov/link/plaw/100/public/647), (3), Nov. 10, 1988, [102 Stat. 3609](https://www.govinfo.gov/link/statute/102/3609); [Pub. L. 101–239, title VII, § 7821(d)(2)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2424](https://www.govinfo.gov/link/statute/103/2424); [Pub. L. 108–218, title II, § 205(b)(6)](https://www.govinfo.gov/link/plaw/108/public/218), Apr. 10, 2004, [118 Stat. 610](https://www.govinfo.gov/link/statute/118/610); [Pub. L. 115–97, title I, § 13512(b)(7)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2143](https://www.govinfo.gov/link/statute/131/2143).)*

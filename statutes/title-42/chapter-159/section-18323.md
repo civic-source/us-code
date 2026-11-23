@@ -3,9 +3,10 @@ title: "Section 18323 - Multi-purpose crew vehicle"
 usc_title: 42
 usc_section: "18323"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18323"
-generated_at: "2026-03-30T02:56:11.519Z"
+generated_at: "2026-11-23T20:27:23.795Z"
+status: "active"
 ---
 
 # § 18323. Multi-purpose crew vehicle
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.519Z"
   - **(2)** The capability to conduct regular in-space operations, such as rendezvous, docking, and extra-vehicular activities, in conjunction with payloads delivered by the Space Launch System developed pursuant to section 18322 of this title , or other vehicles, in preparation for missions beyond low-Earth orbit or servicing of assets described in section 18383 of this title , or other assets in cis-lunar space.
   - **(3)** The capability to provide an alternative means of delivery of crew and cargo to the ISS, in the event other vehicles, whether commercial vehicles or partner-supplied vehicles, are unable to perform that function.
   - **(4)** The capacity for efficient and timely evolution, including the incorporation of new technologies, competition of sub-elements, and commercial operations.
+
+## Source Credit
+
+*([Pub. L. 111–267, title III, § 303](https://www.govinfo.gov/link/plaw/111/public/267), Oct. 11, 2010, [124 Stat. 2815](https://www.govinfo.gov/link/statute/124/2815).)*

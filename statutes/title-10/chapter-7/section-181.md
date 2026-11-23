@@ -3,9 +3,10 @@ title: "Section 181 - Joint Requirements Oversight Council"
 usc_title: 10
 usc_section: "181"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 181"
-generated_at: "2026-03-30T02:53:38.044Z"
+generated_at: "2026-11-23T20:25:50.860Z"
+status: "active"
 ---
 
 # § 181. Joint Requirements Oversight Council
@@ -63,3 +64,41 @@ generated_at: "2026-03-30T02:53:38.044Z"
     - **(B)** may include limitations in capabilities, capacity, resources, or the ability to effectively and efficiently coordinate across the joint force, with another combatant command, or among joint military capabilities.
   - **(4)** The term “oversight information” means information and materials comprising analysis and justification that are prepared to support a recommendation that is made to, and approved by, the Secretary of Defense.
   - **(5)** The term “service chief” has the meaning given in section 3101 of this title .
+
+In General
+
+Mission
+
+Composition.—
+
+In general
+
+Selection of members
+
+Recommendations
+
+Advisors.—
+
+In general
+
+Input from combatant commands
+
+Input from service chiefs
+
+Input from vice chief of the national guard bureau
+
+Input from industry
+
+Responsibility for Capability Requirements
+
+Analytic and Engineering Support
+
+Availability of Oversight Information to Congressional Defense Committees
+
+Definitions
+
+“The Director of Cost Assessment and Program Evaluation shall take the lead in the development of study guidance for an analysis of alternatives for each joint military requirement for which the Chairman of the Joint Requirements Oversight Council is the validation authority. In developing the guidance, the Director shall solicit the advice of appropriate officials within the Department of Defense and ensure that the guidance requires, at a minimum—
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. A, title IX, § 905(a)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 403](https://www.govinfo.gov/link/statute/110/403); amended [Pub. L. 104–201, div. A, title IX, § 908](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2621](https://www.govinfo.gov/link/statute/110/2621); [Pub. L. 106–65, div. A, title X, § 1067(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 774](https://www.govinfo.gov/link/statute/113/774); [Pub. L. 108–136, div. A, title X, § 1043(b)(3)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1610](https://www.govinfo.gov/link/statute/117/1610); [Pub. L. 110–181, div. A, title IX, § 942(a)](https://www.govinfo.gov/link/plaw/110/public/181) –(d), Jan. 28, 2008, [122 Stat. 287](https://www.govinfo.gov/link/statute/122/287), 288; [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title VIII, § 813(d)(1), Oct. 14, 2008, [122 Stat. 4527](https://www.govinfo.gov/link/statute/122/4527); [Pub. L. 111–23, title I](https://www.govinfo.gov/link/plaw/111/public/23), §§ 101(d)(1), 105(a), title II, § 201(b), May 22, 2009, [123 Stat. 1709](https://www.govinfo.gov/link/statute/123/1709), 1717, 1719; [Pub. L. 111–383, div. A, title VIII, § 841](https://www.govinfo.gov/link/plaw/111/public/383), title X, § 1075(b)(8), Jan. 7, 2011, [124 Stat. 4281](https://www.govinfo.gov/link/statute/124/4281), 4369; [Pub. L. 112–239, div. A, title IX, § 951(b)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1891](https://www.govinfo.gov/link/statute/126/1891); [Pub. L. 114–92, div. A, title VIII, § 802(d)(1)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 879](https://www.govinfo.gov/link/statute/129/879); [Pub. L. 114–328, div. A, title IX, § 925(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2359](https://www.govinfo.gov/link/statute/130/2359); [Pub. L. 115–91, div. A, title X, § 1081(a)(15)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1595](https://www.govinfo.gov/link/statute/131/1595); [Pub. L. 115–232, div. A, title VIII, § 831(b)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1857](https://www.govinfo.gov/link/statute/132/1857); [Pub. L. 116–92, div. A, title IX, § 902(7)](https://www.govinfo.gov/link/plaw/116/public/92), title XVI, § 1621(e)(1)(A)(v), Dec. 20, 2019, [133 Stat. 1543](https://www.govinfo.gov/link/statute/133/1543), 1733; [Pub. L. 116–283, div. A, title IX](https://www.govinfo.gov/link/plaw/116/public/283), §§ 906, 924(b)(9), title XVIII, § 1850(m), Jan. 1, 2021, [134 Stat. 3799](https://www.govinfo.gov/link/statute/134/3799), 3822, 4271; [Pub. L. 117–81, div. A, title IX, § 903(a)](https://www.govinfo.gov/link/plaw/117/public/81), title XVII, § 1702(a)(2), Dec. 27, 2021, [135 Stat. 1869](https://www.govinfo.gov/link/statute/135/1869), 2155; [Pub. L. 118–159, div. A, title V, § 521(b)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1880](https://www.govinfo.gov/link/statute/138/1880); [Pub. L. 119–60, div. A, title XVIII, § 1811(a)](https://www.govinfo.gov/link/plaw/119/public/60) –(f), Dec. 18, 2025, [139 Stat. 1241–1243](https://www.govinfo.gov/link/statute/139/1241).)*

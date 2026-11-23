@@ -3,9 +3,10 @@ title: "Section 7112 - Payments to States and counties"
 usc_title: 16
 usc_section: "7112"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 7112"
-generated_at: "2026-03-30T02:54:23.072Z"
+generated_at: "2026-11-23T20:26:20.830Z"
+status: "active"
 ---
 
 # § 7112. Payments to States and counties
@@ -69,3 +70,7 @@ generated_at: "2026-03-30T02:54:23.072Z"
 - **(f)**
   - **(1)** None of the funds made available to an eligible county under this chapter may be used in lieu of, or to otherwise offset, a State funding source for a local school, facility, or educational purpose.
   - **(2)** Payments to States made under this chapter and 25-percent payments made to States and Territories under the Acts of May 23, 1908 , and March 1, 1911 ( 16 U.S.C. 500 ), shall continue to be made as direct payments and not as Federal financial assistance.
+
+## Source Credit
+
+*([Pub. L. 106–393, title I, § 102](https://www.govinfo.gov/link/plaw/106/public/393), as added [Pub. L. 110–343, div. C, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3896](https://www.govinfo.gov/link/statute/122/3896); amended [Pub. L. 112–141, div. F, title I, § 100101(a)(2)](https://www.govinfo.gov/link/plaw/112/public/141), (3), July 6, 2012, [126 Stat. 905](https://www.govinfo.gov/link/statute/126/905); [Pub. L. 113–40, § 10(a)(1)(B)](https://www.govinfo.gov/link/plaw/113/public/40), Oct. 2, 2013, [127 Stat. 545](https://www.govinfo.gov/link/statute/127/545); [Pub. L. 114–10, title V, § 524(b)](https://www.govinfo.gov/link/plaw/114/public/10), Apr. 16, 2015, [129 Stat. 179](https://www.govinfo.gov/link/statute/129/179); [Pub. L. 115–141, div. O, title IV, § 401(a)(3)(A)](https://www.govinfo.gov/link/plaw/115/public/141) –(D), Mar. 23, 2018, [132 Stat. 1077](https://www.govinfo.gov/link/statute/132/1077), 1078; [Pub. L. 116–94, div. I, title III, § 301(a)(2)(A)](https://www.govinfo.gov/link/plaw/116/public/94), (B), Dec. 20, 2019, [133 Stat. 3020](https://www.govinfo.gov/link/statute/133/3020); [Pub. L. 119–58, § 2(b)](https://www.govinfo.gov/link/plaw/119/public/58), Dec. 18, 2025, [139 Stat. 714](https://www.govinfo.gov/link/statute/139/714).)*

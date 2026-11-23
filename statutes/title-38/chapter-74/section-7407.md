@@ -3,9 +3,10 @@ title: "Section 7407 - Administrative provisions for section 7405 and 7406 appoi
 usc_title: 38
 usc_section: "7407"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7407"
-generated_at: "2026-03-30T02:55:53.530Z"
+generated_at: "2026-11-23T20:27:02.017Z"
+status: "active"
 ---
 
 # § 7407. Administrative provisions for section 7405 and 7406 appointments
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:53.530Z"
 - **(c)** The program of training prescribed by the Secretary in order to qualify a person for the position of full-time physician assistant or expanded-function dental auxiliary shall be considered a full-time institutional program for purposes of chapter 34 of this title. The Secretary may consider training for such a position to be on a less than full-time basis for purposes of such chapter when the combined classroom (and other formal instruction) portion of the program and the on-the-job training portion of the program total less than 30 hours per week.
 - **(d)** A person may not be appointed under section 7405 or 7406 of this title to an occupational category described in section 7401(1) of this title or in section 7406 of this title unless the person meets the requirements established in section 7402(d) of this title and regulations prescribed under that section.
 - **(e)** In accordance with the provisions of section 7425(b) of this title , the provisions of chapter 34 of title 5 pertaining to part-time career employment shall not apply to part-time appointments under sections 7405 and 7406 of this title.
+
+## Source Credit
+
+*(Added [Pub. L. 102–40, title IV, § 401(b)(2)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 228](https://www.govinfo.gov/link/statute/105/228); amended [Pub. L. 102–405, title III, § 302(c)(1)](https://www.govinfo.gov/link/plaw/102/public/405), Oct. 9, 1992, [106 Stat. 1984](https://www.govinfo.gov/link/statute/106/1984).)*

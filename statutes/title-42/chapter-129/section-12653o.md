@@ -3,9 +3,10 @@ title: "Section 12653o - National service programs clearinghouses"
 usc_title: 42
 usc_section: "12653o"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12653o"
-generated_at: "2026-03-30T02:56:11.426Z"
+generated_at: "2026-11-23T20:27:23.417Z"
+status: "active"
 ---
 
 # § 12653o. National service programs clearinghouses
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:11.426Z"
   - **(10)** assist organizations in recruiting, screening, and placing a diverse population of service-learning coordinators and program sponsors;
   - **(11)** disseminate effective strategies for working with disadvantaged youth in national service programs, as determined by organizations with an established expertise in working with such youth; and
   - **(12)** carry out such other activities as the Chief Executive Officer determines to be appropriate.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 198O](https://www.govinfo.gov/link/plaw/101/public/610), as added [Pub. L. 111–13, title I, § 1808](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1572](https://www.govinfo.gov/link/statute/123/1572).)*

@@ -3,9 +3,10 @@ title: "Section 7101 - Issuing and classifying licenses and certificates of regi
 usc_title: 46
 usc_section: "7101"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 7101"
-generated_at: "2026-03-30T02:56:15.549Z"
+generated_at: "2026-11-23T20:27:27.107Z"
+status: "active"
 ---
 
 # § 7101. Issuing and classifying licenses and certificates of registry
@@ -42,3 +43,26 @@ generated_at: "2026-03-30T02:56:15.549Z"
 - **(j)** The Secretary may issue a license under this section in a class under subsection (c) to an applicant that—
   - **(1)** has at least 3 months of qualifying service on vessels of the uniformed services (as that term is defined in section 101(a) of title 10 ) of appropriate tonnage or horsepower within the 7-year period immediately preceding the date of application; and
   - **(2)** satisfies all other requirements for such a license.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 7101 | 46:214 |
+|  | 46:224 |
+|  | 46:226 |
+|  | 46:228 |
+|  | 46:229 |
+|  | 46:229a |
+|  | 46:229b |
+|  | 46:242 |
+|  | 46:243 |
+|  | 46:244 |
+|  | 46:247 |
+
+
+Historical and Revision Notes
+
+7101
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 539](https://www.govinfo.gov/link/statute/97/539); [Pub. L. 98–557, § 29(a)](https://www.govinfo.gov/link/plaw/98/public/557), Oct. 30, 1984, [98 Stat. 2873](https://www.govinfo.gov/link/statute/98/2873); [Pub. L. 101–380, title IV, § 4101(a)](https://www.govinfo.gov/link/plaw/101/public/380), Aug. 18, 1990, [104 Stat. 509](https://www.govinfo.gov/link/statute/104/509); [Pub. L. 104–324, title VII, § 720](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3938](https://www.govinfo.gov/link/statute/110/3938); [Pub. L. 113–281, title III, § 305(a)](https://www.govinfo.gov/link/plaw/113/public/281), Dec. 18, 2014, [128 Stat. 3043](https://www.govinfo.gov/link/statute/128/3043).)*

@@ -3,9 +3,10 @@ title: "Section 676a - Omitted"
 usc_title: 25
 usc_section: "676a"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 676a"
-generated_at: "2026-03-30T02:54:52.811Z"
+generated_at: "2026-11-23T20:26:25.428Z"
+status: "omitted"
 ---
 
 # § 676a. Omitted

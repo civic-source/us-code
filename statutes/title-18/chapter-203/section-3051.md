@@ -3,9 +3,10 @@ title: "Section 3051 - Powers of Special Agents 1 1 So in original. The words �
 usc_title: 18
 usc_section: "3051"
 chapter: 203
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 3051"
-generated_at: "2026-03-30T02:54:16.510Z"
+generated_at: "2026-11-23T20:26:08.646Z"
+status: "active"
 ---
 
 # § 3051. Powers of Special Agents 1 1 So in original. The words “Special Agents” probably should not be capitalized. of Bureau of Alcohol, Tobacco, Firearms, and Explosives
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:16.510Z"
     - **(D)** the compromise of claims,
   - **(2)** For purposes of paragraph (1), duties that are imposed upon a customs officer or any other person with respect to the seizure and forfeiture of property under the customs laws of the United States shall be performed with respect to seizures and forfeitures of property under this section by such officers, agents, or any other person as may be authorized or designated for that purpose by the Attorney General.
   - **(3)** Notwithstanding any other provision of law, the disposition of firearms forfeited by reason of a violation of any law of the United States shall be governed by the provisions of section 5872(b) of the Internal Revenue Code of 1986.
+
+## Source Credit
+
+*(Added [Pub. L. 107–296, title XI, § 1113](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2279](https://www.govinfo.gov/link/statute/116/2279).)*

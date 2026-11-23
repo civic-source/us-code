@@ -3,9 +3,10 @@ title: "Section 225h - Buy American provisions"
 usc_title: 24
 usc_section: "225h"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "24 U.S.C. § 225h"
-generated_at: "2026-03-30T02:54:50.790Z"
+generated_at: "2026-11-23T20:26:22.693Z"
+status: "active"
 ---
 
 # § 225h. Buy American provisions
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:50.790Z"
 - **(d)** For purposes of this section, the term “Buy American Act” means title III of the Act entitled “An Act making appropriations for the Treasury and Post Office Departments for the fiscal year ending June 30, 1934 , and for other purposes”, approved March 3, 1933 ( 41 U.S.C. 10a et seq.) 2 2 See References in Text note below. .
 - **(e)** No contract or subcontract made with funds authorized under this subchapter 2 may be awarded for the procurement of an article, material, or supply produced or manufactured in a foreign country whose government unfairly maintains in government procurement a significant and persistent pattern or practice of discrimination against United States products or services which results in identifiable harm to United States businesses, as identified by the President pursuant to 3 3 So in original. Probably should be followed by “subsection”. (g)(1)(A) of section 305 of the Trade Agreements Act of 1979 ( 19 U.S.C. 2515(g)(1)(A) ). Any such determination shall be made in accordance with section 305.
 - **(f)** If it has been finally determined by a court or Federal agency that any person intentionally affixed a label bearing a “Made in America” inscription, or any inscription with the same meaning, to any product sold in or shipped to the United States that is not made in the United States, that person shall be ineligible to receive any contract or subcontract under this subchapter, pursuant to the debarment, suspension, and ineligibility procedures in subpart 9.4 of chapter 1 of title 48, Code of Federal Regulations.
+
+## Source Credit
+
+*([Pub. L. 98–621, § 11](https://www.govinfo.gov/link/plaw/98/public/621), as added [Pub. L. 102–150, § 4(2)](https://www.govinfo.gov/link/plaw/102/public/150), Oct. 31, 1991, [105 Stat. 981](https://www.govinfo.gov/link/statute/105/981).)*

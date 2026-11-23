@@ -3,9 +3,10 @@ title: "Section 3373b - Unidentified anomalous phenomena reporting procedures"
 usc_title: 50
 usc_section: "3373b"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3373b"
-generated_at: "2026-03-30T02:56:26.252Z"
+generated_at: "2026-11-23T20:27:31.001Z"
+status: "active"
 ---
 
 # § 3373b. Unidentified anomalous phenomena reporting procedures
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:56:26.252Z"
   - **(6)** The term “Office” means the All-domain Anomaly Resolution Office established pursuant to section 3373(a) of this title .
   - **(7)** The term “personnel action” has the meaning given such term in section 3234(a) of this title .
   - **(8)** The term “unidentified anomalous phenomena” has the meaning given such term in section 3373(n) of this title .
+
+## Source Credit
+
+*([Pub. L. 117–263, div. A, title XVI, § 1673](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2959](https://www.govinfo.gov/link/statute/136/2959).)*

@@ -3,9 +3,10 @@ title: "Section 12 - Public disclosure"
 usc_title: 7
 usc_section: "12"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 12"
-generated_at: "2026-03-30T02:53:42.245Z"
+generated_at: "2026-11-23T20:25:40.875Z"
+status: "active"
 ---
 
 # § 12. Public disclosure
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:42.245Z"
 - **(g)** The Commission shall provide any registration information maintained by the Commission on any registrant upon reasonable request made by any department or agency of any State or any political subdivision thereof. Whenever the Commission determines that such information may be appropriate for use by any department or agency of a State or political subdivision thereof, the Commission shall provide such information without request.
 - **(h)**
 - **(i)** The Comptroller General of the United States shall conduct reviews and audits of the Commission and make reports thereon. For the purpose of conducting such reviews and audits, the Comptroller General shall be furnished such information regarding the powers, duties, organizations, transactions, operations, and activities of the Commission as the Comptroller General may require and the Comptroller General and the duly authorized representatives of the Comptroller General shall, for the purpose of securing such information, have access to and the right to examine any books, documents, papers, or records of the Commission, except that in reports the Comptroller General shall not include data and information that would separately disclose the business transactions of any person and trade secrets or names of customers, although such data shall be provided upon request by any committee of either House of Congress acting within the scope of its jurisdiction.
+
+## Source Credit
+
+*(Sept. 21, 1922, ch. 369, § 8, [42 Stat. 1003](https://www.govinfo.gov/link/statute/42/1003); June 15, 1936, ch. 545, § 2, [49 Stat. 1491](https://www.govinfo.gov/link/statute/49/1491); [Pub. L. 90–258, § 19(a)](https://www.govinfo.gov/link/plaw/90/public/258), Feb. 19, 1968, [82 Stat. 32](https://www.govinfo.gov/link/statute/82/32); [Pub. L. 93–463, title I, § 103(a)](https://www.govinfo.gov/link/plaw/93/public/463), (e), Oct. 23, 1974, [88 Stat. 1392](https://www.govinfo.gov/link/statute/88/1392); [Pub. L. 95–405, § 16](https://www.govinfo.gov/link/plaw/95/public/405), Sept. 30, 1978, [92 Stat. 873](https://www.govinfo.gov/link/statute/92/873); [Pub. L. 97–444, title II, § 222](https://www.govinfo.gov/link/plaw/97/public/444), Jan. 11, 1983, [96 Stat. 2309](https://www.govinfo.gov/link/statute/96/2309); [Pub. L. 102–546, title II, § 205](https://www.govinfo.gov/link/plaw/102/public/546), title III, §§ 304, 305, title IV, § 402(7), Oct. 28, 1992, [106 Stat. 3600](https://www.govinfo.gov/link/statute/106/3600), 3623, 3624; [Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(18), title II, § 253(a)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–410, 2763A–449; [Pub. L. 110–234, title XIII, § 13105(g)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1434](https://www.govinfo.gov/link/statute/122/1434); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIII, § 13105(g), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2196; [Pub. L. 111–203, title VII, § 725(f)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1694](https://www.govinfo.gov/link/statute/124/1694).)*

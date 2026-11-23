@@ -3,9 +3,10 @@ title: "Section 701 - Definitions"
 usc_title: 6
 usc_section: "701"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 701"
-generated_at: "2026-03-30T02:53:09.498Z"
+generated_at: "2026-11-23T20:25:34.859Z"
+status: "active"
 ---
 
 # § 701. Definitions
@@ -30,3 +31,11 @@ In this title— 1 1 See References in Text note below.
   - **(14)** the term “Secretary” means the Secretary of Homeland Security;
   - **(15)** the term “surge capacity” means the ability to rapidly and substantially increase the provision of search and rescue capabilities, food, water, medicine, shelter and housing, medical care, evacuation capacity, staffing (including disaster assistance employees), and other resources necessary to save lives and protect property during a catastrophic incident; and
   - **(16)** the term “tribal government” means the government of an Indian tribe or authorized tribal organization, or in Alaska a Native village or Alaska Regional Native Corporation.
+
+In General
+
+Exceptions
+
+## Source Credit
+
+*([Pub. L. 109–295, title VI, § 602](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1394](https://www.govinfo.gov/link/statute/120/1394).)*

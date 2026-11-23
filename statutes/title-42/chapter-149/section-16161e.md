@@ -3,9 +3,10 @@ title: "Section 16161e - Laboratory management"
 usc_title: 42
 usc_section: "16161e"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16161e"
-generated_at: "2026-03-30T02:56:11.471Z"
+generated_at: "2026-11-23T20:27:23.621Z"
+status: "active"
 ---
 
 # § 16161e. Laboratory management
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.471Z"
     - **(D)** industrial researchers; and
     - **(E)** international researchers; and
   - **(2)** act as a clearinghouse to collect information from, and distribute information to, the National Laboratories and other entities described in subparagraphs (B) through (E) of paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 109–58, title VIII, § 817](https://www.govinfo.gov/link/plaw/109/public/58), as added [Pub. L. 117–58, div. D, title III, § 40314(2)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1014](https://www.govinfo.gov/link/statute/135/1014).)*

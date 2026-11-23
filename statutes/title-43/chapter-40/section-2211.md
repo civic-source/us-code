@@ -3,9 +3,10 @@ title: "Section 2211 - Assistance during drought; water purchases"
 usc_title: 43
 usc_section: "2211"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 2211"
-generated_at: "2026-03-30T02:55:57.495Z"
+generated_at: "2026-11-23T20:27:06.396Z"
+status: "active"
 ---
 
 # § 2211. Assistance during drought; water purchases
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:57.495Z"
 - **(b)** In order to minimize losses and damages resulting from drought conditions, the Secretary may provide nonfinancial assistance to willing buyers in their purchase of available water supplies from willing sellers.
 - **(c)** In order to minimize losses and damages resulting from drought conditions, the Secretary may purchase water from willing sellers, including, but not limited to, water made available by Federal Reclamation project contractors through conservation or other means with respect to which the seller has reduced the consumption of water. Except with respect to water stored, conveyed or delivered to Federal and State wildlife habitat, the Secretary shall deliver such water pursuant to temporary contracts under section 2212 of this title : Provided , That any such contract shall require recovery of any costs, including interest if applicable, incurred by the Secretary in acquiring such water.
 - **(d)** In order to respond to a drought, the Secretary is authorized to participate in water banks established by a State.
+
+## Source Credit
+
+*([Pub. L. 102–250, title I, § 101](https://www.govinfo.gov/link/plaw/102/public/250), Mar. 5, 1992, [106 Stat. 53](https://www.govinfo.gov/link/statute/106/53).)*

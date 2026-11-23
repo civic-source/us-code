@@ -3,9 +3,10 @@ title: "Section 884 - Immunity and privilege"
 usc_title: 21
 usc_section: "884"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 884"
-generated_at: "2026-03-30T02:54:54.298Z"
+generated_at: "2026-11-23T20:26:27.853Z"
+status: "active"
 ---
 
 # § 884. Immunity and privilege
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:54.298Z"
 - **(c)** A United States attorney may, with the approval of the Attorney General or the Deputy Attorney General, the Associate Attorney General, or any Assistant Attorney General designated by the Attorney General, request an order under subsection (b) when in his judgment—
   - **(1)** the testimony or other information from such individual may be necessary to the public interest; and
   - **(2)** such individual has refused or is likely to refuse to testify or provide other information on the basis of his privilege against self-incrimination.
+
+## Source Credit
+
+*([Pub. L. 91–513, title II, § 514](https://www.govinfo.gov/link/plaw/91/public/513), Oct. 27, 1970, [84 Stat. 1278](https://www.govinfo.gov/link/statute/84/1278); [Pub. L. 100–690, title VII, § 7020(f)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4396](https://www.govinfo.gov/link/statute/102/4396).)*

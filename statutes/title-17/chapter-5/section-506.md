@@ -3,9 +3,10 @@ title: "Section 506 - Criminal offenses"
 usc_title: 17
 usc_section: "506"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 506"
-generated_at: "2026-03-30T02:54:15.353Z"
+generated_at: "2026-11-23T20:26:06.525Z"
+status: "active"
 ---
 
 # § 506. Criminal offenses
@@ -28,3 +29,27 @@ generated_at: "2026-03-30T02:54:15.353Z"
 - **(d)** Any person who, with fraudulent intent, removes or alters any notice of copyright appearing on a copy of a copyrighted work shall be fined not more than $2,500.
 - **(e)** Any person who knowingly makes a false representation of a material fact in the application for copyright registration provided for by section 409, or in any written statement filed in connection with the application, shall be fined not more than $2,500.
 - **(f)** Nothing in this section applies to infringement of the rights conferred by section 106A(a).
+
+Criminal Infringement.—
+
+In general
+
+Evidence
+
+Definition
+
+Forfeiture, Destruction, and Restitution
+
+Fraudulent Copyright Notice
+
+Fraudulent Removal of Copyright Notice
+
+False Representation
+
+Rights of Attribution and Integrity
+
+Criminal Infringement
+
+## Source Credit
+
+*([Pub. L. 94–553, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/553), Oct. 19, 1976, [90 Stat. 2586](https://www.govinfo.gov/link/statute/90/2586); [Pub. L. 97–180, § 5](https://www.govinfo.gov/link/plaw/97/public/180), May 24, 1982, [96 Stat. 93](https://www.govinfo.gov/link/statute/96/93); [Pub. L. 101–650, title VI, § 606(b)](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5131](https://www.govinfo.gov/link/statute/104/5131); [Pub. L. 105–147, § 2(b)](https://www.govinfo.gov/link/plaw/105/public/147), Dec. 16, 1997, [111 Stat. 2678](https://www.govinfo.gov/link/statute/111/2678); [Pub. L. 109–9, title I, § 103(a)](https://www.govinfo.gov/link/plaw/109/public/9), Apr. 27, 2005, [119 Stat. 220](https://www.govinfo.gov/link/statute/119/220); [Pub. L. 110–403, title II, § 201(a)](https://www.govinfo.gov/link/plaw/110/public/403), Oct. 13, 2008, [122 Stat. 4260](https://www.govinfo.gov/link/statute/122/4260).)*

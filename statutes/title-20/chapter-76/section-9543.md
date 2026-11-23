@@ -3,9 +3,10 @@ title: "Section 9543 - Duties"
 usc_title: 20
 usc_section: "9543"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 9543"
-generated_at: "2026-03-30T02:54:48.227Z"
+generated_at: "2026-11-23T20:26:14.990Z"
+status: "active"
 ---
 
 # § 9543. Duties
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:54:48.227Z"
   - **(8)** assisting the Director in the preparation of a biennial report, as described in section 9519 of this title ; and
   - **(9)** determining, in consultation with the National Research Council of the National Academies, methodology by which States may accurately measure graduation rates (defined as the percentage of students who graduate from secondary school with a regular diploma in the standard number of years), school completion rates, and dropout rates.
 - **(b)** The Statistics Commissioner may establish a program to train employees of public and private educational agencies, organizations, and institutions in the use of standard statistical procedures and concepts, and may establish a fellowship program to appoint such employees as temporary fellows at the Statistics Center, in order to assist the Statistics Center in carrying out its duties.
+
+## Source Credit
+
+*([Pub. L. 107–279, title I, § 153](https://www.govinfo.gov/link/plaw/107/public/279), Nov. 5, 2002, [116 Stat. 1958](https://www.govinfo.gov/link/statute/116/1958); [Pub. L. 114–95, title IX, § 9214(b)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2161](https://www.govinfo.gov/link/statute/129/2161).)*

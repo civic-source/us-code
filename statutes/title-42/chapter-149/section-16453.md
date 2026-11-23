@@ -3,9 +3,10 @@ title: "Section 16453 - State access to books and records"
 usc_title: 42
 usc_section: "16453"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16453"
-generated_at: "2026-03-30T02:56:11.487Z"
+generated_at: "2026-11-23T20:27:23.687Z"
+status: "active"
 ---
 
 # § 16453. State access to books and records
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.487Z"
 - **(c)** The production of books, accounts, memoranda, and other records under subsection (a) shall be subject to such terms and conditions as may be necessary and appropriate to safeguard against unwarranted disclosure to the public of any trade secrets or sensitive commercial information.
 - **(d)** Nothing in this section shall preempt applicable State law concerning the provision of books, accounts, memoranda, and other records, or in any way limit the rights of any State to obtain books, accounts, memoranda, and other records under any other Federal law, contract, or otherwise.
 - **(e)** Any United States district court located in the State in which the State commission referred to in subsection (a) is located shall have jurisdiction to enforce compliance with this section.
+
+## Source Credit
+
+*([Pub. L. 109–58, title XII, § 1265](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 975](https://www.govinfo.gov/link/statute/119/975).)*

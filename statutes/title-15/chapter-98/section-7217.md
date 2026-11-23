@@ -3,9 +3,10 @@ title: "Section 7217 - Commission oversight of the Board"
 usc_title: 15
 usc_section: "7217"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 7217"
-generated_at: "2026-03-30T02:54:08.220Z"
+generated_at: "2026-11-23T20:26:04.441Z"
+status: "active"
 ---
 
 # § 7217. Commission oversight of the Board
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:54:08.220Z"
     - **(A)** has willfully violated any provision of this Act, the rules of the Board, or the securities laws;
     - **(B)** has willfully abused the authority of that member; or
     - **(C)** without reasonable justification or excuse, has failed to enforce compliance with any such provision or rule, or any professional standard by any registered public accounting firm or any associated person thereof.
+
+## Source Credit
+
+*([Pub. L. 107–204, title I, § 107](https://www.govinfo.gov/link/plaw/107/public/204), July 30, 2002, [116 Stat. 765](https://www.govinfo.gov/link/statute/116/765); [Pub. L. 111–203, title IX, § 929F(i)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1855](https://www.govinfo.gov/link/statute/124/1855).)*

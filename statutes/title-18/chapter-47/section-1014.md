@@ -3,9 +3,10 @@ title: "Section 1014 - Loan and credit applications generally; renewals and disc
 usc_title: 18
 usc_section: "1014"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 1014"
-generated_at: "2026-03-30T02:54:16.478Z"
+generated_at: "2026-11-23T20:26:08.450Z"
+status: "active"
 ---
 
 # § 1014. Loan and credit applications generally; renewals and discounts; crop insurance
@@ -13,3 +14,11 @@ generated_at: "2026-03-30T02:54:16.478Z"
   - **(1)** and
   - **(3)** of section 1(b) of the International Banking Act of 1978), an organization operating under section 25 or section 25(a) 2 2 See References in Text note below. of the Federal Reserve Act, or a mortgage lending business, or any person or entity that makes in whole or in part a federally related mortgage loan as defined in section 3 of the Real Estate Settlement Procedures Act of 1974, upon any application, advance, discount, purchase, purchase agreement, repurchase agreement, commitment, loan, or insurance agreement or application for insurance or a guarantee, or any change or extension of any of the same, by renewal, deferment of action or otherwise, or the acceptance, release, or substitution of security therefor, shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or both. The term “State-chartered credit union” includes a credit union chartered under the laws of a State of the United States, the District of Columbia, or any commonwealth, territory, or possession of the United States.
 
+
+Act
+
+Act
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 752](https://www.govinfo.gov/link/statute/62/752); May 24, 1949, ch. 139, § 21, [63 Stat. 92](https://www.govinfo.gov/link/statute/63/92); July 26, 1956, ch. 741, title I, § 109, [70 Stat. 667](https://www.govinfo.gov/link/statute/70/667); [Pub. L. 85–699, title VII, § 705](https://www.govinfo.gov/link/plaw/85/public/699), Aug. 21, 1958, [72 Stat. 699](https://www.govinfo.gov/link/statute/72/699); [Pub. L. 86–168, title I, § 104(h)](https://www.govinfo.gov/link/plaw/86/public/168), Aug. 18, 1959, [73 Stat. 387](https://www.govinfo.gov/link/statute/73/387); [Pub. L. 87–353, § 3(t)](https://www.govinfo.gov/link/plaw/87/public/353), Oct. 4, 1961, [75 Stat. 774](https://www.govinfo.gov/link/statute/75/774); [Pub. L. 88–353, § 5](https://www.govinfo.gov/link/plaw/88/public/353), July 2, 1964, [78 Stat. 269](https://www.govinfo.gov/link/statute/78/269); [Pub. L. 91–468, § 7](https://www.govinfo.gov/link/plaw/91/public/468), Oct. 19, 1970, [84 Stat. 1017](https://www.govinfo.gov/link/statute/84/1017); [Pub. L. 91–609, title IX, § 915](https://www.govinfo.gov/link/plaw/91/public/609), Dec. 31, 1970, [84 Stat. 1815](https://www.govinfo.gov/link/statute/84/1815); [Pub. L. 97–297, § 4(b)](https://www.govinfo.gov/link/plaw/97/public/297), Oct. 12, 1982, [96 Stat. 1318](https://www.govinfo.gov/link/statute/96/1318); [Pub. L. 101–73, title IX](https://www.govinfo.gov/link/plaw/101/public/73), §§ 961(h), 962(a)(7), (8)(B), Aug. 9, 1989, [103 Stat. 500](https://www.govinfo.gov/link/statute/103/500), 502; [Pub. L. 101–624, title XXIII, § 2303(e)](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3981](https://www.govinfo.gov/link/statute/104/3981); [Pub. L. 101–647, title XXV](https://www.govinfo.gov/link/plaw/101/public/647), §§ 2504(g), 2595(a)(5), 2597(i), Nov. 29, 1990, [104 Stat. 4861](https://www.govinfo.gov/link/statute/104/4861), 4907, 4910; [Pub. L. 103–322, title XXXIII](https://www.govinfo.gov/link/plaw/103/public/322), §§ 330002(d), 330008(8), Sept. 13, 1994, [108 Stat. 2140](https://www.govinfo.gov/link/statute/108/2140), 2143; [Pub. L. 103–354, title I, § 119(e)](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3208](https://www.govinfo.gov/link/statute/108/3208); [Pub. L. 104–294, title VI](https://www.govinfo.gov/link/plaw/104/public/294), §§ 602(b), 604(b)(22), 605(b), 607(d), Oct. 11, 1996, [110 Stat. 3503](https://www.govinfo.gov/link/statute/110/3503), 3508, 3509, 3511; [Pub. L. 106–78, title VII, § 767](https://www.govinfo.gov/link/plaw/106/public/78), Oct. 22, 1999, [113 Stat. 1174](https://www.govinfo.gov/link/statute/113/1174); [Pub. L. 107–100, § 4(a)](https://www.govinfo.gov/link/plaw/107/public/100), Dec. 21, 2001, [115 Stat. 966](https://www.govinfo.gov/link/statute/115/966); [Pub. L. 110–289, div. A, title II, § 1216(c)](https://www.govinfo.gov/link/plaw/110/public/289), div. B, title I, § 2129, July 30, 2008, [122 Stat. 2792](https://www.govinfo.gov/link/statute/122/2792), 2842; [Pub. L. 111–21, § 2(c)](https://www.govinfo.gov/link/plaw/111/public/21), May 20, 2009, [123 Stat. 1617](https://www.govinfo.gov/link/statute/123/1617); [Pub. L. 111–203, title III, § 377(6)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1569](https://www.govinfo.gov/link/statute/124/1569).)*

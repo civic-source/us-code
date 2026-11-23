@@ -3,9 +3,10 @@ title: "Section 8309 - Veterinary accreditation program"
 usc_title: 7
 usc_section: "8309"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 8309"
-generated_at: "2026-03-30T02:53:42.474Z"
+generated_at: "2026-11-23T20:25:41.882Z"
+status: "active"
 ---
 
 # § 8309. Veterinary accreditation program
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:42.474Z"
     - **(A)** The Secretary may summarily suspend the accreditation of a veterinarian whom the Secretary has reason to believe knowingly violated this chapter.
     - **(B)** The Secretary shall provide the veterinarian with a subsequent notice and an opportunity for a prompt post-suspension hearing on the record.
 - **(d)** The criminal and civil penalties described in section 8313 of this title shall not apply to a violation of this section that is not a violation of any other provision of this chapter.
+
+## Source Credit
+
+*([Pub. L. 107–171, title X, § 10410](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 501](https://www.govinfo.gov/link/statute/116/501).)*

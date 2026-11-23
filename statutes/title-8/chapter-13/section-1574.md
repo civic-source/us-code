@@ -3,9 +3,10 @@ title: "Section 1574 - Reports to Congress"
 usc_title: 8
 usc_section: "1574"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1574"
-generated_at: "2026-03-30T02:53:10.505Z"
+generated_at: "2026-11-23T20:25:36.269Z"
+status: "active"
 ---
 
 # § 1574. Reports to Congress
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:53:10.505Z"
       - **(v)** registrations for Temporary Protected Status under section 1254a of this title ; and
       - **(vi)** a description of the additional resources and process changes needed to eliminate the backlog for such processing and adjudications.
   - **(3)** In the event that no funds are appropriated subject to section 1573(b) of this title in the fiscal year in which this Act is enacted, the Attorney General shall submit a report to Congress not later than 90 days after the end of such fiscal year, and each fiscal year thereafter, containing the elements described in paragraph (2).
+
+## Source Credit
+
+*([Pub. L. 106–313, title II, § 205](https://www.govinfo.gov/link/plaw/106/public/313), Oct. 17, 2000, [114 Stat. 1263](https://www.govinfo.gov/link/statute/114/1263).)*

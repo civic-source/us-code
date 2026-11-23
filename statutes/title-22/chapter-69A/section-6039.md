@@ -3,9 +3,10 @@ title: "Section 6039 - Authorization of support for democratic and human rights 
 usc_title: 22
 usc_section: "6039"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6039"
-generated_at: "2026-03-30T02:55:05.422Z"
+generated_at: "2026-11-23T20:26:32.588Z"
+status: "active"
 ---
 
 # § 6039. Authorization of support for democratic and human rights groups and international observers
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:05.422Z"
   - **(2)** The President should instruct the United States Permanent Representative to the Organization of American States to encourage other member states of the Organization to join in calling for the Cuban Government to allow the immediate deployment of independent human rights monitors of the Organization throughout Cuba and on-site visits to Cuba by the Inter-American Commission on Human Rights.
   - **(3)** Notwithstanding section 2227 of this title or any other provision of law limiting the United States proportionate share of assistance to Cuba by any international organization, the President should provide not less than $5,000,000 of the voluntary contributions of the United States to the Organization of American States solely for the purposes of the special fund referred to in paragraph (1).
 - **(c)** In implementing this section, the President shall take all necessary steps to ensure that no funds or other assistance is provided to the Cuban Government.
+
+## Source Credit
+
+*([Pub. L. 104–114, title I, § 109](https://www.govinfo.gov/link/plaw/104/public/114), Mar. 12, 1996, [110 Stat. 799](https://www.govinfo.gov/link/statute/110/799).)*

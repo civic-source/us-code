@@ -3,9 +3,10 @@ title: "Section 500d - Electromagnetic spectrum superiority implementation plan"
 usc_title: 10
 usc_section: "500d"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 500d"
-generated_at: "2026-03-30T02:53:38.063Z"
+generated_at: "2026-11-23T20:25:50.978Z"
+status: "active"
 ---
 
 # § 500d. Electromagnetic spectrum superiority implementation plan
@@ -19,3 +20,13 @@ generated_at: "2026-03-30T02:53:38.063Z"
   - **(5)** For any element that has been removed from the implementation plan, a description of the reason for the removal of the element and an assessment of the impact of not pursuing achievement of the element.
   - **(6)** Such additional matters as the Chief Information Officer considers appropriate.
 - **(c)** In this section, the term “electromagnetic superiority implementation plan” means the Electromagnetic Superiority Implementation Plan signed by the Secretary of Defense on July 15, 2021 , and any successor plan.
+
+In General
+
+Report Required
+
+Electromagnetic Superiority Implementation Plan Defined
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title XVI, § 1682(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 615](https://www.govinfo.gov/link/statute/137/615), § 504; renumbered § 500d, [Pub. L. 118–159, div. A, title XVII, § 1701(a)(10)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2203](https://www.govinfo.gov/link/statute/138/2203).)*

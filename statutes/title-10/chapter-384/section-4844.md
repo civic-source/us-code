@@ -3,9 +3,10 @@ title: "Section 4844 - Manufacturing experts in the classroom"
 usc_title: 10
 usc_section: "4844"
 chapter: 384
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 4844"
-generated_at: "2026-03-30T02:53:38.212Z"
+generated_at: "2026-11-23T20:25:51.980Z"
+status: "active"
 ---
 
 # § 4844. Manufacturing experts in the classroom
@@ -25,3 +26,17 @@ generated_at: "2026-03-30T02:53:38.212Z"
   - **(4)** meet such other criteria as the Secretary may prescribe.
 - **(d)** The amount of financial assistance furnished to an institution under this section may not exceed 50 percent of the estimated cost of carrying out the activities proposed to be supported in part with such financial assistance for the period for which the assistance is to be provided. In no event may the amount of the financial assistance provided to an institution exceed $250,000 per year. The period for which financial assistance is provided an institution under this section shall be at least two years unless such assistance is earlier terminated for cause determined by the Secretary.
 - **(e)** In this section, the term “manufacturing expert” means manufacturing managers and workers having experience in the organization of production and education and training needs and other experts in manufacturing.
+
+Establishment of Program
+
+Merit Competition
+
+Selection Criteria
+
+Federal Support
+
+Manufacturing Expert Defined
+
+## Source Credit
+
+*(Added [Pub. L. 102–190, div. A, title VIII, § 825(a)(1)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1440](https://www.govinfo.gov/link/statute/105/1440), § 2197; amended [Pub. L. 102–484, div. D, title XLII, § 4238(a)](https://www.govinfo.gov/link/plaw/102/public/484), (b)(1), Oct. 23, 1992, [106 Stat. 2694](https://www.govinfo.gov/link/statute/106/2694); renumbered § 4844 and amended [Pub. L. 116–283, div. A, title XVIII, § 1869(d)](https://www.govinfo.gov/link/plaw/116/public/283), as added [Pub. L. 117–81, div. A, title XVII, § 1701(p)(1)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2148](https://www.govinfo.gov/link/statute/135/2148).)*

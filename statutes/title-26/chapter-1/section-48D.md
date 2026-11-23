@@ -3,9 +3,10 @@ title: "Section 48D - Advanced manufacturing investment credit"
 usc_title: 26
 usc_section: "48D"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 48D"
-generated_at: "2026-03-30T02:55:27.610Z"
+generated_at: "2026-11-23T20:26:45.253Z"
+status: "active"
 ---
 
 # § 48D. Advanced manufacturing investment credit
@@ -61,3 +62,7 @@ generated_at: "2026-03-30T02:55:27.610Z"
     - **(A)** regulations or other guidance providing rules for determining a partner’s distributive share of the tax exempt income described in paragraph (2)(A)(i)(III), and
     - **(B)** guidance to ensure that the amount of the payment or deemed payment made under this subsection is commensurate with the amount of the credit that would be otherwise allowable (determined without regard to section 38(c)).
 - **(e)** The credit allowed under this section shall not apply to property the construction of which begins after December 31, 2026 .
+
+## Source Credit
+
+*(Added [Pub. L. 117–167, div. A, § 107(a)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1393](https://www.govinfo.gov/link/statute/136/1393); amended [Pub. L. 119–21, title VII, § 70308(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 201](https://www.govinfo.gov/link/statute/139/201).)*

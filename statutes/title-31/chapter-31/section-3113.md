@@ -3,9 +3,10 @@ title: "Section 3113 - Accepting gifts"
 usc_title: 31
 usc_section: "3113"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 3113"
-generated_at: "2026-03-30T02:55:34.054Z"
+generated_at: "2026-11-23T20:26:51.754Z"
+status: "active"
 ---
 
 # § 3113. Accepting gifts
@@ -25,3 +26,42 @@ generated_at: "2026-03-30T02:55:34.054Z"
     - **(B)** becomes the property of the Government under the conditions of a trust; or
     - **(C)** is payable on the death of the owner to the Government (or to an officer of the Government in the officer’s official capacity).
   - **(2)** If the gift or transfer to the Government is subject to a gift or inheritance tax, the Secretary shall pay the tax out of the proceeds of redemption.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3113(a) | 31:901(less (b)(proviso)). | June 27, 1961 , Pub. L. 87–58 , 75 Stat. 119 . |
+| 3113(b) | 31:901(b)(proviso). |  |
+| 3113(c) | 31:902, 903. |  |
+| 3113(d) | 31:904. |  |
+| 3113(e) | 31:757e. | Sept. 24, 1917, ch. 56 , 40 Stat. 288 , § 24; added Apr. 3, 1945, ch. 51, § 4 , 59 Stat. 48 . |
+
+
+Historical and Revision Notes
+
+3113(a)
+
+June 27, 1961
+
+Pub. L. 87–58
+
+75 Stat. 119
+
+3113(b)
+
+3113(c)
+
+3113(d)
+
+3113(e)
+
+Sept. 24, 1917, ch. 56
+
+40 Stat. 288
+
+Apr. 3, 1945, ch. 51, § 4
+
+59 Stat. 48
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 943](https://www.govinfo.gov/link/statute/96/943).)*

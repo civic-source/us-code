@@ -3,9 +3,10 @@ title: "Section 3106a - Compliance with State and Federal laws"
 usc_title: 12
 usc_section: "3106a"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 3106a"
-generated_at: "2026-03-30T02:53:53.491Z"
+generated_at: "2026-11-23T20:25:59.325Z"
+status: "active"
 ---
 
 # § 3106a. Compliance with State and Federal laws
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:53.491Z"
     - **(A)** impose requirements that protect the rights of consumers in financial transactions, to the extent that the branch, agency, or commercial lending company engages in activities that are subject to such laws;
     - **(B)** prohibit discrimination against individuals or other persons on the basis of the race, color, religion, sex, marital status, age, or national origin of (i) such individual or other person or (ii) any officer, director, employee, or creditor of, or any owner of any interest in, such individual or other person; and
     - **(C)** apply to national banks or State-chartered banks doing business in the State in which the entity to be established is to do business.
+
+## Source Credit
+
+*([Pub. L. 95–369, § 9(b)](https://www.govinfo.gov/link/plaw/95/public/369), as added [Pub. L. 95–630, title III, § 311](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3678](https://www.govinfo.gov/link/statute/92/3678); amended [Pub. L. 103–328, title I, § 107(c)](https://www.govinfo.gov/link/plaw/103/public/328), Sept. 29, 1994, [108 Stat. 2360](https://www.govinfo.gov/link/statute/108/2360).)*

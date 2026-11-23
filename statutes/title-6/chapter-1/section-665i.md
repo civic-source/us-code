@@ -3,9 +3,10 @@ title: "Section 665i - CyberSentry program"
 usc_title: 6
 usc_section: "665i"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 665i"
-generated_at: "2026-03-30T02:53:09.480Z"
+generated_at: "2026-11-23T20:25:34.838Z"
+status: "active"
 ---
 
 # § 665i. CyberSentry program
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:09.480Z"
 - **(e)** Nothing in this section may be construed to permit the Federal Government to gain access to information of a remote computing service provider to the public or an electronic service provider to the public, the disclosure of which is not permitted under section 2702 of title 18 .
 - **(f)** In this section, the term “industrial control system” means an information system used to monitor and/or control industrial processes such as manufacturing, product handling, production, and distribution, including supervisory control and data acquisition (SCADA) systems used to monitor and/or control geographically dispersed assets, distributed control systems (DCSs), Human-Machine Interfaces (HMIs), and programmable logic controllers that control localized processes.
 - **(g)** The authority to carry out a program under this section shall terminate on the date that is seven years after December 27, 2021 .
+
+## Source Credit
+
+*([Pub. L. 107–296, title XXII, § 2220C](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 117–81, div. A, title XV, § 1548(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2061](https://www.govinfo.gov/link/statute/135/2061); amended [Pub. L. 117–263, div. G, title LXXI, § 7143(b)(2)(L)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3661](https://www.govinfo.gov/link/statute/136/3661).)*

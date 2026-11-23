@@ -3,9 +3,10 @@ title: "Section 7101 - Purposes"
 usc_title: 16
 usc_section: "7101"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 7101"
-generated_at: "2026-03-30T02:54:23.072Z"
+generated_at: "2026-11-23T20:26:20.828Z"
+status: "active"
 ---
 
 # § 7101. Purposes
@@ -30,3 +31,7 @@ The purposes of this chapter are—
   - **(3)** to improve cooperative relationships among—
     - **(A)** the people that use and care for Federal land; and
     - **(B)** the agencies that manage the Federal land.
+
+## Source Credit
+
+*([Pub. L. 106–393, § 2](https://www.govinfo.gov/link/plaw/106/public/393), as added [Pub. L. 110–343, div. C, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3893](https://www.govinfo.gov/link/statute/122/3893).)*

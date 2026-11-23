@@ -3,9 +3,10 @@ title: "Section 2263 - Filing of habeas corpus application; time requirements; t
 usc_title: 28
 usc_section: "2263"
 chapter: 154
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 2263"
-generated_at: "2026-03-30T02:55:30.148Z"
+generated_at: "2026-11-23T20:26:36.510Z"
+status: "active"
 ---
 
 # § 2263. Filing of habeas corpus application; time requirements; tolling rules
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:30.148Z"
   - **(3)** during an additional period not to exceed 30 days, if—
     - **(A)** a motion for an extension of time is filed in the Federal district court that would have jurisdiction over the case upon the filing of a habeas corpus application under section 2254; and
     - **(B)** a showing of good cause is made for the failure to file the habeas corpus application within the time period established by this section.
+
+## Source Credit
+
+*(Added [Pub. L. 104–132, title I, § 107(a)](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1223](https://www.govinfo.gov/link/statute/110/1223).)*

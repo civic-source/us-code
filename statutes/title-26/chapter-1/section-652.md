@@ -3,9 +3,10 @@ title: "Section 652 - Inclusion of amounts in gross income of beneficiaries of t
 usc_title: 26
 usc_section: "652"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 652"
-generated_at: "2026-03-30T02:55:27.723Z"
+generated_at: "2026-11-23T20:26:45.852Z"
+status: "active"
 ---
 
 # § 652. Inclusion of amounts in gross income of beneficiaries of trusts distributing current income only
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:27.723Z"
 - **(a)** Subject to subsection (b), the amount of income for the taxable year required to be distributed currently by a trust described in section 651 shall be included in the gross income of the beneficiaries to whom the income is required to be distributed, whether distributed or not. If such amount exceeds the distributable net income, there shall be included in the gross income of each beneficiary an amount which bears the same ratio to distributable net income as the amount of income required to be distributed to such beneficiary bears to the amount of income required to be distributed to all beneficiaries.
 - **(b)** The amounts specified in subsection (a) shall have the same character in the hands of the beneficiary as in the hands of the trust. For this purpose, the amounts shall be treated as consisting of the same proportion of each class of items entering into the computation of distributable net income of the trust as the total of each class bears to the total distributable net income of the trust, unless the terms of the trust specifically allocate different classes of income to different beneficiaries. In the application of the preceding sentence, the items of deduction entering into the computation of distributable net income shall be allocated among the items of distributable net income in accordance with regulations prescribed by the Secretary.
 - **(c)** If the taxable year of a beneficiary is different from that of the trust, the amount which the beneficiary is required to include in gross income in accordance with the provisions of this section shall be based upon the amount of income of the trust for any taxable year or years of the trust ending within or with his taxable year.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 219; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834).)*

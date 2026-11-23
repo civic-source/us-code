@@ -3,9 +3,10 @@ title: "Section 7104d - Rules of construction; effective date"
 usc_title: 22
 usc_section: "7104d"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7104d"
-generated_at: "2026-03-30T02:55:05.436Z"
+generated_at: "2026-11-23T20:26:32.652Z"
+status: "active"
 ---
 
 # § 7104d. Rules of construction; effective date
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.436Z"
     - **(B)** The requirements of sections 1702, 1703, and 1704(c), and the second sentence of section 1704(a)(1), of this title, shall apply to grants, contracts, and cooperative agreements entered into on or after the date that is 270 days after January 2, 2013 , and to task and delivery orders awarded on or after such date pursuant to contracts entered before, on, or after such date.
   - **(2)** Federal agencies shall implement the requirements of sections 1704, 1705, and 1707 (other than subsection (c) of section 1704) not later than 90 days after January 2, 2013 .
   - **(3)** The amendments made by section 1706 shall take effect upon the date of enactment and shall apply to conduct taking place on or after such date.
+
+## Source Credit
+
+*([Pub. L. 112–239, div. A, title XVII, § 1708](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2098](https://www.govinfo.gov/link/statute/126/2098).)*

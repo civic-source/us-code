@@ -3,9 +3,10 @@ title: "Section 5701 - Food transportation safety inspections"
 usc_title: 49
 usc_section: "5701"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 5701"
-generated_at: "2026-03-30T02:56:19.320Z"
+generated_at: "2026-11-23T20:27:34.694Z"
+status: "active"
 ---
 
 # § 5701. Food transportation safety inspections
@@ -21,3 +22,23 @@ generated_at: "2026-03-30T02:56:19.320Z"
   - **(3)** The procedures established under paragraph (1) shall apply, at a minimum, to Department of Transportation personnel that perform commercial motor vehicle or railroad safety inspections.
 - **(b)** The Secretary of Transportation shall promptly notify the Secretary of Health and Human Services or the Secretary of Agriculture, as applicable, of any instances of potential food contamination or adulteration of a food identified during transportation safety inspections.
 - **(c)** The means by which the Secretary of Transportation carries out subsection (b) may include inspections conducted by State employees using funds authorized to be appropriated under sections 31102 through 31104.
+
+Inspection Procedures.—
+
+In general
+
+Training.—
+
+In general
+
+Conduct
+
+Applicability
+
+Notification of Secretary of Health and Human Services or Secretary of Agriculture
+
+Use of State Employees
+
+## Source Credit
+
+*(Added [Pub. L. 109–59, title VII, § 7203](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1913](https://www.govinfo.gov/link/statute/119/1913).)*

@@ -3,9 +3,10 @@ title: "Section 6991k - Delivery prohibition"
 usc_title: 42
 usc_section: "6991k"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6991k"
-generated_at: "2026-03-30T02:56:11.281Z"
+generated_at: "2026-11-23T20:27:22.769Z"
+status: "active"
 ---
 
 # § 6991k. Delivery prohibition
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.281Z"
     - **(B)** Subparagraph (A) shall apply only during the 180-day period following the date of a determination by the Administrator or the appropriate State under subparagraph (A).
 - **(b)** Nothing in this section shall affect or preempt the authority of a State to prohibit the delivery, deposit, or acceptance of a regulated substance to an underground storage tank.
 - **(c)** A person shall not be in violation of subsection (a)(1) if the person has not been provided with notice pursuant to subsection (a)(2)(D) of the ineligibility of a facility for delivery, deposit, or acceptance of a regulated substance as determined by the Administrator or a State, as appropriate, under this section.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 9012](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 109–58, title XV, § 1527(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 1098](https://www.govinfo.gov/link/statute/119/1098); amended [Pub. L. 109–168, § 1(a)(1)](https://www.govinfo.gov/link/plaw/109/public/168), Jan. 10, 2006, [119 Stat. 3580](https://www.govinfo.gov/link/statute/119/3580).)*

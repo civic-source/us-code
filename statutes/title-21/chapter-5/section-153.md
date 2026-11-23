@@ -3,12 +3,17 @@ title: "Section 153 - Inspection of imports; denial of entry and destruction"
 usc_title: 21
 usc_section: "153"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 153"
-generated_at: "2026-03-30T02:54:54.215Z"
+generated_at: "2026-11-23T20:26:27.494Z"
+status: "active"
 ---
 
 # § 153. Inspection of imports; denial of entry and destruction
 
 The Secretary of Agriculture is authorized to cause the Bureau of Animal Industry to examine and inspect all viruses, serums, toxins, and analogous products, for use in the treatment of domestic animals, which are being imported or offered for importation into the United States, to determine whether such viruses, serums, toxins, and analogous products are worthless, contaminated, dangerous, or harmful, and if it shall appear that any such virus, serum, toxin, or analogous product, for use in the treatment of domestic animals, is worthless, contaminated, dangerous, or harmful, the same shall be denied entry and shall be destroyed or returned at the expense of the owner or importer.
 
+
+## Source Credit
+
+*(Mar. 4, 1913, ch. 145, § 1 (part), [37 Stat. 832](https://www.govinfo.gov/link/statute/37/832).)*

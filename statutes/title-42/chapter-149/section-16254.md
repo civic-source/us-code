@@ -3,9 +3,10 @@ title: "Section 16254 - Regional bioeconomy development grants"
 usc_title: 42
 usc_section: "16254"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16254"
-generated_at: "2026-03-30T02:56:11.475Z"
+generated_at: "2026-11-23T20:27:23.637Z"
+status: "active"
 ---
 
 # § 16254. Regional bioeconomy development grants
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.475Z"
 - **(g)** There are authorized to be appropriated to make grants under this section—
   - **(1)** $1,000,000 for fiscal year 2006; and
   - **(2)** such sums as are necessary for each of fiscal years 2007 through 2015.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 945](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 882](https://www.govinfo.gov/link/statute/119/882).)*

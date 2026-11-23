@@ -3,9 +3,10 @@ title: "Section 30915 - Seizures and other proceedings in foreign jurisdictions"
 usc_title: 46
 usc_section: "30915"
 chapter: 309
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 30915"
-generated_at: "2026-03-30T02:56:15.562Z"
+generated_at: "2026-11-23T20:27:27.210Z"
+status: "active"
 ---
 
 # § 30915. Seizures and other proceedings in foreign jurisdictions
@@ -20,3 +21,34 @@ generated_at: "2026-03-30T02:56:15.562Z"
   - **(1)** the certificate and seal of the United States consul claiming the vessel or cargo, or by the consul’s successor; and
   - **(2)** the certificate of the Secretary as to the official capacity of the consul.
 - **(d)** This section does not affect the right of the United States to claim immunity of a vessel or cargo from foreign jurisdiction.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30915 | 46 App.:747. | Mar. 9, 1920, ch. 95, § 7 , 41 Stat. 527 ; Pub. L. 97–31, § 12(25)(B) , Aug. 6, 1981 , 95 Stat. 155 . |
+
+
+In General
+
+Arranging Bond or Stipulation
+
+Payment of Judgment
+
+Right To Claim Immunity Not Affected
+
+Historical and Revision Notes
+
+30915
+
+Mar. 9, 1920, ch. 95, § 7
+
+41 Stat. 527
+
+Pub. L. 97–31, § 12(25)(B)
+
+Aug. 6, 1981
+
+95 Stat. 155
+
+## Source Credit
+
+*([Pub. L. 109–304, § 6(c)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1519](https://www.govinfo.gov/link/statute/120/1519).)*

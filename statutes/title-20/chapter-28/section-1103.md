@@ -3,9 +3,10 @@ title: "Section 1103 - Eligibility; applications"
 usc_title: 20
 usc_section: "1103"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1103"
-generated_at: "2026-03-30T02:54:48.141Z"
+generated_at: "2026-11-23T20:26:14.547Z"
+status: "active"
 ---
 
 # § 1103. Eligibility; applications
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:54:48.141Z"
   - **(9)** include such other information as the Secretary may prescribe.
 - **(d)** With respect to applications for assistance under this section, the Secretary shall give priority to an application that contains satisfactory evidence that the Hispanic-serving institution has entered into or will enter into a collaborative arrangement with at least one local educational agency or community-based organization to provide such agency or organization with assistance (from funds other than funds provided under this subchapter) in reducing dropout rates for Hispanic students, improving rates of academic achievement for Hispanic students, and increasing the rates at which Hispanic secondary school graduates enroll in higher education.
 - **(e)** The Secretary shall use the most recent and relevant data concerning the number and percentage of students receiving need-based assistance under subchapter IV in making eligibility determinations and shall advance the base-year for the determinations forward following each annual grant cycle.
+
+## Source Credit
+
+*([Pub. L. 89–329, title V, § 521](https://www.govinfo.gov/link/plaw/89/public/329), formerly § 511, as added [Pub. L. 105–244, title V, § 501](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1770](https://www.govinfo.gov/link/statute/112/1770); renumbered § 521 and amended [Pub. L. 110–315, title V](https://www.govinfo.gov/link/plaw/110/public/315), §§ 502(a)(2), (b)(2), 503, Aug. 14, 2008, [122 Stat. 3331](https://www.govinfo.gov/link/statute/122/3331), 3333.)*

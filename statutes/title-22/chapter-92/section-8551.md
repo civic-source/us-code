@@ -3,9 +3,10 @@ title: "Section 8551 - General provisions"
 usc_title: 22
 usc_section: "8551"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8551"
-generated_at: "2026-03-30T02:55:05.453Z"
+generated_at: "2026-11-23T20:26:32.720Z"
+status: "active"
 ---
 
 # § 8551. General provisions
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:05.453Z"
 - **(c)**
   - **(1)** There are authorized to be appropriated to the Secretary of State and to the Secretary of the Treasury such sums as may be necessary to implement the provisions of, and amendments made by, titles I and III of this Act [ 22 U.S.C. 8511 et seq., 8541 et seq.].
   - **(2)** There are authorized to be appropriated to the Secretary of Commerce such sums as may be necessary to carry out title III [ 22 U.S.C. 8541 et seq.].
+
+## Source Credit
+
+*([Pub. L. 111–195, title IV, § 401](https://www.govinfo.gov/link/plaw/111/public/195), July 1, 2010, [124 Stat. 1350](https://www.govinfo.gov/link/statute/124/1350); [Pub. L. 112–158, title IV, § 403(d)](https://www.govinfo.gov/link/plaw/112/public/158), title VI, § 605(b), Aug. 10, 2012, [126 Stat. 1255](https://www.govinfo.gov/link/statute/126/1255), 1265; [Pub. L. 112–239, div. A, title XII, § 1249(b)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2016](https://www.govinfo.gov/link/statute/126/2016).)*

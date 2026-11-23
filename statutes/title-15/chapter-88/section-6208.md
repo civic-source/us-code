@@ -3,9 +3,10 @@ title: "Section 6208 - Limitations on judicial review"
 usc_title: 15
 usc_section: "6208"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 6208"
-generated_at: "2026-03-30T02:54:08.209Z"
+generated_at: "2026-11-23T20:26:04.387Z"
+status: "active"
 ---
 
 # § 6208. Limitations on judicial review
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:08.209Z"
 - **(c)**
   - **(1)** The requirements in section 6206 of this title with respect to publication and request for public comment shall not be construed to create any availability of judicial review under chapter 7 of title 5.
   - **(2)** Nothing in this section shall be construed to affect the availability of judicial review under laws referred to in section 6204 of this title .
+
+## Source Credit
+
+*([Pub. L. 103–438, § 9](https://www.govinfo.gov/link/plaw/103/public/438), Nov. 2, 1994, [108 Stat. 4602](https://www.govinfo.gov/link/statute/108/4602).)*

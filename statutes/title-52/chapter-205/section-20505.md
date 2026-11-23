@@ -3,9 +3,10 @@ title: "Section 20505 - Mail registration"
 usc_title: 52
 usc_section: "20505"
 chapter: 205
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "52 U.S.C. § 20505"
-generated_at: "2026-03-30T02:56:30.164Z"
+generated_at: "2026-11-23T20:27:36.968Z"
+status: "active"
 ---
 
 # § 20505. Mail registration
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:30.164Z"
     - **(B)** who is provided the right to vote otherwise than in person under section 20102(b)(2)(B)(ii) of this title ; or
     - **(C)** who is entitled to vote otherwise than in person under any other Federal law.
 - **(d)** If a notice of the disposition of a mail voter registration application under section 20507(a)(2) of this title is sent by nonforwardable mail and is returned undelivered, the registrar may proceed in accordance with section 20507(d) of this title .
+
+## Source Credit
+
+*([Pub. L. 103–31, § 6](https://www.govinfo.gov/link/plaw/103/public/31), May 20, 1993, [107 Stat. 79](https://www.govinfo.gov/link/statute/107/79).)*

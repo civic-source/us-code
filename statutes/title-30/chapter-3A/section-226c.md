@@ -3,9 +3,10 @@ title: "Section 226c - Reduction of royalties under existing leases"
 usc_title: 30
 usc_section: "226c"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 226c"
-generated_at: "2026-03-30T02:55:29.381Z"
+generated_at: "2026-11-23T20:26:34.929Z"
+status: "active"
 ---
 
 # § 226c. Reduction of royalties under existing leases
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:29.381Z"
   - **(2)** any production on a lease from an oil or gas deposit which was discovered after May 27, 1941 , by a well or wells drilled within the boundaries of the lease, and which is determined by the Secretary to be a new deposit; and
   - **(3)** any production on or allocated to a lease pursuant to an approved unit or cooperative agreement from an oil or gas deposit which was discovered after May 27, 1941 , on land committed to such agreement, and which is determined by the Secretary to be a new deposit, where such lease was included in such agreement at the time of discovery, or was included in a duly executed and filed application for the approval of such agreement at the time of discovery.
 
+
+## Source Credit
+
+*(Aug. 8, 1946, ch. 916, § 12, [60 Stat. 957](https://www.govinfo.gov/link/statute/60/957).)*

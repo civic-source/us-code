@@ -3,9 +3,10 @@ title: "Section 22905 - Grant conditions"
 usc_title: 49
 usc_section: "22905"
 chapter: 229
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 22905"
-generated_at: "2026-03-30T02:56:19.342Z"
+generated_at: "2026-11-23T20:27:34.835Z"
+status: "active"
 ---
 
 # § 22905. Grant conditions
@@ -61,3 +62,31 @@ generated_at: "2026-03-30T02:56:19.342Z"
   - **(2)** the Alaska Railroad or its contractors; or
   - **(3)** Amtrak’s access rights to railroad rights of way and facilities under current law.
 - **(f)** No grants shall be provided under this chapter for commuter rail passenger transportation (as defined in section 24102(3)).
+
+Buy America
+
+Operators Deemed Rail Carriers and Employers for Certain Purposes
+
+Grant Conditions
+
+Replacement of Existing Intercity Passenger Rail Service.—
+
+Collective bargaining agreement for intercity passenger rail projects
+
+Immediate replacement service.—
+
+Negotiations
+
+Arbitration
+
+Service commencement
+
+Subsequent replacement of service
+
+Inapplicability to Certain Rail Operations
+
+Limitation
+
+## Source Credit
+
+*(Added [Pub. L. 110–432, div. B, title III, § 301(a)](https://www.govinfo.gov/link/plaw/110/public/432), Oct. 16, 2008, [122 Stat. 4942](https://www.govinfo.gov/link/statute/122/4942), § 24405; amended [Pub. L. 114–94, div. A, title XI, § 11303(b)(1)(D)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1654](https://www.govinfo.gov/link/statute/129/1654); renumbered § 22905 and amended [Pub. L. 115–420, § 7(a)(1)](https://www.govinfo.gov/link/plaw/115/public/420), (b)(1)(B), (2)(C), Jan. 3, 2019, [132 Stat. 5445](https://www.govinfo.gov/link/statute/132/5445), 5446; [Pub. L. 117–58, div. B, title I, § 21301(j)(4)(D)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 693](https://www.govinfo.gov/link/statute/135/693).)*

@@ -3,9 +3,10 @@ title: "Section 1508 - Judicial review"
 usc_title: 10
 usc_section: "1508"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1508"
-generated_at: "2026-03-30T02:53:38.127Z"
+generated_at: "2026-11-23T20:25:51.362Z"
+status: "active"
 ---
 
 # § 1508. Judicial review
@@ -15,3 +16,13 @@ generated_at: "2026-03-30T02:53:38.127Z"
   - **(1)** A finding by a board appointed under section 1504 or 1505 of this title that a missing person is dead.
   - **(2)** A finding by a board appointed under section 1509 of this title that confirms that a missing person formerly declared dead is in fact dead.
 - **(c)** Appeals from a decision of the district court shall be taken to the appropriate United States court of appeals and to the Supreme Court as provided by law.
+
+Right of Review
+
+Findings for Which Judicial Review May Be Sought
+
+Subsequent Review
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. A, title V, § 569(b)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 348](https://www.govinfo.gov/link/statute/110/348).)*

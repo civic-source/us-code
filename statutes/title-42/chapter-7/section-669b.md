@@ -3,9 +3,10 @@ title: "Section 669b - Grants to States for access and visitation programs"
 usc_title: 42
 usc_section: "669b"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 669b"
-generated_at: "2026-03-30T02:56:10.887Z"
+generated_at: "2026-11-23T20:27:20.907Z"
+status: "active"
 ---
 
 # § 669b. Grants to States for access and visitation programs
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:10.887Z"
   - **(1)** may administer State programs funded with the grant, directly or through grants to or contracts with courts, local public agencies, or nonprofit private entities;
   - **(2)** shall not be required to operate such programs on a statewide basis; and
   - **(3)** shall monitor, evaluate, and report on such programs in accordance with regulations prescribed by the Secretary.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 469B, as added [Pub. L. 104–193, title III, § 391](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2258](https://www.govinfo.gov/link/statute/110/2258).)*

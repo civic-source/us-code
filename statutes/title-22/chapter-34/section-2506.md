@@ -3,9 +3,10 @@ title: "Section 2506 - Peace Corps employees"
 usc_title: 22
 usc_section: "2506"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2506"
-generated_at: "2026-03-30T02:55:05.370Z"
+generated_at: "2026-11-23T20:26:32.314Z"
+status: "active"
 ---
 
 # § 2506. Peace Corps employees
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:55:05.370Z"
     - **(D)** The term of any appointment or assignment to any position designated pursuant to subparagraph (A) may not exceed 5 years.
 - **(b)**
 - **(c)** In each country or area in which volunteers serve abroad, the President may appoint an employee or a volunteer as a Peace Corps representative to have direction of other employees of the Peace Corps abroad and to oversee the activities carried on under this chapter in such country or area. Unless a representative is a volunteer, the compensation, allowances and benefits, and other terms and conditions of service of each such representative, shall be the same as those of a person appointed, or assigned pursuant to paragraph (1) or (2) of subsection (a) of this section, except that any such representative may, notwithstanding any provision of law, be removed by the President in his discretion.
+
+## Source Credit
+
+*([Pub. L. 87–293, title I, § 7](https://www.govinfo.gov/link/plaw/87/public/293), Sept. 22, 1961, [75 Stat. 615](https://www.govinfo.gov/link/statute/75/615); [Pub. L. 87–793, § 1001](https://www.govinfo.gov/link/plaw/87/public/793) (l), Oct. 11, 1962, [76 Stat. 865](https://www.govinfo.gov/link/statute/76/865); [Pub. L. 88–200, § 4](https://www.govinfo.gov/link/plaw/88/public/200), Dec. 13, 1963, [77 Stat. 360](https://www.govinfo.gov/link/statute/77/360); [Pub. L. 89–134, § 4](https://www.govinfo.gov/link/plaw/89/public/134), Aug. 24, 1965, [79 Stat. 549](https://www.govinfo.gov/link/statute/79/549); [Pub. L. 91–352, § 5](https://www.govinfo.gov/link/plaw/91/public/352), July 24, 1970, [84 Stat. 465](https://www.govinfo.gov/link/statute/84/465); [Pub. L. 96–53, title III, § 302](https://www.govinfo.gov/link/plaw/96/public/53), Aug. 14, 1979, [93 Stat. 371](https://www.govinfo.gov/link/statute/93/371); [Pub. L. 96–465, title II](https://www.govinfo.gov/link/plaw/96/public/465), §§ 2202(b), 2205(9), Oct. 17, 1980, [94 Stat. 2157](https://www.govinfo.gov/link/statute/94/2157), 2160; [Pub. L. 98–473, title I, § 101(1)](https://www.govinfo.gov/link/plaw/98/public/473) [title V, § 541(a)], Oct. 12, 1984, [98 Stat. 1884](https://www.govinfo.gov/link/statute/98/1884), 1903; [Pub. L. 99–83, title XI, § 1103(a)](https://www.govinfo.gov/link/plaw/99/public/83), Aug. 8, 1985, [99 Stat. 272](https://www.govinfo.gov/link/statute/99/272); [Pub. L. 112–57](https://www.govinfo.gov/link/plaw/112/public/57), §§ 5(1), 6, Nov. 21, 2011, [125 Stat. 744](https://www.govinfo.gov/link/statute/125/744); [Pub. L. 115–256, title I, § 104](https://www.govinfo.gov/link/plaw/115/public/256), Oct. 9, 2018, [132 Stat. 3653](https://www.govinfo.gov/link/statute/132/3653).)*

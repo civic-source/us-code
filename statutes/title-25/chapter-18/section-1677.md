@@ -3,9 +3,10 @@ title: "Section 1677 - Nuclear resource development health hazards"
 usc_title: 25
 usc_section: "1677"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1677"
-generated_at: "2026-03-30T02:54:52.827Z"
+generated_at: "2026-11-23T20:26:25.526Z"
+status: "active"
 ---
 
 # § 1677. Nuclear resource development health hazards
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:52.827Z"
   - **(1)** as a result of employment in or near a uranium mine or mill, suffers from a work related illness or condition;
   - **(2)** is eligible to receive diagnosis and treatment services from a Service facility; and
   - **(3)** by reason of such Indian’s employment, is entitled to medical care at the expense of such mine or mill operator;
+
+## Source Credit
+
+*([Pub. L. 94–437, title VIII, § 807](https://www.govinfo.gov/link/plaw/94/public/437), formerly title VII, § 707, as added [Pub. L. 96–537, § 8(b)](https://www.govinfo.gov/link/plaw/96/public/537), Dec. 17, 1980, [94 Stat. 3179](https://www.govinfo.gov/link/statute/94/3179); amended [Pub. L. 102–285, § 10(b)](https://www.govinfo.gov/link/plaw/102/public/285), May 18, 1992, [106 Stat. 172](https://www.govinfo.gov/link/statute/106/172); renumbered title VIII, § 807, and amended [Pub. L. 102–573, title VII, § 701(a)](https://www.govinfo.gov/link/plaw/102/public/573), (b), title VIII, § 813(b), Oct. 29, 1992, [106 Stat. 4572](https://www.govinfo.gov/link/statute/106/4572), 4590.)*

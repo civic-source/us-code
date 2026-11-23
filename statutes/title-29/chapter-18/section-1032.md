@@ -3,9 +3,10 @@ title: "Section 1032 - Notice and disclosure requirements with respect to lump s
 usc_title: 29
 usc_section: "1032"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1032"
-generated_at: "2026-03-30T02:55:18.705Z"
+generated_at: "2026-11-23T20:26:37.916Z"
+status: "active"
 ---
 
 # § 1032. Notice and disclosure requirements with respect to lump sums
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:18.705Z"
 - **(d)** Not later than 90 days after the conclusion of the limited period during which participants and beneficiaries in a plan may accept a plan’s offer of a lump sum, a plan sponsor shall submit a report to the Secretary and the Director of the Pension Benefit Guaranty Corporation that includes the number of participants and beneficiaries who accepted the lump sum offer and such other information as the Secretary may require.
 - **(e)** The Secretary shall make the information provided in the notice to the Secretary required under subsection (a)(2) and in the post-offer reports submitted under subsection (d) publicly available in a form that protects the confidentiality of the information provided.
 - **(f)** Not later than the last day of the second calendar year after the calendar year including the applicability date of the final rules under section 342(e) of the SECURE 2.0 Act of 2022, and every 2 years thereafter, so long as the Secretary has received notices and post-offer reports under subsections (c) and (d) of this section, the Secretary shall submit to Congress a report that summarizes such notices and post-offer reports during the applicable reporting period. The applicable reporting period begins on the first day of the second calendar year preceding the calendar year that the report is submitted to Congress and ends on the last day of the calendar year preceding the calendar year the report is due.
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 113](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 117–328, div. T, title III, § 342(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5376](https://www.govinfo.gov/link/statute/136/5376).)*

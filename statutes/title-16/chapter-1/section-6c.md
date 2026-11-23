@@ -3,9 +3,10 @@ title: "Section 6c - Admission, entrance, and recreation fees"
 usc_title: 16
 usc_section: "6c"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6c"
-generated_at: "2026-03-30T02:54:22.811Z"
+generated_at: "2026-11-23T20:26:19.906Z"
+status: "active"
 ---
 
 # § 460l–6c. Admission, entrance, and recreation fees
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:22.811Z"
   - **(1)** admission or entrance fees at national monuments, national volcanic monuments, national scenic areas, and areas of concentrated public use administered by the Secretary; and
   - **(2)** recreation use fees at lands administered by the Secretary in connection with the use of specialized outdoor recreation sites, equipment, services, and facilities, including visitors’ centers, picnic tables, boat launching facilities, and campgrounds.
 - **(c)** The amount of the admission, entrance, and recreation fees authorized to be imposed under this section shall be determined by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 103–66, title I, § 1401](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 331](https://www.govinfo.gov/link/statute/107/331).)*

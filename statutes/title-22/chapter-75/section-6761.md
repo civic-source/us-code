@@ -3,9 +3,10 @@ title: "Section 6761 - Penalties"
 usc_title: 22
 usc_section: "6761"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6761"
-generated_at: "2026-03-30T02:55:05.433Z"
+generated_at: "2026-11-23T20:26:32.632Z"
+status: "active"
 ---
 
 # § 6761. Penalties
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:05.433Z"
     - **(A)** after the order making the assessment has become a final order and if such person does not file a petition for judicial review of the order in accordance with paragraph (5), or
     - **(B)** after a court in an action brought under paragraph (5) has entered a final judgment in favor of the United States National Authority,
 - **(b)** Any person who knowingly violates any provision of section 6726 or 6745 of this title, shall, in addition to or in lieu of any civil penalty which may be imposed under subsection (a) for such violation, be fined under title 18, imprisoned for not more than one year, or both.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. I, title V, § 501](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–883](https://www.govinfo.gov/link/statute/112/2681).)*

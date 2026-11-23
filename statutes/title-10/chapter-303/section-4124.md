@@ -3,9 +3,10 @@ title: "Section 4124 - Centers for Science, Technology, and Engineering Partners
 usc_title: 10
 usc_section: "4124"
 chapter: 303
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 4124"
-generated_at: "2026-03-30T02:53:38.202Z"
+generated_at: "2026-11-23T20:25:51.909Z"
+status: "active"
 ---
 
 # § 4124. Centers for Science, Technology, and Engineering Partnership
@@ -62,3 +63,23 @@ generated_at: "2026-03-30T02:53:38.202Z"
   - **(1)** The term “capabilities”, with respect to a Center for Science, Technology, and Engineering Partnership, means the facilities, equipment, personnel, intellectual property, and other assets that support the core competencies of the Center.
   - **(2)** The term “national technology and industrial base” has the meaning given that term in section 4801 of this title .
   - **(3)** The term “science and technology reinvention laboratory” means a science and technology reinvention laboratory designated under section 4121(b) of this title .
+
+Designation
+
+Public-private Partnerships
+
+Private Sector Use of Excess Capacity
+
+Crediting of Amounts for Performance
+
+Availability of Excess Capacities to Private-sector Partners
+
+Use of Partnership Intermediaries to Promote Defense Research and Education
+
+Construction of Provision
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 114–92, div. A, title II, § 211(a)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 764](https://www.govinfo.gov/link/statute/129/764), § 2368; amended [Pub. L. 115–232, div. A, title II, § 231](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1690](https://www.govinfo.gov/link/statute/132/1690); [Pub. L. 116–92, div. A, title XVII, § 1731(a)(45)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1814](https://www.govinfo.gov/link/statute/133/1814); renumbered § 4124 and amended [Pub. L. 116–283, div. A, title XVIII, § 1843(b)(1)](https://www.govinfo.gov/link/plaw/116/public/283), (d), as added [Pub. L. 117–81, div. A, title XVII, § 1701(u)(4)(A)](https://www.govinfo.gov/link/plaw/117/public/81), (C), Dec. 27, 2021, [135 Stat. 2153](https://www.govinfo.gov/link/statute/135/2153); [Pub. L. 116–283, div. A, title XVIII](https://www.govinfo.gov/link/plaw/116/public/283), §§ 1844(b)(1), (c), 1883(b)(2), Jan. 1, 2021, [134 Stat. 4245](https://www.govinfo.gov/link/statute/134/4245), 4246, 4294; [Pub. L. 117–81, div. A, title II, § 215(d)(12)](https://www.govinfo.gov/link/plaw/117/public/81), title XVII, § 1701(u)(5)(B), Dec. 27, 2021, [135 Stat. 1594](https://www.govinfo.gov/link/statute/135/1594), 2154; [Pub. L. 118–31, div. A, title II, § 214](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 184](https://www.govinfo.gov/link/statute/137/184).)*

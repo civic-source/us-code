@@ -3,9 +3,10 @@ title: "Section 6645 - National evaluation and information dissemination"
 usc_title: 20
 usc_section: "6645"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 6645"
-generated_at: "2026-03-30T02:54:48.202Z"
+generated_at: "2026-11-23T20:26:14.857Z"
+status: "active"
 ---
 
 # § 6645. National evaluation and information dissemination
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:48.202Z"
   - **(2)** make such findings publicly available, including on the websites of the Department and the Institute of Education Sciences;
   - **(3)** submit such findings to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and the Workforce of the House of Representatives; and
   - **(4)** make publicly available, in a manner consistent with paragraph (2), best practices for implementing evidence-based activities under this subpart, including evidence-based activities, defined for the purpose of this paragraph as activities meeting the requirements of section 7801(21)(A)(i) of this title .
+
+## Source Credit
+
+*([Pub. L. 89–10, title II, § 2225](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title II, § 2002](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1943](https://www.govinfo.gov/link/statute/129/1943).)*

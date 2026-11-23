@@ -3,9 +3,10 @@ title: "Section 4071b - Participants"
 usc_title: 22
 usc_section: "4071b"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4071b"
-generated_at: "2026-03-30T02:55:05.405Z"
+generated_at: "2026-11-23T20:26:32.512Z"
+status: "active"
 ---
 
 # § 4071b. Participants
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:05.405Z"
 - **(b)** Members of the Service who were participants in the Foreign Service Retirement and Disability System on or before December 31, 1983 , and who have not had a break in service in excess of one year since that date, are not made participants in the System by this section, without regard to whether they are subject to title II of the Social Security Act [ 42 U.S.C. 401 et seq.].
 - **(c)** Individuals who become members of the Service after having completed at least 5 years of civilian service creditable under part I of this subchapter, subchapter III of chapter 83 of title 5 (the Civil Service Retirement System), or title II of the Central Intelligence Agency Retirement Act ( 50 U.S.C. 2011 et seq.) (determined without regard to any deposit or redeposit requirement under any such part, subchapter, or title, any requirement that the individual become subject to such part, subchapter, or title after performing the service involved, or any requirement that the individual give notice in writing to the official by whom such individual is paid of such individual’s desire to become subject to such part, subchapter, or title) are not participants in the System, except to the extent provided for under title III of the Federal Employees’ Retirement System Act of 1986 pursuant to an election under such title to become subject to this part (under regulations issued by the Secretary of State pursuant to section 4071i of this title ).
 - **(d)** The Secretary may exclude from the operation of this part any member of the Foreign Service, or group of members, whose employment is temporary or intermittent, except a member whose employment is part-time career appointment or career candidate appointment under section 3946 of this title .
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 853](https://www.govinfo.gov/link/plaw/96/public/465), as added [Pub. L. 99–335, title IV, § 415](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 616](https://www.govinfo.gov/link/statute/100/616); amended [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 103–178, title II, § 204(b)(1)](https://www.govinfo.gov/link/plaw/103/public/178), Dec. 3, 1993, [107 Stat. 2033](https://www.govinfo.gov/link/statute/107/2033).)*

@@ -3,9 +3,10 @@ title: "Section 4323 - Enforcement of rights with respect to a State or private 
 usc_title: 38
 usc_section: "4323"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 4323"
-generated_at: "2026-03-30T02:55:53.518Z"
+generated_at: "2026-11-23T20:27:01.938Z"
+status: "active"
 ---
 
 # § 4323. Enforcement of rights with respect to a State or private employer
@@ -52,3 +53,27 @@ generated_at: "2026-03-30T02:55:53.518Z"
   - **(1)** No fees or court costs may be charged or taxed against any person claiming rights under this chapter.
   - **(2)** In any action or proceeding to enforce a provision of this chapter by a person under subsection (a)(3) who obtained private counsel for such action or proceeding, the court shall award any such person who prevails in such action or proceeding reasonable attorney fees, expert witness fees, and other litigation expenses.
 - **(i)** In this section, the term “private employer” includes a political subdivision of a State.
+
+Action for Relief
+
+Jurisdiction
+
+Venue
+
+Remedies
+
+Equity Powers
+
+Standing
+
+Respondent
+
+Fees, Court Costs
+
+Definition
+
+Inapplicability of State Statute of Limitations
+
+## Source Credit
+
+*(Added [Pub. L. 103–353, § 2(a)](https://www.govinfo.gov/link/plaw/103/public/353), Oct. 13, 1994, [108 Stat. 3165](https://www.govinfo.gov/link/statute/108/3165); amended [Pub. L. 104–275, title III, § 311(10)](https://www.govinfo.gov/link/plaw/104/public/275), Oct. 9, 1996, [110 Stat. 3335](https://www.govinfo.gov/link/statute/110/3335); [Pub. L. 105–368, title II, § 211(a)](https://www.govinfo.gov/link/plaw/105/public/368), Nov. 11, 1998, [112 Stat. 3329](https://www.govinfo.gov/link/statute/112/3329); [Pub. L. 110–389, title III](https://www.govinfo.gov/link/plaw/110/public/389), §§ 311(d)(1), (e)(1), (f)(3), 315, Oct. 10, 2008, [122 Stat. 4162–4164](https://www.govinfo.gov/link/statute/122/4162), 4167; [Pub. L. 118–210, title II, § 221(c)](https://www.govinfo.gov/link/plaw/118/public/210), (d), (e)(3), Jan. 2, 2025, [138 Stat. 2778](https://www.govinfo.gov/link/statute/138/2778), 2779.)*

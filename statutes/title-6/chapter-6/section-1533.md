@@ -3,9 +3,10 @@ title: "Section 1533 - Improving cybersecurity in the health care industry"
 usc_title: 6
 usc_section: "1533"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 1533"
-generated_at: "2026-03-30T02:53:09.511Z"
+generated_at: "2026-11-23T20:25:34.976Z"
+status: "active"
 ---
 
 # § 1533. Improving cybersecurity in the health care industry
@@ -57,3 +58,7 @@ generated_at: "2026-03-30T02:53:09.511Z"
   - **(3)** Nothing in this section shall be construed to subject a health care industry stakeholder to liability for choosing not to engage in the voluntary activities authorized or guidelines developed under this subsection.
 - **(e)** In carrying out the activities under this section, the Secretary may incorporate activities that are ongoing as of the day before December 18, 2015 and that are consistent with the objectives of this section.
 - **(f)** Nothing in this section shall be construed to limit the antitrust exemption under section 1503(e) of this title or the protection from liability under section 1505 of this title .
+
+## Source Credit
+
+*([Pub. L. 114–113, div. N, title IV, § 405](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2981](https://www.govinfo.gov/link/statute/129/2981).)*

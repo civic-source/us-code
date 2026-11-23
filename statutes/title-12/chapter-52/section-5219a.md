@@ -3,9 +3,10 @@ title: "Section 5219a - Home Affordable Modification Program guidelines"
 usc_title: 12
 usc_section: "5219a"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5219a"
-generated_at: "2026-03-30T02:53:53.525Z"
+generated_at: "2026-11-23T20:25:59.451Z"
+status: "active"
 ---
 
 # § 5219a. Home Affordable Modification Program guidelines
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:53.525Z"
 - **(c)** The Secretary shall make publicly available, including by posting on a World Wide Web site of the Secretary—
   - **(1)** the Secretary’s methodology and computer model, including all formulae used in such computer model, used for calculating net present value of a mortgage that is used by the calculator established pursuant to subsection (b); and
   - **(2)** all non-proprietary variables used in such net present value analysis.
+
+## Source Credit
+
+*([Pub. L. 111–203, title XIV, § 1482](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2203](https://www.govinfo.gov/link/statute/124/2203).)*

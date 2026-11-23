@@ -3,9 +3,10 @@ title: "Section 996 - Rules for allocation in the case of distributions and loss
 usc_title: 26
 usc_section: "996"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 996"
-generated_at: "2026-03-30T02:55:27.753Z"
+generated_at: "2026-11-23T20:26:46.006Z"
+status: "active"
 ---
 
 # § 996. Rules for allocation in the case of distributions and losses
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:27.753Z"
   - **(2)** Earnings and profits deemed distributed under section 995(b) for a taxable year shall constitute previously taxed income for such year.
   - **(3)** The earnings and profits for a taxable year which are described in neither paragraph (1) nor (2) shall constitute the other earnings and profits for such year.
 - **(g)** In the case of a shareholder who is a nonresident alien individual or a foreign corporation, trust, or estate, gains referred to in section 995(c) and all distributions out of accumulated DISC income including deemed distributions shall be treated as gains and distributions which are effectively connected with the conduct of a trade or business conducted through a permanent establishment of such shareholder within the United States and which are derived from sources within the United States.
+
+## Source Credit
+
+*(Added [Pub. L. 92–178, title V, § 501](https://www.govinfo.gov/link/plaw/92/public/178) Dec. 10, 1971, [85 Stat. 547](https://www.govinfo.gov/link/statute/85/547); amended [Pub. L. 94–455, title XI, § 1101(e)](https://www.govinfo.gov/link/plaw/94/public/455), title XIX, §§ 1901(b)(3)(I), Oct. 4, 1976, [90 Stat. 1659](https://www.govinfo.gov/link/statute/90/1659), 1793; [Pub. L. 95–600, title VII, § 703(i)(3)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2940](https://www.govinfo.gov/link/statute/92/2940); [Pub. L. 98–369, div. A, title VIII, § 801(d)(10)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 997](https://www.govinfo.gov/link/statute/98/997); [Pub. L. 99–514, title XVIII, § 1876(k)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2900](https://www.govinfo.gov/link/statute/100/2900).)*

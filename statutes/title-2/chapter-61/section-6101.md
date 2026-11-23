@@ -3,9 +3,10 @@ title: "Section 6101 - Transfer of funds from appropriations account of the Offi
 usc_title: 2
 usc_section: "6101"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 6101"
-generated_at: "2026-03-30T02:53:04.838Z"
+generated_at: "2026-11-23T20:25:29.066Z"
+status: "active"
 ---
 
 # § 6101. Transfer of funds from appropriations account of the Office of the Vice President and the Offices of the Secretaries for the Majority and Minority to the Senate contingent fund
@@ -19,3 +20,19 @@ generated_at: "2026-03-30T02:53:04.838Z"
   - **(2)** The Secretary for the Majority or the Secretary for the Minority may incur such expenses as may be necessary or appropriate. Expenses incurred by the Secretary for the Majority or the Secretary for the Minority shall be paid from the amount transferred under paragraph (1) by the Secretary for the Majority or the Secretary for the Minority and upon vouchers approved by the Secretary for the Majority or the Secretary for the Minority, as applicable.
   - **(3)** The Secretary of the Senate may advance such sums as may be necessary to defray expenses incurred in carrying out paragraphs (1) and (2).
 - **(c)** This section shall apply to fiscal year 2005 and each fiscal year thereafter.
+
+office of the vice president
+
+Salaries, Officers and Employees
+
+miscellaneous items
+
+offices of the secretaries for the majority and minority
+
+Salaries, Officers and Employees
+
+miscellaneous items
+
+## Source Credit
+
+*([Pub. L. 108–447, div. G, title I, § 5](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3169](https://www.govinfo.gov/link/statute/118/3169).)*

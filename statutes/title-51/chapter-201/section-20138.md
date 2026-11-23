@@ -3,9 +3,10 @@ title: "Section 20138 - Insurance and indemnification"
 usc_title: 51
 usc_section: "20138"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 20138"
-generated_at: "2026-03-30T02:56:28.703Z"
+generated_at: "2026-11-23T20:27:37.449Z"
+status: "active"
 ---
 
 # § 20138. Insurance and indemnification
@@ -21,3 +22,44 @@ generated_at: "2026-03-30T02:56:28.703Z"
   - **(2)** control of or assistance in the defense by the United States, at its election, of that suit or claim.
 - **(e)** No payment may be made under subsection (c) unless the Administrator or the Administrator’s designee certifies that the amount is just and reasonable.
 - **(f)** Upon the approval by the Administrator, payments under subsection (c) may be made, at the Administrator’s election, either from funds available for research and development not otherwise obligated or from funds appropriated for such payments.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 20138 | 42 U.S.C. 2458b . | Pub. L. 85–568, title III, § 308 , as added Pub. L. 96–48, § 6(b)(2) , Aug. 8, 1979 , 93 Stat. 348 . |
+
+
+Definitions
+
+Space vehicle
+
+Third party
+
+User
+
+Authorization
+
+Indemnification
+
+Terms of Indemnification Agreement
+
+Certification of Just and Reasonable Amount
+
+Payments
+
+Historical and Revision Notes
+
+20138
+
+42 U.S.C. 2458b
+
+Pub. L. 85–568, title III, § 308
+
+Pub. L. 96–48, § 6(b)(2)
+
+Aug. 8, 1979
+
+93 Stat. 348
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3344](https://www.govinfo.gov/link/statute/124/3344).)*

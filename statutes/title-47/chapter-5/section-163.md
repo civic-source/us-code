@@ -3,9 +3,10 @@ title: "Section 163 - Communications marketplace report"
 usc_title: 47
 usc_section: "163"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 163"
-generated_at: "2026-03-30T02:56:24.494Z"
+generated_at: "2026-11-23T20:27:28.824Z"
+status: "active"
 ---
 
 # § 163. Communications marketplace report
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:24.494Z"
   - **(1)** In assessing the state of competition under subsection (b)(1), the Commission shall consider all forms of competition, including the effect of intermodal competition, facilities-based competition, and competition from new and emergent communications services, including the provision of content and communications using the Internet.
   - **(2)** In assessing the state of deployment under subsection (b)(2), the Commission shall compile a list of geographical areas that are not served by any provider of advanced telecommunications capability.
   - **(3)** In assessing the state of competition under subsection (b)(1) and regulatory barriers under subsection (b)(3), the Commission shall consider market entry barriers for entrepreneurs and other small businesses in the communications marketplace in accordance with the national policy under section 257(b) of this title .
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title I, § 13, as added [Pub. L. 115–141, div. P, title IV, § 401](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1087](https://www.govinfo.gov/link/statute/132/1087).)*

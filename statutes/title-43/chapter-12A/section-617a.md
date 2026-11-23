@@ -3,9 +3,10 @@ title: "Section 617a - “Colorado River Dam Fund”"
 usc_title: 43
 usc_section: "617a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 617a"
-generated_at: "2026-03-30T02:55:57.456Z"
+generated_at: "2026-11-23T20:27:06.239Z"
+status: "active"
 ---
 
 # § 617a. “Colorado River Dam Fund”
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:57.456Z"
 - **(c)** Moneys in the fund advanced under subdivision (b) shall be available only for expenditures for construction and the payment of interest, during construction, upon the amounts so advanced. No expenditures out of the fund shall be made for operation and maintenance except from appropriations therefor.
 - **(d)** The Secretary of the Treasury shall charge the fund as of June 30 in each year with such amount as may be necessary for the payment of interest on advances made under subdivision (b) at the rate of 4 per centum per annum accrued during the year upon the amounts so advanced and remaining unpaid, except that if the fund is insufficient to meet the payment of interest the Secretary of the Treasury may, in his discretion, defer any part of such payment, and the amount so deferred shall bear interest at the rate of 4 per centum per annum until paid.
 - **(e)** The Secretary of the Interior shall certify to the Secretary of the Treasury, at the close of each fiscal year, the amount of money in the fund in excess of the amount necessary for construction, operation, and maintenance, and payment of interest. Upon receipt of each such certificate the Secretary of the Treasury is authorized and directed to charge the fund with the amount so certified as repayment of the advances made under subdivision (b), which amount shall be covered into the Treasury to the credit of miscellaneous receipts.
+
+## Source Credit
+
+*(Dec. 21, 1928, ch. 42, § 2, [45 Stat. 1057](https://www.govinfo.gov/link/statute/45/1057); [Pub. L. 98–381, title I, § 103(a)(1)](https://www.govinfo.gov/link/plaw/98/public/381), Aug. 17, 1984, [98 Stat. 1334](https://www.govinfo.gov/link/statute/98/1334).)*

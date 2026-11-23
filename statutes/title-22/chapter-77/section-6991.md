@@ -3,9 +3,10 @@ title: "Section 6991 - Accession of Taiwan to the WTO"
 usc_title: 22
 usc_section: "6991"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6991"
-generated_at: "2026-03-30T02:55:05.434Z"
+generated_at: "2026-11-23T20:26:32.638Z"
+status: "active"
 ---
 
 # § 6991. Accession of Taiwan to the WTO
@@ -14,3 +15,7 @@ It is the sense of the Congress that—
 
   - **(1)** immediately upon approval by the General Council of the WTO of the terms and conditions of the accession of the People’s Republic of China to the WTO, the United States representative to the WTO should request that the General Council of the WTO consider Taiwan’s accession to the WTO as the next order of business of the Council during the same session; and
   - **(2)** the United States should be prepared to aggressively counter any effort by any WTO member, upon the approval of the General Council of the WTO of the terms and conditions of the accession of the People’s Republic of China to the WTO, to block the accession of Taiwan to the WTO.
+
+## Source Credit
+
+*([Pub. L. 106–286, div. B, title VI, § 601](https://www.govinfo.gov/link/plaw/106/public/286), Oct. 10, 2000, [114 Stat. 906](https://www.govinfo.gov/link/statute/114/906).)*

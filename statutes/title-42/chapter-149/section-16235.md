@@ -3,9 +3,10 @@ title: "Section 16235 - Renewable energy in public buildings"
 usc_title: 42
 usc_section: "16235"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16235"
-generated_at: "2026-03-30T02:56:11.474Z"
+generated_at: "2026-11-23T20:27:23.632Z"
+status: "active"
 ---
 
 # § 16235. Renewable energy in public buildings
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.474Z"
 - **(c)** As part of the application for awards under this section, the Secretary shall require all applicants—
   - **(1)** to demonstrate a continuing commitment to the use of solar and other renewable energy sources in buildings they own or operate; and
   - **(2)** to state how they expect any award to further their transition to the significant use of renewable energy.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 935](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 873](https://www.govinfo.gov/link/statute/119/873).)*

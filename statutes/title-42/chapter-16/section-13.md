@@ -3,9 +3,10 @@ title: "Section 13 - Tribal colleges and universities program"
 usc_title: 42
 usc_section: "13"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13"
-generated_at: "2026-03-30T02:56:11.128Z"
+generated_at: "2026-11-23T20:27:21.952Z"
+status: "active"
 ---
 
 # § 1862p–13. Tribal colleges and universities program
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.128Z"
   - **(3)** A Tribal College or University seeking an award under this subsection, or consortia thereof, may partner with an institution of higher education or nonprofit organization with demonstrated expertise in academic program development.
   - **(4)** In carrying out this subsection, the Director shall consult and cooperate with the programs and policies of other relevant Federal agencies to avoid duplication with and enhance the effectiveness of the program under this subsection.
   - **(5)** There are authorized to be appropriated to the Director $2,000,000 in each of fiscal years 2023 through 2027 to carry out this subsection.
+
+## Source Credit
+
+*([Pub. L. 111–358, title V, § 525](https://www.govinfo.gov/link/plaw/111/public/358), Jan. 4, 2011, [124 Stat. 4019](https://www.govinfo.gov/link/statute/124/4019); [Pub. L. 117–167, div. B, title V, § 10525(a)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1625](https://www.govinfo.gov/link/statute/136/1625).)*

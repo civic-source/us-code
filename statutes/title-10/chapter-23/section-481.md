@@ -3,9 +3,10 @@ title: "Section 481 - Racial and ethnic issues; gender issues: surveys"
 usc_title: 10
 usc_section: "481"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 481"
-generated_at: "2026-03-30T02:53:38.060Z"
+generated_at: "2026-11-23T20:25:50.962Z"
+status: "active"
 ---
 
 # § 481. Racial and ethnic issues; gender issues: surveys
@@ -39,3 +40,25 @@ generated_at: "2026-03-30T02:53:38.060Z"
     - **(C)** The Secretary shall notify Congress of a determination under subparagraph (A) not later than 30 days after the date on which the Secretary makes such determination.
 - **(e)** Upon the completion of a survey under this section, the Secretary shall submit to Congress a report containing the results of the survey.
 - **(f)** This section does not apply to the Coast Guard.
+
+In General
+
+Armed Forces Workplace and Equal Opportunity Surveys
+
+Armed Forces Workplace and Gender Relations Surveys
+
+When Surveys Required
+
+Reports to Congress
+
+Inapplicability to Coast Guard
+
+Requirement for Report
+
+Matters To Be Included
+
+Time for Report
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title V, § 554(a)(1)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2773](https://www.govinfo.gov/link/statute/108/2773), § 451; renumbered § 481 and amended [Pub. L. 104–201, div. A, title V, § 571(c)(1)](https://www.govinfo.gov/link/plaw/104/public/201), title XI, § 1121(a), Sept. 23, 1996, [110 Stat. 2532](https://www.govinfo.gov/link/statute/110/2532), 2687; [Pub. L. 107–314, div. A, title V, § 561(a)(1)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2553](https://www.govinfo.gov/link/statute/116/2553); [Pub. L. 112–239, div. A, title V, § 570](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1752](https://www.govinfo.gov/link/statute/126/1752); [Pub. L. 116–92, div. A, title V, § 591(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1414](https://www.govinfo.gov/link/statute/133/1414); [Pub. L. 116–283, div. A, title V, § 552(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3631](https://www.govinfo.gov/link/statute/134/3631); [Pub. L. 118–31, div. A, title V, § 591](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 286](https://www.govinfo.gov/link/statute/137/286).)*

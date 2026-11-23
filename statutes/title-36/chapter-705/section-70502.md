@@ -3,9 +3,10 @@ title: "Section 70502 - Purposes"
 usc_title: 36
 usc_section: "70502"
 chapter: 705
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 70502"
-generated_at: "2026-03-30T02:55:44.699Z"
+generated_at: "2026-11-23T20:26:58.899Z"
+status: "active"
 ---
 
 # § 70502. Purposes
@@ -20,3 +21,20 @@ The purposes of the corporation are—
     - **(D)** to facilitate the cultivation and diffusion of knowledge and understanding of the law and the promotion of the study of the law and the science of jurisprudence and research in jurisprudence, through the maintenance of a law library, the establishment of seminars, lectures, and studies devoted to the law, and the publication of addresses, essays, treatises, reports, and other literary works by students, practitioners, and teachers of the law; and
     - **(E)** to provide for the acquisition, preservation, and exhibition of rare books and documents, sculptures, paintings, and other objects of art and historical interest relating to the law, the courts, and the legal profession; and
   - **(3)** to do any other acts necessary or incident to the accomplishment of these purposes.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 70502 | 36:573. | Aug. 24, 1954, ch. 911, § 3 , 68 Stat. 797 . |
+
+
+Historical and Revision Notes
+
+70502
+
+Aug. 24, 1954, ch. 911, § 3
+
+68 Stat. 797
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1351](https://www.govinfo.gov/link/statute/112/1351).)*

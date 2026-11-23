@@ -3,9 +3,10 @@ title: "Section 336 - Broadcast spectrum flexibility"
 usc_title: 47
 usc_section: "336"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 336"
-generated_at: "2026-03-30T02:56:24.509Z"
+generated_at: "2026-11-23T20:27:28.887Z"
+status: "active"
 ---
 
 # § 336. Broadcast spectrum flexibility
@@ -127,3 +128,41 @@ generated_at: "2026-03-30T02:56:24.509Z"
   - **(1)** The term “advanced television services” means television services provided using digital or other advanced technology as further defined in the opinion, report, and order of the Commission entitled “Advanced Television Systems and Their Impact Upon the Existing Television Broadcast Service”, MM Docket 87–268, adopted September 17, 1992 , and successor proceedings.
   - **(2)** The term “designated frequency” means each of the frequencies designated by the Commission for licenses for advanced television services.
   - **(3)** The term “high definition television” refers to systems that offer approximately twice the vertical and horizontal resolution of receivers generally available on February 8, 1996 , as further defined in the proceedings described in paragraph (1) of this subsection.
+
+Definitions
+
+Purpose
+
+Rulemaking.—
+
+In general
+
+Requirements.—
+
+In general
+
+Considerations
+
+Applicability of license
+
+Reporting
+
+Rule of Construction
+
+Pair Assignment Required
+
+Eligible Transition Licensee or Permittee
+
+Requirements on Licensee or Permittee.—
+
+Construction deadline
+
+Prohibition of analog operation using digital pair
+
+Relief Restricted
+
+“Congress finds the following:
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title III, § 336, as added [Pub. L. 104–104, title II, § 201](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 107](https://www.govinfo.gov/link/statute/110/107); [Pub. L. 106–113, div. B, § 1000(a)(9) [title V, § 5008(c)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–595; [Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 143(a)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–235; [Pub. L. 115–141, div. P, title IV, § 402(i)(6)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1090](https://www.govinfo.gov/link/statute/132/1090).)*

@@ -3,9 +3,10 @@ title: "Section 11212 - Eligibility; plan requirements"
 usc_title: 34
 usc_section: "11212"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 11212"
-generated_at: "2026-03-30T02:55:33.278Z"
+generated_at: "2026-11-23T20:26:50.518Z"
+status: "active"
 ---
 
 # § 11212. Eligibility; plan requirements
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:55:33.278Z"
     - **(B)** the objectives of such services; and
     - **(C)** the types of information and training to be provided to individuals providing such services to runaway and homeless youth; and
   - **(2)** an assurance that in providing such services the applicant shall conduct outreach activities for runaway and homeless youth.
+
+## Source Credit
+
+*([Pub. L. 93–415, title III, § 312](https://www.govinfo.gov/link/plaw/93/public/415), Sept. 7, 1974, [88 Stat. 1130](https://www.govinfo.gov/link/statute/88/1130); [Pub. L. 95–115, § 7(a)(2)](https://www.govinfo.gov/link/plaw/95/public/115), (3), Oct. 3, 1977, [91 Stat. 1058](https://www.govinfo.gov/link/statute/91/1058); [Pub. L. 96–509, § 18(d)](https://www.govinfo.gov/link/plaw/96/public/509), Dec. 8, 1980, [94 Stat. 2762](https://www.govinfo.gov/link/statute/94/2762); [Pub. L. 98–473, title II, § 652](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2123](https://www.govinfo.gov/link/statute/98/2123); [Pub. L. 100–690, title VII, § 7271(c)(1)](https://www.govinfo.gov/link/plaw/100/public/690) –(3), Nov. 18, 1988, [102 Stat. 4453](https://www.govinfo.gov/link/statute/102/4453); [Pub. L. 102–586, § 3(c)](https://www.govinfo.gov/link/plaw/102/public/586), Nov. 4, 1992, [106 Stat. 5019](https://www.govinfo.gov/link/statute/106/5019); [Pub. L. 106–71, § 3(c)](https://www.govinfo.gov/link/plaw/106/public/71), Oct. 12, 1999, [113 Stat. 1036](https://www.govinfo.gov/link/statute/113/1036); [Pub. L. 108–96, title I](https://www.govinfo.gov/link/plaw/108/public/96), §§ 105, 106, 109, Oct. 10, 2003, [117 Stat. 1168](https://www.govinfo.gov/link/statute/117/1168), 1169; [Pub. L. 110–378, § 3(b)](https://www.govinfo.gov/link/plaw/110/public/378), Oct. 8, 2008, [122 Stat. 4069](https://www.govinfo.gov/link/statute/122/4069).)*

@@ -3,12 +3,17 @@ title: "Section 2106 - Assistance to tribes or individuals during Minerals Agree
 usc_title: 25
 usc_section: "2106"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 2106"
-generated_at: "2026-03-30T02:54:52.835Z"
+generated_at: "2026-11-23T20:26:25.573Z"
+status: "active"
 ---
 
 # § 2106. Assistance to tribes or individuals during Minerals Agreement negotiations
 
 In carrying out the obligations of the United States, the Secretary shall ensure that upon the request of an Indian tribe or individual Indian and to the extent of his available resources, such tribe or individual Indian shall have available advice, assistance, and information during the negotiation of a Minerals Agreement. The Secretary may fulfill this responsibility either directly through the use of Federal officials and resources or indirectly by providing financial assistance to the Indian tribe or individual Indian to secure independent assistance.
 
+
+## Source Credit
+
+*([Pub. L. 97–382, § 7](https://www.govinfo.gov/link/plaw/97/public/382), Dec. 22, 1982, [96 Stat. 1940](https://www.govinfo.gov/link/statute/96/1940).)*

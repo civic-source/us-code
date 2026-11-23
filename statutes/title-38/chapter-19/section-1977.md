@@ -3,9 +3,10 @@ title: "Section 1977 - Veterans’ Group Life Insurance"
 usc_title: 38
 usc_section: "1977"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 1977"
-generated_at: "2026-03-30T02:55:53.492Z"
+generated_at: "2026-11-23T20:27:01.755Z"
+status: "active"
 ---
 
 # § 1977. Veterans’ Group Life Insurance
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:53.492Z"
   - **(1)** Notwithstanding any other provision of law, members of the Individual Ready Reserve and the Inactive National Guard are eligible to be insured under Veterans’ Group Life Insurance. Any such member shall be so insured upon submission of an application in the manner prescribed by the Secretary and the payment of premiums as required under this section.
   - **(2)** In accordance with subsection (b), Veterans’ Group Life Insurance coverage under this subsection shall be issued on a renewable five-year term basis, but the person insured must remain a member of the Individual Ready Reserve or Inactive National Guard throughout the period of the insurance in order for the insurance of such person to be renewed.
   - **(3)** For the purpose of this subsection, the terms “Individual Ready Reserve” and “Inactive National Guard” shall have the meanings prescribed by the Secretary in consultation with the Secretary of Defense.
+
+## Source Credit
+
+*(Added [Pub. L. 93–289, § 9(a)](https://www.govinfo.gov/link/plaw/93/public/289), May 24, 1974, [88 Stat. 169](https://www.govinfo.gov/link/statute/88/169), § 777; amended [Pub. L. 97–66, title IV, § 401(b)](https://www.govinfo.gov/link/plaw/97/public/66), Oct. 17, 1981, [95 Stat. 1031](https://www.govinfo.gov/link/statute/95/1031); [Pub. L. 99–166, title IV, § 401(b)](https://www.govinfo.gov/link/plaw/99/public/166), Dec. 3, 1985, [99 Stat. 957](https://www.govinfo.gov/link/statute/99/957); [Pub. L. 99–576, title VII, § 701(43)](https://www.govinfo.gov/link/plaw/99/public/576), Oct. 28, 1986, [100 Stat. 3294](https://www.govinfo.gov/link/statute/100/3294); [Pub. L. 102–25, title III, § 336(b)](https://www.govinfo.gov/link/plaw/102/public/25), Apr. 6, 1991, [105 Stat. 90](https://www.govinfo.gov/link/statute/105/90); renumbered § 1977 and amended [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(a)(2)(B)(iii), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 403–406](https://www.govinfo.gov/link/statute/105/403); [Pub. L. 102–568, title II, § 202](https://www.govinfo.gov/link/plaw/102/public/568), Oct. 29, 1992, [106 Stat. 4324](https://www.govinfo.gov/link/statute/106/4324); [Pub. L. 103–446, title XII, § 1201(e)(9)](https://www.govinfo.gov/link/plaw/103/public/446), Nov. 2, 1994, [108 Stat. 4685](https://www.govinfo.gov/link/statute/108/4685); [Pub. L. 104–275, title IV](https://www.govinfo.gov/link/plaw/104/public/275), §§ 403(b), 405(b)(1)(H), 406, Oct. 9, 1996, [110 Stat. 3338–3340](https://www.govinfo.gov/link/statute/110/3338); [Pub. L. 106–419, title III, § 312(b)](https://www.govinfo.gov/link/plaw/106/public/419), Nov. 1, 2000, [114 Stat. 1854](https://www.govinfo.gov/link/statute/114/1854); [Pub. L. 109–13, div. A, title I, § 1012(e)](https://www.govinfo.gov/link/plaw/109/public/13), May 11, 2005, [119 Stat. 245](https://www.govinfo.gov/link/statute/119/245); [Pub. L. 109–80](https://www.govinfo.gov/link/plaw/109/public/80), §§ 2, 3(b), Sept. 30, 2005, [119 Stat. 2045](https://www.govinfo.gov/link/statute/119/2045); [Pub. L. 111–275, title IV, § 404(a)](https://www.govinfo.gov/link/plaw/111/public/275), Oct. 13, 2010, [124 Stat. 2879](https://www.govinfo.gov/link/statute/124/2879).)*

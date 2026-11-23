@@ -3,9 +3,10 @@ title: "Section 561 - United States Marshals Service"
 usc_title: 28
 usc_section: "561"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 561"
-generated_at: "2026-03-30T02:55:30.132Z"
+generated_at: "2026-11-23T20:26:36.381Z"
+status: "active"
 ---
 
 # § 561. United States Marshals Service
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:30.132Z"
   - **(2)** experience in coordinating with other law enforcement agencies, particularly at the State and local level;
   - **(3)** college-level academic experience; and
   - **(4)** experience in or with county, State, and Federal court systems or experience with protection of court personnel, jurors, and witnesses.
+
+## Source Credit
+
+*(Added [Pub. L. 100–690, title VII, § 7608(a)(1)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4512](https://www.govinfo.gov/link/statute/102/4512); amended [Pub. L. 107–273, div. A, title III, § 301(b)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1781](https://www.govinfo.gov/link/statute/116/1781); [Pub. L. 109–177, title V, § 505](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 247](https://www.govinfo.gov/link/statute/120/247).)*

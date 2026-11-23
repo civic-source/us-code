@@ -3,9 +3,10 @@ title: "Section 6992 - National Appeals Division and Director"
 usc_title: 7
 usc_section: "6992"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6992"
-generated_at: "2026-03-30T02:53:42.442Z"
+generated_at: "2026-11-23T20:25:41.746Z"
+status: "active"
 ---
 
 # § 6992. National Appeals Division and Director
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:42.442Z"
     - **(B)** a noncareer position in the Senior Executive Service, as described under section 3132(a)(7) of that title;
     - **(C)** a position in the executive branch of the Government of a confidential or policy-determining character under schedule C of subpart C of part 213 of title 5, Code of Federal Regulations; or
     - **(D)** a position which has been excepted from the competitive service by reason of its confidential, policy-determining, policy-making, or policy-advocating character.
+
+## Source Credit
+
+*([Pub. L. 103–354, title II, § 272](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3229](https://www.govinfo.gov/link/statute/108/3229); [Pub. L. 113–79, title I, § 1610(a)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 709](https://www.govinfo.gov/link/statute/128/709); [Pub. L. 115–334, title XII, § 12412](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4980](https://www.govinfo.gov/link/statute/132/4980).)*

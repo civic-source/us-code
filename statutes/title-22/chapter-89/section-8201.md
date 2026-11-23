@@ -3,9 +3,10 @@ title: "Section 8201 - Findings"
 usc_title: 22
 usc_section: "8201"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8201"
-generated_at: "2026-03-30T02:55:05.449Z"
+generated_at: "2026-11-23T20:26:32.701Z"
+status: "active"
 ---
 
 # § 8201. Findings
@@ -18,3 +19,51 @@ Congress finds the following:
   - **(4)** Democratic countries have a number of instruments available for supporting democratic reformers who are committed to promoting effective, nonviolent change in nondemocratic countries and who are committed to keeping their countries on the path to democracy.
   - **(5)** United States efforts to promote democracy and protect human rights can be strengthened to improve assistance for such reformers, including through an enhanced role for United States diplomats when properly trained and given the right incentives.
   - **(6)** The promotion of democracy requires a broad-based effort with cooperation between all democratic countries, including through the Community of Democracies.
+
+Establishment
+
+Purpose
+
+Director
+
+Scope and Activities
+
+Eligibility to Participate
+
+Selection of Participants.—
+
+United states participants
+
+European and canadian participants
+
+Restrictions.—
+
+Unpaid participation
+
+Reimbursement
+
+Travel
+
+Authorization of Appropriations
+
+Sunset
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XXI, § 2102](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 526](https://www.govinfo.gov/link/statute/121/526).)*

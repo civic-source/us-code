@@ -3,9 +3,10 @@ title: "Section 2005 - Advanced education assistance: active duty agreement; rei
 usc_title: 10
 usc_section: "2005"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2005"
-generated_at: "2026-03-30T02:53:38.139Z"
+generated_at: "2026-11-23T20:25:51.435Z"
+status: "active"
 ---
 
 # § 2005. Advanced education assistance: active duty agreement; reimbursement requirements
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:38.139Z"
   - **(1)** The term “advanced education” means education or training above the secondary school level but does not include technical training provided to a member of the armed forces to qualify such member to perform a specified military function, to workshops, or to short-term training programs.
   - **(2)** The term “assistance” means the direct provision of any course of advanced education by the Secretary concerned, reimbursement by the Secretary concerned for any course of advanced education provided by another department or agency of the Federal Government, or the payment, in whole or in part, by the Secretary concerned for any course of advanced education provided by any public or private educational institution or other entity, but such term does not include the payment for any course of advanced education which is paid for under chapter 106 or 107 of this title.
   - **(3)** The term “cost of advanced education” means those costs which are, under regulations prescribed by the Secretary concerned, directly attributable to the education of the person to whom a course of advanced education is provided, including the cost of tuition and other fees (or, if none is charged, an amount determined by the Secretary concerned to be a reasonable charge for the education provided), the cost of books, supplies, transportation, and miscellaneous expenses, and the cost of room and board, but such term does not include pay or allowances under title 37 or a stipend under section 2121 of this title .
+
+## Source Credit
+
+*(Added [Pub. L. 96–357, § 2(a)](https://www.govinfo.gov/link/plaw/96/public/357), Sept. 24, 1980, [94 Stat. 1180](https://www.govinfo.gov/link/statute/94/1180); amended [Pub. L. 98–94, title X, § 1003(b)(1)](https://www.govinfo.gov/link/plaw/98/public/94), title XII, § 1268(10), Sept. 24, 1983, [97 Stat. 656](https://www.govinfo.gov/link/statute/97/656), 706; [Pub. L. 100–180, div. A, title XII, § 1231(17)](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1161](https://www.govinfo.gov/link/statute/101/1161); [Pub. L. 101–510, div. A, title V, § 534](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1564](https://www.govinfo.gov/link/statute/104/1564); [Pub. L. 103–160, div. A, title V, § 573(a)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1673](https://www.govinfo.gov/link/statute/107/1673); [Pub. L. 109–163, div. A, title VI, § 687(c)(2)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3333](https://www.govinfo.gov/link/statute/119/3333); [Pub. L. 115–91, div. A, title VI, § 618(a)(1)(B)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1426](https://www.govinfo.gov/link/statute/131/1426).)*

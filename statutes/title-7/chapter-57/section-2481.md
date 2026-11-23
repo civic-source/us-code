@@ -3,9 +3,10 @@ title: "Section 2481 - Plant variety protection"
 usc_title: 7
 usc_section: "2481"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2481"
-generated_at: "2026-03-30T02:53:42.388Z"
+generated_at: "2026-11-23T20:25:41.532Z"
+status: "active"
 ---
 
 # § 2481. Plant variety protection
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:53:42.388Z"
 - **(a)** If it appears that a certificate of plant variety protection should be issued on an application, a written notice of allowance shall be given or mailed to the owner. The notice shall specify the sum, constituting the issue fee, which shall be paid within one month thereafter.
 - **(b)** Upon timely payment of this sum, and provided that deposit of seed has been made in accordance with section 2422(3) 1 1 See References in Text note below. of this title, the certificate of plant variety protection shall issue.
 - **(c)** If any payment required by this section is not timely made, but is submitted with an additional fee prescribed by the Secretary within nine months after the due date or within such further time as the Secretary may allow, it shall be accepted.
+
+## Source Credit
+
+*([Pub. L. 91–577, title II, § 81](https://www.govinfo.gov/link/plaw/91/public/577), Dec. 24, 1970, [84 Stat. 1551](https://www.govinfo.gov/link/statute/84/1551).)*

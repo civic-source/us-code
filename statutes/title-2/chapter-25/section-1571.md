@@ -3,9 +3,10 @@ title: "Section 1571 - Judicial review"
 usc_title: 2
 usc_section: "1571"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1571"
-generated_at: "2026-03-30T02:53:04.815Z"
+generated_at: "2026-11-23T20:25:28.978Z"
+status: "active"
 ---
 
 # § 1571. Judicial review
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:04.815Z"
 - **(b)** Except as provided in subsection (a)—
   - **(1)** any estimate, analysis, statement, description or report prepared under this chapter, and any compliance or noncompliance with the provisions of this chapter, and any determination concerning the applicability of the provisions of this chapter shall not be subject to judicial review; and
   - **(2)** no provision of this chapter shall be construed to create any right or benefit, substantive or procedural, enforceable by any person in any administrative or judicial action.
+
+## Source Credit
+
+*([Pub. L. 104–4, title IV, § 401](https://www.govinfo.gov/link/plaw/104/public/4), Mar. 22, 1995, [109 Stat. 70](https://www.govinfo.gov/link/statute/109/70).)*

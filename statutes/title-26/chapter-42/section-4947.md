@@ -3,9 +3,10 @@ title: "Section 4947 - Application of taxes to certain nonexempt trusts"
 usc_title: 26
 usc_section: "4947"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 4947"
-generated_at: "2026-03-30T02:55:27.808Z"
+generated_at: "2026-11-23T20:26:46.351Z"
+status: "active"
 ---
 
 # § 4947. Application of taxes to certain nonexempt trusts
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:27.808Z"
     - **(A)** all the income interest (and none of the remainder interest) of such trust is devoted solely to one or more of the purposes described in section 170(c)(2)(B), and all amounts in such trust for which a deduction was allowed under section 170, 545(b)(2), 642(c), 2055, 2106(a)(2), or 2522 have an aggregate value not more than 60 percent of the aggregate fair market value of all amounts in such trusts, or
     - **(B)** a deduction was allowed under section 170, 545(b)(2), 642(c), 2055, 2106(a)(2), or 2522 for amounts payable under the terms of such trust to every remainder beneficiary but not to any income beneficiary.
   - **(4)** The provisions of section 507(a) shall not apply to a trust which is described in subsection (a)(2) by reason of a distribution of qualified employer securities (as defined in section 664(g)(4)) to an employee stock ownership plan (as defined in section 4975(e)(7)) in a qualified gratuitous transfer (as defined by section 664(g)).
+
+## Source Credit
+
+*(Added [Pub. L. 91–172, title I, § 101(b)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 517](https://www.govinfo.gov/link/statute/83/517); amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 105–34, title XV, § 1530(c)(9)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1079](https://www.govinfo.gov/link/statute/111/1079); [Pub. L. 107–16, title V, § 542(e)(4)](https://www.govinfo.gov/link/plaw/107/public/16), June 7, 2001, [115 Stat. 85](https://www.govinfo.gov/link/statute/115/85); [Pub. L. 108–357, title IV, § 413(c)(30)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1509](https://www.govinfo.gov/link/statute/118/1509); [Pub. L. 111–312, title III, § 301(a)](https://www.govinfo.gov/link/plaw/111/public/312), Dec. 17, 2010, [124 Stat. 3300](https://www.govinfo.gov/link/statute/124/3300).)*

@@ -3,9 +3,10 @@ title: "Section 3332 - Guidance and reporting requirement regarding the interact
 usc_title: 50
 usc_section: "3332"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3332"
-generated_at: "2026-03-30T02:56:26.243Z"
+generated_at: "2026-11-23T20:27:30.957Z"
+status: "active"
 ---
 
 # § 3332. Guidance and reporting requirement regarding the interactions between the intelligence community and entertainment industry
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:26.243Z"
   - **(3)** a description of the benefits to the United States Government for each such engagement;
   - **(4)** a determination of whether any information was declassified, and whether any classified information was improperly disclosed, for each such engagement; and
   - **(5)** a description of the work produced through each such engagement.
+
+## Source Credit
+
+*([Pub. L. 115–31, div. N, title III, § 308](https://www.govinfo.gov/link/plaw/115/public/31), May 5, 2017, [131 Stat. 813](https://www.govinfo.gov/link/statute/131/813); [Pub. L. 116–92, div. E, title LVII, § 5701(d)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2160](https://www.govinfo.gov/link/statute/133/2160).)*

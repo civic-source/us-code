@@ -3,9 +3,10 @@ title: "Section 1397cc - Coverage requirements for children’s health insurance
 usc_title: 42
 usc_section: "1397cc"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1397cc"
-generated_at: "2026-03-30T02:56:11.069Z"
+generated_at: "2026-11-23T20:27:21.669Z"
+status: "active"
 ---
 
 # § 1397cc. Coverage requirements for children’s health insurance
@@ -95,3 +96,13 @@ generated_at: "2026-03-30T02:56:11.069Z"
     - **(B)** If the State child health plan provides for benefits through payment for, or a contract with, a group health plan or group health insurance coverage, the plan may permit the imposition of a preexisting condition exclusion but only insofar as it is permitted under the applicable provisions of part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 [ 29 U.S.C. 1181 et seq.] and title XXVII of the Public Health Service Act [ 42 U.S.C. 300gg et seq.].
   - **(2)** Coverage offered under this section shall comply with the requirements of subpart 2 of part A of title XXVII of the Public Health Service Act 1 insofar as such requirements apply with respect to a health insurance issuer that offers group health insurance coverage.
   - **(3)** The State child health plan shall provide for the application of subsections (a)(4), (a)(5), (b), (c), (d), (e), and (j) of section 1396u–2 of this title (relating to requirements for managed care) to coverage, State agencies, enrollment brokers, managed care entities, and managed care organizations under this subchapter in the same manner as such subsections apply to coverage and such entities and organizations under subchapter XIX.
+
+subpart ii—improving coverage
+
+subpart 2—other requirements
+
+exclusion of plans; enforcement; preemption
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XXI, § 2103, as added [Pub. L. 105–33, title IV, § 4901(a)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 554](https://www.govinfo.gov/link/statute/111/554); amended [Pub. L. 111–3, title I, § 111(b)(1)](https://www.govinfo.gov/link/plaw/111/public/3), title IV, § 403(a), title V, §§ 501(a)(1), 502, 504(a), 505(a), Feb. 4, 2009, [123 Stat. 28](https://www.govinfo.gov/link/statute/123/28), 84, 89, 90; [Pub. L. 115–271, title V, § 5022(a)](https://www.govinfo.gov/link/plaw/115/public/271) –(b)(2)(A), (d), Oct. 24, 2018, [132 Stat. 3964](https://www.govinfo.gov/link/statute/132/3964), 3965; [Pub. L. 116–127, div. F, § 6004(b)(1)](https://www.govinfo.gov/link/plaw/116/public/127), (3), Mar. 18, 2020, [134 Stat. 206](https://www.govinfo.gov/link/statute/134/206); [Pub. L. 116–260, div. BB, title II, § 203(a)(4)(C)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2917](https://www.govinfo.gov/link/statute/134/2917); [Pub. L. 117–2, title IX, § 9821(a)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 219](https://www.govinfo.gov/link/statute/135/219); [Pub. L. 117–169, title I, § 11405(b)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 1901](https://www.govinfo.gov/link/statute/136/1901); [Pub. L. 119–21, title VII, § 71103(b)(2)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 293](https://www.govinfo.gov/link/statute/139/293).)*

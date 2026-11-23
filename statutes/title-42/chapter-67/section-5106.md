@@ -3,9 +3,10 @@ title: "Section 5106 - Grants to States, Indian tribes or tribal organizations, 
 usc_title: 42
 usc_section: "5106"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5106"
-generated_at: "2026-03-30T02:56:11.216Z"
+generated_at: "2026-11-23T20:27:22.450Z"
+status: "active"
 ---
 
 # § 5106. Grants to States, Indian tribes or tribal organizations, and public or private agencies and organizations
@@ -130,3 +131,23 @@ generated_at: "2026-03-30T02:56:11.216Z"
       - **(ii)** encourage qualified grantees to combine the amounts received under the grant with other funds available to such grantees.
   - **(5)** Such other innovative programs and projects that show promise of preventing and treating cases of child abuse and neglect as the Secretary may approve.
 - **(c)** In making grants for projects under this section, the Secretary shall require all such projects to be evaluated for their effectiveness. Funding for such evaluations shall be provided either as a stated percentage of a demonstration grant or as a separate grant or contract entered into by the Secretary for the purpose of evaluating a particular demonstration project or group of projects. In the case of an evaluation performed by the recipient of a grant, the Secretary shall make available technical assistance for the evaluation, where needed, including the use of a rigorous application of scientific evaluation techniques.
+
+(aa) the prevalence of substance use disorder in such State;
+
+(bb) the aggregate rate of births in the State of infants affected by substance abuse or withdrawal symptoms or a fetal alcohol spectrum disorder (as determined by hospitals, insurance claims, claims submitted to the State Medicaid program, or other records), if available and to the extent practicable; and
+
+(cc) the number of infants identified, for whom a plan of safe care was developed, and for whom a referral was made for appropriate services, as reported under section 5106a(d)(18) of this title ;
+
+(aa) developing policies, procedures, or protocols for the administration or development of evidence-based and validated screening tools for infants who may be affected by substance use withdrawal symptoms or a fetal alcohol spectrum disorder and pregnant, perinatal, and postnatal women whose infants may be affected by substance use withdrawal symptoms or a fetal alcohol spectrum disorder;
+
+(bb) improving assessments used to determine the needs of the infant and family;
+
+(cc) improving ongoing case management services;
+
+(dd) improving access to treatment services, which may be prior to the pregnant woman’s delivery date; and
+
+(ee) keeping families safely together when it is in the best interest of the child.
+
+## Source Credit
+
+*([Pub. L. 93–247, title I, § 105](https://www.govinfo.gov/link/plaw/93/public/247), formerly § 7, Jan. 31, 1974, [88 Stat. 8](https://www.govinfo.gov/link/statute/88/8); [Pub. L. 98–457, title I, § 106](https://www.govinfo.gov/link/plaw/98/public/457), Oct. 9, 1984, [98 Stat. 1751](https://www.govinfo.gov/link/statute/98/1751); [Pub. L. 100–294, title I, § 101](https://www.govinfo.gov/link/plaw/100/public/294), Apr. 25, 1988, [102 Stat. 108](https://www.govinfo.gov/link/statute/102/108); renumbered title I, § 106, [Pub. L. 101–126, § 3(a)(1)](https://www.govinfo.gov/link/plaw/101/public/126), (2), Oct. 25, 1989, [103 Stat. 764](https://www.govinfo.gov/link/statute/103/764); [Pub. L. 102–295, title I](https://www.govinfo.gov/link/plaw/102/public/295), §§ 113, 141(1), (2), (5), May 28, 1992, [106 Stat. 191](https://www.govinfo.gov/link/statute/106/191), 199, 200; renumbered § 105 and amended [Pub. L. 104–235, title I](https://www.govinfo.gov/link/plaw/104/public/235), §§ 106, 113(a)(1)(A), Oct. 3, 1996, [110 Stat. 3069](https://www.govinfo.gov/link/statute/110/3069), 3079; [Pub. L. 108–36, title I, § 113](https://www.govinfo.gov/link/plaw/108/public/36), June 25, 2003, [117 Stat. 805](https://www.govinfo.gov/link/statute/117/805); [Pub. L. 111–320, title I, § 114](https://www.govinfo.gov/link/plaw/111/public/320), Dec. 20, 2010, [124 Stat. 3465](https://www.govinfo.gov/link/statute/124/3465); [Pub. L. 115–271, title VII, § 7065(a)](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 4022](https://www.govinfo.gov/link/statute/132/4022); [Pub. L. 118–193, § 2(a)](https://www.govinfo.gov/link/plaw/118/public/193), Dec. 23, 2024, [138 Stat. 2662](https://www.govinfo.gov/link/statute/138/2662).)*

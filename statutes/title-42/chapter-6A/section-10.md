@@ -3,9 +3,10 @@ title: "Section 10 - Coordination of preparedness for and response to all-hazard
 usc_title: 42
 usc_section: "10"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10"
-generated_at: "2026-03-30T02:56:10.841Z"
+generated_at: "2026-11-23T20:27:20.684Z"
+status: "active"
 ---
 
 # § 300hh–10. Coordination of preparedness for and response to all-hazards public health emergencies
@@ -126,3 +127,13 @@ generated_at: "2026-03-30T02:56:10.841Z"
     - **(A)** The Chair of the Committee on Health, Education, Labor, and Pensions of the Senate or the Chair of the Committee on Energy and Commerce of the House of Representatives may waive the requirements of paragraph (1) for the applicable fiscal year with respect to the applicable Committee.
     - **(B)** The requirements of this subsection shall not be construed to impact the appearance of other Federal officials or the Assistant Secretary at hearings of either Committee described in paragraph (1) at other times and for purposes other than the times and purposes described in paragraph (1) 3 3 So in original. Probably should be followed by a period.
   - **(3)** Information that is not appropriate for disclosure during an open hearing under paragraph (1) in order to protect national security may instead be discussed in a closed hearing that immediately follows such open hearing.
+
+Transfer of functions
+
+References
+
+“In the first Public Health Emergency [Medical] Countermeasures Enterprise Strategy and Implementation Plan submitted under subsection (d) of section 2811 of the Public Health Service Act ( 42 U.S.C. 300hh–10 ) (as added by subsection (a)(3)), the Secretary of Health and Human Services, in consultation with the Secretary of Defense, shall include a description of the manner in which the Department of Health and Human Services is coordinating with the Department of Defense regarding countermeasure activities to address chemical, biological, radiological, and nuclear threats. Such report shall include information with respect to—
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXVIII, § 2811, as added [Pub. L. 109–417, title I, § 102(a)(3)](https://www.govinfo.gov/link/plaw/109/public/417), Dec. 19, 2006, [120 Stat. 2833](https://www.govinfo.gov/link/statute/120/2833); amended [Pub. L. 113–5, title I, § 102(a)](https://www.govinfo.gov/link/plaw/113/public/5), Mar. 13, 2013, [127 Stat. 163](https://www.govinfo.gov/link/statute/127/163); [Pub. L. 114–255, div. A, title III, § 3083](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1141](https://www.govinfo.gov/link/statute/130/1141); [Pub. L. 116–22, title III, § 302(a)](https://www.govinfo.gov/link/plaw/116/public/22), (b), title IV, §§ 401, 402(b), 404(b), title V, § 501, title VII, § 703(b), June 24, 2019, [133 Stat. 934](https://www.govinfo.gov/link/statute/133/934), 942, 943, 948, 950, 963; [Pub. L. 117–263, div. G, title LXXI, § 7143(d)(4)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3663](https://www.govinfo.gov/link/statute/136/3663); [Pub. L. 117–328, div. FF, title II, § 2103(b)(2)](https://www.govinfo.gov/link/plaw/117/public/328), (c), Dec. 29, 2022, [136 Stat. 5712](https://www.govinfo.gov/link/statute/136/5712), 5713.)*

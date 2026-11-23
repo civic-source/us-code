@@ -3,9 +3,10 @@ title: "Section 2024 - Violations and enforcement"
 usc_title: 7
 usc_section: "2024"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2024"
-generated_at: "2026-03-30T02:53:42.370Z"
+generated_at: "2026-11-23T20:25:41.452Z"
+status: "active"
 ---
 
 # § 2024. Violations and enforcement
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:42.370Z"
     - **(B)** second, to reimburse the Department of Agriculture Office of Inspector General for any costs the Office incurred in the law enforcement effort resulting in the forfeiture;
     - **(C)** third, to reimburse any Federal or State law enforcement agency for any costs incurred in the law enforcement effort resulting in the forfeiture; and
     - **(D)** fourth, by the Secretary to carry out the approval, reauthorization, and compliance investigations of retail stores and wholesale food concerns under section 2018 of this title .
+
+## Source Credit
+
+*([Pub. L. 88–525, § 15](https://www.govinfo.gov/link/plaw/88/public/525), Aug. 31, 1964, [78 Stat. 708](https://www.govinfo.gov/link/statute/78/708); [Pub. L. 91–671, § 8](https://www.govinfo.gov/link/plaw/91/public/671), Jan. 11, 1971, [84 Stat. 2052](https://www.govinfo.gov/link/statute/84/2052); [Pub. L. 93–347, § 2](https://www.govinfo.gov/link/plaw/93/public/347), July 12, 1974, [88 Stat. 341](https://www.govinfo.gov/link/statute/88/341); [Pub. L. 95–113, title XIII, § 1301](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 975](https://www.govinfo.gov/link/statute/91/975); [Pub. L. 96–249, title I, § 124](https://www.govinfo.gov/link/plaw/96/public/249), May 26, 1980, [94 Stat. 363](https://www.govinfo.gov/link/statute/94/363); [Pub. L. 97–98, title XIII, § 1324](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1288](https://www.govinfo.gov/link/statute/95/1288); [Pub. L. 101–624, title XVII](https://www.govinfo.gov/link/plaw/101/public/624), §§ 1747(a), (c), 1748, 1749, Nov. 28, 1990, [104 Stat. 3796](https://www.govinfo.gov/link/statute/104/3796), 3797; [Pub. L. 104–193, title VIII, § 846](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2334](https://www.govinfo.gov/link/statute/110/2334); [Pub. L. 110–234, title IV](https://www.govinfo.gov/link/plaw/110/public/234), §§ 4001(b), 4115(b)(10), May 22, 2008 [122 Stat. 1092](https://www.govinfo.gov/link/statute/122/1092), 1107; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, §§ 4001(b), 4115(b)(10), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1853, 1869; [Pub. L. 113–79, title IV, § 4030(h)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 814](https://www.govinfo.gov/link/statute/128/814); [Pub. L. 115–334, title IV, § 4022(6)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4653](https://www.govinfo.gov/link/statute/132/4653).)*

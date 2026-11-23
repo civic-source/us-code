@@ -3,9 +3,10 @@ title: "Section 19057 - Food-energy-water research"
 usc_title: 42
 usc_section: "19057"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 19057"
-generated_at: "2026-03-30T02:56:11.538Z"
+generated_at: "2026-11-23T20:27:23.850Z"
+status: "active"
 ---
 
 # § 19057. Food-energy-water research
@@ -16,3 +17,7 @@ The Director shall make awards on a competitive basis to institutions of higher 
   - **(2)** develop real-time, cyber-enabled interfaces that improve understanding of the behavior of food-energy-water systems and increase decision support capability;
   - **(3)** support research that will lead to innovative solutions to critical food-energy-water system problems; and
   - **(4)** grow the scientific workforce capable of studying and managing the food-energy-water system, through education and other professional development.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10348](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1560](https://www.govinfo.gov/link/statute/136/1560).)*

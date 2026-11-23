@@ -3,9 +3,10 @@ title: "Section 3763 - Native American Veteran Housing Loan Program Account"
 usc_title: 38
 usc_section: "3763"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 3763"
-generated_at: "2026-03-30T02:55:53.515Z"
+generated_at: "2026-11-23T20:27:01.915Z"
+status: "active"
 ---
 
 # § 3763. Native American Veteran Housing Loan Program Account
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:53.515Z"
 - **(c)** Of amounts available in the Account, the Secretary may use for loans made under section 3762A of this title —
   - **(1)** in fiscal year 2025, not more than $5,000,000; and
   - **(2)** in any fiscal year after fiscal year 2025, an amount determined necessary by the Secretary to meet the demand for such loans.
+
+## Source Credit
+
+*(Added [Pub. L. 102–547, § 8(a)](https://www.govinfo.gov/link/plaw/102/public/547), Oct. 28, 1992, [106 Stat. 3639](https://www.govinfo.gov/link/statute/106/3639); amended [Pub. L. 105–368, title VI, § 602(e)(3)(B)](https://www.govinfo.gov/link/plaw/105/public/368), Nov. 11, 1998, [112 Stat. 3347](https://www.govinfo.gov/link/statute/112/3347); [Pub. L. 107–14, § 8(a)(16)](https://www.govinfo.gov/link/plaw/107/public/14), June 5, 2001, [115 Stat. 35](https://www.govinfo.gov/link/statute/115/35); [Pub. L. 118–210, title II, § 232(c)](https://www.govinfo.gov/link/plaw/118/public/210), Jan. 2, 2025, [138 Stat. 2788](https://www.govinfo.gov/link/statute/138/2788).)*

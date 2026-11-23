@@ -3,9 +3,10 @@ title: "Section 17 - Use of Bureau facilities"
 usc_title: 25
 usc_section: "17"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 17"
-generated_at: "2026-03-30T02:54:52.796Z"
+generated_at: "2026-11-23T20:26:25.342Z"
+status: "active"
 ---
 
 # § 17. Use of Bureau facilities
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:52.796Z"
 - **(a)** The Secretary of the Interior may permit tribal governments and organizations and student organizations to use Bureau of Indian Affairs equipment, land, buildings, and other structures if such use does not interfere with the purpose for which they are administered by the Bureau and when such use benefits Indians or Federal or federally funded programs. The Secretary may charge the user for the cost of the utilities and other expenses incurred for the use. The amounts collected shall be credited to the appropriation or fund from which the expenses are paid and shall be available until the end of the fiscal year following the fiscal year in which collected. The Secretary’s decision to not permit a use under this section is final and shall not be subject to judicial review.
 - **(b)** The authority provided by this section is in addition to, and not in derogation of, any other authority available to the Secretary of the Interior.
 - **(c)** The payment of any fee, or agreement to pay costs, to the Secretary shall not in any way or to any extent limit the right of the United States to rely upon sovereign immunity or any State or Federal statute limiting liability or damages from injuries sustained in connection with use under this section.
+
+## Source Credit
+
+*([Pub. L. 100–297, title V, § 5405](https://www.govinfo.gov/link/plaw/100/public/297), Apr. 28, 1988, [102 Stat. 417](https://www.govinfo.gov/link/statute/102/417); [Pub. L. 100–427, § 25](https://www.govinfo.gov/link/plaw/100/public/427), Sept. 9, 1988, [102 Stat. 1613](https://www.govinfo.gov/link/statute/102/1613).)*

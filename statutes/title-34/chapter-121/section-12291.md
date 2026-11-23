@@ -3,9 +3,10 @@ title: "Section 12291 - Definitions and grant provisions"
 usc_title: 34
 usc_section: "12291"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12291"
-generated_at: "2026-03-30T02:55:33.285Z"
+generated_at: "2026-11-23T20:26:50.541Z"
+status: "active"
 ---
 
 # § 12291. Definitions and grant provisions
@@ -222,3 +223,27 @@ generated_at: "2026-03-30T02:55:33.285Z"
       - **(iii)** all reimbursements required under subparagraph (A)(v) have been made; and
       - **(iv)** includes a list of any grant recipients excluded under subparagraph (A) from the previous year.
   - **(16)** Of the amounts appropriated to carry out this subchapter, not more than 1 percent shall be made available for pilot projects, demonstration projects, and special initiatives designed to improve Federal, State, local, Tribal, and other community responses to gender-based violence.
+
+“Congress finds the following:
+
+“Congress finds the following:
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+J.R. Biden, Jr.
+
+## Source Credit
+
+*([Pub. L. 103–322, title IV, § 40002](https://www.govinfo.gov/link/plaw/103/public/322), as added [Pub. L. 109–162, § 3(a)](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 2964](https://www.govinfo.gov/link/statute/119/2964); amended [Pub. L. 109–271](https://www.govinfo.gov/link/plaw/109/public/271), §§ 1(d)–(f), 2(e), Aug. 12, 2006, [120 Stat. 751](https://www.govinfo.gov/link/statute/120/751), 752; [Pub. L. 111–320, title II, § 202(d)](https://www.govinfo.gov/link/plaw/111/public/320), Dec. 20, 2010, [124 Stat. 3509](https://www.govinfo.gov/link/statute/124/3509); [Pub. L. 113–4, § 3](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 56](https://www.govinfo.gov/link/statute/127/56); [Pub. L. 117–103, div. W, § 2(a)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 840](https://www.govinfo.gov/link/statute/136/840); [Pub. L. 117–315, § 2(b)](https://www.govinfo.gov/link/plaw/117/public/315), Dec. 27, 2022, [136 Stat. 4404](https://www.govinfo.gov/link/statute/136/4404).)*

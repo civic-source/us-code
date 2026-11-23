@@ -3,9 +3,10 @@ title: "Section 1204 - International parental kidnapping"
 usc_title: 18
 usc_section: "1204"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 1204"
-generated_at: "2026-03-30T02:54:16.483Z"
+generated_at: "2026-11-23T20:26:08.481Z"
+status: "active"
 ---
 
 # § 1204. International parental kidnapping
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:16.483Z"
   - **(2)** the defendant was fleeing an incidence or pattern of domestic violence; or
   - **(3)** the defendant had physical custody of the child pursuant to a court order granting legal custody or visitation rights and failed to return the child as a result of circumstances beyond the defendant’s control, and the defendant notified or made reasonable attempts to notify the other parent or lawful custodian of the child of such circumstances within 24 hours after the visitation period had expired and returned the child as soon as possible.
 - **(d)** This section does not detract from The Hague Convention on the Civil Aspects of International Parental Child Abduction, done at The Hague on October 25, 1980 .
+
+## Source Credit
+
+*(Added [Pub. L. 103–173, § 2(a)](https://www.govinfo.gov/link/plaw/103/public/173), Dec. 2, 1993, [107 Stat. 1998](https://www.govinfo.gov/link/statute/107/1998); amended [Pub. L. 108–21, title I, § 107](https://www.govinfo.gov/link/plaw/108/public/21), Apr. 30, 2003, [117 Stat. 655](https://www.govinfo.gov/link/statute/117/655).)*

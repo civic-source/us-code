@@ -3,9 +3,10 @@ title: "Section 6851 - Termination assessments of income tax"
 usc_title: 26
 usc_section: "6851"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6851"
-generated_at: "2026-03-30T02:55:27.867Z"
+generated_at: "2026-11-23T20:26:46.737Z"
+status: "active"
 ---
 
 # § 6851. Termination assessments of income tax
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:27.867Z"
 - **(f)**
   - **(1)** For provisions permitting immediate levy in case of jeopardy, see section 6331(a).
   - **(2)** For provisions relating to the review of jeopardy, see section 7429.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 833; [Pub. L. 85–866, title I, § 87](https://www.govinfo.gov/link/plaw/85/public/866), Sept. 2, 1958, [72 Stat. 1665](https://www.govinfo.gov/link/statute/72/1665); [Pub. L. 94–455, title XII, § 1204(b)](https://www.govinfo.gov/link/plaw/94/public/455), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1696](https://www.govinfo.gov/link/statute/90/1696), 1834.)*

@@ -3,9 +3,10 @@ title: "Section 6031 - Statement of policy"
 usc_title: 22
 usc_section: "6031"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6031"
-generated_at: "2026-03-30T02:55:05.422Z"
+generated_at: "2026-11-23T20:26:32.587Z"
+status: "active"
 ---
 
 # § 6031. Statement of policy
@@ -18,3 +19,7 @@ It is the sense of the Congress that—
   - **(4)** in view of the threat to the national security posed by the operation of any nuclear facility, and the Castro government’s continuing blackmail to unleash another wave of Cuban refugees fleeing from Castro’s oppression, most of whom find their way to United States shores, further depleting limited humanitarian and other resources of the United States, the President should do all in his power to make it clear to the Cuban Government that—
     - **(A)** the completion and operation of any nuclear power facility, or
     - **(B)** any further political manipulation of the desire of Cubans to escape that results in mass migration to the United States,
+
+## Source Credit
+
+*([Pub. L. 104–114, title I, § 101](https://www.govinfo.gov/link/plaw/104/public/114), Mar. 12, 1996, [110 Stat. 791](https://www.govinfo.gov/link/statute/110/791).)*

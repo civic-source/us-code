@@ -3,9 +3,10 @@ title: "Section 3903 - Purchasing groups"
 usc_title: 15
 usc_section: "3903"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 3903"
-generated_at: "2026-03-30T02:54:08.196Z"
+generated_at: "2026-11-23T20:26:04.320Z"
+status: "active"
 ---
 
 # § 3903. Purchasing groups
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:54:08.196Z"
 - **(f)** A purchasing group may not purchase insurance from a risk retention group that is not chartered in a State or from an insurer not admitted in the State in which the purchasing group is located, unless the purchase is effected through a licensed agent or broker acting pursuant to the surplus lines laws and regulations of such State.
 - **(g)** Nothing in this chapter shall be construed to affect the authority of any State to make use of any of its powers to enforce the laws of such State with respect to which a purchasing group is not exempt under this chapter.
 - **(h)** Nothing in this chapter shall affect the authority of any State to bring an action in any Federal or State court.
+
+## Source Credit
+
+*([Pub. L. 97–45, § 4](https://www.govinfo.gov/link/plaw/97/public/45), Sept. 25, 1981, [95 Stat. 951](https://www.govinfo.gov/link/statute/95/951); [Pub. L. 99–563](https://www.govinfo.gov/link/plaw/99/public/563), §§ 6, 8(b), 12(d), Oct. 27, 1986, [100 Stat. 3174](https://www.govinfo.gov/link/statute/100/3174), 3175, 3178.)*

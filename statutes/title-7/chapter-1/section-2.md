@@ -3,9 +3,10 @@ title: "Section 2 - Jurisdiction of States"
 usc_title: 7
 usc_section: "2"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-03-30T02:53:42.246Z"
+generated_at: "2026-11-23T20:25:40.878Z"
+status: "active"
 ---
 
 # § 13a–2. Jurisdiction of States
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:42.246Z"
   - **(8)**
     - **(A)** Nothing in this chapter shall prohibit an authorized State official from proceeding in a State court against any person registered under this chapter (other than a floor broker, floor trader, or registered futures association) for an alleged violation of any antifraud provision of this chapter or any antifraud rule, regulation, or order issued pursuant to the chapter.
     - **(B)** The State shall give the Commission prior written notice of its intent to proceed before instituting a proceeding in State court as described in this subsection and shall furnish the Commission with a copy of its complaint immediately upon instituting any such proceeding. The Commission shall have the right to (i) intervene in the proceeding and, upon doing so, shall be heard on all matters arising therein, and (ii) file a petition for appeal. The Commission or the defendant may remove such proceeding to the district court of the United States for the proper district by following the procedure for removal otherwise provided by law, except that the petition for removal shall be filed within sixty days after service of the summons and complaint upon the defendant. The Commission shall have the right to appear as amicus curiae in any such proceeding.
+
+## Source Credit
+
+*(Sept. 21, 1922, ch. 369, § 6d, as added [Pub. L. 95–405, § 15](https://www.govinfo.gov/link/plaw/95/public/405), Sept. 30, 1978, [92 Stat. 872](https://www.govinfo.gov/link/statute/92/872); amended [Pub. L. 97–444, title II, § 221](https://www.govinfo.gov/link/plaw/97/public/444), Jan. 11, 1983, [96 Stat. 2308](https://www.govinfo.gov/link/statute/96/2308); [Pub. L. 102–546, title II, § 207(b)(1)](https://www.govinfo.gov/link/plaw/102/public/546), (2), Oct. 28, 1992, [106 Stat. 3604](https://www.govinfo.gov/link/statute/106/3604); [Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(16)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–409.)*

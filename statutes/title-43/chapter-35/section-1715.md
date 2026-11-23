@@ -3,9 +3,10 @@ title: "Section 1715 - Acquisitions of public lands and access over non-Federal 
 usc_title: 43
 usc_section: "1715"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1715"
-generated_at: "2026-03-30T02:55:57.487Z"
+generated_at: "2026-11-23T20:27:06.356Z"
+status: "active"
 ---
 
 # § 1715. Acquisitions of public lands and access over non-Federal lands to National Forest System units
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:57.487Z"
 - **(c)** Except as provided in subsection (e), lands and interests in lands acquired by the Secretary pursuant to this section or section 1716 of this title shall, upon acceptance of title, become public lands, and, for the administration of public land laws not repealed by this Act, shall remain public lands. If such acquired lands or interests in lands are located within the exterior boundaries of a grazing district established pursuant to section 315 of this title , they shall become a part of that district. Lands and interests in lands acquired pursuant to this section which are within boundaries of the National Forest System may be transferred to the Secretary of Agriculture and shall then become National Forest System lands and subject to all the laws, rules, and regulations applicable thereto.
 - **(d)** Lands and interests in lands acquired by the Secretary of Agriculture pursuant to this section shall, upon acceptance of title, become National Forest System lands subject to all the laws, rules, and regulations applicable thereto.
 - **(e)** Lands acquired by the Secretary pursuant to this section or section 1716 of this title in exchange for lands which were revested in the United States pursuant to the provisions of the Act of June 9, 1916 ( 39 Stat. 218 ) or reconveyed to the United States pursuant to the provisions of the Act of February 26, 1919 ( 40 Stat. 1179 ), shall be considered for all purposes to have the same status as, and shall be administered in accordance with the same provisions of law applicable to, the revested or reconveyed lands exchanged for the lands acquired by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 94–579, title II, § 205](https://www.govinfo.gov/link/plaw/94/public/579), Oct. 21, 1976, [90 Stat. 2755](https://www.govinfo.gov/link/statute/90/2755); [Pub. L. 99–632, § 5](https://www.govinfo.gov/link/plaw/99/public/632), Nov. 7, 1986, [100 Stat. 3521](https://www.govinfo.gov/link/statute/100/3521).)*

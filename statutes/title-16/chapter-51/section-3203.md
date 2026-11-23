@@ -3,9 +3,10 @@ title: "Section 3203 - Wilderness management"
 usc_title: 16
 usc_section: "3203"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3203"
-generated_at: "2026-03-30T02:54:23.013Z"
+generated_at: "2026-11-23T20:26:20.644Z"
+status: "active"
 ---
 
 # § 3203. Wilderness management
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:23.013Z"
 - **(d)** Within wilderness areas designated by this Act, the Secretary or the Secretary of Agriculture as appropriate, is authorized to construct and maintain a limited number of new public use cabins and shelters if such cabins and shelters are necessary for the protection of the public health and safety. All such cabins or shelters shall be constructed of materials which blend and are compatible with the immediate and surrounding wilderness landscape. The Secretary or the Secretary of Agriculture, as appropriate, shall notify the House Committee on Natural Resources and the Senate Committee on Energy and Natural Resources of his intention to remove an existing or construct a new public use cabin or shelter.
 - **(e)** The Secretary of Agriculture is hereby directed to modify any existing national forest timber sale contracts applying to lands designated by this Act as wilderness by substituting, to the extent practicable, timber on the other national forest lands approximately equal in volume, species, grade, and accessibility for timber or relevant lands within such units.
 - **(f)** Within National Forest wilderness and national forest monuments desginated 1 1 So in original. Probably should be “designated”. by this Act, the Secretary of Agriculture may permit or otherwise regulate the recovery and salvage of logs from coastlines.
+
+## Source Credit
+
+*([Pub. L. 96–487, title XIII, § 1315](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2484](https://www.govinfo.gov/link/statute/94/2484); [Pub. L. 103–437, § 6(d)(31)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4584](https://www.govinfo.gov/link/statute/108/4584).)*

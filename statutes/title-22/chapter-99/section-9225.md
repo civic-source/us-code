@@ -3,9 +3,10 @@ title: "Section 9225 - Enhanced inspection authorities"
 usc_title: 22
 usc_section: "9225"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9225"
-generated_at: "2026-03-30T02:55:05.464Z"
+generated_at: "2026-11-23T20:26:32.761Z"
+status: "active"
 ---
 
 # § 9225. Enhanced inspection authorities
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:55:05.464Z"
 - **(d)** A vessel, aircraft, or conveyance used to facilitate any of the activities described in section 9214(a) of this title under the jurisdiction of the United States may be seized and forfeited, or subject to forfeiture, under—
   - **(1)** chapter 46 of title 18; or
   - **(2)** part V of title IV of the Tariff Act of 1930 ( 19 U.S.C. 1581 et seq.).
+
+## Source Credit
+
+*([Pub. L. 114–122, title II, § 205](https://www.govinfo.gov/link/plaw/114/public/122), as added [Pub. L. 115–44, title III, § 314](https://www.govinfo.gov/link/plaw/115/public/44), Aug. 2, 2017, [131 Stat. 946](https://www.govinfo.gov/link/statute/131/946).)*

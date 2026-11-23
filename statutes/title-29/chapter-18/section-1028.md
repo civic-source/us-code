@@ -3,9 +3,10 @@ title: "Section 1028 - Reliance on administrative interpretations"
 usc_title: 29
 usc_section: "1028"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1028"
-generated_at: "2026-03-30T02:55:18.705Z"
+generated_at: "2026-11-23T20:26:37.915Z"
+status: "active"
 ---
 
 # § 1028. Reliance on administrative interpretations
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:18.705Z"
     - **(A)** after such act or omission, such interpretation or opinion is modified or rescinded or is determined by judicial authority to be invalid or of no legal effect, or
     - **(B)** after publishing or filing the annual reports and other reports required by this subchapter, such publication or filing is determined by judicial authority not to be in conformity with the requirements of this part.
 
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 108](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 850](https://www.govinfo.gov/link/statute/88/850); [Pub. L. 101–239, title VII, § 7894(b)(7)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2448](https://www.govinfo.gov/link/statute/103/2448); [Pub. L. 105–34, title XV, § 1503(d)(6)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1062](https://www.govinfo.gov/link/statute/111/1062).)*

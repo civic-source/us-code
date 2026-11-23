@@ -3,9 +3,10 @@ title: "Section 1862i - STEM education"
 usc_title: 42
 usc_section: "1862i"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1862i"
-generated_at: "2026-03-30T02:56:11.124Z"
+generated_at: "2026-11-23T20:27:21.932Z"
+status: "active"
 ---
 
 # § 1862i. STEM education
@@ -96,3 +97,9 @@ generated_at: "2026-03-30T02:56:11.124Z"
   - **(7)** the term “region” means a labor market area, as that term is defined in section 3102 of title 29 ;
   - **(8)** the terms “science, technology, engineering, or mathematics” or “STEM” mean science, technology, engineering, and mathematics, including computer science and cybersecurity; and
   - **(9)** the term skilled technical workforce 4 has the meaning given such term in section 4(b) of the Innovations in Mentoring, Training, and Apprenticeships Act ( 42 U.S.C. 1862p ). 5 5 See References in Text note below.
+
+“Congress finds the following:
+
+## Source Credit
+
+*([Pub. L. 102–476, § 3](https://www.govinfo.gov/link/plaw/102/public/476), Oct. 23, 1992, [106 Stat. 2297](https://www.govinfo.gov/link/statute/106/2297); [Pub. L. 105–244, title I, § 102(a)(13)(B)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1620](https://www.govinfo.gov/link/statute/112/1620); [Pub. L. 107–368, § 21(a)](https://www.govinfo.gov/link/plaw/107/public/368), (b), Dec. 19, 2002, [116 Stat. 3064](https://www.govinfo.gov/link/statute/116/3064); [Pub. L. 110–69, title VII, § 7031(a)](https://www.govinfo.gov/link/plaw/110/public/69), Aug. 9, 2007, [121 Stat. 710](https://www.govinfo.gov/link/statute/121/710); [Pub. L. 115–402, § 3](https://www.govinfo.gov/link/plaw/115/public/402), Dec. 31, 2018, [132 Stat. 5344](https://www.govinfo.gov/link/statute/132/5344); [Pub. L. 116–283, div. E, title LIV, § 5401(e)(3)(A)](https://www.govinfo.gov/link/plaw/116/public/283), div. H, title XCIV, § 9405(b), Jan. 1, 2021, [134 Stat. 4543](https://www.govinfo.gov/link/statute/134/4543), 4812; [Pub. L. 117–167, div. B, title III](https://www.govinfo.gov/link/plaw/117/public/167), §§ 10312(b), (f)(2), 10361(d), Aug. 9, 2022, [136 Stat. 1517](https://www.govinfo.gov/link/statute/136/1517), 1519, 1567.)*

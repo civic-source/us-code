@@ -3,9 +3,10 @@ title: "Section 1596c - Programming language proficiency: special pay for profic
 usc_title: 10
 usc_section: "1596c"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1596c"
-generated_at: "2026-03-30T02:53:38.131Z"
+generated_at: "2026-11-23T20:25:51.398Z"
+status: "active"
 ---
 
 # § 1596c. Programming language proficiency: special pay for proficiency beneficial for national security interests
@@ -16,3 +17,15 @@ generated_at: "2026-03-30T02:53:38.131Z"
 - **(b)** The rate of special pay for an employee under this section shall be prescribed by the Secretary, but may not exceed 20 percent of the employee’s rate of basic pay.
 - **(c)** Special pay under this section is in addition to any other pay or allowances to which the employee is entitled.
 - **(d)** The Secretary of Defense shall prescribe regulations to carry out this section.
+
+Authority
+
+Rate
+
+Relationship to Other Pay and Allowances
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. A, title II, § 241(c)(1)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3487](https://www.govinfo.gov/link/statute/134/3487).)*

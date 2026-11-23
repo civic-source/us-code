@@ -3,9 +3,10 @@ title: "Section 4555 - Investigations; records; reports; subpoenas; right to cou
 usc_title: 50
 usc_section: "4555"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4555"
-generated_at: "2026-03-30T02:56:26.275Z"
+generated_at: "2026-11-23T20:27:31.112Z"
+status: "active"
 ---
 
 # § 4555. Investigations; records; reports; subpoenas; right to counsel
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:26.275Z"
 - **(c)** Any person who willfully performs any act prohibited or willfully fails to perform any act required by the above provisions of this section, or any rule, regulation, or order thereunder, shall upon conviction be fined not more than $10,000 or imprisoned for not more than one year or both.
 - **(d)** Information obtained under this section which the President deems confidential or with reference to which a request for confidential treatment is made by the person furnishing such information shall not be published or disclosed unless the President determines that the withholding thereof is contrary to the interest of the national defense, and any person willfully violating this provision shall, upon conviction, be fined not more than $10,000, or imprisoned for not more than one year, or both.
 - **(e)** Any person subpoenaed under this section shall have the right to make a record of his testimony and to be represented by counsel.
+
+## Source Credit
+
+*(Sept. 8, 1950, ch. 932, title VII, § 705, [64 Stat. 816](https://www.govinfo.gov/link/statute/64/816); July 31, 1951, ch. 275, title I, § 109(d), [65 Stat. 139](https://www.govinfo.gov/link/statute/65/139); June 30, 1952, ch. 530, title I, § 117, [66 Stat. 306](https://www.govinfo.gov/link/statute/66/306); June 30, 1953, ch. 171, § 9, [67 Stat. 131](https://www.govinfo.gov/link/statute/67/131); [Pub. L. 91–452, title II, § 251](https://www.govinfo.gov/link/plaw/91/public/452), Oct. 15, 1970, [84 Stat. 931](https://www.govinfo.gov/link/statute/84/931); [Pub. L. 102–558, title I, § 142](https://www.govinfo.gov/link/plaw/102/public/558), Oct. 28, 1992, [106 Stat. 4217](https://www.govinfo.gov/link/statute/106/4217); [Pub. L. 108–195, § 4](https://www.govinfo.gov/link/plaw/108/public/195), Dec. 19, 2003, [117 Stat. 2893](https://www.govinfo.gov/link/statute/117/2893).)*

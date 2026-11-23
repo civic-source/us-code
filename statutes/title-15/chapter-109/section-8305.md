@@ -3,9 +3,10 @@ title: "Section 8305 - Prohibition against Federal Government bailouts of swaps 
 usc_title: 15
 usc_section: "8305"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 8305"
-generated_at: "2026-03-30T02:54:08.228Z"
+generated_at: "2026-11-23T20:26:04.481Z"
+status: "active"
 ---
 
 # § 8305. Prohibition against Federal Government bailouts of swaps entities
@@ -56,3 +57,9 @@ generated_at: "2026-03-30T02:54:08.228Z"
   - **(5)** Systems for controlling the swaps entity’s participation or entry into in 3 3 So in original. new markets and products.
 - **(l)** The Financial Stability Oversight Council may determine that, 4 4 So in original. The word “that” probably should not appear. when other provisions established by this Act are insufficient to effectively mitigate systemic risk and protect taxpayers, that swaps entities may no longer access Federal assistance with respect to any swap, security-based swap, or other activity of the swaps entity. Any such determination by the Financial Stability Oversight Council of a prohibition of federal assistance shall be made on an institution-by-institution basis, and shall require the vote of not fewer than two-thirds of the members of the Financial Stability Oversight Council, which must include the vote by the Chairman of the Council, the Chairman of the Board of Governors of the Federal Reserve System, and the Chairperson of the Federal Deposit Insurance Corporation. Notice and hearing requirements for such determinations shall be consistent with the standards provided in title I.
 - **(m)** An insured depository institution shall comply with the prohibition on proprietary trading in derivatives as required by section 619 of the Dodd-Frank Wall Street Reform and Consumer Protection Act [ 12 U.S.C. 1851 ].
+
+Limitation on credit default swaps
+
+## Source Credit
+
+*([Pub. L. 111–203, title VII, § 716](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1648](https://www.govinfo.gov/link/statute/124/1648); [Pub. L. 113–235, div. E, title VI, § 630](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2378](https://www.govinfo.gov/link/statute/128/2378).)*

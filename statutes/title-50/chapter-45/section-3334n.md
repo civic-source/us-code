@@ -3,9 +3,10 @@ title: "Section 3334n - Certification relating to information technology and sof
 usc_title: 50
 usc_section: "3334n"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3334n"
-generated_at: "2026-03-30T02:56:26.245Z"
+generated_at: "2026-11-23T20:27:30.965Z"
+status: "active"
 ---
 
 # § 3334n. Certification relating to information technology and software systems
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:26.245Z"
   - **(1)** establish guidelines that the heads of the relevant elements of the intelligence community shall use to evaluate the criteria required for the certifications under subsection (a);
   - **(2)** incentivize each such head to adopt and integrate new and emerging technology within information technology and software systems of the element and to decommission and replace outdated systems, including through potential funding enhancements; and
   - **(3)** incentivize, and hold accountable, personnel of the intelligence community with respect to the integration of new and emerging technology within such systems, including through the provision of appropriate training programs and evaluations.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. F, title LXVII, § 6718](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3577](https://www.govinfo.gov/link/statute/136/3577).)*

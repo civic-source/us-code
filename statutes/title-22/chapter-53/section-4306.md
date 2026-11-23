@@ -3,9 +3,10 @@ title: "Section 4306 - Location of foreign missions in the District of Columbia"
 usc_title: 22
 usc_section: "4306"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4306"
-generated_at: "2026-03-30T02:55:05.410Z"
+generated_at: "2026-11-23T20:26:32.532Z"
+status: "active"
 ---
 
 # § 4306. Location of foreign missions in the District of Columbia
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:55:05.410Z"
     - **(A)** the representative from the Zoning Commission shall be the Director of the National Park Service or if another person has been designated under paragraph (1) of this subsection, the person so designated; and
     - **(B)** the representative from the National Capital Planning Commission shall be the Executive Director of that Commission.
 - **(j)** Provisions of law (other than this chapter) applicable with respect to the location, replacement, or expansion of real property in the District of Columbia shall apply with respect to chanceries only to the extent that they are consistent with this section.
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title II, § 206, as added [Pub. L. 97–241, title II, § 202(b)](https://www.govinfo.gov/link/plaw/97/public/241), Aug. 24, 1982, [96 Stat. 286](https://www.govinfo.gov/link/statute/96/286).)*

@@ -3,9 +3,10 @@ title: "Section 7452 - Nurses and other health-care personnel: administration of
 usc_title: 38
 usc_section: "7452"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7452"
-generated_at: "2026-03-30T02:55:53.532Z"
+generated_at: "2026-11-23T20:27:02.025Z"
+status: "active"
 ---
 
 # § 7452. Nurses and other health-care personnel: administration of pay
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:55:53.532Z"
   - **(2)** The amount of special pay paid to a nurse executive under paragraph (1) shall be not less than $10,000 or more than $100,000.
   - **(3)** The amount of special pay paid to a nurse executive under paragraph (1) shall be based on factors such as the grade of the nurse executive position, the scope and complexity of the nurse executive position, the personal qualifications of the nurse executive, the characteristics of the health care facility concerned, the nature and number of specialty care units at the health care facility concerned, demonstrated difficulties in recruitment and retention of nurse executives at the health care facility concerned, and such other factors as the Secretary considers appropriate.
   - **(4)** Special pay paid to a nurse executive under paragraph (1) shall be in addition to any other pay (including basic pay) and allowances to which the nurse executive is entitled, and shall be considered pay for all purposes, including retirement benefits under chapters 83 and 84 of title 5, and other benefits, but shall not be considered basic pay for purposes of adverse actions under subchapter V of this chapter.
+
+## Source Credit
+
+*(Added [Pub. L. 101–366, title I, § 102(b)](https://www.govinfo.gov/link/plaw/101/public/366), Aug. 15, 1990, [104 Stat. 435](https://www.govinfo.gov/link/statute/104/435), § 4142; renumbered § 7452 and amended [Pub. L. 102–40, title III, § 301(d)](https://www.govinfo.gov/link/plaw/102/public/40), title IV, § 401(c)(1)(A), (3), May 7, 1991, [105 Stat. 208](https://www.govinfo.gov/link/statute/105/208), 238; [Pub. L. 102–585, title III, § 304(a)](https://www.govinfo.gov/link/plaw/102/public/585), Nov. 4, 1992, [106 Stat. 4952](https://www.govinfo.gov/link/statute/106/4952); [Pub. L. 108–445, § 5](https://www.govinfo.gov/link/plaw/108/public/445), Dec. 3, 2004, [118 Stat. 2645](https://www.govinfo.gov/link/statute/118/2645); [Pub. L. 111–163, title VI, § 601(i)](https://www.govinfo.gov/link/plaw/111/public/163), May 5, 2010, [124 Stat. 1170](https://www.govinfo.gov/link/statute/124/1170).)*

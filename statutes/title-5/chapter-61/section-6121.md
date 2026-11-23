@@ -3,9 +3,10 @@ title: "Section 6121 - Definitions"
 usc_title: 5
 usc_section: "6121"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 6121"
-generated_at: "2026-03-30T02:52:56.029Z"
+generated_at: "2026-11-23T20:25:32.017Z"
+status: "active"
 ---
 
 # § 6121. Definitions
@@ -24,3 +25,7 @@ For purposes of this subchapter—
   - **(8)** “collective bargaining”, “collective bargaining agreement”, and “exclusive representative” have the same meanings given such terms—
     - **(A)** by section 7103(a)(12), (8), and (16) of this title, respectively, in the case of any unit covered by chapter 71 of this title; and
     - **(B)** in the case of any other unit, by the corresponding provisions applicable under the personnel system covering this unit.
+
+## Source Credit
+
+*(Added [Pub. L. 97–221, § 2(a)(2)](https://www.govinfo.gov/link/plaw/97/public/221), July 23, 1982, [96 Stat. 227](https://www.govinfo.gov/link/statute/96/227); amended [Pub. L. 101–163, title III, § 312](https://www.govinfo.gov/link/plaw/101/public/163), Nov. 21, 1989, [103 Stat. 1065](https://www.govinfo.gov/link/statute/103/1065); [Pub. L. 104–106, div. A, title X, § 1041](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 433](https://www.govinfo.gov/link/statute/110/433); [Pub. L. 111–68, div. A, title I, § 1302(1)](https://www.govinfo.gov/link/plaw/111/public/68), Oct. 1, 2009, [123 Stat. 2034](https://www.govinfo.gov/link/statute/123/2034); [Pub. L. 113–235, div. H, title I, § 1301(b)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537).)*

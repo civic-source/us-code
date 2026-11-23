@@ -3,9 +3,10 @@ title: "Section 4702 - Definitions"
 usc_title: 12
 usc_section: "4702"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4702"
-generated_at: "2026-03-30T02:53:53.515Z"
+generated_at: "2026-11-23T20:25:59.418Z"
+status: "active"
 ---
 
 # § 4702. Definitions
@@ -56,3 +57,7 @@ For purposes of this subchapter, the following definitions shall apply:
     - **(A)** are low-income persons; or
     - **(B)** otherwise lack adequate access to loans or equity investments.
   - **(21)** The term “training program” means the training program operated by the Fund under section 4708 of this title .
+
+## Source Credit
+
+*([Pub. L. 103–325, title I, § 103](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2163](https://www.govinfo.gov/link/statute/108/2163).)*

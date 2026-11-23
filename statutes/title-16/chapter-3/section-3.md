@@ -3,9 +3,10 @@ title: "Section 3 - Priority trail maintenance program"
 usc_title: 16
 usc_section: "3"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-30T02:54:22.881Z"
+generated_at: "2026-11-23T20:26:20.173Z"
+status: "active"
 ---
 
 # § 583k–3. Priority trail maintenance program
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:22.881Z"
   - **(3)** Utilizing the approach developed under paragraph (1), the Secretary shall substantially increase trail maintenance within each priority area.
 - **(e)** The regional volunteer and partnership coordinators may be responsible for assisting partner organizations in developing and implementing volunteer and partnership projects to increase trail maintenance within priority areas.
 - **(f)** The Secretary shall periodically review the priority areas to determine whether revisions are necessary and may revise the priority areas, including the selection of new priority areas or removal of existing priority areas, at his sole discretion.
+
+## Source Credit
+
+*([Pub. L. 114–245, § 5](https://www.govinfo.gov/link/plaw/114/public/245), Nov. 28, 2016, [130 Stat. 993](https://www.govinfo.gov/link/statute/130/993).)*

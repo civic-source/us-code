@@ -3,9 +3,10 @@ title: "Section 6226 - Annual 1 1 So in original. Probably should be “Biennial
 usc_title: 10
 usc_section: "6226"
 chapter: 605
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6226"
-generated_at: "2026-03-30T02:53:38.222Z"
+generated_at: "2026-11-23T20:25:52.023Z"
+status: "active"
 ---
 
 # § 6226. Annual 1 1 So in original. Probably should be “Biennial”. report and certification on status of security of atomic energy defense facilities
@@ -27,3 +28,11 @@ generated_at: "2026-03-30T02:53:38.222Z"
     - **(A)** the deficiency that resulted in the Secretary being unable to make the certification;
     - **(B)** the actions to be taken to correct the deficiency; and
     - **(C)** timelines for taking such actions.
+
+Report and Certification on Nuclear Security Enterprise
+
+Report and Certification on Atomic Energy Defense Facilities Not Administered by the Administration
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2)(B), Dec. 18, 2025, [139 Stat. 1405](https://www.govinfo.gov/link/statute/139/1405), 1462.)*

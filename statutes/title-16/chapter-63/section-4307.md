@@ -3,9 +3,10 @@ title: "Section 4307 - Civil penalties"
 usc_title: 16
 usc_section: "4307"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 4307"
-generated_at: "2026-03-30T02:54:23.043Z"
+generated_at: "2026-11-23T20:26:20.740Z"
+status: "active"
 ---
 
 # § 4307. Civil penalties
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:23.043Z"
   - **(1)** within 30 days after the order was issued under subsection (a), or
   - **(2)** if the order is appealed within such 30-day period, within 10 days after court has entered a final judgment in favor of the Secretary under subsection (b),
 - **(d)** The Secretary may issue subpoenas in connection with proceedings under this subsection compelling the attendance and testimony of witnesses and subpoenas duces tecum, and may request the Attorney General to bring an action to enforce any subpoena under this section. The district courts shall have jurisdiction to enforce such subpoenas and impose sanctions.
+
+## Source Credit
+
+*([Pub. L. 100–691, § 8](https://www.govinfo.gov/link/plaw/100/public/691), Nov. 18, 1988, [102 Stat. 4550](https://www.govinfo.gov/link/statute/102/4550).)*

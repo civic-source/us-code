@@ -3,9 +3,10 @@ title: "Section 1918 - Protective provisions"
 usc_title: 19
 usc_section: "1918"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1918"
-generated_at: "2026-03-30T02:54:24.661Z"
+generated_at: "2026-11-23T20:26:10.889Z"
+status: "active"
 ---
 
 # § 1918. Protective provisions
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:24.661Z"
   - **(1)** the names of any attorneys, agents, and other persons engaged by or on behalf of the firm for the purpose of expediting applications for such adjustment assistance, and
   - **(2)** the fees paid or to be paid to any such person.
 - **(d)** No financial assistance shall be provided to any firm under section 1914 1 of this title unless the owners, partners, or officers shall execute an agreement binding them and the firm for a period of 2 years after such financial assistance is provided, to refrain from employing, tendering any office or employment to, or retaining for professional services any person who, on the date such assistance or any part thereof was provided, or within one year prior thereto, shall have served as an officer, attorney, agent, or employee occupying a position or engaging in activities which the Secretary of Commerce shall have determined involve discretion with respect to the provision of such financial assistance.
+
+## Source Credit
+
+*([Pub. L. 87–794, title III, § 318](https://www.govinfo.gov/link/plaw/87/public/794), Oct. 11, 1962, [76 Stat. 891](https://www.govinfo.gov/link/statute/76/891).)*

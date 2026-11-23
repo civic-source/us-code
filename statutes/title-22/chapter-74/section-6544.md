@@ -3,9 +3,10 @@ title: "Section 6544 - Report on privatization of RFE/RL, Incorporated"
 usc_title: 22
 usc_section: "6544"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6544"
-generated_at: "2026-03-30T02:55:05.430Z"
+generated_at: "2026-11-23T20:26:32.621Z"
+status: "active"
 ---
 
 # § 6544. Report on privatization of RFE/RL, Incorporated
@@ -16,3 +17,7 @@ Not later than March 1 of each year, the Broadcasting Board of Governors shall s
   - **(2)** A detailed description of steps taken with regard to section 6211(a) of this title .
   - **(3)** An analysis of prospects for privatization over the coming year.
   - **(4)** An assessment of the extent to which United States Government funding may be appropriate in the year 2000 and subsequent years for surrogate broadcasting to the countries to which RFE/RL, Incorporated, broadcast during the year. This assessment shall include an analysis of the environment for independent media in those countries, noting the extent of government control of the media, the ability of independent journalists and news organizations to operate, relevant domestic legislation, level of government harassment and efforts to censor, and other indications of whether the people of such countries enjoy freedom of expression.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XIII, § 1328, Oct. 21, 1998, [112 Stat. 2681–784](https://www.govinfo.gov/link/statute/112/2681).)*

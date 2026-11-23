@@ -3,9 +3,10 @@ title: "Section 842 - Unlawful acts"
 usc_title: 18
 usc_section: "842"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 842"
-generated_at: "2026-03-30T02:54:16.470Z"
+generated_at: "2026-11-23T20:26:08.411Z"
+status: "active"
 ---
 
 # § 842. Unlawful acts
@@ -78,3 +79,13 @@ generated_at: "2026-03-30T02:54:16.470Z"
   - **(2)** It shall be unlawful for any person—
     - **(A)** to teach or demonstrate the making or use of an explosive, a destructive device, or a weapon of mass destruction, or to distribute by any means information pertaining to, in whole or in part, the manufacture or use of an explosive, destructive device, or weapon of mass destruction, with the intent that the teaching, demonstration, or information be used for, or in furtherance of, an activity that constitutes a Federal crime of violence; or
     - **(B)** to teach or demonstrate to any person the making or use of an explosive, a destructive device, or a weapon of mass destruction, or to distribute to any person, by any means, information pertaining to, in whole or in part, the manufacture or use of an explosive, destructive device, or weapon of mass destruction, knowing that such person intends to use the teaching, demonstration, or information for, or in furtherance of, an activity that constitutes a Federal crime of violence.
+
+Distribution of Information Relating to Explosives, Destructive Devices, and Weapons of Mass Destruction.—
+
+Definitions
+
+Prohibition
+
+## Source Credit
+
+*(Added [Pub. L. 91–452, title XI, § 1102(a)](https://www.govinfo.gov/link/plaw/91/public/452), Oct. 15, 1970, [84 Stat. 953](https://www.govinfo.gov/link/statute/84/953); amended [Pub. L. 100–690, title VI, § 6474(c)](https://www.govinfo.gov/link/plaw/100/public/690), (d), Nov. 18, 1988, [102 Stat. 4380](https://www.govinfo.gov/link/statute/102/4380); [Pub. L. 101–647, title XXXV, § 3521](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4923](https://www.govinfo.gov/link/statute/104/4923); [Pub. L. 103–322, title XI](https://www.govinfo.gov/link/plaw/103/public/322), §§ 110508, 110516, Sept. 13, 1994, [108 Stat. 2018](https://www.govinfo.gov/link/statute/108/2018), 2020; [Pub. L. 104–132, title VI, § 603](https://www.govinfo.gov/link/plaw/104/public/132), title VII, § 707, Apr. 24, 1996, [110 Stat. 1289](https://www.govinfo.gov/link/statute/110/1289), 1296; [Pub. L. 106–54, § 2(a)](https://www.govinfo.gov/link/plaw/106/public/54), Aug. 17, 1999, [113 Stat. 398](https://www.govinfo.gov/link/statute/113/398); [Pub. L. 107–296, title XI](https://www.govinfo.gov/link/plaw/107/public/296), §§ 1112(e)(3), 1122(b), 1123, Nov. 25, 2002, [116 Stat. 2276](https://www.govinfo.gov/link/statute/116/2276), 2280, 2283; [Pub. L. 108–177, title III, § 372](https://www.govinfo.gov/link/plaw/108/public/177), Dec. 13, 2003, [117 Stat. 2627](https://www.govinfo.gov/link/statute/117/2627).)*

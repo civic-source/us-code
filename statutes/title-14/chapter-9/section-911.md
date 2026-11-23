@@ -3,9 +3,10 @@ title: "Section 911 - Search and rescue center standards"
 usc_title: 14
 usc_section: "911"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 911"
-generated_at: "2026-03-30T02:53:51.491Z"
+generated_at: "2026-11-23T20:25:54.545Z"
+status: "active"
 ---
 
 # § 911. Search and rescue center standards
@@ -22,3 +23,11 @@ generated_at: "2026-03-30T02:53:51.491Z"
   - **(9)** Any other requirements that the Secretary believes will increase the safe operation of the search and rescue centers.
 - **(b)** It is the sense of the Congress that the Secretary should establish, implement, and maintain minimum standards necessary to ensure that an individual on duty or watch in a Coast Guard search and rescue command center facility does not work more than 12 hours in a 24-hour period, except in an emergency or unforeseen circumstances.
 - **(c)** For the purposes of this section, the term “search and rescue center facility” means a Coast Guard shore facility that maintains a search and rescue mission coordination and communications watch.
+
+Sense of Congress
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 107–295, title IV, § 405(a)(2)](https://www.govinfo.gov/link/plaw/107/public/295), Nov. 25, 2002, [116 Stat. 2115](https://www.govinfo.gov/link/statute/116/2115), § 676; amended [Pub. L. 111–207, § 4(a)(3)](https://www.govinfo.gov/link/plaw/111/public/207), July 27, 2010, [124 Stat. 2251](https://www.govinfo.gov/link/statute/124/2251); renumbered § 911, [Pub. L. 115–282, title I, § 107(b)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4205](https://www.govinfo.gov/link/statute/132/4205).)*

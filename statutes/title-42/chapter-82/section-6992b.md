@@ -3,9 +3,10 @@ title: "Section 6992b - Tracking of medical waste"
 usc_title: 42
 usc_section: "6992b"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6992b"
-generated_at: "2026-03-30T02:56:11.282Z"
+generated_at: "2026-11-23T20:27:22.771Z"
+status: "active"
 ---
 
 # § 6992b. Tracking of medical waste
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.282Z"
 - **(b)** In the program under subsection (a), the Administrator may establish an exemption for generators of small quantities of medical waste listed under section 6992a of this title , except that the Administrator may not exempt from the program any person who, or facility that, generates 50 pounds or more of such waste in any calendar month.
 - **(c)** Concurrently with the promulgation of regulations under subsection (a), the Administrator shall promulgate a recordkeeping and reporting requirement for any generator in a demonstration State of medical waste listed in section 6992a of this title that (1) incinerates medical waste listed in section 6992a of this title on site and (2) does not track such waste under the regulations promulgated under subsection (a). Such requirement shall require the generator to report to the Administrator on the volume and types of medical waste listed in section 6992a of this title that the generator incinerated on site during the 6 months following the effective date of the requirements of this subsection.
 - **(d)** For each of the requirements of this section, the regulations may vary for different types of medical waste and for different types of medical waste generators.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 11003](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 100–582, § 2(a)](https://www.govinfo.gov/link/plaw/100/public/582), Nov. 1, 1988, [102 Stat. 2952](https://www.govinfo.gov/link/statute/102/2952).)*

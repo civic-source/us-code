@@ -3,9 +3,10 @@ title: "Section 5171 - Establishment"
 usc_title: 26
 usc_section: "5171"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 5171"
-generated_at: "2026-03-30T02:55:27.820Z"
+generated_at: "2026-11-23T20:26:46.414Z"
+status: "active"
 ---
 
 # § 5171. Establishment
@@ -23,3 +24,28 @@ generated_at: "2026-03-30T02:55:27.820Z"
 - **(e)**
   - **(1)** For penalty for failure of a distiller or processor to file application for registration as required by this section, see section 5601(a)(2).
   - **(2)** For penalty for the filing of a false application by a distiller, warehouseman, or processor of distilled spirits, see section 5601(a)(3).
+
+| Present subsecs.: | Prior sections |
+| --- | --- |
+| (a) | 5172, 5175(a), 5177(a), 5178, 5231, 5243(a), 5271(a), 5301–5303, 5305, 5331(a)(1). |
+| (b)(1) | 5301–5303, 5304(a)(1). |
+| (c) | 5175(b), 5271(b). |
+
+
+(a)
+
+(b)(1)
+
+(c)
+
+New Application Required.—
+
+In general
+
+Current registration to remain in effect
+
+Continuing Operations at Existing Premises
+
+## Source Credit
+
+*(Added [Pub. L. 85–859, title II, § 201](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1349](https://www.govinfo.gov/link/statute/72/1349); amended [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1905(a)(13), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1820](https://www.govinfo.gov/link/statute/90/1820), 1834; [Pub. L. 96–39, title VIII, § 805(a)](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 274](https://www.govinfo.gov/link/statute/93/274).)*

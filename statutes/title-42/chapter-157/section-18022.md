@@ -3,9 +3,10 @@ title: "Section 18022 - Essential health benefits requirements"
 usc_title: 42
 usc_section: "18022"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18022"
-generated_at: "2026-03-30T02:56:11.512Z"
+generated_at: "2026-11-23T20:27:23.773Z"
+status: "active"
 ---
 
 # § 18022. Essential health benefits requirements
@@ -85,3 +86,7 @@ generated_at: "2026-03-30T02:56:11.512Z"
   - **(3)** If a health insurance issuer offers a health plan described in this subsection, the issuer may only offer the plan in the individual market.
 - **(f)** If a qualified health plan is offered through the Exchange in any level of coverage specified under subsection (d), the issuer shall also offer that plan through the Exchange in that level as a plan in which the only enrollees are individuals who, as of the beginning of a plan year, have not attained the age of 21, and such plan shall be treated as a qualified health plan.
 - **(g)** If any item or service covered by a qualified health plan is provided by a Federally-qualified health center (as defined in section 1396d( l )(2)(B) of this title) to an enrollee of the plan, the offeror of the plan shall pay to the center for the item or service an amount that is not less than the amount of payment that would have been paid to the center under section 1396a(bb) of this title ) for such item or service.
+
+## Source Credit
+
+*([Pub. L. 111–148, title I, § 1302](https://www.govinfo.gov/link/plaw/111/public/148), title X, § 10104(b), Mar. 23, 2010, [124 Stat. 163](https://www.govinfo.gov/link/statute/124/163), 896; [Pub. L. 113–93, title II, § 213(a)](https://www.govinfo.gov/link/plaw/113/public/93), Apr. 1, 2014, [128 Stat. 1047](https://www.govinfo.gov/link/statute/128/1047).)*

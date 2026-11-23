@@ -3,9 +3,10 @@ title: "Section 5858 - Notice and reports to Congress"
 usc_title: 22
 usc_section: "5858"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 5858"
-generated_at: "2026-03-30T02:55:05.421Z"
+generated_at: "2026-11-23T20:26:32.580Z"
+status: "active"
 ---
 
 # § 5858. Notice and reports to Congress
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:05.421Z"
     - **(A)** the Committee on Foreign Relations of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committees on Appropriations of the House and the Senate, wherever the account, budget activity, or program is funded from appropriations made under the international affairs budget function (150);
     - **(B)** the Committees on Armed Services and the Committees on Appropriations of the Senate and the House of Representatives, wherever the account, budget activity, or program is funded from appropriations made under the national defense budget function (050); and
   - **(2)** the committee to which the specified activities of section 5853(a) or 5854(a) of this title or subtitle B 1 of the Soviet Nuclear Threat Reduction Act of 1991 (as the case may be), if the subject of separate legislation, would be referred, under the rules of the respective House of Congress.
+
+## Source Credit
+
+*([Pub. L. 102–511, title V, § 508](https://www.govinfo.gov/link/plaw/102/public/511), Oct. 24, 1992, [106 Stat. 3342](https://www.govinfo.gov/link/statute/106/3342).)*

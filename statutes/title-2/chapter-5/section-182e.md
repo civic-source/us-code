@@ -3,9 +3,10 @@ title: "Section 182e - Library of Congress National Collection Stewardship Fund"
 usc_title: 2
 usc_section: "182e"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 182e"
-generated_at: "2026-03-30T02:53:04.792Z"
+generated_at: "2026-11-23T20:25:28.859Z"
+status: "active"
 ---
 
 # § 182e. Library of Congress National Collection Stewardship Fund
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:04.792Z"
 - **(f)** Not later than 6 months after May 5, 2017 , the Librarian shall submit to the Joint Committee on the Library and the Committees on Appropriations of the House of Representatives and Senate a report providing a plan for expenditures from the Fund for the first 5 fiscal years of the Fund’s operation.
 - **(g)** Prior to any transfer into the Fund, the Librarian shall notify the Joint Committee on the Library and the Committees on Appropriations of the House and the Senate of the amount and origin of funds to be transferred.
 - **(h)** This section shall apply with respect to fiscal year 2017 and each succeeding fiscal year.
+
+## Source Credit
+
+*([Pub. L. 115–31, div. I, title I, § 1302](https://www.govinfo.gov/link/plaw/115/public/31), May 5, 2017, [131 Stat. 584](https://www.govinfo.gov/link/statute/131/584).)*

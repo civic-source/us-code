@@ -3,9 +3,10 @@ title: "Section 2431g - Conservation Agreement"
 usc_title: 22
 usc_section: "2431g"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2431g"
-generated_at: "2026-03-30T02:55:05.367Z"
+generated_at: "2026-11-23T20:26:32.301Z"
+status: "active"
 ---
 
 # § 2431g. Conservation Agreement
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:55:05.367Z"
   - **(2)** In providing grants under paragraph (1), priority shall be given to projects that are run by nongovernmental organizations and other private entities and that involve local communities in their planning and execution.
 - **(f)** Any grant of more than $250,000 from a Fund must be approved by the Government of the United States and the government of the beneficiary country.
 - **(g)** In the event that a country ceases to meet the eligibility requirements set forth in section 2431c(a) of this title , as determined by the President pursuant to section 2431c(b) of this title , then grants from the Fund for that country may only be made to nongovernmental organizations until such time as the President determines that such country meets the eligibility requirements set forth in section 2431c(a) of this title .
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. V, § 809, as added [Pub. L. 105–214, § 1](https://www.govinfo.gov/link/plaw/105/public/214), July 29, 1998, [112 Stat. 890](https://www.govinfo.gov/link/statute/112/890); amended [Pub. L. 115–440, § 8(a)](https://www.govinfo.gov/link/plaw/115/public/440) –(d), Jan. 14, 2019, [132 Stat. 5583](https://www.govinfo.gov/link/statute/132/5583).)*

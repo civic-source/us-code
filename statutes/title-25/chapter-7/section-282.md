@@ -3,12 +3,17 @@ title: "Section 282 - Regulations by Secretary of the Interior to secure attenda
 usc_title: 25
 usc_section: "282"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 282"
-generated_at: "2026-03-30T02:54:52.802Z"
+generated_at: "2026-11-23T20:26:25.367Z"
+status: "active"
 ---
 
 # § 282. Regulations by Secretary of the Interior to secure attendance at school
 
 The Secretary of the Interior is authorized to make and enforce such rules and regulations as may be necessary to secure the enrollment and regular attendance of eligible Indian children who are wards of the Government in schools maintained for their benefit by the United States or in public schools.
 
+
+## Source Credit
+
+*(Feb. 14, 1920, ch. 75, § 1, [41 Stat. 410](https://www.govinfo.gov/link/statute/41/410).)*

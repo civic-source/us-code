@@ -3,9 +3,10 @@ title: "Section 6936 - Expansion during interim status"
 usc_title: 42
 usc_section: "6936"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6936"
-generated_at: "2026-03-30T02:56:11.273Z"
+generated_at: "2026-11-23T20:27:22.739Z"
+status: "active"
 ---
 
 # § 6936. Expansion during interim status
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.273Z"
   - **(1)** The owner or operator of a landfill or surface impoundment qualifying for the authorization to operate under section 6925(e) of this title shall be subject to the requirements of section 6924( o ) of this title (relating to minimum technological requirements), with respect to each new unit, replacement of an existing unit, or lateral expansion of an existing unit that is within the waste management area identified in the permit application submitted under this section, and with respect to waste received beginning 6 months after November 8, 1984 .
   - **(2)** The owner or operator of each unit referred to in paragraph (1) shall notify the Administrator (or the State, if appropriate) at least sixty days prior to receiving waste. The Administrator (or the State) shall require the filing, within six months of receipt of such notice, of an application for a final determination regarding the issuance of a permit for each facility submitting such notice.
   - **(3)** In the case of any unit in which the liner and leachate collection system has been installed pursuant to the requirements of this section and in good faith compliance with the Administrator’s regulations and guidance documents governing liners and leachate collection systems, no liner or leachate collection system which is different from that which was so installed pursuant to this section shall be required for such unit by the Administrator when issuing the first permit under section 6925 of this title to such facility, except that the Administrator shall not be precluded from requiring installation of a new liner when the Administrator has reason to believe that any liner installed pursuant to the requirements of this section is leaking. The Administrator may, under section 6924 of this title , amend the requirements for liners and leachate collection systems required under this section as may be necessary to provide additional protection for human health and the environment.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 3015](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 98–616, title II, § 243(a)](https://www.govinfo.gov/link/plaw/98/public/616), Nov. 8, 1984, [98 Stat. 3260](https://www.govinfo.gov/link/statute/98/3260).)*

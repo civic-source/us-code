@@ -3,9 +3,10 @@ title: "Section 279 - Interest on indebtedness incurred by corporation to acquir
 usc_title: 26
 usc_section: "279"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 279"
-generated_at: "2026-03-30T02:55:27.660Z"
+generated_at: "2026-11-23T20:26:45.545Z"
+status: "active"
 ---
 
 # § 279. Interest on indebtedness incurred by corporation to acquire stock or assets of another corporation
@@ -58,3 +59,9 @@ generated_at: "2026-03-30T02:55:27.660Z"
   - **(1)** Any extension, renewal, or refinancing of an obligation evidencing a preexisting indebtedness shall not be deemed to be the issuance of a new obligation.
   - **(2)** Any obligation which is corporate acquisition indebtedness of the issuing corporation is also corporate acquisition indebtedness of any corporation which becomes liable for such obligation as guarantor, endorser, or indemnitor or which assumes liability for such obligation in any transaction.
 - **(i)** No inference shall be drawn from any provision in this section that any instrument designated as a bond, debenture, note, or certificate or other evidence of indebtedness by its issuer represents an obligation or indebtedness of such issuer in applying any other provision of this title.
+
+“The amendments made by this paragraph [amending this section] shall not—
+
+## Source Credit
+
+*(Added [Pub. L. 91–172, title IV, § 411(a)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 604](https://www.govinfo.gov/link/statute/83/604); amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 94–514, § 1(a)](https://www.govinfo.gov/link/plaw/94/public/514), Oct. 15, 1976, [90 Stat. 2443](https://www.govinfo.gov/link/statute/90/2443); [Pub. L. 113–295, div. A, title II, § 221(a)(47)(A)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4045](https://www.govinfo.gov/link/statute/128/4045).)*

@@ -3,9 +3,10 @@ title: "Section 458 - Prohibited acts"
 usc_title: 21
 usc_section: "458"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 458"
-generated_at: "2026-03-30T02:54:54.285Z"
+generated_at: "2026-11-23T20:26:27.791Z"
+status: "active"
 ---
 
 # § 458. Prohibited acts
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:54.285Z"
   - **(4)** knowingly possess, without promptly notifying the Secretary or his representative, any official device or any counterfeit, simulated, forged, or improperly altered official certificate or any device or label or any carcass of any poultry, or part or product thereof, bearing any counterfeit, simulated, forged, or improperly altered official mark;
   - **(5)** knowingly make any false statement in any shipper’s certificate or other nonofficial or official certificate provided for in the regulations prescribed by the Secretary; or
   - **(6)** knowingly represent that any article has been inspected and passed, or exempted, under this chapter when, in fact, it has respectively, not been so inspected and passed, or exempted.
+
+## Source Credit
+
+*([Pub. L. 85–172, § 9](https://www.govinfo.gov/link/plaw/85/public/172), Aug. 28, 1957, [71 Stat. 445](https://www.govinfo.gov/link/statute/71/445); [Pub. L. 90–492, § 9](https://www.govinfo.gov/link/plaw/90/public/492), Aug. 18, 1968, [82 Stat. 800](https://www.govinfo.gov/link/statute/82/800).)*

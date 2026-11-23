@@ -3,9 +3,10 @@ title: "Section 1151 - Definitions"
 usc_title: 6
 usc_section: "1151"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 1151"
-generated_at: "2026-03-30T02:53:09.506Z"
+generated_at: "2026-11-23T20:25:34.920Z"
+status: "active"
 ---
 
 # § 1151. Definitions
@@ -33,3 +34,7 @@ In this subchapter, the following definitions apply:
     - **(D)** A select agent or toxin regulated by the Centers for Disease Control and Prevention under part 73 of title 42, Code of Federal Regulations.
   - **(14)** The term “disadvantaged business concerns” means small businesses that are owned and controlled by socially and economically disadvantaged individuals as defined in section 124, 2 2 So in original. Probably should be “part 124,”. of title 13, Code of Federal Regulations.
   - **(15)** The term “Amtrak” means the National Railroad Passenger Corporation.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XV, § 1501](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 422](https://www.govinfo.gov/link/statute/121/422).)*

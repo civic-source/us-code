@@ -3,9 +3,10 @@ title: "Section 9307 - Reports"
 usc_title: 22
 usc_section: "9307"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9307"
-generated_at: "2026-03-30T02:55:05.465Z"
+generated_at: "2026-11-23T20:26:32.768Z"
+status: "active"
 ---
 
 # § 9307. Reports
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:55:05.465Z"
   - **(2)** to the extent available, a detailed accounting of all assistance funding received and obligated by the principal Federal agencies identified in the report and United States multilateral commitments using Federal funds, for global food security activities during the current fiscal year; and
   - **(3)** a breakout of the proposed budget for the current and budget years by agency, categorizing expenditures by type of funding, including research, resiliency, and other food security activities to the extent that such information is available.
 - **(c)** The information referred to in subsections (a) and (b) shall be made available on the public website of the United States Agency for International Development in an open, machine readable format, in a timely manner.
+
+## Source Credit
+
+*([Pub. L. 114–195, § 8](https://www.govinfo.gov/link/plaw/114/public/195), July 20, 2016, [130 Stat. 682](https://www.govinfo.gov/link/statute/130/682); [Pub. L. 115–266, § 3](https://www.govinfo.gov/link/plaw/115/public/266), Oct. 11, 2018, [132 Stat. 3755](https://www.govinfo.gov/link/statute/132/3755); [Pub. L. 117–263, div. E, title LV, § 5588(h)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3379](https://www.govinfo.gov/link/statute/136/3379).)*

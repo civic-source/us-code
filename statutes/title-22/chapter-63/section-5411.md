@@ -3,9 +3,10 @@ title: "Section 5411 - Multilateral support for structural adjustment in Poland 
 usc_title: 22
 usc_section: "5411"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 5411"
-generated_at: "2026-03-30T02:55:05.417Z"
+generated_at: "2026-11-23T20:26:32.560Z"
+status: "active"
 ---
 
 # § 5411. Multilateral support for structural adjustment in Poland and Hungary
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:05.417Z"
     - **(A)** shall urge all members of the “Paris Club” of creditor governments and other creditor governments to adopt, and participate in, a generous and early rescheduling program for debts owed by the Government of Poland; and
     - **(B)** in coordination with other creditor governments, shall seek to expedite consultations between the Government of Poland and its major private creditors in order to facilitate a rescheduling and reduction of payments due on debt owed to such creditors in a manner consistent with the international debt policy announced by the Secretary of the Treasury on March 10, 1989 .
   - **(3)** The United States Government shall provide agricultural assistance for Poland in accordance with section 5413 of this title .
+
+## Source Credit
+
+*([Pub. L. 101–179, title I, § 101](https://www.govinfo.gov/link/plaw/101/public/179), Nov. 28, 1989, [103 Stat. 1302](https://www.govinfo.gov/link/statute/103/1302).)*

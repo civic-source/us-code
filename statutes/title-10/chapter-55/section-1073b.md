@@ -3,9 +3,10 @@ title: "Section 1073b - Recurring reports and publication of certain data"
 usc_title: 10
 usc_section: "1073b"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1073b"
-generated_at: "2026-03-30T02:53:38.099Z"
+generated_at: "2026-11-23T20:25:51.194Z"
+status: "active"
 ---
 
 # § 1073b. Recurring reports and publication of certain data
@@ -16,3 +17,11 @@ generated_at: "2026-03-30T02:53:38.099Z"
   - **(2)** The Secretary shall publish an update to the data published under paragraph (1) not less frequently than once each quarter during each fiscal year.
   - **(3)** The Secretary may not include data relating to risk management activities of the Department in any publication under paragraph (1) or update under paragraph (2).
   - **(4)** The Secretary shall ensure that the data published under paragraph (1) and updated under paragraph (2) is accessible to the public through the primary Internet website of the Department and the primary Internet website of the military medical treatment facility with respect to which such data applies.
+
+Annual Report on Recording of Health Assessment Data in Military Health Records
+
+Publication of Data on Patient Safety, Quality of Care, Satisfaction, and Health Outcome Measures
+
+## Source Credit
+
+*(Added [Pub. L. 108–375, div. A, title VII, § 739(a)(1)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2001](https://www.govinfo.gov/link/statute/118/2001); amended [Pub. L. 114–92, div. A, title VII, § 712](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 864](https://www.govinfo.gov/link/statute/129/864); [Pub. L. 114–328, div. A, title VII, § 728(b)(1)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2234](https://www.govinfo.gov/link/statute/130/2234); [Pub. L. 115–91, div. A, title X](https://www.govinfo.gov/link/plaw/115/public/91), §§ 1051(a)(5), 1081(d)(3), Dec. 12, 2017, [131 Stat. 1560](https://www.govinfo.gov/link/statute/131/1560), 1600.)*

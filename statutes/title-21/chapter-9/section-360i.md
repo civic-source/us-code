@@ -3,9 +3,10 @@ title: "Section 360i - Records and reports on devices"
 usc_title: 21
 usc_section: "360i"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 360i"
-generated_at: "2026-03-30T02:54:54.250Z"
+generated_at: "2026-11-23T20:26:27.647Z"
+status: "active"
 ---
 
 # § 360i. Records and reports on devices
@@ -140,3 +141,7 @@ generated_at: "2026-03-30T02:54:54.250Z"
     - **(E)** the number of patients involved in such project; and
     - **(F)** the findings of the project in relation to device safety, including adverse events, malfunctions, and other safety information.
   - **(10)** The Secretary may not carry out a pilot project initiated by the Secretary under this subsection after October 1, 2022 .
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 519, as added [Pub. L. 94–295, § 2](https://www.govinfo.gov/link/plaw/94/public/295), May 28, 1976, [90 Stat. 564](https://www.govinfo.gov/link/statute/90/564); amended [Pub. L. 101–629](https://www.govinfo.gov/link/plaw/101/public/629), §§ 2(a), 3(a)(1), (b)(1), 7, Nov. 28, 1990, [104 Stat. 4511](https://www.govinfo.gov/link/statute/104/4511), 4513, 4514, 4520; [Pub. L. 102–300, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/300), June 16, 1992, [106 Stat. 239](https://www.govinfo.gov/link/statute/106/239); [Pub. L. 103–80, § 3(u)](https://www.govinfo.gov/link/plaw/103/public/80), Aug. 13, 1993, [107 Stat. 778](https://www.govinfo.gov/link/statute/107/778); [Pub. L. 105–115, title II](https://www.govinfo.gov/link/plaw/105/public/115), §§ 211, 213(a), (c), Nov. 21, 1997, [111 Stat. 2345–2347](https://www.govinfo.gov/link/statute/111/2345); [Pub. L. 110–85, title II](https://www.govinfo.gov/link/plaw/110/public/85), §§ 226(a), 227, Sept. 27, 2007, [121 Stat. 854](https://www.govinfo.gov/link/statute/121/854); [Pub. L. 112–144, title VI](https://www.govinfo.gov/link/plaw/112/public/144), §§ 614, 615, July 9, 2012, [126 Stat. 1061](https://www.govinfo.gov/link/statute/126/1061); [Pub. L. 114–255, div. A, title III, § 3101(a)(2)(L)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1154](https://www.govinfo.gov/link/statute/130/1154); [Pub. L. 115–52, title VII, § 708(a)](https://www.govinfo.gov/link/plaw/115/public/52), Aug. 18, 2017, [131 Stat. 1062](https://www.govinfo.gov/link/statute/131/1062).)*

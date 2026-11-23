@@ -3,9 +3,10 @@ title: "Section 508 - Costs incurred in the modification of structures"
 usc_title: 43
 usc_section: "508"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 508"
-generated_at: "2026-03-30T02:55:57.453Z"
+generated_at: "2026-11-23T20:27:06.223Z"
+status: "active"
 ---
 
 # § 508. Costs incurred in the modification of structures
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:57.453Z"
 - **(e)**
   - **(1)** During the construction of the modification, the Secretary shall consider cost containment measures recommended by a project beneficiary that has elected to consult with the Bureau of Reclamation on a modification.
   - **(2)** The Secretary shall provide to project beneficiaries on a periodic basis notice regarding the costs and status of the modification.
+
+## Source Credit
+
+*([Pub. L. 95–578, § 4](https://www.govinfo.gov/link/plaw/95/public/578), Nov. 2, 1978, [92 Stat. 2471](https://www.govinfo.gov/link/statute/92/2471); [Pub. L. 98–404, § 1(1)](https://www.govinfo.gov/link/plaw/98/public/404), (2), Aug. 28, 1984, [98 Stat. 1481](https://www.govinfo.gov/link/statute/98/1481); [Pub. L. 106–377, § 1(a)(2) [title II]](https://www.govinfo.gov/link/plaw/106/public/377), Oct. 27, 2000, [114 Stat. 1441](https://www.govinfo.gov/link/statute/114/1441), 1441A–67; [Pub. L. 107–117, div. B, § 503(1)](https://www.govinfo.gov/link/plaw/107/public/117), Jan. 10, 2002, [115 Stat. 2308](https://www.govinfo.gov/link/statute/115/2308); [Pub. L. 108–439](https://www.govinfo.gov/link/plaw/108/public/439), §§ 1(a), 2(a), Dec. 3, 2004, [118 Stat. 2627](https://www.govinfo.gov/link/statute/118/2627).)*

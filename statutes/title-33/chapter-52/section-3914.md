@@ -3,9 +3,10 @@ title: "Section 3914 - Requirements"
 usc_title: 33
 usc_section: "3914"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 3914"
-generated_at: "2026-03-30T02:55:41.146Z"
+generated_at: "2026-11-23T20:26:54.286Z"
+status: "active"
 ---
 
 # § 3914. Requirements
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:41.146Z"
   - **(3)** inclusion of iron and steel products produced in the United States will increase the cost of the overall project by more than 25 percent.
 - **(d)** If the Administrator receives a request for a waiver under this section, the Administrator shall make available to the public, on an informal basis, a copy of the request and information available to the Administrator concerning the request, and shall allow for informal public input on the request for at least 15 days prior to making a finding based on the request. The Administrator shall make the request and accompanying information available by electronic means, including on the official public Internet Web site of the Environmental Protection Agency.
 - **(e)** This section shall be applied in a manner consistent with United States obligations under international agreements.
+
+## Source Credit
+
+*([Pub. L. 113–121, title V, § 5035](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1344](https://www.govinfo.gov/link/statute/128/1344).)*

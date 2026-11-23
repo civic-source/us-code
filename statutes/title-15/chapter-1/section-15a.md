@@ -3,9 +3,10 @@ title: "Section 15a - Suits by United States; amount of recovery; prejudgment in
 usc_title: 15
 usc_section: "15a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 15a"
-generated_at: "2026-03-30T02:54:08.021Z"
+generated_at: "2026-11-23T20:26:03.362Z"
+status: "active"
 ---
 
 # § 15a. Suits by United States; amount of recovery; prejudgment interest
@@ -16,3 +17,9 @@ Whenever the United States is hereafter injured in its business or property by r
   - **(2)** whether, in the course of the action involved, the United States or the opposing party, or either party’s representative, violated any applicable rule, statute, or court order providing for sanctions for dilatory behavior or otherwise providing for expeditious proceedings;
   - **(3)** whether the United States or the opposing party, or either party’s representative, engaged in conduct primarily for the purpose of delaying the litigation or increasing the cost thereof; and
   - **(4)** whether the award of such interest is necessary to compensate the United States adequately for the injury sustained by the United States.
+
+Amendment
+
+## Source Credit
+
+*(Oct. 15, 1914, ch. 323, § 4A, as added July 7, 1955, ch. 283, § 1, [69 Stat. 282](https://www.govinfo.gov/link/statute/69/282); amended [Pub. L. 96–349, § 4(a)(2)](https://www.govinfo.gov/link/plaw/96/public/349), Sept. 12, 1980, [94 Stat. 1156](https://www.govinfo.gov/link/statute/94/1156); [Pub. L. 101–588, § 5](https://www.govinfo.gov/link/plaw/101/public/588), Nov. 16, 1990, [104 Stat. 2880](https://www.govinfo.gov/link/statute/104/2880).)*

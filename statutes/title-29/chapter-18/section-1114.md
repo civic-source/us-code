@@ -3,9 +3,10 @@ title: "Section 1114 - Effective date"
 usc_title: 29
 usc_section: "1114"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1114"
-generated_at: "2026-03-30T02:55:18.718Z"
+generated_at: "2026-11-23T20:26:37.968Z"
+status: "active"
 ---
 
 # § 1114. Effective date
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:18.718Z"
   - **(5)** the sale, exchange, or other disposition of property which is owned by a plan on June 30, 1974 , and all times thereafter, to a party in interest, if such plan is required to dispose of such property in order to comply with the provisions of section 1107(a) of this title (relating to the prohibition against holding excess employer securities and employer real property), and if the plan receives not less than adequate consideration.
 - **(d)** Any election, or failure to elect, by a disqualified person under section 2003(c)(1)(B) of this Act shall be treated for purposes of this part (but not for purposes of section 1144 of this title ) as an act or omission occurring before the effective date of this part.
 - **(e)** The preceding provisions of this section shall not apply with respect to amendments made to this part in provisions enacted after September 2, 1974 .
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 414](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 889](https://www.govinfo.gov/link/statute/88/889); [Pub. L. 101–239, title VII, § 7894(e)(6)](https://www.govinfo.gov/link/plaw/101/public/239), (h)(4), Dec. 19, 1989, [103 Stat. 2450](https://www.govinfo.gov/link/statute/103/2450), 2451.)*

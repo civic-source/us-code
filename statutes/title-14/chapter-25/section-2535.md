@@ -3,9 +3,10 @@ title: "Section 2535 - Safe-to-Report policy for Coast Guard"
 usc_title: 14
 usc_section: "2535"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 2535"
-generated_at: "2026-03-30T02:53:51.501Z"
+generated_at: "2026-11-23T20:25:54.615Z"
+status: "active"
 ---
 
 # § 2535. Safe-to-Report policy for Coast Guard
@@ -22,3 +23,17 @@ generated_at: "2026-03-30T02:53:51.501Z"
   - **(1)** is committed close in time to or during a sexual assault and directly related to the incident that formed the basis of the allegation of sexual assault allegation;
   - **(2)** is discovered as a direct result of the report of sexual assault or the ensuing investigation into such sexual assault; and
   - **(3)** does not involve aggravating circumstances (as specified in the policy issued under subsection (a)) that increase the gravity of the minor misconduct or the impact of such misconduct on good order and discipline.
+
+In General
+
+Safe-to-Report Policy
+
+Mitigating and Aggravating Circumstances
+
+Tracking of Collateral Misconduct Incidents
+
+Minor Collateral Misconduct Defined
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. G, title LXXV, § 7511(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1803](https://www.govinfo.gov/link/statute/139/1803).)*

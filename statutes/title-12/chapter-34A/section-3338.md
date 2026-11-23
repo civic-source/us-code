@@ -3,9 +3,10 @@ title: "Section 3338 - Roster of State certified or licensed appraisers; authori
 usc_title: 12
 usc_section: "3338"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 3338"
-generated_at: "2026-03-30T02:53:53.493Z"
+generated_at: "2026-11-23T20:25:59.332Z"
+status: "active"
 ---
 
 # § 3338. Roster of State certified or licensed appraisers; authority to collect and transmit fees
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:53.493Z"
     - **(A)** the complaint process, complaint investigations, and appraiser enforcement activities of such agencies; and
     - **(B)** the submission of data on State licensed and certified appraisers and appraisal management companies to the National appraisal registry, including information affirming that the appraiser or appraisal management company meets the required qualification criteria and formal and informal disciplinary actions; and
   - **(6)** to report to all State appraiser certifying and licensing agencies when a license or certification is surrendered, revoked, or suspended.
+
+## Source Credit
+
+*([Pub. L. 101–73, title XI, § 1109](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 513](https://www.govinfo.gov/link/statute/103/513); [Pub. L. 111–203, title XIV, § 1473(g)](https://www.govinfo.gov/link/plaw/111/public/203), (h)(1), (i), July 21, 2010, [124 Stat. 2194](https://www.govinfo.gov/link/statute/124/2194), 2195.)*

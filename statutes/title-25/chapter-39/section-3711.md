@@ -3,9 +3,10 @@ title: "Section 3711 - Management of Indian rangelands and farmlands"
 usc_title: 25
 usc_section: "3711"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3711"
-generated_at: "2026-03-30T02:54:52.855Z"
+generated_at: "2026-11-23T20:26:25.663Z"
+status: "active"
 ---
 
 # § 3711. Management of Indian rangelands and farmlands
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:52.855Z"
       - **(vii)** use the public meeting records, existing survey documents, reports, and other research from Federal agencies, tribal community colleges, and land grant universities; and
       - **(viii)** be completed within three years of the initiation of activity to establish the plan.
   - **(2)** Indian agriculture resource management plans developed and approved under this section shall govern the management and administration of Indian agricultural resources and Indian agricultural lands by the Bureau and the Indian tribal government.
+
+## Source Credit
+
+*([Pub. L. 103–177, title I, § 101](https://www.govinfo.gov/link/plaw/103/public/177), Dec. 3, 1993, [107 Stat. 2014](https://www.govinfo.gov/link/statute/107/2014).)*

@@ -3,9 +3,10 @@ title: "Section 4308 - General provisions"
 usc_title: 22
 usc_section: "4308"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4308"
-generated_at: "2026-03-30T02:55:05.410Z"
+generated_at: "2026-11-23T20:26:32.532Z"
+status: "active"
 ---
 
 # § 4308. General provisions
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:05.410Z"
   - **(1)** In order to implement this chapter, the Secretary may transfer to the working capital fund established by section 2684 of this title such amounts available to the Department of State as may be necessary.
   - **(2)** All revenues, including proceeds from gifts and donations, received by the Secretary in carrying out this chapter may be credited to the working capital fund established by section 2684 of this title and shall be available for purposes of this chapter in accordance with that section.
   - **(3)** Only amounts transferred or credited to the working capital fund established by section 2684 of this title may be used in carrying out the functions of the Secretary or the Director under this chapter.
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title II, § 208, as added [Pub. L. 97–241, title II, § 202(b)](https://www.govinfo.gov/link/plaw/97/public/241), Aug. 24, 1982, [96 Stat. 288](https://www.govinfo.gov/link/statute/96/288); amended [Pub. L. 103–236, title I, § 162](https://www.govinfo.gov/link/plaw/103/public/236) (o)(6), Apr. 30, 1994, [108 Stat. 410](https://www.govinfo.gov/link/statute/108/410).)*

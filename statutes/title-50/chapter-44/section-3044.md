@@ -3,9 +3,10 @@ title: "Section 3044 - Software licensing"
 usc_title: 50
 usc_section: "3044"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3044"
-generated_at: "2026-03-30T02:56:26.230Z"
+generated_at: "2026-11-23T20:27:30.898Z"
+status: "active"
 ---
 
 # § 3044. Software licensing
@@ -28,3 +29,15 @@ generated_at: "2026-03-30T02:56:26.230Z"
   - **(3)** based on the assessment required under paragraph (2), make such recommendations with respect to software procurement and usage to the Director of National Intelligence as the Chief Information Officer considers appropriate.
 - **(c)** The Chief Information Officer of the Intelligence Community shall submit to the congressional intelligence committees a copy of each inventory compiled under subsection (b)(1).
 - **(d)** Not later than 180 days after the date on which the Director of National Intelligence receives recommendations from the Chief Information Officer of the Intelligence Community in accordance with subsection (b)(3), the Director of National Intelligence shall, to the extent practicable, issue guidelines for the intelligence community on software procurement and usage based on such recommendations.
+
+Intelligence community elements.—
+
+Date
+
+Basis
+
+Chief information officer of the intelligence community
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title I, § 109, as added [Pub. L. 113–126, title III, § 307(a)](https://www.govinfo.gov/link/plaw/113/public/126), July 7, 2014, [128 Stat. 1396](https://www.govinfo.gov/link/statute/128/1396); amended [Pub. L. 113–293, title III, § 304](https://www.govinfo.gov/link/plaw/113/public/293), Dec. 19, 2014, [128 Stat. 3995](https://www.govinfo.gov/link/statute/128/3995).)*

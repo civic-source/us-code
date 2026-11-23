@@ -3,9 +3,10 @@ title: "Section 3032 - Program authorized"
 usc_title: 42
 usc_section: "3032"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3032"
-generated_at: "2026-03-30T02:56:11.175Z"
+generated_at: "2026-11-23T20:27:22.225Z"
+status: "active"
 ---
 
 # § 3032. Program authorized
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:56:11.175Z"
 - **(b)** There are authorized to be appropriated to carry out—
   - **(1)** aging network support activities under this section, $14,514,550 for fiscal year 2020, $15,385,423 for fiscal year 2021, $16,308,548 for fiscal year 2022, $17,287,061 for fiscal year 2023, and $18,324,285 for fiscal year 2024; and
   - **(2)** elder rights support activities under this section, $15,613,440 for fiscal year 2020, $16,550,246 for fiscal year 2021, $17,543,261 for fiscal year 2022, $18,595,857 for fiscal year 2023, and $19,711,608 for fiscal year 2024.
+
+## Source Credit
+
+*([Pub. L. 89–73, title IV, § 411](https://www.govinfo.gov/link/plaw/89/public/73), as added [Pub. L. 106–501, title IV, § 401](https://www.govinfo.gov/link/plaw/106/public/501), Nov. 13, 2000, [114 Stat. 2257](https://www.govinfo.gov/link/statute/114/2257); amended [Pub. L. 109–365, title IV, § 402](https://www.govinfo.gov/link/plaw/109/public/365), Oct. 17, 2006, [120 Stat. 2552](https://www.govinfo.gov/link/statute/120/2552); [Pub. L. 114–144, § 5(a)](https://www.govinfo.gov/link/plaw/114/public/144), Apr. 19, 2016, [130 Stat. 341](https://www.govinfo.gov/link/statute/130/341); [Pub. L. 116–131, title I](https://www.govinfo.gov/link/plaw/116/public/131), §§ 104(3), 119, 120, title III, §§ 301–304, Mar. 25, 2020, [134 Stat. 243](https://www.govinfo.gov/link/statute/134/243), 247, 263.)*

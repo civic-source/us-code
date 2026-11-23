@@ -3,9 +3,10 @@ title: "Section 31310 - Disqualifications"
 usc_title: 49
 usc_section: "31310"
 chapter: 313
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 31310"
-generated_at: "2026-03-30T02:56:19.361Z"
+generated_at: "2026-11-23T20:27:34.971Z"
+status: "active"
 ---
 
 # § 31310. Disqualifications
@@ -58,3 +59,93 @@ generated_at: "2026-03-30T02:56:19.361Z"
     - **(A)** the penalty for a single violation is not less than a 60-day disqualification of the driver’s commercial driver’s license; and
     - **(B)** any employer that knowingly allows, permits, authorizes, or requires an employee to operate a commercial motor vehicle in violation of such a law or regulation shall be subject to a civil penalty of not more than $10,000.
 - **(k)** A foreign commercial driver shall be subject to disqualification under this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 31310(a) | 49 App.:2707(f). | Oct. 27, 1986 , Pub. L. 99–570, § 12008 , 100 Stat. 3207–177 . |
+| 31310(b) | 49 App.:2707(a)(1). |  |
+| 31310(c) | 49 App.:2707(a)(2). |  |
+| 31310(d) | 49 App.:2707(b). |  |
+| 31310(e) | 49 App.:2707(c). |  |
+| 31310(f) | 49 App.:2707(e). |  |
+| 31310(g)(1) | 49 App.:2707(d). |  |
+| 31310(g)(2) | 49 App.:2718. | Oct. 27, 1986 , Pub. L. 99–570 , 100 Stat. 3207–170 , § 12020; added Dec. 18, 1991 , Pub. L. 102–240, § 4009(a) , 105 Stat. 2156 . |
+
+
+Blood Alcohol Concentration Level
+
+First Violation or Committing Felony
+
+Second and Multiple Violations
+
+Lifetime Disqualification Without Reinstatement
+
+Controlled substance violations
+
+Human trafficking violations
+
+Serious Traffic Violations
+
+Emergency Disqualification.—
+
+Limited duration
+
+After notice and hearing
+
+Noncommercial Motor Vehicle Convictions.—
+
+Issuance of regulations
+
+Requirements for regulations
+
+State Disqualification
+
+Out-of-Service Orders
+
+Grade-Crossing Violations.—
+
+Sanctions
+
+Minimum requirements
+
+Foreign Commercial Drivers
+
+Historical and Revision Notes
+
+31310(a)
+
+Oct. 27, 1986
+
+Pub. L. 99–570, § 12008
+
+100 Stat. 3207–177
+
+31310(b)
+
+31310(c)
+
+31310(d)
+
+31310(e)
+
+31310(f)
+
+31310(g)(1)
+
+31310(g)(2)
+
+Oct. 27, 1986
+
+Pub. L. 99–570
+
+100 Stat. 3207–170
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 4009(a)
+
+105 Stat. 2156
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1022](https://www.govinfo.gov/link/statute/108/1022); [Pub. L. 104–88, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 956](https://www.govinfo.gov/link/statute/109/956); [Pub. L. 106–159, title II, § 201(a)(1)](https://www.govinfo.gov/link/plaw/106/public/159), (2), (b), Dec. 9, 1999, [113 Stat. 1758](https://www.govinfo.gov/link/statute/113/1758), 1759; [Pub. L. 109–59, title IV, § 4102(b)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1715](https://www.govinfo.gov/link/statute/119/1715); [Pub. L. 112–141, div. C, title II](https://www.govinfo.gov/link/plaw/112/public/141), §§ 32204, 32507, 32931(d), July 6, 2012, [126 Stat. 785](https://www.govinfo.gov/link/statute/126/785), 804, 829; [Pub. L. 115–106, § 2](https://www.govinfo.gov/link/plaw/115/public/106), Jan. 8, 2018, [131 Stat. 2265](https://www.govinfo.gov/link/statute/131/2265).)*

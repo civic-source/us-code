@@ -3,9 +3,10 @@ title: "Section 788 - Use of commercial standards"
 usc_title: 15
 usc_section: "788"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 788"
-generated_at: "2026-03-30T02:54:08.122Z"
+generated_at: "2026-11-23T20:26:03.932Z"
+status: "active"
 ---
 
 # § 788. Use of commercial standards
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:08.122Z"
   - **(6)** delineation of procedures or definition of terms;
   - **(7)** measurement of quantity or quality for evaluating or referring to materials, products, systems, services, or practices; or
   - **(8)** similar rules, procedures, requirements, or standards;
+
+## Source Credit
+
+*([Pub. L. 93–275, § 32](https://www.govinfo.gov/link/plaw/93/public/275), as added [Pub. L. 95–70, § 9](https://www.govinfo.gov/link/plaw/95/public/70), July 21, 1977, [91 Stat. 278](https://www.govinfo.gov/link/statute/91/278).)*

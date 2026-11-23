@@ -3,9 +3,10 @@ title: "Section 2922j - Annual report on purchase of drop-in fuel"
 usc_title: 10
 usc_section: "2922j"
 chapter: 173
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2922j"
-generated_at: "2026-03-30T02:53:38.187Z"
+generated_at: "2026-11-23T20:25:51.779Z"
+status: "active"
 ---
 
 # § 2922j. Annual report on purchase of drop-in fuel
@@ -16,3 +17,11 @@ generated_at: "2026-03-30T02:53:38.187Z"
 - **(b)** In this section:
   - **(1)** The term “drop-in fuel” means a neat or blended liquid hydrocarbon fuel designed as a direct replacement for a traditional fuel with comparable performance characteristics and compatible with existing infrastructure and equipment.
   - **(2)** The term “traditional fuel” means a liquid hydrocarbon fuel derived or refined from petroleum.
+
+In General
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 118–159, div. A, title III, § 315(b)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1852](https://www.govinfo.gov/link/statute/138/1852).)*

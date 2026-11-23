@@ -3,9 +3,10 @@ title: "Section 4728 - Environmental trade promotion"
 usc_title: 15
 usc_section: "4728"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 4728"
-generated_at: "2026-03-30T02:54:08.203Z"
+generated_at: "2026-11-23T20:26:04.356Z"
+status: "active"
 ---
 
 # § 4728. Environmental trade promotion
@@ -71,3 +72,7 @@ generated_at: "2026-03-30T02:54:08.203Z"
   - **(2)** provide, through the National Trade Data Bank and other information dissemination channels, information on opportunities for environmental businesses in foreign markets and information on Federal export promotion programs.
 - **(j)** Subject to the availability of appropriations for such purpose, the Secretary is authorized to use the Market Development Cooperator Program to support the creation on a regional basis of alliances of private sector entities, nonprofit organizations, and universities, that support the export of environmental technologies, goods, and services and promote the export of products complying with United States environmental, safety, and related requirements.
 - **(k)** For purposes of this section, the term “environmental business” means a business that produces environmental technologies, goods, or services.
+
+## Source Credit
+
+*([Pub. L. 100–418, title II, § 2313](https://www.govinfo.gov/link/plaw/100/public/418), as added [Pub. L. 102–429, title II, § 204(a)](https://www.govinfo.gov/link/plaw/102/public/429), Oct. 21, 1992, [106 Stat. 2202](https://www.govinfo.gov/link/statute/106/2202); amended [Pub. L. 103–392, title IV, § 402](https://www.govinfo.gov/link/plaw/103/public/392), Oct. 22, 1994, [108 Stat. 4099](https://www.govinfo.gov/link/statute/108/4099).)*

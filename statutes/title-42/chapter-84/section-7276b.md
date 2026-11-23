@@ -3,9 +3,10 @@ title: "Section 7276b - Integrated resource plans"
 usc_title: 42
 usc_section: "7276b"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7276b"
-generated_at: "2026-03-30T02:56:11.287Z"
+generated_at: "2026-11-23T20:27:22.800Z"
+status: "active"
 ---
 
 # § 7276b. Integrated resource plans
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:11.287Z"
 - **(f)** With the approval of the Administrator, customers within any State or region may form integrated resource planning cooperatives for the purposes of complying with sections 7275 to 7276c of this title, and such customers shall be allowed an additional 6 months to submit an initial integrated resource plan to the Administrator.
 - **(g)** If more than one long-term firm power service contract exists between the Administrator and a customer, only one integrated resource plan shall be required for that customer under sections 7275 to 7276c of this title.
 - **(h)** Within 1 year after January 1, 1999 , and at appropriate intervals thereafter, the Administrator shall initiate a public process to review the program established by this section. The Administrator is authorized at that time to revise the criteria set forth in subsection (b) to reflect changes, if any, in technology, needs, or other developments.
+
+## Source Credit
+
+*([Pub. L. 98–381, title II, § 204](https://www.govinfo.gov/link/plaw/98/public/381), as added [Pub. L. 102–486, title I, § 114](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2800](https://www.govinfo.gov/link/statute/106/2800).)*

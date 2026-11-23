@@ -3,9 +3,10 @@ title: "Section 105 - General provisions applicable to land exchanges"
 usc_title: 16
 usc_section: "105"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 105"
-generated_at: "2026-03-30T02:54:22.845Z"
+generated_at: "2026-11-23T20:26:20.032Z"
+status: "active"
 ---
 
 # § 460nnn–105. General provisions applicable to land exchanges
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:22.845Z"
 - **(b)** Except as otherwise provided in this section, the exchange of Federal land under this part is subject to the existing laws and regulations applicable to the conveyance and acquisition of land under the jurisdiction of the Bureau of Land Management. It is anticipated that the Secretary will be able to carry out such land exchanges without the promulgation of additional regulations and without regard to the notice and comment provisions of section 553 of title 5 .
 - **(c)** Title to the non-Federal lands to be conveyed under this part must be acceptable to the Secretary, and the conveyances shall be subject to valid existing rights of record. The non-Federal lands shall conform with the title approval standards applicable to Federal land acquisitions.
 - **(d)** The exact acreage and legal description of all lands to be exchanged under this part shall be determined by surveys satisfactory to the Secretary. The costs of any such survey, as well as other administrative costs incurred to execute a land exchange under this part, shall be borne by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 106–399, title VI, § 605](https://www.govinfo.gov/link/plaw/106/public/399), Oct. 30, 2000, [114 Stat. 1673](https://www.govinfo.gov/link/statute/114/1673).)*

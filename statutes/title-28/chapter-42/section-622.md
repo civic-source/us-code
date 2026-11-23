@@ -3,12 +3,17 @@ title: "Section 622 - Meetings; conduct of business"
 usc_title: 28
 usc_section: "622"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 622"
-generated_at: "2026-03-30T02:55:30.135Z"
+generated_at: "2026-11-23T20:26:36.401Z"
+status: "active"
 ---
 
 # § 622. Meetings; conduct of business
 
 - **(a)** Regular meetings of the Board shall be held quarterly. Special meetings shall be held from time to time upon the call of the Chairman, acting at his own discretion or pursuant to the petition of any four members.
 - **(b)** Each member of the Board shall be entitled to one vote. A simple majority of the membership shall constitute a quorum for the conduct of business. The Board shall act upon the concurrence of a simple majority of the members present and voting.
+
+## Source Credit
+
+*(Added [Pub. L. 90–219, title I, § 101](https://www.govinfo.gov/link/plaw/90/public/219), Dec. 20, 1967, [81 Stat. 665](https://www.govinfo.gov/link/statute/81/665).)*

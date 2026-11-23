@@ -3,9 +3,10 @@ title: "Section 6307 - Special compliance personnel program account"
 usc_title: 26
 usc_section: "6307"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6307"
-generated_at: "2026-03-30T02:55:27.848Z"
+generated_at: "2026-11-23T20:26:46.611Z"
+status: "active"
 ---
 
 # § 6307. Special compliance personnel program account
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:27.848Z"
     - **(A)** total salaries (including locality pay and bonuses), benefits, and employment taxes for special compliance personnel employed or trained under the program described in subsection (a),
     - **(B)** direct overhead costs, salaries, benefits, and employment taxes relating to support staff, rental payments, office equipment and furniture, travel, data processing services, vehicle costs, utilities, communications, software, technology, postage, printing and reproduction, supplies and materials, lands and structures, insurance claims, and indemnities for special compliance personnel hired and employed under this section, and
     - **(C)** reimbursement of the Internal Revenue Service or other government agencies for the cost of administering the qualified tax collection program under section 6306.
+
+## Source Credit
+
+*(Added [Pub. L. 114–94, div. C, title XXXII, § 32103(b)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1736](https://www.govinfo.gov/link/statute/129/1736); amended [Pub. L. 116–25, title I, § 1205(d)](https://www.govinfo.gov/link/plaw/116/public/25), July 1, 2019, [133 Stat. 989](https://www.govinfo.gov/link/statute/133/989).)*

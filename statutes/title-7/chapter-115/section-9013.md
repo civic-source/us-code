@@ -3,9 +3,10 @@ title: "Section 9013 - Payment yields"
 usc_title: 7
 usc_section: "9013"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 9013"
-generated_at: "2026-03-30T02:53:42.483Z"
+generated_at: "2026-11-23T20:25:41.932Z"
+status: "active"
 ---
 
 # § 9013. Payment yields
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:53:42.483Z"
 - **(e)**
   - **(1)** Subject to paragraph (2), the payment yield for seed cotton for a farm shall be equal to 2.4 times the payment yield for upland cotton for the farm established under section 8714(e)(3) of this title (as in effect on September 30, 2013 ).
   - **(2)** At the sole discretion of the owner of a farm with a yield for upland cotton described in paragraph (1), the owner of the farm shall have a 1-time opportunity to update the payment yield for upland cotton for the farm, as provided in subsection (d), for the purpose of calculating the payment yield for seed cotton under paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 113–79, title I, § 1113](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 664](https://www.govinfo.gov/link/statute/128/664); [Pub. L. 115–123, div. F, § 60101(a)(4)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 308](https://www.govinfo.gov/link/statute/132/308); [Pub. L. 115–334, title I, § 1103](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4501](https://www.govinfo.gov/link/statute/132/4501).)*

@@ -3,9 +3,10 @@ title: "Section 5341 - Policy"
 usc_title: 5
 usc_section: "5341"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 5341"
-generated_at: "2026-03-30T02:52:56.014Z"
+generated_at: "2026-11-23T20:25:31.909Z"
+status: "active"
 ---
 
 # § 5341. Policy
@@ -16,3 +17,7 @@ It is the policy of Congress that rates of pay of prevailing rate employees be f
   - **(2)** there will be relative differences in pay within a local wage area when there are substantial or recognizable differences in duties, responsibilities, and qualification requirements among positions;
   - **(3)** the level of rates of pay will be maintained in line with prevailing levels for comparable work within a local wage area; and
   - **(4)** the level of rates of pay will be maintained so as to attract and retain qualified prevailing rate employees.
+
+## Source Credit
+
+*(Added [Pub. L. 92–392, § 1(a)](https://www.govinfo.gov/link/plaw/92/public/392), Aug. 19, 1972, [86 Stat. 564](https://www.govinfo.gov/link/statute/86/564).)*

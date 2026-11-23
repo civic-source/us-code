@@ -3,9 +3,10 @@ title: "Section 12442 - Purpose areas"
 usc_title: 34
 usc_section: "12442"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12442"
-generated_at: "2026-03-30T02:55:33.287Z"
+generated_at: "2026-11-23T20:26:50.548Z"
+status: "active"
 ---
 
 # § 12442. Purpose areas
@@ -16,3 +17,7 @@ Grants made under this part may be used—
   - **(2)** to defray the costs of modifying or improving existing databases, registries, and victim notification systems to ensure that personally identifying information of victims is protected from release, unauthorized information sharing and disclosure;
   - **(3)** to develop confidential opt out systems that will enable victims of violence to make a single request to keep personally identifying information out of multiple databases, victim notification systems, and registries; or
   - **(4)** to develop safe uses of technology (such as notice requirements regarding electronic surveillance by government entities), to protect against abuses of technology (such as electronic or GPS stalking), or providing training for law enforcement on high tech electronic crimes of domestic violence, dating violence, sexual assault, and stalking.
+
+## Source Credit
+
+*([Pub. L. 103–322, title IV, § 41102](https://www.govinfo.gov/link/plaw/103/public/322), as added [Pub. L. 109–162, title I, § 107](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 2983](https://www.govinfo.gov/link/statute/119/2983).)*

@@ -3,9 +3,10 @@ title: "Section 2027 - Appropriations and allotments"
 usc_title: 7
 usc_section: "2027"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2027"
-generated_at: "2026-03-30T02:53:42.373Z"
+generated_at: "2026-11-23T20:25:41.466Z"
+status: "active"
 ---
 
 # § 2027. Appropriations and allotments
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:53:42.373Z"
     - **(C)** any agreements with foreign governments designed to promote supplemental nutrition assistance program benefits and enrollment.
   - **(2)** Paragraph (1)(B) shall not apply to programmatic activities undertaken with respect to benefits made under section 2014(h) of this title .
 - **(h)** The Secretary shall issue regulations that prohibit entities that receive funds under this chapter to compensate any person for conducting outreach activities relating to participation in, or for recruiting individuals to apply to receive benefits under, the supplemental nutrition assistance program, if the amount of the compensation would be based on the number of individuals who apply to receive the benefits.
+
+## Source Credit
+
+*([Pub. L. 88–525, § 18](https://www.govinfo.gov/link/plaw/88/public/525), as added [Pub. L. 95–113, title XIII, § 1301](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 979](https://www.govinfo.gov/link/statute/91/979); amended [Pub. L. 96–58, § 1](https://www.govinfo.gov/link/plaw/96/public/58), Aug. 14, 1979, [93 Stat. 389](https://www.govinfo.gov/link/statute/93/389); [Pub. L. 96–249, title I, § 134](https://www.govinfo.gov/link/plaw/96/public/249), title II, § 201, May 26, 1980, [94 Stat. 368](https://www.govinfo.gov/link/statute/94/368), 370; [Pub. L. 97–18, § 1](https://www.govinfo.gov/link/plaw/97/public/18), June 30, 1981, [95 Stat. 102](https://www.govinfo.gov/link/statute/95/102); [Pub. L. 97–98, title XIII](https://www.govinfo.gov/link/plaw/97/public/98), §§ 1331, 1332, Dec. 22, 1981, [95 Stat. 1291](https://www.govinfo.gov/link/statute/95/1291); [Pub. L. 97–253, title I](https://www.govinfo.gov/link/plaw/97/public/253), §§ 180(b)(2), 183, Sept. 8, 1982, [96 Stat. 784](https://www.govinfo.gov/link/statute/96/784), 785; [Pub. L. 99–198, title XV](https://www.govinfo.gov/link/plaw/99/public/198), §§ 1535(c)(2), 1541, 1542(a), Dec. 23, 1985, [99 Stat. 1585](https://www.govinfo.gov/link/statute/99/1585), 1589; [Pub. L. 101–624, title XVII](https://www.govinfo.gov/link/plaw/101/public/624), §§ 1760, 1761, Nov. 28, 1990, [104 Stat. 3803](https://www.govinfo.gov/link/statute/104/3803), 3804; [Pub. L. 104–127, title IV, § 401(e)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1026](https://www.govinfo.gov/link/statute/110/1026); [Pub. L. 104–193, title VIII, § 853](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2339](https://www.govinfo.gov/link/statute/110/2339); [Pub. L. 105–362, title I, § 101(b)](https://www.govinfo.gov/link/plaw/105/public/362), Nov. 10, 1998, [112 Stat. 3281](https://www.govinfo.gov/link/statute/112/3281); [Pub. L. 107–171, title IV](https://www.govinfo.gov/link/plaw/107/public/171), §§ 4118(c), 4122(c), May 13, 2002, [116 Stat. 321](https://www.govinfo.gov/link/statute/116/321), 324; [Pub. L. 110–234, title IV](https://www.govinfo.gov/link/plaw/110/public/234), §§ 4001(b), 4002(a)(10), 4406(a)(1), title VII, § 7101(b)(3), May 22, 2008, [122 Stat. 1092](https://www.govinfo.gov/link/statute/122/1092), 1095, 1140, 1213; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, §§ 4001(b), 4002(a)(10), 4406(a)(1), title VII, § 7101(b)(3), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1853, 1856, 1902, 1974; [Pub. L. 113–79, title IV](https://www.govinfo.gov/link/plaw/113/public/79), §§ 4018(b), (c), 4024, 4030(j), Feb. 7, 2014, [128 Stat. 797](https://www.govinfo.gov/link/statute/128/797), 809, 814; [Pub. L. 115–334, title IV, § 4016](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4648](https://www.govinfo.gov/link/statute/132/4648).)*

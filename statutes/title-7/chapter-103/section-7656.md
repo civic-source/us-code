@@ -3,9 +3,10 @@ title: "Section 7656 - Designation of Crisis Management Team within Department"
 usc_title: 7
 usc_section: "7656"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7656"
-generated_at: "2026-03-30T02:53:42.460Z"
+generated_at: "2026-11-23T20:25:41.826Z"
+status: "active"
 ---
 
 # § 7656. Designation of Crisis Management Team within Department
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:42.460Z"
   - **(6)** Cooperating with, and coordinating among, other Federal agencies, States, local governments, industry, and public interest groups, Department activities regarding a crisis.
 - **(c)** The Crisis Management Team shall cooperate with the Advisory Board in the prioritization of agricultural research conducted or funded by the Department regarding animal health, natural disasters, food safety, and other agricultural issues.
 - **(d)** The Secretary shall seek to enter into cooperative agreements with other Federal departments and agencies that have related programs or activities to help ensure consistent, accurate, and coordinated dissemination of information throughout the executive branch in the event of a crisis, such as, in the case of a threat to human health from food-borne pathogens, developing a rapid and coordinated response among the Department, the Centers for Disease Control, and the Food and Drug Administration.
+
+## Source Credit
+
+*([Pub. L. 105–185, title VI, § 618](https://www.govinfo.gov/link/plaw/105/public/185), June 23, 1998, [112 Stat. 607](https://www.govinfo.gov/link/statute/112/607).)*

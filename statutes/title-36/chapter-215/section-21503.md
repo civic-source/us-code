@@ -3,9 +3,10 @@ title: "Section 21503 - Governing body"
 usc_title: 36
 usc_section: "21503"
 chapter: 215
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 21503"
-generated_at: "2026-03-30T02:55:44.693Z"
+generated_at: "2026-11-23T20:26:58.820Z"
+status: "active"
 ---
 
 # § 21503. Governing body
@@ -25,3 +26,44 @@ generated_at: "2026-03-30T02:55:44.693Z"
   - **(2)** conduct all business of the corporation;
   - **(3)** fill, until the next annual election, a vacancy on the board; and
   - **(4)** appoint attending and resident physicians and surgeons, agents, assistants, and attendants as may be necessary, set their compensation, and discharge them.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 21503(a) | 36:4904 (1st sentence). | Jan. 30, 1913, ch. 21 , §§ 4 (1st sentence), 6, 37 Stat. 655 ; Apr. 12, 1974 , Pub. L. 93–266 , 88 Stat. 85 . |
+|  | 36:4905. | Jan. 30, 1913, ch. 21 , §§ 5, 7, 8, 37 Stat. 655 . |
+|  | 36:4906. |  |
+| 21503(b) | 36:4908. |  |
+| 21503(c) | 36:4907. |  |
+
+
+General
+
+Quorum
+
+Powers
+
+Historical and Revision Notes
+
+21503(a)
+
+Jan. 30, 1913, ch. 21
+
+37 Stat. 655
+
+Apr. 12, 1974
+
+Pub. L. 93–266
+
+88 Stat. 85
+
+Jan. 30, 1913, ch. 21
+
+37 Stat. 655
+
+21503(b)
+
+21503(c)
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1295](https://www.govinfo.gov/link/statute/112/1295).)*

@@ -3,9 +3,10 @@ title: "Section 3073a - Requirements for certain employment activities by former
 usc_title: 50
 usc_section: "3073a"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3073a"
-generated_at: "2026-03-30T02:56:26.234Z"
+generated_at: "2026-11-23T20:27:30.908Z"
+status: "active"
 ---
 
 # § 3073a. Requirements for certain employment activities by former intelligence officers and employees
@@ -82,3 +83,23 @@ generated_at: "2026-03-30T02:56:26.234Z"
     - **(A)** who was an employee occupying a covered intelligence position; and
     - **(B)** who is subject to the requirements under subsection (a) or (b).
   - **(7)** The term “government of a foreign country” has the meaning given the term in section 611(e) of title 22 .
+
+Definition of covered intelligence position
+
+Submission
+
+Requirements
+
+Certification
+
+Submission
+
+Certification
+
+Regulations
+
+Certification
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title III, § 304, as added [Pub. L. 113–293, title III, § 305(a)](https://www.govinfo.gov/link/plaw/113/public/293), Dec. 19, 2014, [128 Stat. 3995](https://www.govinfo.gov/link/statute/128/3995); amended [Pub. L. 117–103, div. X, title III, § 308(a)(1)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 966](https://www.govinfo.gov/link/statute/136/966); [Pub. L. 117–263, div. F, title LXIII, § 6301(a)](https://www.govinfo.gov/link/plaw/117/public/263) –(c), Dec. 23, 2022, [136 Stat. 3498–3500](https://www.govinfo.gov/link/statute/136/3498); [Pub. L. 118–31, div. G, title III, § 7304](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1025](https://www.govinfo.gov/link/statute/137/1025); [Pub. L. 118–159, div. F, title LXVI, § 6615](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2506](https://www.govinfo.gov/link/statute/138/2506).)*

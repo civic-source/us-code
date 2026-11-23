@@ -3,9 +3,10 @@ title: "Section 15102 - National Commercial Fishing Safety Advisory Committee"
 usc_title: 46
 usc_section: "15102"
 chapter: 151
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 15102"
-generated_at: "2026-03-30T02:56:15.560Z"
+generated_at: "2026-11-23T20:27:27.194Z"
+status: "active"
 ---
 
 # § 15102. National Commercial Fishing Safety Advisory Committee
@@ -40,3 +41,23 @@ generated_at: "2026-03-30T02:56:15.560Z"
       - **(iii)** a person familiar with issues affecting fishing communities and the families of fishermen.
 - **(d)** A quorum of 10 members is required to send any written recommendations from the Committee to the Secretary.
 - **(e)** Nothing in this section shall preclude the Secretary from taking emergency action to ensure safety and preservation of life at sea.
+
+Establishment
+
+Function
+
+Membership.—
+
+In general
+
+Expertise
+
+Representation
+
+Quorum
+
+Savings Clause
+
+## Source Credit
+
+*(Added [Pub. L. 115–282, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4281](https://www.govinfo.gov/link/statute/132/4281); amended [Pub. L. 116–283, div. G, title LVXXXIII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXIII], § 8335(a)(1), Jan. 1, 2021, [134 Stat. 4706](https://www.govinfo.gov/link/statute/134/4706).)*

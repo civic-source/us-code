@@ -3,9 +3,10 @@ title: "Section 3204 - International Trade Commission reports on impact of this 
 usc_title: 19
 usc_section: "3204"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3204"
-generated_at: "2026-03-30T02:54:24.689Z"
+generated_at: "2026-11-23T20:26:11.038Z"
+status: "active"
 ---
 
 # § 3204. International Trade Commission reports on impact of this chapter
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:24.689Z"
 - **(c)**
   - **(1)** Each report required under subsection (a) shall be submitted to the Congress before the close of the 9-month period beginning on the day after the last day of the period covered by the report.
   - **(2)** The Commission shall provide an opportunity for the submission by the public, either orally or in writing, or both, of information relating to matters that will be addressed in the reports.
+
+## Source Credit
+
+*([Pub. L. 102–182, title II, § 206](https://www.govinfo.gov/link/plaw/102/public/182), Dec. 4, 1991, [105 Stat. 1243](https://www.govinfo.gov/link/statute/105/1243); [Pub. L. 106–200, title II, § 211(d)(2)](https://www.govinfo.gov/link/plaw/106/public/200), May 18, 2000, [114 Stat. 287](https://www.govinfo.gov/link/statute/114/287).)*

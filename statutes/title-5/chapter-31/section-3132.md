@@ -3,9 +3,10 @@ title: "Section 3132 - Definitions and exclusions"
 usc_title: 5
 usc_section: "3132"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 3132"
-generated_at: "2026-03-30T02:52:56.000Z"
+generated_at: "2026-11-23T20:25:31.800Z"
+status: "active"
 ---
 
 # § 3132. Definitions and exclusions
@@ -51,3 +52,9 @@ generated_at: "2026-03-30T02:52:56.000Z"
 - **(f)** If—
   - **(1)** any agency is excluded under subsection (c) of this section, or
   - **(2)** any exclusion is revoked under subsection (e) of this section,
+
+“Notwithstanding section 3132(a)(2) of title 5 , United States Code, removal of Senate confirmation for any position in this section shall not—
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1155](https://www.govinfo.gov/link/statute/92/1155); amended [Pub. L. 96–54, § 2(a)(12)](https://www.govinfo.gov/link/plaw/96/public/54), Aug. 14, 1979, [93 Stat. 382](https://www.govinfo.gov/link/statute/93/382); [Pub. L. 96–187, title II, § 203](https://www.govinfo.gov/link/plaw/96/public/187), Jan. 8, 1980, [93 Stat. 1368](https://www.govinfo.gov/link/statute/93/1368); [Pub. L. 100–325, § 2(c)](https://www.govinfo.gov/link/plaw/100/public/325), May 30, 1988, [102 Stat. 581](https://www.govinfo.gov/link/statute/102/581); [Pub. L. 101–73, title VII, § 742(c)](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 437](https://www.govinfo.gov/link/statute/103/437); [Pub. L. 101–509, title V, § 529 [title I, § 101(b)(9)(A)]](https://www.govinfo.gov/link/plaw/101/public/509), Nov. 5, 1990, [104 Stat. 1427](https://www.govinfo.gov/link/statute/104/1427), 1441; [Pub. L. 101–624, title XVIII, § 1841](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3835](https://www.govinfo.gov/link/statute/104/3835); [Pub. L. 102–496, title IV, § 402(b)](https://www.govinfo.gov/link/plaw/102/public/496), Oct. 24, 1992, [106 Stat. 3184](https://www.govinfo.gov/link/statute/106/3184); [Pub. L. 102–550, title XIII, § 1351(b)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3969](https://www.govinfo.gov/link/statute/106/3969); [Pub. L. 103–359, title V, § 501(d)](https://www.govinfo.gov/link/plaw/103/public/359), Oct. 14, 1994, [108 Stat. 3429](https://www.govinfo.gov/link/statute/108/3429); [Pub. L. 104–201, div. A, title XI, § 1122(a)(1)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2687](https://www.govinfo.gov/link/statute/110/2687); [Pub. L. 107–123, § 8(d)(1)(B)](https://www.govinfo.gov/link/plaw/107/public/123), Jan. 16, 2002, [115 Stat. 2399](https://www.govinfo.gov/link/statute/115/2399); [Pub. L. 107–171, title X, § 10702(c)(1)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 517](https://www.govinfo.gov/link/statute/116/517); [Pub. L. 107–252, title VIII, § 811(b)](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1727](https://www.govinfo.gov/link/statute/116/1727); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 110–289, div. A, title I, § 1161(g)(2)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2781](https://www.govinfo.gov/link/statute/122/2781); [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title IX, § 931(a)(1), Oct. 14, 2008, [122 Stat. 4575](https://www.govinfo.gov/link/statute/122/4575); [Pub. L. 111–203, title I, § 152(d)(4)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1414](https://www.govinfo.gov/link/statute/124/1414); [Pub. L. 112–277, title V, § 505(b)](https://www.govinfo.gov/link/plaw/112/public/277), Jan. 14, 2013, [126 Stat. 2478](https://www.govinfo.gov/link/statute/126/2478); [Pub. L. 113–277, § 3(b)](https://www.govinfo.gov/link/plaw/113/public/277), Dec. 18, 2014, [128 Stat. 3008](https://www.govinfo.gov/link/statute/128/3008); [Pub. L. 114–92, div. A, title XI, § 1107(b)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 1027](https://www.govinfo.gov/link/statute/129/1027).)*

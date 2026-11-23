@@ -3,9 +3,10 @@ title: "Section 240d - Audits: audit of financial statements of Department of De
 usc_title: 10
 usc_section: "240d"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 240d"
-generated_at: "2026-03-30T02:53:38.049Z"
+generated_at: "2026-11-23T20:25:50.890Z"
+status: "active"
 ---
 
 # § 240d. Audits: audit of financial statements of Department of Defense components by independent external auditors
@@ -25,3 +26,29 @@ generated_at: "2026-03-30T02:53:38.049Z"
 - **(e)** The requirements of this section—
   - **(1)** shall not be construed to alter the requirement under section 3521(e) of title 31 that the financial statements of the Department of Defense as a whole be audited by the Inspector General or by an independent external auditor, as determined by the Inspector General; and
   - **(2)** shall not be construed to limit or alter the authorities of the Comptroller General of the United States under section 3521(g) of title 31 .
+
+Audits Required
+
+Selection of Auditors
+
+Monitoring Audits
+
+Reports on Audits.—
+
+In general
+
+Appropriate committees of congress defined
+
+Relationship to Existing Law
+
+In General
+
+Exceptions
+
+In General
+
+Treatment of Statement
+
+## Source Credit
+
+*(Added and amended [Pub. L. 115–91, div. A, title X, § 1002(e)(1)](https://www.govinfo.gov/link/plaw/115/public/91) –(3), Dec. 12, 2017, [131 Stat. 1541](https://www.govinfo.gov/link/statute/131/1541), § 254; renumbered § 240d, [Pub. L. 115–232, div. A, title X, § 1002(a)(1)(A)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1945](https://www.govinfo.gov/link/statute/132/1945); [Pub. L. 118–31, div. A, title IX, § 901(d)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 354](https://www.govinfo.gov/link/statute/137/354).)*

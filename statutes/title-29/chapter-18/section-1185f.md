@@ -3,9 +3,10 @@ title: "Section 1185f - Ending surprise air ambulance bills"
 usc_title: 29
 usc_section: "1185f"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1185f"
-generated_at: "2026-03-30T02:55:18.725Z"
+generated_at: "2026-11-23T20:26:37.998Z"
+status: "active"
 ---
 
 # § 1185f. Ending surprise air ambulance bills
@@ -81,3 +82,7 @@ generated_at: "2026-03-30T02:55:18.725Z"
   - **(1)** The term “air ambulance service” means medical transport by helicopter or airplane for patients.
   - **(2)** The term “qualifying payment amount” has the meaning given such term in section 1185e(a)(3) of this title .
   - **(3)** The term “nonparticipating provider” has the meaning given such term in section 1185e(a)(3) of this title .
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 717](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 116–260, div. BB, title I, § 105(a)(2)(A)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2838](https://www.govinfo.gov/link/statute/134/2838).)*

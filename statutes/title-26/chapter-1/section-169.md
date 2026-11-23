@@ -3,9 +3,10 @@ title: "Section 169 - Amortization of pollution control facilities"
 usc_title: 26
 usc_section: "169"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 169"
-generated_at: "2026-03-30T02:55:27.645Z"
+generated_at: "2026-11-23T20:26:45.457Z"
+status: "active"
 ---
 
 # § 169. Amortization of pollution control facilities
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:55:27.645Z"
 - **[(h)**
 - **(i)** In the case of property held by one person for life with remainder to another person, the deduction under this section shall be computed as if the life tenant were the absolute owner of the property and shall be allowable to the life tenant.
 - **(j)** For special rule with respect to certain gain derived from the disposition of property the adjusted basis of which is determined with regard to this section, see section 1245.
+
+## Source Credit
+
+*(Added [Pub. L. 91–172, title VII, § 704(a)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 667](https://www.govinfo.gov/link/statute/83/667); amended [Pub. L. 92–178, title I, § 104(f)(2)](https://www.govinfo.gov/link/plaw/92/public/178), Dec. 10, 1971, [85 Stat. 502](https://www.govinfo.gov/link/statute/85/502); [Pub. L. 93–625, § 3(a)](https://www.govinfo.gov/link/plaw/93/public/625), Jan. 3, 1975, [88 Stat. 2109](https://www.govinfo.gov/link/statute/88/2109); [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), title XXI, § 2112(b), (c), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834), 1906; [Pub. L. 109–58, title XIII, § 1309(a)](https://www.govinfo.gov/link/plaw/109/public/58) –(d), Aug. 8, 2005, [119 Stat. 1007](https://www.govinfo.gov/link/statute/119/1007); [Pub. L. 109–135, title IV, § 402(e)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2611](https://www.govinfo.gov/link/statute/119/2611); [Pub. L. 115–141, div. U, title IV, § 401(a)(51)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1186](https://www.govinfo.gov/link/statute/132/1186).)*

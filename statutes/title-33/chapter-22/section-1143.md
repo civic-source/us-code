@@ -3,9 +3,10 @@ title: "Section 1143 - Grants"
 usc_title: 33
 usc_section: "1143"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1143"
-generated_at: "2026-03-30T02:55:41.081Z"
+generated_at: "2026-11-23T20:26:53.963Z"
+status: "active"
 ---
 
 # § 1143. Grants
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:55:41.081Z"
   - **(4)** institutions of higher education with fisheries expertise and programs; and
   - **(5)** partners, as the Secretary determines.
 - **(g)** A grant under this section may not be used to purchase any fishing license, permit, quota, or other harvesting right.
+
+## Source Credit
+
+*([Pub. L. 116–289, § 4](https://www.govinfo.gov/link/plaw/116/public/289), Jan. 5, 2021, [134 Stat. 4886](https://www.govinfo.gov/link/statute/134/4886).)*

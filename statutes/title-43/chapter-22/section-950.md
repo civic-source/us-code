@@ -3,12 +3,17 @@ title: "Section 950 - Right of way to canal and ditch companies for irrigation p
 usc_title: 43
 usc_section: "950"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 950"
-generated_at: "2026-03-30T02:55:57.466Z"
+generated_at: "2026-11-23T20:27:06.266Z"
+status: "active"
 ---
 
 # § 950. Right of way to canal and ditch companies for irrigation purposes; additional grants
 
 In addition to the rights of way granted by sections 946 to 949 of this title, and subject to the conditions and restrictions therein contained, the Secretary of the Interior is authorized to grant permits or easements for not to exceed five acres of ground adjoining the right of way at each of the locations, to be determined by the Secretary of the Interior, to be used for the erection thereon of dwellings or other buildings or corrals for the convenience of those engaged in the care and management of the works provided for by said sections: Provided , That this section shall not apply to lands within national forests.
 
+
+## Source Credit
+
+*(Mar. 1, 1921, ch. 93, [41 Stat. 1194](https://www.govinfo.gov/link/statute/41/1194).)*

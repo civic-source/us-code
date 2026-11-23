@@ -3,9 +3,10 @@ title: "Section 3732 - Executive branch initiatives"
 usc_title: 19
 usc_section: "3732"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3732"
-generated_at: "2026-03-30T02:54:24.696Z"
+generated_at: "2026-11-23T20:26:11.073Z"
+status: "active"
 ---
 
 # § 3732. Executive branch initiatives
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:24.696Z"
   - **(4)** increasing the number of reverse trade missions to growth-oriented countries in sub-Saharan Africa;
   - **(5)** increasing trade in services; and
   - **(6)** encouraging greater sub-Saharan African participation in future negotiations in the World Trade Organization on services and making further commitments in their schedules to the General Agreement on Trade in Services in order to encourage the removal of tariff and nontariff barriers.
+
+## Source Credit
+
+*([Pub. L. 106–200, title I, § 122](https://www.govinfo.gov/link/plaw/106/public/200), May 18, 2000, [114 Stat. 268](https://www.govinfo.gov/link/statute/114/268).)*

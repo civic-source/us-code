@@ -3,9 +3,10 @@ title: "Section 1195 - Injunction and condemnation proceedings"
 usc_title: 15
 usc_section: "1195"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1195"
-generated_at: "2026-03-30T02:54:08.129Z"
+generated_at: "2026-11-23T20:26:03.976Z"
+status: "active"
 ---
 
 # § 1195. Injunction and condemnation proceedings
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:08.129Z"
 - **(b)** Whenever the Commission has reason to believe that any product has been manufactured or introduced into commerce or any fabric or related material has been introduced in commerce in violation of section 1192 of this title , it may institute proceedings by process of libel for the seizure and confiscation of such product, fabric, or related material in any district court of the United States within the jurisdiction of which such product, fabric, or related material is found. Proceedings in cases instituted under the authority of this section shall conform as nearly as may be to proceedings in rem in admiralty, except that on demand of either party and in the discretion of the court, any issue of fact shall be tried by jury. Whenever such proceedings involving identical products, fabrics, or related materials are pending in two or more jurisdictions, they may be consolidated for trial by order of any such court upon application seasonably made by any party in interest upon notice to all other parties in interest. Any court granting an order of consolidation shall cause prompt notification thereof to be given to other courts having jurisdiction in the cases covered thereby and the clerks of such other courts shall transmit all pertinent records and papers to the court designated for the trial of such consolidated proceedings.
 - **(c)** In any such action the court, upon application seasonably made before trial, shall by order allow any party in interest, his attorney or agent, to obtain a representative sample of the product, fabric, or related material seized.
 - **(d)** If such products, fabrics, or related materials are condemned by the court they shall be disposed of by destruction, by delivery to the owner or claimant thereof upon payment of court costs and fees and storage and other proper expenses and upon execution of good and sufficient bond to the effect that such products, fabrics, or related materials will not be disposed of until properly and adequately treated or processed so as to render them lawful for introduction into commerce, or by sale upon execution of good and sufficient bond to the effect that such products, fabrics, or related materials will not be disposed of until properly and adequately treated or processed so as to render them lawful for introduction into commerce. If such products, fabrics, or related materials are disposed of by sale the proceeds, less costs and charges, shall be paid into the Treasury of the United States.
+
+## Source Credit
+
+*(June 30, 1953, ch. 164, § 6, [67 Stat. 113](https://www.govinfo.gov/link/statute/67/113); [Pub. L. 90–189, § 5](https://www.govinfo.gov/link/plaw/90/public/189), Dec. 14, 1967, [81 Stat. 571](https://www.govinfo.gov/link/statute/81/571).)*

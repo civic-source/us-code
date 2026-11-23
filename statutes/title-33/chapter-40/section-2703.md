@@ -3,9 +3,10 @@ title: "Section 2703 - Defenses to liability"
 usc_title: 33
 usc_section: "2703"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2703"
-generated_at: "2026-03-30T02:55:41.130Z"
+generated_at: "2026-11-23T20:26:54.212Z"
+status: "active"
 ---
 
 # § 2703. Defenses to liability
@@ -69,3 +70,7 @@ generated_at: "2026-03-30T02:55:41.130Z"
     - **(E)** In the case of real property for residential use or other similar use purchased by a nongovernmental or noncommercial entity, inspection and title search of the facility and the real property on which the facility is located that reveal no basis for further investigation shall be considered to satisfy the requirements of this paragraph.
   - **(5)** Nothing in this paragraph or in subsection (a)(3) shall diminish the liability of any previous owner or operator of such facility who would otherwise be liable under this Act. Notwithstanding this paragraph, if a responsible party obtained actual knowledge of the discharge or substantial threat of discharge of oil at such facility when the responsible party owned the facility and then subsequently transferred ownership of the facility or the real property on which the facility is located to another person without disclosing such knowledge, the responsible party shall be treated as liable under section 2702(a) of this title and no defense under subsection (a) shall be available to such responsible party.
   - **(6)** Nothing in this subsection shall affect the liability under this Act of a responsible party who, by any act or omission, caused or contributed to the discharge or substantial threat of discharge of oil which is the subject of the action relating to the facility.
+
+## Source Credit
+
+*([Pub. L. 101–380, title I, § 1003](https://www.govinfo.gov/link/plaw/101/public/380), Aug. 18, 1990, [104 Stat. 491](https://www.govinfo.gov/link/statute/104/491); [Pub. L. 108–293, title VII, § 703(c)](https://www.govinfo.gov/link/plaw/108/public/293), Aug. 9, 2004, [118 Stat. 1072](https://www.govinfo.gov/link/statute/118/1072); [Pub. L. 115–232, div. C, title XXXV, § 3547(b)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2328](https://www.govinfo.gov/link/statute/132/2328); [Pub. L. 119–60, div. G, title LXXVII, § 7701(g)(2)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1836](https://www.govinfo.gov/link/statute/139/1836).)*

@@ -3,9 +3,10 @@ title: "Section 44924 - Repair station security"
 usc_title: 49
 usc_section: "44924"
 chapter: 449
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44924"
-generated_at: "2026-03-30T02:56:19.394Z"
+generated_at: "2026-11-23T20:27:35.223Z"
+status: "active"
 ---
 
 # § 44924. Repair station security
@@ -20,3 +21,27 @@ generated_at: "2026-03-30T02:56:19.394Z"
 - **(e)** In conducting the audits described in subsection (a), the Administrator of the Transportation Security Administration and the Administrator of the Federal Aviation Administration shall give priority to foreign repair stations located in countries identified by the Government as posing the most significant security risks.
 - **(f)** The Administrator of the Transportation Security Administration, in consultation with the Administrator of the Federal Aviation Administration, shall issue final regulations to ensure the security of foreign and domestic aircraft repair stations.
 - **(g)** If the Administrator of the Transportation Security Administration does not issue final regulations before the deadline specified in subsection (f), the Administrator of the Transportation Security Administration shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing an explanation as to why the deadline was not met and a schedule for issuing the final regulations.
+
+Security Review and Audit
+
+Addressing Security Concerns
+
+Suspensions and Revocations of Certificates.—
+
+Failure to carry out effective security measures
+
+Immediate security risk
+
+Procedures for appeals
+
+Failure To Meet Audit Deadline
+
+Priority for Audits
+
+Regulations
+
+Report to Congress
+
+## Source Credit
+
+*(Added [Pub. L. 108–176, title VI, § 611(b)(1)](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2571](https://www.govinfo.gov/link/statute/117/2571); amended [Pub. L. 110–53, title XVI, § 1616(b)](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 488](https://www.govinfo.gov/link/statute/121/488); [Pub. L. 115–254, div. K, title I, § 1991(d)(20)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3637](https://www.govinfo.gov/link/statute/132/3637).)*

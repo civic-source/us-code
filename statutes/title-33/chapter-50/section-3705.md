@@ -3,9 +3,10 @@ title: "Section 3705 - NOAA ocean acidification activities"
 usc_title: 33
 usc_section: "3705"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 3705"
-generated_at: "2026-03-30T02:55:41.143Z"
+generated_at: "2026-11-23T20:26:54.275Z"
+status: "active"
 ---
 
 # § 3705. NOAA ocean acidification activities
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:55:41.143Z"
     - **(C)** voluntarily submitted by Tribes or Tribal governments; and
     - **(D)** from existing global or national data assets that are currently maintained within Federal agencies.
   - **(2)** The Secretary to, the extent possible, shall ensure all such data adheres to data and metadata standards to support the public findability, accessibility, interoperability, and reusability of such data.
+
+## Source Credit
+
+*([Pub. L. 111–11, title XII, § 12406](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1440](https://www.govinfo.gov/link/statute/123/1440); [Pub. L. 115–232, div. A, title VIII, § 809(k)(2)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1843](https://www.govinfo.gov/link/statute/132/1843); [Pub. L. 116–271, title I, § 111](https://www.govinfo.gov/link/plaw/116/public/271), Dec. 31, 2020, [134 Stat. 3343](https://www.govinfo.gov/link/statute/134/3343); [Pub. L. 117–167, div. B, title VI, § 10646](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1679](https://www.govinfo.gov/link/statute/136/1679).)*

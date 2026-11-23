@@ -3,9 +3,10 @@ title: "Section 30b - Notice of objecting to proceeding"
 usc_title: 2
 usc_section: "30b"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 30b"
-generated_at: "2026-03-30T02:53:04.785Z"
+generated_at: "2026-11-23T20:25:28.812Z"
+status: "active"
 ---
 
 # § 30b. Notice of objecting to proceeding
@@ -21,3 +22,9 @@ generated_at: "2026-03-30T02:53:04.785Z"
     - **(C)** the date the objection was filed.
   - **(3)** A Senator who has notified their respective leader and who has withdrawn their objection within the 6 session day period is not required to submit a notification under subsection (a)(2).
 - **(c)** A Senator may have an item with respect to the Senator removed from a calendar to which it was added under subsection (b) by submitting for inclusion in the Congressional Record the following notice: “I, Senator ____, do not object to proceed to ____, dated ____.”.
+
+“The Senate adopts the provisions of this title [see Effective Date note above]—
+
+## Source Credit
+
+*([Pub. L. 110–81, title V, § 512](https://www.govinfo.gov/link/plaw/110/public/81), Sept. 14, 2007, [121 Stat. 759](https://www.govinfo.gov/link/statute/121/759).)*

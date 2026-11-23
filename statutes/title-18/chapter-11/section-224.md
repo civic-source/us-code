@@ -3,9 +3,10 @@ title: "Section 224 - Bribery in sporting contests"
 usc_title: 18
 usc_section: "224"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 224"
-generated_at: "2026-03-30T02:54:16.460Z"
+generated_at: "2026-11-23T20:26:08.349Z"
+status: "active"
 ---
 
 # § 224. Bribery in sporting contests
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:16.460Z"
   - **(1)** The term “scheme in commerce” means any scheme effectuated in whole or in part through the use in interstate or foreign commerce of any facility for transportation or communication;
   - **(2)** The term “sporting contest” means any contest in any sport, between individual contestants or teams of contestants (without regard to the amateur or professional status of the contestants therein), the occurrence of which is publicly announced before its occurrence;
   - **(3)** The term “person” means any individual and any partnership, corporation, association, or other entity.
+
+## Source Credit
+
+*(Added [Pub. L. 88–316, § 1(a)](https://www.govinfo.gov/link/plaw/88/public/316), June 6, 1964, [78 Stat. 203](https://www.govinfo.gov/link/statute/78/203); amended [Pub. L. 103–322, title XXXIII, § 330016(1)(L)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2147](https://www.govinfo.gov/link/statute/108/2147).)*

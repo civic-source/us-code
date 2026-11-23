@@ -3,9 +3,10 @@ title: "Section 6249 - Contracting for petroleum product and facilities"
 usc_title: 42
 usc_section: "6249"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6249"
-generated_at: "2026-03-30T02:56:11.244Z"
+generated_at: "2026-11-23T20:27:22.589Z"
+status: "active"
 ---
 
 # § 6249. Contracting for petroleum product and facilities
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.244Z"
 - **(d)** Contracts entered into under subsection (a) may be of such duration as the Secretary considers necessary or appropriate.
 - **(e)** The Secretary may agree to binding arbitration of disputes under any contract entered into under subsection (a).
 - **(f)** The Secretary may utilize such funds as are available in the SPR Petroleum Account to carry out the activities described in subsection (a), and may obligate and expend such funds to carry out such activities, in advance of the receipt of petroleum products.
+
+## Source Credit
+
+*([Pub. L. 94–163, title I, § 171](https://www.govinfo.gov/link/plaw/94/public/163), as added [Pub. L. 101–383, § 6(a)(4)](https://www.govinfo.gov/link/plaw/101/public/383), Sept. 15, 1990, [104 Stat. 729](https://www.govinfo.gov/link/statute/104/729); amended [Pub. L. 102–486, title XIV, § 1403](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2994](https://www.govinfo.gov/link/statute/106/2994); [Pub. L. 106–469, title I, § 103(20)](https://www.govinfo.gov/link/plaw/106/public/469), Nov. 9, 2000, [114 Stat. 2033](https://www.govinfo.gov/link/statute/114/2033).)*

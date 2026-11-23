@@ -3,9 +3,10 @@ title: "Section 50906 - Experimental permits"
 usc_title: 51
 usc_section: "50906"
 chapter: 509
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 50906"
-generated_at: "2026-03-30T02:56:28.708Z"
+generated_at: "2026-11-23T20:27:37.503Z"
+status: "active"
 ---
 
 # § 50906. Experimental permits
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:28.708Z"
   - **(2)** the holder of a permit shall be considered a licensee;
   - **(3)** a vehicle operating under a permit shall be considered to be licensed; and
   - **(4)** the issuance of a permit shall be considered licensing.
+
+## Source Credit
+
+*(Added [Pub. L. 108–492, § 2(c)(16)](https://www.govinfo.gov/link/plaw/108/public/492), Dec. 23, 2004, [118 Stat. 3979](https://www.govinfo.gov/link/statute/118/3979), § 70105a of title 49; renumbered § 70105a then § 50906 of title 51 and amended [Pub. L. 111–314, § 4(d)(2)](https://www.govinfo.gov/link/plaw/111/public/314), (3)(F), (5)(G), (H), Dec. 18, 2010, [124 Stat. 3440–3442](https://www.govinfo.gov/link/statute/124/3440); [Pub. L. 114–90, title I, § 104](https://www.govinfo.gov/link/plaw/114/public/90), Nov. 25, 2015, [129 Stat. 706](https://www.govinfo.gov/link/statute/129/706).)*

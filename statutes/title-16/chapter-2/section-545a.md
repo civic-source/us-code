@@ -3,9 +3,10 @@ title: "Section 545a - Establishment of Mount Pleasant National Scenic Area"
 usc_title: 16
 usc_section: "545a"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 545a"
-generated_at: "2026-03-30T02:54:22.873Z"
+generated_at: "2026-11-23T20:26:20.138Z"
+status: "active"
 ---
 
 # § 545a. Establishment of Mount Pleasant National Scenic Area
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:22.873Z"
 - **(g)** Insect and disease outbreaks may be controlled in the scenic area to maintain scenic quality, prevent tree mortality, reduce hazards to visitors, or protect private lands.
 - **(h)** The scenic area shall be administered so as to maintain or enhance existing water quality.
 - **(i)** Subject to valid existing rights, all federally owned lands in the scenic area are hereby withdrawn from location, entry, and patent under the mining laws of the United States and from leasing claims under the mineral and geothermal leasing laws of the United States, including amendments to such laws.
+
+## Source Credit
+
+*([Pub. L. 103–314, § 3](https://www.govinfo.gov/link/plaw/103/public/314), Aug. 26, 1994, [108 Stat. 1703](https://www.govinfo.gov/link/statute/108/1703); [Pub. L. 104–127, title IX, § 915](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1187](https://www.govinfo.gov/link/statute/110/1187).)*

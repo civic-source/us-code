@@ -3,9 +3,10 @@ title: "Section 2741 - Authority to pay for or reimburse for certain security se
 usc_title: 22
 usc_section: "2741"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2741"
-generated_at: "2026-03-30T02:55:05.383Z"
+generated_at: "2026-11-23T20:26:32.399Z"
+status: "active"
 ---
 
 # § 2741. Authority to pay for or reimburse for certain security services
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.383Z"
   - **(1)** outlines the requirements for qualifying for the payment of or reimbursement of services;
   - **(2)** identifies the office responsible for vetting requests for paying for or reimbursing of services; and
   - **(3)** mandates expeditious consideration of such requests.
+
+## Source Credit
+
+*([Pub. L. 118–159, div. G, title LXXI, § 7115](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2527](https://www.govinfo.gov/link/statute/138/2527).)*

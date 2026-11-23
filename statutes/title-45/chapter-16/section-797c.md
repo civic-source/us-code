@@ -3,9 +3,10 @@ title: "Section 797c - Central register of railroad employment"
 usc_title: 45
 usc_section: "797c"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 797c"
-generated_at: "2026-03-30T02:55:56.557Z"
+generated_at: "2026-11-23T20:27:05.321Z"
+status: "active"
 ---
 
 # § 797c. Central register of railroad employment
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:56.557Z"
   - **(1)** Any employee with such a dispute, grievance, or claim may petition the Board to review and investigate the dispute, grievance, or claim.
   - **(2)** The Board shall investigate the dispute, grievance, or claim, and if it concludes that the employee’s rights under this section, section 797b of this title , section 907 of this title , or section 1004 of this title may have been violated, the dispute, grievance, or claim shall be subject to resolution in accordance with the procedures set forth in section 153 of this title .
   - **(3)** In the case of any violation of this section, section 797b of this title , section 907 of this title , or section 1004 of this title , the Adjustment Board (or any division or delegate thereof) or any other board of adjustment created under section 153 of this title shall, where appropriate, award such relief, including back pay, as may be necessary to enforce the employee’s rights.
+
+## Source Credit
+
+*([Pub. L. 93–236, title VII, § 704](https://www.govinfo.gov/link/plaw/93/public/236), as added [Pub. L. 97–35, title XI, § 1143(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 663](https://www.govinfo.gov/link/statute/95/663); amended [Pub. L. 97–468, title II, § 235](https://www.govinfo.gov/link/plaw/97/public/468), Jan. 14, 1983, [96 Stat. 2547](https://www.govinfo.gov/link/statute/96/2547); [Pub. L. 99–272, title IV, § 4011(a)](https://www.govinfo.gov/link/plaw/99/public/272), (b), Apr. 7, 1986, [100 Stat. 108](https://www.govinfo.gov/link/statute/100/108), 109.)*

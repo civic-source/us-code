@@ -3,9 +3,10 @@ title: "Section 2481 - Defense commissary and exchange systems: existence and pu
 usc_title: 10
 usc_section: "2481"
 chapter: 147
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2481"
-generated_at: "2026-03-30T02:53:38.160Z"
+generated_at: "2026-11-23T20:25:51.595Z"
+status: "active"
 ---
 
 # § 2481. Defense commissary and exchange systems: existence and purpose
@@ -26,3 +27,53 @@ generated_at: "2026-03-30T02:53:38.160Z"
     - **(D)** the status of carrying out a program for such system to sell private label merchandise; and
     - **(E)** any other matters the Secretary considers appropriate.
 - **(d)** In this section, the term “reduced prices” means prices for food and other merchandise determined using the price setting process specified in section 2484 of this title .
+
+Separate Systems
+
+Purpose of Systems
+
+Oversight
+
+Reduced Prices Defined
+
+Patronage.—
+
+Interim authority
+
+Legislative proposal
+
+Privatization
+
+In General
+
+Executive Resale Board Advice on Operations of Systems
+
+Information Technology Modernization
+
+In General
+
+Report Elements
+
+Benchmarks
+
+Comptroller General Assessment of Plan
+
+Pilot Programs.—
+
+Programs authorized
+
+Benchmarks
+
+Required savings to patrons
+
+Duration of authority
+
+Reports.—
+
+Initial reports
+
+Final reports
+
+## Source Credit
+
+*(Added [Pub. L. 108–375, div. A, title VI, § 651(a)(3)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1965](https://www.govinfo.gov/link/statute/118/1965); amended [Pub. L. 114–328, div. A, title VI, § 661(a)](https://www.govinfo.gov/link/plaw/114/public/328), (f), Dec. 23, 2016, [130 Stat. 2169](https://www.govinfo.gov/link/statute/130/2169), 2172.)*

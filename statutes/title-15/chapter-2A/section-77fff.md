@@ -3,9 +3,10 @@ title: "Section 77fff - Securities not registered under Securities Act"
 usc_title: 15
 usc_section: "77fff"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 77fff"
-generated_at: "2026-03-30T02:54:08.036Z"
+generated_at: "2026-11-23T20:26:03.456Z"
+status: "active"
 ---
 
 # § 77fff. Securities not registered under Securities Act
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.036Z"
   - **(1)** to make use of any means or instruments of transportation or communication in interstate commerce or of the mails to carry or transmit any prospectus relating to any such security, unless such prospectus, to the extent the Commission may prescribe by rules and regulations as necessary and appropriate in the public interest or for the protection of investors, includes or is accompanied by a written statement that contains the information specified in subsection (c) of section 77eee of this title ; or
   - **(2)** to carry or to cause to be carried through the mails or in interstate commerce any such security for the purpose of sale or for delivery after sale, unless, to the extent the Commission may prescribe by rules and regulations as necessary or appropriate in the public interest or for the protection of investors, accompanied or preceded by a written statement that contains the information specified in subsection (c) of section 77eee of this title .
 - **(c)** It shall be unlawful for any person, directly or indirectly, to make use of any means or instruments of transportation or communication in interstate commerce or of the mails to offer to sell through the use or medium of any prospectus or otherwise any security which is not registered under the Securities Act of 1933 [ 15 U.S.C. 77a et seq.] and to which this subsection is applicable notwithstanding the provisions of section 77ddd of this title , unless such security has been or is to be issued under an indenture and an application for qualification has been filed as to such indenture, or while the application is the subject of a refusal order or stop order or (prior to qualification) any public proceeding or examination under section 77ggg(c) of this title .
+
+## Source Credit
+
+*(May 27, 1933, ch. 38, title III, § 306, as added Aug. 3, 1939, ch. 411, [53 Stat. 1155](https://www.govinfo.gov/link/statute/53/1155); amended Aug. 10, 1954, ch. 667, title III, § 304, [68 Stat. 687](https://www.govinfo.gov/link/statute/68/687).)*

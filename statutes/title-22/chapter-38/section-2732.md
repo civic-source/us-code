@@ -3,9 +3,10 @@ title: "Section 2732 - Public diplomacy responsibilities of the Department of St
 usc_title: 22
 usc_section: "2732"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2732"
-generated_at: "2026-03-30T02:55:05.381Z"
+generated_at: "2026-11-23T20:26:32.391Z"
+status: "active"
 ---
 
 # § 2732. Public diplomacy responsibilities of the Department of State
@@ -18,3 +19,13 @@ generated_at: "2026-03-30T02:55:05.381Z"
     - **(B)** develop and articulate long-term measurable objectives for United States public diplomacy.
 - **(c)** The strategy developed pursuant to subsection (b) shall include public diplomacy efforts targeting developed and developing countries and select and general audiences, using appropriate media to properly explain the foreign policy of the United States to the governments and populations of such countries, with the objectives of increasing support for United States policies and providing news and information. The Secretary shall, through the most effective mechanisms, counter misinformation and propaganda concerning the United States. The Secretary shall continue to articulate the importance of freedom, democracy, and human rights as fundamental principles underlying United States foreign policy goals.
 - **(d)** In cooperation with the United States Agency for International Development (USAID) and other public and private assistance organizations and agencies, the Secretary should ensure that information relating to foreign assistance provided by the United States, nongovernmental organizations, and private entities of the United States is disseminated widely, and particularly, to the extent practicable, within countries and regions that receive such assistance. The Secretary should ensure that, to the extent practicable, projects funded by USAID not involving commodities, including projects implemented by private voluntary organizations, are identified as provided by the people of the United States.
+
+Coordination of Resources
+
+Development Outreach and Coordination Officers
+
+Best Practices
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title I, § 60, as added [Pub. L. 108–458, title VII, § 7109(a)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3792](https://www.govinfo.gov/link/statute/118/3792).)*

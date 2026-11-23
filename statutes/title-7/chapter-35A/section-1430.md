@@ -3,12 +3,17 @@ title: "Section 1430 - Retroactive effect"
 usc_title: 7
 usc_section: "1430"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1430"
-generated_at: "2026-03-30T02:53:42.311Z"
+generated_at: "2026-11-23T20:25:41.149Z"
+status: "active"
 ---
 
 # § 1430. Retroactive effect
 
 This Act shall not be effective with respect to price support operations for any agricultural commodity for any marketing year or season commencing prior to January 1, 1950 , except to the extent that the Secretary of Agriculture shall, without reducing price support theretofore undertaken or announced, elect to apply the provisions of this Act.
 
+
+## Source Credit
+
+*(Oct. 31, 1949, ch. 792, title IV, § 413, [63 Stat. 1057](https://www.govinfo.gov/link/statute/63/1057).)*

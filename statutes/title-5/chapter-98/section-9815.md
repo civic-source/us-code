@@ -3,9 +3,10 @@ title: "Section 9815 - Reporting requirement"
 usc_title: 5
 usc_section: "9815"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 9815"
-generated_at: "2026-03-30T02:52:56.075Z"
+generated_at: "2026-11-23T20:25:32.265Z"
+status: "active"
 ---
 
 # § 9815. Reporting requirement
@@ -23,3 +24,7 @@ The Administrator shall submit to the appropriate committees of Congress, not la
   - **(9)** The total number of appointments made under section 9813 during the preceding fiscal year and, of that total number, the number of appointments that were made to address a critical need described in the workforce plan pursuant to section 9802(b)(2).
   - **(10)** The number of employees for whom the Administrator set the pay under section 9814 during the preceding fiscal year and the number of times pay was set under such section to address a critical need described in the workforce plan pursuant to section 9802(b)(2).
   - **(11)** A summary of all recruitment, relocation, redesignation, and retention bonuses paid under authorities other than this chapter and excluding the authorities provided in sections 5753 and 5754 of this title, during the preceding fiscal year. Such summary shall include, for each type of bonus, the total amount of bonuses paid, the total number of bonuses paid, the percentage of the amount of bonuses awarded to supervisors and management officials, and the average percentage used to calculate the total average bonus amount.
+
+## Source Credit
+
+*(Added [Pub. L. 108–201, § 3(a)](https://www.govinfo.gov/link/plaw/108/public/201), Feb. 24, 2004, [118 Stat. 475](https://www.govinfo.gov/link/statute/118/475).)*

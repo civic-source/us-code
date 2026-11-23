@@ -3,9 +3,10 @@ title: "Section 8104 - Officers and employees"
 usc_title: 42
 usc_section: "8104"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8104"
-generated_at: "2026-03-30T02:56:11.334Z"
+generated_at: "2026-11-23T20:27:23.003Z"
+status: "active"
 ---
 
 # § 8104. Officers and employees
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.334Z"
 - **(c)** The executive director of the corporation, subject to approval by the board, may appoint and remove such employees of the corporation as he determines necessary to carry out the purposes of the corporation.
 - **(d)** No political test or political qualification shall be used in selecting, appointing, promoting, or taking any other personnel action with respect to any officer, agent, or employee of the corporation or of any recipient, or in selecting or monitoring any grantee, contractor, or person or entity receiving financial assistance under this subchapter.
 - **(e)** Officers and employees of the corporation shall not be considered officers or employees of the United States, and the corporation shall not be considered a department, agency, or instrumentality of the Federal Government. The corporation shall be subject to administrative and cost standards issued by the Office of Management and Budget similar to standards applicable to non-profit grantees and educational institutions.
+
+## Source Credit
+
+*([Pub. L. 95–557, title VI, § 605](https://www.govinfo.gov/link/plaw/95/public/557), Oct. 31, 1978, [92 Stat. 2116](https://www.govinfo.gov/link/statute/92/2116); [Pub. L. 108–199, div. G, title III](https://www.govinfo.gov/link/plaw/108/public/199),[(1), (2)], Jan. 23, 2004, [118 Stat. 413](https://www.govinfo.gov/link/statute/118/413); [Pub. L. 111–117, div. A, title III](https://www.govinfo.gov/link/plaw/111/public/117), Dec. 16, 2009, [123 Stat. 3108](https://www.govinfo.gov/link/statute/123/3108).)*

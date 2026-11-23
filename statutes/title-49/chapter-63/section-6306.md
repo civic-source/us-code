@@ -3,9 +3,10 @@ title: "Section 6306 - Transportation statistical collection, analysis, and diss
 usc_title: 49
 usc_section: "6306"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 6306"
-generated_at: "2026-03-30T02:56:19.321Z"
+generated_at: "2026-11-23T20:27:34.701Z"
+status: "active"
 ---
 
 # § 6306. Transportation statistical collection, analysis, and dissemination
@@ -18,3 +19,7 @@ To ensure that all transportation statistical collection, analysis, and dissemin
   - **(4)** request such information, data, and reports from any Federal agency as the Director determines necessary to carry out this chapter;
   - **(5)** encourage replication, coordination, and sharing of information among transportation agencies regarding information systems, information policy, and data; and
   - **(6)** confer and cooperate with Federal statistical agencies as the Director determines necessary to carry out this chapter, including by entering into cooperative data sharing agreements in conformity with all laws and regulations applicable to the disclosure and use of data.
+
+## Source Credit
+
+*(Added [Pub. L. 112–141, div. E, title II, § 52011(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 892](https://www.govinfo.gov/link/statute/126/892).)*

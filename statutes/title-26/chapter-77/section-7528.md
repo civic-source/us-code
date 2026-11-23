@@ -3,9 +3,10 @@ title: "Section 7528 - Internal Revenue Service user fees"
 usc_title: 26
 usc_section: "7528"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 7528"
-generated_at: "2026-03-30T02:55:27.879Z"
+generated_at: "2026-11-23T20:26:46.803Z"
+status: "active"
 ---
 
 # § 7528. Internal Revenue Service user fees
@@ -31,3 +32,28 @@ generated_at: "2026-03-30T02:55:27.879Z"
       - **(iii)** For purposes of any determination of average fees charged, any request to which subparagraph (B) applies shall not be taken into account.
   - **(3)** The average fee charged under the program required by subsection (a) shall not be less than the amount determined under the following table: Average Category Fee Employee plan ruling and opinion $250 Exempt organization ruling $350 Employee plan determination $300 Exempt organization determination $275 Chief counsel ruling $200.
   - **(4)** The fee charged under the program in connection with the certification by the Secretary of a professional employer organization under section 7705 shall be an annual fee not to exceed $1,000 per year.
+
+|  | Col 2 |
+| --- | --- |
+|  | Average |
+| Category | Fee |
+| Employee plan ruling and opinion | $250 |
+| Exempt organization ruling | $350 |
+| Employee plan determination | $300 |
+| Exempt organization determination | $275 |
+| Chief counsel ruling | $200. |
+
+
+Employee plan ruling and opinion
+
+Exempt organization ruling
+
+Employee plan determination
+
+Exempt organization determination
+
+Chief counsel ruling
+
+## Source Credit
+
+*(Added [Pub. L. 108–89, title II, § 202(a)](https://www.govinfo.gov/link/plaw/108/public/89), Oct. 1, 2003, [117 Stat. 1132](https://www.govinfo.gov/link/statute/117/1132); amended [Pub. L. 108–357, title VIII, § 891(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1644](https://www.govinfo.gov/link/statute/118/1644); [Pub. L. 110–28, title VIII, § 8244](https://www.govinfo.gov/link/plaw/110/public/28), May 25, 2007, [121 Stat. 200](https://www.govinfo.gov/link/statute/121/200); [Pub. L. 113–295, div. B, title II, § 206(f)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4071](https://www.govinfo.gov/link/statute/128/4071).)*

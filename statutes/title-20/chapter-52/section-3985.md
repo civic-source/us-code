@@ -3,9 +3,10 @@ title: "Section 3985 - Application"
 usc_title: 20
 usc_section: "3985"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 3985"
-generated_at: "2026-03-30T02:54:48.181Z"
+generated_at: "2026-11-23T20:26:14.748Z"
+status: "active"
 ---
 
 # § 3985. Application
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:48.181Z"
   - **(7)** provide assurances that in the consideration of applications submitted under section 3986(a) of this title that equitable consideration is given to applications submitted by private and public institutions of higher education; and
   - **(8)** provide such additional assurances as the Secretary determines essential to ensure compliance with the requirements of this part.
 - **(b)** A regional consortium of applicants in two or more States may file a joint application under the provisions of subsection (a) of this section.
+
+## Source Credit
+
+*([Pub. L. 98–377, title III, § 306](https://www.govinfo.gov/link/plaw/98/public/377), Aug. 11, 1984, [98 Stat. 1285](https://www.govinfo.gov/link/statute/98/1285); [Pub. L. 99–159, title II, § 231](https://www.govinfo.gov/link/plaw/99/public/159), Nov. 22, 1985, [99 Stat. 900](https://www.govinfo.gov/link/statute/99/900); [Pub. L. 100–418, title VI, § 6031(b)(2)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1483](https://www.govinfo.gov/link/statute/102/1483).)*

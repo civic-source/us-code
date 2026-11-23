@@ -3,9 +3,10 @@ title: "Section 5963 - Eligible applicants"
 usc_title: 20
 usc_section: "5963"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 5963"
-generated_at: "2026-03-30T02:54:48.190Z"
+generated_at: "2026-11-23T20:26:14.802Z"
+status: "active"
 ---
 
 # § 5963. Eligible applicants
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:48.190Z"
 - **(b)** In awarding grants under this subchapter, the Secretary shall give priority to a local educational agency that submits an application that assures a strong local commitment to the projects or activities assisted under this subchapter, such as—
   - **(1)** the formation of partnerships among the local educational agency, a community-based organization, a nonprofit organization with a demonstrated commitment to or expertise in developing education programs or providing educational services to students or the public, a local law enforcement agency, or any combination thereof; and
   - **(2)** a high level of youth participation in such projects or activities.
+
+## Source Credit
+
+*([Pub. L. 103–227, title VII, § 703](https://www.govinfo.gov/link/plaw/103/public/227), Mar. 31, 1994, [108 Stat. 205](https://www.govinfo.gov/link/statute/108/205).)*

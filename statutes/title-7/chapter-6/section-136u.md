@@ -3,9 +3,10 @@ title: "Section 136u - State cooperation, aid, and training"
 usc_title: 7
 usc_section: "136u"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 136u"
-generated_at: "2026-03-30T02:53:42.263Z"
+generated_at: "2026-11-23T20:25:40.931Z"
+status: "active"
 ---
 
 # § 136u. State cooperation, aid, and training
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:42.263Z"
   - **(2)** to assist States in developing and administering State programs, and Indian tribes that enter into cooperative agreements, to train and certify applicators consistent with the standards the Administrator prescribes.
 - **(b)** In addition, the Administrator may enter into contracts with Federal, State, or Indian tribal agencies for the purpose of encouraging the training of certified applicators.
 - **(c)** The Administrator shall, in cooperation with the Secretary of Agriculture, use the services of the cooperative State extension services to inform and educate pesticide users about accepted uses and other regulations made under this subchapter.
+
+## Source Credit
+
+*(June 25, 1947, ch. 125, § 23, as added [Pub. L. 92–516, § 2](https://www.govinfo.gov/link/plaw/92/public/516), Oct. 21, 1972, [86 Stat. 996](https://www.govinfo.gov/link/statute/86/996); amended [Pub. L. 95–396, § 21](https://www.govinfo.gov/link/plaw/95/public/396), Sept. 30, 1978, [92 Stat. 834](https://www.govinfo.gov/link/statute/92/834).)*

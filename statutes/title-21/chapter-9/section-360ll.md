@@ -3,9 +3,10 @@ title: "Section 360ll - Notification of defects in and repair or replacement of 
 usc_title: 21
 usc_section: "360ll"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 360ll"
-generated_at: "2026-03-30T02:54:54.254Z"
+generated_at: "2026-11-23T20:26:27.664Z"
+status: "active"
 ---
 
 # § 360ll. Notification of defects in and repair or replacement of electronic products
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:54.254Z"
   - **(2)** contains a defect which relates to the safety of use of such product by reason of the emission of electronic product radiation;
 - **(f)** If any electronic product is found under subsection (a) or (e) to fail to comply with an applicable standard prescribed under this part or to have a defect which relates to the safety of use of such product, and the notification specified in subsection (c) is required to be furnished on account of such failure or defect, the manufacturer of such product shall (1) without charge, bring such product into conformity with such standard or remedy such defect and provide reimbursement for any expenses for transportation of such product incurred in connection with having such product brought into conformity or having such defect remedied, (2) replace such product with a like or equivalent product which complies with each applicable standard prescribed under this part and which has no defect relating to the safety of its use, or (3) make a refund of the cost of such product. The manufacturer shall take the action required by this subsection in such manner, and with respect to such persons, as the Secretary by regulations shall prescribe.
 - **(g)** This section shall not apply to any electronic product that was manufactured before October 18, 1968 .
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 535, formerly act July 1, 1944, ch. 373, title III, § 535, formerly § 359, as added [Pub. L. 90–602, § 2(3)](https://www.govinfo.gov/link/plaw/90/public/602), Oct. 18, 1968, [82 Stat. 1180](https://www.govinfo.gov/link/statute/82/1180); renumbered § 535 and amended [Pub. L. 101–629, § 19(a)(1)(B)](https://www.govinfo.gov/link/plaw/101/public/629), (2)(C), (3), (4), Nov. 28, 1990, [104 Stat. 4529](https://www.govinfo.gov/link/statute/104/4529), 4530; [Pub. L. 103–80, § 4(a)(2)](https://www.govinfo.gov/link/plaw/103/public/80), Aug. 13, 1993, [107 Stat. 779](https://www.govinfo.gov/link/statute/107/779).)*

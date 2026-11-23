@@ -3,9 +3,10 @@ title: "Section 6321 - Fiscal requirements"
 usc_title: 20
 usc_section: "6321"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 6321"
-generated_at: "2026-03-30T02:54:48.196Z"
+generated_at: "2026-11-23T20:26:14.826Z"
+status: "active"
 ---
 
 # § 6321. Fiscal requirements
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:54:48.196Z"
     - **(A)** language instruction educational programs; and
     - **(B)** the excess costs of providing services to children with disabilities as determined by the local educational agency.
 - **(d)** For the purpose of complying with subsections (b) and (c), a State educational agency or local educational agency may exclude supplemental State or local funds expended in any school attendance area or school for programs that meet the intent and purposes of this part.
+
+## Source Credit
+
+*([Pub. L. 89–10, title I, § 1118](https://www.govinfo.gov/link/plaw/89/public/10), formerly § 1120A, as added [Pub. L. 107–110, title I, § 101](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1511](https://www.govinfo.gov/link/statute/115/1511); renumbered § 1118 and amended [Pub. L. 114–95, title I](https://www.govinfo.gov/link/plaw/114/public/95), §§ 1000(4), 1012, Dec. 10, 2015, [129 Stat. 1814](https://www.govinfo.gov/link/statute/129/1814), 1874.)*

@@ -3,9 +3,10 @@ title: "Section 11313 - Performance and results-based management"
 usc_title: 40
 usc_section: "11313"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 11313"
-generated_at: "2026-03-30T02:55:43.385Z"
+generated_at: "2026-11-23T20:26:56.672Z"
+status: "active"
 ---
 
 # § 11313. Performance and results-based management
@@ -20,3 +21,22 @@ In fulfilling the responsibilities under section 3506(h) of title 44 , the head 
   - **(4)** where comparable processes and organizations in the public or private sectors exist, quantitatively benchmark agency process performance against those processes in terms of cost, speed, productivity, and quality of outputs and outcomes;
   - **(5)** analyze the missions of the executive agency and, based on the analysis, revise the executive agency’s mission-related processes and administrative processes as appropriate before making significant investments in information technology to be used in support of the performance of those missions; and
   - **(6)** ensure that the information security policies, procedures, and practices of the executive agency are adequate.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 11313 | 40:1423. | Pub. L. 104–106, div. E, title LI, § 5123 , Feb. 10, 1996 , 110 Stat. 683 . |
+
+
+Historical and Revision Notes
+
+11313
+
+Pub. L. 104–106, div. E, title LI, § 5123
+
+Feb. 10, 1996
+
+110 Stat. 683
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1240](https://www.govinfo.gov/link/statute/116/1240).)*

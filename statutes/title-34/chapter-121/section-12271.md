@@ -3,9 +3,10 @@ title: "Section 12271 - Prevention, diagnosis, and treatment of tuberculosis in 
 usc_title: 34
 usc_section: "12271"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12271"
-generated_at: "2026-03-30T02:55:33.284Z"
+generated_at: "2026-11-23T20:26:50.541Z"
+status: "active"
 ---
 
 # § 12271. Prevention, diagnosis, and treatment of tuberculosis in correctional institutions
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:33.284Z"
     - **(D)** $1,100,000 for fiscal year 1999; and
     - **(E)** $1,200,000 for fiscal year 2000.
 - **(d)** In this section— “Indian tribe” means a tribe, band, pueblo, nation, or other organized group or community of Indians, including an Alaska Native village (as defined in or established under the Alaska Native Claims Settlement Act ( 43 U.S.C. 1601 et seq.), 1 1 So in original. A closing parenthesis probably should precede the comma. that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians. “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, and the United States Virgin Islands.
+
+## Source Credit
+
+*([Pub. L. 103–322, title III, § 32201](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1901](https://www.govinfo.gov/link/statute/108/1901).)*

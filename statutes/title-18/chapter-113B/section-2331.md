@@ -3,9 +3,10 @@ title: "Section 2331 - Definitions"
 usc_title: 18
 usc_section: "2331"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2331"
-generated_at: "2026-03-30T02:54:16.502Z"
+generated_at: "2026-11-23T20:26:08.598Z"
+status: "active"
 ---
 
 # § 2331. Definitions
@@ -37,3 +38,7 @@ As used in this chapter—
       - **(i)** foreign terrorist organization by the Secretary of State under section 219 of the Immigration and Nationality Act ( 8 U.S.C. 1189 ); or
       - **(ii)** specially designated global terrorist (as such term is defined in section 594.310 of title 31, Code of Federal Regulations) by the Secretary of State or the Secretary of the Treasury; or
     - **(B)** has been determined by the court to not be a “military force”.
+
+## Source Credit
+
+*(Added [Pub. L. 102–572, title X, § 1003(a)(3)](https://www.govinfo.gov/link/plaw/102/public/572), Oct. 29, 1992, [106 Stat. 4521](https://www.govinfo.gov/link/statute/106/4521); amended [Pub. L. 107–56, title VIII, § 802(a)](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 376](https://www.govinfo.gov/link/statute/115/376); [Pub. L. 115–253, § 2(a)](https://www.govinfo.gov/link/plaw/115/public/253), Oct. 3, 2018, [132 Stat. 3183](https://www.govinfo.gov/link/statute/132/3183).)*

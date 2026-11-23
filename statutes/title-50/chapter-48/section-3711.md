@@ -3,9 +3,10 @@ title: "Section 3711 - Authority to carry out Department of Defense Cooperative 
 usc_title: 50
 usc_section: "3711"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3711"
-generated_at: "2026-03-30T02:56:26.258Z"
+generated_at: "2026-11-23T20:27:31.034Z"
+status: "active"
 ---
 
 # § 3711. Authority to carry out Department of Defense Cooperative Threat Reduction Program
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:26.258Z"
     - **(B)** the amount of the proposed obligation; and
     - **(C)** the projected involvement (if any) of any other department or agency of the United States and of the private sector of the United States in the activities and forms of assistance for which the Secretary plans to obligate such funds.
   - **(3)** Except for Cooperative Threat Reduction funds subject to section 3735 of this title , paragraph (1) shall not apply with respect to a proposed obligation of Cooperative Threat Reduction funds that is covered by a notification previously submitted by the Secretary to the congressional defense committees that includes the matters described in subparagraphs (A) through (C) of paragraph (2).
+
+## Source Credit
+
+*([Pub. L. 113–291, div. A, title XIII, § 1321](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3595](https://www.govinfo.gov/link/statute/128/3595); [Pub. L. 114–328, div. A, title XIII](https://www.govinfo.gov/link/plaw/114/public/328), §§ 1302(b)(1), 1303(b), Dec. 23, 2016, [130 Stat. 2566](https://www.govinfo.gov/link/statute/130/2566), 2568; [Pub. L. 115–91, div. A, title XIII, § 1302(b)(1)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1705](https://www.govinfo.gov/link/statute/131/1705).)*

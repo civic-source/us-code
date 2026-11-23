@@ -3,12 +3,17 @@ title: "Section 464 - Detention by collectors of customs"
 usc_title: 22
 usc_section: "464"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 464"
-generated_at: "2026-03-30T02:55:05.328Z"
+generated_at: "2026-11-23T20:26:32.062Z"
+status: "active"
 ---
 
 # § 464. Detention by collectors of customs
 
 The several collectors of the customs shall detain any vessel manifestly built for warlike purposes, and about to depart the United States, or any place subject to the jurisdiction thereof, the cargo of which principally consists of arms and munitions of war, when the number of men shipped on board, or other circumstances, render it probable that such vessel is intended to be employed by the owners to cruise or commit hostilities upon the subjects, citizens, or property of any foreign prince or state, or of any colony, district, or people with whom the United States are at peace, until the decision of the President is had thereon, or until the owner gives such bond and security as is required of the owners of armed vessels by section 463 of this title .
 
+
+## Source Credit
+
+*(Mar. 4, 1909, ch. 321, § 17, [35 Stat. 1091](https://www.govinfo.gov/link/statute/35/1091).)*

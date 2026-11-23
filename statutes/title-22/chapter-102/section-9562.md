@@ -3,9 +3,10 @@ title: "Section 9562 - Statement of policy"
 usc_title: 22
 usc_section: "9562"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9562"
-generated_at: "2026-03-30T02:55:05.468Z"
+generated_at: "2026-11-23T20:26:32.782Z"
+status: "active"
 ---
 
 # § 9562. Statement of policy
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:05.468Z"
   - **(2)** to promote the energy security of allies and partners of the United States by encouraging the development of accessible, transparent, and competitive energy markets that provide diversified sources, types, and routes of energy;
   - **(3)** to encourage United States public and private sector investment in European energy infrastructure projects to bridge the gap between energy security requirements and commercial demand in a way that is consistent with the region’s absorptive capacity; and
   - **(4)** to help facilitate the export of United States energy resources, technology, and expertise to global markets in a way that benefits the energy security of allies and partners of the United States, including in Europe and Eurasia.
+
+## Source Credit
+
+*([Pub. L. 116–94, div. P, title XX, § 2003](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3223](https://www.govinfo.gov/link/statute/133/3223).)*

@@ -3,9 +3,10 @@ title: "Section 542 - Franchise fees"
 usc_title: 47
 usc_section: "542"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 542"
-generated_at: "2026-03-30T02:56:24.518Z"
+generated_at: "2026-11-23T20:27:28.925Z"
+status: "active"
 ---
 
 # § 542. Franchise fees
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:24.518Z"
   - **(1)** Nothing in this chapter shall be construed to limit any authority of a franchising authority to impose a tax, fee, or other assessment of any kind on any person (other than a cable operator) with respect to cable service or other communications service provided by such person over a cable system for which charges are assessed to subscribers but not received by the cable operator.
   - **(2)** For any 12-month period, the fees paid by such person with respect to any such cable service or other communications service shall not exceed 5 percent of such person’s gross revenues derived in such period from the provision of such service over the cable system.
 - **(i)** Any Federal agency may not regulate the amount of the franchise fees paid by a cable operator, or regulate the use of funds derived from such fees, except as provided in this section.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title VI, § 622, as added [Pub. L. 98–549, § 2](https://www.govinfo.gov/link/plaw/98/public/549), Oct. 30, 1984, [98 Stat. 2787](https://www.govinfo.gov/link/statute/98/2787); amended [Pub. L. 102–385, § 14](https://www.govinfo.gov/link/plaw/102/public/385), Oct. 5, 1992, [106 Stat. 1489](https://www.govinfo.gov/link/statute/106/1489); [Pub. L. 104–104, title III, § 303(b)](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 125](https://www.govinfo.gov/link/statute/110/125).)*

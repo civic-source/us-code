@@ -3,9 +3,10 @@ title: "Section 16312 - Fusion energy sciences program"
 usc_title: 42
 usc_section: "16312"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16312"
-generated_at: "2026-03-30T02:56:11.482Z"
+generated_at: "2026-11-23T20:27:23.665Z"
+status: "active"
 ---
 
 # § 16312. Fusion energy sciences program
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:56:11.482Z"
     - **(D)** $415,000,000 for fiscal year 2025;
     - **(E)** $370,500,000 for fiscal year 2026; and
     - **(F)** $411,078,000 for fiscal year 2027.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 972](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 899](https://www.govinfo.gov/link/statute/119/899); [Pub. L. 116–260, div. Z, title II, § 2008(b)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2478](https://www.govinfo.gov/link/statute/134/2478); [Pub. L. 117–167, div. B, title I, § 10105(b)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1445](https://www.govinfo.gov/link/statute/136/1445).)*

@@ -3,9 +3,10 @@ title: "Section 1282 - Assistance to State and local projects"
 usc_title: 16
 usc_section: "1282"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1282"
-generated_at: "2026-03-30T02:54:22.955Z"
+generated_at: "2026-11-23T20:26:20.448Z"
+status: "active"
 ---
 
 # § 1282. Assistance to State and local projects
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:22.955Z"
     - **(B)** For activities on all other lands, section 6 3 3 So in original. Probably should be “section 200305”. of chapter 2003 of title 54 (relating to the development of statewide comprehensive outdoor recreation plans).
   - **(3)** For purposes of this subsection, the appropriate Secretary or the head of any Federal agency may utilize and make available Federal facilities, equipment, tools and technical assistance to volunteers and volunteer organizations, subject to such limitations and restrictions as the appropriate Secretary or the head of any Federal agency deems necessary or desirable.
   - **(4)** No permit or other authorization provided for under provision of any other Federal law shall be conditioned on the existence of any agreement provided for in this section.
+
+## Source Credit
+
+*([Pub. L. 90–542, § 11](https://www.govinfo.gov/link/plaw/90/public/542), Oct. 2, 1968, [82 Stat. 916](https://www.govinfo.gov/link/statute/82/916); [Pub. L. 99–590, title V, § 508](https://www.govinfo.gov/link/plaw/99/public/590), Oct. 30, 1986, [100 Stat. 3337](https://www.govinfo.gov/link/statute/100/3337); [Pub. L. 113–287, § 5(d)(31)](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3267](https://www.govinfo.gov/link/statute/128/3267).)*

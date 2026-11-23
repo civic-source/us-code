@@ -3,9 +3,10 @@ title: "Section 1992 - Terrorist attacks and other violence against railroad car
 usc_title: 18
 usc_section: "1992"
 chapter: 97
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 1992"
-generated_at: "2026-03-30T02:54:16.494Z"
+generated_at: "2026-11-23T20:26:08.550Z"
+status: "active"
 ---
 
 # § 1992. Terrorist attacks and other violence against railroad carriers and against mass transportation systems on land, on water, or through the air
@@ -49,3 +50,15 @@ generated_at: "2026-03-30T02:54:16.494Z"
   - **(14)** the term “State” has the meaning given to that term in section 2266;
   - **(15)** the term “toxin” has the meaning given to that term in section 178(2); and
   - **(16)** the term “vehicle” means any carriage or other contrivance used, or capable of being used, as a means of transportation on land, on water, or through the air.
+
+General Prohibitions
+
+Aggravated Offense
+
+Circumstances Required for Offense
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 109–177, title I, § 110(a)](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 205](https://www.govinfo.gov/link/statute/120/205); amended [Pub. L. 110–53, title XV, § 1539](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 468](https://www.govinfo.gov/link/statute/121/468); [Pub. L. 115–232, div. C, title XXXV, § 3541(b)(3)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2323](https://www.govinfo.gov/link/statute/132/2323); [Pub. L. 119–60, div. G, title LXXIII, § 7301(k)(2)(B)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1759](https://www.govinfo.gov/link/statute/139/1759).)*

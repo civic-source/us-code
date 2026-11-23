@@ -3,9 +3,10 @@ title: "Section 2611 - Definitions"
 usc_title: 29
 usc_section: "2611"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 2611"
-generated_at: "2026-03-30T02:55:18.743Z"
+generated_at: "2026-11-23T20:26:38.066Z"
+status: "active"
 ---
 
 # § 2611. Definitions
@@ -69,3 +70,11 @@ As used in this subchapter:
     - **(A)** in the case of a member of the Armed Forces (including a member of the National Guard or Reserves), means an injury or illness that was incurred by the member in line of duty on active duty in the Armed Forces (or existed before the beginning of the member’s active duty and was aggravated by service in line of duty on active duty in the Armed Forces) and that may render the member medically unfit to perform the duties of the member’s office, grade, rank, or rating; and
     - **(B)** in the case of a veteran who was a member of the Armed Forces (including a member of the National Guard or Reserves) at any time during a period described in paragraph (15)(B), means a qualifying (as defined by the Secretary of Labor) injury or illness that was incurred by the member in line of duty on active duty in the Armed Forces (or existed before the beginning of the member’s active duty and was aggravated by service in line of duty on active duty in the Armed Forces) and that manifested itself before or after the member became a veteran.
   - **(19)** The term “veteran” has the meaning given the term in section 101 of title 38 .
+
+In general
+
+Covered employee defined
+
+## Source Credit
+
+*([Pub. L. 103–3, title I, § 101](https://www.govinfo.gov/link/plaw/103/public/3), Feb. 5, 1993, [107 Stat. 7](https://www.govinfo.gov/link/statute/107/7); [Pub. L. 104–1, title II, § 202(c)(1)(A)](https://www.govinfo.gov/link/plaw/104/public/1), Jan. 23, 1995, [109 Stat. 9](https://www.govinfo.gov/link/statute/109/9); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 110–181, div. A, title V, § 585(a)(1)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 128](https://www.govinfo.gov/link/statute/122/128); [Pub. L. 111–84, div. A, title V, § 565(a)(1)(A)](https://www.govinfo.gov/link/plaw/111/public/84), (2), (3), Oct. 28, 2009, [123 Stat. 2309](https://www.govinfo.gov/link/statute/123/2309), 2310; [Pub. L. 111–119, § 2(a)](https://www.govinfo.gov/link/plaw/111/public/119), Dec. 21, 2009, [123 Stat. 3476](https://www.govinfo.gov/link/statute/123/3476); [Pub. L. 116–92, div. F, title LXXVI, § 7604(b)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2308](https://www.govinfo.gov/link/statute/133/2308).)*

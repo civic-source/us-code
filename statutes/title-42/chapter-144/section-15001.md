@@ -3,9 +3,10 @@ title: "Section 15001 - Findings, purposes, and policy"
 usc_title: 42
 usc_section: "15001"
 chapter: 144
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 15001"
-generated_at: "2026-03-30T02:56:11.454Z"
+generated_at: "2026-11-23T20:27:23.542Z"
+status: "active"
 ---
 
 # § 15001. Findings, purposes, and policy
@@ -64,3 +65,51 @@ generated_at: "2026-03-30T02:56:11.454Z"
   - **(10)** families of children with developmental disabilities need to have access to and use of safe and appropriate child care and before-school and after-school programs, in the most integrated settings, in order to enrich the participation of the children in community life;
   - **(11)** individuals with developmental disabilities need to have access to and use of public transportation, in order to be independent and directly contribute to and participate in all facets of community life; and
   - **(12)** individuals with developmental disabilities need to have access to and use of recreational, leisure, and social opportunities in the most integrated settings, in order to enrich their participation in community life.
+
+Findings
+
+Purpose
+
+Education Activities
+
+International Activities
+
+Healthy Athletes.—
+
+In general
+
+Coordination
+
+Limitation
+
+Application.—
+
+In general
+
+Content
+
+Activities
+
+Measurable goals
+
+Annual Report.—
+
+In general
+
+Content
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+## Source Credit
+
+*([Pub. L. 106–402, title I, § 101](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1678](https://www.govinfo.gov/link/statute/114/1678).)*

@@ -3,9 +3,10 @@ title: "Section 10001 - Statement of findings"
 usc_title: 42
 usc_section: "10001"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10001"
-generated_at: "2026-03-30T02:56:11.378Z"
+generated_at: "2026-11-23T20:27:23.200Z"
+status: "active"
 ---
 
 # § 10001. Statement of findings
@@ -17,3 +18,7 @@ The Congress finds that—
   - **(3)** the protection of the public health and safety from unnecessary exposure to potentially hazardous radiation due to medical and dental radiologic procedures and the assurance of efficacious procedures are the responsibility of State and Federal governments;
   - **(4)** persons who administer radiologic procedures, including procedures at Federal facilities, should be required to demonstrate competence by reason of education, training, and experience; and
   - **(5)** the administration of radiologic procedures and the effect on individuals of such procedures have a substantial and direct effect upon United States interstate commerce.
+
+## Source Credit
+
+*([Pub. L. 97–35, title IX, § 976](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 598](https://www.govinfo.gov/link/statute/95/598).)*

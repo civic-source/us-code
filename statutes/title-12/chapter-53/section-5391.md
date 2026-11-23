@@ -3,9 +3,10 @@ title: "Section 5391 - Inspector General reviews"
 usc_title: 12
 usc_section: "5391"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5391"
-generated_at: "2026-03-30T02:53:53.537Z"
+generated_at: "2026-11-23T20:25:59.496Z"
+status: "active"
 ---
 
 # § 5391. Inspector General reviews
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:53:53.537Z"
     - **(C)** identify any actions that could have been taken by the agency or the Board of Governors that would have prevented the company from being in default or in danger of default; and
     - **(D)** recommend appropriate administrative or legislative action.
   - **(2)** Not later than 1 year after the date of appointment of the Corporation as receiver under this subchapter, the Inspector General of the Federal primary financial regulatory agency or the Board of Governors shall provide the report required by paragraph (1) to such agency or the Board of Governors, and along with such agency or the Board of Governors, as applicable, shall appear before the appropriate committees of Congress, if requested, to present the report required by paragraph (1). Not later than 90 days after the date of receipt of the report required by paragraph (1), such agency or the Board of Governors, as applicable, shall provide a written report to Congress describing any actions taken in response to the recommendations in the report, and if no such actions were taken, describing the reasons why no actions were taken.
+
+## Source Credit
+
+*([Pub. L. 111–203, title II, § 211](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1514](https://www.govinfo.gov/link/statute/124/1514); [Pub. L. 117–286, § 4(b)(36)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4347](https://www.govinfo.gov/link/statute/136/4347).)*

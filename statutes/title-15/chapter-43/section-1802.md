@@ -3,9 +3,10 @@ title: "Section 1802 - Definitions"
 usc_title: 15
 usc_section: "1802"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1802"
-generated_at: "2026-03-30T02:54:08.159Z"
+generated_at: "2026-11-23T20:26:04.133Z"
+status: "active"
 ---
 
 # § 1802. Definitions
@@ -18,3 +19,7 @@ As used in this chapter—
   - **(4)** The term “newspaper publication” means a publication produced on newsprint paper which is published in one or more issues weekly (including as one publication any daily newspaper and any Sunday newspaper published by the same owner in the same city, community, or metropolitan area), and in which a substantial portion of the content is devoted to the dissemination of news and editorial opinion.
   - **(5)** The term “failing newspaper” means a newspaper publication which, regardless of its ownership or affiliations, is in probable danger of financial failure.
   - **(6)** The term “person” means any individual, and any partnership, corporation, association, or other legal entity existing under or authorized by the law of the United States, any State or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any foreign country.
+
+## Source Credit
+
+*([Pub. L. 91–353, § 3](https://www.govinfo.gov/link/plaw/91/public/353), July 24, 1970, [84 Stat. 466](https://www.govinfo.gov/link/statute/84/466).)*

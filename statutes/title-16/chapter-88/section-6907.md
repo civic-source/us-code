@@ -3,9 +3,10 @@ title: "Section 6907 - Cooperation in carrying out convention"
 usc_title: 16
 usc_section: "6907"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6907"
-generated_at: "2026-03-30T02:54:23.071Z"
+generated_at: "2026-11-23T20:26:20.826Z"
+status: "active"
 ---
 
 # § 6907. Cooperation in carrying out convention
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:23.071Z"
   - **(2)** The regulations promulgated pursuant to section 6905(a) of this title shall apply until the Secretary determines that the State is effectively enforcing within its boundaries measures that are not less restrictive than the regulations promulgated under section 6905(a) of this title .
   - **(3)** If a State requests a formal agency hearing, the Secretary shall not apply the regulations promulgated pursuant 3 3 So in original. Probably should be followed by “to”. section 6905(a) of this title within that State’s boundaries unless the hearing record supports a determination under paragraph (1)(A) or (B).
 - **(f)** To ensure that the purposes of subsection (e) are carried out, the Secretary shall undertake a continuing review of the laws and regulations of all States to which subsection (e) applies or may apply and the extent to which such laws and regulations are enforced.
+
+## Source Credit
+
+*([Pub. L. 109–479, title V, § 508](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3642](https://www.govinfo.gov/link/statute/120/3642).)*

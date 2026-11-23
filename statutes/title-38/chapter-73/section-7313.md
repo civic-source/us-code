@@ -3,9 +3,10 @@ title: "Section 7313 - Advisory committees: affiliated institutions"
 usc_title: 38
 usc_section: "7313"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7313"
-generated_at: "2026-03-30T02:55:53.527Z"
+generated_at: "2026-11-23T20:27:01.996Z"
+status: "active"
 ---
 
 # § 7313. Advisory committees: affiliated institutions
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:53.527Z"
 - **(b)** Any such advisory committee may be established on an institution-wide, multi-disciplinary basis or on a regional basis whenever establishment on such a basis is found to be feasible.
 - **(c)** Members of each such advisory committee shall be appointed by the Secretary and shall include personnel of the Department (including appropriate representation from the full-time staff) and of the entity with which the Secretary has entered into the contract or agreement. The number of members, and terms of members, of each advisory committee shall be prescribed by the Secretary.
 - **(d)** The Secretary shall require that the Chief of the Nursing Service (or the designee of the Chief) at each Department health-care facility be included in the membership of each policymaking committee at that facility. Such committees include: (1) committees relating to matters such as budget, education, position management, clinical executive issues, planning, and resource allocation, and (2) the dean’s committee or other advisory committee established under subsection (a).
+
+## Source Credit
+
+*(Added [Pub. L. 102–40, title IV, § 401(a)(3)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 216](https://www.govinfo.gov/link/statute/105/216); amended [Pub. L. 102–405, title III, § 302(c)(1)](https://www.govinfo.gov/link/plaw/102/public/405), Oct. 9, 1992, [106 Stat. 1984](https://www.govinfo.gov/link/statute/106/1984).)*

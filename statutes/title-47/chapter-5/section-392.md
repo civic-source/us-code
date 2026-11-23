@@ -3,9 +3,10 @@ title: "Section 392 - Grants for construction"
 usc_title: 47
 usc_section: "392"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 392"
-generated_at: "2026-03-30T02:56:24.512Z"
+generated_at: "2026-11-23T20:27:28.904Z"
+status: "active"
 ---
 
 # § 392. Grants for construction
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:24.512Z"
   - **(2)** such facilities cease to be used primarily for the provision of public telecommunications services (or the use of such public telecommunications facilities for purposes other than the provision of public telecommunications services interferes with the provision of such public telecommunications services as required in this part);
 - **(h)** Each recipient of assistance under this subpart shall keep such records as may be reasonably necessary to enable the Secretary to carry out the functions of the Secretary under this subpart, including a complete and itemized inventory of all public telecommunications facilities under the control of such recipient, and rec­ords which fully disclose the amount and the disposition by such recipient of the proceeds of such assistance, the total cost of the project in connection with which such assistance is given or used, the amount and nature of that portion of the cost of the project supplied by other sources, and such other records as will facilitate an effective audit.
 - **(i)** The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of any recipient of assistance under this subpart that are pertinent to assistance received under this subpart.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title III, § 392, as added [Pub. L. 87–447](https://www.govinfo.gov/link/plaw/87/public/447), May 1, 1962, [76 Stat. 65](https://www.govinfo.gov/link/statute/76/65); amended [Pub. L. 90–129, title I](https://www.govinfo.gov/link/plaw/90/public/129), §§ 102, 103(b)–(e), 104, Nov. 7, 1967, [81 Stat. 365–367](https://www.govinfo.gov/link/statute/81/365); [Pub. L. 94–309, § 4](https://www.govinfo.gov/link/plaw/94/public/309), June 5, 1976, [90 Stat. 683](https://www.govinfo.gov/link/statute/90/683); [Pub. L. 95–567, title I, § 103(a)](https://www.govinfo.gov/link/plaw/95/public/567), Nov. 2, 1978, [92 Stat. 2405](https://www.govinfo.gov/link/statute/92/2405); [Pub. L. 97–35, title XII, § 1223](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 725](https://www.govinfo.gov/link/statute/95/725).)*

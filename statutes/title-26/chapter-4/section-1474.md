@@ -3,9 +3,10 @@ title: "Section 1474 - Special rules"
 usc_title: 26
 usc_section: "1474"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1474"
-generated_at: "2026-03-30T02:55:27.777Z"
+generated_at: "2026-11-23T20:26:46.134Z"
+status: "active"
 ---
 
 # § 1474. Special rules
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:27.777Z"
 - **(d)** The Secretary shall provide for the coordination of this chapter with other withholding provisions under this title, including providing for the proper crediting of amounts deducted and withheld under this chapter against amounts required to be deducted and withheld under such other provisions.
 - **(e)** Any tax deducted and withheld pursuant to an agreement described in section 1471(b) shall be treated for purposes of this title as a tax deducted and withheld by a withholding agent under section 1471(a).
 - **(f)** The Secretary shall prescribe such regulations or other guidance as may be necessary or appropriate to carry out the purposes of, and prevent the avoidance of, this chapter.
+
+## Source Credit
+
+*(Added [Pub. L. 111–147, title V, § 501(a)](https://www.govinfo.gov/link/plaw/111/public/147), Mar. 18, 2010, [124 Stat. 104](https://www.govinfo.gov/link/statute/124/104).)*

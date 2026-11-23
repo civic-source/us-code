@@ -3,12 +3,17 @@ title: "Section 402b - Additions to park"
 usc_title: 16
 usc_section: "402b"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 402b"
-generated_at: "2026-03-30T02:54:22.755Z"
+generated_at: "2026-11-23T20:26:19.429Z"
+status: "active"
 ---
 
 # § 402b. Additions to park
 
 The east half east half section 25, township 36 south, range 4 west; the east half and southwest quarter section 20, and all of sections 21, 29, and 30, township 36 south, range 3 west; all of sections 24 and 25, township 37 south, range 4 west; and all of sections 19 and 30, township 37 south, range 3 west, Salt Lake meridian, are excluded from the Powell National Forest and made a part of the Bryce Canyon National Park, subject to the provisions of sections 346, 401, and 402 of this title.
 
+
+## Source Credit
+
+*(Feb. 25, 1928, ch. 102, § 2, [45 Stat. 147](https://www.govinfo.gov/link/statute/45/147); May 12, 1928, ch. 533, § 2, [45 Stat. 502](https://www.govinfo.gov/link/statute/45/502).)*

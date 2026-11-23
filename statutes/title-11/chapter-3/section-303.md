@@ -3,9 +3,10 @@ title: "Section 303 - Involuntary cases"
 usc_title: 11
 usc_section: "303"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 303"
-generated_at: "2026-03-30T02:53:53.872Z"
+generated_at: "2026-11-23T20:25:55.333Z"
+status: "active"
 ---
 
 # § 303. Involuntary cases
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:53:53.872Z"
     - **(C)** the court dismisses such petition,
   - **(2)** If the debtor is an individual and the court dismisses a petition under this section, the court may enter an order prohibiting all consumer reporting agencies (as defined in section 603(f) of the Fair Credit Reporting Act ( 15 U.S.C. 1681a(f) )) from making any consumer report (as defined in section 603(d) of that Act) that contains any information relating to such petition or to the case commenced by the filing of such petition.
   - **(3)** Upon the expiration of the statute of limitations described in section 3282 of title 18 , for a violation of section 152 or 157 of such title, the court, upon the motion of the debtor and for good cause, may expunge any records relating to a petition filed under this section.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2559](https://www.govinfo.gov/link/statute/92/2559); [Pub. L. 98–353, title III](https://www.govinfo.gov/link/plaw/98/public/353), §§ 426, 427, July 10, 1984, [98 Stat. 369](https://www.govinfo.gov/link/statute/98/369); [Pub. L. 99–554, title II](https://www.govinfo.gov/link/plaw/99/public/554), §§ 204, 254, 283(b), Oct. 27, 1986, [100 Stat. 3097](https://www.govinfo.gov/link/statute/100/3097), 3105, 3116; [Pub. L. 103–394, title I, § 108(b)](https://www.govinfo.gov/link/plaw/103/public/394), Oct. 22, 1994, [108 Stat. 4112](https://www.govinfo.gov/link/statute/108/4112); [Pub. L. 109–8, title III, § 332(b)](https://www.govinfo.gov/link/plaw/109/public/8), title VIII, § 802(d)(2), title XII, § 1234(a), Apr. 20, 2005, [119 Stat. 103](https://www.govinfo.gov/link/statute/119/103), 146, 204; [Pub. L. 111–327, § 2(a)(9)](https://www.govinfo.gov/link/plaw/111/public/327), Dec. 22, 2010, [124 Stat. 3558](https://www.govinfo.gov/link/statute/124/3558).)*

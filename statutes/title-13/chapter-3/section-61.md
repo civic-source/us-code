@@ -3,9 +3,10 @@ title: "Section 61 - Collection and publication"
 usc_title: 13
 usc_section: "61"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "13 U.S.C. § 61"
-generated_at: "2026-03-30T02:54:03.337Z"
+generated_at: "2026-11-23T20:25:53.902Z"
+status: "active"
 ---
 
 # § 61. Collection and publication
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:03.337Z"
     - **(C)** animal fats and oils and greases, fish and marine mammal oils used by class of product and held by manufacturers of short­ening, margarine, soap, and other principal products which require the use of large quantities of animal fats and oils and greases, fish and marine mammal oils;
     - **(D)** animal fats and oils and greases, fish and marine mammal oils held in warehouses, cold storage, and in transit to consuming establishments.
 - **(b)** The Secretary shall not be required to collect, more frequently than he deems necessary to provide reliable statistical reports, information from any person who produces, holds, or consumes fats and oils in inconsequential quantities.
+
+## Source Credit
+
+*(Aug. 31, 1954, ch. 1158, [68 Stat. 1017](https://www.govinfo.gov/link/statute/68/1017).)*

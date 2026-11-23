@@ -3,9 +3,10 @@ title: "Section 5387 - Provisions relating to the Secretary"
 usc_title: 25
 usc_section: "5387"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 5387"
-generated_at: "2026-03-30T02:54:52.870Z"
+generated_at: "2026-11-23T20:26:25.748Z"
+status: "active"
 ---
 
 # § 5387. Provisions relating to the Secretary
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:54:52.870Z"
 - **(h)** A decision that constitutes final agency action and relates to an appeal within the Department of Health and Human Services conducted under subsection (c) of this section shall be made either—
   - **(1)** by an official of the Department who holds a position at a higher organizational level within the Department than the level of the departmental agency in which the decision that is the subject of the appeal was made; or
   - **(2)** by an administrative judge.
+
+## Source Credit
+
+*([Pub. L. 93–638, title V, § 507](https://www.govinfo.gov/link/plaw/93/public/638), as added [Pub. L. 106–260, § 4](https://www.govinfo.gov/link/plaw/106/public/260), Aug. 18, 2000, [114 Stat. 719](https://www.govinfo.gov/link/statute/114/719).)*

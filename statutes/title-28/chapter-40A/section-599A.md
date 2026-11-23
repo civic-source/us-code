@@ -3,9 +3,10 @@ title: "Section 599A - Bureau of alcohol, tobacco, firearms, and Explosives 1 1 
 usc_title: 28
 usc_section: "599A"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 599A"
-generated_at: "2026-03-30T02:55:30.134Z"
+generated_at: "2026-11-23T20:26:36.393Z"
+status: "active"
 ---
 
 # § 599A. Bureau of alcohol, tobacco, firearms, and Explosives 1 1 So in original. Probably should be “Bureau of Alcohol, Tobacco, Firearms, and Explosives”.
@@ -22,3 +23,25 @@ generated_at: "2026-03-30T02:55:30.134Z"
 - **(c)**
   - **(1)** Subject to paragraph (2), 2 but notwithstanding any other provision of law, there are transferred to the Department of Justice the authorities, functions, personnel, and assets of the Bureau of Alcohol, Tobacco and Firearms, which shall be maintained as a distinct entity within the Department of Justice, including the related functions of the Secretary of the Treasury.
   - **(3)** Prospectus PDC-98W10, giving the General Services Administration the authority for site acquisition, design, and construction of a new headquarters building for the Bureau of Alcohol, Tobacco and Firearms, is transferred, and deemed to apply, to the Bureau of Alcohol, Tobacco, Firearms, and Explosives established in the Department of Justice under subsection (a).
+
+Establishment.—
+
+In general
+
+Director
+
+Coordination
+
+Performance of transferred functions
+
+Responsibilities
+
+Transfer of authorities, functions, personnel, and assets to the Department of Justice.—
+
+In general
+
+Building prospectus
+
+## Source Credit
+
+*(Added and amended [Pub. L. 109–162, title XI, § 1187(b)](https://www.govinfo.gov/link/plaw/109/public/162), (c)(1), Jan. 5, 2006, [119 Stat. 3127](https://www.govinfo.gov/link/statute/119/3127); [Pub. L. 109–177, title V, § 504](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 247](https://www.govinfo.gov/link/statute/120/247).)*

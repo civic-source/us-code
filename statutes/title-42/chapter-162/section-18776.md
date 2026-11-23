@@ -3,9 +3,10 @@ title: "Section 18776 - Expansion of international energy data"
 usc_title: 42
 usc_section: "18776"
 chapter: 162
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18776"
-generated_at: "2026-03-30T02:56:11.530Z"
+generated_at: "2026-11-23T20:27:23.830Z"
+status: "active"
 ---
 
 # § 18776. Expansion of international energy data
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.530Z"
     - **(A)** cost; and
     - **(B)** emissions intensity; and
   - **(4)** provide tools that allow for straightforward country-to-country comparisons of energy production and consumption across economic sectors and end uses.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title IV, § 40416](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1045](https://www.govinfo.gov/link/statute/135/1045).)*

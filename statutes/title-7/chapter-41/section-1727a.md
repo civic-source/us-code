@@ -3,9 +3,10 @@ title: "Section 1727a - Eligible countries"
 usc_title: 7
 usc_section: "1727a"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1727a"
-generated_at: "2026-03-30T02:53:42.337Z"
+generated_at: "2026-11-23T20:25:41.278Z"
+status: "active"
 ---
 
 # § 1727a. Eligible countries
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:42.337Z"
   - **(2)** demonstrate the capacity to use food assistance effectively;
   - **(3)** have demonstrated a commitment to policies to promote food security, including policies to reduce measurably hunger and malnutrition through efforts such as establishing and institutionalizing supplemental nutrition programs targeted to reach those who are nutritionally at risk; and
   - **(4)** have a long-term plan for broad-based, equitable, and sustainable development.
+
+## Source Credit
+
+*(July 10, 1954, ch. 469, title III, § 302, as added [Pub. L. 95–88, title II, § 211(a)(2)](https://www.govinfo.gov/link/plaw/95/public/88), Aug. 3, 1977, [91 Stat. 549](https://www.govinfo.gov/link/statute/91/549); amended [Pub. L. 96–53, title II, § 205](https://www.govinfo.gov/link/plaw/96/public/53), Aug. 14, 1979, [93 Stat. 369](https://www.govinfo.gov/link/statute/93/369); [Pub. L. 99–83, title X, § 1004(b)](https://www.govinfo.gov/link/plaw/99/public/83), Aug. 8, 1985, [99 Stat. 271](https://www.govinfo.gov/link/statute/99/271); [Pub. L. 99–198, title XI, § 1108](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1467](https://www.govinfo.gov/link/statute/99/1467); [Pub. L. 101–624, title XV, § 1512](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3642](https://www.govinfo.gov/link/statute/104/3642).)*

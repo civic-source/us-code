@@ -3,9 +3,10 @@ title: "Section 5219b - Public availability of information of Making Home Afford
 usc_title: 12
 usc_section: "5219b"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5219b"
-generated_at: "2026-03-30T02:53:53.525Z"
+generated_at: "2026-11-23T20:25:59.451Z"
+status: "active"
 ---
 
 # § 5219b. Public availability of information of Making Home Affordable Program
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:53.525Z"
   - **(2)** Not more than 60 days after each monthly deadline for submission of data by mortgage servicers and lenders participating in the Program, the Secretary shall make data tables available to the public at the individual record level. The Secretary shall issue regulations prescribing—
     - **(A)** the procedures for disclosing such data to the public; and
     - **(B)** such deletions as the Secretary may determine to be appropriate to protect any privacy interest of any mortgage modification applicant, including the deletion or alteration of the applicant’s name and identification number.
+
+## Source Credit
+
+*([Pub. L. 111–203, title XIV, § 1483](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2203](https://www.govinfo.gov/link/statute/124/2203).)*

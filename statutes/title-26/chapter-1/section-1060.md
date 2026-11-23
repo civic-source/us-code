@@ -3,9 +3,10 @@ title: "Section 1060 - Special allocation rules for certain asset acquisitions"
 usc_title: 26
 usc_section: "1060"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1060"
-generated_at: "2026-03-30T02:55:27.758Z"
+generated_at: "2026-11-23T20:26:46.032Z"
+status: "active"
 ---
 
 # § 1060. Special allocation rules for certain asset acquisitions
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:27.758Z"
     - **(B)** Section 318 shall apply in determining ownership of stock in a corporation. Similar principles shall apply in determining the ownership of interests in any other entity.
   - **(3)** For purposes of this subsection, the term “related person” means any person who is related (within the meaning of section 267(b) or 707(b)(1)) to the 10-percent owner.
 - **(f)** For provisions relating to penalties for failure to file a return required by this section, see section 6721.
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title VI, § 641(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2282](https://www.govinfo.gov/link/statute/100/2282); amended [Pub. L. 100–647, title I, § 1006(h)(1)](https://www.govinfo.gov/link/plaw/100/public/647), (2), (3)(B), Nov. 10, 1988, [102 Stat. 3410](https://www.govinfo.gov/link/statute/102/3410); [Pub. L. 101–508, title XI, § 11323(a)](https://www.govinfo.gov/link/plaw/101/public/508), (b)(1), Nov. 5, 1990, [104 Stat. 1388–464](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–66, title XIII, § 13261(e)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 539](https://www.govinfo.gov/link/statute/107/539).)*

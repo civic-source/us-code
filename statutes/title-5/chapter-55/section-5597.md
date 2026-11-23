@@ -3,9 +3,10 @@ title: "Section 5597 - Separation pay"
 usc_title: 5
 usc_section: "5597"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 5597"
-generated_at: "2026-03-30T02:52:56.023Z"
+generated_at: "2026-11-23T20:25:31.964Z"
+status: "active"
 ---
 
 # § 5597. Separation pay
@@ -48,3 +49,71 @@ generated_at: "2026-03-30T02:52:56.023Z"
   - **(1)** Notwithstanding any other provision of this section, during fiscal year 2001, separation pay may be offered under the program carried out under this section with respect to workforce restructuring only to persons who, upon separation, are entitled to an immediate annuity under section 8336, 8412, or 8414 of this title and are otherwise eligible for the separation pay under this section.
   - **(2)** In the administration of the program under this section during fiscal year 2001, the Secretary shall ensure that not more than 1,000 employees are, as a result of workforce restructuring, separated from service in that fiscal year entitled to separation pay under this section.
   - **(3)** Separation pay may not be offered as a result of workforce restructuring under the program carried out under this section after fiscal year 2003.
+
+In General
+
+Terms and Conditions
+
+Additional Contribution to Retirement Fund.—
+
+First method
+
+Second method
+
+Computations to be based on separations occurring in the fiscal year involved
+
+Regulations.—
+
+In general
+
+Interest
+
+Rule of construction
+
+Definitions.—
+
+Final basic pay
+
+Employee
+
+Numerical Limitation
+
+Regulations
+
+Sense of Congress
+
+Definitions
+
+Agency Strategic Plan.—
+
+In general
+
+Contents
+
+Authority To Provide Voluntary Separation Incentive Payments.—
+
+In general
+
+Amount and treatment of payments
+
+Additional Agency Contributions to the Retirement Fund.—
+
+In general
+
+Definition
+
+Effect of Subsequent Employment With the Government
+
+Reduction of Agency Employment Levels.—
+
+In general
+
+Enforcement
+
+Effective Date
+
+“No later than December 31st of each fiscal year, the Office of Personnel Management shall submit to the Committee on Governmental Affairs [now Committee on Homeland Security and Governmental Affairs] of the Senate and the Committee on Post Office and Civil Service of the House of Representatives a report which, with respect to the preceding fiscal year, shall include—
+
+## Source Credit
+
+*(Added [Pub. L. 102–484, div. D, title XLIV, § 4436(a)(1)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2723](https://www.govinfo.gov/link/statute/106/2723); amended [Pub. L. 103–226, § 8(a)](https://www.govinfo.gov/link/plaw/103/public/226), Mar. 30, 1994, [108 Stat. 118](https://www.govinfo.gov/link/statute/108/118); [Pub. L. 103–337, div. A, title III, § 341(b)(1)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2720](https://www.govinfo.gov/link/statute/108/2720); [Pub. L. 104–201, div. A, title XVI, § 1612(a)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2739](https://www.govinfo.gov/link/statute/110/2739); [Pub. L. 105–85, div. A, title XI, § 1106(a)](https://www.govinfo.gov/link/plaw/105/public/85), (b)(1), Nov. 18, 1997, [111 Stat. 1923](https://www.govinfo.gov/link/statute/111/1923), 1924; [Pub. L. 106–65, div. A, title XI, § 1104(b)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 777](https://www.govinfo.gov/link/statute/113/777); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title XI, §§ 1151, 1153(a)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–319, 1654A–323.)*

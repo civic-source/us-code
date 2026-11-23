@@ -3,9 +3,10 @@ title: "Section 3206 - Global tsunami warning and mitigation network"
 usc_title: 33
 usc_section: "3206"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 3206"
-generated_at: "2026-03-30T02:55:41.139Z"
+generated_at: "2026-11-23T20:26:54.254Z"
+status: "active"
 ---
 
 # § 3206. Global tsunami warning and mitigation network
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:41.139Z"
   - **(2)** may support a process for transfer of detection and communication technology to affected nations for the purposes of supporting the international tsunami warning system; and
   - **(3)** shall provide technical and other assistance to support international tsunami programs.
 - **(d)** The National Weather Service, when deciding to provide assistance under this section, may take into consideration the data sharing policies and practices of nations proposed to receive such assistance, with a goal to encourage all nations to support full and open exchange of data.
+
+## Source Credit
+
+*([Pub. L. 109–424, § 7](https://www.govinfo.gov/link/plaw/109/public/424), Dec. 20, 2006, [120 Stat. 2907](https://www.govinfo.gov/link/statute/120/2907); [Pub. L. 109–479, title VIII, § 807](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3659](https://www.govinfo.gov/link/statute/120/3659); [Pub. L. 115–25, title V](https://www.govinfo.gov/link/plaw/115/public/25), §§ 507, 512(a), Apr. 18, 2017, [131 Stat. 124](https://www.govinfo.gov/link/statute/131/124), 128.)*

@@ -3,9 +3,10 @@ title: "Section 1312 - Water quality related effluent limitations"
 usc_title: 33
 usc_section: "1312"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1312"
-generated_at: "2026-03-30T02:55:41.092Z"
+generated_at: "2026-11-23T20:26:54.010Z"
+status: "active"
 ---
 
 # § 1312. Water quality related effluent limitations
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:41.092Z"
     - **(A)** The Administrator, with the concurrence of the State, may issue a permit which modifies the effluent limitations required by subsection (a) of this section for pollutants other than toxic pollutants if the applicant demonstrates at such hearing that (whether or not technology or other alternative control strategies are available) there is no reasonable relationship between the economic and social costs and the benefits to be obtained (including attainment of the objective of this chapter) from achieving such limitation.
     - **(B)** The Administrator, with the concurrence of the State, may issue a permit which modifies the effluent limitations required by subsection (a) of this section for toxic pollutants for a single period not to exceed 5 years if the applicant demonstrates to the satisfaction of the Administrator that such modified requirements (i) will represent the maximum degree of control within the economic capability of the owner and operator of the source, and (ii) will result in reasonable further progress beyond the requirements of section 1311(b)(2) of this title toward the requirements of subsection (a) of this section.
 - **(c)** The establishment of effluent limitations under this section shall not operate to delay the application of any effluent limitation established under section 1311 of this title .
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title III, § 302, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 846](https://www.govinfo.gov/link/statute/86/846); amended [Pub. L. 100–4, title III, § 308(e)](https://www.govinfo.gov/link/plaw/100/public/4), Feb. 4, 1987, [101 Stat. 39](https://www.govinfo.gov/link/statute/101/39).)*

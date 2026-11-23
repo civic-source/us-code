@@ -3,9 +3,10 @@ title: "Section 7432 - Clean heavy-duty vehicles"
 usc_title: 42
 usc_section: "7432"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7432"
-generated_at: "2026-03-30T02:56:11.303Z"
+generated_at: "2026-11-23T20:27:22.866Z"
+status: "active"
 ---
 
 # § 7432. Clean heavy-duty vehicles
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:56:11.303Z"
   - **(5)** The term “zero-emission vehicle” means a vehicle that has a drivetrain that produces, under any possible operational mode or condition, zero exhaust emissions of—
     - **(A)** any air pollutant that is listed pursuant to section 7408(a) of this title (or any precursor to such an air pollutant); and
     - **(B)** any greenhouse gas.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 132, as added [Pub. L. 117–169, title VI, § 60101](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 2063](https://www.govinfo.gov/link/statute/136/2063).)*

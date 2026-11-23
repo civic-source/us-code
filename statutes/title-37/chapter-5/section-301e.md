@@ -3,9 +3,10 @@ title: "Section 301e - Multiyear retention bonus: dental officers of the armed f
 usc_title: 37
 usc_section: "301e"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "37 U.S.C. § 301e"
-generated_at: "2026-03-30T02:55:44.050Z"
+generated_at: "2026-11-23T20:26:57.325Z"
+status: "active"
 ---
 
 # § 301e. Multiyear retention bonus: dental officers of the armed forces
@@ -21,3 +22,15 @@ generated_at: "2026-03-30T02:55:44.050Z"
   - **(5)** has completed initial residency training (or will complete such training before September 30 of the fiscal year in which the officer enters into an agreement under subsection (a)).
 - **(c)** At the discretion of the Secretary of the military department concerned, the Secretary may enter into a written agreement described in subsection (a)(1) with a dental officer who does not have the dental specialty specified in subsection (b)(2), and pay a retention bonus to such an officer as provided in this section, if the officer otherwise satisfies the eligibility requirements specified in subsection (b). The Secretaries shall exercise the authority provided in this section in a manner consistent with regulations prescribed by the Secretary of Defense.
 - **(d)** An officer who does not complete the period of active duty specified in the agreement entered into under subsection (a) shall be subject to the repayment provisions of section 303a(e) of this title .
+
+Bonus Authorized
+
+Officers Automatically Eligible
+
+Extension of Bonus to Other Dental Officers
+
+Repayment
+
+## Source Credit
+
+*(Added [Pub. L. 105–85, div. A, title VI, § 617(a)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1788](https://www.govinfo.gov/link/statute/111/1788); amended [Pub. L. 107–314, div. A, title VI, § 615(b)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2568](https://www.govinfo.gov/link/statute/116/2568); [Pub. L. 109–163, div. A, title VI, § 687(b)(3)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3328](https://www.govinfo.gov/link/statute/119/3328).)*

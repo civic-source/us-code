@@ -3,9 +3,10 @@ title: "Section 1067q - Investment in historically Black colleges and universiti
 usc_title: 20
 usc_section: "1067q"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1067q"
-generated_at: "2026-03-30T02:54:48.103Z"
+generated_at: "2026-11-23T20:26:14.355Z"
+status: "active"
 ---
 
 # § 1067q. Investment in historically Black colleges and universities and other minority-serving institutions
@@ -82,3 +83,23 @@ generated_at: "2026-03-30T02:54:48.103Z"
       - **(i)** part B;
       - **(ii)** part A of subchapter V; or
       - **(iii)** an annual authorization of appropriations under the Act of March 2, 1867 ( 14 Stat. 438 ; 20 U.S.C. 123 ).
+
+(aa) the purchase, rental, or lease of scientific or laboratory equipment for educational purposes, including instructional and research purposes;
+
+(bb) renovation and improvement in classroom, library, laboratory, and other instructional facilities;
+
+(cc) support of faculty exchanges, faculty development, and faculty fellowships to assist faculty in attaining advanced degrees in the faculty’s field of instruction;
+
+(dd) curriculum development and academic instruction;
+
+(ee) the purchase of library books, periodicals, microfilm, and other educational materials;
+
+(ff) funds and administrative management, and acquisition of equipment for use in strengthening funds management;
+
+(gg) the joint use of facilities such as laboratories and libraries; and
+
+(hh) academic tutoring and counseling programs and student support services; and
+
+## Source Credit
+
+*([Pub. L. 89–329, title III, § 371](https://www.govinfo.gov/link/plaw/89/public/329), formerly title IV, § 499A, as added [Pub. L. 110–84, title VIII, § 802](https://www.govinfo.gov/link/plaw/110/public/84), Sept. 27, 2007, [121 Stat. 817](https://www.govinfo.gov/link/statute/121/817); renumbered title III, § 371, and amended [Pub. L. 110–315, title III, § 316(a)(3)](https://www.govinfo.gov/link/plaw/110/public/315), (b), (c), Aug. 14, 2008, [122 Stat. 3185](https://www.govinfo.gov/link/statute/122/3185); [Pub. L. 111–39, title III, § 301(7)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1937](https://www.govinfo.gov/link/statute/123/1937); [Pub. L. 111–152, title II, § 2103](https://www.govinfo.gov/link/plaw/111/public/152), Mar. 30, 2010, [124 Stat. 1074](https://www.govinfo.gov/link/statute/124/1074); [Pub. L. 116–91, § 2](https://www.govinfo.gov/link/plaw/116/public/91), Dec. 19, 2019, [133 Stat. 1189](https://www.govinfo.gov/link/statute/133/1189).)*

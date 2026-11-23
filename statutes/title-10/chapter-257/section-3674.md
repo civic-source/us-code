@@ -3,9 +3,10 @@ title: "Section 3674 - Long-term lease or charter defined; substantial terminati
 usc_title: 10
 usc_section: "3674"
 chapter: 257
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 3674"
-generated_at: "2026-03-30T02:53:38.195Z"
+generated_at: "2026-11-23T20:25:51.844Z"
+status: "active"
 ---
 
 # § 3674. Long-term lease or charter defined; substantial termination liability
@@ -26,3 +27,15 @@ generated_at: "2026-03-30T02:53:38.195Z"
   - **(2)** if (as determined under regulations prescribed by the Secretary of Defense) the sum of—
     - **(A)** the present value of the amount of the termination liability of the United States under the contract as of the end of the term of the contract (exclusive of any option to extend the contract); and
     - **(B)** the present value of the total of the payments to be made by the United States under the contract (excluding any option to extend the contract) attributable to capital-hire,
+
+Long-term Lease or Charter.—
+
+General rule.—
+
+Special rule.—
+
+Substantial Termination Liability
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1825(a)](https://www.govinfo.gov/link/plaw/116/public/283), (f), Jan. 1, 2021, [134 Stat. 4206](https://www.govinfo.gov/link/statute/134/4206), 4207.)*

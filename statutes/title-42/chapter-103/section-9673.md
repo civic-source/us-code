@@ -3,9 +3,10 @@ title: "Section 9673 - Risk retention groups"
 usc_title: 42
 usc_section: "9673"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9673"
-generated_at: "2026-03-30T02:56:11.365Z"
+generated_at: "2026-11-23T20:27:23.130Z"
+status: "active"
 ---
 
 # § 9673. Risk retention groups
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:56:11.365Z"
   - **(2)** the sale of pollution liability insurance coverage for a risk retention group; and
   - **(3)** the provision of insurance related services or management services for a risk retention group or any member of such a group.
 - **(d)** A State may require that a person acting, or offering to act, as an agent or broker for a risk retention group obtain a license from that State, except that a State may not impose any qualification or requirement which discriminates against a nonresident agent or broker.
+
+## Source Credit
+
+*([Pub. L. 96–510, title IV, § 403](https://www.govinfo.gov/link/plaw/96/public/510), as added [Pub. L. 99–499, title II, § 210(a)](https://www.govinfo.gov/link/plaw/99/public/499), formerly § 210, Oct. 17, 1986, [100 Stat. 1717](https://www.govinfo.gov/link/statute/100/1717); renumbered § 210(a), [Pub. L. 99–563, § 11(c)(1)](https://www.govinfo.gov/link/plaw/99/public/563), Oct. 27, 1986, [100 Stat. 3177](https://www.govinfo.gov/link/statute/100/3177).)*

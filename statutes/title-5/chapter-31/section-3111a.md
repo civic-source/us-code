@@ -3,9 +3,10 @@ title: "Section 3111a - Federal internship programs"
 usc_title: 5
 usc_section: "3111a"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 3111a"
-generated_at: "2026-03-30T02:52:55.999Z"
+generated_at: "2026-11-23T20:25:31.797Z"
+status: "active"
 ---
 
 # § 3111a. Federal internship programs
@@ -26,3 +27,17 @@ generated_at: "2026-03-30T02:52:55.999Z"
       - **(ii)** is authorized under another statutory provision of law;
   - **(2)** the term “intern” means an individual participating in an internship program; and
   - **(3)** the term “agency” means an Executive agency.
+
+Internship Coordinator
+
+Online Information.—
+
+Agencies
+
+Office of personnel management
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 112–81, div. A, title XI, § 1109(a)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1614](https://www.govinfo.gov/link/statute/125/1614).)*

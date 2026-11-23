@@ -3,9 +3,10 @@ title: "Section 87e - General authorities"
 usc_title: 7
 usc_section: "87e"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 87e"
-generated_at: "2026-03-30T02:53:42.254Z"
+generated_at: "2026-11-23T20:25:40.908Z"
+status: "active"
 ---
 
 # § 87e. General authorities
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:53:42.254Z"
   - **(3)** To the extent practicable, the fees collected under paragraph (2), together with any proceeds from the sale of any samples, shall cover the costs, including administrative and supervisory costs, of services performed under paragraph (1).
 - **(j)** Fees collected under subsections (g), (h), and (i) shall be deposited into the fund created under section 79(j) of this title .
 - **(k)** The Secretary may extend appropriate courtesies to official representatives of foreign countries in order to establish and maintain relationships to carry out the policy stated in section 74 of this title . No gift offered or accepted pursuant to this subsection shall exceed $20 in value.
+
+## Source Credit
+
+*(Aug. 11, 1916, ch. 313, pt. B, § 16, as added [Pub. L. 90–487, § 1](https://www.govinfo.gov/link/plaw/90/public/487), Aug. 15, 1968, [82 Stat. 768](https://www.govinfo.gov/link/statute/82/768); amended [Pub. L. 94–582, § 18](https://www.govinfo.gov/link/plaw/94/public/582), Oct. 21, 1976, [90 Stat. 2884](https://www.govinfo.gov/link/statute/90/2884); [Pub. L. 95–113, title XVI](https://www.govinfo.gov/link/plaw/95/public/113), §§ 1604(k), 1606(i), Sept. 29, 1977, [91 Stat. 1029](https://www.govinfo.gov/link/statute/91/1029), 1030; [Pub. L. 102–237, title X, § 1007(2)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1897](https://www.govinfo.gov/link/statute/105/1897); [Pub. L. 103–156, § 9](https://www.govinfo.gov/link/plaw/103/public/156), Nov. 24, 1993, [107 Stat. 1527](https://www.govinfo.gov/link/statute/107/1527); [Pub. L. 103–354, title II, § 293(a)(7)](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3237](https://www.govinfo.gov/link/statute/108/3237).)*

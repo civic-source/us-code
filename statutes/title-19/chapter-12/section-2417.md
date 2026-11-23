@@ -3,9 +3,10 @@ title: "Section 2417 - Modification and termination of actions"
 usc_title: 19
 usc_section: "2417"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2417"
-generated_at: "2026-03-30T02:54:24.674Z"
+generated_at: "2026-11-23T20:26:10.965Z"
+status: "active"
 ---
 
 # § 2417. Modification and termination of actions
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:24.674Z"
       - **(i)** such action, and
       - **(ii)** other actions that could be taken (including actions against other products or services), and
     - **(B)** the effects of such actions on the United States economy, including consumers.
+
+## Source Credit
+
+*([Pub. L. 93–618, title III, § 307](https://www.govinfo.gov/link/plaw/93/public/618), as added [Pub. L. 100–418, title I, § 1301(a)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1174](https://www.govinfo.gov/link/statute/102/1174); amended [Pub. L. 114–125, title VI, § 602(b)(4)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 184](https://www.govinfo.gov/link/statute/130/184).)*

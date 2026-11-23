@@ -3,9 +3,10 @@ title: "Section 2815 - Military installation resilience projects"
 usc_title: 10
 usc_section: "2815"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2815"
-generated_at: "2026-03-30T02:53:38.177Z"
+generated_at: "2026-11-23T20:25:51.723Z"
+status: "active"
 ---
 
 # § 2815. Military installation resilience projects
@@ -39,3 +40,19 @@ generated_at: "2026-03-30T02:53:38.177Z"
   - **(1)** The title, location, a brief description of the scope of work, the original project cost estimate, and the current working cost estimate.
   - **(2)** The information provided under subsection (b)(2).
   - **(3)** Such other information as the Secretary considers appropriate.
+
+Projects Required
+
+Congressional Notification
+
+Timing of Projects
+
+Location of Projects
+
+Alternative Funding Source
+
+Annual Report
+
+## Source Credit
+
+*(Added [Pub. L. 116–92, div. B, title XXVIII, § 2801(b)(1)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1880](https://www.govinfo.gov/link/statute/133/1880); amended [Pub. L. 116–283, div. A, title III, § 315(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3514](https://www.govinfo.gov/link/statute/134/3514); [Pub. L. 118–31, div. B, title XXVIII, § 2804](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 744](https://www.govinfo.gov/link/statute/137/744); [Pub. L. 119–60, div. B, title XXVIII, § 2874](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1329](https://www.govinfo.gov/link/statute/139/1329).)*

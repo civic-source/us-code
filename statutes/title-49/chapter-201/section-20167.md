@@ -3,9 +3,10 @@ title: "Section 20167 - Reports on highway-rail grade crossing safety"
 usc_title: 49
 usc_section: "20167"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 20167"
-generated_at: "2026-03-30T02:56:19.338Z"
+generated_at: "2026-11-23T20:27:34.801Z"
+status: "active"
 ---
 
 # § 20167. Reports on highway-rail grade crossing safety
@@ -29,3 +30,17 @@ generated_at: "2026-03-30T02:56:19.338Z"
       - **(ii)** is not associated with a public highway, road, or street, or a private roadway; and
       - **(iii)** crosses 1 or more railroad tracks, either at grade or grade-separated.
   - **(2)** The term “State” means a State of the United States or the District of Columbia.
+
+Report
+
+Updates
+
+Definitions
+
+Highway-rail grade crossing
+
+State
+
+## Source Credit
+
+*(Added [Pub. L. 117–58, div. B, title II, § 22403(b)(1)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 735](https://www.govinfo.gov/link/statute/135/735).)*

@@ -3,9 +3,10 @@ title: "Section 7205 - State sponsors of international terrorism"
 usc_title: 22
 usc_section: "7205"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7205"
-generated_at: "2026-03-30T02:55:05.439Z"
+generated_at: "2026-11-23T20:26:32.660Z"
+status: "active"
 ---
 
 # § 7205. State sponsors of international terrorism
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:05.439Z"
   - **(3)** the average amount of time elapsed from the date of filing of a license application until the date of its approval;
   - **(4)** the extent to which the licensing procedures were effectively implemented; and
   - **(5)** a description of comments received from interested parties about the extent to which the licensing procedures were effective, after the applicable department or agency holds a public 30-day comment period.
+
+## Source Credit
+
+*([Pub. L. 106–387, § 1(a) [title IX, § 906]](https://www.govinfo.gov/link/plaw/106/public/387), Oct. 28, 2000, [114 Stat. 1549](https://www.govinfo.gov/link/statute/114/1549), 1549A–69; [Pub. L. 107–56, title II, § 221(a)(2)](https://www.govinfo.gov/link/plaw/107/public/56), (3), Oct. 26, 2001, [115 Stat. 292](https://www.govinfo.gov/link/statute/115/292).)*

@@ -3,9 +3,10 @@ title: "Section 6352 - Engineering and manufacturing research, development, and 
 usc_title: 10
 usc_section: "6352"
 chapter: 608
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6352"
-generated_at: "2026-03-30T02:53:38.227Z"
+generated_at: "2026-11-23T20:25:52.033Z"
+status: "active"
 ---
 
 # § 6352. Engineering and manufacturing research, development, and demonstration by managers of certain nuclear weapons production facilities
@@ -15,3 +16,11 @@ generated_at: "2026-03-30T02:53:38.227Z"
   - **(1)** replacement of obsolete or aging design and manufacturing technologies;
   - **(2)** development of innovative agile manufacturing techniques and processes; and
   - **(3)** training, recruitment, or retention of essential personnel in critical engineering and manufacturing disciplines.
+
+Authority for Programs at Nuclear Weapons Productions Facilities
+
+Projects and Activities
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1454](https://www.govinfo.gov/link/statute/139/1454).)*

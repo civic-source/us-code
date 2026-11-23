@@ -3,9 +3,10 @@ title: "Section 259 - Reliance in future on administrative rulings, etc."
 usc_title: 29
 usc_section: "259"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 259"
-generated_at: "2026-03-30T02:55:18.683Z"
+generated_at: "2026-11-23T20:26:37.813Z"
+status: "active"
 ---
 
 # § 259. Reliance in future on administrative rulings, etc.
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:18.683Z"
   - **(1)** in the case of the Fair Labor Standards Act of 1938, as amended [ 29 U.S.C. 201 et seq.]—the Administrator of the Wage and Hour Division of the Department of Labor;
   - **(2)** in the case of the Walsh-Healey Act—the Secretary of Labor, or any Federal officer utilized by him in the administration of such Act; and
   - **(3)** in the case of the Bacon-Davis Act 1 —the Secretary of Labor.
+
+## Source Credit
+
+*(May 14, 1947, ch. 52, § 10, [61 Stat. 89](https://www.govinfo.gov/link/statute/61/89).)*

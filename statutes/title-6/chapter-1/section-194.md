@@ -3,9 +3,10 @@ title: "Section 194 - Enhancement of public safety communications interoperabili
 usc_title: 6
 usc_section: "194"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 194"
-generated_at: "2026-03-30T02:53:09.448Z"
+generated_at: "2026-11-23T20:25:34.656Z"
+status: "active"
 ---
 
 # § 194. Enhancement of public safety communications interoperability
@@ -74,3 +75,25 @@ generated_at: "2026-03-30T02:53:09.448Z"
     - **(A)** many first responders working in the same jurisdiction or in different jurisdictions cannot effectively and efficiently communicate with one another; and
     - **(B)** their inability to do so threatens the public’s safety and may result in unnecessary loss of lives and property.
   - **(2)** It is the sense of Congress that interoperable emergency communications systems and radios should continue to be deployed as soon as practicable for use by the first responder community, and that upgraded and new digital communications systems and new digital radios must meet prevailing national, voluntary consensus standards for interoperability.
+
+In General
+
+Assessment
+
+Strategy
+
+Timing
+
+In General
+
+Supplementary Material
+
+In General
+
+Updated Reports to Be Filed on the Status of Treaty of [sic] Negotiations
+
+International Negotiations To Remedy Situation
+
+## Source Credit
+
+*([Pub. L. 108–458, title VII, § 7303](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3843](https://www.govinfo.gov/link/statute/118/3843); [Pub. L. 110–53, title III, § 301(c)](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 299](https://www.govinfo.gov/link/statute/121/299).)*

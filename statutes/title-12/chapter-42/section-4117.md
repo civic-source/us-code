@@ -3,9 +3,10 @@ title: "Section 4117 - Delegated responsibility to State agencies"
 usc_title: 12
 usc_section: "4117"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4117"
-generated_at: "2026-03-30T02:53:53.502Z"
+generated_at: "2026-11-23T20:25:59.367Z"
+status: "active"
 ---
 
 # § 4117. Delegated responsibility to State agencies
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:53.502Z"
   - **(6)** a certification by the public official responsible for submitting the comprehensive housing affordability strategy under section 12705 of title 42 that the proposed activities are consistent with the approved housing strategy of the State within which the eligible low-income housing is located; and
   - **(7)** such other certifications or information that the Secretary determines to be necessary or appropriate to achieve the purposes of this subchapter.
 - **(c)** The Secretary may enter into any agreements necessary to implement an approved State preservation plan, which may include incentives that are authorized under other provisions of this subchapter.
+
+## Source Credit
+
+*([Pub. L. 100–242, title II, § 227](https://www.govinfo.gov/link/plaw/100/public/242), as added [Pub. L. 101–625, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4270](https://www.govinfo.gov/link/statute/104/4270).)*

@@ -3,9 +3,10 @@ title: "Section 894a - Actions to address sexual assault at National Oceanic and
 usc_title: 33
 usc_section: "894a"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 894a"
-generated_at: "2026-03-30T02:55:41.075Z"
+generated_at: "2026-11-23T20:26:53.929Z"
+status: "active"
 ---
 
 # § 894a. Actions to address sexual assault at National Oceanic and Atmospheric Administration
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:55:41.075Z"
   - **(1)** all employees of the Administration and members of the commissioned officer corps of the Administration, including those employees and members who conduct field work for the Administration; and
   - **(2)** the public.
 - **(e)** In developing the policy required by subsection (a), the Secretary may consult or receive assistance from such State, local, and national organizations and subject matter experts as the Secretary considers appropriate.
+
+## Source Credit
+
+*([Pub. L. 114–328, div. C, title XXXV, § 3542](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2801](https://www.govinfo.gov/link/statute/130/2801); [Pub. L. 116–259, title V, § 504(a)(2)](https://www.govinfo.gov/link/plaw/116/public/259), Dec. 23, 2020, [134 Stat. 1180](https://www.govinfo.gov/link/statute/134/1180).)*

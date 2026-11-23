@@ -3,9 +3,10 @@ title: "Section 4915 - Judicial review"
 usc_title: 42
 usc_section: "4915"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4915"
-generated_at: "2026-03-30T02:56:11.211Z"
+generated_at: "2026-11-23T20:27:22.428Z"
+status: "active"
 ---
 
 # § 4915. Judicial review
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.211Z"
 - **(b)** If a party seeking review under this chapter applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the court that the information is material and was not available at the time of the proceeding before the Administrator of such Agency or Administration (as the case may be), the court may order such additional evidence (and evidence in rebuttal thereof) to be taken before such Administrator, and to be adduced upon the hearing, in such manner and upon such terms and conditions as the court may deem proper. Such Administrator may modify his findings as to the facts, or make new findings, by reason of the additional evidence so taken, and he shall file with the court such modified or new findings, and his recommendation, if any, for the modification or setting aside of his original order, with the return of such additional evidence.
 - **(c)** With respect to relief pending review of an action by either Administrator, no stay of an agency action may be granted unless the reviewing court determines that the party seeking such stay is (1) likely to prevail on the merits in the review proceeding and (2) will suffer irreparable harm pending such proceeding.
 - **(d)** For the purpose of obtaining information to carry out this chapter, the Administrator of the Environmental Protection Agency may issue subpenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents, and he may administer oaths. Witnesses summoned shall be paid the same fees and mileage that are paid witnesses in the courts of the United States. In cases of contumacy or refusal to obey a subpena served upon any person under this subsection, the district court of the United States for any district in which such person is found or resides or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the Administrator, to appear and produce papers, books, and documents before the Administrator, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
+
+## Source Credit
+
+*([Pub. L. 92–574, § 16](https://www.govinfo.gov/link/plaw/92/public/574), Oct. 27, 1972, [86 Stat. 1247](https://www.govinfo.gov/link/statute/86/1247).)*

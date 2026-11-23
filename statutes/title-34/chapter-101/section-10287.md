@@ -3,9 +3,10 @@ title: "Section 10287 - Funds available for appeals and expenses of representati
 usc_title: 34
 usc_section: "10287"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10287"
-generated_at: "2026-03-30T02:55:33.266Z"
+generated_at: "2026-11-23T20:26:50.455Z"
+status: "active"
 ---
 
 # § 10287. Funds available for appeals and expenses of representation of hearing examiners
@@ -15,3 +16,7 @@ On and after December 26, 2007 , funds available to conduct appeals under sectio
   - **(1)** the provisions of section 1001(a)(4) of such title I ( 42 U.S.C. 3793(a)(4) ) 1 1 See References in Text note below. shall apply;
   - **(2)** payment (consistent with section 10286 of this title ) shall be made only upon a determination by the Bureau that the facts legally warrant the payment; and
   - **(3)** any reference to section 1202 of such title I [ 34 U.S.C. 10282 ] shall be deemed to be a reference to paragraphs (2) and (3) of such section 1202:
+
+## Source Credit
+
+*([Pub. L. 110–161, div. B, title II](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 1912](https://www.govinfo.gov/link/statute/121/1912); [Pub. L. 112–239, div. A, title X, § 1086(c)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1968](https://www.govinfo.gov/link/statute/126/1968).)*

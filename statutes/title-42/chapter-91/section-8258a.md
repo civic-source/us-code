@@ -3,9 +3,10 @@ title: "Section 8258a - Demonstration of new technology"
 usc_title: 42
 usc_section: "8258a"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8258a"
-generated_at: "2026-03-30T02:56:11.338Z"
+generated_at: "2026-11-23T20:27:23.021Z"
+status: "active"
 ---
 
 # § 8258a. Demonstration of new technology
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:11.338Z"
 - **(d)** The Secretary may only select a project for funding under this section which is proposed to be carried out in a building under the jurisdiction of the General Services Administration if the project will be carried out by the Administrator of General Services. If such project involves a total expenditure in excess of $1,600,000, no appropriation shall be made for such project unless such project has been approved by a resolution adopted by the Committee on Public Works and Transportation of the House of Representatives and the Committee on Environment and Public Works of the Senate.
 - **(e)** The Secretary shall conduct a study to evaluate the potential use of the purchasing power of the Federal Government to promote the development and commercialization of energy efficient products. The study shall identify products for which there is a high potential for Federal purchasing power to substantially promote their development and commercialization, and shall include a plan to develop such potential. The study shall be conducted in consultation with utilities, manufacturers, and appropriate nonprofit organizations concerned with energy efficiency. The Secretary shall report to the Congress on the results of the study not later than two years after October 24, 1992 .
 - **(f)** There are authorized to be appropriated to the Secretary for carrying out this section $5,000,000 for each of the fiscal years 1993, 1994, and 1995.
+
+## Source Credit
+
+*([Pub. L. 95–619, title V, § 549](https://www.govinfo.gov/link/plaw/95/public/619), as added [Pub. L. 102–486, title I, § 152(h)(2)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2848](https://www.govinfo.gov/link/statute/106/2848).)*

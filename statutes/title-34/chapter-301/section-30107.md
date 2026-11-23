@@ -3,9 +3,10 @@ title: "Section 30107 - Local law enforcement grants for enforcement of cybercri
 usc_title: 34
 usc_section: "30107"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 30107"
-generated_at: "2026-03-30T02:55:33.305Z"
+generated_at: "2026-11-23T20:26:50.626Z"
+status: "active"
 ---
 
 # § 30107. Local law enforcement grants for enforcement of cybercrimes
@@ -66,3 +67,7 @@ generated_at: "2026-03-30T02:55:33.305Z"
 - **(g)**
   - **(1)** There are authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2023 through 2027.
   - **(2)** Of the amount made available under paragraph (1) in any fiscal year, not more than 5 percent may be used for evaluation, monitoring, technical assistance, salaries, and administrative expenses.
+
+## Source Credit
+
+*([Pub. L. 117–103, div. W, title XIV, § 1401](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 945](https://www.govinfo.gov/link/statute/136/945).)*

@@ -3,9 +3,10 @@ title: "Section 3671 - Transferred or reemployed employees"
 usc_title: 22
 usc_section: "3671"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3671"
-generated_at: "2026-03-30T02:55:05.396Z"
+generated_at: "2026-11-23T20:26:32.468Z"
+status: "active"
 ---
 
 # § 3671. Transferred or reemployed employees
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:55:05.396Z"
     - **(C)**
       - **(i)** Any teacher in a department or agency of the United States may be granted a sabbatical under this paragraph only if the teacher agrees, as a condition of accepting the sabbatical, to serve in the civil service upon the completion of the sabbatical for a period of two consecutive years.
       - **(ii)** Each agreement required under clause (i) of this subparagraph shall provide that in the event the teacher fails to carry out the agreement (except for good and sufficient reason as determined by the head of the department or agency that granted the sabbatical) the teacher shall be liable to the United States for payment of all expenses (including salary) of the sabbatical. The amount shall be treated as a debt due the United States.
+
+## Source Credit
+
+*([Pub. L. 96–70, title I, § 1231(a)](https://www.govinfo.gov/link/plaw/96/public/70) –(c), Sept. 27, 1979, [93 Stat. 468](https://www.govinfo.gov/link/statute/93/468), 469; [Pub. L. 104–201, div. C, title XXXV, § 3537](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2864](https://www.govinfo.gov/link/statute/110/2864); [Pub. L. 105–85, div. C, title XXXV, § 3550(d)(2)(C)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 2074](https://www.govinfo.gov/link/statute/111/2074); [Pub. L. 105–261, div. C, title XXXV, § 3507(a)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2269](https://www.govinfo.gov/link/statute/112/2269).)*

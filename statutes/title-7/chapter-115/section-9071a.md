@@ -3,9 +3,10 @@ title: "Section 9071a - Dairy donation program"
 usc_title: 7
 usc_section: "9071a"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 9071a"
-generated_at: "2026-03-30T02:53:42.487Z"
+generated_at: "2026-11-23T20:25:41.954Z"
+status: "active"
 ---
 
 # § 9071a. Dairy donation program
@@ -63,3 +64,7 @@ generated_at: "2026-03-30T02:53:42.487Z"
     - **(A)** the reimbursement calculated under subsection (d); minus
     - **(B)** the reimbursement under the milk donation program described in paragraph (1).
 - **(i)** Out of any amounts of the Treasury not otherwise appropriated, there is appropriated to the Secretary to carry out this section $400,000,000, to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. N, title VII, § 762](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2111](https://www.govinfo.gov/link/statute/134/2111).)*

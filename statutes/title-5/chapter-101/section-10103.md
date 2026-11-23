@@ -3,9 +3,10 @@ title: "Section 10103 - Career paths"
 usc_title: 5
 usc_section: "10103"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 10103"
-generated_at: "2026-03-30T02:52:56.076Z"
+generated_at: "2026-11-23T20:25:32.267Z"
+status: "active"
 ---
 
 # § 10103. Career paths
@@ -19,3 +20,13 @@ generated_at: "2026-03-30T02:52:56.076Z"
   - **(2)** the need to require service in a position for a sufficient period of time to provide the stability necessary—
     - **(A)** to carry out the duties of that position; and
     - **(B)** for responsibility and accountability for actions taken in that position.
+
+In General
+
+Education, Training, and Experience
+
+Policy
+
+## Source Credit
+
+*(Added [Pub. L. 109–295, title VI, § 621(a)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1413](https://www.govinfo.gov/link/statute/120/1413).)*

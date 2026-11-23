@@ -3,9 +3,10 @@ title: "Section 3841 - Examination of records of contractor"
 usc_title: 10
 usc_section: "3841"
 chapter: 279
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 3841"
-generated_at: "2026-03-30T02:53:38.198Z"
+generated_at: "2026-11-23T20:25:51.867Z"
+status: "active"
 ---
 
 # § 3841. Examination of records of contractor
@@ -40,3 +41,47 @@ generated_at: "2026-03-30T02:53:38.198Z"
   - **(1)** The contractor or subcontractor has established procedures to ensure that the imaging process preserves the integrity, reliability, and security of the original records.
   - **(2)** The contractor or subcontractor maintains an effective indexing system to permit timely and convenient access to the imaged records.
   - **(3)** The contractor or subcontractor retains the original records for a minimum of one year after imaging to permit periodic validation of the imaging systems.
+
+Records Defined
+
+Agency Authority.—
+
+DCAA Subpoena Authority.—
+
+Authority to require the production of records
+
+Enforcement of subpoena
+
+Authority not delegable
+
+Comptroller General Authority.—
+
+In general
+
+Exception for foreign contractor or subcontractor
+
+Additional records not required
+
+Limitation on Audits Relating to Indirect Costs
+
+Limitation
+
+Inapplicability to Certain Contracts
+
+Forms of Original Record Storage
+
+Use of Images of Original Records
+
+Revised Guidance Required
+
+Documentation Requirements
+
+Safeguards and Protections
+
+Risk-based Auditing
+
+Comptroller General Review
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1835(a)](https://www.govinfo.gov/link/plaw/116/public/283), (b), Jan. 1, 2021, [134 Stat. 4239](https://www.govinfo.gov/link/statute/134/4239).)*

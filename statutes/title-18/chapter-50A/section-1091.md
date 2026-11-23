@@ -3,9 +3,10 @@ title: "Section 1091 - Genocide"
 usc_title: 18
 usc_section: "1091"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 1091"
-generated_at: "2026-03-30T02:54:16.481Z"
+generated_at: "2026-11-23T20:26:08.463Z"
+status: "active"
 ---
 
 # § 1091. Genocide
@@ -30,3 +31,19 @@ generated_at: "2026-03-30T02:54:16.481Z"
     - **(C)** a stateless person whose habitual residence is in the United States; or
     - **(D)** present in the United States.
 - **(f)** Notwithstanding section 3282, in the case of an offense under this section, an indictment may be found, or information instituted, at any time without limitation.
+
+Basic Offense
+
+Punishment for Basic Offense
+
+Incitement Offense
+
+Attempt and Conspiracy
+
+Jurisdiction
+
+Nonapplicability of Certain Limitations
+
+## Source Credit
+
+*(Added [Pub. L. 100–606, § 2(a)](https://www.govinfo.gov/link/plaw/100/public/606), Nov. 4, 1988, [102 Stat. 3045](https://www.govinfo.gov/link/statute/102/3045); amended [Pub. L. 103–322, title VI, § 60003(a)(13)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1970](https://www.govinfo.gov/link/statute/108/1970); [Pub. L. 107–273, div. B, title IV, § 4002(a)(4)](https://www.govinfo.gov/link/plaw/107/public/273), (b)(7), Nov. 2, 2002, [116 Stat. 1806](https://www.govinfo.gov/link/statute/116/1806), 1808; [Pub. L. 110–151, § 2](https://www.govinfo.gov/link/plaw/110/public/151), Dec. 21, 2007, [121 Stat. 1821](https://www.govinfo.gov/link/statute/121/1821); [Pub. L. 111–122, § 3(a)](https://www.govinfo.gov/link/plaw/111/public/122), Dec. 22, 2009, [123 Stat. 3481](https://www.govinfo.gov/link/statute/123/3481).)*

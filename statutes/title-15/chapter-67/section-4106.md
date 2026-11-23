@@ -3,9 +3,10 @@ title: "Section 4106 - Implementation of Arctic research policy"
 usc_title: 15
 usc_section: "4106"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 4106"
-generated_at: "2026-03-30T02:54:08.198Z"
+generated_at: "2026-11-23T20:26:04.330Z"
+status: "active"
 ---
 
 # § 4106. Implementation of Arctic research policy
@@ -27,3 +28,9 @@ generated_at: "2026-03-30T02:54:08.198Z"
     - **(K)** the Environmental Protection Agency; and
     - **(L)** any other agency or office deemed appropriate.
   - **(3)** The representative of the National Science Foundation shall serve as the Chairperson of the Interagency Committee.
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 98–373, title I, § 107](https://www.govinfo.gov/link/plaw/98/public/373), July 31, 1984, [98 Stat. 1246](https://www.govinfo.gov/link/statute/98/1246); [Pub. L. 109–241, title IX, § 902(g)](https://www.govinfo.gov/link/plaw/109/public/241), July 11, 2006, [120 Stat. 567](https://www.govinfo.gov/link/statute/120/567).)*

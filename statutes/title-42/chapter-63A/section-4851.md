@@ -3,9 +3,10 @@ title: "Section 4851 - Findings"
 usc_title: 42
 usc_section: "4851"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4851"
-generated_at: "2026-03-30T02:56:11.209Z"
+generated_at: "2026-11-23T20:27:22.419Z"
+status: "active"
 ---
 
 # § 4851. Findings
@@ -20,3 +21,7 @@ The Congress finds that—
   - **(6)** the danger posed by lead-based paint hazards can be reduced by abating lead-based paint or by taking interim measures to prevent paint deterioration and limit children’s exposure to lead dust and chips;
   - **(7)** despite the enactment of laws in the early 1970’s requiring the Federal Government to eliminate as far as practicable lead-based paint hazards in federally owned, assisted, and insured housing, the Federal response to this national crisis remains severely limited; and
   - **(8)** the Federal Government must take a leadership role in building the infrastructure—including an informed public, State and local delivery systems, certified inspectors, contractors, and laboratories, trained workers, and available financing and insurance—necessary to ensure that the national goal of eliminating lead-based paint hazards in housing can be achieved as expeditiously as possible.
+
+## Source Credit
+
+*([Pub. L. 102–550, title X, § 1002](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3897](https://www.govinfo.gov/link/statute/106/3897).)*

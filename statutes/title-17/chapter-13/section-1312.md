@@ -3,9 +3,10 @@ title: "Section 1312 - Oaths and acknowledgments"
 usc_title: 17
 usc_section: "1312"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 1312"
-generated_at: "2026-03-30T02:54:15.357Z"
+generated_at: "2026-11-23T20:26:06.549Z"
+status: "active"
 ---
 
 # § 1312. Oaths and acknowledgments
@@ -18,3 +19,11 @@ generated_at: "2026-03-30T02:54:15.357Z"
 - **(b)**
   - **(1)** The Administrator may by rule prescribe that any document which is to be filed under this chapter in the Office of the Administrator and which is required by any law, rule, or other regulation to be under oath, may be subscribed to by a written declaration in such form as the Administrator may prescribe, and such declaration shall be in lieu of the oath otherwise required.
   - **(2)** Whenever a written declaration under paragraph (1) is used, the document containing the declaration shall state that willful false statements are punishable by fine or imprisonment, or both, pursuant to section 1001 of title 18 , and may jeopardize the validity of the application or document or a registration resulting therefrom.
+
+In General
+
+Written Declaration in Lieu of Oath
+
+## Source Credit
+
+*(Added [Pub. L. 105–304, title V, § 502](https://www.govinfo.gov/link/plaw/105/public/304), Oct. 28, 1998, [112 Stat. 2911](https://www.govinfo.gov/link/statute/112/2911).)*

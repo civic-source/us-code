@@ -3,9 +3,10 @@ title: "Section 904 - Homeland defense duty"
 usc_title: 32
 usc_section: "904"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "32 U.S.C. § 904"
-generated_at: "2026-03-30T02:55:31.867Z"
+generated_at: "2026-11-23T20:26:48.812Z"
+status: "active"
 ---
 
 # § 904. Homeland defense duty
@@ -16,3 +17,15 @@ generated_at: "2026-03-30T02:55:31.867Z"
 - **(d)** To ensure that the use of units and personnel of the National Guard of a State for homeland defense activities does not degrade the training and readiness of such units and personnel, the following requirements shall apply in determining the homeland defense activities that units and personnel of the National Guard of a State may perform:
   - **(1)** The performance of the activities is not to affect adversely the quality of that training or otherwise interfere with the ability of a member or unit of the National Guard to perform the military functions of the member or unit.
   - **(2)** The performance of the activities is not to degrade the military skills of the members of the National Guard performing those activities.
+
+Full-Time National Guard Duty
+
+Duration
+
+Relationship to Required Training
+
+Readiness
+
+## Source Credit
+
+*(Added [Pub. L. 108–375, div. A, title V, § 512(a)(1)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1878](https://www.govinfo.gov/link/statute/118/1878).)*

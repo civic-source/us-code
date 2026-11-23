@@ -3,9 +3,10 @@ title: "Section 12112 - Coastwise endorsement"
 usc_title: 46
 usc_section: "12112"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 12112"
-generated_at: "2026-03-30T02:56:15.558Z"
+generated_at: "2026-11-23T20:27:27.172Z"
+status: "active"
 ---
 
 # § 12112. Coastwise endorsement
@@ -20,3 +21,29 @@ generated_at: "2026-03-30T02:56:15.558Z"
       - **(iii)** qualifies as a wrecked vessel under section 12107 of this title ; and
   - **(3)** otherwise qualifies under the laws of the United States to engage in the coastwise trade.
 - **(b)** Subject to the laws of the United States regulating the coastwise trade, a vessel for which a coastwise endorsement is issued may engage in the coastwise trade.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 12112(a) | 46:12106(a). |  |
+| 12112(b) | 46:12106(b). |  |
+
+
+Requirements
+
+Authorized Activity
+
+Historical and Revision Notes
+
+12112(a)
+
+12112(b)
+
+In general
+
+Limitation on coastwise trade
+
+Termination
+
+## Source Credit
+
+*([Pub. L. 109–304, § 5](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1495](https://www.govinfo.gov/link/statute/120/1495).)*

@@ -3,9 +3,10 @@ title: "Section 4014 - Estimates of premium rates"
 usc_title: 42
 usc_section: "4014"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4014"
-generated_at: "2026-03-30T02:56:11.196Z"
+generated_at: "2026-11-23T20:27:22.336Z"
+status: "active"
 ---
 
 # § 4014. Estimates of premium rates
@@ -54,3 +55,57 @@ generated_at: "2026-03-30T02:56:11.196Z"
       - **(i)** for which 4 or more separate claims payments have been made under flood insurance coverage under this subchapter, with the amount of each such claim exceeding $5,000, and with the cumulative amount of such claims payments exceeding $20,000; or
       - **(ii)** for which at least 2 separate claims payments have been made under such coverage, with the cumulative amount of such claims exceeding the value of the property.
   - **(2)** In the case of a property consisting of 5 or more residences, such term shall have such meaning as the Director 2 2 So in original. Probably means “Administrator”. shall by regulation provide.
+
+Repeal.—
+
+In general
+
+Effective date
+
+Implementation, coordination, and guidance.—
+
+Facilitation of timely refunds
+
+Implementation and guidance
+
+Refund of excess premium charges collected
+
+Assumption of Policies at Existing Premium Rates
+
+Eligibility for Flood Insurance Coverage.—
+
+In general
+
+Adequate progress.—
+
+Reconstruction or improvement
+
+Considerations
+
+Date of commencement
+
+Request for determination
+
+Rule of construction
+
+Termination of Eligibility.—
+
+Adequate continuing progress
+
+Termination
+
+Waiver
+
+Risk premium rate
+
+Additional Authority.—
+
+Additional authority
+
+Limitation
+
+Termination
+
+## Source Credit
+
+*([Pub. L. 90–448, title XIII, § 1307](https://www.govinfo.gov/link/plaw/90/public/448), Aug. 1, 1968, [82 Stat. 576](https://www.govinfo.gov/link/statute/82/576); [Pub. L. 93–234, title I, § 109](https://www.govinfo.gov/link/plaw/93/public/234), Dec. 31, 1973, [87 Stat. 980](https://www.govinfo.gov/link/statute/87/980); [Pub. L. 93–383, title VIII, § 816(b)](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 739](https://www.govinfo.gov/link/statute/88/739); [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title IV, § 451(d)(1)], Nov. 30, 1983, [97 Stat. 1229](https://www.govinfo.gov/link/statute/97/1229); [Pub. L. 101–508, title II, § 2302(e)(1)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–24](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 102–550, title IX, § 928](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3886](https://www.govinfo.gov/link/statute/106/3886); [Pub. L. 112–123, § 2(a)](https://www.govinfo.gov/link/plaw/112/public/123), May 31, 2012, [126 Stat. 365](https://www.govinfo.gov/link/statute/126/365); [Pub. L. 112–141, div. F, title II](https://www.govinfo.gov/link/plaw/112/public/141), §§ 100205(a)(1), (b), 100238(b)(1), July 6, 2012, [126 Stat. 917](https://www.govinfo.gov/link/statute/126/917), 918, 958; [Pub. L. 113–89](https://www.govinfo.gov/link/plaw/113/public/89), §§ 3(a)(1), 14, 15, 19, Mar. 21, 2014, [128 Stat. 1021](https://www.govinfo.gov/link/statute/128/1021), 1026, 1027.)*

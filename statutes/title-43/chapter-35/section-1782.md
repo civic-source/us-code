@@ -3,9 +3,10 @@ title: "Section 1782 - Bureau of Land Management Wilderness Study"
 usc_title: 43
 usc_section: "1782"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1782"
-generated_at: "2026-03-30T02:55:57.493Z"
+generated_at: "2026-11-23T20:27:06.381Z"
+status: "active"
 ---
 
 # § 1782. Bureau of Land Management Wilderness Study
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:57.493Z"
 - **(a)** Within fifteen years after October 21, 1976 , the Secretary shall review those roadless areas of five thousand acres or more and roadless islands of the public lands, identified during the inventory required by section 1711(a) of this title as having wilderness characteristics described in the Wilderness Act of September 3, 1964 ( 78 Stat. 890 ; 16 U.S.C. 1131 et seq.) and shall from time to time report to the President his recommendation as to the suitability or nonsuitability of each such area or island for preservation as wilderness: Provided , That prior to any recommendations for the designation of an area as wilderness the Secretary shall cause mineral surveys to be conducted by the United States Geological Survey and the United States Bureau of Mines to determine the mineral values, if any, that may be present in such areas: Provided further , That the Secretary shall report to the President by July 1, 1980 , his recommendations on those areas which the Secretary has prior to November 1, 1975 , formally identified as natural or primitive areas. The review required by this subsection shall be conducted in accordance with the procedure specified in section 3(d) of the Wilderness Act [ 16 U.S.C. 1132(d) ].
 - **(b)** The President shall advise the President of the Senate and the Speaker of the House of Representatives of his recommendations with respect to designation as wilderness of each such area, together with a map thereof and a definition of its boundaries. Such advice by the President shall be given within two years of the receipt of each report from the Secretary. A recommendation of the President for designation as wilderness shall become effective only if so provided by an Act of Congress.
 - **(c)** During the period of review of such areas and until Congress has determined otherwise, the Secretary shall continue to manage such lands according to his authority under this Act and other applicable law in a manner so as not to impair the suitability of such areas for preservation as wilderness, subject, however, to the continuation of existing mining and grazing uses and mineral leasing in the manner and degree in which the same was being conducted on October 21, 1976 : Provided , That, in managing the public lands the Secretary shall by regulation or otherwise take any action required to prevent unnecessary or undue degradation of the lands and their resources or to afford environmental protection. Unless previously withdrawn from appropriation under the mining laws, such lands shall continue to be subject to such appropriation during the period of review unless withdrawn by the Secretary under the procedures of section 1714 of this title for reasons other than preservation of their wilderness character. Once an area has been designated for preservation as wilderness, the provisions of the Wilderness Act [ 16 U.S.C. 1131 et seq.] which apply to national forest wilderness areas shall apply with respect to the administration and use of such designated area, including mineral surveys required by section 4(d)(2) of the Wilderness Act [ 16 U.S.C. 1133(d)(2) ], and mineral development, access, exchange of lands, and ingress and egress for mining claimants and occupants.
+
+## Source Credit
+
+*([Pub. L. 94–579, title VI, § 603](https://www.govinfo.gov/link/plaw/94/public/579), Oct. 21, 1976, [90 Stat. 2785](https://www.govinfo.gov/link/statute/90/2785); [Pub. L. 102–154, title I](https://www.govinfo.gov/link/plaw/102/public/154), Nov. 13, 1991, [105 Stat. 1000](https://www.govinfo.gov/link/statute/105/1000); [Pub. L. 102–285, § 10(b)](https://www.govinfo.gov/link/plaw/102/public/285), May 18, 1992, [106 Stat. 172](https://www.govinfo.gov/link/statute/106/172).)*

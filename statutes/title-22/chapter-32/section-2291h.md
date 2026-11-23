@@ -3,9 +3,10 @@ title: "Section 2291h - Reporting requirements"
 usc_title: 22
 usc_section: "2291h"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2291h"
-generated_at: "2026-03-30T02:55:05.354Z"
+generated_at: "2026-11-23T20:26:32.213Z"
+status: "active"
 ---
 
 # § 2291h. Reporting requirements
@@ -94,3 +95,15 @@ generated_at: "2026-03-30T02:55:05.354Z"
       - **(i)** the assistance provided or to be provided to such country by that agency, and
       - **(ii)** the assistance provided or to be provided to that agency by such country,
     - **(C)** list all transfers, which were made by the United States Government during the preceding fiscal year, to a foreign country for narcotics control purposes of any property seized by or otherwise forfeited to the United States Government in connection with narcotics-related activity, including an estimate of the fair market value and physical condition of each item of property transferred.
+
+Covered synthetic drugs and new psychoactive substances.—
+
+Covered synthetic drugs
+
+New psychoactive substances
+
+Definitions
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 489, as added [Pub. L. 102–583, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/583), Nov. 2, 1992, [106 Stat. 4917](https://www.govinfo.gov/link/statute/106/4917); amended [Pub. L. 103–447, title I, § 101(f)(1)](https://www.govinfo.gov/link/plaw/103/public/447), Nov. 2, 1994, [108 Stat. 4692](https://www.govinfo.gov/link/statute/108/4692); [Pub. L. 104–66, title I, § 1112(c)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 724](https://www.govinfo.gov/link/statute/109/724); [Pub. L. 109–177, title VII, § 722(a)](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 268](https://www.govinfo.gov/link/statute/120/268); [Pub. L. 116–92, div. F, title LXXII, § 7217(b)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2269](https://www.govinfo.gov/link/statute/133/2269); [Pub. L. 117–81, div. E, title LI, § 5102(b)](https://www.govinfo.gov/link/plaw/117/public/81), div. F, title LXVI, § 6610(c), Dec. 27, 2021, [135 Stat. 2344](https://www.govinfo.gov/link/statute/135/2344), 2447; [Pub. L. 117–263, div. E, title LV, § 5555(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3342](https://www.govinfo.gov/link/statute/136/3342); [Pub. L. 118–159, div. G, title LXXVIII, § 7808](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2562](https://www.govinfo.gov/link/statute/138/2562); [Pub. L. 119–60, div. H, title LXXXIII, § 8312](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1854](https://www.govinfo.gov/link/statute/139/1854).)*

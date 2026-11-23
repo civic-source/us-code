@@ -3,9 +3,10 @@ title: "Section 2012 - Indian education personnel"
 usc_title: 25
 usc_section: "2012"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 2012"
-generated_at: "2026-03-30T02:54:52.833Z"
+generated_at: "2026-11-23T20:26:25.566Z"
+status: "active"
 ---
 
 # § 2012. Indian education personnel
@@ -177,3 +178,11 @@ generated_at: "2026-03-30T02:54:52.833Z"
       - **(ii)** such educators are selected based upon such educator’s qualifications after public notice of the minimum qualifications reasonably necessary and without discrimination as to supervisory, nonsupervisory, or other status of the educators who apply.
   - **(2)** The supervisor of a Bureau school may appeal to the appropriate agency education line officer any refusal by the local school board to approve any determination of the supervisor that is described in paragraph (1)(A) by filing a written statement describing the determination and the reasons the supervisor believes such determination should be approved. A copy of such statement shall be submitted to the local school board and such board shall be afforded an opportunity to respond, in writing, to such appeal. After reviewing such written appeal and response, the education line officer may, for good cause, approve the determination of the supervisor. The educational line officer shall transmit the determination of such appeal in the form of a written opinion to such local school board and to the supervisor identifying the reasons for approving such determination.
 - **(r)** The Secretary is authorized to provide annual stipends to teachers who become certified by the National Board of Professional Teaching Standards, the National Council on Teacher Quality, or other nationally recognized certification or credentialing organizations.
+
+(aa) at least 5 percent; or
+
+(bb) less than 5 percent; and
+
+## Source Credit
+
+*([Pub. L. 95–561, title XI, § 1132](https://www.govinfo.gov/link/plaw/95/public/561), as added [Pub. L. 107–110, title X, § 1042](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2044](https://www.govinfo.gov/link/statute/115/2044).)*

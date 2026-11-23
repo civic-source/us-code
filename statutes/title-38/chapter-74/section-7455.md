@@ -3,9 +3,10 @@ title: "Section 7455 - Increases in rates of basic pay"
 usc_title: 38
 usc_section: "7455"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7455"
-generated_at: "2026-03-30T02:55:53.532Z"
+generated_at: "2026-11-23T20:27:02.026Z"
+status: "active"
 ---
 
 # § 7455. Increases in rates of basic pay
@@ -39,3 +40,23 @@ generated_at: "2026-03-30T02:55:53.532Z"
   - **(1)** In the exercise of the authority provided in subsection (a) with respect to personnel described in subparagraph (B) or (C) of paragraph (2) of that subsection to increase the rates of basic pay for any category of personnel not appointed under subchapter I, the Secretary shall, not less than 45 days before the effective date of a proposed increase, notify the President of the Secretary’s intention to provide such an increase.
   - **(2)** Such a proposed increase shall not take effect if, before the effective date of the proposed increase, the President disapproves such increase and provides the appropriate committees of the Congress with a written statement of the President’s reasons for such disapproval.
   - **(3)** If, before that effective date, the President approves such increase, the Secretary may advance the effective date to any date not earlier than the date of the President’s approval.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+George Bush.
+
+## Source Credit
+
+*(Added [Pub. L. 102–40, title IV, § 401(b)(4)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 234](https://www.govinfo.gov/link/statute/105/234); amended [Pub. L. 102–83, § 2(c)(7)](https://www.govinfo.gov/link/plaw/102/public/83), Aug. 6, 1991, [105 Stat. 402](https://www.govinfo.gov/link/statute/105/402); [Pub. L. 102–405, title II, § 201](https://www.govinfo.gov/link/plaw/102/public/405), title III, § 302(c)(1), Oct. 9, 1992, [106 Stat. 1983](https://www.govinfo.gov/link/statute/106/1983), 1984; [Pub. L. 106–419, title II, § 203](https://www.govinfo.gov/link/plaw/106/public/419), Nov. 1, 2000, [114 Stat. 1841](https://www.govinfo.gov/link/statute/114/1841); [Pub. L. 111–163, title VI, § 601](https://www.govinfo.gov/link/plaw/111/public/163) (l), May 5, 2010, [124 Stat. 1172](https://www.govinfo.gov/link/statute/124/1172); [Pub. L. 117–168, title IX, § 904(a)](https://www.govinfo.gov/link/plaw/117/public/168), Aug. 10, 2022, [136 Stat. 1811](https://www.govinfo.gov/link/statute/136/1811).)*

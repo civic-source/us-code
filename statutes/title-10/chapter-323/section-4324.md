@@ -3,9 +3,10 @@ title: "Section 4324 - Life-cycle management and product support"
 usc_title: 10
 usc_section: "4324"
 chapter: 323
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 4324"
-generated_at: "2026-03-30T02:53:38.206Z"
+generated_at: "2026-11-23T20:25:51.942Z"
+status: "active"
 ---
 
 # § 4324. Life-cycle management and product support
@@ -69,3 +70,13 @@ generated_at: "2026-03-30T02:53:38.206Z"
       - **(iv)** Life-cycle product support.
   - **(8)** The term “product support integrator” means an entity responsible for integrating private and public sources of product support within the scope of a product support arrangement.
   - **(9)** The term “product support provider” means an entity that provides product support functions.
+
+In General
+
+Life-cycle Sustainment Plan
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 112–239, div. A, title VIII, § 823(a)(1)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1830](https://www.govinfo.gov/link/statute/126/1830), § 2337; amended [Pub. L. 113–66, div. A, title VIII, § 823](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 809](https://www.govinfo.gov/link/statute/127/809); renumbered § 4324 and amended [Pub. L. 116–283, div. A, title VIII, § 802(a)](https://www.govinfo.gov/link/plaw/116/public/283), title XVIII, §§ 1848(d)(1), (2), 1883(b)(2), Jan. 1, 2021, [134 Stat. 3731](https://www.govinfo.gov/link/statute/134/3731), 4258, 4294; [Pub. L. 117–81, div. A, title XVII, § 1701(b)(17)](https://www.govinfo.gov/link/plaw/117/public/81), (d)(11), Dec. 27, 2021, [135 Stat. 2135](https://www.govinfo.gov/link/statute/135/2135), 2137; [Pub. L. 117–263, div. A, title VIII, § 806](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2702](https://www.govinfo.gov/link/statute/136/2702); [Pub. L. 118–159, div. A, title VIII, § 804(c)(3)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1968](https://www.govinfo.gov/link/statute/138/1968); [Pub. L. 119–60, div. A, title XVIII](https://www.govinfo.gov/link/plaw/119/public/60), §§ 1803(c), 1805(b)(1), Dec. 18, 2025, [139 Stat. 1230](https://www.govinfo.gov/link/statute/139/1230), 1236.)*

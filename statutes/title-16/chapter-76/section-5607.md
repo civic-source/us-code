@@ -3,9 +3,10 @@ title: "Section 5607 - Consultative committee"
 usc_title: 16
 usc_section: "5607"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 5607"
-generated_at: "2026-03-30T02:54:23.053Z"
+generated_at: "2026-11-23T20:26:20.779Z"
+status: "active"
 ---
 
 # § 5607. Consultative committee
@@ -19,3 +20,9 @@ generated_at: "2026-03-30T02:54:23.053Z"
   - **(2)** any other meetings to which they are invited by the Commission; and
   - **(3)** all nonexecutive meetings of the United States Commissioners.
 - **(d)** Chapter 10 of title 5 shall not apply to the consultative committee established under this section.
+
+Terms and Reappointment
+
+## Source Credit
+
+*([Pub. L. 104–43, title II, § 208](https://www.govinfo.gov/link/plaw/104/public/43), Nov. 3, 1995, [109 Stat. 380](https://www.govinfo.gov/link/statute/109/380); [Pub. L. 114–327, title V, § 507](https://www.govinfo.gov/link/plaw/114/public/327), Dec. 16, 2016, [130 Stat. 1996](https://www.govinfo.gov/link/statute/130/1996); [Pub. L. 117–286, § 4(a)(125)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4319](https://www.govinfo.gov/link/statute/136/4319).)*

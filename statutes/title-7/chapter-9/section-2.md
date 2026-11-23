@@ -3,9 +3,10 @@ title: "Section 2 - Violations by live poultry dealers"
 usc_title: 7
 usc_section: "2"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-03-30T02:53:42.279Z"
+generated_at: "2026-11-23T20:25:41.005Z"
+status: "active"
 ---
 
 # § 228b–2. Violations by live poultry dealers
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:42.279Z"
 - **(b)** If, after such hearing, the Secretary finds that the live poultry dealer has violated, or is violating, any provisions of section 197 of this title or section 228b–1 of this title covered by the charges, he shall make a report in writing in which he shall state his findings as to the facts, and shall issue and cause to be served on the live poultry dealer an order requiring such live poultry dealer to cease and desist from continuing such violation. The testimony taken at the hearing shall be reduced to writing and filed in the records of the Department of Agriculture. The Secretary may also assess a civil penalty of not more than $20,000 for each such violation. In determining the amount of the civil penalty to be assessed under this section, the Secretary shall consider the gravity of the offense, the size of the business involved, and the effect of the penalty on the person’s ability to continue in business: Provided, however , That in no event can the penalty assessed by the Secretary take priority over or impede the ability of the live poultry dealer to pay any unpaid cash seller or poultry grower. If, after the lapse of the period allowed for appeal or after the affirmance of such penalty, the person against whom the civil penalty is assessed fails to pay such penalty, the Secretary may refer the matter to the Attorney General, who may recover such penalty by an action in the appropriate District Court of the United States.
 - **(c)** Until the record in such hearing has been filed in a court of appeals of the United States, as provided in section 228b–3 of this title , the Secretary, at any time, upon such notice and in such manner as he deems proper, but only after reasonable opportunity to the live poultry dealer to be heard, may amend or set aside the report or order, in whole or in part.
 - **(d)** Complaints, orders, and other processes of the Secretary under this section may be served in the same manner as provided in section 45 of title 15 .
+
+## Source Credit
+
+*(Aug. 15, 1921, ch. 64, title IV, § 411, as added [Pub. L. 100–173, § 9(2)](https://www.govinfo.gov/link/plaw/100/public/173), Nov. 23, 1987, [101 Stat. 920](https://www.govinfo.gov/link/statute/101/920).)*

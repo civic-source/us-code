@@ -3,9 +3,10 @@ title: "Section 3722b - Distressed area Recompete Pilot Program"
 usc_title: 15
 usc_section: "3722b"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 3722b"
-generated_at: "2026-03-30T02:54:08.195Z"
+generated_at: "2026-11-23T20:26:04.313Z"
+status: "active"
 ---
 
 # § 3722b. Distressed area Recompete Pilot Program
@@ -102,3 +103,7 @@ generated_at: "2026-03-30T02:54:08.195Z"
         - **(I)** the total number of individuals ages 25 through 54 included on the membership roll of the Tribal government; and
         - **(II)** 0.35 2 2 So in original. Probably should be followed by a period.
     - **(B)** A calculation under subparagraph (A) shall be determined based on data provided by the applicable Tribal government to the Department of the Treasury under the Coronavirus State and Local Fiscal Recovery Fund programs under title VI of the Social Security Act ( 42 U.S.C. 801 et seq.).
+
+## Source Credit
+
+*([Pub. L. 96–480, § 29](https://www.govinfo.gov/link/plaw/96/public/480), as added [Pub. L. 117–167, div. B, title VI, § 10621(a)(2)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1655](https://www.govinfo.gov/link/statute/136/1655).)*

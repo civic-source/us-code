@@ -3,9 +3,10 @@ title: "Section 2087 - Whistleblower protection"
 usc_title: 15
 usc_section: "2087"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2087"
-generated_at: "2026-03-30T02:54:08.167Z"
+generated_at: "2026-11-23T20:26:04.170Z"
+status: "active"
 ---
 
 # § 2087. Whistleblower protection
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:54:08.167Z"
     - **(B)** The court, in issuing any final order under this paragraph, may award costs of litigation (including reasonable attorneys’ and expert witness fees) to any party whenever the court determines such award is appropriate.
 - **(c)** Any nondiscretionary duty imposed by this section shall be enforceable in a mandamus proceeding brought under section 1361 of title 28 .
 - **(d)** Subsection (a) shall not apply with respect to an employee of a manufacturer, private labeler, distributor, or retailer who, acting without direction from such manufacturer, private labeler, distributor, or retailer (or such person’s agent), deliberately causes a violation of any requirement relating to any violation or alleged violation of any order, regulation, or consumer product safety standard under this chapter or any other law enforced by the Commission.
+
+## Source Credit
+
+*([Pub. L. 92–573, § 40](https://www.govinfo.gov/link/plaw/92/public/573), as added [Pub. L. 110–314, title II, § 219(a)](https://www.govinfo.gov/link/plaw/110/public/314), Aug. 14, 2008, [122 Stat. 3062](https://www.govinfo.gov/link/statute/122/3062).)*

@@ -3,9 +3,10 @@ title: "Section 3034 - Chief Financial Officer of the Intelligence Community"
 usc_title: 50
 usc_section: "3034"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3034"
-generated_at: "2026-03-30T02:56:26.229Z"
+generated_at: "2026-11-23T20:27:30.891Z"
+status: "active"
 ---
 
 # § 3034. Chief Financial Officer of the Intelligence Community
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:26.229Z"
   - **(1)** The term “major system” has the meaning given that term in section 3097(e) of this title .
   - **(2)** The term “Milestone A” has the meaning given that term in section 3103(f) 1 1 So in original. Section 3103 of this title does not contain a subsec. (f). of this title.
   - **(3)** The term “Milestone B” has the meaning given that term in section 3099(e) of this title .
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title I, § 103I, as added [Pub. L. 111–259, title IV, § 406(a)](https://www.govinfo.gov/link/plaw/111/public/259), Oct. 7, 2010, [124 Stat. 2720](https://www.govinfo.gov/link/statute/124/2720); amended [Pub. L. 116–92, div. E, title LXIV, § 6404](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2196](https://www.govinfo.gov/link/statute/133/2196).)*

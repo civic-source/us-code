@@ -3,9 +3,10 @@ title: "Section 7502 - Program coordination"
 usc_title: 15
 usc_section: "7502"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 7502"
-generated_at: "2026-03-30T02:54:08.224Z"
+generated_at: "2026-11-23T20:26:04.460Z"
+status: "active"
 ---
 
 # § 7502. Program coordination
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:08.224Z"
   - **(1)** the amount of funding required to adequately fund the Office;
   - **(2)** the adequacy of existing mechanisms to fund this Office; and
   - **(3)** the actions taken by the Director to ensure stable funding of this Office.
+
+## Source Credit
+
+*([Pub. L. 108–153, § 3](https://www.govinfo.gov/link/plaw/108/public/153), Dec. 3, 2003, [117 Stat. 1926](https://www.govinfo.gov/link/statute/117/1926).)*

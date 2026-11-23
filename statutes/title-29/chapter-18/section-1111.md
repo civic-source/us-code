@@ -3,9 +3,10 @@ title: "Section 1111 - Persons prohibited from holding certain positions"
 usc_title: 29
 usc_section: "1111"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1111"
-generated_at: "2026-03-30T02:55:18.718Z"
+generated_at: "2026-11-23T20:26:37.967Z"
+status: "active"
 ---
 
 # § 1111. Persons prohibited from holding certain positions
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:18.718Z"
 - **(d)** Whenever any person—
   - **(1)** by operation of this section, has been barred from office or other position in an employee benefit plan as a result of a conviction, and
   - **(2)** has filed an appeal of that conviction,
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 411](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 887](https://www.govinfo.gov/link/statute/88/887); [Pub. L. 98–473, title II](https://www.govinfo.gov/link/plaw/98/public/473), §§ 229, 230, 802, Oct. 12, 1984, [98 Stat. 2031](https://www.govinfo.gov/link/statute/98/2031), 2131; [Pub. L. 100–182, § 15(b)](https://www.govinfo.gov/link/plaw/100/public/182), Dec. 7, 1987, [101 Stat. 1269](https://www.govinfo.gov/link/statute/101/1269).)*

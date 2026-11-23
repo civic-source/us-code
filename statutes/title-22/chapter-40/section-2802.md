@@ -3,9 +3,10 @@ title: "Section 2802 - Federal recognition"
 usc_title: 22
 usc_section: "2802"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2802"
-generated_at: "2026-03-30T02:55:05.389Z"
+generated_at: "2026-11-23T20:26:32.438Z"
+status: "active"
 ---
 
 # § 2802. Federal recognition
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.389Z"
   - **(2)** providing for fulfillment of the requirements of the Convention of November 22, 1928 , as amended, relating to international expositions; and
   - **(3)** extending invitations, by proclamation or by such other manner he deems proper, to the several States of the Union and to foreign governments to take part in the exposition, provided that he shall not extend such an invitation until he has been notified officially of BIE registration for the exposition.
 - **(c)** The President shall report his actions under this section promptly to the Congress.
+
+## Source Credit
+
+*([Pub. L. 91–269, § 2](https://www.govinfo.gov/link/plaw/91/public/269), May 27, 1970, [84 Stat. 271](https://www.govinfo.gov/link/statute/84/271).)*

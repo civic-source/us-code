@@ -3,9 +3,10 @@ title: "Section 20241 - Removal of officers from a list of officers recommended 
 usc_title: 10
 usc_section: "20241"
 chapter: 2005
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 20241"
-generated_at: "2026-03-30T02:53:38.281Z"
+generated_at: "2026-11-23T20:25:52.510Z"
+status: "active"
 ---
 
 # § 20241. Removal of officers from a list of officers recommended for promotion
@@ -21,3 +22,21 @@ generated_at: "2026-03-30T02:53:38.281Z"
   - **(1)** An officer whose name is removed from a list under subsection (a), (b), or (c) continues to be eligible for consideration for promotion. If that officer is recommended for promotion by the next selection board convened for that officer’s grade and competitive category and the officer is promoted, the Secretary of the Air Force may, upon the promotion, grant the officer the same date of rank, the same effective date for the pay and allowances of the grade to which promoted, and the same position on the Space Force officer list, as the officer would have had if the officer’s name had not been removed from the list.
   - **(2)** If such an officer who is in a grade below the grade of colonel is not recommended for promotion by the next selection board convened for the officer’s grade and competitive category, or if the officer’s name is again removed from the list of officers recommended for promotion, or if the Senate again does not give its advice and consent to his promotion, the officer shall be considered for all purposes to have failed of selection for promotion to the next higher grade.
 - **(f)** Except as otherwise provided by the President by Executive order, any Executive order issued before the date of the enactment of this section relating to functions of the President under section 629 or 14310 of this title shall apply in the same manner to functions of the President under this section.
+
+Removal by President
+
+Removal for Withholding of Senate Advice and Consent
+
+Removal After
+
+Months
+
+Administrative Removal
+
+Continued Eligibility for Promotion
+
+Applicability of Previous Executive Order
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title XVII, § 1716(c)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 647](https://www.govinfo.gov/link/statute/137/647); amended [Pub. L. 118–159, div. A, title V, § 509E](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1874](https://www.govinfo.gov/link/statute/138/1874).)*

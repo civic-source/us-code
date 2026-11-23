@@ -3,12 +3,17 @@ title: "Section 329 - Availability of appropriations for transportation"
 usc_title: 24
 usc_section: "329"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "24 U.S.C. § 329"
-generated_at: "2026-03-30T02:54:50.791Z"
+generated_at: "2026-11-23T20:26:22.698Z"
+status: "active"
 ---
 
 # § 329. Availability of appropriations for transportation
 
 Appropriations for carrying out this chapter shall also be available for the transportation of any eligible person and necessary attendants to or from a hospital (including any hospital of a State or political subdivision to which an eligible person is released under section 323 of this title ), to the place where a relative to whom any person is released under section 323 of this title resides, or to a person’s home upon his discharge from hospitalization under this chapter.
 
+
+## Source Credit
+
+*([Pub. L. 86–571, § 9](https://www.govinfo.gov/link/plaw/86/public/571), July 5, 1960, [74 Stat. 310](https://www.govinfo.gov/link/statute/74/310).)*

@@ -3,9 +3,10 @@ title: "Section 654 - Duties of employers and employees"
 usc_title: 29
 usc_section: "654"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 654"
-generated_at: "2026-03-30T02:55:18.687Z"
+generated_at: "2026-11-23T20:26:37.833Z"
+status: "active"
 ---
 
 # § 654. Duties of employers and employees
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:18.687Z"
   - **(1)** shall furnish to each of his employees employment and a place of employment which are free from recognized hazards that are causing or are likely to cause death or serious physical harm to his employees;
   - **(2)** shall comply with occupational safety and health standards promulgated under this chapter.
 - **(b)** Each employee shall comply with occupational safety and health standards and all rules, regulations, and orders issued pursuant to this chapter which are applicable to his own actions and conduct.
+
+## Source Credit
+
+*([Pub. L. 91–596, § 5](https://www.govinfo.gov/link/plaw/91/public/596), Dec. 29, 1970, [84 Stat. 1593](https://www.govinfo.gov/link/statute/84/1593).)*

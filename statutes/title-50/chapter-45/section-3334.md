@@ -3,9 +3,10 @@ title: "Section 3334 - Intelligence community public-private talent exchange"
 usc_title: 50
 usc_section: "3334"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3334"
-generated_at: "2026-03-30T02:56:26.243Z"
+generated_at: "2026-11-23T20:27:30.957Z"
+status: "active"
 ---
 
 # § 3334. Intelligence community public-private talent exchange
@@ -74,3 +75,7 @@ generated_at: "2026-03-30T02:56:26.243Z"
     - **(A)** a for-profit organization; or
     - **(B)** a not-for-profit organization.
   - **(3)** The term “small business concern” has the meaning given such term in section 3703(e)(2) of title 5 .
+
+## Source Credit
+
+*([Pub. L. 116–92, div. E, title LIII, § 5306](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2122](https://www.govinfo.gov/link/statute/133/2122); [Pub. L. 118–159, div. F, title LXV, § 6506(a)](https://www.govinfo.gov/link/plaw/118/public/159) –(d), Dec. 23, 2024, [138 Stat. 2496](https://www.govinfo.gov/link/statute/138/2496), 2497.)*

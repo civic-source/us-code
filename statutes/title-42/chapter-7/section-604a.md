@@ -3,9 +3,10 @@ title: "Section 604a - Services provided by charitable, religious, or private or
 usc_title: 42
 usc_section: "604a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 604a"
-generated_at: "2026-03-30T02:56:10.872Z"
+generated_at: "2026-11-23T20:27:20.835Z"
+status: "active"
 ---
 
 # § 604a. Services provided by charitable, religious, or private organizations
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:56:10.872Z"
 - **(i)** Any party which seeks to enforce its rights under this section may assert a civil action for injunctive relief exclusively in an appropriate State court against the entity or agency that allegedly commits such violation.
 - **(j)** No funds provided directly to institutions or organizations to provide services and administer programs under subsection (a)(1)(A) shall be expended for sectarian worship, instruction, or proselytization.
 - **(k)** Nothing in this section shall be construed to preempt any provision of a State constitution or State statute that prohibits or restricts the expenditure of State funds in or by religious organizations.
+
+## Source Credit
+
+*([Pub. L. 104–193, title I, § 104](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2161](https://www.govinfo.gov/link/statute/110/2161).)*

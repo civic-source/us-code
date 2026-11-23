@@ -3,9 +3,10 @@ title: "Section 1a - National Science Foundation Teaching Fellowships and Master
 usc_title: 42
 usc_section: "1a"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1a"
-generated_at: "2026-03-30T02:56:11.126Z"
+generated_at: "2026-11-23T20:27:21.939Z"
+status: "active"
 ---
 
 # § 1862n–1a. National Science Foundation Teaching Fellowships and Master Teaching Fellowships
@@ -95,3 +96,7 @@ generated_at: "2026-03-30T02:56:11.126Z"
     - **(C)** establishing a system to better collect, track, and respond to data on the career decisions of individuals receiving fellowships under this section;
     - **(D)** conducting research to better understand factors relevant to teacher service and retention, including factors specifically impacting the retention of teachers who are individuals identified in sections 1885a and 1885b of this title; and
     - **(E)** conducting pilot programs to improve teacher service and retention.
+
+## Source Credit
+
+*([Pub. L. 107–368, § 10A](https://www.govinfo.gov/link/plaw/107/public/368), as added [Pub. L. 110–69, title VII, § 7030](https://www.govinfo.gov/link/plaw/110/public/69), Aug. 9, 2007, [121 Stat. 705](https://www.govinfo.gov/link/statute/121/705); amended [Pub. L. 111–358, title V, § 511](https://www.govinfo.gov/link/plaw/111/public/358), Jan. 4, 2011, [124 Stat. 4010](https://www.govinfo.gov/link/statute/124/4010); [Pub. L. 114–59, § 4(a)](https://www.govinfo.gov/link/plaw/114/public/59), Oct. 7, 2015, [129 Stat. 540](https://www.govinfo.gov/link/statute/129/540); [Pub. L. 114–329, title III, § 301](https://www.govinfo.gov/link/plaw/114/public/329), Jan. 6, 2017, [130 Stat. 3003](https://www.govinfo.gov/link/statute/130/3003); [Pub. L. 115–303, § 2(a)(2)](https://www.govinfo.gov/link/plaw/115/public/303), Dec. 11, 2018, [132 Stat. 4399](https://www.govinfo.gov/link/statute/132/4399); [Pub. L. 116–115, § 3(e)](https://www.govinfo.gov/link/plaw/116/public/115), Feb. 11, 2020, [134 Stat. 107](https://www.govinfo.gov/link/statute/134/107).)*

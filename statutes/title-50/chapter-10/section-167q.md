@@ -3,9 +3,10 @@ title: "Section 167q - Federal agency helium acquisition strategy"
 usc_title: 50
 usc_section: "167q"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 167q"
-generated_at: "2026-03-30T02:56:26.199Z"
+generated_at: "2026-11-23T20:27:30.707Z"
+status: "active"
 ---
 
 # § 167q. Federal agency helium acquisition strategy
@@ -17,3 +18,7 @@ In anticipation of the implementation of Phase D described in section 167d(d) of
   - **(3)** a determination of a date prior to September 30, 2021 , for the implementation of Phase D as described in section 167d(d) of this title that minimizes any potential supply disruptions for Federal users;
   - **(4)** an assessment of the effects of increases in the price of refined helium and methods and policies for mitigating any determined effects; and
   - **(5)** a description of a process for prioritization of uses that accounts for diminished availability of helium supplies that may occur over time.
+
+## Source Credit
+
+*(Mar. 3, 1925, ch. 426, § 19, as added [Pub. L. 113–40, § 6(3)](https://www.govinfo.gov/link/plaw/113/public/40), Oct. 2, 2013, [127 Stat. 544](https://www.govinfo.gov/link/statute/127/544).)*

@@ -3,9 +3,10 @@ title: "Section 3431 - Coordination with the Natural Gas Act"
 usc_title: 15
 usc_section: "3431"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 3431"
-generated_at: "2026-03-30T02:54:08.190Z"
+generated_at: "2026-11-23T20:26:04.287Z"
+status: "active"
 ---
 
 # § 3431. Coordination with the Natural Gas Act
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:08.190Z"
 - **(c)**
   - **(1)** The Commission may not deny, or condition the grant of, any certificate under section 7 of the Natural Gas Act [ 15 U.S.C. 717f ] based upon the amount paid in any sale of natural gas, if such amount is deemed to be just and reasonable under subsection (b) of this section.
   - **(2)** For purposes of sections 4 and 5 of the Natural Gas Act [ 15 U.S.C. 717c , 717d], the Commission may not deny any interstate pipeline recovery of any amount paid with respect to any purchase of natural gas if, under subsection (b) of this section, such amount is deemed to be just and reasonable for purposes of sections 4 and 5 of such Act, except to the extent the Commission determines that the amount paid was excessive due to fraud, abuse, or similar grounds.
+
+## Source Credit
+
+*([Pub. L. 95–621, title VI, § 601](https://www.govinfo.gov/link/plaw/95/public/621), Nov. 9, 1978, [92 Stat. 3409](https://www.govinfo.gov/link/statute/92/3409); [Pub. L. 101–60, § 3(a)(7)](https://www.govinfo.gov/link/plaw/101/public/60), (b)(7), July 26, 1989, [103 Stat. 158](https://www.govinfo.gov/link/statute/103/158), 159.)*

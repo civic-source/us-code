@@ -3,9 +3,10 @@ title: "Section 2931 - Findings and purpose"
 usc_title: 15
 usc_section: "2931"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2931"
-generated_at: "2026-03-30T02:54:08.184Z"
+generated_at: "2026-11-23T20:26:04.260Z"
+status: "active"
 ---
 
 # § 2931. Findings and purpose
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:08.184Z"
   - **(5)** New developments in interdisciplinary Earth sciences, global observing systems, and computing technology make possible significant advances in the scientific understanding and prediction of these global changes and their effects.
   - **(6)** Although significant Federal global change research efforts are underway, an effective Federal research program will require efficient interagency coordination, and coordination with the research activities of State, private, and international entities.
 - **(b)** The purpose of this subchapter is to provide for development and coordination of a comprehensive and integrated United States research program which will assist the Nation and the world to understand, assess, predict, and respond to human-induced and natural processes of global change.
+
+## Source Credit
+
+*([Pub. L. 101–606, title I, § 101](https://www.govinfo.gov/link/plaw/101/public/606), Nov. 16, 1990, [104 Stat. 3096](https://www.govinfo.gov/link/statute/104/3096).)*

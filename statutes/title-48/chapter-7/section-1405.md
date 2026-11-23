@@ -3,12 +3,17 @@ title: "Section 1405 - Geographical application of subchapter; land and waters i
 usc_title: 48
 usc_section: "1405"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1405"
-generated_at: "2026-03-30T02:56:14.583Z"
+generated_at: "2026-11-23T20:27:28.039Z"
+status: "active"
 ---
 
 # § 1405. Geographical application of subchapter; land and waters included in term “Virgin Islands”
 
 The provisions of this subchapter, and the name “the Virgin Islands” as used in this subchapter, shall apply to and include the territorial domain, lands and waters acquired by the United States through cession of the Danish West Indian Islands by the convention between the United States of America and His Majesty the King of Denmark entered into August 4, 1916 , and ratified by the Senate on September 7, 1916 (39 Stat. L. 1706).
 
+
+## Source Credit
+
+*(June 22, 1936, ch. 699, § 1, [49 Stat. 1807](https://www.govinfo.gov/link/statute/49/1807).)*

@@ -3,9 +3,10 @@ title: "Section 7681 - Report on expansion of debt relief to non-HIPC countries"
 usc_title: 22
 usc_section: "7681"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7681"
-generated_at: "2026-03-30T02:55:05.444Z"
+generated_at: "2026-11-23T20:26:32.677Z"
+status: "active"
 ---
 
 # § 7681. Report on expansion of debt relief to non-HIPC countries
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:05.444Z"
   - **(3)** options, in addition to debt relief, to ensure debt sustainability in poor countries, particularly in cases when the poor country has suffered an external economic shock or a natural disaster.
 - **(b)** Among the options for the expansion of debt relief provided by the Enhanced HIPC Initiative, consideration should be given to making eligible for that relief poor countries for which outstanding public and publicly guaranteed debt requires annual payments in excess of 10 percent or, in the case of a country suffering a public health crisis (as defined in section 262p–8(e) of this title ), not more than 5 percent, of the amount of the annual current revenues received by the country from internal resources.
 - **(c)** In this section, the term “Enhanced HIPC Initiative” means the multilateral debt initiative for heavily indebted poor countries presented in the Report of G–7 Finance Ministers on the Cologne Debt Initiative to the Cologne Economic Summit, Cologne, June 18–20, 1999.
+
+## Source Credit
+
+*([Pub. L. 108–25, title V, § 502](https://www.govinfo.gov/link/plaw/108/public/25), May 27, 2003, [117 Stat. 749](https://www.govinfo.gov/link/statute/117/749).)*

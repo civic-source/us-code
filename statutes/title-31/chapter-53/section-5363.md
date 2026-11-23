@@ -3,9 +3,10 @@ title: "Section 5363 - Prohibition on acceptance of any financial instrument for
 usc_title: 31
 usc_section: "5363"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 5363"
-generated_at: "2026-03-30T02:55:34.072Z"
+generated_at: "2026-11-23T20:26:51.889Z"
+status: "active"
 ---
 
 # § 5363. Prohibition on acceptance of any financial instrument for unlawful Internet gambling
@@ -16,3 +17,7 @@ No person engaged in the business of betting or wagering may knowingly accept, i
   - **(2)** an electronic fund transfer, or funds transmitted by or through a money transmitting business, or the proceeds of an electronic fund transfer or money transmitting service, from or on behalf of such other person;
   - **(3)** any check, draft, or similar instrument which is drawn by or on behalf of such other person and is drawn on or payable at or through any financial institution; or
   - **(4)** the proceeds of any other form of financial transaction, as the Secretary and the Board of Governors of the Federal Reserve System may jointly prescribe by regulation, which involves a financial institution as a payor or financial intermediary on behalf of or for the benefit of such other person.
+
+## Source Credit
+
+*(Added [Pub. L. 109–347, title VIII, § 802(a)](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1957](https://www.govinfo.gov/link/statute/120/1957).)*

@@ -3,9 +3,10 @@ title: "Section 51319 - Sexual assault response coordinators and sexual assault 
 usc_title: 46
 usc_section: "51319"
 chapter: 513
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 51319"
-generated_at: "2026-03-30T02:56:15.570Z"
+generated_at: "2026-11-23T20:27:27.290Z"
+status: "active"
 ---
 
 # § 51319. Sexual assault response coordinators and sexual assault victim advocates
@@ -71,3 +72,67 @@ generated_at: "2026-03-30T02:56:15.570Z"
     - **(B)** If requested by the victim, an alternate victim advocate shall be designated under this subsection to act as a companion to the victim, as described in subparagraph (A).
   - **(5)** The Secretary may enter into formal relationships with other entities to make available additional victim advocates or to implement paragraphs (3) and (4).
 - **(e)** The Administrator of the Maritime Administration may appoint qualified candidates to positions under subsections (a) and (d) of this section without regard to sections 3309 through 3319 of title 5.
+
+Sexual Assault Response Coordinators.—
+
+Requirement for coordinators
+
+Selection criteria
+
+Confidentiality
+
+Training.—
+
+Verification
+
+Training requirements
+
+Completion of training
+
+Duties
+
+Oversight.—
+
+In general.—
+
+Reporting
+
+Support
+
+Prohibition on investigation by the academy
+
+Prohibition on retaliation
+
+Special Victims Advisor.—
+
+In general
+
+Special victims advisory
+
+Privileged communications
+
+Volunteer Sexual Assault Victim Advocates.—
+
+In general
+
+Training; other duties
+
+Primary duties
+
+Companions.—
+
+In general
+
+Alternate victim advocates
+
+Formal relationships with other entities
+
+Unfilled Vacancies
+
+Sexual Assault Response Coordinators
+
+Hotline
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. C, title XXXV, § 3511(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2785](https://www.govinfo.gov/link/statute/130/2785); amended [Pub. L. 115–91, div. C, title XXXV, § 3515(a)](https://www.govinfo.gov/link/plaw/115/public/91), (b) (formerly § 3515(c)), Dec. 12, 2017, [131 Stat. 1924](https://www.govinfo.gov/link/statute/131/1924), 1927, § 3515(b) renumbered § 3515(c), [Pub. L. 117–263, div. C, title XXXV, § 3513(c)(2)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 22, 2022, [136 Stat. 3068](https://www.govinfo.gov/link/statute/136/3068); [Pub. L. 117–263, div. C, title XXXV, § 3531(e)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3088](https://www.govinfo.gov/link/statute/136/3088).)*

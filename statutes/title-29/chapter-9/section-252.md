@@ -3,9 +3,10 @@ title: "Section 252 - Relief from certain existing claims under the Fair Labor S
 usc_title: 29
 usc_section: "252"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 252"
-generated_at: "2026-03-30T02:55:18.682Z"
+generated_at: "2026-11-23T20:26:37.811Z"
+status: "active"
 ---
 
 # § 252. Relief from certain existing claims under the Fair Labor Standards Act of 1938, as amended, the Walsh-Healey Act, and the Bacon-Davis Act
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:18.682Z"
 - **(c)** In the application of the minimum wage and overtime compensation provisions of the Fair Labor Standards Act of 1938, as amended [ 29 U.S.C. 201 et seq.], of the Walsh-Healey Act, or of the Bacon-Davis Act, 1 in determining the time for which an employer employed an employee there shall be counted all that time, but only that time, during which the employee engaged in activities which were compensable within the meaning of subsections (a) and (b) of this section.
 - **(d)** No court of the United States, of any State, Territory, or possession of the United States, or of the District of Columbia, shall have jurisdiction of any action or proceeding, whether instituted prior to or on or after May 14, 1947 , to enforce liability or impose punishment for or on account of the failure of the employer to pay minimum wages or overtime compensation under the Fair Labor Standards Act of 1938, as amended [ 29 U.S.C. 201 et seq.], under the Walsh-Healey Act, or under the Bacon-Davis Act, 1 to the extent that such action or proceeding seeks to enforce any liability or impose any punishment with respect to an activity which was not compensable under subsections (a) and (b) of this section.
 - **(e)** No cause of action based on unpaid minimum wages, unpaid overtime compensation, or liquidated damages, under the Fair Labor Standards Act of 1938, as amended [ 29 U.S.C. 201 et seq.], the Walsh-Healey Act, or the Bacon-Davis Act, 1 which accrued prior to May 14, 1947 , or any interest in such cause of action, shall hereafter be assignable, in whole or in part, to the extent that such cause of action is based on an activity which was not compensable within the meaning of subsections (a) and (b).
+
+## Source Credit
+
+*(May 14, 1947, ch. 52, § 2, [61 Stat. 85](https://www.govinfo.gov/link/statute/61/85).)*

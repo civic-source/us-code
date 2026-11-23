@@ -3,9 +3,10 @@ title: "Section 2078 - International Center for Middle Eastern-Western Dialogue 
 usc_title: 22
 usc_section: "2078"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2078"
-generated_at: "2026-03-30T02:55:05.341Z"
+generated_at: "2026-11-23T20:26:32.154Z"
+status: "active"
 ---
 
 # § 2078. International Center for Middle Eastern-Western Dialogue Trust Fund
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.341Z"
 - **(c)** For each fiscal year, there is authorized to be appropriated from the fund for the operations of the International Center for Middle Eastern-Western Dialogue the total amount of the interest and earnings credited to the fund under subsection (b).
 - **(d)** There are authorized to be appropriated to the International Center for Middle Eastern-Western Dialogue Trust Fund, without fiscal year limitation, such sums as may be necessary to carry out the provisions of this section and to provide for the permanent endowment for the International Center for Middle Eastern-Western Dialogue established under this section.
 - **(e)** The United States, through the Department of State, shall retain ownership of the Palazzo Corpi building in Istanbul, Turkey, and the Secretary of State shall be responsible for maintaining the International Center for Middle Eastern-Western Dialogue at such location.
+
+## Source Credit
+
+*([Pub. L. 108–199, div. B, title VI, § 633](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 100](https://www.govinfo.gov/link/statute/118/100).)*

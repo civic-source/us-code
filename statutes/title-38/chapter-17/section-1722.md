@@ -3,9 +3,10 @@ title: "Section 1722 - Determination of inability to defray necessary expenses; 
 usc_title: 38
 usc_section: "1722"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 1722"
-generated_at: "2026-03-30T02:55:53.486Z"
+generated_at: "2026-11-23T20:27:01.702Z"
+status: "active"
 ---
 
 # § 1722. Determination of inability to defray necessary expenses; income thresholds
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:53.486Z"
   - **(1)** eligible to receive medical assistance under a State plan approved under title XIX of the Social Security Act ( 42 U.S.C. 1396 et seq.);
   - **(2)** a veteran with a service-connected disability; or
   - **(3)** in receipt of pension under any law administered by the Secretary,
+
+## Source Credit
+
+*([Pub. L. 85–857](https://www.govinfo.gov/link/plaw/85/public/857), Sept. 2, 1958, [72 Stat. 1144](https://www.govinfo.gov/link/statute/72/1144), § 622; [Pub. L. 89–612, § 1](https://www.govinfo.gov/link/plaw/89/public/612), Sept. 30, 1966, [80 Stat. 859](https://www.govinfo.gov/link/statute/80/859); [Pub. L. 91–500, § 1](https://www.govinfo.gov/link/plaw/91/public/500), Oct. 22, 1970, [84 Stat. 1096](https://www.govinfo.gov/link/statute/84/1096); [Pub. L. 94–581, title II](https://www.govinfo.gov/link/plaw/94/public/581), §§ 202(k), 210(a)(9), Oct. 21, 1976, [90 Stat. 2856](https://www.govinfo.gov/link/statute/90/2856), 2863; [Pub. L. 96–330, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/96/public/330), Aug. 26, 1980, [94 Stat. 1051](https://www.govinfo.gov/link/statute/94/1051); [Pub. L. 99–272, title XIX, § 19011(c)(1)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 376](https://www.govinfo.gov/link/statute/100/376); [Pub. L. 100–322, title I, § 102(b)](https://www.govinfo.gov/link/plaw/100/public/322), May 20, 1988, [102 Stat. 493](https://www.govinfo.gov/link/statute/102/493); [Pub. L. 101–508, title VIII, § 8013(c)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–346](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 102–40, title IV, § 402(d)(1)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 239](https://www.govinfo.gov/link/statute/105/239); renumbered § 1722 and amended [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(a)(1), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 403–406](https://www.govinfo.gov/link/statute/105/403); [Pub. L. 104–262, title I, § 101(d)(9)](https://www.govinfo.gov/link/plaw/104/public/262), Oct. 9, 1996, [110 Stat. 3180](https://www.govinfo.gov/link/statute/110/3180); [Pub. L. 112–154, title VII, § 705](https://www.govinfo.gov/link/plaw/112/public/154), Aug. 6, 2012, [126 Stat. 1206](https://www.govinfo.gov/link/statute/126/1206).)*

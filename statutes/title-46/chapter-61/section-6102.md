@@ -3,12 +3,26 @@ title: "Section 6102 - State marine casualty reporting system"
 usc_title: 46
 usc_section: "6102"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 6102"
-generated_at: "2026-03-30T02:56:15.549Z"
+generated_at: "2026-11-23T20:27:27.105Z"
+status: "active"
 ---
 
 # § 6102. State marine casualty reporting system
 
 - **(a)** The Secretary shall prescribe regulations for a uniform State marine casualty reporting system for vessels. Regulations shall prescribe the casualties to be reported and the manner of reporting. A State shall compile and submit to the Secretary reports, information, and statistics on casualties reported to the State, including information and statistics concerning the number of casualties in which the use of alcohol contributed to the casualty.
 - **(b)** The Secretary shall collect, analyze, and publish reports, information, and statistics on marine casualties together with findings and recommendations the Secretary considers appropriate. If a State marine casualty reporting system provides that information derived from casualty reports (except statistical information) may not be publicly disclosed, or otherwise prohibits use by the State or any person in any action or proceeding against a person, the Secretary may use the information provided by the State only in the same way that the State may use the information.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 6102 | 46:1486 |
+
+
+Historical and Revision Notes
+
+6102
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 536](https://www.govinfo.gov/link/statute/97/536); [Pub. L. 98–557, § 7(b)(2)](https://www.govinfo.gov/link/plaw/98/public/557), Oct. 30, 1984, [98 Stat. 2862](https://www.govinfo.gov/link/statute/98/2862).)*

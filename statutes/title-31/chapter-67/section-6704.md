@@ -3,9 +3,10 @@ title: "Section 6704 - State area allocations; allocations and payments to terri
 usc_title: 31
 usc_section: "6704"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 6704"
-generated_at: "2026-03-30T02:55:34.073Z"
+generated_at: "2026-11-23T20:26:51.916Z"
+status: "active"
 ---
 
 # § 6704. State area allocations; allocations and payments to territorial governments
@@ -55,3 +56,35 @@ generated_at: "2026-03-30T02:55:34.073Z"
     - **(A)** the term “territorial government” means the government of a territory;
     - **(B)** the term “territory” means Puerto Rico, Guam, American Samoa, and the Virgin Islands; and
     - **(C)** the term “territorial population” means the most recent population for each territory as determined by the Bureau of 1 Census.
+
+Formula Allocation by State
+
+General Formula.—
+
+In general
+
+General tax effort factor
+
+Relative income factor
+
+Relative rate of labor force
+
+Alternative Formula
+
+Income Tax Amount and Tax Effort Amount.—
+
+Income tax amount
+
+General tax effort amount
+
+Allocation for Puerto Rico, Guam, American Samoa, and the Virgin Islands.—
+
+In general
+
+Payments to local governments
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 103–322, title III, § 31001(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1864](https://www.govinfo.gov/link/statute/108/1864).)*

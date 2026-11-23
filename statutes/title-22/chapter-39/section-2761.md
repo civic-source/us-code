@@ -3,9 +3,10 @@ title: "Section 2761 - Sales from stocks"
 usc_title: 22
 usc_section: "2761"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2761"
-generated_at: "2026-03-30T02:55:05.384Z"
+generated_at: "2026-11-23T20:26:32.404Z"
+status: "active"
 ---
 
 # § 2761. Sales from stocks
@@ -92,3 +93,79 @@ generated_at: "2026-03-30T02:55:05.384Z"
       - **(ii)** has available sufficient funds provided by or on behalf of such other foreign government or international organization pursuant to a letter of offer and acceptance implemented in accordance with this chapter.
   - **(3)** Upon acquisition and acceptance by the United States Government of a defense article under paragraph (1), the appropriate Foreign Military Sales account of the provider shall be credited to reflect the transaction.
   - **(4)** The authority of the President to accept the return of a defense article as provided in paragraph (1) shall not be subject to chapter 137 legacy provisions (as such term is defined in section 3016 of title 10 ) of title 10 or any other provision of law relating to the conclusion of contracts.
+
+Conditions
+
+Effective Date
+
+Definitions
+
+Responsibilities of Secretary of Defense
+
+Guidance.—
+
+In general
+
+Elements
+
+Foreign Military Sales Continuous Process Improvement Board
+
+Definitions
+
+Acquisition Strategies
+
+Agreements With Manufacturers.—
+
+In general
+
+Department of defense policy.—
+
+In general
+
+Elements
+
+Rule of construction
+
+Definitions
+
+Foreign Military Sales Continuous Process Improvement Board.—
+
+Establishment
+
+Membership.—
+
+In general
+
+Certain members.—
+
+In general
+
+Clearance
+
+Sunset
+
+Definitions
+
+Establishment.—
+
+In general
+
+Report
+
+Submissions to Congress.—
+
+Quarterly notification
+
+Annual report
+
+Applicability
+
+Definitions
+
+Plan Required
+
+Process for Gathering Input
+
+## Source Credit
+
+*([Pub. L. 90–629](https://www.govinfo.gov/link/plaw/90/public/629), ch. 2, § 21, Oct. 22, 1968, [82 Stat. 1323](https://www.govinfo.gov/link/statute/82/1323); [Pub. L. 94–329, title II](https://www.govinfo.gov/link/plaw/94/public/329), §§ 205, 206, June 30, 1976, [90 Stat. 736](https://www.govinfo.gov/link/statute/90/736), 738; [Pub. L. 95–384, § 16](https://www.govinfo.gov/link/plaw/95/public/384), Sept. 26, 1978, [92 Stat. 740](https://www.govinfo.gov/link/statute/92/740); [Pub. L. 96–92, § 12](https://www.govinfo.gov/link/plaw/96/public/92), Oct. 29, 1979, [93 Stat. 705](https://www.govinfo.gov/link/statute/93/705); [Pub. L. 96–533, title I](https://www.govinfo.gov/link/plaw/96/public/533), §§ 102, 103, 105(b)(1), 115(b)(2), Dec. 16, 1980, [94 Stat. 3132](https://www.govinfo.gov/link/statute/94/3132), 3134, 3140; [Pub. L. 97–113, title I](https://www.govinfo.gov/link/plaw/97/public/113), §§ 103, 104, Dec. 29, 1981, [95 Stat. 1521](https://www.govinfo.gov/link/statute/95/1521); [Pub. L. 97–392, § 3](https://www.govinfo.gov/link/plaw/97/public/392), Dec. 29, 1982, [96 Stat. 1963](https://www.govinfo.gov/link/statute/96/1963); [Pub. L. 98–473, title I, § 101(1)](https://www.govinfo.gov/link/plaw/98/public/473) [title III, § 301], Oct. 12, 1984, [98 Stat. 1884](https://www.govinfo.gov/link/statute/98/1884), 1895; [Pub. L. 99–83, title I](https://www.govinfo.gov/link/plaw/99/public/83), §§ 107(a), 108–111, Aug. 8, 1985, [99 Stat. 196](https://www.govinfo.gov/link/statute/99/196), 197; [Pub. L. 100–202, § 101(e) [title V, § 580]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–131](https://www.govinfo.gov/link/statute/101/1329), 1329–181; [Pub. L. 100–456, div. A, title X, § 1002](https://www.govinfo.gov/link/plaw/100/public/456), Sept. 29, 1988, [102 Stat. 2037](https://www.govinfo.gov/link/statute/102/2037); [Pub. L. 101–165, title IX, § 9104(c)](https://www.govinfo.gov/link/plaw/101/public/165), Nov. 21, 1989, [103 Stat. 1152](https://www.govinfo.gov/link/statute/103/1152); [Pub. L. 102–25, title VII, § 705(d)(1)](https://www.govinfo.gov/link/plaw/102/public/25), Apr. 6, 1991, [105 Stat. 120](https://www.govinfo.gov/link/statute/105/120); [Pub. L. 102–484, div. A, title I, § 114](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2333](https://www.govinfo.gov/link/statute/106/2333); [Pub. L. 103–236, title VII, § 731(d)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 503](https://www.govinfo.gov/link/statute/108/503); [Pub. L. 104–106, div. A, title I, § 112](https://www.govinfo.gov/link/plaw/104/public/106), div. D, title XLIII, § 4303(a), Feb. 10, 1996, [110 Stat. 206](https://www.govinfo.gov/link/statute/110/206), 658; [Pub. L. 104–164, title I](https://www.govinfo.gov/link/plaw/104/public/164), §§ 104(b)(1), 112(c)(2), 147(a)(3)(A), (b), 152(a), (b), July 21, 1996, [110 Stat. 1426](https://www.govinfo.gov/link/statute/110/1426), 1428, 1435, 1438, 1439; [Pub. L. 104–201, div. B, title XXVIII, § 2802(d)(2)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2787](https://www.govinfo.gov/link/statute/110/2787); [Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XII, § 1222]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–498; [Pub. L. 109–102, title V, § 534](https://www.govinfo.gov/link/plaw/109/public/102) (l)(1), (2), Nov. 14, 2005, [119 Stat. 2211](https://www.govinfo.gov/link/statute/119/2211); [Pub. L. 110–429, title II, § 203(b)(1)](https://www.govinfo.gov/link/plaw/110/public/429), (3), (4), Oct. 15, 2008, [122 Stat. 4845](https://www.govinfo.gov/link/statute/122/4845); [Pub. L. 111–266, title III, § 301(1)](https://www.govinfo.gov/link/plaw/111/public/266), Oct. 8, 2010, [124 Stat. 2804](https://www.govinfo.gov/link/statute/124/2804); [Pub. L. 113–66, div. A, title XII, § 1250(b)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 926](https://www.govinfo.gov/link/statute/127/926); [Pub. L. 113–276, title II, § 208(a)(1)](https://www.govinfo.gov/link/plaw/113/public/276), (2), Dec. 18, 2014, [128 Stat. 2992](https://www.govinfo.gov/link/statute/128/2992), 2993; [Pub. L. 115–232, div. A, title XII, § 1279(b)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2072](https://www.govinfo.gov/link/statute/132/2072); [Pub. L. 117–81, div. A, title XVII, § 1702](https://www.govinfo.gov/link/plaw/117/public/81) (l)(3), Dec. 27, 2021, [135 Stat. 2160](https://www.govinfo.gov/link/statute/135/2160).)*

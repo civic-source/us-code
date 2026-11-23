@@ -3,9 +3,10 @@ title: "Section 1044a - Authority to act as notary"
 usc_title: 10
 usc_section: "1044a"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1044a"
-generated_at: "2026-03-30T02:53:38.096Z"
+generated_at: "2026-11-23T20:25:51.178Z"
+status: "active"
 ---
 
 # § 1044a. Authority to act as notary
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:38.096Z"
   - **(6)** All civilian paralegals serving at military legal assistance offices, supervised by a military legal assistance counsel (as defined in section 1044d(g) of this title ).
 - **(c)** No fee may be paid to or received by any person for the performance of a notarial act authorized in this section.
 - **(d)** The signature of any such person acting as notary, together with the title of that person’s offices, is prima facie evidence that the signature is genuine, that the person holds the designated title, and that the person is authorized to perform a notarial act.
+
+## Source Credit
+
+*(Added [Pub. L. 101–510, div. A, title V, § 551(a)(1)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1566](https://www.govinfo.gov/link/statute/104/1566); amended [Pub. L. 104–201, div. A, title V, § 573](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2534](https://www.govinfo.gov/link/statute/110/2534); [Pub. L. 107–107, div. A, title XI, § 1103](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1236](https://www.govinfo.gov/link/statute/115/1236); [Pub. L. 114–328, div. A, title V, § 523(b)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2116](https://www.govinfo.gov/link/statute/130/2116); [Pub. L. 116–259, title II, § 205(b)(1)](https://www.govinfo.gov/link/plaw/116/public/259), Dec. 23, 2020, [134 Stat. 1167](https://www.govinfo.gov/link/statute/134/1167).)*

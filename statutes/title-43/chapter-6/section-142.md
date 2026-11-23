@@ -3,12 +3,17 @@ title: "Section 142 - Rights of occupants or claimants of oil- or gas-bearing la
 usc_title: 43
 usc_section: "142"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 142"
-generated_at: "2026-03-30T02:55:57.435Z"
+generated_at: "2026-11-23T20:27:06.170Z"
+status: "active"
 ---
 
 # § 142. Rights of occupants or claimants of oil- or gas-bearing lands; exceptions to withdrawals
 
 This section and section 141 1 1 See References in Text note below. of this title shall not be construed as a recognition, abridgment, or enlargement of any asserted rights or claims initiated upon any oil- or gas-bearing lands after any withdrawal of such lands made prior to June 25, 1910 : And provided further , That there shall be excepted from the force and effect of any withdrawal made under the provisions of this section and section 141 1 of this title all lands which are, on the date of such withdrawal, embraced in any lawful homestead or desert-land entry theretofore made, or upon which any valid settlement has been made and is at said date being maintained and perfected pursuant to law; but the terms of this proviso shall not continue to apply to any particular tract of land unless the entryman or settler shall continue to comply with the law under which the entry or settlement was made.
 
+
+## Source Credit
+
+*(June 25, 1910, ch. 421, § 2, [36 Stat. 847](https://www.govinfo.gov/link/statute/36/847); Aug. 24, 1912, ch. 369, [37 Stat. 497](https://www.govinfo.gov/link/statute/37/497); [Pub. L. 94–579, title VII, § 704(a)](https://www.govinfo.gov/link/plaw/94/public/579), Oct. 21, 1976, [90 Stat. 2792](https://www.govinfo.gov/link/statute/90/2792).)*

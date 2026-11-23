@@ -3,9 +3,10 @@ title: "Section 4104 - Internees"
 usc_title: 50
 usc_section: "4104"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4104"
-generated_at: "2026-03-30T02:56:26.266Z"
+generated_at: "2026-11-23T20:27:31.068Z"
+status: "active"
 ---
 
 # § 4104. Internees
@@ -68,3 +69,7 @@ generated_at: "2026-03-30T02:56:26.266Z"
     - **(B)** the date the civilian American citizen by whom the claim is filed returned to the jurisdiction of the United States; or
     - **(C)** the date upon which the Commission, at the request of a potentially eligible survivor, makes a determination that the civilian American citizen has actually died or may be presumed to be dead, in the case of any civilian American citizen who has not returned to the jurisdiction of the United States.
   - **(7)** There are authorized to be appropriated such amounts as may be necessary to carry out the purposes of this subsection, including necessary administrative expenses.
+
+## Source Credit
+
+*(July 3, 1948, ch. 826, title I, § 5, [62 Stat. 1242](https://www.govinfo.gov/link/statute/62/1242); 1950 Reorg. Plan No. 19, § 1, eff. May 24, 1950, 15 F.R. 3178, [64 Stat. 1271](https://www.govinfo.gov/link/statute/64/1271); Apr. 9, 1952, ch. 168, § 1, [66 Stat. 49](https://www.govinfo.gov/link/statute/66/49); Aug. 21, 1954, ch. 784, § 1, [68 Stat. 759](https://www.govinfo.gov/link/statute/68/759); Aug. 31, 1954, ch. 1162, title I, §§ 101 (a)–(c), 102(a), [68 Stat. 1033](https://www.govinfo.gov/link/statute/68/1033), 1034; [Pub. L. 87–617](https://www.govinfo.gov/link/plaw/87/public/617), Aug. 31, 1962, [76 Stat. 413](https://www.govinfo.gov/link/statute/76/413); [Pub. L. 87–846, title I, § 102](https://www.govinfo.gov/link/plaw/87/public/846), Oct. 22, 1962, [76 Stat. 1107](https://www.govinfo.gov/link/statute/76/1107); [Pub. L. 91–289, § 3](https://www.govinfo.gov/link/plaw/91/public/289), June 24, 1970, [84 Stat. 324](https://www.govinfo.gov/link/statute/84/324); [Pub. L. 94–383](https://www.govinfo.gov/link/plaw/94/public/383), Aug. 12, 1976, [90 Stat. 1122](https://www.govinfo.gov/link/statute/90/1122).)*

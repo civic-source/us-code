@@ -3,9 +3,10 @@ title: "Section 6135 - Representation Allowance Account for Majority and Minorit
 usc_title: 2
 usc_section: "6135"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 6135"
-generated_at: "2026-03-30T02:53:04.839Z"
+generated_at: "2026-11-23T20:25:29.068Z"
+status: "active"
 ---
 
 # § 6135. Representation Allowance Account for Majority and Minority Leaders of Senate
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:53:04.839Z"
 - **(a)** There is hereby established an account, within the Senate, to be known as the “Representation Allowance Account for the Majority and Minority Leaders”. Such Allowance Account shall be used by the Majority and Minority Leaders of the Senate to assist them properly to discharge their appropriate responsibilities in the United States to members of foreign legislative bodies and prominent officials of foreign governments and intergovernmental organizations.
 - **(b)** Payments authorized to be made under this section shall be paid by the Secretary of the Senate. Of the funds available for expenditure from such Allowance Account for any fiscal year, one-half shall be allotted to the Majority Leader and one-half shall be allotted to the Minority Leader. Amounts paid from such Allowance Account to the Majority or Minority Leader shall be paid to him from his allotment and shall be paid to him only as reimbursement for actual expenses incurred by him and upon certification and documentation of such expenses. Amounts paid to the Majority or Minority Leader pursuant to this section shall not be reported as income and shall not be allowed as a deduction under title 26.
 - **(c)** There are authorized to be appropriated for each fiscal year (commencing with the fiscal year ending September 30, 1985 ) not more than $20,000 to the Allowance Account established by this section.
+
+## Source Credit
+
+*([Pub. L. 99–88, title I, § 197](https://www.govinfo.gov/link/plaw/99/public/88), Aug. 15, 1985, [99 Stat. 350](https://www.govinfo.gov/link/statute/99/350).)*

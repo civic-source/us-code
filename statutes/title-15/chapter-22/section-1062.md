@@ -3,9 +3,10 @@ title: "Section 1062 - Publication"
 usc_title: 15
 usc_section: "1062"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1062"
-generated_at: "2026-03-30T02:54:08.125Z"
+generated_at: "2026-11-23T20:26:03.950Z"
+status: "active"
 ---
 
 # § 1062. Publication
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.125Z"
   - **(2)** After notification under paragraph (1), the applicant shall have a period of 6 months in which to reply or amend the application, or such shorter time that is not less than 60 days, as prescribed by the Director by regulation. If the applicant fails to reply or amend or appeal within the relevant time period, including any extension under paragraph (3), the application shall be deemed to have been abandoned, unless it can be shown to the satisfaction of the Director that the delay in responding was unintentional, in which case the application may be revived and such time may be extended. The Director may prescribe a fee to accompany any request to revive.
   - **(3)** The Director shall provide, by regulation, for extensions of time to respond to the examiner for any time period under paragraph (2) that is less than 6 months. The Director shall allow the applicant to obtain extensions of time to reply or amend aggregating 6 months from the date of notification under paragraph (1) when the applicant so requests. However, the Director may set by regulation the time for individual periods of extension, and prescribe a fee, by regulation, for any extension request. Any request for extension shall be filed on or before the date on which a reply or amendment is due under paragraph (1).
 - **(c)** A registrant of a mark registered under the provisions of the Act of March 3, 1881 , or the Act of February 20, 1905 , may, at any time prior to the expiration of the registration thereof, upon the payment of the prescribed fee file with the Director an affidavit setting forth those goods stated in the registration on which said mark is in use in commerce and that the registrant claims the benefits of this chapter for said mark. The Director shall publish notice thereof with a reproduction of said mark in the Official Gazette, and notify the registrant of such publication and of the requirement for the affidavit of use or nonuse as provided for in subsection (b) of section 1058 of this title . Marks published under this subsection shall not be subject to the provisions of section 1063 of this title .
+
+## Source Credit
+
+*(July 5, 1946, ch. 540, title I, § 12, [60 Stat. 432](https://www.govinfo.gov/link/statute/60/432); [Pub. L. 87–772, § 7](https://www.govinfo.gov/link/plaw/87/public/772), Oct. 9, 1962, [76 Stat. 770](https://www.govinfo.gov/link/statute/76/770); [Pub. L. 93–596, § 1](https://www.govinfo.gov/link/plaw/93/public/596), Jan. 2, 1975, [88 Stat. 1949](https://www.govinfo.gov/link/statute/88/1949); [Pub. L. 100–667, title I, § 113](https://www.govinfo.gov/link/plaw/100/public/667), Nov. 16, 1988, [102 Stat. 3940](https://www.govinfo.gov/link/statute/102/3940); [Pub. L. 105–330, title I, § 104](https://www.govinfo.gov/link/plaw/105/public/330), Oct. 30, 1998, [112 Stat. 3066](https://www.govinfo.gov/link/statute/112/3066); [Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–583; [Pub. L. 116–260, div. Q, title II, § 224](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2201](https://www.govinfo.gov/link/statute/134/2201).)*

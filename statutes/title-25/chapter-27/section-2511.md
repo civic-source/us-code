@@ -3,9 +3,10 @@ title: "Section 2511 - Definitions"
 usc_title: 25
 usc_section: "2511"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 2511"
-generated_at: "2026-03-30T02:54:52.842Z"
+generated_at: "2026-11-23T20:26:25.602Z"
+status: "active"
 ---
 
 # § 2511. Definitions
@@ -30,3 +31,7 @@ In this chapter:
     - **(A)** is operated by an Indian tribe or a tribal organization, enrolling students in kindergarten through grade 12, including a preschool;
     - **(B)** is not a local educational agency; and
     - **(C)** is not directly administered by the Bureau of Indian Affairs.
+
+## Source Credit
+
+*([Pub. L. 100–297, title V, § 5212](https://www.govinfo.gov/link/plaw/100/public/297), as added [Pub. L. 107–110, title X, § 1043](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2078](https://www.govinfo.gov/link/statute/115/2078).)*

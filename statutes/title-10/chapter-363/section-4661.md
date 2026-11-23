@@ -3,12 +3,21 @@ title: "Section 4661 - Prohibition on certain procurements from the Xinjiang Uyg
 usc_title: 10
 usc_section: "4661"
 chapter: 363
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 4661"
-generated_at: "2026-03-30T02:53:38.209Z"
+generated_at: "2026-11-23T20:25:51.963Z"
+status: "active"
 ---
 
 # § 4661. Prohibition on certain procurements from the Xinjiang Uyghur Autonomous Region
 
 - **(a)** None of the funds authorized to be appropriated by a national defense authorization Act or any other Act, or otherwise made available for any fiscal year for the Department of Defense, may be obligated or expended to knowingly procure any products mined, produced, or manufactured wholly or in part by forced labor from XUAR or from an entity that has used labor from within or transferred from XUAR as part of a “poverty alleviation” or “pairing assistance” program.
 - **(b)** In this section, the terms “forced labor” and “XUAR” have the meanings given, respectively, in section 2496 of this title .
+
+Prohibition on the Availability of Funds for Certain Procurements From XUAR
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. A, title VIII, § 855(b)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2723](https://www.govinfo.gov/link/statute/136/2723).)*

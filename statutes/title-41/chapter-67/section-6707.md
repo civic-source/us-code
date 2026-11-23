@@ -3,9 +3,10 @@ title: "Section 6707 - Enforcement and administration of chapter"
 usc_title: 41
 usc_section: "6707"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 6707"
-generated_at: "2026-03-30T02:55:55.811Z"
+generated_at: "2026-11-23T20:27:04.474Z"
+status: "active"
 ---
 
 # § 6707. Enforcement and administration of chapter
@@ -18,3 +19,70 @@ generated_at: "2026-03-30T02:55:55.811Z"
 - **(d)** Subject to limitations in annual appropriation acts but notwithstanding any other law, a contract to which this chapter applies may, if authorized by the Secretary, be for any term of years not exceeding 5, if the contract provides for periodic adjustment of wages and fringe benefits pursuant to future determinations, issued in the manner prescribed in section 6703 of this title at least once every 2 years during the term of the contract, covering each class of service employee.
 - **(e)** In determining any overtime pay to which a service employee is entitled under Federal law, the regular or basic hourly rate of pay of the service employee does not include any fringe benefit payments computed under this chapter which are excluded from the definition of “regular rate” under section 7(e) of the Fair Labor Standards Act of 1938 ( 29 U.S.C. 207(e) ).
 - **(f)** It is the intent of Congress that determinations of minimum wages and fringe benefits under section 6703(1) and (2) of this title should be made as soon as administratively feasible for all contracts subject to this chapter. In any event, the Secretary shall at least make the determinations for contracts under which more than 5 service employees are to be employed.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 6707(a)–(d) | 41:353. | Pub. L. 89–286, § 4 , Oct. 22, 1965 , 79 Stat. 1035 ; Pub. L. 92–473, § 3 , Oct. 9, 1972 , 86 Stat. 789 . |
+| 6707(e) | 41:355. | Pub. L. 89–286, § 6 , Oct. 22, 1965 , 79 Stat. 1035 . |
+| 6707(f) | 41:358. | Pub. L. 89–286, § 10 , as added Pub. L. 92–473, § 5 , Oct. 9, 1972 , 86 Stat. 790 ; Pub. L. 94–273, § 29 , Apr. 21, 1976 , 90 Stat. 380 . |
+
+
+Enforcement of Chapter
+
+Limitations and Regulations for Variations, Tolerances, and Exemptions
+
+Preservation of Wages and Benefits Due Under Predecessor Contracts.—
+
+In general
+
+Exception
+
+Duration of Contracts
+
+Exclusion of Fringe Benefit Payments in Determining Overtime Pay
+
+Timeliness of Wage and Fringe Benefit Determinations
+
+Historical and Revision Notes
+
+6707(a)–(d)
+
+Pub. L. 89–286, § 4
+
+Oct. 22, 1965
+
+79 Stat. 1035
+
+Pub. L. 92–473, § 3
+
+Oct. 9, 1972
+
+86 Stat. 789
+
+6707(e)
+
+Pub. L. 89–286, § 6
+
+Oct. 22, 1965
+
+79 Stat. 1035
+
+6707(f)
+
+Pub. L. 89–286, § 10
+
+Pub. L. 92–473, § 5
+
+Oct. 9, 1972
+
+86 Stat. 790
+
+Pub. L. 94–273, § 29
+
+Apr. 21, 1976
+
+90 Stat. 380
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3815](https://www.govinfo.gov/link/statute/124/3815).)*

@@ -3,9 +3,10 @@ title: "Section 4705 - Notice of contract cancellation or termination relating t
 usc_title: 10
 usc_section: "4705"
 chapter: 365
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 4705"
-generated_at: "2026-03-30T02:53:38.210Z"
+generated_at: "2026-11-23T20:25:51.967Z"
+status: "active"
 ---
 
 # § 4705. Notice of contract cancellation or termination relating to remote or isolated installations
@@ -23,3 +24,15 @@ generated_at: "2026-03-30T02:53:38.210Z"
     - **(A)** is an employee of a contractor;
     - **(B)** as such an employee, provides goods or services to a remote or isolated installation; and
     - **(C)** resides in the same geographic area as such remote or isolated installation.
+
+In General
+
+Requirements
+
+Waiver
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 118–159, div. A, title VIII, § 808](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1977](https://www.govinfo.gov/link/statute/138/1977).)*

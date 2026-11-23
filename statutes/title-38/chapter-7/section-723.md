@@ -3,9 +3,10 @@ title: "Section 723 - Recoupment of relocation expenses paid on behalf of employ
 usc_title: 38
 usc_section: "723"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 723"
-generated_at: "2026-03-30T02:55:53.475Z"
+generated_at: "2026-11-23T20:27:01.582Z"
+status: "active"
 ---
 
 # § 723. Recoupment of relocation expenses paid on behalf of employees of Department
@@ -21,3 +22,11 @@ generated_at: "2026-03-30T02:55:53.475Z"
 - **(b)**
   - **(1)** Upon the issuance of an order by the Secretary under subsection (a) with respect to an individual, the individual shall have an opportunity to appeal the order to the Director of the Office of Personnel Management before the date that is seven business days after the date of such issuance.
   - **(2)** The Director shall make a final decision with respect to an appeal under paragraph (1) within 30 days after receiving such appeal.
+
+In General
+
+Appeal of Order of Secretary
+
+## Source Credit
+
+*(Added [Pub. L. 115–41, title II, § 205(a)](https://www.govinfo.gov/link/plaw/115/public/41), June 23, 2017, [131 Stat. 876](https://www.govinfo.gov/link/statute/131/876).)*

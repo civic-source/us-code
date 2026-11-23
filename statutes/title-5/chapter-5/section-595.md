@@ -3,9 +3,10 @@ title: "Section 595 - Organization of the Conference"
 usc_title: 5
 usc_section: "595"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 595"
-generated_at: "2026-03-30T02:52:55.990Z"
+generated_at: "2026-11-23T20:25:31.731Z"
+status: "active"
 ---
 
 # § 595. Organization of the Conference
@@ -39,3 +40,22 @@ generated_at: "2026-03-30T02:52:55.990Z"
   - **(14)** on request of the head of an agency, furnish assistance and advice on matters of administrative procedure;
   - **(15)** exercise such additional authority as the Council or Assembly delegates to him; and
   - **(16)** request any administrative agency to notify the Chairman of its intent to enter into any contract with any person outside the agency to study the efficiency, adequacy, or fairness of an agency proceeding (as defined in section 551(12) of this title ).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 1045d . | Aug. 30, 1964 , Pub. L. 88–499, § 6 , 78 Stat. 617 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 1045d
+
+Aug. 30, 1964
+
+Pub. L. 88–499, § 6
+
+78 Stat. 617
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 390](https://www.govinfo.gov/link/statute/80/390), § 575; [Pub. L. 92–526, § 1](https://www.govinfo.gov/link/plaw/92/public/526), Oct. 21, 1972, [86 Stat. 1048](https://www.govinfo.gov/link/statute/86/1048); [Pub. L. 97–258, § 3(a)(1)](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 1062](https://www.govinfo.gov/link/statute/96/1062); [Pub. L. 101–422, § 3](https://www.govinfo.gov/link/plaw/101/public/422), Oct. 12, 1990, [104 Stat. 910](https://www.govinfo.gov/link/statute/104/910); renumbered § 595, [Pub. L. 102–354, § 2(2)](https://www.govinfo.gov/link/plaw/102/public/354), Aug. 26, 1992, [106 Stat. 944](https://www.govinfo.gov/link/statute/106/944).)*

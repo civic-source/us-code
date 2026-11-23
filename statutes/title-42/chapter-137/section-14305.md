@@ -3,9 +3,10 @@ title: "Section 14305 - Information gathering and access"
 usc_title: 42
 usc_section: "14305"
 chapter: 137
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 14305"
-generated_at: "2026-03-30T02:56:11.451Z"
+generated_at: "2026-11-23T20:27:23.528Z"
+status: "active"
 ---
 
 # § 14305. Information gathering and access
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.451Z"
   - **(4)** an authorized agent of a person described in paragraph (1), (2), or (3),
 - **(b)** The Administrator or the Administrator’s authorized representative, on presentation of credentials of the Administrator, may at reasonable times have access to and copy any records required to be maintained under subsection (a).
 - **(c)** The Administrator shall maintain the confidentiality of documents and records that contain proprietary information.
+
+## Source Credit
+
+*([Pub. L. 104–142, § 6](https://www.govinfo.gov/link/plaw/104/public/142), May 13, 1996, [110 Stat. 1332](https://www.govinfo.gov/link/statute/110/1332).)*

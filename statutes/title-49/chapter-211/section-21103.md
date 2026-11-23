@@ -3,9 +3,10 @@ title: "Section 21103 - Limitations on duty hours of train employees"
 usc_title: 49
 usc_section: "21103"
 chapter: 211
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 21103"
-generated_at: "2026-03-30T02:56:19.339Z"
+generated_at: "2026-11-23T20:27:34.813Z"
+status: "active"
 ---
 
 # § 21103. Limitations on duty hours of train employees
@@ -58,3 +59,98 @@ generated_at: "2026-03-30T02:56:19.339Z"
     - **(B)** the time on duty,
 - **(d)** A train employee on the crew of a wreck or relief train may be allowed to remain or go on duty for not more than 4 additional hours in any period of 24 consecutive hours when an emergency exists and the work of the crew is related to the emergency. In this subsection, an emergency ends when the track is cleared and the railroad line is open for traffic.
 - **(e)** During a train employee’s minimum off-duty period of 10 consecutive hours, as provided under subsection (a) or during an interim period of at least 4 consecutive hours available for rest under subsection (b)(7) or during additional off-duty hours under subsection (c)(4), a railroad carrier, and its officers and agents, shall not communicate with the train employee by telephone, by pager, or in any other manner that could reasonably be expected to disrupt the employee’s rest. Nothing in this subsection shall prohibit communication necessary to notify an employee of an emergency situation, as defined by the Secretary. The Secretary may waive the requirements of this paragraph for commuter or intercity passenger railroads if the Secretary determines that such a waiver will not reduce safety and is necessary to maintain such railroads’ efficient operations and on-time performance of its trains.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 21103(a) | 45:62(a)(1), (2). | Mar. 4, 1907, ch. 2939, § 2(a)(1) , (2), 34 Stat. 1416 ; restated Dec. 26, 1969 , Pub. L. 91–169, § 1 , 83 Stat. 463 ; July 8, 1976 , Pub. L. 94–348, § 4(a)(1) , (2), 90 Stat. 818 ; June 22, 1988 , Pub. L. 100–342, § 16(2) , 102 Stat. 634 . |
+| 21103(b) | 45:61(b)(3). | Mar. 4, 1907, ch. 2939 , §§ 1(b)(3), 2(b), 34 Stat. 1415 , 1416; restated Dec. 26, 1969 , Pub. L. 91–169, § 1 , 83 Stat. 463 . |
+|  | 45:61(b)(4) (last sentence). | Mar. 4, 1907, ch. 2939 , 34 Stat. 1415 , § 1(b)(4) (last sentence); added Nov. 2, 1978 , Pub. L. 95–574, § 6 , 92 Stat. 2461 ; June 22, 1988 , Pub. L. 100–342, § 16(1)(C) , 102 Stat. 634 . |
+|  | 45:62(b). |  |
+| 21103(c) | 45:62(c). | Mar. 4, 1907, ch. 2939, § 2(c) , 34 Stat. 1416 ; Dec. 26, 1969 , Pub. L. 91–169, § 1 , 83 Stat. 464 ; restated July 8, 1976 , Pub. L. 94–348, § 4(b) , 90 Stat. 818 . |
+
+
+In General
+
+Determining Time on Duty
+
+Limbo Time Limitation and Additional Rest Requirement.—
+
+Emergencies
+
+Communication During Time Off Duty
+
+Historical and Revision Notes
+
+21103(a)
+
+Mar. 4, 1907, ch. 2939, § 2(a)(1)
+
+34 Stat. 1416
+
+Dec. 26, 1969
+
+Pub. L. 91–169, § 1
+
+83 Stat. 463
+
+July 8, 1976
+
+Pub. L. 94–348, § 4(a)(1)
+
+90 Stat. 818
+
+June 22, 1988
+
+Pub. L. 100–342, § 16(2)
+
+102 Stat. 634
+
+21103(b)
+
+Mar. 4, 1907, ch. 2939
+
+34 Stat. 1415
+
+Dec. 26, 1969
+
+Pub. L. 91–169, § 1
+
+83 Stat. 463
+
+Mar. 4, 1907, ch. 2939
+
+34 Stat. 1415
+
+Nov. 2, 1978
+
+Pub. L. 95–574, § 6
+
+92 Stat. 2461
+
+June 22, 1988
+
+Pub. L. 100–342, § 16(1)(C)
+
+102 Stat. 634
+
+21103(c)
+
+Mar. 4, 1907, ch. 2939, § 2(c)
+
+34 Stat. 1416
+
+Dec. 26, 1969
+
+Pub. L. 91–169, § 1
+
+83 Stat. 464
+
+July 8, 1976
+
+Pub. L. 94–348, § 4(b)
+
+90 Stat. 818
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 888](https://www.govinfo.gov/link/statute/108/888); [Pub. L. 110–432, div. A, title I, § 108(b)](https://www.govinfo.gov/link/plaw/110/public/432), Oct. 16, 2008, [122 Stat. 4860](https://www.govinfo.gov/link/statute/122/4860).)*

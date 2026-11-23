@@ -3,9 +3,10 @@ title: "Section 50e - USGS energy and minerals research facility"
 usc_title: 43
 usc_section: "50e"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 50e"
-generated_at: "2026-03-30T02:55:57.434Z"
+generated_at: "2026-11-23T20:27:06.162Z"
+status: "active"
 ---
 
 # § 50e. USGS energy and minerals research facility
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:57.434Z"
   - **(1)** the facility described in subsection (a); and
   - **(2)** the authorities used under this section.
 - **(f)** There is authorized to be appropriated to the Secretary of the Interior to carry out this section $167,000,000 for fiscal year 2022, to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title II, § 40204](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 960](https://www.govinfo.gov/link/statute/135/960).)*

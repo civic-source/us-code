@@ -3,9 +3,10 @@ title: "Section 5341 - Definitions"
 usc_title: 12
 usc_section: "5341"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5341"
-generated_at: "2026-03-30T02:53:53.529Z"
+generated_at: "2026-11-23T20:25:59.471Z"
+status: "active"
 ---
 
 # § 5341. Definitions
@@ -22,3 +23,7 @@ For purposes of this part—
     - **(B)** includes information that identifies counterparties, the valuation by the financial company of the position, and information that makes possible an independent valuation of the position;
   - **(7)** the term “financial contract” means a legally binding agreement between 2 or more counterparties, describing rights and obligations relating to the future delivery of items of intrinsic or extrinsic value among the counterparties; and
   - **(8)** the term “financial instrument” means a financial contract in which the terms and conditions are publicly available, and the roles of one or more of the counterparties are assignable without the consent of any of the other counterparties (including common stock of a publicly traded company, government bonds, or exchange traded futures and options contracts).
+
+## Source Credit
+
+*([Pub. L. 111–203, title I, § 151](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1412](https://www.govinfo.gov/link/statute/124/1412).)*

@@ -3,9 +3,10 @@ title: "Section 1322 - Single-employer plan benefits guaranteed"
 usc_title: 29
 usc_section: "1322"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1322"
-generated_at: "2026-03-30T02:55:18.731Z"
+generated_at: "2026-11-23T20:26:38.016Z"
+status: "active"
 ---
 
 # § 1322. Single-employer plan benefits guaranteed
@@ -67,3 +68,11 @@ generated_at: "2026-03-30T02:55:18.731Z"
   - **(2)** notwithstanding section 1344(a) of this title , plan assets shall first be allocated to pay the amount, if any, by which—
     - **(A)** the amount of guaranteed benefits under this section (determined without regard to paragraph (1) and on the basis of plan assets and liabilities as of the actual date of plan termination), exceeds
     - **(B)** the amount determined under paragraph (1).
+
+In general
+
+In general
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4022](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 1016](https://www.govinfo.gov/link/statute/88/1016); [Pub. L. 96–364, title IV, § 403(c)](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1301](https://www.govinfo.gov/link/statute/94/1301); [Pub. L. 99–272, title XI, § 11016(c)(8)](https://www.govinfo.gov/link/plaw/99/public/272), (9), Apr. 7, 1986, [100 Stat. 274](https://www.govinfo.gov/link/statute/100/274); [Pub. L. 100–203, title IX, § 9312(b)(3)(A)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–362](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7881(f)(4), (5), (11), 7891(a)(1), 7894(g)(1), (3)(B), Dec. 19, 1989, [103 Stat. 2440](https://www.govinfo.gov/link/statute/103/2440), 2441, 2445, 2451; [Pub. L. 103–465, title VII](https://www.govinfo.gov/link/plaw/103/public/465), §§ 766(c), 777(a), Dec. 8, 1994, [108 Stat. 5037](https://www.govinfo.gov/link/statute/108/5037), 5049; [Pub. L. 109–280, title IV](https://www.govinfo.gov/link/plaw/109/public/280), §§ 402(g)(2)(A), 403(a), 404(a), 407(a), 408(a), (b)(1), Aug. 17, 2006, [120 Stat. 926](https://www.govinfo.gov/link/statute/120/926), 928, 929, 931.)*

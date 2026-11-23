@@ -3,9 +3,10 @@ title: "Section 8803 - Imposition of sanctions with respect to the energy, shipp
 usc_title: 22
 usc_section: "8803"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8803"
-generated_at: "2026-03-30T02:55:05.457Z"
+generated_at: "2026-11-23T20:26:32.738Z"
+status: "active"
 ---
 
 # § 8803. Imposition of sanctions with respect to the energy, shipping, and shipbuilding sectors of Iran
@@ -64,3 +65,11 @@ generated_at: "2026-03-30T02:55:05.457Z"
     - **(A)** determines that such a waiver is vital to the national security of the United States; and
     - **(B)** submits to the appropriate congressional committees a report providing a justification for the waiver.
   - **(2)** Each report submitted under paragraph (1)(B) shall be submitted in unclassified form, but may include a classified annex.
+
+(aa) not otherwise subject to sanctions under the law of the United States; and
+
+(bb) between the country with primary jurisdiction over the foreign financial institution and Iran; and
+
+## Source Credit
+
+*([Pub. L. 112–239, div. A, title XII, § 1244](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2006](https://www.govinfo.gov/link/statute/126/2006).)*

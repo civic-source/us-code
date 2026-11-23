@@ -3,9 +3,10 @@ title: "Section 47506 - Limitations on recovering damages for noise"
 usc_title: 49
 usc_section: "47506"
 chapter: 475
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 47506"
-generated_at: "2026-03-30T02:56:19.407Z"
+generated_at: "2026-11-23T20:27:35.333Z"
+status: "active"
 ---
 
 # § 47506. Limitations on recovering damages for noise
@@ -20,3 +21,26 @@ generated_at: "2026-03-30T02:56:19.407Z"
 - **(b)** Constructive knowledge of the existence of a map under subsection (a) of this section shall be imputed, at a minimum, to a person if—
   - **(1)** before the person acquired the interest, notice of the existence of the map was published at least 3 times in a newspaper of general circulation in the county in which the property is located; or
   - **(2)** the person is given a copy of the map when acquiring the interest.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 47506 | 49 App.:2107. | Feb. 18, 1980 , Pub. L. 96–193, § 107 , 94 Stat. 53 . |
+
+
+General Limitations
+
+Constructive Knowledge
+
+Historical and Revision Notes
+
+47506
+
+Feb. 18, 1980
+
+Pub. L. 96–193, § 107
+
+94 Stat. 53
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1286](https://www.govinfo.gov/link/statute/108/1286).)*

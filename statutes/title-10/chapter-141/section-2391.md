@@ -3,9 +3,10 @@ title: "Section 2391 - Military base reuse studies and community planning assist
 usc_title: 10
 usc_section: "2391"
 chapter: 141
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2391"
-generated_at: "2026-03-30T02:53:38.157Z"
+generated_at: "2026-11-23T20:25:51.559Z"
+status: "active"
 ---
 
 # § 2391. Military base reuse studies and community planning assistance
@@ -77,3 +78,97 @@ generated_at: "2026-03-30T02:53:38.157Z"
     - **(C)** not affiliated with a consortium; and
     - **(D)** located at least 40 miles from a major military installation.
 - **(f)** The authority of the Secretary of Defense to make grants under this section in any fiscal year is subject to the availability of appropriations for that purpose.
+
+Reuse Studies
+
+Adjustment and Diversification Assistance
+
+Research and Technical Assistance
+
+Defense Community Infrastructure Program
+
+Definitions
+
+Assistance Subject to Appropriations
+
+“During the two-year period beginning on the date of the enactment of this Act [ Dec. 18, 2025 ], the Secretary of Defense shall—
+
+Restriction
+
+Report of Economic Adjustment Committee.—
+
+Convening of committee
+
+Report
+
+Public Infrastructure Defined
+
+Findings
+
+Policy
+
+Termination or Alteration Prohibited
+
+Chairman
+
+Executive Council
+
+Duties of Committee
+
+In General
+
+In General
+
+Authorization of Appropriations
+
+Authorization
+
+Administrative Expenses
+
+Assistance Authorized
+
+Conditions on Assistance
+
+Export-Import Bank.—
+
+Sense of congress on plan for expansion
+
+Report of feasibility
+
+Transition to nondefense production required to be considered
+
+SBA Use of Authority for Export Financing Assistance
+
+Coordination and Integration of Activities and Assistance with Other Agencies
+
+Reporting
+
+Information Required To Be Provided
+
+Effective Notification System
+
+Section
+
+Sec
+
+Sec
+
+George Bush.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+## Source Credit
+
+*(Added [Pub. L. 97–86, title IX, § 912(a)(1)](https://www.govinfo.gov/link/plaw/97/public/86), Dec. 1, 1981, [95 Stat. 1122](https://www.govinfo.gov/link/statute/95/1122); amended [Pub. L. 98–115, title VIII, § 808](https://www.govinfo.gov/link/plaw/98/public/115), Oct. 11, 1983, [97 Stat. 789](https://www.govinfo.gov/link/statute/97/789); [Pub. L. 100–26, § 7(k)(3)](https://www.govinfo.gov/link/plaw/100/public/26), Apr. 21, 1987, [101 Stat. 284](https://www.govinfo.gov/link/statute/101/284); [Pub. L. 100–456, div. B, title XXVIII, § 2805](https://www.govinfo.gov/link/plaw/100/public/456), Sept. 29, 1988, [102 Stat. 2116](https://www.govinfo.gov/link/statute/102/2116); [Pub. L. 101–510, div. D, title XLI, § 4102(b)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1851](https://www.govinfo.gov/link/statute/104/1851); [Pub. L. 102–25, title VII, § 701(j)(3)](https://www.govinfo.gov/link/plaw/102/public/25), Apr. 6, 1991, [105 Stat. 116](https://www.govinfo.gov/link/statute/105/116); [Pub. L. 102–484, div. A, title X, § 1052(28)](https://www.govinfo.gov/link/plaw/102/public/484), div. D, title XLIII, § 4301(a)–(c), Oct. 23, 1992, [106 Stat. 2500](https://www.govinfo.gov/link/statute/106/2500), 2696, 2697; [Pub. L. 103–35, title II, § 202(a)(15)](https://www.govinfo.gov/link/plaw/103/public/35), May 31, 1993, [107 Stat. 101](https://www.govinfo.gov/link/statute/107/101); [Pub. L. 103–160, div. B, title XXIX, § 2913](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1925](https://www.govinfo.gov/link/statute/107/1925); [Pub. L. 103–337, div. A, title XI](https://www.govinfo.gov/link/plaw/103/public/337), §§ 1122(a), 1123(a), (b), Oct. 5, 1994, [108 Stat. 2870](https://www.govinfo.gov/link/statute/108/2870), 2871; [Pub. L. 104–106, div. A, title XV, § 1502(a)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 502](https://www.govinfo.gov/link/statute/110/502); [Pub. L. 104–201, div. B, title XXVIII, § 2814](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2790](https://www.govinfo.gov/link/statute/110/2790); [Pub. L. 105–85, div. B, title XXVIII, § 2822](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1997](https://www.govinfo.gov/link/statute/111/1997); [Pub. L. 106–65, div. A, title X, § 1067(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 774](https://www.govinfo.gov/link/statute/113/774); [Pub. L. 107–314, div. A, title X, § 1041(a)(13)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2645](https://www.govinfo.gov/link/statute/116/2645); [Pub. L. 109–163, div. B, title XXVIII, § 2832](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3520](https://www.govinfo.gov/link/statute/119/3520); [Pub. L. 109–364, div. B, title XXVIII](https://www.govinfo.gov/link/plaw/109/public/364), §§ 2861, 2862, Oct. 17, 2006, [120 Stat. 2498](https://www.govinfo.gov/link/statute/120/2498); [Pub. L. 110–417, div. B, title XXVIII, § 2823(b)](https://www.govinfo.gov/link/plaw/110/public/417), Oct. 14, 2008, [122 Stat. 4730](https://www.govinfo.gov/link/statute/122/4730); [Pub. L. 112–239, div. B, title XXVII, § 2712(c)(1)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2145](https://www.govinfo.gov/link/statute/126/2145); [Pub. L. 115–232, div. B, title XXVIII](https://www.govinfo.gov/link/plaw/115/public/232), §§ 2805(f), 2861, Aug. 13, 2018, [132 Stat. 2263](https://www.govinfo.gov/link/statute/132/2263), 2282; [Pub. L. 116–92, div. B, title XXVIII, § 2862](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1899](https://www.govinfo.gov/link/statute/133/1899); [Pub. L. 116–283, div. B, title XXVIII, § 2882](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4369](https://www.govinfo.gov/link/statute/134/4369); [Pub. L. 117–81, div. A, title III, § 313](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1629](https://www.govinfo.gov/link/statute/135/1629); [Pub. L. 117–263, div. B, title XXVIII](https://www.govinfo.gov/link/plaw/117/public/263), §§ 2862–2864, Dec. 23, 2022, [136 Stat. 3010](https://www.govinfo.gov/link/statute/136/3010), 3011; [Pub. L. 118–31, div. B, title XXVIII, § 2801](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 743](https://www.govinfo.gov/link/statute/137/743); [Pub. L. 118–159, div. B, title XXVIII](https://www.govinfo.gov/link/plaw/118/public/159), §§ 2802, 2842, Dec. 23, 2024, [138 Stat. 2247](https://www.govinfo.gov/link/statute/138/2247), 2263; [Pub. L. 119–60, div. A, title III, § 371(a)](https://www.govinfo.gov/link/plaw/119/public/60), div. B, title XXVIII, §§ 2805, 2806(a), 2807, Dec. 18, 2025, [139 Stat. 836](https://www.govinfo.gov/link/statute/139/836), 1298.)*

@@ -3,9 +3,10 @@ title: "Section 5434 - Funds transferred"
 usc_title: 12
 usc_section: "5434"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5434"
-generated_at: "2026-03-30T02:53:53.538Z"
+generated_at: "2026-11-23T20:25:59.501Z"
+status: "active"
 ---
 
 # § 5434. Funds transferred
@@ -15,3 +16,7 @@ The funds that, on the day before the transfer date, the Director of the Office 
   - **(1)** relating to the functions of the Office of Thrift Supervision transferred under section 5412(b)(2)(B) of this title , shall be transferred to the Office of the Comptroller of the Currency on the transfer date;
   - **(2)** relating to the functions of the Office of Thrift Supervision transferred under section 5412(b)(2)(C) of this title , shall be transferred to the Corporation on the transfer date; and
   - **(3)** relating to the functions of the Office of Thrift Supervision transferred under section 5412(b)(1)(A) of this title , shall be transferred to the Board of Governors on the transfer date.
+
+## Source Credit
+
+*([Pub. L. 111–203, title III, § 324](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1536](https://www.govinfo.gov/link/statute/124/1536).)*

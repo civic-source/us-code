@@ -3,9 +3,10 @@ title: "Section 1172 - Practice and procedure"
 usc_title: 16
 usc_section: "1172"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1172"
-generated_at: "2026-03-30T02:54:22.943Z"
+generated_at: "2026-11-23T20:26:20.407Z"
+status: "active"
 ---
 
 # § 1172. Practice and procedure
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:22.943Z"
   - **(2)** with a warrant or other process or without a warrant, if he has reasonable cause to believe that a vessel subject to the jurisdiction of the United States or any person onboard is in violation of any provision of this chapter or the regulations issued thereunder, to search such vessel and to arrest such person.
 - **(e)** Such person so authorized may seize any vessel subject to the jurisdiction of the United States, together with its tackle, apparel, furniture, appurtenances, cargo, and stores, used or employed contrary to the provisions of this chapter or the regulations issued hereunder or which it reasonably appears has been used or employed contrary to the provisions of this chapter or the regulations issued hereunder.
 - **(f)** Such person so authorized may seize, whenever and wherever lawfully found, all fur seals taken or retained in violation of this chapter or the regulations issued thereunder. Any fur seals so seized or forfeited to the United States pursuant to this chapter shall be disposed of in accordance with the provisions of section 1155 of this title .
+
+## Source Credit
+
+*([Pub. L. 89–702, title III, § 302](https://www.govinfo.gov/link/plaw/89/public/702), Nov. 2, 1966, [80 Stat. 1097](https://www.govinfo.gov/link/statute/80/1097); [Pub. L. 98–129, § 2](https://www.govinfo.gov/link/plaw/98/public/129), Oct. 14, 1983, [97 Stat. 844](https://www.govinfo.gov/link/statute/97/844); [Pub. L. 101–650, title III, § 321](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5117](https://www.govinfo.gov/link/statute/104/5117).)*

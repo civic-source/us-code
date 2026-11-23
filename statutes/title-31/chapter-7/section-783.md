@@ -3,12 +3,17 @@ title: "Section 783 - Rules and regulations"
 usc_title: 31
 usc_section: "783"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 783"
-generated_at: "2026-03-30T02:55:34.048Z"
+generated_at: "2026-11-23T20:26:51.698Z"
+status: "active"
 ---
 
 # § 783. Rules and regulations
 
 - **(a)** The Comptroller General is authorized to make all needful rules and regulations for the Government of the General Accounting Office Building, 1 1 See Change of Name note below. and to annex to such rules and regulations such reasonable penalties, within the limits prescribed in subsection (b), as will ensure their enforcement. Such rules and regulations shall be posted and kept posted in a conspicuous place on such Federal property.
 - **(b)** Whoever shall violate any rule or regulation promulgated pursuant to subsection (a) shall be fined not more than $500 or imprisoned not more than 6 months, or both.
+
+## Source Credit
+
+*(Added [Pub. L. 100–545, § 1](https://www.govinfo.gov/link/plaw/100/public/545), Oct. 28, 1988, [102 Stat. 2728](https://www.govinfo.gov/link/statute/102/2728).)*

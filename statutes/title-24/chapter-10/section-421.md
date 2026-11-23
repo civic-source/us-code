@@ -3,9 +3,10 @@ title: "Section 421 - Payment of residents for services"
 usc_title: 24
 usc_section: "421"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "24 U.S.C. § 421"
-generated_at: "2026-03-30T02:54:50.792Z"
+generated_at: "2026-11-23T20:26:22.705Z"
+status: "active"
 ---
 
 # § 421. Payment of residents for services
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:50.792Z"
     - **(A)** subchapter I of chapter 81 of title 5 (relating to compensation for work-related injuries); and
     - **(B)** chapter 171 of title 28 (relating to claims for damages or loss).
 - **(c)** In subsection (b)(1), the term “position” has the meaning given that term in section 5531 of title 5 .
+
+## Source Credit
+
+*([Pub. L. 101–510, div. A, title XV, § 1521](https://www.govinfo.gov/link/plaw/101/public/510), as added [Pub. L. 102–484, div. A, title III, § 385(a)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2394](https://www.govinfo.gov/link/statute/106/2394); amended [Pub. L. 104–201, div. A, title X, § 1052(b)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2650](https://www.govinfo.gov/link/statute/110/2650); [Pub. L. 107–107, div. A, title XIV, § 1404(b)(3)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1260](https://www.govinfo.gov/link/statute/115/1260).)*

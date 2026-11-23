@@ -3,9 +3,10 @@ title: "Section 6123 - Acceleration of depleted uranium manufacturing processes"
 usc_title: 10
 usc_section: "6123"
 chapter: 602
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6123"
-generated_at: "2026-03-30T02:53:38.219Z"
+generated_at: "2026-11-23T20:25:52.012Z"
+status: "active"
 ---
 
 # § 6123. Acceleration of depleted uranium manufacturing processes
@@ -19,3 +20,11 @@ generated_at: "2026-03-30T02:53:38.219Z"
   - **(1)** progress made in carrying out subsection (a);
   - **(2)** the cost of activities conducted under such subsection during the preceding fiscal year; and
   - **(3)** the ability of the nuclear security enterprise to convert depleted uranium fluoride hexafluoride to depleted uranium tetrafluoride.
+
+Acceleration of Manufacturing
+
+Annual Briefing
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1359](https://www.govinfo.gov/link/statute/139/1359).)*

@@ -3,9 +3,10 @@ title: "Section 3501 - General"
 usc_title: 41
 usc_section: "3501"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 3501"
-generated_at: "2026-03-30T02:55:55.806Z"
+generated_at: "2026-11-23T20:27:04.428Z"
+status: "active"
 ---
 
 # § 3501. General
@@ -18,3 +19,51 @@ generated_at: "2026-03-30T02:55:55.806Z"
   - **(2)** To the extent necessary to make a determination under paragraph (1), the contracting officer may request the offeror to submit—
     - **(A)** prices paid for the same or similar commercial services under comparable terms and conditions by both government and commercial customers; and
     - **(B)** if the contracting officer determines that the information described in subparagraph (A) is not sufficient to determine the reasonableness of price, other relevant information regarding the basis for price or cost, including information on labor costs, material costs, and overhead rates.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3501(a) | 41:254b(h). | June 30, 1949, ch. 288 , title III, § 304A(h), formerly § 304A(i), as added Pub. L. 103–355, title I, § 1251(a)(2) , Oct. 13, 1994 , 108 Stat. 3284 ; redesignated as § 304A(h), Pub. L. 104–106, title XLII, § 4201(b)(2)(B) , Feb. 10, 1996 , 110 Stat. 652 . |
+| 3501(b) | 41:254b note. | Pub. L. 110–417 , [div. A], title VIII, § 868, Oct. 14, 2008 , 122 Stat. 4552 . |
+
+
+Definitions
+
+Cost or pricing data
+
+Subcontract
+
+Regulations.—
+
+Minimizing abuse of commercial services authority
+
+Information to submit
+
+Historical and Revision Notes
+
+3501(a)
+
+June 30, 1949, ch. 288
+
+Pub. L. 103–355, title I, § 1251(a)(2)
+
+Oct. 13, 1994
+
+108 Stat. 3284
+
+Pub. L. 104–106, title XLII, § 4201(b)(2)(B)
+
+Feb. 10, 1996
+
+110 Stat. 652
+
+3501(b)
+
+Pub. L. 110–417
+
+Oct. 14, 2008
+
+122 Stat. 4552
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3764](https://www.govinfo.gov/link/statute/124/3764); [Pub. L. 115–232, div. A, title VIII, § 836(b)(11)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1863](https://www.govinfo.gov/link/statute/132/1863).)*

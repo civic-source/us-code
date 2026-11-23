@@ -3,9 +3,10 @@ title: "Section 1395qq - Indian Health Service facilities"
 usc_title: 42
 usc_section: "1395qq"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1395qq"
-generated_at: "2026-03-30T02:56:11.009Z"
+generated_at: "2026-11-23T20:27:21.404Z"
+status: "active"
 ---
 
 # § 1395qq. Indian Health Service facilities
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.009Z"
     - **(C)** Services furnished by a physical therapist or occupational therapist as described in section 1395x(p) of this title for which payment under part B is made under a fee schedule.
   - **(3)** Subsection (c) shall not apply to payments made under this subsection.
 - **(f)** For provisions relating to the authority of certain Indian tribes, tribal organizations, and Alaska Native health organizations to elect to directly bill for, and receive payment for, health care services provided by a hospital or clinic of such tribes or organizations and for which payment may be made under this subchapter, see section 1645 of title 25 . 1 1 See References in Text note below.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1880, as added [Pub. L. 94–437, title IV, § 401(b)](https://www.govinfo.gov/link/plaw/94/public/437), Sept. 30, 1976, [90 Stat. 1408](https://www.govinfo.gov/link/statute/90/1408); amended [Pub. L. 102–573, title VII, § 701(d)](https://www.govinfo.gov/link/plaw/102/public/573), Oct. 29, 1992, [106 Stat. 4572](https://www.govinfo.gov/link/statute/106/4572); [Pub. L. 106–417, § 3(b)(1)](https://www.govinfo.gov/link/plaw/106/public/417), Nov. 1, 2000, [114 Stat. 1815](https://www.govinfo.gov/link/statute/114/1815); [Pub. L. 106–554, § 1(a)(6) [title IV, § 432(a)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–525; [Pub. L. 108–173, title VI, § 630](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2321](https://www.govinfo.gov/link/statute/117/2321); [Pub. L. 111–148, title II, § 2902(a)](https://www.govinfo.gov/link/plaw/111/public/148), title X, § 10221(a), (b)(4), Mar. 23, 2010, [124 Stat. 333](https://www.govinfo.gov/link/statute/124/333), 935, 936.)*

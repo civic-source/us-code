@@ -3,9 +3,10 @@ title: "Section 3913 - Reports on program implementation"
 usc_title: 33
 usc_section: "3913"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 3913"
-generated_at: "2026-03-30T02:55:41.146Z"
+generated_at: "2026-11-23T20:26:54.286Z"
+status: "active"
 ---
 
 # § 3913. Reports on program implementation
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:41.146Z"
       - **(ii)** by establishing a Government corporation or Government-sponsored enterprise to provide assistance in accordance with this chapter; or
       - **(iii)** by terminating the authority of the Secretary and the Administrator under this chapter and relying on the capital markets to fund the types of infrastructure investments assisted by this chapter without Federal participation; and
     - **(C)** any proposed changes to improve the efficiency and effectiveness of this chapter in providing financing for water infrastructure projects, taking into consideration the recommendations made under subparagraphs (A) and (B).
+
+## Source Credit
+
+*([Pub. L. 113–121, title V, § 5034](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1343](https://www.govinfo.gov/link/statute/128/1343); [Pub. L. 115–270, title IV, § 4201(d)](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3880](https://www.govinfo.gov/link/statute/132/3880).)*

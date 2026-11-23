@@ -3,9 +3,10 @@ title: "Section 7118 - Activities to support safe and healthy students"
 usc_title: 20
 usc_section: "7118"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 7118"
-generated_at: "2026-03-30T02:54:48.205Z"
+generated_at: "2026-11-23T20:26:14.873Z"
+status: "active"
 ---
 
 # § 7118. Activities to support safe and healthy students
@@ -54,3 +55,13 @@ Subject to section 7116(f) of this title , each local educational agency, or con
       - **(ii)** ensuring that all service and community partners are aligned with the academic expectations of a community school in order to improve student success; and
       - **(iii)** strengthening relationships between schools and communities; or
     - **(I)** pay for success initiatives aligned with the purposes of this section.
+
+(aa) based on trauma-informed practices that are evidence-based (to the extent the State, in consultation with local educational agencies in the State, determines that such evidence is reasonably available);
+
+(bb) coordinated (where appropriate) with early intervening services provided under the Individuals with Disabilities Education Act ( 20 U.S.C. 1400 et seq.); and
+
+(cc) provided by qualified mental and behavioral health professionals who are certified or licensed by the State involved and practicing within their area of expertise;
+
+## Source Credit
+
+*([Pub. L. 89–10, title IV, § 4108](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title IV, § 4101](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1978](https://www.govinfo.gov/link/statute/129/1978).)*

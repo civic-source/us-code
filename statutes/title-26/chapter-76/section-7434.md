@@ -3,9 +3,10 @@ title: "Section 7434 - Civil damages for fraudulent filing of information return
 usc_title: 26
 usc_section: "7434"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 7434"
-generated_at: "2026-03-30T02:55:27.872Z"
+generated_at: "2026-11-23T20:26:46.768Z"
+status: "active"
 ---
 
 # § 7434. Civil damages for fraudulent filing of information returns
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:27.872Z"
 - **(d)** Any person bringing an action under subsection (a) shall provide a copy of the complaint to the Internal Revenue Service upon the filing of such complaint with the court.
 - **(e)** The decision of the court awarding damages in an action brought under subsection (a) shall include a finding of the correct amount which should have been reported in the information return.
 - **(f)** For purposes of this section, the term “information return” means any statement described in section 6724(d)(1)(A).
+
+## Source Credit
+
+*(Added [Pub. L. 104–168, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/104/public/168), July 30, 1996, [110 Stat. 1462](https://www.govinfo.gov/link/statute/110/1462); amended [Pub. L. 105–206, title VI, § 6023(29)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 826](https://www.govinfo.gov/link/statute/112/826).)*

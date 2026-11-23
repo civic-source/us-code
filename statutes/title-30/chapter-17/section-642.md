@@ -3,9 +3,10 @@ title: "Section 642 - Exploration contracts"
 usc_title: 30
 usc_section: "642"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 642"
-generated_at: "2026-03-30T02:55:29.386Z"
+generated_at: "2026-11-23T20:26:34.946Z"
+status: "active"
 ---
 
 # § 642. Exploration contracts
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:29.386Z"
 - **(d)** No provision of this chapter, nor any rule or regulation which may be issued by the Secretary shall be construed to require any production from the area described in the contract.
 - **(e)** The Secretary shall establish and promulgate such rules and regulations as may be necessary to carry out the purposes of this chapter: Provided, however , That he may modify and adjust the terms and conditions of any contract to reduce the amount and term of any royalty payment when he shall determine that such action is necessary and in the public interest: Provided further , That no such single contract shall authorize Government participation in excess of $250,000.
 - **(f)** No funds shall be made available under this chapter unless the applicant shall furnish evidence that funds from commercial sources are unavailable on reasonable terms.
+
+## Source Credit
+
+*([Pub. L. 85–701, § 2](https://www.govinfo.gov/link/plaw/85/public/701), Aug. 21, 1958, [72 Stat. 700](https://www.govinfo.gov/link/statute/72/700).)*

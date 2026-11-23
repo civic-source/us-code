@@ -3,9 +3,10 @@ title: "Section 10531 - Program authorized"
 usc_title: 34
 usc_section: "10531"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10531"
-generated_at: "2026-03-30T02:55:33.270Z"
+generated_at: "2026-11-23T20:26:50.479Z"
+status: "active"
 ---
 
 # § 10531. Program authorized
@@ -36,3 +37,13 @@ generated_at: "2026-03-30T02:55:33.270Z"
 - **(h)**
   - **(1)** In this subsection, the term “appropriated funds” means any amounts that are appropriated for any of fiscal years 2016 through 2020 to carry out this subchapter.
   - **(2)** All appropriated funds that are not obligated on or before December 31, 2022 shall be transferred to the General Fund of the Treasury not later than January 31, 2023 .
+
+“Congress finds that—
+
+Findings
+
+Purpose
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 2501](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 105–181, § 3(a)(3)](https://www.govinfo.gov/link/plaw/105/public/181), June 16, 1998, [112 Stat. 513](https://www.govinfo.gov/link/statute/112/513); amended [Pub. L. 106–517, § 3(a)](https://www.govinfo.gov/link/plaw/106/public/517), (b), Nov. 13, 2000, [114 Stat. 2407](https://www.govinfo.gov/link/statute/114/2407), 2408; [Pub. L. 110–177, title III, § 302(d)](https://www.govinfo.gov/link/plaw/110/public/177), Jan. 7, 2008, [121 Stat. 2539](https://www.govinfo.gov/link/statute/121/2539); [Pub. L. 111–8, div. B, title II](https://www.govinfo.gov/link/plaw/111/public/8), Mar. 11, 2009, [123 Stat. 583](https://www.govinfo.gov/link/statute/123/583); [Pub. L. 114–155](https://www.govinfo.gov/link/plaw/114/public/155), §§ 3, 5, 7, May 16, 2016, [130 Stat. 389](https://www.govinfo.gov/link/statute/130/389), 390.)*

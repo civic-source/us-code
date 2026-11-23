@@ -3,9 +3,10 @@ title: "Section 3334a - Transfer of National Intelligence University to the Offi
 usc_title: 50
 usc_section: "3334a"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3334a"
-generated_at: "2026-03-30T02:56:26.244Z"
+generated_at: "2026-11-23T20:27:30.958Z"
+status: "active"
 ---
 
 # § 3334a. Transfer of National Intelligence University to the Office of the Director of National Intelligence
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:56:26.244Z"
     - **(A)** the congressional intelligence committees; and
     - **(B)** the Committees on Armed Services of the Senate and House of Representatives.
   - **(2)** The term “Phase I joint professional military education” has the meaning given that term pursuant to section 2154 of title 10 .
+
+## Source Credit
+
+*([Pub. L. 116–92, div. E, title LIII, § 5324](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2134](https://www.govinfo.gov/link/statute/133/2134); [Pub. L. 116–260, div. W, title III, § 305(c)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2367](https://www.govinfo.gov/link/statute/134/2367).)*

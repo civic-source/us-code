@@ -3,9 +3,10 @@ title: "Section 4152 - Conversion to Foreign Service Schedule"
 usc_title: 22
 usc_section: "4152"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4152"
-generated_at: "2026-03-30T02:55:05.408Z"
+generated_at: "2026-11-23T20:26:32.524Z"
+status: "active"
 ---
 
 # § 4152. Conversion to Foreign Service Schedule
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:05.408Z"
 - **(b)** Not later than 3 years after February 15, 1981 , Foreign Service Reserve officers and staff officers and employees who the Secretary determines under subsection (a)(2) are not available for worldwide assignment shall also be converted, in accordance with section 4156 of this title , to the appropriate class in the Foreign Service Schedule established under section 3963 of this title if—
   - **(1)** the Secretary certifies that there is a need for their services in the Foreign Service; and
   - **(2)** they agree in writing to accept availability for worldwide assignment as a condition of continued employment.
+
+## Source Credit
+
+*([Pub. L. 96–465, title II, § 2102](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2148](https://www.govinfo.gov/link/statute/94/2148).)*

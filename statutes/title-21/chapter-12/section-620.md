@@ -3,9 +3,10 @@ title: "Section 620 - Imports"
 usc_title: 21
 usc_section: "620"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 620"
-generated_at: "2026-03-30T02:54:54.288Z"
+generated_at: "2026-11-23T20:26:27.802Z"
+status: "active"
 ---
 
 # § 620. Imports
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:54.288Z"
     - **(B)** within 30 days after the determination of the Secretary under paragraph (2), the Secretary and the United States Trade Representative shall recommend to the President whether action should be taken under paragraph (4).
   - **(4)** Within 30 days after receiving a recommendation for action under paragraph (3), the President shall, if and for such time as the President considers appropriate, prohibit imports into the United States of any meat articles produced in such foreign country unless it is determined that the meat articles produced in that country meet the standards applicable to meat articles in commerce within the United States.
   - **(5)** The action authorized under paragraph (4) may be used instead of, or in addition to, any other action taken under any other law.
+
+## Source Credit
+
+*(Mar. 4, 1907, ch. 2907, title I, § 20, formerly 18th par., [34 Stat. 1264](https://www.govinfo.gov/link/statute/34/1264); renumbered § 20 and amended [Pub. L. 90–201](https://www.govinfo.gov/link/plaw/90/public/201), §§ 1, 10, Dec. 15, 1967, [81 Stat. 584](https://www.govinfo.gov/link/statute/81/584), 590; [Pub. L. 95–445, § 4](https://www.govinfo.gov/link/plaw/95/public/445), Oct. 10, 1978, [92 Stat. 1069](https://www.govinfo.gov/link/statute/92/1069); [Pub. L. 97–98, title XI, § 1122](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1273](https://www.govinfo.gov/link/statute/95/1273); [Pub. L. 99–198, title XVII, § 1702](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1634](https://www.govinfo.gov/link/statute/99/1634); [Pub. L. 100–418, title IV, § 4604](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1408](https://www.govinfo.gov/link/statute/102/1408); [Pub. L. 103–182, title III, § 361(f)](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2124](https://www.govinfo.gov/link/statute/107/2124); [Pub. L. 103–437, § 8(2)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4588](https://www.govinfo.gov/link/statute/108/4588); [Pub. L. 103–465, title IV, § 431](https://www.govinfo.gov/link/plaw/103/public/465) (l), Dec. 8, 1994, [108 Stat. 4970](https://www.govinfo.gov/link/statute/108/4970); [Pub. L. 109–97, title VII, § 798[(a)]](https://www.govinfo.gov/link/plaw/109/public/97) (1), Nov. 10, 2005, [119 Stat. 2166](https://www.govinfo.gov/link/statute/119/2166).)*

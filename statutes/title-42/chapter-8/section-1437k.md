@@ -3,9 +3,10 @@ title: "Section 1437k - Consortia, joint ventures, affiliates, and subsidiaries 
 usc_title: 42
 usc_section: "1437k"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1437k"
-generated_at: "2026-03-30T02:56:11.085Z"
+generated_at: "2026-11-23T20:27:21.741Z"
+status: "active"
 ---
 
 # § 1437k. Consortia, joint ventures, affiliates, and subsidiaries of public housing agencies
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:11.085Z"
     - **(A)** shall be used for low-income housing or to benefit the residents assisted by the public housing agency; and
     - **(B)** shall not result in any decrease in any amount provided to the public housing agency under this subchapter, except as otherwise provided under the formulas established under section 1437g(d)(2) and 1437g(e)(2) of this title.
   - **(3)** The Comptroller General of the United States, the Secretary, or the Inspector General of the Department of Housing and Urban Development may conduct an audit of any activity undertaken under paragraph (1) at any time.
+
+## Source Credit
+
+*(Sept. 1, 1937, ch. 896, title I, § 13, as added [Pub. L. 96–153, title II, § 209](https://www.govinfo.gov/link/plaw/96/public/153), Dec. 21, 1979, [93 Stat. 1109](https://www.govinfo.gov/link/statute/93/1109); amended [Pub. L. 96–399, title II, § 202(b)](https://www.govinfo.gov/link/plaw/96/public/399), Oct. 8, 1980, [94 Stat. 1629](https://www.govinfo.gov/link/statute/94/1629); renumbered title I, [Pub. L. 100–358, § 5](https://www.govinfo.gov/link/plaw/100/public/358), June 29, 1988, [102 Stat. 681](https://www.govinfo.gov/link/statute/102/681); [Pub. L. 105–276, title V, § 515](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2549](https://www.govinfo.gov/link/statute/112/2549).)*

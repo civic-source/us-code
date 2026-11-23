@@ -3,9 +3,10 @@ title: "Section 16b - Discriminatory practices prohibited"
 usc_title: 42
 usc_section: "16b"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16b"
-generated_at: "2026-03-30T02:56:11.140Z"
+generated_at: "2026-11-23T20:27:22.022Z"
+status: "active"
 ---
 
 # § 2000e–16b. Discriminatory practices prohibited
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.140Z"
   - **(1)** may include, in the case of a determination that a violation of subsection (a)(1) or (a)(3) has occurred, such remedies as would be appropriate if awarded under sections 2000e–5(g), 2000e–5(k), and 2000e–16(d) of this title, and such compensatory damages as would be appropriate if awarded under section 1981 or sections 1981a(a) and 1981a(b)(2) of this title;
   - **(2)** may include, in the case of a determination that a violation of subsection (a)(2) has occurred, such remedies as would be appropriate if awarded under section 633a(c) of title 29 ; and
   - **(3)** may not include punitive damages.
+
+## Source Credit
+
+*([Pub. L. 102–166, title III, § 302](https://www.govinfo.gov/link/plaw/102/public/166), Nov. 21, 1991, [105 Stat. 1088](https://www.govinfo.gov/link/statute/105/1088); [Pub. L. 104–1, title V, § 504(a)(1)](https://www.govinfo.gov/link/plaw/104/public/1), Jan. 23, 1995, [109 Stat. 40](https://www.govinfo.gov/link/statute/109/40).)*

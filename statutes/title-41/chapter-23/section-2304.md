@@ -3,9 +3,10 @@ title: "Section 2304 - Conflict of interest standards for consultants"
 usc_title: 41
 usc_section: "2304"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 2304"
-generated_at: "2026-03-30T02:55:55.804Z"
+generated_at: "2026-11-23T20:27:04.413Z"
+status: "active"
 ---
 
 # § 2304. Conflict of interest standards for consultants
@@ -21,3 +22,45 @@ generated_at: "2026-03-30T02:55:55.804Z"
   - **(1)** Intelligence activities as defined in section 3.4(e) of Executive Order No. 12333 or a comparable definitional section in any successor order may be exempt from the regulations required by subsection (a).
   - **(2)** The Director of National Intelligence shall report to the Intelligence and Appropriations Committees of Congress each January 1, delineating the activities and organizations that have been exempted under paragraph (1).
 - **(d)** Before the regulations required by subsection (a) are prescribed, the President shall determine if prescribing the regulations will have a significantly adverse effect on the accomplishment of the mission of the Defense Department or another Federal agency. If the President determines that the regulations will have such an adverse effect, the President shall so report to the appropriate committees of the Senate and the House of Representatives, stating in full the reasons for the determination. If such a report is submitted, the requirement for the regulations shall be null and void.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 2304(a) | 41:405b(a). | Pub. L. 100–463, title VIII, § 8141 , Oct. 1, 1988 , 102 Stat. 2270–47 . |
+| 2304(b) | 41:405b(b). |  |
+| 2304(c) | 41:405b(d). |  |
+| 2304(d) | 41:405b(e). |  |
+
+
+Content of Regulations
+
+Services Subject to Regulations
+
+Intelligence Activities Exemption.—
+
+Activities that may be exempt
+
+Report
+
+Presidential Determination
+
+Historical and Revision Notes
+
+2304(a)
+
+Pub. L. 100–463, title VIII, § 8141
+
+Oct. 1, 1988
+
+102 Stat. 2270–47
+
+2304(b)
+
+2304(c)
+
+2304(d)
+
+“Section 9.503 of the Federal Acquisition Regulation shall be revised to require that—
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3736](https://www.govinfo.gov/link/statute/124/3736).)*

@@ -3,9 +3,10 @@ title: "Section 40B - Sustainable aviation fuel credit"
 usc_title: 26
 usc_section: "40B"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 40B"
-generated_at: "2026-03-30T02:55:27.594Z"
+generated_at: "2026-11-23T20:26:45.183Z"
+status: "active"
 ---
 
 # § 40B. Sustainable aviation fuel credit
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:55:27.594Z"
     - **(B)** such other information with respect to such fuel as the Secretary may require for purposes of carrying out this section.
 - **(g)** The amount of the credit determined under this section with respect to any sustainable aviation fuel shall, under rules prescribed by the Secretary, be properly reduced to take into account any benefit provided with respect to such sustainable aviation fuel solely by reason of the application of section 6426 or 6427(e).
 - **(h)** This section shall not apply to any sale or use after December 31, 2024 .
+
+## Source Credit
+
+*(Added [Pub. L. 117–169, title I, § 13203(a)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 1932](https://www.govinfo.gov/link/statute/136/1932).)*

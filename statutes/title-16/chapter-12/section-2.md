@@ -3,12 +3,17 @@ title: "Section 2 - Southeastern area sale and transmission of electric power; d
 usc_title: 16
 usc_section: "2"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-30T02:54:22.921Z"
+generated_at: "2026-11-23T20:26:20.299Z"
+status: "active"
 ---
 
 # § 825s–2. Southeastern area sale and transmission of electric power; disposition of receipts; creation of continuing funds; use of fund
 
 All receipts from the transmission and sale of electric power and energy under the provisions of section 825s of this title , generated or purchased in the southeastern power area, shall be covered into the Treasury of the United States as miscellaneous receipts, except that the Treasury shall set up and maintain from such receipts a continuing fund of $50,000, and said fund shall be placed to the credit of the Secretary, and shall be subject to check by him to defray emergency expenses necessary to insure continuity of electric service and continuous operation of Government facilities in said area.
 
+
+## Source Credit
+
+*(Aug. 31, 1951, ch. 375, title I, § 101, [65 Stat. 249](https://www.govinfo.gov/link/statute/65/249).)*

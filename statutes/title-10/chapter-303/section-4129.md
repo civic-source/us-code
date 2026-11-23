@@ -3,9 +3,10 @@ title: "Section 4129 - Joint Federated Assurance Center"
 usc_title: 10
 usc_section: "4129"
 chapter: 303
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 4129"
-generated_at: "2026-03-30T02:53:38.202Z"
+generated_at: "2026-11-23T20:25:51.913Z"
+status: "active"
 ---
 
 # § 4129. Joint Federated Assurance Center
@@ -43,3 +44,17 @@ generated_at: "2026-03-30T02:53:38.202Z"
   - **(2)** the requirement of the Center to establish guidelines for the development of improved software code vulnerability analysis and testing tools;
   - **(3)** the requirement of the Center to establish guidelines for the development of improved hardware vulnerability testing and protection tools; and
   - **(4)** the manner in which the Center will connect to the Department’s major governance and resourcing processes to ensure the continuation of Center duties.
+
+Establishment
+
+Purpose
+
+Governance.—
+
+Duties
+
+Revised Charter
+
+## Source Credit
+
+*(Added [Pub. L. 118–159, div. A, title IX, § 922(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2037](https://www.govinfo.gov/link/statute/138/2037), § 4128; renumbered § 4129, [Pub. L. 119–60, div. A, title XVII, § 1701(a)(28)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1209](https://www.govinfo.gov/link/statute/139/1209).)*

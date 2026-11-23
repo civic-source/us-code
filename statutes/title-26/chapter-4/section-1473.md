@@ -3,9 +3,10 @@ title: "Section 1473 - Definitions"
 usc_title: 26
 usc_section: "1473"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1473"
-generated_at: "2026-03-30T02:55:27.777Z"
+generated_at: "2026-11-23T20:26:46.133Z"
+status: "active"
 ---
 
 # § 1473. Definitions
@@ -41,3 +42,7 @@ For purposes of this chapter—
       - **(ii)** is described in section 4947(a)(1).
   - **(4)** The term “withholding agent” means all persons, in whatever capacity acting, having the control, receipt, custody, disposal, or payment of any withholdable payment.
   - **(5)** The term “foreign entity” means any entity which is not a United States person.
+
+## Source Credit
+
+*(Added [Pub. L. 111–147, title V, § 501(a)](https://www.govinfo.gov/link/plaw/111/public/147), Mar. 18, 2010, [124 Stat. 103](https://www.govinfo.gov/link/statute/124/103).)*

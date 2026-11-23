@@ -3,9 +3,10 @@ title: "Section 8419 - Survivor reductions; computation"
 usc_title: 5
 usc_section: "8419"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8419"
-generated_at: "2026-03-30T02:52:56.055Z"
+generated_at: "2026-11-23T20:25:32.193Z"
+status: "active"
 ---
 
 # § 8419. Survivor reductions; computation
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:52:56.055Z"
     - **(A)** another former spouse who is entitled to a survivor annuity under section 8445;
     - **(B)** a current spouse to whom the employee or Member was married at the time of retirement and with respect to whom a survivor annuity was not waived under section 8416(a) (or, if waived, with respect to whom an election under section 8416(d) has been made); or
     - **(C)** a current spouse whom the employee or Member married after retirement and with respect to whom an election has been made under subsection (b) or (c) of section 8416.
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 531](https://www.govinfo.gov/link/statute/100/531); amended [Pub. L. 100–238, title I, § 131(a)](https://www.govinfo.gov/link/plaw/100/public/238), Jan. 8, 1988, [101 Stat. 1759](https://www.govinfo.gov/link/statute/101/1759).)*

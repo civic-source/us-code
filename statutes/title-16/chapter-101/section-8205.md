@@ -3,9 +3,10 @@ title: "Section 8205 - Fish habitat conservation projects"
 usc_title: 16
 usc_section: "8205"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 8205"
-generated_at: "2026-03-30T02:54:23.082Z"
+generated_at: "2026-11-23T20:26:20.872Z"
+status: "active"
 ---
 
 # § 8205. Fish habitat conservation projects
@@ -61,3 +62,7 @@ generated_at: "2026-03-30T02:54:23.082Z"
   - **(1)** Not later than 90 days after the date of receipt of the recommended priority list of fish habitat conservation projects under subsection (b), and subject to subsection (d) and based, to the maximum extent practicable, on the criteria described in subsection (c), the Secretary, after consulting with the Secretary of Commerce on marine or estuarine projects, shall approve or reject any fish habitat conservation project recommended by the Board.
   - **(2)** If the Secretary approves a fish habitat conservation project under paragraph (1), the Secretary shall use amounts made available to carry out this chapter to provide funds to carry out the fish habitat conservation project.
   - **(3)** If the Secretary rejects under paragraph (1) any fish habitat conservation project recommended by the Board, not later than 90 days after the date of receipt of the recommendation, the Secretary shall provide to the Board, the appropriate Partnership, and the appropriate congressional committees a written statement of the reasons that the Secretary rejected the fish habitat conservation project.
+
+## Source Credit
+
+*([Pub. L. 116–188, title II, § 205](https://www.govinfo.gov/link/plaw/116/public/188), Oct. 30, 2020, [134 Stat. 931](https://www.govinfo.gov/link/statute/134/931); [Pub. L. 118–198, title II, § 203](https://www.govinfo.gov/link/plaw/118/public/198), Dec. 23, 2024, [138 Stat. 2682](https://www.govinfo.gov/link/statute/138/2682).)*

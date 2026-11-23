@@ -3,9 +3,10 @@ title: "Section 862 - Roof support"
 usc_title: 30
 usc_section: "862"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 862"
-generated_at: "2026-03-30T02:55:29.389Z"
+generated_at: "2026-11-23T20:26:34.959Z"
+status: "active"
 ---
 
 # § 862. Roof support
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:29.389Z"
 - **(d)** When installation of roof bolts is permitted, such roof bolts shall be tested in accordance with the approved roof control plan.
 - **(e)** Roof bolts shall not be recovered where complete extractions of pillars are attempted, where adjacent to clay veins, or at the locations of other irregularities, whether natural or otherwise, that induce abnormal hazards. Where roof bolt recovery is permitted, it shall be conducted only in accordance with methods prescribed in the approved roof control plan, and shall be conducted by experienced miners and only where adequate temporary support is provided.
 - **(f)** Where miners are exposed to danger from falls of roof, face, and ribs the operator shall examine and test the roof, face, and ribs before any work or machine is started, and as frequently thereafter as may be necessary to insure safety. When dangerous conditions are found, they shall be corrected immediately.
+
+## Source Credit
+
+*([Pub. L. 91–173, title III, § 302](https://www.govinfo.gov/link/plaw/91/public/173), Dec. 30, 1969, [83 Stat. 766](https://www.govinfo.gov/link/statute/83/766).)*

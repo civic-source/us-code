@@ -3,9 +3,10 @@ title: "Section 1411 - Imposition of tax"
 usc_title: 26
 usc_section: "1411"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1411"
-generated_at: "2026-03-30T02:55:27.775Z"
+generated_at: "2026-11-23T20:26:46.126Z"
+status: "active"
 ---
 
 # § 1411. Imposition of tax
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:55:27.775Z"
 - **(e)** This section shall not apply to—
   - **(1)** a nonresident alien, or
   - **(2)** a trust all of the unexpired interests in which are devoted to one or more of the purposes described in section 170(c)(2)(B).
+
+## Source Credit
+
+*(Added [Pub. L. 111–152, title I, § 1402(a)(1)](https://www.govinfo.gov/link/plaw/111/public/152), Mar. 30, 2010, [124 Stat. 1061](https://www.govinfo.gov/link/statute/124/1061).)*

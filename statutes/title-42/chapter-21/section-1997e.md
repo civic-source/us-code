@@ -3,9 +3,10 @@ title: "Section 1997e - Suits by prisoners"
 usc_title: 42
 usc_section: "1997e"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1997e"
-generated_at: "2026-03-30T02:56:11.137Z"
+generated_at: "2026-11-23T20:27:22.003Z"
+status: "active"
 ---
 
 # § 1997e. Suits by prisoners
@@ -32,3 +33,9 @@ generated_at: "2026-03-30T02:56:11.137Z"
   - **(1)** Any defendant may waive the right to reply to any action brought by a prisoner confined in any jail, prison, or other correctional facility under section 1983 of this title or any other Federal law. Notwithstanding any other law or rule of procedure, such waiver shall not constitute an admission of the allegations contained in the complaint. No relief shall be granted to the plaintiff unless a reply has been filed.
   - **(2)** The court may require any defendant to reply to a complaint brought under this section if it finds that the plaintiff has a reasonable opportunity to prevail on the merits.
 - **(h)** As used in this section, the term “prisoner” means any person incarcerated or detained in any facility who is accused of, convicted of, sentenced for, or adjudicated delinquent for, violations of criminal law or the terms and conditions of parole, probation, pretrial release, or diversionary program.
+
+“Notwithstanding any other provision of law, in any action brought by a prisoner under section 1979 of the Revised Statutes ( 42 U.S.C. 1983 ) against a Federal, State, or local jail, prison, or correctional facility, or any employee or former employee thereof, arising out of the incarceration of that prisoner—
+
+## Source Credit
+
+*([Pub. L. 96–247, § 7](https://www.govinfo.gov/link/plaw/96/public/247), May 23, 1980, [94 Stat. 352](https://www.govinfo.gov/link/statute/94/352); [Pub. L. 103–322, title II, § 20416(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1833](https://www.govinfo.gov/link/statute/108/1833); [Pub. L. 104–134, title I, § 101[(a)]](https://www.govinfo.gov/link/plaw/104/public/134) [title VIII, § 803(d)], Apr. 26, 1996, [110 Stat. 1321](https://www.govinfo.gov/link/statute/110/1321), 1321–71; renumbered title I, [Pub. L. 104–140, § 1(a)](https://www.govinfo.gov/link/plaw/104/public/140), May 2, 1996, [110 Stat. 1327](https://www.govinfo.gov/link/statute/110/1327); [Pub. L. 113–4, title XI, § 1101(a)](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 134](https://www.govinfo.gov/link/statute/127/134).)*

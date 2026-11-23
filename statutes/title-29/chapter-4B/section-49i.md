@@ -3,9 +3,10 @@ title: "Section 49i - Recordkeeping and accountability"
 usc_title: 29
 usc_section: "49i"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 49i"
-generated_at: "2026-03-30T02:55:18.674Z"
+generated_at: "2026-11-23T20:26:37.774Z"
+status: "active"
 ---
 
 # § 49i. Recordkeeping and accountability
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:18.674Z"
 - **(c)** Each State receiving funds under this chapter shall—
   - **(1)** make such reports concerning its operations and expenditures in such form and containing such information as shall be prescribed by the Secretary, and
   - **(2)** establish and maintain a management information system in accordance with guidelines established by the Secretary designed to facilitate the compilation and analysis of programmatic and financial data necessary for reporting, monitoring, and evaluating purposes.
+
+## Source Credit
+
+*(June 6, 1933, ch. 49, § 10, [48 Stat. 116](https://www.govinfo.gov/link/statute/48/116); [Pub. L. 97–300, title VI, § 601(f)](https://www.govinfo.gov/link/plaw/97/public/300), formerly title V, § 501(f), Oct. 13, 1982, [96 Stat. 1396](https://www.govinfo.gov/link/statute/96/1396); renumbered title VI, § 601(f), [Pub. L. 100–628, title VII, § 712(a)(1)](https://www.govinfo.gov/link/plaw/100/public/628), (2), Nov. 7, 1988, [102 Stat. 3248](https://www.govinfo.gov/link/statute/102/3248).)*

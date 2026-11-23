@@ -3,9 +3,10 @@ title: "Section 1708 - Emerging Threats Committee, plan, and media campaign"
 usc_title: 21
 usc_section: "1708"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 1708"
-generated_at: "2026-03-30T02:54:54.306Z"
+generated_at: "2026-11-23T20:26:27.893Z"
+status: "active"
 ---
 
 # § 1708. Emerging Threats Committee, plan, and media campaign
@@ -128,3 +129,45 @@ generated_at: "2026-03-30T02:54:54.306Z"
     - **(J)** a review and evaluation of the effectiveness of the national media campaign strategy for the past year.
   - **(9)** Any communication, including an advertisement, paid for or otherwise disseminated by the Office directly or through a contract awarded by the Office shall include a prominent notice informing the audience that the communication was paid for by the Office.
 - **(g)** There is authorized to be appropriated to the Office to carry out this section, $25,000,000 for each of fiscal years 2018 through 2023.
+
+(aa) the Monitoring the Future Study published by the Department of Health and Human Services;
+
+(bb) the National Survey on Drug Use and Health; and
+
+(cc) other relevant studies or publications, as determined by the Director, including tracking and evaluation data collected according to marketing and advertising industry standards; and
+
+(aa) a media campaign, as described in paragraph (2);
+
+(bb) local, regional, or population specific messaging;
+
+(cc) the development of websites to publicize and disseminate information;
+
+(dd) conducting outreach and providing educational resources for parents;
+
+(ee) collaborating with law enforcement agencies; and
+
+(ff) providing support for school-based public health education classes to improve teen knowledge about the effects of substance use.
+
+In General
+
+Required Emerging Threat Response Plan
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Section
+
+Secs
+
+William J. Clinton.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. C, title VII](https://www.govinfo.gov/link/plaw/105/public/277), §§ 709, 715, Oct. 21, 1998, [112 Stat. 2681–688](https://www.govinfo.gov/link/statute/112/2681), 2681–693; [Pub. L. 109–469, title V, § 501(a)](https://www.govinfo.gov/link/plaw/109/public/469), title VI, § 602, Dec. 29, 2006, [120 Stat. 3527](https://www.govinfo.gov/link/statute/120/3527), 3533; [Pub. L. 115–271, title VIII](https://www.govinfo.gov/link/plaw/115/public/271), §§ 8202(a), (b)(2), 8218(a), Oct. 24, 2018, [132 Stat. 4110](https://www.govinfo.gov/link/statute/132/4110), 4125; [Pub. L. 116–74, § 2(a)(1)](https://www.govinfo.gov/link/plaw/116/public/74), (2), (8), Nov. 27, 2019, [133 Stat. 1155](https://www.govinfo.gov/link/statute/133/1155), 1157.)*

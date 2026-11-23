@@ -3,9 +3,10 @@ title: "Section 20154 - Repealed. Pub. L. 114–94, div. A, title XI, § 11301(c
 usc_title: 49
 usc_section: "20154"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 20154"
-generated_at: "2026-03-30T02:56:19.336Z"
+generated_at: "2026-11-23T20:27:34.795Z"
+status: "repealed"
 ---
 
 # [§ 20154. Repealed. Pub. L. 114–94, div. A, title XI, § 11301(c)(1) , Dec. 4, 2015 , 129 Stat. 1648 ]

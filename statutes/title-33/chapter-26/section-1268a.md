@@ -3,9 +3,10 @@ title: "Section 1268a - Great Lakes restoration activities report"
 usc_title: 33
 usc_section: "1268a"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1268a"
-generated_at: "2026-03-30T02:55:41.084Z"
+generated_at: "2026-11-23T20:26:53.980Z"
+status: "active"
 ---
 
 # § 1268a. Great Lakes restoration activities report
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:41.084Z"
   - **(2)** a detailed accounting of all funds received and obligated by all Federal agencies and, to the extent available, State agencies using Federal funds, for Great Lakes restoration activities during the current and previous fiscal years;
   - **(3)** a budget for the proposed projects (including a description of the project, authorization level, and project status) to be carried out in the upcoming fiscal year with the Federal portion of funds for activities; and
   - **(4)** a listing of all projects to be undertaken in the upcoming fiscal year with the Federal portion of funds for activities.
+
+## Source Credit
+
+*([Pub. L. 113–76, div. E, title VII, § 738](https://www.govinfo.gov/link/plaw/113/public/76), Jan. 17, 2014, [128 Stat. 238](https://www.govinfo.gov/link/statute/128/238).)*

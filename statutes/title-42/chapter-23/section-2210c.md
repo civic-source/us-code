@@ -3,9 +3,10 @@ title: "Section 2210c - Elimination of pension offset for certain rehired Federa
 usc_title: 42
 usc_section: "2210c"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2210c"
-generated_at: "2026-03-30T02:56:11.156Z"
+generated_at: "2026-11-23T20:27:22.103Z"
+status: "active"
 ---
 
 # § 2210c. Elimination of pension offset for certain rehired Federal retirees
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.156Z"
   - **(1)** criteria for any exercise of authority; and
   - **(2)** procedures for a delegation of authority.
 - **(c)** An employee as to whom a waiver under this section is in effect shall not be considered an employee for purposes of subchapter II of chapter 83, or chapter 84, of title 5.
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 170C, as added [Pub. L. 109–58, title VI, § 624(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 783](https://www.govinfo.gov/link/statute/119/783).)*

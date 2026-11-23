@@ -3,9 +3,10 @@ title: "Section 1377a - Report on aliens determined to have credible or reasonab
 usc_title: 8
 usc_section: "1377a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1377a"
-generated_at: "2026-03-30T02:53:10.499Z"
+generated_at: "2026-11-23T20:25:36.221Z"
+status: "active"
 ---
 
 # § 1377a. Report on aliens determined to have credible or reasonable fear of persecution or torture
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:10.499Z"
   - **(1)** claims submitted by aliens detained at a U.S. Immigration and Customs Enforcement family residential center;
   - **(2)** claims submitted by aliens organized by each subdivision of legal or administrative authority under which claims are reviewed; and
   - **(3)** the job series of the personnel reviewing the claims.
+
+## Source Credit
+
+*([Pub. L. 116–93, div. D, title IV, § 403](https://www.govinfo.gov/link/plaw/116/public/93), Dec. 20, 2019, [133 Stat. 2524](https://www.govinfo.gov/link/statute/133/2524).)*

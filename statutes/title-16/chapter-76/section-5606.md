@@ -3,9 +3,10 @@ title: "Section 5606 - Prohibited acts and enforcement"
 usc_title: 16
 usc_section: "5606"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 5606"
-generated_at: "2026-03-30T02:54:23.053Z"
+generated_at: "2026-11-23T20:26:20.779Z"
+status: "active"
 ---
 
 # § 5606. Prohibited acts and enforcement
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:23.053Z"
   - **(5)** to ship, transport, offer for sale, sell, purchase, import, export, or have custody, control, or possession of, any fishery resources taken or retained in violation of this section; or
   - **(6)** to interfere with, delay, or prevent, by any means, the apprehension or arrest of another person, knowing that the other person has committed an act prohibited by this section.
 - **(b)** For additional prohibitions relating to this chapter and enforcement of this chapter, see section 1826g of this title .
+
+## Source Credit
+
+*([Pub. L. 104–43, title II, § 207](https://www.govinfo.gov/link/plaw/104/public/43), Nov. 3, 1995, [109 Stat. 379](https://www.govinfo.gov/link/statute/109/379); [Pub. L. 105–384, title II, § 201(b)(1)](https://www.govinfo.gov/link/plaw/105/public/384), Nov. 13, 1998, [112 Stat. 3451](https://www.govinfo.gov/link/statute/112/3451); [Pub. L. 114–81, title I, § 111](https://www.govinfo.gov/link/plaw/114/public/81), Nov. 5, 2015, [129 Stat. 659](https://www.govinfo.gov/link/statute/129/659); [Pub. L. 114–327, title V, § 506](https://www.govinfo.gov/link/plaw/114/public/327), Dec. 16, 2016, [130 Stat. 1996](https://www.govinfo.gov/link/statute/130/1996).)*

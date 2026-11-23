@@ -3,9 +3,10 @@ title: "Section 335 - Direct broadcast satellite service obligations"
 usc_title: 47
 usc_section: "335"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 335"
-generated_at: "2026-03-30T02:56:24.509Z"
+generated_at: "2026-11-23T20:27:28.887Z"
+status: "active"
 ---
 
 # § 335. Direct broadcast satellite service obligations
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:56:24.509Z"
         - **(I)** a State government or subdivision thereof;
         - **(II)** an organization described in section 501(c)(3) of title 26 that is exempt from taxation under section 501(a) of such title and that is governed by an independent board of directors; or
         - **(III)** a cable system.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title III, § 335, as added [Pub. L. 102–385, § 25(a)](https://www.govinfo.gov/link/plaw/102/public/385), Oct. 5, 1992, [106 Stat. 1501](https://www.govinfo.gov/link/statute/106/1501); amended [Pub. L. 111–175, title II, § 209](https://www.govinfo.gov/link/plaw/111/public/175), May 27, 2010, [124 Stat. 1254](https://www.govinfo.gov/link/statute/124/1254).)*

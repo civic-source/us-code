@@ -3,9 +3,10 @@ title: "Section 7101 - Purposes and findings"
 usc_title: 22
 usc_section: "7101"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7101"
-generated_at: "2026-03-30T02:55:05.435Z"
+generated_at: "2026-11-23T20:26:32.640Z"
+status: "active"
 ---
 
 # § 7101. Purposes and findings
@@ -36,3 +37,17 @@ generated_at: "2026-03-30T02:55:05.435Z"
   - **(22)** One of the founding documents of the United States, the Declaration of Independence, recognizes the inherent dignity and worth of all people. It states that all men are created equal and that they are endowed by their Creator with certain unalienable rights. The right to be free from slavery and involuntary servitude is among those unalienable rights. Acknowledging this fact, the United States outlawed slavery and involuntary servitude in 1865, recognizing them as evil institutions that must be abolished. Current practices of sexual slavery and trafficking of women and children are similarly abhorrent to the principles upon which the United States was founded.
   - **(23)** The United States and the international community agree that trafficking in persons involves grave violations of human rights and is a matter of pressing international concern. The international community has repeatedly condemned slavery and involuntary servitude, violence against women, and other elements of trafficking, through declarations, treaties, and United Nations resolutions and reports, including the Universal Declaration of Human Rights; the 1956 Supplementary Convention on the Abolition of Slavery, the Slave Trade, and Institutions and Practices Similar to Slavery; the 1948 American Declaration on the Rights and Duties of Man; the 1957 Abolition of Forced Labor Convention; the International Covenant on Civil and Political Rights; the Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment; United Nations General Assembly Resolutions 50/167, 51/66, and 52/98; the Final Report of the World Congress against Sexual Exploitation of Children (Stockholm, 1996); the Fourth World Conference on Women (Beijing, 1995); and the 1991 Moscow Document of the Organization for Security and Cooperation in Europe.
   - **(24)** Trafficking in persons is a transnational crime with national implications. To deter international trafficking and bring its perpetrators to justice, nations including the United States must recognize that trafficking is a serious offense. This is done by prescribing appropriate punishment, giving priority to the prosecution of trafficking offenses, and protecting rather than punishing the victims of such offenses. The United States must work bilaterally and multilaterally to abolish the trafficking industry by taking steps to promote cooperation among countries linked together by international trafficking routes. The United States must also urge the international community to take strong action in multilateral fora to engage recalcitrant countries in serious and sustained efforts to eliminate trafficking and protect trafficking victims.
+
+Relationship Among Federal and State Law
+
+Model State Criminal Provisions
+
+Distribution
+
+“Congress finds the following:
+
+“Congress finds the following:
+
+## Source Credit
+
+*([Pub. L. 106–386, div. A, § 102](https://www.govinfo.gov/link/plaw/106/public/386), Oct. 28, 2000, [114 Stat. 1466](https://www.govinfo.gov/link/statute/114/1466).)*

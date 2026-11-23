@@ -3,9 +3,10 @@ title: "Section 1975b - Administrative provisions"
 usc_title: 42
 usc_section: "1975b"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1975b"
-generated_at: "2026-03-30T02:56:11.136Z"
+generated_at: "2026-11-23T20:27:21.996Z"
+status: "active"
 ---
 
 # § 1975b. Administrative provisions
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.136Z"
   - **(1)** The Commission may make such rules as are necessary to carry out the purposes of this chapter.
   - **(2)** Except as inconsistent with this chapter, and until modified by the Commission, the rules of the Commission on Civil Rights in effect on September 30, 1994 shall be the initial rules of the Commission.
 - **(e)** All Federal agencies shall cooperate fully with the Commission to the end that it may effectively carry out its functions and duties.
+
+## Source Credit
+
+*([Pub. L. 98–183, § 4](https://www.govinfo.gov/link/plaw/98/public/183), Nov. 30, 1983, [97 Stat. 1304](https://www.govinfo.gov/link/statute/97/1304); [Pub. L. 103–419, § 2](https://www.govinfo.gov/link/plaw/103/public/419), Oct. 25, 1994, [108 Stat. 4340](https://www.govinfo.gov/link/statute/108/4340).)*

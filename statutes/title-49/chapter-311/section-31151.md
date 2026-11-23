@@ -3,9 +3,10 @@ title: "Section 31151 - Roadability"
 usc_title: 49
 usc_section: "31151"
 chapter: 311
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 31151"
-generated_at: "2026-03-30T02:56:19.360Z"
+generated_at: "2026-11-23T20:27:34.960Z"
+status: "active"
 ---
 
 # § 31151. Roadability
@@ -48,3 +49,43 @@ generated_at: "2026-03-30T02:56:19.360Z"
   - **(4)** The term “interchange”—
     - **(A)** means the act of providing intermodal equipment to a motor carrier pursuant to an intermodal equipment interchange agreement for the purpose of transporting the equipment for loading or unloading by any person or repositioning the equipment for the benefit of the equipment provider; but
     - **(B)** does not include the leasing of equipment to a motor carrier for primary use in the motor carrier’s freight hauling operations.
+
+Inspection, Repair, and Maintenance of Intermodal Equipment.—
+
+In general
+
+Intermodal equipment safety regulations
+
+Contents
+
+Inspection, Repair, and Maintenance of Intermodal Equipment
+
+Out-of-Service Until Repair
+
+Preemption Generally
+
+Pre-Existing State Requirements.—
+
+In general
+
+Nonpreemption determinations.—
+
+In general
+
+Application required
+
+Amended state requirements
+
+Definitions
+
+Intermodal equipment
+
+Intermodal equipment interchange agreement
+
+Intermodal equipment provider
+
+Interchange
+
+## Source Credit
+
+*(Added [Pub. L. 109–59, title IV, § 4118(a)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1729](https://www.govinfo.gov/link/statute/119/1729); amended [Pub. L. 110–244, title III, § 301(e)](https://www.govinfo.gov/link/plaw/110/public/244), June 6, 2008, [122 Stat. 1616](https://www.govinfo.gov/link/statute/122/1616); [Pub. L. 112–141, div. C, title II, § 32931(b)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 829](https://www.govinfo.gov/link/statute/126/829).)*

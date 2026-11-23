@@ -3,9 +3,10 @@ title: "Section 9 - Ownership limitations"
 usc_title: 42
 usc_section: "9"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9"
-generated_at: "2026-03-30T02:56:11.162Z"
+generated_at: "2026-11-23T20:27:22.138Z"
+status: "active"
 ---
 
 # § 2297h–9. Ownership limitations
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.162Z"
   - **(1)** any employee stock ownership plan of the Corporation,
   - **(2)** members of the underwriting syndicate purchasing shares in stabilization transactions in connection with the privatization, or
   - **(3)** in the case of shares beneficially held in the ordinary course of business for others, any commercial bank, broker-dealer, or clearing agency.
+
+## Source Credit
+
+*([Pub. L. 104–134, title III, § 3111](https://www.govinfo.gov/link/plaw/104/public/134), Apr. 26, 1996, [110 Stat. 1321–343](https://www.govinfo.gov/link/statute/110/1321).)*

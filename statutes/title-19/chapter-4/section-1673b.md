@@ -3,9 +3,10 @@ title: "Section 1673b - Preliminary determinations"
 usc_title: 19
 usc_section: "1673b"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1673b"
-generated_at: "2026-03-30T02:54:24.651Z"
+generated_at: "2026-11-23T20:26:10.846Z"
+status: "active"
 ---
 
 # § 1673b. Preliminary determinations
@@ -66,3 +67,7 @@ generated_at: "2026-03-30T02:54:24.651Z"
     - **(A)** the date which is 90 days before the date on which the suspension of liquidation was first ordered, or
     - **(B)** the date on which notice of the determination to initiate the investigation is published in the Federal Register.
 - **(f)** Whenever the Commission or the administering authority makes a determination under this section, the Commission or the administering authority, as the case may be, shall notify the petitioner, and other parties to the investigation, and the Commission or the administering authority (whichever is appropriate) of its determination. The administering authority shall include with such notification the facts and conclusions on which its determination is based. Not later than 5 days after the date on which the determination is required to be made under subsection (a)(2), the Commission shall transmit to the administering authority the facts and conclusions on which its determination is based.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title VII, § 733, as added [Pub. L. 96–39, title I, § 101](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 163](https://www.govinfo.gov/link/statute/93/163); amended [Pub. L. 99–514, title XVIII, § 1886(a)(2)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2921](https://www.govinfo.gov/link/statute/100/2921); [Pub. L. 100–418, title I](https://www.govinfo.gov/link/plaw/100/public/418), §§ 1323(b), 1324(b)(2), 1326(d)(1), Aug. 23, 1988, [102 Stat. 1198](https://www.govinfo.gov/link/statute/102/1198), 1201, 1204; [Pub. L. 103–465, title II](https://www.govinfo.gov/link/plaw/103/public/465), §§ 212(b)(2)(A), (C)–(E), 213(a), 214(b)(1), 215(b), 219(a), (c)(1), 233(a)(6)(A)(viii)–(x), (B), Dec. 8, 1994, [108 Stat. 4848–4852](https://www.govinfo.gov/link/statute/108/4848), 4855, 4857, 4901.)*

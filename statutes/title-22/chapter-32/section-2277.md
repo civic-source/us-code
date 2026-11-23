@@ -3,9 +3,10 @@ title: "Section 2277 - Strategy to advance prosperity, combat corruption, streng
 usc_title: 22
 usc_section: "2277"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2277"
-generated_at: "2026-03-30T02:55:05.352Z"
+generated_at: "2026-11-23T20:26:32.205Z"
+status: "active"
 ---
 
 # § 2277. Strategy to advance prosperity, combat corruption, strengthen democratic governance, and improve civilian security in El Salvador, Guatemala, and Honduras
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:55:05.352Z"
 - **(h)** In this section, the term “appropriate congressional committees” means—
   - **(1)** the Committee on Foreign Relations and the Committee on Appropriations of the Senate; and
   - **(2)** the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. FF, title III, § 352](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3127](https://www.govinfo.gov/link/statute/134/3127).)*

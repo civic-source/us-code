@@ -3,12 +3,17 @@ title: "Section 8985 - Information to individuals eligible to enroll"
 usc_title: 5
 usc_section: "8985"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8985"
-generated_at: "2026-03-30T02:52:56.070Z"
+generated_at: "2026-11-23T20:25:32.254Z"
+status: "active"
 ---
 
 # § 8985. Information to individuals eligible to enroll
 
 - **(a)** The qualified companies at the direction and with the approval of the Office, shall make available to each individual eligible to enroll in a vision benefits plan information on services and benefits (including maximums, limitations, and exclusions), that the Office considers necessary to enable the individual to make an informed decision about electing coverage.
 - **(b)** The Office shall make available to each individual eligible to enroll in a vision benefits plan, information on services and benefits provided by qualified companies participating under chapter 89.
+
+## Source Credit
+
+*(Added [Pub. L. 108–496, § 3](https://www.govinfo.gov/link/plaw/108/public/496), Dec. 23, 2004, [118 Stat. 4008](https://www.govinfo.gov/link/statute/118/4008).)*

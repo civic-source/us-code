@@ -3,9 +3,10 @@ title: "Section 10161 - Monitored retrievable storage"
 usc_title: 42
 usc_section: "10161"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10161"
-generated_at: "2026-03-30T02:56:11.382Z"
+generated_at: "2026-11-23T20:27:23.214Z"
+status: "active"
 ---
 
 # § 10161. Monitored retrievable storage
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:56:11.382Z"
   - **(5)** The Secretary may consult with appropriate units of general local government in advance of commencement of construction of any such facility in an effort to determine the level of payments each such unit is eligible to receive under this subsection.
 - **(g)** No monitored retrievable storage facility developed pursuant to this section may be constructed in any State in which there is located any site approved for site characterization under section 10132 of this title . The restriction in the preceding sentence shall only apply until such time as the Secretary decides that such candidate site is no longer a candidate site under consideration for development as a repository. Such restriction shall continue to apply to any site selected for construction as a repository.
 - **(h)** Any facility authorized pursuant to this section shall be subject to the provisions of sections 10135, 10136(a), 10136(b), 10136(d), 10137, and 10138 of this title. For purposes of carrying out the provisions of this subsection, any reference in sections 10135 through 10138 of this title to a repository shall be considered to refer to a monitored retrievable storage facility.
+
+## Source Credit
+
+*([Pub. L. 97–425, title I, § 141](https://www.govinfo.gov/link/plaw/97/public/425), Jan. 7, 1983, [96 Stat. 2241](https://www.govinfo.gov/link/statute/96/2241).)*

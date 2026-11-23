@@ -3,9 +3,10 @@ title: "Section 387f - General provisions respecting control of tobacco products
 usc_title: 21
 usc_section: "387f"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 387f"
-generated_at: "2026-03-30T02:54:54.280Z"
+generated_at: "2026-11-23T20:26:27.769Z"
+status: "active"
 ---
 
 # § 387f. General provisions respecting control of tobacco products
@@ -55,3 +56,11 @@ generated_at: "2026-03-30T02:54:54.280Z"
     - **(E)** After the issuance of an order under subparagraph (B) respecting a petition, the petitioner shall have an opportunity for an informal hearing on such order.
   - **(3)** Compliance with requirements under this subsection shall not be required before the end of the 3-year period following June 22, 2009 .
 - **(f)** The Secretary may enter into contracts for research, testing, and demonstrations respecting tobacco products and may obtain tobacco products for research, testing, and demonstration purposes.
+
+In general
+
+Other regulations
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 906, as added [Pub. L. 111–31, div. A, title I, § 101(b)(3)](https://www.govinfo.gov/link/plaw/111/public/31), June 22, 2009, [123 Stat. 1795](https://www.govinfo.gov/link/statute/123/1795); amended [Pub. L. 116–94, div. N, title I, § 603(a)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3123](https://www.govinfo.gov/link/statute/133/3123).)*

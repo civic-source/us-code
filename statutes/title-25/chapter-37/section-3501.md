@@ -3,9 +3,10 @@ title: "Section 3501 - Definitions"
 usc_title: 25
 usc_section: "3501"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3501"
-generated_at: "2026-03-30T02:54:52.852Z"
+generated_at: "2026-11-23T20:26:25.652Z"
+status: "active"
 ---
 
 # § 3501. Definitions
@@ -44,3 +45,7 @@ In this chapter:
     - **(A)** any enterprise, partnership, consortium, corporation, or other type of business organization that is engaged in the development of energy resources and is wholly owned by an Indian tribe (including an organization incorporated pursuant to section 5124 of this title or section 5203 of this title ); and
     - **(B)** any organization of two or more entities, at least one of which is an Indian tribe, that has the written consent of the governing bodies of all Indian tribes participating in the organization to apply for a grant, loan, or other assistance under section 3502 of this title or to enter into a lease or business agreement with, or acquire a right-of-way from, an Indian tribe pursuant to subsection (a)(2)(A)(ii) or (b)(2)(B) of section 3504 of this title .
   - **(13)** The term “tribal land” means any land or interests in land owned by any Indian tribe, title to which is held in trust by the United States, or is subject to a restriction against alienation under laws of the United States.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XXVI, § 2601](https://www.govinfo.gov/link/plaw/102/public/486), as added [Pub. L. 109–58, title V, § 503(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 764](https://www.govinfo.gov/link/statute/119/764); amended [Pub. L. 115–325, title I, § 105(a)](https://www.govinfo.gov/link/plaw/115/public/325), Dec. 18, 2018, [132 Stat. 4455](https://www.govinfo.gov/link/statute/132/4455); [Pub. L. 116–260, div. Z, title VIII, § 8013(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2592](https://www.govinfo.gov/link/statute/134/2592).)*

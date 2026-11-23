@@ -3,9 +3,10 @@ title: "Section 391 - Reporting on cyber incidents with respect to networks and 
 usc_title: 10
 usc_section: "391"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 391"
-generated_at: "2026-03-30T02:53:38.055Z"
+generated_at: "2026-11-23T20:25:50.927Z"
+status: "active"
 ---
 
 # § 391. Reporting on cyber incidents with respect to networks and information systems of operationally critical contractors and certain other contractors
@@ -44,3 +45,65 @@ generated_at: "2026-03-30T02:53:38.055Z"
 - **(e)** In this section:
   - **(1)** The term “cyber incident” means actions taken through the use of computer networks that result in an actual or potentially adverse effect on an information system or the information residing therein.
   - **(2)** The term “operationally critical contractor” means a contractor designated by the Secretary for purposes of this section as a critical source of supply for airlift, sealift, intermodal transportation services, or logistical support that is essential to the mobilization, deployment, or sustainment of the Armed Forces in a contingency operation.
+
+Designation of Department Component to Receive Reports
+
+Procedures for Reporting Cyber Incidents
+
+Procedure Requirements.—
+
+Designation and notification
+
+Rapid reporting
+
+Department assistance and access to equipment and information by department personnel
+
+Protection of trade secrets and other information
+
+Dissemination of information
+
+Protection From Liability of Operationally Critical Contractors
+
+Definitions
+
+Cyber incident
+
+Operationally critical contractor
+
+Establishment and Function
+
+Membership
+
+Organization.—
+
+Designation of administrative chair
+
+Duties of administrative chair
+
+Executive committee
+
+Consultation
+
+Procedures
+
+Support Center.—
+
+Establishment
+
+Composition.—
+
+Requirement
+
+Publication
+
+Functions
+
+Discharge Through Director
+
+In general
+
+Actions following assessment
+
+## Source Credit
+
+*(Added [Pub. L. 113–291, div. A, title XVI, § 1632(a)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3639](https://www.govinfo.gov/link/statute/128/3639); amended [Pub. L. 114–92, div. A, title XVI, § 1641(b)](https://www.govinfo.gov/link/plaw/114/public/92), (c)(1), Nov. 25, 2015, [129 Stat. 1115](https://www.govinfo.gov/link/statute/129/1115), 1116; [Pub. L. 116–283, div. A, title XVII, § 1704](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4082](https://www.govinfo.gov/link/statute/134/4082).)*

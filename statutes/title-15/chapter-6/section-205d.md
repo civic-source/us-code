@@ -3,9 +3,10 @@ title: "Section 205d - United States Metric Board"
 usc_title: 15
 usc_section: "205d"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 205d"
-generated_at: "2026-03-30T02:54:08.075Z"
+generated_at: "2026-11-23T20:26:03.659Z"
+status: "active"
 ---
 
 # § 205d. United States Metric Board
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:08.075Z"
     - **(K)** four at-large members to represent consumers and other interests deemed suitable by the President and who shall be qualified individuals.
 - **(c)** Unless otherwise provided by the Congress, the Board shall have no compulsory powers.
 - **(d)** The Board shall cease to exist when the Congress, by law, determines that its mission has been accomplished.
+
+## Source Credit
+
+*([Pub. L. 94–168, § 5](https://www.govinfo.gov/link/plaw/94/public/168), Dec. 23, 1975, [89 Stat. 1007](https://www.govinfo.gov/link/statute/89/1007).)*

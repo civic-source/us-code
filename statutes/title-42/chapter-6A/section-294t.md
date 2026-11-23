@@ -3,9 +3,10 @@ title: "Section 294t - Programs to promote mental health among the health profes
 usc_title: 42
 usc_section: "294t"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 294t"
-generated_at: "2026-03-30T02:56:10.780Z"
+generated_at: "2026-11-23T20:27:20.394Z"
+status: "active"
 ---
 
 # § 294t. Programs to promote mental health among the health professional workforce
@@ -17,9 +18,15 @@ generated_at: "2026-03-30T02:56:10.780Z"
     - **(B)** establishing new, or enhancing existing, evidence-based or evidence-informed programs for preventing suicide and improving mental health and resiliency among health care professionals;
     - **(C)** establishing new, or enhancing existing, peer-support programs among health care professionals; or
     - **(D)** providing mental health care, follow-up services and care, or referral for such services and care, as appropriate.
-  - **(3)** In awarding grants and contracts under this subsection, the Secretary shall give priority to eligible entities in health professional shortage areas or rural areas.
+  - **(3)** In awarding grants and contracts under this subsection, the Secretary shall give priority to eligible entities that—
+    - **(A)** are in health professional shortage areas or rural areas; or
+    - **(B)** have a focus on the reduction of administrative burden on health care workers.
 - **(b)** The Secretary may establish a program to award grants to health professions schools, academic health centers, State or local governments, Indian Tribes or Tribal organizations, or other appropriate public or private nonprofit entities (or consortia of entities, including entities promoting multidisciplinary approaches) to support the training of health care students, residents, or health care professionals in evidence-based or evidence-informed strategies to address mental and substance use disorders and improve mental health and resiliency among health care professionals.
-- **(c)** A grant or contract awarded under subsection (a) or (b) shall be for a period of 3 years.
+- **(c)** A grant or contract awarded under subsection (a) or (b) shall be for a period of not less than 3 years.
 - **(d)** An entity seeking a grant or contract under subsection (a) or (b) shall submit an application to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may require.
 - **(e)** An entity awarded a grant or contract under subsection (a) or (b) shall periodically submit to the Secretary a report evaluating the activities supported by the grant or contract.
-- **(f)** To carry out this section and section 5 of the Dr. Lorna Breen Health Care Provider Protection Act, there are authorized to be appropriated $35,000,000 for each of fiscal years 2022 through 2024.
+- **(f)** To carry out this section and section 5 of the Dr. Lorna Breen Health Care Provider Protection Act, there are authorized to be appropriated $35,000,000 for each of fiscal years 2026 through 2030.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 764A, formerly § 764, as added [Pub. L. 117–105, § 4](https://www.govinfo.gov/link/plaw/117/public/105), Mar. 18, 2022, [136 Stat. 1119](https://www.govinfo.gov/link/statute/136/1119); renumbered § 764A and amended [Pub. L. 119–75, div. J, title V, § 6508(b)](https://www.govinfo.gov/link/plaw/119/public/75), (c), Feb. 3, 2026, [140 Stat. 695](https://www.govinfo.gov/link/statute/140/695).)*

@@ -3,9 +3,10 @@ title: "Section 2308 - Transportation of deceased veteran to a national cemetery
 usc_title: 38
 usc_section: "2308"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 2308"
-generated_at: "2026-03-30T02:55:53.497Z"
+generated_at: "2026-11-23T20:27:01.789Z"
+status: "active"
 ---
 
 # § 2308. Transportation of deceased veteran to a national cemetery or a covered veterans’ cemetery
@@ -21,3 +22,13 @@ generated_at: "2026-03-30T02:55:53.497Z"
     - **(A)** is owned by a State; or
     - **(B)** is on trust land owned by, or held in trust for, a tribal organization; and
   - **(3)** for which the Secretary has made a grant under section 2408 of this title .
+
+In General
+
+Deceased Veteran Described
+
+Covered Veterans’ Cemetery Defined
+
+## Source Credit
+
+*(Added [Pub. L. 94–433, title III, § 304(a)](https://www.govinfo.gov/link/plaw/94/public/433), Sept. 30, 1976, [90 Stat. 1377](https://www.govinfo.gov/link/statute/90/1377), § 908; amended [Pub. L. 101–237, title III, § 313(b)(1)](https://www.govinfo.gov/link/plaw/101/public/237), Dec. 18, 1989, [103 Stat. 2077](https://www.govinfo.gov/link/statute/103/2077); renumbered § 2308 and amended [Pub. L. 102–83, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/83), (c)(1), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 112–260, title I, § 104(b)(2)](https://www.govinfo.gov/link/plaw/112/public/260), Jan. 10, 2013, [126 Stat. 2420](https://www.govinfo.gov/link/statute/126/2420); [Pub. L. 116–315, title II](https://www.govinfo.gov/link/plaw/116/public/315), §§ 2201(a)–(c), 2202(b)(1)(C), Jan. 5, 2021, [134 Stat. 4983](https://www.govinfo.gov/link/statute/134/4983), 4985.)*

@@ -3,12 +3,17 @@ title: "Section 617k - Definitions"
 usc_title: 43
 usc_section: "617k"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 617k"
-generated_at: "2026-03-30T02:55:57.457Z"
+generated_at: "2026-11-23T20:27:06.240Z"
+status: "active"
 ---
 
 # § 617k. Definitions
 
 “Political subdivision” or “political subdivisions” as used in this subchapter shall be understood to include any State, irrigation or other district, municipality, or other governmental organization. “Reclamation law” as used in this subchapter shall be understood to mean that certain Act of Congress of the United States approved June 17, 1902 , and the Acts amendatory thereof and supplemental thereto. “Maintenance” as used herein shall be deemed to include in each instance provision for keeping the works in good operating condition. “The Federal Power Act,” [ 16 U.S.C. 791a et seq.] as used in this subchapter, shall be understood to mean that certain Act of Congress of the United States approved June 10, 1920 , and the Acts amendatory thereof and supplemental thereto. “Domestic”, whenever employed in this subchapter, shall include water uses defined as “domestic” in said Colorado River compact.
 
+
+## Source Credit
+
+*(Dec. 21, 1928, ch. 42, § 12, [45 Stat. 1064](https://www.govinfo.gov/link/statute/45/1064).)*

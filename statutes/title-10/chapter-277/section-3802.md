@@ -3,9 +3,10 @@ title: "Section 3802 - Payment"
 usc_title: 10
 usc_section: "3802"
 chapter: 277
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 3802"
-generated_at: "2026-03-30T02:53:38.198Z"
+generated_at: "2026-11-23T20:25:51.864Z"
+status: "active"
 ---
 
 # § 3802. Payment
@@ -20,3 +21,17 @@ generated_at: "2026-03-30T02:53:38.198Z"
   - **(2)** Nothing in this chapter shall be construed to grant the Defense Contract Audit Agency the authority to audit compliance with Generally Accepted Accounting Principles.
 - **(d)** Payments made under section 3801 of this title may not exceed the unpaid contract price.
 - **(e)** The Secretary of Defense shall ensure that nontraditional defense contractors and other private sector companies are eligible for performance-based payments, consistent with best commercial practices.
+
+Preference for Performance-Based Payments
+
+Basis for performance-based payments
+
+Contractor Accounting Systems.—
+
+Payment Amount
+
+Eligibility of Nontraditional Defense Contractors
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1834(a)](https://www.govinfo.gov/link/plaw/116/public/283), (c), Jan. 1, 2021, [134 Stat. 4234](https://www.govinfo.gov/link/statute/134/4234), 4235.)*

@@ -3,9 +3,10 @@ title: "Section 3784 - Transfer of property to Republic of Panama"
 usc_title: 22
 usc_section: "3784"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3784"
-generated_at: "2026-03-30T02:55:05.397Z"
+generated_at: "2026-11-23T20:26:32.477Z"
+status: "active"
 ---
 
 # § 3784. Transfer of property to Republic of Panama
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.397Z"
   - **(2)** certifying the state of compliance by the Republic of Panama with such Treaty and related agreements; and
   - **(3)** setting forth the reasons for the conveyance being made at the particular time.
 - **(c)** The Panama Canal, and such other property referred to in paragraph 2(d) of Article XIII of the Panama Canal Treaty of 1977 that has not been previously transferred in accordance with paragraphs 2(a), 2(b), and 2(c) of such Article, shall not be transferred to the Republic of Panama prior to December 31, 1999 .
+
+## Source Credit
+
+*([Pub. L. 96–70, title I, § 1504](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 488](https://www.govinfo.gov/link/statute/93/488); [Pub. L. 99–223, § 7](https://www.govinfo.gov/link/plaw/99/public/223), Dec. 28, 1985, [99 Stat. 1740](https://www.govinfo.gov/link/statute/99/1740).)*

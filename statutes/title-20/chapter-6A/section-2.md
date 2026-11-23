@@ -3,9 +3,10 @@ title: "Section 2 - Arbitration"
 usc_title: 20
 usc_section: "2"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 2"
-generated_at: "2026-03-30T02:54:48.083Z"
+generated_at: "2026-11-23T20:26:14.247Z"
+status: "active"
 ---
 
 # § 107d–2. Arbitration
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:48.083Z"
     - **(C)** one individual, not employed by the Federal department, agency, or instrumentality controlling the Federal property over which the dispute arose, who shall serve as chairman, jointly designated by the members appointed under subparagraphs (A) and (B).
 - **(c)** The decisions of a panel convened by the Secretary pursuant to this section shall be matters of public record and shall be published in the Federal Register.
 - **(d)** The Secretary shall pay all reasonable costs of arbitration under this section in accordance with a schedule of fees and expenses he shall publish in the Federal Register.
+
+## Source Credit
+
+*(June 20, 1936, ch. 638, § 6, as added [Pub. L. 93–516, title II, § 206](https://www.govinfo.gov/link/plaw/93/public/516), Dec. 7, 1974, [88 Stat. 1626](https://www.govinfo.gov/link/statute/88/1626); [Pub. L. 93–651, title II, § 206](https://www.govinfo.gov/link/plaw/93/public/651), Nov. 21, 1974, [89 Stat. 2–11](https://www.govinfo.gov/link/statute/89/2).)*

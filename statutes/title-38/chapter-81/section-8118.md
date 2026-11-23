@@ -3,9 +3,10 @@ title: "Section 8118 - Authority for transfer of real property; Department of Ve
 usc_title: 38
 usc_section: "8118"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 8118"
-generated_at: "2026-03-30T02:55:53.537Z"
+generated_at: "2026-11-23T20:27:02.069Z"
+status: "active"
 ---
 
 # § 8118. Authority for transfer of real property; Department of Veterans Affairs Capital Asset Fund
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:53.537Z"
   - **(1)** The real property transfers to be undertaken in accordance with this section during that fiscal year.
   - **(2)** All transfers completed under this section during the preceding fiscal year and completed and scheduled to be completed during the fiscal year during which the budget is submitted.
   - **(3)** The deposits into, and expenditures from, the Fund that are incurred or projected for each of the preceding fiscal year, the current fiscal year, and the fiscal year covered by the budget.
+
+## Source Credit
+
+*(Added [Pub. L. 108–422, title IV, § 411(a)(1)](https://www.govinfo.gov/link/plaw/108/public/422), Nov. 30, 2004, [118 Stat. 2388](https://www.govinfo.gov/link/statute/118/2388); amended [Pub. L. 112–37, § 10(g)](https://www.govinfo.gov/link/plaw/112/public/37), Oct. 5, 2011, [125 Stat. 397](https://www.govinfo.gov/link/statute/125/397); [Pub. L. 115–251, title I, § 105](https://www.govinfo.gov/link/plaw/115/public/251), Sept. 29, 2018, [132 Stat. 3168](https://www.govinfo.gov/link/statute/132/3168); [Pub. L. 116–159, div. E, title I, § 5103](https://www.govinfo.gov/link/plaw/116/public/159), Oct. 1, 2020, [134 Stat. 748](https://www.govinfo.gov/link/statute/134/748); [Pub. L. 117–180, div. E, title IV, § 405](https://www.govinfo.gov/link/plaw/117/public/180), Sept. 30, 2022, [136 Stat. 2139](https://www.govinfo.gov/link/statute/136/2139); [Pub. L. 118–83, div. B, title III, § 337](https://www.govinfo.gov/link/plaw/118/public/83), Sept. 26, 2024, [138 Stat. 1542](https://www.govinfo.gov/link/statute/138/1542); [Pub. L. 119–37, div. G, title IV, § 7405](https://www.govinfo.gov/link/plaw/119/public/37), Nov. 12, 2025, [139 Stat. 654](https://www.govinfo.gov/link/statute/139/654).)*

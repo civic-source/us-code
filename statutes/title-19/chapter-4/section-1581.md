@@ -3,9 +3,10 @@ title: "Section 1581 - Boarding vessels"
 usc_title: 19
 usc_section: "1581"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1581"
-generated_at: "2026-03-30T02:54:24.644Z"
+generated_at: "2026-11-23T20:26:10.810Z"
+status: "active"
 ---
 
 # § 1581. Boarding vessels
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:24.644Z"
 - **(f)** It shall be the duty of the several officers of the customs to seize and secure any vessel, vehicle, or merchandise which shall become liable to seizure, and to arrest any person who shall become liable to arrest, by virtue of any law respecting the revenue, as well without as within their respective districts, and to use all necessary force to seize or arrest the same.
 - **(g)** Any vessel, within or without the customs waters, from which any merchandise is being, or has been, unlawfully introduced into the United States by means of any boat belonging to, or owned, controlled, or managed in common with, said vessel, shall be deemed to be employed within the United States and, as such, subject to the provisions of this section.
 - **(h)** The provisions of this section shall not be construed to authorize or require any officer of the United States to enforce any law of the United States upon the high seas upon a foreign vessel in contravention of any treaty with a foreign government enabling or permitting the authorities of the United States to board, examine, search, seize, or otherwise to enforce upon said vessel upon the high seas the laws of the United States except as such authorities are or may otherwise be enabled or permitted under special arrangement with such foreign government.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 581, [46 Stat. 747](https://www.govinfo.gov/link/statute/46/747); Aug. 5, 1935, ch. 438, title II, § 203, [49 Stat. 521](https://www.govinfo.gov/link/statute/49/521); 1946 Reorg. Plan No. 3, §§ 101–104, eff. July 16, 1946, 11 F.R. 7875, [60 Stat. 1097](https://www.govinfo.gov/link/statute/60/1097); Sept. 1, 1954, ch. 1213, title V, § 504, [68 Stat. 1141](https://www.govinfo.gov/link/statute/68/1141).)*

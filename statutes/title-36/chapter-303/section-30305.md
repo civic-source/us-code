@@ -3,9 +3,10 @@ title: "Section 30305 - Powers"
 usc_title: 36
 usc_section: "30305"
 chapter: 303
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "36 U.S.C. § 30305"
-generated_at: "2026-03-30T02:55:44.694Z"
+generated_at: "2026-11-23T20:26:58.851Z"
+status: "active"
 ---
 
 # § 30305. Powers
@@ -21,3 +22,23 @@ The corporation may—
   - **(7)** borrow money, issue instruments of indebtedness, and secure its obligations by granting security interests in its property;
   - **(8)** sue and be sued; and
   - **(9)** do any other act necessary and proper to carry out the purposes of the corporation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30305 | 36:854. | Aug. 27, 1958 , Pub. L. 85–769 , §§ 4, 16, 72 Stat. 924 , 927. |
+|  | 36:866. |  |
+
+
+Historical and Revision Notes
+
+30305
+
+Aug. 27, 1958
+
+Pub. L. 85–769
+
+72 Stat. 924
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1318](https://www.govinfo.gov/link/statute/112/1318).)*

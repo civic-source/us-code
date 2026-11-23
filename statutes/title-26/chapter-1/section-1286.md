@@ -3,9 +3,10 @@ title: "Section 1286 - Tax treatment of stripped bonds"
 usc_title: 26
 usc_section: "1286"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1286"
-generated_at: "2026-03-30T02:55:27.766Z"
+generated_at: "2026-11-23T20:26:46.076Z"
+status: "active"
 ---
 
 # § 1286. Tax treatment of stripped bonds
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:55:27.766Z"
   - **(6)** The term “purchase” has the meaning given such term by section 1272(d)(1). 1 1 See References in Text note below.
 - **(e)** In the case of an account or entity substantially all of the assets of which consist of bonds, preferred stock, or a combination thereof, the Secretary may by regulations provide that rules similar to the rules of this section and section 305(e), as appropriate, shall apply to interests in such account or entity to which (but for this subsection) this section or section 305(e), as the case may be, would not apply.
 - **(f)** The Secretary may prescribe regulations providing that where, by reason of varying rates of interest, put or call options, or other circumstances, the tax treatment under this section does not accurately reflect the income of the holder of a stripped coupon or stripped bond, or of the person disposing of such bond or coupon, as the case may be, for any period, such treatment shall be modified to require that the proper amount of income be included for such period.
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title I, § 41(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 551](https://www.govinfo.gov/link/statute/98/551); amended [Pub. L. 99–514, title XVIII](https://www.govinfo.gov/link/plaw/99/public/514), §§ 1803(a)(13)(B), 1879(s)(1), Oct. 22, 1986, [100 Stat. 2796](https://www.govinfo.gov/link/statute/100/2796), 2912; [Pub. L. 100–647, title I, § 1018(q)(4)(A)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3585](https://www.govinfo.gov/link/statute/102/3585); [Pub. L. 108–357, title VIII, § 831(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1587](https://www.govinfo.gov/link/statute/118/1587); [Pub. L. 115–141, div. U, title IV, § 401(a)(182)](https://www.govinfo.gov/link/plaw/115/public/141), (c)(2)(A)–(C), Mar. 23, 2018, [132 Stat. 1193](https://www.govinfo.gov/link/statute/132/1193), 1205, 1206.)*

@@ -3,14 +3,25 @@ title: "Section 178 - Retirement of judges of the Court of Federal Claims"
 usc_title: 28
 usc_section: "178"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 178"
-generated_at: "2026-03-30T02:55:30.126Z"
+generated_at: "2026-11-23T20:26:36.329Z"
+status: "active"
 ---
 
 # § 178. Retirement of judges of the Court of Federal Claims
 
-- **(a)** A judge of the United States Court of Federal Claims who retires from office after attaining the age and meeting the service requirements, whether continuously or otherwise, of this subsection shall, subject to subsection (f), be entitled to receive, during the remainder of the judge’s lifetime, an annuity equal to the salary payable to Court of Federal Claims judges in regular active service. The age and service requirements for retirement under this subsection are as follows: Attained Age: Years of Service: 65 15 66 14 67 13 68 12 69 11 70 10.
+- **(a)** A judge of the United States Court of Federal Claims who retires from office after attaining the age and meeting the service requirements, whether continuously or otherwise, of this subsection shall, subject to subsection (f), be entitled to receive, during the remainder of the judge’s lifetime, an annuity equal to the salary payable to Court of Federal Claims judges in regular active service. The age and service requirements for retirement under this subsection are as follows:
+
+| Attained Age: | Years of Service: |
+| --- | --- |
+| 65 | 15 |
+| 66 | 14 |
+| 67 | 13 |
+| 68 | 12 |
+| 69 | 11 |
+| 70 | 10. |
+
 - **(b)** A judge of the Court of Federal Claims who is not reappointed following the expiration of the term of office of such judge, and who retires upon the completion of such term shall, subject to subsection (f), be entitled to receive, during the remainder of such judge’s lifetime, an annuity equal to the salary payable to Court of Federal Claims judges in regular active service, if—
   - **(1)** such judge has served at least 1 full term as judge of the Court of Federal Claims, and
   - **(2)** not earlier than 9 months before the date on which the term of office of such judge expired, and not later than 6 months before such date, such judge advised the President in writing that such judge was willing to accept reappointment as a judge of the Court of Federal Claims.
@@ -69,3 +80,19 @@ generated_at: "2026-03-30T02:55:30.126Z"
     - **(A)** There are authorized to be appropriated to the Court of Federal Claims Judges Retirement Fund amounts required to reduce to zero the unfunded liability of the Fund.
     - **(B)** For purposes of subparagraph (A), the term “unfunded liability” means the estimated excess, determined on an annual basis in accordance with the provisions of section 9503 of title 31 , of the present value of all benefits payable from the Court of Federal Claims Judges Retirement Fund, over the balance in the Fund as of the date the unfunded liability is determined. In making any determination under this subparagraph, the Comptroller General shall use the applicable information contained in the reports filed pursuant to section 9503 of title 31 , with respect to the retirement annuities provided for in this section.
     - **(C)** There are authorized to be appropriated such sums as may be necessary to carry out this paragraph.
+
+65
+
+66
+
+67
+
+68
+
+69
+
+70
+
+## Source Credit
+
+*(Added [Pub. L. 101–650, title III, § 306(a)(1)](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5105](https://www.govinfo.gov/link/statute/104/5105); amended [Pub. L. 102–40, title IV, § 402(d)(2)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 239](https://www.govinfo.gov/link/statute/105/239); [Pub. L. 102–198, § 7(a)](https://www.govinfo.gov/link/plaw/102/public/198), Dec. 9, 1991, [105 Stat. 1624](https://www.govinfo.gov/link/statute/105/1624); [Pub. L. 102–572, title IX, § 902(a)](https://www.govinfo.gov/link/plaw/102/public/572), Oct. 29, 1992, [106 Stat. 4516](https://www.govinfo.gov/link/statute/106/4516).)*

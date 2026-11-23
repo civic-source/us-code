@@ -3,9 +3,10 @@ title: "Section 1126 - Gold star lapel button: eligibility and distribution"
 usc_title: 10
 usc_section: "1126"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1126"
-generated_at: "2026-03-30T02:53:38.110Z"
+generated_at: "2026-11-23T20:25:51.253Z"
+status: "active"
 ---
 
 # § 1126. Gold star lapel button: eligibility and distribution
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:38.110Z"
   - **(3)** The term “World War II” includes the period from September 8, 1939 , to July 25, 1947 , at 12 o’clock noon.
   - **(4)** The term “military operations” includes those operations involving members of the armed forces assisting in United States Government sponsored training of military personnel of a foreign nation.
   - **(5)** The term “peacekeeping force” includes those personnel assigned to a force engaged in a peacekeeping operation authorized by the United Nations Security Council.
+
+## Source Credit
+
+*(Added [Pub. L. 89–534, § 1(1)](https://www.govinfo.gov/link/plaw/89/public/534), Aug. 11, 1966, [80 Stat. 345](https://www.govinfo.gov/link/statute/80/345), § 1124; renumbered § 1126, [Pub. L. 89–718, § 9](https://www.govinfo.gov/link/plaw/89/public/718), Nov. 2, 1966, [80 Stat. 1117](https://www.govinfo.gov/link/statute/80/1117); amended [Pub. L. 98–94, title XII, § 1268(8)](https://www.govinfo.gov/link/plaw/98/public/94), Sept. 24, 1983, [97 Stat. 706](https://www.govinfo.gov/link/statute/97/706); [Pub. L. 100–26, § 7(k)(5)](https://www.govinfo.gov/link/plaw/100/public/26), Apr. 21, 1987, [101 Stat. 284](https://www.govinfo.gov/link/statute/101/284); [Pub. L. 103–160, div. A, title XI, § 1143](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1757](https://www.govinfo.gov/link/statute/107/1757); [Pub. L. 116–92, div. A, title V, § 581](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1411](https://www.govinfo.gov/link/statute/133/1411).)*

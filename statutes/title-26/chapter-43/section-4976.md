@@ -3,9 +3,10 @@ title: "Section 4976 - Taxes with respect to funded welfare benefit plans"
 usc_title: 26
 usc_section: "4976"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 4976"
-generated_at: "2026-03-30T02:55:27.812Z"
+generated_at: "2026-11-23T20:26:46.370Z"
+status: "active"
 ---
 
 # § 4976. Taxes with respect to funded welfare benefit plans
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:27.812Z"
   - **(3)** Paragraph (1)(C) shall not apply to any amount attributable to a contribution to the fund which is not allowable as a deduction under section 419 for the taxable year or any prior taxable year (and such contribution shall not be included in any carryover under section 419(d)).
   - **(4)** Subparagraphs (A) and (B) of paragraph (1) shall not apply to post-retirement benefits charged against an existing reserve for post-retirement medical or life insurance benefits (as defined in section 512(a)(3)(E)) or charged against the income on such reserve.
 - **(c)** For purposes of this section, the terms used in this section shall have the same respective meanings as when used in subpart D of part I of subchapter D of chapter 1.
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title V, § 511(c)(1)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 861](https://www.govinfo.gov/link/statute/98/861); amended [Pub. L. 99–514, title XVIII, § 1851(a)(11)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2861](https://www.govinfo.gov/link/statute/100/2861); [Pub. L. 100–647, title I, § 1011B(a)(27)(A)](https://www.govinfo.gov/link/plaw/100/public/647), (B), title III, § 3021(a)(1)(C), Nov. 10, 1988, [102 Stat. 3487](https://www.govinfo.gov/link/statute/102/3487), 3626; [Pub. L. 101–140, title II, § 203(a)(2)](https://www.govinfo.gov/link/plaw/101/public/140), Nov. 8, 1989, [103 Stat. 830](https://www.govinfo.gov/link/statute/103/830).)*

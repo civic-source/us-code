@@ -3,9 +3,10 @@ title: "Section 31137 - Electronic logging devices and brake maintenance regulat
 usc_title: 49
 usc_section: "31137"
 chapter: 311
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 31137"
-generated_at: "2026-03-30T02:56:19.358Z"
+generated_at: "2026-11-23T20:27:34.951Z"
+status: "active"
 ---
 
 # § 31137. Electronic logging devices and brake maintenance regulations
@@ -53,3 +54,71 @@ generated_at: "2026-03-30T02:56:19.358Z"
     - **(B)** meets the requirements established by the Secretary through regulation.
   - **(2)** The term “tamper resistant” means resistant to allowing any individual to cause an electronic device to record the incorrect date, time, and location for changes to on-duty driving status of a commercial motor vehicle operator under part 395 of title 49, Code of Federal Regulations, or to subsequently alter the record created by that device.
 - **(g)** The Secretary shall maintain regulations on improved standards or methods to ensure that brakes and brake systems of commercial motor vehicles are maintained properly and inspected by appropriate employees. At a minimum, the regulations shall establish minimum training requirements and qualifications for employees responsible for maintaining and inspecting the brakes and brake systems.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 31137(a) | 49 App.:2505 (note). | Nov. 18, 1988 , Pub. L. 100–690, § 9104(b) , 102 Stat. 4529 . |
+| 31137(b) | 49 App.:2521. | Oct. 30, 1984 , Pub. L. 98–554 , 98 Stat. 2829 , § 231; added Nov. 18, 1988 , Pub. L. 100–690, § 9110 , 102 Stat. 4531 . |
+
+
+Use of Electronic Logging Devices
+
+Electronic Logging Device Requirements.—
+
+In general
+
+Performance and design standards
+
+Exception
+
+Certification Criteria.—
+
+In general
+
+Effect of noncertification
+
+Additional Considerations
+
+Use of Data.—
+
+In general
+
+Measures to preserve confidentiality of personal data
+
+Enforcement
+
+Definitions
+
+Electronic logging device
+
+Tamper resistant
+
+Brakes and Brake Systems Maintenance Regulations
+
+Historical and Revision Notes
+
+31137(a)
+
+Nov. 18, 1988
+
+Pub. L. 100–690, § 9104(b)
+
+102 Stat. 4529
+
+31137(b)
+
+Oct. 30, 1984
+
+Pub. L. 98–554
+
+98 Stat. 2829
+
+Nov. 18, 1988
+
+Pub. L. 100–690, § 9110
+
+102 Stat. 4531
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1004](https://www.govinfo.gov/link/statute/108/1004); [Pub. L. 112–141, div. C, title II](https://www.govinfo.gov/link/plaw/112/public/141), §§ 32301(b), 32931(a), July 6, 2012, [126 Stat. 786](https://www.govinfo.gov/link/statute/126/786), 829; [Pub. L. 114–94, div. A, title V](https://www.govinfo.gov/link/plaw/114/public/94), §§ 5507, 5508(b)(2), Dec. 4, 2015, [129 Stat. 1553](https://www.govinfo.gov/link/statute/129/1553), 1554.)*

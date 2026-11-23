@@ -3,12 +3,17 @@ title: "Section 202 - Inducing conveyances by Indians of trust interests in land
 usc_title: 25
 usc_section: "202"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 202"
-generated_at: "2026-03-30T02:54:52.801Z"
+generated_at: "2026-11-23T20:26:25.363Z"
+status: "active"
 ---
 
 # § 202. Inducing conveyances by Indians of trust interests in lands
 
 It shall be unlawful for any person to induce any Indian to execute any contract, deed, mortgage, or other instrument purporting to convey any land or any interest therein held by the United States in trust for such Indian, or to offer any such contract, deed, mortgage, or other instrument for record in the office of any recorder of deeds. Any person violating this provision shall be deemed guilty of a misdemeanor, and upon conviction shall be punished by a fine not exceeding $500 for the first offense, and if convicted for a second offense may be punished by a fine not exceeding $500 or imprisonment not exceeding one year, or by both such fine and imprisonment, in the discretion of the court. This section shall not apply to any lease or other contract authorized by law to be made.
 
+
+## Source Credit
+
+*(June 25, 1910, ch. 431, § 5, [36 Stat. 857](https://www.govinfo.gov/link/statute/36/857).)*

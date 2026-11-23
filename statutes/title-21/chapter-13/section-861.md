@@ -3,9 +3,10 @@ title: "Section 861 - Employment or use of persons under 18 years of age in drug
 usc_title: 21
 usc_section: "861"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 861"
-generated_at: "2026-03-30T02:54:54.296Z"
+generated_at: "2026-11-23T20:26:27.845Z"
+status: "active"
 ---
 
 # § 861. Employment or use of persons under 18 years of age in drug operations
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:54.296Z"
   - **(2)** if the person employed, hired, or used is fourteen years of age or younger,
 - **(e)** In any case of any sentence imposed under this section, imposition or execution of such sentence shall not be suspended and probation shall not be granted. An individual convicted under this section of an offense for which a mandatory minimum term of imprisonment is applicable shall not be eligible for parole under section 4202 of title 18 2 2 See References in Text note below. until the individual has served the mandatory term of imprisonment as enhanced by this section.
 - **(f)** Except as authorized by this subchapter, it shall be unlawful for any person to knowingly or intentionally provide or distribute any controlled substance to a pregnant individual in violation of any provision of this subchapter. Any person who violates this subsection shall be subject to the provisions of subsections (b), (c), and (e).
+
+## Source Credit
+
+*([Pub. L. 91–513, title II, § 420](https://www.govinfo.gov/link/plaw/91/public/513), formerly § 405B, as added [Pub. L. 99–570, title I, § 1102](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–10](https://www.govinfo.gov/link/statute/100/3207); amended [Pub. L. 100–690, title VI](https://www.govinfo.gov/link/plaw/100/public/690), §§ 6452(b)(1), 6459, 6470(d), Nov. 18, 1988, [102 Stat. 4371](https://www.govinfo.gov/link/statute/102/4371), 4373, 4378; renumbered § 420 and amended [Pub. L. 101–647, title X](https://www.govinfo.gov/link/plaw/101/public/647), §§ 1002(c), 1003(c), title XXXV, § 3599L, Nov. 29, 1990, [104 Stat. 4827](https://www.govinfo.gov/link/statute/104/4827), 4829, 4932.)*

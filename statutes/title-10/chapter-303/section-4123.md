@@ -3,9 +3,10 @@ title: "Section 4123 - Mechanisms to provide funds for defense laboratories and 
 usc_title: 10
 usc_section: "4123"
 chapter: 303
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 4123"
-generated_at: "2026-03-30T02:53:38.202Z"
+generated_at: "2026-11-23T20:25:51.908Z"
+status: "active"
 ---
 
 # § 4123. Mechanisms to provide funds for defense laboratories and test organizations for research and development of technologies for military missions
@@ -30,3 +31,19 @@ generated_at: "2026-03-30T02:53:38.202Z"
     - **(A)** Mechanisms for the release to the public of information on achievements and best practices described in paragraph (1) in unclassified form.
     - **(B)** Mechanisms for dissemination to appropriate civilian and military officials of information on achievements and best practices described in paragraph (1) in classified form.
 - **(d)** In this section, the term “test organization” means a test organization of the Major Range and Test Facility Base specified in Department of Defense Directive 3200.11 or any successor directive.
+
+Mechanisms to Provide Funds
+
+Availability of Funds for Infrastructure Projects
+
+Release and Dissemination of Information on Contributions From Use of Authority to Military Missions.—
+
+Collection of information
+
+Release of information
+
+Test Organization Defined
+
+## Source Credit
+
+*(Added [Pub. L. 115–91, div. A, title II, § 220(a)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1332](https://www.govinfo.gov/link/statute/131/1332), § 2363; amended [Pub. L. 115–232, div. A, title II, § 250](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1702](https://www.govinfo.gov/link/statute/132/1702); renumbered § 4123, [Pub. L. 116–283, div. A, title XVIII, § 1843(b)(1)](https://www.govinfo.gov/link/plaw/116/public/283), as added [Pub. L. 117–81, div. A, title XVII, § 1701(u)(4)(A)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2153](https://www.govinfo.gov/link/statute/135/2153); [Pub. L. 119–60, div. A, title II, § 212](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 772](https://www.govinfo.gov/link/statute/139/772).)*

@@ -3,9 +3,10 @@ title: "Section 20982 - Study, report, and recommendations on best practices for
 usc_title: 52
 usc_section: "20982"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "52 U.S.C. § 20982"
-generated_at: "2026-03-30T02:56:30.166Z"
+generated_at: "2026-11-23T20:27:36.979Z"
+status: "active"
 ---
 
 # § 20982. Study, report, and recommendations on best practices for facilitating military and overseas voting
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:30.166Z"
     - **(J)** The use of facsimile machines and electronic means of transmission of absentee ballot applications and absentee ballots to absent uniformed services voters and overseas voters.
     - **(K)** Other issues related to the rights of absent uniformed services voters and overseas voters to participate in elections.
 - **(b)** Not later than the date that is 18 months after October 29, 2002 , the Commission shall submit to the President and Congress a report on the study conducted under subsection (a)(1) together with recommendations identifying the best practices used with respect to the issues considered under subsection (a)(2).
+
+## Source Credit
+
+*([Pub. L. 107–252, title II, § 242](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1688](https://www.govinfo.gov/link/statute/116/1688).)*

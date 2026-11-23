@@ -3,9 +3,10 @@ title: "Section 5365 - Enhanced supervision and prudential standards for nonbank
 usc_title: 12
 usc_section: "5365"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5365"
-generated_at: "2026-03-30T02:53:53.530Z"
+generated_at: "2026-11-23T20:25:59.475Z"
+status: "active"
 ---
 
 # § 5365. Enhanced supervision and prudential standards for nonbank financial companies supervised by the Board of Governors and certain bank holding companies
@@ -147,3 +148,27 @@ generated_at: "2026-03-30T02:53:53.530Z"
     - **(I)** Forward contracts.
     - **(J)** Securities contracts.
     - **(K)** Such other activities or transactions as the Board of Governors may, by rule, define.
+
+In general
+
+Exception
+
+Additional authority
+
+Rule of construction
+
+“Nothing in subsection (a) [amending this section] shall be construed to limit—
+
+“Nothing in this section [amending this section and sections 248, 5325, 5326, 5331, 5345, 5363, and 5364 of this title and enacting provisions set out as notes under this section] shall be construed to—
+
+“Any bank holding company, regardless of asset size, that has been identified as a global systemically important BHC under section 217.402 of title 12, Code of Federal Regulations, shall be considered a bank holding company with total consolidated assets equal to or greater than $250,000,000,000 with respect to the application of standards or requirements under—
+
+“In this Act [see Short Title of 2018 Amendment note set out under section 1601 of Title 15 , Commerce and Trade]:
+
+Appropriate federal banking agency; company; depository institution; depository institution holding company
+
+Bank holding company
+
+## Source Credit
+
+*([Pub. L. 111–203, title I, § 165](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1423](https://www.govinfo.gov/link/statute/124/1423); [Pub. L. 115–174, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/115/public/174), May 24, 2018, [132 Stat. 1356](https://www.govinfo.gov/link/statute/132/1356).)*

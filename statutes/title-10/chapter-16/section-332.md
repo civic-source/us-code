@@ -3,9 +3,10 @@ title: "Section 332 - Friendly foreign countries; international and regional org
 usc_title: 10
 usc_section: "332"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 332"
-generated_at: "2026-03-30T02:53:38.052Z"
+generated_at: "2026-11-23T20:25:50.910Z"
+status: "active"
 ---
 
 # § 332. Friendly foreign countries; international and regional organizations: defense institution capacity building
@@ -30,3 +31,35 @@ generated_at: "2026-03-30T02:53:38.052Z"
   - **(2)** The name of the regional organization and the location and duration of the assignment.
   - **(3)** A description of the assignment, including a description of the training or assistance proposed to be provided to the regional organization, the justification for the assignment, a description of the unique capabilities the advisor or trainer can provide to the regional organization, and a description of how the assignment serves the national security interests of the United States.
   - **(4)** Any other information relating to the assignment that the Secretary of Defense considers appropriate.
+
+Ministry of Defense Advisor Authority
+
+Training of Personnel of Foreign Ministries With Security Missions.—
+
+In general
+
+Notice to congress
+
+Congressional Notice
+
+Initiative
+
+Purpose
+
+Elements
+
+Reports.—
+
+In general
+
+Integration into other capacity building reports
+
+Matters to be included
+
+Sunset
+
+Funding
+
+## Source Credit
+
+*(Added and amended [Pub. L. 114–328, div. A, title XII, § 1241(c)(1)](https://www.govinfo.gov/link/plaw/114/public/328), (2), Dec. 23, 2016, [130 Stat. 2500](https://www.govinfo.gov/link/statute/130/2500); [Pub. L. 115–91, div. A, title XII, § 1204(a)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1642](https://www.govinfo.gov/link/statute/131/1642); [Pub. L. 115–232, div. A, title XII, § 1202](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2016](https://www.govinfo.gov/link/statute/132/2016); [Pub. L. 117–263, div. A, title XII, § 1202(b)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2823](https://www.govinfo.gov/link/statute/136/2823).)*

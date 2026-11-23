@@ -3,9 +3,10 @@ title: "Section 9653 - Annual report"
 usc_title: 22
 usc_section: "9653"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9653"
-generated_at: "2026-03-30T02:55:05.470Z"
+generated_at: "2026-11-23T20:26:32.792Z"
+status: "active"
 ---
 
 # § 9653. Annual report
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:05.470Z"
     - **(B)** the value of private sector assets brought to bear relative to the amount of support provided by the Corporation and the value of any other public sector support;
   - **(4)** to the extent practicable, recommendations for measures that could enhance the strategic goals of projects to adapt to changing circumstances; and
   - **(5)** an assessment of the extent to which lessons learned from the monitoring and evaluation activities of the Corporation, and from annual reports from previous years compiled by the Corporation, have been applied to projects.
+
+## Source Credit
+
+*([Pub. L. 115–254, div. F, title IV, § 1443](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3505](https://www.govinfo.gov/link/statute/132/3505); [Pub. L. 119–60, div. H, title LXXXVII, § 8755](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1966](https://www.govinfo.gov/link/statute/139/1966).)*

@@ -3,12 +3,17 @@ title: "Section 971b - Sale of restored Alaskan lands; preference rights; consen
 usc_title: 43
 usc_section: "971b"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 971b"
-generated_at: "2026-03-30T02:55:57.466Z"
+generated_at: "2026-11-23T20:27:06.268Z"
+status: "active"
 ---
 
 # § 971b. Sale of restored Alaskan lands; preference rights; consent of Federal agency
 
 The Secretary may sell such restored lands for not less than their appraised value, giving an appropriate preference right to the holders of adjoining claims or entries and to owners of adjoining private lands. If such lands are under the jurisdiction of a Federal department or agency other than the Department of the Interior, any sale thereof shall be made only with the consent of such department or agency.
 
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 848, § 2, [70 Stat. 898](https://www.govinfo.gov/link/statute/70/898).)*

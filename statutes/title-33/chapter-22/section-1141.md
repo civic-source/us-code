@@ -3,9 +3,10 @@ title: "Section 1141 - Definitions"
 usc_title: 33
 usc_section: "1141"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1141"
-generated_at: "2026-03-30T02:55:41.081Z"
+generated_at: "2026-11-23T20:26:53.963Z"
+status: "active"
 ---
 
 # § 1141. Definitions
@@ -18,3 +19,7 @@ In this subchapter:
     - **(A)** desires to participate in the commercial fisheries of the United States, including the Great Lakes fisheries;
     - **(B)** has worked as a captain, crew member, or deckhand on a commercial fishing vessel for not more than 10 years of cumulative service; or
     - **(C)** is a beginning commercial fisherman.
+
+## Source Credit
+
+*([Pub. L. 116–289, § 2](https://www.govinfo.gov/link/plaw/116/public/289), Jan. 5, 2021, [134 Stat. 4886](https://www.govinfo.gov/link/statute/134/4886).)*

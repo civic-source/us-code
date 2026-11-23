@@ -3,9 +3,10 @@ title: "Section 1681i - Procedure in case of disputed accuracy"
 usc_title: 15
 usc_section: "1681i"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1681i"
-generated_at: "2026-03-30T02:54:08.151Z"
+generated_at: "2026-11-23T20:26:04.087Z"
+status: "active"
 ---
 
 # § 1681i. Procedure in case of disputed accuracy
@@ -80,3 +81,15 @@ generated_at: "2026-03-30T02:54:08.151Z"
   - **(1)** With respect to a veteran’s medical debt, the veteran may submit a notice described in paragraph (2), proof of liability of the Department of Veterans Affairs for payment of that debt, or documentation that the Department of Veterans Affairs is in the process of making payment for authorized hospital care, medical services, or extended care services rendered to a consumer reporting agency or a reseller to dispute the inclusion of that debt on a consumer report of the veteran.
   - **(2)** The Department of Veterans Affairs shall submit to a veteran a notice that the Department of Veterans Affairs has assumed liability for part or all of a veteran’s medical debt.
   - **(3)** If a consumer reporting agency receives notice, proof of liability, or documentation under paragraph (1), the consumer reporting agency shall delete all information relating to the veteran’s medical debt from the file of the veteran and notify the furnisher and the veteran of that deletion.
+
+Study required
+
+Report required
+
+Considerations
+
+Recommendations
+
+## Source Credit
+
+*([Pub. L. 90–321, title VI, § 611](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 91–508, title VI, § 601](https://www.govinfo.gov/link/plaw/91/public/508), Oct. 26, 1970, [84 Stat. 1132](https://www.govinfo.gov/link/statute/84/1132); amended [Pub. L. 104–208, div. A, title II, § 2409](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–439](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 105–347, § 6(5)](https://www.govinfo.gov/link/plaw/105/public/347), Nov. 2, 1998, [112 Stat. 3211](https://www.govinfo.gov/link/statute/112/3211); [Pub. L. 108–159, title III](https://www.govinfo.gov/link/plaw/108/public/159), §§ 313(a), 314(a), 316, 317, Dec. 4, 2003, [117 Stat. 1994–1996](https://www.govinfo.gov/link/statute/117/1994), 1998; [Pub. L. 111–203, title X, § 1088(a)(2)(C)](https://www.govinfo.gov/link/plaw/111/public/203), (6), July 21, 2010, [124 Stat. 2087](https://www.govinfo.gov/link/statute/124/2087); [Pub. L. 115–174, title III, § 302(b)(3)](https://www.govinfo.gov/link/plaw/115/public/174), May 24, 2018, [132 Stat. 1333](https://www.govinfo.gov/link/statute/132/1333).)*

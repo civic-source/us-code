@@ -3,9 +3,10 @@ title: "Section 1394 - Tax-exempt enterprise zone facility bonds"
 usc_title: 26
 usc_section: "1394"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1394"
-generated_at: "2026-03-30T02:55:27.773Z"
+generated_at: "2026-11-23T20:26:46.108Z"
+status: "active"
 ---
 
 # § 1394. Tax-exempt enterprise zone facility bonds
@@ -75,3 +76,7 @@ generated_at: "2026-03-30T02:55:27.773Z"
   - **(3)** For purposes of this subsection, the term “empowerment zone facility bond” means any bond which would be described in subsection (a) if—
     - **(A)** in the case of obligations issued before January 1, 2002 , only empowerment zones designated under section 1391(g) were taken into account under sections 1397C and 1397D, and
     - **(B)** in the case of obligations issued after December 31, 2001 , all empowerment zones (other than the District of Columbia Enterprise Zone) were taken into account under sections 1397C and 1397D.
+
+## Source Credit
+
+*(Added [Pub. L. 103–66, title XIII, § 13301(a)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 548](https://www.govinfo.gov/link/statute/107/548); amended [Pub. L. 104–188, title I, § 1703(n)(7)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1877](https://www.govinfo.gov/link/statute/110/1877); [Pub. L. 105–34, title IX](https://www.govinfo.gov/link/plaw/105/public/34), §§ 953(a), 955(a), (b), Aug. 5, 1997, [111 Stat. 887](https://www.govinfo.gov/link/statute/111/887), 889, 890; [Pub. L. 106–554, § 1(a)(7) [title I, §§ 115(a), 116(b)(3), (4)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–601, 2763A–603; [Pub. L. 107–147, title IV, § 417(16)](https://www.govinfo.gov/link/plaw/107/public/147), Mar. 9, 2002, [116 Stat. 56](https://www.govinfo.gov/link/statute/116/56); [Pub. L. 113–295, div. A, title II, § 220](https://www.govinfo.gov/link/plaw/113/public/295) (o), (p), Dec. 19, 2014, [128 Stat. 4036](https://www.govinfo.gov/link/statute/128/4036); [Pub. L. 114–113, div. Q, title I, § 171(b)](https://www.govinfo.gov/link/plaw/114/public/113) –(d), Dec. 18, 2015, [129 Stat. 3070](https://www.govinfo.gov/link/statute/129/3070), 3071; [Pub. L. 115–141, div. U, title IV, § 401(a)(195)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1193](https://www.govinfo.gov/link/statute/132/1193).)*

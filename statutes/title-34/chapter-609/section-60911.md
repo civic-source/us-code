@@ -3,9 +3,10 @@ title: "Section 60911 - Definitions"
 usc_title: 34
 usc_section: "60911"
 chapter: 609
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 60911"
-generated_at: "2026-03-30T02:55:33.318Z"
+generated_at: "2026-11-23T20:26:50.676Z"
+status: "active"
 ---
 
 # § 60911. Definitions
@@ -22,3 +23,7 @@ In this chapter:
     - **(B)** previously investigated by a Federal law enforcement entity;
     - **(C)** for which all probative investigative leads have been exhausted; and
     - **(D)** for which no likely perpetrator has been identified.
+
+## Source Credit
+
+*([Pub. L. 117–164, § 12](https://www.govinfo.gov/link/plaw/117/public/164), Aug. 3, 2022, [136 Stat. 1361](https://www.govinfo.gov/link/statute/136/1361).)*

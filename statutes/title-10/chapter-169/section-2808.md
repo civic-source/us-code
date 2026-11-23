@@ -3,9 +3,10 @@ title: "Section 2808 - Construction authority in the event of a declaration of w
 usc_title: 10
 usc_section: "2808"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2808"
-generated_at: "2026-03-30T02:53:38.176Z"
+generated_at: "2026-11-23T20:25:51.718Z"
+status: "active"
 ---
 
 # § 2808. Construction authority in the event of a declaration of war or national emergency
@@ -31,3 +32,21 @@ generated_at: "2026-03-30T02:53:38.176Z"
     - **(E)** The military construction projects, including any ancillary supporting facility projects, whose cancellation, modification, or other cost savings result in funds being available to undertake construction projects using the construction authority described in subsection (a) and the possible impact of the cancellation or modification of such military construction projects on military readiness and the quality of life of members of the armed forces and their dependents.
   - **(2)** In the event of a declaration by the President of a national emergency in which the construction authority described in subsection (a) is used, a construction project to be undertaken using such construction authority may be carried out only after the end of the five-day period beginning on the date the notification required by paragraph (1) is received by the congressional defense committees.
 - **(f)** The authority described in subsection (a) shall terminate with respect to any war or national emergency at the end of the war or national emergency.
+
+Construction Authorized
+
+Conditions on Sources of Funds
+
+Limitation on Amount of Funds Available for National Emergency
+
+Waiver of Other Provisions of Law in Event of National Emergency
+
+Notification Requirement
+
+Termination of Authority
+
+George W. Bush.
+
+## Source Credit
+
+*(Added [Pub. L. 97–214, § 2(a)](https://www.govinfo.gov/link/plaw/97/public/214), July 12, 1982, [96 Stat. 157](https://www.govinfo.gov/link/statute/96/157); amended [Pub. L. 115–91, div. B, title XXVIII, § 2801(a)(6)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1841](https://www.govinfo.gov/link/statute/131/1841); [Pub. L. 116–283, div. B, title XXVIII, § 2801(a)](https://www.govinfo.gov/link/plaw/116/public/283) –(e), Jan. 1, 2021, [134 Stat. 4317–4319](https://www.govinfo.gov/link/statute/134/4317).)*

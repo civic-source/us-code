@@ -3,9 +3,10 @@ title: "Section 1433 - Report of arrival of vessels, vehicles, and aircraft"
 usc_title: 19
 usc_section: "1433"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1433"
-generated_at: "2026-03-30T02:54:24.635Z"
+generated_at: "2026-11-23T20:26:10.759Z"
+status: "active"
 ---
 
 # § 1433. Report of arrival of vessels, vehicles, and aircraft
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:24.635Z"
 - **(e)** Unless otherwise authorized by law, a vessel, aircraft or vehicle after arriving in the United States or Virgin Islands may, but only in accordance with regulations prescribed by the Secretary—
   - **(1)** depart from the port, place, or airport of arrival; or
   - **(2)** discharge any passenger or merchandise (including baggage).
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 433, [46 Stat. 711](https://www.govinfo.gov/link/statute/46/711); [Pub. L. 99–570, title III, § 3112](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–80](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 103–182, title VI, § 652](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2209](https://www.govinfo.gov/link/statute/107/2209); [Pub. L. 106–476, title I, § 1452(a)(1)](https://www.govinfo.gov/link/plaw/106/public/476), Nov. 9, 2000, [114 Stat. 2167](https://www.govinfo.gov/link/statute/114/2167).)*

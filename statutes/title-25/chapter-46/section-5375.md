@@ -3,9 +3,10 @@ title: "Section 5375 - Appeals"
 usc_title: 25
 usc_section: "5375"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 5375"
-generated_at: "2026-03-30T02:54:52.869Z"
+generated_at: "2026-11-23T20:26:25.744Z"
+status: "active"
 ---
 
 # § 5375. Appeals
@@ -14,3 +15,7 @@ Except as provided in section 5366(d) of this title , in any administrative acti
 
   - **(1)** the validity of the grounds for the decision; and
   - **(2)** the consistency of the decision with the requirements and policies of this subchapter.
+
+## Source Credit
+
+*([Pub. L. 93–638, title IV, § 415](https://www.govinfo.gov/link/plaw/93/public/638), as added [Pub. L. 116–180, title I, § 101(e)](https://www.govinfo.gov/link/plaw/116/public/180), Oct. 21, 2020, [134 Stat. 878](https://www.govinfo.gov/link/statute/134/878).)*

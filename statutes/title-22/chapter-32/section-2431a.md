@@ -3,9 +3,10 @@ title: "Section 2431a - Definitions"
 usc_title: 22
 usc_section: "2431a"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2431a"
-generated_at: "2026-03-30T02:55:05.367Z"
+generated_at: "2026-11-23T20:26:32.299Z"
+status: "active"
 ---
 
 # § 2431a. Definitions
@@ -32,3 +33,7 @@ As used in this subchapter:
     - **(B)** all species of the order Hydrocorallina (fire corals and hydrocorals) of the class Hydrozoa.
   - **(11)** The term “coral reef” means any reef or shoal composed primarily of coral.
   - **(12)** The term “coral reef ecosystem” means any coral reef and any coastal marine ecosystem surrounding, or directly related to, a coral reef and important to maintaining the ecological integrity of that coral reef, such as seagrasses, mangroves, sandy seabed communities, and immediately adjacent coastal areas.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. V, § 803, as added [Pub. L. 105–214, § 1](https://www.govinfo.gov/link/plaw/105/public/214), July 29, 1998, [112 Stat. 886](https://www.govinfo.gov/link/statute/112/886); amended [Pub. L. 115–440](https://www.govinfo.gov/link/plaw/115/public/440), §§ 3(b), 4(b), 8(e), 9(b)(1), Jan. 14, 2019, [132 Stat. 5581](https://www.govinfo.gov/link/statute/132/5581), 5583, 5584.)*

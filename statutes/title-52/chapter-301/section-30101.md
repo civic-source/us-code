@@ -3,9 +3,10 @@ title: "Section 30101 - Definitions"
 usc_title: 52
 usc_section: "30101"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "52 U.S.C. § 30101"
-generated_at: "2026-03-30T02:56:30.169Z"
+generated_at: "2026-11-23T20:27:36.992Z"
+status: "active"
 ---
 
 # § 30101. Definitions
@@ -115,3 +116,83 @@ When used in this Act:
       - **(vi)** gifts of a personal nature that had been customarily received by the candidate prior to the beginning of the election cycle; and
       - **(vii)** proceeds from lotteries and similar legal games of chance; and
     - **(C)** a portion of assets that are jointly owned by the candidate and the candidate’s spouse equal to the candidate’s share of the asset under the instrument of conveyance or ownership, but if no specific share is indicated by an instrument of conveyance or ownership, the value of ½ of the property.
+
+(1) such payments are not for the costs of campaign materials or activities used in connection with any broadcasting, newspaper, magazine, billboard, direct mail, or similar type of general public communication or political advertising;
+
+(2) such payments are made from contributions subject to the limitations and prohibitions of this Act; and
+
+(3) such payments are not made from contributions designated to be spent on behalf of a particular candidate or particular candidates;
+
+(1) such payments are not for the costs of campaign materials or activities used in connection with any broadcasting, newspaper, magazine, billboard, direct mail, or similar type of general public communication or political advertising;
+
+(2) such payments are made from contributions subject to the limitations and prohibitions of this Act; and
+
+(3) such payments are not made from contributions designated to be spent on behalf of a particular candidate or candidates;
+
+(1) such payments are not for the costs of campaign materials or activities used in connection with any broadcasting, newspaper, magazine, billboard, direct mail, or similar type of general public communication or political advertising;
+
+(2) such payments are made from contributions subject to the limitations and prohibitions of this Act; and
+
+(3) such payments are not made from contributions designated to be spent on behalf of a particular candidate or particular candidates;
+
+(1) such payments are not for the costs of campaign materials or activities used in connection with any broadcasting, newspaper, magazine, billboard, direct mail, or similar type of general public communication or political advertising;
+
+(2) such payments are made from contributions subject to the limitations and prohibitions of this Act; and
+
+(3) such payments are not made from contributions designated to be spent on behalf of a particular candidate or candidates; and
+
+Independent expenditure
+
+Federal election activity.—
+
+In general
+
+Excluded activity
+
+Generic campaign activity
+
+Public communication
+
+Mass mailing
+
+Telephone bank
+
+Election cycle
+
+Personal funds
+
+General Effective Date.—
+
+In general
+
+Modification of contribution limits
+
+Severability; effective dates and regulations; judicial review
+
+Provisions not to apply to runoff elections
+
+Soft Money of National Political Parties.—
+
+In general
+
+Transitional rules for the spending of soft money of national political parties.—
+
+In general
+
+Use of excess soft money funds.—
+
+In general
+
+Prohibition on using soft money for hard money expenses, debts, and obligations
+
+Prohibition of building fund uses
+
+Regulations.—
+
+In general
+
+Soft money of political parties
+
+## Source Credit
+
+*([Pub. L. 92–225, title III, § 301](https://www.govinfo.gov/link/plaw/92/public/225), Feb. 7, 1972, [86 Stat. 11](https://www.govinfo.gov/link/statute/86/11); [Pub. L. 93–443, title II](https://www.govinfo.gov/link/plaw/93/public/443), §§ 201(a), 208(c)(1), Oct. 15, 1974, [88 Stat. 1272](https://www.govinfo.gov/link/statute/88/1272), 1286; [Pub. L. 94–283, title I](https://www.govinfo.gov/link/plaw/94/public/283), §§ 102, 115(d), (h), May 11, 1976, [90 Stat. 478](https://www.govinfo.gov/link/statute/90/478), 495, 496; [Pub. L. 96–187, title I, § 101](https://www.govinfo.gov/link/plaw/96/public/187), Jan. 8, 1980, [93 Stat. 1339](https://www.govinfo.gov/link/statute/93/1339); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 106–346, § 101(a) [title V, § 502(b)]](https://www.govinfo.gov/link/plaw/106/public/346), Oct. 23, 2000, [114 Stat. 1356](https://www.govinfo.gov/link/statute/114/1356), 1356A–49; [Pub. L. 107–155, title I](https://www.govinfo.gov/link/plaw/107/public/155), §§ 101(b), 103(b)(1), title II, § 211, title III, § 304(c), Mar. 27, 2002, [116 Stat. 85](https://www.govinfo.gov/link/statute/116/85), 87, 92, 100.)*

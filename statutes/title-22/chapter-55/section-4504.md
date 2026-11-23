@@ -3,9 +3,10 @@ title: "Section 4504 - Authority to make payments; purposes"
 usc_title: 22
 usc_section: "4504"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4504"
-generated_at: "2026-03-30T02:55:05.412Z"
+generated_at: "2026-11-23T20:26:32.539Z"
+status: "active"
 ---
 
 # § 4504. Authority to make payments; purposes
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:05.412Z"
   - **(4)** One part of the payments made in each fiscal year shall be used to conduct specialized programs in advanced training and research on a reciprocal basis in the independent states of the former Soviet Union and the countries of Eastern Europe designed to facilitate access for American specialists to research institutes, personnel, archives, documentation, and other research and training resources located in those states and countries.
   - **(5)** One part of the payments made in each fiscal year shall be used to support training in the languages of the independent states of the former Soviet Union and the countries of Eastern Europe. Such payments shall include grants to individuals to pursue such training and to summer language institutes operated by institutions of higher education. Preference shall be given for Russian language studies and, as appropriate, studies of other languages of the independent states of the former Soviet Union.
   - **(6)** Payments may be made to carry out other research and training in studies on the countries of Eastern Europe and the independent states of the former Soviet Union not otherwise described in this section.
+
+## Source Credit
+
+*([Pub. L. 98–164, title VIII, § 805](https://www.govinfo.gov/link/plaw/98/public/164), Nov. 22, 1983, [97 Stat. 1048](https://www.govinfo.gov/link/statute/97/1048); [Pub. L. 103–199, title III, § 302(6)](https://www.govinfo.gov/link/plaw/103/public/199), Dec. 17, 1993, [107 Stat. 2323](https://www.govinfo.gov/link/statute/107/2323).)*

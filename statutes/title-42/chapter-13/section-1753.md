@@ -3,9 +3,10 @@ title: "Section 1753 - Apportionments to States"
 usc_title: 42
 usc_section: "1753"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1753"
-generated_at: "2026-03-30T02:56:11.108Z"
+generated_at: "2026-11-23T20:27:21.844Z"
+status: "active"
 ---
 
 # § 1753. Apportionments to States
@@ -35,3 +36,59 @@ generated_at: "2026-03-30T02:56:11.108Z"
       - **(iii)**
         - **(I)** In the later of the fiscal year in which the implementing regulations described in subparagraph (A)(ii) are promulgated or the fiscal year in which this paragraph is enacted, and in the subsequent fiscal year, the Secretary shall use not more than $50,000,000 of funds made available under section 1752 of this title to make payments to States described in clause (i).
         - **(II)** In providing funds to States under clause (i), the Secretary may reserve not more than $3,000,000 per fiscal year to support Federal administrative activities to carry out this paragraph.
+
+Additional reimbursement.—
+
+Regulations.—
+
+Proposed regulations
+
+Interim or final regulations.—
+
+In general
+
+Date of required compliance
+
+Report to congress
+
+Performance-based reimbursement rate increase
+
+Additional reimbursement.—
+
+In general
+
+Disbursement
+
+Eligible school food authority
+
+Failure to comply
+
+Administrative costs.—
+
+In general
+
+Provision of funds
+
+Funding.—
+
+In general
+
+Reservation
+
+“The provisions of this title shall take effect as follows:
+
+Temporary lunch reimbursement
+
+Temporary breakfast reimbursement
+
+Limitation
+
+Appropriations
+
+In general
+
+Disbursement
+
+## Source Credit
+
+*(June 4, 1946, ch. 281, § 4, [60 Stat. 230](https://www.govinfo.gov/link/statute/60/230); July 12, 1952, ch. 699, § 1(a), [66 Stat. 591](https://www.govinfo.gov/link/statute/66/591); [Pub. L. 87–688, § 3(a)](https://www.govinfo.gov/link/plaw/87/public/688), Sept. 25, 1962, [76 Stat. 587](https://www.govinfo.gov/link/statute/76/587); [Pub. L. 87–823, § 2](https://www.govinfo.gov/link/plaw/87/public/823), Oct. 15, 1962, [76 Stat. 944](https://www.govinfo.gov/link/statute/76/944); [Pub. L. 92–433, § 4(c)](https://www.govinfo.gov/link/plaw/92/public/433), Sept. 26, 1972, [86 Stat. 726](https://www.govinfo.gov/link/statute/86/726); [Pub. L. 93–150, § 2(a)](https://www.govinfo.gov/link/plaw/93/public/150), Nov. 7, 1973, [87 Stat. 560](https://www.govinfo.gov/link/statute/87/560); [Pub. L. 97–35, title VIII](https://www.govinfo.gov/link/plaw/97/public/35), §§ 801(a), 819(g), Aug. 13, 1981, [95 Stat. 521](https://www.govinfo.gov/link/statute/95/521), 533; [Pub. L. 101–147, title III](https://www.govinfo.gov/link/plaw/101/public/147), §§ 301, 312(2), Nov. 10, 1989, [103 Stat. 913](https://www.govinfo.gov/link/statute/103/913), 916; [Pub. L. 111–296, title II, § 201](https://www.govinfo.gov/link/plaw/111/public/296), Dec. 13, 2010, [124 Stat. 3214](https://www.govinfo.gov/link/statute/124/3214).)*

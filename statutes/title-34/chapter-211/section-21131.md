@@ -3,9 +3,10 @@ title: "Section 21131 - Repealed. Pub. L. 119–60, div. H, title LXXXII, § 820
 usc_title: 34
 usc_section: "21131"
 chapter: 211
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 21131"
-generated_at: "2026-03-30T02:55:33.303Z"
+generated_at: "2026-11-23T20:26:50.618Z"
+status: "repealed"
 ---
 
 # § 21131. Repealed. Pub. L. 119–60, div. H, title LXXXII, § 8202(h) , Dec. 18, 2025 , 139 Stat. 1844

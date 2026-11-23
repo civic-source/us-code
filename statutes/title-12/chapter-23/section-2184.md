@@ -3,9 +3,10 @@ title: "Section 2184 - Communications with stockholders"
 usc_title: 12
 usc_section: "2184"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 2184"
-generated_at: "2026-03-30T02:53:53.474Z"
+generated_at: "2026-11-23T20:25:59.244Z"
+status: "active"
 ---
 
 # § 2184. Communications with stockholders
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:53.474Z"
 - **(b)**
   - **(1)** As an alternative to receiving a list of stockholders, a stockholder may request the institution to mail or otherwise furnish to each stockholder a communication for a permissible purpose on behalf of the requesting stockholder.
   - **(2)** Alternative communications may be used, at the discretion of the requesting stockholder, if the requester agrees to defray the reasonable costs of the communication. If the requester decides to exercise this option, the institution shall provide the requester with a written estimate of the costs of handling and mailing the communication as soon as is practicable after receipt of the stockholder’s request to furnish the communication.
+
+## Source Credit
+
+*([Pub. L. 92–181, title IV, § 4](https://www.govinfo.gov/link/plaw/92/public/181).12A, as added [Pub. L. 100–233, title IV, § 420](https://www.govinfo.gov/link/plaw/100/public/233), Jan. 6, 1988, [101 Stat. 1653](https://www.govinfo.gov/link/statute/101/1653); amended [Pub. L. 115–334, title V, § 5411(21)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4681](https://www.govinfo.gov/link/statute/132/4681).)*

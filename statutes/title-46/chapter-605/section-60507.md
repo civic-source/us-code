@@ -3,9 +3,10 @@ title: "Section 60507 - Suspension of free passage through Saint Marys Falls Can
 usc_title: 46
 usc_section: "60507"
 chapter: 605
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 60507"
-generated_at: "2026-03-30T02:56:15.584Z"
+generated_at: "2026-11-23T20:27:27.427Z"
+status: "active"
 ---
 
 # § 60507. Suspension of free passage through Saint Marys Falls Canal
@@ -18,3 +19,45 @@ generated_at: "2026-03-30T02:56:15.584Z"
 - **(d)**
   - **(1)** A toll imposed under this section shall be collected under regulations prescribed by the Secretary of Homeland Security. The Secretary may require the master of a vessel to provide a sworn statement of the amount and kind of cargo, the number of passengers, and the destination of the passengers and cargo.
   - **(2)** When applicable, the Secretary also may require satisfactory proof that the passengers and cargo were landed at a port described in subsection (c)(2). Until that proof is provided, the Secretary may assume the passengers and cargo were not landed at such a port, and the amount of a toll that otherwise would be imposed is a lien enforceable against the vessel when found in the waters of the United States.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 60507(a) | 46 App.:144 (1st par. words before 3d comma). | July 26, 1892, ch. 248 , 27 Stat. 267 . |
+| 60507(b) | 46 App.:144 (1st par. words after 3d comma). |  |
+| 60507(c) | 46 App.:144 (last par.). |  |
+| 60507(d) | 46 App.:145. |  |
+
+
+Purpose
+
+General Authority
+
+Imposition of Toll
+
+In general
+
+Exceptions
+
+Collection of Toll
+
+In general
+
+Proof of landing
+
+Historical and Revision Notes
+
+60507(a)
+
+July 26, 1892, ch. 248
+
+27 Stat. 267
+
+60507(b)
+
+60507(c)
+
+60507(d)
+
+## Source Credit
+
+*([Pub. L. 109–304, § 9(b)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1682](https://www.govinfo.gov/link/statute/120/1682).)*

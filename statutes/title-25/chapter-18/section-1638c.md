@@ -3,9 +3,10 @@ title: "Section 1638c - Contracts for personal services in Indian Health Service
 usc_title: 25
 usc_section: "1638c"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1638c"
-generated_at: "2026-03-30T02:54:52.823Z"
+generated_at: "2026-11-23T20:26:25.496Z"
+status: "active"
 ---
 
 # § 1638c. Contracts for personal services in Indian Health Service facilities
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:52.823Z"
 - **(c)** consideration of individuals and organizations shall be based solely on the qualifications established for the contract and the proposed contract price; and
 - **(d)** individuals providing health care services pursuant to these contracts are covered by the Federal Tort Claims Act.
 
+
+## Source Credit
+
+*([Pub. L. 103–332, title II](https://www.govinfo.gov/link/plaw/103/public/332), Sept. 30, 1994, [108 Stat. 2530](https://www.govinfo.gov/link/statute/108/2530).)*

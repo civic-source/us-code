@@ -3,9 +3,10 @@ title: "Section 13664 - Definitions"
 usc_title: 42
 usc_section: "13664"
 chapter: 135
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13664"
-generated_at: "2026-03-30T02:56:11.450Z"
+generated_at: "2026-11-23T20:27:23.515Z"
+status: "active"
 ---
 
 # § 13664. Definitions
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.450Z"
     - **(H)** in housing insured, assisted, or held by the Secretary or a State or State agency under section 1715z–1 of title 12 ; or
     - **(I)** in housing assisted under section 1484 or 1485 of this title.
   - **(3)** The term “owner” means, with respect to federally assisted housing, the entity or private person (including a cooperative or public housing agency) that has the legal right to lease or sublease dwelling units in such housing.
+
+## Source Credit
+
+*([Pub. L. 105–276, title V, § 579](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2642](https://www.govinfo.gov/link/statute/112/2642).)*

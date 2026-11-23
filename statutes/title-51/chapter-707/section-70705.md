@@ -3,9 +3,10 @@ title: "Section 70705 - Powers of Commission"
 usc_title: 51
 usc_section: "70705"
 chapter: 707
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 70705"
-generated_at: "2026-03-30T02:56:28.713Z"
+generated_at: "2026-11-23T20:27:37.539Z"
+status: "active"
 ---
 
 # § 70705. Powers of Commission
@@ -21,3 +22,42 @@ generated_at: "2026-03-30T02:56:28.713Z"
   - **(1)** The Administrator of General Services shall provide to a Commission on a reimbursable basis administrative support and other services for the performance of the Commission’s tasks.
   - **(2)** In addition to the assistance prescribed in paragraph (1), departments and agencies of the United States may provide to the Commission such services, funds, facilities, staff, and other support services as they may determine advisable and as may be authorized by law.
   - **(3)** The Administration Engineering and Safety Center shall provide data and technical support as requested by the Commission.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 70705 | 42 U.S.C. 16845 . | Pub. L. 109–155, title VIII, § 825 , Dec. 30, 2005 , 119 Stat. 2942 . |
+
+
+Hearings and Evidence
+
+Contracting
+
+Information From Federal Agencies.—
+
+In general
+
+Receipt, handling, storage, and dissemination
+
+Assistance From Federal Agencies.—
+
+General services administration
+
+Other departments and agencies
+
+Administration engineering and safety center
+
+Historical and Revision Notes
+
+70705
+
+42 U.S.C. 16845
+
+Pub. L. 109–155, title VIII, § 825
+
+Dec. 30, 2005
+
+119 Stat. 2942
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3433](https://www.govinfo.gov/link/statute/124/3433).)*

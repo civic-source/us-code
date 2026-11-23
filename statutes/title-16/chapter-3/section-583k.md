@@ -3,9 +3,10 @@ title: "Section 583k - Findings"
 usc_title: 16
 usc_section: "583k"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 583k"
-generated_at: "2026-03-30T02:54:22.881Z"
+generated_at: "2026-11-23T20:26:20.172Z"
+status: "active"
 ---
 
 # § 583k. Findings
@@ -17,3 +18,7 @@ Congress finds as follows:
   - **(3)** The lack of maintenance on National Forest System trails threatens access to public lands, and may cause increased environmental damage, threaten public safety, and increase future maintenance costs.
   - **(4)** Federal budget limitations require solutions to National Forest System trail maintenance issues that make more efficient use of existing resources.
   - **(5)** Volunteers, partners, and outfitters and guides play an important role in maintaining National Forest System trails, and a comprehensive strategy is needed to ensure that volunteers and partners are used as effectively as possible.
+
+## Source Credit
+
+*([Pub. L. 114–245, § 2](https://www.govinfo.gov/link/plaw/114/public/245), Nov. 28, 2016, [130 Stat. 990](https://www.govinfo.gov/link/statute/130/990).)*

@@ -3,9 +3,10 @@ title: "Section 669e - Submission and approval of plans and projects"
 usc_title: 16
 usc_section: "669e"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 669e"
-generated_at: "2026-03-30T02:54:22.891Z"
+generated_at: "2026-11-23T20:26:20.215Z"
+status: "active"
 ---
 
 # § 669e. Submission and approval of plans and projects
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:22.891Z"
   - **(2)** A State may elect to avail itself of the benefits of this chapter by its State fish and game department submitting to the Secretary of the Interior full and detailed statements of any wildlife-restoration project proposed for that State. If the Secretary of the Interior finds that such project meets with the standards set by him and approves said project, the State fish and game department shall furnish to him such surveys, plans, specifications, and estimates therefor as he may require. If the Secretary of the Interior approves the plans, specifications, and estimates for the project, he shall notify the State fish and game department and immediately set aside so much of said fund as represents the share of the United States payable under this chapter on account of such project, which sum so set aside shall not exceed 75 per centum of the total estimated cost thereof. The Secretary of the Interior shall approve only such comprehensive plans or projects as may be substantial in character and design and the expenditure of funds hereby authorized shall be applied only to such approved comprehensive wildlife plans or projects and if otherwise applied they shall be replaced by the State before it may participate in any further apportionment under this chapter. No payment of any money apportioned under this chapter shall be made on any comprehensive wildlife plan or project until an agreement to participate therein shall have been submitted to and approved by the Secretary of the Interior.
 - **(b)** If the State elects to avail itself of the benefits of this chapter by preparing a comprehensive fish and wildlife plan under option (1) of subsection (a) of this section, then the term “project” may be defined for the purposes of this chapter as a wildlife program, all other definitions notwithstanding.
 - **(c)** Administrative costs in the form of overhead or indirect costs for services provided by State central service activities outside of the State agency having primary jurisdiction over the wildlife resources of the State which may be charged against programs or projects supported by the fund established by section 669b of this title shall not exceed in any one fiscal year 3 per centum of the annual apportionment to the State.
+
+## Source Credit
+
+*(Sept. 2, 1937, ch. 899, § 6, [50 Stat. 918](https://www.govinfo.gov/link/statute/50/918); 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433](https://www.govinfo.gov/link/statute/53/1433); [Pub. L. 91–503, title I, § 102](https://www.govinfo.gov/link/plaw/91/public/503), Oct. 23, 1970, [84 Stat. 1099](https://www.govinfo.gov/link/statute/84/1099).)*

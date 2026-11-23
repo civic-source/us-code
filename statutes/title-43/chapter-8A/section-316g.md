@@ -3,9 +3,10 @@ title: "Section 316g - Grazing fees"
 usc_title: 43
 usc_section: "316g"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 316g"
-generated_at: "2026-03-30T02:55:57.437Z"
+generated_at: "2026-11-23T20:27:06.179Z"
+status: "active"
 ---
 
 # § 316g. Grazing fees
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:57.437Z"
   - **(3)** Be fixed with due regard to the general economic value of the grazing privileges, and in no case shall exceed such value; and
   - **(4)** Be moderate.
 - **(b)** If the Secretary determines such action to be for the public interest by reason of (1) depletion or destruction of the range by any cause beyond the control of the lessee, or (2) calamity or disease causing wholesale destruction of or injury to livestock, he may grant an extension of time for making payment of any grazing fee undue any lease, reduce the amount of any such payment, or release or discharge the lessee from making such payment.
+
+## Source Credit
+
+*(Mar. 4, 1927, ch. 513, § 8, [44 Stat. 1453](https://www.govinfo.gov/link/statute/44/1453).)*

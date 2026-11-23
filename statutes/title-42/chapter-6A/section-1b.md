@@ -3,9 +3,10 @@ title: "Section 1b - Use of allotments for rape prevention education"
 usc_title: 42
 usc_section: "1b"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1b"
-generated_at: "2026-03-30T02:56:10.726Z"
+generated_at: "2026-11-23T20:27:20.143Z"
+status: "active"
 ---
 
 # § 280b–1b. Use of allotments for rape prevention education
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:56:10.726Z"
   - **(2)** A State may not use more than 2 percent of the amount received by the State under this section for each fiscal year for surveillance studies or prevalence studies.
   - **(3)** A State may not use more than 5 percent of the amount received by the State under this section for each fiscal year for administrative expenses.
 - **(f)** Not later than 1 year after March 15, 2022 , the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall submit to the Committee on Appropriations, the Committee on Energy and Commerce, and the Committee on the Judiciary of the House of Representatives and the Committee on Appropriations, the Committee on Health, Education, Labor, and Pensions, and the Committee on the Judiciary of the Senate a report on the activities funded by grants awarded under this section and best practices relating to rape prevention and education.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 393A, formerly § 393B, as added [Pub. L. 106–386, div. B, title IV, § 1401(a)](https://www.govinfo.gov/link/plaw/106/public/386), Oct. 28, 2000, [114 Stat. 1512](https://www.govinfo.gov/link/statute/114/1512); amended [Pub. L. 109–162, title III, § 302](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3004](https://www.govinfo.gov/link/statute/119/3004); renumbered § 393C, [Pub. L. 110–202, § 2(1)](https://www.govinfo.gov/link/plaw/110/public/202), Apr. 23, 2008, [122 Stat. 697](https://www.govinfo.gov/link/statute/122/697); renumbered § 393A, [Pub. L. 110–206, § 2(1)](https://www.govinfo.gov/link/plaw/110/public/206), Apr. 28, 2008, [122 Stat. 714](https://www.govinfo.gov/link/statute/122/714); [Pub. L. 113–4, title III, § 301](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 84](https://www.govinfo.gov/link/statute/127/84); [Pub. L. 117–103, div. W, title III, § 301](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 863](https://www.govinfo.gov/link/statute/136/863).)*

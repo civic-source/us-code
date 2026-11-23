@@ -3,9 +3,10 @@ title: "Section 2672 - Protection of buildings, grounds, property, and persons"
 usc_title: 10
 usc_section: "2672"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2672"
-generated_at: "2026-03-30T02:53:38.169Z"
+generated_at: "2026-11-23T20:25:51.646Z"
+status: "active"
 ---
 
 # § 2672. Protection of buildings, grounds, property, and persons
@@ -48,3 +49,77 @@ generated_at: "2026-03-30T02:53:38.169Z"
   - **(4)** to affect chapter 47 of this title;
   - **(5)** to restrict any other authority of the Secretary of Defense or the Secretary of a military department; or
   - **(6)** to restrict the authority of the Director of the National Security Agency under section 11 of the National Security Agency Act of 1959 ( 50 U.S.C. 3609 ).
+
+Secretary of Defense Responsibility
+
+Designation of Officers and Agents
+
+Authorized Activities
+
+Regulations
+
+Limitation on Delegation of Authority
+
+Disposition of Persons Arrested
+
+Facilities and Services of Other Agencies
+
+Authority Outside Federal Property
+
+Attorney General Approval
+
+Limitation With Regard to Other Federal Agencies
+
+Cooperation With Local Law Enforcement Agencies
+
+Limitation on Statutory Construction
+
+Establishment
+
+Elements
+
+Participation.—
+
+Voluntary participation
+
+Location of participants
+
+Plan
+
+Selection of Installations
+
+Effect on Existing Policies
+
+Report
+
+Termination
+
+Standardized Credentials Required
+
+Defense Law Enforcement Officer Defined
+
+Requirement
+
+Notification of Inapplicable Recommendations.—
+
+In general
+
+Identification and justification
+
+Policy Required
+
+Consultation
+
+Regulations.—
+
+In general
+
+Best practices
+
+Exclusions
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 114–92, div. B, title XXVIII, § 2811(a)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 1172](https://www.govinfo.gov/link/statute/129/1172).)*

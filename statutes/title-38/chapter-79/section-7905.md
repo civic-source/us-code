@@ -3,12 +3,17 @@ title: "Section 7905 - Requirement of honorable discharge for veterans receiving
 usc_title: 38
 usc_section: "7905"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7905"
-generated_at: "2026-03-30T02:55:53.536Z"
+generated_at: "2026-11-23T20:27:02.056Z"
+status: "active"
 ---
 
 # § 7905. Requirement of honorable discharge for veterans receiving assistance
 
 No veteran shall receive financial assistance under this chapter unless the veteran was discharged from the Armed Forces under honorable conditions.
 
+
+## Source Credit
+
+*(Added [Pub. L. 109–461, title IX, § 903(a)(1)](https://www.govinfo.gov/link/plaw/109/public/461), Dec. 22, 2006, [120 Stat. 3464](https://www.govinfo.gov/link/statute/120/3464).)*

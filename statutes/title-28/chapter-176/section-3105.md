@@ -3,9 +3,10 @@ title: "Section 3105 - Sequestration"
 usc_title: 28
 usc_section: "3105"
 chapter: 176
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 3105"
-generated_at: "2026-03-30T02:55:30.152Z"
+generated_at: "2026-11-23T20:26:36.544Z"
+status: "active"
 ---
 
 # § 3105. Sequestration
@@ -49,3 +50,29 @@ generated_at: "2026-03-30T02:55:30.152Z"
 - **(i)**
   - **(1)** On entry of judgment for the United States, the court shall order the sequestered income to be applied to the satisfaction of the judgment.
   - **(2)** If the sequestration is vacated or if the judgment on the claim for the debt is for the person against whom the writ of sequestration is issued, the court shall order the income restored to the debtor.
+
+Property Subject to Sequestration
+
+Availability of Sequestration
+
+Issuance of Writ; Contents
+
+Execution of Writ
+
+Deposit of Sequestered Income
+
+Return of Writ; Duties of Marshal; Further Return
+
+Reduction or Dissolution of Sequestration
+
+Preservation of Income Under Sequester
+
+Judgment and Disposition of Sequestered Income.—
+
+Judgment for the united states
+
+Restoration of income
+
+## Source Credit
+
+*(Added [Pub. L. 101–647, title XXXVI, § 3611](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4946](https://www.govinfo.gov/link/statute/104/4946).)*

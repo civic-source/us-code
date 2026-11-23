@@ -3,9 +3,10 @@ title: "Section 51313 - Advisory Board"
 usc_title: 46
 usc_section: "51313"
 chapter: 513
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 51313"
-generated_at: "2026-03-30T02:56:15.570Z"
+generated_at: "2026-11-23T20:27:27.287Z"
+status: "active"
 ---
 
 # § 51313. Advisory Board
@@ -14,3 +15,38 @@ generated_at: "2026-03-30T02:56:15.570Z"
 - **(b)** The Board shall be composed of not more than 7 individuals appointed by the Secretary of Transportation. The individuals must be distinguished in education and other fields related to the Academy. Members of the Board shall be appointed for terms of not more than 3 years and may be reappointed. The Secretary shall designate one of the members as chairman.
 - **(c)** When serving away from home or regular place of business, a member of the Board shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 .
 - **(d)** Chapter 10 of title 5 does not apply to the Board.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 51313 | 46 App.:1295b(i). | June 29, 1936, ch. 858 , title XIII, § 1303(i), as added Pub. L. 96–453, § 2 , Oct. 15, 1980 , 94 Stat. 2002 ; Pub. L. 97–31, § 12(144)(C) , Aug. 6, 1981 , 95 Stat. 166 . |
+
+
+In General
+
+Appointment and Terms
+
+Travel Expenses
+
+Relationship to Other Law
+
+Historical and Revision Notes
+
+51313
+
+June 29, 1936, ch. 858
+
+Pub. L. 96–453, § 2
+
+Oct. 15, 1980
+
+94 Stat. 2002
+
+Pub. L. 97–31, § 12(144)(C)
+
+Aug. 6, 1981
+
+95 Stat. 166
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(b)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1576](https://www.govinfo.gov/link/statute/120/1576); [Pub. L. 117–286, § 4(a)(292)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4338](https://www.govinfo.gov/link/statute/136/4338).)*

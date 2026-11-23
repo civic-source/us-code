@@ -3,9 +3,10 @@ title: "Section 1511b - United States fishery trade officers"
 usc_title: 15
 usc_section: "1511b"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1511b"
-generated_at: "2026-03-30T02:54:08.136Z"
+generated_at: "2026-11-23T20:26:04.013Z"
+status: "active"
 ---
 
 # § 1511b. United States fishery trade officers
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:08.136Z"
   - **(4)** to prepare weekly statements regarding the prices for each fishery product for which there may be United States export potential to the foreign nation or area concerned; and
   - **(5)** to carry out such other functions as the Secretary may require.
 - **(d)** The Secretary of State and the Secretary shall enter into cooperative arrangements concerning the provision of office space, equipment, facilities, clerical services, and such other administrative support as may be required for fishery trade officers and their families.
+
+## Source Credit
+
+*([Pub. L. 96–561, title II, § 211](https://www.govinfo.gov/link/plaw/96/public/561), Dec. 22, 1980, [94 Stat. 3290](https://www.govinfo.gov/link/statute/94/3290).)*

@@ -3,9 +3,10 @@ title: "Section 16432 - Study on the benefits of economic dispatch"
 usc_title: 42
 usc_section: "16432"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16432"
-generated_at: "2026-03-30T02:56:11.486Z"
+generated_at: "2026-11-23T20:27:23.685Z"
+status: "active"
 ---
 
 # § 16432. Study on the benefits of economic dispatch
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.486Z"
   - **(3)** the potential benefits to residential, commercial, and industrial electricity consumers nationally and in each State if economic dispatch procedures were revised to improve the ability of nonutility generation resources to offer their output for inclusion in economic dispatch.
 - **(b)** The term “economic dispatch” when used in this section means the operation of generation facilities to produce energy at the lowest cost to reliably serve consumers, recognizing any operational limits of generation and transmission facilities.
 - **(c)** Not later than 90 days after August 8, 2005 , and on a yearly basis following, the Secretary shall submit a report to Congress and the States on the results of the study conducted under subsection (a), including recommendations to Congress and the States for any suggested legislative or regulatory changes.
+
+## Source Credit
+
+*([Pub. L. 109–58, title XII, § 1234](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 960](https://www.govinfo.gov/link/statute/119/960).)*

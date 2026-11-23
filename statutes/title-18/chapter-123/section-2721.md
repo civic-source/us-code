@@ -3,9 +3,10 @@ title: "Section 2721 - Prohibition on release and use of certain personal inform
 usc_title: 18
 usc_section: "2721"
 chapter: 123
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2721"
-generated_at: "2026-03-30T02:54:16.509Z"
+generated_at: "2026-11-23T20:26:08.636Z"
+status: "active"
 ---
 
 # § 2721. Prohibition on release and use of certain personal information from State motor vehicle records
@@ -33,3 +34,17 @@ generated_at: "2026-03-30T02:54:16.509Z"
 - **(c)** An authorized recipient of personal information (except a recipient under subsection (b)(11) or (12)) may resell or redisclose the information only for a use permitted under subsection (b) (but not for uses under subsection (b)(11) or (12)). An authorized recipient under subsection (b)(11) may resell or redisclose personal information for any purpose. An authorized recipient under subsection (b)(12) may resell or redisclose personal information pursuant to subsection (b)(12). Any authorized recipient (except a recipient under subsection (b)(11)) that resells or rediscloses personal information covered by this chapter must keep for a period of 5 years records identifying each person or entity that receives information and the permitted purpose for which the information will be used and must make such records available to the motor vehicle department upon request.
 - **(d)** A State motor vehicle department may establish and carry out procedures under which the department or its agents, upon receiving a request for personal information that does not fall within one of the exceptions in subsection (b), may mail a copy of the request to the individual about whom the information was requested, informing such individual of the request, together with a statement to the effect that the information will not be released unless the individual waives such individual’s right to privacy under this section.
 - **(e)** No State may condition or burden in any way the issuance of an individual’s motor vehicle record as defined in 18 U.S.C. 2725(1) to obtain express consent. Nothing in this paragraph shall be construed to prohibit a State from charging an administrative fee for issuance of a motor vehicle record.
+
+In General
+
+Permissible Uses
+
+Resale or Redisclosure
+
+Waiver Procedures
+
+Prohibition on Conditions
+
+## Source Credit
+
+*(Added [Pub. L. 103–322, title XXX, § 300002(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2099](https://www.govinfo.gov/link/statute/108/2099); amended [Pub. L. 104–287, § 1](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3388](https://www.govinfo.gov/link/statute/110/3388); [Pub. L. 104–294, title VI, § 604(b)(46)](https://www.govinfo.gov/link/plaw/104/public/294), Oct. 11, 1996, [110 Stat. 3509](https://www.govinfo.gov/link/statute/110/3509); [Pub. L. 106–69, title III, § 350(c)](https://www.govinfo.gov/link/plaw/106/public/69), (d), Oct. 9, 1999, [113 Stat. 1025](https://www.govinfo.gov/link/statute/113/1025); [Pub. L. 106–346, § 101(a) [title III, § 309(c)–(e)]](https://www.govinfo.gov/link/plaw/106/public/346), Oct. 23, 2000, [114 Stat. 1356](https://www.govinfo.gov/link/statute/114/1356), 1356A–24.)*

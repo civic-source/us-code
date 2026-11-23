@@ -3,12 +3,17 @@ title: "Section 681 - Erection of fence by South Dakota for game animal and bird
 usc_title: 16
 usc_section: "681"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 681"
-generated_at: "2026-03-30T02:54:22.894Z"
+generated_at: "2026-11-23T20:26:20.225Z"
+status: "active"
 ---
 
 # § 681. Erection of fence by South Dakota for game animal and bird refuge
 
 The State of South Dakota is authorized and permitted to erect and maintain a good, substantial fence inclosing in whole or in part such areas as may be designated and set aside by the President under the authority of section 680 of this title . The State shall erect and maintain such gates in this fence as may be required by the authorized agents of the Federal Government in the administration of the National forest lands embraced therein, or to provide ingress and egress to persons occupying lands within said inclosure. The right of the State to maintain said fence shall continue so long as the area designated by the President shall be given protection by the laws of the State of South Dakota as a game refuge.
 
+
+## Source Credit
+
+*(June 7, 1924, ch. 326, § 2, [43 Stat. 634](https://www.govinfo.gov/link/statute/43/634).)*

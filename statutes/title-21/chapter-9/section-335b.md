@@ -3,9 +3,10 @@ title: "Section 335b - Civil penalties"
 usc_title: 21
 usc_section: "335b"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 335b"
-generated_at: "2026-03-30T02:54:54.219Z"
+generated_at: "2026-11-23T20:26:27.513Z"
+status: "active"
 ---
 
 # § 335b. Civil penalties
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:54:54.219Z"
 - **(e)** The Secretary may award to any individual (other than an officer or employee of the Federal Government or a person who materially participated in any conduct described in subsection (a)) who provides information leading to the imposition of a civil penalty under this section an amount not to exceed—
   - **(1)** $250,000, or
   - **(2)** one-half of the penalty so imposed and collected,
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 307, as added [Pub. L. 102–282, § 3](https://www.govinfo.gov/link/plaw/102/public/282), May 13, 1992, [106 Stat. 159](https://www.govinfo.gov/link/statute/106/159); amended [Pub. L. 103–80, § 3(g)](https://www.govinfo.gov/link/plaw/103/public/80), Aug. 13, 1993, [107 Stat. 776](https://www.govinfo.gov/link/statute/107/776).)*

@@ -3,9 +3,10 @@ title: "Section 6050K - Returns relating to exchanges of certain partnership int
 usc_title: 26
 usc_section: "6050K"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6050K"
-generated_at: "2026-03-30T02:55:27.834Z"
+generated_at: "2026-11-23T20:26:46.533Z"
+status: "active"
 ---
 
 # § 6050K. Returns relating to exchanges of certain partnership interests
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:27.834Z"
 - **(c)**
   - **(1)** In the case of any exchange described in subsection (a), the transferor of the partnership interest shall promptly notify the partnership of such exchange.
   - **(2)** A partnership shall not be required to make a return under this section with respect to any exchange until the partnership is notified of such exchange.
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title I, § 149(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 689](https://www.govinfo.gov/link/statute/98/689); amended [Pub. L. 99–514, title XV, § 1501(c)(13)](https://www.govinfo.gov/link/plaw/99/public/514), title XVIII, § 1811(b)(2), Oct. 22, 1986, [100 Stat. 2739](https://www.govinfo.gov/link/statute/100/2739), 2833; [Pub. L. 104–168, title XII, § 1201(a)(11)](https://www.govinfo.gov/link/plaw/104/public/168), July 30, 1996, [110 Stat. 1470](https://www.govinfo.gov/link/statute/110/1470).)*

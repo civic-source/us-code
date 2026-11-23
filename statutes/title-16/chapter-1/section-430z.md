@@ -3,12 +3,17 @@ title: "Section 430z - Monument within park; construction authorized"
 usc_title: 16
 usc_section: "430z"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 430z"
-generated_at: "2026-03-30T02:54:22.797Z"
+generated_at: "2026-11-23T20:26:19.844Z"
+status: "active"
 ---
 
 # § 430z. Monument within park; construction authorized
 
 There is authorized to be located and constructed within said memorial park a suitable monument or memorial to commemorate the patriotic services of the American forces in the War with Spain. The cost of establishing such monument or memorial, of constructing suitable sidewalks and approaches, and of landscaping such site, may be paid from any fund or moneys available for such purpose, except from the general fund of the Treasury; and the Secretary is for that purpose further authorized and empowered to determine upon a suitable location, plan, and design for said monument or memorial, by and with the advice of the National Commission of Fine Arts.
 
+
+## Source Credit
+
+*(Aug. 20, 1935, ch. 575, § 2, [49 Stat. 661](https://www.govinfo.gov/link/statute/49/661).)*

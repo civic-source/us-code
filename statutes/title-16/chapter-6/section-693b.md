@@ -3,12 +3,17 @@ title: "Section 693b - Robert S. Kerr Memorial Arboretum and Nature Center in Ou
 usc_title: 16
 usc_section: "693b"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 693b"
-generated_at: "2026-03-30T02:54:22.895Z"
+generated_at: "2026-11-23T20:26:20.229Z"
+status: "active"
 ---
 
 # § 693b. Robert S. Kerr Memorial Arboretum and Nature Center in Ouachita National Forest; authority to establish
 
 In order to preserve, develop, and make available to this and future generations the opportunity to advance themselves morally, intellectually, and spiritually by learning about nature and to promote, demonstrate, and stimulate interest in and knowledge of the management of forest lands under principles of multiple use and sustained yield and the development and progress of management of forest lands in America, the Secretary of Agriculture is hereby authorized to establish the Robert S. Kerr Memorial Arboretum and Nature Center in the Ouachita National Forest. As soon as possible after June 4, 1968 , the Secretary of Agriculture shall publish notice of the designation thereof in the Federal Register, together with an appropriate legal description of the property. A map showing the location of the designated arboretum and center shall be on file and available for public inspection in the office of the Chief, Forest Service, Department of Agriculture.
 
+
+## Source Credit
+
+*([Pub. L. 90–327, § 1](https://www.govinfo.gov/link/plaw/90/public/327), June 4, 1968, [82 Stat. 169](https://www.govinfo.gov/link/statute/82/169).)*

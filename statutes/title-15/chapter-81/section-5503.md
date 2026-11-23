@@ -3,9 +3,10 @@ title: "Section 5503 - Definitions"
 usc_title: 15
 usc_section: "5503"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 5503"
-generated_at: "2026-03-30T02:54:08.207Z"
+generated_at: "2026-11-23T20:26:04.372Z"
+status: "active"
 ---
 
 # § 5503. Definitions
@@ -21,3 +22,7 @@ As used in this chapter, the term—
   - **(7)** “participating agency” means an agency described in section 5511(a)(3)(C) of this title ;
   - **(8)** “Program” means the Networking and Information Technology Research and Development Program described in section 5511 of this title ; and
   - **(9)** “Program Component Areas” means the major subject areas under which related individual projects and activities carried out under the Program are grouped.
+
+## Source Credit
+
+*([Pub. L. 102–194, § 4](https://www.govinfo.gov/link/plaw/102/public/194), Dec. 9, 1991, [105 Stat. 1595](https://www.govinfo.gov/link/statute/105/1595); [Pub. L. 105–305, § 7(b)](https://www.govinfo.gov/link/plaw/105/public/305), Oct. 28, 1998, [112 Stat. 2924](https://www.govinfo.gov/link/statute/112/2924); [Pub. L. 110–69, title VII, § 7024(a)(2)](https://www.govinfo.gov/link/plaw/110/public/69), Aug. 9, 2007, [121 Stat. 689](https://www.govinfo.gov/link/statute/121/689); [Pub. L. 114–329, title I, § 105(d)](https://www.govinfo.gov/link/plaw/114/public/329), Jan. 6, 2017, [130 Stat. 2977](https://www.govinfo.gov/link/statute/130/2977).)*

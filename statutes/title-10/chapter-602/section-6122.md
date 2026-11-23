@@ -3,9 +3,10 @@ title: "Section 6122 - Manufacturing infrastructure for refabrication and certif
 usc_title: 10
 usc_section: "6122"
 chapter: 602
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6122"
-generated_at: "2026-03-30T02:53:38.219Z"
+generated_at: "2026-11-23T20:25:52.012Z"
+status: "active"
 ---
 
 # § 6122. Manufacturing infrastructure for refabrication and certification of nuclear weapons stockpile
@@ -24,3 +25,11 @@ generated_at: "2026-03-30T02:53:38.219Z"
   - **(3)** The capabilities of the Savannah River Site relating to tritium recycling and processing.
   - **(4)** The fissile material component processing and fabrication capabilities of the Savannah River Plutonium Processing Facility and the Los Alamos National Laboratory.
   - **(5)** The non-nuclear component capabilities of the Kansas City National Security Campus, Kansas City, Missouri.
+
+Manufacturing Program
+
+Required Capabilities
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2)(B), Dec. 18, 2025, [139 Stat. 1358](https://www.govinfo.gov/link/statute/139/1358), 1462.)*

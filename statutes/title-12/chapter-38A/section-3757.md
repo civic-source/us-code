@@ -3,9 +3,10 @@ title: "Section 3757 - Notice of default and foreclosure sale"
 usc_title: 12
 usc_section: "3757"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 3757"
-generated_at: "2026-03-30T02:53:53.497Z"
+generated_at: "2026-11-23T20:25:59.349Z"
+status: "active"
 ---
 
 # § 3757. Notice of default and foreclosure sale
@@ -26,3 +27,7 @@ The notice of default and foreclosure sale to be served in accordance with this 
   - **(9)** a description of the types of costs, if any, to be paid by the purchaser upon transfer of title;
   - **(10)** the amount and method of deposit to be required at the foreclosure sale (except that no deposit shall be required of the Secretary) and the time and method of payment of the balance of the foreclosure purchase price; and
   - **(11)** any other appropriate terms of sale or information, as the Secretary may determine.
+
+## Source Credit
+
+*([Pub. L. 103–327, title II](https://www.govinfo.gov/link/plaw/103/public/327), Sept. 28, 1994, [108 Stat. 2316](https://www.govinfo.gov/link/statute/108/2316).)*

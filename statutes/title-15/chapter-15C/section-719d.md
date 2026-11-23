@@ -3,9 +3,10 @@ title: "Section 719d - Federal and State officer or agency and other interested 
 usc_title: 15
 usc_section: "719d"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 719d"
-generated_at: "2026-03-30T02:54:08.119Z"
+generated_at: "2026-11-23T20:26:03.910Z"
+status: "active"
 ---
 
 # § 719d. Federal and State officer or agency and other interested persons’ reports
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:08.119Z"
 - **(b)** Not later than July 1, 1977 , the Governor of any State, any municipality, State utility commission, and any other interested person may submit to the President such written comments with respect to the recommendation and report of the Commission and alternative systems for delivering Alaska natural gas to the contiguous States as they determine to be appropriate.
 - **(c)** Not later than July 1, 1977 , each Federal officer or agency shall report to the President with respect to actions to be taken by such officer or agency under section 719g(a) of this title relative to each transportation system reported on by the Commission under section 719c(c) of this title and shall include such officer’s or agency’s recommendations with respect to any provision of law to be waived pursuant to section 719f(g) of this title in conjunction with any decision of the President which designates a system for approval.
 - **(d)** Following receipt by the President of the Commission’s recommendations, the Council on Environmental Quality shall afford interested persons an opportunity to present oral and written data, views, and arguments respecting the environmental impact statements submitted by the Commission under section 719c(e) of this title . Not later than July 1, 1977 , the Council on Environmental Quality shall submit to the President a report, which shall be contemporaneously made available by the Council to the public, summarizing any data, views, and arguments received and setting forth the Council’s views concerning the legal and factual sufficiency of each such environmental impact statement and other matters related to environmental impact as the Council considers to be relevant.
+
+## Source Credit
+
+*([Pub. L. 94–586, § 6](https://www.govinfo.gov/link/plaw/94/public/586), Oct. 22, 1976, [90 Stat. 2906](https://www.govinfo.gov/link/statute/90/2906).)*

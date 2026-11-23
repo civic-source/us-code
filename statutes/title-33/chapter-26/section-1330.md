@@ -3,9 +3,10 @@ title: "Section 1330 - National estuary program"
 usc_title: 33
 usc_section: "1330"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1330"
-generated_at: "2026-03-30T02:55:41.100Z"
+generated_at: "2026-11-23T20:26:54.050Z"
+status: "active"
 ---
 
 # § 1330. National estuary program
@@ -79,3 +80,19 @@ generated_at: "2026-03-30T02:55:41.100Z"
     - **(C)** a discussion of pollution problems and trends in pollutant concentrations with a direct or indirect effect on water quality, the ecosystem, and designated or potential uses of each estuarine zone, to the extent evaluated under this subsection; and
     - **(D)** an evaluation of pollution abatement activities and management measures so far implemented to determine the degree of improvement toward the objectives expressed in subsection (b)(4) of this section.
 - **(k)** For purposes of this section, the terms “estuary” and “estuarine zone” have the meanings such terms have in section 1254(n)(4) of this title , except that the term “estuarine zone” shall also include associated aquatic ecosystems and those portions of tributaries draining into the estuary up to the historic height of migration of anadromous fish or the historic head of tidal influence, whichever is higher.
+
+Purposes
+
+Federal share
+
+Findings
+
+Purpose
+
+Findings
+
+Purposes
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title III, § 320, as added [Pub. L. 100–4, title III, § 317(b)](https://www.govinfo.gov/link/plaw/100/public/4), Feb. 4, 1987, [101 Stat. 61](https://www.govinfo.gov/link/statute/101/61); amended [Pub. L. 100–202, § 101(f) [title II, 201]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–187](https://www.govinfo.gov/link/statute/101/1329), 1329–197; [Pub. L. 100–653, title X, § 1004](https://www.govinfo.gov/link/plaw/100/public/653), Nov. 14, 1988, [102 Stat. 3836](https://www.govinfo.gov/link/statute/102/3836); [Pub. L. 100–688, title II, § 2001](https://www.govinfo.gov/link/plaw/100/public/688), Nov. 18, 1988, [102 Stat. 4151](https://www.govinfo.gov/link/statute/102/4151); [Pub. L. 105–362, title V, § 501(a)(2)](https://www.govinfo.gov/link/plaw/105/public/362), Nov. 10, 1998, [112 Stat. 3283](https://www.govinfo.gov/link/statute/112/3283); [Pub. L. 106–457, title III](https://www.govinfo.gov/link/plaw/106/public/457), §§ 301—303, Nov. 7, 2000, [114 Stat. 1972](https://www.govinfo.gov/link/statute/114/1972); [Pub. L. 107–303, title III, § 302(b)(1)](https://www.govinfo.gov/link/plaw/107/public/303), Nov. 27, 2002, [116 Stat. 2361](https://www.govinfo.gov/link/statute/116/2361); [Pub. L. 108–399, § 1](https://www.govinfo.gov/link/plaw/108/public/399), Oct. 30, 2004, [118 Stat. 2253](https://www.govinfo.gov/link/statute/118/2253); [Pub. L. 114–162](https://www.govinfo.gov/link/plaw/114/public/162), §§ 1, 2, May 20, 2016, [130 Stat. 409](https://www.govinfo.gov/link/statute/130/409); [Pub. L. 116–337](https://www.govinfo.gov/link/plaw/116/public/337), §§ 2–6, Jan. 13, 2021, [134 Stat. 5120](https://www.govinfo.gov/link/statute/134/5120), 5121; [Pub. L. 118–152, § 2](https://www.govinfo.gov/link/plaw/118/public/152), Dec. 17, 2024, [138 Stat. 1686](https://www.govinfo.gov/link/statute/138/1686).)*

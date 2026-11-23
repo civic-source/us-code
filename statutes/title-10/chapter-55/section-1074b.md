@@ -3,9 +3,10 @@ title: "Section 1074b - Medical and dental care: Academy cadets and midshipmen; 
 usc_title: 10
 usc_section: "1074b"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1074b"
-generated_at: "2026-03-30T02:53:38.100Z"
+generated_at: "2026-11-23T20:25:51.201Z"
+status: "active"
 ---
 
 # § 1074b. Medical and dental care: Academy cadets and midshipmen; members of, and designated applicants for membership in, Senior ROTC
@@ -20,3 +21,13 @@ generated_at: "2026-03-30T02:53:38.100Z"
   - **(1)** the medical and dental care under this chapter that is appropriate for the treatment of the injury, illness, or disease until the injury, illness, disease, or any resulting disability cannot be materially improved by further hospitalization or treatment; and
   - **(2)** meals during hospitalization.
 - **(c)** A person is not entitled to benefits under subsection (b) for an injury, illness, or disease, or the aggravation of an injury, illness, or disease that is a result of the gross negligence or the misconduct of that person.
+
+Eligibility
+
+Benefits
+
+Exception for Gross Negligence or Misconduct
+
+## Source Credit
+
+*(Added [Pub. L. 108–375, div. A, title V, § 555(a)(1)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1913](https://www.govinfo.gov/link/statute/118/1913).)*

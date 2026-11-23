@@ -3,9 +3,10 @@ title: "Section 274i - Eligibility requirements for Stephanie Tubbs Jones Gift o
 usc_title: 42
 usc_section: "274i"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 274i"
-generated_at: "2026-03-30T02:56:10.725Z"
+generated_at: "2026-11-23T20:27:20.138Z"
+status: "active"
 ---
 
 # § 274i. Eligibility requirements for Stephanie Tubbs Jones Gift of Life Medal
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:10.725Z"
 - **(c)**
   - **(1)** Except as provided in paragraph (2), only 1 medal may be presented to a family under subsection (b). Such medal shall be presented to the donating family member, or in the case of a deceased donor, the family member who signed the consent form authorizing, or who otherwise authorized, the donation of the organ involved.
   - **(2)** In the case of a family in which more than 1 member is an organ donor, a medal may be presented for each such organ donor.
+
+## Source Credit
+
+*([Pub. L. 110–413, § 2](https://www.govinfo.gov/link/plaw/110/public/413), Oct. 14, 2008, [122 Stat. 4338](https://www.govinfo.gov/link/statute/122/4338).)*

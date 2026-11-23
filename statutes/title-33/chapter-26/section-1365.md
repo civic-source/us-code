@@ -3,9 +3,10 @@ title: "Section 1365 - Citizen suits"
 usc_title: 33
 usc_section: "1365"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1365"
-generated_at: "2026-03-30T02:55:41.103Z"
+generated_at: "2026-11-23T20:26:54.063Z"
+status: "active"
 ---
 
 # § 1365. Citizen suits
@@ -27,3 +28,9 @@ generated_at: "2026-03-30T02:55:41.103Z"
 - **(f)** For purposes of this section, the term “effluent standard or limitation under this chapter” means (1) effective July 1, 1973 , an unlawful act under subsection (a) of section 1311 of this title ; (2) an effluent limitation or other limitation under section 1311 or 1312 of this title; (3) standard of performance under section 1316 of this title ; (4) prohibition, effluent standard or pretreatment standards under section 1317 of this title ; (5) a standard of performance or requirement under section 1322(p) of this title ; (6) a certification under section 1341 of this title ; (7) a permit or condition of a permit issued under section 1342 of this title that is in effect under this chapter (including a requirement applicable by reason of section 1323 of this title ); or (8) a regulation under section 1345(d) of this title .
 - **(g)** For the purposes of this section the term “citizen” means a person or persons having an interest which is or may be adversely affected.
 - **(h)** A Governor of a State may commence a civil action under subsection (a), without regard to the limitations of subsection (b) of this section, against the Administrator where there is alleged a failure of the Administrator to enforce an effluent standard or limitation under this chapter the violation of which is occurring in another State and is causing an adverse effect on the public health or welfare in his State, or is causing a violation of any water quality requirement in his State.
+
+Protection of interests of united states
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title V, § 505, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 888](https://www.govinfo.gov/link/statute/86/888); amended [Pub. L. 100–4, title III, § 314(c)](https://www.govinfo.gov/link/plaw/100/public/4), title IV, § 406(d)(2), title V, §§ 504, 505(c), Feb. 4, 1987, [101 Stat. 49](https://www.govinfo.gov/link/statute/101/49), 73, 75, 76; [Pub. L. 115–282, title IX, § 903(c)(3)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4356](https://www.govinfo.gov/link/statute/132/4356).)*

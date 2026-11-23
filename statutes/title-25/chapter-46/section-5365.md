@@ -3,9 +3,10 @@ title: "Section 5365 - General provisions"
 usc_title: 25
 usc_section: "5365"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 5365"
-generated_at: "2026-03-30T02:54:52.868Z"
+generated_at: "2026-11-23T20:26:25.739Z"
+status: "active"
 ---
 
 # § 5365. General provisions
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:54:52.868Z"
   - **(2)** An Indian Tribe shall—
     - **(A)** maintain a recordkeeping system; and
     - **(B)** on a notice period of not less than 30 days, provide the Secretary with reasonable access to the records to enable the Department to meet the requirements of sections 3101 through 3106 of title 44.
+
+## Source Credit
+
+*([Pub. L. 93–638, title IV, § 405](https://www.govinfo.gov/link/plaw/93/public/638), as added [Pub. L. 116–180, title I, § 101(e)](https://www.govinfo.gov/link/plaw/116/public/180), Oct. 21, 2020, [134 Stat. 865](https://www.govinfo.gov/link/statute/134/865).)*

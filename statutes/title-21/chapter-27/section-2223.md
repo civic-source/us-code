@@ -3,9 +3,10 @@ title: "Section 2223 - Enhancing tracking and tracing of food and recordkeeping"
 usc_title: 21
 usc_section: "2223"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 2223"
-generated_at: "2026-03-30T02:54:54.310Z"
+generated_at: "2026-11-23T20:26:27.906Z"
+status: "active"
 ---
 
 # § 2223. Enhancing tracking and tracing of food and recordkeeping
@@ -99,3 +100,7 @@ generated_at: "2026-03-30T02:54:54.310Z"
 - **(i)** Notwithstanding any other provision of law, the regulations promulgated under subsection (d) shall apply—
   - **(1)** to small businesses (as defined by the Secretary in section 350g of this title , not later than 90 days after January 4, 2011 ) beginning on the date that is 1 year after the effective date of the final regulations promulgated under subsection (d); and
   - **(2)** to very small businesses (as defined by the Secretary in section 350g of this title , not later than 90 days after January 4, 2011 ) beginning on the date that is 2 years after the effective date of the final regulations promulgated under subsection (d).
+
+## Source Credit
+
+*([Pub. L. 111–353, title II, § 204](https://www.govinfo.gov/link/plaw/111/public/353), Jan. 4, 2011, [124 Stat. 3930](https://www.govinfo.gov/link/statute/124/3930).)*

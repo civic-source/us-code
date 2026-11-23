@@ -3,9 +3,10 @@ title: "Section 19251 - Interagency working group"
 usc_title: 42
 usc_section: "19251"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 19251"
-generated_at: "2026-03-30T02:56:11.543Z"
+generated_at: "2026-11-23T20:27:23.870Z"
+status: "active"
 ---
 
 # § 19251. Interagency working group
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:56:11.543Z"
     - **(C)** seek stakeholder input and recommendations in the course of such review; and
   - **(2)** shall 2 2 So in original. The word “shall” probably should not appear. carry out the annual reviews and updates required under section 19107(e) of this title .
 - **(e)** If any conflicts between Federal agencies arise while carrying out the activities under this section, the President shall make the final decision regarding resolution of the conflict.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title VI, § 10651](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1682](https://www.govinfo.gov/link/statute/136/1682).)*

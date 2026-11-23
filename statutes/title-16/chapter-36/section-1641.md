@@ -3,9 +3,10 @@ title: "Section 1641 - Findings and purpose"
 usc_title: 16
 usc_section: "1641"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1641"
-generated_at: "2026-03-30T02:54:22.980Z"
+generated_at: "2026-11-23T20:26:20.535Z"
+status: "active"
 ---
 
 # § 1641. Findings and purpose
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:22.980Z"
   - **(7)** Better and more frequent forest inventorying and analysis is necessary to identify productivity-related forestry research needs and to provide forest managers with the current data necessary to make timely and effective management decisions.
 - **(b)** This subchapter shall be deemed to complement the policies and direction set forth in the Forest and Rangeland Renewable Resources Planning Act of 1974 [ 16 U.S.C. 1600 et seq.].
 - **(c)** It is the purpose of this subchapter to authorize the Secretary to expand research activities to encompass international forestry and natural resource issues on a global scale.
+
+## Source Credit
+
+*([Pub. L. 95–307, § 2](https://www.govinfo.gov/link/plaw/95/public/307), June 30, 1978, [92 Stat. 353](https://www.govinfo.gov/link/statute/92/353); [Pub. L. 101–513, title VI, § 611(a)(1)](https://www.govinfo.gov/link/plaw/101/public/513), formerly § 607(a)(1), Nov. 5, 1990, [104 Stat. 2072](https://www.govinfo.gov/link/statute/104/2072), renumbered § 611(a)(1), [Pub. L. 102–574, § 2(a)(1)](https://www.govinfo.gov/link/plaw/102/public/574), Oct. 29, 1992, [106 Stat. 4593](https://www.govinfo.gov/link/statute/106/4593); [Pub. L. 105–185, title II, § 253(a)](https://www.govinfo.gov/link/plaw/105/public/185), June 23, 1998, [112 Stat. 558](https://www.govinfo.gov/link/statute/112/558).)*

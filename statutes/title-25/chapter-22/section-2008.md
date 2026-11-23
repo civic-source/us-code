@@ -3,9 +3,10 @@ title: "Section 2008 - Administrative cost grants"
 usc_title: 25
 usc_section: "2008"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 2008"
-generated_at: "2026-03-30T02:54:52.833Z"
+generated_at: "2026-11-23T20:26:25.562Z"
+status: "active"
 ---
 
 # § 2008. Administrative cost grants
@@ -103,3 +104,7 @@ generated_at: "2026-03-30T02:54:52.833Z"
   - **(2)**
     - **(A)** With respect to a budget request under paragraph (1), the amount required to provide full funding for an administrative cost grant for each tribe or tribal organization expected to begin operation of a Bureau-funded school as contract or grant school in the academic year funded by such annual budget request, the amount so required shall not be less than 10 percent of the amount required for subparagraph (B).
     - **(B)** With respect to a budget request under paragraph (1), the amount required to provide full funding for an administrative cost grant for each tribe or tribal organization operating a contract or grant school at the time the annual budget request is submitted, which amount shall include the amount of funds required to provide full funding for an administrative cost grant for each tribe or tribal organization which began operation of a contract or grant school with administrative cost grant funds supplied from the amount described in subparagraph (A).
+
+## Source Credit
+
+*([Pub. L. 95–561, title XI, § 1128](https://www.govinfo.gov/link/plaw/95/public/561), as added [Pub. L. 107–110, title X, § 1042](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2032](https://www.govinfo.gov/link/statute/115/2032).)*

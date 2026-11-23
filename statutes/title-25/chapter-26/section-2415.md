@@ -3,9 +3,10 @@ title: "Section 2415 - Federal facilities, property, and equipment; leasing of t
 usc_title: 25
 usc_section: "2415"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 2415"
-generated_at: "2026-03-30T02:54:52.840Z"
+generated_at: "2026-11-23T20:26:25.592Z"
+status: "active"
 ---
 
 # § 2415. Federal facilities, property, and equipment; leasing of tribal property
@@ -15,3 +16,11 @@ generated_at: "2026-03-30T02:54:52.840Z"
 - **(c)**
   - **(1)** The Secretary of the Interior, the Attorney General, and the Secretary of Health and Human Services are authorized to enter into long-term leases of tribally owned or leased facilities to house programs established by this chapter where they determine that there is no Federal facility reasonably available for such purpose and the cost of constructing a new Federal facility would exceed the cost of such Federal lease unless they determine that mitigating factors favor such a lease.
   - **(2)** A tribally owned or leased facility may be leased pursuant to this authority to house a regional treatment center to be established pursuant to section 2474(b) 1 1 See References in Text note below. of this title only if all the tribes within the Indian Health Service area to be served by such regional treatment center initially consent to such Federal lease.
+
+Lease of Facilities
+
+Self-Determination Contracts for Staffing and Operation
+
+## Source Credit
+
+*([Pub. L. 99–570, title IV, § 4209](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–142](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 100–690, title II, § 2205](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4217](https://www.govinfo.gov/link/statute/102/4217); [Pub. L. 111–211, title II, § 241(a)(5)](https://www.govinfo.gov/link/plaw/111/public/211), July 29, 2010, [124 Stat. 2289](https://www.govinfo.gov/link/statute/124/2289).)*

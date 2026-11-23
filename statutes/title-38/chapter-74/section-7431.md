@@ -3,9 +3,10 @@ title: "Section 7431 - Pay"
 usc_title: 38
 usc_section: "7431"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7431"
-generated_at: "2026-03-30T02:55:53.531Z"
+generated_at: "2026-11-23T20:27:02.020Z"
+status: "active"
 ---
 
 # § 7431. Pay
@@ -17,7 +18,26 @@ generated_at: "2026-03-30T02:55:53.531Z"
 - **(b)** One element of pay for physicians, podiatrists, optometrists, and dentists shall be base pay. Base pay shall meet the following requirements:
   - **(1)** Each physician, podiatrist, optometrist and dentist is entitled to base pay determined under the Physician, Podiatrist, and Dentist Base and Longevity Pay Schedule.
   - **(2)** The Physician, Podiatrist, and Dentist Base and Longevity Pay Schedule is composed of 15 rates of base pay designated, from the lowest rate of pay to the highest rate of pay, as base pay steps 1 through 15.
-  - **(3)** The rate of base pay payable to a physician, podiatrist, optometrist or dentist is based on the total number of the years of the service of the physician, podiatrist, optometrist or dentist in the Veterans Health Administration as follows: For a physician, podiatrist, optometrist or dentist with total service of: The rate of base pay is the rate payable for: two years or less step 1 more than 2 years and not more than 4 years step 2 more than 4 years and not more than 6 years step 3 more than 6 years and not more than 8 years step 4 more than 8 years and not more than 10 years step 5 more than 10 years and not more than 12 years step 6 more than 12 years and not more than 14 years step 7 more than 14 years and not more than 16 years step 8 more than 16 years and not more than 18 years step 9 more than 18 years and not more than 20 years step 10 more than 20 years and not more than 22 years step 11 more than 22 years and not more than 24 years step 12 more than 24 years and not more than 26 years step 13 more than 26 years and not more than 28 years step 14 more than 28 years step 15.
+  - **(3)** The rate of base pay payable to a physician, podiatrist, optometrist or dentist is based on the total number of the years of the service of the physician, podiatrist, optometrist or dentist in the Veterans Health Administration as follows:
+
+| For a physician, podiatrist, optometrist or dentist with total service of: | The rate of base pay is the rate payable for: |
+| --- | --- |
+| two years or less | step 1 |
+| more than 2 years and not more than 4 years | step 2 |
+| more than 4 years and not more than 6 years | step 3 |
+| more than 6 years and not more than 8 years | step 4 |
+| more than 8 years and not more than 10 years | step 5 |
+| more than 10 years and not more than 12 years | step 6 |
+| more than 12 years and not more than 14 years | step 7 |
+| more than 14 years and not more than 16 years | step 8 |
+| more than 16 years and not more than 18 years | step 9 |
+| more than 18 years and not more than 20 years | step 10 |
+| more than 20 years and not more than 22 years | step 11 |
+| more than 22 years and not more than 24 years | step 12 |
+| more than 24 years and not more than 26 years | step 13 |
+| more than 26 years and not more than 28 years | step 14 |
+| more than 28 years | step 15. |
+
   - **(4)** At the same time as rates of basic pay are increased for a year under section 5303 of title 5 , the Secretary shall increase the amount of base pay payable under this subsection for that year by a percentage equal to the percentage by which rates of basic pay are increased under such section for that year.
   - **(5)** The non-foreign cost of living adjustment allowance authorized under section 5941 of title 5 for physicians, podiatrists, optometrists, and dentists whose pay is set under this section shall be determined as a percentage of base pay only.
 - **(c)** One element of pay for physicians, podiatrists, optometrists, and dentists shall be market pay. Market pay shall meet the following requirements:
@@ -92,3 +112,182 @@ generated_at: "2026-03-30T02:55:53.531Z"
   - **(1)** A decrease in pay of a physician, podiatrist, optometrist or dentist resulting from an adjustment in the amount of market pay of the physician, podiatrist, optometrist or dentist under subsection (c) shall not be treated as an adverse action.
   - **(2)** If the pay of a physician, podiatrist, optometrist or dentist is reduced under this subchapter as a result of an involuntary reassignment in connection with a disciplinary action taken against the physician, podiatrist, optometrist or dentist, the involuntary reassignment shall be subject to appeal under subchapter V of this chapter.
 - **(h)** The Secretary may delegate to an appropriate officer or employee of the Department any responsibility of the Secretary under subsection (c), (d), or (e) except for the responsibilities of the Secretary under subsection (e)(1).
+
+| “Base Pay Step: | Rate of Pay: |
+| --- | --- |
+| 1 | $90,000 |
+| 2 | $93,000 |
+| 3 | $96,000 |
+| 4 | $99,000 |
+| 5 | $102,000 |
+| 6 | $105,000 |
+| 7 | $108,000 |
+| 8 | $111,000 |
+| 9 | $114,000 |
+| 10 | $117,000 |
+| 11 | $120,000 |
+| 12 | $123,000 |
+| 13 | $126,000 |
+| 14 | $129,000 |
+| 15 | $132,000.” |
+
+
+Elements of Pay
+
+Base Pay
+
+two years or less
+
+more than 2 years and not more than 4 years
+
+more than 4 years and not more than 6 years
+
+more than 6 years and not more than 8 years
+
+more than 8 years and not more than 10 years
+
+more than 10 years and not more than 12 years
+
+more than 12 years and not more than 14 years
+
+more than 14 years and not more than 16 years
+
+more than 16 years and not more than 18 years
+
+more than 18 years and not more than 20 years
+
+more than 20 years and not more than 22 years
+
+more than 22 years and not more than 24 years
+
+more than 24 years and not more than 26 years
+
+more than 26 years and not more than 28 years
+
+more than 28 years
+
+Market Pay
+
+(aa) was implemented; and
+
+(bb) became effective; and
+
+Performance Pay
+
+Requirements and Limitations on Total Pay
+
+Treatment of Pay
+
+Ancillary Effects of Decreases in Pay
+
+Delegation of Responsibilities
+
+In general
+
+Period specified
+
+Exclusion
+
+Charging of compensation
+
+Definitions
+
+Pilot Program Required
+
+Eligible Physicians
+
+Duration of Program
+
+Locations.—
+
+In general
+
+Qualifying community hospitals
+
+Survey of Physician Interest in Participation.—
+
+In general
+
+Elements
+
+Physician Participation.—
+
+In general
+
+Voluntary participation
+
+Assumption of Inpatient Physician Responsibilities.—
+
+In general
+
+Coverage under federal tort claims act
+
+Compensation.—
+
+In general
+
+Written agreement
+
+Treatment of compensation
+
+Collections From Third Parties
+
+Report
+
+Definitions
+
+Health professional shortage area
+
+Inpatient responsibilities
+
+Physicians and dentists.—
+
+Pay
+
+Special pay
+
+Treatment of special pay
+
+Preservation of pay
+
+Under secretary for health.—
+
+Special pay
+
+Treatment of special pay
+
+“The initial rates of base pay established for the base pay steps under the Physician and Dentist Base and Longevity Pay Schedule provided in section 7431(b) of title 38 , United States Code (as added by subsection (b)), are as follows:
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+## Source Credit
+
+*(Added [Pub. L. 108–445, § 3(b)](https://www.govinfo.gov/link/plaw/108/public/445), Dec. 3, 2004, [118 Stat. 2636](https://www.govinfo.gov/link/statute/118/2636); amended [Pub. L. 111–163, title VI, § 601(f)](https://www.govinfo.gov/link/plaw/111/public/163), May 5, 2010, [124 Stat. 1170](https://www.govinfo.gov/link/statute/124/1170); [Pub. L. 114–315, title VI, § 615](https://www.govinfo.gov/link/plaw/114/public/315), Dec. 16, 2016, [130 Stat. 1577](https://www.govinfo.gov/link/statute/130/1577); [Pub. L. 116–12, § 1(b)(1)](https://www.govinfo.gov/link/plaw/116/public/12), Apr. 8, 2019, [133 Stat. 845](https://www.govinfo.gov/link/statute/133/845); [Pub. L. 117–168, title IX, § 906(e)](https://www.govinfo.gov/link/plaw/117/public/168), Aug. 10, 2022, [136 Stat. 1813](https://www.govinfo.gov/link/statute/136/1813); [Pub. L. 118–210, title I, § 142(a)(1)](https://www.govinfo.gov/link/plaw/118/public/210), Jan. 2, 2025, [138 Stat. 2744](https://www.govinfo.gov/link/statute/138/2744).)*

@@ -3,9 +3,10 @@ title: "Section 3833 - Duties of the Secretary"
 usc_title: 16
 usc_section: "3833"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3833"
-generated_at: "2026-03-30T02:54:23.026Z"
+generated_at: "2026-11-23T20:26:20.691Z"
+status: "active"
 ---
 
 # § 3833. Duties of the Secretary
@@ -54,3 +55,33 @@ generated_at: "2026-03-30T02:54:23.026Z"
   - **(3)** Land improved under paragraph (1) may not be re-enrolled in the conservation reserve program for 5 years after the date of termination of the contract.
   - **(4)** In the case of an activity carried out under paragraph (1), the Secretary shall reduce the payment otherwise payable under the contract by an amount commensurate with the economic value of the activity.
 - **(e)** In the case of a natural disaster or adverse weather event that has the effect of a management practice consistent with the conservation plan, the Secretary shall not require further management practices pursuant to section 3832(a)(5) of this title that are intended to achieve the same effect.
+
+(aa) the county is designated as D2 (severe drought) or greater according to the United States Drought Monitor;
+
+(bb) there is at least a 40 percent loss in forage production in the county; or
+
+(cc) the Secretary, in coordination with the State technical committee, determines that the program can assist in the response to a natural disaster event without permanent damage to the established cover;
+
+(aa) does not destroy the permanent vegetative cover; and
+
+(bb) retains suitable vegetative structure for wildlife cover and shelter outside the primary nesting season; or
+
+(aa) is completed outside the primary nesting season;
+
+(bb) occurs not more than once every 3 years; and
+
+(cc) maintains 25 percent of the total contract acres unharvested, in accordance with a site-specific plan that provides for wildlife cover and shelter;
+
+(aa) the location, size, and other physical characteristics of the land;
+
+(bb) the extent to which the land contains threatened or endangered wildlife and wildlife habitat; and
+
+(cc) the purposes of the conservation reserve program under this subpart.
+
+(aa) land covered by a contract enrolled under the State acres for wildlife enhancement program established by the Secretary; or
+
+(bb) land covered by a contract enrolled under a conservation reserve enhancement program established under section 3831a of this title or the Conservation Reserve Enhancement Program established by the Secretary under this subpart.
+
+## Source Credit
+
+*([Pub. L. 99–198, title XII, § 1233](https://www.govinfo.gov/link/plaw/99/public/198), as added [Pub. L. 107–171, title II, § 2101(a)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 245](https://www.govinfo.gov/link/statute/116/245); amended [Pub. L. 113–79, title II, § 2004](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 715](https://www.govinfo.gov/link/statute/128/715); [Pub. L. 115–334, title II, § 2206](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4543](https://www.govinfo.gov/link/statute/132/4543).)*

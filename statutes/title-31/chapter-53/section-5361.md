@@ -3,9 +3,10 @@ title: "Section 5361 - Congressional findings and purpose"
 usc_title: 31
 usc_section: "5361"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 5361"
-generated_at: "2026-03-30T02:55:34.071Z"
+generated_at: "2026-11-23T20:26:51.887Z"
+status: "active"
 ---
 
 # § 5361. Congressional findings and purpose
@@ -16,3 +17,15 @@ generated_at: "2026-03-30T02:55:34.071Z"
   - **(3)** Internet gambling is a growing cause of debt collection problems for insured depository institutions and the consumer credit industry.
   - **(4)** New mechanisms for enforcing gambling laws on the Internet are necessary because traditional law enforcement mechanisms are often inadequate for enforcing gambling prohibitions or regulations on the Internet, especially where such gambling crosses State or national borders.
 - **(b)** No provision of this subchapter shall be construed as altering, limiting, or extending any Federal or State law or Tribal-State compact prohibiting, permitting, or regulating gambling within the United States.
+
+Findings
+
+Rule of Construction
+
+In General
+
+Report Required
+
+## Source Credit
+
+*(Added [Pub. L. 109–347, title VIII, § 802(a)](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1952](https://www.govinfo.gov/link/statute/120/1952).)*

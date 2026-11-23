@@ -3,9 +3,10 @@ title: "Section 4963 - Definitions"
 usc_title: 26
 usc_section: "4963"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 4963"
-generated_at: "2026-03-30T02:55:27.810Z"
+generated_at: "2026-11-23T20:26:46.356Z"
+status: "active"
 ---
 
 # § 4963. Definitions
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:27.810Z"
     - **(B)** in the case of section 4943, on the first day on which there are excess business holdings,
     - **(C)** in the case of section 4971, on the last day of the plan year in which there is an accumulated funding deficiency, and
     - **(D)** in any other case, the date on which such event occurred.
+
+## Source Credit
+
+*(Added [Pub. L. 96–596, § 2(c)(1)](https://www.govinfo.gov/link/plaw/96/public/596), Dec. 24, 1980, [94 Stat. 3473](https://www.govinfo.gov/link/statute/94/3473), § 4962; renumbered § 4963, [Pub. L. 98–369, div. A, title III, § 305(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 783](https://www.govinfo.gov/link/statute/98/783); amended [Pub. L. 100–203, title X, § 10712(b)(3)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–467](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 104–168, title XIII, § 1311(c)(2)](https://www.govinfo.gov/link/plaw/104/public/168), July 30, 1996, [110 Stat. 1478](https://www.govinfo.gov/link/statute/110/1478); [Pub. L. 109–280, title XII, § 1231(b)(1)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1098](https://www.govinfo.gov/link/statute/120/1098).)*

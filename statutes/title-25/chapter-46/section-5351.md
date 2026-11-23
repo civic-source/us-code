@@ -3,9 +3,10 @@ title: "Section 5351 - School construction, acquisition, or renovation contracts
 usc_title: 25
 usc_section: "5351"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 5351"
-generated_at: "2026-03-30T02:54:52.867Z"
+generated_at: "2026-11-23T20:26:25.734Z"
+status: "active"
 ---
 
 # § 5351. School construction, acquisition, or renovation contracts
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:52.867Z"
   - **(4)** a description of the working relationship of the Department of the Interior with local or State educational agencies in connection with the contracting for construction, acquisition, or renovation of school facilities pursuant to this section; and
   - **(5)** the recommendations of the Secretary with respect to the transfer of the responsibility for administering subsections (a) and (b) of section 644 1 of title 20 from the Department of Education to the Department of the Interior.
 - **(g)** For the purpose of carrying out the provisions of this section, there is authorized to be appropriated the sum of $35,000,000 for the fiscal year ending June 30, 1974 ; $35,000,000 for each of the four succeeding fiscal years; and thereafter, such sums as may be necessary, all of such sums to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 93–638, title II, § 204](https://www.govinfo.gov/link/plaw/93/public/638), Jan. 4, 1975, [88 Stat. 2214](https://www.govinfo.gov/link/statute/88/2214); [Pub. L. 96–88, title III, § 301](https://www.govinfo.gov/link/plaw/96/public/88), title V, § 507, Oct. 17, 1979, [93 Stat. 677](https://www.govinfo.gov/link/statute/93/677), 692.)*

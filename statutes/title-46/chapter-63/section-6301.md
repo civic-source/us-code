@@ -3,9 +3,10 @@ title: "Section 6301 - Investigation of marine casualties"
 usc_title: 46
 usc_section: "6301"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 6301"
-generated_at: "2026-03-30T02:56:15.549Z"
+generated_at: "2026-11-23T20:27:27.105Z"
+status: "active"
 ---
 
 # § 6301. Investigation of marine casualties
@@ -18,3 +19,16 @@ The Secretary shall prescribe regulations for the immediate investigation of mar
   - **(4)** whether there is evidence that an act subjecting the offender to a civil penalty under the laws of the United States has been committed, so that appropriate action may be undertaken to collect the penalty;
   - **(5)** whether there is evidence that a criminal act under the laws of the United States has been committed, so that the matter may be referred to appropriate authorities for prosecution; and
   - **(6)** whether there is need for new laws or regulations, or amendment or repeal of existing laws or regulations, to prevent the recurrence of the casualty.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 6301 | 46:239 |
+
+
+Historical and Revision Notes
+
+6301
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 537](https://www.govinfo.gov/link/statute/97/537).)*

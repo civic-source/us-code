@@ -3,9 +3,10 @@ title: "Section 39B - Unsafe operation of unmanned aircraft"
 usc_title: 18
 usc_section: "39B"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 39B"
-generated_at: "2026-03-30T02:54:16.457Z"
+generated_at: "2026-11-23T20:26:08.327Z"
+status: "active"
 ---
 
 # § 39B. Unsafe operation of unmanned aircraft
@@ -23,3 +24,21 @@ generated_at: "2026-03-30T02:54:16.457Z"
   - **(2)** Any person who:
     - **(A)** Causes serious bodily injury or death during the commission of an offense under subsection (a)(2) shall be fined under this title, imprisoned for a term of up to 10 years, or both.
     - **(B)** Causes, or attempts or conspires to cause, serious bodily injury or death during the commission of an offense under subsections (a)(1) and (b) shall be fined under this title, imprisoned for any term of years or for life, or both.
+
+Offense
+
+Operation of Unmanned Aircraft in Close Proximity to Airports.—
+
+In general
+
+Runway exclusion zone defined
+
+Penalty.—
+
+In general
+
+Serious bodily injury or death
+
+## Source Credit
+
+*(Added [Pub. L. 115–254, div. B, title III, § 384(a)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3322](https://www.govinfo.gov/link/statute/132/3322).)*

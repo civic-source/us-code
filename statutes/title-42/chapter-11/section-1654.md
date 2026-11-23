@@ -3,9 +3,10 @@ title: "Section 1654 - Persons excluded from benefits"
 usc_title: 42
 usc_section: "1654"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1654"
-generated_at: "2026-03-30T02:56:11.107Z"
+generated_at: "2026-11-23T20:27:21.838Z"
+status: "active"
 ---
 
 # § 1654. Persons excluded from benefits
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.107Z"
   - **(2)** an employee engaged in agriculture, domestic service, or any employment that is casual and not in the usual course of the trade, business, or profession of the employer; and
   - **(3)** a master or member of a crew of any vessel.
 
+
+## Source Credit
+
+*(Aug. 16, 1941, ch. 357, § 4, [55 Stat. 623](https://www.govinfo.gov/link/statute/55/623).)*

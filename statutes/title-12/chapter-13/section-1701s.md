@@ -3,9 +3,10 @@ title: "Section 1701s - Rent supplement payments for qualified lower income fami
 usc_title: 12
 usc_section: "1701s"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1701s"
-generated_at: "2026-03-30T02:53:53.403Z"
+generated_at: "2026-11-23T20:25:58.887Z"
+status: "active"
 ---
 
 # § 1701s. Rent supplement payments for qualified lower income families
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:53:53.403Z"
 - **(m)** The Secretary shall, not later than 45 days after receipt of an application by the mortgagee, provide interest reduction and rental assistance payments for the benefit of projects assisted under this section whose mortgages were made by State or local housing finance agencies or State or local government agencies for a term equal to the remaining mortgage term to maturity on projects assisted under this section to the extent of—
   - **(1)** unexpended balances of amounts of authority as set forth in certain letter agreements between the Department of Housing and Urban Development and such State or local housing finance agencies or State or local government agencies, and
   - **(2)** existing allocation under section 236 contracts on projects whose mortgages were made by State or local housing finance agencies or State or local government agencies which are not being funded, to the extent of such excess allocation, for any purposes permitted under the provisions of this section.
+
+## Source Credit
+
+*([Pub. L. 89–117, title I, § 101](https://www.govinfo.gov/link/plaw/89/public/117), Aug. 10, 1965, [79 Stat. 451](https://www.govinfo.gov/link/statute/79/451); [Pub. L. 90–19, § 22(a)](https://www.govinfo.gov/link/plaw/90/public/19), (c), May 25, 1967, [81 Stat. 26](https://www.govinfo.gov/link/statute/81/26); [Pub. L. 90–448, title II](https://www.govinfo.gov/link/plaw/90/public/448), §§ 201(e), 202, title XI, § 1106(b), Aug. 1, 1968, [82 Stat. 502](https://www.govinfo.gov/link/statute/82/502), 503, 567; [Pub. L. 91–152, title I, § 112](https://www.govinfo.gov/link/plaw/91/public/152), Dec. 24, 1969, [83 Stat. 383](https://www.govinfo.gov/link/statute/83/383); [Pub. L. 91–609, title I](https://www.govinfo.gov/link/plaw/91/public/609), §§ 103, 114[115](c), 118(b), 120(a), (b), Dec. 31, 1970, [84 Stat. 1771](https://www.govinfo.gov/link/statute/84/1771), 1774, 1775; [Pub. L. 96–153, title II, § 203(a)](https://www.govinfo.gov/link/plaw/96/public/153), Dec. 21, 1979, [93 Stat. 1106](https://www.govinfo.gov/link/statute/93/1106); [Pub. L. 96–399](https://www.govinfo.gov/link/plaw/96/public/399), Oct. 8, 1980, title II, § 205, [94 Stat. 1630](https://www.govinfo.gov/link/statute/94/1630); [Pub. L. 97–35, title III](https://www.govinfo.gov/link/plaw/97/public/35), §§ 322(g), 327, Aug. 13, 1981, [95 Stat. 403](https://www.govinfo.gov/link/statute/95/403), 407; [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title II, §§ 203(b)(3), 219], Nov. 30, 1983, [97 Stat. 1178](https://www.govinfo.gov/link/statute/97/1178), 1187; [Pub. L. 98–479, title I, § 102(d)](https://www.govinfo.gov/link/plaw/98/public/479), title II, § 204(e), Oct. 17, 1984, [98 Stat. 2222](https://www.govinfo.gov/link/statute/98/2222), 2233; [Pub. L. 100–242, title I](https://www.govinfo.gov/link/plaw/100/public/242), §§ 167(a)(2), 168, 170(h), title IV, § 430(b), Feb. 5, 1988, [101 Stat. 1864](https://www.govinfo.gov/link/statute/101/1864), 1867, 1920; [Pub. L. 104–99, title IV, § 402(d)(5)](https://www.govinfo.gov/link/plaw/104/public/99), Jan. 26, 1996, [110 Stat. 42](https://www.govinfo.gov/link/statute/110/42); [Pub. L. 105–276, title V, § 514(d)](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2548](https://www.govinfo.gov/link/statute/112/2548).)*

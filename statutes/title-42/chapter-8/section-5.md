@@ -3,9 +3,10 @@ title: "Section 5 - Application"
 usc_title: 42
 usc_section: "5"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-03-30T02:56:11.091Z"
+generated_at: "2026-11-23T20:27:21.766Z"
+status: "active"
 ---
 
 # § 1437bbb–5. Application
@@ -53,3 +54,7 @@ generated_at: "2026-03-30T02:56:11.091Z"
   - **(5)** The Secretary may establish requirements for the approval of applications under this section submitted by public housing agencies designated under section 1437d(j)(2) of this title as troubled, which may include additional or different criteria determined by the Secretary to be more appropriate for such agencies.
 - **(c)** This subchapter may not be construed to require any change in the legal status of any public housing agency or in any legal relationship between a jurisdiction and a public housing agency as a condition of participation in the program under this subchapter.
 - **(d)** In carrying out this subchapter, the Secretary may provide for a streamlined public housing agency plan and planning process under section 1437c–1 of this title for participating jurisdictions.
+
+## Source Credit
+
+*(Sept. 1, 1937, ch. 896, title IV, § 406, as added [Pub. L. 105–276, title V, § 561](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2620](https://www.govinfo.gov/link/statute/112/2620); amended [Pub. L. 106–400, § 2](https://www.govinfo.gov/link/plaw/106/public/400), Oct. 30, 2000, [114 Stat. 1675](https://www.govinfo.gov/link/statute/114/1675).)*

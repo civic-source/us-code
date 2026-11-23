@@ -3,9 +3,10 @@ title: "Section 1426 - Insolvent plans"
 usc_title: 29
 usc_section: "1426"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1426"
-generated_at: "2026-03-30T02:55:18.737Z"
+generated_at: "2026-11-23T20:26:38.042Z"
+status: "active"
 ---
 
 # § 1426. Insolvent plans
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:55:18.737Z"
   - **(1)** If the plan sponsor of an insolvent plan, for which the resource benefit level is above the level of basic benefits, anticipates that, for any month in an insolvency year, the plan will not have funds sufficient to pay basic benefits, the plan sponsor may apply for financial assistance from the corporation under section 1431 of this title .
   - **(2)** A plan sponsor who has determined a resource benefit level for an insolvency year which is below the level of basic benefits shall apply for financial assistance from the corporation under section 1431 of this title .
 - **(g)** Subsections (a) and (c) shall not apply to a plan that, for the plan year, is operating under section 1085(e)(9) of this title , regarding benefit suspensions by certain multiemployer plans in critical and declining status.
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4245](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 96–364, title I, § 104(2)](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1259](https://www.govinfo.gov/link/statute/94/1259); amended [Pub. L. 109–280, title II, § 203(a)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 886](https://www.govinfo.gov/link/statute/120/886); [Pub. L. 113–235, div. O, title I, § 108(a)(2)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2786](https://www.govinfo.gov/link/statute/128/2786).)*

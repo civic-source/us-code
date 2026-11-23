@@ -3,9 +3,10 @@ title: "Section 1692f - Unfair practices"
 usc_title: 15
 usc_section: "1692f"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1692f"
-generated_at: "2026-03-30T02:54:08.155Z"
+generated_at: "2026-11-23T20:26:04.109Z"
+status: "active"
 ---
 
 # § 1692f. Unfair practices
@@ -23,3 +24,7 @@ A debt collector may not use unfair or unconscionable means to collect or attemp
     - **(C)** the property is exempt by law from such dispossession or disablement.
   - **(7)** Communicating with a consumer regarding a debt by post card.
   - **(8)** Using any language or symbol, other than the debt collector’s address, on any envelope when communicating with a consumer by use of the mails or by telegram, except that a debt collector may use his business name if such name does not indicate that he is in the debt collection business.
+
+## Source Credit
+
+*([Pub. L. 90–321, title VIII, § 808](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 95–109](https://www.govinfo.gov/link/plaw/95/public/109), Sept. 20, 1977, [91 Stat. 879](https://www.govinfo.gov/link/statute/91/879).)*

@@ -3,9 +3,10 @@ title: "Section 2317 - Wetlands"
 usc_title: 33
 usc_section: "2317"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2317"
-generated_at: "2026-03-30T02:55:41.122Z"
+generated_at: "2026-11-23T20:26:54.173Z"
+status: "active"
 ---
 
 # § 2317. Wetlands
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:55:41.122Z"
 - **(e)**
   - **(1)** The Secretary is authorized to establish a program for the training and certification of individuals as wetlands delineators. As part of such program, the Secretary shall carry out demonstration projects in districts of the Corps of Engineers. The program shall include training and certification of delineators and procedures for expediting consideration and acceptance of delineations performed by certified delineators.
   - **(2)** The Secretary shall transmit to Congress periodic reports concerning the status of the program and any recommendations on improving the content and implementation of the Federal Manual for Identifying and Delineating Jurisdictional Wetlands.
+
+## Source Credit
+
+*([Pub. L. 101–640, title III, § 307](https://www.govinfo.gov/link/plaw/101/public/640), Nov. 28, 1990, [104 Stat. 4635](https://www.govinfo.gov/link/statute/104/4635).)*

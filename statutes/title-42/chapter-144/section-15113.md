@@ -3,9 +3,10 @@ title: "Section 15113 - Reaching up scholarship program"
 usc_title: 42
 usc_section: "15113"
 chapter: 144
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 15113"
-generated_at: "2026-03-30T02:56:11.459Z"
+generated_at: "2026-11-23T20:27:23.560Z"
+status: "active"
 ---
 
 # § 15113. Reaching up scholarship program
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.459Z"
   - **(3)** provides an assurance that the eligible entity (or another specified entity that is not a voucher recipient) will contribute the non-Federal share of the cost of providing the vouchers; and
   - **(4)** meets such other conditions as the Secretary may specify.
 - **(e)** The Federal share of the cost of providing the vouchers shall be not more than 80 percent.
+
+## Source Credit
+
+*([Pub. L. 106–402, title III, § 303](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1735](https://www.govinfo.gov/link/statute/114/1735).)*

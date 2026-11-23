@@ -3,9 +3,10 @@ title: "Section 1603 - Implementation of policies"
 usc_title: 30
 usc_section: "1603"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1603"
-generated_at: "2026-03-30T02:55:29.406Z"
+generated_at: "2026-11-23T20:26:35.052Z"
+status: "active"
 ---
 
 # § 1603. Implementation of policies
@@ -27,3 +28,7 @@ The President shall, through the Executive Office of the President, coordinate t
     - **(B)** Federal and State institutions having shared interests or objectives;
   - **(8)** assess Federal policies which adversely or positively affect all stages of the materials cycle, from exploration to final product recycling and disposal including but not limited to, financial assistance and tax policies for recycled and virgin sources of materials and make recommendations for equalizing any existing imbalances, or removing any impediments, which may be created by the application of Federal law and regulations to the market for materials; and
   - **(9)** assess the opportunities for the United States to promote cooperative multilateral and bilateral agreements for materials development in foreign nations for the purpose of increasing the reliability of materials supplies to the Nation.
+
+## Source Credit
+
+*([Pub. L. 96–479, § 4](https://www.govinfo.gov/link/plaw/96/public/479), Oct. 21, 1980, [94 Stat. 2306](https://www.govinfo.gov/link/statute/94/2306); [Pub. L. 116–260, div. Z, title VII, § 7002(m)(3)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2576](https://www.govinfo.gov/link/statute/134/2576).)*

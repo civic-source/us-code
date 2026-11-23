@@ -3,12 +3,17 @@ title: "Section 49b - Mining laws relating to placer claims extended to Alaska"
 usc_title: 30
 usc_section: "49b"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 49b"
-generated_at: "2026-03-30T02:55:29.376Z"
+generated_at: "2026-11-23T20:26:34.903Z"
+status: "active"
 ---
 
 # § 49b. Mining laws relating to placer claims extended to Alaska
 
 The general mining laws of the United States so far as they are applicable to placer-mining claims, as prior to May 4, 1934 , extended to the Territory of Alaska, are declared to be in full force and effect in said Territory: Provided , That nothing herein shall be held to change or affect the rights acquired by locators or owners of placer-mining claims prior to May 4, 1934 , located in said Territory under act August 1, 1912 ( 37 Stat. 242 , 243) and amendatory act March 3, 1925 ( 43 Stat. 1118 ).
 
+
+## Source Credit
+
+*(May 4, 1934, ch. 211, § 2, [48 Stat. 663](https://www.govinfo.gov/link/statute/48/663).)*

@@ -3,9 +3,10 @@ title: "Section 4306 - Prohibited acts and criminal penalties"
 usc_title: 16
 usc_section: "4306"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 4306"
-generated_at: "2026-03-30T02:54:23.043Z"
+generated_at: "2026-11-23T20:26:20.740Z"
+status: "active"
 ---
 
 # § 4306. Prohibited acts and criminal penalties
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:23.043Z"
   - **(3)** Any person who counsels, procures, solicits, or employs any other person to violate any provisions of this subsection shall be punished in accordance with section 1 1 So in original. Probably should be “subsection”. (b).
   - **(4)** Nothing in this section shall be deemed applicable to any person who was in lawful possession of a cave resource from a significant cave prior to November 18, 1988 .
 - **(b)** The punishment for violating any provision of subsection (a) shall be imprisonment of not more than one year or a fine in accordance with the applicable provisions of title 18, or both. In the case of a second or subsequent violation, the punishment shall be imprisonment of not more than 3 years or a fine in accordance with the applicable provisions of title 18, or both.
+
+## Source Credit
+
+*([Pub. L. 100–691, § 7](https://www.govinfo.gov/link/plaw/100/public/691), Nov. 18, 1988, [102 Stat. 4549](https://www.govinfo.gov/link/statute/102/4549).)*

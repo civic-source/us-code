@@ -3,9 +3,10 @@ title: "Section 1616 - Joint Federal-State Land Use Planning Commission for Alas
 usc_title: 43
 usc_section: "1616"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1616"
-generated_at: "2026-03-30T02:55:57.480Z"
+generated_at: "2026-11-23T20:27:06.327Z"
+status: "active"
 ---
 
 # § 1616. Joint Federal-State Land Use Planning Commission for Alaska
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:57.480Z"
     - **(D)** Areas recommended by the Secretary pursuant to paragraph (C) shall remain withdrawn from any appropriation under the public land laws until such time as the Congress acts on the Secretary’s recommendations, but not to exceed five years from the recommendation dates. The withdrawal of areas not so recommended shall terminate at the end of the two year period.
     - **(E)** Notwithstanding any other provision of this subsection, initial identification of lands desired to be selected by the State pursuant to the Alaska Statehood Act and by the Regional Corporations pursuant to section 1611 of this title may be made within any area withdrawn pursuant to this subsection (d), but such lands shall not be tentatively approved or patented so long as the withdrawals of such areas remain in effect: Provided , That selection of lands by Village Corporations pursuant to section 1611 of this title shall not be affected by such withdrawals and such lands selected may be patented and such rights granted as authorized by this chapter. In the event Congress enacts legislation setting aside any areas withdrawn under the provisions of this subsection which the Regional Corporations or the State desired to select, then other unreserved public lands shall be made available for alternative selection by the Regional Corporations and the State. Any time periods established by law for Regional Corporations or State selections are hereby extended to the extent that delays are caused by compliance with the provisions of this subsection (2).
   - **(3)** Any lands withdrawn under this section shall be subject to administration by the Secretary under applicable laws and regulations, and his authority to make contracts and to grant leases, permits, rights-of-way, or easements shall not be impaired by the withdrawal.
+
+## Source Credit
+
+*([Pub. L. 92–203, § 17](https://www.govinfo.gov/link/plaw/92/public/203), Dec. 18, 1971, [85 Stat. 706](https://www.govinfo.gov/link/statute/85/706); [Pub. L. 94–204, § 7](https://www.govinfo.gov/link/plaw/94/public/204), Jan. 2, 1976, [89 Stat. 1149](https://www.govinfo.gov/link/statute/89/1149).)*

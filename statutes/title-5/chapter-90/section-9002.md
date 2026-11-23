@@ -3,9 +3,10 @@ title: "Section 9002 - Availability of insurance"
 usc_title: 5
 usc_section: "9002"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 9002"
-generated_at: "2026-03-30T02:52:56.070Z"
+generated_at: "2026-11-23T20:25:32.256Z"
+status: "active"
 ---
 
 # § 9002. Availability of insurance
@@ -23,3 +24,29 @@ generated_at: "2026-03-30T02:52:56.070Z"
   - **(4)** In addition to the requirements otherwise applicable under section 9001(9), in order to be considered a qualified long-term care insurance contract for purposes of this chapter, a contract must be fully insured, whether through reinsurance with other companies or otherwise.
   - **(5)** Nothing in this chapter shall, in the case of an individual applying for long-term care insurance coverage under this chapter after the expiration of such individual’s first opportunity to enroll, preclude the application of underwriting standards more stringent than those that would have applied if that opportunity had not yet expired.
 - **(f)** The benefits and coverage made available to eligible individuals under any insurance contract under this chapter shall be guaranteed renewable (as defined by section 7A(2) of the model regulations described in section 7702B(g)(2) of the Internal Revenue Code of 1986), including the right to have insurance remain in effect so long as premiums continue to be timely made. However, the authority to revise premiums under this chapter shall be available only on a class basis and only to the extent otherwise allowable under section 9003(b).
+
+In General
+
+Discretionary Authority Regarding Nonappropriated Fund Instrumentalities
+
+General Requirements
+
+Documentation Requirement
+
+Underwriting Standards.—
+
+Disqualifying condition
+
+Spousal parity
+
+Guaranteed issue
+
+Requirement that contract be fully insured
+
+Higher standards allowable
+
+Guaranteed Renewability
+
+## Source Credit
+
+*(Added [Pub. L. 106–265, title I, § 1002(a)](https://www.govinfo.gov/link/plaw/106/public/265), Sept. 19, 2000, [114 Stat. 764](https://www.govinfo.gov/link/statute/114/764); amended [Pub. L. 107–314, div. A, title XI, § 1101(b)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2660](https://www.govinfo.gov/link/statute/116/2660).)*

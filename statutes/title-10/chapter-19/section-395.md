@@ -3,9 +3,10 @@ title: "Section 395 - Notification requirements for sensitive military cyber ope
 usc_title: 10
 usc_section: "395"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 395"
-generated_at: "2026-03-30T02:53:38.057Z"
+generated_at: "2026-11-23T20:25:50.934Z"
+status: "active"
 ---
 
 # § 395. Notification requirements for sensitive military cyber operations
@@ -36,3 +37,17 @@ generated_at: "2026-03-30T02:53:38.057Z"
   - **(1)** to a training exercise conducted with the consent of all nations where the intended effects of the exercise will occur; or
   - **(2)** to a covert action (as that term is defined in section 503 of the National Security Act of 1947 ( 50 U.S.C. 3093 )).
 - **(e)** Nothing in this section shall be construed to provide any new authority or to alter or otherwise affect the War Powers Resolution ( 50 U.S.C. 1541 et seq.), the Authorization for Use of Military Force ( Public Law 107–40 ; 50 U.S.C. 1541 note), or any requirement under the National Security Act of 1947 ( 50 U.S.C. 3001 et seq.).
+
+In General
+
+Procedures
+
+Sensitive Military Cyber Operation Defined
+
+Exceptions
+
+Rule of Construction
+
+## Source Credit
+
+*(Added [Pub. L. 115–91, div. A, title XVI, § 1631(a)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1736](https://www.govinfo.gov/link/statute/131/1736), § 130j; renumbered § 395 and amended [Pub. L. 115–232, div. A, title X, § 1081(a)(1)](https://www.govinfo.gov/link/plaw/115/public/232), title XVI, § 1631(a), Aug. 13, 2018, [132 Stat. 1983](https://www.govinfo.gov/link/statute/132/1983), 2123; [Pub. L. 116–92, div. A, title XVI, § 1632](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1745](https://www.govinfo.gov/link/statute/133/1745); [Pub. L. 116–283, div. A, title XVII, § 1702](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4080](https://www.govinfo.gov/link/statute/134/4080).)*

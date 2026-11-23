@@ -3,9 +3,10 @@ title: "Section 3114 - Postgraduation recruitment, education and training progra
 usc_title: 25
 usc_section: "3114"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3114"
-generated_at: "2026-03-30T02:54:52.848Z"
+generated_at: "2026-11-23T20:26:25.636Z"
+status: "active"
 ---
 
 # § 3114. Postgraduation recruitment, education and training programs
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:52.848Z"
   - **(1)** orientation training for Bureau of Indian Affairs forestry personnel in tribal-Federal relations and responsibilities;
   - **(2)** continuing technical forestry education for Bureau of Indian Affairs, Alaska Native, and tribal forestry personnel; and
   - **(3)** developmental training of Indian and Alaska Native personnel in forest land based enterprises and marketing.
+
+## Source Credit
+
+*([Pub. L. 101–630, title III, § 315](https://www.govinfo.gov/link/plaw/101/public/630), Nov. 28, 1990, [104 Stat. 4542](https://www.govinfo.gov/link/statute/104/4542).)*

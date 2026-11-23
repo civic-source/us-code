@@ -3,9 +3,10 @@ title: "Section 838m - Power marketing administration transmission borrowing aut
 usc_title: 16
 usc_section: "838m"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 838m"
-generated_at: "2026-03-30T02:54:22.929Z"
+generated_at: "2026-11-23T20:26:20.323Z"
+status: "active"
 ---
 
 # § 838m. Power marketing administration transmission borrowing authority
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:22.929Z"
   - **(1)** engage, in a manner determined by the Administrator, with customers and stakeholders with respect to the financial and cost management efforts of the Administrator through periodic program reviews; and
   - **(2)** to the maximum extent practicable, implement those policies that would be expected to be consistent with the lowest possible power and transmission rates consistent with sound business principles.
 - **(d)** Any additional Treasury borrowing authority received under this section shall be fully repaid to the Treasury in a manner consistent with the applicable self-financed Federal budget accounts.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title I, § 40110](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 945](https://www.govinfo.gov/link/statute/135/945).)*

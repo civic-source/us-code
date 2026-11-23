@@ -3,9 +3,10 @@ title: "Section 1 - Additional requirements applicable to rulemaking"
 usc_title: 42
 usc_section: "1"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T02:56:11.168Z"
+generated_at: "2026-11-23T20:27:22.176Z"
+status: "active"
 ---
 
 # § 2992b–1. Additional requirements applicable to rulemaking
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.168Z"
 - **(d)** Each rule (including an interpretative rule) and each general statement of policy to which this section applies shall contain after each of its sections, paragraphs, or similar textual units a citation to the particular provision of statutory or other law that is the legal authority for such section, paragraph, or unit.
 - **(e)** Except as provided in subsection (c), if as a result of the enactment of any law affecting the administration of this subchapter it is necessary or appropriate for the Secretary to issue any rule (including any interpretative rule) or a general statement of policy, the Secretary shall issue such rule or such general statement of policy not later than 180 days after the date of the enactment of such law.
 - **(f)** Whenever an agency publishes in the Federal Register a rule (including an interpretative rule) or a general statement of policy to which subsection (c) applies, such agency shall transmit a copy of such rule or such general statement of policy to the Speaker of the House of Representatives and the President pro tempore of the Senate.
+
+## Source Credit
+
+*([Pub. L. 88–452, title VIII, § 814](https://www.govinfo.gov/link/plaw/88/public/452), as added [Pub. L. 100–175, title V, § 503(a)](https://www.govinfo.gov/link/plaw/100/public/175), Nov. 29, 1987, [101 Stat. 974](https://www.govinfo.gov/link/statute/101/974).)*

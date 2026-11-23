@@ -3,9 +3,10 @@ title: "Section 1517 - Order granting recognition"
 usc_title: 11
 usc_section: "1517"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 1517"
-generated_at: "2026-03-30T02:53:53.888Z"
+generated_at: "2026-11-23T20:25:55.443Z"
+status: "active"
 ---
 
 # § 1517. Order granting recognition
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:53.888Z"
   - **(2)** as a foreign nonmain proceeding if the debtor has an establishment within the meaning of section 1502 in the foreign country where the proceeding is pending.
 - **(c)** A petition for recognition of a foreign proceeding shall be decided upon at the earliest possible time. Entry of an order recognizing a foreign proceeding constitutes recognition under this chapter.
 - **(d)** The provisions of this subchapter do not prevent modification or termination of recognition if it is shown that the grounds for granting it were fully or partially lacking or have ceased to exist, but in considering such action the court shall give due weight to possible prejudice to parties that have relied upon the order granting recognition. A case under this chapter may be closed in the manner prescribed under section 350.
+
+## Source Credit
+
+*(Added [Pub. L. 109–8, title VIII, § 801(a)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 139](https://www.govinfo.gov/link/statute/119/139).)*

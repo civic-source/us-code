@@ -3,12 +3,17 @@ title: "Section 424c - Issuance of patents; recitals in patents; reservations"
 usc_title: 43
 usc_section: "424c"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 424c"
-generated_at: "2026-03-30T02:55:57.449Z"
+generated_at: "2026-11-23T20:27:06.212Z"
+status: "active"
 ---
 
 # § 424c. Issuance of patents; recitals in patents; reservations
 
 After the purchaser has paid to the United States all amounts due on the purchase price of said land, a patent shall issue which shall recite that the lands so patented have been classified in whole or in part as temporarily or permanently unproductive, as the case may be, under sections 423 to 423g and 610 of this title. Such patents shall also contain a reservation of a lien for water charges when deemed appropriate by the Secretary and reservations of coal or other mineral rights to the same extent as patents issued under the homestead laws.
 
+
+## Source Credit
+
+*(May 16, 1930, ch. 292, § 4, [46 Stat. 367](https://www.govinfo.gov/link/statute/46/367).)*

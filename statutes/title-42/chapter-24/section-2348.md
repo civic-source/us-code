@@ -3,9 +3,10 @@ title: "Section 2348 - Priority sale of apartment houses"
 usc_title: 42
 usc_section: "2348"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2348"
-generated_at: "2026-03-30T02:56:11.164Z"
+generated_at: "2026-11-23T20:27:22.148Z"
+status: "active"
 ---
 
 # § 2348. Priority sale of apartment houses
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.164Z"
 - **(b)** Any occupant who does not participate in the purchase of an apartment house with respect to which a priority right to purchase has been granted shall be entitled, at the time of sale by the Commission, to a lease for occupancy of his housing unit for a period not to exceed fifteen months from the date the property was first offered for sale: Provided , That the occupant makes application for such a lease within 30 days of the grant of such priority to purchase. In selling any apartment house with respect to which lease executed under this section is in effect, the Commission is authorized to provide for the purchaser to assume any or all obligations of the lessor. The Commission in such event shall guarantee the lessee’s performance of the lease.
 - **(c)** Persons who have purchased, either individually or jointly with other persons, a single-family house or duplex house (or a single-family unit in a duplex house) at Los Alamos pursuant to a priority right under this chapter shall not be eligible to participate in the priority purchase of an apartment house.
 - **(d)** The Commission is authorized to prescribe by rule or regulation such other conditions as it may find necessary or desirable for qualification of priority interests and rights for the purchase of an apartment house.
+
+## Source Credit
+
+*(Aug. 4, 1955, ch. 543, ch. 5, § 58, as added [Pub. L. 87–719, § 14](https://www.govinfo.gov/link/plaw/87/public/719), Sept. 28, 1962, [76 Stat. 665](https://www.govinfo.gov/link/statute/76/665); amended [Pub. L. 90–190, § 1](https://www.govinfo.gov/link/plaw/90/public/190), Dec. 14, 1967, [81 Stat. 575](https://www.govinfo.gov/link/statute/81/575).)*

@@ -3,9 +3,10 @@ title: "Section 229F - Definitions"
 usc_title: 18
 usc_section: "229F"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 229F"
-generated_at: "2026-03-30T02:54:16.460Z"
+generated_at: "2026-11-23T20:26:08.352Z"
+status: "active"
 ---
 
 # § 229F. Definitions
@@ -35,3 +36,41 @@ In this chapter:
     - **(A)** any of the places within the provisions of paragraph (41) 1 1 See References in Text note below. of section 40102 of title 49 , United States Code;
     - **(B)** any civil aircraft of the United States or public aircraft, as such terms are defined in paragraphs (17) and (37), 1 respectively, of section 40102 of title 49 , United States Code; and
     - **(C)** any vessel of the United States, as such term is defined in section 70502(b) of title 46 , United States Code.
+
+Chemical weapon
+
+Chemical weapons convention; convention
+
+Key component of a binary or multicomponent chemical system
+
+National of the united states
+
+Person
+
+Precursor.—
+
+In general
+
+List of precursors
+
+Purposes not prohibited by this chapter
+
+Peaceful purposes
+
+Protective purposes
+
+Unrelated military purposes
+
+Law enforcement purposes
+
+Toxic chemical.—
+
+In general
+
+List of toxic chemicals
+
+United states
+
+## Source Credit
+
+*(Added [Pub. L. 105–277, div. I, title II, § 201(a)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–869](https://www.govinfo.gov/link/statute/112/2681); amended [Pub. L. 109–304, § 17(d)(1)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1707](https://www.govinfo.gov/link/statute/120/1707).)*

@@ -3,9 +3,10 @@ title: "Section 774 - Survivor annuities"
 usc_title: 31
 usc_section: "774"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 774"
-generated_at: "2026-03-30T02:55:34.047Z"
+generated_at: "2026-11-23T20:26:51.694Z"
+status: "active"
 ---
 
 # § 774. Survivor annuities
@@ -36,3 +37,52 @@ generated_at: "2026-03-30T02:55:34.047Z"
     - **(B)** not more than 15 years of prior allowable service as a congressional employee; plus
   - **(2)** .75 percent of the average pay computed under clause (1) of this subsection times the number of years of other allowable service.
 - **(e)** A surviving spouse’s annuity may not be more than 50 percent nor less than 25 percent of the average annual pay computed under subsection (d)(1) of this section. If a Comptroller General does not make the deposit under section 773(b) of this title , a surviving spouse’s annuity shall be credited with the service during which a deposit was not made, unless the spouse elects not to have the service credited. However, the annuity shall be reduced by 10 percent of the amount of the unpaid deposit, computed on the date the Comptroller General or retired Comptroller General dies.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 774(a) | 31:43b( o ). | June 10, 1921, ch. 18 , 42 Stat. 20 , § 319(d), ( o ); added July 13, 1959 , Pub. L. 86–87 , 73 Stat. 197 , 200. |
+| 774(b), (c) | 31:43b(e). | June 10, 1921, ch. 18 , 42 Stat. 20 , § 319(e), (n); added July 13, 1959 , Pub. L. 86–87 , 73 Stat. 197 , 200; Oct. 25, 1978 , Pub. L. 95–512, § 2(2) –(4), 92 Stat. 1799 . |
+| 774(d) | 31:43b(n)(less words after last comma). |  |
+| 774(e) | 31:43b(d). |  |
+|  | 31:43b(n)(words after last comma). |  |
+
+
+Historical and Revision Notes
+
+774(a)
+
+June 10, 1921, ch. 18
+
+42 Stat. 20
+
+July 13, 1959
+
+Pub. L. 86–87
+
+73 Stat. 197
+
+774(b), (c)
+
+June 10, 1921, ch. 18
+
+42 Stat. 20
+
+July 13, 1959
+
+Pub. L. 86–87
+
+73 Stat. 197
+
+Oct. 25, 1978
+
+Pub. L. 95–512, § 2(2)
+
+92 Stat. 1799
+
+774(d)
+
+774(e)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 904](https://www.govinfo.gov/link/statute/96/904); [Pub. L. 100–426, title II, § 205](https://www.govinfo.gov/link/plaw/100/public/426), Sept. 9, 1988, [102 Stat. 1600](https://www.govinfo.gov/link/statute/102/1600).)*

@@ -3,9 +3,10 @@ title: "Section 3347 - Exclusivity"
 usc_title: 5
 usc_section: "3347"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 3347"
-generated_at: "2026-03-30T02:52:56.003Z"
+generated_at: "2026-11-23T20:25:31.822Z"
+status: "active"
 ---
 
 # § 3347. Exclusivity
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:52:56.003Z"
     - **(B)** designates an officer or employee to perform the functions and duties of a specified office temporarily in an acting capacity; or
   - **(2)** the President makes an appointment to fill a vacancy in such office during the recess of the Senate pursuant to clause 3 of section 2 of article II of the United States Constitution.
 - **(b)** Any statutory provision providing general authority to the head of an Executive agency (including the Executive Office of the President, and other than the Government Accountability Office) to delegate duties statutorily vested in that agency head to, or to reassign duties among, officers or employees of such Executive agency, is not a statutory provision to which subsection (a)(1) applies.
+
+## Source Credit
+
+*(Added [Pub. L. 105–277, div. C, title I, § 151(b)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–613](https://www.govinfo.gov/link/statute/112/2681); amended [Pub. L. 106–31, title V, § 5011](https://www.govinfo.gov/link/plaw/106/public/31), May 21, 1999, [113 Stat. 112](https://www.govinfo.gov/link/statute/113/112); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814).)*

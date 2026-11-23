@@ -3,9 +3,10 @@ title: "Section 16103 - Conserve by Bicycling Program"
 usc_title: 42
 usc_section: "16103"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16103"
-generated_at: "2026-03-30T02:56:11.468Z"
+generated_at: "2026-11-23T20:27:23.609Z"
+status: "active"
 ---
 
 # § 16103. Conserve by Bicycling Program
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:56:11.468Z"
   - **(1)** $5,150,000 shall be used to carry out pilot projects described in subsection (c);
   - **(2)** $300,000 shall be used by the Secretary to coordinate, publicize, and disseminate the results of the program; and
   - **(3)** $750,000 shall be used to carry out subsection (d).
+
+## Source Credit
+
+*([Pub. L. 109–58, title VII, § 755](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 828](https://www.govinfo.gov/link/statute/119/828).)*

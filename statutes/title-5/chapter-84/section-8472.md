@@ -3,9 +3,10 @@ title: "Section 8472 - Federal Retirement Thrift Investment Board"
 usc_title: 5
 usc_section: "8472"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8472"
-generated_at: "2026-03-30T02:52:56.063Z"
+generated_at: "2026-11-23T20:25:32.226Z"
+status: "active"
 ---
 
 # § 8472. Federal Retirement Thrift Investment Board
@@ -43,3 +44,11 @@ generated_at: "2026-03-30T02:52:56.063Z"
 - **(h)** The members of the Board shall discharge their responsibilities solely in the interest of participants and beneficiaries under this subchapter and subchapter III of this chapter.
 - **(i)** The Board shall prepare and submit to the President, and, at the same time, to the appropriate committees of Congress, an annual budget of the expenses and other items relating to the Board which shall be included as a separate item in the budget required to be transmitted to the Congress under section 1105 of title 31 .
 - **(j)** The Board may submit to the President, and, at the same time, shall submit to each House of the Congress, any legislative recommendations of the Board relating to any of its functions under this title or any other provision of law.
+
+Initial Appointment of Members
+
+Terms of Service
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 578](https://www.govinfo.gov/link/statute/100/578); amended [Pub. L. 99–509, title VI, § 6001(e)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1931](https://www.govinfo.gov/link/statute/100/1931); [Pub. L. 113–255, § 2(c)](https://www.govinfo.gov/link/plaw/113/public/255), Dec. 18, 2014, [128 Stat. 2920](https://www.govinfo.gov/link/statute/128/2920).)*

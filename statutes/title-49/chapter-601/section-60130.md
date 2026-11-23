@@ -3,9 +3,10 @@ title: "Section 60130 - Pipeline safety information grants to communities"
 usc_title: 49
 usc_section: "60130"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 60130"
-generated_at: "2026-03-30T02:56:19.416Z"
+generated_at: "2026-11-23T20:27:35.427Z"
+status: "active"
 ---
 
 # § 60130. Pipeline safety information grants to communities
@@ -28,3 +29,31 @@ generated_at: "2026-03-30T02:56:19.416Z"
     - **(B)** has pipeline safety expertise;
     - **(C)** is able to provide individuals and communities with technical assistance; and
     - **(D)** was established with funds designated for the purpose of community service through the implementation of section 3553 of title 18 relating to violations of this chapter.
+
+Grant Authority.—
+
+In general
+
+Demonstration grants
+
+Dissemination of technical findings
+
+Prohibited Uses
+
+Funding.—
+
+In general
+
+Improving technical assistance
+
+Limitation
+
+Definitions
+
+Technical assistance
+
+Eligible applicant
+
+## Source Credit
+
+*(Added [Pub. L. 107–355, § 9(a)](https://www.govinfo.gov/link/plaw/107/public/355), Dec. 17, 2002, [116 Stat. 2994](https://www.govinfo.gov/link/statute/116/2994); amended [Pub. L. 109–468, § 5](https://www.govinfo.gov/link/plaw/109/public/468), Dec. 29, 2006, [120 Stat. 3490](https://www.govinfo.gov/link/statute/120/3490); [Pub. L. 112–90, § 32(e)](https://www.govinfo.gov/link/plaw/112/public/90), Jan. 3, 2012, [125 Stat. 1923](https://www.govinfo.gov/link/statute/125/1923); [Pub. L. 113–188, title XV, § 1501(c)](https://www.govinfo.gov/link/plaw/113/public/188), Nov. 26, 2014, [128 Stat. 2024](https://www.govinfo.gov/link/statute/128/2024); [Pub. L. 114–183](https://www.govinfo.gov/link/plaw/114/public/183), §§ 2(d), 20(a), June 22, 2016, [130 Stat. 516](https://www.govinfo.gov/link/statute/130/516), 527; [Pub. L. 116–260, div. R, title I, § 101(e)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2213](https://www.govinfo.gov/link/statute/134/2213).)*

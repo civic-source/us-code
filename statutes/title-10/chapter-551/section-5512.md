@@ -3,9 +3,10 @@ title: "Section 5512 - Ballistic missile defense programs: display of amounts fo
 usc_title: 10
 usc_section: "5512"
 chapter: 551
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 5512"
-generated_at: "2026-03-30T02:53:38.217Z"
+generated_at: "2026-11-23T20:25:52.001Z"
+status: "active"
 ---
 
 # § 5512. Ballistic missile defense programs: display of amounts for research, development, test, and evaluation
@@ -20,3 +21,17 @@ generated_at: "2026-03-30T02:53:38.217Z"
 - **(c)** Before responsibility for a ballistic missile defense program is transferred from the Director of the Missile Defense Agency to the Secretary of a military department, the Secretary of Defense shall submit to the congressional defense committees notice in writing of the Secretary’s intent to make that transfer. The Secretary shall include with such notice a certification that the program has met the criteria established under subsection (b) for such a transfer. The transfer may then be carried out after the end of the 60-day period beginning on the date of such notice.
 - **(d)** When a ballistic missile defense program is transferred from the Missile Defense Agency to the Secretary of a military department in accordance with this section, the Secretary of Defense shall ensure that all appropriate conforming changes are made to proposed or projected funding allocations in the future-years defense program under section 221 of this title and other Department of Defense program, budget, and planning documents.
 - **(e)** The Secretary of Defense shall ensure that, before a ballistic missile defense program is transferred from the Director of the Missile Defense Agency to the Secretary of a military department, roles and responsibilities for research, development, test, and evaluation related to system improvements for that program are clearly delineated.
+
+Requirement
+
+Transfer Criteria
+
+Notification of Transfer
+
+Conforming Budget and Planning Transfers
+
+Follow-on Research, Development, Test, and Evaluation
+
+## Source Credit
+
+*(Added [Pub. L. 118–159, div. A, title XVI, § 1649(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2190](https://www.govinfo.gov/link/statute/138/2190).)*

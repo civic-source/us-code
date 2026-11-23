@@ -3,9 +3,10 @@ title: "Section 8287 - Authority to enter into contracts"
 usc_title: 42
 usc_section: "8287"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8287"
-generated_at: "2026-03-30T02:56:11.340Z"
+generated_at: "2026-11-23T20:27:23.029Z"
+status: "active"
 ---
 
 # § 8287. Authority to enter into contracts
@@ -64,3 +65,27 @@ generated_at: "2026-03-30T02:56:11.340Z"
     - **(G)** issuing a task or delivery order for energy savings performance contracting services to such contractor or contractors.
   - **(2)** The issuance of a task or delivery order for energy savings performance contracting services pursuant to paragraph (1) is deemed to satisfy the task and delivery order competition requirements in section 3406(d) of title 10 and section 4106(d) of title 41 .
   - **(3)** The Secretary may issue guidance as necessary to agencies issuing task or delivery orders pursuant to paragraph (1).
+
+Funding options
+
+Promotion of contracts
+
+Measurement and verification requirements for private financing.—
+
+In general
+
+Modification of existing contracts
+
+Miscellaneous authority
+
+Excluded contracts
+
+Energy Conservation Incentive
+
+Authorized Uses of Savings
+
+Determination of Amount of Savings
+
+## Source Credit
+
+*([Pub. L. 95–619, title VIII, § 801](https://www.govinfo.gov/link/plaw/95/public/619), as added [Pub. L. 99–272, title VII, § 7201(a)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 142](https://www.govinfo.gov/link/statute/100/142); amended [Pub. L. 102–486, title I, § 155(a)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2852](https://www.govinfo.gov/link/statute/106/2852); [Pub. L. 104–106, div. E, title LVI, § 5607(e)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 702](https://www.govinfo.gov/link/statute/110/702); [Pub. L. 104–316, title I, § 122(s)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3838](https://www.govinfo.gov/link/statute/110/3838); [Pub. L. 105–388, § 4(a)](https://www.govinfo.gov/link/plaw/105/public/388), Nov. 13, 1998, [112 Stat. 3477](https://www.govinfo.gov/link/statute/112/3477); [Pub. L. 106–291, title III, § 335](https://www.govinfo.gov/link/plaw/106/public/291), Oct. 11, 2000, [114 Stat. 997](https://www.govinfo.gov/link/statute/114/997); [Pub. L. 106–469, title IV, § 401](https://www.govinfo.gov/link/plaw/106/public/469), Nov. 9, 2000, [114 Stat. 2037](https://www.govinfo.gov/link/statute/114/2037); [Pub. L. 108–375, div. A, title X, § 1090(a)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2067](https://www.govinfo.gov/link/statute/118/2067); [Pub. L. 109–58, title I, § 105(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 611](https://www.govinfo.gov/link/statute/119/611); [Pub. L. 110–140, title V](https://www.govinfo.gov/link/plaw/110/public/140), §§ 511(a), 512–514, Dec. 19, 2007, [121 Stat. 1658](https://www.govinfo.gov/link/statute/121/1658), 1659; [Pub. L. 111–383, div. A, title VIII, § 828(a)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4271](https://www.govinfo.gov/link/statute/124/4271); [Pub. L. 116–260, div. Z, title I, § 1002(c)](https://www.govinfo.gov/link/plaw/116/public/260), (d), Dec. 27, 2020, [134 Stat. 2422](https://www.govinfo.gov/link/statute/134/2422); [Pub. L. 117–81, div. A, title XVII, § 1702(j)(5)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2159](https://www.govinfo.gov/link/statute/135/2159).)*

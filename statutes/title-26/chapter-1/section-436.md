@@ -3,9 +3,10 @@ title: "Section 436 - Funding-based limits on benefits and benefit accruals unde
 usc_title: 26
 usc_section: "436"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 436"
-generated_at: "2026-03-30T02:55:27.699Z"
+generated_at: "2026-11-23T20:26:45.727Z"
+status: "active"
 ---
 
 # § 436. Funding-based limits on benefits and benefit accruals under single-employer plans
@@ -80,3 +81,29 @@ generated_at: "2026-03-30T02:55:27.699Z"
   - **(3)** In the case of a plan for any plan year, if the funding target attainment percentage is 100 percent or more (determined without regard to the reduction in the value of assets under section 430(f)(4)), the funding target attainment percentage for purposes of paragraphs (1) and (2) shall be determined without regard to such reduction.
 - **(k)** In the case of a plan which has designated a valuation date other than the first day of the plan year, the Secretary may prescribe rules for the application of this section which are necessary to reflect the alternate valuation date.
 - **(l)** For purposes of this section, the term “single-employer plan” means a plan which is not a multiemployer plan.
+
+In general
+
+Collectively bargained plans
+
+In general
+
+Special rule
+
+In general
+
+Collective bargaining exception
+
+In general
+
+Amendments to which paragraph applies.—
+
+In general
+
+Conditions
+
+Anti-cutback relief
+
+## Source Credit
+
+*(Added [Pub. L. 109–280, title I, § 113(a)(1)(B)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 847](https://www.govinfo.gov/link/statute/120/847); amended [Pub. L. 110–458, title I, § 101(c)(2)](https://www.govinfo.gov/link/plaw/110/public/458), Dec. 23, 2008, [122 Stat. 5097](https://www.govinfo.gov/link/statute/122/5097); [Pub. L. 111–192, title II, § 203(a)(2)](https://www.govinfo.gov/link/plaw/111/public/192), June 25, 2010, [124 Stat. 1300](https://www.govinfo.gov/link/statute/124/1300); [Pub. L. 113–97, title II, § 202(c)(3)(B)](https://www.govinfo.gov/link/plaw/113/public/97), Apr. 7, 2014, [128 Stat. 1136](https://www.govinfo.gov/link/statute/128/1136); [Pub. L. 113–159, title II, § 2003(c)(1)](https://www.govinfo.gov/link/plaw/113/public/159), Aug. 8, 2014, [128 Stat. 1850](https://www.govinfo.gov/link/statute/128/1850); [Pub. L. 113–295, div. A, title II, § 221(a)(57)(E)(i)](https://www.govinfo.gov/link/plaw/113/public/295), (F)(i), (G)(i), Dec. 19, 2014, [128 Stat. 4046](https://www.govinfo.gov/link/statute/128/4046).)*

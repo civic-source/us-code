@@ -3,9 +3,10 @@ title: "Section 2605 - Servicing of mortgage loans and administration of escrow 
 usc_title: 12
 usc_section: "2605"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 2605"
-generated_at: "2026-03-30T02:53:53.486Z"
+generated_at: "2026-11-23T20:25:59.300Z"
+status: "active"
 ---
 
 # § 2605. Servicing of mortgage loans and administration of escrow accounts
@@ -104,3 +105,7 @@ generated_at: "2026-03-30T02:53:53.486Z"
     - **(B)** refund to the consumer all force-placed insurance premiums paid by the borrower during any period during which the borrower’s insurance coverage and the force-placed insurance coverage were each in effect, and any related fees charged to the consumer’s account with respect to the force-placed insurance during such period.
   - **(4)** No provision of this section shall be construed as prohibiting a servicer from providing simultaneous or concurrent notice of a lack of flood insurance pursuant to section 4012a(e) of title 42 .
 - **(m)** All charges, apart from charges subject to State regulation as the business of insurance, related to force-placed insurance imposed on the borrower by or through the servicer shall be bona fide and reasonable.
+
+## Source Credit
+
+*([Pub. L. 93–533, § 6](https://www.govinfo.gov/link/plaw/93/public/533), as added [Pub. L. 101–625, title IX, § 941](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4405](https://www.govinfo.gov/link/statute/104/4405); amended [Pub. L. 102–27, title III, § 312(a)](https://www.govinfo.gov/link/plaw/102/public/27), Apr. 10, 1991, [105 Stat. 154](https://www.govinfo.gov/link/statute/105/154); [Pub. L. 103–325, title III, § 345](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2239](https://www.govinfo.gov/link/statute/108/2239); [Pub. L. 104–208, div. A, title II, § 2103(a)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–399](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 111–203, title X, § 1098(4)](https://www.govinfo.gov/link/plaw/111/public/203), title XIV, § 1463, July 21, 2010, [124 Stat. 2104](https://www.govinfo.gov/link/statute/124/2104), 2182.)*

@@ -3,9 +3,10 @@ title: "Section 8432c - Contributions of certain persons reemployed after servic
 usc_title: 5
 usc_section: "8432c"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8432c"
-generated_at: "2026-03-30T02:52:56.058Z"
+generated_at: "2026-11-23T20:25:32.204Z"
+status: "active"
 ---
 
 # § 8432c. Contributions of certain persons reemployed after service with international organizations
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:52:56.058Z"
 - **(d)** For purposes of any computation under this section, a covered person shall, with respect to the period described in subsection (b)(2)(A), be considered to have been paid at the rate which would have been payable over such period had the person remained continuously employed in the position that the person last held before transferring to the international organization.
 - **(e)** For purposes of section 8432(g), a covered person shall be credited with a period of civilian service equal to the period beginning on the date of transfer of the person (as described in subsection (a)(1)) and ending on the day before the date of reemployment of the person (as described in subsection (a)(3)).
 - **(f)** The Executive Director shall prescribe regulations to carry out this section.
+
+## Source Credit
+
+*(Added [Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 334(a)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–440.)*

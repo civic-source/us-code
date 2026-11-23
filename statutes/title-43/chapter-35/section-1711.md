@@ -3,12 +3,17 @@ title: "Section 1711 - Continuing inventory and identification of public lands; 
 usc_title: 43
 usc_section: "1711"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1711"
-generated_at: "2026-03-30T02:55:57.486Z"
+generated_at: "2026-11-23T20:27:06.353Z"
+status: "active"
 ---
 
 # § 1711. Continuing inventory and identification of public lands; preparation and maintenance
 
 - **(a)** The Secretary shall prepare and maintain on a continuing basis an inventory of all public lands and their resource and other values (including, but not limited to, outdoor recreation and scenic values), giving priority to areas of critical environmental concern. This inventory shall be kept current so as to reflect changes in conditions and to identify new and emerging resource and other values. The preparation and maintenance of such inventory or the identification of such areas shall not, of itself, change or prevent change of the management or use of public lands.
 - **(b)** As funds and manpower are made available, the Secretary shall ascertain the boundaries of the public lands; provide means of public identification thereof including, where appropriate, signs and maps; and provide State and local governments with data from the inventory for the purpose of planning and regulating the uses of non-Federal lands in proximity of such public lands.
+
+## Source Credit
+
+*([Pub. L. 94–579, title II, § 201](https://www.govinfo.gov/link/plaw/94/public/579), Oct. 21, 1976, [90 Stat. 2747](https://www.govinfo.gov/link/statute/90/2747).)*

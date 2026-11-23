@@ -3,9 +3,10 @@ title: "Section 7627 - Air pollution from Outer Continental Shelf activities"
 usc_title: 42
 usc_section: "7627"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7627"
-generated_at: "2026-03-30T02:56:11.320Z"
+generated_at: "2026-11-23T20:27:22.940Z"
+status: "active"
 ---
 
 # § 7627. Air pollution from Outer Continental Shelf activities
@@ -26,3 +27,9 @@ generated_at: "2026-03-30T02:56:11.320Z"
 - **(c)**
   - **(1)** The study report of section 7412(n) 1 1 So in original. Probably should be section “7412(m)”. of this title shall apply to the coastal waters of the United States to the same extent and in the same manner as such requirements apply to the Great Lakes, the Chesapeake Bay, and their tributary waters.
   - **(2)** The regulatory requirements of section 7412(n) 1 of this title shall apply to the coastal waters of the States which are subject to subsection (a) of this section, to the same extent and in the same manner as such requirements apply to the Great Lakes, the Chesapeake Bay, and their tributary waters.
+
+“The transfer of air quality permitting authority pursuant to this section [amending this section and enacting provisions set out as a note under this section] shall not invalidate or stay—
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title III, § 328, as added [Pub. L. 101–549, title VIII, § 801](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2685](https://www.govinfo.gov/link/statute/104/2685); amended [Pub. L. 112–74, div. E, title IV, § 432(b)](https://www.govinfo.gov/link/plaw/112/public/74), (c), Dec. 23, 2011, [125 Stat. 1048](https://www.govinfo.gov/link/statute/125/1048), 1049.)*

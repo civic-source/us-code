@@ -3,9 +3,10 @@ title: "Section 1903 - Administration and enforcement"
 usc_title: 33
 usc_section: "1903"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1903"
-generated_at: "2026-03-30T02:55:41.110Z"
+generated_at: "2026-11-23T20:26:54.100Z"
+status: "active"
 ---
 
 # § 1903. Administration and enforcement
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:41.110Z"
       - **(ii)** if the Secretary has not obtained agreements pursuant to subparagraph (B) regarding the desirability of applying the requirements described in subparagraph (A)(i) to all vessels described in section 1902(a) of this title which call at United States ports.
   - **(5)** No standard issued by any person or Federal authority, with respect to emissions from tank vessels subject to regulation 15 of Annex VI to the Convention, shall be effective until 6 months after the required notification to the International Maritime Organization by the Secretary.
 - **(d)** The Secretary may utilize by agreement, with or without reimbursement, personnel, facilities, or equipment of other Federal departments and agencies in administering the MARPOL Protocol, this chapter, or the regulations thereunder.
+
+## Source Credit
+
+*([Pub. L. 96–478, § 4](https://www.govinfo.gov/link/plaw/96/public/478), Oct. 21, 1980, [94 Stat. 2298](https://www.govinfo.gov/link/statute/94/2298); [Pub. L. 100–220, title II, § 2107](https://www.govinfo.gov/link/plaw/100/public/220), Dec. 29, 1987, [101 Stat. 1464](https://www.govinfo.gov/link/statute/101/1464); [Pub. L. 104–227, title II, § 201(c)](https://www.govinfo.gov/link/plaw/104/public/227), Oct. 2, 1996, [110 Stat. 3042](https://www.govinfo.gov/link/statute/110/3042); [Pub. L. 110–280, § 5](https://www.govinfo.gov/link/plaw/110/public/280), July 21, 2008, [122 Stat. 2613](https://www.govinfo.gov/link/statute/122/2613).)*

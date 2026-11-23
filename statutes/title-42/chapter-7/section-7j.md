@@ -3,9 +3,10 @@ title: "Section 7j - Accountability requirements for facilities"
 usc_title: 42
 usc_section: "7j"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7j"
-generated_at: "2026-03-30T02:56:10.912Z"
+generated_at: "2026-11-23T20:27:21.000Z"
+status: "active"
 ---
 
 # § 1320a–7j. Accountability requirements for facilities
@@ -65,3 +66,51 @@ generated_at: "2026-03-30T02:56:10.912Z"
     - **(B)** may be subject to exclusion from participation in any Federal health care program (as defined in section 1320a–7b(f) of this title ); and
     - **(C)** shall be subject to any other penalties that may be prescribed by law.
   - **(4)** The provisions of section 1320a–7a of this title (other than subsections (a) and (b) and the second sentence of subsection (f)) shall apply to a civil money penalty or exclusion under paragraph (3) in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title .
+
+Establishment.—
+
+In general
+
+Selection
+
+Duration
+
+Implementation
+
+Requirements
+
+Responsibilities
+
+Implementation of Recommendations.—
+
+Receipt of finding by chain
+
+Receipt of report by independent monitor
+
+Cost of Appointment
+
+Waiver Authority
+
+Authorization of Appropriations
+
+Definitions
+
+Additional disclosable party
+
+Facility
+
+Nursing facility
+
+Secretary
+
+Skilled nursing facility
+
+Evaluation and Report.—
+
+Evaluation
+
+Report
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XI, § 1128I, as added and amended [Pub. L. 111–148, title VI](https://www.govinfo.gov/link/plaw/111/public/148), §§ 6102, 6105(a), 6106, 6113(a), Mar. 23, 2010, [124 Stat. 702](https://www.govinfo.gov/link/statute/124/702), 711, 712, 718.)*

@@ -3,9 +3,10 @@ title: "Section 20126 - Consultation"
 usc_title: 34
 usc_section: "20126"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 20126"
-generated_at: "2026-03-30T02:55:33.294Z"
+generated_at: "2026-11-23T20:26:50.582Z"
+status: "active"
 ---
 
 # § 20126. Consultation
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:33.294Z"
   - **(2)** describes actions taken during the year covered by the report to respond to recommendations made under subsection (b) during the year or a previous year; and
   - **(3)** describes how the Attorney General will work in coordination and collaboration with Indian tribes, the Secretary of Health and Human Services, and the Secretary of the Interior to address the recommendations made under subsection (b).
 - **(d)** Not later than 120 days before the date of a consultation under subsection (a), the Attorney General shall notify tribal leaders of the date, time, and location of the consultation.
+
+## Source Credit
+
+*([Pub. L. 109–162, title IX, § 903](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3078](https://www.govinfo.gov/link/statute/119/3078); [Pub. L. 113–4, title IX, § 903](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 120](https://www.govinfo.gov/link/statute/127/120); [Pub. L. 116–165, § 4(b)(3)](https://www.govinfo.gov/link/plaw/116/public/165), Oct. 10, 2020, [134 Stat. 761](https://www.govinfo.gov/link/statute/134/761).)*

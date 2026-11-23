@@ -3,9 +3,10 @@ title: "Section 1445d - Special wheat acreage grazing and hay program for 1978 t
 usc_title: 7
 usc_section: "1445d"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1445d"
-generated_at: "2026-03-30T02:53:42.314Z"
+generated_at: "2026-11-23T20:25:41.158Z"
+status: "active"
 ---
 
 # § 1445d. Special wheat acreage grazing and hay program for 1978 through 1990 crop years
@@ -18,3 +19,7 @@ Notwithstanding any other provision of law—
 - **(d)** Acreage included in the special program shall be in addition to any acreage included in any acreage set-aside, reduced acreage, or land diversion program otherwise provided for by law.
 - **(e)** The Secretary is authorized to issue such regulations as the Secretary determines necessary to carry out the provisions of this section.
 - **(f)** The Secretary shall carry out the special program through the Commodity Credit Corporation.
+
+## Source Credit
+
+*(Oct. 31, 1949, ch. 792, title I, § 109, as added [Pub. L. 95–113, title X, § 1004](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 950](https://www.govinfo.gov/link/statute/91/950); amended [Pub. L. 97–98, title XI, § 1110](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1267](https://www.govinfo.gov/link/statute/95/1267); [Pub. L. 99–198, title X, § 1015](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1457](https://www.govinfo.gov/link/statute/99/1457).)*

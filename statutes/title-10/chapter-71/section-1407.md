@@ -3,9 +3,10 @@ title: "Section 1407 - Retired pay base for members who first became members aft
 usc_title: 10
 usc_section: "1407"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1407"
-generated_at: "2026-03-30T02:53:38.119Z"
+generated_at: "2026-11-23T20:25:51.317Z"
+status: "active"
 ---
 
 # § 1407. Retired pay base for members who first became members after September 7, 1980 : high-36 month average
@@ -41,3 +42,49 @@ generated_at: "2026-03-30T02:53:38.119Z"
   - **(4)** In the case of an officer who served in the temporary grade of O–9 or O–10 and received a conditional or final retirement in the permanent grade of O–8 pursuant to section 1370 or 1370a of this title, the retired pay base or retainer pay shall be the lower of—
     - **(A)** the amount determined under subsection (c) or (d), as applicable; or
     - **(B)** the amount determined under section 1406 of this title , as if the officer first became a member of a uniformed service before September 8, 1980 .
+
+Use of Retired Pay Base in Computing Retired Pay
+
+High-Three Average
+
+Computation of High-Three Average for Members Entitled to Retired or Retainer Pay for Regular Service.—
+
+General rule
+
+Special rule for short-term disability retirees
+
+Special Rule for Reserve Component Members
+
+Computation of High-Three Average for Members and Former Members Entitled to Retired Pay for Nonregular Service.—
+
+Retired pay under chapter 1223
+
+Nonregular service disability retired pay
+
+Special rule for short-term disability retirees
+
+High-36 months
+
+Limitation for Enlisted Members Retiring With Less Than
+
+Years’ Service
+
+Exception for Enlisted Members Reduced in Grade and Officers Who Do Not Serve Satisfactorily in Highest Grade Held
+
+Computation based on pre-high-three rules
+
+Affected members
+
+Special rule for enlisted members
+
+Special rule for officers who served in grade o–9 or o–10 and retired in grade o–8
+
+chapter 1223
+
+chapter 67
+
+“Paragraph (3) of section 1407(c) of title 10 , United States Code, as added by subsection (a), shall take effect—
+
+## Source Credit
+
+*(Added [Pub. L. 99–348, title I, § 104(b)](https://www.govinfo.gov/link/plaw/99/public/348), July 1, 1986, [100 Stat. 689](https://www.govinfo.gov/link/statute/100/689); amended [Pub. L. 101–189, div. A, title VI, § 651(a)](https://www.govinfo.gov/link/plaw/101/public/189), (b)(2), Nov. 29, 1989, [103 Stat. 1459](https://www.govinfo.gov/link/statute/103/1459), 1460; [Pub. L. 103–337, div. A, title XVI, § 1662(j)(5)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 3004](https://www.govinfo.gov/link/statute/108/3004); [Pub. L. 104–106, div. A, title XV, § 1501(c)(15)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 499](https://www.govinfo.gov/link/statute/110/499); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title VI, § 651], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–163; [Pub. L. 107–107, div. A, title X, § 1048(c)(8)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1226](https://www.govinfo.gov/link/statute/115/1226); [Pub. L. 108–375, div. A, title VI, § 641(a)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1957](https://www.govinfo.gov/link/statute/118/1957); [Pub. L. 111–84, div. A, title VI, § 643(d)(2)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2367](https://www.govinfo.gov/link/statute/123/2367); [Pub. L. 115–232, div. A, title VIII, § 809(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1840](https://www.govinfo.gov/link/statute/132/1840); [Pub. L. 116–283, div. A, title V, § 508(b)(1)(B)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3585](https://www.govinfo.gov/link/statute/134/3585); [Pub. L. 118–159, div. A, title VI, § 605](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1931](https://www.govinfo.gov/link/statute/138/1931).)*

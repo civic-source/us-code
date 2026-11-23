@@ -3,9 +3,10 @@ title: "Section 806 - Repealed. Pub. L. 115–97, title I, § 13512(a) , Dec. 22
 usc_title: 26
 usc_section: "806"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 806"
-generated_at: "2026-03-30T02:55:27.729Z"
+generated_at: "2026-11-23T20:26:45.880Z"
+status: "repealed"
 ---
 
 # [§ 806. Repealed. Pub. L. 115–97, title I, § 13512(a) , Dec. 22, 2017 , 131 Stat. 2142 ]

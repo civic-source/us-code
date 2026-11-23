@@ -3,9 +3,10 @@ title: "Section 41708 - Reports"
 usc_title: 49
 usc_section: "41708"
 chapter: 417
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 41708"
-generated_at: "2026-03-30T02:56:19.376Z"
+generated_at: "2026-11-23T20:27:35.099Z"
+status: "active"
 ---
 
 # § 41708. Reports
@@ -40,3 +41,65 @@ generated_at: "2026-03-30T02:56:19.376Z"
       - **(iv)** the gate-departure time of the cancelled flight; and
       - **(v)** the time the aircraft returned to the gate.
   - **(4)** The Secretary shall compile the information provided in the monthly reports filed pursuant to paragraph (1) in a single monthly report and publish such report on the Internet Web site of the Department of Transportation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 41708(a) | 49 App.:1377(e) (last sentence). | Aug. 23, 1958 , Pub. L. 85–726, § 407(e) (last sentence), 72 Stat. 766 . |
+|  | 49 App.:1551(b)(1)(E). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 1601(b)(1)(E); added Oct. 4, 1984 , Pub. L. 98–443, § 3(e) , 98 Stat. 1704 . |
+| 41708(b) | 49 App.:1377(a). | Aug. 23, 1958 , Pub. L. 85–726, § 407(a) , 72 Stat. 766 ; Feb. 15, 1980 , Pub. L. 96–192, § 10 , 94 Stat. 38 . |
+|  | 49 App.:1551(b)(1)(E). |  |
+
+
+Application
+
+Requirements
+
+Diverted and Cancelled Flights.—
+
+Monthly reports
+
+Applicability
+
+Contents
+
+Publication
+
+Historical and Revision Notes
+
+41708(a)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 407(e)
+
+72 Stat. 766
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Oct. 4, 1984
+
+Pub. L. 98–443, § 3(e)
+
+98 Stat. 1704
+
+41708(b)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 407(a)
+
+72 Stat. 766
+
+Feb. 15, 1980
+
+Pub. L. 96–192, § 10
+
+94 Stat. 38
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1141](https://www.govinfo.gov/link/statute/108/1141); [Pub. L. 112–95, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 83](https://www.govinfo.gov/link/statute/126/83).)*

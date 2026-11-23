@@ -3,9 +3,10 @@ title: "Section 55311 - Findings and purposes"
 usc_title: 46
 usc_section: "55311"
 chapter: 553
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 55311"
-generated_at: "2026-03-30T02:56:15.580Z"
+generated_at: "2026-11-23T20:27:27.388Z"
+status: "active"
 ---
 
 # § 55311. Findings and purposes
@@ -21,3 +22,26 @@ generated_at: "2026-03-30T02:56:15.580Z"
   - **(4)** improve the efficiency of administration of both the commodity purchasing and selling activities and the ocean transportation activities associated with export programs sponsored by the Secretary;
   - **(5)** stimulate and promote the agricultural and maritime industries of the United States and encourage cooperative efforts by both industries to address their common problems; and
   - **(6)** provide for the appropriate disposition of these findings and purposes.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 55311 | 46 App.:1241d. | Pub. L. 99–198, title XI, § 1141 , Dec. 23, 1985 , 99 Stat. 1490 . |
+
+
+Findings
+
+Purposes
+
+Historical and Revision Notes
+
+55311
+
+Pub. L. 99–198, title XI, § 1141
+
+Dec. 23, 1985
+
+99 Stat. 1490
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(c)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1643](https://www.govinfo.gov/link/statute/120/1643).)*

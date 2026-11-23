@@ -3,9 +3,10 @@ title: "Section 312 - Inspector General"
 usc_title: 38
 usc_section: "312"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 312"
-generated_at: "2026-03-30T02:55:53.470Z"
+generated_at: "2026-11-23T20:27:01.556Z"
+status: "active"
 ---
 
 # § 312. Inspector General
@@ -52,3 +53,25 @@ generated_at: "2026-03-30T02:55:53.470Z"
   - **(7)**
     - **(A)** The authority provided by paragraph (1)(A) shall terminate on September 30, 2026 .
     - **(B)** The termination of authority by subparagraph (A) shall not affect the enforceability of a subpoena issued under paragraph (1)(A) before the date of such termination.
+
+In general
+
+Semiannual report
+
+Training
+
+Timing of Training
+
+Elements
+
+Design and Update
+
+System
+
+Relation to Certain Training
+
+Notice to Employees
+
+## Source Credit
+
+*(Added [Pub. L. 102–83, § 2(a)](https://www.govinfo.gov/link/plaw/102/public/83), Aug. 6, 1991, [105 Stat. 383](https://www.govinfo.gov/link/statute/105/383); amended [Pub. L. 103–446, title XII, § 1201(e)(3)](https://www.govinfo.gov/link/plaw/103/public/446), (g)(1), Nov. 2, 1994, [108 Stat. 4685](https://www.govinfo.gov/link/statute/108/4685), 4687; [Pub. L. 114–113, div. J, title II, § 239](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2700](https://www.govinfo.gov/link/statute/129/2700); [Pub. L. 114–223, div. A, title II, § 244](https://www.govinfo.gov/link/plaw/114/public/223), Sept. 29, 2016, [130 Stat. 884](https://www.govinfo.gov/link/statute/130/884); [Pub. L. 117–136, § 2(a)](https://www.govinfo.gov/link/plaw/117/public/136), June 7, 2022, [136 Stat. 1251](https://www.govinfo.gov/link/statute/136/1251); [Pub. L. 117–286, § 4(b)(60)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4350](https://www.govinfo.gov/link/statute/136/4350); [Pub. L. 118–83, div. B, title III, § 332](https://www.govinfo.gov/link/plaw/118/public/83), Sept. 26, 2024, [138 Stat. 1541](https://www.govinfo.gov/link/statute/138/1541); [Pub. L. 119–37, div. G, title IV, § 7401](https://www.govinfo.gov/link/plaw/119/public/37), Nov. 12, 2025, [139 Stat. 654](https://www.govinfo.gov/link/statute/139/654).)*

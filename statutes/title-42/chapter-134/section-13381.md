@@ -3,9 +3,10 @@ title: "Section 13381 - Report"
 usc_title: 42
 usc_section: "13381"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13381"
-generated_at: "2026-03-30T02:56:11.443Z"
+generated_at: "2026-11-23T20:27:23.486Z"
+status: "active"
 ---
 
 # § 13381. Report
@@ -18,3 +19,7 @@ Not later than 2 years after October 24, 1992 , the Secretary shall submit a rep
   - **(4)** the feasibility of reducing the generation of greenhouse gases;
   - **(5)** the feasibility and economic, energy, social, environmental, and competitive implications, including implications for jobs, of achieving a 20 percent reduction from 1988 levels in the generation of carbon dioxide by the year 2005 as recommended by the 1988 Toronto Scientific World Conference on the Changing Atmosphere;
   - **(6)** the potential economic, energy, social, environmental, and competitive implications, including implications for jobs, of implementing the policies necessary to enable the United States to comply with any obligations under the United Nations Framework Convention on Climate Change or subsequent international agreements.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XVI, § 1601](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2999](https://www.govinfo.gov/link/statute/106/2999).)*

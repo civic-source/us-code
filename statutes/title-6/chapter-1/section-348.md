@@ -3,9 +3,10 @@ title: "Section 348 - Joint task forces"
 usc_title: 6
 usc_section: "348"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 348"
-generated_at: "2026-03-30T02:53:09.461Z"
+generated_at: "2026-11-23T20:25:34.715Z"
+status: "active"
 ---
 
 # § 348. Joint task forces
@@ -114,3 +115,11 @@ generated_at: "2026-03-30T02:53:09.461Z"
       - **(ii)** an assessment of the effectiveness of oversight over each Joint Task Force, with specificity regarding the Secretary’s utilization of outcome-based or other appropriate performance metrics (established pursuant to paragraph (9)(A)(iii)) to evaluate the effectiveness of each Joint Task Force in measuring progress with respect to the mission, strategic goals, and objectives (established pursuant to paragraph (9)(A)(i)) of such Joint Task Force.
   - **(13)** This section expires on September 30, 2026 .
 - **(c)** After establishing the joint duty training program under subsection (b)(10), the Secretary shall establish a joint duty assignment program within the Department for the purposes of enhancing coordination in the Department and promoting workforce professional development.
+
+In general
+
+Topics
+
+## Source Credit
+
+*([Pub. L. 107–296, title VII, § 708](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 114–328, div. A, title XIX, § 1901(b)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2665](https://www.govinfo.gov/link/statute/130/2665); amended [Pub. L. 117–263, div. G, title LXXI, § 7111(b)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3625](https://www.govinfo.gov/link/statute/136/3625); [Pub. L. 118–103, § 2(a)](https://www.govinfo.gov/link/plaw/118/public/103), Oct. 1, 2024, [138 Stat. 1584](https://www.govinfo.gov/link/statute/138/1584).)*

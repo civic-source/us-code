@@ -3,9 +3,10 @@ title: "Section 50103 - Determinations of essential services"
 usc_title: 46
 usc_section: "50103"
 chapter: 501
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 50103"
-generated_at: "2026-03-30T02:56:15.567Z"
+generated_at: "2026-11-23T20:27:27.263Z"
+status: "active"
 ---
 
 # § 50103. Determinations of essential services
@@ -22,3 +23,59 @@ generated_at: "2026-03-30T02:56:15.567Z"
 - **(c)** The Secretary shall investigate, determine, and keep current records of the type, size, speed, method of propulsion, and other requirements of the vessels, including express-liner or super-liner vessels, that should be employed in—
   - **(1)** the services, routes, or lines described in subsection (a), and the frequency and regularity of the voyages of the vessels, with a view to furnishing adequate, regular, certain, and permanent service; and
   - **(2)** the bulk cargo carrying services described in subsection (b).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 50103(a)(1) | 46 App.:1121(a). | June 29, 1936, ch. 858 , title II, § 211(a)–(c), 49 Stat. 1989 ; Pub. L. 91–469 , §§ 4, 35(a), (b), Oct. 21, 1970 , 84 Stat. 1018 , 1035; Pub. L. 97–31, § 12(67) , Aug. 6, 1981 , 95 Stat. 159 . |
+| 50103(a)(2) | 46 App.:1213(a) (3d sentence related to 1121(a)). | June 29, 1936, ch. 858 , title VIII, § 809(a) (3d sentence related to 211(a)), as added Pub. L. 97–35, title XVI, § 1604 , Aug. 13, 1981 , 95 Stat. 751 . |
+| 50103(b) | 46 App.:1121(b). |  |
+| 50103(c) | 46 App.:1121(c). |  |
+
+
+Essential Services, Routes, and Lines
+
+In general
+
+Saint lawrence seaway
+
+Bulk Cargo Carrying Services
+
+Types of Vessels
+
+Historical and Revision Notes
+
+50103(a)(1)
+
+June 29, 1936, ch. 858
+
+49 Stat. 1989
+
+Pub. L. 91–469
+
+Oct. 21, 1970
+
+84 Stat. 1018
+
+Pub. L. 97–31, § 12(67)
+
+Aug. 6, 1981
+
+95 Stat. 159
+
+50103(a)(2)
+
+June 29, 1936, ch. 858
+
+Pub. L. 97–35, title XVI, § 1604
+
+Aug. 13, 1981
+
+95 Stat. 751
+
+50103(b)
+
+50103(c)
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(b)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1557](https://www.govinfo.gov/link/statute/120/1557).)*

@@ -3,9 +3,10 @@ title: "Section 1440 - Payor of last resort"
 usc_title: 20
 usc_section: "1440"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1440"
-generated_at: "2026-03-30T02:54:48.166Z"
+generated_at: "2026-11-23T20:26:14.655Z"
+status: "active"
 ---
 
 # § 1440. Payor of last resort
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:48.166Z"
     - **(B)** signed agreements between respective agency officials that clearly identify the responsibilities of each agency relating to the provision of services; or
     - **(C)** other appropriate written methods as determined by the Chief Executive Officer of the State or designee of the officer and approved by the Secretary through the review and approval of the State’s application pursuant to section 1437 of this title .
 - **(c)** Nothing in this subchapter shall be construed to permit the State to reduce medical or other assistance available or to alter eligibility under title V of the Social Security Act [ 42 U.S.C. 701 et seq.] (relating to maternal and child health) or title XIX of the Social Security Act [ 42 U.S.C. 1396 et seq.] (relating to medicaid for infants or toddlers with disabilities) within the State.
+
+## Source Credit
+
+*([Pub. L. 91–230, title VI, § 640](https://www.govinfo.gov/link/plaw/91/public/230), as added [Pub. L. 108–446, title I, § 101](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2757](https://www.govinfo.gov/link/statute/118/2757).)*

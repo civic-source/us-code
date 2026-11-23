@@ -3,9 +3,10 @@ title: "Section 4621 - Declaration of findings and policy"
 usc_title: 42
 usc_section: "4621"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4621"
-generated_at: "2026-03-30T02:56:11.206Z"
+generated_at: "2026-11-23T20:27:22.400Z"
+status: "active"
 ---
 
 # § 4621. Declaration of findings and policy
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.206Z"
   - **(2)** uniform procedures for the administration of relocation assistance shall, to the maximum extent feasible, assure that the unique circumstances of any displaced person are taken into account and that persons in essentially similar circumstances are accorded equal treatment under this chapter;
   - **(3)** the improvement of housing conditions of economically disadvantaged persons under this subchapter shall be undertaken, to the maximum extent feasible, in coordination with existing Federal, State, and local governmental programs for accomplishing such goals; and
   - **(4)** the policies and procedures of this chapter will be administered in a manner which is consistent with fair housing requirements and which assures all persons their rights under title VIII of the Act of April 11, 1968 ( Public Law 90–284 ), commonly known as the Civil Rights Act of 1968 [ 42 U.S.C. 3601 et seq.], and title VI of the Civil Rights Act of 1964 [ 42 U.S.C. 2000d et seq.].
+
+## Source Credit
+
+*([Pub. L. 91–646, title II, § 201](https://www.govinfo.gov/link/plaw/91/public/646), Jan. 2, 1971, [84 Stat. 1895](https://www.govinfo.gov/link/statute/84/1895); [Pub. L. 100–17, title IV, § 404](https://www.govinfo.gov/link/plaw/100/public/17), Apr. 2, 1987, [101 Stat. 248](https://www.govinfo.gov/link/statute/101/248).)*

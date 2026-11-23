@@ -3,9 +3,10 @@ title: "Section 60604 - Research activities"
 usc_title: 51
 usc_section: "60604"
 chapter: 606
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 60604"
-generated_at: "2026-03-30T02:56:28.713Z"
+generated_at: "2026-11-23T20:27:37.533Z"
+status: "active"
 ---
 
 # § 60604. Research activities
@@ -22,3 +23,21 @@ generated_at: "2026-03-30T02:56:28.713Z"
   - **(1)** transition the space weather research findings, models, and capabilities of the National Aeronautics and Space Administration, the National Science Foundation, the United States Geological Survey, and other relevant Federal agencies, as appropriate, to the National Oceanic and Atmospheric Administration and the Department of Defense;
   - **(2)** enhance coordination between research modeling centers and forecasting centers; and
   - **(3)** communicate the operational needs of space weather forecasters of the National Oceanic and Atmospheric Administration and Department of Defense, as appropriate, to the National Aeronautics and Space Administration, the National Science Foundation, and the United States Geological Survey.
+
+Basic Research
+
+Multidisciplinary Research.—
+
+Findings
+
+Sense of congress
+
+Multidisciplinary research
+
+Science Missions
+
+Research to Operations; Operations to Research
+
+## Source Credit
+
+*([Pub. L. 116–181, § 2(b)](https://www.govinfo.gov/link/plaw/116/public/181), Oct. 21, 2020, [134 Stat. 889](https://www.govinfo.gov/link/statute/134/889).)*

@@ -3,9 +3,10 @@ title: "Section 6604 - Punitive damages limitations"
 usc_title: 15
 usc_section: "6604"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 6604"
-generated_at: "2026-03-30T02:54:08.212Z"
+generated_at: "2026-11-23T20:26:04.401Z"
+status: "active"
 ---
 
 # § 6604. Punitive damages limitations
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:08.212Z"
   - **(2)** Paragraph (1) shall not apply to an institution of higher education if the Y2K failure in the Y2K action occurred in a computer-based student financial aid system of that institution of higher education, and the institution—
     - **(A)** has passed Y2K data exchange testing with the Department of Education; or
     - **(B)** is not or was not in the process of performing data exchange testing with the Department of Education at the time the Department terminates such testing.
+
+## Source Credit
+
+*([Pub. L. 106–37, § 5](https://www.govinfo.gov/link/plaw/106/public/37), July 20, 1999, [113 Stat. 192](https://www.govinfo.gov/link/statute/113/192); [Pub. L. 106–113, div. B, § 1000(a)(4) [title III, § 311]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1535](https://www.govinfo.gov/link/statute/113/1535), 1501A–265.)*

@@ -3,9 +3,10 @@ title: "Section 10704 - Sanctions relating to the Western Balkans"
 usc_title: 22
 usc_section: "10704"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 10704"
-generated_at: "2026-03-30T02:55:05.479Z"
+generated_at: "2026-11-23T20:26:32.832Z"
+status: "active"
 ---
 
 # § 10704. Sanctions relating to the Western Balkans
@@ -66,3 +67,7 @@ generated_at: "2026-03-30T02:55:05.479Z"
   - **(1)** Nothing in this section may be construed to limit the authorities of the President under the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.).
   - **(2)** Nothing in this section shall be construed to modify any sanctions in effect as of December 18, 2025 .
 - **(k)** This section shall cease to have force or effect beginning on the date that is 8 years after December 18, 2025 .
+
+## Source Credit
+
+*([Pub. L. 119–60, div. H, title LXXXIII, § 8335](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1867](https://www.govinfo.gov/link/statute/139/1867).)*

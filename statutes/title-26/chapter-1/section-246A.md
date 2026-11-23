@@ -3,9 +3,10 @@ title: "Section 246A - Dividends received deduction reduced where portfolio stoc
 usc_title: 26
 usc_section: "246A"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 246A"
-generated_at: "2026-03-30T02:55:27.656Z"
+generated_at: "2026-11-23T20:26:45.524Z"
+status: "active"
 ---
 
 # § 246A. Dividends received deduction reduced where portfolio stock is debt financed
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:55:27.656Z"
     - **(B)** the 1-year period ending on the day before the ex-dividend date for the dividend involved.
 - **(e)** Under regulations prescribed by the Secretary, any reduction under this section in the amount allowable as a deduction under section 243 or 245 with respect to any dividend shall not exceed the amount of any interest deduction (including any deductible short sale expense) allocable to such dividend.
 - **(f)** The regulations prescribed for purposes of this section under section 7701(f) shall include regulations providing for the disallowance of interest deductions or other appropriate treatment (in lieu of reducing the dividend received deduction) where the obligor of the indebtedness is a person other than the person receiving the dividend.
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title I, § 51(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 562](https://www.govinfo.gov/link/statute/98/562); amended [Pub. L. 99–514, title VI, § 611(a)(4)](https://www.govinfo.gov/link/plaw/99/public/514), title XVIII, § 1804(a), Oct. 22, 1986, [100 Stat. 2249](https://www.govinfo.gov/link/statute/100/2249), 2798; [Pub. L. 100–203, title X, § 10221(d)(2)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–409](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–647, title I, § 1012](https://www.govinfo.gov/link/plaw/100/public/647) (l)(1), Nov. 10, 1988, [102 Stat. 3513](https://www.govinfo.gov/link/statute/102/3513); [Pub. L. 108–311, title IV, § 408(a)(9)](https://www.govinfo.gov/link/plaw/108/public/311), Oct. 4, 2004, [118 Stat. 1191](https://www.govinfo.gov/link/statute/118/1191); [Pub. L. 113–295, div. A, title II, § 221(a)(41)(F)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4044](https://www.govinfo.gov/link/statute/128/4044); [Pub. L. 115–97, title I, § 13002(d)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2100](https://www.govinfo.gov/link/statute/131/2100); [Pub. L. 115–141, div. U, title IV, § 401(b)(17)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1202](https://www.govinfo.gov/link/statute/132/1202).)*

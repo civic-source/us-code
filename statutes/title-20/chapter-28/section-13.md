@@ -3,9 +3,10 @@ title: "Section 13 - Upward bound"
 usc_title: 20
 usc_section: "13"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 13"
-generated_at: "2026-03-30T02:54:48.105Z"
+generated_at: "2026-11-23T20:26:14.367Z"
+status: "active"
 ---
 
 # § 1070a–13. Upward bound
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:54:48.105Z"
   - **(1)** There are authorized to be appropriated, and there are appropriated to the Secretary, from funds not otherwise appropriated, $57,000,000 for each of the fiscal years 2008 through 2011 to carry out paragraph (2), except that any amounts that remain unexpended for such purpose for each of such fiscal years may be available for technical assistance and administration costs for the Upward Bound program. The authority to award grants under this subsection shall expire at the end of fiscal year 2011.
   - **(2)** The amounts made available by paragraph (1) shall be available to provide assistance to all Upward Bound projects that did not receive assistance in fiscal year 2007 and that have a grant score above 70. Such assistance shall be made available in the form of 4-year grants.
 - **(h)** Upon enactment of this subsection and except as otherwise expressly provided by amendment to this section, the Secretary shall not continue, implement, or enforce the absolute priority for the Upward Bound Program published by the Department of Education in the Federal Register on September 22, 2006 (71 Fed. Reg. 55447 et seq.). This subsection shall not be applied retroactively. In implementing this subsection, the Department shall allow the programs and participants chosen in the grant cycle to which the priority applies to continue their grants and participation without a further recompetition. The entities shall not be required to apply the absolute priority conditions or restrictions to future participants.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 402C](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 102–325, title IV, § 402(a)(4)](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 487](https://www.govinfo.gov/link/statute/106/487); amended [Pub. L. 103–208, § 2(b)(10)](https://www.govinfo.gov/link/plaw/103/public/208), Dec. 20, 1993, [107 Stat. 2459](https://www.govinfo.gov/link/statute/107/2459); [Pub. L. 105–244, title IV, § 402(c)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1654](https://www.govinfo.gov/link/statute/112/1654); [Pub. L. 110–84, title I, § 103](https://www.govinfo.gov/link/plaw/110/public/84), Sept. 27, 2007, [121 Stat. 786](https://www.govinfo.gov/link/statute/121/786); [Pub. L. 110–315, title IV, § 403(c)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3199](https://www.govinfo.gov/link/statute/122/3199).)*

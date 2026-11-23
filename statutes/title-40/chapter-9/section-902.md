@@ -3,9 +3,10 @@ title: "Section 902 - Definitions"
 usc_title: 40
 usc_section: "902"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 902"
-generated_at: "2026-03-30T02:55:43.377Z"
+generated_at: "2026-11-23T20:26:56.563Z"
+status: "active"
 ---
 
 # § 902. Definitions
@@ -17,3 +18,28 @@ In this chapter, the following definitions apply:
     - **(A)** a geographical area within the jurisdiction of an incorporated city, town, borough, village, or other unit of general local government, except a county or parish, having a population of at least 10,000 inhabitants;
     - **(B)** that portion of the geographical area within the jurisdiction of a county, town, township, or similar governmental entity which contains no incorporated unit of general local government but has a population density of at least 1,500 inhabitants per square mile; and
     - **(C)** that portion of a geographical area having a population density of at least 1,500 inhabitants per square mile and situated adjacent to the boundary of an incorporated unit of general local government which has a population of at least 10,000.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 902 | 40:535(a), (b). | June 30, 1949, ch. 288 , title VIII, § 806(a), (b), as added Pub. L. 90–577, title V, § 501 , Oct. 16, 1968 , 82 Stat. 1105 . |
+
+
+Unit of general local government
+
+Urban area
+
+Historical and Revision Notes
+
+902
+
+June 30, 1949, ch. 288
+
+Pub. L. 90–577, title V, § 501
+
+Oct. 16, 1968
+
+82 Stat. 1105
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1128](https://www.govinfo.gov/link/statute/116/1128).)*

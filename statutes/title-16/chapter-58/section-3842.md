@@ -3,9 +3,10 @@ title: "Section 3842 - Delivery of technical assistance"
 usc_title: 16
 usc_section: "3842"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3842"
-generated_at: "2026-03-30T02:54:23.033Z"
+generated_at: "2026-11-23T20:26:20.710Z"
+status: "active"
 ---
 
 # § 3842. Delivery of technical assistance
@@ -75,3 +76,7 @@ generated_at: "2026-03-30T02:54:23.033Z"
     - **(B)** In carrying out subparagraph (A), the Secretary shall develop—
       - **(i)** programs that meet specific needs of producers involved with organic, specialty crop production or precision agriculture through cooperative agreements with other agencies and nongovernmental organizations; and
       - **(ii)** program specifications that allow for innovative approaches to engage local resources in providing technical assistance for planning and implementation of conservation practices.
+
+## Source Credit
+
+*([Pub. L. 99–198, title XII, § 1242](https://www.govinfo.gov/link/plaw/99/public/198), as added [Pub. L. 107–171, title II, § 2701](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 279](https://www.govinfo.gov/link/statute/116/279); amended [Pub. L. 110–234, title II, § 2706](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1074](https://www.govinfo.gov/link/statute/122/1074); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title II, § 2706, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1802; [Pub. L. 113–79, title II, § 2713(c)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 772](https://www.govinfo.gov/link/statute/128/772); [Pub. L. 115–334, title II](https://www.govinfo.gov/link/plaw/115/public/334), §§ 2502, 2821(e), Dec. 20, 2018, [132 Stat. 4579](https://www.govinfo.gov/link/statute/132/4579), 4603.)*

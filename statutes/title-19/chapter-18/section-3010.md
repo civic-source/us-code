@@ -3,9 +3,10 @@ title: "Section 3010 - United States participation on Customs Cooperation Counci
 usc_title: 19
 usc_section: "3010"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3010"
-generated_at: "2026-03-30T02:54:24.687Z"
+generated_at: "2026-11-23T20:26:11.030Z"
+status: "active"
 ---
 
 # § 3010. United States participation on Customs Cooperation Council regarding Convention
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:24.687Z"
 - **(c)** As soon as practicable after August 23, 1988 , and periodically thereafter as appropriate, the Commission shall see to the publication of—
   - **(1)** summary records of the Harmonized System Committee of the Customs Cooperation Council; and
   - **(2)** subject to applicable copyright laws, the Explanatory Notes, Classification Opinions, and other instruments of the Customs Cooperation Council relating to the Convention.
+
+## Source Credit
+
+*([Pub. L. 100–418, title I, § 1210](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1152](https://www.govinfo.gov/link/statute/102/1152); [Pub. L. 104–295, § 21(e)(10)](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3531](https://www.govinfo.gov/link/statute/110/3531).)*

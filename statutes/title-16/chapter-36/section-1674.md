@@ -3,9 +3,10 @@ title: "Section 1674 - Renewable Resources Extension Program plan"
 usc_title: 16
 usc_section: "1674"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1674"
-generated_at: "2026-03-30T02:54:22.981Z"
+generated_at: "2026-11-23T20:26:20.538Z"
+status: "active"
 ---
 
 # § 1674. Renewable Resources Extension Program plan
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:22.981Z"
 - **(b)** In preparing the Renewable Resources Extension Program, the Secretary shall take into account the respective capabilities of private forests and rangelands for yielding renewable resources and the relative needs for such resources identified in the periodic Renewable Resource Assessment provided for in section 1601 of this title and the periodic appraisal of land and water resources provided for in section 2004 of this title .
 - **(c)**
 - **(d)** To assist Congress and the public in evaluating the Renewable Resources Extension Program, the program shall include a review of activities undertaken in response to the preceding five-year plan and an evaluation of the progress made toward accomplishing the goals and objectives set forth in such preceding plan. Such review and evaluation shall be displayed in the program, for the Nation as a whole, and for each State.
+
+## Source Credit
+
+*([Pub. L. 95–306, § 5](https://www.govinfo.gov/link/plaw/95/public/306), June 30, 1978, [92 Stat. 351](https://www.govinfo.gov/link/statute/92/351); [Pub. L. 100–231, § 3](https://www.govinfo.gov/link/plaw/100/public/231), Jan. 5, 1988, [101 Stat. 1565](https://www.govinfo.gov/link/statute/101/1565); [Pub. L. 101–624, title XII](https://www.govinfo.gov/link/plaw/101/public/624), §§ 1219(b)(2), 1251(c), Nov. 28, 1990, [104 Stat. 3539](https://www.govinfo.gov/link/statute/104/3539), 3553.)*

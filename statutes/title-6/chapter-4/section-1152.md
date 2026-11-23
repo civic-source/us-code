@@ -3,9 +3,10 @@ title: "Section 1152 - Oversight and grant procedures"
 usc_title: 6
 usc_section: "1152"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 1152"
-generated_at: "2026-03-30T02:53:09.506Z"
+generated_at: "2026-11-23T20:25:34.920Z"
+status: "active"
 ---
 
 # § 1152. Oversight and grant procedures
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:09.506Z"
 - **(e)** As part of the grant agreement under subsection (c), the Secretary shall require grant applicants to return any misspent grant funds received under this subchapter that the Secretary considers to have been spent for a purpose other than those specified in the grant award. The Secretary shall take all necessary actions to recover such funds.
 - **(f)** Not later than 5 days before the award of any grant is made under this subchapter, the Secretary shall notify the appropriate congressional committees of the intent to award such grant.
 - **(g)** The Secretary shall ensure, to the extent practicable, that grant recipients under this subchapter who use contractors or subcontractors use small, minority, women-owned, or disadvantaged business concerns as contractors or subcontractors when appropriate.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XV, § 1502](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 424](https://www.govinfo.gov/link/statute/121/424).)*

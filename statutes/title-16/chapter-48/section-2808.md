@@ -3,9 +3,10 @@ title: "Section 2808 - Regulatory constraints on aquaculture"
 usc_title: 16
 usc_section: "2808"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 2808"
-generated_at: "2026-03-30T02:54:23.007Z"
+generated_at: "2026-11-23T20:26:20.621Z"
+status: "active"
 ---
 
 # § 2808. Regulatory constraints on aquaculture
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:23.007Z"
   - **(4)** conduct case studies of ten commercial aquaculture operations in the United States representing a wide range of marine and fresh water species to determine the practical effects of regulatory restrictions on aquaculture; and
   - **(5)** develop a flow-chart time line using the information obtained by means of paragraphs (1) through (4) to identify those regulations and restrictions that could have the most detrimental effect in establishing commercial aquaculture operations in the United States.
 - **(b)** Based on the results of the Regulatory Constraints Study conducted under subsection (a), and within six months of the study’s completion, the Secretaries shall formulate a plan for acting on the study’s findings. The plan will contain specific steps the Federal Government can take to remove unnecessarily burdensome regulatory barriers to the initiation and operation of commercial aquaculture ventures. Upon its completion, the Secretaries shall submit the plan to Congress.
+
+## Source Credit
+
+*([Pub. L. 96–362, § 9](https://www.govinfo.gov/link/plaw/96/public/362), Sept. 26, 1980, [94 Stat. 1205](https://www.govinfo.gov/link/statute/94/1205).)*

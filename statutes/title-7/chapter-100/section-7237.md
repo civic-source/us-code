@@ -3,9 +3,10 @@ title: "Section 7237 - Availability of recourse loans for high moisture feed gra
 usc_title: 7
 usc_section: "7237"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7237"
-generated_at: "2026-03-30T02:53:42.446Z"
+generated_at: "2026-11-23T20:25:41.762Z"
+status: "active"
 ---
 
 # § 7237. Availability of recourse loans for high moisture feed grains and seed cotton and other fibers
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:53:42.446Z"
   - **(3)** A loan under paragraph (1) shall have a term of 1 year beginning on the first day of the first month after the month in which the loan is made.
   - **(4)** Notwithstanding subsection (d), the Secretary shall not charge interest on a loan made under paragraph (1).
 - **(d)** Repayment of a recourse loan made under this section shall be at the loan rate established for the commodity by the Secretary, plus interest (as determined by the Secretary).
+
+## Source Credit
+
+*([Pub. L. 104–127, title I, § 137](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 912](https://www.govinfo.gov/link/statute/110/912); [Pub. L. 105–277, div. A, § 101(a) [title XI, § 1126]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681](https://www.govinfo.gov/link/statute/112/2681), 2681–46.)*

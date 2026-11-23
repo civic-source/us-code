@@ -3,9 +3,10 @@ title: "Section 2402 - Membership of Commission"
 usc_title: 12
 usc_section: "2402"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 2402"
-generated_at: "2026-03-30T02:53:53.485Z"
+generated_at: "2026-11-23T20:25:59.294Z"
+status: "active"
 ---
 
 # § 2402. Membership of Commission
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:53.485Z"
   - **(15)** the Director of the Office of Technology Assessment.
 - **(b)** The Chairperson shall be designated by the President at the time of his appointment from among the members of the Commission and such selection shall be by and with the advice and consent of the Senate unless the appointee holds an office to which he was appointed by and with the advice and consent of the Senate.
 - **(c)** A vacancy in the Commission shall be filled in the manner in which the original appointment was made.
+
+## Source Credit
+
+*([Pub. L. 93–495, title II, § 202](https://www.govinfo.gov/link/plaw/93/public/495), Oct. 28, 1974, [88 Stat. 1508](https://www.govinfo.gov/link/statute/88/1508).)*

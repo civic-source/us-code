@@ -3,9 +3,10 @@ title: "Section 2304 - Disposal of public land"
 usc_title: 43
 usc_section: "2304"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 2304"
-generated_at: "2026-03-30T02:55:57.496Z"
+generated_at: "2026-11-23T20:27:06.402Z"
+status: "active"
 ---
 
 # § 2304. Disposal of public land
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:57.496Z"
   - **(1)** The sale of public land so identified shall be conducted in accordance with sections 1713 and 1719 of this title.
   - **(2)** The exceptions to competitive bidding requirements under section 1713(f) of this title shall apply to this section in cases in which the Secretary determines it to be necessary.
 - **(c)** The Secretary shall provide in the annual publication of Public Land Statistics, a report of activities under this section.
+
+## Source Credit
+
+*([Pub. L. 106–248, title II, § 205](https://www.govinfo.gov/link/plaw/106/public/248), July 25, 2000, [114 Stat. 615](https://www.govinfo.gov/link/statute/114/615); [Pub. L. 111–212, title III, § 3007(a)](https://www.govinfo.gov/link/plaw/111/public/212), July 29, 2010, [124 Stat. 2339](https://www.govinfo.gov/link/statute/124/2339); [Pub. L. 115–141, div. O, title III, § 302(4)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1075](https://www.govinfo.gov/link/statute/132/1075).)*

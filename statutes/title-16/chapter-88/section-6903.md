@@ -3,9 +3,10 @@ title: "Section 6903 - Authority and responsibility of the Secretary of State"
 usc_title: 16
 usc_section: "6903"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6903"
-generated_at: "2026-03-30T02:54:23.071Z"
+generated_at: "2026-11-23T20:26:20.825Z"
+status: "active"
 ---
 
 # § 6903. Authority and responsibility of the Secretary of State
@@ -15,3 +16,7 @@ The Secretary of State may—
   - **(1)** receive and transmit, on behalf of the United States, reports, requests, recommendations, proposals, decisions, and other communications of and to the Commission;
   - **(2)** in consultation with the Secretary approve, disapprove, object to, or withdraw objections to bylaws and rules, or amendments thereof, adopted by the WCPFC Commission, and, with the concurrence of the Secretary to approve or disapprove the general annual program of the WCPFC Commission with respect to conservation and management measures and other measures proposed or adopted in accordance with the WCPFC Convention; and
   - **(3)** act upon, or refer to other appropriate authority, any communication referred to in paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 109–479, title V, § 504](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3639](https://www.govinfo.gov/link/statute/120/3639).)*

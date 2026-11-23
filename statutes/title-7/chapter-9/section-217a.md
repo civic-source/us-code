@@ -3,9 +3,10 @@ title: "Section 217a - Fees for inspection of brands or marks"
 usc_title: 7
 usc_section: "217a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 217a"
-generated_at: "2026-03-30T02:53:42.278Z"
+generated_at: "2026-11-23T20:25:41.000Z"
+status: "active"
 ---
 
 # § 217a. Fees for inspection of brands or marks
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:42.278Z"
 - **(b)** The provisions of this subchapter, relating to the filing, publication, approval, modification, and suspension of any rate or charge for any stockyard service shall apply with respect to charges authorized to be made under this section.
 - **(c)** Charges authorized to be made under this section shall be collected by the market agency or other person receiving and disbursing the funds received from the sale of livestock with respect to the inspection of which such charge is made, and paid by it to the department, agency, or association performing such service.
 - **(d)** The Secretary may, if he deems it to be in the public interest, suspend, and after hearing, revoke any authorization and registration issued under the provisions of this section or any similar authorization and registration issued under any other provision of law. The order of the Secretary suspending or revoking any such authorization and registration shall not be subject to review.
+
+## Source Credit
+
+*(Aug. 15, 1921, ch. 64, title III, § 317, as added June 19, 1942, ch. 421, [56 Stat. 372](https://www.govinfo.gov/link/statute/56/372).)*

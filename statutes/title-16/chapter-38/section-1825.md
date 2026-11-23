@@ -3,9 +3,10 @@ title: "Section 1825 - Import prohibitions"
 usc_title: 16
 usc_section: "1825"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1825"
-generated_at: "2026-03-30T02:54:22.985Z"
+generated_at: "2026-11-23T20:26:20.553Z"
+status: "active"
 ---
 
 # § 1825. Import prohibitions
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:22.985Z"
 - **(d)** As used in this section—
   - **(1)** The term “fish” includes any highly migratory species.
   - **(2)** The term “fish products” means any article which is produced from or composed of (in whole or in part) any fish.
+
+## Source Credit
+
+*([Pub. L. 94–265, title II, § 205](https://www.govinfo.gov/link/plaw/94/public/265), Apr. 13, 1976, [90 Stat. 345](https://www.govinfo.gov/link/statute/90/345); [Pub. L. 101–627, title I, § 105(b)(1)](https://www.govinfo.gov/link/plaw/101/public/627), Nov. 28, 1990, [104 Stat. 4440](https://www.govinfo.gov/link/statute/104/4440).)*

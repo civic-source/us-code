@@ -3,9 +3,10 @@ title: "Section 4154 - Conversion from Foreign Service"
 usc_title: 22
 usc_section: "4154"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4154"
-generated_at: "2026-03-30T02:55:05.408Z"
+generated_at: "2026-11-23T20:26:32.525Z"
+status: "active"
 ---
 
 # § 4154. Conversion from Foreign Service
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:05.408Z"
   - **(3)** such position shall be considered to be in the competitive service so long as the individual continues to hold that position;
 - **(b)** In the case of individuals in the Foreign Service in the United States Information Agency who immediately before October 17, 1980 , are covered by a collective bargaining agreement between the Agency and the exclusive representative of those individuals, the 3-year period referred to in subsection (a) shall begin on July 1, 1981 .
 - **(c)** The three-year period referred to in subsection (a) shall be extended for an additional period not to exceed one year from November 22, 1983 , in the case of Department of State security officers who are members of the Service and who were initially ineligible for conversion under that subsection because they were available for worldwide assignment and there was a need for their services in the Service, but as to whom subsequent events require the services of these members (and of those later employed who are similarly situated) only or primarily for domestic functions.
+
+## Source Credit
+
+*([Pub. L. 96–465, title II, § 2104](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2150](https://www.govinfo.gov/link/statute/94/2150); [Pub. L. 97–241, title III, § 303(b)](https://www.govinfo.gov/link/plaw/97/public/241), Aug. 24, 1982, [96 Stat. 291](https://www.govinfo.gov/link/statute/96/291); [Pub. L. 98–164, title I, § 132](https://www.govinfo.gov/link/plaw/98/public/164), Nov. 22, 1983, [97 Stat. 1028](https://www.govinfo.gov/link/statute/97/1028).)*

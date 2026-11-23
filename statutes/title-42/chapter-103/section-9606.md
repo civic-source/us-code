@@ -3,9 +3,10 @@ title: "Section 9606 - Abatement actions"
 usc_title: 42
 usc_section: "9606"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9606"
-generated_at: "2026-03-30T02:56:11.356Z"
+generated_at: "2026-11-23T20:27:23.101Z"
+status: "active"
 ---
 
 # § 9606. Abatement actions
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.356Z"
     - **(D)** A petitioner who is liable for response costs under section 9607(a) of this title may also recover its reasonable costs of response to the extent that it can demonstrate, on the administrative record, that the President’s decision in selecting the response action ordered was arbitrary and capricious or was otherwise not in accordance with law. Reimbursement awarded under this subparagraph shall include all reasonable response costs incurred by the petitioner pursuant to the portions of the order found to be arbitrary and capricious or otherwise not in accordance with law.
     - **(E)** Reimbursement awarded by a court under subparagraph (C) or (D) may include appropriate costs, fees, and other expenses in accordance with subsections (a) and (d) of section 2412 of title 28 .
 - **(c)** Within one hundred and eighty days after December 11, 1980 , the Administrator of the Environmental Protection Agency shall, after consultation with the Attorney General, establish and publish guidelines for using the imminent hazard, enforcement, and emergency response authorities of this section and other existing statutes administered by the Administrator of the Environmental Protection Agency to effectuate the responsibilities and powers created by this chapter. Such guidelines shall to the extent practicable be consistent with the national hazardous substance response plan, and shall include, at a minimum, the assignment of responsibility for coordinating response actions with the issuance of administrative orders, enforcement of standards and permits, the gathering of information, and other imminent hazard and emergency powers authorized by (1) sections 1321(c)(2), 1 1 See References in Text note below. 1318, 1319, and 1364(a) of title 33, (2) sections 6927, 6928, 6934, and 6973 of this title, (3) sections 300j–4 and 300i of this title, (4) sections 7413, 7414, and 7603 of this title, and (5) section 2606 of title 15 .
+
+## Source Credit
+
+*([Pub. L. 96–510, title I, § 106](https://www.govinfo.gov/link/plaw/96/public/510), Dec. 11, 1980, [94 Stat. 2780](https://www.govinfo.gov/link/statute/94/2780); [Pub. L. 99–499, title I](https://www.govinfo.gov/link/plaw/99/public/499), §§ 106, 109(b), Oct. 17, 1986, [100 Stat. 1628](https://www.govinfo.gov/link/statute/100/1628), 1633; [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095).)*

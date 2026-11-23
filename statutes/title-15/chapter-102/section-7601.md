@@ -3,9 +3,10 @@ title: "Section 7601 - Availability of contact lens prescriptions to patients"
 usc_title: 15
 usc_section: "7601"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 7601"
-generated_at: "2026-03-30T02:54:08.224Z"
+generated_at: "2026-11-23T20:26:04.462Z"
+status: "active"
 ---
 
 # § 7601. Availability of contact lens prescriptions to patients
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.224Z"
   - **(1)** require purchase of contact lenses from the prescriber or from another person as a condition of providing a copy of a prescription under subsection (a)(1) or (a)(2) or verification of a prescription under subsection (a)(2);
   - **(2)** require payment in addition to, or as part of, the fee for an eye examination, fitting, and evaluation as a condition of providing a copy of a prescription under subsection (a)(1) or (a)(2) or verification of a prescription under subsection (a)(2); or
   - **(3)** require the patient to sign a waiver or release as a condition of verifying or releasing a prescription.
+
+## Source Credit
+
+*([Pub. L. 108–164, § 2](https://www.govinfo.gov/link/plaw/108/public/164), Dec. 6, 2003, [117 Stat. 2024](https://www.govinfo.gov/link/statute/117/2024).)*

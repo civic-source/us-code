@@ -3,9 +3,10 @@ title: "Section 154 - Vice Chairman"
 usc_title: 10
 usc_section: "154"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 154"
-generated_at: "2026-03-30T02:53:38.041Z"
+generated_at: "2026-11-23T20:25:50.842Z"
+status: "active"
 ---
 
 # § 154. Vice Chairman
@@ -26,3 +27,21 @@ generated_at: "2026-03-30T02:53:38.041Z"
 - **(d)** When there is a vacancy in the office of Chairman or in the absence or disability of the Chairman, the Vice Chairman acts as Chairman and performs the duties of the Chairman until a successor is appointed or the absence or disability ceases.
 - **(e)** When there is a vacancy in the offices of both Chairman and Vice Chairman or in the absence or disability of both the Chairman and the Vice Chairman, or when there is a vacancy in one such office and in the absence or disability of the officer holding the other, the President shall designate a member of the Joint Chiefs of Staff to act as and perform the duties of the Chairman until a successor to the Chairman or Vice Chairman is appointed or the absence or disability of the Chairman or Vice Chairman ceases.
 - **(f)** The Vice Chairman, while so serving, holds the grade of general or, in the case of an officer of the Navy, admiral and outranks all other officers of the armed forces except the Chairman. The Vice Chairman may not exercise military command over the Joint Chiefs of Staff or any of the armed forces.
+
+Appointment
+
+Requirement for Appointment
+
+Duties
+
+Function as Acting Chairman
+
+Succession After Chairman and Vice Chairman
+
+Grade and Rank
+
+Participation in JCS Meetings
+
+## Source Credit
+
+*(Added [Pub. L. 99–433, title II, § 201](https://www.govinfo.gov/link/plaw/99/public/433), Oct. 1, 1986, [100 Stat. 1008](https://www.govinfo.gov/link/statute/100/1008); amended [Pub. L. 100–456, div. A, title V, § 519(a)(1)](https://www.govinfo.gov/link/plaw/100/public/456), Sept. 29, 1988, [102 Stat. 1972](https://www.govinfo.gov/link/statute/102/1972); [Pub. L. 102–484, div. A, title IX, § 911(b)(1)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2473](https://www.govinfo.gov/link/statute/106/2473); [Pub. L. 114–328, div. A, title IX, § 921(d)(1)](https://www.govinfo.gov/link/plaw/114/public/328), (2), Dec. 23, 2016, [130 Stat. 2354](https://www.govinfo.gov/link/statute/130/2354).)*

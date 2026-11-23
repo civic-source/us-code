@@ -3,9 +3,10 @@ title: "Section 2952 - International discussions"
 usc_title: 15
 usc_section: "2952"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2952"
-generated_at: "2026-03-30T02:54:08.185Z"
+generated_at: "2026-11-23T20:26:04.263Z"
+status: "active"
 ---
 
 # § 2952. International discussions
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:08.185Z"
   - **(1)** Creation of an international cooperative program to fund research related to energy efficiency, solar and other renewable energy sources, and passively safe and diversion-resistant nuclear reactors.
   - **(2)** Creation of an international cooperative program to develop low cost energy technologies which are appropriate to the environmental, economic, and social needs of developing nations.
   - **(3)** Exchange of information concerning environmentally safe energy technologies and practices, including those described in paragraphs (1) and (2).
+
+## Source Credit
+
+*([Pub. L. 101–606, title II, § 203](https://www.govinfo.gov/link/plaw/101/public/606), Nov. 16, 1990, [104 Stat. 3102](https://www.govinfo.gov/link/statute/104/3102).)*

@@ -3,9 +3,10 @@ title: "Section 5113 - Enforcement by the Bureau"
 usc_title: 12
 usc_section: "5113"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5113"
-generated_at: "2026-03-30T02:53:53.524Z"
+generated_at: "2026-11-23T20:25:59.446Z"
+status: "active"
 ---
 
 # § 5113. Enforcement by the Bureau
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:53:53.524Z"
 - **(d)**
   - **(1)** The Director may impose a civil penalty on a loan originator operating in any State which is subject to a licensing system established by the Director under section 5107 of this title , if the Director finds, on the record after notice and opportunity for hearing, that such loan originator has violated or failed to comply with any requirement of this chapter or any regulation prescribed by the Director under this chapter or order issued under subsection (c).
   - **(2)** The maximum amount of penalty for each act or omission described in paragraph (1) shall be $25,000.
+
+## Source Credit
+
+*([Pub. L. 110–289, div. A, title V, § 1514](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2821](https://www.govinfo.gov/link/statute/122/2821); [Pub. L. 111–203, title X, § 1100(3)](https://www.govinfo.gov/link/plaw/111/public/203), (9), July 21, 2010, [124 Stat. 2106](https://www.govinfo.gov/link/statute/124/2106), 2107.)*

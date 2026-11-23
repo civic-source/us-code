@@ -3,9 +3,10 @@ title: "Section 1396n - Compliance with State plan and payment provisions"
 usc_title: 42
 usc_section: "1396n"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1396n"
-generated_at: "2026-03-30T02:56:11.043Z"
+generated_at: "2026-11-23T20:27:21.564Z"
+status: "active"
 ---
 
 # § 1396n. Compliance with State plan and payment provisions
@@ -352,3 +353,77 @@ generated_at: "2026-03-30T02:56:11.043Z"
       - **(i)** follows reliable, evidence-based practices; and
       - **(ii)** offers at least 2 forms of medication-assisted treatment for substance use disorders on site, including, in the case of medication-assisted treatment for opioid use disorder, at least 1 antagonist and 1 partial agonist.
     - **(C)** The term “institution for mental diseases” has the meaning given that term in section 1396d(i) of this title .
+
+Expanding Coverage for Home or Community-based Services.—
+
+In general
+
+State requirements
+
+Limitation on payments
+
+(aa) Taking client history.
+
+(bb) Identifying the needs of the individual, and completing related documentation.
+
+(cc) Gathering information from other sources such as family members, medical providers, social workers, and educators, if necessary, to form a complete assessment of the eligible individual.
+
+(aa) whether services are being furnished in accordance with an individual’s care plan;
+
+(bb) whether the services in the care plan are adequate; and
+
+(cc) whether there are changes in the needs or status of the eligible individual, and if so, making necessary adjustments in the care plan and service arrangements with providers.
+
+(aa) in consultation with the individual, the individual’s treating physician, health care or support professional, or other appropriate individuals, as defined by the State, and, where appropriate the individual’s family, caregiver, or representative; and
+
+(bb) taking into account the extent of, and need for, any family or other supports for the individual;
+
+(aa) Assessment There is an assessment of the needs, capabilities, and preferences of the individual with respect to such services.
+
+(bb) Service plan Based on such assessment, there is developed jointly with such individual or the individual’s authorized representative a plan for such services for such individual that is approved by the State and that satisfies the requirements of subclause (III).
+
+(aa) specifies those services which the individual or the individual’s authorized representative would be responsible for directing;
+
+(bb) identifies the methods by which the individual or the individual’s authorized representative will select, manage, and dismiss providers of such services;
+
+(cc) specifies the role of family members and others whose participation is sought by the individual or the individual’s authorized representative with respect to such services;
+
+(dd) is developed through a person-centered process that is directed by the individual or the individual’s authorized representative, builds upon the individual’s capacity to engage in activities that promote community life and that respects the individual’s preferences, choices, and abilities, and involves families, friends, and professionals as desired or required by the individual or the individual’s authorized representative;
+
+(ee) includes appropriate risk management techniques that recognize the roles and sharing of responsibilities in obtaining services in a self-directed manner and assure the appropriateness of such plan based upon the resources and capabilities of the individual or the individual’s authorized representative; and
+
+(ff) may include an individualized budget which identifies the dollar value of the services and supports under the control and direction of the individual or the individual’s authorized representative.
+
+(aa) describes the method for calculating the dollar values in such budgets based on reliable costs and service utilization;
+
+(bb) defines a process for making adjustments in such dollar values to reflect changes in individual assessments and service plans; and
+
+(cc) provides a procedure to evaluate expenditures under such budgets.
+
+Habilitation services
+
+Hospitalized patients
+
+Prohibition of regulatory limits and treatment of certain physically disabled individuals
+
+Income standards
+
+Waiver extensions
+
+Waiver renewals
+
+Coordinated services and substitution of participants
+
+“Notwithstanding section 430.20 of title 42, Code of Federal Regulations, the Secretary of Health and Human Services may approve a request to renew a State plan amendment under section 1915( l ) of the Social Security Act ( 42 U.S.C. 1396n ( l )) with an effective date of October 1, 2023 , if the State making such request—
+
+“The Secretary of Health and Human Services shall promulgate regulations to ensure that all States develop service systems that are designed to—
+
+In general
+
+Best practices
+
+Appropriation
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XIX, § 1915, as added [Pub. L. 97–35, title XXI, § 2175(b)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 809](https://www.govinfo.gov/link/statute/95/809); amended [Pub. L. 97–35, title XXI](https://www.govinfo.gov/link/plaw/97/public/35), §§ 2176, 2177(a), Aug. 13, 1981, [95 Stat. 812](https://www.govinfo.gov/link/statute/95/812), 813; [Pub. L. 97–248, title I, § 137(b)(19)(A)](https://www.govinfo.gov/link/plaw/97/public/248), (20)–(25), Sept. 3, 1982, [96 Stat. 380](https://www.govinfo.gov/link/statute/96/380); [Pub. L. 97–448, title III, § 309(b)(17)](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2409](https://www.govinfo.gov/link/statute/96/2409); [Pub. L. 98–369, div. B, title III, § 2373(b)(21)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1112](https://www.govinfo.gov/link/statute/98/1112); [Pub. L. 99–272, title IX](https://www.govinfo.gov/link/plaw/99/public/272), §§ 9502(a)–(e), (g)–(i), 9508(a), Apr. 7, 1986, [100 Stat. 202–204](https://www.govinfo.gov/link/statute/100/202), 210; [Pub. L. 99–509, title IX](https://www.govinfo.gov/link/plaw/99/public/509), §§ 9320(h)(3), 9411(a)–(d), Oct. 21, 1986, [100 Stat. 2016](https://www.govinfo.gov/link/statute/100/2016), 2061, 2062; [Pub. L. 100–93, § 8(h)(2)](https://www.govinfo.gov/link/plaw/100/public/93), Aug. 18, 1987, [101 Stat. 694](https://www.govinfo.gov/link/statute/101/694); [Pub. L. 100–203, title IV](https://www.govinfo.gov/link/plaw/100/public/203), §§ 4072(d), 4102(a)(1), (b)(2), 4118(a)(1), (b), (i)(1), (k), (l)(1), (p)(10), 4211(h)(10), Dec. 22, 1987, [101 Stat. 1330–117](https://www.govinfo.gov/link/statute/101/1330), 1330–143, 1330–146, 1330–154 to 1330–157, 1330–160, 1330–206; [Pub. L. 100–360, title II, § 204(d)(3)](https://www.govinfo.gov/link/plaw/100/public/360), title IV, § 411(k)(3), (10)(A), (H), (I), (17)(A), (l)(3)(G), July 1, 1988, [102 Stat. 729](https://www.govinfo.gov/link/statute/102/729), 791, 794, 796, 799, 803; [Pub. L. 100–485, title VI, § 608(d)(26)(M)](https://www.govinfo.gov/link/plaw/100/public/485), (f)(2), Oct. 13, 1988, [102 Stat. 2422](https://www.govinfo.gov/link/statute/102/2422), 2424; [Pub. L. 100–647, title VIII](https://www.govinfo.gov/link/plaw/100/public/647), §§ 8432(a), (b), 8437(a), Nov. 10, 1988, [102 Stat. 3804](https://www.govinfo.gov/link/statute/102/3804), 3806; [Pub. L. 101–234, title II, § 201(a)](https://www.govinfo.gov/link/plaw/101/public/234), Dec. 13, 1989, [103 Stat. 1981](https://www.govinfo.gov/link/statute/103/1981); [Pub. L. 101–239, title VI](https://www.govinfo.gov/link/plaw/101/public/239), §§ 6115(c), 6411(c)(2), Dec. 19, 1989, [103 Stat. 2219](https://www.govinfo.gov/link/statute/103/2219), 2270; [Pub. L. 101–508, title IV](https://www.govinfo.gov/link/plaw/101/public/508), §§ 4604(c), 4704(b)(3), 4741, 4742(a), (c)(1), (d)(1), Nov. 5, 1990, [104 Stat. 1388–169](https://www.govinfo.gov/link/statute/104/1388), 1388–172, 1388–197, 1388–198; [Pub. L. 102–119, § 26(i)(2)](https://www.govinfo.gov/link/plaw/102/public/119), Oct. 7, 1991, [105 Stat. 607](https://www.govinfo.gov/link/statute/105/607); [Pub. L. 103–66, title XIII, § 13603(d)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 620](https://www.govinfo.gov/link/statute/107/620); [Pub. L. 105–33, title IV](https://www.govinfo.gov/link/plaw/105/public/33), §§ 4106(c), 4743(a), Aug. 5, 1997, [111 Stat. 368](https://www.govinfo.gov/link/statute/111/368), 524; [Pub. L. 106–113, div. B, § 1000(a)(6)](https://www.govinfo.gov/link/plaw/106/public/113) [title VI, § 608(o), (z)], Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–397, 1501A–398; [Pub. L. 106–554, § 1(a)(6) [title VII, § 702(c)(2)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–574; [Pub. L. 107–121, § 2(b)(3)](https://www.govinfo.gov/link/plaw/107/public/121), Jan. 15, 2002, [115 Stat. 2384](https://www.govinfo.gov/link/statute/115/2384); [Pub. L. 108–446, title III, § 305(j)(2)](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2806](https://www.govinfo.gov/link/statute/118/2806); [Pub. L. 109–171, title VI](https://www.govinfo.gov/link/plaw/109/public/171), §§ 6052(a), 6086(a), 6087(a), Feb. 8, 2006, [120 Stat. 93](https://www.govinfo.gov/link/statute/120/93), 121, 127; [Pub. L. 111–148, title II](https://www.govinfo.gov/link/plaw/111/public/148), §§ 2401, 2402(b), (c), (e), (f), 2601(a), (b)(1), Mar. 23, 2010, [124 Stat. 297](https://www.govinfo.gov/link/statute/124/297), 302–304, 314, 315; [Pub. L. 111–152, title I, § 1205](https://www.govinfo.gov/link/plaw/111/public/152), Mar. 30, 2010, [124 Stat. 1056](https://www.govinfo.gov/link/statute/124/1056); [Pub. L. 115–271, title V, § 5052(a)(2)](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 3971](https://www.govinfo.gov/link/statute/132/3971); [Pub. L. 118–42, div. G, title I, § 204(a)](https://www.govinfo.gov/link/plaw/118/public/42) –(c)(1)(A), (2), (3), Mar. 9, 2024, [138 Stat. 403–405](https://www.govinfo.gov/link/statute/138/403); [Pub. L. 119–21, title VII, § 71121(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 317](https://www.govinfo.gov/link/statute/139/317).)*

@@ -3,9 +3,10 @@ title: "Section 2655 - Worker protection"
 usc_title: 15
 usc_section: "2655"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2655"
-generated_at: "2026-03-30T02:54:08.180Z"
+generated_at: "2026-11-23T20:26:04.239Z"
+status: "active"
 ---
 
 # § 2655. Worker protection
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:08.180Z"
 - **(c)** For purposes of this section, the term “emergency repair” means a repair in a school building that was not planned and was in response to a sudden, unexpected event that threatens either—
   - **(1)** the health or safety of building occupants; or
   - **(2)** the structural integrity of the building.
+
+## Source Credit
+
+*([Pub. L. 94–469, title II, § 215](https://www.govinfo.gov/link/plaw/94/public/469), as added [Pub. L. 100–368, § 4(a)](https://www.govinfo.gov/link/plaw/100/public/368), July 18, 1988, [102 Stat. 832](https://www.govinfo.gov/link/statute/102/832).)*

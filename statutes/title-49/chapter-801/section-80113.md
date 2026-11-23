@@ -3,9 +3,10 @@ title: "Section 80113 - Liability for nonreceipt, misdescription, and improper l
 usc_title: 49
 usc_section: "80113"
 chapter: 801
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 80113"
-generated_at: "2026-03-30T02:56:19.418Z"
+generated_at: "2026-11-23T20:27:35.444Z"
+status: "active"
 ---
 
 # § 80113. Liability for nonreceipt, misdescription, and improper loading
@@ -23,3 +24,48 @@ generated_at: "2026-03-30T02:56:19.418Z"
 - **(d)**
   - **(1)** When bulk freight is loaded by a shipper that makes available to the common carrier adequate facilities for weighing the freight, the carrier must determine the kind and quantity of the freight within a reasonable time after receiving the written request of the shipper to make the determination. In that situation, inserting the words “shipper’s weight” or words of the same meaning in the bill of lading has no effect.
   - **(2)** When goods are loaded by a common carrier, the carrier must count the packages of goods, if package freight, and determine the kind and quantity, if bulk freight. In that situation, inserting in the bill of lading or in a notice, receipt, contract, rule, or tariff, the words “shipper’s weight, load, and count” or words indicating that the shipper described and loaded the goods, has no effect except for freight concealed by packages.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 80113(a) | 49 App.:102. | Aug. 29, 1916, ch. 415, § 22 , 39 Stat. 542 ; restated Mar. 4, 1927, ch. 510, § 6 , 44 Stat. 1450 . |
+| 80113(b) | 49 App.:101 (1st sentence). | Aug. 29, 1916, ch. 415 , §§ 20, 21, 39 Stat. 541 . |
+| 80113(c) | 49 App.:101 (last sentence words before proviso). |  |
+| 80113(d)(1) | 49 App.:101 (last sentence proviso). |  |
+| 80113(d)(2) | 49 App.:100. |  |
+
+
+Liability for Nonreceipt and Misdescription
+
+Nonliability of Carriers
+
+Liability for Improper Loading
+
+Carrier’s Duty To Determine Kind, Quantity, and Number
+
+Historical and Revision Notes
+
+80113(a)
+
+Aug. 29, 1916, ch. 415, § 22
+
+39 Stat. 542
+
+Mar. 4, 1927, ch. 510, § 6
+
+44 Stat. 1450
+
+80113(b)
+
+Aug. 29, 1916, ch. 415
+
+39 Stat. 541
+
+80113(c)
+
+80113(d)(1)
+
+80113(d)(2)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1351](https://www.govinfo.gov/link/statute/108/1351).)*

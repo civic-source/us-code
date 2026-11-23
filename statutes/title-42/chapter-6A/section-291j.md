@@ -3,9 +3,10 @@ title: "Section 291j - Loans"
 usc_title: 42
 usc_section: "291j"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 291j"
-generated_at: "2026-03-30T02:56:10.771Z"
+generated_at: "2026-11-23T20:27:20.354Z"
+status: "active"
 ---
 
 # § 291j. Loans
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:10.771Z"
   - **(2)** The Surgeon General may enter into agreements modifying any of the terms and conditions of a loan made under this part whenever he determines such action is necessary to protect the financial interest of the United States.
   - **(3)** If, at any time before a loan for a project has been repaid in full, any of the events specified in clause (a) or clause (b) of section 291i 1 1 See References in Text note below. of this title occurs with respect to such project, the unpaid balance of the loan shall become immediately due and payable by the applicant, and any transferee of the facility shall be liable to the United States for such repayment.
 - **(d)** Any loan under this part shall be made out of the allotment from which a grant for the project concerned would be made. Payments of interest and repayments of principal on loans under this part shall be deposited in the Treasury as miscellaneous receipts.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VI, § 610, as added [Pub. L. 88–443, § 3(a)](https://www.govinfo.gov/link/plaw/88/public/443), Aug. 18, 1964, [78 Stat. 457](https://www.govinfo.gov/link/statute/78/457).)*

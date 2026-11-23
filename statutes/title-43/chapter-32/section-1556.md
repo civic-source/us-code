@@ -3,9 +3,10 @@ title: "Section 1556 - Definitions"
 usc_title: 43
 usc_section: "1556"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1556"
-generated_at: "2026-03-30T02:55:57.476Z"
+generated_at: "2026-11-23T20:27:06.301Z"
+status: "active"
 ---
 
 # § 1556. Definitions
@@ -18,3 +19,7 @@ As used in this chapter, (a) all terms which are defined in the Colorado River C
 - **(e)** “Colorado River Basin States” means the States of Arizona, California, Colorado, Nevada, New Mexico, Utah, and Wyoming;
 - **(f)** “Western United States” means those States lying wholly or in part west of the Continental Divide; and
 - **(g)** “Augment” or “augmentation”, when used herein with reference to water, means to increase the supply of the Colorado River or its tributaries by the introduction of water into the Colorado River system, which is in addition to the natural supply of the system.
+
+## Source Credit
+
+*([Pub. L. 90–537, title VI, § 606](https://www.govinfo.gov/link/plaw/90/public/537), Sept. 30, 1968, [82 Stat. 901](https://www.govinfo.gov/link/statute/82/901).)*

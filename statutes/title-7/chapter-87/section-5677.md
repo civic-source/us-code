@@ -3,9 +3,10 @@ title: "Section 5677 - Trade compensation and assistance programs"
 usc_title: 7
 usc_section: "5677"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 5677"
-generated_at: "2026-03-30T02:53:42.418Z"
+generated_at: "2026-11-23T20:25:41.655Z"
+status: "active"
 ---
 
 # § 5677. Trade compensation and assistance programs
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:42.418Z"
 - **(f)** This section shall not apply to any suspension of trade due to a war or armed hostility.
 - **(g)** If the Secretary makes funds available under subsection (b)(2), regardless of whether an embargo is in effect for only part of a fiscal year, the full amount of funds as calculated under subsection (c)(2) shall be made available under a program for the fiscal year. If the Secretary determines that making the required amount of funds available in a partial fiscal year is impracticable, the Secretary may make all or part of the funds required to be made available in the following fiscal year (in addition to any funds otherwise required under a program to be made available in the following fiscal year).
 - **(h)** If the President or any other member of the executive branch causes exports to be suspended based on a determination of short supply, the Secretary shall carry out section 1310 of this title .
+
+## Source Credit
+
+*([Pub. L. 95–501, title IV, § 417](https://www.govinfo.gov/link/plaw/95/public/501), as added [Pub. L. 104–127, title II, § 249](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 969](https://www.govinfo.gov/link/statute/110/969).)*

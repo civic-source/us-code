@@ -3,9 +3,10 @@ title: "Section 5001 - Imposition, rate, and attachment of tax"
 usc_title: 26
 usc_section: "5001"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 5001"
-generated_at: "2026-03-30T02:55:27.816Z"
+generated_at: "2026-11-23T20:26:46.389Z"
+status: "active"
 ---
 
 # § 5001. Imposition, rate, and attachment of tax
@@ -55,3 +56,99 @@ generated_at: "2026-03-30T02:55:27.816Z"
     - **(D)** For purposes of refunds allowed under this paragraph, section 6611(e) shall be applied by substituting “90 days” for “45 days” each place it appears.
   - **(5)** A distilled spirit shall not be treated as processed for purposes of this subsection unless a process described in section 5002(a)(5)(A) (other than bottling) is performed with respect to such distilled spirit.
 - **(d)** For provisions relating to the tax on shipments to the United States of taxable articles from Puerto Rico and the Virgin Islands, see section 7652.
+
+In general
+
+Electronic transfer provisions
+
+Imposition of tax.—
+
+In general
+
+Applicable rate
+
+Tax-increased article
+
+Exception for small domestic producers.—
+
+Exception for certain small wholesale or retail dealers
+
+Credit against tax
+
+Liability for tax and method of payment.—
+
+Liability for tax
+
+Method of payment
+
+Time for payment
+
+Controlled groups.—
+
+Corporations
+
+Nonincorporated dealers under common control
+
+Other laws applicable.—
+
+In general
+
+Comparable excise tax
+
+Definitions
+
+In general
+
+Person
+
+Secretary
+
+Treatment of imported perfumes containing distilled spirits
+
+“Notwithstanding the Act of June 18, 1934 ( 48 Stat. 998 , 19 U.S.C. 81a ) or any other provision of law, any article which is located in a foreign trade zone on the effective date of any increase in tax under the amendments made by this part or part I [part I (§§ 11201–11203) or part II (§§ 11211–11218) of subtitle B of title XI of Pub. L. 101–508 , see Tables for classification] shall be subject to floor stocks taxes imposed by such parts if—
+
+Imposition of tax
+
+Exception for certain small wholesale or retail dealers
+
+Credit against tax
+
+Liability for tax and method of payment.—
+
+Liability for tax
+
+Method of payment
+
+Time for payment.—
+
+In general
+
+Installment payment of tax in case of small or middle-sized dealers
+
+Small or middle-sized dealer
+
+Controlled groups.—
+
+Controlled groups of corporations
+
+Nonincorporated dealers under common control
+
+Other laws applicable
+
+Definitions and special rules
+
+Dealer
+
+Distilled spirits
+
+Person
+
+Secretary
+
+Treatment of imported perfumes containing distilled spirits
+
+Treatment of distilled spirits in foreign trade zones
+
+## Source Credit
+
+*(Added [Pub. L. 85–859, title II, § 201](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1314](https://www.govinfo.gov/link/statute/72/1314); amended [Pub. L. 86–75, § 3(a)(2)](https://www.govinfo.gov/link/plaw/86/public/75), (3), June 30, 1959, [73 Stat. 157](https://www.govinfo.gov/link/statute/73/157); [Pub. L. 86–564, title II, § 202(a)(4)](https://www.govinfo.gov/link/plaw/86/public/564), (5), June 30, 1960, [74 Stat. 290](https://www.govinfo.gov/link/statute/74/290); [Pub. L. 87–72, § 3(a)(4)](https://www.govinfo.gov/link/plaw/87/public/72), (5), June 30, 1961, [75 Stat. 193](https://www.govinfo.gov/link/statute/75/193); [Pub. L. 87–508, § 3(a)(3)](https://www.govinfo.gov/link/plaw/87/public/508), (4), June 28, 1962, [76 Stat. 114](https://www.govinfo.gov/link/statute/76/114); [Pub. L. 88–52, § 3(a)(4)](https://www.govinfo.gov/link/plaw/88/public/52), (5), June 29, 1963, [77 Stat. 72](https://www.govinfo.gov/link/statute/77/72); [Pub. L. 88–348, § 2(a)(4)](https://www.govinfo.gov/link/plaw/88/public/348), (5), June 30, 1964, [78 Stat. 237](https://www.govinfo.gov/link/statute/78/237); [Pub. L. 89–44, title V, § 501(a)](https://www.govinfo.gov/link/plaw/89/public/44), June 21, 1965, [79 Stat. 150](https://www.govinfo.gov/link/statute/79/150); [Pub. L. 96–39, title VIII](https://www.govinfo.gov/link/plaw/96/public/39), §§ 802, 805(d), July 26, 1979, [93 Stat. 273](https://www.govinfo.gov/link/statute/93/273), 278; [Pub. L. 98–369, div. A, title I, § 27(a)(1)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 507](https://www.govinfo.gov/link/statute/98/507); [Pub. L. 101–508, title XI, § 11201(a)(1)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–415](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–465, title I, § 136(a)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4841](https://www.govinfo.gov/link/statute/108/4841); [Pub. L. 115–97, title I, § 13807(a)](https://www.govinfo.gov/link/plaw/115/public/97), (c), Dec. 22, 2017, [131 Stat. 2176](https://www.govinfo.gov/link/statute/131/2176); [Pub. L. 116–94, div. Q, title I, § 144(g)(1)](https://www.govinfo.gov/link/plaw/116/public/94), (2), Dec. 20, 2019, [133 Stat. 3235](https://www.govinfo.gov/link/statute/133/3235); [Pub. L. 116–260, div. EE, title I](https://www.govinfo.gov/link/plaw/116/public/260), §§ 106(g)(1), 107(a)(1), 109(a), 110(c), Dec. 27, 2020, [134 Stat. 3044](https://www.govinfo.gov/link/statute/134/3044), 3045, 3049, 3050.)*

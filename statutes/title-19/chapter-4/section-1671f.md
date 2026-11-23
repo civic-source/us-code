@@ -3,9 +3,10 @@ title: "Section 1671f - Treatment of difference between deposit of estimated cou
 usc_title: 19
 usc_section: "1671f"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1671f"
-generated_at: "2026-03-30T02:54:24.651Z"
+generated_at: "2026-11-23T20:26:10.844Z"
+status: "active"
 ---
 
 # § 1671f. Treatment of difference between deposit of estimated countervailing duty and final assessed duty under countervailing duty order
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:24.651Z"
 - **(b)** If the amount of an estimated countervailing duty deposited under section 1671e(a)(3) of this title is different from the amount of the countervailing duty determined under a countervailing duty order issued under section 1671e of this title , then the difference for entries of merchandise entered, or withdrawn from warehouse, for consumption after notice of the affirmative determination of the Commission under section 1671d(b) of this title is published shall be—
   - **(1)** collected, to the extent that the deposit under section 1671e(a)(3) of this title is lower than the duty determined under the order, or
   - **(2)** refunded, to the extent that the deposit under section 1671e(a)(3) of this title is higher than the duty determined under the order,
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title VII, § 707, as added [Pub. L. 96–39, title I, § 101](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 161](https://www.govinfo.gov/link/statute/93/161); amended [Pub. L. 103–465, title II, § 264(c)(10)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4914](https://www.govinfo.gov/link/statute/108/4914).)*

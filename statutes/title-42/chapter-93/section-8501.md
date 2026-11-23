@@ -3,9 +3,10 @@ title: "Section 8501 - Congressional findings and purposes"
 usc_title: 42
 usc_section: "8501"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 8501"
-generated_at: "2026-03-30T02:56:11.343Z"
+generated_at: "2026-11-23T20:27:23.046Z"
+status: "active"
 ---
 
 # § 8501. Congressional findings and purposes
@@ -21,3 +22,9 @@ generated_at: "2026-03-30T02:56:11.343Z"
   - **(2)** establish other emergency measures to alleviate disruptions in gasoline and diesel fuel markets;
   - **(3)** obtain data concerning such fuels; and
   - **(4)** protect interstate commerce.
+
+“The Congress finds that—
+
+## Source Credit
+
+*([Pub. L. 96–102, title II, § 201](https://www.govinfo.gov/link/plaw/96/public/102), Nov. 5, 1979, [93 Stat. 757](https://www.govinfo.gov/link/statute/93/757).)*

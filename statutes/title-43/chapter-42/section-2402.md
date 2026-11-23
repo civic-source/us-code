@@ -3,9 +3,10 @@ title: "Section 2402 - Rural water supply program"
 usc_title: 43
 usc_section: "2402"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 2402"
-generated_at: "2026-03-30T02:55:57.496Z"
+generated_at: "2026-11-23T20:27:06.404Z"
+status: "active"
 ---
 
 # § 2402. Rural water supply program
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:55:57.496Z"
 - **(e)** The Secretary may include—
   - **(1)** to the extent that connection provides a reliable water supply, a connection to pre-existing infrastructure (including impoundments and conveyance channels) as part of a rural water supply project; and
   - **(2)** notwithstanding the limitation on population under section 2401(9)(A) of this title , a town or community with a population in excess of 50,000 inhabitants in an area served by a rural water supply project if, at the discretion of the Secretary, the town or community is considered to be a critical partner in the rural supply project.
+
+## Source Credit
+
+*([Pub. L. 109–451, title I, § 103](https://www.govinfo.gov/link/plaw/109/public/451), Dec. 22, 2006, [120 Stat. 3347](https://www.govinfo.gov/link/statute/120/3347).)*

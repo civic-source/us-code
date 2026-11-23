@@ -3,9 +3,10 @@ title: "Section 9413 - Local administration"
 usc_title: 20
 usc_section: "9413"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 9413"
-generated_at: "2026-03-30T02:54:48.226Z"
+generated_at: "2026-11-23T20:26:14.984Z"
+status: "active"
 ---
 
 # § 9413. Local administration
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:48.226Z"
 - **(b)**
   - **(1)** Not more than 3 percent of the funds received by a Local Council under this chapter shall be used to pay for the administrative costs of the Local Council in carrying out this chapter.
   - **(2)** A Local Council may designate any entity, with a demonstrated capacity for administering grants, that is affected by, or concerned with, early learning issues, including the State, to serve as fiscal agent for the administration of grant funds received by the Local Council under this chapter.
+
+## Source Credit
+
+*([Pub. L. 106–554, § 1(a)(1) [title VIII, § 814]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–88.)*

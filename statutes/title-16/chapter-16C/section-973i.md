@@ -3,9 +3,10 @@ title: "Section 973i - Findings by Secretary"
 usc_title: 16
 usc_section: "973i"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 973i"
-generated_at: "2026-03-30T02:54:22.938Z"
+generated_at: "2026-11-23T20:26:20.360Z"
+status: "active"
 ---
 
 # § 973i. Findings by Secretary
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:22.938Z"
 - **(c)** The Secretary shall rescind any order issued on the basis of a finding under subsection (a)(1)(C) or (D) of this section as soon as the Secretary determines that the facts underlying the finding do not apply.
 - **(d)** No order issued in accordance with this section is subject to judicial review.
 - **(e)** Upon a request by the Secretary, the Attorney General shall commence a civil action for appropriate relief, including permanent or temporary injunction, to enforce any order issued by the Secretary under this section.
+
+## Source Credit
+
+*([Pub. L. 100–330, § 11](https://www.govinfo.gov/link/plaw/100/public/330), June 7, 1988, [102 Stat. 598](https://www.govinfo.gov/link/statute/102/598); [Pub. L. 100–350, § 4(3)](https://www.govinfo.gov/link/plaw/100/public/350), June 27, 1988, [102 Stat. 660](https://www.govinfo.gov/link/statute/102/660); [Pub. L. 119–60, div. H, title LXXXIV, § 8419](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1917](https://www.govinfo.gov/link/statute/139/1917).)*

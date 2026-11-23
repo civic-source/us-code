@@ -3,9 +3,10 @@ title: "Section 8755 - Producer agreement required as condition on provision of 
 usc_title: 7
 usc_section: "8755"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 8755"
-generated_at: "2026-03-30T02:53:42.480Z"
+generated_at: "2026-11-23T20:25:41.912Z"
+status: "active"
 ---
 
 # § 8755. Producer agreement required as condition on provision of payments
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:53:42.480Z"
     - **(A)** November 14, 2008 ; or
     - **(B)** the end of the 45-day period beginning on October 13, 2008 .
   - **(2)** The Secretary shall ensure that no penalty with respect to benefits under this subchapter is assessed against producers on a farm described in paragraph (1) for failure to submit reports under this section or timely comply with other program requirements as a result of compliance with the extended signup deadline under that paragraph.
+
+## Source Credit
+
+*([Pub. L. 110–234, title I, § 1305](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 972](https://www.govinfo.gov/link/statute/122/972); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1305, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1701; [Pub. L. 110–398, § 1(b)(2)](https://www.govinfo.gov/link/plaw/110/public/398), Oct. 13, 2008, [122 Stat. 4213](https://www.govinfo.gov/link/statute/122/4213).)*

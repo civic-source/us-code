@@ -3,9 +3,10 @@ title: "Section 7432 - Pay of Under Secretary for Health"
 usc_title: 38
 usc_section: "7432"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7432"
-generated_at: "2026-03-30T02:55:53.531Z"
+generated_at: "2026-11-23T20:27:02.023Z"
+status: "active"
 ---
 
 # § 7432. Pay of Under Secretary for Health
@@ -16,3 +17,13 @@ generated_at: "2026-03-30T02:55:53.531Z"
   - **(2)** The amount of market pay of the Under Secretary for Health under this subsection shall be established by the Secretary.
   - **(3)** In establishing the amount of market pay of the Under Secretary for Health under this subsection, the Secretary shall utilize an appropriate health care labor market selected by the Secretary for purposes of this subsection.
 - **(c)** Pay under this section shall be considered pay for all purposes, including retirement benefits under chapters 83 and 84 of title 5 and other benefits.
+
+Base Pay
+
+Market Pay
+
+Treatment of Pay
+
+## Source Credit
+
+*(Added [Pub. L. 108–445, § 3(b)](https://www.govinfo.gov/link/plaw/108/public/445), Dec. 3, 2004, [118 Stat. 2640](https://www.govinfo.gov/link/statute/118/2640); amended [Pub. L. 118–210, title I, § 142(a)(3)(A)](https://www.govinfo.gov/link/plaw/118/public/210), Jan. 2, 2025, [138 Stat. 2746](https://www.govinfo.gov/link/statute/138/2746).)*

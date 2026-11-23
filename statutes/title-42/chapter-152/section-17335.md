@@ -3,9 +3,10 @@ title: "Section 17335 - Actions by United States Trade and Development Agency"
 usc_title: 42
 usc_section: "17335"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17335"
-generated_at: "2026-03-30T02:56:11.504Z"
+generated_at: "2026-11-23T20:27:23.751Z"
+status: "active"
 ---
 
 # § 17335. Actions by United States Trade and Development Agency
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.504Z"
   - **(2)** where appropriate, advance the utilization of clean and efficient energy technologies, particularly to countries that have the potential for significant reduction in greenhouse gas emissions; and
   - **(3)** recruit and retain individuals with appropriate expertise or experience in clean, renewable, and efficient energy technologies to identify and evaluate opportunities for projects that involve clean and efficient energy technologies and services.
 - **(b)** The President shall include in the annual report on the activities of the Trade and Development Agency required under section 2421(d) of title 22 a description of the activities carried out to implement this section.
+
+## Source Credit
+
+*([Pub. L. 110–140, title IX, § 915](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1727](https://www.govinfo.gov/link/statute/121/1727).)*

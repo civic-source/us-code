@@ -3,9 +3,10 @@ title: "Section 12873 - Implementation grants"
 usc_title: 42
 usc_section: "12873"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12873"
-generated_at: "2026-03-30T02:56:11.433Z"
+generated_at: "2026-11-23T20:27:23.449Z"
+status: "active"
 ---
 
 # § 12873. Implementation grants
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:56:11.433Z"
   - **(6)** the extent to which a sufficient supply of affordable rental housing of the type assisted under this title 1 exists in the locality, so that the implementation of the homeownership program will not appreciably reduce the number of such rental units available to residents currently residing in such units or eligible for residency in such units; and
   - **(7)** such other factors as the Secretary determines to be appropriate for purposes of carrying out the program established by the 3 3 So in original. Probably should be “this”. part in an effective and efficient manner.
 - **(e)** The Secretary shall notify each applicant, not later than 6 months after the date of the submission of the application, whether the application is approved or not approved. The Secretary may approve the application for an implementation grant with a statement that the application for the section 8 [ 42 U.S.C. 1437f ] assistance for residents of the project not purchasing units is conditionally approved, subject to the availability of appropriations in subsequent fiscal years.
+
+## Source Credit
+
+*([Pub. L. 101–625, title IV, § 423](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4163](https://www.govinfo.gov/link/statute/104/4163); [Pub. L. 102–550, title X, § 1012(i)(2)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3906](https://www.govinfo.gov/link/statute/106/3906).)*

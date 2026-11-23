@@ -3,9 +3,10 @@ title: "Section 1229 - Initiation of removal proceedings"
 usc_title: 8
 usc_section: "1229"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1229"
-generated_at: "2026-03-30T02:53:10.487Z"
+generated_at: "2026-11-23T20:25:36.159Z"
+status: "active"
 ---
 
 # § 1229. Initiation of removal proceedings
@@ -43,3 +44,11 @@ generated_at: "2026-03-30T02:53:10.487Z"
   - **(2)** The locations specified in this paragraph are as follows:
     - **(A)** At a domestic violence shelter, a rape crisis center, supervised visitation center, family justice center, a victim services, or victim services provider, or a community-based organization.
     - **(B)** At a courthouse (or in connection with that appearance of the alien at a courthouse) if the alien is appearing in connection with a protection order case, child custody case, or other civil or criminal case relating to domestic violence, sexual assault, trafficking, or stalking in which the alien has been battered or subject to extreme cruelty or if the alien is described in subparagraph (T) or (U) of section 1101(a)(15) of this title .
+
+In general
+
+Definitions
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 4, § 239, as added [Pub. L. 104–208, div. C, title III, § 304(a)(3)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–587](https://www.govinfo.gov/link/statute/110/3009); amended [Pub. L. 109–162, title VIII, § 825(c)(1)](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3065](https://www.govinfo.gov/link/statute/119/3065); [Pub. L. 109–271, § 6(d)](https://www.govinfo.gov/link/plaw/109/public/271), Aug. 12, 2006, [120 Stat. 763](https://www.govinfo.gov/link/statute/120/763).)*

@@ -3,9 +3,10 @@ title: "Section 6301 - Purposes"
 usc_title: 31
 usc_section: "6301"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 6301"
-generated_at: "2026-03-30T02:55:34.072Z"
+generated_at: "2026-11-23T20:26:51.903Z"
+status: "active"
 ---
 
 # § 6301. Purposes
@@ -18,3 +19,22 @@ The purposes of this chapter are to—
     - **(B)** a clear definition of the relationships they reflect; and
     - **(C)** a better understanding of the responsibilities of the parties to them; and
   - **(3)** promote increased discipline in selecting and using procurement contracts, grant agreements, and cooperative agreements, maximize competition in making procurement contracts, and encourage competition in making grants and cooperative agreements.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 6301 | 41:501. | Feb. 3, 1978 , Pub. L. 95–224, § 2 , 92 Stat. 3 . |
+
+
+Historical and Revision Notes
+
+6301
+
+Feb. 3, 1978
+
+Pub. L. 95–224, § 2
+
+92 Stat. 3
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 1003](https://www.govinfo.gov/link/statute/96/1003).)*

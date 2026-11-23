@@ -3,9 +3,10 @@ title: "Section 623 - Establishment of a Federal Real Property Council"
 usc_title: 40
 usc_section: "623"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 623"
-generated_at: "2026-03-30T02:55:43.376Z"
+generated_at: "2026-11-23T20:26:56.560Z"
+status: "active"
 ---
 
 # § 623. Establishment of a Federal Real Property Council
@@ -77,3 +78,39 @@ generated_at: "2026-03-30T02:55:43.376Z"
       - **(iv)** the Director of the United States Fish and Wildlife Service; or
     - **(B)** the Secretary of Agriculture, acting through the Chief of the Forest Service; or
   - **(7)** any property operated and maintained by the United States Postal Service.
+
+Establishment
+
+Purpose
+
+Composition.—
+
+In general
+
+Chairperson
+
+Executive director.—
+
+In general
+
+Qualifications
+
+Meetings.—
+
+In general
+
+Minimum
+
+Duties
+
+Consultation
+
+Council Resources
+
+Access to Report
+
+Exclusions
+
+## Source Credit
+
+*(Added [Pub. L. 114–318, § 3(a)](https://www.govinfo.gov/link/plaw/114/public/318), Dec. 16, 2016, [130 Stat. 1609](https://www.govinfo.gov/link/statute/130/1609).)*

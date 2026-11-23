@@ -3,9 +3,10 @@ title: "Section 3508 - Fellowships"
 usc_title: 22
 usc_section: "3508"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3508"
-generated_at: "2026-03-30T02:55:05.394Z"
+generated_at: "2026-11-23T20:26:32.463Z"
+status: "active"
 ---
 
 # § 3508. Fellowships
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.394Z"
 - **(c)** The amount of the awards made pursuant to this section shall be established by the President, but shall not in any case exceed the highest rate which may be paid to an employee under the General Schedule established by section 5332 of title 5 . In addition, where appropriate, the President may make provisions for transportation, housing (when assigned outside country of residence), subsistence (or per diem in lieu thereof), and health care or health or accident insurance for Institute Fellows and their dependents while engaged in activities authorized by this chapter.
 - **(d)** Except as provided otherwise in this section, Institute Fellows shall not be deemed employees or otherwise in the service or employment of the United States Government. Institute Fellows shall be considered employees for purposes of compensation of injuries under chapter 81 of title 5 and the tort claim provisions of chapter 171 of title 28. In addition, Institute Fellows who are United States citizens shall be considered Government employees for purposes of sections 202, 203, 205, 207, 208, and 209 of title 18.
 - **(e)** Alien participants in any program of the Institute, including Institute Fellows and their dependents, may be admitted to the United States, if otherwise qualified as non-immigrants under section 1101(a)(15) of title 8 , for such time and under such conditions as may be prescribed by regulations promulgated by the Secretary of State and the Attorney General.
+
+## Source Credit
+
+*([Pub. L. 96–53, title IV, § 408](https://www.govinfo.gov/link/plaw/96/public/53), Aug. 14, 1979, [93 Stat. 375](https://www.govinfo.gov/link/statute/93/375).)*

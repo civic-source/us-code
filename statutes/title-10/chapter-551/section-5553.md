@@ -3,9 +3,10 @@ title: "Section 5553 - Provision of information on flight testing of ground-base
 usc_title: 10
 usc_section: "5553"
 chapter: 551
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 5553"
-generated_at: "2026-03-30T02:53:38.217Z"
+generated_at: "2026-11-23T20:25:52.004Z"
+status: "active"
 ---
 
 # § 5553. Provision of information on flight testing of ground-based midcourse national missile defense system
@@ -17,3 +18,11 @@ generated_at: "2026-03-30T02:53:38.217Z"
   - **(3)** For any such test objective not achieved—
     - **(A)** a thorough discussion describing the reasons that the objective was not achieved; and
     - **(B)** a discussion of any plans for future tests to achieve that objective.
+
+Information to Be Furnished to Congressional Committees
+
+Content
+
+## Source Credit
+
+*(Added [Pub. L. 118–159, div. A, title XVI, § 1649(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2199](https://www.govinfo.gov/link/statute/138/2199).)*

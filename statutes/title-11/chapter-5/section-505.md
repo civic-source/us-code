@@ -3,9 +3,10 @@ title: "Section 505 - Determination of tax liability"
 usc_title: 11
 usc_section: "505"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 505"
-generated_at: "2026-03-30T02:53:53.876Z"
+generated_at: "2026-11-23T20:25:55.353Z"
+status: "active"
 ---
 
 # § 505. Determination of tax liability
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:53:53.876Z"
     - **(B)** upon payment of the tax determined by the court, after notice and a hearing, after completion by such governmental unit of such examination; or
     - **(C)** upon payment of the tax determined by such governmental unit to be due.
 - **(c)** Notwithstanding section 362 of this title , after determination by the court of a tax under this section, the governmental unit charged with responsibility for collection of such tax may assess such tax against the estate, the debtor, or a successor to the debtor, as the case may be, subject to any otherwise applicable law.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2582](https://www.govinfo.gov/link/statute/92/2582); [Pub. L. 98–353, title III, § 447](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 374](https://www.govinfo.gov/link/statute/98/374); [Pub. L. 109–8, title VII](https://www.govinfo.gov/link/plaw/109/public/8), §§ 701(b), 703, 715, Apr. 20, 2005, [119 Stat. 124](https://www.govinfo.gov/link/statute/119/124), 125, 129; [Pub. L. 111–327, § 2(a)(14)](https://www.govinfo.gov/link/plaw/111/public/327), Dec. 22, 2010, [124 Stat. 3559](https://www.govinfo.gov/link/statute/124/3559).)*

@@ -3,9 +3,10 @@ title: "Section 9534 - Standards for conduct and evaluation of research"
 usc_title: 20
 usc_section: "9534"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 9534"
-generated_at: "2026-03-30T02:54:48.227Z"
+generated_at: "2026-11-23T20:26:14.990Z"
+status: "active"
 ---
 
 # § 9534. Standards for conduct and evaluation of research
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:48.227Z"
     - **(A)** develop the procedures to be used in evaluating applications for research grants, cooperative agreements, and contracts, and specify the criteria and factors (including, as applicable, the use of longitudinal data linking test scores, enrollment, and graduation rates over time) which shall be considered in making such evaluations; and
     - **(B)** evaluate the performance of each recipient of an award of a research grant, contract, or cooperative agreement at the conclusion of the award.
 - **(c)** The Research Commissioner shall ensure that not less than 50 percent of the funds made available for research for each fiscal year shall be used to fund long-term research programs of not less than 5 years, which support the priorities and mission of the Institute and the mission of the Research Center.
+
+## Source Credit
+
+*([Pub. L. 107–279, title I, § 134](https://www.govinfo.gov/link/plaw/107/public/279), Nov. 5, 2002, [116 Stat. 1957](https://www.govinfo.gov/link/statute/116/1957).)*

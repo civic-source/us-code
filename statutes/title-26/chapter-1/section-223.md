@@ -3,9 +3,10 @@ title: "Section 223 - Health savings accounts"
 usc_title: 26
 usc_section: "223"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 223"
-generated_at: "2026-03-30T02:55:27.655Z"
+generated_at: "2026-11-23T20:26:45.515Z"
+status: "active"
 ---
 
 # § 223. Health savings accounts
@@ -114,8 +115,8 @@ generated_at: "2026-03-30T02:55:27.655Z"
     - **(C)** Subparagraph (B) shall not apply to any expense for coverage under—
       - **(i)** a health plan during any period of continuation coverage required under any Federal law,
       - **(ii)** a qualified long-term care insurance contract (as defined in section 7702B(b)),
-      - **(iii)** a health plan during a period in which the individual is receiving unemployment compensation under any Federal or State law, or
-      - **(iv)** in the case of an account beneficiary who has attained the age specified in section 1811 of the Social Security Act, any health insurance other than a medicare supplemental policy (as defined in section 1882 of the Social Security Act).
+      - **(iii)** a health plan during a period in which the individual is receiving unemployment compensation under any Federal or State law,
+      - **(iv)** in the case of an account beneficiary who has attained the age specified in section 1811 of the Social Security Act, any health insurance other than a medicare supplemental policy (as defined in section 1882 of the Social Security Act), or
       - **(v)** any direct primary care service arrangement.
     - **(D)** For purposes of this paragraph, the term “menstrual care product” means a tampon, pad, liner, cup, sponge, or similar product used by individuals with respect to menstruation or other genital-tract secretions.
   - **(3)** The term “account beneficiary” means the individual on whose behalf the health savings account was established.
@@ -165,3 +166,29 @@ generated_at: "2026-03-30T02:55:27.655Z"
 - **(h)** The Secretary may require—
   - **(1)** the trustee of a health savings account to make such reports regarding such account to the Secretary and to the account beneficiary with respect to contributions, distributions, the return of excess contributions, and such other matters as the Secretary determines appropriate, and
   - **(2)** any person who provides an individual with a high deductible health plan to make such reports to the Secretary and to the account beneficiary with respect to such plan as the Secretary determines appropriate.
+
+| For taxable years beginning in: | The additional contribution amount is: |
+| --- | --- |
+| 2004 | $500 |
+| 2005 | $600 |
+| 2006 | $700 |
+| 2007 | $800 |
+| 2008 | $900 |
+| 2009 and thereafter | $1,000. |
+
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009 and thereafter
+
+## Source Credit
+
+*(Added [Pub. L. 108–173, title XII, § 1201(a)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2469](https://www.govinfo.gov/link/statute/117/2469); amended [Pub. L. 109–135, title IV, § 404(c)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2634](https://www.govinfo.gov/link/statute/119/2634); [Pub. L. 109–432, div. A, title III](https://www.govinfo.gov/link/plaw/109/public/432), §§ 302(b), 303(a), (b), 304, 305(a), 307(b), Dec. 20, 2006, [120 Stat. 2949](https://www.govinfo.gov/link/statute/120/2949), 2950, 2953; [Pub. L. 111–148, title IX](https://www.govinfo.gov/link/plaw/111/public/148), §§ 9003(a), 9004(a), Mar. 23, 2010, [124 Stat. 854](https://www.govinfo.gov/link/statute/124/854); [Pub. L. 114–41, title IV, § 4007(b)(1)](https://www.govinfo.gov/link/plaw/114/public/41), July 31, 2015, [129 Stat. 466](https://www.govinfo.gov/link/statute/129/466); [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 11002(d)(1)(V), 11051(b)(3)(E), Dec. 22, 2017, [131 Stat. 2060](https://www.govinfo.gov/link/statute/131/2060), 2090; [Pub. L. 115–141, div. U, title IV, § 401(a)(57)](https://www.govinfo.gov/link/plaw/115/public/141), (58), Mar. 23, 2018, [132 Stat. 1186](https://www.govinfo.gov/link/statute/132/1186), 1187; [Pub. L. 116–136, div. A, title III](https://www.govinfo.gov/link/plaw/116/public/136), §§ 3701(a), (b), 3702(a), Mar. 27, 2020, [134 Stat. 415](https://www.govinfo.gov/link/statute/134/415), 416; [Pub. L. 116–260, div. BB, title I, § 102(c)(4)(A)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2796](https://www.govinfo.gov/link/statute/134/2796); [Pub. L. 117–103, div. P, title II, § 307(a)](https://www.govinfo.gov/link/plaw/117/public/103), (b), Mar. 15, 2022, [136 Stat. 807](https://www.govinfo.gov/link/statute/136/807); [Pub. L. 117–169, title I, § 11408(a)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 1905](https://www.govinfo.gov/link/statute/136/1905); [Pub. L. 117–328, div. FF, title IV, § 4151(a)](https://www.govinfo.gov/link/plaw/117/public/328), (b), Dec. 29, 2022, [136 Stat. 5931](https://www.govinfo.gov/link/statute/136/5931); [Pub. L. 119–21, title VII](https://www.govinfo.gov/link/plaw/119/public/21), §§ 71306(a), (b), 71307(a), 71308(a)–(c), July 4, 2025, [139 Stat. 325](https://www.govinfo.gov/link/statute/139/325), 326.)*

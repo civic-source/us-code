@@ -3,9 +3,10 @@ title: "Section 1990 - Compact appropriations"
 usc_title: 48
 usc_section: "1990"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1990"
-generated_at: "2026-03-30T02:56:14.602Z"
+generated_at: "2026-11-23T20:27:28.193Z"
+status: "active"
 ---
 
 # § 1990. Compact appropriations
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:14.602Z"
     - **(B)** Any amounts deposited into the Postal Service Fund under subparagraph (A) shall be the fiduciary, fiscal, and audit responsibility of the Postal Service.
 - **(c)** There is appropriated to the Secretary of the Interior to carry out section 1988(d) of this title out of any funds in the Treasury not otherwise appropriated, $550,000 for each of fiscal years 2024 through 2043, to remain available until expended.
 - **(d)** The total amounts made available to the Government of the Federated States of Micronesia and the Government of the Republic of the Marshall Islands under subsection (a) shall be reduced by amounts made available to the Government of the Federated States of Micronesia and the Government of the Republic of the Marshall Islands, as applicable, under section 2101(a) of the Continuing Appropriations Act, 2024 and Other Extensions Act ( Public Law 118–15 ; 137 Stat. 81 ) (as amended by section 101 of division B of the Further Continuing Appropriations and Other Extensions Act, 2024 ( Public Law 118–22 ; 137 Stat. 114 ) and section 201 of the Further Additional Continuing Appropriations and Other Extensions Act, 2024 ( Public Law 118–35 ; 138 Stat. 7 )).
+
+## Source Credit
+
+*([Pub. L. 118–42, div. G, title II, § 211](https://www.govinfo.gov/link/plaw/118/public/42), Mar. 9, 2024, [138 Stat. 450](https://www.govinfo.gov/link/statute/138/450).)*

@@ -3,9 +3,10 @@ title: "Section 653 - Extension of jurisdiction of Mississippi River Commission"
 usc_title: 33
 usc_section: "653"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 653"
-generated_at: "2026-03-30T02:55:41.066Z"
+generated_at: "2026-11-23T20:26:53.879Z"
+status: "active"
 ---
 
 # § 653. Extension of jurisdiction of Mississippi River Commission
@@ -14,3 +15,7 @@ The jurisdiction of the Mississippi River Commission (established by the Act of 
 
   - **(1)** Terrebonne Parish, Louisiana; and
   - **(2)** the area bounded by the East Atchafalaya Basin Protection Levee, the Mississippi River Levee, and Bayou Lafourche and extending from Morganza, Louisiana, to the Gulf of Mexico, insofar as such area is affected by the flood waters of the Mississippi River.
+
+## Source Credit
+
+*([Pub. L. 102–580, title III, § 301](https://www.govinfo.gov/link/plaw/102/public/580), Oct. 31, 1992, [106 Stat. 4838](https://www.govinfo.gov/link/statute/106/4838).)*

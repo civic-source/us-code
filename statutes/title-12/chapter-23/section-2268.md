@@ -3,9 +3,10 @@ title: "Section 2268 - Penalty"
 usc_title: 12
 usc_section: "2268"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 2268"
-generated_at: "2026-03-30T02:53:53.478Z"
+generated_at: "2026-11-23T20:25:59.261Z"
+status: "active"
 ---
 
 # § 2268. Penalty
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:53.478Z"
 - **(f)** The Farm Credit Administration shall promulgate regulations establishing procedures necessary to implement section 2267 of this title and this section.
 - **(g)** All penalties collected under authority of this section shall be covered into the Treasury of the United States.
 - **(h)** For purposes of this section, any directive issued under section 2154(b)(2), 2154a(e), or 2202a(h) of this title shall be treated as an order that has become final and was issued under section 2261 of this title .
+
+## Source Credit
+
+*([Pub. L. 92–181, title V, § 5](https://www.govinfo.gov/link/plaw/92/public/181).32, as added [Pub. L. 99–205, title II, § 204](https://www.govinfo.gov/link/plaw/99/public/205), Dec. 23, 1985, [99 Stat. 1700](https://www.govinfo.gov/link/statute/99/1700); amended [Pub. L. 100–233, title IV, § 423](https://www.govinfo.gov/link/plaw/100/public/233), title VIII, §§ 804(a)(2), 805(dd), Jan. 6, 1988, [101 Stat. 1656](https://www.govinfo.gov/link/statute/101/1656), 1714, 1717; [Pub. L. 115–334, title V, § 5411(33)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4683](https://www.govinfo.gov/link/statute/132/4683).)*

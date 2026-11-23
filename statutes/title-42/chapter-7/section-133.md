@@ -3,9 +3,10 @@ title: "Section 133 - State Pharmaceutical Assistance Programs"
 usc_title: 42
 usc_section: "133"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 133"
-generated_at: "2026-03-30T02:56:10.990Z"
+generated_at: "2026-11-23T20:27:21.316Z"
+status: "active"
 ---
 
 # § 1395w–133. State Pharmaceutical Assistance Programs
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:56:10.990Z"
   - **(3)** Of the amount appropriated to carry out this subsection for a fiscal year, the Secretary shall allocate payments among Programs that have applications approved under paragraph (4) for such fiscal year in proportion to the number of enrollees enrolled in each such Program as of October 1, 2003 .
   - **(4)** No payments may be made under this subsection except pursuant to an application that is submitted and approved in a time, manner, and form specified by the Secretary.
   - **(5)** Out of any funds in the Treasury not otherwise appropriated, there are appropriated for each of fiscal years 2005 and 2006, $62,500,000 to carry out this subsection.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1860D–23, as added [Pub. L. 108–173, title I, § 101(a)(2)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2128](https://www.govinfo.gov/link/statute/117/2128).)*

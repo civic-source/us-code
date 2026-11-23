@@ -3,9 +3,10 @@ title: "Section 18 - Land acquisition"
 usc_title: 16
 usc_section: "18"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 18"
-generated_at: "2026-03-30T02:54:22.833Z"
+generated_at: "2026-11-23T20:26:19.989Z"
+status: "active"
 ---
 
 # § 460vv–18. Land acquisition
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:22.833Z"
 - **(b)** In exercising the authority conferred by this section to acquire lands, the Secretary of Agriculture shall give prompt and careful consideration to any offer made by an individual owning any land, or interest in land, within the Winding Stair Mountain National Recreation and Wilderness Area. In considering any such offer, the Secretary shall take into consideration any hardship to the owner which might result from any undue delay in acquiring the property.
 - **(c)** The Secretary of Agriculture may acquire sites at locations outside such boundaries of the Winding Stair Mountain National Recreation and Wilderness Area, as he determines necessary, for visitor orientation and the establishment of a lodge and additional facilities to enhance the quality of the area.
 - **(d)** Notwithstanding the limitations contained in section 200306(a)(2) of title 54 , the Secretary of Agriculture may acquire by purchase, exchange, donation or otherwise any right, title, and interest in lands in Le Flore County, Oklahoma, which are outside the boundaries of the Ouachita National Forest. No such right, title or interest may be acquired without the consent of the owner thereof. All lands and interests therein acquired under this subsection shall be administered by the Secretary of Agriculture in accordance with the Act of March 1, 1911 , commonly referred to as the Weeks Act ( 36 Stat. 961 ) and in accordance with the laws, rules, and regulations generally applicable to units of the national forest system. The Secretary of Agriculture shall extend the boundaries of the Ouachita National Forest to include such lands.
+
+## Source Credit
+
+*([Pub. L. 100–499, § 20](https://www.govinfo.gov/link/plaw/100/public/499), Oct. 18, 1988, [102 Stat. 2499](https://www.govinfo.gov/link/statute/102/2499).)*

@@ -3,9 +3,10 @@ title: "Section 4205 - Rights of declarants; participation in actions, awards"
 usc_title: 12
 usc_section: "4205"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4205"
-generated_at: "2026-03-30T02:53:53.502Z"
+generated_at: "2026-11-23T20:25:59.371Z"
+status: "active"
 ---
 
 # § 4205. Rights of declarants; participation in actions, awards
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:53:53.502Z"
     - **(B)** In distributing any such award between 2 or more declarants, the Attorney General may, in the Attorney General’s discretion, consider any appropriate factor.
 - **(e)**
 - **(f)** For purposes of this section, funds or assets acquired by the United States shall not include any funds or assets acquired by any appropriate Federal banking agency acting in any capacity or the Resolution Trust Corporation acting in any capacity, except for any civil money penalties recovered by a Federal banking agency through a final judgment, order or settlement.
+
+## Source Credit
+
+*([Pub. L. 101–647, title XXV, § 2565](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4896](https://www.govinfo.gov/link/statute/104/4896); [Pub. L. 107–273, div. A, title III, § 301(c)(3)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1781](https://www.govinfo.gov/link/statute/116/1781).)*

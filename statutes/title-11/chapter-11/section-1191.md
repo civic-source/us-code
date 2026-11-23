@@ -3,9 +3,10 @@ title: "Section 1191 - Confirmation of plan"
 usc_title: 11
 usc_section: "1191"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 1191"
-generated_at: "2026-03-30T02:53:53.886Z"
+generated_at: "2026-11-23T20:25:55.416Z"
+status: "active"
 ---
 
 # § 1191. Confirmation of plan
@@ -28,3 +29,17 @@ generated_at: "2026-03-30T02:53:53.886Z"
     - **(B)** a domestic support obligation that first becomes payable after the date of the filing of the petition; or
   - **(2)** for the payment of expenditures necessary for the continuation, preservation, or operation of the business of the debtor.
 - **(e)** Notwithstanding section 1129(a)(9)(A) of this title , a plan that provides for the payment through the plan of a claim of a kind specified in paragraph (2) or (3) of section 507(a) of this title may be confirmed under subsection (b) of this section.
+
+Terms
+
+Exception
+
+Rule of Construction
+
+Disposable Income
+
+Special Rule
+
+## Source Credit
+
+*(Added [Pub. L. 116–54, § 2(a)](https://www.govinfo.gov/link/plaw/116/public/54), Aug. 23, 2019, [133 Stat. 1082](https://www.govinfo.gov/link/statute/133/1082); amended [Pub. L. 116–260, div. N, title III, § 320(c)](https://www.govinfo.gov/link/plaw/116/public/260), (f)(2)(A)(iii), Dec. 27, 2020, [134 Stat. 2016](https://www.govinfo.gov/link/statute/134/2016), 2017; [Pub. L. 117–151, § 2(f)](https://www.govinfo.gov/link/plaw/117/public/151), June 21, 2022, [136 Stat. 1299](https://www.govinfo.gov/link/statute/136/1299).)*

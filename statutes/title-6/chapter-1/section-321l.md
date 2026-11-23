@@ -3,9 +3,10 @@ title: "Section 321l - Guidance and recommendations"
 usc_title: 6
 usc_section: "321l"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 321l"
-generated_at: "2026-03-30T02:53:09.458Z"
+generated_at: "2026-11-23T20:25:34.701Z"
+status: "active"
 ---
 
 # § 321l. Guidance and recommendations
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:09.458Z"
   - **(2)** promoted by the Secretary to the private sector.
 - **(c)** In developing guidance or recommendations or identifying best practices under subsection (a), the Administrator and the Director of the Cybersecurity and Infrastructure Security Agency shall take into consideration small business concerns (under the meaning given that term in section 632 of title 15 ), including any need for separate guidance or recommendations or best practices, as necessary and appropriate.
 - **(d)** Nothing in this section may be construed to supersede any requirement established under any other provision of law.
+
+## Source Credit
+
+*([Pub. L. 107–296, title V, § 523](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 110–53, title IX, § 901(a)](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 364](https://www.govinfo.gov/link/statute/121/364); amended [Pub. L. 115–278, § 2(g)(4)(C)](https://www.govinfo.gov/link/plaw/115/public/278), Nov. 16, 2018, [132 Stat. 4178](https://www.govinfo.gov/link/statute/132/4178); [Pub. L. 117–263, div. G, title LXXI, § 7143(c)(1)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3662](https://www.govinfo.gov/link/statute/136/3662).)*

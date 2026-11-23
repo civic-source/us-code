@@ -3,9 +3,10 @@ title: "Section 1b - Transferred"
 usc_title: 2
 usc_section: "1b"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1b"
-generated_at: "2026-03-30T02:53:04.787Z"
+generated_at: "2026-11-23T20:25:28.827Z"
+status: "transferred"
 ---
 
 # § 72a–1b. Transferred

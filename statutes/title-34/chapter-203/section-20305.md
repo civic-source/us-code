@@ -3,9 +3,10 @@ title: "Section 20305 - Grants for specialized technical assistance and training
 usc_title: 34
 usc_section: "20305"
 chapter: 203
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 20305"
-generated_at: "2026-03-30T02:55:33.297Z"
+generated_at: "2026-11-23T20:26:50.592Z"
+status: "active"
 ---
 
 # § 20305. Grants for specialized technical assistance and training programs
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:33.297Z"
 - **(c)**
   - **(1)** The Administrator shall establish the criteria to be used for evaluating applications for grants under this section, consistent with sections 11183 and 11186 of this title.
   - **(2)** The grant criteria established pursuant to paragraph (1) shall require, in the case of a grant made under subsection (a)(1), that a program provide training and technical assistance that includes information regarding improved child interview techniques, thorough investigative methods, interagency coordination and effective presentation of evidence in court, including the use of alternative courtroom procedures described in this title. 1 1 See References in Text note below.
+
+## Source Credit
+
+*([Pub. L. 101–647, title II, § 214A](https://www.govinfo.gov/link/plaw/101/public/647), formerly § 213, Nov. 29, 1990, [104 Stat. 4793](https://www.govinfo.gov/link/statute/104/4793); renumbered § 214A and amended [Pub. L. 102–586, § 6(b)(1)](https://www.govinfo.gov/link/plaw/102/public/586), (d), Nov. 4, 1992, [106 Stat. 5029](https://www.govinfo.gov/link/statute/106/5029), 5034; [Pub. L. 107–273, div. C, title II, § 12221(b)(1)(B)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1894](https://www.govinfo.gov/link/statute/116/1894); [Pub. L. 115–424, § 2(e)](https://www.govinfo.gov/link/plaw/115/public/424), (h)(3), Jan. 7, 2019, [132 Stat. 5469](https://www.govinfo.gov/link/statute/132/5469), 5470; [Pub. L. 117–354, § 3(5)](https://www.govinfo.gov/link/plaw/117/public/354), Jan. 5, 2023, [136 Stat. 6276](https://www.govinfo.gov/link/statute/136/6276).)*

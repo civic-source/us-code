@@ -3,9 +3,10 @@ title: "Section 8954 - Benefits"
 usc_title: 5
 usc_section: "8954"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8954"
-generated_at: "2026-03-30T02:52:56.070Z"
+generated_at: "2026-11-23T20:25:32.252Z"
+status: "active"
 ---
 
 # § 8954. Benefits
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:52:56.070Z"
   - **(9)** Orthodontics.
 - **(d)** A contract approved under this chapter shall require the qualified company to cover the geographic service delivery area specified by the Office. The Office shall require qualified companies to include dentally underserved areas in their service delivery areas.
 - **(e)** If an individual has dental coverage under a health benefits plan under chapter 89 and also has coverage under a plan under this chapter, the health benefits plan under chapter 89 shall be the first payor of any benefit payments.
+
+## Source Credit
+
+*(Added [Pub. L. 108–496, § 2](https://www.govinfo.gov/link/plaw/108/public/496), Dec. 23, 2004, [118 Stat. 4003](https://www.govinfo.gov/link/statute/118/4003).)*

@@ -3,9 +3,10 @@ title: "Section 1921c - Interpretation of and United States policy regarding U.S
 usc_title: 48
 usc_section: "1921c"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1921c"
-generated_at: "2026-03-30T02:56:14.596Z"
+generated_at: "2026-11-23T20:27:28.164Z"
+status: "active"
 ---
 
 # § 1921c. Interpretation of and United States policy regarding U.S.-FSM Compact and U.S.-RMI Compact
@@ -61,3 +62,9 @@ generated_at: "2026-03-30T02:56:14.596Z"
 - **(i)** Section 141(f)(2) of the Compact of Free Association, as amended, between the Government of the United States of America and the Government of the Federated States of Micronesia and of the Compact of Free Association, as amended, between the Government of the United States of America and the Government of the Republic of the Marshall Islands, shall be construed as though, after “may by regulations prescribe”, there were included the following: “, except that any such regulations that would have a significant effect on the admission, stay and employment privileges provided under this section shall not become effective until 90 days after the date of transmission of the regulations to the Committee on Energy and Natural Resources and the Committee on the Judiciary of the Senate and the Committee on Resources, the Committee on International Relations, and the Committee on the Judiciary of the House of Representatives”.
 - **(j)** As of Fiscal Year 2015, if the United States Gross Domestic Product Implicit Price Deflator average for Fiscal Years 2009 through 2013 is greater than United States Gross Domestic Product Implicit Price Deflator average for Fiscal Years 2004 through 2008 (as reported in the Survey of Current Business or subsequent publication and compiled by the Department of the Interior), then section 217 of the U.S.-FSM Compact, paragraph 5 of Article II of the U.S.-FSM Fiscal Procedures Agreement, section 218 of the U.S.-RMI Compact, and paragraph 5 of Article II of the U.S.-RMI Fiscal Procedures Agreement shall be construed as if “the full” appeared in place of “two-thirds of the” each place those words appear. If an inflation adjustment is made under this subsection, the base year for calculating the inflation adjustment shall be fiscal year 2014.
 - **(k)** In furtherance of the provisions of Title Three, Article IV, Section 341 of the U.S.-FSM and the U.S.-RMI Compacts, the purpose of which is to establish the privilege to volunteer for service in the U.S. Armed Forces, it is the sense of Congress that, to facilitate eligibility of FSM and RMI secondary school students to qualify for such service, the Department of Defense may extend the Armed Services Vocational Aptitude Battery (ASVAB) Student Testing Program (STP) and the ASVAB Career Exploration Program to selected secondary Schools in the FSM and the RMI to the extent such programs are available to Department of Defense Dependent Schools located in foreign jurisdictions.
+
+George W. Bush.
+
+## Source Credit
+
+*([Pub. L. 108–188, title I, § 104](https://www.govinfo.gov/link/plaw/108/public/188), Dec. 17, 2003, [117 Stat. 2737](https://www.govinfo.gov/link/statute/117/2737); [Pub. L. 110–229, title VIII, § 806(a)(2)](https://www.govinfo.gov/link/plaw/110/public/229), May 8, 2008, [122 Stat. 871](https://www.govinfo.gov/link/statute/122/871); [Pub. L. 111–68, div. A, title I, § 1501(c)](https://www.govinfo.gov/link/plaw/111/public/68), Oct. 1, 2009, [123 Stat. 2041](https://www.govinfo.gov/link/statute/123/2041); [Pub. L. 118–42, div. G, title II, § 209](https://www.govinfo.gov/link/plaw/118/public/42) (l)(2), Mar. 9, 2024, [138 Stat. 448](https://www.govinfo.gov/link/statute/138/448).)*

@@ -3,9 +3,10 @@ title: "Section 20301 - Findings"
 usc_title: 34
 usc_section: "20301"
 chapter: 203
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 20301"
-generated_at: "2026-03-30T02:55:33.297Z"
+generated_at: "2026-11-23T20:26:50.590Z"
+status: "active"
 ---
 
 # § 20301. Findings
@@ -23,3 +24,7 @@ The Congress finds that—
   - **(9)** State chapters of children’s advocacy center networks are needed to—
     - **(A)** assist local communities in coordinating their multidisciplinary child abuse investigation, prosecution, and intervention services; and
     - **(B)** provide oversight of, and training and technical assistance in, the effective delivery of evidence-informed programming, and operations of centers.
+
+## Source Credit
+
+*([Pub. L. 101–647, title II, § 211](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4792](https://www.govinfo.gov/link/statute/104/4792); [Pub. L. 102–586, § 6(a)](https://www.govinfo.gov/link/plaw/102/public/586), Nov. 4, 1992, [106 Stat. 5029](https://www.govinfo.gov/link/statute/106/5029); [Pub. L. 115–424, § 2(a)](https://www.govinfo.gov/link/plaw/115/public/424), Jan. 7, 2019, [132 Stat. 5465](https://www.govinfo.gov/link/statute/132/5465); [Pub. L. 117–354, § 3(1)](https://www.govinfo.gov/link/plaw/117/public/354), Jan. 5, 2023, [136 Stat. 6274](https://www.govinfo.gov/link/statute/136/6274).)*

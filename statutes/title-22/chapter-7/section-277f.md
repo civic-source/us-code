@@ -3,9 +3,10 @@ title: "Section 277f - Valley Gravity Canal and Storage Project"
 usc_title: 22
 usc_section: "277f"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 277f"
-generated_at: "2026-03-30T02:55:05.313Z"
+generated_at: "2026-11-23T20:26:31.974Z"
+status: "active"
 ---
 
 # § 277f. Valley Gravity Canal and Storage Project
@@ -14,3 +15,7 @@ The Secretary of State, with the approval of the President, shall designate the 
 
   - **(1)** In addition to the nonreimbursable allocation to flood control or navigation which may be made by the Secretary of the Interior under section 485h(b) of title 43 , the President, after consultation with the Secretary of State and the Secretary of the Interior, shall allocate such part of the total estimated cost of the project as he deems proper to the protection of American interests from drought hazards resulting from the uncontrolled and unregulated flow of the international portion of the Rio Grande below Old Fort Quitman, Texas. Provisions of law applicable with respect to allocations to flood control under section 485h(b) of title 43 , shall, insofar as they are not inconsistent with the foregoing provisions, be applicable in like manner with respect to any allocation made under this subparagraph; and
   - **(2)** All revenues received by the United States in connection with the construction, operation, and maintenance of such projects shall be covered into the Treasury as miscellaneous receipts.
+
+## Source Credit
+
+*(June 28, 1941, ch. 259, [55 Stat. 338](https://www.govinfo.gov/link/statute/55/338).)*

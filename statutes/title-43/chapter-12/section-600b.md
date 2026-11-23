@@ -3,12 +3,37 @@ title: "Section 600b - Canadian River project, Texas"
 usc_title: 43
 usc_section: "600b"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 600b"
-generated_at: "2026-03-30T02:55:57.455Z"
+generated_at: "2026-11-23T20:27:06.230Z"
+status: "active"
 ---
 
 # § 600b. Canadian River project, Texas
 
 For the purposes of irrigating land, delivering water for industrial and municipal use, controlling floods, providing recreation and fish and wildlife benefits, and controlling and catching silt, the Secretary of the Interior, acting pursuant to the Federal reclamation laws (Act of June 17, 1902 , 32 Stat. 388 , and Acts amendatory thereof or supplementary thereto), is authorized to construct, operate, and maintain the Canadian River reclamation project, Texas, described in the report of the Commissioner of Reclamation approved by the Secretary May 3, 1950 , entitled “Plan for Development, Canadian River Project, Texas”, Project Planning Report Number 5–12.22–1, at an estimated cost of $86,656,000, the impounding works whereof shall be located at a suitable site on the Canadian River in that area known as the Panhandle of Texas. In addition to the impounding works, the project shall include such main canals, pumping plants, distribution and drainage systems, and other works as are necessary to accomplish the purposes of sections 600b and 600c of this title. The use by the project of waters arising in Ute and Pajarito Creeks, New Mexico, shall be only such use as does not conflict with use, present or potential, of such waters for beneficial consumptive purposes in New Mexico.
 
+
+In General
+
+Financing
+
+In General
+
+Future Alterations
+
+Recreation
+
+Flood Control
+
+Sanford Dam Property
+
+Payment Obligations Extinguished
+
+Operation and Maintenance Costs
+
+In General
+
+## Source Credit
+
+*(Dec. 29, 1950, ch. 1183, § 1, [64 Stat. 1124](https://www.govinfo.gov/link/statute/64/1124).)*

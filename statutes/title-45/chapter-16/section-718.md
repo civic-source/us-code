@@ -3,9 +3,10 @@ title: "Section 718 - Review by Congress"
 usc_title: 45
 usc_section: "718"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 718"
-generated_at: "2026-03-30T02:55:56.554Z"
+generated_at: "2026-11-23T20:27:05.297Z"
+status: "active"
 ---
 
 # § 718. Review by Congress
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:56.554Z"
     - **(B)** If a line of railroad or any segment thereof is designated for rail service in the final system plan, no designation may be made by the Association pursuant to this paragraph which would result in such line or segment not being so designated. Any designations made pursuant to this paragraph shall be treated for all purposes as if they had been included in the final system plan adopted by the Association and reviewed by the Congress. The final system plan shall for all purposes be deemed to be approved as amended by such designations.
     - **(C)** Any designations made pursuant to this paragraph shall not be subject to review by any court.
     - **(D)** Any labor agreements entered into under section 778 1 1 See References in Text note below. of this title shall be subject to further negotiations for any modifications which may be necessary to implement designations made pursuant to this paragraph.
+
+## Source Credit
+
+*([Pub. L. 93–236, title II, § 208](https://www.govinfo.gov/link/plaw/93/public/236), Jan. 2, 1974, [87 Stat. 999](https://www.govinfo.gov/link/statute/87/999); [Pub. L. 94–210, title VI, § 601(e)](https://www.govinfo.gov/link/plaw/94/public/210), Feb. 5, 1976, [90 Stat. 84](https://www.govinfo.gov/link/statute/90/84); S. Res. 4, Feb. 4, 1977; H. Res. 549, Mar. 25, 1980.)*

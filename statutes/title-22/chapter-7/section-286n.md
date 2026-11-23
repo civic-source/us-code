@@ -3,9 +3,10 @@ title: "Section 286n - Special Drawing Rights"
 usc_title: 22
 usc_section: "286n"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 286n"
-generated_at: "2026-03-30T02:55:05.319Z"
+generated_at: "2026-11-23T20:26:32.010Z"
+status: "active"
 ---
 
 # § 286n. Special Drawing Rights
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.319Z"
       - **(ii)** giving effect to certain modifications in the present rules and practices of the Fund, and
 - **(b)** to participate in the special drawing account established by the amendment.
 
+
+## Source Credit
+
+*([Pub. L. 90–349, § 2](https://www.govinfo.gov/link/plaw/90/public/349), June 19, 1968, [82 Stat. 188](https://www.govinfo.gov/link/statute/82/188).)*

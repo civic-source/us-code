@@ -3,9 +3,10 @@ title: "Section 19281 - Foundation for Energy Security and Innovation"
 usc_title: 42
 usc_section: "19281"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 19281"
-generated_at: "2026-03-30T02:56:11.545Z"
+generated_at: "2026-11-23T20:27:23.871Z"
+status: "active"
 ---
 
 # § 19281. Foundation for Energy Security and Innovation
@@ -234,3 +235,19 @@ generated_at: "2026-03-30T02:56:11.545Z"
   - **(6)** The United States shall not be liable for any debts, defaults, acts, or omissions of a Laboratory Foundation.
   - **(7)** Notwithstanding any other provision of law, a Laboratory Foundation may transfer funds to the National Energy Technology Laboratory and the National Energy Technology Laboratory may accept that transfer of funds.
   - **(8)** This subsection shall not alter or supersede any other provision of law governing the authority, scope, establishment, or use of nonprofit organizations by a Federal agency.
+
+(aa) seek to enter into an agreement with the National Academies of Sciences, Engineering, and Medicine to develop a list of individuals to serve as members of the Board who are well-qualified and will meet the requirements of subclauses (II) and (III); and
+
+(bb) appoint the initial members of the Board from that list, if applicable, in consultation with the National Academies of Sciences, Engineering, and Medicine.
+
+(aa) (AA) has experience in the energy sector; (BB) has research experience in the energy field; or (CC) has experience in technology commercialization or foundation operations; and
+
+(bb) to the extent practicable, represents diverse regions, sectors, and communities.
+
+(aa) the acceptance, solicitation, and disposition of donations and grants to the Foundation, including appropriate limits on the ability of donors to designate, by stipulation or restriction, the use or recipient of donated funds; and
+
+(bb) the disposition of assets of the Foundation;
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title VI, § 10691](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1688](https://www.govinfo.gov/link/statute/136/1688).)*

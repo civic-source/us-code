@@ -3,9 +3,10 @@ title: "Section 509 - Claims of codebtors"
 usc_title: 11
 usc_section: "509"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 509"
-generated_at: "2026-03-30T02:53:53.877Z"
+generated_at: "2026-11-23T20:25:55.355Z"
+status: "active"
 ---
 
 # § 509. Claims of codebtors
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:53.877Z"
     - **(C)** subordinated under section 510 of this title ; or
   - **(2)** as between the debtor and such entity, such entity received the consideration for the claim held by such creditor.
 - **(c)** The court shall subordinate to the claim of a creditor and for the benefit of such creditor an allowed claim, by way of subrogation under this section, or for reimbursement or contribution, of an entity that is liable with the debtor on, or that has secured, such creditor’s claim, until such creditor’s claim is paid in full, either through payments under this title or otherwise.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2585](https://www.govinfo.gov/link/statute/92/2585); [Pub. L. 98–353, title III, § 450](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 375](https://www.govinfo.gov/link/statute/98/375).)*

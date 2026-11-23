@@ -3,12 +3,17 @@ title: "Section 2234 - Authority exceeded in executing warrant"
 usc_title: 18
 usc_section: "2234"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2234"
-generated_at: "2026-03-30T02:54:16.496Z"
+generated_at: "2026-11-23T20:26:08.558Z"
+status: "active"
 ---
 
 # § 2234. Authority exceeded in executing warrant
 
 Whoever, in executing a search warrant, willfully exceeds his authority or exercises it with unnecessary severity, shall be fined under this title or imprisoned not more than one year, or both.
 
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 803](https://www.govinfo.gov/link/statute/62/803); [Pub. L. 104–294, title VI, § 601(a)(8)](https://www.govinfo.gov/link/plaw/104/public/294), Oct. 11, 1996, [110 Stat. 3498](https://www.govinfo.gov/link/statute/110/3498); [Pub. L. 107–273, div. B, title III, § 3002(a)(3)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1805](https://www.govinfo.gov/link/statute/116/1805).)*

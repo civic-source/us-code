@@ -3,9 +3,10 @@ title: "Section 40104 - Reports filed with the Commission"
 usc_title: 46
 usc_section: "40104"
 chapter: 401
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 40104"
-generated_at: "2026-03-30T02:56:15.563Z"
+generated_at: "2026-11-23T20:27:27.225Z"
+status: "active"
 ---
 
 # § 40104. Reports filed with the Commission
@@ -19,3 +20,44 @@ generated_at: "2026-03-30T02:56:15.563Z"
     - **(A)** limit the scope of any filing ordered under this section to fulfill the objective of the order; and
     - **(B)** provide a reasonable period of time for respondents to respond based upon their capabilities and the scope of the order.
 - **(b)** Conference minutes required to be filed with the Commission under this section may not be released to third parties or published by the Commission.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 40104 | 46 App.:1714. | Pub. L. 98–237, § 15 , Mar. 20, 1984 , 98 Stat. 84 ; Pub. L. 98–595, § 3(b)(3) , Oct. 30, 1984 , 98 Stat. 3133 ; Pub. L. 105–258, title I, § 113 , Oct. 14, 1998 , 112 Stat. 1912 . |
+
+
+Reports.—
+
+In general
+
+Requirements
+
+Limitation
+
+Conference Minutes
+
+Historical and Revision Notes
+
+40104
+
+Pub. L. 98–237, § 15
+
+Mar. 20, 1984
+
+98 Stat. 84
+
+Pub. L. 98–595, § 3(b)(3)
+
+Oct. 30, 1984
+
+98 Stat. 3133
+
+Pub. L. 105–258, title I, § 113
+
+Oct. 14, 1998
+
+112 Stat. 1912
+
+## Source Credit
+
+*([Pub. L. 109–304, § 7](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1527](https://www.govinfo.gov/link/statute/120/1527); [Pub. L. 115–282, title VII, § 705](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4294](https://www.govinfo.gov/link/statute/132/4294).)*

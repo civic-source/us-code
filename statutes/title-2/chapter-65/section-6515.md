@@ -3,9 +3,10 @@ title: "Section 6515 - Payment of fees for services of Attending Physician and f
 usc_title: 2
 usc_section: "6515"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 6515"
-generated_at: "2026-03-30T02:53:04.841Z"
+generated_at: "2026-11-23T20:25:29.074Z"
+status: "active"
 ---
 
 # § 6515. Payment of fees for services of Attending Physician and for use of Senate health and fitness facilities
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:04.841Z"
 - **(b)** The Secretary of the Senate is authorized to withhold fees from the salary of an individual authorized by such regulations to receive such services from the Attending Physician and to use the Senate health and fitness facilities.
 - **(c)** The Secretary of the Senate shall remit all fees required by subsection (a)(2) that are collected pursuant to subsection (b) or by direct payment to the General Fund of the Treasury as miscellaneous receipts unless otherwise provided by law.
 - **(d)** The provision 1 1 So in original. Probably should be “provisions”. of this section shall take effect on April 9, 1992 .
+
+## Source Credit
+
+*([Pub. L. 102–392, title III, § 314](https://www.govinfo.gov/link/plaw/102/public/392), Oct. 6, 1992, [106 Stat. 1723](https://www.govinfo.gov/link/statute/106/1723).)*

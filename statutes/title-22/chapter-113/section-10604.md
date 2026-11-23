@@ -3,9 +3,10 @@ title: "Section 10604 - Corporate powers and obligations of the Foundation"
 usc_title: 22
 usc_section: "10604"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 10604"
-generated_at: "2026-03-30T02:55:05.478Z"
+generated_at: "2026-11-23T20:26:32.829Z"
+status: "active"
 ---
 
 # § 10604. Corporate powers and obligations of the Foundation
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:05.478Z"
   - **(5)** to enter into contracts or other arrangements with public agencies, private organizations, and persons and to make such payments as may be necessary to carry out the purposes of such contracts or arrangements; and
   - **(6)** to award grants for eligible projects, in accordance with section 10606 of this title .
 - **(c)** The United States shall not be liable for any debts, defaults, acts, or omissions of the Foundation. The Federal Government shall be held harmless from any damages or awards ordered by a court against the Foundation.
+
+## Source Credit
+
+*([Pub. L. 118–159, div. E, title LI, § 5104](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2416](https://www.govinfo.gov/link/statute/138/2416).)*

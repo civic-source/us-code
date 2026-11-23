@@ -3,9 +3,10 @@ title: "Section 15082 - Grant authority"
 usc_title: 42
 usc_section: "15082"
 chapter: 144
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 15082"
-generated_at: "2026-03-30T02:56:11.458Z"
+generated_at: "2026-11-23T20:27:23.557Z"
+status: "active"
 ---
 
 # § 15082. Grant authority
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.458Z"
       - **(ii)** the participating agencies may develop a single set of criteria for the jointly funded project, and may require applicants to submit a single application for joint review by such agencies; and
       - **(iii)** unless the heads of the participating agencies develop joint eligibility requirements, an applicant for an award for the project shall meet the eligibility requirements of each program involved.
   - **(2)** The Secretary may not construe the provisions of this subsection to take precedence over a limitation on joint funding contained in an applicable statute.
+
+## Source Credit
+
+*([Pub. L. 106–402, title I, § 162](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1727](https://www.govinfo.gov/link/statute/114/1727).)*

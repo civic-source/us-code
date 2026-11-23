@@ -3,9 +3,10 @@ title: "Section 12907 - AIDS short-term supported housing and services"
 usc_title: 42
 usc_section: "12907"
 chapter: 131
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12907"
-generated_at: "2026-03-30T02:56:11.435Z"
+generated_at: "2026-11-23T20:27:23.458Z"
+status: "active"
 ---
 
 # § 12907. AIDS short-term supported housing and services
@@ -34,3 +35,13 @@ generated_at: "2026-03-30T02:56:11.435Z"
   - **(4)** A program assisted under this section shall provide for any individual who has remained in short-term supported housing assisted under the demonstration program, to the maximum extent practicable, the opportunity for placement in permanent housing or an environment appropriate to the health and social needs of the individual.
   - **(5)** In providing assistance under this section in any case in which the residence of an individual is appropriate to the needs of the individual, a program assisted under this section shall, when reasonable, provide for assistance in a manner appropriate to maintain the individual in such residence.
   - **(6)** A program assisted under this section shall provide each individual assisted under the program with an opportunity, if eligible, to receive case management services available from the appropriate social service agencies.
+
+Maintenance and administration
+
+Technical assistance
+
+Location
+
+## Source Credit
+
+*([Pub. L. 101–625, title VIII, § 858](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4379](https://www.govinfo.gov/link/statute/104/4379); [Pub. L. 102–550, title VI, § 606(g)](https://www.govinfo.gov/link/plaw/102/public/550), (j)(5), (11)(C), Oct. 28, 1992, [106 Stat. 3809–3811](https://www.govinfo.gov/link/statute/106/3809).)*

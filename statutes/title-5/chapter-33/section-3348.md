@@ -3,9 +3,10 @@ title: "Section 3348 - Vacant office"
 usc_title: 5
 usc_section: "3348"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 3348"
-generated_at: "2026-03-30T02:52:56.004Z"
+generated_at: "2026-11-23T20:25:31.822Z"
+status: "active"
 ---
 
 # § 3348. Vacant office
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:52:56.004Z"
   - **(3)** any Inspector General appointed by the President, by and with the advice and consent of the Senate;
   - **(4)** any Chief Financial Officer appointed by the President, by and with the advice and consent of the Senate; or
   - **(5)** an office of an Executive agency (including the Executive Office of the President, and other than the Government Accountability Office) if a statutory provision expressly prohibits the head of the Executive agency from performing the functions and duties of such office.
+
+## Source Credit
+
+*(Added [Pub. L. 105–277, div. C, title I, § 151(b)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–613](https://www.govinfo.gov/link/statute/112/2681); amended [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814).)*

@@ -3,9 +3,10 @@ title: "Section 2183 - General provisions"
 usc_title: 22
 usc_section: "2183"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2183"
-generated_at: "2026-03-30T02:55:05.349Z"
+generated_at: "2026-11-23T20:26:32.190Z"
+status: "active"
 ---
 
 # § 2183. General provisions
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:05.349Z"
 - **(h)** No payment may be made under any guaranty issued pursuant to this subpart for any loss arising out of fraud or misrepresentation for which the party seeking payment is responsible.
 - **(i)**
 - **(j)** Guaranties shall be issued under section 2182 of this title only for housing projects which are coordinated with and complementary to any development assistance being furnished under part I of this subchapter and which are specifically designed to demonstrate the feasibility and suitability of particular kinds of housing or of financial or other institutional arrangements. Of the aggregate face value of housing guaranties hereafter issued under this subpart, not less than 90 per centum shall be issued for housing suitable for families with income below the median income (below the median urban income for housing in urban areas) in the country in which the housing is located.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 223, as added [Pub. L. 91–175](https://www.govinfo.gov/link/plaw/91/public/175), pt. I, § 105, Dec. 30, 1969, [83 Stat. 808](https://www.govinfo.gov/link/statute/83/808); amended [Pub. L. 92–226](https://www.govinfo.gov/link/plaw/92/public/226), pt. I, § 103(b) Feb. 7, 1972, [86 Stat. 22](https://www.govinfo.gov/link/statute/86/22); [Pub. L. 93–189, § 5(2)](https://www.govinfo.gov/link/plaw/93/public/189), Dec. 17, 1973, [87 Stat. 717](https://www.govinfo.gov/link/statute/87/717); [Pub. L. 93–559](https://www.govinfo.gov/link/plaw/93/public/559), §§ 7(2), 8(a)(3)–(5), Dec. 30, 1974, [88 Stat. 1796](https://www.govinfo.gov/link/statute/88/1796), 1797; [Pub. L. 94–161, title III, § 311(5)](https://www.govinfo.gov/link/plaw/94/public/161), Dec. 20, 1975, [89 Stat. 861](https://www.govinfo.gov/link/statute/89/861); [Pub. L. 94–329, title IV, § 414](https://www.govinfo.gov/link/plaw/94/public/329), June 30, 1976, [90 Stat. 761](https://www.govinfo.gov/link/statute/90/761); [Pub. L. 95–88, title I, § 117(a)(3)](https://www.govinfo.gov/link/plaw/95/public/88), (b)(2), (c), Aug. 3, 1977, [91 Stat. 540](https://www.govinfo.gov/link/statute/91/540); [Pub. L. 95–424, title I, § 115(c)](https://www.govinfo.gov/link/plaw/95/public/424) –(j), Oct. 6, 1978, [92 Stat. 951](https://www.govinfo.gov/link/statute/92/951), 952; [Pub. L. 96–53, title I, § 112(c)](https://www.govinfo.gov/link/plaw/96/public/53), (d), Aug. 14, 1979, [93 Stat. 364](https://www.govinfo.gov/link/statute/93/364); [Pub. L. 97–113, title III, § 310(b)](https://www.govinfo.gov/link/plaw/97/public/113), Dec. 29, 1981, [95 Stat. 1535](https://www.govinfo.gov/link/statute/95/1535); [Pub. L. 98–473, title I, § 101(1)](https://www.govinfo.gov/link/plaw/98/public/473) [title V, § 541(a)], Oct. 12, 1984, [98 Stat. 1884](https://www.govinfo.gov/link/statute/98/1884), 1903; [Pub. L. 100–202, § 101(e) [title II, § 201]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–131](https://www.govinfo.gov/link/statute/101/1329), 1329–142; [Pub. L. 105–277, div. A, § 101(d) [title II]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–150](https://www.govinfo.gov/link/statute/112/2681), 2681–157.)*

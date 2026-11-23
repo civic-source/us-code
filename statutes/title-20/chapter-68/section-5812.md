@@ -3,9 +3,10 @@ title: "Section 5812 - National Education Goals"
 usc_title: 20
 usc_section: "5812"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 5812"
-generated_at: "2026-03-30T02:54:48.189Z"
+generated_at: "2026-11-23T20:26:14.798Z"
+status: "active"
 ---
 
 # § 5812. National Education Goals
@@ -70,3 +71,7 @@ The Congress declares that the National Education Goals are the following:
       - **(i)** every State will develop policies to assist local schools and local educational agencies to establish programs for increasing partnerships that respond to the varying needs of parents and the home, including parents of children who are disadvantaged or bilingual, or parents of children with disabilities;
       - **(ii)** every school will actively engage parents and families in a partnership which supports the academic work of children at home and shared educational decisionmaking at school; and
       - **(iii)** parents and families will help to ensure that schools are adequately supported and will hold schools and teachers to high standards of accountability.
+
+## Source Credit
+
+*([Pub. L. 103–227, title I, § 102](https://www.govinfo.gov/link/plaw/103/public/227), Mar. 31, 1994, [108 Stat. 130](https://www.govinfo.gov/link/statute/108/130).)*

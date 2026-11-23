@@ -3,9 +3,10 @@ title: "Section 3 - RTC and FDIC properties"
 usc_title: 12
 usc_section: "3"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 3"
-generated_at: "2026-03-30T02:53:53.393Z"
+generated_at: "2026-11-23T20:25:58.835Z"
+status: "active"
 ---
 
 # § 1441a–3. RTC and FDIC properties
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:53:53.393Z"
   - **(4)** The term “undeveloped” means—
     - **(A)** containing few manmade structures and having geomorphic and ecological processes that are not significantly impeded by any such structures or human activity; and
     - **(B)** having natural, cultural, recreational, or scientific value of special significance.
+
+## Source Credit
+
+*([Pub. L. 101–591, § 10](https://www.govinfo.gov/link/plaw/101/public/591), Nov. 16, 1990, [104 Stat. 2939](https://www.govinfo.gov/link/statute/104/2939); [Pub. L. 106–167, § 3(c)(5)](https://www.govinfo.gov/link/plaw/106/public/167), Dec. 9, 1999, [113 Stat. 1804](https://www.govinfo.gov/link/statute/113/1804).)*

@@ -3,9 +3,10 @@ title: "Section 8563 - Report and imposition of sanctions with respect to person
 usc_title: 22
 usc_section: "8563"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8563"
-generated_at: "2026-03-30T02:55:05.453Z"
+generated_at: "2026-11-23T20:26:32.721Z"
+status: "active"
 ---
 
 # § 8563. Report and imposition of sanctions with respect to persons who are responsible for or complicit in abuses toward dissidents on behalf of the Government of Iran
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:55:05.453Z"
       - **(ii)** A revocation under clause (i) shall—
         - **(I)** take effect immediately; and
         - **(II)** automatically cancel any other valid visa or entry documentation that is in the individual’s possession.
+
+## Source Credit
+
+*([Pub. L. 117–328, div. AA, title II, § 204](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5533](https://www.govinfo.gov/link/statute/136/5533).)*

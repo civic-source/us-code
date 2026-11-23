@@ -3,9 +3,10 @@ title: "Section 7419 - Enforcement"
 usc_title: 7
 usc_section: "7419"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7419"
-generated_at: "2026-03-30T02:53:42.451Z"
+generated_at: "2026-11-23T20:25:41.780Z"
+status: "active"
 ---
 
 # § 7419. Enforcement
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:42.451Z"
 - **(e)** A person who fails to obey a valid cease-and-desist order issued by the Secretary under this section, after an opportunity for a hearing, shall be subject to a civil penalty assessed by the Secretary of not less than $1,000 and not more than $10,000 for each offense. Each day during which the failure continues shall be considered to be a separate violation of the cease-and-desist order.
 - **(f)** If a person fails to pay a civil penalty imposed under this section by the Secretary, the Secretary shall refer the matter to the Attorney General for recovery of the amount assessed in the district court of the United States for any district in which the person resides or carries on business. In the action, the validity and appropriateness of the order imposing the civil penalty shall not be subject to review.
 - **(g)** The remedies provided in this section shall be in addition to, and not exclusive of, other remedies that may be available.
+
+## Source Credit
+
+*([Pub. L. 104–127, title V, § 520](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1045](https://www.govinfo.gov/link/statute/110/1045).)*

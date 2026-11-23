@@ -3,12 +3,17 @@ title: "Section 838h - Uniform schedules of rates and charges for sale of Federa
 usc_title: 16
 usc_section: "838h"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 838h"
-generated_at: "2026-03-30T02:54:22.928Z"
+generated_at: "2026-11-23T20:26:20.321Z"
+status: "active"
 ---
 
 # § 838h. Uniform schedules of rates and charges for sale of Federal power and transmission of non-Federal power; allocation of cost recovery
 
 The said schedules of rates and charges for transmission, the said schedules of rates and charges for the sale of electric power, or both such schedules, may provide, among other things, for uniform rates or rates uniform throughout prescribed transmission areas. The recovery of the cost of the Federal transmission system shall be equitably allocated between Federal and non-Federal power utilizing such system.
 
+
+## Source Credit
+
+*([Pub. L. 93–454, § 10](https://www.govinfo.gov/link/plaw/93/public/454), Oct. 18, 1974, [88 Stat. 1378](https://www.govinfo.gov/link/statute/88/1378).)*

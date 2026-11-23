@@ -3,9 +3,10 @@ title: "Section 4507 - Selection of fellowship recipients"
 usc_title: 20
 usc_section: "4507"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 4507"
-generated_at: "2026-03-30T02:54:48.185Z"
+generated_at: "2026-11-23T20:26:14.771Z"
+status: "active"
 ---
 
 # § 4507. Selection of fellowship recipients
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:48.185Z"
     - **(A)** Each application shall include a description of a program of study for the graduate program, designating the courses to be taken, and the proposed Master’s thesis, where appropriate.
     - **(B)** For the purpose of this paragraph, the Board of Trustees of the Foundation shall establish general criteria for programs in constitutional studies.
 - **(c)** The Foundation shall adopt selection procedures which shall assure that at least one Madison Fellow shall be selected each year from each State, the District of Columbia, and the Commonwealth of Puerto Rico, and considered as a single entity, Guam, the Virgin Islands, American Samoa, the Trust Territories of the Pacific Islands, and the Commonwealth of the Northern Marianas in which there are at least two resident applicants who meet the minimum criteria established by the Foundation; and, if sufficient funding is available, to invite applications from scholars overseas for study in the United States.
+
+## Source Credit
+
+*([Pub. L. 99–500, § 101(b) [title VIII, § 808]](https://www.govinfo.gov/link/plaw/99/public/500), Oct. 18, 1986, [100 Stat. 1783–39](https://www.govinfo.gov/link/statute/100/1783), 1783–78, and [Pub. L. 99–591, § 101(b) [title VIII, § 808]](https://www.govinfo.gov/link/plaw/99/public/591), Oct. 30, 1986, [100 Stat. 3341–39](https://www.govinfo.gov/link/statute/100/3341), 3341–78.)*

@@ -3,9 +3,10 @@ title: "Section 204 - Codes and Supplements as evidence of the laws of United St
 usc_title: 1
 usc_section: "204"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "1 U.S.C. § 204"
-generated_at: "2026-03-30T02:52:49.392Z"
+generated_at: "2026-11-23T20:25:27.177Z"
+status: "active"
 ---
 
 # § 204. Codes and Supplements as evidence of the laws of United States and District of Columbia; citation of Codes and Supplements
@@ -17,3 +18,7 @@ In all courts, tribunals, and public offices of the United States, at home or ab
 - **(c)** The Code of the District of Columbia may be cited as “D.C. Code”.
 - **(d)** Supplements to the Code of Laws of the United States and to the Code of the District of Columbia may be cited, respectively, as “U.S.C., Sup. ”, and “D.C. Code, Sup. ”, the blank in each case being filled with Roman figures denoting the number of the supplement.
 - **(e)** New editions of each of such codes may be cited, respectively, as “U.S.C., ed.”, and “D.C. Code, ed.”, the blank in each case being filled with figures denoting the last year the legislation of which is included in whole or in part.
+
+## Source Credit
+
+*(July 30, 1947, ch. 388, [61 Stat. 638](https://www.govinfo.gov/link/statute/61/638).)*
